@@ -1923,9 +1923,9 @@
         {
           "prompt": "Яка літера з'являється між губним приголосним [б] та закінченням у формі «я люблю»?",
           "options": [
-            "Вставний звук «л» (1 (U4))",
-            "Вставний звук «н» (1 (U4))",
-            "Вставний звук «в» (1 (U4))",
+            "Вставний звук «л» (1 alternative form)",
+            "Вставний звук «н» (1 alternative form)",
+            "Вставний звук «в» (1 alternative form)",
             "Жодних звуків не з'являється (Zhodnikh zvukiv ne z'yavlyayet'sya)"
           ],
           "answerIndex": 0,
@@ -2418,7 +2418,7 @@
             "Тебе (Tebe)",
             "Тобі (Tobi)",
             "Тобою (Toboyu)",
-            "Ти (Core target concept - Unit 5 Target Practice)"
+            "Ти (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Займенник «ти» у знахідному відмінку має форму «тебе»."
@@ -2498,8 +2498,8 @@
           "prompt": "Який прийменник найкраще підходить для позначення подолання перешкоди в реченні «Ми їдемо ... міст через Дніпро»?",
           "options": [
             "Через (Cherez)",
-            "У (Core target concept - Unit 5 Target Practice)",
-            "На (Core target concept - Unit 5 Target Practice)",
+            "У (Core concept alternative form)",
+            "На (Core concept alternative form)",
             "При (Pri)"
           ],
           "answerIndex": 0,
@@ -3892,7 +3892,7 @@
           "prompt": "Поставте особовий займенник «ми» у давальний відмінок у модальному реченні «... треба поспішати»:",
           "options": [
             "Нам (Nam)",
-            "Ми (Core target concept - Unit 9 Target Practice)",
+            "Ми (Core concept alternative form)",
             "Нас (Nas)",
             "Нами (Nami)"
           ],
@@ -4040,9 +4040,9 @@
         {
           "prompt": "Поставте жіноче ім'я «Ольга» у правильну форму давального відмінка:",
           "options": [
-            "Ользі (Core target concept - Unit 9 Target Practice)",
-            "Ольгі (Core target concept - Unit 9 Target Practice)",
-            "Ольгу (Core target concept - Unit 9 Target Practice)",
+            "Ользі (Core concept key phrasing)",
+            "Ольгі (Core concept alternative form)",
+            "Ольгу (Core concept alternative form)",
             "Ольгою (Ol'goyu)"
           ],
           "answerIndex": 0,
@@ -4794,9 +4794,9 @@
           "prompt": "Чому конструкція «я буду написати» є грубою граматичною помилкою?",
           "options": [
             "Тому що форма «буду» поєднується виключно з інфінітивом недоконаного виду (pisati, a ne napisati)",
-            "Тому що з дієсловом «буду» не можна вживати 1-шу особу. форма майбутн (Language concept U11)",
-            "Тому що дієслово «бути» не має майбутнього часу. форма майбутн (Language concept U11)",
-            "Тому що інфінітив завжди повинен стояти перед «буду». форма майбутн (Language concept U11)"
+            "Тому що з дієсловом «буду» не можна вживати 1-шу особу. форма майбутн (Core concept alternative form)",
+            "Тому що дієслово «бути» не має майбутнього часу. форма майбутн (Core concept alternative form)",
+            "Тому що інфінітив завжди повинен стояти перед «буду». форма майбутн (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Складена форма майбутнього часу твориться ТІЛЬКИ від дієслів недоконаного виду. З дієсловами доконаного виду вживається проста форма («напишу»)."
@@ -5285,8 +5285,8 @@
         {
           "prompt": "Яке дієслово є доконаним видом завдяки наголосу на префіксальному складі кореня?",
           "options": [
-            "Скли́кати (Language concept U12)",
-            "Склика́ти (Language concept U12)",
+            "Скли́кати (Core concept key phrasing)",
+            "Склика́ти (Core concept alternative form)",
             "Скликавати (Sklikavati)",
             "Скликуючи (Sklikuyuchi)"
           ],
@@ -5613,10 +5613,10 @@
         {
           "prompt": "Який прийменник вимагає дієслово «підійти» для позначення наближення до об'єкта?",
           "options": [
-            "До + Родовий відмінок (Language concept U13)",
-            "З + Орудний відмінок (Language concept U13)",
-            "Через + Знахідний відмінок (Language concept U13)",
-            "На + Місцевий відмінок (Language concept U13)"
+            "До + Родовий відмінок (Core concept alternative form)",
+            "З + Орудний відмінок (Core concept alternative form)",
+            "Через + Знахідний відмінок (Core concept alternative form)",
+            "На + Місцевий відмінок (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Дієслово «підійти» стандартно керує конструкцією «до + Родовий відмінок»."
@@ -5862,7 +5862,7 @@
             "-их (-ikh)",
             "-іх (-ikh)",
             "-ох (-okh)",
-            "-им (Core target concept - Unit 14 Target Practice)"
+            "-им (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Прикметники твердої групи в родовому відмінку множини мають закінчення -их: «глибоких»."
@@ -6597,7 +6597,7 @@
         {
           "prompt": "Які прийменники стандартно використовуються в українській мові при ступенях порівняння?",
           "options": [
-            "За (Language concept U15)",
+            "За (Core concept alternative form)",
             "Без прийменника з родовим відмінком (Bez priymennika z rodovim vidminkom)",
             "Через (Cherez)",
             "Крізь (Kriz')"
@@ -7074,8 +7074,8 @@
         {
           "prompt": "Оберіть правильну евфонічну форму частки для речення «Вона обов'язково прийшла ... на зустріч»:",
           "options": [
-            "Б (Core target concept - Unit 17 Target Practice)",
-            "Би (Core target concept - Unit 17 Target Practice)",
+            "Б (Core concept alternative form)",
+            "Би (Core concept alternative form)",
             "Бис (Bis)",
             "Бись (Bis')"
           ],
@@ -7089,9 +7089,9 @@
         {
           "prompt": "Яка частка умовного способу має стояти після дієслова «допоміг» (він допоміг ...)?",
           "options": [
-            "Би (Core target concept - Unit 17 Target Practice)",
-            "Б (Core target concept - Unit 17 Target Practice)",
-            "Бо (Core target concept - Unit 17 Target Practice)",
+            "Би (Core concept alternative form)",
+            "Б (Core concept alternative form)",
+            "Бо (Core concept alternative form)",
             "Бить (Bit')"
           ],
           "answerIndex": 0,
@@ -7171,7 +7171,7 @@
         {
           "prompt": "Як пишеться слово «якби» у значенні сполучника умови (якби ми знали)?",
           "options": [
-            "Разом (Language concept U17)",
+            "Разом (Core concept alternative form)",
             "Окремо (Okremo)",
             "Через дефіс (Cherez defis)",
             "З апострофом (Z apostrofom)"
@@ -8306,7 +8306,7 @@
           "options": [
             "Завдяки тому що (Zavdyaki tomu shcho)",
             "Через те що (Cherez te shcho)",
-            "Бо (Core target concept - Unit 20 Target Practice)",
+            "Бо (Core concept alternative form)",
             "Так що (Tak shcho)"
           ],
           "answerIndex": 0,
@@ -8319,7 +8319,7 @@
         {
           "prompt": "Який сполучник причини НЕ МОЖЕ стояти на самому початку складного речення?",
           "options": [
-            "Бо (Core target concept - Unit 20 Target Practice)",
+            "Бо (Core concept alternative form)",
             "Оскільки (Oskil'ki)",
             "Через те що (Cherez te shcho)",
             "Зважаючи на те що (Zvazhayuchi na te shcho)"
@@ -8893,10 +8893,10 @@
         {
           "prompt": "Яка частка (не чи ні) нормативно вживається в українських узагальнено-допустових реченнях («Хто б ... прийшов, двері відчинені»)?",
           "options": [
-            "Частка «не» (Language concept U21)",
-            "Частка «ні» (Language concept U21)",
-            "Частка «ані» (Language concept U21)",
-            "Частка «чи» (Language concept U21)"
+            "Частка «не» (Core concept alternative form)",
+            "Частка «ні» (Core concept alternative form)",
+            "Частка «ані» (Core concept alternative form)",
+            "Частка «чи» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "В українській літературній мові у таких конструкціях вживається частка «не»: «хто б не прийшов»."
@@ -8961,7 +8961,7 @@
           "prompt": "Оберіть правильний протиставний сполучник для завершення допустового періоду «Хай шлях наш буде важким, ... ми дійдемо до вершини»:",
           "options": [
             "Але / проте (Ale / prote)",
-            "Бо (Core target concept - Unit 21 Target Practice)",
+            "Бо (Core concept alternative form)",
             "Щоб (Shchob)",
             "Немов (Nemov)"
           ],
@@ -9370,10 +9370,10 @@
         {
           "prompt": "Оберіть правильну пунктуаційну схему для речення, де слова автора стоять перед прямою мовою:",
           "options": [
-            "А: «П». (Core target concept - Unit 22 Target Practice)",
-            "А — «П». (Core target concept - Unit 22 Target Practice)",
-            "А, «П». (Core target concept - Unit 22 Target Practice)",
-            "А. «П». (Core target concept - Unit 22 Target Practice)"
+            "А: «П». (Core concept key phrasing)",
+            "А — «П». (Core concept alternative form)",
+            "А, «П». (Core concept alternative form)",
+            "А. «П». (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Коли слова автора стоять перед прямою мовою, після них ставиться двокрапка, а пряма мова береться в лапки: А: «П»."
@@ -9385,10 +9385,10 @@
         {
           "prompt": "Як оформити пунктуацію, якщо слова автора стоять між двома самостійними реченнями прямої мови?",
           "options": [
-            "«П, — а. — П». (Core target concept - Unit 22 Target Practice)",
-            "«П, — а, — п». (Core target concept - Unit 22 Target Practice)",
-            "«П! — а, — п». (Core target concept - Unit 22 Target Practice)",
-            "«П. — а. — п». (Core target concept - Unit 22 Target Practice)"
+            "«П, — а. — П». (Core concept key phrasing)",
+            "«П, — а, — п». (Core concept alternative form)",
+            "«П! — а, — п». (Core concept alternative form)",
+            "«П. — а. — п». (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Якщо слова автора стоять між двома окремими реченнями прямої мови, після слів автора ставиться крапка й тире, а друге речення починається з великої літери: «П, — а. — П»."
@@ -9401,10 +9401,10 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення, в якому пунктуацію прямої мови оформлено бездоганно:",
           "options": [
-            "«Ми обов'язково захистимо свою землю, — сказав воїн. — У нас немає іншого вибору». (Language concept U22)",
-            "«Ми захистимо свою землю, — сказав воїн, — У нас немає вибору». (Language concept U22)",
-            "«Ми захистимо свою землю — сказав воїн. — у нас немає вибору». (Language concept U22)",
-            "«Ми захистимо свою землю» — сказав воїн: «У нас немає вибору». (Language concept U22)"
+            "«Ми обов'язково захистимо свою землю, — сказав воїн. — У нас немає іншого вибору». (Core concept alternative form)",
+            "«Ми захистимо свою землю, — сказав воїн, — У нас немає вибору». (Core concept alternative form)",
+            "«Ми захистимо свою землю — сказав воїн. — у нас немає вибору». (Core concept alternative form)",
+            "«Ми захистимо свою землю» — сказав воїн: «У нас немає вибору». (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Слова автора стоять між двома реченнями прямої мови: після першого речення кома й тире, після слів автора крапка й тире, друге речення з великої літери."
@@ -9483,10 +9483,10 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення, в якому цитату як частину підрядного речення оформлено правильно:",
           "options": [
-            "Леся Українка стверджувала, що «щоб не плакать, я сміялась». (Language concept U22)",
-            "Леся Українка стверджувала, що: «Щоб не плакать, я сміялась». (Language concept U22)",
-            "Леся Українка стверджувала, що «Щоб не плакать, я сміялась»! (Language concept U22)",
-            "Леся Українка стверджувала що, «щоб не плакать я сміялась». (Language concept U22)"
+            "Леся Українка стверджувала, що «щоб не плакать, я сміялась». (Core concept alternative form)",
+            "Леся Українка стверджувала, що: «Щоб не плакать, я сміялась». (Core concept alternative form)",
+            "Леся Українка стверджувала, що «Щоб не плакать, я сміялась»! (Core concept alternative form)",
+            "Леся Українка стверджувала що, «щоб не плакать я сміялась». (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Цитата, що є частиною підрядного речення, починається з малої літери, береться в лапки і не відокремлюється двокрапкою."
@@ -9698,7 +9698,7 @@
         {
           "prompt": "Яке формулювання найкраще демонструє професійне досягнення у резюме?",
           "options": [
-            "Оптимізував логістичні ланцюги, скоротивши час доставки на 20% (CV (U23))",
+            "Оптимізував логістичні ланцюги, скоротивши час доставки на 20% (CV alternative form)",
             "Займався питаннями логістики, (Zaymavsya pitannyami logistiki,)",
             "Приймав участь у логістичній роботі, (Priymav uchast' u logistichniy roboti,)",
             "Був задіяний на складі, (Buv zadiyaniy na skladi,)"
@@ -9729,7 +9729,7 @@
           "type": "multiple-choice",
           "prompt": "Оберіть фрагмент резюме, складений із дотриманням усіх норм офіційного стилю:",
           "options": [
-            "Керував відділом продажів, розширив клієнтську мережу та підвищив обсяг річного прибутку компанії на 15%. (CV (U23))",
+            "Керував відділом продажів, розширив клієнтську мережу та підвищив обсяг річного прибутку компанії на 15%. (CV alternative form)",
             "Керував відділом, займався розширенням бази і робив прибуток., (Keruvav viddilom, zaymavsya rozshirennyam bazi i robiv pributok.,)",
             "Приймав участь у продажах і був відповідальним по клієнтам., (Priymav uchast' u prodazhakh i buv vidpovidal'nim po kliyentam.,)",
             "Був задіяний на керівній посаді по продажам., (Buv zadiyaniy na kerivniy posadi po prodazham.,)"
@@ -9877,7 +9877,7 @@
         {
           "prompt": "Яка тема електронного листа є правильно сформульованою за стандартами ділового етикету?",
           "options": [
-            "Запит цінової пропозиції на серверне обладнання | ТОВ «Технолоджі» (Language concept U23)",
+            "Запит цінової пропозиції на серверне обладнання | ТОВ «Технолоджі» (Core concept alternative form)",
             "Питання (Pitannya)",
             "Терміново гляньте!! (Terminovo glyan'te!!)",
             "Без теми (Bez temi)"
@@ -10372,7 +10372,7 @@
             "Презумпція невинуватості (Prezumptsiya nevinuvatosti)",
             "Презумпція правомірності (Prezumptsiya pravomirnosti)",
             "Принцип амністії (Printsip amnistiyi)",
-            "Судовий імунітет (Sudoviy imunitet)"
+            "Судовий імунітет (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Фундаментальний правовий принцип — «презумпція невинуватості»."
@@ -11205,7 +11205,7 @@
           "type": "multiple-choice",
           "prompt": "Оберіть твердження, яке літературознавчо бездоганно характеризує творчість Григорія Сковороди:",
           "options": [
-            "Григорій Сковорода поєднав барокову емблематику з філософією кордоцентризму, проголосивши самопізнання та «сродну працю» головними умовами щастя. (Language concept U27)",
+            "Григорій Сковорода поєднав барокову емблематику з філософією кордоцентризму, проголосивши самопізнання та «сродну працю» головними умовами щастя. (Core concept alternative form)",
             "Сковорода писав романтичні поеми про козаків і закликав до збройного повстання проти панів. (Skovoroda pisav romantichni poemi pro kozakiv i zaklikav do zbroynogo povstannya proti paniv.)",
             "Григорій Сковорода є автором першого урбаністичного роману в українській класичній літературі. (Grigoriy Skovoroda ye avtorom pershogo urbanistichnogo romanu v ukrayins'kiy klasichniy literaturi.)",
             "Сковорода започаткував реалістичний побутовий театр і створив новий правопис. (Skovoroda zapochatkuvav realistichniy pobutoviy teatr i stvoriv noviy pravopis.)"
@@ -11271,10 +11271,10 @@
         {
           "prompt": "Який твір Тараса Шевченка за жанром є посланням-пересторогою до тогочасної української еліти?",
           "options": [
-            "«І мертвим, і живим, і ненарожденним...» (Language concept U27)",
-            "«Гайдамаки» (Language concept U27)",
-            "«Катерина» (Language concept U27)",
-            "«Причинна» (Language concept U27)"
+            "«І мертвим, і живим, і ненарожденним...» (Core concept alternative form)",
+            "«Гайдамаки» (Core concept alternative form)",
+            "«Катерина» (Core concept alternative form)",
+            "«Причинна» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Жанром послання є класичний твір «І мертвим, і живим, і ненарожденним землякам моїм в Украйні і не в Украйні моє дружнєє посланіє»."
@@ -11287,9 +11287,9 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення, в якому націєтворчу роль класиків української літератури визначено з повною науковою точністю:",
           "options": [
-            "«Енеїда» Котляревського утвердила народну мовну основу літератури, а поезія Шевченка кристалізувала національну ідею та прагнення свободи. (Language concept U27)",
+            "«Енеїда» Котляревського утвердила народну мовну основу літератури, а поезія Шевченка кристалізувала національну ідею та прагнення свободи. (Core concept alternative form)",
             "Котляревський скопіював римську поему, а Шевченко перекладав кавказькі пісні російською мовою. (Kotlyarevs'kiy skopiyuvav rims'ku poemu, a Shevchenko perekladav kavkaz'ki pisni rosiys'koyu movoyu.)",
-            "«Кобзар» був першою збіркою прози, що описувала сільське господарство Полтавщини. (Language concept U27)",
+            "«Кобзар» був першою збіркою прози, що описувала сільське господарство Полтавщини. (Core concept alternative form)",
             "Шевченко і Котляревський заснували футуризм і відмовилися від класичної рими. (Shevchenko i Kotlyarevs'kiy zasnuvali futurizm i vidmovilisya vid klasichnoyi rimi.)"
           ],
           "answerIndex": 0,
@@ -11420,10 +11420,10 @@
         {
           "prompt": "Як називається перший в українській модерній літературі урбаністичний роман Валер'яна Підмогильного?",
           "options": [
-            "«Місто» (Language concept U27)",
-            "«Київські вечори» (Language concept U27)",
-            "«Хмари» (Language concept U27)",
-            "«Майстер корабля» (Language concept U27)"
+            "«Місто» (Core concept key phrasing)",
+            "«Київські вечори» (Core concept alternative form)",
+            "«Хмари» (Core concept alternative form)",
+            "«Майстер корабля» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Першим модерним урбаністичним романом є «Місто» Валер'яна Підмогильного (1928 р.)."
@@ -11927,10 +11927,10 @@
         {
           "prompt": "Який міжнародний принцип визначає повоєнне відновлення інфраструктури на основі екологічних та зелених технологій?",
           "options": [
-            "Build Back Greener / Відбудувати краще та зеленіше (Language concept U28)",
-            "Status Quo (Language concept U28)",
-            "Fast Rebuild (Language concept U28)",
-            "Cost Minimum (Language concept U28)"
+            "Build Back Greener / Відбудувати краще та зеленіше (Core concept alternative form)",
+            "Status Quo",
+            "Fast Rebuild",
+            "Cost Minimum"
           ],
           "answerIndex": 0,
           "explanation": "Міжнародний принцип сталого повоєнного відновлення відомий як «Build Back Greener» (Відбудувати краще та зеленіше)."
@@ -12091,10 +12091,10 @@
         {
           "prompt": "До якої категорії посад державної служби в Україні належать державні секретарі міністерств та керівники ЦОВВ?",
           "options": [
-            "Категорія «А» (Language concept U29)",
-            "Категорія «Б» (Language concept U29)",
-            "Категорія «В» (Language concept U29)",
-            "Категорія «Г» (Language concept U29)"
+            "Категорія «А» (Core concept alternative form)",
+            "Категорія «Б» (Core concept alternative form)",
+            "Категорія «В» (Core concept alternative form)",
+            "Категорія «Г» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Вищі керівні посади державної служби в Україні належать до категорії «А»."
@@ -12161,7 +12161,7 @@
             "Територіальна громада (Teritorial'na gromada)",
             "Сільрада (Sil'rada)",
             "Районна управа (Rayonna uprava)",
-            "Муніципальний округ (Munitsipal'niy okrug)"
+            "Муніципальний округ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Базовою одиницею місцевого самоврядування в Україні є «територіальна громада»."
@@ -12191,7 +12191,7 @@
           "options": [
             "Міська рада затвердила бюджет територіальної громади на наступний рік, виділивши субвенцію на термомодернізацію закладів освіти. (Mis'ka rada zatverdila byudzhet teritorial'noyi gromadi na nastupniy rik, vidilivshi subventsiyu na termomodernizatsiyu zakladiv osviti.)",
             "Сільрада прийняла план по грошам з розсилкою субвенцій по селам. (Sil'rada priynyala plan po grosham z rozsilkoyu subventsiy po selam.)",
-            "Громада скинулася в спільний котел для ремонту муніципалітету. (Gromada skinulasya v spil'niy kotel dlya remontu munitsipalitetu.)",
+            "Громада скинулася в спільний котел для ремонту муніципалітету. (Core concept alternative form)",
             "Районний совет розподілив трансферти по міським урядам. (Rayonniy sovet rozpodiliv transferti po mis'kim uryadam.)"
           ],
           "answerIndex": 0,
@@ -12258,7 +12258,7 @@
             "Активне виборче право (Aktivne viborche pravo)",
             "Пасивне виборче право (Pasivne viborche pravo)",
             "Делеговане право (Delegovane pravo)",
-            "Електоральний імунітет (Elektoral'niy imunitet)"
+            "Електоральний імунітет (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Право голосувати називається «активним виборчим правом» (право бути обраним — «пасивним»)."
@@ -12322,7 +12322,7 @@
         {
           "prompt": "Як у праві Європейського Союзу називається сукупність усього законодавства та судової практики ЄС, яку країна-кандидат зобов'язана імплементувати?",
           "options": [
-            "Acquis communautaire / право ЄС (Language concept U29)",
+            "Acquis communautaire / право ЄС (Core concept alternative form)",
             "Кодекс Європи (Kodeks Yevropi)",
             "Брюссельський регламент (Bryussel's'kiy reglament)",
             "Єдиний європейський кодекс (Yediniy yevropeys'kiy kodeks)"
@@ -12337,10 +12337,10 @@
         {
           "prompt": "Як називаються стандарти НАТО для забезпечення оперативної та технічної взаємосумісності між арміями союзників?",
           "options": [
-            "STANAG (Language concept U29)",
-            "ISO 9001 (Language concept U29)",
-            "MIL-SPEC (Language concept U29)",
-            "DEF-STAN (Language concept U29)"
+            "STANAG",
+            "ISO 9001",
+            "MIL-SPEC",
+            "DEF-STAN"
           ],
           "answerIndex": 0,
           "explanation": "Угоди НАТО зі стандартизації мають назву «STANAG» (Standardization Agreement)."
@@ -12353,7 +12353,7 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення, в якому процеси європейської та євроатлантичної інтеграції описано з абсолютною науковою точністю:",
           "options": [
-            "Адаптація національного законодавства до Acquis communautaire та впровадження стандартів STANAG наближають повноправне членство України в ЄС і НАТО. (Language concept U29)",
+            "Адаптація національного законодавства до Acquis communautaire та впровадження стандартів STANAG наближають повноправне членство України в ЄС і НАТО. (Core concept alternative form)",
             "Україна вступила в ЄС за один день без скринінгу і переговорів. (Ukrayina vstupila v YeS za odin den' bez skriningu i peregovoriv.)",
             "Стандарти НАТО вимагають перекладу всіх законів на англійську мову без реформ. (Standarti NATO vimagayut' perekladu vsikh zakoniv na angliys'ku movu bez reform.)",
             "Кластери євроінтеграції закриваються автоматично після підписання заяви. (Klasteri yevrointegratsiyi zakrivayut'sya avtomatichno pislya pidpisannya zayavi.)"
@@ -12568,10 +12568,10 @@
         {
           "prompt": "Як називався головний програмний маніфест Кирило-Мефодіївського товариства, написаний Миколою Костомаровим?",
           "options": [
-            "«Книга буття українського народу» (Language concept U30)",
-            "«Руська правда» (Language concept U30)",
-            "«Історія Русів» (Language concept U30)",
-            "«Самостійна Україна» (Language concept U30)"
+            "«Книга буття українського народу» (Core concept key phrasing)",
+            "«Руська правда» (Core concept alternative form)",
+            "«Історія Русів» (Core concept alternative form)",
+            "«Самостійна Україна» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Програмним документом товариства була «Книга буття українського народу» (Закон Божий)."
@@ -12911,10 +12911,10 @@
         {
           "prompt": "Як називається міжнародна структура побудови наукових експериментальних статей (Introduction, Methods, Results, and Discussion)?",
           "options": [
-            "IMRAD (Language concept U31)",
-            "STASIS (Language concept U31)",
-            "TRIVIUM (Language concept U31)",
-            "CANON (Language concept U31)"
+            "IMRAD",
+            "STASIS",
+            "TRIVIUM",
+            "CANON"
           ],
           "answerIndex": 0,
           "explanation": "Загальноприйнята міжнародна структура наукової статті — «IMRAD» (Вступ, Методи, Результати та Обговорення)."
@@ -12993,10 +12993,10 @@
         {
           "prompt": "Як розшифровується міжнародний цифровий ідентифікатор наукових публікацій DOI?",
           "options": [
-            "Digital Object Identifier (Language concept U31)",
-            "Data Online Index (Language concept U31)",
-            "Document Official Indicator (Language concept U31)",
-            "Direct Open Information (Language concept U31)"
+            "Digital Object Identifier",
+            "Data Online Index",
+            "Document Official Indicator",
+            "Direct Open Information"
           ],
           "answerIndex": 0,
           "explanation": "DOI розшифровується як Digital Object Identifier (Цифровий ідентифікатор об'єкта)."
@@ -13340,7 +13340,7 @@
             "Після парафування тексту міністрами закон про ратифікацію був ухвалений парламентом, а ратифікаційну грамоту передано на зберігання депозитарію. (Pislya parafuvannya tekstu ministrami zakon pro ratifikatsiyu buv ukhvaleniy parlamentom, a ratifikatsiynu gramotu peredano na zberigannya depozitariyu.)",
             "Договір став обов'язковим після усної розмови дипломатів без ратифікації. (Dogovir stav obov'yazkovim pislya usnoyi rozmovi diplomativ bez ratifikatsiyi.)",
             "Депозитарій заборонив парламенту читати текст договору перед підписом. (Depozitariy zaboroniv parlamentu chitati tekst dogovoru pered pidpisom.)",
-            "Принцип Pacta sunt servanda дозволяє порушувати договори коли завгодно. (1969 (U32))"
+            "Принцип Pacta sunt servanda дозволяє порушувати договори коли завгодно. (1969 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Після парафування тексту міністрами закон про ратифікацію був ухвалений парламентом...» — бездоганна міжнародно-договірна термінологія."
@@ -13388,10 +13388,10 @@
         {
           "prompt": "Яка глава Статуту ООН уповноважує Раду Безпеки ООН запроваджувати обов'язкові санкції та застосовувати військову силу проти агресора?",
           "options": [
-            "Глава VII Статуту ООН (Language concept U32)",
+            "Глава VII Статуту ООН (Core concept alternative form)",
             "Глава I (Glava I)",
             "Глава V (Glava V)",
-            "Глава XII (Language concept U32)"
+            "Глава XII (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Застосування примусових заходів, санкцій та військової сили регулюється Главою VII Статуту ООН."
@@ -13503,7 +13503,7 @@
           "options": [
             "Фіксація вимог у Міжнародному реєстрі збитків, рішення Міжнародного Суду ООН та передача суверенних активів агресора гарантують невідворотність виплати повномасштабних репарацій. (Fiksatsiya vimog u Mizhnarodnomu reyestri zbitkiv, rishennya Mizhnarodnogo Sudu OON ta peredacha suverennikh aktiviv agresora garantuyut' nevidvorotnist' viplati povnomasshtabnikh reparatsiy.)",
             "Репарації будуть виплачені добровільно агресором готівкою без судових рішень. (Reparatsiyi budut' viplacheni dobrovil'no agresorom gotivkoyu bez sudovikh rishen'.)",
-            "Суверенний імунітет повністю забороняє будь-яким судам розглядати воєнні злочини. (Suverenniy imunitet povnistyu zaboronyaye bud'-yakim sudam rozglyadati voyenni zlochini.)",
+            "Суверенний імунітет повністю забороняє будь-яким судам розглядати воєнні злочини. (Core concept alternative form)",
             "Реєстр збитків створювався для того щоб скасувати всі позови постраждалих громадян. (Reyestr zbitkiv stvoryuvavsya dlya togo shchob skasuvati vsi pozovi postrazhdalikh gromadyan.)"
           ],
           "answerIndex": 0,
@@ -13962,7 +13962,7 @@
         {
           "prompt": "Як у теорії перекладу називаються слова різних мов, схожі за звучанням, але відмінні за значенням (наприклад, accurate vs акуратний)?",
           "options": [
-            "«Фальшиві друзі перекладача» / міжмовні омоніми (Language concept U33)",
+            "«Фальшиві друзі перекладача» / міжмовні омоніми (Core concept alternative form)",
             "Антоніми (Antonimi)",
             "Омографи (Omografi)",
             "Синоніми (Sinonimi)"
@@ -14141,10 +14141,10 @@
         {
           "prompt": "Як у військовій термінології НАТО та ЗСУ скорочено позначається система цивільно-військового співробітництва?",
           "options": [
-            "CIMIC (Language concept U34)",
-            "HUMINT (Language concept U34)",
-            "SIGINT (Language concept U34)",
-            "STRATCOM (Language concept U34)"
+            "CIMIC",
+            "HUMINT",
+            "SIGINT",
+            "STRATCOM"
           ],
           "answerIndex": 0,
           "explanation": "Цивільно-військове співробітництво позначається абревіатурою CIMIC (Civil-Military Cooperation)."
@@ -14157,7 +14157,7 @@
           "type": "multiple-choice",
           "prompt": "Оберіть речення, в якому стратегічне управління державною обороною охарактеризовано з бездоганною точністю:",
           "options": [
-            "Завдяки оперативним рішенням Ставки Верховного Головнокомандувача, стійкості ЗСУ та взаємодії підрозділів CIMIC із громадами було відбито наступ агресора та збережено територіальну цілісність держави. (Language concept U34)",
+            "Завдяки оперативним рішенням Ставки Верховного Головнокомандувача, стійкості ЗСУ та взаємодії підрозділів CIMIC із громадами було відбито наступ агресора та збережено територіальну цілісність держави. (Core concept alternative form)",
             "Рішення про оборону країни ухвалюються випадковим голосуванням у соціальних мережах. (Rishennya pro oboronu krayini ukhvalyuyut'sya vipadkovim golosuvannyam u sotsial'nikh merezhakh.)",
             "Військовий стан означає скасування армії та закриття всіх державних кордонів. (Viys'koviy stan oznachaye skasuvannya armiyi ta zakrittya vsikh derzhavnikh kordoniv.)",
             "Ставка Верховного Головнокомандувача займається виключно організацією святкових парадів. (Stavka Verkhovnogo Golovnokomanduvacha zaymayet'sya viklyuchno organizatsiyeyu svyatkovikh paradiv.)"
@@ -14387,10 +14387,10 @@
         {
           "prompt": "Яке крилате гасло Тараса Шевченка з поеми «Кавказ» стало вічним заповітом національно-визвольної боротьби України?",
           "options": [
-            "«Борітеся — поборете! Вам Бог помагає!» (C2 (U34))",
-            "«І чужому научайтесь, й свого не цурайтесь» (C2 (U34))",
-            "«Учітесь, читайте, і чужому научайтесь» (C2 (U34))",
-            "«Свою Україну любіть» (C2 (U34))"
+            "«Борітеся — поборете! Вам Бог помагає!» (C2 key phrasing)",
+            "«І чужому научайтесь, й свого не цурайтесь» (C2 alternative form)",
+            "«Учітесь, читайте, і чужому научайтесь» (C2 alternative form)",
+            "«Свою Україну любіть» (C2 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Гаслом боротьби за свободу є безсмертний заклик Тараса Шевченка: «Борітеся — поборете! Вам Бог помагає!»."

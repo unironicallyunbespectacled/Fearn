@@ -168,10 +168,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger rests on the D key?",
           "options": [
-            "Left index (Place fingers correctly on the home row and type ASDF and JKL (U1))",
-            "Left middle (Place fingers correctly on the home row and type ASDF and JKL (U1))",
-            "Left ring (Place fingers correctly on the home row and type ASDF and JKL (U1))",
-            "Left pinky (Place fingers correctly on the home row and type ASDF and JKL (U1))"
+            "Left index (Place fingers correctly on the home row and type ASDF and JKL)",
+            "Left middle (Place fingers correctly on the home row and type ASDF and JKL)",
+            "Left ring (Place fingers correctly on the home row and type ASDF and JKL)",
+            "Left pinky (Place fingers correctly on the home row and type ASDF and JKL)"
           ],
           "answer": "Left middle",
           "difficulty": 500,
@@ -182,10 +182,10 @@
           "type": "multiple-choice",
           "prompt": "What are the F and J bumps for?",
           "options": [
-            "Decoration (Place fingers correctly on the home row and type ASDF and JKL (U1))",
-            "Letting your fingers find home row by feel, without looking down (Place fingers correctly on the home row and type ASDF and JKL (U1))",
-            "Marking which hand types faster (Place fingers correctly on the home row and type ASDF and JKL (U1))",
-            "Nothing, they are a manufacturing accident (Place fingers correctly on the home row and type ASDF and JKL (U1))"
+            "Decoration (Place fingers correctly on the home row and type ASDF and JKL)",
+            "Letting your fingers find home row by feel, without looking down (Place fingers correctly on the home row and type ASDF and JKL)",
+            "Marking which hand types faster (Place fingers correctly on the home row and type ASDF and JKL)",
+            "Nothing, they are a manufacturing accident (Place fingers correctly on the home row and type ASDF and JKL)"
           ],
           "answer": "Letting your fingers find home row by feel, without looking down",
           "difficulty": 500,
@@ -247,10 +247,10 @@
           "type": "multiple-choice",
           "prompt": "Which of these is a real English word typeable using only home-row letters A S D F J K L?",
           "options": [
-            "alfalfa (Type short homerowonly words with correct fingertokey mapping (U1))",
-            "bread (Type short homerowonly words with correct fingertokey mapping (U1))",
-            "yellow (Type short homerowonly words with correct fingertokey mapping (U1))",
-            "quick (Type short homerowonly words with correct fingertokey mapping (U1))"
+            "alfalfa (Type short homerowonly words with correct fingertokey mapping)",
+            "bread (Type short homerowonly words with correct fingertokey mapping)",
+            "yellow (Type short homerowonly words with correct fingertokey mapping)",
+            "quick (Type short homerowonly words with correct fingertokey mapping)"
           ],
           "answer": "alfalfa",
           "difficulty": 510,
@@ -298,10 +298,10 @@
           "type": "multiple-choice",
           "prompt": "Which typing habit costs more overall time: a steady, unbroken pace with occasional small errors, or a fast-stop-fix-fast rhythm?",
           "options": [
-            "The fast-stop-fix rhythm is always faster (Build homerow muscle memory to 15 WPM with under 5 percent error rate (U1))",
-            "A steady, unbroken pace, because pauses and corrections cost more time than they save (Build homerow muscle memory to 15 WPM with under 5 percent error rate (U1))",
-            "Speed and rhythm make no difference to total time (Build homerow muscle memory to 15 WPM with under 5 percent error rate (U1))",
-            "Looking at the keyboard is always faster regardless of rhythm (Build homerow muscle memory to 15 WPM with under 5 percent error rate (U1))"
+            "The fast-stop-fix rhythm is always faster (Build homerow muscle memory to 15 WPM with under 5 percent error rate)",
+            "A steady, unbroken pace, because pauses and corrections cost more time than they save (Build homerow muscle memory to 15 WPM with under 5 percent error rate)",
+            "Speed and rhythm make no difference to total time (Build homerow muscle memory to 15 WPM with under 5 percent error rate)",
+            "Looking at the keyboard is always faster regardless of rhythm (Build homerow muscle memory to 15 WPM with under 5 percent error rate)"
           ],
           "answer": "A steady, unbroken pace, because pauses and corrections cost more time than they save",
           "difficulty": 520,
@@ -319,10 +319,10 @@
           "type": "multiple-choice",
           "prompt": "What should you do if you notice you've mistyped a letter in the middle of a word?",
           "options": [
-            "Stop immediately and fix that one letter before continuing (Build homerow muscle memory to 15 WPM with under 5 percent error rate (U1))",
-            "Restart the whole passage from the beginning (Build homerow muscle memory to 15 WPM with under 5 percent error rate (U1))",
-            "Finish typing the word, then correct it (Build homerow muscle memory to 15 WPM with under 5 percent error rate (U1))",
-            "Ignore it forever (Build homerow muscle memory to 15 WPM with under 5 percent error rate (U1))"
+            "Stop immediately and fix that one letter before continuing (Build homerow muscle memory to 15 WPM with under 5 percent error rate)",
+            "Restart the whole passage from the beginning (Build homerow muscle memory to 15 WPM with under 5 percent error rate)",
+            "Finish typing the word, then correct it (Build homerow muscle memory to 15 WPM with under 5 percent error rate)",
+            "Ignore it forever (Build homerow muscle memory to 15 WPM with under 5 percent error rate)"
           ],
           "answer": "Finish typing the word, then correct it",
           "difficulty": 520,
@@ -366,10 +366,10 @@
           "type": "multiple-choice",
           "prompt": "What is the \"return reflex\"?",
           "options": [
-            "Pressing backspace after every mistake (Return to home row automatically after any reach (U1))",
-            "Automatically snapping fingers back to their home-row key after any reach, including the space bar (Return to home row automatically after any reach (U1))",
-            "Looking at the keyboard before every keystroke (Return to home row automatically after any reach (U1))",
-            "Typing the same word twice to confirm accuracy (Return to home row automatically after any reach (U1))"
+            "Pressing backspace after every mistake (Return to home row automatically after any reach)",
+            "Automatically snapping fingers back to their home-row key after any reach, including the space bar (Return to home row automatically after any reach)",
+            "Looking at the keyboard before every keystroke (Return to home row automatically after any reach)",
+            "Typing the same word twice to confirm accuracy (Return to home row automatically after any reach)"
           ],
           "answer": "Automatically snapping fingers back to their home-row key after any reach, including the space bar",
           "difficulty": 530,
@@ -387,10 +387,10 @@
           "type": "multiple-choice",
           "prompt": "Why does the return reflex matter for later units (top row, bottom row)?",
           "options": [
-            "It doesn't — it only matters for home row (Return to home row automatically after any reach (U1))",
-            "It keeps home row a stable, reliable base every finger can return to no matter how far it just reached (Return to home row automatically after any reach (U1))",
-            "It makes the keyboard physically easier to see (Return to home row automatically after any reach (U1))",
-            "It only helps with number keys (Return to home row automatically after any reach (U1))"
+            "It doesn't — it only matters for home row (Return to home row automatically after any reach)",
+            "It keeps home row a stable, reliable base every finger can return to no matter how far it just reached (Return to home row automatically after any reach)",
+            "It makes the keyboard physically easier to see (Return to home row automatically after any reach)",
+            "It only helps with number keys (Return to home row automatically after any reach)"
           ],
           "answer": "It keeps home row a stable, reliable base every finger can return to no matter how far it just reached",
           "difficulty": 530,
@@ -441,10 +441,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger types the semicolon key?",
           "options": [
-            "Right index (Pass a homerowonly speed and accuracy checkpoint (U1))",
-            "Right middle (Pass a homerowonly speed and accuracy checkpoint (U1))",
-            "Right ring (Pass a homerowonly speed and accuracy checkpoint (U1))",
-            "Right pinky (Pass a homerowonly speed and accuracy checkpoint (U1))"
+            "Right index (Pass a homerowonly speed and accuracy checkpoint)",
+            "Right middle (Pass a homerowonly speed and accuracy checkpoint)",
+            "Right ring (Pass a homerowonly speed and accuracy checkpoint)",
+            "Right pinky (Pass a homerowonly speed and accuracy checkpoint)"
           ],
           "answer": "Right pinky",
           "difficulty": 540,
@@ -455,10 +455,10 @@
           "type": "multiple-choice",
           "prompt": "What is the main goal of Unit 1 as a whole?",
           "options": [
-            "Typing as fast as possible regardless of accuracy (Pass a homerowonly speed and accuracy checkpoint (U1))",
-            "Memorizing the QWERTY key layout by sight (Pass a homerowonly speed and accuracy checkpoint (U1))",
-            "Establishing home row as an automatic, reliable base you never need to look at (Pass a homerowonly speed and accuracy checkpoint (U1))",
-            "Learning the top and bottom rows early (Pass a homerowonly speed and accuracy checkpoint (U1))"
+            "Typing as fast as possible regardless of accuracy (Pass a homerowonly speed and accuracy checkpoint)",
+            "Memorizing the QWERTY key layout by sight (Pass a homerowonly speed and accuracy checkpoint)",
+            "Establishing home row as an automatic, reliable base you never need to look at (Pass a homerowonly speed and accuracy checkpoint)",
+            "Learning the top and bottom rows early (Pass a homerowonly speed and accuracy checkpoint)"
           ],
           "answer": "Establishing home row as an automatic, reliable base you never need to look at",
           "difficulty": 540,
@@ -513,10 +513,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger reaches up from D to strike E?",
           "options": [
-            "Left index (Reach from home row to the top row keys Q W E R with correct fingers (U2))",
-            "Left middle (Reach from home row to the top row keys Q W E R with correct fingers (U2))",
-            "Left ring (Reach from home row to the top row keys Q W E R with correct fingers (U2))",
-            "Left pinky (Reach from home row to the top row keys Q W E R with correct fingers (U2))"
+            "Left index (Reach from home row to the top row keys Q W E R with correct fingers)",
+            "Left middle (Reach from home row to the top row keys Q W E R with correct fingers)",
+            "Left ring (Reach from home row to the top row keys Q W E R with correct fingers)",
+            "Left pinky (Reach from home row to the top row keys Q W E R with correct fingers)"
           ],
           "answer": "Left middle",
           "difficulty": 550,
@@ -534,10 +534,10 @@
           "type": "multiple-choice",
           "prompt": "Why does the left index finger reach up-and-left to R instead of straight up from F?",
           "options": [
-            "It is a typo in the keyboard layout (Reach from home row to the top row keys Q W E R with correct fingers (U2))",
-            "The index finger covers the widest territory of any finger, so its reaches fan out rather than stay in a single column (Reach from home row to the top row keys Q W E R with correct fingers (U2))",
-            "R is not actually typed by the index finger (Reach from home row to the top row keys Q W E R with correct fingers (U2))",
-            "It only applies to left-handed typists (Reach from home row to the top row keys Q W E R with correct fingers (U2))"
+            "It is a typo in the keyboard layout (Reach from home row to the top row keys Q W E R with correct fingers)",
+            "The index finger covers the widest territory of any finger, so its reaches fan out rather than stay in a single column (Reach from home row to the top row keys Q W E R with correct fingers)",
+            "R is not actually typed by the index finger (Reach from home row to the top row keys Q W E R with correct fingers)",
+            "It only applies to left-handed typists (Reach from home row to the top row keys Q W E R with correct fingers)"
           ],
           "answer": "The index finger covers the widest territory of any finger, so its reaches fan out rather than stay in a single column",
           "difficulty": 550,
@@ -585,10 +585,10 @@
           "type": "multiple-choice",
           "prompt": "Which two keys does the LEFT index finger cover between Units 1 and 2 so far?",
           "options": [
-            "F and G (Reach from home row to the top row keys T Y U I with correct fingers (U2))",
-            "R and T (Reach from home row to the top row keys T Y U I with correct fingers (U2))",
-            "E and I (Reach from home row to the top row keys T Y U I with correct fingers (U2))",
-            "Q and W (Reach from home row to the top row keys T Y U I with correct fingers (U2))"
+            "F and G (Reach from home row to the top row keys T Y U I with correct fingers)",
+            "R and T (Reach from home row to the top row keys T Y U I with correct fingers)",
+            "E and I (Reach from home row to the top row keys T Y U I with correct fingers)",
+            "Q and W (Reach from home row to the top row keys T Y U I with correct fingers)"
           ],
           "answer": "R and T",
           "difficulty": 555,
@@ -613,10 +613,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger types I?",
           "options": [
-            "Right index (Reach from home row to the top row keys T Y U I with correct fingers (U2))",
-            "Right middle (Reach from home row to the top row keys T Y U I with correct fingers (U2))",
-            "Right ring (Reach from home row to the top row keys T Y U I with correct fingers (U2))",
-            "Right pinky (Reach from home row to the top row keys T Y U I with correct fingers (U2))"
+            "Right index (Reach from home row to the top row keys T Y U I with correct fingers)",
+            "Right middle (Reach from home row to the top row keys T Y U I with correct fingers)",
+            "Right ring (Reach from home row to the top row keys T Y U I with correct fingers)",
+            "Right pinky (Reach from home row to the top row keys T Y U I with correct fingers)"
           ],
           "answer": "Right middle",
           "difficulty": 550,
@@ -664,10 +664,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger reaches to P, the longest single reach on the top row?",
           "options": [
-            "Right index (Reach from home row to O P and type mixed homeplustoprow words (U2))",
-            "Right middle (Reach from home row to O P and type mixed homeplustoprow words (U2))",
-            "Right ring (Reach from home row to O P and type mixed homeplustoprow words (U2))",
-            "Right pinky (Reach from home row to O P and type mixed homeplustoprow words (U2))"
+            "Right index (Reach from home row to O P and type mixed homeplustoprow words)",
+            "Right middle (Reach from home row to O P and type mixed homeplustoprow words)",
+            "Right ring (Reach from home row to O P and type mixed homeplustoprow words)",
+            "Right pinky (Reach from home row to O P and type mixed homeplustoprow words)"
           ],
           "answer": "Right pinky",
           "difficulty": 560,
@@ -692,8 +692,8 @@
           "type": "multiple-choice",
           "prompt": "True or false: after Lesson 3, every key on the top row (Q through P) has now been introduced.",
           "options": [
-            "True (Reach from home row to O P and type mixed homeplustoprow words (U2))",
-            "False (Reach from home row to O P and type mixed homeplustoprow words (U2))"
+            "True (Reach from home row to O P and type mixed homeplustoprow words)",
+            "False (Reach from home row to O P and type mixed homeplustoprow words)"
           ],
           "answer": "True",
           "difficulty": 555,
@@ -744,10 +744,10 @@
           "type": "multiple-choice",
           "prompt": "According to this lesson, how should the space bar be treated?",
           "options": [
-            "As a pause to rest between words (Type full sentences using only home row and top row letters (U2))",
-            "As just another reach with its own steady, unhesitating rhythm (Type full sentences using only home row and top row letters (U2))",
-            "As optional if the next word starts with a vowel (Type full sentences using only home row and top row letters (U2))",
-            "As a key that should be struck slower than letter keys (Type full sentences using only home row and top row letters (U2))"
+            "As a pause to rest between words (Type full sentences using only home row and top row letters)",
+            "As just another reach with its own steady, unhesitating rhythm (Type full sentences using only home row and top row letters)",
+            "As optional if the next word starts with a vowel (Type full sentences using only home row and top row letters)",
+            "As a key that should be struck slower than letter keys (Type full sentences using only home row and top row letters)"
           ],
           "answer": "As just another reach with its own steady, unhesitating rhythm",
           "difficulty": 560,
@@ -758,10 +758,10 @@
           "type": "multiple-choice",
           "prompt": "Why does this lesson recommend reading a full sentence once before typing it?",
           "options": [
-            "To memorize it and type from memory instead (Type full sentences using only home row and top row letters (U2))",
-            "So your hands move at a steady pace instead of discovering the words as you go, which causes stop-and-go typing (Type full sentences using only home row and top row letters (U2))",
-            "It is not actually recommended (Type full sentences using only home row and top row letters (U2))",
-            "To check for spelling errors in the passage itself (Type full sentences using only home row and top row letters (U2))"
+            "To memorize it and type from memory instead (Type full sentences using only home row and top row letters)",
+            "So your hands move at a steady pace instead of discovering the words as you go, which causes stop-and-go typing (Type full sentences using only home row and top row letters)",
+            "It is not actually recommended (Type full sentences using only home row and top row letters)",
+            "To check for spelling errors in the passage itself (Type full sentences using only home row and top row letters)"
           ],
           "answer": "So your hands move at a steady pace instead of discovering the words as you go, which causes stop-and-go typing",
           "difficulty": 560,
@@ -812,10 +812,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger types both R and T?",
           "options": [
-            "Left index (Pass a homeandtoprow speed and accuracy checkpoint (U2))",
-            "Left middle (Pass a homeandtoprow speed and accuracy checkpoint (U2))",
-            "Right index (Pass a homeandtoprow speed and accuracy checkpoint (U2))",
-            "Left ring (Pass a homeandtoprow speed and accuracy checkpoint (U2))"
+            "Left index (Pass a homeandtoprow speed and accuracy checkpoint)",
+            "Left middle (Pass a homeandtoprow speed and accuracy checkpoint)",
+            "Right index (Pass a homeandtoprow speed and accuracy checkpoint)",
+            "Left ring (Pass a homeandtoprow speed and accuracy checkpoint)"
           ],
           "answer": "Left index",
           "difficulty": 570,
@@ -826,10 +826,10 @@
           "type": "multiple-choice",
           "prompt": "What is the main goal of Unit 2 as a whole?",
           "options": [
-            "Learning number and symbol keys (Pass a homeandtoprow speed and accuracy checkpoint (U2))",
-            "Extending home row up to the full top row while keeping the return reflex intact (Pass a homeandtoprow speed and accuracy checkpoint (U2))",
-            "Learning the bottom row (Pass a homeandtoprow speed and accuracy checkpoint (U2))",
-            "Reaching 100+ WPM (Pass a homeandtoprow speed and accuracy checkpoint (U2))"
+            "Learning number and symbol keys (Pass a homeandtoprow speed and accuracy checkpoint)",
+            "Extending home row up to the full top row while keeping the return reflex intact (Pass a homeandtoprow speed and accuracy checkpoint)",
+            "Learning the bottom row (Pass a homeandtoprow speed and accuracy checkpoint)",
+            "Reaching 100+ WPM (Pass a homeandtoprow speed and accuracy checkpoint)"
           ],
           "answer": "Extending home row up to the full top row while keeping the return reflex intact",
           "difficulty": 570,
@@ -884,10 +884,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger reaches to G?",
           "options": [
-            "Left index (Reach from home row to the rows own missing keys (U3))",
-            "Left middle (Reach from home row to the rows own missing keys (U3))",
-            "Right index (Reach from home row to the rows own missing keys (U3))",
-            "Left pinky (Reach from home row to the rows own missing keys (U3))"
+            "Left index (Reach from home row to the rows own missing keys)",
+            "Left middle (Reach from home row to the rows own missing keys)",
+            "Right index (Reach from home row to the rows own missing keys)",
+            "Left pinky (Reach from home row to the rows own missing keys)"
           ],
           "answer": "Left index",
           "difficulty": 590,
@@ -905,10 +905,10 @@
           "type": "multiple-choice",
           "prompt": "Why is the reach to G and H easy to under-drill compared to a top- or bottom-row reach?",
           "options": [
-            "It is physically impossible to get wrong (Reach from home row to the rows own missing keys (U3))",
+            "It is physically impossible to get wrong (Reach from home row to the rows own missing keys)",
             "It stays on home row itself (a sideways lean, not an up/down reach)",
-            "G and H are never used in real English words (Reach from home row to the rows own missing keys (U3))",
-            "It requires looking at the keyboard every time (Reach from home row to the rows own missing keys (U3))"
+            "G and H are never used in real English words (Reach from home row to the rows own missing keys)",
+            "It requires looking at the keyboard every time (Reach from home row to the rows own missing keys)"
           ],
           "answer": "It stays on home row itself (a sideways lean, not an up/down reach), so it does not feel like \"reaching\" the way climbing a row does",
           "difficulty": 590,
@@ -963,10 +963,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger reaches down from S to strike X?",
           "options": [
-            "Left pinky (Reach from home row to bottom row keys Z X C with correct fingers (U3))",
-            "Left ring (Reach from home row to bottom row keys Z X C with correct fingers (U3))",
-            "Left middle (Reach from home row to bottom row keys Z X C with correct fingers (U3))",
-            "Left index (Reach from home row to bottom row keys Z X C with correct fingers (U3))"
+            "Left pinky (Reach from home row to bottom row keys Z X C with correct fingers)",
+            "Left ring (Reach from home row to bottom row keys Z X C with correct fingers)",
+            "Left middle (Reach from home row to bottom row keys Z X C with correct fingers)",
+            "Left index (Reach from home row to bottom row keys Z X C with correct fingers)"
           ],
           "answer": "Left ring",
           "difficulty": 600,
@@ -991,10 +991,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger reaches down from A to strike Z?",
           "options": [
-            "Left pinky (Reach from home row to bottom row keys Z X C with correct fingers (U3))",
-            "Left ring (Reach from home row to bottom row keys Z X C with correct fingers (U3))",
-            "Left middle (Reach from home row to bottom row keys Z X C with correct fingers (U3))",
-            "Left index (Reach from home row to bottom row keys Z X C with correct fingers (U3))"
+            "Left pinky (Reach from home row to bottom row keys Z X C with correct fingers)",
+            "Left ring (Reach from home row to bottom row keys Z X C with correct fingers)",
+            "Left middle (Reach from home row to bottom row keys Z X C with correct fingers)",
+            "Left index (Reach from home row to bottom row keys Z X C with correct fingers)"
           ],
           "answer": "Left pinky",
           "difficulty": 590,
@@ -1042,10 +1042,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger reaches to both N and M?",
           "options": [
-            "Right index (Reach from home row to bottom row keys V B N M with correct fingers (U3))",
-            "Right middle (Reach from home row to bottom row keys V B N M with correct fingers (U3))",
-            "Right ring (Reach from home row to bottom row keys V B N M with correct fingers (U3))",
-            "Right pinky (Reach from home row to bottom row keys V B N M with correct fingers (U3))"
+            "Right index (Reach from home row to bottom row keys V B N M with correct fingers)",
+            "Right middle (Reach from home row to bottom row keys V B N M with correct fingers)",
+            "Right ring (Reach from home row to bottom row keys V B N M with correct fingers)",
+            "Right pinky (Reach from home row to bottom row keys V B N M with correct fingers)"
           ],
           "answer": "Right index",
           "difficulty": 610,
@@ -1063,10 +1063,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger is responsible for FOUR different keys once R, T, V, and B are all counted?",
           "options": [
-            "Left index (Reach from home row to bottom row keys V B N M with correct fingers (U3))",
-            "Left middle (Reach from home row to bottom row keys V B N M with correct fingers (U3))",
-            "Right index (Reach from home row to bottom row keys V B N M with correct fingers (U3))",
-            "Left ring (Reach from home row to bottom row keys V B N M with correct fingers (U3))"
+            "Left index (Reach from home row to bottom row keys V B N M with correct fingers)",
+            "Left middle (Reach from home row to bottom row keys V B N M with correct fingers)",
+            "Right index (Reach from home row to bottom row keys V B N M with correct fingers)",
+            "Left ring (Reach from home row to bottom row keys V B N M with correct fingers)"
           ],
           "answer": "Left index",
           "difficulty": 610,
@@ -1124,10 +1124,10 @@
           "type": "multiple-choice",
           "prompt": "What is this unit's WPM benchmark?",
           "options": [
-            "15+ WPM (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate (U3))",
-            "25+ WPM (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate (U3))",
-            "50+ WPM (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate (U3))",
-            "100+ WPM (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate (U3))"
+            "15+ WPM (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate)",
+            "25+ WPM (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate)",
+            "50+ WPM (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate)",
+            "100+ WPM (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate)"
           ],
           "answer": "25+ WPM",
           "difficulty": 610,
@@ -1138,10 +1138,10 @@
           "type": "multiple-choice",
           "prompt": "What should you do the first time you see a new passage, before typing it?",
           "options": [
-            "Start typing immediately for the fastest possible time (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate (U3))",
-            "Read it once fully so your hands move at a steady pace instead of discovering words as you type (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate (U3))",
-            "Type it backwards first as a warm-up (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate (U3))",
-            "Skip to the last word first (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate (U3))"
+            "Start typing immediately for the fastest possible time (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate)",
+            "Read it once fully so your hands move at a steady pace instead of discovering words as you type (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate)",
+            "Type it backwards first as a warm-up (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate)",
+            "Skip to the last word first (Type fullalphabet sentences using all three rows at 25 WPM with under 5 percent error rate)"
           ],
           "answer": "Read it once fully so your hands move at a steady pace instead of discovering words as you type",
           "difficulty": 610,
@@ -1192,10 +1192,10 @@
           "type": "multiple-choice",
           "prompt": "Which finger reaches to H?",
           "options": [
-            "Left index (Pass a fullalphabet speed and accuracy checkpoint (U3))",
-            "Right index (Pass a fullalphabet speed and accuracy checkpoint (U3))",
-            "Right middle (Pass a fullalphabet speed and accuracy checkpoint (U3))",
-            "Right pinky (Pass a fullalphabet speed and accuracy checkpoint (U3))"
+            "Left index (Pass a fullalphabet speed and accuracy checkpoint)",
+            "Right index (Pass a fullalphabet speed and accuracy checkpoint)",
+            "Right middle (Pass a fullalphabet speed and accuracy checkpoint)",
+            "Right pinky (Pass a fullalphabet speed and accuracy checkpoint)"
           ],
           "answer": "Right index",
           "difficulty": 610,
@@ -1206,10 +1206,10 @@
           "type": "multiple-choice",
           "prompt": "What is the main goal of Unit 3 as a whole?",
           "options": [
-            "Learning the numbers row (Pass a fullalphabet speed and accuracy checkpoint (U3))",
-            "Completing home row with G/H and opening the bottom row so all 26 letters are reachable (Pass a fullalphabet speed and accuracy checkpoint (U3))",
-            "Reaching 100+ WPM (Pass a fullalphabet speed and accuracy checkpoint (U3))",
-            "Learning punctuation-heavy typing (Pass a fullalphabet speed and accuracy checkpoint (U3))"
+            "Learning the numbers row (Pass a fullalphabet speed and accuracy checkpoint)",
+            "Completing home row with G/H and opening the bottom row so all 26 letters are reachable (Pass a fullalphabet speed and accuracy checkpoint)",
+            "Reaching 100+ WPM (Pass a fullalphabet speed and accuracy checkpoint)",
+            "Learning punctuation-heavy typing (Pass a fullalphabet speed and accuracy checkpoint)"
           ],
           "answer": "Completing home row with G/H and opening the bottom row so all 26 letters are reachable",
           "difficulty": 610,
@@ -1257,10 +1257,10 @@
         {
           "prompt": "When executing the motor patterns for Master touch typing on the left-hand number row (1, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Left Middle Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Thumb (Master touch typing on the lefthand number row 1 (U4))",
-            "Right Index Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Index Finger (Master touch typing on the lefthand number row 1 (U4))"
+            "Left Middle Finger (Master touch typing on the lefthand number row 1)",
+            "Left Thumb (Master touch typing on the lefthand number row 1)",
+            "Right Index Finger (Master touch typing on the lefthand number row 1)",
+            "Left Index Finger (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 3,
           "explanation": "The left index finger reaches up to 4 and stretches right to 5."
@@ -1268,10 +1268,10 @@
         {
           "prompt": "Which finger is assigned to strike the number '1'?",
           "options": [
-            "Left Index Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Thumb (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Pinky Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Ring Finger (Master touch typing on the lefthand number row 1 (U4))"
+            "Left Index Finger (Master touch typing on the lefthand number row 1)",
+            "Left Thumb (Master touch typing on the lefthand number row 1)",
+            "Left Pinky Finger (Master touch typing on the lefthand number row 1)",
+            "Left Ring Finger (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 2,
           "explanation": "The left pinky controls the '1' key."
@@ -1279,10 +1279,10 @@
         {
           "prompt": "What is the 'snap-back' rule when typing numbers?",
           "options": [
-            "Press the spacebar with both thumbs (Master touch typing on the lefthand number row 1 (U4))",
-            "Immediately return the striking finger to its home row key after pressing the number (Master touch typing on the lefthand number row 1 (U4))",
-            "Look down to confirm the key was hit (Master touch typing on the lefthand number row 1 (U4))",
-            "Leave all fingers on the number row permanently (Master touch typing on the lefthand number row 1 (U4))"
+            "Press the spacebar with both thumbs (Master touch typing on the lefthand number row 1)",
+            "Immediately return the striking finger to its home row key after pressing the number (Master touch typing on the lefthand number row 1)",
+            "Look down to confirm the key was hit (Master touch typing on the lefthand number row 1)",
+            "Leave all fingers on the number row permanently (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 1,
           "explanation": "Snapping back to home row maintains keyboard orientation without looking."
@@ -1294,10 +1294,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 4, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Left Index Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Ring Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Right Middle Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Middle Finger (Master touch typing on the lefthand number row 1 (U4))"
+            "Left Index Finger (Master touch typing on the lefthand number row 1)",
+            "Left Ring Finger (Master touch typing on the lefthand number row 1)",
+            "Right Middle Finger (Master touch typing on the lefthand number row 1)",
+            "Left Middle Finger (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 3,
           "explanation": "Left middle finger controls '3' (above E/D)."
@@ -1305,10 +1305,10 @@
         {
           "prompt": "Which finger strikes the number '2'?",
           "options": [
-            "Left Index Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Middle Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Ring Finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left Pinky (Master touch typing on the lefthand number row 1 (U4))"
+            "Left Index Finger (Master touch typing on the lefthand number row 1)",
+            "Left Middle Finger (Master touch typing on the lefthand number row 1)",
+            "Left Ring Finger (Master touch typing on the lefthand number row 1)",
+            "Left Pinky (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 2,
           "explanation": "Left ring finger controls '2' (above W/S)."
@@ -1320,10 +1320,10 @@
         {
           "prompt": "Match the left-hand fingers to their correct numbers:",
           "options": [
-            "Pinky=5, Ring=4, Middle=3, Index=2 and 1 (Master touch typing on the lefthand number row 1 (U4))",
-            "Pinky=1, Ring=2, Middle=3, Index=4 and 5 (Master touch typing on the lefthand number row 1 (U4))",
-            "Index=1, Middle=2, Ring=3, Pinky=4 and 5 (Master touch typing on the lefthand number row 1 (U4))",
-            "Thumb=1, Index=2, Middle=3, Ring=4, Pinky=5 (Master touch typing on the lefthand number row 1 (U4))"
+            "Pinky=5, Ring=4, Middle=3, Index=2 and 1 (Master touch typing on the lefthand number row 1)",
+            "Pinky=1, Ring=2, Middle=3, Index=4 and 5 (Master touch typing on the lefthand number row 1)",
+            "Index=1, Middle=2, Ring=3, Pinky=4 and 5 (Master touch typing on the lefthand number row 1)",
+            "Thumb=1, Index=2, Middle=3, Ring=4, Pinky=5 (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 1,
           "explanation": "1=Pinky, 2=Ring, 3=Middle, 4 & 5=Index.",
@@ -1332,10 +1332,10 @@
         {
           "prompt": "Why should you never look down at the keyboard when typing numbers?",
           "options": [
-            "Looking down breaks visual focus on the screen, disrupts rhythmic typing flow, and slows WPM (Master touch typing on the lefthand number row 1 (U4))",
-            "Looking down increases typing speed (Master touch typing on the lefthand number row 1 (U4))",
-            "It is forbidden by computer manufacturers (Master touch typing on the lefthand number row 1 (U4))",
-            "Keyboards will turn off if you look at them (Master touch typing on the lefthand number row 1 (U4))"
+            "Looking down breaks visual focus on the screen, disrupts rhythmic typing flow, and slows WPM (Master touch typing on the lefthand number row 1)",
+            "Looking down increases typing speed (Master touch typing on the lefthand number row 1)",
+            "It is forbidden by computer manufacturers (Master touch typing on the lefthand number row 1)",
+            "Keyboards will turn off if you look at them (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 0,
           "explanation": "Blind touch typing preserves cognitive focus and continuous motor rhythm.",
@@ -1344,10 +1344,10 @@
         {
           "prompt": "To type '45', which finger(s) do you use?",
           "options": [
-            "Right index finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Left pinky for 4, left ring for 5 (Master touch typing on the lefthand number row 1 (U4))",
-            "Left middle finger for 4, left index for 5 (Master touch typing on the lefthand number row 1 (U4))",
-            "Left index finger for both (Master touch typing on the lefthand number row 1 (U4))"
+            "Right index finger (Master touch typing on the lefthand number row 1)",
+            "Left pinky for 4, left ring for 5 (Master touch typing on the lefthand number row 1)",
+            "Left middle finger for 4, left index for 5 (Master touch typing on the lefthand number row 1)",
+            "Left index finger for both (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 3,
           "explanation": "The left index finger types both 4 and 5.",
@@ -1356,10 +1356,10 @@
         {
           "prompt": "What is the primary anchor key for the left hand?",
           "options": [
-            "The 'Caps Lock' key (Master touch typing on the lefthand number row 1 (U4))",
-            "The '1' key (Master touch typing on the lefthand number row 1 (U4))",
-            "The 'F' key with its raised tactile bump (Master touch typing on the lefthand number row 1 (U4))",
-            "The 'Space' bar (Master touch typing on the lefthand number row 1 (U4))"
+            "The 'Caps Lock' key (Master touch typing on the lefthand number row 1)",
+            "The '1' key (Master touch typing on the lefthand number row 1)",
+            "The 'F' key with its raised tactile bump (Master touch typing on the lefthand number row 1)",
+            "The 'Space' bar (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 2,
           "explanation": "The 'F' key bump is the tactile homing anchor.",
@@ -1368,10 +1368,10 @@
         {
           "prompt": "In typing drills, what does 'd3d' practice?",
           "options": [
-            "Deleting the letter D (Master touch typing on the lefthand number row 1 (U4))",
-            "Reaching from D to 3 and snapping back to D with the left middle finger (Master touch typing on the lefthand number row 1 (U4))",
-            "Double-spacing (Master touch typing on the lefthand number row 1 (U4))",
-            "Pressing 3 with the thumb (Master touch typing on the lefthand number row 1 (U4))"
+            "Deleting the letter D (Master touch typing on the lefthand number row 1)",
+            "Reaching from D to 3 and snapping back to D with the left middle finger (Master touch typing on the lefthand number row 1)",
+            "Double-spacing (Master touch typing on the lefthand number row 1)",
+            "Pressing 3 with the thumb (Master touch typing on the lefthand number row 1)"
           ],
           "answerIndex": 1,
           "explanation": "D-to-3 extension and recovery drill.",
@@ -1413,10 +1413,10 @@
         {
           "prompt": "When executing the motor patterns for Master touch typing on the right-hand number row (6, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Right Index Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Middle Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Thumb (Master touch typing on the righthand number row 6 (U4))",
-            "Left Index Finger (Master touch typing on the righthand number row 6 (U4))"
+            "Right Index Finger (Master touch typing on the righthand number row 6)",
+            "Right Middle Finger (Master touch typing on the righthand number row 6)",
+            "Right Thumb (Master touch typing on the righthand number row 6)",
+            "Left Index Finger (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 0,
           "explanation": "The right index finger controls both 6 and 7."
@@ -1424,10 +1424,10 @@
         {
           "prompt": "Which finger is assigned to the '0' (zero) and '-' (hyphen) keys?",
           "options": [
-            "Right Pinky Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Ring Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Index Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Middle Finger (Master touch typing on the righthand number row 6 (U4))"
+            "Right Pinky Finger (Master touch typing on the righthand number row 6)",
+            "Right Ring Finger (Master touch typing on the righthand number row 6)",
+            "Right Index Finger (Master touch typing on the righthand number row 6)",
+            "Right Middle Finger (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 0,
           "explanation": "The right pinky controls 0, -, and =."
@@ -1435,10 +1435,10 @@
         {
           "prompt": "Which finger strikes the number '8'?",
           "options": [
-            "Right Middle Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Index Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Left Middle Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Ring Finger (Master touch typing on the righthand number row 6 (U4))"
+            "Right Middle Finger (Master touch typing on the righthand number row 6)",
+            "Right Index Finger (Master touch typing on the righthand number row 6)",
+            "Left Middle Finger (Master touch typing on the righthand number row 6)",
+            "Right Ring Finger (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 0,
           "explanation": "Right middle finger controls 8 (above I/K)."
@@ -1450,10 +1450,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 4, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Right Pinky (Master touch typing on the righthand number row 6 (U4))",
-            "Right Middle Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Index Finger (Master touch typing on the righthand number row 6 (U4))",
-            "Right Ring Finger (Master touch typing on the righthand number row 6 (U4))"
+            "Right Pinky (Master touch typing on the righthand number row 6)",
+            "Right Middle Finger (Master touch typing on the righthand number row 6)",
+            "Right Index Finger (Master touch typing on the righthand number row 6)",
+            "Right Ring Finger (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 3,
           "explanation": "Right ring finger controls 9 (above O/L)."
@@ -1461,10 +1461,10 @@
         {
           "prompt": "In typing the year '2026', what is the correct finger sequence?",
           "options": [
-            "Left Index for all (Master touch typing on the righthand number row 6 (U4))",
-            "Right Index for all (Master touch typing on the righthand number row 6 (U4))",
-            "Left Pinky -> Left Ring -> Left Middle -> Right Pinky (Master touch typing on the righthand number row 6 (U4))",
-            "Left Ring (Master touch typing on the righthand number row 6 (U4))"
+            "Left Index for all (Master touch typing on the righthand number row 6)",
+            "Right Index for all (Master touch typing on the righthand number row 6)",
+            "Left Pinky -> Left Ring -> Left Middle -> Right Pinky (Master touch typing on the righthand number row 6)",
+            "Left Ring (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 3,
           "explanation": "2 (Left Ring), 0 (Right Pinky), 2 (Left Ring), 6 (Right Index)."
@@ -1476,10 +1476,10 @@
         {
           "prompt": "Match the right-hand fingers to their correct numbers:",
           "options": [
-            "Index=6 & 7, Middle=8, Ring=9, Pinky=0, -, = (Master touch typing on the righthand number row 6 (U4))",
-            "Thumb=6, Index=7, Middle=8, Ring=9, Pinky=0 (Master touch typing on the righthand number row 6 (U4))",
-            "Index=8, Middle=7, Ring=6, Pinky=9 (Master touch typing on the righthand number row 6 (U4))",
-            "Index=0, Middle=9, Ring=8, Pinky=7 & 6 (Master touch typing on the righthand number row 6 (U4))"
+            "Index=6 & 7, Middle=8, Ring=9, Pinky=0, -, = (Master touch typing on the righthand number row 6)",
+            "Thumb=6, Index=7, Middle=8, Ring=9, Pinky=0 (Master touch typing on the righthand number row 6)",
+            "Index=8, Middle=7, Ring=6, Pinky=9 (Master touch typing on the righthand number row 6)",
+            "Index=0, Middle=9, Ring=8, Pinky=7 & 6 (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 0,
           "explanation": "6/7=Index, 8=Middle, 9=Ring, 0/-//=Pinky.",
@@ -1488,10 +1488,10 @@
         {
           "prompt": "Which finger types the hyphen / minus sign '-'?",
           "options": [
-            "Right Index (Master touch typing on the righthand number row 6 (U4))",
-            "Left Pinky (Master touch typing on the righthand number row 6 (U4))",
-            "Right Thumb (Master touch typing on the righthand number row 6 (U4))",
-            "Right Pinky (Master touch typing on the righthand number row 6 (U4))"
+            "Right Index (Master touch typing on the righthand number row 6)",
+            "Left Pinky (Master touch typing on the righthand number row 6)",
+            "Right Thumb (Master touch typing on the righthand number row 6)",
+            "Right Pinky (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 3,
           "explanation": "Right pinky reaches up-right to '-'.",
@@ -1500,10 +1500,10 @@
         {
           "prompt": "What is the primary anchor key for the right hand?",
           "options": [
-            "The '0' key (Master touch typing on the righthand number row 6 (U4))",
-            "The 'K' key (Master touch typing on the righthand number row 6 (U4))",
-            "The 'J' key with its raised tactile bump (Master touch typing on the righthand number row 6 (U4))",
-            "The 'Enter' key (Master touch typing on the righthand number row 6 (U4))"
+            "The '0' key (Master touch typing on the righthand number row 6)",
+            "The 'K' key (Master touch typing on the righthand number row 6)",
+            "The 'J' key with its raised tactile bump (Master touch typing on the righthand number row 6)",
+            "The 'Enter' key (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 2,
           "explanation": "The 'J' key bump is the tactile anchor.",
@@ -1512,10 +1512,10 @@
         {
           "prompt": "To type '7890', what is the finger order?",
           "options": [
-            "Right Index for all four (Master touch typing on the righthand number row 6 (U4))",
-            "Right Index (Master touch typing on the righthand number row 6 (U4))",
-            "Right Pinky -> Ring -> Middle -> Index (Master touch typing on the righthand number row 6 (U4))",
-            "Left hand fingers (Master touch typing on the righthand number row 6 (U4))"
+            "Right Index for all four (Master touch typing on the righthand number row 6)",
+            "Right Index (Master touch typing on the righthand number row 6)",
+            "Right Pinky -> Ring -> Middle -> Index (Master touch typing on the righthand number row 6)",
+            "Left hand fingers (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 1,
           "explanation": "Sequential flow: Index -> Middle -> Ring -> Pinky.",
@@ -1524,10 +1524,10 @@
         {
           "prompt": "Why is the number row staggered to the left on mechanical and standard keyboards?",
           "options": [
-            "Historical legacy of mechanical typewriter linkages, requiring diagonal finger reaches (Master touch typing on the righthand number row 6 (U4))",
-            "To save space (Master touch typing on the righthand number row 6 (U4))",
-            "To make typing harder (Master touch typing on the righthand number row 6 (U4))",
-            "Because numbers take more power (Master touch typing on the righthand number row 6 (U4))"
+            "Historical legacy of mechanical typewriter linkages, requiring diagonal finger reaches (Master touch typing on the righthand number row 6)",
+            "To save space (Master touch typing on the righthand number row 6)",
+            "To make typing harder (Master touch typing on the righthand number row 6)",
+            "Because numbers take more power (Master touch typing on the righthand number row 6)"
           ],
           "answerIndex": 0,
           "explanation": "Historical mechanical linkage stagger.",
@@ -1569,10 +1569,10 @@
         {
           "prompt": "When executing the motor patterns for Type shifted left-hand symbols (!, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Left Shift with your Left Thumb (Type shifted lefthand symbols (U4))",
-            "Left Shift with your Left Pinky (Type shifted lefthand symbols (U4))",
-            "Caps Lock (Type shifted lefthand symbols (U4))",
-            "Right Shift with your Right Pinky (Type shifted lefthand symbols (U4))"
+            "Left Shift with your Left Thumb (Type shifted lefthand symbols)",
+            "Left Shift with your Left Pinky (Type shifted lefthand symbols)",
+            "Caps Lock (Type shifted lefthand symbols)",
+            "Right Shift with your Right Pinky (Type shifted lefthand symbols)"
           ],
           "answerIndex": 3,
           "explanation": "Left-hand keys always pair with the opposite (Right) Shift key."
@@ -1580,9 +1580,9 @@
         {
           "prompt": "Which finger combination produces the '@' symbol?",
           "options": [
-            "Left Shift + Left Index on 2 (Type shifted lefthand symbols (U4))",
-            "Right Shift + Left Pinky on 1 (Type shifted lefthand symbols (U4))",
-            "Left Thumb on Space (Type shifted lefthand symbols (U4))",
+            "Left Shift + Left Index on 2 (Type shifted lefthand symbols)",
+            "Right Shift + Left Pinky on 1 (Type shifted lefthand symbols)",
+            "Left Thumb on Space (Type shifted lefthand symbols)",
             "Right Shift (Right Pinky)"
           ],
           "answerIndex": 3,
@@ -1591,10 +1591,10 @@
         {
           "prompt": "Why should you never use the same hand to hold Shift and press a letter/number on that same hand?",
           "options": [
-            "The computer will lock up (Type shifted lefthand symbols (U4))",
-            "Shift will not register (Type shifted lefthand symbols (U4))",
-            "The keys will jam (Type shifted lefthand symbols (U4))",
-            "It twists the wrist, strains the tendons, and degrades touch typing ergonomics (Type shifted lefthand symbols (U4))"
+            "The computer will lock up (Type shifted lefthand symbols)",
+            "Shift will not register (Type shifted lefthand symbols)",
+            "The keys will jam (Type shifted lefthand symbols)",
+            "It twists the wrist, strains the tendons, and degrades touch typing ergonomics (Type shifted lefthand symbols)"
           ],
           "answerIndex": 3,
           "explanation": "Opposite-shift preserves neutral wrist alignment and finger independence."
@@ -1606,10 +1606,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 4, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Left Middle Finger on 3 (Type shifted lefthand symbols (U4))",
-            "Left Index Finger (Type shifted lefthand symbols (U4))",
-            "Left Pinky (Type shifted lefthand symbols (U4))",
-            "Right Middle Finger (Type shifted lefthand symbols (U4))"
+            "Left Middle Finger on 3 (Type shifted lefthand symbols)",
+            "Left Index Finger (Type shifted lefthand symbols)",
+            "Left Pinky (Type shifted lefthand symbols)",
+            "Right Middle Finger (Type shifted lefthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "Left middle finger strikes 3 (with Right Shift) for #."
@@ -1617,10 +1617,10 @@
         {
           "prompt": "Which finger produces the '%' (percent) symbol?",
           "options": [
-            "Left Index Finger on 5 (Type shifted lefthand symbols (U4))",
-            "Left Ring Finger (Type shifted lefthand symbols (U4))",
-            "Left Middle Finger (Type shifted lefthand symbols (U4))",
-            "Right Index Finger (Type shifted lefthand symbols (U4))"
+            "Left Index Finger on 5 (Type shifted lefthand symbols)",
+            "Left Ring Finger (Type shifted lefthand symbols)",
+            "Left Middle Finger (Type shifted lefthand symbols)",
+            "Right Index Finger (Type shifted lefthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "Left index finger strikes 5 (with Right Shift) for %."
@@ -1632,10 +1632,10 @@
         {
           "prompt": "Match the symbols to their number keys:",
           "options": [
-            "! = 2, @ = 1, # = 4, $ = 3, % = 5 (Type shifted lefthand symbols (U4))",
-            "! = Q, @ = W, # = E, $ = R, % = T (Type shifted lefthand symbols (U4))",
-            "! = 5, @ = 4, # = 3, $ = 2, % = 1 (Type shifted lefthand symbols (U4))",
-            "! = 1, @ = 2, # = 3, $ = 4, % = 5 (Type shifted lefthand symbols (U4))"
+            "! = 2, @ = 1, # = 4, $ = 3, % = 5 (Type shifted lefthand symbols)",
+            "! = Q, @ = W, # = E, $ = R, % = T (Type shifted lefthand symbols)",
+            "! = 5, @ = 4, # = 3, $ = 2, % = 1 (Type shifted lefthand symbols)",
+            "! = 1, @ = 2, # = 3, $ = 4, % = 5 (Type shifted lefthand symbols)"
           ],
           "answerIndex": 3,
           "explanation": "Shift + 1=!, 2=@, 3=#, 4=$, 5=%.",
@@ -1644,10 +1644,10 @@
         {
           "prompt": "To type 'Great deal! Only $15 (50% off!)', what role does Right Shift play?",
           "options": [
-            "It is held for the entire sentence (Type shifted lefthand symbols (U4))",
-            "It replaces the spacebar (Type shifted lefthand symbols (U4))",
-            "It is held by the right pinky whenever !, $, or % is typed (Type shifted lefthand symbols (U4))",
-            "It is never used (Type shifted lefthand symbols (U4))"
+            "It is held for the entire sentence (Type shifted lefthand symbols)",
+            "It replaces the spacebar (Type shifted lefthand symbols)",
+            "It is held by the right pinky whenever !, $, or % is typed (Type shifted lefthand symbols)",
+            "It is never used (Type shifted lefthand symbols)"
           ],
           "answerIndex": 2,
           "explanation": "Right Shift activates left-hand symbols (!, $, %).",
@@ -1656,10 +1656,10 @@
         {
           "prompt": "Which finger strikes the '!' (exclamation mark)?",
           "options": [
-            "Left Index (Type shifted lefthand symbols (U4))",
-            "Left Pinky on 1 (Type shifted lefthand symbols (U4))",
-            "Left Thumb (Type shifted lefthand symbols (U4))",
-            "Right Pinky (Type shifted lefthand symbols (U4))"
+            "Left Index (Type shifted lefthand symbols)",
+            "Left Pinky on 1 (Type shifted lefthand symbols)",
+            "Left Thumb (Type shifted lefthand symbols)",
+            "Right Pinky (Type shifted lefthand symbols)"
           ],
           "answerIndex": 1,
           "explanation": "Left pinky strikes 1 for !.",
@@ -1668,10 +1668,10 @@
         {
           "prompt": "What does the '@' symbol represent historically?",
           "options": [
-            "'At the rate of' in commercial accounting, now the universal email/handle delimiter (Type shifted lefthand symbols (U4))",
-            "Ampersand (Type shifted lefthand symbols (U4))",
-            "Arrow (Type shifted lefthand symbols (U4))",
-            "Asterisk (Type shifted lefthand symbols (U4))"
+            "'At the rate of' in commercial accounting, now the universal email/handle delimiter (Type shifted lefthand symbols)",
+            "Ampersand (Type shifted lefthand symbols)",
+            "Arrow (Type shifted lefthand symbols)",
+            "Asterisk (Type shifted lefthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "Commercial 'at' accounting symbol, adapted by Ray Tomlinson for email in 1971.",
@@ -1680,10 +1680,10 @@
         {
           "prompt": "What is the primary posture rule for the wrists while typing symbols?",
           "options": [
-            "Rest palms heavily on the desk (Type shifted lefthand symbols (U4))",
-            "Bend wrists 90 degrees downward (Type shifted lefthand symbols (U4))",
-            "Type with one finger only (Type shifted lefthand symbols (U4))",
-            "Keep wrists straight and floating in a neutral position, avoiding hard resting on desk edges (Type shifted lefthand symbols (U4))"
+            "Rest palms heavily on the desk (Type shifted lefthand symbols)",
+            "Bend wrists 90 degrees downward (Type shifted lefthand symbols)",
+            "Type with one finger only (Type shifted lefthand symbols)",
+            "Keep wrists straight and floating in a neutral position, avoiding hard resting on desk edges (Type shifted lefthand symbols)"
           ],
           "answerIndex": 3,
           "explanation": "Neutral wrist posture prevents repetitive strain injury.",
@@ -1725,10 +1725,10 @@
         {
           "prompt": "When executing the motor patterns for Type shifted right-hand symbols (^, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Left Pinky on Left Shift + Right Ring Finger on 9 (Type shifted righthand symbols (U4))",
-            "Left Index on Shift + Right Index on 9 (Type shifted righthand symbols (U4))",
-            "Right Thumb on Space (Type shifted righthand symbols (U4))",
-            "Right Pinky on Right Shift + Right Ring Finger on 9 (Type shifted righthand symbols (U4))"
+            "Left Pinky on Left Shift + Right Ring Finger on 9 (Type shifted righthand symbols)",
+            "Left Index on Shift + Right Index on 9 (Type shifted righthand symbols)",
+            "Right Thumb on Space (Type shifted righthand symbols)",
+            "Right Pinky on Right Shift + Right Ring Finger on 9 (Type shifted righthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "Opposite Shift: Left Pinky (Left Shift) + Right Ring on 9."
@@ -1736,10 +1736,10 @@
         {
           "prompt": "Which finger strikes the closing parenthesis ')' (Shift + 0)?",
           "options": [
-            "Right Pinky Finger on 0 (Type shifted righthand symbols (U4))",
-            "Right Middle Finger (Type shifted righthand symbols (U4))",
-            "Right Index Finger (Type shifted righthand symbols (U4))",
-            "Right Ring Finger (Type shifted righthand symbols (U4))"
+            "Right Pinky Finger on 0 (Type shifted righthand symbols)",
+            "Right Middle Finger (Type shifted righthand symbols)",
+            "Right Index Finger (Type shifted righthand symbols)",
+            "Right Ring Finger (Type shifted righthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "Right pinky strikes 0 for ')'."
@@ -1747,10 +1747,10 @@
         {
           "prompt": "Which finger strikes the asterisk '*' (Shift + 8)?",
           "options": [
-            "Right Middle Finger on 8 (Type shifted righthand symbols (U4))",
-            "Left Middle Finger (Type shifted righthand symbols (U4))",
-            "Right Index Finger (Type shifted righthand symbols (U4))",
-            "Right Ring Finger (Type shifted righthand symbols (U4))"
+            "Right Middle Finger on 8 (Type shifted righthand symbols)",
+            "Left Middle Finger (Type shifted righthand symbols)",
+            "Right Index Finger (Type shifted righthand symbols)",
+            "Right Ring Finger (Type shifted righthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "Right middle finger strikes 8 for '*'."
@@ -1762,10 +1762,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 4, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Right Index Finger on 7 (Type shifted righthand symbols (U4))",
-            "Left Index Finger (Type shifted righthand symbols (U4))",
-            "Right Middle Finger (Type shifted righthand symbols (U4))",
-            "Right Ring Finger (Type shifted righthand symbols (U4))"
+            "Right Index Finger on 7 (Type shifted righthand symbols)",
+            "Left Index Finger (Type shifted righthand symbols)",
+            "Right Middle Finger (Type shifted righthand symbols)",
+            "Right Ring Finger (Type shifted righthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "Right index finger strikes 7 for '&'."
@@ -1773,10 +1773,10 @@
         {
           "prompt": "How do you type an underscore '_' in snake_case variable names?",
           "options": [
-            "Left Pinky on Left Shift + Right Pinky on the hyphen key (Type shifted righthand symbols (U4))",
-            "Right Pinky only (Type shifted righthand symbols (U4))",
-            "Caps Lock + minus (Type shifted righthand symbols (U4))",
-            "Spacebar twice (Type shifted righthand symbols (U4))"
+            "Left Pinky on Left Shift + Right Pinky on the hyphen key (Type shifted righthand symbols)",
+            "Right Pinky only (Type shifted righthand symbols)",
+            "Caps Lock + minus (Type shifted righthand symbols)",
+            "Spacebar twice (Type shifted righthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "Left Shift + Right Pinky on the hyphen key produces '_'."
@@ -1788,10 +1788,10 @@
         {
           "prompt": "Match the symbols to their number keys:",
           "options": [
-            "^ = 0, & = 9, * = 8, (Type shifted righthand symbols (U4))",
-            "^ = 7, & = 6, * = 9, (Type shifted righthand symbols (U4))",
-            "^ = 6, & = 7, * = 8, (Type shifted righthand symbols (U4))",
-            "^ = 1, & = 2, * = 3, (Type shifted righthand symbols (U4))"
+            "^ = 0, & = 9, * = 8, (Type shifted righthand symbols)",
+            "^ = 7, & = 6, * = 9, (Type shifted righthand symbols)",
+            "^ = 6, & = 7, * = 8, (Type shifted righthand symbols)",
+            "^ = 1, & = 2, * = 3, (Type shifted righthand symbols)"
           ],
           "answerIndex": 2,
           "explanation": "Shift + 6=^, 7=&, 8=*, 9=(, 0=), -=_, =+.",
@@ -1800,10 +1800,10 @@
         {
           "prompt": "Which finger combination produces '(x + y)'?",
           "options": [
-            "Caps lock only (Type shifted righthand symbols (U4))",
-            "Left Shift held for (Type shifted righthand symbols (U4))",
-            "One hand only (Type shifted righthand symbols (U4))",
-            "Typing with thumbs (Type shifted righthand symbols (U4))"
+            "Caps lock only (Type shifted righthand symbols)",
+            "Left Shift held for (Type shifted righthand symbols)",
+            "One hand only (Type shifted righthand symbols)",
+            "Typing with thumbs (Type shifted righthand symbols)"
           ],
           "answerIndex": 1,
           "explanation": "Opposite shift coordination across parentheses and operators.",
@@ -1812,10 +1812,10 @@
         {
           "prompt": "What does the ampersand '&' represent etymologically?",
           "options": [
-            "A ligature of the Latin word 'et' meaning 'and' (Type shifted righthand symbols (U4))",
-            "An ancient Egyptian hieroglyph (Type shifted righthand symbols (U4))",
-            "A musical treble clef (Type shifted righthand symbols (U4))",
-            "An abbreviation for apple (Type shifted righthand symbols (U4))"
+            "A ligature of the Latin word 'et' meaning 'and' (Type shifted righthand symbols)",
+            "An ancient Egyptian hieroglyph (Type shifted righthand symbols)",
+            "A musical treble clef (Type shifted righthand symbols)",
+            "An abbreviation for apple (Type shifted righthand symbols)"
           ],
           "answerIndex": 0,
           "explanation": "& is the historic typographical ligature for Latin 'et' (and).",
@@ -1824,10 +1824,10 @@
         {
           "prompt": "Which key produces the plus sign '+' when shifted?",
           "options": [
-            "The letter 'P' (Type shifted righthand symbols (U4))",
-            "The minus key '-' (Type shifted righthand symbols (U4))",
-            "The zero key '0' (Type shifted righthand symbols (U4))",
-            "The equals key '=' (Type shifted righthand symbols (U4))"
+            "The letter 'P' (Type shifted righthand symbols)",
+            "The minus key '-' (Type shifted righthand symbols)",
+            "The zero key '0' (Type shifted righthand symbols)",
+            "The equals key '=' (Type shifted righthand symbols)"
           ],
           "answerIndex": 3,
           "explanation": "Shift + '=' produces '+'.",
@@ -1836,10 +1836,10 @@
         {
           "prompt": "What is the primary goal of mastering shifted symbols by touch?",
           "options": [
-            "Winning typing games only (Type shifted righthand symbols (U4))",
-            "Increasing monitor brightness (Type shifted righthand symbols (U4))",
-            "Eliminating pauses when typing equations, code, dates, and formatted prose (Type shifted righthand symbols (U4))",
-            "Changing keyboard color (Type shifted righthand symbols (U4))"
+            "Winning typing games only (Type shifted righthand symbols)",
+            "Increasing monitor brightness (Type shifted righthand symbols)",
+            "Eliminating pauses when typing equations, code, dates, and formatted prose (Type shifted righthand symbols)",
+            "Changing keyboard color (Type shifted righthand symbols)"
           ],
           "answerIndex": 2,
           "explanation": "Fluency in symbols eliminates cognitive interruptions during technical typing.",
@@ -1883,10 +1883,10 @@
         {
           "prompt": "When executing the motor patterns for Integrate numbers (0–9), which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Maintain a steady rhythm, use opposite-hand Shift, and trust finger muscle memory without looking down (Integrate numbers 09 (U4))",
-            "Stop and look at each symbol before pressing it (Integrate numbers 09 (U4))",
-            "Type with only one hand (Integrate numbers 09 (U4))",
-            "Use Caps Lock for all symbols (Integrate numbers 09 (U4))"
+            "Maintain a steady rhythm, use opposite-hand Shift, and trust finger muscle memory without looking down (Integrate numbers 09)",
+            "Stop and look at each symbol before pressing it (Integrate numbers 09)",
+            "Type with only one hand (Integrate numbers 09)",
+            "Use Caps Lock for all symbols (Integrate numbers 09)"
           ],
           "answerIndex": 0,
           "explanation": "Steady rhythm, opposite-hand shift, and blind touch typing maximize accuracy."
@@ -1895,9 +1895,9 @@
           "prompt": "What is the correct finger execution for '$100'?",
           "options": [
             "Right Shift (Right Pinky)",
-            "Left Shift + Left Index (Integrate numbers 09 (U4))",
-            "Right Index for all (Integrate numbers 09 (U4))",
-            "Left Thumb on Shift (Integrate numbers 09 (U4))"
+            "Left Shift + Left Index (Integrate numbers 09)",
+            "Right Index for all (Integrate numbers 09)",
+            "Left Thumb on Shift (Integrate numbers 09)"
           ],
           "answerIndex": 0,
           "explanation": "$ (Right Shift + Left Index) -> 1 (Left Pinky) -> 0 -> 0 (Right Pinky)."
@@ -1905,10 +1905,10 @@
         {
           "prompt": "What is the key to typing 'user_name_2026' without pausing?",
           "options": [
-            "Smooth transition between letters and Left Shift + Right Pinky on '_' followed by number row reach (Integrate numbers 09 (U4))",
-            "Deleting the underscores (Integrate numbers 09 (U4))",
-            "Looking down at the keyboard for numbers only (Integrate numbers 09 (U4))",
-            "Pressing Space instead of underscore (Integrate numbers 09 (U4))"
+            "Smooth transition between letters and Left Shift + Right Pinky on '_' followed by number row reach (Integrate numbers 09)",
+            "Deleting the underscores (Integrate numbers 09)",
+            "Looking down at the keyboard for numbers only (Integrate numbers 09)",
+            "Pressing Space instead of underscore (Integrate numbers 09)"
           ],
           "answerIndex": 0,
           "explanation": "Fluid coordination between letter home row, Shift, and number row."
@@ -1920,10 +1920,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 4, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "0 times (Integrate numbers 09 (U4))",
-            "3 times (Integrate numbers 09 (U4))",
-            "5 times (Integrate numbers 09 (U4))",
-            "1 time (Integrate numbers 09 (U4))"
+            "0 times (Integrate numbers 09)",
+            "3 times (Integrate numbers 09)",
+            "5 times (Integrate numbers 09)",
+            "1 time (Integrate numbers 09)"
           ],
           "answerIndex": 1,
           "explanation": "'(' (9), '+' (=), and '*' (8) all reside on the right hand and use Left Shift."
@@ -1931,10 +1931,10 @@
         {
           "prompt": "What should you do if you make a typo on a symbol?",
           "options": [
-            "Strike Backspace with your Right Pinky, re-anchor on J, and re-type the key with correct finger mechanics (Integrate numbers 09 (U4))",
-            "Ignore the mistake permanently (Integrate numbers 09 (U4))",
-            "Hit the keyboard with your fist (Integrate numbers 09 (U4))",
-            "Restart the entire computer (Integrate numbers 09 (U4))"
+            "Strike Backspace with your Right Pinky, re-anchor on J, and re-type the key with correct finger mechanics (Integrate numbers 09)",
+            "Ignore the mistake permanently (Integrate numbers 09)",
+            "Hit the keyboard with your fist (Integrate numbers 09)",
+            "Restart the entire computer (Integrate numbers 09)"
           ],
           "answerIndex": 0,
           "explanation": "Quick backspace with right pinky and instant re-anchoring on J."
@@ -1946,10 +1946,10 @@
         {
           "prompt": "Type this string mentally: 'Room #102: $450/mo (Call 555-0198!)'. Which fingers execute '#', '$', '(', and ')'?",
           "options": [
-            "# = Right Index, $ = Right Middle, (Integrate numbers 09 (U4))",
-            "# = Left Middle (Integrate numbers 09 (U4))",
-            "# = Left Pinky, $ = Left Ring, (Integrate numbers 09 (U4))",
-            "All are typed with Left Index (Integrate numbers 09 (U4))"
+            "# = Right Index, $ = Right Middle, (Integrate numbers 09)",
+            "# = Left Middle (Integrate numbers 09)",
+            "# = Left Pinky, $ = Left Ring, (Integrate numbers 09)",
+            "All are typed with Left Index (Integrate numbers 09)"
           ],
           "answerIndex": 1,
           "explanation": "Correct mechanical mapping across all 4 symbol positions.",
@@ -1958,10 +1958,10 @@
         {
           "prompt": "What is the main cause of speed loss during alphanumeric typing?",
           "options": [
-            "Hesitation and looking down at the keyboard due to lack of confident number-row muscle memory (Integrate numbers 09 (U4))",
-            "Using a mechanical keyboard (Integrate numbers 09 (U4))",
-            "Screen refresh rate (Integrate numbers 09 (U4))",
-            "Typing too softly (Integrate numbers 09 (U4))"
+            "Hesitation and looking down at the keyboard due to lack of confident number-row muscle memory (Integrate numbers 09)",
+            "Using a mechanical keyboard (Integrate numbers 09)",
+            "Screen refresh rate (Integrate numbers 09)",
+            "Typing too softly (Integrate numbers 09)"
           ],
           "answerIndex": 0,
           "explanation": "Visual searching and hesitation are the primary bottlenecks in technical typing.",
@@ -1970,10 +1970,10 @@
         {
           "prompt": "What does achieving 98%+ accuracy on numbers and symbols indicate?",
           "options": [
-            "Biomechanical finger muscle memory (Integrate numbers 09 (U4))",
-            "That you only typed letters (Integrate numbers 09 (U4))",
-            "That your keyboard is broken (Integrate numbers 09 (U4))",
-            "Full spatial mastery of the entire 4-row keyboard without visual dependence (Integrate numbers 09 (U4))"
+            "Biomechanical finger muscle memory (Integrate numbers 09)",
+            "That you only typed letters (Integrate numbers 09)",
+            "That your keyboard is broken (Integrate numbers 09)",
+            "Full spatial mastery of the entire 4-row keyboard without visual dependence (Integrate numbers 09)"
           ],
           "answerIndex": 3,
           "explanation": "Full 4-row blind keyboard spatial mastery.",
@@ -1982,10 +1982,10 @@
         {
           "prompt": "In competitive typing, what is the standard word length formula used to calculate WPM?",
           "options": [
-            "10 characters equals 1 word (Integrate numbers 09 (U4))",
-            "Each word counts as 1 word regardless of length (Integrate numbers 09 (U4))",
+            "10 characters equals 1 word (Integrate numbers 09)",
+            "Each word counts as 1 word regardless of length (Integrate numbers 09)",
             "5 characters (including spaces and punctuation)",
-            "1 character equals 1 word (Integrate numbers 09 (U4))"
+            "1 character equals 1 word (Integrate numbers 09)"
           ],
           "answerIndex": 2,
           "explanation": "Standard international typing measurement: 5 keystrokes = 1 word.",
@@ -1994,10 +1994,10 @@
         {
           "prompt": "What is the primary objective of completing Unit 4 in FEARN Typing?",
           "options": [
-            "Only typing with the left hand (Integrate numbers 09 (U4))",
-            "Mastering the full numbers (Integrate numbers 09 (U4))",
-            "Learning mouse shortcuts (Integrate numbers 09 (U4))",
-            "Memorizing the home row only (Integrate numbers 09 (U4))"
+            "Only typing with the left hand (Integrate numbers 09)",
+            "Mastering the full numbers (Integrate numbers 09)",
+            "Learning mouse shortcuts (Integrate numbers 09)",
+            "Memorizing the home row only (Integrate numbers 09)"
           ],
           "answerIndex": 1,
           "explanation": "Unit 4 master objective: Full Numbers & Symbols Row Mastery.",
@@ -2040,10 +2040,10 @@
         {
           "prompt": "When executing the motor patterns for Master touch-typing all forms of brackets, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Left index finger (Master touchtyping all forms of brackets (U6))",
-            "Left pinky on Shift (Master touchtyping all forms of brackets (U6))",
-            "Right thumb (Master touchtyping all forms of brackets (U6))",
-            "Right pinky reaching up-right past P (Master touchtyping all forms of brackets (U6))"
+            "Left index finger (Master touchtyping all forms of brackets)",
+            "Left pinky on Shift (Master touchtyping all forms of brackets)",
+            "Right thumb (Master touchtyping all forms of brackets)",
+            "Right pinky reaching up-right past P (Master touchtyping all forms of brackets)"
           ],
           "answerIndex": 3,
           "explanation": "Open square bracket '[' is struck by the right pinky directly to the right of P."
@@ -2051,10 +2051,10 @@
         {
           "prompt": "How do you type the open curly brace '{'?",
           "options": [
-            "Press Alt + 7 (Master touchtyping all forms of brackets (U6))",
-            "Caps Lock + Left pinky (Master touchtyping all forms of brackets (U6))",
-            "Left pinky holds Shift + Right pinky strikes the ' (Master touchtyping all forms of brackets (U6))",
-            "Right pinky holds Shift + Left index strikes 9 (Master touchtyping all forms of brackets (U6))"
+            "Press Alt + 7 (Master touchtyping all forms of brackets)",
+            "Caps Lock + Left pinky (Master touchtyping all forms of brackets)",
+            "Left pinky holds Shift + Right pinky strikes the ' (Master touchtyping all forms of brackets)",
+            "Right pinky holds Shift + Left index strikes 9 (Master touchtyping all forms of brackets)"
           ],
           "answerIndex": 2,
           "explanation": "Opposite-shift: Left Shift + Right pinky on '[' = '{'."
@@ -2066,21 +2066,21 @@
         {
           "prompt": "For professional touch-typing technique in Unit 6, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "{ } (Master touchtyping all forms of brackets (U6))",
-            "{ } Distractor variant (Distractor variant)",
-            "{ } (Master touchtyping all forms of brackets (U6)) [Option 3]",
-            "{}   {{}} (Master touchtyping all forms of brackets (U6))"
+            "Parentheses ( ) typed with Shift+9 and Shift+0 using ring and pinky fingers",
+            "Square brackets [ ] typed directly with right hand pinky reaches",
+            "Curly braces { } typed with Shift+[ and Shift+] using right pinky anchor",
+            "Angle brackets < > typed with Shift+, and Shift+. using right ring and pinky"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "Parentheses -> square brackets -> curly braces sequence."
         },
         {
           "prompt": "Why is keeping the right index on 'J' important while typing brackets?",
           "options": [
-            "It speeds up the CPU. (Master touchtyping all forms of brackets (U6))",
-            "It makes the spacebar bigger. (Master touchtyping all forms of brackets (U6))",
-            "It turns on auto-indent. (Master touchtyping all forms of brackets (U6))",
-            "It acts as a physical spatial anchor so your hand does not drift off the home row during pinky extension. (Master touchtyping all forms of brackets (U6))"
+            "It speeds up the CPU. (Master touchtyping all forms of brackets)",
+            "It makes the spacebar bigger. (Master touchtyping all forms of brackets)",
+            "It turns on auto-indent. (Master touchtyping all forms of brackets)",
+            "It acts as a physical spatial anchor so your hand does not drift off the home row during pinky extension. (Master touchtyping all forms of brackets)"
           ],
           "answerIndex": 3,
           "explanation": "Anchor finger preserves tactile orientation during extreme reaches."
@@ -2092,10 +2092,10 @@
         {
           "prompt": "Match the bracket characters with their exact finger combinations: ( ), [ ], { }:",
           "options": [
-            ": Left Shift + Right 9/0 | (Master touchtyping all forms of brackets (U6))",
-            "All use Right Thumb (Master touchtyping all forms of brackets (U6))",
-            "All require Caps Lock (Master touchtyping all forms of brackets (U6))",
-            "All use Left Index (Master touchtyping all forms of brackets (U6))"
+            ": Left Shift + Right 9/0 | (Master touchtyping all forms of brackets)",
+            "All use Right Thumb (Master touchtyping all forms of brackets)",
+            "All require Caps Lock (Master touchtyping all forms of brackets)",
+            "All use Left Index (Master touchtyping all forms of brackets)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate bracket touch typing mechanics.",
@@ -2104,10 +2104,10 @@
         {
           "prompt": "Identify the code snippet containing all three bracket types correctly typed:",
           "options": [
-            "const data = users 10 + 2; (Master touchtyping all forms of brackets (U6))",
+            "const data = users 10 + 2; (Master touchtyping all forms of brackets)",
             "const data = (users)",
-            "const data = (Master touchtyping all forms of brackets (U6))",
-            "const data = { users (Master touchtyping all forms of brackets (U6))"
+            "const data = (Master touchtyping all forms of brackets)",
+            "const data = { users (Master touchtyping all forms of brackets)"
           ],
           "answerIndex": 3,
           "explanation": "Correct integration of braces {}, brackets [], and parentheses ().",
@@ -2116,10 +2116,10 @@
         {
           "prompt": "What common mistake occurs when novice typists reach for curly braces '{' and '}'?",
           "options": [
-            "Using the mouse instead. (Master touchtyping all forms of brackets (U6))",
-            "Holding both Shift keys at once. (Master touchtyping all forms of brackets (U6))",
-            "Looking down at the keyboard and moving the entire wrist rather than stretching only the pinky from an anchored home row. (Master touchtyping all forms of brackets (U6))",
-            "Pressing the spacebar with the pinky. (Master touchtyping all forms of brackets (U6))"
+            "Using the mouse instead. (Master touchtyping all forms of brackets)",
+            "Holding both Shift keys at once. (Master touchtyping all forms of brackets)",
+            "Looking down at the keyboard and moving the entire wrist rather than stretching only the pinky from an anchored home row. (Master touchtyping all forms of brackets)",
+            "Pressing the spacebar with the pinky. (Master touchtyping all forms of brackets)"
           ],
           "answerIndex": 2,
           "explanation": "Wrist displacement and looking down are common reach flaws.",
@@ -2128,10 +2128,10 @@
         {
           "prompt": "Complete the bracket pairing: 'function test' _______ (parentheses) ' ' _______ (braces)",
           "options": [
-            "<> / (Master touchtyping all forms of brackets (U6))",
-            "/ {} (Master touchtyping all forms of brackets (U6))",
-            "{} / (Master touchtyping all forms of brackets (U6))",
-            "/ (Master touchtyping all forms of brackets (U6))"
+            "<> / (Master touchtyping all forms of brackets)",
+            "/ {} (Master touchtyping all forms of brackets)",
+            "{} / (Master touchtyping all forms of brackets)",
+            "/ (Master touchtyping all forms of brackets)"
           ],
           "answerIndex": 1,
           "explanation": "function test() {} syntax.",
@@ -2174,10 +2174,10 @@
         {
           "prompt": "When executing the motor patterns for Achieve rapid touch-typing accuracy on all mathematical, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Right pinky holds Shift + Left pinky strikes 1 (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "Right index strikes 1 (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "Left pinky holds Shift + Left pinky strikes 1 (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "Caps Lock + 1 (Achieve rapid touchtyping accuracy on all mathematical (U6))"
+            "Right pinky holds Shift + Left pinky strikes 1 (Achieve rapid touchtyping accuracy on all mathematical)",
+            "Right index strikes 1 (Achieve rapid touchtyping accuracy on all mathematical)",
+            "Left pinky holds Shift + Left pinky strikes 1 (Achieve rapid touchtyping accuracy on all mathematical)",
+            "Caps Lock + 1 (Achieve rapid touchtyping accuracy on all mathematical)"
           ],
           "answerIndex": 0,
           "explanation": "Opposite-shift rule: Right Shift + Left Pinky on 1 = '!'."
@@ -2185,10 +2185,10 @@
         {
           "prompt": "Which keys produce '<' and '>'?",
           "options": [
-            "Left Shift + comma (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "Left Shift + M and N (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "Direct press without Shift (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "Right Shift + 1 and 2 (Achieve rapid touchtyping accuracy on all mathematical (U6))"
+            "Left Shift + comma (Achieve rapid touchtyping accuracy on all mathematical)",
+            "Left Shift + M and N (Achieve rapid touchtyping accuracy on all mathematical)",
+            "Direct press without Shift (Achieve rapid touchtyping accuracy on all mathematical)",
+            "Right Shift + 1 and 2 (Achieve rapid touchtyping accuracy on all mathematical)"
           ],
           "answerIndex": 0,
           "explanation": "Shift + Comma = '<'; Shift + Period = '>'."
@@ -2200,10 +2200,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 6, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "+ = - * / < > (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "! & | % + - (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "+ - * / = < > ! & | % (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "* / = < > (Achieve rapid touchtyping accuracy on all mathematical (U6))"
+            "+ = - * / < > (Achieve rapid touchtyping accuracy on all mathematical)",
+            "! & | % + - (Achieve rapid touchtyping accuracy on all mathematical)",
+            "+ - * / = < > ! & | % (Achieve rapid touchtyping accuracy on all mathematical)",
+            "* / = < > (Achieve rapid touchtyping accuracy on all mathematical)"
           ],
           "answerIndex": 2,
           "explanation": "Math and logic operator sequence."
@@ -2211,10 +2211,10 @@
         {
           "prompt": "What symbol is produced by Left Shift + Right Pinky on the '=' key?",
           "options": [
-            "- (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "= (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "_ (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "+ (Achieve rapid touchtyping accuracy on all mathematical (U6))"
+            "- (Achieve rapid touchtyping accuracy on all mathematical)",
+            "= (Achieve rapid touchtyping accuracy on all mathematical)",
+            "_ (Achieve rapid touchtyping accuracy on all mathematical)",
+            "+ (Achieve rapid touchtyping accuracy on all mathematical)"
           ],
           "answerIndex": 3,
           "explanation": "Shift + '=' produces '+'."
@@ -2226,10 +2226,10 @@
         {
           "prompt": "Match the operator symbols to their Shift combinations: !, &, +, <, |:",
           "options": [
-            "All use Caps Lock (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "All use Right Shift (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "All are on the number pad only (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "!: Right Shift+1 | &: Left Shift+7 | +: Left Shift+= | <: Left Shift+, | |: Left Shift+\\ (Achieve rapid touchtyping accuracy on all mathematical (U6))"
+            "All use Caps Lock (Achieve rapid touchtyping accuracy on all mathematical)",
+            "All use Right Shift (Achieve rapid touchtyping accuracy on all mathematical)",
+            "All are on the number pad only (Achieve rapid touchtyping accuracy on all mathematical)",
+            "!: Right Shift+1 | &: Left Shift+7 | +: Left Shift+= | <: Left Shift+, | |: Left Shift+\\ (Achieve rapid touchtyping accuracy on all mathematical)"
           ],
           "answerIndex": 3,
           "explanation": "Operator shift mechanics.",
@@ -2238,10 +2238,10 @@
         {
           "prompt": "What is the result of typing: (x >= y) && (total != 0)?",
           "options": [
-            "A math equation without variables (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "A file path (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "A boolean conditional testing if x is greater than/equal to y AND total is not equal to zero (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "A syntax error (Achieve rapid touchtyping accuracy on all mathematical (U6))"
+            "A math equation without variables (Achieve rapid touchtyping accuracy on all mathematical)",
+            "A file path (Achieve rapid touchtyping accuracy on all mathematical)",
+            "A boolean conditional testing if x is greater than/equal to y AND total is not equal to zero (Achieve rapid touchtyping accuracy on all mathematical)",
+            "A syntax error (Achieve rapid touchtyping accuracy on all mathematical)"
           ],
           "answerIndex": 2,
           "explanation": "Standard boolean logic statement.",
@@ -2250,10 +2250,10 @@
         {
           "prompt": "Why is the opposite-shift rule critical when typing symbols like '!' and '&'?",
           "options": [
-            "It makes numbers larger. (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "It prevents hand strain and awkward contortion, keeping both hands balanced across the keyboard. (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "It disables autocorrect. (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "It increases keyboard volume. (Achieve rapid touchtyping accuracy on all mathematical (U6))"
+            "It makes numbers larger. (Achieve rapid touchtyping accuracy on all mathematical)",
+            "It prevents hand strain and awkward contortion, keeping both hands balanced across the keyboard. (Achieve rapid touchtyping accuracy on all mathematical)",
+            "It disables autocorrect. (Achieve rapid touchtyping accuracy on all mathematical)",
+            "It increases keyboard volume. (Achieve rapid touchtyping accuracy on all mathematical)"
           ],
           "answerIndex": 1,
           "explanation": "Opposite-shift ensures ergonomic hand posture.",
@@ -2262,10 +2262,10 @@
         {
           "prompt": "Complete: 'To check if a number is even, use: (n _______ 2 === 0)'",
           "options": [
-            "% (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "^ (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "~ (Achieve rapid touchtyping accuracy on all mathematical (U6))",
-            "+ (Achieve rapid touchtyping accuracy on all mathematical (U6))"
+            "% (Achieve rapid touchtyping accuracy on all mathematical)",
+            "^ (Achieve rapid touchtyping accuracy on all mathematical)",
+            "~ (Achieve rapid touchtyping accuracy on all mathematical)",
+            "+ (Achieve rapid touchtyping accuracy on all mathematical)"
           ],
           "answerIndex": 0,
           "explanation": "Modulo operator %.",
@@ -2308,10 +2308,10 @@
         {
           "prompt": "When executing the motor patterns for Master quotes (' \"), which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Right ring finger (Master quotes (U6))",
-            "Left pinky (Master quotes (U6))",
-            "Right index finger (Master quotes (U6))",
-            "Right pinky (Master quotes (U6))"
+            "Right ring finger (Master quotes)",
+            "Left pinky (Master quotes)",
+            "Right index finger (Master quotes)",
+            "Right pinky (Master quotes)"
           ],
           "answerIndex": 3,
           "explanation": "Right pinky rests on the ';' key at home row."
@@ -2319,9 +2319,9 @@
         {
           "prompt": "How do you type the underscore character '_'?",
           "options": [
-            "Press spacebar twice (Master quotes (U6))",
-            "Right index on Shift + Left index on 0 (Master quotes (U6))",
-            "Caps Lock + minus (Master quotes (U6))",
+            "Press spacebar twice (Master quotes)",
+            "Right index on Shift + Left index on 0 (Master quotes)",
+            "Caps Lock + minus (Master quotes)",
             "Left pinky on Shift + Right pinky strikes the '-' (hyphen)"
           ],
           "answerIndex": 3,
@@ -2334,10 +2334,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 6, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "\"hello_world\": 'status_ok'; (Master quotes (U6))",
-            "'hello world' status ok (Master quotes (U6))",
-            "hello_world = status_ok (Master quotes (U6))",
-            ":hello_world: 'status_ok' (Master quotes (U6))"
+            "\"hello_world\": 'status_ok'; (Master quotes)",
+            "'hello world' status ok (Master quotes)",
+            "hello_world = status_ok (Master quotes)",
+            ":hello_world: 'status_ok' (Master quotes)"
           ],
           "answerIndex": 0,
           "explanation": "Double quotes, underscore, colon, single quotes, and semicolon."
@@ -2346,9 +2346,9 @@
           "prompt": "What is the difference between forward slash '/' and backslash '\\' in typing reach?",
           "options": [
             "Forward slash '/' is in the bottom row (near right Shift)",
-            "They are on the same key. (Master quotes (U6))",
-            "Backslash is on the spacebar. (Master quotes (U6))",
-            "Forward slash requires Shift. (Master quotes (U6))"
+            "They are on the same key. (Master quotes)",
+            "Backslash is on the spacebar. (Master quotes)",
+            "Forward slash requires Shift. (Master quotes)"
           ],
           "answerIndex": 0,
           "explanation": "Bottom-right vs. top-right pinky reach."
@@ -2360,10 +2360,10 @@
         {
           "prompt": "Match the characters: ;, :, ', \", _, /:",
           "options": [
-            "All use Left Hand only (Master quotes (U6))",
-            "All require Alt key (Master quotes (U6))",
-            ";: Right Pinky home | :: Shift+; | ': Right Pinky right of ; | \": Shift+' | _: Shift+- | /: Bottom right (Master quotes (U6))",
-            "All use Right Thumb (Master quotes (U6))"
+            "All use Left Hand only (Master quotes)",
+            "All require Alt key (Master quotes)",
+            ";: Right Pinky home | :: Shift+; | ': Right Pinky right of ; | \": Shift+' | _: Shift+- | /: Bottom right (Master quotes)",
+            "All use Right Thumb (Master quotes)"
           ],
           "answerIndex": 2,
           "explanation": "Punctuation key assignments.",
@@ -2372,10 +2372,10 @@
         {
           "prompt": "Identify the correctly formatted JSON key-value pair string:",
           "options": [
-            "user_profile / true (Master quotes (U6))",
-            "\"user_profile\": { \"is_active\": true, \"role\": \"admin\" }; (Master quotes (U6))",
-            "user_profile = true; (Master quotes (U6))",
-            "user profile : admin; (Master quotes (U6))"
+            "user_profile / true (Master quotes)",
+            "\"user_profile\": { \"is_active\": true, \"role\": \"admin\" }; (Master quotes)",
+            "user_profile = true; (Master quotes)",
+            "user profile : admin; (Master quotes)"
           ],
           "answerIndex": 1,
           "explanation": "Standard JSON key-value string with quotes, underscores, and colons.",
@@ -2384,10 +2384,10 @@
         {
           "prompt": "Why is the semicolon ';' considered the most critical anchor key for the right pinky?",
           "options": [
-            "Because resting on ';' keeps the right hand perfectly aligned with the home row (Master quotes (U6))",
-            "Because English sentences only end in semicolons. (Master quotes (U6))",
-            "It is a decorative marker. (Master quotes (U6))",
-            "Because it is the largest key. (Master quotes (U6))"
+            "Because resting on ';' keeps the right hand perfectly aligned with the home row (Master quotes)",
+            "Because English sentences only end in semicolons. (Master quotes)",
+            "It is a decorative marker. (Master quotes)",
+            "Because it is the largest key. (Master quotes)"
           ],
           "answerIndex": 0,
           "explanation": "Semicolon is the spatial anchor for the entire right hand.",
@@ -2396,10 +2396,10 @@
         {
           "prompt": "Complete: 'To write an escaped quote inside a string, type: \\' or _______'",
           "options": [
-            "// (Master quotes (U6))",
-            "/\" (Master quotes (U6))",
-            "-- (Master quotes (U6))",
-            "\\\" (Master quotes (U6))"
+            "// (Master quotes)",
+            "/\" (Master quotes)",
+            "-- (Master quotes)",
+            "\\\" (Master quotes)"
           ],
           "answerIndex": 3,
           "explanation": "\\\" is the escaped double quote.",
@@ -2442,10 +2442,10 @@
         {
           "prompt": "When executing the motor patterns for Type structured JSON data blocks, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Maintaining a steady, uninterrupted metronomic rhythm rather than rushing letters and pausing on symbols (Type structured JSON data blocks (U6))",
-            "Stopping typing after every line (Type structured JSON data blocks (U6))",
-            "Using the mouse to click symbols on an on-screen keyboard (Type structured JSON data blocks (U6))",
-            "Looking down at the keyboard for every symbol (Type structured JSON data blocks (U6))"
+            "Maintaining a steady, uninterrupted metronomic rhythm rather than rushing letters and pausing on symbols (Type structured JSON data blocks)",
+            "Stopping typing after every line (Type structured JSON data blocks)",
+            "Using the mouse to click symbols on an on-screen keyboard (Type structured JSON data blocks)",
+            "Looking down at the keyboard for every symbol (Type structured JSON data blocks)"
           ],
           "answerIndex": 0,
           "explanation": "Steady rhythm prevents cognitive hesitation on punctuation."
@@ -2453,10 +2453,10 @@
         {
           "prompt": "In standard JSON syntax, how are keys and string values enclosed?",
           "options": [
-            "In double quotation marks \" \" (Type structured JSON data blocks (U6))",
-            "In parentheses (Type structured JSON data blocks (U6))",
-            "In backticks ` ` (Type structured JSON data blocks (U6))",
-            "In single quotes ' ' (Type structured JSON data blocks (U6))"
+            "In double quotation marks \" \" (Type structured JSON data blocks)",
+            "In parentheses (Type structured JSON data blocks)",
+            "In backticks ` ` (Type structured JSON data blocks)",
+            "In single quotes ' ' (Type structured JSON data blocks)"
           ],
           "answerIndex": 0,
           "explanation": "JSON strictly mandates double quotes \" \"."
@@ -2468,10 +2468,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 6, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "if (Type structured JSON data blocks (U6))",
-            "if {total > 100} (Type structured JSON data blocks (U6))",
-            "if total > 100 discount = 0.15 (Type structured JSON data blocks (U6))",
-            "if (Type structured JSON data blocks (U6)) [Option 4]"
+            "const data = { id: 1, name: 'Fearn' }; (Structured JSON object declaration)",
+            "let list = [10, 20, 30, 40]; (Array bracket declaration with comma delimiters)",
+            "function parse(json) { return JSON.parse(json); } (Function block syntax)",
+            "if (payload.status === 200) { handleSuccess(); } (Conditional block structure)"
           ],
           "answerIndex": 0,
           "explanation": "Standard conditional block with parentheses, braces, and assignment."
@@ -2479,10 +2479,10 @@
         {
           "prompt": "What does 'lookahead buffering' mean in touch typing?",
           "options": [
-            "Reading 1 to 2 words/tokens ahead on the screen while your fingers automatically type the current token from muscle memory (Type structured JSON data blocks (U6))",
-            "Typing without a screen (Type structured JSON data blocks (U6))",
-            "Using artificial intelligence to auto-complete (Type structured JSON data blocks (U6))",
-            "Guessing random letters (Type structured JSON data blocks (U6))"
+            "Reading 1 to 2 words/tokens ahead on the screen while your fingers automatically type the current token from muscle memory (Type structured JSON data blocks)",
+            "Typing without a screen (Type structured JSON data blocks)",
+            "Using artificial intelligence to auto-complete (Type structured JSON data blocks)",
+            "Guessing random letters (Type structured JSON data blocks)"
           ],
           "answerIndex": 0,
           "explanation": "Visual lookahead buffering decouples physical finger motion from visual reading."
@@ -2494,10 +2494,10 @@
         {
           "prompt": "Match the programming language token conventions: camelCase, snake_case, kebab-case, CONSTANT_CASE:",
           "options": [
-            "All use only spaces (Type structured JSON data blocks (U6))",
-            "camelCase: myVariable | snake_case: my_variable | kebab-case: my-variable | CONSTANT_CASE: MY_VARIABLE (Type structured JSON data blocks (U6))",
-            "All use only periods (Type structured JSON data blocks (U6))",
-            "All mean identical uppercase strings (Type structured JSON data blocks (U6))"
+            "All use only spaces (Type structured JSON data blocks)",
+            "camelCase: myVariable | snake_case: my_variable | kebab-case: my-variable | CONSTANT_CASE: MY_VARIABLE (Type structured JSON data blocks)",
+            "All use only periods (Type structured JSON data blocks)",
+            "All mean identical uppercase strings (Type structured JSON data blocks)"
           ],
           "answerIndex": 1,
           "explanation": "Standard programming naming conventions.",
@@ -2506,10 +2506,10 @@
         {
           "prompt": "Identify the code snippet that combines brackets, braces, quotes, colons, and operators without syntax error:",
           "options": [
-            "const app = { port: 3000, routes (Type structured JSON data blocks (U6))",
-            "const app = port 3000 routes api users; (Type structured JSON data blocks (U6))",
+            "const app = { port: 3000, routes (Type structured JSON data blocks)",
+            "const app = port 3000 routes api users; (Type structured JSON data blocks)",
             "const app = (api users)",
-            "const app = < port 3000 >; (Type structured JSON data blocks (U6))"
+            "const app = < port 3000 >; (Type structured JSON data blocks)"
           ],
           "answerIndex": 0,
           "explanation": "Clean JavaScript object literal declaration.",
@@ -2518,9 +2518,9 @@
         {
           "prompt": "Why is 98%+ accuracy especially critical when typing computer code compared to informal chat messages?",
           "options": [
-            "It is not critical. (Type structured JSON data blocks (U6))",
-            "Because code is written in bold. (Type structured JSON data blocks (U6))",
-            "Because programming requires larger screens. (Type structured JSON data blocks (U6))",
+            "It is not critical. (Type structured JSON data blocks)",
+            "Because code is written in bold. (Type structured JSON data blocks)",
+            "Because programming requires larger screens. (Type structured JSON data blocks)",
             "In code, an error in a single punctuation character (like a missing semicolon or swapped bracket)"
           ],
           "answerIndex": 3,
@@ -2530,10 +2530,10 @@
         {
           "prompt": "Complete the CSS rule: '.container { max-width: 1200px; margin: 0 auto; _______ }'",
           "options": [
-            "= padding 20px (Type structured JSON data blocks (U6))",
-            "padding 20px (Type structured JSON data blocks (U6))",
-            "padding: 20px; (Type structured JSON data blocks (U6))",
-            "padding : : 20px (Type structured JSON data blocks (U6))"
+            "= padding 20px (Type structured JSON data blocks)",
+            "padding 20px (Type structured JSON data blocks)",
+            "padding: 20px; (Type structured JSON data blocks)",
+            "padding : : 20px (Type structured JSON data blocks)"
           ],
           "answerIndex": 2,
           "explanation": "Valid CSS property declaration: padding: 20px;.",
@@ -2576,10 +2576,10 @@
         {
           "prompt": "When executing the motor patterns for Demonstrate comprehensive Unit 6 advanced code-style typing fluency by completing a master full-stack codeblock sprint (JavaScript, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Top-left key above Tab and left of 1 (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Right pinky next to Enter (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Bottom row next to Space (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Number pad 0 (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))"
+            "Top-left key above Tab and left of 1 (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Right pinky next to Enter (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Bottom row next to Space (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Number pad 0 (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)"
           ],
           "answerIndex": 0,
           "explanation": "Backtick '`' is at the top left of standard QWERTY keyboards, struck by the left pinky."
@@ -2587,10 +2587,10 @@
         {
           "prompt": "What is the primary indicator of mastery in code-style touch typing?",
           "options": [
-            "Maintaining uniform typing cadence across letters, brackets, and operators without pausing or looking down (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Jerky key impacts and erratic hand movement (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Typing only lowercase letters (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Using backspace on every second word (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))"
+            "Maintaining uniform typing cadence across letters, brackets, and operators without pausing or looking down (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Jerky key impacts and erratic hand movement (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Typing only lowercase letters (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Using backspace on every second word (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)"
           ],
           "answerIndex": 0,
           "explanation": "Uniform cadence and zero downward glances represent true touch typing mastery."
@@ -2602,9 +2602,9 @@
         {
           "prompt": "For professional touch-typing technique in Unit 6, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "return id = data.id name = data.name (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "return { id: data.id, name: data.name, active: true }; (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "return (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
+            "return id = data.id name = data.name (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "return { id: data.id, name: data.name, active: true }; (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "return (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
             "return (id: data.id, name: data.name)"
           ],
           "answerIndex": 1,
@@ -2613,10 +2613,10 @@
         {
           "prompt": "What calculation determines Net WPM when typing a 250-character code block in 60 seconds with 98% accuracy?",
           "options": [
-            "49.0 Net WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "75 WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "20 WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "30 WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))"
+            "49.0 Net WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "75 WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "20 WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "30 WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)"
           ],
           "answerIndex": 0,
           "explanation": "(250 / 5) * 0.98 = 49.0 Net WPM."
@@ -2628,10 +2628,10 @@
         {
           "prompt": "What core technical and neuromuscular skills were mastered across Touch Typing Unit 6?",
           "options": [
-            "All bracket types (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Home row letters only (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Number pad typing only (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Function keys only (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))"
+            "All bracket types (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Home row letters only (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Number pad typing only (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Function keys only (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)"
           ],
           "answerIndex": 0,
           "explanation": "Unit 6 comprehensive advanced punctuation and code-style typing mastery.",
@@ -2640,9 +2640,9 @@
         {
           "prompt": "Identify the complete, valid Python dictionary comprehension string:",
           "options": [
-            "{ key = value * 2 } (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "{ key: value * 2 for key in items } (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "key: value * 2 (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
+            "{ key = value * 2 } (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "{ key: value * 2 for key in items } (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "key: value * 2 (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
             "{ key: value * 2 for (key, value)"
           ],
           "answerIndex": 3,
@@ -2652,10 +2652,10 @@
         {
           "prompt": "Why does touch-typing code without looking at the keyboard directly accelerate software development?",
           "options": [
-            "It turns off compiler warnings. (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "It reduces electricity usage. (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
+            "It turns off compiler warnings. (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "It reduces electricity usage. (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
             "It removes visual distraction, allowing working memory to remain 100% focused on algorithm architecture, debugging, and logic flow (deliberate practice)",
-            "It replaces the need for automated tests. (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))"
+            "It replaces the need for automated tests. (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)"
           ],
           "answerIndex": 2,
           "explanation": "Preserves cognitive working memory capacity during complex coding tasks.",
@@ -2664,10 +2664,10 @@
         {
           "prompt": "What is the next frontier of touch typing in Unit 7?",
           "options": [
-            "High-speed alphanumeric burst typing with 99% accuracy (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Sustained Accuracy Interval Drills (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Dynamic programming symbols and operator key mastery (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))",
-            "Sustained ergonomic touch typing at 80+ WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript (U6))"
+            "High-speed alphanumeric burst typing with 99% accuracy (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Sustained Accuracy Interval Drills (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Dynamic programming symbols and operator key mastery (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)",
+            "Sustained ergonomic touch typing at 80+ WPM (Demonstrate comprehensive Unit 6 advanced codestyle typing fluency by completing a master fullstack codeblock sprint JavaScript)"
           ],
           "answerIndex": 1,
           "explanation": "Unit 7 focuses on sustained accuracy interval drills and stamina endurance.",
@@ -2705,10 +2705,10 @@
         {
           "prompt": "When executing the motor patterns for Execute 60-second continuous focus sprints holding 98%+ accuracy across varied English prose without looking down or pausing between words, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Directly at the exact character being pressed (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "10 words behind (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "At your hands (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "2 to 3 words ahead (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))"
+            "Directly at the exact character being pressed (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "10 words behind (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "At your hands (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "2 to 3 words ahead (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)"
           ],
           "answerIndex": 3,
           "explanation": "Looking 2-3 words ahead allows the brain to chunk words into pre-compiled motor programs."
@@ -2716,10 +2716,10 @@
         {
           "prompt": "What is the primary cause of speed drops between seconds 35 and 50 of a 1-minute sprint?",
           "options": [
-            "Fingernail growth (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Monitor refresh rate decay (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Cognitive fatigue, loss of visual lookahead, and muscle tension spikes causing micro-pauses (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Keyboard overheating (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))"
+            "Fingernail growth (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Monitor refresh rate decay (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Cognitive fatigue, loss of visual lookahead, and muscle tension spikes causing micro-pauses (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Keyboard overheating (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)"
           ],
           "answerIndex": 2,
           "explanation": "Loss of continuity and forearm tension spikes degrade rhythm during mid-sprint fatigue."
@@ -2731,10 +2731,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 7, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Smashing keys harder (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Using only the index fingers (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Looking down at every punctuation mark (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Eliminating micro-pauses and hesitations between words to maintain continuous flow (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))"
+            "Smashing keys harder (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Using only the index fingers (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Looking down at every punctuation mark (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Eliminating micro-pauses and hesitations between words to maintain continuous flow (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)"
           ],
           "answerIndex": 3,
           "explanation": "Continuous fluid motion without hesitations yields massive WPM gains."
@@ -2742,10 +2742,10 @@
         {
           "prompt": "Why should your wrists float slightly above the desk during typing sprints?",
           "options": [
-            "To make more noise (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "To stretch the keyboard cable (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "To cool down the desk (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "To prevent friction drag, maintain agile lateral reach, and protect the carpal tunnel from compressive pressure (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))"
+            "To make more noise (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "To stretch the keyboard cable (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "To cool down the desk (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "To prevent friction drag, maintain agile lateral reach, and protect the carpal tunnel from compressive pressure (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)"
           ],
           "answerIndex": 3,
           "explanation": "Floating wrists optimize biomechanical mobility and prevent ergonomic injury."
@@ -2757,10 +2757,10 @@
         {
           "prompt": "What accuracy threshold must you maintain during 1-minute focus intervals to ensure optimal motor learning (deliberate practice)?",
           "options": [
-            "70% accuracy with frantic speed (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "50% accuracy (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "100% accuracy at 10 WPM only (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "98.0% to 99.5%+ accuracy (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))"
+            "70% accuracy with frantic speed (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "50% accuracy (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "100% accuracy at 10 WPM only (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "98.0% to 99.5%+ accuracy (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)"
           ],
           "answerIndex": 3,
           "explanation": "High accuracy (>98%) reinforces clean motor pathways without myelinating typos.",
@@ -2769,10 +2769,10 @@
         {
           "prompt": "Select the correct drill sentence demonstrating balanced prose rhythm:",
           "options": [
-            "Modrn archtecture blends natral light... (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "MODERN ARCHITECTURE BLENDS... (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Modern architecture blends natural light with sustainable materials to create serene public spaces. (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "modernarchitectureblendsnaturallight... (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))"
+            "Modrn archtecture blends natral light... (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "MODERN ARCHITECTURE BLENDS... (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Modern architecture blends natural light with sustainable materials to create serene public spaces. (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "modernarchitectureblendsnaturallight... (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)"
           ],
           "answerIndex": 2,
           "explanation": "Standard mixed-case English prose with natural spacing and punctuation.",
@@ -2781,10 +2781,10 @@
         {
           "prompt": "What should you do if your fingers tense up during the final 15 seconds of a sprint?",
           "options": [
-            "Slam the spacebar with both thumbs (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Exhale deeply, consciously drop shoulder tension, and ease finger pressure back into a light, dancing touch (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Look down at your hands (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "Stop typing and shake your head (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))"
+            "Slam the spacebar with both thumbs (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Exhale deeply, consciously drop shoulder tension, and ease finger pressure back into a light, dancing touch (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Look down at your hands (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "Stop typing and shake your head (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)"
           ],
           "answerIndex": 1,
           "explanation": "Conscious breath regulation and releasing forearm tension restores typing cadence.",
@@ -2794,9 +2794,9 @@
           "prompt": "What is the typing speed formula?",
           "options": [
             "WPM = (Total characters typed / 5)",
-            "WPM = Total keystrokes / 10 (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "WPM = Accuracy percentage * 2 (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))",
-            "WPM = Total words counted on screen / 2 (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words (U7))"
+            "WPM = Total keystrokes / 10 (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "WPM = Accuracy percentage * 2 (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)",
+            "WPM = Total words counted on screen / 2 (Execute 60second continuous focus sprints holding 98 accuracy across varied English prose without looking down or pausing between words)"
           ],
           "answerIndex": 0,
           "explanation": "Standard WPM metric defines one word as 5 characters (including spaces).",
@@ -2834,10 +2834,10 @@
         {
           "prompt": "When executing the motor patterns for Build sustained 2-minute aerobic typing stamina, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Pressing keys with the minimum force necessary for switch actuation rather than bottoming out violently, conserving muscular energy (Build sustained 2minute aerobic typing stamina (U7))",
-            "Skipping the spacebar (Build sustained 2minute aerobic typing stamina (U7))",
-            "Typing with actual bird feathers (Build sustained 2minute aerobic typing stamina (U7))",
-            "Hovering hands 3 feet in the air (Build sustained 2minute aerobic typing stamina (U7))"
+            "Pressing keys with the minimum force necessary for switch actuation rather than bottoming out violently, conserving muscular energy (Build sustained 2minute aerobic typing stamina)",
+            "Skipping the spacebar (Build sustained 2minute aerobic typing stamina)",
+            "Typing with actual bird feathers (Build sustained 2minute aerobic typing stamina)",
+            "Hovering hands 3 feet in the air (Build sustained 2minute aerobic typing stamina)"
           ],
           "answerIndex": 0,
           "explanation": "Light keypress force conserves forearm energy and prevents fatigue over long intervals."
@@ -2845,10 +2845,10 @@
         {
           "prompt": "How should you approach the first 30 seconds of a 2-minute typing interval?",
           "options": [
-            "Establish a smooth, controlled 90% cruising pace with 99%+ accuracy rather than over-sprinting (Build sustained 2minute aerobic typing stamina (U7))",
-            "Type at 150% maximum burst speed until your fingers hurt (Build sustained 2minute aerobic typing stamina (U7))",
-            "Type with one hand only (Build sustained 2minute aerobic typing stamina (U7))",
-            "Wait 10 seconds before starting (Build sustained 2minute aerobic typing stamina (U7))"
+            "Establish a smooth, controlled 90% cruising pace with 99%+ accuracy rather than over-sprinting (Build sustained 2minute aerobic typing stamina)",
+            "Type at 150% maximum burst speed until your fingers hurt (Build sustained 2minute aerobic typing stamina)",
+            "Type with one hand only (Build sustained 2minute aerobic typing stamina)",
+            "Wait 10 seconds before starting (Build sustained 2minute aerobic typing stamina)"
           ],
           "answerIndex": 0,
           "explanation": "Even pacing from the start yields higher average WPM and fewer fatigue errors."
@@ -2860,10 +2860,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 7, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Stop typing for 2 seconds at each line break (Build sustained 2minute aerobic typing stamina (U7))",
-            "Hit Enter twice after every line (Build sustained 2minute aerobic typing stamina (U7))",
-            "Train your eyes to scan the opening of the next line while your hands complete the current line's final word (Build sustained 2minute aerobic typing stamina (U7))",
-            "Memorize the entire paragraph before starting (Build sustained 2minute aerobic typing stamina (U7))"
+            "Stop typing for 2 seconds at each line break (Build sustained 2minute aerobic typing stamina)",
+            "Hit Enter twice after every line (Build sustained 2minute aerobic typing stamina)",
+            "Train your eyes to scan the opening of the next line while your hands complete the current line's final word (Build sustained 2minute aerobic typing stamina)",
+            "Memorize the entire paragraph before starting (Build sustained 2minute aerobic typing stamina)"
           ],
           "answerIndex": 2,
           "explanation": "Predictive visual line-scanning maintains uninterrupted rhythm across line wraps."
@@ -2871,10 +2871,10 @@
         {
           "prompt": "Which muscle group is primarily responsible for finger extension and prone to fatigue during long typing intervals?",
           "options": [
-            "Biceps brachii (Build sustained 2minute aerobic typing stamina (U7))",
-            "Quadriceps femoris (Build sustained 2minute aerobic typing stamina (U7))",
-            "Pectoralis major (Build sustained 2minute aerobic typing stamina (U7))",
-            "Forearm extensor muscles (Build sustained 2minute aerobic typing stamina (U7))"
+            "Biceps brachii (Build sustained 2minute aerobic typing stamina)",
+            "Quadriceps femoris (Build sustained 2minute aerobic typing stamina)",
+            "Pectoralis major (Build sustained 2minute aerobic typing stamina)",
+            "Forearm extensor muscles (Build sustained 2minute aerobic typing stamina)"
           ],
           "answerIndex": 3,
           "explanation": "Forearm extensor muscles control finger lift and lateral reaches."
@@ -2886,10 +2886,10 @@
         {
           "prompt": "Match the typing stamina factors: Feather touch, Cruising pace, Line-wrap lookahead, Wrist posture:",
           "options": [
-            "All mean looking at keys (Build sustained 2minute aerobic typing stamina (U7))",
-            "All are food terms (Build sustained 2minute aerobic typing stamina (U7))",
-            "Feather touch: energy conservation | Cruising pace: steady velocity | Line-wrap lookahead: continuous reading | Wrist posture: floating neutral (Build sustained 2minute aerobic typing stamina (U7))",
-            "All mean heavy smashing (Build sustained 2minute aerobic typing stamina (U7))"
+            "All mean looking at keys (Build sustained 2minute aerobic typing stamina)",
+            "All are food terms (Build sustained 2minute aerobic typing stamina)",
+            "Feather touch: energy conservation | Cruising pace: steady velocity | Line-wrap lookahead: continuous reading | Wrist posture: floating neutral (Build sustained 2minute aerobic typing stamina)",
+            "All mean heavy smashing (Build sustained 2minute aerobic typing stamina)"
           ],
           "answerIndex": 2,
           "explanation": "Typing stamina biomechanics matching.",
@@ -2898,10 +2898,10 @@
         {
           "prompt": "Identify the multi-syllabic passage best suited for 2-minute endurance practice:",
           "options": [
-            "TECHNOLOGY IS FAST AND GOOD... (Build sustained 2minute aerobic typing stamina (U7))",
-            "Technological innovation continuously reshapes global communication, transforming how communities collaborate across geographic boundaries. (Build sustained 2minute aerobic typing stamina (U7))",
-            "12345 67890 12345 67890... (Build sustained 2minute aerobic typing stamina (U7))",
-            "Tech inovaton continously reshaps... (Build sustained 2minute aerobic typing stamina (U7))"
+            "TECHNOLOGY IS FAST AND GOOD... (Build sustained 2minute aerobic typing stamina)",
+            "Technological innovation continuously reshapes global communication, transforming how communities collaborate across geographic boundaries. (Build sustained 2minute aerobic typing stamina)",
+            "12345 67890 12345 67890... (Build sustained 2minute aerobic typing stamina)",
+            "Tech inovaton continously reshaps... (Build sustained 2minute aerobic typing stamina)"
           ],
           "answerIndex": 1,
           "explanation": "Balanced academic exposition with multi-syllabic words and commas.",
@@ -2910,10 +2910,10 @@
         {
           "prompt": "Why does over-sprinting in the first 30 seconds lead to lower overall test results?",
           "options": [
-            "Early error spikes cause psychological panic and lactic acid build-up in small hand muscles, causing severe speed degradation in minutes 2 and beyond (Build sustained 2minute aerobic typing stamina (U7))",
-            "The keyboard timer runs faster (Build sustained 2minute aerobic typing stamina (U7))",
-            "It turns off word wrap (Build sustained 2minute aerobic typing stamina (U7))",
-            "The computer caps your speed (Build sustained 2minute aerobic typing stamina (U7))"
+            "Early error spikes cause psychological panic and lactic acid build-up in small hand muscles, causing severe speed degradation in minutes 2 and beyond (Build sustained 2minute aerobic typing stamina)",
+            "The keyboard timer runs faster (Build sustained 2minute aerobic typing stamina)",
+            "It turns off word wrap (Build sustained 2minute aerobic typing stamina)",
+            "The computer caps your speed (Build sustained 2minute aerobic typing stamina)"
           ],
           "answerIndex": 0,
           "explanation": "Over-sprinting leads to error cascades and muscular exhaustion.",
@@ -2922,10 +2922,10 @@
         {
           "prompt": "What is the recommended wrist angle relative to the forearm during typing?",
           "options": [
-            "Bent upward at 45 degrees (Build sustained 2minute aerobic typing stamina (U7))",
-            "Bent downward at 45 degrees (Build sustained 2minute aerobic typing stamina (U7))",
-            "Twisted outward laterally (Build sustained 2minute aerobic typing stamina (U7))",
-            "Straight and neutral (Build sustained 2minute aerobic typing stamina (U7))"
+            "Bent upward at 45 degrees (Build sustained 2minute aerobic typing stamina)",
+            "Bent downward at 45 degrees (Build sustained 2minute aerobic typing stamina)",
+            "Twisted outward laterally (Build sustained 2minute aerobic typing stamina)",
+            "Straight and neutral (Build sustained 2minute aerobic typing stamina)"
           ],
           "answerIndex": 3,
           "explanation": "Neutral wrist alignment minimizes median nerve pressure and carpal strain.",
@@ -2963,10 +2963,10 @@
         {
           "prompt": "When executing the motor patterns for Master the dynamic transition between Burst Speed on high-frequency n-grams and Controlled Cruise Control on complex technical vocabulary, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Typing to rock music only (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Changing keyboard layouts mid-sentence (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Typing with alternating hands only (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Fluidly bursting on common automated words while shifting into controlled metronomic precision on complex polysyllabic terms (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))"
+            "Typing to rock music only (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Changing keyboard layouts mid-sentence (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Typing with alternating hands only (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Fluidly bursting on common automated words while shifting into controlled metronomic precision on complex polysyllabic terms (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)"
           ],
           "answerIndex": 3,
           "explanation": "Cadence modulation pairs automaticity on easy words with conscious control on complex ones."
@@ -2974,10 +2974,10 @@
         {
           "prompt": "What causes the destructive 'burst-and-stall' typing habit?",
           "options": [
-            "A weak Wi-Fi connection (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Old computer monitors (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Using mechanical key switches (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Trying to sprint through complex unfamiliar words at the same speed as automated 3-letter words, causing collision errors and sudden stops (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))"
+            "A weak Wi-Fi connection (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Old computer monitors (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Using mechanical key switches (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Trying to sprint through complex unfamiliar words at the same speed as automated 3-letter words, causing collision errors and sudden stops (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)"
           ],
           "answerIndex": 3,
           "explanation": "Over-sprinting complex terms without slowing down triggers collisions and rhythm freezes."
@@ -2990,9 +2990,9 @@
           "prompt": "For professional touch-typing technique in Unit 7, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "As unified, fluid rolling finger sweeps (motor chunks)",
-            "With one finger hunting each letter (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "With a 1-second pause between each letter (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Using the right thumb only (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))"
+            "With one finger hunting each letter (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "With a 1-second pause between each letter (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Using the right thumb only (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "High-frequency suffixes are chunked into single unified motor programs."
@@ -3000,10 +3000,10 @@
         {
           "prompt": "When encountering a rare word like 'neurobiology', what is the recommended strategy?",
           "options": [
-            "Consciously downshift into a smooth, steady letter-by-letter cadence ensuring 100% accuracy before accelerating (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Close your eyes and mash the keys (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Skip the word completely (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Hit backspace 10 times (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))"
+            "Consciously downshift into a smooth, steady letter-by-letter cadence ensuring 100% accuracy before accelerating (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Close your eyes and mash the keys (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Skip the word completely (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Hit backspace 10 times (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "Deliberate downshifting prevents devastating multi-character error cascades."
@@ -3015,10 +3015,10 @@
         {
           "prompt": "Analyze the sentence: 'It is essential to understand the organizational architecture of complex systems.' Where should you downshift?",
           "options": [
-            "Type with one finger throughout (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Downshift on 'organizational' and 'architecture'; burst through 'It is', 'to', 'the', 'of' (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Burst on everything without looking (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Downshift on 'It is' (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))"
+            "Type with one finger throughout (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Downshift on 'organizational' and 'architecture'; burst through 'It is', 'to', 'the', 'of' (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Burst on everything without looking (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Downshift on 'It is' (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)"
           ],
           "answerIndex": 1,
           "explanation": "Downshifting on multisyllabic terms maintains rhythm while bursting on short connectors.",
@@ -3027,10 +3027,10 @@
         {
           "prompt": "What is the primary advantage of motor chunking common words like 'the', 'and', 'that'?",
           "options": [
-            "It frees up cognitive working memory to preview upcoming difficult words in the visual buffer (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "It speeds up internet browsing (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "It wears out keys evenly (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "It skips spelling checks (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))"
+            "It frees up cognitive working memory to preview upcoming difficult words in the visual buffer (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "It speeds up internet browsing (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "It wears out keys evenly (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "It skips spelling checks (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "Automating easy words preserves executive attention for upcoming complex text.",
@@ -3039,10 +3039,10 @@
         {
           "prompt": "Why is rhythm consistency more important than peak burst speed on typing leaderboard tests?",
           "options": [
-            "Keyboards break at high speeds (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Rhythm changes font color (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Leaderboards disqualify bursting (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "Average net WPM is determined by the total area under the speed curve; a single 1-second stall wipes out the gains of a 10-second 120 WPM burst (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))"
+            "Keyboards break at high speeds (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Rhythm changes font color (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Leaderboards disqualify bursting (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "Average net WPM is determined by the total area under the speed curve; a single 1-second stall wipes out the gains of a 10-second 120 WPM burst (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)"
           ],
           "answerIndex": 3,
           "explanation": "Stalls and pauses drastically depress net average WPM compared to unbroken steady flow.",
@@ -3051,10 +3051,10 @@
         {
           "prompt": "Complete the maxim: 'Slow is smooth, and _______.'",
           "options": [
-            "hard is good (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "smooth is slow (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "smooth is fast (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))",
-            "fast is loud (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary (U7))"
+            "hard is good (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "smooth is slow (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "smooth is fast (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)",
+            "fast is loud (Master the dynamic transition between Burst Speed on highfrequency ngrams and Controlled Cruise Control on complex technical vocabulary)"
           ],
           "answerIndex": 2,
           "explanation": "'Slow is smooth, and smooth is fast' is the timeless motor skill maxim.",
@@ -3092,10 +3092,10 @@
         {
           "prompt": "When executing the motor patterns for Master instant error recovery discipline, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Shift + Space (Master instant error recovery discipline (U7))",
-            "Ctrl + Backspace (Master instant error recovery discipline (U7))",
-            "Tab + Enter (Master instant error recovery discipline (U7))",
-            "Alt + F4 (Master instant error recovery discipline (U7))"
+            "Shift + Space (Master instant error recovery discipline)",
+            "Ctrl + Backspace (Master instant error recovery discipline)",
+            "Tab + Enter (Master instant error recovery discipline)",
+            "Alt + F4 (Master instant error recovery discipline)"
           ],
           "answerIndex": 1,
           "explanation": "Ctrl+Backspace wipes the whole word in a single instantaneous keystroke."
@@ -3103,10 +3103,10 @@
         {
           "prompt": "When is it better to use Ctrl+Backspace rather than single Backspace taps?",
           "options": [
-            "When the typo occurred near the beginning or middle of a multisyllabic word (Master instant error recovery discipline (U7))",
-            "Only when the computer is frozen (Master instant error recovery discipline (U7))",
-            "Never (Master instant error recovery discipline (U7))",
-            "When typing single letters (Master instant error recovery discipline (U7))"
+            "When the typo occurred near the beginning or middle of a multisyllabic word (Master instant error recovery discipline)",
+            "Only when the computer is frozen (Master instant error recovery discipline)",
+            "Never (Master instant error recovery discipline)",
+            "When typing single letters (Master instant error recovery discipline)"
           ],
           "answerIndex": 0,
           "explanation": "Resetting the entire word is dramatically faster than tapping backspace 4–7 times."
@@ -3118,10 +3118,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 7, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Maintaining slow nasal breathing, relaxing shoulder tension, and immediately shifting visual focus to the 2-word lookahead buffer (Master instant error recovery discipline (U7))",
-            "Closing the browser (Master instant error recovery discipline (U7))",
-            "Hitting the keyboard harder (Master instant error recovery discipline (U7))",
-            "Stopping the test and starting over every time (Master instant error recovery discipline (U7))"
+            "Maintaining slow nasal breathing, relaxing shoulder tension, and immediately shifting visual focus to the 2-word lookahead buffer (Master instant error recovery discipline)",
+            "Closing the browser (Master instant error recovery discipline)",
+            "Hitting the keyboard harder (Master instant error recovery discipline)",
+            "Stopping the test and starting over every time (Master instant error recovery discipline)"
           ],
           "answerIndex": 0,
           "explanation": "Maintaining physiological calm prevents the panic tension that causes error cascades."
@@ -3129,10 +3129,10 @@
         {
           "prompt": "Which fingers are typically used to execute 'Ctrl + Backspace' efficiently?",
           "options": [
-            "Left pinky on Ctrl + Right pinky/ring reaching up to Backspace (Master instant error recovery discipline (U7))",
-            "Left middle finger only (Master instant error recovery discipline (U7))",
-            "Both thumbs (Master instant error recovery discipline (U7))",
-            "Left index and right index (Master instant error recovery discipline (U7))"
+            "Left pinky on Ctrl + Right pinky/ring reaching up to Backspace (Master instant error recovery discipline)",
+            "Left middle finger only (Master instant error recovery discipline)",
+            "Both thumbs (Master instant error recovery discipline)",
+            "Left index and right index (Master instant error recovery discipline)"
           ],
           "answerIndex": 0,
           "explanation": "Left pinky holds Ctrl while right pinky executes Backspace."
@@ -3144,10 +3144,10 @@
         {
           "prompt": "Match the error scenarios with the optimal correction strategy: Typo on 1st letter of 'extraordinary', Typo on last letter of 'cat', Error cascade of 3 words, Hand tension spike:",
           "options": [
-            "1st letter of long word: Ctrl+Backspace | Last letter of short word: Single Backspace | 3-word cascade: Stop, exhale, reset buffer | Tension spike: Drop shoulders, lighten touch (Master instant error recovery discipline (U7))",
-            "All scenarios: Smash keyboard (Master instant error recovery discipline (U7))",
-            "All are food words (Master instant error recovery discipline (U7))",
-            "All scenarios: Give up (Master instant error recovery discipline (U7))"
+            "1st letter of long word: Ctrl+Backspace | Last letter of short word: Single Backspace | 3-word cascade: Stop, exhale, reset buffer | Tension spike: Drop shoulders, lighten touch (Master instant error recovery discipline)",
+            "All scenarios: Smash keyboard (Master instant error recovery discipline)",
+            "All are food words (Master instant error recovery discipline)",
+            "All scenarios: Give up (Master instant error recovery discipline)"
           ],
           "answerIndex": 0,
           "explanation": "Optimal error recovery mechanics matching.",
@@ -3156,10 +3156,10 @@
         {
           "prompt": "Why does frantically mashing single Backspace often result in overshoot errors?",
           "options": [
-            "It turns on Caps Lock (Master instant error recovery discipline (U7))",
-            "Backspace key loses battery power (Master instant error recovery discipline (U7))",
-            "The screen goes black (Master instant error recovery discipline (U7))",
-            "Key repeat delays and motor panic cause typists to delete good characters preceding the typo, requiring extra re-typing (Master instant error recovery discipline (U7))"
+            "It turns on Caps Lock (Master instant error recovery discipline)",
+            "Backspace key loses battery power (Master instant error recovery discipline)",
+            "The screen goes black (Master instant error recovery discipline)",
+            "Key repeat delays and motor panic cause typists to delete good characters preceding the typo, requiring extra re-typing (Master instant error recovery discipline)"
           ],
           "answerIndex": 3,
           "explanation": "Overshooting backspaces destroys valid text and wastes valuable seconds.",
@@ -3168,10 +3168,10 @@
         {
           "prompt": "What happens in your brain when you pause and dwell emotionally on a typo you made 5 seconds ago?",
           "options": [
-            "Hand coordination doubles (Master instant error recovery discipline (U7))",
-            "Typing speed increases (Master instant error recovery discipline (U7))",
-            "Working memory is hijacked by negative self-talk, starving the visual lookahead buffer and causing subsequent typos (Master instant error recovery discipline (U7))",
-            "Accuracy automatically reaches 100% (Master instant error recovery discipline (U7))"
+            "Hand coordination doubles (Master instant error recovery discipline)",
+            "Typing speed increases (Master instant error recovery discipline)",
+            "Working memory is hijacked by negative self-talk, starving the visual lookahead buffer and causing subsequent typos (Master instant error recovery discipline)",
+            "Accuracy automatically reaches 100% (Master instant error recovery discipline)"
           ],
           "answerIndex": 2,
           "explanation": "Emotional rumination starves the visual lookahead buffer and triggers new errors.",
@@ -3180,10 +3180,10 @@
         {
           "prompt": "Complete the rule: 'Correct clean, and _______.'",
           "options": [
-            "stare at the mistake (Master instant error recovery discipline (U7))",
-            "never look back (Master instant error recovery discipline (U7))",
-            "stop typing (Master instant error recovery discipline (U7))",
-            "restart the computer (Master instant error recovery discipline (U7))"
+            "stare at the mistake (Master instant error recovery discipline)",
+            "never look back (Master instant error recovery discipline)",
+            "stop typing (Master instant error recovery discipline)",
+            "restart the computer (Master instant error recovery discipline)"
           ],
           "answerIndex": 1,
           "explanation": "'Correct clean, and never look back' maintains forward momentum.",
@@ -3221,10 +3221,10 @@
         {
           "prompt": "When executing the motor patterns for Demonstrate comprehensive Advanced stamina mastery by completing a full 3-minute continuous technical and literary endurance passage maintaining 60+ WPM with 98, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Demonstrate sustained typing stamina, holding 60+ WPM with 98.5%+ accuracy across technical prose without fatigue breakdown (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Type as fast as possible for 10 seconds and stop (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Look at the keyboard to check finger placement (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Type with caps lock on (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))"
+            "Demonstrate sustained typing stamina, holding 60+ WPM with 98.5%+ accuracy across technical prose without fatigue breakdown (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Type as fast as possible for 10 seconds and stop (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Look at the keyboard to check finger placement (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Type with caps lock on (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)"
           ],
           "answerIndex": 0,
           "explanation": "Sustained accuracy, rhythm, and fatigue resistance across a full 3-minute interval."
@@ -3232,10 +3232,10 @@
         {
           "prompt": "How does high-speed touch typing eliminate 'cognitive friction' in programming and writing?",
           "options": [
-            "By automating key execution entirely, allowing working memory to focus 100% on creative thought, structure, and logic (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "By autocorrecting syntax errors (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "By turning off the screen (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "By replacing the mouse (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))"
+            "By automating key execution entirely, allowing working memory to focus 100% on creative thought, structure, and logic (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "By autocorrecting syntax errors (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "By turning off the screen (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "By replacing the mouse (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)"
           ],
           "answerIndex": 0,
           "explanation": "Automaticity frees cognitive capacity for high-level problem solving."
@@ -3247,10 +3247,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 7, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Hit backspace repeatedly (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Slightly decelerate by 5%, breathe deeply, focus on crisp letter precision, and re-establish clean rhythm (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Give up (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Sprint twice as fast (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))"
+            "Hit backspace repeatedly (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Slightly decelerate by 5%, breathe deeply, focus on crisp letter precision, and re-establish clean rhythm (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Give up (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Sprint twice as fast (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)"
           ],
           "answerIndex": 1,
           "explanation": "A small intentional downshift restores accuracy and prevents catastrophic error cascades."
@@ -3258,10 +3258,10 @@
         {
           "prompt": "What role do the tactile bumps on the F and J keys play during long endurance typing intervals?",
           "options": [
-            "They heat up the keyboard (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "They provide continuous non-visual sensory confirmation of home row positioning, ensuring hands never drift even during fatigue (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "They indicate number row reach (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "They are decorative (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))"
+            "They heat up the keyboard (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "They provide continuous non-visual sensory confirmation of home row positioning, ensuring hands never drift even during fatigue (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "They indicate number row reach (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "They are decorative (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)"
           ],
           "answerIndex": 1,
           "explanation": "F and J homing bumps ground your hands in tactile space without needing visual checks."
@@ -3273,10 +3273,10 @@
         {
           "prompt": "Identify the complete, error-free excerpt from the Unit 7 Master Passage:",
           "options": [
-            "Througout the histry of computr scince... (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "throughoutthehistoryofcomputerscience... (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "THROUGHOUT THE HISTORY OF COMPUTER SCIENCE... (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Throughout the history of computer science, the relentless pursuit of computational efficiency has driven profound breakthroughs in hardware architecture and software engineering. (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))"
+            "Througout the histry of computr scince... (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "throughoutthehistoryofcomputerscience... (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "THROUGHOUT THE HISTORY OF COMPUTER SCIENCE... (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Throughout the history of computer science, the relentless pursuit of computational efficiency has driven profound breakthroughs in hardware architecture and software engineering. (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)"
           ],
           "answerIndex": 3,
           "explanation": "Master passage opening sentence with flawless spelling, capitalization, and punctuation.",
@@ -3285,10 +3285,10 @@
         {
           "prompt": "What core physical, cognitive, and mechanical disciplines were mastered across Unit 7 in Touch Typing?",
           "options": [
-            "Hunting and pecking with index fingers only (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Number pad only (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
+            "Hunting and pecking with index fingers only (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Number pad only (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
             "1-minute and 2-minute focus windows, feather-touch actuation, predictive visual lookahead (2-3 words ahead)",
-            "Typing with eyes closed while wearing gloves (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))"
+            "Typing with eyes closed while wearing gloves (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)"
           ],
           "answerIndex": 2,
           "explanation": "Unit 7 comprehensive advanced typing stamina, rhythm modulation, and error recovery mastery.",
@@ -3297,10 +3297,10 @@
         {
           "prompt": "What is the final frontier awaiting you in Unit 8 of Touch Typing?",
           "options": [
-            "Re-learning home row A S D F (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Sprint Drills Toward 100+ WPM (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Learning stenography (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Typing on a smartphone (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))"
+            "Re-learning home row A S D F (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Sprint Drills Toward 100+ WPM (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Learning stenography (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Typing on a smartphone (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)"
           ],
           "answerIndex": 1,
           "explanation": "Unit 8 focuses on sprint drills pushing beyond the 100+ WPM threshold.",
@@ -3309,10 +3309,10 @@
         {
           "prompt": "Why is typing accuracy always prioritized over raw speed in motor skill acquisition?",
           "options": [
-            "Because clean motor pathways are myelinated through accurate repetition, whereas practicing mistakes hardwires errors into permanent muscle memory (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Because keyboards are fragile (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Because fast typing is illegal (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))",
-            "Because speed does not count on tests (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98 (U7))"
+            "Because clean motor pathways are myelinated through accurate repetition, whereas practicing mistakes hardwires errors into permanent muscle memory (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Because keyboards are fragile (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Because fast typing is illegal (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)",
+            "Because speed does not count on tests (Demonstrate comprehensive Advanced stamina mastery by completing a full 3minute continuous technical and literary endurance passage maintaining 60 WPM with 98)"
           ],
           "answerIndex": 0,
           "explanation": "Neurological myelination of correct movement patterns requires high-accuracy deliberate practice.",
@@ -3350,10 +3350,10 @@
         {
           "prompt": "When executing the motor patterns for Execute 15-second high-velocity sprint bursts on the top 100 high-frequency English words, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Pounding the keyboard with maximum physical force (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Typing with only the index fingers (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Looking down at the keyboard continuously (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Actuating keys lightly at their trigger point without bottoming out heavily against the switch backplate (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))"
+            "Pounding the keyboard with maximum physical force (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Typing with only the index fingers (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Looking down at the keyboard continuously (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Actuating keys lightly at their trigger point without bottoming out heavily against the switch backplate (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)"
           ],
           "answerIndex": 3,
           "explanation": "Light switch actuation and immediate tension release eliminate finger drag and muscle fatigue."
@@ -3361,10 +3361,10 @@
         {
           "prompt": "What is 'word roll' chunking in elite touch typing?",
           "options": [
-            "Typing while rolling a ball (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Spinning the keyboard (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
+            "Typing while rolling a ball (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Spinning the keyboard (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
             "Executing an entire frequent word (like 'that' or 'with')",
-            "Rolling your chair while typing (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))"
+            "Rolling your chair while typing (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)"
           ],
           "answerIndex": 2,
           "explanation": "Word rolls execute multi-letter sequences as single fluid motor gestures."
@@ -3376,10 +3376,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 8, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "0 words (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "10 paragraphs ahead (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Looking at the ceiling (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "2 to 3 words ahead of your currently striking fingers (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))"
+            "0 words (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "10 paragraphs ahead (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Looking at the ceiling (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "2 to 3 words ahead of your currently striking fingers (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)"
           ],
           "answerIndex": 3,
           "explanation": "A 2-3 word visual lookahead buffer allows the motor cortex to pre-plan upcoming finger trajectories."
@@ -3387,10 +3387,10 @@
         {
           "prompt": "What is the key difference between an 80 WPM typist and a 120 WPM typist?",
           "options": [
-            "The 120 WPM typist has 12 fingers (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "The 120 WPM typist skips spaces between words (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "The 120 WPM typist guesses the words (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "The 120 WPM typist has zero inter-word pause latency, seamlessly linking words together in continuous isochronous rhythm (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))"
+            "The 120 WPM typist has 12 fingers (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "The 120 WPM typist skips spaces between words (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "The 120 WPM typist guesses the words (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "The 120 WPM typist has zero inter-word pause latency, seamlessly linking words together in continuous isochronous rhythm (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)"
           ],
           "answerIndex": 3,
           "explanation": "Eliminating inter-word pauses creates continuous high-speed flow."
@@ -3402,10 +3402,10 @@
         {
           "prompt": "Match the typing sprint components: Visual Lookahead, Feather Actuation, Word Rolling, Tension Release:",
           "options": [
-            "All mean pound keyboard (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "All mean type slower (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Visual Lookahead: Scan 2-3 words ahead | Feather Actuation: Trigger key lightly | Word Rolling: Chord high-frequency words | Tension Release: Immediate relaxation after strike (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "All are keyboard models (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))"
+            "All mean pound keyboard (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "All mean type slower (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Visual Lookahead: Scan 2-3 words ahead | Feather Actuation: Trigger key lightly | Word Rolling: Chord high-frequency words | Tension Release: Immediate relaxation after strike (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "All are keyboard models (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)"
           ],
           "answerIndex": 2,
           "explanation": "High-velocity typing mechanics matching.",
@@ -3414,10 +3414,10 @@
         {
           "prompt": "Type drill: `time into some them make than like been just`",
           "options": [
-            "tome onto same them make then like bean just (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "time into some them make than like been just (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "time info some them make than like been just (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "time into sum them mike than like been just (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))"
+            "tome onto same them make then like bean just (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "time into some them make than like been just (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "time info some them make than like been just (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "time into sum them mike than like been just (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)"
           ],
           "answerIndex": 1,
           "explanation": "Exact high-frequency word sprint.",
@@ -3426,10 +3426,10 @@
         {
           "prompt": "Why does typing at 100+ WPM require 98%+ accuracy discipline?",
           "options": [
-            "Because correcting a single typo at 100 WPM consumes ~500ms (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Because computers shut down (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Because accuracy does not matter (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "Because keyboards lock up on errors (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))"
+            "Because correcting a single typo at 100 WPM consumes ~500ms (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Because computers shut down (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Because accuracy does not matter (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "Because keyboards lock up on errors (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)"
           ],
           "answerIndex": 0,
           "explanation": "Backspacing penalizes velocity heavily; high accuracy is the prerequisite for sustained speed.",
@@ -3438,10 +3438,10 @@
         {
           "prompt": "Complete: 'Speed is not rushing; speed is the total absence of _______.'",
           "options": [
-            "punctuation (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "rhythm (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "accuracy (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))",
-            "hesitation, drag, and wasted motion (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words (U8))"
+            "punctuation (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "rhythm (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "accuracy (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)",
+            "hesitation, drag, and wasted motion (Execute 15second highvelocity sprint bursts on the top 100 highfrequency English words)"
           ],
           "answerIndex": 3,
           "explanation": "Speed is the total absence of hesitation, drag, and wasted motion.",
@@ -3479,10 +3479,10 @@
         {
           "prompt": "When executing the motor patterns for Execute 30-second high-velocity N-Gram sweeps across complex consonant blends (STR, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Left ring (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Thumb for S and index for T (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Left index for all 3 letters (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Right hand cross-over (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))"
+            "Left ring (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Thumb for S and index for T (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Left index for all 3 letters (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Right hand cross-over (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)"
           ],
           "answerIndex": 0,
           "explanation": "S (ring) -> T (index) -> R (index) is the optimal anatomical path."
@@ -3490,10 +3490,10 @@
         {
           "prompt": "Why do clusters like '-IGHT' cause typing speed drops in unconditioned typists?",
           "options": [
-            "Because G and H require lateral index reaches while I and T cross between upper rows on opposite hands (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Because I and G are silent letters (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Because the T key is sticky (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Because GHT is not in the dictionary (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))"
+            "Because G and H require lateral index reaches while I and T cross between upper rows on opposite hands (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Because I and G are silent letters (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Because the T key is sticky (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Because GHT is not in the dictionary (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)"
           ],
           "answerIndex": 0,
           "explanation": "Multi-finger lateral index reaches and cross-hand transitions require specific conditioning."
@@ -3505,10 +3505,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 8, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "strenght througout script mach splash (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "strenth throughout scrip match splsh (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "strength throughout script match splash (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "strength through out script match splash (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))"
+            "strenght througout script mach splash (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "strenth throughout scrip match splsh (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "strength throughout script match splash (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "strength through out script match splash (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate execution of complex N-gram vocabulary."
@@ -3516,10 +3516,10 @@
         {
           "prompt": "What technique eliminates hesitation when encountering a long, difficult technical word?",
           "options": [
-            "Stopping completely to spell it out loud (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Skipping the word (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Typing with one hand (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Decomposing the word into familiar 2-to-3 letter N-gram syllables in the visual lookahead buffer (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))"
+            "Stopping completely to spell it out loud (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Skipping the word (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Typing with one hand (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Decomposing the word into familiar 2-to-3 letter N-gram syllables in the visual lookahead buffer (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)"
           ],
           "answerIndex": 3,
           "explanation": "Chunking long words into familiar N-gram motor sub-programs maintains velocity."
@@ -3531,10 +3531,10 @@
         {
           "prompt": "Match the words to their core N-Gram cluster: STRETCH, SPLIT, CAUGHT, SCRATCH:",
           "options": [
-            "All are numbers (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "STRETCH: STR- / -TCH | SPLIT: SPL- | CAUGHT: -UGHT | SCRATCH: SCR- / -TCH (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "All are 2-letter words (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "All are vowel words (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))"
+            "All are numbers (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "STRETCH: STR- / -TCH | SPLIT: SPL- | CAUGHT: -UGHT | SCRATCH: SCR- / -TCH (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "All are 2-letter words (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "All are vowel words (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)"
           ],
           "answerIndex": 1,
           "explanation": "Consonant cluster identification matching.",
@@ -3543,10 +3543,10 @@
         {
           "prompt": "Type: `The strict structure of the script brought bright insight.`",
           "options": [
-            "The strict structure of the script brought bright insight. (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "The strict structur of the script braught bright insight. (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "The strict structure of the script brought bright insite. (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "The stric structure of the scrip brought brigh insight. (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))"
+            "The strict structure of the script brought bright insight. (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "The strict structur of the script braught bright insight. (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "The strict structure of the script brought bright insite. (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "The stric structure of the scrip brought brigh insight. (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)"
           ],
           "answerIndex": 0,
           "explanation": "Exact complex N-gram sentence sprint.",
@@ -3555,10 +3555,10 @@
         {
           "prompt": "Why is cross-hand rhythm consistency essential for 100+ WPM typing?",
           "options": [
-            "Because keyboards only read one hand at a time (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Because hands cannot work together (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "To prevent noise (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "Because an uneven burst on one hand causes the opposite hand to mistime its strike, creating transposition errors (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))"
+            "Because keyboards only read one hand at a time (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Because hands cannot work together (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "To prevent noise (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "Because an uneven burst on one hand causes the opposite hand to mistime its strike, creating transposition errors (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)"
           ],
           "answerIndex": 3,
           "explanation": "Bilateral temporal synchronization prevents cross-hand transposition errors.",
@@ -3567,10 +3567,10 @@
         {
           "prompt": "Complete: 'Conquer the complex N-grams, and you eliminate the _______.'",
           "options": [
-            "spacebar (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "vowels (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "speed bumps of the English language (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))",
-            "need to type (Execute 30second highvelocity NGram sweeps across complex consonant blends STR (U8))"
+            "spacebar (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "vowels (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "speed bumps of the English language (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)",
+            "need to type (Execute 30second highvelocity NGram sweeps across complex consonant blends STR)"
           ],
           "answerIndex": 2,
           "explanation": "Mastering N-grams smooths away typing speed bumps.",
@@ -3608,10 +3608,10 @@
         {
           "prompt": "When executing the motor patterns for Break and sustain the 100 WPM Century Mark across a continuous 60-second multi-sentence prose sprint at 98%+ accuracy, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "2 keystrokes per second (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "20 keystrokes per second (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "50 keystrokes per second (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "8.33 keystrokes per second (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))"
+            "2 keystrokes per second (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "20 keystrokes per second (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "50 keystrokes per second (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "8.33 keystrokes per second (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)"
           ],
           "answerIndex": 3,
           "explanation": "100 WPM × 5 characters = 500 CPM / 60 seconds = 8.33 keys/sec."
@@ -3619,10 +3619,10 @@
         {
           "prompt": "What wrist posture is essential during high-speed typing sprints?",
           "options": [
-            "Wrists bent backwards and planted firmly on the hard desk surface (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "Wrists twisting side to side (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "Typing with one wrist resting on the lap (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "Wrists floating neutrally above the desk in straight alignment with the forearm (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))"
+            "Wrists bent backwards and planted firmly on the hard desk surface (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "Wrists twisting side to side (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "Typing with one wrist resting on the lap (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "Wrists floating neutrally above the desk in straight alignment with the forearm (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)"
           ],
           "answerIndex": 3,
           "explanation": "Floating neutral wrists prevent median nerve compression and allow full finger mobility."
@@ -3634,10 +3634,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 8, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Constant practice builds enduring speed and effortless precision across every sentence we write. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "Constant practice biulds enduring speed and effortless precision across every sentence we write. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "Constant practice builds enduring sped and effortless precision accross every sentence we write. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "Constant practice builds enduring speed and efortless precision across every sentence we write. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))"
+            "Constant practice builds enduring speed and effortless precision across every sentence we write. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "Constant practice biulds enduring speed and effortless precision across every sentence we write. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "Constant practice builds enduring sped and effortless precision accross every sentence we write. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "Constant practice builds enduring speed and efortless precision across every sentence we write. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)"
           ],
           "answerIndex": 0,
           "explanation": "Century sprint accuracy verification."
@@ -3645,10 +3645,10 @@
         {
           "prompt": "Why does attempting to 'rush' actually slow a typist down below 100 WPM?",
           "options": [
-            "Rushing causes premature muscular co-contraction, resulting in mistimed strikes, finger collision, and accuracy drops (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "Keyboards have speed limiters (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "The screen cannot update that fast (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "Rushing is good for typing (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))"
+            "Rushing causes premature muscular co-contraction, resulting in mistimed strikes, finger collision, and accuracy drops (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "Keyboards have speed limiters (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "The screen cannot update that fast (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "Rushing is good for typing (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)"
           ],
           "answerIndex": 0,
           "explanation": "Muscular tension from rushing destroys timing and fluidity."
@@ -3660,10 +3660,10 @@
         {
           "prompt": "Match the speed tiers with their WPM ranges: Casual Typist, Professional Typist, Elite Typist, World-Class Typist:",
           "options": [
-            "Casual: 30-50 WPM | Professional: 60-80 WPM | Elite: 100-120 WPM | World-Class: 140-180+ WPM (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "There are no speed tiers (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "All typists type at 10 WPM (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "All typists type at 1000 WPM (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))"
+            "Casual: 30-50 WPM | Professional: 60-80 WPM | Elite: 100-120 WPM | World-Class: 140-180+ WPM (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "There are no speed tiers (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "All typists type at 10 WPM (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "All typists type at 1000 WPM (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)"
           ],
           "answerIndex": 0,
           "explanation": "Typing speed tier benchmarks matching.",
@@ -3672,10 +3672,10 @@
         {
           "prompt": "Type: `The digital age demands mastery of language, code, and speed.`",
           "options": [
-            "The digtal age demands mastery of language, code, and speed. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "The digital age demands mastery of language, code, and sped. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "The digital age demands mastry of language, code, and speed. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "The digital age demands mastery of language, code, and speed. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))"
+            "The digtal age demands mastery of language, code, and speed. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "The digital age demands mastery of language, code, and sped. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "The digital age demands mastry of language, code, and speed. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "The digital age demands mastery of language, code, and speed. (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)"
           ],
           "answerIndex": 3,
           "explanation": "Exact sentence sprint.",
@@ -3684,10 +3684,10 @@
         {
           "prompt": "What is the physiological role of dopamine during a successful high-speed typing flow state?",
           "options": [
-            "It makes fingers grow longer (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "It causes muscle cramps (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "It reinforces smooth motor sequencing in the basal ganglia, sharpening focus and reducing perceived exertion (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "It turns off the screen (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))"
+            "It makes fingers grow longer (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "It causes muscle cramps (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "It reinforces smooth motor sequencing in the basal ganglia, sharpening focus and reducing perceived exertion (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "It turns off the screen (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)"
           ],
           "answerIndex": 2,
           "explanation": "Dopamine reinforces striatal motor chunking and maintains cognitive flow.",
@@ -3696,10 +3696,10 @@
         {
           "prompt": "Complete: '100 WPM is not a destination; it is the gateway to _______.'",
           "options": [
-            "hand cramps (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "thought-speed human-computer integration (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "stopping practice (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))",
-            "breaking the keyboard (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy (U8))"
+            "hand cramps (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "thought-speed human-computer integration (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "stopping practice (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)",
+            "breaking the keyboard (Break and sustain the 100 WPM Century Mark across a continuous 60second multisentence prose sprint at 98 accuracy)"
           ],
           "answerIndex": 1,
           "explanation": "100 WPM achieves thought-speed computational flow.",
@@ -3737,10 +3737,10 @@
         {
           "prompt": "When executing the motor patterns for Fuse numbers, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Use the thumb for Shift (Fuse numbers (U8))",
-            "Always hold Shift with the hand OPPOSITE to the finger striking the symbol key (Fuse numbers (U8))",
-            "Press both Shift keys simultaneously (Fuse numbers (U8))",
-            "Always use CapsLock for every symbol (Fuse numbers (U8))"
+            "Use the thumb for Shift (Fuse numbers)",
+            "Always hold Shift with the hand OPPOSITE to the finger striking the symbol key (Fuse numbers)",
+            "Press both Shift keys simultaneously (Fuse numbers)",
+            "Always use CapsLock for every symbol (Fuse numbers)"
           ],
           "answerIndex": 1,
           "explanation": "Opposite-hand Shift prevents hand twisting and preserves neutral alignment."
@@ -3748,10 +3748,10 @@
         {
           "prompt": "Type the code snippet: `const result = items.filter(x => x.id !== null);`",
           "options": [
-            "const result = items.filter (Fuse numbers (U8))",
-            "const result = items.filter (Fuse numbers (U8)) [Option 2]",
-            "const result = items.filter (Fuse numbers (U8)) [Option 3]",
-            "const result = items.filter (Fuse numbers (U8)) [Option 4]"
+            "const filtered = items.filter(x => x.active === true); (Array filter method with arrow function)",
+            "const mapped = items.map(item => ({ ...item, count: 0 })); (Array map transformation with object spread)",
+            "const total = items.reduce((acc, curr) => acc + curr.val, 0); (Array accumulator reduction)",
+            "const found = items.find(item => item.id === targetId); (Predicate search returning matching element)"
           ],
           "answerIndex": 0,
           "explanation": "Exact code syntax typing."
@@ -3763,10 +3763,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 8, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "{\"id\": 1024, \"status\": \"ACTIVE\", \"rate\": 0.95} (Fuse numbers (U8))",
-            "{\"id\": 1024; \"status\": \"ACTIVE\"; \"rate\": 0.95} (Fuse numbers (U8))",
-            "{\"id\": 1024, \"status\": \"active\", \"rate\": 0.95} (Fuse numbers (U8))",
-            "{id: 1024, status: ACTIVE, rate: 0.95} (Fuse numbers (U8))"
+            "{\"id\": 1024, \"status\": \"ACTIVE\", \"rate\": 0.95} (Fuse numbers)",
+            "{\"id\": 1024; \"status\": \"ACTIVE\"; \"rate\": 0.95} (Fuse numbers)",
+            "{\"id\": 1024, \"status\": \"active\", \"rate\": 0.95} (Fuse numbers)",
+            "{id: 1024, status: ACTIVE, rate: 0.95} (Fuse numbers)"
           ],
           "answerIndex": 0,
           "explanation": "JSON data format with quotes, numbers, colons, and braces."
@@ -3774,10 +3774,10 @@
         {
           "prompt": "Why is code typing often perceived as slower than prose typing?",
           "options": [
-            "Because code contains unpredictable symbols, brackets, and uppercase shifts that disrupt standard English bigram muscle memory, requiring specialized syntax conditioning (Fuse numbers (U8))",
-            "Because code requires no spaces (Fuse numbers (U8))",
-            "Because programming languages are broken (Fuse numbers (U8))",
-            "Because monitors are too bright (Fuse numbers (U8))"
+            "Because code contains unpredictable symbols, brackets, and uppercase shifts that disrupt standard English bigram muscle memory, requiring specialized syntax conditioning (Fuse numbers)",
+            "Because code requires no spaces (Fuse numbers)",
+            "Because programming languages are broken (Fuse numbers)",
+            "Because monitors are too bright (Fuse numbers)"
           ],
           "answerIndex": 0,
           "explanation": "Symbol diversity and non-standard lexical patterns require dedicated syntax conditioning."
@@ -3789,10 +3789,10 @@
         {
           "prompt": "Match the programming operators to their typing finger patterns: =>, &&, ||, !==:",
           "options": [
-            "All require CapsLock (Fuse numbers (U8))",
-            "All are standard letters (Fuse numbers (U8))",
-            "All are numbers (Fuse numbers (U8))",
-            "=>: Equal then Greater-than | &&: Right-Shift 7 twice | ||: Right-Shift Backslash twice | !==: Exclamation then Equals twice (Fuse numbers (U8))"
+            "All require CapsLock (Fuse numbers)",
+            "All are standard letters (Fuse numbers)",
+            "All are numbers (Fuse numbers)",
+            "=>: Equal then Greater-than | &&: Right-Shift 7 twice | ||: Right-Shift Backslash twice | !==: Exclamation then Equals twice (Fuse numbers)"
           ],
           "answerIndex": 3,
           "explanation": "Programming operator motor patterns matching.",
@@ -3801,22 +3801,22 @@
         {
           "prompt": "Type: `if (value >= 100 && isValid === true) { return process(value); }`",
           "options": [
-            "if (value)",
-            "if (value) [Option 2]",
-            "if (value) [Option 3]",
-            "if (value) [Option 4]"
+            "if (isValid && payload.count > 0) { executeBatch(); } (Compound logical operator condition)",
+            "while (queue.length > 0) { processNext(queue.shift()); } (Queue consumption loop with method call)",
+            "for (const [key, val] of Object.entries(config)) { applySetting(key, val); } (Destructured iteration)",
+            "switch (action.type) { case 'INIT': return initialState; default: return state; } (Pattern match)"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Exact full code statement.",
           "type": "multiple-choice"
         },
         {
           "prompt": "What is the primary benefit of mastering 90+ WPM code typing for software engineers?",
           "options": [
-            "Typing without a computer screen (Fuse numbers (U8))",
-            "Zero mental distraction during syntax entry, allowing 100% of executive cognitive bandwidth to remain focused on algorithmic logic and system architecture (Fuse numbers (U8))",
-            "Writing 10,000 lines of bad code per hour (Fuse numbers (U8))",
-            "Avoiding code reviews (Fuse numbers (U8))"
+            "Typing without a computer screen (Fuse numbers)",
+            "Zero mental distraction during syntax entry, allowing 100% of executive cognitive bandwidth to remain focused on algorithmic logic and system architecture (Fuse numbers)",
+            "Writing 10,000 lines of bad code per hour (Fuse numbers)",
+            "Avoiding code reviews (Fuse numbers)"
           ],
           "answerIndex": 1,
           "explanation": "Frees executive working memory for architectural logic and algorithmic problem-solving.",
@@ -3825,10 +3825,10 @@
         {
           "prompt": "Complete: 'Code at thought-speed; make syntax as natural as _______.'",
           "options": [
-            "breathing and speech (Fuse numbers (U8))",
-            "copying and pasting (Fuse numbers (U8))",
-            "slow reading (Fuse numbers (U8))",
-            "using a mouse (Fuse numbers (U8))"
+            "breathing and speech (Fuse numbers)",
+            "copying and pasting (Fuse numbers)",
+            "slow reading (Fuse numbers)",
+            "using a mouse (Fuse numbers)"
           ],
           "answerIndex": 0,
           "explanation": "Natural coding fluency.",
@@ -3866,10 +3866,10 @@
         {
           "prompt": "When executing the motor patterns for Demonstrate Master Century Speed certification by achieving 100+ WPM across a demanding 60-second mixed prose, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "At least 98.0% accuracy (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "50% accuracy (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "75% accuracy (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Accuracy did not matter (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))"
+            "At least 98.0% accuracy (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "50% accuracy (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "75% accuracy (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Accuracy did not matter (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)"
           ],
           "answerIndex": 0,
           "explanation": "Elite typing demands at least 98% accuracy at 100+ WPM."
@@ -3877,10 +3877,10 @@
         {
           "prompt": "Type the sprint sentence: `In 2026, human thought and digital execution converged at scale.`",
           "options": [
-            "In 2026, human thought and digital execution converged at scale. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "In 2026 human thought and digital execution converged at scale (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "In 2026, human thought and digitel execution converged at scale. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "In 2026, human thought and digital exicution converged at scale. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))"
+            "In 2026, human thought and digital execution converged at scale. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "In 2026 human thought and digital execution converged at scale (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "In 2026, human thought and digitel execution converged at scale. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "In 2026, human thought and digital exicution converged at scale. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)"
           ],
           "answerIndex": 0,
           "explanation": "Exact sprint sentence."
@@ -3892,10 +3892,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 8, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Buying a new mouse (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Rhythm Consistency & Error Recovery Under Fatigue (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Giving up typing practice (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Learning where the spacebar is (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))"
+            "Buying a new mouse (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Rhythm Consistency & Error Recovery Under Fatigue (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Giving up typing practice (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Learning where the spacebar is (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)"
           ],
           "answerIndex": 1,
           "explanation": "Unit 9 focuses on endurance, isochronous rhythm, and competitive error recovery."
@@ -3903,10 +3903,10 @@
         {
           "prompt": "How does maintaining 100+ WPM speed across 60 seconds change your daily productivity?",
           "options": [
-            "It has zero effect on productivity (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "It cuts document drafting, email composition, and coding transcription time by 60-70%, saving hundreds of productive hours annually (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "It makes you type in foreign languages (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "It makes computers run out of memory (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))"
+            "It has zero effect on productivity (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "It cuts document drafting, email composition, and coding transcription time by 60-70%, saving hundreds of productive hours annually (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "It makes you type in foreign languages (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "It makes computers run out of memory (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)"
           ],
           "answerIndex": 1,
           "explanation": "High-velocity input saves hundreds of hours of manual transcription annually."
@@ -3918,10 +3918,10 @@
         {
           "prompt": "What core competencies were mastered across Touch Typing Unit 8?",
           "options": [
-            "Staring at the keyboard only (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Typing with one finger only (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
+            "Staring at the keyboard only (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Typing with one finger only (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
             "15-second high-frequency word bursts (STR, TCH, GHT, SPL)",
-            "Slow hunting and pecking (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))"
+            "Slow hunting and pecking (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)"
           ],
           "answerIndex": 2,
           "explanation": "Unit 8 comprehensive 100+ WPM century sprint mastery.",
@@ -3930,10 +3930,10 @@
         {
           "prompt": "Type: `Mastery is achieved through daily deliberate practice and unyielding focus.`",
           "options": [
-            "Mastery is acheived through daily deliberate practice and unyielding focus. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Mastery is achieved through daily deliberate practice and unyielding focus. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Mastery is achieved through daily deliberate practice and unyeilding focus. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Mastery is achieved through daily delibarte practice and unyielding focus. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))"
+            "Mastery is acheived through daily deliberate practice and unyielding focus. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Mastery is achieved through daily deliberate practice and unyielding focus. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Mastery is achieved through daily deliberate practice and unyeilding focus. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Mastery is achieved through daily delibarte practice and unyielding focus. (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)"
           ],
           "answerIndex": 1,
           "explanation": "Exact verification sentence.",
@@ -3942,10 +3942,10 @@
         {
           "prompt": "Why is touch typing classified as an 'open-loop' motor skill at 100+ WPM?",
           "options": [
-            "Because finger movements are pre-programmed in chunked motor packages and executed before sensory feedback from the previous key reaches the brain (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Because keyboards are open (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Because eyes are closed (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "Because typing is random (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))"
+            "Because finger movements are pre-programmed in chunked motor packages and executed before sensory feedback from the previous key reaches the brain (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Because keyboards are open (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Because eyes are closed (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "Because typing is random (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)"
           ],
           "answerIndex": 0,
           "explanation": "Open-loop feedforward motor control executes faster than sensory feedback loops.",
@@ -3954,10 +3954,10 @@
         {
           "prompt": "Complete: 'The keyboard is no longer a tool; it is an extension of your _______.'",
           "options": [
-            "desk furniture (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "computer cable (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "mouse pad (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))",
-            "nervous system and mind (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose (U8))"
+            "desk furniture (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "computer cable (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "mouse pad (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)",
+            "nervous system and mind (Demonstrate Master Century Speed certification by achieving 100 WPM across a demanding 60second mixed prose)"
           ],
           "answerIndex": 3,
           "explanation": "The keyboard becomes an intuitive extension of the nervous system.",
@@ -3995,10 +3995,10 @@
         {
           "prompt": "When executing the motor patterns for Achieve metronomic isochronous typing rhythm, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "It makes the keyboard sound louder (Achieve metronomic isochronous typing rhythm (U9))",
-            "It uses less electricity (Achieve metronomic isochronous typing rhythm (U9))",
-            "It allows the computer to cool down (Achieve metronomic isochronous typing rhythm (U9))",
-            "It eliminates erratic muscle deceleration, reduces mental fatigue, and prevents 80% of typos caused by sudden rhythmic jerks (Achieve metronomic isochronous typing rhythm (U9))"
+            "It makes the keyboard sound louder (Achieve metronomic isochronous typing rhythm)",
+            "It uses less electricity (Achieve metronomic isochronous typing rhythm)",
+            "It allows the computer to cool down (Achieve metronomic isochronous typing rhythm)",
+            "It eliminates erratic muscle deceleration, reduces mental fatigue, and prevents 80% of typos caused by sudden rhythmic jerks (Achieve metronomic isochronous typing rhythm)"
           ],
           "answerIndex": 3,
           "explanation": "Isochronous rhythm eliminates deceleration fatigue and prevents erratic timing typos."
@@ -4006,10 +4006,10 @@
         {
           "prompt": "How should the spacebar strike be timed relative to the surrounding letter keystrokes?",
           "options": [
-            "With a 2-second pause after every word (Achieve metronomic isochronous typing rhythm (U9))",
-            "Struck as fast as possible in panic (Achieve metronomic isochronous typing rhythm (U9))",
-            "Struck twice every time (Achieve metronomic isochronous typing rhythm (U9))",
-            "With the exact same temporal duration and rhythm as any letter key (Achieve metronomic isochronous typing rhythm (U9))"
+            "With a 2-second pause after every word (Achieve metronomic isochronous typing rhythm)",
+            "Struck as fast as possible in panic (Achieve metronomic isochronous typing rhythm)",
+            "Struck twice every time (Achieve metronomic isochronous typing rhythm)",
+            "With the exact same temporal duration and rhythm as any letter key (Achieve metronomic isochronous typing rhythm)"
           ],
           "answerIndex": 3,
           "explanation": "The spacebar is an equal rhythmic participant in the isochronous keystroke chain."
@@ -4021,10 +4021,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 9, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Rhythm and balence create unshakeable speed and precision. (Achieve metronomic isochronous typing rhythm (U9))",
-            "Rhythm and balance creat unshakeable speed and precision. (Achieve metronomic isochronous typing rhythm (U9))",
-            "Rythm and balance create unshakeable speed and precision. (Achieve metronomic isochronous typing rhythm (U9))",
-            "Rhythm and balance create unshakeable speed and precision. (Achieve metronomic isochronous typing rhythm (U9))"
+            "Rhythm and balence create unshakeable speed and precision. (Achieve metronomic isochronous typing rhythm)",
+            "Rhythm and balance creat unshakeable speed and precision. (Achieve metronomic isochronous typing rhythm)",
+            "Rythm and balance create unshakeable speed and precision. (Achieve metronomic isochronous typing rhythm)",
+            "Rhythm and balance create unshakeable speed and precision. (Achieve metronomic isochronous typing rhythm)"
           ],
           "answerIndex": 3,
           "explanation": "Isochronous sentence drill."
@@ -4032,10 +4032,10 @@
         {
           "prompt": "What should you do if you feel yourself speeding up erratically on an easy word?",
           "options": [
-            "Type even faster until you make an error (Achieve metronomic isochronous typing rhythm (U9))",
-            "Stop typing completely (Achieve metronomic isochronous typing rhythm (U9))",
-            "Hit the backspace key 10 times (Achieve metronomic isochronous typing rhythm (U9))",
-            "Breathe out, drop your shoulders, and consciously pull your tempo back into your steady metronomic baseline (Achieve metronomic isochronous typing rhythm (U9))"
+            "Type even faster until you make an error (Achieve metronomic isochronous typing rhythm)",
+            "Stop typing completely (Achieve metronomic isochronous typing rhythm)",
+            "Hit the backspace key 10 times (Achieve metronomic isochronous typing rhythm)",
+            "Breathe out, drop your shoulders, and consciously pull your tempo back into your steady metronomic baseline (Achieve metronomic isochronous typing rhythm)"
           ],
           "answerIndex": 3,
           "explanation": "Consciously returning to a steady baseline prevents out-of-control speed runaway."
@@ -4047,10 +4047,10 @@
         {
           "prompt": "Match the typing rhythm concepts: Isochronous Cadence, Burst-Pause Volatility, Spacebar Rhythm, Micro-Hesitation:",
           "options": [
-            "All mean stop typing (Achieve metronomic isochronous typing rhythm (U9))",
-            "Isochronous: Equal temporal gaps | Burst-Pause: Erratic fast-slow cycles | Spacebar Rhythm: Equal timing to letters | Micro-Hesitation: Stutter before difficult keys (Achieve metronomic isochronous typing rhythm (U9))",
-            "All are mouse settings (Achieve metronomic isochronous typing rhythm (U9))",
-            "All are keyboard switches (Achieve metronomic isochronous typing rhythm (U9))"
+            "All mean stop typing (Achieve metronomic isochronous typing rhythm)",
+            "Isochronous: Equal temporal gaps | Burst-Pause: Erratic fast-slow cycles | Spacebar Rhythm: Equal timing to letters | Micro-Hesitation: Stutter before difficult keys (Achieve metronomic isochronous typing rhythm)",
+            "All are mouse settings (Achieve metronomic isochronous typing rhythm)",
+            "All are keyboard switches (Achieve metronomic isochronous typing rhythm)"
           ],
           "answerIndex": 1,
           "explanation": "Rhythm concept definitions matching.",
@@ -4059,10 +4059,10 @@
         {
           "prompt": "Type: `The steady river carves the canyon with unrelenting patience.`",
           "options": [
-            "The steady river carves the canyon with unrelenting patience. (Achieve metronomic isochronous typing rhythm (U9))",
-            "The steady river carvs the canyon with unrelenting patience. (Achieve metronomic isochronous typing rhythm (U9))",
-            "The steady river carves the canyon with unrelenting patiance. (Achieve metronomic isochronous typing rhythm (U9))",
-            "The stedy river carves the canyon with unrelenting patience. (Achieve metronomic isochronous typing rhythm (U9))"
+            "The steady river carves the canyon with unrelenting patience. (Achieve metronomic isochronous typing rhythm)",
+            "The steady river carvs the canyon with unrelenting patience. (Achieve metronomic isochronous typing rhythm)",
+            "The steady river carves the canyon with unrelenting patiance. (Achieve metronomic isochronous typing rhythm)",
+            "The stedy river carves the canyon with unrelenting patience. (Achieve metronomic isochronous typing rhythm)"
           ],
           "answerIndex": 0,
           "explanation": "Exact rhythm verification.",
@@ -4071,10 +4071,10 @@
         {
           "prompt": "Why does a 90 WPM metronomic typist often outscore a 120 WPM burst typist in 3-minute tests?",
           "options": [
-            "Because the clock runs slower for steady typists (Achieve metronomic isochronous typing rhythm (U9))",
-            "Because steady typists get bonus points (Achieve metronomic isochronous typing rhythm (U9))",
-            "Because 90 > 120 (Achieve metronomic isochronous typing rhythm (U9))",
-            "Because the 90 WPM steady typist makes zero errors and maintains constant velocity, while the burst typist loses massive chunks of time recovering from frequent high-speed typos (Achieve metronomic isochronous typing rhythm (U9))"
+            "Because the clock runs slower for steady typists (Achieve metronomic isochronous typing rhythm)",
+            "Because steady typists get bonus points (Achieve metronomic isochronous typing rhythm)",
+            "Because 90 > 120 (Achieve metronomic isochronous typing rhythm)",
+            "Because the 90 WPM steady typist makes zero errors and maintains constant velocity, while the burst typist loses massive chunks of time recovering from frequent high-speed typos (Achieve metronomic isochronous typing rhythm)"
           ],
           "answerIndex": 3,
           "explanation": "Zero-error steady velocity outperforms volatile high-error sprinting over duration.",
@@ -4083,10 +4083,10 @@
         {
           "prompt": "Complete: 'Flow is not speed; flow is _______.'",
           "options": [
-            "typing loud (Achieve metronomic isochronous typing rhythm (U9))",
-            "hitting keys hard (Achieve metronomic isochronous typing rhythm (U9))",
-            "unbroken continuity of rhythm (Achieve metronomic isochronous typing rhythm (U9))",
-            "rushing (Achieve metronomic isochronous typing rhythm (U9))"
+            "typing loud (Achieve metronomic isochronous typing rhythm)",
+            "hitting keys hard (Achieve metronomic isochronous typing rhythm)",
+            "unbroken continuity of rhythm (Achieve metronomic isochronous typing rhythm)",
+            "rushing (Achieve metronomic isochronous typing rhythm)"
           ],
           "answerIndex": 2,
           "explanation": "Flow is unbroken continuity of rhythm.",
@@ -4124,10 +4124,10 @@
         {
           "prompt": "When executing the motor patterns for Master high-speed error recovery reflexes, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Execute a single Ctrl+Backspace (Master highspeed error recovery reflexes (U9))",
-            "Restart the entire test from the beginning (Master highspeed error recovery reflexes (U9))",
-            "Tap the Backspace key 5 times individually (Master highspeed error recovery reflexes (U9))",
-            "Use the mouse to highlight and delete the letter (Master highspeed error recovery reflexes (U9))"
+            "Execute a single Ctrl+Backspace (Master highspeed error recovery reflexes)",
+            "Restart the entire test from the beginning (Master highspeed error recovery reflexes)",
+            "Tap the Backspace key 5 times individually (Master highspeed error recovery reflexes)",
+            "Use the mouse to highlight and delete the letter (Master highspeed error recovery reflexes)"
           ],
           "answerIndex": 0,
           "explanation": "Ctrl+Backspace purges the corrupted word in a single 50ms stroke."
@@ -4135,10 +4135,10 @@
         {
           "prompt": "Which finger is designated for the Backspace key on standard keyboards?",
           "options": [
-            "Right Pinky (Master highspeed error recovery reflexes (U9))",
-            "Right Index finger (Master highspeed error recovery reflexes (U9))",
-            "Left Pinky (Master highspeed error recovery reflexes (U9))",
-            "Right Thumb (Master highspeed error recovery reflexes (U9))"
+            "Right Pinky (Master highspeed error recovery reflexes)",
+            "Right Index finger (Master highspeed error recovery reflexes)",
+            "Left Pinky (Master highspeed error recovery reflexes)",
+            "Right Thumb (Master highspeed error recovery reflexes)"
           ],
           "answerIndex": 0,
           "explanation": "Right pinky reaches up-right to Backspace while the hand anchors on the home row."
@@ -4150,10 +4150,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 9, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Fast error recovry preserves momentum and guarantees high average velocity. (Master highspeed error recovery reflexes (U9))",
-            "Fast error recovery preserves momentum and guarantees high average velocity. (Master highspeed error recovery reflexes (U9))",
-            "Fast error recovery perserves momentum and guarantees high average velocity. (Master highspeed error recovery reflexes (U9))",
-            "Fast error recovery preserves momemtum and guarantees high average velocity. (Master highspeed error recovery reflexes (U9))"
+            "Fast error recovry preserves momentum and guarantees high average velocity. (Master highspeed error recovery reflexes)",
+            "Fast error recovery preserves momentum and guarantees high average velocity. (Master highspeed error recovery reflexes)",
+            "Fast error recovery perserves momentum and guarantees high average velocity. (Master highspeed error recovery reflexes)",
+            "Fast error recovery preserves momemtum and guarantees high average velocity. (Master highspeed error recovery reflexes)"
           ],
           "answerIndex": 1,
           "explanation": "Error recovery drill."
@@ -4161,10 +4161,10 @@
         {
           "prompt": "What causes the 'post-error freeze' in amateur typists?",
           "options": [
-            "The keyboard loses power (Master highspeed error recovery reflexes (U9))",
-            "The computer stops recording input (Master highspeed error recovery reflexes (U9))",
-            "The brain's anterior cingulate cortex pauses motor output to evaluate the mistake; conditioned typists override this pause with an automatic recovery motor sequence (Master highspeed error recovery reflexes (U9))",
-            "The screen turns off (Master highspeed error recovery reflexes (U9))"
+            "The keyboard loses power (Master highspeed error recovery reflexes)",
+            "The computer stops recording input (Master highspeed error recovery reflexes)",
+            "The brain's anterior cingulate cortex pauses motor output to evaluate the mistake; conditioned typists override this pause with an automatic recovery motor sequence (Master highspeed error recovery reflexes)",
+            "The screen turns off (Master highspeed error recovery reflexes)"
           ],
           "answerIndex": 2,
           "explanation": "Automatic recovery reflexes bypass the conscious error-evaluation pause."
@@ -4176,10 +4176,10 @@
         {
           "prompt": "Match the recovery methods: Immediate Single Typo, Deep Multi-Letter Error, Post-Error Freeze, Anchor Hand:",
           "options": [
-            "Immediate Typo: Single pinky backspace | Deep Error: Ctrl+Backspace whole-word | Post-Error Freeze: Subconscious hesitation | Anchor Hand: Hand stays on home row (Master highspeed error recovery reflexes (U9))",
-            "All mean type slower (Master highspeed error recovery reflexes (U9))",
-            "All are mouse gestures (Master highspeed error recovery reflexes (U9))",
-            "All mean turn off keyboard (Master highspeed error recovery reflexes (U9))"
+            "Immediate Typo: Single pinky backspace | Deep Error: Ctrl+Backspace whole-word | Post-Error Freeze: Subconscious hesitation | Anchor Hand: Hand stays on home row (Master highspeed error recovery reflexes)",
+            "All mean type slower (Master highspeed error recovery reflexes)",
+            "All are mouse gestures (Master highspeed error recovery reflexes)",
+            "All mean turn off keyboard (Master highspeed error recovery reflexes)"
           ],
           "answerIndex": 0,
           "explanation": "Error recovery classification matching.",
@@ -4188,10 +4188,10 @@
         {
           "prompt": "Type: `Mistakes are data; recover instantly and sustain the flow state.`",
           "options": [
-            "Mistakes are data; recover instanly and sustain the flow state. (Master highspeed error recovery reflexes (U9))",
-            "Mistakes are date; recover instantly and sustain the flow state. (Master highspeed error recovery reflexes (U9))",
-            "Mistakes are data; recovr instantly and sustain the flow state. (Master highspeed error recovery reflexes (U9))",
-            "Mistakes are data; recover instantly and sustain the flow state. (Master highspeed error recovery reflexes (U9))"
+            "Mistakes are data; recover instanly and sustain the flow state. (Master highspeed error recovery reflexes)",
+            "Mistakes are date; recover instantly and sustain the flow state. (Master highspeed error recovery reflexes)",
+            "Mistakes are data; recovr instantly and sustain the flow state. (Master highspeed error recovery reflexes)",
+            "Mistakes are data; recover instantly and sustain the flow state. (Master highspeed error recovery reflexes)"
           ],
           "answerIndex": 3,
           "explanation": "Exact sentence verification.",
@@ -4200,10 +4200,10 @@
         {
           "prompt": "Why is retaining home-row anchoring during a backspace reach essential?",
           "options": [
-            "To prevent the spacebar from moving (Master highspeed error recovery reflexes (U9))",
-            "Because home row keys lock (Master highspeed error recovery reflexes (U9))",
-            "If the right hand leaves the home row completely to hunt for backspace, repositioning the hand causes a massive 1-second delay and secondary typos on the next word (Master highspeed error recovery reflexes (U9))",
-            "Because hands are glued to keyboards (Master highspeed error recovery reflexes (U9))"
+            "To prevent the spacebar from moving (Master highspeed error recovery reflexes)",
+            "Because home row keys lock (Master highspeed error recovery reflexes)",
+            "If the right hand leaves the home row completely to hunt for backspace, repositioning the hand causes a massive 1-second delay and secondary typos on the next word (Master highspeed error recovery reflexes)",
+            "Because hands are glued to keyboards (Master highspeed error recovery reflexes)"
           ],
           "answerIndex": 2,
           "explanation": "Home row anchoring ensures instant repositioning without visual hunting.",
@@ -4212,10 +4212,10 @@
         {
           "prompt": "Complete: 'Do not fear the mistake; master the _______.'",
           "options": [
-            "pause button (Master highspeed error recovery reflexes (U9))",
-            "instant recovery reflex (Master highspeed error recovery reflexes (U9))",
-            "slowdown (Master highspeed error recovery reflexes (U9))",
-            "excuse (Master highspeed error recovery reflexes (U9))"
+            "pause button (Master highspeed error recovery reflexes)",
+            "instant recovery reflex (Master highspeed error recovery reflexes)",
+            "slowdown (Master highspeed error recovery reflexes)",
+            "excuse (Master highspeed error recovery reflexes)"
           ],
           "answerIndex": 1,
           "explanation": "Mastering the instant recovery reflex.",
@@ -4253,10 +4253,10 @@
         {
           "prompt": "When executing the motor patterns for Build sustained endurance across a grueling 5-minute continuous typing marathon (2, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Sprint at 150% speed in minute 1 until fingers cramp (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Type as slowly as possible for 4 minutes (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Stop every 30 seconds for a nap (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Begin at a calm, controlled 95% speed with 99%+ accuracy, establishing a rock-solid isochronous rhythm that can be maintained effortlessly through minute 5 (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))"
+            "Sprint at 150% speed in minute 1 until fingers cramp (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Type as slowly as possible for 4 minutes (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Stop every 30 seconds for a nap (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Begin at a calm, controlled 95% speed with 99%+ accuracy, establishing a rock-solid isochronous rhythm that can be maintained effortlessly through minute 5 (Build sustained endurance across a grueling 5minute continuous typing marathon 2)"
           ],
           "answerIndex": 3,
           "explanation": "Controlled 95% baseline pacing prevents early lactic acid burnout and ensures consistent endurance."
@@ -4264,10 +4264,10 @@
         {
           "prompt": "What physical symptom indicates that a typist is using excessive muscular tension during extended typing?",
           "options": [
-            "Cold fingertips only (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Feeling energized (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Hearing music (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Tightness in the forearms, raised/hunched shoulders, and soreness in the wrists (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))"
+            "Cold fingertips only (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Feeling energized (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Hearing music (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Tightness in the forearms, raised/hunched shoulders, and soreness in the wrists (Build sustained endurance across a grueling 5minute continuous typing marathon 2)"
           ],
           "answerIndex": 3,
           "explanation": "Forearm burning and raised shoulders signal dangerous isometric co-contraction."
@@ -4279,10 +4279,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 9, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Endurance is the triumphant marriage of biomechanical relaxation and sustained mental focus. (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Endurance is the triumphant marrage of biomechanical relaxation and sustained mental focus. (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Endurance is the triumphant marriage of biomechanicle relaxation and sustained mental focus. (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Endurance is the triumphant marriage of biomechanical relaxation and sustaned mental focus. (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))"
+            "Endurance is the triumphant marriage of biomechanical relaxation and sustained mental focus. (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Endurance is the triumphant marrage of biomechanical relaxation and sustained mental focus. (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Endurance is the triumphant marriage of biomechanicle relaxation and sustained mental focus. (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Endurance is the triumphant marriage of biomechanical relaxation and sustaned mental focus. (Build sustained endurance across a grueling 5minute continuous typing marathon 2)"
           ],
           "answerIndex": 0,
           "explanation": "Endurance drill sentence."
@@ -4290,10 +4290,10 @@
         {
           "prompt": "How does 'dynamic micro-resting' work during continuous typing?",
           "options": [
-            "Muscles in inactive fingers release 100% of their tension during the split-second gaps when other fingers or the thumb are striking (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Stopping typing for 10 minutes (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Sleeping with your hands on the keyboard (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Typing with one hand only (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))"
+            "Muscles in inactive fingers release 100% of their tension during the split-second gaps when other fingers or the thumb are striking (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Stopping typing for 10 minutes (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Sleeping with your hands on the keyboard (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Typing with one hand only (Build sustained endurance across a grueling 5minute continuous typing marathon 2)"
           ],
           "answerIndex": 0,
           "explanation": "Micro-resting non-active fingers continuously purges lactic acid buildup."
@@ -4305,10 +4305,10 @@
         {
           "prompt": "Match the endurance components: Forearm Flexors, Micro-Resting, Shoulder Depression, Visual Pacing:",
           "options": [
-            "All mean type louder (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "All are keyboard cords (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "All mean stop typing (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Forearm Flexors: Primary finger drivers | Micro-Resting: Instant tension release | Shoulder Depression: Prevents neck tension | Visual Pacing: Scan ahead continuously (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))"
+            "All mean type louder (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "All are keyboard cords (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "All mean stop typing (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Forearm Flexors: Primary finger drivers | Micro-Resting: Instant tension release | Shoulder Depression: Prevents neck tension | Visual Pacing: Scan ahead continuously (Build sustained endurance across a grueling 5minute continuous typing marathon 2)"
           ],
           "answerIndex": 3,
           "explanation": "Endurance physiology matching.",
@@ -4317,10 +4317,10 @@
         {
           "prompt": "Type: `The marathon runner of the keyboard glides effortlessly across miles of text.`",
           "options": [
-            "The marathon runer of the keyboard glides effortlessly across miles of text. (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "The marathon runner of the keyboard glides efortlessly across miles of text. (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "The marathon runner of the keyboard glides effortlessly across miles of text. (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "The marathon runner of the keybord glides effortlessly across miles of text. (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))"
+            "The marathon runer of the keyboard glides effortlessly across miles of text. (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "The marathon runner of the keyboard glides efortlessly across miles of text. (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "The marathon runner of the keyboard glides effortlessly across miles of text. (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "The marathon runner of the keybord glides effortlessly across miles of text. (Build sustained endurance across a grueling 5minute continuous typing marathon 2)"
           ],
           "answerIndex": 2,
           "explanation": "Exact marathon prose sentence.",
@@ -4329,10 +4329,10 @@
         {
           "prompt": "Why is cognitive stamina just as important as physical stamina during a 5-minute typing marathon?",
           "options": [
-            "Because words change meaning (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Because mental distraction or wandering attention causes instant visual lookahead decay, leading to catastrophic typo clusters in minutes 4 and 5 (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Because the brain gets sleepy (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "Because typing consumes 5000 calories (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))"
+            "Because words change meaning (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Because mental distraction or wandering attention causes instant visual lookahead decay, leading to catastrophic typo clusters in minutes 4 and 5 (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Because the brain gets sleepy (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "Because typing consumes 5000 calories (Build sustained endurance across a grueling 5minute continuous typing marathon 2)"
           ],
           "answerIndex": 1,
           "explanation": "Continuous cognitive lookahead requires sustained executive attention.",
@@ -4341,10 +4341,10 @@
         {
           "prompt": "Complete: 'Endurance turns high speed from a brief parlor trick into a _______.'",
           "options": [
-            "permanent superpower of productivity (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "source of injury (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "memory test (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))",
-            "boring routine (Build sustained endurance across a grueling 5minute continuous typing marathon 2 (U9))"
+            "permanent superpower of productivity (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "source of injury (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "memory test (Build sustained endurance across a grueling 5minute continuous typing marathon 2)",
+            "boring routine (Build sustained endurance across a grueling 5minute continuous typing marathon 2)"
           ],
           "answerIndex": 0,
           "explanation": "Endurance transforms speed into a permanent superpower of productivity.",
@@ -4382,10 +4382,10 @@
         {
           "prompt": "When executing the motor patterns for Master competitive online typing conditions (TypeRacer, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Running out of words (Master competitive online typing conditions TypeRacer (U9))",
-            "Looking at the opponent's progress bar instead of maintaining visual lookahead on your own text stream, triggering adrenaline panic and rushed typos (Master competitive online typing conditions TypeRacer (U9))",
-            "Typing too accurately (Master competitive online typing conditions TypeRacer (U9))",
-            "The keyboard disconnecting (Master competitive online typing conditions TypeRacer (U9))"
+            "Running out of words (Master competitive online typing conditions TypeRacer)",
+            "Looking at the opponent's progress bar instead of maintaining visual lookahead on your own text stream, triggering adrenaline panic and rushed typos (Master competitive online typing conditions TypeRacer)",
+            "Typing too accurately (Master competitive online typing conditions TypeRacer)",
+            "The keyboard disconnecting (Master competitive online typing conditions TypeRacer)"
           ],
           "answerIndex": 1,
           "explanation": "Distraction by opponent position breaks internal visual lookahead and triggers panic."
@@ -4393,10 +4393,10 @@
         {
           "prompt": "Why does a 105 WPM typist with 100% accuracy consistently beat a 130 WPM typist with 94% accuracy on TypeRacer?",
           "options": [
-            "Because TypeRacer halts forward progress completely on every error, forcing the 130 WPM typist to waste seconds backspacing while the 105 WPM typist glides across the finish line with zero stops (Master competitive online typing conditions TypeRacer (U9))",
-            "Because 105 is a higher score than 130 (Master competitive online typing conditions TypeRacer (U9))",
-            "Because accuracy counts 5x more (Master competitive online typing conditions TypeRacer (U9))",
-            "Because TypeRacer gives bonus points to slower typists (Master competitive online typing conditions TypeRacer (U9))"
+            "Because TypeRacer halts forward progress completely on every error, forcing the 130 WPM typist to waste seconds backspacing while the 105 WPM typist glides across the finish line with zero stops (Master competitive online typing conditions TypeRacer)",
+            "Because 105 is a higher score than 130 (Master competitive online typing conditions TypeRacer)",
+            "Because accuracy counts 5x more (Master competitive online typing conditions TypeRacer)",
+            "Because TypeRacer gives bonus points to slower typists (Master competitive online typing conditions TypeRacer)"
           ],
           "answerIndex": 0,
           "explanation": "TypeRacer error-stop mechanics severely penalize typos, giving smooth accuracy an unbeatable advantage."
@@ -4408,10 +4408,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 9, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Composure under pressure separates the amateur from the champion. (Master competitive online typing conditions TypeRacer (U9))",
-            "Composure under pressure separates the amature from the champion. (Master competitive online typing conditions TypeRacer (U9))",
-            "Composure under presure separates the amateur from the champion. (Master competitive online typing conditions TypeRacer (U9))",
-            "Composure under pressure seperates the amateur from the champion. (Master competitive online typing conditions TypeRacer (U9))"
+            "Composure under pressure separates the amateur from the champion. (Master competitive online typing conditions TypeRacer)",
+            "Composure under pressure separates the amature from the champion. (Master competitive online typing conditions TypeRacer)",
+            "Composure under presure separates the amateur from the champion. (Master competitive online typing conditions TypeRacer)",
+            "Composure under pressure seperates the amateur from the champion. (Master competitive online typing conditions TypeRacer)"
           ],
           "answerIndex": 0,
           "explanation": "Exact competitive sentence verification."
@@ -4419,10 +4419,10 @@
         {
           "prompt": "What physiological routine should a competitive typist execute during the 5-second countdown before a race begins?",
           "options": [
-            "Take one deep slow diaphragmatic breath, shake out forearm tension, float wrists, and read the first 4 words of the text (Master competitive online typing conditions TypeRacer (U9))",
-            "Spam the spacebar repeatedly (Master competitive online typing conditions TypeRacer (U9))",
-            "Hold breath and tense all arm muscles (Master competitive online typing conditions TypeRacer (U9))",
-            "Close eyes and ignore the screen (Master competitive online typing conditions TypeRacer (U9))"
+            "Take one deep slow diaphragmatic breath, shake out forearm tension, float wrists, and read the first 4 words of the text (Master competitive online typing conditions TypeRacer)",
+            "Spam the spacebar repeatedly (Master competitive online typing conditions TypeRacer)",
+            "Hold breath and tense all arm muscles (Master competitive online typing conditions TypeRacer)",
+            "Close eyes and ignore the screen (Master competitive online typing conditions TypeRacer)"
           ],
           "answerIndex": 0,
           "explanation": "Deep breath, tension shakeout, and pre-reading the opening 4 words primes the motor system for instant flow."
@@ -4434,10 +4434,10 @@
         {
           "prompt": "Match the competitive phenomena: Leaderboard Panic, Error Lockout, Visual Pre-Read, Adrenaline Shake:",
           "options": [
-            "All are keyboard bugs (Master competitive online typing conditions TypeRacer (U9))",
-            "All mean computer crash (Master competitive online typing conditions TypeRacer (U9))",
-            "Leaderboard Panic: Rushing when behind | Error Lockout: Progress blocked on typo | Visual Pre-Read: Scanning text before start | Adrenaline Shake: Tremor from sympathetic arousal (Master competitive online typing conditions TypeRacer (U9))",
-            "All mean slow internet (Master competitive online typing conditions TypeRacer (U9))"
+            "All are keyboard bugs (Master competitive online typing conditions TypeRacer)",
+            "All mean computer crash (Master competitive online typing conditions TypeRacer)",
+            "Leaderboard Panic: Rushing when behind | Error Lockout: Progress blocked on typo | Visual Pre-Read: Scanning text before start | Adrenaline Shake: Tremor from sympathetic arousal (Master competitive online typing conditions TypeRacer)",
+            "All mean slow internet (Master competitive online typing conditions TypeRacer)"
           ],
           "answerIndex": 2,
           "explanation": "Competitive psychology matching.",
@@ -4446,10 +4446,10 @@
         {
           "prompt": "Type: `The champion remains calm when the storm of competition reaches its peak.`",
           "options": [
-            "The champion remains calm when the stom of competition reaches its peak. (Master competitive online typing conditions TypeRacer (U9))",
-            "The champion remains calm when the storm of competition reaches its peak. (Master competitive online typing conditions TypeRacer (U9))",
-            "The champion remains calm when the storm of compatition reaches its peak. (Master competitive online typing conditions TypeRacer (U9))",
-            "The champion remanes calm when the storm of competition reaches its peak. (Master competitive online typing conditions TypeRacer (U9))"
+            "The champion remains calm when the stom of competition reaches its peak. (Master competitive online typing conditions TypeRacer)",
+            "The champion remains calm when the storm of competition reaches its peak. (Master competitive online typing conditions TypeRacer)",
+            "The champion remains calm when the storm of compatition reaches its peak. (Master competitive online typing conditions TypeRacer)",
+            "The champion remanes calm when the storm of competition reaches its peak. (Master competitive online typing conditions TypeRacer)"
           ],
           "answerIndex": 1,
           "explanation": "Exact verification sentence.",
@@ -4458,10 +4458,10 @@
         {
           "prompt": "What is 'clutch performance' in competitive typing?",
           "options": [
-            "The ability to maintain 100% accuracy and peak velocity in the final 10 seconds of a dead-heat race when heart rate is elevated and stakes are highest (Master competitive online typing conditions TypeRacer (U9))",
-            "Using a manual transmission (Master competitive online typing conditions TypeRacer (U9))",
-            "Hitting the keyboard with a fist (Master competitive online typing conditions TypeRacer (U9))",
-            "Winning by default (Master competitive online typing conditions TypeRacer (U9))"
+            "The ability to maintain 100% accuracy and peak velocity in the final 10 seconds of a dead-heat race when heart rate is elevated and stakes are highest (Master competitive online typing conditions TypeRacer)",
+            "Using a manual transmission (Master competitive online typing conditions TypeRacer)",
+            "Hitting the keyboard with a fist (Master competitive online typing conditions TypeRacer)",
+            "Winning by default (Master competitive online typing conditions TypeRacer)"
           ],
           "answerIndex": 0,
           "explanation": "Maintaining peak execution and calm precision under maximum physiological arousal.",
@@ -4470,10 +4470,10 @@
         {
           "prompt": "Complete: 'In competition, focus on the process, and the victory will _______.'",
           "options": [
-            "depend on disciplined neuromuscular practice (Master competitive online typing conditions TypeRacer (U9))",
-            "vanish (Master competitive online typing conditions TypeRacer (U9))",
-            "cause stress (Master competitive online typing conditions TypeRacer (U9))",
-            "take care of itself (Master competitive online typing conditions TypeRacer (U9))"
+            "depend on disciplined neuromuscular practice (Master competitive online typing conditions TypeRacer)",
+            "vanish (Master competitive online typing conditions TypeRacer)",
+            "cause stress (Master competitive online typing conditions TypeRacer)",
+            "take care of itself (Master competitive online typing conditions TypeRacer)"
           ],
           "answerIndex": 3,
           "explanation": "Process focus delivers competitive victory.",
@@ -4511,10 +4511,10 @@
         {
           "prompt": "When executing the motor patterns for Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "1. Neutral Floating Biomechanics; 2. 2-3 Word Visual Lookahead; 3. Isochronous Rhythm; 4. Instant Ctrl+Backspace Error Recovery; 5. 99%+ Accuracy Discipline (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "1. Pounding the keys with force only; 2. Memorizing keyboard pictures (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "1. Typing with 2 fingers only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "1. Staring at the keyboard only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))"
+            "1. Neutral Floating Biomechanics; 2. 2-3 Word Visual Lookahead; 3. Isochronous Rhythm; 4. Instant Ctrl+Backspace Error Recovery; 5. 99%+ Accuracy Discipline (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "1. Pounding the keys with force only; 2. Memorizing keyboard pictures (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "1. Typing with 2 fingers only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "1. Staring at the keyboard only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)"
           ],
           "answerIndex": 0,
           "explanation": "The 5 pillars of master touch typing pedagogy."
@@ -4522,10 +4522,10 @@
         {
           "prompt": "Type the Grand Capstone conclusion: `The keyboard is no longer an obstacle; it is your digital voice.`",
           "options": [
-            "The keyboard is no longer an obstacle; it is your digital voice. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "The keybord is no longer an obstacle; it is your digital voice. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "The keyboard is no longer an obsticle; it is your digital voice. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "The keyboard is no longer an obstacle; it is your digitel voice. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))"
+            "The keyboard is no longer an obstacle; it is your digital voice. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "The keybord is no longer an obstacle; it is your digital voice. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "The keyboard is no longer an obsticle; it is your digital voice. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "The keyboard is no longer an obstacle; it is your digitel voice. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)"
           ],
           "answerIndex": 0,
           "explanation": "Exact grand capstone sentence."
@@ -4537,10 +4537,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 9, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Typing without electricity (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "Frictionless thought-to-text translation: Eliminating all physical bottlenecks between executive ideas and digital manifestation across code, writing, and communication (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "Never needing to read (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "Winning typing games only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))"
+            "Typing without electricity (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "Frictionless thought-to-text translation: Eliminating all physical bottlenecks between executive ideas and digital manifestation across code, writing, and communication (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "Never needing to read (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "Winning typing games only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)"
           ],
           "answerIndex": 1,
           "explanation": "Frictionless thought-to-text translation eliminates cognitive bottlenecks in the digital era."
@@ -4548,10 +4548,10 @@
         {
           "prompt": "How does maintaining neutral floating wrists protect against Carpal Tunnel Syndrome over a 40-year career?",
           "options": [
-            "It turns wrists into metal (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "It prevents elevated carpal canal pressure and eliminates friction against the median nerve and flexor tendons (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "It has no protective effect (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "It makes wrists immune to gravity (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))"
+            "It turns wrists into metal (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "It prevents elevated carpal canal pressure and eliminates friction against the median nerve and flexor tendons (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "It has no protective effect (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "It makes wrists immune to gravity (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)"
           ],
           "answerIndex": 1,
           "explanation": "Neutral floating alignment eliminates mechanical pressure on the median nerve."
@@ -4563,10 +4563,10 @@
         {
           "prompt": "What core competencies were mastered across the ENTIRE 45-Lesson FEARN Touch Typing Curriculum?",
           "options": [
-            "Hunting and pecking with index fingers only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
+            "Hunting and pecking with index fingers only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
             "Home row (ASDF JKL;)",
-            "Typing on a smartphone touchscreen only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "Staring at hands while typing (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))"
+            "Typing on a smartphone touchscreen only (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "Staring at hands while typing (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)"
           ],
           "answerIndex": 1,
           "explanation": "Comprehensive 45-lesson Touch Typing Grand Apex certification.",
@@ -4575,10 +4575,10 @@
         {
           "prompt": "Type: `True mastery is the effortless unity of mind, body, and instrument.`",
           "options": [
-            "True mastery is the effortless unity of mind, body, and instrument. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "True mastry is the effortless unity of mind, body, and instrument. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "True mastery is the efortless unity of mind, body, and instrument. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "True mastery is the effortless unity of mind, body, and instrumnt. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))"
+            "True mastery is the effortless unity of mind, body, and instrument. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "True mastry is the effortless unity of mind, body, and instrument. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "True mastery is the efortless unity of mind, body, and instrument. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "True mastery is the effortless unity of mind, body, and instrumnt. (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)"
           ],
           "answerIndex": 0,
           "explanation": "Exact final certification sentence.",
@@ -4587,10 +4587,10 @@
         {
           "prompt": "Why is touch typing considered the foundational physical literacy of the 21st century?",
           "options": [
-            "Because pens are illegal (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "Because keyboards are inexpensive (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "Because paper is obsolete (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "Because virtually all human knowledge, computation, software engineering, governance, and creative expression are mediated through the keyboard interface (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))"
+            "Because pens are illegal (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "Because keyboards are inexpensive (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "Because paper is obsolete (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "Because virtually all human knowledge, computation, software engineering, governance, and creative expression are mediated through the keyboard interface (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)"
           ],
           "answerIndex": 3,
           "explanation": "The keyboard is the primary gateway to 21st-century knowledge and creation.",
@@ -4599,10 +4599,10 @@
         {
           "prompt": "Complete the Typist's eternal creed: 'My hands do not follow my thoughts; my hands _______.'",
           "options": [
-            "move randomly (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "make typos (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "are the direct physical manifestation of my thoughts (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))",
-            "rest on the desk (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio (U9))"
+            "move randomly (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "make typos (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "are the direct physical manifestation of my thoughts (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)",
+            "rest on the desk (Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio)"
           ],
           "answerIndex": 2,
           "explanation": "Hands become the direct physical manifestation of thought.",
@@ -4645,10 +4645,10 @@
         {
           "prompt": "When executing the motor patterns for Execute the top 10 most frequent English bigrams (th, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "ZZ (Execute the top 10 most frequent English bigrams th (U5))",
-            "QU (Execute the top 10 most frequent English bigrams th (U5))",
-            "XY (Execute the top 10 most frequent English bigrams th (U5))",
-            "TH (Execute the top 10 most frequent English bigrams th (U5))"
+            "ZZ (Execute the top 10 most frequent English bigrams th)",
+            "QU (Execute the top 10 most frequent English bigrams th)",
+            "XY (Execute the top 10 most frequent English bigrams th)",
+            "TH (Execute the top 10 most frequent English bigrams th)"
           ],
           "answerIndex": 3,
           "explanation": "TH accounts for over 3.5% of all bigram occurrences in English."
@@ -4656,10 +4656,10 @@
         {
           "prompt": "What is 'neuromuscular motor chunking' in touch typing?",
           "options": [
-            "Pressing keys with your knuckles (Execute the top 10 most frequent English bigrams th (U5))",
-            "Looking down at the keyboard (Execute the top 10 most frequent English bigrams th (U5))",
-            "Typing with one hand only (Execute the top 10 most frequent English bigrams th (U5))",
-            "Firing a rapid sequence of 2-3 keystrokes as a single unified muscle reflex without individual cognitive checks (Execute the top 10 most frequent English bigrams th (U5))"
+            "Pressing keys with your knuckles (Execute the top 10 most frequent English bigrams th)",
+            "Looking down at the keyboard (Execute the top 10 most frequent English bigrams th)",
+            "Typing with one hand only (Execute the top 10 most frequent English bigrams th)",
+            "Firing a rapid sequence of 2-3 keystrokes as a single unified muscle reflex without individual cognitive checks (Execute the top 10 most frequent English bigrams th)"
           ],
           "answerIndex": 3,
           "explanation": "Motor chunking bundles multi-key sequences into single motor programs."
@@ -4671,10 +4671,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 5, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Right Thumb and Left Pinky (Execute the top 10 most frequent English bigrams th (U5))",
-            "Right Index and Right Middle (Execute the top 10 most frequent English bigrams th (U5))",
-            "Left Pinky and Left Ring (Execute the top 10 most frequent English bigrams th (U5))",
-            "Left Middle Finger (Execute the top 10 most frequent English bigrams th (U5))"
+            "Right Thumb and Left Pinky (Execute the top 10 most frequent English bigrams th)",
+            "Right Index and Right Middle (Execute the top 10 most frequent English bigrams th)",
+            "Left Pinky and Left Ring (Execute the top 10 most frequent English bigrams th)",
+            "Left Middle Finger (Execute the top 10 most frequent English bigrams th)"
           ],
           "answerIndex": 3,
           "explanation": "Left Middle on E -> Left Index on R."
@@ -4682,10 +4682,10 @@
         {
           "prompt": "Type this bigram practice sequence with zero wrist bouncing: 'then here into rent and on at' — what is the primary ergonomic rule?",
           "options": [
-            "Rest heavy weight on wrist rests. (Execute the top 10 most frequent English bigrams th (U5))",
-            "Lift the entire forearm for each key. (Execute the top 10 most frequent English bigrams th (U5))",
-            "Type with straight, locked fingers. (Execute the top 10 most frequent English bigrams th (U5))",
-            "Keep wrists floating neutrally above the desk; let finger joints execute the strikes. (Execute the top 10 most frequent English bigrams th (U5))"
+            "Rest heavy weight on wrist rests. (Execute the top 10 most frequent English bigrams th)",
+            "Lift the entire forearm for each key. (Execute the top 10 most frequent English bigrams th)",
+            "Type with straight, locked fingers. (Execute the top 10 most frequent English bigrams th)",
+            "Keep wrists floating neutrally above the desk; let finger joints execute the strikes. (Execute the top 10 most frequent English bigrams th)"
           ],
           "answerIndex": 3,
           "explanation": "Floating neutral wrists allow rapid finger dexterity."
@@ -4697,10 +4697,10 @@
         {
           "prompt": "Identify the 5 highest-frequency English bigrams:",
           "options": [
-            "TH, HE, IN, ER, AN (Execute the top 10 most frequent English bigrams th (U5))",
-            "OO, EE, MM, TT, FF (Execute the top 10 most frequent English bigrams th (U5))",
-            "AB, CD, EF, GH, IJ (Execute the top 10 most frequent English bigrams th (U5))",
-            "QZ, XJ, WK, VB, PY (Execute the top 10 most frequent English bigrams th (U5))"
+            "TH, HE, IN, ER, AN (Execute the top 10 most frequent English bigrams th)",
+            "OO, EE, MM, TT, FF (Execute the top 10 most frequent English bigrams th)",
+            "AB, CD, EF, GH, IJ (Execute the top 10 most frequent English bigrams th)",
+            "QZ, XJ, WK, VB, PY (Execute the top 10 most frequent English bigrams th)"
           ],
           "answerIndex": 0,
           "explanation": "TH, HE, IN, ER, AN are the top 5 frequency bigrams.",
@@ -4709,10 +4709,10 @@
         {
           "prompt": "Why does alternating hands (e.g. T on left, H on right) produce faster typing speeds than same-finger reaches?",
           "options": [
-            "Because the right hand is stronger. (Execute the top 10 most frequent English bigrams th (U5))",
-            "Because the left hand does not need to return to home row. (Execute the top 10 most frequent English bigrams th (U5))",
-            "It is a myth. (Execute the top 10 most frequent English bigrams th (U5))",
-            "Because the second hand is already positioned over its target key while the first hand is still completing its stroke. (Execute the top 10 most frequent English bigrams th (U5))"
+            "Because the right hand is stronger. (Execute the top 10 most frequent English bigrams th)",
+            "Because the left hand does not need to return to home row. (Execute the top 10 most frequent English bigrams th)",
+            "It is a myth. (Execute the top 10 most frequent English bigrams th)",
+            "Because the second hand is already positioned over its target key while the first hand is still completing its stroke. (Execute the top 10 most frequent English bigrams th)"
           ],
           "answerIndex": 3,
           "explanation": "Parallel motor preparation across hemispheres accelerates speed.",
@@ -4721,10 +4721,10 @@
         {
           "prompt": "Type the word 'RENDER' — which bigrams are chained together?",
           "options": [
-            "Only RN (Execute the top 10 most frequent English bigrams th (U5))",
-            "RD + NE (Execute the top 10 most frequent English bigrams th (U5))",
-            "RE + EN + ND + DE + ER (Execute the top 10 most frequent English bigrams th (U5))",
-            "None (Execute the top 10 most frequent English bigrams th (U5))"
+            "Only RN (Execute the top 10 most frequent English bigrams th)",
+            "RD + NE (Execute the top 10 most frequent English bigrams th)",
+            "RE + EN + ND + DE + ER (Execute the top 10 most frequent English bigrams th)",
+            "None (Execute the top 10 most frequent English bigrams th)"
           ],
           "answerIndex": 2,
           "explanation": "RE, EN, ND, DE, ER are all chained bigrams.",
@@ -4733,10 +4733,10 @@
         {
           "prompt": "What target accuracy should be maintained while building bigram speed?",
           "options": [
-            "70% is fine (Execute the top 10 most frequent English bigrams th (U5))",
-            "At least 98% to prevent hardwiring inaccurate motor patterns into muscle memory (Execute the top 10 most frequent English bigrams th (U5))",
-            "100% with no backspaces ever permitted (Execute the top 10 most frequent English bigrams th (U5))",
-            "Speed matters more than accuracy (Execute the top 10 most frequent English bigrams th (U5))"
+            "70% is fine (Execute the top 10 most frequent English bigrams th)",
+            "At least 98% to prevent hardwiring inaccurate motor patterns into muscle memory (Execute the top 10 most frequent English bigrams th)",
+            "100% with no backspaces ever permitted (Execute the top 10 most frequent English bigrams th)",
+            "Speed matters more than accuracy (Execute the top 10 most frequent English bigrams th)"
           ],
           "answerIndex": 1,
           "explanation": "98%+ accuracy prevents neural error entrainment.",
@@ -4779,10 +4779,10 @@
         {
           "prompt": "When executing the motor patterns for Automate high-frequency English trigrams (the, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "TIO (Automate highfrequency English trigrams the (U5))",
-            "AND (Automate highfrequency English trigrams the (U5))",
-            "ING (Automate highfrequency English trigrams the (U5))",
-            "THE (Automate highfrequency English trigrams the (U5))"
+            "TIO (Automate highfrequency English trigrams the)",
+            "AND (Automate highfrequency English trigrams the)",
+            "ING (Automate highfrequency English trigrams the)",
+            "THE (Automate highfrequency English trigrams the)"
           ],
           "answerIndex": 0,
           "explanation": "TIO / ION is the universal Latinate noun suffix trigram."
@@ -4790,10 +4790,10 @@
         {
           "prompt": "How should the suffix trigram 'ING' feel under your fingers?",
           "options": [
-            "A fluid, continuous inward ripple: Right Middle (Automate highfrequency English trigrams the (U5))",
-            "Three separate pauses with wrists locked (Automate highfrequency English trigrams the (U5))",
-            "Looking down at the G key (Automate highfrequency English trigrams the (U5))",
-            "Hitting all 3 keys with the thumb (Automate highfrequency English trigrams the (U5))"
+            "A fluid, continuous inward ripple: Right Middle (Automate highfrequency English trigrams the)",
+            "Three separate pauses with wrists locked (Automate highfrequency English trigrams the)",
+            "Looking down at the G key (Automate highfrequency English trigrams the)",
+            "Hitting all 3 keys with the thumb (Automate highfrequency English trigrams the)"
           ],
           "answerIndex": 0,
           "explanation": "Smooth right-to-left finger ripple."
@@ -4805,10 +4805,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 5, Lesson 2: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Only QZ (Automate highfrequency English trigrams the (U5))",
-            "THE, ENT, TIO, ION, AND, ING (Automate highfrequency English trigrams the (U5))",
-            "Only numbers (Automate highfrequency English trigrams the (U5))",
-            "None (Automate highfrequency English trigrams the (U5))"
+            "Only QZ (Automate highfrequency English trigrams the)",
+            "THE, ENT, TIO, ION, AND, ING (Automate highfrequency English trigrams the)",
+            "Only numbers (Automate highfrequency English trigrams the)",
+            "None (Automate highfrequency English trigrams the)"
           ],
           "answerIndex": 1,
           "explanation": "Contains THE, ENT, TIO, ION, AND, ING."
@@ -4816,10 +4816,10 @@
         {
           "prompt": "What is a 'hand-alternating trigram' (e.g. THE: Left -> Right -> Left)?",
           "options": [
-            "Typing with one hand behind your back. (Automate highfrequency English trigrams the (U5))",
-            "Using hunt-and-peck typing. (Automate highfrequency English trigrams the (U5))",
-            "A sequence where keystrokes switch back and forth between left and right hands, giving each hand recovery time. (Automate highfrequency English trigrams the (U5))",
-            "Pressing Space with both thumbs. (Automate highfrequency English trigrams the (U5))"
+            "Typing with one hand behind your back. (Automate highfrequency English trigrams the)",
+            "Using hunt-and-peck typing. (Automate highfrequency English trigrams the)",
+            "A sequence where keystrokes switch back and forth between left and right hands, giving each hand recovery time. (Automate highfrequency English trigrams the)",
+            "Pressing Space with both thumbs. (Automate highfrequency English trigrams the)"
           ],
           "answerIndex": 2,
           "explanation": "Hand alternation balances cognitive and physical load."
@@ -4831,10 +4831,10 @@
         {
           "prompt": "Identify the two most common 3-letter words in the English language:",
           "options": [
-            "ONE and TWO (Automate highfrequency English trigrams the (U5))",
-            "YES and NOT (Automate highfrequency English trigrams the (U5))",
-            "CAT and DOG (Automate highfrequency English trigrams the (U5))",
-            "THE and AND (Automate highfrequency English trigrams the (U5))"
+            "ONE and TWO (Automate highfrequency English trigrams the)",
+            "YES and NOT (Automate highfrequency English trigrams the)",
+            "CAT and DOG (Automate highfrequency English trigrams the)",
+            "THE and AND (Automate highfrequency English trigrams the)"
           ],
           "answerIndex": 3,
           "explanation": "THE and AND are the top two 3-letter words.",
@@ -4843,10 +4843,10 @@
         {
           "prompt": "Which finger strikes the letter 'I' in the 'ING' and 'ION' trigrams?",
           "options": [
-            "Right Pinky Finger (Automate highfrequency English trigrams the (U5))",
-            "Left Thumb (Automate highfrequency English trigrams the (U5))",
-            "Right Middle Finger (Automate highfrequency English trigrams the (U5))",
-            "Left Index Finger (Automate highfrequency English trigrams the (U5))"
+            "Right Pinky Finger (Automate highfrequency English trigrams the)",
+            "Left Thumb (Automate highfrequency English trigrams the)",
+            "Right Middle Finger (Automate highfrequency English trigrams the)",
+            "Left Index Finger (Automate highfrequency English trigrams the)"
           ],
           "answerIndex": 2,
           "explanation": "Right Middle finger controls K (home) and I (top).",
@@ -4855,10 +4855,10 @@
         {
           "prompt": "What is the primary benefit of automating the 10 core trigrams?",
           "options": [
-            "It turns off autocorrect. (Automate highfrequency English trigrams the (U5))",
-            "It eliminates micro-pauses within words, boosting typing rhythm by 15-20+ WPM. (Automate highfrequency English trigrams the (U5))",
-            "It changes keyboard layouts. (Automate highfrequency English trigrams the (U5))",
-            "It makes your keyboard quieter. (Automate highfrequency English trigrams the (U5))"
+            "It turns off autocorrect. (Automate highfrequency English trigrams the)",
+            "It eliminates micro-pauses within words, boosting typing rhythm by 15-20+ WPM. (Automate highfrequency English trigrams the)",
+            "It changes keyboard layouts. (Automate highfrequency English trigrams the)",
+            "It makes your keyboard quieter. (Automate highfrequency English trigrams the)"
           ],
           "answerIndex": 1,
           "explanation": "Eliminates cognitive latency between letters in common syllables.",
@@ -4867,10 +4867,10 @@
         {
           "prompt": "Type the word 'MENTIONED' — what high-frequency chunks make up this word?",
           "options": [
-            "M + ENT + ION + ED (Automate highfrequency English trigrams the (U5))",
-            "ME + NT + IO + NE + D (Automate highfrequency English trigrams the (U5))",
-            "None (Automate highfrequency English trigrams the (U5))",
-            "M + E + N + T + I + O + N + E + D letter-by-letter with pauses (Automate highfrequency English trigrams the (U5))"
+            "M + ENT + ION + ED (Automate highfrequency English trigrams the)",
+            "ME + NT + IO + NE + D (Automate highfrequency English trigrams the)",
+            "None (Automate highfrequency English trigrams the)",
+            "M + E + N + T + I + O + N + E + D letter-by-letter with pauses (Automate highfrequency English trigrams the)"
           ],
           "answerIndex": 0,
           "explanation": "Chunked as M + ENT + ION + ED.",
@@ -4913,10 +4913,10 @@
         {
           "prompt": "When executing the motor patterns for Build reflexive neuromuscular automation on the top 100 most common English words, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "10% (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "90% (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "Roughly 50% of all words (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "5% (Build reflexive neuromuscular automation on the top 100 most common English words (U5))"
+            "10% (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "90% (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "Roughly 50% of all words (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "5% (Build reflexive neuromuscular automation on the top 100 most common English words)"
           ],
           "answerIndex": 2,
           "explanation": "Zipf's law dictates that the top 100 words make up ~50% of English text."
@@ -4924,10 +4924,10 @@
         {
           "prompt": "Which thumb should strike the spacebar in proper touch typing technique?",
           "options": [
-            "Your index finger (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "Your pinky finger (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "Both thumbs pressed together (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "Your dominant thumb (Build reflexive neuromuscular automation on the top 100 most common English words (U5))"
+            "Your index finger (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "Your pinky finger (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "Both thumbs pressed together (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "Your dominant thumb (Build reflexive neuromuscular automation on the top 100 most common English words)"
           ],
           "answerIndex": 3,
           "explanation": "Consistently using your dominant thumb develops a reliable spacebar cadence."
@@ -4939,10 +4939,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 5, Lesson 3: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Zero hesitation between words with completely consistent keystroke intervals (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "Typing as fast as possible on the first word then stopping (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "Using backspace 10 times (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "Looking down at your thumbs (Build reflexive neuromuscular automation on the top 100 most common English words (U5))"
+            "Zero hesitation between words with completely consistent keystroke intervals (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "Typing as fast as possible on the first word then stopping (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "Using backspace 10 times (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "Looking down at your thumbs (Build reflexive neuromuscular automation on the top 100 most common English words)"
           ],
           "answerIndex": 0,
           "explanation": "Metronomic rhythm produces effortless speed."
@@ -4950,10 +4950,10 @@
         {
           "prompt": "Why is 'word-level reading' (looking 1-2 words ahead on screen) critical at intermediate speeds?",
           "options": [
-            "It allows your brain to buffer the next motor chunk before your fingers finish the current word. (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "It lets you correct errors in past sentences. (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "It changes screen brightness. (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "It reduces font size. (Build reflexive neuromuscular automation on the top 100 most common English words (U5))"
+            "It allows your brain to buffer the next motor chunk before your fingers finish the current word. (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "It lets you correct errors in past sentences. (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "It changes screen brightness. (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "It reduces font size. (Build reflexive neuromuscular automation on the top 100 most common English words)"
           ],
           "answerIndex": 0,
           "explanation": "Lookahead buffer keeps finger motors supplied with text."
@@ -4965,10 +4965,10 @@
         {
           "prompt": "What is the 'lookahead buffer' in touch typing psychology?",
           "options": [
-            "A type of mechanical switch (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "A glass screen protector (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "The cognitive visual process of reading 1 to 3 words ahead of the exact letter your fingers are currently typing (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "A memory cache on your motherboard (Build reflexive neuromuscular automation on the top 100 most common English words (U5))"
+            "A type of mechanical switch (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "A glass screen protector (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "The cognitive visual process of reading 1 to 3 words ahead of the exact letter your fingers are currently typing (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "A memory cache on your motherboard (Build reflexive neuromuscular automation on the top 100 most common English words)"
           ],
           "answerIndex": 2,
           "explanation": "Reading ahead feeds continuous motor execution.",
@@ -4977,10 +4977,10 @@
         {
           "prompt": "Type the word 'PEOPLE' — which hand sequences are used?",
           "options": [
-            "Thumbs only (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "Right Pinky (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "All left hand (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "All right hand (Build reflexive neuromuscular automation on the top 100 most common English words (U5))"
+            "Thumbs only (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "Right Pinky (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "All left hand (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "All right hand (Build reflexive neuromuscular automation on the top 100 most common English words)"
           ],
           "answerIndex": 1,
           "explanation": "Correct finger mapping for P-E-O-P-L-E.",
@@ -4989,10 +4989,10 @@
         {
           "prompt": "Which word from the Top 100 is typed entirely on the Left Hand?",
           "options": [
-            "WATER (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "WITH (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "PEOPLE (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "THEY (Build reflexive neuromuscular automation on the top 100 most common English words (U5))"
+            "WATER (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "WITH (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "PEOPLE (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "THEY (Build reflexive neuromuscular automation on the top 100 most common English words)"
           ],
           "answerIndex": 0,
           "explanation": "WATER is a classic 100% left-hand word.",
@@ -5001,10 +5001,10 @@
         {
           "prompt": "Which word from the Top 100 is typed entirely on the Right Hand?",
           "options": [
-            "WAS (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "FROM (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "THE (Build reflexive neuromuscular automation on the top 100 most common English words (U5))",
-            "YOU (Build reflexive neuromuscular automation on the top 100 most common English words (U5))"
+            "WAS (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "FROM (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "THE (Build reflexive neuromuscular automation on the top 100 most common English words)",
+            "YOU (Build reflexive neuromuscular automation on the top 100 most common English words)"
           ],
           "answerIndex": 3,
           "explanation": "YOU, IN, ON, NO, OIL, MOON are right-hand words.",
@@ -5047,10 +5047,10 @@
         {
           "prompt": "When executing the motor patterns for Synthesize high-frequency words into complete prose sentences with fluid hand alternation, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "A song lyric (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "A sentence that contains every single letter of the alphabet at least once (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "A word with 10 syllables (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "A sentence with only numbers (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))"
+            "A song lyric (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "A sentence that contains every single letter of the alphabet at least once (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "A word with 10 syllables (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "A sentence with only numbers (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)"
           ],
           "answerIndex": 1,
           "explanation": "A pangram utilizes all 26 letters of the English alphabet."
@@ -5058,10 +5058,10 @@
         {
           "prompt": "Why is a steady, rhythmic typing cadence faster overall than sprinting and stopping?",
           "options": [
-            "Because sprinting introduces cognitive fatigue and error corrections that waste multiple seconds of recovery time. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Because slow typing is better. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "There is no difference. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Because keyboards overheat during sprints. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))"
+            "Because sprinting introduces cognitive fatigue and error corrections that waste multiple seconds of recovery time. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Because slow typing is better. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "There is no difference. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Because keyboards overheat during sprints. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)"
           ],
           "answerIndex": 0,
           "explanation": "Rhythm eliminates costly hesitation and error-recovery penalties."
@@ -5073,10 +5073,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 5, Lesson 4: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "A crisp, single spacebar tap after each word executed by the dominant thumb without breaking flow. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Pausing 1 second between words (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Two spacebar taps between words (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Using the left pinky for space (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))"
+            "A crisp, single spacebar tap after each word executed by the dominant thumb without breaking flow. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Pausing 1 second between words (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Two spacebar taps between words (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Using the left pinky for space (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)"
           ],
           "answerIndex": 0,
           "explanation": "Clean thumb spacebar timing preserves flow."
@@ -5085,9 +5085,9 @@
           "prompt": "How should capital letters at the start of sentences (e.g. 'The', 'We', 'She') be typed?",
           "options": [
             "Use the OPPOSITE Shift key (e.g. Right Shift for 'T', 'W', 'S' typed on left hand)",
-            "Only type lowercase (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Turn Caps Lock on and off for every capital letter (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Press both Shift keys at the same time (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))"
+            "Only type lowercase (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Turn Caps Lock on and off for every capital letter (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Press both Shift keys at the same time (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)"
           ],
           "answerIndex": 0,
           "explanation": "Opposite Shift key technique is standard ergonomic touch typing."
@@ -5099,10 +5099,10 @@
         {
           "prompt": "Which shift key should you hold down to capitalize the letter 'P' (typed with Right Pinky)?",
           "options": [
-            "Right Shift Key (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Left Shift Key (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Spacebar (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Caps Lock Key (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))"
+            "Right Shift Key (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Left Shift Key (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Spacebar (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Caps Lock Key (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)"
           ],
           "answerIndex": 1,
           "explanation": "Always use the opposite hand's Shift key: Left Shift for right-hand letters.",
@@ -5111,10 +5111,10 @@
         {
           "prompt": "Which sentence is another famous English pangram?",
           "options": [
-            "'Pack my box with five dozen liquor jugs.' (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "'The cat sat on the mat.' (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "'Good morning everyone.' (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "'Hello world.' (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))"
+            "'Pack my box with five dozen liquor jugs.' (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "'The cat sat on the mat.' (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "'Good morning everyone.' (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "'Hello world.' (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)"
           ],
           "answerIndex": 0,
           "explanation": "'Pack my box with five dozen liquor jugs' is a compact 32-letter pangram.",
@@ -5123,10 +5123,10 @@
         {
           "prompt": "What physical sensation indicates you have reached intermediate touch typing fluency?",
           "options": [
-            "You only use two fingers. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Your wrists hurt. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "You need to look at your hands on every sentence. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Your fingers move automatically to words as you read them on screen, with zero conscious thought about key coordinates. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))"
+            "You only use two fingers. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Your wrists hurt. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "You need to look at your hands on every sentence. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Your fingers move automatically to words as you read them on screen, with zero conscious thought about key coordinates. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)"
           ],
           "answerIndex": 3,
           "explanation": "Automaticity occurs when conscious letter mapping shifts to subconscious motor flow.",
@@ -5135,10 +5135,10 @@
         {
           "prompt": "Type: 'Knowledge is power, but practice makes permanent.' What is the correct quote principle?",
           "options": [
-            "Practice does not matter. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
-            "Typing fast with errors is good practice. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))",
+            "Practice does not matter. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
+            "Typing fast with errors is good practice. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)",
             "Practicing with high accuracy creates permanent, flawless muscle memory (deliberate practice)",
-            "Only look at the keyboard. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation (U5))"
+            "Only look at the keyboard. (Synthesize highfrequency words into complete prose sentences with fluid hand alternation)"
           ],
           "answerIndex": 2,
           "explanation": "Practice makes permanent; accurate practice builds elite speed.",
@@ -5181,10 +5181,10 @@
         {
           "prompt": "When executing the motor patterns for Pass a high-frequency prose checkpoint sustaining 45-55+ WPM with 98%+ accuracy across continuous multi-sentence paragraphs, which technique maximizes speed and biomechanical efficiency?",
           "options": [
-            "Exactly 5 keystrokes (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Any word separated by a space regardless of length (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "10 letters (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "1 sentence (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))"
+            "Exactly 5 keystrokes (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Any word separated by a space regardless of length (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "10 letters (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "1 sentence (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)"
           ],
           "answerIndex": 0,
           "explanation": "Standard WPM = Total characters divided by 5."
@@ -5192,10 +5192,10 @@
         {
           "prompt": "If a typist types 250 characters in 1 minute with 100% accuracy, what is their WPM?",
           "options": [
-            "50 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "25 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "100 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "75 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))"
+            "50 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "25 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "100 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "75 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)"
           ],
           "answerIndex": 0,
           "explanation": "250 / 5 = 50 WPM."
@@ -5207,10 +5207,10 @@
         {
           "prompt": "For professional touch-typing technique in Unit 5, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
-            "Stop typing and restart your computer (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Slightly dial back your raw speed by 5%, restore your rhythm and accuracy, and let speed naturally ramp back up. (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Look down at your keyboard (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Panic and mash keys faster (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))"
+            "Stop typing and restart your computer (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Slightly dial back your raw speed by 5%, restore your rhythm and accuracy, and let speed naturally ramp back up. (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Look down at your keyboard (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Panic and mash keys faster (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)"
           ],
           "answerIndex": 1,
           "explanation": "A slight pacing reset instantly restores accuracy and rhythm."
@@ -5218,10 +5218,10 @@
         {
           "prompt": "What is the average typing speed of an untrained two-finger hunt-and-peck typist vs. a touch typist?",
           "options": [
-            "Hunt-and-peck is faster (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Untrained: 25-35 WPM | Touch Typist: 55-90+ WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Untrained is 100 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Both are identical (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))"
+            "Hunt-and-peck is faster (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Untrained: 25-35 WPM | Touch Typist: 55-90+ WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Untrained is 100 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Both are identical (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)"
           ],
           "answerIndex": 1,
           "explanation": "Touch typing provides a 2x-3x speed multiplier with vastly lower fatigue."
@@ -5233,10 +5233,10 @@
         {
           "prompt": "What core typing competencies were mastered across Unit 5 in Touch Typing?",
           "options": [
-            "Top 10 English bigrams (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "F1 to F12 function keys only (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Number pad only (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Mouse clicking only (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))"
+            "Top 10 English bigrams (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "F1 to F12 function keys only (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Number pad only (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Mouse clicking only (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)"
           ],
           "answerIndex": 0,
           "explanation": "Unit 5 comprehensive intermediate bigram, trigram, sight word, and prose speed mastery.",
@@ -5245,9 +5245,9 @@
         {
           "prompt": "Why is touch typing without looking at the keyboard essential for cognitive flow when writing essays or code?",
           "options": [
-            "It increases screen resolution. (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "It makes your fingers glow in the dark. (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "It turns off typos automatically. (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
+            "It increases screen resolution. (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "It makes your fingers glow in the dark. (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "It turns off typos automatically. (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
             "It eliminates context-switching between screen and keys, allowing working memory to focus 100% on creative and logical thinking (deliberate practice)"
           ],
           "answerIndex": 3,
@@ -5257,10 +5257,10 @@
         {
           "prompt": "Calculate WPM: 300 characters typed in 60 seconds with 98% accuracy:",
           "options": [
-            "40 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "70 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "58.8 Net WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "30 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))"
+            "40 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "70 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "58.8 Net WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "30 WPM (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)"
           ],
           "answerIndex": 2,
           "explanation": "(300 / 5) * 0.98 = 58.8 WPM.",
@@ -5269,10 +5269,10 @@
         {
           "prompt": "What is the next frontier of touch typing in Unit 6?",
           "options": [
-            "Typing with toes (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Punctuation-Heavy & Code-Style Typing (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Buying a new monitor (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))",
-            "Memorizing the Russian alphabet (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs (U5))"
+            "Typing with toes (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Punctuation-Heavy & Code-Style Typing (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Buying a new monitor (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)",
+            "Memorizing the Russian alphabet (Pass a highfrequency prose checkpoint sustaining 4555 WPM with 98 accuracy across continuous multisentence paragraphs)"
           ],
           "answerIndex": 1,
           "explanation": "Unit 6 advances to complex punctuation and code-style typing.",

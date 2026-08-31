@@ -490,10 +490,10 @@
         {
           "prompt": "Which Vietnamese tone is marked by a dot underneath the vowel and drops sharply with a glottal stop (as in «mạ»)?",
           "options": [
-            "Thanh Nặng (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "Thanh Sắc (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "Thanh Huyền (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "Thanh Ngang (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))"
+            "Thanh Nặng (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "Thanh Sắc (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "Thanh Huyền (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "Thanh Ngang (Master the Latinbased Ch Quc Ng alphabet 29 letters)"
           ],
           "answerIndex": 0,
           "explanation": "«Thanh Nặng» is written with a dot underneath the vowel."
@@ -502,9 +502,9 @@
           "prompt": "What is the phonetic difference between «Đ đ» and «D d» in the Vietnamese alphabet?",
           "options": [
             "«Đ đ» is a hard implosive (North)",
-            "They are pronounced identically (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "«Đ đ» is silent (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "«D d» is an \"R\" sound (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))"
+            "They are pronounced identically (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "«Đ đ» is silent (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "«D d» is an \"R\" sound (Master the Latinbased Ch Quc Ng alphabet 29 letters)"
           ],
           "answerIndex": 0,
           "explanation": "«Đ» is the hard implosive stop [ɗ], whereas «D» represents [z] or [j]."
@@ -516,10 +516,10 @@
         {
           "prompt": "Select the Vietnamese word meaning \"noodle soup\" spelled «phở»:",
           "options": [
-            "phở (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "nhà (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "ngon (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "chào (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))"
+            "phở (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "nhà (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "ngon (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "chào (Master the Latinbased Ch Quc Ng alphabet 29 letters)"
           ],
           "answerIndex": 0,
           "explanation": "«phở» is the iconic Vietnamese national dish."
@@ -527,10 +527,10 @@
         {
           "prompt": "Which vowel letter represents the unrounded back vowel [ɨ] (smile and say \"oo\") in Vietnamese?",
           "options": [
-            "ư (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "u (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "o (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "a (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))"
+            "ư (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "u (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "o (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "a (Master the Latinbased Ch Quc Ng alphabet 29 letters)"
           ],
           "answerIndex": 0,
           "explanation": "«ư» represents the close central/back unrounded vowel [ɨ]."
@@ -543,10 +543,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Vietnamese greeting «chào» mean in English?",
           "options": [
-            "hello / greetings (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "delicious (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "house (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))",
-            "soup (Master the Latinbased Ch Quc Ng alphabet 29 letters (U1))"
+            "hello / greetings (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "delicious (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "house (Master the Latinbased Ch Quc Ng alphabet 29 letters)",
+            "soup (Master the Latinbased Ch Quc Ng alphabet 29 letters)"
           ],
           "answerIndex": 0,
           "explanation": "«chào» means \"hello / greetings\"."
@@ -617,9 +617,9 @@
           "prompt": "How is the Vietnamese letter 'đ' (with a crossbar) pronounced vs plain 'd' (without a crossbar)?",
           "options": [
             "đ is an English 'd' sound (in the North)",
-            "Both sound like English 'd' (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "đ is silent, plain d is 'd' (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "đ is pronounced 'f' (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "Both sound like English 'd' (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "đ is silent, plain d is 'd' (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "đ is pronounced 'f' (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 0,
           "explanation": "đ represents the true [d] sound, whereas plain d represents [z] or [j]."
@@ -627,10 +627,10 @@
         {
           "prompt": "You're a man talking to a woman clearly older than you. What do you call her?",
           "options": [
-            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "tôi (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "em (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "tôi (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "em (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 0,
           "explanation": "chị addresses a woman older than the speaker."
@@ -638,10 +638,10 @@
         {
           "prompt": "You're speaking to someone younger than you. How do YOU refer to yourself?",
           "options": [
-            "em (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "anh/chị (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "ông/bà (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "tôi always (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "em (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "anh/chị (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "ông/bà (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "tôi always (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 1,
           "explanation": "The older speaker uses anh (man) or chị (woman) to refer to themselves."
@@ -649,10 +649,10 @@
         {
           "prompt": "When is tôi the natural choice?",
           "options": [
-            "Casual daily chat with a peer (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "A more neutral/formal context, like a speech or addressing a stranger group (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Never — it doesn't exist (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Only with family (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "Casual daily chat with a peer (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "A more neutral/formal context, like a speech or addressing a stranger group (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Never — it doesn't exist (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Only with family (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 1,
           "explanation": "tôi carries a distant, official tone unsuited to warm daily chat."
@@ -660,10 +660,10 @@
         {
           "prompt": "Can the same person be called anh in one conversation and em in another?",
           "options": [
-            "No, pronouns are fixed to each person (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Yes — it depends entirely on the other person's relative age, not on any fixed identity (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Only if they change their name (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Only ông/bà can shift like this (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "No, pronouns are fixed to each person (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Yes — it depends entirely on the other person's relative age, not on any fixed identity (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Only if they change their name (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Only ông/bà can shift like this (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 1,
           "explanation": "Kinship pronouns are always relative to who you're speaking with."
@@ -675,10 +675,10 @@
         {
           "prompt": "You're a woman talking to someone clearly younger than you. What do you call them?",
           "options": [
-            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "bà (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "em (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "bà (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "em (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 3,
           "explanation": "em addresses someone younger, regardless of the speaker's own gender."
@@ -686,10 +686,10 @@
         {
           "prompt": "Why might overusing tôi with a same-age friend feel off?",
           "options": [
-            "It can come across as cold/overly formal, like a business letter instead of a warm chat (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "tôi is rude and offensive (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "tôi is only used by children (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "It's grammatically incorrect (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "It can come across as cold/overly formal, like a business letter instead of a warm chat (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "tôi is rude and offensive (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "tôi is only used by children (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "It's grammatically incorrect (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 0,
           "explanation": "This is the register warning given in the cultural note."
@@ -697,10 +697,10 @@
         {
           "prompt": "What's the socially normal response when you guess someone's relative age wrong?",
           "options": [
-            "A normal, low-stakes correction — the system requires everyone to estimate on the fly (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "It's never corrected, everyone just goes along with it (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "You must immediately apologize formally (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "A serious offense with lasting consequences (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "A normal, low-stakes correction — the system requires everyone to estimate on the fly (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "It's never corrected, everyone just goes along with it (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "You must immediately apologize formally (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "A serious offense with lasting consequences (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 0,
           "explanation": "This matches the cultural note about good-natured correction."
@@ -712,10 +712,10 @@
         {
           "prompt": "Addressing a woman older than you:",
           "options": [
-            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "em (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "tôi (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "em (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "tôi (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 3,
           "explanation": "chị = older woman.",
@@ -724,10 +724,10 @@
         {
           "prompt": "Addressing a man older than you (or a male peer):",
           "options": [
-            "bà (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "em (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "bà (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "em (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 2,
           "explanation": "anh = older man/male peer.",
@@ -736,10 +736,10 @@
         {
           "prompt": "Addressing/self-referring for someone younger than you:",
           "options": [
-            "ông (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "em (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "ông (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "em (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 1,
           "explanation": "em = younger person, either gender.",
@@ -748,10 +748,10 @@
         {
           "prompt": "The neutral, more formal word for 'I', suited to speeches or stranger groups:",
           "options": [
-            "tôi (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "em (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "tôi (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "em (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "anh (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "chị (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 0,
           "explanation": "tôi is neutral but distant/formal.",
@@ -760,10 +760,10 @@
         {
           "prompt": "Are Vietnamese kinship pronouns fixed to a specific person?",
           "options": [
-            "Only tôi shifts, others are fixed (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "They're assigned randomly, not by age (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Yes, once assigned they never change (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "No — they shift depending on who you're speaking to and their relative age (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "Only tôi shifts, others are fixed (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "They're assigned randomly, not by age (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Yes, once assigned they never change (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "No — they shift depending on who you're speaking to and their relative age (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 3,
           "explanation": "The system is always relative, not fixed.",
@@ -772,10 +772,10 @@
         {
           "prompt": "ông and bà are used for:",
           "options": [
-            "Formal writing exclusively (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Same-age peers (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Genuinely elderly men and women, showing respect (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))",
-            "Children only (Address people using Vietnameses kinshipbased pronoun system anhchem (U1))"
+            "Formal writing exclusively (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Same-age peers (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Genuinely elderly men and women, showing respect (Address people using Vietnameses kinshipbased pronoun system anhchem)",
+            "Children only (Address people using Vietnameses kinshipbased pronoun system anhchem)"
           ],
           "answerIndex": 2,
           "explanation": "ông/bà = grandfather/grandmother-tier respect terms.",
@@ -842,10 +842,10 @@
         {
           "prompt": "How is the Vietnamese letter cluster 'gi' (as in gì and giáo viên) pronounced?",
           "options": [
-            "As a hard English 'g' like in goat (Introduce yourself with Tn ti l  pronoun tn l (U1))",
+            "As a hard English 'g' like in goat (Introduce yourself with Tn ti l  pronoun tn l)",
             "As 'z' in Northern Vietnamese (Hanoi)",
-            "As a silent letter (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "As 'th' (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "As a silent letter (Introduce yourself with Tn ti l  pronoun tn l)",
+            "As 'th' (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 1,
           "explanation": "gi is pronounced [z] in the North and [j] ('y') in the South."
@@ -853,10 +853,10 @@
         {
           "prompt": "How do you pronounce the initial 'ng' in Vietnamese words like người and nghe?",
           "options": [
-            "As an English 'n' followed by a hard 'g' (Introduce yourself with Tn ti l  pronoun tn l (U1))",
+            "As an English 'n' followed by a hard 'g' (Introduce yourself with Tn ti l  pronoun tn l)",
             "As the velar nasal (the 'ng' in song)",
-            "As a silent letter (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "As 'm' (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "As a silent letter (Introduce yourself with Tn ti l  pronoun tn l)",
+            "As 'm' (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 1,
           "explanation": "ng represents the velar nasal [ŋ], which can start syllables in Vietnamese."
@@ -864,10 +864,10 @@
         {
           "prompt": "Bạn tên là ___? (asking someone's name)",
           "options": [
-            "ai (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "đâu (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "không (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "gì (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "ai (Introduce yourself with Tn ti l  pronoun tn l)",
+            "đâu (Introduce yourself with Tn ti l  pronoun tn l)",
+            "không (Introduce yourself with Tn ti l  pronoun tn l)",
+            "gì (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 3,
           "explanation": "gì (what) fills the name slot in the question."
@@ -875,10 +875,10 @@
         {
           "prompt": "Where does gì go in a Vietnamese question, compared to English 'what'?",
           "options": [
-            "It stays in place, exactly where the answer word would go (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It's always silent and unwritten (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It goes at the very beginning AND end (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It moves to the very front of the sentence, like English (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "It stays in place, exactly where the answer word would go (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It's always silent and unwritten (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It goes at the very beginning AND end (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It moves to the very front of the sentence, like English (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 0,
           "explanation": "Vietnamese question words stay in-situ rather than fronting."
@@ -886,10 +886,10 @@
         {
           "prompt": "Why is bạn a useful pronoun when meeting someone new?",
           "options": [
-            "It's a neutral, peer-level 'you' that sidesteps guessing anh/chị/em (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It only works with children (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It means 'stranger,' implying distance (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It's rude and should be avoided (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "It's a neutral, peer-level 'you' that sidesteps guessing anh/chị/em (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It only works with children (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It means 'stranger,' implying distance (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It's rude and should be avoided (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 0,
           "explanation": "bạn ('friend') works as a safe, neutral peer-level pronoun."
@@ -897,10 +897,10 @@
         {
           "prompt": "What does adding ạ to the end of a sentence do?",
           "options": [
-            "Turns it into a question (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Softens/politifies it, without changing the literal meaning (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Makes it plural (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Negates the sentence (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "Turns it into a question (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Softens/politifies it, without changing the literal meaning (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Makes it plural (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Negates the sentence (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 1,
           "explanation": "ạ is a politeness particle, common when addressing elders/respected people."
@@ -912,10 +912,10 @@
         {
           "prompt": "Translate: 'My name is Lan. And you?'",
           "options": [
-            "Tôi tên là Lan. Còn bạn? (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Bạn tên là gì, Lan? (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Tên gì là Lan? (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Lan là bạn tôi. (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "Tôi tên là Lan. Còn bạn? (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Bạn tên là gì, Lan? (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Tên gì là Lan? (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Lan là bạn tôi. (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 0,
           "explanation": "Tôi tên là Lan + Còn bạn? (and you?)."
@@ -923,10 +923,10 @@
         {
           "prompt": "Both Tên tôi là Lan and Tôi tên là Lan are:",
           "options": [
-            "Both correct, same meaning, different word order (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Only the first is correct (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Only the second is correct (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "They mean completely different things (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "Both correct, same meaning, different word order (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Only the first is correct (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Only the second is correct (Introduce yourself with Tn ti l  pronoun tn l)",
+            "They mean completely different things (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 0,
           "explanation": "The explanation confirms both orders are valid and synonymous."
@@ -934,10 +934,10 @@
         {
           "prompt": "Literally, Tên bạn là gì? breaks down as:",
           "options": [
-            "'What is your friend' (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "'Name friend is what' — filling a blank in place (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "'Friend, what is a name' (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It has no literal breakdown, pure idiom (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "'What is your friend' (Introduce yourself with Tn ti l  pronoun tn l)",
+            "'Name friend is what' — filling a blank in place (Introduce yourself with Tn ti l  pronoun tn l)",
+            "'Friend, what is a name' (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It has no literal breakdown, pure idiom (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 1,
           "explanation": "This matches the in-situ question-word explanation."
@@ -949,10 +949,10 @@
         {
           "prompt": "___ tên là gì? (neutral, asking a peer)",
           "options": [
-            "Ai đâu (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Đâu (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Bạn (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Không (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "Ai đâu (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Đâu (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Bạn (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Không (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 2,
           "explanation": "Bạn is the neutral peer pronoun for the question.",
@@ -961,10 +961,10 @@
         {
           "prompt": "Tôi tên là Lan means:",
           "options": [
-            "Your name is Lan (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "My name is Lan (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "I am not Lan (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Is your name Lan? (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "Your name is Lan (Introduce yourself with Tn ti l  pronoun tn l)",
+            "My name is Lan (Introduce yourself with Tn ti l  pronoun tn l)",
+            "I am not Lan (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Is your name Lan? (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 1,
           "explanation": "Standard self-introduction pattern.",
@@ -973,10 +973,10 @@
         {
           "prompt": "gì in a Vietnamese question:",
           "options": [
-            "Stays in the same slot where the answer would go (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Always moves to the front of the sentence (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Only appears in formal writing (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Is silent/unwritten (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "Stays in the same slot where the answer would go (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Always moves to the front of the sentence (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Only appears in formal writing (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Is silent/unwritten (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 0,
           "explanation": "Vietnamese question words are in-situ, unlike English.",
@@ -985,10 +985,10 @@
         {
           "prompt": "Adding ạ to a sentence:",
           "options": [
-            "Is only used with children (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Turns it into a negative sentence (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Makes it a command (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Softens/politifies it without changing literal meaning (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "Is only used with children (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Turns it into a negative sentence (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Makes it a command (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Softens/politifies it without changing literal meaning (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 3,
           "explanation": "ạ is a common politeness particle.",
@@ -997,10 +997,10 @@
         {
           "prompt": "Why use bạn when you can't tell someone's age?",
           "options": [
-            "It only works for women (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It's rude and best avoided (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It's a safe, neutral peer-level pronoun that avoids guessing anh/chị/em (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "It's identical in meaning to tôi (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "It only works for women (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It's rude and best avoided (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It's a safe, neutral peer-level pronoun that avoids guessing anh/chị/em (Introduce yourself with Tn ti l  pronoun tn l)",
+            "It's identical in meaning to tôi (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 2,
           "explanation": "bạn sidesteps the age-guessing requirement.",
@@ -1009,10 +1009,10 @@
         {
           "prompt": "Are Tên tôi là Lan and Tôi tên là Lan both grammatically valid?",
           "options": [
-            "No, only one order is ever correct (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Yes, both orders are correct and synonymous (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "They have opposite meanings (Introduce yourself with Tn ti l  pronoun tn l (U1))",
-            "Neither is correct Vietnamese (Introduce yourself with Tn ti l  pronoun tn l (U1))"
+            "No, only one order is ever correct (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Yes, both orders are correct and synonymous (Introduce yourself with Tn ti l  pronoun tn l)",
+            "They have opposite meanings (Introduce yourself with Tn ti l  pronoun tn l)",
+            "Neither is correct Vietnamese (Introduce yourself with Tn ti l  pronoun tn l)"
           ],
           "answerIndex": 1,
           "explanation": "The lesson explicitly confirms both word orders work.",
@@ -1077,10 +1077,10 @@
         {
           "prompt": "Tôi là người ___. (I am American)",
           "options": [
-            "Mỹ (State your nationality with l ngi  nationality (U1))",
-            "đâu (State your nationality with l ngi  nationality (U1))",
-            "không (State your nationality with l ngi  nationality (U1))",
-            "Việt Nam (State your nationality with l ngi  nationality (U1))"
+            "Mỹ (State your nationality with l ngi  nationality)",
+            "đâu (State your nationality with l ngi  nationality)",
+            "không (State your nationality with l ngi  nationality)",
+            "Việt Nam (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 0,
           "explanation": "người Mỹ = American person."
@@ -1088,10 +1088,10 @@
         {
           "prompt": "Bạn đến từ ___? (Where do you come from?)",
           "options": [
-            "đâu (State your nationality with l ngi  nationality (U1))",
-            "không (State your nationality with l ngi  nationality (U1))",
-            "ạ (State your nationality with l ngi  nationality (U1))",
-            "gì (State your nationality with l ngi  nationality (U1))"
+            "đâu (State your nationality with l ngi  nationality)",
+            "không (State your nationality with l ngi  nationality)",
+            "ạ (State your nationality with l ngi  nationality)",
+            "gì (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 0,
           "explanation": "đâu (where) fills the location slot."
@@ -1099,10 +1099,10 @@
         {
           "prompt": "How do you negate 'Tôi là người Mỹ' (I am American)?",
           "options": [
-            "Tôi không phải là người Mỹ (State your nationality with l ngi  nationality (U1))",
-            "Không tôi là người Mỹ (State your nationality with l ngi  nationality (U1))",
-            "Tôi không là người Mỹ (State your nationality with l ngi  nationality (U1))",
-            "Tôi phải không người Mỹ (State your nationality with l ngi  nationality (U1))"
+            "Tôi không phải là người Mỹ (State your nationality with l ngi  nationality)",
+            "Không tôi là người Mỹ (State your nationality with l ngi  nationality)",
+            "Tôi không là người Mỹ (State your nationality with l ngi  nationality)",
+            "Tôi phải không người Mỹ (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 0,
           "explanation": "Identity negation requires the fixed pair không phải là."
@@ -1110,10 +1110,10 @@
         {
           "prompt": "What's the difference between negating an action verb and negating identity (X is Y)?",
           "options": [
-            "No difference, không works the same for both (State your nationality with l ngi  nationality (U1))",
-            "Action verbs need phải là, identity doesn't (State your nationality with l ngi  nationality (U1))",
-            "Action verbs just take không; identity statements need không phải là together (State your nationality with l ngi  nationality (U1))",
-            "Identity statements never get negated (State your nationality with l ngi  nationality (U1))"
+            "No difference, không works the same for both (State your nationality with l ngi  nationality)",
+            "Action verbs need phải là, identity doesn't (State your nationality with l ngi  nationality)",
+            "Action verbs just take không; identity statements need không phải là together (State your nationality with l ngi  nationality)",
+            "Identity statements never get negated (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 2,
           "explanation": "This is the grammatical distinction explained directly in the lesson."
@@ -1125,10 +1125,10 @@
         {
           "prompt": "Translate: 'I am not Japanese. I am Korean.'",
           "options": [
-            "Tôi không phải là người Nhật. Tôi là người Hàn Quốc. (State your nationality with l ngi  nationality (U1))",
-            "Tôi không người Nhật. Tôi phải là người Hàn Quốc. (State your nationality with l ngi  nationality (U1))",
-            "Người Nhật không phải tôi. (State your nationality with l ngi  nationality (U1))",
-            "Tôi là không người Nhật Hàn Quốc. (State your nationality with l ngi  nationality (U1))"
+            "Tôi không phải là người Nhật. Tôi là người Hàn Quốc. (State your nationality with l ngi  nationality)",
+            "Tôi không người Nhật. Tôi phải là người Hàn Quốc. (State your nationality with l ngi  nationality)",
+            "Người Nhật không phải tôi. (State your nationality with l ngi  nationality)",
+            "Tôi là không người Nhật Hàn Quốc. (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 0,
           "explanation": "không phải là negates identity; the second sentence states the correct nationality."
@@ -1136,10 +1136,10 @@
         {
           "prompt": "What does người Anh mean?",
           "options": [
-            "British/English person (State your nationality with l ngi  nationality (U1))",
-            "American person (State your nationality with l ngi  nationality (U1))",
-            "Someone named Anh (State your nationality with l ngi  nationality (U1))",
-            "A friendly person (State your nationality with l ngi  nationality (U1))"
+            "British/English person (State your nationality with l ngi  nationality)",
+            "American person (State your nationality with l ngi  nationality)",
+            "Someone named Anh (State your nationality with l ngi  nationality)",
+            "A friendly person (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 0,
           "explanation": "người + Anh (England) = British/English person."
@@ -1147,10 +1147,10 @@
         {
           "prompt": "Why is asking Bạn là người nước nào? considered normal small talk in Vietnam?",
           "options": [
-            "It's actually rude and avoided (State your nationality with l ngi  nationality (U1))",
-            "It's a completely normal, direct way to ask nationality, not seen as intrusive (State your nationality with l ngi  nationality (U1))",
-            "It's never actually asked in real conversation (State your nationality with l ngi  nationality (U1))",
-            "It's only used by immigration officers (State your nationality with l ngi  nationality (U1))"
+            "It's actually rude and avoided (State your nationality with l ngi  nationality)",
+            "It's a completely normal, direct way to ask nationality, not seen as intrusive (State your nationality with l ngi  nationality)",
+            "It's never actually asked in real conversation (State your nationality with l ngi  nationality)",
+            "It's only used by immigration officers (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 1,
           "explanation": "This matches the cultural note about direct nationality questions being normal."
@@ -1162,10 +1162,10 @@
         {
           "prompt": "người + Mỹ means:",
           "options": [
-            "British person (State your nationality with l ngi  nationality (U1))",
-            "American (State your nationality with l ngi  nationality (U1))",
-            "A ghost (State your nationality with l ngi  nationality (U1))",
-            "A question word (State your nationality with l ngi  nationality (U1))"
+            "British person (State your nationality with l ngi  nationality)",
+            "American (State your nationality with l ngi  nationality)",
+            "A ghost (State your nationality with l ngi  nationality)",
+            "A question word (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 1,
           "explanation": "người Mỹ = American.",
@@ -1174,10 +1174,10 @@
         {
           "prompt": "Bạn đến từ ___? asks:",
           "options": [
-            "Where you're from (State your nationality with l ngi  nationality (U1))",
-            "What your name is (State your nationality with l ngi  nationality (U1))",
-            "How old you are (State your nationality with l ngi  nationality (U1))",
-            "What time it is (State your nationality with l ngi  nationality (U1))"
+            "Where you're from (State your nationality with l ngi  nationality)",
+            "What your name is (State your nationality with l ngi  nationality)",
+            "How old you are (State your nationality with l ngi  nationality)",
+            "What time it is (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 0,
           "explanation": "đến từ đâu = 'come from where.'",
@@ -1186,10 +1186,10 @@
         {
           "prompt": "To negate 'I am Vietnamese' correctly, you need:",
           "options": [
-            "là alone (State your nationality with l ngi  nationality (U1))",
-            "không alone (State your nationality with l ngi  nationality (U1))",
-            "phải alone (State your nationality with l ngi  nationality (U1))",
-            "không phải là (State your nationality with l ngi  nationality (U1))"
+            "là alone (State your nationality with l ngi  nationality)",
+            "không alone (State your nationality with l ngi  nationality)",
+            "phải alone (State your nationality with l ngi  nationality)",
+            "không phải là (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 3,
           "explanation": "Identity negation requires không phải là together.",
@@ -1198,10 +1198,10 @@
         {
           "prompt": "Negating an action verb like đi (to go) uses:",
           "options": [
-            "không phải là (State your nationality with l ngi  nationality (U1))",
-            "phải là alone (State your nationality with l ngi  nationality (U1))",
-            "không alone (State your nationality with l ngi  nationality (U1))",
-            "Both are negated the same way with phải là (State your nationality with l ngi  nationality (U1))"
+            "không phải là (State your nationality with l ngi  nationality)",
+            "phải là alone (State your nationality with l ngi  nationality)",
+            "không alone (State your nationality with l ngi  nationality)",
+            "Both are negated the same way with phải là (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 2,
           "explanation": "Action verbs just take không, unlike identity statements.",
@@ -1210,10 +1210,10 @@
         {
           "prompt": "Bạn là người nước nào? literally means:",
           "options": [
-            "'What is your name' (State your nationality with l ngi  nationality (U1))",
-            "'You are person country which' (State your nationality with l ngi  nationality (U1))",
-            "'Where do you live' (State your nationality with l ngi  nationality (U1))",
-            "'How are you' (State your nationality with l ngi  nationality (U1))"
+            "'What is your name' (State your nationality with l ngi  nationality)",
+            "'You are person country which' (State your nationality with l ngi  nationality)",
+            "'Where do you live' (State your nationality with l ngi  nationality)",
+            "'How are you' (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 1,
           "explanation": "A direct, literal breakdown of the nationality question.",
@@ -1222,10 +1222,10 @@
         {
           "prompt": "Asking someone's nationality directly in Vietnam is generally considered:",
           "options": [
-            "Normal, common small talk (State your nationality with l ngi  nationality (U1))",
-            "Only appropriate for officials (State your nationality with l ngi  nationality (U1))",
-            "Never done in conversation (State your nationality with l ngi  nationality (U1))",
-            "Rude and intrusive (State your nationality with l ngi  nationality (U1))"
+            "Normal, common small talk (State your nationality with l ngi  nationality)",
+            "Only appropriate for officials (State your nationality with l ngi  nationality)",
+            "Never done in conversation (State your nationality with l ngi  nationality)",
+            "Rude and intrusive (State your nationality with l ngi  nationality)"
           ],
           "answerIndex": 0,
           "explanation": "Per the cultural note, it's completely normal small talk.",
@@ -1294,10 +1294,10 @@
         {
           "prompt": "What does tacking ơi onto a name do?",
           "options": [
-            "Calls their attention warmly, like 'hey, (Combine tones (U1))",
-            "Negates the sentence (Combine tones (U1))",
-            "Turns the name into a question (Combine tones (U1))",
-            "Makes the name plural (Combine tones (U1))"
+            "Calls their attention warmly, like 'hey, (Combine tones)",
+            "Negates the sentence (Combine tones)",
+            "Turns the name into a question (Combine tones)",
+            "Makes the name plural (Combine tones)"
           ],
           "answerIndex": 0,
           "explanation": "ơi is a calling/attention particle."
@@ -1305,10 +1305,10 @@
         {
           "prompt": "What does dạ signal?",
           "options": [
-            "Disagreement (Combine tones (U1))",
-            "Politeness/respect, especially toward someone older — without changing the literal content (Combine tones (U1))",
-            "A question (Combine tones (U1))",
-            "Anger (Combine tones (U1))"
+            "Disagreement (Combine tones)",
+            "Politeness/respect, especially toward someone older — without changing the literal content (Combine tones)",
+            "A question (Combine tones)",
+            "Anger (Combine tones)"
           ],
           "answerIndex": 1,
           "explanation": "dạ is a polite response particle, social rather than factual."
@@ -1316,10 +1316,10 @@
         {
           "prompt": "Is phở typically saved for special occasions?",
           "options": [
-            "Yes, only for holidays (Combine tones (U1))",
-            "No — it's eaten at all hours, including breakfast, very commonly (Combine tones (U1))",
-            "It's only eaten late at night (Combine tones (U1))",
-            "It's never eaten in Vietnam (Combine tones (U1))"
+            "Yes, only for holidays (Combine tones)",
+            "No — it's eaten at all hours, including breakfast, very commonly (Combine tones)",
+            "It's only eaten late at night (Combine tones)",
+            "It's never eaten in Vietnam (Combine tones)"
           ],
           "answerIndex": 1,
           "explanation": "The cultural note describes phở as an everyday, all-hours food."
@@ -1327,10 +1327,10 @@
         {
           "prompt": "Huế is notable for:",
           "options": [
-            "Being the same as Hanoi (Combine tones (U1))",
-            "Not being a real Vietnamese city (Combine tones (U1))",
-            "Being a former imperial capital with its own distinct accent/cuisine (Combine tones (U1))",
-            "Only being known internationally, not within Vietnam (Combine tones (U1))"
+            "Being the same as Hanoi (Combine tones)",
+            "Not being a real Vietnamese city (Combine tones)",
+            "Being a former imperial capital with its own distinct accent/cuisine (Combine tones)",
+            "Only being known internationally, not within Vietnam (Combine tones)"
           ],
           "answerIndex": 2,
           "explanation": "This is the regional-pride detail from the cultural note."
@@ -1342,10 +1342,10 @@
         {
           "prompt": "Translate: 'Excuse me! (calling an older woman) One bowl of phở, please.'",
           "options": [
-            "Chị ơi! Cho em một tô phở. (Combine tones (U1))",
-            "Phở ơi! Chị là em. (Combine tones (U1))",
-            "Em ơi! Chị một tô phở. (Combine tones (U1))",
-            "Chị không phải phở. (Combine tones (U1))"
+            "Chị ơi! Cho em một tô phở. (Combine tones)",
+            "Phở ơi! Chị là em. (Combine tones)",
+            "Em ơi! Chị một tô phở. (Combine tones)",
+            "Chị không phải phở. (Combine tones)"
           ],
           "answerIndex": 0,
           "explanation": "chị ơi calls attention politely; cho em một tô phở orders politely."
@@ -1353,10 +1353,10 @@
         {
           "prompt": "Why is dạ often said before the actual answer to a question?",
           "options": [
-            "It's meaningless filler with no function (Combine tones (U1))",
-            "It means 'no' (Combine tones (U1))",
-            "It's only used in writing (Combine tones (U1))",
-            "It signals polite acknowledgment/respect before the content of the reply (Combine tones (U1))"
+            "It's meaningless filler with no function (Combine tones)",
+            "It means 'no' (Combine tones)",
+            "It's only used in writing (Combine tones)",
+            "It signals polite acknowledgment/respect before the content of the reply (Combine tones)"
           ],
           "answerIndex": 3,
           "explanation": "dạ functions as a respectful lead-in, similar to a soft 'yes, sir/ma'am.'"
@@ -1364,10 +1364,10 @@
         {
           "prompt": "Comparing ơi to English, the closest equivalent is:",
           "options": [
-            "A warm 'hey, (Combine tones (U1))",
-            "A negative exclamation (Combine tones (U1))",
-            "A formal title like 'Mr./Ms.' (Combine tones (U1))",
-            "A goodbye word (Combine tones (U1))"
+            "A warm 'hey, (Combine tones)",
+            "A negative exclamation (Combine tones)",
+            "A formal title like 'Mr./Ms.' (Combine tones)",
+            "A goodbye word (Combine tones)"
           ],
           "answerIndex": 0,
           "explanation": "ơi is specifically an attention-getting call, warm rather than abrupt."
@@ -1379,10 +1379,10 @@
         {
           "prompt": "ơi tacked onto a name functions as:",
           "options": [
-            "A warm attention-getting call, like 'hey, (Combine tones (U1))",
-            "A goodbye (Combine tones (U1))",
-            "A formal title (Combine tones (U1))",
-            "A negation (Combine tones (U1))"
+            "A warm attention-getting call, like 'hey, (Combine tones)",
+            "A goodbye (Combine tones)",
+            "A formal title (Combine tones)",
+            "A negation (Combine tones)"
           ],
           "answerIndex": 0,
           "explanation": "ơi calls attention warmly.",
@@ -1391,10 +1391,10 @@
         {
           "prompt": "dạ signals:",
           "options": [
-            "Disagreement (Combine tones (U1))",
-            "A question (Combine tones (U1))",
-            "Plural form (Combine tones (U1))",
-            "Politeness/respect, especially toward elders (Combine tones (U1))"
+            "Disagreement (Combine tones)",
+            "A question (Combine tones)",
+            "Plural form (Combine tones)",
+            "Politeness/respect, especially toward elders (Combine tones)"
           ],
           "answerIndex": 3,
           "explanation": "dạ is a polite response particle.",
@@ -1403,10 +1403,10 @@
         {
           "prompt": "Phở is typically eaten:",
           "options": [
-            "Only at formal dinners (Combine tones (U1))",
-            "Only once a year (Combine tones (U1))",
-            "At all hours, including breakfast, very commonly (Combine tones (U1))",
-            "Never by Vietnamese people themselves (Combine tones (U1))"
+            "Only at formal dinners (Combine tones)",
+            "Only once a year (Combine tones)",
+            "At all hours, including breakfast, very commonly (Combine tones)",
+            "Never by Vietnamese people themselves (Combine tones)"
           ],
           "answerIndex": 2,
           "explanation": "It's a common, all-hours everyday food.",
@@ -1415,10 +1415,10 @@
         {
           "prompt": "Huế is significant as:",
           "options": [
-            "A made-up place for this lesson only (Combine tones (U1))",
-            "A former imperial capital with a distinct regional identity (Combine tones (U1))",
-            "A dish, not a place (Combine tones (U1))",
-            "The same city as Hanoi (Combine tones (U1))"
+            "A made-up place for this lesson only (Combine tones)",
+            "A former imperial capital with a distinct regional identity (Combine tones)",
+            "A dish, not a place (Combine tones)",
+            "The same city as Hanoi (Combine tones)"
           ],
           "answerIndex": 1,
           "explanation": "Regional identity/pride detail from the cultural note.",
@@ -1427,10 +1427,10 @@
         {
           "prompt": "Chị ơi! Cho em một tô phở. is best translated as:",
           "options": [
-            "Excuse me! One bowl of phở, please. (Combine tones (U1))",
-            "What's your name? (Combine tones (U1))",
-            "I am not Vietnamese. (Combine tones (U1))",
-            "Goodbye! No phở today. (Combine tones (U1))"
+            "Excuse me! One bowl of phở, please. (Combine tones)",
+            "What's your name? (Combine tones)",
+            "I am not Vietnamese. (Combine tones)",
+            "Goodbye! No phở today. (Combine tones)"
           ],
           "answerIndex": 0,
           "explanation": "A polite, attention-getting food order.",
@@ -1439,9 +1439,9 @@
         {
           "prompt": "Do ơi and dạ change the literal factual content of a sentence?",
           "options": [
-            "Yes, they completely change the meaning (Combine tones (U1))",
-            "Yes, they negate the sentence (Combine tones (U1))",
-            "They replace the verb entirely (Combine tones (U1))",
+            "Yes, they completely change the meaning (Combine tones)",
+            "Yes, they negate the sentence (Combine tones)",
+            "They replace the verb entirely (Combine tones)",
             "No — they add warmth/respect (social signaling)"
           ],
           "answerIndex": 3,
@@ -1489,10 +1489,10 @@
         {
           "prompt": "How do you say 15 in Vietnamese (as a number)?",
           "options": [
-            "mười năm (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "năm mười (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "lăm mười (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "mười lăm (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "mười năm (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "năm mười (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "lăm mười (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "mười lăm (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 3,
           "explanation": "15 is 'mười lăm'. 'mười năm' means 'ten years'."
@@ -1500,10 +1500,10 @@
         {
           "prompt": "Which tone does the word 'bốn' (4) have?",
           "options": [
-            "Thanh ngang (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "Dấu nặng (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "Dấu sắc (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "Dấu huyền (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "Thanh ngang (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "Dấu nặng (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "Dấu sắc (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "Dấu huyền (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 2,
           "explanation": "'bốn' has the acute accent (dấu sắc), producing a sharp high rising tone."
@@ -1511,10 +1511,10 @@
         {
           "prompt": "How do you say 20 in Vietnamese?",
           "options": [
-            "mười hai (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "hai mươi (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "hai mốt (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "hai mười (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "mười hai (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "hai mươi (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "hai mốt (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "hai mười (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 1,
           "explanation": "20 is 'hai mươi' (flat tone on mươi for tens)."
@@ -1526,10 +1526,10 @@
         {
           "prompt": "Translate: 'I am eighteen years old.' (speaking as 'em')",
           "options": [
-            "Em mười tám năm. (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "Em tám mươi tuổi. (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "Em tám mười tuổi. (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "Em mười tám tuổi. (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "Em mười tám năm. (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "Em tám mươi tuổi. (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "Em tám mười tuổi. (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "Em mười tám tuổi. (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 3,
           "explanation": "'Em mười tám tuổi' (tuổi means years of age)."
@@ -1537,10 +1537,10 @@
         {
           "prompt": "What is the difference between 'mười lăm' and 'mười năm'?",
           "options": [
-            "'mười năm' is the number 15 in the South (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "'mười lăm' means 50 (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "'mười lăm' is the number 15; 'mười năm' means ten years (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "They are completely interchangeable regional accents (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "'mười năm' is the number 15 in the South (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "'mười lăm' means 50 (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "'mười lăm' is the number 15; 'mười năm' means ten years (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "They are completely interchangeable regional accents (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 2,
           "explanation": "The 'lăm' shift distinguishes the numeral 15 from the duration '10 years'."
@@ -1552,10 +1552,10 @@
         {
           "prompt": "Số 7 trong tiếng Việt là:",
           "options": [
-            "sáu (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "tám (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "chín (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "bảy (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "sáu (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "tám (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "chín (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "bảy (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 3,
           "explanation": "7 is 'bảy'.",
@@ -1564,10 +1564,10 @@
         {
           "prompt": "Số 15 đọc là:",
           "options": [
-            "hai lăm (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "năm mười (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "mười lăm (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "mười năm (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "hai lăm (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "năm mười (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "mười lăm (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "mười năm (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 2,
           "explanation": "15 is 'mười lăm'.",
@@ -1576,10 +1576,10 @@
         {
           "prompt": "Tính: sáu (6) + tám (8) = ?",
           "options": [
-            "mười hai (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "mười bốn (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "hai mươi (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "mười sáu (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "mười hai (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "mười bốn (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "hai mươi (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "mười sáu (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 1,
           "explanation": "6 + 8 = 14 (mười bốn).",
@@ -1588,10 +1588,10 @@
         {
           "prompt": "Số 20 đọc là:",
           "options": [
-            "hai mươi (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "mười hai (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "ba mươi (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "hai mười (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "hai mươi (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "mười hai (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "ba mươi (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "hai mười (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 0,
           "explanation": "20 is 'hai mươi'.",
@@ -1600,10 +1600,10 @@
         {
           "prompt": "Từ nào sau đây có dấu nặng (low drop tone)?",
           "options": [
-            "năm (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "ba (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "chín (Can count from 0 to 20 in Vietnamese with correct tones (U2))",
-            "một (Can count from 0 to 20 in Vietnamese with correct tones (U2))"
+            "năm (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "ba (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "chín (Can count from 0 to 20 in Vietnamese with correct tones)",
+            "một (Can count from 0 to 20 in Vietnamese with correct tones)"
           ],
           "answerIndex": 3,
           "explanation": "'một' contains the dot below (dấu nặng).",
@@ -1649,10 +1649,10 @@
         {
           "prompt": "How do you say 21 in Vietnamese?",
           "options": [
-            "hai mươi mốt (Can count from 21 to 100 in Vietnamese (U2))",
-            "hai mươi một (Can count from 21 to 100 in Vietnamese (U2))",
-            "mười hai mốt (Can count from 21 to 100 in Vietnamese (U2))",
-            "hai mười một (Can count from 21 to 100 in Vietnamese (U2))"
+            "hai mươi mốt (Can count from 21 to 100 in Vietnamese)",
+            "hai mươi một (Can count from 21 to 100 in Vietnamese)",
+            "mười hai mốt (Can count from 21 to 100 in Vietnamese)",
+            "hai mười một (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 0,
           "explanation": "1 after a ten always shifts to 'mốt': 'hai mươi mốt'."
@@ -1660,10 +1660,10 @@
         {
           "prompt": "How do you say 45,000 VND?",
           "options": [
-            "bốn mươi lăm nghìn đồng (Can count from 21 to 100 in Vietnamese (U2))",
-            "bốn mươi năm nghìn đồng (Can count from 21 to 100 in Vietnamese (U2))",
-            "năm mươi tư nghìn đồng (Can count from 21 to 100 in Vietnamese (U2))",
-            "bốn mươi mốt nghìn đồng (Can count from 21 to 100 in Vietnamese (U2))"
+            "bốn mươi lăm nghìn đồng (Can count from 21 to 100 in Vietnamese)",
+            "bốn mươi năm nghìn đồng (Can count from 21 to 100 in Vietnamese)",
+            "năm mươi tư nghìn đồng (Can count from 21 to 100 in Vietnamese)",
+            "bốn mươi mốt nghìn đồng (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 0,
           "explanation": "45 is 'bốn mươi lăm' + 'nghìn đồng' (thousand dong)."
@@ -1671,10 +1671,10 @@
         {
           "prompt": "What does 'Cái này bao nhiêu tiền?' mean?",
           "options": [
-            "How much is this? (Can count from 21 to 100 in Vietnamese (U2))",
-            "What is this called? (Can count from 21 to 100 in Vietnamese (U2))",
-            "Is this delicious? (Can count from 21 to 100 in Vietnamese (U2))",
-            "Where is this from? (Can count from 21 to 100 in Vietnamese (U2))"
+            "How much is this? (Can count from 21 to 100 in Vietnamese)",
+            "What is this called? (Can count from 21 to 100 in Vietnamese)",
+            "Is this delicious? (Can count from 21 to 100 in Vietnamese)",
+            "Where is this from? (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 0,
           "explanation": "Standard Vietnamese question for price inquiries."
@@ -1686,10 +1686,10 @@
         {
           "prompt": "Select the correct combination for 74:",
           "options": [
-            "bảy mười bốn (Can count from 21 to 100 in Vietnamese (U2))",
-            "bốn mươi bảy (Can count from 21 to 100 in Vietnamese (U2))",
-            "bảy mươi mốt (Can count from 21 to 100 in Vietnamese (U2))",
-            "bảy mươi tư (Can count from 21 to 100 in Vietnamese (U2))"
+            "bảy mười bốn (Can count from 21 to 100 in Vietnamese)",
+            "bốn mươi bảy (Can count from 21 to 100 in Vietnamese)",
+            "bảy mươi mốt (Can count from 21 to 100 in Vietnamese)",
+            "bảy mươi tư (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 3,
           "explanation": "74 is 'bảy mươi tư' (or 'bảy mươi bốn')."
@@ -1697,10 +1697,10 @@
         {
           "prompt": "What does 'hai chục' mean when buying fruit at a Vietnamese street stall?",
           "options": [
-            "Twelve (Can count from 21 to 100 in Vietnamese (U2))",
-            "Two pieces (Can count from 21 to 100 in Vietnamese (U2))",
-            "Two hundred (Can count from 21 to 100 in Vietnamese (U2))",
-            "Twenty (Can count from 21 to 100 in Vietnamese (U2))"
+            "Twelve (Can count from 21 to 100 in Vietnamese)",
+            "Two pieces (Can count from 21 to 100 in Vietnamese)",
+            "Two hundred (Can count from 21 to 100 in Vietnamese)",
+            "Twenty (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 3,
           "explanation": "'chục' means a group of ten; 'hai chục' = 20."
@@ -1712,10 +1712,10 @@
         {
           "prompt": "Số 31 đọc là:",
           "options": [
-            "ba mươi lăm (Can count from 21 to 100 in Vietnamese (U2))",
-            "ba mười một (Can count from 21 to 100 in Vietnamese (U2))",
-            "ba mươi mốt (Can count from 21 to 100 in Vietnamese (U2))",
-            "ba mươi một (Can count from 21 to 100 in Vietnamese (U2))"
+            "ba mươi lăm (Can count from 21 to 100 in Vietnamese)",
+            "ba mười một (Can count from 21 to 100 in Vietnamese)",
+            "ba mươi mốt (Can count from 21 to 100 in Vietnamese)",
+            "ba mươi một (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 2,
           "explanation": "31 is 'ba mươi mốt'.",
@@ -1724,10 +1724,10 @@
         {
           "prompt": "Số 55 đọc là:",
           "options": [
-            "lăm mươi lăm (Can count from 21 to 100 in Vietnamese (U2))",
-            "năm mươi lăm (Can count from 21 to 100 in Vietnamese (U2))",
-            "năm mươi mốt (Can count from 21 to 100 in Vietnamese (U2))",
-            "năm mươi năm (Can count from 21 to 100 in Vietnamese (U2))"
+            "lăm mươi lăm (Can count from 21 to 100 in Vietnamese)",
+            "năm mươi lăm (Can count from 21 to 100 in Vietnamese)",
+            "năm mươi mốt (Can count from 21 to 100 in Vietnamese)",
+            "năm mươi năm (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 1,
           "explanation": "55 is 'năm mươi lăm'.",
@@ -1736,10 +1736,10 @@
         {
           "prompt": "'Một ly trà đào giá 30.000đ.' Đọc là:",
           "options": [
-            "ba mươi nghìn đồng (Can count from 21 to 100 in Vietnamese (U2))",
-            "ba nghìn đồng (Can count from 21 to 100 in Vietnamese (U2))",
-            "ba trăm nghìn đồng (Can count from 21 to 100 in Vietnamese (U2))",
-            "ba mươi đồng (Can count from 21 to 100 in Vietnamese (U2))"
+            "ba mươi nghìn đồng (Can count from 21 to 100 in Vietnamese)",
+            "ba nghìn đồng (Can count from 21 to 100 in Vietnamese)",
+            "ba trăm nghìn đồng (Can count from 21 to 100 in Vietnamese)",
+            "ba mươi đồng (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 0,
           "explanation": "30,000 VND is 'ba mươi nghìn đồng'.",
@@ -1748,10 +1748,10 @@
         {
           "prompt": "Số 100 trong tiếng Việt là:",
           "options": [
-            "mười mươi (Can count from 21 to 100 in Vietnamese (U2))",
-            "một triệu (Can count from 21 to 100 in Vietnamese (U2))",
-            "một nghìn (Can count from 21 to 100 in Vietnamese (U2))",
-            "một trăm (Can count from 21 to 100 in Vietnamese (U2))"
+            "mười mươi (Can count from 21 to 100 in Vietnamese)",
+            "một triệu (Can count from 21 to 100 in Vietnamese)",
+            "một nghìn (Can count from 21 to 100 in Vietnamese)",
+            "một trăm (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 3,
           "explanation": "100 is 'một trăm'.",
@@ -1760,10 +1760,10 @@
         {
           "prompt": "Để hỏi giá tiền, người Việt dùng câu:",
           "options": [
-            "Mấy giờ rồi? (Can count from 21 to 100 in Vietnamese (U2))",
-            "Tên là gì? (Can count from 21 to 100 in Vietnamese (U2))",
-            "Bao nhiêu tiền? (Can count from 21 to 100 in Vietnamese (U2))",
-            "Ở đâu? (Can count from 21 to 100 in Vietnamese (U2))"
+            "Mấy giờ rồi? (Can count from 21 to 100 in Vietnamese)",
+            "Tên là gì? (Can count from 21 to 100 in Vietnamese)",
+            "Bao nhiêu tiền? (Can count from 21 to 100 in Vietnamese)",
+            "Ở đâu? (Can count from 21 to 100 in Vietnamese)"
           ],
           "answerIndex": 2,
           "explanation": "'Bao nhiêu tiền?' asks for the price.",
@@ -1810,10 +1810,10 @@
         {
           "prompt": "How do you say 3:30 PM in Vietnamese?",
           "options": [
-            "ba giờ kém rưỡi chiều (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "ba rưỡi giờ chiều (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "chiều ba giờ rưỡi phút (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "ba giờ rưỡi chiều (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "ba giờ kém rưỡi chiều (Can ask and tell time in Vietnamese using My gi ri)",
+            "ba rưỡi giờ chiều (Can ask and tell time in Vietnamese using My gi ri)",
+            "chiều ba giờ rưỡi phút (Can ask and tell time in Vietnamese using My gi ri)",
+            "ba giờ rưỡi chiều (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 3,
           "explanation": "'ba giờ rưỡi chiều' (3 hours + half + afternoon)."
@@ -1821,10 +1821,10 @@
         {
           "prompt": "What does 'tám giờ kém mười lăm' mean?",
           "options": [
-            "8:15 (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "8:45 (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "7:10 (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "7:45 (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "8:15 (Can ask and tell time in Vietnamese using My gi ri)",
+            "8:45 (Can ask and tell time in Vietnamese using My gi ri)",
+            "7:10 (Can ask and tell time in Vietnamese using My gi ri)",
+            "7:45 (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 3,
           "explanation": "'tám giờ kém mười lăm' means 8:00 minus 15 minutes = 7:45."
@@ -1832,10 +1832,10 @@
         {
           "prompt": "What does 'Mấy giờ rồi?' mean?",
           "options": [
-            "How many hours? (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "Where are you going? (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "What is today's date? (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "What time is it? (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "How many hours? (Can ask and tell time in Vietnamese using My gi ri)",
+            "Where are you going? (Can ask and tell time in Vietnamese using My gi ri)",
+            "What is today's date? (Can ask and tell time in Vietnamese using My gi ri)",
+            "What time is it? (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 3,
           "explanation": "Standard casual question for 'What time is it?'."
@@ -1847,10 +1847,10 @@
         {
           "prompt": "Translate: 'The meeting is at 9:00 AM.'",
           "options": [
-            "Cuộc họp lúc chín giờ sáng. (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "Cuộc họp lúc chín giờ tối. (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "Cuộc họp lúc chín giờ chiều. (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "Cuộc họp lúc chín giờ đêm. (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "Cuộc họp lúc chín giờ sáng. (Can ask and tell time in Vietnamese using My gi ri)",
+            "Cuộc họp lúc chín giờ tối. (Can ask and tell time in Vietnamese using My gi ri)",
+            "Cuộc họp lúc chín giờ chiều. (Can ask and tell time in Vietnamese using My gi ri)",
+            "Cuộc họp lúc chín giờ đêm. (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 0,
           "explanation": "9:00 AM is 'chín giờ sáng' ('lúc' = at [time])."
@@ -1858,10 +1858,10 @@
         {
           "prompt": "Which time of day word corresponds to 12:00 PM (noon)?",
           "options": [
-            "trưa (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "sáng (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "tối (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "đêm (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "trưa (Can ask and tell time in Vietnamese using My gi ri)",
+            "sáng (Can ask and tell time in Vietnamese using My gi ri)",
+            "tối (Can ask and tell time in Vietnamese using My gi ri)",
+            "đêm (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 0,
           "explanation": "'trưa' refers to midday / noon."
@@ -1873,10 +1873,10 @@
         {
           "prompt": "Bây giờ là 2:30 chiều. Nói là:",
           "options": [
-            "hai giờ kém chiều (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "hai giờ rưỡi chiều (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "hai giờ ba chiều (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "hai rưỡi giờ chiều (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "hai giờ kém chiều (Can ask and tell time in Vietnamese using My gi ri)",
+            "hai giờ rưỡi chiều (Can ask and tell time in Vietnamese using My gi ri)",
+            "hai giờ ba chiều (Can ask and tell time in Vietnamese using My gi ri)",
+            "hai rưỡi giờ chiều (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 1,
           "explanation": "2:30 PM is 'hai giờ rưỡi chiều'.",
@@ -1885,10 +1885,10 @@
         {
           "prompt": "'Mười giờ kém mười' là mấy giờ?",
           "options": [
-            "9:50 (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "10:10 (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "9:10 (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "10:50 (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "9:50 (Can ask and tell time in Vietnamese using My gi ri)",
+            "10:10 (Can ask and tell time in Vietnamese using My gi ri)",
+            "9:10 (Can ask and tell time in Vietnamese using My gi ri)",
+            "10:50 (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 0,
           "explanation": "10:00 minus 10 minutes = 9:50.",
@@ -1897,10 +1897,10 @@
         {
           "prompt": "Để hỏi giờ, câu nào đúng?",
           "options": [
-            "Bao nhiêu tiền? (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "Bao nhiêu giờ rồi? (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "Hôm nay thứ mấy? (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "Bây giờ là mấy giờ? (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "Bao nhiêu tiền? (Can ask and tell time in Vietnamese using My gi ri)",
+            "Bao nhiêu giờ rồi? (Can ask and tell time in Vietnamese using My gi ri)",
+            "Hôm nay thứ mấy? (Can ask and tell time in Vietnamese using My gi ri)",
+            "Bây giờ là mấy giờ? (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 3,
           "explanation": "'Bây giờ là mấy giờ?' is the correct question for time.",
@@ -1909,10 +1909,10 @@
         {
           "prompt": "8:00 tối là:",
           "options": [
-            "tám giờ chiều (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "tám giờ sáng (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "tám giờ tối (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "tám giờ trưa (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "tám giờ chiều (Can ask and tell time in Vietnamese using My gi ri)",
+            "tám giờ sáng (Can ask and tell time in Vietnamese using My gi ri)",
+            "tám giờ tối (Can ask and tell time in Vietnamese using My gi ri)",
+            "tám giờ trưa (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 2,
           "explanation": "8:00 PM is 'tám giờ tối'.",
@@ -1921,10 +1921,10 @@
         {
           "prompt": "Từ 'rưỡi' trong nói giờ có nghĩa là:",
           "options": [
-            "15 phút (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "30 phút (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "45 phút (Can ask and tell time in Vietnamese using My gi ri (U2))",
-            "10 phút (Can ask and tell time in Vietnamese using My gi ri (U2))"
+            "15 phút (Can ask and tell time in Vietnamese using My gi ri)",
+            "30 phút (Can ask and tell time in Vietnamese using My gi ri)",
+            "45 phút (Can ask and tell time in Vietnamese using My gi ri)",
+            "10 phút (Can ask and tell time in Vietnamese using My gi ri)"
           ],
           "answerIndex": 1,
           "explanation": "'rưỡi' means 'and a half' (30 minutes).",
@@ -1972,10 +1972,10 @@
         {
           "prompt": "How do you say Monday in Vietnamese?",
           "options": [
-            "Thứ Hai (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Một (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Chủ Nhật (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Nhất (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Thứ Hai (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Một (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Chủ Nhật (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Nhất (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 0,
           "explanation": "Monday is the 2nd day: 'Thứ Hai'."
@@ -1983,10 +1983,10 @@
         {
           "prompt": "How do you say Wednesday in Vietnamese?",
           "options": [
-            "Thứ Tư (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Ba (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Năm (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Bốn (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Thứ Tư (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Ba (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Năm (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Bốn (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 0,
           "explanation": "Wednesday is strictly 'Thứ Tư' (using 'Tư' for 4)."
@@ -1994,10 +1994,10 @@
         {
           "prompt": "How do you ask 'What day of the week is today?'",
           "options": [
-            "Hôm nay là thứ mấy? (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Bạn tên là gì? (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Hôm nay là ngày mấy? (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Bây giờ là mấy giờ? (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Hôm nay là thứ mấy? (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Bạn tên là gì? (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Hôm nay là ngày mấy? (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Bây giờ là mấy giờ? (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 0,
           "explanation": "'Hôm nay là thứ mấy?' asks for the day of the week (Thứ Hai, Thứ Ba...)."
@@ -2009,10 +2009,10 @@
         {
           "prompt": "Translate: 'Tomorrow is Sunday, we can rest.'",
           "options": [
-            "Ngày mai là Chủ Nhật, chúng ta có thể nghỉ ngơi. (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Hôm nay là Chủ Nhật, chúng ta có thể nghỉ ngơi. (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Hôm qua là Chủ Nhật, chúng ta có thể nghỉ ngơi. (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Ngày mai là Thứ Bảy, chúng ta có thể nghỉ ngơi. (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Ngày mai là Chủ Nhật, chúng ta có thể nghỉ ngơi. (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Hôm nay là Chủ Nhật, chúng ta có thể nghỉ ngơi. (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Hôm qua là Chủ Nhật, chúng ta có thể nghỉ ngơi. (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Ngày mai là Thứ Bảy, chúng ta có thể nghỉ ngơi. (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 0,
           "explanation": "'Ngày mai' = tomorrow, 'Chủ Nhật' = Sunday."
@@ -2020,10 +2020,10 @@
         {
           "prompt": "Select the correct order of days from Thursday to Saturday:",
           "options": [
-            "Thứ Năm, Thứ Sáu, Thứ Bảy (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Tư, Thứ Năm, Thứ Sáu (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Ba, Thứ Tư, Thứ Năm (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Sáu, Thứ Bảy, Chủ Nhật (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Thứ Năm, Thứ Sáu, Thứ Bảy (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Tư, Thứ Năm, Thứ Sáu (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Ba, Thứ Tư, Thứ Năm (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Sáu, Thứ Bảy, Chủ Nhật (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 0,
           "explanation": "Thursday (Thứ Năm), Friday (Thứ Sáu), Saturday (Thứ Bảy)."
@@ -2035,10 +2035,10 @@
         {
           "prompt": "Hôm nay là Thứ Năm. Ngày mai là:",
           "options": [
-            "Thứ Sáu (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Bảy (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thứ Tư (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Chủ Nhật (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Thứ Sáu (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Bảy (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thứ Tư (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Chủ Nhật (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 0,
           "explanation": "The day after Thursday (Thứ Năm) is Friday (Thứ Sáu).",
@@ -2047,10 +2047,10 @@
         {
           "prompt": "Thứ Tư trong tiếng Anh là:",
           "options": [
-            "Friday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Tuesday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Thursday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Wednesday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Friday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Tuesday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Thursday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Wednesday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 3,
           "explanation": "Thứ Tư is Wednesday.",
@@ -2059,10 +2059,10 @@
         {
           "prompt": "Chủ Nhật có nghĩa là:",
           "options": [
-            "Monday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Saturday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Sunday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Weekend (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Monday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Saturday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Sunday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Weekend (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 2,
           "explanation": "Chủ Nhật is Sunday.",
@@ -2071,10 +2071,10 @@
         {
           "prompt": "Cách nói ngày '15 tháng 8' là:",
           "options": [
-            "ngày mười năm tháng tám (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "ngày mười lăm tháng tám (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "tháng tám ngày mười (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "thứ tám ngày mười lăm (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "ngày mười năm tháng tám (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "ngày mười lăm tháng tám (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "tháng tám ngày mười (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "thứ tám ngày mười lăm (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 1,
           "explanation": "'ngày mười lăm tháng tám' (August 15th).",
@@ -2083,10 +2083,10 @@
         {
           "prompt": "Từ 'hôm qua' có nghĩa là:",
           "options": [
-            "Yesterday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Tomorrow (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Today (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))",
-            "Next week (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By (U2))"
+            "Yesterday (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Tomorrow (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Today (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)",
+            "Next week (Can state all days of the week in Vietnamese using the numbered Th system Th Hai through Th By)"
           ],
           "answerIndex": 0,
           "explanation": "'hôm qua' means yesterday.",
@@ -2136,10 +2136,10 @@
         {
           "prompt": "How does Nam dictate his phone number (0982-35-67) naturally in Vietnamese?",
           "options": [
-            "không-chín-tám-hai, ba mươi lăm, sáu mươi bảy (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "không-chín-tám-hai, ba lăm, sáu bảy (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "chín trăm tám mươi hai, ba mươi lăm (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "không chín tám hai ba năm sáu bảy (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "không-chín-tám-hai, ba mươi lăm, sáu mươi bảy (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "không-chín-tám-hai, ba lăm, sáu bảy (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "chín trăm tám mươi hai, ba mươi lăm (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "không chín tám hai ba năm sáu bảy (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 0,
           "explanation": "Standard phone dictation groups the prefix and pairs: không-chín-tám-hai, ba mươi lăm, sáu mươi bảy."
@@ -2147,10 +2147,10 @@
         {
           "prompt": "What does 'Nhất trí!' mean when confirming a social plan?",
           "options": [
-            "Agreed! / It's a deal! / I'm all in! (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "I disagree (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Maybe next week (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "I will be late (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "Agreed! / It's a deal! / I'm all in! (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "I disagree (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Maybe next week (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "I will be late (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 0,
           "explanation": "'Nhất trí!' signifies unanimous agreement and confirmation."
@@ -2158,10 +2158,10 @@
         {
           "prompt": "How do you say: 'The coffee is on Friday at 8:00 PM and costs 35,000 dong'?",
           "options": [
-            "Cà phê vào Thứ Sáu lúc tám giờ tối và giá ba mươi lăm nghìn đồng. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Cà phê vào Thứ Bảy lúc tám giờ sáng và giá ba mươi lăm đồng. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Cà phê vào Thứ Năm lúc tám giờ tối và giá năm mươi ba nghìn đồng. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Cà phê vào Chủ Nhật lúc tám giờ chiều và giá ba mươi lăm nghìn. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "Cà phê vào Thứ Sáu lúc tám giờ tối và giá ba mươi lăm nghìn đồng. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Cà phê vào Thứ Bảy lúc tám giờ sáng và giá ba mươi lăm đồng. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Cà phê vào Thứ Năm lúc tám giờ tối và giá năm mươi ba nghìn đồng. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Cà phê vào Chủ Nhật lúc tám giờ chiều và giá ba mươi lăm nghìn. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 0,
           "explanation": "Thứ Sáu (Friday) + tám giờ tối (8:00 PM) + ba mươi lăm nghìn đồng (35k VND)."
@@ -2173,10 +2173,10 @@
         {
           "prompt": "Translate: 'Are you free on Tuesday at 4:30 PM?' (asking someone younger = em)",
           "options": [
-            "Chiều Thứ Ba lúc bốn giờ rưỡi em có rảnh không? (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Tối Thứ Tư lúc bốn giờ rưỡi em có rảnh không? (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Chiều Thứ Hai lúc bốn giờ rưỡi em có rảnh không? (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Sáng Thứ Ba lúc bốn giờ em có rảnh không? (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "Chiều Thứ Ba lúc bốn giờ rưỡi em có rảnh không? (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Tối Thứ Tư lúc bốn giờ rưỡi em có rảnh không? (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Chiều Thứ Hai lúc bốn giờ rưỡi em có rảnh không? (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Sáng Thứ Ba lúc bốn giờ em có rảnh không? (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 0,
           "explanation": "Thứ Ba (Tuesday) + bốn giờ rưỡi chiều (4:30 PM) + em có rảnh không (are you free?)."
@@ -2184,10 +2184,10 @@
         {
           "prompt": "Which polite particle should a younger person use when responding to an older speaker?",
           "options": [
-            "Dạ ... ạ (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Này (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Hả (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Ừ (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "Dạ ... ạ (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Này (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Hả (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Ừ (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 0,
           "explanation": "'Dạ' at the beginning and 'ạ' at the end show respect."
@@ -2199,10 +2199,10 @@
         {
           "prompt": "Điền từ: 'Tối ___ này em có rảnh không?' (Friday)",
           "options": [
-            "Thứ Bảy (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Thứ Năm (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Chủ Nhật (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Thứ Sáu (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "Thứ Bảy (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Thứ Năm (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Chủ Nhật (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Thứ Sáu (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 3,
           "explanation": "Friday is 'Thứ Sáu'.",
@@ -2211,10 +2211,10 @@
         {
           "prompt": "Điền từ: 'Một ly cà phê trứng giá 45.000đ.' Đọc là:",
           "options": [
-            "bốn mươi năm nghìn đồng (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "năm mươi tư nghìn đồng (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "bốn mươi lăm nghìn đồng (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "bốn lăm đồng (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "bốn mươi năm nghìn đồng (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "năm mươi tư nghìn đồng (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "bốn mươi lăm nghìn đồng (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "bốn lăm đồng (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 2,
           "explanation": "45,000 VND is 'bốn mươi lăm nghìn đồng'.",
@@ -2223,10 +2223,10 @@
         {
           "prompt": "'Hẹn gặp anh tối Thứ Sáu lúc tám giờ!' — Câu xác nhận tự nhiên là:",
           "options": [
-            "Xin lỗi, tôi không biết. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Dạ, nhất trí anh! Hẹn gặp anh ạ! (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Tạm biệt, không đi đâu. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Cảm ơn nhiều lắm. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "Xin lỗi, tôi không biết. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Dạ, nhất trí anh! Hẹn gặp anh ạ! (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Tạm biệt, không đi đâu. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Cảm ơn nhiều lắm. (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 1,
           "explanation": "'Dạ, nhất trí anh! Hẹn gặp anh ạ!' is the natural confirmation.",
@@ -2235,10 +2235,10 @@
         {
           "prompt": "Số điện thoại 0982-35-67 đọc số 35 là:",
           "options": [
-            "ba mươi lăm (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "năm mươi ba (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "ba lăm mươi (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "ba mươi năm (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "ba mươi lăm (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "năm mươi ba (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "ba lăm mươi (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "ba mươi năm (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 0,
           "explanation": "35 is 'ba mươi lăm'.",
@@ -2247,10 +2247,10 @@
         {
           "prompt": "Mục tiêu chính của bài học tổng hợp này là gì?",
           "options": [
-            "Chỉ học thuộc lòng các chữ cái (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Chỉ học số từ 1 đến 10 (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Chỉ học tên các món ăn (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))",
-            "Tổng hợp chào hỏi, đại từ nhân xưng, ngày giờ, số đếm và giá tiền để hẹn gặp tự nhiên (Can participate in a multiturn Vietnamese dialogue scheduling a meetup (U2))"
+            "Chỉ học thuộc lòng các chữ cái (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Chỉ học số từ 1 đến 10 (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Chỉ học tên các món ăn (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)",
+            "Tổng hợp chào hỏi, đại từ nhân xưng, ngày giờ, số đếm và giá tiền để hẹn gặp tự nhiên (Can participate in a multiturn Vietnamese dialogue scheduling a meetup)"
           ],
           "answerIndex": 3,
           "explanation": "Capstone synthesizes greetings, pronouns, days, times, numbers, prices, and conversational scheduling.",
@@ -2297,10 +2297,10 @@
         {
           "prompt": "What is the specific Vietnamese term for an 'older sister'?",
           "options": [
-            "anh trai (Identify immediate family members in Vietnamese bba (U3))",
-            "em gái (Identify immediate family members in Vietnamese bba (U3))",
-            "mẹ (Identify immediate family members in Vietnamese bba (U3))",
-            "chị gái (Identify immediate family members in Vietnamese bba (U3))"
+            "anh trai (Identify immediate family members in Vietnamese bba)",
+            "em gái (Identify immediate family members in Vietnamese bba)",
+            "mẹ (Identify immediate family members in Vietnamese bba)",
+            "chị gái (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 3,
           "explanation": "'chị gái' is an older sister."
@@ -2308,10 +2308,10 @@
         {
           "prompt": "What is the Southern Vietnamese word for 'mother'?",
           "options": [
-            "chị (Identify immediate family members in Vietnamese bba (U3))",
-            "bố (Identify immediate family members in Vietnamese bba (U3))",
-            "má (Identify immediate family members in Vietnamese bba (U3))",
-            "mẹ (Identify immediate family members in Vietnamese bba (U3))"
+            "chị (Identify immediate family members in Vietnamese bba)",
+            "bố (Identify immediate family members in Vietnamese bba)",
+            "má (Identify immediate family members in Vietnamese bba)",
+            "mẹ (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 2,
           "explanation": "'má' is the popular Southern term for mother."
@@ -2319,10 +2319,10 @@
         {
           "prompt": "How do you specify a 'younger brother' in Vietnamese?",
           "options": [
-            "con trai (Identify immediate family members in Vietnamese bba (U3))",
-            "em trai (Identify immediate family members in Vietnamese bba (U3))",
-            "cháu trai (Identify immediate family members in Vietnamese bba (U3))",
-            "anh trai (Identify immediate family members in Vietnamese bba (U3))"
+            "con trai (Identify immediate family members in Vietnamese bba)",
+            "em trai (Identify immediate family members in Vietnamese bba)",
+            "cháu trai (Identify immediate family members in Vietnamese bba)",
+            "anh trai (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 1,
           "explanation": "em (younger sibling) + trai (male) = em trai."
@@ -2334,10 +2334,10 @@
         {
           "prompt": "Translate: 'Do you have any siblings?'",
           "options": [
-            "Bạn có bố mẹ không? (Identify immediate family members in Vietnamese bba (U3))",
-            "Bạn là anh chị em? (Identify immediate family members in Vietnamese bba (U3))",
-            "Anh chị em ở đâu? (Identify immediate family members in Vietnamese bba (U3))",
-            "Bạn có anh chị em không? (Identify immediate family members in Vietnamese bba (U3))"
+            "Bạn có bố mẹ không? (Identify immediate family members in Vietnamese bba)",
+            "Bạn là anh chị em? (Identify immediate family members in Vietnamese bba)",
+            "Anh chị em ở đâu? (Identify immediate family members in Vietnamese bba)",
+            "Bạn có anh chị em không? (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 3,
           "explanation": "Bạn có anh chị em không?"
@@ -2345,10 +2345,10 @@
         {
           "prompt": "What is 'con gái' in English?",
           "options": [
-            "Mother (Identify immediate family members in Vietnamese bba (U3))",
-            "Younger sister (Identify immediate family members in Vietnamese bba (U3))",
-            "Daughter (Identify immediate family members in Vietnamese bba (U3))",
-            "Son (Identify immediate family members in Vietnamese bba (U3))"
+            "Mother (Identify immediate family members in Vietnamese bba)",
+            "Younger sister (Identify immediate family members in Vietnamese bba)",
+            "Daughter (Identify immediate family members in Vietnamese bba)",
+            "Son (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 2,
           "explanation": "con gái = daughter / girl."
@@ -2360,10 +2360,10 @@
         {
           "prompt": "Trong tiếng Việt, 'anh trai' là:",
           "options": [
-            "Younger brother (Identify immediate family members in Vietnamese bba (U3))",
-            "Older sister (Identify immediate family members in Vietnamese bba (U3))",
-            "Older brother (Identify immediate family members in Vietnamese bba (U3))",
-            "Father (Identify immediate family members in Vietnamese bba (U3))"
+            "Younger brother (Identify immediate family members in Vietnamese bba)",
+            "Older sister (Identify immediate family members in Vietnamese bba)",
+            "Older brother (Identify immediate family members in Vietnamese bba)",
+            "Father (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 2,
           "explanation": "anh trai = older brother.",
@@ -2372,10 +2372,10 @@
         {
           "prompt": "Từ nào sau đây là cách gọi 'bố mẹ' phổ biến ở miền Nam Việt Nam?",
           "options": [
-            "Anh và Chị (Identify immediate family members in Vietnamese bba (U3))",
-            "Ba và Má (Identify immediate family members in Vietnamese bba (U3))",
-            "Thầy và U (Identify immediate family members in Vietnamese bba (U3))",
-            "Bố và Mẹ (Identify immediate family members in Vietnamese bba (U3))"
+            "Anh và Chị (Identify immediate family members in Vietnamese bba)",
+            "Ba và Má (Identify immediate family members in Vietnamese bba)",
+            "Thầy và U (Identify immediate family members in Vietnamese bba)",
+            "Bố và Mẹ (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 1,
           "explanation": "Ba và Má in Southern dialect.",
@@ -2384,10 +2384,10 @@
         {
           "prompt": "'Em gái' có nghĩa là gì?",
           "options": [
-            "Younger sister (Identify immediate family members in Vietnamese bba (U3))",
-            "Daughter (Identify immediate family members in Vietnamese bba (U3))",
-            "Niece (Identify immediate family members in Vietnamese bba (U3))",
-            "Older sister (Identify immediate family members in Vietnamese bba (U3))"
+            "Younger sister (Identify immediate family members in Vietnamese bba)",
+            "Daughter (Identify immediate family members in Vietnamese bba)",
+            "Niece (Identify immediate family members in Vietnamese bba)",
+            "Older sister (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 0,
           "explanation": "em gái = younger sister.",
@@ -2396,10 +2396,10 @@
         {
           "prompt": "Từ viết tắt phổ biến 'ACE' trong giới trẻ và văn phòng Việt Nam có nghĩa là:",
           "options": [
-            "Áo Của Em (Identify immediate family members in Vietnamese bba (U3))",
-            "Ăn Cơm Em (Identify immediate family members in Vietnamese bba (U3))",
-            "Ai Cũng Em (Identify immediate family members in Vietnamese bba (U3))",
-            "Anh Chị Em (Identify immediate family members in Vietnamese bba (U3))"
+            "Áo Của Em (Identify immediate family members in Vietnamese bba)",
+            "Ăn Cơm Em (Identify immediate family members in Vietnamese bba)",
+            "Ai Cũng Em (Identify immediate family members in Vietnamese bba)",
+            "Anh Chị Em (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 3,
           "explanation": "ACE stands for Anh Chị Em.",
@@ -2408,10 +2408,10 @@
         {
           "prompt": "Tại sao tiếng Việt không có một từ đơn giản cho 'brother' như tiếng Anh?",
           "options": [
-            "Vì đó là từ mượn tiếng Pháp (Identify immediate family members in Vietnamese bba (U3))",
-            "Không có lý do gì (Identify immediate family members in Vietnamese bba (U3))",
-            "Vì văn hóa Việt Nam phân biệt rõ ràng tôn ti thứ bậc theo độ tuổi (Identify immediate family members in Vietnamese bba (U3))",
-            "Vì từ vựng chưa đủ (Identify immediate family members in Vietnamese bba (U3))"
+            "Vì đó là từ mượn tiếng Pháp (Identify immediate family members in Vietnamese bba)",
+            "Không có lý do gì (Identify immediate family members in Vietnamese bba)",
+            "Vì văn hóa Việt Nam phân biệt rõ ràng tôn ti thứ bậc theo độ tuổi (Identify immediate family members in Vietnamese bba)",
+            "Vì từ vựng chưa đủ (Identify immediate family members in Vietnamese bba)"
           ],
           "answerIndex": 2,
           "explanation": "Hierarchical age precision in Vietnamese family linguistics.",
@@ -2458,10 +2458,10 @@
         {
           "prompt": "If you are talking to a man who is slightly older than you, what pronoun should you use for 'YOU'?",
           "options": [
-            "anh (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "em (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "ông (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "chị (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "anh (Master the Vietnamese universal kinship pronoun system using anh)",
+            "em (Master the Vietnamese universal kinship pronoun system using anh)",
+            "ông (Master the Vietnamese universal kinship pronoun system using anh)",
+            "chị (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 0,
           "explanation": "'anh' is used to address a slightly older male."
@@ -2470,9 +2470,9 @@
           "prompt": "In the sentence 'Em cảm ơn anh', who is 'Em' and who is 'Anh'?",
           "options": [
             "'Em' is 'I' (the younger speaker)",
-            "'Em' is 'You' and 'Anh' is 'I' (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "It means 'Thank you very much' (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Both refer to third persons (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "'Em' is 'You' and 'Anh' is 'I' (Master the Vietnamese universal kinship pronoun system using anh)",
+            "It means 'Thank you very much' (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Both refer to third persons (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 0,
           "explanation": "The younger person refers to themselves as 'Em' and the older male as 'Anh'."
@@ -2480,10 +2480,10 @@
         {
           "prompt": "What is the Vietnamese possessive particle meaning 'of / belonging to'?",
           "options": [
-            "của (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "là (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "có (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "ở (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "của (Master the Vietnamese universal kinship pronoun system using anh)",
+            "là (Master the Vietnamese universal kinship pronoun system using anh)",
+            "có (Master the Vietnamese universal kinship pronoun system using anh)",
+            "ở (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 0,
           "explanation": "'của' denotes possession."
@@ -2495,10 +2495,10 @@
         {
           "prompt": "Translate: 'This is my friend's house.'",
           "options": [
-            "Đây là nhà tôi của bạn. (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Đây là bạn của nhà tôi. (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Đây là nhà bạn có tôi. (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Đây là nhà của bạn tôi. (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "Đây là nhà tôi của bạn. (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Đây là bạn của nhà tôi. (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Đây là nhà bạn có tôi. (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Đây là nhà của bạn tôi. (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 3,
           "explanation": "nhà (house) + của (of) + bạn tôi (my friend)."
@@ -2506,10 +2506,10 @@
         {
           "prompt": "How do you politely greet an older woman of your parents' generation?",
           "options": [
-            "Em chào anh! (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Tôi chào bạn! (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Chào mày! (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Cháu chào cô ạ! (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "Em chào anh! (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Tôi chào bạn! (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Chào mày! (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Cháu chào cô ạ! (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 3,
           "explanation": "Cháu (nephew/niece) chào cô (aunt) ạ!"
@@ -2521,10 +2521,10 @@
         {
           "prompt": "Tại sao người Việt thường xưng hô bằng các từ xưng hô gia đình (anh, chị, em, cô, chú) thay vì 'tôi - bạn'?",
           "options": [
-            "Vì bắt buộc theo luật pháp (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Để thể hiện sự kính trọng, thân mật và coi xã hội như một đại gia đình ấm áp (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Chỉ dùng khi nói chuyện trong nhà (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Vì tiếng Việt không có từ 'tôi' (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "Vì bắt buộc theo luật pháp (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Để thể hiện sự kính trọng, thân mật và coi xã hội như một đại gia đình ấm áp (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Chỉ dùng khi nói chuyện trong nhà (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Vì tiếng Việt không có từ 'tôi' (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 1,
           "explanation": "Social warmth and respect through kinship pronoun framework.",
@@ -2533,10 +2533,10 @@
         {
           "prompt": "Từ 'của' trong cụm từ 'xe máy của tôi' có chức năng gì?",
           "options": [
-            "Chỉ sự sở hữu (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Chỉ thời gian (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Là một động từ hành động (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Chỉ địa điểm (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "Chỉ sự sở hữu (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Chỉ thời gian (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Là một động từ hành động (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Chỉ địa điểm (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 0,
           "explanation": "Possessive particle.",
@@ -2545,10 +2545,10 @@
         {
           "prompt": "Khi nói chuyện với một người phụ nữ lớn tuổi hơn mình một vài tuổi, bạn xưng là gì và gọi người đó là gì?",
           "options": [
-            "Tôi xưng là 'chị' và gọi người đó là 'em' (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Tôi xưng là 'anh' và gọi người đó là 'cô' (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Tôi xưng là 'cháu' và gọi người đó là 'bà' (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Tôi xưng là 'em' và gọi người đó là 'chị' (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "Tôi xưng là 'chị' và gọi người đó là 'em' (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Tôi xưng là 'anh' và gọi người đó là 'cô' (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Tôi xưng là 'cháu' và gọi người đó là 'bà' (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Tôi xưng là 'em' và gọi người đó là 'chị' (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 3,
           "explanation": "Em (I) - Chị (You).",
@@ -2557,10 +2557,10 @@
         {
           "prompt": "'Đây là điện thoại của anh ấy' có nghĩa là:",
           "options": [
-            "This is her phone (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "This is your phone (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "This is his phone (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "This is my phone (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "This is her phone (Master the Vietnamese universal kinship pronoun system using anh)",
+            "This is your phone (Master the Vietnamese universal kinship pronoun system using anh)",
+            "This is his phone (Master the Vietnamese universal kinship pronoun system using anh)",
+            "This is my phone (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 2,
           "explanation": "anh ấy = he / his.",
@@ -2569,10 +2569,10 @@
         {
           "prompt": "Từ 'ạ' ở cuối câu (ví dụ: 'Vâng ạ!', 'Cháu chào cô ạ!') biểu thị điều gì?",
           "options": [
-            "Tiếng đệm vô nghĩa (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Sự lễ phép, kính trọng đối với người bề trên hoặc người nghe (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Một câu hỏi nghi vấn (Master the Vietnamese universal kinship pronoun system using anh (U3))",
-            "Sự tức giận (Master the Vietnamese universal kinship pronoun system using anh (U3))"
+            "Tiếng đệm vô nghĩa (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Sự lễ phép, kính trọng đối với người bề trên hoặc người nghe (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Một câu hỏi nghi vấn (Master the Vietnamese universal kinship pronoun system using anh)",
+            "Sự tức giận (Master the Vietnamese universal kinship pronoun system using anh)"
           ],
           "answerIndex": 1,
           "explanation": "Politeness and deference particle 'ạ'.",
@@ -2620,10 +2620,10 @@
         {
           "prompt": "What is the kinship title for your mother's younger brother in Vietnamese?",
           "options": [
-            "chú (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "dượng (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "cậu (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "chú (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "dượng (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "cậu (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 3,
           "explanation": "A mother's younger brother is strictly 'cậu'."
@@ -2631,10 +2631,10 @@
         {
           "prompt": "What is the title for your father's younger brother?",
           "options": [
-            "cậu (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "cô (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "chú (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "cậu (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "cô (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "chú (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 3,
           "explanation": "A father's younger brother is strictly 'chú'."
@@ -2642,9 +2642,9 @@
         {
           "prompt": "How do you distinguish your paternal grandmother from your maternal grandmother?",
           "options": [
-            "bà for both only (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "bà già vs bà trẻ (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "bà cô vs bà dì (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
+            "bà for both only (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "bà già vs bà trẻ (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "bà cô vs bà dì (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
             "bà nội (paternal)"
           ],
           "answerIndex": 3,
@@ -2657,10 +2657,10 @@
         {
           "prompt": "Translate: 'My mother's younger sister is a teacher.' (mother's younger sister = dì)",
           "options": [
-            "Dì tôi là giáo viên. (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Cô tôi là giáo viên. (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Bác tôi là giáo viên. (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Mợ tôi là giáo viên. (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "Dì tôi là giáo viên. (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Cô tôi là giáo viên. (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Bác tôi là giáo viên. (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Mợ tôi là giáo viên. (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 0,
           "explanation": "Dì tôi là giáo viên."
@@ -2668,10 +2668,10 @@
         {
           "prompt": "What does 'anh chị em họ' mean?",
           "options": [
-            "Cousins (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Siblings (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Parents (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Grandparents (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "Cousins (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Siblings (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Parents (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Grandparents (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 0,
           "explanation": "anh chị em họ = cousins."
@@ -2683,10 +2683,10 @@
         {
           "prompt": "Em trai của bố được gọi là gì trong tiếng Việt?",
           "options": [
-            "Chú (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Dượng (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Cậu (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "Chú (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Dượng (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Cậu (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 0,
           "explanation": "Father's younger brother is Chú.",
@@ -2695,10 +2695,10 @@
         {
           "prompt": "Em gái của mẹ được gọi là gì?",
           "options": [
-            "Bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Cô (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Mợ (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Dì (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "Bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Cô (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Mợ (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Dì (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 3,
           "explanation": "Mother's younger sister is Dì.",
@@ -2707,10 +2707,10 @@
         {
           "prompt": "Mẹ của bố bạn là:",
           "options": [
-            "Cô (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Bà ngoại (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Bà nội (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Bác gái (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "Cô (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Bà ngoại (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Bà nội (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Bác gái (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 2,
           "explanation": "Father's mother is Bà nội.",
@@ -2719,10 +2719,10 @@
         {
           "prompt": "Câu tục ngữ 'Mồng một Tết cha, mồng hai Tết mẹ' thể hiện truyền thống gì?",
           "options": [
-            "Chỉ đi chơi ngày mùng một (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Thứ tự chúc Tết gia đình bên nội vào ngày mùng 1 và gia đình bên ngoại vào ngày mùng 2 (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Chỉ ăn cơm ở nhà (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Tết không cần thăm gia đình (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "Chỉ đi chơi ngày mùng một (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Thứ tự chúc Tết gia đình bên nội vào ngày mùng 1 và gia đình bên ngoại vào ngày mùng 2 (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Chỉ ăn cơm ở nhà (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Tết không cần thăm gia đình (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 1,
           "explanation": "Traditional Tết visitation order (paternal side day 1, maternal side day 2).",
@@ -2731,10 +2731,10 @@
         {
           "prompt": "Người anh trai lớn tuổi hơn bố hoặc mẹ của bạn được gọi chung là:",
           "options": [
-            "Bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Chú (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Cậu (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))",
-            "Dượng (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi (U3))"
+            "Bác (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Chú (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Cậu (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)",
+            "Dượng (Distinguish between paternal bn ni and maternal bn ngoi extended family terms in Vietnamese ng nib ni vs ng ngoib ngoi)"
           ],
           "answerIndex": 0,
           "explanation": "Elder sibling of parents is Bác.",
@@ -2781,10 +2781,10 @@
         {
           "prompt": "How do you say 'My older brother is tall' in correct Vietnamese grammar?",
           "options": [
-            "Anh tôi cao. (Describe people using stative verbsadjectives cao (U3))",
-            "Anh tôi có cao. (Describe people using stative verbsadjectives cao (U3))",
-            "Anh tôi ở cao. (Describe people using stative verbsadjectives cao (U3))",
-            "Anh tôi là cao. (Describe people using stative verbsadjectives cao (U3))"
+            "Anh tôi cao. (Describe people using stative verbsadjectives cao)",
+            "Anh tôi có cao. (Describe people using stative verbsadjectives cao)",
+            "Anh tôi ở cao. (Describe people using stative verbsadjectives cao)",
+            "Anh tôi là cao. (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 0,
           "explanation": "Stative verbs do not take the copula 'là'."
@@ -2792,10 +2792,10 @@
         {
           "prompt": "How do you say 'I am 25 years old'?",
           "options": [
-            "Tôi hai mươi lăm tuổi. (Describe people using stative verbsadjectives cao (U3))",
-            "Tôi có hai mươi lăm tuổi. (Describe people using stative verbsadjectives cao (U3))",
-            "Tôi ở hai mươi lăm. (Describe people using stative verbsadjectives cao (U3))",
-            "Tôi là hai mươi lăm năm. (Describe people using stative verbsadjectives cao (U3))"
+            "Tôi hai mươi lăm tuổi. (Describe people using stative verbsadjectives cao)",
+            "Tôi có hai mươi lăm tuổi. (Describe people using stative verbsadjectives cao)",
+            "Tôi ở hai mươi lăm. (Describe people using stative verbsadjectives cao)",
+            "Tôi là hai mươi lăm năm. (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 0,
           "explanation": "Number + tuổi (years old)."
@@ -2803,10 +2803,10 @@
         {
           "prompt": "What does the personality adjective 'hiền' describe?",
           "options": [
-            "Gentle, kind, sweet-natured, peaceful (Describe people using stative verbsadjectives cao (U3))",
-            "Tall and muscular (Describe people using stative verbsadjectives cao (U3))",
-            "Angry and aggressive (Describe people using stative verbsadjectives cao (U3))",
-            "Very wealthy (Describe people using stative verbsadjectives cao (U3))"
+            "Gentle, kind, sweet-natured, peaceful (Describe people using stative verbsadjectives cao)",
+            "Tall and muscular (Describe people using stative verbsadjectives cao)",
+            "Angry and aggressive (Describe people using stative verbsadjectives cao)",
+            "Very wealthy (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 0,
           "explanation": "'hiền' means gentle and kind-natured."
@@ -2818,10 +2818,10 @@
         {
           "prompt": "Translate: 'How old is your father?' (respectful)",
           "options": [
-            "Bác bao nhiêu tuổi ạ? (Describe people using stative verbsadjectives cao (U3))",
-            "Bố bạn có khỏe không? (Describe people using stative verbsadjectives cao (U3))",
-            "Bố bạn là ai? (Describe people using stative verbsadjectives cao (U3))",
-            "Bố bạn ở đâu? (Describe people using stative verbsadjectives cao (U3))"
+            "Bác bao nhiêu tuổi ạ? (Describe people using stative verbsadjectives cao)",
+            "Bố bạn có khỏe không? (Describe people using stative verbsadjectives cao)",
+            "Bố bạn là ai? (Describe people using stative verbsadjectives cao)",
+            "Bố bạn ở đâu? (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 0,
           "explanation": "Bao nhiêu tuổi = How old."
@@ -2829,10 +2829,10 @@
         {
           "prompt": "What is 'độc thân' in English?",
           "options": [
-            "Single / Unmarried (Describe people using stative verbsadjectives cao (U3))",
-            "Married (Describe people using stative verbsadjectives cao (U3))",
-            "Widowed (Describe people using stative verbsadjectives cao (U3))",
-            "Divorced (Describe people using stative verbsadjectives cao (U3))"
+            "Single / Unmarried (Describe people using stative verbsadjectives cao)",
+            "Married (Describe people using stative verbsadjectives cao)",
+            "Widowed (Describe people using stative verbsadjectives cao)",
+            "Divorced (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 0,
           "explanation": "độc thân = single."
@@ -2844,10 +2844,10 @@
         {
           "prompt": "Câu nào sau đây là ĐÚNG ngữ pháp tiếng Việt?",
           "options": [
-            "Chị tôi ở rất đẹp. (Describe people using stative verbsadjectives cao (U3))",
-            "Chị tôi là rất đẹp và là hiền. (Describe people using stative verbsadjectives cao (U3))",
-            "Chị tôi có rất đẹp. (Describe people using stative verbsadjectives cao (U3))",
-            "Chị tôi rất đẹp và hiền. (Describe people using stative verbsadjectives cao (U3))"
+            "Chị tôi ở rất đẹp. (Describe people using stative verbsadjectives cao)",
+            "Chị tôi là rất đẹp và là hiền. (Describe people using stative verbsadjectives cao)",
+            "Chị tôi có rất đẹp. (Describe people using stative verbsadjectives cao)",
+            "Chị tôi rất đẹp và hiền. (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 3,
           "explanation": "Stative adjectives do not use 'là'.",
@@ -2856,10 +2856,10 @@
         {
           "prompt": "Để hỏi tuổi một người lớn tuổi một cách lịch sự, ta hỏi:",
           "options": [
-            "Bác sinh năm nào vậy? (Describe people using stative verbsadjectives cao (U3))",
-            "Mày mấy tuổi? (Describe people using stative verbsadjectives cao (U3))",
-            "Bác năm nay bao nhiêu tuổi rồi ạ? (Describe people using stative verbsadjectives cao (U3))",
-            "Bác già chưa? (Describe people using stative verbsadjectives cao (U3))"
+            "Bác sinh năm nào vậy? (Describe people using stative verbsadjectives cao)",
+            "Mày mấy tuổi? (Describe people using stative verbsadjectives cao)",
+            "Bác năm nay bao nhiêu tuổi rồi ạ? (Describe people using stative verbsadjectives cao)",
+            "Bác già chưa? (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 2,
           "explanation": "Respectful age inquiry.",
@@ -2868,10 +2868,10 @@
         {
           "prompt": "'Ông ngoại tôi 80 tuổi' có nghĩa là:",
           "options": [
-            "My paternal grandfather is 80 years old (Describe people using stative verbsadjectives cao (U3))",
-            "My maternal grandfather is 80 years old (Describe people using stative verbsadjectives cao (U3))",
-            "My father is 80 years old (Describe people using stative verbsadjectives cao (U3))",
-            "My uncle is 80 years old (Describe people using stative verbsadjectives cao (U3))"
+            "My paternal grandfather is 80 years old (Describe people using stative verbsadjectives cao)",
+            "My maternal grandfather is 80 years old (Describe people using stative verbsadjectives cao)",
+            "My father is 80 years old (Describe people using stative verbsadjectives cao)",
+            "My uncle is 80 years old (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 1,
           "explanation": "ông ngoại = maternal grandfather.",
@@ -2880,10 +2880,10 @@
         {
           "prompt": "Từ 'tốt bụng' mô tả phẩm chất gì?",
           "options": [
-            "Kind-hearted / Generous / Good-natured (Describe people using stative verbsadjectives cao (U3))",
-            "Having good stomach digestion (Describe people using stative verbsadjectives cao (U3))",
-            "Tall and fast (Describe people using stative verbsadjectives cao (U3))",
-            "Lazy (Describe people using stative verbsadjectives cao (U3))"
+            "Kind-hearted / Generous / Good-natured (Describe people using stative verbsadjectives cao)",
+            "Having good stomach digestion (Describe people using stative verbsadjectives cao)",
+            "Tall and fast (Describe people using stative verbsadjectives cao)",
+            "Lazy (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 0,
           "explanation": "tốt bụng = kind-hearted.",
@@ -2892,10 +2892,10 @@
         {
           "prompt": "Từ chỉ đơn vị tuổi trong tiếng Việt là:",
           "options": [
-            "năm (Describe people using stative verbsadjectives cao (U3))",
-            "ngày (Describe people using stative verbsadjectives cao (U3))",
-            "tháng (Describe people using stative verbsadjectives cao (U3))",
-            "tuổi (Describe people using stative verbsadjectives cao (U3))"
+            "năm (Describe people using stative verbsadjectives cao)",
+            "ngày (Describe people using stative verbsadjectives cao)",
+            "tháng (Describe people using stative verbsadjectives cao)",
+            "tuổi (Describe people using stative verbsadjectives cao)"
           ],
           "answerIndex": 3,
           "explanation": "tuổi = years old.",
@@ -2944,10 +2944,10 @@
         {
           "prompt": "How does David politely greet Nam's parents upon arriving?",
           "options": [
-            "Cháu chào hai bác ạ! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Tôi chào bạn! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Chào mày! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Em chào anh! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Cháu chào hai bác ạ! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Tôi chào bạn! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Chào mày! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Em chào anh! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 0,
           "explanation": "'Cháu chào hai bác ạ!' is the proper respectful greeting for parents of a friend."
@@ -2955,10 +2955,10 @@
         {
           "prompt": "How does Nam introduce his 85-year-old paternal grandfather?",
           "options": [
-            "Đây là ông nội mình, năm nay 85 tuổi. (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Đây là ông ngoại mình. (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Đây là chú mình. (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Đây là bác ngoại. (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Đây là ông nội mình, năm nay 85 tuổi. (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Đây là ông ngoại mình. (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Đây là chú mình. (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Đây là bác ngoại. (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 0,
           "explanation": "ông nội = paternal grandfather."
@@ -2966,10 +2966,10 @@
         {
           "prompt": "What traditional Vietnamese welcome beverage is offered before dinner in Hanoi?",
           "options": [
-            "Trà sen nóng (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Cà phê đá (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Nước ngọt có ga (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Bia lạnh (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Trà sen nóng (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Cà phê đá (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Nước ngọt có ga (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Bia lạnh (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 0,
           "explanation": "Hot lotus tea (trà sen nóng) is the traditional Hanoi hospitality drink."
@@ -2981,10 +2981,10 @@
         {
           "prompt": "Translate: 'Please come to the table and have dinner with the family!'",
           "options": [
-            "Cả nhà đi chơi! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Mời cả nhà vào bàn ăn cơm! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Ăn cơm một mình đi! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Cả nhà đi ngủ đi! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Cả nhà đi chơi! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Mời cả nhà vào bàn ăn cơm! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Ăn cơm một mình đi! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Cả nhà đi ngủ đi! (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 1,
           "explanation": "Mời cả nhà vào bàn ăn cơm!"
@@ -2992,10 +2992,10 @@
         {
           "prompt": "What traditional Hanoi dish is served at dinner in the dialogue?",
           "options": [
-            "Chả cá Lã Vọng và canh chua (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Phở bò tái (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Bánh cuốn (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Bánh mì kẹp thịt (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Chả cá Lã Vọng và canh chua (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Phở bò tái (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Bánh cuốn (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Bánh mì kẹp thịt (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 0,
           "explanation": "Chả cá Lã Vọng và canh chua."
@@ -3007,10 +3007,10 @@
         {
           "prompt": "Câu nói 'Mời cả nhà ăn cơm ạ!' trước bữa ăn thể hiện nét văn hóa nào của người Việt?",
           "options": [
-            "Một thủ tục bắt buộc trong nhà hàng (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Lời nhắc nhở người khác trả tiền (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Nét đẹp văn hóa lễ phép, kính trên nhường dưới trong bữa cơm gia đình (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Một câu đùa vui (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Một thủ tục bắt buộc trong nhà hàng (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Lời nhắc nhở người khác trả tiền (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Nét đẹp văn hóa lễ phép, kính trên nhường dưới trong bữa cơm gia đình (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Một câu đùa vui (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 2,
           "explanation": "Respectful dining invitation etiquette.",
@@ -3019,10 +3019,10 @@
         {
           "prompt": "Trong gia đình truyền thống 'tam đại đồng đường' (3 generations), các thế hệ gồm có:",
           "options": [
-            "Chỉ có hai vợ chồng (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Ông bà, bố mẹ và con cái cùng chung sống (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Bạn bè cùng lớp (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Chỉ có anh em họ (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Chỉ có hai vợ chồng (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Ông bà, bố mẹ và con cái cùng chung sống (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Bạn bè cùng lớp (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Chỉ có anh em họ (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 1,
           "explanation": "Three generations living together: Grandparents, parents, children.",
@@ -3031,10 +3031,10 @@
         {
           "prompt": "Chủ đề ngữ pháp trọng tâm được tổng kết trong bài này là:",
           "options": [
-            "Đại từ nhân xưng theo thứ bậc gia đình, từ vựng nội/ngoại, vị từ chỉ đặc điểm (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Chỉ học tên các món ăn (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Quy tắc phát âm thanh điệu nâng cao (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Chỉ học số đếm từ 1 đến 10 (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Đại từ nhân xưng theo thứ bậc gia đình, từ vựng nội/ngoại, vị từ chỉ đặc điểm (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Chỉ học tên các món ăn (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Quy tắc phát âm thanh điệu nâng cao (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Chỉ học số đếm từ 1 đến 10 (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 0,
           "explanation": "Unit 3 master objective synthesis.",
@@ -3043,10 +3043,10 @@
         {
           "prompt": "'Chị dâu' trong tiếng Việt là:",
           "options": [
-            "Vợ của em trai (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Chị gái của vợ (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Mẹ của vợ (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Vợ của anh trai (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Vợ của em trai (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Chị gái của vợ (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Mẹ của vợ (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Vợ của anh trai (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 3,
           "explanation": "chị dâu = older brother's wife.",
@@ -3055,10 +3055,10 @@
         {
           "prompt": "Lời chúc 'Cháu kính chúc ông luôn mạnh khỏe ạ!' thể hiện:",
           "options": [
-            "Lời chào tạm biệt vội vã (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Lời hỏi thăm sức khỏe thông thường (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Lời chúc thọ và kính trọng người cao tuổi (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))",
-            "Một câu hỏi xã giao (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi (U3))"
+            "Lời chào tạm biệt vội vã (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Lời hỏi thăm sức khỏe thông thường (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Lời chúc thọ và kính trọng người cao tuổi (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)",
+            "Một câu hỏi xã giao (Participate in a multiturn Vietnamese dialogue during a multigenerational family dinner ba cm gia nh in Hanoi)"
           ],
           "answerIndex": 2,
           "explanation": "Respectful health blessing for elders.",
@@ -3112,10 +3112,10 @@
         {
           "prompt": "Arrange the SVO sentence: 'Tôi' (Subject), 'đọc sách' (Verb + Object) = ?",
           "options": [
-            "Đọc sách tôi. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Sách tôi đọc. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Tôi sách đọc. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Tôi đọc sách. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))"
+            "Đọc sách tôi. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Sách tôi đọc. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Tôi sách đọc. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Tôi đọc sách. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)"
           ],
           "answerIndex": 3,
           "explanation": "Vietnamese follows strict SVO order: Subject (Tôi) + Verb (đọc) + Object (sách)."
@@ -3123,10 +3123,10 @@
         {
           "prompt": "How do you say 'to drink water' in Vietnamese?",
           "options": [
-            "làm nước (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "đi nước (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "uống nước (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "ăn nước (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))"
+            "làm nước (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "đi nước (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "uống nước (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "ăn nước (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)"
           ],
           "answerIndex": 2,
           "explanation": "uống = to drink, nước = water."
@@ -3138,10 +3138,10 @@
         {
           "prompt": "Translate: 'He watches television in the evening.'",
           "options": [
-            "Anh ấy ngủ tivi buổi tối. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Anh ấy đi tivi buổi tối. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Anh ấy ăn tivi buổi tối. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Anh ấy xem tivi buổi tối. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))"
+            "Anh ấy ngủ tivi buổi tối. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Anh ấy đi tivi buổi tối. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Anh ấy ăn tivi buổi tối. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Anh ấy xem tivi buổi tối. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)"
           ],
           "answerIndex": 3,
           "explanation": "xem = to watch, tivi = television, buổi tối = evening."
@@ -3149,10 +3149,10 @@
         {
           "prompt": "Which verb means 'to work / to do'?",
           "options": [
-            "uống (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "ngủ (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "làm (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "học (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))"
+            "uống (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "ngủ (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "làm (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "học (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)"
           ],
           "answerIndex": 2,
           "explanation": "làm = to do/work (e.g. làm việc = to work)."
@@ -3164,10 +3164,10 @@
         {
           "prompt": "What is the primary characteristic of Vietnamese verb conjugation?",
           "options": [
-            "Verbs change endings based on whether the subject is masculine or feminine. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Vietnamese verbs never conjugate or change form based on subject, tense, or number. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Verbs add tonal markers to indicate past tense. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Verbs take plural suffixes when the subject is plural. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))"
+            "Verbs change endings based on whether the subject is masculine or feminine. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Vietnamese verbs never conjugate or change form based on subject, tense, or number. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Verbs add tonal markers to indicate past tense. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Verbs take plural suffixes when the subject is plural. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)"
           ],
           "answerIndex": 1,
           "explanation": "Vietnamese is an isolating language with zero inflectional conjugation.",
@@ -3176,10 +3176,10 @@
         {
           "prompt": "Translate into Vietnamese: 'I drink Vietnamese iced coffee.'",
           "options": [
-            "Tôi uống cà phê sữa đá Việt Nam. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Tôi đi cà phê sữa đá. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Tôi làm cà phê sữa đá. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Tôi ăn cà phê sữa đá. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))"
+            "Tôi uống cà phê sữa đá Việt Nam. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Tôi đi cà phê sữa đá. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Tôi làm cà phê sữa đá. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Tôi ăn cà phê sữa đá. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)"
           ],
           "answerIndex": 0,
           "explanation": "uống = drink, cà phê sữa đá = iced milk coffee.",
@@ -3188,10 +3188,10 @@
         {
           "prompt": "What does 'ăn cơm' signify in everyday Vietnamese conversation?",
           "options": [
-            "Attending an imperial banquet (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Ordering takeout fast food (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Only eating plain boiled white rice without side dishes (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Having a meal in general (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))"
+            "Attending an imperial banquet (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Ordering takeout fast food (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Only eating plain boiled white rice without side dishes (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Having a meal in general (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)"
           ],
           "answerIndex": 3,
           "explanation": "'ăn cơm' idiomatically refers to eating any regular meal.",
@@ -3200,10 +3200,10 @@
         {
           "prompt": "Which sentence follows correct Vietnamese SVO syntax for 'We study languages'?",
           "options": [
-            "Học ngoại ngữ chúng tôi. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Ngoại ngữ chúng tôi học. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Chúng tôi học ngoại ngữ. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))",
-            "Chúng tôi ngoại ngữ học. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection (U4))"
+            "Học ngoại ngữ chúng tôi. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Ngoại ngữ chúng tôi học. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Chúng tôi học ngoại ngữ. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)",
+            "Chúng tôi ngoại ngữ học. (Master Vietnamese SubjectVerbObject SVO sentence structure and core daily action verbs without inflection)"
           ],
           "answerIndex": 2,
           "explanation": "Chúng tôi (S) + học (V) + ngoại ngữ (O).",
@@ -3255,10 +3255,10 @@
         {
           "prompt": "Where is the particle 'đang' placed in a progressive sentence?",
           "options": [
-            "Directly before the main verb: Subject + đang + Verb (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "At the very end of the sentence (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Before the subject (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Directly after the object (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))"
+            "Directly before the main verb: Subject + đang + Verb (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "At the very end of the sentence (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Before the subject (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Directly after the object (Express ongoing actions and the present continuous aspect using the aspectual particle ang)"
           ],
           "answerIndex": 0,
           "explanation": "'đang' is a pre-verbal aspectual marker: [S + đang + V + O]."
@@ -3266,10 +3266,10 @@
         {
           "prompt": "Translate: 'They are drinking tea.'",
           "options": [
-            "Họ đang uống trà. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Họ uống trà đang. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Họ trà đang uống. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Đang họ uống trà. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))"
+            "Họ đang uống trà. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Họ uống trà đang. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Họ trà đang uống. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Đang họ uống trà. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)"
           ],
           "answerIndex": 0,
           "explanation": "Họ (They) + đang (progressive) + uống (drink) + trà (tea)."
@@ -3281,10 +3281,10 @@
         {
           "prompt": "Translate: 'I am reading a book.'",
           "options": [
-            "Tôi đã đọc sách. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Tôi sẽ đọc sách. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Tôi không đọc sách. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Tôi đang đọc sách. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))"
+            "Tôi đã đọc sách. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Tôi sẽ đọc sách. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Tôi không đọc sách. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Tôi đang đọc sách. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)"
           ],
           "answerIndex": 3,
           "explanation": "đang đọc sách = currently reading a book."
@@ -3292,10 +3292,10 @@
         {
           "prompt": "How do you ask 'What are you doing?' to an older male peer (anh)?",
           "options": [
-            "Anh làm ai đấy? (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Anh đi đâu đấy? (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Anh tên là gì? (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Anh đang làm gì đấy? (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))"
+            "Anh làm ai đấy? (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Anh đi đâu đấy? (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Anh tên là gì? (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Anh đang làm gì đấy? (Express ongoing actions and the present continuous aspect using the aspectual particle ang)"
           ],
           "answerIndex": 3,
           "explanation": "Anh đang làm gì đấy? = What are you doing?"
@@ -3307,10 +3307,10 @@
         {
           "prompt": "What does the particle 'đang' indicate when placed before a verb?",
           "options": [
-            "Continuous/progressive aspect (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Definite future intention (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Strict prohibition (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Completed past action (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))"
+            "Continuous/progressive aspect (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Definite future intention (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Strict prohibition (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Completed past action (Express ongoing actions and the present continuous aspect using the aspectual particle ang)"
           ],
           "answerIndex": 0,
           "explanation": "'đang' denotes ongoing/progressive actions.",
@@ -3319,10 +3319,10 @@
         {
           "prompt": "Choose the correct sentence for 'Lan is listening to Vietnamese music':",
           "options": [
-            "Lan nhạc Việt Nam đang nghe. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Đang Lan nghe nhạc Việt Nam. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Lan nghe đang nhạc Việt Nam. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Lan đang nghe nhạc Việt Nam. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))"
+            "Lan nhạc Việt Nam đang nghe. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Đang Lan nghe nhạc Việt Nam. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Lan nghe đang nhạc Việt Nam. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Lan đang nghe nhạc Việt Nam. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)"
           ],
           "answerIndex": 3,
           "explanation": "Lan + đang nghe (listening) + nhạc Việt Nam.",
@@ -3331,10 +3331,10 @@
         {
           "prompt": "Translate the reply: 'Tôi đang nghỉ ngơi ở nhà.'",
           "options": [
-            "I am driving to work. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "I am cooking dinner. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "I am resting at home. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "I am working at the office. (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))"
+            "I am driving to work. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "I am cooking dinner. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "I am resting at home. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "I am working at the office. (Express ongoing actions and the present continuous aspect using the aspectual particle ang)"
           ],
           "answerIndex": 2,
           "explanation": "nghỉ ngơi = to rest, ở nhà = at home.",
@@ -3343,10 +3343,10 @@
         {
           "prompt": "In instant messaging, what is the most common way to ask 'What are you doing?'",
           "options": [
-            "Bạn bao nhiêu tuổi? (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Bạn đang làm gì đấy? (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Bạn ăn gì chưa? (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))",
-            "Bạn ở đâu? (Express ongoing actions and the present continuous aspect using the aspectual particle ang (U4))"
+            "Bạn bao nhiêu tuổi? (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Bạn đang làm gì đấy? (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Bạn ăn gì chưa? (Express ongoing actions and the present continuous aspect using the aspectual particle ang)",
+            "Bạn ở đâu? (Express ongoing actions and the present continuous aspect using the aspectual particle ang)"
           ],
           "answerIndex": 1,
           "explanation": "'Bạn đang làm gì đấy?' is the standard friendly opener.",
@@ -3399,10 +3399,10 @@
         {
           "prompt": "If you never smoke cigarettes as a lifestyle principle, which negative particle do you use?",
           "options": [
-            "chưa (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "rồi (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "đang (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "không (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))"
+            "chưa (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "rồi (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "đang (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "không (Distinguish and apply present negation using khng general not versus cha aspectual not yet)"
           ],
           "answerIndex": 3,
           "explanation": "'không' denotes general negation and lifestyle principles."
@@ -3410,10 +3410,10 @@
         {
           "prompt": "How do you ask someone politely: 'Have you had breakfast yet?'",
           "options": [
-            "Bạn không ăn sáng? (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Bạn đang ăn sáng không? (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Bạn ăn sáng rồi chưa? (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Bạn ăn sáng chưa? (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))"
+            "Bạn không ăn sáng? (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Bạn đang ăn sáng không? (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Bạn ăn sáng rồi chưa? (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Bạn ăn sáng chưa? (Distinguish and apply present negation using khng general not versus cha aspectual not yet)"
           ],
           "answerIndex": 3,
           "explanation": "[Action + chưa?] is the standard 'Have you ... yet?' question pattern."
@@ -3425,10 +3425,10 @@
         {
           "prompt": "How do you reply 'Not yet' to 'Bạn làm bài tập chưa?' (Have you done the homework yet?)",
           "options": [
-            "Chưa, mình chưa làm. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Không, mình không làm. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Rồi, mình đang làm. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Có, mình làm. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))"
+            "Chưa, mình chưa làm. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Không, mình không làm. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Rồi, mình đang làm. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Có, mình làm. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)"
           ],
           "answerIndex": 0,
           "explanation": "'Chưa' (not yet) is the natural reply indicating it is still pending."
@@ -3436,10 +3436,10 @@
         {
           "prompt": "Translate: 'He does not know Vietnamese.'",
           "options": [
-            "Anh ấy không biết tiếng Việt. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Anh ấy chưa biết tiếng Việt. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Anh ấy đang biết tiếng Việt. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Anh ấy đã biết tiếng Việt. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))"
+            "Anh ấy không biết tiếng Việt. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Anh ấy chưa biết tiếng Việt. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Anh ấy đang biết tiếng Việt. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Anh ấy đã biết tiếng Việt. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)"
           ],
           "answerIndex": 0,
           "explanation": "không biết = do not know."
@@ -3451,9 +3451,9 @@
         {
           "prompt": "What is the critical semantic difference between 'không' and 'chưa' in Vietnamese?",
           "options": [
-            "'không' is for feminine subjects, 'chưa' is for masculine subjects. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "'chưa' cannot be placed before verbs. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "'không' is only used in formal writing, while 'chưa' is for casual slang. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
+            "'không' is for feminine subjects, 'chưa' is for masculine subjects. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "'chưa' cannot be placed before verbs. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "'không' is only used in formal writing, while 'chưa' is for casual slang. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
             "'không' means general non-occurrence or refusal; 'chưa' means 'not yet' (action is pending or expected)"
           ],
           "answerIndex": 3,
@@ -3463,10 +3463,10 @@
         {
           "prompt": "What does the common greeting 'Bác ăn cơm chưa ạ?' express?",
           "options": [
-            "A demand to pay for the meal (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "A criticism of the elder's dining habits (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Warm, traditional neighborly care and respect asking if the elder has eaten yet (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "An invitation to cook dinner for the speaker (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))"
+            "A demand to pay for the meal (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "A criticism of the elder's dining habits (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Warm, traditional neighborly care and respect asking if the elder has eaten yet (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "An invitation to cook dinner for the speaker (Distinguish and apply present negation using khng general not versus cha aspectual not yet)"
           ],
           "answerIndex": 2,
           "explanation": "It is a culturally affectionate greeting showing care for the person's welfare.",
@@ -3475,10 +3475,10 @@
         {
           "prompt": "Translate: 'Tôi chưa đi ngủ.'",
           "options": [
-            "I never sleep. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "I haven't gone to sleep yet. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "I already woke up. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "I am currently sleeping. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))"
+            "I never sleep. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "I haven't gone to sleep yet. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "I already woke up. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "I am currently sleeping. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)"
           ],
           "answerIndex": 1,
           "explanation": "chưa đi ngủ = have not gone to sleep yet.",
@@ -3487,10 +3487,10 @@
         {
           "prompt": "How do you say 'I do not drink beer' (as a personal rule)?",
           "options": [
-            "Tôi không uống bia. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Tôi chưa uống bia. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Tôi uống bia chưa. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))",
-            "Tôi đang uống bia. (Distinguish and apply present negation using khng general not versus cha aspectual not yet (U4))"
+            "Tôi không uống bia. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Tôi chưa uống bia. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Tôi uống bia chưa. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)",
+            "Tôi đang uống bia. (Distinguish and apply present negation using khng general not versus cha aspectual not yet)"
           ],
           "answerIndex": 0,
           "explanation": "Tôi không uống bia.",
@@ -3544,10 +3544,10 @@
         {
           "prompt": "How do you say 'I want to drink iced tea'?",
           "options": [
-            "Tôi muốn uống trà đá. (Express desires (U4))",
-            "Tôi thích uống trà đá. (Express desires (U4))",
-            "Tôi không uống trà đá. (Express desires (U4))",
-            "Tôi cần uống trà đá. (Express desires (U4))"
+            "Tôi muốn uống trà đá. (Express desires)",
+            "Tôi thích uống trà đá. (Express desires)",
+            "Tôi không uống trà đá. (Express desires)",
+            "Tôi cần uống trà đá. (Express desires)"
           ],
           "answerIndex": 0,
           "explanation": "muốn = want, uống trà đá = drink iced tea."
@@ -3555,10 +3555,10 @@
         {
           "prompt": "Translate: 'Tôi không thích ăn cay.'",
           "options": [
-            "I don't like eating spicy food. (Express desires (U4))",
-            "I need spicy food. (Express desires (U4))",
-            "I always eat spicy food. (Express desires (U4))",
-            "I want to eat spicy food. (Express desires (U4))"
+            "I don't like eating spicy food. (Express desires)",
+            "I need spicy food. (Express desires)",
+            "I always eat spicy food. (Express desires)",
+            "I want to eat spicy food. (Express desires)"
           ],
           "answerIndex": 0,
           "explanation": "không thích = don't like, ăn cay = eat spicy."
@@ -3570,10 +3570,10 @@
         {
           "prompt": "Translate: 'We need to book a taxi.'",
           "options": [
-            "Chúng tôi cần đặt taxi. (Express desires (U4))",
-            "Chúng tôi không đặt taxi. (Express desires (U4))",
-            "Chúng tôi muốn đặt taxi. (Express desires (U4))",
-            "Chúng tôi thích đặt taxi. (Express desires (U4))"
+            "Chúng tôi cần đặt taxi. (Express desires)",
+            "Chúng tôi không đặt taxi. (Express desires)",
+            "Chúng tôi muốn đặt taxi. (Express desires)",
+            "Chúng tôi thích đặt taxi. (Express desires)"
           ],
           "answerIndex": 0,
           "explanation": "cần = need, đặt taxi = book a taxi."
@@ -3581,10 +3581,10 @@
         {
           "prompt": "Which auxiliary expresses preference / fondness ('to like')?",
           "options": [
-            "thích (Express desires (U4))",
-            "muốn (Express desires (U4))",
-            "đang (Express desires (U4))",
-            "cần (Express desires (U4))"
+            "thích (Express desires)",
+            "muốn (Express desires)",
+            "đang (Express desires)",
+            "cần (Express desires)"
           ],
           "answerIndex": 0,
           "explanation": "thích = to like."
@@ -3596,10 +3596,10 @@
         {
           "prompt": "Match the modal verbs with their correct meanings: muốn, cần, thích:",
           "options": [
-            "muốn = like, cần = want, thích = need (Express desires (U4))",
-            "muốn = must, cần = can, thích = should (Express desires (U4))",
-            "muốn = want, cần = need, thích = like (Express desires (U4))",
-            "muốn = do, cần = have, thích = go (Express desires (U4))"
+            "muốn = like, cần = want, thích = need (Express desires)",
+            "muốn = must, cần = can, thích = should (Express desires)",
+            "muốn = want, cần = need, thích = like (Express desires)",
+            "muốn = do, cần = have, thích = go (Express desires)"
           ],
           "answerIndex": 2,
           "explanation": "muốn (want), cần (need), thích (like).",
@@ -3608,10 +3608,10 @@
         {
           "prompt": "How do you say 'I want to pay the bill' politely at a café in Saigon?",
           "options": [
-            "Em không tính tiền. (Express desires (U4))",
-            "Em muốn tính tiền ạ! (Express desires (U4))",
-            "Em đang uống nước. (Express desires (U4))",
-            "Em đi về luôn. (Express desires (U4))"
+            "Em không tính tiền. (Express desires)",
+            "Em muốn tính tiền ạ! (Express desires)",
+            "Em đang uống nước. (Express desires)",
+            "Em đi về luôn. (Express desires)"
           ],
           "answerIndex": 1,
           "explanation": "tính tiền = calculate bill / pay bill.",
@@ -3620,10 +3620,10 @@
         {
           "prompt": "Translate: 'Bạn có thích ẩm thực Việt Nam không?'",
           "options": [
-            "Do you like Vietnamese cuisine? (Express desires (U4))",
-            "Do you cook Vietnamese food? (Express desires (U4))",
-            "Do you sell Vietnamese food? (Express desires (U4))",
-            "Where is Vietnamese food? (Express desires (U4))"
+            "Do you like Vietnamese cuisine? (Express desires)",
+            "Do you cook Vietnamese food? (Express desires)",
+            "Do you sell Vietnamese food? (Express desires)",
+            "Where is Vietnamese food? (Express desires)"
           ],
           "answerIndex": 0,
           "explanation": "ẩm thực Việt Nam = Vietnamese cuisine.",
@@ -3632,10 +3632,10 @@
         {
           "prompt": "Translate into Vietnamese: 'I don't need help, thank you!'",
           "options": [
-            "Tôi đang giúp đỡ, cảm ơn bạn! (Express desires (U4))",
-            "Tôi muốn giúp đỡ, cảm ơn bạn! (Express desires (U4))",
-            "Tôi thích giúp đỡ, cảm ơn bạn! (Express desires (U4))",
-            "Tôi không cần giúp đỡ, cảm ơn bạn! (Express desires (U4))"
+            "Tôi đang giúp đỡ, cảm ơn bạn! (Express desires)",
+            "Tôi muốn giúp đỡ, cảm ơn bạn! (Express desires)",
+            "Tôi thích giúp đỡ, cảm ơn bạn! (Express desires)",
+            "Tôi không cần giúp đỡ, cảm ơn bạn! (Express desires)"
           ],
           "answerIndex": 3,
           "explanation": "không cần giúp đỡ = do not need help.",
@@ -3689,10 +3689,10 @@
         {
           "prompt": "In the dialogue, what does Minh like to have for breakfast?",
           "options": [
-            "Cà phê sữa đá và phở gà (Integrate present verbs (U4))",
-            "Bánh mì trứng và sữa tươi (Integrate present verbs (U4))",
-            "Cơm tấm sườn nướng (Integrate present verbs (U4))",
-            "Trà xanh và bánh bao (Integrate present verbs (U4))"
+            "Cà phê sữa đá và phở gà (Integrate present verbs)",
+            "Bánh mì trứng và sữa tươi (Integrate present verbs)",
+            "Cơm tấm sườn nướng (Integrate present verbs)",
+            "Trà xanh và bánh bao (Integrate present verbs)"
           ],
           "answerIndex": 0,
           "explanation": "Minh states: 'Tớ thích uống cà phê sữa đá và ăn phở gà.'"
@@ -3700,10 +3700,10 @@
         {
           "prompt": "How does Lan describe her current status in the dialogue?",
           "options": [
-            "Tớ chưa ăn, tớ đang chuẩn bị đi làm. (Integrate present verbs (U4))",
-            "Tớ đã ăn rồi và đang ngủ. (Integrate present verbs (U4))",
-            "Tớ đang đi du lịch Đà Nẵng. (Integrate present verbs (U4))",
-            "Tớ không muốn đi làm. (Integrate present verbs (U4))"
+            "Tớ chưa ăn, tớ đang chuẩn bị đi làm. (Integrate present verbs)",
+            "Tớ đã ăn rồi và đang ngủ. (Integrate present verbs)",
+            "Tớ đang đi du lịch Đà Nẵng. (Integrate present verbs)",
+            "Tớ không muốn đi làm. (Integrate present verbs)"
           ],
           "answerIndex": 0,
           "explanation": "Lan says she hasn't eaten yet and is preparing for work."
@@ -3715,10 +3715,10 @@
         {
           "prompt": "Translate: 'Tonight I want to walk around the lake with my friends.'",
           "options": [
-            "Tối nay tôi không đi đâu. (Integrate present verbs (U4))",
-            "Tối nay tôi muốn đi dạo quanh hồ với bạn bè. (Integrate present verbs (U4))",
-            "Tối nay tôi làm việc ở nhà. (Integrate present verbs (U4))",
-            "Tối nay tôi phải ngủ sớm. (Integrate present verbs (U4))"
+            "Tối nay tôi không đi đâu. (Integrate present verbs)",
+            "Tối nay tôi muốn đi dạo quanh hồ với bạn bè. (Integrate present verbs)",
+            "Tối nay tôi làm việc ở nhà. (Integrate present verbs)",
+            "Tối nay tôi phải ngủ sớm. (Integrate present verbs)"
           ],
           "answerIndex": 1,
           "explanation": "đi dạo quanh hồ = walk around the lake, với bạn bè = with friends."
@@ -3726,10 +3726,10 @@
         {
           "prompt": "What does the sentence 'Cuối tuần tôi thích đi cà phê vỉa hè' mean?",
           "options": [
-            "On weekends I like going to sidewalk cafés. (Integrate present verbs (U4))",
-            "On weekends I stay home and clean. (Integrate present verbs (U4))",
-            "On weekends I dislike coffee. (Integrate present verbs (U4))",
-            "On weekends I work at a coffee factory. (Integrate present verbs (U4))"
+            "On weekends I like going to sidewalk cafés. (Integrate present verbs)",
+            "On weekends I stay home and clean. (Integrate present verbs)",
+            "On weekends I dislike coffee. (Integrate present verbs)",
+            "On weekends I work at a coffee factory. (Integrate present verbs)"
           ],
           "answerIndex": 0,
           "explanation": "cà phê vỉa hè = sidewalk café culture."
@@ -3741,10 +3741,10 @@
         {
           "prompt": "Which sentence correctly combines progressive aspect 'đang' with an ongoing morning activity?",
           "options": [
-            "Tôi uống đang cà phê sữa đá. (Integrate present verbs (U4))",
-            "Tôi đang uống cà phê sữa đá và đọc tin tức. (Integrate present verbs (U4))",
-            "Đang tôi cà phê uống. (Integrate present verbs (U4))",
-            "Tôi cà phê đang uống đọc. (Integrate present verbs (U4))"
+            "Tôi uống đang cà phê sữa đá. (Integrate present verbs)",
+            "Tôi đang uống cà phê sữa đá và đọc tin tức. (Integrate present verbs)",
+            "Đang tôi cà phê uống. (Integrate present verbs)",
+            "Tôi cà phê đang uống đọc. (Integrate present verbs)"
           ],
           "answerIndex": 1,
           "explanation": "[S + đang + V + O].",
@@ -3753,10 +3753,10 @@
         {
           "prompt": "If a friend asks 'Cậu làm bài tập chưa?', what is the most natural reply if you have not done it yet?",
           "options": [
-            "Tớ chưa làm, lát nữa tớ sẽ làm. (Integrate present verbs (U4))",
-            "Tớ làm rồi hôm qua rồi. (Integrate present verbs (U4))",
-            "Tớ đang ngủ trên giường. (Integrate present verbs (U4))",
-            "Tớ không bao giờ làm bài tập. (Integrate present verbs (U4))"
+            "Tớ chưa làm, lát nữa tớ sẽ làm. (Integrate present verbs)",
+            "Tớ làm rồi hôm qua rồi. (Integrate present verbs)",
+            "Tớ đang ngủ trên giường. (Integrate present verbs)",
+            "Tớ không bao giờ làm bài tập. (Integrate present verbs)"
           ],
           "answerIndex": 0,
           "explanation": "'Tớ chưa làm' correctly uses 'chưa' for pending tasks.",
@@ -3765,10 +3765,10 @@
         {
           "prompt": "What does 'Hẹn gặp cậu lúc 7 giờ tối nhé!' mean?",
           "options": [
-            "I cannot come at 7 PM. (Integrate present verbs (U4))",
-            "What time is it now? (Integrate present verbs (U4))",
-            "Please call me at 7 AM. (Integrate present verbs (U4))",
-            "See you at 7 PM! (Integrate present verbs (U4))"
+            "I cannot come at 7 PM. (Integrate present verbs)",
+            "What time is it now? (Integrate present verbs)",
+            "Please call me at 7 AM. (Integrate present verbs)",
+            "See you at 7 PM! (Integrate present verbs)"
           ],
           "answerIndex": 3,
           "explanation": "Hẹn gặp = appointment to meet, 7 giờ tối = 7 PM.",
@@ -3777,10 +3777,10 @@
         {
           "prompt": "What are the core grammar pillars mastered in Unit 4?",
           "options": [
-            "Complex subjunctive moods and Latin verb conjugations (Integrate present verbs (U4))",
-            "Only numbers from 100 to 1000 (Integrate present verbs (U4))",
-            "SVO word order, uninflected action verbs, progressive 'đang', negation with 'không'/'chưa', and modals 'muốn'/'cần'/'thích' (Integrate present verbs (U4))",
-            "Alphabet pronunciation without verbs (Integrate present verbs (U4))"
+            "Complex subjunctive moods and Latin verb conjugations (Integrate present verbs)",
+            "Only numbers from 100 to 1000 (Integrate present verbs)",
+            "SVO word order, uninflected action verbs, progressive 'đang', negation with 'không'/'chưa', and modals 'muốn'/'cần'/'thích' (Integrate present verbs)",
+            "Alphabet pronunciation without verbs (Integrate present verbs)"
           ],
           "answerIndex": 2,
           "explanation": "Comprehensive Unit 4 grammar foundation.",
@@ -3834,10 +3834,10 @@
         {
           "prompt": "How do you say '7:30 in the morning' in Vietnamese?",
           "options": [
-            "7 giờ kém sáng (Tell exact clock time using gi (U5))",
-            "7 giờ tối (Tell exact clock time using gi (U5))",
-            "7 phút rưỡi (Tell exact clock time using gi (U5))",
-            "7 giờ rưỡi sáng (Tell exact clock time using gi (U5))"
+            "7 giờ kém sáng (Tell exact clock time using gi)",
+            "7 giờ tối (Tell exact clock time using gi)",
+            "7 phút rưỡi (Tell exact clock time using gi)",
+            "7 giờ rưỡi sáng (Tell exact clock time using gi)"
           ],
           "answerIndex": 3,
           "explanation": "7 giờ rưỡi sáng = 7:30 AM."
@@ -3845,10 +3845,10 @@
         {
           "prompt": "How do you ask 'What time is it now?'",
           "options": [
-            "Bây giờ là ở đâu? (Tell exact clock time using gi (U5))",
-            "Bây giờ là ai? (Tell exact clock time using gi (U5))",
-            "Bây giờ là mấy giờ? (Tell exact clock time using gi (U5))",
-            "Bây giờ là bao nhiêu tiền? (Tell exact clock time using gi (U5))"
+            "Bây giờ là ở đâu? (Tell exact clock time using gi)",
+            "Bây giờ là ai? (Tell exact clock time using gi)",
+            "Bây giờ là mấy giờ? (Tell exact clock time using gi)",
+            "Bây giờ là bao nhiêu tiền? (Tell exact clock time using gi)"
           ],
           "answerIndex": 2,
           "explanation": "Bây giờ là mấy giờ? = What time is it now?"
@@ -3860,10 +3860,10 @@
         {
           "prompt": "Translate: 'I finish work at 5:45 PM' (6 giờ kém 15 chiều):",
           "options": [
-            "Tôi đi làm lúc 6 giờ tối. (Tell exact clock time using gi (U5))",
-            "Tôi ăn tối lúc 6 giờ sáng. (Tell exact clock time using gi (U5))",
-            "Tôi ngủ lúc 6 giờ trưa. (Tell exact clock time using gi (U5))",
-            "Tôi tan làm lúc 6 giờ kém 15 chiều. (Tell exact clock time using gi (U5))"
+            "Tôi đi làm lúc 6 giờ tối. (Tell exact clock time using gi)",
+            "Tôi ăn tối lúc 6 giờ sáng. (Tell exact clock time using gi)",
+            "Tôi ngủ lúc 6 giờ trưa. (Tell exact clock time using gi)",
+            "Tôi tan làm lúc 6 giờ kém 15 chiều. (Tell exact clock time using gi)"
           ],
           "answerIndex": 3,
           "explanation": "6 giờ kém 15 = 15 minutes before 6:00 (5:45)."
@@ -3871,10 +3871,10 @@
         {
           "prompt": "Which time period corresponds to 'buổi chiều'?",
           "options": [
-            "Early morning (Tell exact clock time using gi (U5))",
-            "Late night (Tell exact clock time using gi (U5))",
-            "Midday noon (Tell exact clock time using gi (U5))",
-            "Afternoon (Tell exact clock time using gi (U5))"
+            "Early morning (Tell exact clock time using gi)",
+            "Late night (Tell exact clock time using gi)",
+            "Midday noon (Tell exact clock time using gi)",
+            "Afternoon (Tell exact clock time using gi)"
           ],
           "answerIndex": 3,
           "explanation": "buổi chiều = afternoon."
@@ -3886,10 +3886,10 @@
         {
           "prompt": "What does the time expression '9 giờ kém 20' mean?",
           "options": [
-            "8:40 (Tell exact clock time using gi (U5))",
-            "9:40 (Tell exact clock time using gi (U5))",
-            "8:20 (Tell exact clock time using gi (U5))",
-            "9:20 (Tell exact clock time using gi (U5))"
+            "8:40 (Tell exact clock time using gi)",
+            "9:40 (Tell exact clock time using gi)",
+            "8:20 (Tell exact clock time using gi)",
+            "9:20 (Tell exact clock time using gi)"
           ],
           "answerIndex": 0,
           "explanation": "kém indicates minutes before the hour: 9 minus 20 min = 8:40.",
@@ -3898,10 +3898,10 @@
         {
           "prompt": "How do you say 'at 7:00 AM' in a full sentence?",
           "options": [
-            "kém 7 giờ sáng (Tell exact clock time using gi (U5))",
-            "rưỡi 7 giờ sáng (Tell exact clock time using gi (U5))",
-            "nửa 7 giờ sáng (Tell exact clock time using gi (U5))",
-            "lúc 7 giờ sáng (Tell exact clock time using gi (U5))"
+            "kém 7 giờ sáng (Tell exact clock time using gi)",
+            "rưỡi 7 giờ sáng (Tell exact clock time using gi)",
+            "nửa 7 giờ sáng (Tell exact clock time using gi)",
+            "lúc 7 giờ sáng (Tell exact clock time using gi)"
           ],
           "answerIndex": 3,
           "explanation": "'lúc' marks the point in time.",
@@ -3910,10 +3910,10 @@
         {
           "prompt": "Translate: 'Buổi tối gia đình tôi thường ăn cơm lúc 7 giờ.'",
           "options": [
-            "At night my family sleeps at 7 o'clock. (Tell exact clock time using gi (U5))",
-            "In the afternoon my family goes shopping at 7 o'clock. (Tell exact clock time using gi (U5))",
-            "In the evening my family usually has dinner at 7 o'clock. (Tell exact clock time using gi (U5))",
-            "In the morning my family drinks coffee at 7 o'clock. (Tell exact clock time using gi (U5))"
+            "At night my family sleeps at 7 o'clock. (Tell exact clock time using gi)",
+            "In the afternoon my family goes shopping at 7 o'clock. (Tell exact clock time using gi)",
+            "In the evening my family usually has dinner at 7 o'clock. (Tell exact clock time using gi)",
+            "In the morning my family drinks coffee at 7 o'clock. (Tell exact clock time using gi)"
           ],
           "answerIndex": 2,
           "explanation": "buổi tối = in the evening, ăn cơm lúc 7 giờ = have a meal at 7 o'clock.",
@@ -3922,10 +3922,10 @@
         {
           "prompt": "What does 'nghỉ trưa' refer to in Vietnamese daily life?",
           "options": [
-            "Weekend road trip (Tell exact clock time using gi (U5))",
-            "The traditional midday lunch and rest period between 12:00 and 13:30 (Tell exact clock time using gi (U5))",
-            "Midnight supper after work (Tell exact clock time using gi (U5))",
-            "Morning exercise in the park (Tell exact clock time using gi (U5))"
+            "Weekend road trip (Tell exact clock time using gi)",
+            "The traditional midday lunch and rest period between 12:00 and 13:30 (Tell exact clock time using gi)",
+            "Midnight supper after work (Tell exact clock time using gi)",
+            "Morning exercise in the park (Tell exact clock time using gi)"
           ],
           "answerIndex": 1,
           "explanation": "'nghỉ trưa' is the standard midday rest period.",
@@ -3979,10 +3979,10 @@
         {
           "prompt": "What does 'đánh răng' mean?",
           "options": [
-            "to brush teeth (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "to comb hair (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "to wash face (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "to take a shower (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))"
+            "to brush teeth (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "to comb hair (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "to wash face (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "to take a shower (Express personal morning and evening hygiene and preparation routines using core action verb collocations)"
           ],
           "answerIndex": 0,
           "explanation": "đánh răng = to brush teeth."
@@ -3990,10 +3990,10 @@
         {
           "prompt": "How do you say 'to wash face' in Vietnamese?",
           "options": [
-            "rửa mặt (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "đánh mặt (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "tắm mặt (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "rửa răng (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))"
+            "rửa mặt (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "đánh mặt (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "tắm mặt (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "rửa răng (Express personal morning and evening hygiene and preparation routines using core action verb collocations)"
           ],
           "answerIndex": 0,
           "explanation": "rửa mặt = wash face."
@@ -4005,10 +4005,10 @@
         {
           "prompt": "Translate: 'He is getting dressed to go to work.'",
           "options": [
-            "Anh ấy đang ngủ trên giường. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Anh ấy đang ăn cơm ở nhà. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Anh ấy đang mặc quần áo để đi làm. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Anh ấy đang tắm trong phòng. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))"
+            "Anh ấy đang ngủ trên giường. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Anh ấy đang ăn cơm ở nhà. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Anh ấy đang mặc quần áo để đi làm. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Anh ấy đang tắm trong phòng. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)"
           ],
           "answerIndex": 2,
           "explanation": "mặc quần áo để đi làm = get dressed to go to work."
@@ -4016,10 +4016,10 @@
         {
           "prompt": "Translate: 'Tôi đi ngủ lúc mười giờ đêm.'",
           "options": [
-            "I wake up at 10:00 AM. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "I eat dinner at 10:00 PM. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "I work until 10:00 PM. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "I go to sleep at 10:00 PM. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))"
+            "I wake up at 10:00 AM. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "I eat dinner at 10:00 PM. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "I work until 10:00 PM. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "I go to sleep at 10:00 PM. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)"
           ],
           "answerIndex": 3,
           "explanation": "đi ngủ lúc mười giờ đêm = go to sleep at 10 PM."
@@ -4031,10 +4031,10 @@
         {
           "prompt": "Match the morning actions with their Vietnamese terms: wake up, brush teeth, wash face:",
           "options": [
-            "ăn sáng, nấu ăn, đi chợ (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "đi ngủ, rửa mặt, thay đồ (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "uống trà, đọc sách, nghe nhạc (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "thức dậy, đánh răng, rửa mặt (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))"
+            "ăn sáng, nấu ăn, đi chợ (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "đi ngủ, rửa mặt, thay đồ (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "uống trà, đọc sách, nghe nhạc (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "thức dậy, đánh răng, rửa mặt (Express personal morning and evening hygiene and preparation routines using core action verb collocations)"
           ],
           "answerIndex": 3,
           "explanation": "thức dậy (wake up), đánh răng (brush teeth), rửa mặt (wash face).",
@@ -4043,10 +4043,10 @@
         {
           "prompt": "Translate into Vietnamese: 'I take a shower and then change clothes.'",
           "options": [
-            "Tôi đi làm rồi học bài. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Tôi uống nước rồi đọc sách. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Tôi tắm rồi thay quần áo. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Tôi ngủ rồi ăn cơm. (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))"
+            "Tôi đi làm rồi học bài. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Tôi uống nước rồi đọc sách. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Tôi tắm rồi thay quần áo. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Tôi ngủ rồi ăn cơm. (Express personal morning and evening hygiene and preparation routines using core action verb collocations)"
           ],
           "answerIndex": 2,
           "explanation": "tắm = shower, rồi = then, thay quần áo = change clothes.",
@@ -4055,10 +4055,10 @@
         {
           "prompt": "What does 'chúc ngủ ngon' mean?",
           "options": [
-            "Bon appétit! (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Good night! / Sleep well! (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Have a nice trip! (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "Good morning! (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))"
+            "Bon appétit! (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Good night! / Sleep well! (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Have a nice trip! (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "Good morning! (Express personal morning and evening hygiene and preparation routines using core action verb collocations)"
           ],
           "answerIndex": 1,
           "explanation": "chúc ngủ ngon = Good night / sleep well.",
@@ -4067,10 +4067,10 @@
         {
           "prompt": "Which phrase correctly expresses 'to go to work'?",
           "options": [
-            "đi làm (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "đi chơi (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "đi học (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))",
-            "đi ngủ (Express personal morning and evening hygiene and preparation routines using core action verb collocations (U5))"
+            "đi làm (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "đi chơi (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "đi học (Express personal morning and evening hygiene and preparation routines using core action verb collocations)",
+            "đi ngủ (Express personal morning and evening hygiene and preparation routines using core action verb collocations)"
           ],
           "answerIndex": 0,
           "explanation": "đi làm = to go to work.",
@@ -4124,10 +4124,10 @@
         {
           "prompt": "Which phrase means 'before eating breakfast' in Vietnamese?",
           "options": [
-            "sau khi ăn sáng (Sequence events using temporal conjunctions trc khi before (U5))",
-            "trong khi ăn sáng (Sequence events using temporal conjunctions trc khi before (U5))",
-            "cuối cùng ăn sáng (Sequence events using temporal conjunctions trc khi before (U5))",
-            "trước khi ăn sáng (Sequence events using temporal conjunctions trc khi before (U5))"
+            "sau khi ăn sáng (Sequence events using temporal conjunctions trc khi before)",
+            "trong khi ăn sáng (Sequence events using temporal conjunctions trc khi before)",
+            "cuối cùng ăn sáng (Sequence events using temporal conjunctions trc khi before)",
+            "trước khi ăn sáng (Sequence events using temporal conjunctions trc khi before)"
           ],
           "answerIndex": 3,
           "explanation": "trước khi = before."
@@ -4135,10 +4135,10 @@
         {
           "prompt": "What does 'sau khi' mean?",
           "options": [
-            "before doing (Sequence events using temporal conjunctions trc khi before (U5))",
-            "while doing (Sequence events using temporal conjunctions trc khi before (U5))",
-            "never doing (Sequence events using temporal conjunctions trc khi before (U5))",
-            "after / after doing (Sequence events using temporal conjunctions trc khi before (U5))"
+            "before doing (Sequence events using temporal conjunctions trc khi before)",
+            "while doing (Sequence events using temporal conjunctions trc khi before)",
+            "never doing (Sequence events using temporal conjunctions trc khi before)",
+            "after / after doing (Sequence events using temporal conjunctions trc khi before)"
           ],
           "answerIndex": 3,
           "explanation": "sau khi = after."
@@ -4150,10 +4150,10 @@
         {
           "prompt": "Translate: 'First I study, then I listen to music.'",
           "options": [
-            "Đầu tiên tôi học bài, sau đó tôi nghe nhạc. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Sau đó tôi học bài, đầu tiên tôi nghe nhạc. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Tôi không học bài cũng không nghe nhạc. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Cuối cùng tôi học bài và đi ngủ. (Sequence events using temporal conjunctions trc khi before (U5))"
+            "Đầu tiên tôi học bài, sau đó tôi nghe nhạc. (Sequence events using temporal conjunctions trc khi before)",
+            "Sau đó tôi học bài, đầu tiên tôi nghe nhạc. (Sequence events using temporal conjunctions trc khi before)",
+            "Tôi không học bài cũng không nghe nhạc. (Sequence events using temporal conjunctions trc khi before)",
+            "Cuối cùng tôi học bài và đi ngủ. (Sequence events using temporal conjunctions trc khi before)"
           ],
           "answerIndex": 0,
           "explanation": "Đầu tiên (first) ... sau đó (after that) ..."
@@ -4161,10 +4161,10 @@
         {
           "prompt": "What does 'làm xong rồi về' mean?",
           "options": [
-            "Finish doing the work, then go home. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Go home before starting work. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Never finish the work. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Work all night without going home. (Sequence events using temporal conjunctions trc khi before (U5))"
+            "Finish doing the work, then go home. (Sequence events using temporal conjunctions trc khi before)",
+            "Go home before starting work. (Sequence events using temporal conjunctions trc khi before)",
+            "Never finish the work. (Sequence events using temporal conjunctions trc khi before)",
+            "Work all night without going home. (Sequence events using temporal conjunctions trc khi before)"
           ],
           "answerIndex": 0,
           "explanation": "làm xong = finish working, rồi về = then return home."
@@ -4176,10 +4176,10 @@
         {
           "prompt": "Translate: 'Trước khi đi làm, tôi luôn uống một cốc cà phê sữa đá.'",
           "options": [
-            "After work, I drink a hot tea. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "I drink coffee while driving to work. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Before going to work, I always drink a glass of iced milk coffee. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "I never drink coffee before working. (Sequence events using temporal conjunctions trc khi before (U5))"
+            "After work, I drink a hot tea. (Sequence events using temporal conjunctions trc khi before)",
+            "I drink coffee while driving to work. (Sequence events using temporal conjunctions trc khi before)",
+            "Before going to work, I always drink a glass of iced milk coffee. (Sequence events using temporal conjunctions trc khi before)",
+            "I never drink coffee before working. (Sequence events using temporal conjunctions trc khi before)"
           ],
           "answerIndex": 2,
           "explanation": "Trước khi đi làm = Before going to work, cốc cà phê sữa đá = glass of iced milk coffee.",
@@ -4188,10 +4188,10 @@
         {
           "prompt": "What is the function of 'xong' when placed directly after a verb (e.g. ăn xong, học xong)?",
           "options": [
-            "It creates a passive tone. (Sequence events using temporal conjunctions trc khi before (U5))",
+            "It creates a passive tone. (Sequence events using temporal conjunctions trc khi before)",
             "It marks the completed completion of the action ('finish eating', 'finish studying')",
-            "It indicates future possibility. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "It turns the verb into a negative question. (Sequence events using temporal conjunctions trc khi before (U5))"
+            "It indicates future possibility. (Sequence events using temporal conjunctions trc khi before)",
+            "It turns the verb into a negative question. (Sequence events using temporal conjunctions trc khi before)"
           ],
           "answerIndex": 1,
           "explanation": "'xong' functions as a post-verbal completive aspect marker.",
@@ -4200,10 +4200,10 @@
         {
           "prompt": "Which sequence order represents a logical morning schedule?",
           "options": [
-            "Đầu tiên thức dậy, sau đó đánh răng, cuối cùng đi làm. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Đầu tiên đi ngủ, sau đó thức dậy, cuối cùng đánh răng. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Đầu tiên ăn tối, sau đó ăn sáng, cuối cùng tắm. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Đầu tiên đi làm, sau đó đi ngủ, cuối cùng thức dậy. (Sequence events using temporal conjunctions trc khi before (U5))"
+            "Đầu tiên thức dậy, sau đó đánh răng, cuối cùng đi làm. (Sequence events using temporal conjunctions trc khi before)",
+            "Đầu tiên đi ngủ, sau đó thức dậy, cuối cùng đánh răng. (Sequence events using temporal conjunctions trc khi before)",
+            "Đầu tiên ăn tối, sau đó ăn sáng, cuối cùng tắm. (Sequence events using temporal conjunctions trc khi before)",
+            "Đầu tiên đi làm, sau đó đi ngủ, cuối cùng thức dậy. (Sequence events using temporal conjunctions trc khi before)"
           ],
           "answerIndex": 0,
           "explanation": "Logical sequence: wake up -> brush teeth -> go to work.",
@@ -4212,10 +4212,10 @@
         {
           "prompt": "Translate: 'Sau khi tan sở, chúng mình đi uống bia nhé!'",
           "options": [
-            "We do not drink beer at work. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Before going to the office, let's drink beer! (Sequence events using temporal conjunctions trc khi before (U5))",
-            "Let's stay at the office all night. (Sequence events using temporal conjunctions trc khi before (U5))",
-            "After clocking out of the office, let's go drink beer! (Sequence events using temporal conjunctions trc khi before (U5))"
+            "We do not drink beer at work. (Sequence events using temporal conjunctions trc khi before)",
+            "Before going to the office, let's drink beer! (Sequence events using temporal conjunctions trc khi before)",
+            "Let's stay at the office all night. (Sequence events using temporal conjunctions trc khi before)",
+            "After clocking out of the office, let's go drink beer! (Sequence events using temporal conjunctions trc khi before)"
           ],
           "answerIndex": 3,
           "explanation": "tan sở = leave office / clock out, sau khi = after.",
@@ -4269,10 +4269,10 @@
         {
           "prompt": "Which classifier is used for books ('sách')?",
           "options": [
-            "quyển (Apply core Vietnamese noun classifiers ci (U5))",
-            "cái (Apply core Vietnamese noun classifiers ci (U5))",
-            "quả (Apply core Vietnamese noun classifiers ci (U5))",
-            "con (Apply core Vietnamese noun classifiers ci (U5))"
+            "quyển (Apply core Vietnamese noun classifiers ci)",
+            "cái (Apply core Vietnamese noun classifiers ci)",
+            "quả (Apply core Vietnamese noun classifiers ci)",
+            "con (Apply core Vietnamese noun classifiers ci)"
           ],
           "answerIndex": 0,
           "explanation": "quyển / cuốn is the classifier for books and bound volumes."
@@ -4280,10 +4280,10 @@
         {
           "prompt": "Which classifier is used for animals (e.g. 'mèo' - cat)?",
           "options": [
-            "con (Apply core Vietnamese noun classifiers ci (U5))",
-            "quyển (Apply core Vietnamese noun classifiers ci (U5))",
-            "bát (Apply core Vietnamese noun classifiers ci (U5))",
-            "cái (Apply core Vietnamese noun classifiers ci (U5))"
+            "con (Apply core Vietnamese noun classifiers ci)",
+            "quyển (Apply core Vietnamese noun classifiers ci)",
+            "bát (Apply core Vietnamese noun classifiers ci)",
+            "cái (Apply core Vietnamese noun classifiers ci)"
           ],
           "answerIndex": 0,
           "explanation": "con is the classifier for animals."
@@ -4295,10 +4295,10 @@
         {
           "prompt": "How do you order 'two bowls of pho' in Hanoi?",
           "options": [
-            "hai bát phở (Apply core Vietnamese noun classifiers ci (U5))",
-            "hai quyển phở (Apply core Vietnamese noun classifiers ci (U5))",
-            "hai cái phở (Apply core Vietnamese noun classifiers ci (U5))",
-            "hai con phở (Apply core Vietnamese noun classifiers ci (U5))"
+            "hai bát phở (Apply core Vietnamese noun classifiers ci)",
+            "hai quyển phở (Apply core Vietnamese noun classifiers ci)",
+            "hai cái phở (Apply core Vietnamese noun classifiers ci)",
+            "hai con phở (Apply core Vietnamese noun classifiers ci)"
           ],
           "answerIndex": 0,
           "explanation": "bát is the classifier for bowls of food (phở, bún, cơm)."
@@ -4306,10 +4306,10 @@
         {
           "prompt": "Translate: 'Tôi mua ba quả táo.'",
           "options": [
-            "I buy three apples. (Apply core Vietnamese noun classifiers ci (U5))",
-            "I buy three cats. (Apply core Vietnamese noun classifiers ci (U5))",
-            "I buy three shirts. (Apply core Vietnamese noun classifiers ci (U5))",
-            "I buy three books. (Apply core Vietnamese noun classifiers ci (U5))"
+            "I buy three apples. (Apply core Vietnamese noun classifiers ci)",
+            "I buy three cats. (Apply core Vietnamese noun classifiers ci)",
+            "I buy three shirts. (Apply core Vietnamese noun classifiers ci)",
+            "I buy three books. (Apply core Vietnamese noun classifiers ci)"
           ],
           "answerIndex": 0,
           "explanation": "quả táo = apple (fruit classifier 'quả')."
@@ -4321,10 +4321,10 @@
         {
           "prompt": "What is the standard formula for counting nouns in Vietnamese?",
           "options": [
-            "Noun + Number + Classifier (Apply core Vietnamese noun classifiers ci (U5))",
-            "Number + Classifier + Noun (Apply core Vietnamese noun classifiers ci (U5))",
-            "Classifier + Noun + Number (Apply core Vietnamese noun classifiers ci (U5))",
-            "Number + Noun directly with no classifier (Apply core Vietnamese noun classifiers ci (U5))"
+            "Noun + Number + Classifier (Apply core Vietnamese noun classifiers ci)",
+            "Number + Classifier + Noun (Apply core Vietnamese noun classifiers ci)",
+            "Classifier + Noun + Number (Apply core Vietnamese noun classifiers ci)",
+            "Number + Noun directly with no classifier (Apply core Vietnamese noun classifiers ci)"
           ],
           "answerIndex": 1,
           "explanation": "Vietnamese requires [Number + Classifier + Noun].",
@@ -4333,10 +4333,10 @@
         {
           "prompt": "Choose the correctly matched phrase for 'one cup of hot tea':",
           "options": [
-            "một cốc trà nóng (Apply core Vietnamese noun classifiers ci (U5))",
-            "một con trà nóng (Apply core Vietnamese noun classifiers ci (U5))",
-            "một quyển trà nóng (Apply core Vietnamese noun classifiers ci (U5))",
-            "một quả trà nóng (Apply core Vietnamese noun classifiers ci (U5))"
+            "một cốc trà nóng (Apply core Vietnamese noun classifiers ci)",
+            "một con trà nóng (Apply core Vietnamese noun classifiers ci)",
+            "một quyển trà nóng (Apply core Vietnamese noun classifiers ci)",
+            "một quả trà nóng (Apply core Vietnamese noun classifiers ci)"
           ],
           "answerIndex": 0,
           "explanation": "cốc = cup/glass.",
@@ -4345,9 +4345,9 @@
         {
           "prompt": "What is the Southern Vietnamese equivalent of Northern 'bát' (bowl) and 'cốc' (glass)?",
           "options": [
-            "tấm and bức (Apply core Vietnamese noun classifiers ci (U5))",
-            "quả and con (Apply core Vietnamese noun classifiers ci (U5))",
-            "cái and chiếc (Apply core Vietnamese noun classifiers ci (U5))",
+            "tấm and bức (Apply core Vietnamese noun classifiers ci)",
+            "quả and con (Apply core Vietnamese noun classifiers ci)",
+            "cái and chiếc (Apply core Vietnamese noun classifiers ci)",
             "chén (bowl)"
           ],
           "answerIndex": 3,
@@ -4357,10 +4357,10 @@
         {
           "prompt": "Which classifier belongs with 'điện thoại' (telephone)?",
           "options": [
-            "quyển (Apply core Vietnamese noun classifiers ci (U5))",
-            "con (Apply core Vietnamese noun classifiers ci (U5))",
-            "cái (Apply core Vietnamese noun classifiers ci (U5))",
-            "bát (Apply core Vietnamese noun classifiers ci (U5))"
+            "quyển (Apply core Vietnamese noun classifiers ci)",
+            "con (Apply core Vietnamese noun classifiers ci)",
+            "cái (Apply core Vietnamese noun classifiers ci)",
+            "bát (Apply core Vietnamese noun classifiers ci)"
           ],
           "answerIndex": 2,
           "explanation": "cái is the classifier for inanimate tools and devices.",
@@ -4413,10 +4413,10 @@
         {
           "prompt": "In the dialogue, what does Linh eat and drink for breakfast?",
           "options": [
-            "Một ly cà phê sữa đá và một tô hủ tiếu (Synthesize clock times (U5))",
-            "Trà nóng và bánh bao (Synthesize clock times (U5))",
-            "Cơm sườn và nước ngọt (Synthesize clock times (U5))",
-            "Bánh ngọt và sữa tươi (Synthesize clock times (U5))"
+            "Một ly cà phê sữa đá và một tô hủ tiếu (Synthesize clock times)",
+            "Trà nóng và bánh bao (Synthesize clock times)",
+            "Cơm sườn và nước ngọt (Synthesize clock times)",
+            "Bánh ngọt và sữa tươi (Synthesize clock times)"
           ],
           "answerIndex": 0,
           "explanation": "Linh states: 'uống một ly cà phê sữa đá và ăn một tô hủ tiếu.'"
@@ -4424,10 +4424,10 @@
         {
           "prompt": "How does Linh commute to work in Saigon?",
           "options": [
-            "Bằng xe máy (Synthesize clock times (U5))",
-            "Bằng xe buýt (Synthesize clock times (U5))",
-            "Bằng tàu hỏa (Synthesize clock times (U5))",
-            "Đi bộ (Synthesize clock times (U5))"
+            "Bằng xe máy (Synthesize clock times)",
+            "Bằng xe buýt (Synthesize clock times)",
+            "Bằng tàu hỏa (Synthesize clock times)",
+            "Đi bộ (Synthesize clock times)"
           ],
           "answerIndex": 0,
           "explanation": "Linh states: 'Mình đi làm bằng xe máy.'"
@@ -4439,10 +4439,10 @@
         {
           "prompt": "Translate: 'After work, I go to the supermarket to buy food.'",
           "options": [
-            "Trong khi làm việc, tôi đi siêu thị. (Synthesize clock times (U5))",
-            "Sau khi tan sở, tôi đi siêu thị mua thức ăn. (Synthesize clock times (U5))",
-            "Tôi không bao giờ đi siêu thị. (Synthesize clock times (U5))",
-            "Trước khi đi làm, tôi đi siêu thị. (Synthesize clock times (U5))"
+            "Trong khi làm việc, tôi đi siêu thị. (Synthesize clock times)",
+            "Sau khi tan sở, tôi đi siêu thị mua thức ăn. (Synthesize clock times)",
+            "Tôi không bao giờ đi siêu thị. (Synthesize clock times)",
+            "Trước khi đi làm, tôi đi siêu thị. (Synthesize clock times)"
           ],
           "answerIndex": 1,
           "explanation": "Sau khi tan sở = after clocking out, đi siêu thị = go to supermarket."
@@ -4450,10 +4450,10 @@
         {
           "prompt": "Translate: 'Tôi đi ngủ lúc 10 giờ rưỡi tối.'",
           "options": [
-            "I go to sleep at 10:30 PM. (Synthesize clock times (U5))",
-            "I eat dinner at 10:30 PM. (Synthesize clock times (U5))",
-            "I leave the office at 10:30 PM. (Synthesize clock times (U5))",
-            "I wake up at 10:30 AM. (Synthesize clock times (U5))"
+            "I go to sleep at 10:30 PM. (Synthesize clock times)",
+            "I eat dinner at 10:30 PM. (Synthesize clock times)",
+            "I leave the office at 10:30 PM. (Synthesize clock times)",
+            "I wake up at 10:30 AM. (Synthesize clock times)"
           ],
           "answerIndex": 0,
           "explanation": "10 giờ rưỡi tối = 10:30 PM."
@@ -4465,10 +4465,10 @@
         {
           "prompt": "Which sentence demonstrates accurate time phrasing, sequencing, and classifier usage?",
           "options": [
-            "Lúc 7 giờ sáng, tôi uống một ly cà phê rồi đi làm bằng xe máy. (Synthesize clock times (U5))",
-            "Lúc 7 giờ sáng, tôi uống một con cà phê rồi đi làm. (Synthesize clock times (U5))",
-            "Lúc 7 giờ sáng, tôi uống một quyển cà phê rồi đi làm. (Synthesize clock times (U5))",
-            "Lúc 7 giờ sáng, tôi uống một cái cà phê rồi đi làm. (Synthesize clock times (U5))"
+            "Lúc 7 giờ sáng, tôi uống một ly cà phê rồi đi làm bằng xe máy. (Synthesize clock times)",
+            "Lúc 7 giờ sáng, tôi uống một con cà phê rồi đi làm. (Synthesize clock times)",
+            "Lúc 7 giờ sáng, tôi uống một quyển cà phê rồi đi làm. (Synthesize clock times)",
+            "Lúc 7 giờ sáng, tôi uống một cái cà phê rồi đi làm. (Synthesize clock times)"
           ],
           "answerIndex": 0,
           "explanation": "một ly cà phê (drink classifier) + sequencing 'rồi' + time 'lúc 7 giờ sáng'.",
@@ -4477,10 +4477,10 @@
         {
           "prompt": "What does 'nghỉ trưa' mean in Vietnamese corporate and school routine?",
           "options": [
-            "Working overtime at midnight (Synthesize clock times (U5))",
-            "Early morning running (Synthesize clock times (U5))",
-            "Weekend party (Synthesize clock times (U5))",
-            "The traditional midday break and power nap between 12:00 and 13:30 (Synthesize clock times (U5))"
+            "Working overtime at midnight (Synthesize clock times)",
+            "Early morning running (Synthesize clock times)",
+            "Weekend party (Synthesize clock times)",
+            "The traditional midday break and power nap between 12:00 and 13:30 (Synthesize clock times)"
           ],
           "answerIndex": 3,
           "explanation": "nghỉ trưa is the restorative midday rest.",
@@ -4489,10 +4489,10 @@
         {
           "prompt": "Translate: 'Trước khi đi ngủ, em đọc hai chương sách.'",
           "options": [
-            "After waking up, I read two chapters. (Synthesize clock times (U5))",
-            "While eating, I read two chapters. (Synthesize clock times (U5))",
-            "Before going to sleep, I read two chapters of the book. (Synthesize clock times (U5))",
-            "I never read books before bed. (Synthesize clock times (U5))"
+            "After waking up, I read two chapters. (Synthesize clock times)",
+            "While eating, I read two chapters. (Synthesize clock times)",
+            "Before going to sleep, I read two chapters of the book. (Synthesize clock times)",
+            "I never read books before bed. (Synthesize clock times)"
           ],
           "answerIndex": 2,
           "explanation": "Trước khi đi ngủ = Before going to sleep.",
@@ -4501,10 +4501,10 @@
         {
           "prompt": "What essential grammatical and vocabulary foundations were mastered across Unit 5 in Vietnamese?",
           "options": [
-            "Complex Sino-Vietnamese poetry meters only (Synthesize clock times (U5))",
-            "Clock times & parts of the day, routine hygiene collocations, sequencing conjunctions (Synthesize clock times (U5))",
-            "Numbers 1-10 only (Synthesize clock times (U5))",
-            "Passive voice conjugations only (Synthesize clock times (U5))"
+            "Complex Sino-Vietnamese poetry meters only (Synthesize clock times)",
+            "Clock times & parts of the day, routine hygiene collocations, sequencing conjunctions (Synthesize clock times)",
+            "Numbers 1-10 only (Synthesize clock times)",
+            "Passive voice conjugations only (Synthesize clock times)"
           ],
           "answerIndex": 1,
           "explanation": "Unit 5 comprehensive daily routine and classifier mastery.",
@@ -4558,10 +4558,10 @@
         {
           "prompt": "What is the difference between 'thịt bò' and 'thịt gà'?",
           "options": [
-            "thịt bò is pork; thịt gà is fish. (Identify and classify staple Vietnamese food (U6))",
-            "thịt bò is chicken; thịt gà is beef. (Identify and classify staple Vietnamese food (U6))",
-            "thịt bò is tofu; thịt gà is shrimp. (Identify and classify staple Vietnamese food (U6))",
-            "thịt bò is beef; thịt gà is chicken. (Identify and classify staple Vietnamese food (U6))"
+            "thịt bò is pork; thịt gà is fish. (Identify and classify staple Vietnamese food)",
+            "thịt bò is chicken; thịt gà is beef. (Identify and classify staple Vietnamese food)",
+            "thịt bò is tofu; thịt gà is shrimp. (Identify and classify staple Vietnamese food)",
+            "thịt bò is beef; thịt gà is chicken. (Identify and classify staple Vietnamese food)"
           ],
           "answerIndex": 3,
           "explanation": "bò = cow/beef; gà = chicken."
@@ -4569,10 +4569,10 @@
         {
           "prompt": "How do you say 'iced milk coffee' in Vietnamese?",
           "options": [
-            "nước dừa (Identify and classify staple Vietnamese food (U6))",
-            "trà đá (Identify and classify staple Vietnamese food (U6))",
-            "cà phê sữa đá (Identify and classify staple Vietnamese food (U6))",
-            "cà phê đen nóng (Identify and classify staple Vietnamese food (U6))"
+            "nước dừa (Identify and classify staple Vietnamese food)",
+            "trà đá (Identify and classify staple Vietnamese food)",
+            "cà phê sữa đá (Identify and classify staple Vietnamese food)",
+            "cà phê đen nóng (Identify and classify staple Vietnamese food)"
           ],
           "answerIndex": 2,
           "explanation": "cà phê sữa đá = iced milk coffee."
@@ -4584,10 +4584,10 @@
         {
           "prompt": "Translate: 'a loaf of pork banh mi'",
           "options": [
-            "một bát phở bò (Identify and classify staple Vietnamese food (U6))",
-            "một đĩa cơm gà (Identify and classify staple Vietnamese food (U6))",
-            "một ly sinh tố (Identify and classify staple Vietnamese food (U6))",
-            "một ổ bánh mì thịt heo (Identify and classify staple Vietnamese food (U6))"
+            "một bát phở bò (Identify and classify staple Vietnamese food)",
+            "một đĩa cơm gà (Identify and classify staple Vietnamese food)",
+            "một ly sinh tố (Identify and classify staple Vietnamese food)",
+            "một ổ bánh mì thịt heo (Identify and classify staple Vietnamese food)"
           ],
           "answerIndex": 3,
           "explanation": "bánh mì thịt heo = pork baguette sandwich."
@@ -4595,10 +4595,10 @@
         {
           "prompt": "Which iconic noodle soup is traditionally associated with Hanoi?",
           "options": [
-            "Bún bò Huế (Identify and classify staple Vietnamese food (U6))",
-            "Hủ tiếu Nam Vang (Identify and classify staple Vietnamese food (U6))",
-            "Mì Quảng (Identify and classify staple Vietnamese food (U6))",
-            "Phở bò và Bún chả (Identify and classify staple Vietnamese food (U6))"
+            "Bún bò Huế (Identify and classify staple Vietnamese food)",
+            "Hủ tiếu Nam Vang (Identify and classify staple Vietnamese food)",
+            "Mì Quảng (Identify and classify staple Vietnamese food)",
+            "Phở bò và Bún chả (Identify and classify staple Vietnamese food)"
           ],
           "answerIndex": 3,
           "explanation": "Phở and Bún chả are the historic specialties of Hanoi."
@@ -4610,10 +4610,10 @@
         {
           "prompt": "Match the Vietnamese foods: cơm, phở, bánh mì, trà đá:",
           "options": [
-            "fried fish, beef stew, milk coffee, water (Identify and classify staple Vietnamese food (U6))",
-            "fried chicken, soup, bread roll, coconut (Identify and classify staple Vietnamese food (U6))",
-            "pork chop, salad, noodles, beer (Identify and classify staple Vietnamese food (U6))",
-            "cooked rice, noodle soup, baguette sandwich, iced tea (Identify and classify staple Vietnamese food (U6))"
+            "fried fish, beef stew, milk coffee, water (Identify and classify staple Vietnamese food)",
+            "fried chicken, soup, bread roll, coconut (Identify and classify staple Vietnamese food)",
+            "pork chop, salad, noodles, beer (Identify and classify staple Vietnamese food)",
+            "cooked rice, noodle soup, baguette sandwich, iced tea (Identify and classify staple Vietnamese food)"
           ],
           "answerIndex": 3,
           "explanation": "Core Vietnamese culinary staples.",
@@ -4622,10 +4622,10 @@
         {
           "prompt": "Translate: 'Cho em một đĩa cơm tấm sườn trứng và một ly trà đá ạ.'",
           "options": [
-            "Please give me a bowl of beef noodle soup and hot coffee. (Identify and classify staple Vietnamese food (U6))",
-            "We do not eat pork and eggs. (Identify and classify staple Vietnamese food (U6))",
-            "Please give me a plate of broken rice with pork rib and egg, and a glass of iced tea. (Identify and classify staple Vietnamese food (U6))",
-            "Where can I buy fresh bread? (Identify and classify staple Vietnamese food (U6))"
+            "Please give me a bowl of beef noodle soup and hot coffee. (Identify and classify staple Vietnamese food)",
+            "We do not eat pork and eggs. (Identify and classify staple Vietnamese food)",
+            "Please give me a plate of broken rice with pork rib and egg, and a glass of iced tea. (Identify and classify staple Vietnamese food)",
+            "Where can I buy fresh bread? (Identify and classify staple Vietnamese food)"
           ],
           "answerIndex": 2,
           "explanation": "cơm tấm sườn trứng = broken rice with rib and egg, ly trà đá = glass of iced tea.",
@@ -4634,10 +4634,10 @@
         {
           "prompt": "What does 'thịt lợn' mean in Northern Vietnam and what is its Southern equivalent?",
           "options": [
-            "Beef; Southern equivalent is 'thịt bò' (Identify and classify staple Vietnamese food (U6))",
-            "Pork; Southern equivalent is 'thịt heo' (Identify and classify staple Vietnamese food (U6))",
-            "Duck; Southern equivalent is 'thịt vịt' (Identify and classify staple Vietnamese food (U6))",
-            "Chicken; Southern equivalent is 'thịt gà' (Identify and classify staple Vietnamese food (U6))"
+            "Beef; Southern equivalent is 'thịt bò' (Identify and classify staple Vietnamese food)",
+            "Pork; Southern equivalent is 'thịt heo' (Identify and classify staple Vietnamese food)",
+            "Duck; Southern equivalent is 'thịt vịt' (Identify and classify staple Vietnamese food)",
+            "Chicken; Southern equivalent is 'thịt gà' (Identify and classify staple Vietnamese food)"
           ],
           "answerIndex": 1,
           "explanation": "thịt lợn (North) = thịt heo (South) = pork.",
@@ -4646,10 +4646,10 @@
         {
           "prompt": "How do you say 'fresh coconut water' in Vietnamese?",
           "options": [
-            "nước dừa (Identify and classify staple Vietnamese food (U6))",
-            "nước chanh (Identify and classify staple Vietnamese food (U6))",
-            "nước khoáng (Identify and classify staple Vietnamese food (U6))",
-            "nước cam (Identify and classify staple Vietnamese food (U6))"
+            "nước dừa (Identify and classify staple Vietnamese food)",
+            "nước chanh (Identify and classify staple Vietnamese food)",
+            "nước khoáng (Identify and classify staple Vietnamese food)",
+            "nước cam (Identify and classify staple Vietnamese food)"
           ],
           "answerIndex": 0,
           "explanation": "nước dừa = coconut water.",
@@ -4703,10 +4703,10 @@
         {
           "prompt": "How do you call the server to order in a Vietnamese restaurant?",
           "options": [
-            "Em ơi, cho anh/chị gọi món! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Không có tiền! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Tôi ghét ăn! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Đi về đi! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))"
+            "Em ơi, cho anh/chị gọi món! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Không có tiền! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Tôi ghét ăn! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Đi về đi! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)"
           ],
           "answerIndex": 0,
           "explanation": "'Em ơi!' is the polite and universal call to a server."
@@ -4714,10 +4714,10 @@
         {
           "prompt": "How do you say 'The bill, please!' in Vietnamese?",
           "options": [
-            "Em ơi, tính tiền! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Em ơi, đi ngủ! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Em ơi, mở cửa! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Em ơi, nấu cơm! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))"
+            "Em ơi, tính tiền! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Em ơi, đi ngủ! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Em ơi, mở cửa! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Em ơi, nấu cơm! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)"
           ],
           "answerIndex": 0,
           "explanation": "'tính tiền' or 'thanh toán' means calculate/settle the bill."
@@ -4729,10 +4729,10 @@
         {
           "prompt": "Translate: 'How much does it cost in total?'",
           "options": [
-            "Bao nhiêu người ăn? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Mấy giờ đóng cửa? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Tất cả hết bao nhiêu tiền ạ? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Ở đây có wifi không? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))"
+            "Bao nhiêu người ăn? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Mấy giờ đóng cửa? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Tất cả hết bao nhiêu tiền ạ? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Ở đây có wifi không? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)"
           ],
           "answerIndex": 2,
           "explanation": "Hết bao nhiêu tiền = How much money in total?"
@@ -4740,10 +4740,10 @@
         {
           "prompt": "Translate: 'Cho em xin hóa đơn.'",
           "options": [
-            "Please bring more food. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Please change my table. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Please bring ice. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Please give me the receipt/invoice. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))"
+            "Please bring more food. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Please change my table. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Please bring ice. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Please give me the receipt/invoice. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)"
           ],
           "answerIndex": 3,
           "explanation": "hóa đơn = receipt / invoice."
@@ -4755,10 +4755,10 @@
         {
           "prompt": "What is the polite and culturally standard way to ask for the bill at a Vietnamese restaurant?",
           "options": [
-            "Cửa hàng này đắt quá tôi đi về. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Tiền ở đâu? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Em ơi, tính tiền cho bàn anh/chị nhé! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Tôi muốn ăn thêm mà không trả tiền. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))"
+            "Cửa hàng này đắt quá tôi đi về. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Tiền ở đâu? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Em ơi, tính tiền cho bàn anh/chị nhé! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Tôi muốn ăn thêm mà không trả tiền. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)"
           ],
           "answerIndex": 2,
           "explanation": "'tính tiền' / 'thanh toán' is the standard check request.",
@@ -4767,10 +4767,10 @@
         {
           "prompt": "Translate: 'Em ơi, cho chị hai cốc nước chanh đá và một đĩa nem cuốn.'",
           "options": [
-            "We don't want lemonade. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Excuse me, give me two glasses of iced lemonade and a plate of fresh spring rolls. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Where is the lemonade store? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Excuse me, give me hot tea and fried rice. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))"
+            "We don't want lemonade. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Excuse me, give me two glasses of iced lemonade and a plate of fresh spring rolls. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Where is the lemonade store? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Excuse me, give me hot tea and fried rice. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)"
           ],
           "answerIndex": 1,
           "explanation": "nước chanh đá = iced lemonade, nem cuốn = fresh spring rolls.",
@@ -4779,10 +4779,10 @@
         {
           "prompt": "What does 'gọi món' mean?",
           "options": [
-            "To order dishes / order food (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "To cook food (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "To pay for food (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "To wash dishes (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))"
+            "To order dishes / order food (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "To cook food (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "To pay for food (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "To wash dishes (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)"
           ],
           "answerIndex": 0,
           "explanation": "gọi món = to order food.",
@@ -4791,10 +4791,10 @@
         {
           "prompt": "How do you ask for the menu politely?",
           "options": [
-            "Thực đơn ở đâu thế? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Tôi không cần đọc thực đơn. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Đưa tiền đây! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))",
-            "Cho em xem thực đơn với ạ! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch (U6))"
+            "Thực đơn ở đâu thế? (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Tôi không cần đọc thực đơn. (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Đưa tiền đây! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)",
+            "Cho em xem thực đơn với ạ! (Order meals in Vietnamese street stalls and restaurants using polite pronoun calling frames Em i cho anhch)"
           ],
           "answerIndex": 3,
           "explanation": "thực đơn / menu = the menu.",
@@ -4848,10 +4848,10 @@
         {
           "prompt": "How do you request your coffee with 'no sugar'?",
           "options": [
-            "cho nhiều đường (Customize food and drink orders with dietary restrictions (U6))",
-            "không cho cà phê (Customize food and drink orders with dietary restrictions (U6))",
-            "không cho đá (Customize food and drink orders with dietary restrictions (U6))",
-            "không cho đường (Customize food and drink orders with dietary restrictions (U6))"
+            "cho nhiều đường (Customize food and drink orders with dietary restrictions)",
+            "không cho cà phê (Customize food and drink orders with dietary restrictions)",
+            "không cho đá (Customize food and drink orders with dietary restrictions)",
+            "không cho đường (Customize food and drink orders with dietary restrictions)"
           ],
           "answerIndex": 3,
           "explanation": "không cho đường = do not add sugar."
@@ -4859,10 +4859,10 @@
         {
           "prompt": "How do you state 'I am vegetarian' in Vietnamese?",
           "options": [
-            "Tôi ăn mặn. (Customize food and drink orders with dietary restrictions (U6))",
-            "Tôi ăn cay. (Customize food and drink orders with dietary restrictions (U6))",
-            "Tôi ăn nhiều thịt. (Customize food and drink orders with dietary restrictions (U6))",
-            "Tôi ăn chay. (Customize food and drink orders with dietary restrictions (U6))"
+            "Tôi ăn mặn. (Customize food and drink orders with dietary restrictions)",
+            "Tôi ăn cay. (Customize food and drink orders with dietary restrictions)",
+            "Tôi ăn nhiều thịt. (Customize food and drink orders with dietary restrictions)",
+            "Tôi ăn chay. (Customize food and drink orders with dietary restrictions)"
           ],
           "answerIndex": 3,
           "explanation": "ăn chay = to eat vegetarian."
@@ -4874,10 +4874,10 @@
         {
           "prompt": "Translate: 'Please don't put chili, I cannot eat spicy food.'",
           "options": [
-            "Không cho ớt nhé, tôi không ăn cay được. (Customize food and drink orders with dietary restrictions (U6))",
-            "Cho nhiều ớt nhé, tôi thích ăn cay. (Customize food and drink orders with dietary restrictions (U6))",
-            "Không cho rau, tôi ăn thịt. (Customize food and drink orders with dietary restrictions (U6))",
-            "Không cho nước, tôi uống bia. (Customize food and drink orders with dietary restrictions (U6))"
+            "Không cho ớt nhé, tôi không ăn cay được. (Customize food and drink orders with dietary restrictions)",
+            "Cho nhiều ớt nhé, tôi thích ăn cay. (Customize food and drink orders with dietary restrictions)",
+            "Không cho rau, tôi ăn thịt. (Customize food and drink orders with dietary restrictions)",
+            "Không cho nước, tôi uống bia. (Customize food and drink orders with dietary restrictions)"
           ],
           "answerIndex": 0,
           "explanation": "không cho ớt = no chili, không ăn cay được = cannot eat spicy."
@@ -4885,10 +4885,10 @@
         {
           "prompt": "Translate: 'cho thêm rau sống'",
           "options": [
-            "give extra fresh herbs/greens (Customize food and drink orders with dietary restrictions (U6))",
-            "don't give vegetables (Customize food and drink orders with dietary restrictions (U6))",
-            "cook the vegetables (Customize food and drink orders with dietary restrictions (U6))",
-            "vegetables are expensive (Customize food and drink orders with dietary restrictions (U6))"
+            "give extra fresh herbs/greens (Customize food and drink orders with dietary restrictions)",
+            "don't give vegetables (Customize food and drink orders with dietary restrictions)",
+            "cook the vegetables (Customize food and drink orders with dietary restrictions)",
+            "vegetables are expensive (Customize food and drink orders with dietary restrictions)"
           ],
           "answerIndex": 0,
           "explanation": "cho thêm = give extra, rau sống = fresh herbs."
@@ -4900,10 +4900,10 @@
         {
           "prompt": "How do you tell a street coffee vendor 'Less condensed milk and less ice' in Vietnamese?",
           "options": [
-            "nhiều đường và nóng (Customize food and drink orders with dietary restrictions (U6))",
-            "ít sữa và ít đá (Customize food and drink orders with dietary restrictions (U6))",
-            "nhiều sữa và nhiều đá (Customize food and drink orders with dietary restrictions (U6))",
-            "không cà phê (Customize food and drink orders with dietary restrictions (U6))"
+            "nhiều đường và nóng (Customize food and drink orders with dietary restrictions)",
+            "ít sữa và ít đá (Customize food and drink orders with dietary restrictions)",
+            "nhiều sữa và nhiều đá (Customize food and drink orders with dietary restrictions)",
+            "không cà phê (Customize food and drink orders with dietary restrictions)"
           ],
           "answerIndex": 1,
           "explanation": "ít sữa (less milk) + ít đá (less ice).",
@@ -4912,10 +4912,10 @@
         {
           "prompt": "Translate: 'Quán này có đồ ăn chay không ạ?'",
           "options": [
-            "Does this eatery have vegetarian food? (Customize food and drink orders with dietary restrictions (U6))",
-            "Where is the vegetarian market? (Customize food and drink orders with dietary restrictions (U6))",
-            "Is this eatery open for dinner? (Customize food and drink orders with dietary restrictions (U6))",
-            "How much is the food here? (Customize food and drink orders with dietary restrictions (U6))"
+            "Does this eatery have vegetarian food? (Customize food and drink orders with dietary restrictions)",
+            "Where is the vegetarian market? (Customize food and drink orders with dietary restrictions)",
+            "Is this eatery open for dinner? (Customize food and drink orders with dietary restrictions)",
+            "How much is the food here? (Customize food and drink orders with dietary restrictions)"
           ],
           "answerIndex": 0,
           "explanation": "đồ ăn chay = vegetarian food.",
@@ -4924,10 +4924,10 @@
         {
           "prompt": "What does 'không cho mì chính' mean when ordering soup?",
           "options": [
-            "Do not add meat (Customize food and drink orders with dietary restrictions (U6))",
-            "Do not add salt (Customize food and drink orders with dietary restrictions (U6))",
-            "Do not add noodles (Customize food and drink orders with dietary restrictions (U6))",
-            "Do not add MSG (Customize food and drink orders with dietary restrictions (U6))"
+            "Do not add meat (Customize food and drink orders with dietary restrictions)",
+            "Do not add salt (Customize food and drink orders with dietary restrictions)",
+            "Do not add noodles (Customize food and drink orders with dietary restrictions)",
+            "Do not add MSG (Customize food and drink orders with dietary restrictions)"
           ],
           "answerIndex": 3,
           "explanation": "mì chính / bột ngọt = MSG.",
@@ -4936,10 +4936,10 @@
         {
           "prompt": "On which lunar calendar days do many Vietnamese traditionally eat vegetarian (*ăn chay*)?",
           "options": [
-            "Only on birthdays (Customize food and drink orders with dietary restrictions (U6))",
-            "Only on Saturdays (Customize food and drink orders with dietary restrictions (U6))",
-            "The 1st (Customize food and drink orders with dietary restrictions (U6))",
-            "Every morning before noon (Customize food and drink orders with dietary restrictions (U6))"
+            "Only on birthdays (Customize food and drink orders with dietary restrictions)",
+            "Only on Saturdays (Customize food and drink orders with dietary restrictions)",
+            "The 1st (Customize food and drink orders with dietary restrictions)",
+            "Every morning before noon (Customize food and drink orders with dietary restrictions)"
           ],
           "answerIndex": 2,
           "explanation": "Lunar 1st and 15th are traditional vegetarian days.",
@@ -4993,10 +4993,10 @@
         {
           "prompt": "What does 'ngon' mean in Vietnamese?",
           "options": [
-            "cold (Describe taste profiles (U6))",
-            "delicious / tasty (Describe taste profiles (U6))",
-            "expensive (Describe taste profiles (U6))",
-            "spicy (Describe taste profiles (U6))"
+            "cold (Describe taste profiles)",
+            "delicious / tasty (Describe taste profiles)",
+            "expensive (Describe taste profiles)",
+            "spicy (Describe taste profiles)"
           ],
           "answerIndex": 1,
           "explanation": "ngon = delicious."
@@ -5004,10 +5004,10 @@
         {
           "prompt": "How do you say 'This soup is very spicy' in Vietnamese?",
           "options": [
-            "Món canh này rất cay. (Describe taste profiles (U6))",
-            "Món canh này rất lạnh. (Describe taste profiles (U6))",
-            "Món canh này không có vị. (Describe taste profiles (U6))",
-            "Món canh này rất ngọt. (Describe taste profiles (U6))"
+            "Món canh này rất cay. (Describe taste profiles)",
+            "Món canh này rất lạnh. (Describe taste profiles)",
+            "Món canh này không có vị. (Describe taste profiles)",
+            "Món canh này rất ngọt. (Describe taste profiles)"
           ],
           "answerIndex": 0,
           "explanation": "cay = spicy."
@@ -5019,10 +5019,10 @@
         {
           "prompt": "Translate: 'The baguette is crispy and the vegetables are fresh.'",
           "options": [
-            "Bánh mì giòn và rau rất tươi. (Describe taste profiles (U6))",
-            "Bánh mì ngọt và không có rau. (Describe taste profiles (U6))",
-            "Bánh mì mềm và rau cũ. (Describe taste profiles (U6))",
-            "Bánh mì mặn và rau đắng. (Describe taste profiles (U6))"
+            "Bánh mì giòn và rau rất tươi. (Describe taste profiles)",
+            "Bánh mì ngọt và không có rau. (Describe taste profiles)",
+            "Bánh mì mềm và rau cũ. (Describe taste profiles)",
+            "Bánh mì mặn và rau đắng. (Describe taste profiles)"
           ],
           "answerIndex": 0,
           "explanation": "giòn = crispy, tươi = fresh."
@@ -5030,10 +5030,10 @@
         {
           "prompt": "What is the five-flavor balance concept called in Vietnamese culinary philosophy?",
           "options": [
-            "Ngũ vị (Describe taste profiles (U6))",
-            "Bát quái (Describe taste profiles (U6))",
-            "Ngũ hành (Describe taste profiles (U6))",
-            "Tam hợp (Describe taste profiles (U6))"
+            "Ngũ vị (Describe taste profiles)",
+            "Bát quái (Describe taste profiles)",
+            "Ngũ hành (Describe taste profiles)",
+            "Tam hợp (Describe taste profiles)"
           ],
           "answerIndex": 0,
           "explanation": "ngũ vị represents the five taste elements."
@@ -5045,10 +5045,10 @@
         {
           "prompt": "Match the Vietnamese taste adjectives: ngọt, mặn, chua, cay, đắng:",
           "options": [
-            "sweet, salty, sour, spicy, bitter (Describe taste profiles (U6))",
-            "hot, cold, dry, oily, fresh (Describe taste profiles (U6))",
-            "cooked, raw, boiled, grilled, steamed (Describe taste profiles (U6))",
-            "cheap, expensive, big, small, fast (Describe taste profiles (U6))"
+            "sweet, salty, sour, spicy, bitter (Describe taste profiles)",
+            "hot, cold, dry, oily, fresh (Describe taste profiles)",
+            "cooked, raw, boiled, grilled, steamed (Describe taste profiles)",
+            "cheap, expensive, big, small, fast (Describe taste profiles)"
           ],
           "answerIndex": 0,
           "explanation": "The fundamental five flavors.",
@@ -5057,10 +5057,10 @@
         {
           "prompt": "Translate: 'Nước mắm Phú Quốc rất đậm đà và ngon nổi tiếng.'",
           "options": [
-            "Fish sauce is very cold. (Describe taste profiles (U6))",
-            "Phu Quoc fish sauce is sweet and expensive. (Describe taste profiles (U6))",
-            "We don't use fish sauce in Vietnam. (Describe taste profiles (U6))",
-            "Phu Quoc fish sauce is very rich in flavor and famously delicious. (Describe taste profiles (U6))"
+            "Fish sauce is very cold. (Describe taste profiles)",
+            "Phu Quoc fish sauce is sweet and expensive. (Describe taste profiles)",
+            "We don't use fish sauce in Vietnam. (Describe taste profiles)",
+            "Phu Quoc fish sauce is very rich in flavor and famously delicious. (Describe taste profiles)"
           ],
           "answerIndex": 3,
           "explanation": "đậm đà = flavorful/rich, ngon nổi tiếng = famously delicious.",
@@ -5069,10 +5069,10 @@
         {
           "prompt": "What does 'Ngon quá!' express when eating?",
           "options": [
-            "The food is bad. (Describe taste profiles (U6))",
-            "I'm full, stop. (Describe taste profiles (U6))",
-            "So delicious! / It's awesome! (Describe taste profiles (U6))",
-            "Where is my drink? (Describe taste profiles (U6))"
+            "The food is bad. (Describe taste profiles)",
+            "I'm full, stop. (Describe taste profiles)",
+            "So delicious! / It's awesome! (Describe taste profiles)",
+            "Where is my drink? (Describe taste profiles)"
           ],
           "answerIndex": 2,
           "explanation": "'Ngon quá!' is the universal spontaneous exclamation of deliciousness.",
@@ -5138,10 +5138,10 @@
         {
           "prompt": "In the dialogue, what specialty dish and side do Nam and Mai order in Hanoi?",
           "options": [
-            "Hai suất bún chả đặc biệt, nem cua bể rán giòn và trà đá (Synthesize food vocabulary (U6))",
-            "Hai bát phở gà và cà phê (Synthesize food vocabulary (U6))",
-            "Cơm tấm và nước dừa (Synthesize food vocabulary (U6))",
-            "Bánh mì trứng (Synthesize food vocabulary (U6))"
+            "Hai suất bún chả đặc biệt, nem cua bể rán giòn và trà đá (Synthesize food vocabulary)",
+            "Hai bát phở gà và cà phê (Synthesize food vocabulary)",
+            "Cơm tấm và nước dừa (Synthesize food vocabulary)",
+            "Bánh mì trứng (Synthesize food vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "They order special bun cha, crispy crab spring rolls, and iced tea."
@@ -5149,10 +5149,10 @@
         {
           "prompt": "How does Mai customize her dipping sauce in the dialogue?",
           "options": [
-            "Đừng cho ớt vì ăn cay kém (Synthesize food vocabulary (U6))",
-            "Cho thật nhiều ớt (Synthesize food vocabulary (U6))",
-            "Không lấy nước chấm (Synthesize food vocabulary (U6))",
-            "Cho nhiều đường (Synthesize food vocabulary (U6))"
+            "Đừng cho ớt vì ăn cay kém (Synthesize food vocabulary)",
+            "Cho thật nhiều ớt (Synthesize food vocabulary)",
+            "Không lấy nước chấm (Synthesize food vocabulary)",
+            "Cho nhiều đường (Synthesize food vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "Mai asks for no chili in her sauce."
@@ -5164,10 +5164,10 @@
         {
           "prompt": "Translate: 'Keep the change, the food was wonderful!'",
           "options": [
-            "Đồ ăn dở quá không trả tiền! (Synthesize food vocabulary (U6))",
-            "Khỏi thối lại nhé, đồ ăn ngon tuyệt vời! (Synthesize food vocabulary (U6))",
-            "Tôi không có tiền lẻ. (Synthesize food vocabulary (U6))",
-            "Trả lại tiền cho tôi mau! (Synthesize food vocabulary (U6))"
+            "Đồ ăn dở quá không trả tiền! (Synthesize food vocabulary)",
+            "Khỏi thối lại nhé, đồ ăn ngon tuyệt vời! (Synthesize food vocabulary)",
+            "Tôi không có tiền lẻ. (Synthesize food vocabulary)",
+            "Trả lại tiền cho tôi mau! (Synthesize food vocabulary)"
           ],
           "answerIndex": 1,
           "explanation": "Khỏi thối lại = Keep the change, ngon tuyệt vời = wonderful."
@@ -5175,10 +5175,10 @@
         {
           "prompt": "What famous Hanoi specialty coffee is made with whipped egg yolks, sugar, and condensed milk?",
           "options": [
-            "Cà phê cốt dừa (Synthesize food vocabulary (U6))",
-            "Cà phê trứng (Synthesize food vocabulary (U6))",
-            "Cà phê phin đen (Synthesize food vocabulary (U6))",
-            "Cà phê muối (Synthesize food vocabulary (U6))"
+            "Cà phê cốt dừa (Synthesize food vocabulary)",
+            "Cà phê trứng (Synthesize food vocabulary)",
+            "Cà phê phin đen (Synthesize food vocabulary)",
+            "Cà phê muối (Synthesize food vocabulary)"
           ],
           "answerIndex": 1,
           "explanation": "Cà phê trứng is Hanoi's signature egg coffee."
@@ -5190,10 +5190,10 @@
         {
           "prompt": "Which sentence demonstrates accurate Vietnamese street dining ordering, customization, and check settlement?",
           "options": [
-            "Tôi muốn ăn bún chả mà không trả tiền em ơi. (Synthesize food vocabulary (U6))",
-            "Tính tiền trước khi nấu ăn em ơi. (Synthesize food vocabulary (U6))",
-            "Bún chả đi về không ăn. (Synthesize food vocabulary (U6))",
-            "Em ơi cho anh hai suất bún chả không ớt, ăn xong tính tiền cho anh nhé! (Synthesize food vocabulary (U6))"
+            "Tôi muốn ăn bún chả mà không trả tiền em ơi. (Synthesize food vocabulary)",
+            "Tính tiền trước khi nấu ăn em ơi. (Synthesize food vocabulary)",
+            "Bún chả đi về không ăn. (Synthesize food vocabulary)",
+            "Em ơi cho anh hai suất bún chả không ớt, ăn xong tính tiền cho anh nhé! (Synthesize food vocabulary)"
           ],
           "answerIndex": 3,
           "explanation": "Natural, grammatically complete Vietnamese dining interaction.",
@@ -5202,10 +5202,10 @@
         {
           "prompt": "What does 'Khỏi thối lại' mean when handing cash to a server or driver?",
           "options": [
-            "Give me all my change back (Synthesize food vocabulary (U6))",
-            "I want a receipt (Synthesize food vocabulary (U6))",
-            "Keep the change / No change needed (Synthesize food vocabulary (U6))",
-            "The price is too high (Synthesize food vocabulary (U6))"
+            "Give me all my change back (Synthesize food vocabulary)",
+            "I want a receipt (Synthesize food vocabulary)",
+            "Keep the change / No change needed (Synthesize food vocabulary)",
+            "The price is too high (Synthesize food vocabulary)"
           ],
           "answerIndex": 2,
           "explanation": "Khỏi thối lại = Keep the change.",
@@ -5214,10 +5214,10 @@
         {
           "prompt": "Translate: 'Nước chấm bún chả chua chua ngọt ngọt rất vừa miệng.'",
           "options": [
-            "The dipping sauce is bitter and unappetizing. (Synthesize food vocabulary (U6))",
-            "The bun cha dipping sauce is pleasantly sweet and sour, very well-balanced. (Synthesize food vocabulary (U6))",
-            "We don't use dipping sauce with bun cha. (Synthesize food vocabulary (U6))",
-            "The dipping sauce is too salty and spicy. (Synthesize food vocabulary (U6))"
+            "The dipping sauce is bitter and unappetizing. (Synthesize food vocabulary)",
+            "The bun cha dipping sauce is pleasantly sweet and sour, very well-balanced. (Synthesize food vocabulary)",
+            "We don't use dipping sauce with bun cha. (Synthesize food vocabulary)",
+            "The dipping sauce is too salty and spicy. (Synthesize food vocabulary)"
           ],
           "answerIndex": 1,
           "explanation": "chua chua ngọt ngọt = sweet and sour, vừa miệng = well-balanced / appetizing.",
@@ -5226,10 +5226,10 @@
         {
           "prompt": "What essential communicative and cultural competencies were mastered across Unit 6 in Vietnamese?",
           "options": [
-            "Food & drink staples, polite street ordering frames (Synthesize food vocabulary (U6))",
-            "Passive voice particle declensions only (Synthesize food vocabulary (U6))",
-            "Alphabet pronunciation only (Synthesize food vocabulary (U6))",
-            "Classical Chữ Nôm poetry reading only (Synthesize food vocabulary (U6))"
+            "Food & drink staples, polite street ordering frames (Synthesize food vocabulary)",
+            "Passive voice particle declensions only (Synthesize food vocabulary)",
+            "Alphabet pronunciation only (Synthesize food vocabulary)",
+            "Classical Chữ Nôm poetry reading only (Synthesize food vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "Unit 6 comprehensive dining, street food, and hospitality synthesis.",
@@ -5277,10 +5277,10 @@
         {
           "prompt": "Where does the past marker 'đã' go in relation to the verb 'mua' (to buy)?",
           "options": [
-            "After the verb: 'mua đã' (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "At the end of the sentence only (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "At the very beginning of the sentence (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Directly before the verb: 'đã mua' (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))"
+            "After the verb: 'mua đã' (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "At the end of the sentence only (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "At the very beginning of the sentence (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Directly before the verb: 'đã mua' (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)"
           ],
           "answerIndex": 3,
           "explanation": "'Đã' is a pre-verbal tense-aspect marker (đã + verb)."
@@ -5288,10 +5288,10 @@
         {
           "prompt": "Translate: 'Hôm qua tôi ăn phở bò.'",
           "options": [
-            "I never eat pho. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "I want beef pho now. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Yesterday I ate beef pho. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "I will eat beef pho tomorrow. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))"
+            "I never eat pho. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "I want beef pho now. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Yesterday I ate beef pho. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "I will eat beef pho tomorrow. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)"
           ],
           "answerIndex": 2,
           "explanation": "In natural Vietnamese, explicit time words like 'hôm qua' establish past tense without strictly requiring 'đã'."
@@ -5303,10 +5303,10 @@
         {
           "prompt": "Translate: 'Tuần trước họ đã đặt phòng khách sạn ở gần biển Mỹ Khê.'",
           "options": [
-            "They will book a hotel room next week. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "My Khe beach is very crowded. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "They didn't like the hotel room. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Last week they booked a hotel room near My Khe beach. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))"
+            "They will book a hotel room next week. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "My Khe beach is very crowded. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "They didn't like the hotel room. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Last week they booked a hotel room near My Khe beach. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)"
           ],
           "answerIndex": 3,
           "explanation": "Tuần trước = last week; đã đặt phòng = booked a room."
@@ -5314,10 +5314,10 @@
         {
           "prompt": "Which sentence correctly says 'I have worked here for two years'?",
           "options": [
-            "Tôi làm việc ở đây đã hai năm. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Tôi sẽ làm việc ở đây hai năm. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Tôi đang làm việc ở đây hai năm. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Tôi đã làm việc ở đây hai năm. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))"
+            "Tôi làm việc ở đây đã hai năm. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Tôi sẽ làm việc ở đây hai năm. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Tôi đang làm việc ở đây hai năm. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Tôi đã làm việc ở đây hai năm. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)"
           ],
           "answerIndex": 3,
           "explanation": "Tôi đã làm việc... (đã + verb)."
@@ -5329,10 +5329,10 @@
         {
           "prompt": "Match the tense-aspect markers in Vietnamese: đã, đang, sẽ:",
           "options": [
-            "đã: future | đang: past | sẽ: continuous (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "All mean 'yesterday' (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
+            "đã: future | đang: past | sẽ: continuous (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "All mean 'yesterday' (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
             "đã: past (completed)",
-            "All mean 'now' (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))"
+            "All mean 'now' (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)"
           ],
           "answerIndex": 2,
           "explanation": "đã (past), đang (continuous), sẽ (future).",
@@ -5341,10 +5341,10 @@
         {
           "prompt": "Translate: 'Chúng tôi đã xem pháo hoa ở Cầu Rồng tối qua.'",
           "options": [
-            "Tomorrow we will watch fireworks. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "We watched fireworks at Dragon Bridge last night. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "We didn't see Dragon Bridge. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Dragon Bridge is closed at night. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))"
+            "Tomorrow we will watch fireworks. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "We watched fireworks at Dragon Bridge last night. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "We didn't see Dragon Bridge. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Dragon Bridge is closed at night. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)"
           ],
           "answerIndex": 1,
           "explanation": "đã xem = watched; Cầu Rồng = Dragon Bridge (Da Nang); tối qua = last night.",
@@ -5353,10 +5353,10 @@
         {
           "prompt": "Why is Vietnamese past tense grammar considered straightforward for learners?",
           "options": [
-            "Because verbs never change their form or take inflections; tense is indicated simply by adding particles like 'đã' or time words. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Because all verbs end in -ed. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Because there are only 5 verbs. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "Because Vietnamese has no past tense. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))"
+            "Because verbs never change their form or take inflections; tense is indicated simply by adding particles like 'đã' or time words. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Because all verbs end in -ed. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Because there are only 5 verbs. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "Because Vietnamese has no past tense. (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)"
           ],
           "answerIndex": 0,
           "explanation": "Vietnamese relies on particle markers rather than morphological conjugation.",
@@ -5365,10 +5365,10 @@
         {
           "prompt": "Complete the sentence: 'Hôm qua anh ấy _______ (go) Hà Nội bằng máy bay.'",
           "options": [
-            "muốn đi (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "đang đi (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "sẽ đi (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))",
-            "đã đi (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words (U7))"
+            "muốn đi (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "đang đi (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "sẽ đi (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)",
+            "đã đi (Use the preverbal past aspect marker  to indicate completed past actions and understand when  is used versus when it is omitted due to explicit time words)"
           ],
           "answerIndex": 3,
           "explanation": "đã đi marks completed past travel.",
@@ -5416,10 +5416,10 @@
         {
           "prompt": "Where is the particle 'rồi' placed in a sentence?",
           "options": [
-            "At the end of the clause or sentence (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "At the very beginning (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Before the subject (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Between the subject and verb (Apply the sentencefinal completion particle ri and the emphatic construction (U7))"
+            "At the end of the clause or sentence (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "At the very beginning (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Before the subject (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Between the subject and verb (Apply the sentencefinal completion particle ri and the emphatic construction)"
           ],
           "answerIndex": 0,
           "explanation": "'Rồi' is a sentence-final aspectual particle."
@@ -5427,10 +5427,10 @@
         {
           "prompt": "How do you say 'I already bought the tickets' with emphasis?",
           "options": [
-            "Tôi đã mua vé rồi. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Tôi rồi mua vé đã. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Tôi sẽ mua vé. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Tôi mua đã vé rồi. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))"
+            "Tôi đã mua vé rồi. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Tôi rồi mua vé đã. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Tôi sẽ mua vé. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Tôi mua đã vé rồi. (Apply the sentencefinal completion particle ri and the emphatic construction)"
           ],
           "answerIndex": 0,
           "explanation": "Đã + verb + object + rồi: 'Tôi đã mua vé rồi.'"
@@ -5442,10 +5442,10 @@
         {
           "prompt": "Translate: 'Máy bay hạ cánh xuống sân bay Đà Nẵng rồi.'",
           "options": [
-            "The plane is taking off from Da Nang. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Da Nang airport is closed. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "The plane has already landed at Da Nang airport. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "The flight to Da Nang is delayed. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))"
+            "The plane is taking off from Da Nang. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Da Nang airport is closed. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "The plane has already landed at Da Nang airport. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "The flight to Da Nang is delayed. (Apply the sentencefinal completion particle ri and the emphatic construction)"
           ],
           "answerIndex": 2,
           "explanation": "hạ cánh = land; rồi = already."
@@ -5453,10 +5453,10 @@
         {
           "prompt": "What does 'Ăn xong rồi' mean?",
           "options": [
-            "Starting to eat (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Hungry (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Want to eat more (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Finished eating completely / All done eating (Apply the sentencefinal completion particle ri and the emphatic construction (U7))"
+            "Starting to eat (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Hungry (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Want to eat more (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Finished eating completely / All done eating (Apply the sentencefinal completion particle ri and the emphatic construction)"
           ],
           "answerIndex": 3,
           "explanation": "xong rồi = finished / completed."
@@ -5468,10 +5468,10 @@
         {
           "prompt": "Match the phrases to their meanings: ăn rồi, làm xong rồi, đi rồi, đến rồi:",
           "options": [
-            "All mean 'hungry' (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "ăn rồi: already ate | làm xong rồi: finished working | đi rồi: already left/went | đến rồi: already arrived (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "All mean 'hello' (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "All mean 'will go tomorrow' (Apply the sentencefinal completion particle ri and the emphatic construction (U7))"
+            "All mean 'hungry' (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "ăn rồi: already ate | làm xong rồi: finished working | đi rồi: already left/went | đến rồi: already arrived (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "All mean 'hello' (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "All mean 'will go tomorrow' (Apply the sentencefinal completion particle ri and the emphatic construction)"
           ],
           "answerIndex": 1,
           "explanation": "Core completion particle usage with common action verbs.",
@@ -5480,10 +5480,10 @@
         {
           "prompt": "Translate: 'Chúng tôi đã thử món mì Quảng và cao lầu rồi, ngon tuyệt vời!'",
           "options": [
-            "We have already tried the mi Quang and cao lau dishes, absolutely delicious! (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "Cao lau is too spicy. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "The noodle shop was closed. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "We want to order noodles tomorrow. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))"
+            "We have already tried the mi Quang and cao lau dishes, absolutely delicious! (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "Cao lau is too spicy. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "The noodle shop was closed. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "We want to order noodles tomorrow. (Apply the sentencefinal completion particle ri and the emphatic construction)"
           ],
           "answerIndex": 0,
           "explanation": "đã thử ... rồi = have already tried; ngon tuyệt vời = absolutely delicious.",
@@ -5492,9 +5492,9 @@
         {
           "prompt": "What is the structural difference between 'đã' and 'rồi'?",
           "options": [
-            "'Rồi' is only for the future. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "'Đã' is only for questions. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "There is no difference. (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
+            "'Rồi' is only for the future. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "'Đã' is only for questions. (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "There is no difference. (Apply the sentencefinal completion particle ri and the emphatic construction)",
             "'Đã' is pre-verbal (placed before the verb)"
           ],
           "answerIndex": 3,
@@ -5504,10 +5504,10 @@
         {
           "prompt": "Complete: 'Anh ơi, em chuẩn bị hành lý _______ (all done/finished)!'",
           "options": [
-            "chưa (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "đang (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "xong rồi (Apply the sentencefinal completion particle ri and the emphatic construction (U7))",
-            "sẽ rồi (Apply the sentencefinal completion particle ri and the emphatic construction (U7))"
+            "chưa (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "đang (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "xong rồi (Apply the sentencefinal completion particle ri and the emphatic construction)",
+            "sẽ rồi (Apply the sentencefinal completion particle ri and the emphatic construction)"
           ],
           "answerIndex": 2,
           "explanation": "chuẩn bị hành lý xong rồi = finished packing the luggage.",
@@ -5555,10 +5555,10 @@
         {
           "prompt": "How do you ask someone 'Have you visited Hoi An yet?' in Vietnamese?",
           "options": [
-            "Bạn đã đi Hội An rồi? (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Bạn không đi Hội An? (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Bạn sẽ đi Hội An không? (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Bạn đã đi Hội An chưa? (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))"
+            "Bạn đã đi Hội An rồi? (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Bạn không đi Hội An? (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Bạn sẽ đi Hội An không? (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Bạn đã đi Hội An chưa? (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)"
           ],
           "answerIndex": 3,
           "explanation": "... chưa? is the question form for 'have you ... yet?'"
@@ -5566,10 +5566,10 @@
         {
           "prompt": "How do you naturally answer 'Not yet' to a '... chưa?' question?",
           "options": [
-            "Không! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Có! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Rồi! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Chưa! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))"
+            "Không! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Có! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Rồi! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Chưa! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)"
           ],
           "answerIndex": 3,
           "explanation": "'Chưa' (or polite 'Dạ chưa') is the standard response for 'not yet'."
@@ -5581,10 +5581,10 @@
         {
           "prompt": "Translate: 'Tôi chưa thử món cao lầu ở Hội An.'",
           "options": [
-            "I haven't tried the cao lau dish in Hoi An yet. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "I don't like cao lau. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Cao lau is very famous in Hoi An. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "I ate cao lau yesterday. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))"
+            "I haven't tried the cao lau dish in Hoi An yet. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "I don't like cao lau. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Cao lau is very famous in Hoi An. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "I ate cao lau yesterday. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)"
           ],
           "answerIndex": 0,
           "explanation": "chưa thử = have not yet tried."
@@ -5593,9 +5593,9 @@
           "prompt": "What is the difference between 'Tôi không đi' and 'Tôi chưa đi'?",
           "options": [
             "'Tôi không đi' means 'I did not go / I'm not going' (definitive non-action)",
-            "'Tôi chưa đi' is in the future. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "'Tôi không đi' means 'I already went'. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "They are identical. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))"
+            "'Tôi chưa đi' is in the future. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "'Tôi không đi' means 'I already went'. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "They are identical. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)"
           ],
           "answerIndex": 0,
           "explanation": "không = absolute negation; chưa = 'not yet' (implying future possibility)."
@@ -5607,10 +5607,10 @@
         {
           "prompt": "What does the question 'Ăn cơm chưa?' represent in Vietnamese social culture?",
           "options": [
-            "A caring daily greeting showing concern for the other person's well-being (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "A restaurant order (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "A formal job interview question (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "An insult (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))"
+            "A caring daily greeting showing concern for the other person's well-being (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "A restaurant order (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "A formal job interview question (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "An insult (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)"
           ],
           "answerIndex": 0,
           "explanation": "'Ăn cơm chưa?' is the universal caring Vietnamese social greeting.",
@@ -5619,10 +5619,10 @@
         {
           "prompt": "Translate: 'Bạn uống cà phê muối chưa? — Mình uống rồi, ngon lắm!'",
           "options": [
-            "Salted coffee is too salty. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "We will drink salted coffee tomorrow. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Do you sell salted coffee? — No, we don't. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Have you drank salted coffee yet? — I already had it, very delicious! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))"
+            "Salted coffee is too salty. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "We will drink salted coffee tomorrow. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Do you sell salted coffee? — No, we don't. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Have you drank salted coffee yet? — I already had it, very delicious! (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)"
           ],
           "answerIndex": 3,
           "explanation": "cà phê muối = salted coffee (central Vietnam specialty); uống rồi = already drank.",
@@ -5631,10 +5631,10 @@
         {
           "prompt": "How do you form a negative past sentence meaning 'We haven't checked into the hotel yet'?",
           "options": [
-            "Chúng tôi không nhận phòng khách sạn rồi. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Chúng tôi sẽ nhận phòng. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Chúng tôi chưa nhận phòng khách sạn. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "Chúng tôi đã nhận phòng chưa. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))"
+            "Chúng tôi không nhận phòng khách sạn rồi. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Chúng tôi sẽ nhận phòng. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Chúng tôi chưa nhận phòng khách sạn. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "Chúng tôi đã nhận phòng chưa. (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)"
           ],
           "answerIndex": 2,
           "explanation": "Chúng tôi chưa nhận phòng (chưa + verb).",
@@ -5643,10 +5643,10 @@
         {
           "prompt": "Complete: 'A: Em tắm biển Mỹ Khê chưa? B: Dạ, em tắm _______ (already)!'",
           "options": [
-            "chưa (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "rồi (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "đang (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))",
-            "không (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the (U7))"
+            "chưa (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "rồi (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "đang (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)",
+            "không (Form past negatives with cha not yet versus khng did not and ask past experiential questions using the)"
           ],
           "answerIndex": 1,
           "explanation": "tắm rồi = already swam.",
@@ -5695,10 +5695,10 @@
         {
           "prompt": "How do you say 'two days ago' in Vietnamese?",
           "options": [
-            "hai ngày nữa (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "cách đây hai ngày (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "mỗi hai ngày (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "sau hai ngày (Deploy Vietnamese past time adverbials hm qua (U7))"
+            "hai ngày nữa (Deploy Vietnamese past time adverbials hm qua)",
+            "cách đây hai ngày (Deploy Vietnamese past time adverbials hm qua)",
+            "mỗi hai ngày (Deploy Vietnamese past time adverbials hm qua)",
+            "sau hai ngày (Deploy Vietnamese past time adverbials hm qua)"
           ],
           "answerIndex": 1,
           "explanation": "cách đây + time phrase = ago."
@@ -5706,10 +5706,10 @@
         {
           "prompt": "What does 'hôm kia' mean in Vietnamese?",
           "options": [
-            "The day before yesterday (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "Yesterday morning (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "Next week (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "Tomorrow evening (Deploy Vietnamese past time adverbials hm qua (U7))"
+            "The day before yesterday (Deploy Vietnamese past time adverbials hm qua)",
+            "Yesterday morning (Deploy Vietnamese past time adverbials hm qua)",
+            "Next week (Deploy Vietnamese past time adverbials hm qua)",
+            "Tomorrow evening (Deploy Vietnamese past time adverbials hm qua)"
           ],
           "answerIndex": 0,
           "explanation": "hôm kia = the day before yesterday."
@@ -5721,10 +5721,10 @@
         {
           "prompt": "Translate: 'Cuối cùng chúng tôi cũng tìm được quán mì Quảng ngon nhất phố cổ.'",
           "options": [
-            "In the end we finally found the most delicious mi Quang shop in the ancient town. (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "We don't eat noodles in the ancient town. (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "We are looking for a noodle shop tomorrow. (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "The noodle shop in the ancient town is closed. (Deploy Vietnamese past time adverbials hm qua (U7))"
+            "In the end we finally found the most delicious mi Quang shop in the ancient town. (Deploy Vietnamese past time adverbials hm qua)",
+            "We don't eat noodles in the ancient town. (Deploy Vietnamese past time adverbials hm qua)",
+            "We are looking for a noodle shop tomorrow. (Deploy Vietnamese past time adverbials hm qua)",
+            "The noodle shop in the ancient town is closed. (Deploy Vietnamese past time adverbials hm qua)"
           ],
           "answerIndex": 0,
           "explanation": "Cuối cùng = in the end / finally; tìm được = managed to find."
@@ -5732,10 +5732,10 @@
         {
           "prompt": "Which connector means 'suddenly' in Vietnamese storytelling?",
           "options": [
-            "đột nhiên (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "hôm qua (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "đầu tiên (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "cuối cùng (Deploy Vietnamese past time adverbials hm qua (U7))"
+            "đột nhiên (Deploy Vietnamese past time adverbials hm qua)",
+            "hôm qua (Deploy Vietnamese past time adverbials hm qua)",
+            "đầu tiên (Deploy Vietnamese past time adverbials hm qua)",
+            "cuối cùng (Deploy Vietnamese past time adverbials hm qua)"
           ],
           "answerIndex": 0,
           "explanation": "đột nhiên / bỗng nhiên = suddenly."
@@ -5747,9 +5747,9 @@
         {
           "prompt": "Arrange the narrative connectors in chronological order from start to finish:",
           "options": [
-            "Sau đó -> Sau đó -> Sau đó -> Hôm qua (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "Cuối cùng -> Đầu tiên -> Sau đó -> Rồi (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "Ngày mai -> Hôm qua -> Hôm nay -> Bây giờ (Deploy Vietnamese past time adverbials hm qua (U7))",
+            "Sau đó -> Sau đó -> Sau đó -> Hôm qua (Deploy Vietnamese past time adverbials hm qua)",
+            "Cuối cùng -> Đầu tiên -> Sau đó -> Rồi (Deploy Vietnamese past time adverbials hm qua)",
+            "Ngày mai -> Hôm qua -> Hôm nay -> Bây giờ (Deploy Vietnamese past time adverbials hm qua)",
             "Đầu tiên (first)"
           ],
           "answerIndex": 3,
@@ -5759,10 +5759,10 @@
         {
           "prompt": "Translate: 'Cuối tuần trước chúng tôi đã đi dạo trên Cầu Vàng ở Bà Nà Hills.'",
           "options": [
-            "The Golden Bridge is closed on weekends. (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "Next weekend we will visit the Golden Bridge. (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "Last weekend we took a walk on the Golden Bridge at Ba Na Hills. (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "We didn't see the Golden Bridge. (Deploy Vietnamese past time adverbials hm qua (U7))"
+            "The Golden Bridge is closed on weekends. (Deploy Vietnamese past time adverbials hm qua)",
+            "Next weekend we will visit the Golden Bridge. (Deploy Vietnamese past time adverbials hm qua)",
+            "Last weekend we took a walk on the Golden Bridge at Ba Na Hills. (Deploy Vietnamese past time adverbials hm qua)",
+            "We didn't see the Golden Bridge. (Deploy Vietnamese past time adverbials hm qua)"
           ],
           "answerIndex": 2,
           "explanation": "Cuối tuần trước = last weekend; Cầu Vàng = Golden Bridge.",
@@ -5771,10 +5771,10 @@
         {
           "prompt": "How do you say 'last year' in Vietnamese?",
           "options": [
-            "năm sau (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "năm ngoái (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "năm nay (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "hai năm nữa (Deploy Vietnamese past time adverbials hm qua (U7))"
+            "năm sau (Deploy Vietnamese past time adverbials hm qua)",
+            "năm ngoái (Deploy Vietnamese past time adverbials hm qua)",
+            "năm nay (Deploy Vietnamese past time adverbials hm qua)",
+            "hai năm nữa (Deploy Vietnamese past time adverbials hm qua)"
           ],
           "answerIndex": 1,
           "explanation": "năm ngoái = last year.",
@@ -5783,10 +5783,10 @@
         {
           "prompt": "Complete: 'Sau một ngày dài đi bộ, _______ chúng tôi đã về đến khách sạn nghỉ ngơi.'",
           "options": [
-            "cuối cùng (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "hôm qua (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "đầu tiên (Deploy Vietnamese past time adverbials hm qua (U7))",
-            "đột nhiên (Deploy Vietnamese past time adverbials hm qua (U7))"
+            "cuối cùng (Deploy Vietnamese past time adverbials hm qua)",
+            "hôm qua (Deploy Vietnamese past time adverbials hm qua)",
+            "đầu tiên (Deploy Vietnamese past time adverbials hm qua)",
+            "đột nhiên (Deploy Vietnamese past time adverbials hm qua)"
           ],
           "answerIndex": 0,
           "explanation": "cuối cùng (finally) fits returning to the hotel after a long day of walking.",
@@ -5835,10 +5835,10 @@
         {
           "prompt": "What famous evening spectacle did Mai watch in Da Nang on Sunday night?",
           "options": [
-            "Dragon Bridge breathing fire and spraying water (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "A magic show (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "An opera (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "A movie premiere (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))"
+            "Dragon Bridge breathing fire and spraying water (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "A magic show (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "An opera (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "A movie premiere (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)"
           ],
           "answerIndex": 0,
           "explanation": "Dragon Bridge breathes fire and sprays water on weekend nights."
@@ -5846,10 +5846,10 @@
         {
           "prompt": "What cultural activity did Mai do on the Thu Bồn River in Hội An?",
           "options": [
-            "Took a boat to release floating flower lanterns (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Went scuba diving (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Fished for salmon (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Water skied (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))"
+            "Took a boat to release floating flower lanterns (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Went scuba diving (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Fished for salmon (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Water skied (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)"
           ],
           "answerIndex": 0,
           "explanation": "Thả hoa đăng (releasing floating paper candle lanterns) on the Thu Bồn River."
@@ -5861,10 +5861,10 @@
         {
           "prompt": "What signature Central Vietnamese noodle dish did Mai enjoy in Hội An?",
           "options": [
-            "Ramen (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Mì Quảng tôm thịt (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Pad Thai (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Spaghetti (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))"
+            "Ramen (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Mì Quảng tôm thịt (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Pad Thai (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Spaghetti (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)"
           ],
           "answerIndex": 1,
           "explanation": "Mì Quảng is Central Vietnam's signature culinary specialty."
@@ -5872,10 +5872,10 @@
         {
           "prompt": "Translate: 'Chuyến đi thật sự rất đáng nhớ!'",
           "options": [
-            "We will travel next month. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "The trip was truly very memorable! (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "The flight was canceled. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "The trip was very boring. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))"
+            "We will travel next month. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "The trip was truly very memorable! (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "The flight was canceled. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "The trip was very boring. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)"
           ],
           "answerIndex": 1,
           "explanation": "rất đáng nhớ = very memorable."
@@ -5887,10 +5887,10 @@
         {
           "prompt": "Translate the complete sentence: 'Sáng thứ Bảy em tắm biển Mỹ Khê, chiều đi phố cổ Hội An thả hoa đăng và tối xem Cầu Rồng phun lửa.'",
           "options": [
-            "We didn't like My Khe beach or Hoi An. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Tomorrow I will travel to Da Nang to visit the museum and swim. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "On Saturday morning I swam at My Khe beach, in the afternoon went to Hoi An ancient town to release lanterns, and at night watched Dragon Bridge breathe fire. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Dragon Bridge was closed on the weekend. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))"
+            "We didn't like My Khe beach or Hoi An. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Tomorrow I will travel to Da Nang to visit the museum and swim. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "On Saturday morning I swam at My Khe beach, in the afternoon went to Hoi An ancient town to release lanterns, and at night watched Dragon Bridge breathe fire. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Dragon Bridge was closed on the weekend. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)"
           ],
           "answerIndex": 2,
           "explanation": "Past narration integrating pre-verbal đã, completion rồi, time markers, and Da Nang / Hoi An cultural itinerary.",
@@ -5899,10 +5899,10 @@
         {
           "prompt": "What is 'Cầu Rồng' (Dragon Bridge) in Da Nang?",
           "options": [
-            "A mountain temple (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "A landmark bridge shaped like a golden dragon that breathes fire and water on weekend nights over the Han River (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "An underground tunnel (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "A wooden footbridge (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))"
+            "A mountain temple (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "A landmark bridge shaped like a golden dragon that breathes fire and water on weekend nights over the Han River (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "An underground tunnel (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "A wooden footbridge (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)"
           ],
           "answerIndex": 1,
           "explanation": "Cầu Rồng is Da Nang's iconic dragon-shaped bridge.",
@@ -5911,10 +5911,10 @@
         {
           "prompt": "What core grammatical and communicative competencies were mastered across Unit 7 in Vietnamese?",
           "options": [
-            "Pre-verbal past marker 'đã', sentence-final completion particle 'rồi', emphatic 'đã ... rồi', past negation with 'chưa' vs. 'không', experiential inquiry '... chưa?', time adverbials, and full past travel storytelling (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Passive voice classifier inflections only (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Classical Sino-Vietnamese tones only (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Vietnamese alphabet phonetics only (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))"
+            "Pre-verbal past marker 'đã', sentence-final completion particle 'rồi', emphatic 'đã ... rồi', past negation with 'chưa' vs. 'không', experiential inquiry '... chưa?', time adverbials, and full past travel storytelling (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Passive voice classifier inflections only (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Classical Sino-Vietnamese tones only (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Vietnamese alphabet phonetics only (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)"
           ],
           "answerIndex": 0,
           "explanation": "Unit 7 complete A2 past narration, aspectual particles, negation, questions, and Central Vietnamese cultural travel storytelling mastery.",
@@ -5923,10 +5923,10 @@
         {
           "prompt": "How did Mai respond when Tuấn asked 'Em đã ăn thử đặc sản miền Trung chưa?'",
           "options": [
-            "Dạ chưa, em không thích. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Em sẽ ăn vào ngày mai. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Em không biết món đó. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))",
-            "Dạ, em ăn rồi chứ! (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An (U7))"
+            "Dạ chưa, em không thích. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Em sẽ ăn vào ngày mai. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Em không biết món đó. (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)",
+            "Dạ, em ăn rồi chứ! (Demonstrate comprehensive A2 past narration fluency by understanding and participating in a multiturn dialogue recounting an unforgettable weekend trip to Da Nang and Hoi An)"
           ],
           "answerIndex": 3,
           "explanation": "Mai answered enthusiastically: 'Dạ, em ăn rồi chứ!'",
@@ -5975,10 +5975,10 @@
         {
           "prompt": "How do you say 'a red shirt' in Vietnamese?",
           "options": [
-            "đỏ áo sơ mi (Identify essential Vietnamese apparel (U8))",
-            "áo đỏ sơ mi (Identify essential Vietnamese apparel (U8))",
-            "sơ mi đỏ áo (Identify essential Vietnamese apparel (U8))",
-            "áo sơ mi đỏ (Identify essential Vietnamese apparel (U8))"
+            "đỏ áo sơ mi (Identify essential Vietnamese apparel)",
+            "áo đỏ sơ mi (Identify essential Vietnamese apparel)",
+            "sơ mi đỏ áo (Identify essential Vietnamese apparel)",
+            "áo sơ mi đỏ (Identify essential Vietnamese apparel)"
           ],
           "answerIndex": 3,
           "explanation": "Noun precedes adjective: áo sơ mi (shirt) + đỏ (red)."
@@ -5986,10 +5986,10 @@
         {
           "prompt": "What is the classifier used for pairs of items like shoes (giày) or sandals (dép)?",
           "options": [
-            "cái (Identify essential Vietnamese apparel (U8))",
-            "con (Identify essential Vietnamese apparel (U8))",
-            "quyển (Identify essential Vietnamese apparel (U8))",
-            "đôi (Identify essential Vietnamese apparel (U8))"
+            "cái (Identify essential Vietnamese apparel)",
+            "con (Identify essential Vietnamese apparel)",
+            "quyển (Identify essential Vietnamese apparel)",
+            "đôi (Identify essential Vietnamese apparel)"
           ],
           "answerIndex": 3,
           "explanation": "Đôi is the classifier for pairs (shoes, socks, chopsticks)."
@@ -6001,10 +6001,10 @@
         {
           "prompt": "Translate: 'Tôi đã mua một chiếc áo dài lụa và một cái nón lá ở Hà Nội.'",
           "options": [
-            "I sold my silk dress and hat. (Identify essential Vietnamese apparel (U8))",
-            "I want to make a hat in Hanoi. (Identify essential Vietnamese apparel (U8))",
-            "The market in Hanoi has no silk. (Identify essential Vietnamese apparel (U8))",
-            "I bought a silk áo dài and a conical hat in Hanoi. (Identify essential Vietnamese apparel (U8))"
+            "I sold my silk dress and hat. (Identify essential Vietnamese apparel)",
+            "I want to make a hat in Hanoi. (Identify essential Vietnamese apparel)",
+            "The market in Hanoi has no silk. (Identify essential Vietnamese apparel)",
+            "I bought a silk áo dài and a conical hat in Hanoi. (Identify essential Vietnamese apparel)"
           ],
           "answerIndex": 3,
           "explanation": "áo dài lụa = silk áo dài; nón lá = conical leaf hat."
@@ -6012,10 +6012,10 @@
         {
           "prompt": "What is the difference between Northern and Southern terms for 'T-shirt'?",
           "options": [
-            "North: áo dài | South: áo sơ mi (Identify essential Vietnamese apparel (U8))",
-            "North: quần jean | South: quần bò (Identify essential Vietnamese apparel (U8))",
-            "They use identical words (Identify essential Vietnamese apparel (U8))",
-            "North: áo phông | South: áo thun (Identify essential Vietnamese apparel (U8))"
+            "North: áo dài | South: áo sơ mi (Identify essential Vietnamese apparel)",
+            "North: quần jean | South: quần bò (Identify essential Vietnamese apparel)",
+            "They use identical words (Identify essential Vietnamese apparel)",
+            "North: áo phông | South: áo thun (Identify essential Vietnamese apparel)"
           ],
           "answerIndex": 3,
           "explanation": "Áo phông (North) vs. áo thun (South)."
@@ -6027,10 +6027,10 @@
         {
           "prompt": "Match the garments: áo sơ mi, áo dài, quần jean, nón lá:",
           "options": [
-            "áo sơ mi: shoes | áo dài: socks | quần jean: hat | nón lá: bag (Identify essential Vietnamese apparel (U8))",
-            "áo sơ mi: button-up shirt | áo dài: traditional tunic | quần jean: jeans | nón lá: conical hat (Identify essential Vietnamese apparel (U8))",
-            "All mean fabrics (Identify essential Vietnamese apparel (U8))",
-            "All mean coats (Identify essential Vietnamese apparel (U8))"
+            "áo sơ mi: shoes | áo dài: socks | quần jean: hat | nón lá: bag (Identify essential Vietnamese apparel)",
+            "áo sơ mi: button-up shirt | áo dài: traditional tunic | quần jean: jeans | nón lá: conical hat (Identify essential Vietnamese apparel)",
+            "All mean fabrics (Identify essential Vietnamese apparel)",
+            "All mean coats (Identify essential Vietnamese apparel)"
           ],
           "answerIndex": 1,
           "explanation": "Core Vietnamese garment terminology.",
@@ -6039,10 +6039,10 @@
         {
           "prompt": "Translate: 'Kính râm và túi xách da màu đen của em ở đâu?'",
           "options": [
-            "Where are my sunglasses and black leather handbag? (Identify essential Vietnamese apparel (U8))",
-            "I lost my hat and shoes. (Identify essential Vietnamese apparel (U8))",
-            "The sunglasses are broken. (Identify essential Vietnamese apparel (U8))",
-            "How much is the black handbag? (Identify essential Vietnamese apparel (U8))"
+            "Where are my sunglasses and black leather handbag? (Identify essential Vietnamese apparel)",
+            "I lost my hat and shoes. (Identify essential Vietnamese apparel)",
+            "The sunglasses are broken. (Identify essential Vietnamese apparel)",
+            "How much is the black handbag? (Identify essential Vietnamese apparel)"
           ],
           "answerIndex": 0,
           "explanation": "kính râm = sunglasses; túi xách da màu đen = black leather handbag.",
@@ -6051,10 +6051,10 @@
         {
           "prompt": "What is 'áo dài'?",
           "options": [
-            "A pair of wooden shoes (Identify essential Vietnamese apparel (U8))",
-            "A winter wool scarf (Identify essential Vietnamese apparel (U8))",
-            "A leather belt (Identify essential Vietnamese apparel (U8))",
-            "Vietnam's iconic traditional national dress, featuring a high-collared long tunic split into front and back panels worn over trousers (Identify essential Vietnamese apparel (U8))"
+            "A pair of wooden shoes (Identify essential Vietnamese apparel)",
+            "A winter wool scarf (Identify essential Vietnamese apparel)",
+            "A leather belt (Identify essential Vietnamese apparel)",
+            "Vietnam's iconic traditional national dress, featuring a high-collared long tunic split into front and back panels worn over trousers (Identify essential Vietnamese apparel)"
           ],
           "answerIndex": 3,
           "explanation": "Áo Dài is Vietnam's national dress.",
@@ -6063,10 +6063,10 @@
         {
           "prompt": "Complete: 'Anh ấy đang mặc một cái _______ (jacket) màu đen và đi một _______ (pair of shoes) da.'",
           "options": [
-            "váy / cái nón (Identify essential Vietnamese apparel (U8))",
-            "áo dài / con mắt (Identify essential Vietnamese apparel (U8))",
-            "áo khoác / đôi giày (Identify essential Vietnamese apparel (U8))",
-            "quần tây / cái túi (Identify essential Vietnamese apparel (U8))"
+            "váy / cái nón (Identify essential Vietnamese apparel)",
+            "áo dài / con mắt (Identify essential Vietnamese apparel)",
+            "áo khoác / đôi giày (Identify essential Vietnamese apparel)",
+            "quần tây / cái túi (Identify essential Vietnamese apparel)"
           ],
           "answerIndex": 2,
           "explanation": "áo khoác (jacket) + đôi giày (pair of shoes).",
@@ -6115,10 +6115,10 @@
         {
           "prompt": "How do you ask 'How much is this?' in Vietnamese?",
           "options": [
-            "Cái này bao nhiêu tiền? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "Cái này mấy giờ? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "Cái này ở đâu? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "Cái này là cái gì? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))"
+            "Cái này bao nhiêu tiền? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "Cái này mấy giờ? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "Cái này ở đâu? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "Cái này là cái gì? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)"
           ],
           "answerIndex": 0,
           "explanation": "Bao nhiêu tiền = How much money."
@@ -6126,10 +6126,10 @@
         {
           "prompt": "What does 'một triệu hai trăm nghìn đồng' equal in Vietnamese currency?",
           "options": [
-            "1,200,000 VNĐ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "120,000 VNĐ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "12,000 VNĐ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "12,000,000 VNĐ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))"
+            "1,200,000 VNĐ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "120,000 VNĐ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "12,000 VNĐ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "12,000,000 VNĐ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)"
           ],
           "answerIndex": 0,
           "explanation": "Một triệu (1,000,000) + hai trăm nghìn (200,000) = 1,200,000 VNĐ."
@@ -6141,10 +6141,10 @@
         {
           "prompt": "Translate: 'Cái áo này hơi chật ở vai, chị có cỡ lớn hơn không?'",
           "options": [
-            "This shirt is too loose, do you have size small? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "This shirt is a bit tight at the shoulders, do you have a larger size? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "How much is the large shirt? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "I want to return this shirt. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))"
+            "This shirt is too loose, do you have size small? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "This shirt is a bit tight at the shoulders, do you have a larger size? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "How much is the large shirt? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "I want to return this shirt. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)"
           ],
           "answerIndex": 1,
           "explanation": "hơi chật = a bit tight; cỡ lớn hơn = larger size."
@@ -6152,10 +6152,10 @@
         {
           "prompt": "What is the Vietnamese term for the fitting room?",
           "options": [
-            "phòng ngủ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "nhà vệ sinh (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "phòng thử đồ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "nhà bếp (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))"
+            "phòng ngủ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "nhà vệ sinh (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "phòng thử đồ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "nhà bếp (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)"
           ],
           "answerIndex": 2,
           "explanation": "Phòng thử đồ = clothing fitting room."
@@ -6167,10 +6167,10 @@
         {
           "prompt": "Match the transaction terms: bao nhiêu tiền, phòng thử đồ, cỡ, vừa in:",
           "options": [
-            "bao nhiêu tiền: how much | phòng thử đồ: fitting room | cỡ: size | vừa in: fits perfectly (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "All mean shoes (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "All mean days of the week (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "bao nhiêu tiền: where | phòng thử đồ: kitchen | cỡ: color (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))"
+            "bao nhiêu tiền: how much | phòng thử đồ: fitting room | cỡ: size | vừa in: fits perfectly (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "All mean shoes (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "All mean days of the week (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "bao nhiêu tiền: where | phòng thử đồ: kitchen | cỡ: color (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)"
           ],
           "answerIndex": 0,
           "explanation": "Core retail shopping and fitting vocabulary.",
@@ -6179,10 +6179,10 @@
         {
           "prompt": "Translate: 'Tổng cộng hết sáu trăm nghìn đồng. Em chuyển khoản qua mã QR nhé?'",
           "options": [
-            "I don't have enough money to pay. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "The shirt costs 60,000 dong in cash. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "The QR code is not working. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "In total it comes to 600,000 dong. Can I transfer via QR code? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))"
+            "I don't have enough money to pay. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "The shirt costs 60,000 dong in cash. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "The QR code is not working. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "In total it comes to 600,000 dong. Can I transfer via QR code? (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)"
           ],
           "answerIndex": 3,
           "explanation": "sáu trăm nghìn đồng = 600,000 đ; chuyển khoản qua mã QR = bank transfer via QR code.",
@@ -6191,10 +6191,10 @@
         {
           "prompt": "What phrase signals that you have decided to purchase the item?",
           "options": [
-            "Đắt quá. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "Đi về thôi. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "Tôi lấy cái này! / Em lấy cái này! (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "Tôi không mua. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))"
+            "Đắt quá. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "Đi về thôi. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "Tôi lấy cái này! / Em lấy cái này! (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "Tôi không mua. (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)"
           ],
           "answerIndex": 2,
           "explanation": "'Tôi lấy cái này' confirms purchase decision.",
@@ -6203,10 +6203,10 @@
         {
           "prompt": "Complete: 'Em đi giày _______ (size) 38.'",
           "options": [
-            "màu (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "cỡ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "cái (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))",
-            "tiền (Ask for prices using Bao nhiu tin and Bao nhiu mt ci (U8))"
+            "màu (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "cỡ (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "cái (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)",
+            "tiền (Ask for prices using Bao nhiu tin and Bao nhiu mt ci)"
           ],
           "answerIndex": 1,
           "explanation": "cỡ 38 = size 38.",
@@ -6255,10 +6255,10 @@
         {
           "prompt": "Where do demonstratives (này, kia, đó) appear in a Vietnamese noun phrase?",
           "options": [
-            "Before the classifier (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "At the beginning of the sentence (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Between the classifier and noun (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Directly after the noun (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))"
+            "Before the classifier (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "At the beginning of the sentence (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Between the classifier and noun (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Directly after the noun (Distinguish and apply Vietnamese postnominal demonstratives ny  this)"
           ],
           "answerIndex": 3,
           "explanation": "Demonstratives in Vietnamese are strictly post-nominal: cái áo này."
@@ -6266,10 +6266,10 @@
         {
           "prompt": "How do you ask 'Which one do you choose?' in Vietnamese?",
           "options": [
-            "Bạn chọn cái này? (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Bạn chọn cái kia? (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Bạn chọn cái đó? (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Bạn chọn cái nào? (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))"
+            "Bạn chọn cái này? (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Bạn chọn cái kia? (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Bạn chọn cái đó? (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Bạn chọn cái nào? (Distinguish and apply Vietnamese postnominal demonstratives ny  this)"
           ],
           "answerIndex": 3,
           "explanation": "Cái nào = which one."
@@ -6281,10 +6281,10 @@
         {
           "prompt": "Translate: 'Cho tôi xem cái nón lá kia và chiếc khăn lụa này.'",
           "options": [
-            "Let me see that conical hat over there and this silk scarf. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "I want to buy two hats. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "That silk scarf is too expensive. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Where are the conical hats? (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))"
+            "Let me see that conical hat over there and this silk scarf. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "I want to buy two hats. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "That silk scarf is too expensive. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Where are the conical hats? (Distinguish and apply Vietnamese postnominal demonstratives ny  this)"
           ],
           "answerIndex": 0,
           "explanation": "cái nón lá kia = that conical hat over there; chiếc khăn lụa này = this silk scarf."
@@ -6292,10 +6292,10 @@
         {
           "prompt": "What does 'kia' indicate compared to 'này'?",
           "options": [
-            "'Kia' indicates an object farther away in distance, while 'này' indicates an object close to the speaker. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "'Kia' is for food only. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "'Kia' is past tense. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "There is no difference. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))"
+            "'Kia' indicates an object farther away in distance, while 'này' indicates an object close to the speaker. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "'Kia' is for food only. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "'Kia' is past tense. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "There is no difference. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)"
           ],
           "answerIndex": 0,
           "explanation": "Này = near; Kia = far/over there."
@@ -6307,9 +6307,9 @@
         {
           "prompt": "Match the demonstrative determiners: này, kia, đó, nào:",
           "options": [
-            "All mean 'yesterday' (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "này: that | kia: this (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "All mean 'here' (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
+            "All mean 'yesterday' (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "này: that | kia: this (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "All mean 'here' (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
             "này: this | kia: that over there | đó: that (mentioned)"
           ],
           "answerIndex": 3,
@@ -6319,10 +6319,10 @@
         {
           "prompt": "Translate: 'Chiếc áo dài này đẹp hơn chiếc áo dài đó rất nhiều.'",
           "options": [
-            "That áo dài is the most expensive. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Both áo dài are identical. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "This áo dài is much more beautiful than that áo dài. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "I don't like any áo dài. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))"
+            "That áo dài is the most expensive. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Both áo dài are identical. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "This áo dài is much more beautiful than that áo dài. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "I don't like any áo dài. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)"
           ],
           "answerIndex": 2,
           "explanation": "Chiếc áo dài này (this áo dài) đẹp hơn (is prettier than) chiếc áo dài đó (that áo dài).",
@@ -6331,10 +6331,10 @@
         {
           "prompt": "Why is 'này cái áo' incorrect in Vietnamese grammar?",
           "options": [
-            "It is a spelling error. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Because Vietnamese demonstrative words must follow the noun phrase rather than precede it (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Because áo is a verb. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "Because này is plural. (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))"
+            "It is a spelling error. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Because Vietnamese demonstrative words must follow the noun phrase rather than precede it (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Because áo is a verb. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "Because này is plural. (Distinguish and apply Vietnamese postnominal demonstratives ny  this)"
           ],
           "answerIndex": 1,
           "explanation": "Post-nominal word order rule in Vietnamese.",
@@ -6343,10 +6343,10 @@
         {
           "prompt": "Complete: 'Chị muốn mua đôi giày _______ (which)?'",
           "options": [
-            "nào (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "này (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "đó (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))",
-            "kia (Distinguish and apply Vietnamese postnominal demonstratives ny  this (U8))"
+            "nào (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "này (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "đó (Distinguish and apply Vietnamese postnominal demonstratives ny  this)",
+            "kia (Distinguish and apply Vietnamese postnominal demonstratives ny  this)"
           ],
           "answerIndex": 0,
           "explanation": "đôi giày nào = which pair of shoes?",
@@ -6396,10 +6396,10 @@
         {
           "prompt": "How do you say 'This shirt is cheaper than that one' in Vietnamese?",
           "options": [
-            "Áo này rẻ nhất áo kia. (Form comparisons of superiority with hn more than  er (U8))",
-            "Áo này rẻ hơn áo kia. (Form comparisons of superiority with hn more than  er (U8))",
-            "Áo này bằng rẻ áo kia. (Form comparisons of superiority with hn more than  er (U8))",
-            "Áo này hơn rẻ áo kia. (Form comparisons of superiority with hn more than  er (U8))"
+            "Áo này rẻ nhất áo kia. (Form comparisons of superiority with hn more than  er)",
+            "Áo này rẻ hơn áo kia. (Form comparisons of superiority with hn more than  er)",
+            "Áo này bằng rẻ áo kia. (Form comparisons of superiority with hn more than  er)",
+            "Áo này hơn rẻ áo kia. (Form comparisons of superiority with hn more than  er)"
           ],
           "answerIndex": 1,
           "explanation": "Adjective + hơn = more [adjective] than."
@@ -6407,10 +6407,10 @@
         {
           "prompt": "What does a customer in Saigon say to express that something is too expensive?",
           "options": [
-            "Mắc quá! (Form comparisons of superiority with hn more than  er (U8))",
-            "Ngon quá! (Form comparisons of superiority with hn more than  er (U8))",
-            "Đẹp quá! (Form comparisons of superiority with hn more than  er (U8))",
-            "Rẻ quá! (Form comparisons of superiority with hn more than  er (U8))"
+            "Mắc quá! (Form comparisons of superiority with hn more than  er)",
+            "Ngon quá! (Form comparisons of superiority with hn more than  er)",
+            "Đẹp quá! (Form comparisons of superiority with hn more than  er)",
+            "Rẻ quá! (Form comparisons of superiority with hn more than  er)"
           ],
           "answerIndex": 0,
           "explanation": "Mắc quá (South) / Đắt quá (North) = Too expensive!"
@@ -6422,10 +6422,10 @@
         {
           "prompt": "Translate: 'Đây là bộ áo dài đẹp nhất và đắt nhất trong cửa hàng.'",
           "options": [
-            "This is the most beautiful and most expensive áo dài in the shop. (Form comparisons of superiority with hn more than  er (U8))",
-            "The shop has no beautiful clothes. (Form comparisons of superiority with hn more than  er (U8))",
-            "This áo dài is the cheapest in the shop. (Form comparisons of superiority with hn more than  er (U8))",
-            "I want to buy the oldest áo dài. (Form comparisons of superiority with hn more than  er (U8))"
+            "This is the most beautiful and most expensive áo dài in the shop. (Form comparisons of superiority with hn more than  er)",
+            "The shop has no beautiful clothes. (Form comparisons of superiority with hn more than  er)",
+            "This áo dài is the cheapest in the shop. (Form comparisons of superiority with hn more than  er)",
+            "I want to buy the oldest áo dài. (Form comparisons of superiority with hn more than  er)"
           ],
           "answerIndex": 0,
           "explanation": "đẹp nhất = most beautiful; đắt nhất = most expensive."
@@ -6433,10 +6433,10 @@
         {
           "prompt": "What does 'mở hàng' mean in Vietnamese market tradition?",
           "options": [
-            "The auspicious first purchase made by the first customer of the business day (Form comparisons of superiority with hn more than  er (U8))",
-            "A fire sale (Form comparisons of superiority with hn more than  er (U8))",
-            "Closing the store at night (Form comparisons of superiority with hn more than  er (U8))",
-            "Returning a broken item (Form comparisons of superiority with hn more than  er (U8))"
+            "The auspicious first purchase made by the first customer of the business day (Form comparisons of superiority with hn more than  er)",
+            "A fire sale (Form comparisons of superiority with hn more than  er)",
+            "Closing the store at night (Form comparisons of superiority with hn more than  er)",
+            "Returning a broken item (Form comparisons of superiority with hn more than  er)"
           ],
           "answerIndex": 0,
           "explanation": "Mở hàng is the culturally revered first sale of the day."
@@ -6448,10 +6448,10 @@
         {
           "prompt": "Match the comparative terms: rẻ hơn, tốt nhất, không bằng, bớt giá:",
           "options": [
-            "All mean food items (Form comparisons of superiority with hn more than  er (U8))",
-            "All mean expensive (Form comparisons of superiority with hn more than  er (U8))",
-            "rẻ hơn: cheaper | tốt nhất: the best | không bằng: not as good as | bớt giá: discount / lower price (Form comparisons of superiority with hn more than  er (U8))",
-            "All mean free (Form comparisons of superiority with hn more than  er (U8))"
+            "All mean food items (Form comparisons of superiority with hn more than  er)",
+            "All mean expensive (Form comparisons of superiority with hn more than  er)",
+            "rẻ hơn: cheaper | tốt nhất: the best | không bằng: not as good as | bớt giá: discount / lower price (Form comparisons of superiority with hn more than  er)",
+            "All mean free (Form comparisons of superiority with hn more than  er)"
           ],
           "answerIndex": 2,
           "explanation": "Comparative and bargaining terms.",
@@ -6460,10 +6460,10 @@
         {
           "prompt": "Translate: 'Bớt cho em một chút đi, em mua hai cái luôn!'",
           "options": [
-            "I don't have money to buy two pieces. (Form comparisons of superiority with hn more than  er (U8))",
-            "Give me a little discount, I'll buy two pieces right away! (Form comparisons of superiority with hn more than  er (U8))",
-            "Where can I buy two pieces? (Form comparisons of superiority with hn more than  er (U8))",
-            "The price is too low, charge me more. (Form comparisons of superiority with hn more than  er (U8))"
+            "I don't have money to buy two pieces. (Form comparisons of superiority with hn more than  er)",
+            "Give me a little discount, I'll buy two pieces right away! (Form comparisons of superiority with hn more than  er)",
+            "Where can I buy two pieces? (Form comparisons of superiority with hn more than  er)",
+            "The price is too low, charge me more. (Form comparisons of superiority with hn more than  er)"
           ],
           "answerIndex": 1,
           "explanation": "Bớt cho em = give me a discount; mua hai cái = buy two pieces.",
@@ -6472,10 +6472,10 @@
         {
           "prompt": "Why does 'hơn' come AFTER the adjective in 'đẹp hơn'?",
           "options": [
-            "In Vietnamese comparative syntax, the degree particle 'hơn' strictly follows the adjective (Form comparisons of superiority with hn more than  er (U8))",
-            "Because hơn is a noun. (Form comparisons of superiority with hn more than  er (U8))",
-            "Because đẹp is a verb. (Form comparisons of superiority with hn more than  er (U8))",
-            "It is a dialect variation. (Form comparisons of superiority with hn more than  er (U8))"
+            "In Vietnamese comparative syntax, the degree particle 'hơn' strictly follows the adjective (Form comparisons of superiority with hn more than  er)",
+            "Because hơn is a noun. (Form comparisons of superiority with hn more than  er)",
+            "Because đẹp is a verb. (Form comparisons of superiority with hn more than  er)",
+            "It is a dialect variation. (Form comparisons of superiority with hn more than  er)"
           ],
           "answerIndex": 0,
           "explanation": "Standard Vietnamese comparative syntax: Adjective + hơn.",
@@ -6484,10 +6484,10 @@
         {
           "prompt": "Complete: 'Đây là giá _______ (final / bottom-line) rồi, không bớt được nữa đâu em.'",
           "options": [
-            "mới (Form comparisons of superiority with hn more than  er (U8))",
-            "đầu (Form comparisons of superiority with hn more than  er (U8))",
-            "cao (Form comparisons of superiority with hn more than  er (U8))",
-            "chót (Form comparisons of superiority with hn more than  er (U8))"
+            "mới (Form comparisons of superiority with hn more than  er)",
+            "đầu (Form comparisons of superiority with hn more than  er)",
+            "cao (Form comparisons of superiority with hn more than  er)",
+            "chót (Form comparisons of superiority with hn more than  er)"
           ],
           "answerIndex": 3,
           "explanation": "giá chót = final bottom-line price.",
@@ -6536,10 +6536,10 @@
         {
           "prompt": "What cultural reason did Lan give to request a friendly discount from Cô Ba?",
           "options": [
-            "She was the morning's first customer (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "She was a famous singer (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "The silk had a defect (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "She wanted free items (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))"
+            "She was the morning's first customer (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "She was a famous singer (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "The silk had a defect (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "She wanted free items (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)"
           ],
           "answerIndex": 0,
           "explanation": "Lan mentioned 'mở hàng lấy may' (first sale of the day for good luck)."
@@ -6547,10 +6547,10 @@
         {
           "prompt": "How did Lan pay for the 900,000 dong purchase?",
           "options": [
-            "Scanning the VietQR code on the stall for instant bank transfer (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "With foreign dollars in cash (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Writing a check (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Trading an old watch (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))"
+            "Scanning the VietQR code on the stall for instant bank transfer (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "With foreign dollars in cash (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Writing a check (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Trading an old watch (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)"
           ],
           "answerIndex": 0,
           "explanation": "Lan scanned the VietQR code on the counter."
@@ -6562,10 +6562,10 @@
         {
           "prompt": "What was the final negotiated total price for both the silk fabric cut and the embroidered handbag?",
           "options": [
-            "2,000,000 VNĐ (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "900,000 VNĐ (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "100,000 VNĐ (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "500,000 VNĐ (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))"
+            "2,000,000 VNĐ (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "900,000 VNĐ (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "100,000 VNĐ (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "500,000 VNĐ (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)"
           ],
           "answerIndex": 1,
           "explanation": "Final price: 900,000 VNĐ (chín trăm nghìn đồng)."
@@ -6573,10 +6573,10 @@
         {
           "prompt": "Translate: 'Em quét mã VietQR dán trước quầy hàng nhé.'",
           "options": [
-            "The stall does not have a QR code. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "I'll scan the VietQR code pasted in front of the market stall. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Please call the bank. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "I'll pay cash at the register. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))"
+            "The stall does not have a QR code. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "I'll scan the VietQR code pasted in front of the market stall. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Please call the bank. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "I'll pay cash at the register. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)"
           ],
           "answerIndex": 1,
           "explanation": "quét mã VietQR = scan VietQR code; trước quầy hàng = in front of stall."
@@ -6588,10 +6588,10 @@
         {
           "prompt": "Translate the complete sentence: 'Xấp lụa tơ tằm mềm hơn và đẹp hơn, tôi đã mua với giá chín trăm nghìn đồng bằng chuyển khoản QR ở chợ Bến Thành.'",
           "options": [
-            "Tomorrow I will buy a cotton shirt for 50,000 dong. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "The mulberry silk fabric was softer and prettier, and I bought it for 900,000 dong via QR transfer in Ben Thanh Market. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "The silk fabric was fake and Ben Thanh Market was closed. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Cash was the only payment accepted in Saigon. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))"
+            "Tomorrow I will buy a cotton shirt for 50,000 dong. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "The mulberry silk fabric was softer and prettier, and I bought it for 900,000 dong via QR transfer in Ben Thanh Market. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "The silk fabric was fake and Ben Thanh Market was closed. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Cash was the only payment accepted in Saigon. (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)"
           ],
           "answerIndex": 1,
           "explanation": "Synthesis of silk fabric, comparatives (mềm hơn, đẹp hơn), currency, QR transfer, and Ben Thanh Market itinerary.",
@@ -6600,10 +6600,10 @@
         {
           "prompt": "What is 'Chợ Bến Thành' in Ho Chi Minh City celebrated for?",
           "options": [
-            "Saigon's most historic and famous central covered market landmark, featuring traditional textiles, handicrafts, souvenirs, and food stalls (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "An international airport terminal (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "A modern skyscraper mall (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "A train station (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))"
+            "Saigon's most historic and famous central covered market landmark, featuring traditional textiles, handicrafts, souvenirs, and food stalls (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "An international airport terminal (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "A modern skyscraper mall (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "A train station (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)"
           ],
           "answerIndex": 0,
           "explanation": "Ben Thanh Market is Saigon's historic central commercial landmark.",
@@ -6612,10 +6612,10 @@
         {
           "prompt": "What core grammatical, lexical, and cultural competencies were mastered across Unit 8 in Vietnamese?",
           "options": [
-            "Passive voice tone mutations only (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Classical Chữ Nôm poetry only (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Vietnamese alphabet phonetics only (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Apparel & accessories vocabulary, currency scale in thousands/millions (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))"
+            "Passive voice tone mutations only (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Classical Chữ Nôm poetry only (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Vietnamese alphabet phonetics only (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Apparel & accessories vocabulary, currency scale in thousands/millions (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)"
           ],
           "answerIndex": 3,
           "explanation": "Unit 8 comprehensive Vietnamese retail, currency scale, demonstratives, comparatives, bargaining, and commercial mastery.",
@@ -6624,10 +6624,10 @@
         {
           "prompt": "What pattern was embroidered on the handcrafted handbag Lan purchased?",
           "options": [
-            "Hoa hồng (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Con rồng (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Hoa sen (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))",
-            "Cây tre (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics (U8))"
+            "Hoa hồng (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Con rồng (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Hoa sen (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)",
+            "Cây tre (Demonstrate comprehensive A2 shopping fluency by understanding and participating in a multiturn dialogue purchasing silk fabrics)"
           ],
           "answerIndex": 2,
           "explanation": "Cô Ba described it as 'túi xách thêu hoa sen' (lotus-embroidered handbag).",
@@ -6677,10 +6677,10 @@
         {
           "prompt": "How do you say 'I go by bus' in Vietnamese?",
           "options": [
-            "Tôi đi ở xe buýt. (Identify essential Vietnamese urban transit modes (U9))",
-            "Tôi đi vào xe buýt. (Identify essential Vietnamese urban transit modes (U9))",
-            "Tôi đi với xe buýt. (Identify essential Vietnamese urban transit modes (U9))",
-            "Tôi đi bằng xe buýt. (Identify essential Vietnamese urban transit modes (U9))"
+            "Tôi đi ở xe buýt. (Identify essential Vietnamese urban transit modes)",
+            "Tôi đi vào xe buýt. (Identify essential Vietnamese urban transit modes)",
+            "Tôi đi với xe buýt. (Identify essential Vietnamese urban transit modes)",
+            "Tôi đi bằng xe buýt. (Identify essential Vietnamese urban transit modes)"
           ],
           "answerIndex": 3,
           "explanation": "Preposition 'bằng' indicates the mode of transit: bằng xe buýt."
@@ -6688,10 +6688,10 @@
         {
           "prompt": "Which phrase correctly expresses traveling on foot in Vietnamese?",
           "options": [
-            "bằng chân (Identify essential Vietnamese urban transit modes (U9))",
-            "đi chân (Identify essential Vietnamese urban transit modes (U9))",
-            "với bộ (Identify essential Vietnamese urban transit modes (U9))",
-            "đi bộ (Identify essential Vietnamese urban transit modes (U9))"
+            "bằng chân (Identify essential Vietnamese urban transit modes)",
+            "đi chân (Identify essential Vietnamese urban transit modes)",
+            "với bộ (Identify essential Vietnamese urban transit modes)",
+            "đi bộ (Identify essential Vietnamese urban transit modes)"
           ],
           "answerIndex": 3,
           "explanation": "'Đi bộ' is the standard verb phrase for walking on foot."
@@ -6703,10 +6703,10 @@
         {
           "prompt": "Translate: 'Quẹt thẻ xe buýt khi lên xe và chuẩn bị xuống ở trạm tiếp theo.'",
           "options": [
-            "Buy a new ticket from the driver at the next stop. (Identify essential Vietnamese urban transit modes (U9))",
-            "The bus stop is closed for all passengers. (Identify essential Vietnamese urban transit modes (U9))",
-            "Show your passport when boarding the bus. (Identify essential Vietnamese urban transit modes (U9))",
-            "Tap the bus card when boarding the bus and prepare to get off at the next stop. (Identify essential Vietnamese urban transit modes (U9))"
+            "Buy a new ticket from the driver at the next stop. (Identify essential Vietnamese urban transit modes)",
+            "The bus stop is closed for all passengers. (Identify essential Vietnamese urban transit modes)",
+            "Show your passport when boarding the bus. (Identify essential Vietnamese urban transit modes)",
+            "Tap the bus card when boarding the bus and prepare to get off at the next stop. (Identify essential Vietnamese urban transit modes)"
           ],
           "answerIndex": 3,
           "explanation": "quẹt thẻ = tap card; lên xe = board; chuẩn bị xuống = prepare to get off; trạm tiếp theo = next stop."
@@ -6714,10 +6714,10 @@
         {
           "prompt": "What is a 'xe ôm' in Vietnamese daily transportation?",
           "options": [
-            "A bicycle with a trailer (Identify essential Vietnamese urban transit modes (U9))",
-            "A horse-drawn cart (Identify essential Vietnamese urban transit modes (U9))",
-            "A train conductor (Identify essential Vietnamese urban transit modes (U9))",
-            "A traditional motorbike taxi where the passenger rides on the back of the driver's scooter (Identify essential Vietnamese urban transit modes (U9))"
+            "A bicycle with a trailer (Identify essential Vietnamese urban transit modes)",
+            "A horse-drawn cart (Identify essential Vietnamese urban transit modes)",
+            "A train conductor (Identify essential Vietnamese urban transit modes)",
+            "A traditional motorbike taxi where the passenger rides on the back of the driver's scooter (Identify essential Vietnamese urban transit modes)"
           ],
           "answerIndex": 3,
           "explanation": "Xe ôm (literally: hugging vehicle) is Vietnam's iconic motorbike taxi."
@@ -6729,10 +6729,10 @@
         {
           "prompt": "Match the Vietnamese transit terms: xe buýt, xe ôm, tàu điện, ga tàu:",
           "options": [
-            "xe buýt: city bus | xe ôm: motorbike taxi | tàu điện: metro/urban train | ga tàu: train station (Identify essential Vietnamese urban transit modes (U9))",
-            "All mean streetlights (Identify essential Vietnamese urban transit modes (U9))",
-            "All mean pedestrian crossings (Identify essential Vietnamese urban transit modes (U9))",
-            "xe buýt: car | xe ôm: bicycle | tàu điện: airport (Identify essential Vietnamese urban transit modes (U9))"
+            "xe buýt: city bus | xe ôm: motorbike taxi | tàu điện: metro/urban train | ga tàu: train station (Identify essential Vietnamese urban transit modes)",
+            "All mean streetlights (Identify essential Vietnamese urban transit modes)",
+            "All mean pedestrian crossings (Identify essential Vietnamese urban transit modes)",
+            "xe buýt: car | xe ôm: bicycle | tàu điện: airport (Identify essential Vietnamese urban transit modes)"
           ],
           "answerIndex": 0,
           "explanation": "Vietnamese transit infrastructure matching.",
@@ -6741,10 +6741,10 @@
         {
           "prompt": "Translate: 'Tàu Thống Nhất từ Hà Nội đi Thành phố Hồ Chí Minh khởi hành lúc bảy giờ tối.'",
           "options": [
-            "The bus to Saigon arrived at 7:00 in the morning. (Identify essential Vietnamese urban transit modes (U9))",
-            "Hanoi train station is closed at 7:00 PM. (Identify essential Vietnamese urban transit modes (U9))",
-            "Trains from Hanoi to Saigon take only 7 hours. (Identify essential Vietnamese urban transit modes (U9))",
-            "The Reunification Express train from Hanoi to Ho Chi Minh City departs at 7:00 PM. (Identify essential Vietnamese urban transit modes (U9))"
+            "The bus to Saigon arrived at 7:00 in the morning. (Identify essential Vietnamese urban transit modes)",
+            "Hanoi train station is closed at 7:00 PM. (Identify essential Vietnamese urban transit modes)",
+            "Trains from Hanoi to Saigon take only 7 hours. (Identify essential Vietnamese urban transit modes)",
+            "The Reunification Express train from Hanoi to Ho Chi Minh City departs at 7:00 PM. (Identify essential Vietnamese urban transit modes)"
           ],
           "answerIndex": 3,
           "explanation": "Tàu Thống Nhất = Reunification Express; khởi hành = departs; bảy giờ tối = 7 PM.",
@@ -6753,10 +6753,10 @@
         {
           "prompt": "Why do Vietnamese speakers say 'đi bằng xe máy' but 'đi bộ'?",
           "options": [
-            "Because motorbikes are fast. (Identify essential Vietnamese urban transit modes (U9))",
-            "Because feet are heavy. (Identify essential Vietnamese urban transit modes (U9))",
-            "Vietnamese uses the preposition 'bằng' to denote vehicular instruments, while 'đi bộ' is an intransitive compound verb meaning to walk on foot. (Identify essential Vietnamese urban transit modes (U9))",
-            "It is a Southern slang rule only. (Identify essential Vietnamese urban transit modes (U9))"
+            "Because motorbikes are fast. (Identify essential Vietnamese urban transit modes)",
+            "Because feet are heavy. (Identify essential Vietnamese urban transit modes)",
+            "Vietnamese uses the preposition 'bằng' to denote vehicular instruments, while 'đi bộ' is an intransitive compound verb meaning to walk on foot. (Identify essential Vietnamese urban transit modes)",
+            "It is a Southern slang rule only. (Identify essential Vietnamese urban transit modes)"
           ],
           "answerIndex": 2,
           "explanation": "Syntax: bằng + vehicle vs. compound verb đi bộ.",
@@ -6765,10 +6765,10 @@
         {
           "prompt": "Complete: 'Xe buýt dừng lại ở _______ (bus stop) trước cổng trường.'",
           "options": [
-            "sân bay (Identify essential Vietnamese urban transit modes (U9))",
-            "trạm xe buýt (Identify essential Vietnamese urban transit modes (U9))",
-            "vỉa hè (Identify essential Vietnamese urban transit modes (U9))",
-            "bến cảng (Identify essential Vietnamese urban transit modes (U9))"
+            "sân bay (Identify essential Vietnamese urban transit modes)",
+            "trạm xe buýt (Identify essential Vietnamese urban transit modes)",
+            "vỉa hè (Identify essential Vietnamese urban transit modes)",
+            "bến cảng (Identify essential Vietnamese urban transit modes)"
           ],
           "answerIndex": 1,
           "explanation": "trạm xe buýt = bus stop.",
@@ -6817,10 +6817,10 @@
         {
           "prompt": "How do you say 'The museum is located opposite the park' in Vietnamese?",
           "options": [
-            "Bảo tàng ở đối diện công viên. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "Bảo tàng ở xa công viên. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "Bảo tàng ở bên cạnh công viên. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "Bảo tàng ở phía sau công viên. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))"
+            "Bảo tàng ở đối diện công viên. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "Bảo tàng ở xa công viên. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "Bảo tàng ở bên cạnh công viên. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "Bảo tàng ở phía sau công viên. (Master Vietnamese spatial location words and prepositions of place  bn cnh)"
           ],
           "answerIndex": 0,
           "explanation": "'Ở đối diện' means opposite / across from."
@@ -6828,10 +6828,10 @@
         {
           "prompt": "Which spatial phrase means 'between the hotel and the bank'?",
           "options": [
-            "ở giữa khách sạn và ngân hàng (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "ở bên cạnh khách sạn và ngân hàng (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "ở gần ngân hàng (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "ở phía sau khách sạn (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))"
+            "ở giữa khách sạn và ngân hàng (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "ở bên cạnh khách sạn và ngân hàng (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "ở gần ngân hàng (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "ở phía sau khách sạn (Master Vietnamese spatial location words and prepositions of place  bn cnh)"
           ],
           "answerIndex": 0,
           "explanation": "'Ở giữa A và B' means between A and B."
@@ -6843,10 +6843,10 @@
         {
           "prompt": "Translate: 'Quán cà phê nằm ở phía sau nhà hát và rất gần bờ hồ.'",
           "options": [
-            "The café is inside the lake. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "The café is located behind the theater and very near the lake shore. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "The theater is far from the lake. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "Where is the theater café? (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))"
+            "The café is inside the lake. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "The café is located behind the theater and very near the lake shore. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "The theater is far from the lake. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "Where is the theater café? (Master Vietnamese spatial location words and prepositions of place  bn cnh)"
           ],
           "answerIndex": 1,
           "explanation": "ở phía sau nhà hát = behind the theater; rất gần bờ hồ = very near lake shore."
@@ -6854,10 +6854,10 @@
         {
           "prompt": "What does 'ở góc đường' mean in city navigation?",
           "options": [
-            "In the middle of the street (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "At the dead end (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "On the corner of the street (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "Under the bridge (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))"
+            "In the middle of the street (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "At the dead end (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "On the corner of the street (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "Under the bridge (Master Vietnamese spatial location words and prepositions of place  bn cnh)"
           ],
           "answerIndex": 2,
           "explanation": "Ở góc đường = on the street corner."
@@ -6869,10 +6869,10 @@
         {
           "prompt": "Match the Vietnamese spatial phrases: ở bên cạnh, ở đối diện, ở phía sau, ở giữa:",
           "options": [
-            "All mean yesterday (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "All mean inside (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "ở bên cạnh: far | ở đối diện: under | ở phía sau: between (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "ở bên cạnh: next to | ở đối diện: across from | ở phía sau: behind | ở giữa: between (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))"
+            "All mean yesterday (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "All mean inside (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "ở bên cạnh: far | ở đối diện: under | ở phía sau: between (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "ở bên cạnh: next to | ở đối diện: across from | ở phía sau: behind | ở giữa: between (Master Vietnamese spatial location words and prepositions of place  bn cnh)"
           ],
           "answerIndex": 3,
           "explanation": "Spatial prepositions matching.",
@@ -6881,10 +6881,10 @@
         {
           "prompt": "Translate: 'Có cây ATM nào ở gần đây không? — Có, nó ở ngay góc đường, bên cạnh hiệu sách.'",
           "options": [
-            "The bookstore has no ATMs. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "The street corner is far from the bank. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "Is there an ATM near here? — Yes, it is right on the street corner, next to the bookstore. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "The ATM next to the bookstore is broken. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))"
+            "The bookstore has no ATMs. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "The street corner is far from the bank. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "Is there an ATM near here? — Yes, it is right on the street corner, next to the bookstore. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "The ATM next to the bookstore is broken. (Master Vietnamese spatial location words and prepositions of place  bn cnh)"
           ],
           "answerIndex": 2,
           "explanation": "cây ATM = ATM machine; ở gần đây = near here; ngay góc đường = right on the corner.",
@@ -6893,10 +6893,10 @@
         {
           "prompt": "What is the function of the particle 'ở' in Vietnamese spatial sentences?",
           "options": [
-            "It is a question word. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "It acts as the locative verb/preposition indicating existence or placement at a specific physical location. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "It makes words plural. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "It is a past tense marker. (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))"
+            "It is a question word. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "It acts as the locative verb/preposition indicating existence or placement at a specific physical location. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "It makes words plural. (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "It is a past tense marker. (Master Vietnamese spatial location words and prepositions of place  bn cnh)"
           ],
           "answerIndex": 1,
           "explanation": "'Ở' marks physical location and presence.",
@@ -6905,10 +6905,10 @@
         {
           "prompt": "Complete: 'Tiệm bánh nằm _______ (between) ngân hàng và bưu điện.'",
           "options": [
-            "ở giữa (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "ở dưới (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "ở ngoài (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))",
-            "ở trên (Master Vietnamese spatial location words and prepositions of place  bn cnh (U9))"
+            "ở giữa (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "ở dưới (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "ở ngoài (Master Vietnamese spatial location words and prepositions of place  bn cnh)",
+            "ở trên (Master Vietnamese spatial location words and prepositions of place  bn cnh)"
           ],
           "answerIndex": 0,
           "explanation": "ở giữa (between A and B).",
@@ -6958,10 +6958,10 @@
         {
           "prompt": "How do you say 'Go straight ahead and turn left at the intersection' in Northern Vietnamese?",
           "options": [
-            "Đi lùi và dừng lại. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Rẽ phải xuống sông. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Đi thẳng và rẽ trái ở ngã tư. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Chạy nhanh qua ngã tư. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))"
+            "Đi lùi và dừng lại. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Rẽ phải xuống sông. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Đi thẳng và rẽ trái ở ngã tư. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Chạy nhanh qua ngã tư. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)"
           ],
           "answerIndex": 2,
           "explanation": "Đi thẳng (straight) + rẽ trái (turn left) + ở ngã tư (at intersection)."
@@ -6969,10 +6969,10 @@
         {
           "prompt": "What is the Southern Vietnamese regional equivalent for 'rẽ phải' (turn right)?",
           "options": [
-            "đi thẳng (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "quay lại (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "dừng lại (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "quẹo phải (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))"
+            "đi thẳng (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "quay lại (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "dừng lại (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "quẹo phải (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)"
           ],
           "answerIndex": 3,
           "explanation": "In Southern Vietnamese (Saigon/Mekong Delta), 'quẹo' replaces 'rẽ'."
@@ -6984,10 +6984,10 @@
         {
           "prompt": "Translate: 'Rẽ vào ngã rẽ thứ hai bên tay trái, bạn sẽ thấy nhà thờ ở phía trước.'",
           "options": [
-            "Turn at the second turn on the left hand side, you will see the cathedral in front. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Turn right at the first street to the cathedral. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Do not turn at the second turn. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "The cathedral is closed on the left side. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))"
+            "Turn at the second turn on the left hand side, you will see the cathedral in front. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Turn right at the first street to the cathedral. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Do not turn at the second turn. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "The cathedral is closed on the left side. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)"
           ],
           "answerIndex": 0,
           "explanation": "ngã rẽ thứ hai = 2nd turn; bên tay trái = on left hand; ở phía trước = in front."
@@ -6995,10 +6995,10 @@
         {
           "prompt": "What verb describes exiting / getting off a bus or taxi in Vietnamese?",
           "options": [
-            "xuống xe (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "lên xe (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "lái xe (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "mua vé (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))"
+            "xuống xe (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "lên xe (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "lái xe (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "mua vé (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)"
           ],
           "answerIndex": 0,
           "explanation": "Xuống xe = to get off / alight from a vehicle."
@@ -7010,10 +7010,10 @@
         {
           "prompt": "Match the Vietnamese directional commands: đi thẳng, rẽ phải / quẹo phải, băng qua đường, xuống xe:",
           "options": [
-            "All are food verbs (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "All mean stop (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "đi thẳng: go straight | rẽ phải/quẹo phải: turn right | băng qua đường: cross street | xuống xe: get off vehicle (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "All mean turn left (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))"
+            "All are food verbs (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "All mean stop (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "đi thẳng: go straight | rẽ phải/quẹo phải: turn right | băng qua đường: cross street | xuống xe: get off vehicle (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "All mean turn left (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)"
           ],
           "answerIndex": 2,
           "explanation": "Directional commands matching.",
@@ -7022,10 +7022,10 @@
         {
           "prompt": "Translate: 'Tại bùng binh, đi theo lối ra thứ hai về phía hồ Tây.'",
           "options": [
-            "West Lake has no roundabouts. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "At the roundabout, take the second exit towards West Lake. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "The roundabout is closed for two hours near West Lake. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Turn around twice at West Lake. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))"
+            "West Lake has no roundabouts. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "At the roundabout, take the second exit towards West Lake. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "The roundabout is closed for two hours near West Lake. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Turn around twice at West Lake. (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)"
           ],
           "answerIndex": 1,
           "explanation": "tại bùng binh = at roundabout; lối ra thứ hai = 2nd exit; về phía hồ Tây = towards West Lake.",
@@ -7034,10 +7034,10 @@
         {
           "prompt": "How do you politely ask 'How do I get to...?' in Vietnamese?",
           "options": [
-            "Làm sao để đi đến...? (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Bạn tên gì? (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Mấy giờ rồi? (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "Bao nhiêu tiền? (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))"
+            "Làm sao để đi đến...? (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Bạn tên gì? (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Mấy giờ rồi? (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "Bao nhiêu tiền? (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)"
           ],
           "answerIndex": 0,
           "explanation": "'Cho tôi hỏi đường đến...?' / 'Làm sao để đi đến...?' = How do I get to...?",
@@ -7046,10 +7046,10 @@
         {
           "prompt": "Complete: 'Đến ngã tư, bạn hãy _______ (turn left) vào phố Hàng Bạc.'",
           "options": [
-            "dừng lại (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "nhảy lên (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "đi lùi (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))",
-            "rẽ trái (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng (U9))"
+            "dừng lại (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "nhảy lên (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "đi lùi (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)",
+            "rẽ trái (Give and follow directional commands in Vietnamese using motion verbs and regional NorthSouth directional idioms i thng)"
           ],
           "answerIndex": 3,
           "explanation": "rẽ trái = turn left.",
@@ -7099,10 +7099,10 @@
         {
           "prompt": "Which preposition marks destination in 'Chúng tôi đang đi _______ (to) sân bay'?",
           "options": [
-            "từ (Distinguish and master the spatial motion prepositions (U9))",
-            "đến (Distinguish and master the spatial motion prepositions (U9))",
-            "với (Distinguish and master the spatial motion prepositions (U9))",
-            "ở (Distinguish and master the spatial motion prepositions (U9))"
+            "từ (Distinguish and master the spatial motion prepositions)",
+            "đến (Distinguish and master the spatial motion prepositions)",
+            "với (Distinguish and master the spatial motion prepositions)",
+            "ở (Distinguish and master the spatial motion prepositions)"
           ],
           "answerIndex": 1,
           "explanation": "'Đến / tới' marks directional destination: đi đến sân bay."
@@ -7110,10 +7110,10 @@
         {
           "prompt": "Which preposition expresses motion across a bridge: 'Đi _______ (across) cầu'?",
           "options": [
-            "qua (Distinguish and master the spatial motion prepositions (U9))",
-            "từ (Distinguish and master the spatial motion prepositions (U9))",
-            "vào (Distinguish and master the spatial motion prepositions (U9))",
-            "ở (Distinguish and master the spatial motion prepositions (U9))"
+            "qua (Distinguish and master the spatial motion prepositions)",
+            "từ (Distinguish and master the spatial motion prepositions)",
+            "vào (Distinguish and master the spatial motion prepositions)",
+            "ở (Distinguish and master the spatial motion prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "'Qua' expresses motion across/through: đi qua cầu."
@@ -7125,10 +7125,10 @@
         {
           "prompt": "Translate: 'Đi bộ từ bờ hồ đến Nhà hát Lớn chỉ mất khoảng năm phút.'",
           "options": [
-            "Walking from the lake shore to the Opera House takes only about 5 minutes. (Distinguish and master the spatial motion prepositions (U9))",
-            "Do not walk near the Opera House. (Distinguish and master the spatial motion prepositions (U9))",
-            "The Opera House is inside the lake. (Distinguish and master the spatial motion prepositions (U9))",
-            "It takes 5 hours to drive from the lake to the Opera House. (Distinguish and master the spatial motion prepositions (U9))"
+            "Walking from the lake shore to the Opera House takes only about 5 minutes. (Distinguish and master the spatial motion prepositions)",
+            "Do not walk near the Opera House. (Distinguish and master the spatial motion prepositions)",
+            "The Opera House is inside the lake. (Distinguish and master the spatial motion prepositions)",
+            "It takes 5 hours to drive from the lake to the Opera House. (Distinguish and master the spatial motion prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "từ bờ hồ đến Nhà hát Lớn = from lake shore to Opera House; chỉ mất khoảng 5 phút = takes only ~5 min."
@@ -7136,10 +7136,10 @@
         {
           "prompt": "What is the difference between 'ở chợ' and 'đến chợ'?",
           "options": [
-            "'Ở chợ' means being located/present at the market; 'Đến chợ' means moving towards/arriving at the market. (Distinguish and master the spatial motion prepositions (U9))",
-            "The second is plural. (Distinguish and master the spatial motion prepositions (U9))",
-            "There is no difference. (Distinguish and master the spatial motion prepositions (U9))",
-            "The first is past tense. (Distinguish and master the spatial motion prepositions (U9))"
+            "'Ở chợ' means being located/present at the market; 'Đến chợ' means moving towards/arriving at the market. (Distinguish and master the spatial motion prepositions)",
+            "The second is plural. (Distinguish and master the spatial motion prepositions)",
+            "There is no difference. (Distinguish and master the spatial motion prepositions)",
+            "The first is past tense. (Distinguish and master the spatial motion prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "Ở (static location) vs. Đến (motion destination)."
@@ -7151,10 +7151,10 @@
         {
           "prompt": "Match the motion prepositions: ở, đến/tới, qua, từ... đến:",
           "options": [
-            "All mean stop (Distinguish and master the spatial motion prepositions (U9))",
-            "ở: static location at | đến/tới: destination to | qua: across/through | từ... đến: from... to (Distinguish and master the spatial motion prepositions (U9))",
-            "All are food words (Distinguish and master the spatial motion prepositions (U9))",
-            "All mean buy tickets (Distinguish and master the spatial motion prepositions (U9))"
+            "All mean stop (Distinguish and master the spatial motion prepositions)",
+            "ở: static location at | đến/tới: destination to | qua: across/through | từ... đến: from... to (Distinguish and master the spatial motion prepositions)",
+            "All are food words (Distinguish and master the spatial motion prepositions)",
+            "All mean buy tickets (Distinguish and master the spatial motion prepositions)"
           ],
           "answerIndex": 1,
           "explanation": "Spatial preposition matching.",
@@ -7163,10 +7163,10 @@
         {
           "prompt": "Translate: 'Chúng tôi đi qua công viên và hướng về phía bờ sông Hồng.'",
           "options": [
-            "We walk through the park and head towards the bank of the Red River. (Distinguish and master the spatial motion prepositions (U9))",
-            "The Red River is inside the park. (Distinguish and master the spatial motion prepositions (U9))",
-            "We ran away from the Red River. (Distinguish and master the spatial motion prepositions (U9))",
-            "The park is closed near the Red River. (Distinguish and master the spatial motion prepositions (U9))"
+            "We walk through the park and head towards the bank of the Red River. (Distinguish and master the spatial motion prepositions)",
+            "The Red River is inside the park. (Distinguish and master the spatial motion prepositions)",
+            "We ran away from the Red River. (Distinguish and master the spatial motion prepositions)",
+            "The park is closed near the Red River. (Distinguish and master the spatial motion prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "đi qua công viên = walk through park; hướng về phía = head towards; bờ sông Hồng = Red River bank.",
@@ -7175,10 +7175,10 @@
         {
           "prompt": "What does 'từ đây đến đó' mean in Vietnamese?",
           "options": [
-            "Yesterday and tomorrow (Distinguish and master the spatial motion prepositions (U9))",
-            "Only inside here (Distinguish and master the spatial motion prepositions (U9))",
-            "Far away from everything (Distinguish and master the spatial motion prepositions (U9))",
-            "From here to there (Distinguish and master the spatial motion prepositions (U9))"
+            "Yesterday and tomorrow (Distinguish and master the spatial motion prepositions)",
+            "Only inside here (Distinguish and master the spatial motion prepositions)",
+            "Far away from everything (Distinguish and master the spatial motion prepositions)",
+            "From here to there (Distinguish and master the spatial motion prepositions)"
           ],
           "answerIndex": 3,
           "explanation": "'Từ đây đến đó' = From here to there.",
@@ -7187,10 +7187,10 @@
         {
           "prompt": "Complete: 'Hãy đi _______ (towards) phố cổ.'",
           "options": [
-            "ở dưới (Distinguish and master the spatial motion prepositions (U9))",
-            "ở trong (Distinguish and master the spatial motion prepositions (U9))",
-            "về phía (Distinguish and master the spatial motion prepositions (U9))",
-            "ở sau (Distinguish and master the spatial motion prepositions (U9))"
+            "ở dưới (Distinguish and master the spatial motion prepositions)",
+            "ở trong (Distinguish and master the spatial motion prepositions)",
+            "về phía (Distinguish and master the spatial motion prepositions)",
+            "ở sau (Distinguish and master the spatial motion prepositions)"
           ],
           "answerIndex": 2,
           "explanation": "về phía phố cổ = towards the Old Quarter.",
@@ -7239,10 +7239,10 @@
         {
           "prompt": "What famous silk-selling street in the Old Quarter did Chị Mai instruct Nam to turn onto?",
           "options": [
-            "Phố Hàng Gai (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Phố Hàng Bạc (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Phố Hàng Mã (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Phố Hàng Đào (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))"
+            "Phố Hàng Gai (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Phố Hàng Bạc (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Phố Hàng Mã (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Phố Hàng Đào (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)"
           ],
           "answerIndex": 0,
           "explanation": "Chị Mai directed Nam: 'rẽ phải vào phố Hàng Gai... nổi tiếng bán lụa tơ tằm'."
@@ -7250,10 +7250,10 @@
         {
           "prompt": "What iconic Hanoi specialty drink did Chị Mai recommend enjoying around Saint Joseph's Cathedral?",
           "options": [
-            "Cà phê trứng (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Nước mía (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Trà sữa trân châu (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Rượu cần (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))"
+            "Cà phê trứng (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Nước mía (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Trà sữa trân châu (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Rượu cần (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)"
           ],
           "answerIndex": 0,
           "explanation": "Hanoi egg coffee (cà phê trứng) is the celebrated specialty around Nha Chung Street."
@@ -7265,10 +7265,10 @@
         {
           "prompt": "How long does it take to walk from Hoan Kiem Lake to Saint Joseph's Cathedral?",
           "options": [
-            "1 minute (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "About 7 minutes (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "30 minutes (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "2 hours (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))"
+            "1 minute (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "About 7 minutes (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "30 minutes (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "2 hours (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)"
           ],
           "answerIndex": 1,
           "explanation": "Chị Mai noted: 'đi bộ chỉ mất khoảng bảy phút thôi'."
@@ -7276,10 +7276,10 @@
         {
           "prompt": "Translate: 'Đi thẳng hai trăm mét nữa là sẽ thấy nhà thờ hiện ra ngay trước mắt.'",
           "options": [
-            "Turn left after 200 meters to find a taxi. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Walk straight 200 more meters and you will see the cathedral appear right before your eyes. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "The cathedral has no doors. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "The cathedral is closed 200 meters away. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))"
+            "Turn left after 200 meters to find a taxi. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Walk straight 200 more meters and you will see the cathedral appear right before your eyes. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "The cathedral has no doors. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "The cathedral is closed 200 meters away. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)"
           ],
           "answerIndex": 1,
           "explanation": "đi thẳng 200 mét nữa = walk straight 200m more; hiện ra ngay trước mắt = appear right before eyes."
@@ -7291,10 +7291,10 @@
         {
           "prompt": "Translate the complete sentence: 'Tôi đã đi bộ từ Hồ Gươm qua phố Hàng Gai, rẽ vào phố Lý Quốc Sư và đến Nhà thờ Lớn Hà Nội để uống cà phê trứng.'",
           "options": [
-            "I walked from Sword Lake through Hang Gai Street, turned onto Ly Quoc Su Street, and arrived at Hanoi Cathedral to drink egg coffee. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Tomorrow I will take a taxi from Hanoi to Saigon for one million dong. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Hanoi Cathedral was closed and there were no cafes open. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "I lost my bus card inside Sword Lake. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))"
+            "I walked from Sword Lake through Hang Gai Street, turned onto Ly Quoc Su Street, and arrived at Hanoi Cathedral to drink egg coffee. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Tomorrow I will take a taxi from Hanoi to Saigon for one million dong. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Hanoi Cathedral was closed and there were no cafes open. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "I lost my bus card inside Sword Lake. (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)"
           ],
           "answerIndex": 0,
           "explanation": "Synthesis of walking (đi bộ từ), traversal (qua phố Hàng Gai), turning (rẽ vào), arrival destination (đến Nhà thờ Lớn), and egg coffee culture.",
@@ -7303,10 +7303,10 @@
         {
           "prompt": "What is 'Hồ Hoàn Kiếm' (Sword Lake) in the heart of Hanoi celebrated for?",
           "options": [
-            "A mountain ski resort (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "An international shipping port (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "A modern airport runway (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "The legendary historical lake of Hanoi, famed for the legend of King Lê Lợi returning the magic sword to the Golden Turtle, Turtle Tower, and Ngoc Son Temple (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))"
+            "A mountain ski resort (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "An international shipping port (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "A modern airport runway (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "The legendary historical lake of Hanoi, famed for the legend of King Lê Lợi returning the magic sword to the Golden Turtle, Turtle Tower, and Ngoc Son Temple (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)"
           ],
           "answerIndex": 3,
           "explanation": "Hoan Kiem Lake is Hanoi's spiritual, historical, and geographical heart.",
@@ -7315,10 +7315,10 @@
         {
           "prompt": "What core grammatical, lexical, and navigational competencies were mastered across Unit 9 in Vietnamese?",
           "options": [
-            "Tone mutation rules in poetry only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Classical Chữ Nôm script transcription only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Public transit infrastructure (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Vietnamese alphabet phonetics only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))"
+            "Tone mutation rules in poetry only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Classical Chữ Nôm script transcription only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Public transit infrastructure (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Vietnamese alphabet phonetics only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)"
           ],
           "answerIndex": 2,
           "explanation": "Unit 9 comprehensive Vietnamese transit, spatial prepositions, directional commands, motion particles, and metropolitan street navigation mastery.",
@@ -7327,10 +7327,10 @@
         {
           "prompt": "What polite opening phrase did Nam use to address Chị Mai on the street?",
           "options": [
-            "Này, đi đâu đấy? (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Chị ơi, em chào chị! Chị cho em hỏi đường... (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Ê, nói nghe coi! (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))",
-            "Biến đi! (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake (U9))"
+            "Này, đi đâu đấy? (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Chị ơi, em chào chị! Chị cho em hỏi đường... (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Ê, nói nghe coi! (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)",
+            "Biến đi! (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating Hanoi from Hoan Kiem Lake)"
           ],
           "answerIndex": 1,
           "explanation": "'Chị ơi, em chào chị! Chị cho em hỏi đường...' is the polite, culturally respectful Vietnamese inquiry format.",
@@ -7374,10 +7374,10 @@
         {
           "prompt": "Từ nào chỉ 'phòng khách' trong tiếng Việt và nghĩa đen của nó là gì?",
           "options": [
-            "Phòng ngủ (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Nhà bếp (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Phòng tắm (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Phòng khách (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))"
+            "Phòng ngủ (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Nhà bếp (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Phòng tắm (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Phòng khách (Identify and describe rooms of a Vietnamese home and core furniture items nh)"
           ],
           "answerIndex": 3,
           "explanation": "Phòng khách literally means 'room for guests'."
@@ -7385,9 +7385,9 @@
         {
           "prompt": "'Tủ lạnh' trong tiếng Việt được cấu tạo từ hai từ nào?",
           "options": [
-            "Nước + đá (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Điện + gió (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Lửa + khói (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
+            "Nước + đá (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Điện + gió (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Lửa + khói (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
             "Tủ (cabinet)"
           ],
           "answerIndex": 3,
@@ -7400,10 +7400,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: 'The bed is in the bedroom.'",
           "options": [
-            "Chiếc giường ở ngoài đường. (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Tủ lạnh ở trong phòng tắm. (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Cái bàn bay trên trời. (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Chiếc giường ở trong phòng ngủ. (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))"
+            "Chiếc giường ở ngoài đường. (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Tủ lạnh ở trong phòng tắm. (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Cái bàn bay trên trời. (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Chiếc giường ở trong phòng ngủ. (Identify and describe rooms of a Vietnamese home and core furniture items nh)"
           ],
           "answerIndex": 3,
           "explanation": "Chiếc giường ở trong phòng ngủ."
@@ -7411,10 +7411,10 @@
         {
           "prompt": "Vị trí linh thiêng, trang trọng nào thường được đặt ở phòng khách trong ngôi nhà Việt Nam?",
           "options": [
-            "Máy giặt (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Thùng rác (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Tủ giày (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Bàn thờ tổ tiên (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))"
+            "Máy giặt (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Thùng rác (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Tủ giày (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Bàn thờ tổ tiên (Identify and describe rooms of a Vietnamese home and core furniture items nh)"
           ],
           "answerIndex": 3,
           "explanation": "The ancestor altar (bàn thờ tổ tiên) holds the place of honor in the living room."
@@ -7426,10 +7426,10 @@
         {
           "prompt": "Nối các phòng với ý nghĩa: phòng khách, nhà bếp, phòng ngủ, phòng tắm:",
           "options": [
-            "phòng khách: bedroom | nhà bếp: garage | phòng ngủ: garden | phòng tắm: kitchen (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "All mean bedroom (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "All mean hospital (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "phòng khách: living room | nhà bếp: kitchen | phòng ngủ: bedroom | phòng tắm: bathroom (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))"
+            "phòng khách: bedroom | nhà bếp: garage | phòng ngủ: garden | phòng tắm: kitchen (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "All mean bedroom (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "All mean hospital (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "phòng khách: living room | nhà bếp: kitchen | phòng ngủ: bedroom | phòng tắm: bathroom (Identify and describe rooms of a Vietnamese home and core furniture items nh)"
           ],
           "answerIndex": 3,
           "explanation": "Vietnamese room vocabulary matching.",
@@ -7438,10 +7438,10 @@
         {
           "prompt": "Tại sao việc chào hỏi và tháo giày dép khi vào nhà là quy tắc quan trọng trong văn hóa Việt Nam?",
           "options": [
-            "Chỉ là luật giao thông (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Không có ý nghĩa gì (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Giữ vệ sinh sàn nhà sạch sẽ và thể hiện sự tôn trọng, lễ phép đối với gia chủ (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Chỉ làm vào ban đêm (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))"
+            "Chỉ là luật giao thông (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Không có ý nghĩa gì (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Giữ vệ sinh sàn nhà sạch sẽ và thể hiện sự tôn trọng, lễ phép đối với gia chủ (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Chỉ làm vào ban đêm (Identify and describe rooms of a Vietnamese home and core furniture items nh)"
           ],
           "answerIndex": 2,
           "explanation": "Removing footwear at the entrance is fundamental for cleanliness and respect.",
@@ -7450,10 +7450,10 @@
         {
           "prompt": "Dịch: 'Our apartment has a nice balcony with many green plants.'",
           "options": [
-            "Nhà chúng tôi không có cửa sổ. (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Căn hộ của chúng tôi có ban công đẹp với nhiều cây xanh. (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Căn hộ ở dưới tầng hầm. (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "Chúng tôi ngủ ngoài ban công. (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))"
+            "Nhà chúng tôi không có cửa sổ. (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Căn hộ của chúng tôi có ban công đẹp với nhiều cây xanh. (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Căn hộ ở dưới tầng hầm. (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "Chúng tôi ngủ ngoài ban công. (Identify and describe rooms of a Vietnamese home and core furniture items nh)"
           ],
           "answerIndex": 1,
           "explanation": "Căn hộ có ban công đẹp với nhiều cây xanh.",
@@ -7462,10 +7462,10 @@
         {
           "prompt": "Điền từ: «Quần áo sạch được treo gọn gàng trong _______ .»",
           "options": [
-            "tủ quần áo (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "bếp ga (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "bồn rửa (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))",
-            "tủ lạnh (Identify and describe rooms of a Vietnamese home and core furniture items nh (U10))"
+            "tủ quần áo (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "bếp ga (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "bồn rửa (Identify and describe rooms of a Vietnamese home and core furniture items nh)",
+            "tủ lạnh (Identify and describe rooms of a Vietnamese home and core furniture items nh)"
           ],
           "answerIndex": 0,
           "explanation": "Tủ quần áo (wardrobe).",
@@ -7509,10 +7509,10 @@
         {
           "prompt": "Từ nào chỉ hành động 'to vacuum' trong tiếng Việt?",
           "options": [
-            "Hút bụi (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Tưới cây (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Đổ rác (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Nấu cơm (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))"
+            "Hút bụi (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Tưới cây (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Đổ rác (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Nấu cơm (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)"
           ],
           "answerIndex": 0,
           "explanation": "Hút bụi means to vacuum."
@@ -7520,10 +7520,10 @@
         {
           "prompt": "Người miền Nam thường gọi việc 'rửa bát' là gì?",
           "options": [
-            "Rửa chén (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Rửa nồi (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Rửa tay (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Rửa ly (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))"
+            "Rửa chén (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Rửa nồi (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Rửa tay (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Rửa ly (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)"
           ],
           "answerIndex": 0,
           "explanation": "In Southern Vietnamese, 'rửa bát' is called 'rửa chén'."
@@ -7535,10 +7535,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: 'I sweep the floor and take out the trash.'",
           "options": [
-            "Tôi ngủ trên giường. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Tôi quét nhà và đổ rác. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Tôi mua ô tô mới. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Tôi đi bơi ở biển. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))"
+            "Tôi ngủ trên giường. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Tôi quét nhà và đổ rác. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Tôi mua ô tô mới. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Tôi đi bơi ở biển. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)"
           ],
           "answerIndex": 1,
           "explanation": "Quét nhà (sweep) + đổ rác (take out trash)."
@@ -7546,10 +7546,10 @@
         {
           "prompt": "Điền từ: «Sau khi giặt xong, tôi mang quần áo ra ban công để _______ .»",
           "options": [
-            "ăn (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "đốt (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "phơi (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "giấu (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))"
+            "ăn (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "đốt (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "phơi (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "giấu (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)"
           ],
           "answerIndex": 2,
           "explanation": "Phơi quần áo (hang clothes to dry)."
@@ -7561,10 +7561,10 @@
         {
           "prompt": "Nối các việc nhà: rửa bát, quét nhà, lau nhà, đổ rác:",
           "options": [
-            "All mean studying (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "All mean cooking (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "rửa bát: wash dishes | quét nhà: sweep floor | lau nhà: mop floor | đổ rác: take out trash (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "rửa bát: cook | quét nhà: drive | lau nhà: sleep | đổ rác: read (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))"
+            "All mean studying (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "All mean cooking (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "rửa bát: wash dishes | quét nhà: sweep floor | lau nhà: mop floor | đổ rác: take out trash (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "rửa bát: cook | quét nhà: drive | lau nhà: sleep | đổ rác: read (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)"
           ],
           "answerIndex": 2,
           "explanation": "Vietnamese chore collocations matching.",
@@ -7573,10 +7573,10 @@
         {
           "prompt": "Cụm từ 'dọn dẹp nhà cửa' có nghĩa là gì?",
           "options": [
-            "Xây nhà mới (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Tidy up and clean the whole house (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Chuyển đồ đi nơi khác (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Bán nhà đi (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))"
+            "Xây nhà mới (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Tidy up and clean the whole house (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Chuyển đồ đi nơi khác (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Bán nhà đi (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)"
           ],
           "answerIndex": 1,
           "explanation": "'Dọn dẹp nhà cửa' means to clean and tidy up the house.",
@@ -7585,10 +7585,10 @@
         {
           "prompt": "Dịch: 'Every Saturday morning, we clean the apartment together.'",
           "options": [
-            "Sáng thứ Bảy nào chúng tôi cũng cùng nhau dọn dẹp căn hộ. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Chúng tôi ngủ cả ngày thứ Bảy. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Chúng tôi chuyển nhà vào thứ Bảy. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "Chúng tôi đi siêu thị mua xe hơi. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))"
+            "Sáng thứ Bảy nào chúng tôi cũng cùng nhau dọn dẹp căn hộ. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Chúng tôi ngủ cả ngày thứ Bảy. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Chúng tôi chuyển nhà vào thứ Bảy. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "Chúng tôi đi siêu thị mua xe hơi. (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)"
           ],
           "answerIndex": 0,
           "explanation": "Cùng nhau dọn dẹp căn hộ.",
@@ -7597,10 +7597,10 @@
         {
           "prompt": "Điền từ: «Buổi tối, bạn nhớ đi _______ trước khi xe rác đến nhé.»",
           "options": [
-            "ngủ (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "nấu ăn (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "tắm (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))",
-            "đổ rác (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca (U10))"
+            "ngủ (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "nấu ăn (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "tắm (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)",
+            "đổ rác (Describe daily household chores and habits in Vietnamese using natural verb collocations dn dp nh ca)"
           ],
           "answerIndex": 3,
           "explanation": "Đổ rác trước khi xe rác đến (take out trash before collection truck arrives).",
@@ -7644,10 +7644,10 @@
         {
           "prompt": "Loại từ nào dùng cho 'bàn ghế' khi nói về một bộ đồ nội thất hoàn chỉnh?",
           "options": [
-            "Con (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Cây (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Bộ (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Tờ (Select and accurately use Vietnamese classifiers loi t for furniture (U10))"
+            "Con (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Cây (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Bộ (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Tờ (Select and accurately use Vietnamese classifiers loi t for furniture)"
           ],
           "answerIndex": 2,
           "explanation": "'Bộ' is the classifier for matched sets (bộ bàn ghế = table and chair set)."
@@ -7655,10 +7655,10 @@
         {
           "prompt": "Loại từ chuẩn cho tranh vẽ treo tường (tranh) là gì?",
           "options": [
-            "Quả (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Cuốn (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Chiếc bát (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Bức (Select and accurately use Vietnamese classifiers loi t for furniture (U10))"
+            "Quả (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Cuốn (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Chiếc bát (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Bức (Select and accurately use Vietnamese classifiers loi t for furniture)"
           ],
           "answerIndex": 3,
           "explanation": "'Bức' is the dedicated classifier for paintings and photographs: bức tranh."
@@ -7670,10 +7670,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: 'This house has four spacious rooms.'",
           "options": [
-            "Ngôi nhà này có bốn căn phòng rộng rãi. (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Cái nhà này có bốn con phòng. (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Tấm nhà này có bốn tờ phòng. (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Bức nhà này có bốn cây phòng. (Select and accurately use Vietnamese classifiers loi t for furniture (U10))"
+            "Ngôi nhà này có bốn căn phòng rộng rãi. (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Cái nhà này có bốn con phòng. (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Tấm nhà này có bốn tờ phòng. (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Bức nhà này có bốn cây phòng. (Select and accurately use Vietnamese classifiers loi t for furniture)"
           ],
           "answerIndex": 0,
           "explanation": "Ngôi nhà (house) + bốn căn phòng (four rooms)."
@@ -7681,10 +7681,10 @@
         {
           "prompt": "Loại từ nào phù hợp nhất cho 'thảm' trải sàn?",
           "options": [
-            "Tấm (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Cục (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Quyển (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Hạt (Select and accurately use Vietnamese classifiers loi t for furniture (U10))"
+            "Tấm (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Cục (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Quyển (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Hạt (Select and accurately use Vietnamese classifiers loi t for furniture)"
           ],
           "answerIndex": 0,
           "explanation": "'Tấm' is the classifier for flat fabrics, mats, and carpets: tấm thảm."
@@ -7696,10 +7696,10 @@
         {
           "prompt": "Nối danh từ với loại từ chuẩn xác: nhà, tranh, bàn ghế, thảm:",
           "options": [
-            "All take 'con' (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "nhà: ngôi | tranh: bức | bàn ghế: bộ | thảm: tấm (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "All take 'cái' (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "nhà: con | tranh: quyển | bàn ghế: quả | thảm: cây (Select and accurately use Vietnamese classifiers loi t for furniture (U10))"
+            "All take 'con' (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "nhà: ngôi | tranh: bức | bàn ghế: bộ | thảm: tấm (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "All take 'cái' (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "nhà: con | tranh: quyển | bàn ghế: quả | thảm: cây (Select and accurately use Vietnamese classifiers loi t for furniture)"
           ],
           "answerIndex": 1,
           "explanation": "Vietnamese classifier matching.",
@@ -7708,10 +7708,10 @@
         {
           "prompt": "Tại sao việc sử dụng đúng loại từ (classifiers) lại chứng minh trình độ tiếng Việt tự nhiên và chuẩn mực?",
           "options": [
-            "Vì loại từ phản ánh hình dáng, chất liệu và tính chất văn hóa của từng đồ vật trong tư duy ngôn ngữ tiếng Việt (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Chỉ dùng khi viết thư (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Chỉ để câu dài hơn (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Không có tác dụng gì (Select and accurately use Vietnamese classifiers loi t for furniture (U10))"
+            "Vì loại từ phản ánh hình dáng, chất liệu và tính chất văn hóa của từng đồ vật trong tư duy ngôn ngữ tiếng Việt (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Chỉ dùng khi viết thư (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Chỉ để câu dài hơn (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Không có tác dụng gì (Select and accurately use Vietnamese classifiers loi t for furniture)"
           ],
           "answerIndex": 0,
           "explanation": "Classifiers express visual geometry, material category, and cultural respect in Vietnamese.",
@@ -7720,10 +7720,10 @@
         {
           "prompt": "Điền từ: «Trên bàn uống nước có một _______ ấm chén bằng gốm sứ rất thanh lịch.»",
           "options": [
-            "ngôi (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "bức (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "con (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "bộ (Select and accurately use Vietnamese classifiers loi t for furniture (U10))"
+            "ngôi (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "bức (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "con (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "bộ (Select and accurately use Vietnamese classifiers loi t for furniture)"
           ],
           "answerIndex": 3,
           "explanation": "Bộ ấm chén (tea set).",
@@ -7732,10 +7732,10 @@
         {
           "prompt": "Dịch: 'On the wall hangs a beautiful oil painting.'",
           "options": [
-            "Trên tường có một cái ô tô. (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Tranh nằm dưới gầm giường. (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Trên tường treo một bức tranh sơn dầu tuyệt đẹp. (Select and accurately use Vietnamese classifiers loi t for furniture (U10))",
-            "Bức tường đang ngủ. (Select and accurately use Vietnamese classifiers loi t for furniture (U10))"
+            "Trên tường có một cái ô tô. (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Tranh nằm dưới gầm giường. (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Trên tường treo một bức tranh sơn dầu tuyệt đẹp. (Select and accurately use Vietnamese classifiers loi t for furniture)",
+            "Bức tường đang ngủ. (Select and accurately use Vietnamese classifiers loi t for furniture)"
           ],
           "answerIndex": 2,
           "explanation": "Một bức tranh sơn dầu trên tường.",
@@ -7779,10 +7779,10 @@
         {
           "prompt": "Cấu trúc tồn tại 'There is a book on the table' trong tiếng Việt nói như thế nào?",
           "options": [
-            "Không có bàn sách. (Express spatial placement (U10))",
-            "Trên bàn có một cuốn sách. (Express spatial placement (U10))",
-            "Sách ăn bàn. (Express spatial placement (U10))",
-            "Bàn là cuốn sách. (Express spatial placement (U10))"
+            "Không có bàn sách. (Express spatial placement)",
+            "Trên bàn có một cuốn sách. (Express spatial placement)",
+            "Sách ăn bàn. (Express spatial placement)",
+            "Bàn là cuốn sách. (Express spatial placement)"
           ],
           "answerIndex": 1,
           "explanation": "Trên bàn có một cuốn sách."
@@ -7790,10 +7790,10 @@
         {
           "prompt": "Từ nào chỉ vị trí 'under / underneath'?",
           "options": [
-            "Ở dưới (Express spatial placement (U10))",
-            "Ở ngoài (Express spatial placement (U10))",
-            "Ở trên trời (Express spatial placement (U10))",
-            "Ở trên (Express spatial placement (U10))"
+            "Ở dưới (Express spatial placement)",
+            "Ở ngoài (Express spatial placement)",
+            "Ở trên trời (Express spatial placement)",
+            "Ở trên (Express spatial placement)"
           ],
           "answerIndex": 0,
           "explanation": "'Ở dưới' means under/underneath."
@@ -7805,10 +7805,10 @@
         {
           "prompt": "Dịch: 'Next to the sofa there is a small lamp.'",
           "options": [
-            "Bên cạnh ghế sofa có một chiếc đèn nhỏ. (Express spatial placement (U10))",
-            "Không có đèn nào. (Express spatial placement (U10))",
-            "Chiếc đèn ở dưới gầm cầu. (Express spatial placement (U10))",
-            "Sofa ở trên ngọn cây. (Express spatial placement (U10))"
+            "Bên cạnh ghế sofa có một chiếc đèn nhỏ. (Express spatial placement)",
+            "Không có đèn nào. (Express spatial placement)",
+            "Chiếc đèn ở dưới gầm cầu. (Express spatial placement)",
+            "Sofa ở trên ngọn cây. (Express spatial placement)"
           ],
           "answerIndex": 0,
           "explanation": "Bên cạnh ghế sofa có một chiếc đèn nhỏ."
@@ -7816,10 +7816,10 @@
         {
           "prompt": "Cụm từ 'ở giữa phòng' có nghĩa là gì?",
           "options": [
-            "In the middle of the room (Express spatial placement (U10))",
-            "Under the roof (Express spatial placement (U10))",
-            "Behind the room (Express spatial placement (U10))",
-            "Outside the room (Express spatial placement (U10))"
+            "In the middle of the room (Express spatial placement)",
+            "Under the roof (Express spatial placement)",
+            "Behind the room (Express spatial placement)",
+            "Outside the room (Express spatial placement)"
           ],
           "answerIndex": 0,
           "explanation": "'Ở giữa phòng' means in the middle of the room."
@@ -7831,10 +7831,10 @@
         {
           "prompt": "Nối các từ chỉ vị trí: trên, dưới, trong, ngoài:",
           "options": [
-            "trên: on/above | dưới: under/below | trong: inside | ngoài: outside (Express spatial placement (U10))",
-            "trên: under | dưới: on | trong: outside | ngoài: inside (Express spatial placement (U10))",
-            "All mean outside (Express spatial placement (U10))",
-            "All mean inside (Express spatial placement (U10))"
+            "trên: on/above | dưới: under/below | trong: inside | ngoài: outside (Express spatial placement)",
+            "trên: under | dưới: on | trong: outside | ngoài: inside (Express spatial placement)",
+            "All mean outside (Express spatial placement)",
+            "All mean inside (Express spatial placement)"
           ],
           "answerIndex": 0,
           "explanation": "Vietnamese spatial prepositions matching.",
@@ -7843,10 +7843,10 @@
         {
           "prompt": "Tại sao cấu trúc '[Địa điểm] + có + [Danh từ]' lại cực kỳ phổ biến khi giới thiệu nhà cửa?",
           "options": [
-            "Chỉ dùng khi bán nhà (Express spatial placement (U10))",
-            "Vì tiếng Việt không có từ nào khác (Express spatial placement (U10))",
-            "Không có quy tắc (Express spatial placement (U10))",
-            "Vì đó là cách diễn đạt tự nhiên, trực quan nhất để miêu tả những đồ vật hiện diện trong không gian sống (Express spatial placement (U10))"
+            "Chỉ dùng khi bán nhà (Express spatial placement)",
+            "Vì tiếng Việt không có từ nào khác (Express spatial placement)",
+            "Không có quy tắc (Express spatial placement)",
+            "Vì đó là cách diễn đạt tự nhiên, trực quan nhất để miêu tả những đồ vật hiện diện trong không gian sống (Express spatial placement)"
           ],
           "answerIndex": 3,
           "explanation": "Location + Có is the core existential descriptive formula in Vietnamese.",
@@ -7855,10 +7855,10 @@
         {
           "prompt": "Dịch: 'In the kitchen there is a large refrigerator and an induction cooker.'",
           "options": [
-            "Tủ lạnh ở ngoài đường. (Express spatial placement (U10))",
-            "Trong bếp có một chiếc giường. (Express spatial placement (U10))",
-            "Trong bếp có một chiếc tủ lạnh lớn và một cái bếp từ. (Express spatial placement (U10))",
-            "Bếp từ ở trong tủ quần áo. (Express spatial placement (U10))"
+            "Tủ lạnh ở ngoài đường. (Express spatial placement)",
+            "Trong bếp có một chiếc giường. (Express spatial placement)",
+            "Trong bếp có một chiếc tủ lạnh lớn và một cái bếp từ. (Express spatial placement)",
+            "Bếp từ ở trong tủ quần áo. (Express spatial placement)"
           ],
           "answerIndex": 2,
           "explanation": "Trong bếp có một chiếc tủ lạnh lớn và một cái bếp từ.",
@@ -7867,10 +7867,10 @@
         {
           "prompt": "Điền từ: «Đằng _______ ngôi nhà có một mảnh vườn nhỏ trồng rau sạch.»",
           "options": [
-            "trong (Express spatial placement (U10))",
-            "sau (Express spatial placement (U10))",
-            "trên (Express spatial placement (U10))",
-            "dưới (Express spatial placement (U10))"
+            "trong (Express spatial placement)",
+            "sau (Express spatial placement)",
+            "trên (Express spatial placement)",
+            "dưới (Express spatial placement)"
           ],
           "answerIndex": 1,
           "explanation": "Đằng sau ngôi nhà (behind the house).",
@@ -7914,10 +7914,10 @@
         {
           "prompt": "Trong bài giới thiệu, căn hộ của tác giả nằm ở đâu và nhìn ra địa danh nào?",
           "options": [
-            "Ở quận Tây Hồ, Hà Nội và ban công nhìn ra Hồ Tây lộng gió (Synthesize Vietnamese housing vocabulary (U10))",
-            "Ở sân bay (Synthesize Vietnamese housing vocabulary (U10))",
-            "Dưới chân núi (Synthesize Vietnamese housing vocabulary (U10))",
-            "Trong rừng sâu (Synthesize Vietnamese housing vocabulary (U10))"
+            "Ở quận Tây Hồ, Hà Nội và ban công nhìn ra Hồ Tây lộng gió (Synthesize Vietnamese housing vocabulary)",
+            "Ở sân bay (Synthesize Vietnamese housing vocabulary)",
+            "Dưới chân núi (Synthesize Vietnamese housing vocabulary)",
+            "Trong rừng sâu (Synthesize Vietnamese housing vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'ở quận Tây Hồ, Hà Nội... ban công nhìn thẳng ra Hồ Tây lộng gió'."
@@ -7925,10 +7925,10 @@
         {
           "prompt": "Câu nói hiếu khách nào trong tiếng Việt tương đương với 'Make yourself at home'?",
           "options": [
-            "Cứ tự nhiên như ở nhà nhé! (Synthesize Vietnamese housing vocabulary (U10))",
-            "Đứng im ngoài cửa (Synthesize Vietnamese housing vocabulary (U10))",
-            "Hãy trả tiền (Synthesize Vietnamese housing vocabulary (U10))",
-            "Đi về ngay (Synthesize Vietnamese housing vocabulary (U10))"
+            "Cứ tự nhiên như ở nhà nhé! (Synthesize Vietnamese housing vocabulary)",
+            "Đứng im ngoài cửa (Synthesize Vietnamese housing vocabulary)",
+            "Hãy trả tiền (Synthesize Vietnamese housing vocabulary)",
+            "Đi về ngay (Synthesize Vietnamese housing vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "'Cứ tự nhiên như ở nhà' is the traditional hospitable welcome."
@@ -7940,10 +7940,10 @@
         {
           "prompt": "Dịch: 'Please come in, have a seat, and drink some hot lotus tea.'",
           "options": [
-            "Chúng tôi không có trà. (Synthesize Vietnamese housing vocabulary (U10))",
-            "Mời bạn vào nhà, ngồi xuống uống chén trà sen nóng nhé. (Synthesize Vietnamese housing vocabulary (U10))",
-            "Bạn hãy mua trà mang về. (Synthesize Vietnamese housing vocabulary (U10))",
-            "Mời bạn đi ngủ ngoài sân. (Synthesize Vietnamese housing vocabulary (U10))"
+            "Chúng tôi không có trà. (Synthesize Vietnamese housing vocabulary)",
+            "Mời bạn vào nhà, ngồi xuống uống chén trà sen nóng nhé. (Synthesize Vietnamese housing vocabulary)",
+            "Bạn hãy mua trà mang về. (Synthesize Vietnamese housing vocabulary)",
+            "Mời bạn đi ngủ ngoài sân. (Synthesize Vietnamese housing vocabulary)"
           ],
           "answerIndex": 1,
           "explanation": "Mời bạn vào nhà, ngồi xuống uống chén trà sen nóng."
@@ -7951,10 +7951,10 @@
         {
           "prompt": "Nét đẹp truyền thống 'khách đến nhà không trà thì bánh' thể hiện điều gì?",
           "options": [
-            "Mua bán đồ ăn (Synthesize Vietnamese housing vocabulary (U10))",
-            "Lòng hiếu khách chu đáo, luôn chuẩn bị trà ngon và quà bánh đãi khách quý (Synthesize Vietnamese housing vocabulary (U10))",
-            "Thói quen ăn vặt (Synthesize Vietnamese housing vocabulary (U10))",
-            "Ép khách phải ăn (Synthesize Vietnamese housing vocabulary (U10))"
+            "Mua bán đồ ăn (Synthesize Vietnamese housing vocabulary)",
+            "Lòng hiếu khách chu đáo, luôn chuẩn bị trà ngon và quà bánh đãi khách quý (Synthesize Vietnamese housing vocabulary)",
+            "Thói quen ăn vặt (Synthesize Vietnamese housing vocabulary)",
+            "Ép khách phải ăn (Synthesize Vietnamese housing vocabulary)"
           ],
           "answerIndex": 1,
           "explanation": "It reflects the deeply ingrained Vietnamese tradition of generous hospitality."
@@ -7966,10 +7966,10 @@
         {
           "prompt": "Những năng lực ngôn ngữ cốt lõi nào đã được hoàn thiện trong Bài 10 Tiếng Việt?",
           "options": [
-            "Chỉ các thì quá khứ của tiếng Anh (Synthesize Vietnamese housing vocabulary (U10))",
-            "Chỉ tên các loài hoa dại (Synthesize Vietnamese housing vocabulary (U10))",
-            "Thuật ngữ đóng tàu thủy (Synthesize Vietnamese housing vocabulary (U10))",
-            "Từ vựng các phòng và đồ nội thất (Synthesize Vietnamese housing vocabulary (U10))"
+            "Chỉ các thì quá khứ của tiếng Anh (Synthesize Vietnamese housing vocabulary)",
+            "Chỉ tên các loài hoa dại (Synthesize Vietnamese housing vocabulary)",
+            "Thuật ngữ đóng tàu thủy (Synthesize Vietnamese housing vocabulary)",
+            "Từ vựng các phòng và đồ nội thất (Synthesize Vietnamese housing vocabulary)"
           ],
           "answerIndex": 3,
           "explanation": "Comprehensive Vietnamese Unit 10 competencies certification.",
@@ -7978,10 +7978,10 @@
         {
           "prompt": "Hoàn thành câu tục ngữ Việt Nam ca ngợi sự ấm áp của gia đình: «Thuận vợ thuận chồng, tát biển Đông cũng _______ .»",
           "options": [
-            "chìm (Synthesize Vietnamese housing vocabulary (U10))",
-            "đầy (Synthesize Vietnamese housing vocabulary (U10))",
-            "cạn (Synthesize Vietnamese housing vocabulary (U10))",
-            "chảy (Synthesize Vietnamese housing vocabulary (U10))"
+            "chìm (Synthesize Vietnamese housing vocabulary)",
+            "đầy (Synthesize Vietnamese housing vocabulary)",
+            "cạn (Synthesize Vietnamese housing vocabulary)",
+            "chảy (Synthesize Vietnamese housing vocabulary)"
           ],
           "answerIndex": 2,
           "explanation": "«Thuận vợ thuận chồng, tát biển Đông cũng cạn» praises domestic harmony.",
@@ -7990,10 +7990,10 @@
         {
           "prompt": "Vì sao khả năng kết hợp loại từ với giới từ vị trí tạo nên sự tự nhiên vượt bậc ở trình độ A2/B1?",
           "options": [
-            "Vì nó làm giảm số lượng từ cần học (Synthesize Vietnamese housing vocabulary (U10))",
-            "Vì nó giúp người học xây dựng những câu miêu tả không gian vừa chuẩn xác về ngữ pháp vừa đậm đà sắc thái biểu cảm bản địa (Synthesize Vietnamese housing vocabulary (U10))",
-            "Không có tác dụng gì (Synthesize Vietnamese housing vocabulary (U10))",
-            "Chỉ dùng khi đọc báo (Synthesize Vietnamese housing vocabulary (U10))"
+            "Vì nó làm giảm số lượng từ cần học (Synthesize Vietnamese housing vocabulary)",
+            "Vì nó giúp người học xây dựng những câu miêu tả không gian vừa chuẩn xác về ngữ pháp vừa đậm đà sắc thái biểu cảm bản địa (Synthesize Vietnamese housing vocabulary)",
+            "Không có tác dụng gì (Synthesize Vietnamese housing vocabulary)",
+            "Chỉ dùng khi đọc báo (Synthesize Vietnamese housing vocabulary)"
           ],
           "answerIndex": 1,
           "explanation": "Pairing classifiers with spatial prepositions produces authentic native-level descriptive discourse.",
@@ -8002,10 +8002,10 @@
         {
           "prompt": "Điền từ: «Mỗi sáng, tôi thích đứng ngoài ban công hít thở không khí _______ và tưới cây.»",
           "options": [
-            "trong lành (Synthesize Vietnamese housing vocabulary (U10))",
-            "nóng rát (Synthesize Vietnamese housing vocabulary (U10))",
-            "bẩn (Synthesize Vietnamese housing vocabulary (U10))",
-            "tối tăm (Synthesize Vietnamese housing vocabulary (U10))"
+            "trong lành (Synthesize Vietnamese housing vocabulary)",
+            "nóng rát (Synthesize Vietnamese housing vocabulary)",
+            "bẩn (Synthesize Vietnamese housing vocabulary)",
+            "tối tăm (Synthesize Vietnamese housing vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "Không khí trong lành (fresh, clean air).",
@@ -8050,10 +8050,10 @@
         {
           "prompt": "Từ nào chỉ \"bụng / dạ dày\" trong tiếng Việt?",
           "options": [
-            "Mắt (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Tay (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Chân (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Bụng (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))"
+            "Mắt (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Tay (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Chân (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Bụng (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)"
           ],
           "answerIndex": 3,
           "explanation": "Bụng means stomach/belly."
@@ -8065,10 +8065,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"My eyes hurt\"",
           "options": [
-            "Tôi ăn cơm (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Mắt tôi to (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Tôi đi ngủ (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Tôi bị đau mắt / Tôi đau mắt (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))"
+            "Tôi ăn cơm (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Mắt tôi to (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Tôi đi ngủ (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Tôi bị đau mắt / Tôi đau mắt (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)"
           ],
           "answerIndex": 3,
           "explanation": "Tôi bị đau mắt expresses eye pain."
@@ -8080,10 +8080,10 @@
         {
           "prompt": "Bộ phận nào nằm giữa đầu và hai vai?",
           "options": [
-            "Đầu gối (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Bàn chân (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Cổ (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Ngón tay (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))"
+            "Đầu gối (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Bàn chân (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Cổ (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Ngón tay (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)"
           ],
           "answerIndex": 2,
           "explanation": "Cổ (neck) connects head and shoulders.",
@@ -8092,10 +8092,10 @@
         {
           "prompt": "Dịch: \"Wash your hands before eating.\"",
           "options": [
-            "Hãy ngủ sớm. (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Hãy rửa tay trước khi ăn. (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Hãy mua thuốc. (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))",
-            "Hãy uống nước. (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts (U11))"
+            "Hãy ngủ sớm. (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Hãy rửa tay trước khi ăn. (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Hãy mua thuốc. (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)",
+            "Hãy uống nước. (Hc t vng cc b phn trn c th ngi bng ting Vit Human body parts)"
           ],
           "answerIndex": 1,
           "explanation": "Hãy rửa tay trước khi ăn is exact.",
@@ -8132,10 +8132,10 @@
         {
           "prompt": "Làm thế nào để nói \"I have a sore throat\" bằng tiếng Việt?",
           "options": [
-            "Tôi bị đau họng (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Tôi đi chợ (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Tôi thích ăn cơm (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Cái họng bay (By t triu chng bnh v cn au s dng cu trc b au (U11))"
+            "Tôi bị đau họng (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Tôi đi chợ (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Tôi thích ăn cơm (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Cái họng bay (By t triu chng bnh v cn au s dng cu trc b au)"
           ],
           "answerIndex": 0,
           "explanation": "Tôi bị đau họng means my throat hurts."
@@ -8147,10 +8147,10 @@
         {
           "prompt": "Người Việt Nam thường chúc người ốm câu gì?",
           "options": [
-            "Chúc bạn mau khỏe nhé! (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Chúc mừng năm mới! (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Chúc ngon miệng! (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Chúc ngủ ngon! (By t triu chng bnh v cn au s dng cu trc b au (U11))"
+            "Chúc bạn mau khỏe nhé! (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Chúc mừng năm mới! (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Chúc ngon miệng! (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Chúc ngủ ngon! (By t triu chng bnh v cn au s dng cu trc b au)"
           ],
           "answerIndex": 0,
           "explanation": "Chúc bạn mau khỏe means get well soon."
@@ -8162,10 +8162,10 @@
         {
           "prompt": "Điền từ thích hợp: \"Trời trở lạnh nên anh ấy bị ______ cúm.\"",
           "options": [
-            "chạy (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "cảm (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "uống (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "ăn (By t triu chng bnh v cn au s dng cu trc b au (U11))"
+            "chạy (By t triu chng bnh v cn au s dng cu trc b au)",
+            "cảm (By t triu chng bnh v cn au s dng cu trc b au)",
+            "uống (By t triu chng bnh v cn au s dng cu trc b au)",
+            "ăn (By t triu chng bnh v cn au s dng cu trc b au)"
           ],
           "answerIndex": 1,
           "explanation": "Cảm cúm means flu/cold.",
@@ -8174,10 +8174,10 @@
         {
           "prompt": "Dịch: \"I feel dizzy and have chills.\"",
           "options": [
-            "Tôi bị chóng mặt và ớn lạnh. (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Tôi đi xem phim. (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Trời mưa to. (By t triu chng bnh v cn au s dng cu trc b au (U11))",
-            "Tôi rất vui vẻ. (By t triu chng bnh v cn au s dng cu trc b au (U11))"
+            "Tôi bị chóng mặt và ớn lạnh. (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Tôi đi xem phim. (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Trời mưa to. (By t triu chng bnh v cn au s dng cu trc b au)",
+            "Tôi rất vui vẻ. (By t triu chng bnh v cn au s dng cu trc b au)"
           ],
           "answerIndex": 0,
           "explanation": "Tôi bị chóng mặt và ớn lạnh is accurate.",
@@ -8215,10 +8215,10 @@
         {
           "prompt": "Cụm từ \"uống sau bữa ăn\" có nghĩa là gì?",
           "options": [
-            "Take before sleeping only (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Take while cooking (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Take medicine after meals (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Do not drink water (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))"
+            "Take before sleeping only (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Take while cooking (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Take medicine after meals (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Do not drink water (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)"
           ],
           "answerIndex": 2,
           "explanation": "Sau bữa ăn means after eating meals."
@@ -8230,10 +8230,10 @@
         {
           "prompt": "Tài liệu chỉ dẫn của bác sĩ để mua thuốc theo quy định gọi là gì?",
           "options": [
-            "Đơn thuốc / Toa thuốc (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Thẻ xe buýt (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Thực đơn (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Hóa đơn tiền điện (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))"
+            "Đơn thuốc / Toa thuốc (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Thẻ xe buýt (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Thực đơn (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Hóa đơn tiền điện (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)"
           ],
           "answerIndex": 0,
           "explanation": "Đơn thuốc is the doctor prescription."
@@ -8245,10 +8245,10 @@
         {
           "prompt": "Dịch: \"Take one pill twice a day after breakfast and dinner.\"",
           "options": [
-            "Uống mỗi ngày hai lần, mỗi lần một viên sau khi ăn sáng và ăn tối. (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Không được uống nước khi uống thuốc. (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Mua thuốc vào ngày mai. (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Uống hết cả hộp thuốc vào ban đêm. (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))"
+            "Uống mỗi ngày hai lần, mỗi lần một viên sau khi ăn sáng và ăn tối. (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Không được uống nước khi uống thuốc. (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Mua thuốc vào ngày mai. (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Uống hết cả hộp thuốc vào ban đêm. (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate dosage translation.",
@@ -8257,10 +8257,10 @@
         {
           "prompt": "Thuốc siro thường dùng để trị chứng gì?",
           "options": [
-            "Trị gãy chân (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Để rửa xe máy (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Để nấu canh (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))",
-            "Trị ho và đau rát cổ họng (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy (U11))"
+            "Trị gãy chân (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Để rửa xe máy (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Để nấu canh (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)",
+            "Trị ho và đau rát cổ họng (Mua thuc ti hiu thuc v hiu hng dn s dng thuc At the Pharmacy)"
           ],
           "answerIndex": 3,
           "explanation": "Cough syrup treats coughs and sore throats.",
@@ -8297,10 +8297,10 @@
         {
           "prompt": "Hoàn thành câu tục ngữ Việt Nam: \"Sức khỏe là ______.\"",
           "options": [
-            "đá (Tr chuyn v li sng lnh mnh (U11))",
-            "vàng (Tr chuyn v li sng lnh mnh (U11))",
-            "gió (Tr chuyn v li sng lnh mnh (U11))",
-            "bạc (Tr chuyn v li sng lnh mnh (U11))"
+            "đá (Tr chuyn v li sng lnh mnh)",
+            "vàng (Tr chuyn v li sng lnh mnh)",
+            "gió (Tr chuyn v li sng lnh mnh)",
+            "bạc (Tr chuyn v li sng lnh mnh)"
           ],
           "answerIndex": 1,
           "explanation": "Sức khỏe là vàng (Health is gold)."
@@ -8312,10 +8312,10 @@
         {
           "prompt": "Món ăn dân gian Việt Nam nào thường được nấu nóng ăn khi bị cảm cúm?",
           "options": [
-            "Cháo hành tía tô nóng (Tr chuyn v li sng lnh mnh (U11))",
-            "Nước đá (Tr chuyn v li sng lnh mnh (U11))",
-            "Kem lạnh (Tr chuyn v li sng lnh mnh (U11))",
-            "Bánh ngọt nhiều đường (Tr chuyn v li sng lnh mnh (U11))"
+            "Cháo hành tía tô nóng (Tr chuyn v li sng lnh mnh)",
+            "Nước đá (Tr chuyn v li sng lnh mnh)",
+            "Kem lạnh (Tr chuyn v li sng lnh mnh)",
+            "Bánh ngọt nhiều đường (Tr chuyn v li sng lnh mnh)"
           ],
           "answerIndex": 0,
           "explanation": "Cháo hành tía tô (hot onion and perilla porridge) is the classic cold remedy."
@@ -8327,10 +8327,10 @@
         {
           "prompt": "Đâu là thói quen sống lành mạnh được khuyến khích?",
           "options": [
-            "Ăn đồ chiên xào nhiều dầu mỡ (Tr chuyn v li sng lnh mnh (U11))",
-            "Thức khuya chơi game và uống rượu bia (Tr chuyn v li sng lnh mnh (U11))",
-            "Ngồi một chỗ cả ngày không vận động (Tr chuyn v li sng lnh mnh (U11))",
-            "Tập thể dục đều đặn, ăn nhiều rau và ngủ đủ giấc (Tr chuyn v li sng lnh mnh (U11))"
+            "Ăn đồ chiên xào nhiều dầu mỡ (Tr chuyn v li sng lnh mnh)",
+            "Thức khuya chơi game và uống rượu bia (Tr chuyn v li sng lnh mnh)",
+            "Ngồi một chỗ cả ngày không vận động (Tr chuyn v li sng lnh mnh)",
+            "Tập thể dục đều đặn, ăn nhiều rau và ngủ đủ giấc (Tr chuyn v li sng lnh mnh)"
           ],
           "answerIndex": 3,
           "explanation": "Regular exercise, vegetables, and sufficient sleep.",
@@ -8339,10 +8339,10 @@
         {
           "prompt": "Dịch: \"Walking daily strengthens cardiovascular health.\"",
           "options": [
-            "Bệnh viện rất xa. (Tr chuyn v li sng lnh mnh (U11))",
-            "Đi bộ làm hỏng chân. (Tr chuyn v li sng lnh mnh (U11))",
-            "Đi bộ mỗi ngày giúp tăng cường sức khỏe tim mạch. (Tr chuyn v li sng lnh mnh (U11))",
-            "Bác sĩ không cho đi bộ. (Tr chuyn v li sng lnh mnh (U11))"
+            "Bệnh viện rất xa. (Tr chuyn v li sng lnh mnh)",
+            "Đi bộ làm hỏng chân. (Tr chuyn v li sng lnh mnh)",
+            "Đi bộ mỗi ngày giúp tăng cường sức khỏe tim mạch. (Tr chuyn v li sng lnh mnh)",
+            "Bác sĩ không cho đi bộ. (Tr chuyn v li sng lnh mnh)"
           ],
           "answerIndex": 2,
           "explanation": "Đi bộ mỗi ngày giúp tăng cường sức khỏe tim mạch is exact.",
@@ -8379,10 +8379,10 @@
         {
           "prompt": "Khi bác sĩ dùng ống nghe khám phổi và bảo \"Thở sâu vào\", bạn cần làm gì?",
           "options": [
-            "Hít một hơi thật sâu bằng miệng/mũi (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Nín thở 10 phút (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Đứng dậy chạy (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Uống một cốc nước (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))"
+            "Hít một hơi thật sâu bằng miệng/mũi (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Nín thở 10 phút (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Đứng dậy chạy (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Uống một cốc nước (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)"
           ],
           "answerIndex": 0,
           "explanation": "Thở sâu vào instructs deep breathing for stethoscope exam."
@@ -8394,10 +8394,10 @@
         {
           "prompt": "Giấy chứng nhận y tế của bác sĩ cho phép nghỉ làm việc khi bị bệnh gọi là gì?",
           "options": [
-            "Thẻ thư viện (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Giấy nghỉ ốm / Giấy chứng nhận sức khỏe (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Giấy phép lái xe (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Vé xem phim (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))"
+            "Thẻ thư viện (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Giấy nghỉ ốm / Giấy chứng nhận sức khỏe (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Giấy phép lái xe (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Vé xem phim (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)"
           ],
           "answerIndex": 1,
           "explanation": "Giấy nghỉ ốm is the medical sick leave certificate."
@@ -8409,10 +8409,10 @@
         {
           "prompt": "Sắp xếp trình tự hợp lý khi đi khám bệnh tại bệnh viện:",
           "options": [
-            "1. Nộp tiền -> 2. Về nhà ngủ -> 3. Đăng ký (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "1. Uống thuốc -> 2. Đi khám -> 3. Bị ốm (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "1. Đăng ký & lấy số khám -> 2. Vào phòng gặp bác sĩ -> 3. Khám lâm sàng -> 4. Nhận đơn thuốc & lấy thuốc tại quầy (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "1. Ra viện -> 2. Nhập viện -> 3. Đi du lịch (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))"
+            "1. Nộp tiền -> 2. Về nhà ngủ -> 3. Đăng ký (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "1. Uống thuốc -> 2. Đi khám -> 3. Bị ốm (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "1. Đăng ký & lấy số khám -> 2. Vào phòng gặp bác sĩ -> 3. Khám lâm sàng -> 4. Nhận đơn thuốc & lấy thuốc tại quầy (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "1. Ra viện -> 2. Nhập viện -> 3. Đi du lịch (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)"
           ],
           "answerIndex": 2,
           "explanation": "Standard clinical consultation workflow.",
@@ -8421,10 +8421,10 @@
         {
           "prompt": "Dịch: \"The doctor advised me to rest at home for three days.\"",
           "options": [
-            "Bác sĩ đi nghỉ mát ở biển. (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Bác sĩ khuyên tôi nên nghỉ ngơi tại nhà trong ba ngày. (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Tôi đi làm thêm ba ngày. (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))",
-            "Bệnh viện đóng cửa ba ngày. (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm (U11))"
+            "Bác sĩ đi nghỉ mát ở biển. (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Bác sĩ khuyên tôi nên nghỉ ngơi tại nhà trong ba ngày. (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Tôi đi làm thêm ba ngày. (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)",
+            "Bệnh viện đóng cửa ba ngày. (Thc hnh hi thoi khm bnh hon chnh vi bc s ti bnh vinphng khm)"
           ],
           "answerIndex": 1,
           "explanation": "Bác sĩ khuyên tôi nên nghỉ ngơi tại nhà trong ba ngày is exact.",
@@ -8461,10 +8461,10 @@
         {
           "prompt": "Làm thế nào để nói \"I work as a software engineer\" bằng tiếng Việt?",
           "options": [
-            "Tôi là máy tính (Hc t vng v cc ngnh ngh (U12))",
-            "Tôi mua điện thoại (Hc t vng v cc ngnh ngh (U12))",
-            "Tôi ngủ ở văn phòng (Hc t vng v cc ngnh ngh (U12))",
-            "Tôi làm kỹ sư phần mềm / lập trình viên (Hc t vng v cc ngnh ngh (U12))"
+            "Tôi là máy tính (Hc t vng v cc ngnh ngh)",
+            "Tôi mua điện thoại (Hc t vng v cc ngnh ngh)",
+            "Tôi ngủ ở văn phòng (Hc t vng v cc ngnh ngh)",
+            "Tôi làm kỹ sư phần mềm / lập trình viên (Hc t vng v cc ngnh ngh)"
           ],
           "answerIndex": 3,
           "explanation": "Tôi làm kỹ sư phần mềm is accurate."
@@ -8476,10 +8476,10 @@
         {
           "prompt": "Công việc của một \"kế toán viên\" là gì?",
           "options": [
-            "Lái xe buýt (Hc t vng v cc ngnh ngh (U12))",
-            "Sơn tường nhà (Hc t vng v cc ngnh ngh (U12))",
-            "Nấu ăn tại khách sạn (Hc t vng v cc ngnh ngh (U12))",
-            "Quản lý sổ sách tài chính, thu chi và báo cáo thuế của công ty (Hc t vng v cc ngnh ngh (U12))"
+            "Lái xe buýt (Hc t vng v cc ngnh ngh)",
+            "Sơn tường nhà (Hc t vng v cc ngnh ngh)",
+            "Nấu ăn tại khách sạn (Hc t vng v cc ngnh ngh)",
+            "Quản lý sổ sách tài chính, thu chi và báo cáo thuế của công ty (Hc t vng v cc ngnh ngh)"
           ],
           "answerIndex": 3,
           "explanation": "Accountant role."
@@ -8491,10 +8491,10 @@
         {
           "prompt": "Hai trung tâm kinh tế và công nghệ lớn nhất tại Việt Nam là gì?",
           "options": [
-            "Rừng Cúc Phương (Hc t vng v cc ngnh ngh (U12))",
-            "Hà Nội và Thành phố Hồ Chí Minh (Hc t vng v cc ngnh ngh (U12))",
-            "Đỉnh Fansipan (Hc t vng v cc ngnh ngh (U12))",
-            "Đảo Phú Quốc (Hc t vng v cc ngnh ngh (U12))"
+            "Rừng Cúc Phương (Hc t vng v cc ngnh ngh)",
+            "Hà Nội và Thành phố Hồ Chí Minh (Hc t vng v cc ngnh ngh)",
+            "Đỉnh Fansipan (Hc t vng v cc ngnh ngh)",
+            "Đảo Phú Quốc (Hc t vng v cc ngnh ngh)"
           ],
           "answerIndex": 1,
           "explanation": "Hanoi and Ho Chi Minh City.",
@@ -8503,10 +8503,10 @@
         {
           "prompt": "Dịch: \"She works as a project manager at a multinational corporation.\"",
           "options": [
-            "Cô ấy làm quản lý dự án tại một tập đoàn đa quốc gia. (Hc t vng v cc ngnh ngh (U12))",
-            "Cô ấy đi chợ mua rau. (Hc t vng v cc ngnh ngh (U12))",
-            "Văn phòng đóng cửa. (Hc t vng v cc ngnh ngh (U12))",
-            "Cô ấy là học sinh tiểu học. (Hc t vng v cc ngnh ngh (U12))"
+            "Cô ấy làm quản lý dự án tại một tập đoàn đa quốc gia. (Hc t vng v cc ngnh ngh)",
+            "Cô ấy đi chợ mua rau. (Hc t vng v cc ngnh ngh)",
+            "Văn phòng đóng cửa. (Hc t vng v cc ngnh ngh)",
+            "Cô ấy là học sinh tiểu học. (Hc t vng v cc ngnh ngh)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate business translation.",
@@ -8543,10 +8543,10 @@
         {
           "prompt": "Cụm từ \"làm việc từ xa\" hoặc \"làm việc tại nhà\" có nghĩa là gì?",
           "options": [
-            "Làm việc thông qua máy tính và internet mà không cần đến văn phòng (M t cng vic hng ngy  vn phng (U12))",
-            "Làm việc ngoài đồng (M t cng vic hng ngy  vn phng (U12))",
-            "Đi du lịch không làm việc (M t cng vic hng ngy  vn phng (U12))",
-            "Nghỉ việc hoàn toàn (M t cng vic hng ngy  vn phng (U12))"
+            "Làm việc thông qua máy tính và internet mà không cần đến văn phòng (M t cng vic hng ngy  vn phng)",
+            "Làm việc ngoài đồng (M t cng vic hng ngy  vn phng)",
+            "Đi du lịch không làm việc (M t cng vic hng ngy  vn phng)",
+            "Nghỉ việc hoàn toàn (M t cng vic hng ngy  vn phng)"
           ],
           "answerIndex": 0,
           "explanation": "Remote work."
@@ -8558,10 +8558,10 @@
         {
           "prompt": "Thức uống truyền thống quen thuộc của nhân viên văn phòng Việt Nam vào buổi sáng là gì?",
           "options": [
-            "Cà phê sữa đá hoặc trà nóng (M t cng vic hng ngy  vn phng (U12))",
-            "Dầu ăn nóng (M t cng vic hng ngy  vn phng (U12))",
-            "Nước muối (M t cng vic hng ngy  vn phng (U12))",
-            "Nước mắm (M t cng vic hng ngy  vn phng (U12))"
+            "Cà phê sữa đá hoặc trà nóng (M t cng vic hng ngy  vn phng)",
+            "Dầu ăn nóng (M t cng vic hng ngy  vn phng)",
+            "Nước muối (M t cng vic hng ngy  vn phng)",
+            "Nước mắm (M t cng vic hng ngy  vn phng)"
           ],
           "answerIndex": 0,
           "explanation": "Cà phê sữa đá is the classic morning drink."
@@ -8573,10 +8573,10 @@
         {
           "prompt": "Ý nghĩa của việc \"hoàn thành đúng thời hạn\" (deadline) là gì?",
           "options": [
-            "Giao nộp sản phẩm hoặc nhiệm vụ đúng ngày đã cam kết (M t cng vic hng ngy  vn phng (U12))",
-            "Hủy bỏ dự án (M t cng vic hng ngy  vn phng (U12))",
-            "Đi làm muộn 3 tiếng (M t cng vic hng ngy  vn phng (U12))",
-            "Bỏ dở công việc (M t cng vic hng ngy  vn phng (U12))"
+            "Giao nộp sản phẩm hoặc nhiệm vụ đúng ngày đã cam kết (M t cng vic hng ngy  vn phng)",
+            "Hủy bỏ dự án (M t cng vic hng ngy  vn phng)",
+            "Đi làm muộn 3 tiếng (M t cng vic hng ngy  vn phng)",
+            "Bỏ dở công việc (M t cng vic hng ngy  vn phng)"
           ],
           "answerIndex": 0,
           "explanation": "Meeting target date.",
@@ -8585,10 +8585,10 @@
         {
           "prompt": "Dịch: \"We scheduled an important video call with our partners this afternoon.\"",
           "options": [
-            "Tôi không có máy tính. (M t cng vic hng ngy  vn phng (U12))",
-            "Đối tác sống ở nông thôn. (M t cng vic hng ngy  vn phng (U12))",
-            "Hôm qua chúng tôi đã ăn cơm trưa. (M t cng vic hng ngy  vn phng (U12))",
-            "Chúng tôi đã lên lịch cuộc họp trực tuyến quan trọng với đối tác vào chiều nay. (M t cng vic hng ngy  vn phng (U12))"
+            "Tôi không có máy tính. (M t cng vic hng ngy  vn phng)",
+            "Đối tác sống ở nông thôn. (M t cng vic hng ngy  vn phng)",
+            "Hôm qua chúng tôi đã ăn cơm trưa. (M t cng vic hng ngy  vn phng)",
+            "Chúng tôi đã lên lịch cuộc họp trực tuyến quan trọng với đối tác vào chiều nay. (M t cng vic hng ngy  vn phng)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate business translation.",
@@ -8625,10 +8625,10 @@
         {
           "prompt": "Làm thế nào để nhắc đồng nghiệp đang tắt micro trong cuộc họp Zoom?",
           "options": [
-            "Bạn không có màn hình. (T vng cng ngh thng tin (U12))",
-            "Hãy tắt máy tính đi. (T vng cng ngh thng tin (U12))",
-            "Bạn đang tắt mic rồi! Hãy bật mic lên. (T vng cng ngh thng tin (U12))",
-            "Hãy đóng cửa sổ lại. (T vng cng ngh thng tin (U12))"
+            "Bạn không có màn hình. (T vng cng ngh thng tin)",
+            "Hãy tắt máy tính đi. (T vng cng ngh thng tin)",
+            "Bạn đang tắt mic rồi! Hãy bật mic lên. (T vng cng ngh thng tin)",
+            "Hãy đóng cửa sổ lại. (T vng cng ngh thng tin)"
           ],
           "answerIndex": 2,
           "explanation": "Bạn đang tắt mic is standard."
@@ -8640,10 +8640,10 @@
         {
           "prompt": "Thuật ngữ \"chia sẻ màn hình\" có nghĩa là gì?",
           "options": [
-            "Trình chiếu màn hình máy tính của mình cho mọi người cùng xem trong cuộc họp trực tuyến (T vng cng ngh thng tin (U12))",
-            "Lau sạch màn hình máy tính (T vng cng ngh thng tin (U12))",
-            "Tắt mạng internet (T vng cng ngh thng tin (U12))",
-            "Mua màn hình mới (T vng cng ngh thng tin (U12))"
+            "Trình chiếu màn hình máy tính của mình cho mọi người cùng xem trong cuộc họp trực tuyến (T vng cng ngh thng tin)",
+            "Lau sạch màn hình máy tính (T vng cng ngh thng tin)",
+            "Tắt mạng internet (T vng cng ngh thng tin)",
+            "Mua màn hình mới (T vng cng ngh thng tin)"
           ],
           "answerIndex": 0,
           "explanation": "Screen sharing."
@@ -8655,10 +8655,10 @@
         {
           "prompt": "Từ nào chỉ \"password\" trong tiếng Việt?",
           "options": [
-            "Bàn phím (T vng cng ngh thng tin (U12))",
-            "Tệp tin (T vng cng ngh thng tin (U12))",
-            "Dây cáp (T vng cng ngh thng tin (U12))",
-            "Mật khẩu / Mật mã (T vng cng ngh thng tin (U12))"
+            "Bàn phím (T vng cng ngh thng tin)",
+            "Tệp tin (T vng cng ngh thng tin)",
+            "Dây cáp (T vng cng ngh thng tin)",
+            "Mật khẩu / Mật mã (T vng cng ngh thng tin)"
           ],
           "answerIndex": 3,
           "explanation": "Mật khẩu is password.",
@@ -8667,10 +8667,10 @@
         {
           "prompt": "Dịch: \"Please enter your username and password to log in.\"",
           "options": [
-            "Màn hình bị bẩn. (T vng cng ngh thng tin (U12))",
-            "Chuột máy tính bị hỏng. (T vng cng ngh thng tin (U12))",
-            "Vui lòng nhập tên người dùng và mật khẩu để đăng nhập. (T vng cng ngh thng tin (U12))",
-            "Hãy mua một chiếc máy tính mới. (T vng cng ngh thng tin (U12))"
+            "Màn hình bị bẩn. (T vng cng ngh thng tin)",
+            "Chuột máy tính bị hỏng. (T vng cng ngh thng tin)",
+            "Vui lòng nhập tên người dùng và mật khẩu để đăng nhập. (T vng cng ngh thng tin)",
+            "Hãy mua một chiếc máy tính mới. (T vng cng ngh thng tin)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate interface instruction.",
@@ -8707,10 +8707,10 @@
         {
           "prompt": "Lời kết thúc thư trang trọng và phổ biến nhất trong email công việc ở Việt Nam là gì?",
           "options": [
-            "Hẹn gặp ở quán bar (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Trân trọng, / Kính thư, (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Không chào đâu (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Tạm biệt nhé bồ! (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))"
+            "Hẹn gặp ở quán bar (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Trân trọng, / Kính thư, (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Không chào đâu (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Tạm biệt nhé bồ! (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)"
           ],
           "answerIndex": 1,
           "explanation": "Trân trọng is the standard closing."
@@ -8722,10 +8722,10 @@
         {
           "prompt": "Làm thế nào để thông báo lịch sự rằng có tệp đính kèm trong thư?",
           "options": [
-            "Tôi xin gửi kèm theo đây tệp tài liệu được yêu cầu. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Hãy tự tìm trên mạng. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Tôi không gửi gì cả. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Tài liệu bị mất rồi. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))"
+            "Tôi xin gửi kèm theo đây tệp tài liệu được yêu cầu. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Hãy tự tìm trên mạng. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Tôi không gửi gì cả. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Tài liệu bị mất rồi. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)"
           ],
           "answerIndex": 0,
           "explanation": "Gửi kèm theo đây indicates attachments."
@@ -8737,10 +8737,10 @@
         {
           "prompt": "Cụm từ \"Kính gửi\" thường dùng ở vị trí nào trong email?",
           "options": [
-            "Ở cuối thư sau chữ ký (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Không bao giờ dùng (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Ở đầu thư để chào hỏi người nhận một cách trang trọng (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Ở phần tệp đính kèm (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))"
+            "Ở cuối thư sau chữ ký (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Không bao giờ dùng (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Ở đầu thư để chào hỏi người nhận một cách trang trọng (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Ở phần tệp đính kèm (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)"
           ],
           "answerIndex": 2,
           "explanation": "Kính gửi is the formal opening salutation.",
@@ -8749,10 +8749,10 @@
         {
           "prompt": "Dịch: \"Thank you for your prompt reply and cooperation.\"",
           "options": [
-            "Bạn đã trả lời quá muộn. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Cảm ơn bạn đã phản hồi nhanh chóng và hợp tác. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Điện thoại hết pin. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))",
-            "Tôi không nhận được thư của bạn. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit (U12))"
+            "Bạn đã trả lời quá muộn. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Cảm ơn bạn đã phản hồi nhanh chóng và hợp tác. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Điện thoại hết pin. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)",
+            "Tôi không nhận được thư của bạn. (Vit th in t email chuyn nghip v th tn thng mi bng ting Vit)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate business gratitude.",
@@ -8789,10 +8789,10 @@
         {
           "prompt": "Khái niệm \"mức lương kỳ vọng\" trong phỏng vấn có nghĩa là gì?",
           "options": [
-            "Mức thu nhập mà ứng viên mong muốn nhận được khi nhận việc (Thc hnh phng vn tuyn dng (U12))",
-            "Giá tiền của chiếc xe máy (Thc hnh phng vn tuyn dng (U12))",
-            "Tiền thuê nhà trọ (Thc hnh phng vn tuyn dng (U12))",
-            "Tiền vé máy bay (Thc hnh phng vn tuyn dng (U12))"
+            "Mức thu nhập mà ứng viên mong muốn nhận được khi nhận việc (Thc hnh phng vn tuyn dng)",
+            "Giá tiền của chiếc xe máy (Thc hnh phng vn tuyn dng)",
+            "Tiền thuê nhà trọ (Thc hnh phng vn tuyn dng)",
+            "Tiền vé máy bay (Thc hnh phng vn tuyn dng)"
           ],
           "answerIndex": 0,
           "explanation": "Mức lương kỳ vọng is expected compensation."
@@ -8804,10 +8804,10 @@
         {
           "prompt": "Làm thế nào để nêu bật kỹ năng làm việc nhóm trong buổi phỏng vấn?",
           "options": [
-            "Tôi chỉ làm việc khi bị bắt buộc. (Thc hnh phng vn tuyn dng (U12))",
-            "Tôi có khả năng làm việc nhóm tốt và giao tiếp cởi mở với đồng nghiệp. (Thc hnh phng vn tuyn dng (U12))",
-            "Tôi không quan tâm đến dự án. (Thc hnh phng vn tuyn dng (U12))",
-            "Tôi không bao giờ nói chuyện với ai. (Thc hnh phng vn tuyn dng (U12))"
+            "Tôi chỉ làm việc khi bị bắt buộc. (Thc hnh phng vn tuyn dng)",
+            "Tôi có khả năng làm việc nhóm tốt và giao tiếp cởi mở với đồng nghiệp. (Thc hnh phng vn tuyn dng)",
+            "Tôi không quan tâm đến dự án. (Thc hnh phng vn tuyn dng)",
+            "Tôi không bao giờ nói chuyện với ai. (Thc hnh phng vn tuyn dng)"
           ],
           "answerIndex": 1,
           "explanation": "Teamwork competency highlight."
@@ -8819,10 +8819,10 @@
         {
           "prompt": "Hồ sơ tài liệu tóm tắt quá trình học tập và kinh nghiệm làm việc khi xin việc gọi là gì?",
           "options": [
-            "Giấy phép lái xe (Thc hnh phng vn tuyn dng (U12))",
-            "Sơ yếu lý lịch / CV / Hồ sơ ứng tuyển (Thc hnh phng vn tuyn dng (U12))",
-            "Hóa đơn tiền điện (Thc hnh phng vn tuyn dng (U12))",
-            "Phiếu mua hàng siêu thị (Thc hnh phng vn tuyn dng (U12))"
+            "Giấy phép lái xe (Thc hnh phng vn tuyn dng)",
+            "Sơ yếu lý lịch / CV / Hồ sơ ứng tuyển (Thc hnh phng vn tuyn dng)",
+            "Hóa đơn tiền điện (Thc hnh phng vn tuyn dng)",
+            "Phiếu mua hàng siêu thị (Thc hnh phng vn tuyn dng)"
           ],
           "answerIndex": 1,
           "explanation": "CV / Sơ yếu lý lịch.",
@@ -8831,10 +8831,10 @@
         {
           "prompt": "Dịch: \"I have strong problem-solving and analytical skills.\"",
           "options": [
-            "Tôi có kỹ năng phân tích tốt và khả năng giải quyết các vấn đề phức tạp. (Thc hnh phng vn tuyn dng (U12))",
-            "Tôi không biết dùng máy tính. (Thc hnh phng vn tuyn dng (U12))",
-            "Tôi không muốn nhận trách nhiệm. (Thc hnh phng vn tuyn dng (U12))",
-            "Công ty đã đóng cửa. (Thc hnh phng vn tuyn dng (U12))"
+            "Tôi có kỹ năng phân tích tốt và khả năng giải quyết các vấn đề phức tạp. (Thc hnh phng vn tuyn dng)",
+            "Tôi không biết dùng máy tính. (Thc hnh phng vn tuyn dng)",
+            "Tôi không muốn nhận trách nhiệm. (Thc hnh phng vn tuyn dng)",
+            "Công ty đã đóng cửa. (Thc hnh phng vn tuyn dng)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate competency statement.",
@@ -8871,10 +8871,10 @@
         {
           "prompt": "Nhạc cụ truyền thống độc đáo của Việt Nam chỉ có một dây nhưng phát ra âm thanh du dương là gì?",
           "options": [
-            "Đàn piano (By t s thch (U13))",
-            "Trống đồng (By t s thch (U13))",
-            "Kèn tây (By t s thch (U13))",
-            "Đàn bầu (By t s thch (U13))"
+            "Đàn piano (By t s thch)",
+            "Trống đồng (By t s thch)",
+            "Kèn tây (By t s thch)",
+            "Đàn bầu (By t s thch)"
           ],
           "answerIndex": 3,
           "explanation": "Đàn bầu (Vietnamese monochord)."
@@ -8886,9 +8886,9 @@
         {
           "prompt": "Dịch: \"In my free time, I enjoy playing the acoustic guitar.\"",
           "options": [
-            "Tôi bán đàn cũ. (By t s thch (U13))",
-            "Âm nhạc thật buồn ngủ. (By t s thch (U13))",
-            "Tôi không có thời gian rảnh. (By t s thch (U13))",
+            "Tôi bán đàn cũ. (By t s thch)",
+            "Âm nhạc thật buồn ngủ. (By t s thch)",
+            "Tôi không có thời gian rảnh. (By t s thch)",
             "Vào thời gian rảnh, tôi thích chơi đàn ghi-ta mộc (acoustic)"
           ],
           "answerIndex": 3,
@@ -8901,10 +8901,10 @@
         {
           "prompt": "Hồ nước ngọt tự nhiên lớn nhất Hà Nội là nơi lý tưởng để đi dạo và ngắm hoàng hôn?",
           "options": [
-            "Hồ Tây (By t s thch (U13))",
-            "Sông Hồng (By t s thch (U13))",
-            "Hồ Ba Bể (By t s thch (U13))",
-            "Biển Đông (By t s thch (U13))"
+            "Hồ Tây (By t s thch)",
+            "Sông Hồng (By t s thch)",
+            "Hồ Ba Bể (By t s thch)",
+            "Biển Đông (By t s thch)"
           ],
           "answerIndex": 0,
           "explanation": "Hồ Tây in Hanoi.",
@@ -8913,10 +8913,10 @@
         {
           "prompt": "Điền từ: \"Vào cuối tuần, chúng tôi thường đi ______ trên núi để thư giãn.\"",
           "options": [
-            "mua máy tính (By t s thch (U13))",
-            "làm báo cáo thuế (By t s thch (U13))",
-            "họp công ty (By t s thch (U13))",
-            "leo núi / dã ngoại (By t s thch (U13))"
+            "mua máy tính (By t s thch)",
+            "làm báo cáo thuế (By t s thch)",
+            "họp công ty (By t s thch)",
+            "leo núi / dã ngoại (By t s thch)"
           ],
           "answerIndex": 3,
           "explanation": "Leo núi / dã ngoại means hiking/picnic.",
@@ -8953,10 +8953,10 @@
         {
           "prompt": "Môn võ thuật truyền thống nổi tiếng của Việt Nam với các đòn kẹp cổ bay người độc đáo là gì?",
           "options": [
-            "Vovinam (Vn ha th thao Vit Nam (U13))",
-            "Đấu vật Mỹ (Vn ha th thao Vit Nam (U13))",
-            "Sumo (Vn ha th thao Vit Nam (U13))",
-            "Kung Fu Thiếu Lâm (Vn ha th thao Vit Nam (U13))"
+            "Vovinam (Vn ha th thao Vit Nam)",
+            "Đấu vật Mỹ (Vn ha th thao Vit Nam)",
+            "Sumo (Vn ha th thao Vit Nam)",
+            "Kung Fu Thiếu Lâm (Vn ha th thao Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Vovinam (Việt Võ Đạo)."
@@ -8968,10 +8968,10 @@
         {
           "prompt": "Sân vận động quốc gia lớn nhất tại thủ đô Hà Nội là sân nào?",
           "options": [
-            "Sân vận động Quốc gia Mỹ Đình (Vn ha th thao Vit Nam (U13))",
-            "Sân Hàng Đẫy (Vn ha th thao Vit Nam (U13))",
-            "Sân Thống Nhất (Vn ha th thao Vit Nam (U13))",
-            "Sân Lạch Tray (Vn ha th thao Vit Nam (U13))"
+            "Sân vận động Quốc gia Mỹ Đình (Vn ha th thao Vit Nam)",
+            "Sân Hàng Đẫy (Vn ha th thao Vit Nam)",
+            "Sân Thống Nhất (Vn ha th thao Vit Nam)",
+            "Sân Lạch Tray (Vn ha th thao Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Mỹ Đình National Stadium."
@@ -8983,10 +8983,10 @@
         {
           "prompt": "Hiện tượng người dân đổ ra đường ăn mừng sau chiến thắng vang dội của bóng đá Việt Nam gọi là gì?",
           "options": [
-            "Chạy trốn (Vn ha th thao Vit Nam (U13))",
-            "Đi ngủ sớm (Vn ha th thao Vit Nam (U13))",
-            "Đi làm thêm (Vn ha th thao Vit Nam (U13))",
-            "Đi bão / Ăn mừng chiến thắng (Vn ha th thao Vit Nam (U13))"
+            "Chạy trốn (Vn ha th thao Vit Nam)",
+            "Đi ngủ sớm (Vn ha th thao Vit Nam)",
+            "Đi làm thêm (Vn ha th thao Vit Nam)",
+            "Đi bão / Ăn mừng chiến thắng (Vn ha th thao Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Đi bão.",
@@ -8995,10 +8995,10 @@
         {
           "prompt": "Dịch: \"Our team scored a goal in the 90th minute and won the championship.\"",
           "options": [
-            "Trận đấu bị hoãn. (Vn ha th thao Vit Nam (U13))",
-            "Sân vận động không có ai. (Vn ha th thao Vit Nam (U13))",
-            "Đội của chúng tôi đã ghi bàn ở phút thứ 90 và giành chức vô địch. (Vn ha th thao Vit Nam (U13))",
-            "Chúng tôi đã thua trận đấu hôm qua. (Vn ha th thao Vit Nam (U13))"
+            "Trận đấu bị hoãn. (Vn ha th thao Vit Nam)",
+            "Sân vận động không có ai. (Vn ha th thao Vit Nam)",
+            "Đội của chúng tôi đã ghi bàn ở phút thứ 90 và giành chức vô địch. (Vn ha th thao Vit Nam)",
+            "Chúng tôi đã thua trận đấu hôm qua. (Vn ha th thao Vit Nam)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate championship victory translation.",
@@ -9035,10 +9035,10 @@
         {
           "prompt": "Loại hình nghệ thuật sân khấu dân gian biểu diễn trên mặt nước độc nhất vô nhị của Việt Nam là gì?",
           "options": [
-            "Múa ba-lê (m nhc (U13))",
-            "Kịch xiếc thú (m nhc (U13))",
-            "Múa rối nước (m nhc (U13))",
-            "Hát tuồng phương Tây (m nhc (U13))"
+            "Múa ba-lê (m nhc)",
+            "Kịch xiếc thú (m nhc)",
+            "Múa rối nước (m nhc)",
+            "Hát tuồng phương Tây (m nhc)"
           ],
           "answerIndex": 2,
           "explanation": "Múa rối nước."
@@ -9050,10 +9050,10 @@
         {
           "prompt": "Âm nhạc cung đình triều Nguyễn được UNESCO vinh danh là di sản văn hóa thế giới là gì?",
           "options": [
-            "Nhã nhạc cung đình Huế (m nhc (U13))",
-            "Nhạc rap hiện đại (m nhc (U13))",
-            "Nhạc Disco (m nhc (U13))",
-            "Nhạc Rock (m nhc (U13))"
+            "Nhã nhạc cung đình Huế (m nhc)",
+            "Nhạc rap hiện đại (m nhc)",
+            "Nhạc Disco (m nhc)",
+            "Nhạc Rock (m nhc)"
           ],
           "answerIndex": 0,
           "explanation": "Nhã nhạc cung đình Huế."
@@ -9065,10 +9065,10 @@
         {
           "prompt": "Bảo tàng nào tại Hà Nội nổi tiếng với việc trưng bày văn hóa 54 dân tộc anh em của Việt Nam?",
           "options": [
-            "Bảo tàng Hermitage (m nhc (U13))",
-            "Bảo tàng Prado (m nhc (U13))",
-            "Bảo tàng Dân tộc học Việt Nam (m nhc (U13))",
-            "Bảo tàng Louvre (m nhc (U13))"
+            "Bảo tàng Hermitage (m nhc)",
+            "Bảo tàng Prado (m nhc)",
+            "Bảo tàng Dân tộc học Việt Nam (m nhc)",
+            "Bảo tàng Louvre (m nhc)"
           ],
           "answerIndex": 2,
           "explanation": "Vietnam Museum of Ethnology.",
@@ -9077,10 +9077,10 @@
         {
           "prompt": "Dịch: \"We bought tickets for the live music concert in Da Nang.\"",
           "options": [
-            "Buổi hòa nhạc đã bị hủy. (m nhc (U13))",
-            "Chúng tôi đã mua vé xem buổi hòa nhạc trực tiếp tại Đà Nẵng. (m nhc (U13))",
-            "Chúng tôi không nghe nhạc. (m nhc (U13))",
-            "Chúng tôi đã bán hết vé. (m nhc (U13))"
+            "Buổi hòa nhạc đã bị hủy. (m nhc)",
+            "Chúng tôi đã mua vé xem buổi hòa nhạc trực tiếp tại Đà Nẵng. (m nhc)",
+            "Chúng tôi không nghe nhạc. (m nhc)",
+            "Chúng tôi đã bán hết vé. (m nhc)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate concert ticket translation.",
@@ -9117,10 +9117,10 @@
         {
           "prompt": "Cụm từ tiếng lóng \"Kèo này triển luôn!\" của giới trẻ Việt Nam có nghĩa là gì?",
           "options": [
-            "Tôi đang ngủ (R bn b i chi (U13))",
-            "Đồng ý tham gia ngay lập tức! / Nhất trí luôn! (R bn b i chi (U13))",
-            "Hủy bỏ hoàn toàn (R bn b i chi (U13))",
-            "Tôi không muốn đi (R bn b i chi (U13))"
+            "Tôi đang ngủ (R bn b i chi)",
+            "Đồng ý tham gia ngay lập tức! / Nhất trí luôn! (R bn b i chi)",
+            "Hủy bỏ hoàn toàn (R bn b i chi)",
+            "Tôi không muốn đi (R bn b i chi)"
           ],
           "answerIndex": 1,
           "explanation": "Kèo này triển luôn means count me in."
@@ -9132,10 +9132,10 @@
         {
           "prompt": "Cách rủ bạn đi uống cà phê phổ biến và tự nhiên nhất là gì?",
           "options": [
-            "Đi cà phê không? / Chiều nay rảnh đi cà phê nhé! (R bn b i chi (U13))",
-            "Không được uống cà phê (R bn b i chi (U13))",
-            "Quán đóng cửa rồi (R bn b i chi (U13))",
-            "Bạn phải đi mua cà phê cho tôi (R bn b i chi (U13))"
+            "Đi cà phê không? / Chiều nay rảnh đi cà phê nhé! (R bn b i chi)",
+            "Không được uống cà phê (R bn b i chi)",
+            "Quán đóng cửa rồi (R bn b i chi)",
+            "Bạn phải đi mua cà phê cho tôi (R bn b i chi)"
           ],
           "answerIndex": 0,
           "explanation": "Đi cà phê không? is standard."
@@ -9147,10 +9147,10 @@
         {
           "prompt": "Làm thế nào để từ chối một lời mời đi chơi một cách lịch sự và thân thiện?",
           "options": [
-            "Im lặng và bỏ đi (R bn b i chi (U13))",
-            "Tiếc quá hôm nay mình bận mất rồi, hẹn bạn dịp cuối tuần nhé! (R bn b i chi (U13))",
-            "Tôi ghét bạn, đừng rủ nữa (R bn b i chi (U13))",
-            "Không bao giờ đi với bạn (R bn b i chi (U13))"
+            "Im lặng và bỏ đi (R bn b i chi)",
+            "Tiếc quá hôm nay mình bận mất rồi, hẹn bạn dịp cuối tuần nhé! (R bn b i chi)",
+            "Tôi ghét bạn, đừng rủ nữa (R bn b i chi)",
+            "Không bao giờ đi với bạn (R bn b i chi)"
           ],
           "answerIndex": 1,
           "explanation": "Polite refusal with rescheduling offer.",
@@ -9159,10 +9159,10 @@
         {
           "prompt": "Dịch: \"Let's meet in front of the theater at 7:30 PM.\"",
           "options": [
-            "Hẹn gặp nhau trước rạp hát lúc bảy giờ rưỡi tối nhé. (R bn b i chi (U13))",
-            "Rạp hát đã đóng cửa. (R bn b i chi (U13))",
-            "Bảy giờ rưỡi là quá muộn. (R bn b i chi (U13))",
-            "Tôi không đi xem kịch. (R bn b i chi (U13))"
+            "Hẹn gặp nhau trước rạp hát lúc bảy giờ rưỡi tối nhé. (R bn b i chi)",
+            "Rạp hát đã đóng cửa. (R bn b i chi)",
+            "Bảy giờ rưỡi là quá muộn. (R bn b i chi)",
+            "Tôi không đi xem kịch. (R bn b i chi)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate meeting appointment translation.",
@@ -9199,10 +9199,10 @@
         {
           "prompt": "Bộ phim điện ảnh nổi tiếng được chuyển thể từ truyện dài của nhà văn Nguyễn Nhật Ánh là phim nào?",
           "options": [
-            "Tôi thấy hoa vàng trên cỏ xanh / Mắt biếc (Vit bi nh gi (U13))",
-            "Chiến tranh giữa các vì sao (Vit bi nh gi (U13))",
-            "Người Nhện (Vit bi nh gi (U13))",
-            "Harry Potter (Vit bi nh gi (U13))"
+            "Tôi thấy hoa vàng trên cỏ xanh / Mắt biếc (Vit bi nh gi)",
+            "Chiến tranh giữa các vì sao (Vit bi nh gi)",
+            "Người Nhện (Vit bi nh gi)",
+            "Harry Potter (Vit bi nh gi)"
           ],
           "answerIndex": 0,
           "explanation": "Tôi thấy hoa vàng trên cỏ xanh / Mắt biếc."
@@ -9214,10 +9214,10 @@
         {
           "prompt": "Cụm từ \"tác phẩm không thể bỏ lỡ\" mang ý nghĩa gì trong bài phê bình?",
           "options": [
-            "Một buổi diễn bị hủy (Vit bi nh gi (U13))",
-            "Một cuốn sách không có chữ (Vit bi nh gi (U13))",
-            "Một tác phẩm tuyệt vời và rất đáng để thưởng thức (Vit bi nh gi (U13))",
-            "Một bộ phim dở tệ (Vit bi nh gi (U13))"
+            "Một buổi diễn bị hủy (Vit bi nh gi)",
+            "Một cuốn sách không có chữ (Vit bi nh gi)",
+            "Một tác phẩm tuyệt vời và rất đáng để thưởng thức (Vit bi nh gi)",
+            "Một bộ phim dở tệ (Vit bi nh gi)"
           ],
           "answerIndex": 2,
           "explanation": "Unmissable masterpiece."
@@ -9229,10 +9229,10 @@
         {
           "prompt": "Yếu tố nào giúp một bộ phim chạm đến trái tim người xem?",
           "options": [
-            "Kịch bản giàu cảm xúc, diễn xuất chân thực và âm nhạc lay động (Vit bi nh gi (U13))",
-            "Không có diễn viên nào (Vit bi nh gi (U13))",
-            "Màn hình bị tối đen (Vit bi nh gi (U13))",
-            "Không có âm thanh (Vit bi nh gi (U13))"
+            "Kịch bản giàu cảm xúc, diễn xuất chân thực và âm nhạc lay động (Vit bi nh gi)",
+            "Không có diễn viên nào (Vit bi nh gi)",
+            "Màn hình bị tối đen (Vit bi nh gi)",
+            "Không có âm thanh (Vit bi nh gi)"
           ],
           "answerIndex": 0,
           "explanation": "Emotional script, authentic acting, moving score.",
@@ -9241,10 +9241,10 @@
         {
           "prompt": "Dịch: \"The screenplay is sharp, emotional, and full of surprising twists.\"",
           "options": [
-            "Tôi không hiểu cốt truyện. (Vit bi nh gi (U13))",
-            "Cuốn sách không có trang bìa. (Vit bi nh gi (U13))",
-            "Bộ phim đã bị hoãn. (Vit bi nh gi (U13))",
-            "Kịch bản rất sắc sảo, giàu cảm xúc và tràn ngập những bước ngoặt bất ngờ. (Vit bi nh gi (U13))"
+            "Tôi không hiểu cốt truyện. (Vit bi nh gi)",
+            "Cuốn sách không có trang bìa. (Vit bi nh gi)",
+            "Bộ phim đã bị hoãn. (Vit bi nh gi)",
+            "Kịch bản rất sắc sảo, giàu cảm xúc và tràn ngập những bước ngoặt bất ngờ. (Vit bi nh gi)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate review translation.",
@@ -9281,10 +9281,10 @@
         {
           "prompt": "Tài liệu bắt buộc để hành khách có thể bước lên máy bay là gì?",
           "options": [
-            "Giấy phép lái xe (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Hóa đơn khách sạn (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Thẻ thư viện (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Thẻ lên máy bay (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))"
+            "Giấy phép lái xe (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Hóa đơn khách sạn (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Thẻ thư viện (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Thẻ lên máy bay (T vng sn bay ti Vit Nam Sn bay Ni Bi)"
           ],
           "answerIndex": 3,
           "explanation": "Thẻ lên máy bay is boarding pass."
@@ -9296,10 +9296,10 @@
         {
           "prompt": "Dịch: \"The flight to Da Nang is delayed by 30 minutes.\"",
           "options": [
-            "Máy bay đã cất cánh đúng giờ. (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Không có chuyến bay nào đi Đà Nẵng. (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Sân bay đã đóng cửa. (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Chuyến bay đi Đà Nẵng bị trễ ba mươi phút. (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))"
+            "Máy bay đã cất cánh đúng giờ. (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Không có chuyến bay nào đi Đà Nẵng. (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Sân bay đã đóng cửa. (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Chuyến bay đi Đà Nẵng bị trễ ba mươi phút. (T vng sn bay ti Vit Nam Sn bay Ni Bi)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -9311,10 +9311,10 @@
         {
           "prompt": "Hành khách nhận lại vali ký gửi ở đâu sau khi máy bay hạ cánh?",
           "options": [
-            "Trong buồng lái phi công (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Tại quầy check-in (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Trên đường băng (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Tại băng chuyền nhận hành lý (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))"
+            "Trong buồng lái phi công (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Tại quầy check-in (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Trên đường băng (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Tại băng chuyền nhận hành lý (T vng sn bay ti Vit Nam Sn bay Ni Bi)"
           ],
           "answerIndex": 3,
           "explanation": "Băng chuyền nhận hành lý.",
@@ -9323,10 +9323,10 @@
         {
           "prompt": "Dịch: \"Please proceed to gate 12 immediately for boarding.\"",
           "options": [
-            "Hãy rời khỏi sân bay. (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Mua vé mới. (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Quý khách vui lòng ra cửa khởi hành số 12 ngay để lên máy bay. (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))",
-            "Chuyến bay đã hạ cánh. (T vng sn bay ti Vit Nam Sn bay Ni Bi (U14))"
+            "Hãy rời khỏi sân bay. (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Mua vé mới. (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Quý khách vui lòng ra cửa khởi hành số 12 ngay để lên máy bay. (T vng sn bay ti Vit Nam Sn bay Ni Bi)",
+            "Chuyến bay đã hạ cánh. (T vng sn bay ti Vit Nam Sn bay Ni Bi)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate boarding announcement.",
@@ -9363,10 +9363,10 @@
         {
           "prompt": "Làm thế nào để hỏi lễ tân khách sạn về mật khẩu internet wi-fi?",
           "options": [
-            "Cho tôi xin mật khẩu wi-fi được không ạ? (t phng lu tr ti Vit Nam (U14))",
-            "Bao nhiêu tiền một giường? (t phng lu tr ti Vit Nam (U14))",
-            "Tôi không muốn dùng mạng (t phng lu tr ti Vit Nam (U14))",
-            "Khách sạn mất điện (t phng lu tr ti Vit Nam (U14))"
+            "Cho tôi xin mật khẩu wi-fi được không ạ? (t phng lu tr ti Vit Nam)",
+            "Bao nhiêu tiền một giường? (t phng lu tr ti Vit Nam)",
+            "Tôi không muốn dùng mạng (t phng lu tr ti Vit Nam)",
+            "Khách sạn mất điện (t phng lu tr ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Cho tôi xin mật khẩu wi-fi... is standard."
@@ -9378,10 +9378,10 @@
         {
           "prompt": "Loại hình lưu trú gần gũi với thiên nhiên rất được giới trẻ yêu thích tại Đà Lạt và Sa Pa là gì?",
           "options": [
-            "Homestay (t phng lu tr ti Vit Nam (U14))",
-            "Doanh trại quân đội (t phng lu tr ti Vit Nam (U14))",
-            "Nhà máy (t phng lu tr ti Vit Nam (U14))",
-            "Ga xe lửa (t phng lu tr ti Vit Nam (U14))"
+            "Homestay (t phng lu tr ti Vit Nam)",
+            "Doanh trại quân đội (t phng lu tr ti Vit Nam)",
+            "Nhà máy (t phng lu tr ti Vit Nam)",
+            "Ga xe lửa (t phng lu tr ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Homestay."
@@ -9393,10 +9393,10 @@
         {
           "prompt": "Làm thế nào để thông báo với lễ tân rằng bạn đã đặt phòng trước?",
           "options": [
-            "Tôi muốn mua lại khách sạn (t phng lu tr ti Vit Nam (U14))",
-            "Tôi không biết mình ở đâu (t phng lu tr ti Vit Nam (U14))",
-            "Tôi có đặt phòng trước dưới tên (t phng lu tr ti Vit Nam (U14))",
-            "Phòng này miễn phí (t phng lu tr ti Vit Nam (U14))"
+            "Tôi muốn mua lại khách sạn (t phng lu tr ti Vit Nam)",
+            "Tôi không biết mình ở đâu (t phng lu tr ti Vit Nam)",
+            "Tôi có đặt phòng trước dưới tên (t phng lu tr ti Vit Nam)",
+            "Phòng này miễn phí (t phng lu tr ti Vit Nam)"
           ],
           "answerIndex": 2,
           "explanation": "Tôi có đặt phòng trước dưới tên...",
@@ -9405,10 +9405,10 @@
         {
           "prompt": "Dịch: \"Could you please give me an extra keycard and the wifi password?\"",
           "options": [
-            "Phòng này bị bẩn. (t phng lu tr ti Vit Nam (U14))",
-            "Bạn có thể cho tôi xin thêm một thẻ từ mở phòng và mật khẩu wi-fi được không? (t phng lu tr ti Vit Nam (U14))",
-            "Bữa sáng đã hết. (t phng lu tr ti Vit Nam (U14))",
-            "Tôi chưa đặt phòng. (t phng lu tr ti Vit Nam (U14))"
+            "Phòng này bị bẩn. (t phng lu tr ti Vit Nam)",
+            "Bạn có thể cho tôi xin thêm một thẻ từ mở phòng và mật khẩu wi-fi được không? (t phng lu tr ti Vit Nam)",
+            "Bữa sáng đã hết. (t phng lu tr ti Vit Nam)",
+            "Tôi chưa đặt phòng. (t phng lu tr ti Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate reception request.",
@@ -9445,10 +9445,10 @@
         {
           "prompt": "Tuyến đường sắt lịch sử nối liền thủ đô Hà Nội và Thành phố Hồ Chí Minh có tên là gì?",
           "options": [
-            "Tàu điện ngầm (Giao thng ng st Vit Nam (U14))",
-            "Tàu cao tốc đệm từ (Giao thng ng st Vit Nam (U14))",
-            "Đường sắt Thống Nhất (Giao thng ng st Vit Nam (U14))",
-            "Tàu kéo thuyền (Giao thng ng st Vit Nam (U14))"
+            "Tàu điện ngầm (Giao thng ng st Vit Nam)",
+            "Tàu cao tốc đệm từ (Giao thng ng st Vit Nam)",
+            "Đường sắt Thống Nhất (Giao thng ng st Vit Nam)",
+            "Tàu kéo thuyền (Giao thng ng st Vit Nam)"
           ],
           "answerIndex": 2,
           "explanation": "Đường sắt Thống Nhất."
@@ -9460,10 +9460,10 @@
         {
           "prompt": "Loại vé tàu nào phù hợp và thoải mái nhất cho chuyến đi qua đêm trên tàu Thống Nhất?",
           "options": [
-            "Vé giường nằm điều hòa khoang 4 (Giao thng ng st Vit Nam (U14))",
-            "Ghế nhựa cứng (Giao thng ng st Vit Nam (U14))",
-            "Ngồi trên nóc tàu (Giao thng ng st Vit Nam (U14))",
-            "Đứng ở hành lang (Giao thng ng st Vit Nam (U14))"
+            "Vé giường nằm điều hòa khoang 4 (Giao thng ng st Vit Nam)",
+            "Ghế nhựa cứng (Giao thng ng st Vit Nam)",
+            "Ngồi trên nóc tàu (Giao thng ng st Vit Nam)",
+            "Đứng ở hành lang (Giao thng ng st Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Giường nằm điều hòa khoang 4."
@@ -9475,10 +9475,10 @@
         {
           "prompt": "Đoạn đường sắt ven biển qua ngọn đèo nổi tiếng nào mang lại cảnh quan thiên nhiên tuyệt đẹp?",
           "options": [
-            "Đèo Cả (Giao thng ng st Vit Nam (U14))",
-            "Đèo Hải Vân (Giao thng ng st Vit Nam (U14))",
-            "Đèo Bảo Lộc (Giao thng ng st Vit Nam (U14))",
-            "Đèo Ngang (Giao thng ng st Vit Nam (U14))"
+            "Đèo Cả (Giao thng ng st Vit Nam)",
+            "Đèo Hải Vân (Giao thng ng st Vit Nam)",
+            "Đèo Bảo Lộc (Giao thng ng st Vit Nam)",
+            "Đèo Ngang (Giao thng ng st Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "Đèo Hải Vân.",
@@ -9487,10 +9487,10 @@
         {
           "prompt": "Dịch: \"Please check your train ticket for the carriage and berth number.\"",
           "options": [
-            "Vui lòng kiểm tra số toa và số giường trên vé tàu của bạn. (Giao thng ng st Vit Nam (U14))",
-            "Bước xuống khỏi đường ray. (Giao thng ng st Vit Nam (U14))",
-            "Hết vé tàu. (Giao thng ng st Vit Nam (U14))",
-            "Chuyến tàu đã bị hủy. (Giao thng ng st Vit Nam (U14))"
+            "Vui lòng kiểm tra số toa và số giường trên vé tàu của bạn. (Giao thng ng st Vit Nam)",
+            "Bước xuống khỏi đường ray. (Giao thng ng st Vit Nam)",
+            "Hết vé tàu. (Giao thng ng st Vit Nam)",
+            "Chuyến tàu đã bị hủy. (Giao thng ng st Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate train ticket boarding instruction.",
@@ -9527,10 +9527,10 @@
         {
           "prompt": "Làm thế nào để yêu cầu nhân viên cây xăng đổ đầy bình xăng 95 cho xe của bạn?",
           "options": [
-            "Đổ nước vào bình (Thu xe my   t t li ti Vit Nam (U14))",
-            "Cho em đổ đầy bình xăng 95 nhé! (Thu xe my   t t li ti Vit Nam (U14))",
-            "Không cần đổ xăng (Thu xe my   t t li ti Vit Nam (U14))",
-            "Hút hết xăng ra (Thu xe my   t t li ti Vit Nam (U14))"
+            "Đổ nước vào bình (Thu xe my   t t li ti Vit Nam)",
+            "Cho em đổ đầy bình xăng 95 nhé! (Thu xe my   t t li ti Vit Nam)",
+            "Không cần đổ xăng (Thu xe my   t t li ti Vit Nam)",
+            "Hút hết xăng ra (Thu xe my   t t li ti Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "Đổ đầy bình xăng 95 is standard."
@@ -9542,10 +9542,10 @@
         {
           "prompt": "Đèo Mã Pí Lèng - một trong \"Tứ đại đỉnh đèo\" hùng vĩ bậc nhất Việt Nam nằm ở tỉnh nào?",
           "options": [
-            "Tỉnh Hà Giang (Thu xe my   t t li ti Vit Nam (U14))",
-            "Thành phố Cần Thơ (Thu xe my   t t li ti Vit Nam (U14))",
-            "Tỉnh Bình Dương (Thu xe my   t t li ti Vit Nam (U14))",
-            "Tỉnh Cà Mau (Thu xe my   t t li ti Vit Nam (U14))"
+            "Tỉnh Hà Giang (Thu xe my   t t li ti Vit Nam)",
+            "Thành phố Cần Thơ (Thu xe my   t t li ti Vit Nam)",
+            "Tỉnh Bình Dương (Thu xe my   t t li ti Vit Nam)",
+            "Tỉnh Cà Mau (Thu xe my   t t li ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Hà Giang province."
@@ -9557,10 +9557,10 @@
         {
           "prompt": "Phương thức thanh toán không dùng tiền mặt cực kỳ phổ biến tại các cây xăng và cửa hàng ở Việt Nam hiện nay là gì?",
           "options": [
-            "Quét mã QR chuyển khoản ngân hàng / Ví điện tử (Thu xe my   t t li ti Vit Nam (U14))",
-            "Viết séc tay (Thu xe my   t t li ti Vit Nam (U14))",
-            "Trả bằng vàng thỏi (Thu xe my   t t li ti Vit Nam (U14))",
-            "Đổi thóc lúa (Thu xe my   t t li ti Vit Nam (U14))"
+            "Quét mã QR chuyển khoản ngân hàng / Ví điện tử (Thu xe my   t t li ti Vit Nam)",
+            "Viết séc tay (Thu xe my   t t li ti Vit Nam)",
+            "Trả bằng vàng thỏi (Thu xe my   t t li ti Vit Nam)",
+            "Đổi thóc lúa (Thu xe my   t t li ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Quét mã QR chuyển khoản.",
@@ -9569,10 +9569,10 @@
         {
           "prompt": "Dịch: \"We rented a motorbike to explore the breathtaking mountain passes in Ha Giang.\"",
           "options": [
-            "Không có đường lên núi. (Thu xe my   t t li ti Vit Nam (U14))",
-            "Chúng tôi đã bán xe máy. (Thu xe my   t t li ti Vit Nam (U14))",
-            "Xe máy bị hỏng. (Thu xe my   t t li ti Vit Nam (U14))",
-            "Chúng tôi đã thuê xe máy để khám phá những cung đường đèo ngoạn mục ở Hà Giang. (Thu xe my   t t li ti Vit Nam (U14))"
+            "Không có đường lên núi. (Thu xe my   t t li ti Vit Nam)",
+            "Chúng tôi đã bán xe máy. (Thu xe my   t t li ti Vit Nam)",
+            "Xe máy bị hỏng. (Thu xe my   t t li ti Vit Nam)",
+            "Chúng tôi đã thuê xe máy để khám phá những cung đường đèo ngoạn mục ở Hà Giang. (Thu xe my   t t li ti Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate motorbike trip translation.",
@@ -9610,9 +9610,9 @@
           "prompt": "Bạn cần xuất trình giấy tờ gì cho nhân viên sân bay để tìm kiếm vali bị thất lạc?",
           "options": [
             "Thẻ hành lý (Baggage Tag)",
-            "Hóa đơn tiền điện (X l s c du lch (U14))",
-            "Sách giáo khoa (X l s c du lch (U14))",
-            "Vé xem phim (X l s c du lch (U14))"
+            "Hóa đơn tiền điện (X l s c du lch)",
+            "Sách giáo khoa (X l s c du lch)",
+            "Vé xem phim (X l s c du lch)"
           ],
           "answerIndex": 0,
           "explanation": "Baggage tag and boarding pass."
@@ -9624,10 +9624,10 @@
         {
           "prompt": "Khi du khách nước ngoài không may bị mất hộ chiếu, việc đầu tiên cần làm là gì?",
           "options": [
-            "Mua vali mới (X l s c du lch (U14))",
-            "Về khách sạn ngủ (X l s c du lch (U14))",
-            "Báo công an địa phương để lấy giấy xác nhận và đến Đại sứ quán/Lãnh sự quán (X l s c du lch (U14))",
-            "Đi tắm biển (X l s c du lch (U14))"
+            "Mua vali mới (X l s c du lch)",
+            "Về khách sạn ngủ (X l s c du lch)",
+            "Báo công an địa phương để lấy giấy xác nhận và đến Đại sứ quán/Lãnh sự quán (X l s c du lch)",
+            "Đi tắm biển (X l s c du lch)"
           ],
           "answerIndex": 2,
           "explanation": "Police report and Embassy contact."
@@ -9639,10 +9639,10 @@
         {
           "prompt": "Lợi ích lớn nhất của việc mua bảo hiểm du lịch quốc tế trước mỗi chuyến đi là gì?",
           "options": [
-            "Không cần mang hộ chiếu (X l s c du lch (U14))",
-            "Được miễn phí vé máy bay trọn đời (X l s c du lch (U14))",
-            "Được tặng quà khách sạn (X l s c du lch (U14))",
-            "Được chi trả chi phí y tế khẩn cấp, hỗ trợ khi hủy chuyến và bồi thường thất lạc hành lý (X l s c du lch (U14))"
+            "Không cần mang hộ chiếu (X l s c du lch)",
+            "Được miễn phí vé máy bay trọn đời (X l s c du lch)",
+            "Được tặng quà khách sạn (X l s c du lch)",
+            "Được chi trả chi phí y tế khẩn cấp, hỗ trợ khi hủy chuyến và bồi thường thất lạc hành lý (X l s c du lch)"
           ],
           "answerIndex": 3,
           "explanation": "Medical coverage and trip protection.",
@@ -9651,10 +9651,10 @@
         {
           "prompt": "Dịch: \"Our flight was rescheduled to tomorrow morning due to heavy rain.\"",
           "options": [
-            "Trời không có mưa. (X l s c du lch (U14))",
-            "Chuyến bay đã cất cánh đúng giờ. (X l s c du lch (U14))",
-            "Chuyến bay của chúng tôi đã được dời sang sáng mai do mưa lớn. (X l s c du lch (U14))",
-            "Chúng tôi đã đến nơi sớm. (X l s c du lch (U14))"
+            "Trời không có mưa. (X l s c du lch)",
+            "Chuyến bay đã cất cánh đúng giờ. (X l s c du lch)",
+            "Chuyến bay của chúng tôi đã được dời sang sáng mai do mưa lớn. (X l s c du lch)",
+            "Chúng tôi đã đến nơi sớm. (X l s c du lch)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate flight rescheduling translation.",
@@ -9691,10 +9691,10 @@
         {
           "prompt": "Quốc phục truyền thống duyên dáng và thanh lịch nổi tiếng thế giới của Việt Nam là gì?",
           "options": [
-            "Kimono (T vng v trang phc (U15))",
-            "Hanbok (T vng v trang phc (U15))",
-            "Sari (T vng v trang phc (U15))",
-            "Áo dài (T vng v trang phc (U15))"
+            "Kimono (T vng v trang phc)",
+            "Hanbok (T vng v trang phc)",
+            "Sari (T vng v trang phc)",
+            "Áo dài (T vng v trang phc)"
           ],
           "answerIndex": 3,
           "explanation": "Áo dài."
@@ -9706,10 +9706,10 @@
         {
           "prompt": "Làng nghề dệt lụa tơ tằm truyền thống hơn một ngàn năm tuổi nổi tiếng ở Hà Nội là làng nào?",
           "options": [
-            "Làng gốm Bát Tràng (T vng v trang phc (U15))",
-            "Làng tranh Đông Hồ (T vng v trang phc (U15))",
-            "Làng nón Chuông (T vng v trang phc (U15))",
-            "Làng lụa Vạn Phúc (T vng v trang phc (U15))"
+            "Làng gốm Bát Tràng (T vng v trang phc)",
+            "Làng tranh Đông Hồ (T vng v trang phc)",
+            "Làng nón Chuông (T vng v trang phc)",
+            "Làng lụa Vạn Phúc (T vng v trang phc)"
           ],
           "answerIndex": 3,
           "explanation": "Làng lụa Vạn Phúc."
@@ -9721,10 +9721,10 @@
         {
           "prompt": "Chất liệu vải tự nhiên nào rất nhẹ, mát và thoáng khí được ưa chuộng trong mùa hè nhiệt đới ở Việt Nam?",
           "options": [
-            "Nhựa nilon dày (T vng v trang phc (U15))",
-            "Cao su đúc (T vng v trang phc (U15))",
-            "Lụa tơ tằm và vải lanh (T vng v trang phc (U15))",
-            "Tấm tôn kim loại (T vng v trang phc (U15))"
+            "Nhựa nilon dày (T vng v trang phc)",
+            "Cao su đúc (T vng v trang phc)",
+            "Lụa tơ tằm và vải lanh (T vng v trang phc)",
+            "Tấm tôn kim loại (T vng v trang phc)"
           ],
           "answerIndex": 2,
           "explanation": "Lụa tơ tằm và vải lanh (đũi).",
@@ -9733,10 +9733,10 @@
         {
           "prompt": "Dịch: \"This tailored linen shirt is very light, cool, and comfortable.\"",
           "options": [
-            "Áo làm bằng bìa carton. (T vng v trang phc (U15))",
-            "Chiếc áo sơ mi may bằng vải đũi lanh này rất nhẹ, mát và thoải mái. (T vng v trang phc (U15))",
-            "Cửa hàng không có áo. (T vng v trang phc (U15))",
-            "Tôi không thích mặc quần áo. (T vng v trang phc (U15))"
+            "Áo làm bằng bìa carton. (T vng v trang phc)",
+            "Chiếc áo sơ mi may bằng vải đũi lanh này rất nhẹ, mát và thoải mái. (T vng v trang phc)",
+            "Cửa hàng không có áo. (T vng v trang phc)",
+            "Tôi không thích mặc quần áo. (T vng v trang phc)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate clothing review translation.",
@@ -9773,10 +9773,10 @@
         {
           "prompt": "Thành ngữ tiếng Việt nào thể hiện một bộ quần áo mặc vào vừa khít và đẹp hoàn hảo trên cơ thể?",
           "options": [
-            "Vừa in / Vừa như in (Phng th (U15))",
-            "Cũ mèm (Phng th (U15))",
-            "Rộng thùng thình (Phng th (U15))",
-            "Rách tả tơi (Phng th (U15))"
+            "Vừa in / Vừa như in (Phng th)",
+            "Cũ mèm (Phng th)",
+            "Rộng thùng thình (Phng th)",
+            "Rách tả tơi (Phng th)"
           ],
           "answerIndex": 0,
           "explanation": "Vừa in."
@@ -9788,10 +9788,10 @@
         {
           "prompt": "Nơi khách hàng vào để mặc thử quần áo trước khi mua ở cửa hàng gọi là gì?",
           "options": [
-            "Phòng thử đồ (Phng th (U15))",
-            "Quầy thu ngân (Phng th (U15))",
-            "Bãi đỗ xe (Phng th (U15))",
-            "Cửa ra vào (Phng th (U15))"
+            "Phòng thử đồ (Phng th)",
+            "Quầy thu ngân (Phng th)",
+            "Bãi đỗ xe (Phng th)",
+            "Cửa ra vào (Phng th)"
           ],
           "answerIndex": 0,
           "explanation": "Phòng thử đồ."
@@ -9803,10 +9803,10 @@
         {
           "prompt": "Lời khen \"Màu áo này rất tôn da bạn\" có ý nghĩa là gì?",
           "options": [
-            "Áo bị phai màu (Phng th (U15))",
-            "Màu sắc của áo làm nổi bật làn da sáng đẹp của người mặc (Phng th (U15))",
-            "Áo không đẹp (Phng th (U15))",
-            "Áo bị ố vàng (Phng th (U15))"
+            "Áo bị phai màu (Phng th)",
+            "Màu sắc của áo làm nổi bật làn da sáng đẹp của người mặc (Phng th)",
+            "Áo không đẹp (Phng th)",
+            "Áo bị ố vàng (Phng th)"
           ],
           "answerIndex": 1,
           "explanation": "Tôn da means flatters skin tone.",
@@ -9815,10 +9815,10 @@
         {
           "prompt": "Dịch: \"The trousers are too long; do you have alteration service to hem them?\"",
           "options": [
-            "Quần này hơi dài; cửa hàng có dịch vụ cắt gấu / lên lai quần không ạ? (Phng th (U15))",
-            "Tôi không mua quần. (Phng th (U15))",
-            "Cửa hàng không có quần. (Phng th (U15))",
-            "Quần rất rẻ. (Phng th (U15))"
+            "Quần này hơi dài; cửa hàng có dịch vụ cắt gấu / lên lai quần không ạ? (Phng th)",
+            "Tôi không mua quần. (Phng th)",
+            "Cửa hàng không có quần. (Phng th)",
+            "Quần rất rẻ. (Phng th)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate tailoring inquiry.",
@@ -9855,10 +9855,10 @@
         {
           "prompt": "Hình thức thanh toán không dùng tiền mặt phổ biến nhất tại mọi cửa hàng lớn nhỏ ở Việt Nam hiện nay là gì?",
           "options": [
-            "Viết séc giấy (Ma gim gi Sale off (U15))",
-            "Quét mã VietQR chuyển khoản ngân hàng hoặc ví điện tử (Ma gim gi Sale off (U15))",
-            "Đổi thóc lúa (Ma gim gi Sale off (U15))",
-            "Gửi thư tay (Ma gim gi Sale off (U15))"
+            "Viết séc giấy (Ma gim gi Sale off)",
+            "Quét mã VietQR chuyển khoản ngân hàng hoặc ví điện tử (Ma gim gi Sale off)",
+            "Đổi thóc lúa (Ma gim gi Sale off)",
+            "Gửi thư tay (Ma gim gi Sale off)"
           ],
           "answerIndex": 1,
           "explanation": "Quét mã VietQR."
@@ -9870,10 +9870,10 @@
         {
           "prompt": "Thuật ngữ \"Mua 1 tặng 1\" trong các đợt khuyến mãi có nghĩa là gì?",
           "options": [
-            "Khi mua một sản phẩm sẽ được tặng thêm một sản phẩm miễn phí (Ma gim gi Sale off (U15))",
-            "Mua một phải trả tiền gấp đôi (Ma gim gi Sale off (U15))",
-            "Mua một mất luôn (Ma gim gi Sale off (U15))",
-            "Không bán sản phẩm (Ma gim gi Sale off (U15))"
+            "Khi mua một sản phẩm sẽ được tặng thêm một sản phẩm miễn phí (Ma gim gi Sale off)",
+            "Mua một phải trả tiền gấp đôi (Ma gim gi Sale off)",
+            "Mua một mất luôn (Ma gim gi Sale off)",
+            "Không bán sản phẩm (Ma gim gi Sale off)"
           ],
           "answerIndex": 0,
           "explanation": "Buy 1 get 1 free."
@@ -9885,10 +9885,10 @@
         {
           "prompt": "Chứng từ tài chính xác nhận giao dịch mua bán có giá trị pháp lý và thuế gọi là gì?",
           "options": [
-            "Hóa đơn giá trị gia tăng (Ma gim gi Sale off (U15))",
-            "Thẻ học sinh (Ma gim gi Sale off (U15))",
-            "Vé xem kịch (Ma gim gi Sale off (U15))",
-            "Tờ rơi quảng cáo (Ma gim gi Sale off (U15))"
+            "Hóa đơn giá trị gia tăng (Ma gim gi Sale off)",
+            "Thẻ học sinh (Ma gim gi Sale off)",
+            "Vé xem kịch (Ma gim gi Sale off)",
+            "Tờ rơi quảng cáo (Ma gim gi Sale off)"
           ],
           "answerIndex": 0,
           "explanation": "Hóa đơn GTGT.",
@@ -9897,10 +9897,10 @@
         {
           "prompt": "Dịch: \"Can I pay by contactless credit card or scan a QR code?\"",
           "options": [
-            "Máy quẹt thẻ bị hỏng. (Ma gim gi Sale off (U15))",
-            "Tôi không có tiền. (Ma gim gi Sale off (U15))",
-            "Tôi không muốn trả tiền. (Ma gim gi Sale off (U15))",
-            "Tôi có thể thanh toán bằng quẹt thẻ tín dụng không tiếp xúc hoặc quét mã QR được không? (Ma gim gi Sale off (U15))"
+            "Máy quẹt thẻ bị hỏng. (Ma gim gi Sale off)",
+            "Tôi không có tiền. (Ma gim gi Sale off)",
+            "Tôi không muốn trả tiền. (Ma gim gi Sale off)",
+            "Tôi có thể thanh toán bằng quẹt thẻ tín dụng không tiếp xúc hoặc quét mã QR được không? (Ma gim gi Sale off)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate payment method inquiry.",
@@ -9937,10 +9937,10 @@
         {
           "prompt": "Biểu tượng chợ lịch sử nổi tiếng nhất với tháp đồng hồ tại trung tâm Thành phố Hồ Chí Minh là chợ nào?",
           "options": [
-            "Chợ Hàn (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Chợ Bến Thành (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Chợ Đầm (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Chợ Đồng Xuân (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))"
+            "Chợ Hàn (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Chợ Bến Thành (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Chợ Đầm (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Chợ Đồng Xuân (Ch truyn thng v ch m Vit Nam Ch ng Xun)"
           ],
           "answerIndex": 1,
           "explanation": "Chợ Bến Thành."
@@ -9952,10 +9952,10 @@
         {
           "prompt": "Câu nói lịch sự và thân thiện nào thường dùng khi mặc cả mua đồ ở chợ truyền thống?",
           "options": [
-            "Cô ơi, bớt cho cháu một chút lấy may nhé! (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Hàng này xấu xí (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Đưa đồ đây miễn phí (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Đắt quá tôi không thèm mua (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))"
+            "Cô ơi, bớt cho cháu một chút lấy may nhé! (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Hàng này xấu xí (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Đưa đồ đây miễn phí (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Đắt quá tôi không thèm mua (Ch truyn thng v ch m Vit Nam Ch ng Xun)"
           ],
           "answerIndex": 0,
           "explanation": "Bớt cho cháu một chút lấy may."
@@ -9967,10 +9967,10 @@
         {
           "prompt": "Nét văn hóa buôn bán đặc sắc trên ghe thuyền sông nước nổi tiếng ở miền Tây Nam Bộ là gì?",
           "options": [
-            "Chợ trên đỉnh núi tuyết (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Chợ dưới đáy biển (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Chợ trong hang đá (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Chợ nổi (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))"
+            "Chợ trên đỉnh núi tuyết (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Chợ dưới đáy biển (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Chợ trong hang đá (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Chợ nổi (Ch truyn thng v ch m Vit Nam Ch ng Xun)"
           ],
           "answerIndex": 3,
           "explanation": "Chợ nổi.",
@@ -9979,10 +9979,10 @@
         {
           "prompt": "Dịch: \"How much for this handcrafted lacquer bowl and traditional conical hat?\"",
           "options": [
-            "Tôi không thích đồ thủ công. (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Giá đắt quá. (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Chiếc bát sơn mài thủ công và chiếc nón lá truyền thống này giá bao nhiêu tiền vậy cô? (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))",
-            "Cửa hàng không bán nón lá. (Ch truyn thng v ch m Vit Nam Ch ng Xun (U15))"
+            "Tôi không thích đồ thủ công. (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Giá đắt quá. (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Chiếc bát sơn mài thủ công và chiếc nón lá truyền thống này giá bao nhiêu tiền vậy cô? (Ch truyn thng v ch m Vit Nam Ch ng Xun)",
+            "Cửa hàng không bán nón lá. (Ch truyn thng v ch m Vit Nam Ch ng Xun)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate market counter inquiry.",
@@ -10019,10 +10019,10 @@
         {
           "prompt": "Điều kiện bắt buộc để được đổi trả sản phẩm thời trang tại cửa hàng là gì?",
           "options": [
-            "Sản phẩm chưa qua sử dụng, còn nguyên tem mác và có hóa đơn mua hàng (Chnh sch i tr (U15))",
-            "Sản phẩm đã bị giặt rách (Chnh sch i tr (U15))",
-            "Không có hóa đơn (Chnh sch i tr (U15))",
-            "Mua từ năm ngoái (Chnh sch i tr (U15))"
+            "Sản phẩm chưa qua sử dụng, còn nguyên tem mác và có hóa đơn mua hàng (Chnh sch i tr)",
+            "Sản phẩm đã bị giặt rách (Chnh sch i tr)",
+            "Không có hóa đơn (Chnh sch i tr)",
+            "Mua từ năm ngoái (Chnh sch i tr)"
           ],
           "answerIndex": 0,
           "explanation": "Chưa sử dụng, nguyên tem mác và có hóa đơn."
@@ -10034,10 +10034,10 @@
         {
           "prompt": "Nơi khách du lịch quốc tế làm thủ tục hoàn thuế giá trị gia tăng (VAT Refund) khi rời Việt Nam là ở đâu?",
           "options": [
-            "Trên máy bay (Chnh sch i tr (U15))",
-            "Tại khách sạn (Chnh sch i tr (U15))",
-            "Tại quầy hoàn thuế VAT ở sân bay quốc tế (Chnh sch i tr (U15))",
-            "Tại bến xe buýt (Chnh sch i tr (U15))"
+            "Trên máy bay (Chnh sch i tr)",
+            "Tại khách sạn (Chnh sch i tr)",
+            "Tại quầy hoàn thuế VAT ở sân bay quốc tế (Chnh sch i tr)",
+            "Tại bến xe buýt (Chnh sch i tr)"
           ],
           "answerIndex": 2,
           "explanation": "Quầy hoàn thuế VAT tại sân bay."
@@ -10049,10 +10049,10 @@
         {
           "prompt": "Hình thức mua sắm trực tuyến kết hợp livestream bán hàng cực kỳ bùng nổ ở Việt Nam hiện nay là gì?",
           "options": [
-            "Xem tivi đen trắng (Chnh sch i tr (U15))",
-            "Đọc báo giấy (Chnh sch i tr (U15))",
-            "TikTok Shop / Shopee Live (Chnh sch i tr (U15))",
-            "Gửi điện tín (Chnh sch i tr (U15))"
+            "Xem tivi đen trắng (Chnh sch i tr)",
+            "Đọc báo giấy (Chnh sch i tr)",
+            "TikTok Shop / Shopee Live (Chnh sch i tr)",
+            "Gửi điện tín (Chnh sch i tr)"
           ],
           "answerIndex": 2,
           "explanation": "Livestream shopping.",
@@ -10061,10 +10061,10 @@
         {
           "prompt": "Dịch: \"Could you please provide the VAT refund declaration form for my purchase?\"",
           "options": [
-            "Hóa đơn bị mất. (Chnh sch i tr (U15))",
-            "Vui lòng cung cấp cho tôi tờ khai hoàn thuế VAT cho món hàng này được không? (Chnh sch i tr (U15))",
-            "Tôi không muốn lấy hóa đơn. (Chnh sch i tr (U15))",
-            "Thuế quá cao. (Chnh sch i tr (U15))"
+            "Hóa đơn bị mất. (Chnh sch i tr)",
+            "Vui lòng cung cấp cho tôi tờ khai hoàn thuế VAT cho món hàng này được không? (Chnh sch i tr)",
+            "Tôi không muốn lấy hóa đơn. (Chnh sch i tr)",
+            "Thuế quá cao. (Chnh sch i tr)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate VAT refund request.",
@@ -10102,10 +10102,10 @@
         {
           "prompt": "Hiện tượng không khí ẩm ướt trên 90% khiến sàn nhà và tường bị đọng nước vào mùa xuân ở miền Bắc gọi là gì?",
           "options": [
-            "Gió lốc xoáy (Thi tit (U16))",
-            "Mưa đá (Thi tit (U16))",
-            "Bão tuyết (Thi tit (U16))",
-            "Hiện tượng nồm ẩm (Thi tit (U16))"
+            "Gió lốc xoáy (Thi tit)",
+            "Mưa đá (Thi tit)",
+            "Bão tuyết (Thi tit)",
+            "Hiện tượng nồm ẩm (Thi tit)"
           ],
           "answerIndex": 3,
           "explanation": "Trời nồm / nồm ẩm."
@@ -10117,10 +10117,10 @@
         {
           "prompt": "Thành ngữ tiếng Việt nào mô tả cơn mưa lớn xối xả bất ngờ?",
           "options": [
-            "Nắng như thiêu như đốt (Thi tit (U16))",
-            "Gió hiu hiu (Thi tit (U16))",
-            "Trời trong veo (Thi tit (U16))",
-            "Mưa như trút nước (Thi tit (U16))"
+            "Nắng như thiêu như đốt (Thi tit)",
+            "Gió hiu hiu (Thi tit)",
+            "Trời trong veo (Thi tit)",
+            "Mưa như trút nước (Thi tit)"
           ],
           "answerIndex": 3,
           "explanation": "Mưa như trút nước."
@@ -10132,10 +10132,10 @@
         {
           "prompt": "Khí hậu miền Nam Việt Nam (như TP. Hồ Chí Minh) được chia thành hai mùa rõ rệt nào?",
           "options": [
-            "Mùa đông tuyết rơi và mùa xuân (Thi tit (U16))",
-            "Mùa mưa và mùa khô (Thi tit (U16))",
-            "Mùa bão băng (Thi tit (U16))",
-            "Không có mùa nào (Thi tit (U16))"
+            "Mùa đông tuyết rơi và mùa xuân (Thi tit)",
+            "Mùa mưa và mùa khô (Thi tit)",
+            "Mùa bão băng (Thi tit)",
+            "Không có mùa nào (Thi tit)"
           ],
           "answerIndex": 1,
           "explanation": "Mùa mưa và mùa khô.",
@@ -10144,10 +10144,10 @@
         {
           "prompt": "Dịch: \"Today is extremely hot and sunny in Da Nang with temperatures reaching 38 degrees Celsius.\"",
           "options": [
-            "Hôm nay trời nắng nóng gay gắt tại Đà Nẵng với nhiệt độ lên tới ba mươi tám độ C. (Thi tit (U16))",
-            "Trời rất lạnh và tối tăm. (Thi tit (U16))",
-            "Đà Nẵng có tuyết rơi dày. (Thi tit (U16))",
-            "Không có nắng ở Đà Nẵng. (Thi tit (U16))"
+            "Hôm nay trời nắng nóng gay gắt tại Đà Nẵng với nhiệt độ lên tới ba mươi tám độ C. (Thi tit)",
+            "Trời rất lạnh và tối tăm. (Thi tit)",
+            "Đà Nẵng có tuyết rơi dày. (Thi tit)",
+            "Không có nắng ở Đà Nẵng. (Thi tit)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate heat report translation.",
@@ -10184,10 +10184,10 @@
         {
           "prompt": "Loài hoa màu vàng rực rỡ là biểu tượng mùa xuân đón Tết cổ truyền ở miền Nam Việt Nam là hoa gì?",
           "options": [
-            "Hoa mai vàng (Bn ma min Bc (U16))",
-            "Hoa hướng dương (Bn ma min Bc (U16))",
-            "Hoa đào đỏ (Bn ma min Bc (U16))",
-            "Hoa tulip (Bn ma min Bc (U16))"
+            "Hoa mai vàng (Bn ma min Bc)",
+            "Hoa hướng dương (Bn ma min Bc)",
+            "Hoa đào đỏ (Bn ma min Bc)",
+            "Hoa tulip (Bn ma min Bc)"
           ],
           "answerIndex": 0,
           "explanation": "Hoa mai vàng."
@@ -10199,10 +10199,10 @@
         {
           "prompt": "Mùa thu Tây Bắc nổi tiếng với cảnh quan tuyệt mỹ nào trên các sườn núi Mù Cang Chải và Sa Pa?",
           "options": [
-            "Mùa lúa chín vàng trên ruộng bậc thang (Bn ma min Bc (U16))",
-            "Rừng dừa bạt ngàn (Bn ma min Bc (U16))",
-            "Bãi biển cát trắng (Bn ma min Bc (U16))",
-            "Sa mạc cát đỏ (Bn ma min Bc (U16))"
+            "Mùa lúa chín vàng trên ruộng bậc thang (Bn ma min Bc)",
+            "Rừng dừa bạt ngàn (Bn ma min Bc)",
+            "Bãi biển cát trắng (Bn ma min Bc)",
+            "Sa mạc cát đỏ (Bn ma min Bc)"
           ],
           "answerIndex": 0,
           "explanation": "Ruộng bậc thang lúa chín."
@@ -10214,10 +10214,10 @@
         {
           "prompt": "Loài hoa nhỏ xinh màu hồng tím nở rộ khắp cao nguyên đá Hà Giang vào cuối thu đầu đông là hoa gì?",
           "options": [
-            "Hoa tam giác mạch (Bn ma min Bc (U16))",
-            "Hoa cúc (Bn ma min Bc (U16))",
-            "Hoa huệ (Bn ma min Bc (U16))",
-            "Hoa sen (Bn ma min Bc (U16))"
+            "Hoa tam giác mạch (Bn ma min Bc)",
+            "Hoa cúc (Bn ma min Bc)",
+            "Hoa huệ (Bn ma min Bc)",
+            "Hoa sen (Bn ma min Bc)"
           ],
           "answerIndex": 0,
           "explanation": "Hoa tam giác mạch.",
@@ -10226,10 +10226,10 @@
         {
           "prompt": "Dịch: \"Autumn in Hanoi is enchanting with the fragrance of milk flowers and cool breezes.\"",
           "options": [
-            "Mùa thu Hà Nội có bão tuyết. (Bn ma min Bc (U16))",
-            "Hà Nội không có mùa thu. (Bn ma min Bc (U16))",
-            "Thời tiết rất nóng bức. (Bn ma min Bc (U16))",
-            "Mùa thu Hà Nội thật quyến rũ với hương hoa sữa nồng nàn và những cơn gió heo may mát lành. (Bn ma min Bc (U16))"
+            "Mùa thu Hà Nội có bão tuyết. (Bn ma min Bc)",
+            "Hà Nội không có mùa thu. (Bn ma min Bc)",
+            "Thời tiết rất nóng bức. (Bn ma min Bc)",
+            "Mùa thu Hà Nội thật quyến rũ với hương hoa sữa nồng nàn và những cơn gió heo may mát lành. (Bn ma min Bc)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Hanoi autumn translation.",
@@ -10266,10 +10266,10 @@
         {
           "prompt": "Hang động tự nhiên lớn nhất thế giới nằm trong Vườn quốc gia Phong Nha - Kẻ Bàng là hang nào?",
           "options": [
-            "Hang Đầu Gỗ (K quan thin nhin v Di sn th gii (U16))",
-            "Hang Sơn Đoòng (K quan thin nhin v Di sn th gii (U16))",
-            "Động Thiên Cung (K quan thin nhin v Di sn th gii (U16))",
-            "Động Phong Nha (K quan thin nhin v Di sn th gii (U16))"
+            "Hang Đầu Gỗ (K quan thin nhin v Di sn th gii)",
+            "Hang Sơn Đoòng (K quan thin nhin v Di sn th gii)",
+            "Động Thiên Cung (K quan thin nhin v Di sn th gii)",
+            "Động Phong Nha (K quan thin nhin v Di sn th gii)"
           ],
           "answerIndex": 1,
           "explanation": "Hang Sơn Đoòng."
@@ -10281,10 +10281,10 @@
         {
           "prompt": "Kỳ quan thiên nhiên thế giới UNESCO tại Quảng Ninh với hàng nghìn đảo đá vôi trên mặt biển xanh ngọc là gì?",
           "options": [
-            "Vịnh Hạ Long (K quan thin nhin v Di sn th gii (U16))",
-            "Hồ Hoàn Kiếm (K quan thin nhin v Di sn th gii (U16))",
-            "Sông Hương (K quan thin nhin v Di sn th gii (U16))",
-            "Biển Cửa Lò (K quan thin nhin v Di sn th gii (U16))"
+            "Vịnh Hạ Long (K quan thin nhin v Di sn th gii)",
+            "Hồ Hoàn Kiếm (K quan thin nhin v Di sn th gii)",
+            "Sông Hương (K quan thin nhin v Di sn th gii)",
+            "Biển Cửa Lò (K quan thin nhin v Di sn th gii)"
           ],
           "answerIndex": 0,
           "explanation": "Vịnh Hạ Long."
@@ -10296,10 +10296,10 @@
         {
           "prompt": "Ngọn núi nào cao 3.143m tại Sa Pa được mệnh danh là \"Nóc nhà Đông Dương\"?",
           "options": [
-            "Núi Ngự Bình (K quan thin nhin v Di sn th gii (U16))",
-            "Núi Bà Đen (K quan thin nhin v Di sn th gii (U16))",
-            "Núi Bạch Mã (K quan thin nhin v Di sn th gii (U16))",
-            "Đỉnh Fansipan (K quan thin nhin v Di sn th gii (U16))"
+            "Núi Ngự Bình (K quan thin nhin v Di sn th gii)",
+            "Núi Bà Đen (K quan thin nhin v Di sn th gii)",
+            "Núi Bạch Mã (K quan thin nhin v Di sn th gii)",
+            "Đỉnh Fansipan (K quan thin nhin v Di sn th gii)"
           ],
           "answerIndex": 3,
           "explanation": "Đỉnh Fansipan.",
@@ -10308,10 +10308,10 @@
         {
           "prompt": "Dịch: \"Cruising between the limestone karsts of Ha Long Bay is an unforgettable experience.\"",
           "options": [
-            "Du thuyền bị cấm hoạt động. (K quan thin nhin v Di sn th gii (U16))",
-            "Không có đảo nào ở vịnh. (K quan thin nhin v Di sn th gii (U16))",
-            "Đi du thuyền giữa những hòn đảo đá vôi kỳ vĩ trên Vịnh Hạ Long là một trải nghiệm khó quên. (K quan thin nhin v Di sn th gii (U16))",
-            "Vịnh Hạ Long không có nước biển. (K quan thin nhin v Di sn th gii (U16))"
+            "Du thuyền bị cấm hoạt động. (K quan thin nhin v Di sn th gii)",
+            "Không có đảo nào ở vịnh. (K quan thin nhin v Di sn th gii)",
+            "Đi du thuyền giữa những hòn đảo đá vôi kỳ vĩ trên Vịnh Hạ Long là một trải nghiệm khó quên. (K quan thin nhin v Di sn th gii)",
+            "Vịnh Hạ Long không có nước biển. (K quan thin nhin v Di sn th gii)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate cruise experience translation.",
@@ -10348,10 +10348,10 @@
         {
           "prompt": "Phương châm cốt lõi của Việt Nam trong công tác phòng chống thiên tai, bão lũ là phương châm gì?",
           "options": [
-            "Phương châm phó mặc (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Phương châm \"Bốn tại chỗ\" (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Phương châm một mình (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Phương châm chờ đợi (Trung tm D bo Kh tng Thy vn Quc gia (U16))"
+            "Phương châm phó mặc (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Phương châm \"Bốn tại chỗ\" (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Phương châm một mình (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Phương châm chờ đợi (Trung tm D bo Kh tng Thy vn Quc gia)"
           ],
           "answerIndex": 1,
           "explanation": "Phương châm \"Bốn tại chỗ\"."
@@ -10363,10 +10363,10 @@
         {
           "prompt": "Hiện tượng nước sông dâng cao kết hợp thủy triều gây ngập đường phố thường xuyên ở miền Nam gọi là gì?",
           "options": [
-            "Triều cường (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Mưa phùn (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Động đất (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Lốc xoáy (Trung tm D bo Kh tng Thy vn Quc gia (U16))"
+            "Triều cường (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Mưa phùn (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Động đất (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Lốc xoáy (Trung tm D bo Kh tng Thy vn Quc gia)"
           ],
           "answerIndex": 0,
           "explanation": "Triều cường."
@@ -10378,10 +10378,10 @@
         {
           "prompt": "Cơ quan quốc gia chính thức chịu trách nhiệm theo dõi và phát bản tin dự báo bão lũ ở Việt Nam là gì?",
           "options": [
-            "Bộ Giáo dục (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Cục Hải quan (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Trung tâm Dự báo Khí tượng Thủy văn Quốc gia (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Ngân hàng Nhà nước (Trung tm D bo Kh tng Thy vn Quc gia (U16))"
+            "Bộ Giáo dục (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Cục Hải quan (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Trung tâm Dự báo Khí tượng Thủy văn Quốc gia (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Ngân hàng Nhà nước (Trung tm D bo Kh tng Thy vn Quc gia)"
           ],
           "answerIndex": 2,
           "explanation": "Trung tâm Dự báo Khí tượng Thủy văn Quốc gia.",
@@ -10390,10 +10390,10 @@
         {
           "prompt": "Dịch: \"Stay indoors, secure roofs and windows, and strictly follow evacuation guidelines during typhoons.\"",
           "options": [
-            "Bão không gây nguy hiểm. (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Ở trong nhà, chằng chống mái nhà và cửa sổ, tuân thủ nghiêm ngặt hướng dẫn sơ tán khi có bão. (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Ra bờ biển xem bão lớn. (Trung tm D bo Kh tng Thy vn Quc gia (U16))",
-            "Đi bơi trong mưa bão. (Trung tm D bo Kh tng Thy vn Quc gia (U16))"
+            "Bão không gây nguy hiểm. (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Ở trong nhà, chằng chống mái nhà và cửa sổ, tuân thủ nghiêm ngặt hướng dẫn sơ tán khi có bão. (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Ra bờ biển xem bão lớn. (Trung tm D bo Kh tng Thy vn Quc gia)",
+            "Đi bơi trong mưa bão. (Trung tm D bo Kh tng Thy vn Quc gia)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate typhoon safety translation.",
@@ -10431,10 +10431,10 @@
         {
           "prompt": "Tỉnh nào ở Nam Trung Bộ được coi là \"thủ phủ năng lượng tái tạo\" với các cánh đồng điện mặt trời và điện gió lớn nhất Việt Nam?",
           "options": [
-            "Ninh Thuận (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Hà Giang (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Lạng Sơn (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Cao Bằng (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))"
+            "Ninh Thuận (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Hà Giang (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Lạng Sơn (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Cao Bằng (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)"
           ],
           "answerIndex": 0,
           "explanation": "Ninh Thuận."
@@ -10446,10 +10446,10 @@
         {
           "prompt": "Việt Nam đã cam kết quốc tế đạt mức phát thải ròng bằng không (Net Zero) vào năm nào tại COP26?",
           "options": [
-            "Năm 2025 (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Năm 2150 (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Chưa cam kết (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Năm 2050 (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))"
+            "Năm 2025 (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Năm 2150 (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Chưa cam kết (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Năm 2050 (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)"
           ],
           "answerIndex": 3,
           "explanation": "Năm 2050 (Net Zero)."
@@ -10461,10 +10461,10 @@
         {
           "prompt": "Công trình thủy điện lớn nhất Đông Nam Á xây dựng trên sông Đà tại tỉnh Sơn La là nhà máy nào?",
           "options": [
-            "Thủy điện Trị An (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Nhà máy Thủy điện Sơn La (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Thủy điện Đa Nhim (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Thủy điện Thác Mơ (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))"
+            "Thủy điện Trị An (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Nhà máy Thủy điện Sơn La (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Thủy điện Đa Nhim (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Thủy điện Thác Mơ (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)"
           ],
           "answerIndex": 1,
           "explanation": "Thủy điện Sơn La.",
@@ -10473,10 +10473,10 @@
         {
           "prompt": "Dịch: \"Transitioning to renewable energy and reducing plastic waste is essential for preserving Vietnam's natural beauty.\"",
           "options": [
-            "Chuyển đổi sang năng lượng tái tạo và giảm thiểu rác thải nhựa là điều thiết yếu để bảo tồn vẻ đẹp thiên nhiên của Việt Nam. (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Phát thải ô nhiễm là điều tốt. (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Năng lượng sạch không hiệu quả. (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))",
-            "Môi trường không quan trọng. (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun (U16))"
+            "Chuyển đổi sang năng lượng tái tạo và giảm thiểu rác thải nhựa là điều thiết yếu để bảo tồn vẻ đẹp thiên nhiên của Việt Nam. (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Phát thải ô nhiễm là điều tốt. (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Năng lượng sạch không hiệu quả. (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)",
+            "Môi trường không quan trọng. (Chuyn dch nng lng xanh ti Vit Nam in mt tri Ninh Thun)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate sustainability statement.",
@@ -10513,10 +10513,10 @@
         {
           "prompt": "Làm thế nào để nói bằng tiếng Việt rằng bạn bị đau ở cả hai chân sau khi đi bộ dài?",
           "options": [
-            "Tôi bị đau tai (Cc b phn c th (U17))",
-            "Tôi bị đau mắt (Cc b phn c th (U17))",
-            "Tôi đang đói bụng (Cc b phn c th (U17))",
-            "Tôi bị đau hai chân (Cc b phn c th (U17))"
+            "Tôi bị đau tai (Cc b phn c th)",
+            "Tôi bị đau mắt (Cc b phn c th)",
+            "Tôi đang đói bụng (Cc b phn c th)",
+            "Tôi bị đau hai chân (Cc b phn c th)"
           ],
           "answerIndex": 3,
           "explanation": "Tôi bị đau hai chân."
@@ -10528,10 +10528,10 @@
         {
           "prompt": "Từ nào trong tiếng Việt dùng để chỉ cảm giác muốn nôn mửa khi say xe hoặc ngộ độc?",
           "options": [
-            "Buồn ngủ (Cc b phn c th (U17))",
-            "Vui vẻ (Cc b phn c th (U17))",
-            "Tỉnh táo (Cc b phn c th (U17))",
-            "Buồn nôn (Cc b phn c th (U17))"
+            "Buồn ngủ (Cc b phn c th)",
+            "Vui vẻ (Cc b phn c th)",
+            "Tỉnh táo (Cc b phn c th)",
+            "Buồn nôn (Cc b phn c th)"
           ],
           "answerIndex": 3,
           "explanation": "Buồn nôn."
@@ -10543,10 +10543,10 @@
         {
           "prompt": "Khi nhiệt độ cơ thể vượt quá 38 độ C, triệu chứng đó được gọi là gì trong y khoa tiếng Việt?",
           "options": [
-            "Bị sốt (Cc b phn c th (U17))",
-            "Bị gãy tay (Cc b phn c th (U17))",
-            "Bị ngứa (Cc b phn c th (U17))",
-            "Bị rách da (Cc b phn c th (U17))"
+            "Bị sốt (Cc b phn c th)",
+            "Bị gãy tay (Cc b phn c th)",
+            "Bị ngứa (Cc b phn c th)",
+            "Bị rách da (Cc b phn c th)"
           ],
           "answerIndex": 0,
           "explanation": "Bị sốt (sốt cao).",
@@ -10555,10 +10555,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"I have acute stomach pain, nausea, and dizziness; please call a doctor immediately.\"",
           "options": [
-            "Tôi rất khỏe và đang đi ăn tối. (Cc b phn c th (U17))",
-            "Bệnh viện ở rất xa. (Cc b phn c th (U17))",
-            "Tôi không cần thuốc men gì. (Cc b phn c th (U17))",
-            "Tôi bị đau bụng dữ dội, buồn nôn và chóng mặt; làm ơn gọi bác sĩ ngay lập tức. (Cc b phn c th (U17))"
+            "Tôi rất khỏe và đang đi ăn tối. (Cc b phn c th)",
+            "Bệnh viện ở rất xa. (Cc b phn c th)",
+            "Tôi không cần thuốc men gì. (Cc b phn c th)",
+            "Tôi bị đau bụng dữ dội, buồn nôn và chóng mặt; làm ơn gọi bác sĩ ngay lập tức. (Cc b phn c th)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate symptom translation.",
@@ -10595,10 +10595,10 @@
         {
           "prompt": "Loại dầu xoa bóp màu xanh lá cây thơm mùi tràm bạc hà cực kỳ phổ biến trong mọi gia đình Việt Nam là gì?",
           "options": [
-            "Dầu gió xanh (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Nước mắm (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Dầu ăn thực vật (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Dầu nhờn xe máy (Nh thuc ti Vit Nam Pharmacity (U17))"
+            "Dầu gió xanh (Nh thuc ti Vit Nam Pharmacity)",
+            "Nước mắm (Nh thuc ti Vit Nam Pharmacity)",
+            "Dầu ăn thực vật (Nh thuc ti Vit Nam Pharmacity)",
+            "Dầu nhờn xe máy (Nh thuc ti Vit Nam Pharmacity)"
           ],
           "answerIndex": 0,
           "explanation": "Dầu gió xanh."
@@ -10610,10 +10610,10 @@
         {
           "prompt": "Tờ giấy nhỏ bên trong hộp thuốc ghi rõ công dụng, liều dùng và tác dụng phụ được gọi là gì?",
           "options": [
-            "Tờ hướng dẫn sử dụng (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Tờ báo tin tức (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Hóa đơn tiền điện (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Tấm bản đồ du lịch (Nh thuc ti Vit Nam Pharmacity (U17))"
+            "Tờ hướng dẫn sử dụng (Nh thuc ti Vit Nam Pharmacity)",
+            "Tờ báo tin tức (Nh thuc ti Vit Nam Pharmacity)",
+            "Hóa đơn tiền điện (Nh thuc ti Vit Nam Pharmacity)",
+            "Tấm bản đồ du lịch (Nh thuc ti Vit Nam Pharmacity)"
           ],
           "answerIndex": 0,
           "explanation": "Tờ hướng dẫn sử dụng thuốc."
@@ -10625,10 +10625,10 @@
         {
           "prompt": "Ứng dụng bảo hiểm y tế số quốc gia trên điện thoại thông minh tại Việt Nam có tên là gì?",
           "options": [
-            "Zalo (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Grab (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Shopee (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "VssID (Nh thuc ti Vit Nam Pharmacity (U17))"
+            "Zalo (Nh thuc ti Vit Nam Pharmacity)",
+            "Grab (Nh thuc ti Vit Nam Pharmacity)",
+            "Shopee (Nh thuc ti Vit Nam Pharmacity)",
+            "VssID (Nh thuc ti Vit Nam Pharmacity)"
           ],
           "answerIndex": 3,
           "explanation": "VssID.",
@@ -10637,10 +10637,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Take two capsules after meals three times daily for five consecutive days.\"",
           "options": [
-            "Uống hết cả lọ thuốc một lần không cần nước. (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Không được uống thuốc này. (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Uống mỗi lần hai viên sau bữa ăn, ngày ba lần liên tục trong năm ngày. (Nh thuc ti Vit Nam Pharmacity (U17))",
-            "Thuốc chỉ để bôi ngoài da. (Nh thuc ti Vit Nam Pharmacity (U17))"
+            "Uống hết cả lọ thuốc một lần không cần nước. (Nh thuc ti Vit Nam Pharmacity)",
+            "Không được uống thuốc này. (Nh thuc ti Vit Nam Pharmacity)",
+            "Uống mỗi lần hai viên sau bữa ăn, ngày ba lần liên tục trong năm ngày. (Nh thuc ti Vit Nam Pharmacity)",
+            "Thuốc chỉ để bôi ngoài da. (Nh thuc ti Vit Nam Pharmacity)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate posology translation.",
@@ -10677,10 +10677,10 @@
         {
           "prompt": "Số điện thoại khẩn cấp quốc gia để gọi xe cứu thương y tế tại Việt Nam là số mấy?",
           "options": [
-            "113 (Cp cu y t 115 (U17))",
-            "115 (Cp cu y t 115 (U17))",
-            "114 (Cp cu y t 115 (U17))",
-            "119 (Cp cu y t 115 (U17))"
+            "113 (Cp cu y t 115)",
+            "115 (Cp cu y t 115)",
+            "114 (Cp cu y t 115)",
+            "119 (Cp cu y t 115)"
           ],
           "answerIndex": 1,
           "explanation": "115 (Cấp cứu y tế)."
@@ -10692,10 +10692,10 @@
         {
           "prompt": "Bệnh viện ngoại khoa và phẫu thuật chấn thương chỉnh hình đầu ngành lâu đời tại Hà Nội là bệnh viện nào?",
           "options": [
-            "Bệnh viện Hữu nghị Việt Đức (Cp cu y t 115 (U17))",
-            "Bưu điện Hà Nội (Cp cu y t 115 (U17))",
-            "Nhà hát Lớn (Cp cu y t 115 (U17))",
-            "Ga Hàng Cỏ (Cp cu y t 115 (U17))"
+            "Bệnh viện Hữu nghị Việt Đức (Cp cu y t 115)",
+            "Bưu điện Hà Nội (Cp cu y t 115)",
+            "Nhà hát Lớn (Cp cu y t 115)",
+            "Ga Hàng Cỏ (Cp cu y t 115)"
           ],
           "answerIndex": 0,
           "explanation": "Bệnh viện Hữu nghị Việt Đức."
@@ -10707,10 +10707,10 @@
         {
           "prompt": "Khoa nào trong bệnh viện chuyên tiếp nhận, cấp cứu và xử lý khẩn cấp các ca bệnh đe dọa tính mạng 24/24?",
           "options": [
-            "Nhà ăn bệnh viện (Cp cu y t 115 (U17))",
-            "Phòng bảo vệ (Cp cu y t 115 (U17))",
-            "Khoa Cấp cứu & Hồi sức tích cực (Cp cu y t 115 (U17))",
-            "Phòng tài vụ kế toán (Cp cu y t 115 (U17))"
+            "Nhà ăn bệnh viện (Cp cu y t 115)",
+            "Phòng bảo vệ (Cp cu y t 115)",
+            "Khoa Cấp cứu & Hồi sức tích cực (Cp cu y t 115)",
+            "Phòng tài vụ kế toán (Cp cu y t 115)"
           ],
           "answerIndex": 2,
           "explanation": "Khoa Cấp cứu.",
@@ -10719,10 +10719,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"The patient is in critical respiratory distress; dispatch an emergency ambulance with oxygen equipment immediately.\"",
           "options": [
-            "Không cần gọi xe cứu thương. (Cp cu y t 115 (U17))",
-            "Bệnh nhân đang bị suy hô hấp nguy kịch; hãy điều phối một xe cấp cứu có thiết bị oxy ngay lập tức. (Cp cu y t 115 (U17))",
-            "Bệnh viện hôm nay nghỉ lễ. (Cp cu y t 115 (U17))",
-            "Bệnh nhân đang đi dạo ngoài trời. (Cp cu y t 115 (U17))"
+            "Không cần gọi xe cứu thương. (Cp cu y t 115)",
+            "Bệnh nhân đang bị suy hô hấp nguy kịch; hãy điều phối một xe cấp cứu có thiết bị oxy ngay lập tức. (Cp cu y t 115)",
+            "Bệnh viện hôm nay nghỉ lễ. (Cp cu y t 115)",
+            "Bệnh nhân đang đi dạo ngoài trời. (Cp cu y t 115)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate emergency dispatch translation.",
@@ -10759,10 +10759,10 @@
         {
           "prompt": "Câu danh ngôn y học nổi tiếng „Nam dược trị Nam nhân” là của vị Đại danh y nào trong lịch sử Việt Nam?",
           "options": [
-            "Nguyễn Trãi (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Đại danh y Thiền sư Tuệ Tĩnh (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Lê Lợi (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Trần Hưng Đạo (Y hc c truyn ng Y Vit Nam Nam Dc (U17))"
+            "Nguyễn Trãi (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Đại danh y Thiền sư Tuệ Tĩnh (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Lê Lợi (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Trần Hưng Đạo (Y hc c truyn ng Y Vit Nam Nam Dc)"
           ],
           "answerIndex": 1,
           "explanation": "Thiền sư Tuệ Tĩnh."
@@ -10774,10 +10774,10 @@
         {
           "prompt": "Loại trà thảo mộc nào nổi tiếng của vùng cao nguyên Đà Lạt giúp mát gan, thanh nhiệt và giải độc cơ thể?",
           "options": [
-            "Trà atisô (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Cà phê đen đặc (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Rượu mạnh (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Nước ngọt có ga (Y hc c truyn ng Y Vit Nam Nam Dc (U17))"
+            "Trà atisô (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Cà phê đen đặc (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Rượu mạnh (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Nước ngọt có ga (Y hc c truyn ng Y Vit Nam Nam Dc)"
           ],
           "answerIndex": 0,
           "explanation": "Trà atisô Đà Lạt."
@@ -10789,10 +10789,10 @@
         {
           "prompt": "Phương pháp y học cổ truyền dùng kim châm vào các huyệt đạo trên cơ thể để giảm đau và phục hồi chức năng là gì?",
           "options": [
-            "Uống thuốc kháng sinh (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Châm cứu (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Phẫu thuật mở (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Chụp X-quang (Y hc c truyn ng Y Vit Nam Nam Dc (U17))"
+            "Uống thuốc kháng sinh (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Châm cứu (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Phẫu thuật mở (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Chụp X-quang (Y hc c truyn ng Y Vit Nam Nam Dc)"
           ],
           "answerIndex": 1,
           "explanation": "Châm cứu.",
@@ -10801,10 +10801,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Practicing traditional acupuncture, drinking herbal teas, and soaking feet in ginger water promotes restful sleep and longevity.\"",
           "options": [
-            "Thực hành châm cứu truyền thống, uống trà thảo dược và ngâm chân nước gừng giúp ngủ ngon và tăng cường tuổi thọ. (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Không nên uống trà thảo mộc. (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Đông Y không có tác dụng gì. (Y hc c truyn ng Y Vit Nam Nam Dc (U17))",
-            "Ngâm chân nước gừng gây hại cho sức khỏe. (Y hc c truyn ng Y Vit Nam Nam Dc (U17))"
+            "Thực hành châm cứu truyền thống, uống trà thảo dược và ngâm chân nước gừng giúp ngủ ngon và tăng cường tuổi thọ. (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Không nên uống trà thảo mộc. (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Đông Y không có tác dụng gì. (Y hc c truyn ng Y Vit Nam Nam Dc)",
+            "Ngâm chân nước gừng gây hại cho sức khỏe. (Y hc c truyn ng Y Vit Nam Nam Dc)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate traditional wellness translation.",
@@ -10841,10 +10841,10 @@
         {
           "prompt": "Giáo sư Tôn Thất Tùng là nhà ngoại khoa huyền thoại của Việt Nam nổi tiếng thế giới nhờ phát minh phương pháp phẫu thuật nào?",
           "options": [
-            "Phương pháp cắt gan Tôn Thất Tùng (Cc tng i y hc Vit Nam (U17))",
-            "Kỹ thuật mổ tim hở (Cc tng i y hc Vit Nam (U17))",
-            "Kỹ thuật nội soi dạ dày (Cc tng i y hc Vit Nam (U17))",
-            "Phương pháp trồng răng (Cc tng i y hc Vit Nam (U17))"
+            "Phương pháp cắt gan Tôn Thất Tùng (Cc tng i y hc Vit Nam)",
+            "Kỹ thuật mổ tim hở (Cc tng i y hc Vit Nam)",
+            "Kỹ thuật nội soi dạ dày (Cc tng i y hc Vit Nam)",
+            "Phương pháp trồng răng (Cc tng i y hc Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Phương pháp cắt gan Tôn Thất Tùng."
@@ -10856,10 +10856,10 @@
         {
           "prompt": "Bộ sách đồ sộ 66 quyển tổng kết toàn bộ y học và y đức cổ truyền Việt Nam của Hải Thượng Lãn Ông có tên là gì?",
           "options": [
-            "Đại Việt sử ký toàn thư (Cc tng i y hc Vit Nam (U17))",
-            "Truyện Kiều (Cc tng i y hc Vit Nam (U17))",
-            "Nam quốc sơn hà (Cc tng i y hc Vit Nam (U17))",
-            "Hải Thượng Y tông tâm lĩnh (Cc tng i y hc Vit Nam (U17))"
+            "Đại Việt sử ký toàn thư (Cc tng i y hc Vit Nam)",
+            "Truyện Kiều (Cc tng i y hc Vit Nam)",
+            "Nam quốc sơn hà (Cc tng i y hc Vit Nam)",
+            "Hải Thượng Y tông tâm lĩnh (Cc tng i y hc Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Hải Thượng Y tông tâm lĩnh."
@@ -10871,10 +10871,10 @@
         {
           "prompt": "Nhà khoa học người Pháp gốc Thụy Sĩ gắn bó cả đời với Nha Trang, phát hiện ra vi khuẩn dịch hạch và sáng lập Viện Pasteur là ai?",
           "options": [
-            "Bác sĩ Alexandre Yersin (Cc tng i y hc Vit Nam (U17))",
-            "Louis Pasteur (Cc tng i y hc Vit Nam (U17))",
-            "Paul Doumer (Cc tng i y hc Vit Nam (U17))",
-            "Albert Calmette (Cc tng i y hc Vit Nam (U17))"
+            "Bác sĩ Alexandre Yersin (Cc tng i y hc Vit Nam)",
+            "Louis Pasteur (Cc tng i y hc Vit Nam)",
+            "Paul Doumer (Cc tng i y hc Vit Nam)",
+            "Albert Calmette (Cc tng i y hc Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Bác sĩ Alexandre Yersin.",
@@ -10883,10 +10883,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Pioneering hepatic surgical innovations and centuries of medical ethics continue to inspire modern physicians.\"",
           "options": [
-            "Phương pháp mổ gan không được áp dụng. (Cc tng i y hc Vit Nam (U17))",
-            "Ngoại khoa Việt Nam không có thành tựu gì. (Cc tng i y hc Vit Nam (U17))",
-            "Y đức không quan trọng trong khám chữa bệnh. (Cc tng i y hc Vit Nam (U17))",
-            "Những phát minh phẫu thuật gan tiên phong và hàng thế kỷ y đức tiếp tục truyền cảm hứng cho các bác sĩ hiện đại. (Cc tng i y hc Vit Nam (U17))"
+            "Phương pháp mổ gan không được áp dụng. (Cc tng i y hc Vit Nam)",
+            "Ngoại khoa Việt Nam không có thành tựu gì. (Cc tng i y hc Vit Nam)",
+            "Y đức không quan trọng trong khám chữa bệnh. (Cc tng i y hc Vit Nam)",
+            "Những phát minh phẫu thuật gan tiên phong và hàng thế kỷ y đức tiếp tục truyền cảm hứng cho các bác sĩ hiện đại. (Cc tng i y hc Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate medical history translation.",
@@ -10923,10 +10923,10 @@
         {
           "prompt": "Trong tin đăng bất động sản tại Việt Nam, ký hiệu viết tắt \"2PN 2WC\" có nghĩa là gì?",
           "options": [
-            "Căn hộ có 2 phòng khách (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Nhà có 2 tầng hầm (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Căn hộ không có phòng ngủ (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Căn hộ có 2 phòng ngủ và 2 nhà vệ sinh/phòng tắm (Thu nh v cn h ti Vit Nam Batdongsan (U18))"
+            "Căn hộ có 2 phòng khách (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Nhà có 2 tầng hầm (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Căn hộ không có phòng ngủ (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Căn hộ có 2 phòng ngủ và 2 nhà vệ sinh/phòng tắm (Thu nh v cn h ti Vit Nam Batdongsan)"
           ],
           "answerIndex": 3,
           "explanation": "2 phòng ngủ và 2 phòng tắm/WC."
@@ -10938,10 +10938,10 @@
         {
           "prompt": "Khoản tiền người thuê giao cho chủ nhà giữ làm bảo đảm khi bắt đầu hợp đồng thuê được gọi là gì?",
           "options": [
-            "Tiền mừng tuổi (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Tiền boa phục vụ (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Tiền phạt vi phạm giao thông (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Tiền đặt cọc (Thu nh v cn h ti Vit Nam Batdongsan (U18))"
+            "Tiền mừng tuổi (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Tiền boa phục vụ (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Tiền phạt vi phạm giao thông (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Tiền đặt cọc (Thu nh v cn h ti Vit Nam Batdongsan)"
           ],
           "answerIndex": 3,
           "explanation": "Tiền đặt cọc."
@@ -10953,10 +10953,10 @@
         {
           "prompt": "Khoản chi phí hàng tháng cư dân chung cư đóng để duy trì an ninh, vệ sinh sảnh và vận hành thang máy là gì?",
           "options": [
-            "Thuế thu nhập doanh nghiệp (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Học phí trường học (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Tiền vé xem phim (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Phí quản lý chung cư (Thu nh v cn h ti Vit Nam Batdongsan (U18))"
+            "Thuế thu nhập doanh nghiệp (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Học phí trường học (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Tiền vé xem phim (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Phí quản lý chung cư (Thu nh v cn h ti Vit Nam Batdongsan)"
           ],
           "answerIndex": 3,
           "explanation": "Phí quản lý chung cư.",
@@ -10965,10 +10965,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"The tenant paid a two-month deposit and signed a one-year lease for a modern serviced apartment.\"",
           "options": [
-            "Căn hộ không có hợp đồng thuê. (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Chủ nhà không cho thuê căn hộ. (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Người thuê nhà đã đặt cọc hai tháng và ký hợp đồng thuê một năm cho một căn hộ dịch vụ hiện đại. (Thu nh v cn h ti Vit Nam Batdongsan (U18))",
-            "Người thuê không cần trả tiền cọc. (Thu nh v cn h ti Vit Nam Batdongsan (U18))"
+            "Căn hộ không có hợp đồng thuê. (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Chủ nhà không cho thuê căn hộ. (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Người thuê nhà đã đặt cọc hai tháng và ký hợp đồng thuê một năm cho một căn hộ dịch vụ hiện đại. (Thu nh v cn h ti Vit Nam Batdongsan)",
+            "Người thuê không cần trả tiền cọc. (Thu nh v cn h ti Vit Nam Batdongsan)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate lease translation.",
@@ -11005,10 +11005,10 @@
         {
           "prompt": "Kiến trúc nhà ở đô thị đặc trưng của Việt Nam với mặt tiền hẹp và chiều sâu dài nhiều tầng được gọi là gì?",
           "options": [
-            "Nhà ống (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Lều bạt du mục (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Biệt thự sân vườn rộng (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Lâu đài cổ (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))"
+            "Nhà ống (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Lều bạt du mục (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Biệt thự sân vườn rộng (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Lâu đài cổ (Nh ng  th Vit Nam nh mt ph nhiu tng)"
           ],
           "answerIndex": 0,
           "explanation": "Nhà ống."
@@ -11020,10 +11020,10 @@
         {
           "prompt": "Khoảng không gian thông tầng từ mái xuống đáy nhà ống để lấy sáng và lưu thông gió tự nhiên gọi là gì?",
           "options": [
-            "Giếng trời (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Hầm rượu (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Bể bơi mini (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Cầu thang thoát hiểm (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))"
+            "Giếng trời (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Hầm rượu (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Bể bơi mini (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Cầu thang thoát hiểm (Nh ng  th Vit Nam nh mt ph nhiu tng)"
           ],
           "answerIndex": 0,
           "explanation": "Giếng trời."
@@ -11035,10 +11035,10 @@
         {
           "prompt": "Phòng thờ cúng tổ tiên trong ngôi nhà truyền thống của người Việt thường được đặt ở tầng nào trang nghiêm nhất?",
           "options": [
-            "Tầng hầm để xe (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Dưới gầm cầu thang (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Tầng trên cùng cao nhất của ngôi nhà (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Gần cửa ra vào ồn ào (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))"
+            "Tầng hầm để xe (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Dưới gầm cầu thang (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Tầng trên cùng cao nhất của ngôi nhà (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Gần cửa ra vào ồn ào (Nh ng  th Vit Nam nh mt ph nhiu tng)"
           ],
           "answerIndex": 2,
           "explanation": "Tầng trên cùng.",
@@ -11047,10 +11047,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"The central skylight and green rooftop garden provide natural ventilation and daylight throughout the multi-story house.\"",
           "options": [
-            "Ngôi nhà không có ánh sáng mặt trời. (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Giếng trời ở giữa và vườn cây trên sân thượng cung cấp gió tự nhiên và ánh sáng ban ngày cho toàn bộ ngôi nhà nhiều tầng. (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Sân thượng bị khóa kín không sử dụng. (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))",
-            "Nhà ống không thể trồng cây xanh. (Nh ng  th Vit Nam nh mt ph nhiu tng (U18))"
+            "Ngôi nhà không có ánh sáng mặt trời. (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Giếng trời ở giữa và vườn cây trên sân thượng cung cấp gió tự nhiên và ánh sáng ban ngày cho toàn bộ ngôi nhà nhiều tầng. (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Sân thượng bị khóa kín không sử dụng. (Nh ng  th Vit Nam nh mt ph nhiu tng)",
+            "Nhà ống không thể trồng cây xanh. (Nh ng  th Vit Nam nh mt ph nhiu tng)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate architectural feature translation.",
@@ -11087,10 +11087,10 @@
         {
           "prompt": "Ngôi nhà cộng đồng truyền thống có mái cao vút hình lưỡi rìu của các dân tộc Tây Nguyên được gọi là gì?",
           "options": [
-            "Nhà ống (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Nhà Rông (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Chung cư (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Nhà bạt (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))"
+            "Nhà ống (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Nhà Rông (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Chung cư (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Nhà bạt (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)"
           ],
           "answerIndex": 1,
           "explanation": "Nhà Rông."
@@ -11102,10 +11102,10 @@
         {
           "prompt": "Tại sao đồng bào các dân tộc vùng núi phía Bắc lại làm nhà sàn cách mặt đất trên các cột gỗ cao?",
           "options": [
-            "Để tránh thú dữ, chống ẩm ướt vùng rừng núi và phòng chống ngập lũ (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Để làm sân khấu kịch (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Để đón gió lạnh mùa đông (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Để trồng lúa dưới sàn (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))"
+            "Để tránh thú dữ, chống ẩm ướt vùng rừng núi và phòng chống ngập lũ (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Để làm sân khấu kịch (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Để đón gió lạnh mùa đông (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Để trồng lúa dưới sàn (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)"
           ],
           "answerIndex": 0,
           "explanation": "Tránh thú dữ và chống ẩm ướt."
@@ -11117,10 +11117,10 @@
         {
           "prompt": "Vị trí nào trong nhà sàn truyền thống được coi là linh hồn của ngôi nhà, nơi sum họp gia đình và đun nước pha trà tiếp khách?",
           "options": [
-            "Mái nhà (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Bếp lửa thiêng giữa nhà sàn (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Chuồng trại gia súc (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Chân cầu thang ngoài trời (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))"
+            "Mái nhà (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Bếp lửa thiêng giữa nhà sàn (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Chuồng trại gia súc (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Chân cầu thang ngoài trời (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)"
           ],
           "answerIndex": 1,
           "explanation": "Bếp lửa thiêng.",
@@ -11129,10 +11129,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Traditional wooden stilt houses and monumental communal communal halls represent the cultural heritage of highland communities.\"",
           "options": [
-            "Nhà sàn gỗ truyền thống và những ngôi nhà rông cộng đồng đồ sộ đại diện cho di sản văn hóa của các cộng đồng vùng cao. (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Nhà Rông không có giá trị văn hóa. (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Nhà sàn chỉ xây dựng ở thành phố lớn. (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))",
-            "Đồng bào Tây Nguyên không xây dựng nhà sàn. (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng (U18))"
+            "Nhà sàn gỗ truyền thống và những ngôi nhà rông cộng đồng đồ sộ đại diện cho di sản văn hóa của các cộng đồng vùng cao. (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Nhà Rông không có giá trị văn hóa. (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Nhà sàn chỉ xây dựng ở thành phố lớn. (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)",
+            "Đồng bào Tây Nguyên không xây dựng nhà sàn. (Nh sn truyn thng ca cc dn tc thiu s vng cao Ty Bc  Ty Nguyn Nh Rng)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate ethnic architecture translation.",
@@ -11169,10 +11169,10 @@
         {
           "prompt": "Loại ngói lợp truyền thống có các viên ngửa viên úp xen kẽ rất phổ biến trên mái nhà cổ Hội An gọi là gì?",
           "options": [
-            "Tấm nhựa lấy sáng (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Ngói âm dương (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Lá cọ khô (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Ngói tôn lạnh (Kin trc Ph c Hi An Di sn UNESCO (U18))"
+            "Tấm nhựa lấy sáng (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Ngói âm dương (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Lá cọ khô (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Ngói tôn lạnh (Kin trc Ph c Hi An Di sn UNESCO)"
           ],
           "answerIndex": 1,
           "explanation": "Ngói âm dương."
@@ -11184,10 +11184,10 @@
         {
           "prompt": "Cây cầu cổ bằng gỗ lợp ngói nổi tiếng do thương nhân Nhật Bản xây dựng tại Hội An là công trình nào?",
           "options": [
-            "Chùa Cầu (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Cầu Rồng Đà Nẵng (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Cầu Cần Thơ (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Cầu Long Biên (Kin trc Ph c Hi An Di sn UNESCO (U18))"
+            "Chùa Cầu (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Cầu Rồng Đà Nẵng (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Cầu Cần Thơ (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Cầu Long Biên (Kin trc Ph c Hi An Di sn UNESCO)"
           ],
           "answerIndex": 0,
           "explanation": "Chùa Cầu (Hội An)."
@@ -11199,10 +11199,10 @@
         {
           "prompt": "Màu sơn vôi truyền thống rực rỡ đặc trưng phủ khắp các bức tường của những ngôi nhà trong phố cổ Hội An là màu gì?",
           "options": [
-            "Màu vàng ấm áp (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Màu hồng cánh sen (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Màu tím đậm (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Màu đen (Kin trc Ph c Hi An Di sn UNESCO (U18))"
+            "Màu vàng ấm áp (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Màu hồng cánh sen (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Màu tím đậm (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Màu đen (Kin trc Ph c Hi An Di sn UNESCO)"
           ],
           "answerIndex": 0,
           "explanation": "Màu vàng ấm áp.",
@@ -11211,10 +11211,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Centuries-old timber merchant houses with yin-yang tiles and silk lanterns reflect the multicultural maritime trade history of Hoi An.\"",
           "options": [
-            "Không có ngôi nhà gỗ nào ở Hội An. (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Chùa Cầu được xây dựng bằng sắt thép hiện đại. (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Hội An là một thành phố công nghiệp mới. (Kin trc Ph c Hi An Di sn UNESCO (U18))",
-            "Những ngôi nhà buôn bằng gỗ hàng thế kỷ với ngói âm dương và đèn lồng lụa phản ánh lịch sử thương mại hàng hải đa văn hóa của Hội An. (Kin trc Ph c Hi An Di sn UNESCO (U18))"
+            "Không có ngôi nhà gỗ nào ở Hội An. (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Chùa Cầu được xây dựng bằng sắt thép hiện đại. (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Hội An là một thành phố công nghiệp mới. (Kin trc Ph c Hi An Di sn UNESCO)",
+            "Những ngôi nhà buôn bằng gỗ hàng thế kỷ với ngói âm dương và đèn lồng lụa phản ánh lịch sử thương mại hàng hải đa văn hóa của Hội An. (Kin trc Ph c Hi An Di sn UNESCO)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate architectural history translation.",
@@ -11251,10 +11251,10 @@
         {
           "prompt": "Thiết bị an ninh hiện đại thay thế chìa khóa cơ truyền thống bằng nhận diện vân tay hoặc khuôn mặt 3D tại các căn hộ Việt Nam là gì?",
           "options": [
-            "Khóa cửa thông minh điện tử (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Chốt cửa bằng gỗ cũ (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Thanh tre gài cửa (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Dây xích sắt (Cn h thng minh Smarthome ti Vit Nam (U18))"
+            "Khóa cửa thông minh điện tử (Cn h thng minh Smarthome ti Vit Nam)",
+            "Chốt cửa bằng gỗ cũ (Cn h thng minh Smarthome ti Vit Nam)",
+            "Thanh tre gài cửa (Cn h thng minh Smarthome ti Vit Nam)",
+            "Dây xích sắt (Cn h thng minh Smarthome ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Khóa cửa thông minh."
@@ -11266,10 +11266,10 @@
         {
           "prompt": "Khu đô thị sinh thái nổi tiếng gần Hà Nội được mệnh danh là thành phố xanh với hàng triệu cây xanh và công viên mặt nước là khu đô thị nào?",
           "options": [
-            "Khu công nghiệp Bắc Thăng Long (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Bến xe Mỹ Đình (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Chợ Đồng Xuân (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Ecopark (Cn h thng minh Smarthome ti Vit Nam (U18))"
+            "Khu công nghiệp Bắc Thăng Long (Cn h thng minh Smarthome ti Vit Nam)",
+            "Bến xe Mỹ Đình (Cn h thng minh Smarthome ti Vit Nam)",
+            "Chợ Đồng Xuân (Cn h thng minh Smarthome ti Vit Nam)",
+            "Ecopark (Cn h thng minh Smarthome ti Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Ecopark."
@@ -11281,10 +11281,10 @@
         {
           "prompt": "Hệ sinh thái phương tiện giao thông công cộng chạy hoàn toàn bằng điện không khí thải trong các khu đô thị hiện đại ở Việt Nam là gì?",
           "options": [
-            "Xe xích lô đạp (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Xe lam chạy dầu (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Xe đầu kéo container (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Xe buýt điện thông minh VinBus (Cn h thng minh Smarthome ti Vit Nam (U18))"
+            "Xe xích lô đạp (Cn h thng minh Smarthome ti Vit Nam)",
+            "Xe lam chạy dầu (Cn h thng minh Smarthome ti Vit Nam)",
+            "Xe đầu kéo container (Cn h thng minh Smarthome ti Vit Nam)",
+            "Xe buýt điện thông minh VinBus (Cn h thng minh Smarthome ti Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Xe buýt điện VinBus.",
@@ -11293,10 +11293,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Smart home automation, biometric digital locks, and eco-friendly green residential developments offer superior comfort and energy efficiency.\"",
           "options": [
-            "Khu đô thị xanh gây ô nhiễm môi trường. (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Nhà thông minh làm tăng chi phí điện sinh hoạt. (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Tự động hóa nhà thông minh, khóa kỹ thuật số sinh trắc học và các khu dân cư xanh thân thiện với môi trường mang lại sự tiện nghi và tiết kiệm năng lượng vượt trội. (Cn h thng minh Smarthome ti Vit Nam (U18))",
-            "Khóa cửa vân tay không an toàn. (Cn h thng minh Smarthome ti Vit Nam (U18))"
+            "Khu đô thị xanh gây ô nhiễm môi trường. (Cn h thng minh Smarthome ti Vit Nam)",
+            "Nhà thông minh làm tăng chi phí điện sinh hoạt. (Cn h thng minh Smarthome ti Vit Nam)",
+            "Tự động hóa nhà thông minh, khóa kỹ thuật số sinh trắc học và các khu dân cư xanh thân thiện với môi trường mang lại sự tiện nghi và tiết kiệm năng lượng vượt trội. (Cn h thng minh Smarthome ti Vit Nam)",
+            "Khóa cửa vân tay không an toàn. (Cn h thng minh Smarthome ti Vit Nam)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate smart home statement translation.",
@@ -11333,10 +11333,10 @@
         {
           "prompt": "Khoản tiền thưởng truyền thống người lao động Việt Nam thường nhận được vào dịp Tết Nguyên Đán là gì?",
           "options": [
-            "Tiền mừng sinh nhật (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Tiền trợ cấp xăng dầu (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Tiền nộp phạt (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Lương tháng thứ 13 (Th trng vic lm ti Vit Nam VietnamWorks (U19))"
+            "Tiền mừng sinh nhật (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Tiền trợ cấp xăng dầu (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Tiền nộp phạt (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Lương tháng thứ 13 (Th trng vic lm ti Vit Nam VietnamWorks)"
           ],
           "answerIndex": 3,
           "explanation": "Lương tháng thứ 13."
@@ -11348,10 +11348,10 @@
         {
           "prompt": "Mức lương trong thời gian thử việc theo quy định của Bộ luật Lao động Việt Nam tối thiểu bằng bao nhiêu phần trăm lương chính thức?",
           "options": [
-            "50% (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "10% (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "0% (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Ít nhất 85% mức lương chính thức (Th trng vic lm ti Vit Nam VietnamWorks (U19))"
+            "50% (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "10% (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "0% (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Ít nhất 85% mức lương chính thức (Th trng vic lm ti Vit Nam VietnamWorks)"
           ],
           "answerIndex": 3,
           "explanation": "Ít nhất 85%."
@@ -11363,10 +11363,10 @@
         {
           "prompt": "Ba loại bảo hiểm bắt buộc mà doanh nghiệp và người lao động cùng đóng hàng tháng tại Việt Nam là gì?",
           "options": [
-            "Bảo hiểm du lịch quốc tế (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Bảo hiểm thân vỏ ô tô (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "BHXH (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Bảo hiểm cháy nổ nhà kho (Th trng vic lm ti Vit Nam VietnamWorks (U19))"
+            "Bảo hiểm du lịch quốc tế (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Bảo hiểm thân vỏ ô tô (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "BHXH (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Bảo hiểm cháy nổ nhà kho (Th trng vic lm ti Vit Nam VietnamWorks)"
           ],
           "answerIndex": 2,
           "explanation": "BHXH, BHYT và BHTN.",
@@ -11375,10 +11375,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"The official labor contract guarantees monthly salary payments, paid annual leave, and full statutory social insurance.\"",
           "options": [
-            "Người lao động không được hưởng bảo hiểm. (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Hợp đồng lao động chính thức bảo đảm trả lương hàng tháng, nghỉ phép năm hưởng lương và đầy đủ bảo hiểm xã hội theo luật định. (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Doanh nghiệp không có hợp đồng lao động. (Th trng vic lm ti Vit Nam VietnamWorks (U19))",
-            "Lương chỉ trả bằng hiện vật. (Th trng vic lm ti Vit Nam VietnamWorks (U19))"
+            "Người lao động không được hưởng bảo hiểm. (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Hợp đồng lao động chính thức bảo đảm trả lương hàng tháng, nghỉ phép năm hưởng lương và đầy đủ bảo hiểm xã hội theo luật định. (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Doanh nghiệp không có hợp đồng lao động. (Th trng vic lm ti Vit Nam VietnamWorks)",
+            "Lương chỉ trả bằng hiện vật. (Th trng vic lm ti Vit Nam VietnamWorks)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate employment contract translation.",
@@ -11415,10 +11415,10 @@
         {
           "prompt": "Thức uống truyền thống phổ biến nhất được nhân viên công sở Việt Nam uống vào buổi sáng để trò chuyện công việc là gì?",
           "options": [
-            "Cà phê sữa đá (Vn ha cng s ti Vit Nam (U19))",
-            "Nước mắm (Vn ha cng s ti Vit Nam (U19))",
-            "Nước ngọt có ga (Vn ha cng s ti Vit Nam (U19))",
-            "Sữa chua đá (Vn ha cng s ti Vit Nam (U19))"
+            "Cà phê sữa đá (Vn ha cng s ti Vit Nam)",
+            "Nước mắm (Vn ha cng s ti Vit Nam)",
+            "Nước ngọt có ga (Vn ha cng s ti Vit Nam)",
+            "Sữa chua đá (Vn ha cng s ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Cà phê sữa đá."
@@ -11430,10 +11430,10 @@
         {
           "prompt": "Thói quen nghỉ ngơi ngắn 30-40 phút sau giờ ăn trưa tại các văn phòng ở Việt Nam được gọi là gì?",
           "options": [
-            "Ngủ trưa văn phòng (Vn ha cng s ti Vit Nam (U19))",
-            "Nghỉ làm cả ngày (Vn ha cng s ti Vit Nam (U19))",
-            "Đi bơi thi đấu (Vn ha cng s ti Vit Nam (U19))",
-            "Họp khẩn cấp (Vn ha cng s ti Vit Nam (U19))"
+            "Ngủ trưa văn phòng (Vn ha cng s ti Vit Nam)",
+            "Nghỉ làm cả ngày (Vn ha cng s ti Vit Nam)",
+            "Đi bơi thi đấu (Vn ha cng s ti Vit Nam)",
+            "Họp khẩn cấp (Vn ha cng s ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Ngủ trưa văn phòng."
@@ -11445,10 +11445,10 @@
         {
           "prompt": "Tiệc liên hoan lớn nhất trong năm của các công ty tại Việt Nam nhằm tổng kết và tri ân nhân viên trước Tết gọi là gì?",
           "options": [
-            "Tiệc sinh nhật (Vn ha cng s ti Vit Nam (U19))",
-            "Tiệc Tất niên (Vn ha cng s ti Vit Nam (U19))",
-            "Tiệc mừng tân gia (Vn ha cng s ti Vit Nam (U19))",
-            "Lễ khai giảng (Vn ha cng s ti Vit Nam (U19))"
+            "Tiệc sinh nhật (Vn ha cng s ti Vit Nam)",
+            "Tiệc Tất niên (Vn ha cng s ti Vit Nam)",
+            "Tiệc mừng tân gia (Vn ha cng s ti Vit Nam)",
+            "Lễ khai giảng (Vn ha cng s ti Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "Tiệc Tất niên.",
@@ -11457,10 +11457,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Morning coffee discussions and friendly team gatherings foster close workplace camaraderie and high team productivity.\"",
           "options": [
-            "Những buổi thảo luận cà phê sáng và các buổi liên hoan thân mật gắn kết tinh thần đồng đội và nâng cao năng suất làm việc. (Vn ha cng s ti Vit Nam (U19))",
-            "Tiệc tất niên bị cấm tại các công ty. (Vn ha cng s ti Vit Nam (U19))",
-            "Môi trường làm việc không có sự hợp tác. (Vn ha cng s ti Vit Nam (U19))",
-            "Nhân viên không được phép uống cà phê. (Vn ha cng s ti Vit Nam (U19))"
+            "Những buổi thảo luận cà phê sáng và các buổi liên hoan thân mật gắn kết tinh thần đồng đội và nâng cao năng suất làm việc. (Vn ha cng s ti Vit Nam)",
+            "Tiệc tất niên bị cấm tại các công ty. (Vn ha cng s ti Vit Nam)",
+            "Môi trường làm việc không có sự hợp tác. (Vn ha cng s ti Vit Nam)",
+            "Nhân viên không được phép uống cà phê. (Vn ha cng s ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate workplace culture translation.",
@@ -11497,10 +11497,10 @@
         {
           "prompt": "Thời gian nghỉ thai sản hưởng nguyên lương từ quỹ BHXH đối với lao động nữ sinh con tại Việt Nam là bao lâu?",
           "options": [
-            "1 tháng (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "6 tháng trọn vẹn (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "2 tuần (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "1 năm (Ch  thai sn v bo v ph n ti Vit Nam (U19))"
+            "1 tháng (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "6 tháng trọn vẹn (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "2 tuần (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "1 năm (Ch  thai sn v bo v ph n ti Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "6 tháng trọn vẹn."
@@ -11512,10 +11512,10 @@
         {
           "prompt": "Số ngày nghỉ phép năm tối thiểu hưởng nguyên lương cho người lao động làm việc trong điều kiện bình thường là bao nhiêu?",
           "options": [
-            "12 ngày làm việc / năm (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "30 ngày (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "3 ngày (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "0 ngày (Ch  thai sn v bo v ph n ti Vit Nam (U19))"
+            "12 ngày làm việc / năm (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "30 ngày (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "3 ngày (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "0 ngày (Ch  thai sn v bo v ph n ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "12 ngày làm việc / năm."
@@ -11527,10 +11527,10 @@
         {
           "prompt": "Lao động nữ đang nuôi con dưới 12 tháng tuổi được hưởng quyền lợi nghỉ bao nhiêu phút mỗi ngày trong giờ làm việc để chăm con?",
           "options": [
-            "Được nghỉ 60 phút mỗi ngày hưởng nguyên lương (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "10 phút (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "5 phút (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "Không được nghỉ (Ch  thai sn v bo v ph n ti Vit Nam (U19))"
+            "Được nghỉ 60 phút mỗi ngày hưởng nguyên lương (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "10 phút (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "5 phút (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "Không được nghỉ (Ch  thai sn v bo v ph n ti Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Nghỉ 60 phút mỗi ngày.",
@@ -11539,10 +11539,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Generous six-month paid maternity leave and legal job protection support working mothers across Vietnam.\"",
           "options": [
-            "Nghỉ sinh con bị trừ toàn bộ lương. (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "Phụ nữ không được hưởng chế độ thai sản. (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "Pháp luật không bảo vệ lao động nữ mang thai. (Ch  thai sn v bo v ph n ti Vit Nam (U19))",
-            "Chế độ nghỉ thai sản sáu tháng có lương hào phóng và bảo vệ việc làm theo luật hỗ trợ các bà mẹ đi làm trên khắp Việt Nam. (Ch  thai sn v bo v ph n ti Vit Nam (U19))"
+            "Nghỉ sinh con bị trừ toàn bộ lương. (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "Phụ nữ không được hưởng chế độ thai sản. (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "Pháp luật không bảo vệ lao động nữ mang thai. (Ch  thai sn v bo v ph n ti Vit Nam)",
+            "Chế độ nghỉ thai sản sáu tháng có lương hào phóng và bảo vệ việc làm theo luật hỗ trợ các bà mẹ đi làm trên khắp Việt Nam. (Ch  thai sn v bo v ph n ti Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate maternity rights translation.",
@@ -11579,10 +11579,10 @@
         {
           "prompt": "Ứng dụng nhắn tin và gọi điện thoại số 1 tại Việt Nam do tập đoàn công nghệ VNG phát triển là ứng dụng nào?",
           "options": [
-            "WhatsApp (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Zalo (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Skype (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Viber (H sinh thi khi nghip k ln ti Vit Nam (U19))"
+            "WhatsApp (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Zalo (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Skype (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Viber (H sinh thi khi nghip k ln ti Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "Zalo."
@@ -11594,10 +11594,10 @@
         {
           "prompt": "Công ty công nghệ nào là kỳ lân công nghệ đầu tiên của Việt Nam thành lập từ năm 2004?",
           "options": [
-            "Cửa hàng tạp hóa (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Tập đoàn VNG (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Xưởng dệt (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Bưu điện Hà Nội (H sinh thi khi nghip k ln ti Vit Nam (U19))"
+            "Cửa hàng tạp hóa (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Tập đoàn VNG (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Xưởng dệt (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Bưu điện Hà Nội (H sinh thi khi nghip k ln ti Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "VNG (Vinagame)."
@@ -11609,10 +11609,10 @@
         {
           "prompt": "Trung tâm quốc gia hiện đại hàng đầu được thành lập để ươm mầm và hỗ trợ các công ty khởi nghiệp đổi mới sáng tạo tại Việt Nam là gì?",
           "options": [
-            "Sở Giao thông Vận tải (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Bến xe Miền Đông (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Chợ Bến Thành (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Trung tâm Đổi mới Sáng tạo Quốc gia (H sinh thi khi nghip k ln ti Vit Nam (U19))"
+            "Sở Giao thông Vận tải (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Bến xe Miền Đông (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Chợ Bến Thành (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Trung tâm Đổi mới Sáng tạo Quốc gia (H sinh thi khi nghip k ln ti Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Trung tâm Đổi mới Sáng tạo Quốc gia (NIC).",
@@ -11621,10 +11621,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Vibrant startup ecosystems and innovative fintech super-apps position Vietnam as a dynamic digital economy leader.\"",
           "options": [
-            "Việt Nam không có công ty công nghệ nào. (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Kỳ lân công nghệ không phát triển tại Việt Nam. (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Hệ sinh thái khởi nghiệp sôi động và các siêu ứng dụng fintech đột phá định vị Việt Nam là nền kinh tế số năng động hàng đầu. (H sinh thi khi nghip k ln ti Vit Nam (U19))",
-            "Các ứng dụng fintech bị cấm hoạt động. (H sinh thi khi nghip k ln ti Vit Nam (U19))"
+            "Việt Nam không có công ty công nghệ nào. (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Kỳ lân công nghệ không phát triển tại Việt Nam. (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Hệ sinh thái khởi nghiệp sôi động và các siêu ứng dụng fintech đột phá định vị Việt Nam là nền kinh tế số năng động hàng đầu. (H sinh thi khi nghip k ln ti Vit Nam)",
+            "Các ứng dụng fintech bị cấm hoạt động. (H sinh thi khi nghip k ln ti Vit Nam)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate startup ecosystem translation.",
@@ -11661,10 +11661,10 @@
         {
           "prompt": "Hãng sản xuất ô tô điện thông minh toàn cầu của Việt Nam được niêm yết trên sàn chứng khoán Nasdaq của Mỹ là hãng nào?",
           "options": [
-            "VinFast (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Toyota (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Hyundai (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Ford (Cc tp on kinh t hng u Vit Nam (U19))"
+            "VinFast (Cc tp on kinh t hng u Vit Nam)",
+            "Toyota (Cc tp on kinh t hng u Vit Nam)",
+            "Hyundai (Cc tp on kinh t hng u Vit Nam)",
+            "Ford (Cc tp on kinh t hng u Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "VinFast."
@@ -11676,10 +11676,10 @@
         {
           "prompt": "Tập đoàn viễn thông và công nghệ lớn nhất Việt Nam đầu tư mạng di động tại 10 quốc gia trên thế giới là tập đoàn nào?",
           "options": [
-            "Bưu điện Tỉnh (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Công ty In ấn (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Hãng xe khách (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Tập đoàn Viettel (Cc tp on kinh t hng u Vit Nam (U19))"
+            "Bưu điện Tỉnh (Cc tp on kinh t hng u Vit Nam)",
+            "Công ty In ấn (Cc tp on kinh t hng u Vit Nam)",
+            "Hãng xe khách (Cc tp on kinh t hng u Vit Nam)",
+            "Tập đoàn Viettel (Cc tp on kinh t hng u Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Tập đoàn Viettel."
@@ -11691,10 +11691,10 @@
         {
           "prompt": "Tập đoàn công nghệ nào của Việt Nam là ngọn cờ đầu trong lĩnh vực xuất khẩu phần mềm, chuyển đổi số và đào tạo nhân lực bán dẫn?",
           "options": [
-            "Xưởng gốm sứ (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Công ty Bánh kẹo (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Tập đoàn FPT (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Xưởng may mặc (Cc tp on kinh t hng u Vit Nam (U19))"
+            "Xưởng gốm sứ (Cc tp on kinh t hng u Vit Nam)",
+            "Công ty Bánh kẹo (Cc tp on kinh t hng u Vit Nam)",
+            "Tập đoàn FPT (Cc tp on kinh t hng u Vit Nam)",
+            "Xưởng may mặc (Cc tp on kinh t hng u Vit Nam)"
           ],
           "answerIndex": 2,
           "explanation": "Tập đoàn FPT.",
@@ -11703,10 +11703,10 @@
         {
           "prompt": "Dịch sang tiếng Việt: \"Pioneering smart electric vehicle manufacturing and global telecom infrastructure showcase Vietnamese industrial ambition.\"",
           "options": [
-            "Việt Nam không sản xuất ô tô điện. (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Sản xuất ô tô điện thông minh tiên phong và hạ tầng viễn thông toàn cầu thể hiện khát vọng công nghiệp của Việt Nam. (Cc tp on kinh t hng u Vit Nam (U19))",
-            "FPT không có dịch vụ công nghệ thông tin. (Cc tp on kinh t hng u Vit Nam (U19))",
-            "Viettel chỉ hoạt động tại một thành phố. (Cc tp on kinh t hng u Vit Nam (U19))"
+            "Việt Nam không sản xuất ô tô điện. (Cc tp on kinh t hng u Vit Nam)",
+            "Sản xuất ô tô điện thông minh tiên phong và hạ tầng viễn thông toàn cầu thể hiện khát vọng công nghiệp của Việt Nam. (Cc tp on kinh t hng u Vit Nam)",
+            "FPT không có dịch vụ công nghệ thông tin. (Cc tp on kinh t hng u Vit Nam)",
+            "Viettel chỉ hoạt động tại một thành phố. (Cc tp on kinh t hng u Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate corporate leadership translation.",
@@ -11743,10 +11743,10 @@
         {
           "prompt": "What is the name of the world's largest natural cave by volume, located in Vietnam's Phong Nha - Kẻ Bàng National Park?",
           "options": [
-            "Hang Đầu Gỗ (Vietnamese karst topography (U20))",
-            "Động Phong Nha (Vietnamese karst topography (U20))",
-            "Hang Én (Vietnamese karst topography (U20))",
-            "Hang Sơn Đoòng (Vietnamese karst topography (U20))"
+            "Hang Đầu Gỗ (Vietnamese karst topography)",
+            "Động Phong Nha (Vietnamese karst topography)",
+            "Hang Én (Vietnamese karst topography)",
+            "Hang Sơn Đoòng (Vietnamese karst topography)"
           ],
           "answerIndex": 3,
           "explanation": "Hang Sơn Đoòng."
@@ -11758,10 +11758,10 @@
         {
           "prompt": "Which iconic Vietnamese bay in the Gulf of Tonkin is a UNESCO World Heritage site featuring thousands of emerald limestone karsts?",
           "options": [
-            "Vịnh Cam Ranh (Vietnamese karst topography (U20))",
-            "Vịnh Đà Nẵng (Vietnamese karst topography (U20))",
-            "Vịnh Nha Trang (Vietnamese karst topography (U20))",
-            "Vịnh Hạ Long (Vietnamese karst topography (U20))"
+            "Vịnh Cam Ranh (Vietnamese karst topography)",
+            "Vịnh Đà Nẵng (Vietnamese karst topography)",
+            "Vịnh Nha Trang (Vietnamese karst topography)",
+            "Vịnh Hạ Long (Vietnamese karst topography)"
           ],
           "answerIndex": 3,
           "explanation": "Vịnh Hạ Long."
@@ -11773,10 +11773,10 @@
         {
           "prompt": "Translate: \"The mangrove biosphere reserves of the Mekong Delta protect coastal communities from storm surges and provide nurseries for marine life.\"",
           "options": [
-            "Việt Nam không có rừng ngập mặn. (Vietnamese karst topography (U20))",
-            "Khu dự trữ sinh quyển rừng ngập mặn đồng bằng sông Cửu Long bảo vệ cộng đồng ven biển khỏi triều cường và nuôi dưỡng các loài hải sản. (Vietnamese karst topography (U20))",
-            "Hang Sơn Đoòng là công trình nhân tạo. (Vietnamese karst topography (U20))",
-            "Đồng bằng sông Cửu Long không có nước ngọt. (Vietnamese karst topography (U20))"
+            "Việt Nam không có rừng ngập mặn. (Vietnamese karst topography)",
+            "Khu dự trữ sinh quyển rừng ngập mặn đồng bằng sông Cửu Long bảo vệ cộng đồng ven biển khỏi triều cường và nuôi dưỡng các loài hải sản. (Vietnamese karst topography)",
+            "Hang Sơn Đoòng là công trình nhân tạo. (Vietnamese karst topography)",
+            "Đồng bằng sông Cửu Long không có nước ngọt. (Vietnamese karst topography)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Vietnamese ecology translation.",
@@ -11785,10 +11785,10 @@
         {
           "prompt": "What endangered primate species lives exclusively on the limestone cliffs of the Cat Ba archipelago in Ha Long Bay?",
           "options": [
-            "Voọc Cát Bà (Vietnamese karst topography (U20))",
-            "Đười ươi (Vietnamese karst topography (U20))",
-            "Vượn đen má vàng (Vietnamese karst topography (U20))",
-            "Khỉ đột (Vietnamese karst topography (U20))"
+            "Voọc Cát Bà (Vietnamese karst topography)",
+            "Đười ươi (Vietnamese karst topography)",
+            "Vượn đen má vàng (Vietnamese karst topography)",
+            "Khỉ đột (Vietnamese karst topography)"
           ],
           "answerIndex": 0,
           "explanation": "Voọc Cát Bà.",
@@ -11825,10 +11825,10 @@
         {
           "prompt": "Which south-central coastal province is celebrated as the \"renewable energy capital\" of Vietnam for its dense solar and wind installations?",
           "options": [
-            "Ninh Thuận (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "Bắc Kạn (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "Hà Giang (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "Cao Bằng (Vietnams solar and wind renewable boom in Ninh Thun (U20))"
+            "Ninh Thuận (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "Bắc Kạn (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "Hà Giang (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "Cao Bằng (Vietnams solar and wind renewable boom in Ninh Thun)"
           ],
           "answerIndex": 0,
           "explanation": "Ninh Thuận."
@@ -11840,10 +11840,10 @@
         {
           "prompt": "What is the length of Vietnam's coastline providing massive offshore wind energy potential?",
           "options": [
-            "Hơn 3.200 km (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "500 km (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "100 km (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "1.000 km (Vietnams solar and wind renewable boom in Ninh Thun (U20))"
+            "Hơn 3.200 km (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "500 km (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "100 km (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "1.000 km (Vietnams solar and wind renewable boom in Ninh Thun)"
           ],
           "answerIndex": 0,
           "explanation": "Hơn 3.200 km."
@@ -11855,10 +11855,10 @@
         {
           "prompt": "Translate: \"Upgrading high-voltage transmission lines is essential to transmit renewable electricity from coastal solar farms to major industrial centers in Hanoi and Ho Chi Minh City.\"",
           "options": [
-            "Nâng cấp lưới điện truyền tải cao thế là điều tối quan trọng để truyền tải điện tái tạo từ các trang trại ven biển đến các trung tâm công nghiệp lớn tại Hà Nội và Thành phố Hồ Chí Minh. (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "Điện gió không thể kết nối vào lưới điện. (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "Ninh Thuận không có nắng và gió. (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "Việt Nam không phát triển điện mặt trời. (Vietnams solar and wind renewable boom in Ninh Thun (U20))"
+            "Nâng cấp lưới điện truyền tải cao thế là điều tối quan trọng để truyền tải điện tái tạo từ các trang trại ven biển đến các trung tâm công nghiệp lớn tại Hà Nội và Thành phố Hồ Chí Minh. (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "Điện gió không thể kết nối vào lưới điện. (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "Ninh Thuận không có nắng và gió. (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "Việt Nam không phát triển điện mặt trời. (Vietnams solar and wind renewable boom in Ninh Thun)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate grid modernization translation.",
@@ -11867,10 +11867,10 @@
         {
           "prompt": "What international climate finance partnership supports Vietnam's transition away from coal-fired power plants?",
           "options": [
-            "APEC chỉ có thuế (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "WTO chỉ có thương mại (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "FIFA (Vietnams solar and wind renewable boom in Ninh Thun (U20))",
-            "JETP (Vietnams solar and wind renewable boom in Ninh Thun (U20))"
+            "APEC chỉ có thuế (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "WTO chỉ có thương mại (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "FIFA (Vietnams solar and wind renewable boom in Ninh Thun)",
+            "JETP (Vietnams solar and wind renewable boom in Ninh Thun)"
           ],
           "answerIndex": 3,
           "explanation": "JETP.",
@@ -11907,10 +11907,10 @@
         {
           "prompt": "Which critically endangered horned forest mammal discovered in Vietnam's Annamite Range in 1992 is nicknamed the \"Asian Unicorn\"?",
           "options": [
-            "Hươu sao (Biodiversity hotspots (U20))",
-            "Sao la (Biodiversity hotspots (U20))",
-            "Voi châu Á (Biodiversity hotspots (U20))",
-            "Bò tót (Biodiversity hotspots (U20))"
+            "Hươu sao (Biodiversity hotspots)",
+            "Sao la (Biodiversity hotspots)",
+            "Voi châu Á (Biodiversity hotspots)",
+            "Bò tót (Biodiversity hotspots)"
           ],
           "answerIndex": 1,
           "explanation": "Sao la."
@@ -11922,10 +11922,10 @@
         {
           "prompt": "What was Vietnam's first national park, established in 1962 in Ninh Bình?",
           "options": [
-            "Vườn quốc gia Cúc Phương (Biodiversity hotspots (U20))",
-            "Vườn quốc gia Tràm Chim (Biodiversity hotspots (U20))",
-            "Vườn quốc gia Ba Vì (Biodiversity hotspots (U20))",
-            "Vườn quốc gia Bạch Mã (Biodiversity hotspots (U20))"
+            "Vườn quốc gia Cúc Phương (Biodiversity hotspots)",
+            "Vườn quốc gia Tràm Chim (Biodiversity hotspots)",
+            "Vườn quốc gia Ba Vì (Biodiversity hotspots)",
+            "Vườn quốc gia Bạch Mã (Biodiversity hotspots)"
           ],
           "answerIndex": 0,
           "explanation": "Vườn quốc gia Cúc Phương."
@@ -11937,10 +11937,10 @@
         {
           "prompt": "Translate: \"The restoration of Can Gio mangrove biosphere reserve shields Ho Chi Minh City from typhoons and filters coastal water pollutants.\"",
           "options": [
-            "Sao la là loài động vật đã tuyệt chủng từ kỷ băng hà. (Biodiversity hotspots (U20))",
-            "Cúc Phương không có động vật hoang dã. (Biodiversity hotspots (U20))",
-            "Rừng ngập mặn làm tăng bão cát. (Biodiversity hotspots (U20))",
-            "Việc phục hồi khu dự trữ sinh quyển rừng ngập mặn Cần Giờ che chắn cho Thành phố Hồ Chí Minh khỏi bão biển và lọc sạch các chất ô nhiễm ven biển. (Biodiversity hotspots (U20))"
+            "Sao la là loài động vật đã tuyệt chủng từ kỷ băng hà. (Biodiversity hotspots)",
+            "Cúc Phương không có động vật hoang dã. (Biodiversity hotspots)",
+            "Rừng ngập mặn làm tăng bão cát. (Biodiversity hotspots)",
+            "Việc phục hồi khu dự trữ sinh quyển rừng ngập mặn Cần Giờ che chắn cho Thành phố Hồ Chí Minh khỏi bão biển và lọc sạch các chất ô nhiễm ven biển. (Biodiversity hotspots)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate conservation translation.",
@@ -11949,10 +11949,10 @@
         {
           "prompt": "Which island national park in southern Vietnam is celebrated for turtle nesting conservation and coral reefs?",
           "options": [
-            "Đảo Lý Sơn (Biodiversity hotspots (U20))",
-            "Đảo Cát Bà (Biodiversity hotspots (U20))",
-            "Vườn quốc gia Côn Đảo (Biodiversity hotspots (U20))",
-            "Đảo Phú Quốc (Biodiversity hotspots (U20))"
+            "Đảo Lý Sơn (Biodiversity hotspots)",
+            "Đảo Cát Bà (Biodiversity hotspots)",
+            "Vườn quốc gia Côn Đảo (Biodiversity hotspots)",
+            "Đảo Phú Quốc (Biodiversity hotspots)"
           ],
           "answerIndex": 2,
           "explanation": "Vườn quốc gia Côn Đảo.",
@@ -11989,10 +11989,10 @@
         {
           "prompt": "What ecological farming model rotates organic rice during freshwater months with tiger shrimp during brackish water months in the Mekong Delta?",
           "options": [
-            "Trồng cỏ sa mạc (Mekong Delta climate adaptation (U20))",
-            "Mô hình Lúa - Tôm (Mekong Delta climate adaptation (U20))",
-            "Chăn nuôi bò sữa công nghiệp (Mekong Delta climate adaptation (U20))",
-            "Độc canh hóa chất (Mekong Delta climate adaptation (U20))"
+            "Trồng cỏ sa mạc (Mekong Delta climate adaptation)",
+            "Mô hình Lúa - Tôm (Mekong Delta climate adaptation)",
+            "Chăn nuôi bò sữa công nghiệp (Mekong Delta climate adaptation)",
+            "Độc canh hóa chất (Mekong Delta climate adaptation)"
           ],
           "answerIndex": 1,
           "explanation": "Mô hình Lúa - Tôm."
@@ -12004,10 +12004,10 @@
         {
           "prompt": "What is the core philosophy of Vietnam's landmark Resolution 120 on sustainable development of the Mekong Delta?",
           "options": [
-            "Phá hủy rừng ngập mặn (Mekong Delta climate adaptation (U20))",
-            "Thuận thiên (Mekong Delta climate adaptation (U20))",
-            "Xây đê bê tông toàn bộ (Mekong Delta climate adaptation (U20))",
-            "Chống lại thiên nhiên (Mekong Delta climate adaptation (U20))"
+            "Phá hủy rừng ngập mặn (Mekong Delta climate adaptation)",
+            "Thuận thiên (Mekong Delta climate adaptation)",
+            "Xây đê bê tông toàn bộ (Mekong Delta climate adaptation)",
+            "Chống lại thiên nhiên (Mekong Delta climate adaptation)"
           ],
           "answerIndex": 1,
           "explanation": "Thuận thiên (Living with nature)."
@@ -12019,10 +12019,10 @@
         {
           "prompt": "Translate: \"Developing salt-tolerant fragrant rice varieties and organic aquaculture secures livelihoods for millions of farmers in the delta.\"",
           "options": [
-            "Gạo ST25 không ăn được. (Mekong Delta climate adaptation (U20))",
-            "Xâm nhập mặn hủy diệt hoàn toàn kinh tế nông nghiệp. (Mekong Delta climate adaptation (U20))",
-            "Phát triển các giống lúa thơm chịu mặn và nuôi trồng thủy sản hữu cơ đảm bảo sinh kế cho hàng triệu nông dân tại vùng đồng bằng. (Mekong Delta climate adaptation (U20))",
-            "Đồng bằng sông Cửu Long không thể trồng lúa. (Mekong Delta climate adaptation (U20))"
+            "Gạo ST25 không ăn được. (Mekong Delta climate adaptation)",
+            "Xâm nhập mặn hủy diệt hoàn toàn kinh tế nông nghiệp. (Mekong Delta climate adaptation)",
+            "Phát triển các giống lúa thơm chịu mặn và nuôi trồng thủy sản hữu cơ đảm bảo sinh kế cho hàng triệu nông dân tại vùng đồng bằng. (Mekong Delta climate adaptation)",
+            "Đồng bằng sông Cửu Long không thể trồng lúa. (Mekong Delta climate adaptation)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate agro-adaptation translation.",
@@ -12031,10 +12031,10 @@
         {
           "prompt": "Which famous Vietnamese fragrant rice variety developed in Soc Trang was awarded World's Best Rice?",
           "options": [
-            "Gạo nếp cẩm (Mekong Delta climate adaptation (U20))",
-            "Gạo ST25 (Mekong Delta climate adaptation (U20))",
-            "Gạo Jasmine Thái (Mekong Delta climate adaptation (U20))",
-            "Gạo Basmati (Mekong Delta climate adaptation (U20))"
+            "Gạo nếp cẩm (Mekong Delta climate adaptation)",
+            "Gạo ST25 (Mekong Delta climate adaptation)",
+            "Gạo Jasmine Thái (Mekong Delta climate adaptation)",
+            "Gạo Basmati (Mekong Delta climate adaptation)"
           ],
           "answerIndex": 1,
           "explanation": "Gạo ST25.",
@@ -12071,10 +12071,10 @@
         {
           "prompt": "By which target year has Vietnam committed to achieving complete Net-Zero carbon emissions at the UN Climate Summit (COP26)?",
           "options": [
-            "Năm 2050 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Năm 2030 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Năm 2025 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Năm 2100 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))"
+            "Năm 2050 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Năm 2030 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Năm 2025 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Năm 2100 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)"
           ],
           "answerIndex": 0,
           "explanation": "Năm 2050."
@@ -12086,10 +12086,10 @@
         {
           "prompt": "What national master energy plan governs Vietnam's clean power roadmap through 2030 with a vision toward 2050?",
           "options": [
-            "Quy hoạch điện I (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Kế hoạch 5 năm cũ (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Chiến lược than đá (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Quy hoạch điện VIII (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))"
+            "Quy hoạch điện I (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Kế hoạch 5 năm cũ (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Chiến lược than đá (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Quy hoạch điện VIII (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)"
           ],
           "answerIndex": 3,
           "explanation": "Quy hoạch điện VIII."
@@ -12101,10 +12101,10 @@
         {
           "prompt": "Translate: \"Transitioning public urban transport to zero-emission electric buses drastically reduces urban air pollution and greenhouse gases.\"",
           "options": [
-            "Xe buýt điện gây ô nhiễm hơn xe dầu. (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Chuyển đổi giao thông công cộng đô thị sang xe buýt điện không phát thải giúp giảm đáng kể ô nhiễm không khí và khí nhà kính tại các thành phố. (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Khu công nghiệp sinh thái xả thải trực tiếp ra sông. (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Việt Nam không có cam kết khí hậu. (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))"
+            "Xe buýt điện gây ô nhiễm hơn xe dầu. (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Chuyển đổi giao thông công cộng đô thị sang xe buýt điện không phát thải giúp giảm đáng kể ô nhiễm không khí và khí nhà kính tại các thành phố. (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Khu công nghiệp sinh thái xả thải trực tiếp ra sông. (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Việt Nam không có cam kết khí hậu. (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate green mobility translation.",
@@ -12113,10 +12113,10 @@
         {
           "prompt": "What model of industrial manufacturing reuses waste heat and water in a closed loop between adjacent factories?",
           "options": [
-            "Khu công nghiệp sinh thái (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Cụm công nghiệp khói bụi (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Nhà máy nhiệt điện than cũ (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))",
-            "Bãi rác hở (C2 synthesis on Vietnams COP26 NetZero 2050 commitment (U20))"
+            "Khu công nghiệp sinh thái (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Cụm công nghiệp khói bụi (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Nhà máy nhiệt điện than cũ (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)",
+            "Bãi rác hở (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)"
           ],
           "answerIndex": 0,
           "explanation": "Khu công nghiệp sinh thái.",
@@ -12153,10 +12153,10 @@
         {
           "prompt": "Which 14th-century Vietnamese Zen master and physician coined the famous medical doctrine \"Nam dược trị Nam nhân\" (Southern herbs heal Southern people)?",
           "options": [
-            "Hải Thượng Lãn Ông (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Chu Văn An (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Nguyễn Trãi (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Thiền sư Tuệ Tĩnh (Traditional Vietnamese Medicine ng Y  modern integration (U21))"
+            "Hải Thượng Lãn Ông (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Chu Văn An (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Nguyễn Trãi (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Thiền sư Tuệ Tĩnh (Traditional Vietnamese Medicine ng Y  modern integration)"
           ],
           "answerIndex": 3,
           "explanation": "Thiền sư Tuệ Tĩnh."
@@ -12168,10 +12168,10 @@
         {
           "prompt": "What is the monumental 66-volume medical encyclopedia authored by great physician Hải Thượng Lãn Ông (Lê Hữu Trác)?",
           "options": [
-            "Binh Thư Yếu Lược (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Đại Việt Sử Ký Toàn Thư (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Hải Thượng Y Tông Tâm Lĩnh (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Truyện Kiều (Traditional Vietnamese Medicine ng Y  modern integration (U21))"
+            "Binh Thư Yếu Lược (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Đại Việt Sử Ký Toàn Thư (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Hải Thượng Y Tông Tâm Lĩnh (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Truyện Kiều (Traditional Vietnamese Medicine ng Y  modern integration)"
           ],
           "answerIndex": 2,
           "explanation": "Hải Thượng Y Tông Tâm Lĩnh."
@@ -12183,10 +12183,10 @@
         {
           "prompt": "Translate: \"Combining traditional acupuncture with modern neurological physiotherapy accelerates stroke patient motor rehabilitation.\"",
           "options": [
-            "Kết hợp châm cứu y học cổ truyền với vật lý trị liệu thần kinh hiện đại giúp đẩy nhanh quá trình phục hồi vận động cho bệnh nhân đột quỵ. (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Y học cổ truyền bị cấm hoàn toàn tại Việt Nam. (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Hải Thượng Lãn Ông là một nhà thơ quân sự. (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Châm cứu không có tác dụng giảm đau. (Traditional Vietnamese Medicine ng Y  modern integration (U21))"
+            "Kết hợp châm cứu y học cổ truyền với vật lý trị liệu thần kinh hiện đại giúp đẩy nhanh quá trình phục hồi vận động cho bệnh nhân đột quỵ. (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Y học cổ truyền bị cấm hoàn toàn tại Việt Nam. (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Hải Thượng Lãn Ông là một nhà thơ quân sự. (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Châm cứu không có tác dụng giảm đau. (Traditional Vietnamese Medicine ng Y  modern integration)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate integrative medicine translation.",
@@ -12195,10 +12195,10 @@
         {
           "prompt": "What central hospital in Hanoi is the national apex institution for integrative traditional and modern medicine in Vietnam?",
           "options": [
-            "Bệnh viện Việt Đức (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Bệnh viện Chợ Rẫy (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Bệnh viện Bạch Mai (Traditional Vietnamese Medicine ng Y  modern integration (U21))",
-            "Bệnh viện Y học Cổ truyền Trung ương (Traditional Vietnamese Medicine ng Y  modern integration (U21))"
+            "Bệnh viện Việt Đức (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Bệnh viện Chợ Rẫy (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Bệnh viện Bạch Mai (Traditional Vietnamese Medicine ng Y  modern integration)",
+            "Bệnh viện Y học Cổ truyền Trung ương (Traditional Vietnamese Medicine ng Y  modern integration)"
           ],
           "answerIndex": 3,
           "explanation": "Bệnh viện Y học Cổ truyền Trung ương.",
@@ -12235,10 +12235,10 @@
         {
           "prompt": "Which scientist discovered the plague pathogen Yersinia pestis and founded the Pasteur Institute of Nha Trang and Hanoi Medical University?",
           "options": [
-            "Bác sĩ Alexandre Yersin (Worldrenowned medical institutions (U21))",
-            "Albert Calmette (Worldrenowned medical institutions (U21))",
-            "Louis Pasteur (Worldrenowned medical institutions (U21))",
-            "Robert Koch (Worldrenowned medical institutions (U21))"
+            "Bác sĩ Alexandre Yersin (Worldrenowned medical institutions)",
+            "Albert Calmette (Worldrenowned medical institutions)",
+            "Louis Pasteur (Worldrenowned medical institutions)",
+            "Robert Koch (Worldrenowned medical institutions)"
           ],
           "answerIndex": 0,
           "explanation": "Bác sĩ Alexandre Yersin."
@@ -12250,10 +12250,10 @@
         {
           "prompt": "What affectionate Vietnamese name did the local villagers of Nha Trang give to Dr. Alexandre Yersin for his free medical care?",
           "options": [
-            "Ông Năm (Worldrenowned medical institutions (U21))",
-            "Ông Ba (Worldrenowned medical institutions (U21))",
-            "Thầy giáo (Worldrenowned medical institutions (U21))",
-            "Bác sĩ Tây (Worldrenowned medical institutions (U21))"
+            "Ông Năm (Worldrenowned medical institutions)",
+            "Ông Ba (Worldrenowned medical institutions)",
+            "Thầy giáo (Worldrenowned medical institutions)",
+            "Bác sĩ Tây (Worldrenowned medical institutions)"
           ],
           "answerIndex": 0,
           "explanation": "Ông Năm."
@@ -12265,10 +12265,10 @@
         {
           "prompt": "Translate: \"The discovery of Yersinia pestis and anti-plague antiserum halted devastating bubonic plague epidemics across global maritime ports.\"",
           "options": [
-            "Viện Pasteur Nha Trang không nghiên cứu dịch tễ. (Worldrenowned medical institutions (U21))",
-            "Yersin chưa từng đến Việt Nam. (Worldrenowned medical institutions (U21))",
-            "Bệnh dịch hạch do nấm mốc gây ra. (Worldrenowned medical institutions (U21))",
-            "Việc phát hiện trực khuẩn Yersinia pestis và huyết thanh kháng dịch hạch đã chặn đứng các đại dịch dịch hạch kinh hoàng tại các thương cảng toàn cầu. (Worldrenowned medical institutions (U21))"
+            "Viện Pasteur Nha Trang không nghiên cứu dịch tễ. (Worldrenowned medical institutions)",
+            "Yersin chưa từng đến Việt Nam. (Worldrenowned medical institutions)",
+            "Bệnh dịch hạch do nấm mốc gây ra. (Worldrenowned medical institutions)",
+            "Việc phát hiện trực khuẩn Yersinia pestis và huyết thanh kháng dịch hạch đã chặn đứng các đại dịch dịch hạch kinh hoàng tại các thương cảng toàn cầu. (Worldrenowned medical institutions)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate tropical medicine translation.",
@@ -12277,10 +12277,10 @@
         {
           "prompt": "What malaria-treating medicinal tree did Alexandre Yersin successfully introduce and cultivate on the highlands of Hon Ba near Nha Trang?",
           "options": [
-            "Cây cà phê (Worldrenowned medical institutions (U21))",
-            "Cây chè (Worldrenowned medical institutions (U21))",
-            "Cây Canh-ki-na (Worldrenowned medical institutions (U21))",
-            "Cây dừa (Worldrenowned medical institutions (U21))"
+            "Cây cà phê (Worldrenowned medical institutions)",
+            "Cây chè (Worldrenowned medical institutions)",
+            "Cây Canh-ki-na (Worldrenowned medical institutions)",
+            "Cây dừa (Worldrenowned medical institutions)"
           ],
           "answerIndex": 2,
           "explanation": "Cây Canh-ki-na.",
@@ -12317,10 +12317,10 @@
         {
           "prompt": "Which Vietnamese surgeon invented the world-famous \"Dry Liver Resection\" method that revolutionized hepatic surgery globally?",
           "options": [
-            "Giáo sư Tôn Thất Tùng (Surgical innovations (U21))",
-            "Giáo sư Đặng Văn Ngữ (Surgical innovations (U21))",
-            "Bác sĩ Phạm Ngọc Thạch (Surgical innovations (U21))",
-            "Giáo sư Trần Đại Nghĩa (Surgical innovations (U21))"
+            "Giáo sư Tôn Thất Tùng (Surgical innovations)",
+            "Giáo sư Đặng Văn Ngữ (Surgical innovations)",
+            "Bác sĩ Phạm Ngọc Thạch (Surgical innovations)",
+            "Giáo sư Trần Đại Nghĩa (Surgical innovations)"
           ],
           "answerIndex": 0,
           "explanation": "Giáo sư Tôn Thất Tùng."
@@ -12332,10 +12332,10 @@
         {
           "prompt": "What premier surgical hospital in Hanoi was led by Prof. Tôn Thất Tùng and remains Vietnam's apex center for organ transplants and trauma surgery?",
           "options": [
-            "Bệnh viện Hữu nghị Việt Đức (Surgical innovations (U21))",
-            "Bệnh viện Da liễu (Surgical innovations (U21))",
-            "Bệnh viện K (Surgical innovations (U21))",
-            "Bệnh viện Mắt (Surgical innovations (U21))"
+            "Bệnh viện Hữu nghị Việt Đức (Surgical innovations)",
+            "Bệnh viện Da liễu (Surgical innovations)",
+            "Bệnh viện K (Surgical innovations)",
+            "Bệnh viện Mắt (Surgical innovations)"
           ],
           "answerIndex": 0,
           "explanation": "Bệnh viện Hữu nghị Việt Đức."
@@ -12347,10 +12347,10 @@
         {
           "prompt": "Translate: \"The Ton That Tung surgical technique exposes intrahepatic vascular pedicles before ligating vessels, drastically reducing operative hemorrhage.\"",
           "options": [
-            "Cắt gan luôn luôn gây tử vong. (Surgical innovations (U21))",
-            "Bệnh viện Việt Đức không thực hiện phẫu thuật. (Surgical innovations (U21))",
-            "Kỹ thuật phẫu thuật Tôn Thất Tùng bộc lộ các cuống mạch trong gan trước khi thắt mạch máu, giúp giảm thiểu xuất huyết trong quá trình phẫu thuật. (Surgical innovations (U21))",
-            "Phương pháp Tôn Thất Tùng là một loại thuốc uống. (Surgical innovations (U21))"
+            "Cắt gan luôn luôn gây tử vong. (Surgical innovations)",
+            "Bệnh viện Việt Đức không thực hiện phẫu thuật. (Surgical innovations)",
+            "Kỹ thuật phẫu thuật Tôn Thất Tùng bộc lộ các cuống mạch trong gan trước khi thắt mạch máu, giúp giảm thiểu xuất huyết trong quá trình phẫu thuật. (Surgical innovations)",
+            "Phương pháp Tôn Thất Tùng là một loại thuốc uống. (Surgical innovations)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate surgery translation.",
@@ -12359,10 +12359,10 @@
         {
           "prompt": "What was the revolutionary achievement of the Tôn Thất Tùng liver resection technique regarding surgical duration?",
           "options": [
-            "Banned all blood transfusions (Surgical innovations (U21))",
-            "Reduced resection time from hours to under 10 minutes while preserving healthy liver parenchyma (Surgical innovations (U21))",
-            "Required total liver removal in all cases (Surgical innovations (U21))",
-            "Increased surgery time to 30 hours (Surgical innovations (U21))"
+            "Banned all blood transfusions (Surgical innovations)",
+            "Reduced resection time from hours to under 10 minutes while preserving healthy liver parenchyma (Surgical innovations)",
+            "Required total liver removal in all cases (Surgical innovations)",
+            "Increased surgery time to 30 hours (Surgical innovations)"
           ],
           "answerIndex": 1,
           "explanation": "Reduced resection time to under 10 minutes.",
@@ -12399,10 +12399,10 @@
         {
           "prompt": "What percentage of Vietnam's population is covered by the National Health Insurance (BHYT) program?",
           "options": [
-            "Khoảng 50% (Public health achievements (U21))",
-            "Hơn 93% dân số (Public health achievements (U21))",
-            "Chỉ có 10% (Public health achievements (U21))",
-            "Dưới 20% (Public health achievements (U21))"
+            "Khoảng 50% (Public health achievements)",
+            "Hơn 93% dân số (Public health achievements)",
+            "Chỉ có 10% (Public health achievements)",
+            "Dưới 20% (Public health achievements)"
           ],
           "answerIndex": 1,
           "explanation": "Hơn 93% dân số."
@@ -12414,10 +12414,10 @@
         {
           "prompt": "What natural bacterium is used in mosquitoes to block the biological transmission of dengue fever in Vietnam?",
           "options": [
-            "Vi khuẩn than (Public health achievements (U21))",
-            "Vi khuẩn Wolbachia (Public health achievements (U21))",
-            "Trực khuẩn lao (Public health achievements (U21))",
-            "E. coli (Public health achievements (U21))"
+            "Vi khuẩn than (Public health achievements)",
+            "Vi khuẩn Wolbachia (Public health achievements)",
+            "Trực khuẩn lao (Public health achievements)",
+            "E. coli (Public health achievements)"
           ],
           "answerIndex": 1,
           "explanation": "Vi khuẩn Wolbachia."
@@ -12429,10 +12429,10 @@
         {
           "prompt": "Translate: \"Commune health stations provide essential prenatal checkups, childhood immunizations, and chronic disease management at the grassroots level.\"",
           "options": [
-            "Việt Nam không có bảo hiểm y tế. (Public health achievements (U21))",
-            "Trạm y tế xã phường cung cấp dịch vụ khám thai thiết yếu, tiêm chủng mở rộng cho trẻ em và quản lý bệnh mãn tính ngay tại cơ sở. (Public health achievements (U21))",
-            "Muỗi Wolbachia làm tăng bệnh sốt xuất huyết. (Public health achievements (U21))",
-            "Trạm y tế xã chỉ bán thực phẩm. (Public health achievements (U21))"
+            "Việt Nam không có bảo hiểm y tế. (Public health achievements)",
+            "Trạm y tế xã phường cung cấp dịch vụ khám thai thiết yếu, tiêm chủng mở rộng cho trẻ em và quản lý bệnh mãn tính ngay tại cơ sở. (Public health achievements)",
+            "Muỗi Wolbachia làm tăng bệnh sốt xuất huyết. (Public health achievements)",
+            "Trạm y tế xã chỉ bán thực phẩm. (Public health achievements)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate public health translation.",
@@ -12441,10 +12441,10 @@
         {
           "prompt": "How many grassroots commune health stations (Trạm y tế xã/phường) operate across Vietnam's administrative communes?",
           "options": [
-            "Hơn 11.000 trạm (Public health achievements (U21))",
-            "Khoảng 100 trạm (Public health achievements (U21))",
-            "Không có trạm nào (Public health achievements (U21))",
-            "Chỉ có 10 trạm (Public health achievements (U21))"
+            "Hơn 11.000 trạm (Public health achievements)",
+            "Khoảng 100 trạm (Public health achievements)",
+            "Không có trạm nào (Public health achievements)",
+            "Chỉ có 10 trạm (Public health achievements)"
           ],
           "answerIndex": 0,
           "explanation": "Hơn 11.000 trạm.",
@@ -12481,10 +12481,10 @@
         {
           "prompt": "What national identity mobile app in Vietnam now integrates digital citizen health records (Sổ sức khỏe điện tử)?",
           "options": [
-            "Ứng dụng VNeID (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Ứng dụng Zalo chỉ nhắn tin (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "TikTok (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Facebook (C2 synthesis on Vietnams digital healthcare transformation (U21))"
+            "Ứng dụng VNeID (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Ứng dụng Zalo chỉ nhắn tin (C2 synthesis on Vietnams digital healthcare transformation)",
+            "TikTok (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Facebook (C2 synthesis on Vietnams digital healthcare transformation)"
           ],
           "answerIndex": 0,
           "explanation": "Ứng dụng VNeID."
@@ -12496,10 +12496,10 @@
         {
           "prompt": "Which major medical center in Ho Chi Minh City is the premier referral hospital for organ transplants and advanced trauma in southern Vietnam?",
           "options": [
-            "Bệnh viện Từ Dũ (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Bệnh viện Nhi Đồng 1 (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Bệnh viện Răng Hàm Mặt (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Bệnh viện Chợ Rẫy (C2 synthesis on Vietnams digital healthcare transformation (U21))"
+            "Bệnh viện Từ Dũ (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Bệnh viện Nhi Đồng 1 (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Bệnh viện Răng Hàm Mặt (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Bệnh viện Chợ Rẫy (C2 synthesis on Vietnams digital healthcare transformation)"
           ],
           "answerIndex": 3,
           "explanation": "Bệnh viện Chợ Rẫy."
@@ -12511,10 +12511,10 @@
         {
           "prompt": "Translate: \"The national organ transplant coordination center coordinates emergency aeronautical transport to deliver donor organs within the critical ischemic time window.\"",
           "options": [
-            "Trung tâm điều phối ghép tạng quốc gia điều phối vận chuyển hàng không khẩn cấp để chuyển tạng hiến trong khung giờ thiếu máu bảo tồn nghiêm ngặt. (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Ghép tạng xuyên Việt không thể thực hiện. (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Bệnh viện Chợ Rẫy là phòng khám tư nhân nhỏ. (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Sổ sức khỏe điện tử không bảo mật thông tin. (C2 synthesis on Vietnams digital healthcare transformation (U21))"
+            "Trung tâm điều phối ghép tạng quốc gia điều phối vận chuyển hàng không khẩn cấp để chuyển tạng hiến trong khung giờ thiếu máu bảo tồn nghiêm ngặt. (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Ghép tạng xuyên Việt không thể thực hiện. (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Bệnh viện Chợ Rẫy là phòng khám tư nhân nhỏ. (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Sổ sức khỏe điện tử không bảo mật thông tin. (C2 synthesis on Vietnams digital healthcare transformation)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate transplant coordination translation.",
@@ -12523,10 +12523,10 @@
         {
           "prompt": "What is the statutory national agency coordinating organ donation and matching across Vietnam?",
           "options": [
-            "Cục Đường bộ (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Tổng cục Du lịch (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Cục Hàng không dân dụng (C2 synthesis on Vietnams digital healthcare transformation (U21))",
-            "Trung tâm Điều phối Ghép tạng Quốc gia (C2 synthesis on Vietnams digital healthcare transformation (U21))"
+            "Cục Đường bộ (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Tổng cục Du lịch (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Cục Hàng không dân dụng (C2 synthesis on Vietnams digital healthcare transformation)",
+            "Trung tâm Điều phối Ghép tạng Quốc gia (C2 synthesis on Vietnams digital healthcare transformation)"
           ],
           "answerIndex": 3,
           "explanation": "Trung tâm Điều phối Ghép tạng Quốc gia.",
@@ -12563,10 +12563,10 @@
         {
           "prompt": "Which Vietnamese literary titan authored the national epic masterpiece Truyện Kiều (The Tale of Kieu) in 3,254 lục bát verses?",
           "options": [
-            "Nguyễn Trãi (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Hồ Xuân Hương (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Nguyễn Bỉnh Khiêm (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Đại thi hào Nguyễn Du (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))"
+            "Nguyễn Trãi (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Hồ Xuân Hương (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Nguyễn Bỉnh Khiêm (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Đại thi hào Nguyễn Du (The Tale of Kieu  Vietnamese Karmic Philosophy)"
           ],
           "answerIndex": 3,
           "explanation": "Đại thi hào Nguyễn Du."
@@ -12578,10 +12578,10 @@
         {
           "prompt": "According to the famous concluding moral verse of Truyện Kiều, what quality surpasses \"Tài\" (talent) threefold in human life?",
           "options": [
-            "Tiền bạc (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Danh vọng (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Chữ Tâm (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Sức mạnh quân sự (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))"
+            "Tiền bạc (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Danh vọng (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Chữ Tâm (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Sức mạnh quân sự (The Tale of Kieu  Vietnamese Karmic Philosophy)"
           ],
           "answerIndex": 2,
           "explanation": "Chữ Tâm."
@@ -12593,10 +12593,10 @@
         {
           "prompt": "Translate: \"The Tale of Kieu elevates classical lục bát verse into a profound existential reflection on karma, compassion, and human dignity amidst suffering.\"",
           "options": [
-            "Chữ Tài luôn luôn chiến thắng số phận trong Truyện Kiều. (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Nguyễn Du là một nhà toán học cổ điển. (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Truyện Kiều được dịch từ tiếng Pháp. (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Truyện Kiều nâng tầm thể thơ lục bát thành một chiêm nghiệm hiện sinh sâu sắc về nghiệp báo, lòng trắc ẩn và nhân phẩm con người giữa đau thương. (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))"
+            "Chữ Tài luôn luôn chiến thắng số phận trong Truyện Kiều. (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Nguyễn Du là một nhà toán học cổ điển. (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Truyện Kiều được dịch từ tiếng Pháp. (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Truyện Kiều nâng tầm thể thơ lục bát thành một chiêm nghiệm hiện sinh sâu sắc về nghiệp báo, lòng trắc ẩn và nhân phẩm con người giữa đau thương. (The Tale of Kieu  Vietnamese Karmic Philosophy)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Vietnamese literary philosophy translation.",
@@ -12605,10 +12605,10 @@
         {
           "prompt": "What traditional poetic verse meter consisting of alternating lines of 6 and 8 syllables forms the rhythmic structure of Truyện Kiều?",
           "options": [
-            "Thơ tự do (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Thơ thất ngôn bát cú (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Thể thơ Lục bát (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))",
-            "Thơ song thất lục bát (The Tale of Kieu  Vietnamese Karmic Philosophy (U22))"
+            "Thơ tự do (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Thơ thất ngôn bát cú (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Thể thơ Lục bát (The Tale of Kieu  Vietnamese Karmic Philosophy)",
+            "Thơ song thất lục bát (The Tale of Kieu  Vietnamese Karmic Philosophy)"
           ],
           "answerIndex": 2,
           "explanation": "Thể thơ Lục bát.",
@@ -12645,10 +12645,10 @@
         {
           "prompt": "Which 16th-century Vietnamese master philosopher, known as Trạng Trình, formulated the celebrated philosophy of \"Nhàn\" (mindful serene detachment)?",
           "options": [
-            "Nguyễn Bỉnh Khiêm (Prophetic Wisdom  Detached Harmony (U22))",
-            "Phan Huy Chú (Prophetic Wisdom  Detached Harmony (U22))",
-            "Lê Quý Đôn (Prophetic Wisdom  Detached Harmony (U22))",
-            "Chu Văn An (Prophetic Wisdom  Detached Harmony (U22))"
+            "Nguyễn Bỉnh Khiêm (Prophetic Wisdom  Detached Harmony)",
+            "Phan Huy Chú (Prophetic Wisdom  Detached Harmony)",
+            "Lê Quý Đôn (Prophetic Wisdom  Detached Harmony)",
+            "Chu Văn An (Prophetic Wisdom  Detached Harmony)"
           ],
           "answerIndex": 0,
           "explanation": "Nguyễn Bỉnh Khiêm."
@@ -12660,10 +12660,10 @@
         {
           "prompt": "What famous geographical advice did Trạng Trình give that prompted the historic southern expansion of the Nguyen lords?",
           "options": [
-            "«Hoành Sơn nhất đái, vạn đại dung thân» (Prophetic Wisdom  Detached Harmony (U22))",
-            "«Bắc tiến khai khẩn» (Prophetic Wisdom  Detached Harmony (U22))",
-            "«Đóng cửa bế quan» (Prophetic Wisdom  Detached Harmony (U22))",
-            "«Thu thuế thương nhân» (Prophetic Wisdom  Detached Harmony (U22))"
+            "«Hoành Sơn nhất đái, vạn đại dung thân» (Prophetic Wisdom  Detached Harmony)",
+            "«Bắc tiến khai khẩn» (Prophetic Wisdom  Detached Harmony)",
+            "«Đóng cửa bế quan» (Prophetic Wisdom  Detached Harmony)",
+            "«Thu thuế thương nhân» (Prophetic Wisdom  Detached Harmony)"
           ],
           "answerIndex": 0,
           "explanation": "«Hoành Sơn nhất đái, vạn đại dung thân»."
@@ -12675,10 +12675,10 @@
         {
           "prompt": "Translate: \"The philosophy of Nhan rejects corrupt material pursuits in favor of spiritual freedom, intellectual clarity, and rustic simplicity.\"",
           "options": [
-            "Nguyễn Bỉnh Khiêm là một tướng lĩnh hải quân. (Prophetic Wisdom  Detached Harmony (U22))",
-            "Bạch Vân am là một nhà tù thời phong kiến. (Prophetic Wisdom  Detached Harmony (U22))",
-            "Triết lý chữ Nhàn từ chối sự theo đuổi vật chất tha hóa để hướng tới tự do tâm linh, sự sáng suốt trí tuệ và sự thanh đạm thôn dã. (Prophetic Wisdom  Detached Harmony (U22))",
-            "Triết lý chữ Nhàn khuyến khích lối sống lười biếng. (Prophetic Wisdom  Detached Harmony (U22))"
+            "Nguyễn Bỉnh Khiêm là một tướng lĩnh hải quân. (Prophetic Wisdom  Detached Harmony)",
+            "Bạch Vân am là một nhà tù thời phong kiến. (Prophetic Wisdom  Detached Harmony)",
+            "Triết lý chữ Nhàn từ chối sự theo đuổi vật chất tha hóa để hướng tới tự do tâm linh, sự sáng suốt trí tuệ và sự thanh đạm thôn dã. (Prophetic Wisdom  Detached Harmony)",
+            "Triết lý chữ Nhàn khuyến khích lối sống lười biếng. (Prophetic Wisdom  Detached Harmony)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate philosophical translation.",
@@ -12687,10 +12687,10 @@
         {
           "prompt": "What was the name of the peaceful riverside hermitage founded by Nguyen Binh Khiem after he resigned from court?",
           "options": [
-            "Chùa Một Cột (Prophetic Wisdom  Detached Harmony (U22))",
-            "Bạch Vân Am (Prophetic Wisdom  Detached Harmony (U22))",
-            "Đền Hùng (Prophetic Wisdom  Detached Harmony (U22))",
-            "Văn Miếu (Prophetic Wisdom  Detached Harmony (U22))"
+            "Chùa Một Cột (Prophetic Wisdom  Detached Harmony)",
+            "Bạch Vân Am (Prophetic Wisdom  Detached Harmony)",
+            "Đền Hùng (Prophetic Wisdom  Detached Harmony)",
+            "Văn Miếu (Prophetic Wisdom  Detached Harmony)"
           ],
           "answerIndex": 1,
           "explanation": "Bạch Vân Am.",
@@ -12727,10 +12727,10 @@
         {
           "prompt": "Which globally renowned Vietnamese Zen Master founded Plum Village and coined the ontological concept of \"Interbeing\" (Tương tức)?",
           "options": [
-            "Thiền sư Thích Nhất Hạnh (Engaged Buddhism  Interbeing (U22))",
-            "Thiền sư Vạn Hạnh (Engaged Buddhism  Interbeing (U22))",
-            "Vua Trần Nhân Tông (Engaged Buddhism  Interbeing (U22))",
-            "Thiền sư Mãn Giác (Engaged Buddhism  Interbeing (U22))"
+            "Thiền sư Thích Nhất Hạnh (Engaged Buddhism  Interbeing)",
+            "Thiền sư Vạn Hạnh (Engaged Buddhism  Interbeing)",
+            "Vua Trần Nhân Tông (Engaged Buddhism  Interbeing)",
+            "Thiền sư Mãn Giác (Engaged Buddhism  Interbeing)"
           ],
           "answerIndex": 0,
           "explanation": "Thiền sư Thích Nhất Hạnh."
@@ -12742,10 +12742,10 @@
         {
           "prompt": "Who nominated Zen Master Thich Nhat Hanh for the Nobel Peace Prize in 1967 for his anti-war reconciliation work?",
           "options": [
-            "Dr. Martin Luther King Jr. (Engaged Buddhism  Interbeing (U22))",
-            "Mahatma Gandhi (Engaged Buddhism  Interbeing (U22))",
-            "Albert Einstein (Engaged Buddhism  Interbeing (U22))",
-            "Nelson Mandela (Engaged Buddhism  Interbeing (U22))"
+            "Dr. Martin Luther King Jr. (Engaged Buddhism  Interbeing)",
+            "Mahatma Gandhi (Engaged Buddhism  Interbeing)",
+            "Albert Einstein (Engaged Buddhism  Interbeing)",
+            "Nelson Mandela (Engaged Buddhism  Interbeing)"
           ],
           "answerIndex": 0,
           "explanation": "Dr. Martin Luther King Jr."
@@ -12757,10 +12757,10 @@
         {
           "prompt": "Translate: \"The insight of Interbeing reveals our profound ecological interdependence with nature, dispelling the illusion of an isolated individual self.\"",
           "options": [
-            "Thích Nhất Hạnh ủng hộ chiến tranh hạt nhân. (Engaged Buddhism  Interbeing (U22))",
-            "Tuệ giác Tương tức làm sáng tỏ mối liên hệ sinh thái tương thuộc sâu xa giữa con người và tự nhiên, xóa tan ảo tưởng về một cái tôi cá nhân biệt lập. (Engaged Buddhism  Interbeing (U22))",
-            "Hiện pháp lạc trú có nghĩa là lo lắng về tương lai. (Engaged Buddhism  Interbeing (U22))",
-            "Làng Mai là một khu nghỉ dưỡng thương mại. (Engaged Buddhism  Interbeing (U22))"
+            "Thích Nhất Hạnh ủng hộ chiến tranh hạt nhân. (Engaged Buddhism  Interbeing)",
+            "Tuệ giác Tương tức làm sáng tỏ mối liên hệ sinh thái tương thuộc sâu xa giữa con người và tự nhiên, xóa tan ảo tưởng về một cái tôi cá nhân biệt lập. (Engaged Buddhism  Interbeing)",
+            "Hiện pháp lạc trú có nghĩa là lo lắng về tương lai. (Engaged Buddhism  Interbeing)",
+            "Làng Mai là một khu nghỉ dưỡng thương mại. (Engaged Buddhism  Interbeing)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Engaged Buddhism translation.",
@@ -12769,10 +12769,10 @@
         {
           "prompt": "What famous mindfulness phrase formulated by Thich Nhat Hanh anchors consciousness in the present moment?",
           "options": [
-            "«Đã về, đã tới / I have arrived, I am home» (Engaged Buddhism  Interbeing (U22))",
-            "«Chiến thắng bằng mọi giá» (Engaged Buddhism  Interbeing (U22))",
-            "«Quên đi hiện tại» (Engaged Buddhism  Interbeing (U22))",
-            "«Thời gian là tiền bạc» (Engaged Buddhism  Interbeing (U22))"
+            "«Đã về, đã tới / I have arrived, I am home» (Engaged Buddhism  Interbeing)",
+            "«Chiến thắng bằng mọi giá» (Engaged Buddhism  Interbeing)",
+            "«Quên đi hiện tại» (Engaged Buddhism  Interbeing)",
+            "«Thời gian là tiền bạc» (Engaged Buddhism  Interbeing)"
           ],
           "answerIndex": 0,
           "explanation": "«Đã về, đã tới / I have arrived, I am home».",
@@ -12809,10 +12809,10 @@
         {
           "prompt": "Which master satirist and journalist wrote the legendary 1936 Vietnamese novel «Số Đỏ» (Dumb Luck)?",
           "options": [
-            "Ngô Tất Tố (Critique of Colonial Feudalism (U22))",
-            "Vũ Trọng Phụng (Critique of Colonial Feudalism (U22))",
-            "Nguyễn Công Hoan (Critique of Colonial Feudalism (U22))",
-            "Nam Cao (Critique of Colonial Feudalism (U22))"
+            "Ngô Tất Tố (Critique of Colonial Feudalism)",
+            "Vũ Trọng Phụng (Critique of Colonial Feudalism)",
+            "Nguyễn Công Hoan (Critique of Colonial Feudalism)",
+            "Nam Cao (Critique of Colonial Feudalism)"
           ],
           "answerIndex": 1,
           "explanation": "Vũ Trọng Phụng."
@@ -12824,10 +12824,10 @@
         {
           "prompt": "What is the name of the illiterate ball-boy protagonist whose comedic rise to high society anchors the plot of *Số Đỏ*?",
           "options": [
-            "Chị Dậu (Critique of Colonial Feudalism (U22))",
-            "Xuân Tóc Đỏ (Critique of Colonial Feudalism (U22))",
-            "Lão Hạc (Critique of Colonial Feudalism (U22))",
-            "Chí Phèo (Critique of Colonial Feudalism (U22))"
+            "Chị Dậu (Critique of Colonial Feudalism)",
+            "Xuân Tóc Đỏ (Critique of Colonial Feudalism)",
+            "Lão Hạc (Critique of Colonial Feudalism)",
+            "Chí Phèo (Critique of Colonial Feudalism)"
           ],
           "answerIndex": 1,
           "explanation": "Xuân Tóc Đỏ."
@@ -12839,10 +12839,10 @@
         {
           "prompt": "Translate: \"Vu Trong Phung's sharp satirical prose exposes how opportunistic social climbers exploit colonial fashion and modern fads to achieve ill-gotten prestige.\"",
           "options": [
-            "Văn phong trào phúng sắc bén của Vũ Trọng Phụng vạch trần cách những kẻ cơ hội lợi dụng mốt thời trang và trào lưu thuộc địa để chiếm đoạt danh vọng bất chính. (Critique of Colonial Feudalism (U22))",
-            "Vũ Trọng Phụng ca ngợi phong trào Âu hóa mù quáng. (Critique of Colonial Feudalism (U22))",
-            "Xuân Tóc Đỏ là một vị tướng yêu nước. (Critique of Colonial Feudalism (U22))",
-            "Số Đỏ là một cuốn sách khoa học tự nhiên. (Critique of Colonial Feudalism (U22))"
+            "Văn phong trào phúng sắc bén của Vũ Trọng Phụng vạch trần cách những kẻ cơ hội lợi dụng mốt thời trang và trào lưu thuộc địa để chiếm đoạt danh vọng bất chính. (Critique of Colonial Feudalism)",
+            "Vũ Trọng Phụng ca ngợi phong trào Âu hóa mù quáng. (Critique of Colonial Feudalism)",
+            "Xuân Tóc Đỏ là một vị tướng yêu nước. (Critique of Colonial Feudalism)",
+            "Số Đỏ là một cuốn sách khoa học tự nhiên. (Critique of Colonial Feudalism)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate satire analysis translation.",
@@ -12851,10 +12851,10 @@
         {
           "prompt": "What honorary journalistic title was given to Vu Trong Phung for his fearless investigative exposes like *Cạm Bẫy Người* and *Kỹ Nghệ Lấy Tây*?",
           "options": [
-            "Thi hào dân tộc (Critique of Colonial Feudalism (U22))",
-            "Trạng nguyên (Critique of Colonial Feudalism (U22))",
-            "Đại văn hào (Critique of Colonial Feudalism (U22))",
-            "Ông vua phóng sự đất Bắc (Critique of Colonial Feudalism (U22))"
+            "Thi hào dân tộc (Critique of Colonial Feudalism)",
+            "Trạng nguyên (Critique of Colonial Feudalism)",
+            "Đại văn hào (Critique of Colonial Feudalism)",
+            "Ông vua phóng sự đất Bắc (Critique of Colonial Feudalism)"
           ],
           "answerIndex": 3,
           "explanation": "Ông vua phóng sự đất Bắc.",
@@ -12891,10 +12891,10 @@
         {
           "prompt": "Which Vietnamese veteran author wrote the internationally acclaimed non-epic masterpiece «Nỗi buồn chiến tranh» (The Sorrow of War)?",
           "options": [
-            "Bảo Ninh (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Nguyễn Huy Thiệp (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Dương Thu Hương (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Lê Lựu (C2 synthesis on Modernist PostWar Fiction (U22))"
+            "Bảo Ninh (C2 synthesis on Modernist PostWar Fiction)",
+            "Nguyễn Huy Thiệp (C2 synthesis on Modernist PostWar Fiction)",
+            "Dương Thu Hương (C2 synthesis on Modernist PostWar Fiction)",
+            "Lê Lựu (C2 synthesis on Modernist PostWar Fiction)"
           ],
           "answerIndex": 0,
           "explanation": "Bảo Ninh."
@@ -12906,10 +12906,10 @@
         {
           "prompt": "Who is the traumatic veteran protagonist whose stream of consciousness and memories drive the narrative in *The Sorrow of War*?",
           "options": [
-            "Hùng (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Bình (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Thành (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Kiên (C2 synthesis on Modernist PostWar Fiction (U22))"
+            "Hùng (C2 synthesis on Modernist PostWar Fiction)",
+            "Bình (C2 synthesis on Modernist PostWar Fiction)",
+            "Thành (C2 synthesis on Modernist PostWar Fiction)",
+            "Kiên (C2 synthesis on Modernist PostWar Fiction)"
           ],
           "answerIndex": 3,
           "explanation": "Kiên."
@@ -12921,10 +12921,10 @@
         {
           "prompt": "Translate: \"Bao Ninh's novel rejects patriotic triumphalism to focus on the universal human cost of warfare and the fragile hope of psychological healing.\"",
           "options": [
-            "Bảo Ninh chưa từng tham gia chiến tranh. (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Nỗi buồn chiến tranh là một cuốn sách lịch sử quân sự thuần túy. (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Kiên là một phi công chiến đấu người Mỹ. (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Tiểu thuyết của Bảo Ninh từ chối chủ nghĩa khải hoàn yêu nước để tập trung vào tổn thất nhân bản phổ quát của chiến tranh và niềm hy vọng mong manh vào sự hàn gắn tâm hồn. (C2 synthesis on Modernist PostWar Fiction (U22))"
+            "Bảo Ninh chưa từng tham gia chiến tranh. (C2 synthesis on Modernist PostWar Fiction)",
+            "Nỗi buồn chiến tranh là một cuốn sách lịch sử quân sự thuần túy. (C2 synthesis on Modernist PostWar Fiction)",
+            "Kiên là một phi công chiến đấu người Mỹ. (C2 synthesis on Modernist PostWar Fiction)",
+            "Tiểu thuyết của Bảo Ninh từ chối chủ nghĩa khải hoàn yêu nước để tập trung vào tổn thất nhân bản phổ quát của chiến tranh và niềm hy vọng mong manh vào sự hàn gắn tâm hồn. (C2 synthesis on Modernist PostWar Fiction)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate post-war literary translation.",
@@ -12933,10 +12933,10 @@
         {
           "prompt": "What prestigious British literary award did Bao Ninh win in 1994 for the English translation of *The Sorrow of War*?",
           "options": [
-            "The Goncourt Prize (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "The Booker Prize only (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "Independent Foreign Fiction Award (C2 synthesis on Modernist PostWar Fiction (U22))",
-            "The Pulitzer Prize (C2 synthesis on Modernist PostWar Fiction (U22))"
+            "The Goncourt Prize (C2 synthesis on Modernist PostWar Fiction)",
+            "The Booker Prize only (C2 synthesis on Modernist PostWar Fiction)",
+            "Independent Foreign Fiction Award (C2 synthesis on Modernist PostWar Fiction)",
+            "The Pulitzer Prize (C2 synthesis on Modernist PostWar Fiction)"
           ],
           "answerIndex": 2,
           "explanation": "Independent Foreign Fiction Award.",
@@ -12973,10 +12973,10 @@
         {
           "prompt": "Which historic imperial capital of the Nguyen Dynasty (1802–1945) along the Perfume River is a UNESCO World Heritage Site?",
           "options": [
-            "Cố đô Hoa Lư (Imperial Citadel  Royal Architecture (U23))",
-            "Thành Cổ Loa (Imperial Citadel  Royal Architecture (U23))",
-            "Thành Nhà Hồ (Imperial Citadel  Royal Architecture (U23))",
-            "Cố đô Huế (Imperial Citadel  Royal Architecture (U23))"
+            "Cố đô Hoa Lư (Imperial Citadel  Royal Architecture)",
+            "Thành Cổ Loa (Imperial Citadel  Royal Architecture)",
+            "Thành Nhà Hồ (Imperial Citadel  Royal Architecture)",
+            "Cố đô Huế (Imperial Citadel  Royal Architecture)"
           ],
           "answerIndex": 3,
           "explanation": "Cố đô Huế."
@@ -12988,10 +12988,10 @@
         {
           "prompt": "What traditional dual-layered overlapping wooden roof design characterizes royal throne palaces like Điện Thái Hòa in Hue?",
           "options": [
-            "Mái vòm bê tông (Imperial Citadel  Royal Architecture (U23))",
-            "Mái bằng hiện đại (Imperial Citadel  Royal Architecture (U23))",
-            "Trùng thiềm điệp ốc (Imperial Citadel  Royal Architecture (U23))",
-            "Mái tranh đơn sơ (Imperial Citadel  Royal Architecture (U23))"
+            "Mái vòm bê tông (Imperial Citadel  Royal Architecture)",
+            "Mái bằng hiện đại (Imperial Citadel  Royal Architecture)",
+            "Trùng thiềm điệp ốc (Imperial Citadel  Royal Architecture)",
+            "Mái tranh đơn sơ (Imperial Citadel  Royal Architecture)"
           ],
           "answerIndex": 2,
           "explanation": "Trùng thiềm điệp ốc."
@@ -13003,10 +13003,10 @@
         {
           "prompt": "Translate: \"The spatial orientation of the Hue Citadel harmonizes imperial authority with the natural surrounding landscape of the Perfume River and Ngu Binh Mountain.\"",
           "options": [
-            "Điện Thái Hòa là một ngôi chùa Phật giáo nhỏ. (Imperial Citadel  Royal Architecture (U23))",
-            "Kinh thành Huế được xây dựng bằng thép và kính hoàn toàn. (Imperial Citadel  Royal Architecture (U23))",
-            "Thế đất quy hoạch của Kinh thành Huế dung hòa uy quyền vương triều với cảnh quan thiên nhiên bao quanh của Sông Hương và Núi Ngự Bình. (Imperial Citadel  Royal Architecture (U23))",
-            "Cố đô Huế bị phá hủy hoàn toàn vào thế kỷ 18. (Imperial Citadel  Royal Architecture (U23))"
+            "Điện Thái Hòa là một ngôi chùa Phật giáo nhỏ. (Imperial Citadel  Royal Architecture)",
+            "Kinh thành Huế được xây dựng bằng thép và kính hoàn toàn. (Imperial Citadel  Royal Architecture)",
+            "Thế đất quy hoạch của Kinh thành Huế dung hòa uy quyền vương triều với cảnh quan thiên nhiên bao quanh của Sông Hương và Núi Ngự Bình. (Imperial Citadel  Royal Architecture)",
+            "Cố đô Huế bị phá hủy hoàn toàn vào thế kỷ 18. (Imperial Citadel  Royal Architecture)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate architectural analysis translation.",
@@ -13015,10 +13015,10 @@
         {
           "prompt": "What is the innermost private residential sanctuary of the Emperor and royal family within the Hue Imperial Citadel called?",
           "options": [
-            "Hoàng Thành (Imperial Citadel  Royal Architecture (U23))",
-            "Tử Cấm Thành (Imperial Citadel  Royal Architecture (U23))",
-            "Kinh Thành (Imperial Citadel  Royal Architecture (U23))",
-            "Kỳ Đài (Imperial Citadel  Royal Architecture (U23))"
+            "Hoàng Thành (Imperial Citadel  Royal Architecture)",
+            "Tử Cấm Thành (Imperial Citadel  Royal Architecture)",
+            "Kinh Thành (Imperial Citadel  Royal Architecture)",
+            "Kỳ Đài (Imperial Citadel  Royal Architecture)"
           ],
           "answerIndex": 1,
           "explanation": "Tử Cấm Thành.",
@@ -13055,10 +13055,10 @@
         {
           "prompt": "Which master painter is celebrated as the Father of Modern Vietnamese Lacquer Art for creating the National Treasure \"Vườn xuân Trung Nam Bắc\"?",
           "options": [
-            "Nguyễn Gia Trí (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Trần Văn Cẩn (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Tô Ngọc Vân (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Bùi Xuân Phái (Indochine Art School  Lacquer Painting Revolution (U23))"
+            "Nguyễn Gia Trí (Indochine Art School  Lacquer Painting Revolution)",
+            "Trần Văn Cẩn (Indochine Art School  Lacquer Painting Revolution)",
+            "Tô Ngọc Vân (Indochine Art School  Lacquer Painting Revolution)",
+            "Bùi Xuân Phái (Indochine Art School  Lacquer Painting Revolution)"
           ],
           "answerIndex": 0,
           "explanation": "Nguyễn Gia Trí."
@@ -13070,10 +13070,10 @@
         {
           "prompt": "Which iconic 1943 oil painting by Tô Ngọc Vân portrays an elegant Vietnamese woman in a white Áo Dài leaning beside white lily flowers?",
           "options": [
-            "«Thiếu nữ bên hoa huệ» (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "«Vườn xuân» (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "«Em Thúy» (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "«Phố cổ Hà Nội» (Indochine Art School  Lacquer Painting Revolution (U23))"
+            "«Thiếu nữ bên hoa huệ» (Indochine Art School  Lacquer Painting Revolution)",
+            "«Vườn xuân» (Indochine Art School  Lacquer Painting Revolution)",
+            "«Em Thúy» (Indochine Art School  Lacquer Painting Revolution)",
+            "«Phố cổ Hà Nội» (Indochine Art School  Lacquer Painting Revolution)"
           ],
           "answerIndex": 0,
           "explanation": "«Thiếu nữ bên hoa huệ»."
@@ -13085,10 +13085,10 @@
         {
           "prompt": "Translate: \"Vietnamese lacquer painting layers natural tree resin, gold leaf, and crushed eggshell, repeatedly polishing the surface with water to reveal luminous translucent depth.\"",
           "options": [
-            "Trường Mỹ thuật Đông Dương cấm sử dụng sơn mài. (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Tranh sơn mài Việt Nam dát nhiều lớp nhựa cây tự nhiên, vàng quỳ và vỏ trứng nghiền, mài liên tục trong nước để tạo nên chiều sâu lung linh huyền ảo. (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Nguyễn Gia Trí chỉ vẽ tranh biếm họa trên báo. (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Thiếu nữ bên hoa huệ là một bức tượng điêu khắc đá. (Indochine Art School  Lacquer Painting Revolution (U23))"
+            "Trường Mỹ thuật Đông Dương cấm sử dụng sơn mài. (Indochine Art School  Lacquer Painting Revolution)",
+            "Tranh sơn mài Việt Nam dát nhiều lớp nhựa cây tự nhiên, vàng quỳ và vỏ trứng nghiền, mài liên tục trong nước để tạo nên chiều sâu lung linh huyền ảo. (Indochine Art School  Lacquer Painting Revolution)",
+            "Nguyễn Gia Trí chỉ vẽ tranh biếm họa trên báo. (Indochine Art School  Lacquer Painting Revolution)",
+            "Thiếu nữ bên hoa huệ là một bức tượng điêu khắc đá. (Indochine Art School  Lacquer Painting Revolution)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate fine art analysis translation.",
@@ -13097,10 +13097,10 @@
         {
           "prompt": "What famous art academy founded in Hanoi in 1925 by Victor Tardieu birthed the modern generation of Vietnamese painters?",
           "options": [
-            "Trường Cao đẳng Mỹ thuật Đông Dương (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Trường Y Hà Nội (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Văn Miếu Quốc Tử Giám (Indochine Art School  Lacquer Painting Revolution (U23))",
-            "Đại học Bách khoa Hà Nội (Indochine Art School  Lacquer Painting Revolution (U23))"
+            "Trường Cao đẳng Mỹ thuật Đông Dương (Indochine Art School  Lacquer Painting Revolution)",
+            "Trường Y Hà Nội (Indochine Art School  Lacquer Painting Revolution)",
+            "Văn Miếu Quốc Tử Giám (Indochine Art School  Lacquer Painting Revolution)",
+            "Đại học Bách khoa Hà Nội (Indochine Art School  Lacquer Painting Revolution)"
           ],
           "answerIndex": 0,
           "explanation": "Trường Cao đẳng Mỹ thuật Đông Dương.",
@@ -13137,10 +13137,10 @@
         {
           "prompt": "Which beloved Vietnamese painter dedicated his life to painting the mossy roofs and old alleys of Hanoi, creating the legendary genre known as \"Phố Phái\"?",
           "options": [
-            "Bùi Xuân Phái (The Soul of Old Hanoi (U23))",
-            "Nguyễn Sáng (The Soul of Old Hanoi (U23))",
-            "Nguyễn Tư Nghiêm (The Soul of Old Hanoi (U23))",
-            "Dương Bích Liên (The Soul of Old Hanoi (U23))"
+            "Bùi Xuân Phái (The Soul of Old Hanoi)",
+            "Nguyễn Sáng (The Soul of Old Hanoi)",
+            "Nguyễn Tư Nghiêm (The Soul of Old Hanoi)",
+            "Dương Bích Liên (The Soul of Old Hanoi)"
           ],
           "answerIndex": 0,
           "explanation": "Bùi Xuân Phái."
@@ -13152,10 +13152,10 @@
         {
           "prompt": "Which four legendary painters constituted the celebrated \"Four Pillars\" (Tứ trụ) of modern Vietnamese art in the second half of the 20th century?",
           "options": [
-            "Nghiêm - Liên - Sáng - Phái (The Soul of Old Hanoi (U23))",
-            "Đồng - Khánh - Quang - Minh (The Soul of Old Hanoi (U23))",
-            "Trí - Lân - Vân - Cẩn (The Soul of Old Hanoi (U23))",
-            "Thu - Phổ - Thứ - Lựu (The Soul of Old Hanoi (U23))"
+            "Nghiêm - Liên - Sáng - Phái (The Soul of Old Hanoi)",
+            "Đồng - Khánh - Quang - Minh (The Soul of Old Hanoi)",
+            "Trí - Lân - Vân - Cẩn (The Soul of Old Hanoi)",
+            "Thu - Phổ - Thứ - Lựu (The Soul of Old Hanoi)"
           ],
           "answerIndex": 0,
           "explanation": "Nghiêm - Liên - Sáng - Phái."
@@ -13167,10 +13167,10 @@
         {
           "prompt": "Translate: \"Bui Xuan Phai's expressive brushstrokes captured the quiet, nostalgic melancholy of Hanoi's historic guild quarters during decades of historical change.\"",
           "options": [
-            "Những nét cọ biểu cảm của Bùi Xuân Phái đã thâu tóm nỗi niềm hoài cổ tĩnh lặng của phố cổ Hà Nội qua nhiều thập kỷ biến đổi lịch sử. (The Soul of Old Hanoi (U23))",
-            "Phố Phái là tên một dự án bất động sản hiện đại. (The Soul of Old Hanoi (U23))",
-            "Bùi Xuân Phái từ chối vẽ tranh về Hà Nội. (The Soul of Old Hanoi (U23))",
-            "Bùi Xuân Phái chỉ vẽ tranh về biển đảo. (The Soul of Old Hanoi (U23))"
+            "Những nét cọ biểu cảm của Bùi Xuân Phái đã thâu tóm nỗi niềm hoài cổ tĩnh lặng của phố cổ Hà Nội qua nhiều thập kỷ biến đổi lịch sử. (The Soul of Old Hanoi)",
+            "Phố Phái là tên một dự án bất động sản hiện đại. (The Soul of Old Hanoi)",
+            "Bùi Xuân Phái từ chối vẽ tranh về Hà Nội. (The Soul of Old Hanoi)",
+            "Bùi Xuân Phái chỉ vẽ tranh về biển đảo. (The Soul of Old Hanoi)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate art history translation.",
@@ -13179,10 +13179,10 @@
         {
           "prompt": "What traditional folk performing art theatre was another major subject of Bui Xuan Phai's dynamic backstage paintings and sketches?",
           "options": [
-            "Kịch xiếc (The Soul of Old Hanoi (U23))",
-            "Cải lương miền Nam (The Soul of Old Hanoi (U23))",
-            "Múa rối nước chỉ (The Soul of Old Hanoi (U23))",
-            "Nghệ thuật Chèo (The Soul of Old Hanoi (U23))"
+            "Kịch xiếc (The Soul of Old Hanoi)",
+            "Cải lương miền Nam (The Soul of Old Hanoi)",
+            "Múa rối nước chỉ (The Soul of Old Hanoi)",
+            "Nghệ thuật Chèo (The Soul of Old Hanoi)"
           ],
           "answerIndex": 3,
           "explanation": "Nghệ thuật Chèo.",
@@ -13219,10 +13219,10 @@
         {
           "prompt": "Which French urban planner and architect created the celebrated \"Indochine Style\" in the 1920s, designing the Indochina University and National History Museum?",
           "options": [
-            "Alexandre Yersin (Indochine Architecture  Tropical Modernism (U23))",
-            "Ernest Hébrard (Indochine Architecture  Tropical Modernism (U23))",
-            "Gustave Eiffel (Indochine Architecture  Tropical Modernism (U23))",
-            "Paul Doumer (Indochine Architecture  Tropical Modernism (U23))"
+            "Alexandre Yersin (Indochine Architecture  Tropical Modernism)",
+            "Ernest Hébrard (Indochine Architecture  Tropical Modernism)",
+            "Gustave Eiffel (Indochine Architecture  Tropical Modernism)",
+            "Paul Doumer (Indochine Architecture  Tropical Modernism)"
           ],
           "answerIndex": 1,
           "explanation": "Ernest Hébrard."
@@ -13234,10 +13234,10 @@
         {
           "prompt": "What passive cooling architectural feature in Indochine buildings allowed continuous natural airflow while blocking torrential tropical monsoon rains?",
           "options": [
-            "Cửa sắt kín (Indochine Architecture  Tropical Modernism (U23))",
-            "Cửa chớp lá sách và mái kép thông gió (Indochine Architecture  Tropical Modernism (U23))",
-            "Mái tôn phẳng (Indochine Architecture  Tropical Modernism (U23))",
-            "Tường kính kín mít (Indochine Architecture  Tropical Modernism (U23))"
+            "Cửa sắt kín (Indochine Architecture  Tropical Modernism)",
+            "Cửa chớp lá sách và mái kép thông gió (Indochine Architecture  Tropical Modernism)",
+            "Mái tôn phẳng (Indochine Architecture  Tropical Modernism)",
+            "Tường kính kín mít (Indochine Architecture  Tropical Modernism)"
           ],
           "answerIndex": 1,
           "explanation": "Cửa chớp lá sách và mái kép thông gió."
@@ -13249,10 +13249,10 @@
         {
           "prompt": "Translate: \"The Indochine architectural style created a harmonious dialogue between French classical proportions and Vietnamese multi-tiered tiled roofs and octagonal pavilions.\"",
           "options": [
-            "Nhà hát Lớn Hà Nội được làm hoàn toàn bằng tre nứa. (Indochine Architecture  Tropical Modernism (U23))",
-            "Kiến trúc Đông Dương bị cấm xây dựng tại Hà Nội. (Indochine Architecture  Tropical Modernism (U23))",
-            "Ernest Hébrard là một nhà điêu khắc tượng sáp. (Indochine Architecture  Tropical Modernism (U23))",
-            "Phong cách kiến trúc Đông Dương đã tạo nên cuộc đối thoại hài hòa giữa tỷ lệ cổ điển Pháp với mái ngói nhiều tầng và lầu bát giác truyền thống Việt Nam. (Indochine Architecture  Tropical Modernism (U23))"
+            "Nhà hát Lớn Hà Nội được làm hoàn toàn bằng tre nứa. (Indochine Architecture  Tropical Modernism)",
+            "Kiến trúc Đông Dương bị cấm xây dựng tại Hà Nội. (Indochine Architecture  Tropical Modernism)",
+            "Ernest Hébrard là một nhà điêu khắc tượng sáp. (Indochine Architecture  Tropical Modernism)",
+            "Phong cách kiến trúc Đông Dương đã tạo nên cuộc đối thoại hài hòa giữa tỷ lệ cổ điển Pháp với mái ngói nhiều tầng và lầu bát giác truyền thống Việt Nam. (Indochine Architecture  Tropical Modernism)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate architectural analysis translation.",
@@ -13261,10 +13261,10 @@
         {
           "prompt": "Which iconic historic building in Hanoi, completed in 1911, was inspired by the architecture of the Palais Garnier opera house in Paris?",
           "options": [
-            "Cột Cờ Hà Nội (Indochine Architecture  Tropical Modernism (U23))",
-            "Cầu Long Biên (Indochine Architecture  Tropical Modernism (U23))",
-            "Nhà hát Lớn Hà Nội (Indochine Architecture  Tropical Modernism (U23))",
-            "Chợ Đồng Xuân (Indochine Architecture  Tropical Modernism (U23))"
+            "Cột Cờ Hà Nội (Indochine Architecture  Tropical Modernism)",
+            "Cầu Long Biên (Indochine Architecture  Tropical Modernism)",
+            "Nhà hát Lớn Hà Nội (Indochine Architecture  Tropical Modernism)",
+            "Chợ Đồng Xuân (Indochine Architecture  Tropical Modernism)"
           ],
           "answerIndex": 2,
           "explanation": "Nhà hát Lớn Hà Nội.",
@@ -13301,10 +13301,10 @@
         {
           "prompt": "Which internationally acclaimed Vietnamese architect is celebrated globally as the master of sustainable bamboo architecture (\"Green Steel\")?",
           "options": [
-            "Võ Trọng Nghĩa (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Ngô Viết Thụ (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Nguyễn Bá Tùng (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Hoàng Thúc Hào (C2 synthesis on Contemporary Bamboo Architecture (U23))"
+            "Võ Trọng Nghĩa (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Ngô Viết Thụ (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Nguyễn Bá Tùng (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Hoàng Thúc Hào (C2 synthesis on Contemporary Bamboo Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "Võ Trọng Nghĩa."
@@ -13316,10 +13316,10 @@
         {
           "prompt": "How is natural bamboo traditionally cured and treated by VTN Architects to resist termites and moisture without toxic chemicals?",
           "options": [
-            "Ngâm hóa chất độc hại (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Sơn phủ nhựa plastic (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Sấy lò điện công nghiệp nặng (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Ngâm bùn tự nhiên và hun khói truyền thống (C2 synthesis on Contemporary Bamboo Architecture (U23))"
+            "Ngâm hóa chất độc hại (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Sơn phủ nhựa plastic (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Sấy lò điện công nghiệp nặng (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Ngâm bùn tự nhiên và hun khói truyền thống (C2 synthesis on Contemporary Bamboo Architecture)"
           ],
           "answerIndex": 3,
           "explanation": "Ngâm bùn tự nhiên và hun khói."
@@ -13331,10 +13331,10 @@
         {
           "prompt": "Translate: \"Biophilic vertical green facades and rooftop gardens significantly lower interior indoor temperatures while purifying urban air pollution.\"",
           "options": [
-            "Võ Trọng Nghĩa chỉ xây dựng bằng kính và bê tông. (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "VTN Architects từ chối các tiêu chuẩn kiến trúc xanh. (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Mặt đứng phủ cây xanh sinh thái và vườn trên mái giúp hạ nhiệt độ trong nhà đáng kể đồng thời lọc sạch ô nhiễm không khí đô thị. (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Tre tầm vông không thể sử dụng làm kết cấu chịu lực. (C2 synthesis on Contemporary Bamboo Architecture (U23))"
+            "Võ Trọng Nghĩa chỉ xây dựng bằng kính và bê tông. (C2 synthesis on Contemporary Bamboo Architecture)",
+            "VTN Architects từ chối các tiêu chuẩn kiến trúc xanh. (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Mặt đứng phủ cây xanh sinh thái và vườn trên mái giúp hạ nhiệt độ trong nhà đáng kể đồng thời lọc sạch ô nhiễm không khí đô thị. (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Tre tầm vông không thể sử dụng làm kết cấu chịu lực. (C2 synthesis on Contemporary Bamboo Architecture)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate sustainable architecture translation.",
@@ -13343,10 +13343,10 @@
         {
           "prompt": "Which iconic building in Ho Chi Minh City, designed by architect Ngô Viết Thụ, is recognized as a historic national monument of modern Vietnamese architecture?",
           "options": [
-            "Tòa nhà Bitexco (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Dinh Độc Lập / Dinh Thống Nhất (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Tòa thị chính Sài Gòn (C2 synthesis on Contemporary Bamboo Architecture (U23))",
-            "Landmark 81 (C2 synthesis on Contemporary Bamboo Architecture (U23))"
+            "Tòa nhà Bitexco (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Dinh Độc Lập / Dinh Thống Nhất (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Tòa thị chính Sài Gòn (C2 synthesis on Contemporary Bamboo Architecture)",
+            "Landmark 81 (C2 synthesis on Contemporary Bamboo Architecture)"
           ],
           "answerIndex": 1,
           "explanation": "Dinh Độc Lập / Dinh Thống Nhất.",
@@ -13383,10 +13383,10 @@
         {
           "prompt": "Which iconic Vietnamese single-string musical instrument is played using harmonic palm overtones and a flexible bamboo pitch-bending lever?",
           "options": [
-            "Đàn Tranh (The Soul of One String (U24))",
-            "Đàn Nguyệt (The Soul of One String (U24))",
-            "Đàn Nhị (The Soul of One String (U24))",
-            "Đàn Bầu (The Soul of One String (U24))"
+            "Đàn Tranh (The Soul of One String)",
+            "Đàn Nguyệt (The Soul of One String)",
+            "Đàn Nhị (The Soul of One String)",
+            "Đàn Bầu (The Soul of One String)"
           ],
           "answerIndex": 3,
           "explanation": "Đàn Bầu (Đàn Độc Huyền)."
@@ -13398,10 +13398,10 @@
         {
           "prompt": "How does the musician play notes on the Đàn Bầu given that the instrument has no fingerboard or frets?",
           "options": [
-            "Pressing steel keys like a piano (The Soul of One String (U24))",
-            "Plucking harmonic nodes with the right palm while bending the bamboo lever with the left hand (The Soul of One String (U24))",
-            "Bowing with a horsehair bow (The Soul of One String (U24))",
-            "Hitting with wooden sticks (The Soul of One String (U24))"
+            "Pressing steel keys like a piano (The Soul of One String)",
+            "Plucking harmonic nodes with the right palm while bending the bamboo lever with the left hand (The Soul of One String)",
+            "Bowing with a horsehair bow (The Soul of One String)",
+            "Hitting with wooden sticks (The Soul of One String)"
           ],
           "answerIndex": 1,
           "explanation": "Plucking harmonic nodes while bending the bamboo lever."
@@ -13413,10 +13413,10 @@
         {
           "prompt": "Translate: \"The flexible bamboo lever of the Dan Bau allows continuous microtonal pitch modulation that perfectly mimics the tonal cadences of spoken Vietnamese.\"",
           "options": [
-            "Đàn bầu có hai mươi bốn dây kim loại. (The Soul of One String (U24))",
-            "Cần đàn bằng tre linh hoạt của đàn bầu cho phép biến âm mượt mà mô phỏng hoàn hảo các thanh điệu uyển chuyển của tiếng Việt. (The Soul of One String (U24))",
-            "Đàn bầu là một loại trống gõ hiện đại. (The Soul of One String (U24))",
-            "Đàn bầu được du nhập từ châu Âu vào thế kỷ 20. (The Soul of One String (U24))"
+            "Đàn bầu có hai mươi bốn dây kim loại. (The Soul of One String)",
+            "Cần đàn bằng tre linh hoạt của đàn bầu cho phép biến âm mượt mà mô phỏng hoàn hảo các thanh điệu uyển chuyển của tiếng Việt. (The Soul of One String)",
+            "Đàn bầu là một loại trống gõ hiện đại. (The Soul of One String)",
+            "Đàn bầu được du nhập từ châu Âu vào thế kỷ 20. (The Soul of One String)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate acoustic ethnomusicology translation.",
@@ -13425,10 +13425,10 @@
         {
           "prompt": "What traditional folk saying warns young maidens against being enchanted by the bittersweet melancholy voice of the Đàn Bầu?",
           "options": [
-            "«Làm thân con gái chớ nghe đàn bầu» (The Soul of One String (U24))",
-            "«Học ăn học nói» (The Soul of One String (U24))",
-            "«Chim khôn kêu tiếng rảnh rang» (The Soul of One String (U24))",
-            "«Uống nước nhớ nguồn» (The Soul of One String (U24))"
+            "«Làm thân con gái chớ nghe đàn bầu» (The Soul of One String)",
+            "«Học ăn học nói» (The Soul of One String)",
+            "«Chim khôn kêu tiếng rảnh rang» (The Soul of One String)",
+            "«Uống nước nhớ nguồn» (The Soul of One String)"
           ],
           "answerIndex": 0,
           "explanation": "«Làm thân con gái chớ nghe đàn bầu».",
@@ -13465,10 +13465,10 @@
         {
           "prompt": "Which tripartite UNESCO traditional chamber art features a female singer playing wooden Phách clappers, accompanied by a Đàn Đáy and a Trống Chầu drum?",
           "options": [
-            "Ca trù (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Đờn ca tài tử (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Nhã nhạc cung đình Huế (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Hát then (Chamber Poetry  UNESCO Cultural Heritage (U24))"
+            "Ca trù (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Đờn ca tài tử (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Nhã nhạc cung đình Huế (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Hát then (Chamber Poetry  UNESCO Cultural Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "Ca trù (Hát Ả Đào)."
@@ -13480,10 +13480,10 @@
         {
           "prompt": "What four vocal aesthetic criteria define master antiphonal singing in Quan Họ Bắc Ninh folk music?",
           "options": [
-            "Vang - Rền - Nền - Nảy (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Nhanh - Mạnh - To - Rõ (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Trầm - Bổng - Cao - Xa (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Ngọt - Bùi - Chua - Cay (Chamber Poetry  UNESCO Cultural Heritage (U24))"
+            "Vang - Rền - Nền - Nảy (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Nhanh - Mạnh - To - Rõ (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Trầm - Bổng - Cao - Xa (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Ngọt - Bùi - Chua - Cay (Chamber Poetry  UNESCO Cultural Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "Vang - Rền - Nền - Nảy."
@@ -13495,10 +13495,10 @@
         {
           "prompt": "Translate: \"The Dan Day's trapezoidal body and elevated frets produce deep, dry, and introspective modal undertones that perfectly complement the female vocalist's clappers in Ca Tru.\"",
           "options": [
-            "Thùng đàn hình thang và phím cao của đàn đáy tạo nên những âm sắc trầm đục, nội tâm, bổ trợ hoàn hảo cho nhịp phách của đào nương trong ca trù. (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Ca trù là một điệu múa lân dân gian. (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Trống chầu trong ca trù do ca sĩ tự đánh. (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Quan họ Bắc Ninh được đệm bằng dàn nhạc giao hưởng phương Tây. (Chamber Poetry  UNESCO Cultural Heritage (U24))"
+            "Thùng đàn hình thang và phím cao của đàn đáy tạo nên những âm sắc trầm đục, nội tâm, bổ trợ hoàn hảo cho nhịp phách của đào nương trong ca trù. (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Ca trù là một điệu múa lân dân gian. (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Trống chầu trong ca trù do ca sĩ tự đánh. (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Quan họ Bắc Ninh được đệm bằng dàn nhạc giao hưởng phương Tây. (Chamber Poetry  UNESCO Cultural Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Ca Tru musicology translation.",
@@ -13507,10 +13507,10 @@
         {
           "prompt": "What instrument is played by the listener/connoisseur (Quan Viên) in a Ca Trù performance to evaluate poetic verses in real time?",
           "options": [
-            "Kèn bầu (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Chiêng đồng (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Chuông gió (Chamber Poetry  UNESCO Cultural Heritage (U24))",
-            "Trống Chầu (Chamber Poetry  UNESCO Cultural Heritage (U24))"
+            "Kèn bầu (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Chiêng đồng (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Chuông gió (Chamber Poetry  UNESCO Cultural Heritage)",
+            "Trống Chầu (Chamber Poetry  UNESCO Cultural Heritage)"
           ],
           "answerIndex": 3,
           "explanation": "Trống Chầu (Praise Drum).",
@@ -13547,10 +13547,10 @@
         {
           "prompt": "Which iconic Vietnamese songwriter authored over 600 humanist ballads including Diễm xưa, Nối vòng tay lớn, and Ca khúc da vàng?",
           "options": [
-            "Trịnh Công Sơn (The Bob Dylan of Vietnam (U24))",
-            "Văn Cao (The Bob Dylan of Vietnam (U24))",
-            "Phạm Duy (The Bob Dylan of Vietnam (U24))",
-            "Ngô Thụy Miên (The Bob Dylan of Vietnam (U24))"
+            "Trịnh Công Sơn (The Bob Dylan of Vietnam)",
+            "Văn Cao (The Bob Dylan of Vietnam)",
+            "Phạm Duy (The Bob Dylan of Vietnam)",
+            "Ngô Thụy Miên (The Bob Dylan of Vietnam)"
           ],
           "answerIndex": 0,
           "explanation": "Trịnh Công Sơn."
@@ -13562,10 +13562,10 @@
         {
           "prompt": "Which singer, known as the \"Barefoot Queen\", was the legendary musical muse and interpreter of Trịnh Công Sơn's songs?",
           "options": [
-            "Khánh Ly (The Bob Dylan of Vietnam (U24))",
-            "Như Quỳnh (The Bob Dylan of Vietnam (U24))",
-            "Thái Thanh (The Bob Dylan of Vietnam (U24))",
-            "Hương Lan (The Bob Dylan of Vietnam (U24))"
+            "Khánh Ly (The Bob Dylan of Vietnam)",
+            "Như Quỳnh (The Bob Dylan of Vietnam)",
+            "Thái Thanh (The Bob Dylan of Vietnam)",
+            "Hương Lan (The Bob Dylan of Vietnam)"
           ],
           "answerIndex": 0,
           "explanation": "Khánh Ly."
@@ -13577,10 +13577,10 @@
         {
           "prompt": "Translate: \"Trinh Cong Son's lyrics combined Buddhist concepts of impermanence with deep anti-war humanism, pleading for love to transcend ideological conflict.\"",
           "options": [
-            "Trịnh Công Sơn là một phi công quân sự. (The Bob Dylan of Vietnam (U24))",
-            "Diễm xưa là một bản nhạc nhảy disco. (The Bob Dylan of Vietnam (U24))",
-            "Nối vòng tay lớn bị lãng quên hoàn toàn. (The Bob Dylan of Vietnam (U24))",
-            "Ca từ của Trịnh Công Sơn kết hợp triết lý vô thường của Phật giáo với chủ nghĩa nhân đạo phản chiến sâu sắc, kêu gọi tình thương vượt lên trên mọi hận thù ý thức hệ. (The Bob Dylan of Vietnam (U24))"
+            "Trịnh Công Sơn là một phi công quân sự. (The Bob Dylan of Vietnam)",
+            "Diễm xưa là một bản nhạc nhảy disco. (The Bob Dylan of Vietnam)",
+            "Nối vòng tay lớn bị lãng quên hoàn toàn. (The Bob Dylan of Vietnam)",
+            "Ca từ của Trịnh Công Sơn kết hợp triết lý vô thường của Phật giáo với chủ nghĩa nhân đạo phản chiến sâu sắc, kêu gọi tình thương vượt lên trên mọi hận thù ý thức hệ. (The Bob Dylan of Vietnam)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate lyric analysis translation.",
@@ -13589,10 +13589,10 @@
         {
           "prompt": "Which unifying anthem did Trịnh Công Sơn sing live on Saigon Radio on April 30, 1975 to celebrate the end of war and national brotherhood?",
           "options": [
-            "«Tiến quân ca» (The Bob Dylan of Vietnam (U24))",
-            "«Hạ trắng» (The Bob Dylan of Vietnam (U24))",
-            "«Nối vòng tay lớn» (The Bob Dylan of Vietnam (U24))",
-            "«Biển nhớ» (The Bob Dylan of Vietnam (U24))"
+            "«Tiến quân ca» (The Bob Dylan of Vietnam)",
+            "«Hạ trắng» (The Bob Dylan of Vietnam)",
+            "«Nối vòng tay lớn» (The Bob Dylan of Vietnam)",
+            "«Biển nhớ» (The Bob Dylan of Vietnam)"
           ],
           "answerIndex": 2,
           "explanation": "«Nối vòng tay lớn».",
@@ -13629,10 +13629,10 @@
         {
           "prompt": "Which multifaceted composer, poet, and painter composed Vietnam's National Anthem \"Tiến quân ca\" and the symphonic masterpiece \"Trường ca Sông Lô\"?",
           "options": [
-            "Hoàng Vân (The National Anthem  PreWar Romanticism (U24))",
-            "Văn Cao (The National Anthem  PreWar Romanticism (U24))",
-            "Nguyễn Văn Tý (The National Anthem  PreWar Romanticism (U24))",
-            "Trịnh Công Sơn (The National Anthem  PreWar Romanticism (U24))"
+            "Hoàng Vân (The National Anthem  PreWar Romanticism)",
+            "Văn Cao (The National Anthem  PreWar Romanticism)",
+            "Nguyễn Văn Tý (The National Anthem  PreWar Romanticism)",
+            "Trịnh Công Sơn (The National Anthem  PreWar Romanticism)"
           ],
           "answerIndex": 1,
           "explanation": "Văn Cao."
@@ -13644,10 +13644,10 @@
         {
           "prompt": "In which year did Văn Cao write \"Tiến quân ca\", later chosen as the National Anthem by the National Assembly in 1945?",
           "options": [
-            "1954 (The National Anthem  PreWar Romanticism (U24))",
-            "1944 (The National Anthem  PreWar Romanticism (U24))",
-            "1975 (The National Anthem  PreWar Romanticism (U24))",
-            "1930 (The National Anthem  PreWar Romanticism (U24))"
+            "1954 (The National Anthem  PreWar Romanticism)",
+            "1944 (The National Anthem  PreWar Romanticism)",
+            "1975 (The National Anthem  PreWar Romanticism)",
+            "1930 (The National Anthem  PreWar Romanticism)"
           ],
           "answerIndex": 1,
           "explanation": "1944."
@@ -13659,10 +13659,10 @@
         {
           "prompt": "Translate: \"Trường ca Sông Lô established a majestic symphonic choral structure, depicting the sweeping natural beauty of the river and the victorious spirit of the nation.\"",
           "options": [
-            "Tiến quân ca được dịch từ một bài hát Pháp. (The National Anthem  PreWar Romanticism (U24))",
-            "Thiên Thai là một bài hát nhạc kịch rock. (The National Anthem  PreWar Romanticism (U24))",
-            "Trường ca Sông Lô đã xác lập cấu trúc hợp xướng giao hưởng hùng tráng, khắc họa vẻ đẹp thiên nhiên bao la của dòng sông và khí thế chiến thắng của dân tộc. (The National Anthem  PreWar Romanticism (U24))",
-            "Văn Cao chỉ viết nhạc cho thiếu nhi. (The National Anthem  PreWar Romanticism (U24))"
+            "Tiến quân ca được dịch từ một bài hát Pháp. (The National Anthem  PreWar Romanticism)",
+            "Thiên Thai là một bài hát nhạc kịch rock. (The National Anthem  PreWar Romanticism)",
+            "Trường ca Sông Lô đã xác lập cấu trúc hợp xướng giao hưởng hùng tráng, khắc họa vẻ đẹp thiên nhiên bao la của dòng sông và khí thế chiến thắng của dân tộc. (The National Anthem  PreWar Romanticism)",
+            "Văn Cao chỉ viết nhạc cho thiếu nhi. (The National Anthem  PreWar Romanticism)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate classical music analysis translation.",
@@ -13671,10 +13671,10 @@
         {
           "prompt": "Which romantic Daoist myth of travelers wandering into an immortal mountain paradise inspired Văn Cao's pre-war song *Thiên Thai* in 1941?",
           "options": [
-            "Sự tích Bánh chưng bánh giầy (The National Anthem  PreWar Romanticism (U24))",
-            "Tích Lưu Nguyễn nhập Thiên Thai (The National Anthem  PreWar Romanticism (U24))",
-            "Truyện Tấm Cám (The National Anthem  PreWar Romanticism (U24))",
-            "Truyền thuyết Sơn Tinh Thủy Tinh (The National Anthem  PreWar Romanticism (U24))"
+            "Sự tích Bánh chưng bánh giầy (The National Anthem  PreWar Romanticism)",
+            "Tích Lưu Nguyễn nhập Thiên Thai (The National Anthem  PreWar Romanticism)",
+            "Truyện Tấm Cám (The National Anthem  PreWar Romanticism)",
+            "Truyền thuyết Sơn Tinh Thủy Tinh (The National Anthem  PreWar Romanticism)"
           ],
           "answerIndex": 1,
           "explanation": "Tích Lưu Nguyễn nhập Thiên Thai.",
@@ -13711,10 +13711,10 @@
         {
           "prompt": "Which 1919 masterpiece song by Cao Văn Lầu in Bạc Liêu gave birth to the famous Vọng Cổ singing style and Cải Lương theatre?",
           "options": [
-            "«Dạ cổ hoài lang» (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "«Lòng mẹ» (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "«Chợ Mới» (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "«Tiếng trống Mê Linh» (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))"
+            "«Dạ cổ hoài lang» (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "«Lòng mẹ» (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "«Chợ Mới» (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "«Tiếng trống Mê Linh» (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)"
           ],
           "answerIndex": 0,
           "explanation": "«Dạ cổ hoài lang»."
@@ -13726,10 +13726,10 @@
         {
           "prompt": "What unique modification was made by Vietnamese musicians to Western guitars to enable microtonal sliding in Southern Đờn Ca Tài Tử?",
           "options": [
-            "Removing all strings (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "Adding double necks (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "Painting the wood red (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "Carving deep scallops into the wooden fretboard (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))"
+            "Removing all strings (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "Adding double necks (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "Painting the wood red (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "Carving deep scallops into the wooden fretboard (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)"
           ],
           "answerIndex": 3,
           "explanation": "Carving deep scallops into the fretboard (Guitar phím lõm)."
@@ -13741,10 +13741,10 @@
         {
           "prompt": "Translate: \"The scalloped fretboard of the Vietnamese acoustic guitar enables performers to depress strings deeply between frets, creating the sliding microtonal inflections essential to Vong Co.\"",
           "options": [
-            "Cải lương là một thể loại phim hoạt hình hiện đại. (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "Cần đàn khoét lõm của guitar Việt Nam cho phép nghệ sĩ ấn sâu dây giữa các phím, tạo nên các luyến láy vi cung đặc trưng không thể thiếu của điệu vọng cổ. (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "Đờn ca tài tử chỉ được chơi trong các rạp xiếc. (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "Cao Văn Lầu sinh ra tại Hà Nội. (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))"
+            "Cải lương là một thể loại phim hoạt hình hiện đại. (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "Cần đàn khoét lõm của guitar Việt Nam cho phép nghệ sĩ ấn sâu dây giữa các phím, tạo nên các luyến láy vi cung đặc trưng không thể thiếu của điệu vọng cổ. (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "Đờn ca tài tử chỉ được chơi trong các rạp xiếc. (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "Cao Văn Lầu sinh ra tại Hà Nội. (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate ethnomusicological translation.",
@@ -13753,10 +13753,10 @@
         {
           "prompt": "In which year was Southern Vietnamese Đờn Ca Tài Tử officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity?",
           "options": [
-            "2013 (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "1990 (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "2024 (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))",
-            "2000 (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation (U24))"
+            "2013 (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "1990 (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "2024 (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)",
+            "2000 (C2 synthesis on Southern Chamber Roots  Vong Co Improvisation)"
           ],
           "answerIndex": 0,
           "explanation": "2013 (UNESCO).",
@@ -13793,10 +13793,10 @@
         {
           "prompt": "Which Vietnamese-born director won the Caméra d'Or at Cannes for \"The Scent of Green Papaya\" (1993) and the Golden Lion at Venice for \"Cyclo\" (1995)?",
           "options": [
-            "Đặng Nhật Minh (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Victor Vũ (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Lê Hoàng (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Trần Anh Hùng (Sensory Lyricism  The Scent of Green Papaya (U25))"
+            "Đặng Nhật Minh (Sensory Lyricism  The Scent of Green Papaya)",
+            "Victor Vũ (Sensory Lyricism  The Scent of Green Papaya)",
+            "Lê Hoàng (Sensory Lyricism  The Scent of Green Papaya)",
+            "Trần Anh Hùng (Sensory Lyricism  The Scent of Green Papaya)"
           ],
           "answerIndex": 3,
           "explanation": "Trần Anh Hùng."
@@ -13808,10 +13808,10 @@
         {
           "prompt": "Which 1993 film by Trần Anh Hùng became the only Vietnamese film in history to receive an Academy Award (Oscar) nomination for Best Foreign Language Film?",
           "options": [
-            "«Xích lô» (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "«Mùi đu đủ xanh» (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "«Mùa hè chiều thẳng đứng» (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "«Áo lụa Hà Đông» (Sensory Lyricism  The Scent of Green Papaya (U25))"
+            "«Xích lô» (Sensory Lyricism  The Scent of Green Papaya)",
+            "«Mùi đu đủ xanh» (Sensory Lyricism  The Scent of Green Papaya)",
+            "«Mùa hè chiều thẳng đứng» (Sensory Lyricism  The Scent of Green Papaya)",
+            "«Áo lụa Hà Đông» (Sensory Lyricism  The Scent of Green Papaya)"
           ],
           "answerIndex": 1,
           "explanation": "«Mùi đu đủ xanh»."
@@ -13823,10 +13823,10 @@
         {
           "prompt": "Translate: \"The Scent of Green Papaya captures the tranquil rhythms of daily life in Saigon through delicate close-ups of nature, ambient rain sounds, and fluid tracking camera motions.\"",
           "options": [
-            "Mùi đu đủ xanh thâu tóm những nhịp điệu êm đềm của đời sống Sài Gòn qua cận cảnh tinh tế của thiên nhiên, tiếng mưa rơi và những cú máy di chuyển mượt mà. (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Xích lô là một bộ phim hoạt hình 3D. (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Trần Anh Hùng chưa từng tham dự Liên hoan phim Cannes. (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Mùi đu đủ xanh được quay hoàn toàn ở sa mạc Sahara. (Sensory Lyricism  The Scent of Green Papaya (U25))"
+            "Mùi đu đủ xanh thâu tóm những nhịp điệu êm đềm của đời sống Sài Gòn qua cận cảnh tinh tế của thiên nhiên, tiếng mưa rơi và những cú máy di chuyển mượt mà. (Sensory Lyricism  The Scent of Green Papaya)",
+            "Xích lô là một bộ phim hoạt hình 3D. (Sensory Lyricism  The Scent of Green Papaya)",
+            "Trần Anh Hùng chưa từng tham dự Liên hoan phim Cannes. (Sensory Lyricism  The Scent of Green Papaya)",
+            "Mùi đu đủ xanh được quay hoàn toàn ở sa mạc Sahara. (Sensory Lyricism  The Scent of Green Papaya)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Vietnamese cinema analysis translation.",
@@ -13835,10 +13835,10 @@
         {
           "prompt": "Which prestigious award did Trần Anh Hùng win at the 76th Cannes Film Festival in 2023 for his culinary masterpiece *The Taste of Things* (Muôn vị nhân gian)?",
           "options": [
-            "Giải Kịch bản xuất sắc (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Cành cọ Vàng (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Giải Ban giám khảo (Sensory Lyricism  The Scent of Green Papaya (U25))",
-            "Giải Đạo diễn xuất sắc nhất (Sensory Lyricism  The Scent of Green Papaya (U25))"
+            "Giải Kịch bản xuất sắc (Sensory Lyricism  The Scent of Green Papaya)",
+            "Cành cọ Vàng (Sensory Lyricism  The Scent of Green Papaya)",
+            "Giải Ban giám khảo (Sensory Lyricism  The Scent of Green Papaya)",
+            "Giải Đạo diễn xuất sắc nhất (Sensory Lyricism  The Scent of Green Papaya)"
           ],
           "answerIndex": 3,
           "explanation": "Giải Đạo diễn xuất sắc nhất (Best Director).",
@@ -13875,10 +13875,10 @@
         {
           "prompt": "Which master Vietnamese director created the timeless 1984 humanistic masterpiece \"Bao giờ cho đến tháng Mười\" (When the Tenth Month Comes)?",
           "options": [
-            "Đặng Nhật Minh (Humanism  PostWar Memory (U25))",
-            "Phạm Kỳ Nam (Humanism  PostWar Memory (U25))",
-            "Hải Ninh (Humanism  PostWar Memory (U25))",
-            "Trần Anh Hùng (Humanism  PostWar Memory (U25))"
+            "Đặng Nhật Minh (Humanism  PostWar Memory)",
+            "Phạm Kỳ Nam (Humanism  PostWar Memory)",
+            "Hải Ninh (Humanism  PostWar Memory)",
+            "Trần Anh Hùng (Humanism  PostWar Memory)"
           ],
           "answerIndex": 0,
           "explanation": "Đặng Nhật Minh."
@@ -13890,10 +13890,10 @@
         {
           "prompt": "Which international news network selected Đặng Nhật Minh's *When the Tenth Month Comes* as one of the 18 Greatest Asian Films of All Time in 2008?",
           "options": [
-            "CNN (Humanism  PostWar Memory (U25))",
-            "BBC (Humanism  PostWar Memory (U25))",
-            "Al Jazeera (Humanism  PostWar Memory (U25))",
-            "NHK (Humanism  PostWar Memory (U25))"
+            "CNN (Humanism  PostWar Memory)",
+            "BBC (Humanism  PostWar Memory)",
+            "Al Jazeera (Humanism  PostWar Memory)",
+            "NHK (Humanism  PostWar Memory)"
           ],
           "answerIndex": 0,
           "explanation": "CNN (Mỹ)."
@@ -13905,10 +13905,10 @@
         {
           "prompt": "Translate: \"When the Tenth Month Comes transcended war glorification to depict the quiet suffering, sacrificial love, and spiritual resilience of rural Vietnamese women.\"",
           "options": [
-            "Đặng Nhật Minh là một đạo diễn phim hành động Hollywood. (Humanism  PostWar Memory (U25))",
-            "Bao giờ cho đến tháng Mười bị cấm chiếu vĩnh viễn. (Humanism  PostWar Memory (U25))",
-            "Đừng đốt là một bộ phim khoa học viễn tưởng. (Humanism  PostWar Memory (U25))",
-            "Bao giờ cho đến tháng Mười đã vượt lên sự ca ngợi chiến tranh đơn thuần để khắc họa nỗi đau thầm lặng, tình yêu thương hy sinh và đức kiên cường tâm linh của người phụ nữ nông thôn Việt Nam. (Humanism  PostWar Memory (U25))"
+            "Đặng Nhật Minh là một đạo diễn phim hành động Hollywood. (Humanism  PostWar Memory)",
+            "Bao giờ cho đến tháng Mười bị cấm chiếu vĩnh viễn. (Humanism  PostWar Memory)",
+            "Đừng đốt là một bộ phim khoa học viễn tưởng. (Humanism  PostWar Memory)",
+            "Bao giờ cho đến tháng Mười đã vượt lên sự ca ngợi chiến tranh đơn thuần để khắc họa nỗi đau thầm lặng, tình yêu thương hy sinh và đức kiên cường tâm linh của người phụ nữ nông thôn Việt Nam. (Humanism  PostWar Memory)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Vietnamese cinema history translation.",
@@ -13917,10 +13917,10 @@
         {
           "prompt": "What 2009 film by Đặng Nhật Minh was adapted from the real wartime diary of volunteer physician Dr. Đặng Thùy Trâm?",
           "options": [
-            "«Mùa ổi» (Humanism  PostWar Memory (U25))",
-            "«Hà Nội mùa đông năm 46» (Humanism  PostWar Memory (U25))",
-            "«Đừng đốt» (Humanism  PostWar Memory (U25))",
-            "«Thương nhớ đồng quê» (Humanism  PostWar Memory (U25))"
+            "«Mùa ổi» (Humanism  PostWar Memory)",
+            "«Hà Nội mùa đông năm 46» (Humanism  PostWar Memory)",
+            "«Đừng đốt» (Humanism  PostWar Memory)",
+            "«Thương nhớ đồng quê» (Humanism  PostWar Memory)"
           ],
           "answerIndex": 2,
           "explanation": "«Đừng đốt».",
@@ -13957,10 +13957,10 @@
         {
           "prompt": "Which young Vietnamese director made history by winning the Caméra d'Or at the Cannes Film Festival in 2023 for \"Inside the Yellow Cocoon Shell\"?",
           "options": [
-            "Phạm Thiên An (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Trần Dũng Thanh Huy (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Bùi Thạc Chuyên (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Phan Đăng Di (Independent Cinema  The Camra dOr at Cannes (U25))"
+            "Phạm Thiên An (Independent Cinema  The Camra dOr at Cannes)",
+            "Trần Dũng Thanh Huy (Independent Cinema  The Camra dOr at Cannes)",
+            "Bùi Thạc Chuyên (Independent Cinema  The Camra dOr at Cannes)",
+            "Phan Đăng Di (Independent Cinema  The Camra dOr at Cannes)"
           ],
           "answerIndex": 0,
           "explanation": "Phạm Thiên An."
@@ -13972,10 +13972,10 @@
         {
           "prompt": "In which misty highland province of Vietnam is the spiritual journey of *Inside the Yellow Cocoon Shell* primarily filmed?",
           "options": [
-            "Lâm Đồng (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Cà Mau (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Hà Giang (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Quảng Ninh (Independent Cinema  The Camra dOr at Cannes (U25))"
+            "Lâm Đồng (Independent Cinema  The Camra dOr at Cannes)",
+            "Cà Mau (Independent Cinema  The Camra dOr at Cannes)",
+            "Hà Giang (Independent Cinema  The Camra dOr at Cannes)",
+            "Quảng Ninh (Independent Cinema  The Camra dOr at Cannes)"
           ],
           "answerIndex": 0,
           "explanation": "Lâm Đồng (Bảo Lộc)."
@@ -13987,10 +13987,10 @@
         {
           "prompt": "Translate: \"Inside the Yellow Cocoon Shell employs contemplative fifteen-minute continuous tracking shots through mountain fog, merging physical reality with spiritual dreamscapes.\"",
           "options": [
-            "Bên trong vỏ kén vàng là một bộ phim hoạt hình viễn tưởng. (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Phạm Thiên An bị cấm tham dự liên hoan phim Cannes. (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Bên trong vỏ kén vàng sử dụng những cú máy di chuyển liên tục kéo dài mười lăm phút đầy chiêm nghiệm xuyên qua làn sương mù miền sơn cước, hòa quyện hiện thực vật lý với cõi mộng tâm linh. (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Bộ phim được quay hoàn toàn trong một căn phòng tại New York. (Independent Cinema  The Camra dOr at Cannes (U25))"
+            "Bên trong vỏ kén vàng là một bộ phim hoạt hình viễn tưởng. (Independent Cinema  The Camra dOr at Cannes)",
+            "Phạm Thiên An bị cấm tham dự liên hoan phim Cannes. (Independent Cinema  The Camra dOr at Cannes)",
+            "Bên trong vỏ kén vàng sử dụng những cú máy di chuyển liên tục kéo dài mười lăm phút đầy chiêm nghiệm xuyên qua làn sương mù miền sơn cước, hòa quyện hiện thực vật lý với cõi mộng tâm linh. (Independent Cinema  The Camra dOr at Cannes)",
+            "Bộ phim được quay hoàn toàn trong một căn phòng tại New York. (Independent Cinema  The Camra dOr at Cannes)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate slow-cinema analysis translation.",
@@ -13999,10 +13999,10 @@
         {
           "prompt": "What prestigious prize for best debut feature film at the Cannes Film Festival was awarded to both Tran Anh Hung (1993) and Pham Thien An (2023)?",
           "options": [
-            "Palme d'Or (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Caméra d'Or (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Prix du Jury (Independent Cinema  The Camra dOr at Cannes (U25))",
-            "Grand Prix (Independent Cinema  The Camra dOr at Cannes (U25))"
+            "Palme d'Or (Independent Cinema  The Camra dOr at Cannes)",
+            "Caméra d'Or (Independent Cinema  The Camra dOr at Cannes)",
+            "Prix du Jury (Independent Cinema  The Camra dOr at Cannes)",
+            "Grand Prix (Independent Cinema  The Camra dOr at Cannes)"
           ],
           "answerIndex": 1,
           "explanation": "Caméra d'Or (Giải Máy quay Vàng).",
@@ -14039,10 +14039,10 @@
         {
           "prompt": "Which 2004 cinematic adaptation of Sơn Nam's stories, directed by Nguyễn Võ Nghiêm Minh, depicts water buffalo herding during the Mekong Delta floods?",
           "options": [
-            "«Song Lang» (Literary Adaptation  Mekong River Realism (U25))",
-            "«Đất phương Nam» (Literary Adaptation  Mekong River Realism (U25))",
-            "«Mùa len trâu» (Literary Adaptation  Mekong River Realism (U25))",
-            "«Cánh đồng bất tận» (Literary Adaptation  Mekong River Realism (U25))"
+            "«Song Lang» (Literary Adaptation  Mekong River Realism)",
+            "«Đất phương Nam» (Literary Adaptation  Mekong River Realism)",
+            "«Mùa len trâu» (Literary Adaptation  Mekong River Realism)",
+            "«Cánh đồng bất tận» (Literary Adaptation  Mekong River Realism)"
           ],
           "answerIndex": 2,
           "explanation": "«Mùa len trâu» (Buffalo Boy)."
@@ -14054,10 +14054,10 @@
         {
           "prompt": "Which 2022 film directed by Bùi Thạc Chuyên, adapted from short stories by author Nguyễn Ngọc Tư, won the Golden Montgolfiere in Nantes, France?",
           "options": [
-            "«Lời nguyền huyết ngải» (Literary Adaptation  Mekong River Realism (U25))",
-            "«Tro tàn rực rỡ» (Literary Adaptation  Mekong River Realism (U25))",
-            "«Chơi vơi» (Literary Adaptation  Mekong River Realism (U25))",
-            "«Trăng nơi đáy giếng» (Literary Adaptation  Mekong River Realism (U25))"
+            "«Lời nguyền huyết ngải» (Literary Adaptation  Mekong River Realism)",
+            "«Tro tàn rực rỡ» (Literary Adaptation  Mekong River Realism)",
+            "«Chơi vơi» (Literary Adaptation  Mekong River Realism)",
+            "«Trăng nơi đáy giếng» (Literary Adaptation  Mekong River Realism)"
           ],
           "answerIndex": 1,
           "explanation": "«Tro tàn rực rỡ»."
@@ -14069,10 +14069,10 @@
         {
           "prompt": "Translate: \"Buffalo Boy captures the vast submerged wetlands of the Mekong Delta, depicting water as both the life-giving source and the destructive force of existence.\"",
           "options": [
-            "Nguyễn Ngọc Tư là một nhà thơ thời Lý. (Literary Adaptation  Mekong River Realism (U25))",
-            "Mùa len trâu thâu tóm vùng đầm lầy ngập nước bao la của đồng bằng sông Cửu Long, khắc họa dòng nước vừa là nguồn sống nuôi dưỡng vừa là sức mạnh hủy diệt của kiếp nhân sinh. (Literary Adaptation  Mekong River Realism (U25))",
-            "Tro tàn rực rỡ được quay tại London. (Literary Adaptation  Mekong River Realism (U25))",
-            "Mùa len trâu là một bộ phim khoa học viễn tưởng không gian. (Literary Adaptation  Mekong River Realism (U25))"
+            "Nguyễn Ngọc Tư là một nhà thơ thời Lý. (Literary Adaptation  Mekong River Realism)",
+            "Mùa len trâu thâu tóm vùng đầm lầy ngập nước bao la của đồng bằng sông Cửu Long, khắc họa dòng nước vừa là nguồn sống nuôi dưỡng vừa là sức mạnh hủy diệt của kiếp nhân sinh. (Literary Adaptation  Mekong River Realism)",
+            "Tro tàn rực rỡ được quay tại London. (Literary Adaptation  Mekong River Realism)",
+            "Mùa len trâu là một bộ phim khoa học viễn tưởng không gian. (Literary Adaptation  Mekong River Realism)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Mekong cinema analysis translation.",
@@ -14081,10 +14081,10 @@
         {
           "prompt": "Which iconic southern Vietnamese writer's stories (*Hương rừng Cà Mau*) provided the literary source material for *Mùa len trâu*?",
           "options": [
-            "Nhà văn Sơn Nam (Literary Adaptation  Mekong River Realism (U25))",
-            "Nam Cao (Literary Adaptation  Mekong River Realism (U25))",
-            "Vũ Trọng Phụng (Literary Adaptation  Mekong River Realism (U25))",
-            "Nguyễn Huy Thiệp (Literary Adaptation  Mekong River Realism (U25))"
+            "Nhà văn Sơn Nam (Literary Adaptation  Mekong River Realism)",
+            "Nam Cao (Literary Adaptation  Mekong River Realism)",
+            "Vũ Trọng Phụng (Literary Adaptation  Mekong River Realism)",
+            "Nguyễn Huy Thiệp (Literary Adaptation  Mekong River Realism)"
           ],
           "answerIndex": 0,
           "explanation": "Nhà văn Sơn Nam.",
@@ -14121,10 +14121,10 @@
         {
           "prompt": "Which award-winning 2018 Vietnamese film directed by Leon Le serves as an exquisite homage to 1980s Saigon and traditional Cải Lương opera?",
           "options": [
-            "«Song Lang» (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "«Thưa mẹ con đi» (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "«Bố già» (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "«Ròm» (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))"
+            "«Song Lang» (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "«Thưa mẹ con đi» (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "«Bố già» (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "«Ròm» (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)"
           ],
           "answerIndex": 0,
           "explanation": "«Song Lang»."
@@ -14136,10 +14136,10 @@
         {
           "prompt": "What traditional wooden foot-operated percussion clapper in Cải Lương music gives the film *Song Lang* its title and central metaphor?",
           "options": [
-            "Đàn Đáy (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Trống Cơm (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Kèn Bầu (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Nhạc cụ Song Lang (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))"
+            "Đàn Đáy (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Trống Cơm (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Kèn Bầu (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Nhạc cụ Song Lang (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)"
           ],
           "answerIndex": 3,
           "explanation": "Nhạc cụ Song Lang (Wooden foot clapper)."
@@ -14151,10 +14151,10 @@
         {
           "prompt": "Translate: \"Song Lang captures the nostalgic, neon-lit alleyways of 1980s Saigon, weaving the melancholic melodies of Cai Luong opera with a poignant story of redemption.\"",
           "options": [
-            "Song Lang thâu tóm những con hẻm rực rỡ ánh đèn neon đầy hoài niệm của Sài Gòn thập niên 1980, đan cài những giai điệu cải lương da diết với câu chuyện cứu rỗi tâm hồn xúc động. (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Cải lương là một môn võ thuật cổ truyền. (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Song Lang là một bộ phim hành động võ thuật cổ trang. (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Liên Bỉnh Phát là một ca sĩ opera người Ý. (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))"
+            "Song Lang thâu tóm những con hẻm rực rỡ ánh đèn neon đầy hoài niệm của Sài Gòn thập niên 1980, đan cài những giai điệu cải lương da diết với câu chuyện cứu rỗi tâm hồn xúc động. (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Cải lương là một môn võ thuật cổ truyền. (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Song Lang là một bộ phim hành động võ thuật cổ trang. (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Liên Bỉnh Phát là một ca sĩ opera người Ý. (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Vietnamese film critique translation.",
@@ -14163,10 +14163,10 @@
         {
           "prompt": "Which actor won the Tokyo Gemstone Award at the Tokyo International Film Festival for his breakout performance as debt collector Dũng in *Song Lang*?",
           "options": [
-            "Trấn Thành (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Quách Ngọc Ngoan (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Isaac (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))",
-            "Liên Bỉnh Phát (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera (U25))"
+            "Trấn Thành (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Quách Ngọc Ngoan (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Isaac (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)",
+            "Liên Bỉnh Phát (C2 synthesis on Urban NeoNoir  Cai Luong Queer Opera)"
           ],
           "answerIndex": 3,
           "explanation": "Liên Bỉnh Phát.",
@@ -14203,10 +14203,10 @@
         {
           "prompt": "Which unique 1,000-year-old Vietnamese folk theatrical art form is performed inside a water pool using submerged poles and strings?",
           "options": [
-            "Hát Chèo (The Millennial Water Puppet Mastery (U26))",
-            "Cải Lương (The Millennial Water Puppet Mastery (U26))",
-            "Hát Xẩm (The Millennial Water Puppet Mastery (U26))",
-            "Múa Rối Nước (The Millennial Water Puppet Mastery (U26))"
+            "Hát Chèo (The Millennial Water Puppet Mastery)",
+            "Cải Lương (The Millennial Water Puppet Mastery)",
+            "Hát Xẩm (The Millennial Water Puppet Mastery)",
+            "Múa Rối Nước (The Millennial Water Puppet Mastery)"
           ],
           "answerIndex": 3,
           "explanation": "Múa Rối Nước (Water Puppetry)."
@@ -14218,10 +14218,10 @@
         {
           "prompt": "What beloved, plump, bare-chested jester character traditionally opens Vietnamese water puppet performances with witty commentary?",
           "options": [
-            "Thạch Sanh (The Millennial Water Puppet Mastery (U26))",
-            "Chú Tễu (The Millennial Water Puppet Mastery (U26))",
-            "Cuội (The Millennial Water Puppet Mastery (U26))",
-            "Ba Giai (The Millennial Water Puppet Mastery (U26))"
+            "Thạch Sanh (The Millennial Water Puppet Mastery)",
+            "Chú Tễu (The Millennial Water Puppet Mastery)",
+            "Cuội (The Millennial Water Puppet Mastery)",
+            "Ba Giai (The Millennial Water Puppet Mastery)"
           ],
           "answerIndex": 1,
           "explanation": "Chú Tễu."
@@ -14233,10 +14233,10 @@
         {
           "prompt": "Translate: \"Vietnamese water puppeteers stand waist-deep in water behind bamboo screens, skillfully manipulating fig-wood dragons and legendary heroes via submerged mechanisms.\"",
           "options": [
-            "Thủy đình được xây dựng trên sa mạc cát. (The Millennial Water Puppet Mastery (U26))",
-            "Múa rối nước là một môn thể thao bơi lội hiện đại. (The Millennial Water Puppet Mastery (U26))",
-            "Chú Tễu là một nhân vật hoạt hình của Nhật Bản. (The Millennial Water Puppet Mastery (U26))",
-            "Các nghệ nhân múa rối nước Việt Nam đứng ngập nước ngang thắt lưng sau mành tre, khéo léo điều khiển rồng gỗ sung và các anh hùng huyền thoại qua hệ thống máy ngầm dưới nước. (The Millennial Water Puppet Mastery (U26))"
+            "Thủy đình được xây dựng trên sa mạc cát. (The Millennial Water Puppet Mastery)",
+            "Múa rối nước là một môn thể thao bơi lội hiện đại. (The Millennial Water Puppet Mastery)",
+            "Chú Tễu là một nhân vật hoạt hình của Nhật Bản. (The Millennial Water Puppet Mastery)",
+            "Các nghệ nhân múa rối nước Việt Nam đứng ngập nước ngang thắt lưng sau mành tre, khéo léo điều khiển rồng gỗ sung và các anh hùng huyền thoại qua hệ thống máy ngầm dưới nước. (The Millennial Water Puppet Mastery)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Water Puppetry analysis translation.",
@@ -14245,10 +14245,10 @@
         {
           "prompt": "What light, water-resistant wood from sacred native fig trees is traditionally used to carve Vietnamese water puppets?",
           "options": [
-            "Gỗ mun (The Millennial Water Puppet Mastery (U26))",
-            "Gỗ thông (The Millennial Water Puppet Mastery (U26))",
-            "Gỗ sung (The Millennial Water Puppet Mastery (U26))",
-            "Gỗ bạch đàn (The Millennial Water Puppet Mastery (U26))"
+            "Gỗ mun (The Millennial Water Puppet Mastery)",
+            "Gỗ thông (The Millennial Water Puppet Mastery)",
+            "Gỗ sung (The Millennial Water Puppet Mastery)",
+            "Gỗ bạch đàn (The Millennial Water Puppet Mastery)"
           ],
           "answerIndex": 2,
           "explanation": "Gỗ sung (Fig wood).",
@@ -14285,10 +14285,10 @@
         {
           "prompt": "Which ancient northern Vietnamese folk opera tradition, performed in village communal courtyards, features the classic tragedy \"Quan Âm Thị Kính\"?",
           "options": [
-            "Hát Chèo (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Hát Tuồng (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Ca Trù (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Cải Lương (The Northern Folk Opera  The Tragic Maiden (U26))"
+            "Hát Chèo (The Northern Folk Opera  The Tragic Maiden)",
+            "Hát Tuồng (The Northern Folk Opera  The Tragic Maiden)",
+            "Ca Trù (The Northern Folk Opera  The Tragic Maiden)",
+            "Cải Lương (The Northern Folk Opera  The Tragic Maiden)"
           ],
           "answerIndex": 0,
           "explanation": "Hát Chèo."
@@ -14300,10 +14300,10 @@
         {
           "prompt": "What bold, flirtatious young woman in *Quan Âm Thị Kính* goes to the Buddhist temple and falsely accuses monk Kính Tâm of fathering her child?",
           "options": [
-            "Thị Mầu (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Thị Kính (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Thúy Kiều (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Xúy Vân (The Northern Folk Opera  The Tragic Maiden (U26))"
+            "Thị Mầu (The Northern Folk Opera  The Tragic Maiden)",
+            "Thị Kính (The Northern Folk Opera  The Tragic Maiden)",
+            "Thúy Kiều (The Northern Folk Opera  The Tragic Maiden)",
+            "Xúy Vân (The Northern Folk Opera  The Tragic Maiden)"
           ],
           "answerIndex": 0,
           "explanation": "Thị Mầu."
@@ -14315,10 +14315,10 @@
         {
           "prompt": "Translate: \"The Hề Chèo comic jester functions as the voice of the peasantry, puncturing feudal hypocrisy through sharp satirical riddles and physical slapstick.\"",
           "options": [
-            "Quan Âm Thị Kính là một bộ phim khoa học viễn tưởng. (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Nghệ thuật Chèo cấm mọi hình thức diễn hài. (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Hề Chèo đóng vai trò là tiếng nói của người nông dân, chọc thủng thói đạo đức giả phong kiến qua những câu đố châm biếm sắc sảo và nghệ thuật hề hình thể. (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Thị Kính là một nữ hoàng La Mã. (The Northern Folk Opera  The Tragic Maiden (U26))"
+            "Quan Âm Thị Kính là một bộ phim khoa học viễn tưởng. (The Northern Folk Opera  The Tragic Maiden)",
+            "Nghệ thuật Chèo cấm mọi hình thức diễn hài. (The Northern Folk Opera  The Tragic Maiden)",
+            "Hề Chèo đóng vai trò là tiếng nói của người nông dân, chọc thủng thói đạo đức giả phong kiến qua những câu đố châm biếm sắc sảo và nghệ thuật hề hình thể. (The Northern Folk Opera  The Tragic Maiden)",
+            "Thị Kính là một nữ hoàng La Mã. (The Northern Folk Opera  The Tragic Maiden)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate Chèo dramatic analysis translation.",
@@ -14327,10 +14327,10 @@
         {
           "prompt": "What classic musical instruments form the acoustic core of a traditional northern Chèo ensemble?",
           "options": [
-            "Piano và kèn trumpet (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Trống Chèo, đàn Nguyệt, đàn Nhị, sáo trúc và phách (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Đàn vĩ cầm và kèn ô-boa (The Northern Folk Opera  The Tragic Maiden (U26))",
-            "Guitar điện và trống jazz (The Northern Folk Opera  The Tragic Maiden (U26))"
+            "Piano và kèn trumpet (The Northern Folk Opera  The Tragic Maiden)",
+            "Trống Chèo, đàn Nguyệt, đàn Nhị, sáo trúc và phách (The Northern Folk Opera  The Tragic Maiden)",
+            "Đàn vĩ cầm và kèn ô-boa (The Northern Folk Opera  The Tragic Maiden)",
+            "Guitar điện và trống jazz (The Northern Folk Opera  The Tragic Maiden)"
           ],
           "answerIndex": 1,
           "explanation": "Trống Chèo, đàn Nguyệt, đàn Nhị, sáo trúc và phách.",
@@ -14367,10 +14367,10 @@
         {
           "prompt": "Which classical Vietnamese court theatrical form, elevated by scholar Đào Tấn in Huế, is famous for its stylized painted face masks and martial drama?",
           "options": [
-            "Hát Tuồng (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Hát Chèo (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Cải Lương (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Kịch nói (Classical Court Heroism  Painted Face Symbolism (U26))"
+            "Hát Tuồng (Classical Court Heroism  Painted Face Symbolism)",
+            "Hát Chèo (Classical Court Heroism  Painted Face Symbolism)",
+            "Cải Lương (Classical Court Heroism  Painted Face Symbolism)",
+            "Kịch nói (Classical Court Heroism  Painted Face Symbolism)"
           ],
           "answerIndex": 0,
           "explanation": "Hát Tuồng (Hát Bội)."
@@ -14382,10 +14382,10 @@
         {
           "prompt": "What character trait is universally signified by a painted red face (mặt đỏ) in traditional Vietnamese Tuồng opera?",
           "options": [
-            "Lòng trung thành và chính trực (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Sự hài hước (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Sự gian xảo và phản bội (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Tính hèn nhát (Classical Court Heroism  Painted Face Symbolism (U26))"
+            "Lòng trung thành và chính trực (Classical Court Heroism  Painted Face Symbolism)",
+            "Sự hài hước (Classical Court Heroism  Painted Face Symbolism)",
+            "Sự gian xảo và phản bội (Classical Court Heroism  Painted Face Symbolism)",
+            "Tính hèn nhát (Classical Court Heroism  Painted Face Symbolism)"
           ],
           "answerIndex": 0,
           "explanation": "Lòng trung thành và chính trực."
@@ -14397,10 +14397,10 @@
         {
           "prompt": "Translate: \"In Tuồng opera, every physical gesture, vocal inflection, and facial cosmetic line adheres to strict symbolic codes defining cosmic loyalty against political treachery.\"",
           "options": [
-            "Hát Tuồng là một thể loại nhạc pop phương Tây. (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Trong nghệ thuật Tuồng, mọi cử chỉ hình thể, ngữ điệu giọng hát và nét vẽ mặt đều tuân theo quy ước biểu trưng nghiêm ngặt nhằm xác định lòng trung nghĩa với sự phản trắc. (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Mặt trắng mốc trong Tuồng tượng trưng cho vị tướng dũng cảm nhất. (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Đào Tấn là một cầu thủ bóng đá thế kỷ 21. (Classical Court Heroism  Painted Face Symbolism (U26))"
+            "Hát Tuồng là một thể loại nhạc pop phương Tây. (Classical Court Heroism  Painted Face Symbolism)",
+            "Trong nghệ thuật Tuồng, mọi cử chỉ hình thể, ngữ điệu giọng hát và nét vẽ mặt đều tuân theo quy ước biểu trưng nghiêm ngặt nhằm xác định lòng trung nghĩa với sự phản trắc. (Classical Court Heroism  Painted Face Symbolism)",
+            "Mặt trắng mốc trong Tuồng tượng trưng cho vị tướng dũng cảm nhất. (Classical Court Heroism  Painted Face Symbolism)",
+            "Đào Tấn là một cầu thủ bóng đá thế kỷ 21. (Classical Court Heroism  Painted Face Symbolism)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Tuong opera analysis translation.",
@@ -14409,10 +14409,10 @@
         {
           "prompt": "What historic 1826 royal theatre building inside the Imperial Citadel of Huế was the imperial stage for Hát Tuồng performances?",
           "options": [
-            "Duyệt Thị Đường (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Nhà hát Bến Thành (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Nhà hát Lớn Hải Phòng (Classical Court Heroism  Painted Face Symbolism (U26))",
-            "Nhà hát Lớn Hà Nội (Classical Court Heroism  Painted Face Symbolism (U26))"
+            "Duyệt Thị Đường (Classical Court Heroism  Painted Face Symbolism)",
+            "Nhà hát Bến Thành (Classical Court Heroism  Painted Face Symbolism)",
+            "Nhà hát Lớn Hải Phòng (Classical Court Heroism  Painted Face Symbolism)",
+            "Nhà hát Lớn Hà Nội (Classical Court Heroism  Painted Face Symbolism)"
           ],
           "answerIndex": 0,
           "explanation": "Duyệt Thị Đường (Hoàng thành Huế).",
@@ -14449,10 +14449,10 @@
         {
           "prompt": "Which master Vietnamese playwright wrote the landmark philosophical spoken drama \"Hồn Trương Ba, da hàng thịt\" in 1984?",
           "options": [
-            "Tào Mạt (The Master of Modern Spoken Drama (U26))",
-            "Học Phi (The Master of Modern Spoken Drama (U26))",
-            "Lưu Quang Vũ (The Master of Modern Spoken Drama (U26))",
-            "Nguyễn Huy Tưởng (The Master of Modern Spoken Drama (U26))"
+            "Tào Mạt (The Master of Modern Spoken Drama)",
+            "Học Phi (The Master of Modern Spoken Drama)",
+            "Lưu Quang Vũ (The Master of Modern Spoken Drama)",
+            "Nguyễn Huy Tưởng (The Master of Modern Spoken Drama)"
           ],
           "answerIndex": 2,
           "explanation": "Lưu Quang Vũ."
@@ -14464,10 +14464,10 @@
         {
           "prompt": "What immortal philosophical demand does Trương Ba proclaim to the god Đế Thích, rejecting a life divided between his noble soul and a crude body?",
           "options": [
-            "«Tôi muốn giàu sang phú quý» (The Master of Modern Spoken Drama (U26))",
-            "«Tôi muốn được là tôi toàn vẹn!» (The Master of Modern Spoken Drama (U26))",
-            "«Hãy cho tôi quyền lực» (The Master of Modern Spoken Drama (U26))",
-            "«Tôi muốn sống mãi mãi» (The Master of Modern Spoken Drama (U26))"
+            "«Tôi muốn giàu sang phú quý» (The Master of Modern Spoken Drama)",
+            "«Tôi muốn được là tôi toàn vẹn!» (The Master of Modern Spoken Drama)",
+            "«Hãy cho tôi quyền lực» (The Master of Modern Spoken Drama)",
+            "«Tôi muốn sống mãi mãi» (The Master of Modern Spoken Drama)"
           ],
           "answerIndex": 1,
           "explanation": "«Tôi muốn được là tôi toàn vẹn!»"
@@ -14479,10 +14479,10 @@
         {
           "prompt": "Translate: \"Truong Ba's Soul in the Butcher's Skin investigates the agonizing alienation between inner moral conscience and external physical compromise, demanding absolute personal integrity.\"",
           "options": [
-            "Hồn Trương Ba, da hàng thịt khám phá sự tha hóa đau đớn giữa lương tri đạo đức bên trong và sự thỏa hiệp thể xác bên ngoài, đòi hỏi tính toàn vẹn nhân cách tuyệt đối. (The Master of Modern Spoken Drama (U26))",
-            "Lưu Quang Vũ là một dịch giả tiếng Hy Lạp. (The Master of Modern Spoken Drama (U26))",
-            "Đế Thích là một nhân vật trong thần thoại Bắc Âu. (The Master of Modern Spoken Drama (U26))",
-            "Hồn Trương Ba là một vở hài kịch ngắn về nghề bán thịt lợn. (The Master of Modern Spoken Drama (U26))"
+            "Hồn Trương Ba, da hàng thịt khám phá sự tha hóa đau đớn giữa lương tri đạo đức bên trong và sự thỏa hiệp thể xác bên ngoài, đòi hỏi tính toàn vẹn nhân cách tuyệt đối. (The Master of Modern Spoken Drama)",
+            "Lưu Quang Vũ là một dịch giả tiếng Hy Lạp. (The Master of Modern Spoken Drama)",
+            "Đế Thích là một nhân vật trong thần thoại Bắc Âu. (The Master of Modern Spoken Drama)",
+            "Hồn Trương Ba là một vở hài kịch ngắn về nghề bán thịt lợn. (The Master of Modern Spoken Drama)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate modern Vietnamese dramaturgy translation.",
@@ -14491,10 +14491,10 @@
         {
           "prompt": "Which iconic 1985 play by Lưu Quang Vũ boldly challenged bureaucratic stagnation and dogmatic management in state factories, anticipating the economic reforms of Đổi Mới?",
           "options": [
-            "«Lời thề thứ 9» (The Master of Modern Spoken Drama (U26))",
-            "«Nàng Sita» (The Master of Modern Spoken Drama (U26))",
-            "«Bệnh sĩ» (The Master of Modern Spoken Drama (U26))",
-            "«Tôi và chúng ta» (The Master of Modern Spoken Drama (U26))"
+            "«Lời thề thứ 9» (The Master of Modern Spoken Drama)",
+            "«Nàng Sita» (The Master of Modern Spoken Drama)",
+            "«Bệnh sĩ» (The Master of Modern Spoken Drama)",
+            "«Tôi và chúng ta» (The Master of Modern Spoken Drama)"
           ],
           "answerIndex": 3,
           "explanation": "«Tôi và chúng ta».",
@@ -14531,10 +14531,10 @@
         {
           "prompt": "Which grand 1911 neoclassical French architectural landmark in the capital serves as the historic premier stage of Vietnam?",
           "options": [
-            "Nhà hát Lớn Hà Nội (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "Nhà hát Tuổi Trẻ (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "Cung Văn hóa Hữu nghị (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "Nhà hát Kịch Việt Nam (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))"
+            "Nhà hát Lớn Hà Nội (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "Nhà hát Tuổi Trẻ (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "Cung Văn hóa Hữu nghị (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "Nhà hát Kịch Việt Nam (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "Nhà hát Lớn Hà Nội (Hanoi Opera House)."
@@ -14546,10 +14546,10 @@
         {
           "prompt": "Which celebrated Southern Vietnamese theatrical artist, known as the \"Witch of the Stage\", led the IDECAF Theatre and the beloved series \"Ngày xửa ngày xưa\"?",
           "options": [
-            "NSND Hồng Vân (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "NSƯT Hữu Châu (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "NSND Việt Anh (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "NSƯT Thành Lộc (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))"
+            "NSND Hồng Vân (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "NSƯT Hữu Châu (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "NSND Việt Anh (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "NSƯT Thành Lộc (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)"
           ],
           "answerIndex": 3,
           "explanation": "NSƯT Thành Lộc."
@@ -14561,10 +14561,10 @@
         {
           "prompt": "Translate: \"The Hanoi Opera House represents both a masterpiece of French neoclassical architecture and a sacred historic monument of the 1945 August Revolution.\"",
           "options": [
-            "Sân khấu IDECAF nằm ở thành phố Hải Phòng. (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "Thành Lộc là một cầu thủ bóng rổ chuyên nghiệp. (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "Nhà hát Lớn Hà Nội được xây dựng bằng tre nứa năm 2000. (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "Nhà hát Lớn Hà Nội vừa là một kiệt tác kiến trúc tân cổ điển kiểu Pháp vừa là một di tích lịch sử thiêng liêng của cuộc Cách mạng tháng Tám năm 1945. (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))"
+            "Sân khấu IDECAF nằm ở thành phố Hải Phòng. (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "Thành Lộc là một cầu thủ bóng rổ chuyên nghiệp. (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "Nhà hát Lớn Hà Nội được xây dựng bằng tre nứa năm 2000. (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "Nhà hát Lớn Hà Nội vừa là một kiệt tác kiến trúc tân cổ điển kiểu Pháp vừa là một di tích lịch sử thiêng liêng của cuộc Cách mạng tháng Tám năm 1945. (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate contemporary theater analysis translation.",
@@ -14573,10 +14573,10 @@
         {
           "prompt": "What beloved multi-decade fairy tale musical theater series produced by IDECAF has entertained millions of children in Ho Chi Minh City since 2000?",
           "options": [
-            "«Chuyện thần tiên» (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "«Tuổi thần tiên» (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "«Ngày xửa ngày xưa» (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))",
-            "«Thế giới cổ tích» (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis (U26))"
+            "«Chuyện thần tiên» (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "«Tuổi thần tiên» (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "«Ngày xửa ngày xưa» (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)",
+            "«Thế giới cổ tích» (C2 synthesis on Modern Theatrical Innovation  Physical Synthesis)"
           ],
           "answerIndex": 2,
           "explanation": "«Ngày xửa ngày xưa».",
@@ -14613,10 +14613,10 @@
         {
           "prompt": "Which 1918 southern Vietnamese reformed operatic theater tradition features the famous 6-phrase \"Vọng Cổ\" singing style?",
           "options": [
-            "Hát Chèo (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Hát Tuồng (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Ca Trù (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Sân Khấu Cải Lương (The Southern Operatic Reform  The Heart of Vong Co (U27))"
+            "Hát Chèo (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Hát Tuồng (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Ca Trù (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Sân Khấu Cải Lương (The Southern Operatic Reform  The Heart of Vong Co)"
           ],
           "answerIndex": 3,
           "explanation": "Sân Khấu Cải Lương."
@@ -14628,10 +14628,10 @@
         {
           "prompt": "Which iconic 1919 song, composed by Cao Văn Lầu in Bạc Liêu, is the foundational ancestor of all modern Vọng Cổ melodies?",
           "options": [
-            "«Dạ Cổ Hoài Lang» (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "«Tiếng trống Mê Linh» (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "«Lòng mẹ» (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "«Bên cầu dệt lụa» (The Southern Operatic Reform  The Heart of Vong Co (U27))"
+            "«Dạ Cổ Hoài Lang» (The Southern Operatic Reform  The Heart of Vong Co)",
+            "«Tiếng trống Mê Linh» (The Southern Operatic Reform  The Heart of Vong Co)",
+            "«Lòng mẹ» (The Southern Operatic Reform  The Heart of Vong Co)",
+            "«Bên cầu dệt lụa» (The Southern Operatic Reform  The Heart of Vong Co)"
           ],
           "answerIndex": 0,
           "explanation": "«Dạ Cổ Hoài Lang»."
@@ -14643,10 +14643,10 @@
         {
           "prompt": "Translate: \"The scalloped-fret guitar enables Cai Luong instrumentalists to bend strings deeply, producing the distinctive melancholic microtonal ornamentation of Southern Vietnamese scales.\"",
           "options": [
-            "Đàn ghi-ta phím lõm không có dây đàn. (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Cải Lương là một thể loại nhạc punk rock phương Tây. (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Cây đàn ghi-ta phím lõm cho phép các nhạc công Cải Lương nhấn nhá dây đàn sâu, tạo ra những âm sắc luyến láy vi cung buồn man mác đặc trưng của điệu thức Nam Bộ. (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Cao Văn Lầu sinh ra tại Paris năm 1800. (The Southern Operatic Reform  The Heart of Vong Co (U27))"
+            "Đàn ghi-ta phím lõm không có dây đàn. (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Cải Lương là một thể loại nhạc punk rock phương Tây. (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Cây đàn ghi-ta phím lõm cho phép các nhạc công Cải Lương nhấn nhá dây đàn sâu, tạo ra những âm sắc luyến láy vi cung buồn man mác đặc trưng của điệu thức Nam Bộ. (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Cao Văn Lầu sinh ra tại Paris năm 1800. (The Southern Operatic Reform  The Heart of Vong Co)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate Cải Lương musicological translation.",
@@ -14655,10 +14655,10 @@
         {
           "prompt": "What unique modification is carved into the wooden fretboard of guitars used in Southern Vietnamese Cải Lương orchestras?",
           "options": [
-            "Dây đàn bằng xích sắt (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Phím lõm (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Cần đàn dài 3 mét (The Southern Operatic Reform  The Heart of Vong Co (U27))",
-            "Thùng đàn bằng đá hoa cương (The Southern Operatic Reform  The Heart of Vong Co (U27))"
+            "Dây đàn bằng xích sắt (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Phím lõm (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Cần đàn dài 3 mét (The Southern Operatic Reform  The Heart of Vong Co)",
+            "Thùng đàn bằng đá hoa cương (The Southern Operatic Reform  The Heart of Vong Co)"
           ],
           "answerIndex": 1,
           "explanation": "Phím lõm.",
@@ -14695,10 +14695,10 @@
         {
           "prompt": "Which beloved Vietnamese actress was revered as the \"Queen of the Stage\" for her iconic role as Trưng Trắc in \"Tiếng trống Mê Linh\"?",
           "options": [
-            "NSƯT Thanh Nga (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "NSND Lệ Thủy (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "NSND Ngọc Giàu (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "NSND Bạch Tuyết (The Queen of Cai Luong  The Drum of Me Linh (U27))"
+            "NSƯT Thanh Nga (The Queen of Cai Luong  The Drum of Me Linh)",
+            "NSND Lệ Thủy (The Queen of Cai Luong  The Drum of Me Linh)",
+            "NSND Ngọc Giàu (The Queen of Cai Luong  The Drum of Me Linh)",
+            "NSND Bạch Tuyết (The Queen of Cai Luong  The Drum of Me Linh)"
           ],
           "answerIndex": 0,
           "explanation": "NSƯT Thanh Nga."
@@ -14710,10 +14710,10 @@
         {
           "prompt": "Which master Cải Lương vocalist was hailed as \"The First Master Singer\" (Đệ nhất danh ca) for his legendary recording of *Tình anh bán chiếu*?",
           "options": [
-            "NSND Út Trà Ôn (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "NSND Minh Phụng (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "NSƯT Hùng Cường (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "NSND Thành Được (The Queen of Cai Luong  The Drum of Me Linh (U27))"
+            "NSND Út Trà Ôn (The Queen of Cai Luong  The Drum of Me Linh)",
+            "NSND Minh Phụng (The Queen of Cai Luong  The Drum of Me Linh)",
+            "NSƯT Hùng Cường (The Queen of Cai Luong  The Drum of Me Linh)",
+            "NSND Thành Được (The Queen of Cai Luong  The Drum of Me Linh)"
           ],
           "answerIndex": 0,
           "explanation": "NSND Út Trà Ôn."
@@ -14725,10 +14725,10 @@
         {
           "prompt": "Translate: \"In The Drum of Me Linh, Thanh Nga's heroic embodiment of Trung Trac prioritized national liberation over personal grief, electrifying millions of spectators with patriotic resolve.\"",
           "options": [
-            "Tiếng trống Mê Linh là một bộ phim hoạt hình về loài chim. (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "Trong Tiếng trống Mê Linh, sự hóa thân anh hùng của Thanh Nga vào vai Trưng Trắc đã đặt nền độc lập dân tộc lên trên nỗi đau cá nhân, làm rung động hàng triệu khán giả với ý chí ái quốc. (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "Út Trà Ôn là một vận động viên bơi lội. (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "Thanh Nga sinh ra tại Luân Đôn năm 1990. (The Queen of Cai Luong  The Drum of Me Linh (U27))"
+            "Tiếng trống Mê Linh là một bộ phim hoạt hình về loài chim. (The Queen of Cai Luong  The Drum of Me Linh)",
+            "Trong Tiếng trống Mê Linh, sự hóa thân anh hùng của Thanh Nga vào vai Trưng Trắc đã đặt nền độc lập dân tộc lên trên nỗi đau cá nhân, làm rung động hàng triệu khán giả với ý chí ái quốc. (The Queen of Cai Luong  The Drum of Me Linh)",
+            "Út Trà Ôn là một vận động viên bơi lội. (The Queen of Cai Luong  The Drum of Me Linh)",
+            "Thanh Nga sinh ra tại Luân Đôn năm 1990. (The Queen of Cai Luong  The Drum of Me Linh)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Vietnamese theatrical analysis translation.",
@@ -14737,10 +14737,10 @@
         {
           "prompt": "What legendary 1961 Vọng Cổ masterwork, written by composer Viễn Châu for Út Trà Ôn, tells the sorrowful tale of a humble sedge mat weaver from Cà Mau?",
           "options": [
-            "«Tình anh bán chiếu» (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "«Lan và Điệp» (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "«Bên cầu dệt lụa» (The Queen of Cai Luong  The Drum of Me Linh (U27))",
-            "«Nửa đời hương phấn» (The Queen of Cai Luong  The Drum of Me Linh (U27))"
+            "«Tình anh bán chiếu» (The Queen of Cai Luong  The Drum of Me Linh)",
+            "«Lan và Điệp» (The Queen of Cai Luong  The Drum of Me Linh)",
+            "«Bên cầu dệt lụa» (The Queen of Cai Luong  The Drum of Me Linh)",
+            "«Nửa đời hương phấn» (The Queen of Cai Luong  The Drum of Me Linh)"
           ],
           "answerIndex": 0,
           "explanation": "«Tình anh bán chiếu».",
@@ -14777,10 +14777,10 @@
         {
           "prompt": "Which master Vietnamese composer, trained at the Moscow Conservatory, composed Vietnam's first full-scale symphonic opera \"Cô Sao\" in 1965?",
           "options": [
-            "Đỗ Nhuận (The First Vietnamese Symphonic Opera (U27))",
-            "Nguyễn Đình Thi (The First Vietnamese Symphonic Opera (U27))",
-            "Văn Cao (The First Vietnamese Symphonic Opera (U27))",
-            "Hoàng Vân (The First Vietnamese Symphonic Opera (U27))"
+            "Đỗ Nhuận (The First Vietnamese Symphonic Opera)",
+            "Nguyễn Đình Thi (The First Vietnamese Symphonic Opera)",
+            "Văn Cao (The First Vietnamese Symphonic Opera)",
+            "Hoàng Vân (The First Vietnamese Symphonic Opera)"
           ],
           "answerIndex": 0,
           "explanation": "Đỗ Nhuận."
@@ -14792,10 +14792,10 @@
         {
           "prompt": "What mountainous ethnic minority folk musical traditions were integrated into the symphonic orchestral score of Đỗ Nhuận's opera *Cô Sao*?",
           "options": [
-            "Dân ca Thái và H'Mông Tây Bắc (The First Vietnamese Symphonic Opera (U27))",
-            "Hát Xoan Phú Thọ (The First Vietnamese Symphonic Opera (U27))",
-            "Hò Huế (The First Vietnamese Symphonic Opera (U27))",
-            "Đờn Ca Tài Tử (The First Vietnamese Symphonic Opera (U27))"
+            "Dân ca Thái và H'Mông Tây Bắc (The First Vietnamese Symphonic Opera)",
+            "Hát Xoan Phú Thọ (The First Vietnamese Symphonic Opera)",
+            "Hò Huế (The First Vietnamese Symphonic Opera)",
+            "Đờn Ca Tài Tử (The First Vietnamese Symphonic Opera)"
           ],
           "answerIndex": 0,
           "explanation": "Dân ca Thái và H'Mông Tây Bắc."
@@ -14807,10 +14807,10 @@
         {
           "prompt": "Translate: \"Co Sao stands as the foundational monument of Vietnamese academic opera, synthesizing Western late-romantic orchestration with the lyrical pentatonic folk modes of Northwest ethnic communities.\"",
           "options": [
-            "Cô Sao là công trình nền tảng của opera hàn lâm Việt Nam, tổng hòa phối khí hậu kỳ lãng mạn phương Tây với các làn điệu dân ca ngũ cung trữ tình của đồng bào Tây Bắc. (The First Vietnamese Symphonic Opera (U27))",
-            "Đỗ Nhuận chưa từng học nhạc viện. (The First Vietnamese Symphonic Opera (U27))",
-            "Chiến thắng Điện Biên là một bài hát tiếng Tây Ban Nha. (The First Vietnamese Symphonic Opera (U27))",
-            "Cô Sao là một bản nhạc nhảy disco hiện đại. (The First Vietnamese Symphonic Opera (U27))"
+            "Cô Sao là công trình nền tảng của opera hàn lâm Việt Nam, tổng hòa phối khí hậu kỳ lãng mạn phương Tây với các làn điệu dân ca ngũ cung trữ tình của đồng bào Tây Bắc. (The First Vietnamese Symphonic Opera)",
+            "Đỗ Nhuận chưa từng học nhạc viện. (The First Vietnamese Symphonic Opera)",
+            "Chiến thắng Điện Biên là một bài hát tiếng Tây Ban Nha. (The First Vietnamese Symphonic Opera)",
+            "Cô Sao là một bản nhạc nhảy disco hiện đại. (The First Vietnamese Symphonic Opera)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Do Nhuan opera analysis translation.",
@@ -14819,10 +14819,10 @@
         {
           "prompt": "What historic 1954 patriotic song by Đỗ Nhuận was performed by victorious soldiers marching into the liberated valley of Điện Biên Phủ?",
           "options": [
-            "«Hành quân xa» (The First Vietnamese Symphonic Opera (U27))",
-            "«Tiến quân ca» (The First Vietnamese Symphonic Opera (U27))",
-            "«Du kích sông Thao» (The First Vietnamese Symphonic Opera (U27))",
-            "«Chiến thắng Điện Biên» (The First Vietnamese Symphonic Opera (U27))"
+            "«Hành quân xa» (The First Vietnamese Symphonic Opera)",
+            "«Tiến quân ca» (The First Vietnamese Symphonic Opera)",
+            "«Du kích sông Thao» (The First Vietnamese Symphonic Opera)",
+            "«Chiến thắng Điện Biên» (The First Vietnamese Symphonic Opera)"
           ],
           "answerIndex": 3,
           "explanation": "«Chiến thắng Điện Biên».",
@@ -14859,10 +14859,10 @@
         {
           "prompt": "Which legendary soprano, trained at the Moscow Conservatory, is revered as the pioneer nightingale of Vietnamese classical chamber singing?",
           "options": [
-            "Mỹ Linh (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "NSND Lan Anh (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "NSND Lê Dung (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "NSND Bạch Tuyết (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))"
+            "Mỹ Linh (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "NSND Lan Anh (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "NSND Lê Dung (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "NSND Bạch Tuyết (Academic Classical Vocal Mastery  The Hanoi National Conservatory)"
           ],
           "answerIndex": 2,
           "explanation": "NSND Lê Dung."
@@ -14874,10 +14874,10 @@
         {
           "prompt": "Which grand musical institution in Hanoi, founded in 1956, is the national cradle for classical musicians and opera singers in Vietnam?",
           "options": [
-            "Cung Thiếu nhi Hà Nội (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "Học viện Âm nhạc Quốc gia Việt Nam (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "Nhạc viện Huế (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "Nhà hát Lớn Hà Nội (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))"
+            "Cung Thiếu nhi Hà Nội (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "Học viện Âm nhạc Quốc gia Việt Nam (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "Nhạc viện Huế (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "Nhà hát Lớn Hà Nội (Academic Classical Vocal Mastery  The Hanoi National Conservatory)"
           ],
           "answerIndex": 1,
           "explanation": "Học viện Âm nhạc Quốc gia Việt Nam (VNAM)."
@@ -14889,10 +14889,10 @@
         {
           "prompt": "Translate: \"People's Artist Le Dung synthesized rigorous Russian Bel Canto vocal methodology with authentic Vietnamese linguistic phonetics, setting the eternal benchmark for chamber singing.\"",
           "options": [
-            "Học viện Âm nhạc Quốc gia được thành lập năm 2022. (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "Lê Dung là một ca sĩ nhạc rap thập niên 1990. (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "Tạ Minh Tâm là một nghệ sĩ múa rối nước. (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "NSND Lê Dung đã kết hợp phương pháp xướng âm Bel Canto chuẩn mực của Nga với ngữ âm thanh điệu tiếng Việt, tạo nên chuẩn mực vĩnh cửu cho thanh nhạc thính phòng. (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))"
+            "Học viện Âm nhạc Quốc gia được thành lập năm 2022. (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "Lê Dung là một ca sĩ nhạc rap thập niên 1990. (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "Tạ Minh Tâm là một nghệ sĩ múa rối nước. (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "NSND Lê Dung đã kết hợp phương pháp xướng âm Bel Canto chuẩn mực của Nga với ngữ âm thanh điệu tiếng Việt, tạo nên chuẩn mực vĩnh cửu cho thanh nhạc thính phòng. (Academic Classical Vocal Mastery  The Hanoi National Conservatory)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate chamber vocal analysis translation.",
@@ -14901,10 +14901,10 @@
         {
           "prompt": "Which celebrated patriotic anthem composed by Hoàng Hà in April 1975 is dramatic tenor Tạ Minh Tâm's most famous signature performance?",
           "options": [
-            "«Hành khúc ngày và đêm» (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "«Lên đàng» (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "«Đất nước trọn niềm vui» (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))",
-            "«Tiến quân ca» (Academic Classical Vocal Mastery  The Hanoi National Conservatory (U27))"
+            "«Hành khúc ngày và đêm» (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "«Lên đàng» (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "«Đất nước trọn niềm vui» (Academic Classical Vocal Mastery  The Hanoi National Conservatory)",
+            "«Tiến quân ca» (Academic Classical Vocal Mastery  The Hanoi National Conservatory)"
           ],
           "answerIndex": 2,
           "explanation": "«Đất nước trọn niềm vui».",
@@ -14941,10 +14941,10 @@
         {
           "prompt": "Which grand 1900 French Belle Époque architectural landmark on Đồng Khởi street is the historic opera house of Ho Chi Minh City?",
           "options": [
-            "Nhà hát Thành phố Hồ Chí Minh (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Nhà hát Bến Thành (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Nhà hát Cải Lương Trần Hữu Trang (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Nhà hát Hòa Bình (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))"
+            "Nhà hát Thành phố Hồ Chí Minh (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Nhà hát Bến Thành (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Nhà hát Cải Lương Trần Hữu Trang (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Nhà hát Hòa Bình (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)"
           ],
           "answerIndex": 0,
           "explanation": "Nhà hát Thành phố Hồ Chí Minh (Saigon Opera House)."
@@ -14956,10 +14956,10 @@
         {
           "prompt": "What premier professional performing arts organization in Ho Chi Minh City produces annual symphonic, opera, and ballet seasons at the Saigon Opera House?",
           "options": [
-            "Đoàn Ca múa nhạc Bông Sen (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Nhà hát Kịch IDECAF (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Nhà hát Tuổi Trẻ (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "HBSO (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))"
+            "Đoàn Ca múa nhạc Bông Sen (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Nhà hát Kịch IDECAF (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Nhà hát Tuổi Trẻ (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "HBSO (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)"
           ],
           "answerIndex": 3,
           "explanation": "HBSO (Nhà hát Giao hưởng Nhạc Vũ Kịch TP.HCM)."
@@ -14971,10 +14971,10 @@
         {
           "prompt": "Translate: \"The Saigon Opera House combines French Belle Époque ornamentation with modern acoustic amplification, hosting HBSO's ambitious productions of classical European operas and contemporary Vietnamese ballets.\"",
           "options": [
-            "Nhà hát Thành phố được xây dựng bằng tre năm 2021. (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Đồng Khởi là tên của một phi thuyền không gian. (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Nhà hát Thành phố Hồ Chí Minh kết hợp trang trí Belle Époque của Pháp với hệ thống âm học hiện đại, là nơi HBSO dàn dựng các tác phẩm opera cổ điển châu Âu và vũ kịch đương đại Việt Nam. (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "HBSO là một đội bóng đá chuyên nghiệp. (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))"
+            "Nhà hát Thành phố được xây dựng bằng tre năm 2021. (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Đồng Khởi là tên của một phi thuyền không gian. (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Nhà hát Thành phố Hồ Chí Minh kết hợp trang trí Belle Époque của Pháp với hệ thống âm học hiện đại, là nơi HBSO dàn dựng các tác phẩm opera cổ điển châu Âu và vũ kịch đương đại Việt Nam. (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "HBSO là một đội bóng đá chuyên nghiệp. (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate Saigon Opera analysis translation.",
@@ -14983,10 +14983,10 @@
         {
           "prompt": "Which famous Parisian building inspired architect Félix Ollivier's façade design for the Saigon Opera House in 1900?",
           "options": [
-            "Nhà thờ Đức Bà Paris (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Petit Palais (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Khải Hoàn Môn (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))",
-            "Tháp Eiffel (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons (U27))"
+            "Nhà thờ Đức Bà Paris (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Petit Palais (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Khải Hoàn Môn (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)",
+            "Tháp Eiffel (C2 synthesis on The Saigon Municipal Opera House  Contemporary Symphonic Seasons)"
           ],
           "answerIndex": 1,
           "explanation": "Petit Palais (Paris).",
@@ -15023,10 +15023,10 @@
         {
           "prompt": "Which grand 1805 imperial capital fortress in central Vietnam combines French Vauban fortification engineering with traditional Feng Shui cosmology?",
           "options": [
-            "Hoàng thành Thăng Long (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Thành Cổ Loa (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Thành Nhà Hồ (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Kinh Thành Huế (The Imperial Citadel  The Feng Shui Axis of Hue (U28))"
+            "Hoàng thành Thăng Long (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Thành Cổ Loa (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Thành Nhà Hồ (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Kinh Thành Huế (The Imperial Citadel  The Feng Shui Axis of Hue)"
           ],
           "answerIndex": 3,
           "explanation": "Kinh Thành Huế (Imperial City of Huế)."
@@ -15038,10 +15038,10 @@
         {
           "prompt": "What monumental two-tiered royal entrance gate, featuring the Five Phoenix Pavilion (Lầu Ngũ Phụng), leads into the Imperial City of Huế?",
           "options": [
-            "Ngọ Môn (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Cửa Thượng Tứ (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Cửa Đông Ba (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Cửa Nhà Đồ (The Imperial Citadel  The Feng Shui Axis of Hue (U28))"
+            "Ngọ Môn (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Cửa Thượng Tứ (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Cửa Đông Ba (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Cửa Nhà Đồ (The Imperial Citadel  The Feng Shui Axis of Hue)"
           ],
           "answerIndex": 0,
           "explanation": "Ngọ Môn (Noon Gate)."
@@ -15053,10 +15053,10 @@
         {
           "prompt": "Translate: \"The Imperial Citadel of Hue aligns its central throne room along a cardinal cosmological axis flanked by the Perfume River and Mount Ngu Binh as natural geomantic screens.\"",
           "options": [
-            "Kinh thành Huế được xây dựng bằng kính cường lực năm 1990. (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Kinh thành Huế căn chỉnh ngai vàng điện Thái Hòa dọc theo trục phong thủy vũ trụ được che chắn bởi sông Hương và núi Ngự Bình như những bình phong tự nhiên. (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Ngọ Môn là một ngọn hải đăng trên biển. (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Vua Gia Long xây dựng thành Huế tại Paris. (The Imperial Citadel  The Feng Shui Axis of Hue (U28))"
+            "Kinh thành Huế được xây dựng bằng kính cường lực năm 1990. (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Kinh thành Huế căn chỉnh ngai vàng điện Thái Hòa dọc theo trục phong thủy vũ trụ được che chắn bởi sông Hương và núi Ngự Bình như những bình phong tự nhiên. (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Ngọ Môn là một ngọn hải đăng trên biển. (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Vua Gia Long xây dựng thành Huế tại Paris. (The Imperial Citadel  The Feng Shui Axis of Hue)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Hue Citadel architectural analysis translation.",
@@ -15065,10 +15065,10 @@
         {
           "prompt": "What precious native timber was used to construct the eighty gilded dragon pillars supporting the roof of the Hall of Supreme Harmony (Điện Thái Hòa) in Huế?",
           "options": [
-            "Gỗ lim sơn son thếp vàng (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Gỗ thông (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Gỗ bạch đàn (The Imperial Citadel  The Feng Shui Axis of Hue (U28))",
-            "Gỗ ép công nghiệp (The Imperial Citadel  The Feng Shui Axis of Hue (U28))"
+            "Gỗ lim sơn son thếp vàng (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Gỗ thông (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Gỗ bạch đàn (The Imperial Citadel  The Feng Shui Axis of Hue)",
+            "Gỗ ép công nghiệp (The Imperial Citadel  The Feng Shui Axis of Hue)"
           ],
           "answerIndex": 0,
           "explanation": "Gỗ lim sơn son thếp vàng.",
@@ -15105,10 +15105,10 @@
         {
           "prompt": "Which French urban planner and architect pioneered the \"Indochine Style\" in Vietnam, designing the historic Indochina University in 1926?",
           "options": [
-            "Ernest Hébrard (Indochinese Modernist Synthesis (U28))",
-            "Félix Ollivier (Indochinese Modernist Synthesis (U28))",
-            "Auguste Henri Vildieu (Indochinese Modernist Synthesis (U28))",
-            "Paul Doumer (Indochinese Modernist Synthesis (U28))"
+            "Ernest Hébrard (Indochinese Modernist Synthesis)",
+            "Félix Ollivier (Indochinese Modernist Synthesis)",
+            "Auguste Henri Vildieu (Indochinese Modernist Synthesis)",
+            "Paul Doumer (Indochinese Modernist Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "Ernest Hébrard."
@@ -15120,10 +15120,10 @@
         {
           "prompt": "What traditional Vietnamese architectural feature was integrated into the roofline of Hébrard's National Museum of History on Tràng Tiền Street?",
           "options": [
-            "Mái ngói chồng diêm bát giác nhiều tầng (Indochinese Modernist Synthesis (U28))",
-            "Mái bằng bê tông (Indochinese Modernist Synthesis (U28))",
-            "Chóp nhọn kim loại (Indochinese Modernist Synthesis (U28))",
-            "Vòm kính gothic (Indochinese Modernist Synthesis (U28))"
+            "Mái ngói chồng diêm bát giác nhiều tầng (Indochinese Modernist Synthesis)",
+            "Mái bằng bê tông (Indochinese Modernist Synthesis)",
+            "Chóp nhọn kim loại (Indochinese Modernist Synthesis)",
+            "Vòm kính gothic (Indochinese Modernist Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "Mái ngói chồng diêm bát giác nhiều tầng."
@@ -15135,10 +15135,10 @@
         {
           "prompt": "Translate: \"The Indochine style merged French neoclassical spatial volumes with Vietnamese multi-tiered roofs and deep covered verandas engineered for tropical monsoon cooling.\"",
           "options": [
-            "Phong cách Đông Dương đã hợp nhất không gian tân cổ điển Pháp với mái ngói nhiều tầng và hành lang hiên rộng của Việt Nam được thiết kế để làm mát trong khí hậu nhiệt đới gió mùa. (Indochinese Modernist Synthesis (U28))",
-            "Ernest Hébrard chỉ xây dựng các túp lều bằng rơm. (Indochinese Modernist Synthesis (U28))",
-            "Bảo tàng Lịch sử Quốc gia được xây dựng vào năm 2020 tại Luân Đôn. (Indochinese Modernist Synthesis (U28))",
-            "Đại học Tổng hợp Hà Nội không có mái che. (Indochinese Modernist Synthesis (U28))"
+            "Phong cách Đông Dương đã hợp nhất không gian tân cổ điển Pháp với mái ngói nhiều tầng và hành lang hiên rộng của Việt Nam được thiết kế để làm mát trong khí hậu nhiệt đới gió mùa. (Indochinese Modernist Synthesis)",
+            "Ernest Hébrard chỉ xây dựng các túp lều bằng rơm. (Indochinese Modernist Synthesis)",
+            "Bảo tàng Lịch sử Quốc gia được xây dựng vào năm 2020 tại Luân Đôn. (Indochinese Modernist Synthesis)",
+            "Đại học Tổng hợp Hà Nội không có mái che. (Indochinese Modernist Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Indochine architectural analysis translation.",
@@ -15147,10 +15147,10 @@
         {
           "prompt": "What passive cooling architectural element, featuring slatted wooden blinds, was universally used by Hébrard to allow sea breezes while blocking harsh sunlight?",
           "options": [
-            "Cửa kính dán kín hoàn toàn (Indochinese Modernist Synthesis (U28))",
-            "Tường bê tông không cửa sổ (Indochinese Modernist Synthesis (U28))",
-            "Rèm nhung dày (Indochinese Modernist Synthesis (U28))",
-            "Hệ thống cửa lá sách / cửa chớp lật bằng gỗ (Indochinese Modernist Synthesis (U28))"
+            "Cửa kính dán kín hoàn toàn (Indochinese Modernist Synthesis)",
+            "Tường bê tông không cửa sổ (Indochinese Modernist Synthesis)",
+            "Rèm nhung dày (Indochinese Modernist Synthesis)",
+            "Hệ thống cửa lá sách / cửa chớp lật bằng gỗ (Indochinese Modernist Synthesis)"
           ],
           "answerIndex": 3,
           "explanation": "Hệ thống cửa lá sách / cửa chớp lật bằng gỗ.",
@@ -15187,10 +15187,10 @@
         {
           "prompt": "Which 1397 stone fortress in Thanh Hóa Province, built by Hồ Quý Ly without mortar, is a UNESCO World Heritage site?",
           "options": [
-            "Thành Nhà Hồ (The Stone Citadel of the Ho Dynasty (U28))",
-            "Thành Cổ Loa (The Stone Citadel of the Ho Dynasty (U28))",
-            "Thành Luy Lâu (The Stone Citadel of the Ho Dynasty (U28))",
-            "Thành Bản Phủ (The Stone Citadel of the Ho Dynasty (U28))"
+            "Thành Nhà Hồ (The Stone Citadel of the Ho Dynasty)",
+            "Thành Cổ Loa (The Stone Citadel of the Ho Dynasty)",
+            "Thành Luy Lâu (The Stone Citadel of the Ho Dynasty)",
+            "Thành Bản Phủ (The Stone Citadel of the Ho Dynasty)"
           ],
           "answerIndex": 0,
           "explanation": "Thành Nhà Hồ (Citadel of the Ho Dynasty)."
@@ -15202,10 +15202,10 @@
         {
           "prompt": "What remarkable construction method was used to assemble the massive 20-ton limestone walls of the Citadel of the Ho Dynasty?",
           "options": [
-            "Ghép các khối đá vôi mài nhẵn khít khao không dùng vữa (The Stone Citadel of the Ho Dynasty (U28))",
-            "Xếp gạch nung với vôi mật mía (The Stone Citadel of the Ho Dynasty (U28))",
-            "Xếp đá cuội suối (The Stone Citadel of the Ho Dynasty (U28))",
-            "Đổ bê tông cốt thép (The Stone Citadel of the Ho Dynasty (U28))"
+            "Ghép các khối đá vôi mài nhẵn khít khao không dùng vữa (The Stone Citadel of the Ho Dynasty)",
+            "Xếp gạch nung với vôi mật mía (The Stone Citadel of the Ho Dynasty)",
+            "Xếp đá cuội suối (The Stone Citadel of the Ho Dynasty)",
+            "Đổ bê tông cốt thép (The Stone Citadel of the Ho Dynasty)"
           ],
           "answerIndex": 0,
           "explanation": "Ghép các khối đá vôi mài nhẵn khít khao không dùng vữa."
@@ -15217,10 +15217,10 @@
         {
           "prompt": "Translate: \"The Citadel of the Ho Dynasty represents a monumental breakthrough in 14th-century Southeast Asian military stone engineering, featuring four arched vaulted gates assembled from giant limestone voussoirs.\"",
           "options": [
-            "Thành Nhà Hồ được xây dựng bằng gỗ và tre vào năm 1950. (The Stone Citadel of the Ho Dynasty (U28))",
-            "Hồ Quý Ly là một vị tướng của đế quốc La Mã. (The Stone Citadel of the Ho Dynasty (U28))",
-            "Thành Tây Đô nằm ở trung tâm thủ đô Paris. (The Stone Citadel of the Ho Dynasty (U28))",
-            "Thành Nhà Hồ đại diện cho một bước đột phá kỳ vĩ trong kỹ thuật quân sự bằng đá thế kỷ 14 ở Đông Nam Á, với bốn cổng vòm cuốn được ghép từ những phiến đá vôi khổng lồ. (The Stone Citadel of the Ho Dynasty (U28))"
+            "Thành Nhà Hồ được xây dựng bằng gỗ và tre vào năm 1950. (The Stone Citadel of the Ho Dynasty)",
+            "Hồ Quý Ly là một vị tướng của đế quốc La Mã. (The Stone Citadel of the Ho Dynasty)",
+            "Thành Tây Đô nằm ở trung tâm thủ đô Paris. (The Stone Citadel of the Ho Dynasty)",
+            "Thành Nhà Hồ đại diện cho một bước đột phá kỳ vĩ trong kỹ thuật quân sự bằng đá thế kỷ 14 ở Đông Nam Á, với bốn cổng vòm cuốn được ghép từ những phiến đá vôi khổng lồ. (The Stone Citadel of the Ho Dynasty)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Ho Citadel analysis translation.",
@@ -15229,10 +15229,10 @@
         {
           "prompt": "How long did it take Hồ Quý Ly's builders to quarry the stone and complete the main stone walls of the Citadel of the Ho Dynasty in 1397?",
           "options": [
-            "Mười năm (The Stone Citadel of the Ho Dynasty (U28))",
-            "Năm mươi năm (The Stone Citadel of the Ho Dynasty (U28))",
-            "Chỉ trong vòng 3 tháng (The Stone Citadel of the Ho Dynasty (U28))",
-            "Hai mươi năm (The Stone Citadel of the Ho Dynasty (U28))"
+            "Mười năm (The Stone Citadel of the Ho Dynasty)",
+            "Năm mươi năm (The Stone Citadel of the Ho Dynasty)",
+            "Chỉ trong vòng 3 tháng (The Stone Citadel of the Ho Dynasty)",
+            "Hai mươi năm (The Stone Citadel of the Ho Dynasty)"
           ],
           "answerIndex": 2,
           "explanation": "Chỉ trong vòng 3 tháng.",
@@ -15269,10 +15269,10 @@
         {
           "prompt": "Which internationally acclaimed contemporary Vietnamese architect is famous for transforming native bamboo into award-winning green architecture like Bamboo Wing?",
           "options": [
-            "Nguyễn Hòa Hiệp (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Hoàng Thúc Hào (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Võ Trọng Nghĩa (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Ngô Viết Thụ (Modernist Bamboo Architecture  Green Ecology (U28))"
+            "Nguyễn Hòa Hiệp (Modernist Bamboo Architecture  Green Ecology)",
+            "Hoàng Thúc Hào (Modernist Bamboo Architecture  Green Ecology)",
+            "Võ Trọng Nghĩa (Modernist Bamboo Architecture  Green Ecology)",
+            "Ngô Viết Thụ (Modernist Bamboo Architecture  Green Ecology)"
           ],
           "answerIndex": 2,
           "explanation": "Võ Trọng Nghĩa."
@@ -15284,10 +15284,10 @@
         {
           "prompt": "What traditional natural method is used by Võ Trọng Nghĩa to treat bamboo against termites and rot before construction?",
           "options": [
-            "Bọc trong màng nhựa (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Ngâm bùn tự nhiên và hun khói truyền thống (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Mạ kim loại (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Sơn hóa chất độc hại (Modernist Bamboo Architecture  Green Ecology (U28))"
+            "Bọc trong màng nhựa (Modernist Bamboo Architecture  Green Ecology)",
+            "Ngâm bùn tự nhiên và hun khói truyền thống (Modernist Bamboo Architecture  Green Ecology)",
+            "Mạ kim loại (Modernist Bamboo Architecture  Green Ecology)",
+            "Sơn hóa chất độc hại (Modernist Bamboo Architecture  Green Ecology)"
           ],
           "answerIndex": 1,
           "explanation": "Ngâm bùn tự nhiên và hun khói truyền thống."
@@ -15299,10 +15299,10 @@
         {
           "prompt": "Translate: \"Vo Trong Nghia's bamboo pavilions synthesize traditional craft joinery with parametric structural arch geometries, demonstrating the ecological viability of renewable materials in modern architecture.\"",
           "options": [
-            "Bamboo Wing được xây dựng tại thành phố New York. (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Tre tầm vông không thể chịu được lực kéo. (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Các công trình tre của Võ Trọng Nghĩa tổng hòa kỹ thuật thủ công truyền thống với hình học vòm kết cấu tham số, chứng minh tính khả thi sinh thái của vật liệu tái tạo trong kiến trúc hiện đại. (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Võ Trọng Nghĩa chỉ xây dựng các nhà máy lọc dầu. (Modernist Bamboo Architecture  Green Ecology (U28))"
+            "Bamboo Wing được xây dựng tại thành phố New York. (Modernist Bamboo Architecture  Green Ecology)",
+            "Tre tầm vông không thể chịu được lực kéo. (Modernist Bamboo Architecture  Green Ecology)",
+            "Các công trình tre của Võ Trọng Nghĩa tổng hòa kỹ thuật thủ công truyền thống với hình học vòm kết cấu tham số, chứng minh tính khả thi sinh thái của vật liệu tái tạo trong kiến trúc hiện đại. (Modernist Bamboo Architecture  Green Ecology)",
+            "Võ Trọng Nghĩa chỉ xây dựng các nhà máy lọc dầu. (Modernist Bamboo Architecture  Green Ecology)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate Vo Trong Nghia analysis translation.",
@@ -15311,10 +15311,10 @@
         {
           "prompt": "What award-winning 2006 aerodynamic bamboo dome, designed by Võ Trọng Nghĩa in Bình Dương, uses lake water evaporation for passive thermal cooling?",
           "options": [
-            "Landmark 81 (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Quán Gió và Nước (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Nhà hát Hòa Bình (Modernist Bamboo Architecture  Green Ecology (U28))",
-            "Bitexco Tower (Modernist Bamboo Architecture  Green Ecology (U28))"
+            "Landmark 81 (Modernist Bamboo Architecture  Green Ecology)",
+            "Quán Gió và Nước (Modernist Bamboo Architecture  Green Ecology)",
+            "Nhà hát Hòa Bình (Modernist Bamboo Architecture  Green Ecology)",
+            "Bitexco Tower (Modernist Bamboo Architecture  Green Ecology)"
           ],
           "answerIndex": 1,
           "explanation": "Quán Gió và Nước.",
@@ -15351,10 +15351,10 @@
         {
           "prompt": "Which master Vietnamese architect won the Grand Prix de Rome in 1955 and designed the iconic Independence Palace (Dinh Độc Lập) in Saigon?",
           "options": [
-            "Ngô Viết Thụ (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Võ Trọng Nghĩa (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Nguyễn Cao Luyện (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Huỳnh Tấn Phát (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))"
+            "Ngô Viết Thụ (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Võ Trọng Nghĩa (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Nguyễn Cao Luyện (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Huỳnh Tấn Phát (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)"
           ],
           "answerIndex": 0,
           "explanation": "Ngô Viết Thụ."
@@ -15366,10 +15366,10 @@
         {
           "prompt": "What traditional Vietnamese cultural symbol inspired the soaring bundled-tower design of Landmark 81 along the Saigon River?",
           "options": [
-            "Bông hoa sen (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Cây lúa nước (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Chiếc nón lá (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Bó tre truyền thống vươn cao (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))"
+            "Bông hoa sen (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Cây lúa nước (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Chiếc nón lá (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Bó tre truyền thống vươn cao (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)"
           ],
           "answerIndex": 3,
           "explanation": "Bó tre truyền thống vươn cao."
@@ -15381,10 +15381,10 @@
         {
           "prompt": "Translate: \"Ngo Viet Thu embedded auspicious Sino-Vietnamese calligraphic ideograms within the modernist concrete volumes of the Independence Palace, creating an iconic synthesis of eastern philosophy and modern rationalism.\"",
           "options": [
-            "Ngô Viết Thụ là một phi công chiến đấu. (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Ngô Viết Thụ đã lồng ghép các chữ Hán phong thủy tốt lành vào các khối bê tông hiện đại của Dinh Độc Lập, tạo nên sự tổng hòa mang tính biểu tượng giữa triết học phương Đông và chủ nghĩa duy lý hiện đại. (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Dinh Độc Lập là một nhà thờ gỗ được xây dựng năm 1800. (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Landmark 81 là một trạm thủy điện. (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))"
+            "Ngô Viết Thụ là một phi công chiến đấu. (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Ngô Viết Thụ đã lồng ghép các chữ Hán phong thủy tốt lành vào các khối bê tông hiện đại của Dinh Độc Lập, tạo nên sự tổng hòa mang tính biểu tượng giữa triết học phương Đông và chủ nghĩa duy lý hiện đại. (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Dinh Độc Lập là một nhà thờ gỗ được xây dựng năm 1800. (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Landmark 81 là một trạm thủy điện. (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Independence Palace and Landmark 81 analysis translation.",
@@ -15393,10 +15393,10 @@
         {
           "prompt": "What Sino-Vietnamese Han character is formed by the overall floor plan of the Independence Palace in Ho Chi Minh City to signify good fortune?",
           "options": [
-            "Chữ Cát (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Chữ Tâm (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Chữ Phúc (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))",
-            "Chữ Thọ (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines (U28))"
+            "Chữ Cát (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Chữ Tâm (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Chữ Phúc (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)",
+            "Chữ Thọ (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)"
           ],
           "answerIndex": 0,
           "explanation": "Chữ Cát.",
@@ -15433,10 +15433,10 @@
         {
           "prompt": "Which 14th-century master Vietnamese educator and chancellor of Quốc Tử Giám submitted the fearless \"Thất trảm sớ\" against corrupt ministers?",
           "options": [
-            "Nguyễn Trãi (The Moral Mirror of Confucian Integrity (U29))",
-            "Lê Quý Đôn (The Moral Mirror of Confucian Integrity (U29))",
-            "Nguyễn Bỉnh Khiêm (The Moral Mirror of Confucian Integrity (U29))",
-            "Chu Văn An (The Moral Mirror of Confucian Integrity (U29))"
+            "Nguyễn Trãi (The Moral Mirror of Confucian Integrity)",
+            "Lê Quý Đôn (The Moral Mirror of Confucian Integrity)",
+            "Nguyễn Bỉnh Khiêm (The Moral Mirror of Confucian Integrity)",
+            "Chu Văn An (The Moral Mirror of Confucian Integrity)"
           ],
           "answerIndex": 3,
           "explanation": "Chu Văn An."
@@ -15448,10 +15448,10 @@
         {
           "prompt": "What prestigious honorary title, meaning \"The Eternal Teacher of All Generations\", is officially bestowed upon Chu Văn An?",
           "options": [
-            "Vạn thế sư biểu (The Moral Mirror of Confucian Integrity (U29))",
-            "Trạng nguyên (The Moral Mirror of Confucian Integrity (U29))",
-            "Bình Ngô Đại tướng (The Moral Mirror of Confucian Integrity (U29))",
-            "Tiều Ẩn ẩn sĩ (The Moral Mirror of Confucian Integrity (U29))"
+            "Vạn thế sư biểu (The Moral Mirror of Confucian Integrity)",
+            "Trạng nguyên (The Moral Mirror of Confucian Integrity)",
+            "Bình Ngô Đại tướng (The Moral Mirror of Confucian Integrity)",
+            "Tiều Ẩn ẩn sĩ (The Moral Mirror of Confucian Integrity)"
           ],
           "answerIndex": 0,
           "explanation": "Vạn thế sư biểu (Eternal Teacher of All Generations)."
@@ -15463,10 +15463,10 @@
         {
           "prompt": "Translate: \"Chu Van An demonstrated that true Confucian humanism demands moral courage against tyrannical corruption, resigning high imperial office to uphold educational integrity.\"",
           "options": [
-            "Chu Văn An đã chứng minh rằng chủ nghĩa nhân văn Nho giáo chân chính đòi hỏi lòng dũng cảm đạo đức chống lại sự tham nhũng bạo tàn, từ bỏ chức vụ hoàng gia cao quý để giữ vững sự thanh liêm của nền giáo dục. (The Moral Mirror of Confucian Integrity (U29))",
-            "Chu Văn An là một thương nhân người Bồ Đào Nha. (The Moral Mirror of Confucian Integrity (U29))",
-            "Quốc Tử Giám được xây dựng vào năm 1990. (The Moral Mirror of Confucian Integrity (U29))",
-            "Thất trảm sớ là một tập thơ viết về các loài hoa. (The Moral Mirror of Confucian Integrity (U29))"
+            "Chu Văn An đã chứng minh rằng chủ nghĩa nhân văn Nho giáo chân chính đòi hỏi lòng dũng cảm đạo đức chống lại sự tham nhũng bạo tàn, từ bỏ chức vụ hoàng gia cao quý để giữ vững sự thanh liêm của nền giáo dục. (The Moral Mirror of Confucian Integrity)",
+            "Chu Văn An là một thương nhân người Bồ Đào Nha. (The Moral Mirror of Confucian Integrity)",
+            "Quốc Tử Giám được xây dựng vào năm 1990. (The Moral Mirror of Confucian Integrity)",
+            "Thất trảm sớ là một tập thơ viết về các loài hoa. (The Moral Mirror of Confucian Integrity)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Chu Văn An analysis translation.",
@@ -15475,10 +15475,10 @@
         {
           "prompt": "To which scenic mountain range in Chí Linh (Hải Dương Province) did Chu Văn An retire to teach students in seclusion after resigning from the court?",
           "options": [
-            "Núi Ba Vì (The Moral Mirror of Confucian Integrity (U29))",
-            "Núi Yên Tử (The Moral Mirror of Confucian Integrity (U29))",
-            "Núi Tản Viên (The Moral Mirror of Confucian Integrity (U29))",
-            "Núi Phượng Hoàng (The Moral Mirror of Confucian Integrity (U29))"
+            "Núi Ba Vì (The Moral Mirror of Confucian Integrity)",
+            "Núi Yên Tử (The Moral Mirror of Confucian Integrity)",
+            "Núi Tản Viên (The Moral Mirror of Confucian Integrity)",
+            "Núi Phượng Hoàng (The Moral Mirror of Confucian Integrity)"
           ],
           "answerIndex": 3,
           "explanation": "Núi Phượng Hoàng.",
@@ -15515,10 +15515,10 @@
         {
           "prompt": "Which master Vietnamese scholar-statesman authored the 1428 \"Bình Ngô Đại Cáo\", founding the political philosophy that \"the essence of humaneness resides in bringing peace to the people\"?",
           "options": [
-            "Nguyễn Trãi (The Ethos of Humaneness  The People as the Root (U29))",
-            "Nguyễn Bỉnh Khiêm (The Ethos of Humaneness  The People as the Root (U29))",
-            "Lý Thường Kiệt (The Ethos of Humaneness  The People as the Root (U29))",
-            "Lê Lợi (The Ethos of Humaneness  The People as the Root (U29))"
+            "Nguyễn Trãi (The Ethos of Humaneness  The People as the Root)",
+            "Nguyễn Bỉnh Khiêm (The Ethos of Humaneness  The People as the Root)",
+            "Lý Thường Kiệt (The Ethos of Humaneness  The People as the Root)",
+            "Lê Lợi (The Ethos of Humaneness  The People as the Root)"
           ],
           "answerIndex": 0,
           "explanation": "Nguyễn Trãi."
@@ -15530,10 +15530,10 @@
         {
           "prompt": "Complete the famous political maxim by Nguyễn Trãi: «Chở thuyền là dân, ... thuyền cũng là dân»?",
           "options": [
-            "lật (The Ethos of Humaneness  The People as the Root (U29))",
-            "kéo (The Ethos of Humaneness  The People as the Root (U29))",
-            "đóng (The Ethos of Humaneness  The People as the Root (U29))",
-            "lái (The Ethos of Humaneness  The People as the Root (U29))"
+            "lật (The Ethos of Humaneness  The People as the Root)",
+            "kéo (The Ethos of Humaneness  The People as the Root)",
+            "đóng (The Ethos of Humaneness  The People as the Root)",
+            "lái (The Ethos of Humaneness  The People as the Root)"
           ],
           "answerIndex": 0,
           "explanation": "lật (overturn)."
@@ -15545,10 +15545,10 @@
         {
           "prompt": "Translate: \"Nguyen Trai's philosophy in Binh Ngo Dai Cao established that sovereign legitimacy does not stem from tyrannical force, but from the ethical duty to safeguard the welfare and peace of the common people.\"",
           "options": [
-            "Tư tưởng nhân nghĩa chỉ áp dụng cho tầng lớp quý tộc hoàng gia. (The Ethos of Humaneness  The People as the Root (U29))",
-            "Nguyễn Trãi là một vị tướng của triều đại nhà Minh. (The Ethos of Humaneness  The People as the Root (U29))",
-            "Bình Ngô Đại Cáo là một bức thư thương mại. (The Ethos of Humaneness  The People as the Root (U29))",
-            "Triết lý của Nguyễn Trãi trong Bình Ngô Đại Cáo đã xác lập rằng tính chính danh tối cao không bắt nguồn từ bạo quyền, mà từ nghĩa vụ đạo đức bảo vệ hạnh phúc và hòa bình của muôn dân. (The Ethos of Humaneness  The People as the Root (U29))"
+            "Tư tưởng nhân nghĩa chỉ áp dụng cho tầng lớp quý tộc hoàng gia. (The Ethos of Humaneness  The People as the Root)",
+            "Nguyễn Trãi là một vị tướng của triều đại nhà Minh. (The Ethos of Humaneness  The People as the Root)",
+            "Bình Ngô Đại Cáo là một bức thư thương mại. (The Ethos of Humaneness  The People as the Root)",
+            "Triết lý của Nguyễn Trãi trong Bình Ngô Đại Cáo đã xác lập rằng tính chính danh tối cao không bắt nguồn từ bạo quyền, mà từ nghĩa vụ đạo đức bảo vệ hạnh phúc và hòa bình của muôn dân. (The Ethos of Humaneness  The People as the Root)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Nguyễn Trãi analysis translation.",
@@ -15557,10 +15557,10 @@
         {
           "prompt": "In what year was the monumental proclamation *Bình Ngô Đại Cáo* officially announced to celebrate the complete liberation of Vietnam from Ming occupation?",
           "options": [
-            "1288 (The Ethos of Humaneness  The People as the Root (U29))",
-            "1945 (The Ethos of Humaneness  The People as the Root (U29))",
-            "1428 (The Ethos of Humaneness  The People as the Root (U29))",
-            "1010 (The Ethos of Humaneness  The People as the Root (U29))"
+            "1288 (The Ethos of Humaneness  The People as the Root)",
+            "1945 (The Ethos of Humaneness  The People as the Root)",
+            "1428 (The Ethos of Humaneness  The People as the Root)",
+            "1010 (The Ethos of Humaneness  The People as the Root)"
           ],
           "answerIndex": 2,
           "explanation": "1428.",
@@ -15597,10 +15597,10 @@
         {
           "prompt": "Which heroic Vietnamese king defeated the Mongol invasions, renounced his throne to become a monk on Mount Yên Tử, and founded the Trúc Lâm Zen School?",
           "options": [
-            "Trần Nhân Tông (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Trần Thái Tông (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Trần Hưng Đạo (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Lê Thái Tổ (Zen at the Center of the World  Living Joyfully in the Dust (U29))"
+            "Trần Nhân Tông (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Trần Thái Tông (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Trần Hưng Đạo (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Lê Thái Tổ (Zen at the Center of the World  Living Joyfully in the Dust)"
           ],
           "answerIndex": 0,
           "explanation": "Trần Nhân Tông (Phật Hoàng)."
@@ -15612,10 +15612,10 @@
         {
           "prompt": "What foundational philosophical concept, meaning \"Living in the secular world while rejoicing in the Way according to natural conditions\", was formulated by King Trần Nhân Tông?",
           "options": [
-            "Cư trần lạc đạo (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Bất lập văn tự (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Khổ hạnh diệt dục (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Tịnh độ vãng sinh (Zen at the Center of the World  Living Joyfully in the Dust (U29))"
+            "Cư trần lạc đạo (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Bất lập văn tự (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Khổ hạnh diệt dục (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Tịnh độ vãng sinh (Zen at the Center of the World  Living Joyfully in the Dust)"
           ],
           "answerIndex": 0,
           "explanation": "Cư trần lạc đạo."
@@ -15627,10 +15627,10 @@
         {
           "prompt": "Translate: \"Truc Lam Zen Buddhism synthesized meditative transcendence with active civic responsibility, teaching that enlightenment is discovered not by fleeing the world, but through mindful engagement in everyday life.\"",
           "options": [
-            "Trần Nhân Tông là một hoàng đế La Mã. (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Cư trần lạc đạo là một bài hát dân ca phương Tây. (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Thiền phái Trúc Lâm đã dung hợp sự siêu việt của thiền định với trách nhiệm công dân tích cực, dạy rằng giác ngộ không phải là trốn tránh thế gian mà được tìm thấy qua sự nhập thế tỉnh thức trong cuộc sống hàng ngày. (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Yên Tử là một hòn đảo ở Nam Cực. (Zen at the Center of the World  Living Joyfully in the Dust (U29))"
+            "Trần Nhân Tông là một hoàng đế La Mã. (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Cư trần lạc đạo là một bài hát dân ca phương Tây. (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Thiền phái Trúc Lâm đã dung hợp sự siêu việt của thiền định với trách nhiệm công dân tích cực, dạy rằng giác ngộ không phải là trốn tránh thế gian mà được tìm thấy qua sự nhập thế tỉnh thức trong cuộc sống hàng ngày. (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Yên Tử là một hòn đảo ở Nam Cực. (Zen at the Center of the World  Living Joyfully in the Dust)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate Trúc Lâm Zen analysis translation.",
@@ -15639,10 +15639,10 @@
         {
           "prompt": "On which sacred mountain peak in Quảng Ninh Province did King Trần Nhân Tông establish the head monastery and pagoda of the Trúc Lâm Zen tradition in 1299?",
           "options": [
-            "Núi Cấm (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Núi Yên Tử (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Núi Ngự Bình (Zen at the Center of the World  Living Joyfully in the Dust (U29))",
-            "Núi Bà Đen (Zen at the Center of the World  Living Joyfully in the Dust (U29))"
+            "Núi Cấm (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Núi Yên Tử (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Núi Ngự Bình (Zen at the Center of the World  Living Joyfully in the Dust)",
+            "Núi Bà Đen (Zen at the Center of the World  Living Joyfully in the Dust)"
           ],
           "answerIndex": 1,
           "explanation": "Núi Yên Tử (Quảng Ninh).",
@@ -15679,10 +15679,10 @@
         {
           "prompt": "Which master Vietnamese enlightenment thinker led the 1906 Duy Tân Movement under the motto \"Khai dân trí, chấn dân khí, hậu dân sinh\"?",
           "options": [
-            "Huỳnh Thúc Kháng (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Nguyễn Thái Học (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Phan Châu Trinh (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Phan Bội Châu (The Enlightenment Triad  Peaceful Modernization (U29))"
+            "Huỳnh Thúc Kháng (The Enlightenment Triad  Peaceful Modernization)",
+            "Nguyễn Thái Học (The Enlightenment Triad  Peaceful Modernization)",
+            "Phan Châu Trinh (The Enlightenment Triad  Peaceful Modernization)",
+            "Phan Bội Châu (The Enlightenment Triad  Peaceful Modernization)"
           ],
           "answerIndex": 2,
           "explanation": "Phan Châu Trinh."
@@ -15694,10 +15694,10 @@
         {
           "prompt": "What first pillar of Phan Châu Trinh's enlightenment triad focuses on eradicating illiteracy, teaching modern science, and popularizing Quốc Ngữ script?",
           "options": [
-            "Cần vương (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Hậu dân sinh (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Khai dân trí (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Chấn dân khí (The Enlightenment Triad  Peaceful Modernization (U29))"
+            "Cần vương (The Enlightenment Triad  Peaceful Modernization)",
+            "Hậu dân sinh (The Enlightenment Triad  Peaceful Modernization)",
+            "Khai dân trí (The Enlightenment Triad  Peaceful Modernization)",
+            "Chấn dân khí (The Enlightenment Triad  Peaceful Modernization)"
           ],
           "answerIndex": 2,
           "explanation": "Khai dân trí (Enlighten the people's minds)."
@@ -15709,10 +15709,10 @@
         {
           "prompt": "Translate: \"Phan Chau Trinh argued that national sovereignty cannot be achieved through armed force alone without first enlightening popular civic consciousness and establishing practical economic self-reliance.\"",
           "options": [
-            "Phong trào Duy Tân diễn ra tại thủ đô Luân Đôn. (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Phan Châu Trinh lập luận rằng chủ quyền quốc gia không thể đạt được chỉ bằng vũ lực nếu trước hết không khai sáng ý thức công dân của nhân dân và thiết lập sự tự lực kinh tế thiết thực. (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Khai dân trí là một trò chơi điện tử trực tuyến. (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Phan Châu Trinh ủng hộ chế độ phong kiến tuyệt đối. (The Enlightenment Triad  Peaceful Modernization (U29))"
+            "Phong trào Duy Tân diễn ra tại thủ đô Luân Đôn. (The Enlightenment Triad  Peaceful Modernization)",
+            "Phan Châu Trinh lập luận rằng chủ quyền quốc gia không thể đạt được chỉ bằng vũ lực nếu trước hết không khai sáng ý thức công dân của nhân dân và thiết lập sự tự lực kinh tế thiết thực. (The Enlightenment Triad  Peaceful Modernization)",
+            "Khai dân trí là một trò chơi điện tử trực tuyến. (The Enlightenment Triad  Peaceful Modernization)",
+            "Phan Châu Trinh ủng hộ chế độ phong kiến tuyệt đối. (The Enlightenment Triad  Peaceful Modernization)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Phan Châu Trinh analysis translation.",
@@ -15721,10 +15721,10 @@
         {
           "prompt": "What peaceful, progressive cultural movement was launched in central Vietnam in 1906 by Phan Châu Trinh, Huỳnh Thúc Kháng, and Trần Quý Cáp?",
           "options": [
-            "Phong trào Duy Tân (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Phong trào Đông Du (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Phong trào Xô Viết Nghệ Tĩnh (The Enlightenment Triad  Peaceful Modernization (U29))",
-            "Phong trào Cần Vương (The Enlightenment Triad  Peaceful Modernization (U29))"
+            "Phong trào Duy Tân (The Enlightenment Triad  Peaceful Modernization)",
+            "Phong trào Đông Du (The Enlightenment Triad  Peaceful Modernization)",
+            "Phong trào Xô Viết Nghệ Tĩnh (The Enlightenment Triad  Peaceful Modernization)",
+            "Phong trào Cần Vương (The Enlightenment Triad  Peaceful Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "Phong trào Duy Tân.",
@@ -15761,10 +15761,10 @@
         {
           "prompt": "Which world-renowned Vietnamese Zen master founded Plum Village in France, pioneered \"Engaged Buddhism\", and was nominated for the Nobel Peace Prize by Martin Luther King Jr. in 1967?",
           "options": [
-            "Thiền sư Thích Nhất Hạnh (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Thiền sư Thích Thanh Từ (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Thiền sư Vạn Hạnh (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Thiền sư Thích Trí Quang (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))"
+            "Thiền sư Thích Nhất Hạnh (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Thiền sư Thích Thanh Từ (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Thiền sư Vạn Hạnh (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Thiền sư Thích Trí Quang (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)"
           ],
           "answerIndex": 0,
           "explanation": "Thiền sư Thích Nhất Hạnh."
@@ -15776,10 +15776,10 @@
         {
           "prompt": "What profound ontological concept was coined in English by Thích Nhất Hạnh to express the radical Buddhist truth that nothing exists in isolation (Tương tức)?",
           "options": [
-            "Non-attachment (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Karma (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Nirvana (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Interbeing (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))"
+            "Non-attachment (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Karma (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Nirvana (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Interbeing (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)"
           ],
           "answerIndex": 3,
           "explanation": "Interbeing (Tương tức)."
@@ -15791,10 +15791,10 @@
         {
           "prompt": "Translate: \"Thich Nhat Hanh's philosophy of Interbeing demonstrates that peace in the world begins with cultivating mindful compassionate awareness in the present moment.\"",
           "options": [
-            "Triết lý Tương tức của Thích Nhất Hạnh chứng minh rằng hòa bình trên thế giới bắt đầu từ việc nuôi dưỡng nhận thức từ bi tỉnh thức trong giây phút hiện tại. (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Làng Mai là một nhà máy sản xuất ô tô ở Paris. (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Chánh niệm chỉ được thực hành trong lúc ngủ say. (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Thích Nhất Hạnh là một chính khách La Mã. (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))"
+            "Triết lý Tương tức của Thích Nhất Hạnh chứng minh rằng hòa bình trên thế giới bắt đầu từ việc nuôi dưỡng nhận thức từ bi tỉnh thức trong giây phút hiện tại. (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Làng Mai là một nhà máy sản xuất ô tô ở Paris. (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Chánh niệm chỉ được thực hành trong lúc ngủ say. (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Thích Nhất Hạnh là một chính khách La Mã. (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Thích Nhất Hạnh analysis translation.",
@@ -15803,10 +15803,10 @@
         {
           "prompt": "In which ancient temple in Huế did Thích Nhất Hạnh enter the monkhood as a novice and return to spend the final peaceful years of his life?",
           "options": [
-            "Chùa Diệu Đế (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Chùa Trấn Quốc (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Chùa Thiên Mụ (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))",
-            "Tổ đình Từ Hiếu (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing (U29))"
+            "Chùa Diệu Đế (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Chùa Trấn Quốc (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Chùa Thiên Mụ (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)",
+            "Tổ đình Từ Hiếu (C2 synthesis on Engaged Buddhism  The Art of Mindful Interbeing)"
           ],
           "answerIndex": 3,
           "explanation": "Tổ đình Từ Hiếu (Huế).",
@@ -15843,10 +15843,10 @@
         {
           "prompt": "Which master Vietnamese director won the Cannes Caméra d'Or for \"The Scent of Green Papaya\" (1993) and the Venice Golden Lion for \"Cyclo\" (1995)?",
           "options": [
-            "Đặng Nhật Minh (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Nguyễn Hồng Sến (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Phạm Thiên Ân (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Trần Anh Hùng (The Tactile Sensuality of Light  The Poetry of Food (U30))"
+            "Đặng Nhật Minh (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Nguyễn Hồng Sến (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Phạm Thiên Ân (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Trần Anh Hùng (The Tactile Sensuality of Light  The Poetry of Food)"
           ],
           "answerIndex": 3,
           "explanation": "Trần Anh Hùng."
@@ -15858,10 +15858,10 @@
         {
           "prompt": "Which iconic Hong Kong actor starred as the tragic Poet in Trần Anh Hùng's 1995 Venice Golden Lion winner \"Cyclo\"?",
           "options": [
-            "Lương Triều Vỹ (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Châu Nhuận Phát (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Lưu Đức Hoa (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Trương Quốc Vinh (The Tactile Sensuality of Light  The Poetry of Food (U30))"
+            "Lương Triều Vỹ (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Châu Nhuận Phát (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Lưu Đức Hoa (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Trương Quốc Vinh (The Tactile Sensuality of Light  The Poetry of Food)"
           ],
           "answerIndex": 0,
           "explanation": "Lương Triều Vỹ (Tony Leung Chiu-wai)."
@@ -15873,10 +15873,10 @@
         {
           "prompt": "Translate: \"Tran Anh Hung transformed everyday culinary preparation into high visual poetry, using fluid camera gliding and exquisite sound design to celebrate tactile sensory memory.\"",
           "options": [
-            "Mùi đu đủ xanh là một bộ phim khoa học viễn tưởng về không gian. (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Trần Anh Hùng là một kiến trúc sư xây dựng cầu đường. (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Xích Lô là một bộ phim hài kịch thiếu nhi tại London. (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Trần Anh Hùng đã biến nghệ thuật ẩm thực đời thường thành thi ca thị giác đỉnh cao, sử dụng chuyển động máy quay lướt êm ả và thiết kế âm thanh tinh tế để tôn vinh ký ức giác quan xúc giác. (The Tactile Sensuality of Light  The Poetry of Food (U30))"
+            "Mùi đu đủ xanh là một bộ phim khoa học viễn tưởng về không gian. (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Trần Anh Hùng là một kiến trúc sư xây dựng cầu đường. (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Xích Lô là một bộ phim hài kịch thiếu nhi tại London. (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Trần Anh Hùng đã biến nghệ thuật ẩm thực đời thường thành thi ca thị giác đỉnh cao, sử dụng chuyển động máy quay lướt êm ả và thiết kế âm thanh tinh tế để tôn vinh ký ức giác quan xúc giác. (The Tactile Sensuality of Light  The Poetry of Food)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Trần Anh Hùng analysis translation.",
@@ -15885,10 +15885,10 @@
         {
           "prompt": "What prestigious prize was awarded to Trần Anh Hùng at the 76th Cannes Film Festival in 2023 for *The Taste of Things* (Muôn vị nhân gian)?",
           "options": [
-            "Giải Kịch bản xuất sắc (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Cành cọ Vàng (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Giải Đạo diễn xuất sắc nhất (The Tactile Sensuality of Light  The Poetry of Food (U30))",
-            "Giải Ban giám khảo (The Tactile Sensuality of Light  The Poetry of Food (U30))"
+            "Giải Kịch bản xuất sắc (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Cành cọ Vàng (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Giải Đạo diễn xuất sắc nhất (The Tactile Sensuality of Light  The Poetry of Food)",
+            "Giải Ban giám khảo (The Tactile Sensuality of Light  The Poetry of Food)"
           ],
           "answerIndex": 2,
           "explanation": "Giải Đạo diễn xuất sắc nhất.",
@@ -15925,10 +15925,10 @@
         {
           "prompt": "Which master Vietnamese director created \"When the Tenth Month Comes\" (1984), selected by CNN as one of the 18 greatest Asian films of all time?",
           "options": [
-            "Đặng Nhật Minh (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Nguyễn Hồng Sến (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Hải Ninh (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Phạm Văn Khoa (Village Tragedy  The Humanity of Peasant Memory (U30))"
+            "Đặng Nhật Minh (Village Tragedy  The Humanity of Peasant Memory)",
+            "Nguyễn Hồng Sến (Village Tragedy  The Humanity of Peasant Memory)",
+            "Hải Ninh (Village Tragedy  The Humanity of Peasant Memory)",
+            "Phạm Văn Khoa (Village Tragedy  The Humanity of Peasant Memory)"
           ],
           "answerIndex": 0,
           "explanation": "Đặng Nhật Minh."
@@ -15940,10 +15940,10 @@
         {
           "prompt": "Which celebrated Vietnamese actress portrayed the devoted village widow Duyên in Đặng Nhật Minh's 1984 masterpiece \"Bao giờ cho đến tháng Mười\"?",
           "options": [
-            "Lê Vân (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Như Quỳnh (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Trà Giang (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Minh Châu (Village Tragedy  The Humanity of Peasant Memory (U30))"
+            "Lê Vân (Village Tragedy  The Humanity of Peasant Memory)",
+            "Như Quỳnh (Village Tragedy  The Humanity of Peasant Memory)",
+            "Trà Giang (Village Tragedy  The Humanity of Peasant Memory)",
+            "Minh Châu (Village Tragedy  The Humanity of Peasant Memory)"
           ],
           "answerIndex": 0,
           "explanation": "Lê Vân."
@@ -15955,10 +15955,10 @@
         {
           "prompt": "Translate: \"Dang Nhat Minh eschewed triumphant military propaganda in favor of quiet spiritual compassion, exploring the profound private grief endured by women in Northern Vietnamese villages.\"",
           "options": [
-            "Bao giờ cho đến tháng Mười là một bộ phim hành động quay tại Los Angeles. (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Đặng Nhật Minh là một phi công thử nghiệm máy bay phản lực. (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Đặng Nhật Minh đã từ chối tuyên truyền quân sự chiến thắng để hướng tới lòng từ bi tâm linh tĩnh lặng, khám phá nỗi đau buồn thầm kín sâu sắc của những người phụ nữ tại các làng quê Bắc Bộ. (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Lê Vân là một ca sĩ nhạc rock phương Tây. (Village Tragedy  The Humanity of Peasant Memory (U30))"
+            "Bao giờ cho đến tháng Mười là một bộ phim hành động quay tại Los Angeles. (Village Tragedy  The Humanity of Peasant Memory)",
+            "Đặng Nhật Minh là một phi công thử nghiệm máy bay phản lực. (Village Tragedy  The Humanity of Peasant Memory)",
+            "Đặng Nhật Minh đã từ chối tuyên truyền quân sự chiến thắng để hướng tới lòng từ bi tâm linh tĩnh lặng, khám phá nỗi đau buồn thầm kín sâu sắc của những người phụ nữ tại các làng quê Bắc Bộ. (Village Tragedy  The Humanity of Peasant Memory)",
+            "Lê Vân là một ca sĩ nhạc rock phương Tây. (Village Tragedy  The Humanity of Peasant Memory)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate Đặng Nhật Minh analysis translation.",
@@ -15967,10 +15967,10 @@
         {
           "prompt": "Which heroic female wartime doctor's real diary formed the basis of Đặng Nhật Minh's acclaimed 2009 film *Đừng đốt* (Don't Burn It)?",
           "options": [
-            "Bác sĩ Tôn Thất Tùng (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Bác sĩ Đặng Thùy Trâm (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Bác sĩ Phạm Ngọc Thạch (Village Tragedy  The Humanity of Peasant Memory (U30))",
-            "Bác sĩ Đặng Văn Ngữ (Village Tragedy  The Humanity of Peasant Memory (U30))"
+            "Bác sĩ Tôn Thất Tùng (Village Tragedy  The Humanity of Peasant Memory)",
+            "Bác sĩ Đặng Thùy Trâm (Village Tragedy  The Humanity of Peasant Memory)",
+            "Bác sĩ Phạm Ngọc Thạch (Village Tragedy  The Humanity of Peasant Memory)",
+            "Bác sĩ Đặng Văn Ngữ (Village Tragedy  The Humanity of Peasant Memory)"
           ],
           "answerIndex": 1,
           "explanation": "Bác sĩ Đặng Thùy Trâm.",
@@ -16007,10 +16007,10 @@
         {
           "prompt": "Which master Vietnamese director created the 1979 wetland wartime masterpiece \"Cánh đồng hoang\" (The Abandoned Field), winning the Gold Prize at Moscow?",
           "options": [
-            "Nguyễn Hồng Sến (The Floating Cradle  The Wetland Battle (U30))",
-            "Hải Ninh (The Floating Cradle  The Wetland Battle (U30))",
-            "Trần Phương (The Floating Cradle  The Wetland Battle (U30))",
-            "Bùi Đình Hạc (The Floating Cradle  The Wetland Battle (U30))"
+            "Nguyễn Hồng Sến (The Floating Cradle  The Wetland Battle)",
+            "Hải Ninh (The Floating Cradle  The Wetland Battle)",
+            "Trần Phương (The Floating Cradle  The Wetland Battle)",
+            "Bùi Đình Hạc (The Floating Cradle  The Wetland Battle)"
           ],
           "answerIndex": 0,
           "explanation": "Nguyễn Hồng Sến."
@@ -16022,10 +16022,10 @@
         {
           "prompt": "In which vast flooded wetland region of the Mekong Delta is the stilt-house survival of Ba Đô and Sáu Xoa set in \"Cánh đồng hoang\"?",
           "options": [
-            "Đồng Tháp Mười (The Floating Cradle  The Wetland Battle (U30))",
-            "Bán đảo Cần Giờ (The Floating Cradle  The Wetland Battle (U30))",
-            "Đảo Phú Quốc (The Floating Cradle  The Wetland Battle (U30))",
-            "Rừng U Minh Cà Mau (The Floating Cradle  The Wetland Battle (U30))"
+            "Đồng Tháp Mười (The Floating Cradle  The Wetland Battle)",
+            "Bán đảo Cần Giờ (The Floating Cradle  The Wetland Battle)",
+            "Đảo Phú Quốc (The Floating Cradle  The Wetland Battle)",
+            "Rừng U Minh Cà Mau (The Floating Cradle  The Wetland Battle)"
           ],
           "answerIndex": 0,
           "explanation": "Đồng Tháp Mười (The Plain of Reeds)."
@@ -16037,10 +16037,10 @@
         {
           "prompt": "Translate: \"The Abandoned Field established a striking visual contrast between advanced aerial gunship technology and the primordial aquatic resilience of a family in the flooded Mekong Delta.\"",
           "options": [
-            "Nguyễn Hồng Sến là một phi hành gia vũ trụ người Nga. (The Floating Cradle  The Wetland Battle (U30))",
-            "Cánh đồng hoang đã thiết lập một sự tương phản thị giác ấn tượng giữa công nghệ trực thăng vũ trang tối tân và sức sống dẻo dai nguyên sơ gắn liền với sông nước của một gia đình nơi Đồng bằng sông Cửu Long mùa nước nổi. (The Floating Cradle  The Wetland Battle (U30))",
-            "Trịnh Công Sơn là một diễn viên đóng thế trong phim hành động. (The Floating Cradle  The Wetland Battle (U30))",
-            "Cánh đồng hoang là một bộ phim hoạt hình vẽ tay tại Nhật Bản. (The Floating Cradle  The Wetland Battle (U30))"
+            "Nguyễn Hồng Sến là một phi hành gia vũ trụ người Nga. (The Floating Cradle  The Wetland Battle)",
+            "Cánh đồng hoang đã thiết lập một sự tương phản thị giác ấn tượng giữa công nghệ trực thăng vũ trang tối tân và sức sống dẻo dai nguyên sơ gắn liền với sông nước của một gia đình nơi Đồng bằng sông Cửu Long mùa nước nổi. (The Floating Cradle  The Wetland Battle)",
+            "Trịnh Công Sơn là một diễn viên đóng thế trong phim hành động. (The Floating Cradle  The Wetland Battle)",
+            "Cánh đồng hoang là một bộ phim hoạt hình vẽ tay tại Nhật Bản. (The Floating Cradle  The Wetland Battle)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Nguyễn Hồng Sến analysis translation.",
@@ -16049,10 +16049,10 @@
         {
           "prompt": "Which renowned Vietnamese writer penned the original short story and screenplay for *Cánh đồng hoang* (as well as *Mùa gió chướng*)?",
           "options": [
-            "Nguyễn Quang Sáng (The Floating Cradle  The Wetland Battle (U30))",
-            "Nguyễn Ngọc Tư (The Floating Cradle  The Wetland Battle (U30))",
-            "Anh Đức (The Floating Cradle  The Wetland Battle (U30))",
-            "Sơn Nam (The Floating Cradle  The Wetland Battle (U30))"
+            "Nguyễn Quang Sáng (The Floating Cradle  The Wetland Battle)",
+            "Nguyễn Ngọc Tư (The Floating Cradle  The Wetland Battle)",
+            "Anh Đức (The Floating Cradle  The Wetland Battle)",
+            "Sơn Nam (The Floating Cradle  The Wetland Battle)"
           ],
           "answerIndex": 0,
           "explanation": "Nguyễn Quang Sáng.",
@@ -16089,10 +16089,10 @@
         {
           "prompt": "Which master Vietnamese director directed the 2018 feudal period drama \"The Third Wife\" (Người vợ ba), winning the NETPAC Award at Toronto?",
           "options": [
-            "Bùi Thạc Chuyên (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Lê Bảo (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Nguyễn Phương Anh (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Trần Dũng Thanh Huy (Frenetic Urban Energy  Patriarchal Confinement (U30))"
+            "Bùi Thạc Chuyên (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Lê Bảo (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Nguyễn Phương Anh (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Trần Dũng Thanh Huy (Frenetic Urban Energy  Patriarchal Confinement)"
           ],
           "answerIndex": 2,
           "explanation": "Nguyễn Phương Anh (Ash Mayfair)."
@@ -16104,10 +16104,10 @@
         {
           "prompt": "Which high-energy 2019 Saigon street drama, directed by Trần Dũng Thanh Huy, won the prestigious New Currents Award at the Busan International Film Festival?",
           "options": [
-            "«Đập cánh giữa không trung» (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "«Tro tàn rực rỡ» (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "«Ròm» (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "«Vị» (Frenetic Urban Energy  Patriarchal Confinement (U30))"
+            "«Đập cánh giữa không trung» (Frenetic Urban Energy  Patriarchal Confinement)",
+            "«Tro tàn rực rỡ» (Frenetic Urban Energy  Patriarchal Confinement)",
+            "«Ròm» (Frenetic Urban Energy  Patriarchal Confinement)",
+            "«Vị» (Frenetic Urban Energy  Patriarchal Confinement)"
           ],
           "answerIndex": 2,
           "explanation": "«Ròm»."
@@ -16119,10 +16119,10 @@
         {
           "prompt": "Translate: \"Rom captured the kinetic frenzy of Saigon's margins through relentless handheld tracking shots, depicting marginalized youth fighting for survival amidst speculative urban demolition.\"",
           "options": [
-            "Ròm đã ghi lại sự cuồng nhiệt đầy động lực nơi lề đường Sài Gòn thông qua những cú máy bám đuổi cầm tay dồn dập, khắc họa những đứa trẻ bên lề xã hội vật lộn sinh tồn giữa các khu chung cư đang bị giải tỏa. (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Người vợ ba là một bộ phim hài hoạt hình 3D. (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Trần Dũng Thanh Huy đã quay phim Ròm trong 2 ngày tại Paris. (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Ash Mayfair là một đạo diễn phim tài liệu về động vật ở Bắc Cực. (Frenetic Urban Energy  Patriarchal Confinement (U30))"
+            "Ròm đã ghi lại sự cuồng nhiệt đầy động lực nơi lề đường Sài Gòn thông qua những cú máy bám đuổi cầm tay dồn dập, khắc họa những đứa trẻ bên lề xã hội vật lộn sinh tồn giữa các khu chung cư đang bị giải tỏa. (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Người vợ ba là một bộ phim hài hoạt hình 3D. (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Trần Dũng Thanh Huy đã quay phim Ròm trong 2 ngày tại Paris. (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Ash Mayfair là một đạo diễn phim tài liệu về động vật ở Bắc Cực. (Frenetic Urban Energy  Patriarchal Confinement)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Ash Mayfair and Trần Dũng Thanh Huy analysis translation.",
@@ -16131,10 +16131,10 @@
         {
           "prompt": "In which scenic province in Northern Vietnam, famous for its limestone karst towers and emerald rivers, was *The Third Wife* filmed?",
           "options": [
-            "Quảng Ninh (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Hà Giang (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Cao Bằng (Frenetic Urban Energy  Patriarchal Confinement (U30))",
-            "Ninh Bình (Frenetic Urban Energy  Patriarchal Confinement (U30))"
+            "Quảng Ninh (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Hà Giang (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Cao Bằng (Frenetic Urban Energy  Patriarchal Confinement)",
+            "Ninh Bình (Frenetic Urban Energy  Patriarchal Confinement)"
           ],
           "answerIndex": 3,
           "explanation": "Ninh Bình.",
@@ -16171,10 +16171,10 @@
         {
           "prompt": "Which master Vietnamese director won the prestigious Caméra d'Or at the 2023 Cannes Film Festival for \"Inside the Yellow Cocoon Shell\"?",
           "options": [
-            "Phạm Thiên Ân (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Trần Anh Hùng (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Lê Bảo (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Phan Đăng Di (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))"
+            "Phạm Thiên Ân (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Trần Anh Hùng (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Lê Bảo (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Phan Đăng Di (C2 synthesis on The Camra dOr  The Mystical Long Take)"
           ],
           "answerIndex": 0,
           "explanation": "Phạm Thiên Ân."
@@ -16186,10 +16186,10 @@
         {
           "prompt": "In which highland town in Lâm Đồng Province, famous for cool weather and misty tea plantations, is the spiritual journey of \"Bên trong vỏ kén vàng\" set?",
           "options": [
-            "Đà Lạt (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Pleiku (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Buôn Ma Thuột (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Bảo Lộc (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))"
+            "Đà Lạt (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Pleiku (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Buôn Ma Thuột (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Bảo Lộc (C2 synthesis on The Camra dOr  The Mystical Long Take)"
           ],
           "answerIndex": 3,
           "explanation": "Bảo Lộc (Lâm Đồng)."
@@ -16201,10 +16201,10 @@
         {
           "prompt": "Translate: \"Inside the Yellow Cocoon Shell utilized hypnotic unbroken twenty-minute sequence shots and misty mountain landscapes to construct a profound meditation on faith, mortality, and spiritual transcendence.\"",
           "options": [
-            "Phạm Thiên Ân là một đạo diễn phim siêu anh hùng Hollywood. (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Bên trong vỏ kén vàng là một bộ phim hoạt hình về loài bướm. (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Caméra d'Or 2023 được trao cho một bộ phim quay tại Berlin. (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Bên trong vỏ kén vàng đã sử dụng những cú máy dài hai mươi phút không cắt đầy mê hoặc cùng phong cảnh núi non bảng lảng sương mù để kiến tạo một suy niệm sâu sắc về đức tin, sự hữu hạn của đời người và sự siêu thoát tâm linh. (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))"
+            "Phạm Thiên Ân là một đạo diễn phim siêu anh hùng Hollywood. (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Bên trong vỏ kén vàng là một bộ phim hoạt hình về loài bướm. (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Caméra d'Or 2023 được trao cho một bộ phim quay tại Berlin. (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Bên trong vỏ kén vàng đã sử dụng những cú máy dài hai mươi phút không cắt đầy mê hoặc cùng phong cảnh núi non bảng lảng sương mù để kiến tạo một suy niệm sâu sắc về đức tin, sự hữu hạn của đời người và sự siêu thoát tâm linh. (C2 synthesis on The Camra dOr  The Mystical Long Take)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Phạm Thiên Ân analysis translation.",
@@ -16213,10 +16213,10 @@
         {
           "prompt": "What prestigious prize was awarded to *Bên trong vỏ kén vàng* at the 2023 Cannes Film Festival, thirty years after Trần Anh Hùng won the same award in 1993?",
           "options": [
-            "Giải Cành cọ Vàng (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Giải Oscar phim tài liệu (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Giải Caméra d'Or (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))",
-            "Giải Sư tử vàng (C2 synthesis on The Camra dOr  The Mystical Long Take (U30))"
+            "Giải Cành cọ Vàng (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Giải Oscar phim tài liệu (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Giải Caméra d'Or (C2 synthesis on The Camra dOr  The Mystical Long Take)",
+            "Giải Sư tử vàng (C2 synthesis on The Camra dOr  The Mystical Long Take)"
           ],
           "answerIndex": 2,
           "explanation": "Giải Caméra d'Or.",
@@ -16253,10 +16253,10 @@
         {
           "prompt": "Which rare dried maritime ingredient from Quảng Ninh was traditionally simmered in Hanoi beef bones to impart natural savory sweetness to phở broth?",
           "options": [
-            "Tôm khô (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Mực khô (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Cá cơm (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Sá sùng (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))"
+            "Tôm khô (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Mực khô (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Cá cơm (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Sá sùng (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)"
           ],
           "answerIndex": 3,
           "explanation": "Sá sùng (Dried peanut worms / Quan Lạn)."
@@ -16268,10 +16268,10 @@
         {
           "prompt": "What traditional condiment is strictly paired with minimalist Northern Hanoi Phở rather than Southern hoisin sauce?",
           "options": [
-            "Giấm tỏi ớt (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Tương đen (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Sốt mayonnaise (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Bơ đậu phộng (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))"
+            "Giấm tỏi ớt (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Tương đen (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Sốt mayonnaise (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Bơ đậu phộng (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Giấm tỏi ớt (Garlic Vinegar)."
@@ -16283,10 +16283,10 @@
         {
           "prompt": "Translate: \"Hanoi pho broth achieves crystal clarity and profound aromatic depth through twenty-four hours of slow beef bone simmering with charred star anise, cinnamon, and ginger.\"",
           "options": [
-            "Sá sùng là một loại trái cây nhiệt đới ngọt. (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Phở là một món bánh mì nướng của Pháp. (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Nước dùng phở Hà Nội đạt độ trong vắt như pha lê và chiều sâu hương thơm sâu lắng nhờ hai mươi tư giờ ninh chậm xương bò với hoa hồi, quế chi và gừng nướng than. (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Bánh phở được làm từ bột mì và bơ sữa phương Tây. (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))"
+            "Sá sùng là một loại trái cây nhiệt đới ngọt. (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Phở là một món bánh mì nướng của Pháp. (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Nước dùng phở Hà Nội đạt độ trong vắt như pha lê và chiều sâu hương thơm sâu lắng nhờ hai mươi tư giờ ninh chậm xương bò với hoa hồi, quế chi và gừng nướng than. (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Bánh phở được làm từ bột mì và bơ sữa phương Tây. (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate Phở analysis translation.",
@@ -16295,10 +16295,10 @@
         {
           "prompt": "What crispy fried golden dough crullers are traditionally dipped into hot bowls of Northern phở broth in Hanoi?",
           "options": [
-            "Bánh tiêu (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Quẩy (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Bánh đa (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))",
-            "Bánh mì (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam (U31))"
+            "Bánh tiêu (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Quẩy (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Bánh đa (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)",
+            "Bánh mì (The Sacred Ph Broth  The Northern vs Southern Philosophy Ph Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "Quẩy (Bánh quẩy).",
@@ -16335,10 +16335,10 @@
         {
           "prompt": "What key pickled vegetable combination (Đồ chua) provides the crisp sweet-sour acid balance inside an authentic Vietnamese Bánh Mì?",
           "options": [
-            "Củ cải trắng và cà rốt ngâm giấm đường (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Hành tây ngâm (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Cà pháo muối (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Dưa cải muối chua (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))"
+            "Củ cải trắng và cà rốt ngâm giấm đường (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Hành tây ngâm (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Cà pháo muối (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Dưa cải muối chua (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Củ cải trắng và cà rốt ngâm giấm đường."
@@ -16350,10 +16350,10 @@
         {
           "prompt": "In what year was the word \"Banh Mi\" officially added to the Oxford English Dictionary as a distinct global culinary term?",
           "options": [
-            "2011 (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "1990 (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "2023 (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "2000 (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))"
+            "2011 (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "1990 (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "2023 (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "2000 (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "2011."
@@ -16365,10 +16365,10 @@
         {
           "prompt": "Translate: \"Vietnamese Banh Mi harmonizes a paper-thin crispy crust, rich liver pate, savory steamed pork sausage, fresh herbs, and tangy pickled daikon into a global street food masterpiece.\"",
           "options": [
-            "Bánh mì là một loại bánh ngọt nướng trong lò vi sóng. (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Bánh mì Việt Nam hòa quyện lớp vỏ mỏng giòn tan, pate gan béo ngậy, chả lụa đậm đà, rau thơm tươi mát và đồ chua củ cải thanh tao thành một kiệt tác ẩm thực đường phố toàn cầu. (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Chả lụa được làm từ thịt bò nhập khẩu từ Mỹ. (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Pate gan chỉ được ăn kèm với cơm trắng. (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))"
+            "Bánh mì là một loại bánh ngọt nướng trong lò vi sóng. (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Bánh mì Việt Nam hòa quyện lớp vỏ mỏng giòn tan, pate gan béo ngậy, chả lụa đậm đà, rau thơm tươi mát và đồ chua củ cải thanh tao thành một kiệt tác ẩm thực đường phố toàn cầu. (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Chả lụa được làm từ thịt bò nhập khẩu từ Mỹ. (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Pate gan chỉ được ăn kèm với cơm trắng. (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)"
           ],
           "answerIndex": 1,
           "explanation": "Accurate Bánh Mì analysis translation.",
@@ -16377,10 +16377,10 @@
         {
           "prompt": "What rich, golden condiment, hand-whipped from fresh egg yolks and cooking oil, lines the bread alongside liver pâté in authentic Bánh Mì?",
           "options": [
-            "Bơ trứng (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Bơ đậu phộng (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Kem tươi whipping cream (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))",
-            "Phô mai cheddar (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam (U31))"
+            "Bơ trứng (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Bơ đậu phộng (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Kem tươi whipping cream (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)",
+            "Phô mai cheddar (Bnh M  The FrenchVietnamese Culinary Synthesis Bnh M Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Bơ trứng (Fresh Egg Yolk Butter/Mayonnaise).",
@@ -16417,10 +16417,10 @@
         {
           "prompt": "Which essential aromatic Vietnamese herb, with a citrusy-mint profile, is indispensable to authentic Hanoi Bún Chả?",
           "options": [
-            "Rau kinh giới (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Rau răm (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Lá lốt (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Ngải cứu (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))"
+            "Rau kinh giới (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Rau răm (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Lá lốt (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Ngải cứu (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)"
           ],
           "answerIndex": 0,
           "explanation": "Rau kinh giới (Vietnamese Balm)."
@@ -16432,10 +16432,10 @@
         {
           "prompt": "Which ancient craft village on the outskirts of Hanoi has produced fine white rice vermicelli (Bún) for over 400 years?",
           "options": [
-            "Làng bún Phú Đô (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Làng gốm Bát Tràng (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Làng nón Chuông (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Làng lụa Vạn Phúc (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))"
+            "Làng bún Phú Đô (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Làng gốm Bát Tràng (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Làng nón Chuông (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Làng lụa Vạn Phúc (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)"
           ],
           "answerIndex": 0,
           "explanation": "Làng bún Phú Đô."
@@ -16447,10 +16447,10 @@
         {
           "prompt": "Translate: \"Hanoi bun cha features pork patties grilled over charcoal in bamboo tongs, submerged in a warm sweet-sour dipping broth with green papaya, and served with Phu Do rice vermicelli.\"",
           "options": [
-            "Bún chả Hà Nội nổi bật với những viên chả nướng trên than hoa bằng kẹp tre, thả trong bát nước chấm chua ngọt ấm nóng cùng đu đủ xanh, ăn kèm bún sợi Phú Đô. (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Anthony Bourdain là một nhạc trưởng dàn nhạc giao hưởng. (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Than hoa là một loại khí gas công nghiệp nén. (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Bún chả là món lẩu hải sản cay nồng của miền Trung. (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))"
+            "Bún chả Hà Nội nổi bật với những viên chả nướng trên than hoa bằng kẹp tre, thả trong bát nước chấm chua ngọt ấm nóng cùng đu đủ xanh, ăn kèm bún sợi Phú Đô. (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Anthony Bourdain là một nhạc trưởng dàn nhạc giao hưởng. (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Than hoa là một loại khí gas công nghiệp nén. (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Bún chả là món lẩu hải sản cay nồng của miền Trung. (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate Bún Chả analysis translation.",
@@ -16459,10 +16459,10 @@
         {
           "prompt": "Which American president famously dined on Bún Chả with Anthony Bourdain in Hanoi in May 2016?",
           "options": [
-            "Bill Clinton (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Joe Biden (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "George W. Bush (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))",
-            "Barack Obama (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni (U31))"
+            "Bill Clinton (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Joe Biden (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "George W. Bush (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)",
+            "Barack Obama (Bn Ch H Ni  The Charcoal Hearth Bn Ch H Ni)"
           ],
           "answerIndex": 3,
           "explanation": "Barack Obama.",
@@ -16499,10 +16499,10 @@
         {
           "prompt": "What is the ancestral golden ratio of fresh anchovies to sea salt used in traditional Phú Quốc fish sauce fermentation vats?",
           "options": [
-            "10 cá : 1 muối (The Ancient Terroir of Fish Sauce (U31))",
-            "5 cá : 1 muối (The Ancient Terroir of Fish Sauce (U31))",
-            "3 cá : 1 muối (The Ancient Terroir of Fish Sauce (U31))",
-            "1 cá : 1 muối (The Ancient Terroir of Fish Sauce (U31))"
+            "10 cá : 1 muối (The Ancient Terroir of Fish Sauce)",
+            "5 cá : 1 muối (The Ancient Terroir of Fish Sauce)",
+            "3 cá : 1 muối (The Ancient Terroir of Fish Sauce)",
+            "1 cá : 1 muối (The Ancient Terroir of Fish Sauce)"
           ],
           "answerIndex": 2,
           "explanation": "3 cá : 1 muối."
@@ -16514,10 +16514,10 @@
         {
           "prompt": "In what year did Phú Quốc Fish Sauce become the first Southeast Asian product to receive European Union Protected Geographical Indication (PGI) status?",
           "options": [
-            "2020 (The Ancient Terroir of Fish Sauce (U31))",
-            "2005 (The Ancient Terroir of Fish Sauce (U31))",
-            "2012 (The Ancient Terroir of Fish Sauce (U31))",
-            "1995 (The Ancient Terroir of Fish Sauce (U31))"
+            "2020 (The Ancient Terroir of Fish Sauce)",
+            "2005 (The Ancient Terroir of Fish Sauce)",
+            "2012 (The Ancient Terroir of Fish Sauce)",
+            "1995 (The Ancient Terroir of Fish Sauce)"
           ],
           "answerIndex": 2,
           "explanation": "2012."
@@ -16529,10 +16529,10 @@
         {
           "prompt": "Translate: \"Phu Quoc fish sauce ferments fresh plankton-rich anchovies and sea salt in giant tropical hardwood vats for fifteen months, yielding a crystal-clear amber sauce with natural 43°N nitrogen protein.\"",
           "options": [
-            "Thùng ủ nước mắm được làm bằng nhựa tái chế ở Paris. (The Ancient Terroir of Fish Sauce (U31))",
-            "Cá cơm than là một loài cá nước ngọt ở sông Hồng. (The Ancient Terroir of Fish Sauce (U31))",
-            "Nước mắm Phú Quốc được chưng cất từ dầu dừa công nghiệp. (The Ancient Terroir of Fish Sauce (U31))",
-            "Nước mắm Phú Quốc ủ cá cơm than tươi giàu phù du và muối biển trong các thùng gỗ rừng nhiệt đới khổng lồ suốt mười lăm tháng, tạo ra dòng nước mắm hổ phách trong vắt với độ đạm tự nhiên 43°N. (The Ancient Terroir of Fish Sauce (U31))"
+            "Thùng ủ nước mắm được làm bằng nhựa tái chế ở Paris. (The Ancient Terroir of Fish Sauce)",
+            "Cá cơm than là một loài cá nước ngọt ở sông Hồng. (The Ancient Terroir of Fish Sauce)",
+            "Nước mắm Phú Quốc được chưng cất từ dầu dừa công nghiệp. (The Ancient Terroir of Fish Sauce)",
+            "Nước mắm Phú Quốc ủ cá cơm than tươi giàu phù du và muối biển trong các thùng gỗ rừng nhiệt đới khổng lồ suốt mười lăm tháng, tạo ra dòng nước mắm hổ phách trong vắt với độ đạm tự nhiên 43°N. (The Ancient Terroir of Fish Sauce)"
           ],
           "answerIndex": 3,
           "explanation": "Accurate Nước Mắm analysis translation.",
@@ -16541,10 +16541,10 @@
         {
           "prompt": "What natural visual color confirms authentic, high-protein traditional Phú Quốc fish sauce when viewed in natural light?",
           "options": [
-            "Màu xanh lục (The Ancient Terroir of Fish Sauce (U31))",
-            "Màu trắng sữa (The Ancient Terroir of Fish Sauce (U31))",
-            "Màu cánh gián hổ phách trong suốt (The Ancient Terroir of Fish Sauce (U31))",
-            "Màu đen kịt (The Ancient Terroir of Fish Sauce (U31))"
+            "Màu xanh lục (The Ancient Terroir of Fish Sauce)",
+            "Màu trắng sữa (The Ancient Terroir of Fish Sauce)",
+            "Màu cánh gián hổ phách trong suốt (The Ancient Terroir of Fish Sauce)",
+            "Màu đen kịt (The Ancient Terroir of Fish Sauce)"
           ],
           "answerIndex": 2,
           "explanation": "Màu cánh gián hổ phách trong suốt.",
@@ -16581,10 +16581,10 @@
         {
           "prompt": "Which visionary bartender at Hanoi's Hotel Metropole invented famous Vietnamese Egg Coffee (Cà phê trứng) in 1946 during milk shortages?",
           "options": [
-            "Cụ Nguyễn Văn Giảng (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Cụ Đinh Văn Phúc (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Cụ Năng (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Cụ Lâm (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))"
+            "Cụ Nguyễn Văn Giảng (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Cụ Đinh Văn Phúc (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Cụ Năng (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Cụ Lâm (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)"
           ],
           "answerIndex": 0,
           "explanation": "Cụ Nguyễn Văn Giảng (Café Giảng)."
@@ -16596,10 +16596,10 @@
         {
           "prompt": "What traditional translucent Huế tapioca dumpling, wrapped in banana leaves, reveals a whole caramelized shrimp and pork belly inside its chewy glassy dough?",
           "options": [
-            "Bánh nậm (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Bánh bèo (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Bánh ít trần (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Bánh bột lọc (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))"
+            "Bánh nậm (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Bánh bèo (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Bánh ít trần (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Bánh bột lọc (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)"
           ],
           "answerIndex": 3,
           "explanation": "Bánh bột lọc."
@@ -16611,10 +16611,10 @@
         {
           "prompt": "Translate: \"Hanoi egg coffee whips fresh egg yolks and honey into a dense, velvety custard foam, floating luxuriously on top of intense, dark roasted Vietnamese Robusta coffee.\"",
           "options": [
-            "Bánh bột lọc được chiên trong chảo dầu ngập mỡ ở nhiệt độ cao. (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Cơm hến là món bánh nướng socola của cung đình Pháp. (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Cà phê trứng Hà Nội đánh bông lòng đỏ trứng gà tươi và mật ong thành lớp bọt kem trứng mềm mịn như nhung, nổi bồng bềnh sang trọng trên nền cà phê Robusta Việt Nam đậm đà. (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Cà phê trứng là một loại trà xanh ướp hoa nhài. (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))"
+            "Bánh bột lọc được chiên trong chảo dầu ngập mỡ ở nhiệt độ cao. (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Cơm hến là món bánh nướng socola của cung đình Pháp. (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Cà phê trứng Hà Nội đánh bông lòng đỏ trứng gà tươi và mật ong thành lớp bọt kem trứng mềm mịn như nhung, nổi bồng bềnh sang trọng trên nền cà phê Robusta Việt Nam đậm đà. (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Cà phê trứng là một loại trà xanh ướp hoa nhài. (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)"
           ],
           "answerIndex": 2,
           "explanation": "Accurate Egg Coffee and Hue cuisine analysis translation.",
@@ -16623,10 +16623,10 @@
         {
           "prompt": "On which famous alluvial island in the Perfume River (Sông Hương) in Huế are the sweet baby river clams harvested for authentic Cơm Hến?",
           "options": [
-            "Đảo Phú Quốc (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Cồn Hến (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Bán đảo Sơn Trà (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))",
-            "Cồn Dã Viên (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu (U31))"
+            "Đảo Phú Quốc (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Cồn Hến (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Bán đảo Sơn Trà (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)",
+            "Cồn Dã Viên (C2 synthesis on Imperial Hue Gastronomy  Hanoi Egg Coffee Alchemy m thc Cung nh Hu)"
           ],
           "answerIndex": 1,
           "explanation": "Cồn Hến (Huế).",
@@ -16668,10 +16668,10 @@
         {
           "prompt": "Nhân vật mở màn biểu tượng và dẫn chuyện quen thuộc nhất trong nghệ thuật múa rối nước truyền thống Việt Nam là ai?",
           "options": [
-            "Chú Tễu (Ngh thut Ma ri nc truyn thng (U32))",
-            "Thị Màu (Ngh thut Ma ri nc truyn thng (U32))",
-            "Chị Hằng (Ngh thut Ma ri nc truyn thng (U32))",
-            "Cuội (Ngh thut Ma ri nc truyn thng (U32))"
+            "Chú Tễu (Ngh thut Ma ri nc truyn thng)",
+            "Thị Màu (Ngh thut Ma ri nc truyn thng)",
+            "Chị Hằng (Ngh thut Ma ri nc truyn thng)",
+            "Cuội (Ngh thut Ma ri nc truyn thng)"
           ],
           "answerIndex": 0,
           "explanation": "Chú Tễu là linh hồn dẫn chuyện hóm hỉnh và đại diện cho sự lạc quan của người nông dân."
@@ -16683,10 +16683,10 @@
         {
           "prompt": "Con rối nước truyền thống Việt Nam thường được đẽo từ loại gỗ nhẹ và mềm nào để nổi tốt trên mặt nước?",
           "options": [
-            "Gỗ cây sung (Ngh thut Ma ri nc truyn thng (U32))",
-            "Gỗ mun đen cứng (Ngh thut Ma ri nc truyn thng (U32))",
-            "Gỗ sồi nhập khẩu (Ngh thut Ma ri nc truyn thng (U32))",
-            "Kim loại nhôm đúc (Ngh thut Ma ri nc truyn thng (U32))"
+            "Gỗ cây sung (Ngh thut Ma ri nc truyn thng)",
+            "Gỗ mun đen cứng (Ngh thut Ma ri nc truyn thng)",
+            "Gỗ sồi nhập khẩu (Ngh thut Ma ri nc truyn thng)",
+            "Kim loại nhôm đúc (Ngh thut Ma ri nc truyn thng)"
           ],
           "answerIndex": 0,
           "explanation": "Gỗ sung nhẹ, xốp, dễ đục đẽo và bền bỉ khi ngâm nước được quét nhiều lớp sơn ta truyền thống."
@@ -16698,10 +16698,10 @@
         {
           "prompt": "Công trình kiến trúc dân gian nổi trên mặt nước dùng làm sân khấu biểu diễn múa rối nước có tên gọi là gì?",
           "options": [
-            "Thủy đình (Ngh thut Ma ri nc truyn thng (U32))",
-            "Chòi canh (Ngh thut Ma ri nc truyn thng (U32))",
-            "Gác chuông (Ngh thut Ma ri nc truyn thng (U32))",
-            "Lầu nguyệt (Ngh thut Ma ri nc truyn thng (U32))"
+            "Thủy đình (Ngh thut Ma ri nc truyn thng)",
+            "Chòi canh (Ngh thut Ma ri nc truyn thng)",
+            "Gác chuông (Ngh thut Ma ri nc truyn thng)",
+            "Lầu nguyệt (Ngh thut Ma ri nc truyn thng)"
           ],
           "answerIndex": 0,
           "explanation": "Thủy đình là nhà biểu diễn trên mặt nước với mái ngói cong cổ kính.",
@@ -16710,10 +16710,10 @@
         {
           "prompt": "Văn bia chùa nào dựng năm 1121 thời Lý có khắc ghi lại những buổi trình diễn múa rối nước dâng vua thưởng ngoạn?",
           "options": [
-            "Bia tháp Sùng Thiện Diên Linh (Ngh thut Ma ri nc truyn thng (U32))",
-            "Bia chùa Dâu (Ngh thut Ma ri nc truyn thng (U32))",
-            "Bia chùa Một Cột (Ngh thut Ma ri nc truyn thng (U32))",
-            "Bia chùa Hương (Ngh thut Ma ri nc truyn thng (U32))"
+            "Bia tháp Sùng Thiện Diên Linh (Ngh thut Ma ri nc truyn thng)",
+            "Bia chùa Dâu (Ngh thut Ma ri nc truyn thng)",
+            "Bia chùa Một Cột (Ngh thut Ma ri nc truyn thng)",
+            "Bia chùa Hương (Ngh thut Ma ri nc truyn thng)"
           ],
           "answerIndex": 0,
           "explanation": "Văn bia tháp Sùng Thiện Diên Linh là cứ liệu lịch sử thành văn cổ nhất mô tả múa rối nước thời Lý.",
@@ -16755,10 +16755,10 @@
         {
           "prompt": "Nhân vật nữ nào trong tích chèo cổ Quan Âm Thị Kính phải chịu nỗi oan hai lần nhưng nhẫn nhục tu hành đắc đạo?",
           "options": [
-            "Thị Kính (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Thị Mầu (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Súy Vân (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Châu Long (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))"
+            "Thị Kính (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Thị Mầu (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Súy Vân (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Châu Long (Ht Cho v Sn khu Dn gian ng bng Bc B)"
           ],
           "answerIndex": 0,
           "explanation": "Thị Kính chịu oan giết chồng và oan nhận nuôi con của Thị Mầu, biểu tượng cho lòng từ bi nhẫn nhục."
@@ -16770,10 +16770,10 @@
         {
           "prompt": "Nhạc cụ nào giữ vai trò chỉ huy nhịp điệu và linh hồn của dàn nhạc đệm trong nghệ thuật Chèo cổ?",
           "options": [
-            "Trống chèo (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Đàn ghi-ta điện (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Kèn đồng phương Tây (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Trống jazz hiện đại (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))"
+            "Trống chèo (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Đàn ghi-ta điện (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Kèn đồng phương Tây (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Trống jazz hiện đại (Ht Cho v Sn khu Dn gian ng bng Bc B)"
           ],
           "answerIndex": 0,
           "explanation": "Tiếng trống chèo («cắc, tùng») dẫn dắt lời hát, điệu múa và cảm xúc của diễn viên."
@@ -16785,10 +16785,10 @@
         {
           "prompt": "Nhân vật hề trong Chèo cổ đại diện cho tiếng nói và góc nhìn của tầng lớp nào trong xã hội phong kiến?",
           "options": [
-            "Người nông dân lao động bình dân yêu chuộng công lý (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Vua chúa triều đình (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Quan lại sai nha (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Thương nhân ngoại quốc (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))"
+            "Người nông dân lao động bình dân yêu chuộng công lý (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Vua chúa triều đình (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Quan lại sai nha (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Thương nhân ngoại quốc (Ht Cho v Sn khu Dn gian ng bng Bc B)"
           ],
           "answerIndex": 0,
           "explanation": "Hề chèo là tiếng nói chân thật của nhân dân lao động đả kích thói đạo đức giả của tầng lớp cai trị.",
@@ -16797,10 +16797,10 @@
         {
           "prompt": "Vở chèo cổ nào ca ngợi tình bạn thủy chung son sắt giữa hai người bạn nho sinh và sự tần tảo của người phụ nữ?",
           "options": [
-            "Lưu Bình - Dương Lễ (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Trương Viên (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Kim Nham (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))",
-            "Nghêu Sò Ốc Hến (Ht Cho v Sn khu Dn gian ng bng Bc B (U32))"
+            "Lưu Bình - Dương Lễ (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Trương Viên (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Kim Nham (Ht Cho v Sn khu Dn gian ng bng Bc B)",
+            "Nghêu Sò Ốc Hến (Ht Cho v Sn khu Dn gian ng bng Bc B)"
           ],
           "answerIndex": 0,
           "explanation": "*Lưu Bình - Dương Lễ* tôn vinh nghĩa cử của nàng Châu Long nuôi bạn của chồng ăn học thành tài.",
@@ -16842,10 +16842,10 @@
         {
           "prompt": "Trong quy ước vẽ mặt nạ (hóa trang) của nghệ thuật Tuồng truyền thống, khuôn mặt màu đỏ son tượng trưng cho tính cách gì?",
           "options": [
-            "Bậc trung thần trượng nghĩa, ngay thẳng và dũng cảm. (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Kẻ phản bội nịnh hót hiểm độc. (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Tên trộm vặt hài hước. (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Người mất trí nhớ. (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))"
+            "Bậc trung thần trượng nghĩa, ngay thẳng và dũng cảm. (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Kẻ phản bội nịnh hót hiểm độc. (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Tên trộm vặt hài hước. (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Người mất trí nhớ. (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)"
           ],
           "answerIndex": 0,
           "explanation": "Mặt đỏ trong nghệ thuật Tuồng đại diện cho nhân vật trung trinh liệt phái khí tiết ngút trời."
@@ -16857,10 +16857,10 @@
         {
           "prompt": "Danh nhân văn hóa quân sự nào được suy tôn là Hậu tổ có công khai sáng và phát triển nền nghệ thuật Tuồng Đàng Trong?",
           "options": [
-            "Đào Duy Từ (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Nguyễn Trãi (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Lê Quý Đôn (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Nguyễn Du (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))"
+            "Đào Duy Từ (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Nguyễn Trãi (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Lê Quý Đôn (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Nguyễn Du (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)"
           ],
           "answerIndex": 0,
           "explanation": "Đào Duy Từ đã lập ra các đội tuồng vũ và truyền dạy bài bản tuồng bác học cho xứ Đàng Trong."
@@ -16872,10 +16872,10 @@
         {
           "prompt": "Nhà hát cổ kính nào nằm trong Tử Cấm Thành của Kinh thành Huế chuyên dùng để biểu diễn Nhã nhạc và Tuồng cung đình?",
           "options": [
-            "Duyệt Thị Đường (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Nhà hát Lớn Hà Nội (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Hòa Bình (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Gia Định (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))"
+            "Duyệt Thị Đường (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Nhà hát Lớn Hà Nội (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Hòa Bình (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Gia Định (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)"
           ],
           "answerIndex": 0,
           "explanation": "Duyệt Thị Đường xây dựng năm 1826 là nhà hát hoàng gia cổ nhất còn nguyên vẹn ở Việt Nam.",
@@ -16884,10 +16884,10 @@
         {
           "prompt": "Vị hoàng đế triều Nguyễn nào say mê nghệ thuật Tuồng đến mức tự mình tham gia hiệu đính kịch bản và sáng tác các vở tuồng đồ sộ?",
           "options": [
-            "Vua Tự Đức (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Vua Gia Long (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Vua Hàm Nghi (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))",
-            "Vua Duy Tân (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh (U32))"
+            "Vua Tự Đức (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Vua Gia Long (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Vua Hàm Nghi (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)",
+            "Vua Duy Tân (Ht Tung  Ht Bi v Ngh thut Bc hc Cung nh)"
           ],
           "answerIndex": 0,
           "explanation": "Vua Tự Đức say mê văn học nghệ thuật, lập ra Ban Tuồng soạn thảo những pho kịch bản vĩ đại như *Vạn Bửu Trình Tường*.",
@@ -16929,10 +16929,10 @@
         {
           "prompt": "Bản nhạc tiền thân bất hủ của điệu Vọng Cổ Nam Bộ do nhạc sĩ Cao Văn Lầu sáng tác tại Bạc Liêu năm 1919 có tên là gì?",
           "options": [
-            "Dạ cổ hoài lang (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Lưu thủy hành vân (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Bình bán vắn (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Kim tiền Huế (n Ca Ti T v Ci Lng Nam B (U32))"
+            "Dạ cổ hoài lang (n Ca Ti T v Ci Lng Nam B)",
+            "Lưu thủy hành vân (n Ca Ti T v Ci Lng Nam B)",
+            "Bình bán vắn (n Ca Ti T v Ci Lng Nam B)",
+            "Kim tiền Huế (n Ca Ti T v Ci Lng Nam B)"
           ],
           "answerIndex": 0,
           "explanation": "*Dạ cổ hoài lang* (Tiếng trống đêm nhớ chồng) là tác phẩm khai sinh ra câu vọng cổ trứ danh."
@@ -16944,10 +16944,10 @@
         {
           "prompt": "Nhạc cụ dây có thùng tròn như mặt trăng, giữ vai trò lĩnh xướng và chỉ huy trong dàn nhạc Đờn ca tài tử là nhạc cụ nào?",
           "options": [
-            "Đàn kìm (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Đàn ghi-ta phím lõm (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Đàn tỳ bà (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Đàn gáo (n Ca Ti T v Ci Lng Nam B (U32))"
+            "Đàn kìm (n Ca Ti T v Ci Lng Nam B)",
+            "Đàn ghi-ta phím lõm (n Ca Ti T v Ci Lng Nam B)",
+            "Đàn tỳ bà (n Ca Ti T v Ci Lng Nam B)",
+            "Đàn gáo (n Ca Ti T v Ci Lng Nam B)"
           ],
           "answerIndex": 0,
           "explanation": "Đàn kìm được coi là «quân tử cầm», định hình tiết tấu và giai điệu cho toàn ban nhạc tài tử."
@@ -16959,10 +16959,10 @@
         {
           "prompt": "Hai câu đối «Cải cách hát ca theo tiến bộ / Lương truyền tuồng tích sánh văn minh» thể hiện tôn chỉ ra đời của loại hình sân khấu nào?",
           "options": [
-            "Cải Lương (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Hát Bội (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Múa Rối Cạn (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Hát Xoan (n Ca Ti T v Ci Lng Nam B (U32))"
+            "Cải Lương (n Ca Ti T v Ci Lng Nam B)",
+            "Hát Bội (n Ca Ti T v Ci Lng Nam B)",
+            "Múa Rối Cạn (n Ca Ti T v Ci Lng Nam B)",
+            "Hát Xoan (n Ca Ti T v Ci Lng Nam B)"
           ],
           "answerIndex": 0,
           "explanation": "Tên gọi «Cải Lương» xuất phát từ câu đối này, biểu thị sự đổi mới tiến bộ của kịch hát Nam Bộ.",
@@ -16971,10 +16971,10 @@
         {
           "prompt": "Nữ nghệ sĩ tài sắc vẹn toàn nào được mệnh danh là «Nữ hoàng sân khấu Cải lương» của đoàn kịch Thanh Minh - Thanh Nga?",
           "options": [
-            "Nghệ sĩ Thanh Nga (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Nghệ sĩ Phùng Há (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Nghệ sĩ Bạch Tuyết (n Ca Ti T v Ci Lng Nam B (U32))",
-            "Nghệ sĩ Ngọc Giàu (n Ca Ti T v Ci Lng Nam B (U32))"
+            "Nghệ sĩ Thanh Nga (n Ca Ti T v Ci Lng Nam B)",
+            "Nghệ sĩ Phùng Há (n Ca Ti T v Ci Lng Nam B)",
+            "Nghệ sĩ Bạch Tuyết (n Ca Ti T v Ci Lng Nam B)",
+            "Nghệ sĩ Ngọc Giàu (n Ca Ti T v Ci Lng Nam B)"
           ],
           "answerIndex": 0,
           "explanation": "Nghệ sĩ ưu tú Thanh Nga nổi danh với vai diễn Trưng Trắc trong *Tiếng trống Mê Linh*.",
@@ -17016,10 +17016,10 @@
         {
           "prompt": "Trong vở kịch Hồn Trương Ba, da hàng thịt, thông điệp triết học sâu sắc nhất mà Trương Ba kiên quyết lựa chọn ở hồi kết là gì?",
           "options": [
-            "Chấp nhận chết hẳn để giữ tâm hồn thanh cao, không chịu sống chắp vá, vay mượn trong thân xác kẻ khác. (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Tiếp tục nhập vào xác con lừa để sống mãi. (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Tranh giành tài sản của người hàng thịt. (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Bỏ làng lên trời làm quan thần tiên. (Kch ni hin i Vit Nam v Lu Quang V (U32))"
+            "Chấp nhận chết hẳn để giữ tâm hồn thanh cao, không chịu sống chắp vá, vay mượn trong thân xác kẻ khác. (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Tiếp tục nhập vào xác con lừa để sống mãi. (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Tranh giành tài sản của người hàng thịt. (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Bỏ làng lên trời làm quan thần tiên. (Kch ni hin i Vit Nam v Lu Quang V)"
           ],
           "answerIndex": 0,
           "explanation": "Trương Ba chọn cái chết thanh thản để tâm hồn được giải thoát và người thân không phải đau khổ."
@@ -17031,10 +17031,10 @@
         {
           "prompt": "Vở kịch nào của Lưu Quang Vũ công phá cơ chế bao cấp trì trệ xơ cứng tại một xí nghiệp sản xuất?",
           "options": [
-            "Tôi và chúng ta (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Bệnh sĩ (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Tin ở hoa hồng (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Chiếc ô công lý (Kch ni hin i Vit Nam v Lu Quang V (U32))"
+            "Tôi và chúng ta (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Bệnh sĩ (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Tin ở hoa hồng (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Chiếc ô công lý (Kch ni hin i Vit Nam v Lu Quang V)"
           ],
           "answerIndex": 0,
           "explanation": "*Tôi và chúng ta* cổ vũ tinh thần đổi mới, dám nghĩ dám làm phá bỏ tư duy bao cấp lỗi thời."
@@ -17046,10 +17046,10 @@
         {
           "prompt": "Kịch tác gia tài hoa nào là tác giả của hơn 50 vở kịch làm rung chuyển sân khấu Việt Nam thập niên 1980?",
           "options": [
-            "Lưu Quang Vũ (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Nguyễn Huy Tưởng (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Nguyễn Đình Thi (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Thế Lữ (Kch ni hin i Vit Nam v Lu Quang V (U32))"
+            "Lưu Quang Vũ (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Nguyễn Huy Tưởng (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Nguyễn Đình Thi (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Thế Lữ (Kch ni hin i Vit Nam v Lu Quang V)"
           ],
           "answerIndex": 0,
           "explanation": "Lưu Quang Vũ được truy tặng Giải thưởng Hồ Chí Minh về Văn học Nghệ thuật năm 2000.",
@@ -17058,10 +17058,10 @@
         {
           "prompt": "Vị thần tiên ham chơi cờ trong tích kịch Hồn Trương Ba da hàng thịt đã mắc sai lầm tắc trách là ai?",
           "options": [
-            "Đế Thích (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Nam Tào (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Bắc Đẩu (Kch ni hin i Vit Nam v Lu Quang V (U32))",
-            "Thái Thượng Lão Quân (Kch ni hin i Vit Nam v Lu Quang V (U32))"
+            "Đế Thích (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Nam Tào (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Bắc Đẩu (Kch ni hin i Vit Nam v Lu Quang V)",
+            "Thái Thượng Lão Quân (Kch ni hin i Vit Nam v Lu Quang V)"
           ],
           "answerIndex": 0,
           "explanation": "Đế Thích vì tiếc bạn cờ Trương Ba nên đã cho hồn Trương Ba nhập vào xác anh hàng thịt vừa chết.",
@@ -17103,10 +17103,10 @@
         {
           "prompt": "Ngôi chùa cổ thời Lý có kiến trúc hình đài sen nâng trên một cột đá giữa lòng hồ ở Hà Nội có tên gọi chính thức là gì?",
           "options": [
-            "Chùa Diên Hựu (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Chùa Trấn Quốc (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Chùa Hương (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Chùa Bái Đính (Hong thnh Thng Long v Cha Mt Ct (U33))"
+            "Chùa Diên Hựu (Hong thnh Thng Long v Cha Mt Ct)",
+            "Chùa Trấn Quốc (Hong thnh Thng Long v Cha Mt Ct)",
+            "Chùa Hương (Hong thnh Thng Long v Cha Mt Ct)",
+            "Chùa Bái Đính (Hong thnh Thng Long v Cha Mt Ct)"
           ],
           "answerIndex": 0,
           "explanation": "Chùa được vua Lý Thái Tông dựng năm 1049 với tên chữ là Diên Hựu (kéo dài điều lành phúc đức)."
@@ -17118,10 +17118,10 @@
         {
           "prompt": "Vị vua khai sáng triều Lý đã ban Chiếu dời đô dời kinh thành từ Hoa Lư về Thăng Long năm 1010 là ai?",
           "options": [
-            "Vua Lý Thái Tổ (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Vua Lý Thánh Tông (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Vua Lý Nhân Tông (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Vua Lý Thái Tông (Hong thnh Thng Long v Cha Mt Ct (U33))"
+            "Vua Lý Thái Tổ (Hong thnh Thng Long v Cha Mt Ct)",
+            "Vua Lý Thánh Tông (Hong thnh Thng Long v Cha Mt Ct)",
+            "Vua Lý Nhân Tông (Hong thnh Thng Long v Cha Mt Ct)",
+            "Vua Lý Thái Tông (Hong thnh Thng Long v Cha Mt Ct)"
           ],
           "answerIndex": 0,
           "explanation": "Lý Thái Tổ là vị vua anh minh đã nhìn thấy vị thế đắc địa của vùng đất Thăng Long."
@@ -17133,10 +17133,10 @@
         {
           "prompt": "Chùa Một Cột được mô phỏng theo hình tượng loài hoa thanh cao nào trong văn hóa Phật giáo?",
           "options": [
-            "Hoa sen (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Hoa cúc (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Hoa mai (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Hoa đào (Hong thnh Thng Long v Cha Mt Ct (U33))"
+            "Hoa sen (Hong thnh Thng Long v Cha Mt Ct)",
+            "Hoa cúc (Hong thnh Thng Long v Cha Mt Ct)",
+            "Hoa mai (Hong thnh Thng Long v Cha Mt Ct)",
+            "Hoa đào (Hong thnh Thng Long v Cha Mt Ct)"
           ],
           "answerIndex": 0,
           "explanation": "Chùa được thiết kế tựa như bông sen vươn lên từ mặt hồ Linh Chiểu.",
@@ -17145,10 +17145,10 @@
         {
           "prompt": "Khu trung tâm Hoàng thành Thăng Long được UNESCO vinh danh là Di sản Văn hóa Thế giới vào năm nào?",
           "options": [
-            "Năm 2010 (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Năm 1993 (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Năm 2003 (Hong thnh Thng Long v Cha Mt Ct (U33))",
-            "Năm 1980 (Hong thnh Thng Long v Cha Mt Ct (U33))"
+            "Năm 2010 (Hong thnh Thng Long v Cha Mt Ct)",
+            "Năm 1993 (Hong thnh Thng Long v Cha Mt Ct)",
+            "Năm 2003 (Hong thnh Thng Long v Cha Mt Ct)",
+            "Năm 1980 (Hong thnh Thng Long v Cha Mt Ct)"
           ],
           "answerIndex": 0,
           "explanation": "UNESCO công nhận Hoàng thành Thăng Long năm 2010 nhân kỷ niệm 1000 năm kinh đô.",
@@ -17190,10 +17190,10 @@
         {
           "prompt": "Hai yếu tố địa lý tự nhiên nào của xứ Huế đóng vai trò làm «tiền án» và «minh đường» trong phong thủy Kinh thành Huế?",
           "options": [
-            "Núi Ngự Bình (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Núi Fansipan và Sông Hồng (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Đèo Hải Vân và Vịnh Lăng Cô (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Núi Bà Đen và Sông Sài Gòn (Qun th C  Hu v Phong thy Hong gia (U33))"
+            "Núi Ngự Bình (Qun th C  Hu v Phong thy Hong gia)",
+            "Núi Fansipan và Sông Hồng (Qun th C  Hu v Phong thy Hong gia)",
+            "Đèo Hải Vân và Vịnh Lăng Cô (Qun th C  Hu v Phong thy Hong gia)",
+            "Núi Bà Đen và Sông Sài Gòn (Qun th C  Hu v Phong thy Hong gia)"
           ],
           "answerIndex": 0,
           "explanation": "Núi Ngự Bình che chắn trước mặt kinh thành và sông Hương chảy phía trước tạo minh đường tụ thủy tụ khí."
@@ -17205,10 +17205,10 @@
         {
           "prompt": "Cửa chính ở mặt nam của Hoàng thành Huế có lầu Ngũ Phụng tráng lệ phía trên có tên gọi là gì?",
           "options": [
-            "Ngọ Môn (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Cửa Đông Ba (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Cửa Thượng Tứ (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Cửa An Hòa (Qun th C  Hu v Phong thy Hong gia (U33))"
+            "Ngọ Môn (Qun th C  Hu v Phong thy Hong gia)",
+            "Cửa Đông Ba (Qun th C  Hu v Phong thy Hong gia)",
+            "Cửa Thượng Tứ (Qun th C  Hu v Phong thy Hong gia)",
+            "Cửa An Hòa (Qun th C  Hu v Phong thy Hong gia)"
           ],
           "answerIndex": 0,
           "explanation": "Ngọ Môn là cổng vương giả chỉ dành riêng cho vua đi lại và tổ chức các lễ duyệt binh, tuyên chỉ."
@@ -17220,10 +17220,10 @@
         {
           "prompt": "Cung điện nào quan trọng nhất trong Hoàng thành Huế, nơi đặt ngai vàng và diễn ra các đại lễ đăng quang của 13 vị vua triều Nguyễn?",
           "options": [
-            "Điện Thái Hòa (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Điện Cần Chánh (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Điện Kiến Trung (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Điện Long An (Qun th C  Hu v Phong thy Hong gia (U33))"
+            "Điện Thái Hòa (Qun th C  Hu v Phong thy Hong gia)",
+            "Điện Cần Chánh (Qun th C  Hu v Phong thy Hong gia)",
+            "Điện Kiến Trung (Qun th C  Hu v Phong thy Hong gia)",
+            "Điện Long An (Qun th C  Hu v Phong thy Hong gia)"
           ],
           "answerIndex": 0,
           "explanation": "Điện Thái Hòa là trung tâm quyền lực biểu trưng cho sự hòa hợp âm dương và uy quyền thiên tử.",
@@ -17232,10 +17232,10 @@
         {
           "prompt": "Sự kiện lịch sử trọng đại nào diễn ra tại lầu Ngọ Môn ngày 30 tháng 8 năm 1945 chấm dứt chế độ phong kiến Việt Nam?",
           "options": [
-            "Vua Bảo Đại đọc Chiếu thoái vị và trao nộp ấn kiếm cho đại diện Chính phủ lâm thời (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Lễ ký hiệp định hòa bình (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Lễ tế trời Đất (Qun th C  Hu v Phong thy Hong gia (U33))",
-            "Đại lễ đón sứ thần quốc tế (Qun th C  Hu v Phong thy Hong gia (U33))"
+            "Vua Bảo Đại đọc Chiếu thoái vị và trao nộp ấn kiếm cho đại diện Chính phủ lâm thời (Qun th C  Hu v Phong thy Hong gia)",
+            "Lễ ký hiệp định hòa bình (Qun th C  Hu v Phong thy Hong gia)",
+            "Lễ tế trời Đất (Qun th C  Hu v Phong thy Hong gia)",
+            "Đại lễ đón sứ thần quốc tế (Qun th C  Hu v Phong thy Hong gia)"
           ],
           "answerIndex": 0,
           "explanation": "Bảo Đại tuyên bố thoái vị với câu nói lịch sử: «Trẫm muốn làm dân một nước tự do hơn làm vua một nước nô lệ».",
@@ -17277,10 +17277,10 @@
         {
           "prompt": "Cây cầu ngói cổ bằng gỗ bắc qua con lạch nhỏ ở Hội An do các thương nhân nước nào xây dựng từ đầu thế kỷ 17?",
           "options": [
-            "Thương nhân Nhật Bản (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Thương nhân Hà Lan (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Thương nhân Bồ Đào Nha (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Thương nhân Pháp (th c Hi An v Giao thoa Kin trc Thng cng (U33))"
+            "Thương nhân Nhật Bản (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Thương nhân Hà Lan (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Thương nhân Bồ Đào Nha (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Thương nhân Pháp (th c Hi An v Giao thoa Kin trc Thng cng)"
           ],
           "answerIndex": 0,
           "explanation": "Chùa Cầu do các thương nhân phố Nhật xây dựng để kết nối khu phố Nhật và phố Hoa kiều."
@@ -17292,10 +17292,10 @@
         {
           "prompt": "Hình ảnh di tích kiến trúc Hội An nào được in trên tờ tiền giấy polymer 20.000 đồng của Việt Nam?",
           "options": [
-            "Chùa Cầu (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Nhà cổ Phùng Hưng (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Hội quán Phúc Kiến (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Cột cờ Hà Nội (th c Hi An v Giao thoa Kin trc Thng cng (U33))"
+            "Chùa Cầu (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Nhà cổ Phùng Hưng (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Hội quán Phúc Kiến (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Cột cờ Hà Nội (th c Hi An v Giao thoa Kin trc Thng cng)"
           ],
           "answerIndex": 0,
           "explanation": "Hình ảnh Chùa Cầu là biểu tượng di sản quốc gia trên đồng tiền 20.000 VNĐ."
@@ -17307,10 +17307,10 @@
         {
           "prompt": "Ngôi nhà cổ nổi tiếng nào tại Hội An được vinh danh là Di sản Quốc gia từ năm 1990 và từng đón tiếp nhiều nguyên thủ quốc gia?",
           "options": [
-            "Nhà cổ Tấn Ký (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Nhà cổ Đức An (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Nhà cổ Quân Thắng (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Nhà thờ tộc Trần (th c Hi An v Giao thoa Kin trc Thng cng (U33))"
+            "Nhà cổ Tấn Ký (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Nhà cổ Đức An (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Nhà cổ Quân Thắng (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Nhà thờ tộc Trần (th c Hi An v Giao thoa Kin trc Thng cng)"
           ],
           "answerIndex": 0,
           "explanation": "Nhà cổ Tấn Ký lưu giữ 7 thế hệ gia tộc và còn nguyên vẹn nét kiến trúc giao thoa ba nền văn hóa.",
@@ -17319,10 +17319,10 @@
         {
           "prompt": "Dòng sông thơ mộng nào chảy qua phố cổ Hội An và là tuyến giao thương huyết mạch đưa tàu buôn quốc tế cập cảng xưa kia?",
           "options": [
-            "Sông Thu Bồn (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Sông Hương (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Sông Hàn (th c Hi An v Giao thoa Kin trc Thng cng (U33))",
-            "Sông Tiền (th c Hi An v Giao thoa Kin trc Thng cng (U33))"
+            "Sông Thu Bồn (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Sông Hương (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Sông Hàn (th c Hi An v Giao thoa Kin trc Thng cng)",
+            "Sông Tiền (th c Hi An v Giao thoa Kin trc Thng cng)"
           ],
           "answerIndex": 0,
           "explanation": "Sông Thu Bồn là dòng sông lịch sử đưa Hội An trở thành thương cảng quốc tế Faifo rực rỡ.",
@@ -17364,10 +17364,10 @@
         {
           "prompt": "Kiến trúc sư người Pháp nào được coi là cha đẻ khai sinh phong cách kiến trúc Đông Dương thích ứng với khí hậu nhiệt đới Việt Nam?",
           "options": [
-            "Ernest Hébrard (Kin trc ng Dng (U33))",
-            "Gustave Eiffel (Kin trc ng Dng (U33))",
-            "Paul Doumer (Kin trc ng Dng (U33))",
-            "Auguste Perret (Kin trc ng Dng (U33))"
+            "Ernest Hébrard (Kin trc ng Dng)",
+            "Gustave Eiffel (Kin trc ng Dng)",
+            "Paul Doumer (Kin trc ng Dng)",
+            "Auguste Perret (Kin trc ng Dng)"
           ],
           "answerIndex": 0,
           "explanation": "Ernest Hébrard đã kết hợp tinh tế kỹ thuật Pháp và giải pháp kiến trúc truyền thống bản địa."
@@ -17379,10 +17379,10 @@
         {
           "prompt": "Nhà hát Lớn Hà Nội (hoàn thành năm 1911) được thiết kế phỏng theo công trình kiến trúc nhà hát danh tiếng nào ở Paris?",
           "options": [
-            "Nhà hát Opéra Garnier (Kin trc ng Dng (U33))",
-            "Nhà thờ Đức Bà Paris (Kin trc ng Dng (U33))",
-            "Cung điện Versailles (Kin trc ng Dng (U33))",
-            "Bảo tàng Louvre (Kin trc ng Dng (U33))"
+            "Nhà hát Opéra Garnier (Kin trc ng Dng)",
+            "Nhà thờ Đức Bà Paris (Kin trc ng Dng)",
+            "Cung điện Versailles (Kin trc ng Dng)",
+            "Bảo tàng Louvre (Kin trc ng Dng)"
           ],
           "answerIndex": 0,
           "explanation": "Nhà hát Lớn Hà Nội mang phong cách Tân Cổ điển phỏng theo nhà hát Opéra Garnier trứ danh."
@@ -17394,10 +17394,10 @@
         {
           "prompt": "Đặc điểm kỹ thuật nào giúp các tòa nhà kiến trúc Đông Dương luôn mát mẻ trong mùa hè nóng ẩm nhiệt đới?",
           "options": [
-            "Hệ mái ngói dốc chìa rộng, tường dày, hành lang bao quanh và cửa sổ hai lớp kính - chớp (Kin trc ng Dng (U33))",
-            "Lắp kính kín toàn bộ không mở cửa (Kin trc ng Dng (U33))",
-            "Sơn tường màu đen hấp thụ nhiệt (Kin trc ng Dng (U33))",
-            "Xây hoàn toàn dưới lòng đất không có cửa sổ (Kin trc ng Dng (U33))"
+            "Hệ mái ngói dốc chìa rộng, tường dày, hành lang bao quanh và cửa sổ hai lớp kính - chớp (Kin trc ng Dng)",
+            "Lắp kính kín toàn bộ không mở cửa (Kin trc ng Dng)",
+            "Sơn tường màu đen hấp thụ nhiệt (Kin trc ng Dng)",
+            "Xây hoàn toàn dưới lòng đất không có cửa sổ (Kin trc ng Dng)"
           ],
           "answerIndex": 0,
           "explanation": "Mái hiên rộng và cửa lá sách tạo luồng đối lưu không khí tự nhiên tối ưu.",
@@ -17406,10 +17406,10 @@
         {
           "prompt": "Tòa nhà Viện Bảo tàng Louis Finot xây dựng năm 1932 bên bờ sông Hồng hiện nay là bảo tàng nào?",
           "options": [
-            "Bảo tàng Lịch sử Quốc gia (Kin trc ng Dng (U33))",
-            "Bảo tàng Mỹ thuật Việt Nam (Kin trc ng Dng (U33))",
-            "Bảo tàng Dân tộc học (Kin trc ng Dng (U33))",
-            "Bảo tàng Phụ nữ Việt Nam (Kin trc ng Dng (U33))"
+            "Bảo tàng Lịch sử Quốc gia (Kin trc ng Dng)",
+            "Bảo tàng Mỹ thuật Việt Nam (Kin trc ng Dng)",
+            "Bảo tàng Dân tộc học (Kin trc ng Dng)",
+            "Bảo tàng Phụ nữ Việt Nam (Kin trc ng Dng)"
           ],
           "answerIndex": 0,
           "explanation": "Bảo tàng Lịch sử Quốc gia tại số 1 Tràng Tiền là đỉnh cao của phong cách Đông Dương.",
@@ -17451,10 +17451,10 @@
         {
           "prompt": "Vật liệu tự nhiên truyền thống nào của Việt Nam được KTS Võ Trọng Nghĩa mệnh danh là «thép xanh của thế kỷ 21»?",
           "options": [
-            "Cây tre (Kin trc Xanh ng i Vit Nam (U33))",
-            "Gỗ lim rừng nguyên sinh (Kin trc Xanh ng i Vit Nam (U33))",
-            "Đá granite hoa cương (Kin trc Xanh ng i Vit Nam (U33))",
-            "Nhựa tái chế (Kin trc Xanh ng i Vit Nam (U33))"
+            "Cây tre (Kin trc Xanh ng i Vit Nam)",
+            "Gỗ lim rừng nguyên sinh (Kin trc Xanh ng i Vit Nam)",
+            "Đá granite hoa cương (Kin trc Xanh ng i Vit Nam)",
+            "Nhựa tái chế (Kin trc Xanh ng i Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Cây tre dẻo dai, phát triển nhanh và hấp thụ carbon xuất sắc, là vật liệu xanh lý tưởng."
@@ -17466,10 +17466,10 @@
         {
           "prompt": "Triết lý cốt lõi trong các công trình nhà ở đô thị của VTN Architects (như House for Trees) là gì?",
           "options": [
-            "Đưa cây xanh, vườn tầng và thông gió tự nhiên trở lại không gian sống để làm mát đô thị bê tông. (Kin trc Xanh ng i Vit Nam (U33))",
-            "Bọc kín toàn bộ ngôi nhà bằng kính phản quang cách nhiệt không có cây. (Kin trc Xanh ng i Vit Nam (U33))",
-            "Xây nhà hình hộp không cửa sổ để chống trộm. (Kin trc Xanh ng i Vit Nam (U33))",
-            "Sơn toàn bộ tường nhà bằng nhũ vàng. (Kin trc Xanh ng i Vit Nam (U33))"
+            "Đưa cây xanh, vườn tầng và thông gió tự nhiên trở lại không gian sống để làm mát đô thị bê tông. (Kin trc Xanh ng i Vit Nam)",
+            "Bọc kín toàn bộ ngôi nhà bằng kính phản quang cách nhiệt không có cây. (Kin trc Xanh ng i Vit Nam)",
+            "Xây nhà hình hộp không cửa sổ để chống trộm. (Kin trc Xanh ng i Vit Nam)",
+            "Sơn toàn bộ tường nhà bằng nhũ vàng. (Kin trc Xanh ng i Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Kiến trúc xanh giúp kết nối con người với thiên nhiên và giảm sử dụng điện điều hòa không khí."
@@ -17481,10 +17481,10 @@
         {
           "prompt": "Công trình nhà tre khổng lồ sử dụng 42.000 thân tre tầm vông của Võ Trọng Nghĩa tại đảo ngọc Phú Quốc có tên là gì?",
           "options": [
-            "Nhà tre Grand World Phú Quốc (Kin trc Xanh ng i Vit Nam (U33))",
-            "Tháp Eiffel Phú Quốc (Kin trc Xanh ng i Vit Nam (U33))",
-            "Cầu Vàng Bà Nà (Kin trc Xanh ng i Vit Nam (U33))",
-            "Landmark 81 (Kin trc Xanh ng i Vit Nam (U33))"
+            "Nhà tre Grand World Phú Quốc (Kin trc Xanh ng i Vit Nam)",
+            "Tháp Eiffel Phú Quốc (Kin trc Xanh ng i Vit Nam)",
+            "Cầu Vàng Bà Nà (Kin trc Xanh ng i Vit Nam)",
+            "Landmark 81 (Kin trc Xanh ng i Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Công trình nhà tre biểu tượng tại Phú Quốc gây ấn tượng mạnh mẽ với du khách quốc tế.",
@@ -17493,10 +17493,10 @@
         {
           "prompt": "Phương pháp truyền thống dân gian nào được sử dụng để xử lý tre chống mối mọt bền bỉ hàng chục năm mà không dùng hóa chất?",
           "options": [
-            "Ngâm dưới bùn ao tự nhiên rồi hun khói kỹ lưỡng (Kin trc Xanh ng i Vit Nam (U33))",
-            "Ngâm trong dầu hỏa (Kin trc Xanh ng i Vit Nam (U33))",
-            "Nhúng vào axit (Kin trc Xanh ng i Vit Nam (U33))",
-            "Bọc màng nilon kín (Kin trc Xanh ng i Vit Nam (U33))"
+            "Ngâm dưới bùn ao tự nhiên rồi hun khói kỹ lưỡng (Kin trc Xanh ng i Vit Nam)",
+            "Ngâm trong dầu hỏa (Kin trc Xanh ng i Vit Nam)",
+            "Nhúng vào axit (Kin trc Xanh ng i Vit Nam)",
+            "Bọc màng nilon kín (Kin trc Xanh ng i Vit Nam)"
           ],
           "answerIndex": 0,
           "explanation": "Ngâm bùn và xông khói là bí quyết dân gian giúp tre không bị sâu mọt tấn công.",
@@ -17565,10 +17565,10 @@
         {
           "prompt": "Văn kiện ngoại giao chính thức nào do nguyên thủ quốc gia cử đi ký để giới thiệu đại sứ mới?",
           "options": [
-            "Giấy giới thiệu công tác (Diplomatic Credentials (U34))",
-            "Biên bản bàn giao cơ quan (Diplomatic Credentials (U34))",
-            "Hộ chiếu phổ thông (Diplomatic Credentials (U34))",
-            "Quốc thư (Diplomatic Credentials (U34))"
+            "Giấy giới thiệu công tác (Diplomatic Credentials)",
+            "Biên bản bàn giao cơ quan (Diplomatic Credentials)",
+            "Hộ chiếu phổ thông (Diplomatic Credentials)",
+            "Quốc thư (Diplomatic Credentials)"
           ],
           "answerIndex": 3,
           "explanation": "Quốc thư là văn kiện chính thức của nguyên thủ quốc gia ủy nhiệm đại sứ.",
@@ -17648,10 +17648,10 @@
         {
           "prompt": "Cơ quan nào có thẩm quyền tối cao phê chuẩn các điều ước quốc tế quan trọng của Việt Nam?",
           "options": [
-            "Hiệp hội Doanh nghiệp tư nhân (Multilateral Treaties (U34))",
-            "Ủy ban Nhân dân cấp tỉnh (Multilateral Treaties (U34))",
-            "Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (Multilateral Treaties (U34))",
-            "Cục Hải quan địa phương (Multilateral Treaties (U34))"
+            "Hiệp hội Doanh nghiệp tư nhân (Multilateral Treaties)",
+            "Ủy ban Nhân dân cấp tỉnh (Multilateral Treaties)",
+            "Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (Multilateral Treaties)",
+            "Cục Hải quan địa phương (Multilateral Treaties)"
           ],
           "answerIndex": 2,
           "explanation": "Quốc hội là cơ quan có thẩm quyền phê chuẩn các điều ước quốc tế quan trọng.",
@@ -17731,10 +17731,10 @@
         {
           "prompt": "Đặc trưng cốt lõi của trường phái \"Ngoại giao Cây tre Việt Nam\" là gì?",
           "options": [
-            "Đóng cửa hoàn toàn không giao thiệp (Bamboo Diplomacy (U34))",
-            "Gốc vững, thân chắc, cành uyển chuyển (Bamboo Diplomacy (U34))",
-            "Chỉ hợp tác với một quốc gia duy nhất (Bamboo Diplomacy (U34))",
-            "Thay đổi lập trường liên tục không có nguyên tắc (Bamboo Diplomacy (U34))"
+            "Đóng cửa hoàn toàn không giao thiệp (Bamboo Diplomacy)",
+            "Gốc vững, thân chắc, cành uyển chuyển (Bamboo Diplomacy)",
+            "Chỉ hợp tác với một quốc gia duy nhất (Bamboo Diplomacy)",
+            "Thay đổi lập trường liên tục không có nguyên tắc (Bamboo Diplomacy)"
           ],
           "answerIndex": 1,
           "explanation": "Ngoại giao Cây tre biểu trưng cho sự kiên định về độc lập chủ quyền và uyển chuyển, linh hoạt trong quan hệ đối ngoại.",
@@ -17814,10 +17814,10 @@
         {
           "prompt": "Theo UNCLOS 1982, vùng đặc quyền kinh tế (EEZ) của quốc gia ven biển có chiều rộng tối đa là bao nhiêu?",
           "options": [
-            "200 hải lý tính từ đường cơ sở (Law of the Sea UNCLOS 1982 (U34))",
-            "24 hải lý (Law of the Sea UNCLOS 1982 (U34))",
-            "500 hải lý (Law of the Sea UNCLOS 1982 (U34))",
-            "12 hải lý (Law of the Sea UNCLOS 1982 (U34))"
+            "200 hải lý tính từ đường cơ sở (Law of the Sea UNCLOS 1982)",
+            "24 hải lý (Law of the Sea UNCLOS 1982)",
+            "500 hải lý (Law of the Sea UNCLOS 1982)",
+            "12 hải lý (Law of the Sea UNCLOS 1982)"
           ],
           "answerIndex": 0,
           "explanation": "Vùng đặc quyền kinh tế có chiều rộng 200 hải lý tính từ đường cơ sở.",
@@ -17897,10 +17897,10 @@
         {
           "prompt": "Cụm từ ngoại giao trang trọng dùng để mở đầu phần ký tên vào văn kiện điều ước quốc tế bằng tiếng Việt là gì?",
           "options": [
-            "\"Ký xong thì chuyển tài liệu về văn phòng...\" (C2 Master Capstone (U34))",
-            "\"Mời mọi người cùng ký tên lưu niệm...\" (C2 Master Capstone (U34))",
-            "\"Bản nháp không có giá trị thi hành...\" (C2 Master Capstone (U34))",
-            "\"Để làm bằng chứng, các đại diện toàn quyền đã ký...\" (C2 Master Capstone (U34))"
+            "\"Ký xong thì chuyển tài liệu về văn phòng...\" (C2 Master Capstone)",
+            "\"Mời mọi người cùng ký tên lưu niệm...\" (C2 Master Capstone)",
+            "\"Bản nháp không có giá trị thi hành...\" (C2 Master Capstone)",
+            "\"Để làm bằng chứng, các đại diện toàn quyền đã ký...\" (C2 Master Capstone)"
           ],
           "answerIndex": 3,
           "explanation": "\"Để làm bằng chứng...\" là công thức chuẩn mực pháp lý quốc tế trong các điều ước song phương và đa phương.",

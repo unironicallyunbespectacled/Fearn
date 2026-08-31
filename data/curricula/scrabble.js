@@ -188,10 +188,10 @@
           "type": "multiple-choice",
           "prompt": "Which of these tiles is worth 8 points?",
           "options": [
-            "B (Recall the point value of every tile from memory without checking a reference (U1))",
-            "J (Recall the point value of every tile from memory without checking a reference (U1))",
-            "L (Recall the point value of every tile from memory without checking a reference (U1))",
-            "R (Recall the point value of every tile from memory without checking a reference (U1))"
+            "B (Recall the point value of every tile from memory without checking a reference)",
+            "J (Recall the point value of every tile from memory without checking a reference)",
+            "L (Recall the point value of every tile from memory without checking a reference)",
+            "R (Recall the point value of every tile from memory without checking a reference)"
           ],
           "answer": "J",
           "difficulty": 500,
@@ -258,10 +258,10 @@
           "type": "multiple-choice",
           "prompt": "Which two premium square types multiply your entire word score rather than a single tile?",
           "options": [
-            "Double Letter and Triple Letter (Identify the premium squares doubletriple letter and word and their board positions (U1))",
-            "Double Word and Triple Word (Identify the premium squares doubletriple letter and word and their board positions (U1))",
-            "Double Letter and Double Word (Identify the premium squares doubletriple letter and word and their board positions (U1))",
-            "Triple Letter and Triple Word (Identify the premium squares doubletriple letter and word and their board positions (U1))"
+            "Double Letter and Triple Letter (Identify the premium squares doubletriple letter and word and their board positions)",
+            "Double Word and Triple Word (Identify the premium squares doubletriple letter and word and their board positions)",
+            "Double Letter and Double Word (Identify the premium squares doubletriple letter and word and their board positions)",
+            "Triple Letter and Triple Word (Identify the premium squares doubletriple letter and word and their board positions)"
           ],
           "answer": "Double Word and Triple Word",
           "difficulty": 510,
@@ -272,10 +272,10 @@
           "type": "multiple-choice",
           "prompt": "What type of premium square is the center star, used to open every game?",
           "options": [
-            "A Triple Word square (Identify the premium squares doubletriple letter and word and their board positions (U1))",
-            "A Double Word square (Identify the premium squares doubletriple letter and word and their board positions (U1))",
-            "A Triple Letter square (Identify the premium squares doubletriple letter and word and their board positions (U1))",
-            "It has no premium value (Identify the premium squares doubletriple letter and word and their board positions (U1))"
+            "A Triple Word square (Identify the premium squares doubletriple letter and word and their board positions)",
+            "A Double Word square (Identify the premium squares doubletriple letter and word and their board positions)",
+            "A Triple Letter square (Identify the premium squares doubletriple letter and word and their board positions)",
+            "It has no premium value (Identify the premium squares doubletriple letter and word and their board positions)"
           ],
           "answer": "A Double Word square",
           "difficulty": 510,
@@ -286,8 +286,8 @@
           "type": "multiple-choice",
           "prompt": "True or false: a Triple Letter square is generally more valuable to chase than a Double Word square.",
           "options": [
-            "True (Identify the premium squares doubletriple letter and word and their board positions (U1))",
-            "False (Identify the premium squares doubletriple letter and word and their board positions (U1))"
+            "True (Identify the premium squares doubletriple letter and word and their board positions)",
+            "False (Identify the premium squares doubletriple letter and word and their board positions)"
           ],
           "answer": "False",
           "difficulty": 510,
@@ -363,10 +363,10 @@
           "type": "multiple-choice",
           "prompt": "When a word has both a letter multiplier AND a word multiplier in play, which do you apply first?",
           "options": [
-            "The word multiplier, then the letter multiplier (Calculate the score of a simple word placement including premium squares (U1))",
-            "The letter multiplier to that tile, then the word multiplier to the whole sum (Calculate the score of a simple word placement including premium squares (U1))",
-            "It doesn't matter, the result is the same either order (Calculate the score of a simple word placement including premium squares (U1))",
-            "Word multipliers cancel out letter multipliers (Calculate the score of a simple word placement including premium squares (U1))"
+            "The word multiplier, then the letter multiplier (Calculate the score of a simple word placement including premium squares)",
+            "The letter multiplier to that tile, then the word multiplier to the whole sum (Calculate the score of a simple word placement including premium squares)",
+            "It doesn't matter, the result is the same either order (Calculate the score of a simple word placement including premium squares)",
+            "Word multipliers cancel out letter multipliers (Calculate the score of a simple word placement including premium squares)"
           ],
           "answer": "The letter multiplier to that tile, then the word multiplier to the whole sum",
           "difficulty": 540,
@@ -421,10 +421,10 @@
           "type": "multiple-choice",
           "prompt": "What triggers the 50-point bingo bonus?",
           "options": [
-            "Playing any 7-letter word anywhere on the board (Explain the bingo bonus rule and when the 50point bonus applies (U1))",
-            "Using all 7 tiles from your current rack in a single turn (Explain the bingo bonus rule and when the 50point bonus applies (U1))",
-            "Scoring over 50 points in one turn (Explain the bingo bonus rule and when the 50point bonus applies (U1))",
-            "Playing on a Triple Word square (Explain the bingo bonus rule and when the 50point bonus applies (U1))"
+            "Playing any 7-letter word anywhere on the board (Explain the bingo bonus rule and when the 50point bonus applies)",
+            "Using all 7 tiles from your current rack in a single turn (Explain the bingo bonus rule and when the 50point bonus applies)",
+            "Scoring over 50 points in one turn (Explain the bingo bonus rule and when the 50point bonus applies)",
+            "Playing on a Triple Word square (Explain the bingo bonus rule and when the 50point bonus applies)"
           ],
           "answer": "Using all 7 tiles from your current rack in a single turn",
           "difficulty": 550,
@@ -442,10 +442,10 @@
           "type": "multiple-choice",
           "prompt": "Is the 50-point bingo bonus multiplied by any word multiplier (like a Double Word square) the play happens to cross?",
           "options": [
-            "Yes, it gets doubled or tripled too (Explain the bingo bonus rule and when the 50point bonus applies (U1))",
-            "No — it is added flat, after all normal multiplier scoring is finished (Explain the bingo bonus rule and when the 50point bonus applies (U1))",
-            "Only on Triple Word squares (Explain the bingo bonus rule and when the 50point bonus applies (U1))",
-            "Only if the rack contains a blank tile (Explain the bingo bonus rule and when the 50point bonus applies (U1))"
+            "Yes, it gets doubled or tripled too (Explain the bingo bonus rule and when the 50point bonus applies)",
+            "No — it is added flat, after all normal multiplier scoring is finished (Explain the bingo bonus rule and when the 50point bonus applies)",
+            "Only on Triple Word squares (Explain the bingo bonus rule and when the 50point bonus applies)",
+            "Only if the rack contains a blank tile (Explain the bingo bonus rule and when the 50point bonus applies)"
           ],
           "answer": "No — it is added flat, after all normal multiplier scoring is finished",
           "difficulty": 560,
@@ -509,10 +509,10 @@
           "type": "multiple-choice",
           "prompt": "Which square type is generally the single most valuable to land a high-point tile on?",
           "options": [
-            "Double Letter (Pass a scoringmechanics checkpoint covering values (U1))",
-            "Triple Letter (Pass a scoringmechanics checkpoint covering values (U1))",
-            "Double Word (Pass a scoringmechanics checkpoint covering values (U1))",
-            "It depends — but stacking a high-value tile on a Triple Letter inside a word-multiplier square is the biggest combo (Pass a scoringmechanics checkpoint covering values (U1))"
+            "Double Letter (Pass a scoringmechanics checkpoint covering values)",
+            "Triple Letter (Pass a scoringmechanics checkpoint covering values)",
+            "Double Word (Pass a scoringmechanics checkpoint covering values)",
+            "It depends — but stacking a high-value tile on a Triple Letter inside a word-multiplier square is the biggest combo (Pass a scoringmechanics checkpoint covering values)"
           ],
           "answer": "It depends — but stacking a high-value tile on a Triple Letter inside a word-multiplier square is the biggest combo",
           "difficulty": 570,
@@ -579,10 +579,10 @@
           "type": "multiple-choice",
           "prompt": "Which two-letter word lets you play the Q tile without a U?",
           "options": [
-            "QO (Recall a working set of valid twoletter words from memory (U2))",
-            "QI (Recall a working set of valid twoletter words from memory (U2))",
-            "QA (Recall a working set of valid twoletter words from memory (U2))",
-            "QU (Recall a working set of valid twoletter words from memory (U2))"
+            "QO (Recall a working set of valid twoletter words from memory)",
+            "QI (Recall a working set of valid twoletter words from memory)",
+            "QA (Recall a working set of valid twoletter words from memory)",
+            "QU (Recall a working set of valid twoletter words from memory)"
           ],
           "answer": "QI",
           "difficulty": 520,
@@ -593,10 +593,10 @@
           "type": "multiple-choice",
           "prompt": "Which of these is a valid two-letter word useful for offloading an X tile?",
           "options": [
-            "XA (Recall a working set of valid twoletter words from memory (U2))",
-            "XI (Recall a working set of valid twoletter words from memory (U2))",
-            "XE (Recall a working set of valid twoletter words from memory (U2))",
-            "XY (Recall a working set of valid twoletter words from memory (U2))"
+            "XA (Recall a working set of valid twoletter words from memory)",
+            "XI (Recall a working set of valid twoletter words from memory)",
+            "XE (Recall a working set of valid twoletter words from memory)",
+            "XY (Recall a working set of valid twoletter words from memory)"
           ],
           "answer": "XI",
           "difficulty": 520,
@@ -607,10 +607,10 @@
           "type": "multiple-choice",
           "prompt": "ZA is a valid two-letter Scrabble word informally meaning what?",
           "options": [
-            "A type of tree (Recall a working set of valid twoletter words from memory (U2))",
-            "Pizza (Recall a working set of valid twoletter words from memory (U2))",
-            "A dance move (Recall a working set of valid twoletter words from memory (U2))",
-            "A card game (Recall a working set of valid twoletter words from memory (U2))"
+            "A type of tree (Recall a working set of valid twoletter words from memory)",
+            "Pizza (Recall a working set of valid twoletter words from memory)",
+            "A dance move (Recall a working set of valid twoletter words from memory)",
+            "A card game (Recall a working set of valid twoletter words from memory)"
           ],
           "answer": "Pizza",
           "difficulty": 520,
@@ -675,10 +675,10 @@
           "type": "multiple-choice",
           "prompt": "Which three-letter word plays the Q tile with no U anywhere in the word?",
           "options": [
-            "SUQ (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "QAT (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "QUA (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "QOP (Recall highutility threeletter words containing common problem letters Q (U2))"
+            "SUQ (Recall highutility threeletter words containing common problem letters Q)",
+            "QAT (Recall highutility threeletter words containing common problem letters Q)",
+            "QUA (Recall highutility threeletter words containing common problem letters Q)",
+            "QOP (Recall highutility threeletter words containing common problem letters Q)"
           ],
           "answer": "QAT",
           "difficulty": 540,
@@ -696,10 +696,10 @@
           "type": "multiple-choice",
           "prompt": "Which word is an everyday term for a pimple and also a valid Z-tile play?",
           "options": [
-            "ZAG (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "ZIT (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "ZEK (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "ZOO (Recall highutility threeletter words containing common problem letters Q (U2))"
+            "ZAG (Recall highutility threeletter words containing common problem letters Q)",
+            "ZIT (Recall highutility threeletter words containing common problem letters Q)",
+            "ZEK (Recall highutility threeletter words containing common problem letters Q)",
+            "ZOO (Recall highutility threeletter words containing common problem letters Q)"
           ],
           "answer": "ZIT",
           "difficulty": 530,
@@ -710,10 +710,10 @@
           "type": "multiple-choice",
           "prompt": "Which of these is a valid three-letter J word meaning a triangular sail?",
           "options": [
-            "JOG (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "JAB (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "JIB (Recall highutility threeletter words containing common problem letters Q (U2))",
-            "JAW (Recall highutility threeletter words containing common problem letters Q (U2))"
+            "JOG (Recall highutility threeletter words containing common problem letters Q)",
+            "JAB (Recall highutility threeletter words containing common problem letters Q)",
+            "JIB (Recall highutility threeletter words containing common problem letters Q)",
+            "JAW (Recall highutility threeletter words containing common problem letters Q)"
           ],
           "answer": "JIB",
           "difficulty": 530,
@@ -764,10 +764,10 @@
           "prompt": "What is the core benefit of a \"parallel play\" compared to simply extending a word end-to-end?",
           "answer": "A single set of new tiles can score multiple words at once, since each new letter crosses an existing letter to form its own short word",
           "options": [
-            "It always scores more points regardless of the words involved (Use two and threeletter words to build parallel plays alongside an existing word on the board (U2))",
-            "A single set of new tiles can score multiple words at once, since each new letter crosses an existing letter to form its own short word (Use two and threeletter words to build parallel plays alongside an existing word on the board (U2))",
-            "It uses fewer tiles than any other play type (Use two and threeletter words to build parallel plays alongside an existing word on the board (U2))",
-            "It is only useful defensively (Use two and threeletter words to build parallel plays alongside an existing word on the board (U2))"
+            "It always scores more points regardless of the words involved (Use two and threeletter words to build parallel plays alongside an existing word on the board)",
+            "A single set of new tiles can score multiple words at once, since each new letter crosses an existing letter to form its own short word (Use two and threeletter words to build parallel plays alongside an existing word on the board)",
+            "It uses fewer tiles than any other play type (Use two and threeletter words to build parallel plays alongside an existing word on the board)",
+            "It is only useful defensively (Use two and threeletter words to build parallel plays alongside an existing word on the board)"
           ],
           "difficulty": 540,
           "answerIndex": 0
@@ -826,10 +826,10 @@
           "type": "multiple-choice",
           "prompt": "Why are all-vowel words specifically useful to know?",
           "options": [
-            "They always score the most points (Recall short words containing only vowels (U2))",
-            "They let you play excess vowels without needing a consonant to anchor them (Recall short words containing only vowels (U2))",
-            "They are required to open every game (Recall short words containing only vowels (U2))",
-            "They only work on Triple Word squares (Recall short words containing only vowels (U2))"
+            "They always score the most points (Recall short words containing only vowels)",
+            "They let you play excess vowels without needing a consonant to anchor them (Recall short words containing only vowels)",
+            "They are required to open every game (Recall short words containing only vowels)",
+            "They only work on Triple Word squares (Recall short words containing only vowels)"
           ],
           "answer": "They let you play excess vowels without needing a consonant to anchor them",
           "difficulty": 530,
@@ -840,10 +840,10 @@
           "type": "multiple-choice",
           "prompt": "Which three-letter all-vowel word is French in origin and means \"water\"?",
           "options": [
-            "OIE (Recall short words containing only vowels (U2))",
-            "EAU (Recall short words containing only vowels (U2))",
-            "AIA (Recall short words containing only vowels (U2))",
-            "OUI (Recall short words containing only vowels (U2))"
+            "OIE (Recall short words containing only vowels)",
+            "EAU (Recall short words containing only vowels)",
+            "AIA (Recall short words containing only vowels)",
+            "OUI (Recall short words containing only vowels)"
           ],
           "answer": "EAU",
           "difficulty": 540,
@@ -893,10 +893,10 @@
           "type": "multiple-choice",
           "prompt": "Which two-letter word solves a stuck Q tile without needing a U?",
           "options": [
-            "QI (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "QO (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "QA (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "QY (Pass a shortword vocabulary checkpoint under time pressure (U2))"
+            "QI (Pass a shortword vocabulary checkpoint under time pressure)",
+            "QO (Pass a shortword vocabulary checkpoint under time pressure)",
+            "QA (Pass a shortword vocabulary checkpoint under time pressure)",
+            "QY (Pass a shortword vocabulary checkpoint under time pressure)"
           ],
           "answer": "QI",
           "difficulty": 550,
@@ -907,10 +907,10 @@
           "type": "multiple-choice",
           "prompt": "Which three-letter word is a valid J play meaning \"to write something down quickly\"?",
           "options": [
-            "JIB (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "JOT (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "JAW (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "JOG (Pass a shortword vocabulary checkpoint under time pressure (U2))"
+            "JIB (Pass a shortword vocabulary checkpoint under time pressure)",
+            "JOT (Pass a shortword vocabulary checkpoint under time pressure)",
+            "JAW (Pass a shortword vocabulary checkpoint under time pressure)",
+            "JOG (Pass a shortword vocabulary checkpoint under time pressure)"
           ],
           "answer": "JOT",
           "difficulty": 550,
@@ -928,10 +928,10 @@
           "type": "multiple-choice",
           "prompt": "Which of these is a valid all-vowel word useful for a vowel-heavy rack?",
           "options": [
-            "ADO (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "EAU (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "OWE (Pass a shortword vocabulary checkpoint under time pressure (U2))",
-            "AWE (Pass a shortword vocabulary checkpoint under time pressure (U2))"
+            "ADO (Pass a shortword vocabulary checkpoint under time pressure)",
+            "EAU (Pass a shortword vocabulary checkpoint under time pressure)",
+            "OWE (Pass a shortword vocabulary checkpoint under time pressure)",
+            "AWE (Pass a shortword vocabulary checkpoint under time pressure)"
           ],
           "answer": "EAU",
           "difficulty": 550,
@@ -984,10 +984,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Rapidly isolate high-frequency prefixes (RE-, which tile play maximizes expected scoring value?",
           "options": [
-            "CHAGING (Rapidly isolate highfrequency prefixes RE (U3))",
-            "HANGICE (Rapidly isolate highfrequency prefixes RE (U3))",
-            "GACHING (Rapidly isolate highfrequency prefixes RE (U3))",
-            "ACHING (Rapidly isolate highfrequency prefixes RE (U3))"
+            "CHAGING (Rapidly isolate highfrequency prefixes RE)",
+            "HANGICE (Rapidly isolate highfrequency prefixes RE)",
+            "GACHING (Rapidly isolate highfrequency prefixes RE)",
+            "ACHING (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 3,
           "explanation": "{A, C, H, E} + -ING = ACHING."
@@ -995,10 +995,10 @@
         {
           "prompt": "Why does chunking prefixes and suffixes speed up anagram discovery mathematically?",
           "options": [
-            "It eliminates vowel-consonant imbalance (Rapidly isolate highfrequency prefixes RE (U3))",
-            "It is required by tournament rules (Rapidly isolate highfrequency prefixes RE (U3))",
-            "It reduces the working-memory permutation space from 7! (Rapidly isolate highfrequency prefixes RE (U3))",
-            "It adds bonus points to the score (Rapidly isolate highfrequency prefixes RE (U3))"
+            "It eliminates vowel-consonant imbalance (Rapidly isolate highfrequency prefixes RE)",
+            "It is required by tournament rules (Rapidly isolate highfrequency prefixes RE)",
+            "It reduces the working-memory permutation space from 7! (Rapidly isolate highfrequency prefixes RE)",
+            "It adds bonus points to the score (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 2,
           "explanation": "Chunking fixed 2–3 letter units reduces the factorial search complexity by over 99%."
@@ -1006,10 +1006,10 @@
         {
           "prompt": "Which suffix is formed by the tiles {A, B, L, E}?",
           "options": [
-            "-ELBA (Rapidly isolate highfrequency prefixes RE (U3))",
-            "-ABLE (Rapidly isolate highfrequency prefixes RE (U3))",
-            "-LEAB (Rapidly isolate highfrequency prefixes RE (U3))",
-            "-BAEL (Rapidly isolate highfrequency prefixes RE (U3))"
+            "-ELBA (Rapidly isolate highfrequency prefixes RE)",
+            "-ABLE (Rapidly isolate highfrequency prefixes RE)",
+            "-LEAB (Rapidly isolate highfrequency prefixes RE)",
+            "-BAEL (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 1,
           "explanation": "-ABLE is one of the most productive 4-tile suffixes in English Scrabble."
@@ -1021,10 +1021,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 3, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "DIRTINE (Rapidly isolate highfrequency prefixes RE (U3))",
-            "TRUNDIE (Rapidly isolate highfrequency prefixes RE (U3))",
-            "RUNTIED (Rapidly isolate highfrequency prefixes RE (U3))",
-            "UNTRIED (Rapidly isolate highfrequency prefixes RE (U3))"
+            "DIRTINE (Rapidly isolate highfrequency prefixes RE)",
+            "TRUNDIE (Rapidly isolate highfrequency prefixes RE)",
+            "RUNTIED (Rapidly isolate highfrequency prefixes RE)",
+            "UNTRIED (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 3,
           "explanation": "UNTRIED is formed from UN- + TRI- + -ED."
@@ -1032,10 +1032,10 @@
         {
           "prompt": "Which of these is a high-probability 3-tile prefix in English?",
           "options": [
-            "-TION (Rapidly isolate highfrequency prefixes RE (U3))",
-            "-EST (Rapidly isolate highfrequency prefixes RE (U3))",
-            "DIS- (Rapidly isolate highfrequency prefixes RE (U3))",
-            "-ING (Rapidly isolate highfrequency prefixes RE (U3))"
+            "-TION (Rapidly isolate highfrequency prefixes RE)",
+            "-EST (Rapidly isolate highfrequency prefixes RE)",
+            "DIS- (Rapidly isolate highfrequency prefixes RE)",
+            "-ING (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 2,
           "explanation": "DIS- is a prefix (front chunk), while -ING, -EST, -TION are suffixes (back chunks)."
@@ -1047,10 +1047,10 @@
         {
           "prompt": "Rack: {D, E, I, N, R, T, U}. Chunking '-ED' leaves {I, N, R, T, U}. What valid 7-letter bingo is formed?",
           "options": [
-            "DIRTINE (Rapidly isolate highfrequency prefixes RE (U3))",
-            "TRUNDIE (Rapidly isolate highfrequency prefixes RE (U3))",
-            "UNTRIED (Rapidly isolate highfrequency prefixes RE (U3))",
-            "RUNTIED (Rapidly isolate highfrequency prefixes RE (U3))"
+            "DIRTINE (Rapidly isolate highfrequency prefixes RE)",
+            "TRUNDIE (Rapidly isolate highfrequency prefixes RE)",
+            "UNTRIED (Rapidly isolate highfrequency prefixes RE)",
+            "RUNTIED (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 2,
           "explanation": "UNTRIED (un + tri + ed) is a standard 7-letter bingo.",
@@ -1059,10 +1059,10 @@
         {
           "prompt": "Rack: {A, E, L, P, R, S, Y}. Chunking 'RE-' at the front leaves {A, L, P, S, Y}. What 7-letter bingo is formed?",
           "options": [
-            "RESPALY (Rapidly isolate highfrequency prefixes RE (U3))",
-            "REPLAYS (Rapidly isolate highfrequency prefixes RE (U3))",
-            "RELAYSP (Rapidly isolate highfrequency prefixes RE (U3))",
-            "REPLASY (Rapidly isolate highfrequency prefixes RE (U3))"
+            "RESPALY (Rapidly isolate highfrequency prefixes RE)",
+            "REPLAYS (Rapidly isolate highfrequency prefixes RE)",
+            "RELAYSP (Rapidly isolate highfrequency prefixes RE)",
+            "REPLASY (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 1,
           "explanation": "REPLAYS (re + plays).",
@@ -1071,10 +1071,10 @@
         {
           "prompt": "What is the primary cognitive benefit of physically sliding tiles on your rack during a game?",
           "options": [
-            "It breaks perceptual fixation and offloads cognitive load from working memory to visual perception (Rapidly isolate highfrequency prefixes RE (U3))",
-            "It changes the tile values (Rapidly isolate highfrequency prefixes RE (U3))",
-            "It guarantees finding a 50-point bonus (Rapidly isolate highfrequency prefixes RE (U3))",
-            "It intimidates your opponent (Rapidly isolate highfrequency prefixes RE (U3))"
+            "It breaks perceptual fixation and offloads cognitive load from working memory to visual perception (Rapidly isolate highfrequency prefixes RE)",
+            "It changes the tile values (Rapidly isolate highfrequency prefixes RE)",
+            "It guarantees finding a 50-point bonus (Rapidly isolate highfrequency prefixes RE)",
+            "It intimidates your opponent (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 0,
           "explanation": "Cognitive offloading reduces working-memory strain and triggers rapid visual pattern recognition.",
@@ -1083,10 +1083,10 @@
         {
           "prompt": "Which of the following tile groups forms a common English suffix?",
           "options": [
-            "SET- (Rapidly isolate highfrequency prefixes RE (U3))",
-            "TSE- (Rapidly isolate highfrequency prefixes RE (U3))",
-            "STE- (Rapidly isolate highfrequency prefixes RE (U3))",
-            "-EST (Rapidly isolate highfrequency prefixes RE (U3))"
+            "SET- (Rapidly isolate highfrequency prefixes RE)",
+            "TSE- (Rapidly isolate highfrequency prefixes RE)",
+            "STE- (Rapidly isolate highfrequency prefixes RE)",
+            "-EST (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 3,
           "explanation": "-EST is the superlative suffix (e.g. FASTEST, COLDEST).",
@@ -1095,10 +1095,10 @@
         {
           "prompt": "How many total permutations exist for 7 distinct tiles?",
           "options": [
-            "49 (Rapidly isolate highfrequency prefixes RE (U3))",
-            "120 (Rapidly isolate highfrequency prefixes RE (U3))",
-            "5,040 (Rapidly isolate highfrequency prefixes RE (U3))",
-            "700 (Rapidly isolate highfrequency prefixes RE (U3))"
+            "49 (Rapidly isolate highfrequency prefixes RE)",
+            "120 (Rapidly isolate highfrequency prefixes RE)",
+            "5,040 (Rapidly isolate highfrequency prefixes RE)",
+            "700 (Rapidly isolate highfrequency prefixes RE)"
           ],
           "answerIndex": 2,
           "explanation": "7! = 7 x 6 x 5 x 4 x 3 x 2 x 1 = 5,040.",
@@ -1145,10 +1145,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Deconstruct 7-letter racks into vowel-consonant alternating cores (C-V-C-V) and recognize foundational 3- and 4-letter high-synergy word stems (-ATE, which tile play maximizes expected scoring value?",
           "options": [
-            "3 Vowels and 4 Consonants (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "6 Vowels and 1 Consonant (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "All Vowels (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "1 Vowel and 6 Consonants (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "3 Vowels and 4 Consonants (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "6 Vowels and 1 Consonant (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "All Vowels (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "1 Vowel and 6 Consonants (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 0,
           "explanation": "A 3:4 or 2:5 ratio reflects natural English phonotactics and maximizes bingo probability."
@@ -1156,10 +1156,10 @@
         {
           "prompt": "Which 7-letter bingo is formed by the rack {A, E, I, N, R, S, T}?",
           "options": [
-            "RETAINS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "TRAINST (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "STRANIE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "INTERAS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "RETAINS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "TRAINST (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "STRANIE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "INTERAS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 0,
           "explanation": "RETAINS, RETINAS, NASTIER, and STAINER are all valid 7-letter bingos from {A, E, I, N, R, S, T}."
@@ -1167,10 +1167,10 @@
         {
           "prompt": "If your rack has 5 vowels and 2 consonants, what strategy should you prioritize?",
           "options": [
-            "Play off 2–3 surplus vowels to balance your rack for future turns (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "Pass your turn (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "Exchange all 7 tiles regardless of letters (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "Wait for an all-vowel bingo (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "Play off 2–3 surplus vowels to balance your rack for future turns (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "Pass your turn (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "Exchange all 7 tiles regardless of letters (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "Wait for an all-vowel bingo (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 0,
           "explanation": "Shedding surplus vowels restores optimal 3:4 balance and unlocks future bingos."
@@ -1182,10 +1182,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 3, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "VEINERS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "ENVIERS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "NERVIES (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "INVERSE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "VEINERS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "ENVIERS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "NERVIES (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "INVERSE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 3,
           "explanation": "INVERSE is formed from {E, E, I, N, R, S, V}."
@@ -1193,10 +1193,10 @@
         {
           "prompt": "Which 4-letter stem is shared by the words CRATE, GRATE, and STATE?",
           "options": [
-            "-INE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "-EAR (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "-AND (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "-ATE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "-INE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "-EAR (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "-AND (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "-ATE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 3,
           "explanation": "All three share the high-synergy root -ATE."
@@ -1208,10 +1208,10 @@
         {
           "prompt": "Rack: {A, E, O, R, S, T, T}. What 7-letter kitchen appliance word is formed?",
           "options": [
-            "TREATOS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "TOASTER (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "STATORE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "ROTATES (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "TREATOS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "TOASTER (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "STATORE (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "ROTATES (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 1,
           "explanation": "TOASTER (and ROTATES) are valid 7-letter bingos from {A, E, O, R, S, T, T}.",
@@ -1220,10 +1220,10 @@
         {
           "prompt": "Rack: {A, E, I, N, R, S, T}. Which of these is NOT an anagram of this exact rack?",
           "options": [
-            "STARTING (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "RETINAS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "NASTIER (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "RETAINS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "STARTING (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "RETINAS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "NASTIER (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "RETAINS (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 0,
           "explanation": "STARTING requires a 'G', which is not in {A, E, I, N, R, S, T}.",
@@ -1232,10 +1232,10 @@
         {
           "prompt": "Why are 1-point tiles (A, E, I, L, N, O, R, S, T) considered the most powerful tiles for bingos?",
           "options": [
-            "They multiply the board score by 10 (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "They can be played on any color square (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "They are worth 50 points each (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "They have the highest frequency and flexibility in English syllable structures (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "They multiply the board score by 10 (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "They can be played on any color square (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "They are worth 50 points each (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "They have the highest frequency and flexibility in English syllable structures (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 3,
           "explanation": "High frequency and phonotactic versatility allow them to combine seamlessly into hundreds of 7- and 8-letter bingos.",
@@ -1244,10 +1244,10 @@
         {
           "prompt": "What does C-V-C-V stand for in linguistics and Scrabble pattern recognition?",
           "options": [
-            "Center-Value-Core-Variable (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "Check-Verify-Calculate-Validate (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "Consonant-Vowel-Consonant-Vowel (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "Combined-Vocabulary-Cross-Vector (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))"
+            "Center-Value-Core-Variable (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "Check-Verify-Calculate-Validate (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "Consonant-Vowel-Consonant-Vowel (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)",
+            "Combined-Vocabulary-Cross-Vector (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE)"
           ],
           "answerIndex": 2,
           "explanation": "Consonant-Vowel alternation pattern.",
@@ -1256,12 +1256,12 @@
         {
           "prompt": "Rack: {A, D, E, L, M, O, U}. What 7-letter word means 'a module' or 'measured form' is formed?",
           "options": [
-            "UNMODEL (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "MODULAR (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "MOULDER (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3))",
-            "MODULAR (Deconstruct 7letter racks into vowelconsonant alternating cores CVCV and recognize foundational 3 and 4letter highsynergy word stems ATE (U3)) [Option 4]"
+            "RETAIN (Top-tier 6-letter bingo stem with high leave equity)",
+            "SATIRE (Classic blank-friendly 6-letter high-synergy stem)",
+            "TINSEL (Balanced 6-letter vowel-consonant rack foundation)",
+            "MODULAR (7-letter word requiring specific high-point tile hooks)"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Analyzing valid stems.",
           "type": "multiple-choice"
         }
@@ -1306,9 +1306,9 @@
         {
           "prompt": "In tournament Scrabble strategy for Identify compound word constructions and front/back hooks on the board to bridge 5- and 6-letter base words into 7- and 8-letter bingos (e, which tile play maximizes expected scoring value?",
           "options": [
-            "Z (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "Q (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "X (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
+            "Z (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "Q (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "X (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
             "B (BLACK)"
           ],
           "answerIndex": 3,
@@ -1317,10 +1317,10 @@
         {
           "prompt": "Which 4-letter compound prefix can attach to LAST, RUN, PLAY, and LIVE?",
           "options": [
-            "PRE- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "NON- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "MID- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "OUT- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "PRE- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "NON- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "MID- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "OUT- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 3,
           "explanation": "OUT- fuses with all four base verbs to form standard compound words."
@@ -1328,10 +1328,10 @@
         {
           "prompt": "What is a 'parallel play' in Scrabble?",
           "options": [
-            "Playing two tiles of the same letter (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "Playing on the center star (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "Passing your turn twice (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "Playing a word adjacent and parallel to an existing word, forming multiple 2-letter cross words simultaneously (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "Playing two tiles of the same letter (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "Playing on the center star (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "Passing your turn twice (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "Playing a word adjacent and parallel to an existing word, forming multiple 2-letter cross words simultaneously (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 3,
           "explanation": "A parallel play creates multiple simultaneous cross-words along an existing word line."
@@ -1343,10 +1343,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 3, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "SUN- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "DOG- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "CAT- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "RUN- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "SUN- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "DOG- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "CAT- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "RUN- (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 0,
           "explanation": "SUN + LIGHT = SUNLIGHT (8 letters)."
@@ -1354,10 +1354,10 @@
         {
           "prompt": "Which of these single letters is a valid back hook for the word 'RIVER'?",
           "options": [
-            "S (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "K (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "Q (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "X (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "S (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "K (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "Q (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "X (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 0,
           "explanation": "RIVER + S = RIVERS."
@@ -1369,10 +1369,10 @@
         {
           "prompt": "Board has 'DOOR'. Rack has {O, U, T, S, I, D, E}. What 8-letter compound word can be made?",
           "options": [
-            "OUTDOORS (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "BACKDOOR (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "DOORSIDE (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "SIDEDOOR (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "OUTDOORS (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "BACKDOOR (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "DOORSIDE (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "SIDEDOOR (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 0,
           "explanation": "OUT + DOOR + S = OUTDOORS.",
@@ -1381,10 +1381,10 @@
         {
           "prompt": "Which letter acts as both a front hook and a back hook for the word 'EAT'?",
           "options": [
-            "C (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "B (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "D (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "S (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "C (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "B (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "D (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "S (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 3,
           "explanation": "S creates 'SEAT' (front) and 'EATS' (back).",
@@ -1393,10 +1393,10 @@
         {
           "prompt": "Why are hook opportunities so prized in tournament Scrabble strategy?",
           "options": [
-            "They double the tile count (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "They allow you to look at the opponent's rack (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
+            "They double the tile count (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "They allow you to look at the opponent's rack (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
             "They allow you to reach high-value bonus squares (Triple Word Scores)",
-            "They let you skip the opponent's turn (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "They let you skip the opponent's turn (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 2,
           "explanation": "Hooks connect your play to bonus lanes and double-count the hooked tile.",
@@ -1405,10 +1405,10 @@
         {
           "prompt": "Board has 'BOARD'. Which compound word is valid?",
           "options": [
-            "DOGBOARD (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "KEYBOARD / SUNBOARD❌ / STARBOARD / OUTBOARD (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "TREEBOARD (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "CATBOARD (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "DOGBOARD (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "KEYBOARD / SUNBOARD❌ / STARBOARD / OUTBOARD (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "TREEBOARD (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "CATBOARD (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 1,
           "explanation": "KEYBOARD, STARBOARD, OUTBOARD are valid compounds.",
@@ -1417,10 +1417,10 @@
         {
           "prompt": "What is the 50-point bonus awarded for in Scrabble?",
           "options": [
-            "Using all 7 tiles from your rack in a single turn (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "Spelling a word longer than 10 letters (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "Hitting two Triple Word scores at once (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))",
-            "Playing the letter 'Q' without a 'U' (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e (U3))"
+            "Using all 7 tiles from your rack in a single turn (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "Spelling a word longer than 10 letters (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "Hitting two Triple Word scores at once (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)",
+            "Playing the letter 'Q' without a 'U' (Identify compound word constructions and frontback hooks on the board to bridge 5 and 6letter base words into 7 and 8letter bingos e)"
           ],
           "answerIndex": 0,
           "explanation": "A Bingo bonus awards 50 extra points for playing all 7 rack tiles.",
@@ -1467,10 +1467,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Apply the Alphagram Sorting Method (sorting rack letters alphabetically, which tile play maximizes expected scoring value?",
           "options": [
-            "AEINPRT (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "PAINTER (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "TRAINPE (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "PEINART (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "AEINPRT (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "PAINTER (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "TRAINPE (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "PEINART (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 0,
           "explanation": "Alphabetical sorting of P-A-I-N-T-E-R is A-E-I-N-P-R-T."
@@ -1478,10 +1478,10 @@
         {
           "prompt": "Which two valid 7-letter words are formed by the famous alphagram ADEINRT?",
           "options": [
-            "TRAINED and DETRAIN (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "TRADERS and DEARIST (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "INTREAD and REDTRAI (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "TRAINER and RETRAIN (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "TRAINED and DETRAIN (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "TRADERS and DEARIST (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "INTREAD and REDTRAI (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "TRAINER and RETRAIN (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 0,
           "explanation": "ADEINRT produces TRAINED and DETRAIN."
@@ -1489,10 +1489,10 @@
         {
           "prompt": "Why do competitive tournament players sort their racks alphabetically?",
           "options": [
-            "Because an alphagram serves as a standardized mental trigger for instant dictionary recall from long-term memory (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "To score double points on blanks (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "To hide their letters from the opponent (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "Because it is required by the referee (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "Because an alphagram serves as a standardized mental trigger for instant dictionary recall from long-term memory (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "To score double points on blanks (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "To hide their letters from the opponent (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "Because it is required by the referee (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 0,
           "explanation": "Standardized alphagrams eliminate cognitive search noise and trigger direct memory lookup."
@@ -1504,10 +1504,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Apply the Alphagram Sorting Method, which play optimizes scoring and rack balance?",
           "options": [
-            "AEINRST (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "ARSTEEN (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "SEARNTI (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "NASTERI (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "AEINRST (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "ARSTEEN (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "SEARNTI (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "NASTERI (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 0,
           "explanation": "Sorted A to Z: A, E, I, N, R, S, T."
@@ -1515,10 +1515,10 @@
         {
           "prompt": "The alphagram AEILNRT produces which word meaning 'dependable'?",
           "options": [
-            "RELIANT (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "ENTRAIL (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "LATINER (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "RETINAL (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "RELIANT (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "ENTRAIL (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "LATINER (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "RETINAL (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 0,
           "explanation": "RELIANT (re-li-ant) is formed from AEILNRT."
@@ -1530,10 +1530,10 @@
         {
           "prompt": "What 7-letter word meaning 'a color artist' is an anagram of the alphagram AEINPRT?",
           "options": [
-            "PAINTER (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "PERTAIN (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "REPAINT (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "All three are valid words from this alphagram! (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "PAINTER (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "PERTAIN (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "REPAINT (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "All three are valid words from this alphagram! (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 3,
           "explanation": "PAINTER, PERTAIN, and REPAINT are all valid anagrams of AEINPRT.",
@@ -1542,10 +1542,10 @@
         {
           "prompt": "What is the alphagram of the word 'TOASTER'?",
           "options": [
-            "AESTORT (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "TOASTER (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "AEORSTT (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "ROTEAST (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "AESTORT (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "TOASTER (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "AEORSTT (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "ROTEAST (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 2,
           "explanation": "A-E-O-R-S-T-T.",
@@ -1554,10 +1554,10 @@
         {
           "prompt": "What software do tournament Scrabble players use worldwide to study alphagrams?",
           "options": [
-            "Photoshop (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "Zyzzyva (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "Microsoft Word (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "Stockfish (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "Photoshop (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "Zyzzyva (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "Microsoft Word (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "Stockfish (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 1,
           "explanation": "NASPA Zyzzyva is the official worldwide word-study software for competitive Scrabble.",
@@ -1566,10 +1566,10 @@
         {
           "prompt": "Alphagram: ADEILPR. What 7-letter word means 'to jump or play joyfully'?",
           "options": [
-            "LIPREAD❌ -> DRAPIL❌ -> AIRLEDP❌ -> PLAIDER (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "PLAIDER (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "PARLIED (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "LIPREAD (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "LIPREAD❌ -> DRAPIL❌ -> AIRLEDP❌ -> PLAIDER (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "PLAIDER (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "PARLIED (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "LIPREAD (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 0,
           "explanation": "Valid words from ADEILPR include LIPREAD, PARLIED, PLAIDER.",
@@ -1578,10 +1578,10 @@
         {
           "prompt": "What is the core cognitive principle behind alphagram memorization?",
           "options": [
-            "Rote visual hallucination (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "Probability management and tile bag tracking (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "Physical tile weight (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))",
-            "Pattern chunking and indexed mental retrieval (Apply the Alphagram Sorting Method sorting rack letters alphabetically (U3))"
+            "Rote visual hallucination (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "Probability management and tile bag tracking (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "Physical tile weight (Apply the Alphagram Sorting Method sorting rack letters alphabetically)",
+            "Pattern chunking and indexed mental retrieval (Apply the Alphagram Sorting Method sorting rack letters alphabetically)"
           ],
           "answerIndex": 3,
           "explanation": "Pattern chunking and structured mental indexing.",
@@ -1630,10 +1630,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Integrate prefix/suffix chunking, which tile play maximizes expected scoring value?",
           "options": [
-            "TEARING (Integrate prefixsuffix chunking (U3))",
-            "RATEING (Integrate prefixsuffix chunking (U3))",
-            "GREATIN (Integrate prefixsuffix chunking (U3))",
-            "TAGERIN (Integrate prefixsuffix chunking (U3))"
+            "TEARING (Integrate prefixsuffix chunking)",
+            "RATEING (Integrate prefixsuffix chunking)",
+            "GREATIN (Integrate prefixsuffix chunking)",
+            "TAGERIN (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 0,
           "explanation": "TEARING (and TANGIER) are valid 7-letter bingos."
@@ -1641,10 +1641,10 @@
         {
           "prompt": "If you play TEARING (worth 11 base points) across a Double Word Score square with all 7 tiles, what is your total score?",
           "options": [
-            "72 points (Integrate prefixsuffix chunking (U3))",
-            "22 points (Integrate prefixsuffix chunking (U3))",
-            "50 points (Integrate prefixsuffix chunking (U3))",
-            "61 points (Integrate prefixsuffix chunking (U3))"
+            "72 points (Integrate prefixsuffix chunking)",
+            "22 points (Integrate prefixsuffix chunking)",
+            "50 points (Integrate prefixsuffix chunking)",
+            "61 points (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 0,
           "explanation": "Base 11 doubled = 22, plus the 50-point Bingo Bonus = 72 points."
@@ -1653,9 +1653,9 @@
           "prompt": "What is the very first step in the 25-Second Tournament Anagram Algorithm?",
           "options": [
             "Scan for high-frequency suffixes (-ING, -ED, -ER)",
-            "Immediately shuffle the tiles into the bag (Integrate prefixsuffix chunking (U3))",
-            "Look for 2-letter words only (Integrate prefixsuffix chunking (U3))",
-            "Ask the opponent for advice (Integrate prefixsuffix chunking (U3))"
+            "Immediately shuffle the tiles into the bag (Integrate prefixsuffix chunking)",
+            "Look for 2-letter words only (Integrate prefixsuffix chunking)",
+            "Ask the opponent for advice (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 0,
           "explanation": "Chunking suffixes and alphagram sorting is Step 1."
@@ -1667,10 +1667,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 3, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "ENTICED (Integrate prefixsuffix chunking (U3))",
-            "INCITED (Integrate prefixsuffix chunking (U3))",
-            "Both INCITED and ENTICED are valid! (Integrate prefixsuffix chunking (U3))",
-            "DECENTI (Integrate prefixsuffix chunking (U3))"
+            "ENTICED (Integrate prefixsuffix chunking)",
+            "INCITED (Integrate prefixsuffix chunking)",
+            "Both INCITED and ENTICED are valid! (Integrate prefixsuffix chunking)",
+            "DECENTI (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 2,
           "explanation": "Both INCITED and ENTICED are valid 7-letter bingos from {C, D, E, E, I, N, T}."
@@ -1678,10 +1678,10 @@
         {
           "prompt": "How many bonus points are awarded for a valid 7-letter play using all rack tiles?",
           "options": [
-            "50 points (Integrate prefixsuffix chunking (U3))",
-            "100 points (Integrate prefixsuffix chunking (U3))",
-            "30 points (Integrate prefixsuffix chunking (U3))",
-            "25 points (Integrate prefixsuffix chunking (U3))"
+            "50 points (Integrate prefixsuffix chunking)",
+            "100 points (Integrate prefixsuffix chunking)",
+            "30 points (Integrate prefixsuffix chunking)",
+            "25 points (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 0,
           "explanation": "The Bingo Bonus is always exactly 50 points."
@@ -1693,10 +1693,10 @@
         {
           "prompt": "Rack: {A, E, I, N, P, R, T}. Which of these is a valid 7-letter bingo from this rack?",
           "options": [
-            "PERTAIN (Integrate prefixsuffix chunking (U3))",
-            "REPAINT (Integrate prefixsuffix chunking (U3))",
-            "All three are valid 7-letter bingos! (Integrate prefixsuffix chunking (U3))",
-            "PAINTER (Integrate prefixsuffix chunking (U3))"
+            "PERTAIN (Integrate prefixsuffix chunking)",
+            "REPAINT (Integrate prefixsuffix chunking)",
+            "All three are valid 7-letter bingos! (Integrate prefixsuffix chunking)",
+            "PAINTER (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 2,
           "explanation": "PAINTER, PERTAIN, and REPAINT are all valid anagrams of AEINPRT.",
@@ -1705,10 +1705,10 @@
         {
           "prompt": "Rack: {D, E, N, O, P, R, S}. Chunking '-ED' leaves {N, O, P, R, S}. What 7-letter word meaning 'replied' is formed?",
           "options": [
-            "PONDER-S (Integrate prefixsuffix chunking (U3))",
-            "Both RESPOND and PONDERS are valid 7-letter bingos! (Integrate prefixsuffix chunking (U3))",
-            "PERSON-D (Integrate prefixsuffix chunking (U3))",
-            "RESPOND (Integrate prefixsuffix chunking (U3))"
+            "PONDER-S (Integrate prefixsuffix chunking)",
+            "Both RESPOND and PONDERS are valid 7-letter bingos! (Integrate prefixsuffix chunking)",
+            "PERSON-D (Integrate prefixsuffix chunking)",
+            "RESPOND (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 1,
           "explanation": "Both RESPOND and PONDERS are valid 7-letter bingos.",
@@ -1717,10 +1717,10 @@
         {
           "prompt": "Why is playing a 7-letter bingo the single highest-leverage strategic action in a Scrabble game?",
           "options": [
-            "It grants a guaranteed 50-point bonus and cycles 100% of your rack tiles in one turn (Integrate prefixsuffix chunking (U3))",
-            "It doubles your opponent's clock time (Integrate prefixsuffix chunking (U3))",
-            "It allows you to steal a tile from the bag (Integrate prefixsuffix chunking (U3))",
-            "It ends the game immediately (Integrate prefixsuffix chunking (U3))"
+            "It grants a guaranteed 50-point bonus and cycles 100% of your rack tiles in one turn (Integrate prefixsuffix chunking)",
+            "It doubles your opponent's clock time (Integrate prefixsuffix chunking)",
+            "It allows you to steal a tile from the bag (Integrate prefixsuffix chunking)",
+            "It ends the game immediately (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 0,
           "explanation": "A 50-point boost plus a fresh 7-tile draw drives massive point leads.",
@@ -1729,10 +1729,10 @@
         {
           "prompt": "Which cognitive science concept explains why expert Scrabble players recognize 7-letter bingos in seconds?",
           "options": [
-            "Photographic memory (Integrate prefixsuffix chunking (U3))",
-            "Telepathy (Integrate prefixsuffix chunking (U3))",
-            "Pure random trial-and-error (Integrate prefixsuffix chunking (U3))",
-            "Pattern recognition and chunking in long-term memory (Integrate prefixsuffix chunking (U3))"
+            "Photographic memory (Integrate prefixsuffix chunking)",
+            "Telepathy (Integrate prefixsuffix chunking)",
+            "Pure random trial-and-error (Integrate prefixsuffix chunking)",
+            "Pattern recognition and chunking in long-term memory (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 3,
           "explanation": "Chunking and pattern retrieval (deliberate practice).",
@@ -1741,10 +1741,10 @@
         {
           "prompt": "What is the primary objective of completing Unit 3 in FEARN Scrabble?",
           "options": [
-            "Only learning 2-letter words (Integrate prefixsuffix chunking (U3))",
-            "Memorizing tile point values only (Integrate prefixsuffix chunking (U3))",
-            "Mastering prefix/suffix chunking, alphagram sorting, and rapid 7-letter bingo discovery under time constraints (Integrate prefixsuffix chunking (U3))",
-            "Learning how to spell 3-letter words (Integrate prefixsuffix chunking (U3))"
+            "Only learning 2-letter words (Integrate prefixsuffix chunking)",
+            "Memorizing tile point values only (Integrate prefixsuffix chunking)",
+            "Mastering prefix/suffix chunking, alphagram sorting, and rapid 7-letter bingo discovery under time constraints (Integrate prefixsuffix chunking)",
+            "Learning how to spell 3-letter words (Integrate prefixsuffix chunking)"
           ],
           "answerIndex": 2,
           "explanation": "Unit 3 master objective: Anagram & Word-Pattern Recognition.",
@@ -1791,10 +1791,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master the #1 highest-probability 6-letter Scrabble bingo stem, which tile play maximizes expected scoring value?",
           "options": [
-            "+25 points (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "+100 points (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "Double the entire board score (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "+50 points (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "+25 points (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "+100 points (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "Double the entire board score (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "+50 points (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 3,
           "explanation": "Playing all 7 tiles awards exactly +50 bonus points."
@@ -1802,10 +1802,10 @@
         {
           "prompt": "Which 7-letter bingo is formed by TISANE + D?",
           "options": [
-            "DATING (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "DISTANCE (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "STAINED (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "STANDUP (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "DATING (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "DISTANCE (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "STAINED (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "STANDUP (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 2,
           "explanation": "T-I-S-A-N-E + D anagrams to STAINED and DESTAIN."
@@ -1813,10 +1813,10 @@
         {
           "prompt": "What high-scoring 7-letter word is formed by TISANE + Z?",
           "options": [
-            "ZIZITHS (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "ZANIEST (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "ZODIAC (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "ZEALOUS (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "ZIZITHS (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "ZANIEST (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "ZODIAC (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "ZEALOUS (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 1,
           "explanation": "T-I-S-A-N-E + Z = ZANIEST."
@@ -1828,10 +1828,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "K (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "P (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "M (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "C (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "K (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "P (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "M (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "C (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 3,
           "explanation": "TISANE + C = CINEAST."
@@ -1839,10 +1839,10 @@
         {
           "prompt": "Which of these is a valid 7-letter anagram of TISANE + R?",
           "options": [
-            "STRAINER (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "RESTRAIN (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "RETAINS (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "TRAINERS (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "STRAINER (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "RESTRAIN (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "RETAINS (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "TRAINERS (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 2,
           "explanation": "TISANE + R forms 7-letter words: RETAINS, NASTIER, RETINAS."
@@ -1854,10 +1854,10 @@
         {
           "prompt": "Why is TISANE considered the premier bingo stem in competitive Scrabble?",
           "options": [
-            "It is worth 50 points by itself (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "It consists of the six most frequent 1-point tiles and forms valid 7-letter bingos with over 20 letters of the alphabet (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "It was invented by Alfred Butts (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "It can only be played in the center (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "It is worth 50 points by itself (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "It consists of the six most frequent 1-point tiles and forms valid 7-letter bingos with over 20 letters of the alphabet (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "It was invented by Alfred Butts (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "It can only be played in the center (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 1,
           "explanation": "High probability and universal combinatorial density.",
@@ -1866,10 +1866,10 @@
         {
           "prompt": "What word is formed by combining TISANE + X?",
           "options": [
-            "SEXTAIN (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "EXISTEN (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "SEXTANT (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "TAXISES (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "SEXTAIN (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "EXISTEN (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "SEXTANT (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "TAXISES (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 0,
           "explanation": "TISANE + X = SEXTAIN.",
@@ -1878,10 +1878,10 @@
         {
           "prompt": "If your rack has A-E-I-N-S-T-P, what valid 7-letter words can you play?",
           "options": [
-            "PRINTER, SPINACH (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "PATIENT, PLASTIC (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "PAINTER, POINTER (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "PANTIES, SAPIENT, PATINES (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "PRINTER, SPINACH (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "PATIENT, PLASTIC (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "PAINTER, POINTER (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "PANTIES, SAPIENT, PATINES (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 3,
           "explanation": "TISANE + P anagrams to PANTIES, SAPIENT, PATINES.",
@@ -1890,10 +1890,10 @@
         {
           "prompt": "What is the meaning of 'ETESIAN' (TISANE + E)?",
           "options": [
-            "A type of cheese (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "A musical instrument (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "Periodic Mediterranean summer winds (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "An ancient Egyptian coin (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "A type of cheese (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "A musical instrument (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "Periodic Mediterranean summer winds (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "An ancient Egyptian coin (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 2,
           "explanation": "Etesian = annual northwesterly winds in the Aegean Sea.",
@@ -1902,10 +1902,10 @@
         {
           "prompt": "What strategic rack-management principle does stem training teach?",
           "options": [
-            "Playing all consonants first (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
+            "Playing all consonants first (Master the 1 highestprobability 6letter Scrabble bingo stem)",
             "Holding 1-point balanced vowel-consonant tiles (like E-I-A-S-T-N)",
-            "Never exchanging tiles (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))",
-            "Always keeping the Q and Z on your rack (Master the 1 highestprobability 6letter Scrabble bingo stem (U4))"
+            "Never exchanging tiles (Master the 1 highestprobability 6letter Scrabble bingo stem)",
+            "Always keeping the Q and Z on your rack (Master the 1 highestprobability 6letter Scrabble bingo stem)"
           ],
           "answerIndex": 1,
           "explanation": "Maximizing rack leave quality for high-frequency bingos.",
@@ -1952,10 +1952,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master the #2 and #3 elite 6-letter bingo stems, which tile play maximizes expected scoring value?",
           "options": [
-            "PIRATES (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "PARTNER (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "PAINTER (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "PATIENT (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "PIRATES (Master the 2 and 3 elite 6letter bingo stems)",
+            "PARTNER (Master the 2 and 3 elite 6letter bingo stems)",
+            "PAINTER (Master the 2 and 3 elite 6letter bingo stems)",
+            "PATIENT (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 0,
           "explanation": "SATIRE + P = PIRATES, PIASTRE, PRATIES."
@@ -1963,10 +1963,10 @@
         {
           "prompt": "Which 7-letter anagram is formed by RETAIN + G?",
           "options": [
-            "GRANITE (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "GARNETS (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "GIANTLY (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "GAITERS (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "GRANITE (Master the 2 and 3 elite 6letter bingo stems)",
+            "GARNETS (Master the 2 and 3 elite 6letter bingo stems)",
+            "GIANTLY (Master the 2 and 3 elite 6letter bingo stems)",
+            "GAITERS (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 0,
           "explanation": "RETAIN + G = GRANITE, INGRATE, TEARING."
@@ -1974,10 +1974,10 @@
         {
           "prompt": "Which 7-letter anagram is formed by SATIRE + D?",
           "options": [
-            "ASTRIDE (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "STANDER (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "STORAGE (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "STAINED (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "ASTRIDE (Master the 2 and 3 elite 6letter bingo stems)",
+            "STANDER (Master the 2 and 3 elite 6letter bingo stems)",
+            "STORAGE (Master the 2 and 3 elite 6letter bingo stems)",
+            "STAINED (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 0,
           "explanation": "SATIRE + D = ASTRIDE, STAIDER, ARIDEST."
@@ -1989,10 +1989,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "TRENDIE (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "STAINED (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "TRADERS (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "TRAINED (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "TRENDIE (Master the 2 and 3 elite 6letter bingo stems)",
+            "STAINED (Master the 2 and 3 elite 6letter bingo stems)",
+            "TRADERS (Master the 2 and 3 elite 6letter bingo stems)",
+            "TRAINED (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 3,
           "explanation": "RETAIN + D = TRAINED / DETRAIN."
@@ -2000,10 +2000,10 @@
         {
           "prompt": "What word is formed by RETAIN + L?",
           "options": [
-            "LANTERN (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "LARIATS (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "LEATHER (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "LATRINE (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "LANTERN (Master the 2 and 3 elite 6letter bingo stems)",
+            "LARIATS (Master the 2 and 3 elite 6letter bingo stems)",
+            "LEATHER (Master the 2 and 3 elite 6letter bingo stems)",
+            "LATRINE (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 3,
           "explanation": "RETAIN + L = LATRINE, ENTRAIL, RELIANT, RETINAL."
@@ -2015,10 +2015,10 @@
         {
           "prompt": "What are the 6 letters that make up the SATIRE stem?",
           "options": [
-            "S, A, T, I, R, E (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "S, T, A, R, E, D (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "S, T, R, A, I, N (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "S, E, N, A, T, E (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "S, A, T, I, R, E (Master the 2 and 3 elite 6letter bingo stems)",
+            "S, T, A, R, E, D (Master the 2 and 3 elite 6letter bingo stems)",
+            "S, T, R, A, I, N (Master the 2 and 3 elite 6letter bingo stems)",
+            "S, E, N, A, T, E (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 0,
           "explanation": "S-A-T-I-R-E.",
@@ -2027,10 +2027,10 @@
         {
           "prompt": "If your rack is A-E-I-N-R-T and you draw a P, what high-scoring bingos can you play?",
           "options": [
-            "PIRATES, PATINES (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "PARTNER, PRINTER (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "POINTER, PLANTER (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "PAINTER, PERTAIN, REPAINT (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "PIRATES, PATINES (Master the 2 and 3 elite 6letter bingo stems)",
+            "PARTNER, PRINTER (Master the 2 and 3 elite 6letter bingo stems)",
+            "POINTER, PLANTER (Master the 2 and 3 elite 6letter bingo stems)",
+            "PAINTER, PERTAIN, REPAINT (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 3,
           "explanation": "RETAIN + P = PAINTER, PERTAIN, REPAINT.",
@@ -2039,10 +2039,10 @@
         {
           "prompt": "What is the biological meaning of 'CRISTAE' (SATIRE + C)?",
           "options": [
-            "A microscopic algae (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "A crystal formation in caves (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "The internal folds of the inner mitochondrial membrane (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "A species of marine mollusk (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "A microscopic algae (Master the 2 and 3 elite 6letter bingo stems)",
+            "A crystal formation in caves (Master the 2 and 3 elite 6letter bingo stems)",
+            "The internal folds of the inner mitochondrial membrane (Master the 2 and 3 elite 6letter bingo stems)",
+            "A species of marine mollusk (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 2,
           "explanation": "Cristae are the inner folds of mitochondria.",
@@ -2051,10 +2051,10 @@
         {
           "prompt": "Which stem combines with 'G' to make 'GAITERS' vs 'GRANITE'?",
           "options": [
-            "Neither is valid (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "SATIRE + G makes GAITERS; RETAIN + G makes GRANITE (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "TISANE + G makes both (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "SANTER makes GAITERS (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "Neither is valid (Master the 2 and 3 elite 6letter bingo stems)",
+            "SATIRE + G makes GAITERS; RETAIN + G makes GRANITE (Master the 2 and 3 elite 6letter bingo stems)",
+            "TISANE + G makes both (Master the 2 and 3 elite 6letter bingo stems)",
+            "SANTER makes GAITERS (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 1,
           "explanation": "SATIRE+G = GAITERS; RETAIN+G = GRANITE.",
@@ -2063,10 +2063,10 @@
         {
           "prompt": "Why are SATIRE and RETAIN called 6-letter stems rather than full words?",
           "options": [
-            "Because players use them as base anchors to systematically memorize 7-letter anagram additions across all 26 letters (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "Because they require a blank tile (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "Because they cannot be played on the board (Master the 2 and 3 elite 6letter bingo stems (U4))",
-            "Because they are 6 letters only (Master the 2 and 3 elite 6letter bingo stems (U4))"
+            "Because players use them as base anchors to systematically memorize 7-letter anagram additions across all 26 letters (Master the 2 and 3 elite 6letter bingo stems)",
+            "Because they require a blank tile (Master the 2 and 3 elite 6letter bingo stems)",
+            "Because they cannot be played on the board (Master the 2 and 3 elite 6letter bingo stems)",
+            "Because they are 6 letters only (Master the 2 and 3 elite 6letter bingo stems)"
           ],
           "answerIndex": 0,
           "explanation": "Stem methodology for systematic 7-letter bingo recall.",
@@ -2113,10 +2113,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master consonant-heavy and common suffix bingo stems, which tile play maximizes expected scoring value?",
           "options": [
-            "CENTRAL, CERTAIN (Master consonantheavy and common suffix bingo stems (U4))",
-            "CHANCER, CHANCES (Master consonantheavy and common suffix bingo stems (U4))",
-            "CORNERS, CABINET (Master consonantheavy and common suffix bingo stems (U4))",
-            "NECTARS, TRANCES, RECANTS, CANTERS, SCANTER (Master consonantheavy and common suffix bingo stems (U4))"
+            "CENTRAL, CERTAIN (Master consonantheavy and common suffix bingo stems)",
+            "CHANCER, CHANCES (Master consonantheavy and common suffix bingo stems)",
+            "CORNERS, CABINET (Master consonantheavy and common suffix bingo stems)",
+            "NECTARS, TRANCES, RECANTS, CANTERS, SCANTER (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 3,
           "explanation": "SANTER + C yields 5 valid tournament bingos."
@@ -2124,10 +2124,10 @@
         {
           "prompt": "What common 7-letter word is formed by STAREN + P?",
           "options": [
-            "PARTNER (Master consonantheavy and common suffix bingo stems (U4))",
-            "POINTER (Master consonantheavy and common suffix bingo stems (U4))",
-            "PATIENT (Master consonantheavy and common suffix bingo stems (U4))",
-            "PARENTS (Master consonantheavy and common suffix bingo stems (U4))"
+            "PARTNER (Master consonantheavy and common suffix bingo stems)",
+            "POINTER (Master consonantheavy and common suffix bingo stems)",
+            "PATIENT (Master consonantheavy and common suffix bingo stems)",
+            "PARENTS (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 3,
           "explanation": "STAREN + P = PARENTS, ENTRAPS, PASTERN."
@@ -2135,10 +2135,10 @@
         {
           "prompt": "Which word is formed by STAREN + G?",
           "options": [
-            "GRANITE (Master consonantheavy and common suffix bingo stems (U4))",
-            "GAITERS (Master consonantheavy and common suffix bingo stems (U4))",
-            "GARDENS (Master consonantheavy and common suffix bingo stems (U4))",
-            "GARNETS (Master consonantheavy and common suffix bingo stems (U4))"
+            "GRANITE (Master consonantheavy and common suffix bingo stems)",
+            "GAITERS (Master consonantheavy and common suffix bingo stems)",
+            "GARDENS (Master consonantheavy and common suffix bingo stems)",
+            "GARNETS (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 3,
           "explanation": "STAREN + G = GARNETS, STRANGE."
@@ -2150,10 +2150,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "TANKERS (Master consonantheavy and common suffix bingo stems (U4))",
-            "STALKER (Master consonantheavy and common suffix bingo stems (U4))",
-            "SPEAKER (Master consonantheavy and common suffix bingo stems (U4))",
-            "SKATERS (Master consonantheavy and common suffix bingo stems (U4))"
+            "TANKERS (Master consonantheavy and common suffix bingo stems)",
+            "STALKER (Master consonantheavy and common suffix bingo stems)",
+            "SPEAKER (Master consonantheavy and common suffix bingo stems)",
+            "SKATERS (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 0,
           "explanation": "SANTER + K = TANKERS / RANKEST."
@@ -2161,10 +2161,10 @@
         {
           "prompt": "Why is having 5 different anagram options (like NECTARS, TRANCES, RECANTS) valuable during a game?",
           "options": [
-            "It gives you multiple placement options to hit Triple Word Scores or hook onto open board tiles (Master consonantheavy and common suffix bingo stems (U4))",
-            "It gives you 5 times the score (Master consonantheavy and common suffix bingo stems (U4))",
-            "It confuses the opponent (Master consonantheavy and common suffix bingo stems (U4))",
-            "It allows playing 5 words at once (Master consonantheavy and common suffix bingo stems (U4))"
+            "It gives you multiple placement options to hit Triple Word Scores or hook onto open board tiles (Master consonantheavy and common suffix bingo stems)",
+            "It gives you 5 times the score (Master consonantheavy and common suffix bingo stems)",
+            "It confuses the opponent (Master consonantheavy and common suffix bingo stems)",
+            "It allows playing 5 words at once (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 0,
           "explanation": "Flexibility allows optimizing premium square intersections."
@@ -2176,10 +2176,10 @@
         {
           "prompt": "What anagram can be formed from A-E-N-R-S-T + D?",
           "options": [
-            "ASTRIDE (Master consonantheavy and common suffix bingo stems (U4))",
-            "DETRAIN (Master consonantheavy and common suffix bingo stems (U4))",
-            "STAINED (Master consonantheavy and common suffix bingo stems (U4))",
-            "STANDER (Master consonantheavy and common suffix bingo stems (U4))"
+            "ASTRIDE (Master consonantheavy and common suffix bingo stems)",
+            "DETRAIN (Master consonantheavy and common suffix bingo stems)",
+            "STAINED (Master consonantheavy and common suffix bingo stems)",
+            "STANDER (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 3,
           "explanation": "AENRST + D = STANDER.",
@@ -2188,10 +2188,10 @@
         {
           "prompt": "What is 'PASTERN' (STAREN + P)?",
           "options": [
-            "A pastry chef (Master consonantheavy and common suffix bingo stems (U4))",
-            "A painting style (Master consonantheavy and common suffix bingo stems (U4))",
-            "The part of a horse's foot between the fetlock and the hoof (Master consonantheavy and common suffix bingo stems (U4))",
-            "A church official (Master consonantheavy and common suffix bingo stems (U4))"
+            "A pastry chef (Master consonantheavy and common suffix bingo stems)",
+            "A painting style (Master consonantheavy and common suffix bingo stems)",
+            "The part of a horse's foot between the fetlock and the hoof (Master consonantheavy and common suffix bingo stems)",
+            "A church official (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 2,
           "explanation": "Pastern = anatomy of horse's leg above the hoof.",
@@ -2200,10 +2200,10 @@
         {
           "prompt": "Which stem combines with 'M' to form 'MARTENS' and 'SARMENT'?",
           "options": [
-            "TISANE (Master consonantheavy and common suffix bingo stems (U4))",
-            "SANTER (Master consonantheavy and common suffix bingo stems (U4))",
-            "RETINA (Master consonantheavy and common suffix bingo stems (U4))",
-            "SATIRE (Master consonantheavy and common suffix bingo stems (U4))"
+            "TISANE (Master consonantheavy and common suffix bingo stems)",
+            "SANTER (Master consonantheavy and common suffix bingo stems)",
+            "RETINA (Master consonantheavy and common suffix bingo stems)",
+            "SATIRE (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 1,
           "explanation": "SANTER + M = MARTENS.",
@@ -2212,10 +2212,10 @@
         {
           "prompt": "What is an 'alphagram'?",
           "options": [
-            "The letters of a word sorted in strict alphabetical order (Master consonantheavy and common suffix bingo stems (U4))",
-            "A telegram written in Greek (Master consonantheavy and common suffix bingo stems (U4))",
-            "A mathematical equation (Master consonantheavy and common suffix bingo stems (U4))",
-            "A special Scrabble tile (Master consonantheavy and common suffix bingo stems (U4))"
+            "The letters of a word sorted in strict alphabetical order (Master consonantheavy and common suffix bingo stems)",
+            "A telegram written in Greek (Master consonantheavy and common suffix bingo stems)",
+            "A mathematical equation (Master consonantheavy and common suffix bingo stems)",
+            "A special Scrabble tile (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 0,
           "explanation": "Alphagram = alphabetical arrangement of letters.",
@@ -2224,10 +2224,10 @@
         {
           "prompt": "How does sorting your rack into an alphagram accelerate bingo recognition?",
           "options": [
-            "It is required by the referee (Master consonantheavy and common suffix bingo stems (U4))",
-            "It adds extra points (Master consonantheavy and common suffix bingo stems (U4))",
-            "It makes the timer stop (Master consonantheavy and common suffix bingo stems (U4))",
-            "It removes visual noise and triggers instant associative memory matches with studied stems (Master consonantheavy and common suffix bingo stems (U4))"
+            "It is required by the referee (Master consonantheavy and common suffix bingo stems)",
+            "It adds extra points (Master consonantheavy and common suffix bingo stems)",
+            "It makes the timer stop (Master consonantheavy and common suffix bingo stems)",
+            "It removes visual noise and triggers instant associative memory matches with studied stems (Master consonantheavy and common suffix bingo stems)"
           ],
           "answerIndex": 3,
           "explanation": "Alphagram sorting optimizes pattern recognition speed.",
@@ -2275,10 +2275,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master blank tile bingo optimization, which tile play maximizes expected scoring value?",
           "options": [
-            "+25 to +30 points in expected scoring value (Master blank tile bingo optimization (U4))",
-            "+5 points (Master blank tile bingo optimization (U4))",
-            "+100 points (Master blank tile bingo optimization (U4))",
-            "+0 points (Master blank tile bingo optimization (U4))"
+            "+25 to +30 points in expected scoring value (Master blank tile bingo optimization)",
+            "+5 points (Master blank tile bingo optimization)",
+            "+100 points (Master blank tile bingo optimization)",
+            "+0 points (Master blank tile bingo optimization)"
           ],
           "answerIndex": 0,
           "explanation": "Blank equity is statistically valued at +25 to +30 points."
@@ -2286,10 +2286,10 @@
         {
           "prompt": "What is the golden rule regarding when to play a blank tile?",
           "options": [
-            "Only play a blank if it forms a +50 point bingo (Master blank tile bingo optimization (U4))",
-            "Use it only for 2-letter words (Master blank tile bingo optimization (U4))",
-            "Never play the blank under any circumstances (Master blank tile bingo optimization (U4))",
-            "Play it immediately on turn 1 for any word (Master blank tile bingo optimization (U4))"
+            "Only play a blank if it forms a +50 point bingo (Master blank tile bingo optimization)",
+            "Use it only for 2-letter words (Master blank tile bingo optimization)",
+            "Never play the blank under any circumstances (Master blank tile bingo optimization)",
+            "Play it immediately on turn 1 for any word (Master blank tile bingo optimization)"
           ],
           "answerIndex": 0,
           "explanation": "Conserve blanks for 50-point bingos."
@@ -2297,10 +2297,10 @@
         {
           "prompt": "If your rack contains the TISANE stem (A-E-I-N-S-T) plus a BLANK tile, what is your bingo probability?",
           "options": [
-            "100% guaranteed (Master blank tile bingo optimization (U4))",
-            "0% (Master blank tile bingo optimization (U4))",
-            "50% (Master blank tile bingo optimization (U4))",
-            "25% (Master blank tile bingo optimization (U4))"
+            "100% guaranteed (Master blank tile bingo optimization)",
+            "0% (Master blank tile bingo optimization)",
+            "50% (Master blank tile bingo optimization)",
+            "25% (Master blank tile bingo optimization)"
           ],
           "answerIndex": 0,
           "explanation": "TISANE + Blank forms valid bingos with over 20 different letters."
@@ -2312,10 +2312,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "An 8-letter bingo uses all 7 tiles from your rack by playing THROUGH an existing tile on the board (Master blank tile bingo optimization (U4))",
-            "An 8-letter bingo cannot be challenged (Master blank tile bingo optimization (U4))",
-            "An 8-letter bingo requires holding 8 tiles on your rack (Master blank tile bingo optimization (U4))",
-            "An 8-letter bingo gives a 100-point bonus (Master blank tile bingo optimization (U4))"
+            "An 8-letter bingo uses all 7 tiles from your rack by playing THROUGH an existing tile on the board (Master blank tile bingo optimization)",
+            "An 8-letter bingo cannot be challenged (Master blank tile bingo optimization)",
+            "An 8-letter bingo requires holding 8 tiles on your rack (Master blank tile bingo optimization)",
+            "An 8-letter bingo gives a 100-point bonus (Master blank tile bingo optimization)"
           ],
           "answerIndex": 0,
           "explanation": "Plays 7 rack tiles through 1 board tile = 8 letters."
@@ -2323,10 +2323,10 @@
         {
           "prompt": "Which suffix is the most common anchor tile on the board for 8-letter extension bingos?",
           "options": [
-            "-S, -D, -R, or -G (Master blank tile bingo optimization (U4))",
-            "-Q (Master blank tile bingo optimization (U4))",
-            "-J (Master blank tile bingo optimization (U4))",
-            "-Z (Master blank tile bingo optimization (U4))"
+            "-S, -D, -R, or -G (Master blank tile bingo optimization)",
+            "-Q (Master blank tile bingo optimization)",
+            "-J (Master blank tile bingo optimization)",
+            "-Z (Master blank tile bingo optimization)"
           ],
           "answerIndex": 0,
           "explanation": "High-frequency suffixes (-ED, -ER, -ING, -S)."
@@ -2338,10 +2338,10 @@
         {
           "prompt": "Why is playing a blank tile for a simple 18-point play considered a serious strategic blunder?",
           "options": [
-            "Because blanks deduct 10 points at the end of the turn (Master blank tile bingo optimization (U4))",
-            "Because blanks are illegal in non-bingo words (Master blank tile bingo optimization (U4))",
-            "Because you burn +30 points of future bingo potential for an insignificant immediate score (Master blank tile bingo optimization (U4))",
-            "Because opponents get to steal your blank (Master blank tile bingo optimization (U4))"
+            "Because blanks deduct 10 points at the end of the turn (Master blank tile bingo optimization)",
+            "Because blanks are illegal in non-bingo words (Master blank tile bingo optimization)",
+            "Because you burn +30 points of future bingo potential for an insignificant immediate score (Master blank tile bingo optimization)",
+            "Because opponents get to steal your blank (Master blank tile bingo optimization)"
           ],
           "answerIndex": 2,
           "explanation": "Loss of high future scoring equity.",
@@ -2350,10 +2350,10 @@
         {
           "prompt": "If you hold TISANE + Blank, which high-value play maximizes points on a Triple Letter square?",
           "options": [
-            "Declaring the blank as 'A' (Master blank tile bingo optimization (U4))",
-            "Declaring the blank as 'Z' to play ZANIEST with Z on the Triple Letter square (Master blank tile bingo optimization (U4))",
-            "Declaring the blank as 'E' (Master blank tile bingo optimization (U4))",
-            "Exchanging all tiles (Master blank tile bingo optimization (U4))"
+            "Declaring the blank as 'A' (Master blank tile bingo optimization)",
+            "Declaring the blank as 'Z' to play ZANIEST with Z on the Triple Letter square (Master blank tile bingo optimization)",
+            "Declaring the blank as 'E' (Master blank tile bingo optimization)",
+            "Exchanging all tiles (Master blank tile bingo optimization)"
           ],
           "answerIndex": 1,
           "explanation": "Blank as Z/X/C on premium squares creates massive scores.",
@@ -2362,10 +2362,10 @@
         {
           "prompt": "What is an 8-letter word formed by playing TISANE + D through an existing 'E' on the board?",
           "options": [
-            "DESTAINED (Master blank tile bingo optimization (U4))",
-            "DISTANCE (Master blank tile bingo optimization (U4))",
-            "DETERGENT (Master blank tile bingo optimization (U4))",
-            "DEBATING (Master blank tile bingo optimization (U4))"
+            "DESTAINED (Master blank tile bingo optimization)",
+            "DISTANCE (Master blank tile bingo optimization)",
+            "DETERGENT (Master blank tile bingo optimization)",
+            "DEBATING (Master blank tile bingo optimization)"
           ],
           "answerIndex": 0,
           "explanation": "DESTAINED (9 letters) / SEDATIVE.",
@@ -2374,10 +2374,10 @@
         {
           "prompt": "When is it acceptable to play a blank for a low score (< 30 points)?",
           "options": [
-            "Only when playing against a computer (Master blank tile bingo optimization (U4))",
-            "On turn 2 (Master blank tile bingo optimization (U4))",
-            "Whenever you are bored (Master blank tile bingo optimization (U4))",
-            "In the endgame when playing out wins the match or blocks an immediate opponent win (Master blank tile bingo optimization (U4))"
+            "Only when playing against a computer (Master blank tile bingo optimization)",
+            "On turn 2 (Master blank tile bingo optimization)",
+            "Whenever you are bored (Master blank tile bingo optimization)",
+            "In the endgame when playing out wins the match or blocks an immediate opponent win (Master blank tile bingo optimization)"
           ],
           "answerIndex": 3,
           "explanation": "Endgame out-play or critical defensive block.",
@@ -2386,10 +2386,10 @@
         {
           "prompt": "What key mental discipline distinguishes grandmaster Scrabble play?",
           "options": [
-            "Playing as fast as possible without looking at the board (Master blank tile bingo optimization (U4))",
-            "Memorizing only 2-letter words (Master blank tile bingo optimization (U4))",
-            "Balancing immediate points with future rack equity and stem optimization (Master blank tile bingo optimization (U4))",
-            "Refusing to play defense (Master blank tile bingo optimization (U4))"
+            "Playing as fast as possible without looking at the board (Master blank tile bingo optimization)",
+            "Memorizing only 2-letter words (Master blank tile bingo optimization)",
+            "Balancing immediate points with future rack equity and stem optimization (Master blank tile bingo optimization)",
+            "Refusing to play defense (Master blank tile bingo optimization)"
           ],
           "answerIndex": 2,
           "explanation": "Rack equity and stem optimization discipline.",
@@ -2438,10 +2438,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Integrate all major 6-letter bingo stems (TISANE, which tile play maximizes expected scoring value?",
           "options": [
-            "RETAINS, NASTIER, RETINAS, STAINER, ASTERIN (Integrate all major 6letter bingo stems TISANE (U4))",
-            "RESTRAIN, STRAINER (Integrate all major 6letter bingo stems TISANE (U4))",
-            "INTEREST, TRAINING (Integrate all major 6letter bingo stems TISANE (U4))",
-            "RETAINERS (Integrate all major 6letter bingo stems TISANE (U4))"
+            "RETAINS, NASTIER, RETINAS, STAINER, ASTERIN (Integrate all major 6letter bingo stems TISANE)",
+            "RESTRAIN, STRAINER (Integrate all major 6letter bingo stems TISANE)",
+            "INTEREST, TRAINING (Integrate all major 6letter bingo stems TISANE)",
+            "RETAINERS (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 0,
           "explanation": "AEINRST forms 5 valid 7-letter tournament words."
@@ -2450,9 +2450,9 @@
           "prompt": "What is the fastest mental step in the 30-second tournament bingo algorithm?",
           "options": [
             "Isolate the known 6-letter stem base (e.g. TISANE)",
-            "Try all 5,040 permutations randomly (Integrate all major 6letter bingo stems TISANE (U4))",
-            "Stare at the clock (Integrate all major 6letter bingo stems TISANE (U4))",
-            "Ask the opponent for help (Integrate all major 6letter bingo stems TISANE (U4))"
+            "Try all 5,040 permutations randomly (Integrate all major 6letter bingo stems TISANE)",
+            "Stare at the clock (Integrate all major 6letter bingo stems TISANE)",
+            "Ask the opponent for help (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 0,
           "explanation": "Stem chunking reduces search space to a single letter lookup."
@@ -2460,10 +2460,10 @@
         {
           "prompt": "Which stem and letter combination produces 'ZANIEST'?",
           "options": [
-            "TISANE + Z (Integrate all major 6letter bingo stems TISANE (U4))",
-            "SATIRE + Z (Integrate all major 6letter bingo stems TISANE (U4))",
-            "RETAIN + Z (Integrate all major 6letter bingo stems TISANE (U4))",
-            "STAREN + Z (Integrate all major 6letter bingo stems TISANE (U4))"
+            "TISANE + Z (Integrate all major 6letter bingo stems TISANE)",
+            "SATIRE + Z (Integrate all major 6letter bingo stems TISANE)",
+            "RETAIN + Z (Integrate all major 6letter bingo stems TISANE)",
+            "STAREN + Z (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 0,
           "explanation": "TISANE + Z = ZANIEST."
@@ -2475,10 +2475,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 4, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "SANTER + G (Integrate all major 6letter bingo stems TISANE (U4))",
-            "RETAIN + G (Integrate all major 6letter bingo stems TISANE (U4))",
-            "SATIRE + G (Integrate all major 6letter bingo stems TISANE (U4))",
-            "TISANE + G (Integrate all major 6letter bingo stems TISANE (U4))"
+            "SANTER + G (Integrate all major 6letter bingo stems TISANE)",
+            "RETAIN + G (Integrate all major 6letter bingo stems TISANE)",
+            "SATIRE + G (Integrate all major 6letter bingo stems TISANE)",
+            "TISANE + G (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 1,
           "explanation": "RETAIN + G = GRANITE."
@@ -2486,10 +2486,10 @@
         {
           "prompt": "Which stem and letter combination produces 'PIRATES'?",
           "options": [
-            "SATIRE + P (Integrate all major 6letter bingo stems TISANE (U4))",
-            "RETAIN + P (Integrate all major 6letter bingo stems TISANE (U4))",
-            "SANTER + P (Integrate all major 6letter bingo stems TISANE (U4))",
-            "TISANE + P (Integrate all major 6letter bingo stems TISANE (U4))"
+            "SATIRE + P (Integrate all major 6letter bingo stems TISANE)",
+            "RETAIN + P (Integrate all major 6letter bingo stems TISANE)",
+            "SANTER + P (Integrate all major 6letter bingo stems TISANE)",
+            "TISANE + P (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 0,
           "explanation": "SATIRE + P = PIRATES."
@@ -2501,10 +2501,10 @@
         {
           "prompt": "Match the stems to their premier bingos:",
           "options": [
-            "TISANE+Z = PIRATES, SATIRE+P = GRANITE (Integrate all major 6letter bingo stems TISANE (U4))",
-            "TISANE+Z = ZANIEST, SATIRE+P = PIRATES, RETAIN+G = GRANITE, STAREN+P = PARENTS (Integrate all major 6letter bingo stems TISANE (U4))",
-            "RETAIN+G = ZANIEST, STAREN+P = PIRATES (Integrate all major 6letter bingo stems TISANE (U4))",
-            "All stems make the exact same word (Integrate all major 6letter bingo stems TISANE (U4))"
+            "TISANE+Z = PIRATES, SATIRE+P = GRANITE (Integrate all major 6letter bingo stems TISANE)",
+            "TISANE+Z = ZANIEST, SATIRE+P = PIRATES, RETAIN+G = GRANITE, STAREN+P = PARENTS (Integrate all major 6letter bingo stems TISANE)",
+            "RETAIN+G = ZANIEST, STAREN+P = PIRATES (Integrate all major 6letter bingo stems TISANE)",
+            "All stems make the exact same word (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 1,
           "explanation": "Correct master stem mapping.",
@@ -2514,9 +2514,9 @@
           "prompt": "What is the primary objective of completing Unit 4 in FEARN Scrabble?",
           "options": [
             "Mastering the 5 premier 6-letter bingo stems (TISANE, SATIRE, RETAIN, STAREN, SANTER)",
-            "Learning to play without vowels (Integrate all major 6letter bingo stems TISANE (U4))",
-            "Learning board dimensions (Integrate all major 6letter bingo stems TISANE (U4))",
-            "Learning 2-letter words only (Integrate all major 6letter bingo stems TISANE (U4))"
+            "Learning to play without vowels (Integrate all major 6letter bingo stems TISANE)",
+            "Learning board dimensions (Integrate all major 6letter bingo stems TISANE)",
+            "Learning 2-letter words only (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 0,
           "explanation": "Unit 4 master objective: Bingo stem training.",
@@ -2525,10 +2525,10 @@
         {
           "prompt": "What average score increase do tournament players achieve by mastering 6-letter bingo stems?",
           "options": [
-            "+5 points (Integrate all major 6letter bingo stems TISANE (U4))",
-            "Zero points (Integrate all major 6letter bingo stems TISANE (U4))",
-            "+500 points (Integrate all major 6letter bingo stems TISANE (U4))",
-            "+65 to +90 points per game through regular 50-point bonus plays (Integrate all major 6letter bingo stems TISANE (U4))"
+            "+5 points (Integrate all major 6letter bingo stems TISANE)",
+            "Zero points (Integrate all major 6letter bingo stems TISANE)",
+            "+500 points (Integrate all major 6letter bingo stems TISANE)",
+            "+65 to +90 points per game through regular 50-point bonus plays (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 3,
           "explanation": "Massive competitive scoring leap.",
@@ -2537,10 +2537,10 @@
         {
           "prompt": "If you have TISANE on your rack and draw a 'C', what word do you play?",
           "options": [
-            "CENTRAL (Integrate all major 6letter bingo stems TISANE (U4))",
-            "CABINET (Integrate all major 6letter bingo stems TISANE (U4))",
-            "CINEAST (Integrate all major 6letter bingo stems TISANE (U4))",
-            "CANTERS (Integrate all major 6letter bingo stems TISANE (U4))"
+            "CENTRAL (Integrate all major 6letter bingo stems TISANE)",
+            "CABINET (Integrate all major 6letter bingo stems TISANE)",
+            "CINEAST (Integrate all major 6letter bingo stems TISANE)",
+            "CANTERS (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 2,
           "explanation": "TISANE + C = CINEAST.",
@@ -2549,10 +2549,10 @@
         {
           "prompt": "If you have SANTER on your rack and draw a 'C', how many valid 7-letter anagram options do you have?",
           "options": [
-            "Only 1 option (Integrate all major 6letter bingo stems TISANE (U4))",
-            "5 options: NECTARS, TRANCES, RECANTS, CANTERS, SCANTER (Integrate all major 6letter bingo stems TISANE (U4))",
-            "20 options (Integrate all major 6letter bingo stems TISANE (U4))",
-            "0 options (Integrate all major 6letter bingo stems TISANE (U4))"
+            "Only 1 option (Integrate all major 6letter bingo stems TISANE)",
+            "5 options: NECTARS, TRANCES, RECANTS, CANTERS, SCANTER (Integrate all major 6letter bingo stems TISANE)",
+            "20 options (Integrate all major 6letter bingo stems TISANE)",
+            "0 options (Integrate all major 6letter bingo stems TISANE)"
           ],
           "answerIndex": 1,
           "explanation": "5 valid tournament bingos.",
@@ -2602,10 +2602,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Evaluate the quantitative point equity of your remaining rack leave (Leave Value), which tile play maximizes expected scoring value?",
           "options": [
-            "Because an S tile scores 10 points on the board. (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Because there are 50 S tiles in the bag. (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Because S gives an extra turn. (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Because the 'S' can hook onto the end of almost any noun/verb to form parallel words and easily converts 6-letter stems into 50-point bingos. (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))"
+            "Because an S tile scores 10 points on the board. (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Because there are 50 S tiles in the bag. (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Because S gives an extra turn. (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Because the 'S' can hook onto the end of almost any noun/verb to form parallel words and easily converts 6-letter stems into 50-point bingos. (Evaluate the quantitative point equity of your remaining rack leave Leave Value)"
           ],
           "answerIndex": 3,
           "explanation": "S provides unmatched hook flexibility and bingo conversion power."
@@ -2613,10 +2613,10 @@
         {
           "prompt": "Calculate the Net Equity of Move A: Scores 30 points, leaves 'E-R-I-S' (+12 equity):",
           "options": [
-            "+24 (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "+18 (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "+42 Net Equity (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "+30 (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))"
+            "+24 (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "+18 (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "+42 Net Equity (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "+30 (Evaluate the quantitative point equity of your remaining rack leave Leave Value)"
           ],
           "answerIndex": 2,
           "explanation": "30 + 12 = +42 Net Equity."
@@ -2628,10 +2628,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 6, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "R-E-T (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "A-E-I-N (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "S-T-A-R (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "U-U-V-W (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))"
+            "R-E-T (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "A-E-I-N (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "S-T-A-R (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "U-U-V-W (Evaluate the quantitative point equity of your remaining rack leave Leave Value)"
           ],
           "answerIndex": 3,
           "explanation": "U-U-V-W combines duplicate rare vowels and uncooperative consonants."
@@ -2639,10 +2639,10 @@
         {
           "prompt": "What is the recommended threshold for spending a Blank (?) tile?",
           "options": [
-            "For any 12-point word on turn 1 (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "To spell a 2-letter word (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Never use the blank (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Only for a 50-point Bingo bonus or a massive 40-50+ point power tile multiplier play (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))"
+            "For any 12-point word on turn 1 (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "To spell a 2-letter word (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Never use the blank (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Only for a 50-point Bingo bonus or a massive 40-50+ point power tile multiplier play (Evaluate the quantitative point equity of your remaining rack leave Leave Value)"
           ],
           "answerIndex": 3,
           "explanation": "Blanks carry +25-30 equity and should only be spent for high-yield returns."
@@ -2654,10 +2654,10 @@
         {
           "prompt": "Match the rack leaves to their qualitative equity value: '?-S-E-R', 'R-E-T-I-N', 'U-U-U-V', 'Q-W-V':",
           "options": [
-            "?-S-E-R: Supreme positive (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "All vowels are positive (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Consonants are always negative (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "All are equal value (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))"
+            "?-S-E-R: Supreme positive (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "All vowels are positive (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Consonants are always negative (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "All are equal value (Evaluate the quantitative point equity of your remaining rack leave Leave Value)"
           ],
           "answerIndex": 0,
           "explanation": "Accurate leave equity stratification.",
@@ -2666,10 +2666,10 @@
         {
           "prompt": "You have rack: A-E-I-N-R-T-U. Move 1 plays 'AUT' for 18 pts (leaves EINR). Move 2 plays 'TRAIN' for 28 pts (leaves EU). Which move is mathematically superior?",
           "options": [
-            "Move 2 because 28 is bigger than 18 (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Both are identical (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Neither move is legal (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "Move 1 (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))"
+            "Move 2 because 28 is bigger than 18 (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Both are identical (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Neither move is legal (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "Move 1 (Evaluate the quantitative point equity of your remaining rack leave Leave Value)"
           ],
           "answerIndex": 3,
           "explanation": "Move 1 preserves the elite 4-letter bingo core EINR (+12 equity).",
@@ -2678,10 +2678,10 @@
         {
           "prompt": "What is the primary danger of keeping duplicate vowels (e.g. holding 'I-I-I' or 'O-O-O')?",
           "options": [
-            "The clock runs twice as fast. (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "You must forfeit the game. (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "It drastically reduces the probability of drawing the diverse consonant combinations required to form 7-letter bingos. (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "The tiles lose physical points. (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))"
+            "The clock runs twice as fast. (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "You must forfeit the game. (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "It drastically reduces the probability of drawing the diverse consonant combinations required to form 7-letter bingos. (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "The tiles lose physical points. (Evaluate the quantitative point equity of your remaining rack leave Leave Value)"
           ],
           "answerIndex": 2,
           "explanation": "Vowel duplication causes rack paralysis and blocks bingo draws.",
@@ -2690,10 +2690,10 @@
         {
           "prompt": "Complete the championship principle: 'Never look only at what you put on the board; always look at _______'",
           "options": [
-            "the highest-scoring tile only (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "what you leave behind on your rack (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "the clock only (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))",
-            "the opponent's facial expression (Evaluate the quantitative point equity of your remaining rack leave Leave Value (U6))"
+            "the highest-scoring tile only (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "what you leave behind on your rack (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "the clock only (Evaluate the quantitative point equity of your remaining rack leave Leave Value)",
+            "the opponent's facial expression (Evaluate the quantitative point equity of your remaining rack leave Leave Value)"
           ],
           "answerIndex": 1,
           "explanation": "Leave evaluation is the foundation of long-term scoring consistency.",
@@ -2743,10 +2743,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Maintain the optimal Vowel-to-Consonant Ratio on your rack (the 3V, which tile play maximizes expected scoring value?",
           "options": [
-            "3 Vowels and 4 Consonants (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "1 Vowel and 6 Consonants (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "6 Vowels and 1 Consonant (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "7 Consonants and 0 Vowels (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))"
+            "3 Vowels and 4 Consonants (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "1 Vowel and 6 Consonants (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "6 Vowels and 1 Consonant (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "7 Consonants and 0 Vowels (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)"
           ],
           "answerIndex": 0,
           "explanation": "3V:4C or 4V:3C mirrors the natural phonotactic distribution of English."
@@ -2754,10 +2754,10 @@
         {
           "prompt": "You hold: A-A-E-I-O-U-D. Which play best fixes your rack?",
           "options": [
-            "Play 'AUDIO' (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "Play 'AD' (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "Play 'DA' (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "Pass turn (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))"
+            "Play 'AUDIO' (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "Play 'AD' (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "Play 'DA' (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "Pass turn (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)"
           ],
           "answerIndex": 0,
           "explanation": "Playing 'AUDIO' prunes 4 excess vowels, solving the rack imbalance."
@@ -2769,10 +2769,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Maintain the optimal Vowel-to-Consonant Ratio on your rack, which play optimizes scoring and rack balance?",
           "options": [
-            "Because consonants score less points. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "Because vowels are illegal in short words. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "Because most English words require alternating vowel-consonant patterns, severely restricting your scoring and bingo potential. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "Because you must skip your turn. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))"
+            "Because consonants score less points. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "Because vowels are illegal in short words. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "Because most English words require alternating vowel-consonant patterns, severely restricting your scoring and bingo potential. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "Because you must skip your turn. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)"
           ],
           "answerIndex": 2,
           "explanation": "Lack of vowels creates physical word-building bottlenecks."
@@ -2780,10 +2780,10 @@
         {
           "prompt": "Which high-vowel word is valid in tournament Scrabble to dump four vowels in one turn?",
           "options": [
-            "AEIOU (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "OUIA (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "AAAA (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "AERIE (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))"
+            "AEIOU (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "OUIA (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "AAAA (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "AERIE (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)"
           ],
           "answerIndex": 3,
           "explanation": "AERIE and AUDIO are classic tournament vowel-dump words."
@@ -2795,10 +2795,10 @@
         {
           "prompt": "Evaluate these four racks and identify the single BALANCED rack:",
           "options": [
-            "B-C-D-F-G-K-T (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "A-E-I-O-U-A-E (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "A-A-A-E-E-E-D (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "E-I-O-R-S-T-D (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))"
+            "B-C-D-F-G-K-T (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "A-E-I-O-U-A-E (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "A-A-A-E-E-E-D (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "E-I-O-R-S-T-D (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)"
           ],
           "answerIndex": 3,
           "explanation": "3V:4C with versatile letters represents the optimal rack.",
@@ -2807,10 +2807,10 @@
         {
           "prompt": "You hold: C-F-K-N-T-Z-E (1V:6C). What tactical move should you execute?",
           "options": [
-            "Play only 7-letter words. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "Resign the game. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
+            "Play only 7-letter words. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "Resign the game. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
             "Play off 2-3 awkward consonants using short words (like ZA or FE)",
-            "Hold all tiles and wait. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))"
+            "Hold all tiles and wait. (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)"
           ],
           "answerIndex": 2,
           "explanation": "Pruning or exchanging awkward consonants restores vowel equilibrium.",
@@ -2819,10 +2819,10 @@
         {
           "prompt": "What percentage of the standard 100-tile English Scrabble bag consists of vowels (A, E, I, O, U)?",
           "options": [
-            "70% (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "42% (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "25% (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "10% (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))"
+            "70% (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "42% (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "25% (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "10% (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)"
           ],
           "answerIndex": 1,
           "explanation": "42 vowel tiles in the standard 100-tile bag.",
@@ -2831,10 +2831,10 @@
         {
           "prompt": "Complete: 'A balanced leave of 1-2 vowels and 2-3 consonants maximizes _______ on the next turn.'",
           "options": [
-            "bingo probability and high-scoring play flexibility (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "penalty points (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "board closure (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))",
-            "the opponent's score (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V (U6))"
+            "bingo probability and high-scoring play flexibility (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "penalty points (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "board closure (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)",
+            "the opponent's score (Maintain the optimal VoweltoConsonant Ratio on your rack the 3V)"
           ],
           "answerIndex": 0,
           "explanation": "Balanced leaves maximize flexibility and bingo draw probabilities.",
@@ -2884,10 +2884,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Sacrifice short-term turn points when necessary to secure superior long-term rack equity (choosing a 22-point play with an elite leave over a 34-point play that ruins the rack), which tile play maximizes expected scoring value?",
           "options": [
-            "Because 18 points optimizes score-to-tile-turnover ratio. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Because U is illegal on turn 2. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "There is no difference. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Because 'E-I-N-R-S' has a +16 leave equity and over 70% chance of a 70+ point bingo on the next draw, whereas 'U-U-V-W' inflicts a multi-turn scoring drought. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))"
+            "Because 18 points optimizes score-to-tile-turnover ratio. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Because U is illegal on turn 2. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "There is no difference. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Because 'E-I-N-R-S' has a +16 leave equity and over 70% chance of a 70+ point bingo on the next draw, whereas 'U-U-V-W' inflicts a multi-turn scoring drought. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)"
           ],
           "answerIndex": 3,
           "explanation": "EINRS leave equity generates overwhelming multi-turn scoring advantage."
@@ -2895,10 +2895,10 @@
         {
           "prompt": "You hold: A-E-I-N-R-S-Q. Move A plays 'RAIN' for 28 pts (leaves ESQ). Move B plays 'QI' for 22 pts (leaves AENRS). Which move should you choose?",
           "options": [
-            "Move A because it scores 6 more points right now (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Pass turn (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Exchange all 7 tiles (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Move B (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))"
+            "Move A because it scores 6 more points right now (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Pass turn (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Exchange all 7 tiles (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Move B (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)"
           ],
           "answerIndex": 3,
           "explanation": "Dumping the Q for 22 pts unlocks the 5-letter bingo stem AENRS."
@@ -2910,10 +2910,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 6, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "You should readily sacrifice up to 8-12 board points if the play dramatically upgrades your rack to an elite bingo leave. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "You must score at least 10 points every turn. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "You lose 10 points if you take too long. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "You must give the opponent 10 points. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))"
+            "You should readily sacrifice up to 8-12 board points if the play dramatically upgrades your rack to an elite bingo leave. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "You must score at least 10 points every turn. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "You lose 10 points if you take too long. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "You must give the opponent 10 points. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)"
           ],
           "answerIndex": 0,
           "explanation": "Sacrificing 8-12 points for elite rack equity is mathematically optimal."
@@ -2922,9 +2922,9 @@
           "prompt": "What tile should almost always be dumped on the board immediately even if the play scores low points?",
           "options": [
             "The 'Q' tile (unless holding a U or blank)",
-            "The 'E' tile (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "The 'S' tile (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "The blank tile (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))"
+            "The 'E' tile (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "The 'S' tile (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "The blank tile (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)"
           ],
           "answerIndex": 0,
           "explanation": "Unpaired Q is the single most restrictive tile in the game."
@@ -2936,10 +2936,10 @@
         {
           "prompt": "Compare two moves with rack E-I-O-R-T-U-V: Move 1: 'VOTE' on DWS for 34 pts (leaves IRU). Move 2: 'VU' on DLS for 24 pts (leaves EIORT). Which move has higher Net Turn Equity?",
           "options": [
-            "Move 1 because 34 is larger than 24 (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Neither is valid (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Move 2 (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Both are equal (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))"
+            "Move 1 because 34 is larger than 24 (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Neither is valid (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Move 2 (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Both are equal (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)"
           ],
           "answerIndex": 2,
           "explanation": "Move 2 preserves the flawless 5-letter bingo stem EIORT (+14 equity).",
@@ -2948,10 +2948,10 @@
         {
           "prompt": "What catastrophic mistake do beginner Scrabble players make with the letter 'S'?",
           "options": [
-            "Holding S at the end of the game. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Burning the 'S' for a trivial 6-8 point plural hook early in the game rather than saving it for a 50-point bingo bonus play. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Never playing the S. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Using S to form 7-letter words. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))"
+            "Holding S at the end of the game. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Burning the 'S' for a trivial 6-8 point plural hook early in the game rather than saving it for a 50-point bingo bonus play. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Never playing the S. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Using S to form 7-letter words. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)"
           ],
           "answerIndex": 1,
           "explanation": "Wasting the S for trivial single-digit points destroys rack equity.",
@@ -2961,9 +2961,9 @@
           "prompt": "Why is the leave 'R-E-T-I-N-A' considered the gold standard of 6-letter leaves?",
           "options": [
             "Because RETINA pairs with almost every single letter in the English alphabet (24 out of 26 letters)",
-            "Because it spells an eye part. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "It is required by tournament rules. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "Because it scores 100 points alone. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))"
+            "Because it spells an eye part. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "It is required by tournament rules. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "Because it scores 100 points alone. (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)"
           ],
           "answerIndex": 0,
           "explanation": "RETINA is the highest-probability 6-letter bingo stem in the English language.",
@@ -2972,10 +2972,10 @@
         {
           "prompt": "Complete: 'Greedy board point-chasing creates _______; disciplined leave management creates _______.'",
           "options": [
-            "instant wins / instant losses (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "higher ratings / lower ratings (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "clean boards / dirty boards (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))",
-            "rack droughts / consistent 50-point bingos (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack (U6))"
+            "instant wins / instant losses (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "higher ratings / lower ratings (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "clean boards / dirty boards (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)",
+            "rack droughts / consistent 50-point bingos (Sacrifice shortterm turn points when necessary to secure superior longterm rack equity choosing a 22point play with an elite leave over a 34point play that ruins the rack)"
           ],
           "answerIndex": 3,
           "explanation": "Greedy play causes droughts; disciplined leaves generate bingos.",
@@ -3025,10 +3025,10 @@
         {
           "prompt": "Which play or rack leave maximizes scoring potential and future bingo equity?",
           "options": [
-            "When your rack is severely crippled (Determine when to dump awkward tiles on the board vs (U6))",
-            "On turn 1 of every game. (Determine when to dump awkward tiles on the board vs (U6))",
-            "When you hold a blank tile. (Determine when to dump awkward tiles on the board vs (U6))",
-            "Whenever you don't feel like thinking. (Determine when to dump awkward tiles on the board vs (U6))"
+            "When your rack is severely crippled (Determine when to dump awkward tiles on the board vs)",
+            "On turn 1 of every game. (Determine when to dump awkward tiles on the board vs)",
+            "When you hold a blank tile. (Determine when to dump awkward tiles on the board vs)",
+            "Whenever you don't feel like thinking. (Determine when to dump awkward tiles on the board vs)"
           ],
           "answerIndex": 0,
           "explanation": "Exchange is justified when board dumps cannot yield points or repair the rack."
@@ -3036,10 +3036,10 @@
         {
           "prompt": "If you hold E-R-S-U-U-V-W, what should you exchange?",
           "options": [
-            "Exchange the 4 junk tiles (Determine when to dump awkward tiles on the board vs (U6))",
-            "Exchange only the S (Determine when to dump awkward tiles on the board vs (U6))",
-            "Exchange only the E (Determine when to dump awkward tiles on the board vs (U6))",
-            "Exchange all 7 tiles including E, R, and S (Determine when to dump awkward tiles on the board vs (U6))"
+            "Exchange the 4 junk tiles (Determine when to dump awkward tiles on the board vs)",
+            "Exchange only the S (Determine when to dump awkward tiles on the board vs)",
+            "Exchange only the E (Determine when to dump awkward tiles on the board vs)",
+            "Exchange all 7 tiles including E, R, and S (Determine when to dump awkward tiles on the board vs)"
           ],
           "answerIndex": 0,
           "explanation": "Partial exchange preserves the elite E-R-S anchor core."
@@ -3051,10 +3051,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 6, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Because you gain 22 actual points on the scoreboard AND successfully remove the awkward Q from your rack in the same turn. (Determine when to dump awkward tiles on the board vs (U6))",
-            "Because you get two turns in a row. (Determine when to dump awkward tiles on the board vs (U6))",
-            "Because QI is worth 100 points. (Determine when to dump awkward tiles on the board vs (U6))",
-            "Because exchanging Q is illegal. (Determine when to dump awkward tiles on the board vs (U6))"
+            "Because you gain 22 actual points on the scoreboard AND successfully remove the awkward Q from your rack in the same turn. (Determine when to dump awkward tiles on the board vs)",
+            "Because you get two turns in a row. (Determine when to dump awkward tiles on the board vs)",
+            "Because QI is worth 100 points. (Determine when to dump awkward tiles on the board vs)",
+            "Because exchanging Q is illegal. (Determine when to dump awkward tiles on the board vs)"
           ],
           "answerIndex": 0,
           "explanation": "Dumping scores positive points while simultaneously curing the rack defect."
@@ -3062,10 +3062,10 @@
         {
           "prompt": "How many tiles must remain in the bag to legally execute a tile exchange in Scrabble?",
           "options": [
-            "At least 7 tiles (Determine when to dump awkward tiles on the board vs (U6))",
-            "At least 1 tile (Determine when to dump awkward tiles on the board vs (U6))",
-            "At least 50 tiles (Determine when to dump awkward tiles on the board vs (U6))",
-            "At least 20 tiles (Determine when to dump awkward tiles on the board vs (U6))"
+            "At least 7 tiles (Determine when to dump awkward tiles on the board vs)",
+            "At least 1 tile (Determine when to dump awkward tiles on the board vs)",
+            "At least 50 tiles (Determine when to dump awkward tiles on the board vs)",
+            "At least 20 tiles (Determine when to dump awkward tiles on the board vs)"
           ],
           "answerIndex": 0,
           "explanation": "Official Scrabble rules mandate at least 7 tiles in the bag to exchange."
@@ -3077,10 +3077,10 @@
         {
           "prompt": "Rank the priority of dealing with an awkward rack from BEST to WORST strategy: 1. Partial Tile Exchange (0 pts, perfect rack) 2. High-Scoring Board Dump (25 pts, fixes rack) 3. Weak Board Play (8 pts, leaves junk rack)",
           "options": [
-            "Best: 3 -> Middle: 2 -> Worst: 1 (Determine when to dump awkward tiles on the board vs (U6))",
+            "Best: 3 -> Middle: 2 -> Worst: 1 (Determine when to dump awkward tiles on the board vs)",
             "Best: 2 (High-Scoring Dump)",
-            "Best: 1 -> Middle: 3 -> Worst: 2 (Determine when to dump awkward tiles on the board vs (U6))",
-            "All are equal (Determine when to dump awkward tiles on the board vs (U6))"
+            "Best: 1 -> Middle: 3 -> Worst: 2 (Determine when to dump awkward tiles on the board vs)",
+            "All are equal (Determine when to dump awkward tiles on the board vs)"
           ],
           "answerIndex": 1,
           "explanation": "Board dump > Partial exchange > Weak play leaving junk.",
@@ -3090,9 +3090,9 @@
           "prompt": "You hold: A-E-I-N-R-S-T. Why should you NEVER exchange any tiles?",
           "options": [
             "Because this is the supreme 7-letter bingo rack that spells RETINAS, CERTAIN (with C)",
-            "Because the bag is empty. (Determine when to dump awkward tiles on the board vs (U6))",
-            "Because vowels cannot be exchanged. (Determine when to dump awkward tiles on the board vs (U6))",
-            "Because you already won. (Determine when to dump awkward tiles on the board vs (U6))"
+            "Because the bag is empty. (Determine when to dump awkward tiles on the board vs)",
+            "Because vowels cannot be exchanged. (Determine when to dump awkward tiles on the board vs)",
+            "Because you already won. (Determine when to dump awkward tiles on the board vs)"
           ],
           "answerIndex": 0,
           "explanation": "AEINRST is an immediate 7-letter bingo or elite stem.",
@@ -3101,10 +3101,10 @@
         {
           "prompt": "What is the primary risk of exchanging tiles late in the endgame when fewer than 10 tiles remain in the bag?",
           "options": [
-            "The opponent steals your rack. (Determine when to dump awkward tiles on the board vs (U6))",
-            "Your score is halved. (Determine when to dump awkward tiles on the board vs (U6))",
-            "The game ends immediately. (Determine when to dump awkward tiles on the board vs (U6))",
-            "You might draw the exact same bad tiles right back from the depleted bag while handing a free scoring turn to your opponent. (Determine when to dump awkward tiles on the board vs (U6))"
+            "The opponent steals your rack. (Determine when to dump awkward tiles on the board vs)",
+            "Your score is halved. (Determine when to dump awkward tiles on the board vs)",
+            "The game ends immediately. (Determine when to dump awkward tiles on the board vs)",
+            "You might draw the exact same bad tiles right back from the depleted bag while handing a free scoring turn to your opponent. (Determine when to dump awkward tiles on the board vs)"
           ],
           "answerIndex": 3,
           "explanation": "Small bag size recycles identical unwanted letters.",
@@ -3113,10 +3113,10 @@
         {
           "prompt": "Complete: 'When exchanging tiles, keep the _______ and trade the _______.'",
           "options": [
-            "10-point tiles / 1-point tiles (Determine when to dump awkward tiles on the board vs (U6))",
-            "vowels / consonants (Determine when to dump awkward tiles on the board vs (U6))",
-            "synergistic bingo core (Determine when to dump awkward tiles on the board vs (U6))",
-            "blanks / letters (Determine when to dump awkward tiles on the board vs (U6))"
+            "10-point tiles / 1-point tiles (Determine when to dump awkward tiles on the board vs)",
+            "vowels / consonants (Determine when to dump awkward tiles on the board vs)",
+            "synergistic bingo core (Determine when to dump awkward tiles on the board vs)",
+            "blanks / letters (Determine when to dump awkward tiles on the board vs)"
           ],
           "answerIndex": 2,
           "explanation": "Preserve the synergistic core, trade the awkward surplus.",
@@ -3166,10 +3166,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Demonstrate championship-level rack management and leave evaluation across a comprehensive tournament decision-tree simulation, which tile play maximizes expected scoring value?",
           "options": [
-            "Because eliminating the duplicate V and keeping the elite 'E-I-N-R' bingo core produces +40 net turn equity (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Because VAV is spelled backwards. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Because VANE is an invalid word. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Because VANE opens three Triple Word Scores. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))"
+            "Because eliminating the duplicate V and keeping the elite 'E-I-N-R' bingo core produces +40 net turn equity (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Because VAV is spelled backwards. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Because VANE is an invalid word. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Because VANE opens three Triple Word Scores. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)"
           ],
           "answerIndex": 0,
           "explanation": "VAV eliminates the duplicate V and preserves the elite EINR bingo stem."
@@ -3177,10 +3177,10 @@
         {
           "prompt": "What is the primary danger of leaving an awkward letter like 'V' on your rack when going for a bingo?",
           "options": [
-            "The 'V' cannot easily form 7-letter words without specific vowels and has no valid 2-letter word ending in V in English Scrabble. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "V tiles are worth 100 negative points. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "V cannot be played on triple squares. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "V causes an automatic forfeit. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))"
+            "The 'V' cannot easily form 7-letter words without specific vowels and has no valid 2-letter word ending in V in English Scrabble. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "V tiles are worth 100 negative points. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "V cannot be played on triple squares. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "V causes an automatic forfeit. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)"
           ],
           "answerIndex": 0,
           "explanation": "V is an uncooperative consonant with no 2-letter word combinations in English."
@@ -3192,10 +3192,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 6, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "The opponent scored 100 points. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
+            "The opponent scored 100 points. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
             "The player drew S-T-A to pair with E-I-N-R, hitting a 78-point bingo ('TRAINES' / 'RETAINS')",
-            "The game ended in a draw. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "The player was forced to exchange tiles. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))"
+            "The game ended in a draw. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "The player was forced to exchange tiles. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)"
           ],
           "answerIndex": 1,
           "explanation": "EINR converted directly into a game-winning 7-letter bingo."
@@ -3204,9 +3204,9 @@
           "prompt": "What is the Net Equity formula that every advanced Scrabble player computes instinctively?",
           "options": [
             "Net Turn Equity = (Board Turn Score)",
-            "Net Equity = Tiles in Bag - Opponent Score (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Net Equity = Number of Vowels x 10 (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Net Equity = Turn Score / 2 (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))"
+            "Net Equity = Tiles in Bag - Opponent Score (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Net Equity = Number of Vowels x 10 (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Net Equity = Turn Score / 2 (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)"
           ],
           "answerIndex": 0,
           "explanation": "Net Turn Equity = Turn Score + Leave Value."
@@ -3218,10 +3218,10 @@
         {
           "prompt": "What core strategic, mathematical, and cognitive competencies were mastered across Scrabble Strategy Unit 6?",
           "options": [
-            "Quantitative rack equity and leave values (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Memorizing only 1-letter words (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Board woodworking and tile carving only (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Crossword puzzle history only (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))"
+            "Quantitative rack equity and leave values (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Memorizing only 1-letter words (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Board woodworking and tile carving only (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Crossword puzzle history only (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)"
           ],
           "answerIndex": 0,
           "explanation": "Unit 6 comprehensive rack management and leave evaluation mastery.",
@@ -3230,10 +3230,10 @@
         {
           "prompt": "Rank these four 4-letter leaves from HIGHEST equity to LOWEST equity: A: E-I-N-R B: ?-S-E-T C: U-U-V-W D: A-E-O-U",
           "options": [
-            "C > D > A > B (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "A > B > C > D (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "D > C > B > A (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "B (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))"
+            "C > D > A > B (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "A > B > C > D (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "D > C > B > A (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "B (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)"
           ],
           "answerIndex": 3,
           "explanation": "Blank+S+ET > EINR > Vowel heavy > Awkward duplicate consonants.",
@@ -3242,10 +3242,10 @@
         {
           "prompt": "Why does computer AI analysis show that master Scrabble players score 40-50% of their total game points from 50-point bingos?",
           "options": [
-            "Because bingos are worth 1,000 points. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Because tournament players get 10 tiles on their rack. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
+            "Because bingos are worth 1,000 points. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Because tournament players get 10 tiles on their rack. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
             "Because disciplined leave management consistently maintains 4- to 6-letter bingo stems on the rack, turning almost every draw into a potential 70-80 point explosion (deliberate practice)",
-            "Because opponents are forbidden from defending. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))"
+            "Because opponents are forbidden from defending. (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)"
           ],
           "answerIndex": 2,
           "explanation": "Disciplined rack management makes bingos consistent and repeatable.",
@@ -3254,10 +3254,10 @@
         {
           "prompt": "What is the next frontier of Scrabble mastery in Unit 7?",
           "options": [
-            "Playing Scrabble in French (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Tile Tracking & Endgame Technique (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Memorizing the dictionary backwards (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))",
-            "Buying a larger Scrabble board (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation (U6))"
+            "Playing Scrabble in French (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Tile Tracking & Endgame Technique (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Memorizing the dictionary backwards (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)",
+            "Buying a larger Scrabble board (Demonstrate championshiplevel rack management and leave evaluation across a comprehensive tournament decisiontree simulation)"
           ],
           "answerIndex": 1,
           "explanation": "Unit 7 focuses on tile tracking and endgame outplay calculation.",
@@ -3301,10 +3301,10 @@
         {
           "prompt": "Which play or rack leave maximizes scoring potential and future bingo equity?",
           "options": [
-            "18 tiles (Master the 100tile tracking grid (U7))",
-            "15 tiles (Master the 100tile tracking grid (U7))",
-            "8 tiles (Master the 100tile tracking grid (U7))",
-            "11 tiles (Master the 100tile tracking grid (U7))"
+            "18 tiles (Master the 100tile tracking grid)",
+            "15 tiles (Master the 100tile tracking grid)",
+            "8 tiles (Master the 100tile tracking grid)",
+            "11 tiles (Master the 100tile tracking grid)"
           ],
           "answerIndex": 3,
           "explanation": "100 total - 82 on board - 7 on rack = 11 unseen tiles (4 in bag, 7 in opponent rack)."
@@ -3312,10 +3312,10 @@
         {
           "prompt": "Why is tracking the number of remaining S's critical in the late game?",
           "options": [
-            "Because S cannot be played on double letter squares (Master the 100tile tracking grid (U7))",
-            "Because S is a vowel (Master the 100tile tracking grid (U7))",
-            "Because an S hooks onto ~75% of words on the board to form lucrative plural parallel plays and open new Triple Word lanes (Master the 100tile tracking grid (U7))",
-            "Because the S is worth 10 points (Master the 100tile tracking grid (U7))"
+            "Because S cannot be played on double letter squares (Master the 100tile tracking grid)",
+            "Because S is a vowel (Master the 100tile tracking grid)",
+            "Because an S hooks onto ~75% of words on the board to form lucrative plural parallel plays and open new Triple Word lanes (Master the 100tile tracking grid)",
+            "Because the S is worth 10 points (Master the 100tile tracking grid)"
           ],
           "answerIndex": 2,
           "explanation": "The 'S' is the most versatile hooking tile in English Scrabble."
@@ -3327,10 +3327,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Exchange all your tiles for vowels (Master the 100tile tracking grid (U7))",
-            "Play 7-letter vowel words only (Master the 100tile tracking grid (U7))",
-            "Resign the game (Master the 100tile tracking grid (U7))",
-            "Dump your own vowels and hoard consonants, knowing your opponent is guaranteed to suffer severe vowel-heaviness and cannot bingo (Master the 100tile tracking grid (U7))"
+            "Exchange all your tiles for vowels (Master the 100tile tracking grid)",
+            "Play 7-letter vowel words only (Master the 100tile tracking grid)",
+            "Resign the game (Master the 100tile tracking grid)",
+            "Dump your own vowels and hoard consonants, knowing your opponent is guaranteed to suffer severe vowel-heaviness and cannot bingo (Master the 100tile tracking grid)"
           ],
           "answerIndex": 3,
           "explanation": "Exploiting known opponent vowel overload by keeping a balanced consonant rack."
@@ -3338,10 +3338,10 @@
         {
           "prompt": "How many total 'E' tiles exist in a standard English Scrabble set?",
           "options": [
-            "8 tiles (Master the 100tile tracking grid (U7))",
-            "15 tiles (Master the 100tile tracking grid (U7))",
-            "10 tiles (Master the 100tile tracking grid (U7))",
-            "12 tiles (Master the 100tile tracking grid (U7))"
+            "8 tiles (Master the 100tile tracking grid)",
+            "15 tiles (Master the 100tile tracking grid)",
+            "10 tiles (Master the 100tile tracking grid)",
+            "12 tiles (Master the 100tile tracking grid)"
           ],
           "answerIndex": 3,
           "explanation": "There are 12 E tiles in a standard 100-tile set."
@@ -3353,10 +3353,10 @@
         {
           "prompt": "Match the English Scrabble tile counts: E, A, S, Q:",
           "options": [
-            "E: 4 tiles | A: 12 tiles | S: 9 tiles | Q: 2 tiles (Master the 100tile tracking grid (U7))",
-            "All letters have 5 tiles each (Master the 100tile tracking grid (U7))",
-            "All letters have 2 tiles each (Master the 100tile tracking grid (U7))",
-            "E: 12 tiles | A: 9 tiles | S: 4 tiles | Q: 1 tile (Master the 100tile tracking grid (U7))"
+            "E: 4 tiles | A: 12 tiles | S: 9 tiles | Q: 2 tiles (Master the 100tile tracking grid)",
+            "All letters have 5 tiles each (Master the 100tile tracking grid)",
+            "All letters have 2 tiles each (Master the 100tile tracking grid)",
+            "E: 12 tiles | A: 9 tiles | S: 4 tiles | Q: 1 tile (Master the 100tile tracking grid)"
           ],
           "answerIndex": 3,
           "explanation": "Standard 100-tile distribution counts.",
@@ -3365,10 +3365,10 @@
         {
           "prompt": "What does it mean when the bag is 'consonant-starved'?",
           "options": [
-            "Consonants are illegal to play (Master the 100tile tracking grid (U7))",
-            "The bag has zero tiles (Master the 100tile tracking grid (U7))",
-            "Most remaining unseen tiles are vowels (Master the 100tile tracking grid (U7))",
-            "Every tile is a blank (Master the 100tile tracking grid (U7))"
+            "Consonants are illegal to play (Master the 100tile tracking grid)",
+            "The bag has zero tiles (Master the 100tile tracking grid)",
+            "Most remaining unseen tiles are vowels (Master the 100tile tracking grid)",
+            "Every tile is a blank (Master the 100tile tracking grid)"
           ],
           "answerIndex": 2,
           "explanation": "Consonant-starved bag implies a vowel flood on future draws.",
@@ -3377,10 +3377,10 @@
         {
           "prompt": "Why is keeping a running tile track essential for transitioning into the endgame?",
           "options": [
-            "Because the referee checks your tracking sheet for bonus points (Master the 100tile tracking grid (U7))",
-            "Because when the bag reaches 0 tiles, the unseen tiles are EXACTLY the opponent's 7-tile rack, transforming the game into complete deterministic perfect-information calculation (Master the 100tile tracking grid (U7))",
-            "It turns on digital lights (Master the 100tile tracking grid (U7))",
-            "Because you get extra time on your clock (Master the 100tile tracking grid (U7))"
+            "Because the referee checks your tracking sheet for bonus points (Master the 100tile tracking grid)",
+            "Because when the bag reaches 0 tiles, the unseen tiles are EXACTLY the opponent's 7-tile rack, transforming the game into complete deterministic perfect-information calculation (Master the 100tile tracking grid)",
+            "It turns on digital lights (Master the 100tile tracking grid)",
+            "Because you get extra time on your clock (Master the 100tile tracking grid)"
           ],
           "answerIndex": 1,
           "explanation": "Tile tracking converts the endgame into 100% known perfect-information chess calculation.",
@@ -3389,10 +3389,10 @@
         {
           "prompt": "How many total points are on the faces of all 100 Scrabble tiles combined?",
           "options": [
-            "187 points (Master the 100tile tracking grid (U7))",
-            "150 points (Master the 100tile tracking grid (U7))",
-            "250 points (Master the 100tile tracking grid (U7))",
-            "200 points (Master the 100tile tracking grid (U7))"
+            "187 points (Master the 100tile tracking grid)",
+            "150 points (Master the 100tile tracking grid)",
+            "250 points (Master the 100tile tracking grid)",
+            "200 points (Master the 100tile tracking grid)"
           ],
           "answerIndex": 0,
           "explanation": "187 face points across all 100 tiles.",
@@ -3436,10 +3436,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master Pre-Endgame tactics (bag with 1 to 6 tiles remaining), which tile play maximizes expected scoring value?",
           "options": [
-            "When the tile bag contains between 1 and 6 tiles remaining (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "When both players have 1 blank (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "When the score is tied at 200 (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "When the game reaches 10 minutes (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))"
+            "When the tile bag contains between 1 and 6 tiles remaining (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "When both players have 1 blank (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "When the score is tied at 200 (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "When the game reaches 10 minutes (Master PreEndgame tactics bag with 1 to 6 tiles remaining)"
           ],
           "answerIndex": 0,
           "explanation": "Pre-endgame is the transitional phase with 1–6 tiles left in the bag."
@@ -3447,10 +3447,10 @@
         {
           "prompt": "If you are leading by 30 points and 2 tiles remain in the bag, why is emptying the bag by playing 2 tiles advantageous?",
           "options": [
-            "It gives you the final tiles and transitions the game into a completely known perfect-information endgame where you can calculate forced wins (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "It automatically gives you 50 bonus points (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "It doubles your tile points (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "It skips your opponent's turn (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))"
+            "It gives you the final tiles and transitions the game into a completely known perfect-information endgame where you can calculate forced wins (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "It automatically gives you 50 bonus points (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "It doubles your tile points (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "It skips your opponent's turn (Master PreEndgame tactics bag with 1 to 6 tiles remaining)"
           ],
           "answerIndex": 0,
           "explanation": "Emptying the bag removes randomness and locks opponent's rack into 100% known calculations."
@@ -3462,10 +3462,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Play defensive 2-letter words only (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Pass your turn (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Keep high-synergy bingo stems on your rack and open up multiple floating vowel lanes, maximizing your chances of drawing the Blank/S and playing a comeback bingo (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Exchange all your tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))"
+            "Play defensive 2-letter words only (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Pass your turn (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Keep high-synergy bingo stems on your rack and open up multiple floating vowel lanes, maximizing your chances of drawing the Blank/S and playing a comeback bingo (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Exchange all your tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining)"
           ],
           "answerIndex": 2,
           "explanation": "Trailing in pre-endgame demands opening the board and fishing for the power tiles."
@@ -3473,10 +3473,10 @@
         {
           "prompt": "What is 'lane sealing' in the pre-endgame?",
           "options": [
-            "Drawing lines on the board with a pen (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Placing tiles upside down (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Covering the center star (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Playing a word that blocks access to a Triple Word Score or open hook spot where an opponent could play a game-winning bingo (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))"
+            "Drawing lines on the board with a pen (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Placing tiles upside down (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Covering the center star (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Playing a word that blocks access to a Triple Word Score or open hook spot where an opponent could play a game-winning bingo (Master PreEndgame tactics bag with 1 to 6 tiles remaining)"
           ],
           "answerIndex": 3,
           "explanation": "Lane sealing neutralizes high-multiplier comeback threats."
@@ -3488,10 +3488,10 @@
         {
           "prompt": "Match the pre-endgame situations with the correct strategic directive: Leading by 45 with 4 in bag, Trailing by 50 with 3 in bag, Holding 6 letters of TISANE with 1 tile in bag, Opponent has 1 tile left on rack:",
           "options": [
-            "All scenarios: Pass turn (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "All are food words (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Leading by 45: Seal board lanes | Trailing by 50: Open board & fish | Holding 6 of TISANE: Dump 7th tile to draw final letter | Opponent 1 tile: Prepare out-in-one defense (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "All scenarios: Exchange 7 tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))"
+            "All scenarios: Pass turn (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "All are food words (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Leading by 45: Seal board lanes | Trailing by 50: Open board & fish | Holding 6 of TISANE: Dump 7th tile to draw final letter | Opponent 1 tile: Prepare out-in-one defense (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "All scenarios: Exchange 7 tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining)"
           ],
           "answerIndex": 2,
           "explanation": "Pre-endgame strategic directives matching.",
@@ -3500,10 +3500,10 @@
         {
           "prompt": "If 4 tiles remain in the bag and you play a 5-letter word, how many tiles do you draw?",
           "options": [
-            "0 tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "All 4 remaining tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "7 tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "5 tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))"
+            "0 tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "All 4 remaining tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "7 tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "5 tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining)"
           ],
           "answerIndex": 1,
           "explanation": "You draw whatever remains in the bag (4 tiles), emptying it.",
@@ -3512,10 +3512,10 @@
         {
           "prompt": "Why is 'drawing the final tile' often a decisive tempo advantage?",
           "options": [
-            "Because having 7 full tiles on your rack while knowing your opponent's exact static rack gives you maximum combinatorial out-play flexibility (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Because you get to play twice in a row (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "It is a house rule (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "Because the final tile has double point value (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))"
+            "Because having 7 full tiles on your rack while knowing your opponent's exact static rack gives you maximum combinatorial out-play flexibility (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Because you get to play twice in a row (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "It is a house rule (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "Because the final tile has double point value (Master PreEndgame tactics bag with 1 to 6 tiles remaining)"
           ],
           "answerIndex": 0,
           "explanation": "Max combinatorial flexibility against a static known opponent rack.",
@@ -3524,10 +3524,10 @@
         {
           "prompt": "Complete the rule: 'When leading in pre-endgame, trade board openness for _______.'",
           "options": [
-            "more vowels (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "higher penalties (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "blank tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))",
-            "board closure and defensive safety (Master PreEndgame tactics bag with 1 to 6 tiles remaining (U7))"
+            "more vowels (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "higher penalties (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "blank tiles (Master PreEndgame tactics bag with 1 to 6 tiles remaining)",
+            "board closure and defensive safety (Master PreEndgame tactics bag with 1 to 6 tiles remaining)"
           ],
           "answerIndex": 3,
           "explanation": "Defense and closure protect a pre-endgame lead.",
@@ -3571,10 +3571,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Execute deterministic Complete Endgame calculations with 0 tiles in the bag, which tile play maximizes expected scoring value?",
           "options": [
-            "18 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "9 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "50 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "36 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))"
+            "18 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "9 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "50 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "36 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)"
           ],
           "answerIndex": 3,
           "explanation": "Double penalty rule: 2 × (10 + 8) = 36 point net swing."
@@ -3582,10 +3582,10 @@
         {
           "prompt": "What is the very first step of an endgame calculation when the bag hits 0?",
           "options": [
-            "Play your highest scoring word immediately (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Shake hands and agree to a draw (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Count your opponent's money (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Deduce and write down the opponent's exact rack from the remaining unseen tiles (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))"
+            "Play your highest scoring word immediately (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Shake hands and agree to a draw (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Count your opponent's money (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Deduce and write down the opponent's exact rack from the remaining unseen tiles (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)"
           ],
           "answerIndex": 3,
           "explanation": "Knowing the opponent's exact rack is the foundation of all endgame calculation."
@@ -3597,10 +3597,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Winning by 28 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Winning by 8 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Winning by 14 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Losing by 2 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))"
+            "Winning by 28 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Winning by 8 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Winning by 14 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Losing by 2 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)"
           ],
           "answerIndex": 0,
           "explanation": "Final margin: 8 + 6 + 2(7) = 28 points."
@@ -3609,9 +3609,9 @@
           "prompt": "If your opponent has a guaranteed 1-turn outplay for 30 points and you cannot go out this turn, what must you do?",
           "options": [
             "Block their out-spot (play directly into or adjacent to the hook)",
-            "Play off your highest point letter elsewhere (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Advance the king to the 6th rank (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Ask to redraw (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))"
+            "Play off your highest point letter elsewhere (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Advance the king to the 6th rank (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Ask to redraw (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)"
           ],
           "answerIndex": 0,
           "explanation": "Blocking the opponent's out-spot destroys their tempo and keeps your winning chances alive."
@@ -3623,10 +3623,10 @@
         {
           "prompt": "Match the endgame terms: Complete Endgame, Double Penalty, Out-Spot, Tempo Play:",
           "options": [
-            "All are board games (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Complete Endgame: 0 in bag | Double Penalty: 2x opponent rack value | Out-Spot: Board location to empty rack | Tempo Play: Move that forces opponent response (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "All mean bingo plays (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "All mean foul plays (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))"
+            "All are board games (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Complete Endgame: 0 in bag | Double Penalty: 2x opponent rack value | Out-Spot: Board location to empty rack | Tempo Play: Move that forces opponent response (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "All mean bingo plays (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "All mean foul plays (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)"
           ],
           "answerIndex": 1,
           "explanation": "Endgame terminology matching.",
@@ -3635,10 +3635,10 @@
         {
           "prompt": "Why can a player trailing by 15 points win the game with a 2-letter out-play worth only 4 points?",
           "options": [
-            "Because adding 4 points for the play and receiving 2 × 10 points from the opponent's unplayed tiles creates a +24 point swing, overcoming the 15-point deficit to win by 9 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "It is impossible (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Because 2-letter words get triple score in the endgame (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "Because the trailing player gets a handicap bonus (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))"
+            "Because adding 4 points for the play and receiving 2 × 10 points from the opponent's unplayed tiles creates a +24 point swing, overcoming the 15-point deficit to win by 9 points (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "It is impossible (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Because 2-letter words get triple score in the endgame (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "Because the trailing player gets a handicap bonus (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)"
           ],
           "answerIndex": 0,
           "explanation": "4 + 2(10) = 24 point swing overcomes the 15-point deficit.",
@@ -3647,9 +3647,9 @@
         {
           "prompt": "What is a 'stuck tile' in the endgame?",
           "options": [
-            "A blank tile (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "A tile that fell off the board (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "A tile with glue on it (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
+            "A blank tile (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "A tile that fell off the board (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "A tile with glue on it (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
             "A high-point tile (like Q without U, or V)"
           ],
           "answerIndex": 3,
@@ -3659,10 +3659,10 @@
         {
           "prompt": "Complete: 'In an empty-bag endgame, calculation replaces _______.'",
           "options": [
-            "turn clocks (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "board vision (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "probabilistic speculation (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))",
-            "spelling accuracy (Execute deterministic Complete Endgame calculations with 0 tiles in the bag (U7))"
+            "turn clocks (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "board vision (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "probabilistic speculation (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)",
+            "spelling accuracy (Execute deterministic Complete Endgame calculations with 0 tiles in the bag)"
           ],
           "answerIndex": 2,
           "explanation": "Calculation replaces probability in deterministic endgames.",
@@ -3706,10 +3706,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master 'Out-in-Two' calculations, which tile play maximizes expected scoring value?",
           "options": [
-            "Because V cannot be played on triple word squares (Master OutinTwo calculations (U7))",
-            "Because there is no valid 2-letter word containing 'V' in the official English Scrabble dictionary, requiring at least a 3-letter open lane (Master OutinTwo calculations (U7))",
-            "Because V must be played with a blank (Master OutinTwo calculations (U7))",
-            "Because V is worth 50 points (Master OutinTwo calculations (U7))"
+            "Because V cannot be played on triple word squares (Master OutinTwo calculations)",
+            "Because there is no valid 2-letter word containing 'V' in the official English Scrabble dictionary, requiring at least a 3-letter open lane (Master OutinTwo calculations)",
+            "Because V must be played with a blank (Master OutinTwo calculations)",
+            "Because V is worth 50 points (Master OutinTwo calculations)"
           ],
           "answerIndex": 1,
           "explanation": "No 2-letter V words exist in English Scrabble (no VA, VE, VI, VO, VU)."
@@ -3717,10 +3717,10 @@
         {
           "prompt": "What is an 'Out-in-Two' sequence?",
           "options": [
-            "A calculated 2-move plan where Move 1 sheds awkward tiles and sets up Move 2 to legally empty the rack before the opponent can respond (Master OutinTwo calculations (U7))",
-            "Playing with 2 tiles only (Master OutinTwo calculations (U7))",
-            "A 2-minute time penalty (Master OutinTwo calculations (U7))",
-            "Going out twice in one game (Master OutinTwo calculations (U7))"
+            "A calculated 2-move plan where Move 1 sheds awkward tiles and sets up Move 2 to legally empty the rack before the opponent can respond (Master OutinTwo calculations)",
+            "Playing with 2 tiles only (Master OutinTwo calculations)",
+            "A 2-minute time penalty (Master OutinTwo calculations)",
+            "Going out twice in one game (Master OutinTwo calculations)"
           ],
           "answerIndex": 0,
           "explanation": "An Out-in-Two is a planned 2-move forced exit sequence."
@@ -3732,10 +3732,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Play across or adjacent to the 'I' on row 8 to kill the 'QI' spot, permanently stranding their Q for a 20-point penalty (Master OutinTwo calculations (U7))",
-            "Wait for them to play (Master OutinTwo calculations (U7))",
-            "Pass your turn (Master OutinTwo calculations (U7))",
-            "Play off the 'E' (Master OutinTwo calculations (U7))"
+            "Play across or adjacent to the 'I' on row 8 to kill the 'QI' spot, permanently stranding their Q for a 20-point penalty (Master OutinTwo calculations)",
+            "Wait for them to play (Master OutinTwo calculations)",
+            "Pass your turn (Master OutinTwo calculations)",
+            "Play off the 'E' (Master OutinTwo calculations)"
           ],
           "answerIndex": 0,
           "explanation": "Killing the last 'QI' spot traps the Q permanently."
@@ -3743,10 +3743,10 @@
         {
           "prompt": "What is 'turnover equity' in endgame positioning?",
           "options": [
-            "The net point swing gained by forcing the opponent to pass or play sub-optimal 2-point dumps while you score on every turn (Master OutinTwo calculations (U7))",
-            "The score on the center tile (Master OutinTwo calculations (U7))",
-            "The price of selling the board (Master OutinTwo calculations (U7))",
-            "Flipping the board upside down (Master OutinTwo calculations (U7))"
+            "The net point swing gained by forcing the opponent to pass or play sub-optimal 2-point dumps while you score on every turn (Master OutinTwo calculations)",
+            "The score on the center tile (Master OutinTwo calculations)",
+            "The price of selling the board (Master OutinTwo calculations)",
+            "Flipping the board upside down (Master OutinTwo calculations)"
           ],
           "answerIndex": 0,
           "explanation": "Turnover equity is the cumulative point differential gained from opponent lockouts."
@@ -3758,10 +3758,10 @@
         {
           "prompt": "Match the stuck tile vulnerability: Q with no U, V in tight board, C with no vowels, Z with no open vowels:",
           "options": [
-            "Q: Block 'QI' / 'QAT' | V: Block 3-letter lanes | C: Block open vowels | Z: Block 'ZA' / 'ZO' (Master OutinTwo calculations (U7))",
-            "All are safe to hold (Master OutinTwo calculations (U7))",
-            "All are wildcards (Master OutinTwo calculations (U7))",
-            "All are worth 50 points (Master OutinTwo calculations (U7))"
+            "Q: Block 'QI' / 'QAT' | V: Block 3-letter lanes | C: Block open vowels | Z: Block 'ZA' / 'ZO' (Master OutinTwo calculations)",
+            "All are safe to hold (Master OutinTwo calculations)",
+            "All are wildcards (Master OutinTwo calculations)",
+            "All are worth 50 points (Master OutinTwo calculations)"
           ],
           "answerIndex": 0,
           "explanation": "Stuck tile defensive countermeasures matching.",
@@ -3770,10 +3770,10 @@
         {
           "prompt": "Why should you never leave an open 'A' next to a Triple Letter score in the endgame if the opponent holds 'Z'?",
           "options": [
-            "Because A is a consonant (Master OutinTwo calculations (U7))",
-            "Because ZA is an illegal word (Master OutinTwo calculations (U7))",
-            "Because Z loses all points on Triple Letter (Master OutinTwo calculations (U7))",
-            "Because 'ZA' on a Triple Letter score generates an instant 31+ point play, flipping the game in 1 turn (Master OutinTwo calculations (U7))"
+            "Because A is a consonant (Master OutinTwo calculations)",
+            "Because ZA is an illegal word (Master OutinTwo calculations)",
+            "Because Z loses all points on Triple Letter (Master OutinTwo calculations)",
+            "Because 'ZA' on a Triple Letter score generates an instant 31+ point play, flipping the game in 1 turn (Master OutinTwo calculations)"
           ],
           "answerIndex": 3,
           "explanation": "'ZA' (pizza) on a TL square yields massive instant points.",
@@ -3782,10 +3782,10 @@
         {
           "prompt": "What happens if BOTH players pass their turn twice in succession in the endgame?",
           "options": [
-            "The tiles in the bag are redistributed (Master OutinTwo calculations (U7))",
-            "The game is declared a draw automatically (Master OutinTwo calculations (U7))",
-            "The game ends immediately; both players deduct the unplayed tiles from their own scores, and the highest remaining score wins (Master OutinTwo calculations (U7))",
-            "Both players score 0 (Master OutinTwo calculations (U7))"
+            "The tiles in the bag are redistributed (Master OutinTwo calculations)",
+            "The game is declared a draw automatically (Master OutinTwo calculations)",
+            "The game ends immediately; both players deduct the unplayed tiles from their own scores, and the highest remaining score wins (Master OutinTwo calculations)",
+            "Both players score 0 (Master OutinTwo calculations)"
           ],
           "answerIndex": 2,
           "explanation": "Successive passes end the game with reciprocal unplayed tile deductions.",
@@ -3794,10 +3794,10 @@
         {
           "prompt": "Complete: 'A trapped Q in the endgame is worth _______ to the opponent.'",
           "options": [
-            "0 points (Master OutinTwo calculations (U7))",
-            "-20 net points (Master OutinTwo calculations (U7))",
-            "+50 points (Master OutinTwo calculations (U7))",
-            "-5 points (Master OutinTwo calculations (U7))"
+            "0 points (Master OutinTwo calculations)",
+            "-20 net points (Master OutinTwo calculations)",
+            "+50 points (Master OutinTwo calculations)",
+            "-5 points (Master OutinTwo calculations)"
           ],
           "answerIndex": 1,
           "explanation": "Double penalty creates a -20 net swing.",
@@ -3841,10 +3841,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle, which tile play maximizes expected scoring value?",
           "options": [
-            "46 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "18 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "14 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "32 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))"
+            "46 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "18 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "14 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "32 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)"
           ],
           "answerIndex": 0,
           "explanation": "18 play points + 28 transfer points = 46 net point gain."
@@ -3852,10 +3852,10 @@
         {
           "prompt": "Why was playing 'PLEAD' for 32 points on Candidate Spot 1 a losing blunder despite scoring more immediate points than 'DEALT'?",
           "options": [
-            "Because it left an unplayed 'T' on your rack and opened a Triple Word lane where the opponent could play 'QIS' for 42 points and win (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Because PLEAD is not in the dictionary (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Because PLEAD loses 50 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Because P is an illegal tile (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))"
+            "Because it left an unplayed 'T' on your rack and opened a Triple Word lane where the opponent could play 'QIS' for 42 points and win (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Because PLEAD is not in the dictionary (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Because PLEAD loses 50 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Because P is an illegal tile (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)"
           ],
           "answerIndex": 0,
           "explanation": "Greedy immediate point scoring without calculating opponent responses loses endgames."
@@ -3867,10 +3867,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 7, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Memorizing only 2-letter words (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Every play is evaluated as: Immediate Score + Leave Value + Board Equity + Endgame Transfer Probability (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Speed of drawing tiles from the bag (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Playing the longest word possible every turn (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))"
+            "Memorizing only 2-letter words (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Every play is evaluated as: Immediate Score + Leave Value + Board Equity + Endgame Transfer Probability (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Speed of drawing tiles from the bag (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Playing the longest word possible every turn (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)"
           ],
           "answerIndex": 1,
           "explanation": "Comprehensive move equity synthesis is the hallmark of master Scrabble."
@@ -3878,10 +3878,10 @@
         {
           "prompt": "What is the final frontier awaiting you in Unit 8 of Scrabble Strategy?",
           "options": [
-            "Memorizing the dictionary from A to Z (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Competitive Word Lists (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Buying electronic tiles (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Learning a new board game (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))"
+            "Memorizing the dictionary from A to Z (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Competitive Word Lists (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Buying electronic tiles (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Learning a new board game (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)"
           ],
           "answerIndex": 1,
           "explanation": "Unit 8 focuses on competitive high-value word lists and power tile lexicons."
@@ -3893,10 +3893,10 @@
         {
           "prompt": "What core competencies were mastered across Scrabble Strategy Unit 7?",
           "options": [
-            "Spelling 3-letter words only (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Board carpentry only (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Drawing random tiles only (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "100-tile tracking grid management, unseen tile calculation, pre-endgame bag depletion control, deterministic complete endgame forced-win sequencing, double penalty tile transfers, and stuck-tile (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))"
+            "Spelling 3-letter words only (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Board carpentry only (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Drawing random tiles only (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "100-tile tracking grid management, unseen tile calculation, pre-endgame bag depletion control, deterministic complete endgame forced-win sequencing, double penalty tile transfers, and stuck-tile (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)"
           ],
           "answerIndex": 3,
           "explanation": "Unit 7 comprehensive tile tracking and competitive endgame mastery.",
@@ -3905,10 +3905,10 @@
         {
           "prompt": "If an opponent holds 'Q, Z, X' (28 pts) when you go out, what is the net transfer swing in your favor?",
           "options": [
-            "28 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "14 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "56 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "70 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))"
+            "28 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "14 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "56 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "70 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)"
           ],
           "answerIndex": 2,
           "explanation": "2 × 28 = 56 point net swing.",
@@ -3917,10 +3917,10 @@
         {
           "prompt": "Why is the blank tile considered more valuable than a 10-point 'Q' or 'Z' in the late game?",
           "options": [
-            "Because blank is worth 20 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Because the blank can assume any letter to guarantee a 50-point bingo or bridge an unblockable out-play, yielding far greater total net equity (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Because blank can be played twice (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "Because blank skips the opponent's turn (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))"
+            "Because blank is worth 20 points (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Because the blank can assume any letter to guarantee a 50-point bingo or bridge an unblockable out-play, yielding far greater total net equity (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Because blank can be played twice (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "Because blank skips the opponent's turn (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)"
           ],
           "answerIndex": 1,
           "explanation": "Blank provides 100% combinatorial flexibility for bingos and out-plays.",
@@ -3929,10 +3929,10 @@
         {
           "prompt": "Complete the Scrabble maxim: 'Track the tiles, control the bag, and _______.'",
           "options": [
-            "calculate the forced out-play (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "pass your turn (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "play the first word you see (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))",
-            "calculate leave equity and board opening potential (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle (U7))"
+            "calculate the forced out-play (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "pass your turn (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "play the first word you see (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)",
+            "calculate leave equity and board opening potential (Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle)"
           ],
           "answerIndex": 0,
           "explanation": "'Track the tiles, control the bag, and calculate the forced out-play'.",
@@ -3976,10 +3976,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master the complete competitive lexicon of 2-letter and 3-letter words featuring high-value power tiles (J, which tile play maximizes expected scoring value?",
           "options": [
-            "QU (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "QA (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "QO (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "QI (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))"
+            "QU (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "QA (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "QO (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "QI (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)"
           ],
           "answerIndex": 3,
           "explanation": "'QI' is the only legal 2-letter Q word in Scrabble."
@@ -3987,10 +3987,10 @@
         {
           "prompt": "What are the two official 2-letter words starting with 'Z'?",
           "options": [
-            "ZO and ZU (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "ZU and ZY (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "ZA and ZO (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "ZE and ZI (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))"
+            "ZO and ZU (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "ZU and ZY (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "ZA and ZO (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "ZE and ZI (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)"
           ],
           "answerIndex": 2,
           "explanation": "'ZA' (pizza) and 'ZO' (Tibetan hybrid bovine) are the official 2-letter Z words."
@@ -4002,10 +4002,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "QUE (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "QUI (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "QUO (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "QAT (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))"
+            "QUE (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "QUI (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "QUO (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "QAT (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)"
           ],
           "answerIndex": 3,
           "explanation": "QAT, QIS, and QUA are valid 3-letter Q-words without U."
@@ -4013,10 +4013,10 @@
         {
           "prompt": "How many 2-letter words contain the letter 'X' in the official tournament dictionary?",
           "options": [
-            "2 words (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "10 words (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "1 word (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "5 words (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))"
+            "2 words (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "10 words (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "1 word (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "5 words (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)"
           ],
           "answerIndex": 3,
           "explanation": "AX, EX, OX, XI, and XU."
@@ -4028,10 +4028,10 @@
         {
           "prompt": "Match the power tile words with their meanings: QAT, ZA, XI, JO:",
           "options": [
-            "All mean musical notes (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "All mean cities (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "QAT: Arabian shrub | ZA: Pizza | XI: Greek letter | JO: Sweetheart/dear (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "All are abbreviations (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))"
+            "All mean musical notes (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "All mean cities (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "QAT: Arabian shrub | ZA: Pizza | XI: Greek letter | JO: Sweetheart/dear (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "All are abbreviations (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)"
           ],
           "answerIndex": 2,
           "explanation": "Power word definitions matching.",
@@ -4040,10 +4040,10 @@
         {
           "prompt": "Why is 'XU' (.--. -.--) an essential tournament word to memorize?",
           "options": [
-            "Because it is worth 50 points (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "Because it dumps the awkward 'U' vowel while simultaneously weaponizing the 8-point 'X' in tight corners (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "Because it turns into a blank (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "Because it can only be played on turn 1 (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))"
+            "Because it is worth 50 points (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "Because it dumps the awkward 'U' vowel while simultaneously weaponizing the 8-point 'X' in tight corners (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "Because it turns into a blank (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "Because it can only be played on turn 1 (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)"
           ],
           "answerIndex": 1,
           "explanation": "'XU' dumps both an awkward U and high-scoring X efficiently.",
@@ -4052,10 +4052,10 @@
         {
           "prompt": "What makes 2-letter power words the single most valuable weapon in competitive Scrabble?",
           "options": [
-            "They can be tucked into tight parallel corridors across premium multiplier squares to generate 40-60 points while using almost zero rack resources (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "They are required before playing bingos (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "They let you redraw tiles (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "They double the opponent's timer (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))"
+            "They can be tucked into tight parallel corridors across premium multiplier squares to generate 40-60 points while using almost zero rack resources (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "They are required before playing bingos (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "They let you redraw tiles (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "They double the opponent's timer (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)"
           ],
           "answerIndex": 0,
           "explanation": "Parallel scoring efficiency and multiplier exploitation.",
@@ -4064,10 +4064,10 @@
         {
           "prompt": "Complete: 'The letter J has only one legal 2-letter word: _______.'",
           "options": [
-            "JI (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "JE (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "JA (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))",
-            "JO (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J (U8))"
+            "JI (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "JE (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "JA (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)",
+            "JO (Master the complete competitive lexicon of 2letter and 3letter words featuring highvalue power tiles J)"
           ],
           "answerIndex": 3,
           "explanation": "'JO' is the unique 2-letter J word.",
@@ -4111,10 +4111,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master high-density vowel dump words (2 to 5 letters) to escape vowel-heavy rack paralysis (e, which tile play maximizes expected scoring value?",
           "options": [
-            "MIAOU (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "MIAOW (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "MAUVE (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "MOOSE (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))"
+            "MIAOU (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "MIAOW (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "MAUVE (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "MOOSE (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)"
           ],
           "answerIndex": 0,
           "explanation": "'MIAOU' is a legal 5-letter word with 4 vowels."
@@ -4122,10 +4122,10 @@
         {
           "prompt": "Which of the following is a legal 2-letter word consisting entirely of vowels?",
           "options": [
-            "AA (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "AO (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "UA (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "IU (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))"
+            "AA (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "AO (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "UA (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "IU (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)"
           ],
           "answerIndex": 0,
           "explanation": "AA, AE, AI, EA, EE, OE, OI, OU are the valid 2-vowel words."
@@ -4137,10 +4137,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "STREETS (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "REST (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
+            "STREETS (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "REST (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
             "EERIE (dumps 4 vowels E-E-I-E)",
-            "Exchange all 7 tiles (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))"
+            "Exchange all 7 tiles (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)"
           ],
           "answerIndex": 2,
           "explanation": "Playing a vowel dump preserves the powerhouse RST consonant leave."
@@ -4148,10 +4148,10 @@
         {
           "prompt": "What does the 2-letter word 'AA' mean in Scrabble?",
           "options": [
-            "An automobile association (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "A battery size (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "An academic award (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "Basaltic rough, cindery volcanic lava (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))"
+            "An automobile association (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "A battery size (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "An academic award (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "Basaltic rough, cindery volcanic lava (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)"
           ],
           "answerIndex": 3,
           "explanation": "AA is Hawaiian geological terminology for rough basaltic lava."
@@ -4163,10 +4163,10 @@
         {
           "prompt": "Match the vowel dump words: AGUE, OLEO, URAEI, EAU:",
           "options": [
-            "All mean types of trees (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "AGUE: Fever | OLEO: Margarine | URAEI: Sacred Egyptian serpents | EAU: Water (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "All are abbreviations (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "All mean musical terms (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))"
+            "All mean types of trees (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "AGUE: Fever | OLEO: Margarine | URAEI: Sacred Egyptian serpents | EAU: Water (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "All are abbreviations (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "All mean musical terms (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)"
           ],
           "answerIndex": 1,
           "explanation": "Vowel dump word definitions matching.",
@@ -4175,10 +4175,10 @@
         {
           "prompt": "Why is playing a 12-point vowel dump (like 'AGUE') almost always superior to doing a 0-point tile exchange of 4 vowels?",
           "options": [
-            "Because the vowel dump scores 12 immediate points, advances the board state, and achieves the exact same rack-curing result as an exchange without giving up a whole turn (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "Because exchanges are banned in tournaments (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "Because vowel dumps give extra tiles (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "Because exchanges cost $10 in cash (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))"
+            "Because the vowel dump scores 12 immediate points, advances the board state, and achieves the exact same rack-curing result as an exchange without giving up a whole turn (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "Because exchanges are banned in tournaments (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "Because vowel dumps give extra tiles (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "Because exchanges cost $10 in cash (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)"
           ],
           "answerIndex": 0,
           "explanation": "Scores points and cures rack simultaneously without forfeiting a turn.",
@@ -4187,10 +4187,10 @@
         {
           "prompt": "Which 4-letter word dumps 3 vowels with a single 'G' consonant?",
           "options": [
-            "GIFT (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "GANG (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "GLAD (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "AGUE (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))"
+            "GIFT (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "GANG (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "GLAD (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "AGUE (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)"
           ],
           "answerIndex": 3,
           "explanation": "A-G-U-E contains 3 vowels (A, U, E).",
@@ -4199,10 +4199,10 @@
         {
           "prompt": "Complete: 'When flooded with vowels, do not panic; deploy the _______.'",
           "options": [
-            "timer pause (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "resignation notice (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "vowel dump lexicon (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))",
-            "board flipper (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e (U8))"
+            "timer pause (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "resignation notice (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "vowel dump lexicon (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)",
+            "board flipper (Master highdensity vowel dump words 2 to 5 letters to escape vowelheavy rack paralysis e)"
           ],
           "answerIndex": 2,
           "explanation": "The vowel dump lexicon rehabilitates heavy vowel racks.",
@@ -4246,10 +4246,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master vowelless consonant dumps (2 to 5 letters) and unusual consonant cluster words (e, which tile play maximizes expected scoring value?",
           "options": [
-            "CRW (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "CWN (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "CWT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "CWM (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))"
+            "CRW (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "CWN (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "CWT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "CWM (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)"
           ],
           "answerIndex": 3,
           "explanation": "'CWM' is a legal 3-letter vowelless word."
@@ -4257,10 +4257,10 @@
         {
           "prompt": "What is the longest completely vowelless non-interjection word in English Scrabble?",
           "options": [
-            "STRENGTH (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "RHYTHM (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "SCHTSCH (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "CRWTH (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))"
+            "STRENGTH (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "RHYTHM (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "SCHTSCH (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "CRWTH (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)"
           ],
           "answerIndex": 3,
           "explanation": "CRWTH (5 letters) and CRWTHS (6 letters) have zero standard English vowels (A, E, I, O, U, Y)."
@@ -4272,10 +4272,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "PHT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "BAT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "CAT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "DOG (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))"
+            "PHT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "BAT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "CAT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "DOG (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)"
           ],
           "answerIndex": 0,
           "explanation": "PHT (sound of puff) uses only P, H, T."
@@ -4283,10 +4283,10 @@
         {
           "prompt": "Which of the following is a legal 4-letter vowelless word meaning scolding clicks of the tongue?",
           "options": [
-            "TSKS (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "CLCK (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "TTTT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "ZZZZ (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))"
+            "TSKS (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "CLCK (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "TTTT (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "ZZZZ (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)"
           ],
           "answerIndex": 0,
           "explanation": "TSKS (plural of TSK) is fully legal."
@@ -4298,10 +4298,10 @@
         {
           "prompt": "Match the vowelless words with their definitions: CWM, CRWTH, NTH, PHT:",
           "options": [
-            "CWM: Mountain hollow | CRWTH: Celtic lyre | NTH: Indefinite ordinal degree | PHT: Exclamation of mild anger (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "All are acronyms (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "All mean musical notes (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "All mean metals (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))"
+            "CWM: Mountain hollow | CRWTH: Celtic lyre | NTH: Indefinite ordinal degree | PHT: Exclamation of mild anger (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "All are acronyms (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "All mean musical notes (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "All mean metals (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)"
           ],
           "answerIndex": 0,
           "explanation": "Vowelless word definitions matching.",
@@ -4310,10 +4310,10 @@
         {
           "prompt": "Why is 'NTH' (N-T-H) one of the most useful 3-letter consonant dumps in Scrabble?",
           "options": [
-            "Because NTH turns all tiles into blanks (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "Because it is a 1-letter word (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "Because NTH scores 100 points (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "Because N, T, and H are very common consonants that frequently clog racks when vowels run dry, allowing an instant 3-tile purge across open board spots (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))"
+            "Because NTH turns all tiles into blanks (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "Because it is a 1-letter word (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "Because NTH scores 100 points (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "Because N, T, and H are very common consonants that frequently clog racks when vowels run dry, allowing an instant 3-tile purge across open board spots (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)"
           ],
           "answerIndex": 3,
           "explanation": "NTH purges 3 high-frequency consonants cleanly.",
@@ -4322,10 +4322,10 @@
         {
           "prompt": "How many letters are in the legal Scrabble word 'TSKTSK'?",
           "options": [
-            "4 letters (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "3 letters (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "6 letters (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "8 letters (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))"
+            "4 letters (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "3 letters (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "6 letters (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "8 letters (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)"
           ],
           "answerIndex": 2,
           "explanation": "TSKTSK is a valid 6-letter verb.",
@@ -4334,10 +4334,10 @@
         {
           "prompt": "Complete: 'When trapped without vowels, remember the Welsh gift: _______.'",
           "options": [
-            "resigning (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "CWM and CRWTH (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "calling a referee (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))",
-            "buying vowels (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e (U8))"
+            "resigning (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "CWM and CRWTH (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "calling a referee (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)",
+            "buying vowels (Master vowelless consonant dumps 2 to 5 letters and unusual consonant cluster words e)"
           ],
           "answerIndex": 1,
           "explanation": "CWM and CRWTH provide vowelless escapes.",
@@ -4381,10 +4381,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Master high-probability tournament power bingos (7-letter and 8-letter words) built upon elite 6-letter stems, which tile play maximizes expected scoring value?",
           "options": [
-            "HEATING (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "HAIRNET (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "HATTIRE (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "HOTRAIN (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))"
+            "HEATING (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "HAIRNET (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "HATTIRE (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "HOTRAIN (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)"
           ],
           "answerIndex": 1,
           "explanation": "R-E-T-I-N-A + H = HAIRNET."
@@ -4392,10 +4392,10 @@
         {
           "prompt": "Which 7-letter bingo is formed by combining the stem RETINA with the letter 'M'?",
           "options": [
-            "MINARET (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "MORNING (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "MASTERY (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "MARTINI (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))"
+            "MINARET (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "MORNING (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "MASTERY (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "MARTINI (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)"
           ],
           "answerIndex": 0,
           "explanation": "R-E-T-I-N-A + M = MINARET / RAIMENT."
@@ -4407,10 +4407,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "5 distinct bingos (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "12 bingos (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "1 bingo (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "0 bingos (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))"
+            "5 distinct bingos (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "12 bingos (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "1 bingo (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "0 bingos (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)"
           ],
           "answerIndex": 0,
           "explanation": "NASTIER, RETAINS, RETINAS, STAINER, STEARIN."
@@ -4418,10 +4418,10 @@
         {
           "prompt": "What makes 'TISANE' and 'RETINA' the highest equity bingo stems in the English language?",
           "options": [
-            "They contain the 6 most common letters in the English language (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "They cannot be blocked on the board (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "They are worth 50 points by themselves (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "They are French words (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))"
+            "They contain the 6 most common letters in the English language (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "They cannot be blocked on the board (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "They are worth 50 points by themselves (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "They are French words (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)"
           ],
           "answerIndex": 0,
           "explanation": "Maximum combinatorial compatibility with the remaining tile distribution."
@@ -4433,10 +4433,10 @@
         {
           "prompt": "Match the stem additions to their 7-letter bingos: RETINA + G, RETINA + P, RETINA + T, RETINA + D:",
           "options": [
-            "All are French words (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "All are 8-letter words (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "All are invalid words (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "RETINA + G: INGRATE / TEARING | RETINA + P: PAINTER / PERTAIN | RETINA + T: NITRATE / NATTIER | RETINA + D: TRAINED / DETRAIN (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))"
+            "All are French words (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "All are 8-letter words (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "All are invalid words (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "RETINA + G: INGRATE / TEARING | RETINA + P: PAINTER / PERTAIN | RETINA + T: NITRATE / NATTIER | RETINA + D: TRAINED / DETRAIN (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)"
           ],
           "answerIndex": 3,
           "explanation": "RETINA stem addition matching.",
@@ -4445,10 +4445,10 @@
         {
           "prompt": "What 7-letter bingo is formed from TISANE + L?",
           "options": [
-            "SOLDIER (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "SILENCE (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "SALIENT (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "STOLEN (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))"
+            "SOLDIER (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "SILENCE (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "SALIENT (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "STOLEN (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)"
           ],
           "answerIndex": 2,
           "explanation": "TISANE + L = SALIENT / ENTAILS.",
@@ -4457,10 +4457,10 @@
         {
           "prompt": "Why is keeping a 6-letter bingo stem on your rack worth sacrificing 15-20 points of immediate turn score?",
           "options": [
-            "Because the referee gives extra time (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "Because an intact stem yields an ~85-95% probability of hitting a 50-point bonus bingo on the very next turn, generating a massive net positive expected value (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "Because stems are worth double face value (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "Because 7-letter words are illegal on turn 1 (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))"
+            "Because the referee gives extra time (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "Because an intact stem yields an ~85-95% probability of hitting a 50-point bonus bingo on the very next turn, generating a massive net positive expected value (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "Because stems are worth double face value (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "Because 7-letter words are illegal on turn 1 (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)"
           ],
           "answerIndex": 1,
           "explanation": "The mathematical expected value (+EV) of a 70-80 point bingo next turn dominates immediate low-value plays.",
@@ -4469,10 +4469,10 @@
         {
           "prompt": "Complete: 'Master the stems, and you master the _______.'",
           "options": [
-            "game of Scrabble (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "alphabet song (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "dictionary binding (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))",
-            "timer clock (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems (U8))"
+            "game of Scrabble (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "alphabet song (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "dictionary binding (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)",
+            "timer clock (Master highprobability tournament power bingos 7letter and 8letter words built upon elite 6letter stems)"
           ],
           "answerIndex": 0,
           "explanation": "Stem mastery is the engine of competitive Scrabble excellence.",
@@ -4516,10 +4516,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation, which tile play maximizes expected scoring value?",
           "options": [
-            "Because blocking the 'ZA' spot permanently trapped the 10-point 'Z' on the opponent's rack, denying them 32 points and converting their 'Z' into a +20 point penalty bonus in your favor (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Because QAT is worth 100 points (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Because QAT was a bingo (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Because Z is an illegal tile (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))"
+            "Because blocking the 'ZA' spot permanently trapped the 10-point 'Z' on the opponent's rack, denying them 32 points and converting their 'Z' into a +20 point penalty bonus in your favor (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Because QAT is worth 100 points (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Because QAT was a bingo (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Because Z is an illegal tile (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)"
           ],
           "answerIndex": 0,
           "explanation": "Blocking the opponent's only power spot trapped their 10-point tile and secured a +52 point net swing."
@@ -4527,10 +4527,10 @@
         {
           "prompt": "What are the 5 core pillars of competitive Scrabble mastery synthesized across all 8 units?",
           "options": [
-            "1. 2-Letter/3-Letter Short Words; 2. Premium Multiplier Geometry; 3. Rack Balance & Leave Equity; 4. 100-Tile Tracking & Endgame Math; 5. 6-Letter Bingo Stems (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "1. Premium square denial; 2. High-probability vowel-consonant balance; 3. Stem memorization; 4. Endgame tile tracking (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "1. Memorizing the dictionary backwards only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "1. Buying special tiles only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))"
+            "1. 2-Letter/3-Letter Short Words; 2. Premium Multiplier Geometry; 3. Rack Balance & Leave Equity; 4. 100-Tile Tracking & Endgame Math; 5. 6-Letter Bingo Stems (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "1. Premium square denial; 2. High-probability vowel-consonant balance; 3. Stem memorization; 4. Endgame tile tracking (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "1. Memorizing the dictionary backwards only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "1. Buying special tiles only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)"
           ],
           "answerIndex": 0,
           "explanation": "The 5 pillars of Scrabble grandmastery."
@@ -4542,10 +4542,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 8, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Move Equity = Tile face value multiplied by 10 (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Move Equity = Immediate Turn Score + Rack Leave Value + Board Control Differential + Opponent Response Penalty (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Move Equity = Remaining time on the clock (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Move Equity = Number of letters in the word (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))"
+            "Move Equity = Tile face value multiplied by 10 (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Move Equity = Immediate Turn Score + Rack Leave Value + Board Control Differential + Opponent Response Penalty (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Move Equity = Remaining time on the clock (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Move Equity = Number of letters in the word (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)"
           ],
           "answerIndex": 1,
           "explanation": "Total Move Equity combines score, leave equity, board differential, and defense."
@@ -4553,10 +4553,10 @@
         {
           "prompt": "What is the primary cognitive and linguistic benefit of completing the Scrabble Strategy curriculum?",
           "options": [
-            "Writing poetry only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Rapid lexical retrieval, high-dimensional spatial pattern recognition, probabilistic risk management, and rigorous working-memory combinatorial agility (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Memorizing numbers only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Learning how to type fast (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))"
+            "Writing poetry only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Rapid lexical retrieval, high-dimensional spatial pattern recognition, probabilistic risk management, and rigorous working-memory combinatorial agility (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Memorizing numbers only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Learning how to type fast (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)"
           ],
           "answerIndex": 1,
           "explanation": "Lexical agility, spatial visualization, and probabilistic combinatorial decision-making."
@@ -4568,10 +4568,10 @@
         {
           "prompt": "What core strategic, mathematical, and linguistic competencies were mastered across the ENTIRE 40-Lesson FEARN Scrabble Curriculum?",
           "options": [
-            "Crossword puzzle solving only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "Drawing random letters out of a bag only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
+            "Crossword puzzle solving only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "Drawing random letters out of a bag only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
             "Letter values and board multipliers, all 107 official 2-letter words, parallel hooks, anagramming & letter-pattern recognition, high-probability bingo stems (RETINA, SATIRE, TISANE)",
-            "Word search games only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))"
+            "Word search games only (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)"
           ],
           "answerIndex": 2,
           "explanation": "Comprehensive 40-lesson Scrabble Strategy mastery certification.",
@@ -4580,10 +4580,10 @@
         {
           "prompt": "If you hold a Blank (?) on your rack in the endgame, how should it be valued compared to a 10-point Z?",
           "options": [
-            "The Z is better because 10 > 0 (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "The Blank is far more valuable (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "They have equal value (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "The Blank is worth -5 points (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))"
+            "The Z is better because 10 > 0 (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "The Blank is far more valuable (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "They have equal value (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "The Blank is worth -5 points (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)"
           ],
           "answerIndex": 1,
           "explanation": "Blank flexibility dominates static point values in high-level play.",
@@ -4592,10 +4592,10 @@
         {
           "prompt": "Which 6-letter stem is celebrated as the single highest probability bingo generator in English Scrabble?",
           "options": [
-            "RETINA (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "BCDFGH (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "ZYZZYV (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "AEIOUU (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))"
+            "RETINA (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "BCDFGH (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "ZYZZYV (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "AEIOUU (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)"
           ],
           "answerIndex": 0,
           "explanation": "RETINA is the supreme bingo stem.",
@@ -4604,10 +4604,10 @@
         {
           "prompt": "Complete the Scrabble grandmaster creed: 'Every turn is not just a word; it is an equation of _______.'",
           "options": [
-            "board topology and rack balance (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "spelling rules (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "dictionary definitions (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))",
-            "probability, board geometry, and psychological tempo (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation (U8))"
+            "board topology and rack balance (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "spelling rules (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "dictionary definitions (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)",
+            "probability, board geometry, and psychological tempo (Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation)"
           ],
           "answerIndex": 3,
           "explanation": "Every play is a mathematical and strategic equation.",
@@ -4655,10 +4655,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Identify, which tile play maximizes expected scoring value?",
           "options": [
-            "6x multiplier (Identify (U5))",
-            "3x multiplier (Identify (U5))",
-            "12x multiplier (Identify (U5))",
-            "9x multiplier (Identify (U5))"
+            "6x multiplier (Identify)",
+            "3x multiplier (Identify)",
+            "12x multiplier (Identify)",
+            "9x multiplier (Identify)"
           ],
           "answerIndex": 3,
           "explanation": "Two TWS squares multiply sequentially: 3 x 3 = 9x."
@@ -4666,10 +4666,10 @@
         {
           "prompt": "Why is playing a word that stops exactly 1 tile away from a TWS square dangerous?",
           "options": [
-            "It is illegal under Scrabble rules. (Identify (U5))",
-            "It automatically forfeits your turn. (Identify (U5))",
-            "It reduces your score by half. (Identify (U5))",
-            "It gives the opponent an effortless, high-scoring 3x word on their next turn. (Identify (U5))"
+            "It is illegal under Scrabble rules. (Identify)",
+            "It automatically forfeits your turn. (Identify)",
+            "It reduces your score by half. (Identify)",
+            "It gives the opponent an effortless, high-scoring 3x word on their next turn. (Identify)"
           ],
           "answerIndex": 3,
           "explanation": "It hands the opponent an unblocked 3x multiplier."
@@ -4681,10 +4681,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 1: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "51 points (Identify (U5))",
-            "75 points (Identify (U5))",
-            "102 points (Identify (U5))",
-            "99 points (Identify (U5))"
+            "51 points (Identify)",
+            "75 points (Identify)",
+            "102 points (Identify)",
+            "99 points (Identify)"
           ],
           "answerIndex": 3,
           "explanation": "J(8) + A(1) + X on TLS(24) = 33. Multiplied by 3 (TWS) = 99 points!"
@@ -4692,10 +4692,10 @@
         {
           "prompt": "When is it strategically acceptable to open a TWS lane?",
           "options": [
-            "Always on turn 1 (Identify (U5))",
-            "Whenever you have vowels (Identify (U5))",
-            "Only when playing 2-letter words (Identify (U5))",
-            "When your current play scores massive points (Identify (U5))"
+            "Always on turn 1 (Identify)",
+            "Whenever you have vowels (Identify)",
+            "Only when playing 2-letter words (Identify)",
+            "When your current play scores massive points (Identify)"
           ],
           "answerIndex": 3,
           "explanation": "Acceptable only if your immediate reward outweighs the opponent's expected reply."
@@ -4707,10 +4707,10 @@
         {
           "prompt": "A player plays an 8-letter bingo through a blank and an existing tile, covering two TWS squares. The raw tile total is 18 points. What is the final turn score?",
           "options": [
-            "162 points (Identify (U5))",
-            "212 points (Identify (U5))",
-            "180 points (Identify (U5))",
-            "104 points (Identify (U5))"
+            "162 points (Identify)",
+            "212 points (Identify)",
+            "180 points (Identify)",
+            "104 points (Identify)"
           ],
           "answerIndex": 1,
           "explanation": "(18 x 9) + 50 = 162 + 50 = 212 points!",
@@ -4720,9 +4720,9 @@
           "prompt": "Which of the following describes a 'hot spot' in board geometry?",
           "options": [
             "An open premium square (TWS or DWS)",
-            "The tile bag (Identify (U5))",
-            "A blank tile (Identify (U5))",
-            "The center star square (Identify (U5))"
+            "The tile bag (Identify)",
+            "A blank tile (Identify)",
+            "The center star square (Identify)"
           ],
           "answerIndex": 0,
           "explanation": "A hot spot is an accessible high-multiplier board location.",
@@ -4731,10 +4731,10 @@
         {
           "prompt": "How many Triple Word Score squares exist on a standard 15x15 Scrabble board?",
           "options": [
-            "4 squares (Identify (U5))",
-            "12 squares (Identify (U5))",
-            "16 squares (Identify (U5))",
-            "8 squares (Identify (U5))"
+            "4 squares (Identify)",
+            "12 squares (Identify)",
+            "16 squares (Identify)",
+            "8 squares (Identify)"
           ],
           "answerIndex": 3,
           "explanation": "There are exactly 8 red TWS squares on the board.",
@@ -4743,10 +4743,10 @@
         {
           "prompt": "What is the defensive concept of 'parrying' a TWS threat?",
           "options": [
-            "Exchanging all 7 tiles (Identify (U5))",
-            "Challenging the opponent's word (Identify (U5))",
-            "Placing a low-scoring blocker tile directly in the pathway to neutralize the opponent's TWS access (Identify (U5))",
-            "Passing your turn (Identify (U5))"
+            "Exchanging all 7 tiles (Identify)",
+            "Challenging the opponent's word (Identify)",
+            "Placing a low-scoring blocker tile directly in the pathway to neutralize the opponent's TWS access (Identify)",
+            "Passing your turn (Identify)"
           ],
           "answerIndex": 2,
           "explanation": "Blocking or neutralizing the approach path.",
@@ -4794,10 +4794,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings, which tile play maximizes expected scoring value?",
           "options": [
-            "V (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "D (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "S (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "E (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))"
+            "V (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "D (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "S (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "E (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)"
           ],
           "answerIndex": 0,
           "explanation": "V has almost no single-letter front or back hooks in English Scrabble."
@@ -4805,10 +4805,10 @@
         {
           "prompt": "What does 'burning a premium square' mean in Scrabble strategy?",
           "options": [
-            "Playing a modest word on a hot square yourself to eliminate the threat of the opponent scoring a massive word there (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Removing the board square with an eraser (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Covering it with a blank (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Challenging the word played on it (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))"
+            "Playing a modest word on a hot square yourself to eliminate the threat of the opponent scoring a massive word there (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Removing the board square with an eraser (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Covering it with a blank (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Challenging the word played on it (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)"
           ],
           "answerIndex": 0,
           "explanation": "Taking away the square from the opponent."
@@ -4820,10 +4820,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 2: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Open wide floating lanes across the board. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Play defensively, close open lanes, make tight parallel plays, and restrict bingo avenues. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Pass every turn. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Exchange all your tiles. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))"
+            "Open wide floating lanes across the board. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Play defensively, close open lanes, make tight parallel plays, and restrict bingo avenues. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Pass every turn. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Exchange all your tiles. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)"
           ],
           "answerIndex": 1,
           "explanation": "When holding a comfortable lead, closing down the board minimizes variance."
@@ -4831,10 +4831,10 @@
         {
           "prompt": "Why is an opponent tile exchange of 1 or 2 tiles an alert for defensive play?",
           "options": [
-            "It means they have no vowels. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "It means they cannot spell words. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "They are likely 'fishing' for a specific bingo tile while holding a 5-letter stem like RETIN-. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "It gives you 50 bonus points. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))"
+            "It means they have no vowels. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "It means they cannot spell words. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "They are likely 'fishing' for a specific bingo tile while holding a 5-letter stem like RETIN-. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "It gives you 50 bonus points. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)"
           ],
           "answerIndex": 2,
           "explanation": "A 1-2 tile exchange indicates a player fishing to complete a 7-letter bingo."
@@ -4846,10 +4846,10 @@
         {
           "prompt": "Which of the following is a classic board-cramping play?",
           "options": [
-            "Playing a word parallel right alongside an existing word, forming multiple 2-letter crosswords and leaving no open spaces (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Exchanging 5 consonants (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Playing perpendicular through the center star (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "Playing an 8-letter word extending to the board edge (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))"
+            "Playing a word parallel right alongside an existing word, forming multiple 2-letter crosswords and leaving no open spaces (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Exchanging 5 consonants (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Playing perpendicular through the center star (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "Playing an 8-letter word extending to the board edge (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)"
           ],
           "answerIndex": 0,
           "explanation": "Parallel plays close off open lanes.",
@@ -4858,10 +4858,10 @@
         {
           "prompt": "What is the primary risk of playing an open-ended vowel like 'A' or 'E' on row 1 adjacent to a Triple Word Score?",
           "options": [
-            "The letter becomes a wild card. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "You lose 10 penalty points. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "You cannot play on that row again. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "The opponent can play a high-scoring word using that vowel directly onto the TWS. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))"
+            "The letter becomes a wild card. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "You lose 10 penalty points. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "You cannot play on that row again. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "The opponent can play a high-scoring word using that vowel directly onto the TWS. (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)"
           ],
           "answerIndex": 3,
           "explanation": "Open vowels next to TWS are high-danger targets.",
@@ -4870,8 +4870,8 @@
         {
           "prompt": "True or False: In tournament Scrabble, playing a 20-point defensive word that closes a 60-point opponent lane is often mathematically superior to playing a 30-point word that leaves the lane wide open.",
           "options": [
-            "False (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "True (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))"
+            "False (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "True (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)"
           ],
           "answerIndex": 1,
           "explanation": "True. Net spread (+20 vs. 30-60 = -30) favors the defensive block.",
@@ -4880,10 +4880,10 @@
         {
           "prompt": "What is a 'dead tile' in defensive endgame strategy?",
           "options": [
-            "A broken tile (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "A tile that cannot be legally played anywhere on the current board (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "A tile worth 0 points (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))",
-            "A blank tile (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings (U5))"
+            "A broken tile (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "A tile that cannot be legally played anywhere on the current board (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "A tile worth 0 points (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)",
+            "A blank tile (Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings)"
           ],
           "answerIndex": 1,
           "explanation": "A tile with no legal placement on the board.",
@@ -4931,10 +4931,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Evaluate board volatility and dynamically pivot between open-board offensive strategies and closed-board defensive strategies based on score spread, which tile play maximizes expected scoring value?",
           "options": [
-            "A tightly closed, cramped board with no vowels (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "An empty board (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "A board with only 2-letter words (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "An open board with long available lines and floating vowels for bingos (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))"
+            "A tightly closed, cramped board with no vowels (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "An empty board (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "A board with only 2-letter words (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "An open board with long available lines and floating vowels for bingos (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)"
           ],
           "answerIndex": 3,
           "explanation": "Trailing players need high volatility and open bingo lines to make a comeback."
@@ -4942,10 +4942,10 @@
         {
           "prompt": "If you are leading by 85 points in the late midgame, why should you avoid playing into wide-open quadrants?",
           "options": [
-            "Because open plays score 0 points. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "Because the referee will issue a warning. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "Because tiles become invalid. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "Because an open board allows the trailing opponent to play a 50-point bingo and catch up. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))"
+            "Because open plays score 0 points. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "Because the referee will issue a warning. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "Because tiles become invalid. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "Because an open board allows the trailing opponent to play a 50-point bingo and catch up. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)"
           ],
           "answerIndex": 3,
           "explanation": "Open lanes give the opponent comeback opportunities."
@@ -4957,10 +4957,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 3: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "Option B (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
+            "Option B (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
             "Option A (34 points)",
-            "Passing your turn (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "Exchanging tiles (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))"
+            "Passing your turn (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "Exchanging tiles (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)"
           ],
           "answerIndex": 0,
           "explanation": "Option B protects the lead against high-variance opponent counter-attacks."
@@ -4969,9 +4969,9 @@
           "prompt": "What does 'volatility' mean in competitive Scrabble?",
           "options": [
             "The probability and magnitude of large score swings (bingos and premium hits)",
-            "How fast players place tiles (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "The weight of the wooden tiles (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "The temperature of the tournament room (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))"
+            "How fast players place tiles (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "The weight of the wooden tiles (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "The temperature of the tournament room (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)"
           ],
           "answerIndex": 0,
           "explanation": "Volatility represents the potential for large swing plays."
@@ -4983,9 +4983,9 @@
         {
           "prompt": "Match the game situation with the optimal board control strategy: Trailing by 80 vs. Leading by 80:",
           "options": [
-            "Both situations use identical open board strategy (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "Both situations use tile exchange only (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "Trailing by 80: Low volatility | Leading by 80: High volatility (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
+            "Both situations use identical open board strategy (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "Both situations use tile exchange only (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "Trailing by 80: Low volatility | Leading by 80: High volatility (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
             "Trailing by 80: High volatility (open lanes)"
           ],
           "answerIndex": 3,
@@ -4995,10 +4995,10 @@
         {
           "prompt": "What is a 'bingo runway'?",
           "options": [
-            "The edge of the table (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "A blank tile on the board (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "An open 7- or 8-square row or column with accessible hook tiles and no blocking obstacles (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "A rack with all vowels (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))"
+            "The edge of the table (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "A blank tile on the board (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "An open 7- or 8-square row or column with accessible hook tiles and no blocking obstacles (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "A rack with all vowels (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)"
           ],
           "answerIndex": 2,
           "explanation": "A bingo runway is an unblocked line ready for a 7-letter word.",
@@ -5007,10 +5007,10 @@
         {
           "prompt": "How does playing an 'S' hook on an existing word affect board openness?",
           "options": [
-            "It halves the opponent's score. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "It creates a new perpendicular junction, opening up new columns or rows for plays. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "It locks the word permanently. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "It removes the word from the board. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))"
+            "It halves the opponent's score. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "It creates a new perpendicular junction, opening up new columns or rows for plays. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "It locks the word permanently. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "It removes the word from the board. (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)"
           ],
           "answerIndex": 1,
           "explanation": "S-hooks open new perpendicular axes.",
@@ -5019,10 +5019,10 @@
         {
           "prompt": "When should a player purposefully 'fish' (sacrifice score to hold bingo tiles) rather than take points?",
           "options": [
-            "When trailing by a large margin and holding 5-6 tiles of a powerhouse stem (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "Whenever holding the letter Q (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "When leading by 100 points (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))",
-            "On turn 1 only (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread (U5))"
+            "When trailing by a large margin and holding 5-6 tiles of a powerhouse stem (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "Whenever holding the letter Q (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "When leading by 100 points (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)",
+            "On turn 1 only (Evaluate board volatility and dynamically pivot between openboard offensive strategies and closedboard defensive strategies based on score spread)"
           ],
           "answerIndex": 0,
           "explanation": "Fishing is appropriate when needing a bingo comeback with a strong stem.",
@@ -5070,10 +5070,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Execute multi-word parallel plays and complex compound hooks that generate 30-50+ points with short, which tile play maximizes expected scoring value?",
           "options": [
-            "It is split in half. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "It is counted in full for BOTH the horizontal and vertical words (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "It is scored as 0. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "It is only counted once for the horizontal word. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))"
+            "It is split in half. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "It is counted in full for BOTH the horizontal and vertical words (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "It is scored as 0. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "It is only counted once for the horizontal word. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)"
           ],
           "answerIndex": 1,
           "explanation": "Intersection tiles count in both intersecting words."
@@ -5081,10 +5081,10 @@
         {
           "prompt": "Calculate the score of playing JO (J=8, O=1) parallel to AT, forming JO (9), JA (9), and OT (2):",
           "options": [
-            "20 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "18 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "22 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "11 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))"
+            "20 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "18 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "22 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "11 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)"
           ],
           "answerIndex": 0,
           "explanation": "JO(9) + JA(9) + OT(2) = 20 points."
@@ -5096,10 +5096,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 4: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "32 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "24 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "16 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "8 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))"
+            "32 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "24 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "16 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "8 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)"
           ],
           "answerIndex": 0,
           "explanation": "DLS doubles the X to 16 in both words: 16 + 16 = 32 points."
@@ -5107,10 +5107,10 @@
         {
           "prompt": "What is a 'front hook' in Scrabble?",
           "options": [
-            "A letter added to the beginning of an existing word to create a new valid word (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "A word played backwards (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "A tile played upside down (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "Exchanging a tile from the bag (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))"
+            "A letter added to the beginning of an existing word to create a new valid word (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "A word played backwards (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "A tile played upside down (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "Exchanging a tile from the bag (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)"
           ],
           "answerIndex": 0,
           "explanation": "A front hook adds a letter to the front of a word."
@@ -5122,10 +5122,10 @@
         {
           "prompt": "Which of the following 2-letter words containing power tiles are ALL valid in official tournament Scrabble (CSW/NWL)?",
           "options": [
-            "QA, ZI, JI, XU, XO, KA (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "QU, ZE, JA, XE, XA, KO (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "QI, ZA, JO, XI, XU, KA (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "QO, ZU, JE, XO, XY, KU (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))"
+            "QA, ZI, JI, XU, XO, KA (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "QU, ZE, JA, XE, XA, KO (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "QI, ZA, JO, XI, XU, KA (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "QO, ZU, JE, XO, XY, KU (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)"
           ],
           "answerIndex": 2,
           "explanation": "QI, ZA, JO, XI, XU, KA are all universally valid official 2-letter words.",
@@ -5134,10 +5134,10 @@
         {
           "prompt": "You play BY parallel to ON, forming BY (7), BO (4), and YN (invalid). Why does this play fail?",
           "options": [
-            "Because B cannot be played next to O. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
+            "Because B cannot be played next to O. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
             "Because every single 2-letter cross formed by a parallel play must be a valid English Scrabble word (YN is invalid)",
-            "Because BY is too short. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "Because Y is a vowel. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))"
+            "Because BY is too short. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "Because Y is a vowel. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)"
           ],
           "answerIndex": 1,
           "explanation": "All crosswords created must be valid; YN is not a valid word.",
@@ -5146,10 +5146,10 @@
         {
           "prompt": "Calculate the score for playing QI (Q=10 on DLS, I=1) parallel to AN, forming QI (21), QA (invalid) vs. QI (21), IN (2):",
           "options": [
-            "Valid parallel with I: QI (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "50 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "10 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "15 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))"
+            "Valid parallel with I: QI (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "50 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "10 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "15 points (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)"
           ],
           "answerIndex": 0,
           "explanation": "QI (20+1=21) + IN (1+1=2) = 23 points.",
@@ -5158,10 +5158,10 @@
         {
           "prompt": "Why are short parallel plays often superior to long low-scoring words in tournament Scrabble?",
           "options": [
-            "They let you skip the opponent's turn. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "They use more tiles. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "They are worth bonus points. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))",
-            "They yield high points-per-tile efficiency while keeping the board tight and preserving your rack leave. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short (U5))"
+            "They let you skip the opponent's turn. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "They use more tiles. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "They are worth bonus points. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)",
+            "They yield high points-per-tile efficiency while keeping the board tight and preserving your rack leave. (Execute multiword parallel plays and complex compound hooks that generate 3050 points with short)"
           ],
           "answerIndex": 3,
           "explanation": "High points-per-tile efficiency + tight board control.",
@@ -5209,10 +5209,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Pass an advanced board-control and positional strategy checkpoint integrating TWS defense, which tile play maximizes expected scoring value?",
           "options": [
-            "Immediate Turn Score + Rack Leave Value - Opponent Expected Reply Value (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Just the score on the current turn (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "The number of tiles left in the bag (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "The length of the word played (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))"
+            "Immediate Turn Score + Rack Leave Value - Opponent Expected Reply Value (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Just the score on the current turn (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "The number of tiles left in the bag (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "The length of the word played (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)"
           ],
           "answerIndex": 0,
           "explanation": "Move Equity = Score + Leave - Opponent Reply."
@@ -5220,10 +5220,10 @@
         {
           "prompt": "Why is keeping the leave 'RETIN' considered the highest-equity 5-tile combination in Scrabble?",
           "options": [
-            "Because it hooks with almost every single letter in the alphabet to form valid 7-letter bingos (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Because all its tiles are worth 10 points. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Because it is an acronym for rules. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Because it contains 5 vowels. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))"
+            "Because it hooks with almost every single letter in the alphabet to form valid 7-letter bingos (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Because all its tiles are worth 10 points. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Because it is an acronym for rules. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Because it contains 5 vowels. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)"
           ],
           "answerIndex": 0,
           "explanation": "RETIN- has the highest bingo completion percentage in the English language."
@@ -5235,10 +5235,10 @@
         {
           "prompt": "In tournament Scrabble strategy for Unit 5, Lesson 5: Foundational & Structural Mastery, which play optimizes scoring and rack balance?",
           "options": [
-            "34 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "23 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "12 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "17 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))"
+            "34 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "23 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "12 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "17 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)"
           ],
           "answerIndex": 1,
           "explanation": "EX on DLS = 16+1=17, plus vertical crosswords = 23 points."
@@ -5246,10 +5246,10 @@
         {
           "prompt": "What should you do if an opponent is trailing by 100 points and opens wide runways across the top and bottom of the board?",
           "options": [
-            "Pass your turn. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Close those runways with tight, short parallel blocker plays to deny their bingo comeback. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Exchange all your vowels. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Open even more runways for them. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))"
+            "Pass your turn. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Close those runways with tight, short parallel blocker plays to deny their bingo comeback. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Exchange all your vowels. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Open even more runways for them. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)"
           ],
           "answerIndex": 1,
           "explanation": "Block the runways to preserve your lead."
@@ -5261,10 +5261,10 @@
         {
           "prompt": "Which combination of factors represents the highest quality Scrabble turn?",
           "options": [
-            "Dumping all 7 tiles regardless of score or leave (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "High turn score (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Playing a 5-point word that opens an open TWS to the opponent (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Exchanging tiles every other turn (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))"
+            "Dumping all 7 tiles regardless of score or leave (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "High turn score (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Playing a 5-point word that opens an open TWS to the opponent (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Exchanging tiles every other turn (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)"
           ],
           "answerIndex": 1,
           "explanation": "Balanced score, leave equity, and defensive board safety.",
@@ -5273,10 +5273,10 @@
         {
           "prompt": "What is the score of playing AX (A=1, X=8 on TLS) parallel to DO, forming AX (25), AD (2), and XO (invalid) vs. AX (25), AD (2), and OX (9)?",
           "options": [
-            "36 points: AX (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "25 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "18 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "42 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))"
+            "36 points: AX (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "25 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "18 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "42 points (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)"
           ],
           "answerIndex": 0,
           "explanation": "AX(25) + AD(2) + OX(9) = 36 points.",
@@ -5285,9 +5285,9 @@
         {
           "prompt": "What core strategic and tactical competencies were mastered across Unit 5 in Scrabble Strategy?",
           "options": [
-            "Alphabetical dictionary sorting only (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Tile manufacturing processes only (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Chess openings only (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
+            "Alphabetical dictionary sorting only (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Tile manufacturing processes only (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Chess openings only (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
             "Triple Word Score attack and defense, power tile cross-multiplication, score-spread volatility management (open vs. closed board)"
           ],
           "answerIndex": 3,
@@ -5297,10 +5297,10 @@
         {
           "prompt": "Why is the blank tile considered the most valuable single tile in the entire game (worth an estimated +25 to +30 equity points on a rack)?",
           "options": [
-            "Because it scores 100 points. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Because it cancels the opponent's score. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Because it guarantees bingo flexibility and can represent any letter needed to complete 50-point bonus plays on premium squares. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))",
-            "Because it can be traded for two tiles. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense (U5))"
+            "Because it scores 100 points. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Because it cancels the opponent's score. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Because it guarantees bingo flexibility and can represent any letter needed to complete 50-point bonus plays on premium squares. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)",
+            "Because it can be traded for two tiles. (Pass an advanced boardcontrol and positional strategy checkpoint integrating TWS defense)"
           ],
           "answerIndex": 2,
           "explanation": "Blank tile provides unmatched wildcard bingo flexibility.",

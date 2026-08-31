@@ -490,10 +490,10 @@
         {
           "prompt": "How is the Cyrillic letter «Н» (False Friend) pronounced in Russian words like «НОС» (nos)?",
           "options": [
-            "Like the English letter (Master the 11 foundational Cyrillic letters U1)",
-            "Like the English letter (Master the 11 foundational Cyrillic letters U1) [Option 2]",
-            "Like the English letter (Master the 11 foundational Cyrillic letters U1) [Option 3]",
-            "Like the English letter (Master the 11 foundational Cyrillic letters U1) [Option 4]"
+            "Like the English letter 'V' (Cyrillic В sound)",
+            "Like the English letter 'B' (Cyrillic Б sound)",
+            "Like the English letter 'R' (Cyrillic Р sound)",
+            "Like the English letter 'P' (Cyrillic П sound)"
           ],
           "answerIndex": 0,
           "explanation": "Cyrillic «Н» represents the alveolar nasal consonant [n]."
@@ -517,9 +517,9 @@
           "prompt": "Which Cyrillic letter looks like the Latin \"P\" but is pronounced as a rolled [r] sound?",
           "options": [
             "Р (Er - rolling r sound)",
-            "В (Master the 11 foundational Cyrillic letters - Unit 1 Target Practice)",
-            "Н (Master the 11 foundational Cyrillic letters - Unit 1 Target Practice)",
-            "С (Master the 11 foundational Cyrillic letters - Unit 1 Target Practice)"
+            "В (Master the 11 foundational Cyrillic letters alternative form)",
+            "Н (Master the 11 foundational Cyrillic letters alternative form)",
+            "С (Master the 11 foundational Cyrillic letters alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Cyrillic «Р» corresponds to the rolled [r] sound."
@@ -634,9 +634,9 @@
           "prompt": "Which Cyrillic consonant looks like a beetle with six legs and makes the voiced sound [zh] (as in \"measure\")?",
           "options": [
             "Ж (zhe zh)",
-            "Д (Master new Cyrillic consonants - Unit 1 Target Practice)",
-            "Б (Master new Cyrillic consonants - Unit 1 Target Practice)",
-            "Г (Master new Cyrillic consonants - Unit 1 Target Practice)"
+            "Д (Master new Cyrillic consonants alternative form)",
+            "Б (Master new Cyrillic consonants alternative form)",
+            "Г (Master new Cyrillic consonants alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Ж» represents the voiced post-alveolar fricative [zh]."
@@ -736,8 +736,8 @@
           "prompt": "Which 1-letter Cyrillic word means \"I\" (first-person pronoun)?",
           "options": [
             "Я (ya - first person pronoun I)",
-            "ОН (Master remaining vowels - Unit 1 Target Practice)",
-            "МЫ (Master remaining vowels - Unit 1 Target Practice)",
+            "ОН (Master remaining vowels alternative form)",
+            "МЫ (Master remaining vowels alternative form)",
             "ТЫ (informal)"
           ],
           "answerIndex": 0,
@@ -780,7 +780,7 @@
             "МЫ (my - first person plural pronoun we)",
             "ВЫ (vy - you formal/plural)",
             "ОНИ (oni - they)",
-            "ОН (Master remaining vowels - Unit 1 Target Practice)"
+            "ОН (Master remaining vowels alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«МЫ» (*my*) means \"we\"."
@@ -1295,7 +1295,7 @@
           "type": "multiple-choice",
           "prompt": "Какая тройка форм времени построена абсолютно грамматически верно?",
           "options": [
-            "Один час, два часа, пять часов (Language concept U2)",
+            "Один час, два часа, пять часов (Core concept alternative form)",
             "Один часов, два час, пять часа (Odin chasov, dva chas, pyat' chasa)",
             "Один часа, два часов, пять час (Odin chasa, dva chasov, pyat' chas)"
           ],
@@ -1374,9 +1374,9 @@
         {
           "prompt": "Какой предлог используется со словом «вторник» для удобства произношения перед группой согласных?",
           "options": [
-            "во (7 - Unit 2 Target Practice)",
-            "в (7 - Unit 2 Target Practice)",
-            "на (7 - Unit 2 Target Practice)"
+            "во (7 key phrasing)",
+            "в (7 key phrasing)",
+            "на (7 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Перед сочетанием согласных [вт] предлог «в» превращается в «во»: «во вторник»."
@@ -1859,9 +1859,9 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте пара «утверждение — отрицание» построена грамматически безупречно?",
           "options": [
-            "У меня есть билет. ↔ У меня нет билета. ↔ нет билета U menya est' bilet. ↔ U menya net bileta. ↔ net bileta (Language concept U3)",
-            "У меня есть билет. ↔ У меня нет билет. (Language concept U3)",
-            "У меня есть билета. ↔ У меня нет билету. (Language concept U3)"
+            "У меня есть билет. ↔ У меня нет билета. ↔ нет билета U menya est' bilet. ↔ U menya net bileta. ↔ net bileta (Core concept alternative form)",
+            "У меня есть билет. ↔ У меня нет билет. (Core concept alternative form)",
+            "У меня есть билета. ↔ У меня нет билету. (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Есть билет (именительный падеж) ↔ нет билета (родительный падеж)."
@@ -2492,9 +2492,9 @@
         {
           "prompt": "Какой постфикс возвратности (-ся или -сь) пишется после гласной в форме 1-го лица «я просыпаю...»?",
           "options": [
-            "-сь (Core target concept - Unit 5 Target Practice)",
+            "-сь (Core concept key phrasing)",
             "-ся (-sya)",
-            "-ть (Core target concept - Unit 5 Target Practice)"
+            "-ть (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "После гласных букв в возвратных глаголах пишется постфикс -сь: «я просыпаюсь»."
@@ -3910,9 +3910,9 @@
         {
           "prompt": "Какое окончание предложного падежа имеет существительное женского рода «Россия» в вопросе «где?» (в Росси...):",
           "options": [
-            "-и (Core target concept - Unit 8 Target Practice)",
-            "-е (Core target concept - Unit 8 Target Practice)",
-            "-у (Core target concept - Unit 8 Target Practice)"
+            "-и (Core concept key phrasing)",
+            "-е (Core concept alternative form)",
+            "-у (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Существительные женского рода на «-ия» (Россия, станция, аудитория) в предложном падеже имеют окончание «-ии»."
@@ -4386,7 +4386,7 @@
           "options": [
             "-яя (-yaya)",
             "-ая (-aya)",
-            "-ое (Core target concept - Unit 9 Target Practice)"
+            "-ое (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Прилагательные мягкой основы в женском роде имеют окончание «-яя» (синяя, летняя, зимняя)."
@@ -4854,7 +4854,7 @@
         {
           "prompt": "Какую форму множественного числа имеет существительное «глаз» (eyes)?",
           "options": [
-            "глаза́ (Language concept U10)",
+            "глаза́ (Core concept key phrasing)",
             "глазы (glazy)",
             "глази (glazi)"
           ],
@@ -5136,7 +5136,7 @@
         {
           "prompt": "Как переводится на русский язык указание «Take after meals»?",
           "options": [
-            "принимать после еды предлог «после» + род. п. — стандартное медиц prinimat' posle edy predlog «posle» + rod. p. — standartnoe medits (Language concept U10)",
+            "принимать после еды предлог «после» + род. п. — стандартное медиц prinimat' posle edy predlog «posle» + rod. p. — standartnoe medits (Core concept alternative form)",
             "принимать до еды (prinimat' do edy)",
             "принимать вместо еды (prinimat' vmesto edy)"
           ],
@@ -7318,7 +7318,7 @@
         {
           "prompt": "Как сказать «The tour began two days ago»?",
           "options": [
-            "Экскурсия началась два дня назад. (Language concept U15)",
+            "Экскурсия началась два дня назад. (Core concept alternative form)",
             "Экскурсия началась через два дня. (Ekskursiya nachalas' cherez dva dnya.)",
             "Экскурсия началась на два дня. (Ekskursiya nachalas' na dva dnya.)"
           ],
@@ -8610,7 +8610,7 @@
         {
           "prompt": "Какой глагол выражает достигнутый конкретный результат в предложении «Студент ... экзамен на отлично»?",
           "options": [
-            "сдал (Language concept U18)",
+            "сдал (Core concept alternative form)",
             "сдавал (NSV)",
             "сдаёт (NSV)"
           ],
@@ -8640,7 +8640,7 @@
           "prompt": "В каком предложении виды глаголов употреблены в соответствии с логикой процесса и результата?",
           "options": [
             "Архитектор три месяца чертил проект (NSV)",
-            "Архитектор три месяца начертил проект (Language concept U18)",
+            "Архитектор три месяца начертил проект (Core concept alternative form)",
             "Архитектор вдруг чертил проект три месяца без результата. (Osvoit' semanticheskie razlichiya vidov glagola)"
           ],
           "answerIndex": 0,
@@ -8704,7 +8704,7 @@
         {
           "prompt": "Какая форма несовершенного вида (НСВ) образуется от глагола «переписать»?",
           "options": [
-            "переписывать (Language concept U18)",
+            "переписывать (Core concept key phrasing)",
             "переписавать (perepisavat')",
             "дописывать (dopisyvat')"
           ],
@@ -8799,7 +8799,7 @@
           "prompt": "Какой вид инфинитива можно использовать после фазового глагола «начал» в фразе «Он начал ...»?",
           "options": [
             "читать (NSV)",
-            "прочитать (Language concept U18)",
+            "прочитать (Core concept alternative form)",
             "прочитал (prosh. vr.)"
           ],
           "answerIndex": 0,
@@ -8891,7 +8891,7 @@
           "prompt": "Какая комбинация видов описывает прерывание длительного процесса точечным событием?",
           "options": [
             "Когда я шёл НСВ по парку, пошёл СВ сильный дождь. + «пош Kogda ya shyol NSV po parku, poshyol SV sil'nyy dozhd'. + «posh (NSV)",
-            "Когда я пришёл (Language concept U18)",
+            "Когда я пришёл (Core concept alternative form)",
             "Когда я шёл (NSV)"
           ],
           "answerIndex": 0,
@@ -8904,8 +8904,8 @@
         {
           "prompt": "Как выразить последовательность трёх быстрых завершённых действий в прошлом?",
           "options": [
-            "Он вошёл в комнату, включил свет и сел за рабочий стол (Language concept U18)",
-            "Он входил в комнату, включал свет и садился за рабочий стол (Language concept U18)",
+            "Он вошёл в комнату, включил свет и сел за рабочий стол (Core concept alternative form)",
+            "Он входил в комнату, включал свет и садился за рабочий стол (Core concept alternative form)",
             "Он входил в комнату, включил свет и сидел за столом. (On vkhodil v komnatu, vklyuchil svet i sidel za stolom.)"
           ],
           "answerIndex": 0,
@@ -8997,7 +8997,7 @@
           "prompt": "Как грамматически корректно описать длительные регулярные обязанности на прошлой работе?",
           "options": [
             "Я два года анализировал рынок и готовил еженедельные отчёты (NSV)",
-            "Я два года проанализировал рынок и подготовил еженедельные отчёты (vs (U18))",
+            "Я два года проанализировал рынок и подготовил еженедельные отчёты (vs alternative form)",
             "Я два года начать анализировать рынок. (Ya dva goda nachat' analizirovat' rynok.)"
           ],
           "answerIndex": 0,
@@ -9012,7 +9012,7 @@
           "prompt": "В каком ответе на собеседовании виды глаголов разграничивают процесс обязанностей и результат достижений безупречно?",
           "options": [
             "— На прошлом месте я координировал НСВ работу команды, а за последний год разработал СВ и успешно запустил СВ три крупных проекта. + — Na proshlom meste ya koordiniroval NSV rabotu komandy, a za posledniy god razrabotal SV i uspeshno zapustil SV tri krupnykh proekta. (NSV)",
-            "— На прошлом месте я скоординировал (vs (U18))",
+            "— На прошлом месте я скоординировал (vs alternative form)",
             "— Я начал разработать проекты и закончил запустить их в срок. (— Ya nachal razrabotat' proekty i zakonchil zapustit' ikh v srok.)"
           ],
           "answerIndex": 0,
@@ -9074,9 +9074,9 @@
         {
           "prompt": "Какую приставку нужно добавить к глаголу движения, чтобы выразить действие «движение внутрь здания»?",
           "options": [
-            "в- / во- (Core target concept - Unit 19 Target Practice)",
-            "вы- (Core target concept - Unit 19 Target Practice)",
-            "у- (Core target concept - Unit 19 Target Practice)"
+            "в- / во- (Core concept key phrasing)",
+            "вы- (Core concept alternative form)",
+            "у- (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Приставка «в- / во-» указывает на направление движения внутрь замкнутого пространства (войти в здание)."
@@ -9088,9 +9088,9 @@
         {
           "prompt": "Какой предлог и падеж используются с глаголом «приехать» при указании города назначения?",
           "options": [
-            "в + винительный падеж (Language concept U19)",
-            "из + родительный падеж (Language concept U19)",
-            "до + родительный падеж (Language concept U19)"
+            "в + винительный падеж (Core concept alternative form)",
+            "из + родительный падеж (Core concept alternative form)",
+            "до + родительный падеж (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "С глаголом «приехать» направление прибытия в город выражается предлогом «в» с винительным падежом."
@@ -9182,9 +9182,9 @@
         {
           "prompt": "С каким предлогом употребляется глагол «доехать» для обозначения конечной точки маршрута?",
           "options": [
-            "до + родительный падеж (Language concept U19)",
-            "к + дательный падеж (Language concept U19)",
-            "у + родительный падеж (Language concept U19)"
+            "до + родительный падеж (Core concept alternative form)",
+            "к + дательный падеж (Core concept alternative form)",
+            "у + родительный падеж (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол с приставкой «до-» требует предлога «до» с родительным падежом (доехать до вокзала)."
@@ -9260,9 +9260,9 @@
         {
           "prompt": "С каким предлогом и падежом употребляется глагол «подойти» в значении приближения к человеку?",
           "options": [
-            "к + дательный падеж (Language concept U19)",
-            "в + винительный падеж (Language concept U19)",
-            "от + родительный падеж (Language concept U19)"
+            "к + дательный падеж (Core concept alternative form)",
+            "в + винительный падеж (Core concept alternative form)",
+            "от + родительный падеж (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол «подойти» требует предлога «к» с дательным падежом (подойти к преподавателю)."
@@ -9446,9 +9446,9 @@
         {
           "prompt": "Какая последовательность глаголов правильно описывает маршрут: «выход из метро, пересечение площади и вход в театр»?",
           "options": [
-            "выйти из метро → перейти площадь → войти в театр → «перейти через/площадь» vyyti iz metro → pereyti ploshchad' → voyti v teatr → «pereyti cherez/ploshchad'» (Language concept U19)",
-            "войти из метро → уйти площадь → выйти в театр (Language concept U19)",
-            "дойти в метро → зайти площадь → отойти в театр (Language concept U19)"
+            "выйти из метро → перейти площадь → войти в театр → «перейти через/площадь» vyyti iz metro → pereyti ploshchad' → voyti v teatr → «pereyti cherez/ploshchad'» (Core concept alternative form)",
+            "войти из метро → уйти площадь → выйти в театр (Core concept alternative form)",
+            "дойти в метро → зайти площадь → отойти в театр (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Выйти из» (наружу) → «перейти через/площадь» (пересечь) → «войти в» (внутрь)."
@@ -9552,7 +9552,7 @@
         {
           "prompt": "Какая форма глагола требуется в главной части нереального условия после союза «то»?",
           "options": [
-            "форма прошедшего времени с частицей «бы» (Language concept U20)",
+            "форма прошедшего времени с частицей «бы» (Core concept alternative form)",
             "форма будущего времени без частиц (forma budushchego vremeni bez chastits)",
             "форма настоящего времени (forma nastoyashchego vremeni)"
           ],
@@ -10368,7 +10368,7 @@
         {
           "prompt": "Где нужны запятые в предложении «Книга (1) прочитанная мною летом (2) произвела сильное впечатление»?",
           "options": [
-            "на месте  и  — причастный оборот стоит после определяемого существительного (Core target concept - Unit 21 Target Practice)",
+            "на месте  и  — причастный оборот стоит после определяемого существительного (Core concept alternative form)",
             "только на месте (tol'ko na meste)",
             "запятые не нужны (zapyatye ne nuzhny)"
           ],
@@ -10383,8 +10383,8 @@
           "prompt": "Нужны ли запятые, если причастный оборот стоит перед определяемым существительным: «Написанная профессором статья была опубликована»?",
           "options": [
             "нет, перед определяемым существительным причастный оборот не обособляется (net, pered opredelyaemym sushchestvitel'nym prichastnyy oborot ne obosoblyaetsya)",
-            "да, после слова «статья» (Language concept U21)",
-            "да, после слова «профессором» (Language concept U21)"
+            "да, после слова «статья» (Core concept alternative form)",
+            "да, после слова «профессором» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Перед определяемым существительным обособление не требуется («Написанная профессором статья была...»)."
@@ -10738,7 +10738,7 @@
           "options": [
             "нет, одиночное деепричастие в роли наречия образа действия не обособляется (net, odinochnoe deeprichastie v roli narechiya obraza deystviya ne obosoblyaetsya)",
             "да, деепричастия всегда обособляются (da, deeprichastiya vsegda obosoblyayutsya)",
-            "да, после слова «Они» (Language concept U22)"
+            "да, после слова «Они» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «молча» стоит в конце предложения и выполняет функцию наречия образа действия (как? молча), поэтому запятая не ставится."
@@ -10750,9 +10750,9 @@
         {
           "prompt": "Какой предложный оборот требует обязательного обособления запятыми независимо от места в предложении?",
           "options": [
-            "оборот с уступительным предлогом «несмотря на» (Language concept U22)",
-            "оборот с предлогом «вследствие» (Language concept U22)",
-            "оборот с предлогом «в течение» (Language concept U22)"
+            "оборот с уступительным предлогом «несмотря на» (Core concept alternative form)",
+            "оборот с предлогом «вследствие» (Core concept alternative form)",
+            "оборот с предлогом «в течение» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Оборот с производным уступительным предлогом «несмотря на (+ вин. пад.)» всегда обособляется запятыми."
@@ -10828,9 +10828,9 @@
         {
           "prompt": "Какая комбинация деепричастий гармонично передает завершённый подготовительный этап и сопутствующий процесс: «(1) все документы и (2) за реакцией аудитории, спикер начал доклад»?",
           "options": [
-            "Подготовив ,  наблюдая  и (Core target concept - Unit 22 Target Practice)",
-            "Готовя ,  понаблюдав (Core target concept - Unit 22 Target Practice)",
-            "Подготовивший ,  наблюдать (Core target concept - Unit 22 Target Practice)"
+            "Подготовив ,  наблюдая  и (Core concept alternative form)",
+            "Готовя ,  понаблюдав (Core concept alternative form)",
+            "Подготовивший ,  наблюдать (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Подготовив документы (СВ — сделал заранее) и наблюдая за аудиторией (НСВ — параллельный процесс), спикер начал доклад»."
@@ -11486,7 +11486,7 @@
         {
           "prompt": "Как корректно оформить отсылку к предыдущему письму контрагента?",
           "options": [
-            "№  соо (Core target concept - Unit 24 Target Practice)",
+            "№  соо (Core concept alternative form)",
             "Мы прочитали то, что вы нам прислали на прошлой неделе (My prochitali to, chto vy nam prislali na proshloy nedele:)",
             "По поводу вашего старого письма хотим сказать (Po povodu vashego starogo pis'ma khotim skazat':)"
           ],
@@ -11501,7 +11501,7 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте заключительная часть делового письма оформлена безупречно?",
           "options": [
-            "Заранее благодарим за сотрудничество. С уважением, исполнительный директор ООО «Спектр» Соколов Д. А. (Language concept U24)",
+            "Заранее благодарим за сотрудничество. С уважением, исполнительный директор ООО «Спектр» Соколов Д. А. (Core concept alternative form)",
             "Ну всё, пока, ждём ответа как можно быстрее, директор Дима. (Nu vsyo, poka, zhdyom otveta kak mozhno bystree, direktor Dima.)",
             "Всего хорошего, надеемся на ответ когда-нибудь. (Vsego khoroshego, nadeemsya na otvet kogda-nibud'.)"
           ],
@@ -12054,9 +12054,9 @@
           "type": "multiple-choice",
           "prompt": "В каком из романов Достоевского главный герой проверяет бесчеловечную теорию деления людей на «тварей дрожащих» и «право имеющих»?",
           "options": [
-            "«Преступление и наказание» (Language concept U25)",
-            "«Идиот» (Language concept U25)",
-            "«Подросток» (Language concept U25)"
+            "«Преступление и наказание» (Core concept key phrasing)",
+            "«Идиот» (Core concept alternative form)",
+            "«Подросток» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Идею о проверке собственной силы через преступление выдвигает Родион Раскольников в романе «Преступление и наказание»."
@@ -12331,9 +12331,9 @@
           "type": "multiple-choice",
           "prompt": "Как называется главный фундаментальный этический труд Владимира Соловьёва?",
           "options": [
-            "«Оправдание добра» — классичес «Opravdanie dobra» — klassiches (Language concept U26)",
-            "«Критика чистого разума» (Language concept U26)",
-            "«Этика ненасилия» (Language concept U26)"
+            "«Оправдание добра» — классичес «Opravdanie dobra» — klassiches (Core concept alternative form)",
+            "«Критика чистого разума» (Core concept alternative form)",
+            "«Этика ненасилия» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Трактат «Оправдание добра» (1897) — классический труд русской этической мысли."
@@ -12487,8 +12487,8 @@
           "prompt": "Какая антиномия лежит в основе главного итогового философского труда Льва Шестова?",
           "options": [
             "«Афины и Иерусалим» разум против веры — фундаментальный «Afiny i Ierusalim» razum protiv very — fundamental'nyy (razum protiv very)",
-            "«Война и мир» (Language concept U26)",
-            "«Отцы и дети» (Language concept U26)"
+            "«Война и мир» (Core concept alternative form)",
+            "«Отцы и дети» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Афины и Иерусалим» (1938) — фундаментальный труд Шестова о конфликте философского разума и религиозной веры."
@@ -12500,9 +12500,9 @@
         {
           "prompt": "Как называется программная книга Шестова 1905 года, провозгласившая отказ от академических догм и систем?",
           "options": [
-            "«Апофеоз беспочвенности» (Language concept U26)",
-            "«Столп и утверждение Истины» (Language concept U26)",
-            "«Критика практического разума» (Language concept U26)"
+            "«Апофеоз беспочвенности» (Core concept alternative form)",
+            "«Столп и утверждение Истины» (Core concept alternative form)",
+            "«Критика практического разума» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Апофеоз беспочвенности (опыт адогматического мышления)» — манифест экзистенциального релятивизма Шестова."
@@ -12607,9 +12607,9 @@
           "type": "multiple-choice",
           "prompt": "Как называется главный богословско-философский труд отца Павла Флоренского (1914)?",
           "options": [
-            "«Столп и утверждение Истины» (Language concept U26)",
-            "«Смысл истории» (Language concept U26)",
-            "«Свет невечерний» (Language concept U26)"
+            "«Столп и утверждение Истины» (Core concept alternative form)",
+            "«Смысл истории» (Core concept alternative form)",
+            "«Свет невечерний» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Столп и утверждение Истины. Опыт православной теодицеи в двенадцати письмах» — главный труд П. А. Флоренского."
@@ -12684,9 +12684,9 @@
         {
           "prompt": "Какой знаменитый сборник статей 1909 года подверг критике правовой нигилизм и максимализм русской интеллигенции?",
           "options": [
-            "«Вехи» (Language concept U26)",
-            "«Колокол» (Language concept U26)",
-            "«Полярная звезда» (Language concept U26)"
+            "«Вехи» (Core concept alternative form)",
+            "«Колокол» (Core concept alternative form)",
+            "«Полярная звезда» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Сборник «Вехи. Сборник статей о русской интеллигенции» (1909) вызвал огромный общественный резонанс."
@@ -12792,9 +12792,9 @@
           "type": "multiple-choice",
           "prompt": "В какую оперу Александра Бородина входит знаменитый шедевр симфонической музыки «Половецкие пляски»?",
           "options": [
-            "«Князь Игорь» (Language concept U27)",
-            "«Пиковая дама» (Language concept U27)",
-            "«Снегурочка» (Language concept U27)"
+            "«Князь Игорь» (Core concept key phrasing)",
+            "«Пиковая дама» (Core concept alternative form)",
+            "«Снегурочка» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Половецкие пляски» являются кульминационным актом оперы А. П. Бородина «Князь Игорь»."
@@ -12855,9 +12855,9 @@
         {
           "prompt": "Какой балет П. И. Чайковского традиционно исполняется в театрах мира во время новогодних и рождественских праздников?",
           "options": [
-            "«Щелкунчик» — всемирно любимая н «Shchelkunchik» — vsemirno lyubimaya n (Language concept U27)",
-            "«Жизель» (Language concept U27)",
-            "«Петрушка» (Language concept U27)"
+            "«Щелкунчик» — всемирно любимая н «Shchelkunchik» — vsemirno lyubimaya n (Core concept alternative form)",
+            "«Жизель» (Core concept alternative form)",
+            "«Петрушка» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Балет «Щелкунчик» (1892) — всемирно любимая новогодняя классика на сюжет сказки Гофмана."
@@ -12869,9 +12869,9 @@
         {
           "prompt": "Как называется последняя, Шестая симфония Чайковского, завершающаяся трагическим затихающим Adagio lamentoso?",
           "options": [
-            "«Патетическая» си минор — и «Pateticheskaya» si minor — i (Language concept U27)",
-            "«Героическая» (Language concept U27)",
-            "«Фантастическая» (Language concept U27)"
+            "«Патетическая» си минор — и «Pateticheskaya» si minor — i (Core concept alternative form)",
+            "«Героическая» (Core concept alternative form)",
+            "«Фантастическая» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Шестая симфония («Патетическая») си минор — итоговое завещание композитора, исполненное за 9 дней до его кончины."
@@ -12884,9 +12884,9 @@
           "type": "multiple-choice",
           "prompt": "В какой опере Чайковского звучит знаменитая сцена письма Татьяны и ария Ленского «Куда, куда вы удалились...»?",
           "options": [
-            "«Евгений Онегин» (Language concept U27)",
-            "«Мазепа» (Language concept U27)",
-            "«Иоланта» (Language concept U27)"
+            "«Евгений Онегин» (Core concept key phrasing)",
+            "«Мазепа» (Core concept alternative form)",
+            "«Иоланта» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Сцена письма Татьяны и преддуэльная ария Ленского входят в шедевр Чайковского «Евгений Онегин»."
@@ -12961,9 +12961,9 @@
         {
           "prompt": "Какое хоровое духовное произведение Рахманинова, написанное в годы Первой мировой войны, считается вершиной православной хоровой музыки?",
           "options": [
-            "«Всенощное бдение» ор. 37 — монументал ор. 37 — монументальный ... «Vsenoshchnoe bdenie» or. 37 — monumental or. 37 — monumental'nyy ... (Language concept U27)",
-            "«Реквием» (Language concept U27)",
-            "«Страсти по Матфею» (Language concept U27)"
+            "«Всенощное бдение» ор. 37 — монументал ор. 37 — монументальный ... «Vsenoshchnoe bdenie» or. 37 — monumental or. 37 — monumental'nyy ... (Core concept alternative form)",
+            "«Реквием» (Core concept alternative form)",
+            "«Страсти по Матфею» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Всенощное бдение» (1915) ор. 37 — монументальный шедевр Рахманинова для хора a cappella."
@@ -12976,9 +12976,9 @@
           "type": "multiple-choice",
           "prompt": "Как называется последнее крупное произведение Сергея Рахманинова, написанное в США в 1940 году?",
           "options": [
-            "«Симфонические танцы» (Language concept U27)",
-            "«Весна священная» (Language concept U27)",
-            "«Половецкие пляски» (Language concept U27)"
+            "«Симфонические танцы» (Core concept key phrasing)",
+            "«Весна священная» (Core concept alternative form)",
+            "«Половецкие пляски» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Оркестровая сюита «Симфонические танцы» (1940) — лебединая песня великого композитора."
@@ -13056,9 +13056,9 @@
         {
           "prompt": "Премьера какого авангардного балета Игоря Стравинского в 1913 году в Париже завершилась исторической дракой зрителей в зале?",
           "options": [
-            "«Весна священная» с «Vesna svyashchennaya» s (Language concept U27)",
-            "«Лебединое озеро» (Language concept U27)",
-            "«Спящая красавица» (Language concept U27)"
+            "«Весна священная» с «Vesna svyashchennaya» s (Core concept alternative form)",
+            "«Лебединое озеро» (Core concept alternative form)",
+            "«Спящая красавица» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Премьера «Весны священной» (29 мая 1913 г.) с хореографией В. Нижинского вызвала знаменитый скандал из-за радикального музыкального языка."
@@ -13227,8 +13227,8 @@
           "prompt": "Как называлось объединение художников-реалистов второй половины XIX века, устраивавших выставки по городам России?",
           "options": [
             "Товарищество передвижных художественных выставок (Tovarishchestvo peredvizhnykh khudozhestvennykh vystavok)",
-            "«Бубновый валет» (Language concept U28)",
-            "«Мир искусства» (Language concept U28)"
+            "«Бубновый валет» (Core concept alternative form)",
+            "«Мир искусства» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Товарищество передвижных художественных выставок (передвижники) определяло развитие русского реалистического искусства с 1870 года."
@@ -13255,9 +13255,9 @@
           "type": "multiple-choice",
           "prompt": "Какая знаменитая картина Ильи Репина изображает изнемогающих от непосильного труда людей, тянущих барку вдоль речного берега?",
           "options": [
-            "«Бурлаки на Волге» принес «Burlaki na Volge» prines (Language concept U28)",
-            "«Не ждали» (Language concept U28)",
-            "«Крестный ход в Курской губернии» (Language concept U28)"
+            "«Бурлаки на Волге» принес «Burlaki na Volge» prines (Core concept alternative form)",
+            "«Не ждали» (Core concept alternative form)",
+            "«Крестный ход в Курской губернии» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Картина «Бурлаки на Волге» (1870–1873) принесла Илье Репину европейскую славу."
@@ -13318,9 +13318,9 @@
         {
           "prompt": "Как называется фундаментальный трактат Василия Кандинского 1911 года, обосновавший принципы абстрактной живописи?",
           "options": [
-            "«О духовном в искусстве» (Language concept U28)",
-            "«Эстетика прекрасного» (Language concept U28)",
-            "«Черный квадрат» (Language concept U28)"
+            "«О духовном в искусстве» (Core concept key phrasing)",
+            "«Эстетика прекрасного» (Core concept alternative form)",
+            "«Черный квадрат» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Трактат «О духовном в искусстве» (Über das Geistige in der Kunst) стал манифестом беспредметного искусства XX века."
@@ -13424,9 +13424,9 @@
         {
           "prompt": "На какой знаменитой петроградской выставке 1915 года впервые был показан «Чёрный квадрат» в «красном углу» зала?",
           "options": [
-            "Последняя футуристическая выставка картин «0,10» в Петрограде Poslednyaya futuristicheskaya vystavka kartin «0,10» v Petrograde (Language concept U28)",
+            "Последняя футуристическая выставка картин «0,10» в Петрограде Poslednyaya futuristicheskaya vystavka kartin «0,10» v Petrograde (Core concept alternative form)",
             "Выставка передвижников (Vystavka peredvizhnikov)",
-            "«Ослиный хвост» (Language concept U28)"
+            "«Ослиный хвост» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "На выставке «0,10» (ноль-десять) в Петрограде состоялся исторический дебют супрематизма Малевича."
@@ -13700,9 +13700,9 @@
         {
           "prompt": "Какой шедевр немого документального кино снял Дзига Вертов в 1929 году, показав жизнь города через призму объектива?",
           "options": [
-            "«Человек с киноаппаратом» — вершина до «Chelovek s kinoapparatom» — vershina do (Language concept U29)",
-            "«Прибытие поезда» (Language concept U29)",
-            "«Земля» (Language concept U29)"
+            "«Человек с киноаппаратом» — вершина до «Chelovek s kinoapparatom» — vershina do (Core concept alternative form)",
+            "«Прибытие поезда» (Core concept alternative form)",
+            "«Земля» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Человек с киноаппаратом» (1929) — вершина документального киноавангарда Дзиги Вертова."
@@ -13778,9 +13778,9 @@
         {
           "prompt": "Как Андрей Тарковский озаглавил свою знаменитую теоретическую книгу об эстетике и природе кинематографа?",
           "options": [
-            "«Запечатленное время» (Language concept U29)",
-            "«Монтаж аттракционов» (Language concept U29)",
-            "«Киноглаз» (Language concept U29)"
+            "«Запечатленное время» (Core concept key phrasing)",
+            "«Монтаж аттракционов» (Core concept alternative form)",
+            "«Киноглаз» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Книга «Запечатленное время» (Sculpting in Time, 1986) формулирует творческое кредо Тарковского о фиксации времени в кадре."
@@ -13792,9 +13792,9 @@
         {
           "prompt": "В каком философском фильме Тарковского 1979 года герои совершают опасный путь в загадочную Зону к «комнате желаний»?",
           "options": [
-            "«Сталкер» (Language concept U29)",
-            "«Солярис» (Language concept U29)",
-            "«Иваново детство» (Language concept U29)"
+            "«Сталкер» (Core concept key phrasing)",
+            "«Солярис» (Core concept alternative form)",
+            "«Иваново детство» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Фильм «Сталкер» (по мотивам повести братьев Стругацких «Пикник на обочине») исследует сокровенные глубины человеческой души."
@@ -13870,9 +13870,9 @@
         {
           "prompt": "Какой советский фильм 1957 года режиссёра Михаила Калатозова был удостоен главного приза — «Золотой пальмовой ветви» Каннского кинофестиваля?",
           "options": [
-            "«Летят журавли» — триумфатор Каннского «Letyat zhuravli» — triumfator Kannskogo (Language concept U29)",
-            "«Броненосец „Потёмкин“» (Language concept U29)",
-            "«Война и мир» (Language concept U29)"
+            "«Летят журавли» — триумфатор Каннского «Letyat zhuravli» — triumfator Kannskogo (Core concept alternative form)",
+            "«Броненосец „Потёмкин“» (Core concept alternative form)",
+            "«Война и мир» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Летят журавли» (1957) — триумфатор Каннского кинофестиваля 1958 года."
@@ -13976,9 +13976,9 @@
         {
           "prompt": "Какая знаменитая реплика звучит в финале антитоталитарной притчи Тенгиза Абуладзе «Покаяние»?",
           "options": [
-            "«Зачем нужна дорога, если она не ведёт к храму?» (Language concept U29)",
-            "«Красота спасёт мир» (Language concept U29)",
-            "«В чём сила, брат?» (Language concept U29)"
+            "«Зачем нужна дорога, если она не ведёт к храму?» (Core concept alternative form)",
+            "«Красота спасёт мир» (Core concept alternative form)",
+            "«В чём сила, брат?» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Этот риторический вопрос пожилой странницы стал крылатым выражением эпохи перестройки."
@@ -14330,9 +14330,9 @@
         {
           "prompt": "Какое легендарное слово произнёс Юрий Гагарин в момент старта космического корабля «Восток-1» 12 апреля 1961 года?",
           "options": [
-            "«Поехали!» (Language concept U30)",
-            "«Вперёд!» (Language concept U30)",
-            "«Стартуем!» (Language concept U30)"
+            "«Поехали!» (Core concept key phrasing)",
+            "«Вперёд!» (Core concept alternative form)",
+            "«Стартуем!» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Знаменитое гагаринское «Поехали!» стало историческим девизом начала пилотируемой космонавтики."
@@ -14530,9 +14530,9 @@
         {
           "prompt": "Какая фраза наиболее точно отражает академический этикет корректного несогласия с позицией коллеги?",
           "options": [
-            "«Приведённые оппонентом данные представляются дискуссионными и требуют дополнительной верификации.» (Language concept U30)",
-            "«Оппонент абсолютно ничего не понимает в предмете исследования.» (Language concept U30)",
-            "«Эта точка зрения совершенно бессмысленна и не заслуживает внимания.» (Language concept U30)"
+            "«Приведённые оппонентом данные представляются дискуссионными и требуют дополнительной верификации.» (Core concept alternative form)",
+            "«Оппонент абсолютно ничего не понимает в предмете исследования.» (Core concept alternative form)",
+            "«Эта точка зрения совершенно бессмысленна и не заслуживает внимания.» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Академический этикет требует уважительного, объективного и аргументированного выражения критики."
@@ -14639,9 +14639,9 @@
           "type": "multiple-choice",
           "prompt": "В каком историческом московском ресторане в июне 1897 г. состоялась встреча Станиславского и Немировича-Данченко, решившая судьбу МХТ?",
           "options": [
-            "«Славянский базар» (Language concept U31)",
-            "«Яр» (Language concept U31)",
-            "«Прага» (Language concept U31)"
+            "«Славянский базар» (Core concept key phrasing)",
+            "«Яр» (Core concept alternative form)",
+            "«Прага» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Знаменитая 18-часовая беседа отцов-основателей МХТ прошла в отдельном кабинете ресторана «Славянский базар»."
@@ -14718,9 +14718,9 @@
         {
           "prompt": "Какую классическую комедию Н. В. Гоголя В. Э. Мейерхольд поставил в 1926 году как трагический гротеск с куклами в финале?",
           "options": [
-            "«Ревизор» стал вершиной режиссерского «Revizor» stal vershinoy rezhisserskogo (Language concept U31)",
-            "«Горе от ума» (Language concept U31)",
-            "«Недоросль» (Language concept U31)"
+            "«Ревизор» стал вершиной режиссерского «Revizor» stal vershinoy rezhisserskogo (Core concept alternative form)",
+            "«Горе от ума» (Core concept alternative form)",
+            "«Недоросль» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Ревизор» (1926) стал вершиной режиссерского гения Мейерхольда."
@@ -14810,9 +14810,9 @@
         {
           "prompt": "Какая сказка Карло Гоцци в постановке Е. Б. Вахтангова (1922 г.) стала легендарным гимном театральной радости и игры?",
           "options": [
-            "«Принцесса Турандот» (Language concept U31)",
-            "«Любовь к трём апельсинам» (Language concept U31)",
-            "«Король-олень» (Language concept U31)"
+            "«Принцесса Турандот» (Core concept key phrasing)",
+            "«Любовь к трём апельсинам» (Core concept alternative form)",
+            "«Король-олень» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Принцесса Турандот» — бессмертный шедевр Вахтангова, определивший эстетику его театра."
@@ -15364,9 +15364,9 @@
         {
           "prompt": "Как на латыни формулируется базовый принцип обязательности исполнения заключенных международных договоров?",
           "options": [
-            "Pacta sunt servanda (Language concept U32)",
-            "Dura lex, sed lex (Language concept U32)",
-            "In dubio pro reo (Language concept U32)"
+            "Pacta sunt servanda",
+            "Dura lex, sed lex",
+            "In dubio pro reo"
           ],
           "answerIndex": 0,
           "explanation": "Pacta sunt servanda («Договоры должны соблюдаться») — фундаментальный принцип международного права."
@@ -15720,9 +15720,9 @@
         {
           "prompt": "Какой знаменитый сборник статей 1909 года подверг глубокой критике мировоззрение революционной интеллигенции?",
           "options": [
-            "«Вехи» стал манифестом религио «Vekhi» stal manifestom religio (Language concept U33)",
-            "«Колокол» (Language concept U33)",
-            "«Северная пчела» (Language concept U33)"
+            "«Вехи» стал манифестом религио «Vekhi» stal manifestom religio (Core concept alternative form)",
+            "«Колокол» (Core concept alternative form)",
+            "«Северная пчела» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Сборник «Вехи» (1909) стал манифестом религиозно-философского ренессанса в защиту духовных основ личности."
@@ -15813,9 +15813,9 @@
         {
           "prompt": "Как в истории русской культуры называется принудительная высылка выдающихся учёных и философов осенью 1922 года?",
           "options": [
-            "«Философский пароход» (Language concept U33)",
-            "«Бронепоезд свободы» (Language concept U33)",
-            "«Смоленский архив» (Language concept U33)"
+            "«Философский пароход» (Core concept key phrasing)",
+            "«Бронепоезд свободы» (Core concept alternative form)",
+            "«Смоленский архив» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«Философский пароход» — собирательное название операции советских властей по высылке интеллектуальной элиты."
@@ -16287,9 +16287,9 @@
         {
           "prompt": "Из какого классического произведения происходит афоризм «Служить бы рад, прислуживаться тошно»?",
           "options": [
-            "«Горе от ума» А. С. Грибоедова (Language concept U34)",
-            "«Война и мир» Л. Н. Толстого (Language concept U34)",
-            "«Мёртвые души» Н. В. Гоголя (Language concept U34)"
+            "«Горе от ума» А. С. Грибоедова (Core concept alternative form)",
+            "«Война и мир» Л. Н. Толстого (Core concept alternative form)",
+            "«Мёртвые души» Н. В. Гоголя (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Эта крылатая реплика Чацкого из комедии Грибоедова «Горе от ума» стала символом честного служения делу."
@@ -16394,9 +16394,9 @@
           "type": "multiple-choice",
           "prompt": "Сколько уроков и тематических юнитов составляют полный фундаментальный курс русского языка Fearn?",
           "options": [
-            "34 юнита и 170 уроков (34 yunita i 170 urokov)",
-            "10 юнитов и 50 уроков (10 yunitov i 50 urokov)",
-            "20 юнитов и 100 уроков (20 yunitov i 100 urokov)"
+            "34 юнита и 170 уроков (170 alternative form)",
+            "10 юнитов и 50 уроков (170 alternative form)",
+            "20 юнитов и 100 уроков (170 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "Курс русского языка включает 34 фундаментальных юнита и 170 полных уроков."

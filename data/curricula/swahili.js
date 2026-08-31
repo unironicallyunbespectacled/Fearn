@@ -525,9 +525,9 @@
           "prompt": "Where does the primary stress (syllable accent) fall in virtually every Swahili word?",
           "options": [
             "Always on the second-to-last (penultimate)",
-            "Always on the last syllable (Master Swahili phonology (U1))",
-            "Always on the first syllable (Master Swahili phonology (U1))",
-            "It is unpredictable (Master Swahili phonology (U1))"
+            "Always on the last syllable (Master Swahili phonology)",
+            "Always on the first syllable (Master Swahili phonology)",
+            "It is unpredictable (Master Swahili phonology)"
           ],
           "answerIndex": 0,
           "explanation": "In Swahili, syllable stress invariably falls on the penultimate (second-to-last) syllable."
@@ -535,10 +535,10 @@
         {
           "prompt": "What does the universal Swahili expression of gratitude «asante» mean?",
           "options": [
-            "thank you (Master Swahili phonology (U1))",
-            "welcome (Master Swahili phonology (U1))",
-            "goodbye (Master Swahili phonology (U1))",
-            "hello (Master Swahili phonology (U1))"
+            "thank you (Master Swahili phonology)",
+            "welcome (Master Swahili phonology)",
+            "goodbye (Master Swahili phonology)",
+            "hello (Master Swahili phonology)"
           ],
           "answerIndex": 0,
           "explanation": "«asante» means \"thank you\"."
@@ -550,10 +550,10 @@
         {
           "prompt": "Select the Swahili word meaning \"welcome\" (also used as \"you are welcome\" after asante):",
           "options": [
-            "karibu (Master Swahili phonology (U1))",
-            "habari (Master Swahili phonology (U1))",
-            "jambo (Master Swahili phonology (U1))",
-            "ndiyo (Master Swahili phonology (U1))"
+            "karibu (Master Swahili phonology)",
+            "habari (Master Swahili phonology)",
+            "jambo (Master Swahili phonology)",
+            "ndiyo (Master Swahili phonology)"
           ],
           "answerIndex": 0,
           "explanation": "«karibu» means \"welcome\" and responds to \"asante\"."
@@ -561,10 +561,10 @@
         {
           "prompt": "How is the digraph «ng'» pronounced in Swahili words like «ng'ombe» (cow)?",
           "options": [
-            "As a pure velar nasal (Master Swahili phonology (U1))",
-            "As hard \"n-g\" (Master Swahili phonology (U1))",
-            "As an English \"N\" (Master Swahili phonology (U1))",
-            "Silent (Master Swahili phonology (U1))"
+            "As a pure velar nasal (Master Swahili phonology)",
+            "As hard \"n-g\" (Master Swahili phonology)",
+            "As an English \"N\" (Master Swahili phonology)",
+            "Silent (Master Swahili phonology)"
           ],
           "answerIndex": 0,
           "explanation": "«ng'» is the pure velar nasal [ŋ]."
@@ -577,10 +577,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Swahili word «habari» mean in greetings?",
           "options": [
-            "news / how are you? (Master Swahili phonology (U1))",
-            "water (Master Swahili phonology (U1))",
-            "house (Master Swahili phonology (U1))",
-            "food (Master Swahili phonology (U1))"
+            "news / how are you? (Master Swahili phonology)",
+            "water (Master Swahili phonology)",
+            "house (Master Swahili phonology)",
+            "food (Master Swahili phonology)"
           ],
           "answerIndex": 0,
           "explanation": "«habari» means \"news\" (e.g. *Habari gani?* = What is the news / How are you?)."
@@ -635,10 +635,10 @@
         {
           "prompt": "Mwanafunzi anapokutana na mwalimu wake asubuhi, anapaswa kutumia salamu gani ya heshima?",
           "options": [
-            "Shikamoo mwalimu! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Hujambo mtoto wangu (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Kwaheri ya kuonana (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Samahani tu (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))"
+            "Shikamoo mwalimu! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Hujambo mtoto wangu (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Kwaheri ya kuonana (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Samahani tu (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)"
           ],
           "answerIndex": 0,
           "explanation": "Mwanafunzi humheshimu mwalimu au mzee kwa kumsalimia «Shikamoo»."
@@ -650,10 +650,10 @@
         {
           "prompt": "Mtu mzima akiamkiwa 'Shikamoo', jibu lake fasaha na lenye staha ni gani?",
           "options": [
-            "Marahaba! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Sijambo tu (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Nzuri sana (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Karibu chai (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))"
+            "Marahaba! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Sijambo tu (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Nzuri sana (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Karibu chai (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)"
           ],
           "answerIndex": 0,
           "explanation": "Salamu ya «Shikamoo» daima hujibiwa kwa neno «Marahaba»."
@@ -666,10 +666,10 @@
           "type": "multiple-choice",
           "prompt": "Tambua jozi sahihi ya salamu ya heshima na jibu lake katika utamaduni wa Kiswahili:",
           "options": [
-            "Salamu: Shikamoo! -> Jibu: Marahaba! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Salamu: Shikamoo! -> Jibu: Kwaheri! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Salamu: Habari za asubuhi? -> Jibu: Shikamoo! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))",
-            "Salamu: Hujambo? -> Jibu: Marahaba! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi (U1))"
+            "Salamu: Shikamoo! -> Jibu: Marahaba! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Salamu: Shikamoo! -> Jibu: Kwaheri! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Salamu: Habari za asubuhi? -> Jibu: Shikamoo! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)",
+            "Salamu: Hujambo? -> Jibu: Marahaba! (Kutambua na kutumia salamu za heshima kwa wazee na wakubwa Shikamoo na Marahaba pamoja na salamu za vipindi vya siku asubuhi)"
           ],
           "answerIndex": 0,
           "explanation": "«Salamu: Shikamoo! -> Jibu: Marahaba!» ndiyo jozi pekee iliyo sahihi na sanifu kijamii."
@@ -717,10 +717,10 @@
         {
           "prompt": "Unapotaka kumwambia rafiki mpya jina lako kwa lugha ya heshima, utasema nini?",
           "options": [
-            "Jina langu ni Juma, ninafurahi kukufahamu. (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Wewe nenda zako haraka (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Sina jina lolote duniani (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Kwaheri ya usiku (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))"
+            "Jina langu ni Juma, ninafurahi kukufahamu. (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Wewe nenda zako haraka (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Sina jina lolote duniani (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Kwaheri ya usiku (Kujifunza jinsi ya kujitambulisha kwa ufasaha)"
           ],
           "answerIndex": 0,
           "explanation": "Kauli sahihi ya kujitambulisha ni «Jina langu ni...» ikifuatiwa na «ninafurahi kukufahamu»."
@@ -732,10 +732,10 @@
         {
           "prompt": "Sentensi gani inauliza kwa usahihi nchi anayotoka mgeni?",
           "options": [
-            "Wewe unatoka nchi gani? (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Wewe unakula nchi gani sasa? (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Nchi yako inalala wapi usiku? (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Jina lako linakimbia wapi? (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))"
+            "Wewe unatoka nchi gani? (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Wewe unakula nchi gani sasa? (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Nchi yako inalala wapi usiku? (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Jina lako linakimbia wapi? (Kujifunza jinsi ya kujitambulisha kwa ufasaha)"
           ],
           "answerIndex": 0,
           "explanation": "Swali sahihi la kijiografia na kiuraia ni «Wewe unatoka nchi gani?»."
@@ -748,10 +748,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya utambulisho iliyo kamili na fasaha kulingana na kanuni za Kiswahili:",
           "options": [
-            "Naitwa Baraka, ninatoka Tanzania na ninafurahi sana kukufahamu. (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Mimi kitabu kiko mezani ninatoka asubuhi sana. (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Jina langu anaitwa kula chakula cha jioni. (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))",
-            "Wewe ni nani kwanini unatembea bila jina? (Kujifunza jinsi ya kujitambulisha kwa ufasaha (U1))"
+            "Naitwa Baraka, ninatoka Tanzania na ninafurahi sana kukufahamu. (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Mimi kitabu kiko mezani ninatoka asubuhi sana. (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Jina langu anaitwa kula chakula cha jioni. (Kujifunza jinsi ya kujitambulisha kwa ufasaha)",
+            "Wewe ni nani kwanini unatembea bila jina? (Kujifunza jinsi ya kujitambulisha kwa ufasaha)"
           ],
           "answerIndex": 0,
           "explanation": "«Naitwa Baraka, ninatoka Tanzania na ninafurahi sana kukufahamu.» ndiyo sentensi kamili ya kujitambulisha."
@@ -799,10 +799,10 @@
         {
           "prompt": "Mtu anapokusaidia kubeba mzigo mzito, neno gani la staha unapaswa kumwambia?",
           "options": [
-            "Asante sana kwa msaada wako! (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Ondoka haraka sitaki kukuona (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Nenda kalale sasa (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Hujambo bibi (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))"
+            "Asante sana kwa msaada wako! (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Ondoka haraka sitaki kukuona (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Nenda kalale sasa (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Hujambo bibi (Kuelewa na kutumia maneno ya staha ya Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Kushukuru kwa msaada uliotendewa hufanywa kwa kusema «Asante sana»."
@@ -814,10 +814,10 @@
         {
           "prompt": "Unapotaka kumwomba mtu akupishe njia kwa heshima, unatumia neno gani la kwanza?",
           "options": [
-            "Samahani, naomba njia tafadhali. (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Wewe toka mbele yangu! (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Kwaheri ya kuonana (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Chakula kiko wapi? (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))"
+            "Samahani, naomba njia tafadhali. (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Wewe toka mbele yangu! (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Kwaheri ya kuonana (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Chakula kiko wapi? (Kuelewa na kutumia maneno ya staha ya Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Neno «Samahani» au «Naomba njia tafadhali» hutumika kuomba nafasi kwa heshima."
@@ -830,10 +830,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha matumizi bora ya shukrani na adabu za lugha ya Kiswahili:",
           "options": [
-            "Samahani kaka, naomba msaada wa kuelekezwa njia, na asante sana kwa ukarimu wako. (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Mimi nataka kila kitu sasa hivi bila kusema tafadhali au asante. (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Asante inasemwa tu wakati mtu anapopoteza vitu vyake vyote. (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))",
-            "Samahani inamaanisha kukataa kuongea na mtu yeyote yule. (Kuelewa na kutumia maneno ya staha ya Kiswahili (U1))"
+            "Samahani kaka, naomba msaada wa kuelekezwa njia, na asante sana kwa ukarimu wako. (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Mimi nataka kila kitu sasa hivi bila kusema tafadhali au asante. (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Asante inasemwa tu wakati mtu anapopoteza vitu vyake vyote. (Kuelewa na kutumia maneno ya staha ya Kiswahili)",
+            "Samahani inamaanisha kukataa kuongea na mtu yeyote yule. (Kuelewa na kutumia maneno ya staha ya Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Samahani kaka, naomba msaada wa kuelekezwa njia, na asante sana kwa ukarimu wako.» inajumuisha maneno yote makuu ya adabu."
@@ -881,10 +881,10 @@
         {
           "prompt": "Unapoagana na kundi la watu wengi jioni baada ya mkutano, kauli gani sahihi ya wingi inatumika?",
           "options": [
-            "Kwaherini nyote, na usiku mwema! (Kuunganisha mada zote za Unit 1 (U1))",
-            "Kwaheri wewe peke yako (Kuunganisha mada zote za Unit 1 (U1))",
-            "Shikamoo wote (Kuunganisha mada zote za Unit 1 (U1))",
-            "Habari za asubuhi (Kuunganisha mada zote za Unit 1 (U1))"
+            "Kwaherini nyote, na usiku mwema! (Kuunganisha mada zote za Unit 1)",
+            "Kwaheri wewe peke yako (Kuunganisha mada zote za Unit 1)",
+            "Shikamoo wote (Kuunganisha mada zote za Unit 1)",
+            "Habari za asubuhi (Kuunganisha mada zote za Unit 1)"
           ],
           "answerIndex": 0,
           "explanation": "Kwa watu wengi (wingi), hutumika «Kwaherini» ikiambatana na matashi ya «usiku mwema»."
@@ -896,10 +896,10 @@
         {
           "prompt": "Mgeni anapopanda ndege au basi kuanza safari ndefu, unamtakia nini kwa Kiswahili fasaha?",
           "options": [
-            "Safari njema na ufike salama! (Kuunganisha mada zote za Unit 1 (U1))",
-            "Kazi mbaya huko unakokwenda (Kuunganisha mada zote za Unit 1 (U1))",
-            "Lala hapa kitandani sasa (Kuunganisha mada zote za Unit 1 (U1))",
-            "Samahani sina chakula (Kuunganisha mada zote za Unit 1 (U1))"
+            "Safari njema na ufike salama! (Kuunganisha mada zote za Unit 1)",
+            "Kazi mbaya huko unakokwenda (Kuunganisha mada zote za Unit 1)",
+            "Lala hapa kitandani sasa (Kuunganisha mada zote za Unit 1)",
+            "Samahani sina chakula (Kuunganisha mada zote za Unit 1)"
           ],
           "answerIndex": 0,
           "explanation": "Matashi mema ya msafiri ni «Safari njema» au «Ufike salama»."
@@ -913,9 +913,9 @@
           "prompt": "Chagua muhtasari sahihi unaojumuisha kanuni zote kuu za salamu na adabu za Unit 1 ya Kiswahili:",
           "options": [
             "Unit 1 inajumuisha mkazo wa silabi ya pili, salamu za heshima (Shikamoo/Marahaba)",
-            "Unit 1 inafundisha tu maneno magumu ya kisayansi bila salamu wala heshima yoyote. (Kuunganisha mada zote za Unit 1 (U1))",
-            "Katika Kiswahili hakuna tofauti kati ya kuamkia mtoto mdogo na kumwamkia mzee. (Kuunganisha mada zote za Unit 1 (U1))",
-            "Kuagana na mtu hufanywa kwa kusema Shikamoo kila wakati bila kutumia Kwaheri. (Kuunganisha mada zote za Unit 1 (U1))"
+            "Unit 1 inafundisha tu maneno magumu ya kisayansi bila salamu wala heshima yoyote. (Kuunganisha mada zote za Unit 1)",
+            "Katika Kiswahili hakuna tofauti kati ya kuamkia mtoto mdogo na kumwamkia mzee. (Kuunganisha mada zote za Unit 1)",
+            "Kuagana na mtu hufanywa kwa kusema Shikamoo kila wakati bila kutumia Kwaheri. (Kuunganisha mada zote za Unit 1)"
           ],
           "answerIndex": 0,
           "explanation": "«Unit 1 inajumuisha mkazo wa silabi ya pili, salamu za heshima (Shikamoo/Marahaba), kujitambulisha kwa jina na nchi, maneno ya staha (Asante/Samahani), na kuagana kwa matashi mema (Kwaheri/Safari njema).» ndio muhtasari kamili wa Unit 1."
@@ -963,10 +963,10 @@
         {
           "prompt": "Neno 'mtoto' katika umoja linapobadilishwa kuwa wingi katika Ngeli ya 1/2 huwa nini?",
           "options": [
-            "watoto (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "mitoto (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "vitoto (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "matoto (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))"
+            "watoto (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "mitoto (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "vitoto (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "matoto (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «mtoto» (umoja) hubadilika kuwa «watoto» (wingi) katika Ngeli ya 1/2 (M-WA)."
@@ -978,10 +978,10 @@
         {
           "prompt": "Sentensi ipi inatumia kwa usahihi nomino za Ngeli ya 1/2 katika umoja na wingi?",
           "options": [
-            "Mwanafunzi anasoma kitabu na wanafunzi wengine wanaandika. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "Wanafunzi moja anasoma kitabu mezani (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "Mtu wote wanalala usingizi usiku (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "Mwalimu wengi wanafika darasani asubuhi (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))"
+            "Mwanafunzi anasoma kitabu na wanafunzi wengine wanaandika. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "Wanafunzi moja anasoma kitabu mezani (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "Mtu wote wanalala usingizi usiku (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "Mwalimu wengi wanafika darasani asubuhi (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwanafunzi anasoma kitabu na wanafunzi wengine wanaandika.» inaoanisha umoja (mwanafunzi) na wingi (wanafunzi) kwa usahihi."
@@ -994,10 +994,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua kanuni sahihi inayofafanua mabadiliko ya nomino za Ngeli ya 1/2 (M-WA):",
           "options": [
-            "Ngeli ya 1/2 inahusu binadamu, ambapo kiambishi cha umoja ni 'm-/mw-' na kiambishi cha wingi ni 'wa-'. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "Ngeli ya 1/2 inahusu miti na mimea yote pekee. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "Katika Ngeli ya 1/2 maneno yote hubakia bila kubadilika kutoka umoja hadi wingi. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))",
-            "Kiambishi cha umoja ni 'ki-' na kiambishi cha wingi ni 'vi-' katika ngeli hii. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA (U2))"
+            "Ngeli ya 1/2 inahusu binadamu, ambapo kiambishi cha umoja ni 'm-/mw-' na kiambishi cha wingi ni 'wa-'. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "Ngeli ya 1/2 inahusu miti na mimea yote pekee. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "Katika Ngeli ya 1/2 maneno yote hubakia bila kubadilika kutoka umoja hadi wingi. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)",
+            "Kiambishi cha umoja ni 'ki-' na kiambishi cha wingi ni 'vi-' katika ngeli hii. (Kuelewa mfumo wa Ngeli ya 12 MWA  AWA)"
           ],
           "answerIndex": 0,
           "explanation": "«Ngeli ya 1/2 inahusu binadamu, ambapo kiambishi cha umoja ni 'm-/mw-' na kiambishi cha wingi ni 'wa-'.» ndiyo kanuni kuu ya kimsingi."
@@ -1045,10 +1045,10 @@
         {
           "prompt": "Kamilisha sentensi ifuatayo kwa upatanisho sahihi wa Ngeli ya 1 (Umoja): \"Mgeni mrefu _____fika jana jioni.\"",
           "options": [
-            "a- (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "wa- (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "ki- (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "li- (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))"
+            "a- (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "wa- (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "ki- (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "li- (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya umoja katika Ngeli ya A-WA (kama mgeni) huchukua kiambishi awali cha kitenzi «a-»."
@@ -1060,10 +1060,10 @@
         {
           "prompt": "Sentensi ipi ina upatanisho kamili na sanifu wa vivumishi na vitenzi vya Ngeli ya 2 (Wingi)?",
           "options": [
-            "Walimu wazuri wanafundisha watoto werevu. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "Walimu mzuri anafundisha watoto werevu (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "Walimu wazuri inafundisha watoto mdogo (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "Mwalimu wazuri wanafundisha watoto moja (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))"
+            "Walimu wazuri wanafundisha watoto werevu. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "Walimu mzuri anafundisha watoto werevu (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "Walimu wazuri inafundisha watoto mdogo (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "Mwalimu wazuri wanafundisha watoto moja (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)"
           ],
           "answerIndex": 0,
           "explanation": "«Walimu wazuri wanafundisha watoto werevu.» inafuata upatanisho wa wingi wa A-WA (wa-limu, wa-zuri, wa-nafundisha, wa-toto, w-erevu)."
@@ -1076,10 +1076,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi ya sentensi inayoonyesha upatanisho sahihi wa umoja na wingi katika Ngeli ya A-WA:",
           "options": [
-            "Umoja: Mvulana mdogo anacheza. -> Wingi: Wavulana wadogo wanacheza. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "Umoja: Mvulana mdogo anacheza. -> Wingi: Mvulana wadogo anacheza. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "Umoja: Mvulana wadogo wanacheza. -> Wingi: Wavulana mdogo anacheza. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))",
-            "Umoja: Wavulana wanacheza. -> Wingi: Mvulana inacheza. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA (U2))"
+            "Umoja: Mvulana mdogo anacheza. -> Wingi: Wavulana wadogo wanacheza. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "Umoja: Mvulana mdogo anacheza. -> Wingi: Mvulana wadogo anacheza. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "Umoja: Mvulana wadogo wanacheza. -> Wingi: Wavulana mdogo anacheza. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)",
+            "Umoja: Wavulana wanacheza. -> Wingi: Mvulana inacheza. (Kutambua upatanisho wa kisarufi Grammatical Concord wa Ngeli ya AWA)"
           ],
           "answerIndex": 0,
           "explanation": "«Umoja: Mvulana mdogo anacheza. -> Wingi: Wavulana wadogo wanacheza.» inaoanisha kwa ukamilifu viambishi vyote vya kisarufi."
@@ -1127,10 +1127,10 @@
         {
           "prompt": "Sentensi sahihi inayoelezea tendo la 'simba' kuwinda ni ipi?",
           "options": [
-            "Simba mkali anawinda porini. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))",
-            "Simba mkali linawinda porini (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))",
-            "Simba mkali kinawinda porini (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))",
-            "Simba mkali inawinda porini (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))"
+            "Simba mkali anawinda porini. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)",
+            "Simba mkali linawinda porini (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)",
+            "Simba mkali kinawinda porini (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)",
+            "Simba mkali inawinda porini (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)"
           ],
           "answerIndex": 0,
           "explanation": "Kwa sababu simba ni kiumbe hai, huchukua upatanisho wa A-WA: «Simba mkali anawinda»."
@@ -1142,10 +1142,10 @@
         {
           "prompt": "Unapozungumzia madaktari wengi hospitalini, sentensi ipi inafuata upatanisho sahihi wa kisarufi?",
           "options": [
-            "Madaktari hodari wanatibu wagonjwa wengi. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))",
-            "Madaktari hodari yanatibu wagonjwa wengi (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))",
-            "Madaktari mzuri anatibu wagonjwa wengi (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))",
-            "Daktari wote inatibu wagonjwa wengi (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))"
+            "Madaktari hodari wanatibu wagonjwa wengi. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)",
+            "Madaktari hodari yanatibu wagonjwa wengi (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)",
+            "Madaktari mzuri anatibu wagonjwa wengi (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)",
+            "Daktari wote inatibu wagonjwa wengi (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)"
           ],
           "answerIndex": 0,
           "explanation": "Madaktari ni binadamu, hivyo huchukua upatanisho wa wingi wa A-WA: «Madaktari hodari wanatibu»."
@@ -1159,9 +1159,9 @@
           "prompt": "Chagua maelezo sahihi kuhusu kanuni ya uhai (animacy) katika ngeli za Kiswahili:",
           "options": [
             "Majina yote ya viumbe hai (kama wanyama, ndege, na majina ya ukoo)",
-            "Wanyama wote huchukua upatanisho wa ngeli ya vitu visivyo na uhai kila wakati. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))",
-            "Majina ya ukoo kama 'mama' na 'baba' hayana upatanisho wowote katika Kiswahili. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))",
-            "Wadudu na ndege pekee ndio wasioweza kuingia katika Ngeli ya A-WA. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo (U2))"
+            "Wanyama wote huchukua upatanisho wa ngeli ya vitu visivyo na uhai kila wakati. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)",
+            "Majina ya ukoo kama 'mama' na 'baba' hayana upatanisho wowote katika Kiswahili. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)",
+            "Wadudu na ndege pekee ndio wasioweza kuingia katika Ngeli ya A-WA. (Kuelewa kanuni kwamba viumbe wote wenye uhai majina ya ukoo)"
           ],
           "answerIndex": 0,
           "explanation": "«Majina yote ya viumbe hai (kama wanyama, ndege, na majina ya ukoo) huchukua upatanisho wa Ngeli ya A-WA bila kujali herufi zake za mwanzo.» ndiyo kanuni kuu ya sarufi."
@@ -1209,10 +1209,10 @@
         {
           "prompt": "Unapotaka kumwonyesha mtu aliye karibu nawe katika Ngeli ya 1 (Umoja), unatumia neno gani?",
           "options": [
-            "Huyu (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Yule (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Hiki (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Hawa (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))"
+            "Huyu (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Yule (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Hiki (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Hawa (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)"
           ],
           "answerIndex": 0,
           "explanation": "Kionyeshi cha ukaribu cha umoja katika Ngeli ya A-WA ni «Huyu»."
@@ -1224,10 +1224,10 @@
         {
           "prompt": "Sentensi gani inatumia kionyeshi cha umbali wa wingi (wale) kwa usahihi?",
           "options": [
-            "Wanafunzi wale wanasoma chini ya mti kule mbali. (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Mwanafunzi wale anasoma chini ya mti kule (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Wanafunzi yule wanacheza mpira (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Kitabu wale kiko mezani (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))"
+            "Wanafunzi wale wanasoma chini ya mti kule mbali. (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Mwanafunzi wale anasoma chini ya mti kule (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Wanafunzi yule wanacheza mpira (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Kitabu wale kiko mezani (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)"
           ],
           "answerIndex": 0,
           "explanation": "«Wanafunzi wale wanasoma chini ya mti kule mbali.» inatumia kionyeshi cha umbali wa wingi «wale» kwa usahihi."
@@ -1240,10 +1240,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jedwali sahihi la vionyeshi vya Ngeli ya A-WA (Umoja na Wingi):",
           "options": [
-            "Ukaribu: Huyu / Hawa | Umbali: Yule / Wale | Urejelezi: Huyo / Hao (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Ukaribu: Hiki / Hivi | Umbali: Kile / Vile | Urejelezi: Hicho / Hivyo (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Ukaribu: Hili / Haya | Umbali: Lile / Yale | Urejelezi: Hilo / Hayo (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))",
-            "Ukaribu: Huu / Hii | Umbali: Ule / Ile | Urejelezi: Huo / Hiyo (Kutambua na kutumia vionyeshi vya Ngeli ya AWA (U2))"
+            "Ukaribu: Huyu / Hawa | Umbali: Yule / Wale | Urejelezi: Huyo / Hao (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Ukaribu: Hiki / Hivi | Umbali: Kile / Vile | Urejelezi: Hicho / Hivyo (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Ukaribu: Hili / Haya | Umbali: Lile / Yale | Urejelezi: Hilo / Hayo (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)",
+            "Ukaribu: Huu / Hii | Umbali: Ule / Ile | Urejelezi: Huo / Hiyo (Kutambua na kutumia vionyeshi vya Ngeli ya AWA)"
           ],
           "answerIndex": 0,
           "explanation": "«Ukaribu: Huyu / Hawa | Umbali: Yule / Wale | Urejelezi: Huyo / Hao» ndilo jedwali sahihi la Ngeli ya A-WA."
@@ -1291,10 +1291,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha upatanisho kamili wa Ngeli ya A-WA (Nomino + Kionyeshi + Kivumishi + Kitenzi)?",
           "options": [
-            "Wageni hawa wema wanafika nyumbani kwetu salama. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Wageni huyu mzuri anafika nyumbani kwetu salama (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Mgeni hawa wazuri wanafika nyumbani (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Wageni wale kizuri kinafika nyumbani (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))"
+            "Wageni hawa wema wanafika nyumbani kwetu salama. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Wageni huyu mzuri anafika nyumbani kwetu salama (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Mgeni hawa wazuri wanafika nyumbani (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Wageni wale kizuri kinafika nyumbani (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)"
           ],
           "answerIndex": 0,
           "explanation": "«Wageni hawa wema wanafika nyumbani kwetu salama.» inaoanisha nomino (wageni), kionyeshi (hawa), kivumishi (wema) na kitenzi (wanafika)."
@@ -1306,10 +1306,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 2, ni kanuni ipi ya jumla inayotawala Ngeli ya A-WA?",
           "options": [
-            "Viumbe wote wenye uhai huchukua kiambishi cha kitenzi 'a-' kwa umoja na 'wa-' kwa wingi. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Vitu vyote vya chuma huingia katika Ngeli ya A-WA pekee (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Ngeli ya A-WA haina vivumishi wala vionyeshi (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Maneno yote ya Ngeli ya A-WA lazima yaanze na herufi 'z' (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))"
+            "Viumbe wote wenye uhai huchukua kiambishi cha kitenzi 'a-' kwa umoja na 'wa-' kwa wingi. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Vitu vyote vya chuma huingia katika Ngeli ya A-WA pekee (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Ngeli ya A-WA haina vivumishi wala vionyeshi (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Maneno yote ya Ngeli ya A-WA lazima yaanze na herufi 'z' (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)"
           ],
           "answerIndex": 0,
           "explanation": "Kanuni kuu ni kwamba viumbe wote wenye uhai huchukua «a-» kwa umoja na «wa-» kwa wingi."
@@ -1322,10 +1322,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya muhtasari mkuu inayowakilisha umahiri wa juu wa Ngeli ya 1/2 (A-WA):",
           "options": [
-            "Mwalimu yule hodari anawalea wanafunzi hawa wadogo kwa upendo, na wazazi wote wanafurahia malezi yake. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Mwalimu wale wazuri inalea wanafunzi huyu mdogo kwa upendo. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Wanafunzi yule mzuri anasoma kitabu kimoja kila siku usiku. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))",
-            "Ngeli ya A-WA inakataza matumizi ya vionyeshi na vivumishi katika sentensi. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA (U2))"
+            "Mwalimu yule hodari anawalea wanafunzi hawa wadogo kwa upendo, na wazazi wote wanafurahia malezi yake. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Mwalimu wale wazuri inalea wanafunzi huyu mdogo kwa upendo. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Wanafunzi yule mzuri anasoma kitabu kimoja kila siku usiku. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)",
+            "Ngeli ya A-WA inakataza matumizi ya vionyeshi na vivumishi katika sentensi. (Kuunganisha kikamilifu vipengele vyote vya Ngeli ya 12 AWA)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwalimu yule hodari anawalea wanafunzi hawa wadogo kwa upendo, na wazazi wote wanafurahia malezi yake.» inajumuisha upatanisho wote wa A-WA kwa ukamilifu."
@@ -1373,10 +1373,10 @@
         {
           "prompt": "Sentensi sahihi inayoelezea nafsi ya kwanza wingi (Sisi) katika wakati uliopo wa kitenzi 'cheza' ni ipi?",
           "options": [
-            "Sisi tunacheza mpira uwanjani. (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Sisi ninacheza mpira uwanjani (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Sisi wanacheza mpira uwanjani (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Sisi anacheza mpira uwanjani (Kuelewa muundo wa kitenzi cha Kiswahili (U3))"
+            "Sisi tunacheza mpira uwanjani. (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Sisi ninacheza mpira uwanjani (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Sisi wanacheza mpira uwanjani (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Sisi anacheza mpira uwanjani (Kuelewa muundo wa kitenzi cha Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi nafsi cha «Sisi» ni «tu-», hivyo kitenzi huwa «tunacheza»."
@@ -1388,10 +1388,10 @@
         {
           "prompt": "Unapomwambia rafiki yako unayezungumza naye (Wewe) anachofanya sasa hivi, unatumia neno gani?",
           "options": [
-            "Wewe unaandika barua nzuri. (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Wewe ninaandika barua nzuri (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Wewe wanaandika barua nzuri (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Wewe tunaandika barua nzuri (Kuelewa muundo wa kitenzi cha Kiswahili (U3))"
+            "Wewe unaandika barua nzuri. (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Wewe ninaandika barua nzuri (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Wewe wanaandika barua nzuri (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Wewe tunaandika barua nzuri (Kuelewa muundo wa kitenzi cha Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Kwa nafsi ya pili umoja (Wewe), kiambishi nafsi ni «u-», kikiungana na «-na-» kupata «unasoma» au «unaandika»."
@@ -1404,10 +1404,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua kanuni sahihi inayofafanua muundo wa wakati uliopo katika Kiswahili:",
           "options": [
-            "Kitenzi cha wakati uliopo kinajengwa kwa kiambishi nafsi (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Wakati uliopo hauna kiambishi chochote bali unatumia neno 'sasa' pekee. (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Kila kitenzi cha Kiswahili kina herufi moja tu ya kiambishi nafsi bila wakati. (Kuelewa muundo wa kitenzi cha Kiswahili (U3))",
-            "Kiambishi '-na-' kinatumika tu kwa wanyama na si kwa binadamu. (Kuelewa muundo wa kitenzi cha Kiswahili (U3))"
+            "Kitenzi cha wakati uliopo kinajengwa kwa kiambishi nafsi (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Wakati uliopo hauna kiambishi chochote bali unatumia neno 'sasa' pekee. (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Kila kitenzi cha Kiswahili kina herufi moja tu ya kiambishi nafsi bila wakati. (Kuelewa muundo wa kitenzi cha Kiswahili)",
+            "Kiambishi '-na-' kinatumika tu kwa wanyama na si kwa binadamu. (Kuelewa muundo wa kitenzi cha Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Kitenzi cha wakati uliopo kinajengwa kwa kiambishi nafsi (ni-, u-, a-, tu-, m-, wa-) kikifuatiwa na kiambishi cha wakati '-na-' na shina la kitenzi.» ndiyo kanuni kuu."
@@ -1455,10 +1455,10 @@
         {
           "prompt": "Chagua kitenzi sahihi cha wakati uliopo kinachomaanisha \"Yeye anakula chakula\":",
           "options": [
-            "anakula (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "anala (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "analia (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "anacheza (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))"
+            "anakula (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "anala (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "analia (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "anacheza (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «-la» ni cha silabi moja, hivyo huhifadhi «ku-» katika wakati uliopo: «anakula»."
@@ -1470,10 +1470,10 @@
         {
           "prompt": "Sentensi ipi inatumia vitenzi vya silabi moja 'kunywa' na 'kuja' kwa usahihi?",
           "options": [
-            "Wageni wanakuja nyumbani na wanakunywa chai moto. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "Wageni wanaja nyumbani na wananywa chai moto (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "Wageni wanakula chai moto (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "Wageni alikuja jana jioni (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))"
+            "Wageni wanakuja nyumbani na wanakunywa chai moto. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "Wageni wanaja nyumbani na wananywa chai moto (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "Wageni wanakula chai moto (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "Wageni alikuja jana jioni (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi sahihi vyenye kuhifadhi «ku-» ni «wanakuja» na «wanakunywa»."
@@ -1486,10 +1486,10 @@
           "type": "multiple-choice",
           "prompt": "Kwanini vitenzi kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati uliopo (-na-)?",
           "options": [
-            "Kwa sababu ni vitenzi vya silabi moja na vinahitaji 'ku-' ili kubeba mkazo wa sauti kwenye silabi ya pili kutoka mwisho. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "Kwa sababu vinatumika tu wakati wa usiku bila mchana. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "Kwa sababu havina viambishi nafsi kama vitenzi vingine. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))",
-            "Ni kosa la kisarufi na havipaswi kuhifadhi 'ku-' kabisa. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia (U3))"
+            "Kwa sababu ni vitenzi vya silabi moja na vinahitaji 'ku-' ili kubeba mkazo wa sauti kwenye silabi ya pili kutoka mwisho. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "Kwa sababu vinatumika tu wakati wa usiku bila mchana. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "Kwa sababu havina viambishi nafsi kama vitenzi vingine. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)",
+            "Ni kosa la kisarufi na havipaswi kuhifadhi 'ku-' kabisa. (Kutambua tabia maalum ya vitenzi vya silabi moja Monosyllabic verbs ambavyo huhifadhi kiambishi ku katika wakati uliopo na ili kulinda mkazo wa kifonolojia)"
           ],
           "answerIndex": 0,
           "explanation": "«Kwa sababu ni vitenzi vya silabi moja na vinahitaji 'ku-' ili kubeba mkazo wa sauti kwenye silabi ya pili kutoka mwisho.» ndiyo sababu ya kifonolojia."
@@ -1537,10 +1537,10 @@
         {
           "prompt": "Mtu anapokuuliza \"Unakwenda wapi sasa hivi?\", jibu sahihi na kamili ni lipi?",
           "options": [
-            "Ninakwenda sokoni kununua mboga. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Jina langu ni Juma mwalimu (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Sijambo sana asante (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Chakula kiliiva jana usiku (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))"
+            "Ninakwenda sokoni kununua mboga. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Jina langu ni Juma mwalimu (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Sijambo sana asante (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Chakula kiliiva jana usiku (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)"
           ],
           "answerIndex": 0,
           "explanation": "Swali «Unakwenda wapi?» linauliza eneo unaloelekea, hivyo hujibiwa kwa «Ninakwenda...»."
@@ -1552,10 +1552,10 @@
         {
           "prompt": "Sentensi ipi inaeleza shughuli za usafi wa nyumbani katika wakati uliopo kwa usahihi?",
           "options": [
-            "Watoto wanasafisha vyumba na mama anapika chakula. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Watoto kitabu anasoma jana asubuhi (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Mama inasafisha watoto wote uwanjani (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Vyumba vinapika chakula jikoni sasa (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))"
+            "Watoto wanasafisha vyumba na mama anapika chakula. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Watoto kitabu anasoma jana asubuhi (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Mama inasafisha watoto wote uwanjani (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Vyumba vinapika chakula jikoni sasa (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)"
           ],
           "answerIndex": 0,
           "explanation": "«Watoto wanasafisha vyumba na mama anapika chakula.» inatumia vitenzi sahihi vya shughuli za kila siku."
@@ -1568,10 +1568,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua swali na jibu lililo sahihi na sanifu kuhusu shughuli za kila siku katika Kiswahili:",
           "options": [
-            "Swali: Je, unafanya nini sasa hivi? -> Jibu: Ninaandika barua kwa rafiki yangu. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Swali: Je, unakwenda wapi? -> Jibu: Ninakula ndizi tatu. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Swali: Je, unafanya nini? -> Jibu: Marahaba bibi yangu. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))",
-            "Swali: Je, jina lako nani? -> Jibu: Ninakwenda Nairobi. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini (U3))"
+            "Swali: Je, unafanya nini sasa hivi? -> Jibu: Ninaandika barua kwa rafiki yangu. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Swali: Je, unakwenda wapi? -> Jibu: Ninakula ndizi tatu. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Swali: Je, unafanya nini? -> Jibu: Marahaba bibi yangu. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)",
+            "Swali: Je, jina lako nani? -> Jibu: Ninakwenda Nairobi. (Kutumia wakati uliopo na kuuliza na kujibu maswali kuhusu shughuli za kila siku Unafanya nini Unakwenda wapi na kueleza vitendo mbalimbali vya maisha ya nyumbani na kazini)"
           ],
           "answerIndex": 0,
           "explanation": "«Swali: Je, unafanya nini sasa hivi? -> Jibu: Ninaandika barua kwa rafiki yangu.» ndiyo jozi sahihi na yenye mantiki."
@@ -1619,10 +1619,10 @@
         {
           "prompt": "Sentensi ipi ina upatanisho sahihi wa kitenzi cha wakati uliopo kwa nomino ya Ngeli ya 7 (Kiti)?",
           "options": [
-            "Kiti kizuri kinavunjika polepole. (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Kiti kizuri linavunjika polepole (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Kiti kizuri yanavunjika polepole (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Kiti kizuri wanavunjika polepole (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))"
+            "Kiti kizuri kinavunjika polepole. (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Kiti kizuri linavunjika polepole (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Kiti kizuri yanavunjika polepole (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Kiti kizuri wanavunjika polepole (Kutambua jinsi ngeli nyingine za nomino KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Kiti» (Ngeli ya 7 KI-VI) huchukua kiambishi cha kitenzi «ki-», hivyo huwa «kinavunjika»."
@@ -1634,10 +1634,10 @@
         {
           "prompt": "Unapozungumzia magari mengi (Ngeli ya 6 JI-MA wingi) yanayopita barabarani, kitenzi kipi ni sahihi?",
           "options": [
-            "Magari mengi yanapita barabarani kwa kasi. (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Magari mengi linapita barabarani (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Magari mengi kinapita barabarani (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Magari mengi wanapita barabarani (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))"
+            "Magari mengi yanapita barabarani kwa kasi. (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Magari mengi linapita barabarani (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Magari mengi kinapita barabarani (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Magari mengi wanapita barabarani (Kutambua jinsi ngeli nyingine za nomino KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya wingi «Magari» huchukua kiambishi cha kitenzi «ya-», hivyo husemwa «yanapita»."
@@ -1650,10 +1650,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa wakati uliopo katika ngeli zote zilizotajwa:",
           "options": [
-            "Mti mrefu unakua, gari jipya linapita, na kitabu kizuri kinasomwa na wanafunzi. (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Mti mrefu linakua, gari jipya kinapita, na kitabu kizuri unakua darasani. (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Miti yote linakua na vitabu vyote linasomwa na watu wote. (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))",
-            "Magari yote kinapita wakati nyumba zote linajengwa mjini. (Kutambua jinsi ngeli nyingine za nomino KIVI (U3))"
+            "Mti mrefu unakua, gari jipya linapita, na kitabu kizuri kinasomwa na wanafunzi. (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Mti mrefu linakua, gari jipya kinapita, na kitabu kizuri unakua darasani. (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Miti yote linakua na vitabu vyote linasomwa na watu wote. (Kutambua jinsi ngeli nyingine za nomino KIVI)",
+            "Magari yote kinapita wakati nyumba zote linajengwa mjini. (Kutambua jinsi ngeli nyingine za nomino KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "«Mti mrefu unakua, gari jipya linapita, na kitabu kizuri kinasomwa na wanafunzi.» inafuata upatanisho kamili wa ngeli za M-MI (u-), JI-MA (li-), na KI-VI (ki-)."
@@ -1701,10 +1701,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa wakati uliopo (-na-) kwa vitenzi vya kawaida na vitenzi vya silabi moja?",
           "options": [
-            "Wanafunzi wanasoma vitabu na sasa wanakula chakula cha mchana. (Kuunganisha mada zote za Unit 3 (U3))",
-            "Wanafunzi alisoma vitabu na jana alikula chakula (Kuunganisha mada zote za Unit 3 (U3))",
-            "Wanafunzi anasoma vitabu na sasa anala chakula (Kuunganisha mada zote za Unit 3 (U3))",
-            "Vitabu vyote wanasoma wanafunzi wote (Kuunganisha mada zote za Unit 3 (U3))"
+            "Wanafunzi wanasoma vitabu na sasa wanakula chakula cha mchana. (Kuunganisha mada zote za Unit 3)",
+            "Wanafunzi alisoma vitabu na jana alikula chakula (Kuunganisha mada zote za Unit 3)",
+            "Wanafunzi anasoma vitabu na sasa anala chakula (Kuunganisha mada zote za Unit 3)",
+            "Vitabu vyote wanasoma wanafunzi wote (Kuunganisha mada zote za Unit 3)"
           ],
           "answerIndex": 0,
           "explanation": "«Wanafunzi wanasoma vitabu na sasa wanakula chakula cha mchana.» inatumia kitenzi cha kawaida «wanasoma» na kitenzi cha silabi moja «wanakula» kwa usahihi."
@@ -1716,10 +1716,10 @@
         {
           "prompt": "Katika muhtasari mkuu wa Unit 3, kwanini kiambishi '-na-' ni nguzo muhimu ya mawasiliano ya Kiswahili?",
           "options": [
-            "Kwa sababu huwezesha kueleza vitendo vinavyotendeka sasa hivi na kuunganisha upatanisho wa ngeli zote kwa uwazi. (Kuunganisha mada zote za Unit 3 (U3))",
-            "Kwa sababu kinatumika tu kuhesabu nambari za pesa (Kuunganisha mada zote za Unit 3 (U3))",
-            "Kwa sababu kinakataza matumizi ya majina ya watu (Kuunganisha mada zote za Unit 3 (U3))",
-            "Hakina kazi yoyote katika sentensi za Kiswahili (Kuunganisha mada zote za Unit 3 (U3))"
+            "Kwa sababu huwezesha kueleza vitendo vinavyotendeka sasa hivi na kuunganisha upatanisho wa ngeli zote kwa uwazi. (Kuunganisha mada zote za Unit 3)",
+            "Kwa sababu kinatumika tu kuhesabu nambari za pesa (Kuunganisha mada zote za Unit 3)",
+            "Kwa sababu kinakataza matumizi ya majina ya watu (Kuunganisha mada zote za Unit 3)",
+            "Hakina kazi yoyote katika sentensi za Kiswahili (Kuunganisha mada zote za Unit 3)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi «-na-» huwezesha kueleza vitendo vinavyoendelea hivi sasa kwa upatanisho wa ngeli zote."
@@ -1732,10 +1732,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 3 ya Wakati Uliopo katika Kiswahili:",
           "options": [
-            "Mimi ninasoma Kiswahili kwa makini, familia yangu inakunywa chai mezani, na watoto wote wanacheza uwanjani kwa furaha. (Kuunganisha mada zote za Unit 3 (U3))",
-            "Mimi atasoma Kiswahili kesho na watoto wote alicheza jana. (Kuunganisha mada zote za Unit 3 (U3))",
-            "Familia yangu linakunywa chai wakati mimi wanacheza uwanjani. (Kuunganisha mada zote za Unit 3 (U3))",
-            "Wakati uliopo unatumia neno moja tu bila viambishi nafsi. (Kuunganisha mada zote za Unit 3 (U3))"
+            "Mimi ninasoma Kiswahili kwa makini, familia yangu inakunywa chai mezani, na watoto wote wanacheza uwanjani kwa furaha. (Kuunganisha mada zote za Unit 3)",
+            "Mimi atasoma Kiswahili kesho na watoto wote alicheza jana. (Kuunganisha mada zote za Unit 3)",
+            "Familia yangu linakunywa chai wakati mimi wanacheza uwanjani. (Kuunganisha mada zote za Unit 3)",
+            "Wakati uliopo unatumia neno moja tu bila viambishi nafsi. (Kuunganisha mada zote za Unit 3)"
           ],
           "answerIndex": 0,
           "explanation": "«Mimi ninasoma Kiswahili kwa makini, familia yangu inakunywa chai mezani, na watoto wote wanacheza uwanjani kwa furaha.» inajumuisha kwa ukamilifu mnyambuliko wa nafsi, vitenzi vya silabi moja na upatanisho wa ngeli katika wakati uliopo."
@@ -1783,10 +1783,10 @@
         {
           "prompt": "Sentensi sahihi inayoelezea nafsi ya kwanza umoja (Mimi) katika wakati uliopita wa kitenzi 'safiri' ni ipi?",
           "options": [
-            "Mimi nilisafiri kwenda Arusha jana. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))",
-            "Mimi ninasafiri kwenda Arusha jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))",
-            "Mimi walisafiri kwenda Arusha jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))",
-            "Mimi alilisafiri kwenda Arusha jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))"
+            "Mimi nilisafiri kwenda Arusha jana. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)",
+            "Mimi ninasafiri kwenda Arusha jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)",
+            "Mimi walisafiri kwenda Arusha jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)",
+            "Mimi alilisafiri kwenda Arusha jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi nafsi cha «Mimi» ni «ni-» na kiambishi cha wakati uliopita ni «-li-», hivyo kitenzi huwa «nilisafiri»."
@@ -1798,10 +1798,10 @@
         {
           "prompt": "Unapoelezea jinsi wanafunzi (Wao) walivyofanya kazi nzuri darasani jana, unatumia kauli ipi?",
           "options": [
-            "Wanafunzi walifanya kazi kwa bidii na walifaulu. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))",
-            "Wanafunzi anafanya kazi kwa bidii jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))",
-            "Wanafunzi tulifanya kazi kwa bidii jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))",
-            "Wanafunzi mlifanya kazi kwa bidii jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))"
+            "Wanafunzi walifanya kazi kwa bidii na walifaulu. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)",
+            "Wanafunzi anafanya kazi kwa bidii jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)",
+            "Wanafunzi tulifanya kazi kwa bidii jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)",
+            "Wanafunzi mlifanya kazi kwa bidii jana (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Kwa nafsi ya tatu wingi (Wanafunzi/Wao), viambishi sahihi vya wakati uliopita ni «walifanya» na «walifaulu»."
@@ -1815,9 +1815,9 @@
           "prompt": "Chagua kanuni sahihi inayofafanua muundo wa wakati uliopita katika Kiswahili:",
           "options": [
             "Kitenzi cha wakati uliopita kinatumia kiambishi cha wakati '-li-' kati ya kiambishi nafsi na shina la kitenzi (mfano: ni-li-soma)",
-            "Wakati uliopita unatumia kiambishi '-ta-' pekee. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))",
-            "Kiswahili hakina kiambishi cha wakati uliopita bali kinatumia neno 'zamani' pekee. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))",
-            "Wakati uliopita huondoa herufi zote za mwanzo za kitenzi. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili (U4))"
+            "Wakati uliopita unatumia kiambishi '-ta-' pekee. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)",
+            "Kiswahili hakina kiambishi cha wakati uliopita bali kinatumia neno 'zamani' pekee. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)",
+            "Wakati uliopita huondoa herufi zote za mwanzo za kitenzi. (Kuelewa muundo wa kitenzi cha wakati uliopita katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Kitenzi cha wakati uliopita kinatumia kiambishi cha wakati '-li-' kati ya kiambishi nafsi na shina la kitenzi (mfano: ni-li-soma).» ndiyo kanuni sahihi ya sarufi."
@@ -1865,10 +1865,10 @@
         {
           "prompt": "Chagua kitenzi sahihi cha wakati uliopita kinachomaanisha \"Sisi tulikula chakula jana\":",
           "options": [
-            "tulikula (Kutambua na kutumia vitenzi vya silabi moja kula (U4))",
-            "tulila (Kutambua na kutumia vitenzi vya silabi moja kula (U4))",
-            "tulilia (Kutambua na kutumia vitenzi vya silabi moja kula (U4))",
-            "tulilala (Kutambua na kutumia vitenzi vya silabi moja kula (U4))"
+            "tulikula (Kutambua na kutumia vitenzi vya silabi moja kula)",
+            "tulila (Kutambua na kutumia vitenzi vya silabi moja kula)",
+            "tulilia (Kutambua na kutumia vitenzi vya silabi moja kula)",
+            "tulilala (Kutambua na kutumia vitenzi vya silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «-la» kikiwa katika wakati uliopita huhifadhi «ku-», hivyo husemwa «tulikula»."
@@ -1880,10 +1880,10 @@
         {
           "prompt": "Sentensi ipi inatumia vitenzi vya silabi moja katika wakati uliopita kwa usahihi kabisa?",
           "options": [
-            "Wageni walikuja asubuhi na walikunywa kahawa moto. (Kutambua na kutumia vitenzi vya silabi moja kula (U4))",
-            "Wageni walija asubuhi na walinywa kahawa moto (Kutambua na kutumia vitenzi vya silabi moja kula (U4))",
-            "Wageni walikula kahawa moto (Kutambua na kutumia vitenzi vya silabi moja kula (U4))",
-            "Wageni watakuja kesho asubuhi (Kutambua na kutumia vitenzi vya silabi moja kula (U4))"
+            "Wageni walikuja asubuhi na walikunywa kahawa moto. (Kutambua na kutumia vitenzi vya silabi moja kula)",
+            "Wageni walija asubuhi na walinywa kahawa moto (Kutambua na kutumia vitenzi vya silabi moja kula)",
+            "Wageni walikula kahawa moto (Kutambua na kutumia vitenzi vya silabi moja kula)",
+            "Wageni watakuja kesho asubuhi (Kutambua na kutumia vitenzi vya silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "Muundo sanifu wa vitenzi vya silabi moja katika wakati uliopita ni «walikuja» na «walikunywa»."
@@ -1897,9 +1897,9 @@
           "prompt": "Chagua kanuni sahihi kuhusu vitenzi vya silabi moja katika wakati uliopita (-li-):",
           "options": [
             "Vitenzi vyenye shina la silabi moja kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati uliopita (nilikula, alikunywa, walikuja)",
-            "Vitenzi vyote vya Kiswahili hufuta herufi zake za mwisho katika wakati uliopita. (Kutambua na kutumia vitenzi vya silabi moja kula (U4))",
-            "Kiambishi 'ku-' hutumika tu katika wakati ujao na hakipatikani kamwe katika wakati uliopita. (Kutambua na kutumia vitenzi vya silabi moja kula (U4))",
-            "Vitenzi vya silabi moja havina wakati uliopita katika lugha ya Kiswahili. (Kutambua na kutumia vitenzi vya silabi moja kula (U4))"
+            "Vitenzi vyote vya Kiswahili hufuta herufi zake za mwisho katika wakati uliopita. (Kutambua na kutumia vitenzi vya silabi moja kula)",
+            "Kiambishi 'ku-' hutumika tu katika wakati ujao na hakipatikani kamwe katika wakati uliopita. (Kutambua na kutumia vitenzi vya silabi moja kula)",
+            "Vitenzi vya silabi moja havina wakati uliopita katika lugha ya Kiswahili. (Kutambua na kutumia vitenzi vya silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "«Vitenzi vyenye shina la silabi moja kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati uliopita (nilikula, alikunywa, walikuja).» ndiyo kanuni kuu."
@@ -1947,10 +1947,10 @@
         {
           "prompt": "Kielezi kipi cha wakati kinamaanisha siku iliyotangulia jana (Two days ago)?",
           "options": [
-            "Juzi (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Kesho (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Sasa hivi (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Keshokutwa (Kutumia vielezi vya wakati uliopita jana (U4))"
+            "Juzi (Kutumia vielezi vya wakati uliopita jana)",
+            "Kesho (Kutumia vielezi vya wakati uliopita jana)",
+            "Sasa hivi (Kutumia vielezi vya wakati uliopita jana)",
+            "Keshokutwa (Kutumia vielezi vya wakati uliopita jana)"
           ],
           "answerIndex": 0,
           "explanation": "Neno «Juzi» linamaanisha siku iliyotangulia jana (the day before yesterday)."
@@ -1962,10 +1962,10 @@
         {
           "prompt": "Sentensi ipi ina mtiririko sahihi wa masimulizi ya wakati uliopita?",
           "options": [
-            "Kwanza tulifika kijijini, halafu tulisalimia wazee, na mwishowe tulikula chakula cha jioni. (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Kwanza tulifika kijijini, kesho tutasalimia wazee, na jana tulikula chakula (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Halafu tulifika kijijini kwanza kabla ya kuanza safari (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Zamani tulikula chakula kesho asubuhi (Kutumia vielezi vya wakati uliopita jana (U4))"
+            "Kwanza tulifika kijijini, halafu tulisalimia wazee, na mwishowe tulikula chakula cha jioni. (Kutumia vielezi vya wakati uliopita jana)",
+            "Kwanza tulifika kijijini, kesho tutasalimia wazee, na jana tulikula chakula (Kutumia vielezi vya wakati uliopita jana)",
+            "Halafu tulifika kijijini kwanza kabla ya kuanza safari (Kutumia vielezi vya wakati uliopita jana)",
+            "Zamani tulikula chakula kesho asubuhi (Kutumia vielezi vya wakati uliopita jana)"
           ],
           "answerIndex": 0,
           "explanation": "«Kwanza tulifika kijijini, halafu tulisalimia wazee, na mwishowe tulikula chakula cha jioni.» inafuata mtiririko mzuri wa hadithi katika wakati uliopita."
@@ -1978,10 +1978,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha sahihi ya vielezi vinavyotumika pekee kuelezea wakati uliopita katika Kiswahili:",
           "options": [
-            "Jana, juzi, mwaka jana, wiki iliyopita, hapo zamani. (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Kesho, keshokutwa, mwaka ujao, sasa hivi. (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Daima, mara kwa mara, kamwe, kila siku. (Kutumia vielezi vya wakati uliopita jana (U4))",
-            "Badae, usiku wa kesho, mapema kesho kutwa. (Kutumia vielezi vya wakati uliopita jana (U4))"
+            "Jana, juzi, mwaka jana, wiki iliyopita, hapo zamani. (Kutumia vielezi vya wakati uliopita jana)",
+            "Kesho, keshokutwa, mwaka ujao, sasa hivi. (Kutumia vielezi vya wakati uliopita jana)",
+            "Daima, mara kwa mara, kamwe, kila siku. (Kutumia vielezi vya wakati uliopita jana)",
+            "Badae, usiku wa kesho, mapema kesho kutwa. (Kutumia vielezi vya wakati uliopita jana)"
           ],
           "answerIndex": 0,
           "explanation": "«Jana, juzi, mwaka jana, wiki iliyopita, hapo zamani.» ndivyo vielezi halisi vya wakati uliopita."
@@ -2029,10 +2029,10 @@
         {
           "prompt": "Sentensi ipi ina upatanisho sahihi wa wakati uliopita kwa nomino ya Ngeli ya 5 (Gari)?",
           "options": [
-            "Gari jipya lilinunuliwa mjini jana. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Gari jipya kilinunuliwa mjini jana (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Gari jipya yalinunuliwa mjini jana (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Gari jipya zilinunuliwa mjini jana (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))"
+            "Gari jipya lilinunuliwa mjini jana. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Gari jipya kilinunuliwa mjini jana (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Gari jipya yalinunuliwa mjini jana (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Gari jipya zilinunuliwa mjini jana (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Gari» (umoja katika Ngeli ya JI-MA) huchukua kiambishi cha kitenzi «li-», hivyo katika wakati uliopita huwa «lilinunuliwa»."
@@ -2044,10 +2044,10 @@
         {
           "prompt": "Unapozungumzia miti mingi iliyoanguka (Ngeli ya 4 M-MI wingi), kitenzi sahihi cha wakati uliopita ni kipi?",
           "options": [
-            "Miti mikubwa ilianguka barabarani. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Miti mikubwa ulianguka barabarani (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Miti mikubwa yalianguka barabarani (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Miti mikubwa walianguka barabarani (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))"
+            "Miti mikubwa ilianguka barabarani. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Miti mikubwa ulianguka barabarani (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Miti mikubwa yalianguka barabarani (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Miti mikubwa walianguka barabarani (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya wingi «Miti» (Ngeli ya M-MI) huchukua kiambishi cha kitenzi «i-», hivyo huwa «ilianguka»."
@@ -2060,10 +2060,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sanifu na kamilifu wa wakati uliopita katika ngeli mbalimbali:",
           "options": [
-            "Chakula kitamu kiliiva jikoni, gari zuri lilifika langoni, na nyumba mpya zilijengwa haraka. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Chakula kitamu lilifika jikoni na magari yote kilinunuliwa. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Miti yote zilianguka wakati gari jipya walifika nyumbani. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))",
-            "Nyumba zote ilijengwa na vitabu vyote lilifunguliwa jana. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U4))"
+            "Chakula kitamu kiliiva jikoni, gari zuri lilifika langoni, na nyumba mpya zilijengwa haraka. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Chakula kitamu lilifika jikoni na magari yote kilinunuliwa. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Miti yote zilianguka wakati gari jipya walifika nyumbani. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Nyumba zote ilijengwa na vitabu vyote lilifunguliwa jana. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "«Chakula kitamu kiliiva jikoni, gari zuri lilifika langoni, na nyumba mpya zilijengwa haraka.» inafuata upatanisho sahihi wa KI-VI (ki-), JI-MA (li-), na N-N (zi-)."
@@ -2111,10 +2111,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa wakati uliopita (-li-) kwa vitenzi vya kawaida na vya silabi moja?",
           "options": [
-            "Wanafunzi walisoma kwa bidii na jana walikula chakula cha mchana pamoja. (Kuunganisha mada zote za Unit 4 (U4))",
-            "Wanafunzi wanasoma kwa bidii na kesho walikula chakula (Kuunganisha mada zote za Unit 4 (U4))",
-            "Wanafunzi walila chakula jana jioni (Kuunganisha mada zote za Unit 4 (U4))",
-            "Wanafunzi watasoma vitabu jana asubuhi (Kuunganisha mada zote za Unit 4 (U4))"
+            "Wanafunzi walisoma kwa bidii na jana walikula chakula cha mchana pamoja. (Kuunganisha mada zote za Unit 4)",
+            "Wanafunzi wanasoma kwa bidii na kesho walikula chakula (Kuunganisha mada zote za Unit 4)",
+            "Wanafunzi walila chakula jana jioni (Kuunganisha mada zote za Unit 4)",
+            "Wanafunzi watasoma vitabu jana asubuhi (Kuunganisha mada zote za Unit 4)"
           ],
           "answerIndex": 0,
           "explanation": "«Wanafunzi walisoma kwa bidii na jana walikula chakula cha mchana pamoja.» inatumia kiambishi «-li-» na kuhifadhi «ku-» kwa usahihi."
@@ -2126,10 +2126,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 4, ni jambo gani la msingi kuhusu kiambishi '-li-' katika vitenzi vya Kiswahili?",
           "options": [
-            "Kiambishi '-li-' kinaeleza tendo lililofanyika na kukamilika hapo awali, kikiungana na viambishi vyote vya ngeli. (Kuunganisha mada zote za Unit 4 (U4))",
-            "Kiambishi '-li-' kinatumika tu kwa vitendo vitakavyofanyika kesho kutwa (Kuunganisha mada zote za Unit 4 (U4))",
-            "Kiambishi '-li-' hakiwezi kutumiwa na majina ya watu (Kuunganisha mada zote za Unit 4 (U4))",
-            "Hakuna tofauti ya kisarufi kati ya '-li-' na '-na-' (Kuunganisha mada zote za Unit 4 (U4))"
+            "Kiambishi '-li-' kinaeleza tendo lililofanyika na kukamilika hapo awali, kikiungana na viambishi vyote vya ngeli. (Kuunganisha mada zote za Unit 4)",
+            "Kiambishi '-li-' kinatumika tu kwa vitendo vitakavyofanyika kesho kutwa (Kuunganisha mada zote za Unit 4)",
+            "Kiambishi '-li-' hakiwezi kutumiwa na majina ya watu (Kuunganisha mada zote za Unit 4)",
+            "Hakuna tofauti ya kisarufi kati ya '-li-' na '-na-' (Kuunganisha mada zote za Unit 4)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi «-li-» kinaonyesha vitendo vilivyotendeka na kukamilika wakati uliopita."
@@ -2142,10 +2142,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 4 ya Wakati Uliopita katika Kiswahili:",
           "options": [
-            "Jana jioni wageni wote walifika nyumbani kwetu, tulikunywa chai ya tangawizi pamoja, na wazee walitusimulia hadithi za kale za kusisimua. (Kuunganisha mada zote za Unit 4 (U4))",
-            "Jana jioni wageni wote atafika nyumbani na kesho tulikunywa chai. (Kuunganisha mada zote za Unit 4 (U4))",
-            "Wageni wote linakunywa chai wakati wazee watasoma hadithi jana. (Kuunganisha mada zote za Unit 4 (U4))",
-            "Wakati uliopita unakataza matumizi ya neno 'jana' na 'juzi'. (Kuunganisha mada zote za Unit 4 (U4))"
+            "Jana jioni wageni wote walifika nyumbani kwetu, tulikunywa chai ya tangawizi pamoja, na wazee walitusimulia hadithi za kale za kusisimua. (Kuunganisha mada zote za Unit 4)",
+            "Jana jioni wageni wote atafika nyumbani na kesho tulikunywa chai. (Kuunganisha mada zote za Unit 4)",
+            "Wageni wote linakunywa chai wakati wazee watasoma hadithi jana. (Kuunganisha mada zote za Unit 4)",
+            "Wakati uliopita unakataza matumizi ya neno 'jana' na 'juzi'. (Kuunganisha mada zote za Unit 4)"
           ],
           "answerIndex": 0,
           "explanation": "«Jana jioni wageni wote walifika nyumbani kwetu, tulikunywa chai ya tangawizi pamoja, na wazee walitusimulia hadithi za kale za kusisimua.» inajumuisha mada zote za Unit 4 kwa ufasaha mkubwa."
@@ -2193,10 +2193,10 @@
         {
           "prompt": "Sentensi sahihi inayoelezea tendo litakalofanyika kesho na nafsi ya pili umoja (Wewe) ni ipi?",
           "options": [
-            "Wewe utasoma kitabu hiki kesho asubuhi. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))",
-            "Wewe ulisoma kitabu hiki kesho asubuhi (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))",
-            "Wewe wanasoma kitabu hiki kesho (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))",
-            "Wewe titasoma kitabu hiki kesho (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))"
+            "Wewe utasoma kitabu hiki kesho asubuhi. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)",
+            "Wewe ulisoma kitabu hiki kesho asubuhi (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)",
+            "Wewe wanasoma kitabu hiki kesho (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)",
+            "Wewe titasoma kitabu hiki kesho (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi nafsi cha «Wewe» ni «u-» kikiungana na kiambishi cha wakati ujao «-ta-» kupata «utasoma»."
@@ -2208,10 +2208,10 @@
         {
           "prompt": "Unapoelezea mpango wa wanafunzi (Wao) kusafiri wiki ijayo, sentensi ipi ni sanifu?",
           "options": [
-            "Wanafunzi watasafiri kwenda mbugani wiki ijayo. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))",
-            "Wanafunzi alisafiri kwenda mbugani wiki ijayo (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))",
-            "Wanafunzi ninatesafiri wiki ijayo (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))",
-            "Wanafunzi walisafiri kesho asubuhi (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))"
+            "Wanafunzi watasafiri kwenda mbugani wiki ijayo. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)",
+            "Wanafunzi alisafiri kwenda mbugani wiki ijayo (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)",
+            "Wanafunzi ninatesafiri wiki ijayo (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)",
+            "Wanafunzi walisafiri kesho asubuhi (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Kwa nafsi ya tatu wingi (Wao/Wanafunzi), kitenzi sahihi cha wakati ujao ni «watasafiri»."
@@ -2225,9 +2225,9 @@
           "prompt": "Chagua kanuni sahihi inayofafanua muundo wa wakati ujao katika Kiswahili:",
           "options": [
             "Kitenzi cha wakati ujao kinatumia kiambishi cha wakati '-ta-' kati ya kiambishi nafsi na shina la kitenzi (mfano: ni-ta-soma)",
-            "Wakati ujao unatumia kiambishi '-li-' pekee. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))",
-            "Wakati ujao hauwezi kutumika na vitenzi vinavyoanza na herufi 's'. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))",
-            "Kiambishi cha wakati ujao huwekwa mwishoni kabisa mwa sentensi. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili (U5))"
+            "Wakati ujao unatumia kiambishi '-li-' pekee. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)",
+            "Wakati ujao hauwezi kutumika na vitenzi vinavyoanza na herufi 's'. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)",
+            "Kiambishi cha wakati ujao huwekwa mwishoni kabisa mwa sentensi. (Kuelewa muundo wa kitenzi cha wakati ujao katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Kitenzi cha wakati ujao kinatumia kiambishi cha wakati '-ta-' kati ya kiambishi nafsi na shina la kitenzi (mfano: ni-ta-soma).» ndiyo kanuni ya sarufi."
@@ -2275,10 +2275,10 @@
         {
           "prompt": "Chagua kitenzi sahihi cha wakati ujao kinachomaanisha \"Mimi nitakunywa maji safi\":",
           "options": [
-            "nitakunywa (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "nitanywa (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "nitalikunywa (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "niliyakunywa (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))"
+            "nitakunywa (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "nitanywa (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "nitalikunywa (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "niliyakunywa (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «-nywa» ni cha silabi moja, hivyo huhifadhi «ku-» katika wakati ujao: «nitakunywa»."
@@ -2290,10 +2290,10 @@
         {
           "prompt": "Sentensi ipi inatumia vitenzi vya silabi moja katika wakati ujao kwa usahihi wa kisarufi?",
           "options": [
-            "Wageni watakuja kesho mchana na watakula chakula chetu kitamu. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "Wageni wataja kesho na watala chakula chetu (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "Wageni walikuja kesho asubuhi (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "Wageni wanakula chakula jana mchana (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))"
+            "Wageni watakuja kesho mchana na watakula chakula chetu kitamu. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "Wageni wataja kesho na watala chakula chetu (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "Wageni walikuja kesho asubuhi (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "Wageni wanakula chakula jana mchana (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi sanifu vyenye kuhifadhi «ku-» katika wakati ujao ni «watakuja» na «watakula»."
@@ -2306,10 +2306,10 @@
           "type": "multiple-choice",
           "prompt": "Kwanini vitenzi kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati ujao (-ta-)?",
           "options": [
-            "Kwa sababu ni vitenzi vya silabi moja vinavyohitaji silabi ya ziada ili mkazo wa sauti utue kwenye silabi ya pili kutoka mwisho. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "Kwa sababu herufi 'k' ni herufi ya bahati katika Kiswahili. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "Kwa sababu havina mashina ya vitenzi. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))",
-            "Ni kosa la kimazungumzo lisilo na maelezo ya kisarufi. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula (U5))"
+            "Kwa sababu ni vitenzi vya silabi moja vinavyohitaji silabi ya ziada ili mkazo wa sauti utue kwenye silabi ya pili kutoka mwisho. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "Kwa sababu herufi 'k' ni herufi ya bahati katika Kiswahili. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "Kwa sababu havina mashina ya vitenzi. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)",
+            "Ni kosa la kimazungumzo lisilo na maelezo ya kisarufi. (Kutambua na kutumia vitenzi vyenye shina la silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "«Kwa sababu ni vitenzi vya silabi moja vinavyohitaji silabi ya ziada ili mkazo wa sauti utue kwenye silabi ya pili kutoka mwisho.» ndiyo kanuni kuu ya kifonolojia."
@@ -2357,10 +2357,10 @@
         {
           "prompt": "Kielezi kipi cha wakati kinamaanisha siku inayofuata baada ya kesho (Day after tomorrow)?",
           "options": [
-            "Keshokutwa (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Jana (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Juzi (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Zamani (Kutumia vielezi vya wakati ujao kesho (U5))"
+            "Keshokutwa (Kutumia vielezi vya wakati ujao kesho)",
+            "Jana (Kutumia vielezi vya wakati ujao kesho)",
+            "Juzi (Kutumia vielezi vya wakati ujao kesho)",
+            "Zamani (Kutumia vielezi vya wakati ujao kesho)"
           ],
           "answerIndex": 0,
           "explanation": "Neno «Keshokutwa» linamaanisha siku inayofuata baada ya kesho (the day after tomorrow)."
@@ -2372,10 +2372,10 @@
         {
           "prompt": "Sentensi ipi inaonyesha mpango madhubuti wa wakati ujao kwa mtiririko sahihi wa kisarufi?",
           "options": [
-            "Mwezi ujao tutajenga darasa jipya na mwalimu mpya atawasili. (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Mwezi ujao tulijenga darasa jipya jana asubuhi (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Kesho asubuhi mwalimu alifika darasani mapema (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Mwakani ninasoma darasa hili jana usiku (Kutumia vielezi vya wakati ujao kesho (U5))"
+            "Mwezi ujao tutajenga darasa jipya na mwalimu mpya atawasili. (Kutumia vielezi vya wakati ujao kesho)",
+            "Mwezi ujao tulijenga darasa jipya jana asubuhi (Kutumia vielezi vya wakati ujao kesho)",
+            "Kesho asubuhi mwalimu alifika darasani mapema (Kutumia vielezi vya wakati ujao kesho)",
+            "Mwakani ninasoma darasa hili jana usiku (Kutumia vielezi vya wakati ujao kesho)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwezi ujao tutajenga darasa jipya na mwalimu mpya atawasili.» inaoanisha vielezi vya wakati ujao na vitenzi vya «-ta-» kwa usahihi."
@@ -2388,10 +2388,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua vielezi vinavyotumika kueleza wakati ujao pekee katika lugha ya Kiswahili:",
           "options": [
-            "Kesho, keshokutwa, wiki ijayo, mwezi ujao, mwakani, baadaye. (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Jana, juzi, juzi juzi, mwaka jana, zamani za kale. (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Sasa hivi, hivi punde, papo hapo, wakati huu. (Kutumia vielezi vya wakati ujao kesho (U5))",
-            "Zamani, kale, wakati ule wa wazee wa zamani. (Kutumia vielezi vya wakati ujao kesho (U5))"
+            "Kesho, keshokutwa, wiki ijayo, mwezi ujao, mwakani, baadaye. (Kutumia vielezi vya wakati ujao kesho)",
+            "Jana, juzi, juzi juzi, mwaka jana, zamani za kale. (Kutumia vielezi vya wakati ujao kesho)",
+            "Sasa hivi, hivi punde, papo hapo, wakati huu. (Kutumia vielezi vya wakati ujao kesho)",
+            "Zamani, kale, wakati ule wa wazee wa zamani. (Kutumia vielezi vya wakati ujao kesho)"
           ],
           "answerIndex": 0,
           "explanation": "«Kesho, keshokutwa, wiki ijayo, mwezi ujao, mwakani, baadaye.» ndivyo vielezi halisi vya wakati ujao."
@@ -2439,10 +2439,10 @@
         {
           "prompt": "Sentensi ipi ina upatanisho sahihi wa wakati ujao kwa nomino ya Ngeli ya 7 (Kitabu)?",
           "options": [
-            "Kitabu kizuri kitachapishwa wiki ijayo. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Kitabu kizuri litachapishwa wiki ijayo (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Kitabu kizuri yatachapishwa wiki ijayo (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Kitabu kizuri watachapishwa wiki ijayo (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))"
+            "Kitabu kizuri kitachapishwa wiki ijayo. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Kitabu kizuri litachapishwa wiki ijayo (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Kitabu kizuri yatachapishwa wiki ijayo (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Kitabu kizuri watachapishwa wiki ijayo (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Kitabu» (umoja katika Ngeli ya KI-VI) huchukua kiambishi cha kitenzi «ki-», hivyo katika wakati ujao huwa «kitachapishwa»."
@@ -2454,10 +2454,10 @@
         {
           "prompt": "Unapozungumzia magari mengi yatakayofika (Ngeli ya 6 JI-MA wingi), kitenzi sahihi cha wakati ujao ni kipi?",
           "options": [
-            "Magari mengi yatawasili mjini kesho. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Magari mengi litawasili mjini kesho (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Magari mengi zitawasili mjini kesho (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Magari mengi watawasili mjini kesho (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))"
+            "Magari mengi yatawasili mjini kesho. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Magari mengi litawasili mjini kesho (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Magari mengi zitawasili mjini kesho (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Magari mengi watawasili mjini kesho (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya wingi «Magari» (Ngeli ya JI-MA) huchukua kiambishi cha kitenzi «ya-», hivyo katika wakati ujao huwa «yatawasili»."
@@ -2470,10 +2470,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi na sanifu wa wakati ujao katika ngeli mbalimbali:",
           "options": [
-            "Chakula kitamu kitaandaliwa mezani, gari jipya litafika, na nyumba mpya zitajengwa mjini. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Chakula kitamu litafika mezani na magari yote kitanunuliwa. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Miti yote zitaanguka wakati gari jipya watafika nyumbani. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))",
-            "Nyumba zote itajengwa na vitabu vyote litafunguliwa kesho. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI (U5))"
+            "Chakula kitamu kitaandaliwa mezani, gari jipya litafika, na nyumba mpya zitajengwa mjini. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Chakula kitamu litafika mezani na magari yote kitanunuliwa. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Miti yote zitaanguka wakati gari jipya watafika nyumbani. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)",
+            "Nyumba zote itajengwa na vitabu vyote litafunguliwa kesho. (Kutambua upatanisho wa kisarufi wa ngeli nyingine KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "«Chakula kitamu kitaandaliwa mezani, gari jipya litafika, na nyumba mpya zitajengwa mjini.» inafuata upatanisho kamili wa ngeli za KI-VI (ki-), JI-MA (li-), na N-N (zi-) katika wakati ujao."
@@ -2521,10 +2521,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa wakati ujao (-ta-) kwa vitenzi vya kawaida na vitenzi vya silabi moja?",
           "options": [
-            "Wanafunzi watasoma kwa bidii na kesho watakula chakula cha mchana pamoja. (Kuunganisha mada zote za Unit 5 (U5))",
-            "Wanafunzi walisoma kwa bidii na kesho watala chakula (Kuunganisha mada zote za Unit 5 (U5))",
-            "Wanafunzi watasoma jana asubuhi (Kuunganisha mada zote za Unit 5 (U5))",
-            "Vitabu vyote watasoma wanafunzi wote kesho (Kuunganisha mada zote za Unit 5 (U5))"
+            "Wanafunzi watasoma kwa bidii na kesho watakula chakula cha mchana pamoja. (Kuunganisha mada zote za Unit 5)",
+            "Wanafunzi walisoma kwa bidii na kesho watala chakula (Kuunganisha mada zote za Unit 5)",
+            "Wanafunzi watasoma jana asubuhi (Kuunganisha mada zote za Unit 5)",
+            "Vitabu vyote watasoma wanafunzi wote kesho (Kuunganisha mada zote za Unit 5)"
           ],
           "answerIndex": 0,
           "explanation": "«Wanafunzi watasoma kwa bidii na kesho watakula chakula cha mchana pamoja.» inatumia kitenzi cha kawaida «watasoma» na kitenzi cha silabi moja «watakula» kwa usahihi."
@@ -2536,10 +2536,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 5, ni jambo gani la msingi kuhusu kiambishi '-ta-' katika vitenzi vya Kiswahili?",
           "options": [
-            "Kiambishi '-ta-' kinaeleza tendo litakalofanyika mbeleni, kikiungana na viambishi vyote vya ngeli na kuhifadhi 'ku-' kwa vitenzi vya silabi moja. (Kuunganisha mada zote za Unit 5 (U5))",
-            "Kiambishi '-ta-' kinatumika tu kueleza hadithi za kale za vizazi vilivyopita (Kuunganisha mada zote za Unit 5 (U5))",
-            "Kiambishi '-ta-' kinakataza matumizi ya maneno kama 'kesho' (Kuunganisha mada zote za Unit 5 (U5))",
-            "Hakuna tofauti ya kisarufi kati ya '-ta-' na '-li-' (Kuunganisha mada zote za Unit 5 (U5))"
+            "Kiambishi '-ta-' kinaeleza tendo litakalofanyika mbeleni, kikiungana na viambishi vyote vya ngeli na kuhifadhi 'ku-' kwa vitenzi vya silabi moja. (Kuunganisha mada zote za Unit 5)",
+            "Kiambishi '-ta-' kinatumika tu kueleza hadithi za kale za vizazi vilivyopita (Kuunganisha mada zote za Unit 5)",
+            "Kiambishi '-ta-' kinakataza matumizi ya maneno kama 'kesho' (Kuunganisha mada zote za Unit 5)",
+            "Hakuna tofauti ya kisarufi kati ya '-ta-' na '-li-' (Kuunganisha mada zote za Unit 5)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi «-ta-» kinaeleza vitendo vitakavyotendeka siku zijazo na huhifadhi «ku-» kwa vitenzi vya silabi moja."
@@ -2552,10 +2552,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 5 ya Wakati Ujao katika Kiswahili:",
           "options": [
-            "Kesho asubuhi wageni wote watakuja nyumbani kwetu, tutakunywa chai ya viungo pamoja, na tutapanga safari ya kutembelea mji wa Zanzibar. (Kuunganisha mada zote za Unit 5 (U5))",
-            "Kesho asubuhi wageni wote alikuja nyumbani na jana tutakunywa chai. (Kuunganisha mada zote za Unit 5 (U5))",
-            "Wageni wote litakunywa chai wakati wazee walisoma hadithi kesho. (Kuunganisha mada zote za Unit 5 (U5))",
-            "Wakati ujao unakataza matumizi ya neno 'kesho' na 'keshokutwa'. (Kuunganisha mada zote za Unit 5 (U5))"
+            "Kesho asubuhi wageni wote watakuja nyumbani kwetu, tutakunywa chai ya viungo pamoja, na tutapanga safari ya kutembelea mji wa Zanzibar. (Kuunganisha mada zote za Unit 5)",
+            "Kesho asubuhi wageni wote alikuja nyumbani na jana tutakunywa chai. (Kuunganisha mada zote za Unit 5)",
+            "Wageni wote litakunywa chai wakati wazee walisoma hadithi kesho. (Kuunganisha mada zote za Unit 5)",
+            "Wakati ujao unakataza matumizi ya neno 'kesho' na 'keshokutwa'. (Kuunganisha mada zote za Unit 5)"
           ],
           "answerIndex": 0,
           "explanation": "«Kesho asubuhi wageni wote watakuja nyumbani kwetu, tutakunywa chai ya viungo pamoja, na tutapanga safari ya kutembelea mji wa Zanzibar.» inajumuisha mada zote za Unit 5 kwa ufasaha wa hali ya juu."
@@ -2603,10 +2603,10 @@
         {
           "prompt": "Sentensi sahihi inayoelezea nafsi ya kwanza wingi (Sisi) katika wakati timilifu wa kitenzi 'faulu' ni ipi?",
           "options": [
-            "Sisi tumefaulu mtihani wetu vizuri. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Sisi ninamefaulu mtihani wetu vizuri (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Sisi wamefaulu mtihani wetu vizuri (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Sisi amefaulu mtihani wetu vizuri (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))"
+            "Sisi tumefaulu mtihani wetu vizuri. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Sisi ninamefaulu mtihani wetu vizuri (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Sisi wamefaulu mtihani wetu vizuri (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Sisi amefaulu mtihani wetu vizuri (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi nafsi cha «Sisi» ni «tu-» kikiungana na kiambishi cha wakati timilifu «-me-» kupata «tumefaulu»."
@@ -2618,10 +2618,10 @@
         {
           "prompt": "Mgeni anapobisha hodi na kuingia ndani ya nyumba sasa hivi, unamtaarifu mwenye nyumba kwa kauli ipi?",
           "options": [
-            "Mgeni amefika sasa hivi na yuko mlangoni. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Mgeni atafika jana jioni (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Mgeni walifika kesho asubuhi (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Mgeni nimefika nyumbani kwako (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))"
+            "Mgeni amefika sasa hivi na yuko mlangoni. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Mgeni atafika jana jioni (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Mgeni walifika kesho asubuhi (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Mgeni nimefika nyumbani kwako (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)"
           ],
           "answerIndex": 0,
           "explanation": "Kwa tendo lililokamilika sasa lenye matokeo ya moja kwa moja, hutumika wakati timilifu: «Mgeni amefika»."
@@ -2634,10 +2634,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua kanuni inayotofautisha Wakati Timilifu (-me-) na Wakati Uliopita (-li-) katika Kiswahili:",
           "options": [
-            "Kiambishi '-me-' kinaonyesha tendo lililokamilika lakini athari au matokeo yake yapo wazi wakati wa sasa, wakati '-li-' linaeleza tendo la zamani lililopita. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Kiambishi '-me-' kinatumika tu kwa chakula na si kwa binadamu. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Wakati timilifu unakataza matumizi ya viambishi nafsi. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))",
-            "Hakuna tofauti yoyote ya maana kati ya '-me-' na '-li-'. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me (U6))"
+            "Kiambishi '-me-' kinaonyesha tendo lililokamilika lakini athari au matokeo yake yapo wazi wakati wa sasa, wakati '-li-' linaeleza tendo la zamani lililopita. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Kiambishi '-me-' kinatumika tu kwa chakula na si kwa binadamu. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Wakati timilifu unakataza matumizi ya viambishi nafsi. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)",
+            "Hakuna tofauti yoyote ya maana kati ya '-me-' na '-li-'. (Kuelewa muundo na maana ya Wakati Timilifu Perfective Aspect wenye kiambishi me)"
           ],
           "answerIndex": 0,
           "explanation": "«Kiambishi '-me-' kinaonyesha tendo lililokamilika lakini athari au matokeo yake yapo wazi wakati wa sasa, wakati '-li-' linaeleza tendo la zamani lililopita.» ndiyo kanuni kuu ya kisemantiki."
@@ -2685,10 +2685,10 @@
         {
           "prompt": "Unapotaka kusema kwa Kiswahili fasaha kwamba \"Umeshiba na huwezi kula tena sasa hivi\", unatumia kauli gani?",
           "options": [
-            "Nimeshiba sana asante. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "Ninashiba sasa hivi (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "Nalishiba jana usiku (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "Nitashiba kesho asubuhi (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))"
+            "Nimeshiba sana asante. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "Ninashiba sasa hivi (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "Nalishiba jana usiku (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "Nitashiba kesho asubuhi (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «shiba» katika wakati timilifu «nimeshiba» kinamaanisha kuwa uko katika hali ya kushiba hivi sasa."
@@ -2700,10 +2700,10 @@
         {
           "prompt": "Sentensi ipi inaeleza kwa usahihi hali ya mtu aliyelala kitandani sasa hivi?",
           "options": [
-            "Mtoto amelala usingizi mnono kitandani. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "Mtoto analala jana usiku (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "Mtoto alilala kesho mchana (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "Mtoto kitalala kitandani sasa (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))"
+            "Mtoto amelala usingizi mnono kitandani. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "Mtoto analala jana usiku (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "Mtoto alilala kesho mchana (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "Mtoto kitalala kitandani sasa (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "Usemi «amelala» unaeleza hali ya mtoto kuwa usingizini wakati huu."
@@ -2716,10 +2716,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha ya vitenzi vya hali (stative verbs) vinavyotafsiriwa kama hali ya sasa vinapochukua kiambishi '-me-':",
           "options": [
-            "kuchoka (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "kukimbia, kuruka, kuandika, kusoma vitabu. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "kuimba, kupiga picha, kuhesabu, kuchora picha. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))",
-            "kufungua, kufunga, kupanda, kushuka. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs (U6))"
+            "kuchoka (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "kukimbia, kuruka, kuandika, kusoma vitabu. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "kuimba, kupiga picha, kuhesabu, kuchora picha. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)",
+            "kufungua, kufunga, kupanda, kushuka. (Kutambua tabia ya kipekee ya vitenzi vya hali Stative  Inchoative Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya kuingia katika hali kama kuchoka, kushiba, kulala na kuvaa ndivyo vinavyotoa maana ya hali ya sasa vikiwa na «-me-»."
@@ -2767,10 +2767,10 @@
         {
           "prompt": "Chagua kitenzi sahihi cha wakati timilifu kinachomaanisha \"Yeye amekula chakula\":",
           "options": [
-            "amekula (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))",
-            "amela (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))",
-            "amelia (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))",
-            "ametoka (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))"
+            "amekula (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)",
+            "amela (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)",
+            "amelia (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)",
+            "ametoka (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «-la» katika wakati timilifu hubakiza «ku-», hivyo huwa «amekula»."
@@ -2782,10 +2782,10 @@
         {
           "prompt": "Sentensi ipi inatumia vitenzi vya silabi moja katika wakati timilifu kwa usahihi kabisa?",
           "options": [
-            "Wageni wamekuja nyumbani kwetu na wamekunywa juisi baridi. (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))",
-            "Wageni wameja nyumbani na wamenywa juisi (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))",
-            "Wageni wamekuja jana badala ya leo (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))",
-            "Wageni watakuja jana jioni (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))"
+            "Wageni wamekuja nyumbani kwetu na wamekunywa juisi baridi. (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)",
+            "Wageni wameja nyumbani na wamenywa juisi (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)",
+            "Wageni wamekuja jana badala ya leo (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)",
+            "Wageni watakuja jana jioni (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "Muundo sanifu wa vitenzi vya silabi moja katika wakati timilifu ni «wamekuja» na «wamekunywa»."
@@ -2799,9 +2799,9 @@
           "prompt": "Chagua kanuni sahihi kuhusu vitenzi vya silabi moja katika wakati timilifu (-me-):",
           "options": [
             "Vitenzi vyenye shina la silabi moja kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati timilifu (nimekula, amekunywa, wamekuja, tumekwenda)",
-            "Kiambishi 'ku-' hufutwa kila wakati katika wakati timilifu. (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))",
-            "Vitenzi vya silabi moja havina wakati timilifu. (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))",
-            "Kiambishi 'ku-' hubadilika kuwa 'ki-' katika wakati timilifu. (Kutambua jinsi vitenzi vyenye shina la silabi moja kula (U6))"
+            "Kiambishi 'ku-' hufutwa kila wakati katika wakati timilifu. (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)",
+            "Vitenzi vya silabi moja havina wakati timilifu. (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)",
+            "Kiambishi 'ku-' hubadilika kuwa 'ki-' katika wakati timilifu. (Kutambua jinsi vitenzi vyenye shina la silabi moja kula)"
           ],
           "answerIndex": 0,
           "explanation": "«Vitenzi vyenye shina la silabi moja kama 'kula', 'kunywa', na 'kuja' huhifadhi kiambishi 'ku-' katika wakati timilifu (nimekula, amekunywa, wamekuja, tumekwenda).» ndiyo kanuni sahihi ya sarufi."
@@ -2849,10 +2849,10 @@
         {
           "prompt": "Sentensi ipi ina upatanisho sahihi wa wakati timilifu kwa nomino ya Ngeli ya 7 (Chakula)?",
           "options": [
-            "Chakula kitamu kimeiva jikoni. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Chakula kitamu limeiva jikoni (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Chakula kitamu zimeiva jikoni (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Chakula kitamu wameiva jikoni (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))"
+            "Chakula kitamu kimeiva jikoni. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Chakula kitamu limeiva jikoni (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Chakula kitamu zimeiva jikoni (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Chakula kitamu wameiva jikoni (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Chakula» (umoja katika Ngeli ya KI-VI) huchukua kiambishi cha kitenzi «ki-», hivyo katika wakati timilifu huwa «kimeiva»."
@@ -2864,10 +2864,10 @@
         {
           "prompt": "Unapozungumzia matunda mengi yaliyoiva mtini (Ngeli ya 6 JI-MA wingi), kitenzi sahihi cha wakati timilifu ni kipi?",
           "options": [
-            "Matunda yote yameiva mtini. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Matunda yote limeiva mtini (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Matunda yote zimeiva mtini (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Matunda yote wameiva mtini (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))"
+            "Matunda yote yameiva mtini. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Matunda yote limeiva mtini (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Matunda yote zimeiva mtini (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Matunda yote wameiva mtini (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya wingi «Matunda» (Ngeli ya JI-MA) huchukua kiambishi cha kitenzi «ya-», hivyo katika wakati timilifu huwa «yameiva»."
@@ -2880,10 +2880,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi na kamilifu wa wakati timilifu katika ngeli mbalimbali:",
           "options": [
-            "Chakula kimeiva mezani, gari jipya limewasili, na nyumba mpya zimekamilika mjini. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Chakula limeiva mezani na magari yote kimenunuliwa. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Miti yote zimeanguka wakati gari jipya wamefika nyumbani. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))",
-            "Nyumba zote imekamilika na vitabu vyote limefunguliwa mezani. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI (U6))"
+            "Chakula kimeiva mezani, gari jipya limewasili, na nyumba mpya zimekamilika mjini. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Chakula limeiva mezani na magari yote kimenunuliwa. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Miti yote zimeanguka wakati gari jipya wamefika nyumbani. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)",
+            "Nyumba zote imekamilika na vitabu vyote limefunguliwa mezani. (Kutambua upatanisho wa kisarufi wa ngeli mbalimbali za nomino KIVI)"
           ],
           "answerIndex": 0,
           "explanation": "«Chakula kimeiva mezani, gari jipya limewasili, na nyumba mpya zimekamilika mjini.» inafuata upatanisho kamili wa KI-VI (ki-), JI-MA (li-), na N-N (zi-) katika wakati timilifu."
@@ -2931,10 +2931,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa wakati timilifu (-me-) kwa vitenzi vya hali, vitenzi vya kawaida na vitenzi vya silabi moja?",
           "options": [
-            "Wanafunzi wamechoka kidogo lakini wamekula chakula kitamu na wameelewa somo lote. (Kuunganisha mada zote za Unit 6 (U6))",
-            "Wanafunzi walichoka jana na kesho wamela chakula (Kuunganisha mada zote za Unit 6 (U6))",
-            "Wanafunzi wanachoka jana usiku na wamefika kesho (Kuunganisha mada zote za Unit 6 (U6))",
-            "Chakula chote wamechoka wanafunzi mezani (Kuunganisha mada zote za Unit 6 (U6))"
+            "Wanafunzi wamechoka kidogo lakini wamekula chakula kitamu na wameelewa somo lote. (Kuunganisha mada zote za Unit 6)",
+            "Wanafunzi walichoka jana na kesho wamela chakula (Kuunganisha mada zote za Unit 6)",
+            "Wanafunzi wanachoka jana usiku na wamefika kesho (Kuunganisha mada zote za Unit 6)",
+            "Chakula chote wamechoka wanafunzi mezani (Kuunganisha mada zote za Unit 6)"
           ],
           "answerIndex": 0,
           "explanation": "«Wanafunzi wamechoka kidogo lakini wamekula chakula kitamu na wameelewa somo lote.» inajumuisha vitenzi vya hali (wamechoka, wameelewa) na silabi moja (wamekula) kwa usahihi."
@@ -2947,9 +2947,9 @@
           "prompt": "Katika muhtasari wa Unit 6, ni sifa gani kuu inayofanya kiambishi '-me-' kuwa cha pekee katika Kiswahili?",
           "options": [
             "Huwezesha kueleza tendo lililokamilika na wakati huo huo kueleza hali iliyopo sasa (stative state)",
-            "Kinatumika tu wakati wa usiku pekee (Kuunganisha mada zote za Unit 6 (U6))",
-            "Hakiwezi kutumiwa na vitenzi vya kawaida (Kuunganisha mada zote za Unit 6 (U6))",
-            "Kinabadilisha maneno yote kuwa lugha ya kigeni (Kuunganisha mada zote za Unit 6 (U6))"
+            "Kinatumika tu wakati wa usiku pekee (Kuunganisha mada zote za Unit 6)",
+            "Hakiwezi kutumiwa na vitenzi vya kawaida (Kuunganisha mada zote za Unit 6)",
+            "Kinabadilisha maneno yote kuwa lugha ya kigeni (Kuunganisha mada zote za Unit 6)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi «-me-» kinaunganisha tendo lililokamilika na hali iliyopo sasa (stative state)."
@@ -2962,10 +2962,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 6 ya Wakati Timilifu katika Kiswahili:",
           "options": [
-            "Wageni wote wamefika nyumbani kwetu salama, wamekunywa chai moto ya tangawizi, wameshiba chakula kitamu, na wamefurahia sana ukarimu wetu. (Kuunganisha mada zote za Unit 6 (U6))",
-            "Wageni wote alifika nyumbani na kesho wamekunywa chai. (Kuunganisha mada zote za Unit 6 (U6))",
-            "Wageni wote linashiba chakula wakati wazee watasoma hadithi jana. (Kuunganisha mada zote za Unit 6 (U6))",
-            "Wakati timilifu unakataza matumizi ya neno 'nimeshiba' na 'nimechoka'. (Kuunganisha mada zote za Unit 6 (U6))"
+            "Wageni wote wamefika nyumbani kwetu salama, wamekunywa chai moto ya tangawizi, wameshiba chakula kitamu, na wamefurahia sana ukarimu wetu. (Kuunganisha mada zote za Unit 6)",
+            "Wageni wote alifika nyumbani na kesho wamekunywa chai. (Kuunganisha mada zote za Unit 6)",
+            "Wageni wote linashiba chakula wakati wazee watasoma hadithi jana. (Kuunganisha mada zote za Unit 6)",
+            "Wakati timilifu unakataza matumizi ya neno 'nimeshiba' na 'nimechoka'. (Kuunganisha mada zote za Unit 6)"
           ],
           "answerIndex": 0,
           "explanation": "«Wageni wote wamefika nyumbani kwetu salama, wamekunywa chai moto ya tangawizi, wameshiba chakula kitamu, na wamefurahia sana ukarimu wetu.» inajumuisha mada zote za Unit 6 kwa ukamilifu."
@@ -3013,10 +3013,10 @@
         {
           "prompt": "Unapokanusha sentensi \"Mimi ninasoma kitabu\" katika wakati uliopo, muundo sahihi ni upi?",
           "options": [
-            "Mimi sisomi kitabu. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))",
-            "Mimi sinasoma kitabu (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))",
-            "Mimi nisomi kitabu (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))",
-            "Mimi hasomi kitabu (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))"
+            "Mimi sisomi kitabu. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)",
+            "Mimi sinasoma kitabu (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)",
+            "Mimi nisomi kitabu (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)",
+            "Mimi hasomi kitabu (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)"
           ],
           "answerIndex": 0,
           "explanation": "Katika ukanushaji wa wakati uliopo kwa nafsi ya kwanza (Mimi), «ni-» inakuwa «si-», «-na-» inafutwa, na «-a» inakuwa «-i»: «sisomi»."
@@ -3028,10 +3028,10 @@
         {
           "prompt": "Sentensi ipi inakanusha tendo la kula (kitenzi cha silabi moja) katika wakati uliopo kwa usahihi?",
           "options": [
-            "Mtoto hali chakula kwa sababu anajisikia vibaya. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))",
-            "Mtoto hakula chakula sasa hivi (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))",
-            "Mtoto hanakula chakula mezani (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))",
-            "Mtoto hasomi chakula leo (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))"
+            "Mtoto hali chakula kwa sababu anajisikia vibaya. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)",
+            "Mtoto hakula chakula sasa hivi (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)",
+            "Mtoto hanakula chakula mezani (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)",
+            "Mtoto hasomi chakula leo (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kula» katika ukanushaji wa wakati uliopo kinapoteza «ku-» na kubadili «-a» kuwa «-i»: «hali»."
@@ -3045,9 +3045,9 @@
           "prompt": "Chagua kanuni sahihi inayotawala ukanushaji wa wakati uliopo katika lugha ya Kiswahili:",
           "options": [
             "Kiambishi cha wakati '-na-' hufutwa kabisa, viambishi nafsi hasi hutumika (si-, hu-, ha-, hatu-, ham-, hawa-)",
-            "Kiambishi '-na-' hubadilishwa kuwa '-li-'. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))",
-            "Vitenzi vyote huongezewa herufi 'z' mwishoni. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))",
-            "Ukanushaji wa wakati uliopo unaweka neno 'hapana' katikati ya kitenzi. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo (U7))"
+            "Kiambishi '-na-' hubadilishwa kuwa '-li-'. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)",
+            "Vitenzi vyote huongezewa herufi 'z' mwishoni. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)",
+            "Ukanushaji wa wakati uliopo unaweka neno 'hapana' katikati ya kitenzi. (Kuelewa kanuni za ukanushaji katika Wakati Uliopo)"
           ],
           "answerIndex": 0,
           "explanation": "«Kiambishi cha wakati '-na-' hufutwa kabisa, viambishi nafsi hasi hutumika (si-, hu-, ha-, hatu-, ham-, hawa-), na irabu ya mwisho '-a' hubadilika kuwa '-i' kwa vitenzi vya Kibantu.» ndiyo kanuni kuu ya sarufi."
@@ -3095,10 +3095,10 @@
         {
           "prompt": "Unapokanusha kauli \"Sisi tulisoma makala ile jana\", muundo sahihi wa wakati uliopita ni upi?",
           "options": [
-            "Sisi hatukusoma makala ile jana. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Sisi hatulisoma makala ile jana (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Sisi hatukusomi makala ile jana (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Sisi sikusoma makala ile jana (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))"
+            "Sisi hatukusoma makala ile jana. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Sisi hatulisoma makala ile jana (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Sisi hatukusomi makala ile jana (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Sisi sikusoma makala ile jana (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)"
           ],
           "answerIndex": 0,
           "explanation": "Katika wakati uliopita, «tuli-» inabadilika kuwa «hatuku-» na shina linabaki «soma»: «hatukusoma»."
@@ -3110,10 +3110,10 @@
         {
           "prompt": "Mtu anapoulizwa kama alikunywa chai jana asubuhi na akajibu hapana, anasema nini kwa Kiswahili fasaha?",
           "options": [
-            "Sikunywa chai jana asubuhi. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Sikukunywa chai jana asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Sinakunywa chai jana asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Sitakunywa chai jana asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))"
+            "Sikunywa chai jana asubuhi. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Sikukunywa chai jana asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Sinakunywa chai jana asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Sitakunywa chai jana asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kunywa» katika ukanusho wa wakati uliopita kinakuwa «sikunywa» (hakirudii 'ku' mara mbili)."
@@ -3126,10 +3126,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha kanuni kamili na sahihi ya ukanushaji wa wakati uliopita katika Kiswahili:",
           "options": [
-            "Katika wakati uliopita, kiambishi '-li-' hubadilishwa na kuwa kiambishi '-ku-', viambishi hasi vya nafsi hutumika, na irabu ya mwisho ya kitenzi haibadiliki kamwe. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Katika wakati uliopita, kitenzi hupoteza silabi zote. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Wakati uliopita unakataza matumizi ya kiambishi '-ku-'. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))",
-            "Kitenzi cha wakati uliopita hubadilika kuwa nomino kinapokanushwa. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita (U7))"
+            "Katika wakati uliopita, kiambishi '-li-' hubadilishwa na kuwa kiambishi '-ku-', viambishi hasi vya nafsi hutumika, na irabu ya mwisho ya kitenzi haibadiliki kamwe. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Katika wakati uliopita, kitenzi hupoteza silabi zote. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Wakati uliopita unakataza matumizi ya kiambishi '-ku-'. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)",
+            "Kitenzi cha wakati uliopita hubadilika kuwa nomino kinapokanushwa. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Uliopita)"
           ],
           "answerIndex": 0,
           "explanation": "«Katika wakati uliopita, kiambishi '-li-' hubadilishwa na kuwa kiambishi '-ku-', viambishi hasi vya nafsi hutumika, na irabu ya mwisho ya kitenzi haibadiliki kamwe.» ndiyo kanuni halisi."
@@ -3177,10 +3177,10 @@
         {
           "prompt": "Unapokanusha mpango wa kusafiri kesho kwa nafsi ya pili umoja (Wewe), sentensi sahihi ni ipi?",
           "options": [
-            "Wewe hutasafiri kesho asubuhi. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))",
-            "Wewe husafiri kesho asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))",
-            "Wewe hukusafiri kesho asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))",
-            "Wewe sitasafiri kesho asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))"
+            "Wewe hutasafiri kesho asubuhi. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)",
+            "Wewe husafiri kesho asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)",
+            "Wewe hukusafiri kesho asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)",
+            "Wewe sitasafiri kesho asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi hasi cha «Wewe» ni «hu-» kikiungana na kiambishi cha wakati ujao «-ta-» kupata «hutasafiri»."
@@ -3192,10 +3192,10 @@
         {
           "prompt": "Sentensi ipi inakanusha vitenzi vya silabi moja katika wakati ujao kwa usahihi kabisa?",
           "options": [
-            "Wageni hawatakuja kesho kutwa na hawatakula chakula cha usiku. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))",
-            "Wageni hawataja kesho na hawatala chakula (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))",
-            "Wageni hawajaja jana jioni (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))",
-            "Wageni hawanywi maji jana asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))"
+            "Wageni hawatakuja kesho kutwa na hawatakula chakula cha usiku. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)",
+            "Wageni hawataja kesho na hawatala chakula (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)",
+            "Wageni hawajaja jana jioni (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)",
+            "Wageni hawanywi maji jana asubuhi (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)"
           ],
           "answerIndex": 0,
           "explanation": "Katika ukanushaji wa wakati ujao, vitenzi vya silabi moja huhifadhi «ku-»: «hawatakuja» na «hawatakula»."
@@ -3209,9 +3209,9 @@
           "prompt": "Ni jambo gani la kipekee kuhusu kiambishi '-ta-' katika ukanushaji wa wakati ujao tofauti na wakati uliopo (-na-)?",
           "options": [
             "Kiambishi '-ta-' hakifutwi kamwe bali kinabakia kwenye kitenzi kikiambatanishwa na viambishi hasi vya nafsi (sitasoma, hutasoma, hatasoma)",
-            "Kiambishi '-ta-' hubadilika kuwa '-ka-'. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))",
-            "Kiambishi '-ta-' hufutwa kila wakati. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))",
-            "Wakati ujao hauwezi kukanushwa katika Kiswahili. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao (U7))"
+            "Kiambishi '-ta-' hubadilika kuwa '-ka-'. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)",
+            "Kiambishi '-ta-' hufutwa kila wakati. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)",
+            "Wakati ujao hauwezi kukanushwa katika Kiswahili. (Kutambua na kutumia muundo wa ukanushaji wa Wakati Ujao)"
           ],
           "answerIndex": 0,
           "explanation": "«Kiambishi '-ta-' hakifutwi kamwe bali kinabakia kwenye kitenzi kikiambatanishwa na viambishi hasi vya nafsi (sitasoma, hutasoma, hatasoma).» ndiyo sifa ya pekee ya wakati ujao."
@@ -3259,10 +3259,10 @@
         {
           "prompt": "Sentensi sahihi inayokanusha \"Wageni wamefika nyumbani\" katika wakati timilifu ni ipi?",
           "options": [
-            "Wageni hawajafika nyumbani bado. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Wageni hawamefika nyumbani (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Wageni hawafiki jana asubuhi (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Wageni wasifike nyumbani kesho (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))"
+            "Wageni hawajafika nyumbani bado. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Wageni hawamefika nyumbani (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Wageni hawafiki jana asubuhi (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Wageni wasifike nyumbani kesho (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)"
           ],
           "answerIndex": 0,
           "explanation": "Ukanushaji wa «wamefika» ni «hawajafika» (kiambishi «-me-» hubadilika kuwa «-ja-»)."
@@ -3274,10 +3274,10 @@
         {
           "prompt": "Unapomjulisha mtu kuwa \"Hujala chakula bado lakini unajiandaa kula\", unatumia kauli gani fasaha?",
           "options": [
-            "Mimi sijala chakula bado. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Mimi sijakula chakula bado (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Mimi simeli chakula bado (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Mimi sikula chakula kesho kutwa (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))"
+            "Mimi sijala chakula bado. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Mimi sijakula chakula bado (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Mimi simeli chakula bado (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Mimi sikula chakula kesho kutwa (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kula» katika ukanusho wa wakati timilifu kinapoteza «ku-» na kuwa «sijala»."
@@ -3290,10 +3290,10 @@
           "type": "multiple-choice",
           "prompt": "Kiambishi '-ja-' katika vitenzi vya Kiswahili hufanya kazi gani ya kisarufi na kisemantiki?",
           "options": [
-            "Hukanusha wakati timilifu (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Hueleza amri ya moja kwa moja ya kufanya kazi haraka. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Hutumika kueleza hadithi za kale za vizazi vilivyopita pekee. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))",
-            "Huonyesha kuwa tendo lilifanyika zamani za kale sana. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu (U7))"
+            "Hukanusha wakati timilifu (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Hueleza amri ya moja kwa moja ya kufanya kazi haraka. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Hutumika kueleza hadithi za kale za vizazi vilivyopita pekee. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)",
+            "Huonyesha kuwa tendo lilifanyika zamani za kale sana. (Kuelewa na kutumia ukanushaji wa Wakati Timilifu)"
           ],
           "answerIndex": 0,
           "explanation": "«Hukanusha wakati timilifu (-me-) na kutoa maana ya tendo ambalo halijatendeka bado (not yet) lakini linatarajiwa kutendeka.» ndiyo kazi rasmi ya kiambishi «-ja-»."
@@ -3341,10 +3341,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha ulinganifu sahihi wa ukanushaji katika nyakati zote nne kuu za Kiswahili?",
           "options": [
-            "Jana sikula, leo sili, kesho sitakula, na chakula cha jioni sijala bado. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "Jana silikula, leo sinakula, kesho sitakula, na bado sijakula (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "Jana sikusoma kesho na leo sitasoma jana (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "Chakula chote hakikula wanafunzi jana (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))"
+            "Jana sikula, leo sili, kesho sitakula, na chakula cha jioni sijala bado. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "Jana silikula, leo sinakula, kesho sitakula, na bado sijakula (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "Jana sikusoma kesho na leo sitasoma jana (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "Chakula chote hakikula wanafunzi jana (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Jana sikula, leo sili, kesho sitakula, na chakula cha jioni sijala bado.» inatumia miundo sahihi ya ukanusho: uliopita (sikula), uliopo (sili), ujao (sitakula), na timilifu (sijala)."
@@ -3356,10 +3356,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 7, ni tofauti gani muhimu ya kimaana iliyopo kati ya 'Hakufanya kazi' na 'Hajafanya kazi'?",
           "options": [
-            "'Hakufanya kazi' inamaanisha tendo halikutendeka wakati uliopita, wakati 'Hajafanya kazi' inamaanisha hajatenda bado lakini anaweza kutenda baadaye. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "'Hakufanya' inatumika tu kwa wanawake na 'Hajafanya' kwa wanaume (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "Hakuna tofauti yoyote ya kimaana kati ya misemo hiyo miwili (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "'Hajafanya kazi' inamaanisha kazi ilikamilika zamani za kale (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))"
+            "'Hakufanya kazi' inamaanisha tendo halikutendeka wakati uliopita, wakati 'Hajafanya kazi' inamaanisha hajatenda bado lakini anaweza kutenda baadaye. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "'Hakufanya' inatumika tu kwa wanawake na 'Hajafanya' kwa wanaume (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "Hakuna tofauti yoyote ya kimaana kati ya misemo hiyo miwili (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "'Hajafanya kazi' inamaanisha kazi ilikamilika zamani za kale (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Hakufanya» ni wakati uliopita (past negation), wakati «Hajafanya» ni wakati timilifu (perfective 'not yet')."
@@ -3372,10 +3372,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 7 ya Ukanushaji wa Vitenzi katika Kiswahili:",
           "options": [
-            "Wageni hawakufika jana, hawafiki leo, hawatatutembelea kesho, na barua zao rasmi hazijawasili ofisini bado. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "Wageni hakufika jana na leo hawanafika nyumbani. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "Mabasi yote hawatatua kituo wakati chakula halikuli mezani. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))",
-            "Ukanushaji unakataza matumizi ya maneno 'jana', 'leo', na 'kesho'. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili (U7))"
+            "Wageni hawakufika jana, hawafiki leo, hawatatutembelea kesho, na barua zao rasmi hazijawasili ofisini bado. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "Wageni hakufika jana na leo hawanafika nyumbani. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "Mabasi yote hawatatua kituo wakati chakula halikuli mezani. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)",
+            "Ukanushaji unakataza matumizi ya maneno 'jana', 'leo', na 'kesho'. (Kuunganisha mifumo yote minne ya ukanushaji katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Wageni hawakufika jana, hawafiki leo, hawatatutembelea kesho, na barua zao rasmi hazijawasili ofisini bado.» inajumuisha ukanusho wa nyakati zote nne kwa ufasaha na upatanisho kamilifu wa ngeli."
@@ -3423,10 +3423,10 @@
         {
           "prompt": "Sentensi ipi ina kirejeshi sahihi cha mtendwa kinachomaanisha \"Yeye alitusaidia sisi jana\"?",
           "options": [
-            "Yeye alitusaidia jana jioni. (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))",
-            "Yeye alinisaidia sisi jana (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))",
-            "Yeye alikusaidia sisi jana (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))",
-            "Yeye aliwasaidia sisi jana (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))"
+            "Yeye alitusaidia jana jioni. (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)",
+            "Yeye alinisaidia sisi jana (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)",
+            "Yeye alikusaidia sisi jana (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)",
+            "Yeye aliwasaidia sisi jana (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)"
           ],
           "answerIndex": 0,
           "explanation": "Kirejeshi cha mtendwa cha nafsi ya kwanza wingi (Sisi) ni «-tu-», hivyo kitenzi huwa «alitusaidia»."
@@ -3438,10 +3438,10 @@
         {
           "prompt": "Unapotaka kusema \"Mimi ninamwona mwalimu yule\", kirejeshi kipi cha mtendwa kimetumika kabla ya shina '-ona'?",
           "options": [
-            "-mw- (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))",
-            "-wa- (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))",
-            "-ki- (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))",
-            "-ku- (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))"
+            "-mw- (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)",
+            "-wa- (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)",
+            "-ki- (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)",
+            "-ku- (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)"
           ],
           "answerIndex": 0,
           "explanation": "Kabla ya shina linaloanza na irabu kama «-ona», kirejeshi cha nafsi ya tatu umoja «-m-» hubadilika kuwa «-mw-»: «ninamwona»."
@@ -3455,9 +3455,9 @@
           "prompt": "Chagua nafasi sahihi ya kirejeshi cha mtendwa (object infix) katika muundo wa kitenzi cha Kiswahili:",
           "options": [
             "Kirejeshi cha mtendwa huingizwa moja kwa moja kati ya kiambishi cha wakati na shina la kitenzi (mfano: a-na-m-penda)",
-            "Kirejeshi cha mtendwa huwekwa mwanzoni kabisa mwa kitenzi. (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))",
-            "Kirejeshi cha mtendwa huwekwa mwishoni kabisa baada ya irabu ya mwisho. (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))",
-            "Kirejeshi cha mtendwa hutenganishwa kama neno tofauti linalojitegemea. (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu (U8))"
+            "Kirejeshi cha mtendwa huwekwa mwanzoni kabisa mwa kitenzi. (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)",
+            "Kirejeshi cha mtendwa huwekwa mwishoni kabisa baada ya irabu ya mwisho. (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)",
+            "Kirejeshi cha mtendwa hutenganishwa kama neno tofauti linalojitegemea. (Kutambua na kutumia virejeshi vya watendwa Object Infixes  OP kwa nafsi zote za kibinadamu)"
           ],
           "answerIndex": 0,
           "explanation": "«Kirejeshi cha mtendwa huingizwa moja kwa moja kati ya kiambishi cha wakati na shina la kitenzi (mfano: a-na-m-penda).» ndiyo kanuni sahihi ya kimofolojia."
@@ -3505,10 +3505,10 @@
         {
           "prompt": "Sentensi ipi inatumia kirejeshi sahihi cha mtendwa kurejelea nomino ya wingi \"Magari\" (Ngeli ya JI-MA)?",
           "options": [
-            "Fundi anayatengeneza magari yote gereji. (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "Fundi analitengeneza magari yote gereji (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "Fundi anazitengeneza magari yote gereji (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "Fundi anawatengeneza magari yote gereji (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))"
+            "Fundi anayatengeneza magari yote gereji. (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "Fundi analitengeneza magari yote gereji (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "Fundi anazitengeneza magari yote gereji (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "Fundi anawatengeneza magari yote gereji (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Magari» (wingi katika Ngeli ya JI-MA) huchukua kirejeshi cha mtendwa «-ya-»: «anayatengeneza»."
@@ -3520,10 +3520,10 @@
         {
           "prompt": "Unapotaka kusema \"Niliziona nyumba zote nzuri\", kirejeshi kipi cha mtendwa kimetumika katika kitenzi?",
           "options": [
-            "-zi- (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "-ki- (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "-ya- (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "-li- (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))"
+            "-zi- (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "-ki- (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "-ya- (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "-li- (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)"
           ],
           "answerIndex": 0,
           "explanation": "Kirejeshi cha mtendwa cha wingi wa Ngeli ya N-N (Nyumba) ni «-zi-», hivyo kitenzi kinakuwa «niliziona»."
@@ -3536,10 +3536,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua uoanishaji sahihi wa nomino na kirejeshi chake cha mtendwa katika sentensi:",
           "options": [
-            "Chakula -> ninakila (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "Chakula -> ninamla, Magari -> ninawala, Barua -> ninamwona. (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "Chakula -> ninalikula, Magari -> ninazisoma, Barua -> ninakiona. (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))",
-            "Ngeli zote za vitu hutumia kirejeshi kimoja tu cha '-m-'. (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu (U8))"
+            "Chakula -> ninakila (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "Chakula -> ninamla, Magari -> ninawala, Barua -> ninamwona. (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "Chakula -> ninalikula, Magari -> ninazisoma, Barua -> ninakiona. (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)",
+            "Ngeli zote za vitu hutumia kirejeshi kimoja tu cha '-m-'. (Kutambua na kutumia virejeshi vya watendwa vya ngeli mbalimbali za vitu)"
           ],
           "answerIndex": 0,
           "explanation": "Upatanisho sahihi wa ngeli kwa virejeshi vya watendwa ni: Chakula (-ki-), Magari (-ya-), Barua wingi (-zi-), na Mti (-u-)."
@@ -3587,10 +3587,10 @@
         {
           "prompt": "Sentensi ipi inaonyesha mtenda akijitendea tendo mwenyewe kwa kutumia kirejeshi '-ji-'?",
           "options": [
-            "Mwanafunzi anajiandaa kwa ajili ya mtihani wake wa kesho. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Mwanafunzi anamuandaa kwa ajili ya mtihani (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Mwanafunzi anatuandaa kwa mtihani (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Mwanafunzi anawaandaa wengine (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))"
+            "Mwanafunzi anajiandaa kwa ajili ya mtihani wake wa kesho. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Mwanafunzi anamuandaa kwa ajili ya mtihani (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Mwanafunzi anatuandaa kwa mtihani (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Mwanafunzi anawaandaa wengine (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)"
           ],
           "answerIndex": 0,
           "explanation": "Kirejeshi «-ji-» katika «anajiandaa» kinaonyesha kwamba mwanafunzi anajiandaa yeye mwenyewe."
@@ -3602,10 +3602,10 @@
         {
           "prompt": "Kwanini kirejeshi '-ji-' ni cha pekee ikilinganishwa na virejeshi vingine vya watendwa?",
           "options": [
-            "Kwa sababu kinatumika kwa nafsi zote sita na ngeli zote bila kubadilika umbo lake kamwe. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Kwa sababu kinatumika tu kwa wanyama wa porini pekee (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Kwa sababu kinabadilika kuwa '-jo-' katika wakati uliopita (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Kwa sababu kinatumika tu asubuhi na mapema (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))"
+            "Kwa sababu kinatumika kwa nafsi zote sita na ngeli zote bila kubadilika umbo lake kamwe. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Kwa sababu kinatumika tu kwa wanyama wa porini pekee (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Kwa sababu kinabadilika kuwa '-jo-' katika wakati uliopita (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Kwa sababu kinatumika tu asubuhi na mapema (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)"
           ],
           "answerIndex": 0,
           "explanation": "Kirejeshi «-ji-» hakibadiliki kamwe kulingana na nafsi au ngeli; kinabaki «-ji-» daima."
@@ -3618,10 +3618,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi zenye vitenzi vinavyotumia kirejeshi cha mtenda mwenyewe (-ji-) kwa usahihi kabisa:",
           "options": [
-            "Sisi tunajifunza Kiswahili, mzee anajilinda kwa fimbo, na watoto wanajiheshimu shuleni. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Sisi tunamfunza Kiswahili wakati wazee wanatutunza. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Watoto wanawapenda walimu na wanawasikiliza. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))",
-            "Kirejeshi '-ji-' kinakataza vitenzi kuwa na viambishi vya wakati. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe (U8))"
+            "Sisi tunajifunza Kiswahili, mzee anajilinda kwa fimbo, na watoto wanajiheshimu shuleni. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Sisi tunamfunza Kiswahili wakati wazee wanatutunza. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Watoto wanawapenda walimu na wanawasikiliza. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)",
+            "Kirejeshi '-ji-' kinakataza vitenzi kuwa na viambishi vya wakati. (Kuelewa na kutumia kirejeshi cha mtenda mwenyewe Reflexive Infix ji ambacho hutumika kwa nafsi zote na ngeli zote kumaanisha kuwa mtenda anajitendea tendo yeye mwenyewe)"
           ],
           "answerIndex": 0,
           "explanation": "«Sisi tunajifunza Kiswahili, mzee anajilinda kwa fimbo, na watoto wanajiheshimu shuleni.» inatumia kirejeshi «-ji-» kuonyesha matendo ya kujirejelea yenyewe."
@@ -3669,10 +3669,10 @@
         {
           "prompt": "Unapoweka kirejeshi cha mtendwa '-ki-' (chakula) katika kitenzi cha silabi moja 'kula' katika wakati uliopo, umbo sahihi ni lipi?",
           "options": [
-            "anakila (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))",
-            "anakikula (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))",
-            "anakula kitabu (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))",
-            "analikula (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))"
+            "anakila (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)",
+            "anakikula (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)",
+            "anakula kitabu (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)",
+            "analikula (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)"
           ],
           "answerIndex": 0,
           "explanation": "Kirejeshi cha mtendwa kinapoingia kwenye kitenzi cha silabi moja, kiambishi «ku-» hufutwa: «anakila»."
@@ -3684,10 +3684,10 @@
         {
           "prompt": "Sentensi ipi inachanganya ukanushaji wa wakati ujao na kirejeshi cha mtendwa kwa usahihi kabisa?",
           "options": [
-            "Mimi sitakusahau kamwe maishani mwangu. (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))",
-            "Mimi sitokusahau kamwe (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))",
-            "Mimi sikukusahau kesho kutwa (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))",
-            "Mimi sinakusahau sasa (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))"
+            "Mimi sitakusahau kamwe maishani mwangu. (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)",
+            "Mimi sitokusahau kamwe (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)",
+            "Mimi sikukusahau kesho kutwa (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)",
+            "Mimi sinakusahau sasa (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)"
           ],
           "answerIndex": 0,
           "explanation": "Ukanushaji wa wakati ujao wenye kirejeshi cha mtendwa «-ku-» (wewe) ni «sitakusahau»."
@@ -3701,9 +3701,9 @@
           "prompt": "Ni kanuni gani inayotokea pale kitenzi cha silabi moja kinapopata kirejeshi cha mtendwa (object infix)?",
           "options": [
             "Hupoteza kiambishi 'ku-' katika nyakati zote kwa sababu kirejeshi cha mtendwa hutoa silabi ya ziada kwa ajili ya mkazo wa sauti (mfano: anakila, aliyanywa)",
-            "Huhifadhi 'ku-' na kuongeza 'ku-' ya pili. (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))",
-            "Kitenzi hubadilika kuwa nomino. (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))",
-            "Hakuna mabadiliko yoyote yanayotokea. (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa (U8))"
+            "Huhifadhi 'ku-' na kuongeza 'ku-' ya pili. (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)",
+            "Kitenzi hubadilika kuwa nomino. (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)",
+            "Hakuna mabadiliko yoyote yanayotokea. (Kuelewa tabia ya kifonolojia ya vitenzi vya silabi moja vinapopokea kirejeshi cha mtendwa hupoteza kiambishi ku na jinsi virejeshi vya watendwa vinavyoingizwa katika vitenzi vilivyokanushwa)"
           ],
           "answerIndex": 0,
           "explanation": "«Hupoteza kiambishi 'ku-' katika nyakati zote kwa sababu kirejeshi cha mtendwa hutoa silabi ya ziada kwa ajili ya mkazo wa sauti (mfano: anakila, aliyanywa).» ndiyo kanuni kuu ya kifonolojia."
@@ -3751,10 +3751,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa virejeshi vya watendwa kwa watu, vitu, na kirejeshi cha nafsi -ji-?",
           "options": [
-            "Mimi ninamheshimu mwalimu, ninakisoma kitabu chake, na ninajifunza kwa bidii. (Kuunganisha mada zote za Unit 8 (U8))",
-            "Mimi ninawajua kitabu na ninakisoma mwalimu (Kuunganisha mada zote za Unit 8 (U8))",
-            "Mimi ninakikula chakula na sitomsahau yeye (Kuunganisha mada zote za Unit 8 (U8))",
-            "Kitabu chote alituona jana usiku (Kuunganisha mada zote za Unit 8 (U8))"
+            "Mimi ninamheshimu mwalimu, ninakisoma kitabu chake, na ninajifunza kwa bidii. (Kuunganisha mada zote za Unit 8)",
+            "Mimi ninawajua kitabu na ninakisoma mwalimu (Kuunganisha mada zote za Unit 8)",
+            "Mimi ninakikula chakula na sitomsahau yeye (Kuunganisha mada zote za Unit 8)",
+            "Kitabu chote alituona jana usiku (Kuunganisha mada zote za Unit 8)"
           ],
           "answerIndex": 0,
           "explanation": "«Mimi ninamheshimu mwalimu, ninakisoma kitabu chake, na ninajifunza kwa bidii.» inatumia kirejeshi cha mtu (-m-), cha kitu (-ki-), na cha nafsi (-ji-) kwa usahihi."
@@ -3766,10 +3766,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 8, ni jukumu gani kuu la virejeshi vya watendwa katika lugha ya Kiswahili?",
           "options": [
-            "Hurejelea mtendwa moja kwa moja ndani ya kitenzi ili kuepuka kurudia majina mara kwa mara na kuleta mtiririko fasaha wa sentensi. (Kuunganisha mada zote za Unit 8 (U8))",
-            "Hufuta vitenzi na kubakiza nomino pekee (Kuunganisha mada zote za Unit 8 (U8))",
-            "Hutumika tu katika nyakati za kale za karne ya kumi na sita (Kuunganisha mada zote za Unit 8 (U8))",
-            "Huzuia matumizi ya viambishi nafsi vya watendaji (Kuunganisha mada zote za Unit 8 (U8))"
+            "Hurejelea mtendwa moja kwa moja ndani ya kitenzi ili kuepuka kurudia majina mara kwa mara na kuleta mtiririko fasaha wa sentensi. (Kuunganisha mada zote za Unit 8)",
+            "Hufuta vitenzi na kubakiza nomino pekee (Kuunganisha mada zote za Unit 8)",
+            "Hutumika tu katika nyakati za kale za karne ya kumi na sita (Kuunganisha mada zote za Unit 8)",
+            "Huzuia matumizi ya viambishi nafsi vya watendaji (Kuunganisha mada zote za Unit 8)"
           ],
           "answerIndex": 0,
           "explanation": "Virejeshi vya watendwa huwakilisha au kusisitiza watendwa ndani ya kitenzi kwa mtiririko fasaha wa kisarufi."
@@ -3782,10 +3782,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 8 ya Virejeshi vya Watendwa katika Kiswahili:",
           "options": [
-            "Kitabu nilichokiazima maktaba nimekileta darasani, mwalimu amekisoma, amenieleza umuhimu wake, na wanafunzi wote wanajifunza maudhui yake. (Kuunganisha mada zote za Unit 8 (U8))",
-            "Kitabu nilichomwazima nimekikula darasani na mwalimu anawatenda jana. (Kuunganisha mada zote za Unit 8 (U8))",
-            "Wanafunzi wote wanayajua mwalimu na linakisoma kitabu chake kesho. (Kuunganisha mada zote za Unit 8 (U8))",
-            "Virejeshi vya watendwa vinakataza matumizi ya kirejeshi cha nafsi '-ji-'. (Kuunganisha mada zote za Unit 8 (U8))"
+            "Kitabu nilichokiazima maktaba nimekileta darasani, mwalimu amekisoma, amenieleza umuhimu wake, na wanafunzi wote wanajifunza maudhui yake. (Kuunganisha mada zote za Unit 8)",
+            "Kitabu nilichomwazima nimekikula darasani na mwalimu anawatenda jana. (Kuunganisha mada zote za Unit 8)",
+            "Wanafunzi wote wanayajua mwalimu na linakisoma kitabu chake kesho. (Kuunganisha mada zote za Unit 8)",
+            "Virejeshi vya watendwa vinakataza matumizi ya kirejeshi cha nafsi '-ji-'. (Kuunganisha mada zote za Unit 8)"
           ],
           "answerIndex": 0,
           "explanation": "«Kitabu nilichokiazima maktaba nimekileta darasani, mwalimu amekisoma, amenieleza umuhimu wake, na wanafunzi wote wanajifunza maudhui yake.» inajumuisha virejeshi vya ngeli (-ki-), mtu (-ni-), na nafsi (-ji-) kwa ufasaha mkubwa."
@@ -3833,10 +3833,10 @@
         {
           "prompt": "Sentensi sahihi inayomaanisha \"Mtoto wetu anasoma shule ya msingi\" ni ipi?",
           "options": [
-            "Mtoto wetu anasoma shule ya msingi. (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "Mtoto zetu anasoma shule ya msingi (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "Mtoto chetu anasoma shule ya msingi (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "Mtoto letu anasoma shule ya msingi (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))"
+            "Mtoto wetu anasoma shule ya msingi. (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "Mtoto zetu anasoma shule ya msingi (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "Mtoto chetu anasoma shule ya msingi (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "Mtoto letu anasoma shule ya msingi (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Mtoto» (umoja katika Ngeli ya A-WA) huchukua kiambishi cha kimilikishi «w-» kikiungana na «-etu» kupata «wetu»."
@@ -3848,10 +3848,10 @@
         {
           "prompt": "Unapotaka kusema \"Marafiki zangu wote wamefika nyumbani\", shina gani la kimilikishi limetumika?",
           "options": [
-            "-angu (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "-ako (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "-ake (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "-ao (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))"
+            "-angu (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "-ako (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "-ake (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "-ao (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)"
           ],
           "answerIndex": 0,
           "explanation": "Neno «zangu» linaundwa na kiambishi «z-» na shina la nafsi ya kwanza umoja «-angu»."
@@ -3864,10 +3864,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha kamili ya mashina sita ya vimilikishi katika lugha ya Kiswahili:",
           "options": [
-            "-angu (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "-mimi, -wewe, -yeye, -sisi, -ninyi, -wao. (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "-huyu, -hawa, -yule, -wale, -hiki, -hivi. (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))",
-            "-gani, -wapi, -lini, -vipi, -ngapi, -nani. (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu (U9))"
+            "-angu (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "-mimi, -wewe, -yeye, -sisi, -ninyi, -wao. (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "-huyu, -hawa, -yule, -wale, -hiki, -hivi. (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)",
+            "-gani, -wapi, -lini, -vipi, -ngapi, -nani. (Kutambua na kutumia mashina sita ya vimilikishi katika Kiswahili angu)"
           ],
           "answerIndex": 0,
           "explanation": "Mashina halisi ya vimilikishi ni sita: «-angu, -ako, -ake, -etu, -enu, -ao»."
@@ -3915,10 +3915,10 @@
         {
           "prompt": "Sentensi ipi inatumia kimilikishi sahihi cha Ngeli ya 7 (KI-VI umoja) kwa nafsi ya kwanza wingi (Sisi)?",
           "options": [
-            "Chumba chetu kimesafishwa vizuri. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Chumba yetu kimesafishwa vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Chumba letu kimesafishwa vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Chumba wetu kimesafishwa vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))"
+            "Chumba chetu kimesafishwa vizuri. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Chumba yetu kimesafishwa vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Chumba letu kimesafishwa vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Chumba wetu kimesafishwa vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Chumba» (umoja katika Ngeli ya KI-VI) huchukua kimilikishi chenye kiambishi «ch-» kikiungana na «-etu» kupata «chetu»."
@@ -3930,10 +3930,10 @@
         {
           "prompt": "Unapozungumzia miti ya mtu mwingine (Ngeli ya 4 M-MI wingi wa Yeye), kirai sahihi cha kimilikishi ni kipi?",
           "options": [
-            "Miti yake inastawi vizuri. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Miti wake inastawi vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Miti vyake inastawi vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Miti zake inastawi vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))"
+            "Miti yake inastawi vizuri. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Miti wake inastawi vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Miti vyake inastawi vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Miti zake inastawi vizuri (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Miti» (wingi katika Ngeli ya M-MI) huchukua kiambishi cha kimilikishi «y-», hivyo huwa «miti yake»."
@@ -3946,10 +3946,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vimilikishi katika ngeli za KI-VI na M-MI:",
           "options": [
-            "Kiti changu kiko chumbani, viti vyetu viko sebuleni, mti wangu umemea, na miti yetu inazaa matunda. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Kiti yangu kiko chumbani na viti zetu ziko sebuleni. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Mti changu umemea wakati miti vyangu inazaa matunda. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))",
-            "Vimilikishi vya KI-VI na M-MI havina tofauti ya kisarufi. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu (U9))"
+            "Kiti changu kiko chumbani, viti vyetu viko sebuleni, mti wangu umemea, na miti yetu inazaa matunda. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Kiti yangu kiko chumbani na viti zetu ziko sebuleni. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Mti changu umemea wakati miti vyangu inazaa matunda. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)",
+            "Vimilikishi vya KI-VI na M-MI havina tofauti ya kisarufi. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya KIVI changuvyangu)"
           ],
           "answerIndex": 0,
           "explanation": "«Kiti changu kiko chumbani, viti vyetu viko sebuleni, mti wangu umemea, na miti yetu inazaa matunda.» inafuata kanuni kamili za KI-VI (ch-/vy-) na M-MI (w-/y-)."
@@ -3997,10 +3997,10 @@
         {
           "prompt": "Sentensi ipi inatumia kimilikishi sahihi cha Ngeli ya 5 (JI-MA umoja) kwa nafsi ya kwanza umoja (Mimi)?",
           "options": [
-            "Shamba langu lina mazao mengi ya mahindi. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Shamba yangu lina mazao mengi (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Shamba changu lina mazao mengi (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Shamba wangu lina mazao mengi (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))"
+            "Shamba langu lina mazao mengi ya mahindi. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Shamba yangu lina mazao mengi (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Shamba changu lina mazao mengi (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Shamba wangu lina mazao mengi (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Shamba» (umoja katika Ngeli ya JI-MA) huchukua kiambishi cha kimilikishi «l-», hivyo huwa «shamba langu»."
@@ -4012,10 +4012,10 @@
         {
           "prompt": "Unapozungumzia nyumba nyingi za wazazi (Ngeli ya 10 N-N wingi wa Wao), kirai sahihi cha kimilikishi ni kipi?",
           "options": [
-            "Nyumba zao zimejengwa kwa mawe imara. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Nyumba yao zimejengwa (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Nyumba vyao zimejengwa (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Nyumba yao limejengwa (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))"
+            "Nyumba zao zimejengwa kwa mawe imara. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Nyumba yao zimejengwa (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Nyumba vyao zimejengwa (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Nyumba yao limejengwa (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Nyumba» (wingi katika Ngeli ya N-N) huchukua kiambishi cha kimilikishi «z-», hivyo huwa «nyumba zao»."
@@ -4028,10 +4028,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vimilikishi katika ngeli za JI-MA na N-N:",
           "options": [
-            "Gari langu lina kasi, magari yetu yanafika, nyumba yangu ni safi, na nguo zetu zimekauka. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Gari yangu lina kasi na magari zetu zinafika. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Nyumba langu ni safi na nguo yetu zimekauka. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))",
-            "Ngeli za JI-MA na N-N zinakataza matumizi ya vimilikishi vya wingi. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu (U9))"
+            "Gari langu lina kasi, magari yetu yanafika, nyumba yangu ni safi, na nguo zetu zimekauka. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Gari yangu lina kasi na magari zetu zinafika. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Nyumba langu ni safi na nguo yetu zimekauka. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)",
+            "Ngeli za JI-MA na N-N zinakataza matumizi ya vimilikishi vya wingi. (Kutambua na kutumia upatanisho wa vimilikishi katika Ngeli ya JIMA languyangu)"
           ],
           "answerIndex": 0,
           "explanation": "«Gari langu lina kasi, magari yetu yanafika, nyumba yangu ni safi, na nguo zetu zimekauka.» inafuata upatanisho kamili wa JI-MA (l-/y-) na N-N (y-/z-)."
@@ -4079,10 +4079,10 @@
         {
           "prompt": "Sentensi ipi inaeleza \"Nyumbani kwetu\" kwa upatanisho sahihi wa kimilikishi cha mahali (Ngeli ya 17 KU)?",
           "options": [
-            "Karibuni sana nyumbani kwetu tule chakula pamoja. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Karibuni sana nyumbani petu tule chakula (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Karibuni sana nyumbani mwetu tule chakula (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Karibuni sana nyumbani zetu tule chakula (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))"
+            "Karibuni sana nyumbani kwetu tule chakula pamoja. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Karibuni sana nyumbani petu tule chakula (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Karibuni sana nyumbani mwetu tule chakula (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Karibuni sana nyumbani zetu tule chakula (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino yenye kiambishi tamati cha mahali «nyumbani» kwa maana ya eneo la nyumbani huchukua «kwetu»."
@@ -4094,10 +4094,10 @@
         {
           "prompt": "Unapozungumzia funguo nyingi ulizo nazo (Ngeli ya 10 U-ZI wingi wa Mimi), kirai sahihi ni kipi?",
           "options": [
-            "Funguo zangu ziko mfukoni. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Funguo yangu ziko mfukoni (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Funguo wangu ziko mfukoni (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Funguo vyangu ziko mfukoni (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))"
+            "Funguo zangu ziko mfukoni. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Funguo yangu ziko mfukoni (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Funguo wangu ziko mfukoni (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Funguo vyangu ziko mfukoni (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya wingi «Funguo» (Ngeli ya U-ZI) huchukua kiambishi cha kimilikishi «z-», hivyo huwa «funguo zangu»."
@@ -4110,10 +4110,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoeleza kwa usahihi upatanisho wa vimilikishi vya ngeli za Mahali (PA, KU, MU):",
           "options": [
-            "Mahali petu pa kazi ni pazuri (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Mahali kwetu ni pazuri na nyumbani petu kuna amani. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Chumbani zetu kuna utulivu wakati mahali vyetu panapendeza. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))",
-            "Ngeli za mahali hazina vimilikishi katika Kiswahili. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu (U9))"
+            "Mahali petu pa kazi ni pazuri (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Mahali kwetu ni pazuri na nyumbani petu kuna amani. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Chumbani zetu kuna utulivu wakati mahali vyetu panapendeza. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)",
+            "Ngeli za mahali hazina vimilikishi katika Kiswahili. (Kuelewa upatanisho wa vimilikishi katika Ngeli ya UZI wanguzangu)"
           ],
           "answerIndex": 0,
           "explanation": "«Mahali petu pa kazi ni pazuri (PA), nyumbani kwetu kuna amani (KU), na chumbani mwake kuna utulivu (MU).» inatekeleza upatanisho sahihi wa ngeli tatu za mahali."
@@ -4161,10 +4161,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa vimilikishi katika ngeli mbalimbali (KI-VI, JI-MA, N-N, na Mahali)?",
           "options": [
-            "Nyumbani kwetu, kitabu changu kiko mezani, gari letu limefika, na familia yangu inafurahi. (Kuunganisha mada zote za Unit 9 (U9))",
-            "Nyumbani petu, kitabu yangu kiko mezani na gari zetu limefika (Kuunganisha mada zote za Unit 9 (U9))",
-            "Kitabu chake kiko nyumbani zetu wakati magari langu linakimbia (Kuunganisha mada zote za Unit 9 (U9))",
-            "Familia changu inasoma kitabu letu mezani (Kuunganisha mada zote za Unit 9 (U9))"
+            "Nyumbani kwetu, kitabu changu kiko mezani, gari letu limefika, na familia yangu inafurahi. (Kuunganisha mada zote za Unit 9)",
+            "Nyumbani petu, kitabu yangu kiko mezani na gari zetu limefika (Kuunganisha mada zote za Unit 9)",
+            "Kitabu chake kiko nyumbani zetu wakati magari langu linakimbia (Kuunganisha mada zote za Unit 9)",
+            "Familia changu inasoma kitabu letu mezani (Kuunganisha mada zote za Unit 9)"
           ],
           "answerIndex": 0,
           "explanation": "«Nyumbani kwetu, kitabu changu kiko mezani, gari letu limefika, na familia yangu inafurahi.» inatumia upatanisho sahihi wa KU (kwetu), KI (changu), JI (letu), na N (yangu)."
@@ -4176,10 +4176,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 9, ni sheria gani ya msingi inayotawala muundo wa vimilikishi katika Kiswahili?",
           "options": [
-            "Kimilikishi kinaundwa na kiambishi cha upatanisho cha ngeli husika kikiungana na mojawapo ya mashina sita ya kimilikishi, na hufuata nomino kila wakati. (Kuunganisha mada zote za Unit 9 (U9))",
-            "Kimilikishi hutangulia nomino kama ilivyo katika Kiingereza (Kuunganisha mada zote za Unit 9 (U9))",
-            "Vimilikishi vyote huishia na herufi 'z' katika Kiswahili (Kuunganisha mada zote za Unit 9 (U9))",
-            "Ngeli zote hutumia umbo moja tu la 'yangu' (Kuunganisha mada zote za Unit 9 (U9))"
+            "Kimilikishi kinaundwa na kiambishi cha upatanisho cha ngeli husika kikiungana na mojawapo ya mashina sita ya kimilikishi, na hufuata nomino kila wakati. (Kuunganisha mada zote za Unit 9)",
+            "Kimilikishi hutangulia nomino kama ilivyo katika Kiingereza (Kuunganisha mada zote za Unit 9)",
+            "Vimilikishi vyote huishia na herufi 'z' katika Kiswahili (Kuunganisha mada zote za Unit 9)",
+            "Ngeli zote hutumia umbo moja tu la 'yangu' (Kuunganisha mada zote za Unit 9)"
           ],
           "answerIndex": 0,
           "explanation": "Kimilikishi huundwa kwa kiambishi ngeli + shina (-angu, -ako, -ake, -etu, -enu, -ao) na hufuata nomino inayomilikiwa."
@@ -4192,10 +4192,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 9 ya Vimilikishi na Upatanisho wa Kisarufi:",
           "options": [
-            "Nyumbani kwetu, kitabu changu kiko mezani, gari letu jipya limeegeshwa nje, bustani yetu ina maua mazuri, na marafiki zangu wote wanajivunia ushirikiano wetu. (Kuunganisha mada zote za Unit 9 (U9))",
-            "Nyumbani zetu kitabu yangu kiko mezani na gari changu limeegeshwa nje. (Kuunganisha mada zote za Unit 9 (U9))",
-            "Bustani letu ina maua mazuri na marafiki vyangu wanajivunia ushirikiano letu. (Kuunganisha mada zote za Unit 9 (U9))",
-            "Vimilikishi vinakataza matumizi ya maneno 'kwetu', 'changu', na 'letu'. (Kuunganisha mada zote za Unit 9 (U9))"
+            "Nyumbani kwetu, kitabu changu kiko mezani, gari letu jipya limeegeshwa nje, bustani yetu ina maua mazuri, na marafiki zangu wote wanajivunia ushirikiano wetu. (Kuunganisha mada zote za Unit 9)",
+            "Nyumbani zetu kitabu yangu kiko mezani na gari changu limeegeshwa nje. (Kuunganisha mada zote za Unit 9)",
+            "Bustani letu ina maua mazuri na marafiki vyangu wanajivunia ushirikiano letu. (Kuunganisha mada zote za Unit 9)",
+            "Vimilikishi vinakataza matumizi ya maneno 'kwetu', 'changu', na 'letu'. (Kuunganisha mada zote za Unit 9)"
           ],
           "answerIndex": 0,
           "explanation": "«Nyumbani kwetu, kitabu changu kiko mezani, gari letu jipya limeegeshwa nje, bustani yetu ina maua mazuri, na marafiki zangu wote wanajivunia ushirikiano wetu.» inajumuisha upatanisho wa ngeli zote kwa ukamilifu."
@@ -4243,10 +4243,10 @@
         {
           "prompt": "Wingi sahihi wa nomino \"Mwembe\" (mango tree) katika Ngeli ya M-MI ni upi?",
           "options": [
-            "miembe (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "maembe (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "viembe (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "wembe (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))"
+            "miembe (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "maembe (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "viembe (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "wembe (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya mti «Mwembe» katika Ngeli ya M-MI hubadilika kuwa «miembe» katika wingi. Tofautisha na tunda lenyewe: «embe» -> «maembe» (JI-MA)."
@@ -4258,10 +4258,10 @@
         {
           "prompt": "Nomino ipi kati ya zifuatazo ni kiungo cha mwili kinachopatikana katika Ngeli ya 3/4 (M-MI)?",
           "options": [
-            "mkono (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "jicho (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "kichwa (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "sikio (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))"
+            "mkono (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "jicho (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "kichwa (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "sikio (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)"
           ],
           "answerIndex": 0,
           "explanation": "«Mkono» (wingi: «mikono») ni nomino ya Ngeli ya 3/4 (M-MI)."
@@ -4274,10 +4274,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi ya umoja na wingi ya nomino zote zilizo sahihi katika Ngeli ya M-MI:",
           "options": [
-            "Mti -> miti, Mlima -> milima, Mto -> mito, Mwaka -> miaka, Mguu -> miguu. (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "Mtu -> watu, Mtoto -> watoto, Mwalimu -> walimu. (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "Kitabu -> vitabu, Kiti -> viti, Chumba -> vyumba. (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))",
-            "Gari -> magari, Jina -> majina, Neno -> maneno. (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti (U10))"
+            "Mti -> miti, Mlima -> milima, Mto -> mito, Mwaka -> miaka, Mguu -> miguu. (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "Mtu -> watu, Mtoto -> watoto, Mwalimu -> walimu. (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "Kitabu -> vitabu, Kiti -> viti, Chumba -> vyumba. (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)",
+            "Gari -> magari, Jina -> majina, Neno -> maneno. (Kutambua na kutumia nomino za Ngeli ya 34 MMI katika umoja mmw na wingi mi zinazojumuisha miti)"
           ],
           "answerIndex": 0,
           "explanation": "Mti/miti, mlima/milima, mto/mito, mwaka/miaka, na mguu/miguu ni nomino halisi za Ngeli ya 3/4 (M-MI)."
@@ -4325,10 +4325,10 @@
         {
           "prompt": "Sentensi ipi inatumia kiashiria sahihi cha \"karibu\" na kiambishi cha kitenzi cha wingi katika Ngeli ya M-MI?",
           "options": [
-            "Miti hii inazaa matunda mengi kila mwaka. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))",
-            "Miti huu inazaa matunda mengi (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))",
-            "Miti hii unazaa matunda mengi (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))",
-            "Miti yale yanazaa matunda mengi (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))"
+            "Miti hii inazaa matunda mengi kila mwaka. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)",
+            "Miti huu inazaa matunda mengi (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)",
+            "Miti hii unazaa matunda mengi (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)",
+            "Miti yale yanazaa matunda mengi (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Katika wingi wa Ngeli ya M-MI, kiashiria cha karibu ni «hii» na kiambishi cha kitenzi ni «i-»: «Miti hii inazaa»."
@@ -4340,10 +4340,10 @@
         {
           "prompt": "Unapotaka kusema \"Mto ule mrefu ulikauka wakati wa kiangazi\", kiambishi kipi cha kitenzi kimetumika katika \"ulikauka\"?",
           "options": [
-            "u- (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))",
-            "i- (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))",
-            "ki- (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))",
-            "li- (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))"
+            "u- (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)",
+            "i- (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)",
+            "ki- (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)",
+            "li- (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi cha mtendaji cha umoja katika Ngeli ya M-MI ni «u-», hivyo kitenzi huwa «ulikauka»."
@@ -4357,9 +4357,9 @@
           "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya M-MI kwa umoja na wingi:",
           "options": [
             "Umoja: huu (this)",
-            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))",
-            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))",
-            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja (U10))"
+            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)",
+            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)",
+            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi u kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Viashiria vya Ngeli ya M-MI ni «huu, huo, ule» (umoja) na «hii, hiyo, ile» (wingi)."
@@ -4407,10 +4407,10 @@
         {
           "prompt": "Sentensi ipi ina upatanisho sahihi wa kivumishi cha sifa kinachoanza na irabu katika umoja wa Ngeli ya M-MI?",
           "options": [
-            "Mti mweusi ulianguka kando ya barabara. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "Mti meusi ulianguka kando ya barabara (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "Mti mweusi zilianguka barabarani (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "Mti nyeusi ulianguka barabarani (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))"
+            "Mti mweusi ulianguka kando ya barabara. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "Mti meusi ulianguka kando ya barabara (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "Mti mweusi zilianguka barabarani (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "Mti nyeusi ulianguka barabarani (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)"
           ],
           "answerIndex": 0,
           "explanation": "Kivumishi kinachoanza na irabu «-eusi» kinapopatana na nomino ya umoja wa M-MI (mti) huchukua «mw-» kupata «mweusi»."
@@ -4422,10 +4422,10 @@
         {
           "prompt": "Unapovumisha nomino ya wingi \"Miji\" kwa kutumia neno \"-kubwa\", kirai sahihi ni kipi?",
           "options": [
-            "miji mikubwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "miji makubwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "miji vikubwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "miji mkubwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))"
+            "miji mikubwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "miji makubwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "miji vikubwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "miji mkubwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Miji» (wingi katika Ngeli ya M-MI) huchukua kivumishi chenye kiambishi «mi-»: «miji mikubwa»."
@@ -4438,10 +4438,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa katika Ngeli ya M-MI:",
           "options": [
-            "Mto mpana una maji mengi na mito mirefu inapita katika misitu minene yenye miti mizuri. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "Mto vipana una maji mengi na mito marefu inapita. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "Misitu manene ina miti zizuri kando ya mto. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))",
-            "Vivumishi vya sifa haviruhusiwi kutumika na nomino za M-MI. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI (U10))"
+            "Mto mpana una maji mengi na mito mirefu inapita katika misitu minene yenye miti mizuri. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "Mto vipana una maji mengi na mito marefu inapita. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "Misitu manene ina miti zizuri kando ya mto. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)",
+            "Vivumishi vya sifa haviruhusiwi kutumika na nomino za M-MI. (Kutambua na kutumia upatanisho wa vivumishi vya sifa vinavyopokea viambishi mmw katika umoja na mi katika wingi kulingana na sheria za kifonolojia za Ngeli ya MMI)"
           ],
           "answerIndex": 0,
           "explanation": "«Mto mpana una maji mengi na mito mirefu inapita katika misitu minene yenye miti mizuri.» inafuata kanuni sahihi zote za vivumishi katika ngeli ya M-MI."
@@ -4489,10 +4489,10 @@
         {
           "prompt": "Sentensi ipi inatumia nambari mbili (2) kwa upatanisho sahihi wa Ngeli ya M-MI?",
           "options": [
-            "Miti miwili iliangushwa na mvua kubwa. (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Miti wawili iliangushwa na mvua (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Miti viwili iliangushwa na mvua (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Miti mawili iliangushwa na mvua (Kutumia vivumishi vya idadi mmoja (U10))"
+            "Miti miwili iliangushwa na mvua kubwa. (Kutumia vivumishi vya idadi mmoja)",
+            "Miti wawili iliangushwa na mvua (Kutumia vivumishi vya idadi mmoja)",
+            "Miti viwili iliangushwa na mvua (Kutumia vivumishi vya idadi mmoja)",
+            "Miti mawili iliangushwa na mvua (Kutumia vivumishi vya idadi mmoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nambari mbili (2) inapopatana na nomino ya wingi wa Ngeli ya M-MI (miti) huwa «miwili»."
@@ -4504,10 +4504,10 @@
         {
           "prompt": "Chagua mpangilio fasaha zaidi wa maneno katika Kiswahili sanifu kwa nomino \"Miti\":",
           "options": [
-            "Miti mirefu mitatu yangu hii (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Hii yangu mitatu mirefu miti (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Mitatu miti mirefu hii yangu (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Miti yangu hii mitatu mirefu (Kutumia vivumishi vya idadi mmoja (U10))"
+            "Miti mirefu mitatu yangu hii (Kutumia vivumishi vya idadi mmoja)",
+            "Hii yangu mitatu mirefu miti (Kutumia vivumishi vya idadi mmoja)",
+            "Mitatu miti mirefu hii yangu (Kutumia vivumishi vya idadi mmoja)",
+            "Miti yangu hii mitatu mirefu (Kutumia vivumishi vya idadi mmoja)"
           ],
           "answerIndex": 0,
           "explanation": "Mpangilio sanifu wa maneno ni: Nomino (miti) + Sifa (mirefu) + Idadi (mitatu) + Kimilikishi (yangu) + Kionyeshi (hii)."
@@ -4520,10 +4520,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayochanganya idadi na vivumishi katika Ngeli ya M-MI kwa ufasaha kabisa:",
           "options": [
-            "Mti mmoja mkubwa na miti minne midogo ilipandwa bustanini na wanakijiji wote. (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Mti mmoja mkubwa na miti manne midogo yalipandwa bustanini. (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Miti wawili wakubwa walipandwa kando ya mto mmoja. (Kutumia vivumishi vya idadi mmoja (U10))",
-            "Vivumishi vya idadi havipatani na nomino katika Kiswahili. (Kutumia vivumishi vya idadi mmoja (U10))"
+            "Mti mmoja mkubwa na miti minne midogo ilipandwa bustanini na wanakijiji wote. (Kutumia vivumishi vya idadi mmoja)",
+            "Mti mmoja mkubwa na miti manne midogo yalipandwa bustanini. (Kutumia vivumishi vya idadi mmoja)",
+            "Miti wawili wakubwa walipandwa kando ya mto mmoja. (Kutumia vivumishi vya idadi mmoja)",
+            "Vivumishi vya idadi havipatani na nomino katika Kiswahili. (Kutumia vivumishi vya idadi mmoja)"
           ],
           "answerIndex": 0,
           "explanation": "«Mti mmoja mkubwa na miti minne midogo ilipandwa bustanini na wanakijiji wote.» inatumia upatanisho sahihi wa umoja (mmoja mkubwa) na wingi (minne midogo)."
@@ -4571,10 +4571,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya 3/4 (M-MI) ikijumuisha nomino, vivumishi vya sifa, idadi, na kitenzi?",
           "options": [
-            "Miti mirefu mitatu ya msituni ilianguka wakati wa dhoruba kali. (Kuunganisha mada zote za Unit 10 (U10))",
-            "Miti marefu matatu ya msituni yalianguka wakati wa dhoruba (Kuunganisha mada zote za Unit 10 (U10))",
-            "Miti virefu vitatu vya msituni vilianguka wakati wa dhoruba (Kuunganisha mada zote za Unit 10 (U10))",
-            "Mti mirefu mitatu ulianguka jana (Kuunganisha mada zote za Unit 10 (U10))"
+            "Miti mirefu mitatu ya msituni ilianguka wakati wa dhoruba kali. (Kuunganisha mada zote za Unit 10)",
+            "Miti marefu matatu ya msituni yalianguka wakati wa dhoruba (Kuunganisha mada zote za Unit 10)",
+            "Miti virefu vitatu vya msituni vilianguka wakati wa dhoruba (Kuunganisha mada zote za Unit 10)",
+            "Mti mirefu mitatu ulianguka jana (Kuunganisha mada zote za Unit 10)"
           ],
           "answerIndex": 0,
           "explanation": "«Miti mirefu mitatu ya msituni ilianguka wakati wa dhoruba kali.» inatekeleza upatanisho sahihi wa nomino (miti), sifa (mirefu), idadi (mitatu), uhusiano (ya), na kitenzi (ilianguka)."
@@ -4586,10 +4586,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 10, ni upatanisho gani sahihi wa kiashiria na kitenzi kwa nomino \"Mto\" (umoja)?",
           "options": [
-            "Mto huu unamwaga maji mengi ziwani. (Kuunganisha mada zote za Unit 10 (U10))",
-            "Mto hii inamwaga maji ziwani (Kuunganisha mada zote za Unit 10 (U10))",
-            "Mto hili linamwaga maji ziwani (Kuunganisha mada zote za Unit 10 (U10))",
-            "Mto hiki kinamwaga maji ziwani (Kuunganisha mada zote za Unit 10 (U10))"
+            "Mto huu unamwaga maji mengi ziwani. (Kuunganisha mada zote za Unit 10)",
+            "Mto hii inamwaga maji ziwani (Kuunganisha mada zote za Unit 10)",
+            "Mto hili linamwaga maji ziwani (Kuunganisha mada zote za Unit 10)",
+            "Mto hiki kinamwaga maji ziwani (Kuunganisha mada zote za Unit 10)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya umoja «Mto» huchukua kiashiria «huu» na kiambishi cha kitenzi «u-»: «Mto huu unamwaga»."
@@ -4602,10 +4602,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 10 ya Ngeli ya 3/4 (M-MI) na Vivumishi katika Kiswahili:",
           "options": [
-            "Mti huu mrefu ulipandwa mwaka uliopita, mto wetu unatiririka vizuri, na miti hii mitano mizuri inazaa matunda mengi kila msimu. (Kuunganisha mada zote za Unit 10 (U10))",
-            "Mti hii mirefu ilipandwa mwaka uliopita na mto wetu inatiririka vizuri. (Kuunganisha mada zote za Unit 10 (U10))",
-            "Miti hii mitano mizuri yanazaa matunda mengi wakati mto hili linatiririka. (Kuunganisha mada zote za Unit 10 (U10))",
-            "Ngeli ya M-MI haitofautishi kati ya umoja na wingi katika vivumishi. (Kuunganisha mada zote za Unit 10 (U10))"
+            "Mti huu mrefu ulipandwa mwaka uliopita, mto wetu unatiririka vizuri, na miti hii mitano mizuri inazaa matunda mengi kila msimu. (Kuunganisha mada zote za Unit 10)",
+            "Mti hii mirefu ilipandwa mwaka uliopita na mto wetu inatiririka vizuri. (Kuunganisha mada zote za Unit 10)",
+            "Miti hii mitano mizuri yanazaa matunda mengi wakati mto hili linatiririka. (Kuunganisha mada zote za Unit 10)",
+            "Ngeli ya M-MI haitofautishi kati ya umoja na wingi katika vivumishi. (Kuunganisha mada zote za Unit 10)"
           ],
           "answerIndex": 0,
           "explanation": "«Mti huu mrefu ulipandwa mwaka uliopita, mto wetu unatiririka vizuri, na miti hii mitano mizuri inazaa matunda mengi kila msimu.» inajumuisha upatanisho wa M-MI katika nyanja zote kwa ukamilifu."
@@ -4653,10 +4653,10 @@
         {
           "prompt": "Wingi sahihi wa nomino \"Jicho\" (eye) katika Ngeli ya JI-MA ni upi?",
           "options": [
-            "macho (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "majicho (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "vijicho (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "machoni (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))"
+            "macho (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "majicho (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "vijicho (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "machoni (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Jicho» hubadilika kuwa «macho» katika wingi wa Ngeli ya JI-MA."
@@ -4668,10 +4668,10 @@
         {
           "prompt": "Nomino ipi kati ya zifuatazo ni nomino ya majimaji iliyo katika Ngeli ya 6 (MA-) isiyo na umbo la umoja?",
           "options": [
-            "maji (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "mti (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "kitabu (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "nyumba (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))"
+            "maji (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "mti (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "kitabu (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "nyumba (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)"
           ],
           "answerIndex": 0,
           "explanation": "«Maji» ni nomino ya majimaji ya Ngeli ya 6 (MA-) inayojitegemea katika umbo la wingi pekee."
@@ -4684,10 +4684,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zote zilizo sahihi za umoja na wingi katika Ngeli ya 5/6 (JI-MA):",
           "options": [
-            "Gari -> magari, Jina -> majina, Darasa -> madarasa, Tunda -> matunda, Jiwe -> mawe. (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "Kiti -> viti, Kitabu -> vitabu, Chumba -> vyumba. (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "Mto -> mito, Mti -> miti, Mkono -> mikono. (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))",
-            "Mtu -> watu, Mtoto -> watoto, Mwalimu -> walimu. (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda (U11))"
+            "Gari -> magari, Jina -> majina, Darasa -> madarasa, Tunda -> matunda, Jiwe -> mawe. (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "Kiti -> viti, Kitabu -> vitabu, Chumba -> vyumba. (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "Mto -> mito, Mti -> miti, Mkono -> mikono. (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)",
+            "Mtu -> watu, Mtoto -> watoto, Mwalimu -> walimu. (Kutambua na kutumia nomino za Ngeli ya 56 JIMA katika umoja   ji  j na wingi ma zinazojumuisha matunda)"
           ],
           "answerIndex": 0,
           "explanation": "Gari/magari, jina/majina, darasa/madarasa, tunda/matunda, na jiwe/mawe ni nomino halisi za Ngeli ya JI-MA."
@@ -4735,10 +4735,10 @@
         {
           "prompt": "Sentensi ipi inatumia kiashiria sahihi wa \"mbali kidogo\" (hilo) na kitenzi cha umoja katika Ngeli ya JI-MA?",
           "options": [
-            "Darasa hilo lilifungwa kwa ajili ya likizo fupi. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))",
-            "Darasa hiyo ilifungwa kwa likizo (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))",
-            "Darasa hilo yalifungwa kwa likizo (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))",
-            "Darasa hicho kilifungwa kwa likizo (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))"
+            "Darasa hilo lilifungwa kwa ajili ya likizo fupi. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)",
+            "Darasa hiyo ilifungwa kwa likizo (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)",
+            "Darasa hilo yalifungwa kwa likizo (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)",
+            "Darasa hicho kilifungwa kwa likizo (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya umoja ya JI-MA «Darasa» huchukua kiashiria «hilo» na kiambishi cha kitenzi «li-»: «Darasa hilo lilifungwa»."
@@ -4750,10 +4750,10 @@
         {
           "prompt": "Unapozungumzia maji (Ngeli ya 6 MA-), sentensi ipi ina upatanisho sahihi wa kitenzi?",
           "options": [
-            "Maji yanachemka jikoni. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))",
-            "Maji linachemka jikoni (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))",
-            "Maji inachemka jikoni (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))",
-            "Maji unachemka jikoni (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))"
+            "Maji yanachemka jikoni. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)",
+            "Maji linachemka jikoni (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)",
+            "Maji inachemka jikoni (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)",
+            "Maji unachemka jikoni (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Maji» iko katika Ngeli ya 6 (MA-) na huchukua kiambishi cha kitenzi cha wingi «ya-»: «Maji yanachemka»."
@@ -4767,9 +4767,9 @@
           "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya JI-MA kwa umoja na wingi:",
           "options": [
             "Umoja: hili (this)",
-            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))",
-            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))",
-            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja (U11))"
+            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)",
+            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)",
+            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale. (Kutambua na kutumia viambishi vya kitenzi li kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Viashiria vya Ngeli ya JI-MA ni «hili, hilo, lile» (umoja) na «haya, hayo, yale» (wingi)."
@@ -4817,10 +4817,10 @@
         {
           "prompt": "Sentensi ipi ina kivumishi chenye upatanisho sahihi kwa nomino ya umoja \"Gari\" (JI-MA)?",
           "options": [
-            "Gari zuri limefika kutoka bandarini. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "Gari mzuri limefika (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "Gari kizuri limefika (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "Gari lizuri limefika (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))"
+            "Gari zuri limefika kutoka bandarini. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "Gari mzuri limefika (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "Gari kizuri limefika (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "Gari lizuri limefika (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)"
           ],
           "answerIndex": 0,
           "explanation": "Katika umoja wa JI-MA, kivumishi «-zuri» hakichukui kiambishi chochote: «gari zuri»."
@@ -4832,10 +4832,10 @@
         {
           "prompt": "Unapovumisha nomino ya wingi \"Mashati\" kwa kutumia kivumishi kinachoanza na irabu \"-eusi\" (black), umbo sahihi ni lipi?",
           "options": [
-            "mashati meusi (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "mashati maeusi (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "mashati myeusi (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "mashati vyeusi (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))"
+            "mashati meusi (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "mashati maeusi (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "mashati myeusi (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "mashati vyeusi (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)"
           ],
           "answerIndex": 0,
           "explanation": "Katika Ngeli ya 6 (MA-), «ma-» + «-eusi» huungana na kutoa «meusi»: «mashati meusi»."
@@ -4848,10 +4848,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa katika Ngeli ya JI-MA:",
           "options": [
-            "Darasa kubwa jipya limefunguliwa na madarasa mapya yote yana madirisha mazuri meusi. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "Darasa likubwa lizuri limefunguliwa na madarasa vipya vina madirisha vizuri. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "Darasa mkubwa mpya limefunguliwa na madarasa zote zina madirisha. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))",
-            "Vivumishi vya sifa havibadiliki kamwe katika lugha ya Kiswahili. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya (U11))"
+            "Darasa kubwa jipya limefunguliwa na madarasa mapya yote yana madirisha mazuri meusi. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "Darasa likubwa lizuri limefunguliwa na madarasa vipya vina madirisha vizuri. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "Darasa mkubwa mpya limefunguliwa na madarasa zote zina madirisha. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)",
+            "Vivumishi vya sifa havibadiliki kamwe katika lugha ya Kiswahili. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JIMA ambapo umoja hauchukui kiambishi  kabla ya konsonanti lakini huchukua jji kabla ya irabu au pya)"
           ],
           "answerIndex": 0,
           "explanation": "«Darasa kubwa jipya limefunguliwa na madarasa mapya yote yana madirisha mazuri meusi.» inafuata sheria zote za upatanisho wa vivumishi katika ngeli ya JI-MA."
@@ -4899,10 +4899,10 @@
         {
           "prompt": "Sentensi ipi inatumia nambari mbili (2) kwa upatanisho sahihi wa Ngeli ya JI-MA?",
           "options": [
-            "Magari mawili yalisimama mbele ya lango kuu. (Kutumia vivumishi vya idadi moja (U11))",
-            "Magari miwili yalisimama (Kutumia vivumishi vya idadi moja (U11))",
-            "Magari viwili yalisimama (Kutumia vivumishi vya idadi moja (U11))",
-            "Magari wawili yalisimama (Kutumia vivumishi vya idadi moja (U11))"
+            "Magari mawili yalisimama mbele ya lango kuu. (Kutumia vivumishi vya idadi moja)",
+            "Magari miwili yalisimama (Kutumia vivumishi vya idadi moja)",
+            "Magari viwili yalisimama (Kutumia vivumishi vya idadi moja)",
+            "Magari wawili yalisimama (Kutumia vivumishi vya idadi moja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Magari» (wingi wa JI-MA) huchukua kivumishi cha idadi «mawili»."
@@ -4914,10 +4914,10 @@
         {
           "prompt": "Nomino ya kawaida \"Nyumba\" inapohamishwa katika Ngeli ya JI-MA kuonyesha ukubwa uliopitiliza (augmentative), huwa neno gani?",
           "options": [
-            "jumba (Kutumia vivumishi vya idadi moja (U11))",
-            "kijumba (Kutumia vivumishi vya idadi moja (U11))",
-            "unyumba (Kutumia vivumishi vya idadi moja (U11))",
-            "manyumba (Kutumia vivumishi vya idadi moja (U11))"
+            "jumba (Kutumia vivumishi vya idadi moja)",
+            "kijumba (Kutumia vivumishi vya idadi moja)",
+            "unyumba (Kutumia vivumishi vya idadi moja)",
+            "manyumba (Kutumia vivumishi vya idadi moja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Nyumba» inapopata ukubwa katika Ngeli ya JI-MA hubadilika kuwa «jumba» (wingi: «majumba»)."
@@ -4930,10 +4930,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayochanganya idadi na dhana ya ukubwa katika Ngeli ya JI-MA kwa ukamilifu:",
           "options": [
-            "Majitu matatu yalisimama mbele ya majumba makubwa mawili ya jiji kuu. (Kutumia vivumishi vya idadi moja (U11))",
-            "Majitu mitatu yalisimama mbele ya majumba viwili vya jiji. (Kutumia vivumishi vya idadi moja (U11))",
-            "Watu matatu walisimama mbele ya nyumba mawili. (Kutumia vivumishi vya idadi moja (U11))",
-            "Ukubwa wa nomino hautumiki katika lugha ya Kiswahili. (Kutumia vivumishi vya idadi moja (U11))"
+            "Majitu matatu yalisimama mbele ya majumba makubwa mawili ya jiji kuu. (Kutumia vivumishi vya idadi moja)",
+            "Majitu mitatu yalisimama mbele ya majumba viwili vya jiji. (Kutumia vivumishi vya idadi moja)",
+            "Watu matatu walisimama mbele ya nyumba mawili. (Kutumia vivumishi vya idadi moja)",
+            "Ukubwa wa nomino hautumiki katika lugha ya Kiswahili. (Kutumia vivumishi vya idadi moja)"
           ],
           "answerIndex": 0,
           "explanation": "«Majitu matatu yalisimama mbele ya majumba makubwa mawili ya jiji kuu.» inatumia miundo sahihi ya ukubwa (majitu, majumba, jiji) na idadi (matatu, mawili)."
@@ -4981,10 +4981,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya 5/6 (JI-MA) ikijumuisha nomino, sifa, idadi, na kitenzi?",
           "options": [
-            "Madarasa mapya matatu yalijengwa na wananchi wote kijijini. (Kuunganisha mada zote za Unit 11 (U11))",
-            "Madarasa vipya vitatu vilijengwa kijijini (Kuunganisha mada zote za Unit 11 (U11))",
-            "Madarasa mirefu mitatu ilijengwa kijijini (Kuunganisha mada zote za Unit 11 (U11))",
-            "Darasa mapya matatu yalijengwa jana (Kuunganisha mada zote za Unit 11 (U11))"
+            "Madarasa mapya matatu yalijengwa na wananchi wote kijijini. (Kuunganisha mada zote za Unit 11)",
+            "Madarasa vipya vitatu vilijengwa kijijini (Kuunganisha mada zote za Unit 11)",
+            "Madarasa mirefu mitatu ilijengwa kijijini (Kuunganisha mada zote za Unit 11)",
+            "Darasa mapya matatu yalijengwa jana (Kuunganisha mada zote za Unit 11)"
           ],
           "answerIndex": 0,
           "explanation": "«Madarasa mapya matatu yalijengwa na wananchi wote kijijini.» inatekeleza upatanisho sahihi wa nomino (madarasa), sifa (mapya), idadi (matatu), na kitenzi (yalijengwa)."
@@ -4996,10 +4996,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 11, ni upatanisho gani sahihi wa kiashiria, kivumishi cha sifa, na kitenzi kwa nomino \"Gari\" (umoja)?",
           "options": [
-            "Gari hili zuri liliendeshwa kwa umakini mkubwa. (Kuunganisha mada zote za Unit 11 (U11))",
-            "Gari hii nzuri iliendeshwa kwa umakini (Kuunganisha mada zote za Unit 11 (U11))",
-            "Gari hiki kizuri kiliendeshwa kwa umakini (Kuunganisha mada zote za Unit 11 (U11))",
-            "Gari huu mzuri uliendeshwa kwa umakini (Kuunganisha mada zote za Unit 11 (U11))"
+            "Gari hili zuri liliendeshwa kwa umakini mkubwa. (Kuunganisha mada zote za Unit 11)",
+            "Gari hii nzuri iliendeshwa kwa umakini (Kuunganisha mada zote za Unit 11)",
+            "Gari hiki kizuri kiliendeshwa kwa umakini (Kuunganisha mada zote za Unit 11)",
+            "Gari huu mzuri uliendeshwa kwa umakini (Kuunganisha mada zote za Unit 11)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Gari» (umoja katika JI-MA) huchukua kiashiria «hili», sifa «zuri», na kitenzi «liliendeshwa»."
@@ -5012,10 +5012,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 11 ya Ngeli ya 5/6 (JI-MA) na Upatanisho katika Kiswahili:",
           "options": [
-            "Gari letu jipya liliwasili jana, jumba lile kuu limepambwa kwa mawe mazuri, na maduka yote matano yamefunguliwa mjini. (Kuunganisha mada zote za Unit 11 (U11))",
-            "Gari yetu mpya iliwasili jana na jumba kile kimepambwa kwa mawe vizuri. (Kuunganisha mada zote za Unit 11 (U11))",
-            "Maduka yote mitano yamefunguliwa mjini wakati gari yetu inafika. (Kuunganisha mada zote za Unit 11 (U11))",
-            "Ngeli ya JI-MA hairuhusu matumizi ya vivumishi vya idadi. (Kuunganisha mada zote za Unit 11 (U11))"
+            "Gari letu jipya liliwasili jana, jumba lile kuu limepambwa kwa mawe mazuri, na maduka yote matano yamefunguliwa mjini. (Kuunganisha mada zote za Unit 11)",
+            "Gari yetu mpya iliwasili jana na jumba kile kimepambwa kwa mawe vizuri. (Kuunganisha mada zote za Unit 11)",
+            "Maduka yote mitano yamefunguliwa mjini wakati gari yetu inafika. (Kuunganisha mada zote za Unit 11)",
+            "Ngeli ya JI-MA hairuhusu matumizi ya vivumishi vya idadi. (Kuunganisha mada zote za Unit 11)"
           ],
           "answerIndex": 0,
           "explanation": "«Gari letu jipya liliwasili jana, jumba lile kuu limepambwa kwa mawe mazuri, na maduka yote matano yamefunguliwa mjini.» inajumuisha upatanisho wa JI-MA katika nyanja zote kwa ukamilifu."
@@ -5063,10 +5063,10 @@
         {
           "prompt": "Wingi sahihi wa nomino \"Chuo\" (college / university) katika Ngeli ya KI-VI ni upi?",
           "options": [
-            "vyuo (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "machuo (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "vichuo (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "mavyuo (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))"
+            "vyuo (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "machuo (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "vichuo (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "mavyuo (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Chuo» (ambayo asili yake ni *ki-uo*) hubadilika kuwa «vyuo» (*vi-uo*) katika wingi."
@@ -5078,10 +5078,10 @@
         {
           "prompt": "Nomino ipi kati ya zifuatazo ni nomino ya Ngeli ya 7 (KI-VI umoja) inayoanza na 'ch-' kabla ya irabu?",
           "options": [
-            "chumba (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "chui (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "chai (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "chapa (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))"
+            "chumba (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "chui (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "chai (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "chapa (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)"
           ],
           "answerIndex": 0,
           "explanation": "«Chumba» (wingi: «vyumba») ni nomino halisi ya Ngeli ya KI-VI."
@@ -5094,10 +5094,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zote zilizo sahihi za umoja na wingi katika Ngeli ya 7/8 (KI-VI):",
           "options": [
-            "Kitabu -> vitabu, Chumba -> vyumba, Chakula -> vyakula, Kiti -> viti, Chombo -> vyombo. (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "Gari -> magari, Jina -> majina, Neno -> maneno. (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "Mti -> miti, Mto -> mito, Mkono -> mikono. (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))",
-            "Mtoto -> watoto, Mtu -> watu, Mwalimu -> walimu. (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa (U12))"
+            "Kitabu -> vitabu, Chumba -> vyumba, Chakula -> vyakula, Kiti -> viti, Chombo -> vyombo. (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "Gari -> magari, Jina -> majina, Neno -> maneno. (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "Mti -> miti, Mto -> mito, Mkono -> mikono. (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)",
+            "Mtoto -> watoto, Mtu -> watu, Mwalimu -> walimu. (Kutambua na kutumia nomino za Ngeli ya 78 KIVI katika umoja ki  ch na wingi vi  vy zinazojumuisha vifaa)"
           ],
           "answerIndex": 0,
           "explanation": "Kitabu/vitabu, chumba/vyumba, chakula/vyakula, kiti/viti, na chombo/vyombo ni mifano halisi ya Ngeli ya KI-VI."
@@ -5145,10 +5145,10 @@
         {
           "prompt": "Sentensi ipi inatumia kiashiria sahihi cha \"mbali kidogo\" (hicho) na kitenzi cha umoja katika Ngeli ya KI-VI?",
           "options": [
-            "Kitabu hicho kilisomwa na wanafunzi wote darasani. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))",
-            "Kitabu hilo lilisomwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))",
-            "Kitabu huo ulisomwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))",
-            "Kitabu hiyo ilisomwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))"
+            "Kitabu hicho kilisomwa na wanafunzi wote darasani. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)",
+            "Kitabu hilo lilisomwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)",
+            "Kitabu huo ulisomwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)",
+            "Kitabu hiyo ilisomwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya umoja ya KI-VI «Kitabu» huchukua kiashiria «hicho» na kiambishi cha kitenzi «ki-»: «Kitabu hicho kilisomwa»."
@@ -5160,10 +5160,10 @@
         {
           "prompt": "Unapozungumzia vyumba vingi vilivyo mbali zaidi (yonder), kirai sahihi cha kionyeshi ni kipi?",
           "options": [
-            "vyumba vile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))",
-            "vyumba yale (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))",
-            "vyumba ile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))",
-            "vyumba kile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))"
+            "vyumba vile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)",
+            "vyumba yale (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)",
+            "vyumba ile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)",
+            "vyumba kile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Katika wingi wa Ngeli ya KI-VI, kiashiria cha mbali zaidi ni «vile»: «vyumba vile»."
@@ -5177,9 +5177,9 @@
           "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya KI-VI kwa umoja na wingi:",
           "options": [
             "Umoja: hiki (this)",
-            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))",
-            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))",
-            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja (U12))"
+            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)",
+            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)",
+            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi ki kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Viashiria vya Ngeli ya KI-VI ni «hiki, hicho, kile» (umoja) na «hivi, hivyo, vile» (wingi)."
@@ -5227,10 +5227,10 @@
         {
           "prompt": "Sentensi ipi ina kivumishi chenye upatanisho sahihi kinachoanza na irabu katika umoja wa Ngeli ya KI-VI?",
           "options": [
-            "Kiti cheusi kiliwekwa sebuleni. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "Kiti kizuri kyeusi kiliwekwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "Kiti jeusi kiliwekwa sebuleni (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "Kiti mweusi kiliwekwa sebuleni (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))"
+            "Kiti cheusi kiliwekwa sebuleni. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "Kiti kizuri kyeusi kiliwekwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "Kiti jeusi kiliwekwa sebuleni (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "Kiti mweusi kiliwekwa sebuleni (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)"
           ],
           "answerIndex": 0,
           "explanation": "Kivumishi kinachoanza na irabu «-eusi» kinapopatana na nomino ya umoja wa KI-VI (kiti) huchukua «ch-» kupata «cheusi»."
@@ -5242,10 +5242,10 @@
         {
           "prompt": "Unapovumisha nomino ya wingi \"Vyakula\" kwa kutumia kivumishi \"-tamu\" (delicious), kirai sahihi ni kipi?",
           "options": [
-            "vyakula vitamu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "vyakula matamu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "vyakula mitamu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "vyakula kitamu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))"
+            "vyakula vitamu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "vyakula matamu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "vyakula mitamu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "vyakula kitamu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Vyakula» (wingi katika Ngeli ya KI-VI) huchukua kivumishi chenye kiambishi «vi-»: «vyakula vitamu»."
@@ -5258,10 +5258,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa katika Ngeli ya KI-VI:",
           "options": [
-            "Chumba kikubwa cheupe kimesafishwa na vyombo vyote vizuri vyepesi vimehifadhiwa kabatini. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "Chumba mkubwa mweupe kimesafishwa na vyombo vizuri mepesi vimehifadhiwa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "Chumba likubwa jeupe limehifadhiwa na vyombo vyote zuri zepesi. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))",
-            "Vivumishi vya KI-VI havitofautishi kati ya konsonanti na irabu. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu (U12))"
+            "Chumba kikubwa cheupe kimesafishwa na vyombo vyote vizuri vyepesi vimehifadhiwa kabatini. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "Chumba mkubwa mweupe kimesafishwa na vyombo vizuri mepesi vimehifadhiwa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "Chumba likubwa jeupe limehifadhiwa na vyombo vyote zuri zepesi. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)",
+            "Vivumishi vya KI-VI havitofautishi kati ya konsonanti na irabu. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya KIVI kich katika umoja na vivy katika wingi kulingana na muundo wa konsonanti na irabu)"
           ],
           "answerIndex": 0,
           "explanation": "«Chumba kikubwa cheupe kimesafishwa na vyombo vyote vizuri vyepesi vimehifadhiwa kabatini.» inafuata kanuni sahihi zote za vivumishi vya KI-VI."
@@ -5309,10 +5309,10 @@
         {
           "prompt": "Sentensi ipi inatumia nambari mbili (2) kwa upatanisho sahihi wa Ngeli ya KI-VI?",
           "options": [
-            "Vitabu viwili vizuri vilinunuliwa maktabani. (Kutumia vivumishi vya idadi kimoja (U12))",
-            "Vitabu mawili vizuri vilinunuliwa (Kutumia vivumishi vya idadi kimoja (U12))",
-            "Vitabu miwili vizuri vilinunuliwa (Kutumia vivumishi vya idadi kimoja (U12))",
-            "Vitabu wawili vizuri vilinunuliwa (Kutumia vivumishi vya idadi kimoja (U12))"
+            "Vitabu viwili vizuri vilinunuliwa maktabani. (Kutumia vivumishi vya idadi kimoja)",
+            "Vitabu mawili vizuri vilinunuliwa (Kutumia vivumishi vya idadi kimoja)",
+            "Vitabu miwili vizuri vilinunuliwa (Kutumia vivumishi vya idadi kimoja)",
+            "Vitabu wawili vizuri vilinunuliwa (Kutumia vivumishi vya idadi kimoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya wingi ya KI-VI «Vitabu» huchukua kivumishi cha idadi «viwili»."
@@ -5324,10 +5324,10 @@
         {
           "prompt": "Nomino ya kawaida \"Mto\" inapohamishwa katika Ngeli ya KI-VI kuonyesha udogo (diminutive), huwa neno gani?",
           "options": [
-            "kijito (Kutumia vivumishi vya idadi kimoja (U12))",
-            "kito (Kutumia vivumishi vya idadi kimoja (U12))",
-            "uchito (Kutumia vivumishi vya idadi kimoja (U12))",
-            "jito (Kutumia vivumishi vya idadi kimoja (U12))"
+            "kijito (Kutumia vivumishi vya idadi kimoja)",
+            "kito (Kutumia vivumishi vya idadi kimoja)",
+            "uchito (Kutumia vivumishi vya idadi kimoja)",
+            "jito (Kutumia vivumishi vya idadi kimoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Mto» inapopata udogo katika Ngeli ya KI-VI hubadilika kuwa «kijito» (wingi: «vijito»)."
@@ -5340,10 +5340,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayochanganya idadi na dhana ya udogo katika Ngeli ya KI-VI kwa ukamilifu:",
           "options": [
-            "Kijiji chetu kina vijito vitatu na vijumba vidogo vinne vilivyojengwa kando ya kilima. (Kutumia vivumishi vya idadi kimoja (U12))",
-            "Kijiji yetu ina vijito matatu na vijumba manne vilivyojengwa kando ya kilima. (Kutumia vivumishi vya idadi kimoja (U12))",
-            "Kijiji wetu una vijito mitatu na vijumba vinne vya kilima. (Kutumia vivumishi vya idadi kimoja (U12))",
-            "Udogo wa nomino hautumiki katika lugha ya Kiswahili. (Kutumia vivumishi vya idadi kimoja (U12))"
+            "Kijiji chetu kina vijito vitatu na vijumba vidogo vinne vilivyojengwa kando ya kilima. (Kutumia vivumishi vya idadi kimoja)",
+            "Kijiji yetu ina vijito matatu na vijumba manne vilivyojengwa kando ya kilima. (Kutumia vivumishi vya idadi kimoja)",
+            "Kijiji wetu una vijito mitatu na vijumba vinne vya kilima. (Kutumia vivumishi vya idadi kimoja)",
+            "Udogo wa nomino hautumiki katika lugha ya Kiswahili. (Kutumia vivumishi vya idadi kimoja)"
           ],
           "answerIndex": 0,
           "explanation": "«Kijiji chetu kina vijito vitatu na vijumba vidogo vinne vilivyojengwa kando ya kilima.» inatumia miundo sahihi ya udogo (kijiji, vijito, vijumba, kilima) na idadi (vitatu, vinne)."
@@ -5391,10 +5391,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya 7/8 (KI-VI) ikijumuisha nomino, sifa, idadi, na kitenzi?",
           "options": [
-            "Vitabu vizuri vinne vya Kiswahili vilinunuliwa kwa ajili ya wanafunzi wote. (Kuunganisha mada zote za Unit 12 (U12))",
-            "Vitabu mazuri manne ya Kiswahili yalinunuliwa (Kuunganisha mada zote za Unit 12 (U12))",
-            "Vitabu mizuri minne ya Kiswahili ilinunuliwa (Kuunganisha mada zote za Unit 12 (U12))",
-            "Kitabu vizuri vinne vilinunuliwa jana (Kuunganisha mada zote za Unit 12 (U12))"
+            "Vitabu vizuri vinne vya Kiswahili vilinunuliwa kwa ajili ya wanafunzi wote. (Kuunganisha mada zote za Unit 12)",
+            "Vitabu mazuri manne ya Kiswahili yalinunuliwa (Kuunganisha mada zote za Unit 12)",
+            "Vitabu mizuri minne ya Kiswahili ilinunuliwa (Kuunganisha mada zote za Unit 12)",
+            "Kitabu vizuri vinne vilinunuliwa jana (Kuunganisha mada zote za Unit 12)"
           ],
           "answerIndex": 0,
           "explanation": "«Vitabu vizuri vinne vya Kiswahili vilinunuliwa kwa ajili ya wanafunzi wote.» inatekeleza upatanisho sahihi wa nomino (vitabu), sifa (vizuri), idadi (vinne), na kitenzi (vilinunuliwa)."
@@ -5406,10 +5406,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 12, ni upatanisho gani sahihi wa kiashiria, kivumishi cha sifa, na kitenzi kwa nomino \"Chumba\" (umoja)?",
           "options": [
-            "Chumba hiki kikubwa kilisafishwa asubuhi na mapema. (Kuunganisha mada zote za Unit 12 (U12))",
-            "Chumba hii kubwa ilisafishwa (Kuunganisha mada zote za Unit 12 (U12))",
-            "Chumba hili kubwa lilisafishwa (Kuunganisha mada zote za Unit 12 (U12))",
-            "Chumba huu mkubwa ulisafishwa (Kuunganisha mada zote za Unit 12 (U12))"
+            "Chumba hiki kikubwa kilisafishwa asubuhi na mapema. (Kuunganisha mada zote za Unit 12)",
+            "Chumba hii kubwa ilisafishwa (Kuunganisha mada zote za Unit 12)",
+            "Chumba hili kubwa lilisafishwa (Kuunganisha mada zote za Unit 12)",
+            "Chumba huu mkubwa ulisafishwa (Kuunganisha mada zote za Unit 12)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Chumba» (umoja katika KI-VI) huchukua kiashiria «hiki», sifa «kikubwa», na kitenzi «kilisafishwa»."
@@ -5422,10 +5422,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 12 ya Ngeli ya 7/8 (KI-VI) na Vionyeshi katika Kiswahili:",
           "options": [
-            "Kitabu hiki kizuri kina mafunzo bora, kijiji chetu kina vilima vidogo vitatu, na vyumba vyote vitano vya chuo vimefunguliwa. (Kuunganisha mada zote za Unit 12 (U12))",
-            "Kitabu hii nzuri ina mafunzo bora na kijiji yetu ina vilima mitatu. (Kuunganisha mada zote za Unit 12 (U12))",
-            "Vyumba vyote matano vya chuo yamefunguliwa wakati kitabu kile inasomwa. (Kuunganisha mada zote za Unit 12 (U12))",
-            "Ngeli ya KI-VI haihusiani na dhana ya udogo wa nomino. (Kuunganisha mada zote za Unit 12 (U12))"
+            "Kitabu hiki kizuri kina mafunzo bora, kijiji chetu kina vilima vidogo vitatu, na vyumba vyote vitano vya chuo vimefunguliwa. (Kuunganisha mada zote za Unit 12)",
+            "Kitabu hii nzuri ina mafunzo bora na kijiji yetu ina vilima mitatu. (Kuunganisha mada zote za Unit 12)",
+            "Vyumba vyote matano vya chuo yamefunguliwa wakati kitabu kile inasomwa. (Kuunganisha mada zote za Unit 12)",
+            "Ngeli ya KI-VI haihusiani na dhana ya udogo wa nomino. (Kuunganisha mada zote za Unit 12)"
           ],
           "answerIndex": 0,
           "explanation": "«Kitabu hiki kizuri kina mafunzo bora, kijiji chetu kina vilima vidogo vitatu, na vyumba vyote vitano vya chuo vimefunguliwa.» inajumuisha upatanisho wa KI-VI katika nyanja zote kwa ukamilifu."
@@ -5473,10 +5473,10 @@
         {
           "prompt": "Ni upi mabadiliko ya umbo la nomino \"Barua\" (letter) inapobadilika kutoka umoja kwenda wingi katika Ngeli ya N-N?",
           "options": [
-            "barua (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "mabarua (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "vibarua (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "mibarua (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))"
+            "barua (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "mabarua (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "vibarua (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "mibarua (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino za Ngeli ya N-N kama «barua» hazibadiliki umbo lake kati ya umoja na wingi."
@@ -5488,10 +5488,10 @@
         {
           "prompt": "Nomino ipi kati ya zifuatazo ni neno la kigeni (Loanword) lililoingia katika Ngeli ya N-N?",
           "options": [
-            "simu (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "mtu (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "kitabu (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "mti (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))"
+            "simu (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "mtu (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "kitabu (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "mti (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)"
           ],
           "answerIndex": 0,
           "explanation": "«Simu» (kutoka Kiarabu au lugha za kigeni) ni nomino ya Ngeli ya 9/10 (N-N)."
@@ -5504,10 +5504,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha ya nomino zote zilizo katika Ngeli ya 9/10 (N-N):",
           "options": [
-            "Nyumba, nguo, taa, njia, barua, chupa, meza, simu, kalamu, sabuni, safari, shule. (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "Kiti, kitabu, chumba, chakula, chombo, chuo. (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "Mtu, mtoto, mwalimu, mwanafunzi, mpishi, mgeni. (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))",
-            "Mti, mto, mlima, mkono, mguu, mwili. (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi (U13))"
+            "Nyumba, nguo, taa, njia, barua, chupa, meza, simu, kalamu, sabuni, safari, shule. (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "Kiti, kitabu, chumba, chakula, chombo, chuo. (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "Mtu, mtoto, mwalimu, mwanafunzi, mpishi, mgeni. (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)",
+            "Mti, mto, mlima, mkono, mguu, mwili. (Kutambua na kutumia nomino za Ngeli ya 910 NN zenye umbo moja katika umoja na wingi)"
           ],
           "answerIndex": 0,
           "explanation": "Nyumba, nguo, taa, njia, barua, chupa, meza, simu, kalamu, sabuni, safari, na shule zote ni nomino halisi za Ngeli ya N-N."
@@ -5555,10 +5555,10 @@
         {
           "prompt": "Sentensi ipi inatumia kiashiria sahihi cha \"mbali kidogo\" (hizo) na kitenzi cha wingi katika Ngeli ya N-N?",
           "options": [
-            "Barua hizo ziliandikwa na mwalimu mkuu. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))",
-            "Barua hayo yaliandikwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))",
-            "Barua hiyo iliandikwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))",
-            "Barua hivyo viliandikwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))"
+            "Barua hizo ziliandikwa na mwalimu mkuu. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)",
+            "Barua hayo yaliandikwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)",
+            "Barua hiyo iliandikwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)",
+            "Barua hivyo viliandikwa (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya wingi ya N-N «Barua» huchukua kiashiria «hizo» na kiambishi cha kitenzi «zi-»: «Barua hizo ziliandikwa»."
@@ -5570,10 +5570,10 @@
         {
           "prompt": "Unapozungumzia njia moja iliyo mbali zaidi (yonder), kirai sahihi cha kionyeshi ni kipi?",
           "options": [
-            "njia ile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))",
-            "njia lile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))",
-            "njia ule (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))",
-            "njia kile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))"
+            "njia ile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)",
+            "njia lile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)",
+            "njia ule (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)",
+            "njia kile (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Katika umoja wa Ngeli ya N-N, kiashiria cha mbali zaidi ni «ile»: «njia ile»."
@@ -5587,9 +5587,9 @@
           "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya N-N kwa umoja na wingi:",
           "options": [
             "Umoja: hii (this)",
-            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))",
-            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))",
-            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja (U13))"
+            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)",
+            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)",
+            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile. (Kutambua na kutumia viambishi vya upatanisho wa kitenzi i kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Viashiria vya Ngeli ya N-N ni «hii, hiyo, ile» (umoja) na «hizi, hizo, zile» (wingi)."
@@ -5637,10 +5637,10 @@
         {
           "prompt": "Shina la kivumishi \"-refu\" (long) linapopatana na nomino \"Njia\" (N-N), umbo sahihi huwa lipi kufuatia sheria za sauti za Kibantu?",
           "options": [
-            "njia ndefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "njia nrefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "njia refu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "njia mirefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))"
+            "njia ndefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "njia nrefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "njia refu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "njia mirefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)"
           ],
           "answerIndex": 0,
           "explanation": "Katika ngeli ya N-N, «n-» + «-refu» hubadilika na kutoa «ndefu» (*r hubadilika kuwa d*)."
@@ -5652,10 +5652,10 @@
         {
           "prompt": "Unapovumisha nomino \"Nguo\" (clothes) kwa kutumia kivumishi kinachoanza na irabu \"-eupe\" (white), umbo sahihi ni lipi?",
           "options": [
-            "nguo nyeupe (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "nguo meupe (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "nguo vyeupe (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "nguo neupe (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))"
+            "nguo nyeupe (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "nguo meupe (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "nguo vyeupe (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "nguo neupe (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)"
           ],
           "answerIndex": 0,
           "explanation": "Kabla ya irabu, kiambishi cha N-N huwa «ny-»: «nguo nyeupe»."
@@ -5668,10 +5668,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa vya Kibantu na vya Kiarabu katika Ngeli ya N-N:",
           "options": [
-            "Nyumba mpya imara ina njia ndefu na nguo nyeusi nzuri zimeanikwa kamba. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "Nyumba ripya limara ina njia nrefu na nguo meusi mazuri zimeanikwa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "Nyumba kipya kizuri ina njia mirefu na nguo vyeusi vizuri zimeanikwa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))",
-            "Vivumishi vya N-N havina tofauti yoyote na vivumishi vya ngeli ya A-WA. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN (U13))"
+            "Nyumba mpya imara ina njia ndefu na nguo nyeusi nzuri zimeanikwa kamba. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "Nyumba ripya limara ina njia nrefu na nguo meusi mazuri zimeanikwa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "Nyumba kipya kizuri ina njia mirefu na nguo vyeusi vizuri zimeanikwa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)",
+            "Vivumishi vya N-N havina tofauti yoyote na vivumishi vya ngeli ya A-WA. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya NN)"
           ],
           "answerIndex": 0,
           "explanation": "«Nyumba mpya imara ina njia ndefu na nguo nyeusi nzuri zimeanikwa kamba.» inatekeleza sheria zote za pua (mpya, ndefu, nyeusi, nzuri) na sifa ya Kiarabu (imara)."
@@ -5719,10 +5719,10 @@
         {
           "prompt": "Sentensi ipi inatumia idadi ya mbili (2) kwa usahihi kwa nomino isiyo na uhai katika Ngeli ya N-N?",
           "options": [
-            "Kalamu mbili zilianguka chini ya meza. (Kutumia vivumishi vya idadi moja (U13))",
-            "Kalamu mawili zilianguka (Kutumia vivumishi vya idadi moja (U13))",
-            "Kalamu viwili zilianguka (Kutumia vivumishi vya idadi moja (U13))",
-            "Kalamu wawili walianguka (Kutumia vivumishi vya idadi moja (U13))"
+            "Kalamu mbili zilianguka chini ya meza. (Kutumia vivumishi vya idadi moja)",
+            "Kalamu mawili zilianguka (Kutumia vivumishi vya idadi moja)",
+            "Kalamu viwili zilianguka (Kutumia vivumishi vya idadi moja)",
+            "Kalamu wawili walianguka (Kutumia vivumishi vya idadi moja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino isiyo na uhai ya N-N «Kalamu» huchukua kivumishi cha idadi «mbili» na kitenzi «zilianguka»."
@@ -5734,10 +5734,10 @@
         {
           "prompt": "Unapozungumzia wanyama watatu (ng'ombe 3), sentensi ipi inafuata kanuni sahihi ya upatanisho wa viumbe hai (Animate Concord)?",
           "options": [
-            "Ng'ombe watatu wanakunywa maji mtoni. (Kutumia vivumishi vya idadi moja (U13))",
-            "Ng'ombe tatu zinakunywa maji mtoni (Kutumia vivumishi vya idadi moja (U13))",
-            "Ng'ombe matatu yanakunywa maji (Kutumia vivumishi vya idadi moja (U13))",
-            "Ng'ombe vitatu vinakunywa maji (Kutumia vivumishi vya idadi moja (U13))"
+            "Ng'ombe watatu wanakunywa maji mtoni. (Kutumia vivumishi vya idadi moja)",
+            "Ng'ombe tatu zinakunywa maji mtoni (Kutumia vivumishi vya idadi moja)",
+            "Ng'ombe matatu yanakunywa maji (Kutumia vivumishi vya idadi moja)",
+            "Ng'ombe vitatu vinakunywa maji (Kutumia vivumishi vya idadi moja)"
           ],
           "answerIndex": 0,
           "explanation": "Wanyama wote katika Kiswahili hufuata upatanisho wa viumbe hai (Ngeli ya 1/2 A-WA): «Ng'ombe watatu wanakunywa»."
@@ -5750,10 +5750,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayochanganya upatanisho wa vitu visivyo na uhai na viumbe hai katika Ngeli ya N-N kwa ukamilifu:",
           "options": [
-            "Nyumba zetu mbili ziko kando ya bustani ambapo mbuzi watatu wakubwa wanakula majani. (Kutumia vivumishi vya idadi moja (U13))",
-            "Nyumba zetu mbili ziko kando ya bustani ambapo mbuzi tatu kubwa zinakula majani. (Kutumia vivumishi vya idadi moja (U13))",
-            "Nyumba yetu mawili yako kando ya bustani wakati mbuzi tatu zinakula. (Kutumia vivumishi vya idadi moja (U13))",
-            "Wanyama na vitu visivyo na uhai hutumia viambishi vinavyofanana kabisa. (Kutumia vivumishi vya idadi moja (U13))"
+            "Nyumba zetu mbili ziko kando ya bustani ambapo mbuzi watatu wakubwa wanakula majani. (Kutumia vivumishi vya idadi moja)",
+            "Nyumba zetu mbili ziko kando ya bustani ambapo mbuzi tatu kubwa zinakula majani. (Kutumia vivumishi vya idadi moja)",
+            "Nyumba yetu mawili yako kando ya bustani wakati mbuzi tatu zinakula. (Kutumia vivumishi vya idadi moja)",
+            "Wanyama na vitu visivyo na uhai hutumia viambishi vinavyofanana kabisa. (Kutumia vivumishi vya idadi moja)"
           ],
           "answerIndex": 0,
           "explanation": "«Nyumba zetu mbili ziko kando ya bustani ambapo mbuzi watatu wakubwa wanakula majani.» inatofautisha vizuri upatanisho wa vitu (nyumba zetu mbili ziko) na wanyama (mbuzi watatu wakubwa wanakula)."
@@ -5801,10 +5801,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya 9/10 (N-N) ikijumuisha nomino, sifa, idadi, na kitenzi kwa vitu visivyo na uhai?",
           "options": [
-            "Nguo nzuri tatu ziliuzwa dukani kwa bei nafuu. (Kuunganisha mada zote za Unit 13 (U13))",
-            "Nguo mazuri matatu yaliuzwa (Kuunganisha mada zote za Unit 13 (U13))",
-            "Nguo vizuri vitatu viliuzwa (Kuunganisha mada zote za Unit 13 (U13))",
-            "Nguo mizuri mitatu iliuzwa (Kuunganisha mada zote za Unit 13 (U13))"
+            "Nguo nzuri tatu ziliuzwa dukani kwa bei nafuu. (Kuunganisha mada zote za Unit 13)",
+            "Nguo mazuri matatu yaliuzwa (Kuunganisha mada zote za Unit 13)",
+            "Nguo vizuri vitatu viliuzwa (Kuunganisha mada zote za Unit 13)",
+            "Nguo mizuri mitatu iliuzwa (Kuunganisha mada zote za Unit 13)"
           ],
           "answerIndex": 0,
           "explanation": "«Nguo nzuri tatu ziliuzwa dukani kwa bei nafuu.» inatekeleza upatanisho sahihi wa nomino (nguo), sifa (nzuri), idadi (tatu), na kitenzi (ziliuzwa)."
@@ -5816,10 +5816,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 13, ni upatanisho gani sahihi wa kiashiria, kivumishi cha sifa, na kitenzi kwa nomino \"Simu\" (umoja)?",
           "options": [
-            "Simu hii mpya iliwasilishwa ofisini mapema. (Kuunganisha mada zote za Unit 13 (U13))",
-            "Simu hili jipya liliwasilishwa (Kuunganisha mada zote za Unit 13 (U13))",
-            "Simu hiki kipya kiliwasilishwa (Kuunganisha mada zote za Unit 13 (U13))",
-            "Simu huu mpya uliwasilishwa (Kuunganisha mada zote za Unit 13 (U13))"
+            "Simu hii mpya iliwasilishwa ofisini mapema. (Kuunganisha mada zote za Unit 13)",
+            "Simu hili jipya liliwasilishwa (Kuunganisha mada zote za Unit 13)",
+            "Simu hiki kipya kiliwasilishwa (Kuunganisha mada zote za Unit 13)",
+            "Simu huu mpya uliwasilishwa (Kuunganisha mada zote za Unit 13)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Simu» (umoja katika N-N) huchukua kiashiria «hii», sifa «mpya», na kitenzi «iliwasilishwa»."
@@ -5832,10 +5832,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 13 ya Ngeli ya 9/10 (N-N) na Vivumishi katika Kiswahili:",
           "options": [
-            "Nyumba zetu mbili mpya zimejengwa vizuri kando ya barabara kuu, wakati simba wawili wakubwa wamelala chini ya mti. (Kuunganisha mada zote za Unit 13 (U13))",
-            "Nyumba yetu mawili mapya yamejengwa vizuri wakati simba mbili zamelala. (Kuunganisha mada zote za Unit 13 (U13))",
-            "Nyumba zetu vipya vilijengwa vizuri wakati simba wawili inalala. (Kuunganisha mada zote za Unit 13 (U13))",
-            "Ngeli ya N-N haitumiki kwa maneno ya kigeni. (Kuunganisha mada zote za Unit 13 (U13))"
+            "Nyumba zetu mbili mpya zimejengwa vizuri kando ya barabara kuu, wakati simba wawili wakubwa wamelala chini ya mti. (Kuunganisha mada zote za Unit 13)",
+            "Nyumba yetu mawili mapya yamejengwa vizuri wakati simba mbili zamelala. (Kuunganisha mada zote za Unit 13)",
+            "Nyumba zetu vipya vilijengwa vizuri wakati simba wawili inalala. (Kuunganisha mada zote za Unit 13)",
+            "Ngeli ya N-N haitumiki kwa maneno ya kigeni. (Kuunganisha mada zote za Unit 13)"
           ],
           "answerIndex": 0,
           "explanation": "«Nyumba zetu mbili mpya zimejengwa vizuri kando ya barabara kuu, wakati simba wawili wakubwa wamelala chini ya mti.» inajumuisha upatanisho wa N-N katika nyanja zote pamoja na kanuni ya uhai kwa wanyama kwa ukamilifu."
@@ -5883,10 +5883,10 @@
         {
           "prompt": "Wingi sahihi wa nomino \"Ukuta\" (wall) katika Ngeli ya U-ZI ni upi?",
           "options": [
-            "kuta (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "miukuta (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "makuta (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "vikuta (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))"
+            "kuta (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "miukuta (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "makuta (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "vikuta (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Ukuta» hupoteza «u-» na kuwa «kuta» katika wingi wa Ngeli ya 10."
@@ -5898,10 +5898,10 @@
         {
           "prompt": "Nomino ipi kati ya zifuatazo ni nomino ya dhahania (Abstract Noun) katika Ngeli ya 14 (U) isiyo na umbo la wingi?",
           "options": [
-            "upendo (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "ufunguo (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "wembe (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "ubao (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))"
+            "upendo (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "ufunguo (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "wembe (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "ubao (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)"
           ],
           "answerIndex": 0,
           "explanation": "«Upendo» ni nomino ya kidhahania ya Ngeli ya 14 isiyohesabika na isiyo na wingi."
@@ -5914,10 +5914,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zilizo sahihi kabisa za umoja na wingi katika Ngeli ya U-ZI:",
           "options": [
-            "Ufunguo -> funguo, Ukuta -> kuta, Ubao -> mbao, Wembe -> nyembe, Ulimi -> ndimi, Uzi -> nyuzi. (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "Kitabu -> vitabu, Kiti -> viti, Chumba -> vyumba. (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "Gari -> magari, Tunda -> matunda, Jina -> majina. (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))",
-            "Mti -> miti, Mto -> mito, Mkono -> mikono. (Kutofautisha na kutumia makundi mawili ya Ngeli ya U (U14))"
+            "Ufunguo -> funguo, Ukuta -> kuta, Ubao -> mbao, Wembe -> nyembe, Ulimi -> ndimi, Uzi -> nyuzi. (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "Kitabu -> vitabu, Kiti -> viti, Chumba -> vyumba. (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "Gari -> magari, Tunda -> matunda, Jina -> majina. (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)",
+            "Mti -> miti, Mto -> mito, Mkono -> mikono. (Kutofautisha na kutumia makundi mawili ya Ngeli ya U)"
           ],
           "answerIndex": 0,
           "explanation": "Ufunguo/funguo, ukuta/kuta, ubao/mbao, wembe/nyembe, ulimi/ndimi, na uzi/nyuzi ni mifano sahihi ya mabadiliko ya U-ZI."
@@ -5965,10 +5965,10 @@
         {
           "prompt": "Sentensi ipi inatumia kiashiria sahihi cha \"mbali kidogo\" (huo) na kitenzi cha umoja katika Ngeli ya U?",
           "options": [
-            "Ubao huo ulianguka wakati wa dhoruba kali. (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))",
-            "Ubao hilo lilianguka (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))",
-            "Ubao hicho kilianguka (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))",
-            "Ubao hiyo ilianguka (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))"
+            "Ubao huo ulianguka wakati wa dhoruba kali. (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)",
+            "Ubao hilo lilianguka (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)",
+            "Ubao hicho kilianguka (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)",
+            "Ubao hiyo ilianguka (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya umoja ya Ngeli ya U «Ubao» huchukua kiashiria «huo» na kiambishi cha kitenzi «u-»: «Ubao huo ulianguka»."
@@ -5980,10 +5980,10 @@
         {
           "prompt": "Unapozungumzia kuta nyingi za mbali zaidi (yonder), kirai sahihi cha kionyeshi ni kipi?",
           "options": [
-            "kuta zile (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))",
-            "kuta yale (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))",
-            "kuta vile (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))",
-            "kuta ule (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))"
+            "kuta zile (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)",
+            "kuta yale (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)",
+            "kuta vile (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)",
+            "kuta ule (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Katika wingi wa Ngeli ya U-ZI, kiashiria cha mbali zaidi ni «zile»: «kuta zile»."
@@ -5997,9 +5997,9 @@
           "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya U kwa umoja na wingi:",
           "options": [
             "Umoja: huu (this)",
-            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile. (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))",
-            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale. (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))",
-            "Umoja: hii, hiyo, ile; Wingi: hizi, hizo, zile. (Kutambua na kutumia viambishi vya kitenzi u kwa umoja (U14))"
+            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile. (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)",
+            "Umoja: hili, hilo, lile; Wingi: haya, hayo, yale. (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)",
+            "Umoja: hii, hiyo, ile; Wingi: hizi, hizo, zile. (Kutambua na kutumia viambishi vya kitenzi u kwa umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Viashiria vya Ngeli ya U ni «huu, huo, ule» (umoja) na «hizi, hizo, zile» (wingi wa U-ZI)."
@@ -6047,10 +6047,10 @@
         {
           "prompt": "Sentensi ipi ina kivumishi chenye upatanisho sahihi kinachoanza na irabu katika umoja wa Ngeli ya U?",
           "options": [
-            "Ubao mweupe uliwekwa mbele ya darasa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "Ubao cheupe uliwekwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "Ubao jeupe uliwekwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "Ubao nyeupe uliwekwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))"
+            "Ubao mweupe uliwekwa mbele ya darasa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "Ubao cheupe uliwekwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "Ubao jeupe uliwekwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "Ubao nyeupe uliwekwa (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Kivumishi kinachoanza na irabu «-eupe» kinapopatana na nomino ya umoja wa U (ubao) huchukua «mw-» kupata «mweupe»."
@@ -6062,10 +6062,10 @@
         {
           "prompt": "Unapovumisha nomino ya wingi \"Kuta\" (walls) kwa kutumia kivumishi \"-refu\" (tall/long), kirai sahihi ni kipi?",
           "options": [
-            "kuta ndefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "kuta mirefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "kuta marefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "kuta mrefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))"
+            "kuta ndefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "kuta mirefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "kuta marefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "kuta mrefu (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya wingi «Kuta» (Ngeli ya 10) huchukua kivumishi chenye muundo wa pua: «kuta ndefu»."
@@ -6078,10 +6078,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa katika Ngeli ya U kwa umoja na wingi:",
           "options": [
-            "Ukuta mrefu mweupe ulijengwa jana na kuta ndefu nyeusi zilibomolewa na fundi. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "Ukuta ndefu nyeupe ulijengwa jana na kuta mirefu myeusi zilibomolewa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "Ukuta kirefu cheupe kilijengwa na kuta marefu meusi yalibomolewa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))",
-            "Vivumishi vya Ngeli ya U havibadiliki kamwe katika umoja na wingi. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja (U14))"
+            "Ukuta mrefu mweupe ulijengwa jana na kuta ndefu nyeusi zilibomolewa na fundi. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "Ukuta ndefu nyeupe ulijengwa jana na kuta mirefu myeusi zilibomolewa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "Ukuta kirefu cheupe kilijengwa na kuta marefu meusi yalibomolewa. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)",
+            "Vivumishi vya Ngeli ya U havibadiliki kamwe katika umoja na wingi. (Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya U mmw katika umoja)"
           ],
           "answerIndex": 0,
           "explanation": "«Ukuta mrefu mweupe ulijengwa jana na kuta ndefu nyeusi zilibomolewa na fundi.» inafuata sheria zote za vivumishi vya Ngeli ya U."
@@ -6129,10 +6129,10 @@
         {
           "prompt": "Sentensi ipi inatumia nambari moja (1) kwa upatanisho sahihi wa umoja katika Ngeli ya U?",
           "options": [
-            "Ufunguo mmoja ulipatikana chini ya kiti. (Kutumia vivumishi vya idadi mmoja (U14))",
-            "Ufunguo moja ulipatikana (Kutumia vivumishi vya idadi mmoja (U14))",
-            "Ufunguo kimoja ulipatikana (Kutumia vivumishi vya idadi mmoja (U14))",
-            "Ufunguo limo uliopatikana (Kutumia vivumishi vya idadi mmoja (U14))"
+            "Ufunguo mmoja ulipatikana chini ya kiti. (Kutumia vivumishi vya idadi mmoja)",
+            "Ufunguo moja ulipatikana (Kutumia vivumishi vya idadi mmoja)",
+            "Ufunguo kimoja ulipatikana (Kutumia vivumishi vya idadi mmoja)",
+            "Ufunguo limo uliopatikana (Kutumia vivumishi vya idadi mmoja)"
           ],
           "answerIndex": 0,
           "explanation": "Katika umoja wa Ngeli ya U, kivumishi cha idadi «-moja» huchukua «m-»: «ufunguo mmoja»."
@@ -6144,10 +6144,10 @@
         {
           "prompt": "Kivumishi \"-refu\" (tall/long) kinapobadilishwa kuwa jina la dhahania (abstract noun) linalomaanisha \"height / length\", neno sahihi huwa lipi?",
           "options": [
-            "urefu (Kutumia vivumishi vya idadi mmoja (U14))",
-            "kirefu (Kutumia vivumishi vya idadi mmoja (U14))",
-            "marefu (Kutumia vivumishi vya idadi mmoja (U14))",
-            "mrefu (Kutumia vivumishi vya idadi mmoja (U14))"
+            "urefu (Kutumia vivumishi vya idadi mmoja)",
+            "kirefu (Kutumia vivumishi vya idadi mmoja)",
+            "marefu (Kutumia vivumishi vya idadi mmoja)",
+            "mrefu (Kutumia vivumishi vya idadi mmoja)"
           ],
           "answerIndex": 0,
           "explanation": "Kivumishi «-refu» huchukua kiambishi cha dhahania «u-» kupata «urefu» (height / length)."
@@ -6160,10 +6160,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayochanganya idadi, vimilikishi, na majina ya dhahania katika Ngeli ya U kwa ukamilifu:",
           "options": [
-            "Urafiki wetu ulianza wakati wa utoto wetu, na funguo zetu mbili mpya zimefungua milango ya mafanikio. (Kutumia vivumishi vya idadi mmoja (U14))",
-            "Urafiki yetu ilianza wakati wa utoto yetu na funguo yetu mawili mapya. (Kutumia vivumishi vya idadi mmoja (U14))",
-            "Urafiki kitoto ulianza wakati wa funguo mbili. (Kutumia vivumishi vya idadi mmoja (U14))",
-            "Ngeli ya U haitumiki kuunda majina ya dhahania katika Kiswahili. (Kutumia vivumishi vya idadi mmoja (U14))"
+            "Urafiki wetu ulianza wakati wa utoto wetu, na funguo zetu mbili mpya zimefungua milango ya mafanikio. (Kutumia vivumishi vya idadi mmoja)",
+            "Urafiki yetu ilianza wakati wa utoto yetu na funguo yetu mawili mapya. (Kutumia vivumishi vya idadi mmoja)",
+            "Urafiki kitoto ulianza wakati wa funguo mbili. (Kutumia vivumishi vya idadi mmoja)",
+            "Ngeli ya U haitumiki kuunda majina ya dhahania katika Kiswahili. (Kutumia vivumishi vya idadi mmoja)"
           ],
           "answerIndex": 0,
           "explanation": "«Urafiki wetu ulianza wakati wa utoto wetu, na funguo zetu mbili mpya zimefungua milango ya mafanikio.» inajumuisha miundo ya dhahania (urafiki, utoto), vimilikishi (wetu, zetu), na idadi (mbili)."
@@ -6211,10 +6211,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya U-ZI ikijumuisha nomino, sifa, idadi, na kitenzi katika wingi?",
           "options": [
-            "Funguo ndogo tatu zilinunuliwa kwa ajili ya madirisha yote. (Kuunganisha mada zote za Unit 14 (U14))",
-            "Funguo madogo matatu yalinunuliwa (Kuunganisha mada zote za Unit 14 (U14))",
-            "Funguo vidogo vitatu vilinunuliwa (Kuunganisha mada zote za Unit 14 (U14))",
-            "Funguo midogo mitatu ilinunuliwa (Kuunganisha mada zote za Unit 14 (U14))"
+            "Funguo ndogo tatu zilinunuliwa kwa ajili ya madirisha yote. (Kuunganisha mada zote za Unit 14)",
+            "Funguo madogo matatu yalinunuliwa (Kuunganisha mada zote za Unit 14)",
+            "Funguo vidogo vitatu vilinunuliwa (Kuunganisha mada zote za Unit 14)",
+            "Funguo midogo mitatu ilinunuliwa (Kuunganisha mada zote za Unit 14)"
           ],
           "answerIndex": 0,
           "explanation": "«Funguo ndogo tatu zilinunuliwa kwa ajili ya madirisha yote.» inatekeleza upatanisho sahihi wa wingi wa U-ZI: nomino (funguo), sifa ya pua (ndogo), idadi (tatu), na kitenzi (zilinunuliwa)."
@@ -6226,10 +6226,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 14, ni upatanisho gani sahihi wa kiashiria, kivumishi cha sifa, na kitenzi kwa nomino \"Ukuta\" (umoja)?",
           "options": [
-            "Ukuta huu mrefu ulijengwa na mafundi stadi. (Kuunganisha mada zote za Unit 14 (U14))",
-            "Ukuta hii ndefu ilijengwa (Kuunganisha mada zote za Unit 14 (U14))",
-            "Ukuta hili refu lilijengwa (Kuunganisha mada zote za Unit 14 (U14))",
-            "Ukuta hiki kirefu kilijengwa (Kuunganisha mada zote za Unit 14 (U14))"
+            "Ukuta huu mrefu ulijengwa na mafundi stadi. (Kuunganisha mada zote za Unit 14)",
+            "Ukuta hii ndefu ilijengwa (Kuunganisha mada zote za Unit 14)",
+            "Ukuta hili refu lilijengwa (Kuunganisha mada zote za Unit 14)",
+            "Ukuta hiki kirefu kilijengwa (Kuunganisha mada zote za Unit 14)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Ukuta» (umoja katika Ngeli ya U) huchukua kiashiria «huu», sifa «mrefu», na kitenzi «ulijengwa»."
@@ -6242,10 +6242,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 14 ya Ngeli ya 11/14 (U) na Majina ya Dhahania katika Kiswahili:",
           "options": [
-            "Ukuta wetu mrefu ulijengwa jana, uhuru wetu na upendo wetu vinaleta amani, na funguo zetu zote tatu ziko mezani. (Kuunganisha mada zote za Unit 14 (U14))",
-            "Ukuta yetu ndefu ilijengwa jana na uhuru yetu inaleta amani. (Kuunganisha mada zote za Unit 14 (U14))",
-            "Funguo zetu zote matatu yako mezani wakati ukuta hili linajengwa. (Kuunganisha mada zote za Unit 14 (U14))",
-            "Ngeli ya U haitofautishi kati ya vitu vinavyohesabika na dhahania. (Kuunganisha mada zote za Unit 14 (U14))"
+            "Ukuta wetu mrefu ulijengwa jana, uhuru wetu na upendo wetu vinaleta amani, na funguo zetu zote tatu ziko mezani. (Kuunganisha mada zote za Unit 14)",
+            "Ukuta yetu ndefu ilijengwa jana na uhuru yetu inaleta amani. (Kuunganisha mada zote za Unit 14)",
+            "Funguo zetu zote matatu yako mezani wakati ukuta hili linajengwa. (Kuunganisha mada zote za Unit 14)",
+            "Ngeli ya U haitofautishi kati ya vitu vinavyohesabika na dhahania. (Kuunganisha mada zote za Unit 14)"
           ],
           "answerIndex": 0,
           "explanation": "«Ukuta wetu mrefu ulijengwa jana, uhuru wetu na upendo wetu vinaleta amani, na funguo zetu zote tatu ziko mezani.» inajumuisha upatanisho wa U-ZI na dhahania katika nyanja zote kwa ukamilifu."
@@ -6293,10 +6293,10 @@
         {
           "prompt": "Sentensi ipi inatumia Ngeli ya 16 (PA-) kwa ufasaha kueleza mahali mahususi?",
           "options": [
-            "Mahali hapa panafaa kwa ajili ya mkutano wetu. (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "Mahali huku kunafaa kwa mkutano (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "Mahali humu mnafaa kwa mkutano (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "Mahali hili linafaa kwa mkutano (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))"
+            "Mahali hapa panafaa kwa ajili ya mkutano wetu. (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "Mahali huku kunafaa kwa mkutano (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "Mahali humu mnafaa kwa mkutano (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "Mahali hili linafaa kwa mkutano (Kutambua na kutofautisha maana za ngeli tatu za mahali)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Mahali» inapotajwa mahususi huchukua kiashiria «hapa» na kitenzi «panafaa» katika Ngeli ya 16 (PA-)."
@@ -6308,10 +6308,10 @@
         {
           "prompt": "Unapotaka kueleza hali ya hewa ya eneo pana la mbali (over there on the mountain), kiambishi gani cha mahali kinatumika?",
           "options": [
-            "kule (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "pale (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "mle (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "yale (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))"
+            "kule (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "pale (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "mle (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "yale (Kutambua na kutofautisha maana za ngeli tatu za mahali)"
           ],
           "answerIndex": 0,
           "explanation": "«Kule» ni kiashiria cha Ngeli ya 17 (KU-) kinachoeleza mwelekeo au eneo pana lililo mbali."
@@ -6324,10 +6324,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayofafanua tofauti sahihi kati ya ngeli tatu za mahali (PA, KU, MU) katika Kiswahili:",
           "options": [
-            "Hapa (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "PA ni wingi wa KU, na MU ni wingi wa PA. (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "Kiswahili hakina ngeli za mahali bali kinatumia vihusishi pekee. (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))",
-            "PA, KU, na MU hutumika kwa kubadilishana bila tofauti yoyote ya kimaana. (Kutambua na kutofautisha maana za ngeli tatu za mahali (U15))"
+            "Hapa (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "PA ni wingi wa KU, na MU ni wingi wa PA. (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "Kiswahili hakina ngeli za mahali bali kinatumia vihusishi pekee. (Kutambua na kutofautisha maana za ngeli tatu za mahali)",
+            "PA, KU, na MU hutumika kwa kubadilishana bila tofauti yoyote ya kimaana. (Kutambua na kutofautisha maana za ngeli tatu za mahali)"
           ],
           "answerIndex": 0,
           "explanation": "Ngeli ya 16 (PA) ni mahali mahususi, Ngeli ya 17 (KU) ni eneo pana/mwelekeo, na Ngeli ya 18 (MU) ni mahali ndani."
@@ -6375,10 +6375,10 @@
         {
           "prompt": "Sentensi ipi inaonyesha upatanisho sahihi baada ya nomino \"Meza\" kuongezwa kiambishi cha mahali \"-ni\" (mezani) kwa eneo mahususi?",
           "options": [
-            "Mezani pana chakula kitamu cha wageni. (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "Mezani ina chakula kitamu (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "Mezani lina chakula kitamu (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "Mezani kina chakula kitamu (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))"
+            "Mezani pana chakula kitamu cha wageni. (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "Mezani ina chakula kitamu (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "Mezani lina chakula kitamu (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "Mezani kina chakula kitamu (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino «Meza» ikiongezwa «-ni» kuwa «mezani» inakuwa nomino ya mahali na huchukua upatanisho wa mahali: «Mezani pana chakula»."
@@ -6390,10 +6390,10 @@
         {
           "prompt": "Nomino ipi kati ya zifuatazo HAIWEZI kuongezwa kiambishi cha mahali \"-ni\" katika Kiswahili sanifu?",
           "options": [
-            "Tanzania (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "shule (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "chumba (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "msitu (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))"
+            "Tanzania (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "shule (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "chumba (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "msitu (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)"
           ],
           "answerIndex": 0,
           "explanation": "Majina ya nchi na miji halisi (kama Tanzania, Mombasa, Nairobi) hayachukui kiambishi cha mahali «-ni»."
@@ -6406,10 +6406,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoeleza kanuni sahihi ya kiambishi \"-ni\" cha mahali katika Kiswahili:",
           "options": [
-            "Kiambishi «-ni» hubadilisha nomino za vitu kuwa nomino za mahali (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "Kiambishi «-ni» kinatumika tu kuonyesha wingi wa vitenzi. (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "Majina yote ya nchi lazima yaongezwe «-ni» mwishoni. (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))",
-            "Kiambishi «-ni» hakibadilishi upatanisho wa kisarufi wa nomino. (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA (U15))"
+            "Kiambishi «-ni» hubadilisha nomino za vitu kuwa nomino za mahali (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "Kiambishi «-ni» kinatumika tu kuonyesha wingi wa vitenzi. (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "Majina yote ya nchi lazima yaongezwe «-ni» mwishoni. (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)",
+            "Kiambishi «-ni» hakibadilishi upatanisho wa kisarufi wa nomino. (Kuelewa jinsi kiambishi tamati cha mahali ni kinavyobadilisha nomino yoyote ya kawaida kuwa nomino ya mahali inayoingia katika PA)"
           ],
           "answerIndex": 0,
           "explanation": "«-ni» hubadilisha nomino kuwa ya mahali na kulazimisha upatanisho wa PA, KU, au MU."
@@ -6457,10 +6457,10 @@
         {
           "prompt": "Sentensi ipi inaonyesha upatanisho sahihi wa kiashiria na kitenzi cha 'kuwa na' kwa mahali ndani (Ngeli ya 18 MU-)?",
           "options": [
-            "Humu sandukuni mna nguo safi za watoto. (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "Humu sandukuni pana nguo safi (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "Humu sandukuni kuna nguo safi (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "Huku sandukuni mna nguo safi (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))"
+            "Humu sandukuni mna nguo safi za watoto. (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "Humu sandukuni pana nguo safi (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "Humu sandukuni kuna nguo safi (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "Huku sandukuni mna nguo safi (Kutambua na kutumia upatanisho kamili wa vitenzi)"
           ],
           "answerIndex": 0,
           "explanation": "Kwa mahali ndani (Ngeli ya 18), kiashiria ni «humu» na kitenzi cha uwepo ni «mna»: «Humu sandukuni mna nguo»."
@@ -6472,10 +6472,10 @@
         {
           "prompt": "Unapozungumzia kijiji chenu kwa mtazamo wa eneo la asili (our homeland / place), kirai sahihi cha kimilikishi ni kipi?",
           "options": [
-            "kwetu (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "petu (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "mwetu (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "yetu (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))"
+            "kwetu (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "petu (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "mwetu (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "yetu (Kutambua na kutumia upatanisho kamili wa vitenzi)"
           ],
           "answerIndex": 0,
           "explanation": "«Kwetu» (kutoka Ngeli ya 17 KU-) hutumika kwa asili ya kijiji, nchi, au eneo la nyumbani kwa jumla."
@@ -6488,10 +6488,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa viashiria na vitenzi katika ngeli zote tatu za mahali (PA, KU, MU):",
           "options": [
-            "Hapa pana amani, huku kuna mashamba mazuri, na humu chumbani mna utulivu mkubwa. (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "Hapa kuna amani, huku mna mashamba mazuri, na humu pana utulivu mkubwa. (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "Hapa lina amani, huku zina mashamba mazuri, na humu kina utulivu. (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))",
-            "Ngeli za mahali hazitumii viashiria vya karibu. (Kutambua na kutumia upatanisho kamili wa vitenzi (U15))"
+            "Hapa pana amani, huku kuna mashamba mazuri, na humu chumbani mna utulivu mkubwa. (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "Hapa kuna amani, huku mna mashamba mazuri, na humu pana utulivu mkubwa. (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "Hapa lina amani, huku zina mashamba mazuri, na humu kina utulivu. (Kutambua na kutumia upatanisho kamili wa vitenzi)",
+            "Ngeli za mahali hazitumii viashiria vya karibu. (Kutambua na kutumia upatanisho kamili wa vitenzi)"
           ],
           "answerIndex": 0,
           "explanation": "«Hapa pana amani, huku kuna mashamba mazuri, na humu chumbani mna utulivu mkubwa.» inatekeleza upatanisho mahususi wa PA, KU, na MU kwa ukamilifu."
@@ -6539,10 +6539,10 @@
         {
           "prompt": "Kihusishi kipi kinamaanisha \"under / beneath\" katika Kiswahili?",
           "options": [
-            "chini ya (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "juu ya (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "mbele ya (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "kando ya (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))"
+            "chini ya (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "juu ya (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "mbele ya (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "kando ya (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)"
           ],
           "answerIndex": 0,
           "explanation": "«Chini ya» linamaanisha chini ya kitu au chini ya kivuli."
@@ -6554,10 +6554,10 @@
         {
           "prompt": "Sentensi ipi inatumia kihusishi sahihi cha \"karibu na\" (near / close to)?",
           "options": [
-            "Hoteli yetu iko karibu na ufukwe wa bahari. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "Hoteli yetu iko karibu ya ufukwe (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "Hoteli yetu iko mbali ya ufukwe (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "Hoteli yetu iko ndani na ufukwe (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))"
+            "Hoteli yetu iko karibu na ufukwe wa bahari. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "Hoteli yetu iko karibu ya ufukwe (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "Hoteli yetu iko mbali ya ufukwe (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "Hoteli yetu iko ndani na ufukwe (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)"
           ],
           "answerIndex": 0,
           "explanation": "Kihusishi «karibu» kila mara huunganishwa na «na»: «karibu na kituo / ufukwe»."
@@ -6570,10 +6570,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayochanganya vihusishi vya mahali vya anga kwa usahihi kamili:",
           "options": [
-            "Gari liliegeshwa mbele ya nyumba, watoto walikaa chini ya mti, na duka liko karibu na soko kuu. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "Gari liliegeshwa mbele na nyumba na watoto walikaa chini za mti. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "Gari liliegeshwa juu kwa nyumba na duka liko karibu ya soko. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))",
-            "Vihusishi vya mahali havihitaji maneno ya kuunganisha katika Kiswahili. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga (U15))"
+            "Gari liliegeshwa mbele ya nyumba, watoto walikaa chini ya mti, na duka liko karibu na soko kuu. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "Gari liliegeshwa mbele na nyumba na watoto walikaa chini za mti. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "Gari liliegeshwa juu kwa nyumba na duka liko karibu ya soko. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)",
+            "Vihusishi vya mahali havihitaji maneno ya kuunganisha katika Kiswahili. (Kutambua na kutumia vihusishi vya mahali vinavyoeleza mahusiano ya anga)"
           ],
           "answerIndex": 0,
           "explanation": "«Gari liliegeshwa mbele ya nyumba, watoto walikaa chini ya mti, na duka liko karibu na soko kuu.» inatekeleza miundo sahihi ya vihusishi vyote."
@@ -6621,10 +6621,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli za mahali ikijumuisha kiashiria, nomino yenye '-ni', na kitenzi kwa eneo pana?",
           "options": [
-            "Huko shambani kuna mimea mizuri inayostawi vizuri. (Kuunganisha mada zote za Unit 15 (U15))",
-            "Huko shambani pana mimea mizuri (Kuunganisha mada zote za Unit 15 (U15))",
-            "Huko shambani mna mimea mizuri (Kuunganisha mada zote za Unit 15 (U15))",
-            "Huko shamba lina mimea (Kuunganisha mada zote za Unit 15 (U15))"
+            "Huko shambani kuna mimea mizuri inayostawi vizuri. (Kuunganisha mada zote za Unit 15)",
+            "Huko shambani pana mimea mizuri (Kuunganisha mada zote za Unit 15)",
+            "Huko shambani mna mimea mizuri (Kuunganisha mada zote za Unit 15)",
+            "Huko shamba lina mimea (Kuunganisha mada zote za Unit 15)"
           ],
           "answerIndex": 0,
           "explanation": "«Huko shambani kuna mimea mizuri inayostawi vizuri.» inatekeleza upatanisho sahihi wa eneo pana (huko shambani kuna)."
@@ -6636,10 +6636,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 15, ni sentensi gani inayoonyesha uhusiano sahihi wa kijiografia kwa kutumia vihusishi vya mahali?",
           "options": [
-            "Shule yetu iko kando ya barabara kuu na karibu na kituo cha afya. (Kuunganisha mada zote za Unit 15 (U15))",
-            "Shule yetu iko kando na barabara kuu (Kuunganisha mada zote za Unit 15 (U15))",
-            "Shule yetu iko karibu ya kituo cha afya (Kuunganisha mada zote za Unit 15 (U15))",
-            "Shule yetu iko ndani kwa barabara kuu (Kuunganisha mada zote za Unit 15 (U15))"
+            "Shule yetu iko kando ya barabara kuu na karibu na kituo cha afya. (Kuunganisha mada zote za Unit 15)",
+            "Shule yetu iko kando na barabara kuu (Kuunganisha mada zote za Unit 15)",
+            "Shule yetu iko karibu ya kituo cha afya (Kuunganisha mada zote za Unit 15)",
+            "Shule yetu iko ndani kwa barabara kuu (Kuunganisha mada zote za Unit 15)"
           ],
           "answerIndex": 0,
           "explanation": "«kando ya barabara kuu» na «karibu na kituo cha afya» inafuata sheria sanifu za vihusishi."
@@ -6652,10 +6652,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 15 ya Ngeli za Mahali (PA-KU-MU) na Vihusishi katika Kiswahili:",
           "options": [
-            "Hapa petu pazuri pana amani, huko mjini kuna maduka mengi kando ya barabara, na humu chumbani mna utulivu mkubwa. (Kuunganisha mada zote za Unit 15 (U15))",
-            "Hapa petu pazuri kuna amani na huko mjini mna maduka mengi. (Kuunganisha mada zote za Unit 15 (U15))",
-            "Shuleni yetu ina amani na mezani lina vitabu. (Kuunganisha mada zote za Unit 15 (U15))",
-            "Kiswahili hakitofautishi kati ya mahali ndani na mahali pa nje. (Kuunganisha mada zote za Unit 15 (U15))"
+            "Hapa petu pazuri pana amani, huko mjini kuna maduka mengi kando ya barabara, na humu chumbani mna utulivu mkubwa. (Kuunganisha mada zote za Unit 15)",
+            "Hapa petu pazuri kuna amani na huko mjini mna maduka mengi. (Kuunganisha mada zote za Unit 15)",
+            "Shuleni yetu ina amani na mezani lina vitabu. (Kuunganisha mada zote za Unit 15)",
+            "Kiswahili hakitofautishi kati ya mahali ndani na mahali pa nje. (Kuunganisha mada zote za Unit 15)"
           ],
           "answerIndex": 0,
           "explanation": "«Hapa petu pazuri pana amani, huko mjini kuna maduka mengi kando ya barabara, na humu chumbani mna utulivu mkubwa.» inajumuisha nyanja zote za ngeli za mahali na vihusishi kwa ukamilifu."
@@ -6703,10 +6703,10 @@
         {
           "prompt": "Sentensi ipi inatumia O-Rejeshi sahihi ya wakati ujao kwa nomino ya umoja wa Ngeli ya 1 (A-WA)?",
           "options": [
-            "Mwanafunzi atakayesoma kwa bidii atafaulu mtihani. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "Mwanafunzi atayesoma kwa bidii (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "Mwanafunzi anayesoma kwa bidii atafaulu (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "Mwanafunzi aliyesoma kwa bidii atafaulu (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))"
+            "Mwanafunzi atakayesoma kwa bidii atafaulu mtihani. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "Mwanafunzi atayesoma kwa bidii (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "Mwanafunzi anayesoma kwa bidii atafaulu (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "Mwanafunzi aliyesoma kwa bidii atafaulu (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)"
           ],
           "answerIndex": 0,
           "explanation": "Katika wakati ujao, O-Rejeshi hubadilisha kiambishi cha wakati «-ta-» kuwa «-taka-» kisha kufuatiwa na «-ye-»: «atakayesoma»."
@@ -6718,10 +6718,10 @@
         {
           "prompt": "Unapounganisha kishazi tegemezi cha wingi (A-WA) kwa kutumia neno \"Amba-\", neno sahihi ni lipi?",
           "options": [
-            "ambao (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "ambaye (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "ambacho (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "ambalo (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))"
+            "ambao (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "ambaye (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "ambacho (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "ambalo (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino za wingi za watu (Ngeli ya 2 WA) huchukua kirejeshi «-o-» kwenye mzizi «amba-» kupata «ambao»."
@@ -6734,10 +6734,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha matumizi sahihi ya O-Rejeshi katika nyakati tatu tofauti (uliopo, uliopita, na ujao) katika Ngeli ya A-WA:",
           "options": [
-            "Mtu anayefanya kazi, watu waliofika jana, na kiongozi atakayechaguliwa kesho wote watahudhuria mkutano. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "Mtu aliyefanya kazi jana atayechaguliwa kesho. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "Watu ambao walifika jana watayechaguliwa. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))",
-            "Kiswahili hakiruhusu kuweka O-rejeshi ndani ya vitenzi vya wakati ujao. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat (U16))"
+            "Mtu anayefanya kazi, watu waliofika jana, na kiongozi atakayechaguliwa kesho wote watahudhuria mkutano. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "Mtu aliyefanya kazi jana atayechaguliwa kesho. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "Watu ambao walifika jana watayechaguliwa. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)",
+            "Kiswahili hakiruhusu kuweka O-rejeshi ndani ya vitenzi vya wakati ujao. (Kutambua na kutumia dhana ya ORejeshi Relative Markers  whowhichthat)"
           ],
           "answerIndex": 0,
           "explanation": "«Mtu anayefanya kazi, watu waliofika jana, na kiongozi atakayechaguliwa kesho wote watahudhuria mkutano.» inatekeleza mifumo yote mitatu ya nyakati kwa usahihi."
@@ -6785,10 +6785,10 @@
         {
           "prompt": "Sentensi ipi inatumia O-Rejeshi sahihi ya Ngeli ya KI-VI (7/8) kwa nomino \"Kitabu\" katika wakati uliopita?",
           "options": [
-            "Kitabu kilichoandikwa na mwandishi maarufu kimeshinda tuzo. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))",
-            "Kitabu kililoandikwa na mwandishi (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))",
-            "Kitabu kilioandikwa na mwandishi (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))",
-            "Kitabu kilizoandikwa na mwandishi (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))"
+            "Kitabu kilichoandikwa na mwandishi maarufu kimeshinda tuzo. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai)",
+            "Kitabu kililoandikwa na mwandishi (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai)",
+            "Kitabu kilioandikwa na mwandishi (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai)",
+            "Kitabu kilizoandikwa na mwandishi (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai)"
           ],
           "answerIndex": 0,
           "explanation": "Nomino ya umoja ya KI-VI «Kitabu» huchukua kirejeshi «-cho-» katika kitenzi: «kilichoandikwa»."
@@ -6800,10 +6800,10 @@
         {
           "prompt": "Unapounganisha nomino ya wingi ya JI-MA \"Magari\" (cars) na kitenzi \"-safiri\" (travel) katika wakati uliopo kwa kutumia O-Rejeshi, neno sahihi huwa lipi?",
           "options": [
-            "yanayosafiri (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))",
-            "yanazosafiri (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))",
-            "yanavosafiri (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))",
-            "yanalosafiri (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))"
+            "yanayosafiri (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai)",
+            "yanazosafiri (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai)",
+            "yanavosafiri (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai)",
+            "yanalosafiri (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai)"
           ],
           "answerIndex": 0,
           "explanation": "Wingi wa JI-MA «Magari» huchukua kirejeshi «-yo-» katika kitenzi cha wakati uliopo: «yanayosafiri»."
@@ -6816,10 +6816,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha inayoonyesha virejeshi sahihi vya O-Rejeshi kwa umoja na wingi katika ngeli za M-MI, JI-MA, na KI-VI:",
           "options": [
-            "M-MI (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))",
-            "M-MI (-cho- / -vyo-)",
-            "M-MI (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16)) [Option 3]",
-            "Ngeli zote za vitu visivyo na uhai hutumia kirejeshi kimoja tu cha '-cho-'. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli za vitu visivyo na uhai (U16))"
+            "KI-VI (Ngeli ya vitu vinavyoanza na ki-/vi-)",
+            "M-WA (Ngeli ya viumbe hai wanaoishi)",
+            "M-MI (Ngeli ya miti na mimea)",
+            "N-N (Ngeli ya majina yasiyobadilika)"
           ],
           "answerIndex": 0,
           "explanation": "Virejeshi vya kulinganisha ni M-MI (-o-/-yo-), JI-MA (-lo-/-yo-), na KI-VI (-cho-/-vyo-)."
@@ -6867,10 +6867,10 @@
         {
           "prompt": "Sentensi ipi inatumia O-Rejeshi sahihi ya wingi wa Ngeli ya 9/10 (N-N) kwa nomino \"Nguo\"?",
           "options": [
-            "Nguo zilizotengenezwa kwa pamba safi zinapendeza. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "Nguo ziliyotengenezwa kwa pamba (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "Nguo vilivyotengenezwa kwa pamba (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "Nguo yaliyotengenezwa kwa pamba (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))"
+            "Nguo zilizotengenezwa kwa pamba safi zinapendeza. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "Nguo ziliyotengenezwa kwa pamba (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "Nguo vilivyotengenezwa kwa pamba (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "Nguo yaliyotengenezwa kwa pamba (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)"
           ],
           "answerIndex": 0,
           "explanation": "Wingi wa Ngeli ya N-N «Nguo» huchukua kirejeshi «-zo-»: «zilizotengenezwa»."
@@ -6882,10 +6882,10 @@
         {
           "prompt": "Unapozungumzia wanyama kama \"Ndovu\" (elephants) wanaoogelea mtoni, O-Rejeshi sahihi ni ipi?",
           "options": [
-            "wanaoogelea (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "zinazoogelea (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "yanayoogelea (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "vinavyoogelea (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))"
+            "wanaoogelea (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "zinazoogelea (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "yanayoogelea (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "vinavyoogelea (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)"
           ],
           "answerIndex": 0,
           "explanation": "Wanyama wote hufuata O-Rejeshi ya viumbe hai (Ngeli ya 1/2 A-WA): «Ndovu wanaoogelea»."
@@ -6898,10 +6898,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayochanganya O-Rejeshi ya N-N, U, na kanuni ya uhai kwa usahihi kamili:",
           "options": [
-            "Barua iliyotufikia ilieleza kuhusu ukuta uliobomoka, wakati mbwa waliopotea wamerudi nyumbani. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "Barua ilizotufikia ilieleza kuhusu ukuta ulizobomoka na mbwa zilizopotea. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "Barua kilichotufikia kilihusu ukuta lililobomoka. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))",
-            "Wanyama katika Kiswahili hufuata O-Rejeshi ya N-N badala ya A-WA. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama (U16))"
+            "Barua iliyotufikia ilieleza kuhusu ukuta uliobomoka, wakati mbwa waliopotea wamerudi nyumbani. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "Barua ilizotufikia ilieleza kuhusu ukuta ulizobomoka na mbwa zilizopotea. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "Barua kilichotufikia kilihusu ukuta lililobomoka. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)",
+            "Wanyama katika Kiswahili hufuata O-Rejeshi ya N-N badala ya A-WA. (Kutambua na kutumia virejeshi vya ORejeshi katika Ngeli ya 910 NN yozo na Ngeli ya 1114 U ozo pamoja na kirejeshi cha watendwa na kanuni ya wanyama)"
           ],
           "answerIndex": 0,
           "explanation": "«Barua iliyotufikia ilieleza kuhusu ukuta uliobomoka, wakati mbwa waliopotea wamerudi nyumbani.» inatekeleza mifumo yote mitatu kwa ukamilifu."
@@ -6949,10 +6949,10 @@
         {
           "prompt": "Sentensi ipi inatumia O-Rejeshi ya mahali ndani (-mo-) kwa usahihi?",
           "options": [
-            "Chumba anamolala mgeni kina kitanda kizuri na hewa safi. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "Chumba anapolala mgeni (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "Chumba anakolala mgeni (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "Chumba anacholala mgeni (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))"
+            "Chumba anamolala mgeni kina kitanda kizuri na hewa safi. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "Chumba anapolala mgeni (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "Chumba anakolala mgeni (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "Chumba anacholala mgeni (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)"
           ],
           "answerIndex": 0,
           "explanation": "Ndani ya chumba (Ngeli ya 18) huchukua kirejeshi cha ndani «-mo-»: «anamolala»."
@@ -6964,10 +6964,10 @@
         {
           "prompt": "Kitenzi \"asomaye\" (he who reads) ni mfano wa muundo gani wa O-Rejeshi katika Kiswahili?",
           "options": [
-            "O-Rejeshi Tamati (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "O-Rejeshi ya Wakati Uliopita (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "O-Rejeshi ya Wakati Ujao (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "Mzizi wa Amba- (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))"
+            "O-Rejeshi Tamati (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "O-Rejeshi ya Wakati Uliopita (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "O-Rejeshi ya Wakati Ujao (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "Mzizi wa Amba- (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)"
           ],
           "answerIndex": 0,
           "explanation": "«Asomaye» ni O-Rejeshi Tamati (End-Relative) ambapo kirejeshi «-ye» kimewekwa mwishoni mwa shina la kitenzi."
@@ -6980,10 +6980,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha matumizi sahihi ya O-Rejeshi ya mahali (-po-, -ko-, -mo-) na O-Rejeshi tamati:",
           "options": [
-            "Alipofika kijijini anakoishi mjomba wake, aliingia chumbani anamolala, kwani mgeni afikaye hupokelewa kwa ukarimu. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "Alikofika kijijini anamolala mjomba aliingia chumbani anapofanya kazi. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "Alipofika anayofika kijijini anakolala. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))",
-            "O-rejeshi ya mahali haiwezi kutumika kueleza wakati. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati (U16))"
+            "Alipofika kijijini anakoishi mjomba wake, aliingia chumbani anamolala, kwani mgeni afikaye hupokelewa kwa ukarimu. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "Alikofika kijijini anamolala mjomba aliingia chumbani anapofanya kazi. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "Alipofika anayofika kijijini anakolala. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)",
+            "O-rejeshi ya mahali haiwezi kutumika kueleza wakati. (Kutambua na kutumia ORejeshi katika ngeli za mahali po mahali mahususiwakati)"
           ],
           "answerIndex": 0,
           "explanation": "«Alipofika kijijini anakoishi mjomba wake, aliingia chumbani anamolala, kwani mgeni afikaye hupokelewa kwa ukarimu.» inatekeleza nyanja zote za O-rejeshi ya mahali na tamati kwa ukamilifu."
@@ -7031,10 +7031,10 @@
         {
           "prompt": "Sentensi ipi inakanusha kishazi cha O-Rejeshi kwa usahihi kwa kutumia kiambishi cha ndani cha \"-si-\"?",
           "options": [
-            "Watu wasiojua kusoma wanapaswa kusaidiwa kwa upendo. (Kuunganisha mada zote za Unit 16 (U16))",
-            "Watu hawajuao kusoma wanapaswa kusaidiwa (Kuunganisha mada zote za Unit 16 (U16))",
-            "Watu wasiojua kusoma hawapaswi (Kuunganisha mada zote za Unit 16 (U16))",
-            "Watu wasiojua hawana vitabu (Kuunganisha mada zote za Unit 16 (U16))"
+            "Watu wasiojua kusoma wanapaswa kusaidiwa kwa upendo. (Kuunganisha mada zote za Unit 16)",
+            "Watu hawajuao kusoma wanapaswa kusaidiwa (Kuunganisha mada zote za Unit 16)",
+            "Watu wasiojua kusoma hawapaswi (Kuunganisha mada zote za Unit 16)",
+            "Watu wasiojua hawana vitabu (Kuunganisha mada zote za Unit 16)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi chenye O-rejeshi hukanushwa kwa «-si-»: «wasiojua» (those who do not know)."
@@ -7047,9 +7047,9 @@
           "prompt": "Katika muhtasari wa Unit 16, kanuni ipi ya ukanushaji inatofautisha O-Rejeshi ya kitenzi kikuu na ile ya neno \"Amba-\"?",
           "options": [
             "Kitenzi cha O-Rejeshi hukanushwa kwa '-si-' (asiyesoma)",
-            "Vyote viwili hukanushwa kwa njia moja tu bila tofauti. (Kuunganisha mada zote za Unit 16 (U16))",
-            "Mzizi wa Amba- hauwezi kukanushwa kamwe katika Kiswahili. (Kuunganisha mada zote za Unit 16 (U16))",
-            "O-rejeshi hukanushwa kwa kutumia neno 'hapana' pekee. (Kuunganisha mada zote za Unit 16 (U16))"
+            "Vyote viwili hukanushwa kwa njia moja tu bila tofauti. (Kuunganisha mada zote za Unit 16)",
+            "Mzizi wa Amba- hauwezi kukanushwa kamwe katika Kiswahili. (Kuunganisha mada zote za Unit 16)",
+            "O-rejeshi hukanushwa kwa kutumia neno 'hapana' pekee. (Kuunganisha mada zote za Unit 16)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi cha ndani hutumia «-si-» (asiyesoma), wakati «amba-» huchukua kitenzi cha kawaida cha kukanusha (ambaye hasomi)."
@@ -7062,10 +7062,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 16 ya Virejeshi vya O-Rejeshi na Ukanushaji katika Kiswahili:",
           "options": [
-            "Mwalimu anayefundisha vizuri anasifiwa, kitabu tulichokisoma kilikuwa na manufaa, na watu wasiofanya kazi hawapati mafanikio wanayoyatarajia. (Kuunganisha mada zote za Unit 16 (U16))",
-            "Mwalimu hawafundishi vizuri na kitabu kililosomwa hakifai. (Kuunganisha mada zote za Unit 16 (U16))",
-            "Watu hawajui kusoma na nyumba zilizobomoka ziko mbali. (Kuunganisha mada zote za Unit 16 (U16))",
-            "Kiswahili hakina mfumo wa virejeshi ndani ya vitenzi. (Kuunganisha mada zote za Unit 16 (U16))"
+            "Mwalimu anayefundisha vizuri anasifiwa, kitabu tulichokisoma kilikuwa na manufaa, na watu wasiofanya kazi hawapati mafanikio wanayoyatarajia. (Kuunganisha mada zote za Unit 16)",
+            "Mwalimu hawafundishi vizuri na kitabu kililosomwa hakifai. (Kuunganisha mada zote za Unit 16)",
+            "Watu hawajui kusoma na nyumba zilizobomoka ziko mbali. (Kuunganisha mada zote za Unit 16)",
+            "Kiswahili hakina mfumo wa virejeshi ndani ya vitenzi. (Kuunganisha mada zote za Unit 16)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwalimu anayefundisha vizuri anasifiwa, kitabu tulichokisoma kilikuwa na manufaa, na watu wasiofanya kazi hawapati mafanikio wanayoyatarajia.» inajumuisha nyanja zote za O-rejeshi na ukanushaji wake kwa ukamilifu."
@@ -7113,10 +7113,10 @@
         {
           "prompt": "Kauli ya kutendwa (Passive Voice) ya kitenzi \"pika\" (cook) ni ipi?",
           "options": [
-            "pikwa (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "pikiwa (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "pikisha (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "pikana (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))"
+            "pikwa (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "pikiwa (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "pikisha (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "pikana (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «pika» huchukua «-wa» kupata kauli ya kutendwa «pikwa» (be cooked)."
@@ -7128,10 +7128,10 @@
         {
           "prompt": "Sentensi ipi inatumia kiunganishi sahihi cha mtenda (by) katika kauli ya kutendwa?",
           "options": [
-            "Chakula kilitayarishwa na mpishi hodari. (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "Chakula kilitayarishwa kwa mpishi hodari (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "Chakula kilitayarishwa ya mpishi hodari (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "Chakula kilitayarishwa katika mpishi hodari (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))"
+            "Chakula kilitayarishwa na mpishi hodari. (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "Chakula kilitayarishwa kwa mpishi hodari (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "Chakula kilitayarishwa ya mpishi hodari (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "Chakula kilitayarishwa katika mpishi hodari (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)"
           ],
           "answerIndex": 0,
           "explanation": "Katika Kiswahili, mtenda wa kauli ya kutendwa hutanguliwa na kiunganishi «na» (by): «kilitayarishwa na mpishi»."
@@ -7144,10 +7144,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayoonyesha ubadilishaji sahihi wa kauli ya kutenda (Active) kuwa kauli ya kutendwa (Passive):",
           "options": [
-            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Nyumba imejengwa na mafundi.» (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Nyumba wameijenga mafundi.» (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Mafundi wamejengwa na nyumba.» (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))",
-            "Kauli ya kutendwa haibadilishi nafasi ya nomino katika sentensi. (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by (U17))"
+            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Nyumba imejengwa na mafundi.» (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Nyumba wameijenga mafundi.» (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "Kutenda: «Mafundi wamejenga nyumba.» -> Kutendwa: «Mafundi wamejengwa na nyumba.» (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)",
+            "Kauli ya kutendwa haibadilishi nafasi ya nomino katika sentensi. (Kuelewa dhana ya Kauli ya Kutendwa Passive Voice na kutunga sentensi sahihi kwa kutumia mashina ya kawaida yanayoishia na konsonanti wa na kiunganishi cha mtenda na by)"
           ],
           "answerIndex": 0,
           "explanation": "«Nyumba imejengwa na mafundi.» inabadilisha mtendwa (nyumba) kuwa kiima na mtenda (mafundi) kufuatiwa na «na»."
@@ -7195,10 +7195,10 @@
         {
           "prompt": "Kauli ya kutendwa ya kitenzi \"chagua\" (choose / elect) inayofuata kanuni ya irabu \"u\" ni ipi?",
           "options": [
-            "chaguliwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "chagulewa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "chaguwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "chaguzwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))"
+            "chaguliwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "chagulewa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "chaguwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "chaguzwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)"
           ],
           "answerIndex": 0,
           "explanation": "Shina «chagua» lina irabu «u» na linaishia na irabu mbili, kwa hivyo huchukua «-liwa» kupata «chaguliwa»."
@@ -7210,10 +7210,10 @@
         {
           "prompt": "Kitenzi \"ondoa\" (remove) kinapobadilishwa kuwa kauli ya kutendwa kwa kufuata irabu \"o\", neno sahihi huwa lipi?",
           "options": [
-            "ondolewa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "ondoliwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "ondowa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "ondozwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))"
+            "ondolewa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "ondoliwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "ondowa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "ondozwa (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)"
           ],
           "answerIndex": 0,
           "explanation": "Shina «ondoa» lina irabu «o», hivyo kulingana na sheria ya upatanisho wa irabu huchukua «-lewa» kupata «ondolewa»."
@@ -7226,10 +7226,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zote zilizo sahihi za vitenzi na vinyambuliko vyao vya kutendwa kwa kanuni ya -liwa / -lewa:",
           "options": [
-            "zaa -> zaliwa, nunua -> nunuliwa, fungua -> funguliwa, pokea -> pokelewa, toa -> tolewa, ondoa -> ondolewa. (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "zaa -> zalewa, nunua -> nunulewa, fungua -> fungulewa. (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "pokea -> pokeliwa, toa -> toliwa, ondoa -> ondoliwa. (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))",
-            "Vitenzi vyenye irabu mbili havifuati sheria yoyote ya upatanisho wa irabu. (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili (U17))"
+            "zaa -> zaliwa, nunua -> nunuliwa, fungua -> funguliwa, pokea -> pokelewa, toa -> tolewa, ondoa -> ondolewa. (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "zaa -> zalewa, nunua -> nunulewa, fungua -> fungulewa. (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "pokea -> pokeliwa, toa -> toliwa, ondoa -> ondoliwa. (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)",
+            "Vitenzi vyenye irabu mbili havifuati sheria yoyote ya upatanisho wa irabu. (Kutambua na kutumia kanuni ya upatanisho wa irabu Vowel Harmony katika kuunda kauli ya kutendwa kwa mashina yanayoishia na irabu mbili)"
           ],
           "answerIndex": 0,
           "explanation": "«a, i, u» huchukua «-liwa» (zaliwa, nunuliwa, funguliwa) na «e, o» huchukua «-lewa» (pokelewa, tolewa, ondolewa)."
@@ -7277,10 +7277,10 @@
         {
           "prompt": "Kauli ya kutendwa ya kitenzi cha Kiarabu \"jibu\" (answer) ni ipi?",
           "options": [
-            "jibiwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "jibuwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "jibwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "jibulewa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))"
+            "jibiwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "jibuwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "jibwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "jibulewa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «jibu» hubadilisha «-u» kuwa «-iwa» kupata «jibiwa» (be answered)."
@@ -7292,10 +7292,10 @@
         {
           "prompt": "Kitenzi \"samehe\" (forgive) kinapobadilishwa kuwa kauli ya kutendwa (be forgiven), neno sahihi huwa lipi?",
           "options": [
-            "samehewa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "samehiwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "samehwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "samehelewa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))"
+            "samehewa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "samehiwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "samehwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "samehelewa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi kinachoishia na «-e» kama «samehe» hupokea «-wa» kuwa «samehewa» (be forgiven)."
@@ -7308,10 +7308,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha ya vitenzi vya kigeni vilivyonyambulishwa katika kauli ya kutendwa kwa usahihi:",
           "options": [
-            "jibu -> jibiwa, heshimu -> heshimiwa, hukumu -> hukumiwa, jaribu -> jaribiwa, samehe -> samehewa, fikiri -> fikiriwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "jibu -> jibuwa, heshimu -> heshimuwa, hukumu -> hukumuwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "jibu -> jibwa, heshimu -> heshimwa, samehe -> samehwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))",
-            "Vitenzi vilivyokopwa kutoka Kiarabu havina kauli ya kutendwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U17))"
+            "jibu -> jibiwa, heshimu -> heshimiwa, hukumu -> hukumiwa, jaribu -> jaribiwa, samehe -> samehewa, fikiri -> fikiriwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "jibu -> jibuwa, heshimu -> heshimuwa, hukumu -> hukumuwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "jibu -> jibwa, heshimu -> heshimwa, samehe -> samehwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "Vitenzi vilivyokopwa kutoka Kiarabu havina kauli ya kutendwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya Kiarabu vyenye -u/-i hupokea -iwa (jibiwa, heshimiwa, hukumiwa, jaribiwa, fikiriwa) na -e hupokea -ewa (samehewa)."
@@ -7359,10 +7359,10 @@
         {
           "prompt": "Kauli ya kutendwa ya kitenzi cha silabi moja \"kunywa\" (drink) ni ipi?",
           "options": [
-            "nywewa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "kunywiwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "nywiwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "kunyweshwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))"
+            "nywewa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "kunywiwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "nywiwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "kunyweshwa (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kunywa» huwa «nywewa» katika kauli ya kutendwa (mfano: *Maji yananywewa*)."
@@ -7374,10 +7374,10 @@
         {
           "prompt": "Sentensi ipi inatumia kauli ya kutendwa ya kitenzi \"kupa\" (give) kwa usahihi?",
           "options": [
-            "Mshindi alipewa kombe la dhahabu. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "Mshindi alipiwa kombe (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "Mshindi alipawa kombe (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "Mshindi alikupiwa kombe (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))"
+            "Mshindi alipewa kombe la dhahabu. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "Mshindi alipiwa kombe (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "Mshindi alipawa kombe (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "Mshindi alikupiwa kombe (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kupa» huwa «pewa» katika kauli ya kutendwa: «alipewa kombe» (he was given a trophy)."
@@ -7390,10 +7390,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zilizo sahihi za vitenzi vya silabi moja na mashina maalum katika kauli ya kutendwa:",
           "options": [
-            "kula -> liwa, kunywa -> nywewa, kupa -> pewa, kufa -> fiwa, kuua -> uawa, kuvaa -> valiwa, kufua -> fuliwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "kula -> kulwa, kunywa -> kunywawa, kupa -> kupwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "kula -> lewa, kunywa -> nywiwa, kupa -> piwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))",
-            "Vitenzi vya silabi moja haviwezi kubadilishwa kuwa kauli ya kutendwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa (U17))"
+            "kula -> liwa, kunywa -> nywewa, kupa -> pewa, kufa -> fiwa, kuua -> uawa, kuvaa -> valiwa, kufua -> fuliwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "kula -> kulwa, kunywa -> kunywawa, kupa -> kupwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "kula -> lewa, kunywa -> nywiwa, kupa -> piwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)",
+            "Vitenzi vya silabi moja haviwezi kubadilishwa kuwa kauli ya kutendwa. (Kutambua na kutumia kauli ya kutendwa kwa vitenzi vyenye silabi moja kula  liwa)"
           ],
           "answerIndex": 0,
           "explanation": "Miundo sahihi ni kula/liwa, kunywa/nywewa, kupa/pewa, kufa/fiwa, kuua/uawa, kuvaa/valiwa, na kufua/fuliwa."
@@ -7441,10 +7441,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa kauli ya kutendwa ikichanganya shina la kawaida, shina la irabu mbili, na kiashiria cha mtenda?",
           "options": [
-            "Chakula kilitayarishwa na mpishi na vinywaji vikanunuliwa na mkurugenzi. (Kuunganisha mada zote za Unit 17 (U17))",
-            "Chakula kilitayarisha kwa mpishi na vinywaji vikanunua. (Kuunganisha mada zote za Unit 17 (U17))",
-            "Chakula kilitayarishwa ya mpishi na vinywaji vikanunuliwa kwa mkurugenzi. (Kuunganisha mada zote za Unit 17 (U17))",
-            "Kauli ya kutendwa haitumiki kwa chakula na vinywaji. (Kuunganisha mada zote za Unit 17 (U17))"
+            "Chakula kilitayarishwa na mpishi na vinywaji vikanunuliwa na mkurugenzi. (Kuunganisha mada zote za Unit 17)",
+            "Chakula kilitayarisha kwa mpishi na vinywaji vikanunua. (Kuunganisha mada zote za Unit 17)",
+            "Chakula kilitayarishwa ya mpishi na vinywaji vikanunuliwa kwa mkurugenzi. (Kuunganisha mada zote za Unit 17)",
+            "Kauli ya kutendwa haitumiki kwa chakula na vinywaji. (Kuunganisha mada zote za Unit 17)"
           ],
           "answerIndex": 0,
           "explanation": "«Chakula kilitayarishwa na mpishi na vinywaji vikanunuliwa na mkurugenzi.» inatekeleza mifumo yote miwili ya kutendwa na mtenda «na»."
@@ -7456,10 +7456,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 17, kitenzi kipi kimebadilishwa kwa usahihi kutoka kauli ya kutenda kwenda kauli ya kutendwa?",
           "options": [
-            "toa -> tolewa, pokea -> pokelewa, jibu -> jibiwa, kupa -> pewa. (Kuunganisha mada zote za Unit 17 (U17))",
-            "toa -> toliwa, pokea -> pokeliwa, jibu -> jibuwa. (Kuunganisha mada zote za Unit 17 (U17))",
-            "toa -> towa, pokea -> pokewa, kupa -> kupwa. (Kuunganisha mada zote za Unit 17 (U17))",
-            "Vitenzi vyote hubadilika kwa kuongeza '-wa' pekee bila sheria nyingine. (Kuunganisha mada zote za Unit 17 (U17))"
+            "toa -> tolewa, pokea -> pokelewa, jibu -> jibiwa, kupa -> pewa. (Kuunganisha mada zote za Unit 17)",
+            "toa -> toliwa, pokea -> pokeliwa, jibu -> jibuwa. (Kuunganisha mada zote za Unit 17)",
+            "toa -> towa, pokea -> pokewa, kupa -> kupwa. (Kuunganisha mada zote za Unit 17)",
+            "Vitenzi vyote hubadilika kwa kuongeza '-wa' pekee bila sheria nyingine. (Kuunganisha mada zote za Unit 17)"
           ],
           "answerIndex": 0,
           "explanation": "«toa -> tolewa», «pokea -> pokelewa», «jibu -> jibiwa», na «kupa -> pewa» vinafuata sheria zote za unyambulishaji."
@@ -7472,10 +7472,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 17 ya Kauli ya Kutendwa katika Kiswahili:",
           "options": [
-            "Barua iliandikwa na mkuu, maswali magumu yakajibiwa kwa hekima, na zawadi zote zikapewa washindi waliostahili. (Kuunganisha mada zote za Unit 17 (U17))",
-            "Barua iliandika na mkuu na maswali yakajibu. (Kuunganisha mada zote za Unit 17 (U17))",
-            "Barua kiliandikwa kwa mkuu na zawadi zikapewa kwa washindi. (Kuunganisha mada zote za Unit 17 (U17))",
-            "Kauli ya kutendwa haitumiki kwa wakati uliopita. (Kuunganisha mada zote za Unit 17 (U17))"
+            "Barua iliandikwa na mkuu, maswali magumu yakajibiwa kwa hekima, na zawadi zote zikapewa washindi waliostahili. (Kuunganisha mada zote za Unit 17)",
+            "Barua iliandika na mkuu na maswali yakajibu. (Kuunganisha mada zote za Unit 17)",
+            "Barua kiliandikwa kwa mkuu na zawadi zikapewa kwa washindi. (Kuunganisha mada zote za Unit 17)",
+            "Kauli ya kutendwa haitumiki kwa wakati uliopita. (Kuunganisha mada zote za Unit 17)"
           ],
           "answerIndex": 0,
           "explanation": "«Barua iliandikwa na mkuu, maswali magumu yakajibiwa kwa hekima, na zawadi zote zikapewa washindi waliostahili.» inajumuisha nyanja zote za kauli ya kutendwa kwa ukamilifu."
@@ -7523,10 +7523,10 @@
         {
           "prompt": "Kauli ya kutendea ya kitenzi \"leta\" (bring) inayofuata kanuni ya irabu \"e\" ni ipi?",
           "options": [
-            "letea (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "letia (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "leteshwa (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "letana (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))"
+            "letea (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "letia (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "leteshwa (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "letana (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «leta» kina irabu «e», hivyo huchukua «-ea» kupata «letea» (bring to/for)."
@@ -7538,10 +7538,10 @@
         {
           "prompt": "Sentensi ipi inatumia kauli ya kutendea ya kitenzi \"andika\" kwa usahihi kwa ajili ya mtu?",
           "options": [
-            "Ali alimwandikia rafiki yake barua ya pongezi. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "Ali alimwandika rafiki yake barua (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "Ali alimwandekea rafiki yake barua (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "Ali aliandikia rafiki bila upatanisho wa mtendewa (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))"
+            "Ali alimwandikia rafiki yake barua ya pongezi. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "Ali alimwandika rafiki yake barua (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "Ali alimwandekea rafiki yake barua (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "Ali aliandikia rafiki bila upatanisho wa mtendewa (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «andika» huwa «andikia», na kinapotumika kwa mtendewa (rafiki) huchukua kiambishi kiwakilishi cha mtendewa: «alimwandikia»."
@@ -7554,10 +7554,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zote zilizo sahihi za vitenzi vya konsonanti na vinyambuliko vyao vya kutendea:",
           "options": [
-            "pika -> pikia, andika -> andikia, lima -> limia, soma -> somea, shona -> shonea, leta -> letea, osha -> oshea. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "pika -> pikea, andika -> andikea, lima -> limea. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "soma -> somia, shona -> shonia, leta -> letia. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))",
-            "Mashina ya konsonanti hayafuati upatanisho wa irabu katika kauli ya kutendea. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U18))"
+            "pika -> pikia, andika -> andikia, lima -> limia, soma -> somea, shona -> shonea, leta -> letea, osha -> oshea. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "pika -> pikea, andika -> andikea, lima -> limea. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "soma -> somia, shona -> shonia, leta -> letia. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "Mashina ya konsonanti hayafuati upatanisho wa irabu katika kauli ya kutendea. (Kuelewa dhana ya Kauli ya Kutendea Applicative  Prepositional Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)"
           ],
           "answerIndex": 0,
           "explanation": "«a, i, u» huchukua «-ia» (pikia, andikia, limia) na «e, o» huchukua «-ea» (somea, shonea, letea, oshea)."
@@ -7605,10 +7605,10 @@
         {
           "prompt": "Kauli ya kutendea ya kitenzi \"nunua\" (buy) inayotumia herufi 'l' ni ipi?",
           "options": [
-            "nunulia (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "nunulea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "nunua (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "nunulisha (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))"
+            "nunulia (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "nunulea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "nunua (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "nunulisha (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «nunua» kina irabu «u», hivyo huchukua «-lia» kupata «nunulia» (buy for)."
@@ -7620,10 +7620,10 @@
         {
           "prompt": "Kitenzi \"toa\" (give / issue) kinapobadilishwa kuwa kauli ya kutendea (give to / issue for), neno sahihi huwa lipi?",
           "options": [
-            "tolea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "toliwa (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "toea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "tolesha (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))"
+            "tolea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "toliwa (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "toea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "tolesha (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)"
           ],
           "answerIndex": 0,
           "explanation": "Shina «toa» lina irabu «o», hivyo kulingana na sheria ya upatanisho wa irabu huchukua «-lea» kupata «tolea»."
@@ -7636,10 +7636,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vyenye irabu mbili vilivyonyambulishwa katika kauli ya kutendea:",
           "options": [
-            "nunua -> nunulia, fungua -> fungulia, zaa -> zalia, vaa -> valia, toa -> tolea, ondoa -> ondolewa/ondolea, tembea -> tembelea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "nunua -> nunulea, fungua -> fungulea, zaa -> zalea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "toa -> tolia, ondoa -> ondolia, tembea -> tembelia. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))",
-            "Vitenzi vyenye irabu mbili havihitaji herufi 'l' katika kauli ya kutendea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea (U18))"
+            "nunua -> nunulia, fungua -> fungulia, zaa -> zalia, vaa -> valia, toa -> tolea, ondoa -> ondolewa/ondolea, tembea -> tembelea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "nunua -> nunulea, fungua -> fungulea, zaa -> zalea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "toa -> tolia, ondoa -> ondolia, tembea -> tembelia. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)",
+            "Vitenzi vyenye irabu mbili havihitaji herufi 'l' katika kauli ya kutendea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vinavyoishia na irabu mbili mfululizo kwa kuongeza herufi ya kiunganishi l lia  lea)"
           ],
           "answerIndex": 0,
           "explanation": "Irabu a/i/u huchukua -lia (nunulia, fungulia, zalia, valia) na irabu e/o huchukua -lea (tolea, ondolea, tembelea)."
@@ -7687,10 +7687,10 @@
         {
           "prompt": "Kauli ya kutendea ya kitenzi cha silabi moja \"kunywa\" (drink) inayotumika kueleza kifaa (k.m. glasi ya...) ni ipi?",
           "options": [
-            "nywea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "nywia (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "kunywewa (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "kunywesha (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))"
+            "nywea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "nywia (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "kunywewa (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "kunywesha (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kunywa» kina umbo la kutendea «nywea» (kama katika *kikombe cha kunywea chai*)."
@@ -7702,10 +7702,10 @@
         {
           "prompt": "Kitenzi cha Kiarabu \"jibu\" (answer) kinapobadilishwa kuwa kauli ya kutendea (answer for / on behalf of), neno sahihi huwa lipi?",
           "options": [
-            "jibia (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "jibea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "jibiwa (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "jibulisha (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))"
+            "jibia (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "jibea (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "jibiwa (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "jibulisha (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya Kiarabu vinavyoishia na -u huchukua «-ia» katika kauli ya kutendea: «jibu -> jibia»."
@@ -7718,10 +7718,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zilizo sahihi za vitenzi vya silabi moja na vya kigeni katika kauli ya kutendea:",
           "options": [
-            "kula -> lia, kunywa -> nywea, kuja -> jia, kufa -> fia, jibu -> jibia, rudi -> rudia, fikiri -> fikiria, samehe -> samehea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "kula -> lea, kunywa -> nywia, kuja -> jea, kufa -> fea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "jibu -> jibea, rudi -> rudea, samehe -> samehia. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))",
-            "Vitenzi vya silabi moja haviwezi kunyambulishwa katika kauli ya kutendea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia (U18))"
+            "kula -> lia, kunywa -> nywea, kuja -> jia, kufa -> fia, jibu -> jibia, rudi -> rudia, fikiri -> fikiria, samehe -> samehea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "kula -> lea, kunywa -> nywia, kuja -> jea, kufa -> fea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "jibu -> jibea, rudi -> rudea, samehe -> samehia. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)",
+            "Vitenzi vya silabi moja haviwezi kunyambulishwa katika kauli ya kutendea. (Kutambua na kutumia kauli ya kutendea kwa vitenzi vyenye silabi moja kula  lia)"
           ],
           "answerIndex": 0,
           "explanation": "Miundo sahihi ni kula/lia, kunywa/nywea, kuja/jia, kufa/fia, jibu/jibia, rudi/rudia, na samehe/samehea."
@@ -7769,10 +7769,10 @@
         {
           "prompt": "Katika sentensi «Kisu hiki ni cha kukatia nyama», kauli ya kutendea inatekeleza jukumu gani?",
           "options": [
-            "Kifaa cha kutendea kitendo (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Kutendewa kwa mtu (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Mahali pa kulala (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Sababu ya kukasirika (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))"
+            "Kifaa cha kutendea kitendo (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Kutendewa kwa mtu (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Mahali pa kulala (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Sababu ya kukasirika (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«cha kukatia nyama» inaeleza kifaa (kisu) kinachotumiwa kufanya tendo la kukata."
@@ -7784,10 +7784,10 @@
         {
           "prompt": "Sentensi ipi inatumia kauli ya kutendea kueleza mahali (Locative/Directional Role)?",
           "options": [
-            "Hiki ndicho chumba chetu cha kulalia wageni. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Nilimwandikia baba barua ndefu (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Unanikazia macho kwa nini? (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Kijiko cha kulia chakula kiko mezani (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))"
+            "Hiki ndicho chumba chetu cha kulalia wageni. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Nilimwandikia baba barua ndefu (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Unanikazia macho kwa nini? (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Kijiko cha kulia chakula kiko mezani (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«chumba cha kulalia» kinaonyesha mahali (chumba) ambapo tendo la kulala linafanyika."
@@ -7800,10 +7800,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi inayochanganya jukumu la Manufaa (Benefactive) na jukumu la Kifaa (Instrumental) kwa usahihi:",
           "options": [
-            "Fundi alimshonea mteja suti nzuri kwa kutumia uzi wa kushonea nguo za harusi. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Fundi alishona suti bila kutumia uzi wowote. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Mteja alishonea fundi suti shambani. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))",
-            "Kauli ya kutendea haiwezi kutumika zaidi ya mara moja katika sentensi moja. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili (U18))"
+            "Fundi alimshonea mteja suti nzuri kwa kutumia uzi wa kushonea nguo za harusi. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Fundi alishona suti bila kutumia uzi wowote. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Mteja alishonea fundi suti shambani. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)",
+            "Kauli ya kutendea haiwezi kutumika zaidi ya mara moja katika sentensi moja. (Kuelewa na kutofautisha maana 4 kuu za kisintaksia za kauli ya kutendea katika Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«alimshonea mteja» (manufaa kwa mteja) na «uzi wa kushonea» (kifaa cha kushona) inachanganya majukumu yote mawili kwa ufasaha."
@@ -7851,10 +7851,10 @@
         {
           "prompt": "Kauli ya kutendewa (Applicative Passive) ya kitenzi \"soma\" (kuwa mtu amesomewa kitu) ni ipi?",
           "options": [
-            "somewa (Kuunganisha mada zote za Unit 18 (U18))",
-            "somwa (Kuunganisha mada zote za Unit 18 (U18))",
-            "someka (Kuunganisha mada zote za Unit 18 (U18))",
-            "somesha (Kuunganisha mada zote za Unit 18 (U18))"
+            "somewa (Kuunganisha mada zote za Unit 18)",
+            "somwa (Kuunganisha mada zote za Unit 18)",
+            "someka (Kuunganisha mada zote za Unit 18)",
+            "somesha (Kuunganisha mada zote za Unit 18)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «soma» kinapitia hatua mbili: soma -> somea (kutendea) -> somewa (kutendewa: be read to/for)."
@@ -7866,10 +7866,10 @@
         {
           "prompt": "Katika muhtasari wa Unit 18, sentensi ipi inatumia kauli mseto ya kutendewa (Applicative Passive) kwa usahihi?",
           "options": [
-            "Mgonjwa aliletewa dawa na akapikiwa chakula chepesi. (Kuunganisha mada zote za Unit 18 (U18))",
-            "Mgonjwa alileta dawa na akapika chakula chepesi (Kuunganisha mada zote za Unit 18 (U18))",
-            "Mgonjwa aliletwa na dawa na akapikwa chakula (Kuunganisha mada zote za Unit 18 (U18))",
-            "Mgonjwa alilitea dawa na kupikia chakula (Kuunganisha mada zote za Unit 18 (U18))"
+            "Mgonjwa aliletewa dawa na akapikiwa chakula chepesi. (Kuunganisha mada zote za Unit 18)",
+            "Mgonjwa alileta dawa na akapika chakula chepesi (Kuunganisha mada zote za Unit 18)",
+            "Mgonjwa aliletwa na dawa na akapikwa chakula (Kuunganisha mada zote za Unit 18)",
+            "Mgonjwa alilitea dawa na kupikia chakula (Kuunganisha mada zote za Unit 18)"
           ],
           "answerIndex": 0,
           "explanation": "«aliletewa dawa» na «akapikiwa chakula» inatekeleza kauli ya kutendewa (mtu akifanyiwa kitu kwa niaba yake katika hali ya kutendwa)."
@@ -7882,10 +7882,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 18 ya Kauli ya Kutendea na Kutendewa katika Kiswahili:",
           "options": [
-            "Mwalimu aliwanunulia wanafunzi kalamu za kuandikia, akawasomea hadithi nzuri, na wao wakafurahi kutendewa wema huo wote. (Kuunganisha mada zote za Unit 18 (U18))",
-            "Mwalimu alinunua kalamu na akasoma hadithi bila kutumia viambishi vya kutendea. (Kuunganisha mada zote za Unit 18 (U18))",
-            "Wanafunzi walimnunua mwalimu kalamu za kuandika. (Kuunganisha mada zote za Unit 18 (U18))",
-            "Kauli ya kutendea haihusiani na uundaji wa nomino au vifaa. (Kuunganisha mada zote za Unit 18 (U18))"
+            "Mwalimu aliwanunulia wanafunzi kalamu za kuandikia, akawasomea hadithi nzuri, na wao wakafurahi kutendewa wema huo wote. (Kuunganisha mada zote za Unit 18)",
+            "Mwalimu alinunua kalamu na akasoma hadithi bila kutumia viambishi vya kutendea. (Kuunganisha mada zote za Unit 18)",
+            "Wanafunzi walimnunua mwalimu kalamu za kuandika. (Kuunganisha mada zote za Unit 18)",
+            "Kauli ya kutendea haihusiani na uundaji wa nomino au vifaa. (Kuunganisha mada zote za Unit 18)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwalimu aliwanunulia wanafunzi kalamu za kuandikia, akawasomea hadithi nzuri, na wao wakafurahi kutendewa wema huo wote.» inajumuisha nyanja zote za kauli ya kutendea na kutendewa kwa ukamilifu."
@@ -7933,10 +7933,10 @@
         {
           "prompt": "Kauli ya kutendesha ya kitenzi \"soma\" (study/read) inayomaanisha kufundisha au kugharamia masomo ya mtu ni ipi?",
           "options": [
-            "somesha (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "somisha (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "somea (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "somwa (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))"
+            "somesha (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "somisha (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "somea (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "somwa (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «soma» kina irabu «o», hivyo kulingana na kanuni ya upatanisho wa irabu huchukua «-esha» kupata «somesha» (educate / sponsor education)."
@@ -7948,10 +7948,10 @@
         {
           "prompt": "Kitenzi \"kopa\" (borrow) kinapobadilishwa kuwa kauli ya kutendesha (lend money / credit), neno sahihi huwa lipi?",
           "options": [
-            "kopesha (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "kopisha (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "kopea (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "kopezwa (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))"
+            "kopesha (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "kopisha (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "kopea (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "kopezwa (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)"
           ],
           "answerIndex": 0,
           "explanation": "Shina «kopa» lina irabu «o», hivyo huchukua «-esha» kupata «kopesha» (lend money)."
@@ -7964,10 +7964,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zote zilizo sahihi za vitenzi vya kawaida na vinyambuliko vyao vya kutendesha:",
           "options": [
-            "fika -> fikisha, simama -> simamisha, rudi -> rudisha, soma -> somesha, kopa -> kopesha, chelewa -> chelewesha. (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "fika -> fikesha, simama -> simamesha, rudi -> rudesha. (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "soma -> somisha, kopa -> kopisha, chelewa -> chelewisha. (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))",
-            "Vitenzi vyote vya Kiswahili huchukua kiambishi '-isha' pekee bila kujali irabu. (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti (U19))"
+            "fika -> fikisha, simama -> simamisha, rudi -> rudisha, soma -> somesha, kopa -> kopesha, chelewa -> chelewesha. (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "fika -> fikesha, simama -> simamesha, rudi -> rudesha. (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "soma -> somisha, kopa -> kopisha, chelewa -> chelewisha. (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)",
+            "Vitenzi vyote vya Kiswahili huchukua kiambishi '-isha' pekee bila kujali irabu. (Kuelewa dhana ya Kauli ya Kutendesha Causative Voice na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti)"
           ],
           "answerIndex": 0,
           "explanation": "«a, i, u» huchukua «-isha» (fikisha, simamisha, rudisha) na «e, o» huchukua «-esha» (somesha, kopesha, chelewesha)."
@@ -8015,10 +8015,10 @@
         {
           "prompt": "Kauli ya kutendesha ya kitenzi cha silabi moja \"kula\" (eat) inayomaanisha kumlisha mtu chakula ni ipi?",
           "options": [
-            "lisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "kulisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "lia (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "liwa (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))"
+            "lisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "kulisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "lia (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "liwa (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kula» kina umbo la kutendesha «lisha» (mfano: *Mwalimu anawalisha wanafunzi chakula*)."
@@ -8030,10 +8030,10 @@
         {
           "prompt": "Kitenzi \"kujua\" (know) kinapobadilishwa kuwa kauli ya kutendesha yenye maana ya 'kufahamisha / kutangaza kwa mtu', neno sahihi huwa lipi?",
           "options": [
-            "julisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "juaisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "juliwa (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "julikana (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))"
+            "julisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "juaisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "juliwa (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "julikana (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kujua» hubadilika kuwa «julisha» katika kauli ya kutendesha: *alitujulisha* (he informed us)."
@@ -8046,10 +8046,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya silabi moja na vya irabu mbili vilivyonyambulishwa katika kauli ya kutendesha:",
           "options": [
-            "kula -> lisha, kunywa -> nywesha, kufa -> fisha, kujua -> julisha, zaa -> zalisha, nunua -> nunulisha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "kula -> lesha, kunywa -> nywisha, kufa -> fesha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "kujua -> juisha, zaa -> zaisha, nunua -> nunuisha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))",
-            "Vitenzi vyenye silabi moja havina kauli ya kutendesha katika lugha ya Kiswahili. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha (U19))"
+            "kula -> lisha, kunywa -> nywesha, kufa -> fisha, kujua -> julisha, zaa -> zalisha, nunua -> nunulisha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "kula -> lesha, kunywa -> nywisha, kufa -> fesha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "kujua -> juisha, zaa -> zaisha, nunua -> nunuisha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)",
+            "Vitenzi vyenye silabi moja havina kauli ya kutendesha katika lugha ya Kiswahili. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili lisha  lesha na vitenzi vyenye silabi moja kula  lisha)"
           ],
           "answerIndex": 0,
           "explanation": "Miundo sahihi ya kutendesha ni kula/lisha, kunywa/nywesha, kufa/fisha, kujua/julisha, zaa/zalisha, na nunua/nunulisha."
@@ -8097,10 +8097,10 @@
         {
           "prompt": "Kauli ya kutendesha ya kitenzi \"kumbuka\" (remember) inayomaanisha 'kumfanya mtu akumbuke' ni ipi?",
           "options": [
-            "kumbusha (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "kumbukisha (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "kumbukia (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "kumbukwa (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))"
+            "kumbusha (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "kumbukisha (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "kumbukia (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "kumbukwa (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «kumbuka» hubadilisha konsonanti ya mwisho «-ka» kuwa «-sha» kupata «kumbusha» (remind)."
@@ -8112,10 +8112,10 @@
         {
           "prompt": "Kitenzi \"lala\" (sleep / lie down) kinapobadilishwa kuwa kauli ya kutendesha (lay down / hospitalize), neno sahihi huwa lipi?",
           "options": [
-            "laza (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "lalisha (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "lalia (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "lalwa (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))"
+            "laza (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "lalisha (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "lalia (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "lalwa (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «lala» hubadilika kuwa «laza» (mfano: *daktari alimlaza mgonjwa hospitalini*)."
@@ -8128,10 +8128,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zote zinazoonyesha mabadiliko sahihi ya sauti za konsonanti katika kauli ya kutendesha:",
           "options": [
-            "chemka -> chemsha, kauka -> kausha, amka -> amsha, kumbuka -> kumbusha, lala -> laza, penda -> pendeza, potea -> poteza. (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "chemka -> chemkisha, kauka -> kaukisha, amka -> amkisha. (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "lala -> lalisha, penda -> pendisha, potea -> potesha. (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))",
-            "Konsonanti za mwisho za vitenzi haziwezi kubadilika katika sarufi ya Kiswahili. (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha (U19))"
+            "chemka -> chemsha, kauka -> kausha, amka -> amsha, kumbuka -> kumbusha, lala -> laza, penda -> pendeza, potea -> poteza. (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "chemka -> chemkisha, kauka -> kaukisha, amka -> amkisha. (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "lala -> lalisha, penda -> pendisha, potea -> potesha. (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)",
+            "Konsonanti za mwisho za vitenzi haziwezi kubadilika katika sarufi ya Kiswahili. (Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa sha au za ka  sha)"
           ],
           "answerIndex": 0,
           "explanation": "Mabadiliko ya fonolojia hutoa chemsha, kausha, amsha, kumbusha, laza, pendeza, na poteza."
@@ -8179,10 +8179,10 @@
         {
           "prompt": "Kauli ya kutendesha ya kitenzi cha Kiarabu \"safiri\" (travel) inayomaanisha kusafirisha mizigo au watu ni ipi?",
           "options": [
-            "safirisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "safiresha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "safiria (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "safiriwa (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))"
+            "safirisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "safiresha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "safiria (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "safiriwa (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «safiri» kinaishia na «-i», hivyo huchukua «-isha» kupata «safirisha» (transport / cause to travel)."
@@ -8194,10 +8194,10 @@
         {
           "prompt": "Kitenzi \"badili\" (change / alter) kinapobadilishwa kuwa kauli ya kutendesha (exchange / transform sth), neno sahihi huwa lipi?",
           "options": [
-            "badilisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "badilesha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "badilia (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "badilika (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))"
+            "badilisha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "badilesha (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "badilia (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "badilika (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «badili» huchukua «-isha» kupata «badilisha» (exchange / alter / change something)."
@@ -8210,10 +8210,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya kigeni katika kauli ya kutendesha:",
           "options": [
-            "safiri -> safirisha, rudi -> rudisha, hakiki -> hakikisha, badili -> badilisha, jaribu -> jaribisha, starehe -> starehesha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "safiri -> safiresha, rudi -> rudesha, hakiki -> hakikesha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "safiri -> safiriza, rudi -> rudiza, badili -> badiliza. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))",
-            "Vitenzi vyenye asili ya Kiarabu haviwezi kunyambulishwa katika kauli ya kutendesha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i (U19))"
+            "safiri -> safirisha, rudi -> rudisha, hakiki -> hakikisha, badili -> badilisha, jaribu -> jaribisha, starehe -> starehesha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "safiri -> safiresha, rudi -> rudesha, hakiki -> hakikesha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "safiri -> safiriza, rudi -> rudiza, badili -> badiliza. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)",
+            "Vitenzi vyenye asili ya Kiarabu haviwezi kunyambulishwa katika kauli ya kutendesha. (Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni hasa Kiarabu vinavyoishia na irabu i)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya Kiarabu vyenye irabu -i/-u huchukua -isha (safirisha, rudisha, hakikisha, badilisha, jaribisha) na -e huchukua -esha (starehesha)."
@@ -8261,10 +8261,10 @@
         {
           "prompt": "Katika sentensi «Mwanafunzi alisomeshwa na mjomba wake», mnyambuliko wa kitenzi unachanganya kauli zipi?",
           "options": [
-            "Kauli ya Kutendesha na Kauli ya Kutendwa (Kuunganisha mada zote za Unit 19 (U19))",
-            "Kauli ya Kutenda na Kauli ya Kutendea (Kuunganisha mada zote za Unit 19 (U19))",
-            "Kauli ya Kutendeka pekee (Kuunganisha mada zote za Unit 19 (U19))",
-            "Kauli ya Kutendana na Kutendea (Kuunganisha mada zote za Unit 19 (U19))"
+            "Kauli ya Kutendesha na Kauli ya Kutendwa (Kuunganisha mada zote za Unit 19)",
+            "Kauli ya Kutenda na Kauli ya Kutendea (Kuunganisha mada zote za Unit 19)",
+            "Kauli ya Kutendeka pekee (Kuunganisha mada zote za Unit 19)",
+            "Kauli ya Kutendana na Kutendea (Kuunganisha mada zote za Unit 19)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «alisomeshwa» kimetokana na: soma -> somesha (kutendesha) -> someshwa (kutendeshwa: causative passive)."
@@ -8276,10 +8276,10 @@
         {
           "prompt": "Sentensi ipi inatumia mseto wa kauli ya kutendesha na kauli ya kutendea (Kutendeshea: cause for/to someone) kwa usahihi?",
           "options": [
-            "Mfanyabiashara alimrudishia mteja chenji yake yote. (Kuunganisha mada zote za Unit 19 (U19))",
-            "Mfanyabiashara alirudisha mteja bila kumpa chenji (Kuunganisha mada zote za Unit 19 (U19))",
-            "Mfanyabiashara alirudiwa na mteja (Kuunganisha mada zote za Unit 19 (U19))",
-            "Mfanyabiashara alimrudisha mteja chenji (Kuunganisha mada zote za Unit 19 (U19))"
+            "Mfanyabiashara alimrudishia mteja chenji yake yote. (Kuunganisha mada zote za Unit 19)",
+            "Mfanyabiashara alirudisha mteja bila kumpa chenji (Kuunganisha mada zote za Unit 19)",
+            "Mfanyabiashara alirudiwa na mteja (Kuunganisha mada zote za Unit 19)",
+            "Mfanyabiashara alimrudisha mteja chenji (Kuunganisha mada zote za Unit 19)"
           ],
           "answerIndex": 0,
           "explanation": "«alimrudishia mteja chenji» inatumia kauli ya kutendeshea (rudi -> rudisha -> rudishia: return/refund to someone)."
@@ -8292,10 +8292,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 19 ya Kauli ya Kutendesha na Vinyambuliko Mseto katika Kiswahili:",
           "options": [
-            "Mwalimu aliwasomesha wanafunzi kwa maarifa mapya, akawahakikishia ushindi katika mitihani, na wale waliohitaji msaada wakasomeshwa kwa ukarimu wote. (Kuunganisha mada zote za Unit 19 (U19))",
-            "Mwalimu alisoma na wanafunzi bila kusababisha chochote. (Kuunganisha mada zote za Unit 19 (U19))",
-            "Wanafunzi walimfundisha mwalimu jikoni. (Kuunganisha mada zote za Unit 19 (U19))",
-            "Kauli ya kutendesha haiwezi kuunganishwa na kauli ya kutendwa. (Kuunganisha mada zote za Unit 19 (U19))"
+            "Mwalimu aliwasomesha wanafunzi kwa maarifa mapya, akawahakikishia ushindi katika mitihani, na wale waliohitaji msaada wakasomeshwa kwa ukarimu wote. (Kuunganisha mada zote za Unit 19)",
+            "Mwalimu alisoma na wanafunzi bila kusababisha chochote. (Kuunganisha mada zote za Unit 19)",
+            "Wanafunzi walimfundisha mwalimu jikoni. (Kuunganisha mada zote za Unit 19)",
+            "Kauli ya kutendesha haiwezi kuunganishwa na kauli ya kutendwa. (Kuunganisha mada zote za Unit 19)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwalimu aliwasomesha wanafunzi kwa maarifa mapya, akawahakikishia ushindi katika mitihani, na wale waliohitaji msaada wakasomeshwa kwa ukarimu wote.» inajumuisha nyanja zote za kauli ya kutendesha na vinyambuliko vyake mseto kwa ukamilifu."
@@ -8343,10 +8343,10 @@
         {
           "prompt": "Kauli ya kutendana (Reciprocal Voice) ya kitenzi \"saidia\" (help) inayomaanisha kusaidiana pande zote mbili ni ipi?",
           "options": [
-            "saidiana (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "saidika (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "saidisha (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "saidiwa (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))"
+            "saidiana (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "saidika (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "saidisha (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "saidiwa (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «saidia» hupokea kiambishi «-ana» kupata «saidiana» (help one another)."
@@ -8358,10 +8358,10 @@
         {
           "prompt": "Sentensi ipi inatumia kauli ya kutendana kwa mtendaji wa umoja aliyeunganishwa na neno \"na\" kwa usahihi?",
           "options": [
-            "Juma anashauriana na kaka yake kuhusu masuala ya shamba. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "Juma anashauriwa kaka yake kuhusu masuala ya shamba (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "Juma na kaka yake anashauri (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "Juma anashauria kaka yake (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))"
+            "Juma anashauriana na kaka yake kuhusu masuala ya shamba. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "Juma anashauriwa kaka yake kuhusu masuala ya shamba (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "Juma na kaka yake anashauri (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "Juma anashauria kaka yake (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)"
           ],
           "answerIndex": 0,
           "explanation": "«Juma anashauriana na kaka yake» inatumia kauli ya kutendana ya umoja sahihi ikifuatiwa na kiunganishi «na»."
@@ -8374,10 +8374,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vilivyonyambulishwa katika kauli ya kutendana (-ana):",
           "options": [
-            "penda -> pendana, saidia -> saidiana, ona -> onana, elewa -> elewana, heshimu -> heshimiana, kubali -> kubaliana. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "penda -> pendeka, saidia -> saidika, ona -> oneka. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "penda -> pendesha, saidia -> saidisha, ona -> onesha. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))",
-            "Kauli ya kutendana inatumika tu kwa wanyama na si binadamu. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice (U20))"
+            "penda -> pendana, saidia -> saidiana, ona -> onana, elewa -> elewana, heshimu -> heshimiana, kubali -> kubaliana. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "penda -> pendeka, saidia -> saidika, ona -> oneka. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "penda -> pendesha, saidia -> saidisha, ona -> onesha. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)",
+            "Kauli ya kutendana inatumika tu kwa wanyama na si binadamu. (Kuelewa na kutumia Kauli ya Kutendana Reciprocal Voice)"
           ],
           "answerIndex": 0,
           "explanation": "Kiambishi -ana huunda vitenzi vya kutendana kama pendana, saidiana, onana, elewana, heshimiana, na kubaliana."
@@ -8425,10 +8425,10 @@
         {
           "prompt": "Kauli ya kutendeka ya kitenzi \"vunja\" (break) inayoeleza kuwa kitu kimevunjika bila kutaja mtendaji ni ipi?",
           "options": [
-            "vunjika (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "vunjwa (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "vunjia (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "vunjisha (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))"
+            "vunjika (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "vunjwa (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "vunjia (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "vunjisha (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «vunja» kina irabu «u», hivyo huchukua «-ika» kupata «vunjika» (be broken / breakable)."
@@ -8440,10 +8440,10 @@
         {
           "prompt": "Kitenzi \"soma\" (read) kinapobadilishwa kuwa kauli ya kutendeka yenye maana ya 'kusomeka / kuwa wazi kusoma', neno sahihi huwa lipi?",
           "options": [
-            "someka (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "somika (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "somwa (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "somesha (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))"
+            "someka (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "somika (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "somwa (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "somesha (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «soma» kina irabu «o», hivyo kulingana na upatanisho wa irabu huchukua «-eka» kupata «someka» (be readable / legible)."
@@ -8456,10 +8456,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua jozi zote zilizo sahihi za vitenzi na vinyambuliko vyao vya kutendeka (-ika / -eka):",
           "options": [
-            "vunja -> vunjika, fanya -> fanyika, andika -> andikika, soma -> someka, elewa -> eleweka, tenda -> tendeka, haribu -> haribika. (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "vunja -> vunjeka, fanya -> fanyeka, andika -> andikeka. (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "soma -> somika, elewa -> elewika, tenda -> tendika. (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))",
-            "Kauli ya kutendeka ni sawa kabisa na kauli ya kutendwa bila tofauti yoyote ya maana. (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice (U20))"
+            "vunja -> vunjika, fanya -> fanyika, andika -> andikika, soma -> someka, elewa -> eleweka, tenda -> tendeka, haribu -> haribika. (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "vunja -> vunjeka, fanya -> fanyeka, andika -> andikeka. (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "soma -> somika, elewa -> elewika, tenda -> tendika. (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)",
+            "Kauli ya kutendeka ni sawa kabisa na kauli ya kutendwa bila tofauti yoyote ya maana. (Kuelewa na kutumia Kauli ya Kutendeka Stative Voice)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya «a, i, u» huchukua «-ika» (vunjika, fanyika, andikika, haribika) na «e, o» huchukua «-eka» (someka, eleweka, tendeka)."
@@ -8507,10 +8507,10 @@
         {
           "prompt": "Umbo la kutendekana la kitenzi \"pata\" linalomaanisha 'kuwa rahisi kupatikana au kuwepo' ni lipi?",
           "options": [
-            "patikana (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))",
-            "patana (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))",
-            "patika (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))",
-            "patiwa (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))"
+            "patikana (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)",
+            "patana (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)",
+            "patika (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)",
+            "patiwa (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «pata» huunda «patikana» kueleza upatikanaji wa kitu: *huduma zinapatikana* (services are available)."
@@ -8522,10 +8522,10 @@
         {
           "prompt": "Kitenzi \"jua\" (know) kinapobadilishwa kuwa kauli ya kutendekana kueleza 'mtu kuwa maarufu / anayejulikana na watu wengi', neno sahihi huwa lipi?",
           "options": [
-            "julikana (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))",
-            "juana (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))",
-            "julisha (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))",
-            "juliwa (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))"
+            "julikana (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)",
+            "juana (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)",
+            "julisha (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)",
+            "juliwa (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «jua» hubadilika kuwa «julikana» katika kauli ya kutendekana: *kiongozi anajulikana sana*."
@@ -8538,10 +8538,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya kutendekana (-ikana / -ekana):",
           "options": [
-            "pata -> patikana, ona -> onekana, jua -> julikana, weza -> wezekana, shinda -> shindikana. (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))",
-            "pata -> patikisha, ona -> onekisha, jua -> julikisha. (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))",
+            "pata -> patikana, ona -> onekana, jua -> julikana, weza -> wezekana, shinda -> shindikana. (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)",
+            "pata -> patikisha, ona -> onekisha, jua -> julikisha. (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)",
             "pata -> patikana, ona -> onana, jua -> juana (mchanganyiko usio na mpangilio)",
-            "Viambishi vya -ikana na -ekana havipo katika lugha sanifu ya Kiswahili. (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji (U20))"
+            "Viambishi vya -ikana na -ekana havipo katika lugha sanifu ya Kiswahili. (Kutambua na kutumia umbo lililopanuliwa la kutendekana ikana  ekana kueleza upatikanaji)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi sahihi vya kutendekana ni patikana, onekana, julikana, wezekana, na shindikana."
@@ -8589,10 +8589,10 @@
         {
           "prompt": "Kauli ya kutendana ya kitenzi cha Kiarabu \"jadili\" (discuss / debate) inayomaanisha kubadilishana mawazo kwa pamoja ni ipi?",
           "options": [
-            "jadiliana (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "jadilika (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "jadilisha (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "jadiliwa (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))"
+            "jadiliana (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "jadilika (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "jadilisha (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "jadiliwa (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «jadili» hubadilika kuwa «jadiliana» katika kauli ya kutendana (discuss/debate together)."
@@ -8604,10 +8604,10 @@
         {
           "prompt": "Kitenzi cha Kiarabu \"badili\" (change / alter) kinapobadilishwa kuwa kauli ya kutendeka yenye maana ya 'kubadilika kwenyewe bila mtendaji', neno sahihi huwa lipi?",
           "options": [
-            "badilika (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "badilisha (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "badiliana (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "badiliwa (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))"
+            "badilika (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "badilisha (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "badiliana (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "badiliwa (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «badili» huchukua «-ika» kupata «badilika» (change / be altered)."
@@ -8620,10 +8620,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya kigeni katika kauli ya kutendana na kutendeka:",
           "options": [
-            "Kutendana: heshimiana, shukuriana, sameheana, jadiliana, wasiliana. Kutendeka: badilika, jaribika, kabilika, thibitika. (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "Kutendana: heshimika, shukurika, sameheka. Kutendeka: badiliana, jaribiana. (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "Vitenzi vya Kiarabu havina kauli ya kutendana wala kutendeka katika sarufi ya Kiswahili. (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))",
-            "Kutendana: heshimisha, shukurisha. Kutendeka: badilishwa, jaribiwa. (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka (U20))"
+            "Kutendana: heshimiana, shukuriana, sameheana, jadiliana, wasiliana. Kutendeka: badilika, jaribika, kabilika, thibitika. (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "Kutendana: heshimika, shukurika, sameheka. Kutendeka: badiliana, jaribiana. (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "Vitenzi vya Kiarabu havina kauli ya kutendana wala kutendeka katika sarufi ya Kiswahili. (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)",
+            "Kutendana: heshimisha, shukurisha. Kutendeka: badilishwa, jaribiwa. (Kutambua na kutumia unyambulishaji wa vitenzi vya asili ya Kiarabu na kigeni katika kauli ya kutendana iana na kauli ya kutendeka ika  eka)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya kigeni hunyambulishwa kwa ufasaha kuwa heshimiana/sameheana (kutendana) na badilika/kabilika (kutendeka)."
@@ -8671,10 +8671,10 @@
         {
           "prompt": "Katika sentensi «Marafiki wanapigiana simu kila jioni», mnyambuliko wa kitenzi unajumuisha kauli zipi?",
           "options": [
-            "Kauli ya Kutendea na Kauli ya Kutendana (Kuunganisha mada zote za Unit 20 (U20))",
-            "Kauli ya Kutendesha na Kauli ya Kutendwa (Kuunganisha mada zote za Unit 20 (U20))",
-            "Kauli ya Kutendeka pekee (Kuunganisha mada zote za Unit 20 (U20))",
-            "Kauli ya Kutenda ya kawaida (Kuunganisha mada zote za Unit 20 (U20))"
+            "Kauli ya Kutendea na Kauli ya Kutendana (Kuunganisha mada zote za Unit 20)",
+            "Kauli ya Kutendesha na Kauli ya Kutendwa (Kuunganisha mada zote za Unit 20)",
+            "Kauli ya Kutendeka pekee (Kuunganisha mada zote za Unit 20)",
+            "Kauli ya Kutenda ya kawaida (Kuunganisha mada zote za Unit 20)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «wanapigiana» kimetokana na: piga -> pigia (kutendea: call to/for) -> pigiana (kutendana: call one another)."
@@ -8686,10 +8686,10 @@
         {
           "prompt": "Sentensi ipi inachanganya kauli ya kutendana (reciprocal), kutendeka (stative), na kutendekana (broad potentiality) kwa ufasaha?",
           "options": [
-            "Wafanyakazi wanashauriana kwa heshima, kazi zote zinafanyika kwa wakati, na mafanikio yanaonekana wazi. (Kuunganisha mada zote za Unit 20 (U20))",
-            "Wafanyakazi walifanya kazi bila kusemeshana au kufanya chochote. (Kuunganisha mada zote za Unit 20 (U20))",
-            "Kazi zote zilifanywa na mkurugenzi pekee yake. (Kuunganisha mada zote za Unit 20 (U20))",
-            "Kauli ya kutendana haiwezi kutumika pamoja na kauli ya kutendeka katika muktadha mmoja. (Kuunganisha mada zote za Unit 20 (U20))"
+            "Wafanyakazi wanashauriana kwa heshima, kazi zote zinafanyika kwa wakati, na mafanikio yanaonekana wazi. (Kuunganisha mada zote za Unit 20)",
+            "Wafanyakazi walifanya kazi bila kusemeshana au kufanya chochote. (Kuunganisha mada zote za Unit 20)",
+            "Kazi zote zilifanywa na mkurugenzi pekee yake. (Kuunganisha mada zote za Unit 20)",
+            "Kauli ya kutendana haiwezi kutumika pamoja na kauli ya kutendeka katika muktadha mmoja. (Kuunganisha mada zote za Unit 20)"
           ],
           "answerIndex": 0,
           "explanation": "«wanashauriana» (kutendana), «zinafanyika» (kutendeka), na «yanaonekana» (kutendekana) zinakusanya kauli zote tatu kwa usahihi wa kisarufi."
@@ -8702,10 +8702,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 20 ya Kauli ya Kutendana na Kutendeka katika lugha ya Kiswahili:",
           "options": [
-            "Wanajamii wanasaidiana katika miradi ya pamoja, changamoto zinakabilika kwa umoja wao, na inathibitika kwamba maendeleo ya kweli yanawezekana pale watu wanapopendana. (Kuunganisha mada zote za Unit 20 (U20))",
-            "Wanajamii hawasaidiani na hakuna jambo linalowezekana. (Kuunganisha mada zote za Unit 20 (U20))",
-            "Watu wote walikaa kimya bila kufanya jambo lolote la maendeleo. (Kuunganisha mada zote za Unit 20 (U20))",
-            "Vinyambuliko vya vitenzi havina umuhimu wowote katika mawasiliano ya kila siku. (Kuunganisha mada zote za Unit 20 (U20))"
+            "Wanajamii wanasaidiana katika miradi ya pamoja, changamoto zinakabilika kwa umoja wao, na inathibitika kwamba maendeleo ya kweli yanawezekana pale watu wanapopendana. (Kuunganisha mada zote za Unit 20)",
+            "Wanajamii hawasaidiani na hakuna jambo linalowezekana. (Kuunganisha mada zote za Unit 20)",
+            "Watu wote walikaa kimya bila kufanya jambo lolote la maendeleo. (Kuunganisha mada zote za Unit 20)",
+            "Vinyambuliko vya vitenzi havina umuhimu wowote katika mawasiliano ya kila siku. (Kuunganisha mada zote za Unit 20)"
           ],
           "answerIndex": 0,
           "explanation": "«Wanajamii wanasaidiana katika miradi ya pamoja, changamoto zinakabilika kwa umoja wao, na inathibitika kwamba maendeleo ya kweli yanawezekana pale watu wanapopendana.» inajumuisha nyanja zote za kauli ya kutendana na kutendeka kwa ukamilifu."
@@ -8753,10 +8753,10 @@
         {
           "prompt": "Sentensi ipi inatumia kiambishi cha sharti \"-ki-\" kwa kitenzi cha silabi moja \"kula\" (eat) kwa usahihi?",
           "options": [
-            "Ukila matunda kwa wingi, utaimarisha kinga ya mwili wako. (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))",
-            "Ukikula matunda kwa wingi, utaimarisha kinga ya mwili (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))",
-            "Ulikula matunda kwa wingi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))",
-            "Unakula matunda kwa wingi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))"
+            "Ukila matunda kwa wingi, utaimarisha kinga ya mwili wako. (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)",
+            "Ukikula matunda kwa wingi, utaimarisha kinga ya mwili (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)",
+            "Ulikula matunda kwa wingi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)",
+            "Unakula matunda kwa wingi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi cha silabi moja «kula» kinapopokea kiambishi cha sharti «-ki-» hupoteza «ku-» na kuwa «ukila» (*Ukila matunda...*)."
@@ -8768,10 +8768,10 @@
         {
           "prompt": "Chagua sentensi inayoonyesha sharti halisi linalowezekana (Real Conditional) katika lugha ya Kiswahili:",
           "options": [
-            "Tukiamka mapema asubuhi, tutawahi usafiri wa basi la kwanza. (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))",
-            "Tungeamka mapema tungechelewa basi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))",
-            "Tuliamka mapema bila kuwahi basi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))",
-            "Tunaamka mapema kila siku asubuhi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))"
+            "Tukiamka mapema asubuhi, tutawahi usafiri wa basi la kwanza. (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)",
+            "Tungeamka mapema tungechelewa basi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)",
+            "Tuliamka mapema bila kuwahi basi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)",
+            "Tunaamka mapema kila siku asubuhi (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "«Tukiamka mapema, tutawahi usafiri» inajumuisha sharti halisi la «-ki-» likifuatiwa na wakati ujao wa «-ta-»."
@@ -8784,10 +8784,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vilivyonyambulishwa kwa kiambishi cha sharti halisi (-ki-):",
           "options": [
-            "ukisoma, ikinyesha, tukishirikiana, ukila, ukija, ukinywa, wakielewa. (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))",
+            "ukisoma, ikinyesha, tukishirikiana, ukila, ukija, ukinywa, wakielewa. (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)",
             "ukisoma, ikinyesha, ukikula, ukikuja, ukikunywa (kosa la kubakiza 'ku-')",
             "ungesoma, ingenyesha, ungalikula (mchanganyiko wa masharti mengine)",
-            "Kiambishi cha '-ki-' hakiwezi kutumika mwanzoni au katikati ya kitenzi. (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals (U21))"
+            "Kiambishi cha '-ki-' hakiwezi kutumika mwanzoni au katikati ya kitenzi. (Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana ki katika miundo ya vishazi vya masharti na matukio yanayoambatana Real Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "Miundo sahihi ya -ki- ni ukisoma, ikinyesha, tukishirikiana, na vitenzi vya silabi moja vilivyopoteza ku- (ukila, ukija, ukinywa)."
@@ -8835,10 +8835,10 @@
         {
           "prompt": "Ukanushaji sahihi wa sentensi ya sharti «Ukifika mapema utamwona mgeni» ni upi?",
           "options": [
-            "Usipofika mapema hutamwona mgeni. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "Hukifika mapema hutamwona mgeni (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "Ukikosa kufika hutamwona mgeni (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "Usipofika mapema utamwona mgeni (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))"
+            "Usipofika mapema hutamwona mgeni. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "Hukifika mapema hutamwona mgeni (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "Ukikosa kufika hutamwona mgeni (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "Usipofika mapema utamwona mgeni (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "Ukanushaji wa «ukifika» ni «usipofika» na «utamwona» unakanushwa kuwa «hutamwona»."
@@ -8850,10 +8850,10 @@
         {
           "prompt": "Sentensi ipi inatumia kiambishi cha sharti hasi \"-sipo-\" kwa usahihi wa kisarufi?",
           "options": [
-            "Wagonjwa wasipotumia dawa kama walivyoelekezwa, hawatapona haraka. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "Wagonjwa hawakutumia dawa kama walivyoelekezwa (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "Wagonjwa hawakusoma dawa kama walivyoelekezwa (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "Wagonjwa wasipokula dawa hawatapona (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))"
+            "Wagonjwa wasipotumia dawa kama walivyoelekezwa, hawatapona haraka. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "Wagonjwa hawakutumia dawa kama walivyoelekezwa (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "Wagonjwa hawakusoma dawa kama walivyoelekezwa (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "Wagonjwa wasipokula dawa hawatapona (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "«Wagonjwa wasipotumia dawa... hawatapona haraka» inatumia sharti hasi la upatanisho wa ngeli ya WA- («wasipotumia»)."
@@ -8866,10 +8866,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua ulinganifu sahihi wa sharti chanya (-ki-) na sharti hasi (-sipo-):",
           "options": [
-            "ukisoma -> usiposoma, akija -> asipokuja, tukilinda -> tusipolinda, ikinyesha -> isiponyesha. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "ukisoma -> hutosoma, akija -> hakuji, tukilinda -> hatulindi. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "ukisoma -> hukisoma, akija -> hasikija, tukilinda -> hatukilinda. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))",
-            "Katika lugha ya Kiswahili hakuna njia ya kukanusha kiambishi cha sharti '-ki-'. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals (U21))"
+            "ukisoma -> usiposoma, akija -> asipokuja, tukilinda -> tusipolinda, ikinyesha -> isiponyesha. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "ukisoma -> hutosoma, akija -> hakuji, tukilinda -> hatulindi. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "ukisoma -> hukisoma, akija -> hasikija, tukilinda -> hatukilinda. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)",
+            "Katika lugha ya Kiswahili hakuna njia ya kukanusha kiambishi cha sharti '-ki-'. (Kuelewa na kutumia kiambishi cha sharti hasi sipo kueleza masharti ya kukanusha Negative Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "Ukanushaji wa kipekee wa sharti chanya «-ki-» ni kiambishi «-sipo-» (usiposoma, asipokuja, tusipolinda, isiponyesha)."
@@ -8917,10 +8917,10 @@
         {
           "prompt": "Sentensi ipi inatumia muundo sahihi wa sharti la sasa la \"-nge-\" katika pande zote mbili?",
           "options": [
-            "Ungeniambia mapema, ningekusaidia kutatua tatizo lako. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "Ungeniambia mapema, nitakusaidia kutatua tatizo lako (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "Ukinianbia mapema ningekusaidia (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "Ungenianbia mapema ulikusaidia (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))"
+            "Ungeniambia mapema, ningekusaidia kutatua tatizo lako. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "Ungeniambia mapema, nitakusaidia kutatua tatizo lako (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "Ukinianbia mapema ningekusaidia (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "Ungenianbia mapema ulikusaidia (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)"
           ],
           "answerIndex": 0,
           "explanation": "Muundo wa sharti la «-nge-» unahitaji «-nge-» katika kishazi tegemezi («ungeniambia») na kishazi kikuu («ningekusaidia»)."
@@ -8932,10 +8932,10 @@
         {
           "prompt": "Kishazi hasi cha sharti la sasa cha kitenzi «ungesoma» kinaundwa kwa kutumia kiambishi kipi?",
           "options": [
-            "usingesoma (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "usiposoma (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "hungesoma (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "hukusoma (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))"
+            "usingesoma (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "usiposoma (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "hungesoma (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "hukusoma (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)"
           ],
           "answerIndex": 0,
           "explanation": "Ukanushaji wa sharti la «-nge-» ni «-singe-», hivyo «ungesoma» huwa «usingesoma»."
@@ -8948,10 +8948,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi iliyo sahihi kabisa inayotumia sharti chanya la -nge- na sharti hasi la -singe-:",
           "options": [
-            "Wanafunzi wangesikiliza maelekezo ya mwalimu, wasingefanya makosa mengi katika jaribio la leo. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "Wanafunzi wangesikiliza maelekezo ya mwalimu, hawatafanya makosa mengi. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "Wanafunzi wakisikiliza maelekezo ya mwalimu, wasingefanya makosa mengi. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))",
-            "Sharti la '-nge-' halihitaji kiambishi sawa katika kishazi kikuu. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical (U21))"
+            "Wanafunzi wangesikiliza maelekezo ya mwalimu, wasingefanya makosa mengi katika jaribio la leo. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "Wanafunzi wangesikiliza maelekezo ya mwalimu, hawatafanya makosa mengi. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "Wanafunzi wakisikiliza maelekezo ya mwalimu, wasingefanya makosa mengi. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)",
+            "Sharti la '-nge-' halihitaji kiambishi sawa katika kishazi kikuu. (Kuelewa na kutumia kiambishi cha sharti la dhahaniasasa nge na ukanushaji wake singe kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka Present Hypothetical)"
           ],
           "answerIndex": 0,
           "explanation": "Muundo sahihi: «wangesikiliza» (sharti chanya la -nge-) na «wasingefanya» (sharti hasi la -singe- katika kishazi kikuu)."
@@ -8999,10 +8999,10 @@
         {
           "prompt": "Sentensi ipi inawakilisha sharti lililopita lisilowezekana tena (Past Counterfactual) kwa usahihi?",
           "options": [
-            "Ningalijua matokeo ya uamuzi wangu jana, nisingalifanya makosa yale. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "Ningejua matokeo ya uamuzi wangu nitafanya mazoezi (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "Nikijua matokeo ya uamuzi wangu jana nisingalifanya (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "Nalijua matokeo ya uamuzi wangu jana (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))"
+            "Ningalijua matokeo ya uamuzi wangu jana, nisingalifanya makosa yale. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "Ningejua matokeo ya uamuzi wangu nitafanya mazoezi (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "Nikijua matokeo ya uamuzi wangu jana nisingalifanya (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "Nalijua matokeo ya uamuzi wangu jana (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)"
           ],
           "answerIndex": 0,
           "explanation": "«Ningalijua... nisingalifanya» inatekeleza kanuni ya sharti lililopita lisilowezekana tena kwa kutumia «-ngali-» na «-singali-»."
@@ -9014,10 +9014,10 @@
         {
           "prompt": "Kishazi hasi cha sharti lililopita cha kitenzi «wangalifika» kinaundwa vipi?",
           "options": [
-            "wasingalifika (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "wasingefika (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "wasipofika (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "hawakufika (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))"
+            "wasingalifika (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "wasingefika (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "wasipofika (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "hawakufika (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «wangalifika» kinapokanushwa katika sharti la -ngali- huwa «wasingalifika»."
@@ -9030,10 +9030,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi iliyo sahihi kabisa inayotumia sharti chanya la -ngali- na sharti hasi la -singali- kwa muktadha wa wakati uliopita:",
           "options": [
-            "Mvua ingalinyesha mwaka jana kama ilivyotarajiwa, tusingalipata hasara hii ya ukame. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "Mvua ikinyesha mwaka jana kama ilivyotarajiwa, tusingalipata hasara hii. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "Mvua ingalinyesha mwaka jana, hatutapata hasara. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))",
-            "Masharti ya '-ngali-' yanaweza kutumika tu kwa vitendo vinavyotokea kesho. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual (U21))"
+            "Mvua ingalinyesha mwaka jana kama ilivyotarajiwa, tusingalipata hasara hii ya ukame. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "Mvua ikinyesha mwaka jana kama ilivyotarajiwa, tusingalipata hasara hii. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "Mvua ingalinyesha mwaka jana, hatutapata hasara. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)",
+            "Masharti ya '-ngali-' yanaweza kutumika tu kwa vitendo vinavyotokea kesho. (Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena ngali na ukanushaji wake singali kueleza mambo yaliyoshindikana zamani Past Counterfactual)"
           ],
           "answerIndex": 0,
           "explanation": "Muundo sahihi wa wakati uliopita usiorejeshwa: «ingalinyesha» (-ngali-) na «tusingalipata» (-singali-)."
@@ -9084,7 +9084,7 @@
             "-ki- (Sharti halisi linalowezekana)",
             "-ki- (Sharti lililopita)",
             "-ki- (Sharti hasi)",
-            "Mifumo ya masharti katika Kiswahili haina tofauti ya wakati au uwezekano. (Kuunganisha mada zote za Unit 21 (U21))"
+            "Mifumo ya masharti katika Kiswahili haina tofauti ya wakati au uwezekano. (Kuunganisha mada zote za Unit 21)"
           ],
           "answerIndex": 0,
           "explanation": "Mgawanyo sahihi wa masharti ya Kiswahili ni: -ki- (halisi/probable), -nge- (dhahania/hypothetical), na -ngali- (yaliyopita/counterfactual)."
@@ -9096,10 +9096,10 @@
         {
           "prompt": "Sentensi ipi inachanganya neno la sharti \"Endapo\" na kiambishi cha sharti \"-ki-\" kwa usahihi?",
           "options": [
-            "Endapo ukikubali ofa hii ya kazi, utaanza mafunzo rasmi juma lijalo. (Kuunganisha mada zote za Unit 21 (U21))",
-            "Endapo ungekubali ofa hii utakubali kazi (Kuunganisha mada zote za Unit 21 (U21))",
-            "Endapo ulikubali ofa hii umeanza mafunzo (Kuunganisha mada zote za Unit 21 (U21))",
-            "Endapo unakubali ofa hii jana (Kuunganisha mada zote za Unit 21 (U21))"
+            "Endapo ukikubali ofa hii ya kazi, utaanza mafunzo rasmi juma lijalo. (Kuunganisha mada zote za Unit 21)",
+            "Endapo ungekubali ofa hii utakubali kazi (Kuunganisha mada zote za Unit 21)",
+            "Endapo ulikubali ofa hii umeanza mafunzo (Kuunganisha mada zote za Unit 21)",
+            "Endapo unakubali ofa hii jana (Kuunganisha mada zote za Unit 21)"
           ],
           "answerIndex": 0,
           "explanation": "«Endapo ukikubali ofa hii, utaanza mafunzo» inatumia neno la sharti «Endapo» likiambatana na kiambishi «-ki-» na wakati ujao «-ta-»."
@@ -9112,10 +9112,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 21 ya Mifumo ya Masharti katika lugha ya Kiswahili:",
           "options": [
-            "Ukifanya kazi kwa bidii utafanikiwa, ungalinijulisha jana ningalikusaidia, na tusiposhirikiana pamoja kama jamii hatutaweza kufikia malengo yetu. (Kuunganisha mada zote za Unit 21 (U21))",
-            "Ukifanya kazi ungalifanikiwa bila kufanya chochote. (Kuunganisha mada zote za Unit 21 (U21))",
-            "Watu wote walikaa bila kutumia mifumo yoyote ya masharti. (Kuunganisha mada zote za Unit 21 (U21))",
-            "Kiambishi cha sharti hakina tofauti kati ya wakati uliopo na uliopita. (Kuunganisha mada zote za Unit 21 (U21))"
+            "Ukifanya kazi kwa bidii utafanikiwa, ungalinijulisha jana ningalikusaidia, na tusiposhirikiana pamoja kama jamii hatutaweza kufikia malengo yetu. (Kuunganisha mada zote za Unit 21)",
+            "Ukifanya kazi ungalifanikiwa bila kufanya chochote. (Kuunganisha mada zote za Unit 21)",
+            "Watu wote walikaa bila kutumia mifumo yoyote ya masharti. (Kuunganisha mada zote za Unit 21)",
+            "Kiambishi cha sharti hakina tofauti kati ya wakati uliopo na uliopita. (Kuunganisha mada zote za Unit 21)"
           ],
           "answerIndex": 0,
           "explanation": "«Ukifanya kazi kwa bidii utafanikiwa, ungalinijulisha jana ningalikusaidia, na tusiposhirikiana pamoja kama jamii hatutaweza kufikia malengo yetu.» inajumuisha nyanja zote za mifumo ya masharti kwa ukamilifu."
@@ -9163,10 +9163,10 @@
         {
           "prompt": "Ukanushaji sahihi wa kitenzi cha Kiarabu «Ninashukuru» (I thank) katika wakati uliopo ni upi?",
           "options": [
-            "Sishukuru (Kuelewa asili (U22))",
-            "Sishukuri (Kuelewa asili (U22))",
-            "Sinashukuru (Kuelewa asili (U22))",
-            "Sikushukuru (Kuelewa asili (U22))"
+            "Sishukuru (Kuelewa asili)",
+            "Sishukuri (Kuelewa asili)",
+            "Sinashukuru (Kuelewa asili)",
+            "Sikushukuru (Kuelewa asili)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya Kiarabu vinavyoishia na «-u» hubakiza vokali yao katika ukanushaji wa sasa: «Ninashukuru» -> «Sishukuru»."
@@ -9178,10 +9178,10 @@
         {
           "prompt": "Sentensi ipi inakanusha kitenzi «samehe» (forgive) kwa usahihi wa kanuni za Kiswahili?",
           "options": [
-            "Mkurugenzi hasamehe ubadhirifu wowote wa mali ya umma. (Kuelewa asili (U22))",
-            "Mkurugenzi hasamehi ubadhirifu wowote (Kuelewa asili (U22))",
-            "Mkurugenzi hasameha ubadhirifu wowote (Kuelewa asili (U22))",
-            "Mkurugenzi hakusamehe mali ya umma jana (Kuelewa asili (U22))"
+            "Mkurugenzi hasamehe ubadhirifu wowote wa mali ya umma. (Kuelewa asili)",
+            "Mkurugenzi hasamehi ubadhirifu wowote (Kuelewa asili)",
+            "Mkurugenzi hasameha ubadhirifu wowote (Kuelewa asili)",
+            "Mkurugenzi hakusamehe mali ya umma jana (Kuelewa asili)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «samehe» hubakiza «-e» katika ukanushaji wa wakati uliopo («hasamehe»)."
@@ -9194,10 +9194,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya ukanushaji wa sasa wa vitenzi vya asili ya Kiarabu:",
           "options": [
-            "ninafikiri -> sifikiri, anasafiri -> hasafiri, tunasamehe -> hatusamehe, unajaribu -> hujaribu, wanashukuru -> hawashukuru. (Kuelewa asili (U22))",
-            "ninafikiri -> sifikira, anasafiri -> hasafira, tunasamehe -> hatusamehi, wanashukuru -> hawashukuri. (Kuelewa asili (U22))",
-            "Vitenzi vyote vya Kiswahili bila ubaguzi lazima vimalizike na herufi '-i' wakati wa kukanusha. (Kuelewa asili (U22))",
-            "ninafikiri -> sikufikiri, anasafiri -> hakusafiri, tunasamehe -> hatukusamehe. (Kuelewa asili (U22))"
+            "ninafikiri -> sifikiri, anasafiri -> hasafiri, tunasamehe -> hatusamehe, unajaribu -> hujaribu, wanashukuru -> hawashukuru. (Kuelewa asili)",
+            "ninafikiri -> sifikira, anasafiri -> hasafira, tunasamehe -> hatusamehi, wanashukuru -> hawashukuri. (Kuelewa asili)",
+            "Vitenzi vyote vya Kiswahili bila ubaguzi lazima vimalizike na herufi '-i' wakati wa kukanusha. (Kuelewa asili)",
+            "ninafikiri -> sikufikiri, anasafiri -> hakusafiri, tunasamehe -> hatukusamehe. (Kuelewa asili)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya kigeni vinavyoishia na -e, -i, -u hubakiza vokali zao: sifikiri, hasafiri, hatusamehe, hujaribu, hawashukuru."
@@ -9245,10 +9245,10 @@
         {
           "prompt": "Kauli ya kutendwa (passive) sahihi ya kitenzi cha Kiarabu «jibu» (answer) ni ipi?",
           "options": [
-            "jibiwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "jibuwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "jibwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "jibisha (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))"
+            "jibiwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "jibuwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "jibwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "jibisha (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «jibu» kinapobadilishwa kuwa kauli ya kutendwa hubadilika kuwa «jibiwa» (*Swali lilijibiwa*)."
@@ -9260,10 +9260,10 @@
         {
           "prompt": "Kitenzi «samehe» (forgive) kinaponyambulishwa kuwa kauli ya kutendwa kinachukua umbo lipi?",
           "options": [
-            "samehewa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "samehiwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "samehwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "sameheana (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))"
+            "samehewa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "samehiwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "samehwa (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "sameheana (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vinavyoishia na «-e» kama «samehe» huchukua «-ewa» na kuwa «samehewa»."
@@ -9276,10 +9276,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya asili ya Kiarabu katika kauli ya kutendwa:",
           "options": [
-            "jibiwa, shukuriwa, fikiriwa, jaribiwa, laumiwa, hukumiwa, samehewa. (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "jibuwa, shukuruwa, fikiriwa, jaribuwa, laumuwa, samehiwa. (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "jibwa, shukurwa, fikirwa, jaribwa, laumwa, samehwa. (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))",
-            "Vitenzi vya Kiarabu havina kauli ya kutendwa katika sarufi ya Kiswahili. (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations (U22))"
+            "jibiwa, shukuriwa, fikiriwa, jaribiwa, laumiwa, hukumiwa, samehewa. (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "jibuwa, shukuruwa, fikiriwa, jaribuwa, laumuwa, samehiwa. (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "jibwa, shukurwa, fikirwa, jaribwa, laumwa, samehwa. (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)",
+            "Vitenzi vya Kiarabu havina kauli ya kutendwa katika sarufi ya Kiswahili. (Kuelewa na kutumia kauli ya kutendwa kwa vitenzi vya asili ya Kiarabu vinavyoingiza viambishi maalum vya iwa na ewa Passive Loanword Derivations)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya Kiarabu hubadilika kuwa: jibiwa, shukuriwa, fikiriwa, jaribiwa, laumiwa, hukumiwa, samehewa."
@@ -9327,10 +9327,10 @@
         {
           "prompt": "Mnyambuliko sahihi wa kauli ya kutendea (applicative) wa kitenzi cha Kiarabu «haribu» (spoil/ruin) ni upi?",
           "options": [
-            "haribia (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "haribisha (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "haribika (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "haribiwa (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))"
+            "haribia (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "haribisha (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "haribika (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "haribiwa (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «haribu» kinapobadilishwa kuwa kauli ya kutendea huwa «haribia» (*Usimharibie mipango yake*)."
@@ -9342,10 +9342,10 @@
         {
           "prompt": "Katika sentensi «Ninakufikiria kila wakati», neno «kufikiria» limetokana na kitenzi kipi na katika kauli gani?",
           "options": [
-            "Kitenzi cha Kiarabu «fikiri» katika Kauli ya Kutendea (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "Kitenzi «fikiri» katika Kauli ya Kutendeka (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "Kitenzi «fikiri» katika Kauli ya Kutendesha (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "Kitenzi «fikiri» katika Kauli ya Kutendwa (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))"
+            "Kitenzi cha Kiarabu «fikiri» katika Kauli ya Kutendea (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "Kitenzi «fikiri» katika Kauli ya Kutendeka (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "Kitenzi «fikiri» katika Kauli ya Kutendesha (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "Kitenzi «fikiri» katika Kauli ya Kutendwa (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)"
           ],
           "answerIndex": 0,
           "explanation": "«kufikiria» limetokana na «fikiri» likiongezwa kiambishi cha kutendea «-ia» (think about)."
@@ -9358,10 +9358,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya asili ya Kiarabu katika kauli ya kutendea:",
           "options": [
-            "jibia, subiria, rudia, fikiria, samehea, shukuria, haribia, badilia. (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "jibie, subirie, rudie, fikirie, samehia, shukurie. (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "jibisha, subirisha, rudisha, fikirisha, samehesha. (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))",
-            "Vitenzi vya asili ya Kiarabu haviwezi kunyambulishwa katika kauli ya kutendea. (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu (U22))"
+            "jibia, subiria, rudia, fikiria, samehea, shukuria, haribia, badilia. (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "jibie, subirie, rudie, fikirie, samehia, shukurie. (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "jibisha, subirisha, rudisha, fikirisha, samehesha. (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)",
+            "Vitenzi vya asili ya Kiarabu haviwezi kunyambulishwa katika kauli ya kutendea. (Kuelewa na kutumia kauli ya kutendea kwa vitenzi vya asili ya Kiarabu ia  ea kueleza matendo yanayofanyika kwa ajili ya mtu)"
           ],
           "answerIndex": 0,
           "explanation": "Vitenzi vya Kiarabu katika kauli ya kutendea huwa: jibia, subiria, rudia, fikiria, samehea, shukuria, haribia, badilia."
@@ -9409,10 +9409,10 @@
         {
           "prompt": "Mnyambuliko wa kauli ya kutendesha (causative) wa kitenzi «safiri» (travel) unaomaanisha kusafirisha mizigo au abiria ni upi?",
           "options": [
-            "safirisha (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "safirika (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "safiria (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "safiriwa (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))"
+            "safirisha (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "safirika (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "safiria (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "safiriwa (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)"
           ],
           "answerIndex": 0,
           "explanation": "Kitenzi «safiri» huchukua «-isha» kuwa «safirisha» (transport / cause to travel)."
@@ -9424,10 +9424,10 @@
         {
           "prompt": "Sentensi ipi inatumia kauli ya kutendeka (stative) ya kitenzi cha Kiarabu «badili» (change) kwa ufasaha?",
           "options": [
-            "Mwelekeo wa upepo umebadilika ghafla kuelekea kusini. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "Mwelekeo wa upepo umebadilisha ghafla (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "Mwelekeo wa upepo umebadiliwa ghafla na watu (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "Mwelekeo wa upepo unabadilishana (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))"
+            "Mwelekeo wa upepo umebadilika ghafla kuelekea kusini. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "Mwelekeo wa upepo umebadilisha ghafla (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "Mwelekeo wa upepo umebadiliwa ghafla na watu (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "Mwelekeo wa upepo unabadilishana (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)"
           ],
           "answerIndex": 0,
           "explanation": "«umebadilika» ni kauli ya kutendeka (stative) inayoonyesha hali ya matokeo ya kubadilika bila kutaja mtendaji."
@@ -9440,10 +9440,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya vitenzi vya Kiarabu katika kauli ya kutendesha na kutendeka:",
           "options": [
-            "Kutendesha: safirisha, rudisha, badilisha, hakikisha, starehesha. Kutendeka: badilika, kabilika, jaribika, sameheka. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "Kutendesha: safirika, rudika, badilika. Kutendeka: safirisha, rudisha, badilisha. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "Vitenzi vya Kiarabu havina kauli ya kutendesha wala kutendeka. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))",
-            "Kutendesha: safiriwa, rudiwa, badiliwa. Kutendeka: safiriana, rudiana. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni (U22))"
+            "Kutendesha: safirisha, rudisha, badilisha, hakikisha, starehesha. Kutendeka: badilika, kabilika, jaribika, sameheka. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "Kutendesha: safirika, rudika, badilika. Kutendeka: safirisha, rudisha, badilisha. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "Vitenzi vya Kiarabu havina kauli ya kutendesha wala kutendeka. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)",
+            "Kutendesha: safiriwa, rudiwa, badiliwa. Kutendeka: safiriana, rudiana. (Kuelewa na kutumia kauli ya kutendesha isha  esha  za na kauli ya kutendeka ika  eka kwa vitenzi vya asili ya Kiarabu na kigeni)"
           ],
           "answerIndex": 0,
           "explanation": "Kutendesha: safirisha, rudisha, badilisha, hakikisha. Kutendeka: badilika, kabilika, jaribika, sameheka."
@@ -9491,10 +9491,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha mnyambuliko wa vitenzi vya Kiarabu katika kauli ya kutendana na kutendwa kwa ufasaha?",
           "options": [
-            "Wananchi wamejadiliana kwa amani na mapendekezo yao yote yamekubaliwa na kuridhiwa na serikali. (Kuunganisha mada zote za Unit 22 (U22))",
-            "Wananchi waliongea bila kujadili chochote wala kukubali. (Kuunganisha mada zote za Unit 22 (U22))",
-            "Serikali haikujibu jambo lolote. (Kuunganisha mada zote za Unit 22 (U22))",
-            "Vitenzi vya Kiarabu haviwezi kutumika katika sentensi moja na vitenzi vya Kibantu. (Kuunganisha mada zote za Unit 22 (U22))"
+            "Wananchi wamejadiliana kwa amani na mapendekezo yao yote yamekubaliwa na kuridhiwa na serikali. (Kuunganisha mada zote za Unit 22)",
+            "Wananchi waliongea bila kujadili chochote wala kukubali. (Kuunganisha mada zote za Unit 22)",
+            "Serikali haikujibu jambo lolote. (Kuunganisha mada zote za Unit 22)",
+            "Vitenzi vya Kiarabu haviwezi kutumika katika sentensi moja na vitenzi vya Kibantu. (Kuunganisha mada zote za Unit 22)"
           ],
           "answerIndex": 0,
           "explanation": "«wamejadiliana» (kutendana: jadili -> jadiliana) na «yamekubaliwa/kuridhiwa» (kutendwa: kubali -> kubaliwa, ridhia -> ridhiwa) vinathibitisha kanuni zote mbili."
@@ -9506,10 +9506,10 @@
         {
           "prompt": "Kitenzi «rudi» (return) kinaponyambulishwa kuwa «rudishia» katika sentensi «Alimrudishia kitabu chake», kina mseto wa kauli zipi?",
           "options": [
-            "Kauli ya Kutendesha na Kauli ya Kutendea (Kuunganisha mada zote za Unit 22 (U22))",
-            "Kauli ya Kutenda na Kutendwa (Kuunganisha mada zote za Unit 22 (U22))",
-            "Kauli ya Kutendeka pekee (Kuunganisha mada zote za Unit 22 (U22))",
-            "Kauli ya Kutendana ya kawaida (Kuunganisha mada zote za Unit 22 (U22))"
+            "Kauli ya Kutendesha na Kauli ya Kutendea (Kuunganisha mada zote za Unit 22)",
+            "Kauli ya Kutenda na Kutendwa (Kuunganisha mada zote za Unit 22)",
+            "Kauli ya Kutendeka pekee (Kuunganisha mada zote za Unit 22)",
+            "Kauli ya Kutendana ya kawaida (Kuunganisha mada zote za Unit 22)"
           ],
           "answerIndex": 0,
           "explanation": "«rudishia» inatokana na: rudi -> rudisha (kutendesha: cause to return) -> rudishia (kutendea: return to/for someone)."
@@ -9522,10 +9522,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 22 ya Vitenzi vya Asili ya Kiarabu na Kigeni:",
           "options": [
-            "Sifikiri kwamba mshtakiwa ataadhibiwa bila ushahidi, maswali yote yamejibiwa kwa heshima, na wahusika wamejadiliana na kusameheana kwa amani. (Kuunganisha mada zote za Unit 22 (U22))",
-            "Vitenzi vyote vya kigeni vimefutwa katika sarufi ya Kiswahili. (Kuunganisha mada zote za Unit 22 (U22))",
-            "Watu hawakutumia maneno ya Kiarabu katika mawasiliano ya kila siku. (Kuunganisha mada zote za Unit 22 (U22))",
-            "Ukanushaji wa vitenzi vyote vya Kiarabu hubadilika kuwa '-i' mwishoni. (Kuunganisha mada zote za Unit 22 (U22))"
+            "Sifikiri kwamba mshtakiwa ataadhibiwa bila ushahidi, maswali yote yamejibiwa kwa heshima, na wahusika wamejadiliana na kusameheana kwa amani. (Kuunganisha mada zote za Unit 22)",
+            "Vitenzi vyote vya kigeni vimefutwa katika sarufi ya Kiswahili. (Kuunganisha mada zote za Unit 22)",
+            "Watu hawakutumia maneno ya Kiarabu katika mawasiliano ya kila siku. (Kuunganisha mada zote za Unit 22)",
+            "Ukanushaji wa vitenzi vyote vya Kiarabu hubadilika kuwa '-i' mwishoni. (Kuunganisha mada zote za Unit 22)"
           ],
           "answerIndex": 0,
           "explanation": "«Sifikiri kwamba mshtakiwa ataadhibiwa bila ushahidi, maswali yote yamejibiwa kwa heshima, na wahusika wamejadiliana na kusameheana kwa amani.» inajumuisha ukanushaji, kutendwa, kutendea, na kutendana kwa vitenzi vya Kiarabu kwa ukamilifu."
@@ -9574,9 +9574,9 @@
           "prompt": "Methali ya Kiswahili «Asiyesikia la mkuu huvunjika guu» inatumia miundo ipi ya kisarufi?",
           "options": [
             "Muundo wa O-Rejeshi hasi (Asiyesikia)",
-            "Muundo wa wakati ujao na wakati uliopita (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))",
-            "Muundo wa amri ya moja kwa moja (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))",
-            "Muundo wa swali na jibu (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))"
+            "Muundo wa wakati ujao na wakati uliopita (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)",
+            "Muundo wa amri ya moja kwa moja (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)",
+            "Muundo wa swali na jibu (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)"
           ],
           "answerIndex": 0,
           "explanation": "«Asiyesikia» inajumuisha O-Rejeshi hasi ya nafsi ya tatu na «huvunjika» inatumia kiambishi cha kauli ya mazoea «hu-»."
@@ -9588,10 +9588,10 @@
         {
           "prompt": "Ni methali ipi inayoonyesha umuhimu wa ushirikiano na umoja katika jamii ya Waswahili?",
           "options": [
-            "Kidole kimoja hakivunji chawa / Umoja ni nguvu utengano ni udhaifu (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))",
-            "Mpanda ngazi hushuka (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))",
-            "Mvumilivu hula mbivu (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))",
-            "Asiyekujua hakuthamini (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))"
+            "Kidole kimoja hakivunji chawa / Umoja ni nguvu utengano ni udhaifu (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)",
+            "Mpanda ngazi hushuka (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)",
+            "Mvumilivu hula mbivu (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)",
+            "Asiyekujua hakuthamini (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)"
           ],
           "answerIndex": 0,
           "explanation": "«Kidole kimoja hakivunji chawa» na «Umoja ni nguvu» zote zinafundisha mshikamano na nguvu ya ushirikiano."
@@ -9604,10 +9604,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha ya methali sahihi za Kiswahili zinazowakilisha hekima ya jadi:",
           "options": [
-            "Mvumilivu hula mbivu, Kidole kimoja hakivunji chawa, Mtaka cha mvunguni sharti ainame, Asiyekujua hakuthamini, Ukiona vyaelea vimeundwa. (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))",
-            "Mvumilivu hula mbichi, Kidole kimoja kinavunja nyumba, Mtaka cha juu asisimame. (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))",
-            "Methali zote za Kiswahili zilikopwa kutoka lugha za Kizungu bila kubadilishwa. (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))",
-            "Haraka haraka ina baraka tele, Mchimba shimo huingia mwingine. (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba (U23))"
+            "Mvumilivu hula mbivu, Kidole kimoja hakivunji chawa, Mtaka cha mvunguni sharti ainame, Asiyekujua hakuthamini, Ukiona vyaelea vimeundwa. (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)",
+            "Mvumilivu hula mbichi, Kidole kimoja kinavunja nyumba, Mtaka cha juu asisimame. (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)",
+            "Methali zote za Kiswahili zilikopwa kutoka lugha za Kizungu bila kubadilishwa. (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)",
+            "Haraka haraka ina baraka tele, Mchimba shimo huingia mwingine. (Kuelewa miundo ya kisarufi na kisintaksia inayounda methali za Kiswahili ikiwa ni pamoja na usambamba)"
           ],
           "answerIndex": 0,
           "explanation": "Methali sanifu: Mvumilivu hula mbivu, Kidole kimoja hakivunji chawa, Mtaka cha mvunguni sharti ainame, Asiyekujua hakuthamini, Ukiona vyaelea vimeundwa."
@@ -9655,10 +9655,10 @@
         {
           "prompt": "Nahau ya Kiswahili «Kupiga moyo konde» ina maana gani katika muktadha wa kawaida?",
           "options": [
-            "Kujipa ujasiri, uvumilivu na moyo mkuu wakati wa magumu (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))",
-            "Kumpiga mtu ngumi kifuani (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))",
-            "Kukata tamaa na kuacha kazi (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))",
-            "Kufanya mazoezi ya riadha (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))"
+            "Kujipa ujasiri, uvumilivu na moyo mkuu wakati wa magumu (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)",
+            "Kumpiga mtu ngumi kifuani (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)",
+            "Kukata tamaa na kuacha kazi (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)",
+            "Kufanya mazoezi ya riadha (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)"
           ],
           "answerIndex": 0,
           "explanation": "«Kupiga moyo konde» ni nahau inayomaanisha kujipa ujasiri na kukabiliana na changamoto bila kukata tamaa."
@@ -9670,10 +9670,10 @@
         {
           "prompt": "Nahau ipi inamaanisha 'kupanga mipango ya siri au hila' dhidi ya jambo fulani?",
           "options": [
-            "Kula njama (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))",
-            "Kaza kamba (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))",
-            "Piga mbizi (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))",
-            "Shika hatamu (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))"
+            "Kula njama (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)",
+            "Kaza kamba (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)",
+            "Piga mbizi (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)",
+            "Shika hatamu (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)"
           ],
           "answerIndex": 0,
           "explanation": "«Kula njama» inamaanisha kupanga hila au hila za siri kwa ushirikiano."
@@ -9688,7 +9688,7 @@
           "options": [
             "Piga moyo konde (jipatie ujasiri)",
             "Piga moyo konde (kula chakula kingi)",
-            "Nahau zote za Kiswahili zina maana moja kwa moja bila sitiari yoyote. (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha (U23))",
+            "Nahau zote za Kiswahili zina maana moja kwa moja bila sitiari yoyote. (Kuelewa na kutumia nahau na misemo ya kimajazi ya Kiswahili Swahili Idioms  Metaphors inayochanganya vitenzi na nomino kuwasilisha maana za ndani na staha)",
             "Laza damu (fanya upasuaji wa damu)"
           ],
           "answerIndex": 0,
@@ -9737,10 +9737,10 @@
         {
           "prompt": "Wakati mtambaji anapotamka «Kitendawili!», mwitikio sahihi wa kitamaduni wa hadhira katika lugha ya Kiswahili ni upi?",
           "options": [
-            "Tega! (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))",
-            "Jibu! (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))",
-            "Sema! (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))",
-            "Fungua! (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))"
+            "Tega! (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)",
+            "Jibu! (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)",
+            "Sema! (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)",
+            "Fungua! (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)"
           ],
           "answerIndex": 0,
           "explanation": "Mwitikio wa pekee na sahihi wa kitamaduni kwa neno «Kitendawili!» ni «Tega!»."
@@ -9752,10 +9752,10 @@
         {
           "prompt": "Jibu sahihi la kitendawili maarufu cha Kiswahili «Nyumba yangu haina mlango wala dirisha» ni nini?",
           "options": [
-            "Yai (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))",
-            "Nanasi (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))",
-            "Macho (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))",
-            "Giza (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))"
+            "Yai (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)",
+            "Nanasi (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)",
+            "Macho (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)",
+            "Giza (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)"
           ],
           "answerIndex": 0,
           "explanation": "Yai linajengwa na ganda lililofungwa pande zote bila uwazi wa mlango wala dirisha."
@@ -9770,8 +9770,8 @@
           "options": [
             "Nyumba yangu haina mlango wala dirisha (Yai)",
             "Nyumba yangu haina mlango (Gari)",
-            "Vitendawili vya Kiswahili havina majibu maalum na kila mtu anajitungia jibu lake papo hapo. (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))",
-            "Kitendawili hutolewa asubuhi kabla ya jua kuchomoza pekee. (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas (U23))"
+            "Vitendawili vya Kiswahili havina majibu maalum na kila mtu anajitungia jibu lake papo hapo. (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)",
+            "Kitendawili hutolewa asubuhi kabla ya jua kuchomoza pekee. (Kuelewa kanuni za kiutendaji za vitendawili Swahili Riddles  Enigmas)"
           ],
           "answerIndex": 0,
           "explanation": "Majibu sahihi: Nyumba haina mlango (Yai), Kuku hutagia miibani (Nanasi), Popoo zavuka mto (Macho), Huku ng'o na kule ng'o (Giza)."
@@ -9819,10 +9819,10 @@
         {
           "prompt": "Katika ushairi wa kimapokeo wa Kiswahili, mstari mmoja ndani ya ubeti unaitwaje?",
           "options": [
-            "Mshororo (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))",
-            "Mizani (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))",
-            "Kina (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))",
-            "Kituo (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))"
+            "Mshororo (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)",
+            "Mizani (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)",
+            "Kina (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)",
+            "Kituo (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)"
           ],
           "answerIndex": 0,
           "explanation": "Mstari mmoja wa ubeti unaitwa «mshororo». Mshororo hugawanyika katika ukwapi na utao."
@@ -9834,10 +9834,10 @@
         {
           "prompt": "Shairi la kimapokeo lenye mishororo minne katika kila ubeti linaitwa kwa jina gani la kibahari?",
           "options": [
-            "Tarbia (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))",
-            "Tathnitha (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))",
-            "Tathlitha (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))",
-            "Takhmisa (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))"
+            "Tarbia (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)",
+            "Tathnitha (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)",
+            "Tathlitha (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)",
+            "Takhmisa (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)"
           ],
           "answerIndex": 0,
           "explanation": "Shairi lenye mishororo minne kwa kila ubeti huitwa «Tarbia»."
@@ -9852,8 +9852,8 @@
           "options": [
             "Ubeti (kifungu cha shairi)",
             "Ubeti (sentensi ya kawaida)",
-            "Ushairi wa Kiswahili hauna kanuni zozote za vina wala mizani. (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))",
-            "Mashairi yote ya Kiswahili yanapaswa kuandikwa bila kutumia maneno ya Kibantu. (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti (U23))"
+            "Ushairi wa Kiswahili hauna kanuni zozote za vina wala mizani. (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)",
+            "Mashairi yote ya Kiswahili yanapaswa kuandikwa bila kutumia maneno ya Kibantu. (Kuelewa kanuni za kisarufi na kiarudhi za ushairi wa jadi wa Kiswahili ikiwa ni pamoja na ubeti)"
           ],
           "answerIndex": 0,
           "explanation": "Istilahi rasmi za kiarudhi: Ubeti, Mshororo, Mizani, Vina (vya kati na vya mwisho), na Kituo."
@@ -9901,10 +9901,10 @@
         {
           "prompt": "Ni fani ipi ya fasihi simulizi inayotumia muundo wa mwito «Kitendawili!» na mwitikio «Tega!»?",
           "options": [
-            "Vitendawili (Kuunganisha mada zote za Unit 23 (U23))",
-            "Methali (Kuunganisha mada zote za Unit 23 (U23))",
-            "Nahau (Kuunganisha mada zote za Unit 23 (U23))",
-            "Mashairi ya kimapokeo (Kuunganisha mada zote za Unit 23 (U23))"
+            "Vitendawili (Kuunganisha mada zote za Unit 23)",
+            "Methali (Kuunganisha mada zote za Unit 23)",
+            "Nahau (Kuunganisha mada zote za Unit 23)",
+            "Mashairi ya kimapokeo (Kuunganisha mada zote za Unit 23)"
           ],
           "answerIndex": 0,
           "explanation": "Vitendawili hutumia muundo rasmi wa mwito «Kitendawili!» na mwitikio wa hadhira «Tega!»."
@@ -9916,10 +9916,10 @@
         {
           "prompt": "Sentensi ipi inachanganya methali na nahau kwa ufasaha wa kimuktadha?",
           "options": [
-            "Wakulima walipiga moyo konde na kukaza kamba kwa kuwa wanajua fika kwamba 'Mvumilivu hula mbivu'. (Kuunganisha mada zote za Unit 23 (U23))",
-            "Wakulima walipiga ngoma na kula chakula bila kufanya kazi yoyote. (Kuunganisha mada zote za Unit 23 (U23))",
-            "Fasihi simulizi haina uhusiano na maisha ya kila siku. (Kuunganisha mada zote za Unit 23 (U23))",
-            "Methali zote za Kiswahili hazina maana katika karne ya sasa. (Kuunganisha mada zote za Unit 23 (U23))"
+            "Wakulima walipiga moyo konde na kukaza kamba kwa kuwa wanajua fika kwamba 'Mvumilivu hula mbivu'. (Kuunganisha mada zote za Unit 23)",
+            "Wakulima walipiga ngoma na kula chakula bila kufanya kazi yoyote. (Kuunganisha mada zote za Unit 23)",
+            "Fasihi simulizi haina uhusiano na maisha ya kila siku. (Kuunganisha mada zote za Unit 23)",
+            "Methali zote za Kiswahili hazina maana katika karne ya sasa. (Kuunganisha mada zote za Unit 23)"
           ],
           "answerIndex": 0,
           "explanation": "«walipiga moyo konde» (nahau), «kukaza kamba» (nahau), na «Mvumilivu hula mbivu» (methali) zimetumika kwa upatanisho sahihi wa maana na sintaksia."
@@ -9932,10 +9932,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 23 ya Methali, Nahau, Vitendawili na Ushairi wa Kiswahili:",
           "options": [
-            "Kupitia hekima za methali kama 'Umoja ni nguvu', mafumbo ya vitendawili, na mizani ya ushairi, jamii inafungua ukurasa mpya wa mshikamano huku kila mmoja akipiga moyo konde kufikia mafanikio. (Kuunganisha mada zote za Unit 23 (U23))",
-            "Fasihi ya Kiswahili ilifutwa kabisa na haitumiki tena. (Kuunganisha mada zote za Unit 23 (U23))",
-            "Watu hawajawahi kutumia mashairi wala vitendawili katika lugha ya Kiswahili. (Kuunganisha mada zote za Unit 23 (U23))",
-            "Methali na nahau ni maneno ya kigeni yasiyo na maana katika Kiswahili sanifu. (Kuunganisha mada zote za Unit 23 (U23))"
+            "Kupitia hekima za methali kama 'Umoja ni nguvu', mafumbo ya vitendawili, na mizani ya ushairi, jamii inafungua ukurasa mpya wa mshikamano huku kila mmoja akipiga moyo konde kufikia mafanikio. (Kuunganisha mada zote za Unit 23)",
+            "Fasihi ya Kiswahili ilifutwa kabisa na haitumiki tena. (Kuunganisha mada zote za Unit 23)",
+            "Watu hawajawahi kutumia mashairi wala vitendawili katika lugha ya Kiswahili. (Kuunganisha mada zote za Unit 23)",
+            "Methali na nahau ni maneno ya kigeni yasiyo na maana katika Kiswahili sanifu. (Kuunganisha mada zote za Unit 23)"
           ],
           "answerIndex": 0,
           "explanation": "«Kupitia hekima za methali kama 'Umoja ni nguvu', mafumbo ya vitendawili, na mizani ya ushairi, jamii inafungua ukurasa mpya wa mshikamano huku kila mmoja akipiga moyo konde kufikia mafanikio.» inajumuisha nyanja zote za fasihi simulizi kwa ukamilifu wa kisarufi na kifasihi."
@@ -9983,10 +9983,10 @@
         {
           "prompt": "Katika nyumba za asili za Waswahili, neno «baraza» linamaanisha nini kisanifu?",
           "options": [
-            "Benchi la mawe lililojengwa nje kando ya ukuta wa nyumba kwa ajili ya mazungumzo na mapumziko (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))",
-            "Mlango mkuu wa chuma (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))",
-            "Chumba cha kulala cha orofa ya juu (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))",
-            "Baa ya vinywaji vikali (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))"
+            "Benchi la mawe lililojengwa nje kando ya ukuta wa nyumba kwa ajili ya mazungumzo na mapumziko (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)",
+            "Mlango mkuu wa chuma (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)",
+            "Chumba cha kulala cha orofa ya juu (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)",
+            "Baa ya vinywaji vikali (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Baraza» ni benchi la mawe la nje ambapo watu huketi kusalimiana, kupumzika na kubadilishana mawazo."
@@ -9999,9 +9999,9 @@
           "prompt": "Majumba ya kale ya Mji Mkongwe wa Zanzibar na Lamu yalijengwa kwa kutumia nyenzo zipi kuu za asili?",
           "options": [
             "Mawe ya matumbawe (coral stone)",
-            "Mabati ya kisasa na saruji ya kiwandani (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))",
-            "Plastiki na chuma cha pua (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))",
-            "Mbao za miti ya Ulaya pekee (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))"
+            "Mabati ya kisasa na saruji ya kiwandani (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)",
+            "Plastiki na chuma cha pua (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)",
+            "Mbao za miti ya Ulaya pekee (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Majumba ya Waswahili yalijengwa kwa mawe ya matumbawe (coral rag) yaliyounganishwa kwa chokaa ya asili."
@@ -10014,10 +10014,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya miji ya kihistoria na sifa za usanifu wa Waswahili:",
           "options": [
-            "Miji: Lamu, Mji Mkongwe wa Zanzibar, Kilwa Kisiwani, Mombasa. Usanifu: milango ya nakshi, mawe ya matumbawe, baraza, madirisha ya kimiani. (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))",
-            "Waswahili hawakuwahi kujenga nyumba za mawe kabla ya karne ya 21. (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))",
-            "Miji ya pwani ilijengwa kwa mahema ya ngozi pekee. (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))",
-            "Lamu na Zanzibar zilianzishwa na watalii wa kisasa. (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili (U24))"
+            "Miji: Lamu, Mji Mkongwe wa Zanzibar, Kilwa Kisiwani, Mombasa. Usanifu: milango ya nakshi, mawe ya matumbawe, baraza, madirisha ya kimiani. (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)",
+            "Waswahili hawakuwahi kujenga nyumba za mawe kabla ya karne ya 21. (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)",
+            "Miji ya pwani ilijengwa kwa mahema ya ngozi pekee. (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)",
+            "Lamu na Zanzibar zilianzishwa na watalii wa kisasa. (Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Miji ya kihistoria ya Waswahili inajumuisha Lamu, Zanzibar, Kilwa Kisiwani, Mombasa yenye milango ya nakshi na kuta za matumbawe."
@@ -10065,10 +10065,10 @@
         {
           "prompt": "Chombo gani cha asili cha uvuvi wa Waswahili chenye vizuizi vya mbao (mirefeji) pande zote mbili ili kuzuia kupinduka mawimbini?",
           "options": [
-            "Ngalawa (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Meli kubwa ya mafuta (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Nyambizi (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Gari moshi (Kuelewa msamiati wa usafiri wa baharini (U24))"
+            "Ngalawa (Kuelewa msamiati wa usafiri wa baharini)",
+            "Meli kubwa ya mafuta (Kuelewa msamiati wa usafiri wa baharini)",
+            "Nyambizi (Kuelewa msamiati wa usafiri wa baharini)",
+            "Gari moshi (Kuelewa msamiati wa usafiri wa baharini)"
           ],
           "answerIndex": 0,
           "explanation": "«Ngalawa» ni mtumbwi wa jadi wenye mirefeji (outriggers) kando kando ili kuupa uimara dhidi ya mawimbi."
@@ -10080,10 +10080,10 @@
         {
           "prompt": "Upepo unaovuma kutoka kusini kuelekea kaskazini kuanzia Aprili hadi Oktoba unaitwaje katika istilahi za kibaharia za Kiswahili?",
           "options": [
-            "Upepo wa Kusi (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Upepo wa Kaskazi (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Kimbunga cha theluji (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Upepo wa jangwani (Kuelewa msamiati wa usafiri wa baharini (U24))"
+            "Upepo wa Kusi (Kuelewa msamiati wa usafiri wa baharini)",
+            "Upepo wa Kaskazi (Kuelewa msamiati wa usafiri wa baharini)",
+            "Kimbunga cha theluji (Kuelewa msamiati wa usafiri wa baharini)",
+            "Upepo wa jangwani (Kuelewa msamiati wa usafiri wa baharini)"
           ],
           "answerIndex": 0,
           "explanation": "«Upepo wa Kusi» huvuma kuelekea kaskazini kati ya Aprili na Oktoba."
@@ -10096,10 +10096,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya maneno ya kibaharia na vyombo vya majini katika pwani ya Kiswahili:",
           "options": [
-            "Jahazi, ngalawa, mashua, nahodha, tanga, ng'oa nanga, upepo wa kaskazi, upepo wa kusi. (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Jahazi, ndege, helikopta, pikipiki, mlingoti wa treni. (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Waswahili hawakuwahi kutumia bahari kwa usafiri wala uvuvi. (Kuelewa msamiati wa usafiri wa baharini (U24))",
-            "Ngalawa hutembea nchi kavu bila kuingia majini. (Kuelewa msamiati wa usafiri wa baharini (U24))"
+            "Jahazi, ngalawa, mashua, nahodha, tanga, ng'oa nanga, upepo wa kaskazi, upepo wa kusi. (Kuelewa msamiati wa usafiri wa baharini)",
+            "Jahazi, ndege, helikopta, pikipiki, mlingoti wa treni. (Kuelewa msamiati wa usafiri wa baharini)",
+            "Waswahili hawakuwahi kutumia bahari kwa usafiri wala uvuvi. (Kuelewa msamiati wa usafiri wa baharini)",
+            "Ngalawa hutembea nchi kavu bila kuingia majini. (Kuelewa msamiati wa usafiri wa baharini)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa kibaharia: Jahazi, ngalawa, mashua, nahodha, tanga, ng'oa nanga, upepo wa kaskazi, upepo wa kusi."
@@ -10147,10 +10147,10 @@
         {
           "prompt": "Kipande cha kitambaa cha pamba kinachovaliwa na wanawake wa Kiswahili chenye maandishi ya methali au ujumbe wa hekima chini kinaitwaje?",
           "options": [
-            "Kanga (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))",
-            "Sweta ya sufu (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))",
-            "Koti la mvua (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))",
-            "Glavu za baridi (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))"
+            "Kanga (Kuelewa msamiati wa mavazi ya kitamaduni kanga)",
+            "Sweta ya sufu (Kuelewa msamiati wa mavazi ya kitamaduni kanga)",
+            "Koti la mvua (Kuelewa msamiati wa mavazi ya kitamaduni kanga)",
+            "Glavu za baridi (Kuelewa msamiati wa mavazi ya kitamaduni kanga)"
           ],
           "answerIndex": 0,
           "explanation": "«Kanga» (leso) ndicho vazi maarufu lenye maandishi ya methali au misemo chini."
@@ -10162,10 +10162,10 @@
         {
           "prompt": "Muziki wa asili ya pwani ya Waswahili unaotumia ala za udi, kanuni, na mashairi ya kimapokeo unaitwaje?",
           "options": [
-            "Taarab (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))",
-            "Muziki wa Rock (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))",
-            "Reggae (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))",
-            "Muziki wa Techno (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))"
+            "Taarab (Kuelewa msamiati wa mavazi ya kitamaduni kanga)",
+            "Muziki wa Rock (Kuelewa msamiati wa mavazi ya kitamaduni kanga)",
+            "Reggae (Kuelewa msamiati wa mavazi ya kitamaduni kanga)",
+            "Muziki wa Techno (Kuelewa msamiati wa mavazi ya kitamaduni kanga)"
           ],
           "answerIndex": 0,
           "explanation": "«Taarab» ni aina ya muziki wa kiasili wa pwani wenye ala za udi, kanuni, zeze na mashairi yenye vina na mizani."
@@ -10179,9 +10179,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya mavazi na sanaa za kitamaduni za jamii ya Waswahili:",
           "options": [
             "Mavazi: Kanga, Kitenge, Kanzu, Kofia ya kudarizi, Kikoi. Muziki: Taarab (udi, kanuni, ushairi wa sauti)",
-            "Mavazi ya Waswahili hayajumuishi kanga wala kanzu. (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))",
-            "Taarab ni mtindo wa kuogelea baharini pekee. (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))",
-            "Wanaume wa Kiswahili huvaa buibui na kofia ya chuma. (Kuelewa msamiati wa mavazi ya kitamaduni kanga (U24))"
+            "Mavazi ya Waswahili hayajumuishi kanga wala kanzu. (Kuelewa msamiati wa mavazi ya kitamaduni kanga)",
+            "Taarab ni mtindo wa kuogelea baharini pekee. (Kuelewa msamiati wa mavazi ya kitamaduni kanga)",
+            "Wanaume wa Kiswahili huvaa buibui na kofia ya chuma. (Kuelewa msamiati wa mavazi ya kitamaduni kanga)"
           ],
           "answerIndex": 0,
           "explanation": "Mavazi sahihi: Kanga, Kitenge, Kanzu, Kofia ya kudarizi, Kikoi. Muziki: Taarab."
@@ -10229,10 +10229,10 @@
         {
           "prompt": "Zao gani maarufu la kiungo lililofanya visiwa vya Zanzibar na Pemba viitwe 'Visiwa vya Viungo' duniani kote?",
           "options": [
-            "Karafuu (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Ngano ya kizungu (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Mpareto (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Shayiri (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))"
+            "Karafuu (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Ngano ya kizungu (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Mpareto (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Shayiri (Kuelewa msamiati wa upishi wa pwani ya Waswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Karafuu» (cloves) ndilo zao kuu la kihistoria la Zanzibar lililoleta umaarufu wa Visiwa vya Viungo."
@@ -10244,10 +10244,10 @@
         {
           "prompt": "Kioevu kizito cheupe kinachotolewa kwenye tunda la nazi baada ya kukunwa na kukamuliwa kwa maji kidogo kinaitwaje?",
           "options": [
-            "Tui la nazi (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Mafuta ya petroli (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Maji ya mto (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Juisi ya tufaha (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))"
+            "Tui la nazi (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Mafuta ya petroli (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Maji ya mto (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Juisi ya tufaha (Kuelewa msamiati wa upishi wa pwani ya Waswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Tui la nazi» ni kiungo kikuu katika mapishi ya mboga, wali, na mahamri ya Waswahili."
@@ -10260,10 +10260,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya vyakula vya asili na viungo vya upishi wa Waswahili:",
           "options": [
-            "Vyakula: Pilau, Biriani, Mahamri, Urojo, Halua. Viungo: Karafuu, Iliki, Mdalasini, Bizari, Pilipili manga. (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Vyakula vya Waswahili vinapikwa bila kutumia chumvi wala viungo vyovyote. (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Zanzibar inajulikana kwa uzalishaji wa barafu ya asili pekee. (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))",
-            "Tui la nazi hutolewa kwenye mizizi ya mti wa mchungwa. (Kuelewa msamiati wa upishi wa pwani ya Waswahili (U24))"
+            "Vyakula: Pilau, Biriani, Mahamri, Urojo, Halua. Viungo: Karafuu, Iliki, Mdalasini, Bizari, Pilipili manga. (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Vyakula vya Waswahili vinapikwa bila kutumia chumvi wala viungo vyovyote. (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Zanzibar inajulikana kwa uzalishaji wa barafu ya asili pekee. (Kuelewa msamiati wa upishi wa pwani ya Waswahili)",
+            "Tui la nazi hutolewa kwenye mizizi ya mti wa mchungwa. (Kuelewa msamiati wa upishi wa pwani ya Waswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Orodha sahihi ya mapishi na viungo: Pilau, Biriani, Mahamri, Urojo, Halua; Karafuu, Iliki, Mdalasini, Bizari."
@@ -10311,10 +10311,10 @@
         {
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za ustaarabu wa Waswahili wa pwani ya Afrika Mashariki?",
           "options": [
-            "Usanifu wa mawe ya matumbawe, usafiri wa majahazi, mavazi ya kanga/kanzu, muziki wa taarab, na mapishi ya tui la nazi na viungo (Kuunganisha mada zote za Unit 24 (U24))",
-            "Mahema ya barafu na uwindaji wa tembo pekee (Kuunganisha mada zote za Unit 24 (U24))",
-            "Magari ya kisasa ya kielektroniki bila lugha wala mila (Kuunganisha mada zote za Unit 24 (U24))",
-            "Muziki wa hip-hop wa Marekani na vyakula vya makopo (Kuunganisha mada zote za Unit 24 (U24))"
+            "Usanifu wa mawe ya matumbawe, usafiri wa majahazi, mavazi ya kanga/kanzu, muziki wa taarab, na mapishi ya tui la nazi na viungo (Kuunganisha mada zote za Unit 24)",
+            "Mahema ya barafu na uwindaji wa tembo pekee (Kuunganisha mada zote za Unit 24)",
+            "Magari ya kisasa ya kielektroniki bila lugha wala mila (Kuunganisha mada zote za Unit 24)",
+            "Muziki wa hip-hop wa Marekani na vyakula vya makopo (Kuunganisha mada zote za Unit 24)"
           ],
           "answerIndex": 0,
           "explanation": "Ustaarabu wa Waswahili unajengwa juu ya usanifu wa matumbawe, majahazi, kanga/kanzu, taarab, na mapishi ya nazi na viungo."
@@ -10326,10 +10326,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha msamiati wa usanifu wa Kiswahili na mapishi ya pwani kwa ufasaha?",
           "options": [
-            "Wageni walikaribishwa barazani mwa nyumba ya matumbawe na kutengewa sinia kubwa ya biriani ya kuku iliyonukia iliki na karafuu. (Kuunganisha mada zote za Unit 24 (U24))",
-            "Wageni walikaa garini na kula mkate mkavu bila kinywaji chochote. (Kuunganisha mada zote za Unit 24 (U24))",
-            "Nyumba za Waswahili hazina milango wala mabaraza ya kukaribisha wageni. (Kuunganisha mada zote za Unit 24 (U24))",
-            "Upishi wa pwani hauna uhusiano na viungo vya Zanzibar. (Kuunganisha mada zote za Unit 24 (U24))"
+            "Wageni walikaribishwa barazani mwa nyumba ya matumbawe na kutengewa sinia kubwa ya biriani ya kuku iliyonukia iliki na karafuu. (Kuunganisha mada zote za Unit 24)",
+            "Wageni walikaa garini na kula mkate mkavu bila kinywaji chochote. (Kuunganisha mada zote za Unit 24)",
+            "Nyumba za Waswahili hazina milango wala mabaraza ya kukaribisha wageni. (Kuunganisha mada zote za Unit 24)",
+            "Upishi wa pwani hauna uhusiano na viungo vya Zanzibar. (Kuunganisha mada zote za Unit 24)"
           ],
           "answerIndex": 0,
           "explanation": "«barazani», «nyumba ya matumbawe», «biriani ya kuku», na «iliki na karafuu» zote zinaunganisha ustaarabu wa usanifu na chakula cha Kiswahili."
@@ -10342,10 +10342,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 24 ya Utamaduni wa Waswahili na Pwani ya Afrika Mashariki:",
           "options": [
-            "Kuanzia majumba ya matumbawe na milango ya nakshi ya Mji Mkongwe, safari za majahazi kwa upepo wa kusi, kanga maridadi na nyimbo za taarab, hadi biriani ya tui la nazi na karafuu za Zanzibar, ustaarabu wa Waswahili unadhihirisha urithi mtukufu wa Afrika Mashariki. (Kuunganisha mada zote za Unit 24 (U24))",
-            "Waswahili hawakuwa na utamaduni wowote wa kipekee katika historia. (Kuunganisha mada zote za Unit 24 (U24))",
-            "Lugha ya Kiswahili ilianza miaka kumi iliyopita kwenye mtandao. (Kuunganisha mada zote za Unit 24 (U24))",
-            "Visiwa vya Zanzibar havina historia ya viungo wala majahazi. (Kuunganisha mada zote za Unit 24 (U24))"
+            "Kuanzia majumba ya matumbawe na milango ya nakshi ya Mji Mkongwe, safari za majahazi kwa upepo wa kusi, kanga maridadi na nyimbo za taarab, hadi biriani ya tui la nazi na karafuu za Zanzibar, ustaarabu wa Waswahili unadhihirisha urithi mtukufu wa Afrika Mashariki. (Kuunganisha mada zote za Unit 24)",
+            "Waswahili hawakuwa na utamaduni wowote wa kipekee katika historia. (Kuunganisha mada zote za Unit 24)",
+            "Lugha ya Kiswahili ilianza miaka kumi iliyopita kwenye mtandao. (Kuunganisha mada zote za Unit 24)",
+            "Visiwa vya Zanzibar havina historia ya viungo wala majahazi. (Kuunganisha mada zote za Unit 24)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia majumba ya matumbawe na milango ya nakshi ya Mji Mkongwe, safari za majahazi kwa upepo wa kusi, kanga maridadi na nyimbo za taarab, hadi biriani ya tui la nazi na karafuu za Zanzibar, ustaarabu wa Waswahili unadhihirisha urithi mtukufu wa Afrika Mashariki.» inajumuisha vipengele vyote vya ustaarabu wa Waswahili kwa utajiri kamili wa kisarufi na kiutamaduni."
@@ -10393,10 +10393,10 @@
         {
           "prompt": "Katika sarufi ya kiuchumi ya Kiswahili, neno linalomaanisha 'Gross Domestic Product' (thamani ya jumla ya uzalishaji wa taifa kwa mwaka) ni lipi?",
           "options": [
-            "Patolitaifa (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))",
-            "Mfumuko wa bei (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))",
-            "Nakisi ya bajeti (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))",
-            "Riba ya benki (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))"
+            "Patolitaifa (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)",
+            "Mfumuko wa bei (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)",
+            "Nakisi ya bajeti (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)",
+            "Riba ya benki (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)"
           ],
           "answerIndex": 0,
           "explanation": "«Patolitaifa» ndilo neno sanifu la kitaaluma la Kiswahili linalosimamia 'Gross Domestic Product' (GDP)."
@@ -10408,10 +10408,10 @@
         {
           "prompt": "Sentensi ipi inatumia msamiati wa masoko ya mitaji na uwekezaji kwa usahihi wa kiwango cha C1?",
           "options": [
-            "Wawekezaji walinunua hisa nyingi kwenye Soko la Hisa la Dar es Salaam kufuatia ongezeko la faida ya makampuni. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))",
-            "Watu walikwenda sokoni kununua mboga za majani pekee. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))",
-            "Soko la hisa ni mahali pa kuuzia ng'ombe na mbuzi. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))",
-            "Benki zote zimefunga akaunti za wateja bila sababu. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))"
+            "Wawekezaji walinunua hisa nyingi kwenye Soko la Hisa la Dar es Salaam kufuatia ongezeko la faida ya makampuni. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)",
+            "Watu walikwenda sokoni kununua mboga za majani pekee. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)",
+            "Soko la hisa ni mahali pa kuuzia ng'ombe na mbuzi. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)",
+            "Benki zote zimefunga akaunti za wateja bila sababu. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inatumia maneno fasaha ya kiuchumi: «wawekezaji», «hisa», «Soko la Hisa», na «ongezeko la faida»."
@@ -10426,8 +10426,8 @@
           "options": [
             "Patolitaifa (GDP)",
             "Patolitaifa (chakula cha mchana)",
-            "Uchumi mkuu unahusu uvuvi wa mikono pekee bila fedha. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))",
-            "Hakuna masoko ya hisa katika ukanda wote wa Afrika Mashariki. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu (U25))"
+            "Uchumi mkuu unahusu uvuvi wa mikono pekee bila fedha. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)",
+            "Hakuna masoko ya hisa katika ukanda wote wa Afrika Mashariki. (Kuelewa na kutumia msamiati wa kina wa uchumi mkuu)"
           ],
           "answerIndex": 0,
           "explanation": "Istilahi sahihi za uchumi: Patolitaifa, Mfumuko wa bei, Nakisi ya bajeti, Wajasiriamali, Soko la hisa, Ushuru wa forodha."
@@ -10475,10 +10475,10 @@
         {
           "prompt": "Neno la Kiswahili linalomaanisha kitendo cha shughuli ya kifedha (transaction) kama vile kutuma, kupokea, au kulipia huduma kupitia simu ni lipi?",
           "options": [
-            "Muamala (Kuelewa msamiati wa fedha za simu MPesa (U25))",
-            "Mkataba wa ndoa (Kuelewa msamiati wa fedha za simu MPesa (U25))",
-            "Mhadhara wa chuo kikuu (Kuelewa msamiati wa fedha za simu MPesa (U25))",
-            "Mkutano wa siasa (Kuelewa msamiati wa fedha za simu MPesa (U25))"
+            "Muamala (Kuelewa msamiati wa fedha za simu MPesa)",
+            "Mkataba wa ndoa (Kuelewa msamiati wa fedha za simu MPesa)",
+            "Mhadhara wa chuo kikuu (Kuelewa msamiati wa fedha za simu MPesa)",
+            "Mkutano wa siasa (Kuelewa msamiati wa fedha za simu MPesa)"
           ],
           "answerIndex": 0,
           "explanation": "«Muamala» (wingi: miamala) ndilo neno sanifu linalomaanisha shughuli ya kifedha au kibiashara."
@@ -10490,10 +10490,10 @@
         {
           "prompt": "Sentensi ipi inaeleza kanuni ya usalama wa fedha za simu kwa ufasaha?",
           "options": [
-            "Kamwe usimwambie mtu yeyote namba yako ya siri ya M-Pesa ili kuzuia wizi wa fedha kutoka kwenye salio lako. (Kuelewa msamiati wa fedha za simu MPesa (U25))",
-            "Tuma namba yako ya siri kwa watu wote waliopo sokoni. (Kuelewa msamiati wa fedha za simu MPesa (U25))",
-            "Weka fedha zako zote chini ya kitanda badala ya benki. (Kuelewa msamiati wa fedha za simu MPesa (U25))",
-            "Miamala ya simu inafanyika kwa kutumia barua za posta pekee. (Kuelewa msamiati wa fedha za simu MPesa (U25))"
+            "Kamwe usimwambie mtu yeyote namba yako ya siri ya M-Pesa ili kuzuia wizi wa fedha kutoka kwenye salio lako. (Kuelewa msamiati wa fedha za simu MPesa)",
+            "Tuma namba yako ya siri kwa watu wote waliopo sokoni. (Kuelewa msamiati wa fedha za simu MPesa)",
+            "Weka fedha zako zote chini ya kitanda badala ya benki. (Kuelewa msamiati wa fedha za simu MPesa)",
+            "Miamala ya simu inafanyika kwa kutumia barua za posta pekee. (Kuelewa msamiati wa fedha za simu MPesa)"
           ],
           "answerIndex": 0,
           "explanation": "Ushauri fasaha wa kiusalama unasisitiza kulinda «namba ya siri» ili kulinda «salio» la akaunti."
@@ -10508,8 +10508,8 @@
           "options": [
             "Muamala, Wakala, Namba ya siri (PIN)",
             "Muamala (kupika chakula)",
-            "Fedha za simu hutumika kwa ajili ya kupiga picha pekee. (Kuelewa msamiati wa fedha za simu MPesa (U25))",
-            "M-Pesa ilivumbuliwa katika karne ya kumi na sita. (Kuelewa msamiati wa fedha za simu MPesa (U25))"
+            "Fedha za simu hutumika kwa ajili ya kupiga picha pekee. (Kuelewa msamiati wa fedha za simu MPesa)",
+            "M-Pesa ilivumbuliwa katika karne ya kumi na sita. (Kuelewa msamiati wa fedha za simu MPesa)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa fintech: Muamala, Wakala, Namba ya siri, Salio, Lipa kwa simu, Kutoa na kuweka fedha."
@@ -10557,10 +10557,10 @@
         {
           "prompt": "Malipo ya kifedha yanayotolewa na kampuni ya bima kufidia hasara au madhara yaliyotokea kwa mujibu wa mkataba yanaitwaje?",
           "options": [
-            "Fidia (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Adhabu ya kodi (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Mshahara wa ziada (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Riba ya benki (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))"
+            "Fidia (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Adhabu ya kodi (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Mshahara wa ziada (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Riba ya benki (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)"
           ],
           "answerIndex": 0,
           "explanation": "«Fidia» ndilo neno sahihi linalotumika kuelezea malipo ya kufidia hasara au maafa."
@@ -10572,10 +10572,10 @@
         {
           "prompt": "Mali au hati inayowekwa benki na mkopaji kama hakikisho la kurejesha mkopo inaitwaje katika istilahi za kibenki?",
           "options": [
-            "Dhamana (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Faida halisi (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Mfumuko wa bei (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Ushuru wa forodha (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))"
+            "Dhamana (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Faida halisi (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Mfumuko wa bei (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Ushuru wa forodha (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)"
           ],
           "answerIndex": 0,
           "explanation": "«Dhamana» ndiyo mali inayowekwa rehani ili kuthibitisha ahadi ya kurejesha mkopo."
@@ -10588,10 +10588,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya maneno ya kibenki, bima na usimamizi wa fedha katika Kiswahili sanifu:",
           "options": [
-            "Akaunti ya akiba, Akaunti ya hundi, Kiwango cha riba, Dhamana ya mkopo, Bima ya afya, Fidia ya hasara, Ukaguzi wa hesabu. (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Benki zote zinatoa fedha bure bila mikopo wala riba. (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Bima ni mkataba wa kugawa zawadi kwa wageni. (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))",
-            "Ukaguzi wa hesabu hufanywa na wanafunzi wa shule ya msingi pekee. (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba (U25))"
+            "Akaunti ya akiba, Akaunti ya hundi, Kiwango cha riba, Dhamana ya mkopo, Bima ya afya, Fidia ya hasara, Ukaguzi wa hesabu. (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Benki zote zinatoa fedha bure bila mikopo wala riba. (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Bima ni mkataba wa kugawa zawadi kwa wageni. (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)",
+            "Ukaguzi wa hesabu hufanywa na wanafunzi wa shule ya msingi pekee. (Kuelewa na kutumia msamiati wa kibenki akaunti ya hundiakiba)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa kibenki na bima: Akaunti ya akiba, Akaunti ya hundi, Kiwango cha riba, Dhamana, Bima, Fidia, Ukaguzi wa hesabu."
@@ -10639,10 +10639,10 @@
         {
           "prompt": "Tofauti ya thamani kati ya bidhaa ambazo nchi inauza nje (exports) na zile inazoagiza kutoka nje (imports) inaitwaje katika Kiswahili sanifu cha kiuchumi?",
           "options": [
-            "Urari wa biashara (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "Mfumuko wa bei (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "Nakisi ya chakula (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "Mkataba wa amani (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))"
+            "Urari wa biashara (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "Mfumuko wa bei (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "Nakisi ya chakula (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "Mkataba wa amani (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)"
           ],
           "answerIndex": 0,
           "explanation": "«Urari wa biashara» (balance of trade) ndilo neno sanifu la kulinganisha mauzo ya nje na maagizo ya nje."
@@ -10654,10 +10654,10 @@
         {
           "prompt": "Reli ya kisasa ya usafirishaji wa mizigo na abiria inayounganisha bandari za Afrika Mashariki na miji ya bara inaitwa kwa kifupi gani?",
           "options": [
-            "SGR (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "ATM (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "GDP (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "PIN (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))"
+            "SGR (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "ATM (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "GDP (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "PIN (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)"
           ],
           "answerIndex": 0,
           "explanation": "«SGR» inasimamia Standard Gauge Railway (Reli ya Kisasa ya Kiwango Sanifu)."
@@ -10670,10 +10670,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya maneno ya biashara ya kimataifa, bandari na ugavi katika Kiswahili:",
           "options": [
-            "Bandari kuu, Reli ya SGR, Mnyororo wa ugavi, Shehena ya mizigo, Bidhaa ghafi, Urari wa biashara, Viwango vya ubora. (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "Bandari zote ziko milimani ambako hakuna maji. (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "Usafirishaji wa kimataifa hauhitaji meli wala reli. (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))",
-            "Mnyororo wa ugavi ni kamba ya kufungia mifugo pekee. (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo (U25))"
+            "Bandari kuu, Reli ya SGR, Mnyororo wa ugavi, Shehena ya mizigo, Bidhaa ghafi, Urari wa biashara, Viwango vya ubora. (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "Bandari zote ziko milimani ambako hakuna maji. (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "Usafirishaji wa kimataifa hauhitaji meli wala reli. (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)",
+            "Mnyororo wa ugavi ni kamba ya kufungia mifugo pekee. (Kuelewa na kutumia msamiati wa usafirishaji wa mizigo)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa biashara ya kimataifa: Bandari kuu, Reli ya SGR, Mnyororo wa ugavi, Shehena ya mizigo, Bidhaa ghafi, Urari wa biashara."
@@ -10722,9 +10722,9 @@
           "prompt": "Ni nguzo zipi zinazounda mfumo jumuishi wa uchumi wa kisasa na teknolojia ya fedha katika ukanda wa Afrika Mashariki?",
           "options": [
             "Uchumi mkuu na patolitaifa, mifumo ya fedha za simu (M-Pesa)",
-            "Ubadilishanaji wa bidhaa kwa mbuzi pekee bila fedha wala simu (Kuunganisha mada zote za Unit 25 (U25))",
-            "Kufunga mipaka yote ya kibiashara na kuzuia uwekezaji (Kuunganisha mada zote za Unit 25 (U25))",
-            "Kutumia noti za karatasi zilizochakaa bila benki (Kuunganisha mada zote za Unit 25 (U25))"
+            "Ubadilishanaji wa bidhaa kwa mbuzi pekee bila fedha wala simu (Kuunganisha mada zote za Unit 25)",
+            "Kufunga mipaka yote ya kibiashara na kuzuia uwekezaji (Kuunganisha mada zote za Unit 25)",
+            "Kutumia noti za karatasi zilizochakaa bila benki (Kuunganisha mada zote za Unit 25)"
           ],
           "answerIndex": 0,
           "explanation": "Uchumi wa sasa unajengwa kwa uchumi mkuu, M-Pesa fintech, benki/bima, na miundombinu ya usafirishaji wa SGR na bandari."
@@ -10736,10 +10736,10 @@
         {
           "prompt": "Sentensi ipi inachanganya msamiati wa fedha za simu, benki na biashara ya kimataifa kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Kupitia mfumo wa kidijitali wa benki na M-Pesa, wajasiriamali wanalipia ushuru wa forodha na shehena za mizigo bandarini kwa dakika chache. (Kuunganisha mada zote za Unit 25 (U25))",
-            "Wafanyabiashara wanatembea kwa miguu wiki nzima kupeleka sarafu mipakani. (Kuunganisha mada zote za Unit 25 (U25))",
-            "Teknolojia ya simu haina nafasi katika biashara ya kimataifa. (Kuunganisha mada zote za Unit 25 (U25))",
-            "Benki zote zimekataa kufanya kazi na mitandao ya simu za mkononi. (Kuunganisha mada zote za Unit 25 (U25))"
+            "Kupitia mfumo wa kidijitali wa benki na M-Pesa, wajasiriamali wanalipia ushuru wa forodha na shehena za mizigo bandarini kwa dakika chache. (Kuunganisha mada zote za Unit 25)",
+            "Wafanyabiashara wanatembea kwa miguu wiki nzima kupeleka sarafu mipakani. (Kuunganisha mada zote za Unit 25)",
+            "Teknolojia ya simu haina nafasi katika biashara ya kimataifa. (Kuunganisha mada zote za Unit 25)",
+            "Benki zote zimekataa kufanya kazi na mitandao ya simu za mkononi. (Kuunganisha mada zote za Unit 25)"
           ],
           "answerIndex": 0,
           "explanation": "«mfumo wa kidijitali wa benki na M-Pesa», «wajasiriamali», «ushuru wa forodha», na «shehena za mizigo bandarini» zimeunganishwa kwa muktadha sahihi wa C1."
@@ -10752,10 +10752,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 25 ya Biashara, Uchumi, Masoko na Fedha za Kidijitali:",
           "options": [
-            "Kupitia ukuaji wa patolitaifa, mapinduzi ya miamala ya M-Pesa, uimara wa sekta ya benki na bima, na ufanisi wa bandari na reli ya SGR katika usafirishaji wa shehena za kikanda, ukanda wa Afrika Mashariki unaendelea kuongoza katika uchumi wa kidijitali. (Kuunganisha mada zote za Unit 25 (U25))",
-            "Uchumi wa Afrika Mashariki ulikoma kabisa karne iliyopita. (Kuunganisha mada zote za Unit 25 (U25))",
-            "M-Pesa na benki hazitambuliwi katika sheria za nchi. (Kuunganisha mada zote za Unit 25 (U25))",
-            "Lugha ya Kiswahili haiwezi kutumika kuelezea dhana za kisasa za kiuchumi na kibiashara. (Kuunganisha mada zote za Unit 25 (U25))"
+            "Kupitia ukuaji wa patolitaifa, mapinduzi ya miamala ya M-Pesa, uimara wa sekta ya benki na bima, na ufanisi wa bandari na reli ya SGR katika usafirishaji wa shehena za kikanda, ukanda wa Afrika Mashariki unaendelea kuongoza katika uchumi wa kidijitali. (Kuunganisha mada zote za Unit 25)",
+            "Uchumi wa Afrika Mashariki ulikoma kabisa karne iliyopita. (Kuunganisha mada zote za Unit 25)",
+            "M-Pesa na benki hazitambuliwi katika sheria za nchi. (Kuunganisha mada zote za Unit 25)",
+            "Lugha ya Kiswahili haiwezi kutumika kuelezea dhana za kisasa za kiuchumi na kibiashara. (Kuunganisha mada zote za Unit 25)"
           ],
           "answerIndex": 0,
           "explanation": "«Kupitia ukuaji wa patolitaifa, mapinduzi ya miamala ya M-Pesa, uimara wa sekta ya benki na bima, na ufanisi wa bandari na reli ya SGR katika usafirishaji wa shehena za kikanda, ukanda wa Afrika Mashariki unaendelea kuongoza katika uchumi wa kidijitali.» inajumuisha maarifa yote ya Unit 25 kwa ufasaha wa hali ya juu wa C1."
@@ -10803,10 +10803,10 @@
         {
           "prompt": "Katika Kiswahili sanifu, neno linalomaanisha uwepo wa aina mbalimbali za viumbe hai (mimea na wanyama) katika mazingira ya asili ni lipi?",
           "options": [
-            "Bioanuwai (Kuelewa msamiati wa kina wa ikolojia (U26))",
-            "Mfumuko wa bei (Kuelewa msamiati wa kina wa ikolojia (U26))",
-            "Uchumi mkuu (Kuelewa msamiati wa kina wa ikolojia (U26))",
-            "Mnyororo wa usafiri (Kuelewa msamiati wa kina wa ikolojia (U26))"
+            "Bioanuwai (Kuelewa msamiati wa kina wa ikolojia)",
+            "Mfumuko wa bei (Kuelewa msamiati wa kina wa ikolojia)",
+            "Uchumi mkuu (Kuelewa msamiati wa kina wa ikolojia)",
+            "Mnyororo wa usafiri (Kuelewa msamiati wa kina wa ikolojia)"
           ],
           "answerIndex": 0,
           "explanation": "«Bioanuwai» ndilo neno rasmi la kisanifu linalotafsiri dhana ya 'biodiversity'."
@@ -10819,9 +10819,9 @@
           "prompt": "Orodha ipi inajumuisha wanyama wote wanaounda kundi maarufu la 'Wanyama Wakubwa Watano' (The Big Five) barani Afrika?",
           "options": [
             "Simba, Ndovu (Tembo)",
-            "Pundamilia, Twiga, Swala, Sungura, na Fisi (Kuelewa msamiati wa kina wa ikolojia (U26))",
-            "Kuku, Mbuzi, Ng'ombe, Kondoo, na Paka (Kuelewa msamiati wa kina wa ikolojia (U26))",
-            "Mamba, Kiboko, Nyoka, Kobe, na Mjusi (Kuelewa msamiati wa kina wa ikolojia (U26))"
+            "Pundamilia, Twiga, Swala, Sungura, na Fisi (Kuelewa msamiati wa kina wa ikolojia)",
+            "Kuku, Mbuzi, Ng'ombe, Kondoo, na Paka (Kuelewa msamiati wa kina wa ikolojia)",
+            "Mamba, Kiboko, Nyoka, Kobe, na Mjusi (Kuelewa msamiati wa kina wa ikolojia)"
           ],
           "answerIndex": 0,
           "explanation": "Wanyama wakubwa watano ni: Simba, Ndovu (Tembo), Kifaru, Chui, na Nyati."
@@ -10834,10 +10834,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya mbuga za wanyama na dhana za ikolojia katika Afrika Mashariki:",
           "options": [
-            "Serengeti, Ngorongoro, Maasai Mara, Tsavo, Ruaha; Bioanuwai, Uhajiri wa nyumbu, Mnyororo wa ikolojia. (Kuelewa msamiati wa kina wa ikolojia (U26))",
-            "Mbuga zote za wanyama ziko ndani ya majengo ya mijini. (Kuelewa msamiati wa kina wa ikolojia (U26))",
-            "Wanyama wa porini hawahitaji mimea wala maji ili kuishi. (Kuelewa msamiati wa kina wa ikolojia (U26))",
-            "Afrika Mashariki haina wanyamapori wowote wa asili. (Kuelewa msamiati wa kina wa ikolojia (U26))"
+            "Serengeti, Ngorongoro, Maasai Mara, Tsavo, Ruaha; Bioanuwai, Uhajiri wa nyumbu, Mnyororo wa ikolojia. (Kuelewa msamiati wa kina wa ikolojia)",
+            "Mbuga zote za wanyama ziko ndani ya majengo ya mijini. (Kuelewa msamiati wa kina wa ikolojia)",
+            "Wanyama wa porini hawahitaji mimea wala maji ili kuishi. (Kuelewa msamiati wa kina wa ikolojia)",
+            "Afrika Mashariki haina wanyamapori wowote wa asili. (Kuelewa msamiati wa kina wa ikolojia)"
           ],
           "answerIndex": 0,
           "explanation": "Hifadhi kuu na dhana za ikolojia: Serengeti, Ngorongoro, Maasai Mara, Tsavo; Bioanuwai, Uhajiri mkuu."
@@ -10885,10 +10885,10 @@
         {
           "prompt": "Kitendo haramu cha kuwinda wanyamapori bila kibali kisheria ili kuchukua pembe, ngozi au nyama kinaitwaje katika Kiswahili?",
           "options": [
-            "Ujangili (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Kilimo cha umwagiliaji (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Ufugaji wa kuku (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Uvuvi wa mto (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))"
+            "Ujangili (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Kilimo cha umwagiliaji (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Ufugaji wa kuku (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Uvuvi wa mto (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)"
           ],
           "answerIndex": 0,
           "explanation": "«Ujangili» ndilo neno rasmi la Kiswahili linalomaanisha uwindaji haramu wa wanyamapori."
@@ -10900,10 +10900,10 @@
         {
           "prompt": "Maafisa wa usalama waliotwikwa jukumu la kulinda mbuga za wanyama na kupambana na majangili wanaitwaje?",
           "options": [
-            "Askari Wanyamapori / Walinzi wa Doria (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Madaktari wa meno (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Walimu wa shule ya msingi (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Wafanyabiashara wa soko la hisa (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))"
+            "Askari Wanyamapori / Walinzi wa Doria (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Madaktari wa meno (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Walimu wa shule ya msingi (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Wafanyabiashara wa soko la hisa (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)"
           ],
           "answerIndex": 0,
           "explanation": "«Askari Wanyamapori» (rangers) ndio walinzi wanaofanya doria mbugani kulinda wanyama."
@@ -10916,10 +10916,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya maneno yanayohusiana na mapambano dhidi ya ujangili na wanyama walio hatarini:",
           "options": [
-            "Ujangili, Majangili, Pembe za ndovu, Pembe za kifaru, Nyara za serikali, Askari wanyamapori, Doria ya msituni, Spishi zilizo hatarini. (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Ujangili ni mchezo wa watoto shuleni. (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Tembo na vifaru wanaruhusiwa kuwindwa bila vibali popote. (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))",
-            "Hakuna haja ya kuwa na askari wanyamapori mbugani. (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili (U26))"
+            "Ujangili, Majangili, Pembe za ndovu, Pembe za kifaru, Nyara za serikali, Askari wanyamapori, Doria ya msituni, Spishi zilizo hatarini. (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Ujangili ni mchezo wa watoto shuleni. (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Tembo na vifaru wanaruhusiwa kuwindwa bila vibali popote. (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)",
+            "Hakuna haja ya kuwa na askari wanyamapori mbugani. (Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa kisheria na kiuhifadhi: Ujangili, Majangili, Pembe za ndovu, Pembe za kifaru, Nyara za serikali, Askari wanyamapori, Doria."
@@ -10967,10 +10967,10 @@
         {
           "prompt": "Gesi inayotokana na uchomaji wa mafuta na kuni inayochangia kuongezeka kwa joto duniani inaitwaje katika Kiswahili sanifu?",
           "options": [
-            "Hewa ya ukaa (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Hewa ya oksijeni (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Maji ya mvua (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Upepo wa kaskazi (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))"
+            "Hewa ya ukaa (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Hewa ya oksijeni (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Maji ya mvua (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Upepo wa kaskazi (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)"
           ],
           "answerIndex": 0,
           "explanation": "«Hewa ya ukaa» ndilo jina la kisayansi la Kiswahili kwa Carbon Dioxide."
@@ -10982,10 +10982,10 @@
         {
           "prompt": "Kitendo cha kupanda miti kwa wingi ili kurudisha misitu iliyoharibiwa na kuzuia mmomonyoko wa udongo kinaitwaje?",
           "options": [
-            "Upandaji miti na kurudisha uoto wa asili (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Ukataji miti haramu (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Uchimbaji wa mawe ya matumbawe (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Ujenzi wa barabara za lami (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))"
+            "Upandaji miti na kurudisha uoto wa asili (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Ukataji miti haramu (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Uchimbaji wa mawe ya matumbawe (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Ujenzi wa barabara za lami (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)"
           ],
           "answerIndex": 0,
           "explanation": "«Upandaji miti» (reforestation/afforestation) ndicho kitendo chanya cha kulinda mazingira na vyanzo vya maji."
@@ -10998,10 +10998,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya istilahi za mazingira na mabadiliko ya tabianchi katika Kiswahili:",
           "options": [
-            "Mabadiliko ya tabianchi, Ongezeko la joto duniani, Hewa ya ukaa, Ukataji miti, Upandaji miti, Vyanzo vya maji, Mmomonyoko wa udongo. (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Tabianchi inahusu tabia za wanafunzi darasani pekee. (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Ukataji miti hauna athari yoyote kwa mvua wala maji. (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))",
-            "Mlima Kilimanjaro hauna theluji wala vyanzo vya mito. (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi (U26))"
+            "Mabadiliko ya tabianchi, Ongezeko la joto duniani, Hewa ya ukaa, Ukataji miti, Upandaji miti, Vyanzo vya maji, Mmomonyoko wa udongo. (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Tabianchi inahusu tabia za wanafunzi darasani pekee. (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Ukataji miti hauna athari yoyote kwa mvua wala maji. (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)",
+            "Mlima Kilimanjaro hauna theluji wala vyanzo vya mito. (Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa tabianchi: Mabadiliko ya tabianchi, Ongezeko la joto, Hewa ya ukaa, Upandaji miti, Vyanzo vya maji, Mmomonyoko wa udongo."
@@ -11049,10 +11049,10 @@
         {
           "prompt": "Umeme unaozalishwa kutokana na mvuke unaofukuta chini ya ardhi katika Bonde la Ufa (kama vile Olkaria) unaitwaje katika Kiswahili sanifu?",
           "options": [
-            "Nishati ya jotoardhi (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Nishati ya makaa ya mawe (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Nishati ya mafuta ya taa (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Nishati ya betri kavu (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))"
+            "Nishati ya jotoardhi (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Nishati ya makaa ya mawe (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Nishati ya mafuta ya taa (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Nishati ya betri kavu (Kuelewa na kutumia msamiati wa nishati jadidifu jua)"
           ],
           "answerIndex": 0,
           "explanation": "«Nishati ya jotoardhi» ndiyo fasiri sanifu ya nishati ya mvuke wa ardhi (geothermal)."
@@ -11064,10 +11064,10 @@
         {
           "prompt": "Miti ya pekee inayoota katika maji ya chumvi kwenye fukwe za bahari na kuzuia mmomonyoko wa udongo inaitwaje?",
           "options": [
-            "Mikoko (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Miparachichi (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Miembe ya bara (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Misonobari (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))"
+            "Mikoko (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Miparachichi (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Miembe ya bara (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Misonobari (Kuelewa na kutumia msamiati wa nishati jadidifu jua)"
           ],
           "answerIndex": 0,
           "explanation": "«Mikoko» (mangroves) huota pwani na ina jukumu kubwa katika uchumi wa bluu na ikolojia ya bahari."
@@ -11080,10 +11080,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya vyanzo vya nishati jadidifu na vipengele vya uchumi wa bluu katika Kiswahili:",
           "options": [
-            "Nishati ya jotoardhi, Nishati ya jua, Nishati ya upepo, Umeme wa maji, Uchumi wa bluu, Miamba ya matumbawe, Misitu ya mikoko. (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Nishati jadidifu inapatikana kwa kuchoma matairi ya magari tu. (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Bahari haina umuhimu wowote kwa uchumi wa nchi. (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))",
-            "Mikoko inaharibu mazingira na inapaswa kung'olewa yote. (Kuelewa na kutumia msamiati wa nishati jadidifu jua (U26))"
+            "Nishati ya jotoardhi, Nishati ya jua, Nishati ya upepo, Umeme wa maji, Uchumi wa bluu, Miamba ya matumbawe, Misitu ya mikoko. (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Nishati jadidifu inapatikana kwa kuchoma matairi ya magari tu. (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Bahari haina umuhimu wowote kwa uchumi wa nchi. (Kuelewa na kutumia msamiati wa nishati jadidifu jua)",
+            "Mikoko inaharibu mazingira na inapaswa kung'olewa yote. (Kuelewa na kutumia msamiati wa nishati jadidifu jua)"
           ],
           "answerIndex": 0,
           "explanation": "Nishati safi na uchumi wa bluu: Jotoardhi, Jua, Upepo, Maji, Uchumi wa bluu, Matumbawe, Mikoko."
@@ -11131,10 +11131,10 @@
         {
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za ikolojia, uhifadhi wa maliasili na mazingira ya Afrika Mashariki?",
           "options": [
-            "Bioanuwai ya wanyama wakubwa, ulinzi dhidi ya ujangili, upandaji miti na utunzaji vyanzo vya maji, pamoja na nishati jadidifu na uchumi wa bluu (Kuunganisha mada zote za Unit 26 (U26))",
-            "Kufyeka misitu yote na kuwinda wanyama bila kizuizi (Kuunganisha mada zote za Unit 26 (U26))",
-            "Kutupa taka za plastiki baharini na maziwani (Kuunganisha mada zote za Unit 26 (U26))",
-            "Kufunga vituo vyote vya kuzalisha nishati ya jua na maji (Kuunganisha mada zote za Unit 26 (U26))"
+            "Bioanuwai ya wanyama wakubwa, ulinzi dhidi ya ujangili, upandaji miti na utunzaji vyanzo vya maji, pamoja na nishati jadidifu na uchumi wa bluu (Kuunganisha mada zote za Unit 26)",
+            "Kufyeka misitu yote na kuwinda wanyama bila kizuizi (Kuunganisha mada zote za Unit 26)",
+            "Kutupa taka za plastiki baharini na maziwani (Kuunganisha mada zote za Unit 26)",
+            "Kufunga vituo vyote vya kuzalisha nishati ya jua na maji (Kuunganisha mada zote za Unit 26)"
           ],
           "answerIndex": 0,
           "explanation": "Uhifadhi kamili wa kimazingira unajumuisha bioanuwai, kupinga ujangili, upandaji miti, na nishati jadidifu/uchumi wa bluu."
@@ -11146,10 +11146,10 @@
         {
           "prompt": "Sentensi ipi inaunganisha mada za uhifadhi wa wanyamapori na utunzaji wa mazingira kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Kupitia doria za askari wanyamapori na miradi ya nishati jadidifu, jamii za wenyeji zinalinda bioanuwai na vyanzo vya maji kwa uendelevu. (Kuunganisha mada zote za Unit 26 (U26))",
-            "Wanyamapori wanaishi mijini bila kuhitaji misitu wala maji. (Kuunganisha mada zote za Unit 26 (U26))",
-            "Ukataji miti unasaidia kuongeza idadi ya tembo na vifaru. (Kuunganisha mada zote za Unit 26 (U26))",
-            "Nishati ya jua na upepo inasababisha uharibifu wa miamba ya matumbawe. (Kuunganisha mada zote za Unit 26 (U26))"
+            "Kupitia doria za askari wanyamapori na miradi ya nishati jadidifu, jamii za wenyeji zinalinda bioanuwai na vyanzo vya maji kwa uendelevu. (Kuunganisha mada zote za Unit 26)",
+            "Wanyamapori wanaishi mijini bila kuhitaji misitu wala maji. (Kuunganisha mada zote za Unit 26)",
+            "Ukataji miti unasaidia kuongeza idadi ya tembo na vifaru. (Kuunganisha mada zote za Unit 26)",
+            "Nishati ya jua na upepo inasababisha uharibifu wa miamba ya matumbawe. (Kuunganisha mada zote za Unit 26)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inatumia msamiati wa kina wa C1: «doria za askari wanyamapori», «nishati jadidifu», «bioanuwai», «vyanzo vya maji», na «uendelevu»."
@@ -11162,10 +11162,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 26 ya Ikolojia, Uhifadhi wa Wanyamapori na Maliasili:",
           "options": [
-            "Kuanzia bioanuwai ya Serengeti na ulinzi wa Wanyama Watano, mapambano dhidi ya ujangili, upandaji miti kulinda vyanzo vya maji, hadi maendeleo ya nishati jadidifu na uchumi wa bluu, ukanda wa Afrika Mashariki unaonyesha uongozi thabiti katika uhifadhi wa mazingira. (Kuunganisha mada zote za Unit 26 (U26))",
-            "Maliasili zote za Afrika Mashariki ziliuzwa miaka mingi iliyopita. (Kuunganisha mada zote za Unit 26 (U26))",
-            "Ujangili unaruhusiwa kisheria katika mbuga zote za wanyama. (Kuunganisha mada zote za Unit 26 (U26))",
-            "Kiswahili hakina maneno ya kuelezea masuala ya sayansi ya mazingira na ikolojia. (Kuunganisha mada zote za Unit 26 (U26))"
+            "Kuanzia bioanuwai ya Serengeti na ulinzi wa Wanyama Watano, mapambano dhidi ya ujangili, upandaji miti kulinda vyanzo vya maji, hadi maendeleo ya nishati jadidifu na uchumi wa bluu, ukanda wa Afrika Mashariki unaonyesha uongozi thabiti katika uhifadhi wa mazingira. (Kuunganisha mada zote za Unit 26)",
+            "Maliasili zote za Afrika Mashariki ziliuzwa miaka mingi iliyopita. (Kuunganisha mada zote za Unit 26)",
+            "Ujangili unaruhusiwa kisheria katika mbuga zote za wanyama. (Kuunganisha mada zote za Unit 26)",
+            "Kiswahili hakina maneno ya kuelezea masuala ya sayansi ya mazingira na ikolojia. (Kuunganisha mada zote za Unit 26)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia bioanuwai ya Serengeti na ulinzi wa Wanyama Watano, mapambano dhidi ya ujangili, upandaji miti kulinda vyanzo vya maji, hadi maendeleo ya nishati jadidifu na uchumi wa bluu, ukanda wa Afrika Mashariki unaonyesha uongozi thabiti katika uhifadhi wa mazingira.» inajumuisha maarifa yote ya Unit 26 kwa ufasaha wa hali ya juu wa C1."
@@ -11213,10 +11213,10 @@
         {
           "prompt": "Tawi la sayansi ya tiba linalochunguza mienendo, usambazaji, na udhibiti wa milipuko ya magonjwa katika jamii linaitwaje kwa Kiswahili?",
           "options": [
-            "Epidemiolojia (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Uchumi mkuu (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Sayansi ya nyota (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Mnyororo wa usafiri (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))"
+            "Epidemiolojia (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Uchumi mkuu (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Sayansi ya nyota (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Mnyororo wa usafiri (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)"
           ],
           "answerIndex": 0,
           "explanation": "«Epidemiolojia» ndilo neno sanifu la kitaalamu linalomaanisha sayansi ya kuchunguza milipuko na usambazaji wa magonjwa."
@@ -11228,10 +11228,10 @@
         {
           "prompt": "Protini maalum zinazotengenezwa na mfumo wa kinga ya mwili kupambana na vimelea vya maradhi (pathogens) zinaitwaje?",
           "options": [
-            "Kingamwili / Kingamaradhi (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Vyakula vya mafuta (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Hewa ya ukaa (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Mitego ya ujangili (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))"
+            "Kingamwili / Kingamaradhi (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Vyakula vya mafuta (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Hewa ya ukaa (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Mitego ya ujangili (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)"
           ],
           "answerIndex": 0,
           "explanation": "«Kingamwili» (antibodies) ndizo silaha za kibaolojia za mfumo wa kinga zinazotengenezwa baada ya maambukizi au chanjo."
@@ -11244,10 +11244,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya maneno ya epidemiolojia na udhibiti wa magonjwa ya kuambukiza katika Kiswahili:",
           "options": [
-            "Epidemiolojia, Magonjwa ya kuambukiza, Mlipuko wa ugonjwa, Janga la kidunia, Chanjo, Kingamwili, Vimelea vya maradhi, Karantini. (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Chanjo hutolewa ili kusababisha ujangili wa tembo. (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Magonjwa ya kuambukiza hayawezi kudhibitiwa kwa usafi wala tiba. (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))",
-            "Karantini ni sherehe ya harusi ya kimila. (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko (U27))"
+            "Epidemiolojia, Magonjwa ya kuambukiza, Mlipuko wa ugonjwa, Janga la kidunia, Chanjo, Kingamwili, Vimelea vya maradhi, Karantini. (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Chanjo hutolewa ili kusababisha ujangili wa tembo. (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Magonjwa ya kuambukiza hayawezi kudhibitiwa kwa usafi wala tiba. (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)",
+            "Karantini ni sherehe ya harusi ya kimila. (Kuelewa na kutumia msamiati wa epidemiolojia elimu ya milipuko)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa epidemiolojia: Epidemiolojia, Magonjwa ya kuambukiza, Mlipuko, Chanjo, Kingamwili, Vimelea, Karantini."
@@ -11295,10 +11295,10 @@
         {
           "prompt": "Mbu anayeeneza vimelea vya malaria aina ya plasmodiamu kwa binadamu anaitwaje kwa usahihi wa kisayansi na Kiswahili?",
           "options": [
-            "Mbu wa kike wa Anofelesi (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))",
-            "Nzi wa kawaida (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))",
-            "Nyuki wa asali (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))",
-            "Kipepeo wa msituni (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))"
+            "Mbu wa kike wa Anofelesi (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)",
+            "Nzi wa kawaida (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)",
+            "Nyuki wa asali (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)",
+            "Kipepeo wa msituni (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)"
           ],
           "answerIndex": 0,
           "explanation": "Mbu jike wa Anofelesi (female Anopheles) ndiye kimelea mkuu anayeeneza plasmodiamu ya malaria."
@@ -11310,10 +11310,10 @@
         {
           "prompt": "Dawa sanifu za kisasa zinazochanganya viambato mbalimbali kutibu ugonjwa wa malaria zinaitwaje kwa Kiswahili?",
           "options": [
-            "Dawa za mseto (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))",
-            "Chai ya rangi (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))",
-            "Maji ya chumvi (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))",
-            "Juisi ya miwa (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))"
+            "Dawa za mseto (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)",
+            "Chai ya rangi (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)",
+            "Maji ya chumvi (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)",
+            "Juisi ya miwa (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)"
           ],
           "answerIndex": 0,
           "explanation": "«Dawa za mseto» (ACTs) ndiyo tiba rasmi inayopendekezwa kimataifa kutibu ugonjwa wa malaria."
@@ -11327,9 +11327,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya magonjwa ya kitropiki na mbinu za udhibiti wa malaria katika Kiswahili:",
           "options": [
             "Malaria, Mbu anofelesi, Vimelea vya plasmodiamu, Dawa za mseto (ACTs)",
-            "Malaria huenezwa kwa kula maembe mabichi. (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))",
-            "Kichocho husababishwa na kucheza michezo ya kompyuta. (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))",
-            "Hakuna haja ya kupima damu kabla ya kunywa dawa za malaria. (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki (U27))"
+            "Malaria huenezwa kwa kula maembe mabichi. (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)",
+            "Kichocho husababishwa na kucheza michezo ya kompyuta. (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)",
+            "Hakuna haja ya kupima damu kabla ya kunywa dawa za malaria. (Kuelewa na kutumia msamiati wa magonjwa ya kitropiki)"
           ],
           "answerIndex": 0,
           "explanation": "Istilahi sahihi: Malaria, Mbu anofelesi, Plasmodiamu, Dawa za mseto, Vyandarua vyenye viuatilifu, Kichocho, Matende."
@@ -11377,10 +11377,10 @@
         {
           "prompt": "Hali ya kiafya inayosababishwa na upungufu mkubwa wa virutubisho sahihi katika chakula cha mtoto inaitwaje katika Kiswahili sanifu?",
           "options": [
-            "Utapiamlo (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Ufahamu wa kompyuta (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Mfumuko wa bei (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Ushuru wa forodha (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))"
+            "Utapiamlo (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Ufahamu wa kompyuta (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Mfumuko wa bei (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Ushuru wa forodha (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)"
           ],
           "answerIndex": 0,
           "explanation": "«Utapiamlo» ndilo neno sanifu la kuelezea ukosefu au upungufu wa lishe bora mwilini."
@@ -11392,10 +11392,10 @@
         {
           "prompt": "Vituo vidogo vya matibabu vya ngazi ya kijiji vinavyotoa huduma za kwanza, chanjo na uzazi salama huitwaje?",
           "options": [
-            "Zahanati (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Masoko ya hisa (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Bandari za mizigo (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Vyuo vikuu (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))"
+            "Zahanati (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Masoko ya hisa (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Bandari za mizigo (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Vyuo vikuu (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)"
           ],
           "answerIndex": 0,
           "explanation": "«Zahanati» ndizo taasisi za afya za ngazi ya msingi katika mfumo wa afya wa jamii."
@@ -11408,10 +11408,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya vipengele vya afya ya msingi, lishe na usafi wa mazingira katika Kiswahili:",
           "options": [
-            "Huduma za afya ya msingi, Zahanati, Wahudumu wa jamii, Lishe bora, Utapiamlo, Uzazi salama, Maji safi na salama, Kinga ya kipindupindu. (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Kipindupindu husababishwa na kula matunda safi yaliyosafishwa kwa maji salama. (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Zahanati za vijijini hutumika kwa ajili ya kufuga nyuki pekee. (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))",
-            "Watoto wachanga hawahitaji lishe bora wala maziwa ya mama. (Kuelewa na kutumia msamiati wa afya ya msingi zahanati (U27))"
+            "Huduma za afya ya msingi, Zahanati, Wahudumu wa jamii, Lishe bora, Utapiamlo, Uzazi salama, Maji safi na salama, Kinga ya kipindupindu. (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Kipindupindu husababishwa na kula matunda safi yaliyosafishwa kwa maji salama. (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Zahanati za vijijini hutumika kwa ajili ya kufuga nyuki pekee. (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)",
+            "Watoto wachanga hawahitaji lishe bora wala maziwa ya mama. (Kuelewa na kutumia msamiati wa afya ya msingi zahanati)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa afya ya msingi na WASH: Afya ya msingi, Zahanati, Wahudumu wa jamii, Lishe bora, Utapiamlo, Uzazi salama, Maji safi, Kipindupindu."
@@ -11459,10 +11459,10 @@
         {
           "prompt": "Hali ya shinikizo kubwa la damu kwenye mishipa ya ateri inayoweza kusababisha kiharusi au ugonjwa wa moyo inaitwaje kwa Kiswahili sanifu?",
           "options": [
-            "Shinikizo la damu (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Kipindupindu cha tumbo (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Mabadiliko ya tabianchi (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Hewa ya oksijeni (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))"
+            "Shinikizo la damu (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Kipindupindu cha tumbo (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Mabadiliko ya tabianchi (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Hewa ya oksijeni (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)"
           ],
           "answerIndex": 0,
           "explanation": "«Shinikizo la damu» ndilo jina sanifu la kitabibu kwa ugonjwa wa presha ya juu (hypertension)."
@@ -11474,10 +11474,10 @@
         {
           "prompt": "Mti maarufu wa kitropiki unaojulikana sana Afrika Mashariki kwa kutumika kama tiba asili ya mitishamba kwa magonjwa mengi unaitwaje?",
           "options": [
-            "Mwarobaini (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Mnazi wa pwani (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Mgomba wa ndizi (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Mchungwa wa bustanini (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))"
+            "Mwarobaini (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Mnazi wa pwani (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Mgomba wa ndizi (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Mchungwa wa bustanini (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwarobaini» (mti wa arobaini) ni mti maarufu sana wa tiba asili katika ukanda wa Afrika Mashariki."
@@ -11490,10 +11490,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya magonjwa yasiyo ya kuambukiza na dhana za famasiolojia katika Kiswahili:",
           "options": [
-            "Kisukari, Shinikizo la damu, Saratani, Magonjwa ya moyo, Tiba asili ya mitishamba, Mwarobaini, Famasia, Majaribio ya kisayansi. (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Kisukari huambukizwa kwa kusalimiana kwa mikono. (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Mitishamba yote inapaswa kutumiwa bila kujali vipimo wala usafi. (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))",
-            "Magonjwa ya moyo yanatibika kwa kula sukari nyingi pekee. (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari (U27))"
+            "Kisukari, Shinikizo la damu, Saratani, Magonjwa ya moyo, Tiba asili ya mitishamba, Mwarobaini, Famasia, Majaribio ya kisayansi. (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Kisukari huambukizwa kwa kusalimiana kwa mikono. (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Mitishamba yote inapaswa kutumiwa bila kujali vipimo wala usafi. (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)",
+            "Magonjwa ya moyo yanatibika kwa kula sukari nyingi pekee. (Kuelewa na kutumia msamiati wa magonjwa yasiyo ya kuambukiza kisukari)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa NCDs na famasia: Kisukari, Shinikizo la damu, Saratani, Moyo, Mitishamba, Mwarobaini, Famasia, Majaribio ya kisayansi."
@@ -11542,9 +11542,9 @@
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za mfumo thabiti wa afya ya jamii na tiba katika jamii za kisasa?",
           "options": [
             "Epidemiolojia na chanjo, mapambano ya malaria na magonjwa ya kitropiki, afya ya msingi na usafi wa mazingira (WASH)",
-            "Kunywa maji machafu ya madimbwi na kukataa chanjo zote (Kuunganisha mada zote za Unit 27 (U27))",
-            "Kufunga zahanati na vituo vyote vya afya vya vijijini (Kuunganisha mada zote za Unit 27 (U27))",
-            "Kutumia dawa zilizopitwa na wakati bila ushauri wa daktari (Kuunganisha mada zote za Unit 27 (U27))"
+            "Kunywa maji machafu ya madimbwi na kukataa chanjo zote (Kuunganisha mada zote za Unit 27)",
+            "Kufunga zahanati na vituo vyote vya afya vya vijijini (Kuunganisha mada zote za Unit 27)",
+            "Kutumia dawa zilizopitwa na wakati bila ushauri wa daktari (Kuunganisha mada zote za Unit 27)"
           ],
           "answerIndex": 0,
           "explanation": "Afya thabiti inajengwa kwa epidemiolojia, chanjo, malaria/kitropiki, afya ya msingi/WASH, na udhibiti wa magonjwa sugu na famasia."
@@ -11556,10 +11556,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha msamiati wa epidemiolojia, chanjo na afya ya msingi kwa usahihi wa kiwango cha C1?",
           "options": [
-            "Kupitia ufuatiliaji wa epidemiolojia na utoaji wa chanjo zahanatini, wahudumu wa afya wamefanikiwa kudhibiti milipuko ya magonjwa ya kuambukiza. (Kuunganisha mada zote za Unit 27 (U27))",
-            "Wagonjwa wote wanashauriwa kukimbia zahanati wakati wa mlipuko wa homa. (Kuunganisha mada zote za Unit 27 (U27))",
-            "Chanjo hutumiwa kwa ajili ya kulishia samaki baharini. (Kuunganisha mada zote za Unit 27 (U27))",
-            "Wahudumu wa afya hawana ujuzi wowote wa kutibu magonjwa. (Kuunganisha mada zote za Unit 27 (U27))"
+            "Kupitia ufuatiliaji wa epidemiolojia na utoaji wa chanjo zahanatini, wahudumu wa afya wamefanikiwa kudhibiti milipuko ya magonjwa ya kuambukiza. (Kuunganisha mada zote za Unit 27)",
+            "Wagonjwa wote wanashauriwa kukimbia zahanati wakati wa mlipuko wa homa. (Kuunganisha mada zote za Unit 27)",
+            "Chanjo hutumiwa kwa ajili ya kulishia samaki baharini. (Kuunganisha mada zote za Unit 27)",
+            "Wahudumu wa afya hawana ujuzi wowote wa kutibu magonjwa. (Kuunganisha mada zote za Unit 27)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inajumuisha maneno mahsusi ya C1: «ufuatiliaji wa epidemiolojia», «utoaji wa chanjo zahanatini», «wahudumu wa afya», na «kudhibiti milipuko ya magonjwa ya kuambukiza»."
@@ -11572,10 +11572,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 27 ya Afya ya Jamii, Tiba na Epidemiolojia:",
           "options": [
-            "Kuanzia ufuatiliaji wa epidemiolojia na chanjo, mapambano dhidi ya malaria na magonjwa ya kitropiki, uboreshaji wa zahanati na maji safi ya WASH, hadi udhibiti wa kisukari, saratani na tafiti za famasia ya mitishamba, mfumo wa afya ya jamii unalinda ustawi wa wananchi wote. (Kuunganisha mada zote za Unit 27 (U27))",
-            "Magonjwa yote ya binadamu yalitokomezwa katika karne ya kumi na tisa. (Kuunganisha mada zote za Unit 27 (U27))",
-            "Hakuna madaktari wala watafiti wa tiba katika bara zima la Afrika. (Kuunganisha mada zote za Unit 27 (U27))",
-            "Lugha ya Kiswahili haiwezi kutumika kufundishia sayansi ya tiba wala famasiolojia. (Kuunganisha mada zote za Unit 27 (U27))"
+            "Kuanzia ufuatiliaji wa epidemiolojia na chanjo, mapambano dhidi ya malaria na magonjwa ya kitropiki, uboreshaji wa zahanati na maji safi ya WASH, hadi udhibiti wa kisukari, saratani na tafiti za famasia ya mitishamba, mfumo wa afya ya jamii unalinda ustawi wa wananchi wote. (Kuunganisha mada zote za Unit 27)",
+            "Magonjwa yote ya binadamu yalitokomezwa katika karne ya kumi na tisa. (Kuunganisha mada zote za Unit 27)",
+            "Hakuna madaktari wala watafiti wa tiba katika bara zima la Afrika. (Kuunganisha mada zote za Unit 27)",
+            "Lugha ya Kiswahili haiwezi kutumika kufundishia sayansi ya tiba wala famasiolojia. (Kuunganisha mada zote za Unit 27)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia ufuatiliaji wa epidemiolojia na chanjo, mapambano dhidi ya malaria na magonjwa ya kitropiki, uboreshaji wa zahanati na maji safi ya WASH, hadi udhibiti wa kisukari, saratani na tafiti za famasia ya mitishamba, mfumo wa afya ya jamii unalinda ustawi wa wananchi wote.» inajumuisha maarifa yote ya Unit 27 kwa ufasaha wa hali ya juu wa C1."
@@ -11623,10 +11623,10 @@
         {
           "prompt": "Mbinu ya kiuanahabari ambapo taarifa muhimu zaidi huwekwa kwenye aya ya kwanza na maelezo madogo kufuata chini inaitwaje kwa Kiswahili?",
           "options": [
-            "Muundo wa piramidi pindu (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))",
-            "Muundo wa ushairi wa vina (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))",
-            "Mkataba wa bima (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))",
-            "Kanuni ya upasuaji (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))"
+            "Muundo wa piramidi pindu (Kuelewa na kutumia msamiati wa uandishi wa habari)",
+            "Muundo wa ushairi wa vina (Kuelewa na kutumia msamiati wa uandishi wa habari)",
+            "Mkataba wa bima (Kuelewa na kutumia msamiati wa uandishi wa habari)",
+            "Kanuni ya upasuaji (Kuelewa na kutumia msamiati wa uandishi wa habari)"
           ],
           "answerIndex": 0,
           "explanation": "«Muundo wa piramidi pindu» ndiyo dhana sanifu ya kimuundo katika uandishi wa habari."
@@ -11638,10 +11638,10 @@
         {
           "prompt": "Sentensi ipi inatumia kauli taarifa ya uandishi wa habari kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Mkurugenzi mkuu alithibitisha kuwa mradi utakamilika mwezi ujao, akiongeza kuwa bajeti yote imekwishatolewa. (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))",
-            "Mkurugenzi alisema 'mimi ninakula chakula sasa hivi hapa'. (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))",
-            "Habari za magazetini haziandikwi kwa kutumia vyanzo vya kuaminika. (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))",
-            "Aya ya kwanza ya habari haipaswi kuwa na taarifa yoyote. (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))"
+            "Mkurugenzi mkuu alithibitisha kuwa mradi utakamilika mwezi ujao, akiongeza kuwa bajeti yote imekwishatolewa. (Kuelewa na kutumia msamiati wa uandishi wa habari)",
+            "Mkurugenzi alisema 'mimi ninakula chakula sasa hivi hapa'. (Kuelewa na kutumia msamiati wa uandishi wa habari)",
+            "Habari za magazetini haziandikwi kwa kutumia vyanzo vya kuaminika. (Kuelewa na kutumia msamiati wa uandishi wa habari)",
+            "Aya ya kwanza ya habari haipaswi kuwa na taarifa yoyote. (Kuelewa na kutumia msamiati wa uandishi wa habari)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inatumia lugha fasaha ya kiuanahabari: «alithibitisha kuwa...», «akiongeza kuwa...»."
@@ -11655,9 +11655,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya maswali sita makuu ya aya ya kwanza ya habari (The Lead) katika Kiswahili:",
           "options": [
             "Nani, Nini, Wapi, Lini, Kwa nini, na Vipi (Who, What, Where, When, Why, How - The 5 Ws and H)",
-            "Jana, Leo, Kesho, Keshokutondo, Mtondo, na Mtondogoo. (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))",
-            "Kaskazini, Kusini, Mashariki, Magharibi, Juu, na Chini. (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))",
-            "Chakula, Maji, Hewa, Udongo, Mvua, na Jua. (Kuelewa na kutumia msamiati wa uandishi wa habari (U28))"
+            "Jana, Leo, Kesho, Keshokutondo, Mtondo, na Mtondogoo. (Kuelewa na kutumia msamiati wa uandishi wa habari)",
+            "Kaskazini, Kusini, Mashariki, Magharibi, Juu, na Chini. (Kuelewa na kutumia msamiati wa uandishi wa habari)",
+            "Chakula, Maji, Hewa, Udongo, Mvua, na Jua. (Kuelewa na kutumia msamiati wa uandishi wa habari)"
           ],
           "answerIndex": 0,
           "explanation": "Maswali sita ya uandishi wa habari: Nani, Nini, Wapi, Lini, Kwa nini, na Vipi."
@@ -11705,10 +11705,10 @@
         {
           "prompt": "Makala rasmi ya gazeti inayoonyesha mtazamo na msimamo wa chombo cha habari kuhusu suala muhimu la kijamii inaitwaje kwa Kiswahili?",
           "options": [
-            "Tahariri (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Tangazo la biashara (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Ratiba ya treni (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Kipimo cha damu (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))"
+            "Tahariri (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Tangazo la biashara (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Ratiba ya treni (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Kipimo cha damu (Kuelewa na kutumia msamiati wa tahariri za magazeti)"
           ],
           "answerIndex": 0,
           "explanation": "«Tahariri» (editorial) ndiyo makala maalum inayoonyesha msimamo rasmi wa chombo cha habari."
@@ -11720,10 +11720,10 @@
         {
           "prompt": "Mwandishi anayeandika makala za uchambuzi na maoni mara kwa mara katika sehemu maalum ya gazeti anaitwaje?",
           "options": [
-            "Mwanasafu (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Mlinzi wa doria (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Mjasiriamali wa hisa (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Mkutubi wa maktaba (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))"
+            "Mwanasafu (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Mlinzi wa doria (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Mjasiriamali wa hisa (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Mkutubi wa maktaba (Kuelewa na kutumia msamiati wa tahariri za magazeti)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwanasafu» (columnist) ndiye mwandishi anayepewa safu (column) ya kudumu gazetini."
@@ -11736,10 +11736,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya maneno ya tahariri na uchambuzi wa habari katika Kiswahili:",
           "options": [
-            "Tahariri, Mhariri mkuu, Jopo la uhariri, Makala maalum, Safu ya maoni, Mwanasafu, Uhakiki wa taarifa, Mizania ya habari. (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Tahariri huandikwa kwa kutumia mashairi ya kitendawili pekee. (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Magazeti hayaruhusiwi kuwa na wahariri wala safu za maoni. (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))",
-            "Uhakiki wa taarifa unalenga kufuta habari zote nzuri. (Kuelewa na kutumia msamiati wa tahariri za magazeti (U28))"
+            "Tahariri, Mhariri mkuu, Jopo la uhariri, Makala maalum, Safu ya maoni, Mwanasafu, Uhakiki wa taarifa, Mizania ya habari. (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Tahariri huandikwa kwa kutumia mashairi ya kitendawili pekee. (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Magazeti hayaruhusiwi kuwa na wahariri wala safu za maoni. (Kuelewa na kutumia msamiati wa tahariri za magazeti)",
+            "Uhakiki wa taarifa unalenga kufuta habari zote nzuri. (Kuelewa na kutumia msamiati wa tahariri za magazeti)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi: Tahariri, Mhariri mkuu, Jopo la uhariri, Makala maalum, Safu ya maoni, Mwanasafu, Uhakiki wa taarifa."
@@ -11787,10 +11787,10 @@
         {
           "prompt": "Kituo cha redio cha kitaifa cha Tanzania kilichoweka misingi mikuu ya matamshi na ufasaha wa Kiswahili sanifu tangu zama za Mwalimu Nyerere kinaitwaje?",
           "options": [
-            "Radio Tanzania Dar es Salaam - RTD / TBC (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "Kituo cha reli ya SGR (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "Mamlaka ya mapato ya kodi (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "Bodi ya nafaka na mazao (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))"
+            "Radio Tanzania Dar es Salaam - RTD / TBC (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "Kituo cha reli ya SGR (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "Mamlaka ya mapato ya kodi (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "Bodi ya nafaka na mazao (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "«Radio Tanzania Dar es Salaam» (RTD) ndicho kituo cha kihistoria kilichosanifisha utangazaji wa Kiswahili."
@@ -11802,10 +11802,10 @@
         {
           "prompt": "Matangazo ya redio au televisheni yanayorushwa hewani papo hapo wakati tukio linapotokea bila kurekodiwa kwanza huitwaje?",
           "options": [
-            "Matangazo ya moja kwa moja (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "Habari za zamani (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "Tahariri ya gazeti la jana (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "Kanda za kurekodiwa za miaka iliyopita (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))"
+            "Matangazo ya moja kwa moja (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "Habari za zamani (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "Tahariri ya gazeti la jana (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "Kanda za kurekodiwa za miaka iliyopita (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "«Matangazo ya moja kwa moja» (live broadcast) ndiyo matangazo ya papo hapo yanayorushwa hewani."
@@ -11818,10 +11818,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya vituo vya utangazaji na maneno ya redio na televisheni katika Kiswahili:",
           "options": [
-            "BBC Swahili, DW Kiswahili, VOA, RTD / TBC; Mtangazaji, Studio ya matangazo, Kipaza sauti, Matangazo ya moja kwa moja, Mahojiano maalum. (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "Utangazaji wa redio unafanywa kwa njia ya kutuma barua za posta pekee. (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "BBC na DW hazijawahi kuwa na vipindi vya lugha ya Kiswahili. (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))",
-            "Watangazaji wa televisheni hawaruhusiwi kuzungumza lugha yoyote. (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa (U28))"
+            "BBC Swahili, DW Kiswahili, VOA, RTD / TBC; Mtangazaji, Studio ya matangazo, Kipaza sauti, Matangazo ya moja kwa moja, Mahojiano maalum. (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "Utangazaji wa redio unafanywa kwa njia ya kutuma barua za posta pekee. (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "BBC na DW hazijawahi kuwa na vipindi vya lugha ya Kiswahili. (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)",
+            "Watangazaji wa televisheni hawaruhusiwi kuzungumza lugha yoyote. (Kuelewa na kutumia msamiati wa utangazaji wa redio na televisheni idhaa za kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "Idhaa na maneno sahihi ya utangazaji: BBC, DW, VOA, RTD; Mtangazaji, Studio, Kipaza sauti, Matangazo ya moja kwa moja, Mahojiano."
@@ -11869,10 +11869,10 @@
         {
           "prompt": "Habari za uwongo zinazotengenezwa na kusambazwa kwa makusudi ili kupotosha umma au kuchafua jina la mtu zinaitwaje kwa Kiswahili?",
           "options": [
-            "Habari za uzushi / Upotoshaji wa makusudi (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Tahariri ya kisayansi (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Mkataba wa amani (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Kanuni ya ngeli (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))"
+            "Habari za uzushi / Upotoshaji wa makusudi (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Tahariri ya kisayansi (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Mkataba wa amani (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Kanuni ya ngeli (Kuelewa na kutumia msamiati wa maadili ya uanahabari)"
           ],
           "answerIndex": 0,
           "explanation": "«Habari za uzushi» au «upotoshaji wa makusudi» (disinformation) ndiyo taarifa za uwongo zinazokiuka maadili ya uanahabari."
@@ -11884,10 +11884,10 @@
         {
           "prompt": "Fursa ya kisheria na kimaadili inayotolewa kwa mtu aliyetuhumiwa vibaya gazetini ili kutoa ufafanuzi au kusahihisha makosa inaitwaje?",
           "options": [
-            "Haki ya kujibu na kukanusha (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Ushuru wa forodha (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Uchunguzi wa kichocho (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Doria ya wanyamapori (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))"
+            "Haki ya kujibu na kukanusha (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Ushuru wa forodha (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Uchunguzi wa kichocho (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Doria ya wanyamapori (Kuelewa na kutumia msamiati wa maadili ya uanahabari)"
           ],
           "answerIndex": 0,
           "explanation": "«Haki ya kujibu» (right of reply) humwezesha mlengwa kurekebisha taarifa zilizoripotiwa kimakosa."
@@ -11900,10 +11900,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya masuala ya maadili ya uanahabari na mifumo ya kidijitali katika Kiswahili:",
           "options": [
-            "Maadili ya uanahabari, Habari za uzushi, Upotoshaji wa makusudi, Kashfa na uchochezi, Haki ya kujibu, Podikasti, Usiri wa vyanzo. (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Maadili ya uanahabari yanamtaka mwandishi kupokea hongo na kuchapisha uzushi. (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Mitandao ya kijamii ndiyo chanzo pekee kinachoruhusiwa kisheria kutoa taarifa za mahakama. (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))",
-            "Wanahabari hawaruhusiwi kufanya uhakiki wa habari zao. (Kuelewa na kutumia msamiati wa maadili ya uanahabari (U28))"
+            "Maadili ya uanahabari, Habari za uzushi, Upotoshaji wa makusudi, Kashfa na uchochezi, Haki ya kujibu, Podikasti, Usiri wa vyanzo. (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Maadili ya uanahabari yanamtaka mwandishi kupokea hongo na kuchapisha uzushi. (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Mitandao ya kijamii ndiyo chanzo pekee kinachoruhusiwa kisheria kutoa taarifa za mahakama. (Kuelewa na kutumia msamiati wa maadili ya uanahabari)",
+            "Wanahabari hawaruhusiwi kufanya uhakiki wa habari zao. (Kuelewa na kutumia msamiati wa maadili ya uanahabari)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa maadili na habari za kidijitali: Maadili, Uzushi, Upotoshaji, Kashfa, Haki ya kujibu, Podikasti, Usiri wa vyanzo."
@@ -11952,9 +11952,9 @@
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za uandishi wa habari, uhariri na utangazaji wa kitaalamu katika lugha ya Kiswahili?",
           "options": [
             "Muundo wa piramidi pindu, tahariri na safu za maoni, utangazaji wa kitaifa na kimataifa (RTD/BBC)",
-            "Kusambaza habari za uwongo bila kuthibitisha vyanzo (Kuunganisha mada zote za Unit 28 (U28))",
-            "Kufunga vyombo vyote vya habari na kuzuia wanahabari kuripoti (Kuunganisha mada zote za Unit 28 (U28))",
-            "Kutumia lugha isiyo na staha wala maadili (Kuunganisha mada zote za Unit 28 (U28))"
+            "Kusambaza habari za uwongo bila kuthibitisha vyanzo (Kuunganisha mada zote za Unit 28)",
+            "Kufunga vyombo vyote vya habari na kuzuia wanahabari kuripoti (Kuunganisha mada zote za Unit 28)",
+            "Kutumia lugha isiyo na staha wala maadili (Kuunganisha mada zote za Unit 28)"
           ],
           "answerIndex": 0,
           "explanation": "Uanahabari wa weledi unajumuisha piramidi pindu, tahariri, utangazaji thabiti, na maadili dhidi ya upotoshaji."
@@ -11966,10 +11966,10 @@
         {
           "prompt": "Sentensi ipi inachanganya msamiati wa uandishi wa habari, utangazaji na maadili kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Kupitia muundo wa piramidi pindu na mahojiano ya moja kwa moja studio, wanahabari wanaripoti matukio kwa kuzingatia weledi na maadili ya ukweli. (Kuunganisha mada zote za Unit 28 (U28))",
-            "Wanahabari wanakatazwa kuingia studio wala kutumia vipaza sauti. (Kuunganisha mada zote za Unit 28 (U28))",
-            "Tahariri za magazeti hazina uhusiano na jamii inayoisoma. (Kuunganisha mada zote za Unit 28 (U28))",
-            "Matangazo ya redio hayahitaji lugha sanifu wala matamshi fasaha. (Kuunganisha mada zote za Unit 28 (U28))"
+            "Kupitia muundo wa piramidi pindu na mahojiano ya moja kwa moja studio, wanahabari wanaripoti matukio kwa kuzingatia weledi na maadili ya ukweli. (Kuunganisha mada zote za Unit 28)",
+            "Wanahabari wanakatazwa kuingia studio wala kutumia vipaza sauti. (Kuunganisha mada zote za Unit 28)",
+            "Tahariri za magazeti hazina uhusiano na jamii inayoisoma. (Kuunganisha mada zote za Unit 28)",
+            "Matangazo ya redio hayahitaji lugha sanifu wala matamshi fasaha. (Kuunganisha mada zote za Unit 28)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inatumia maneno mahsusi ya C1: «muundo wa piramidi pindu», «mahojiano ya moja kwa moja studio», «wanahabari», «weledi», na «maadili ya ukweli»."
@@ -11982,10 +11982,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 28 ya Uandishi wa Habari, Tahariri na Utangazaji:",
           "options": [
-            "Kuanzia uandishi wa habari kwa muundo wa piramidi pindu, tahariri za kina na safu za maoni, utangazaji wa kimataifa wa BBC na DW, hadi kulinda maadili dhidi ya habari za uzushi kwenye mifumo ya kidijitali, lugha ya Kiswahili inathibitisha hadhi yake kuu kama lugha ya kimataifa ya habari na utangazaji. (Kuunganisha mada zote za Unit 28 (U28))",
-            "Uandishi wa habari hauhitaji muundo wowote wala vyanzo vya kuaminika. (Kuunganisha mada zote za Unit 28 (U28))",
-            "Idhaa za kimataifa zilikoma kutangaza kwa Kiswahili miaka hamsini iliyopita. (Kuunganisha mada zote za Unit 28 (U28))",
-            "Lugha ya Kiswahili haina maneno ya kutosha kuelezea teknolojia ya studio na utangazaji wa kisasa. (Kuunganisha mada zote za Unit 28 (U28))"
+            "Kuanzia uandishi wa habari kwa muundo wa piramidi pindu, tahariri za kina na safu za maoni, utangazaji wa kimataifa wa BBC na DW, hadi kulinda maadili dhidi ya habari za uzushi kwenye mifumo ya kidijitali, lugha ya Kiswahili inathibitisha hadhi yake kuu kama lugha ya kimataifa ya habari na utangazaji. (Kuunganisha mada zote za Unit 28)",
+            "Uandishi wa habari hauhitaji muundo wowote wala vyanzo vya kuaminika. (Kuunganisha mada zote za Unit 28)",
+            "Idhaa za kimataifa zilikoma kutangaza kwa Kiswahili miaka hamsini iliyopita. (Kuunganisha mada zote za Unit 28)",
+            "Lugha ya Kiswahili haina maneno ya kutosha kuelezea teknolojia ya studio na utangazaji wa kisasa. (Kuunganisha mada zote za Unit 28)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia uandishi wa habari kwa muundo wa piramidi pindu, tahariri za kina na safu za maoni, utangazaji wa kimataifa wa BBC na DW, hadi kulinda maadili dhidi ya habari za uzushi kwenye mifumo ya kidijitali, lugha ya Kiswahili inathibitisha hadhi yake kuu kama lugha ya kimataifa ya habari na utangazaji.» inajumuisha maarifa yote ya Unit 28 kwa ufasaha wa hali ya juu wa C1."
@@ -12033,10 +12033,10 @@
         {
           "prompt": "Sheria kuu na ya msingi zaidi katika nchi inayoweka miundo ya dola na haki za raia inaitwaje kwa Kiswahili?",
           "options": [
-            "Katiba ya nchi / Sheria mama (Kuelewa na kutumia msamiati wa kikatiba (U29))",
-            "Risiti ya manunuzi (Kuelewa na kutumia msamiati wa kikatiba (U29))",
-            "Leseni ya uvuvi (Kuelewa na kutumia msamiati wa kikatiba (U29))",
-            "Mkataba wa upangaji (Kuelewa na kutumia msamiati wa kikatiba (U29))"
+            "Katiba ya nchi / Sheria mama (Kuelewa na kutumia msamiati wa kikatiba)",
+            "Risiti ya manunuzi (Kuelewa na kutumia msamiati wa kikatiba)",
+            "Leseni ya uvuvi (Kuelewa na kutumia msamiati wa kikatiba)",
+            "Mkataba wa upangaji (Kuelewa na kutumia msamiati wa kikatiba)"
           ],
           "answerIndex": 0,
           "explanation": "«Katiba» ndiyo sheria mama na msingi mkuu wa mamlaka ya dola na haki za raia."
@@ -12048,10 +12048,10 @@
         {
           "prompt": "Mhimili upi wa dola unaohusika kisheria na kutunga sheria mpya na kuisimamia serikali bungeni?",
           "options": [
-            "Mhimili wa kutunga sheria / Bunge (Kuelewa na kutumia msamiati wa kikatiba (U29))",
-            "Jeshi la zimamoto (Kuelewa na kutumia msamiati wa kikatiba (U29))",
-            "Mamlaka ya hifadhi za taifa (Kuelewa na kutumia msamiati wa kikatiba (U29))",
-            "Chama cha madereva wa teksi (Kuelewa na kutumia msamiati wa kikatiba (U29))"
+            "Mhimili wa kutunga sheria / Bunge (Kuelewa na kutumia msamiati wa kikatiba)",
+            "Jeshi la zimamoto (Kuelewa na kutumia msamiati wa kikatiba)",
+            "Mamlaka ya hifadhi za taifa (Kuelewa na kutumia msamiati wa kikatiba)",
+            "Chama cha madereva wa teksi (Kuelewa na kutumia msamiati wa kikatiba)"
           ],
           "answerIndex": 0,
           "explanation": "«Bunge» (Legislature) ndio mhimili unaotunga sheria na kuisimamia serikali."
@@ -12065,9 +12065,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya mihimili mitatu ya dola na misingi ya kikatiba katika Kiswahili:",
           "options": [
             "Serikali (Utendaji)",
-            "Katiba inaruhusu viongozi kuwa juu ya sheria bila kuwajibika. (Kuelewa na kutumia msamiati wa kikatiba (U29))",
-            "Mihimili ya dola ni pamoja na vyama vya michezo na vilabu vya muziki. (Kuelewa na kutumia msamiati wa kikatiba (U29))",
-            "Bunge halina mamlaka yoyote ya kujadili wala kupitisha sheria. (Kuelewa na kutumia msamiati wa kikatiba (U29))"
+            "Katiba inaruhusu viongozi kuwa juu ya sheria bila kuwajibika. (Kuelewa na kutumia msamiati wa kikatiba)",
+            "Mihimili ya dola ni pamoja na vyama vya michezo na vilabu vya muziki. (Kuelewa na kutumia msamiati wa kikatiba)",
+            "Bunge halina mamlaka yoyote ya kujadili wala kupitisha sheria. (Kuelewa na kutumia msamiati wa kikatiba)"
           ],
           "answerIndex": 0,
           "explanation": "Mihimili ya dola: Serikali, Bunge, Mahakama; Misingi: Utawala wa sheria, Mgawanyo wa madaraka, Usawa."
@@ -12115,10 +12115,10 @@
         {
           "prompt": "Mashauri ya kisheria yanayohusu makosa dhidi ya jamii kama vile wizi na vurugu yanayoendeshwa na mwendesha mashitaka wa serikali huitwaje?",
           "options": [
-            "Kesi za Jinai (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Kesi za Madai ya ardhi (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Mkataba wa bima ya afya (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Ushauri wa biashara (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))"
+            "Kesi za Jinai (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Kesi za Madai ya ardhi (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Mkataba wa bima ya afya (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Ushauri wa biashara (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)"
           ],
           "answerIndex": 0,
           "explanation": "«Kesi za jinai» (criminal cases) ndiyo mashauri ya makosa ya jinai yanayoendeshwa na Jamhuri/Serikali."
@@ -12130,10 +12130,10 @@
         {
           "prompt": "Mtu anayetoa ushahidi na kueleza alichokiona au kukisikia mahakamani mbele ya hakimu au jaji anaitwaje?",
           "options": [
-            "Shahidi (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Mhariri wa habari (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Mjasiriamali wa hisa (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Mganga mkuu (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))"
+            "Shahidi (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Mhariri wa habari (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Mjasiriamali wa hisa (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Mganga mkuu (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)"
           ],
           "answerIndex": 0,
           "explanation": "«Shahidi» (witness) ndiye mtu anayetoa ushahidi chini ya kiapo mahakamani."
@@ -12146,10 +12146,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya ngazi za mahakama na wahusika wa kesi katika Kiswahili:",
           "options": [
-            "Mahakama ya Mwanzo, Mahakama ya Hakimu Mkazi, Mahakama Kuu, Mahakama ya Rufaa; Jaji, Hakimu, Mwendesha mashitaka, Wakili wa utetezi, Shahidi. (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Kesi za jinai huamuliwa na waganga wa kienyeji pekee. (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Mahakama ya Rufaa iko chini ya Mahakama ya Mwanzo. (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))",
-            "Wakili wa utetezi anawajibika kumfunga mteja wake gerezani bila kesi. (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu (U29))"
+            "Mahakama ya Mwanzo, Mahakama ya Hakimu Mkazi, Mahakama Kuu, Mahakama ya Rufaa; Jaji, Hakimu, Mwendesha mashitaka, Wakili wa utetezi, Shahidi. (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Kesi za jinai huamuliwa na waganga wa kienyeji pekee. (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Mahakama ya Rufaa iko chini ya Mahakama ya Mwanzo. (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)",
+            "Wakili wa utetezi anawajibika kumfunga mteja wake gerezani bila kesi. (Kuelewa na kutumia msamiati wa ngazi za mahakama Mahakama Kuu)"
           ],
           "answerIndex": 0,
           "explanation": "Ngazi za mahakama: Mwanzo, Hakimu Mkazi, Mahakama Kuu, Rufaa; Wahusika: Jaji, Hakimu, Mwendesha mashitaka, Wakili, Shahidi."
@@ -12197,10 +12197,10 @@
         {
           "prompt": "Haki ya kikatiba ya mtu anayetuhumiwa kwa kosa kufunguliwa dhamana wakati kesi yake ikiendelea mahakamani inaitwaje?",
           "options": [
-            "Haki ya dhamana (Kuelewa na kutumia msamiati wa haki za binadamu (U29))",
-            "Haki ya kutoza kodi (Kuelewa na kutumia msamiati wa haki za binadamu (U29))",
-            "Ushuru wa forodha (Kuelewa na kutumia msamiati wa haki za binadamu (U29))",
-            "Hati ya umiliki wa duka (Kuelewa na kutumia msamiati wa haki za binadamu (U29))"
+            "Haki ya dhamana (Kuelewa na kutumia msamiati wa haki za binadamu)",
+            "Haki ya kutoza kodi (Kuelewa na kutumia msamiati wa haki za binadamu)",
+            "Ushuru wa forodha (Kuelewa na kutumia msamiati wa haki za binadamu)",
+            "Hati ya umiliki wa duka (Kuelewa na kutumia msamiati wa haki za binadamu)"
           ],
           "answerIndex": 0,
           "explanation": "«Haki ya dhamana» (right to bail) inamhakikishia mtuhumiwa uhuru wa muda wakati akisubiri kesi yake."
@@ -12212,10 +12212,10 @@
         {
           "prompt": "Jiji gani la Afrika Mashariki lililopo nchini Tanzania ambalo ni makao makuu ya Mahakama ya Afrika ya Haki za Binadamu na Watu?",
           "options": [
-            "Arusha (Kuelewa na kutumia msamiati wa haki za binadamu (U29))",
-            "Mombasa (Kuelewa na kutumia msamiati wa haki za binadamu (U29))",
-            "Dodoma (Kuelewa na kutumia msamiati wa haki za binadamu (U29))",
-            "Zanzibar (Kuelewa na kutumia msamiati wa haki za binadamu (U29))"
+            "Arusha (Kuelewa na kutumia msamiati wa haki za binadamu)",
+            "Mombasa (Kuelewa na kutumia msamiati wa haki za binadamu)",
+            "Dodoma (Kuelewa na kutumia msamiati wa haki za binadamu)",
+            "Zanzibar (Kuelewa na kutumia msamiati wa haki za binadamu)"
           ],
           "answerIndex": 0,
           "explanation": "Jiji la «Arusha» ndilo makao makuu ya Mahakama ya Afrika ya Haki za Binadamu na Watu."
@@ -12229,9 +12229,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya haki za msingi za binadamu na vyombo vya sheria vya kimataifa katika Kiswahili:",
           "options": [
             "Haki ya kuishi, Uhuru wa maoni, Uhuru wa kukusanyika, Haki ya kusikilizwa, Haki ya dhamana; Tamko la Kimataifa (UDHR)",
-            "Haki za binadamu zinakataza watu wote kutoa maoni au kukusanyika kwa amani. (Kuelewa na kutumia msamiati wa haki za binadamu (U29))",
-            "Hakuna chombo chochote cha kikanda kinacholinda haki za binadamu barani Afrika. (Kuelewa na kutumia msamiati wa haki za binadamu (U29))",
-            "Watuhumiwa wote wanapaswa kuhukumiwa bila kusikilizwa mahakamani. (Kuelewa na kutumia msamiati wa haki za binadamu (U29))"
+            "Haki za binadamu zinakataza watu wote kutoa maoni au kukusanyika kwa amani. (Kuelewa na kutumia msamiati wa haki za binadamu)",
+            "Hakuna chombo chochote cha kikanda kinacholinda haki za binadamu barani Afrika. (Kuelewa na kutumia msamiati wa haki za binadamu)",
+            "Watuhumiwa wote wanapaswa kuhukumiwa bila kusikilizwa mahakamani. (Kuelewa na kutumia msamiati wa haki za binadamu)"
           ],
           "answerIndex": 0,
           "explanation": "Haki za msingi: Kuishi, Uhuru wa maoni, Kukusanyika, Kusikilizwa, Dhamana; Vyombo: UDHR, Mahakama ya Afrika Arusha."
@@ -12279,10 +12279,10 @@
         {
           "prompt": "Haki ya kisheria inayompa mwandishi au msanii umiliki wa kipekee juu ya kazi yake ya kiakili na kuzuia wengine kuinakili bila kibali inaitwaje?",
           "options": [
-            "Hakimiliki (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Kodi ya ongezeko la thamani (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Mkataba wa ajira ya muda (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Hati ya kusafiria (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))"
+            "Hakimiliki (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Kodi ya ongezeko la thamani (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Mkataba wa ajira ya muda (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Hati ya kusafiria (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)"
           ],
           "answerIndex": 0,
           "explanation": "«Hakimiliki» (copyright) ndiyo haki ya kisheria inayolinda kazi za kibunifu na kiakili."
@@ -12294,10 +12294,10 @@
         {
           "prompt": "Njia ya kisheria ya kumaliza mgogoro wa kibiashara nje ya mahakama kwa kutumia mtaalamu huru anayeamua shauri inaitwaje?",
           "options": [
-            "Usuluhishi / Upatanishi (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Mgomo wa wafanyakazi (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Uchunguzi wa kimaabara (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Doria ya askari wa wanyamapori (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))"
+            "Usuluhishi / Upatanishi (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Mgomo wa wafanyakazi (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Uchunguzi wa kimaabara (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Doria ya askari wa wanyamapori (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)"
           ],
           "answerIndex": 0,
           "explanation": "«Usuluhishi» na «upatanishi» (ADR) ndiyo mbinu rasmi za kutatua migogoro nje ya mfumo wa mahakama."
@@ -12310,10 +12310,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya maneno ya sheria za mikataba, hakimiliki na usuluhishi katika Kiswahili:",
           "options": [
-            "Mkataba halali, Vifungu vya mkataba, Uvunjifu wa mkataba, Fidia ya madhara, Hakimiliki, Hataza, Usuluhishi nje ya mahakama, Msuluhishi huru. (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Hakimiliki inaruhusu mtu yeyote kuiba kazi za wasanii bila adhabu. (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Mikataba ya kibiashara haipaswi kuwa na maandishi wala masharti yoyote. (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))",
-            "Usuluhishi nje ya mahakama unalenga kuwachapa viboko wafanyabiashara. (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara (U29))"
+            "Mkataba halali, Vifungu vya mkataba, Uvunjifu wa mkataba, Fidia ya madhara, Hakimiliki, Hataza, Usuluhishi nje ya mahakama, Msuluhishi huru. (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Hakimiliki inaruhusu mtu yeyote kuiba kazi za wasanii bila adhabu. (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Mikataba ya kibiashara haipaswi kuwa na maandishi wala masharti yoyote. (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)",
+            "Usuluhishi nje ya mahakama unalenga kuwachapa viboko wafanyabiashara. (Kuelewa na kutumia msamiati wa sheria za mikataba ya kibiashara)"
           ],
           "answerIndex": 0,
           "explanation": "Msamiati sahihi wa mikataba na ADR: Mkataba, Vifungu, Uvunjifu, Fidia, Hakimiliki, Hataza, Usuluhishi, Msuluhishi."
@@ -12362,9 +12362,9 @@
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za mfumo thabiti wa kisheria na haki katika taifa la kidemokrasia?",
           "options": [
             "Katiba na utawala wa sheria, ngazi huru za mahakama (madai na jinai)",
-            "Kufuta katiba yote na kuwanyang'anya wananchi haki zao (Kuunganisha mada zote za Unit 29 (U29))",
-            "Kufunga mahakama zote na kukataa mawakili wa utetezi (Kuunganisha mada zote za Unit 29 (U29))",
-            "Kuvunja mikataba ya kibiashara bila kulipa fidia yoyote (Kuunganisha mada zote za Unit 29 (U29))"
+            "Kufuta katiba yote na kuwanyang'anya wananchi haki zao (Kuunganisha mada zote za Unit 29)",
+            "Kufunga mahakama zote na kukataa mawakili wa utetezi (Kuunganisha mada zote za Unit 29)",
+            "Kuvunja mikataba ya kibiashara bila kulipa fidia yoyote (Kuunganisha mada zote za Unit 29)"
           ],
           "answerIndex": 0,
           "explanation": "Mfumo thabiti wa kisheria unajengwa kwa katiba, utawala wa sheria, mahakama huru, haki za binadamu, na mikataba/usuluhishi."
@@ -12376,10 +12376,10 @@
         {
           "prompt": "Sentensi ipi inajumuisha msamiati wa kikatiba, mahakama na haki za binadamu kwa usahihi wa kiwango cha C1?",
           "options": [
-            "Kwa mujibu wa katiba na sheria za nchi, mahakama inalinda haki za binadamu kwa kuhakikisha kuwa kila mtuhumiwa anapata kusikilizwa kwa haki. (Kuunganisha mada zote za Unit 29 (U29))",
-            "Katiba inamzuia mshitakiwa kupata wakili au shahidi mahakamani. (Kuunganisha mada zote za Unit 29 (U29))",
-            "Kesi zote za madai na jinai huamuliwa bila sheria wala ushahidi. (Kuunganisha mada zote za Unit 29 (U29))",
-            "Mahakama Kuu haina mamlaka ya kusikiliza mashauri yoyote ya kisheria. (Kuunganisha mada zote za Unit 29 (U29))"
+            "Kwa mujibu wa katiba na sheria za nchi, mahakama inalinda haki za binadamu kwa kuhakikisha kuwa kila mtuhumiwa anapata kusikilizwa kwa haki. (Kuunganisha mada zote za Unit 29)",
+            "Katiba inamzuia mshitakiwa kupata wakili au shahidi mahakamani. (Kuunganisha mada zote za Unit 29)",
+            "Kesi zote za madai na jinai huamuliwa bila sheria wala ushahidi. (Kuunganisha mada zote za Unit 29)",
+            "Mahakama Kuu haina mamlaka ya kusikiliza mashauri yoyote ya kisheria. (Kuunganisha mada zote za Unit 29)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inajumuisha maneno mahsusi ya C1: «kwa mujibu wa katiba», «mahakama inalinda haki za binadamu», «mtuhumiwa», na «kusikilizwa kwa haki»."
@@ -12392,10 +12392,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 29 ya Sheria, Katiba na Haki za Mahakama:",
           "options": [
-            "Kuanzia utawala wa sheria na mgawanyo wa madaraka chini ya katiba, usikilizwaji wa haki wa kesi za madai na jinai mahakamani, ulinzi wa haki za binadamu na hadhi ya Mahakama ya Afrika jijini Arusha, hadi mikataba ya kibiashara na usuluhishi nje ya mahakama, mfumo wa sheria unalinda utu, uhuru na ustawi wa jamii nzima. (Kuunganisha mada zote za Unit 29 (U29))",
-            "Sheria zote za Afrika Mashariki zilitungwa katika karne ya kwanza kabla ya Kristo. (Kuunganisha mada zote za Unit 29 (U29))",
-            "Hakuna mawakili wala majaji wanaozungumza lugha ya Kiswahili mahakamani. (Kuunganisha mada zote za Unit 29 (U29))",
-            "Lugha ya Kiswahili haiwezi kutumika kutafsiri katiba wala mikataba ya kimataifa. (Kuunganisha mada zote za Unit 29 (U29))"
+            "Kuanzia utawala wa sheria na mgawanyo wa madaraka chini ya katiba, usikilizwaji wa haki wa kesi za madai na jinai mahakamani, ulinzi wa haki za binadamu na hadhi ya Mahakama ya Afrika jijini Arusha, hadi mikataba ya kibiashara na usuluhishi nje ya mahakama, mfumo wa sheria unalinda utu, uhuru na ustawi wa jamii nzima. (Kuunganisha mada zote za Unit 29)",
+            "Sheria zote za Afrika Mashariki zilitungwa katika karne ya kwanza kabla ya Kristo. (Kuunganisha mada zote za Unit 29)",
+            "Hakuna mawakili wala majaji wanaozungumza lugha ya Kiswahili mahakamani. (Kuunganisha mada zote za Unit 29)",
+            "Lugha ya Kiswahili haiwezi kutumika kutafsiri katiba wala mikataba ya kimataifa. (Kuunganisha mada zote za Unit 29)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia utawala wa sheria na mgawanyo wa madaraka chini ya katiba, usikilizwaji wa haki wa kesi za madai na jinai mahakamani, ulinzi wa haki za binadamu na hadhi ya Mahakama ya Afrika jijini Arusha, hadi mikataba ya kibiashara na usuluhishi nje ya mahakama, mfumo wa sheria unalinda utu, uhuru na ustawi wa jamii nzima.» inajumuisha maarifa yote ya Unit 29 kwa ufasaha wa hali ya juu wa C1."
@@ -12443,10 +12443,10 @@
         {
           "prompt": "Mshororo wa mwisho katika ubeti wa shairi la kijadi unaojirudia rudia kutilia mkazo wazo kuu unaitwaje kwa Kiswahili?",
           "options": [
-            "Kibwagizo / Kituo (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Kichwa cha habari (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Mkataba wa bima (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Kanuni ya ngeli (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))"
+            "Kibwagizo / Kituo (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Kichwa cha habari (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Mkataba wa bima (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Kanuni ya ngeli (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)"
           ],
           "answerIndex": 0,
           "explanation": "«Kibwagizo» au «kituo» ndio mshororo unaojirudia mwishoni mwa kila ubeti wa shairi."
@@ -12458,10 +12458,10 @@
         {
           "prompt": "Uwezo wa mshairi wa kufupisha neno (inkisari) au kurefusha neno (mazida) ili kutosheleza urari wa mizani unaitwaje?",
           "options": [
-            "Uhuru wa kishairi (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Uchochezi wa kisiasa (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Uvunjifu wa mkataba (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Utawala wa sheria (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))"
+            "Uhuru wa kishairi (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Uchochezi wa kisiasa (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Uvunjifu wa mkataba (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Utawala wa sheria (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)"
           ],
           "answerIndex": 0,
           "explanation": "«Uhuru wa kishairi» humruhusu mshairi kurekebisha miundo ya maneno ili kukidhi arudhi."
@@ -12474,10 +12474,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya vipengele vya arudhi ya ushairi wa jadi katika Kiswahili:",
           "options": [
-            "Mizani, Vina vya ndani, Vina vya nje, Ukwapi, Utao, Mshororo, Ubeti, Kibwagizo, Inkisari, Mazida. (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Ushairi wa jadi hauna mizani wala vina vyovyote. (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Kibwagizo hutumiwa kupima urefu wa reli ya treni pekee. (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))",
-            "Mshororo unamaanisha duka la kuuzia vitabu vya shule. (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani (U30))"
+            "Mizani, Vina vya ndani, Vina vya nje, Ukwapi, Utao, Mshororo, Ubeti, Kibwagizo, Inkisari, Mazida. (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Ushairi wa jadi hauna mizani wala vina vyovyote. (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Kibwagizo hutumiwa kupima urefu wa reli ya treni pekee. (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)",
+            "Mshororo unamaanisha duka la kuuzia vitabu vya shule. (Kuelewa na kutumia msamiati wa arudhi ya ushairi wa kijadi wa Kiswahili mizani)"
           ],
           "answerIndex": 0,
           "explanation": "Vipengele vya arudhi: Mizani, Vina (ndani/nje), Ukwapi, Utao, Mshororo, Ubeti, Kibwagizo, Inkisari, Mazida."
@@ -12525,10 +12525,10 @@
         {
           "prompt": "Bahari ya ushairi ambapo kila ubeti unaundwa na mishororo minne inaitwaje kwa Kiswahili?",
           "options": [
-            "Tarbia (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))",
-            "Tathlitha (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))",
-            "Takhmisa (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))",
-            "Tasdisa (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))"
+            "Tarbia (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)",
+            "Tathlitha (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)",
+            "Takhmisa (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)",
+            "Tasdisa (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)"
           ],
           "answerIndex": 0,
           "explanation": "«Tarbia» ndiyo bahari ya ushairi yenye mishororo minne katika kila ubeti."
@@ -12540,10 +12540,10 @@
         {
           "prompt": "Mtindo wa ushairi ambapo wahusika wawili hubishana au kujibizana kwa beti za mashairi jukwaani unaitwaje?",
           "options": [
-            "Ngonjera (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))",
-            "Insha ya simulizi (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))",
-            "Tahariri ya gazeti (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))",
-            "Ripoti ya ukaguzi wa fedha (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))"
+            "Ngonjera (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)",
+            "Insha ya simulizi (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)",
+            "Tahariri ya gazeti (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)",
+            "Ripoti ya ukaguzi wa fedha (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)"
           ],
           "answerIndex": 0,
           "explanation": "«Ngonjera» ni sanaa ya ushairi wa majibizano ya kimjadala kati ya pande mbili."
@@ -12557,9 +12557,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya bahari na aina za ushairi wa Kiswahili:",
           "options": [
             "Tathlitha (mishororo 3)",
-            "Tarbia ina mishororo kumi na saba katika kila ubeti. (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))",
-            "Ngonjera ni aina ya ngoma inayochezwa bila maneno yoyote. (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))",
-            "Tenzi za Kiswahili ziliandikwa kwa lugha ya Kifaransa pekee. (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia (U30))"
+            "Tarbia ina mishororo kumi na saba katika kila ubeti. (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)",
+            "Ngonjera ni aina ya ngoma inayochezwa bila maneno yoyote. (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)",
+            "Tenzi za Kiswahili ziliandikwa kwa lugha ya Kifaransa pekee. (Kuelewa na kutumia msamiati wa bahari mbalimbali za ushairi tarbia)"
           ],
           "answerIndex": 0,
           "explanation": "Bahari sahihi: Tathlitha (3), Tarbia (4), Takhmisa (5), Tasdisa (6), Ngonjera (majibizano), Tenzi (masimulizi ya kishujaa)."
@@ -12607,10 +12607,10 @@
         {
           "prompt": "Mwandishi nguli wa Kiswahili aliyeanzisha mapinduzi ya ushairi huru (masivina) kupitia diwani yake ya 'Kichomi' anaitwaje?",
           "options": [
-            "Profesa Euphrase Kezilahabi (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))",
-            "Mfalme Suleiman (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))",
-            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))",
-            "Mganga wa hospitali (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))"
+            "Profesa Euphrase Kezilahabi (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)",
+            "Mfalme Suleiman (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)",
+            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)",
+            "Mganga wa hospitali (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)"
           ],
           "answerIndex": 0,
           "explanation": "«Profesa Euphrase Kezilahabi» ndiye aliyeanzisha ushairi huru wa Kiswahili."
@@ -12622,10 +12622,10 @@
         {
           "prompt": "Kundi la wasomi na washairi lililotetea kwamba ushairi sharti uwe na vina na mizani liliitwaje katika mgogoro wa ushairi?",
           "options": [
-            "Wanamapokeo (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))",
-            "Wafanyabiashara wa masoko (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))",
-            "Mawakili wa madai (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))",
-            "Wahandisi wa mitambo (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))"
+            "Wanamapokeo (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)",
+            "Wafanyabiashara wa masoko (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)",
+            "Mawakili wa madai (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)",
+            "Wahandisi wa mitambo (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)"
           ],
           "answerIndex": 0,
           "explanation": "«Wanamapokeo» ndilo jina la kundi lililotetea kufuata mapokeo ya jadi ya arudhi na vina."
@@ -12639,9 +12639,9 @@
           "prompt": "Chagua maelezo yaliyo sahihi kuhusu mgogoro wa arudhi katika ushairi wa Kiswahili:",
           "options": [
             "Wanamapokeo walitetea uzingatiaji wa arudhi (mizani na vina)",
-            "Kezilahabi aliamuru vitabu vyote vya mashairi vichomwe moto. (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))",
-            "Ushairi huru hauruhusiwi kutumia maneno ya Kiswahili. (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))",
-            "Wanamapokeo walikubali kufuta arudhi na vina vyote tangu mwaka 1970. (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko (U30))"
+            "Kezilahabi aliamuru vitabu vyote vya mashairi vichomwe moto. (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)",
+            "Ushairi huru hauruhusiwi kutumia maneno ya Kiswahili. (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)",
+            "Wanamapokeo walikubali kufuta arudhi na vina vyote tangu mwaka 1970. (Kuelewa na kutumia msamiati wa mgogoro wa ushairi wa miaka ya 1970 wanamapokeo dhidi ya wanausasawanamabadiliko)"
           ],
           "answerIndex": 0,
           "explanation": "Wanamapokeo walitetea arudhi na vina, huku Wanausasa wakitetea ushairi huru unaotegemea taswira na hisia bila pingu za arudhi."
@@ -12689,10 +12689,10 @@
         {
           "prompt": "Mwandishi nguli wa Tanga anayetambuliwa kama baba wa fasihi ya Kiswahili na mwandishi wa 'Pambo la Lugha' na 'Kielezo cha Fasihi' anaitwaje?",
           "options": [
-            "Shaaban Robert (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))",
-            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))",
-            "Mwindaji wa tembo (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))",
-            "Msimamizi wa forodha (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))"
+            "Shaaban Robert (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)",
+            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)",
+            "Mwindaji wa tembo (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)",
+            "Msimamizi wa forodha (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Shaaban Robert» ndiye mshairi na mwandishi mkuu anayeheshimika kama nguzo kuu ya fasihi ya Kiswahili."
@@ -12704,10 +12704,10 @@
         {
           "prompt": "Mshairi wa kihistoria wa Mombasa aliyeanzisha ushairi wa kijamii na kisiasa wa bahari ya tarbia anaitwaje?",
           "options": [
-            "Muyaka bin Haji al-Ghassany (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))",
-            "Vasco da Gama (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))",
-            "Ibn Battuta (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))",
-            "Sultan Seyyid Said (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))"
+            "Muyaka bin Haji al-Ghassany (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)",
+            "Vasco da Gama (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)",
+            "Ibn Battuta (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)",
+            "Sultan Seyyid Said (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Muyaka bin Haji» ndiye mshairi nguli wa Mombasa aliyeleta ushairi wa Kiswahili katika masuala ya jamii na siasa."
@@ -12721,9 +12721,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya washairi nguli wa Kiswahili na mchango wao wa kihistoria:",
           "options": [
             "Muyaka bin Haji (ushairi wa kijamii Mombasa)",
-            "Shaaban Robert alikataa kuandika chochote kwa lugha ya Kiswahili. (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))",
-            "Muyaka bin Haji aliishi katika karne ya ishirini na moja jijini London pekee. (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))",
-            "Mathias Mnyampala alipiga marufuku ushairi wote wa Kiswahili. (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili (U30))"
+            "Shaaban Robert alikataa kuandika chochote kwa lugha ya Kiswahili. (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)",
+            "Muyaka bin Haji aliishi katika karne ya ishirini na moja jijini London pekee. (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)",
+            "Mathias Mnyampala alipiga marufuku ushairi wote wa Kiswahili. (Kuelewa na kutumia msamiati wa kazi na falsafa za washairi nguli wa Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Washairi nguli: Muyaka bin Haji (Mombasa), Shaaban Robert (Utu na Lugha), Mathias Mnyampala (Ngonjera)."
@@ -12772,9 +12772,9 @@
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za sanaa na historia ya ushairi wa lugha ya Kiswahili?",
           "options": [
             "Kanuni za arudhi na vina, bahari mbalimbali za mashairi (tarbia na ngonjera)",
-            "Kukataa kusoma wala kutunga mashairi ya Kiswahili (Kuunganisha mada zote za Unit 30 (U30))",
-            "Kufuta maneno yote ya kishairi na kutumia namba za hisabati pekee (Kuunganisha mada zote za Unit 30 (U30))",
-            "Kupiga marufuku washairi wote wa pwani (Kuunganisha mada zote za Unit 30 (U30))"
+            "Kukataa kusoma wala kutunga mashairi ya Kiswahili (Kuunganisha mada zote za Unit 30)",
+            "Kufuta maneno yote ya kishairi na kutumia namba za hisabati pekee (Kuunganisha mada zote za Unit 30)",
+            "Kupiga marufuku washairi wote wa pwani (Kuunganisha mada zote za Unit 30)"
           ],
           "answerIndex": 0,
           "explanation": "Ushairi wa Kiswahili unajumuisha arudhi, bahari mbalimbali, ushairi huru, na urithi wa nguli kama Shaaban Robert na Muyaka."
@@ -12786,10 +12786,10 @@
         {
           "prompt": "Sentensi ipi inachanganya msamiati wa arudhi, bahari na ushairi huru kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Kuanzia urari wa mizani na vina katika bahari ya tarbia hadi uhuru wa kishairi katika diwani ya Kezilahabi, ushairi wa Kiswahili unaonyesha utajiri mkubwa wa kifasihi. (Kuunganisha mada zote za Unit 30 (U30))",
-            "Ushairi wa Kiswahili hauna uhusiano na lugha wala utamaduni wa Kiafrika. (Kuunganisha mada zote za Unit 30 (U30))",
-            "Washairi wote wa Kiswahili wamekatazwa kutumia vina wala taswira. (Kuunganisha mada zote za Unit 30 (U30))",
-            "Tarbia ni aina ya gari linalosafirisha mizigo bandarini. (Kuunganisha mada zote za Unit 30 (U30))"
+            "Kuanzia urari wa mizani na vina katika bahari ya tarbia hadi uhuru wa kishairi katika diwani ya Kezilahabi, ushairi wa Kiswahili unaonyesha utajiri mkubwa wa kifasihi. (Kuunganisha mada zote za Unit 30)",
+            "Ushairi wa Kiswahili hauna uhusiano na lugha wala utamaduni wa Kiafrika. (Kuunganisha mada zote za Unit 30)",
+            "Washairi wote wa Kiswahili wamekatazwa kutumia vina wala taswira. (Kuunganisha mada zote za Unit 30)",
+            "Tarbia ni aina ya gari linalosafirisha mizigo bandarini. (Kuunganisha mada zote za Unit 30)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inatumia istilahi mahsusi za C1: «urari wa mizani na vina», «bahari ya tarbia», «uhuru wa kishairi», «diwani ya Kezilahabi», na «utajiri mkubwa wa kifasihi»."
@@ -12802,10 +12802,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 30 ya Ushairi wa Kiswahili na Fasihi ya Ushairi:",
           "options": [
-            "Kuanzia muundo makini wa arudhi, urari wa mizani na vina vya ndani na nje katika bahari za tarbia na ngonjera, tenzi ndefu za kishujaa, mapinduzi ya ushairi huru ya Profesa Kezilahabi, hadi falsafa tukufu ya utu ya Shaaban Robert na Muyaka, ushairi wa Kiswahili unadhihirisha upeo wa juu kabisa wa ubunifu wa kisanaa na kifalsafa katika lugha za Kiafrika. (Kuunganisha mada zote za Unit 30 (U30))",
-            "Ushairi wote wa Kiswahili ulitoweka kabisa katika karne ya kumi na nane. (Kuunganisha mada zote za Unit 30 (U30))",
-            "Hakuna mshairi yeyote aliyewahi kuandika shairi la Kiswahili katika Afrika Mashariki. (Kuunganisha mada zote za Unit 30 (U30))",
-            "Lugha ya Kiswahili haina maneno ya kuunda vina wala kupima mizani ya kishairi. (Kuunganisha mada zote za Unit 30 (U30))"
+            "Kuanzia muundo makini wa arudhi, urari wa mizani na vina vya ndani na nje katika bahari za tarbia na ngonjera, tenzi ndefu za kishujaa, mapinduzi ya ushairi huru ya Profesa Kezilahabi, hadi falsafa tukufu ya utu ya Shaaban Robert na Muyaka, ushairi wa Kiswahili unadhihirisha upeo wa juu kabisa wa ubunifu wa kisanaa na kifalsafa katika lugha za Kiafrika. (Kuunganisha mada zote za Unit 30)",
+            "Ushairi wote wa Kiswahili ulitoweka kabisa katika karne ya kumi na nane. (Kuunganisha mada zote za Unit 30)",
+            "Hakuna mshairi yeyote aliyewahi kuandika shairi la Kiswahili katika Afrika Mashariki. (Kuunganisha mada zote za Unit 30)",
+            "Lugha ya Kiswahili haina maneno ya kuunda vina wala kupima mizani ya kishairi. (Kuunganisha mada zote za Unit 30)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia muundo makini wa arudhi, urari wa mizani na vina vya ndani na nje katika bahari za tarbia na ngonjera, tenzi ndefu za kishujaa, mapinduzi ya ushairi huru ya Profesa Kezilahabi, hadi falsafa tukufu ya utu ya Shaaban Robert na Muyaka, ushairi wa Kiswahili unadhihirisha upeo wa juu kabisa wa ubunifu wa kisanaa na kifalsafa katika lugha za Kiafrika.» inajumuisha maarifa yote ya Unit 30 kwa ufasaha wa hali ya juu wa C1."
@@ -12853,10 +12853,10 @@
         {
           "prompt": "Nguzo ya mtangamano wa kiuchumi wa Afrika Mashariki inayoruhusu uhuru wa kutembea kwa wafanyakazi, mitaji na huduma bila vizuizi inaitwaje?",
           "options": [
-            "Soko la Pamoja la Afrika Mashariki (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Kodi ya majengo ya manispaa (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Mkataba wa upangaji wa ofisi (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Leseni ya udereva wa pikipiki (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))"
+            "Soko la Pamoja la Afrika Mashariki (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Kodi ya majengo ya manispaa (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Mkataba wa upangaji wa ofisi (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Leseni ya udereva wa pikipiki (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)"
           ],
           "answerIndex": 0,
           "explanation": "«Soko la Pamoja» (Common Market) ndiyo itifaki inayotoa uhuru wa mzunguko wa nguvukazi, mitaji, bidhaa na huduma."
@@ -12868,10 +12868,10 @@
         {
           "prompt": "Vituo vya kisasa vilivyopo mipakani vinavyounganisha maafisa wa uhamiaji na forodha wa nchi mbili kwenye jengo moja ili kuharakisha biashara huitwaje?",
           "options": [
-            "Vituo vya Pamoja vya Ukaguzi wa Mpakani (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Masoko ya hisa na dhamana (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Vyuo vikuu vya ualimu (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Vituo vya kulelea watoto yatima (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))"
+            "Vituo vya Pamoja vya Ukaguzi wa Mpakani (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Masoko ya hisa na dhamana (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Vyuo vikuu vya ualimu (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Vituo vya kulelea watoto yatima (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)"
           ],
           "answerIndex": 0,
           "explanation": "«Vituo vya Pamoja vya Mpakani» (OSBP) ndiyo miundombinu inayounganisha forodha za nchi jirani ili kupunguza muda wa kuvuka mpaka."
@@ -12884,10 +12884,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya nguzo na dhana za mtangamano wa Jumuiya ya Afrika Mashariki (EAC):",
           "options": [
-            "Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa; Hati ya kusafiria ya Afrika Mashariki, Ushuru wa sufuri, Vituo vya pamoja mipakani. (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Jumuiya ya Afrika Mashariki inakataza kabisa nchi jirani kufanya biashara. (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Raia wa Afrika Mashariki hawaruhusiwi kusafiri kwenda nchi jirani. (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))",
-            "Umoja wa Forodha unalenga kufuta mipaka yote ya kijiografia kwa kutumia vita. (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC (U31))"
+            "Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa; Hati ya kusafiria ya Afrika Mashariki, Ushuru wa sufuri, Vituo vya pamoja mipakani. (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Jumuiya ya Afrika Mashariki inakataza kabisa nchi jirani kufanya biashara. (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Raia wa Afrika Mashariki hawaruhusiwi kusafiri kwenda nchi jirani. (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)",
+            "Umoja wa Forodha unalenga kufuta mipaka yote ya kijiografia kwa kutumia vita. (Kuelewa na kutumia msamiati wa mtangamano wa Jumuiya ya Afrika Mashariki EAC)"
           ],
           "answerIndex": 0,
           "explanation": "Nguzo za EAC: Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa; Dhana: Hati ya EAC, Ushuru wa sufuri, OSBP."
@@ -12935,10 +12935,10 @@
         {
           "prompt": "Bunge la kikanda la kutunga sheria kwa ajili ya nchi zote wanachama wa Jumuiya ya Afrika Mashariki lililopo Arusha linaitwaje?",
           "options": [
-            "Bunge la Afrika Mashariki - EALA (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))",
-            "Baraza la jiji la Dar es Salaam (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))",
-            "Halmashauri ya manispaa ya Kisumu (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))",
-            "Chama cha wakulima wa pamba (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))"
+            "Bunge la Afrika Mashariki - EALA (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)",
+            "Baraza la jiji la Dar es Salaam (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)",
+            "Halmashauri ya manispaa ya Kisumu (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)",
+            "Chama cha wakulima wa pamba (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)"
           ],
           "answerIndex": 0,
           "explanation": "«Bunge la Afrika Mashariki» (EALA) ndio mhimili mkuu wa kutunga sheria za Jumuiya ya Afrika Mashariki."
@@ -12950,10 +12950,10 @@
         {
           "prompt": "Hatua ya mwisho na ya kilele kabisa katika itifaki nne za mtangamano wa Jumuiya ya Afrika Mashariki inaitwaje?",
           "options": [
-            "Shirikisho la Kisiasa (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))",
-            "Mkataba wa mkopo wa benki (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))",
-            "Umoja wa wafanyabiashara wa soko (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))",
-            "Tamasha la ngoma za asili (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))"
+            "Shirikisho la Kisiasa (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)",
+            "Mkataba wa mkopo wa benki (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)",
+            "Umoja wa wafanyabiashara wa soko (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)",
+            "Tamasha la ngoma za asili (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)"
           ],
           "answerIndex": 0,
           "explanation": "«Shirikisho la Kisiasa» (Political Federation) ndiyo nguzo ya nne na ya mwisho ya mtangamano wa EAC."
@@ -12967,9 +12967,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya masuala ya Umoja wa Fedha na taasisi za kisiasa za Afrika Mashariki:",
           "options": [
             "Umoja wa Fedha (EAMU)",
-            "EALA iko jijini New York nchini Marekani pekee. (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))",
-            "Umoja wa Fedha unalenga kukataza matumizi ya pesa yoyote Afrika Mashariki. (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))",
-            "Shirikisho la Kisiasa halina bunge wala sheria zozote. (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU (U31))"
+            "EALA iko jijini New York nchini Marekani pekee. (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)",
+            "Umoja wa Fedha unalenga kukataza matumizi ya pesa yoyote Afrika Mashariki. (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)",
+            "Shirikisho la Kisiasa halina bunge wala sheria zozote. (Kuelewa na kutumia msamiati wa Umoja wa Fedha wa Afrika Mashariki EAMU)"
           ],
           "answerIndex": 0,
           "explanation": "Taasisi na nguzo sahihi: EAMU, Sarafu moja, Benki Kuu ya EAC, EALA (Arusha), na Shirikisho la Kisiasa."
@@ -13017,10 +13017,10 @@
         {
           "prompt": "Tarehe gani ya kila mwaka iliyotangazwa rasmi na UNESCO na Umoja wa Mataifa kuwa Siku ya Lugha ya Kiswahili Duniani?",
           "options": [
-            "Tarehe 7 Julai (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Tarehe 1 Januari (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Tarehe 25 Desemba (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Tarehe 1 Mei (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))"
+            "Tarehe 7 Julai (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Tarehe 1 Januari (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Tarehe 25 Desemba (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Tarehe 1 Mei (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "Tarehe «7 Julai» ndiyo Siku ya Kiswahili Duniani inayoadhimishwa rasmi kote ulimwenguni."
@@ -13032,10 +13032,10 @@
         {
           "prompt": "Jumuiya ya kikanda ya kusini mwa Afrika (SADC) ilitangaza Kiswahili kuwa lugha yake rasmi ya ngapi ya kazi?",
           "options": [
-            "Lugha ya nne rasmi ya kazi (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Lugha ya kwanza kabisa (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Lugha ya mwisho duniani (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Lugha ya siri ya majeshi (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))"
+            "Lugha ya nne rasmi ya kazi (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Lugha ya kwanza kabisa (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Lugha ya mwisho duniani (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Lugha ya siri ya majeshi (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "Kiswahili kilitangazwa kama «lugha ya nne rasmi ya kazi» katika SADC sambamba na Kiingereza, Kifaransa, na Kireno."
@@ -13048,10 +13048,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya mafanikio ya kidiplomasia ya lugha ya Kiswahili barani Afrika na duniani:",
           "options": [
-            "Lugha rasmi ya Umoja wa Afrika (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Kiswahili kinazungumzwa kwenye kisiwa kimoja kidogo tu kisicho na watu. (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Umoja wa Mataifa ulikataa kutambua lugha yoyote ya Kiafrika. (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))",
-            "Kiswahili hakitumiwi katika mikutano ya kimataifa ya kidiplomasia. (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa (U31))"
+            "Lugha rasmi ya Umoja wa Afrika (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Kiswahili kinazungumzwa kwenye kisiwa kimoja kidogo tu kisicho na watu. (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Umoja wa Mataifa ulikataa kutambua lugha yoyote ya Kiafrika. (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)",
+            "Kiswahili hakitumiwi katika mikutano ya kimataifa ya kidiplomasia. (Kuelewa na kutumia msamiati wa diplomasia ya kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "Mafanikio ya Kiswahili: Lugha rasmi ya AU, SADC, EAC; Siku ya Kiswahili Duniani (7 Julai); lugha kuu ya AfCFTA."
@@ -13099,10 +13099,10 @@
         {
           "prompt": "Afisa mkuu huru wa serikali anayehusika na ukaguzi wa mapato na matumizi ya fedha zote za umma na kutoa ripoti rasmi kwa bunge anaitwaje?",
           "options": [
-            "Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali - CAG (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "Meneja wa duka la nguo (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "Dereva wa basi la mkoa (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "Msimamizi wa bustani ya maua (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))"
+            "Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali - CAG (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "Meneja wa duka la nguo (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "Dereva wa basi la mkoa (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "Msimamizi wa bustani ya maua (Kuelewa na kutumia msamiati wa utawala bora good governance)"
           ],
           "answerIndex": 0,
           "explanation": "«Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali» (CAG) ndiye afisa mkuu wa kikatiba anayekagua fedha zote za umma."
@@ -13114,10 +13114,10 @@
         {
           "prompt": "Misingi mikuu ya utawala bora inayohitaji viongozi kuweka wazi mwenendo wa serikali na kubeba dhamana ya matendo yao inaitwaje?",
           "options": [
-            "Uwazi na Uwajibikaji (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "Ucheleweshaji wa kesi (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "Ubadhirifu wa mali (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "Urasimu usio na mwisho (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))"
+            "Uwazi na Uwajibikaji (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "Ucheleweshaji wa kesi (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "Ubadhirifu wa mali (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "Urasimu usio na mwisho (Kuelewa na kutumia msamiati wa utawala bora good governance)"
           ],
           "answerIndex": 0,
           "explanation": "«Uwazi na Uwajibikaji» ndizo nguzo pacha za utawala bora wa umma."
@@ -13130,10 +13130,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua maelezo yaliyo sahihi kuhusu utawala bora na mapambano dhidi ya rushwa:",
           "options": [
-            "Utawala bora unajumuisha uwazi, uwajibikaji, ushirikishwaji wa wananchi, ukaguzi huru wa CAG, na mapambano thabiti dhidi ya rushwa kupitia vyombo kama TAKUKURU. (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "Utawala bora unakataza wananchi kujua bajeti ya serikali. (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "CAG anahusika na kuuza tiketi za mechi za soka pekee. (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))",
-            "Rushwa inaruhusiwa kisheria katika utumishi wote wa umma. (Kuelewa na kutumia msamiati wa utawala bora good governance (U31))"
+            "Utawala bora unajumuisha uwazi, uwajibikaji, ushirikishwaji wa wananchi, ukaguzi huru wa CAG, na mapambano thabiti dhidi ya rushwa kupitia vyombo kama TAKUKURU. (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "Utawala bora unakataza wananchi kujua bajeti ya serikali. (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "CAG anahusika na kuuza tiketi za mechi za soka pekee. (Kuelewa na kutumia msamiati wa utawala bora good governance)",
+            "Rushwa inaruhusiwa kisheria katika utumishi wote wa umma. (Kuelewa na kutumia msamiati wa utawala bora good governance)"
           ],
           "answerIndex": 0,
           "explanation": "Utawala bora unajumuisha uwazi, uwajibikaji, ushirikishwaji wa umma, ukaguzi wa CAG, na taasisi za kuzuia rushwa."
@@ -13181,10 +13181,10 @@
         {
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za mtangamano wa Jumuiya ya Afrika Mashariki na diplomasia ya kikanda?",
           "options": [
-            "Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa, Bunge la EALA, na hadhi ya kimataifa ya Kiswahili katika AU na UNESCO (Kuunganisha mada zote za Unit 31 (U31))",
-            "Kufunga mipaka yote na kukataa biashara na nchi jirani (Kuunganisha mada zote za Unit 31 (U31))",
-            "Kupiga marufuku matumizi ya pasipoti zote za Afrika Mashariki (Kuunganisha mada zote za Unit 31 (U31))",
-            "Kufuta mikutano yote ya kidiplomasia ya Umoja wa Afrika (Kuunganisha mada zote za Unit 31 (U31))"
+            "Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa, Bunge la EALA, na hadhi ya kimataifa ya Kiswahili katika AU na UNESCO (Kuunganisha mada zote za Unit 31)",
+            "Kufunga mipaka yote na kukataa biashara na nchi jirani (Kuunganisha mada zote za Unit 31)",
+            "Kupiga marufuku matumizi ya pasipoti zote za Afrika Mashariki (Kuunganisha mada zote za Unit 31)",
+            "Kufuta mikutano yote ya kidiplomasia ya Umoja wa Afrika (Kuunganisha mada zote za Unit 31)"
           ],
           "answerIndex": 0,
           "explanation": "Mtangamano wa Afrika Mashariki unajumuisha Umoja wa Forodha, Soko la Pamoja, Umoja wa Fedha, Shirikisho la Kisiasa, EALA, na hadhi ya Kiswahili."
@@ -13196,10 +13196,10 @@
         {
           "prompt": "Sentensi ipi inachanganya msamiati wa mtangamano wa kikanda, diplomasia na utawala bora kwa ufasaha wa kiwango cha C2?",
           "options": [
-            "Kuanzia itifaki ya Soko la Pamoja na Umoja wa Forodha wa Afrika Mashariki hadi ripoti ya uwajibikaji ya CAG na hadhi ya Kiswahili katika Umoja wa Afrika, kanda hii inathibitisha uimara wa ushirikiano wa kidiplomasia. (Kuunganisha mada zote za Unit 31 (U31))",
-            "Afrika Mashariki haina taasisi yoyote ya forodha wala bunge la kikanda. (Kuunganisha mada zote za Unit 31 (U31))",
-            "Wafanyabiashara hawaruhusiwi kusafirisha bidhaa nje ya mkoa wao. (Kuunganisha mada zote za Unit 31 (U31))",
-            "Soko la Pamoja ni jina la duka la viatu mjini Dodoma. (Kuunganisha mada zote za Unit 31 (U31))"
+            "Kuanzia itifaki ya Soko la Pamoja na Umoja wa Forodha wa Afrika Mashariki hadi ripoti ya uwajibikaji ya CAG na hadhi ya Kiswahili katika Umoja wa Afrika, kanda hii inathibitisha uimara wa ushirikiano wa kidiplomasia. (Kuunganisha mada zote za Unit 31)",
+            "Afrika Mashariki haina taasisi yoyote ya forodha wala bunge la kikanda. (Kuunganisha mada zote za Unit 31)",
+            "Wafanyabiashara hawaruhusiwi kusafirisha bidhaa nje ya mkoa wao. (Kuunganisha mada zote za Unit 31)",
+            "Soko la Pamoja ni jina la duka la viatu mjini Dodoma. (Kuunganisha mada zote za Unit 31)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inajumuisha istilahi mahsusi za C2: «itifaki ya Soko la Pamoja», «Umoja wa Forodha», «ripoti ya uwajibikaji ya CAG», «hadhi ya Kiswahili katika Umoja wa Afrika», na «ushirikiano wa kidiplomasia»."
@@ -13212,10 +13212,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 31 ya Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki:",
           "options": [
-            "Kuanzia utekelezaji wa itifaki za Umoja wa Forodha na Soko la Pamoja, uanzishwaji wa sarafu moja chini ya Umoja wa Fedha, usimamizi wa sheria za Bunge la EALA jijini Arusha, utambuzi wa kimataifa wa Kiswahili katika Umoja wa Afrika na Umoja wa Mataifa, hadi ulinzi wa uwazi na uwajibikaji kupitia ripoti za CAG, mfumo wa utawala na diplomasia ya Afrika Mashariki unajenga mustakabali thabiti wa umoja na maendeleo ya kudumu barani Afrika. (Kuunganisha mada zote za Unit 31 (U31))",
-            "Nchi zote za Afrika Mashariki zilikataa kushirikiana katika jambo lolote la kiuchumi. (Kuunganisha mada zote za Unit 31 (U31))",
-            "Hakuna chombo chochote cha serikali kinachoruhusiwa kukagua matumizi ya fedha za umma. (Kuunganisha mada zote za Unit 31 (U31))",
-            "Lugha ya Kiswahili haijawahi kutambuliwa na chombo chochote cha kimataifa. (Kuunganisha mada zote za Unit 31 (U31))"
+            "Kuanzia utekelezaji wa itifaki za Umoja wa Forodha na Soko la Pamoja, uanzishwaji wa sarafu moja chini ya Umoja wa Fedha, usimamizi wa sheria za Bunge la EALA jijini Arusha, utambuzi wa kimataifa wa Kiswahili katika Umoja wa Afrika na Umoja wa Mataifa, hadi ulinzi wa uwazi na uwajibikaji kupitia ripoti za CAG, mfumo wa utawala na diplomasia ya Afrika Mashariki unajenga mustakabali thabiti wa umoja na maendeleo ya kudumu barani Afrika. (Kuunganisha mada zote za Unit 31)",
+            "Nchi zote za Afrika Mashariki zilikataa kushirikiana katika jambo lolote la kiuchumi. (Kuunganisha mada zote za Unit 31)",
+            "Hakuna chombo chochote cha serikali kinachoruhusiwa kukagua matumizi ya fedha za umma. (Kuunganisha mada zote za Unit 31)",
+            "Lugha ya Kiswahili haijawahi kutambuliwa na chombo chochote cha kimataifa. (Kuunganisha mada zote za Unit 31)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia utekelezaji wa itifaki za Umoja wa Forodha na Soko la Pamoja, uanzishwaji wa sarafu moja chini ya Umoja wa Fedha, usimamizi wa sheria za Bunge la EALA jijini Arusha, utambuzi wa kimataifa wa Kiswahili katika Umoja wa Afrika na Umoja wa Mataifa, hadi ulinzi wa uwazi na uwajibikaji kupitia ripoti za CAG, mfumo wa utawala na diplomasia ya Afrika Mashariki unajenga mustakabali thabiti wa umoja na maendeleo ya kudumu barani Afrika.» inajumuisha maarifa yote ya Unit 31 kwa ufasaha wa hali ya juu wa C2."
@@ -13263,10 +13263,10 @@
         {
           "prompt": "Sehemu ya tamthilia yenye msisimko wa juu kabisa ambapo mgogoro mkuu wa wahusika unafikia kilele inaitwaje kwa Kiswahili?",
           "options": [
-            "Kilele / Peo ya tamthilia (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))",
-            "Chumba cha kubadilishia nguo (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))",
-            "Mkataba wa upangaji nyumba (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))",
-            "Nyaraka ya forodha ya bandari (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))"
+            "Kilele / Peo ya tamthilia (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)",
+            "Chumba cha kubadilishia nguo (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)",
+            "Mkataba wa upangaji nyumba (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)",
+            "Nyaraka ya forodha ya bandari (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)"
           ],
           "answerIndex": 0,
           "explanation": "«Kilele» au «peo» (climax) ndiyo sehemu ya msuko ambapo mvutano wa wahusika unafikia upeo wake wa juu."
@@ -13278,10 +13278,10 @@
         {
           "prompt": "Maelezo ya mwandishi wa tamthilia yanayoelekeza waigizaji jinsi ya kutembea, kuonyesha hisia, na kutumia mandhari ya jukwaa huitwaje?",
           "options": [
-            "Maelekezo ya jukwaa (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))",
-            "Kanuni za ushuru wa forodha (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))",
-            "Mkataba wa bima ya afya (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))",
-            "Sheria ya kodi ya mapato (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))"
+            "Maelekezo ya jukwaa (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)",
+            "Kanuni za ushuru wa forodha (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)",
+            "Mkataba wa bima ya afya (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)",
+            "Sheria ya kodi ya mapato (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)"
           ],
           "answerIndex": 0,
           "explanation": "«Maelekezo ya jukwaa» (stage directions) huongoza utendaji wa waigizaji na mpangilio wa mandhari."
@@ -13295,9 +13295,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya vipengele vya kimuundo vya tamthilia ya Kiswahili:",
           "options": [
             "Msuko (utangulizi, mgogoro, kilele/peo, suluhu)",
-            "Tamthilia ya Kiswahili haina wahusika wala maneno ya jukwaani. (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))",
-            "Kilele cha tamthilia ni mahali pa kuuzia mboga sokoni. (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))",
-            "Maelekezo ya jukwaa yanatumika kuendeshea mitambo ya viwandani pekee. (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho (U32))"
+            "Tamthilia ya Kiswahili haina wahusika wala maneno ya jukwaani. (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)",
+            "Kilele cha tamthilia ni mahali pa kuuzia mboga sokoni. (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)",
+            "Maelekezo ya jukwaa yanatumika kuendeshea mitambo ya viwandani pekee. (Kuelewa na kutumia msamiati wa uchambuzi wa tamthilia na sanaa ya maonyesho)"
           ],
           "answerIndex": 0,
           "explanation": "Vipengele vya tamthilia: Msuko, Mgogoro, Kilele/Peo, Suluhu, Wahusika, Mandhari, Maelekezo ya jukwaa, Majadiliano, na Monolojia."
@@ -13345,10 +13345,10 @@
         {
           "prompt": "Tamthilia ya kihistoria ya Profesa Ebrahim Hussein inayochambua Vita vya Maji Maji na mgogoro kati ya 'neno' na 'kitendo' inaitwaje?",
           "options": [
-            "Kinjeketile (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))",
-            "Kielezo cha Fasihi (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))",
-            "Mkataba wa Biashara (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))",
-            "Sheria ya Maji (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))"
+            "Kinjeketile (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)",
+            "Kielezo cha Fasihi (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)",
+            "Mkataba wa Biashara (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)",
+            "Sheria ya Maji (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)"
           ],
           "answerIndex": 0,
           "explanation": "«Kinjeketile» ndiyo tamthilia maarufu ya kihistoria ya Ebrahim Hussein inayochambua Vita vya Maji Maji."
@@ -13360,10 +13360,10 @@
         {
           "prompt": "Katika tamthilia ya 'Mashetani', wahusika wakuu Juma na Kitaru wanawakilisha nini katika jamii ya baada ya uhuru?",
           "options": [
-            "Migogoro ya kitabaka, kisaikolojia na athari za ukoloni mamboleo (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))",
-            "Wafanyabiashara wawili wa duka la nafaka (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))",
-            "Madaktari wa mifugo vijijini (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))",
-            "Wachezaji wa mpira wa miguu (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))"
+            "Migogoro ya kitabaka, kisaikolojia na athari za ukoloni mamboleo (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)",
+            "Wafanyabiashara wawili wa duka la nafaka (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)",
+            "Madaktari wa mifugo vijijini (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)",
+            "Wachezaji wa mpira wa miguu (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)"
           ],
           "answerIndex": 0,
           "explanation": "Juma na Kitaru wanawakilisha «migogoro ya kitabaka, kisaikolojia na athari za ukoloni mamboleo» katika jamii."
@@ -13377,9 +13377,9 @@
           "prompt": "Chagua maelezo yaliyo sahihi kuhusu mchango wa Ebrahim Hussein katika fasihi ya Kiswahili:",
           "options": [
             "Ebrahim Hussein alileta mapinduzi ya tamthilia ya kifalsafa na kisaikolojia kupitia kazi bora kama 'Kinjeketile' (Vita vya Maji Maji)",
-            "Hussein alikataa kabisa kutumia lugha ya Kiswahili katika kazi zake. (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))",
-            "Kinjeketile ni jina la meli inayofanya kazi ziwani Victoria pekee. (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))",
-            "Mashetani inahusu mchezo wa sarakasi bila maneno yoyote. (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein (U32))"
+            "Hussein alikataa kabisa kutumia lugha ya Kiswahili katika kazi zake. (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)",
+            "Kinjeketile ni jina la meli inayofanya kazi ziwani Victoria pekee. (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)",
+            "Mashetani inahusu mchezo wa sarakasi bila maneno yoyote. (Kuelewa na kutumia msamiati wa kazi za kifalsafa na kihistoria za Profesa Ebrahim Hussein)"
           ],
           "answerIndex": 0,
           "explanation": "Hussein alianzisha tamthilia za kifalsafa na kisaikolojia kama 'Kinjeketile' na 'Mashetani'."
@@ -13427,10 +13427,10 @@
         {
           "prompt": "Mbinu ya kutumia sanaa ya maigizo kama chombo cha ushirikishwaji wa jamii katika kutatua matatizo ya maendeleo (TfD) iliasisiwa na msomi gani nguli?",
           "options": [
-            "Profesa Penina Mlama / Mhando (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))",
-            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))",
-            "Mchimba dhahabu (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))",
-            "Fundi wa magari (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))"
+            "Profesa Penina Mlama / Mhando (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)",
+            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)",
+            "Mchimba dhahabu (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)",
+            "Fundi wa magari (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)"
           ],
           "answerIndex": 0,
           "explanation": "«Profesa Penina Mlama» ndiye msomi na mwandishi nguli aliyeasisi Sanaa ya Maigizo kwa Maendeleo (TfD)."
@@ -13442,10 +13442,10 @@
         {
           "prompt": "Tamthilia ya 'Lina Ubani' ya Penina Mlama inakosoa nini katika jamii ya miaka ya 1980?",
           "options": [
-            "Ubadhirifu wa rasilimali za umma, ufisadi wa viongozi, na athari za uhaba wa kiuchumi (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))",
-            "Ujenzi wa vyoo vya shule (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))",
-            "Kilimo cha miti ya matunda (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))",
-            "Uchimbaji wa visima vya maji (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))"
+            "Ubadhirifu wa rasilimali za umma, ufisadi wa viongozi, na athari za uhaba wa kiuchumi (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)",
+            "Ujenzi wa vyoo vya shule (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)",
+            "Kilimo cha miti ya matunda (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)",
+            "Uchimbaji wa visima vya maji (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)"
           ],
           "answerIndex": 0,
           "explanation": "«Lina Ubani» inakemea ubadhirifu wa mali za umma, ubinafsi wa viongozi, na uhaba wa kiuchumi."
@@ -13459,9 +13459,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya mchango na kazi za Profesa Penina Mlama:",
           "options": [
             "Mwanzilishi wa Sanaa ya Maigizo kwa Maendeleo (TfD)",
-            "Penina Mlama alipiga marufuku ngoma na hadithi zote za Kiafrika. (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))",
-            "Lina Ubani ni aina ya dawa ya kikohozi inayouzwa madukani pekee. (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))",
-            "Theatre for Development inakataza wananchi kushiriki katika maigizo. (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando (U32))"
+            "Penina Mlama alipiga marufuku ngoma na hadithi zote za Kiafrika. (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)",
+            "Lina Ubani ni aina ya dawa ya kikohozi inayouzwa madukani pekee. (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)",
+            "Theatre for Development inakataza wananchi kushiriki katika maigizo. (Kuelewa na kutumia msamiati wa mchango wa Profesa Penina Mlama Mhando)"
           ],
           "answerIndex": 0,
           "explanation": "Mchango wa Penina Mlama: TfD, 'Lina Ubani', 'Paukwa Pakawa', na utumiaji wa sanaa za asili jukwaani."
@@ -13509,10 +13509,10 @@
         {
           "prompt": "Mwandishi nguli wa Kizanzibari aliyeandika riwaya maarufu za 'Utengano', 'Asali Chungu' na 'Dunia Mti Mkavu' anaitwaje?",
           "options": [
-            "Profesa Said Ahmed Mohamed (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))",
-            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))",
-            "Mwindaji wa tembo (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))",
-            "Mlinzi wa forodha (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))"
+            "Profesa Said Ahmed Mohamed (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)",
+            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)",
+            "Mwindaji wa tembo (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)",
+            "Mlinzi wa forodha (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)"
           ],
           "answerIndex": 0,
           "explanation": "«Profesa Said Ahmed Mohamed» ndiye mwandishi nguli wa riwaya za uhakiki wa kijamii na ufeministi kama vile Utengano na Asali Chungu."
@@ -13524,10 +13524,10 @@
         {
           "prompt": "Riwaya pacha za Profesa Euphrase Kezilahabi zilizotumia mtindo wa uhalisia wa kiajabu (magical realism) kuchunguza falsafa ya maisha huitwaje?",
           "options": [
-            "Nagona na Mzingile (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))",
-            "Kamusi na Daftari (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))",
-            "Simu na Redio (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))",
-            "Treni na Reli (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))"
+            "Nagona na Mzingile (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)",
+            "Kamusi na Daftari (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)",
+            "Simu na Redio (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)",
+            "Treni na Reli (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)"
           ],
           "answerIndex": 0,
           "explanation": "«Nagona na Mzingile» ndizo riwaya maarufu za kifalsafa na uhalisia wa kiajabu za Kezilahabi."
@@ -13541,9 +13541,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya waandishi wakuu wa riwaya za Kiswahili na kazi zao za kifalsafa:",
           "options": [
             "Said Ahmed Mohamed ('Utengano', 'Asali Chungu', 'Dunia Mti Mkavu')",
-            "Kezilahabi aliandika vitabu vya kemia na fizikia pekee. (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))",
-            "Said Ahmed Mohamed alikataa kuandika riwaya zozote kuhusu haki za wanawake. (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))",
-            "Rosa Mistika ni jina la meli ya kitalii ya Marekani. (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii (U32))"
+            "Kezilahabi aliandika vitabu vya kemia na fizikia pekee. (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)",
+            "Said Ahmed Mohamed alikataa kuandika riwaya zozote kuhusu haki za wanawake. (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)",
+            "Rosa Mistika ni jina la meli ya kitalii ya Marekani. (Kuelewa na kutumia msamiati wa riwaya za kifalsafa na uhakiki wa jamii)"
           ],
           "answerIndex": 0,
           "explanation": "Waandishi wakuu wa riwaya za Kiswahili: Said Ahmed Mohamed (Utengano, Asali Chungu) na Euphrase Kezilahabi (Rosa Mistika, Nagona, Mzingile)."
@@ -13591,10 +13591,10 @@
         {
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za tamthilia na riwaya za kisasa za lugha ya Kiswahili?",
           "options": [
-            "Muundo wa jukwaa na msuko, tamthilia za kifalsafa za Ebrahim Hussein, Sanaa ya Maigizo kwa Maendeleo ya Penina Mlama, na riwaya za kijamii za Said Ahmed Mohamed na Kezilahabi (Kuunganisha mada zote za Unit 32 (U32))",
-            "Kukataza kusoma riwaya wala kuangalia maigizo jukwaani (Kuunganisha mada zote za Unit 32 (U32))",
-            "Kufuta waandishi wote wa kike katika fasihi ya Kiswahili (Kuunganisha mada zote za Unit 32 (U32))",
-            "Kufunga kumbi zote za maigizo na vyuo vikuu (Kuunganisha mada zote za Unit 32 (U32))"
+            "Muundo wa jukwaa na msuko, tamthilia za kifalsafa za Ebrahim Hussein, Sanaa ya Maigizo kwa Maendeleo ya Penina Mlama, na riwaya za kijamii za Said Ahmed Mohamed na Kezilahabi (Kuunganisha mada zote za Unit 32)",
+            "Kukataza kusoma riwaya wala kuangalia maigizo jukwaani (Kuunganisha mada zote za Unit 32)",
+            "Kufuta waandishi wote wa kike katika fasihi ya Kiswahili (Kuunganisha mada zote za Unit 32)",
+            "Kufunga kumbi zote za maigizo na vyuo vikuu (Kuunganisha mada zote za Unit 32)"
           ],
           "answerIndex": 0,
           "explanation": "Fasihi andishi inajumuisha muundo wa jukwaa, kazi za Ebrahim Hussein, Penina Mlama, na riwaya za Said Ahmed Mohamed na Kezilahabi."
@@ -13606,10 +13606,10 @@
         {
           "prompt": "Sentensi ipi inachanganya msamiati wa tamthilia ya jukwaani na riwaya ya kifalsafa kwa ufasaha wa kiwango cha C2?",
           "options": [
-            "Kuanzia maelekezo ya jukwaa na migogoro ya kisaikolojia katika tamthilia za Hussein hadi uhalisia wa kiajabu katika riwaya za Kezilahabi, fasihi ya Kiswahili inaonyesha upeo mkubwa wa kifalsafa. (Kuunganisha mada zote za Unit 32 (U32))",
-            "Tamthilia na riwaya za Kiswahili hazina uhusiano na jamii wala fikra za kibinadamu. (Kuunganisha mada zote za Unit 32 (U32))",
-            "Waandishi wa Kiswahili wamekatazwa kutumia wahusika wala lugha ya kishairi. (Kuunganisha mada zote za Unit 32 (U32))",
-            "Msuko ni jina la chakula cha mchana kwenye mgahawa wa jiji. (Kuunganisha mada zote za Unit 32 (U32))"
+            "Kuanzia maelekezo ya jukwaa na migogoro ya kisaikolojia katika tamthilia za Hussein hadi uhalisia wa kiajabu katika riwaya za Kezilahabi, fasihi ya Kiswahili inaonyesha upeo mkubwa wa kifalsafa. (Kuunganisha mada zote za Unit 32)",
+            "Tamthilia na riwaya za Kiswahili hazina uhusiano na jamii wala fikra za kibinadamu. (Kuunganisha mada zote za Unit 32)",
+            "Waandishi wa Kiswahili wamekatazwa kutumia wahusika wala lugha ya kishairi. (Kuunganisha mada zote za Unit 32)",
+            "Msuko ni jina la chakula cha mchana kwenye mgahawa wa jiji. (Kuunganisha mada zote za Unit 32)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inajumuisha istilahi mahsusi za C2: «maelekezo ya jukwaa», «migogoro ya kisaikolojia», «tamthilia za Hussein», «uhalisia wa kiajabu», na «riwaya za Kezilahabi»."
@@ -13623,9 +13623,9 @@
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 32 ya Tamthilia ya Kiswahili, Fasihi Andishi na Riwaya:",
           "options": [
             "Kuanzia utendaji makini wa jukwaani, muundo wa msuko na maelekezo ya kimazingira, drama nzito ya kifalsafa na kihistoria ya Profesa Ebrahim Hussein katika 'Kinjeketile' na 'Mashetani', Sanaa ya Maigizo kwa Maendeleo (TfD)",
-            "Fasihi yote andishi ya Kiswahili ilifutwa katika karne ya kumi na tisa. (Kuunganisha mada zote za Unit 32 (U32))",
-            "Hakuna mwandishi yeyote aliyewahi kuandika riwaya au tamthilia kwa lugha ya Kiswahili. (Kuunganisha mada zote za Unit 32 (U32))",
-            "Lugha ya Kiswahili haina maneno yanayoweza kueleza migogoro ya kisaikolojia jukwaani. (Kuunganisha mada zote za Unit 32 (U32))"
+            "Fasihi yote andishi ya Kiswahili ilifutwa katika karne ya kumi na tisa. (Kuunganisha mada zote za Unit 32)",
+            "Hakuna mwandishi yeyote aliyewahi kuandika riwaya au tamthilia kwa lugha ya Kiswahili. (Kuunganisha mada zote za Unit 32)",
+            "Lugha ya Kiswahili haina maneno yanayoweza kueleza migogoro ya kisaikolojia jukwaani. (Kuunganisha mada zote za Unit 32)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia utendaji makini wa jukwaani, muundo wa msuko na maelekezo ya kimazingira, drama nzito ya kifalsafa na kihistoria ya Profesa Ebrahim Hussein katika 'Kinjeketile' na 'Mashetani', Sanaa ya Maigizo kwa Maendeleo (TfD) ya Profesa Penina Mlama katika 'Lina Ubani', hadi uhakiki mpana wa kijamii na uhalisia wa kiajabu katika riwaya za Said Ahmed Mohamed na Euphrase Kezilahabi, fasihi andishi ya Kiswahili inathibitisha upeo wa juu kabisa wa usanifu wa kifasihi, kiakili na kijamii barani Afrika na duniani kote.» inajumuisha maarifa yote ya Unit 32 kwa ufasaha wa hali ya juu wa C2."
@@ -13673,10 +13673,10 @@
         {
           "prompt": "Falsafa ya asili ya Kiafrika inayofundisha kuwa mtu anakuwa mtu kamili kupitia uhusiano na ushirikiano wake na watu wengine inaitwaje?",
           "options": [
-            "Falsafa ya Utu / Ubuntu (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Uchumi wa masoko ya hisa (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Mkataba wa mkopo wa benki (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Mfumo wa ushuru wa forodha (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))"
+            "Falsafa ya Utu / Ubuntu (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Uchumi wa masoko ya hisa (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Mkataba wa mkopo wa benki (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Mfumo wa ushuru wa forodha (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)"
           ],
           "answerIndex": 0,
           "explanation": "«Falsafa ya Utu» au «Ubuntu» ndiyo nguzo kuu ya maadili ya Kiafrika inayomweka binadamu na mshikamano wa jamii mbele."
@@ -13688,10 +13688,10 @@
         {
           "prompt": "Katika utamaduni wa Kiswahili, maneno gani hutumiwa kueleza tabia ya mtu anayejali wenzake na kuheshimu utu wa kila binadamu?",
           "options": [
-            "Mwenye utu na ukarimu (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Mwenye ubadhirifu na choyo (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Mwenye kiburi na majivuno (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Mwenye kukaidi sheria (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))"
+            "Mwenye utu na ukarimu (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Mwenye ubadhirifu na choyo (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Mwenye kiburi na majivuno (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Mwenye kukaidi sheria (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)"
           ],
           "answerIndex": 0,
           "explanation": "«Mwenye utu na ukarimu» ndiye anayeakisi misingi ya juu ya maadili ya jamii ya Waswahili."
@@ -13704,10 +13704,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua maelezo yaliyo sahihi kuhusu falsafa ya Utu na Ubuntu:",
           "options": [
-            "Falsafa ya Utu inasisitiza kuwa heshima, huruma na thamani ya mwanadamu inakamilika kupitia mshikamano wa kijamii na uwajibikaji kwa wengine badala ya ubinafsi. (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Falsafa ya Utu inahimiza watu wote kuwa na choyo na kuishi peke yao msituni. (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Ubuntu ni aina ya chombo cha anga za juu kisichotumia mafuta. (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))",
-            "Utu unamaanisha kuuza vitu vya dukani kwa bei ghali pekee. (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu (U33))"
+            "Falsafa ya Utu inasisitiza kuwa heshima, huruma na thamani ya mwanadamu inakamilika kupitia mshikamano wa kijamii na uwajibikaji kwa wengine badala ya ubinafsi. (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Falsafa ya Utu inahimiza watu wote kuwa na choyo na kuishi peke yao msituni. (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Ubuntu ni aina ya chombo cha anga za juu kisichotumia mafuta. (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)",
+            "Utu unamaanisha kuuza vitu vya dukani kwa bei ghali pekee. (Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu Ubuntu)"
           ],
           "answerIndex": 0,
           "explanation": "Utu na Ubuntu vinasisitiza heshima, huruma, mshikamano wa jamii na uwajibikaji kwa wengine."
@@ -13755,10 +13755,10 @@
         {
           "prompt": "Hati ya kihistoria ya mwaka 1967 iliyotangaza rasmi misingi ya falsafa ya Ujamaa na Kujitegemea na miiko ya uongozi nchini Tanzania inaitwaje?",
           "options": [
-            "Azimio la Arusha (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))",
-            "Mkataba wa biashara ya kimataifa (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))",
-            "Sheria ya ushuru wa bidhaa (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))",
-            "Leseni ya uvuvi wa baharini (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))"
+            "Azimio la Arusha (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)",
+            "Mkataba wa biashara ya kimataifa (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)",
+            "Sheria ya ushuru wa bidhaa (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)",
+            "Leseni ya uvuvi wa baharini (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)"
           ],
           "answerIndex": 0,
           "explanation": "«Azimio la Arusha» (1967) ndiyo hati kuu ya kifalsafa iliyoongoza sera ya Ujamaa na Kujitegemea."
@@ -13771,9 +13771,9 @@
           "prompt": "Tamthilia gani za Kiingereza za William Shakespeare zilizotafsiriwa kwa Kiswahili na Mwalimu Julius Nyerere?",
           "options": [
             "Juliasi Kaizari (Julius Caesar)",
-            "Kamusi Kuu na Mwongozo wa Sarufi (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))",
-            "Hadithi za Sungura na Fisi (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))",
-            "Majarida ya Biashara ya Kimataifa (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))"
+            "Kamusi Kuu na Mwongozo wa Sarufi (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)",
+            "Hadithi za Sungura na Fisi (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)",
+            "Majarida ya Biashara ya Kimataifa (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)"
           ],
           "answerIndex": 0,
           "explanation": "Nyerere alitafsiri «Juliasi Kaizari» na «Mabepari wa Venisi» kwa ufasaha wa hali ya juu wa lugha ya Kiswahili."
@@ -13787,9 +13787,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya misingi ya falsafa ya Ujamaa na mchango wa Mwalimu Nyerere:",
           "options": [
             "Ujamaa na Kujitegemea (Azimio la Arusha 1967)",
-            "Nyerere alikataza watu wote kufanya kazi na kuamuru wakae bila shughuli yoyote. (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))",
-            "Azimio la Arusha lilihusu kuagiza magari ya kifahari kutoka Ulaya pekee. (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))",
-            "Shakespeare alikuwa mwanafunzi wa shule ya msingi Butiama. (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha (U33))"
+            "Nyerere alikataza watu wote kufanya kazi na kuamuru wakae bila shughuli yoyote. (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)",
+            "Azimio la Arusha lilihusu kuagiza magari ya kifahari kutoka Ulaya pekee. (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)",
+            "Shakespeare alikuwa mwanafunzi wa shule ya msingi Butiama. (Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere Azimio la Arusha)"
           ],
           "answerIndex": 0,
           "explanation": "Misingi ya Ujamaa na Nyerere: Azimio la Arusha 1967, usawa, kazi ni kipimo cha utu, miiko ya uongozi, na tafsiri za Shakespeare."
@@ -13837,10 +13837,10 @@
         {
           "prompt": "Methali ya Kiswahili inayomaanisha kuwa ukweli ulio wazi kabisa hauwezi kufichika kwa hila zozote ni ipi?",
           "options": [
-            "Konzi ya maji haifumbiki (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))",
-            "Chakula cha jioni kimeiva (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))",
-            "Mvua inanyesha sana (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))",
-            "Gari limenunuliwa leo (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))"
+            "Konzi ya maji haifumbiki (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)",
+            "Chakula cha jioni kimeiva (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)",
+            "Mvua inanyesha sana (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)",
+            "Gari limenunuliwa leo (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)"
           ],
           "answerIndex": 0,
           "explanation": "«Konzi ya maji haifumbiki» ina maana kuwa ukweli ulio dhahiri hauwezi kufichwa wala kubadilishwa."
@@ -13852,10 +13852,10 @@
         {
           "prompt": "Methali 'Mchimba kisima humwingia mwenyewe' inatoa fundisho gani kwa jamii?",
           "options": [
-            "Mtu anayewapangia wenzake mitego na hila huishia kuangamia yeye mwenyewe (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))",
-            "Kila mchimba visima ni mhandisi wa maji (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))",
-            "Kunywa maji mengi ni afya nzuri (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))",
-            "Mchanga wa pwani unafaa kwa ujenzi (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))"
+            "Mtu anayewapangia wenzake mitego na hila huishia kuangamia yeye mwenyewe (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)",
+            "Kila mchimba visima ni mhandisi wa maji (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)",
+            "Kunywa maji mengi ni afya nzuri (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)",
+            "Mchanga wa pwani unafaa kwa ujenzi (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)"
           ],
           "answerIndex": 0,
           "explanation": "«Mchimba kisima humwingia mwenyewe» huonya kuwa hila au mitego unayomwekea mwenzako itakurudia wewe mwenyewe."
@@ -13869,9 +13869,9 @@
           "prompt": "Chagua maelezo yaliyo sahihi kuhusu methali na mafumbo ya lugha ya Kiswahili:",
           "options": [
             "Methali za Kiswahili (kama 'Mtaka cha mvunguni sharti ainame', 'Nazi mbovu harabu ya nzima', 'Konzi ya maji haifumbiki')",
-            "Methali zote za Kiswahili zilibuniwa na wageni kutoka Ulaya pekee. (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))",
-            "Hakuna methali yoyote ya Kiswahili inayozungumzia subira wala kazi. (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))",
-            "Konzi ya maji inamaanisha ndoo ya kuoshea vyombo. (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani (U33))"
+            "Methali zote za Kiswahili zilibuniwa na wageni kutoka Ulaya pekee. (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)",
+            "Hakuna methali yoyote ya Kiswahili inayozungumzia subira wala kazi. (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)",
+            "Konzi ya maji inamaanisha ndoo ya kuoshea vyombo. (Kuelewa na kutumia methali ngumu na za kina za Kiswahili methali za pwani)"
           ],
           "answerIndex": 0,
           "explanation": "Methali za Kiswahili hubeba falsafa nzito ya maadili, subira, hadhari, na hekima za asili."
@@ -13919,10 +13919,10 @@
         {
           "prompt": "Uwezo wa kiakili wa kuchambua taarifa kwa kina, kupima ushahidi, na kufikia uamuzi bila kuathiriwa na ushabiki au hisia unaitwaje?",
           "options": [
-            "Fikra tunduizi / Fikra pevu (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Urasimu wa ofisi (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Mkataba wa bima (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Leseni ya biashara (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))"
+            "Fikra tunduizi / Fikra pevu (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Urasimu wa ofisi (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Mkataba wa bima (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Leseni ya biashara (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)"
           ],
           "answerIndex": 0,
           "explanation": "«Fikra tunduizi» ndiyo stadi ya kuchunguza na kupima hoja kwa kina na kwa ukweli."
@@ -13934,10 +13934,10 @@
         {
           "prompt": "Hitilafu au kasoro katika ujenzi wa hoja inayofanya hitimisho liwe batili au lisilo na mashiko inaitwaje katika mantiki?",
           "options": [
-            "Dosari ya kimantiki (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Cheti cha kuzaliwa (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Kadi ya benki (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Tiketi ya basi (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))"
+            "Dosari ya kimantiki (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Cheti cha kuzaliwa (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Kadi ya benki (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Tiketi ya basi (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)"
           ],
           "answerIndex": 0,
           "explanation": "«Dosari ya kimantiki» (logical fallacy) ndiyo kasoro inayoharibu uhalali wa hoja katika mjadala."
@@ -13950,10 +13950,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua maelezo yaliyo sahihi kuhusu fikra tunduizi na mantiki ya kitaaluma:",
           "options": [
-            "Fikra tunduizi inajumuisha ujenzi wa hoja zenye mashiko, matumizi ya data na ushahidi wa kisayansi, upembuzi yakinifu wa nadharia, na utambuzi wa dosari za kimantiki. (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Fikra tunduizi inamaanisha kukubali kila kitu unachosikia bila kuuliza swali lolote. (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Mantiki ya kisomi inaruhusu kutumia matusi badala ya hoja katika mdahalo. (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))",
-            "Dosari ya kimantiki ni jina la dawa ya kuua wadudu mashambani. (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking (U33))"
+            "Fikra tunduizi inajumuisha ujenzi wa hoja zenye mashiko, matumizi ya data na ushahidi wa kisayansi, upembuzi yakinifu wa nadharia, na utambuzi wa dosari za kimantiki. (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Fikra tunduizi inamaanisha kukubali kila kitu unachosikia bila kuuliza swali lolote. (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Mantiki ya kisomi inaruhusu kutumia matusi badala ya hoja katika mdahalo. (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)",
+            "Dosari ya kimantiki ni jina la dawa ya kuua wadudu mashambani. (Kuelewa na kutumia msamiati wa fikra tunduizi critical thinking)"
           ],
           "answerIndex": 0,
           "explanation": "Fikra tunduizi inajumuisha hoja zenye mashiko, ushahidi wa kisayansi, upembuzi yakinifu, na utambuzi wa dosari za kimantiki."
@@ -14001,10 +14001,10 @@
         {
           "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za falsafa, hekima na fikra za kimantiki katika lugha ya Kiswahili?",
           "options": [
-            "Falsafa ya Utu na Ubuntu, Ujamaa na Kujitegemea wa Nyerere, methali nzito za pwani, na fikra tunduizi na mantiki ya kisomi (Kuunganisha mada zote za Unit 33 (U33))",
-            "Kukataa kujadili masuala ya kimaadili wala kufikiri kwa kina (Kuunganisha mada zote za Unit 33 (U33))",
-            "Kufuta methali zote za jadi za pwani (Kuunganisha mada zote za Unit 33 (U33))",
-            "Kupiga marufuku midahalo yote ya kitaaluma vyuoni (Kuunganisha mada zote za Unit 33 (U33))"
+            "Falsafa ya Utu na Ubuntu, Ujamaa na Kujitegemea wa Nyerere, methali nzito za pwani, na fikra tunduizi na mantiki ya kisomi (Kuunganisha mada zote za Unit 33)",
+            "Kukataa kujadili masuala ya kimaadili wala kufikiri kwa kina (Kuunganisha mada zote za Unit 33)",
+            "Kufuta methali zote za jadi za pwani (Kuunganisha mada zote za Unit 33)",
+            "Kupiga marufuku midahalo yote ya kitaaluma vyuoni (Kuunganisha mada zote za Unit 33)"
           ],
           "answerIndex": 0,
           "explanation": "Falsafa ya Kiswahili inajumuisha Utu, Ujamaa, methali za pwani, na fikra tunduizi za kisomi."
@@ -14016,10 +14016,10 @@
         {
           "prompt": "Sentensi ipi inachanganya msamiati wa falsafa ya Utu, Ujamaa na fikra tunduizi kwa ufasaha wa kiwango cha C2?",
           "options": [
-            "Kuanzia falsafa ya Utu na misingi ya Ujamaa wa Mwalimu Nyerere hadi matumizi ya fikra tunduizi na methali za pwani, Kiswahili kinadhihirisha utajiri wa hali ya juu wa kifikra na kimaadili. (Kuunganisha mada zote za Unit 33 (U33))",
-            "Kiswahili hakina dhana yoyote ya falsafa wala hoja za kimantiki. (Kuunganisha mada zote za Unit 33 (U33))",
-            "Mwalimu Nyerere alikataza watu wote kutumia methali za Kiswahili. (Kuunganisha mada zote za Unit 33 (U33))",
-            "Ubuntu ni neno linalomaanisha kununua samaki sokoni. (Kuunganisha mada zote za Unit 33 (U33))"
+            "Kuanzia falsafa ya Utu na misingi ya Ujamaa wa Mwalimu Nyerere hadi matumizi ya fikra tunduizi na methali za pwani, Kiswahili kinadhihirisha utajiri wa hali ya juu wa kifikra na kimaadili. (Kuunganisha mada zote za Unit 33)",
+            "Kiswahili hakina dhana yoyote ya falsafa wala hoja za kimantiki. (Kuunganisha mada zote za Unit 33)",
+            "Mwalimu Nyerere alikataza watu wote kutumia methali za Kiswahili. (Kuunganisha mada zote za Unit 33)",
+            "Ubuntu ni neno linalomaanisha kununua samaki sokoni. (Kuunganisha mada zote za Unit 33)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inajumuisha istilahi mahsusi za C2: «falsafa ya Utu», «misingi ya Ujamaa», «fikra tunduizi», «methali za pwani», na «utajiri wa kifikra na kimaadili»."
@@ -14032,10 +14032,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 33 ya Falsafa ya Kiswahili, Methali Ngumu na Misemo ya Kina:",
           "options": [
-            "Kuanzia misingi thabiti ya falsafa ya Utu na Ubuntu inayomweka mwanadamu na mshikamano wa jamii katikati ya ustaarabu, nadharia ya Ujamaa na Kujitegemea ya Mwalimu Julius Nyerere, kina kirefu cha hekima na maonyo katika methali na mafumbo ya pwani, hadi ujenzi makini wa hoja za kimantiki kupitia fikra tunduizi, lugha ya Kiswahili inathibitisha upeo wa juu kabisa wa uwezo wa kifikra, kimaadili na kistadi wa kimataifa. (Kuunganisha mada zote za Unit 33 (U33))",
-            "Falsafa ya Kiswahili ilianza na kuishia katika karne ya kumi na tisa. (Kuunganisha mada zote za Unit 33 (U33))",
-            "Hakuna mwanazuoni yeyote aliyewahi kufundisha falsafa au mantiki kwa lugha ya Kiswahili. (Kuunganisha mada zote za Unit 33 (U33))",
-            "Methali zote za Kiswahili hazina maana yoyote ya kimantiki wala kimaadili. (Kuunganisha mada zote za Unit 33 (U33))"
+            "Kuanzia misingi thabiti ya falsafa ya Utu na Ubuntu inayomweka mwanadamu na mshikamano wa jamii katikati ya ustaarabu, nadharia ya Ujamaa na Kujitegemea ya Mwalimu Julius Nyerere, kina kirefu cha hekima na maonyo katika methali na mafumbo ya pwani, hadi ujenzi makini wa hoja za kimantiki kupitia fikra tunduizi, lugha ya Kiswahili inathibitisha upeo wa juu kabisa wa uwezo wa kifikra, kimaadili na kistadi wa kimataifa. (Kuunganisha mada zote za Unit 33)",
+            "Falsafa ya Kiswahili ilianza na kuishia katika karne ya kumi na tisa. (Kuunganisha mada zote za Unit 33)",
+            "Hakuna mwanazuoni yeyote aliyewahi kufundisha falsafa au mantiki kwa lugha ya Kiswahili. (Kuunganisha mada zote za Unit 33)",
+            "Methali zote za Kiswahili hazina maana yoyote ya kimantiki wala kimaadili. (Kuunganisha mada zote za Unit 33)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia misingi thabiti ya falsafa ya Utu na Ubuntu inayomweka mwanadamu na mshikamano wa jamii katikati ya ustaarabu, nadharia ya Ujamaa na Kujitegemea ya Mwalimu Julius Nyerere, kina kirefu cha hekima na maonyo katika methali na mafumbo ya pwani, hadi ujenzi makini wa hoja za kimantiki kupitia fikra tunduizi, lugha ya Kiswahili inathibitisha upeo wa juu kabisa wa uwezo wa kifikra, kimaadili na kistadi wa kimataifa.» inajumuisha maarifa yote ya Unit 33 kwa ufasaha wa hali ya juu wa C2."
@@ -14083,10 +14083,10 @@
         {
           "prompt": "Nadharia ya kifasihi inayochambua namna kazi za sanaa zinavyopinga athari za ukoloni na kujenga upya utambulisho na heshima ya Mwafrika inaitwaje?",
           "options": [
-            "Nadharia ya Ubaada-Ukoloni (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))",
-            "Mwongozo wa safari za ndege (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))",
-            "Mkataba wa upangaji nyumba (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))",
-            "Kanuni za usalama barabarani (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))"
+            "Nadharia ya Ubaada-Ukoloni (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)",
+            "Mwongozo wa safari za ndege (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)",
+            "Mkataba wa upangaji nyumba (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)",
+            "Kanuni za usalama barabarani (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)"
           ],
           "answerIndex": 0,
           "explanation": "«Nadharia ya Ubaada-Ukoloni» inachunguza uhuru wa kifikra, utamaduni na utambulisho baada ya ukoloni."
@@ -14098,10 +14098,10 @@
         {
           "prompt": "Nadharia ya Umarx katika uhakiki wa riwaya za Kiswahili inatilia mkazo kipengele gani kikuu?",
           "options": [
-            "Migogoro ya kitabaka na unyonyaji wa kiuchumi (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))",
-            "Bei ya unga sokoni leo (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))",
-            "Hali ya hewa ya mwezi ujao (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))",
-            "Rangi za nguo za mhusika (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))"
+            "Migogoro ya kitabaka na unyonyaji wa kiuchumi (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)",
+            "Bei ya unga sokoni leo (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)",
+            "Hali ya hewa ya mwezi ujao (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)",
+            "Rangi za nguo za mhusika (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)"
           ],
           "answerIndex": 0,
           "explanation": "Nadharia ya Umarx inachambua mfumo wa uzalishaji mali, unyonyaji, na migogoro ya kitabaka."
@@ -14115,9 +14115,9 @@
           "prompt": "Chagua orodha iliyo sahihi ya nadharia kuu za uhakiki wa fasihi ya Kiswahili:",
           "options": [
             "Umuundo (mfumo wa lugha na ishara)",
-            "Hakuna nadharia yoyote inayoweza kutumika kuchambua fasihi ya Kiswahili. (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))",
-            "Ubaada-Ukoloni unamaanisha kupenda kutawaliwa na wageni daima. (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))",
-            "Umuundo ni jina la meli ya mizigo inayotoka Mombasa. (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories (U34))"
+            "Hakuna nadharia yoyote inayoweza kutumika kuchambua fasihi ya Kiswahili. (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)",
+            "Ubaada-Ukoloni unamaanisha kupenda kutawaliwa na wageni daima. (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)",
+            "Umuundo ni jina la meli ya mizigo inayotoka Mombasa. (Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi literary criticism theories)"
           ],
           "answerIndex": 0,
           "explanation": "Nadharia kuu za uhakiki: Umuundo, Umarx, na Ubaada-Ukoloni."
@@ -14165,10 +14165,10 @@
         {
           "prompt": "Mfumo wa kijamii unaomkandamiza mwanamke na kumpa mwanamume mamlaka yote ya maamuzi na umiliki wa mali unaitwaje katika uhakiki wa kifeministi?",
           "options": [
-            "Mfumo dume (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Chama cha ushirika wa mazao (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Mfumo wa benki ya posta (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Shirika la ndege za abiria (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))"
+            "Mfumo dume (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Chama cha ushirika wa mazao (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Mfumo wa benki ya posta (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Shirika la ndege za abiria (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Mfumo dume» (patriarchy) ndio muundo wa kijamii unaokosolewa na nadharia ya ufeministi kwa kuwanyima wanawake usawa."
@@ -14180,10 +14180,10 @@
         {
           "prompt": "Mwandishi nguli wa kike wa Kizanzibari aliyeandika riwaya maarufu za 'Mwisho wa Kosa' na 'Mali ya Maskini' anaitwaje?",
           "options": [
-            "Zainab Burhani (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Mwindaji wa simba (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Mhasibu wa kiwanda (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))"
+            "Zainab Burhani (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Nahodha wa jahazi (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Mwindaji wa simba (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Mhasibu wa kiwanda (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "«Zainab Burhani» ndiye mwandishi maarufu wa riwaya za kike zilizochambua maisha ya wanawake wa pwani."
@@ -14196,10 +14196,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua maelezo yaliyo sahihi kuhusu uhakiki wa kifeministi katika fasihi ya Kiswahili:",
           "options": [
-            "Uhakiki wa kifeministi unapambana na mfumo dume, unapinga mila kandamizi, na unatetea ukombozi kamili wa mwanamke kiuchumi, kisiasa na kisheria kupitia kazi za waandishi kama Zainab Burhani na Penina Mlama. (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Ufeministi unakataza wanawake kusoma vitabu au kuandika insha za fasihi. (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Mfumo dume ndio mpango pekee unaoruhusiwa kutumika katika uandishi wa vitabu. (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))",
-            "Zainab Burhani alikuwa daktari wa meno asiyejua lugha ya Kiswahili. (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili (U34))"
+            "Uhakiki wa kifeministi unapambana na mfumo dume, unapinga mila kandamizi, na unatetea ukombozi kamili wa mwanamke kiuchumi, kisiasa na kisheria kupitia kazi za waandishi kama Zainab Burhani na Penina Mlama. (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Ufeministi unakataza wanawake kusoma vitabu au kuandika insha za fasihi. (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Mfumo dume ndio mpango pekee unaoruhusiwa kutumika katika uandishi wa vitabu. (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)",
+            "Zainab Burhani alikuwa daktari wa meno asiyejua lugha ya Kiswahili. (Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili)"
           ],
           "answerIndex": 0,
           "explanation": "Uhakiki wa kifeministi unapambana na mfumo dume, unapinga mila kandamizi na kutetea ukombozi wa mwanamke."
@@ -14247,10 +14247,10 @@
         {
           "prompt": "Sehemu ya tasnifu inayoeleza kwa kina pengo la kimaarifa lililopo ambalo utafiti unakusudia kulitatua inaitwaje?",
           "options": [
-            "Tatizo la utafiti / Tamko la tatizo (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Orodha ya bei za maduka (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Jedwali la namba za simu (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Mkataba wa ajira ya ofisi (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))"
+            "Tatizo la utafiti / Tamko la tatizo (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Orodha ya bei za maduka (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Jedwali la namba za simu (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Mkataba wa ajira ya ofisi (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)"
           ],
           "answerIndex": 0,
           "explanation": "«Tatizo la utafiti» (statement of the problem) ndiyo sehemu inayobainisha pengo la kitaaluma linalotafitiwa."
@@ -14262,10 +14262,10 @@
         {
           "prompt": "Katika uandishi wa tasnifu ya kiakademia, orodha kamili ya vitabu na makala zilizosomwa na kunukuliwa katika andiko huitwaje?",
           "options": [
-            "Marejeleo / Orodha ya machapisho (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Stakabadhi ya malipo ya benki (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Hati ya kiapo ya mahakama (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Kadi ya mwaliko wa arusi (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))"
+            "Marejeleo / Orodha ya machapisho (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Stakabadhi ya malipo ya benki (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Hati ya kiapo ya mahakama (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Kadi ya mwaliko wa arusi (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)"
           ],
           "answerIndex": 0,
           "explanation": "«Marejeleo» ndiyo orodha ya maandiko yote yaliyotumiwa na kunukuliwa katika utafiti wa kitaaluma."
@@ -14278,10 +14278,10 @@
           "type": "multiple-choice",
           "prompt": "Chagua orodha iliyo sahihi ya muundo wa tasnifu ya kitaaluma ya lugha ya Kiswahili:",
           "options": [
-            "Usuli wa utafiti, tatizo la utafiti, malengo na maswali, mapitio ya machapisho, mbinu za utafiti, mjadala wa matokeo, hitimisho, na orodha ya marejeleo. (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Tasnifu ya kiakademia inapaswa kuwa na picha za katuni pekee bila maneno. (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Utafiti wa kitaaluma hauruhusu kutumia marejeleo yoyote ya vitabu. (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))",
-            "Mapitio ya machapisho yanamaanisha kuangalia magazeti ya michezo jioni. (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations (U34))"
+            "Usuli wa utafiti, tatizo la utafiti, malengo na maswali, mapitio ya machapisho, mbinu za utafiti, mjadala wa matokeo, hitimisho, na orodha ya marejeleo. (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Tasnifu ya kiakademia inapaswa kuwa na picha za katuni pekee bila maneno. (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Utafiti wa kitaaluma hauruhusu kutumia marejeleo yoyote ya vitabu. (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)",
+            "Mapitio ya machapisho yanamaanisha kuangalia magazeti ya michezo jioni. (Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu dissertations)"
           ],
           "answerIndex": 0,
           "explanation": "Muundo wa tasnifu: Usuli, tatizo, malengo, mapitio ya machapisho, mbinu, matokeo, na marejeleo."
@@ -14329,10 +14329,10 @@
         {
           "prompt": "Tarehe ipi ya kila mwaka iliyotangazwa rasmi na UNESCO kuwa Siku ya Kiswahili Duniani kote?",
           "options": [
-            "Tarehe 7 Julai (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))",
-            "Tarehe 1 Januari (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))",
-            "Tarehe 25 Desemba (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))",
-            "Tarehe 1 Mei (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))"
+            "Tarehe 7 Julai (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)",
+            "Tarehe 1 Januari (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)",
+            "Tarehe 25 Desemba (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)",
+            "Tarehe 1 Mei (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "«Tarehe 7 Julai» ndiyo Siku ya Kiswahili Duniani inayoadhimishwa kimataifa na UNESCO."
@@ -14344,10 +14344,10 @@
         {
           "prompt": "Mashirika gani makuu ya kimataifa na kikanda yaliyopitisha Kiswahili kuwa lugha rasmi ya kazi?",
           "options": [
-            "Umoja wa Afrika (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))",
-            "Klabu ya mpira wa miguu ya mtaa (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))",
-            "Chama cha wakulima wa kijiji (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))",
-            "Soko la samaki la wilaya (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))"
+            "Umoja wa Afrika (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)",
+            "Klabu ya mpira wa miguu ya mtaa (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)",
+            "Chama cha wakulima wa kijiji (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)",
+            "Soko la samaki la wilaya (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "Kiswahili ni lugha rasmi ya kazi ya Umoja wa Afrika (AU), Jumuiya ya Afrika Mashariki (EAC), na SADC."
@@ -14361,9 +14361,9 @@
           "prompt": "Chagua maelezo yaliyo sahihi kuhusu hadhi ya kimataifa ya lugha ya Kiswahili:",
           "options": [
             "Kiswahili ni lugha rasmi ya kazi ya Umoja wa Afrika na EAC, inatambuliwa na UNESCO kupitia Siku ya Kiswahili Duniani (Julai 7)",
-            "Kiswahili kinazungumzwa na watu watatu pekee katika kisiwa kidogo. (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))",
-            "UNESCO ilipiga marufuku matumizi ya Kiswahili katika mikutano ya kimataifa. (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))",
-            "Hakuna chuo kikuu chochote duniani kinachofundisha lugha ya Kiswahili. (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa (U34))"
+            "Kiswahili kinazungumzwa na watu watatu pekee katika kisiwa kidogo. (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)",
+            "UNESCO ilipiga marufuku matumizi ya Kiswahili katika mikutano ya kimataifa. (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)",
+            "Hakuna chuo kikuu chochote duniani kinachofundisha lugha ya Kiswahili. (Kuelewa na kutumia msamiati wa sera za lugha za kimataifa)"
           ],
           "answerIndex": 0,
           "explanation": "Kiswahili kina hadhi rasmi katika AU, EAC, UNESCO (Julai 7), na vyuo vikuu zaidi ya 150 duniani."
@@ -14411,10 +14411,10 @@
         {
           "prompt": "Mchanganyiko upi unawakilisha kilele cha safari nzima ya miaka 1000 ya lugha, fasihi na ustaarabu wa Kiswahili?",
           "options": [
-            "Misingi ya Kibantu na ngeli 18, fonolojia ya pwani, ushairi wa arudhi wa kale na wa kisasa, tamthilia na riwaya za kifalsafa, falsafa ya Utu na Ujamaa, na hadhi ya kimataifa ya UNESCO (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))",
-            "Kufuta mtaala mzima wa lugha ya Kiswahili (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))",
-            "Kukataza kuzungumza Kiswahili katika mikutano ya kimataifa (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))",
-            "Kufunga idara zote za vyuo vikuu vya Afrika Mashariki (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))"
+            "Misingi ya Kibantu na ngeli 18, fonolojia ya pwani, ushairi wa arudhi wa kale na wa kisasa, tamthilia na riwaya za kifalsafa, falsafa ya Utu na Ujamaa, na hadhi ya kimataifa ya UNESCO (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)",
+            "Kufuta mtaala mzima wa lugha ya Kiswahili (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)",
+            "Kukataza kuzungumza Kiswahili katika mikutano ya kimataifa (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)",
+            "Kufunga idara zote za vyuo vikuu vya Afrika Mashariki (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)"
           ],
           "answerIndex": 0,
           "explanation": "Lugha ya Kiswahili inajumuisha ngeli 18 za Kibantu, ushairi wa kale na wa kisasa, riwaya na tamthilia, falsafa ya Utu, na hadhi ya UNESCO."
@@ -14426,10 +14426,10 @@
         {
           "prompt": "Sentensi ipi inawakilisha kilele cha umahiri wa kiisimu, kifasihi na kitamaduni wa kiwango cha C2 kwa lugha ya Kiswahili?",
           "options": [
-            "Kuanzia utajiri wa ngeli za Kibantu na ushairi wa Muyaka hadi riwaya za Kezilahabi na hadhi ya UNESCO, Kiswahili kinasimama kama mnara thabiti wa hekima na ustaarabu wa kimataifa. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))",
-            "Kiswahili hakina historia wala fasihi yoyote iliyoandikwa. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))",
-            "Waswahili hawana methali wala tamthilia za jukwaani. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))",
-            "Julai 7 ni siku ya kawaida isiyo na umuhimu wowote. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))"
+            "Kuanzia utajiri wa ngeli za Kibantu na ushairi wa Muyaka hadi riwaya za Kezilahabi na hadhi ya UNESCO, Kiswahili kinasimama kama mnara thabiti wa hekima na ustaarabu wa kimataifa. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)",
+            "Kiswahili hakina historia wala fasihi yoyote iliyoandikwa. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)",
+            "Waswahili hawana methali wala tamthilia za jukwaani. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)",
+            "Julai 7 ni siku ya kawaida isiyo na umuhimu wowote. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)"
           ],
           "answerIndex": 0,
           "explanation": "Sentensi inajumuisha muhtasari kamili wa ngeli za Kibantu, ushairi, riwaya, na hadhi ya kimataifa ya UNESCO."
@@ -14443,9 +14443,9 @@
           "prompt": "Chagua tamko kuu la mwisho linalothibitisha kukamilika kwa mafanikio kwa masomo yote 170 ya mtaala wa Kiswahili (Kiwango cha A1 hadi C2):",
           "options": [
             "Kuanzia misingi imara ya sarufi ya Kibantu na mfumo wa ngeli 18, urithi mkuu wa kihistoria wa pwani ya Bahari ya Hindi, utajiri wa ushairi wa kale wa Fumo Liyongo, Muyaka na Shaaban Robert, tamthilia nzito za kifalsafa za Ebrahim Hussein na Penina Mlama, riwaya za kijamii na uhalisia wa kiajabu za Said Ahmed Mohamed na Euphrase Kezilahabi, falsafa tukufu ya Utu, Ubuntu na Ujamaa wa Mwalimu Julius Nyerere, hadi kutambuliwa kileleni na UNESCO kupitia Siku ya Kiswahili Duniani (Julai 7)",
-            "Mtaala wa Kiswahili umefutwa na haupo tena. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))",
-            "Hakuna mwanafunzi anayeweza kujifunza Kiswahili hadi kiwango cha C2. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))",
-            "Lugha ya Kiswahili haina maneno ya kutosha kueleza sayansi wala falsafa. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34 (U34))"
+            "Mtaala wa Kiswahili umefutwa na haupo tena. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)",
+            "Hakuna mwanafunzi anayeweza kujifunza Kiswahili hadi kiwango cha C2. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)",
+            "Lugha ya Kiswahili haina maneno ya kutosha kueleza sayansi wala falsafa. (Kuunganisha mtaala mzima wa lugha ya Kiswahili Unit 1 hadi 34)"
           ],
           "answerIndex": 0,
           "explanation": "«Kuanzia misingi imara ya sarufi ya Kibantu na mfumo wa ngeli 18, urithi mkuu wa kihistoria wa pwani ya Bahari ya Hindi, utajiri wa ushairi wa kale wa Fumo Liyongo, Muyaka na Shaaban Robert, tamthilia nzito za kifalsafa za Ebrahim Hussein na Penina Mlama, riwaya za kijamii na uhalisia wa kiajabu za Said Ahmed Mohamed na Euphrase Kezilahabi, falsafa tukufu ya Utu, Ubuntu na Ujamaa wa Mwalimu Julius Nyerere, hadi kutambuliwa kileleni na UNESCO kupitia Siku ya Kiswahili Duniani (Julai 7) na Umoja wa Afrika kama lugha rasmi ya kazi, mtaala huu unathibitisha umahiri wa kiwango cha juu kabisa cha uzamili na ubingwa wa lugha, fasihi na ustaarabu wa Kiswahili duniani kote!» inathibitisha umahiri wa mwisho wa masomo yote 170 ya Kiswahili."

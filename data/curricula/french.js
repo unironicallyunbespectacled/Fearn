@@ -524,10 +524,10 @@
         {
           "prompt": "What is the function of the Cédille (ç) diacritic in French words like «français» and «garçon»?",
           "options": [
-            "It softens the \"C\" to a voiceless (Master the 26letter French alphabet (U1))",
-            "It makes the letter \"C\" silent (Master the 26letter French alphabet (U1))",
-            "It turns the \"C\" into a \"K\" sound (Master the 26letter French alphabet (U1))",
-            "It marks a stressed syllable (Master the 26letter French alphabet (U1))"
+            "It softens the \"C\" to a voiceless (Master the 26letter French alphabet)",
+            "It makes the letter \"C\" silent (Master the 26letter French alphabet)",
+            "It turns the \"C\" into a \"K\" sound (Master the 26letter French alphabet)",
+            "It marks a stressed syllable (Master the 26letter French alphabet)"
           ],
           "answerIndex": 0,
           "explanation": "La cédille (ç) softens the \"c\" to an \"s\" sound before the back vowels a, o, u."
@@ -535,10 +535,10 @@
         {
           "prompt": "In the French informal greeting «salut» (hi/bye), how is the final letter «-t» pronounced?",
           "options": [
-            "It is completely silent (Master the 26letter French alphabet (U1))",
-            "It is pronounced as a hard \"T\" (Master the 26letter French alphabet (U1))",
-            "It is pronounced as \"S\" (Master the 26letter French alphabet (U1))",
-            "It is rolled (Master the 26letter French alphabet (U1))"
+            "It is completely silent (Master the 26letter French alphabet)",
+            "It is pronounced as a hard \"T\" (Master the 26letter French alphabet)",
+            "It is pronounced as \"S\" (Master the 26letter French alphabet)",
+            "It is rolled (Master the 26letter French alphabet)"
           ],
           "answerIndex": 0,
           "explanation": "Final consonants like -t in «salut» are silent in standard French."
@@ -550,10 +550,10 @@
         {
           "prompt": "Which French accent mark indicates that two adjacent vowels are pronounced separately (as in «Noël»)?",
           "options": [
-            "Le Tréma (Master the 26letter French alphabet (U1))",
-            "L'Accent Aigu (Master the 26letter French alphabet (U1))",
-            "L'Accent Grave (Master the 26letter French alphabet (U1))",
-            "La Cédille (Master the 26letter French alphabet (U1))"
+            "Le Tréma (Master the 26letter French alphabet)",
+            "L'Accent Aigu (Master the 26letter French alphabet)",
+            "L'Accent Grave (Master the 26letter French alphabet)",
+            "La Cédille (Master the 26letter French alphabet)"
           ],
           "answerIndex": 0,
           "explanation": "Le tréma (¨) forces two adjacent vowels to be articulated independently in separate syllables."
@@ -561,10 +561,10 @@
         {
           "prompt": "Select the French word meaning \"boy / waiter\" spelled with a cédille «garçon»:",
           "options": [
-            "garçon (Master the 26letter French alphabet (U1))",
-            "café (Master the 26letter French alphabet (U1))",
-            "français (Master the 26letter French alphabet (U1))",
-            "salut (Master the 26letter French alphabet (U1))"
+            "garçon (Master the 26letter French alphabet)",
+            "café (Master the 26letter French alphabet)",
+            "français (Master the 26letter French alphabet)",
+            "salut (Master the 26letter French alphabet)"
           ],
           "answerIndex": 0,
           "explanation": "«garçon» means \"boy\" or \"waiter\"."
@@ -577,10 +577,10 @@
           "type": "multiple-choice",
           "prompt": "What does the French word «café» mean in English?",
           "options": [
-            "coffee / café (Master the 26letter French alphabet (U1))",
-            "boy (Master the 26letter French alphabet (U1))",
-            "street (Master the 26letter French alphabet (U1))",
-            "bread (Master the 26letter French alphabet (U1))"
+            "coffee / café (Master the 26letter French alphabet)",
+            "boy (Master the 26letter French alphabet)",
+            "street (Master the 26letter French alphabet)",
+            "bread (Master the 26letter French alphabet)"
           ],
           "answerIndex": 0,
           "explanation": "«café» means \"coffee\" or \"café\"."
@@ -664,10 +664,10 @@
         {
           "prompt": "Vous vous adressez à votre directeur d'entreprise pour lui demander comment il va. Quelle question devez-vous poser ?",
           "options": [
-            "Comment allez-vous ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "Ça roule, mec ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "Comment tu t'appelles ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "Tu vas bien ou quoi ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))"
+            "Comment allez-vous ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "Ça roule, mec ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "Comment tu t'appelles ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "Tu vas bien ou quoi ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "Le vouvoiement avec inversion ('Comment allez-vous ?') est la formule respectueuse et formelle requise dans un contexte professionnel."
@@ -679,10 +679,10 @@
         {
           "prompt": "Un ami vous demande « Comment ça va ? ». Vous allez bien et vous lui retournez la question de façon informelle. Que répondez-vous ?",
           "options": [
-            "Ça va bien, merci ! Et toi ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "Je m'appelle Thomas. Et vous ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "Au revoir, à demain. (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "De rien, s'il vous plaît. (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))"
+            "Ça va bien, merci ! Et toi ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "Je m'appelle Thomas. Et vous ? (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "Au revoir, à demain. (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "De rien, s'il vous plaît. (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "'Ça va bien, merci ! Et toi ?' répond à la salutation et renvoie poliment la question au registre familier ('toi')."
@@ -695,10 +695,10 @@
           "type": "multiple-choice",
           "prompt": "Quel verbe utilise-t-on en français pour demander des nouvelles ou exprimer son état général ?",
           "options": [
-            "Le verbe ALLER (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "Le verbe ÊTRE (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "Le verbe AVOIR (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))",
-            "Le verbe FAIRE (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing (U1))"
+            "Le verbe ALLER (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "Le verbe ÊTRE (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "Le verbe AVOIR (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)",
+            "Le verbe FAIRE (Ask how someone is doing using formal Comment allezvous  and informal Comment a va  phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "Le français utilise le verbe ALLER pour l'état général et la santé ('Comment allez-vous ?', 'Ça va')."
@@ -781,10 +781,10 @@
         {
           "prompt": "Comment dit-on correctement « My name is Lucas » en utilisant le verbe pronominal s'appeler ?",
           "options": [
-            "Je m'appelle Lucas. (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "Je suis appelé Lucas. (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "Mon nom s'appelle Lucas. (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "J'appelle Lucas. (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))"
+            "Je m'appelle Lucas. (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "Je suis appelé Lucas. (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "Mon nom s'appelle Lucas. (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "J'appelle Lucas. (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)"
           ],
           "answerIndex": 0,
           "explanation": "'Je m'appelle' est la conjugaison correcte au présent du verbe pronominal s'appeler à la 1re personne du singulier."
@@ -796,10 +796,10 @@
         {
           "prompt": "Quelle question pose-t-on pour demander le prénom d'un client ou d'un supérieur hiérarchique au registre soutenu ?",
           "options": [
-            "Comment vous appelez-vous ? (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "Tu t'appelles comment ? (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "C'est qui toi ? (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "Quel est ton petit nom ? (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))"
+            "Comment vous appelez-vous ? (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "Tu t'appelles comment ? (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "C'est qui toi ? (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "Quel est ton petit nom ? (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)"
           ],
           "answerIndex": 0,
           "explanation": "'Comment vous appelez-vous ?' (avec inversion et vouvoiement) est la formule soutenue standard pour demander l'identité d'un tiers."
@@ -812,10 +812,10 @@
           "type": "multiple-choice",
           "prompt": "Lors d'une première rencontre, que dit une femme pour exprimer poliment « Enchantée de faire votre connaissance » à l'écrit ?",
           "options": [
-            "Enchantée (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "Enchanté (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "Enchantez (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))",
-            "Enchantent (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers (U1))"
+            "Enchantée (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "Enchanté (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "Enchantez (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)",
+            "Enchantent (Introduce yourself with reflexive verb sappeler and ask other peoples names across formal and informal registers)"
           ],
           "answerIndex": 0,
           "explanation": "L'adjectif verbal 'enchanté' s'accorde au féminin singulier avec la locutrice en ajoutant un 'e' final muet : 'Enchantée'."
@@ -905,10 +905,10 @@
         {
           "prompt": "Vous commandez un café au comptoir d'une brasserie parisienne. Quelle phrase est la plus polie et naturelle ?",
           "options": [
-            "Un café, s'il vous plaît. (Use French courtesy expressions including please (U1))",
-            "Donne-moi un café tout de suite. (Use French courtesy expressions including please (U1))",
-            "Je veux un café. (Use French courtesy expressions including please (U1))",
-            "Passe le café, s'il te plaît. (Use French courtesy expressions including please (U1))"
+            "Un café, s'il vous plaît. (Use French courtesy expressions including please)",
+            "Donne-moi un café tout de suite. (Use French courtesy expressions including please)",
+            "Je veux un café. (Use French courtesy expressions including please)",
+            "Passe le café, s'il te plaît. (Use French courtesy expressions including please)"
           ],
           "answerIndex": 0,
           "explanation": "L'ajout de 's'il vous plaît' est indispensable pour formuler une commande polie auprès d'un serveur ou commerçant."
@@ -920,10 +920,10 @@
         {
           "prompt": "Votre professeur vous remercie chaleureusement pour votre travail en disant « Merci beaucoup ». Que lui répondez-vous avec déférence ?",
           "options": [
-            "Je vous en prie, monsieur. (Use French courtesy expressions including please (U1))",
-            "De rien, pas de souci. (Use French courtesy expressions including please (U1))",
-            "C'est bon, laisse tomber. (Use French courtesy expressions including please (U1))",
-            "À plus tard ! (Use French courtesy expressions including please (U1))"
+            "Je vous en prie, monsieur. (Use French courtesy expressions including please)",
+            "De rien, pas de souci. (Use French courtesy expressions including please)",
+            "C'est bon, laisse tomber. (Use French courtesy expressions including please)",
+            "À plus tard ! (Use French courtesy expressions including please)"
           ],
           "answerIndex": 0,
           "explanation": "'Je vous en prie' est la formule de réponse aux remerciements la plus élégante et respectueuse envers un supérieur."
@@ -936,10 +936,10 @@
           "type": "multiple-choice",
           "prompt": "Que dites-vous pour vous frayer un passage poliment dans une rame de métro bondée sans bousculer les passagers ?",
           "options": [
-            "Pardon, excusez-moi. (Use French courtesy expressions including please (U1))",
-            "Allez, bougez de là ! (Use French courtesy expressions including please (U1))",
-            "Au revoir tout le monde. (Use French courtesy expressions including please (U1))",
-            "Enchanté de vous voir. (Use French courtesy expressions including please (U1))"
+            "Pardon, excusez-moi. (Use French courtesy expressions including please)",
+            "Allez, bougez de là ! (Use French courtesy expressions including please)",
+            "Au revoir tout le monde. (Use French courtesy expressions including please)",
+            "Enchanté de vous voir. (Use French courtesy expressions including please)"
           ],
           "answerIndex": 0,
           "explanation": "'Pardon, excusez-moi' permet de demander poliment le passage ou d'attirer l'attention avec respect."
@@ -1029,10 +1029,10 @@
         {
           "prompt": "D'après la règle mnémotechnique CaReFuL, quelle consonne finale est normalement PRONONCÉE dans un mot isolé ?",
           "options": [
-            "La consonne F (Apply basic French phonological rules (U1))",
-            "La consonne T (Apply basic French phonological rules (U1))",
-            "La consonne S (Apply basic French phonological rules (U1))",
-            "La consonne D (Apply basic French phonological rules (U1))"
+            "La consonne F (Apply basic French phonological rules)",
+            "La consonne T (Apply basic French phonological rules)",
+            "La consonne S (Apply basic French phonological rules)",
+            "La consonne D (Apply basic French phonological rules)"
           ],
           "answerIndex": 0,
           "explanation": "Les consonnes C, R, F, L (CaReFuL) se prononcent généralement en fin de mot, tandis que d, t, s, p, x, z restent muettes."
@@ -1044,10 +1044,10 @@
         {
           "prompt": "Comment se prononce la liaison obligatoire dans l'expression « les enfants » ?",
           "options": [
-            "Le 's' final muet de 'les' se prononce comme un son /z/ lié à 'enfants' (Apply basic French phonological rules (U1))",
-            "Le 's' se prononce comme un /s/ dur séparé par une pause nette. (Apply basic French phonological rules (U1))",
-            "Le 's' reste totalement muet et on marque un arrêt phonétique. (Apply basic French phonological rules (U1))",
-            "Le 's' se transforme en son /t/. (Apply basic French phonological rules (U1))"
+            "Le 's' final muet de 'les' se prononce comme un son /z/ lié à 'enfants' (Apply basic French phonological rules)",
+            "Le 's' se prononce comme un /s/ dur séparé par une pause nette. (Apply basic French phonological rules)",
+            "Le 's' reste totalement muet et on marque un arrêt phonétique. (Apply basic French phonological rules)",
+            "Le 's' se transforme en son /t/. (Apply basic French phonological rules)"
           ],
           "answerIndex": 0,
           "explanation": "En position de liaison devant une voyelle, la consonne 's' ou 'x' se sonorise en /z/ pour fluidifier le débit vocalique."
@@ -1060,10 +1060,10 @@
           "type": "multiple-choice",
           "prompt": "Dans laquelle de ces expressions entend-on une liaison en /t/ avec la consonne finale 'd' ?",
           "options": [
-            "Un grand homme (Apply basic French phonological rules (U1))",
-            "Un grand livre (Apply basic French phonological rules (U1))",
-            "Les grands arbres (Apply basic French phonological rules (U1))",
-            "Le grand chien (Apply basic French phonological rules (U1))"
+            "Un grand homme (Apply basic French phonological rules)",
+            "Un grand livre (Apply basic French phonological rules)",
+            "Les grands arbres (Apply basic French phonological rules)",
+            "Le grand chien (Apply basic French phonological rules)"
           ],
           "answerIndex": 0,
           "explanation": "La consonne finale 'd' de 'grand' se prononce /t/ lorsqu'elle est liée au mot suivant commençant par une voyelle ou un 'h' muet ('un grand homme')."
@@ -1143,10 +1143,10 @@
         {
           "prompt": "Quelle est la terminaison du présent pour le pronom 'nous' avec le verbe régulier parler ?",
           "options": [
-            "-ons (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "-ez (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "-ent (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "-e (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))"
+            "-ons (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "-ez (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "-ent (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "-e (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)"
           ],
           "answerIndex": 0,
           "explanation": "La terminaison régulière du présent à la 1re personne du pluriel (nous) pour tous les verbes en -er est '-ons'."
@@ -1158,10 +1158,10 @@
         {
           "prompt": "Parmi ces formes du verbe 'habiter', laquelle est correctement accordée avec le sujet 'tu' ?",
           "options": [
-            "Tu habites à Paris. (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "Tu habite à Paris. (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "Tu habitons à Paris. (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "Tu habitez à Paris. (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))"
+            "Tu habites à Paris. (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "Tu habite à Paris. (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "Tu habitons à Paris. (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "Tu habitez à Paris. (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)"
           ],
           "answerIndex": 0,
           "explanation": "Avec le pronom sujet 'tu', la terminaison régulière des verbes en -er prend un 's' final : 'tu habites'."
@@ -1174,10 +1174,10 @@
           "type": "multiple-choice",
           "prompt": "Combien de formes de la conjugaison au présent des verbes en -er ont une terminaison muette à l'oral (je, tu, il/elle, ils/elles) ?",
           "options": [
-            "4 formes (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "2 formes (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "6 formes (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))",
-            "1 seule forme (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings (U3))"
+            "4 formes (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "2 formes (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "6 formes (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)",
+            "1 seule forme (Conjugate regular firstgroup verbs ending in er in the present tense by isolating the stem and applying standard personal endings)"
           ],
           "answerIndex": 0,
           "explanation": "Les terminaisons -e, -es, -e, et -ent sont toutes muettes à l'oral, produisant le même son de radical (/paʁl/)."
@@ -1252,10 +1252,10 @@
         {
           "prompt": "Dans le français parlé courant, quel pronom sujet singulier remplace très fréquemment 'nous' pour signifier 'we / let's' ?",
           "options": [
-            "Le pronom 'on' (Distinguish and use all French subject pronouns (U3))",
-            "Le pronom 'il' (Distinguish and use all French subject pronouns (U3))",
-            "Le pronom 'vous' (Distinguish and use all French subject pronouns (U3))",
-            "Le pronom 'ils' (Distinguish and use all French subject pronouns (U3))"
+            "Le pronom 'on' (Distinguish and use all French subject pronouns)",
+            "Le pronom 'il' (Distinguish and use all French subject pronouns)",
+            "Le pronom 'vous' (Distinguish and use all French subject pronouns)",
+            "Le pronom 'ils' (Distinguish and use all French subject pronouns)"
           ],
           "answerIndex": 0,
           "explanation": "'On' est un pronom de 3e personne du singulier qui remplace 'nous' dans plus de 90 % des conversations familières et courantes."
@@ -1268,9 +1268,9 @@
           "prompt": "Comment s'accorde le verbe lorsque le sujet est le pronom indéfini 'on' (ex: on aimer la musique) ?",
           "options": [
             "Le verbe se conjugue toujours à la 3e personne du singulier (il/elle)",
-            "Le verbe se conjugue au pluriel : on aimons. (Distinguish and use all French subject pronouns (U3))",
-            "Le verbe prend la terminaison -ez : on aimez. (Distinguish and use all French subject pronouns (U3))",
-            "Le verbe reste à l'infinitif. (Distinguish and use all French subject pronouns (U3))"
+            "Le verbe se conjugue au pluriel : on aimons. (Distinguish and use all French subject pronouns)",
+            "Le verbe prend la terminaison -ez : on aimez. (Distinguish and use all French subject pronouns)",
+            "Le verbe reste à l'infinitif. (Distinguish and use all French subject pronouns)"
           ],
           "answerIndex": 0,
           "explanation": "Grammaticalement, 'on' régit toujours un verbe à la 3e personne du singulier (identique à 'il' ou 'elle')."
@@ -1283,10 +1283,10 @@
           "type": "multiple-choice",
           "prompt": "Lorsqu'un groupe est composé d'hommes et de femmes (mixte), quel pronom pluriel s'utilise traditionnellement en français ?",
           "options": [
-            "Ils (Distinguish and use all French subject pronouns (U3))",
-            "Elles (Distinguish and use all French subject pronouns (U3))",
-            "On (Distinguish and use all French subject pronouns (U3))",
-            "Vous (Distinguish and use all French subject pronouns (U3))"
+            "Ils (Distinguish and use all French subject pronouns)",
+            "Elles (Distinguish and use all French subject pronouns)",
+            "On (Distinguish and use all French subject pronouns)",
+            "Vous (Distinguish and use all French subject pronouns)"
           ],
           "answerIndex": 0,
           "explanation": "En grammaire française classique, le pronom masculin pluriel 'ils' s'applique aux groupes mixtes."
@@ -1363,10 +1363,10 @@
         {
           "prompt": "Pourquoi écrit-on « nous mangeons » avec un 'e' intercalaire au lieu de « nous mangons » ?",
           "options": [
-            "Pour préserver le son doux /ʒ/ de la lettre 'g' devant la voyelle 'o'. (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Parce que c'est une faute d'impression historique. (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Pour allonger la prononciation du verbe. (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Parce que le 'e' se prononce très fort. (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))"
+            "Pour préserver le son doux /ʒ/ de la lettre 'g' devant la voyelle 'o'. (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Parce que c'est une faute d'impression historique. (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Pour allonger la prononciation du verbe. (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Parce que le 'e' se prononce très fort. (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)"
           ],
           "answerIndex": 0,
           "explanation": "La lettre 'g' devant 'o' sonnerait durement /g/ ; l'ajout du 'e' muet rétablit le son doux /ʒ/ de 'manger'."
@@ -1378,10 +1378,10 @@
         {
           "prompt": "Quelle est la graphie correcte de la forme 'nous' du verbe 'commencer' au présent ?",
           "options": [
-            "Nous commençons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Nous commencons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Nous commenceons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Nous commenciez (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))"
+            "Nous commençons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Nous commencons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Nous commenceons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Nous commenciez (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)"
           ],
           "answerIndex": 0,
           "explanation": "La cédille 'ç' adoucit la consonne 'c' en son /s/ devant la voyelle 'o' de la terminaison -ons."
@@ -1394,10 +1394,10 @@
           "type": "multiple-choice",
           "prompt": "Dans lequel de ces verbes observe-t-on un ajustement orthographique spécifique à la forme 'nous' au présent ?",
           "options": [
-            "Nous voyageons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Nous parlons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Nous écoutons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))",
-            "Nous travaillons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form (U3))"
+            "Nous voyageons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Nous parlons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Nous écoutons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)",
+            "Nous travaillons (Apply phonetic spelling adjustments in cer and ger verbs to preserve soft consonant sounds in the nous form)"
           ],
           "answerIndex": 0,
           "explanation": "Les verbes en -ger (comme voyager, nager, partager) conservent un 'e' de liaison à la première personne du pluriel."
@@ -1472,10 +1472,10 @@
         {
           "prompt": "Quel article défini convient devant le nom féminin singulier « table » ?",
           "options": [
-            "La table (Identify and use French definite articles le (U2))",
-            "Le table (Identify and use French definite articles le (U2))",
-            "L' table (Identify and use French definite articles le (U2))",
-            "Les table (Identify and use French definite articles le (U2))"
+            "La table (Identify and use French definite articles le)",
+            "Le table (Identify and use French definite articles le)",
+            "L' table (Identify and use French definite articles le)",
+            "Les table (Identify and use French definite articles le)"
           ],
           "answerIndex": 0,
           "explanation": "Le nom 'table' est féminin singulier et commence par une consonne, il prend donc l'article défini 'la'."
@@ -1488,9 +1488,9 @@
           "prompt": "Pourquoi écrit-on « l'amie » et « l'homme » au lieu de « la amie » ou « le homme » ?",
           "options": [
             "Pour éviter le choc vocalique (hiatus)",
-            "Parce que ces noms sont toujours neutres en français. (Identify and use French definite articles le (U2))",
-            "Parce que l'article 'le' est interdit au singulier. (Identify and use French definite articles le (U2))",
-            "Il s'agit d'une faute d'orthographe courante. (Identify and use French definite articles le (U2))"
+            "Parce que ces noms sont toujours neutres en français. (Identify and use French definite articles le)",
+            "Parce que l'article 'le' est interdit au singulier. (Identify and use French definite articles le)",
+            "Il s'agit d'une faute d'orthographe courante. (Identify and use French definite articles le)"
           ],
           "answerIndex": 0,
           "explanation": "L'élision (l') s'applique obligatoirement devant tout nom singulier débutant par une voyelle ou un 'h' muet."
@@ -1503,10 +1503,10 @@
           "type": "multiple-choice",
           "prompt": "Quel article défini pluriel s'utilise pour désigner un groupe d'étudiants ou d'étudiantes ?",
           "options": [
-            "Les (Identify and use French definite articles le (U2))",
-            "Le (Identify and use French definite articles le (U2))",
-            "La (Identify and use French definite articles le (U2))",
-            "Des (Identify and use French definite articles le (U2))"
+            "Les (Identify and use French definite articles le)",
+            "Le (Identify and use French definite articles le)",
+            "La (Identify and use French definite articles le)",
+            "Des (Identify and use French definite articles le)"
           ],
           "answerIndex": 0,
           "explanation": "'Les' est l'unique article défini pluriel en français pour le masculin et le féminin."
@@ -1581,10 +1581,10 @@
         {
           "prompt": "Dans la phrase « J'achète _____ croissants à la boulangerie », quel article indéfini pluriel obligatoire doit-on insérer ?",
           "options": [
-            "des (Use indefinite articles un (U2))",
-            "un (Use indefinite articles un (U2))",
-            "les (Use indefinite articles un (U2))",
-            "du (Use indefinite articles un (U2))"
+            "des (Use indefinite articles un)",
+            "un (Use indefinite articles un)",
+            "les (Use indefinite articles un)",
+            "du (Use indefinite articles un)"
           ],
           "answerIndex": 0,
           "explanation": "Contrairement à l'anglais, le français ne peut pas omettre l'article indéfini pluriel devant un nom dénombrable non spécifique : 'des croissants'."
@@ -1596,10 +1596,10 @@
         {
           "prompt": "Quelle phrase illustre l'emploi correct des articles indéfinis au masculin et au féminin singuliers ?",
           "options": [
-            "J'ai un livre et une trousse. (Use indefinite articles un (U2))",
-            "J'ai le livre et la trousse de mon ami. (Use indefinite articles un (U2))",
-            "J'ai des livre et des trousses. (Use indefinite articles un (U2))",
-            "J'ai une livre de pain et un trousse. (Use indefinite articles un (U2))"
+            "J'ai un livre et une trousse. (Use indefinite articles un)",
+            "J'ai le livre et la trousse de mon ami. (Use indefinite articles un)",
+            "J'ai des livre et des trousses. (Use indefinite articles un)",
+            "J'ai une livre de pain et un trousse. (Use indefinite articles un)"
           ],
           "answerIndex": 0,
           "explanation": "'Un livre' (masculin) et 'une trousse' (féminin) appliquent rigoureusement le genre grammatical des articles indéfinis singuliers."
@@ -1612,10 +1612,10 @@
           "type": "multiple-choice",
           "prompt": "Quel article indéfini utilise-t-on devant le nom féminin singulier « pomme » ?",
           "options": [
-            "Une pomme (Use indefinite articles un (U2))",
-            "Un pomme (Use indefinite articles un (U2))",
-            "Des pomme (Use indefinite articles un (U2))",
-            "Le pomme (Use indefinite articles un (U2))"
+            "Une pomme (Use indefinite articles un)",
+            "Un pomme (Use indefinite articles un)",
+            "Des pomme (Use indefinite articles un)",
+            "Le pomme (Use indefinite articles un)"
           ],
           "answerIndex": 0,
           "explanation": "'Pomme' étant un nom féminin singulier, l'article indéfini approprié est 'une'."
@@ -1693,10 +1693,10 @@
         {
           "prompt": "D'après les suffixes morphologiques fiables du français, quel nom est de genre féminin ?",
           "options": [
-            "La décision (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Le gouvernement (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Le voyage (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Le monument (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))"
+            "La décision (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Le gouvernement (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Le voyage (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Le monument (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)"
           ],
           "answerIndex": 0,
           "explanation": "Les noms terminés par -tion, -sion, -té, -ette sont très majoritairement féminins ('la décision', 'la liberté')."
@@ -1708,10 +1708,10 @@
         {
           "prompt": "Quel suffixe nominal indique presque systématiquement un nom masculin en français ?",
           "options": [
-            "Le suffixe -ment (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Le suffixe -tion (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Le suffixe -té (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Le suffixe -ette (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))"
+            "Le suffixe -ment (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Le suffixe -tion (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Le suffixe -té (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Le suffixe -ette (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)"
           ],
           "answerIndex": 0,
           "explanation": "Le suffixe -ment forme de manière productive des substantifs masculins en français."
@@ -1724,10 +1724,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi le nom « liberté » est-il féminin en français ?",
           "options": [
-            "Parce que le suffixe abstrait -té caractérise des noms féminins (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Parce que tous les concepts philosophiques sont masculins. (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Parce qu'il commence par la lettre L. (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))",
-            "Parce qu'il s'agit d'un mot d'origine germanique. (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine (U2))"
+            "Parce que le suffixe abstrait -té caractérise des noms féminins (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Parce que tous les concepts philosophiques sont masculins. (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Parce qu'il commence par la lettre L. (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)",
+            "Parce qu'il s'agit d'un mot d'origine germanique. (Recognize reliable noun ending patterns to predict whether a French noun is masculine or feminine)"
           ],
           "answerIndex": 0,
           "explanation": "Le suffixe -té forme des noms abstraits féminins exprimant une qualité ou un état."
@@ -1805,10 +1805,10 @@
         {
           "prompt": "Quel est le pluriel régulier en -aux du nom masculin « un journal » ?",
           "options": [
-            "Des journaux (Form regular and irregular plural nouns in French s (U2))",
-            "Des journals (Form regular and irregular plural nouns in French s (U2))",
-            "Des journauxes (Form regular and irregular plural nouns in French s (U2))",
-            "Des journalses (Form regular and irregular plural nouns in French s (U2))"
+            "Des journaux (Form regular and irregular plural nouns in French s)",
+            "Des journals (Form regular and irregular plural nouns in French s)",
+            "Des journauxes (Form regular and irregular plural nouns in French s)",
+            "Des journalses (Form regular and irregular plural nouns in French s)"
           ],
           "answerIndex": 0,
           "explanation": "La plupart des noms masculins terminés en -al forment leur pluriel en -aux : un journal -> des journaux, un animal -> des animaux."
@@ -1820,10 +1820,10 @@
         {
           "prompt": "Comment forme-t-on le pluriel des noms terminés par -eau comme « un bureau » ou « un château » ?",
           "options": [
-            "En ajoutant un -x final muet (Form regular and irregular plural nouns in French s (U2))",
+            "En ajoutant un -x final muet (Form regular and irregular plural nouns in French s)",
             "En ajoutant un -s final (des bureaus)",
-            "Le mot reste invariable sans changement. (Form regular and irregular plural nouns in French s (U2))",
-            "En remplaçant -eau par -aux. (Form regular and irregular plural nouns in French s (U2))"
+            "Le mot reste invariable sans changement. (Form regular and irregular plural nouns in French s)",
+            "En remplaçant -eau par -aux. (Form regular and irregular plural nouns in French s)"
           ],
           "answerIndex": 0,
           "explanation": "Les noms en -eau, -au et -eu prennent la marque du pluriel en -x (muet à l'oral)."
@@ -1836,10 +1836,10 @@
           "type": "multiple-choice",
           "prompt": "Quel mot singulier terminé par -s reste invariable au pluriel ?",
           "options": [
-            "Un pays -> des pays (Form regular and irregular plural nouns in French s (U2))",
-            "Un livre -> des livres (Form regular and irregular plural nouns in French s (U2))",
-            "Un chat -> des chats (Form regular and irregular plural nouns in French s (U2))",
-            "Un hôtel -> des hôtels (Form regular and irregular plural nouns in French s (U2))"
+            "Un pays -> des pays (Form regular and irregular plural nouns in French s)",
+            "Un livre -> des livres (Form regular and irregular plural nouns in French s)",
+            "Un chat -> des chats (Form regular and irregular plural nouns in French s)",
+            "Un hôtel -> des hôtels (Form regular and irregular plural nouns in French s)"
           ],
           "answerIndex": 0,
           "explanation": "Les noms déjà terminés par -s, -x ou -z au singulier (un pays, un prix, un nez) ne changent pas d'orthographe au pluriel."
@@ -1918,10 +1918,10 @@
         {
           "prompt": "Quelle contraction obligatoire se produit lorsque la préposition « à » rencontre l'article défini masculin « le » (ex: aller ... restaurant) ?",
           "options": [
-            "AU (Form and use contracted articles with prepositions  au (U2))",
-            "À LE (Form and use contracted articles with prepositions  au (U2))",
-            "DU (Form and use contracted articles with prepositions  au (U2))",
-            "AUX (Form and use contracted articles with prepositions  au (U2))"
+            "AU (Form and use contracted articles with prepositions  au)",
+            "À LE (Form and use contracted articles with prepositions  au)",
+            "DU (Form and use contracted articles with prepositions  au)",
+            "AUX (Form and use contracted articles with prepositions  au)"
           ],
           "answerIndex": 0,
           "explanation": "La fusion de à + le donne obligatoirement l'article contracté 'au' en français."
@@ -1933,10 +1933,10 @@
         {
           "prompt": "Comment traduit-on correctement « the neighbor's car » (la voiture de + le voisin) ?",
           "options": [
-            "La voiture du voisin (Form and use contracted articles with prepositions  au (U2))",
-            "La voiture de le voisin (Form and use contracted articles with prepositions  au (U2))",
-            "La voiture au voisin (Form and use contracted articles with prepositions  au (U2))",
-            "La voiture des voisin (Form and use contracted articles with prepositions  au (U2))"
+            "La voiture du voisin (Form and use contracted articles with prepositions  au)",
+            "La voiture de le voisin (Form and use contracted articles with prepositions  au)",
+            "La voiture au voisin (Form and use contracted articles with prepositions  au)",
+            "La voiture des voisin (Form and use contracted articles with prepositions  au)"
           ],
           "answerIndex": 0,
           "explanation": "La préposition 'de' combinée à l'article 'le' se contracte obligatoirement en 'du' devant une consonne."
@@ -1949,10 +1949,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase applique correctement la contraction de la préposition « à » avec l'article pluriel « les » ?",
           "options": [
-            "Nous voyageons aux États-Unis (Form and use contracted articles with prepositions  au (U2))",
-            "Nous voyageons à les États-Unis. (Form and use contracted articles with prepositions  au (U2))",
-            "Nous voyageons des États-Unis. (Form and use contracted articles with prepositions  au (U2))",
-            "Nous voyageons au États-Unis. (Form and use contracted articles with prepositions  au (U2))"
+            "Nous voyageons aux États-Unis (Form and use contracted articles with prepositions  au)",
+            "Nous voyageons à les États-Unis. (Form and use contracted articles with prepositions  au)",
+            "Nous voyageons des États-Unis. (Form and use contracted articles with prepositions  au)",
+            "Nous voyageons au États-Unis. (Form and use contracted articles with prepositions  au)"
           ],
           "answerIndex": 0,
           "explanation": "À + les se contracte obligatoirement en 'aux' devant les noms pluriels (comme 'aux États-Unis')."
@@ -2030,10 +2030,10 @@
         {
           "prompt": "Quelle modification vocalique subit le verbe 'acheter' au singulier du présent (j'ach...te) ?",
           "options": [
-            "Le 'e' muet prend un accent grave : j'achète (Conjugate stemchanging er verbs acheter (U3))",
-            "Le 'e' prend un accent aigu : j'achéte. (Conjugate stemchanging er verbs acheter (U3))",
-            "La consonne 't' est doublée : j'achette. (Conjugate stemchanging er verbs acheter (U3))",
-            "Le mot ne change pas : j'achete. (Conjugate stemchanging er verbs acheter (U3))"
+            "Le 'e' muet prend un accent grave : j'achète (Conjugate stemchanging er verbs acheter)",
+            "Le 'e' prend un accent aigu : j'achéte. (Conjugate stemchanging er verbs acheter)",
+            "La consonne 't' est doublée : j'achette. (Conjugate stemchanging er verbs acheter)",
+            "Le mot ne change pas : j'achete. (Conjugate stemchanging er verbs acheter)"
           ],
           "answerIndex": 0,
           "explanation": "Devant une syllabe finale muette, le 'e' caduc d'acheter s'ouvre en 'è' (/ɛ/) : j'achète, tu achètes, ils achètent."
@@ -2045,10 +2045,10 @@
         {
           "prompt": "Pourquoi les formes 'nous achetons' et 'vous achetez' ne prennent-elles PAS d'accent grave sur le radical ?",
           "options": [
-            "Parce que les terminaisons -ons et -ez sont prononcées et accentuées, le radical n'est pas devant une syllabe muette. (Conjugate stemchanging er verbs acheter (U3))",
-            "Parce que 'nous' et 'vous' sont des pronoms irréguliers. (Conjugate stemchanging er verbs acheter (U3))",
-            "Parce que le verbe devient du deuxième groupe au pluriel. (Conjugate stemchanging er verbs acheter (U3))",
-            "C'est une exception arbitraire sans raison phonétique. (Conjugate stemchanging er verbs acheter (U3))"
+            "Parce que les terminaisons -ons et -ez sont prononcées et accentuées, le radical n'est pas devant une syllabe muette. (Conjugate stemchanging er verbs acheter)",
+            "Parce que 'nous' et 'vous' sont des pronoms irréguliers. (Conjugate stemchanging er verbs acheter)",
+            "Parce que le verbe devient du deuxième groupe au pluriel. (Conjugate stemchanging er verbs acheter)",
+            "C'est une exception arbitraire sans raison phonétique. (Conjugate stemchanging er verbs acheter)"
           ],
           "answerIndex": 0,
           "explanation": "La modification en 'è' n'a lieu que devant une syllabe contenant un 'e' muet (dans le 'boot')."
@@ -2061,10 +2061,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la forme correctement conjuguée du verbe 'préférer' avec le pronom 'je' ?",
           "options": [
-            "Je préfère le thé. (Conjugate stemchanging er verbs acheter (U3))",
-            "Je préfére le thé. (Conjugate stemchanging er verbs acheter (U3))",
-            "Je préfere le thé. (Conjugate stemchanging er verbs acheter (U3))",
-            "Je préférons le thé. (Conjugate stemchanging er verbs acheter (U3))"
+            "Je préfère le thé. (Conjugate stemchanging er verbs acheter)",
+            "Je préfére le thé. (Conjugate stemchanging er verbs acheter)",
+            "Je préfere le thé. (Conjugate stemchanging er verbs acheter)",
+            "Je préférons le thé. (Conjugate stemchanging er verbs acheter)"
           ],
           "answerIndex": 0,
           "explanation": "L'accent aigu de l'avant-dernière syllabe se transforme en accent grave devant une terminaison muette : 'je préfère'."
@@ -2144,10 +2144,10 @@
         {
           "prompt": "Quelle séquence de connecteurs temporels structure logiquement une routine (d'abord -> ensuite -> enfin) ?",
           "options": [
-            "D'abord je prépare le petit-déjeuner, ensuite je travaille, enfin je rentre à la maison. (Combine regular er verbs (U3))",
-            "Enfin je commence, d'abord je finis, ensuite je dors. (Combine regular er verbs (U3))",
-            "Toujours je mange, jamais je travaille, souvent je dors. (Combine regular er verbs (U3))",
-            "Hier je pars, demain je reste, aujourd'hui je cours. (Combine regular er verbs (U3))"
+            "D'abord je prépare le petit-déjeuner, ensuite je travaille, enfin je rentre à la maison. (Combine regular er verbs)",
+            "Enfin je commence, d'abord je finis, ensuite je dors. (Combine regular er verbs)",
+            "Toujours je mange, jamais je travaille, souvent je dors. (Combine regular er verbs)",
+            "Hier je pars, demain je reste, aujourd'hui je cours. (Combine regular er verbs)"
           ],
           "answerIndex": 0,
           "explanation": "La progression chronologique naturelle en français s'articule autour de 'D'abord' (première étape), 'Ensuite / Puis' (continuité), et 'Enfin' (conclusion)."
@@ -2159,10 +2159,10 @@
         {
           "prompt": "Comment dit-on en français « In the morning, I listen to the radio » sans préposition superflue après le verbe ?",
           "options": [
-            "Le matin, j'écoute la radio. (Combine regular er verbs (U3))",
-            "Le matin, j'écoute à la radio. (Combine regular er verbs (U3))",
-            "Le matin, j'écoute pour la radio. (Combine regular er verbs (U3))",
-            "Le matin, j'écoute de la radio. (Combine regular er verbs (U3))"
+            "Le matin, j'écoute la radio. (Combine regular er verbs)",
+            "Le matin, j'écoute à la radio. (Combine regular er verbs)",
+            "Le matin, j'écoute pour la radio. (Combine regular er verbs)",
+            "Le matin, j'écoute de la radio. (Combine regular er verbs)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'écouter' est directement transitif en français et ne prend pas de préposition : 'écouter la radio'."
@@ -2175,10 +2175,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle expression temporelle traduit « every day » pour exprimer une action habituelle ?",
           "options": [
-            "Tous les jours (Combine regular er verbs (U3))",
-            "Toutes les nuits (Combine regular er verbs (U3))",
-            "Quelquefois (Combine regular er verbs (U3))",
-            "Jamais (Combine regular er verbs (U3))"
+            "Tous les jours (Combine regular er verbs)",
+            "Toutes les nuits (Combine regular er verbs)",
+            "Quelquefois (Combine regular er verbs)",
+            "Jamais (Combine regular er verbs)"
           ],
           "answerIndex": 0,
           "explanation": "'Tous les jours' est l'expression standard pour exprimer la récurrence quotidienne d'une habitude."
@@ -2259,10 +2259,10 @@
         {
           "prompt": "Quelle est la forme correcte du verbe être pour exprimer sa profession : « Je _____ médecin » ?",
           "options": [
-            "suis (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "es (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "est (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "sommes (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))"
+            "suis (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "es (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "est (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "sommes (Conjugate the irregular verb TRE in the present tense and use it for identity)"
           ],
           "answerIndex": 0,
           "explanation": "La 1re personne du singulier du verbe être au présent est 'je suis'. En français, les professions ne prennent pas d'article après être."
@@ -2274,10 +2274,10 @@
         {
           "prompt": "Comment dit-on au pluriel formel « You are late » en faisant la liaison obligatoire ?",
           "options": [
-            "Vous êtes en retard (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "Vous sont en retard. (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "Vous avez en retard. (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "Vous faites en retard. (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))"
+            "Vous êtes en retard (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "Vous sont en retard. (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "Vous avez en retard. (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "Vous faites en retard. (Conjugate the irregular verb TRE in the present tense and use it for identity)"
           ],
           "answerIndex": 0,
           "explanation": "La 2e personne du pluriel ou de politesse est 'vous êtes', avec une liaison sonore /z/ obligatoire."
@@ -2290,10 +2290,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre la prononciation correcte /s/ de « ils sont » (être) par opposition à /z/ « ils ont » (avoir) ?",
           "options": [
-            "Ils sont français et italiens. (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "Ils ont français et italiens. (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "Ils fait français et italiens. (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))",
-            "Ils va français et italiens. (Conjugate the irregular verb TRE in the present tense and use it for identity (U4))"
+            "Ils sont français et italiens. (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "Ils ont français et italiens. (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "Ils fait français et italiens. (Conjugate the irregular verb TRE in the present tense and use it for identity)",
+            "Ils va français et italiens. (Conjugate the irregular verb TRE in the present tense and use it for identity)"
           ],
           "answerIndex": 0,
           "explanation": "'Ils sont' (du verbe être) commence par la consonne /s/ (/eel sohn/), tandis que 'ils ont' (avoir) comporte une liaison /z/."
@@ -2368,10 +2368,10 @@
         {
           "prompt": "Comment exprime-t-on correctement son âge en français (ex: 20 ans) ?",
           "options": [
-            "J'ai vingt ans. (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "Je suis vingt ans. (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "Je fais vingt ans. (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "Je vais vingt ans. (Conjugate AVOIR in the present tense and deploy it for age (U4))"
+            "J'ai vingt ans. (Conjugate AVOIR in the present tense and deploy it for age)",
+            "Je suis vingt ans. (Conjugate AVOIR in the present tense and deploy it for age)",
+            "Je fais vingt ans. (Conjugate AVOIR in the present tense and deploy it for age)",
+            "Je vais vingt ans. (Conjugate AVOIR in the present tense and deploy it for age)"
           ],
           "answerIndex": 0,
           "explanation": "En français, on utilise obligatoirement le verbe avoir pour exprimer l'âge : 'J'ai vingt ans'."
@@ -2383,10 +2383,10 @@
         {
           "prompt": "Quelle expression avec 'avoir' traduit la sensation physique « I am hungry » ?",
           "options": [
-            "J'ai faim. (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "Je suis faim. (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "Je fais faim. (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "J'ai faim de toi. (Conjugate AVOIR in the present tense and deploy it for age (U4))"
+            "J'ai faim. (Conjugate AVOIR in the present tense and deploy it for age)",
+            "Je suis faim. (Conjugate AVOIR in the present tense and deploy it for age)",
+            "Je fais faim. (Conjugate AVOIR in the present tense and deploy it for age)",
+            "J'ai faim de toi. (Conjugate AVOIR in the present tense and deploy it for age)"
           ],
           "answerIndex": 0,
           "explanation": "Les sensations physiques (faim, soif, chaud, froid, sommeil) se construisent en français avec le verbe avoir."
@@ -2399,10 +2399,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la forme du verbe avoir avec le pronom 'nous' au présent ?",
           "options": [
-            "Nous avons (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "Nous sommes (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "Nous allons (Conjugate AVOIR in the present tense and deploy it for age (U4))",
-            "Nous faisons (Conjugate AVOIR in the present tense and deploy it for age (U4))"
+            "Nous avons (Conjugate AVOIR in the present tense and deploy it for age)",
+            "Nous sommes (Conjugate AVOIR in the present tense and deploy it for age)",
+            "Nous allons (Conjugate AVOIR in the present tense and deploy it for age)",
+            "Nous faisons (Conjugate AVOIR in the present tense and deploy it for age)"
           ],
           "answerIndex": 0,
           "explanation": "'Nous avons' est la première personne du pluriel du verbe avoir au présent."
@@ -2479,10 +2479,10 @@
         {
           "prompt": "Quelle est la forme très irrégulière de la 2e personne du pluriel (vous) pour le verbe 'faire' ?",
           "options": [
-            "Vous faites (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "Vous faisez (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "Vous fons (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "Vous faitez (Conjugate FAIRE in the present tense and use it for activities (U4))"
+            "Vous faites (Conjugate FAIRE in the present tense and use it for activities)",
+            "Vous faisez (Conjugate FAIRE in the present tense and use it for activities)",
+            "Vous fons (Conjugate FAIRE in the present tense and use it for activities)",
+            "Vous faitez (Conjugate FAIRE in the present tense and use it for activities)"
           ],
           "answerIndex": 0,
           "explanation": "'Faire' est l'un des trois seuls verbes français (avec être et dire) ayant une terminaison en -tes à la 2e personne du pluriel : 'vous faites'."
@@ -2494,10 +2494,10 @@
         {
           "prompt": "Quelle formule impersonnelle avec le verbe 'faire' décrit un temps ensoleillé et agréable ?",
           "options": [
-            "Il fait très beau et chaud. (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "Il est très beau et chaud. (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "Il a très beau et chaud. (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "Il va très beau et chaud. (Conjugate FAIRE in the present tense and use it for activities (U4))"
+            "Il fait très beau et chaud. (Conjugate FAIRE in the present tense and use it for activities)",
+            "Il est très beau et chaud. (Conjugate FAIRE in the present tense and use it for activities)",
+            "Il a très beau et chaud. (Conjugate FAIRE in the present tense and use it for activities)",
+            "Il va très beau et chaud. (Conjugate FAIRE in the present tense and use it for activities)"
           ],
           "answerIndex": 0,
           "explanation": "La météo générale se construit impersonnellement avec 'Il fait...' (il fait beau, il fait froid, il fait du vent)."
@@ -2510,10 +2510,10 @@
           "type": "multiple-choice",
           "prompt": "Quel article partitif utilise-t-on dans l'expression « faire _____ sport » ?",
           "options": [
-            "du (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "de (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "le (Conjugate FAIRE in the present tense and use it for activities (U4))",
-            "au (Conjugate FAIRE in the present tense and use it for activities (U4))"
+            "du (Conjugate FAIRE in the present tense and use it for activities)",
+            "de (Conjugate FAIRE in the present tense and use it for activities)",
+            "le (Conjugate FAIRE in the present tense and use it for activities)",
+            "au (Conjugate FAIRE in the present tense and use it for activities)"
           ],
           "answerIndex": 0,
           "explanation": "Les activités sportives masculines avec le verbe faire prennent l'article partitif contracté 'du' (de + le)."
@@ -2590,10 +2590,10 @@
         {
           "prompt": "Quelle préposition de lieu emploie-t-on obligatoirement pour une destination chez une personne ou un professionnel (ex: dentiste) ?",
           "options": [
-            "CHEZ (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "À (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "DANS (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "EN (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))"
+            "CHEZ (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "À (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "DANS (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "EN (Conjugate ALLER in the present tense and deploy spatial prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "On utilise 'chez' devant les noms ou pronoms désignant des personnes (chez le médecin, chez Pierre, chez moi)."
@@ -2605,10 +2605,10 @@
         {
           "prompt": "Quelle préposition de lieu s'applique devant un pays féminin comme « la France » ou « l'Italie » ?",
           "options": [
-            "EN (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "AU (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "À (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "CHEZ (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))"
+            "EN (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "AU (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "À (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "CHEZ (Conjugate ALLER in the present tense and deploy spatial prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "Les pays de genre féminin ou commençant par une voyelle prennent la préposition 'en' (en France, en Espagne, en Italie)."
@@ -2621,10 +2621,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la forme conjuguée du verbe aller à la 3e personne du pluriel (ils/elles) au présent ?",
           "options": [
-            "Ils vont (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "Ils vontent (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "Ils allont (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))",
-            "Ils vonts (Conjugate ALLER in the present tense and deploy spatial prepositions (U4))"
+            "Ils vont (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "Ils vontent (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "Ils allont (Conjugate ALLER in the present tense and deploy spatial prepositions)",
+            "Ils vonts (Conjugate ALLER in the present tense and deploy spatial prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "'Ils vont' est la forme irrégulière de 3e personne du pluriel du verbe aller au présent."
@@ -2703,10 +2703,10 @@
         {
           "prompt": "Quel verbe complète correctement la phrase suivante : « Elle _____ faim, alors elle _____ au restaurant » ?",
           "options": [
-            "a / va (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "est / fait (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "fait / est (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "va / a (Synthesize and contrast the four core irregular verbs tre (U4))"
+            "a / va (Synthesize and contrast the four core irregular verbs tre)",
+            "est / fait (Synthesize and contrast the four core irregular verbs tre)",
+            "fait / est (Synthesize and contrast the four core irregular verbs tre)",
+            "va / a (Synthesize and contrast the four core irregular verbs tre)"
           ],
           "answerIndex": 0,
           "explanation": "La sensation de faim requiert le verbe avoir ('elle a faim') et le déplacement requiert le verbe aller ('elle va au restaurant')."
@@ -2718,10 +2718,10 @@
         {
           "prompt": "Quelle terminaison commune partagent 'être', 'avoir', 'faire' et 'aller' à la 3e personne du pluriel (ils/elles) au présent ?",
           "options": [
-            "La terminaison en -ONT (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "La terminaison en -ENT (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "La terminaison en -EZ (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "La terminaison en -ONS (Synthesize and contrast the four core irregular verbs tre (U4))"
+            "La terminaison en -ONT (Synthesize and contrast the four core irregular verbs tre)",
+            "La terminaison en -ENT (Synthesize and contrast the four core irregular verbs tre)",
+            "La terminaison en -EZ (Synthesize and contrast the four core irregular verbs tre)",
+            "La terminaison en -ONS (Synthesize and contrast the four core irregular verbs tre)"
           ],
           "answerIndex": 0,
           "explanation": "Ces 4 verbes piliers partagent l'irrégularité unique d'avoir une finale en -ont au présent (sont, ont, font, vont)."
@@ -2734,10 +2734,10 @@
           "type": "multiple-choice",
           "prompt": "Dans quelle phrase les verbes 'être' et 'faire' sont-ils tous deux employés avec pertinence syntaxique ?",
           "options": [
-            "Je suis fatigué parce que je fais beaucoup de travail. (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "J'ai fatigué parce que je vais beaucoup de travail. (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "Je fais fatigué parce que je suis beaucoup de travail. (Synthesize and contrast the four core irregular verbs tre (U4))",
-            "Je vais fatigué parce que j'ai beaucoup de travail. (Synthesize and contrast the four core irregular verbs tre (U4))"
+            "Je suis fatigué parce que je fais beaucoup de travail. (Synthesize and contrast the four core irregular verbs tre)",
+            "J'ai fatigué parce que je vais beaucoup de travail. (Synthesize and contrast the four core irregular verbs tre)",
+            "Je fais fatigué parce que je suis beaucoup de travail. (Synthesize and contrast the four core irregular verbs tre)",
+            "Je vais fatigué parce que j'ai beaucoup de travail. (Synthesize and contrast the four core irregular verbs tre)"
           ],
           "answerIndex": 0,
           "explanation": "'Je suis fatigué' (état avec être) et 'je fais du travail' (action avec faire) appliquent rigoureusement les valeurs respectives de ces verbes."
@@ -2812,10 +2812,10 @@
         {
           "prompt": "Quelle est la transformation négative correcte de « Il aime le fromage » avec élision devant voyelle ?",
           "options": [
-            "Il n'aime pas le fromage. (Construct standard negative sentences using the twopart ne (U5))",
-            "Il ne aime pas le fromage. (Construct standard negative sentences using the twopart ne (U5))",
-            "Il pas aime le fromage. (Construct standard negative sentences using the twopart ne (U5))",
-            "Il aime pas de fromage. (Construct standard negative sentences using the twopart ne (U5))"
+            "Il n'aime pas le fromage. (Construct standard negative sentences using the twopart ne)",
+            "Il ne aime pas le fromage. (Construct standard negative sentences using the twopart ne)",
+            "Il pas aime le fromage. (Construct standard negative sentences using the twopart ne)",
+            "Il aime pas de fromage. (Construct standard negative sentences using the twopart ne)"
           ],
           "answerIndex": 0,
           "explanation": "La particule 'ne' s'élide obligatoirement en 'n'' devant un verbe débutant par une voyelle ou un h muet."
@@ -2827,10 +2827,10 @@
         {
           "prompt": "Où se placent les éléments de la négation 'ne...pas' par rapport au verbe conjugué ?",
           "options": [
-            "Ils encadrent le verbe conjugué : ne + verbe + pas. (Construct standard negative sentences using the twopart ne (U5))",
-            "Ils se placent tous les deux après le verbe. (Construct standard negative sentences using the twopart ne (U5))",
-            "Ils se placent au tout début de la phrase. (Construct standard negative sentences using the twopart ne (U5))",
-            "Ils remplacent le sujet. (Construct standard negative sentences using the twopart ne (U5))"
+            "Ils encadrent le verbe conjugué : ne + verbe + pas. (Construct standard negative sentences using the twopart ne)",
+            "Ils se placent tous les deux après le verbe. (Construct standard negative sentences using the twopart ne)",
+            "Ils se placent au tout début de la phrase. (Construct standard negative sentences using the twopart ne)",
+            "Ils remplacent le sujet. (Construct standard negative sentences using the twopart ne)"
           ],
           "answerIndex": 0,
           "explanation": "La négation française fonctionne comme une structure en tenaille encadrant le verbe conjugué."
@@ -2843,10 +2843,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase négative est parfaitement conforme aux règles du français standard ?",
           "options": [
-            "Je ne parle pas espagnol. (Construct standard negative sentences using the twopart ne (U5))",
-            "Je pas parle espagnol. (Construct standard negative sentences using the twopart ne (U5))",
-            "Je ne parle espagnol pas. (Construct standard negative sentences using the twopart ne (U5))",
-            "Je non parle pas espagnol. (Construct standard negative sentences using the twopart ne (U5))"
+            "Je ne parle pas espagnol. (Construct standard negative sentences using the twopart ne)",
+            "Je pas parle espagnol. (Construct standard negative sentences using the twopart ne)",
+            "Je ne parle espagnol pas. (Construct standard negative sentences using the twopart ne)",
+            "Je non parle pas espagnol. (Construct standard negative sentences using the twopart ne)"
           ],
           "answerIndex": 0,
           "explanation": "'Je ne parle pas espagnol' applique la syntaxe canonique de la négation à deux éléments."
@@ -2921,10 +2921,10 @@
         {
           "prompt": "Comment transforme-t-on « J'ai une voiture » à la forme négative pour exprimer l'absence totale de quantité ?",
           "options": [
-            "Je n'ai pas de voiture. (Apply the rule transforming indefinite un (U5))",
-            "Je n'ai pas une voiture. (Apply the rule transforming indefinite un (U5))",
-            "Je n'ai pas la voiture. (Apply the rule transforming indefinite un (U5))",
-            "Je n'ai pas des voitures. (Apply the rule transforming indefinite un (U5))"
+            "Je n'ai pas de voiture. (Apply the rule transforming indefinite un)",
+            "Je n'ai pas une voiture. (Apply the rule transforming indefinite un)",
+            "Je n'ai pas la voiture. (Apply the rule transforming indefinite un)",
+            "Je n'ai pas des voitures. (Apply the rule transforming indefinite un)"
           ],
           "answerIndex": 0,
           "explanation": "À la forme négative, les articles indéfinis (un, une, des) et partitifs (du, de la, des) se transforment obligatoirement en 'de' (ou 'd'')."
@@ -2936,10 +2936,10 @@
         {
           "prompt": "Avec quel verbe les articles indéfinis ne se transforment-ils PAS en 'de' à la forme négative ?",
           "options": [
-            "Le verbe ÊTRE (Apply the rule transforming indefinite un (U5))",
-            "Le verbe AVOIR (Apply the rule transforming indefinite un (U5))",
-            "Le verbe BOIRE (Apply the rule transforming indefinite un (U5))",
-            "Le verbe ACHETER (Apply the rule transforming indefinite un (U5))"
+            "Le verbe ÊTRE (Apply the rule transforming indefinite un)",
+            "Le verbe AVOIR (Apply the rule transforming indefinite un)",
+            "Le verbe BOIRE (Apply the rule transforming indefinite un)",
+            "Le verbe ACHETER (Apply the rule transforming indefinite un)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe être est la seule exception : exprimant une équivalence et non une quantité, il conserve l'article indéfini ('ce n'est pas un problème')."
@@ -2952,10 +2952,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre la transformation d'un article partitif (du café) en 'de' à la forme négative ?",
           "options": [
-            "Elle ne boit pas de café le soir. (Apply the rule transforming indefinite un (U5))",
-            "Elle ne boit pas du café le soir. (Apply the rule transforming indefinite un (U5))",
-            "Elle ne boit pas le café le soir. (Apply the rule transforming indefinite un (U5))",
-            "Elle ne boit pas un café le soir. (Apply the rule transforming indefinite un (U5))"
+            "Elle ne boit pas de café le soir. (Apply the rule transforming indefinite un)",
+            "Elle ne boit pas du café le soir. (Apply the rule transforming indefinite un)",
+            "Elle ne boit pas le café le soir. (Apply the rule transforming indefinite un)",
+            "Elle ne boit pas un café le soir. (Apply the rule transforming indefinite un)"
           ],
           "answerIndex": 0,
           "explanation": "Le partitif 'du café' devient obligatoirement 'de café' après la négation 'ne...pas'."
@@ -3032,10 +3032,10 @@
         {
           "prompt": "Quelle phrase exprime l'arrêt d'une habitude passée (« no longer / not anymore ») ?",
           "options": [
-            "Nous n'habitons plus à Paris. (Deploy complex negative adverbs ne (U5))",
-            "Nous n'habitons pas à Paris. (Deploy complex negative adverbs ne (U5))",
-            "Nous n'habitons jamais à Paris. (Deploy complex negative adverbs ne (U5))",
-            "Nous n'habitons rien à Paris. (Deploy complex negative adverbs ne (U5))"
+            "Nous n'habitons plus à Paris. (Deploy complex negative adverbs ne)",
+            "Nous n'habitons pas à Paris. (Deploy complex negative adverbs ne)",
+            "Nous n'habitons jamais à Paris. (Deploy complex negative adverbs ne)",
+            "Nous n'habitons rien à Paris. (Deploy complex negative adverbs ne)"
           ],
           "answerIndex": 0,
           "explanation": "'Ne...plus' exprime la cessation d'une situation antérieure (équivalent de 'no longer')."
@@ -3047,10 +3047,10 @@
         {
           "prompt": "Peut-on combiner le mot 'pas' avec 'jamais' ou 'plus' (ex: *ne pas jamais) ?",
           "options": [
-            "Non, 'jamais' et 'plus' remplacent complètement 'pas'. (Deploy complex negative adverbs ne (U5))",
-            "Oui, c'est obligatoire dans les phrases formelles. (Deploy complex negative adverbs ne (U5))",
-            "Oui, mais seulement au passé composé. (Deploy complex negative adverbs ne (U5))",
-            "Oui, avec le verbe être uniquement. (Deploy complex negative adverbs ne (U5))"
+            "Non, 'jamais' et 'plus' remplacent complètement 'pas'. (Deploy complex negative adverbs ne)",
+            "Oui, c'est obligatoire dans les phrases formelles. (Deploy complex negative adverbs ne)",
+            "Oui, mais seulement au passé composé. (Deploy complex negative adverbs ne)",
+            "Oui, avec le verbe être uniquement. (Deploy complex negative adverbs ne)"
           ],
           "answerIndex": 0,
           "explanation": "Les adverbes négatifs complexes (jamais, plus, rien) se substituent entièrement à 'pas' et s'excluent mutuellement."
@@ -3065,8 +3065,8 @@
           "options": [
             "Il est muet (/ply/)",
             "Il est sonore (/plys/)",
-            "Il se prononce /z/. (Deploy complex negative adverbs ne (U5))",
-            "Il se prononce comme un 't'. (Deploy complex negative adverbs ne (U5))"
+            "Il se prononce /z/. (Deploy complex negative adverbs ne)",
+            "Il se prononce comme un 't'. (Deploy complex negative adverbs ne)"
           ],
           "answerIndex": 0,
           "explanation": "Dans la négation 'ne...plus', le 's' final est toujours muet (/ply/)."
@@ -3145,9 +3145,9 @@
           "prompt": "Quelle est la position du pronom négatif 'personne' en fonction de complément d'objet direct ?",
           "options": [
             "En fin de proposition après le verbe (ex: Je ne vois personne)",
-            "Entre 'ne' et le verbe. (Deploy negative pronouns ne (U5))",
-            "Devant le pronom sujet. (Deploy negative pronouns ne (U5))",
-            "Toujours au tout début de la phrase. (Deploy negative pronouns ne (U5))"
+            "Entre 'ne' et le verbe. (Deploy negative pronouns ne)",
+            "Devant le pronom sujet. (Deploy negative pronouns ne)",
+            "Toujours au tout début de la phrase. (Deploy negative pronouns ne)"
           ],
           "answerIndex": 0,
           "explanation": "Contrairement à 'pas' et 'rien' qui suivent immédiatement le verbe conjugué, 'personne' occupe la position finale du syntagme verbal."
@@ -3159,10 +3159,10 @@
         {
           "prompt": "Comment formule-t-on « Nothing is impossible » avec 'rien' en position de sujet ?",
           "options": [
-            "Rien n'est impossible. (Deploy negative pronouns ne (U5))",
-            "Ne rien est impossible. (Deploy negative pronouns ne (U5))",
-            "Pas rien est impossible. (Deploy negative pronouns ne (U5))",
-            "Rien n'a pas impossible. (Deploy negative pronouns ne (U5))"
+            "Rien n'est impossible. (Deploy negative pronouns ne)",
+            "Ne rien est impossible. (Deploy negative pronouns ne)",
+            "Pas rien est impossible. (Deploy negative pronouns ne)",
+            "Rien n'a pas impossible. (Deploy negative pronouns ne)"
           ],
           "answerIndex": 0,
           "explanation": "En position sujet, 'Rien' se place en tête de phrase, suivi de la particule 'ne' (ou 'n'') devant le verbe."
@@ -3175,10 +3175,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase négative nie correctement les objets matériels ou abstraits (nothing) ?",
           "options": [
-            "Je ne comprends rien à cet exercice. (Deploy negative pronouns ne (U5))",
-            "Je ne comprends personne à cet exercice. (Deploy negative pronouns ne (U5))",
-            "Je ne comprends pas rien à cet exercice. (Deploy negative pronouns ne (U5))",
-            "Je ne comprends plus pas à cet exercice. (Deploy negative pronouns ne (U5))"
+            "Je ne comprends rien à cet exercice. (Deploy negative pronouns ne)",
+            "Je ne comprends personne à cet exercice. (Deploy negative pronouns ne)",
+            "Je ne comprends pas rien à cet exercice. (Deploy negative pronouns ne)",
+            "Je ne comprends plus pas à cet exercice. (Deploy negative pronouns ne)"
           ],
           "answerIndex": 0,
           "explanation": "'Ne...rien' est le pronom négatif approprié pour nier des choses ou des actions."
@@ -3257,10 +3257,10 @@
         {
           "prompt": "Que signifie la tournure restrictive « Je n'ai que cinq minutes » ?",
           "options": [
-            "J'ai seulement cinq minutes (Use the restrictive structure ne (U5))",
-            "Je n'ai pas cinq minutes du tout. (Use the restrictive structure ne (U5))",
-            "Je n'aurai jamais cinq minutes. (Use the restrictive structure ne (U5))",
-            "J'ai plus de cinq minutes. (Use the restrictive structure ne (U5))"
+            "J'ai seulement cinq minutes (Use the restrictive structure ne)",
+            "Je n'ai pas cinq minutes du tout. (Use the restrictive structure ne)",
+            "Je n'aurai jamais cinq minutes. (Use the restrictive structure ne)",
+            "J'ai plus de cinq minutes. (Use the restrictive structure ne)"
           ],
           "answerIndex": 0,
           "explanation": "'Ne...que' exprime une restriction équivalente à 'seulement' (only) et non une absence totale."
@@ -3272,10 +3272,10 @@
         {
           "prompt": "Pourquoi les articles ne se transforment-ils pas en 'de' avec la restriction 'ne...que' (ex: Elle ne boit que de l'eau) ?",
           "options": [
-            "Parce que le sens profond de la phrase est positif et affirme l'existence d'une quantité restreinte. (Use the restrictive structure ne (U5))",
-            "Parce que 'que' est une préposition invariable. (Use the restrictive structure ne (U5))",
-            "Parce que c'est une faute de grammaire acceptée. (Use the restrictive structure ne (U5))",
-            "Parce que l'eau est un liquide. (Use the restrictive structure ne (U5))"
+            "Parce que le sens profond de la phrase est positif et affirme l'existence d'une quantité restreinte. (Use the restrictive structure ne)",
+            "Parce que 'que' est une préposition invariable. (Use the restrictive structure ne)",
+            "Parce que c'est une faute de grammaire acceptée. (Use the restrictive structure ne)",
+            "Parce que l'eau est un liquide. (Use the restrictive structure ne)"
           ],
           "answerIndex": 0,
           "explanation": "'Ne...que' n'étant pas une véritable négation de rejet, la règle de réduction des articles à 'de' ne s'applique pas."
@@ -3288,10 +3288,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase restrictive illustre l'emploi de « ne...que » pour limiter une action dans le temps ?",
           "options": [
-            "Le musée n'ouvre qu'à dix heures. (Use the restrictive structure ne (U5))",
-            "Le musée n'ouvre pas à dix heures. (Use the restrictive structure ne (U5))",
-            "Le musée n'ouvre jamais à dix heures. (Use the restrictive structure ne (U5))",
-            "Le musée n'ouvre rien à dix heures. (Use the restrictive structure ne (U5))"
+            "Le musée n'ouvre qu'à dix heures. (Use the restrictive structure ne)",
+            "Le musée n'ouvre pas à dix heures. (Use the restrictive structure ne)",
+            "Le musée n'ouvre jamais à dix heures. (Use the restrictive structure ne)",
+            "Le musée n'ouvre rien à dix heures. (Use the restrictive structure ne)"
           ],
           "answerIndex": 0,
           "explanation": "'N'ouvre qu'à dix heures' exprime la restriction temporelle 'ouvre seulement à dix heures'."
@@ -3366,10 +3366,10 @@
         {
           "prompt": "Comment s'accorde l'adjectif régulier 'vert' avec le nom féminin singulier « la robe » ?",
           "options": [
-            "La robe verte (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "La robe vert (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "La robe vertes (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "La robe vertue (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))"
+            "La robe verte (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "La robe vert (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "La robe vertes (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "La robe vertue (Apply regular gender e and number s agreement rules to French descriptive adjectives)"
           ],
           "answerIndex": 0,
           "explanation": "L'adjectif qualificatif s'accorde en genre avec le nom féminin en recevant la marque régulière '-e' (ce qui fait entendre la consonne finale /vɛʁt/)."
@@ -3381,10 +3381,10 @@
         {
           "prompt": "Pourquoi l'adjectif 'français' ne change-t-il pas d'orthographe entre le masculin singulier et le masculin pluriel (un étudiant français / des étudiants français) ?",
           "options": [
-            "Parce que les adjectifs terminés par -s ou -x au singulier sont invariables au pluriel. (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "Parce que c'est un nom propre invariable. (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "Parce qu'il s'agit d'une exception verbale. (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "Parce que le 's' est une consonne muette. (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))"
+            "Parce que les adjectifs terminés par -s ou -x au singulier sont invariables au pluriel. (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "Parce que c'est un nom propre invariable. (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "Parce qu'il s'agit d'une exception verbale. (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "Parce que le 's' est une consonne muette. (Apply regular gender e and number s agreement rules to French descriptive adjectives)"
           ],
           "answerIndex": 0,
           "explanation": "En français, les adjectifs déjà terminés par un -s ou un -x au singulier ne prennent pas de 's' supplémentaire au pluriel."
@@ -3397,10 +3397,10 @@
           "type": "multiple-choice",
           "prompt": "Quel accord adjectival au féminin pluriel est correctement orthographié pour qualifier des chaussures de couleur noire ?",
           "options": [
-            "Des chaussures noires (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "Des chaussures noirs (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "Des chaussures noir (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))",
-            "Des chaussures noire (Apply regular gender e and number s agreement rules to French descriptive adjectives (U6))"
+            "Des chaussures noires (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "Des chaussures noirs (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "Des chaussures noir (Apply regular gender e and number s agreement rules to French descriptive adjectives)",
+            "Des chaussures noire (Apply regular gender e and number s agreement rules to French descriptive adjectives)"
           ],
           "answerIndex": 0,
           "explanation": "Le nom 'chaussures' étant féminin pluriel, l'adjectif prend la marque du féminin (-e) et du pluriel (-s) : 'noires'."
@@ -3475,10 +3475,10 @@
         {
           "prompt": "Quelle forme masculine singulière particulière prend l'adjectif 'beau' devant un nom commençant par une voyelle comme « appartement » ?",
           "options": [
-            "Un bel appartement (Master irregular adjective morphology in French beau (U6))",
-            "Un beau appartement (Master irregular adjective morphology in French beau (U6))",
-            "Un belle appartement (Master irregular adjective morphology in French beau (U6))",
-            "Un beaux appartement (Master irregular adjective morphology in French beau (U6))"
+            "Un bel appartement (Master irregular adjective morphology in French beau)",
+            "Un beau appartement (Master irregular adjective morphology in French beau)",
+            "Un belle appartement (Master irregular adjective morphology in French beau)",
+            "Un beaux appartement (Master irregular adjective morphology in French beau)"
           ],
           "answerIndex": 0,
           "explanation": "Devant un nom masculin débutant par une voyelle ou un h muet, beau, nouveau et vieux deviennent respectivement bel, nouvel et vieil."
@@ -3490,10 +3490,10 @@
         {
           "prompt": "Quel est le féminin régulier de l'adjectif de couleur 'blanc' ?",
           "options": [
-            "Blanche (Master irregular adjective morphology in French beau (U6))",
-            "Blanque (Master irregular adjective morphology in French beau (U6))",
-            "Blance (Master irregular adjective morphology in French beau (U6))",
-            "Blanchie (Master irregular adjective morphology in French beau (U6))"
+            "Blanche (Master irregular adjective morphology in French beau)",
+            "Blanque (Master irregular adjective morphology in French beau)",
+            "Blance (Master irregular adjective morphology in French beau)",
+            "Blanchie (Master irregular adjective morphology in French beau)"
           ],
           "answerIndex": 0,
           "explanation": "Le féminin de l'adjectif 'blanc' s'écrit 'blanche' avec insertion du graphème 'ch'."
@@ -3506,10 +3506,10 @@
           "type": "multiple-choice",
           "prompt": "Comment s'accorde l'adjectif 'nouveau' au masculin pluriel dans « de _____ projets » ?",
           "options": [
-            "De nouveaux projets (Master irregular adjective morphology in French beau (U6))",
-            "De nouveaus projets (Master irregular adjective morphology in French beau (U6))",
-            "De nouvels projets (Master irregular adjective morphology in French beau (U6))",
-            "De nouvelles projets (Master irregular adjective morphology in French beau (U6))"
+            "De nouveaux projets (Master irregular adjective morphology in French beau)",
+            "De nouveaus projets (Master irregular adjective morphology in French beau)",
+            "De nouvels projets (Master irregular adjective morphology in French beau)",
+            "De nouvelles projets (Master irregular adjective morphology in French beau)"
           ],
           "answerIndex": 0,
           "explanation": "Les adjectifs en -eau prennent un -x final muet au pluriel masculin : 'nouveaux'."
@@ -3587,8 +3587,8 @@
           "options": [
             "Après le nom (ex: une chemise bleue, la cuisine marocaine)",
             "Avant le nom (comme en anglais)",
-            "Au début de la phrase. (Position French descriptive adjectives correctly in standard postnominal position colors (U6))",
-            "Toujours après le verbe conjugué. (Position French descriptive adjectives correctly in standard postnominal position colors (U6))"
+            "Au début de la phrase. (Position French descriptive adjectives correctly in standard postnominal position colors)",
+            "Toujours après le verbe conjugué. (Position French descriptive adjectives correctly in standard postnominal position colors)"
           ],
           "answerIndex": 0,
           "explanation": "La règle générale en français place les adjectifs distinctifs objectifs (couleurs, formes, nationalités, origines) après le substantif."
@@ -3600,10 +3600,10 @@
         {
           "prompt": "Quelle phrase illustre le positionnement post-nominal correct d'un adjectif de forme géométrique ?",
           "options": [
-            "C'est une table rectangulaire en bois. (Position French descriptive adjectives correctly in standard postnominal position colors (U6))",
-            "C'est une rectangulaire table en bois. (Position French descriptive adjectives correctly in standard postnominal position colors (U6))",
-            "C'est un bois table rectangulaire. (Position French descriptive adjectives correctly in standard postnominal position colors (U6))",
-            "C'est rectangulaire une table en bois. (Position French descriptive adjectives correctly in standard postnominal position colors (U6))"
+            "C'est une table rectangulaire en bois. (Position French descriptive adjectives correctly in standard postnominal position colors)",
+            "C'est une rectangulaire table en bois. (Position French descriptive adjectives correctly in standard postnominal position colors)",
+            "C'est un bois table rectangulaire. (Position French descriptive adjectives correctly in standard postnominal position colors)",
+            "C'est rectangulaire une table en bois. (Position French descriptive adjectives correctly in standard postnominal position colors)"
           ],
           "answerIndex": 0,
           "explanation": "Les adjectifs décrivant une forme physique (ronde, carrée, rectangulaire) se placent obligatoirement après le nom."
@@ -3616,10 +3616,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la structure syntaxique correcte pour désigner un pantalon de couleur noire ?",
           "options": [
-            "Un pantalon noir (Position French descriptive adjectives correctly in standard postnominal position colors (U6))",
-            "Un noir pantalon (Position French descriptive adjectives correctly in standard postnominal position colors (U6))",
-            "Un noire pantalon (Position French descriptive adjectives correctly in standard postnominal position colors (U6))",
-            "Un pantalons noir (Position French descriptive adjectives correctly in standard postnominal position colors (U6))"
+            "Un pantalon noir (Position French descriptive adjectives correctly in standard postnominal position colors)",
+            "Un noir pantalon (Position French descriptive adjectives correctly in standard postnominal position colors)",
+            "Un noire pantalon (Position French descriptive adjectives correctly in standard postnominal position colors)",
+            "Un pantalons noir (Position French descriptive adjectives correctly in standard postnominal position colors)"
           ],
           "answerIndex": 0,
           "explanation": "L'adjectif de couleur 'noir' suit obligatoirement le nom masculin 'pantalon'."
@@ -3696,10 +3696,10 @@
         {
           "prompt": "D'après l'acronyme mnémotechnique BANGS (Beauty, Age, Number, Goodness, Size), quel adjectif se place AVANT le nom ?",
           "options": [
-            "Un grand jardin (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))",
-            "Un jardin vert (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))",
-            "Un jardin français (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))",
-            "Un jardin circulaire (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))"
+            "Un grand jardin (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)",
+            "Un jardin vert (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)",
+            "Un jardin français (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)",
+            "Un jardin circulaire (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)"
           ],
           "answerIndex": 0,
           "explanation": "Les adjectifs courts et fréquents relevant de la taille (grand, petit), de la beauté (beau, joli), de l'âge (jeune, vieux), du rang et de la bonté précèdent le nom."
@@ -3712,9 +3712,9 @@
           "prompt": "Quand une phrase combine un adjectif BANGS et un adjectif de couleur pour qualifier une robe, quel ordre applique-t-on ?",
           "options": [
             "Une jolie (BANGS avant)",
-            "Une rouge jolie robe. (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))",
-            "Une robe jolie rouge. (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))",
-            "Une robe rouge jolie. (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))"
+            "Une rouge jolie robe. (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)",
+            "Une robe jolie rouge. (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)",
+            "Une robe rouge jolie. (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)"
           ],
           "answerIndex": 0,
           "explanation": "L'adjectif d'appréciation/beauté 'jolie' se place devant le nom, tandis que l'adjectif objectif de couleur 'rouge' se place après le nom."
@@ -3727,10 +3727,10 @@
           "type": "multiple-choice",
           "prompt": "Quel adjectif BANGS exprimant la jeunesse précède correctement le substantif dans « un _____ homme » ?",
           "options": [
-            "Un jeune homme (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))",
-            "Un homme jeune uniquement (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))",
-            "Un jeunesse homme (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))",
-            "Un gentiment homme (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives (U6))"
+            "Un jeune homme (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)",
+            "Un homme jeune uniquement (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)",
+            "Un jeunesse homme (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)",
+            "Un gentiment homme (Apply the BANGS rule to identify and position the core group of highfrequency prenominal French adjectives)"
           ],
           "answerIndex": 0,
           "explanation": "L'adjectif d'âge 'jeune' se place naturellement avant le substantif qu'il qualifie."
@@ -3808,10 +3808,10 @@
         {
           "prompt": "Quelle différence de sens existe-t-il entre « un grand homme » (antéposé) et « un homme grand » (postposé) ?",
           "options": [
-            "« Un grand homme » = un homme illustre/remarquable ; « un homme grand » = un homme de haute taille physique. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))",
-            "Les deux expressions sont rigoureusement synonymes. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))",
-            "« Un grand homme » désigne un vieillard. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))",
-            "« Un homme grand » désigne un dirigeant politique. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))"
+            "« Un grand homme » = un homme illustre/remarquable ; « un homme grand » = un homme de haute taille physique. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)",
+            "Les deux expressions sont rigoureusement synonymes. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)",
+            "« Un grand homme » désigne un vieillard. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)",
+            "« Un homme grand » désigne un dirigeant politique. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)"
           ],
           "answerIndex": 0,
           "explanation": "Antéposé, 'grand' prend une valeur figurative et méliorative (illustre) ; postposé, il conserve sa valeur physique littérale de mesure corporelle."
@@ -3824,9 +3824,9 @@
           "prompt": "Que signifie l'adjectif dans « ma propre chambre » par opposition à « une chambre propre » ?",
           "options": [
             "« Ma propre chambre » = ma chambre personnelle (possession)",
-            "« Ma propre chambre » = une chambre sale. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))",
-            "« Une chambre propre » = une chambre vide. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))",
-            "Les deux tournures expriment le coût du loyer. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))"
+            "« Ma propre chambre » = une chambre sale. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)",
+            "« Une chambre propre » = une chambre vide. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)",
+            "Les deux tournures expriment le coût du loyer. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)"
           ],
           "answerIndex": 0,
           "explanation": "'Propre' antéposé insiste sur l'exclusivité de la possession (own), alors que postposé il qualifie la propreté matérielle (clean)."
@@ -3839,10 +3839,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre le sens d'affection de l'adjectif 'cher' antéposé au substantif ?",
           "options": [
-            "C'est un cher ami de la famille (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))",
-            "Cette montre est un cher objet. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))",
-            "J'achète une voiture chère ami. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))",
-            "Le restaurant coûte un cher menu. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun (U6))"
+            "C'est un cher ami de la famille (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)",
+            "Cette montre est un cher objet. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)",
+            "J'achète une voiture chère ami. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)",
+            "Le restaurant coûte un cher menu. (Distinguish adjectives whose meaning fundamentally shifts depending on whether they precede or follow the noun)"
           ],
           "answerIndex": 0,
           "explanation": "Devant le nom de personne, 'cher' exprime l'attachement affectif ('dear friend'), alors qu'après le nom il indique un prix élevé ('expensive')."
@@ -3918,10 +3918,10 @@
         {
           "prompt": "Quelle est la formation régulière du participe passé des verbes du 1er groupe en -er (ex: manger, parler) ?",
           "options": [
-            "Le remplacement de -er par -é (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "L'ajout d'un -t final (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "Le remplacement de -er par -u (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "Le verbe reste invariable à l'infinitif (Form the pass compos with auxiliary AVOIR and regular past participles (U7))"
+            "Le remplacement de -er par -é (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "L'ajout d'un -t final (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "Le remplacement de -er par -u (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "Le verbe reste invariable à l'infinitif (Form the pass compos with auxiliary AVOIR and regular past participles)"
           ],
           "answerIndex": 0,
           "explanation": "Les verbes réguliers du premier groupe forment leur participe passé en remplaçant la terminaison infinitive -er par un -é aigu."
@@ -3933,10 +3933,10 @@
         {
           "prompt": "Comment conjugue-t-on le verbe régulier du 2e groupe 'finir' au passé composé avec le sujet 'tu' ?",
           "options": [
-            "Tu as fini ton projet. (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "Tu es fini ton projet. (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "Tu as finu ton projet. (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "Tu as finis ton projet. (Form the pass compos with auxiliary AVOIR and regular past participles (U7))"
+            "Tu as fini ton projet. (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "Tu es fini ton projet. (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "Tu as finu ton projet. (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "Tu as finis ton projet. (Form the pass compos with auxiliary AVOIR and regular past participles)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe finir prend l'auxiliaire avoir et a pour participe passé régulier en -i : 'tu as fini'."
@@ -3949,10 +3949,10 @@
           "type": "multiple-choice",
           "prompt": "Quel est le participe passé régulier en -u du verbe du 3e groupe 'attendre' ?",
           "options": [
-            "Attendu (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "Attendi (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "Attendant (Form the pass compos with auxiliary AVOIR and regular past participles (U7))",
-            "Attendé (Form the pass compos with auxiliary AVOIR and regular past participles (U7))"
+            "Attendu (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "Attendi (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "Attendant (Form the pass compos with auxiliary AVOIR and regular past participles)",
+            "Attendé (Form the pass compos with auxiliary AVOIR and regular past participles)"
           ],
           "answerIndex": 0,
           "explanation": "Les verbes réguliers en -dre (attendre, vendre, répondre) forment leur participe passé en -u."
@@ -4032,10 +4032,10 @@
         {
           "prompt": "Quel est le participe passé irrégulier du verbe 'faire' dans « Qu'est-ce que tu as _____ ce week-end ? » ?",
           "options": [
-            "fait (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "fais (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "faisez (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "fai (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))"
+            "fait (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "fais (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "faisez (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "fai (Master highfrequency irregular past participles used with auxiliary AVOIR fait)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe faire a pour participe passé irrégulier 'fait' avec un 't' final muet."
@@ -4047,10 +4047,10 @@
         {
           "prompt": "Comment se prononce le participe passé irrégulier du verbe 'avoir' dans « J'ai eu de la chance » ?",
           "options": [
-            "Il s'écrit 'eu' mais se prononce comme la voyelle unique /y/ (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "Il se prononce /ø/ comme dans 'deux'. (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "Il se prononce /ɛw/. (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "Il se prononce /e/ comme 'été'. (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))"
+            "Il s'écrit 'eu' mais se prononce comme la voyelle unique /y/ (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "Il se prononce /ø/ comme dans 'deux'. (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "Il se prononce /ɛw/. (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "Il se prononce /e/ comme 'été'. (Master highfrequency irregular past participles used with auxiliary AVOIR fait)"
           ],
           "answerIndex": 0,
           "explanation": "Le participe passé de l'auxiliaire avoir s'orthographie 'eu' et se prononce /y/ en français standard."
@@ -4063,10 +4063,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre le participe passé irrégulier en -is du verbe 'prendre' ?",
           "options": [
-            "J'ai pris le train de huit heures. (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "J'ai prendu le train de huit heures. (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "J'ai prenné le train de huit heures. (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))",
-            "J'ai prendi le train de huit heures. (Master highfrequency irregular past participles used with auxiliary AVOIR fait (U7))"
+            "J'ai pris le train de huit heures. (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "J'ai prendu le train de huit heures. (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "J'ai prenné le train de huit heures. (Master highfrequency irregular past participles used with auxiliary AVOIR fait)",
+            "J'ai prendi le train de huit heures. (Master highfrequency irregular past participles used with auxiliary AVOIR fait)"
           ],
           "answerIndex": 0,
           "explanation": "'Prendre' et ses dérivés (apprendre, comprendre) ont leur participe passé en -is : 'pris', 'appris', 'compris'."
@@ -4142,10 +4142,10 @@
         {
           "prompt": "Pourquoi le participe passé s'accorde-t-il dans la phrase « Elle est allée à Paris » ?",
           "options": [
-            "Parce qu'avec l'auxiliaire ÊTRE, le participe passé s'accorde obligatoirement en genre et nombre avec le sujet. (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "Parce que Paris est une ville féminine. (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "Parce qu'il s'agit d'un verbe du premier groupe. (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "C'est une option stylistique facultative. (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))"
+            "Parce qu'avec l'auxiliaire ÊTRE, le participe passé s'accorde obligatoirement en genre et nombre avec le sujet. (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "Parce que Paris est une ville féminine. (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "Parce qu'il s'agit d'un verbe du premier groupe. (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "C'est une option stylistique facultative. (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)"
           ],
           "answerIndex": 0,
           "explanation": "La règle fondamentale de l'auxiliaire être au passé composé impose l'accord en genre et nombre du participe passé avec le sujet."
@@ -4157,10 +4157,10 @@
         {
           "prompt": "Quel verbe de déplacement de la règle DR & MRS VANDERTRAMP prend l'auxiliaire être au passé composé ?",
           "options": [
-            "Arriver (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "Manger (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "Acheter (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "Travailler (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))"
+            "Arriver (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "Manger (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "Acheter (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "Travailler (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe arriver fait partie des verbes intransitifs de mouvement se conjuguant avec l'auxiliaire être (DR MRS VANDERTRAMP)."
@@ -4173,10 +4173,10 @@
           "type": "multiple-choice",
           "prompt": "Quel est le participe passé du verbe 'naître' accordé au féminin singulier dans « Marie est _____ en 1995 » ?",
           "options": [
-            "née (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "né (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "naissante (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))",
-            "nais (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic (U7))"
+            "née (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "né (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "naissante (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)",
+            "nais (Identify the 17 verbs of movement and change of state that take auxiliary TRE using the DR  MRS VANDERTRAMP mnemonic)"
           ],
           "answerIndex": 0,
           "explanation": "Le participe passé de naître est 'né', qui prend un -e au féminin avec l'auxiliaire être : 'née'."
@@ -4251,10 +4251,10 @@
         {
           "prompt": "Quel auxiliaire conjugue TOUS les verbes pronominaux (réfléchis) au passé composé (ex: se réveiller, se lever) ?",
           "options": [
-            "L'auxiliaire ÊTRE (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "L'auxiliaire AVOIR (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "L'auxiliaire FAIRE (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "L'auxiliaire ALLER (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))"
+            "L'auxiliaire ÊTRE (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "L'auxiliaire AVOIR (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "L'auxiliaire FAIRE (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "L'auxiliaire ALLER (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)"
           ],
           "answerIndex": 0,
           "explanation": "Tous les verbes pronominaux (se réveiller, se lever, se coucher) se conjuguent obligatoirement avec l'auxiliaire être au passé composé."
@@ -4266,10 +4266,10 @@
         {
           "prompt": "Pourquoi n'accorde-t-on PAS le participe passé dans « Elle s'est lavé les mains » ?",
           "options": [
-            "Parce que le complément d'objet direct 'les mains' est placé APRÈS le verbe, le pronom réfléchi étant indirect. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "Parce que le mot 'mains' est masculin. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "Parce que le verbe laver est toujours invariable. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "C'est une exception réservée aux parties du corps. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))"
+            "Parce que le complément d'objet direct 'les mains' est placé APRÈS le verbe, le pronom réfléchi étant indirect. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "Parce que le mot 'mains' est masculin. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "Parce que le verbe laver est toujours invariable. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "C'est une exception réservée aux parties du corps. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)"
           ],
           "answerIndex": 0,
           "explanation": "Quand un complément d'objet direct est placé après un verbe pronominal ('les mains'), le pronom 'se' a une fonction d'objet indirect : le participe reste donc invariable."
@@ -4282,10 +4282,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre l'accord correct au masculin pluriel d'un verbe réfléchi sans objet direct postérieur ?",
           "options": [
-            "Nous nous sommes promenés dans le parc. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "Nous nous sommes promené dans le parc. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "Nous nous avons promené dans le parc. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))",
-            "Nous nous sommes promenées pour des garçons. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos (U7))"
+            "Nous nous sommes promenés dans le parc. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "Nous nous sommes promené dans le parc. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "Nous nous avons promené dans le parc. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)",
+            "Nous nous sommes promenées pour des garçons. (Apply subject agreement rules with auxiliary tre and reflexive verbs in the pass compos)"
           ],
           "answerIndex": 0,
           "explanation": "Le pronom réfléchi 'nous' (masculin pluriel) étant COD, le participe passé 'promenés' prend la marque du pluriel -s."
@@ -4364,9 +4364,9 @@
           "prompt": "Où se placent les éléments de la négation 'ne...pas' dans un temps composé comme le passé composé ?",
           "options": [
             "Ils encadrent l'auxiliaire conjugué (ex: Je n'ai pas compris)",
-            "Ils encadrent le participe passé. (Place negative frames ne (U7))",
-            "Ils se placent tous les deux après le participe passé. (Place negative frames ne (U7))",
-            "Ils se placent devant le sujet. (Place negative frames ne (U7))"
+            "Ils encadrent le participe passé. (Place negative frames ne)",
+            "Ils se placent tous les deux après le participe passé. (Place negative frames ne)",
+            "Ils se placent devant le sujet. (Place negative frames ne)"
           ],
           "answerIndex": 0,
           "explanation": "Dans les temps composés, la négation standard (ne...pas, ne...jamais, ne...rien) enserre directement l'auxiliaire avoir ou être."
@@ -4379,9 +4379,9 @@
           "prompt": "Quelle est la SEULE négation qui se place après le participe passé au lieu d'encadrer l'auxiliaire ?",
           "options": [
             "PERSONNE (ex: Je n'ai vu personne)",
-            "RIEN (Place negative frames ne (U7))",
-            "JAMAIS (Place negative frames ne (U7))",
-            "PAS (Place negative frames ne (U7))"
+            "RIEN (Place negative frames ne)",
+            "JAMAIS (Place negative frames ne)",
+            "PAS (Place negative frames ne)"
           ],
           "answerIndex": 0,
           "explanation": "Le pronom négatif 'personne' fonctionne syntaxiquement comme un complément d'objet et se place en fin de proposition après le participe passé."
@@ -4394,10 +4394,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase applique rigoureusement la négation avec le pronom 'rien' au passé composé ?",
           "options": [
-            "Nous n'avons rien acheté au marché. (Place negative frames ne (U7))",
-            "Nous n'avons acheté rien au marché. (Place negative frames ne (U7))",
-            "Nous avons rien n'acheté au marché. (Place negative frames ne (U7))",
-            "Nous ne rien avons pas acheté au marché. (Place negative frames ne (U7))"
+            "Nous n'avons rien acheté au marché. (Place negative frames ne)",
+            "Nous n'avons acheté rien au marché. (Place negative frames ne)",
+            "Nous avons rien n'acheté au marché. (Place negative frames ne)",
+            "Nous ne rien avons pas acheté au marché. (Place negative frames ne)"
           ],
           "answerIndex": 0,
           "explanation": "'Rien' s'insère directement entre l'auxiliaire et le participe passé : 'n'avons rien acheté'."
@@ -4472,10 +4472,10 @@
         {
           "prompt": "Comment trouve-t-on le radical régulier de l'imparfait pour presque tous les verbes français ?",
           "options": [
-            "On prend la forme 'nous' du présent et on retranche la terminaison '-ons'. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "On prend l'infinitif sans modification. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "On prend le participe passé. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "On prend la forme 'ils' du futur simple. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))"
+            "On prend la forme 'nous' du présent et on retranche la terminaison '-ons'. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "On prend l'infinitif sans modification. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "On prend le participe passé. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "On prend la forme 'ils' du futur simple. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "Pour former l'imparfait, on isole le radical en retirant la terminaison '-ons' de la 1re personne du pluriel (nous) du présent de l'indicatif."
@@ -4487,10 +4487,10 @@
         {
           "prompt": "Quelle est la terminaison de l'imparfait avec le sujet 'nous' pour le verbe 'finir' (nous finissons au présent) ?",
           "options": [
-            "-ions (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "-iez (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "-ons (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "-ais (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))"
+            "-ions (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "-iez (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "-ons (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "-ais (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "Avec le sujet 'nous', la terminaison universelle de l'imparfait est '-ions' (finiss- + -ions = finissions)."
@@ -4503,10 +4503,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase conjugue correctement le verbe 'parler' à la 1re personne du singulier de l'imparfait ?",
           "options": [
-            "Quand j'étais jeune, je parlais souvent avec mes grands-parents. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "Quand j'étais jeune, je parlait souvent. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "Quand j'étais jeune, je parlions souvent. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))",
-            "Quand j'étais jeune, je parlerez souvent. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais (U8))"
+            "Quand j'étais jeune, je parlais souvent avec mes grands-parents. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "Quand j'étais jeune, je parlait souvent. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "Quand j'étais jeune, je parlions souvent. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)",
+            "Quand j'étais jeune, je parlerez souvent. (Form the imperfect tense limparfait by taking the present tense nous stem and adding standard endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "La 1re personne du singulier prend la terminaison '-ais' : 'je parlais'."
@@ -4581,10 +4581,10 @@
         {
           "prompt": "Quel est le SEUL verbe de toute la langue française possédant un radical irrégulier à l'imparfait ?",
           "options": [
-            "Le verbe ÊTRE (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Le verbe AVOIR (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Le verbe FAIRE (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Le verbe ALLER (Conjugate the sole irregular stem verb in limparfait (U8))"
+            "Le verbe ÊTRE (Conjugate the sole irregular stem verb in limparfait)",
+            "Le verbe AVOIR (Conjugate the sole irregular stem verb in limparfait)",
+            "Le verbe FAIRE (Conjugate the sole irregular stem verb in limparfait)",
+            "Le verbe ALLER (Conjugate the sole irregular stem verb in limparfait)"
           ],
           "answerIndex": 0,
           "explanation": "Être est l'unique verbe irrégulier à l'imparfait car sa forme 'nous sommes' ne possède pas la terminaison '-ons' : il prend le radical ét-."
@@ -4596,10 +4596,10 @@
         {
           "prompt": "Comment conjugue-t-on le verbe être à l'imparfait avec le sujet 'nous' ?",
           "options": [
-            "Nous étions en vacances au bord de la mer. (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Nous étiez en vacances. (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Nous sommions en vacances. (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Nous serions en vacances. (Conjugate the sole irregular stem verb in limparfait (U8))"
+            "Nous étions en vacances au bord de la mer. (Conjugate the sole irregular stem verb in limparfait)",
+            "Nous étiez en vacances. (Conjugate the sole irregular stem verb in limparfait)",
+            "Nous sommions en vacances. (Conjugate the sole irregular stem verb in limparfait)",
+            "Nous serions en vacances. (Conjugate the sole irregular stem verb in limparfait)"
           ],
           "answerIndex": 0,
           "explanation": "Le radical 'ét-' combiné à la terminaison '-ions' forme 'nous étions'."
@@ -4612,10 +4612,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre la conjugaison correcte de 'être' à la 3e personne du singulier de l'imparfait ?",
           "options": [
-            "Elle était très heureuse d'apprendre la nouvelle. (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Elle étais très heureuse d'apprendre la nouvelle. (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Elle étiez très heureuse d'apprendre la nouvelle. (Conjugate the sole irregular stem verb in limparfait (U8))",
-            "Elle étant très heureuse d'apprendre la nouvelle. (Conjugate the sole irregular stem verb in limparfait (U8))"
+            "Elle était très heureuse d'apprendre la nouvelle. (Conjugate the sole irregular stem verb in limparfait)",
+            "Elle étais très heureuse d'apprendre la nouvelle. (Conjugate the sole irregular stem verb in limparfait)",
+            "Elle étiez très heureuse d'apprendre la nouvelle. (Conjugate the sole irregular stem verb in limparfait)",
+            "Elle étant très heureuse d'apprendre la nouvelle. (Conjugate the sole irregular stem verb in limparfait)"
           ],
           "answerIndex": 0,
           "explanation": "Avec elle/il/on, la terminaison est '-ait' : 'elle était'."
@@ -4691,10 +4691,10 @@
         {
           "prompt": "Quel est le radical de l'imparfait pour le verbe 'prendre' (nous prenons au présent) ?",
           "options": [
-            "pren- (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "prend- (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "pr- (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "prenn- (Form the imparfait using the present nousstem plus imparfait endings ais (U9))"
+            "pren- (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "prend- (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "pr- (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "prenn- (Form the imparfait using the present nousstem plus imparfait endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "On prend la forme 'nous prenons' au présent et on enlève '-ons', ce qui donne le radical régulier 'pren-' (je prenais, nous prenions)."
@@ -4706,10 +4706,10 @@
         {
           "prompt": "Complétez avec la forme correcte de l'imparfait : « En 2010, nous _________ (habiter) à Lyon. »",
           "options": [
-            "habitions (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "habitations (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "habitaient (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "habitiez (Form the imparfait using the present nousstem plus imparfait endings ais (U9))"
+            "habitions (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "habitations (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "habitaient (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "habitiez (Form the imparfait using the present nousstem plus imparfait endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "Avec le sujet 'nous', la terminaison de l'imparfait est '-ions' : 'nous habitions'."
@@ -4722,10 +4722,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase exprime une habitude ou un état d'arrière-plan à l'imparfait ?",
           "options": [
-            "Tous les étés, nous allions nager dans la rivière près du moulin. (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "Hier matin, nous sommes allés nager une seule fois à la piscine municipale. (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "Demain soir, nous irons nager après notre journée de travail. (Form the imparfait using the present nousstem plus imparfait endings ais (U9))",
-            "Nous devons nager au moins trente minutes pour rester en bonne santé. (Form the imparfait using the present nousstem plus imparfait endings ais (U9))"
+            "Tous les étés, nous allions nager dans la rivière près du moulin. (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "Hier matin, nous sommes allés nager une seule fois à la piscine municipale. (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "Demain soir, nous irons nager après notre journée de travail. (Form the imparfait using the present nousstem plus imparfait endings ais)",
+            "Nous devons nager au moins trente minutes pour rester en bonne santé. (Form the imparfait using the present nousstem plus imparfait endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "'Tous les étés, nous allions...' décrit une habitude répétée dans le passé sans borne temporelle précise, ce qui exige l'imparfait."
@@ -4799,10 +4799,10 @@
         {
           "prompt": "Dans la phrase « Pendant que nous _________ (manger), Paul _________ (arriver) », quels temps doit-on utiliser ?",
           "options": [
-            "mangions (imparfait)",
-            "avons mangé (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))",
-            "mangions (imparfait) [Option 3]",
-            "avons mangé (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9)) [Option 4]"
+            "avons mangé (passé composé - completed action)",
+            "mangions (imparfait - continuous past description)",
+            "mangerons (futur simple - future action)",
+            "avions mangé (plus-que-parfait - prior past event)"
           ],
           "answerIndex": 0,
           "explanation": "L'action continue en arrière-plan ('pendant que...') prend l'imparfait (mangions), et l'événement ponctuel qui survient prend le passé composé (est arrivé)."
@@ -4814,10 +4814,10 @@
         {
           "prompt": "Choisissez la phrase qui traduit fidèlement : « She was writing an email when the computer shut down. »",
           "options": [
-            "Elle écrivait un courriel quand l'ordinateur s'est éteint. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))",
-            "Elle a écrit un courriel quand l'ordinateur s'éteignait. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))",
-            "Elle écrivait un courriel quand l'ordinateur s'éteignait. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))",
-            "Elle a écrit un courriel quand l'ordinateur s'est éteint. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))"
+            "Elle écrivait un courriel quand l'ordinateur s'est éteint. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence)",
+            "Elle a écrit un courriel quand l'ordinateur s'éteignait. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence)",
+            "Elle écrivait un courriel quand l'ordinateur s'éteignait. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence)",
+            "Elle a écrit un courriel quand l'ordinateur s'est éteint. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence)"
           ],
           "answerIndex": 0,
           "explanation": "'Écrivait' (action en cours) + 's'est éteint' (interruption ponctuelle)."
@@ -4830,10 +4830,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi le verbe 'travaillait' est-il à l'imparfait dans : « Julien travaillait tard hier soir quand l'alarme s'est déclenchée » ?",
           "options": [
-            "C'est une action continue d'arrière-plan interrompue par un événement ponctuel. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))",
-            "C'est une action courte et délimitée dans le temps. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))",
-            "C'est une action future hypothétique. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))",
-            "C'est une obligation imposée par le subjonctif. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence (U9))"
+            "C'est une action continue d'arrière-plan interrompue par un événement ponctuel. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence)",
+            "C'est une action courte et délimitée dans le temps. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence)",
+            "C'est une action future hypothétique. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence)",
+            "C'est une obligation imposée par le subjonctif. (Contrast pass compos punctualcompleted event and imparfait ongoingdescriptive background within a single narrative sentence)"
           ],
           "answerIndex": 0,
           "explanation": "L'imparfait sert à planter le décor et décrire l'action continue interrompue par l'alarme au passé composé."
@@ -4908,10 +4908,10 @@
         {
           "prompt": "Quel adverbe temporel complète naturellement cette phrase à l'imparfait : « _________, les enfants jouaient dehors sans téléphone portable. » ?",
           "options": [
-            "Autrefois (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "Soudain (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "Hier à midi (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "Tout à coup (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))"
+            "Autrefois (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "Soudain (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "Hier à midi (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "Tout à coup (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)"
           ],
           "answerIndex": 0,
           "explanation": "'Autrefois' (in the old days) introduit une habitude ou une description générale du passé, appelant l'imparfait ('jouaient')."
@@ -4923,10 +4923,10 @@
         {
           "prompt": "Choisissez le marqueur temporel qui exige le passé composé : « _________, le voleur a sauté par-dessus la clôture. »",
           "options": [
-            "Brusquement (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "Tous les soirs (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "D'habitude (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "Chaque matin (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))"
+            "Brusquement (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "Tous les soirs (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "D'habitude (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "Chaque matin (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)"
           ],
           "answerIndex": 0,
           "explanation": "'Brusquement' (or 'tout à coup') signale un événement soudain et ponctuel, exigeant le passé composé."
@@ -4939,10 +4939,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la phrase correctement accordée avec son marqueur temporel :",
           "options": [
-            "Hier, j'ai visité le musée d'Orsay avec ma sœur. (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "Hier, je visitais le musée d'Orsay pour une durée indéfinie. (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "Tous les jours, j'ai visité le musée d'Orsay à dix heures précises. (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))",
-            "Soudain, nous habitions dans une maison au bord de la mer. (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait (U9))"
+            "Hier, j'ai visité le musée d'Orsay avec ma sœur. (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "Hier, je visitais le musée d'Orsay pour une durée indéfinie. (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "Tous les jours, j'ai visité le musée d'Orsay à dix heures précises. (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)",
+            "Soudain, nous habitions dans une maison au bord de la mer. (Identify and use temporal indicator adverbs that trigger either the pass compos or the imparfait)"
           ],
           "answerIndex": 0,
           "explanation": "'Hier' renvoie à un événement ponctuel et achevé au passé composé ('j'ai visité')."
@@ -5017,10 +5017,10 @@
         {
           "prompt": "Que signifie précisément « J'ai su la nouvelle hier soir » en français ?",
           "options": [
-            "J'ai appris / découvert la nouvelle hier soir. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Je connaissais cette information depuis des mois. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Je refusais d'écouter la nouvelle hier soir. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Je pouvais comprendre la nouvelle facilement. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))"
+            "J'ai appris / découvert la nouvelle hier soir. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Je connaissais cette information depuis des mois. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Je refusais d'écouter la nouvelle hier soir. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Je pouvais comprendre la nouvelle facilement. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)"
           ],
           "answerIndex": 0,
           "explanation": "Au passé composé, 'savoir' signifie 'apprendre / découvrir' un fait à un moment précis."
@@ -5032,10 +5032,10 @@
         {
           "prompt": "Dans la phrase « Malgré la tempête, les secours ont pu sauver les randonneurs », quel est le sens de 'ont pu' ?",
           "options": [
-            "Ils ont réussi à les sauver. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Ils avaient la possibilité théorique de les sauver. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Ils voulaient les sauver sans succès. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Ils ont refusé de les sauver. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))"
+            "Ils ont réussi à les sauver. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Ils avaient la possibilité théorique de les sauver. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Ils voulaient les sauver sans succès. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Ils ont refusé de les sauver. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)"
           ],
           "answerIndex": 0,
           "explanation": "'Avoir pu' au passé composé exprime la réussite concrète d'une action menée à son terme (ils ont réussi à sauver)."
@@ -5048,10 +5048,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui exprime un refus catégorique dans le passé :",
           "options": [
-            "Il n'a pas voulu nous donner la clé du coffre. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Il ne voulait pas sortir à cause du mauvais temps. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Il ne savait pas où se trouvait la clé du coffre. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))",
-            "Il ne pouvait pas courir à cause de sa blessure. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir (U9))"
+            "Il n'a pas voulu nous donner la clé du coffre. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Il ne voulait pas sortir à cause du mauvais temps. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Il ne savait pas où se trouvait la clé du coffre. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)",
+            "Il ne pouvait pas courir à cause de sa blessure. (Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait savoir)"
           ],
           "answerIndex": 0,
           "explanation": "'Ne pas vouloir' au passé composé ('il n'a pas voulu') traduit un refus catégorique d'agir ('he refused to')."
@@ -5124,10 +5124,10 @@
         {
           "prompt": "Dans un récit, quel temps utilise-t-on pour enchaîner des actions successives comme « Il est entré, a salué ses collègues et a commencé à travailler » ?",
           "options": [
-            "Le passé composé (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "L'imparfait (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "Le plus-que-parfait (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "Le subjonctif présent (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))"
+            "Le passé composé (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "L'imparfait (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "Le plus-que-parfait (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "Le subjonctif présent (Synthesize pass compos and imparfait across multiparagraph past narratives)"
           ],
           "answerIndex": 0,
           "explanation": "L'enchaînement chronologique d'actions ponctuelles et successives requiert le passé composé."
@@ -5139,10 +5139,10 @@
         {
           "prompt": "Choisissez l'extrait de récit qui respecte parfaitement la cohérence des temps du passé :",
           "options": [
-            "Il faisait beau et les oiseaux chantaient quand l'orage a soudain éclaté. (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "Il a fait beau et les oiseaux ont chanté quand l'orage éclatait. (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "Il faisait beau et les oiseaux chantaient quand l'orage éclatait. (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "Il a fait beau et les oiseaux chantaient quand l'orage a éclaté. (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))"
+            "Il faisait beau et les oiseaux chantaient quand l'orage a soudain éclaté. (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "Il a fait beau et les oiseaux ont chanté quand l'orage éclatait. (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "Il faisait beau et les oiseaux chantaient quand l'orage éclatait. (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "Il a fait beau et les oiseaux chantaient quand l'orage a éclaté. (Synthesize pass compos and imparfait across multiparagraph past narratives)"
           ],
           "answerIndex": 0,
           "explanation": "Décor d'arrière-plan à l'imparfait ('faisait beau', 'chantaient') + événement perturbateur soudain au passé composé ('a éclaté')."
@@ -5155,10 +5155,10 @@
           "type": "multiple-choice",
           "prompt": "Analysez le texte : « Marie lisait tranquillement son livre. Soudain, le courant a sauté et toutes les lumières se sont éteintes. » Quelle phrase est exacte ?",
           "options": [
-            "'Lisait' est à l'imparfait car c'est une action d'arrière-plan, tandis que la coupure de courant est une action ponctuelle au passé composé. (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "'Lisait' est au passé composé et 'a sauté' est à l'imparfait. (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "Toutes les actions du récit devraient obligatoirement être au subjonctif. (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))",
-            "'Se sont éteintes' est à l'imparfait car l'obscurité dure longtemps. (Synthesize pass compos and imparfait across multiparagraph past narratives (U9))"
+            "'Lisait' est à l'imparfait car c'est une action d'arrière-plan, tandis que la coupure de courant est une action ponctuelle au passé composé. (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "'Lisait' est au passé composé et 'a sauté' est à l'imparfait. (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "Toutes les actions du récit devraient obligatoirement être au subjonctif. (Synthesize pass compos and imparfait across multiparagraph past narratives)",
+            "'Se sont éteintes' est à l'imparfait car l'obscurité dure longtemps. (Synthesize pass compos and imparfait across multiparagraph past narratives)"
           ],
           "answerIndex": 0,
           "explanation": "'Lisait' décrit l'état continu initial (imparfait), et la coupure de courant suivie de l'extinction sont des événements ponctuels au passé composé."
@@ -5232,10 +5232,10 @@
         {
           "prompt": "Où place-t-on le pronom complément dans la phrase au futur proche « Je vais (lui) parler » ?",
           "options": [
-            "Juste avant l'infinitif : « Je vais lui parler » (Express immediate future (U10))",
-            "Avant le verbe aller : « Je lui vais parler » (Express immediate future (U10))",
-            "Après l'infinitif avec trait d'union : « Je vais parler-lui » (Express immediate future (U10))",
-            "À la fin de la phrase : « Je vais parler à lui » (Express immediate future (U10))"
+            "Juste avant l'infinitif : « Je vais lui parler » (Express immediate future)",
+            "Avant le verbe aller : « Je lui vais parler » (Express immediate future)",
+            "Après l'infinitif avec trait d'union : « Je vais parler-lui » (Express immediate future)",
+            "À la fin de la phrase : « Je vais parler à lui » (Express immediate future)"
           ],
           "answerIndex": 0,
           "explanation": "Au futur proche, le pronom objet se place directement devant l'infinitif du verbe d'action : 'Je vais lui parler'."
@@ -5247,10 +5247,10 @@
         {
           "prompt": "Quelle est la forme négative correcte de « Nous allons partir » ?",
           "options": [
-            "Nous n'allons pas partir. (Express immediate future (U10))",
-            "Nous allons ne pas partir. (Express immediate future (U10))",
-            "Nous ne partons pas aller. (Express immediate future (U10))",
-            "Nous n'allons partir pas. (Express immediate future (U10))"
+            "Nous n'allons pas partir. (Express immediate future)",
+            "Nous allons ne pas partir. (Express immediate future)",
+            "Nous ne partons pas aller. (Express immediate future)",
+            "Nous n'allons partir pas. (Express immediate future)"
           ],
           "answerIndex": 0,
           "explanation": "La négation 'ne... pas' encadre toujours l'auxiliaire semi-auxiliaire aller conjugué : 'Nous n'allons pas partir'."
@@ -5263,10 +5263,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui traduit correctement : « They are going to buy a new apartment. »",
           "options": [
-            "Ils vont acheter un nouvel appartement. (Express immediate future (U10))",
-            "Ils achèteront un appartement nouveau. (Express immediate future (U10))",
-            "Ils sont allés acheter un nouvel appartement. (Express immediate future (U10))",
-            "Ils vont achetant un nouvel appartement. (Express immediate future (U10))"
+            "Ils vont acheter un nouvel appartement. (Express immediate future)",
+            "Ils achèteront un appartement nouveau. (Express immediate future)",
+            "Ils sont allés acheter un nouvel appartement. (Express immediate future)",
+            "Ils vont achetant un nouvel appartement. (Express immediate future)"
           ],
           "answerIndex": 0,
           "explanation": "Futur proche = 'ils vont' (aller au présent) + 'acheter' (infinitif)."
@@ -5340,10 +5340,10 @@
         {
           "prompt": "Quel est le radical du verbe 'apprendre' au futur simple ?",
           "options": [
-            "apprendr- (Form the futur simple for regular er (U10))",
-            "apprenn- (Form the futur simple for regular er (U10))",
-            "apprendre- (Form the futur simple for regular er (U10))",
-            "appris- (Form the futur simple for regular er (U10))"
+            "apprendr- (Form the futur simple for regular er)",
+            "apprenn- (Form the futur simple for regular er)",
+            "apprendre- (Form the futur simple for regular er)",
+            "appris- (Form the futur simple for regular er)"
           ],
           "answerIndex": 0,
           "explanation": "Pour les verbes en -re, on retire le 'e' final de l'infinitif, ce qui donne 'apprendr-' (j'apprendrai)."
@@ -5355,10 +5355,10 @@
         {
           "prompt": "Complétez au futur simple : « Demain, vous _________ (choisir) votre menu. »",
           "options": [
-            "choisirez (Form the futur simple for regular er (U10))",
-            "choisissez (Form the futur simple for regular er (U10))",
-            "choisiriez (Form the futur simple for regular er (U10))",
-            "choisirez-vous (Form the futur simple for regular er (U10))"
+            "choisirez (Form the futur simple for regular er)",
+            "choisissez (Form the futur simple for regular er)",
+            "choisiriez (Form the futur simple for regular er)",
+            "choisirez-vous (Form the futur simple for regular er)"
           ],
           "answerIndex": 0,
           "explanation": "Pour 'choisir' avec 'vous', on ajoute '-ez' à l'infinitif : 'choisirez'."
@@ -5371,10 +5371,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la forme correcte à la 3e personne du pluriel (ils) du verbe 'vendre' au futur simple ?",
           "options": [
-            "ils vendront (Form the futur simple for regular er (U10))",
-            "ils vendent (Form the futur simple for regular er (U10))",
-            "ils vendraient (Form the futur simple for regular er (U10))",
-            "ils venderont (Form the futur simple for regular er (U10))"
+            "ils vendront (Form the futur simple for regular er)",
+            "ils vendent (Form the futur simple for regular er)",
+            "ils vendraient (Form the futur simple for regular er)",
+            "ils venderont (Form the futur simple for regular er)"
           ],
           "answerIndex": 0,
           "explanation": "Infinitif 'vendre' -> radical 'vendr-' + terminaison '-ont' = 'ils vendront'."
@@ -5448,10 +5448,10 @@
         {
           "prompt": "Quelle est la forme au futur simple du verbe 'pouvoir' avec 'nous' ?",
           "options": [
-            "nous pourrons (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "nous pouvons (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "nous pouvions (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "nous pouvrons (Master highfrequency irregular futur simple stems tre  ser (U10))"
+            "nous pourrons (Master highfrequency irregular futur simple stems tre  ser)",
+            "nous pouvons (Master highfrequency irregular futur simple stems tre  ser)",
+            "nous pouvions (Master highfrequency irregular futur simple stems tre  ser)",
+            "nous pouvrons (Master highfrequency irregular futur simple stems tre  ser)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'pouvoir' a le radical irrégulier à double 'r' 'pourr-' : 'nous pourrons'."
@@ -5463,10 +5463,10 @@
         {
           "prompt": "Complétez la phrase : « Demain, j'_________ (aller) à la préfecture pour renouveler mon passeport. »",
           "options": [
-            "irai (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "allera (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "vais (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "irais (Master highfrequency irregular futur simple stems tre  ser (U10))"
+            "irai (Master highfrequency irregular futur simple stems tre  ser)",
+            "allera (Master highfrequency irregular futur simple stems tre  ser)",
+            "vais (Master highfrequency irregular futur simple stems tre  ser)",
+            "irais (Master highfrequency irregular futur simple stems tre  ser)"
           ],
           "answerIndex": 0,
           "explanation": "Le radical du verbe aller au futur simple est 'ir-' : 'j'irai'."
@@ -5479,10 +5479,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui contient les formes correctes au futur simple des verbes 'avoir' et 'être' :",
           "options": [
-            "Quand tu auras vingt ans, tu seras indépendant. (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "Quand tu averas vingt ans, tu esteras indépendant. (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "Quand tu auras vingt ans, tu sois indépendant. (Master highfrequency irregular futur simple stems tre  ser (U10))",
-            "Quand tu avras vingt ans, tu serais indépendant. (Master highfrequency irregular futur simple stems tre  ser (U10))"
+            "Quand tu auras vingt ans, tu seras indépendant. (Master highfrequency irregular futur simple stems tre  ser)",
+            "Quand tu averas vingt ans, tu esteras indépendant. (Master highfrequency irregular futur simple stems tre  ser)",
+            "Quand tu auras vingt ans, tu sois indépendant. (Master highfrequency irregular futur simple stems tre  ser)",
+            "Quand tu avras vingt ans, tu serais indépendant. (Master highfrequency irregular futur simple stems tre  ser)"
           ],
           "answerIndex": 0,
           "explanation": "'Avoir' -> tu auras ; 'être' -> tu seras."
@@ -5555,10 +5555,10 @@
         {
           "prompt": "Complétez la subordonnée temporelle future : « Quand tu _________ (arriver) à Paris, appelle-moi. »",
           "options": [
-            "arriveras (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "arrives (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "arriverais (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "es arrivé (Apply future tense concordance after temporal conjunctions quand (U10))"
+            "arriveras (Apply future tense concordance after temporal conjunctions quand)",
+            "arrives (Apply future tense concordance after temporal conjunctions quand)",
+            "arriverais (Apply future tense concordance after temporal conjunctions quand)",
+            "es arrivé (Apply future tense concordance after temporal conjunctions quand)"
           ],
           "answerIndex": 0,
           "explanation": "En français, après 'quand' renvoyant à l'avenir, le verbe doit obligatoirement être au futur simple ('tu arriveras')."
@@ -5570,10 +5570,10 @@
         {
           "prompt": "Traduisez correctement en français : « As soon as he receives the package, he will open it. »",
           "options": [
-            "Dès qu'il recevra le colis, il l'ouvrira. (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "Dès qu'il reçoit le colis, il l'ouvrira. (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "Dès qu'il recevra le colis, il l'ouvre. (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "Dès qu'il recevrait le colis, il l'ouvrirait. (Apply future tense concordance after temporal conjunctions quand (U10))"
+            "Dès qu'il recevra le colis, il l'ouvrira. (Apply future tense concordance after temporal conjunctions quand)",
+            "Dès qu'il reçoit le colis, il l'ouvrira. (Apply future tense concordance after temporal conjunctions quand)",
+            "Dès qu'il recevra le colis, il l'ouvre. (Apply future tense concordance after temporal conjunctions quand)",
+            "Dès qu'il recevrait le colis, il l'ouvrirait. (Apply future tense concordance after temporal conjunctions quand)"
           ],
           "answerIndex": 0,
           "explanation": "'Dès que' + futur simple ('recevra') suivi de la principale au futur simple ('ouvrira')."
@@ -5586,10 +5586,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi dit-on « Dès que nous SERONS prêts, nous partirons » et non « Dès que nous sommes prêts » ?",
           "options": [
-            "Parce que la subordonnée temporelle introduite par 'dès que' exige le futur simple quand l'action est à venir. (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "Parce que 'être' n'existe pas au présent après une conjonction. (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "Parce que le subjonctif est obligatoire après 'dès que'. (Apply future tense concordance after temporal conjunctions quand (U10))",
-            "Parce que la phrase est une hypothèse irréelle du passé. (Apply future tense concordance after temporal conjunctions quand (U10))"
+            "Parce que la subordonnée temporelle introduite par 'dès que' exige le futur simple quand l'action est à venir. (Apply future tense concordance after temporal conjunctions quand)",
+            "Parce que 'être' n'existe pas au présent après une conjonction. (Apply future tense concordance after temporal conjunctions quand)",
+            "Parce que le subjonctif est obligatoire après 'dès que'. (Apply future tense concordance after temporal conjunctions quand)",
+            "Parce que la phrase est une hypothèse irréelle du passé. (Apply future tense concordance after temporal conjunctions quand)"
           ],
           "answerIndex": 0,
           "explanation": "La concordance temporelle en français impose le futur simple après les conjonctions de temps (quand, dès que, lorsque) pour un événement futur."
@@ -5662,10 +5662,10 @@
         {
           "prompt": "Dans un projet de carrière, quelle phrase exprime le mieux un objectif formel à long terme ?",
           "options": [
-            "D'ici cinq ans, j'obtiendrai une certification de direction et je dirigerai un département. (Synthesize futur proche and futur simple in discourse (U10))",
-            "Dans cinq minutes, je vais téléphoner au chef pour lui dire bonjour. (Synthesize futur proche and futur simple in discourse (U10))",
-            "Je suis en train de regarder des offres d'emploi sur Internet. (Synthesize futur proche and futur simple in discourse (U10))",
-            "Hier, j'ai envoyé plusieurs candidatures spontanées. (Synthesize futur proche and futur simple in discourse (U10))"
+            "D'ici cinq ans, j'obtiendrai une certification de direction et je dirigerai un département. (Synthesize futur proche and futur simple in discourse)",
+            "Dans cinq minutes, je vais téléphoner au chef pour lui dire bonjour. (Synthesize futur proche and futur simple in discourse)",
+            "Je suis en train de regarder des offres d'emploi sur Internet. (Synthesize futur proche and futur simple in discourse)",
+            "Hier, j'ai envoyé plusieurs candidatures spontanées. (Synthesize futur proche and futur simple in discourse)"
           ],
           "answerIndex": 0,
           "explanation": "L'emploi du futur simple ('j'obtiendrai', 'je dirigerai') convient parfaitement à la projection professionnelle formelle à moyen et long terme."
@@ -5677,10 +5677,10 @@
         {
           "prompt": "Choisissez l'énoncé qui combine harmonieusement l'immédiat (futur proche) et le long terme (futur simple) :",
           "options": [
-            "Ce soir je vais préparer mes valises et demain je partirai pour Tokyo. (Synthesize futur proche and futur simple in discourse (U10))",
-            "Ce soir je partirai mes valises et demain je vais Tokyo. (Synthesize futur proche and futur simple in discourse (U10))",
-            "Ce soir je pars mes valises et demain j'allais Tokyo. (Synthesize futur proche and futur simple in discourse (U10))",
-            "Ce soir je suis parti mes valises et demain je partais Tokyo. (Synthesize futur proche and futur simple in discourse (U10))"
+            "Ce soir je vais préparer mes valises et demain je partirai pour Tokyo. (Synthesize futur proche and futur simple in discourse)",
+            "Ce soir je partirai mes valises et demain je vais Tokyo. (Synthesize futur proche and futur simple in discourse)",
+            "Ce soir je pars mes valises et demain j'allais Tokyo. (Synthesize futur proche and futur simple in discourse)",
+            "Ce soir je suis parti mes valises et demain je partais Tokyo. (Synthesize futur proche and futur simple in discourse)"
           ],
           "answerIndex": 0,
           "explanation": "Futur proche immédiat ('vais préparer') + futur simple pour le lendemain ('partirai')."
@@ -5694,9 +5694,9 @@
           "prompt": "Analysez le discours : « Aujourd'hui nous allons signer l'accord, et l'année prochaine nous ouvrirons trois nouvelles filiales. » Quel contraste est exprimé ?",
           "options": [
             "Action immédiate et concrète (futur proche)",
-            "Action passée opposée à une hypothèse impossible. (Synthesize futur proche and futur simple in discourse (U10))",
-            "Obligation formelle opposée à un regret passé. (Synthesize futur proche and futur simple in discourse (U10))",
-            "Discours indirect au passé. (Synthesize futur proche and futur simple in discourse (U10))"
+            "Action passée opposée à une hypothèse impossible. (Synthesize futur proche and futur simple in discourse)",
+            "Obligation formelle opposée à un regret passé. (Synthesize futur proche and futur simple in discourse)",
+            "Discours indirect au passé. (Synthesize futur proche and futur simple in discourse)"
           ],
           "answerIndex": 0,
           "explanation": "Le futur proche traduit la décision imminente du jour même, et le futur simple projette l'expansion sur l'année suivante."
@@ -5769,10 +5769,10 @@
         {
           "prompt": "Remplacez le groupe nominal souligné par le pronom COD qui convient : « J'attends [mon amie Sophie] devant le musée. »",
           "options": [
-            "Je l'attends devant le musée. (Identify and place direct object pronouns COD (U11))",
-            "Je lui attends devant le musée. (Identify and place direct object pronouns COD (U11))",
-            "Je la attends devant le musée. (Identify and place direct object pronouns COD (U11))",
-            "Je les attends devant le musée. (Identify and place direct object pronouns COD (U11))"
+            "Je l'attends devant le musée. (Identify and place direct object pronouns COD)",
+            "Je lui attends devant le musée. (Identify and place direct object pronouns COD)",
+            "Je la attends devant le musée. (Identify and place direct object pronouns COD)",
+            "Je les attends devant le musée. (Identify and place direct object pronouns COD)"
           ],
           "answerIndex": 0,
           "explanation": "'Mon amie Sophie' est féminin singulier commençant par une voyelle ('attends'), donc 'la' s'élide en 'l'' : 'Je l'attends'."
@@ -5784,10 +5784,10 @@
         {
           "prompt": "Où place-t-on le pronom COD dans une phrase avec un semi-auxiliaire : « Je veux acheter [cette robe]. » ?",
           "options": [
-            "Je veux l'acheter. (Identify and place direct object pronouns COD (U11))",
-            "Je la veux acheter. (Identify and place direct object pronouns COD (U11))",
-            "Je veux acheter la. (Identify and place direct object pronouns COD (U11))",
-            "Je l'ai voulue acheter. (Identify and place direct object pronouns COD (U11))"
+            "Je veux l'acheter. (Identify and place direct object pronouns COD)",
+            "Je la veux acheter. (Identify and place direct object pronouns COD)",
+            "Je veux acheter la. (Identify and place direct object pronouns COD)",
+            "Je l'ai voulue acheter. (Identify and place direct object pronouns COD)"
           ],
           "answerIndex": 0,
           "explanation": "Quand il y a un verbe conjugué suivi d'un infinitif, le pronom COD se place directement devant l'infinitif : 'Je veux l'acheter'."
@@ -5800,10 +5800,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase est correctement formulée à la forme négative avec le pronom COD 'les' ?",
           "options": [
-            "Nous ne les connaissons pas bien. (Identify and place direct object pronouns COD (U11))",
-            "Nous les ne connaissons pas bien. (Identify and place direct object pronouns COD (U11))",
-            "Nous ne connaissons pas les bien. (Identify and place direct object pronouns COD (U11))",
-            "Nous ne connaissons les pas bien. (Identify and place direct object pronouns COD (U11))"
+            "Nous ne les connaissons pas bien. (Identify and place direct object pronouns COD)",
+            "Nous les ne connaissons pas bien. (Identify and place direct object pronouns COD)",
+            "Nous ne connaissons pas les bien. (Identify and place direct object pronouns COD)",
+            "Nous ne connaissons les pas bien. (Identify and place direct object pronouns COD)"
           ],
           "answerIndex": 0,
           "explanation": "Le pronom COD est placé devant le verbe conjugué, et la négation encadre le bloc [pronom + verbe] : 'Nous ne les connaissons pas'."
@@ -5877,10 +5877,10 @@
         {
           "prompt": "Remplacez le complément par le bon pronom : « Nous envoyons une carte postale [à nos parents]. »",
           "options": [
-            "Nous leur envoyons une carte postale. (Distinguish and apply indirect object pronouns COI (U11))",
-            "Nous les envoyons une carte postale. (Distinguish and apply indirect object pronouns COI (U11))",
-            "Nous lui envoyons une carte postale. (Distinguish and apply indirect object pronouns COI (U11))",
-            "Nous leurs envoyons une carte postale. (Distinguish and apply indirect object pronouns COI (U11))"
+            "Nous leur envoyons une carte postale. (Distinguish and apply indirect object pronouns COI)",
+            "Nous les envoyons une carte postale. (Distinguish and apply indirect object pronouns COI)",
+            "Nous lui envoyons une carte postale. (Distinguish and apply indirect object pronouns COI)",
+            "Nous leurs envoyons une carte postale. (Distinguish and apply indirect object pronouns COI)"
           ],
           "answerIndex": 0,
           "explanation": "'À nos parents' est un COI pluriel (à + personnes) qui se remplace par 'leur' (sans 's')."
@@ -5893,9 +5893,9 @@
           "prompt": "Pourquoi dit-on « Je LUI téléphone » mais « Je LA regarde » pour une femme ?",
           "options": [
             "Parce que 'téléphoner' se construit avec 'à' (COI: lui)",
-            "Parce que 'lui' est réservé aux femmes et 'la' aux hommes. (Distinguish and apply indirect object pronouns COI (U11))",
-            "Parce que 'téléphoner' est un verbe irrégulier du troisième groupe. (Distinguish and apply indirect object pronouns COI (U11))",
-            "Parce que 'regarder' exige obligatoirement une préposition cachée. (Distinguish and apply indirect object pronouns COI (U11))"
+            "Parce que 'lui' est réservé aux femmes et 'la' aux hommes. (Distinguish and apply indirect object pronouns COI)",
+            "Parce que 'téléphoner' est un verbe irrégulier du troisième groupe. (Distinguish and apply indirect object pronouns COI)",
+            "Parce que 'regarder' exige obligatoirement une préposition cachée. (Distinguish and apply indirect object pronouns COI)"
           ],
           "answerIndex": 0,
           "explanation": "'Téléphoner à quelqu'un' prend un COI ('lui' invariable en genre au singulier), alors que 'regarder quelqu'un' prend un COD ('la' au féminin)."
@@ -5908,10 +5908,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui remplace correctement : « Paul a parlé [à sa sœur] hier soir » :",
           "options": [
-            "Paul lui a parlé hier soir. (Distinguish and apply indirect object pronouns COI (U11))",
-            "Paul l'a parlé hier soir. (Distinguish and apply indirect object pronouns COI (U11))",
-            "Paul la lui a parlée hier soir. (Distinguish and apply indirect object pronouns COI (U11))",
-            "Paul à elle a parlé hier soir. (Distinguish and apply indirect object pronouns COI (U11))"
+            "Paul lui a parlé hier soir. (Distinguish and apply indirect object pronouns COI)",
+            "Paul l'a parlé hier soir. (Distinguish and apply indirect object pronouns COI)",
+            "Paul la lui a parlée hier soir. (Distinguish and apply indirect object pronouns COI)",
+            "Paul à elle a parlé hier soir. (Distinguish and apply indirect object pronouns COI)"
           ],
           "answerIndex": 0,
           "explanation": "'Parler à sa sœur' -> COI singulier = 'lui' : 'Paul lui a parlé'."
@@ -5984,10 +5984,10 @@
         {
           "prompt": "Choisissez la terminaison correcte du participe passé : « La lettre que j'ai _________ (écrire) hier. »",
           "options": [
-            "écrite (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "écrit (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "écrits (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "écris (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))"
+            "écrite (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "écrit (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "écrits (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "écris (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)"
           ],
           "answerIndex": 0,
           "explanation": "Le pronom relatif 'que' a pour antécédent 'la lettre' (féminin singulier), COD placé avant le verbe avoir -> accord au féminin : 'écrite'."
@@ -5999,10 +5999,10 @@
         {
           "prompt": "Dans quelle phrase le participe passé NE S'ACCORDE PAS avec le pronom ?",
           "options": [
-            "Je leur ai téléphoné hier soir. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "Les fleurs ? Je les ai cueillies ce matin. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "Cette maison, nous l'avons vendue l'année dernière. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "Quelles belles histoires tu nous as racontées ! (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))"
+            "Je leur ai téléphoné hier soir. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "Les fleurs ? Je les ai cueillies ce matin. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "Cette maison, nous l'avons vendue l'année dernière. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "Quelles belles histoires tu nous as racontées ! (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)"
           ],
           "answerIndex": 0,
           "explanation": "'Leur' est un COI (téléphoner à quelqu'un). Le participe passé ne s'accorde JAMAIS avec un COI."
@@ -6015,10 +6015,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi écrit-on « Les erreurs que nous avons commisES » avec '-es' ?",
           "options": [
-            "Parce que le COD 'les erreurs' (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "Parce que le sujet 'nous' est pluriel. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "Parce que le verbe commettre s'accorde toujours avec son sujet. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))",
-            "Parce que c'est un verbe pronominal de sens réciproque. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos (U11))"
+            "Parce que le COD 'les erreurs' (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "Parce que le sujet 'nous' est pluriel. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "Parce que le verbe commettre s'accorde toujours avec son sujet. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)",
+            "Parce que c'est un verbe pronominal de sens réciproque. (Apply the obligatory past participle agreement rule when a direct object COD precedes the auxiliary verb avoir in pass compos)"
           ],
           "answerIndex": 0,
           "explanation": "Le COD 'les erreurs' (féminin pluriel) est antéposé via le pronom relatif 'que', entraînant l'accord du participe passé au féminin pluriel (-es)."
@@ -6091,10 +6091,10 @@
         {
           "prompt": "Remplacez 'cette lettre' (COD) et 'à Pierre' (COI) par les pronoms dans « Je donne cette lettre à Pierre » :",
           "options": [
-            "Je la lui donne. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Je lui la donne. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Je la leur donne. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Je me la donne. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))"
+            "Je la lui donne. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Je lui la donne. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Je la leur donne. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Je me la donne. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)"
           ],
           "answerIndex": 0,
           "explanation": "Entre deux pronoms de 3e personne, le COD (la) précède toujours le COI (lui) : 'Je la lui donne'."
@@ -6106,10 +6106,10 @@
         {
           "prompt": "Quelle est la structure correcte pour : « Il [nous] [les] a promis » à la forme négative ?",
           "options": [
-            "Il ne nous les a pas promis. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Il nous ne les a pas promis. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Il ne les nous a pas promis. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Il ne nous a les pas promis. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))"
+            "Il ne nous les a pas promis. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Il nous ne les a pas promis. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Il ne les nous a pas promis. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Il ne nous a les pas promis. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)"
           ],
           "answerIndex": 0,
           "explanation": "'Ne' se place avant le premier pronom (nous), 'les' suit immédiatement, puis l'auxiliaire 'a' suivi de 'pas' : 'Il ne nous les a pas promis'."
@@ -6122,10 +6122,10 @@
           "type": "multiple-choice",
           "prompt": "Traduisez avec l'ordre correct des pronoms : « She will explain it to them tomorrow. »",
           "options": [
-            "Elle le leur expliquera demain. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Elle leur le expliquera demain. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Elle se le expliquera demain. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))",
-            "Elle le les expliquera demain. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en (U11))"
+            "Elle le leur expliquera demain. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Elle leur le expliquera demain. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Elle se le expliquera demain. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)",
+            "Elle le les expliquera demain. (Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives metesenousvous  lelales  luileur  y  en)"
           ],
           "answerIndex": 0,
           "explanation": "'it' (COD masc = le) précède 'to them' (COI = leur) : 'Elle le leur expliquera'."
@@ -6198,10 +6198,10 @@
         {
           "prompt": "Transformez « Tu me donnes le livre » à l'impératif affirmatif :",
           "options": [
-            "Donne-le-moi ! (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Donne-moi-le ! (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Me le donne ! (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Donne-le-me ! (Master pronoun placement in affirmative vs negative imperative commands (U11))"
+            "Donne-le-moi ! (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Donne-moi-le ! (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Me le donne ! (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Donne-le-me ! (Master pronoun placement in affirmative vs negative imperative commands)"
           ],
           "answerIndex": 0,
           "explanation": "À l'impératif affirmatif, l'ordre est [Verbe] - [COD: le] - [COI: moi] avec traits d'union : 'Donne-le-moi !'."
@@ -6213,10 +6213,10 @@
         {
           "prompt": "Quelle est la forme négative correcte de l'impératif « Montre-le-lui ! » ?",
           "options": [
-            "Ne le lui montre pas ! (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Ne lui le montre pas ! (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Ne montre-le-lui pas ! (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Ne le lui montres pas ! (Master pronoun placement in affirmative vs negative imperative commands (U11))"
+            "Ne le lui montre pas ! (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Ne lui le montre pas ! (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Ne montre-le-lui pas ! (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Ne le lui montres pas ! (Master pronoun placement in affirmative vs negative imperative commands)"
           ],
           "answerIndex": 0,
           "explanation": "À l'impératif négatif, les pronoms reprennent leur place normale avant le verbe sans trait d'union : 'Ne le lui montre pas !'."
@@ -6229,10 +6229,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi écrit-on « Vas-y ! » avec un 's' à la 2e personne du singulier de l'impératif du verbe aller ?",
           "options": [
-            "Pour des raisons phonétiques de liaison euphonique devant le pronom 'y'. (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Parce que le verbe aller prend toujours un 's' à l'impératif. (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Parce que c'est une forme du subjonctif présent. (Master pronoun placement in affirmative vs negative imperative commands (U11))",
-            "Parce que le sujet sous-entendu est 'vous'. (Master pronoun placement in affirmative vs negative imperative commands (U11))"
+            "Pour des raisons phonétiques de liaison euphonique devant le pronom 'y'. (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Parce que le verbe aller prend toujours un 's' à l'impératif. (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Parce que c'est une forme du subjonctif présent. (Master pronoun placement in affirmative vs negative imperative commands)",
+            "Parce que le sujet sous-entendu est 'vous'. (Master pronoun placement in affirmative vs negative imperative commands)"
           ],
           "answerIndex": 0,
           "explanation": "Les verbes en -er et 'aller' prennent un 's' euphonique à la 2e personne du singulier de l'impératif devant 'y' et 'en' pour éviter le hiatus vocalique ('Vas-y !')."
@@ -6305,10 +6305,10 @@
         {
           "prompt": "Remplacez le complément par le bon pronom : « Nous allons [au restaurant italien] ce soir. »",
           "options": [
-            "Nous y allons ce soir. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "Nous l'allons ce soir. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "Nous en allons ce soir. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "Nous lui allons ce soir. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))"
+            "Nous y allons ce soir. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "Nous l'allons ce soir. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "Nous en allons ce soir. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "Nous lui allons ce soir. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)"
           ],
           "answerIndex": 0,
           "explanation": "'Au restaurant italien' indique un lieu introduit par 'à + le' -> remplacé par le pronom adverbial de lieu 'y' : 'Nous y allons'."
@@ -6320,10 +6320,10 @@
         {
           "prompt": "Comment remplace-t-on correctement le complément dans « Je réfléchis [à ma reconversion professionnelle] » ?",
           "options": [
-            "J'y réfléchis. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "Je lui réfléchis. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "J'en réfléchis. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "Je la réfléchis. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))"
+            "J'y réfléchis. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "Je lui réfléchis. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "J'en réfléchis. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "Je la réfléchis. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)"
           ],
           "answerIndex": 0,
           "explanation": "'Réfléchir à' + chose/concept abstrait se remplace par 'y' ('J'y réfléchis')."
@@ -6336,10 +6336,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi ne peut-on PAS dire « J'y pense » pour « Je pense à mon père » ?",
           "options": [
-            "Parce que 'y' ne remplace jamais un être humain avec les verbes de pensée ; on doit utiliser 'Je pense à lui'. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "Parce que le verbe penser n'accepte aucun pronom. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "Parce que 'père' est un nom masculin singulier qui exige 'le'. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))",
-            "Parce que la phrase doit obligatoirement être au subjonctif. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by (U12))"
+            "Parce que 'y' ne remplace jamais un être humain avec les verbes de pensée ; on doit utiliser 'Je pense à lui'. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "Parce que le verbe penser n'accepte aucun pronom. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "Parce que 'père' est un nom masculin singulier qui exige 'le'. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)",
+            "Parce que la phrase doit obligatoirement être au subjonctif. (Master the adverbial pronoun Y to replace prepositional phrases of location and nonhuman complements introduced by)"
           ],
           "answerIndex": 0,
           "explanation": "Avec les verbes comme 'penser à', 'faire attention à', 's'intéresser à', les personnes sont représentées par 'à + pronom tonique' (à lui, à elle), et non par 'y'."
@@ -6412,10 +6412,10 @@
         {
           "prompt": "Répondez affirmativement avec le pronom 'en' : « Tu as des frères ? »",
           "options": [
-            "Oui, j'en ai deux. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Oui, j'ai deux. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Oui, je les ai deux. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Oui, j'y ai deux. (Master the adverbial pronoun EN to replace quantities (U12))"
+            "Oui, j'en ai deux. (Master the adverbial pronoun EN to replace quantities)",
+            "Oui, j'ai deux. (Master the adverbial pronoun EN to replace quantities)",
+            "Oui, je les ai deux. (Master the adverbial pronoun EN to replace quantities)",
+            "Oui, j'y ai deux. (Master the adverbial pronoun EN to replace quantities)"
           ],
           "answerIndex": 0,
           "explanation": "Avec une quantité précise, on emploie 'en' devant le verbe et on conserve le chiffre à la fin : 'Oui, j'en ai deux'."
@@ -6427,10 +6427,10 @@
         {
           "prompt": "Remplacez le complément souligné : « Nous avons parlé [de ce voyage passionnant] toute la soirée. »",
           "options": [
-            "Nous en avons parlé toute la soirée. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Nous y avons parlé toute la soirée. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Nous l'avons parlé toute la soirée. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Nous lui avons parlé toute la soirée. (Master the adverbial pronoun EN to replace quantities (U12))"
+            "Nous en avons parlé toute la soirée. (Master the adverbial pronoun EN to replace quantities)",
+            "Nous y avons parlé toute la soirée. (Master the adverbial pronoun EN to replace quantities)",
+            "Nous l'avons parlé toute la soirée. (Master the adverbial pronoun EN to replace quantities)",
+            "Nous lui avons parlé toute la soirée. (Master the adverbial pronoun EN to replace quantities)"
           ],
           "answerIndex": 0,
           "explanation": "'Parler de' + chose/événement abstrait se remplace par le pronom adverbial 'en' : 'Nous en avons parlé'."
@@ -6443,10 +6443,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi le participe passé ne s'accorde-t-il PAS dans « Des pommes ? J'en ai mangé » ?",
           "options": [
-            "Parce que le pronom adverbial 'en' ne provoque jamais l'accord du participe passé avec avoir. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Parce que 'pommes' est au masculin. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Parce que le verbe manger est intransitif. (Master the adverbial pronoun EN to replace quantities (U12))",
-            "Parce que la phrase est une négation. (Master the adverbial pronoun EN to replace quantities (U12))"
+            "Parce que le pronom adverbial 'en' ne provoque jamais l'accord du participe passé avec avoir. (Master the adverbial pronoun EN to replace quantities)",
+            "Parce que 'pommes' est au masculin. (Master the adverbial pronoun EN to replace quantities)",
+            "Parce que le verbe manger est intransitif. (Master the adverbial pronoun EN to replace quantities)",
+            "Parce que la phrase est une négation. (Master the adverbial pronoun EN to replace quantities)"
           ],
           "answerIndex": 0,
           "explanation": "En grammaire française, le pronom 'en' représentant une quantité indéterminée n'entraîne jamais l'accord du participe passé."
@@ -6519,10 +6519,10 @@
         {
           "prompt": "Comment remplace-t-on le complément dans « Je pense [à ma grand-mère] » ?",
           "options": [
-            "Je pense à elle. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "J'y pense. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "Je lui pense. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "Je la pense. (Distinguish between human vs nonhuman prepositional complements (U12))"
+            "Je pense à elle. (Distinguish between human vs nonhuman prepositional complements)",
+            "J'y pense. (Distinguish between human vs nonhuman prepositional complements)",
+            "Je lui pense. (Distinguish between human vs nonhuman prepositional complements)",
+            "Je la pense. (Distinguish between human vs nonhuman prepositional complements)"
           ],
           "answerIndex": 0,
           "explanation": "Avec 'penser à', un être humain est représenté par 'à + pronom tonique' ('Je pense à elle'), alors qu'une chose utiliserait 'y'."
@@ -6534,10 +6534,10 @@
         {
           "prompt": "Choisissez la paire de phrases grammaticalement irréprochable :",
           "options": [
-            "Je parle de mon voisin -> Je parle de lui ; Je parle de mon travail -> J'en parle. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "Je parle de mon voisin -> J'en parle ; Je parle de mon travail -> Je parle de lui. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "Je parle de mon voisin -> Je lui parle ; Je parle de mon travail -> J'y parle. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "Je parle de mon voisin -> Je le parle ; Je parle de mon travail -> Je l'en parle. (Distinguish between human vs nonhuman prepositional complements (U12))"
+            "Je parle de mon voisin -> Je parle de lui ; Je parle de mon travail -> J'en parle. (Distinguish between human vs nonhuman prepositional complements)",
+            "Je parle de mon voisin -> J'en parle ; Je parle de mon travail -> Je parle de lui. (Distinguish between human vs nonhuman prepositional complements)",
+            "Je parle de mon voisin -> Je lui parle ; Je parle de mon travail -> J'y parle. (Distinguish between human vs nonhuman prepositional complements)",
+            "Je parle de mon voisin -> Je le parle ; Je parle de mon travail -> Je l'en parle. (Distinguish between human vs nonhuman prepositional complements)"
           ],
           "answerIndex": 0,
           "explanation": "'De + personne' -> 'de lui' ; 'de + chose' -> 'en'."
@@ -6550,10 +6550,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi dit-on « Je m'intéresse à CE PROJET -> Je m'y intéresse », mais « Je m'intéresse à CETTE FEMME -> Je m'intéresse à elle » ?",
           "options": [
-            "Parce que 'y' ne remplace que des choses ou concepts inanimés après la préposition 'à', tandis que les personnes exigent 'à + pronom tonique'. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "Parce que 'femme' est féminin singulier. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "Parce que le verbe 's'intéresser' est pronominal. (Distinguish between human vs nonhuman prepositional complements (U12))",
-            "Parce que la première phrase est au conditionnel. (Distinguish between human vs nonhuman prepositional complements (U12))"
+            "Parce que 'y' ne remplace que des choses ou concepts inanimés après la préposition 'à', tandis que les personnes exigent 'à + pronom tonique'. (Distinguish between human vs nonhuman prepositional complements)",
+            "Parce que 'femme' est féminin singulier. (Distinguish between human vs nonhuman prepositional complements)",
+            "Parce que le verbe 's'intéresser' est pronominal. (Distinguish between human vs nonhuman prepositional complements)",
+            "Parce que la première phrase est au conditionnel. (Distinguish between human vs nonhuman prepositional complements)"
           ],
           "answerIndex": 0,
           "explanation": "La règle de sélection pronominale oppose les inanimés (y) aux êtres animés (à + pronom tonique) pour les verbes à complément prépositionnel fixe."
@@ -6626,10 +6626,10 @@
         {
           "prompt": "Que signifie l'expression « Ne t'en fais pas ! » en français courant ?",
           "options": [
-            "Ne t'inquiète pas ! / Ne te fais pas de souci ! (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Ne pars pas maintenant ! (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Ne fabrique pas cet objet ! (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Ne m'en veux pas ! (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))"
+            "Ne t'inquiète pas ! / Ne te fais pas de souci ! (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Ne pars pas maintenant ! (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Ne fabrique pas cet objet ! (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Ne m'en veux pas ! (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)"
           ],
           "answerIndex": 0,
           "explanation": "'S'en faire' est une expression idiomatique figée signifiant 's'inquiéter / se faire du souci'."
@@ -6641,10 +6641,10 @@
         {
           "prompt": "Quelle phrase traduit exactement « She knows a lot about computer science » ?",
           "options": [
-            "Elle s'y connaît en informatique. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Elle s'en connaît en informatique. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Elle se connaît en informatique. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Elle lui connaît en informatique. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))"
+            "Elle s'y connaît en informatique. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Elle s'en connaît en informatique. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Elle se connaît en informatique. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Elle lui connaît en informatique. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)"
           ],
           "answerIndex": 0,
           "explanation": "L'expression consacrée est 's'y connaître en quelque chose' (être compétent dans un domaine)."
@@ -6657,10 +6657,10 @@
           "type": "multiple-choice",
           "prompt": "Comment dit-on « Don't be mad at me / Don't hold a grudge against me » en français idiomatique ?",
           "options": [
-            "Ne m'en veux pas. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Ne me veux pas. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Ne m'y veux pas. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))",
-            "Ne m'en vas pas. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller (U12))"
+            "Ne m'en veux pas. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Ne me veux pas. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Ne m'y veux pas. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)",
+            "Ne m'en vas pas. (Master highfrequency idiomatic pronominal expressions incorporating fixed Y and EN sen aller)"
           ],
           "answerIndex": 0,
           "explanation": "'En vouloir à quelqu'un' signifie éprouver du ressentiment ou de la rancune envers quelqu'un."
@@ -6733,10 +6733,10 @@
         {
           "prompt": "Choisissez la phrase qui intègre correctement les pronoms pour « Nous avons parlé [de ce problème] [à notre directeur] » :",
           "options": [
-            "Nous lui en avons parlé. (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "Nous en lui avons parlé. (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "Nous y en avons parlé. (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "Nous l'en avons parlé. (Synthesize all French personal and adverbial pronouns COD (U12))"
+            "Nous lui en avons parlé. (Synthesize all French personal and adverbial pronouns COD)",
+            "Nous en lui avons parlé. (Synthesize all French personal and adverbial pronouns COD)",
+            "Nous y en avons parlé. (Synthesize all French personal and adverbial pronouns COD)",
+            "Nous l'en avons parlé. (Synthesize all French personal and adverbial pronouns COD)"
           ],
           "answerIndex": 0,
           "explanation": "L'ordre clitique place le COI de 3e personne 'lui' avant le pronom adverbial 'en' : 'Nous lui en avons parlé'."
@@ -6748,10 +6748,10 @@
         {
           "prompt": "Quelle est la forme impérative affirmative correcte pour « Donne [des cerises] [à moi] » ?",
           "options": [
-            "Donne-m'en ! (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "Donne-moi-en ! (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "Donne-en-moi ! (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "M'en donne ! (Synthesize all French personal and adverbial pronouns COD (U12))"
+            "Donne-m'en ! (Synthesize all French personal and adverbial pronouns COD)",
+            "Donne-moi-en ! (Synthesize all French personal and adverbial pronouns COD)",
+            "Donne-en-moi ! (Synthesize all French personal and adverbial pronouns COD)",
+            "M'en donne ! (Synthesize all French personal and adverbial pronouns COD)"
           ],
           "answerIndex": 0,
           "explanation": "À l'impératif affirmatif devant 'en', 'moi' s'élide en 'm'' avec un trait d'union : 'Donne-m'en !'."
@@ -6764,10 +6764,10 @@
           "type": "multiple-choice",
           "prompt": "Dans la phrase « Ces photos, je les y ai trouvées », pourquoi le participe passé 'trouvées' s'accorde-t-il au féminin pluriel ?",
           "options": [
-            "Parce que le pronom direct 'les' (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "Parce que le pronom 'y' exige un accord au pluriel. (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "Parce que le sujet 'je' est obligatoirement féminin. (Synthesize all French personal and adverbial pronouns COD (U12))",
-            "Parce que c'est une règle spéciale de l'adverbe de lieu. (Synthesize all French personal and adverbial pronouns COD (U12))"
+            "Parce que le pronom direct 'les' (Synthesize all French personal and adverbial pronouns COD)",
+            "Parce que le pronom 'y' exige un accord au pluriel. (Synthesize all French personal and adverbial pronouns COD)",
+            "Parce que le sujet 'je' est obligatoirement féminin. (Synthesize all French personal and adverbial pronouns COD)",
+            "Parce que c'est une règle spéciale de l'adverbe de lieu. (Synthesize all French personal and adverbial pronouns COD)"
           ],
           "answerIndex": 0,
           "explanation": "L'accord se fait avec le COD antéposé 'les' (ces photos, fém. pl.). Le pronom 'y' n'a aucun impact sur l'accord."
@@ -6841,10 +6841,10 @@
         {
           "prompt": "Quelle tournure temporelle signale typiquement une habitude passée exigeant l'imparfait ?",
           "options": [
-            "Tous les étés / Le dimanche (Use limparfait to describe recurring habits (U8))",
-            "Soudain (Use limparfait to describe recurring habits (U8))",
-            "Hier à midi pile (Use limparfait to describe recurring habits (U8))",
-            "Tout à coup (Use limparfait to describe recurring habits (U8))"
+            "Tous les étés / Le dimanche (Use limparfait to describe recurring habits)",
+            "Soudain (Use limparfait to describe recurring habits)",
+            "Hier à midi pile (Use limparfait to describe recurring habits)",
+            "Tout à coup (Use limparfait to describe recurring habits)"
           ],
           "answerIndex": 0,
           "explanation": "Les expressions de récurrence (tous les jours, le dimanche, d'habitude, autrefois) décrivent des habitudes répétées et appellent l'imparfait."
@@ -6856,10 +6856,10 @@
         {
           "prompt": "Quelle phrase exprime une habitude sportive d'enfance répétée régulièrement ?",
           "options": [
-            "Quand j'étais petit, je jouais au football tous les jours. (Use limparfait to describe recurring habits (U8))",
-            "Quand j'étais petit, j'ai joué au football une seule fois. (Use limparfait to describe recurring habits (U8))",
-            "Demain, je jouerai au football avec mes amis. (Use limparfait to describe recurring habits (U8))",
-            "Je joue au football en ce moment. (Use limparfait to describe recurring habits (U8))"
+            "Quand j'étais petit, je jouais au football tous les jours. (Use limparfait to describe recurring habits)",
+            "Quand j'étais petit, j'ai joué au football une seule fois. (Use limparfait to describe recurring habits)",
+            "Demain, je jouerai au football avec mes amis. (Use limparfait to describe recurring habits)",
+            "Je joue au football en ce moment. (Use limparfait to describe recurring habits)"
           ],
           "answerIndex": 0,
           "explanation": "'Je jouais au football tous les jours' utilise l'imparfait d'habitude pour une pratique itérative passée."
@@ -6872,10 +6872,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase traduit l'habitude dominicale passée chez les grands-parents ?",
           "options": [
-            "Le dimanche, nous dînions chez nos grands-parents. (Use limparfait to describe recurring habits (U8))",
-            "Le dimanche, nous avons dîné une fois chez nos grands-parents. (Use limparfait to describe recurring habits (U8))",
-            "Le dimanche, nous dînerons chez nos grands-parents. (Use limparfait to describe recurring habits (U8))",
-            "Le dimanche, nous dîner chez nos grands-parents. (Use limparfait to describe recurring habits (U8))"
+            "Le dimanche, nous dînions chez nos grands-parents. (Use limparfait to describe recurring habits)",
+            "Le dimanche, nous avons dîné une fois chez nos grands-parents. (Use limparfait to describe recurring habits)",
+            "Le dimanche, nous dînerons chez nos grands-parents. (Use limparfait to describe recurring habits)",
+            "Le dimanche, nous dîner chez nos grands-parents. (Use limparfait to describe recurring habits)"
           ],
           "answerIndex": 0,
           "explanation": "'Le dimanche, nous dînions...' exprime la répétition rituelle chaque semaine à l'imparfait."
@@ -6952,10 +6952,10 @@
         {
           "prompt": "Pourquoi emploie-t-on l'imparfait pour décrire la météo et l'atmosphère dans « Il pleuvait et la nuit était sombre » ?",
           "options": [
-            "Parce que l'imparfait sert à planter le décor et peindre les conditions continues d'arrière-plan. (Deploy limparfait to set the scene (U8))",
-            "Parce que la pluie est un phénomène futur. (Deploy limparfait to set the scene (U8))",
-            "Parce qu'il s'agit d'une interruption ponctuelle. (Deploy limparfait to set the scene (U8))",
-            "Parce que c'est une subordonnée conditionnelle. (Deploy limparfait to set the scene (U8))"
+            "Parce que l'imparfait sert à planter le décor et peindre les conditions continues d'arrière-plan. (Deploy limparfait to set the scene)",
+            "Parce que la pluie est un phénomène futur. (Deploy limparfait to set the scene)",
+            "Parce qu'il s'agit d'une interruption ponctuelle. (Deploy limparfait to set the scene)",
+            "Parce que c'est une subordonnée conditionnelle. (Deploy limparfait to set the scene)"
           ],
           "answerIndex": 0,
           "explanation": "L'imparfait a une valeur descriptive permettant de dépeindre le cadre spatio-temporel, l'ambiance et la météo."
@@ -6967,10 +6967,10 @@
         {
           "prompt": "Quelle phrase décrit une sensation physique interne ressentie continuellement dans le passé ?",
           "options": [
-            "Nous avions très faim après la longue marche. (Deploy limparfait to set the scene (U8))",
-            "Nous avons eu faim subitement pendant deux secondes. (Deploy limparfait to set the scene (U8))",
-            "Nous aurons faim plus tard. (Deploy limparfait to set the scene (U8))",
-            "Nous avons faim maintenant. (Deploy limparfait to set the scene (U8))"
+            "Nous avions très faim après la longue marche. (Deploy limparfait to set the scene)",
+            "Nous avons eu faim subitement pendant deux secondes. (Deploy limparfait to set the scene)",
+            "Nous aurons faim plus tard. (Deploy limparfait to set the scene)",
+            "Nous avons faim maintenant. (Deploy limparfait to set the scene)"
           ],
           "answerIndex": 0,
           "explanation": "Les états physiologiques et psychologiques (avoir faim, avoir soif, avoir peur) se décrivent à l'imparfait dans un récit."
@@ -6983,10 +6983,10 @@
           "type": "multiple-choice",
           "prompt": "Quel temps verbal convient pour décrire l'architecture ancienne d'un château dans un récit ?",
           "options": [
-            "L'imparfait : Le château avait de grandes fenêtres anciennes. (Deploy limparfait to set the scene (U8))",
-            "Le futur simple : Le château aura de grandes fenêtres. (Deploy limparfait to set the scene (U8))",
-            "Le subjonctif : Que le château ait de grandes fenêtres. (Deploy limparfait to set the scene (U8))",
-            "L'impératif : Aie de grandes fenêtres. (Deploy limparfait to set the scene (U8))"
+            "L'imparfait : Le château avait de grandes fenêtres anciennes. (Deploy limparfait to set the scene)",
+            "Le futur simple : Le château aura de grandes fenêtres. (Deploy limparfait to set the scene)",
+            "Le subjonctif : Que le château ait de grandes fenêtres. (Deploy limparfait to set the scene)",
+            "L'impératif : Aie de grandes fenêtres. (Deploy limparfait to set the scene)"
           ],
           "answerIndex": 0,
           "explanation": "La description physique d'un bâtiment dans le passé s'exprime à l'imparfait."
@@ -7065,9 +7065,9 @@
           "prompt": "Dans la phrase « Je dormais quand le téléphone a sonné », quelle est la fonction respective de chaque temps ?",
           "options": [
             "'Dormais' (imparfait)",
-            "'Dormais' = action future ; 'a sonné' = habitude. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))",
-            "Les deux verbes expriment des actions instantanées. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))",
-            "'Dormais' est au passé simple. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))"
+            "'Dormais' = action future ; 'a sonné' = habitude. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)",
+            "Les deux verbes expriment des actions instantanées. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)",
+            "'Dormais' est au passé simple. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)"
           ],
           "answerIndex": 0,
           "explanation": "L'imparfait décrit l'action déjà en cours dans le décor sonore/visuel, et le passé composé marque l'irruption soudaine qui coupe cette continuité."
@@ -7079,10 +7079,10 @@
         {
           "prompt": "Quelle conjonction introduit typiquement la proposition à l'imparfait dans une scène d'interruption ?",
           "options": [
-            "Pendant que (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))",
-            "Soudain (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))",
-            "Tout à coup (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))",
-            "Hier soir (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))"
+            "Pendant que (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)",
+            "Soudain (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)",
+            "Tout à coup (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)",
+            "Hier soir (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)"
           ],
           "answerIndex": 0,
           "explanation": "'Pendant que' (while) introduit la proposition exprimant la durée continue à l'imparfait."
@@ -7095,10 +7095,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre parfaitement l'interruption d'une marche par une observation visuelle soudaine ?",
           "options": [
-            "Elle traversait la rue quand elle a vu son ami. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))",
-            "Elle a traversé la rue quand elle voyait son ami. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))",
-            "Elle traversait la rue quand elle voyait son ami. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))",
-            "Elle traverser la rue quand elle a vu son ami. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand (U8))"
+            "Elle traversait la rue quand elle a vu son ami. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)",
+            "Elle a traversé la rue quand elle voyait son ami. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)",
+            "Elle traversait la rue quand elle voyait son ami. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)",
+            "Elle traverser la rue quand elle a vu son ami. (Combine limparfait ongoing background action with pass compos interrupting event using pendant que and quand)"
           ],
           "answerIndex": 0,
           "explanation": "'Traversait' (imparfait, en cours) + 'a vu' (passé composé, événement ponctuel)."
@@ -7174,9 +7174,9 @@
           "prompt": "Comment se forme le conditionnel présent en français ?",
           "options": [
             "Radical du futur simple + terminaisons de l'imparfait (-ais, -ais, -ait, -ions, -iez, -aient)",
-            "Radical du présent + terminaisons du futur. (Form the conditionnel prsent by attaching imperfect endings ais (U13))",
-            "Infinitif complet + terminaisons du subjonctif. (Form the conditionnel prsent by attaching imperfect endings ais (U13))",
-            "Participe passé + auxiliaire avoir. (Form the conditionnel prsent by attaching imperfect endings ais (U13))"
+            "Radical du présent + terminaisons du futur. (Form the conditionnel prsent by attaching imperfect endings ais)",
+            "Infinitif complet + terminaisons du subjonctif. (Form the conditionnel prsent by attaching imperfect endings ais)",
+            "Participe passé + auxiliaire avoir. (Form the conditionnel prsent by attaching imperfect endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "Le conditionnel présent se construit en greffant les terminaisons de l'imparfait sur le radical du futur simple (ex: parler- + -ais = je parlerais ; ser- + -ais = je serais)."
@@ -7188,10 +7188,10 @@
         {
           "prompt": "Quel est le conditionnel présent du verbe de modalité 'pouvoir' avec le sujet 'nous' ?",
           "options": [
-            "Nous pourrions (Form the conditionnel prsent by attaching imperfect endings ais (U13))",
-            "Nous pouvons (Form the conditionnel prsent by attaching imperfect endings ais (U13))",
-            "Nous pouvions (Form the conditionnel prsent by attaching imperfect endings ais (U13))",
-            "Nous pourrons (Form the conditionnel prsent by attaching imperfect endings ais (U13))"
+            "Nous pourrions (Form the conditionnel prsent by attaching imperfect endings ais)",
+            "Nous pouvons (Form the conditionnel prsent by attaching imperfect endings ais)",
+            "Nous pouvions (Form the conditionnel prsent by attaching imperfect endings ais)",
+            "Nous pourrons (Form the conditionnel prsent by attaching imperfect endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "'Pouvoir' a pour radical du futur/conditionnel 'pourr-', auquel on ajoute '-ions' : 'nous pourrions'."
@@ -7204,10 +7204,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase exprime un souhait poli au conditionnel présent avec le verbe 'aimer' ?",
           "options": [
-            "J'aimerais visiter le musée du Louvre. (Form the conditionnel prsent by attaching imperfect endings ais (U13))",
-            "J'ai aimé visiter le musée du Louvre. (Form the conditionnel prsent by attaching imperfect endings ais (U13))",
-            "J'aimais visiter le musée du Louvre autrefois. (Form the conditionnel prsent by attaching imperfect endings ais (U13))",
-            "J'aimerai visiter le musée demain. (Form the conditionnel prsent by attaching imperfect endings ais (U13))"
+            "J'aimerais visiter le musée du Louvre. (Form the conditionnel prsent by attaching imperfect endings ais)",
+            "J'ai aimé visiter le musée du Louvre. (Form the conditionnel prsent by attaching imperfect endings ais)",
+            "J'aimais visiter le musée du Louvre autrefois. (Form the conditionnel prsent by attaching imperfect endings ais)",
+            "J'aimerai visiter le musée demain. (Form the conditionnel prsent by attaching imperfect endings ais)"
           ],
           "answerIndex": 0,
           "explanation": "'J'aimerais' utilise le conditionnel présent de politesse pour exprimer un souhait ou une intention mesurée."
@@ -7282,10 +7282,10 @@
         {
           "prompt": "Vous êtes dans un café parisien. Quelle formule est la plus polie pour commander un expresso ?",
           "options": [
-            "Je voudrais un café serré, s'il vous plaît. (Use je voudrais (U13))",
-            "Je veux immédiatement un café noir. (Use je voudrais (U13))",
-            "Donnez-moi le café maintenant sans tarder. (Use je voudrais (U13))",
-            "Tu me donnes un café tout de suite. (Use je voudrais (U13))"
+            "Je voudrais un café serré, s'il vous plaît. (Use je voudrais)",
+            "Je veux immédiatement un café noir. (Use je voudrais)",
+            "Donnez-moi le café maintenant sans tarder. (Use je voudrais)",
+            "Tu me donnes un café tout de suite. (Use je voudrais)"
           ],
           "answerIndex": 0,
           "explanation": "« Je voudrais... s'il vous plaît » est la formule de politesse standard par excellence au restaurant ou au café."
@@ -7297,10 +7297,10 @@
         {
           "prompt": "Comment demander poliment à un passant inconnu de vous indiquer l'heure ?",
           "options": [
-            "Dis-moi quelle heure il est ! (Use je voudrais (U13))",
-            "Pourriez-vous me donner l'heure, s'il vous plaît ? (Use je voudrais (U13))",
-            "Donne-moi l'heure vite fait. (Use je voudrais (U13))",
-            "J'exige que vous me disiez l'heure. (Use je voudrais (U13))"
+            "Dis-moi quelle heure il est ! (Use je voudrais)",
+            "Pourriez-vous me donner l'heure, s'il vous plaît ? (Use je voudrais)",
+            "Donne-moi l'heure vite fait. (Use je voudrais)",
+            "J'exige que vous me disiez l'heure. (Use je voudrais)"
           ],
           "answerIndex": 1,
           "explanation": "L'inversion interrogative au conditionnel « Pourriez-vous... » avec le vouvoiement et « s'il vous plaît » respecte parfaitement les codes de politesse."
@@ -7313,10 +7313,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre le conditionnel de politesse pour demander une faveur ?",
           "options": [
-            "Je dois partir tout de suite. (Use je voudrais (U13))",
-            "Pourriez-vous fermer la fenêtre, s'il vous plaît ? (Use je voudrais (U13))",
-            "Tu fermes la fenêtre maintenant. (Use je voudrais (U13))",
-            "Nous fermerons la porte demain matin. (Use je voudrais (U13))"
+            "Je dois partir tout de suite. (Use je voudrais)",
+            "Pourriez-vous fermer la fenêtre, s'il vous plaît ? (Use je voudrais)",
+            "Tu fermes la fenêtre maintenant. (Use je voudrais)",
+            "Nous fermerons la porte demain matin. (Use je voudrais)"
           ],
           "answerIndex": 1,
           "explanation": "« Pourriez-vous... » emploie le conditionnel présent du verbe pouvoir pour adoucir la demande."
@@ -7391,10 +7391,10 @@
         {
           "prompt": "Votre ami est très fatigué. Quel conseil bienveillant et nuancé lui donnez-vous ?",
           "options": [
-            "Tu dois courir dix kilomètres maintenant ! (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Tu devrais prendre quelques jours de repos. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Tu as pris tes vacances l'année dernière. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Tu prendras le train hier soir. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))"
+            "Tu dois courir dix kilomètres maintenant ! (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Tu devrais prendre quelques jours de repos. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Tu as pris tes vacances l'année dernière. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Tu prendras le train hier soir. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)"
           ],
           "answerIndex": 1,
           "explanation": "« Tu devrais... » exprime un conseil nuancé au conditionnel présent."
@@ -7406,10 +7406,10 @@
         {
           "prompt": "Choisissez la formulation impersonnelle la plus adéquate pour suggérer une amélioration générale :",
           "options": [
-            "Il faut absolument obéir sans discuter. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Il faudrait organiser une réunion pour clarifier la situation. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Il a fallu refaire le travail hier. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Il faudra partir dans trois semaines. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))"
+            "Il faut absolument obéir sans discuter. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Il faudrait organiser une réunion pour clarifier la situation. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Il a fallu refaire le travail hier. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Il faudra partir dans trois semaines. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)"
           ],
           "answerIndex": 1,
           "explanation": "« Il faudrait + infinitif » exprime une suggestion mesurée et constructive."
@@ -7422,10 +7422,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase utilise correctement le verbe devoir au conditionnel pour prodiguer un conseil à un collègue (vouvoiement) ?",
           "options": [
-            "Vous devez signer le contrat immédiatement. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Vous devriez relire attentivement la clause de confidentialité. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Vous avez dû oublier votre mot de passe. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))",
-            "Vous devrez arriver à l'heure demain. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait (U13))"
+            "Vous devez signer le contrat immédiatement. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Vous devriez relire attentivement la clause de confidentialité. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Vous avez dû oublier votre mot de passe. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)",
+            "Vous devrez arriver à l'heure demain. (Provide nuanced advice and moral recommendations using devoir tu devrais and falloir il faudrait)"
           ],
           "answerIndex": 1,
           "explanation": "« Vous devriez relire... » emploie le conditionnel présent pour formuler une recommandation modérée."
@@ -7499,10 +7499,10 @@
         {
           "prompt": "Dans un journal télévisé, quelle phrase indique que l'information n'a pas encore été officiellement confirmée ?",
           "options": [
-            "Le Premier ministre s'est exprimé hier à 20 heures. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Le Premier ministre démissionnerait d'ici la fin du mois. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Le Premier ministre a signé le décret ce matin. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Le Premier ministre voyage toujours en avion officiel. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))"
+            "Le Premier ministre s'est exprimé hier à 20 heures. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Le Premier ministre démissionnerait d'ici la fin du mois. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Le Premier ministre a signé le décret ce matin. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Le Premier ministre voyage toujours en avion officiel. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)"
           ],
           "answerIndex": 1,
           "explanation": "Le verbe au conditionnel présent (« démissionnerait ») indique une information sous réserve ou une rumeur non confirmée."
@@ -7514,10 +7514,10 @@
         {
           "prompt": "Traduisez fidèlement en français journalistique : « According to sources, the company is reportedly planning a merger. »",
           "options": [
-            "Selon des sources, l'entreprise a planifié une fusion. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Selon des sources, l'entreprise envisagerait une fusion. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Selon des sources, l'entreprise refusera toujours la fusion. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Selon des sources, l'entreprise avait conclu la fusion. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))"
+            "Selon des sources, l'entreprise a planifié une fusion. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Selon des sources, l'entreprise envisagerait une fusion. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Selon des sources, l'entreprise refusera toujours la fusion. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Selon des sources, l'entreprise avait conclu la fusion. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)"
           ],
           "answerIndex": 1,
           "explanation": "« envisagerait » traduit parfaitement le conditionnel d'information non confirmée."
@@ -7530,10 +7530,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi le journaliste utilise-t-il le conditionnel dans la phrase : « L'accident aurait fait deux blessés légers » ?",
           "options": [
-            "Pour exprimer un regret face au passé. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Pour formuler une hypothèse ou rapporter un fait encore non vérifié. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Pour donner un ordre péremptoire aux secours. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))",
-            "Pour indiquer une certitude scientifique absolue. (Report unconfirmed information and journalistic speculation using the conditional of hearsay (U13))"
+            "Pour exprimer un regret face au passé. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Pour formuler une hypothèse ou rapporter un fait encore non vérifié. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Pour donner un ordre péremptoire aux secours. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)",
+            "Pour indiquer une certitude scientifique absolue. (Report unconfirmed information and journalistic speculation using the conditional of hearsay)"
           ],
           "answerIndex": 1,
           "explanation": "Le conditionnel journalistique permet d'énoncer des faits probables sans engagement de certitude absolue."
@@ -7607,10 +7607,10 @@
         {
           "prompt": "Complétez correctement l'hypothèse : « Si j'_________ riche, j'achèterais un château en Touraine. »",
           "options": [
-            "étais (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "serais (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "fus (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "suis (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))"
+            "étais (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "serais (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "fus (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "suis (Form basic unreal present conditional sentences with si  imparfait  conditionnel)"
           ],
           "answerIndex": 0,
           "explanation": "Après 'si' pour exprimer une hypothèse sur le présent, on doit impérativement employer l'imparfait (« étais ») et non le conditionnel (« serais »)."
@@ -7622,10 +7622,10 @@
         {
           "prompt": "Identifiez la phrase syntaxiquement correcte en français standard :",
           "options": [
-            "Si j'aurais su, je ne viendrais pas. (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "Si nous avions une voiture, nous visiterions la Bretagne. (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "Si tu serais là, nous mangerions ensemble. (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "Si vous viendriez demain, nous serions contents. (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))"
+            "Si j'aurais su, je ne viendrais pas. (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "Si nous avions une voiture, nous visiterions la Bretagne. (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "Si tu serais là, nous mangerions ensemble. (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "Si vous viendriez demain, nous serions contents. (Form basic unreal present conditional sentences with si  imparfait  conditionnel)"
           ],
           "answerIndex": 1,
           "explanation": "La structure « Si + imparfait (avions) -> conditionnel présent (visiterions) » est rigoureusement respectée."
@@ -7638,10 +7638,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre l'irréel du présent selon la règle « Si + imparfait -> conditionnel » ?",
           "options": [
-            "Si tu viens demain, nous irons au cinéma. (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "Si tu étudiais sérieusement, tu réussirais tes examens. (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "Si tu es venu hier, tu as vu le spectacle. (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))",
-            "Si tu seras présent, nous commencerons. (Form basic unreal present conditional sentences with si  imparfait  conditionnel (U13))"
+            "Si tu viens demain, nous irons au cinéma. (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "Si tu étudiais sérieusement, tu réussirais tes examens. (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "Si tu es venu hier, tu as vu le spectacle. (Form basic unreal present conditional sentences with si  imparfait  conditionnel)",
+            "Si tu seras présent, nous commencerons. (Form basic unreal present conditional sentences with si  imparfait  conditionnel)"
           ],
           "answerIndex": 1,
           "explanation": "« Si tu étudiais (imparfait), tu réussirais (conditionnel) » correspond exactement à l'irréel du présent."
@@ -7715,10 +7715,10 @@
         {
           "prompt": "Quelle est la forme correcte au subjonctif présent pour 'nous' avec le verbe 'finir' ?",
           "options": [
-            "que nous finissions (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "que nous finissons (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "que nous finirions (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "que nous finissiez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))"
+            "que nous finissions (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "que nous finissons (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "que nous finirions (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "que nous finissiez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)"
           ],
           "answerIndex": 0,
           "explanation": "Le radical 'finiss-' combiné à la terminaison subjonctive '-ions' donne « que nous finissions »."
@@ -7730,10 +7730,10 @@
         {
           "prompt": "Choisissez la phrase où le verbe régulier au subjonctif est correctement orthographié :",
           "options": [
-            "Il faut que tu chantes plus fort. (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "Il faut que tu chante plus fort. (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "Il faut que tu chanteras plus fort. (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "Il faut que tu chantais plus fort. (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))"
+            "Il faut que tu chantes plus fort. (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "Il faut que tu chante plus fort. (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "Il faut que tu chanteras plus fort. (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "Il faut que tu chantais plus fort. (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)"
           ],
           "answerIndex": 0,
           "explanation": "Avec la 2e personne du singulier (tu), la terminaison régulière du subjonctif est « -es » : « tu chantes »."
@@ -7746,10 +7746,10 @@
           "type": "multiple-choice",
           "prompt": "Complétez la subordonnée : « Il est indispensable que vous _________ (vendre) cette maison rapidement. »",
           "options": [
-            "vendiez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "vendez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "vendrez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))",
-            "vendriez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e (U14))"
+            "vendiez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "vendez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "vendrez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)",
+            "vendriez (Form the subjonctif prsent for regular verbs using the 3rdperson plural stem and subjunctive endings e)"
           ],
           "answerIndex": 0,
           "explanation": "Le subjonctif présent avec 'vous' pour le verbe vendre prend la terminaison '-iez' : « vendiez »."
@@ -7824,10 +7824,10 @@
         {
           "prompt": "Complétez la phrase avec la forme correcte d'ÊTRE au subjonctif : « Il est indispensable que tu _________ ponctuel à l'entretien. »",
           "options": [
-            "sois (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "es (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "seras (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "soit (Conjugate essential irregular verbs in the subjunctive tre (U14))"
+            "sois (Conjugate essential irregular verbs in the subjunctive tre)",
+            "es (Conjugate essential irregular verbs in the subjunctive tre)",
+            "seras (Conjugate essential irregular verbs in the subjunctive tre)",
+            "soit (Conjugate essential irregular verbs in the subjunctive tre)"
           ],
           "answerIndex": 0,
           "explanation": "Avec 'tu', le subjonctif présent du verbe être s'écrit « sois »."
@@ -7839,10 +7839,10 @@
         {
           "prompt": "Identifiez la forme correcte de FAIRE au subjonctif présent pour 'ils' :",
           "options": [
-            "qu'ils font (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "qu'ils fassent (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "qu'ils feront (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "qu'ils faisaient (Conjugate essential irregular verbs in the subjunctive tre (U14))"
+            "qu'ils font (Conjugate essential irregular verbs in the subjunctive tre)",
+            "qu'ils fassent (Conjugate essential irregular verbs in the subjunctive tre)",
+            "qu'ils feront (Conjugate essential irregular verbs in the subjunctive tre)",
+            "qu'ils faisaient (Conjugate essential irregular verbs in the subjunctive tre)"
           ],
           "answerIndex": 1,
           "explanation": "Le radical du verbe faire au subjonctif est 'fass-', donc avec ils/elles : « qu'ils fassent »."
@@ -7855,10 +7855,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase contient une forme incorrecte du subjonctif ?",
           "options": [
-            "Il faut que nous sachions la vérité. (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "Je veux que vous alliez à cette conférence. (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "Il est urgent que je peux t'aider. (Conjugate essential irregular verbs in the subjunctive tre (U14))",
-            "J'exige qu'il fasse attention. (Conjugate essential irregular verbs in the subjunctive tre (U14))"
+            "Il faut que nous sachions la vérité. (Conjugate essential irregular verbs in the subjunctive tre)",
+            "Je veux que vous alliez à cette conférence. (Conjugate essential irregular verbs in the subjunctive tre)",
+            "Il est urgent que je peux t'aider. (Conjugate essential irregular verbs in the subjunctive tre)",
+            "J'exige qu'il fasse attention. (Conjugate essential irregular verbs in the subjunctive tre)"
           ],
           "answerIndex": 2,
           "explanation": "« que je peux » est faux ; le verbe pouvoir exige le subjonctif « que je puisse »."
@@ -7932,10 +7932,10 @@
         {
           "prompt": "Quelle tournure exige l'emploi du subjonctif présent dans la subordonnée ?",
           "options": [
-            "Il est certain que vous... (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "Il est évident que tu... (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "Il est nécessaire que nous... (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "Il est vrai qu'il... (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))"
+            "Il est certain que vous... (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "Il est évident que tu... (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "Il est nécessaire que nous... (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "Il est vrai qu'il... (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)"
           ],
           "answerIndex": 2,
           "explanation": "« Il est nécessaire que... » exprime une obligation impersonnelle et déclenche obligatoirement le subjonctif."
@@ -7947,10 +7947,10 @@
         {
           "prompt": "Choisissez la phrase correcte traduisant « It is better that she stay here » :",
           "options": [
-            "Il vaut mieux qu'elle reste ici. (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "Il vaut mieux qu'elle restera ici. (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "Il vaut mieux qu'elle restait ici. (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "Il vaut mieux qu'elle est restée ici. (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))"
+            "Il vaut mieux qu'elle reste ici. (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "Il vaut mieux qu'elle restera ici. (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "Il vaut mieux qu'elle restait ici. (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "Il vaut mieux qu'elle est restée ici. (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)"
           ],
           "answerIndex": 0,
           "explanation": "« Il vaut mieux que » est suivi du subjonctif présent (« qu'elle reste »)."
@@ -7963,10 +7963,10 @@
           "type": "multiple-choice",
           "prompt": "Complétez la consigne : « Il est indispensable que chacun _________ (comprendre) ses responsabilités. »",
           "options": [
-            "comprenne (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "comprend (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "comprendra (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))",
-            "comprenait (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que (U14))"
+            "comprenne (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "comprend (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "comprendra (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)",
+            "comprenait (Express obligation and necessity with impersonal expressions requiring subjunctive il faut que)"
           ],
           "answerIndex": 0,
           "explanation": "Après 'il est indispensable que', le verbe comprendre à la 3e personne du singulier prend la forme subjonctive « comprenne »."
@@ -8040,10 +8040,10 @@
         {
           "prompt": "Complétez : « La directrice exige que tous les rapports _________ (être) remis avant vendredi soir. »",
           "options": [
-            "soient (Use the subjunctive after verbs of desire (U14))",
-            "sont (Use the subjunctive after verbs of desire (U14))",
-            "seront (Use the subjunctive after verbs of desire (U14))",
-            "étaient (Use the subjunctive after verbs of desire (U14))"
+            "soient (Use the subjunctive after verbs of desire)",
+            "sont (Use the subjunctive after verbs of desire)",
+            "seront (Use the subjunctive after verbs of desire)",
+            "étaient (Use the subjunctive after verbs of desire)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'exiger que' exprime un ordre formel et commande le subjonctif : « soient »."
@@ -8055,10 +8055,10 @@
         {
           "prompt": "Identifiez la phrase qui enfreint la règle des deux sujets en français standard :",
           "options": [
-            "Je veux que je réussisse mon examen. (Use the subjunctive after verbs of desire (U14))",
-            "Je veux réussir mon examen. (Use the subjunctive after verbs of desire (U14))",
-            "Je veux que tu réussisses ton examen. (Use the subjunctive after verbs of desire (U14))",
-            "Je souhaite que nous réussissions ensemble. (Use the subjunctive after verbs of desire (U14))"
+            "Je veux que je réussisse mon examen. (Use the subjunctive after verbs of desire)",
+            "Je veux réussir mon examen. (Use the subjunctive after verbs of desire)",
+            "Je veux que tu réussisses ton examen. (Use the subjunctive after verbs of desire)",
+            "Je souhaite que nous réussissions ensemble. (Use the subjunctive after verbs of desire)"
           ],
           "answerIndex": 0,
           "explanation": "Quand le sujet principal et le sujet subordonné sont identiques (Je... je...), on doit obligatoirement employer l'infinitif (« Je veux réussir ») et non une complétive au subjonctif."
@@ -8071,10 +8071,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre l'expression d'une volonté avec changement de sujet ?",
           "options": [
-            "Nous espérons partir demain matin en train. (Use the subjunctive after verbs of desire (U14))",
-            "Mes parents veulent que j'apprenne une troisième langue. (Use the subjunctive after verbs of desire (U14))",
-            "Tu penses que ce livre est passionnant. (Use the subjunctive after verbs of desire (U14))",
-            "Il sait que nous avons terminé le travail. (Use the subjunctive after verbs of desire (U14))"
+            "Nous espérons partir demain matin en train. (Use the subjunctive after verbs of desire)",
+            "Mes parents veulent que j'apprenne une troisième langue. (Use the subjunctive after verbs of desire)",
+            "Tu penses que ce livre est passionnant. (Use the subjunctive after verbs of desire)",
+            "Il sait que nous avons terminé le travail. (Use the subjunctive after verbs of desire)"
           ],
           "answerIndex": 1,
           "explanation": "« Mes parents veulent que j'apprenne... » exprime la volonté du sujet 1 sur le sujet 2 avec le verbe au subjonctif (« apprenne »)."
@@ -8149,10 +8149,10 @@
         {
           "prompt": "Dans quelle phrase le verbe subordonné doit-il obligatoirement être à l'indicatif ?",
           "options": [
-            "Je suis triste qu'il... (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "Je doute qu'il... (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "Je sais qu'il... (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "J'ai peur qu'il... (Distinguish indicative certainty from subjunctive doubt (U14))"
+            "Je suis triste qu'il... (Distinguish indicative certainty from subjunctive doubt)",
+            "Je doute qu'il... (Distinguish indicative certainty from subjunctive doubt)",
+            "Je sais qu'il... (Distinguish indicative certainty from subjunctive doubt)",
+            "J'ai peur qu'il... (Distinguish indicative certainty from subjunctive doubt)"
           ],
           "answerIndex": 2,
           "explanation": "« Je sais que... » exprime un fait certain et avéré, commandant donc l'indicatif (« Je sais qu'il est là »)."
@@ -8164,10 +8164,10 @@
         {
           "prompt": "Complétez avec le mode adéquat : « Je ne pense pas que ce projet _________ (aboutir) sans financement supplémentaire. »",
           "options": [
-            "aboutisse (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "aboutit (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "aboutira (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "aboutissait (Distinguish indicative certainty from subjunctive doubt (U14))"
+            "aboutisse (Distinguish indicative certainty from subjunctive doubt)",
+            "aboutit (Distinguish indicative certainty from subjunctive doubt)",
+            "aboutira (Distinguish indicative certainty from subjunctive doubt)",
+            "aboutissait (Distinguish indicative certainty from subjunctive doubt)"
           ],
           "answerIndex": 0,
           "explanation": "La forme négative « Je ne pense pas que » introduit un doute et requiert le subjonctif présent : « aboutisse »."
@@ -8180,10 +8180,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui oppose correctement l'indicatif de certitude au subjonctif d'émotion :",
           "options": [
-            "Il est sûr qu'il vienne, et je suis ravi qu'il est là. (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "Il est sûr qu'il vient, et je suis ravi qu'il soit là. (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "Il est sûr qu'il soit venu, et je suis ravi qu'il aille bien. (Distinguish indicative certainty from subjunctive doubt (U14))",
-            "Il est sûr qu'il viendrait, et je suis ravi qu'il était là. (Distinguish indicative certainty from subjunctive doubt (U14))"
+            "Il est sûr qu'il vienne, et je suis ravi qu'il est là. (Distinguish indicative certainty from subjunctive doubt)",
+            "Il est sûr qu'il vient, et je suis ravi qu'il soit là. (Distinguish indicative certainty from subjunctive doubt)",
+            "Il est sûr qu'il soit venu, et je suis ravi qu'il aille bien. (Distinguish indicative certainty from subjunctive doubt)",
+            "Il est sûr qu'il viendrait, et je suis ravi qu'il était là. (Distinguish indicative certainty from subjunctive doubt)"
           ],
           "answerIndex": 1,
           "explanation": "« Il est sûr qu'il vient » (certitude -> indicatif) s'oppose rigoureusement à « je suis ravi qu'il soit là » (émotion -> subjonctif)."
@@ -8258,10 +8258,10 @@
         {
           "prompt": "Reliez les deux phrases avec QUI : « J'ai rencontré un étudiant. Cet étudiant apprend l'arabe. »",
           "options": [
-            "J'ai rencontré un étudiant qui apprend l'arabe. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "J'ai rencontré un étudiant qu'apprend l'arabe. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "J'ai rencontré un étudiant que apprend l'arabe. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "J'ai rencontré un étudiant dont apprend l'arabe. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))"
+            "J'ai rencontré un étudiant qui apprend l'arabe. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "J'ai rencontré un étudiant qu'apprend l'arabe. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "J'ai rencontré un étudiant que apprend l'arabe. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "J'ai rencontré un étudiant dont apprend l'arabe. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)"
           ],
           "answerIndex": 0,
           "explanation": "QUI est le sujet du verbe 'apprend' et ne s'élide jamais devant une voyelle."
@@ -8273,10 +8273,10 @@
         {
           "prompt": "Accordez correctement le verbe avec le pronom sujet QUI : « C'est vous qui _________ raison. »",
           "options": [
-            "avez (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "a (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "ont (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "avons (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))"
+            "avez (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "a (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "ont (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "avons (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe s'accorde avec l'antécédent 'vous', donc « C'est vous qui avez raison »."
@@ -8289,10 +8289,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre un emploi fautif du pronom relatif qui ?",
           "options": [
-            "L'employé qui ouvre la porte est ponctuel. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "La femme qu'arrive à la gare est ma cousine. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "C'est moi qui ai envoyé le courriel. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))",
-            "Les fleurs qui poussent ici sont sauvages. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision (U15))"
+            "L'employé qui ouvre la porte est ponctuel. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "La femme qu'arrive à la gare est ma cousine. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "C'est moi qui ai envoyé le courriel. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)",
+            "Les fleurs qui poussent ici sont sauvages. (Use the relative pronoun QUI as the grammatical subject of the subordinate clause without elision)"
           ],
           "answerIndex": 1,
           "explanation": "« qu'arrive » est une faute ; QUI ne s'élide jamais devant une voyelle (« qui arrive »)."
@@ -8367,10 +8367,10 @@
         {
           "prompt": "Choisissez la phrase qui applique correctement l'accord du participe passé avec le pronom relatif QUE :",
           "options": [
-            "Les tartes que maman a préparées sont délicieuses. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "Les tartes que maman a préparé sont délicieuses. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "Les tartes qui maman a préparé sont délicieuses. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "Les tartes qu'il a préparé sont délicieuses. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))"
+            "Les tartes que maman a préparées sont délicieuses. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "Les tartes que maman a préparé sont délicieuses. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "Les tartes qui maman a préparé sont délicieuses. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "Les tartes qu'il a préparé sont délicieuses. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)"
           ],
           "answerIndex": 0,
           "explanation": "« tartes » est féminin pluriel et précède l'auxiliaire avoir via 'que' ; le participe passé prend donc '-es' : « préparées »."
@@ -8382,10 +8382,10 @@
         {
           "prompt": "Complétez avec le pronom adéquat : « Le rapport _________ l'ingénieur a rédigé est très complet. »",
           "options": [
-            "que (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "qui (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "dont (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "où (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))"
+            "que (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "qui (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "dont (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "où (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)"
           ],
           "answerIndex": 0,
           "explanation": "'L'ingénieur' est le sujet et le rapport est l'objet direct du verbe rédiger ; on emploie « que »."
@@ -8398,10 +8398,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase comporte une faute d'accord avec le pronom relatif que ?",
           "options": [
-            "La maison que mes grands-parents ont construite est ancienne. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "Les lettres qu'il a envoyées sont arrivées ce matin. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "Les valises que nous avons emporté étaient trop lourdes. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))",
-            "La chanson que nous avons entendue était émouvante. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable (U15))"
+            "La maison que mes grands-parents ont construite est ancienne. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "Les lettres qu'il a envoyées sont arrivées ce matin. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "Les valises que nous avons emporté étaient trop lourdes. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)",
+            "La chanson que nous avons entendue était émouvante. (Use the relative pronoun QUE qu as the direct object and execute past participle agreement when applicable)"
           ],
           "answerIndex": 2,
           "explanation": "« valises » étant féminin pluriel, le participe passé 'emporté' devait s'accorder avec '-es' (« emportées »)."
@@ -8476,10 +8476,10 @@
         {
           "prompt": "Quelle phrase traduit correctement « I remember the year when we moved to Lyon » ?",
           "options": [
-            "Je me rappelle l'année où nous avons déménagé à Lyon. (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "Je me rappelle l'année quand nous avons déménagé à Lyon. (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "Je me rappelle l'année que nous avons déménagé à Lyon. (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "Je me rappelle l'année dont nous avons déménagé à Lyon. (Use the relative pronoun O to express spatial locations and precise points in time (U15))"
+            "Je me rappelle l'année où nous avons déménagé à Lyon. (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "Je me rappelle l'année quand nous avons déménagé à Lyon. (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "Je me rappelle l'année que nous avons déménagé à Lyon. (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "Je me rappelle l'année dont nous avons déménagé à Lyon. (Use the relative pronoun O to express spatial locations and precise points in time)"
           ],
           "answerIndex": 0,
           "explanation": "Pour un antécédent temporel ('l'année'), le pronom relatif obligatoire en français est « où » (et jamais 'quand')."
@@ -8491,10 +8491,10 @@
         {
           "prompt": "Complétez avec le pronom relatif convenable : « C'est l'hôtel _________ nous avons séjourné l'été dernier. »",
           "options": [
-            "où (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "qui (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "que (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "dont (Use the relative pronoun O to express spatial locations and precise points in time (U15))"
+            "où (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "qui (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "que (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "dont (Use the relative pronoun O to express spatial locations and precise points in time)"
           ],
           "answerIndex": 0,
           "explanation": "L'antécédent 'l'hôtel' est un lieu où se déroule l'action ; on emploie le pronom relatif « où »."
@@ -8507,10 +8507,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez l'anglicisme incorrect parmi les propositions suivantes :",
           "options": [
-            "Le moment où il a parlé était solennel. (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "Le jour quand il est parti était pluvieux. (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "La maison où j'ai grandi a été vendue. (Use the relative pronoun O to express spatial locations and precise points in time (U15))",
-            "Le pays d'où proviennent ces épices est lointain. (Use the relative pronoun O to express spatial locations and precise points in time (U15))"
+            "Le moment où il a parlé était solennel. (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "Le jour quand il est parti était pluvieux. (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "La maison où j'ai grandi a été vendue. (Use the relative pronoun O to express spatial locations and precise points in time)",
+            "Le pays d'où proviennent ces épices est lointain. (Use the relative pronoun O to express spatial locations and precise points in time)"
           ],
           "answerIndex": 1,
           "explanation": "« Le jour quand » est un anglicisme incorrect ; la syntaxe française exige « Le jour où »."
@@ -8585,10 +8585,10 @@
         {
           "prompt": "Reliez les deux propositions : « C'est un collègue. J'apprécie le professionnalisme de ce collègue. »",
           "options": [
-            "C'est un collègue dont j'apprécie le professionnalisme. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "C'est un collègue que j'apprécie son professionnalisme. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "C'est un collègue qui j'apprécie le professionnalisme. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "C'est un collègue où j'apprécie le professionnalisme. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))"
+            "C'est un collègue dont j'apprécie le professionnalisme. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "C'est un collègue que j'apprécie son professionnalisme. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "C'est un collègue qui j'apprécie le professionnalisme. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "C'est un collègue où j'apprécie le professionnalisme. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)"
           ],
           "answerIndex": 0,
           "explanation": "Le complément de possession 'de ce collègue' est remplacé par DONT, suivi de l'article défini 'le professionnalisme'."
@@ -8600,10 +8600,10 @@
         {
           "prompt": "Complétez la phrase : « Le document _________ nous avons discuté hier est confidentiel. »",
           "options": [
-            "dont (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "que (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "qui (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "où (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))"
+            "dont (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "que (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "qui (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "où (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'discuter de' se construit avec la préposition 'de' ; le pronom relatif requis est donc « dont »."
@@ -8616,10 +8616,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi utilise-t-on DONT dans la phrase : « C'est l'erreur dont j'avais le plus peur » ?",
           "options": [
-            "Parce que l'expression verbale est 'avoir peur DE'. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "Parce que l'erreur est un sujet d'action. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "Parce que l'erreur indique un lieu précis. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))",
-            "Parce que la phrase est au passé composé. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de (U15))"
+            "Parce que l'expression verbale est 'avoir peur DE'. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "Parce que l'erreur est un sujet d'action. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "Parce que l'erreur indique un lieu précis. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)",
+            "Parce que la phrase est au passé composé. (Use the relative pronoun DONT to replace prepositional complements introduced by de parler de)"
           ],
           "answerIndex": 0,
           "explanation": "La locution verbale 'avoir peur de' régit la préposition DE, ce qui impose l'emploi du pronom relatif DONT."
@@ -8694,10 +8694,10 @@
         {
           "prompt": "Complétez la mise en relief : « _________ me plaît dans cette ville, c'est son dynamisme culturel. »",
           "options": [
-            "Ce qui (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Ce que (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Ce dont (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Quoi (Deploy indefinite relative pronouns CE QUI (U15))"
+            "Ce qui (Deploy indefinite relative pronouns CE QUI)",
+            "Ce que (Deploy indefinite relative pronouns CE QUI)",
+            "Ce dont (Deploy indefinite relative pronouns CE QUI)",
+            "Quoi (Deploy indefinite relative pronouns CE QUI)"
           ],
           "answerIndex": 0,
           "explanation": "L'élément recherché est le sujet du verbe 'plaît' ; on emploie donc le pronom indéfini sujet « Ce qui »."
@@ -8709,10 +8709,10 @@
         {
           "prompt": "Traduisez « What I need is a good coffee » :",
           "options": [
-            "Ce dont j'ai besoin, c'est d'un bon café. (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Ce que j'ai besoin, c'est d'un bon café. (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Ce qui j'ai besoin, c'est d'un bon café. (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Quoi j'ai besoin, c'est d'un bon café. (Deploy indefinite relative pronouns CE QUI (U15))"
+            "Ce dont j'ai besoin, c'est d'un bon café. (Deploy indefinite relative pronouns CE QUI)",
+            "Ce que j'ai besoin, c'est d'un bon café. (Deploy indefinite relative pronouns CE QUI)",
+            "Ce qui j'ai besoin, c'est d'un bon café. (Deploy indefinite relative pronouns CE QUI)",
+            "Quoi j'ai besoin, c'est d'un bon café. (Deploy indefinite relative pronouns CE QUI)"
           ],
           "answerIndex": 0,
           "explanation": "L'expression 'avoir besoin de' exige « Ce dont »."
@@ -8725,10 +8725,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase où 'ce que' et 'ce dont' sont employés à bon escient :",
           "options": [
-            "Je sais ce dont tu as écrit et ce que tu parles. (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Je sais ce que tu as écrit et ce dont tu parles. (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Je sais ce qui tu as écrit et ce que tu parles. (Deploy indefinite relative pronouns CE QUI (U15))",
-            "Je sais ce que tu as écrit et ce qui tu parles. (Deploy indefinite relative pronouns CE QUI (U15))"
+            "Je sais ce dont tu as écrit et ce que tu parles. (Deploy indefinite relative pronouns CE QUI)",
+            "Je sais ce que tu as écrit et ce dont tu parles. (Deploy indefinite relative pronouns CE QUI)",
+            "Je sais ce qui tu as écrit et ce que tu parles. (Deploy indefinite relative pronouns CE QUI)",
+            "Je sais ce que tu as écrit et ce qui tu parles. (Deploy indefinite relative pronouns CE QUI)"
           ],
           "answerIndex": 1,
           "explanation": "« écrire » prend un COD direct ('ce que tu as écrit'), tandis que « parler » prend la préposition de ('ce dont tu parles')."
@@ -8802,10 +8802,10 @@
         {
           "prompt": "Complétez la comparaison d'égalité avec l'adjectif : « La cuisine italienne est _________ réputée _________ la cuisine française. »",
           "options": [
-            "aussi / que (Form comparative structures with adjectives and adverbs plus (U16))",
-            "autant / que (Form comparative structures with adjectives and adverbs plus (U16))",
-            "plus / de (Form comparative structures with adjectives and adverbs plus (U16))",
-            "autant de / que (Form comparative structures with adjectives and adverbs plus (U16))"
+            "aussi / que (Form comparative structures with adjectives and adverbs plus)",
+            "autant / que (Form comparative structures with adjectives and adverbs plus)",
+            "plus / de (Form comparative structures with adjectives and adverbs plus)",
+            "autant de / que (Form comparative structures with adjectives and adverbs plus)"
           ],
           "answerIndex": 0,
           "explanation": "Avec un adjectif qualificatif ('réputée'), la comparaison d'égalité se forme avec « aussi... que »."
@@ -8817,10 +8817,10 @@
         {
           "prompt": "Identifiez la phrase comparative correctement formée en français :",
           "options": [
-            "Mon frère est plus grand que moi. (Form comparative structures with adjectives and adverbs plus (U16))",
-            "Mon frère est plus grand que je. (Form comparative structures with adjectives and adverbs plus (U16))",
-            "Mon frère est plus grand de moi. (Form comparative structures with adjectives and adverbs plus (U16))",
-            "Mon frère est aussi grand de moi. (Form comparative structures with adjectives and adverbs plus (U16))"
+            "Mon frère est plus grand que moi. (Form comparative structures with adjectives and adverbs plus)",
+            "Mon frère est plus grand que je. (Form comparative structures with adjectives and adverbs plus)",
+            "Mon frère est plus grand de moi. (Form comparative structures with adjectives and adverbs plus)",
+            "Mon frère est aussi grand de moi. (Form comparative structures with adjectives and adverbs plus)"
           ],
           "answerIndex": 0,
           "explanation": "Après 'que' dans une structure comparative, on emploie obligatoirement le pronom tonique (« moi »)."
@@ -8833,10 +8833,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui traduit fidèlement : « She works less efficiently than him » :",
           "options": [
-            "Elle travaille moins efficacement que lui. (Form comparative structures with adjectives and adverbs plus (U16))",
-            "Elle travaille aussi efficacement que il. (Form comparative structures with adjectives and adverbs plus (U16))",
-            "Elle travaille plus efficacement de lui. (Form comparative structures with adjectives and adverbs plus (U16))",
-            "Elle travaille moins efficace que lui. (Form comparative structures with adjectives and adverbs plus (U16))"
+            "Elle travaille moins efficacement que lui. (Form comparative structures with adjectives and adverbs plus)",
+            "Elle travaille aussi efficacement que il. (Form comparative structures with adjectives and adverbs plus)",
+            "Elle travaille plus efficacement de lui. (Form comparative structures with adjectives and adverbs plus)",
+            "Elle travaille moins efficace que lui. (Form comparative structures with adjectives and adverbs plus)"
           ],
           "answerIndex": 0,
           "explanation": "« moins efficacement que lui » associe l'adverbe, la comparaison d'infériorité et le pronom tonique 'lui'."
@@ -8911,10 +8911,10 @@
         {
           "prompt": "Quelle phrase exprime correctement une égalité de quantité de noms ?",
           "options": [
-            "Elle a autant de patience que son père. (Form comparative structures with nouns plus de (U16))",
-            "Elle a aussi de patience que son père. (Form comparative structures with nouns plus de (U16))",
-            "Elle a autant patience que son père. (Form comparative structures with nouns plus de (U16))",
-            "Elle a aussi patience que son père. (Form comparative structures with nouns plus de (U16))"
+            "Elle a autant de patience que son père. (Form comparative structures with nouns plus de)",
+            "Elle a aussi de patience que son père. (Form comparative structures with nouns plus de)",
+            "Elle a autant patience que son père. (Form comparative structures with nouns plus de)",
+            "Elle a aussi patience que son père. (Form comparative structures with nouns plus de)"
           ],
           "answerIndex": 0,
           "explanation": "Pour un nom ('patience'), la comparaison d'égalité exige « autant de... que »."
@@ -8926,10 +8926,10 @@
         {
           "prompt": "Complétez la comparaison d'action : « En hiver, les enfants jouent dehors _________ qu'en été. »",
           "options": [
-            "moins (Form comparative structures with nouns plus de (U16))",
-            "moins de (Form comparative structures with nouns plus de (U16))",
-            "aussi (Form comparative structures with nouns plus de (U16))",
-            "autant de (Form comparative structures with nouns plus de (U16))"
+            "moins (Form comparative structures with nouns plus de)",
+            "moins de (Form comparative structures with nouns plus de)",
+            "aussi (Form comparative structures with nouns plus de)",
+            "autant de (Form comparative structures with nouns plus de)"
           ],
           "answerIndex": 0,
           "explanation": "Pour comparer un verbe ('jouent'), on emploie directement « moins que » sans la préposition 'de'."
@@ -8942,10 +8942,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez l'option correcte pour compléter : « Pierre gagne _________ argent que Marc, mais il dépense _________ que lui. »",
           "options": [
-            "autant d' / plus (Form comparative structures with nouns plus de (U16))",
-            "aussi d' / plus de (Form comparative structures with nouns plus de (U16))",
-            "autant / plus de (Form comparative structures with nouns plus de (U16))",
-            "aussi / autant de (Form comparative structures with nouns plus de (U16))"
+            "autant d' / plus (Form comparative structures with nouns plus de)",
+            "aussi d' / plus de (Form comparative structures with nouns plus de)",
+            "autant / plus de (Form comparative structures with nouns plus de)",
+            "aussi / autant de (Form comparative structures with nouns plus de)"
           ],
           "answerIndex": 0,
           "explanation": "Devant le nom 'argent' on met « autant d' », et après le verbe 'dépense' on met « plus »."
@@ -9020,10 +9020,10 @@
         {
           "prompt": "Complétez la phrase : « Cette tarte aux pommes est _________ que celle du supermarché. »",
           "options": [
-            "meilleure (Master irregular comparatives (U16))",
-            "mieux (Master irregular comparatives (U16))",
-            "plus bonne (Master irregular comparatives (U16))",
-            "plus bien (Master irregular comparatives (U16))"
+            "meilleure (Master irregular comparatives)",
+            "mieux (Master irregular comparatives)",
+            "plus bonne (Master irregular comparatives)",
+            "plus bien (Master irregular comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "On qualifie le nom féminin 'tarte' ; le comparatif régulier de 'bonne' est l'adjectif « meilleure »."
@@ -9035,10 +9035,10 @@
         {
           "prompt": "Complétez : « Depuis qu'il porte des lunettes, Antoine voit beaucoup _________. »",
           "options": [
-            "mieux (Master irregular comparatives (U16))",
-            "meilleur (Master irregular comparatives (U16))",
-            "plus bon (Master irregular comparatives (U16))",
-            "plus bien (Master irregular comparatives (U16))"
+            "mieux (Master irregular comparatives)",
+            "meilleur (Master irregular comparatives)",
+            "plus bon (Master irregular comparatives)",
+            "plus bien (Master irregular comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "On modifie le verbe 'voit' ; le comparatif de l'adverbe 'bien' est l'adverbe invariable « mieux »."
@@ -9051,10 +9051,10 @@
           "type": "multiple-choice",
           "prompt": "Dans quelle phrase l'emploi de meilleur/mieux est-il rigoureusement correct ?",
           "options": [
-            "Ce gâteau est plus bien que l'autre. (Master irregular comparatives (U16))",
-            "Elle cuisine meilleur que son frère. (Master irregular comparatives (U16))",
-            "Ce gâteau est meilleur et elle cuisine mieux. (Master irregular comparatives (U16))",
-            "Ce gâteau est mieux et elle cuisine meilleur. (Master irregular comparatives (U16))"
+            "Ce gâteau est plus bien que l'autre. (Master irregular comparatives)",
+            "Elle cuisine meilleur que son frère. (Master irregular comparatives)",
+            "Ce gâteau est meilleur et elle cuisine mieux. (Master irregular comparatives)",
+            "Ce gâteau est mieux et elle cuisine meilleur. (Master irregular comparatives)"
           ],
           "answerIndex": 2,
           "explanation": "« gâteau est meilleur » (adjectif qualifiant le nom) et « elle cuisine mieux » (adverbe modifiant le verbe cuisiner)."
@@ -9129,10 +9129,10 @@
         {
           "prompt": "Traduisez fidèlement : « She is the most intelligent student in the school » :",
           "options": [
-            "C'est l'étudiante la plus intelligente de l'école. (Construct superlative statements le plus (U16))",
-            "C'est l'étudiante la plus intelligente dans l'école. (Construct superlative statements le plus (U16))",
-            "C'est l'étudiante plus intelligente de l'école. (Construct superlative statements le plus (U16))",
-            "C'est l'étudiante la plus intelligente à l'école. (Construct superlative statements le plus (U16))"
+            "C'est l'étudiante la plus intelligente de l'école. (Construct superlative statements le plus)",
+            "C'est l'étudiante la plus intelligente dans l'école. (Construct superlative statements le plus)",
+            "C'est l'étudiante plus intelligente de l'école. (Construct superlative statements le plus)",
+            "C'est l'étudiante la plus intelligente à l'école. (Construct superlative statements le plus)"
           ],
           "answerIndex": 0,
           "explanation": "Le superlatif répète l'article (« l'étudiante la plus intelligente ») et introduit le domaine avec « de l'école »."
@@ -9144,10 +9144,10 @@
         {
           "prompt": "Complétez le superlatif irrégulier : « C'est la _________ décision que nous ayons prise. » (superlatif de supériorité de 'bonne')",
           "options": [
-            "meilleure (Construct superlative statements le plus (U16))",
-            "plus bonne (Construct superlative statements le plus (U16))",
-            "mieux (Construct superlative statements le plus (U16))",
-            "plus meilleure (Construct superlative statements le plus (U16))"
+            "meilleure (Construct superlative statements le plus)",
+            "plus bonne (Construct superlative statements le plus)",
+            "mieux (Construct superlative statements le plus)",
+            "plus meilleure (Construct superlative statements le plus)"
           ],
           "answerIndex": 0,
           "explanation": "Le superlatif féminin de 'bon' est « la meilleure »."
@@ -9160,10 +9160,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase contient une erreur de construction superlative ?",
           "options": [
-            "C'est le plus beau monument de la capitale. (Construct superlative statements le plus (U16))",
-            "Voici les voitures les plus rapides dans le monde. (Construct superlative statements le plus (U16))",
-            "C'est la méthode la moins complexe. (Construct superlative statements le plus (U16))",
-            "Il s'agit du pire scénario possible. (Construct superlative statements le plus (U16))"
+            "C'est le plus beau monument de la capitale. (Construct superlative statements le plus)",
+            "Voici les voitures les plus rapides dans le monde. (Construct superlative statements le plus)",
+            "C'est la méthode la moins complexe. (Construct superlative statements le plus)",
+            "Il s'agit du pire scénario possible. (Construct superlative statements le plus)"
           ],
           "answerIndex": 1,
           "explanation": "On doit dire « du monde » et non « dans le monde » après un superlatif."
@@ -9237,10 +9237,10 @@
         {
           "prompt": "Comment traduire « The more you practice, the better you speak » ?",
           "options": [
-            "Plus tu pratiques, mieux tu parles. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "Le plus tu pratiques, le plus tu parles. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "Plus tu pratiques, meilleur tu parles. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "Plus que tu pratiques, plus que tu parles. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))"
+            "Plus tu pratiques, mieux tu parles. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "Le plus tu pratiques, le plus tu parles. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "Plus tu pratiques, meilleur tu parles. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "Plus que tu pratiques, plus que tu parles. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)"
           ],
           "answerIndex": 0,
           "explanation": "La structure proportionnelle s'énonce directement « Plus... mieux... » sans article initial."
@@ -9252,10 +9252,10 @@
         {
           "prompt": "Complétez l'évaluation critique : « Ce modèle est de loin _________ performant de sa catégorie. »",
           "options": [
-            "le plus (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "plus (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "le meilleur (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "beaucoup (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))"
+            "le plus (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "plus (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "le meilleur (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "beaucoup (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)"
           ],
           "answerIndex": 0,
           "explanation": "Avec l'expression 'de loin', on utilise le superlatif « le plus performant »."
@@ -9268,10 +9268,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase formule une critique comparative équilibrée et idiomatique ?",
           "options": [
-            "Cet hôtel est plus bon mais il coûte plus. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "Cet hôtel est meilleur mais il coûte plus cher. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "Cet hôtel est plus bien mais il est moins cher. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))",
-            "Cet hôtel est le mieux hôtel de la ville. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons (U16))"
+            "Cet hôtel est plus bon mais il coûte plus. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "Cet hôtel est meilleur mais il coûte plus cher. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "Cet hôtel est plus bien mais il est moins cher. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)",
+            "Cet hôtel est le mieux hôtel de la ville. (Synthesize comparative and superlative structures in critical consumer reviews and analytical comparisons)"
           ],
           "answerIndex": 1,
           "explanation": "« est meilleur » (adjectif) et « coûte plus cher » (adverbe de coût) constituent la tournure irréprochable."
@@ -9347,10 +9347,10 @@
         {
           "prompt": "Conjuguez au plus-que-parfait : « Quand nous sommes arrivés, le train _________ (déjà / partir). »",
           "options": [
-            "était déjà parti (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "avait déjà parti (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "a déjà parti (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "serait déjà parti (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))"
+            "était déjà parti (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "avait déjà parti (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "a déjà parti (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "serait déjà parti (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'partir' se conjugue avec l'auxiliaire être à l'imparfait : « était déjà parti »."
@@ -9362,10 +9362,10 @@
         {
           "prompt": "Complétez : « Elle m'a rendu le roman que je lui _________ (prêter) la semaine précédente. »",
           "options": [
-            "avais prêté (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "avais prêter (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "étais prêté (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "ai prêté (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))"
+            "avais prêté (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "avais prêter (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "étais prêté (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "ai prêté (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)"
           ],
           "answerIndex": 0,
           "explanation": "L'action de prêter est antérieure au rendu ; on utilise 'avoir' à l'imparfait + participe passé : « avais prêté »."
@@ -9378,10 +9378,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre un emploi correct du plus-que-parfait pour exprimer l'antériorité ?",
           "options": [
-            "J'ai mangé parce que j'avais faim. (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "J'ai retrouvé les clés que j'avais perdues. (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "Quand il est venu, nous partions. (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))",
-            "Elle lisait le livre qu'elle achetait hier. (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority (U17))"
+            "J'ai mangé parce que j'avais faim. (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "J'ai retrouvé les clés que j'avais perdues. (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "Quand il est venu, nous partions. (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)",
+            "Elle lisait le livre qu'elle achetait hier. (Form le plusqueparfait using imperfect auxiliaries avaistais and the past participle to express past anteriority)"
           ],
           "answerIndex": 1,
           "explanation": "« avais perdues » (plus-que-parfait avec accord COD) marque l'antériorité par rapport à l'action de retrouver (« ai retrouvé »)."
@@ -9455,10 +9455,10 @@
         {
           "prompt": "Quelle proposition introduit une cause antérieure au plus-que-parfait ?",
           "options": [
-            "parce qu'il avait trop mangé (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "pour qu'il mange (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "afin qu'il ait mangé (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "quoiqu'il mangeait (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))"
+            "parce qu'il avait trop mangé (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "pour qu'il mange (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "afin qu'il ait mangé (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "quoiqu'il mangeait (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)"
           ],
           "answerIndex": 0,
           "explanation": "« parce qu'il avait trop mangé » établit la cause antérieure au plus-que-parfait expliquant l'état passé."
@@ -9470,10 +9470,10 @@
         {
           "prompt": "Complétez la phrase temporelle : « Dès que nous _________ (recevoir) votre message, nous sommes immédiatement partis. »",
           "options": [
-            "avions reçu (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "avons reçu (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "recevions (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "aurions reçu (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))"
+            "avions reçu (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "avons reçu (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "recevions (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "aurions reçu (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)"
           ],
           "answerIndex": 0,
           "explanation": "L'antériorité immédiate par rapport au passé composé 'sommes partis' demande le plus-que-parfait « avions reçu »."
@@ -9486,10 +9486,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la phrase articulant rigoureusement une cause antérieure et une conséquence au passé :",
           "options": [
-            "Comme il avait neigé toute la nuit, les routes étaient complètement bloquées. (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "Comme il neigeait toute la nuit, les routes sont bloquées. (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "Comme il a neigé toute la nuit, les routes avaient bloqué. (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))",
-            "Comme il avait neigé, les routes bloquent. (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points (U17))"
+            "Comme il avait neigé toute la nuit, les routes étaient complètement bloquées. (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "Comme il neigeait toute la nuit, les routes sont bloquées. (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "Comme il a neigé toute la nuit, les routes avaient bloqué. (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)",
+            "Comme il avait neigé, les routes bloquent. (Sequence complex narrative events establishing clear causeandeffect relationships prior to past reference points)"
           ],
           "answerIndex": 0,
           "explanation": "« avait neigé » (cause antérieure au plus-que-parfait) explique parfaitement « étaient bloquées » (état résultant à l'imparfait)."
@@ -9563,10 +9563,10 @@
         {
           "prompt": "Transposez au discours indirect au passé : « Il a déclaré : 'J'ai signé le contrat hier.' »",
           "options": [
-            "Il a déclaré qu'il avait signé le contrat la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "Il a déclaré qu'il a signé le contrat hier. (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "Il a déclaré qu'il signait le contrat la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "Il a déclaré qu'il signerait le contrat hier. (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))"
+            "Il a déclaré qu'il avait signé le contrat la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "Il a déclaré qu'il a signé le contrat hier. (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "Il a déclaré qu'il signait le contrat la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "Il a déclaré qu'il signerait le contrat hier. (Manage temporal concordance across multitiered past narrative structures in journalism and literature)"
           ],
           "answerIndex": 0,
           "explanation": "Au discours indirect après un verbe introducteur au passé, le passé composé devient plus-que-parfait ('avait signé') et 'hier' devient 'la veille'."
@@ -9578,10 +9578,10 @@
         {
           "prompt": "Dans un récit au passé, quelle forme remplace le futur simple au discours indirect ?",
           "options": [
-            "Le conditionnel présent (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "Le plus-que-parfait (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "L'imparfait (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "Le subjonctif (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))"
+            "Le conditionnel présent (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "Le plus-que-parfait (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "L'imparfait (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "Le subjonctif (Manage temporal concordance across multitiered past narrative structures in journalism and literature)"
           ],
           "answerIndex": 0,
           "explanation": "Le futur simple devient le conditionnel présent (le 'futur du passé') au discours indirect au passé."
@@ -9594,10 +9594,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui respecte la concordance des temps dans le récit journalistique :",
           "options": [
-            "Le ministre a annoncé qu'il a démissionné la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "Le ministre a annoncé qu'il avait démissionné la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "Le ministre annonçait qu'il démissionne la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))",
-            "Le ministre a annoncé qu'il démissionnera la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature (U17))"
+            "Le ministre a annoncé qu'il a démissionné la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "Le ministre a annoncé qu'il avait démissionné la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "Le ministre annonçait qu'il démissionne la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature)",
+            "Le ministre a annoncé qu'il démissionnera la veille. (Manage temporal concordance across multitiered past narrative structures in journalism and literature)"
           ],
           "answerIndex": 1,
           "explanation": "« a annoncé » (passé) régit le plus-que-parfait « avait démissionné » pour une action accomplie la veille."
@@ -9672,10 +9672,10 @@
         {
           "prompt": "Quelle phrase formule un regret rétrospectif correct sans faute grammaticale ?",
           "options": [
-            "Si seulement j'avais écouté tes conseils ! (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "Si seulement j'aurais écouté tes conseils ! (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "Si seulement j'ai écouté tes conseils ! (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "Si seulement je serais à l'écoute ! (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))"
+            "Si seulement j'avais écouté tes conseils ! (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "Si seulement j'aurais écouté tes conseils ! (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "Si seulement j'ai écouté tes conseils ! (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "Si seulement je serais à l'écoute ! (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)"
           ],
           "answerIndex": 0,
           "explanation": "Après 'si', on ne met jamais de conditionnel ; le regret rétrospectif se construit avec le plus-que-parfait : « Si seulement j'avais écouté »."
@@ -9687,10 +9687,10 @@
         {
           "prompt": "Complétez l'hypothèse passée : « Si nous avions pris le train, nous _________ (arriver) à l'heure. »",
           "options": [
-            "serions arrivés (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "aurions arrivé (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "étions arrivés (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "avions arrivé (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))"
+            "serions arrivés (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "aurions arrivé (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "étions arrivés (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "avions arrivé (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)"
           ],
           "answerIndex": 0,
           "explanation": "Dans le système hypothétique passé (Si + PQP), l'apodose est au conditionnel passé : « nous serions arrivés »."
@@ -9703,10 +9703,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la faute majeure dans : « Si j'aurais su la vérité, je ne serais pas venu. »",
           "options": [
-            "L'emploi du conditionnel passé après 'si' au lieu du plus-que-parfait. (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "L'accord du participe passé venu. (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "La négation 'ne... pas'. (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))",
-            "L'emploi de l'auxiliaire être avec venir. (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait (U17))"
+            "L'emploi du conditionnel passé après 'si' au lieu du plus-que-parfait. (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "L'accord du participe passé venu. (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "La négation 'ne... pas'. (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)",
+            "L'emploi de l'auxiliaire être avec venir. (Express unfulfilled past desires and hindsight regret using si seulement  plusqueparfait)"
           ],
           "answerIndex": 0,
           "explanation": "La proposition conditionnelle introduite par 'si' rejette formellement le conditionnel ; il faut dire « Si j'avais su »."
@@ -9780,10 +9780,10 @@
         {
           "prompt": "Dans un récit au passé, quel marqueur temporel remplace l'expression « hier soir » ?",
           "options": [
-            "la veille au soir (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "le jour d'hier (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "trois jours après (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "le lendemain soir (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))"
+            "la veille au soir (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "le jour d'hier (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "trois jours après (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "le lendemain soir (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)"
           ],
           "answerIndex": 0,
           "explanation": "Dans un récit au passé, 'hier soir' devient « la veille au soir »."
@@ -9795,10 +9795,10 @@
         {
           "prompt": "Identifiez le repère temporel correct pour indiquer un événement qui s'est produit deux jours avant :",
           "options": [
-            "deux jours plus tôt (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "dans deux jours (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "il y a deux jours (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "le surlendemain (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))"
+            "deux jours plus tôt (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "dans deux jours (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "il y a deux jours (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "le surlendemain (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)"
           ],
           "answerIndex": 0,
           "explanation": "Dans une analepse au passé, on utilise « deux jours plus tôt » ou « deux jours auparavant »."
@@ -9811,10 +9811,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez l'extrait narratif employant parfaitement les temps et repères de l'analepse :",
           "options": [
-            "Hier il arrive, parce qu'il mangeait demain. (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "Ce jour-là, elle comprit tout : deux semaines plus tôt, son frère lui avait menti. (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "Ce jour-là, elle a compris tout : dans deux semaines, son frère lui ment. (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))",
-            "Aujourd'hui, elle comprit que deux semaines plus tard il avait menti. (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing (U17))"
+            "Hier il arrive, parce qu'il mangeait demain. (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "Ce jour-là, elle comprit tout : deux semaines plus tôt, son frère lui avait menti. (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "Ce jour-là, elle a compris tout : dans deux semaines, son frère lui ment. (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)",
+            "Aujourd'hui, elle comprit que deux semaines plus tard il avait menti. (Deploy flashback lanalepse techniques in extended multiparagraph creative narrative writing)"
           ],
           "answerIndex": 1,
           "explanation": "« Ce jour-là » (repère passé), « comprit » (passé), « deux semaines plus tôt » (analepse) et « avait menti » (plus-que-parfait) forment un ensemble narratif parfait."
@@ -9891,10 +9891,10 @@
         {
           "prompt": "Complétez l'hypothèse réelle : « S'il pleut demain, nous _________ (rester) à la maison. »",
           "options": [
-            "resterons (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "resterions (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "restions (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "restâmes (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))"
+            "resterons (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "resterions (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "restions (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "restâmes (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)"
           ],
           "answerIndex": 0,
           "explanation": "Après 'si + présent' pour une condition future, le verbe principal se conjugue au futur simple : « resterons »."
@@ -9906,10 +9906,10 @@
         {
           "prompt": "Identifiez la phrase correctement orthographiée avec l'élision de 'si' :",
           "options": [
-            "S'il vient et si elle vient aussi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "S'il vient et s'elle vient aussi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "Si il vient et s'elle vient aussi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "Si il vient et si elle vient aussi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))"
+            "S'il vient et si elle vient aussi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "S'il vient et s'elle vient aussi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "Si il vient et s'elle vient aussi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "Si il vient et si elle vient aussi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)"
           ],
           "answerIndex": 0,
           "explanation": "'Si' s'élide uniquement devant 'il/ils' (« s'il ») et ne s'élide jamais devant 'elle' (« si elle »)."
@@ -9922,10 +9922,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase comporte une erreur de mode ou de temps après 'si' ?",
           "options": [
-            "Si tu viens à Paris, préviens-moi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "Si nous aurons le temps, nous visiterons le musée. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "Si vous voulez, nous pouvons partir maintenant. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))",
-            "S'il fait chaud, je boirai de l'eau. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif (U18))"
+            "Si tu viens à Paris, préviens-moi. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "Si nous aurons le temps, nous visiterons le musée. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "Si vous voulez, nous pouvons partir maintenant. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)",
+            "S'il fait chaud, je boirai de l'eau. (Construct real first conditional hypotheses with si  prsent  futur simple  prsent  impratif)"
           ],
           "answerIndex": 1,
           "explanation": "On ne met jamais le futur après 'si' de condition ; il faut dire « Si nous avons le temps »."
@@ -9999,10 +9999,10 @@
         {
           "prompt": "Complétez l'hypothèse imaginaire du présent : « Si nous _________ (avoir) des ailes, nous volerions comme des oiseaux. »",
           "options": [
-            "avions (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "aurions (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "avons (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "eûmes (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))"
+            "avions (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "aurions (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "avons (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "eûmes (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)"
           ],
           "answerIndex": 0,
           "explanation": "La subordonnée introduite par 'si' prend l'imparfait (« avions ») lorsque la principale est au conditionnel présent (« volerions »)."
@@ -10014,10 +10014,10 @@
         {
           "prompt": "Traduisez : « If I were rich, I would travel around the world » :",
           "options": [
-            "Si j'étais riche, je voyagerais autour du monde. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "Si je serais riche, je voyagerais autour du monde. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "Si j'étais riche, je voyagerai autour du monde. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "Si je suis riche, je voyagerais autour du monde. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))"
+            "Si j'étais riche, je voyagerais autour du monde. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "Si je serais riche, je voyagerais autour du monde. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "Si j'étais riche, je voyagerai autour du monde. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "Si je suis riche, je voyagerais autour du monde. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)"
           ],
           "answerIndex": 0,
           "explanation": "La construction irréprochable est « Si + imparfait (étais) -> conditionnel présent (voyagerais) »."
@@ -10030,10 +10030,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la faute dans : « Si tu voudrais, nous pourrions aller au cinéma. »",
           "options": [
-            "L'emploi du conditionnel 'voudrais' après 'si' au lieu de l'imparfait 'voulais'. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "L'emploi du conditionnel 'pourrions'. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "L'accord avec 'nous'. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))",
-            "La préposition 'au'. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent (U18))"
+            "L'emploi du conditionnel 'voudrais' après 'si' au lieu de l'imparfait 'voulais'. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "L'emploi du conditionnel 'pourrions'. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "L'accord avec 'nous'. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)",
+            "La préposition 'au'. (Construct unreal present second conditional hypotheses with si  imparfait  conditionnel prsent)"
           ],
           "answerIndex": 0,
           "explanation": "Après 'si', on emploie l'imparfait (« Si tu voulais ») et jamais le conditionnel."
@@ -10107,10 +10107,10 @@
         {
           "prompt": "Complétez l'irréel du passé : « Si tu m'avais invité, je _________ (venir) avec grand plaisir. »",
           "options": [
-            "serais venu (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "aurais venu (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "étais venu (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "serai venu (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))"
+            "serais venu (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "aurais venu (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "étais venu (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "serai venu (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'venir' forme son conditionnel passé avec l'auxiliaire être : « je serais venu »."
@@ -10122,10 +10122,10 @@
         {
           "prompt": "Choisissez la proposition subordonnée correcte pour : « ... nous aurions gagné le match. »",
           "options": [
-            "Si nous avions mieux joué, (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "Si nous aurions mieux joué, (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "Si nous jouions mieux, (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "Si nous avions joués mieux, (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))"
+            "Si nous avions mieux joué, (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "Si nous aurions mieux joué, (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "Si nous jouions mieux, (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "Si nous avions joués mieux, (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)"
           ],
           "answerIndex": 0,
           "explanation": "Après 'si', on utilise le plus-que-parfait sans conditionnel : « Si nous avions mieux joué »."
@@ -10138,10 +10138,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre un système hypothétique irréel du passé sans faute ?",
           "options": [
-            "S'il aurait fait beau, nous serions sortis. (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "S'il avait fait beau, nous serions sortis. (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "S'il faisait beau, nous serions sortis hier. (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))",
-            "S'il avait fait beau, nous sommes sortis. (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret (U18))"
+            "S'il aurait fait beau, nous serions sortis. (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "S'il avait fait beau, nous serions sortis. (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "S'il faisait beau, nous serions sortis hier. (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)",
+            "S'il avait fait beau, nous sommes sortis. (Construct unreal past third conditional hypotheses with si  plusqueparfait  conditionnel pass to express regret)"
           ],
           "answerIndex": 1,
           "explanation": "« S'il avait fait beau (PQP), nous serions sortis (Cond. passé) » applique rigoureusement la règle."
@@ -10215,10 +10215,10 @@
         {
           "prompt": "Complétez la condition mixte (cause passée -> effet présent) : « Si tu avais fini tes études, tu _________ (avoir) un meilleur salaire aujourd'hui. »",
           "options": [
-            "aurais (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "aurais eu (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "avais (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "auras (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))"
+            "aurais (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "aurais eu (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "avais (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "auras (Construct mixed conditional structures connecting past causes to present ongoing consequences)"
           ],
           "answerIndex": 0,
           "explanation": "L'indicateur temporel 'aujourd'hui' signale une conséquence présente ; on emploie le conditionnel présent : « aurais »."
@@ -10230,10 +10230,10 @@
         {
           "prompt": "Quelle phrase traduit : « If we had taken that flight, we would be in Rome right now » ?",
           "options": [
-            "Si nous avions pris ce vol, nous serions à Rome en ce moment. (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "Si nous avions pris ce vol, nous aurions été à Rome en ce moment. (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "Si nous prenions ce vol, nous serions à Rome en ce moment. (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "Si nous avions pris ce vol, nous sommes à Rome en ce moment. (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))"
+            "Si nous avions pris ce vol, nous serions à Rome en ce moment. (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "Si nous avions pris ce vol, nous aurions été à Rome en ce moment. (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "Si nous prenions ce vol, nous serions à Rome en ce moment. (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "Si nous avions pris ce vol, nous sommes à Rome en ce moment. (Construct mixed conditional structures connecting past causes to present ongoing consequences)"
           ],
           "answerIndex": 0,
           "explanation": "« Si nous avions pris (PQP) ... nous serions (Cond. présent) » lie la cause passée au résultat présent."
@@ -10246,10 +10246,10 @@
           "type": "multiple-choice",
           "prompt": "Analysez la structure : « Si j'avais étudié le droit, je serais avocat aujourd'hui. »",
           "options": [
-            "C'est une conditionnelle mixte reliant une action passée non réalisée à un état présent. (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "C'est une conditionnelle 100% au passé. (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "C'est une hypothèse réelle du présent. (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))",
-            "C'est une phrase fautive car les temps ne correspondent pas. (Construct mixed conditional structures connecting past causes to present ongoing consequences (U18))"
+            "C'est une conditionnelle mixte reliant une action passée non réalisée à un état présent. (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "C'est une conditionnelle 100% au passé. (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "C'est une hypothèse réelle du présent. (Construct mixed conditional structures connecting past causes to present ongoing consequences)",
+            "C'est une phrase fautive car les temps ne correspondent pas. (Construct mixed conditional structures connecting past causes to present ongoing consequences)"
           ],
           "answerIndex": 0,
           "explanation": "L'antécédent passé (PQP 'avais étudié') produit un état présent (Cond. présent 'serais avocat aujourd'hui')."
@@ -10324,10 +10324,10 @@
         {
           "prompt": "Quel mode verbal doit obligatoirement suivre la locution « au cas où » ?",
           "options": [
-            "Le conditionnel (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "Le subjonctif (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "L'indicatif présent (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "L'impératif (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))"
+            "Le conditionnel (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "Le subjonctif (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "L'indicatif présent (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "L'impératif (Form alternative hypothetical conjunctions  condition que  subjonctif)"
           ],
           "answerIndex": 0,
           "explanation": "La conjonction « au cas où » commande obligatoirement le mode conditionnel (« au cas où il viendrait »)."
@@ -10339,10 +10339,10 @@
         {
           "prompt": "Complétez avec le mode adéquat : « Je te prête ma voiture à condition que tu _________ (faire) attention. »",
           "options": [
-            "fasses (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "fais (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "feras (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "ferais (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))"
+            "fasses (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "fais (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "feras (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "ferais (Form alternative hypothetical conjunctions  condition que  subjonctif)"
           ],
           "answerIndex": 0,
           "explanation": "« à condition que » régit obligatoirement le subjonctif présent : « fasses »."
@@ -10355,10 +10355,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui applique la syntaxe correcte avec 'au cas où' et 'à condition que' :",
           "options": [
-            "Appelle-moi au cas où tu aurais un souci, à condition que tu saches où aller. (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "Appelle-moi au cas où tu as un souci, à condition que tu sais où aller. (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "Appelle-moi au cas où tu aies un souci, à condition que tu sauras où aller. (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))",
-            "Appelle-moi au cas où tu avais un souci, à condition que tu savais où aller. (Form alternative hypothetical conjunctions  condition que  subjonctif (U18))"
+            "Appelle-moi au cas où tu aurais un souci, à condition que tu saches où aller. (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "Appelle-moi au cas où tu as un souci, à condition que tu sais où aller. (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "Appelle-moi au cas où tu aies un souci, à condition que tu sauras où aller. (Form alternative hypothetical conjunctions  condition que  subjonctif)",
+            "Appelle-moi au cas où tu avais un souci, à condition que tu savais où aller. (Form alternative hypothetical conjunctions  condition que  subjonctif)"
           ],
           "answerIndex": 0,
           "explanation": "« au cas où tu aurais » (conditionnel) et « à condition que tu saches » (subjonctif) respectent parfaitement les régimes modaux."
@@ -10433,10 +10433,10 @@
         {
           "prompt": "Transformez à la voix passive : « Le comité approuve cette décision. »",
           "options": [
-            "Cette décision est approuvée par le comité. (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "Cette décision a approuvé par le comité. (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "Cette décision sera approuver par le comité. (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "Cette décision était approuvé par le comité. (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))"
+            "Cette décision est approuvée par le comité. (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "Cette décision a approuvé par le comité. (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "Cette décision sera approuver par le comité. (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "Cette décision était approuvé par le comité. (Form the passive voice using auxiliary tre and the past participle with preposition par)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'approuve' (présent) donne 'est approuvée' au passif, avec accord au féminin singulier avec 'cette décision'."
@@ -10448,10 +10448,10 @@
         {
           "prompt": "Complétez l'accord du participe passé : « Ces lettres ont été _________ (écrire) par Victor Hugo. »",
           "options": [
-            "écrites (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "écrit (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "écrite (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "écrits (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))"
+            "écrites (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "écrit (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "écrite (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "écrits (Form the passive voice using auxiliary tre and the past participle with preposition par)"
           ],
           "answerIndex": 0,
           "explanation": "Le sujet 'Ces lettres' est féminin pluriel ; le participe passé prend la marque '-es' : « écrites »."
@@ -10464,10 +10464,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la phrase passive correctement conjuguée et accordée au futur simple :",
           "options": [
-            "Les conventions seront signées par les deux ministres. (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "Les conventions seront signé par les deux ministres. (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "Les conventions sont signées de les deux ministres. (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))",
-            "Les conventions seront signer par les deux ministres. (Form the passive voice using auxiliary tre and the past participle with preposition par (U19))"
+            "Les conventions seront signées par les deux ministres. (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "Les conventions seront signé par les deux ministres. (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "Les conventions sont signées de les deux ministres. (Form the passive voice using auxiliary tre and the past participle with preposition par)",
+            "Les conventions seront signer par les deux ministres. (Form the passive voice using auxiliary tre and the past participle with preposition par)"
           ],
           "answerIndex": 0,
           "explanation": "« seront signées » conjugue 'être' au futur simple et accorde le participe au féminin pluriel avec « les conventions »."
@@ -10541,10 +10541,10 @@
         {
           "prompt": "Quelle préposition introduit le complément d'agent après le verbe de sentiment « estimé » ?",
           "options": [
-            "de (Identify verbs of state (U19))",
-            "par (Identify verbs of state (U19))",
-            "avec (Identify verbs of state (U19))",
-            "pour (Identify verbs of state (U19))"
+            "de (Identify verbs of state)",
+            "par (Identify verbs of state)",
+            "avec (Identify verbs of state)",
+            "pour (Identify verbs of state)"
           ],
           "answerIndex": 0,
           "explanation": "Les verbes de sentiment et d'estime (aimé, respecté, estimé) prennent traditionnellement la préposition « de »."
@@ -10556,10 +10556,10 @@
         {
           "prompt": "Complétez : « La vieille maison de campagne est entourée _________ beaux cyprès centenaires. »",
           "options": [
-            "de (Identify verbs of state (U19))",
-            "par des (Identify verbs of state (U19))",
-            "avec des (Identify verbs of state (U19))",
-            "pour des (Identify verbs of state (U19))"
+            "de (Identify verbs of state)",
+            "par des (Identify verbs of state)",
+            "avec des (Identify verbs of state)",
+            "pour des (Identify verbs of state)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'être entouré' exprime un état descriptif et se construit avec « de » (« entourée de beaux cyprès »)."
@@ -10572,10 +10572,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui emploie correctement la préposition 'de' avec la voix passive :",
           "options": [
-            "La lettre a été tapée de la secrétaire. (Identify verbs of state (U19))",
-            "Cet auteur classique est lu et admiré de milliers de passionnés. (Identify verbs of state (U19))",
-            "Le voleur a été arrêté d'un gendarme. (Identify verbs of state (U19))",
-            "Le pont a été détruit de la tempête. (Identify verbs of state (U19))"
+            "La lettre a été tapée de la secrétaire. (Identify verbs of state)",
+            "Cet auteur classique est lu et admiré de milliers de passionnés. (Identify verbs of state)",
+            "Le voleur a été arrêté d'un gendarme. (Identify verbs of state)",
+            "Le pont a été détruit de la tempête. (Identify verbs of state)"
           ],
           "answerIndex": 1,
           "explanation": "« admiré de » est un verbe de sentiment/état qui régit la préposition 'de', alors que les actions dynamiques (tapée, arrêté, détruit) prennent 'par'."
@@ -10650,10 +10650,10 @@
         {
           "prompt": "Comment traduit-on au passif pronominal « This book is read easily » ?",
           "options": [
-            "Ce livre se lit facilement. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "Ce livre est lu facilement par soi. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "Ce livre lit soi facilement. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "Ce livre s'est lu facilement hier. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))"
+            "Ce livre se lit facilement. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "Ce livre est lu facilement par soi. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "Ce livre lit soi facilement. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "Ce livre s'est lu facilement hier. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)"
           ],
           "answerIndex": 0,
           "explanation": "La forme passive pronominale d'usage général est « Ce livre se lit facilement »."
@@ -10665,10 +10665,10 @@
         {
           "prompt": "Accordez le verbe au passif pronominal : « En automne, les châtaignes _________ (se ramasser) en forêt. »",
           "options": [
-            "se ramassent (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "se ramasse (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "s'est ramassé (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "se ramasser (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))"
+            "se ramassent (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "se ramasse (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "s'est ramassé (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "se ramasser (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)"
           ],
           "answerIndex": 0,
           "explanation": "Le sujet 'les châtaignes' est pluriel, donc le verbe prend la désinence '-ent' : « se ramassent »."
@@ -10681,10 +10681,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre un passif pronominal exprimant un usage général ou une vérité coutumière ?",
           "options": [
-            "Ce fromage se mange avec du pain frais. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "Pierre se regarde dans le miroir. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "Les enfants se disputent dans la cour. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))",
-            "Elle se réveille à sept heures. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures (U19))"
+            "Ce fromage se mange avec du pain frais. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "Pierre se regarde dans le miroir. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "Les enfants se disputent dans la cour. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)",
+            "Elle se réveille à sept heures. (Deploy pronominal passive constructions se  verbe 3e personne for general truths and procedures)"
           ],
           "answerIndex": 0,
           "explanation": "« Ce fromage se mange » a un sujet inanimé et exprime une vérité générale passive ('is eaten'). Les autres options sont des réflexifs ou réciproques ordinaires."
@@ -10759,10 +10759,10 @@
         {
           "prompt": "Identifiez l'orthographe correcte du participe 'fait' suivi d'un infinitif : « Elle s'est _________ opérer hier. »",
           "options": [
-            "fait (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "faite (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "faits (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "faites (Use causative passive structures with se faire and se voir se faire vacciner (U19))"
+            "fait (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "faite (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "faits (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "faites (Use causative passive structures with se faire and se voir se faire vacciner)"
           ],
           "answerIndex": 0,
           "explanation": "Le participe passé 'fait' suivi immédiatement d'un infinitif reste toujours invariable : « s'est fait opérer »."
@@ -10774,10 +10774,10 @@
         {
           "prompt": "Traduisez dans un registre soutenu : « The scientist was awarded the Nobel Prize » :",
           "options": [
-            "Le scientifique s'est vu décerner le prix Nobel. (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "Le scientifique a vu donner le prix Nobel. (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "Le scientifique s'est fait donner le prix Nobel. (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "Le scientifique a décerné le prix Nobel. (Use causative passive structures with se faire and se voir se faire vacciner (U19))"
+            "Le scientifique s'est vu décerner le prix Nobel. (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "Le scientifique a vu donner le prix Nobel. (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "Le scientifique s'est fait donner le prix Nobel. (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "Le scientifique a décerné le prix Nobel. (Use causative passive structures with se faire and se voir se faire vacciner)"
           ],
           "answerIndex": 0,
           "explanation": "« Se voir décerner » est l'expression journalistique et institutionnelle consacrée."
@@ -10790,10 +10790,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase comporte une faute d'accord ?",
           "options": [
-            "Elle s'est fait vacciner ce matin. (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "Ils se sont fait voler leurs passeports. (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "Elle s'est faite vacciner ce matin. (Use causative passive structures with se faire and se voir se faire vacciner (U19))",
-            "Le lauréat s'est vu remettre son trophée. (Use causative passive structures with se faire and se voir se faire vacciner (U19))"
+            "Elle s'est fait vacciner ce matin. (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "Ils se sont fait voler leurs passeports. (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "Elle s'est faite vacciner ce matin. (Use causative passive structures with se faire and se voir se faire vacciner)",
+            "Le lauréat s'est vu remettre son trophée. (Use causative passive structures with se faire and se voir se faire vacciner)"
           ],
           "answerIndex": 2,
           "explanation": "« faite » est une faute : 'fait' suivi d'un infinitif est invariable (« s'est fait vacciner »)."
@@ -10867,10 +10867,10 @@
         {
           "prompt": "Remplacez la tournure passive lourde « Le projet a été annulé » par une tournure active naturelle avec 'on' :",
           "options": [
-            "On a annulé le projet. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "On a été annuler le projet. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "On est annulé le projet. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "On annule le projet hier. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))"
+            "On a annulé le projet. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "On a été annuler le projet. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "On est annulé le projet. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "On annule le projet hier. (Choose natural active voice alternatives using on to avoid heavy passive constructions)"
           ],
           "answerIndex": 0,
           "explanation": "« On a annulé le projet » remplace élégamment et fidèlement le passif au passé composé."
@@ -10882,10 +10882,10 @@
         {
           "prompt": "Comment rendre « French is spoken here » de la façon la plus naturelle en français parlé et écrit ?",
           "options": [
-            "Ici, on parle français. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "Ici, le français est parlé par les gens. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "Ici, le français a été parlé. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "Ici, nous sommes parlés français. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))"
+            "Ici, on parle français. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "Ici, le français est parlé par les gens. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "Ici, le français a été parlé. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "Ici, nous sommes parlés français. (Choose natural active voice alternatives using on to avoid heavy passive constructions)"
           ],
           "answerIndex": 0,
           "explanation": "« Ici, on parle français » est la formulation naturelle et concise universellement utilisée."
@@ -10898,10 +10898,10 @@
           "type": "multiple-choice",
           "prompt": "Pourquoi les rédacteurs francophones privilégient-ils souvent 'on' par rapport à la voix passive canonique ?",
           "options": [
-            "Pour rendre le style plus dynamique, fluide et concis en évitant les lourdeurs d'auxiliaires passifs. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "Parce que la voix passive est grammaticalement interdite en français. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "Parce que 'on' oblige le verbe à se mettre au subjonctif. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))",
-            "Parce que 'on' ne peut désigner qu'une seule personne identifiée. (Choose natural active voice alternatives using on to avoid heavy passive constructions (U19))"
+            "Pour rendre le style plus dynamique, fluide et concis en évitant les lourdeurs d'auxiliaires passifs. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "Parce que la voix passive est grammaticalement interdite en français. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "Parce que 'on' oblige le verbe à se mettre au subjonctif. (Choose natural active voice alternatives using on to avoid heavy passive constructions)",
+            "Parce que 'on' ne peut désigner qu'une seule personne identifiée. (Choose natural active voice alternatives using on to avoid heavy passive constructions)"
           ],
           "answerIndex": 0,
           "explanation": "L'emploi de 'on' allège la phrase et donne un tour actif et dynamique à l'expression."
@@ -10976,10 +10976,10 @@
         {
           "prompt": "Transformez au discours indirect au présent : « Marc demande : 'Qu'est-ce que vous préparez ?' »",
           "options": [
-            "Marc demande ce que nous préparons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Marc demande qu'est-ce que nous préparons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Marc demande ce qui nous préparons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Marc demande si nous préparons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))"
+            "Marc demande ce que nous préparons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Marc demande qu'est-ce que nous préparons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Marc demande ce qui nous préparons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Marc demande si nous préparons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)"
           ],
           "answerIndex": 0,
           "explanation": "La question 'qu'est-ce que' devient « ce que » au discours indirect."
@@ -10991,10 +10991,10 @@
         {
           "prompt": "Transposez l'impératif au discours indirect : « Le chef ordonne : 'Fermez la porte !' »",
           "options": [
-            "Le chef ordonne de fermer la porte. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Le chef ordonne que fermer la porte. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Le chef ordonne si on ferme la porte. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Le chef ordonne de fermez la porte. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))"
+            "Le chef ordonne de fermer la porte. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Le chef ordonne que fermer la porte. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Le chef ordonne si on ferme la porte. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Le chef ordonne de fermez la porte. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)"
           ],
           "answerIndex": 0,
           "explanation": "Un ordre à l'impératif se transforme en « de + infinitif » : « ordonne de fermer »."
@@ -11007,10 +11007,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle transformation au discours indirect est syntaxiquement irréprochable ?",
           "options": [
-            "Elle demande où nous allons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Elle demande où est-ce que nous allons-nous. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Elle demande qu'est-ce qui nous faisons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))",
-            "Elle demande de nous venons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que (U20))"
+            "Elle demande où nous allons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Elle demande où est-ce que nous allons-nous. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Elle demande qu'est-ce qui nous faisons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)",
+            "Elle demande de nous venons. (Convert direct quotations into reported indirect speech with present introductory verbs il dit que)"
           ],
           "answerIndex": 0,
           "explanation": "« Elle demande où nous allons » conserve le mot interrogatif 'où' sans inversion ni formule 'est-ce que'."
@@ -11084,10 +11084,10 @@
         {
           "prompt": "Transposez au passé : « Il a dit : 'Je comprends la situation.' »",
           "options": [
-            "Il a dit qu'il comprenait la situation. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "Il a dit qu'il comprend la situation. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "Il a dit qu'il comprendrait la situation. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "Il a dit qu'il a compris la situation. (Execute past tense concordance in reported speech prsent  imparfait (U20))"
+            "Il a dit qu'il comprenait la situation. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "Il a dit qu'il comprend la situation. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "Il a dit qu'il comprendrait la situation. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "Il a dit qu'il a compris la situation. (Execute past tense concordance in reported speech prsent  imparfait)"
           ],
           "answerIndex": 0,
           "explanation": "Le présent 'comprends' devient l'imparfait « comprenait » après un verbe introducteur au passé ('a dit')."
@@ -11099,10 +11099,10 @@
         {
           "prompt": "Transposez : « Elle a affirmé : 'Nous avons terminé le travail.' »",
           "options": [
-            "Elle a affirmé qu'ils avaient terminé le travail. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "Elle a affirmé qu'ils ont terminé le travail. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "Elle a affirmé qu'ils termineraient le travail. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "Elle a affirmé qu'ils avaient terminer le travail. (Execute past tense concordance in reported speech prsent  imparfait (U20))"
+            "Elle a affirmé qu'ils avaient terminé le travail. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "Elle a affirmé qu'ils ont terminé le travail. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "Elle a affirmé qu'ils termineraient le travail. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "Elle a affirmé qu'ils avaient terminer le travail. (Execute past tense concordance in reported speech prsent  imparfait)"
           ],
           "answerIndex": 0,
           "explanation": "Le passé composé 'avons terminé' devient le plus-que-parfait « avaient terminé »."
@@ -11115,10 +11115,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la concordance des temps exacte pour : « L'expert a confirmé : 'J'ai examiné les pièces hier.' »",
           "options": [
-            "L'expert a confirmé qu'il examine les pièces. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "L'expert a confirmé qu'il avait examiné les pièces la veille. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "L'expert a confirmé qu'il examinera les pièces demain. (Execute past tense concordance in reported speech prsent  imparfait (U20))",
-            "L'expert a confirmé qu'il a examiné les pièces hier. (Execute past tense concordance in reported speech prsent  imparfait (U20))"
+            "L'expert a confirmé qu'il examine les pièces. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "L'expert a confirmé qu'il avait examiné les pièces la veille. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "L'expert a confirmé qu'il examinera les pièces demain. (Execute past tense concordance in reported speech prsent  imparfait)",
+            "L'expert a confirmé qu'il a examiné les pièces hier. (Execute past tense concordance in reported speech prsent  imparfait)"
           ],
           "answerIndex": 1,
           "explanation": "« avait examiné » (plus-que-parfait) et « la veille » transposent impeccablement le passé composé et le repère temporel."
@@ -11192,10 +11192,10 @@
         {
           "prompt": "Transposez au discours indirect au passé : « Il a dit : 'Je t'appellerai ce soir.' »",
           "options": [
-            "Il a dit qu'il m'appellerait ce soir-là. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "Il a dit qu'il m'appellera ce soir. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "Il a dit qu'il m'a appelé ce soir. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "Il a dit qu'il m'appelait hier. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))"
+            "Il a dit qu'il m'appellerait ce soir-là. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "Il a dit qu'il m'appellera ce soir. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "Il a dit qu'il m'a appelé ce soir. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "Il a dit qu'il m'appelait hier. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)"
           ],
           "answerIndex": 0,
           "explanation": "Le futur simple 'appellerai' devient le conditionnel présent « appellerait » (futur du passé)."
@@ -11207,10 +11207,10 @@
         {
           "prompt": "Quelle est la transposition correcte de « Nous allons signer l'accord » après « Le président a annoncé que... » ?",
           "options": [
-            "qu'ils allaient signer l'accord. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "qu'ils vont signer l'accord. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "qu'ils signeraient l'accord hier. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "qu'ils sont allés signer l'accord. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))"
+            "qu'ils allaient signer l'accord. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "qu'ils vont signer l'accord. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "qu'ils signeraient l'accord hier. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "qu'ils sont allés signer l'accord. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)"
           ],
           "answerIndex": 0,
           "explanation": "Le futur proche 'vont signer' devient 'allaient signer' (imparfait d'aller + infinitif)."
@@ -11223,10 +11223,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase qui applique rigoureusement la règle du futur dans le passé :",
           "options": [
-            "Elle a garanti qu'elle achètera le billet. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "Elle a garanti qu'elle avait acheté le billet demain. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "Elle a garanti qu'elle achèterait le billet le lendemain. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))",
-            "Elle a garanti qu'elle achète le billet ce jour-là. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent (U20))"
+            "Elle a garanti qu'elle achètera le billet. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "Elle a garanti qu'elle avait acheté le billet demain. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "Elle a garanti qu'elle achèterait le billet le lendemain. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)",
+            "Elle a garanti qu'elle achète le billet ce jour-là. (Shift future and conditional tenses in past reported speech futur simple  conditionnel prsent)"
           ],
           "answerIndex": 2,
           "explanation": "« achèterait » (conditionnel présent) et « le lendemain » représentent la transposition parfaite du futur et du repère temporel."
@@ -11300,10 +11300,10 @@
         {
           "prompt": "Quel repère temporel remplace « demain » dans un discours rapporté au passé ?",
           "options": [
-            "le lendemain (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "la veille (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "ce jour-là (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "trois jours plus tôt (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))"
+            "le lendemain (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "la veille (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "ce jour-là (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "trois jours plus tôt (Transform spatial and temporal deictic markers aujourdhui  ce jourl)"
           ],
           "answerIndex": 0,
           "explanation": "Dans un récit ou discours indirect au passé, 'demain' devient « le lendemain »."
@@ -11315,10 +11315,10 @@
         {
           "prompt": "Transposez le repère temporel : « Elle m'a dit : 'Je l'ai vu il y a deux jours.' »",
           "options": [
-            "Elle m'a dit qu'elle l'avait vu deux jours plus tôt. (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "Elle m'a dit qu'elle l'a vu il y a deux jours. (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "Elle m'a dit qu'elle le voyait dans deux jours. (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "Elle m'a dit qu'elle l'avait vu le lendemain. (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))"
+            "Elle m'a dit qu'elle l'avait vu deux jours plus tôt. (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "Elle m'a dit qu'elle l'a vu il y a deux jours. (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "Elle m'a dit qu'elle le voyait dans deux jours. (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "Elle m'a dit qu'elle l'avait vu le lendemain. (Transform spatial and temporal deictic markers aujourdhui  ce jourl)"
           ],
           "answerIndex": 0,
           "explanation": "'il y a deux jours' se transpose en « deux jours plus tôt » ou « deux jours auparavant »."
@@ -11331,10 +11331,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la transposition correcte des repères dans : « Il m'a assuré : 'Nous partirons la semaine prochaine.' »",
           "options": [
-            "Il m'a assuré qu'ils partiraient la semaine prochaine. (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "Il m'a assuré qu'ils partiraient la semaine suivante. (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "Il m'a assuré qu'ils sont partis la semaine dernière. (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))",
-            "Il m'a assuré qu'ils partiront la semaine d'après. (Transform spatial and temporal deictic markers aujourdhui  ce jourl (U20))"
+            "Il m'a assuré qu'ils partiraient la semaine prochaine. (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "Il m'a assuré qu'ils partiraient la semaine suivante. (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "Il m'a assuré qu'ils sont partis la semaine dernière. (Transform spatial and temporal deictic markers aujourdhui  ce jourl)",
+            "Il m'a assuré qu'ils partiront la semaine d'après. (Transform spatial and temporal deictic markers aujourdhui  ce jourl)"
           ],
           "answerIndex": 1,
           "explanation": "« partiraient » (conditionnel) et « la semaine suivante » transposent fidèlement le temps et l'indicateur temporel."
@@ -11409,10 +11409,10 @@
         {
           "prompt": "Quel verbe introducteur suggère que le journaliste met en doute la déclaration rapportée ?",
           "options": [
-            "prétendre (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "confirmer (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "certifier (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "prouver (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))"
+            "prétendre (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "confirmer (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "certifier (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "prouver (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe « prétendre » introduit une nuance de doute ou de contestation sur la véracité des propos."
@@ -11424,10 +11424,10 @@
         {
           "prompt": "Choisissez le verbe exprimant une réplique vive face à une critique :",
           "options": [
-            "rétorquer (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "concéder (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "admettre (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "susurrer (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))"
+            "rétorquer (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "concéder (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "admettre (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "susurrer (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)"
           ],
           "answerIndex": 0,
           "explanation": "« Rétorquer » signifie répliquer vivement et avec autorité à une objection."
@@ -11440,10 +11440,10 @@
           "type": "multiple-choice",
           "prompt": "Analysez la nuance apportée par le verbe dans : « Le suspect prétend qu'il dormait au moment des faits. »",
           "options": [
-            "Le locuteur rapporte l'affirmation sans en garantir la véracité, suggérant un doute. (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "Le locuteur certifie sous serment la vérité des propos. (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "Le suspect avoue sa culpabilité sans réserve. (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))",
-            "Le verbe exprime un souhait ou une prière. (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir (U20))"
+            "Le locuteur rapporte l'affirmation sans en garantir la véracité, suggérant un doute. (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "Le locuteur certifie sous serment la vérité des propos. (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "Le suspect avoue sa culpabilité sans réserve. (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)",
+            "Le verbe exprime un souhait ou une prière. (Report journalistic interviews and parliamentary inquiries using sophisticated reporting verbs soutenir)"
           ],
           "answerIndex": 0,
           "explanation": "« Prétendre » signale que l'allégation n'engage que le suspect et n'est pas tenue pour prouvée."
@@ -11520,10 +11520,10 @@
         {
           "prompt": "Quelle conjonction causale doit obligatoirement être placée en début de phrase ?",
           "options": [
-            "Comme (Express cause across varied registers parce que (U21))",
-            "Parce que (Express cause across varied registers parce que (U21))",
-            "Car (Express cause across varied registers parce que (U21))",
-            "Grâce à (Express cause across varied registers parce que (U21))"
+            "Comme (Express cause across varied registers parce que)",
+            "Parce que (Express cause across varied registers parce que)",
+            "Car (Express cause across varied registers parce que)",
+            "Grâce à (Express cause across varied registers parce que)"
           ],
           "answerIndex": 0,
           "explanation": "La conjonction de cause « Comme » se place obligatoirement en tête de phrase (« Comme il faisait beau... »)."
@@ -11535,10 +11535,10 @@
         {
           "prompt": "Complétez avec la conjonction exprimant une cause évidente / partagée : « _________ tu connais bien la ville, guide-nous ! »",
           "options": [
-            "Puisque (Express cause across varied registers parce que (U21))",
-            "Car (Express cause across varied registers parce que (U21))",
-            "Parce que (Express cause across varied registers parce que (U21))",
-            "Faute de (Express cause across varied registers parce que (U21))"
+            "Puisque (Express cause across varied registers parce que)",
+            "Car (Express cause across varied registers parce que)",
+            "Parce que (Express cause across varied registers parce que)",
+            "Faute de (Express cause across varied registers parce que)"
           ],
           "answerIndex": 0,
           "explanation": "« Puisque » s'impose quand la cause est connue et évidente pour les interlocuteurs."
@@ -11551,10 +11551,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la phrase causale syntaxiquement correcte en français standard :",
           "options": [
-            "Nous sommes restés chez nous comme il pleuvait. (Express cause across varied registers parce que (U21))",
-            "Comme il pleuvait, nous sommes restés chez nous. (Express cause across varied registers parce que (U21))",
-            "Car il pleuvait, nous sommes restés. (Express cause across varied registers parce que (U21))",
-            "Puisque il pleuvait, nous sommes restés. (Express cause across varied registers parce que (U21))"
+            "Nous sommes restés chez nous comme il pleuvait. (Express cause across varied registers parce que)",
+            "Comme il pleuvait, nous sommes restés chez nous. (Express cause across varied registers parce que)",
+            "Car il pleuvait, nous sommes restés. (Express cause across varied registers parce que)",
+            "Puisque il pleuvait, nous sommes restés. (Express cause across varied registers parce que)"
           ],
           "answerIndex": 1,
           "explanation": "« Comme » en tête de phrase (« Comme il pleuvait... ») est parfaitement correct. 'Puisque' aurait dû s'élider en 'Puisqu'il', et 'Car' ne débute pas une phrase isolée."
@@ -11628,10 +11628,10 @@
         {
           "prompt": "Quelle locution prépositionnelle s'emploie pour introduire une cause bénéfique et heureuse ?",
           "options": [
-            "grâce à (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "à cause de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "en raison de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "faute de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))"
+            "grâce à (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "à cause de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "en raison de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "faute de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)"
           ],
           "answerIndex": 0,
           "explanation": "« grâce à » souligne une cause positive qui a permis d'obtenir un résultat heureux."
@@ -11643,10 +11643,10 @@
         {
           "prompt": "Complétez l'annonce officielle : « Le musée sera fermé demain _________ travaux de rénovation. »",
           "options": [
-            "en raison de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "grâce à des (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "faute de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "à la faveur de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))"
+            "en raison de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "grâce à des (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "faute de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "à la faveur de (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)"
           ],
           "answerIndex": 0,
           "explanation": "« en raison de » est la formule administrative neutre et standard pour un motif objectif."
@@ -11659,10 +11659,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase illustre un emploi fautif de la préposition de cause ?",
           "options": [
-            "Le projet a réussi grâce à notre travail d'équipe. (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "Il a raté son concours grâce à son manque de travail. (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "Le trafic est interrompu en raison d'un obstacle sur les voies. (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))",
-            "Faute de budget, le concert a été annulé. (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de (U21))"
+            "Le projet a réussi grâce à notre travail d'équipe. (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "Il a raté son concours grâce à son manque de travail. (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "Le trafic est interrompu en raison d'un obstacle sur les voies. (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)",
+            "Faute de budget, le concert a été annulé. (Distinguish positive cause grce  from negative cause  cause de and neutral cause en raison de)"
           ],
           "answerIndex": 1,
           "explanation": "« grâce à son manque de travail » est absurde et fautif : pour une cause négative ou préjudiciable, il faut employer « à cause de »."
@@ -11736,10 +11736,10 @@
         {
           "prompt": "Quelle phrase respecte la règle de l'identité des sujets dans l'expression du but ?",
           "options": [
-            "Il s'est dépêché pour arriver à l'heure. (Express purpose requiring subjunctive pour que (U21))",
-            "Il s'est dépêché pour qu'il arrive à l'heure. (Express purpose requiring subjunctive pour que (U21))",
-            "Il s'est dépêché afin qu'il arrive à l'heure. (Express purpose requiring subjunctive pour que (U21))",
-            "Il s'est dépêché pour qu'il arrivait à l'heure. (Express purpose requiring subjunctive pour que (U21))"
+            "Il s'est dépêché pour arriver à l'heure. (Express purpose requiring subjunctive pour que)",
+            "Il s'est dépêché pour qu'il arrive à l'heure. (Express purpose requiring subjunctive pour que)",
+            "Il s'est dépêché afin qu'il arrive à l'heure. (Express purpose requiring subjunctive pour que)",
+            "Il s'est dépêché pour qu'il arrivait à l'heure. (Express purpose requiring subjunctive pour que)"
           ],
           "answerIndex": 0,
           "explanation": "Quand le sujet est identique ('il' et 'il'), on doit obligatoirement employer la préposition suivie de l'infinitif : « pour arriver »."
@@ -11751,10 +11751,10 @@
         {
           "prompt": "Complétez au subjonctif : « Je vous prête mes clés pour que vous _________ (pouvoir) entrer. »",
           "options": [
-            "puissiez (Express purpose requiring subjunctive pour que (U21))",
-            "pouvez (Express purpose requiring subjunctive pour que (U21))",
-            "pourriez (Express purpose requiring subjunctive pour que (U21))",
-            "pourrez (Express purpose requiring subjunctive pour que (U21))"
+            "puissiez (Express purpose requiring subjunctive pour que)",
+            "pouvez (Express purpose requiring subjunctive pour que)",
+            "pourriez (Express purpose requiring subjunctive pour que)",
+            "pourrez (Express purpose requiring subjunctive pour que)"
           ],
           "answerIndex": 0,
           "explanation": "Après 'pour que' avec deux sujets différents (Je / Vous), le subjonctif présent est obligatoire : « puissiez »."
@@ -11767,10 +11767,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la phrase comportant une erreur de mode ou de construction du but :",
           "options": [
-            "J'ai pris un taxi afin que je sois à l'heure. (Express purpose requiring subjunctive pour que (U21))",
-            "J'ai pris un taxi afin d'être à l'heure. (Express purpose requiring subjunctive pour que (U21))",
-            "J'ai appelé un taxi pour que mon ami arrive à l'heure. (Express purpose requiring subjunctive pour que (U21))",
-            "Il parle fort pour que tout le monde l'entende. (Express purpose requiring subjunctive pour que (U21))"
+            "J'ai pris un taxi afin que je sois à l'heure. (Express purpose requiring subjunctive pour que)",
+            "J'ai pris un taxi afin d'être à l'heure. (Express purpose requiring subjunctive pour que)",
+            "J'ai appelé un taxi pour que mon ami arrive à l'heure. (Express purpose requiring subjunctive pour que)",
+            "Il parle fort pour que tout le monde l'entende. (Express purpose requiring subjunctive pour que)"
           ],
           "answerIndex": 0,
           "explanation": "« afin que je sois » est fautif car les deux propositions ont le même sujet ('Je'). Il faut dire : « afin d'être à l'heure »."
@@ -11845,10 +11845,10 @@
         {
           "prompt": "Quel mode verbal suit la conjonction de conséquence factuelle « si bien que » ?",
           "options": [
-            "L'indicatif (Express logical consequence using coordinators and subordinators donc (U21))",
-            "Le subjonctif (Express logical consequence using coordinators and subordinators donc (U21))",
-            "Le conditionnel (Express logical consequence using coordinators and subordinators donc (U21))",
-            "L'impératif (Express logical consequence using coordinators and subordinators donc (U21))"
+            "L'indicatif (Express logical consequence using coordinators and subordinators donc)",
+            "Le subjonctif (Express logical consequence using coordinators and subordinators donc)",
+            "Le conditionnel (Express logical consequence using coordinators and subordinators donc)",
+            "L'impératif (Express logical consequence using coordinators and subordinators donc)"
           ],
           "answerIndex": 0,
           "explanation": "La conséquence constatée exprime un fait réel et régit obligatoirement l'indicatif (« si bien que nous sommes partis »)."
@@ -11860,10 +11860,10 @@
         {
           "prompt": "Complétez la structure d'intensité : « Il y avait _________ de brouillard que la visibilité était nulle. »",
           "options": [
-            "tellement (Express logical consequence using coordinators and subordinators donc (U21))",
-            "si (Express logical consequence using coordinators and subordinators donc (U21))",
-            "très (Express logical consequence using coordinators and subordinators donc (U21))",
-            "trop (Express logical consequence using coordinators and subordinators donc (U21))"
+            "tellement (Express logical consequence using coordinators and subordinators donc)",
+            "si (Express logical consequence using coordinators and subordinators donc)",
+            "très (Express logical consequence using coordinators and subordinators donc)",
+            "trop (Express logical consequence using coordinators and subordinators donc)"
           ],
           "answerIndex": 0,
           "explanation": "Devant un nom introduit par 'de' ('de brouillard'), on emploie « tellement de + nom + que » (ou 'tant de')."
@@ -11876,10 +11876,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase exprimant une conséquence logique irréprochable :",
           "options": [
-            "Il a plu toute la nuit, pour que les routes soient inondées. (Express logical consequence using coordinators and subordinators donc (U21))",
-            "Il a plu toute la nuit, de sorte que les routes soient inondées hier. (Express logical consequence using coordinators and subordinators donc (U21))",
-            "Il a plu toute la nuit, si bien que les routes sont inondées ce matin. (Express logical consequence using coordinators and subordinators donc (U21))",
-            "Il a plu toute la nuit, car les routes sont inondées. (Express logical consequence using coordinators and subordinators donc (U21))"
+            "Il a plu toute la nuit, pour que les routes soient inondées. (Express logical consequence using coordinators and subordinators donc)",
+            "Il a plu toute la nuit, de sorte que les routes soient inondées hier. (Express logical consequence using coordinators and subordinators donc)",
+            "Il a plu toute la nuit, si bien que les routes sont inondées ce matin. (Express logical consequence using coordinators and subordinators donc)",
+            "Il a plu toute la nuit, car les routes sont inondées. (Express logical consequence using coordinators and subordinators donc)"
           ],
           "answerIndex": 2,
           "explanation": "« si bien que les routes sont inondées » (indicatif présent) formule avec précision une conséquence factuelle réelle."
@@ -11955,10 +11955,10 @@
         {
           "prompt": "Identifiez le connecteur introduisant l'objectif / le but dans : « La loi a été durcie _________ dissuader les fraudeurs. »",
           "options": [
-            "afin de (Structure cause (U21))",
-            "en raison de (Structure cause (U21))",
-            "si bien que (Structure cause (U21))",
-            "par conséquent (Structure cause (U21))"
+            "afin de (Structure cause)",
+            "en raison de (Structure cause)",
+            "si bien que (Structure cause)",
+            "par conséquent (Structure cause)"
           ],
           "answerIndex": 0,
           "explanation": "« afin de + infinitif » introduit le but avec un sujet identique ('la loi')."
@@ -11970,10 +11970,10 @@
         {
           "prompt": "Dans un essai B2, quel enchaînement logique relie harmonieusement Cause -> But -> Conséquence ?",
           "options": [
-            "Comme... pour que... si bien que... (Structure cause (U21))",
-            "Bien que... quoique... malgré... (Structure cause (U21))",
-            "Pendant que... dès que... après que... (Structure cause (U21))",
-            "Si... alors... sinon... (Structure cause (U21))"
+            "Comme... pour que... si bien que... (Structure cause)",
+            "Bien que... quoique... malgré... (Structure cause)",
+            "Pendant que... dès que... après que... (Structure cause)",
+            "Si... alors... sinon... (Structure cause)"
           ],
           "answerIndex": 0,
           "explanation": "« Comme » (cause), « pour que » (but), « si bien que » (conséquence) articulent les trois étapes du raisonnement logique."
@@ -11986,10 +11986,10 @@
           "type": "multiple-choice",
           "prompt": "Analysez l'extrait argumentatif : « Puisque le climat change (1), nous devons agir pour protéger la planète (2), de sorte que les générations futures puissent vivre dignement (3). »",
           "options": [
-            "Hypothèse, Conséquence passée, Opposition. (Structure cause (U21))",
-            "1 Cause partagée, 2 Action principale + But, 3 Finalité / But visé. (Structure cause (U21))",
-            "Concession, Cause négative, Condition irréelle. (Structure cause (U21))",
-            "Comparaison, Analepse, Voix passive. (Structure cause (U21))"
+            "Hypothèse, Conséquence passée, Opposition. (Structure cause)",
+            "1 Cause partagée, 2 Action principale + But, 3 Finalité / But visé. (Structure cause)",
+            "Concession, Cause négative, Condition irréelle. (Structure cause)",
+            "Comparaison, Analepse, Voix passive. (Structure cause)"
           ],
           "answerIndex": 1,
           "explanation": "« Puisque » introduit une cause partagée, « pour protéger » exprime le but immédiat, et « de sorte que + subjonctif » développe la finalité globale."
@@ -12066,10 +12066,10 @@
         {
           "prompt": "Quelle conjonction introduit une simple opposition neutre entre deux faits réels ?",
           "options": [
-            "tandis que (Distinguish logical opposition tandis que (U22))",
-            "bien que (Distinguish logical opposition tandis que (U22))",
-            "pour que (Distinguish logical opposition tandis que (U22))",
-            "à condition que (Distinguish logical opposition tandis que (U22))"
+            "tandis que (Distinguish logical opposition tandis que)",
+            "bien que (Distinguish logical opposition tandis que)",
+            "pour que (Distinguish logical opposition tandis que)",
+            "à condition que (Distinguish logical opposition tandis que)"
           ],
           "answerIndex": 0,
           "explanation": "« tandis que + indicatif » met en parallèle deux situations différentes sans contradiction logique."
@@ -12081,10 +12081,10 @@
         {
           "prompt": "Quel mode verbal doit obligatoirement suivre la locution concessive « même si » ?",
           "options": [
-            "L'indicatif (Distinguish logical opposition tandis que (U22))",
-            "Le subjonctif (Distinguish logical opposition tandis que (U22))",
-            "Le conditionnel passé (Distinguish logical opposition tandis que (U22))",
-            "L'impératif (Distinguish logical opposition tandis que (U22))"
+            "L'indicatif (Distinguish logical opposition tandis que)",
+            "Le subjonctif (Distinguish logical opposition tandis que)",
+            "Le conditionnel passé (Distinguish logical opposition tandis que)",
+            "L'impératif (Distinguish logical opposition tandis que)"
           ],
           "answerIndex": 0,
           "explanation": "« Même si » est TOUJOURS suivi de l'indicatif (« Même s'il fait froid »), jamais du subjonctif."
@@ -12097,10 +12097,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la phrase articulant une concession avec le mode adéquat :",
           "options": [
-            "Même s'il soit tard, nous devons continuer. (Distinguish logical opposition tandis que (U22))",
-            "Même s'il est tard, nous devons continuer. (Distinguish logical opposition tandis que (U22))",
-            "Alors qu'il soit tard, nous devons continuer. (Distinguish logical opposition tandis que (U22))",
-            "Tandis qu'il soit tard, nous devons continuer. (Distinguish logical opposition tandis que (U22))"
+            "Même s'il soit tard, nous devons continuer. (Distinguish logical opposition tandis que)",
+            "Même s'il est tard, nous devons continuer. (Distinguish logical opposition tandis que)",
+            "Alors qu'il soit tard, nous devons continuer. (Distinguish logical opposition tandis que)",
+            "Tandis qu'il soit tard, nous devons continuer. (Distinguish logical opposition tandis que)"
           ],
           "answerIndex": 1,
           "explanation": "« Même si » exige l'indicatif : « Même s'il est tard » (et non 'soit')."
@@ -12175,10 +12175,10 @@
         {
           "prompt": "Quelle phrase illustre la concordance correcte du mode après « bien que » ?",
           "options": [
-            "Bien qu'il sache la vérité, il se tait. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Bien qu'il sait la vérité, il se tait. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Bien qu'il saura la vérité, il se tait. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Bien qu'il a su la vérité, il se tait. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))"
+            "Bien qu'il sache la vérité, il se tait. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Bien qu'il sait la vérité, il se tait. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Bien qu'il saura la vérité, il se tait. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Bien qu'il a su la vérité, il se tait. (Deploy concessive conjunctions requiring the subjunctive mood bien que)"
           ],
           "answerIndex": 0,
           "explanation": "« Bien que » régit obligatoirement le subjonctif : « Bien qu'il sache » (du verbe savoir)."
@@ -12190,10 +12190,10 @@
         {
           "prompt": "Que signifie l'expression : « Il a beau insister, on ne l'écoute pas » ?",
           "options": [
-            "Il insiste en vain / malgré ses efforts répétés. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Il insiste avec beaucoup d'élégance. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Il demande gentiment de l'aide. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Il n'insiste pas du tout. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))"
+            "Il insiste en vain / malgré ses efforts répétés. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Il insiste avec beaucoup d'élégance. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Il demande gentiment de l'aide. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Il n'insiste pas du tout. (Deploy concessive conjunctions requiring the subjunctive mood bien que)"
           ],
           "answerIndex": 0,
           "explanation": "« Avoir beau + infinitif » exprime une tentative vaine ou un effort inutile face à un obstacle insurmontable."
@@ -12206,10 +12206,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez l'erreur de conjugaison dans cette proposition concessive :",
           "options": [
-            "Bien qu'elle comprenne le problème, elle hésite. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Quoiqu'il soit prêt, il a peur. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Bien que nous ayons terminé, nous attendons. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))",
-            "Bien qu'il fait très beau, nous restons enfermés. (Deploy concessive conjunctions requiring the subjunctive mood bien que (U22))"
+            "Bien qu'elle comprenne le problème, elle hésite. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Quoiqu'il soit prêt, il a peur. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Bien que nous ayons terminé, nous attendons. (Deploy concessive conjunctions requiring the subjunctive mood bien que)",
+            "Bien qu'il fait très beau, nous restons enfermés. (Deploy concessive conjunctions requiring the subjunctive mood bien que)"
           ],
           "answerIndex": 3,
           "explanation": "« Bien qu'il fait » est fautif : 'bien que' exige le subjonctif (« Bien qu'il fasse très beau »)."
@@ -12284,10 +12284,10 @@
         {
           "prompt": "Quelle tournure est formellement proscrite et considérée comme fautive en français soigné ?",
           "options": [
-            "Malgré qu'il pleut (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "Malgré la pluie (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "Bien qu'il pleuve (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "En dépit de la pluie (Express prepositional concession with nouns using malgr and en dpit de (U22))"
+            "Malgré qu'il pleut (Express prepositional concession with nouns using malgr and en dpit de)",
+            "Malgré la pluie (Express prepositional concession with nouns using malgr and en dpit de)",
+            "Bien qu'il pleuve (Express prepositional concession with nouns using malgr and en dpit de)",
+            "En dépit de la pluie (Express prepositional concession with nouns using malgr and en dpit de)"
           ],
           "answerIndex": 0,
           "explanation": "« Malgré que » suivi d'une proposition est une incorrection majeure en français moderne. On dit « Malgré la pluie » ou « Bien qu'il pleuve »."
@@ -12299,10 +12299,10 @@
         {
           "prompt": "Complétez la phrase dans un registre juridique soutenu : « _________ les avertissements du syndic, les travaux ont commencé. »",
           "options": [
-            "En dépit de (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "Bien que (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "Même si (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "Quoique (Express prepositional concession with nouns using malgr and en dpit de (U22))"
+            "En dépit de (Express prepositional concession with nouns using malgr and en dpit de)",
+            "Bien que (Express prepositional concession with nouns using malgr and en dpit de)",
+            "Même si (Express prepositional concession with nouns using malgr and en dpit de)",
+            "Quoique (Express prepositional concession with nouns using malgr and en dpit de)"
           ],
           "answerIndex": 0,
           "explanation": "Devant un nom ('les avertissements'), la préposition soutenue de concession est « En dépit de » (ou 'Malgré')."
@@ -12315,10 +12315,10 @@
           "type": "multiple-choice",
           "prompt": "Choisissez la phrase respectant scrupuleusement la syntaxe de la concession nominale :",
           "options": [
-            "En dépit des prévisions pessimistes, le festival a rencontré un immense succès. (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "Malgré que les prévisions étaient mauvaises, le festival a réussi. (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "En dépit que les gens ont protesté, la loi est votée. (Express prepositional concession with nouns using malgr and en dpit de (U22))",
-            "Malgré de ses efforts, il a échoué. (Express prepositional concession with nouns using malgr and en dpit de (U22))"
+            "En dépit des prévisions pessimistes, le festival a rencontré un immense succès. (Express prepositional concession with nouns using malgr and en dpit de)",
+            "Malgré que les prévisions étaient mauvaises, le festival a réussi. (Express prepositional concession with nouns using malgr and en dpit de)",
+            "En dépit que les gens ont protesté, la loi est votée. (Express prepositional concession with nouns using malgr and en dpit de)",
+            "Malgré de ses efforts, il a échoué. (Express prepositional concession with nouns using malgr and en dpit de)"
           ],
           "answerIndex": 0,
           "explanation": "« En dépit des prévisions pessimistes » associe parfaitement la préposition concessive au groupe nominal."
@@ -12392,10 +12392,10 @@
         {
           "prompt": "Quel adverbe concessif exprime une légère réserve polie ou une nuance restrictive ?",
           "options": [
-            "toutefois (Form concessive transition adverbs in formal debates cependant (U22))",
-            "donc (Form concessive transition adverbs in formal debates cependant (U22))",
-            "ainsi (Form concessive transition adverbs in formal debates cependant (U22))",
-            "parce que (Form concessive transition adverbs in formal debates cependant (U22))"
+            "toutefois (Form concessive transition adverbs in formal debates cependant)",
+            "donc (Form concessive transition adverbs in formal debates cependant)",
+            "ainsi (Form concessive transition adverbs in formal debates cependant)",
+            "parce que (Form concessive transition adverbs in formal debates cependant)"
           ],
           "answerIndex": 0,
           "explanation": "« toutefois » introduit une restriction mesurée ou une nuance prudente dans l'argumentation."
@@ -12407,10 +12407,10 @@
         {
           "prompt": "Complétez la transition : « L'épreuve était redoutable ; _________ (néanmoins), elle a obtenu la note maximale. »",
           "options": [
-            "néanmoins (Form concessive transition adverbs in formal debates cependant (U22))",
-            "de plus (Form concessive transition adverbs in formal debates cependant (U22))",
-            "en outre (Form concessive transition adverbs in formal debates cependant (U22))",
-            "c'est pourquoi (Form concessive transition adverbs in formal debates cependant (U22))"
+            "néanmoins (Form concessive transition adverbs in formal debates cependant)",
+            "de plus (Form concessive transition adverbs in formal debates cependant)",
+            "en outre (Form concessive transition adverbs in formal debates cependant)",
+            "c'est pourquoi (Form concessive transition adverbs in formal debates cependant)"
           ],
           "answerIndex": 0,
           "explanation": "« néanmoins » souligne avec force le dépassement de l'obstacle."
@@ -12423,10 +12423,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez l'adverbe qui marque un paradoxe saisissant et inattendu :",
           "options": [
-            "premièrement (Form concessive transition adverbs in formal debates cependant (U22))",
-            "pourtant (Form concessive transition adverbs in formal debates cependant (U22))",
-            "ensuite (Form concessive transition adverbs in formal debates cependant (U22))",
-            "enfin (Form concessive transition adverbs in formal debates cependant (U22))"
+            "premièrement (Form concessive transition adverbs in formal debates cependant)",
+            "pourtant (Form concessive transition adverbs in formal debates cependant)",
+            "ensuite (Form concessive transition adverbs in formal debates cependant)",
+            "enfin (Form concessive transition adverbs in formal debates cependant)"
           ],
           "answerIndex": 1,
           "explanation": "« pourtant » souligne une contradiction frappante entre deux constats."
@@ -12503,10 +12503,10 @@
         {
           "prompt": "Quel mode verbal doit obligatoirement suivre la locution d'hypothèse concessive « quand bien même » ?",
           "options": [
-            "Le conditionnel (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "Le subjonctif (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "L'indicatif présent (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "L'impératif (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))"
+            "Le conditionnel (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "Le subjonctif (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "L'indicatif présent (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "L'impératif (Construct sophisticated counterarguments and rhetorical concessions in structured debate)"
           ],
           "answerIndex": 0,
           "explanation": "« Quand bien même » régit obligatoirement le conditionnel (« Quand bien même il viendrait... »)."
@@ -12518,10 +12518,10 @@
         {
           "prompt": "Quelle formule rhétorique sert à faire une concession stratégique avant de réfuter l'argument ?",
           "options": [
-            "Certes... mais... (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "Comme... donc... (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "Puisque... car... (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "Afin que... pour que... (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))"
+            "Certes... mais... (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "Comme... donc... (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "Puisque... car... (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "Afin que... pour que... (Construct sophisticated counterarguments and rhetorical concessions in structured debate)"
           ],
           "answerIndex": 0,
           "explanation": "« Certes... mais... » accorde temporairement un point à l'adversaire avant de contre-attaquer."
@@ -12534,10 +12534,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle phrase applique avec exactitude la structure avec « quand bien même » ?",
           "options": [
-            "Quand bien même il pleuvrait des cordes, nous irions au bout du défi. (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "Quand bien même il pleuve des cordes, nous irons. (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "Quand bien même il pleut des cordes, nous allons. (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))",
-            "Quand bien même il aura plu des cordes, nous irons. (Construct sophisticated counterarguments and rhetorical concessions in structured debate (U22))"
+            "Quand bien même il pleuvrait des cordes, nous irions au bout du défi. (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "Quand bien même il pleuve des cordes, nous irons. (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "Quand bien même il pleut des cordes, nous allons. (Construct sophisticated counterarguments and rhetorical concessions in structured debate)",
+            "Quand bien même il aura plu des cordes, nous irons. (Construct sophisticated counterarguments and rhetorical concessions in structured debate)"
           ],
           "answerIndex": 0,
           "explanation": "« Quand bien même » se construit avec le conditionnel : « Quand bien même il pleuvrait... nous irions »."
@@ -12612,10 +12612,10 @@
         {
           "prompt": "Quelle formule de politesse clôture avec élégance une lettre professionnelle formelle ?",
           "options": [
-            "Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées. (Format standard French formal business correspondence and official email conventions (U23))",
-            "Gros bisous et à la prochaine fois. (Format standard French formal business correspondence and official email conventions (U23))",
-            "Salut, j'espère que tu vas bien. (Format standard French formal business correspondence and official email conventions (U23))",
-            "Bien amicalement et à plus tard. (Format standard French formal business correspondence and official email conventions (U23))"
+            "Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées. (Format standard French formal business correspondence and official email conventions)",
+            "Gros bisous et à la prochaine fois. (Format standard French formal business correspondence and official email conventions)",
+            "Salut, j'espère que tu vas bien. (Format standard French formal business correspondence and official email conventions)",
+            "Bien amicalement et à plus tard. (Format standard French formal business correspondence and official email conventions)"
           ],
           "answerIndex": 0,
           "explanation": "« Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées » est la formule classique et irréprochable de correspondance professionnelle."
@@ -12627,10 +12627,10 @@
         {
           "prompt": "Complétez l'accord de la formule : « Vous trouverez _________ (ci-joint) les documents demandés. »",
           "options": [
-            "ci-joint (Format standard French formal business correspondence and official email conventions (U23))",
-            "ci-joints (Format standard French formal business correspondence and official email conventions (U23))",
-            "ci-jointe (Format standard French formal business correspondence and official email conventions (U23))",
-            "ci-jointes (Format standard French formal business correspondence and official email conventions (U23))"
+            "ci-joint (Format standard French formal business correspondence and official email conventions)",
+            "ci-joints (Format standard French formal business correspondence and official email conventions)",
+            "ci-jointe (Format standard French formal business correspondence and official email conventions)",
+            "ci-jointes (Format standard French formal business correspondence and official email conventions)"
           ],
           "answerIndex": 0,
           "explanation": "Placé directement en tête de proposition ou avant le nom sans déterminant, « ci-joint » est invariable."
@@ -12643,10 +12643,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez l'en-tête de lettre professionnelle correcte adressée au directeur d'une société :",
           "options": [
-            "Monsieur le Directeur, (Format standard French formal business correspondence and official email conventions (U23))",
-            "Cher Monsieur le Directeur, (Format standard French formal business correspondence and official email conventions (U23))",
-            "Mon cher Directeur, (Format standard French formal business correspondence and official email conventions (U23))",
-            "Salut Directeur, (Format standard French formal business correspondence and official email conventions (U23))"
+            "Monsieur le Directeur, (Format standard French formal business correspondence and official email conventions)",
+            "Cher Monsieur le Directeur, (Format standard French formal business correspondence and official email conventions)",
+            "Mon cher Directeur, (Format standard French formal business correspondence and official email conventions)",
+            "Salut Directeur, (Format standard French formal business correspondence and official email conventions)"
           ],
           "answerIndex": 0,
           "explanation": "Dans la correspondance administrative et commerciale formelle, on s'adresse au destinataire par son titre sans adjectif possessif ni familier : « Monsieur le Directeur, »."
@@ -12720,10 +12720,10 @@
         {
           "prompt": "Quelle locution décrit élégamment un candidat fort de plusieurs années de pratique ?",
           "options": [
-            "Fort d'une expérience de... (Draft a French CV and a compelling (U23))",
-            "Ayant fait des trucs pendant... (Draft a French CV and a compelling (U23))",
-            "Vu que j'ai travaillé... (Draft a French CV and a compelling (U23))",
-            "Parce que je sais faire... (Draft a French CV and a compelling (U23))"
+            "Fort d'une expérience de... (Draft a French CV and a compelling)",
+            "Ayant fait des trucs pendant... (Draft a French CV and a compelling)",
+            "Vu que j'ai travaillé... (Draft a French CV and a compelling)",
+            "Parce que je sais faire... (Draft a French CV and a compelling)"
           ],
           "answerIndex": 0,
           "explanation": "« Fort d'une expérience de [X] ans... » est l'amorce la plus valorisante et soutenue dans une lettre de motivation."
@@ -12735,10 +12735,10 @@
         {
           "prompt": "Complétez la proposition de rencontre : « Je me tiens à votre disposition pour _________ d'un entretien. »",
           "options": [
-            "convenir (Draft a French CV and a compelling (U23))",
-            "inventer (Draft a French CV and a compelling (U23))",
-            "exiger (Draft a French CV and a compelling (U23))",
-            "attendre (Draft a French CV and a compelling (U23))"
+            "convenir (Draft a French CV and a compelling)",
+            "inventer (Draft a French CV and a compelling)",
+            "exiger (Draft a French CV and a compelling)",
+            "attendre (Draft a French CV and a compelling)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe consacré dans la formule de clôture est « convenir d'un entretien » (se mettre d'accord sur une date)."
@@ -12751,10 +12751,10 @@
           "type": "multiple-choice",
           "prompt": "Dans la méthodologie française de la lettre de motivation, quel paragraphe présente la synergie entre le candidat et l'entreprise ?",
           "options": [
-            "L'en-tête de l'état civil (Draft a French CV and a compelling (U23))",
-            "Le paragraphe « NOUS » (Draft a French CV and a compelling (U23))",
-            "La signature électronique (Draft a French CV and a compelling (U23))",
-            "La liste des références scolaires (Draft a French CV and a compelling (U23))"
+            "L'en-tête de l'état civil (Draft a French CV and a compelling)",
+            "Le paragraphe « NOUS » (Draft a French CV and a compelling)",
+            "La signature électronique (Draft a French CV and a compelling)",
+            "La liste des références scolaires (Draft a French CV and a compelling)"
           ],
           "answerIndex": 1,
           "explanation": "Le triptyque « VOUS - MOI - NOUS » réserve le « NOUS » à la projection de collaboration future."
@@ -12829,10 +12829,10 @@
         {
           "prompt": "Quelle réduction de prix accorde-t-on spécifiquement en contrepartie d'un volume d'achat important ?",
           "options": [
-            "Une remise (Conduct commercial negotiations (U23))",
-            "Un escompte (Conduct commercial negotiations (U23))",
-            "Un rabais (Conduct commercial negotiations (U23))",
-            "Une pénalité (Conduct commercial negotiations (U23))"
+            "Une remise (Conduct commercial negotiations)",
+            "Un escompte (Conduct commercial negotiations)",
+            "Un rabais (Conduct commercial negotiations)",
+            "Une pénalité (Conduct commercial negotiations)"
           ],
           "answerIndex": 0,
           "explanation": "« Une remise » est la réduction commerciale accordée en fonction des quantités commandées ou du statut du client."
@@ -12844,10 +12844,10 @@
         {
           "prompt": "Que désigne l'expression « HT » sur un devis professionnel en France ?",
           "options": [
-            "Hors Taxes (Conduct commercial negotiations (U23))",
-            "Haut Tarif (Conduct commercial negotiations (U23))",
-            "Heure Totale (Conduct commercial negotiations (U23))",
-            "Honoraires Transmis (Conduct commercial negotiations (U23))"
+            "Hors Taxes (Conduct commercial negotiations)",
+            "Haut Tarif (Conduct commercial negotiations)",
+            "Heure Totale (Conduct commercial negotiations)",
+            "Honoraires Transmis (Conduct commercial negotiations)"
           ],
           "answerIndex": 0,
           "explanation": "« HT » signifie « Hors Taxes » (le montant avant application de la TVA)."
@@ -12860,10 +12860,10 @@
           "type": "multiple-choice",
           "prompt": "Dans un contrat commercial, quelle clause protège le vendeur jusqu'au paiement intégral du prix ?",
           "options": [
-            "La clause de non-concurrence (Conduct commercial negotiations (U23))",
-            "La clause d'arbitrage (Conduct commercial negotiations (U23))",
-            "La clause de réserve de propriété (Conduct commercial negotiations (U23))",
-            "La clause de confidentialité (Conduct commercial negotiations (U23))"
+            "La clause de non-concurrence (Conduct commercial negotiations)",
+            "La clause d'arbitrage (Conduct commercial negotiations)",
+            "La clause de réserve de propriété (Conduct commercial negotiations)",
+            "La clause de confidentialité (Conduct commercial negotiations)"
           ],
           "answerIndex": 2,
           "explanation": "La « clause de réserve de propriété » stipule que les marchandises restent la propriété du vendeur jusqu'à leur parfait encaissement."
@@ -12937,10 +12937,10 @@
         {
           "prompt": "Quelle formule exprime un dédommagement commercial accordé par courtoisie professionnelle ?",
           "options": [
-            "À titre de geste commercial (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "Par obligation pénale (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "Sous la contrainte judiciaire (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "Faute de mieux (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))"
+            "À titre de geste commercial (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "Par obligation pénale (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "Sous la contrainte judiciaire (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "Faute de mieux (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)"
           ],
           "answerIndex": 0,
           "explanation": "« À titre de geste commercial » signale qu'une compensation financière ou matérielle est accordée gracieusement pour fidéliser le client."
@@ -12952,10 +12952,10 @@
         {
           "prompt": "Que délivre une entreprise pour permettre à un client de déduire un remboursement de sa prochaine facture ?",
           "options": [
-            "un avoir (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "une sommation (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "une saisie (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "un gage (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))"
+            "un avoir (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "une sommation (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "une saisie (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "un gage (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)"
           ],
           "answerIndex": 0,
           "explanation": "« Un avoir » (credit note) est le document comptable permettant d'imputer un crédit sur une commande future."
@@ -12968,10 +12968,10 @@
           "type": "multiple-choice",
           "prompt": "Dans le traitement d'une réclamation, quelle proposition allie professionnalisme et respect des usages français ?",
           "options": [
-            "Nous prenons en charge les frais de retour et vous expédions un nouvel exemplaire ce jour même. (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "C'est de la faute de La Poste, débrouillez-vous avec eux. (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "Nous refusons toute discussion car vous avez déjà signé. (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))",
-            "Votre réclamation n'a aucun intérêt pour notre société. (Handle customer complaints and resolve commercial disputes diplomatically in formal writing (U23))"
+            "Nous prenons en charge les frais de retour et vous expédions un nouvel exemplaire ce jour même. (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "C'est de la faute de La Poste, débrouillez-vous avec eux. (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "Nous refusons toute discussion car vous avez déjà signé. (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)",
+            "Votre réclamation n'a aucun intérêt pour notre société. (Handle customer complaints and resolve commercial disputes diplomatically in formal writing)"
           ],
           "answerIndex": 0,
           "explanation": "La prise en charge proactive des frais de retour avec réexpédition immédiate incarne la gestion exemplaire de la relation client."
@@ -13045,10 +13045,10 @@
         {
           "prompt": "Quelle mention manuscrite traditionnelle précède la signature d'un contrat en France ?",
           "options": [
-            "Lu et approuvé, bon pour accord (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Vu et oublié (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Signé sans lire (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Reçu et jeté (Simulate a complete commercial contract negotiation and formal partnership closing (U23))"
+            "Lu et approuvé, bon pour accord (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Vu et oublié (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Signé sans lire (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Reçu et jeté (Simulate a complete commercial contract negotiation and formal partnership closing)"
           ],
           "answerIndex": 0,
           "explanation": "La mention manuscrite rituelle consacrée par l'usage juridique français est « Lu et approuvé, bon pour accord »."
@@ -13060,10 +13060,10 @@
         {
           "prompt": "Que signifie le verbe « parapher » un contrat commercial ?",
           "options": [
-            "Apposer ses initiales sur chaque page du document (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Résilier le contrat immédiatement (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Traduire le contrat en anglais (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Déchirer le document (Simulate a complete commercial contract negotiation and formal partnership closing (U23))"
+            "Apposer ses initiales sur chaque page du document (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Résilier le contrat immédiatement (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Traduire le contrat en anglais (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Déchirer le document (Simulate a complete commercial contract negotiation and formal partnership closing)"
           ],
           "answerIndex": 0,
           "explanation": "« Parapher » consiste à apposer un paraphe (initiales abrégées) au bas de chaque page pour en garantir l'intégrité."
@@ -13076,10 +13076,10 @@
           "type": "multiple-choice",
           "prompt": "Identifiez la formule marquant la prise d'effet d'un contrat commercial :",
           "options": [
-            "Le contrat est mort dès sa naissance. (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Le présent accord cadre entrera en vigueur dès sa signature par les parties. (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Les parties ne signeront jamais ce texte. (Simulate a complete commercial contract negotiation and formal partnership closing (U23))",
-            "Le contrat est nul de plein droit sans raison. (Simulate a complete commercial contract negotiation and formal partnership closing (U23))"
+            "Le contrat est mort dès sa naissance. (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Le présent accord cadre entrera en vigueur dès sa signature par les parties. (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Les parties ne signeront jamais ce texte. (Simulate a complete commercial contract negotiation and formal partnership closing)",
+            "Le contrat est nul de plein droit sans raison. (Simulate a complete commercial contract negotiation and formal partnership closing)"
           ],
           "answerIndex": 1,
           "explanation": "« Le présent accord cadre entrera en vigueur dès sa signature » est la formulation juridique standard d'entrée en vigueur."
@@ -13154,10 +13154,10 @@
         {
           "prompt": "Quel adjectif qualifie une douleur rythmée, pénétrante et répétée comme des coups d'aiguille ?",
           "options": [
-            "lancinante (Conduct a standard medical consultation (U24))",
-            "sourde (Conduct a standard medical consultation (U24))",
-            "apaisante (Conduct a standard medical consultation (U24))",
-            "légère (Conduct a standard medical consultation (U24))"
+            "lancinante (Conduct a standard medical consultation)",
+            "sourde (Conduct a standard medical consultation)",
+            "apaisante (Conduct a standard medical consultation)",
+            "légère (Conduct a standard medical consultation)"
           ],
           "answerIndex": 0,
           "explanation": "Une douleur « lancinante » est aiguë, répétitive et lancée par vagues successives."
@@ -13169,10 +13169,10 @@
         {
           "prompt": "Que signifie ressentir des « courbatures » après un effort physique ou lors d'un état grippal ?",
           "options": [
-            "Des douleurs musculaires diffuses (Conduct a standard medical consultation (U24))",
-            "Une fracture osseuse (Conduct a standard medical consultation (U24))",
-            "Une perte d'audition (Conduct a standard medical consultation (U24))",
-            "Une piqûre d'insecte (Conduct a standard medical consultation (U24))"
+            "Des douleurs musculaires diffuses (Conduct a standard medical consultation)",
+            "Une fracture osseuse (Conduct a standard medical consultation)",
+            "Une perte d'audition (Conduct a standard medical consultation)",
+            "Une piqûre d'insecte (Conduct a standard medical consultation)"
           ],
           "answerIndex": 0,
           "explanation": "Les « courbatures » désignent des douleurs musculaires diffuses et douloureuses liées à la fatigue ou à une infection virale."
@@ -13185,10 +13185,10 @@
           "type": "multiple-choice",
           "prompt": "Que demande le médecin en disant « Déshabillez-vous jusqu'à la taille » ?",
           "options": [
-            "Enlever le haut de ses vêtements pour un examen clinique du thorax (Conduct a standard medical consultation (U24))",
-            "Enlever uniquement ses chaussures (Conduct a standard medical consultation (U24))",
-            "Mettre un manteau (Conduct a standard medical consultation (U24))",
-            "Quitter le cabinet médical (Conduct a standard medical consultation (U24))"
+            "Enlever le haut de ses vêtements pour un examen clinique du thorax (Conduct a standard medical consultation)",
+            "Enlever uniquement ses chaussures (Conduct a standard medical consultation)",
+            "Mettre un manteau (Conduct a standard medical consultation)",
+            "Quitter le cabinet médical (Conduct a standard medical consultation)"
           ],
           "answerIndex": 0,
           "explanation": "« Jusqu'à la taille » invite le patient à retirer ses vêtements supérieurs pour permettre l'auscultation."
@@ -13263,10 +13263,10 @@
         {
           "prompt": "Que signifie l'instruction posologique « à jeun » sur une boîte de comprimés ?",
           "options": [
-            "Avant d'avoir mangé, l'estomac vide (Understand pharmacological prescriptions (U24))",
-            "Après un banquet copieux (Understand pharmacological prescriptions (U24))",
-            "Pendant que l'on court (Understand pharmacological prescriptions (U24))",
-            "Uniquement à minuit (Understand pharmacological prescriptions (U24))"
+            "Avant d'avoir mangé, l'estomac vide (Understand pharmacological prescriptions)",
+            "Après un banquet copieux (Understand pharmacological prescriptions)",
+            "Pendant que l'on court (Understand pharmacological prescriptions)",
+            "Uniquement à minuit (Understand pharmacological prescriptions)"
           ],
           "answerIndex": 0,
           "explanation": "Prendre un médicament « à jeun » signifie le prendre l'estomac vide, généralement le matin avant le petit-déjeuner."
@@ -13278,10 +13278,10 @@
         {
           "prompt": "Quel terme désigne la version non brevetée et moins onéreuse d'un médicament de marque ?",
           "options": [
-            "un générique (Understand pharmacological prescriptions (U24))",
-            "un placebo (Understand pharmacological prescriptions (U24))",
-            "un antibiotique (Understand pharmacological prescriptions (U24))",
-            "un toxique (Understand pharmacological prescriptions (U24))"
+            "un générique (Understand pharmacological prescriptions)",
+            "un placebo (Understand pharmacological prescriptions)",
+            "un antibiotique (Understand pharmacological prescriptions)",
+            "un toxique (Understand pharmacological prescriptions)"
           ],
           "answerIndex": 0,
           "explanation": "Un « générique » est la copie bioéquivalente d'un médicament dont le brevet est tombé dans le domaine public."
@@ -13294,10 +13294,10 @@
           "type": "multiple-choice",
           "prompt": "Sur une ordonnance, quelle mention interdit au pharmacien de remplacer un princeps par un générique ?",
           "options": [
-            "À renouveler (Understand pharmacological prescriptions (U24))",
-            "Non Substituable (Understand pharmacological prescriptions (U24))",
-            "En vente libre (Understand pharmacological prescriptions (U24))",
-            "Usage externe (Understand pharmacological prescriptions (U24))"
+            "À renouveler (Understand pharmacological prescriptions)",
+            "Non Substituable (Understand pharmacological prescriptions)",
+            "En vente libre (Understand pharmacological prescriptions)",
+            "Usage externe (Understand pharmacological prescriptions)"
           ],
           "answerIndex": 1,
           "explanation": "La mention légale manuscrite « Non Substituable » (NS) impose la délivrance du médicament de marque princeps."
@@ -13372,10 +13372,10 @@
         {
           "prompt": "Quel est le rôle du 'médecin traitant' dans le système de santé français ?",
           "options": [
-            "Coordonner le parcours de soins du patient pour un remboursement optimal (Navigate the French social healthcare system Scurit sociale (U24))",
-            "Effectuer des opérations chirurgicales d'urgence (Navigate the French social healthcare system Scurit sociale (U24))",
-            "Fixer les prix des médicaments en pharmacie (Navigate the French social healthcare system Scurit sociale (U24))",
-            "Gérer le budget des hôpitaux militaires (Navigate the French social healthcare system Scurit sociale (U24))"
+            "Coordonner le parcours de soins du patient pour un remboursement optimal (Navigate the French social healthcare system Scurit sociale)",
+            "Effectuer des opérations chirurgicales d'urgence (Navigate the French social healthcare system Scurit sociale)",
+            "Fixer les prix des médicaments en pharmacie (Navigate the French social healthcare system Scurit sociale)",
+            "Gérer le budget des hôpitaux militaires (Navigate the French social healthcare system Scurit sociale)"
           ],
           "answerIndex": 0,
           "explanation": "Le médecin traitant assure le suivi médical global et oriente vers les spécialistes dans le cadre du parcours de soins coordonnés."
@@ -13387,10 +13387,10 @@
         {
           "prompt": "Que permet le système du « tiers payant » pour l'assuré social ?",
           "options": [
-            "Ne pas avoir à faire l'avance des frais médicaux (Navigate the French social healthcare system Scurit sociale (U24))",
-            "Payer le triple du montant de la consultation (Navigate the French social healthcare system Scurit sociale (U24))",
-            "Consulter sans aucune ordonnance (Navigate the French social healthcare system Scurit sociale (U24))",
-            "Obtenir des médicaments gratuits à vie (Navigate the French social healthcare system Scurit sociale (U24))"
+            "Ne pas avoir à faire l'avance des frais médicaux (Navigate the French social healthcare system Scurit sociale)",
+            "Payer le triple du montant de la consultation (Navigate the French social healthcare system Scurit sociale)",
+            "Consulter sans aucune ordonnance (Navigate the French social healthcare system Scurit sociale)",
+            "Obtenir des médicaments gratuits à vie (Navigate the French social healthcare system Scurit sociale)"
           ],
           "answerIndex": 0,
           "explanation": "Le tiers payant dispense le patient d'avancer la part des frais prise en charge par la Sécurité sociale et la mutuelle."
@@ -13403,10 +13403,10 @@
           "type": "multiple-choice",
           "prompt": "Comment s'appelle la part financière restant à la charge de l'assuré après le remboursement de base de la Sécurité sociale ?",
           "options": [
-            "Le forfait d'hospitalisation de luxe (Navigate the French social healthcare system Scurit sociale (U24))",
-            "La prime de départ (Navigate the French social healthcare system Scurit sociale (U24))",
-            "Le ticket modérateur (Navigate the French social healthcare system Scurit sociale (U24))",
-            "La taxe d'apprentissage (Navigate the French social healthcare system Scurit sociale (U24))"
+            "Le forfait d'hospitalisation de luxe (Navigate the French social healthcare system Scurit sociale)",
+            "La prime de départ (Navigate the French social healthcare system Scurit sociale)",
+            "Le ticket modérateur (Navigate the French social healthcare system Scurit sociale)",
+            "La taxe d'apprentissage (Navigate the French social healthcare system Scurit sociale)"
           ],
           "answerIndex": 2,
           "explanation": "Le « ticket modérateur » est la part des dépenses de santé qui reste à la charge de l'assuré (souvent remboursée par la mutuelle)."
@@ -13481,10 +13481,10 @@
         {
           "prompt": "Quel numéro d'urgence abrégé compose-t-on en France pour joindre directement le SAMU médical ?",
           "options": [
-            "15 (Describe hospital admissions (U24))",
-            "18 (Describe hospital admissions (U24))",
-            "17 (Describe hospital admissions (U24))",
-            "114 (Describe hospital admissions (U24))"
+            "15 (Describe hospital admissions)",
+            "18 (Describe hospital admissions)",
+            "17 (Describe hospital admissions)",
+            "114 (Describe hospital admissions)"
           ],
           "answerIndex": 0,
           "explanation": "Le 15 est le numéro d'urgence médicale gratuit permettant de joindre la régulation du SAMU."
@@ -13496,10 +13496,10 @@
         {
           "prompt": "Que signifie une intervention chirurgicale réalisée en « ambulatoire » ?",
           "options": [
-            "Le patient rentre chez lui le jour même de l'opération sans nuitée d'hôpital (Describe hospital admissions (U24))",
-            "L'opération a lieu dans une ambulance en marche (Describe hospital admissions (U24))",
-            "Le patient reste hospitalisé pendant trois semaines (Describe hospital admissions (U24))",
-            "L'opération est pratiquée sans anesthésie (Describe hospital admissions (U24))"
+            "Le patient rentre chez lui le jour même de l'opération sans nuitée d'hôpital (Describe hospital admissions)",
+            "L'opération a lieu dans une ambulance en marche (Describe hospital admissions)",
+            "Le patient reste hospitalisé pendant trois semaines (Describe hospital admissions)",
+            "L'opération est pratiquée sans anesthésie (Describe hospital admissions)"
           ],
           "answerIndex": 0,
           "explanation": "La chirurgie « ambulatoire » désigne des actes chirurgicaux programmés où l'admission et la sortie ont lieu le même jour."
@@ -13512,10 +13512,10 @@
           "type": "multiple-choice",
           "prompt": "Où est surveillé un patient immédiatement après une opération chirurgicale avant de regagner sa chambre ?",
           "options": [
-            "En salle de réveil (Describe hospital admissions (U24))",
-            "À la cafétéria de l'hôpital (Describe hospital admissions (U24))",
-            "Dans la cour intérieure (Describe hospital admissions (U24))",
-            "Au guichet d'accueil (Describe hospital admissions (U24))"
+            "En salle de réveil (Describe hospital admissions)",
+            "À la cafétéria de l'hôpital (Describe hospital admissions)",
+            "Dans la cour intérieure (Describe hospital admissions)",
+            "Au guichet d'accueil (Describe hospital admissions)"
           ],
           "answerIndex": 0,
           "explanation": "La salle de réveil permet une surveillance post-anesthésique continue des constantes vitales."
@@ -13591,10 +13591,10 @@
         {
           "prompt": "En droit français de la santé, quelle est la règle par défaut concernant le don d'organes après décès ?",
           "options": [
-            "Le consentement présumé (Debate contemporary public health issues (U24))",
-            "L'interdiction absolue de tout prélèvement (Debate contemporary public health issues (U24))",
-            "Le tirage au sort national (Debate contemporary public health issues (U24))",
-            "L'autorisation payante obligatoire (Debate contemporary public health issues (U24))"
+            "Le consentement présumé (Debate contemporary public health issues)",
+            "L'interdiction absolue de tout prélèvement (Debate contemporary public health issues)",
+            "Le tirage au sort national (Debate contemporary public health issues)",
+            "L'autorisation payante obligatoire (Debate contemporary public health issues)"
           ],
           "answerIndex": 0,
           "explanation": "La loi française applique le principe du « consentement présumé » : chacun est présumé donneur sauf inscription sur le registre des refus."
@@ -13606,10 +13606,10 @@
         {
           "prompt": "Comment appelle-t-on les zones géographiques souffrant d'une grave pénurie de praticiens de santé ?",
           "options": [
-            "Les déserts médicaux (Debate contemporary public health issues (U24))",
-            "Les oasis hospitalières (Debate contemporary public health issues (U24))",
-            "Les forêts sanitaires (Debate contemporary public health issues (U24))",
-            "Les réserves cliniques (Debate contemporary public health issues (U24))"
+            "Les déserts médicaux (Debate contemporary public health issues)",
+            "Les oasis hospitalières (Debate contemporary public health issues)",
+            "Les forêts sanitaires (Debate contemporary public health issues)",
+            "Les réserves cliniques (Debate contemporary public health issues)"
           ],
           "answerIndex": 0,
           "explanation": "L'expression consacrée en aménagement du territoire et santé publique est « les déserts médicaux »."
@@ -13622,10 +13622,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle unité de soins est dédiée à l'accompagnement et au soulagement de la douleur des personnes en fin de vie ?",
           "options": [
-            "La maternité (Debate contemporary public health issues (U24))",
-            "Les soins palliatifs (Debate contemporary public health issues (U24))",
-            "La chirurgie esthétique (Debate contemporary public health issues (U24))",
-            "La pédiatrie néonatale (Debate contemporary public health issues (U24))"
+            "La maternité (Debate contemporary public health issues)",
+            "Les soins palliatifs (Debate contemporary public health issues)",
+            "La chirurgie esthétique (Debate contemporary public health issues)",
+            "La pédiatrie néonatale (Debate contemporary public health issues)"
           ],
           "answerIndex": 1,
           "explanation": "Les « soins palliatifs » visent à soulager la douleur physique et la détresse psychologique des patients atteints de maladies graves ou en fin de vie."
@@ -13702,10 +13702,10 @@
         {
           "prompt": "Quel principe fondamental énoncé à l'article 2 du Code civil garantit que les lois ne s'appliquent pas au passé ?",
           "options": [
-            "La non-rétroactivité des lois (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "L'autorité de la chose jugée (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "Le secret professionnel (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "La présomption d'innocence (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))"
+            "La non-rétroactivité des lois (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "L'autorité de la chose jugée (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "Le secret professionnel (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "La présomption d'innocence (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)"
           ],
           "answerIndex": 0,
           "explanation": "L'article 2 dispose : « La loi ne dispose que pour l'avenir ; elle n'a point d'effet rétroactif » (principe de non-rétroactivité)."
@@ -13717,10 +13717,10 @@
         {
           "prompt": "Quelle juridiction suprême de l'ordre judiciaire unifie l'interprétation de la jurisprudence en France ?",
           "options": [
-            "La Cour de cassation (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "Le Conseil d'État (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "Le Tribunal de commerce (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "Le Conseil des prud'hommes (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))"
+            "La Cour de cassation (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "Le Conseil d'État (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "Le Tribunal de commerce (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "Le Conseil des prud'hommes (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)"
           ],
           "answerIndex": 0,
           "explanation": "La Cour de cassation est la juridiction suprême de l'ordre judiciaire français chargée d'unifier la jurisprudence."
@@ -13733,10 +13733,10 @@
           "type": "multiple-choice",
           "prompt": "Au sommet de la hiérarchie des normes en droit français, quel ensemble juridique prime sur toutes les lois ordinaires ?",
           "options": [
-            "Les circulaires administratives (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "Le bloc de constitutionnalité (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "Les arrêtés municipaux (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))",
-            "Les avis doctrinaux (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence (U25))"
+            "Les circulaires administratives (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "Le bloc de constitutionnalité (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "Les arrêtés municipaux (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)",
+            "Les avis doctrinaux (Analyze the architecture of the French Civil Code Code civil and sources of law jurisprudence)"
           ],
           "answerIndex": 1,
           "explanation": "Le « bloc de constitutionnalité » (Constitution de 1958, DDHC de 1789, Préambule de 1946 et Charte de l'environnement) est au sommet absolu de la hiérarchie des normes."
@@ -13811,10 +13811,10 @@
         {
           "prompt": "Quelles sont les trois conditions cumulatives traditionnelles de la force majeure en droit français ?",
           "options": [
-            "Imprévisible, irrésistible et extérieur (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "Secret, rapide et coûteux (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "Oral, informel et négociable (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "Politique, économique et public (Interpret and draft contractual clauses clause rsolutoire (U25))"
+            "Imprévisible, irrésistible et extérieur (Interpret and draft contractual clauses clause rsolutoire)",
+            "Secret, rapide et coûteux (Interpret and draft contractual clauses clause rsolutoire)",
+            "Oral, informel et négociable (Interpret and draft contractual clauses clause rsolutoire)",
+            "Politique, économique et public (Interpret and draft contractual clauses clause rsolutoire)"
           ],
           "answerIndex": 0,
           "explanation": "L'événement de force majeure doit être imprévisible lors de la conclusion, irrésistible dans son exécution, et extérieur aux parties."
@@ -13826,10 +13826,10 @@
         {
           "prompt": "Que stipule une « clause résolutoire » dans un bail ou un contrat commercial ?",
           "options": [
-            "La résiliation automatique du contrat en cas de manquement d'une partie (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "L'obligation de doubler le prix du loyer (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "L'interdiction formelle de quitter le pays (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "Le renouvellement tacite à perpétuité (Interpret and draft contractual clauses clause rsolutoire (U25))"
+            "La résiliation automatique du contrat en cas de manquement d'une partie (Interpret and draft contractual clauses clause rsolutoire)",
+            "L'obligation de doubler le prix du loyer (Interpret and draft contractual clauses clause rsolutoire)",
+            "L'interdiction formelle de quitter le pays (Interpret and draft contractual clauses clause rsolutoire)",
+            "Le renouvellement tacite à perpétuité (Interpret and draft contractual clauses clause rsolutoire)"
           ],
           "answerIndex": 0,
           "explanation": "La clause résolutoire prononce la résiliation automatique de plein droit du contrat dès constatation de l'inexécution d'une obligation."
@@ -13842,10 +13842,10 @@
           "type": "multiple-choice",
           "prompt": "En droit du travail français, quelle condition est obligatoire pour qu'une clause de non-concurrence soit licite et valable ?",
           "options": [
-            "Une durée minimale de vingt ans (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "L'accord du maire de la commune (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "Une contrepartie financière (Interpret and draft contractual clauses clause rsolutoire (U25))",
-            "Une interdiction sur la Terre entière (Interpret and draft contractual clauses clause rsolutoire (U25))"
+            "Une durée minimale de vingt ans (Interpret and draft contractual clauses clause rsolutoire)",
+            "L'accord du maire de la commune (Interpret and draft contractual clauses clause rsolutoire)",
+            "Une contrepartie financière (Interpret and draft contractual clauses clause rsolutoire)",
+            "Une interdiction sur la Terre entière (Interpret and draft contractual clauses clause rsolutoire)"
           ],
           "answerIndex": 2,
           "explanation": "La clause de non-concurrence est nulle sans contrepartie financière versée au salarié lors de son départ."
@@ -13920,10 +13920,10 @@
         {
           "prompt": "Que signifie 'infirmer un jugement' pour une Cour d'appel ?",
           "options": [
-            "Annuler ou réformer la décision prise en première instance (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "Confirmer entièrement la décision (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "Envoyer le dossier à la police (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "Refuser d'ouvrir le dossier (Navigate French civil and criminal judicial proceedings assignation (U25))"
+            "Annuler ou réformer la décision prise en première instance (Navigate French civil and criminal judicial proceedings assignation)",
+            "Confirmer entièrement la décision (Navigate French civil and criminal judicial proceedings assignation)",
+            "Envoyer le dossier à la police (Navigate French civil and criminal judicial proceedings assignation)",
+            "Refuser d'ouvrir le dossier (Navigate French civil and criminal judicial proceedings assignation)"
           ],
           "answerIndex": 0,
           "explanation": "Une Cour d'appel « infirme » un jugement lorsqu'elle annule ou modifie la décision des premiers juges (le contraire de 'confirmer')."
@@ -13935,10 +13935,10 @@
         {
           "prompt": "Quelle est la mission fondamentale de la Cour de cassation ?",
           "options": [
-            "Vérifier la bonne application du droit sans rejuger les faits du litige (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "Réentendre tous les témoins et mener des perquisitions (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "Rédiger les lois à la place du Parlement (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "Fixer le montant des amendes de stationnement (Navigate French civil and criminal judicial proceedings assignation (U25))"
+            "Vérifier la bonne application du droit sans rejuger les faits du litige (Navigate French civil and criminal judicial proceedings assignation)",
+            "Réentendre tous les témoins et mener des perquisitions (Navigate French civil and criminal judicial proceedings assignation)",
+            "Rédiger les lois à la place du Parlement (Navigate French civil and criminal judicial proceedings assignation)",
+            "Fixer le montant des amendes de stationnement (Navigate French civil and criminal judicial proceedings assignation)"
           ],
           "answerIndex": 0,
           "explanation": "La Cour de cassation est juge du droit : elle vérifie la conformité légale des décisions sans réexaminer les éléments factuels."
@@ -13951,10 +13951,10 @@
           "type": "multiple-choice",
           "prompt": "Devant une juridiction pénale, comment s'appelle le discours par lequel le Procureur requiert l'application de la peine ?",
           "options": [
-            "La plaidoirie de la défense (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "L'assignation en référé (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "Le réquisitoire (Navigate French civil and criminal judicial proceedings assignation (U25))",
-            "Le constat d'huissier (Navigate French civil and criminal judicial proceedings assignation (U25))"
+            "La plaidoirie de la défense (Navigate French civil and criminal judicial proceedings assignation)",
+            "L'assignation en référé (Navigate French civil and criminal judicial proceedings assignation)",
+            "Le réquisitoire (Navigate French civil and criminal judicial proceedings assignation)",
+            "Le constat d'huissier (Navigate French civil and criminal judicial proceedings assignation)"
           ],
           "answerIndex": 2,
           "explanation": "Le « réquisitoire » est l'intervention orale du ministère public demandant l'application de la loi et de la sanction pénale."
@@ -14029,10 +14029,10 @@
         {
           "prompt": "Quels sont les trois éléments cumulatifs indispensables pour engager la responsabilité civile délictuelle ?",
           "options": [
-            "Une faute, un préjudice et un lien de causalité direct (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "Un contrat écrit, une signature et un témoin (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "Une amende, une peine de prison et un casier (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "Un appel, un pourvoi et un arrêt (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))"
+            "Une faute, un préjudice et un lien de causalité direct (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "Un contrat écrit, une signature et un témoin (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "Une amende, une peine de prison et un casier (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "Un appel, un pourvoi et un arrêt (Understand tort liability and civil responsibility responsabilit dlictuelle)"
           ],
           "answerIndex": 0,
           "explanation": "La responsabilité extracontractuelle exige cumulativement : un fait générateur (faute), un dommage (préjudice certain), et un lien de causalité direct."
@@ -14044,10 +14044,10 @@
         {
           "prompt": "Que vise le principe de « réparation intégrale » en droit civil français ?",
           "options": [
-            "Replacer la victime dans l'état exact où elle serait sans le dommage (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "Enrichir la victime aux dépens de l'auteur (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "Punir l'auteur par une peine d'emprisonnement automatique (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "Diviser les dommages par deux de manière systématique (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))"
+            "Replacer la victime dans l'état exact où elle serait sans le dommage (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "Enrichir la victime aux dépens de l'auteur (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "Punir l'auteur par une peine d'emprisonnement automatique (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "Diviser les dommages par deux de manière systématique (Understand tort liability and civil responsibility responsabilit dlictuelle)"
           ],
           "answerIndex": 0,
           "explanation": "La réparation intégrale remet la victime dans la situation exacte où elle se serait trouvée sans le dommage, sans perte ni enrichissement sans cause."
@@ -14060,10 +14060,10 @@
           "type": "multiple-choice",
           "prompt": "Quel terme juridique latin désigne l'indemnisation spécifique des souffrances physiques et morales endurées par une victime corporelle ?",
           "options": [
-            "Le pretium doloris (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "L'habeas corpus (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "L'in dubio pro reo (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))",
-            "L'ad valorem (Understand tort liability and civil responsibility responsabilit dlictuelle (U25))"
+            "Le pretium doloris (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "L'habeas corpus (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "L'in dubio pro reo (Understand tort liability and civil responsibility responsabilit dlictuelle)",
+            "L'ad valorem (Understand tort liability and civil responsibility responsabilit dlictuelle)"
           ],
           "answerIndex": 0,
           "explanation": "Le « pretium doloris » (prix de la douleur) indemnise spécifiquement les souffrances physiques et psychiques endurées."
@@ -14138,10 +14138,10 @@
         {
           "prompt": "Dans le syllogisme juridique, que constitue la « majeure » ?",
           "options": [
-            "L'énoncé de la règle de droit générale et abstraite (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "L'exposé des faits concrets (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "La décision finale du juge (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "La facture des honoraires (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))"
+            "L'énoncé de la règle de droit générale et abstraite (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "L'exposé des faits concrets (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "La décision finale du juge (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "La facture des honoraires (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)"
           ],
           "answerIndex": 0,
           "explanation": "La « majeure » est la proposition de principe énonçant la règle de droit (loi ou jurisprudence applicable)."
@@ -14153,10 +14153,10 @@
         {
           "prompt": "Que signifie plaider « à titre subsidiaire » dans des conclusions d'avocat ?",
           "options": [
-            "Présenter un argument de repli au cas où la demande principale serait rejetée (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "Demander l'aide financière de l'État (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "Plaider en secret sans public (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "Abandonner toute poursuite judiciaire (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))"
+            "Présenter un argument de repli au cas où la demande principale serait rejetée (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "Demander l'aide financière de l'État (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "Plaider en secret sans public (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "Abandonner toute poursuite judiciaire (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)"
           ],
           "answerIndex": 0,
           "explanation": "« À titre subsidiaire » introduit une demande de substitution examinée si la demande principale (« à titre principal ») n'est pas retenue."
@@ -14169,10 +14169,10 @@
           "type": "multiple-choice",
           "prompt": "Dans une consultation juridique, quelle formule consacre l'examen des faits précis de l'affaire étudiée ?",
           "options": [
-            "En l'espèce... (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "Par miracle... (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "Il était une fois... (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))",
-            "Sans aucun doute possible... (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario (U25))"
+            "En l'espèce... (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "Par miracle... (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "Il était une fois... (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)",
+            "Sans aucun doute possible... (Draft a formal legal opinion consultation juridique resolving a complex dispute scenario)"
           ],
           "answerIndex": 0,
           "explanation": "La locution « En l'espèce » (ou « Au cas particulier ») marque la transition vers l'application des faits réels dans la mineure du syllogisme."
@@ -14247,10 +14247,10 @@
         {
           "prompt": "Quelle institution statistique officielle calcule l'inflation et le taux de chômage en France ?",
           "options": [
-            "L'INSEE (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "La Cour des comptes (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "Le Conseil d'État (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "Le Sénat (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))"
+            "L'INSEE (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "La Cour des comptes (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "Le Conseil d'État (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "Le Sénat (Discuss macroeconomic metrics and structural fiscal policies PIB)"
           ],
           "answerIndex": 0,
           "explanation": "L'INSEE est l'organisme officiel français chargé de la collecte, de l'analyse et de la diffusion des statistiques économiques et sociales."
@@ -14262,10 +14262,10 @@
         {
           "prompt": "Que signifie relever les « taux directeurs » pour une banque centrale ?",
           "options": [
-            "Augmenter le coût du crédit pour freiner l'inflation et ralentir la création monétaire (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "Distribuer des billets de banque gratuitement dans la rue (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "Fixer le salaire minimum des fonctionnaires (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "Supprimer les impôts sur le revenu (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))"
+            "Augmenter le coût du crédit pour freiner l'inflation et ralentir la création monétaire (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "Distribuer des billets de banque gratuitement dans la rue (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "Fixer le salaire minimum des fonctionnaires (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "Supprimer les impôts sur le revenu (Discuss macroeconomic metrics and structural fiscal policies PIB)"
           ],
           "answerIndex": 0,
           "explanation": "La hausse des taux directeurs renchérit le coût du refinancement bancaire, ce qui freine le crédit et tempère l'inflation."
@@ -14278,10 +14278,10 @@
           "type": "multiple-choice",
           "prompt": "Comment s'appelle l'indicateur synthétique mesurant la valeur marchande de l'ensemble des biens et services produits dans un pays en un an ?",
           "options": [
-            "Le Produit Intérieur Brut (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "Le Taux Marginal d'Imposition (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "L'Excédent Brut d'Exploitation (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))",
-            "L'Acompte Provisionnel (Discuss macroeconomic metrics and structural fiscal policies PIB (U26))"
+            "Le Produit Intérieur Brut (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "Le Taux Marginal d'Imposition (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "L'Excédent Brut d'Exploitation (Discuss macroeconomic metrics and structural fiscal policies PIB)",
+            "L'Acompte Provisionnel (Discuss macroeconomic metrics and structural fiscal policies PIB)"
           ],
           "answerIndex": 0,
           "explanation": "Le PIB (Produit Intérieur Brut) est l'indicateur macroéconomique de référence de la production de richesse nationale."
@@ -14357,10 +14357,10 @@
         {
           "prompt": "Dans le compte de résultat, quel solde intermédiaire de gestion correspond au bénéfice brut généré par l'exploitation avant amortissements (équivalent de l'EBITDA) ?",
           "options": [
-            "L'Excédent Brut d'Exploitation (Analyze corporate balance sheets (U26))",
-            "La Valeur Vénale (Analyze corporate balance sheets (U26))",
-            "Le Chiffre d'Affaires Brut (Analyze corporate balance sheets (U26))",
-            "L'Avoir Fiscal (Analyze corporate balance sheets (U26))"
+            "L'Excédent Brut d'Exploitation (Analyze corporate balance sheets)",
+            "La Valeur Vénale (Analyze corporate balance sheets)",
+            "Le Chiffre d'Affaires Brut (Analyze corporate balance sheets)",
+            "L'Avoir Fiscal (Analyze corporate balance sheets)"
           ],
           "answerIndex": 0,
           "explanation": "L'EBE (Excédent Brut d'Exploitation) mesure la ressource brute d'exploitation tirée du cycle d'activité de l'entreprise avant dotations aux amortissements."
@@ -14373,9 +14373,9 @@
           "prompt": "Que mesure le « BFR » (Besoin en Fonds de Roulement) d'une entreprise ?",
           "options": [
             "Le décalage de trésorerie entre les décaissements (stocks/fournisseurs)",
-            "Le montant total des salaires payés aux dirigeants (Analyze corporate balance sheets (U26))",
-            "Le nombre d'ordinateurs achetés dans l'année (Analyze corporate balance sheets (U26))",
-            "La valeur du bâtiment du siège social (Analyze corporate balance sheets (U26))"
+            "Le montant total des salaires payés aux dirigeants (Analyze corporate balance sheets)",
+            "Le nombre d'ordinateurs achetés dans l'année (Analyze corporate balance sheets)",
+            "La valeur du bâtiment du siège social (Analyze corporate balance sheets)"
           ],
           "answerIndex": 0,
           "explanation": "Le BFR représente le montant net nécessaire pour combler le décalage temporel entre dépenses d'exploitation et encaissements des ventes."
@@ -14388,10 +14388,10 @@
           "type": "multiple-choice",
           "prompt": "Dans un bilan comptable français, où figurent les capitaux propres et les dettes financières ?",
           "options": [
-            "À l'Actif (Analyze corporate balance sheets (U26))",
-            "Au Passif (Analyze corporate balance sheets (U26))",
-            "En annexe 39 (Analyze corporate balance sheets (U26))",
-            "Dans le journal des ventes (Analyze corporate balance sheets (U26))"
+            "À l'Actif (Analyze corporate balance sheets)",
+            "Au Passif (Analyze corporate balance sheets)",
+            "En annexe 39 (Analyze corporate balance sheets)",
+            "Dans le journal des ventes (Analyze corporate balance sheets)"
           ],
           "answerIndex": 1,
           "explanation": "Le Passif regroupe les ressources financières de l'entreprise : les capitaux propres et l'ensemble des dettes."
@@ -14467,10 +14467,10 @@
         {
           "prompt": "Quel est le principal indice boursier de la place financière de Paris ?",
           "options": [
-            "Le CAC 40 (Debate capital market dynamics (U26))",
-            "Le Dow Jones (Debate capital market dynamics (U26))",
-            "Le Nikkei 225 (Debate capital market dynamics (U26))",
-            "Le DAX 40 (Debate capital market dynamics (U26))"
+            "Le CAC 40 (Debate capital market dynamics)",
+            "Le Dow Jones (Debate capital market dynamics)",
+            "Le Nikkei 225 (Debate capital market dynamics)",
+            "Le DAX 40 (Debate capital market dynamics)"
           ],
           "answerIndex": 0,
           "explanation": "Le CAC 40 est l'indice phare de la Bourse de Paris regroupant quarante des plus grandes capitalisations françaises."
@@ -14482,10 +14482,10 @@
         {
           "prompt": "Comment s'appellent les obligations d'État émises par le Trésor public français ?",
           "options": [
-            "Les OAT (Debate capital market dynamics (U26))",
-            "Les Bunds (Debate capital market dynamics (U26))",
-            "Les Gilts (Debate capital market dynamics (U26))",
-            "Les T-Bonds (Debate capital market dynamics (U26))"
+            "Les OAT (Debate capital market dynamics)",
+            "Les Bunds (Debate capital market dynamics)",
+            "Les Gilts (Debate capital market dynamics)",
+            "Les T-Bonds (Debate capital market dynamics)"
           ],
           "answerIndex": 0,
           "explanation": "Les titres de créance à long terme émis par l'État français s'appellent les « OAT » (Obligations Assimilables du Trésor)."
@@ -14498,10 +14498,10 @@
           "type": "multiple-choice",
           "prompt": "Quel gendarme financier indépendant régule et contrôle les marchés boursiers en France ?",
           "options": [
-            "La Brigade financière (Debate capital market dynamics (U26))",
-            "L'AMF (Debate capital market dynamics (U26))",
-            "L'Ordre des Avocats (Debate capital market dynamics (U26))",
-            "Le Conseil Constitutionnel (Debate capital market dynamics (U26))"
+            "La Brigade financière (Debate capital market dynamics)",
+            "L'AMF (Debate capital market dynamics)",
+            "L'Ordre des Avocats (Debate capital market dynamics)",
+            "Le Conseil Constitutionnel (Debate capital market dynamics)"
           ],
           "answerIndex": 1,
           "explanation": "L'AMF (Autorité des Marchés Financiers) est l'autorité publique indépendante veillant à la protection de l'épargne et au bon fonctionnement des marchés."
@@ -14577,10 +14577,10 @@
         {
           "prompt": "Quel terme désigne l'investissement en fonds propres dans de jeunes entreprises innovantes à fort potentiel de croissance ?",
           "options": [
-            "Le capital-risque (Evaluate banking regulations (U26))",
-            "Le livret A (Evaluate banking regulations (U26))",
-            "Le crédit hypothécaire (Evaluate banking regulations (U26))",
-            "Le découvert bancaire (Evaluate banking regulations (U26))"
+            "Le capital-risque (Evaluate banking regulations)",
+            "Le livret A (Evaluate banking regulations)",
+            "Le crédit hypothécaire (Evaluate banking regulations)",
+            "Le découvert bancaire (Evaluate banking regulations)"
           ],
           "answerIndex": 0,
           "explanation": "Le « capital-risque » (ou capital-innovation) finance le démarrage et le premier développement des startups technologiques."
@@ -14592,10 +14592,10 @@
         {
           "prompt": "Quel organisme supervise la solvabilité et la solidité des banques et assurances en France ?",
           "options": [
-            "L'ACPR (Evaluate banking regulations (U26))",
-            "La DGCCRF (Evaluate banking regulations (U26))",
-            "Pôle Emploi (Evaluate banking regulations (U26))",
-            "Le Ministère de la Culture (Evaluate banking regulations (U26))"
+            "L'ACPR (Evaluate banking regulations)",
+            "La DGCCRF (Evaluate banking regulations)",
+            "Pôle Emploi (Evaluate banking regulations)",
+            "Le Ministère de la Culture (Evaluate banking regulations)"
           ],
           "answerIndex": 0,
           "explanation": "L'ACPR, adossée à la Banque de France, est chargée de surveiller la solidité financière et la conformité des banques et assurances."
@@ -14608,10 +14608,10 @@
           "type": "multiple-choice",
           "prompt": "Comment qualifie-t-on une startup non cotée dont la valorisation dépasse le milliard de dollars ?",
           "options": [
-            "Une licorne (Evaluate banking regulations (U26))",
-            "Une fourmi (Evaluate banking regulations (U26))",
-            "Une micro-entreprise (Evaluate banking regulations (U26))",
-            "Une SARL familiale (Evaluate banking regulations (U26))"
+            "Une licorne (Evaluate banking regulations)",
+            "Une fourmi (Evaluate banking regulations)",
+            "Une micro-entreprise (Evaluate banking regulations)",
+            "Une SARL familiale (Evaluate banking regulations)"
           ],
           "answerIndex": 0,
           "explanation": "Une « licorne » désigne une startup technologique non cotée valorisée à plus d'un milliard de dollars."
@@ -14686,10 +14686,10 @@
         {
           "prompt": "Comment qualifie-t-on en économie le ralentissement contrôlé de l'activité permettant d'éviter une récession brutale ?",
           "options": [
-            "Un atterrissage en douceur (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "Un krach boursier (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "Une dévaluation sauvage (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "Une liquidation générale (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))"
+            "Un atterrissage en douceur (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "Un krach boursier (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "Une dévaluation sauvage (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "Une liquidation générale (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)"
           ],
           "answerIndex": 0,
           "explanation": "« Un atterrissage en douceur » (soft landing) désigne un ralentissement modéré ramenant l'inflation à la cible sans provoquer de récession sévère."
@@ -14701,10 +14701,10 @@
         {
           "prompt": "Que désigne le « scénario central » dans un rapport d'analyse prospective ?",
           "options": [
-            "L'hypothèse jugée la plus probable et servant de référence principale (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "La pire catastrophe imaginable (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "Le scénario impossible (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "L'avis d'une personne isolée (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))"
+            "L'hypothèse jugée la plus probable et servant de référence principale (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "La pire catastrophe imaginable (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "Le scénario impossible (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "L'avis d'une personne isolée (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)"
           ],
           "answerIndex": 0,
           "explanation": "Le « scénario central » (baseline scenario) est la projection de référence considérée comme la plus vraisemblable par les analystes."
@@ -14717,10 +14717,10 @@
           "type": "multiple-choice",
           "prompt": "En macroéconomie, comment définit-on une 'récession technique' ?",
           "options": [
-            "Une panne informatique à la Bourse (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "Une baisse des salaires pendant dix ans (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "Au moins deux trimestres consécutifs de recul du PIB (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))",
-            "Une fermeture des banques le dimanche (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report (U26))"
+            "Une panne informatique à la Bourse (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "Une baisse des salaires pendant dix ans (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "Au moins deux trimestres consécutifs de recul du PIB (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)",
+            "Une fermeture des banques le dimanche (Conduct a comprehensive economic analysis and macroeconomic trend synthesis report)"
           ],
           "answerIndex": 2,
           "explanation": "La définition économique standard d'une « récession technique » est une contraction du PIB pendant au moins deux trimestres consécutifs."
@@ -14797,10 +14797,10 @@
         {
           "prompt": "Dans quelle focalisation le narrateur connaît-il toutes les pensées, le passé et l'avenir de chaque personnage ?",
           "options": [
-            "La focalisation zéro (Analyze French narrative techniques (U27))",
-            "La focalisation externe (Analyze French narrative techniques (U27))",
-            "La focalisation subjective (Analyze French narrative techniques (U27))",
-            "La focalisation latérale (Analyze French narrative techniques (U27))"
+            "La focalisation zéro (Analyze French narrative techniques)",
+            "La focalisation externe (Analyze French narrative techniques)",
+            "La focalisation subjective (Analyze French narrative techniques)",
+            "La focalisation latérale (Analyze French narrative techniques)"
           ],
           "answerIndex": 0,
           "explanation": "La « focalisation zéro » caractérise le narrateur omniscient qui sait tout de l'histoire et de l'intériorité de tous les personnages."
@@ -14812,10 +14812,10 @@
         {
           "prompt": "Quelle est la particularité du « style indirect libre » ?",
           "options": [
-            "Il rapporte les pensées au passé sans verbe introducteur (Analyze French narrative techniques (U27))",
-            "Il oblige à rimer à chaque fin de phrase (Analyze French narrative techniques (U27))",
-            "Il utilise uniquement des majuscules (Analyze French narrative techniques (U27))",
-            "Il traduit le texte en latin classique (Analyze French narrative techniques (U27))"
+            "Il rapporte les pensées au passé sans verbe introducteur (Analyze French narrative techniques)",
+            "Il oblige à rimer à chaque fin de phrase (Analyze French narrative techniques)",
+            "Il utilise uniquement des majuscules (Analyze French narrative techniques)",
+            "Il traduit le texte en latin classique (Analyze French narrative techniques)"
           ],
           "answerIndex": 0,
           "explanation": "Le style indirect libre intègre les paroles ou pensées du personnage directement dans le récit sans subordonnée ni verbe déclaratif."
@@ -14828,10 +14828,10 @@
           "type": "multiple-choice",
           "prompt": "En narratologie littéraire, comment appelle-t-on un retour en arrière temporel dans le récit (un flashback) ?",
           "options": [
-            "Une anaphore (Analyze French narrative techniques (U27))",
-            "Une analepse (Analyze French narrative techniques (U27))",
-            "Une apostrophe (Analyze French narrative techniques (U27))",
-            "Une allégorie (Analyze French narrative techniques (U27))"
+            "Une anaphore (Analyze French narrative techniques)",
+            "Une analepse (Analyze French narrative techniques)",
+            "Une apostrophe (Analyze French narrative techniques)",
+            "Une allégorie (Analyze French narrative techniques)"
           ],
           "answerIndex": 1,
           "explanation": "L'« analepse » est la figure narrative désignant un saut en arrière dans la chronologie diégétique."
@@ -14908,10 +14908,10 @@
         {
           "prompt": "Combien de syllabes compte un vers alexandrin classique dans la poésie française ?",
           "options": [
-            "12 syllabes (Identify classical and modern poetic forms (U27))",
-            "10 syllabes (Identify classical and modern poetic forms (U27))",
-            "8 syllabes (Identify classical and modern poetic forms (U27))",
-            "14 syllabes (Identify classical and modern poetic forms (U27))"
+            "12 syllabes (Identify classical and modern poetic forms)",
+            "10 syllabes (Identify classical and modern poetic forms)",
+            "8 syllabes (Identify classical and modern poetic forms)",
+            "14 syllabes (Identify classical and modern poetic forms)"
           ],
           "answerIndex": 0,
           "explanation": "L'alexandrin classique est un vers noble composé de 12 syllabes, traditionnellement séparé en deux hémistiches de 6 syllabes par une césure."
@@ -14923,10 +14923,10 @@
         {
           "prompt": "Quelle figure de style unit deux termes de sens opposés dans un même groupe de mots (ex. 'un silence assourdissant') ?",
           "options": [
-            "L'oxymore (Identify classical and modern poetic forms (U27))",
-            "L'hyperbole (Identify classical and modern poetic forms (U27))",
-            "La litote (Identify classical and modern poetic forms (U27))",
-            "L'euphémisme (Identify classical and modern poetic forms (U27))"
+            "L'oxymore (Identify classical and modern poetic forms)",
+            "L'hyperbole (Identify classical and modern poetic forms)",
+            "La litote (Identify classical and modern poetic forms)",
+            "L'euphémisme (Identify classical and modern poetic forms)"
           ],
           "answerIndex": 0,
           "explanation": "L'oxymore juxtapose deux termes contraires pour créer un contraste saisissant."
@@ -14939,10 +14939,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle figure de style consiste en une répétition délibérée du même mot au début de phrases ou de vers successifs ?",
           "options": [
-            "L'anaphore (Identify classical and modern poetic forms (U27))",
-            "L'ellipse (Identify classical and modern poetic forms (U27))",
-            "La métonymie (Identify classical and modern poetic forms (U27))",
-            "La périphrase (Identify classical and modern poetic forms (U27))"
+            "L'anaphore (Identify classical and modern poetic forms)",
+            "L'ellipse (Identify classical and modern poetic forms)",
+            "La métonymie (Identify classical and modern poetic forms)",
+            "La périphrase (Identify classical and modern poetic forms)"
           ],
           "answerIndex": 0,
           "explanation": "L'« anaphore » est la répétition d'un même mot ou membre de phrase en tête de vers ou de propositions."
@@ -15019,10 +15019,10 @@
         {
           "prompt": "Quelle revue critique française fondée par André Bazin a théorisé la 'Politique des Auteurs' ?",
           "options": [
-            "Les Cahiers du Cinéma (Examine French cinematic aesthetics (U27))",
-            "Le Canard Enchaîné (Examine French cinematic aesthetics (U27))",
-            "Paris Match (Examine French cinematic aesthetics (U27))",
-            "Télérama (Examine French cinematic aesthetics (U27))"
+            "Les Cahiers du Cinéma (Examine French cinematic aesthetics)",
+            "Le Canard Enchaîné (Examine French cinematic aesthetics)",
+            "Paris Match (Examine French cinematic aesthetics)",
+            "Télérama (Examine French cinematic aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "Les « Cahiers du Cinéma » est la revue mythique où Truffaut, Godard et Rohmer ont forgé la théorie de la politique des auteurs."
@@ -15034,10 +15034,10 @@
         {
           "prompt": "Quelle technique de tournage est emblématique des cinéastes de la Nouvelle Vague ?",
           "options": [
-            "Le tournage en extérieur dans la rue avec caméra légère et lumière naturelle (Examine French cinematic aesthetics (U27))",
-            "L'animation 3D par ordinateur uniquement (Examine French cinematic aesthetics (U27))",
-            "Le doublage intégral en studio sans aucun acteur filmé (Examine French cinematic aesthetics (U27))",
-            "L'interdiction des mouvements de caméra (Examine French cinematic aesthetics (U27))"
+            "Le tournage en extérieur dans la rue avec caméra légère et lumière naturelle (Examine French cinematic aesthetics)",
+            "L'animation 3D par ordinateur uniquement (Examine French cinematic aesthetics)",
+            "Le doublage intégral en studio sans aucun acteur filmé (Examine French cinematic aesthetics)",
+            "L'interdiction des mouvements de caméra (Examine French cinematic aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "La Nouvelle Vague est célèbre pour être sortie des studios afin de tourner dans les rues de Paris en caméra portée et lumière naturelle."
@@ -15050,10 +15050,10 @@
           "type": "multiple-choice",
           "prompt": "Comment s'appelle une prise de vue continue et prolongée, sans aucune coupe de montage, englobant toute une scène ?",
           "options": [
-            "Un jump cut (Examine French cinematic aesthetics (U27))",
-            "Un fondu au noir (Examine French cinematic aesthetics (U27))",
-            "Un plan-séquence (Examine French cinematic aesthetics (U27))",
-            "Un flash-back (Examine French cinematic aesthetics (U27))"
+            "Un jump cut (Examine French cinematic aesthetics)",
+            "Un fondu au noir (Examine French cinematic aesthetics)",
+            "Un plan-séquence (Examine French cinematic aesthetics)",
+            "Un flash-back (Examine French cinematic aesthetics)"
           ],
           "answerIndex": 2,
           "explanation": "Un « plan-séquence » est une scène entière tournée en un seul plan continu sans interruption de montage."
@@ -15131,10 +15131,10 @@
         {
           "prompt": "Comment appelle-t-on les indications scéniques écrites par le dramaturge pour guider le jeu des acteurs et la mise en scène ?",
           "options": [
-            "Les didascalies (Dissect dramatic theater conventions (U27))",
-            "Les réquisitoires (Dissect dramatic theater conventions (U27))",
-            "Les apartés (Dissect dramatic theater conventions (U27))",
-            "Les strophes (Dissect dramatic theater conventions (U27))"
+            "Les didascalies (Dissect dramatic theater conventions)",
+            "Les réquisitoires (Dissect dramatic theater conventions)",
+            "Les apartés (Dissect dramatic theater conventions)",
+            "Les strophes (Dissect dramatic theater conventions)"
           ],
           "answerIndex": 0,
           "explanation": "Les « didascalies » sont les indications de jeu, de décor et de gestes fournies par l'auteur dans le texte théâtral."
@@ -15146,10 +15146,10 @@
         {
           "prompt": "Quelle est la différence fondamentale entre une 'tirade' et un 'monologue' au théâtre ?",
           "options": [
-            "La tirade s'adresse à d'autres personnages présents sur scène, tandis que le monologue est prononcé par un personnage seul (Dissect dramatic theater conventions (U27))",
-            "La tirade est toujours chantée en latin (Dissect dramatic theater conventions (U27))",
-            "Le monologue est dit à voix basse par le souffleur (Dissect dramatic theater conventions (U27))",
-            "Il n'y a aucune différence (Dissect dramatic theater conventions (U27))"
+            "La tirade s'adresse à d'autres personnages présents sur scène, tandis que le monologue est prononcé par un personnage seul (Dissect dramatic theater conventions)",
+            "La tirade est toujours chantée en latin (Dissect dramatic theater conventions)",
+            "Le monologue est dit à voix basse par le souffleur (Dissect dramatic theater conventions)",
+            "Il n'y a aucune différence (Dissect dramatic theater conventions)"
           ],
           "answerIndex": 0,
           "explanation": "La tirade est un long discours adressé aux autres personnages en scène, alors que le monologue est prononcé en étant seul sur le plateau."
@@ -15162,10 +15162,10 @@
           "type": "multiple-choice",
           "prompt": "Selon la poétique classique aristotélicienne, quel effet de purgation des passions (terreur et pitié) la tragédie doit-elle provoquer chez le spectateur ?",
           "options": [
-            "L'amnésie (Dissect dramatic theater conventions (U27))",
-            "L'hypnose (Dissect dramatic theater conventions (U27))",
-            "La catharsis (Dissect dramatic theater conventions (U27))",
-            "La dissonance cognitive (Dissect dramatic theater conventions (U27))"
+            "L'amnésie (Dissect dramatic theater conventions)",
+            "L'hypnose (Dissect dramatic theater conventions)",
+            "La catharsis (Dissect dramatic theater conventions)",
+            "La dissonance cognitive (Dissect dramatic theater conventions)"
           ],
           "answerIndex": 2,
           "explanation": "La « catharsis » est la libération émotionnelle et morale provoquée par le spectacle tragique."
@@ -15241,10 +15241,10 @@
         {
           "prompt": "Quelle est la règle d'or d'une sous-partie réussie dans un commentaire de texte français ?",
           "options": [
-            "Associer systématiquement une citation du texte à une analyse stylistique et à une interprétation du sens (Write an advanced (U27))",
-            "Raconter la vie entière de l'auteur sans citer le texte (Write an advanced (U27))",
-            "Écrire tout le devoir sous forme de poème en rimes (Write an advanced (U27))",
-            "Donner uniquement son avis personnel sans analyser la forme (Write an advanced (U27))"
+            "Associer systématiquement une citation du texte à une analyse stylistique et à une interprétation du sens (Write an advanced)",
+            "Raconter la vie entière de l'auteur sans citer le texte (Write an advanced)",
+            "Écrire tout le devoir sous forme de poème en rimes (Write an advanced)",
+            "Donner uniquement son avis personnel sans analyser la forme (Write an advanced)"
           ],
           "answerIndex": 0,
           "explanation": "Le commentaire composé repose sur le triptyque inséparable : Idée + Citation précise + Analyse stylistique et interprétative."
@@ -15256,10 +15256,10 @@
         {
           "prompt": "Que doit comporter l'ouverture (l'élargissement) à la toute fin d'une conclusion littéraire ?",
           "options": [
-            "Un prolongement vers une autre œuvre, un mouvement artistique ou un thème connexe (Write an advanced (U27))",
-            "Une liste de fautes d'orthographe (Write an advanced (U27))",
-            "La note que l'on espère obtenir (Write an advanced (U27))",
-            "Le résumé du premier paragraphe mot pour mot (Write an advanced (U27))"
+            "Un prolongement vers une autre œuvre, un mouvement artistique ou un thème connexe (Write an advanced)",
+            "Une liste de fautes d'orthographe (Write an advanced)",
+            "La note que l'on espère obtenir (Write an advanced)",
+            "Le résumé du premier paragraphe mot pour mot (Write an advanced)"
           ],
           "answerIndex": 0,
           "explanation": "L'ouverture élargit la réflexion en établissant un pont avec une autre œuvre, un courant littéraire ou une résonance culturelle."
@@ -15272,10 +15272,10 @@
           "type": "multiple-choice",
           "prompt": "Dans l'introduction d'un commentaire composé, comment s'appelle la question centrale guidant toute l'analyse ?",
           "options": [
-            "La didascalie (Write an advanced (U27))",
-            "La problématique (Write an advanced (U27))",
-            "L'hémistiche (Write an advanced (U27))",
-            "L'assignation (Write an advanced (U27))"
+            "La didascalie (Write an advanced)",
+            "La problématique (Write an advanced)",
+            "L'hémistiche (Write an advanced)",
+            "L'assignation (Write an advanced)"
           ],
           "answerIndex": 1,
           "explanation": "La « problématique » est la question directrice posée en introduction pour orienter l'interprétation esthétique du texte."
@@ -15350,10 +15350,10 @@
         {
           "prompt": "Quel est le rôle du GIEC (IPCC) au niveau international ?",
           "options": [
-            "Synthétiser les connaissances scientifiques mondiales sur le changement climatique (Debate climate change mechanisms (U28))",
-            "Vendre des voitures électriques sur le marché (Debate climate change mechanisms (U28))",
-            "Construire des barrages hydroélectriques (Debate climate change mechanisms (U28))",
-            "Percevoir des taxes sur les carburants (Debate climate change mechanisms (U28))"
+            "Synthétiser les connaissances scientifiques mondiales sur le changement climatique (Debate climate change mechanisms)",
+            "Vendre des voitures électriques sur le marché (Debate climate change mechanisms)",
+            "Construire des barrages hydroélectriques (Debate climate change mechanisms)",
+            "Percevoir des taxes sur les carburants (Debate climate change mechanisms)"
           ],
           "answerIndex": 0,
           "explanation": "Le GIEC évalue et synthétise de manière rigoureuse les publications scientifiques internationales consacrées à l'évolution du climat."
@@ -15365,10 +15365,10 @@
         {
           "prompt": "Que désigne un « puits de carbone » en écologie ?",
           "options": [
-            "Un réservoir naturel (Debate climate change mechanisms (U28))",
-            "Une mine désaffectée de charbon (Debate climate change mechanisms (U28))",
-            "Une usine de raffinage pétrolier (Debate climate change mechanisms (U28))",
-            "Un trou profond foré pour chercher du gaz (Debate climate change mechanisms (U28))"
+            "Un réservoir naturel (Debate climate change mechanisms)",
+            "Une mine désaffectée de charbon (Debate climate change mechanisms)",
+            "Une usine de raffinage pétrolier (Debate climate change mechanisms)",
+            "Un trou profond foré pour chercher du gaz (Debate climate change mechanisms)"
           ],
           "answerIndex": 0,
           "explanation": "Un puits de carbone est un écosystème naturel (comme les forêts et océans) capturant et stockant durablement le dioxyde de carbone."
@@ -15381,10 +15381,10 @@
           "type": "multiple-choice",
           "prompt": "Quel principal gaz à effet de serre d'origine humaine résulte de la combustion des énergies fossiles ?",
           "options": [
-            "Le dioxyde de carbone (Debate climate change mechanisms (U28))",
-            "L'hélium pur (Debate climate change mechanisms (U28))",
-            "L'argon (Debate climate change mechanisms (U28))",
-            "Le néon (Debate climate change mechanisms (U28))"
+            "Le dioxyde de carbone (Debate climate change mechanisms)",
+            "L'hélium pur (Debate climate change mechanisms)",
+            "L'argon (Debate climate change mechanisms)",
+            "Le néon (Debate climate change mechanisms)"
           ],
           "answerIndex": 0,
           "explanation": "Le dioxyde de carbone (CO2) est le gaz à effet de serre majoritaire généré par la combustion du pétrole, du charbon et du gaz."
@@ -15460,10 +15460,10 @@
         {
           "prompt": "Que signifie le triptyque réglementaire 'ERC' imposé aux projets d'aménagement en France ?",
           "options": [
-            "Éviter, Réduire, Compenser (Analyze biodiversity conservation strategies (U28))",
-            "Encaisser, Rémunérer, Céder (Analyze biodiversity conservation strategies (U28))",
-            "Écouter, Réagir, Corriger (Analyze biodiversity conservation strategies (U28))",
-            "Exporter, Recycler, Consommer (Analyze biodiversity conservation strategies (U28))"
+            "Éviter, Réduire, Compenser (Analyze biodiversity conservation strategies)",
+            "Encaisser, Rémunérer, Céder (Analyze biodiversity conservation strategies)",
+            "Écouter, Réagir, Corriger (Analyze biodiversity conservation strategies)",
+            "Exporter, Recycler, Consommer (Analyze biodiversity conservation strategies)"
           ],
           "answerIndex": 0,
           "explanation": "La séquence réglementaire 'ERC' oblige à éviter d'abord les atteintes à la biodiversité, à réduire celles qui ne peuvent l'être, et à compenser les effets résiduels."
@@ -15475,10 +15475,10 @@
         {
           "prompt": "Qu'est-ce que la 'Trame verte et bleue' en aménagement du territoire ?",
           "options": [
-            "Un réseau de continuités écologiques terrestres et aquatiques reliant les espaces naturels (Analyze biodiversity conservation strategies (U28))",
-            "Une ligne de tramway peinte en deux couleurs (Analyze biodiversity conservation strategies (U28))",
-            "Un système de drapeaux de plage (Analyze biodiversity conservation strategies (U28))",
-            "Une zone commerciale réservée aux jardineries (Analyze biodiversity conservation strategies (U28))"
+            "Un réseau de continuités écologiques terrestres et aquatiques reliant les espaces naturels (Analyze biodiversity conservation strategies)",
+            "Une ligne de tramway peinte en deux couleurs (Analyze biodiversity conservation strategies)",
+            "Un système de drapeaux de plage (Analyze biodiversity conservation strategies)",
+            "Une zone commerciale réservée aux jardineries (Analyze biodiversity conservation strategies)"
           ],
           "answerIndex": 0,
           "explanation": "La Trame verte et bleue est le réseau écologique national destiné à maintenir et reconstituer des continuités écologiques pour la faune et la flore."
@@ -15491,10 +15491,10 @@
           "type": "multiple-choice",
           "prompt": "Quel réseau écologique européen protège les habitats naturels et espèces faunistiques prioritaires sur tout le continent ?",
           "options": [
-            "Eurostat (Analyze biodiversity conservation strategies (U28))",
-            "Natura 2000 (Analyze biodiversity conservation strategies (U28))",
-            "Erasmus (Analyze biodiversity conservation strategies (U28))",
-            "Interpol (Analyze biodiversity conservation strategies (U28))"
+            "Eurostat (Analyze biodiversity conservation strategies)",
+            "Natura 2000 (Analyze biodiversity conservation strategies)",
+            "Erasmus (Analyze biodiversity conservation strategies)",
+            "Interpol (Analyze biodiversity conservation strategies)"
           ],
           "answerIndex": 1,
           "explanation": "« Natura 2000 » est le réseau écologique européen de sites naturels protégés pour préserver les habitats et espèces menacés."
@@ -15572,10 +15572,10 @@
         {
           "prompt": "Quelle est la principale caractéristique de la production d'électricité nucléaire en matière climatique ?",
           "options": [
-            "Elle émet de très faibles quantités directes de gaz à effet de serre (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "Elle brûle du charbon et du fioul lourd (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "Elle fonctionne uniquement lorsqu'il y a du soleil (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "Elle produit de la fumée noire polluante en continu (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))"
+            "Elle émet de très faibles quantités directes de gaz à effet de serre (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "Elle brûle du charbon et du fioul lourd (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "Elle fonctionne uniquement lorsqu'il y a du soleil (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "Elle produit de la fumée noire polluante en continu (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)"
           ],
           "answerIndex": 0,
           "explanation": "L'énergie nucléaire ne génère pratiquement pas de CO2 lors de la fission atomique, ce qui en fait une source d'électricité bas-carbone."
@@ -15587,10 +15587,10 @@
         {
           "prompt": "Quel est le principal défi technique posé par l'énergie éolienne et solaire photovoltaïque ?",
           "options": [
-            "L'intermittence de la production liée aux conditions météorologiques (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "L'impossibilité de transporter le courant (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "Le bruit assourdissant des panneaux solaires (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "L'obligation de creuser à dix kilomètres sous terre (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))"
+            "L'intermittence de la production liée aux conditions météorologiques (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "L'impossibilité de transporter le courant (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "Le bruit assourdissant des panneaux solaires (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "L'obligation de creuser à dix kilomètres sous terre (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)"
           ],
           "answerIndex": 0,
           "explanation": "L'éolien et le solaire sont des énergies intermittentes dépendantes du vent et de l'ensoleillement, nécessitant stockage et flexibilité de réseau."
@@ -15603,10 +15603,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle entreprise publique gère le réseau de transport d'électricité haute tension en France ?",
           "options": [
-            "La SNCF (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "Air France (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "RTE (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))",
-            "La Poste (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique (U28))"
+            "La SNCF (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "Air France (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "RTE (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)",
+            "La Poste (Evaluate renewable energies versus nuclear power in the ecological transition mix nergtique)"
           ],
           "answerIndex": 2,
           "explanation": "RTE est l'opérateur du réseau public de transport d'électricité français."
@@ -15682,10 +15682,10 @@
         {
           "prompt": "Quelle note sur 10 obligatoire en France informe les consommateurs sur la facilité de réparation d'un smartphone ou lave-linge ?",
           "options": [
-            "L'indice de réparabilité (Examine circular economy models (U28))",
-            "Le Nutri-Score (Examine circular economy models (U28))",
-            "Le contrôle technique (Examine circular economy models (U28))",
-            "L'indice boursier CAC (Examine circular economy models (U28))"
+            "L'indice de réparabilité (Examine circular economy models)",
+            "Le Nutri-Score (Examine circular economy models)",
+            "Le contrôle technique (Examine circular economy models)",
+            "L'indice boursier CAC (Examine circular economy models)"
           ],
           "answerIndex": 0,
           "explanation": "L'indice de réparabilité est un logo officiel noté sur 10 indiquant si l'appareil est facilement démontable et réparable."
@@ -15697,10 +15697,10 @@
         {
           "prompt": "Que sanctionne le délit d'« obsolescence programmée » dans la loi française ?",
           "options": [
-            "La réduction délibérée de la durée de vie d'un produit pour en forcer le renouvellement (Examine circular economy models (U28))",
-            "Le fait de fabriquer des produits trop solides (Examine circular economy models (U28))",
-            "La baisse du prix de vente des téléphones (Examine circular economy models (U28))",
-            "Le retard dans la livraison d'un colis (Examine circular economy models (U28))"
+            "La réduction délibérée de la durée de vie d'un produit pour en forcer le renouvellement (Examine circular economy models)",
+            "Le fait de fabriquer des produits trop solides (Examine circular economy models)",
+            "La baisse du prix de vente des téléphones (Examine circular economy models)",
+            "Le retard dans la livraison d'un colis (Examine circular economy models)"
           ],
           "answerIndex": 0,
           "explanation": "L'obsolescence programmée désigne l'ensemble des techniques visant à raccourcir volontairement la durée de vie d'un produit pour inciter à l'achat."
@@ -15713,10 +15713,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle loi française promulguée en 2020 accélère la fin du plastique à usage unique et lutte contre le gaspillage ?",
           "options": [
-            "Le Code du Travail (Examine circular economy models (U28))",
-            "La loi de finances (Examine circular economy models (U28))",
-            "La loi AGEC (Examine circular economy models (U28))",
-            "La loi informatique et libertés (Examine circular economy models (U28))"
+            "Le Code du Travail (Examine circular economy models)",
+            "La loi de finances (Examine circular economy models)",
+            "La loi AGEC (Examine circular economy models)",
+            "La loi informatique et libertés (Examine circular economy models)"
           ],
           "answerIndex": 2,
           "explanation": "La loi AGEC (2020) est le texte fondamental guidant la transition vers l'économie circulaire en France."
@@ -15791,10 +15791,10 @@
         {
           "prompt": "Quel est l'objectif thermique central inscrit à l'article 2 de l'Accord de Paris sur le climat ?",
           "options": [
-            "Contenir le réchauffement bien en deçà de 2 °C et poursuivre les efforts pour limiter la hausse à 1,5 °C (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "Autoriser une hausse de 10 °C sans limite (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "Interdire la pluie dans les grandes villes (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "Refroidir la Terre en dessous de l'ère glaciaire (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))"
+            "Contenir le réchauffement bien en deçà de 2 °C et poursuivre les efforts pour limiter la hausse à 1,5 °C (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "Autoriser une hausse de 10 °C sans limite (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "Interdire la pluie dans les grandes villes (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "Refroidir la Terre en dessous de l'ère glaciaire (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)"
           ],
           "answerIndex": 0,
           "explanation": "L'Accord de Paris fixe l'objectif universel de maintenir l'élévation des températures bien en deçà de 2 °C et si possible à 1,5 °C."
@@ -15806,10 +15806,10 @@
         {
           "prompt": "Que vise le « Mécanisme d'Ajustement Carbone aux Frontières » (MACF) de l'Union européenne ?",
           "options": [
-            "Taxer les importations de produits polluants pour éviter que les entreprises délocalisent leurs émissions (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "Interdire tout voyage en avion en dehors d'Europe (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "Supprimer les douanes entre tous les continents (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "Faire payer un droit d'entrée touristique aux frontières (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))"
+            "Taxer les importations de produits polluants pour éviter que les entreprises délocalisent leurs émissions (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "Interdire tout voyage en avion en dehors d'Europe (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "Supprimer les douanes entre tous les continents (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "Faire payer un droit d'entrée touristique aux frontières (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)"
           ],
           "answerIndex": 0,
           "explanation": "Le MACF (taxe carbone aux frontières) applique un prix du carbone aux produits importés (acier, ciment, etc.) équivalent à celui payé par les industriels européens."
@@ -15822,10 +15822,10 @@
           "type": "multiple-choice",
           "prompt": "Combien d'Objectifs de Développement Durable (ODD) ont été adoptés par l'ONU dans son Agenda 2030 ?",
           "options": [
-            "5 ODD (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "50 ODD (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "17 ODD (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))",
-            "100 ODD (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris (U28))"
+            "5 ODD (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "50 ODD (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "17 ODD (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)",
+            "100 ODD (Draft a policy briefing on international environmental pacts and sustainable development goals Accords de Paris)"
           ],
           "answerIndex": 2,
           "explanation": "L'Agenda 2030 de l'ONU est structuré autour de 17 Objectifs de Développement Durable (ODD)."
@@ -15900,10 +15900,10 @@
         {
           "prompt": "Selon l'article 20 de la Constitution française, quelle institution « détermine et conduit la politique de la Nation » ?",
           "options": [
-            "Le Gouvernement (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "Le Conseil d'État (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "Le Conseil de sécurité de l'ONU (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "Le maire de Paris (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))"
+            "Le Gouvernement (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "Le Conseil d'État (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "Le Conseil de sécurité de l'ONU (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "Le maire de Paris (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)"
           ],
           "answerIndex": 0,
           "explanation": "L'article 20 dispose expressément que « Le Gouvernement détermine et conduit la politique de la Nation »."
@@ -15915,10 +15915,10 @@
         {
           "prompt": "Que permet l'article 12 de la Constitution au Président de la République ?",
           "options": [
-            "Prononcer la dissolution de l'Assemblée nationale (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "Nommer les sénateurs à vie (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "Déclarer une guerre sans vote (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "Modifier la Constitution seul (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))"
+            "Prononcer la dissolution de l'Assemblée nationale (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "Nommer les sénateurs à vie (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "Déclarer une guerre sans vote (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "Modifier la Constitution seul (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)"
           ],
           "answerIndex": 0,
           "explanation": "L'article 12 accorde au chef de l'État la prérogative de dissoudre l'Assemblée nationale et de convoquer de nouvelles élections législatives."
@@ -15931,10 +15931,10 @@
           "type": "multiple-choice",
           "prompt": "En quelle année la Constitution de l'actuelle Ve République française a-t-elle été promulguée ?",
           "options": [
-            "1789 (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "1958 (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "1945 (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))",
-            "2002 (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958 (U29))"
+            "1789 (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "1958 (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "1945 (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)",
+            "2002 (Analyze the constitutional architecture and executive balance of the French Fifth Republic Constitution de 1958)"
           ],
           "answerIndex": 1,
           "explanation": "La Constitution de la Ve République a été adoptée par référendum et promulguée le 4 octobre 1958."
@@ -16009,10 +16009,10 @@
         {
           "prompt": "Que se passe-t-il lorsqu'une motion de censure est adoptée par l'Assemblée nationale ?",
           "options": [
-            "Le Premier ministre doit remettre la démission de son gouvernement au Président de la République (Navigate parliamentary mechanics (U29))",
-            "Le Sénat est dissous immédiatement (Navigate parliamentary mechanics (U29))",
-            "La France change de monnaie (Navigate parliamentary mechanics (U29))",
-            "Tous les impôts sont annulés (Navigate parliamentary mechanics (U29))"
+            "Le Premier ministre doit remettre la démission de son gouvernement au Président de la République (Navigate parliamentary mechanics)",
+            "Le Sénat est dissous immédiatement (Navigate parliamentary mechanics)",
+            "La France change de monnaie (Navigate parliamentary mechanics)",
+            "Tous les impôts sont annulés (Navigate parliamentary mechanics)"
           ],
           "answerIndex": 0,
           "explanation": "L'adoption d'une motion de censure à la majorité absolue entraîne la chute immédiate du Gouvernement et sa démission obligatoire."
@@ -16024,10 +16024,10 @@
         {
           "prompt": "Quelle juridiction suprême veille à la conformité des lois avec la Constitution en France ?",
           "options": [
-            "Le Conseil constitutionnel (Navigate parliamentary mechanics (U29))",
-            "La Cour des comptes (Navigate parliamentary mechanics (U29))",
-            "Le Parlement européen (Navigate parliamentary mechanics (U29))",
-            "Le Tribunal de commerce (Navigate parliamentary mechanics (U29))"
+            "Le Conseil constitutionnel (Navigate parliamentary mechanics)",
+            "La Cour des comptes (Navigate parliamentary mechanics)",
+            "Le Parlement européen (Navigate parliamentary mechanics)",
+            "Le Tribunal de commerce (Navigate parliamentary mechanics)"
           ],
           "answerIndex": 0,
           "explanation": "Le Conseil constitutionnel (composé de 9 membres nommés pour 9 ans) vérifie la constitutionnalité des lois avant ou après leur promulgation."
@@ -16040,10 +16040,10 @@
           "type": "multiple-choice",
           "prompt": "Quel article constitutionnel permet l'engagement de responsabilité du gouvernement sur un texte législatif sans vote direct ?",
           "options": [
-            "L'article 2 (Navigate parliamentary mechanics (U29))",
-            "L'article 88 (Navigate parliamentary mechanics (U29))",
-            "L'article 49, alinéa 3 (Navigate parliamentary mechanics (U29))",
-            "L'article 100 (Navigate parliamentary mechanics (U29))"
+            "L'article 2 (Navigate parliamentary mechanics)",
+            "L'article 88 (Navigate parliamentary mechanics)",
+            "L'article 49, alinéa 3 (Navigate parliamentary mechanics)",
+            "L'article 100 (Navigate parliamentary mechanics)"
           ],
           "answerIndex": 2,
           "explanation": "L'article 49.3 de la Constitution permet au gouvernement de faire adopter un texte sans vote, sous réserve du rejet d'une motion de censure."
@@ -16119,10 +16119,10 @@
         {
           "prompt": "Quel mode de scrutin est actuellement utilisé pour élire le Président de la République en France ?",
           "options": [
-            "Le scrutin uninominal majoritaire à deux tours (Examine electoral systems (U29))",
-            "Le tirage au sort parmi les citoyens (Examine electoral systems (U29))",
-            "Le vote par correspondance électronique exclusif (Examine electoral systems (U29))",
-            "Le scrutin proportionnel intégral à un seul tour (Examine electoral systems (U29))"
+            "Le scrutin uninominal majoritaire à deux tours (Examine electoral systems)",
+            "Le tirage au sort parmi les citoyens (Examine electoral systems)",
+            "Le vote par correspondance électronique exclusif (Examine electoral systems)",
+            "Le scrutin proportionnel intégral à un seul tour (Examine electoral systems)"
           ],
           "answerIndex": 0,
           "explanation": "L'élection présidentielle française se déroule au scrutin uninominal majoritaire à deux tours (avec duel final entre les deux premiers candidats)."
@@ -16134,10 +16134,10 @@
         {
           "prompt": "Que signifie le terme « abstention » dans un scrutin démocratique ?",
           "options": [
-            "Le fait pour un citoyen inscrit sur les listes électorales de ne pas se rendre aux urnes pour voter (Examine electoral systems (U29))",
-            "Le fait de voter deux fois dans la même journée (Examine electoral systems (U29))",
-            "Le fait de déposer un bulletin blanc (Examine electoral systems (U29))",
-            "Le recomptage obligatoire des voix (Examine electoral systems (U29))"
+            "Le fait pour un citoyen inscrit sur les listes électorales de ne pas se rendre aux urnes pour voter (Examine electoral systems)",
+            "Le fait de voter deux fois dans la même journée (Examine electoral systems)",
+            "Le fait de déposer un bulletin blanc (Examine electoral systems)",
+            "Le recomptage obligatoire des voix (Examine electoral systems)"
           ],
           "answerIndex": 0,
           "explanation": "L'abstention désigne le choix (ou l'empêchement) d'un électeur inscrit de ne pas participer au vote."
@@ -16150,10 +16150,10 @@
           "type": "multiple-choice",
           "prompt": "Comment nomme-t-on une élection au second tour où trois candidats se maintiennent ?",
           "options": [
-            "Un référendum (Examine electoral systems (U29))",
-            "Un plébiscite (Examine electoral systems (U29))",
-            "Un congrès (Examine electoral systems (U29))",
-            "Une triangulaire (Examine electoral systems (U29))"
+            "Un référendum (Examine electoral systems)",
+            "Un plébiscite (Examine electoral systems)",
+            "Un congrès (Examine electoral systems)",
+            "Une triangulaire (Examine electoral systems)"
           ],
           "answerIndex": 3,
           "explanation": "Une élection à trois candidats au second tour est qualifiée de « triangulaire »."
@@ -16228,10 +16228,10 @@
         {
           "prompt": "Quel est le principe fondamental posé par l'article 2 de la loi du 9 décembre 1905 sur la séparation des Églises et de l'État ?",
           "options": [
-            "La République ne reconnaît, ne salarie ni ne subventionne aucun culte (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "L'État doit financer la construction de tous les temples (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "Une seule religion est déclarée officielle en France (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "Tous les citoyens doivent adopter la même croyance (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))"
+            "La République ne reconnaît, ne salarie ni ne subventionne aucun culte (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "L'État doit financer la construction de tous les temples (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "Une seule religion est déclarée officielle en France (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "Tous les citoyens doivent adopter la même croyance (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)"
           ],
           "answerIndex": 0,
           "explanation": "L'article 2 de la loi de 1905 établit le principe de non-reconnaissance et de non-subventionnement des cultes par la République."
@@ -16243,10 +16243,10 @@
         {
           "prompt": "À quelle obligation stricte sont soumis les fonctionnaires et agents du service public en France ?",
           "options": [
-            "L'obligation de neutralité religieuse et politique dans leurs fonctions (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "L'obligation d'appartenir à un parti politique (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "L'interdiction de parler français (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "L'obligation de voter pour le parti au pouvoir (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))"
+            "L'obligation de neutralité religieuse et politique dans leurs fonctions (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "L'obligation d'appartenir à un parti politique (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "L'interdiction de parler français (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "L'obligation de voter pour le parti au pouvoir (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)"
           ],
           "answerIndex": 0,
           "explanation": "Les agents du service public doivent observer une stricte neutralité philosophique, politique et religieuse vis-à-vis des usagers."
@@ -16259,10 +16259,10 @@
           "type": "multiple-choice",
           "prompt": "En quelle année a été promulguée la grande loi française de séparation des Églises et de l'État ?",
           "options": [
-            "1804 (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "1968 (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "1905 (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))",
-            "1995 (Debate the legal and philosophical foundations of French secularism lacit rpublicaine (U29))"
+            "1804 (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "1968 (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "1905 (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)",
+            "1995 (Debate the legal and philosophical foundations of French secularism lacit rpublicaine)"
           ],
           "answerIndex": 2,
           "explanation": "La loi de séparation des Églises et de l'État a été votée et promulguée en décembre 1905."
@@ -16339,10 +16339,10 @@
         {
           "prompt": "Quelle formule introduit élégamment une concession dialectique dans une dissertation de science politique ?",
           "options": [
-            "« S'il est indéniable que..., force est toutefois de constater que... » (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "« Moi je pense que tout le monde se trompe » (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "« En gros c'est comme ça et pas autrement » (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "« J'ai vu sur internet que personne n'est d'accord » (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))"
+            "« S'il est indéniable que..., force est toutefois de constater que... » (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "« Moi je pense que tout le monde se trompe » (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "« En gros c'est comme ça et pas autrement » (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "« J'ai vu sur internet que personne n'est d'accord » (Construct an advanced political debate essay addressing contemporary constitutional reforms)"
           ],
           "answerIndex": 0,
           "explanation": "Cette tournure académique articule rigoureusement la reconnaissance d'un point valide avant de développer un argument opposé."
@@ -16354,10 +16354,10 @@
         {
           "prompt": "Que désigne le sigle « RIC » dans les débats contemporains sur la démocratie directe ?",
           "options": [
-            "Référendum d'Initiative Citoyenne (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "Réseau Informatique Communal (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "Registre International du Commerce (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "Relevé d'Impôt sur le Capital (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))"
+            "Référendum d'Initiative Citoyenne (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "Réseau Informatique Communal (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "Registre International du Commerce (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "Relevé d'Impôt sur le Capital (Construct an advanced political debate essay addressing contemporary constitutional reforms)"
           ],
           "answerIndex": 0,
           "explanation": "Le RIC (Référendum d'Initiative Citoyenne) est un mécanisme proposé permettant aux citoyens de soumettre un texte au référendum après collecte d'un nombre de signatures."
@@ -16370,10 +16370,10 @@
           "type": "multiple-choice",
           "prompt": "Quel exercice démocratique novateur a réuni 150 citoyens tirés au sort en France en 2019-2020 pour proposer des lois écologiques ?",
           "options": [
-            "Le Concours Eurovision (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "La Convention Citoyenne pour le Climat (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "L'Académie française (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))",
-            "Le Conseil de sécurité (Construct an advanced political debate essay addressing contemporary constitutional reforms (U29))"
+            "Le Concours Eurovision (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "La Convention Citoyenne pour le Climat (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "L'Académie française (Construct an advanced political debate essay addressing contemporary constitutional reforms)",
+            "Le Conseil de sécurité (Construct an advanced political debate essay addressing contemporary constitutional reforms)"
           ],
           "answerIndex": 1,
           "explanation": "La Convention Citoyenne pour le Climat a réuni 150 Français tirés au sort pour élaborer des réformes environnementales."
@@ -16449,10 +16449,10 @@
         {
           "prompt": "Quel philosophe des Lumières a théorisé la séparation des pouvoirs (législatif, exécutif, judiciaire) dans « De l'esprit des lois » ?",
           "options": [
-            "Montesquieu (Analyze Enlightenment philosophy (U30))",
-            "Descartes (Analyze Enlightenment philosophy (U30))",
-            "Sartre (Analyze Enlightenment philosophy (U30))",
-            "Bergson (Analyze Enlightenment philosophy (U30))"
+            "Montesquieu (Analyze Enlightenment philosophy)",
+            "Descartes (Analyze Enlightenment philosophy)",
+            "Sartre (Analyze Enlightenment philosophy)",
+            "Bergson (Analyze Enlightenment philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "Montesquieu est le père de la théorie moderne de la séparation et de l'équilibre des pouvoirs."
@@ -16464,10 +16464,10 @@
         {
           "prompt": "Que représente la « volonté générale » chez Jean-Jacques Rousseau ?",
           "options": [
-            "L'intérêt commun de tous les citoyens souverains visant le bien public (Analyze Enlightenment philosophy (U30))",
-            "La simple addition des caprices égoïstes de chacun (Analyze Enlightenment philosophy (U30))",
-            "L'ordre imposé par un monarque absolu (Analyze Enlightenment philosophy (U30))",
-            "Le résultat d'un tirage au sort (Analyze Enlightenment philosophy (U30))"
+            "L'intérêt commun de tous les citoyens souverains visant le bien public (Analyze Enlightenment philosophy)",
+            "La simple addition des caprices égoïstes de chacun (Analyze Enlightenment philosophy)",
+            "L'ordre imposé par un monarque absolu (Analyze Enlightenment philosophy)",
+            "Le résultat d'un tirage au sort (Analyze Enlightenment philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "La volonté générale chez Rousseau exprime la souveraineté du peuple orientée exclusivement vers l'intérêt commun et la justice."
@@ -16480,10 +16480,10 @@
           "type": "multiple-choice",
           "prompt": "Dans quelle œuvre philosophique majeure Rousseau explore-t-il la légitimité de l'autorité politique par l'accord des citoyens ?",
           "options": [
-            "Candide (Analyze Enlightenment philosophy (U30))",
-            "Du contrat social (Analyze Enlightenment philosophy (U30))",
-            "Les Fleurs du mal (Analyze Enlightenment philosophy (U30))",
-            "La Métaphysique (Analyze Enlightenment philosophy (U30))"
+            "Candide (Analyze Enlightenment philosophy)",
+            "Du contrat social (Analyze Enlightenment philosophy)",
+            "Les Fleurs du mal (Analyze Enlightenment philosophy)",
+            "La Métaphysique (Analyze Enlightenment philosophy)"
           ],
           "answerIndex": 1,
           "explanation": "« Du contrat social » (1762) est le chef-d'œuvre de Rousseau fondant la souveraineté démocratique."
@@ -16558,10 +16558,10 @@
         {
           "prompt": "Quelle célèbre proposition latine et française constitue la première certitude indubitable chez Descartes ?",
           "options": [
-            "« Cogito, ergo sum » (Examine Cartesian rationalism (U30))",
-            "« Carpe diem » (Examine Cartesian rationalism (U30))",
-            "« Tabula rasa » (Examine Cartesian rationalism (U30))",
-            "« Veni, vidi, vici » (Examine Cartesian rationalism (U30))"
+            "« Cogito, ergo sum » (Examine Cartesian rationalism)",
+            "« Carpe diem » (Examine Cartesian rationalism)",
+            "« Tabula rasa » (Examine Cartesian rationalism)",
+            "« Veni, vidi, vici » (Examine Cartesian rationalism)"
           ],
           "answerIndex": 0,
           "explanation": "Le Cogito cartésien (« Je pense, donc je suis ») est le socle fondateur de toute la philosophie de Descartes."
@@ -16574,9 +16574,9 @@
           "prompt": "Qu'est-ce que le « dualisme cartésien » ?",
           "options": [
             "La distinction nette entre l'esprit (substance pensante)",
-            "Le fait d'avoir deux opinions contraires en même temps (Examine Cartesian rationalism (U30))",
-            "Le combat d'escrime entre deux philosophes (Examine Cartesian rationalism (U30))",
-            "La séparation du pouvoir exécutif et judiciaire (Examine Cartesian rationalism (U30))"
+            "Le fait d'avoir deux opinions contraires en même temps (Examine Cartesian rationalism)",
+            "Le combat d'escrime entre deux philosophes (Examine Cartesian rationalism)",
+            "La séparation du pouvoir exécutif et judiciaire (Examine Cartesian rationalism)"
           ],
           "answerIndex": 0,
           "explanation": "Le dualisme de Descartes sépare ontologiquement l'âme (res cogitans) et le corps physique (res extensa)."
@@ -16589,10 +16589,10 @@
           "type": "multiple-choice",
           "prompt": "Dans quelle œuvre de 1637 Descartes formule-t-il les quatre préceptes de sa méthode de pensée rationnelle ?",
           "options": [
-            "L'Étranger (Examine Cartesian rationalism (U30))",
-            "L'Émile (Examine Cartesian rationalism (U30))",
-            "Le Discours de la méthode (Examine Cartesian rationalism (U30))",
-            "Les Misérables (Examine Cartesian rationalism (U30))"
+            "L'Étranger (Examine Cartesian rationalism)",
+            "L'Émile (Examine Cartesian rationalism)",
+            "Le Discours de la méthode (Examine Cartesian rationalism)",
+            "Les Misérables (Examine Cartesian rationalism)"
           ],
           "answerIndex": 2,
           "explanation": "Le « Discours de la méthode » (1637) est le texte fondamental où Descartes expose ses règles pour bien conduire sa raison."
@@ -16668,10 +16668,10 @@
         {
           "prompt": "Que signifie le principe sartrien « l'existence précède l'essence » ?",
           "options": [
-            "L'être humain existe d'abord, et se définit ensuite librement par ses choix et ses actes (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "Le destin de chaque être humain est écrit avant sa naissance (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "Les objets inanimés ont une conscience plus développée que les humains (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "Il faut étudier la biologie avant la philosophie (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))"
+            "L'être humain existe d'abord, et se définit ensuite librement par ses choix et ses actes (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "Le destin de chaque être humain est écrit avant sa naissance (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "Les objets inanimés ont une conscience plus développée que les humains (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "Il faut étudier la biologie avant la philosophie (Dissect 20thcentury French Existentialism and human freedom Sartre)"
           ],
           "answerIndex": 0,
           "explanation": "Chez Sartre, l'homme n'a pas de nature prédéterminée : il existe d'abord et forge son essence par ses actions libres."
@@ -16683,10 +16683,10 @@
         {
           "prompt": "Dans quel ouvrage fondateur Simone de Beauvoir écrit-elle la phrase historique « On ne naît pas femme : on le devient » ?",
           "options": [
-            "Le Deuxième Sexe (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "La Nausée (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "L'Étranger (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "La Peste (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))"
+            "Le Deuxième Sexe (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "La Nausée (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "L'Étranger (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "La Peste (Dissect 20thcentury French Existentialism and human freedom Sartre)"
           ],
           "answerIndex": 0,
           "explanation": "« Le Deuxième Sexe » (1949) de Simone de Beauvoir est le texte fondateur du féminisme philosophique moderne."
@@ -16699,10 +16699,10 @@
           "type": "multiple-choice",
           "prompt": "Comment Sartre nomme-t-il l'attitude qui consiste à se mentir à soi-même en prétendant ne pas être libre ?",
           "options": [
-            "L'hédonisme (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "L'utilitarisme (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "La mauvaise foi (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))",
-            "Le stoïcisme (Dissect 20thcentury French Existentialism and human freedom Sartre (U30))"
+            "L'hédonisme (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "L'utilitarisme (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "La mauvaise foi (Dissect 20thcentury French Existentialism and human freedom Sartre)",
+            "Le stoïcisme (Dissect 20thcentury French Existentialism and human freedom Sartre)"
           ],
           "answerIndex": 2,
           "explanation": "La « mauvaise foi » sartrienne est le mensonge à soi-même par lequel on tente de fuir sa liberté et sa responsabilité."
@@ -16778,10 +16778,10 @@
         {
           "prompt": "Quel philosophe français a conceptualisé le « biopouvoir » et analysé la société disciplinaire dans « Surveiller et punir » ?",
           "options": [
-            "Michel Foucault (Examine poststructuralist thought (U30))",
-            "Montaigne (Examine poststructuralist thought (U30))",
-            "Jean Bodin (Examine poststructuralist thought (U30))",
-            "Henri Bergson (Examine poststructuralist thought (U30))"
+            "Michel Foucault (Examine poststructuralist thought)",
+            "Montaigne (Examine poststructuralist thought)",
+            "Jean Bodin (Examine poststructuralist thought)",
+            "Henri Bergson (Examine poststructuralist thought)"
           ],
           "answerIndex": 0,
           "explanation": "Michel Foucault a développé les concepts majeurs de biopolitique, de panoptisme et de société disciplinaire."
@@ -16793,10 +16793,10 @@
         {
           "prompt": "En quoi consiste la méthode philosophique de la « déconstruction » forgée par Jacques Derrida ?",
           "options": [
-            "Interroger et démonter les oppositions binaires et hiérarchies figées du langage et de la philosophie (Examine poststructuralist thought (U30))",
-            "Détruire physiquement des monuments historiques (Examine poststructuralist thought (U30))",
-            "Réécrire les dictionnaires sans voyelles (Examine poststructuralist thought (U30))",
-            "Traduire tous les textes en latin classique (Examine poststructuralist thought (U30))"
+            "Interroger et démonter les oppositions binaires et hiérarchies figées du langage et de la philosophie (Examine poststructuralist thought)",
+            "Détruire physiquement des monuments historiques (Examine poststructuralist thought)",
+            "Réécrire les dictionnaires sans voyelles (Examine poststructuralist thought)",
+            "Traduire tous les textes en latin classique (Examine poststructuralist thought)"
           ],
           "answerIndex": 0,
           "explanation": "La déconstruction derridienne examine minutieusement la structure des textes pour révéler les apories et les présupposés métaphysiques non questionnés."
@@ -16809,10 +16809,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle métaphore végétale Gilles Deleuze et Félix Guattari utilisent-ils pour désigner une pensée ouverte, réticulaire et non hiérarchique ?",
           "options": [
-            "Le chêne royal (Examine poststructuralist thought (U30))",
-            "Le baobab (Examine poststructuralist thought (U30))",
-            "Le rhizome (Examine poststructuralist thought (U30))",
-            "La tulipe (Examine poststructuralist thought (U30))"
+            "Le chêne royal (Examine poststructuralist thought)",
+            "Le baobab (Examine poststructuralist thought)",
+            "Le rhizome (Examine poststructuralist thought)",
+            "La tulipe (Examine poststructuralist thought)"
           ],
           "answerIndex": 2,
           "explanation": "Le « rhizome » est le concept deleuzien désignant un réseau interconnecté sans centre ni hiérarchie fixe."
@@ -16888,10 +16888,10 @@
         {
           "prompt": "Dans une dissertation philosophique française, que doit impérativement accomplir la troisième partie (la synthèse) ?",
           "options": [
-            "Dépasser la contradiction entre la thèse et l'antithèse par un nouvel éclairage conceptuel (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "Faire la moyenne arithmétique des deux premières parties sans réfléchir (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "Recopier l'introduction mot à mot (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "Écrire que personne ne peut savoir la vérité (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))"
+            "Dépasser la contradiction entre la thèse et l'antithèse par un nouvel éclairage conceptuel (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "Faire la moyenne arithmétique des deux premières parties sans réfléchir (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "Recopier l'introduction mot à mot (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "Écrire que personne ne peut savoir la vérité (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)"
           ],
           "answerIndex": 0,
           "explanation": "La synthèse (ou dépassement) ne juxtapose pas les avis : elle reformule le problème à un niveau plus profond pour surmonter l'impasse dialectique."
@@ -16903,10 +16903,10 @@
         {
           "prompt": "Quelle est l'étape cruciale de l'introduction qui transforme une question posée en sujet de réflexion philosophique ?",
           "options": [
-            "La problématisation (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "Le dessin des marges sur la copie (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "La signature de l'auteur en bas de page (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "La liste alphabétique des philosophes connus (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))"
+            "La problématisation (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "Le dessin des marges sur la copie (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "La signature de l'auteur en bas de page (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "La liste alphabétique des philosophes connus (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)"
           ],
           "answerIndex": 0,
           "explanation": "La problématisation montre pourquoi la question n'est pas évidente et révèle le conflit d'idées qu'il va falloir résoudre."
@@ -16919,10 +16919,10 @@
           "type": "multiple-choice",
           "prompt": "En France, en quelle classe du lycée l'enseignement obligatoire de la philosophie est-il dispensé à tous les élèves ?",
           "options": [
-            "En classe de Terminale (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "En classe de 6e (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "À l'école maternelle (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))",
-            "En CM2 (Write a complete formal French philosophical dissertation structured in three dialectical parts thse (U30))"
+            "En classe de Terminale (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "En classe de 6e (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "À l'école maternelle (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)",
+            "En CM2 (Write a complete formal French philosophical dissertation structured in three dialectical parts thse)"
           ],
           "answerIndex": 0,
           "explanation": "L'enseignement philosophique est traditionnellement dispensé en classe de Terminale en France pour couronner le cursus secondaire."
@@ -16996,10 +16996,10 @@
         {
           "prompt": "Quel critère épistémologique développé par Karl Popper sépare une théorie scientifique d'une croyance non scientifique ?",
           "options": [
-            "La réfutabilité (Formulate scientific research hypotheses (U31))",
-            "La longueur du texte en nombre de pages (Formulate scientific research hypotheses (U31))",
-            "Le nombre d'abonnés sur les réseaux sociaux (Formulate scientific research hypotheses (U31))",
-            "La certitude subjective de l'auteur (Formulate scientific research hypotheses (U31))"
+            "La réfutabilité (Formulate scientific research hypotheses)",
+            "La longueur du texte en nombre de pages (Formulate scientific research hypotheses)",
+            "Le nombre d'abonnés sur les réseaux sociaux (Formulate scientific research hypotheses)",
+            "La certitude subjective de l'auteur (Formulate scientific research hypotheses)"
           ],
           "answerIndex": 0,
           "explanation": "Pour Karl Popper, une proposition n'est scientifique que si elle est empiriquement réfutable (falsifiable) par un protocole expérimental."
@@ -17011,10 +17011,10 @@
         {
           "prompt": "Que permet de démontrer le rejet de l'« hypothèse nulle » (H0) dans un test statistique ?",
           "options": [
-            "Qu'il existe un effet ou une corrélation statistiquement significative non attribuable au seul hasard (Formulate scientific research hypotheses (U31))",
-            "Que l'expérience a complètement échoué (Formulate scientific research hypotheses (U31))",
-            "Que les mathématiques sont inutiles (Formulate scientific research hypotheses (U31))",
-            "Que l'échantillon ne contient aucune donnée (Formulate scientific research hypotheses (U31))"
+            "Qu'il existe un effet ou une corrélation statistiquement significative non attribuable au seul hasard (Formulate scientific research hypotheses)",
+            "Que l'expérience a complètement échoué (Formulate scientific research hypotheses)",
+            "Que les mathématiques sont inutiles (Formulate scientific research hypotheses)",
+            "Que l'échantillon ne contient aucune donnée (Formulate scientific research hypotheses)"
           ],
           "answerIndex": 0,
           "explanation": "Rejeter H0 atteste que la différence observée entre les groupes est statistiquement significative et non due aux fluctuations aléatoires."
@@ -17027,10 +17027,10 @@
           "type": "multiple-choice",
           "prompt": "Comment nomme-t-on un essai clinique où ni le patient ni le médecin évaluateur ne connaissent l'attribution du traitement réel ou du placebo ?",
           "options": [
-            "Un essai en double aveugle (Formulate scientific research hypotheses (U31))",
-            "Une étude rétrospective ouverte (Formulate scientific research hypotheses (U31))",
-            "Un sondage d'opinion (Formulate scientific research hypotheses (U31))",
-            "Un examen clinique direct (Formulate scientific research hypotheses (U31))"
+            "Un essai en double aveugle (Formulate scientific research hypotheses)",
+            "Une étude rétrospective ouverte (Formulate scientific research hypotheses)",
+            "Un sondage d'opinion (Formulate scientific research hypotheses)",
+            "Un examen clinique direct (Formulate scientific research hypotheses)"
           ],
           "answerIndex": 0,
           "explanation": "L'essai « en double aveugle » (randomisé) neutralise les biais psychologiques et subjectifs du médecin et du patient."
@@ -17109,10 +17109,10 @@
         {
           "prompt": "Selon Gaston Bachelard, comment se produit une « rupture épistémologique » en sciences ?",
           "options": [
-            "En rompant radicalement avec les intuitions premières et les illusions du sens commun (Analyze epistemological ruptures (U31))",
-            "En détruisant tous les livres de la bibliothèque (Analyze epistemological ruptures (U31))",
-            "En abandonnant les mathématiques pour la poésie (Analyze epistemological ruptures (U31))",
-            "En refusant de faire des expériences en laboratoire (Analyze epistemological ruptures (U31))"
+            "En rompant radicalement avec les intuitions premières et les illusions du sens commun (Analyze epistemological ruptures)",
+            "En détruisant tous les livres de la bibliothèque (Analyze epistemological ruptures)",
+            "En abandonnant les mathématiques pour la poésie (Analyze epistemological ruptures)",
+            "En refusant de faire des expériences en laboratoire (Analyze epistemological ruptures)"
           ],
           "answerIndex": 0,
           "explanation": "Pour Bachelard, l'esprit scientifique se forme contre l'expérience première et le sens commun grâce à une rupture conceptuelle."
@@ -17124,10 +17124,10 @@
         {
           "prompt": "Que désigne la notion de « phénoménotechnique » introduite par Bachelard ?",
           "options": [
-            "Le fait que les phénomènes scientifiques modernes sont construits et instrumentés par la technique théorique (Analyze epistemological ruptures (U31))",
-            "Une technique de dessin à la main (Analyze epistemological ruptures (U31))",
-            "L'étude des illusions d'optique dans les cirques (Analyze epistemological ruptures (U31))",
-            "Le remplacement des chercheurs par des robots ménagers (Analyze epistemological ruptures (U31))"
+            "Le fait que les phénomènes scientifiques modernes sont construits et instrumentés par la technique théorique (Analyze epistemological ruptures)",
+            "Une technique de dessin à la main (Analyze epistemological ruptures)",
+            "L'étude des illusions d'optique dans les cirques (Analyze epistemological ruptures)",
+            "Le remplacement des chercheurs par des robots ménagers (Analyze epistemological ruptures)"
           ],
           "answerIndex": 0,
           "explanation": "La phénoménotechnique exprime l'idée que les objets de la science contemporaine sont créés artificiellement par des instruments de haute technicité guidés par la théorie."
@@ -17140,10 +17140,10 @@
           "type": "multiple-choice",
           "prompt": "Quel philosophe et médecin français est l'auteur de l'ouvrage classique « Le Normal et le Pathologique » ?",
           "options": [
-            "Jean-Paul Sartre (Analyze epistemological ruptures (U31))",
-            "Denis Diderot (Analyze epistemological ruptures (U31))",
-            "Georges Canguilhem (Analyze epistemological ruptures (U31))",
-            "Albert Camus (Analyze epistemological ruptures (U31))"
+            "Jean-Paul Sartre (Analyze epistemological ruptures)",
+            "Denis Diderot (Analyze epistemological ruptures)",
+            "Georges Canguilhem (Analyze epistemological ruptures)",
+            "Albert Camus (Analyze epistemological ruptures)"
           ],
           "answerIndex": 2,
           "explanation": "Georges Canguilhem (1904–1995) a écrit l'œuvre magistrale « Le Normal et le Pathologique »."
@@ -17217,10 +17217,10 @@
         {
           "prompt": "Quelle formule solennelle ouvre rituellement la prise de parole du candidat lors d'une soutenance de thèse en France ?",
           "options": [
-            "« Monsieur le Président, Mesdames et Messieurs les membres du jury... » (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "« Salut à tous, merci d'être venus m'écouter » (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "« Je commence tout de suite sans préambule » (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "« C'est parti pour la présentation de mon travail » (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))"
+            "« Monsieur le Président, Mesdames et Messieurs les membres du jury... » (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "« Salut à tous, merci d'être venus m'écouter » (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "« Je commence tout de suite sans préambule » (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "« C'est parti pour la présentation de mon travail » (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)"
           ],
           "answerIndex": 0,
           "explanation": "L'allocution au jury obéit à ce protocole oratoire académique strict ouvrant toute soutenance doctorale."
@@ -17232,10 +17232,10 @@
         {
           "prompt": "Que désigne un « article à comité de lecture » (peer-reviewed) dans le monde de la recherche ?",
           "options": [
-            "Un article évalué et validé par des experts scientifiques pairs et indépendants avant publication (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "Un texte écrit par un seul étudiant pour un devoir (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "Un article de journal vendu dans un kiosque de rue (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "Un résumé publicitaire pour une marque (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))"
+            "Un article évalué et validé par des experts scientifiques pairs et indépendants avant publication (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "Un texte écrit par un seul étudiant pour un devoir (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "Un article de journal vendu dans un kiosque de rue (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "Un résumé publicitaire pour une marque (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)"
           ],
           "answerIndex": 0,
           "explanation": "Le processus d'évaluation par les pairs (peer review) garantit la rigueur méthodologique et la validité scientifique de l'article."
@@ -17248,10 +17248,10 @@
           "type": "multiple-choice",
           "prompt": "Dans un article scientifique respectant la structure standardisée IMRAD, quelle section interprète les résultats et discute des limites de l'étude ?",
           "options": [
-            "Le résumé (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "Les remerciements (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "La discussion (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))",
-            "Le titre (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse (U31))"
+            "Le résumé (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "Les remerciements (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "La discussion (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)",
+            "Le titre (Master the conventions of academic peerreviewed journal articles and doctoral defense discourse)"
           ],
           "answerIndex": 2,
           "explanation": "La « Discussion » met en perspective les résultats, compare avec la littérature et détaille les biais et limites."
@@ -17326,10 +17326,10 @@
         {
           "prompt": "Quel principe fondamental du droit français de la bioéthique interdit la vente d'organes ou d'éléments du corps humain ?",
           "options": [
-            "Le principe de non-patrimonialité du corps humain (Debate frontiers in biotechnology (U31))",
-            "Le principe du libre-échange commercial (Debate frontiers in biotechnology (U31))",
-            "Le principe de rentabilité financière (Debate frontiers in biotechnology (U31))",
-            "Le droit de rétractation (Debate frontiers in biotechnology (U31))"
+            "Le principe de non-patrimonialité du corps humain (Debate frontiers in biotechnology)",
+            "Le principe du libre-échange commercial (Debate frontiers in biotechnology)",
+            "Le principe de rentabilité financière (Debate frontiers in biotechnology)",
+            "Le droit de rétractation (Debate frontiers in biotechnology)"
           ],
           "answerIndex": 0,
           "explanation": "La non-patrimonialité signifie que le corps humain, ses organes et ses tissus ne sont pas des marchandises et ne peuvent faire l'objet d'un commerce lucratif."
@@ -17341,10 +17341,10 @@
         {
           "prompt": "Quelle institution consultative française rend des avis éthiques réguliers sur les avancées des sciences du vivant ?",
           "options": [
-            "Le CCNE (Debate frontiers in biotechnology (U31))",
-            "La Banque de France (Debate frontiers in biotechnology (U31))",
-            "La SNCF (Debate frontiers in biotechnology (U31))",
-            "La Bourse de Paris (Debate frontiers in biotechnology (U31))"
+            "Le CCNE (Debate frontiers in biotechnology)",
+            "La Banque de France (Debate frontiers in biotechnology)",
+            "La SNCF (Debate frontiers in biotechnology)",
+            "La Bourse de Paris (Debate frontiers in biotechnology)"
           ],
           "answerIndex": 0,
           "explanation": "Le CCNE, créé en 1983, est la première instance nationale d'éthique consultative au monde."
@@ -17357,10 +17357,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle scientifique française a reçu le prix Nobel de chimie en 2020 pour la découverte de l'outil d'édition génétique CRISPR-Cas9 ?",
           "options": [
-            "Marie Curie (Debate frontiers in biotechnology (U31))",
-            "Simone Veil (Debate frontiers in biotechnology (U31))",
-            "Françoise Barré-Sinoussi (Debate frontiers in biotechnology (U31))",
-            "Emmanuelle Charpentier (Debate frontiers in biotechnology (U31))"
+            "Marie Curie (Debate frontiers in biotechnology)",
+            "Simone Veil (Debate frontiers in biotechnology)",
+            "Françoise Barré-Sinoussi (Debate frontiers in biotechnology)",
+            "Emmanuelle Charpentier (Debate frontiers in biotechnology)"
           ],
           "answerIndex": 3,
           "explanation": "Emmanuelle Charpentier a reçu le prix Nobel de chimie 2020 pour la mise au point des ciseaux génétiques CRISPR-Cas9."
@@ -17435,10 +17435,10 @@
         {
           "prompt": "Que signifie l'expression latine « sine qua non » fréquemment employée dans les synthèses académiques de haut niveau ?",
           "options": [
-            "Une condition absolument indispensable et nécessaire (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "Une erreur sans gravité (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "Une signature en bas de page (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "Une phrase facultative (Synthesize interdisciplinary research into an authoritative academic position paper (U31))"
+            "Une condition absolument indispensable et nécessaire (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "Une erreur sans gravité (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "Une signature en bas de page (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "Une phrase facultative (Synthesize interdisciplinary research into an authoritative academic position paper)"
           ],
           "answerIndex": 0,
           "explanation": "« Sine qua non » (littéralement « sans quoi non ») désigne une condition rigoureusement nécessaire pour qu'une chose advienne."
@@ -17450,10 +17450,10 @@
         {
           "prompt": "Quelle célèbre institution française fondée en 1530 dispense des cours publics gratuits de très haut niveau dans toutes les disciplines sans délivrer de diplômes ?",
           "options": [
-            "Le Collège de France (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "La Bibliothèque François-Mitterrand (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "L'Opéra Garnier (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "Le Conseil économique et social (Synthesize interdisciplinary research into an authoritative academic position paper (U31))"
+            "Le Collège de France (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "La Bibliothèque François-Mitterrand (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "L'Opéra Garnier (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "Le Conseil économique et social (Synthesize interdisciplinary research into an authoritative academic position paper)"
           ],
           "answerIndex": 0,
           "explanation": "Le Collège de France réunit d'éminents professeurs de toutes les sciences enseignant la recherche en train de se faire."
@@ -17466,10 +17466,10 @@
           "type": "multiple-choice",
           "prompt": "Comment qualifie-t-on une analyse qui étudie l'évolution d'un phénomène à travers le temps ?",
           "options": [
-            "Une analyse synchronique (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "Une analyse statique (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "Une analyse diachronique (Synthesize interdisciplinary research into an authoritative academic position paper (U31))",
-            "Une analyse géométrique (Synthesize interdisciplinary research into an authoritative academic position paper (U31))"
+            "Une analyse synchronique (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "Une analyse statique (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "Une analyse diachronique (Synthesize interdisciplinary research into an authoritative academic position paper)",
+            "Une analyse géométrique (Synthesize interdisciplinary research into an authoritative academic position paper)"
           ],
           "answerIndex": 2,
           "explanation": "L'analyse « diachronique » s'intéresse à la dynamique et aux transformations historiques d'un phénomène dans le temps."
@@ -17543,10 +17543,10 @@
         {
           "prompt": "Quelle formule protocolaire solennelle clôt traditionnellement une note diplomatique officielle de haute courtoisie ?",
           "options": [
-            "« Veuillez agréer, Excellence, les assurances de ma très haute considération. » (Master formal diplomatic registers (U32))",
-            "« À bientôt pour de nouvelles discussions informelles. » (Master formal diplomatic registers (U32))",
-            "« Merci de me répondre par retour de courrier électronique. » (Master formal diplomatic registers (U32))",
-            "« Salutations distinguées de ma part et de toute l'équipe. » (Master formal diplomatic registers (U32))"
+            "« Veuillez agréer, Excellence, les assurances de ma très haute considération. » (Master formal diplomatic registers)",
+            "« À bientôt pour de nouvelles discussions informelles. » (Master formal diplomatic registers)",
+            "« Merci de me répondre par retour de courrier électronique. » (Master formal diplomatic registers)",
+            "« Salutations distinguées de ma part et de toute l'équipe. » (Master formal diplomatic registers)"
           ],
           "answerIndex": 0,
           "explanation": "Cette formule canonique est la marque d'élégance et d'estime la plus élevée dans la correspondance diplomatique francophone."
@@ -17558,10 +17558,10 @@
         {
           "prompt": "Que désigne l'« agrément » dans le droit diplomatique international ?",
           "options": [
-            "Le consentement préalable donné par l'État d'accueil à la nomination d'un ambassadeur étranger (Master formal diplomatic registers (U32))",
-            "Un traité commercial de libre-échange (Master formal diplomatic registers (U32))",
-            "Une fête nationale organisée à l'ambassade (Master formal diplomatic registers (U32))",
-            "Un passeport touristique ordinaire (Master formal diplomatic registers (U32))"
+            "Le consentement préalable donné par l'État d'accueil à la nomination d'un ambassadeur étranger (Master formal diplomatic registers)",
+            "Un traité commercial de libre-échange (Master formal diplomatic registers)",
+            "Une fête nationale organisée à l'ambassade (Master formal diplomatic registers)",
+            "Un passeport touristique ordinaire (Master formal diplomatic registers)"
           ],
           "answerIndex": 0,
           "explanation": "L'agrément est l'acceptation officielle préalable par l'État accréditaire de la personne proposée comme chef de mission diplomatique."
@@ -17574,10 +17574,10 @@
           "type": "multiple-choice",
           "prompt": "Quel terme de droit international désigne un diplomate dont la présence n'est plus tolérée sur le territoire de l'État d'accueil ?",
           "options": [
-            "Un consul honoraire (Master formal diplomatic registers (U32))",
-            "Persona non grata (Master formal diplomatic registers (U32))",
-            "Attaché culturel (Master formal diplomatic registers (U32))",
-            "Plénipotentiaire (Master formal diplomatic registers (U32))"
+            "Un consul honoraire (Master formal diplomatic registers)",
+            "Persona non grata (Master formal diplomatic registers)",
+            "Attaché culturel (Master formal diplomatic registers)",
+            "Plénipotentiaire (Master formal diplomatic registers)"
           ],
           "answerIndex": 1,
           "explanation": "La déclaration de « persona non grata » oblige l'État d'envoi à rappeler son agent ou à mettre fin à ses fonctions diplomatiques."
@@ -17651,10 +17651,10 @@
         {
           "prompt": "Dans le préambule d'un traité international rédigé en français, comment désigne-t-on traditionnellement les États signataires ?",
           "options": [
-            "Les Hautes Parties contractantes (Draft multilateral treaties (U32))",
-            "Les clients signataires (Draft multilateral treaties (U32))",
-            "Les pays participants du club (Draft multilateral treaties (U32))",
-            "Les délégations amies (Draft multilateral treaties (U32))"
+            "Les Hautes Parties contractantes (Draft multilateral treaties)",
+            "Les clients signataires (Draft multilateral treaties)",
+            "Les pays participants du club (Draft multilateral treaties)",
+            "Les délégations amies (Draft multilateral treaties)"
           ],
           "answerIndex": 0,
           "explanation": "« Les Hautes Parties contractantes » est l'appellation juridique solennelle consacrée dans le droit international public francophone."
@@ -17666,10 +17666,10 @@
         {
           "prompt": "Que signifie la mention légale « les textes faisant également foi » à la fin d'un accord international bilingue ou multilingue ?",
           "options": [
-            "Que chaque version linguistique possède une autorité juridique et interprétative rigoureusement identique (Draft multilateral treaties (U32))",
-            "Que le texte le plus court sera choisi en cas de désaccord (Draft multilateral treaties (U32))",
-            "Qu'aucun des textes n'est valable (Draft multilateral treaties (U32))",
-            "Que les diplomates doivent apprendre par cœur le document (Draft multilateral treaties (U32))"
+            "Que chaque version linguistique possède une autorité juridique et interprétative rigoureusement identique (Draft multilateral treaties)",
+            "Que le texte le plus court sera choisi en cas de désaccord (Draft multilateral treaties)",
+            "Qu'aucun des textes n'est valable (Draft multilateral treaties)",
+            "Que les diplomates doivent apprendre par cœur le document (Draft multilateral treaties)"
           ],
           "answerIndex": 0,
           "explanation": "L'expression « faisant foi » confère une force probante et une authenticité juridique égale à chaque version linguistique officielle."
@@ -17682,10 +17682,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle déclaration unilatérale permet à un État d'exclure ou de moduler l'application d'une clause d'un traité à son égard lors de la ratification ?",
           "options": [
-            "Un veto parlementaire (Draft multilateral treaties (U32))",
-            "Une réserve (Draft multilateral treaties (U32))",
-            "Une motion de destitution (Draft multilateral treaties (U32))",
-            "Une amende contractuelle (Draft multilateral treaties (U32))"
+            "Un veto parlementaire (Draft multilateral treaties)",
+            "Une réserve (Draft multilateral treaties)",
+            "Une motion de destitution (Draft multilateral treaties)",
+            "Une amende contractuelle (Draft multilateral treaties)"
           ],
           "answerIndex": 1,
           "explanation": "Une « réserve » émise par un État lors de la signature ou ratification limite ou précise l'effet juridique de certains articles à son égard."
@@ -17759,10 +17759,10 @@
         {
           "prompt": "Quelle intervention procédurale un diplomate utilise-t-il en assemblée pour signaler le non-respect des règles de séance ?",
           "options": [
-            "Une motion d'ordre (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "Un appel téléphonique personnel (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "Une pause déjeuner anticipée (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "Une chanson folklorique (Navigate multilateral diplomacy in international forums ONU (U32))"
+            "Une motion d'ordre (Navigate multilateral diplomacy in international forums ONU)",
+            "Un appel téléphonique personnel (Navigate multilateral diplomacy in international forums ONU)",
+            "Une pause déjeuner anticipée (Navigate multilateral diplomacy in international forums ONU)",
+            "Une chanson folklorique (Navigate multilateral diplomacy in international forums ONU)"
           ],
           "answerIndex": 0,
           "explanation": "La « motion d'ordre » est l'acte formel par lequel un délégué interrompt le déroulement des débats pour faire respecter le règlement intérieur."
@@ -17774,10 +17774,10 @@
         {
           "prompt": "À la Cour de justice de l'Union européenne (CJUE) à Luxembourg, quelle est la langue exclusive de délibéré des juges ?",
           "options": [
-            "Le français (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "L'espagnol (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "Le latin (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "L'allemand (Navigate multilateral diplomacy in international forums ONU (U32))"
+            "Le français (Navigate multilateral diplomacy in international forums ONU)",
+            "L'espagnol (Navigate multilateral diplomacy in international forums ONU)",
+            "Le latin (Navigate multilateral diplomacy in international forums ONU)",
+            "L'allemand (Navigate multilateral diplomacy in international forums ONU)"
           ],
           "answerIndex": 0,
           "explanation": "Le français est la langue de travail et de délibération historique et statutaire de la CJUE."
@@ -17790,10 +17790,10 @@
           "type": "multiple-choice",
           "prompt": "Combien d'États membres permanents détiennent le droit de veto au Conseil de sécurité de l'ONU ?",
           "options": [
-            "Trois (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "Dix (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "Cinq (Navigate multilateral diplomacy in international forums ONU (U32))",
-            "Tous les pays du monde (Navigate multilateral diplomacy in international forums ONU (U32))"
+            "Trois (Navigate multilateral diplomacy in international forums ONU)",
+            "Dix (Navigate multilateral diplomacy in international forums ONU)",
+            "Cinq (Navigate multilateral diplomacy in international forums ONU)",
+            "Tous les pays du monde (Navigate multilateral diplomacy in international forums ONU)"
           ],
           "answerIndex": 2,
           "explanation": "Les cinq membres permanents (P5) disposent statutairement du droit de veto au Conseil de sécurité."
@@ -17868,10 +17868,10 @@
         {
           "prompt": "En diplomatie, comment qualifie-t-on le fait pour un État tiers d'offrir un cadre neutre pour réunir deux parties en conflit sans imposer de solution ?",
           "options": [
-            "L'exercice des bons offices (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "Une déclaration de guerre (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "Une annexion unilatérale (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "Un embargo commercial total (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))"
+            "L'exercice des bons offices (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "Une déclaration de guerre (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "Une annexion unilatérale (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "Un embargo commercial total (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)"
           ],
           "answerIndex": 0,
           "explanation": "Les « bons offices » désignent l'entremise bienveillante d'un tiers visant à mettre en contact des adversaires pour amorcer des négociations."
@@ -17883,10 +17883,10 @@
         {
           "prompt": "Que permet la technique diplomatique de l'« ambiguïté constructive » ?",
           "options": [
-            "Permettre aux deux parties d'interpréter un compromis de manière acceptable sans perdre la face (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "Écrire un texte illisible pour tromper l'adversaire (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "Supprimer toutes les signatures officielles (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "Rendre la négociation publique à la télévision (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))"
+            "Permettre aux deux parties d'interpréter un compromis de manière acceptable sans perdre la face (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "Écrire un texte illisible pour tromper l'adversaire (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "Supprimer toutes les signatures officielles (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "Rendre la négociation publique à la télévision (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)"
           ],
           "answerIndex": 0,
           "explanation": "L'ambiguïté constructive permet de débloquer un accord diplomatique en choisissant des termes volontairement ouverts à des lectures compatibles."
@@ -17899,10 +17899,10 @@
           "type": "multiple-choice",
           "prompt": "Quel acte diplomatique graduel exprime un vif mécontentement d'un État sans pour autant rompre définitivement les relations diplomatiques ?",
           "options": [
-            "Le rappel de l'ambassadeur pour consultations (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "L'octroi d'une décoration honorifique (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "L'ouverture d'un nouveau consulat (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))",
-            "La signature d'un pacte d'amitié (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices (U32))"
+            "Le rappel de l'ambassadeur pour consultations (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "L'octroi d'une décoration honorifique (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "L'ouverture d'un nouveau consulat (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)",
+            "La signature d'un pacte d'amitié (Conduct highstakes diplomatic crisis mediation and backchannel diplomacy bons offices)"
           ],
           "answerIndex": 0,
           "explanation": "Le rappel d'un ambassadeur « pour consultations » est une mesure diplomatique grave manifestant une vive tension bilatérale."
@@ -17976,10 +17976,10 @@
         {
           "prompt": "Quel célèbre discours diplomatique français prononcé à l'ONU en 2003 par Dominique de Villepin a marqué l'histoire des relations internationales contemporaines ?",
           "options": [
-            "Le discours du 14 février 2003 refusant la guerre unilatérale en Irak au nom du droit international (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "Le discours sur le lancement de l'euro (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "La présentation de la candidature aux Jeux Olympiques (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "Un discours sur l'exportation des vins français (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))"
+            "Le discours du 14 février 2003 refusant la guerre unilatérale en Irak au nom du droit international (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "Le discours sur le lancement de l'euro (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "La présentation de la candidature aux Jeux Olympiques (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "Un discours sur l'exportation des vins français (Deliver an official plenipotentiary address before a global diplomatic assembly)"
           ],
           "answerIndex": 0,
           "explanation": "Ce discours d'anthologie a défendu la primauté du multilatéralisme et du Conseil de sécurité contre l'intervention unilatérale."
@@ -17991,10 +17991,10 @@
         {
           "prompt": "Comment nomme-t-on un ordre mondial fondé sur plusieurs pôles de puissance équilibrés plutôt que sur l'hégémonie d'une seule superpuissance ?",
           "options": [
-            "Un ordre international multipolaire (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "Un ordre unilatéraliste (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "Une monarchie universelle (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "Un isolement insulaire (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))"
+            "Un ordre international multipolaire (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "Un ordre unilatéraliste (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "Une monarchie universelle (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "Un isolement insulaire (Deliver an official plenipotentiary address before a global diplomatic assembly)"
           ],
           "answerIndex": 0,
           "explanation": "Le monde « multipolaire » promeut l'équilibre et le dialogue entre plusieurs grandes puissances et alliances régionales."
@@ -18007,10 +18007,10 @@
           "type": "multiple-choice",
           "prompt": "Quel président français a affirmé la doctrine d'indépendance nationale et de non-alignement sur les blocs lors du discours de Phnom Penh en 1966 ?",
           "options": [
-            "Charles de Gaulle (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "Georges Pompidou (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "Valéry Giscard d'Estaing (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))",
-            "François Mitterrand (Deliver an official plenipotentiary address before a global diplomatic assembly (U32))"
+            "Charles de Gaulle (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "Georges Pompidou (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "Valéry Giscard d'Estaing (Deliver an official plenipotentiary address before a global diplomatic assembly)",
+            "François Mitterrand (Deliver an official plenipotentiary address before a global diplomatic assembly)"
           ],
           "answerIndex": 0,
           "explanation": "Le général de Gaulle a théorisé et incarné la voix indépendante et souveraine de la diplomatie française sur la scène mondiale."
@@ -18086,10 +18086,10 @@
         {
           "prompt": "Quelle est la forme correcte au passé simple (3e personne du singulier) du verbe « naître » ?",
           "options": [
-            "Il naquit (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Il naissa (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Il naquait (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Il est né (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))"
+            "Il naquit (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Il naissa (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Il naquait (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Il est né (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)"
           ],
           "answerIndex": 0,
           "explanation": "Le verbe 'naître' forme son passé simple irrégulier en -i : il naquit, ils naquirent."
@@ -18101,10 +18101,10 @@
         {
           "prompt": "Quelle est la 3e personne du singulier au passé simple du verbe « vivre » ?",
           "options": [
-            "Il vécut (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Il vivit (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Il viva (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Il vivait (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))"
+            "Il vécut (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Il vivit (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Il viva (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Il vivait (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)"
           ],
           "answerIndex": 0,
           "explanation": "Le passé simple de 'vivre' appartient à la classe en -u : je vécus, tu vécus, il vécut, nous vécûmes, vous vécûtes, ils vécurent."
@@ -18117,10 +18117,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la forme au passé simple à la 3e personne du pluriel du verbe « tenir » ?",
           "options": [
-            "Ils tenaient (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Ils tinrent (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Ils tenurent (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))",
-            "Ils ont tenu (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut (U33))"
+            "Ils tenaient (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Ils tinrent (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Ils tenurent (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)",
+            "Ils ont tenu (Master the literary Pass Simple across regular and irregular thirdgroup verb families fut)"
           ],
           "answerIndex": 1,
           "explanation": "Le verbe 'tenir' prend la terminaison caractéristique en -in : ils tinrent."
@@ -18196,10 +18196,10 @@
         {
           "prompt": "Dans la phrase : « Le juge ordonna qu'il _______ (faire) silence », quelle est la forme correcte au subjonctif imparfait ?",
           "options": [
-            "fît (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "fasse (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "fit (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "ferait (Recognize and compose with the literary Subjonctif Imparfait ft (U33))"
+            "fît (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "fasse (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "fit (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "ferait (Recognize and compose with the literary Subjonctif Imparfait ft)"
           ],
           "answerIndex": 0,
           "explanation": "La forme correcte du subjonctif imparfait de faire à la 3e personne du singulier est « fît » (avec accent circonflexe)."
@@ -18211,10 +18211,10 @@
         {
           "prompt": "Que permet de distinguer l'accent circonflexe dans « qu'il chantât » par rapport à « il chanta » ?",
           "options": [
-            "Il distingue le subjonctif imparfait du passé simple de l'indicatif (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "Il indique une faute d'orthographe (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "Il change la prononciation du t final (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "Il s'agit d'une marque de pluriel (Recognize and compose with the literary Subjonctif Imparfait ft (U33))"
+            "Il distingue le subjonctif imparfait du passé simple de l'indicatif (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "Il indique une faute d'orthographe (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "Il change la prononciation du t final (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "Il s'agit d'une marque de pluriel (Recognize and compose with the literary Subjonctif Imparfait ft)"
           ],
           "answerIndex": 0,
           "explanation": "L'accent circonflexe à la 3e personne du singulier identifie formellement le subjonctif imparfait (qu'il parlât, qu'il finît, qu'il fût)."
@@ -18227,10 +18227,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la forme au subjonctif imparfait du verbe « être » à la 3e personne du singulier ?",
           "options": [
-            "soit (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "serait (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "fût (Recognize and compose with the literary Subjonctif Imparfait ft (U33))",
-            "fut (Recognize and compose with the literary Subjonctif Imparfait ft (U33))"
+            "soit (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "serait (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "fût (Recognize and compose with the literary Subjonctif Imparfait ft)",
+            "fut (Recognize and compose with the literary Subjonctif Imparfait ft)"
           ],
           "answerIndex": 2,
           "explanation": "« qu'il fût » (avec circonflexe) est le subjonctif imparfait, tandis que « il fut » (sans circonflexe) est le passé simple."
@@ -18306,10 +18306,10 @@
         {
           "prompt": "Dans la structure d'une période oratoire classique, comment nomme-t-on le mouvement descendant qui résout la tension de la phrase ?",
           "options": [
-            "L'apodose (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "La protase (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "L'acmé (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "L'ellipse (Analyze and construct elevated French prose cadence rythme ternaire (U33))"
+            "L'apodose (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "La protase (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "L'acmé (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "L'ellipse (Analyze and construct elevated French prose cadence rythme ternaire)"
           ],
           "answerIndex": 0,
           "explanation": "La période classique comprend la protase (mouvement ascendant), l'acmé (sommet) et l'apodose (mouvement descendant conclusif)."
@@ -18321,10 +18321,10 @@
         {
           "prompt": "Quel procédé stylistique consiste à juxtaposer des propositions sans conjonctions de coordination pour accélérer le rythme ?",
           "options": [
-            "La parataxe (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "L'hypotaxe (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "L'hyperbole (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "La périphrase (Analyze and construct elevated French prose cadence rythme ternaire (U33))"
+            "La parataxe (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "L'hypotaxe (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "L'hyperbole (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "La périphrase (Analyze and construct elevated French prose cadence rythme ternaire)"
           ],
           "answerIndex": 0,
           "explanation": "La parataxe supprime les liens de subordination pour créer un style plus dense, incisif et direct (opposée à l'hypotaxe)."
@@ -18337,10 +18337,10 @@
           "type": "multiple-choice",
           "prompt": "Comment nomme-t-on une figure de rythme articulée en trois temps équilibrés particulièrement prisée dans la prose française classique ?",
           "options": [
-            "Le rythme binaire (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "Le rythme ternaire (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "Un alexandrin libre (Analyze and construct elevated French prose cadence rythme ternaire (U33))",
-            "Une assonance (Analyze and construct elevated French prose cadence rythme ternaire (U33))"
+            "Le rythme binaire (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "Le rythme ternaire (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "Un alexandrin libre (Analyze and construct elevated French prose cadence rythme ternaire)",
+            "Une assonance (Analyze and construct elevated French prose cadence rythme ternaire)"
           ],
           "answerIndex": 1,
           "explanation": "Le « rythme ternaire » équilibre trois éléments ou propositions consécutives pour créer une harmonie oratoire idéale."
@@ -18414,10 +18414,10 @@
         {
           "prompt": "Quelle figure de style consiste à attribuer à un mot d'une phrase ce qui conviendrait logiquement à un autre (ex : « un regard inquiet marchant dans la nuit ») ?",
           "options": [
-            "L'hypallage (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "La pléonazme (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "L'onomatopée (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "L'anacoluthe (Identify and master sophisticated rhetorical figures lhypallage (U33))"
+            "L'hypallage (Identify and master sophisticated rhetorical figures lhypallage)",
+            "La pléonazme (Identify and master sophisticated rhetorical figures lhypallage)",
+            "L'onomatopée (Identify and master sophisticated rhetorical figures lhypallage)",
+            "L'anacoluthe (Identify and master sophisticated rhetorical figures lhypallage)"
           ],
           "answerIndex": 0,
           "explanation": "L'hypallage déplace un qualificatif d'un élément vers un autre avec lequel il est lié par le contexte."
@@ -18429,10 +18429,10 @@
         {
           "prompt": "Quelle figure rhétorique consiste à déclarer qu'on ne parlera pas d'un sujet tout en le développant expressément ?",
           "options": [
-            "La prétérition (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "La litote (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "La gradation (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "L'antiphrase (Identify and master sophisticated rhetorical figures lhypallage (U33))"
+            "La prétérition (Identify and master sophisticated rhetorical figures lhypallage)",
+            "La litote (Identify and master sophisticated rhetorical figures lhypallage)",
+            "La gradation (Identify and master sophisticated rhetorical figures lhypallage)",
+            "L'antiphrase (Identify and master sophisticated rhetorical figures lhypallage)"
           ],
           "answerIndex": 0,
           "explanation": "La prétérition (« Je ne dirai rien de... », « Nul besoin de mentionner... ») attire l'attention sur ce qu'on feint de taire."
@@ -18445,10 +18445,10 @@
           "type": "multiple-choice",
           "prompt": "Dans la formule de Pascal « Le cœur a ses raisons que la raison ne connaît point », quelle figure fait jouer deux sens différents d'un même mot ?",
           "options": [
-            "Une hyperbole (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "Une allitération (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "Une antanaclase (Identify and master sophisticated rhetorical figures lhypallage (U33))",
-            "Une métaphore filée (Identify and master sophisticated rhetorical figures lhypallage (U33))"
+            "Une hyperbole (Identify and master sophisticated rhetorical figures lhypallage)",
+            "Une allitération (Identify and master sophisticated rhetorical figures lhypallage)",
+            "Une antanaclase (Identify and master sophisticated rhetorical figures lhypallage)",
+            "Une métaphore filée (Identify and master sophisticated rhetorical figures lhypallage)"
           ],
           "answerIndex": 2,
           "explanation": "L'« antanaclase » répète un même signifiant en lui conférant deux signifiés distincts."
@@ -18524,10 +18524,10 @@
         {
           "prompt": "Quel écrivain français majeur est l'auteur du célèbre recueil de pastiches littéraires « Pastiches et Mélanges » (1919) ?",
           "options": [
-            "Marcel Proust (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "Albert Camus (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "Émile Zola (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "Jean-Paul Sartre (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))"
+            "Marcel Proust (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "Albert Camus (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "Émile Zola (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "Jean-Paul Sartre (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)"
           ],
           "answerIndex": 0,
           "explanation": "Marcel Proust y déploie un génie mimétique incomparable en pastichant Flaubert, Balzac, Saint-Simon et Michelet."
@@ -18539,10 +18539,10 @@
         {
           "prompt": "Comment nommait Flaubert la pièce isolée où il déclamait ses phrases à pleine voix pour tester leur rythme et leur cadence sonore ?",
           "options": [
-            "Le gueuloir (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "Le laboratoire (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "L'auditorium (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "Le parloir (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))"
+            "Le gueuloir (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "Le laboratoire (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "L'auditorium (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "Le parloir (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)"
           ],
           "answerIndex": 0,
           "explanation": "Flaubert soumettait chaque phrase à l'épreuve physique du « gueuloir » pour en traquer les lourdeurs et cacophonies."
@@ -18555,10 +18555,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la caractéristique stylistique majeure de la phrase proustienne dans « À la recherche du temps perdu » ?",
           "options": [
-            "Des phrases nominales de trois mots maximum (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "Une longue phrase sinueuse à subordination ample et métaphores déployées (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "L'usage exclusif du présent et du tutoiement (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))",
-            "L'absence totale de ponctuation (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose (U33))"
+            "Des phrases nominales de trois mots maximum (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "Une longue phrase sinueuse à subordination ample et métaphores déployées (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "L'usage exclusif du présent et du tutoiement (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)",
+            "L'absence totale de ponctuation (Compose a complete literary pastiche emulating 19th or 20thcentury classical French prose)"
           ],
           "answerIndex": 1,
           "explanation": "La phrase proustienne se déploie en longues volutes périodiques embrassant la complexité de la conscience et du souvenir."
@@ -18632,10 +18632,10 @@
         {
           "prompt": "Dans la rhétorique classique française, comment nomme-t-on la conclusion solennelle et émouvante d'un discours ?",
           "options": [
-            "La péroraison (Deliver highimpact public oratory (U34))",
-            "L'exorde (Deliver highimpact public oratory (U34))",
-            "L'incipit (Deliver highimpact public oratory (U34))",
-            "Le préambule (Deliver highimpact public oratory (U34))"
+            "La péroraison (Deliver highimpact public oratory)",
+            "L'exorde (Deliver highimpact public oratory)",
+            "L'incipit (Deliver highimpact public oratory)",
+            "Le préambule (Deliver highimpact public oratory)"
           ],
           "answerIndex": 0,
           "explanation": "La péroraison est la partie finale du discours oratoire où l'orateur récapitule ses arguments majeurs et suscite l'émotion décisive."
@@ -18647,10 +18647,10 @@
         {
           "prompt": "Quelle célèbre formule d'exorde vise à s'attirer la sympathie et l'attention bienveillante de l'auditoire ?",
           "options": [
-            "La captatio benevolentiae (Deliver highimpact public oratory (U34))",
-            "L'argument ad hominem (Deliver highimpact public oratory (U34))",
-            "Le pléonasme (Deliver highimpact public oratory (U34))",
-            "La mise en abyme (Deliver highimpact public oratory (U34))"
+            "La captatio benevolentiae (Deliver highimpact public oratory)",
+            "L'argument ad hominem (Deliver highimpact public oratory)",
+            "Le pléonasme (Deliver highimpact public oratory)",
+            "La mise en abyme (Deliver highimpact public oratory)"
           ],
           "answerIndex": 0,
           "explanation": "La captatio benevolentiae est le procédé d'ouverture cherchant à s'attirer la bienveillance des auditeurs dès les premiers mots."
@@ -18663,10 +18663,10 @@
           "type": "multiple-choice",
           "prompt": "Quel grand écrivain et ministre prononça en 1964 au Panthéon le célèbre discours en hommage à Jean Moulin (« Entre ici, Jean Moulin... ») ?",
           "options": [
-            "Jean-Paul Sartre (Deliver highimpact public oratory (U34))",
-            "Albert Camus (Deliver highimpact public oratory (U34))",
-            "André Malraux (Deliver highimpact public oratory (U34))",
-            "François Mauriac (Deliver highimpact public oratory (U34))"
+            "Jean-Paul Sartre (Deliver highimpact public oratory)",
+            "Albert Camus (Deliver highimpact public oratory)",
+            "André Malraux (Deliver highimpact public oratory)",
+            "François Mauriac (Deliver highimpact public oratory)"
           ],
           "answerIndex": 2,
           "explanation": "André Malraux (ministre d'État chargé des Affaires culturelles sous De Gaulle) a prononcé cette oraison funèbre historique."
@@ -18740,10 +18740,10 @@
         {
           "prompt": "Quel mot en verlan est l'inversion syllabique du mot « louche » (bizarre, suspect) ?",
           "options": [
-            "Chelou (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "Relou (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "Zarbi (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "Vénère (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))"
+            "Chelou (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "Relou (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "Zarbi (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "Vénère (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)"
           ],
           "answerIndex": 0,
           "explanation": "« Chelou » est le verlan direct de « louche » (lou-che -> che-lou)."
@@ -18755,10 +18755,10 @@
         {
           "prompt": "Quelle transformation linguistique caractérise le registre familier oral par rapport au registre standard en français ?",
           "options": [
-            "L'omission courante de la particule négative « ne » (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "L'ajout obligatoire du subjonctif plus-que-parfait (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "L'inversion du sujet et du verbe dans toutes les phrases (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "L'utilisation exclusive de l'alexandrin (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))"
+            "L'omission courante de la particule négative « ne » (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "L'ajout obligatoire du subjonctif plus-que-parfait (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "L'inversion du sujet et du verbe dans toutes les phrases (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "L'utilisation exclusive de l'alexandrin (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)"
           ],
           "answerIndex": 0,
           "explanation": "À l'oral familier, le 'ne' est presque systématiquement élidé, le 'pas' portant seul la marque négative."
@@ -18771,10 +18771,10 @@
           "type": "multiple-choice",
           "prompt": "Que signifie le terme de verlan très répandu « vénère » ?",
           "options": [
-            "Calme (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "Amoureux (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "Fatigué (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))",
-            "Énervé (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature (U34))"
+            "Calme (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "Amoureux (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "Fatigué (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)",
+            "Énervé (Navigate rapid sociolinguistic codeswitching from street argotverlan to haute littrature)"
           ],
           "answerIndex": 3,
           "explanation": "« Vénère » est le verlan de « énervé » (é-ner-vé -> vé-nair)."
@@ -18848,10 +18848,10 @@
         {
           "prompt": "En Suisse et en Belgique, comment dit-on respectivement les nombres 70 et 90 ?",
           "options": [
-            "Septante et nonante (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "Soixante-dix et quatre-vingt-dix (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "Dix-sept et dix-neuf (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "Cinquante et soixante (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))"
+            "Septante et nonante (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "Soixante-dix et quatre-vingt-dix (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "Dix-sept et dix-neuf (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "Cinquante et soixante (Appreciate regional and panFrancophone linguistic idioms Qubec)"
           ],
           "answerIndex": 0,
           "explanation": "« Septante » (70) et « nonante » (90) sont les formes régulières et logiques employées en Belgique, en Suisse et dans d'autres pays francophones."
@@ -18863,10 +18863,10 @@
         {
           "prompt": "Quel mot créé au Québec est aujourd'hui utilisé dans tout le monde francophone pour désigner un courrier électronique ?",
           "options": [
-            "Le courriel (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "Le mél (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "L'e-mail américain (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "La lettre postale (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))"
+            "Le courriel (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "Le mél (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "L'e-mail américain (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "La lettre postale (Appreciate regional and panFrancophone linguistic idioms Qubec)"
           ],
           "answerIndex": 0,
           "explanation": "« Courriel » (mot-valise de courrier + électronique) a été forgé au Québec et officialisé dans toute la francophonie."
@@ -18879,10 +18879,10 @@
           "type": "multiple-choice",
           "prompt": "Quel grand poète et président sénégalais fut le premier Africain élu à l'Académie française et père fondateur de la Francophonie ?",
           "options": [
-            "Aimé Césaire (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "Cheikh Anta Diop (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "Léopold Sédar Senghor (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))",
-            "Amadou Hampâté Bâ (Appreciate regional and panFrancophone linguistic idioms Qubec (U34))"
+            "Aimé Césaire (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "Cheikh Anta Diop (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "Léopold Sédar Senghor (Appreciate regional and panFrancophone linguistic idioms Qubec)",
+            "Amadou Hampâté Bâ (Appreciate regional and panFrancophone linguistic idioms Qubec)"
           ],
           "answerIndex": 2,
           "explanation": "Léopold Sédar Senghor a été élu à l'Académie française en 1983 au fauteuil du duc de Lévis-Mirepoix."
@@ -18956,10 +18956,10 @@
         {
           "prompt": "Quelle tactique de débat consiste à retourner l'argument même de son contradicteur pour prouver la thèse inverse ?",
           "options": [
-            "Le retournement d'argument (Engage in realtime dialectical debate (U34))",
-            "L'attaque ad hominem (Engage in realtime dialectical debate (U34))",
-            "L'abandon du débat (Engage in realtime dialectical debate (U34))",
-            "Le changement brusque de sujet (Engage in realtime dialectical debate (U34))"
+            "Le retournement d'argument (Engage in realtime dialectical debate)",
+            "L'attaque ad hominem (Engage in realtime dialectical debate)",
+            "L'abandon du débat (Engage in realtime dialectical debate)",
+            "Le changement brusque de sujet (Engage in realtime dialectical debate)"
           ],
           "answerIndex": 0,
           "explanation": "La rétorsion (ou antistrophe) utilise les prémisses mêmes de l'adversaire pour en tirer la conclusion diamétralement opposée."
@@ -18971,10 +18971,10 @@
         {
           "prompt": "Comment nomme-t-on le sophisme qui consiste à caricaturer grossièrement la position de l'adversaire pour la réfuter plus facilement ?",
           "options": [
-            "Le sophisme de l'épouvantail (Engage in realtime dialectical debate (U34))",
-            "Le syllogisme parfait (Engage in realtime dialectical debate (U34))",
-            "La pétition de principe (Engage in realtime dialectical debate (U34))",
-            "Le dilemme cornélien (Engage in realtime dialectical debate (U34))"
+            "Le sophisme de l'épouvantail (Engage in realtime dialectical debate)",
+            "Le syllogisme parfait (Engage in realtime dialectical debate)",
+            "La pétition de principe (Engage in realtime dialectical debate)",
+            "Le dilemme cornélien (Engage in realtime dialectical debate)"
           ],
           "answerIndex": 0,
           "explanation": "L'épouvantail déforme la thèse adverse afin d'attaquer une version affaiblie et caricaturale."
@@ -18987,10 +18987,10 @@
           "type": "multiple-choice",
           "prompt": "Quelle est la nature d'un raisonnement faux tenu de bonne foi sans intention délibérée de tromper (par opposition au sophisme) ?",
           "options": [
-            "Un anachronisme (Engage in realtime dialectical debate (U34))",
-            "Un néologisme (Engage in realtime dialectical debate (U34))",
-            "Un barbarisme (Engage in realtime dialectical debate (U34))",
-            "Un paralogisme (Engage in realtime dialectical debate (U34))"
+            "Un anachronisme (Engage in realtime dialectical debate)",
+            "Un néologisme (Engage in realtime dialectical debate)",
+            "Un barbarisme (Engage in realtime dialectical debate)",
+            "Un paralogisme (Engage in realtime dialectical debate)"
           ],
           "answerIndex": 3,
           "explanation": "Un « paralogisme » est une erreur de raisonnement involontaire, alors qu'un sophisme est intentionnellement trompeur."
@@ -19064,10 +19064,10 @@
         {
           "prompt": "Quelle célèbre institution française fondée en 1635 par le cardinal de Richelieu veille officiellement sur la langue française et son dictionnaire ?",
           "options": [
-            "L'Académie française (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "L'Assemblée nationale (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "Le Conseil d'État (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "La Sorbonne (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))"
+            "L'Académie française (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "L'Assemblée nationale (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "Le Conseil d'État (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "La Sorbonne (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)"
           ],
           "answerIndex": 0,
           "explanation": "L'Académie française réunit les 'Immortels' sous la devise « À l'immortalité » pour perfectionner et défendre la langue française."
@@ -19079,10 +19079,10 @@
         {
           "prompt": "Quel niveau du Cadre européen commun de référence pour les langues (CECRL) sanctionne la maîtrise linguistique supérieure et sommitive complète ?",
           "options": [
-            "Le niveau C2 (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "Le niveau A1 (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "Le niveau B1 (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "Le niveau A2 (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))"
+            "Le niveau C2 (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "Le niveau A1 (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "Le niveau B1 (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "Le niveau A2 (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)"
           ],
           "answerIndex": 0,
           "explanation": "Le niveau C2 représente le sommet absolu de la maîtrise linguistique et stylistique."
@@ -19095,10 +19095,10 @@
           "type": "multiple-choice",
           "prompt": "Combien d'académiciens, surnommés traditionnellement « les Immortels », composent l'Académie française ?",
           "options": [
-            "Vingt (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "Cent (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "Douze (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))",
-            "Quarante (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery (U34))"
+            "Vingt (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "Cent (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "Douze (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)",
+            "Quarante (Deliver the comprehensive C2 Capstone address synthesizing full nativelevel French mastery)"
           ],
           "answerIndex": 3,
           "explanation": "L'Académie française compte traditionnellement quarante membres élus à vie (les quarante fauteuils)."

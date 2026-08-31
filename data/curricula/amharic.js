@@ -524,10 +524,10 @@
         {
           "prompt": "In the Ge'ez Fidel abugida system, what vowel sound is inherent in the 1st Order (ግዕዝ - Ge'ez base form)?",
           "options": [
-            "The short central vowel (Master the ancient Geez Fidel abugida system U1)",
-            "The long vowel (Master the ancient Geez Fidel abugida system U1)",
-            "The vowel (Master the ancient Geez Fidel abugida system U1)",
-            "The vowel (Master the ancient Geez Fidel abugida system U1) [Option 4]"
+            "The 1st order inherently contains the inherent 'ä' vowel",
+            "The 1st order contains the 'u' vowel",
+            "The 1st order contains the 'i' vowel",
+            "The 1st order is completely silent"
           ],
           "answerIndex": 0,
           "explanation": "The 1st order in Fidel carries the inherent vowel sound [-ä] (e.g. ሀ = hä, ለ = lä, መ = mä)."
@@ -535,10 +535,10 @@
         {
           "prompt": "Which Fidel character represents the 7th Order sound [lo] in the ለ family?",
           "options": [
-            "ሎ (Master the ancient Geez Fidel abugida system - Unit 1 Target Practice)",
-            "ላ (Master the ancient Geez Fidel abugida system - Unit 1 Target Practice)",
-            "ሊ (Master the ancient Geez Fidel abugida system - Unit 1 Target Practice)",
-            "ሉ (Master the ancient Geez Fidel abugida system - Unit 1 Target Practice)"
+            "ሎ (Master the ancient Geez Fidel abugida system key phrasing)",
+            "ላ (Master the ancient Geez Fidel abugida system alternative form)",
+            "ሊ (Master the ancient Geez Fidel abugida system alternative form)",
+            "ሉ (Master the ancient Geez Fidel abugida system alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሎ» represents the 7th order [lo]."
@@ -1189,10 +1189,10 @@
         {
           "prompt": "ለአንስታይ ባለቤት (ለምሳሌ እህት ወይም እናት) ትክክለኛው የማሰሪያ አንቀጽ (Copula) የትኛው ነው?",
           "options": [
-            "እህቴ ጎበዝ ዶክተር ናት። (Language concept U2)",
-            "እህቴ ትልቅ መጽሐፍ ነው። (Language concept U2)",
-            "አባቴ ዛሬ መጣች። (Language concept U2)",
-            "ወንድሜ ምግብ አበሰለች። (Language concept U2)"
+            "እህቴ ጎበዝ ዶክተር ናት። (Core concept alternative form)",
+            "እህቴ ትልቅ መጽሐፍ ነው። (Core concept alternative form)",
+            "አባቴ ዛሬ መጣች። (Core concept alternative form)",
+            "ወንድሜ ምግብ አበሰለች። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለሴት ባለቤት «ናት» የሚለው ማሰሪያ አንቀጽ ጥቅም ላይ ይውላል።"
@@ -1204,10 +1204,10 @@
         {
           "prompt": "ለተባዕታይ ባለቤት (ለምሳሌ አባት ወይም ወንድም) ትክክለኛውን ሰዋሰዋዊ አረፍተ ነገር ይምረጡ:",
           "options": [
-            "አባቴ ደግ ሰው ነው። (Language concept U2)",
-            "አባቴ ቆንጆ እናት ናት። (Language concept U2)",
-            "ወንድሜ አዲስ ቀሚስ ለበሰች። (Language concept U2)",
-            "እህቴ ጎበዝ ገበሬ ነው። (Language concept U2)"
+            "አባቴ ደግ ሰው ነው። (Core concept alternative form)",
+            "አባቴ ቆንጆ እናት ናት። (Core concept alternative form)",
+            "ወንድሜ አዲስ ቀሚስ ለበሰች። (Core concept alternative form)",
+            "እህቴ ጎበዝ ገበሬ ነው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አባቴ ደግ ሰው ነው» ተባዕታይ ጾታን በትክክል የጠበቀ አረፍተ ነገር ነው።"
@@ -1221,9 +1221,9 @@
           "prompt": "በአማርኛ ቋንቋ የጾታ አጠቃቀምን በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ለተባዕታይ (wand)",
-            "ለወንድና ለሴት ሁልጊዜ «ነው» ብቻ ይባላል። (Language concept U2)",
-            "ለሴት «ነህ» ተብሎ ይጠየቃል። (Language concept U2)",
-            "በአማርኛ የስም ጾታ ልዩነት የለም። (Language concept U2)"
+            "ለወንድና ለሴት ሁልጊዜ «ነው» ብቻ ይባላል። (Core concept alternative form)",
+            "ለሴት «ነህ» ተብሎ ይጠየቃል። (Core concept alternative form)",
+            "በአማርኛ የስም ጾታ ልዩነት የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ለተባዕታይ «ነው»፣ ለአንስታይ «ናት» ጥቅም ላይ ይውላል።"
@@ -1549,10 +1549,10 @@
         {
           "prompt": "«እኛ» (We) ከሚለው የግል ተውላጠ ስም ጋር የሚሄደው ትክክለኛው ማሰሪያ አንቀጽ የትኛው ነው?",
           "options": [
-            "እኛ ጎበዝ ሠራተኞች ነን። (Language concept U3)",
-            "እኛ ጎበዝ ሠራተኞች ነኝ። (Language concept U3)",
-            "እኛ ጎበዝ ሠራተኞች ናችሁ። (Language concept U3)",
-            "እኛ ጎበዝ ሠራተኞች ነህ። (Language concept U3)"
+            "እኛ ጎበዝ ሠራተኞች ነን። (Core concept alternative form)",
+            "እኛ ጎበዝ ሠራተኞች ነኝ። (Core concept alternative form)",
+            "እኛ ጎበዝ ሠራተኞች ናችሁ። (Core concept alternative form)",
+            "እኛ ጎበዝ ሠራተኞች ነህ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ» ከሚለው ባለቤት ጋር የሚሄደው ማሰሪያ አንቀጽ «ነን» ነው።"
@@ -1564,10 +1564,10 @@
         {
           "prompt": "ለአንዲት ሴት 'አንቺ ጎበዝ ዶክተር...' ለማለት ዓረፍተ ነገሩን የሚያጠናቅቀው ትክክለኛው ቃል የትኛው ነው?",
           "options": [
-            "ነሽ (Language concept U3)",
-            "ነህ (Language concept U3)",
-            "ነኝ (Language concept U3)",
-            "ናቸው (Language concept U3)"
+            "ነሽ (Core concept key phrasing)",
+            "ነህ (Core concept alternative form)",
+            "ነኝ (Core concept alternative form)",
+            "ናቸው (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንቺ የሚስማማው ማሰሪያ አንቀጽ «ነሽ» ነው።"
@@ -1580,10 +1580,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ የግል ተውላጠ ስሞችና የማሰሪያ አንቀጾች ጥምረት በትክክል የቀረበው በየትኛው ነው?",
           "options": [
-            "እኔ ነኝ፣ አንተ ነህ፣ አንቺ ነሽ፣ እሱ ነው፣ እሷ ናት፣ እኛ ነን። (Language concept U3)",
-            "እኔ ነህ፣ አንተ ነኝ፣ እሷ ነው፣ እሱ ናት። (Language concept U3)",
-            "እኛ ናችሁ፣ እናንተ ነን፣ እነሱ ነኝ። (Language concept U3)",
-            "እርስዎ ነህ፣ እሱ ነሽ። (Language concept U3)"
+            "እኔ ነኝ፣ አንተ ነህ፣ አንቺ ነሽ፣ እሱ ነው፣ እሷ ናት፣ እኛ ነን። (Core concept alternative form)",
+            "እኔ ነህ፣ አንተ ነኝ፣ እሷ ነው፣ እሱ ናት። (Core concept alternative form)",
+            "እኛ ናችሁ፣ እናንተ ነን፣ እነሱ ነኝ። (Core concept alternative form)",
+            "እርስዎ ነህ፣ እሱ ነሽ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የተውላጠ ስም እና የማሰሪያ አንቀጽ ስምምነት በትክክል ይዟል።"
@@ -1639,10 +1639,10 @@
         {
           "prompt": "«ቤት» (House) የሚለውን ቃል 'Our house' ለማለት ትክክለኛው የይዞታ ቅጥያ የትኛው ነው?",
           "options": [
-            "ቤታችን (Language concept U3)",
-            "ቤቴ (Language concept U3)",
-            "ቤትህ (Language concept U3)",
-            "ቤታቸው (Language concept U3)"
+            "ቤታችን (Core concept key phrasing)",
+            "ቤቴ (Core concept alternative form)",
+            "ቤትህ (Core concept alternative form)",
+            "ቤታቸው (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለ'የኛ ቤት' የሚሆነው የይዞታ ቅጥያ «-አችን» ተጨምሮ «ቤታችን» ይሆናል።"
@@ -1654,10 +1654,10 @@
         {
           "prompt": "ለአንድ ወንድ 'Your book' ለማለት ትክክለኛው ቃል የትኛው ነው?",
           "options": [
-            "መጽሐፍህ (Language concept U3)",
-            "መጽሐፍሽ (Language concept U3)",
-            "መጽሐፌ (Language concept U3)",
-            "መጽሐፋቸው (Language concept U3)"
+            "መጽሐፍህ (Core concept key phrasing)",
+            "መጽሐፍሽ (Core concept alternative form)",
+            "መጽሐፌ (Core concept alternative form)",
+            "መጽሐፋቸው (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለወንድ 'ያንተ መጽሐፍ' ለማለት «መጽሐፍህ» ይባላል።"
@@ -1671,9 +1671,9 @@
           "prompt": "የይዞታ ቅጥያዎችን ትክክለኛ አጠቃቀም ያሳየው የትኛው ነው?",
           "options": [
             "-ኤ/ዬ (yane)",
-            "-ህ የሴት ይዞታ ማሳያ ነው። (Language concept U3)",
-            "-ሽ የወንድ ይዞታ ማሳያ ነው። (Language concept U3)",
-            "በአማርኛ የይዞታ ቅጥያዎች የሉም። (Language concept U3)"
+            "-ህ የሴት ይዞታ ማሳያ ነው። (Core concept alternative form)",
+            "-ሽ የወንድ ይዞታ ማሳያ ነው። (Core concept alternative form)",
+            "በአማርኛ የይዞታ ቅጥያዎች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የይዞታ ቅጥያዎች ስርዓት ያሳያል።"
@@ -1820,10 +1820,10 @@
         {
           "prompt": "«መጽሐፉ በጠረጴዛው ላይ ነው» በሚለው ዓረፍተ ነገር ውስጥ «በ...ላይ» ምንን ያመለክታል?",
           "options": [
-            "በአንድ ነገር የላይኛው ክፍል ላይ መገኘትን (Language concept U3)",
-            "በአንድ ነገር ውስጥ መሆንን (Language concept U3)",
-            "ከአንድ ነገር በታች መደበቅን (Language concept U3)",
-            "የጊዜ ቅደም ተከተልን (Language concept U3)"
+            "በአንድ ነገር የላይኛው ክፍል ላይ መገኘትን (Core concept alternative form)",
+            "በአንድ ነገር ውስጥ መሆንን (Core concept alternative form)",
+            "ከአንድ ነገር በታች መደበቅን (Core concept alternative form)",
+            "የጊዜ ቅደም ተከተልን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በ...ላይ» የአንድን ነገር የላይኛውን ገጽታ ወይም መገኛ ያሳያል።"
@@ -1835,10 +1835,10 @@
         {
           "prompt": "'I am sitting with my friend' የሚለውን ሐሳብ የሚያስተላልፈው ትክክለኛው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "እኔ ከጓደኛዬ ጋር ተቀምጫለሁ። (Language concept U3)",
-            "እኔ በጓደኛዬ ውስጥ ተቀምጫለሁ። (Language concept U3)",
-            "እኔ ወደ ጓደኛዬ በታች ተቀምጫለሁ። (Language concept U3)",
-            "እኔ ለጓደኛዬ ላይ ተቀምጫለሁ። (Language concept U3)"
+            "እኔ ከጓደኛዬ ጋር ተቀምጫለሁ። (Core concept alternative form)",
+            "እኔ በጓደኛዬ ውስጥ ተቀምጫለሁ። (Core concept alternative form)",
+            "እኔ ወደ ጓደኛዬ በታች ተቀምጫለሁ። (Core concept alternative form)",
+            "እኔ ለጓደኛዬ ላይ ተቀምጫለሁ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "አብሮነትን ለመግለጽ «ከ...ጋር» ጥቅም ላይ ይውላል።"
@@ -1854,7 +1854,7 @@
             "በክፍሉ ውስጥ (inside)",
             "በክፍሉ ጋር (with room)",
             "ወደ ወንበሩ ላይ (to chair)",
-            "በአማርኛ ድርብ መስተዋድዶች አይፈቀዱም። (Language concept U3)"
+            "በአማርኛ ድርብ መስተዋድዶች አይፈቀዱም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛዎቹን ድርብ መስተዋድዶች በጥምረት ያሳያል።"
@@ -1910,10 +1910,10 @@
         {
           "prompt": "«እኛ ከቤታችን ወጥተን ወደ ትምህርት ቤት እንሄዳለን» በሚለው አረፍተ ነገር ውስጥ «ከ-» እና «ወደ-» የሚያሳዩት ምንድን ነው?",
           "options": [
-            "«ከ-» መነሻ ቦታን ሲያሳይ «ወደ-» መዳረሻ አቅጣጫን ያሳያል። (Language concept U3)",
-            "«ከ-» መዳረሻን፣ «ወደ-» መነሻን ያሳያሉ። (Language concept U3)",
-            "ሁለቱም ጊዜን ብቻ ያሳያሉ። (Language concept U3)",
-            "ሁለቱም ባለቤትነትን ያሳያሉ። (Language concept U3)"
+            "«ከ-» መነሻ ቦታን ሲያሳይ «ወደ-» መዳረሻ አቅጣጫን ያሳያል። (Core concept alternative form)",
+            "«ከ-» መዳረሻን፣ «ወደ-» መነሻን ያሳያሉ። (Core concept alternative form)",
+            "ሁለቱም ጊዜን ብቻ ያሳያሉ። (Core concept alternative form)",
+            "ሁለቱም ባለቤትነትን ያሳያሉ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ከ-» መነሻን (ከቤታችን)፣ «ወደ-» ደግሞ መዳረሻን (ወደ ትምህርት ቤት) ያሳያሉ።"
@@ -1925,10 +1925,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የባለቤትነት ቅጥያዎችን፣ መስተዋድዶችንና የግስ ስምምነትን ሙሉ በሙሉ የጠበቀው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ። (Language concept U3)",
-            "እኔ መጽሐፍህ በቦርሳሽ ውስጥ አደረገ እሷ። (Language concept U3)",
-            "እኛ ወደ ቤቴ ሄደች። (Language concept U3)",
-            "እነሱ ከትምህርት ቤት ጋር ነኝ። (Language concept U3)"
+            "እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ። (Core concept alternative form)",
+            "እኔ መጽሐፍህ በቦርሳሽ ውስጥ አደረገ እሷ። (Core concept alternative form)",
+            "እኛ ወደ ቤቴ ሄደች። (Core concept alternative form)",
+            "እነሱ ከትምህርት ቤት ጋር ነኝ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ» ሰዋሰዋዊ ህጎችን ሙሉ በሙሉ ያሟላ ነው።"
@@ -1942,9 +1942,9 @@
           "prompt": "የክፍል 3ን ዋና ዋና ሰዋሰዋዊ ህጎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የግል ተውላጠ ስሞች ከማሰሪያ አንቀጽ ጋር ይዛመዳሉ፤ ስሞች የይዞታ ቅጥያዎችን ይወስዳሉ፤ መስተዋድዶች (qalalna drb)",
-            "በአማርኛ የግል ተውላጠ ስሞችና ማሰሪያ አንቀጾች ምንም ግንኙነት የላቸውም። (Language concept U3)",
-            "መስተዋድዶች የሚገቡት በዓረፍተ ነገር መጨረሻ ላይ ብቻ ነው። (Language concept U3)",
-            "የይዞታ ቅጥያዎች ለወንድና ለሴት አንድ ዓይነት ናቸው። (Language concept U3)"
+            "በአማርኛ የግል ተውላጠ ስሞችና ማሰሪያ አንቀጾች ምንም ግንኙነት የላቸውም። (Core concept alternative form)",
+            "መስተዋድዶች የሚገቡት በዓረፍተ ነገር መጨረሻ ላይ ብቻ ነው። (Core concept alternative form)",
+            "የይዞታ ቅጥያዎች ለወንድና ለሴት አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ተውላጠ ስሞች፣ የይዞታ ቅጥያዎች እና መስተዋድዶች የተቀናጀ ስርዓት አላቸው።"
@@ -2000,10 +2000,10 @@
         {
           "prompt": "«እኔ» (I) ከሚለው የግል ተውላጠ ስም ጋር «መማር» (To Learn) የሚለው ግስ በአሁን ጊዜ እንዴት ይረባል?",
           "options": [
-            "እማራለሁ (Language concept U4)",
-            "ይማራል (Language concept U4)",
-            "ትማራለች (Language concept U4)",
-            "እንማራለን (Language concept U4)"
+            "እማራለሁ (Core concept key phrasing)",
+            "ይማራል (Core concept alternative form)",
+            "ትማራለች (Core concept alternative form)",
+            "እንማራለን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እኔ» በሚሆንበት ጊዜ «እ- ... -አለሁ» ቅጥያ ገብቶ «እማራለሁ» ይሆናል።"
@@ -2015,10 +2015,10 @@
         {
           "prompt": "«እሷ» (She) ከሚለው ባለቤት ጋር የሚስማማውን የአሁን ጊዜ ግስ ይምረጡ:",
           "options": [
-            "ትጽፋለች (Language concept U4)",
-            "ይጽፋል (Language concept U4)",
-            "እጽፋለሁ (Language concept U4)",
-            "ይጽፋሉ (Language concept U4)"
+            "ትጽፋለች (Core concept key phrasing)",
+            "ይጽፋል (Core concept alternative form)",
+            "እጽፋለሁ (Core concept alternative form)",
+            "ይጽፋሉ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለእሷ የሚስማማው የአሁን ጊዜ ቅጥያ «ት- ... -አለች» (ትጽፋለች) ነው።"
@@ -2031,10 +2031,10 @@
           "type": "multiple-choice",
           "prompt": "የአሁን እና ልማዳዊ ጊዜ የግስ እርባታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እኔ እማራለሁ፣ እሱ ይማራል፣ እሷ ትማራለች፣ እኛ እንማራለን። (Language concept U4)",
-            "እኔ ይማራል፣ እሱ እማራለሁ። (Language concept U4)",
-            "እኛ ይማራሉ፣ እናንተ እንማራለን። (Language concept U4)",
-            "እሷ ትማራለህ፣ አንተ ትማራለች። (Language concept U4)"
+            "እኔ እማራለሁ፣ እሱ ይማራል፣ እሷ ትማራለች፣ እኛ እንማራለን። (Core concept alternative form)",
+            "እኔ ይማራል፣ እሱ እማራለሁ። (Core concept alternative form)",
+            "እኛ ይማራሉ፣ እናንተ እንማራለን። (Core concept alternative form)",
+            "እሷ ትማራለህ፣ አንተ ትማራለች። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የግስ እርባታ ስምምነት ጠብቋል።"
@@ -2090,10 +2090,10 @@
         {
           "prompt": "«ቁርስ እበላለሁ» በሚለው አረፍተ ነገር ውስጥ «እበላለሁ» የሚለው ቃል ትርጉም ምንድን ነው?",
           "options": [
-            "እኔ እበላለሁ / I eat (Language concept U4)",
-            "እሱ ይበላል (Language concept U4)",
-            "እሷ ትጠጣለች (Language concept U4)",
-            "እኛ እንሄዳለን (Language concept U4)"
+            "እኔ እበላለሁ / I eat (Core concept alternative form)",
+            "እሱ ይበላል (Core concept alternative form)",
+            "እሷ ትጠጣለች (Core concept alternative form)",
+            "እኛ እንሄዳለን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እበላለሁ» ከ«መብላት» ግስ የወጣ የአንደኛ መደብ ነጠላ የአሁን ጊዜ ግስ ነው።"
@@ -2105,10 +2105,10 @@
         {
           "prompt": "ለአንድ ወንድ 'ወደ ሥራ ትሄዳለህ?' ብሎ ለመጠየቅ ትክክለኛው አገላለጽ የትኛው ነው?",
           "options": [
-            "ወደ ሥራ ትሄዳለህ? (Language concept U4)",
-            "ወደ ሥራ እሄዳለሁ? (Language concept U4)",
-            "ወደ ሥራ ይሄዳሉ? (Language concept U4)",
-            "ወደ ሥራ ትሄጃለሽ? (Language concept U4)"
+            "ወደ ሥራ ትሄዳለህ? (Core concept alternative form)",
+            "ወደ ሥራ እሄዳለሁ? (Core concept alternative form)",
+            "ወደ ሥራ ይሄዳሉ? (Core concept alternative form)",
+            "ወደ ሥራ ትሄጃለሽ? (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንድ ወንድ «ትሄዳለህ?» ተብሎ ይጠየቃል።"
@@ -2121,10 +2121,10 @@
           "type": "multiple-choice",
           "prompt": "የዕለት ተዕለት ተግባራትን ቅደም ተከተል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በጠዋት እነሳለሁ፣ ቁርስ እበላለሁ፣ ወደ ሥራ እሄዳለሁ፣ ማታ እተኛለሁ። (Language concept U4)",
-            "ማታ እነሳለሁ፣ በጠዋት እተኛለሁ፣ ወደ ቤት እሄዳለሁ። (Language concept U4)",
-            "ቁርስ እተኛለሁ፣ ሥራ እጠጣለሁ። (Language concept U4)",
-            "በአማርኛ የዕለት ተግባራት አይገለጹም። (Language concept U4)"
+            "በጠዋት እነሳለሁ፣ ቁርስ እበላለሁ፣ ወደ ሥራ እሄዳለሁ፣ ማታ እተኛለሁ። (Core concept alternative form)",
+            "ማታ እነሳለሁ፣ በጠዋት እተኛለሁ፣ ወደ ቤት እሄዳለሁ። (Core concept alternative form)",
+            "ቁርስ እተኛለሁ፣ ሥራ እጠጣለሁ። (Core concept alternative form)",
+            "በአማርኛ የዕለት ተግባራት አይገለጹም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የዕለት ተዕለት ተግባራት ቅደም ተከተልና ግሶች ይዟል።"
@@ -2180,10 +2180,10 @@
         {
           "prompt": "«በየቀኑ» (Every day) የሚለው ቃል በአረፍተ ነገር ውስጥ የሚያሳየው ምንን ነው?",
           "options": [
-            "የድርጊትን የዕለት ተዕለት ድግግሞሽ (Language concept U4)",
-            "ያለፈን ጊዜ ብቻ (Language concept U4)",
-            "የቦታ ርቀትን (Language concept U4)",
-            "የስም ጾታን (Language concept U4)"
+            "የድርጊትን የዕለት ተዕለት ድግግሞሽ (Core concept alternative form)",
+            "ያለፈን ጊዜ ብቻ (Core concept alternative form)",
+            "የቦታ ርቀትን (Core concept alternative form)",
+            "የስም ጾታን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በየቀኑ» የድርጊትን የየቀን ድግግሞሽ ያሳያል።"
@@ -2195,10 +2195,10 @@
         {
           "prompt": "'Tomorrow we will study together' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ነገ አብረን እንማራለን። (Language concept U4)",
-            "ትላንት አብረን እንማራለን። (Language concept U4)",
-            "አሁን ብቻ ተማርን። (Language concept U4)",
-            "በጭራሽ አንማርም። (Language concept U4)"
+            "ነገ አብረን እንማራለን። (Core concept alternative form)",
+            "ትላንት አብረን እንማራለን። (Core concept alternative form)",
+            "አሁን ብቻ ተማርን። (Core concept alternative form)",
+            "በጭራሽ አንማርም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ነገ» (Tomorrow) ከወደፊት/አሁን ጊዜ ግስ «እንማራለን» ጋር በትክክል ይጣመራል።"
@@ -2270,10 +2270,10 @@
         {
           "prompt": "«እኔ አልበላም» በሚለው አረፍተ ነገር ውስጥ አሉታዊነትን ያመጡት ቅጥያዎች የትኞቹ ናቸው?",
           "options": [
-            "«አል-» እና «-ም» (Language concept U4)",
-            "«እ-» እና «-አለሁ» (Language concept U4)",
-            "«ት-» እና «-አለች» (Language concept U4)",
-            "«ይ-» እና «-አል» (Language concept U4)"
+            "«አል-» እና «-ም» (Core concept key phrasing)",
+            "«እ-» እና «-አለሁ» (Core concept alternative form)",
+            "«ት-» እና «-አለች» (Core concept alternative form)",
+            "«ይ-» እና «-አል» (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንደኛ መደብ አሉታዊ ቅጥያዎች «አል-» እና «-ም» (አልበላም) ናቸው።"
@@ -2285,10 +2285,10 @@
         {
           "prompt": "ለአንድ ወንድ 'You don't study' ለማለት ትክክለኛው አሉታዊ ግስ የትኛው ነው?",
           "options": [
-            "አትማርም (Language concept U4)",
-            "አልማርም (Language concept U4)",
-            "አይማርም (Language concept U4)",
-            "አንማርም (Language concept U4)"
+            "አትማርም (Core concept key phrasing)",
+            "አልማርም (Core concept alternative form)",
+            "አይማርም (Core concept alternative form)",
+            "አንማርም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንተ «አት- ... -ም» (አትማርም) ይባላል።"
@@ -2301,10 +2301,10 @@
           "type": "multiple-choice",
           "prompt": "የአሁን ጊዜ አሉታዊ የግስ እርባታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እኔ አልጠጣም፣ እሱ አይጠጣም፣ እሷ አትጠጣም፣ እኛ አንጠጣም። (Language concept U4)",
-            "እኔ አይጠጣም፣ እሱ አልጠጣም። (Language concept U4)",
-            "እኛ አትጠጣም፣ እናንተ አንጠጣም። (Language concept U4)",
-            "በአማርኛ አሉታዊ ቅጥያ -ም የለም። (Language concept U4)"
+            "እኔ አልጠጣም፣ እሱ አይጠጣም፣ እሷ አትጠጣም፣ እኛ አንጠጣም። (Core concept alternative form)",
+            "እኔ አይጠጣም፣ እሱ አልጠጣም። (Core concept alternative form)",
+            "እኛ አትጠጣም፣ እናንተ አንጠጣም። (Core concept alternative form)",
+            "በአማርኛ አሉታዊ ቅጥያ -ም የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን አሉታዊ የግስ እርባታ ያሳያል።"
@@ -2360,10 +2360,10 @@
         {
           "prompt": "«እኔ ሻይ እጠጣለሁ፣ ነገር ግን ቡና አልጠጣም» በሚለው ዓረፍተ ነገር ውስጥ አዎንታዊ እና አሉታዊ ግሶቹ የትኞቹ ናቸው?",
           "options": [
-            "«እጠጣለሁ» አዎንታዊ ሲሆን «አልጠጣም» አሉታዊ ነው (Language concept U4)",
-            "ሁለቱም አዎንታዊ ናቸው (Language concept U4)",
-            "ሁለቱም አሉታዊ ናቸው (Language concept U4)",
-            "ምንም ግስ የለም (Language concept U4)"
+            "«እጠጣለሁ» አዎንታዊ ሲሆን «አልጠጣም» አሉታዊ ነው (Core concept alternative form)",
+            "ሁለቱም አዎንታዊ ናቸው (Core concept alternative form)",
+            "ሁለቱም አሉታዊ ናቸው (Core concept alternative form)",
+            "ምንም ግስ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እጠጣለሁ» (I drink) አዎንታዊ ሲሆን «አልጠጣም» (I don't drink) አሉታዊ ነው።"
@@ -2375,10 +2375,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የዕለት ተዕለት ተግባርን፣ የጊዜ አመልካችን እና ትክክለኛ የግስ ስምምነትን ያሟላው የትኛው ነው?",
           "options": [
-            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን። (Language concept U4)",
-            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እሄዳለሁ። (Language concept U4)",
-            "እሱ ሁልጊዜ ቁርስ አልበላም። (Language concept U4)",
-            "እነሱ ዛሬ ሥራ ይሠራሉ። (Language concept U4)"
+            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን። (Core concept alternative form)",
+            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እሄዳለሁ። (Core concept alternative form)",
+            "እሱ ሁልጊዜ ቁርስ አልበላም። (Core concept alternative form)",
+            "እነሱ ዛሬ ሥራ ይሠራሉ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን» ባለቤትና ማሰሪያ አንቀጹን በትክክል ያዛመደ ነው።"
@@ -2392,9 +2392,9 @@
           "prompt": "የክፍል 4ን ዋና ዋና ሰዋሰዋዊ ህጎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የአሁን ጊዜ ግሶች በአዎንታዊ (e-...-alahu)",
-            "በአማርኛ ግሶች የአሁን ጊዜ የላቸውም። (Language concept U4)",
-            "አሉታዊ ለማድረግ ቃሉን መደጋገም ብቻ በቂ ነው። (Language concept U4)",
-            "ለብዙ ቁጥር እና ለነጠላ ቁጥር ግስ አንድ ዓይነት ነው። (Language concept U4)"
+            "በአማርኛ ግሶች የአሁን ጊዜ የላቸውም። (Core concept alternative form)",
+            "አሉታዊ ለማድረግ ቃሉን መደጋገም ብቻ በቂ ነው። (Core concept alternative form)",
+            "ለብዙ ቁጥር እና ለነጠላ ቁጥር ግስ አንድ ዓይነት ነው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 4ን ሰዋሰዋዊ መዋቅር ሙሉ በሙሉ ያጠቃልላል።"
@@ -2450,10 +2450,10 @@
         {
           "prompt": "በኢትዮጵያ የሰዓት አቆጣጠር «ከቀኑ ፮ (ስድስት) ሰዓት» ማለት በፈረንጅ ሰዓት ስንት ነው?",
           "options": [
-            "12:00 PM (12      12 (U5))",
-            "6:00 AM (12      12 (U5))",
-            "3:00 PM (12      12 (U5))",
-            "9:00 AM (12      12 (U5))"
+            "12:00 PM (12      12)",
+            "6:00 AM (12      12)",
+            "3:00 PM (12      12)",
+            "9:00 AM (12      12)"
           ],
           "answerIndex": 0,
           "explanation": "የኢትዮጵያ ከቀኑ 6 ሰዓት የፈረንጅ ቀትር (12:00 PM) ነው።"
@@ -2540,10 +2540,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የሳምንቱ የመጀመሪያው የሥራ ቀን የትኛው ነው?",
           "options": [
-            "ሰኞ (Language concept U5)",
-            "ቅዳሜ (Language concept U5)",
-            "እሑድ (Language concept U5)",
-            "ሐሙስ (Language concept U5)"
+            "ሰኞ (Core concept key phrasing)",
+            "ቅዳሜ (Core concept alternative form)",
+            "እሑድ (Core concept alternative form)",
+            "ሐሙስ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰኞ» (Monday) የሳምንቱ የመጀመሪያው የሥራ ቀን ነው።"
@@ -2555,10 +2555,10 @@
         {
           "prompt": "'On Saturday and Sunday' የሚለውን ሐረግ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቅዳሜ እና እሑድ (Language concept U5)",
-            "ሰኞ እና ማክሰኞ (Language concept U5)",
-            "ረቡዕ እና ሐሙስ (Language concept U5)",
-            "ዓርብ እና ሰኞ (Language concept U5)"
+            "ቅዳሜ እና እሑድ (Core concept alternative form)",
+            "ሰኞ እና ማክሰኞ (Core concept alternative form)",
+            "ረቡዕ እና ሐሙስ (Core concept alternative form)",
+            "ዓርብ እና ሰኞ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ቅዳሜ (Saturday) እና እሑድ (Sunday) የሳምንቱ መጨረሻ ቀናት ናቸው።"
@@ -2571,10 +2571,10 @@
           "type": "multiple-choice",
           "prompt": "ሰባቱን የሳምንቱ ቀናት በቅደም ተከተል በትክክል የዘረዘረው የትኛው ነው?",
           "options": [
-            "ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ፣ ቅዳሜ፣ እሑድ። (Language concept U5)",
-            "ቅዳሜ፣ እሑድ፣ ሰኞ፣ ዓርብ። (Language concept U5)",
-            "ማክሰኞ፣ ሰኞ፣ ሐሙስ፣ ረቡዕ። (Language concept U5)",
-            "በአማርኛ የሳምንቱ ቀናት አምስት ብቻ ናቸው። (Language concept U5)"
+            "ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ፣ ቅዳሜ፣ እሑድ። (Core concept alternative form)",
+            "ቅዳሜ፣ እሑድ፣ ሰኞ፣ ዓርብ። (Core concept alternative form)",
+            "ማክሰኞ፣ ሰኞ፣ ሐሙስ፣ ረቡዕ። (Core concept alternative form)",
+            "በአማርኛ የሳምንቱ ቀናት አምስት ብቻ ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሰባቱን ቀናት በትክክለኛ ቅደም ተከተላቸው ይዟል።"
@@ -2630,10 +2630,10 @@
         {
           "prompt": "ቀጠሮ ለማመቻቸት 'ይመቸኛል' የሚለው ቃል ምን ማለት ነው?",
           "options": [
-            "ይመቸኛል / It is convenient for me (Language concept U5)",
-            "አልፈልግም (Language concept U5)",
-            "አልመጣም (Language concept U5)",
-            "አረፈድኩ (Language concept U5)"
+            "ይመቸኛል / It is convenient for me (Core concept alternative form)",
+            "አልፈልግም (Core concept alternative form)",
+            "አልመጣም (Core concept alternative form)",
+            "አረፈድኩ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ይመቸኛል» የቀረበው ሰዓትና ቦታ አመቺ መሆኑን ያረጋግጣል።"
@@ -2645,10 +2645,10 @@
         {
           "prompt": "'When shall we meet?' የሚለውን ጥያቄ በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "መቼ እንገናኝ? (Language concept U5)",
-            "የት ሄድክ? (Language concept U5)",
-            "ስንት ነው? (Language concept U5)",
-            "ምን በላህ? (Language concept U5)"
+            "መቼ እንገናኝ? (Core concept key phrasing)",
+            "የት ሄድክ? (Core concept alternative form)",
+            "ስንት ነው? (Core concept alternative form)",
+            "ምን በላህ? (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«መቼ እንገናኝ?» የቀጠሮ ጊዜ ለመጠየቅ የሚያገለግል ትክክለኛ አገላለጽ ነው።"
@@ -2661,10 +2661,10 @@
           "type": "multiple-choice",
           "prompt": "የቀጠሮ አያያዝን እና ስምምነትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "መቼ እንገናኝ? ነገ ጠዋት በሦስት ሰዓት ይመቸኛል፤ በሰዓቱ እመጣለሁ። (Language concept U5)",
-            "መቼ እንገናኝ? ትላንት እመጣለሁ። (Language concept U5)",
-            "ቀጠሮ የለኝም ስለዚህ በሰዓቱ አረፈድኩ። (Language concept U5)",
-            "በአማርኛ ቀጠሮ አይያዝም። (Language concept U5)"
+            "መቼ እንገናኝ? ነገ ጠዋት በሦስት ሰዓት ይመቸኛል፤ በሰዓቱ እመጣለሁ። (Core concept alternative form)",
+            "መቼ እንገናኝ? ትላንት እመጣለሁ። (Core concept alternative form)",
+            "ቀጠሮ የለኝም ስለዚህ በሰዓቱ አረፈድኩ። (Core concept alternative form)",
+            "በአማርኛ ቀጠሮ አይያዝም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛና ምክንያታዊ የቀጠሮ ውይይት ነው።"
@@ -2720,10 +2720,10 @@
         {
           "prompt": "በኢትዮጵያ ከሰኔ እስከ ነሐሴ ያለው ዋናው የዝናብ ወቅት ምን ይባላል?",
           "options": [
-            "ክረምት (Language concept U5)",
-            "በጋ (Language concept U5)",
-            "መኸር (Language concept U5)",
-            "ጸደይ (Language concept U5)"
+            "ክረምት (Core concept key phrasing)",
+            "በጋ (Core concept alternative form)",
+            "መኸር (Core concept alternative form)",
+            "ጸደይ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ከሰኔ እስከ ነሐሴ ያለው የዝናብ ወቅት «ክረምት» ይባላል።"
@@ -2735,10 +2735,10 @@
         {
           "prompt": "'Today is sunny' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ዛሬ ፀሐይ አለ። (Language concept U5)",
-            "ዛሬ በረዶ ዘነበ። (Language concept U5)",
-            "ዛሬ ሌሊት ነው። (Language concept U5)",
-            "ዛሬ ጨለማ ብቻ ነው። (Language concept U5)"
+            "ዛሬ ፀሐይ አለ። (Core concept alternative form)",
+            "ዛሬ በረዶ ዘነበ። (Core concept alternative form)",
+            "ዛሬ ሌሊት ነው። (Core concept alternative form)",
+            "ዛሬ ጨለማ ብቻ ነው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዛሬ ፀሐይ አለ» ወይም «ፀሐያማ ቀን ነው» ትክክለኛ የአየር ሁኔታ መግለጫ ነው።"
@@ -2752,9 +2752,9 @@
           "prompt": "አራቱን የኢትዮጵያ ወቅቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ክረምት (znabama)",
-            "ክረምት ብቻ ነው ያለው። (Language concept U5)",
-            "በጋና ክረምት አንድ ዓይነት ናቸው። (Language concept U5)",
-            "በኢትዮጵያ ወቅቶች አይለወጡም። (Language concept U5)"
+            "ክረምት ብቻ ነው ያለው። (Core concept alternative form)",
+            "በጋና ክረምት አንድ ዓይነት ናቸው። (Core concept alternative form)",
+            "በኢትዮጵያ ወቅቶች አይለወጡም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን ወቅቶች ከነባህሪያቸው በትክክል ይገልጻል።"
@@ -2811,9 +2811,9 @@
           "prompt": "«ዓርብ ከሰዓት በኋላ በአራት ሰዓት እንገናኝ» በሚለው አረፍተ ነገር ውስጥ የቀኑ ክፍለ-ጊዜ እና ሰዓቱ የትኛው ነው?",
           "options": [
             "ከሰዓት በኋላ (Afternoon)",
-            "ጠዋት እና ስድስት ሰዓት (Language concept U5)",
-            "ሌሊት እና ሁለት ሰዓት (Language concept U5)",
-            "ቀትር ብቻ (Language concept U5)"
+            "ጠዋት እና ስድስት ሰዓት (Core concept alternative form)",
+            "ሌሊት እና ሁለት ሰዓት (Core concept alternative form)",
+            "ቀትር ብቻ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ቀኑ «ዓርብ»፣ ክፍለ-ጊዜው «ከሰዓት በኋላ»፣ ሰዓቱ ደግሞ «አራት ሰዓት» ነው።"
@@ -2825,10 +2825,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ ቀን፣ ሰዓት እና ትክክለኛ የቀጠሮ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "እኛ ማክሰኞ ጠዋት በሁለት ሰዓት ቀጠሮ አለን። (Language concept U5)",
-            "እኛ ትላንት ነገ እንሄዳለን። (Language concept U5)",
-            "ሰዓቱ ዝናብ ይበላል። (Language concept U5)",
-            "ቀጠሮ የለም ሰኞ ሌሊት። (Language concept U5)"
+            "እኛ ማክሰኞ ጠዋት በሁለት ሰዓት ቀጠሮ አለን። (Core concept alternative form)",
+            "እኛ ትላንት ነገ እንሄዳለን። (Core concept alternative form)",
+            "ሰዓቱ ዝናብ ይበላል። (Core concept alternative form)",
+            "ቀጠሮ የለም ሰኞ ሌሊት። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቀን (ማክሰኞ)፣ ክፍለ-ጊዜ (ጠዋት)፣ ሰዓት (ሁለት ሰዓት) እና ቀጠሮን በትክክል አቀናጅቷል።"
@@ -2841,10 +2841,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 5ን ዋና ዋና ዕውቀቶች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ 12 ሰዓት አቆጣጠር፣ 7ቱ የሳምንቱ ቀናት፣ የቀጠሮ አነጋገር እና 4ቱ ወቅቶች በአግባቡ ተብራርተዋል። (Language concept U5)",
-            "በአማርኛ ሰዓትና ቀናት አይታወቁም። (Language concept U5)",
-            "ቀጠሮ ለመያዝ የእንግሊዝኛ ቃላት ብቻ ያስፈልጋሉ። (Language concept U5)",
-            "ክረምት እና በጋ አንድ ዓይነት ዝናብ አላቸው። (Language concept U5)"
+            "የኢትዮጵያ 12 ሰዓት አቆጣጠር፣ 7ቱ የሳምንቱ ቀናት፣ የቀጠሮ አነጋገር እና 4ቱ ወቅቶች በአግባቡ ተብራርተዋል። (Core concept alternative form)",
+            "በአማርኛ ሰዓትና ቀናት አይታወቁም። (Core concept alternative form)",
+            "ቀጠሮ ለመያዝ የእንግሊዝኛ ቃላት ብቻ ያስፈልጋሉ። (Core concept alternative form)",
+            "ክረምት እና በጋ አንድ ዓይነት ዝናብ አላቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የክፍል 5 ይዘት ያጠቃልላል።"
@@ -2900,10 +2900,10 @@
         {
           "prompt": "ከጤፍ ዱቄት የሚጋገረውና የኢትዮጵያ ዋናው ባህላዊ ምግብ መሠረት የሆነው ምንድን ነው?",
           "options": [
-            "እንጀራ (Language concept U6)",
-            "ዳቦ (Language concept U6)",
-            "ፓስታ (Language concept U6)",
-            "ሩዝ (Language concept U6)"
+            "እንጀራ (Core concept key phrasing)",
+            "ዳቦ (Core concept alternative form)",
+            "ፓስታ (Core concept alternative form)",
+            "ሩዝ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እንጀራ» ከጤፍ የሚዘጋጅ የኢትዮጵያ መሠረታዊ ባህላዊ ምግብ ነው።"
@@ -2915,10 +2915,10 @@
         {
           "prompt": "'We drink coffee from the Jebena' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የጀበና ቡና እንጠጣለን። (Language concept U6)",
-            "የጀበና ቡና እንበላለን። (Language concept U6)",
-            "ውኃ ብቻ እንጠጣለን። (Language concept U6)",
-            "ቡና አንወድም። (Language concept U6)"
+            "የጀበና ቡና እንጠጣለን። (Core concept alternative form)",
+            "የጀበና ቡና እንበላለን። (Core concept alternative form)",
+            "ውኃ ብቻ እንጠጣለን። (Core concept alternative form)",
+            "ቡና አንወድም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ቡና ፈሳሽ ስለሆነ ከ«መጠጣት» ግስ ጋር ተጣምሮ «የጀበና ቡና እንጠጣለን» ይባላል።"
@@ -2931,10 +2931,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያ ባህላዊ ምግቦችንና መጠጦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እንጀራ፣ ዶሮ ወጥ፣ ሽሮ፣ ክትፎ፣ ጥብስ እና ጀበና ቡና። (Language concept U6)",
-            "በርገር እና ፒዛ ብቻ። (Language concept U6)",
-            "በኢትዮጵያ ወጥ አይበላም። (Language concept U6)",
-            "ጠጅ እና ጠላ የምግብ አይነቶች ናቸው። (Language concept U6)"
+            "እንጀራ፣ ዶሮ ወጥ፣ ሽሮ፣ ክትፎ፣ ጥብስ እና ጀበና ቡና። (Core concept alternative form)",
+            "በርገር እና ፒዛ ብቻ። (Core concept alternative form)",
+            "በኢትዮጵያ ወጥ አይበላም። (Core concept alternative form)",
+            "ጠጅ እና ጠላ የምግብ አይነቶች ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ምግቦችንና መጠጦችን በትክክል ይዟል።"
@@ -2990,10 +2990,10 @@
         {
           "prompt": "በምግብ ቤት ውስጥ የበሉበትን ክፍያ ለመጠየቅ 'ሂሳብ ስንት ነው?' ማለት ምን ማለት ነው?",
           "options": [
-            "ሂሳብ ስንት ነው? / How much is the bill? (Language concept U6)",
-            "ምግቡ የት ነው? (Language concept U6)",
-            "ስምዎ ማን ነው? (Language concept U6)",
-            "ሰዓቱ ስንት ነው? (Language concept U6)"
+            "ሂሳብ ስንት ነው? / How much is the bill? (Core concept alternative form)",
+            "ምግቡ የት ነው? (Core concept alternative form)",
+            "ስምዎ ማን ነው? (Core concept alternative form)",
+            "ሰዓቱ ስንት ነው? (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሂሳብ ስንት ነው?» የክፍያ መጠየቂያ ትክክለኛ አገላለጽ ነው።"
@@ -3005,10 +3005,10 @@
         {
           "prompt": "'Please bring me water' የሚለውን ትህትና የተሞላበት ትዕዛዝ በአማርኛ የትኛው ነው?",
           "options": [
-            "እባክዎ ውኃ ያምጡልኝ። (Language concept U6)",
-            "ውኃ አልጠጣም። (Language concept U6)",
-            "ውኃ የለም። (Language concept U6)",
-            "ሂሳብ ክፈሉ። (Language concept U6)"
+            "እባክዎ ውኃ ያምጡልኝ። (Core concept alternative form)",
+            "ውኃ አልጠጣም። (Core concept alternative form)",
+            "ውኃ የለም። (Core concept alternative form)",
+            "ሂሳብ ክፈሉ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እባክዎ ... ያምጡልኝ» በትህትና ለማዘዝ የሚያገለግል ነው።"
@@ -3021,10 +3021,10 @@
           "type": "multiple-choice",
           "prompt": "በምግብ ቤት ውስጥ የሚደረግን የተሟላ ውይይት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እባክዎ ሜኑ ያምጡልኝ -> አንድ ጥብስ አምጡልኝ -> ምግቡ ይጣፍጣል -> ሂሳብ ስንት ነው? (Language concept U6)",
-            "ሜኑ አልፈልግም -> ሂሳብ አልከፍልም። (Language concept U6)",
-            "ውኃ በላሁ -> ዳቦ ጠጣሁ። (Language concept U6)",
-            "በአማርኛ አስተናጋጅ አይጠራም። (Language concept U6)"
+            "እባክዎ ሜኑ ያምጡልኝ -> አንድ ጥብስ አምጡልኝ -> ምግቡ ይጣፍጣል -> ሂሳብ ስንት ነው? (Core concept alternative form)",
+            "ሜኑ አልፈልግም -> ሂሳብ አልከፍልም። (Core concept alternative form)",
+            "ውኃ በላሁ -> ዳቦ ጠጣሁ። (Core concept alternative form)",
+            "በአማርኛ አስተናጋጅ አይጠራም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የምግብ ቤት ቅደም ተከተል ያሳያል።"
@@ -3170,10 +3170,10 @@
         {
           "prompt": "ፈሳሽ ነገሮችን (እንደ ወተትና ዘይት) ለመለካት የሚያገለግለው መለኪያ የትኛው ነው?",
           "options": [
-            "ሊትር (Language concept U6)",
-            "ኪሎ (Language concept U6)",
-            "ሜትር (Language concept U6)",
-            "ሰዓት (Language concept U6)"
+            "ሊትር (Core concept key phrasing)",
+            "ኪሎ (Core concept alternative form)",
+            "ሜትር (Core concept alternative form)",
+            "ሰዓት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ፈሳሾች በ«ሊትር» ይለካሉ።"
@@ -3185,10 +3185,10 @@
         {
           "prompt": "'Give me half a kilo of butter' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ግማሽ ኪሎ ቅቤ ስጡኝ። (Language concept U6)",
-            "አንድ ሊትር ቅቤ ስጡኝ። (Language concept U6)",
-            "ቅቤ አልፈልግም። (Language concept U6)",
-            "አስር ኪሎ ቅቤ በላሁ። (Language concept U6)"
+            "ግማሽ ኪሎ ቅቤ ስጡኝ። (Core concept alternative form)",
+            "አንድ ሊትር ቅቤ ስጡኝ። (Core concept alternative form)",
+            "ቅቤ አልፈልግም። (Core concept alternative form)",
+            "አስር ኪሎ ቅቤ በላሁ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ግማሽ ኪሎ ቅቤ ስጡኝ» ትክክለኛውን የክብደት መለኪያና ቅቤን ያጣመረ ነው።"
@@ -3202,9 +3202,9 @@
           "prompt": "የመለኪያ ቃላትን እና ተዛማጅ ዕቃዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሁለት ኪሎ ሽንኩርት (litr lafasash)",
-            "አንድ ሊትር ሽንኩርት እና ሁለት ኪሎ ወተት። (Language concept U6)",
-            "በአማርኛ መለኪያዎች አይጠቀሱም። (Language concept U6)",
-            "ኪሎ ለጊዜ ብቻ ያገለግላል። (Language concept U6)"
+            "አንድ ሊትር ሽንኩርት እና ሁለት ኪሎ ወተት። (Core concept alternative form)",
+            "በአማርኛ መለኪያዎች አይጠቀሱም። (Core concept alternative form)",
+            "ኪሎ ለጊዜ ብቻ ያገለግላል። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ኪሎን ለሽንኩርትና ሊትርን ለወተት በትክክል መድቧል።"
@@ -3260,10 +3260,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ በባህላዊ ምግብ ቤት ውስጥ የሚደረግን ትክክለኛ ንግግር የሚያሳየው የትኛው ነው?",
           "options": [
-            "እባክዎ አንድ ክትፎ ያምጡልን፣ ምግቡ በጣም ይጣፍጣል፣ ሂሳብ ስንት ነው? (Language concept U6)",
-            "ምግብ አልበላም ሂሳብ አምጡ (Language concept U6)",
-            "እንጀራ ጠጣሁ ቡና በላሁ (Language concept U6)",
-            "በሬስቶራንት ውስጥ ማዘዝ አይቻልም (Language concept U6)"
+            "እባክዎ አንድ ክትፎ ያምጡልን፣ ምግቡ በጣም ይጣፍጣል፣ ሂሳብ ስንት ነው? (Core concept alternative form)",
+            "ምግብ አልበላም ሂሳብ አምጡ (Core concept alternative form)",
+            "እንጀራ ጠጣሁ ቡና በላሁ (Core concept alternative form)",
+            "በሬስቶራንት ውስጥ ማዘዝ አይቻልም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትዕዛዝን፣ ምስጋናን እና የሂሳብ ጥያቄን በአግባቡ ያጣመረ ነው።"
@@ -3275,10 +3275,10 @@
         {
           "prompt": "ገበያ ሄዶ መገበያየትን እና በምግብ ቤት መመገብን ያቀናጀው ትክክለኛ አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "በገበያ ሁለት ኪሎ ፍራፍሬ ገዛን፤ ከዚያም ቡና ጠጣን። (Language concept U6)",
-            "በገበያ ምንም የለም። (Language concept U6)",
-            "ሰዓቱ ኪሎ ይበላል። (Language concept U6)",
-            "ቴሌብር አይሰራም። (Language concept U6)"
+            "በገበያ ሁለት ኪሎ ፍራፍሬ ገዛን፤ ከዚያም ቡና ጠጣን። (Core concept alternative form)",
+            "በገበያ ምንም የለም። (Core concept alternative form)",
+            "ሰዓቱ ኪሎ ይበላል። (Core concept alternative form)",
+            "ቴሌብር አይሰራም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የገበያ መለኪያዎችንና የመጠጥ ግስን በትክክል ያዛምዳል።"
@@ -3291,10 +3291,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 6ን ዋና ዋና ርዕሰ ጉዳዮች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የባህላዊ ምግቦች ስሞች፣ በምግብ ቤት ማዘዝ፣ በገበያ ዋጋ መጠየቅና መደራደር፣ እንዲሁም መለኪያዎች ተካተዋል። (Language concept U6)",
-            "የክፍል 6 ትምህርት ስለ ስፖርት ብቻ ነው። (Language concept U6)",
-            "በአማርኛ የገበያ ቃላት የሉም። (Language concept U6)",
-            "ሁሉም ምግቦች አንድ ዓይነት ስም አላቸው። (Language concept U6)"
+            "የባህላዊ ምግቦች ስሞች፣ በምግብ ቤት ማዘዝ፣ በገበያ ዋጋ መጠየቅና መደራደር፣ እንዲሁም መለኪያዎች ተካተዋል። (Core concept alternative form)",
+            "የክፍል 6 ትምህርት ስለ ስፖርት ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የገበያ ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም ምግቦች አንድ ዓይነት ስም አላቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 6ን አጠቃላይ ይዘት ይሸፍናል።"
@@ -3350,10 +3350,10 @@
         {
           "prompt": "«እኛ» ከሚለው ተውላጠ ስም ጋር የሚስማማው የ«መሄድ» የኃላፊ ጊዜ ግስ የትኛው ነው?",
           "options": [
-            "ሄድን (Language concept U7)",
-            "ሄድኩ (Language concept U7)",
-            "ሄደች (Language concept U7)",
-            "ሄዱ (Language concept U7)"
+            "ሄድን (Core concept key phrasing)",
+            "ሄድኩ (Core concept alternative form)",
+            "ሄደች (Core concept alternative form)",
+            "ሄዱ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ» ከሚለው ጋር የኃላፊ ጊዜ ቅጥያው «-ን» ሆኖ «ሄድን» ይሆናል።"
@@ -3365,10 +3365,10 @@
         {
           "prompt": "'She prepared lunch' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እሷ ምሳ አዘጋጀች። (Language concept U7)",
-            "እሷ ምሳ አዘጋጀሁ። (Language concept U7)",
-            "እሷ ምሳ አዘጋጀህ። (Language concept U7)",
-            "እሷ ምሳ አዘጋጁ። (Language concept U7)"
+            "እሷ ምሳ አዘጋጀች። (Core concept alternative form)",
+            "እሷ ምሳ አዘጋጀሁ። (Core concept alternative form)",
+            "እሷ ምሳ አዘጋጀህ። (Core concept alternative form)",
+            "እሷ ምሳ አዘጋጁ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለእሷ (3ኛ መደብ አንስታይ) የኃላፊ ቅጥያው «-ች» ሆኖ «አዘጋጀች» ይሆናል።"
@@ -3381,10 +3381,10 @@
           "type": "multiple-choice",
           "prompt": "የኃላፊ ጊዜ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እኔ በላሁ፣ አንተ በላህ፣ እሷ በላች፣ እኛ በላን። (Language concept U7)",
-            "እኔ በላች፣ እኛ በላሁ። (Language concept U7)",
-            "እሱ በላን፣ አንተ በላሽ። (Language concept U7)",
-            "በኃላፊ ጊዜ ሁሉም መደቦች አንድ ዓይነት ናቸው። (Language concept U7)"
+            "እኔ በላሁ፣ አንተ በላህ፣ እሷ በላች፣ እኛ በላን። (Core concept alternative form)",
+            "እኔ በላች፣ እኛ በላሁ። (Core concept alternative form)",
+            "እሱ በላን፣ አንተ በላሽ። (Core concept alternative form)",
+            "በኃላፊ ጊዜ ሁሉም መደቦች አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ለእያንዳንዱ መደብ ትክክለኛውን ቅጥያ ተጠቅሟል።"
@@ -3440,10 +3440,10 @@
         {
           "prompt": "ያለፈውን ቀን 'Yesterday' ለመግለጽ የሚያገለግለው ቃል የትኛው ነው?",
           "options": [
-            "ትላንትና (Language concept U7)",
-            "ነገ (Language concept U7)",
-            "ዛሬ (Language concept U7)",
-            "ከነገ ወዲያ (Language concept U7)"
+            "ትላንትና (Core concept key phrasing)",
+            "ነገ (Core concept alternative form)",
+            "ዛሬ (Core concept alternative form)",
+            "ከነገ ወዲያ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ትላንትና» ያለፈውን ቀን (Yesterday) ያመለክታል።"
@@ -3455,10 +3455,10 @@
         {
           "prompt": "'Last week we traveled' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ባለፈው ሳምንት ተጓዝን። (Language concept U7)",
-            "በሚመጣው ሳምንት እንጓዛለን። (Language concept U7)",
-            "ዛሬ እንጓዛለን። (Language concept U7)",
-            "ነገ ተጓዝን። (Language concept U7)"
+            "ባለፈው ሳምንት ተጓዝን። (Core concept alternative form)",
+            "በሚመጣው ሳምንት እንጓዛለን። (Core concept alternative form)",
+            "ዛሬ እንጓዛለን። (Core concept alternative form)",
+            "ነገ ተጓዝን። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ባለፈው ሳምንት» ካለፈ ድርጊት («ተጓዝን») ጋር አብሮ ይገባል።"
@@ -3471,10 +3471,10 @@
           "type": "multiple-choice",
           "prompt": "የጊዜ አመልካች ቃላትን እና ያለፈ ድርጊትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ባለፈው ዓመት አዲስ ቋንቋ ተማርኩ፤ ትላንት ደግሞ ፈተና ወሰድኩ። (Language concept U7)",
-            "ነገ ትላንት መጣሁ። (Language concept U7)",
-            "ዛሬ ባለፈው ዓመት እሄዳለሁ። (Language concept U7)",
-            "ድሮ ማለት ነገ ማለት ነው። (Language concept U7)"
+            "ባለፈው ዓመት አዲስ ቋንቋ ተማርኩ፤ ትላንት ደግሞ ፈተና ወሰድኩ። (Core concept alternative form)",
+            "ነገ ትላንት መጣሁ። (Core concept alternative form)",
+            "ዛሬ ባለፈው ዓመት እሄዳለሁ። (Core concept alternative form)",
+            "ድሮ ማለት ነገ ማለት ነው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፉ የጊዜ አመልካቾችን ከኃላፊ ግሶች ጋር በትክክል አጣምሯል።"
@@ -3531,10 +3531,10 @@
         {
           "prompt": "«እሱ ሄደ (He went)» የሚለውን ወደ አሉታዊ ኃላፊ ጊዜ ሲቀየር ምን ይሆናል?",
           "options": [
-            "እሱ አልሄደም (Language concept U7)",
-            "እሱ አይሄድም (Language concept U7)",
-            "እሱ አልሄድኩም (Language concept U7)",
-            "እሱ አልሄደችም (Language concept U7)"
+            "እሱ አልሄደም (Core concept alternative form)",
+            "እሱ አይሄድም (Core concept alternative form)",
+            "እሱ አልሄድኩም (Core concept alternative form)",
+            "እሱ አልሄደችም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እሱ ሄደ» በኃላፊ አሉታዊ «አልሄደም» (አል- + ሄደ + -ም) ይሆናል።"
@@ -3546,10 +3546,10 @@
         {
           "prompt": "'We did not eat' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እኛ አልበላንም። (Language concept U7)",
-            "እኛ አንበላም። (Language concept U7)",
-            "እኛ አልበላሁም። (Language concept U7)",
-            "እኛ አልበላችሁም። (Language concept U7)"
+            "እኛ አልበላንም። (Core concept alternative form)",
+            "እኛ አንበላም። (Core concept alternative form)",
+            "እኛ አልበላሁም። (Core concept alternative form)",
+            "እኛ አልበላችሁም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለ«እኛ» የኃላፊ አሉታዊ ቅርጽ «አልበላንም» (አል- + በላን + -ም) ነው።"
@@ -3562,10 +3562,10 @@
           "type": "multiple-choice",
           "prompt": "የኃላፊ ጊዜ አሉታዊ አረፍተ ነገሮችን በትክክል የያዘው የትኛው ነው?",
           "options": [
-            "እኔ አልመጣሁም፣ እሷ አልጻፈችም፣ እኛ አልሰማንም። (Language concept U7)",
-            "እኔ አልመጣም፣ እኛ አልሰማችሁም። (Language concept U7)",
-            "አል- የሚለው ቅጥያ ለወደፊት ጊዜ ብቻ ነው። (Language concept U7)",
-            "በኃላፊ ጊዜ አሉታዊ ቅርጽ የለም። (Language concept U7)"
+            "እኔ አልመጣሁም፣ እሷ አልጻፈችም፣ እኛ አልሰማንም። (Core concept alternative form)",
+            "እኔ አልመጣም፣ እኛ አልሰማችሁም። (Core concept alternative form)",
+            "አል- የሚለው ቅጥያ ለወደፊት ጊዜ ብቻ ነው። (Core concept alternative form)",
+            "በኃላፊ ጊዜ አሉታዊ ቅርጽ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የኃላፊ አሉታዊ ቅርጾችን በትክክለኛ ቅጥያዎች ተጠቅሟል።"
@@ -3621,10 +3621,10 @@
         {
           "prompt": "ታሪካዊ ቦታዎችን ጎብኝቶ መመለስን የሚገልጸው ትክክለኛ ቃል የትኛው ነው?",
           "options": [
-            "ጎበኘን እና ተመለስን (Language concept U7)",
-            "እንጎበኛለን (Language concept U7)",
-            "አልሄድንም (Language concept U7)",
-            "መሄድ (Language concept U7)"
+            "ጎበኘን እና ተመለስን (Core concept key phrasing)",
+            "እንጎበኛለን (Core concept alternative form)",
+            "አልሄድንም (Core concept alternative form)",
+            "መሄድ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጎበኘን እና ተመለስን» ያለፈን ጉብኝትና መመለስን በኃላፊ ጊዜ በትክክል ይገልጻል።"
@@ -3636,10 +3636,10 @@
         {
           "prompt": "'I saw the historical castle' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ታሪካዊውን ግንብ አየሁ። (Language concept U7)",
-            "ታሪካዊውን ግንብ አያለሁ። (Language concept U7)",
-            "ታሪካዊውን ግንብ አየች። (Language concept U7)",
-            "ታሪካዊውን ግንብ አልፈልግም። (Language concept U7)"
+            "ታሪካዊውን ግንብ አየሁ። (Core concept alternative form)",
+            "ታሪካዊውን ግንብ አያለሁ። (Core concept alternative form)",
+            "ታሪካዊውን ግንብ አየች። (Core concept alternative form)",
+            "ታሪካዊውን ግንብ አልፈልግም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ለእኔ (1ኛ መደብ) የኃላፊ ጊዜ ግስ «አየሁ» ይሆናል።"
@@ -3652,10 +3652,10 @@
           "type": "multiple-choice",
           "prompt": "ያለፈ የጉዞ ልምድን በተሟላ መንገድ የገለጸው የትኛው ነው?",
           "options": [
-            "ባለፈው ወር ወደ አክሱም ተጉዘን ሐውልቶችን ጎበኘን፤ ከዚያም ተመለስን። (Language concept U7)",
-            "ነገ ወደ አክሱም ተጓዝን። (Language concept U7)",
-            "አክሱም ትላንት እሄዳለሁ። (Language concept U7)",
-            "በአማርኛ የጉዞ ታሪክ አይነገርም። (Language concept U7)"
+            "ባለፈው ወር ወደ አክሱም ተጉዘን ሐውልቶችን ጎበኘን፤ ከዚያም ተመለስን። (Core concept alternative form)",
+            "ነገ ወደ አክሱም ተጓዝን። (Core concept alternative form)",
+            "አክሱም ትላንት እሄዳለሁ። (Core concept alternative form)",
+            "በአማርኛ የጉዞ ታሪክ አይነገርም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፈውን የጉዞ ጊዜ፣ ድርጊትና ማጠቃለያ በትክክል ይዟል።"
@@ -3711,10 +3711,10 @@
         {
           "prompt": "ያለፈን ድርጊት በአዎንታዊና በአሉታዊ ቅርጽ በትክክል ያገናኘው የትኛው ነው?",
           "options": [
-            "ትላንት ወደ ከተማ ሄድኩ፣ ነገር ግን ዕቃ አልገዛሁም። (Language concept U7)",
-            "ነገ ወደ ከተማ ሄድኩ። (Language concept U7)",
-            "ትላንት ዕቃ እገዛለሁ። (Language concept U7)",
-            "በኃላፊ ጊዜ ሁለቱም አረፍተ ነገሮች ስህተት ናቸው። (Language concept U7)"
+            "ትላንት ወደ ከተማ ሄድኩ፣ ነገር ግን ዕቃ አልገዛሁም። (Core concept alternative form)",
+            "ነገ ወደ ከተማ ሄድኩ። (Core concept alternative form)",
+            "ትላንት ዕቃ እገዛለሁ። (Core concept alternative form)",
+            "በኃላፊ ጊዜ ሁለቱም አረፍተ ነገሮች ስህተት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፈ ጊዜ አመልካችን፣ አዎንታዊ ኃላፊን («ሄድኩ») እና አሉታዊ ኃላፊን («አልገዛሁም») በትክክል አጣምሯል።"
@@ -3726,10 +3726,10 @@
         {
           "prompt": "የክፍል 7ን ዋና ዋና ርዕሰ ጉዳዮች ያካተተ የተሟላ ትረካ የትኛው ነው?",
           "options": [
-            "ባለፈው ዓመት ብዙ ቦታዎችን ጎበኘን፤ አስደሳች ጊዜ አሳለፍን። (Language concept U7)",
-            "ነገ እንጎበኛለን። (Language concept U7)",
-            "አሁን እየበላን ነው። (Language concept U7)",
-            "ቋንቋ አልፈልግም። (Language concept U7)"
+            "ባለፈው ዓመት ብዙ ቦታዎችን ጎበኘን፤ አስደሳች ጊዜ አሳለፍን። (Core concept alternative form)",
+            "ነገ እንጎበኛለን። (Core concept alternative form)",
+            "አሁን እየበላን ነው። (Core concept alternative form)",
+            "ቋንቋ አልፈልግም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የክፍል 7ን የኃላፊ ጊዜና የጉብኝት ትረካ ሙሉ በሙሉ ይገልጻል።"
@@ -3742,10 +3742,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 7 አጠቃላይ ይዘት በትክክል የትኛው ነው?",
           "options": [
-            "የቀላል ኃላፊ ጊዜ ግስ እርባታ፣ ያለፉ የጊዜ አመልካቾች፣ የኃላፊ ጊዜ አሉታዊ ቅርጽ እና ያለፉ የጉዞ ትረካዎች ተካተዋል። (Language concept U7)",
-            "ይህ ክፍል ስለወደፊት ጊዜ ብቻ ያትታል። (Language concept U7)",
-            "በአማርኛ የኃላፊ ጊዜ የለም። (Language concept U7)",
-            "ሁሉም ቃላት ስለ እንስሳት ናቸው። (Language concept U7)"
+            "የቀላል ኃላፊ ጊዜ ግስ እርባታ፣ ያለፉ የጊዜ አመልካቾች፣ የኃላፊ ጊዜ አሉታዊ ቅርጽ እና ያለፉ የጉዞ ትረካዎች ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለወደፊት ጊዜ ብቻ ያትታል። (Core concept alternative form)",
+            "በአማርኛ የኃላፊ ጊዜ የለም። (Core concept alternative form)",
+            "ሁሉም ቃላት ስለ እንስሳት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 7ን ሁሉንም ሰዋሰዋዊ ክፍሎች በትክክል ይገልጻል።"
@@ -3801,10 +3801,10 @@
         {
           "prompt": "ወደ ቀኝ ለመታጠፍ ለወንድ የሚሰጥ ትክክለኛ የትዕዛዝ አነጋገር የትኛው ነው?",
           "options": [
-            "ወደ ቀኝ ታጠፍ (Language concept U8)",
-            "ወደ ግራ ሂድ (Language concept U8)",
-            "ቀጥታ ቁም (Language concept U8)",
-            "ወደ ኋላ ተመለስ (Language concept U8)"
+            "ወደ ቀኝ ታጠፍ (Core concept key phrasing)",
+            "ወደ ግራ ሂድ (Core concept alternative form)",
+            "ቀጥታ ቁም (Core concept alternative form)",
+            "ወደ ኋላ ተመለስ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ወደ ቀኝ ታጠፍ» ለወንድ (ተባዕታይ) ወደ ቀኝ እንዲታጠፍ የሚያዝዝ ነው።"
@@ -3816,10 +3816,10 @@
         {
           "prompt": "'The pharmacy is next to the clinic' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መድኃኒት ቤቱ ከክሊኒኩ አጠገብ ነው። (Language concept U8)",
-            "መድኃኒት ቤቱ በጣም ሩቅ ነው። (Language concept U8)",
-            "ክሊኒኩ የለም። (Language concept U8)",
-            "መድኃኒት ቤት አልሄድም። (Language concept U8)"
+            "መድኃኒት ቤቱ ከክሊኒኩ አጠገብ ነው። (Core concept alternative form)",
+            "መድኃኒት ቤቱ በጣም ሩቅ ነው። (Core concept alternative form)",
+            "ክሊኒኩ የለም። (Core concept alternative form)",
+            "መድኃኒት ቤት አልሄድም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ከ... አጠገብ» (next to / beside) ትክክለኛውን የቦታ አቀማመጥ ያሳያል።"
@@ -3833,9 +3833,9 @@
           "prompt": "የአቅጣጫ ቃላትን እና ተዛማጅ ትርጉሞቻቸውን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ቀኝ (Right)",
-            "ቀኝ ማለት ግራ ማለት ነው። (Language concept U8)",
-            "ቅርብ እና ሩቅ አንድ ናቸው። (Language concept U8)",
-            "በአማርኛ አቅጣጫ አይነገርም። (Language concept U8)"
+            "ቀኝ ማለት ግራ ማለት ነው። (Core concept alternative form)",
+            "ቅርብ እና ሩቅ አንድ ናቸው። (Core concept alternative form)",
+            "በአማርኛ አቅጣጫ አይነገርም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአቅጣጫ ቃላትን በትክክል ይዟል።"
@@ -3981,10 +3981,10 @@
         {
           "prompt": "በታክሲ ውስጥ ለመውረድ ሾፌሩን ወይም ረዳቱን ለማስቆም ምን ይባላል?",
           "options": [
-            "ወራጅ አለ! (Language concept U8)",
-            "ሂሳብ ስንት ነው? (Language concept U8)",
-            "ቡና አምጡ (Language concept U8)",
-            "ባቡር መጣ (Language concept U8)"
+            "ወራጅ አለ! (Core concept key phrasing)",
+            "ሂሳብ ስንት ነው? (Core concept alternative form)",
+            "ቡና አምጡ (Core concept alternative form)",
+            "ባቡር መጣ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ወራጅ አለ!» ተሳፋሪው የሚወርድበት ቦታ መድረሱን የሚያሳውቅበት ቃል ነው።"
@@ -3996,10 +3996,10 @@
         {
           "prompt": "'We rode the light rail train' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በቀላል ባቡር ተሳፈርን። (Language concept U8)",
-            "ባቡር አልወድም። (Language concept U8)",
-            "በእግር ብቻ ሄድን። (Language concept U8)",
-            "ታክሲው ተሰበረ። (Language concept U8)"
+            "በቀላል ባቡር ተሳፈርን። (Core concept alternative form)",
+            "ባቡር አልወድም። (Core concept alternative form)",
+            "በእግር ብቻ ሄድን። (Core concept alternative form)",
+            "ታክሲው ተሰበረ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በቀላል ባቡር ተሳፈርን» ትክክለኛውን የትራንስፖርት ዘዴና ግስ ያዛምዳል።"
@@ -4012,10 +4012,10 @@
           "type": "multiple-choice",
           "prompt": "የከተማ የትራንስፖርት አይነቶችንና አገልግሎቶችን በትክክል የያዘው የትኛው ነው?",
           "options": [
-            "ሰማያዊ ታክሲ፣ አንበሳ አውቶቡስ፣ ቀላል ባቡር እና ወያላ። (Language concept U8)",
-            "በከተማ ውስጥ ትራንስፖርት የለም። (Language concept U8)",
-            "ባቡር የሚሄደው በሰማይ ላይ ብቻ ነው። (Language concept U8)",
-            "ወራጅ አለ ማለት ሰላምታ ነው። (Language concept U8)"
+            "ሰማያዊ ታክሲ፣ አንበሳ አውቶቡስ፣ ቀላል ባቡር እና ወያላ። (Core concept alternative form)",
+            "በከተማ ውስጥ ትራንስፖርት የለም። (Core concept alternative form)",
+            "ባቡር የሚሄደው በሰማይ ላይ ብቻ ነው። (Core concept alternative form)",
+            "ወራጅ አለ ማለት ሰላምታ ነው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የከተማ ትራንስፖርት አካላትን በትክክል ይዟል።"
@@ -4161,10 +4161,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የከተማ ጉዞና የትራንስፖርት ንግግር የሚያሳየው የትኛው ነው?",
           "options": [
-            "መንገድ ጠይቀን ታክሲ ተሳፈርን፤ ታሪፉን ከፍለን መብራቱ ጋር ወረድን። (Language concept U8)",
-            "ታክሲ አልወድም ምግብ አምጡ (Language concept U8)",
-            "አቅጣጫ የለም ባቡር የለም (Language concept U8)",
-            "በከተማ ውስጥ መጓዝ አይቻልም (Language concept U8)"
+            "መንገድ ጠይቀን ታክሲ ተሳፈርን፤ ታሪፉን ከፍለን መብራቱ ጋር ወረድን። (Core concept alternative form)",
+            "ታክሲ አልወድም ምግብ አምጡ (Core concept alternative form)",
+            "አቅጣጫ የለም ባቡር የለም (Core concept alternative form)",
+            "በከተማ ውስጥ መጓዝ አይቻልም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አቅጣጫ መጠየቅን፣ ታክሲ መሳፈርን፣ ታሪፍ መክፈልንና መውረድን በትክክል ያጠቃልላል።"
@@ -4176,10 +4176,10 @@
         {
           "prompt": "አቅጣጫን፣ ባቡርንና የጉዞ ጊዜን ያቀናጀው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ወደ ቀኝ ታጥፈን የባቡር ጣቢያ ደረስን፤ ጉዞውም አስራ አምስት ደቂቃ ፈጀ። (Language concept U8)",
-            "ባቡሩ ትላንትና ነገ ይሄዳል። (Language concept U8)",
-            "ቀኝ ማለት ባቡር ነው። (Language concept U8)",
-            "ታሪፍ አልከፈልንም። (Language concept U8)"
+            "ወደ ቀኝ ታጥፈን የባቡር ጣቢያ ደረስን፤ ጉዞውም አስራ አምስት ደቂቃ ፈጀ። (Core concept alternative form)",
+            "ባቡሩ ትላንትና ነገ ይሄዳል። (Core concept alternative form)",
+            "ቀኝ ማለት ባቡር ነው። (Core concept alternative form)",
+            "ታሪፍ አልከፈልንም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አቅጣጫን፣ የባቡር ጣቢያንና የጉዞ ጊዜን በአንድነት ይዟል።"
@@ -4193,9 +4193,9 @@
           "prompt": "የክፍል 8 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "መሰረታዊ አቅጣጫዎች፣ መንገድ መጠየቅ፣ የከተማ ትራንስፖርት (taksina babur)",
-            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (Language concept U8)",
-            "በአማርኛ የትራንስፖርት ቃላት የሉም። (Language concept U8)",
-            "ሁሉም አቅጣጫዎች አንድ ዓይነት ናቸው። (Language concept U8)"
+            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የትራንስፖርት ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም አቅጣጫዎች አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 8ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -4251,10 +4251,10 @@
         {
           "prompt": "«My mother and my father» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እናቴ እና አባቴ (Language concept U9)",
-            "እህቴ እና ወንድሜ (Language concept U9)",
-            "ልጄ እና አጎቴ (Language concept U9)",
-            "አያቴ ብቻ (Language concept U9)"
+            "እናቴ እና አባቴ (Core concept alternative form)",
+            "እህቴ እና ወንድሜ (Core concept alternative form)",
+            "ልጄ እና አጎቴ (Core concept alternative form)",
+            "አያቴ ብቻ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እናቴ» (My mother) እና «አባቴ» (My father) ትክክለኛ የመጀመሪያ መደብ ባለቤትነት ቅጥያን (-ኤ) ይዘዋል።"
@@ -4266,10 +4266,10 @@
         {
           "prompt": "'I have an older brother and a younger sister' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አንድ ታላቅ ወንድም እና አንዲት ታናሽ እህት አሉኝ። (Language concept U9)",
-            "ወንድም የለኝም እህት የለኝም። (Language concept U9)",
-            "አያቴ ትላንትና መጣ። (Language concept U9)",
-            "ልጆቼ ትምህርት ቤት ሄዱ። (Language concept U9)"
+            "አንድ ታላቅ ወንድም እና አንዲት ታናሽ እህት አሉኝ። (Core concept alternative form)",
+            "ወንድም የለኝም እህት የለኝም። (Core concept alternative form)",
+            "አያቴ ትላንትና መጣ። (Core concept alternative form)",
+            "ልጆቼ ትምህርት ቤት ሄዱ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ታላቅ ወንድም» (older brother) እና «ታናሽ እህት» (younger sister) የዕድሜ ደረጃን በትክክል ያሳያሉ።"
@@ -4282,10 +4282,10 @@
           "type": "multiple-choice",
           "prompt": "የቅርብ ቤተሰብ አባላትን መጠሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባል እና ሚስት። (Language concept U9)",
-            "ጠረጴዛ፣ ወንበር እና ደብተር። (Language concept U9)",
-            "ቀኝ፣ ግራ እና አደባባይ። (Language concept U9)",
-            "ትላንትና እና ዛሬ ብቻ። (Language concept U9)"
+            "አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባል እና ሚስት። (Core concept alternative form)",
+            "ጠረጴዛ፣ ወንበር እና ደብተር። (Core concept alternative form)",
+            "ቀኝ፣ ግራ እና አደባባይ። (Core concept alternative form)",
+            "ትላንትና እና ዛሬ ብቻ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቅርብ ቤተሰብ መጠሪያዎችን ይዟል።"
@@ -4341,10 +4341,10 @@
         {
           "prompt": "የእናትህን ወይም የአባትህን ወንድም ምን ብለህ ትጠራዋለህ?",
           "options": [
-            "አጎት (Language concept U9)",
-            "አክስት (Language concept U9)",
-            "አያት (Language concept U9)",
-            "ምራት (Language concept U9)"
+            "አጎት (Core concept key phrasing)",
+            "አክስት (Core concept alternative form)",
+            "አያት (Core concept alternative form)",
+            "ምራት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የእናት ወይም የአባት ወንድም «አጎት» (Uncle) ይባላል።"
@@ -4356,10 +4356,10 @@
         {
           "prompt": "'My grandmother tells folktales to her grandchildren' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ። (Language concept U9)",
-            "አጎቴ መኪና ነዳ። (Language concept U9)",
-            "ጓደኛዬ ትምህርት ቤት ሄደ። (Language concept U9)",
-            "ምንም ዘመድ የለኝም። (Language concept U9)"
+            "አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ። (Core concept alternative form)",
+            "አጎቴ መኪና ነዳ። (Core concept alternative form)",
+            "ጓደኛዬ ትምህርት ቤት ሄደ። (Core concept alternative form)",
+            "ምንም ዘመድ የለኝም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ» አያትንና የልጅ ልጆችን በትክክል ያዛምዳል።"
@@ -4373,9 +4373,9 @@
           "prompt": "የተዘረጋ ቤተሰብ መጠሪያዎችን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
             "አያት (Grandparent)",
-            "አያት ማለት ልጅ ማለት ነው። (Language concept U9)",
-            "አጎት እና አክስት አንድ ናቸው። (Language concept U9)",
-            "በአማርኛ የዝምድና መጠሪያ የለም። (Language concept U9)"
+            "አያት ማለት ልጅ ማለት ነው። (Core concept alternative form)",
+            "አጎት እና አክስት አንድ ናቸው። (Core concept alternative form)",
+            "በአማርኛ የዝምድና መጠሪያ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ቁልፍ የተዘረጋ ቤተሰብ ቃላትን በትክክል ያጣመረ ነው።"
@@ -4431,10 +4431,10 @@
         {
           "prompt": "«Our school» የሚለውን ትክክለኛ የባለቤትነት ቅጥያ በመጠቀም የገለጸው የትኛው ነው?",
           "options": [
-            "ትምህርት ቤታችን (Language concept U9)",
-            "ትምህርት ቤቴ (Language concept U9)",
-            "ትምህርት ቤታችሁ (Language concept U9)",
-            "ትምህርት ቤታቸው (Language concept U9)"
+            "ትምህርት ቤታችን (Core concept key phrasing)",
+            "ትምህርት ቤቴ (Core concept alternative form)",
+            "ትምህርት ቤታችሁ (Core concept alternative form)",
+            "ትምህርት ቤታቸው (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ትምህርት ቤታችን» የኛ (our) የሚለውን የብዙ ቁጥር ቅጥያ (-አችን) በትክክል ይዟል።"
@@ -4446,10 +4446,10 @@
         {
           "prompt": "'Your (plural) books are on the table' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መጽሐፎቻችሁ በጠረጴዛው ላይ ናቸው። (Language concept U9)",
-            "መጽሐፌ የለም። (Language concept U9)",
-            "መጽሐፋቸው ተቃጠለ። (Language concept U9)",
-            "መጽሐፍ አልገዛሁም። (Language concept U9)"
+            "መጽሐፎቻችሁ በጠረጴዛው ላይ ናቸው። (Core concept alternative form)",
+            "መጽሐፌ የለም። (Core concept alternative form)",
+            "መጽሐፋቸው ተቃጠለ። (Core concept alternative form)",
+            "መጽሐፍ አልገዛሁም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«መጽሐፎቻችሁ» (Your books) የሁለተኛ መደብ ብዙ ቅጥያን (-አችሁ) በትክክል ያሳያል።"
@@ -4463,9 +4463,9 @@
           "prompt": "የባለቤትነት ቅጥያዎችን አጠቃቀም በትክክል ያሳየው የትኛው ነው?",
           "options": [
             "ቤቴ (My house)",
-            "ቤቴ ማለት የእናንተ ቤት ነው። (Language concept U9)",
-            "ቅጥያዎች ለስሞች አይጨመሩም። (Language concept U9)",
-            "በአማርኛ የባለቤትነት ቅጥያ የለም። (Language concept U9)"
+            "ቤቴ ማለት የእናንተ ቤት ነው። (Core concept alternative form)",
+            "ቅጥያዎች ለስሞች አይጨመሩም። (Core concept alternative form)",
+            "በአማርኛ የባለቤትነት ቅጥያ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የባለቤትነት ቅጥያዎችን በትክክል ያቀርባል።"
@@ -4521,10 +4521,10 @@
         {
           "prompt": "ታላላቆችን ሲያከብሩ እና ሲመርቁ የሚነገር ቁልፍ ቃል የትኛው ነው?",
           "options": [
-            "ምርቃት (Language concept U9)",
-            "ጠብ (Language concept U9)",
-            "ቁጣ (Language concept U9)",
-            "ስድብ (Language concept U9)"
+            "ምርቃት (Core concept key phrasing)",
+            "ጠብ (Core concept alternative form)",
+            "ቁጣ (Core concept alternative form)",
+            "ስድብ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ምርቃት» የታላላቆች በጎ ምኞትና ጸሎት መግለጫ ነው።"
@@ -4536,10 +4536,10 @@
         {
           "prompt": "'Family love and cooperation are strong' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የቤተሰብ ፍቅር እና ትብብር ጠንካራ ነው። (Language concept U9)",
-            "ቤተሰብ የለንም። (Language concept U9)",
-            "በዓል አንወድም። (Language concept U9)",
-            "ሰርግ አይከበርም። (Language concept U9)"
+            "የቤተሰብ ፍቅር እና ትብብር ጠንካራ ነው። (Core concept alternative form)",
+            "ቤተሰብ የለንም። (Core concept alternative form)",
+            "በዓል አንወድም። (Core concept alternative form)",
+            "ሰርግ አይከበርም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር የቤተሰብ ፍቅርንና ትብብርን በትክክል ይገልጻል።"
@@ -4552,10 +4552,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን የቤተሰብ ባህልና እሴቶችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ታላላቆችን ማክበር፣ ምርቃት መቀበል፣ በበዓላት በአንድነት መሰብሰብ እና መተሳሰብ። (Language concept U9)",
-            "ቤተሰብ አብሮ አይበላም አይጠጣም። (Language concept U9)",
-            "ለታላላቆች ሰላምታ አይሰጥም። (Language concept U9)",
-            "በአማርኛ ሰርግ አይከበርም። (Language concept U9)"
+            "ታላላቆችን ማክበር፣ ምርቃት መቀበል፣ በበዓላት በአንድነት መሰብሰብ እና መተሳሰብ። (Core concept alternative form)",
+            "ቤተሰብ አብሮ አይበላም አይጠጣም። (Core concept alternative form)",
+            "ለታላላቆች ሰላምታ አይሰጥም። (Core concept alternative form)",
+            "በአማርኛ ሰርግ አይከበርም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የማህበራዊና የቤተሰብ ባህል እሴቶችን ያሳያል።"
@@ -4611,10 +4611,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የቤተሰብ፣ የዝምድና እና የባለቤትነት ቅጥያዎችን ያጣመረው የትኛው ነው?",
           "options": [
-            "አያቶቻችን፣ ወላጆቻችን እና ልጆቻችን በቤታችን ተሰብስበው በዓሉን አከበሩ። (Language concept U9)",
-            "መኪና ብቻ ነዳን። (Language concept U9)",
-            "አቅጣጫው ወደ ቀኝ ነው። (Language concept U9)",
-            "ምንም ቤተሰብ የለም። (Language concept U9)"
+            "አያቶቻችን፣ ወላጆቻችን እና ልጆቻችን በቤታችን ተሰብስበው በዓሉን አከበሩ። (Core concept alternative form)",
+            "መኪና ብቻ ነዳን። (Core concept alternative form)",
+            "አቅጣጫው ወደ ቀኝ ነው። (Core concept alternative form)",
+            "ምንም ቤተሰብ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አያቶችን፣ ወላጆችን፣ ልጆችንና የባለቤትነት ቅጥያዎችን በአንድነት አቀናጅቷል።"
@@ -4626,10 +4626,10 @@
         {
           "prompt": "የተዘረጋ ቤተሰብንና ምርቃትን በአንድ ላይ የያዘው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "አጎቶቻችንና አክስቶቻችን መጥተው ምርቃት ሰጡን። (Language concept U9)",
-            "አጎቴ መጽሐፍ አልገዛም። (Language concept U9)",
-            "ትላንትና ዝናብ ዘነበ። (Language concept U9)",
-            "ታሪፉ ሃያ ብር ነው። (Language concept U9)"
+            "አጎቶቻችንና አክስቶቻችን መጥተው ምርቃት ሰጡን። (Core concept alternative form)",
+            "አጎቴ መጽሐፍ አልገዛም። (Core concept alternative form)",
+            "ትላንትና ዝናብ ዘነበ። (Core concept alternative form)",
+            "ታሪፉ ሃያ ብር ነው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተዘረጋ ቤተሰብን (አጎቶች፣ አክስቶች) እና ምርቃትን ያዛምዳል።"
@@ -4643,9 +4643,9 @@
           "prompt": "የክፍል 9 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የቅርብና የተዘረጋ ቤተሰብ አባላት፣ የባለቤትነት ቅጥያዎች (bahulum madaboch)",
-            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (Language concept U9)",
-            "በአማርኛ የቤተሰብ መጠሪያዎች አይለዩም። (Language concept U9)",
-            "ምንም ሰዋሰዋዊ ህግ አልተማርንም። (Language concept U9)"
+            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የቤተሰብ መጠሪያዎች አይለዩም። (Core concept alternative form)",
+            "ምንም ሰዋሰዋዊ ህግ አልተማርንም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 9ን የተሟላ ይዘት ያጠቃልላል።"
@@ -4701,10 +4701,10 @@
         {
           "prompt": "«Hand and foot» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እጅ እና እግር (Language concept U10)",
-            "ራስ እና ሆድ (Language concept U10)",
-            "ዓይን እና ጆሮ (Language concept U10)",
-            "አፍ እና ጥርስ (Language concept U10)"
+            "እጅ እና እግር (Core concept alternative form)",
+            "ራስ እና ሆድ (Core concept alternative form)",
+            "ዓይን እና ጆሮ (Core concept alternative form)",
+            "አፍ እና ጥርስ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እጅ» (hand/arm) እና «እግር» (foot/leg) ናቸው።"
@@ -4716,10 +4716,10 @@
         {
           "prompt": "'Keep your teeth clean' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጥርስህን በንጽህና ጠብቅ። (Language concept U10)",
-            "ሆድህ ይረብሻል። (Language concept U10)",
-            "ዓይንህ ታሟል። (Language concept U10)",
-            "እግርህ ተሰብሯል። (Language concept U10)"
+            "ጥርስህን በንጽህና ጠብቅ። (Core concept alternative form)",
+            "ሆድህ ይረብሻል። (Core concept alternative form)",
+            "ዓይንህ ታሟል። (Core concept alternative form)",
+            "እግርህ ተሰብሯል። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጥርስህን በንጽህና ጠብቅ» ጥርስንና ንጽህናን በትክክል ያዛምዳል።"
@@ -4732,10 +4732,10 @@
           "type": "multiple-choice",
           "prompt": "የሰውነት ክፍሎችን መጠሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ራስ፣ ዓይን፣ ጆሮ፣ አፍንጫ፣ ጥርስ፣ እጅ፣ እግር እና ሆድ። (Language concept U10)",
-            "ቀኝ፣ ግራ እና አደባባይ። (Language concept U10)",
-            "ጠረጴዛ፣ ደብተር እና እርሳስ። (Language concept U10)",
-            "በአማርኛ የሰውነት ስሞች የሉም። (Language concept U10)"
+            "ራስ፣ ዓይን፣ ጆሮ፣ አፍንጫ፣ ጥርስ፣ እጅ፣ እግር እና ሆድ። (Core concept alternative form)",
+            "ቀኝ፣ ግራ እና አደባባይ። (Core concept alternative form)",
+            "ጠረጴዛ፣ ደብተር እና እርሳስ። (Core concept alternative form)",
+            "በአማርኛ የሰውነት ስሞች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሰውነት ክፍሎችን ይዟል።"
@@ -4791,10 +4791,10 @@
         {
           "prompt": "«I have a headache» የሚለውን በአማርኛ ትክክለኛ የግስ አገባብ የገለጸው የትኛው ነው?",
           "options": [
-            "ራሴን አመመኝ። (Language concept U10)",
-            "ራሴን በላሁ (Language concept U10)",
-            "ጭንቅላት የለኝም (Language concept U10)",
-            "ደስ አለኝ (Language concept U10)"
+            "ራሴን አመመኝ። (Core concept alternative form)",
+            "ራሴን በላሁ (Core concept alternative form)",
+            "ጭንቅላት የለኝም (Core concept alternative form)",
+            "ደስ አለኝ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ራሴን አመመኝ» የራስ ህመምን በትክክለኛው ሰዋሰዋዊ ቅርጽ ያሳያል።"
@@ -4806,10 +4806,10 @@
         {
           "prompt": "'She has a high fever and cough' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ከፍተኛ ትኩሳት እና ሳል አላት። (Language concept U10)",
-            "ትኩሳት የለም። (Language concept U10)",
-            "ውሃ ጠጣች። (Language concept U10)",
-            "ትምህርት ቤት ሄደች። (Language concept U10)"
+            "ከፍተኛ ትኩሳት እና ሳል አላት። (Core concept alternative form)",
+            "ትኩሳት የለም። (Core concept alternative form)",
+            "ውሃ ጠጣች። (Core concept alternative form)",
+            "ትምህርት ቤት ሄደች። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ከፍተኛ ትኩሳት እና ሳል አላት» ትኩሳትንና ሳልን በትክክል ይገልጻል።"
@@ -4822,10 +4822,10 @@
           "type": "multiple-choice",
           "prompt": "የህመም ስሜቶችን እና ምልክቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ትኩሳት፣ ሳል፣ ጉንፋን፣ የሆድ ቁርጠት እና ራስ ምታት። (Language concept U10)",
-            "ምግብ ማብሰል እና ቡና ማፍላት። (Language concept U10)",
-            "ታክሲ መሳፈር እና ትኬት መቁረጥ። (Language concept U10)",
-            "በአማርኛ የህመም ቃላት የሉም። (Language concept U10)"
+            "ትኩሳት፣ ሳል፣ ጉንፋን፣ የሆድ ቁርጠት እና ራስ ምታት። (Core concept alternative form)",
+            "ምግብ ማብሰል እና ቡና ማፍላት። (Core concept alternative form)",
+            "ታክሲ መሳፈር እና ትኬት መቁረጥ። (Core concept alternative form)",
+            "በአማርኛ የህመም ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የህመም ምልክቶችን በትክክል ይዟል።"
@@ -4881,9 +4881,9 @@
         {
           "prompt": "ሐኪሙ ታካሚውን ለመመርመር ምን አይነት ጥያቄ ይጠይቃል?",
           "options": [
-            "ምን ያመሃል / ምን ሆንክ? (Language concept U10)",
-            "የት ልትጓዝ ነው? (Language concept U10)",
-            "ታሪፉ ስንት ነው? (Language concept U10)",
+            "ምን ያመሃል / ምን ሆንክ? (Core concept alternative form)",
+            "የት ልትጓዝ ነው? (Core concept alternative form)",
+            "ታሪፉ ስንት ነው? (Core concept alternative form)",
             "ስምህ ማን ነው? (male)"
           ],
           "answerIndex": 0,
@@ -4896,10 +4896,10 @@
         {
           "prompt": "'The doctor ordered a blood test for the patient' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሐኪሙ ለታካሚው የደም ምርመራ አዘዘ። (Language concept U10)",
-            "ሐኪሙ መኪና ገዛ። (Language concept U10)",
-            "ታካሚው ሮጦ ሄደ። (Language concept U10)",
-            "ምንም ምርመራ አያስፈልግም። (Language concept U10)"
+            "ሐኪሙ ለታካሚው የደም ምርመራ አዘዘ። (Core concept alternative form)",
+            "ሐኪሙ መኪና ገዛ። (Core concept alternative form)",
+            "ታካሚው ሮጦ ሄደ። (Core concept alternative form)",
+            "ምንም ምርመራ አያስፈልግም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር ሐኪምን፣ ታካሚንና የደም ምርመራን በትክክል ያዛምዳል።"
@@ -4912,10 +4912,10 @@
           "type": "multiple-choice",
           "prompt": "የክሊኒክና የሆስፒታል አገልግሎቶችን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
-            "ሐኪም ታካሚውን መረመረ፣ ነርሷ የደም ግፊት ለካች፣ የላብራቶሪ ምርመራም ተከናወነ። (Language concept U10)",
-            "በሆስፒታል ውስጥ ጨዋታ ብቻ ይካሄዳል። (Language concept U10)",
-            "ምርመራ ማድረግ የተከለከለ ነው። (Language concept U10)",
-            "በአማርኛ ሐኪም አይባልም። (Language concept U10)"
+            "ሐኪም ታካሚውን መረመረ፣ ነርሷ የደም ግፊት ለካች፣ የላብራቶሪ ምርመራም ተከናወነ። (Core concept alternative form)",
+            "በሆስፒታል ውስጥ ጨዋታ ብቻ ይካሄዳል። (Core concept alternative form)",
+            "ምርመራ ማድረግ የተከለከለ ነው። (Core concept alternative form)",
+            "በአማርኛ ሐኪም አይባልም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተሟላ የክሊኒክ ምርመራ ሂደትን ያሳያል።"
@@ -4971,10 +4971,10 @@
         {
           "prompt": "«Take one pill after meals» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ከምግብ በኋላ አንድ ክኒን ውሰድ/ውሰጂ። (Language concept U10)",
-            "ከምግብ በፊት ሩጥ (Language concept U10)",
-            "መድኃኒት አትውሰድ (Language concept U10)",
-            "ክኒን አትግዛ (Language concept U10)"
+            "ከምግብ በኋላ አንድ ክኒን ውሰድ/ውሰጂ። (Core concept alternative form)",
+            "ከምግብ በፊት ሩጥ (Core concept alternative form)",
+            "መድኃኒት አትውሰድ (Core concept alternative form)",
+            "ክኒን አትግዛ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ከምግብ በኋላ አንድ ክኒን ውሰድ» ትክክለኛውን የአወሳሰድ መመሪያ ይገልጻል።"
@@ -4986,10 +4986,10 @@
         {
           "prompt": "'He bought the prescribed medicine from the pharmacy' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የታዘዘውን መድኃኒት ከመድኃኒት ቤት ገዛ። (Language concept U10)",
-            "መድኃኒት ቤት አልሄደም። (Language concept U10)",
-            "ክሊኒኩ ተዘጋ። (Language concept U10)",
-            "ምንም ህመም የለም። (Language concept U10)"
+            "የታዘዘውን መድኃኒት ከመድኃኒት ቤት ገዛ። (Core concept alternative form)",
+            "መድኃኒት ቤት አልሄደም። (Core concept alternative form)",
+            "ክሊኒኩ ተዘጋ። (Core concept alternative form)",
+            "ምንም ህመም የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር መድኃኒት መግዛትን በትክክል ያሳያል።"
@@ -5002,10 +5002,10 @@
           "type": "multiple-choice",
           "prompt": "የመድኃኒት አወሳሰድ መመሪያዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የሐኪም ማዘዣ፣ ክኒን፣ ሽሮፕ፣ እንዲሁም ከምግብ በፊት ወይም በኋላ መውሰድ። (Language concept U10)",
-            "መድኃኒት በጨለማ መወርወር። (Language concept U10)",
-            "በአማርኛ መድኃኒት አይሸጥም። (Language concept U10)",
-            "ክኒን ማለት ምግብ ማለት ነው። (Language concept U10)"
+            "የሐኪም ማዘዣ፣ ክኒን፣ ሽሮፕ፣ እንዲሁም ከምግብ በፊት ወይም በኋላ መውሰድ። (Core concept alternative form)",
+            "መድኃኒት በጨለማ መወርወር። (Core concept alternative form)",
+            "በአማርኛ መድኃኒት አይሸጥም። (Core concept alternative form)",
+            "ክኒን ማለት ምግብ ማለት ነው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመድኃኒት አወሳሰድ ስርዓትን በሙሉ ያጠቃልላል።"
@@ -5061,10 +5061,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የጤና እና የህክምና ሂደት የሚያሳየው የትኛው ነው?",
           "options": [
-            "ህመም ሲሰማን ወደ ክሊኒክ ሄደን በሐኪም ተመርምረን መድኃኒት እንወስዳለን። (Language concept U10)",
-            "ምንም ህመም የለም (Language concept U10)",
-            "መድኃኒት አንወድም (Language concept U10)",
-            "ሆስፒታል አንሄድም (Language concept U10)"
+            "ህመም ሲሰማን ወደ ክሊኒክ ሄደን በሐኪም ተመርምረን መድኃኒት እንወስዳለን። (Core concept alternative form)",
+            "ምንም ህመም የለም (Core concept alternative form)",
+            "መድኃኒት አንወድም (Core concept alternative form)",
+            "ሆስፒታል አንሄድም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ህመምን፣ ክሊኒክ መሄድን፣ ምርመራንና መድኃኒት መውሰድን በትክክል ያጠቃልላል።"
@@ -5076,10 +5076,10 @@
         {
           "prompt": "ምርመራን፣ መድኃኒትንና ፈውስን ያቀናጀው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ሐኪሙ መርምሮ መድኃኒት አዘዘልኝ፤ እኔም በፍጥነት ዳንኩ። (Language concept U10)",
-            "መድኃኒት አልገዛሁም። (Language concept U10)",
-            "ክሊኒኩ ሩቅ ነው። (Language concept U10)",
-            "ትላንትና ታክሲ ተሳፈርኩ። (Language concept U10)"
+            "ሐኪሙ መርምሮ መድኃኒት አዘዘልኝ፤ እኔም በፍጥነት ዳንኩ። (Core concept alternative form)",
+            "መድኃኒት አልገዛሁም። (Core concept alternative form)",
+            "ክሊኒኩ ሩቅ ነው። (Core concept alternative form)",
+            "ትላንትና ታክሲ ተሳፈርኩ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ምርመራን፣ መድኃኒትንና መዳንን በአንድነት ይዟል።"
@@ -5093,9 +5093,9 @@
           "prompt": "የክፍል 10 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የሰውነት ክፍሎች፣ የህመም ስሜት መግለጽ (amamany)",
-            "ይህ ክፍል ስለ ቤተሰብ ብቻ ነው። (Language concept U10)",
-            "በአማርኛ የጤና ቃላት የሉም። (Language concept U10)",
-            "ሁሉም የሰውነት ክፍሎች አንድ ስም አላቸው። (Language concept U10)"
+            "ይህ ክፍል ስለ ቤተሰብ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የጤና ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም የሰውነት ክፍሎች አንድ ስም አላቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 10ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -5151,10 +5151,10 @@
         {
           "prompt": "«I will study Amharic» የሚለውን ትክክለኛ የወደፊት ጊዜ የግስ እርባታ የያዘው የትኛው ነው?",
           "options": [
-            "አማርኛ እማራለሁ። (Language concept U11)",
-            "አማርኛ ተማርኩ (Language concept U11)",
-            "አማርኛ አልማርም (Language concept U11)",
-            "አማርኛ ተማር (Language concept U11)"
+            "አማርኛ እማራለሁ። (Core concept alternative form)",
+            "አማርኛ ተማርኩ (Core concept alternative form)",
+            "አማርኛ አልማርም (Core concept alternative form)",
+            "አማርኛ ተማር (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እማራለሁ» ለእኔ (1st person singular) የወደፊት ጊዜን በትክክል ያመለክታል።"
@@ -5166,10 +5166,10 @@
         {
           "prompt": "'They will work in the office' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እነሱ ቢሮ ውስጥ ይሠራሉ። (Language concept U11)",
-            "እነሱ ቢሮ አልገቡም። (Language concept U11)",
-            "እኔ ቢሮ እሠራለሁ። (Language concept U11)",
-            "እሱ ትላንት ሠራ። (Language concept U11)"
+            "እነሱ ቢሮ ውስጥ ይሠራሉ። (Core concept alternative form)",
+            "እነሱ ቢሮ አልገቡም። (Core concept alternative form)",
+            "እኔ ቢሮ እሠራለሁ። (Core concept alternative form)",
+            "እሱ ትላንት ሠራ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ይሠራሉ» ለሦስተኛ መደብ ብዙ (እነሱ) የወደፊት ጊዜን በትክክል ያሳያል።"
@@ -5182,10 +5182,10 @@
           "type": "multiple-choice",
           "prompt": "የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እሄዳለሁ፣ ትሄዳለህ፣ ትሄጃለሽ፣ ይሄዳል፣ ትሄዳለች እና እንሄዳለን። (Language concept U11)",
-            "ትላንት ሄድኩ እና በላሁ። (Language concept U11)",
-            "አልሄድኩም እና አልበላሁም። (Language concept U11)",
-            "በአማርኛ የወደፊት ጊዜ አይረባም። (Language concept U11)"
+            "እሄዳለሁ፣ ትሄዳለህ፣ ትሄጃለሽ፣ ይሄዳል፣ ትሄዳለች እና እንሄዳለን። (Core concept alternative form)",
+            "ትላንት ሄድኩ እና በላሁ። (Core concept alternative form)",
+            "አልሄድኩም እና አልበላሁም። (Core concept alternative form)",
+            "በአማርኛ የወደፊት ጊዜ አይረባም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ይዟል።"
@@ -5241,10 +5241,10 @@
         {
           "prompt": "«Day after tomorrow» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ከነገ ወዲያ (Language concept U11)",
-            "ከትላንት ወዲያ (Language concept U11)",
-            "ባለፈው ሳምንት (Language concept U11)",
-            "አሁን (Language concept U11)"
+            "ከነገ ወዲያ (Core concept key phrasing)",
+            "ከትላንት ወዲያ (Core concept alternative form)",
+            "ባለፈው ሳምንት (Core concept alternative form)",
+            "አሁን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ከነገ ወዲያ» ከነገ ቀጥሎ ያለውን ቀን ያመለክታል።"
@@ -5256,10 +5256,10 @@
         {
           "prompt": "'Next week we will travel to Bahir Dar' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በሚቀጥለው ሳምንት ወደ ባሕር ዳር እንጓዛለን። (Language concept U11)",
-            "ትላንት ወደ ባሕር ዳር ሄድን። (Language concept U11)",
-            "ባሕር ዳር አንሄድም። (Language concept U11)",
-            "ባሕር ዳር ቆንጆ ከተማ ናት። (Language concept U11)"
+            "በሚቀጥለው ሳምንት ወደ ባሕር ዳር እንጓዛለን። (Core concept alternative form)",
+            "ትላንት ወደ ባሕር ዳር ሄድን። (Core concept alternative form)",
+            "ባሕር ዳር አንሄድም። (Core concept alternative form)",
+            "ባሕር ዳር ቆንጆ ከተማ ናት። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በሚቀጥለው ሳምንት... እንጓዛለን» የወደፊት ጊዜ አመልካችንና ግስን በትክክል ያዛምዳል።"
@@ -5272,10 +5272,10 @@
           "type": "multiple-choice",
           "prompt": "የወደፊት ጊዜ አመልካቾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ነገ፣ ከነገ ወዲያ፣ በሚቀጥለው ሳምንት፣ በሚመጣው ወር እና ወደፊት። (Language concept U11)",
-            "ትላንትና፣ ከትላንት ወዲያ እና ባለፈው ዓመት። (Language concept U11)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Language concept U11)",
-            "በአማርኛ የወደፊት ጊዜ ቃላት የሉም። (Language concept U11)"
+            "ነገ፣ ከነገ ወዲያ፣ በሚቀጥለው ሳምንት፣ በሚመጣው ወር እና ወደፊት። (Core concept alternative form)",
+            "ትላንትና፣ ከትላንት ወዲያ እና ባለፈው ዓመት። (Core concept alternative form)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (Core concept alternative form)",
+            "በአማርኛ የወደፊት ጊዜ ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ አመልካቾችን ይዟል።"
@@ -5331,10 +5331,10 @@
         {
           "prompt": "«I will not eat» የሚለውን በአማርኛ ትክክለኛ የወደፊት አሉታዊ ቅርጽ የገለጸው የትኛው ነው?",
           "options": [
-            "አልበላም (Language concept U11)",
-            "አልበላሁም (Language concept U11)",
-            "እበላለሁ (Language concept U11)",
-            "ብላ (Language concept U11)"
+            "አልበላም (Core concept key phrasing)",
+            "አልበላሁም (Core concept alternative form)",
+            "እበላለሁ (Core concept alternative form)",
+            "ብላ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አልበላም» የወደፊት ወይም የአሁን ያልተጠናቀቀ አሉታዊ ድርጊትን ያመለክታል።"
@@ -5346,10 +5346,10 @@
         {
           "prompt": "'They will not come tomorrow' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ነገ አይመጡም። (Language concept U11)",
-            "ትላንት መጡ። (Language concept U11)",
-            "ነገ ይመጣሉ። (Language concept U11)",
-            "እኔ አልመጣም። (Language concept U11)"
+            "ነገ አይመጡም። (Core concept alternative form)",
+            "ትላንት መጡ። (Core concept alternative form)",
+            "ነገ ይመጣሉ። (Core concept alternative form)",
+            "እኔ አልመጣም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አይመጡም» ለሦስተኛ መደብ ብዙ የወደፊት አሉታዊ ቅርጽ ነው።"
@@ -5362,10 +5362,10 @@
           "type": "multiple-choice",
           "prompt": "የወደፊት ጊዜ አሉታዊ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አልሄድም፣ አትሄድም፣ አትሄጂም፣ አይሄድም፣ አትሄድም እና አንሄድም። (Language concept U11)",
-            "ሄድኩ፣ ሄደ እና ሄድን። (Language concept U11)",
-            "እሄዳለሁ እና ትሄዳለህ። (Language concept U11)",
-            "በአማርኛ አሉታዊ ግስ የለም። (Language concept U11)"
+            "አልሄድም፣ አትሄድም፣ አትሄጂም፣ አይሄድም፣ አትሄድም እና አንሄድም። (Core concept alternative form)",
+            "ሄድኩ፣ ሄደ እና ሄድን። (Core concept alternative form)",
+            "እሄዳለሁ እና ትሄዳለህ። (Core concept alternative form)",
+            "በአማርኛ አሉታዊ ግስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት አሉታዊ ግሶችን ይዟል።"
@@ -5421,10 +5421,10 @@
         {
           "prompt": "«I want to travel» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ለመጓዝ እፈልጋለሁ። (Language concept U11)",
-            "መጓዝ አልፈልግም (Language concept U11)",
-            "ትላንት ተጓዝኩ (Language concept U11)",
-            "አትጓዝ (Language concept U11)"
+            "ለመጓዝ እፈልጋለሁ። (Core concept alternative form)",
+            "መጓዝ አልፈልግም (Core concept alternative form)",
+            "ትላንት ተጓዝኩ (Core concept alternative form)",
+            "አትጓዝ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ለመጓዝ እፈልጋለሁ» የመጓዝ ፍላጎትንና ምኞትን በትክክል ያሳያል።"
@@ -5436,10 +5436,10 @@
         {
           "prompt": "'He has planned to buy a car' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መኪና ለመግዛት አቅዷል። (Language concept U11)",
-            "መኪና ሸጠ። (Language concept U11)",
-            "መኪና የለውም። (Language concept U11)",
-            "መኪና አይገዛም። (Language concept U11)"
+            "መኪና ለመግዛት አቅዷል። (Core concept alternative form)",
+            "መኪና ሸጠ። (Core concept alternative form)",
+            "መኪና የለውም። (Core concept alternative form)",
+            "መኪና አይገዛም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«መኪና ለመግዛት አቅዷል» የግዢ ዕቅድን በትክክል ይገልጻል።"
@@ -5452,10 +5452,10 @@
           "type": "multiple-choice",
           "prompt": "የዕቅድ እና የዓላማ መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አቅጃለሁ፣ አስባለሁ፣ እፈልጋለሁ፣ ለመማር እና ለማቋቋም። (Language concept U11)",
-            "ትላንት በላሁ እና ጠጣሁ። (Language concept U11)",
-            "ምንም ዕቅድ የለም። (Language concept U11)",
-            "በአማርኛ የዕቅድ ቃል አይነገርም። (Language concept U11)"
+            "አቅጃለሁ፣ አስባለሁ፣ እፈልጋለሁ፣ ለመማር እና ለማቋቋም። (Core concept alternative form)",
+            "ትላንት በላሁ እና ጠጣሁ። (Core concept alternative form)",
+            "ምንም ዕቅድ የለም። (Core concept alternative form)",
+            "በአማርኛ የዕቅድ ቃል አይነገርም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የዕቅድና የምኞት መግለጫዎችን ይዟል።"
@@ -5511,10 +5511,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የወደፊት ዕቅድንና ተግባርን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
-            "በሚቀጥለው ወር አዲስ ሥራ ለመጀመር አቅጃለሁ፤ ጠንክሬም እሠራለሁ። (Language concept U11)",
-            "ትላንት ሥራ ጨረስኩ (Language concept U11)",
-            "ምንም ዕቅድ የለኝም (Language concept U11)",
-            "ሥራ አልፈልግም (Language concept U11)"
+            "በሚቀጥለው ወር አዲስ ሥራ ለመጀመር አቅጃለሁ፤ ጠንክሬም እሠራለሁ። (Core concept alternative form)",
+            "ትላንት ሥራ ጨረስኩ (Core concept alternative form)",
+            "ምንም ዕቅድ የለኝም (Core concept alternative form)",
+            "ሥራ አልፈልግም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጊዜ አመልካችን፣ ዕቅድንና የወደፊት ግስን በአንድነት ያጠቃልላል።"
@@ -5526,10 +5526,10 @@
         {
           "prompt": "የወደፊት አዎንታዊና አሉታዊ መግለጫዎችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ነገ ወደ ከተማ አልሄድም፤ ይልቁንም ቤት ውስጥ አጠናለሁ። (Language concept U11)",
-            "ትላንት ወደ ከተማ አልሄድኩም። (Language concept U11)",
-            "ምንም አላጠናሁም። (Language concept U11)",
-            "ከተማ ሩቅ ነው። (Language concept U11)"
+            "ነገ ወደ ከተማ አልሄድም፤ ይልቁንም ቤት ውስጥ አጠናለሁ። (Core concept alternative form)",
+            "ትላንት ወደ ከተማ አልሄድኩም። (Core concept alternative form)",
+            "ምንም አላጠናሁም። (Core concept alternative form)",
+            "ከተማ ሩቅ ነው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር የወደፊት አሉታዊን (አልሄድም) እና የወደፊት አዎንታዊን (አጠናለሁ) በትክክል ያዛምዳል።"
@@ -5542,10 +5542,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 11 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ቀላል የወደፊት ጊዜ ግሶች፣ የጊዜ አመልካቾች (Language concept U11)",
-            "ይህ ክፍል ስለ ያለፈ ታሪክ ብቻ ነው። (Language concept U11)",
-            "በአማርኛ የወደፊት ጊዜ የለም። (Language concept U11)",
-            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (Language concept U11)"
+            "ቀላል የወደፊት ጊዜ ግሶች፣ የጊዜ አመልካቾች (Core concept alternative form)",
+            "ይህ ክፍል ስለ ያለፈ ታሪክ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የወደፊት ጊዜ የለም። (Core concept alternative form)",
+            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 11ን አጠቃላይ የወደፊት ጊዜ ይዘት በሙሉ ይሸፍናል።"
@@ -5601,10 +5601,10 @@
         {
           "prompt": "«Football and running» የሚለውን በአማርኛ ትክክለኛ የስፖርት ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "እግር ኳስ እና ሩጫ (Language concept U12)",
-            "ጠረጴዛ እና ወንበር (Language concept U12)",
-            "መጽሐፍ እና ደብተር (Language concept U12)",
-            "ታክሲ እና ባቡር (Language concept U12)"
+            "እግር ኳስ እና ሩጫ (Core concept alternative form)",
+            "ጠረጴዛ እና ወንበር (Core concept alternative form)",
+            "መጽሐፍ እና ደብተር (Core concept alternative form)",
+            "ታክሲ እና ባቡር (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እግር ኳስ» እና «ሩጫ» ሁለቱን ዋና የስፖርት አይነቶች ያመለክታሉ።"
@@ -5616,10 +5616,10 @@
         {
           "prompt": "'They swim in the pool' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በገንዳው ውስጥ ይዋኛሉ። (Language concept U12)",
-            "እግር ኳስ ይጫወታሉ። (Language concept U12)",
-            "መጽሐፍ ያነባሉ። (Language concept U12)",
-            "ምግብ ያበስላሉ። (Language concept U12)"
+            "በገንዳው ውስጥ ይዋኛሉ። (Core concept alternative form)",
+            "እግር ኳስ ይጫወታሉ። (Core concept alternative form)",
+            "መጽሐፍ ያነባሉ። (Core concept alternative form)",
+            "ምግብ ያበስላሉ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ይዋኛሉ» የመዋኘት ተግባርን ለሦስተኛ መደብ ብዙ በትክክል ያሳያል።"
@@ -5632,10 +5632,10 @@
           "type": "multiple-choice",
           "prompt": "ዋና ዋና የስፖርት አይነቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እግር ኳስ፣ ሩጫ፣ ቅርጫት ኳስ፣ መረብ ኳስ፣ ዋና እና ብስክሌት መንዳት። (Language concept U12)",
-            "እንጀራ፣ ወጥ እና ዳቦ። (Language concept U12)",
-            "ቀሚስ፣ ሱሪ እና ጫማ። (Language concept U12)",
-            "በአማርኛ የስፖርት ስሞች የሉም። (Language concept U12)"
+            "እግር ኳስ፣ ሩጫ፣ ቅርጫት ኳስ፣ መረብ ኳስ፣ ዋና እና ብስክሌት መንዳት። (Core concept alternative form)",
+            "እንጀራ፣ ወጥ እና ዳቦ። (Core concept alternative form)",
+            "ቀሚስ፣ ሱሪ እና ጫማ። (Core concept alternative form)",
+            "በአማርኛ የስፖርት ስሞች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስፖርት አይነቶችን በሙሉ ይዟል።"
@@ -5692,10 +5692,10 @@
         {
           "prompt": "«Reading books in free time» የሚለውን በአማርኛ ትክክለኛ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "በትርፍ ጊዜ መጽሐፍ ማንበብ (Language concept U12)",
-            "ሥራ መፈለግ (Language concept U12)",
-            "ሆስፒታል መሄድ (Language concept U12)",
-            "ታክሲ መጠበቅ (Language concept U12)"
+            "በትርፍ ጊዜ መጽሐፍ ማንበብ (Core concept key phrasing)",
+            "ሥራ መፈለግ (Core concept alternative form)",
+            "ሆስፒታል መሄድ (Core concept alternative form)",
+            "ታክሲ መጠበቅ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በትርፍ ጊዜ መጽሐፍ ማንበብ» የትርፍ ሰዓት የንባብ ልማድን በትክክል ይገልጻል።"
@@ -5707,10 +5707,10 @@
         {
           "prompt": "'She listens to traditional music' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ባህላዊ ሙዚቃ ታዳምጣለች። (Language concept U12)",
-            "ሙዚቃ አትወድም። (Language concept U12)",
-            "መጽሐፍ ትጽፋለች። (Language concept U12)",
-            "ምግብ አትበላም። (Language concept U12)"
+            "ባህላዊ ሙዚቃ ታዳምጣለች። (Core concept alternative form)",
+            "ሙዚቃ አትወድም። (Core concept alternative form)",
+            "መጽሐፍ ትጽፋለች። (Core concept alternative form)",
+            "ምግብ አትበላም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ባህላዊ ሙዚቃ ታዳምጣለች» የሙዚቃ ማዳመጥን ድርጊት በትክክል ያሳያል።"
@@ -5723,10 +5723,10 @@
           "type": "multiple-choice",
           "prompt": "የትርፍ ጊዜ ተግባራትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "መጽሐፍ ማንበብ፣ ሙዚቃ ማዳመጥ፣ ፊልም ማየት፣ ሥዕል መሳል እና ፎቶግራፍ ማንሳት። (Language concept U12)",
-            "ክኒን መዋጥ እና መርፌ መወጋት። (Language concept U12)",
-            "ትኬት መቁረጥ እና ወያላ መጥራት። (Language concept U12)",
-            "በአማርኛ የመዝናኛ ቃላት የሉም። (Language concept U12)"
+            "መጽሐፍ ማንበብ፣ ሙዚቃ ማዳመጥ፣ ፊልም ማየት፣ ሥዕል መሳል እና ፎቶግራፍ ማንሳት። (Core concept alternative form)",
+            "ክኒን መዋጥ እና መርፌ መወጋት። (Core concept alternative form)",
+            "ትኬት መቁረጥ እና ወያላ መጥራት። (Core concept alternative form)",
+            "በአማርኛ የመዝናኛ ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የትርፍ ጊዜ ማሳለፊያዎችን በሙሉ ይዟል።"
@@ -5782,10 +5782,10 @@
         {
           "prompt": "«I prefer reading» የሚለውን በአማርኛ ትክክለኛ የምርጫ አገባብ የገለጸው የትኛው ነው?",
           "options": [
-            "ማንበብን እመርጣለሁ። (Language concept U12)",
-            "ማንበብ አልችልም (Language concept U12)",
-            "መጽሐፍ የለኝም (Language concept U12)",
-            "አላነብም (Language concept U12)"
+            "ማንበብን እመርጣለሁ። (Core concept alternative form)",
+            "ማንበብ አልችልም (Core concept alternative form)",
+            "መጽሐፍ የለኝም (Core concept alternative form)",
+            "አላነብም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ማንበብን እመርጣለሁ» ከሌሎች ነገሮች ይልቅ ንባብን መምረጥን በትክክል ያሳያል።"
@@ -5797,10 +5797,10 @@
         {
           "prompt": "'He doesn't like watching sports' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስፖርት ማየት አይወድም። (Language concept U12)",
-            "ስፖርት ይወዳል (Language concept U12)",
-            "ስፖርት ይጫወታል (Language concept U12)",
-            "ስፖርት ሮጠ (Language concept U12)"
+            "ስፖርት ማየት አይወድም። (Core concept alternative form)",
+            "ስፖርት ይወዳል (Core concept alternative form)",
+            "ስፖርት ይጫወታል (Core concept alternative form)",
+            "ስፖርት ሮጠ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አይወድም» ለሦስተኛ መደብ ተባዕታይ ያለመውደድን በትክክል ይገልጻል።"
@@ -5813,10 +5813,10 @@
           "type": "multiple-choice",
           "prompt": "የፍላጎት እና የምርጫ መግለጫዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እወዳለሁ፣ አልወድም፣ እመርጣለሁ እና ይሻለኛል። (Language concept U12)",
-            "ሄድኩ፣ መጣሁ እና በላሁ። (Language concept U12)",
-            "ትላንት፣ ዛሬ እና ነገ። (Language concept U12)",
-            "በአማርኛ የምርጫ ቃላት የሉም። (Language concept U12)"
+            "እወዳለሁ፣ አልወድም፣ እመርጣለሁ እና ይሻለኛል። (Core concept alternative form)",
+            "ሄድኩ፣ መጣሁ እና በላሁ። (Core concept alternative form)",
+            "ትላንት፣ ዛሬ እና ነገ። (Core concept alternative form)",
+            "በአማርኛ የምርጫ ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የምርጫና የፍላጎት መግለጫዎችን ይዟል።"
@@ -5872,10 +5872,10 @@
         {
           "prompt": "በገና በዓል ወቅት የሚጫወተው ታዋቂው የኢትዮጵያ ባህላዊ ስፖርት የትኛው ነው?",
           "options": [
-            "የገና ጨዋታ (Language concept U12)",
-            "ቅርጫት ኳስ (Language concept U12)",
-            "መረብ ኳስ (Language concept U12)",
-            "ቴኒስ (Language concept U12)"
+            "የገና ጨዋታ (Core concept key phrasing)",
+            "ቅርጫት ኳስ (Core concept alternative form)",
+            "መረብ ኳስ (Core concept alternative form)",
+            "ቴኒስ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የገና ጨዋታ» በገና ወቅት በባህል የሚዘወተር ጥንታዊ የሆኪ ዓይነት ጨዋታ ነው።"
@@ -5887,10 +5887,10 @@
         {
           "prompt": "'Elders play Gebet'a under the shade' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሽማግሌዎች በጥላ ሥር ገበጣ ይጫወታሉ። (Language concept U12)",
-            "ሽማግሌዎች ይሮጣሉ። (Language concept U12)",
-            "ገበጣ መጫወት አይቻልም። (Language concept U12)",
-            "ምንም ጨዋታ የለም። (Language concept U12)"
+            "ሽማግሌዎች በጥላ ሥር ገበጣ ይጫወታሉ። (Core concept alternative form)",
+            "ሽማግሌዎች ይሮጣሉ። (Core concept alternative form)",
+            "ገበጣ መጫወት አይቻልም። (Core concept alternative form)",
+            "ምንም ጨዋታ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር ሽማግሌዎችን፣ ጥላንና የገበጣ ጨዋታን በትክክል ያዛምዳል።"
@@ -5903,10 +5903,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያ ባህላዊ ስፖርቶችንና ጨዋታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የገና ጨዋታ፣ ገበጣ፣ የፈረስ ጉግስ እና ሻጥር። (Language concept U12)",
-            "እግር ኳስ እና ቴኒስ ብቻ። (Language concept U12)",
-            "በኢትዮጵያ ባህላዊ ስፖርት የለም። (Language concept U12)",
-            "መኪና መንዳት እና አውሮፕላን ማብረር። (Language concept U12)"
+            "የገና ጨዋታ፣ ገበጣ፣ የፈረስ ጉግስ እና ሻጥር። (Core concept alternative form)",
+            "እግር ኳስ እና ቴኒስ ብቻ። (Core concept alternative form)",
+            "በኢትዮጵያ ባህላዊ ስፖርት የለም። (Core concept alternative form)",
+            "መኪና መንዳት እና አውሮፕላን ማብረር። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ስፖርቶችንና ጨዋታዎችን በሙሉ ይዟል።"
@@ -5962,10 +5962,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የስፖርትና የመዝናኛ አኗኗርን የሚያሳየው የትኛው ነው?",
           "options": [
-            "ስፖርት እሠራለሁ፣ መጽሐፍ አነባለሁ፣ እንዲሁም በትርፍ ጊዜዬ እዝናናለሁ። (Language concept U12)",
-            "ምንም ስፖርት አልሠራም (Language concept U12)",
-            "መጽሐፍ አልወድም (Language concept U12)",
-            "ቤት ብቻ እቀመጣለሁ (Language concept U12)"
+            "ስፖርት እሠራለሁ፣ መጽሐፍ አነባለሁ፣ እንዲሁም በትርፍ ጊዜዬ እዝናናለሁ። (Core concept alternative form)",
+            "ምንም ስፖርት አልሠራም (Core concept alternative form)",
+            "መጽሐፍ አልወድም (Core concept alternative form)",
+            "ቤት ብቻ እቀመጣለሁ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ስፖርትን፣ ንባብንና መዝናናትን በአንድነት ያጠቃልላል።"
@@ -5977,10 +5977,10 @@
         {
           "prompt": "ባህላዊ ጨዋታዎችንና ዘመናዊ ስፖርቶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "እግር ኳስ መጫወትም ሆነ ገበጣ መጫወት ደስ ይለኛል። (Language concept U12)",
-            "ስፖርት አልወድም። (Language concept U12)",
-            "ገበጣ ጨዋታ አይደለም። (Language concept U12)",
-            "ኳስ የለም። (Language concept U12)"
+            "እግር ኳስ መጫወትም ሆነ ገበጣ መጫወት ደስ ይለኛል። (Core concept alternative form)",
+            "ስፖርት አልወድም። (Core concept alternative form)",
+            "ገበጣ ጨዋታ አይደለም። (Core concept alternative form)",
+            "ኳስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ እግር ኳስንና ገበጣን በአንድ ላይ በማጣመር ትክክለኛውን ትርጉም ይሰጣል።"
@@ -5993,10 +5993,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 12 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ዋና ዋና ስፖርቶች፣ የትርፍ ጊዜ ማሳለፊያዎች፣ የፍላጎትና የምርጫ መግለጫዎች (Language concept U12)",
-            "ይህ ክፍል ስለ ፖለቲካ ብቻ ነው። (Language concept U12)",
-            "በአማርኛ የመዝናኛ ስሞች የሉም። (Language concept U12)",
-            "ሁሉም ስፖርቶች አንድ ዓይነት ናቸው። (Language concept U12)"
+            "ዋና ዋና ስፖርቶች፣ የትርፍ ጊዜ ማሳለፊያዎች፣ የፍላጎትና የምርጫ መግለጫዎች (Core concept alternative form)",
+            "ይህ ክፍል ስለ ፖለቲካ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የመዝናኛ ስሞች የሉም። (Core concept alternative form)",
+            "ሁሉም ስፖርቶች አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 12ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -6052,10 +6052,10 @@
         {
           "prompt": "«Teacher, doctor, and engineer» የሚለውን በአማርኛ ትክክለኛ የሙያ ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህር፣ ሐኪም እና መሃንዲስ (Language concept U13)",
-            "ወንበር፣ ጠረጴዛ እና በር (Language concept U13)",
-            "ዳቦ፣ ወተት እና ስጋ (Language concept U13)",
-            "ባቡር፣ አውቶቡስ እና ታክሲ (Language concept U13)"
+            "መምህር፣ ሐኪም እና መሃንዲስ (Core concept alternative form)",
+            "ወንበር፣ ጠረጴዛ እና በር (Core concept alternative form)",
+            "ዳቦ፣ ወተት እና ስጋ (Core concept alternative form)",
+            "ባቡር፣ አውቶቡስ እና ታክሲ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«መምህር»፣ «ሐኪም» እና «መሃንዲስ» ሦስቱን ዋና ዋና የሙያ መጠሪያዎች ያመለክታሉ።"
@@ -6067,10 +6067,10 @@
         {
           "prompt": "'The farmer produces crops' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ገበሬው ሰብል ያመርታል። (Language concept U13)",
-            "ገበሬው መኪና ይነዳል (Language concept U13)",
-            "ገበሬው ህክምና ይሰጣል (Language concept U13)",
-            "ገበሬው ፎቶ ያነሳል (Language concept U13)"
+            "ገበሬው ሰብል ያመርታል። (Core concept alternative form)",
+            "ገበሬው መኪና ይነዳል (Core concept alternative form)",
+            "ገበሬው ህክምና ይሰጣል (Core concept alternative form)",
+            "ገበሬው ፎቶ ያነሳል (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ገበሬው ሰብል ያመርታል» የእርሻ ሙያንና ተግባርን በትክክል ያሳያል።"
@@ -6083,10 +6083,10 @@
           "type": "multiple-choice",
           "prompt": "ዋና ዋና የሙያ መጠሪያዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "መምህር፣ ሐኪም፣ መሃንዲስ፣ ነጋዴ፣ ሹፌር፣ ገበሬ እና ጠበቃ። (Language concept U13)",
-            "ቤት፣ በር፣ መስኮት እና ጣሪያ። (Language concept U13)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Language concept U13)",
-            "በአማርኛ የሙያ ስሞች የሉም። (Language concept U13)"
+            "መምህር፣ ሐኪም፣ መሃንዲስ፣ ነጋዴ፣ ሹፌር፣ ገበሬ እና ጠበቃ። (Core concept alternative form)",
+            "ቤት፣ በር፣ መስኮት እና ጣሪያ። (Core concept alternative form)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (Core concept alternative form)",
+            "በአማርኛ የሙያ ስሞች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሙያ ዓይነቶችን በሙሉ ይዟል።"
@@ -6142,10 +6142,10 @@
         {
           "prompt": "«She works in the bank» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "በባንክ ውስጥ ትሠራለች። (Language concept U13)",
-            "ወደ ባንክ ሄደች (Language concept U13)",
-            "ባንክ አልሄደችም (Language concept U13)",
-            "ባንክ ዘግቷል (Language concept U13)"
+            "በባንክ ውስጥ ትሠራለች። (Core concept alternative form)",
+            "ወደ ባንክ ሄደች (Core concept alternative form)",
+            "ባንክ አልሄደችም (Core concept alternative form)",
+            "ባንክ ዘግቷል (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በባንክ ውስጥ ትሠራለች» የሥራ ቦታውንና ድርጊቱን በትክክል ያሳያል።"
@@ -6157,10 +6157,10 @@
         {
           "prompt": "'In the office and factory' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በቢሮ እና በፋብሪካ ውስጥ (Language concept U13)",
-            "በመንገድ ላይ (Language concept U13)",
-            "በቤት ውስጥ (Language concept U13)",
-            "በገበያ ላይ (Language concept U13)"
+            "በቢሮ እና በፋብሪካ ውስጥ (Core concept key phrasing)",
+            "በመንገድ ላይ (Core concept alternative form)",
+            "በቤት ውስጥ (Core concept alternative form)",
+            "በገበያ ላይ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በቢሮ እና በፋብሪካ ውስጥ» ሁለቱን የስራ አካባቢዎች ያመለክታል።"
@@ -6173,10 +6173,10 @@
           "type": "multiple-choice",
           "prompt": "የሥራ ቦታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቢሮ፣ ባንክ፣ ሆስፒታል፣ ትምህርት ቤት፣ ፋብሪካ፣ ፍርድ ቤት እና እርሻ። (Language concept U13)",
-            "አልጋ፣ ቁምሳጥን እና ሶፋ። (Language concept U13)",
-            "ወጥ፣ ዶሮ እና ሩዝ። (Language concept U13)",
-            "በአማርኛ የሥራ ቦታ ስሞች የሉም። (Language concept U13)"
+            "ቢሮ፣ ባንክ፣ ሆስፒታል፣ ትምህርት ቤት፣ ፋብሪካ፣ ፍርድ ቤት እና እርሻ። (Core concept alternative form)",
+            "አልጋ፣ ቁምሳጥን እና ሶፋ። (Core concept alternative form)",
+            "ወጥ፣ ዶሮ እና ሩዝ። (Core concept alternative form)",
+            "በአማርኛ የሥራ ቦታ ስሞች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሥራ ቦታዎችን በሙሉ ይዟል።"
@@ -6232,10 +6232,10 @@
         {
           "prompt": "«Preparing a report and leading a meeting» የሚለውን በአማርኛ ትክክለኛ የሥራ ተግባራት የገለጸው የትኛው ነው?",
           "options": [
-            "ሪፖርት ማዘጋጀት እና ስብሰባ መምራት (Language concept U13)",
-            "እግር ኳስ መጫወት (Language concept U13)",
-            "ምሳ መብላት (Language concept U13)",
-            "ቴሌቪዥን ማየት (Language concept U13)"
+            "ሪፖርት ማዘጋጀት እና ስብሰባ መምራት (Core concept key phrasing)",
+            "እግር ኳስ መጫወት (Core concept alternative form)",
+            "ምሳ መብላት (Core concept alternative form)",
+            "ቴሌቪዥን ማየት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሪፖርት ማዘጋጀት እና ስብሰባ መምራት» ሁለቱን ቁልፍ የቢሮ ተግባራት በትክክል ያመለክታሉ።"
@@ -6247,10 +6247,10 @@
         {
           "prompt": "'My responsibility is to treat patients' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ኃላፊነቴ ህሙማንን ማከም ነው። (Language concept U13)",
-            "ህሙማን አይታከሙም (Language concept U13)",
-            "ሆስፒታል አልሄድም (Language concept U13)",
-            "ምንም ኃላፊነት የለኝም (Language concept U13)"
+            "ኃላፊነቴ ህሙማንን ማከም ነው። (Core concept alternative form)",
+            "ህሙማን አይታከሙም (Core concept alternative form)",
+            "ሆስፒታል አልሄድም (Core concept alternative form)",
+            "ምንም ኃላፊነት የለኝም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ኃላፊነቴ ህሙማንን ማከም ነው» የህክምና ሙያ ዋነኛ ተግባርን በትክክል ያሳያል።"
@@ -6263,10 +6263,10 @@
           "type": "multiple-choice",
           "prompt": "የሥራ ተግባራትንና ኃላፊነቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ማስተማር፣ ማከም፣ ማስተዳደር፣ ሪፖርት ማዘጋጀት እና ስብሰባ መምራት። (Language concept U13)",
-            "መተኛት፣ መነሳት እና ማዛጋት። (Language concept U13)",
-            "መሮጥ፣ መዝለል እና መዋኘት። (Language concept U13)",
-            "በአማርኛ የሥራ ተግባር ቃላት የሉም። (Language concept U13)"
+            "ማስተማር፣ ማከም፣ ማስተዳደር፣ ሪፖርት ማዘጋጀት እና ስብሰባ መምራት። (Core concept alternative form)",
+            "መተኛት፣ መነሳት እና ማዛጋት። (Core concept alternative form)",
+            "መሮጥ፣ መዝለል እና መዋኘት። (Core concept alternative form)",
+            "በአማርኛ የሥራ ተግባር ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሥራ ተግባራትንና ኃላፊነቶችን በሙሉ ይዟል።"
@@ -6322,10 +6322,10 @@
         {
           "prompt": "«Job interview and work experience» የሚለውን በአማርኛ ትክክለኛ የቅጥር ቃላት የገለጸው የትኛው ነው?",
           "options": [
-            "የሥራ ቃለ መጠይቅ እና የሥራ ልምድ (Language concept U13)",
-            "የገበያ ሽያጭ (Language concept U13)",
-            "የእግር ኳስ ጨዋታ (Language concept U13)",
-            "የሲኒማ ትኬት (Language concept U13)"
+            "የሥራ ቃለ መጠይቅ እና የሥራ ልምድ (Core concept alternative form)",
+            "የገበያ ሽያጭ (Core concept alternative form)",
+            "የእግር ኳስ ጨዋታ (Core concept alternative form)",
+            "የሲኒማ ትኬት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የሥራ ቃለ መጠይቅ» እና «የሥራ ልምድ» ሁለቱን ወሳኝ የቅጥር ቃላት ያመለክታሉ።"
@@ -6337,10 +6337,10 @@
         {
           "prompt": "'I sent my application and CV' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ማመልከቻዬንና ሲቪዬን ላክሁ። (Language concept U13)",
-            "ማመልከቻ አልጻፍኩም (Language concept U13)",
-            "ሲቪ የለኝም (Language concept U13)",
-            "ሥራ አልፈልግም (Language concept U13)"
+            "ማመልከቻዬንና ሲቪዬን ላክሁ። (Core concept alternative form)",
+            "ማመልከቻ አልጻፍኩም (Core concept alternative form)",
+            "ሲቪ የለኝም (Core concept alternative form)",
+            "ሥራ አልፈልግም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ማመልከቻዬንና ሲቪዬን ላክሁ» የማመልከቻን መላክ በትክክል ያሳያል።"
@@ -6353,10 +6353,10 @@
           "type": "multiple-choice",
           "prompt": "የሥራ ማመልከቻና የቅጥር ሂደትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የሥራ ማስታወቂያ፣ ማመልከቻ፣ ሲቪ፣ ቃለ መጠይቅ፣ የቅጥር ውል እና ደመወዝ። (Language concept U13)",
-            "የበረራ ትኬት፣ ፓስፖርት እና ሻንጣ። (Language concept U13)",
-            "ስኳር፣ ጨው እና ዘይት። (Language concept U13)",
-            "በአማርኛ የቅጥር ቃላት የሉም። (Language concept U13)"
+            "የሥራ ማስታወቂያ፣ ማመልከቻ፣ ሲቪ፣ ቃለ መጠይቅ፣ የቅጥር ውል እና ደመወዝ። (Core concept alternative form)",
+            "የበረራ ትኬት፣ ፓስፖርት እና ሻንጣ። (Core concept alternative form)",
+            "ስኳር፣ ጨው እና ዘይት። (Core concept alternative form)",
+            "በአማርኛ የቅጥር ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሥራ ቅጥር ሂደትን ደረጃዎች በሙሉ ይዟል።"
@@ -6412,10 +6412,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ ሙያዊ ማንነትንና የሥራ ቦታን የሚያሳየው የትኛው ነው?",
           "options": [
-            "እኔ መምህር ነኝ፤ በዩኒቨርሲቲ ውስጥ ተማሪዎችን አስተምራለሁ። (Language concept U13)",
-            "እኔ ተማሪ አይደለሁም (Language concept U13)",
-            "ሥራ የለም (Language concept U13)",
-            "ቤት ተቀምጫለሁ (Language concept U13)"
+            "እኔ መምህር ነኝ፤ በዩኒቨርሲቲ ውስጥ ተማሪዎችን አስተምራለሁ። (Core concept alternative form)",
+            "እኔ ተማሪ አይደለሁም (Core concept alternative form)",
+            "ሥራ የለም (Core concept alternative form)",
+            "ቤት ተቀምጫለሁ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙያን፣ የሥራ ቦታንና ተግባርን በአንድነት ያጠቃልላል።"
@@ -6427,10 +6427,10 @@
         {
           "prompt": "የሥራ ቅጥርንና የሥራ ጅማሬን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ቃለ መጠይቁን አልፌ አዲሱን ሥራዬን በደስታ ጀመርኩ። (Language concept U13)",
-            "ሥራ አልፈልግም (Language concept U13)",
-            "ቃለ መጠይቅ የለም (Language concept U13)",
-            "ደመወዝ አልፈልግም (Language concept U13)"
+            "ቃለ መጠይቁን አልፌ አዲሱን ሥራዬን በደስታ ጀመርኩ። (Core concept alternative form)",
+            "ሥራ አልፈልግም (Core concept alternative form)",
+            "ቃለ መጠይቅ የለም (Core concept alternative form)",
+            "ደመወዝ አልፈልግም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቃለ መጠይቅን ማለፍና ሥራ መጀመርን በትክክል ያዛምዳል።"
@@ -6443,10 +6443,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 13 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ዋና ዋና ሙያዎች፣ የሥራ ቦታዎች፣ የዕለት ተዕለት የሥራ ኃላፊነቶች፣ እንዲሁም የሥራ ማመልከቻ፣ ሲቪ እና የቃለ መጠይቅ ውይይቶች ተካተዋል። (Language concept U13)",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Language concept U13)",
-            "በአማርኛ የሙያ ቃላት የሉም። (Language concept U13)",
-            "ሁሉም ሰዎች አንድ ዓይነት ሥራ ይሠራሉ። (Language concept U13)"
+            "ዋና ዋና ሙያዎች፣ የሥራ ቦታዎች፣ የዕለት ተዕለት የሥራ ኃላፊነቶች፣ እንዲሁም የሥራ ማመልከቻ፣ ሲቪ እና የቃለ መጠይቅ ውይይቶች ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የሙያ ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም ሰዎች አንድ ዓይነት ሥራ ይሠራሉ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 13ን አጠቃላይ ሙያዊ ይዘት በሙሉ ይሸፍናል።"
@@ -6502,10 +6502,10 @@
         {
           "prompt": "«Lalibela, Aksum, and Gondar» የሚለውን በአማርኛ ትክክለኛ የታሪካዊ ቦታዎች ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ላሊበላ፣ አክሱም እና ጎንደር (Language concept U14)",
-            "መጽሐፍ፣ ደብተር እና እርሳስ (Language concept U14)",
-            "ታክሲ፣ ባቡር እና አውቶቡስ (Language concept U14)",
-            "ወጥ፣ ዳቦ እና ሻይ (Language concept U14)"
+            "ላሊበላ፣ አክሱም እና ጎንደር (Core concept alternative form)",
+            "መጽሐፍ፣ ደብተር እና እርሳስ (Core concept alternative form)",
+            "ታክሲ፣ ባቡር እና አውቶቡስ (Core concept alternative form)",
+            "ወጥ፣ ዳቦ እና ሻይ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ላሊበላ»፣ «አክሱም» እና «ጎንደር» ሦስቱን ታላላቅ የኢትዮጵያ ታሪካዊ ቅርሶች ያመለክታሉ።"
@@ -6517,10 +6517,10 @@
         {
           "prompt": "'The rock churches of Lalibela are famous' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው። (Language concept U14)",
-            "ላሊበላ አዲስ ከተማ ነው (Language concept U14)",
-            "ላሊበላ ቤተ ክርስቲያን የለውም (Language concept U14)",
-            "ላሊበላ መሄድ አይቻልም (Language concept U14)"
+            "የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው። (Core concept alternative form)",
+            "ላሊበላ አዲስ ከተማ ነው (Core concept alternative form)",
+            "ላሊበላ ቤተ ክርስቲያን የለውም (Core concept alternative form)",
+            "ላሊበላ መሄድ አይቻልም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው» የታሪካዊ ቅርሱን ዝና በትክክል ያሳያል።"
@@ -6533,10 +6533,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን ዋና ዋና ታሪካዊ ቅርሶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ላሊበላ፣ አክሱም፣ የጎንደር ፋሲል ግቢ፣ የሐረር ጁጎል እና የጢያ ሐውልቶች። (Language concept U14)",
-            "አልጋ፣ ጠረጴዛ እና ወንበር። (Language concept U14)",
-            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (Language concept U14)",
-            "በኢትዮጵያ ታሪካዊ ቅርሶች የሉም። (Language concept U14)"
+            "ላሊበላ፣ አክሱም፣ የጎንደር ፋሲል ግቢ፣ የሐረር ጁጎል እና የጢያ ሐውልቶች። (Core concept alternative form)",
+            "አልጋ፣ ጠረጴዛ እና ወንበር። (Core concept alternative form)",
+            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (Core concept alternative form)",
+            "በኢትዮጵያ ታሪካዊ ቅርሶች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኢትዮጵያ ታሪካዊ ቦታዎችን በሙሉ ይዟል።"
@@ -6592,10 +6592,10 @@
         {
           "prompt": "«I booked a hotel room» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "በሆቴል ውስጥ ክፍል ያዝኩ። (Language concept U14)",
-            "ሆቴል ውስጥ ምግብ በላሁ (Language concept U14)",
-            "ሆቴል አልሄድም (Language concept U14)",
-            "ሆቴል የለም (Language concept U14)"
+            "በሆቴል ውስጥ ክፍል ያዝኩ። (Core concept alternative form)",
+            "ሆቴል ውስጥ ምግብ በላሁ (Core concept alternative form)",
+            "ሆቴል አልሄድም (Core concept alternative form)",
+            "ሆቴል የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በሆቴል ውስጥ ክፍል ያዝኩ» የክፍል ማስያዝን ድርጊት በትክክል ያሳያል።"
@@ -6607,10 +6607,10 @@
         {
           "prompt": "'The tour guide explains the history' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አስጎብኚው ታሪኩን ያስረዳል። (Language concept U14)",
-            "አስጎብኚው ይተኛል (Language concept U14)",
-            "አስጎብኚው ታሪክ አያውቅም (Language concept U14)",
-            "ምንም አስጎብኚ የለም (Language concept U14)"
+            "አስጎብኚው ታሪኩን ያስረዳል። (Core concept alternative form)",
+            "አስጎብኚው ይተኛል (Core concept alternative form)",
+            "አስጎብኚው ታሪክ አያውቅም (Core concept alternative form)",
+            "ምንም አስጎብኚ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አስጎብኚው ታሪኩን ያስረዳል» የጉዞ አስጎብኚውን ተግባር በትክክል ያመለክታል።"
@@ -6623,10 +6623,10 @@
           "type": "multiple-choice",
           "prompt": "የጉዞ ዝግጅትንና የእንግዳ ተቀባይነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የአውሮፕላን ትኬት፣ ሆቴል፣ ክፍል መያዝ፣ የጉዞ አስጎብኚ እና ሻንጣ። (Language concept U14)",
-            "መጥረጊያ፣ ባልዲ እና ሳሙና። (Language concept U14)",
-            "ጨው፣ በርበሬ እና ሽንኩርት። (Language concept U14)",
-            "በአማርኛ የጉዞ ቃላት የሉም። (Language concept U14)"
+            "የአውሮፕላን ትኬት፣ ሆቴል፣ ክፍል መያዝ፣ የጉዞ አስጎብኚ እና ሻንጣ። (Core concept alternative form)",
+            "መጥረጊያ፣ ባልዲ እና ሳሙና። (Core concept alternative form)",
+            "ጨው፣ በርበሬ እና ሽንኩርት። (Core concept alternative form)",
+            "በአማርኛ የጉዞ ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የጉዞ ዝግጅት ቃላትን በሙሉ ይዟል።"
@@ -6682,10 +6682,10 @@
         {
           "prompt": "«Fascinating and unforgettable trip» የሚለውን በአማርኛ ትክክለኛ ገላጭ ሐረግ የያዘው የትኛው ነው?",
           "options": [
-            "አስደናቂ እና የማይረሳ ጉዞ (Language concept U14)",
-            "አጭር እና መጥፎ መንገድ (Language concept U14)",
-            "የጠፋ ሻንጣ (Language concept U14)",
-            "የተሰበረ መኪና (Language concept U14)"
+            "አስደናቂ እና የማይረሳ ጉዞ (Core concept key phrasing)",
+            "አጭር እና መጥፎ መንገድ (Core concept alternative form)",
+            "የጠፋ ሻንጣ (Core concept alternative form)",
+            "የተሰበረ መኪና (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አስደናቂ እና የማይረሳ ጉዞ» ሁለቱን ገላጭ ቅጽሎች ከስሙ ጋር በትክክል ያጣምራል።"
@@ -6697,10 +6697,10 @@
         {
           "prompt": "'The ancient monasteries on the lake are beautiful' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው። (Language concept U14)",
-            "ሐይቁ ደርቋል (Language concept U14)",
-            "ገዳማት የሉም (Language concept U14)",
-            "ምንም ውበት የለም (Language concept U14)"
+            "በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው። (Core concept alternative form)",
+            "ሐይቁ ደርቋል (Core concept alternative form)",
+            "ገዳማት የሉም (Core concept alternative form)",
+            "ምንም ውበት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው» ጥንታዊነትን፣ ቦታንና ውበትን በትክክል ያዛምዳል።"
@@ -6713,10 +6713,10 @@
           "type": "multiple-choice",
           "prompt": "የጉዞ ልምድ ገላጭ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ጥንታዊ፣ አስደናቂ፣ ማራኪ፣ ድንቅ፣ ታሪካዊ እና የማይረሳ። (Language concept U14)",
-            "ክኒን፣ ሽሮፕ እና መርፌ። (Language concept U14)",
-            "ቅባት፣ ዘይት እና ዱቄት። (Language concept U14)",
-            "በአማርኛ ገላጭ ቅጽሎች የሉም። (Language concept U14)"
+            "ጥንታዊ፣ አስደናቂ፣ ማራኪ፣ ድንቅ፣ ታሪካዊ እና የማይረሳ። (Core concept alternative form)",
+            "ክኒን፣ ሽሮፕ እና መርፌ። (Core concept alternative form)",
+            "ቅባት፣ ዘይት እና ዱቄት። (Core concept alternative form)",
+            "በአማርኛ ገላጭ ቅጽሎች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታና የልምድ ገላጭ ቅጽሎችን በሙሉ ይዟል።"
@@ -6772,10 +6772,10 @@
         {
           "prompt": "በሰሜን ተራሮች ብሔራዊ ፓርክ ውስጥ የሚገኘው ብርቅዬ እንስሳ የትኛው ነው?",
           "options": [
-            "ዋሊያ አይቤክስ (Language concept U14)",
-            "አንበሳ ብቻ (Language concept U14)",
-            "ነብር ብቻ (Language concept U14)",
-            "ዝሆን ብቻ (Language concept U14)"
+            "ዋሊያ አይቤክስ (Core concept key phrasing)",
+            "አንበሳ ብቻ (Core concept alternative form)",
+            "ነብር ብቻ (Core concept alternative form)",
+            "ዝሆን ብቻ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዋሊያ አይቤክስ» በሰሜን ተራሮች ገደላማ ስፍራዎች ላይ ብቻ የሚገኝ ብርቅዬ እንስሳ ነው።"
@@ -6787,10 +6787,10 @@
         {
           "prompt": "'The Ethiopian red wolf lives in Bale Mountains' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል። (Language concept U14)",
-            "ቀይ ቀበሮ በባህር ውስጥ ይኖራል (Language concept U14)",
-            "ባሌ ተራራ ውስጥ እንስሳት የሉም (Language concept U14)",
-            "ቀይ ቀበሮ ጠፍቷል (Language concept U14)"
+            "የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል። (Core concept alternative form)",
+            "ቀይ ቀበሮ በባህር ውስጥ ይኖራል (Core concept alternative form)",
+            "ባሌ ተራራ ውስጥ እንስሳት የሉም (Core concept alternative form)",
+            "ቀይ ቀበሮ ጠፍቷል (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል» የእንስሳውን መገኛ በትክክል ያሳያል።"
@@ -6803,10 +6803,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የሰሜን ተራሮች፣ የባሌ ተራሮች፣ ዋሊያ አይቤክስ፣ ጭላዳ ዝንጀሮ እና ቀይ ቀበሮ። (Language concept U14)",
-            "ቡና፣ ሻይ እና ወተት። (Language concept U14)",
-            "ሸሚዝ፣ ሱሪ እና ጫማ። (Language concept U14)",
-            "በኢትዮጵያ ብሔራዊ ፓርኮች የሉም። (Language concept U14)"
+            "የሰሜን ተራሮች፣ የባሌ ተራሮች፣ ዋሊያ አይቤክስ፣ ጭላዳ ዝንጀሮ እና ቀይ ቀበሮ። (Core concept alternative form)",
+            "ቡና፣ ሻይ እና ወተት። (Core concept alternative form)",
+            "ሸሚዝ፣ ሱሪ እና ጫማ። (Core concept alternative form)",
+            "በኢትዮጵያ ብሔራዊ ፓርኮች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በሙሉ ይዟል።"
@@ -6862,10 +6862,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የቱሪዝም እና የቅርስ ጉዞ አገላለጽን የሚያሳየው የትኛው ነው?",
           "options": [
-            "ታሪካዊ ቅርሶችን ጎበኘን፣ በሆቴል አረፍን፣ እንዲሁም ብርቅዬ እንስሳትን ተመለከትን። (Language concept U14)",
-            "ቤት ውስጥ ተቀመጥን (Language concept U14)",
-            "ምንም ቦታ አልሄድንም (Language concept U14)",
-            "ጉዞ አንወድም (Language concept U14)"
+            "ታሪካዊ ቅርሶችን ጎበኘን፣ በሆቴል አረፍን፣ እንዲሁም ብርቅዬ እንስሳትን ተመለከትን። (Core concept alternative form)",
+            "ቤት ውስጥ ተቀመጥን (Core concept alternative form)",
+            "ምንም ቦታ አልሄድንም (Core concept alternative form)",
+            "ጉዞ አንወድም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ቅርሶችን መጎብኘት፣ ማረፍና ብርቅዬ እንስሳትን መመልከትን በአንድ ላይ ያጠቃልላል።"
@@ -6877,10 +6877,10 @@
         {
           "prompt": "ታሪካዊ ቦታዎችንና የተፈጥሮ ፓርኮችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "የጎንደርን ቤተ መንግሥታት እና የሰሜን ተራሮችን ውበት አደነቅን። (Language concept U14)",
-            "ጎንደር ቅርሶች የሉትም (Language concept U14)",
-            "ሰሜን ተራራ ሩቅ ነው (Language concept U14)",
-            "ምንም ውበት የለም (Language concept U14)"
+            "የጎንደርን ቤተ መንግሥታት እና የሰሜን ተራሮችን ውበት አደነቅን። (Core concept alternative form)",
+            "ጎንደር ቅርሶች የሉትም (Core concept alternative form)",
+            "ሰሜን ተራራ ሩቅ ነው (Core concept alternative form)",
+            "ምንም ውበት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጎንደር ቤተ መንግሥታትንና የሰሜን ተራሮችን ውበት በአንድነት ያሳያል።"
@@ -6893,10 +6893,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 14 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ዋና ዋና ታሪካዊ ቦታዎች (Language concept U14)",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Language concept U14)",
-            "በአማርኛ የቱሪዝም ቃላት የሉም። (Language concept U14)",
-            "ሁሉም ከተሞች አንድ ዓይነት ናቸው። (Language concept U14)"
+            "ዋና ዋና ታሪካዊ ቦታዎች (Core concept alternative form)",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የቱሪዝም ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም ከተሞች አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 14ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -6952,10 +6952,10 @@
         {
           "prompt": "«The rainy season and the harvest season» የሚለውን በአማርኛ ትክክለኛ የወቅት ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ክረምት እና መኸር (Language concept U15)",
-            "ጠዋት እና ማታ (Language concept U15)",
-            "ሰኞ እና አርብ (Language concept U15)",
-            "ጥር እና የካቲት (Language concept U15)"
+            "ክረምት እና መኸር (Core concept alternative form)",
+            "ጠዋት እና ማታ (Core concept alternative form)",
+            "ሰኞ እና አርብ (Core concept alternative form)",
+            "ጥር እና የካቲት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ክረምት» እና «መኸር» ሁለቱን ዋና ዋና የኢትዮጵያ ወቅቶች ያመለክታሉ።"
@@ -6967,10 +6967,10 @@
         {
           "prompt": "'Adey Abeba flowers bloom in Meher' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በመኸር ወቅት አደይ አበባ ያብባል። (Language concept U15)",
-            "በክረምት አበባ የለም (Language concept U15)",
-            "መኸር ደረቅ ነው (Language concept U15)",
-            "አደይ አበባ አይፈካም (Language concept U15)"
+            "በመኸር ወቅት አደይ አበባ ያብባል። (Core concept alternative form)",
+            "በክረምት አበባ የለም (Core concept alternative form)",
+            "መኸር ደረቅ ነው (Core concept alternative form)",
+            "አደይ አበባ አይፈካም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በመኸር ወቅት አደይ አበባ ያብባል» የመኸር ወቅትን ውበትና የአደይ አበባን መፈካት በትክክል ያሳያል።"
@@ -6984,9 +6984,9 @@
           "prompt": "የኢትዮጵያን አራቱን ወቅቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "በጋ፣ ክረምት፣ መኸር እና ፀደይ (balg)",
-            "ዳቦ፣ እንጀራ፣ ወጥ እና ጠጅ። (Language concept U15)",
-            "ላሊበላ፣ ጎንደር፣ አክሱም እና ሐረር። (Language concept U15)",
-            "በኢትዮጵያ ወቅቶች የሉም። (Language concept U15)"
+            "ዳቦ፣ እንጀራ፣ ወጥ እና ጠጅ። (Core concept alternative form)",
+            "ላሊበላ፣ ጎንደር፣ አክሱም እና ሐረር። (Core concept alternative form)",
+            "በኢትዮጵያ ወቅቶች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን የኢትዮጵያ ወቅቶች በሙሉ ይዟል።"
@@ -7042,10 +7042,10 @@
         {
           "prompt": "«Today the weather is sunny and warm» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው። (Language concept U15)",
-            "ዛሬ ዝናብ በረዶ ነው (Language concept U15)",
-            "ዛሬ ጨለማ ነው (Language concept U15)",
-            "አየር የለም (Language concept U15)"
+            "ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው። (Core concept alternative form)",
+            "ዛሬ ዝናብ በረዶ ነው (Core concept alternative form)",
+            "ዛሬ ጨለማ ነው (Core concept alternative form)",
+            "አየር የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው» የፀሐይንና የሙቀትን ሁኔታ በትክክል ያሳያል።"
@@ -7057,10 +7057,10 @@
         {
           "prompt": "'Wear a jacket because it is cold' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስለሚበርድ ጃኬት ልበስ። (Language concept U15)",
-            "ስለሚሞቅ ጃኬት አውልቅ (Language concept U15)",
-            "ብርድ የለም (Language concept U15)",
-            "ጃኬት አያስፈልግም (Language concept U15)"
+            "ስለሚበርድ ጃኬት ልበስ። (Core concept alternative form)",
+            "ስለሚሞቅ ጃኬት አውልቅ (Core concept alternative form)",
+            "ብርድ የለም (Core concept alternative form)",
+            "ጃኬት አያስፈልግም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ስለሚበርድ ጃኬት ልበስ» ቅዝቃዜንና ተገቢ ልብስ መልበስን በትክክል ያዛምዳል።"
@@ -7073,10 +7073,10 @@
           "type": "multiple-choice",
           "prompt": "የአየር ሁኔታ መግለጫዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ፀሐያማ፣ ዝናባማ፣ ደመናማ፣ ንፋሻማ፣ ጭጋጋማ፣ ብርድ እና ሙቀት። (Language concept U15)",
-            "እርሳስ፣ እስክሪብቶ እና ወረቀት። (Language concept U15)",
-            "ስኒ፣ ብርጭቆ እና ማንኪያ። (Language concept U15)",
-            "በአማርኛ የአየር ሁኔታ ቃላት የሉም። (Language concept U15)"
+            "ፀሐያማ፣ ዝናባማ፣ ደመናማ፣ ንፋሻማ፣ ጭጋጋማ፣ ብርድ እና ሙቀት። (Core concept alternative form)",
+            "እርሳስ፣ እስክሪብቶ እና ወረቀት። (Core concept alternative form)",
+            "ስኒ፣ ብርጭቆ እና ማንኪያ። (Core concept alternative form)",
+            "በአማርኛ የአየር ሁኔታ ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአየር ሁኔታ ገላጭ ቃላትን በሙሉ ይዟል።"
@@ -7132,10 +7132,10 @@
         {
           "prompt": "«Mountain, river, and waterfall» የሚለውን በአማርኛ ትክክለኛ የመልክዓ ምድር ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ተራራ፣ ወንዝ እና ፏፏቴ (Language concept U15)",
-            "ወንበር፣ ጠረጴዛ እና በር (Language concept U15)",
-            "መኪና፣ ባቡር እና ታክሲ (Language concept U15)",
-            "ዳቦ፣ ወተት እና ሻይ (Language concept U15)"
+            "ተራራ፣ ወንዝ እና ፏፏቴ (Core concept alternative form)",
+            "ወንበር፣ ጠረጴዛ እና በር (Core concept alternative form)",
+            "መኪና፣ ባቡር እና ታክሲ (Core concept alternative form)",
+            "ዳቦ፣ ወተት እና ሻይ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ተራራ»፣ «ወንዝ» እና «ፏፏቴ» ሦስቱን ቁልፍ የተፈጥሮ መልክዓ ምድር ገጽታዎች ያመለክታሉ።"
@@ -7147,10 +7147,10 @@
         {
           "prompt": "'Tis Abay is a famous waterfall' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጢስ ዓባይ ታዋቂ ፏፏቴ ነው። (Language concept U15)",
-            "ጢስ ዓባይ ተራራ ነው (Language concept U15)",
-            "ጢስ ዓባይ ደረቅ መሬት ነው (Language concept U15)",
-            "ፏፏቴ የለም (Language concept U15)"
+            "ጢስ ዓባይ ታዋቂ ፏፏቴ ነው። (Core concept alternative form)",
+            "ጢስ ዓባይ ተራራ ነው (Core concept alternative form)",
+            "ጢስ ዓባይ ደረቅ መሬት ነው (Core concept alternative form)",
+            "ፏፏቴ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጢስ ዓባይ ታዋቂ ፏፏቴ ነው» የጢስ ዓባይን የተፈጥሮ ምንነት በትክክል ያሳያል።"
@@ -7163,10 +7163,10 @@
           "type": "multiple-choice",
           "prompt": "የመልክዓ ምድር ገጽታዎችንና የውሃ አካላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተራራ፣ ስምጥ ሸለቆ፣ ሜዳ፣ ወንዝ፣ ሐይቅ፣ ፏፏቴ እና ዋሻ። (Language concept U15)",
-            "ቤት፣ በር፣ ግድግዳ እና ጣሪያ። (Language concept U15)",
-            "ብርቱካን፣ ሙዝ እና አፕል ብቻ። (Language concept U15)",
-            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (Language concept U15)"
+            "ተራራ፣ ስምጥ ሸለቆ፣ ሜዳ፣ ወንዝ፣ ሐይቅ፣ ፏፏቴ እና ዋሻ። (Core concept alternative form)",
+            "ቤት፣ በር፣ ግድግዳ እና ጣሪያ። (Core concept alternative form)",
+            "ብርቱካን፣ ሙዝ እና አፕል ብቻ። (Core concept alternative form)",
+            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የመልክዓ ምድርና የውሃ አካላትን በሙሉ ይዟል።"
@@ -7222,10 +7222,10 @@
         {
           "prompt": "«Planting tree seedlings and protecting forests» የሚለውን በአማርኛ ትክክለኛ የአካባቢ ጥበቃ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "ችግኝ መትከል እና ደን መጠበቅ (Language concept U15)",
-            "ዛፍ መቁረጥ (Language concept U15)",
-            "ቆሻሻ መጣል (Language concept U15)",
-            "ውሃ ማባከን (Language concept U15)"
+            "ችግኝ መትከል እና ደን መጠበቅ (Core concept key phrasing)",
+            "ዛፍ መቁረጥ (Core concept alternative form)",
+            "ቆሻሻ መጣል (Core concept alternative form)",
+            "ውሃ ማባከን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ችግኝ መትከል እና ደን መጠበቅ» ሁለቱን ቁልፍ የተፈጥሮ ጥበቃ ተግባራት ያመለክታሉ።"
@@ -7237,10 +7237,10 @@
         {
           "prompt": "'We must protect our environment' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አካባቢያችንን መጠበቅ አለብን። (Language concept U15)",
-            "አካባቢን ማጥፋት አለብን (Language concept U15)",
-            "ምንም ማድረግ አያስፈልግም (Language concept U15)",
-            "ተፈጥሮ አያስፈልግም (Language concept U15)"
+            "አካባቢያችንን መጠበቅ አለብን። (Core concept alternative form)",
+            "አካባቢን ማጥፋት አለብን (Core concept alternative form)",
+            "ምንም ማድረግ አያስፈልግም (Core concept alternative form)",
+            "ተፈጥሮ አያስፈልግም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አካባቢያችንን መጠበቅ አለብን» የአካባቢ ጥበቃ ግዴታን በትክክል ያሳያል።"
@@ -7253,10 +7253,10 @@
           "type": "multiple-choice",
           "prompt": "የአካባቢ ጥበቃና የችግኝ ተከላ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የችግኝ ተከላ፣ አረንጓዴ አሻራ፣ የደን ጥበቃ፣ የአፈር እንክብካቤ እና የተፈጥሮ ሀብት። (Language concept U15)",
-            "ጠመንጃ፣ ጥይት እና ጦር። (Language concept U15)",
-            "ስልክ፣ ቻርጀር እና ባትሪ። (Language concept U15)",
-            "በአማርኛ የአካባቢ ጥበቃ ቃላት የሉም። (Language concept U15)"
+            "የችግኝ ተከላ፣ አረንጓዴ አሻራ፣ የደን ጥበቃ፣ የአፈር እንክብካቤ እና የተፈጥሮ ሀብት። (Core concept alternative form)",
+            "ጠመንጃ፣ ጥይት እና ጦር። (Core concept alternative form)",
+            "ስልክ፣ ቻርጀር እና ባትሪ። (Core concept alternative form)",
+            "በአማርኛ የአካባቢ ጥበቃ ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአካባቢ ጥበቃ ቃላትን በሙሉ ይዟል።"
@@ -7312,10 +7312,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአየር ንብረትና የተፈጥሮ ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "አራቱ ወቅቶች፣ ውብ የመልክዓ ምድር ገጽታዎች እና የተፈጥሮ አካባቢ ጥበቃ ተስማምተው ይገኛሉ። (Language concept U15)",
-            "ምንም ወቅት የለም (Language concept U15)",
-            "ዝናብ አይዘንብም (Language concept U15)",
-            "ተራራና ወንዝ የለም (Language concept U15)"
+            "አራቱ ወቅቶች፣ ውብ የመልክዓ ምድር ገጽታዎች እና የተፈጥሮ አካባቢ ጥበቃ ተስማምተው ይገኛሉ። (Core concept alternative form)",
+            "ምንም ወቅት የለም (Core concept alternative form)",
+            "ዝናብ አይዘንብም (Core concept alternative form)",
+            "ተራራና ወንዝ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ወቅቶችን፣ መልክዓ ምድርንና የአካባቢ ጥበቃን በአንድነት ያጠቃልላል።"
@@ -7327,10 +7327,10 @@
         {
           "prompt": "የችግኝ ተከላንና የተፈጥሮ ውበትን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ችግኞችን በመትከል አካባቢያችንን አረንጓዴ እና ውብ እናደርጋለን። (Language concept U15)",
-            "ዛፎች አይጠቅሙም (Language concept U15)",
-            "ተፈጥሮ አያስፈልግም (Language concept U15)",
-            "ውሃ የለም (Language concept U15)"
+            "ችግኞችን በመትከል አካባቢያችንን አረንጓዴ እና ውብ እናደርጋለን። (Core concept alternative form)",
+            "ዛፎች አይጠቅሙም (Core concept alternative form)",
+            "ተፈጥሮ አያስፈልግም (Core concept alternative form)",
+            "ውሃ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የችግኝ ተከላንና የተፈጥሮ ውበትን ማሳደግን በትክክል ያዛምዳል።"
@@ -7343,10 +7343,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 15 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ አራቱ ወቅቶች (Language concept U15)",
-            "ይህ ክፍል ስለ ቋንቋ ሰዋሰው ህጎች ብቻ ነው። (Language concept U15)",
-            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (Language concept U15)",
-            "ሁሉም ወቅቶች እኩል ዝናብ አላቸው። (Language concept U15)"
+            "የኢትዮጵያ አራቱ ወቅቶች (Core concept alternative form)",
+            "ይህ ክፍል ስለ ቋንቋ ሰዋሰው ህጎች ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም ወቅቶች እኩል ዝናብ አላቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 15ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -7402,10 +7402,10 @@
         {
           "prompt": "«Living room, bedroom, and kitchen» የሚለውን በአማርኛ ትክክለኛ የክፍል ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ሳሎን፣ መኝታ ቤት እና ማብሰያ ቤት (Language concept U16)",
-            "መኪና፣ አውቶቡስ እና ባቡር (Language concept U16)",
-            "እርሳስ፣ ደብተር እና መጽሐፍ (Language concept U16)",
-            "ሱሪ፣ ሸሚዝ እና ኮት (Language concept U16)"
+            "ሳሎን፣ መኝታ ቤት እና ማብሰያ ቤት (Core concept alternative form)",
+            "መኪና፣ አውቶቡስ እና ባቡር (Core concept alternative form)",
+            "እርሳስ፣ ደብተር እና መጽሐፍ (Core concept alternative form)",
+            "ሱሪ፣ ሸሚዝ እና ኮት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሳሎን»፣ «መኝታ ቤት» እና «ማብሰያ ቤት» ሦስቱን ዋና ዋና የቤት ክፍሎችን ያመለክታሉ።"
@@ -7417,10 +7417,10 @@
         {
           "prompt": "'Food is prepared in the kitchen' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል። (Language concept U16)",
-            "ምግብ በመኝታ ቤት ይዘጋጃል (Language concept U16)",
-            "ምግብ በመታጠቢያ ቤት ይበስላል (Language concept U16)",
-            "ወጥ ቤት የለም (Language concept U16)"
+            "ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል። (Core concept alternative form)",
+            "ምግብ በመኝታ ቤት ይዘጋጃል (Core concept alternative form)",
+            "ምግብ በመታጠቢያ ቤት ይበስላል (Core concept alternative form)",
+            "ወጥ ቤት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል» የምግብ ማብሰል ተግባር የሚከናወንበትን ክፍል በትክክል ያሳያል።"
@@ -7433,10 +7433,10 @@
           "type": "multiple-choice",
           "prompt": "የቤት ውስጥ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት፣ መታጠቢያ ቤት፣ በረንዳ እና ጓሮ። (Language concept U16)",
-            "ቡና፣ ሻይ፣ ወተት እና ጭማቂ። (Language concept U16)",
-            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (Language concept U16)",
-            "በአማርኛ የቤት ክፍሎች ስም የላቸውም። (Language concept U16)"
+            "ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት፣ መታጠቢያ ቤት፣ በረንዳ እና ጓሮ። (Core concept alternative form)",
+            "ቡና፣ ሻይ፣ ወተት እና ጭማቂ። (Core concept alternative form)",
+            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (Core concept alternative form)",
+            "በአማርኛ የቤት ክፍሎች ስም የላቸውም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቤት ክፍሎችን በሙሉ ይዟል።"
@@ -7492,10 +7492,10 @@
         {
           "prompt": "«Sofa, bed, table, and wardrobe» የሚለውን በአማርኛ ትክክለኛ የቤት እቃዎች ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ሶፋ፣ አልጋ፣ ጠረጴዛ እና ቁም ሣጥን (Language concept U16)",
-            "ስልክ፣ ቴሌቪዥን እና ሬዲዮ (Language concept U16)",
-            "ሹካ፣ ማንኪያ እና ቢላዋ (Language concept U16)",
-            "ሸሚዝ፣ ሱሪ እና ጫማ (Language concept U16)"
+            "ሶፋ፣ አልጋ፣ ጠረጴዛ እና ቁም ሣጥን (Core concept alternative form)",
+            "ስልክ፣ ቴሌቪዥን እና ሬዲዮ (Core concept alternative form)",
+            "ሹካ፣ ማንኪያ እና ቢላዋ (Core concept alternative form)",
+            "ሸሚዝ፣ ሱሪ እና ጫማ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሶፋ»፣ «አልጋ»፣ «ጠረጴዛ» እና «ቁም ሣጥን» ዋና ዋና የቤት ውስጥ እቃዎችን ያመለክታሉ።"
@@ -7507,10 +7507,10 @@
         {
           "prompt": "'A large wardrobe is in the bedroom' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ። (Language concept U16)",
-            "ቁም ሣጥን በመንገድ ላይ አለ (Language concept U16)",
-            "ምንም እቃ የለም (Language concept U16)",
-            "አልጋ የለም (Language concept U16)"
+            "በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ። (Core concept alternative form)",
+            "ቁም ሣጥን በመንገድ ላይ አለ (Core concept alternative form)",
+            "ምንም እቃ የለም (Core concept alternative form)",
+            "አልጋ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ» የቁም ሣጥኑን መገኛና መጠን በትክክል ያሳያል።"
@@ -7523,10 +7523,10 @@
           "type": "multiple-choice",
           "prompt": "የቤት እቃዎችንና ቁሳቁሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሶፋ፣ አልጋ፣ ጠረጴዛ፣ ወንበር፣ ቁም ሣጥን፣ ፍሪጅ፣ ምድጃ እና ምንጣፍ። (Language concept U16)",
-            "አውሮፕላን፣ መርከብ እና ሄሊኮፕተር። (Language concept U16)",
-            "ድንጋይ፣ አሸዋ እና ሲሚንቶ ብቻ። (Language concept U16)",
-            "በአማርኛ የቤት እቃዎች ቃላት የሉም። (Language concept U16)"
+            "ሶፋ፣ አልጋ፣ ጠረጴዛ፣ ወንበር፣ ቁም ሣጥን፣ ፍሪጅ፣ ምድጃ እና ምንጣፍ። (Core concept alternative form)",
+            "አውሮፕላን፣ መርከብ እና ሄሊኮፕተር። (Core concept alternative form)",
+            "ድንጋይ፣ አሸዋ እና ሲሚንቶ ብቻ። (Core concept alternative form)",
+            "በአማርኛ የቤት እቃዎች ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቤት እቃዎችን በሙሉ ይዟል።"
@@ -7582,10 +7582,10 @@
         {
           "prompt": "«Signing a house rental contract» የሚለውን በአማርኛ ትክክለኛ የኪራይ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "የቤት ኪራይ ውል መፈረም (Language concept U16)",
-            "ቤት መስበር (Language concept U16)",
-            "ውል መቅደድ (Language concept U16)",
-            "ኪራይ አለመክፈል (Language concept U16)"
+            "የቤት ኪራይ ውል መፈረም (Core concept key phrasing)",
+            "ቤት መስበር (Core concept alternative form)",
+            "ውል መቅደድ (Core concept alternative form)",
+            "ኪራይ አለመክፈል (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የቤት ኪራይ ውል መፈረም» ህጋዊውን የስምምነት ድርጊት በትክክል ያሳያል።"
@@ -7597,10 +7597,10 @@
         {
           "prompt": "'I paid the deposit to the landlord' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ለአከራዩ የቅድመ ክፍያ ከፈልኩ። (Language concept U16)",
-            "አከራይ አልከፈልኩም (Language concept U16)",
-            "ምንም ቤት አልተከራየሁም (Language concept U16)",
-            "ቅድመ ክፍያ የለም (Language concept U16)"
+            "ለአከራዩ የቅድመ ክፍያ ከፈልኩ። (Core concept alternative form)",
+            "አከራይ አልከፈልኩም (Core concept alternative form)",
+            "ምንም ቤት አልተከራየሁም (Core concept alternative form)",
+            "ቅድመ ክፍያ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ለአከራዩ የቅድመ ክፍያ ከፈልኩ» ክፍያውንና ተቀባዩን በትክክል ያዛምዳል።"
@@ -7613,10 +7613,10 @@
           "type": "multiple-choice",
           "prompt": "የቤት ኪራይና ውል ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የቤት ኪራይ፣ አከራይ፣ ተከራይ፣ ደላላ፣ ህጋዊ ውል እና ቅድመ ክፍያ። (Language concept U16)",
-            "ስኒ፣ ድስት እና ጭልፋ። (Language concept U16)",
-            "ኮት፣ ከረባት እና ጓንት። (Language concept U16)",
-            "በአማርኛ የኪራይ ቃላት የሉም። (Language concept U16)"
+            "የቤት ኪራይ፣ አከራይ፣ ተከራይ፣ ደላላ፣ ህጋዊ ውል እና ቅድመ ክፍያ። (Core concept alternative form)",
+            "ስኒ፣ ድስት እና ጭልፋ። (Core concept alternative form)",
+            "ኮት፣ ከረባት እና ጓንት። (Core concept alternative form)",
+            "በአማርኛ የኪራይ ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኪራይና ውል ቃላትን በሙሉ ይዟል።"
@@ -7672,10 +7672,10 @@
         {
           "prompt": "«The book is on the table» የሚለውን በአማርኛ ትክክለኛ የቦታ መስተዋድድ የተጠቀመው የትኛው ነው?",
           "options": [
-            "መጽሐፉ በጠረጴዛው ላይ አለ። (Language concept U16)",
-            "መጽሐፉ ጠረጴዛ ነው (Language concept U16)",
-            "መጽሐፉ ጠረጴዛ የለውም (Language concept U16)",
-            "መጽሐፍ የለም (Language concept U16)"
+            "መጽሐፉ በጠረጴዛው ላይ አለ። (Core concept alternative form)",
+            "መጽሐፉ ጠረጴዛ ነው (Core concept alternative form)",
+            "መጽሐፉ ጠረጴዛ የለውም (Core concept alternative form)",
+            "መጽሐፍ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በጠረጴዛው ላይ» የሚለው ድርብ መስተዋድድ የቦታ መገኛን በትክክል ያሳያል።"
@@ -7687,10 +7687,10 @@
         {
           "prompt": "'The shoes are under the bed' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጫማዎቹ ከአልጋው ሥር ናቸው። (Language concept U16)",
-            "ጫማዎቹ አልጋ ላይ ናቸው (Language concept U16)",
-            "ጫማ አልጋ ነው (Language concept U16)",
-            "ጫማ የለም (Language concept U16)"
+            "ጫማዎቹ ከአልጋው ሥር ናቸው። (Core concept alternative form)",
+            "ጫማዎቹ አልጋ ላይ ናቸው (Core concept alternative form)",
+            "ጫማ አልጋ ነው (Core concept alternative form)",
+            "ጫማ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ከአልጋው ሥር ናቸው» ከአልጋ በታች መሆናቸውን በትክክል ያመለክታል።"
@@ -7703,10 +7703,10 @@
           "type": "multiple-choice",
           "prompt": "የቦታ መገኛ መስተዋድዶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ እና መካከል ናቸው። (Language concept U16)",
-            "ትናንት፣ ዛሬ እና ነገ። (Language concept U16)",
-            "ቀይ፣ ቢጫ እና አረንጓዴ። (Language concept U16)",
-            "በአማርኛ የቦታ መስተዋድዶች የሉም። (Language concept U16)"
+            "ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ እና መካከል ናቸው። (Core concept alternative form)",
+            "ትናንት፣ ዛሬ እና ነገ። (Core concept alternative form)",
+            "ቀይ፣ ቢጫ እና አረንጓዴ። (Core concept alternative form)",
+            "በአማርኛ የቦታ መስተዋድዶች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታ መገኛ መስተዋድዶችን በሙሉ ይዟል።"
@@ -7762,10 +7762,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የመኖሪያ ቤት አደረጃጀትና የኪራይ ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "ቤት ተከራየን፣ ውል ፈረምን፣ እንዲሁም የቤት እቃዎችን በየክፍሉ ውስጥ አደራጀን። (Language concept U16)",
-            "ቤት የለንም (Language concept U16)",
-            "ምንም እቃ አልገዛንም (Language concept U16)",
-            "ውል አልፈረምንም (Language concept U16)"
+            "ቤት ተከራየን፣ ውል ፈረምን፣ እንዲሁም የቤት እቃዎችን በየክፍሉ ውስጥ አደራጀን። (Core concept alternative form)",
+            "ቤት የለንም (Core concept alternative form)",
+            "ምንም እቃ አልገዛንም (Core concept alternative form)",
+            "ውል አልፈረምንም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ መከራየትን፣ ውል መፈረምንና እቃዎችን ማደራጀትን በአንድነት ያጠቃልላል።"
@@ -7777,10 +7777,10 @@
         {
           "prompt": "የቤት እቃዎችንና የቦታ መገኛ መስተዋድዶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ሶፋው በሳሎኑ ውስጥ በጠረጴዛው ፊት ለፊት ተቀምጧል። (Language concept U16)",
-            "ሶፋ የለም (Language concept U16)",
-            "ጠረጴዛው ተሰብሯል (Language concept U16)",
-            "ምንም ክፍል የለም (Language concept U16)"
+            "ሶፋው በሳሎኑ ውስጥ በጠረጴዛው ፊት ለፊት ተቀምጧል። (Core concept alternative form)",
+            "ሶፋ የለም (Core concept alternative form)",
+            "ጠረጴዛው ተሰብሯል (Core concept alternative form)",
+            "ምንም ክፍል የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የቤት እቃውን (ሶፋ)፣ ክፍሉን (ሳሎን) እና የቦታ መገኛውን (ፊት ለፊት) በትክክል ያዛምዳል።"
@@ -7793,10 +7793,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 16 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የቤት ውስጥ ክፍሎች (Language concept U16)",
-            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (Language concept U16)",
-            "በአማርኛ የቤት ቃላት የሉም። (Language concept U16)",
-            "ሁሉም ክፍሎች አንድ ዓይነት ናቸው። (Language concept U16)"
+            "የቤት ውስጥ ክፍሎች (Core concept alternative form)",
+            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የቤት ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም ክፍሎች አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 16ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -7853,10 +7853,10 @@
         {
           "prompt": "«In my opinion, this plan is good» የሚለውን በአማርኛ ትክክለኛ የአስተያየት አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "በእኔ አስተያየት ይህ ዕቅድ ጥሩ ነው። (Language concept U17)",
-            "ዕቅዱ መጥፎ ነው (Language concept U17)",
-            "ምንም ዕቅድ የለም (Language concept U17)",
-            "አስተያየት የለኝም (Language concept U17)"
+            "በእኔ አስተያየት ይህ ዕቅድ ጥሩ ነው። (Core concept alternative form)",
+            "ዕቅዱ መጥፎ ነው (Core concept alternative form)",
+            "ምንም ዕቅድ የለም (Core concept alternative form)",
+            "አስተያየት የለኝም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በእኔ አስተያየት» የሚለው ሀረግ የግል አስተያየትን በትህትናና በግልጽ ለመግለጽ ያገለግላል።"
@@ -7868,10 +7868,10 @@
         {
           "prompt": "'I believe we can achieve success' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስኬታማ መሆን እንደምንችል አምናለሁ። (Language concept U17)",
-            "ስኬት አይቻልም (Language concept U17)",
-            "አላምንም (Language concept U17)",
-            "ምንም ስኬት የለም (Language concept U17)"
+            "ስኬታማ መሆን እንደምንችል አምናለሁ። (Core concept alternative form)",
+            "ስኬት አይቻልም (Core concept alternative form)",
+            "አላምንም (Core concept alternative form)",
+            "ምንም ስኬት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አምናለሁ» የሚለው ቃል በጽኑ እምነት ላይ የተመሰረተ የግል አቋምን በትክክል ያሳያል።"
@@ -7884,10 +7884,10 @@
           "type": "multiple-choice",
           "prompt": "የግል አስተያየት መግለጫ ሀረጎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "በእኔ አስተያየት፣ እኔ እንደሚመስለኝ፣ ይመስለኛል፣ አምናለሁ እና ይሰማኛል። (Language concept U17)",
-            "ሹካ፣ ማንኪያ እና ሳህን። (Language concept U17)",
-            "አንድ፣ ሁለት እና ሦስት። (Language concept U17)",
-            "በአማርኛ የአስተያየት ቃላት የሉም። (Language concept U17)"
+            "በእኔ አስተያየት፣ እኔ እንደሚመስለኝ፣ ይመስለኛል፣ አምናለሁ እና ይሰማኛል። (Core concept alternative form)",
+            "ሹካ፣ ማንኪያ እና ሳህን። (Core concept alternative form)",
+            "አንድ፣ ሁለት እና ሦስት። (Core concept alternative form)",
+            "በአማርኛ የአስተያየት ቃላት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአስተያየት መግለጫ ሀረጎችን በሙሉ ይዟል።"
@@ -7943,10 +7943,10 @@
         {
           "prompt": "«Plane is faster than car» የሚለውን በአማርኛ ትክክለኛ የንጽጽር መዋቅር የተጠቀመው የትኛው ነው?",
           "options": [
-            "አውሮፕላን ከመኪና ይፈጥናል። (Language concept U17)",
-            "አውሮፕላንና መኪና አንድ ናቸው (Language concept U17)",
-            "መኪና ከአውሮፕላን ይበልጣል (Language concept U17)",
-            "ምንም መኪና የለም (Language concept U17)"
+            "አውሮፕላን ከመኪና ይፈጥናል። (Core concept alternative form)",
+            "አውሮፕላንና መኪና አንድ ናቸው (Core concept alternative form)",
+            "መኪና ከአውሮፕላን ይበልጣል (Core concept alternative form)",
+            "ምንም መኪና የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አውሮፕላን ከመኪና ይፈጥናል/ይበልጣል» የንጽጽር ቅንጣቢ «ከ...» በመጠቀም ፍጥነትን በትክክል ያወዳድራል።"
@@ -7958,10 +7958,10 @@
         {
           "prompt": "'Health is better than wealth' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጤና ከሀብት ይሻላል። (Language concept U17)",
-            "ሀብት ከጤና ይሻላል (Language concept U17)",
-            "ጤና እና ሀብት አንድ ናቸው (Language concept U17)",
-            "ጤና አያስፈልግም (Language concept U17)"
+            "ጤና ከሀብት ይሻላል። (Core concept alternative form)",
+            "ሀብት ከጤና ይሻላል (Core concept alternative form)",
+            "ጤና እና ሀብት አንድ ናቸው (Core concept alternative form)",
+            "ጤና አያስፈልግም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጤና ከሀብት ይሻላል» አንደኛው ከሌላው እንደሚበልጥ በትክክል ያወዳድራል።"
@@ -7974,10 +7974,10 @@
           "type": "multiple-choice",
           "prompt": "የንጽጽር አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል እና ከ... ያንሳል። (Language concept U17)",
-            "ዛሬ፣ ትናንት እና ከትናንት ወዲያ። (Language concept U17)",
-            "ሰማያዊ፣ አረንጓዴ እና ጥቁር። (Language concept U17)",
-            "በአማርኛ ንጽጽር ማድረግ አይቻልም። (Language concept U17)"
+            "ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል እና ከ... ያንሳል። (Core concept alternative form)",
+            "ዛሬ፣ ትናንት እና ከትናንት ወዲያ። (Core concept alternative form)",
+            "ሰማያዊ፣ አረንጓዴ እና ጥቁር። (Core concept alternative form)",
+            "በአማርኛ ንጽጽር ማድረግ አይቻልም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የንጽጽር ግሶችን በሙሉ ይዟል።"
@@ -8033,10 +8033,10 @@
         {
           "prompt": "«Above all, education is important» የሚለውን በአማርኛ ትክክለኛ የላቀ ንጽጽር አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "ከሁሉም በላይ ትምህርት አስፈላጊ ነው። (Language concept U17)",
-            "ትምህርት አያስፈልግም (Language concept U17)",
-            "ትምህርት ትንሽ ነው (Language concept U17)",
-            "ምንም ትምህርት የለም (Language concept U17)"
+            "ከሁሉም በላይ ትምህርት አስፈላጊ ነው። (Core concept alternative form)",
+            "ትምህርት አያስፈልግም (Core concept alternative form)",
+            "ትምህርት ትንሽ ነው (Core concept alternative form)",
+            "ምንም ትምህርት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ከሁሉም በላይ» የሚለው አገላለጽ ከማናቸውም ነገሮች ቀዳሚ መሆኑን ያመለክታል።"
@@ -8048,10 +8048,10 @@
         {
           "prompt": "'Ras Dashen is the tallest of all' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ራስ ዳሸን ከሁሉ ረጅሙ ተራራ ነው። (Language concept U17)",
-            "ራስ ዳሸን አጭር ነው (Language concept U17)",
-            "ራስ ዳሸን ተራራ አይደለም (Language concept U17)",
-            "ምንም ተራራ የለም (Language concept U17)"
+            "ራስ ዳሸን ከሁሉ ረጅሙ ተራራ ነው። (Core concept alternative form)",
+            "ራስ ዳሸን አጭር ነው (Core concept alternative form)",
+            "ራስ ዳሸን ተራራ አይደለም (Core concept alternative form)",
+            "ምንም ተራራ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ከሁሉ ረጅሙ ተራራ ነው» የላቀውን ከፍታ በትክክል ያረጋግጣል።"
@@ -8064,10 +8064,10 @@
           "type": "multiple-choice",
           "prompt": "የላቀ ንጽጽር አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ እና እጅግ በጣም። (Language concept U17)",
-            "ዳቦ፣ ወጥ እና እንጀራ። (Language concept U17)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Language concept U17)",
-            "በአማርኛ የላቀ ንጽጽር የለም። (Language concept U17)"
+            "ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ እና እጅግ በጣም። (Core concept alternative form)",
+            "ዳቦ፣ ወጥ እና እንጀራ። (Core concept alternative form)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (Core concept alternative form)",
+            "በአማርኛ የላቀ ንጽጽር የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የላቀ ንጽጽር አገላለጾችን በሙሉ ይዟል።"
@@ -8123,10 +8123,10 @@
         {
           "prompt": "«I completely agree with you» የሚለውን በአማርኛ ትክክለኛ የስምምነት አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "ከአንተ ጋር ሙሉ በሙሉ እስማማለሁ። (Language concept U17)",
-            "አልስማማም (Language concept U17)",
-            "ሀሳብህ ስህተት ነው (Language concept U17)",
-            "ምንም አልገባኝም (Language concept U17)"
+            "ከአንተ ጋር ሙሉ በሙሉ እስማማለሁ። (Core concept alternative form)",
+            "አልስማማም (Core concept alternative form)",
+            "ሀሳብህ ስህተት ነው (Core concept alternative form)",
+            "ምንም አልገባኝም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሙሉ በሙሉ እስማማለሁ» ጠንካራና ግልጽ ስምምነትን ያመለክታል።"
@@ -8138,10 +8138,10 @@
         {
           "prompt": "'I disagree with this opinion' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በዚህ አስተያየት ላይ አልስማማም። (Language concept U17)",
-            "ሙሉ በሙሉ እስማማለሁ (Language concept U17)",
-            "ትክክል ነህ (Language concept U17)",
-            "ምንም አስተያየት የለም (Language concept U17)"
+            "በዚህ አስተያየት ላይ አልስማማም። (Core concept alternative form)",
+            "ሙሉ በሙሉ እስማማለሁ (Core concept alternative form)",
+            "ትክክል ነህ (Core concept alternative form)",
+            "ምንም አስተያየት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በዚህ አስተያየት ላይ አልስማማም» አለመስማማትን በግልጽ ያሳያል።"
@@ -8154,10 +8154,10 @@
           "type": "multiple-choice",
           "prompt": "ስምምነትንና አለመስማማትን መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሙሉ በሙሉ እስማማለሁ፣ በፍጹም አልስማማም፣ ትክክል ነህ፣ በከፊል እስማማለሁ እና የተሳሳተ ነው። (Language concept U17)",
-            "ወንበር፣ ጠረጴዛ እና አልጋ። (Language concept U17)",
-            "ቀን፣ ማታ እና ሌሊት። (Language concept U17)",
-            "በአማርኛ ስምምነት መግለጽ አይቻልም። (Language concept U17)"
+            "ሙሉ በሙሉ እስማማለሁ፣ በፍጹም አልስማማም፣ ትክክል ነህ፣ በከፊል እስማማለሁ እና የተሳሳተ ነው። (Core concept alternative form)",
+            "ወንበር፣ ጠረጴዛ እና አልጋ። (Core concept alternative form)",
+            "ቀን፣ ማታ እና ሌሊት። (Core concept alternative form)",
+            "በአማርኛ ስምምነት መግለጽ አይቻልም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስምምነትና የአለመስማማት አገላለጾችን በሙሉ ይዟል።"
@@ -8213,10 +8213,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአስተያየትና የንጽጽር ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "በእኔ አስተያየት ይህ አማራጭ ከሁሉም የተሻለ ነው፤ ሙሉ በሙሉ እስማማለሁ። (Language concept U17)",
-            "ምንም አስተያየት የለም (Language concept U17)",
-            "አልስማማም (Language concept U17)",
-            "ንጽጽር የለም (Language concept U17)"
+            "በእኔ አስተያየት ይህ አማራጭ ከሁሉም የተሻለ ነው፤ ሙሉ በሙሉ እስማማለሁ። (Core concept alternative form)",
+            "ምንም አስተያየት የለም (Core concept alternative form)",
+            "አልስማማም (Core concept alternative form)",
+            "ንጽጽር የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የግል አስተያየትን፣ የላቀ ንጽጽርንና ስምምነትን በአንድነት ያጠቃልላል።"
@@ -8228,10 +8228,10 @@
         {
           "prompt": "ምክንያታዊ ክርክርንና ንጽጽርን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "መረጃ በማቅረብ ሀሳባችንን እናወዳድራለን እንዲሁም በክብር እንወያያለን። (Language concept U17)",
-            "መወያየት አንፈልግም (Language concept U17)",
-            "መረጃ የለም (Language concept U17)",
-            "ሀሳብ የለም (Language concept U17)"
+            "መረጃ በማቅረብ ሀሳባችንን እናወዳድራለን እንዲሁም በክብር እንወያያለን። (Core concept alternative form)",
+            "መወያየት አንፈልግም (Core concept alternative form)",
+            "መረጃ የለም (Core concept alternative form)",
+            "ሀሳብ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ መረጃ ማቅረብን፣ ማወዳደርንና በአክብሮት መወያየትን በትክክል ያዛምዳል።"
@@ -8245,9 +8245,9 @@
           "prompt": "የክፍል 17 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የግል አስተያየት መግለጫዎች፣ የንጽጽር ደረጃዎች (yshalal/ybalt'al)",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Language concept U17)",
-            "በአማርኛ የንጽጽር ቃላት የሉም። (Language concept U17)",
-            "ሁሉም አስተያየቶች አንድ ዓይነት ናቸው። (Language concept U17)"
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ የንጽጽር ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም አስተያየቶች አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 17ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -8334,7 +8334,7 @@
           "type": "multiple-choice",
           "prompt": "የተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶችን ልዩነት በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተሻጋሪ ግሶች ቀጥተኛ ተሳቢ (Language concept U18)",
+            "ተሻጋሪ ግሶች ቀጥተኛ ተሳቢ (Core concept alternative form)",
             "ሁሉም የአማርኛ ግሶች ተሻጋሪ ናቸው። (tasabi yamifalgu)",
             "ተሻጋሪ ግሶች ባለቤት የላቸውም። (tasabi yamifalgu)",
             "በአማርኛ የግስ ክፍሎች የሉም። (tasabi yamifalgu)"
@@ -8393,10 +8393,10 @@
         {
           "prompt": "«The letter was written» የሚለውን በአማርኛ ትክክለኛ ተደራጊ ግስ የተጠቀመው የትኛው ነው?",
           "options": [
-            "ደብዳቤው ተጻፈ። (Language concept U18)",
-            "ደብዳቤው ጻፈ (Language concept U18)",
-            "ደብዳቤው አስጻፈ (Language concept U18)",
-            "ደብዳቤው ጠፋ (Language concept U18)"
+            "ደብዳቤው ተጻፈ። (Core concept alternative form)",
+            "ደብዳቤው ጻፈ (Core concept alternative form)",
+            "ደብዳቤው አስጻፈ (Core concept alternative form)",
+            "ደብዳቤው ጠፋ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ተጻፈ» የሚለው ግስ 'ጻፈ' ከሚለው ንቁ ግስ 'ተ-' ቅድመ-ቅጥያ በመጨመር የተመሰረተ ተደራጊ ግስ ነው።"
@@ -8408,10 +8408,10 @@
         {
           "prompt": "'The door was opened' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በሩ ተከፈተ። (Language concept U18)",
-            "በሩ ከፈተ (Language concept U18)",
-            "በሩ ዘጋ (Language concept U18)",
-            "በሩ አስከፈተ (Language concept U18)"
+            "በሩ ተከፈተ። (Core concept alternative form)",
+            "በሩ ከፈተ (Core concept alternative form)",
+            "በሩ ዘጋ (Core concept alternative form)",
+            "በሩ አስከፈተ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በሩ ተከፈተ» ድርጊቱ በበሩ ላይ መፈጸሙን የሚያሳይ ተደራጊ ግስ ነው።"
@@ -8424,10 +8424,10 @@
           "type": "multiple-choice",
           "prompt": "ተደራጊ ግሶችን (Passive verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተጻፈ፣ ተነበበ፣ ተሰራ፣ ተዘጋጀ እና ተከፈተ። (Language concept U18)",
-            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (Language concept U18)",
-            "ትልቅ፣ ትንሽ እና መካከለኛ። (Language concept U18)",
-            "በአማርኛ ተደራጊ ግስ የለም። (Language concept U18)"
+            "ተጻፈ፣ ተነበበ፣ ተሰራ፣ ተዘጋጀ እና ተከፈተ። (Core concept alternative form)",
+            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (Core concept alternative form)",
+            "ትልቅ፣ ትንሽ እና መካከለኛ። (Core concept alternative form)",
+            "በአማርኛ ተደራጊ ግስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ተ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና ተደራጊ ግሶችን ይዟል።"
@@ -8483,10 +8483,10 @@
         {
           "prompt": "«He had the house built by workers» የሚለውን በአማርኛ ትክክለኛ አስደራጊ ግስ የያዘው የትኛው ነው?",
           "options": [
-            "ቤቱን በሠራተኞች አስገነባ። (Language concept U18)",
-            "ቤቱ ተገነባ (Language concept U18)",
-            "ቤቱን አፈረሰ (Language concept U18)",
-            "ምንም ቤት አልተሰራም (Language concept U18)"
+            "ቤቱን በሠራተኞች አስገነባ። (Core concept alternative form)",
+            "ቤቱ ተገነባ (Core concept alternative form)",
+            "ቤቱን አፈረሰ (Core concept alternative form)",
+            "ምንም ቤት አልተሰራም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አስገነባ» የሚለው ግስ 'ገነባ' ከሚለው ግስ 'አስ-' በመጨመር የተመሰረተ አስደራጊ ግስ ነው።"
@@ -8498,10 +8498,10 @@
         {
           "prompt": "'I had the car repaired' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መኪናውን አስጠገንኩ። (Language concept U18)",
-            "መኪናውን ጠገንኩ (Language concept U18)",
-            "መኪናው ተሰበረ (Language concept U18)",
-            "መኪና የለኝም (Language concept U18)"
+            "መኪናውን አስጠገንኩ። (Core concept alternative form)",
+            "መኪናውን ጠገንኩ (Core concept alternative form)",
+            "መኪናው ተሰበረ (Core concept alternative form)",
+            "መኪና የለኝም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አስጠገንኩ» ሌላ ባለሙያ አሰርቶ ማስተካከልን የሚያመለክት አስደራጊ ግስ ነው።"
@@ -8514,10 +8514,10 @@
           "type": "multiple-choice",
           "prompt": "አስደራጊ ግሶችን (Causative verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አስጻፈ፣ አስጠገነ፣ አስገነባ፣ አስጠና እና አስተማረ። (Language concept U18)",
-            "ተኛ፣ ተቀመጠ እና ወደቀ። (Language concept U18)",
-            "ውሃ፣ ወተት እና ሻይ። (Language concept U18)",
-            "በአማርኛ አስደራጊ ግስ የለም። (Language concept U18)"
+            "አስጻፈ፣ አስጠገነ፣ አስገነባ፣ አስጠና እና አስተማረ። (Core concept alternative form)",
+            "ተኛ፣ ተቀመጠ እና ወደቀ። (Core concept alternative form)",
+            "ውሃ፣ ወተት እና ሻይ። (Core concept alternative form)",
+            "በአማርኛ አስደራጊ ግስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«አስ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና አስደራጊ ግሶችን ይዟል።"
@@ -8663,10 +8663,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተለያዩ ውስብስብ የግስ እርባታዎችን ያጣመረው የትኛው ነው?",
           "options": [
-            "ተረዳዱ፣ አስገነቡ፣ ተዘጋጀ እና ተጨባበጡ። (Language concept U18)",
-            "ምንም ግስ የለም (Language concept U18)",
-            "ሁሉም ቃላት ስሞች ናቸው (Language concept U18)",
-            "የግስ እርባታ የለም (Language concept U18)"
+            "ተረዳዱ፣ አስገነቡ፣ ተዘጋጀ እና ተጨባበጡ። (Core concept alternative form)",
+            "ምንም ግስ የለም (Core concept alternative form)",
+            "ሁሉም ቃላት ስሞች ናቸው (Core concept alternative form)",
+            "የግስ እርባታ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ተደራራጊ (ተረዳዱ፣ ተጨባበጡ)፣ አስደራጊ (አስገነቡ) እና ተደራጊ (ተዘጋጀ) ግሶችን በአንድነት ያጠቃልላል።"
@@ -8678,10 +8678,10 @@
         {
           "prompt": "ተደራራጊ እና አስደራጊ ግሶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ነዋሪዎቹ ተረዳድተው አዲስ መንገድ አስጠገኑ። (Language concept U18)",
-            "ምንም መንገድ አልተሰራም (Language concept U18)",
-            "አልተረዳዱም (Language concept U18)",
-            "መንገድ የለም (Language concept U18)"
+            "ነዋሪዎቹ ተረዳድተው አዲስ መንገድ አስጠገኑ። (Core concept alternative form)",
+            "ምንም መንገድ አልተሰራም (Core concept alternative form)",
+            "አልተረዳዱም (Core concept alternative form)",
+            "መንገድ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ተደራራጊውን 'ተረዳድተው' እና አስደራጊውን 'አስጠገኑ' በትክክል ያዛምዳል።"
@@ -8694,10 +8694,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 18 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተሻጋሪና ኢ-ተሻጋሪ ግሶች፣ ተደራጊ ግሶች (Language concept U18)",
-            "ይህ ክፍል ስለ መጓጓዣ ብቻ ነው። (Language concept U18)",
-            "በአማርኛ ውስብስብ ግሶች የሉም። (Language concept U18)",
-            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (Language concept U18)"
+            "ተሻጋሪና ኢ-ተሻጋሪ ግሶች፣ ተደራጊ ግሶች (Core concept alternative form)",
+            "ይህ ክፍል ስለ መጓጓዣ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ ውስብስብ ግሶች የሉም። (Core concept alternative form)",
+            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 18ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -8753,10 +8753,10 @@
         {
           "prompt": "«If you study, you will succeed» የሚለውን በአማርኛ ትክክለኛ እውነታዊ ሁኔታዊ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "ካጠናህ ስኬታማ ትሆናለህ። (Language concept U19)",
-            "ብታጠና ኖሮ ነበር (Language concept U19)",
-            "አታጠናም (Language concept U19)",
-            "ምንም ጥናት የለም (Language concept U19)"
+            "ካጠናህ ስኬታማ ትሆናለህ። (Core concept alternative form)",
+            "ብታጠና ኖሮ ነበር (Core concept alternative form)",
+            "አታጠናም (Core concept alternative form)",
+            "ምንም ጥናት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ካጠናህ» (ከ- + አጠናህ) እውነተኛና ሊሆን የሚችል ቅድመ-ሁኔታን ያሳያል።"
@@ -8768,10 +8768,10 @@
         {
           "prompt": "'If it rains, we will stay at home' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ዝናብ ከጣለ ቤት እንቆያለን። (Language concept U19)",
-            "ዝናብ ቢጥል ኖሮ ቤት ነበርን (Language concept U19)",
-            "ዝናብ አይጥልም (Language concept U19)",
-            "ቤት የለንም (Language concept U19)"
+            "ዝናብ ከጣለ ቤት እንቆያለን። (Core concept alternative form)",
+            "ዝናብ ቢጥል ኖሮ ቤት ነበርን (Core concept alternative form)",
+            "ዝናብ አይጥልም (Core concept alternative form)",
+            "ቤት የለንም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዝናብ ከጣለ» የሚለው እውነታዊ ሁኔታዊ አረፍተ ነገር ሊፈጠር የሚችልን ክስተትና ውጤቱን በትክክል ያዛምዳል።"
@@ -8784,10 +8784,10 @@
           "type": "multiple-choice",
           "prompt": "እውነታዊ ሁኔታዊ አገላለጾችን (Real conditionals) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ካጠናህ፣ ከፈለግህ፣ ከመጣህ፣ ከተስማማን እና ከሆነ። (Language concept U19)",
-            "ዳቦ፣ ወጥ እና እንጀራ። (Language concept U19)",
-            "ትናንት፣ ዛሬ እና ነገ። (Language concept U19)",
-            "በአማርኛ ሁኔታዊ አረፍተ ነገር የለም። (Language concept U19)"
+            "ካጠናህ፣ ከፈለግህ፣ ከመጣህ፣ ከተስማማን እና ከሆነ። (Core concept alternative form)",
+            "ዳቦ፣ ወጥ እና እንጀራ። (Core concept alternative form)",
+            "ትናንት፣ ዛሬ እና ነገ። (Core concept alternative form)",
+            "በአማርኛ ሁኔታዊ አረፍተ ነገር የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ከ-» ቅድመ-ቅጥያ የተመሰረቱ እውነታዊ ሁኔታዎችን ይዟል።"
@@ -8843,10 +8843,10 @@
         {
           "prompt": "«If I had wings, I would fly» የሚለውን በአማርኛ ትክክለኛ ምናባዊ ሁኔታዊ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "ክንፍ ቢኖረኝ እበር ነበር። (Language concept U19)",
-            "ክንፍ ካለኝ እበር ነበር (Language concept U19)",
-            "ክንፍ የለኝም (Language concept U19)",
-            "እበረራለሁ (Language concept U19)"
+            "ክንፍ ቢኖረኝ እበር ነበር። (Core concept alternative form)",
+            "ክንፍ ካለኝ እበር ነበር (Core concept alternative form)",
+            "ክንፍ የለኝም (Core concept alternative form)",
+            "እበረራለሁ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ክንፍ ቢኖረኝ እበር ነበር» ምናባዊ ሁኔታንና መላምታዊ ውጤቱን በትክክል ያሳያል።"
@@ -8858,10 +8858,10 @@
         {
           "prompt": "'If he came, we would be happy' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እሱ ቢመጣ ደስ ይለን ነበር። (Language concept U19)",
-            "እሱ ከመጣ ደስ ይለን ነበር (Language concept U19)",
-            "እሱ አይመጣም (Language concept U19)",
-            "ደስ አይለንም (Language concept U19)"
+            "እሱ ቢመጣ ደስ ይለን ነበር። (Core concept alternative form)",
+            "እሱ ከመጣ ደስ ይለን ነበር (Core concept alternative form)",
+            "እሱ አይመጣም (Core concept alternative form)",
+            "ደስ አይለንም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እሱ ቢመጣ ደስ ይለን ነበር» ምናባዊ መላምትን በትክክል ያረጋግጣል።"
@@ -8874,10 +8874,10 @@
           "type": "multiple-choice",
           "prompt": "ምናባዊ ሁኔታዊ አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቢኖረኝ... ነበር፣ ቢመጣ... ነበር፣ ቢሆን... ነበር እና ቢፈቀድ... ነበር። (Language concept U19)",
-            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (Language concept U19)",
-            "ሰማያዊ፣ ቢጫ እና ቀይ። (Language concept U19)",
-            "በአማርኛ ምናባዊ ሁኔታ የለም። (Language concept U19)"
+            "ቢኖረኝ... ነበር፣ ቢመጣ... ነበር፣ ቢሆን... ነበር እና ቢፈቀድ... ነበር። (Core concept alternative form)",
+            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (Core concept alternative form)",
+            "ሰማያዊ፣ ቢጫ እና ቀይ። (Core concept alternative form)",
+            "በአማርኛ ምናባዊ ሁኔታ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ቢ-... ነበር» የተዋቀሩ ዋና ዋና ምናባዊ ሁኔታዎችን ይዟል።"
@@ -8933,10 +8933,10 @@
         {
           "prompt": "«If he had come, we would have met» የሚለውን በአማርኛ ትክክለኛ ያለፈ ምናባዊ ሁኔታ የያዘው የትኛው ነው?",
           "options": [
-            "መጥቶ ቢሆን ኖሮ እንገናኝ ነበር። (Language concept U19)",
-            "ከመጣ እንገናኛለን (Language concept U19)",
-            "ቢመጣ እንገናኛለን (Language concept U19)",
-            "አልተገናኘንም (Language concept U19)"
+            "መጥቶ ቢሆን ኖሮ እንገናኝ ነበር። (Core concept alternative form)",
+            "ከመጣ እንገናኛለን (Core concept alternative form)",
+            "ቢመጣ እንገናኛለን (Core concept alternative form)",
+            "አልተገናኘንም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«መጥቶ ቢሆን ኖሮ እንገናኝ ነበር» ባለፈው ያልተፈጸመን ያለፈ ምናባዊ ሁኔታ ያሳያል።"
@@ -8948,10 +8948,10 @@
         {
           "prompt": "'If you had told me, I would have helped you' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ነግረኸኝ ቢሆን ኖሮ እረዳህ ነበር። (Language concept U19)",
-            "ከነገርከኝ እረዳሃለሁ (Language concept U19)",
-            "አልረዳህም (Language concept U19)",
-            "ምንም አልተናገርክም (Language concept U19)"
+            "ነግረኸኝ ቢሆን ኖሮ እረዳህ ነበር። (Core concept alternative form)",
+            "ከነገርከኝ እረዳሃለሁ (Core concept alternative form)",
+            "አልረዳህም (Core concept alternative form)",
+            "ምንም አልተናገርክም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ነግረኸኝ ቢሆን ኖሮ እረዳህ ነበር» ያለፈውን ያልተፈጸመ ሁኔታ በትክክል ይገልጻል።"
@@ -8964,10 +8964,10 @@
           "type": "multiple-choice",
           "prompt": "ያለፈ ምናባዊ ሁኔታዎችን (Past counterfactuals) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቢሆን ኖሮ... ነበር፣ አውቆ ቢሆን ኖሮ፣ ባይዘንብ ኖሮ እና ደርሶ ቢሆን ኖሮ። (Language concept U19)",
-            "አንድ፣ ሁለት፣ ሦስት እና አራት። (Language concept U19)",
-            "ጠረጴዛ፣ ወንበር እና ሶፋ። (Language concept U19)",
-            "በአማርኛ ያለፈ ምናባዊ ሁኔታ የለም። (Language concept U19)"
+            "ቢሆን ኖሮ... ነበር፣ አውቆ ቢሆን ኖሮ፣ ባይዘንብ ኖሮ እና ደርሶ ቢሆን ኖሮ። (Core concept alternative form)",
+            "አንድ፣ ሁለት፣ ሦስት እና አራት። (Core concept alternative form)",
+            "ጠረጴዛ፣ ወንበር እና ሶፋ። (Core concept alternative form)",
+            "በአማርኛ ያለፈ ምናባዊ ሁኔታ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ቢ... ኖሮ... ነበር» የተገነቡ ዋና ዋና ያለፈ ምናባዊ ሁኔታዎችን ይዟል።"
@@ -9023,10 +9023,10 @@
         {
           "prompt": "«Even if it is difficult, we will try» የሚለውን በአማርኛ ትክክለኛ ተቃራኒ አያያዥ የያዘው የትኛው ነው?",
           "options": [
-            "ቢከብድም እንኳ እንሞክራለን። (Language concept U19)",
-            "ከከበደ አንሞክርም (Language concept U19)",
-            "አይከብድም (Language concept U19)",
-            "ምንም ጥረት የለም (Language concept U19)"
+            "ቢከብድም እንኳ እንሞክራለን። (Core concept alternative form)",
+            "ከከበደ አንሞክርም (Core concept alternative form)",
+            "አይከብድም (Core concept alternative form)",
+            "ምንም ጥረት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ቢከብድም እንኳ» ተቃራኒ ቅድመ-ሁኔታን የሚያሳይ ትክክለኛ አያያዥ ነው።"
@@ -9038,10 +9038,10 @@
         {
           "prompt": "'Unless you come, we will not go' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አንተ ካልመጣህ በቀር አንሄድም። (Language concept U19)",
-            "አንተ ከመጣህ እንሄዳለን (Language concept U19)",
-            "አንሄድም (Language concept U19)",
-            "ብትመጣ ኖሮ (Language concept U19)"
+            "አንተ ካልመጣህ በቀር አንሄድም። (Core concept alternative form)",
+            "አንተ ከመጣህ እንሄዳለን (Core concept alternative form)",
+            "አንሄድም (Core concept alternative form)",
+            "ብትመጣ ኖሮ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ካልመጣህ በቀር» 'ካልሆነ በስተቀር' የሚለውን ቅድመ-ሁኔታ በትክክል ይገልጻል።"
@@ -9054,10 +9054,10 @@
           "type": "multiple-choice",
           "prompt": "ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቢ...ም እንኳ፣ ካልሆነ በቀር፣ ካልሆነ በስተቀር እና እስካለ ድረስ። (Language concept U19)",
-            "ቤት፣ መኪና እና አውሮፕላን። (Language concept U19)",
-            "ሰኞ፣ ማክሰኞ እና ሐሙስ። (Language concept U19)",
-            "በአማርኛ አያያዦች የሉም። (Language concept U19)"
+            "ቢ...ም እንኳ፣ ካልሆነ በቀር፣ ካልሆነ በስተቀር እና እስካለ ድረስ። (Core concept alternative form)",
+            "ቤት፣ መኪና እና አውሮፕላን። (Core concept alternative form)",
+            "ሰኞ፣ ማክሰኞ እና ሐሙስ። (Core concept alternative form)",
+            "በአማርኛ አያያዦች የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ተቃራኒና ቅድመ-ሁኔታዊ አያያዦችን በሙሉ ይዟል።"
@@ -9113,10 +9113,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሁኔታዊ አረፍተ ነገሮች ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "ቢከብድም እንኳ በትጋት ከሰራን እናሳካለን፤ ካልተባበርን በቀር ግን አይቻልም። (Language concept U19)",
-            "ምንም ሁኔታ የለም (Language concept U19)",
-            "ሁሉም ነገር ቀላል ነው (Language concept U19)",
-            "ሁኔታዊ ህጎች የሉም (Language concept U19)"
+            "ቢከብድም እንኳ በትጋት ከሰራን እናሳካለን፤ ካልተባበርን በቀር ግን አይቻልም። (Core concept alternative form)",
+            "ምንም ሁኔታ የለም (Core concept alternative form)",
+            "ሁሉም ነገር ቀላል ነው (Core concept alternative form)",
+            "ሁኔታዊ ህጎች የሉም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ተቃራኒ (ቢከብድም እንኳ)፣ እውነታዊ (ከሰራን) እና ቅድመ-ሁኔታዊ (ካልተባበርን በቀር) መዋቅሮችን ያጣመረ ነው።"
@@ -9128,10 +9128,10 @@
         {
           "prompt": "ያለፈ ምናባዊ እና እውነታዊ ሁኔታዎችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ያኔ ተጠንቅቀን ቢሆን ኖሮ አሁን ችግር ውስጥ አንገባም ነበር፤ አሁን ግን ከሰራን ይስተካከላል። (Language concept U19)",
-            "ምንም አይስተካከልም (Language concept U19)",
-            "ያኔ አልነበርንም (Language concept U19)",
-            "ችግር የለም (Language concept U19)"
+            "ያኔ ተጠንቅቀን ቢሆን ኖሮ አሁን ችግር ውስጥ አንገባም ነበር፤ አሁን ግን ከሰራን ይስተካከላል። (Core concept alternative form)",
+            "ምንም አይስተካከልም (Core concept alternative form)",
+            "ያኔ አልነበርንም (Core concept alternative form)",
+            "ችግር የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ያለፈውን ምናባዊ ሁኔታ (ቢሆን ኖሮ) እና የአሁኑን እውነታዊ ሁኔታ (ከሰራን) በትክክል ያዛምዳል።"
@@ -9144,10 +9144,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 19 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "እውነታዊ ሁኔታዎች (Language concept U19)",
-            "ይህ ክፍል ስለ ኪነ-ጥበብ ብቻ ነው። (Language concept U19)",
-            "በአማርኛ ሁኔታዊ ቃላት የሉም። (Language concept U19)",
-            "ሁሉም ሁኔታዎች አንድ ዓይነት ናቸው። (Language concept U19)"
+            "እውነታዊ ሁኔታዎች (Core concept alternative form)",
+            "ይህ ክፍል ስለ ኪነ-ጥበብ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ ሁኔታዊ ቃላት የሉም። (Core concept alternative form)",
+            "ሁሉም ሁኔታዎች አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 19ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -9203,10 +9203,10 @@
         {
           "prompt": "«The project is being constructed» የሚለውን በአማርኛ ተገብሮ ቀጣይ ጊዜ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ፕሮጀክቱ እየተገነባ ነው። (Language concept U20)",
-            "ፕሮጀክቱ ተገነባ (Language concept U20)",
-            "ፕሮጀክቱ ይገነባል (Language concept U20)",
-            "ፕሮጀክት የለም (Language concept U20)"
+            "ፕሮጀክቱ እየተገነባ ነው። (Core concept alternative form)",
+            "ፕሮጀክቱ ተገነባ (Core concept alternative form)",
+            "ፕሮጀክቱ ይገነባል (Core concept alternative form)",
+            "ፕሮጀክት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እየተገነባ ነው» በአሁን ሰዓት እየተከናወነ ያለ ተገብሮ ቀጣይ ድርጊትን ያሳያል።"
@@ -9218,10 +9218,10 @@
         {
           "prompt": "'The book has been published' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መጽሐፉ ታትሟል። (Language concept U20)",
-            "መጽሐፉ ታተመ (Language concept U20)",
-            "መጽሐፉ ይታተማል (Language concept U20)",
-            "መጽሐፉ አልታተመም (Language concept U20)"
+            "መጽሐፉ ታትሟል። (Core concept alternative form)",
+            "መጽሐፉ ታተመ (Core concept alternative form)",
+            "መጽሐፉ ይታተማል (Core concept alternative form)",
+            "መጽሐፉ አልታተመም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ታትሟል» የድርጊቱን መጠናቀቅ የሚያሳይ የፍጻሜ ጊዜ ተገብሮ ግስ ነው።"
@@ -9235,9 +9235,9 @@
           "prompt": "የተገብሮ ግስ የጊዜ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ተዘጋጀ (Past)",
-            "አረንጓዴ፣ ቢጫ፣ ቀይ እና ነጭ። (Language concept U20)",
-            "ሰኞ፣ ማክሰኞ እና እሮብ። (Language concept U20)",
-            "በአማርኛ ተገብሮ ግስ የለም። (Language concept U20)"
+            "አረንጓዴ፣ ቢጫ፣ ቀይ እና ነጭ። (Core concept alternative form)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ። (Core concept alternative form)",
+            "በአማርኛ ተገብሮ ግስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተገብሮ ግስን ዋና ዋና የጊዜ እርባታዎች በሙሉ ያሳያል።"
@@ -9293,10 +9293,10 @@
         {
           "prompt": "«The letter was sent through the embassy» የሚለውን በአማርኛ ድርጊት ፈጻሚውን በመስተዋድድ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ደብዳቤው በኤምባሲው አማካኝነት ተላከ። (Language concept U20)",
-            "ደብዳቤው ተላከ (Language concept U20)",
-            "ኤምባሲው ደብዳቤ ላከ (Language concept U20)",
-            "ደብዳቤ የለም (Language concept U20)"
+            "ደብዳቤው በኤምባሲው አማካኝነት ተላከ። (Core concept alternative form)",
+            "ደብዳቤው ተላከ (Core concept alternative form)",
+            "ኤምባሲው ደብዳቤ ላከ (Core concept alternative form)",
+            "ደብዳቤ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በኤምባሲው አማካኝነት» ድርጊት ፈጻሚውን አካል በትክክል ያመለክታል።"
@@ -9308,10 +9308,10 @@
         {
           "prompt": "'The book was authored by scholars' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መጽሐፉ በምሁራኑ በኩል ተዘጋጀ። (Language concept U20)",
-            "ምሁራኑ መጽሐፉን አነበቡ (Language concept U20)",
-            "መጽሐፉ ጠፋ (Language concept U20)",
-            "ምሁራን የሉም (Language concept U20)"
+            "መጽሐፉ በምሁራኑ በኩል ተዘጋጀ። (Core concept alternative form)",
+            "ምሁራኑ መጽሐፉን አነበቡ (Core concept alternative form)",
+            "መጽሐፉ ጠፋ (Core concept alternative form)",
+            "ምሁራን የሉም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በምሁራኑ በኩል ተዘጋጀ» ድርጊት ፈጻሚውን በትክክል ያሳውቃል።"
@@ -9324,10 +9324,10 @@
           "type": "multiple-choice",
           "prompt": "ድርጊት ፈጻሚን የሚያመለክቱ መስተዋድዳዊ አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "በ... አማካኝነት፣ በ... በኩል፣ በ... እጅ እና በ... አማካሪነት። (Language concept U20)",
-            "ከ... በላይ፣ ከ... በታች እና በ... ውስጥ። (Language concept U20)",
-            "ትናንት፣ ዛሬ እና ከነገ ወዲያ። (Language concept U20)",
-            "በአማርኛ ድርጊት ፈጻሚ አይገለጽም። (Language concept U20)"
+            "በ... አማካኝነት፣ በ... በኩል፣ በ... እጅ እና በ... አማካሪነት። (Core concept alternative form)",
+            "ከ... በላይ፣ ከ... በታች እና በ... ውስጥ። (Core concept alternative form)",
+            "ትናንት፣ ዛሬ እና ከነገ ወዲያ። (Core concept alternative form)",
+            "በአማርኛ ድርጊት ፈጻሚ አይገለጽም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በተገብሮ ዓረፍተ ነገር ውስጥ ፈጻሚን ለመግለጽ የሚያገለግሉ ዋና ዋና አገላለጾችን ይዟል።"
@@ -9383,10 +9383,10 @@
         {
           "prompt": "«A peace agreement was signed» የሚለውን በዜና ቋንቋ ተገብሮ መዋቅር በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የሰላም ስምምነት ተፈረመ። (Language concept U20)",
-            "የሰላም ስምምነት ፈረሙ (Language concept U20)",
-            "ስምምነቱ ጠፋ (Language concept U20)",
-            "ምንም ስምምነት የለም (Language concept U20)"
+            "የሰላም ስምምነት ተፈረመ። (Core concept alternative form)",
+            "የሰላም ስምምነት ፈረሙ (Core concept alternative form)",
+            "ስምምነቱ ጠፋ (Core concept alternative form)",
+            "ምንም ስምምነት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ተፈረመ» በዜናና በሰነዶች ውስጥ ጥቅም ላይ የሚውል መደበኛ ተገብሮ ግስ ነው።"
@@ -9398,10 +9398,10 @@
         {
           "prompt": "'A meeting was held' የሚለውን በአማርኛ የዜና ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስብሰባ ተካሄደ። (Language concept U20)",
-            "ስብሰባ አደረጉ (Language concept U20)",
-            "ስብሰባ ተሰረዘ (Language concept U20)",
-            "ስብሰባ የለም (Language concept U20)"
+            "ስብሰባ ተካሄደ። (Core concept alternative form)",
+            "ስብሰባ አደረጉ (Core concept alternative form)",
+            "ስብሰባ ተሰረዘ (Core concept alternative form)",
+            "ስብሰባ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ስብሰባ ተካሄደ» በመደበኛ የዜና ዘገባዎች ውስጥ እጅግ የተለመደ ተገብሮ መዋቅር ነው።"
@@ -9414,10 +9414,10 @@
           "type": "multiple-choice",
           "prompt": "በዜና እና ይፋዊ ሰነዶች ውስጥ የሚዘወተሩ ተገብሮ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተካሄደ፣ ተፈረመ፣ ታወጀ፣ ተላለፈ እና ተመረቀ። (Language concept U20)",
-            "በላ፣ ጠጣ፣ ሳቀ እና አለቀሰ። (Language concept U20)",
-            "ጠረጴዛ፣ ደብተር እና እርሳስ። (Language concept U20)",
-            "በዜና ውስጥ ተገብሮ ግስ አይገባም። (Language concept U20)"
+            "ተካሄደ፣ ተፈረመ፣ ታወጀ፣ ተላለፈ እና ተመረቀ። (Core concept alternative form)",
+            "በላ፣ ጠጣ፣ ሳቀ እና አለቀሰ። (Core concept alternative form)",
+            "ጠረጴዛ፣ ደብተር እና እርሳስ። (Core concept alternative form)",
+            "በዜና ውስጥ ተገብሮ ግስ አይገባም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በዜናና ይፋዊ ጽሑፎች ውስጥ በስፋት የሚሠራባቸውን ተገብሮ ግሶች ይዟል።"
@@ -9563,10 +9563,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ ይፋዊ የተገብሮ ዜና ዘገባ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "ስምምነቱ በሁለቱ ሀገራት መሪዎች አማካኝነት በይፋ ተፈረመ። (Language concept U20)",
-            "ምንም ስምምነት የለም (Language concept U20)",
-            "ሁሉም ቃላት ተራ ናቸው (Language concept U20)",
-            "ዜና የለም (Language concept U20)"
+            "ስምምነቱ በሁለቱ ሀገራት መሪዎች አማካኝነት በይፋ ተፈረመ። (Core concept alternative form)",
+            "ምንም ስምምነት የለም (Core concept alternative form)",
+            "ሁሉም ቃላት ተራ ናቸው (Core concept alternative form)",
+            "ዜና የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተገብሮ ግስን (ተፈረመ) እና ድርጊት ፈጻሚውን (በ... አማካኝነት) በትክክል ያዛምዳል።"
@@ -9578,10 +9578,10 @@
         {
           "prompt": "የተገብሮ ግስንና ድርጊት ፈጻሚን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "አዲሱ ሆስፒታል በጤና ጥበቃ ሚኒስቴር አማካኝነት ተገንብቶ ተመረቀ። (Language concept U20)",
-            "ምንም ሆስፒታል አልተሰራም (Language concept U20)",
-            "ሚኒስቴሩ ጠፋ (Language concept U20)",
-            "ሆስፒታል የለም (Language concept U20)"
+            "አዲሱ ሆስፒታል በጤና ጥበቃ ሚኒስቴር አማካኝነት ተገንብቶ ተመረቀ። (Core concept alternative form)",
+            "ምንም ሆስፒታል አልተሰራም (Core concept alternative form)",
+            "ሚኒስቴሩ ጠፋ (Core concept alternative form)",
+            "ሆስፒታል የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ምርጫ የተገብሮ ግሶችንና ድርጊት ፈጻሚውን በመስተዋድድ በትክክል ያቀናጃል።"
@@ -9595,9 +9595,9 @@
           "prompt": "የክፍል 20 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የተገብሮ ግስ የጊዜ እርባታዎች፣ ድርጊት ፈጻሚ መስተዋድዶች (ba... amakanynat/bakul)",
-            "ይህ ክፍል ስለ እንስሳት ብቻ ነው። (Language concept U20)",
-            "በአማርኛ ተገብሮ ግስ አይጠቀምም። (Language concept U20)",
-            "ሁሉም ዜናዎች በንቁ ግስ ብቻ ይጻፋሉ። (Language concept U20)"
+            "ይህ ክፍል ስለ እንስሳት ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ ተገብሮ ግስ አይጠቀምም። (Core concept alternative form)",
+            "ሁሉም ዜናዎች በንቁ ግስ ብቻ ይጻፋሉ። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 20ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -9653,10 +9653,10 @@
         {
           "prompt": "«He always wakes up early» የሚለውን በአማርኛ የጊዜ ተውሳከ ግስ በትክክል የተጠቀመው የትኛው ነው?",
           "options": [
-            "እሱ ሁልጊዜ ማለዳ ይነሳል። (Language concept U21)",
-            "እሱ ትናንት ተነሳ (Language concept U21)",
-            "እሱ ነገ ይነሳል (Language concept U21)",
-            "ምንም ጊዜ የለም (Language concept U21)"
+            "እሱ ሁልጊዜ ማለዳ ይነሳል። (Core concept alternative form)",
+            "እሱ ትናንት ተነሳ (Core concept alternative form)",
+            "እሱ ነገ ይነሳል (Core concept alternative form)",
+            "ምንም ጊዜ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሁልጊዜ» የድርጊቱን ቋሚነትና ተደጋጋሚነት የሚያሳይ የጊዜ ተውሳከ ግስ ነው።"
@@ -9668,10 +9668,10 @@
         {
           "prompt": "'I will call you immediately' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ወዲያውኑ እደውልልሃለሁ። (Language concept U21)",
-            "ትናንት ደወልኩልህ (Language concept U21)",
-            "በኋላ አልደውልም (Language concept U21)",
-            "ስልክ የለኝም (Language concept U21)"
+            "ወዲያውኑ እደውልልሃለሁ። (Core concept alternative form)",
+            "ትናንት ደወልኩልህ (Core concept alternative form)",
+            "በኋላ አልደውልም (Core concept alternative form)",
+            "ስልክ የለኝም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ወዲያውኑ» ፈጣንና ቅጽበታዊ የጊዜ አፈጻጸምን ያመለክታል።"
@@ -9684,10 +9684,10 @@
           "type": "multiple-choice",
           "prompt": "የጊዜ ተውሳከ ግሶችን (Adverbs of time) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ እና አስቀድሞ። (Language concept U21)",
-            "ትልቅ፣ ትንሽ እና መካከለኛ። (Language concept U21)",
-            "ወንበር፣ ጠረጴዛ እና አልጋ። (Language concept U21)",
-            "በአማርኛ የጊዜ ተውሳከ ግስ የለም። (Language concept U21)"
+            "አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ እና አስቀድሞ። (Core concept alternative form)",
+            "ትልቅ፣ ትንሽ እና መካከለኛ። (Core concept alternative form)",
+            "ወንበር፣ ጠረጴዛ እና አልጋ። (Core concept alternative form)",
+            "በአማርኛ የጊዜ ተውሳከ ግስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የጊዜ ተውሳከ ግሶችን በሙሉ ይዟል።"
@@ -9743,10 +9743,10 @@
         {
           "prompt": "«Drive carefully» የሚለውን በአማርኛ ትክክለኛ የሁኔታ ተውሳከ ግስ የያዘው የትኛው ነው?",
           "options": [
-            "በጥንቃቄ አሽከርክር። (Language concept U21)",
-            "በፍጥነት ሩጥ (Language concept U21)",
-            "አታሽከርክር (Language concept U21)",
-            "መኪና የለም (Language concept U21)"
+            "በጥንቃቄ አሽከርክር። (Core concept alternative form)",
+            "በፍጥነት ሩጥ (Core concept alternative form)",
+            "አታሽከርክር (Core concept alternative form)",
+            "መኪና የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በጥንቃቄ» የድርጊቱን አፈጻጸም ጥራትና ሁኔታ የሚያሳይ ተውሳከ ግስ ነው።"
@@ -9758,10 +9758,10 @@
         {
           "prompt": "'He spoke courageously' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በድፍረት ተናገረ። (Language concept U21)",
-            "በፍርሀት ዝም አለ (Language concept U21)",
-            "አልተናገረም (Language concept U21)",
-            "ድምጽ የለም (Language concept U21)"
+            "በድፍረት ተናገረ። (Core concept alternative form)",
+            "በፍርሀት ዝም አለ (Core concept alternative form)",
+            "አልተናገረም (Core concept alternative form)",
+            "ድምጽ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በድፍረት» ድፍረትንና ቁርጠኝነትን የሚያሳይ የሁኔታ ተውሳከ ግስ ነው።"
@@ -9774,10 +9774,10 @@
           "type": "multiple-choice",
           "prompt": "የቦታ እና የሁኔታ ተውሳከ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እዚህ፣ እዚያ፣ በጥንቃቄ፣ በፍጥነት፣ በዝግታ እና በድፍረት። (Language concept U21)",
-            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Language concept U21)",
-            "ሰማይ፣ ምድር፣ ፀሐይ እና ጨረቃ። (Language concept U21)",
-            "በአማርኛ የሁኔታ ተውሳከ ግስ የለም። (Language concept U21)"
+            "እዚህ፣ እዚያ፣ በጥንቃቄ፣ በፍጥነት፣ በዝግታ እና በድፍረት። (Core concept alternative form)",
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Core concept alternative form)",
+            "ሰማይ፣ ምድር፣ ፀሐይ እና ጨረቃ። (Core concept alternative form)",
+            "በአማርኛ የሁኔታ ተውሳከ ግስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታና የሁኔታ ተውሳከ ግሶችን በአግባቡ ያጠቃልላል።"
@@ -9833,10 +9833,10 @@
         {
           "prompt": "«He worked hard; therefore he succeeded» የሚለውን በአማርኛ ትክክለኛ የውጤት አያያዥ የተጠቀመው የትኛው ነው?",
           "options": [
-            "በትጋት ሰራ፤ ስለዚህ ተሳካለት። (Language concept U21)",
-            "በትጋት ሰራ ግን አልተሳካለትም (Language concept U21)",
-            "አልሰራም (Language concept U21)",
-            "ምንም ስራ የለም (Language concept U21)"
+            "በትጋት ሰራ፤ ስለዚህ ተሳካለት። (Core concept alternative form)",
+            "በትጋት ሰራ ግን አልተሳካለትም (Core concept alternative form)",
+            "አልሰራም (Core concept alternative form)",
+            "ምንም ስራ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ስለዚህ» መንስኤውንና ውጤቱን የሚያገናኝ ትክክለኛ አያያዥ ቃል ነው።"
@@ -9848,10 +9848,10 @@
         {
           "prompt": "'Due to the rain, the event was postponed' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በዝናቡ ሳቢያ ዝግጅቱ ተራዘመ። (Language concept U21)",
-            "ዝናብ የለም (Language concept U21)",
-            "ዝግጅቱ ተካሄደ (Language concept U21)",
-            "ምንም ዝግጅት የለም (Language concept U21)"
+            "በዝናቡ ሳቢያ ዝግጅቱ ተራዘመ። (Core concept alternative form)",
+            "ዝናብ የለም (Core concept alternative form)",
+            "ዝግጅቱ ተካሄደ (Core concept alternative form)",
+            "ምንም ዝግጅት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በ... ሳቢያ» መንስኤን የሚያመለክት ትክክለኛ ሰዋሰዋዊ አያያዥ ነው።"
@@ -9864,10 +9864,10 @@
           "type": "multiple-choice",
           "prompt": "የመንስኤ እና የውጤት አያያዥ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስለዚህ፣ ስለሆነም፣ በመሆኑም፣ በዚህ ምክንያት እና በ... ሳቢያ። (Language concept U21)",
-            "አረንጓዴ፣ ቢጫ እና ቀይ። (Language concept U21)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Language concept U21)",
-            "በአማርኛ የምክንያት አያያዥ የለም። (Language concept U21)"
+            "ስለዚህ፣ ስለሆነም፣ በመሆኑም፣ በዚህ ምክንያት እና በ... ሳቢያ። (Core concept alternative form)",
+            "አረንጓዴ፣ ቢጫ እና ቀይ። (Core concept alternative form)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (Core concept alternative form)",
+            "በአማርኛ የምክንያት አያያዥ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የመንስኤና የውጤት አያያዦችን በሙሉ ይዟል።"
@@ -9923,10 +9923,10 @@
         {
           "prompt": "«It was hard, however we persevered» የሚለውን በአማርኛ ትክክለኛ የተቃርኖ አያያዥ የያዘው የትኛው ነው?",
           "options": [
-            "ከባድ ነበር፤ ሆኖም ግን ጸናን። (Language concept U21)",
-            "ከባድ ነበር ስለዚህ ተውነው (Language concept U21)",
-            "ቀላል ነበር (Language concept U21)",
-            "ምንም አልነበረም (Language concept U21)"
+            "ከባድ ነበር፤ ሆኖም ግን ጸናን። (Core concept alternative form)",
+            "ከባድ ነበር ስለዚህ ተውነው (Core concept alternative form)",
+            "ቀላል ነበር (Core concept alternative form)",
+            "ምንም አልነበረም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሆኖም ግን» የተቃርኖ ሀሳቦችን የሚያገናኝ ትክክለኛ አያያዥ ነው።"
@@ -9938,10 +9938,10 @@
         {
           "prompt": "'Tea or coffee' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሻይ ወይም ቡና (Language concept U21)",
-            "ሻይ እና ቡና (Language concept U21)",
-            "ሻይ ግን ቡና (Language concept U21)",
-            "ሻይ የለም (Language concept U21)"
+            "ሻይ ወይም ቡና (Core concept alternative form)",
+            "ሻይ እና ቡና (Core concept alternative form)",
+            "ሻይ ግን ቡና (Core concept alternative form)",
+            "ሻይ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ወይም» ሁለት አማራጮችን የሚያገናኝ የአማራጭ አያያዥ ቃል ነው።"
@@ -9954,10 +9954,10 @@
           "type": "multiple-choice",
           "prompt": "የተቃርኖ እና የአማራጭ አያያዦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም፣ ወይም እና አልያም ። (Language concept U21)",
-            "ትልቅ፣ ትንሽ እና ረጅም ። (Language concept U21)",
-            "ቀይ፣ አረንጓዴ እና ቢጫ። (Language concept U21)",
-            "በአማርኛ የተቃርኖ አያያዥ የለም። (Language concept U21)"
+            "ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም፣ ወይም እና አልያም ። (Core concept alternative form)",
+            "ትልቅ፣ ትንሽ እና ረጅም ። (Core concept alternative form)",
+            "ቀይ፣ አረንጓዴ እና ቢጫ። (Core concept alternative form)",
+            "በአማርኛ የተቃርኖ አያያዥ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የተቃርኖና የአማራጭ አያያዦችን በሙሉ ይዟል።"
@@ -10013,10 +10013,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተለያዩ ተውሳከ ግሶችንና አያያዦችን ያጣመረው የትኛው ነው?",
           "options": [
-            "አሁን በጥንቃቄ እንስራ፤ ስለዚህ በስኬት እንጠናቀቃለን ወይም እናርፋለን። (Language concept U21)",
-            "ምንም ቃል የለም (Language concept U21)",
-            "ሁሉም ስሞች ናቸው (Language concept U21)",
-            "አያያዥ የለም (Language concept U21)"
+            "አሁን በጥንቃቄ እንስራ፤ ስለዚህ በስኬት እንጠናቀቃለን ወይም እናርፋለን። (Core concept alternative form)",
+            "ምንም ቃል የለም (Core concept alternative form)",
+            "ሁሉም ስሞች ናቸው (Core concept alternative form)",
+            "አያያዥ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጊዜ (አሁን)፣ የሁኔታ (በጥንቃቄ)፣ የውጤት (ስለዚህ) እና የአማራጭ (ወይም) አያያዦችን በአንድነት ያጣመረ ነው።"
@@ -10028,10 +10028,10 @@
         {
           "prompt": "የመንስኤ-ውጤት እና የተቃርኖ አያያዦችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "መንገዱ ከባድ ነበር፤ ሆኖም ግን በድፍረት ተጓዝን፤ ስለዚህ በሰላም ደረስን። (Language concept U21)",
-            "ምንም መንገድ የለም (Language concept U21)",
-            "አልደረስንም (Language concept U21)",
-            "ተጓዥ የለም (Language concept U21)"
+            "መንገዱ ከባድ ነበር፤ ሆኖም ግን በድፍረት ተጓዝን፤ ስለዚህ በሰላም ደረስን። (Core concept alternative form)",
+            "ምንም መንገድ የለም (Core concept alternative form)",
+            "አልደረስንም (Core concept alternative form)",
+            "ተጓዥ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተቃርኖውን 'ሆኖም ግን'፣ የሁኔታውን 'በድፍረት' እና የውጤቱን 'ስለዚህ' በትክክል ያዛምዳል።"
@@ -10045,9 +10045,9 @@
           "prompt": "የክፍል 21 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የጊዜ ተውሳከ ግሶች፣ የቦታና የሁኔታ ተውሳከ ግሶች፣ የመንስኤና የውጤት አያያዦች (slazih/bamahonum)",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Language concept U21)",
-            "በአማርኛ ተውሳከ ግስ የለም። (Language concept U21)",
-            "ሁሉም አያያዦች አንድ ዓይነት ናቸው። (Language concept U21)"
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ ተውሳከ ግስ የለም። (Core concept alternative form)",
+            "ሁሉም አያያዦች አንድ ዓይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 21ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -10103,10 +10103,10 @@
         {
           "prompt": "«He did not write the letter» የሚለውን በአማርኛ የኃላፊ ጊዜ አሉታዊ መዋቅር በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ደብዳቤውን አልጻፈም። (Language concept U22)",
-            "ደብዳቤውን ጻፈ (Language concept U22)",
-            "ደብዳቤውን አይጽፍም (Language concept U22)",
-            "ደብዳቤ የለም (Language concept U22)"
+            "ደብዳቤውን አልጻፈም። (Core concept alternative form)",
+            "ደብዳቤውን ጻፈ (Core concept alternative form)",
+            "ደብዳቤውን አይጽፍም (Core concept alternative form)",
+            "ደብዳቤ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አልጻፈም» በኃላፊ ጊዜ ውስጥ የተፈጸመ አሉታዊ ድርጊትን በትክክል ያሳያል።"
@@ -10118,10 +10118,10 @@
         {
           "prompt": "'Without him eating' የሚለውን በንዑስ አንቀጽ አሉታዊ ቅርጽ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሳይበላ (Language concept U22)",
-            "አልበላም (Language concept U22)",
-            "እየበላ (Language concept U22)",
-            "ይበላል (Language concept U22)"
+            "ሳይበላ (Core concept alternative form)",
+            "አልበላም (Core concept alternative form)",
+            "እየበላ (Core concept alternative form)",
+            "ይበላል (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "በንዑስ አንቀጽ ውስጥ አሉታዊ ቅጥያ «ሳ-» ሲገባ «-ም» አይጨመርም።"
@@ -10135,9 +10135,9 @@
           "prompt": "የአማርኛ አሉታዊ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አልጻፈም (yaahun/wadafit)",
-            "ቀይ፣ ሰማያዊ እና አረንጓዴ። (Language concept U22)",
-            "ቤት፣ በር እና መስኮት። (Language concept U22)",
-            "በአማርኛ አሉታዊ ግስ የለም። (Language concept U22)"
+            "ቀይ፣ ሰማያዊ እና አረንጓዴ። (Core concept alternative form)",
+            "ቤት፣ በር እና መስኮት። (Core concept alternative form)",
+            "በአማርኛ አሉታዊ ግስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ የግስ እርባታዎችን በአግባቡ ያሳያል።"
@@ -10193,10 +10193,10 @@
         {
           "prompt": "«I saw nothing» የሚለውን በአማርኛ አሉታዊ ተውላጠ ስም በመጠቀም በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ምንም አላየሁም። (Language concept U22)",
-            "ሁሉንም አየሁ (Language concept U22)",
-            "አንድ ነገር አየሁ (Language concept U22)",
-            "ምንም የለም (Language concept U22)"
+            "ምንም አላየሁም። (Core concept alternative form)",
+            "ሁሉንም አየሁ (Core concept alternative form)",
+            "አንድ ነገር አየሁ (Core concept alternative form)",
+            "ምንም የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ምንም» ከአሉታዊ ግስ (አላየሁም) ጋር ተጣምሮ 'ምንም አላየሁም' (I saw nothing) የሚል ትክክለኛ ትርጉም ይሰጣል።"
@@ -10208,10 +10208,10 @@
         {
           "prompt": "'Nobody knows' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ማንም አያውቅም። (Language concept U22)",
-            "ሁሉም ያውቃል (Language concept U22)",
-            "ሰው ያውቃል (Language concept U22)",
-            "ማንም ያውቃል (Language concept U22)"
+            "ማንም አያውቅም። (Core concept alternative form)",
+            "ሁሉም ያውቃል (Core concept alternative form)",
+            "ሰው ያውቃል (Core concept alternative form)",
+            "ማንም ያውቃል (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ማንም» ከአሉታዊ ግስ «አያውቅም» ጋር መግባት አለበት።"
@@ -10224,10 +10224,10 @@
           "type": "multiple-choice",
           "prompt": "አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ማንም፣ ምንም፣ የትም፣ በፍጹም እና ከቶውንም። (Language concept U22)",
-            "ሁልጊዜ፣ አንዳንዴ እና አሁን። (Language concept U22)",
-            "ጠረጴዛ፣ ደብተር እና ወንበር። (Language concept U22)",
-            "በአማርኛ አሉታዊ ተውላጠ ስም የለም። (Language concept U22)"
+            "ማንም፣ ምንም፣ የትም፣ በፍጹም እና ከቶውንም። (Core concept alternative form)",
+            "ሁልጊዜ፣ አንዳንዴ እና አሁን። (Core concept alternative form)",
+            "ጠረጴዛ፣ ደብተር እና ወንበር። (Core concept alternative form)",
+            "በአማርኛ አሉታዊ ተውላጠ ስም የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን ያካትታል።"
@@ -10283,10 +10283,10 @@
         {
           "prompt": "«ሆድ ሰፊ» የሚለው የአማርኛ ፈሊጣዊ አነጋገር ትክክለኛ ትርጉም ምንድን ነው?",
           "options": [
-            "ትዕግሥተኛ፣ ይቅር ባይና ሰፊ አመለካከት ያለው ሰው። (Language concept U22)",
-            "ብዙ ምግብ የሚበላ ሰው (Language concept U22)",
-            "የታመመ ሰው (Language concept U22)",
-            "ሆድ የሌለው ሰው (Language concept U22)"
+            "ትዕግሥተኛ፣ ይቅር ባይና ሰፊ አመለካከት ያለው ሰው። (Core concept alternative form)",
+            "ብዙ ምግብ የሚበላ ሰው (Core concept alternative form)",
+            "የታመመ ሰው (Core concept alternative form)",
+            "ሆድ የሌለው ሰው (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሆድ ሰፊ» በትዕግሥትና በይቅር ባይነት የሚታወቅን ሰው የሚያመለክት ታዋቂ ፈሊጥ ነው።"
@@ -10298,10 +10298,10 @@
         {
           "prompt": "'He turned a deaf ear' የሚለውን የአማርኛ ፈሊጥ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጆሮ ዳባ ልበስ አለ። (Language concept U22)",
-            "ጆሮው ታመመ (Language concept U22)",
-            "በደንብ ሰማ (Language concept U22)",
-            "ጆሮ የለውም (Language concept U22)"
+            "ጆሮ ዳባ ልበስ አለ። (Core concept alternative form)",
+            "ጆሮው ታመመ (Core concept alternative form)",
+            "በደንብ ሰማ (Core concept alternative form)",
+            "ጆሮ የለውም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጆሮ ዳባ ልበስ አለ» የቀረበለትን ምክር ወይም ጥሪ ችላ የማለት ፈሊጥ ነው።"
@@ -10314,10 +10314,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ ፈሊጣዊ አነጋገሮችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሆድ ሰፊ፣ ዐይን አፋር፣ ጆሮ ዳባ ልበስ እና አንገተ ደንዳና። (Language concept U22)",
-            "ሰኞ፣ ማክሰኞ፣ እሮብ እና ሐሙስ። (Language concept U22)",
-            "ዳቦ፣ ወተት፣ ስጋ እና እንቁላል። (Language concept U22)",
-            "በአማርኛ ፈሊጣዊ አነጋገር የለም። (Language concept U22)"
+            "ሆድ ሰፊ፣ ዐይን አፋር፣ ጆሮ ዳባ ልበስ እና አንገተ ደንዳና። (Core concept alternative form)",
+            "ሰኞ፣ ማክሰኞ፣ እሮብ እና ሐሙስ። (Core concept alternative form)",
+            "ዳቦ፣ ወተት፣ ስጋ እና እንቁላል። (Core concept alternative form)",
+            "በአማርኛ ፈሊጣዊ አነጋገር የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአማርኛ ፈሊጣዊ አነጋገሮችን በሙሉ ይዟል።"
@@ -10373,10 +10373,10 @@
         {
           "prompt": "«As for me, I finished» የሚለውን በአማርኛ አጽንኦት ሰጪ ቅጥያ በመጠቀም በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እኔማ ጨረስኩ። (Language concept U22)",
-            "እኔ ጨረስኩ (Language concept U22)",
-            "አልጨረስኩም (Language concept U22)",
-            "ስራ የለም (Language concept U22)"
+            "እኔማ ጨረስኩ። (Core concept alternative form)",
+            "እኔ ጨረስኩ (Core concept alternative form)",
+            "አልጨረስኩም (Core concept alternative form)",
+            "ስራ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እኔማ» በርዕሰ-ጉዳዩ ላይ ልዩ አጽንኦት ለመስጠት የሚያገለግል ትክክለኛ አገላለጽ ነው።"
@@ -10388,9 +10388,9 @@
         {
           "prompt": "'What about you?' የሚለውን በአማርኛ አጽንኦት ሰጪ ቅጥያ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አንተስ? / አንቺስ? (Language concept U22)",
-            "አንተ ማን ነህ? (Language concept U22)",
-            "የት ነህ? (Language concept U22)",
+            "አንተስ? / አንቺስ? (Core concept alternative form)",
+            "አንተ ማን ነህ? (Core concept alternative form)",
+            "የት ነህ? (Core concept alternative form)",
             "ስምህ ማን ነው? (male)"
           ],
           "answerIndex": 0,
@@ -10404,10 +10404,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ አጽንኦት ሰጪ ቅጥያዎችንና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "-ማ፣ -ስ፣ -ኮ፣ እንኳ እና እንጂ። (Language concept U22)",
-            "ትልቅ፣ ትንሽ፣ ረጅም እና አጭር። (Language concept U22)",
-            "ውሃ፣ ጭማቂ እና ወተት። (Language concept U22)",
-            "በአማርኛ አጽንኦት ሰጪ ቅጥያ የለም። (Language concept U22)"
+            "-ማ፣ -ስ፣ -ኮ፣ እንኳ እና እንጂ። (Core concept alternative form)",
+            "ትልቅ፣ ትንሽ፣ ረጅም እና አጭር። (Core concept alternative form)",
+            "ውሃ፣ ጭማቂ እና ወተት። (Core concept alternative form)",
+            "በአማርኛ አጽንኦት ሰጪ ቅጥያ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአጽንኦት ቅጥያዎችንና ቃላትን በሙሉ ይዟል።"
@@ -10463,10 +10463,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ አሉታዊ መዋቅርን፣ ፈሊጥንና አጽንኦትን ያጣመረው የትኛው ነው?",
           "options": [
-            "እሱማ ሆድ ሰፊ ሰው ስለሆነ ማንም አይከፋበትምኮ። (Language concept U22)",
-            "ምንም የለም (Language concept U22)",
-            "ሁሉም ቃላት ተራ ናቸው (Language concept U22)",
-            "ፈሊጥ የለም (Language concept U22)"
+            "እሱማ ሆድ ሰፊ ሰው ስለሆነ ማንም አይከፋበትምኮ። (Core concept alternative form)",
+            "ምንም የለም (Core concept alternative form)",
+            "ሁሉም ቃላት ተራ ናቸው (Core concept alternative form)",
+            "ፈሊጥ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አጽንኦት (-ማ፣ -ኮ)፣ ፈሊጥ (ሆድ ሰፊ) እና አሉታዊ መዋቅርን (ማንም አይከፋበትም) በአንድ ላይ ያጣመረ ነው።"
@@ -10478,10 +10478,10 @@
         {
           "prompt": "ልዩ አሉታዊ ቃላትንና ፈሊጥን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ስለ ጉዳዩ ማንም ምንም አያውቅም፤ ሆኖም ግን ጆሮ ዳባ ልበስ አንበል ። (Language concept U22)",
-            "ምንም አናውቅም (Language concept U22)",
-            "ጆሮ የለም (Language concept U22)",
-            "ሰው የለም (Language concept U22)"
+            "ስለ ጉዳዩ ማንም ምንም አያውቅም፤ ሆኖም ግን ጆሮ ዳባ ልበስ አንበል ። (Core concept alternative form)",
+            "ምንም አናውቅም (Core concept alternative form)",
+            "ጆሮ የለም (Core concept alternative form)",
+            "ሰው የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር አሉታዊ ተውላጠ ስሞችን (ማንም፣ ምንም) እና ፈሊጥን (ጆሮ ዳባ ልበስ) በትክክል ያዛምዳል።"
@@ -10495,9 +10495,9 @@
           "prompt": "የክፍል 22 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የተለያዩ የጊዜ አሉታዊ ቅርጾች፣ ልዩ አሉታዊ ቃላት (hod safi/joro daba lbas)",
-            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (Language concept U22)",
-            "በአማርኛ አሉታዊ አረፍተ ነገር የለም። (Language concept U22)",
-            "ሁሉም ፈሊጦች ተመሳሳይ ትርጉም አላቸው። (Language concept U22)"
+            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ አሉታዊ አረፍተ ነገር የለም። (Core concept alternative form)",
+            "ሁሉም ፈሊጦች ተመሳሳይ ትርጉም አላቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 22ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -10643,10 +10643,10 @@
         {
           "prompt": "«Diplomatic relations» የሚለውን በአማርኛ ትክክለኛ የዲፕሎማሲ ቃል የያዘው የትኛው ነው?",
           "options": [
-            "ዲፕሎማሲያዊ ግንኙነት (Language concept U23)",
-            "የጓደኝነት ወሬ (Language concept U23)",
-            "የመንገድ ንግድ (Language concept U23)",
-            "ምንም ግንኙነት የለም (Language concept U23)"
+            "ዲፕሎማሲያዊ ግንኙነት (Core concept key phrasing)",
+            "የጓደኝነት ወሬ (Core concept alternative form)",
+            "የመንገድ ንግድ (Core concept alternative form)",
+            "ምንም ግንኙነት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዲፕሎማሲያዊ ግንኙነት» በሀገራት መካከል ያለውን ይፋዊ ግንኙነት የሚገልጽ ትክክለኛ ቃል ነው።"
@@ -10658,10 +10658,10 @@
         {
           "prompt": "'Bilateral talks' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የሁለትዮሽ ውይይት (Language concept U23)",
-            "የአንድ ወገን ንግግር (Language concept U23)",
-            "ጭቅጭቅ (Language concept U23)",
-            "ዝምታ (Language concept U23)"
+            "የሁለትዮሽ ውይይት (Core concept key phrasing)",
+            "የአንድ ወገን ንግግር (Core concept alternative form)",
+            "ጭቅጭቅ (Core concept alternative form)",
+            "ዝምታ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የሁለትዮሽ ውይይት» በሁለት ሀገራት ወይም ወገኖች መካከል የሚደረግ ይፋዊ ንግግር ነው።"
@@ -10674,10 +10674,10 @@
           "type": "multiple-choice",
           "prompt": "የፖለቲካ እና የዲፕሎማሲ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ዲፕሎማሲያዊ ግንኙነት፣ አምባሳደር፣ ሉዓላዊነት፣ የሁለትዮሽ ውይይት እና የጋራ ተጠቃሚነት። (Language concept U23)",
-            "ጠመኔ፣ ጥቁር ሰሌዳ እና ማጥፊያ። (Language concept U23)",
-            "አውሮፕላን፣ ባቡር እና መኪና። (Language concept U23)",
-            "በአማርኛ የዲፕሎማሲ ቃል የለም። (Language concept U23)"
+            "ዲፕሎማሲያዊ ግንኙነት፣ አምባሳደር፣ ሉዓላዊነት፣ የሁለትዮሽ ውይይት እና የጋራ ተጠቃሚነት። (Core concept alternative form)",
+            "ጠመኔ፣ ጥቁር ሰሌዳ እና ማጥፊያ። (Core concept alternative form)",
+            "አውሮፕላን፣ ባቡር እና መኪና። (Core concept alternative form)",
+            "በአማርኛ የዲፕሎማሲ ቃል የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የዲፕሎማሲና የፖለቲካ ቃላትን በሙሉ ይዟል።"
@@ -10733,10 +10733,10 @@
         {
           "prompt": "«Inflation» የሚለውን በአማርኛ ትክክለኛ የኢኮኖሚ ቃል የያዘው የትኛው ነው?",
           "options": [
-            "የዋጋ ግሽበት (Language concept U23)",
-            "የዋጋ ቅናሽ (Language concept U23)",
-            "የገበያ ሽያጭ (Language concept U23)",
-            "ምንም የለም (Language concept U23)"
+            "የዋጋ ግሽበት (Core concept key phrasing)",
+            "የዋጋ ቅናሽ (Core concept alternative form)",
+            "የገበያ ሽያጭ (Core concept alternative form)",
+            "ምንም የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የዋጋ ግሽበት» የዕቃዎችና የአገልግሎቶች ዋጋ ያለማቋረጥ መጨመርን የሚገልጽ ትክክለኛ የኢኮኖሚ ቃል ነው።"
@@ -10748,10 +10748,10 @@
         {
           "prompt": "'Foreign exchange / currency' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የውጭ ምንዛሪ (Language concept U23)",
-            "የሀገር ገንዘብ (Language concept U23)",
-            "ብረት ሳንቲም (Language concept U23)",
-            "የብር ኖት (Language concept U23)"
+            "የውጭ ምንዛሪ (Core concept key phrasing)",
+            "የሀገር ገንዘብ (Core concept alternative form)",
+            "ብረት ሳንቲም (Core concept alternative form)",
+            "የብር ኖት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የውጭ ምንዛሪ» የሌሎች ሀገራትን ገንዘብና የገንዘብ ልውውጥን ያመለክታል።"
@@ -10764,10 +10764,10 @@
           "type": "multiple-choice",
           "prompt": "የኢኮኖሚና የንግድ ዘገባ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የዋጋ ግሽበት፣ የውጭ ምንዛሪ፣ ኢንቨስትመንት፣ ምርታማነት እና የገበያ መረጋጋት። (Language concept U23)",
-            "ወንበር፣ ጠረጴዛ እና ሳሎን። (Language concept U23)",
-            "ቢጫ፣ አረንጓዴ እና ጥቁር። (Language concept U23)",
-            "በአማርኛ የኢኮኖሚ ቃል የለም። (Language concept U23)"
+            "የዋጋ ግሽበት፣ የውጭ ምንዛሪ፣ ኢንቨስትመንት፣ ምርታማነት እና የገበያ መረጋጋት። (Core concept alternative form)",
+            "ወንበር፣ ጠረጴዛ እና ሳሎን። (Core concept alternative form)",
+            "ቢጫ፣ አረንጓዴ እና ጥቁር። (Core concept alternative form)",
+            "በአማርኛ የኢኮኖሚ ቃል የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኢኮኖሚና የንግድ ቃላትን በሙሉ ይዟል።"
@@ -10823,10 +10823,10 @@
         {
           "prompt": "«Press conference» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጋዜጣዊ መግለጫ (Language concept U23)",
-            "የግል ንግግር (Language concept U23)",
-            "የስልክ ጥሪ (Language concept U23)",
-            "ምንም መግለጫ የለም (Language concept U23)"
+            "ጋዜጣዊ መግለጫ (Core concept key phrasing)",
+            "የግል ንግግር (Core concept alternative form)",
+            "የስልክ ጥሪ (Core concept alternative form)",
+            "ምንም መግለጫ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጋዜጣዊ መግለጫ» ለመገናኛ ብዙሃን ባለሙያዎች የሚሰጥ ይፋዊ ማብራሪያ ነው።"
@@ -10838,10 +10838,10 @@
         {
           "prompt": "'Interview' የሚለውን በአማርኛ የጋዜጠኝነት ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቃለ-መጠይቅ (Language concept U23)",
-            "ውይይት ብቻ (Language concept U23)",
-            "ክርክር (Language concept U23)",
-            "ዝምታ (Language concept U23)"
+            "ቃለ-መጠይቅ (Core concept key phrasing)",
+            "ውይይት ብቻ (Core concept alternative form)",
+            "ክርክር (Core concept alternative form)",
+            "ዝምታ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ቃለ-መጠይቅ» የአንድን ግለሰብ ዕውቀት ወይም አስተያየት በጥያቄና መልስ ለመሰብሰብ የሚደረግ ጋዜጣዊ ስራ ነው።"
@@ -10854,10 +10854,10 @@
           "type": "multiple-choice",
           "prompt": "የቃለ-መጠይቅ እና የፕሬስ መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ጋዜጣዊ መግለጫ፣ ቃለ-መጠይቅ፣ ጋዜጠኛ፣ ቃል-አቀባይ እና ማስተባበያ። (Language concept U23)",
-            "ሰዓት፣ ደቂቃ እና ሰከንድ። (Language concept U23)",
-            "መጽሐፍ፣ ብዕር እና ወረቀት። (Language concept U23)",
-            "በአማርኛ ቃለ-መጠይቅ አይባልም። (Language concept U23)"
+            "ጋዜጣዊ መግለጫ፣ ቃለ-መጠይቅ፣ ጋዜጠኛ፣ ቃል-አቀባይ እና ማስተባበያ። (Core concept alternative form)",
+            "ሰዓት፣ ደቂቃ እና ሰከንድ። (Core concept alternative form)",
+            "መጽሐፍ፣ ብዕር እና ወረቀት። (Core concept alternative form)",
+            "በአማርኛ ቃለ-መጠይቅ አይባልም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የፕሬስና የቃለ-መጠይቅ ቃላትን በሙሉ ይዟል።"
@@ -10913,10 +10913,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሚዲያ ዘገባ አወቃቀር የያዘው የትኛው ነው?",
           "options": [
-            "ሰበር ዜና: በጋዜጣዊ መግለጫው የዲፕሎማሲ እና የኢኮኖሚ ስምምነት መፈረሙ ተገለጸ። (Language concept U23)",
-            "ምንም ዜና የለም (Language concept U23)",
-            "ሁሉም ተራ ወሬ ነው (Language concept U23)",
-            "መግለጫ የለም (Language concept U23)"
+            "ሰበር ዜና: በጋዜጣዊ መግለጫው የዲፕሎማሲ እና የኢኮኖሚ ስምምነት መፈረሙ ተገለጸ። (Core concept alternative form)",
+            "ምንም ዜና የለም (Core concept alternative form)",
+            "ሁሉም ተራ ወሬ ነው (Core concept alternative form)",
+            "መግለጫ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አርዕስተ ዜናን (ሰበር ዜና)፣ ፕሬስን (ጋዜጣዊ መግለጫ) እና ዲፕሎማሲያዊ ይዘትን በአንድነት ያጣመረ ነው።"
@@ -10928,10 +10928,10 @@
         {
           "prompt": "የኢኮኖሚ እና የሚዲያ ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "የኢኮኖሚ ዘገባው የውጭ ምንዛሪ እና የኢንቨስትመንት እድገትን በዝርዝር አብራራ። (Language concept U23)",
-            "ምንም ዘገባ አልቀረበም (Language concept U23)",
-            "ገንዘብ የለም (Language concept U23)",
-            "ኢንቨስትመንት የለም (Language concept U23)"
+            "የኢኮኖሚ ዘገባው የውጭ ምንዛሪ እና የኢንቨስትመንት እድገትን በዝርዝር አብራራ። (Core concept alternative form)",
+            "ምንም ዘገባ አልቀረበም (Core concept alternative form)",
+            "ገንዘብ የለም (Core concept alternative form)",
+            "ኢንቨስትመንት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የሚዲያ ዘገባን እና የኢኮኖሚ ቃላትን በትክክል ያቀናጃል።"
@@ -10944,10 +10944,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 23 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የዜና ዘገባና አርዕስተ ዜና፣ የፖለቲካና ዲፕሎማሲ መግለጫዎች፣ የኢኮኖሚና ገበያ ቃላት፣ እንዲሁም ቃለ-መጠይቅና ጋዜጣዊ መግለጫ ተካተዋል። (Language concept U23)",
-            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (Language concept U23)",
-            "በአማርኛ ጋዜጣዊ መግለጫ አይሰጥም። (Language concept U23)",
-            "ሁሉም ዜናዎች ተራ አሉባልታ ናቸው። (Language concept U23)"
+            "የዜና ዘገባና አርዕስተ ዜና፣ የፖለቲካና ዲፕሎማሲ መግለጫዎች፣ የኢኮኖሚና ገበያ ቃላት፣ እንዲሁም ቃለ-መጠይቅና ጋዜጣዊ መግለጫ ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ ጋዜጣዊ መግለጫ አይሰጥም። (Core concept alternative form)",
+            "ሁሉም ዜናዎች ተራ አሉባልታ ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 23ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -11003,10 +11003,10 @@
         {
           "prompt": "«Subject: / Re:» የሚለውን በአማርኛ ይፋዊ ደብዳቤ አጻጻፍ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጉዳዩ (Language concept U24)",
-            "ወሬው (Language concept U24)",
-            "መልእክቱ (Language concept U24)",
-            "ምንም ጉዳይ የለም (Language concept U24)"
+            "ጉዳዩ (Core concept key phrasing)",
+            "ወሬው (Core concept alternative form)",
+            "መልእክቱ (Core concept alternative form)",
+            "ምንም ጉዳይ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጉዳዩ:» በደብዳቤው ላይ የሚብራራውን ዋና ርዕስ ለማመልከት የሚሠራበት መደበኛ ቃል ነው።"
@@ -11018,9 +11018,9 @@
         {
           "prompt": "'With respectful greetings' የሚለውን የደብዳቤ መዝጊያ ቃል በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ከአክብሮት ሰላምታ ጋር (Language concept U24)",
+            "ከአክብሮት ሰላምታ ጋር (Core concept key phrasing)",
             "ቻው (casual)",
-            "ደህና ሁን (Language concept U24)",
+            "ደህና ሁን (Core concept alternative form)",
             "ሰላም (Selam - Hello / Peace)"
           ],
           "answerIndex": 0,
@@ -11034,10 +11034,10 @@
           "type": "multiple-choice",
           "prompt": "የይፋዊ ደብዳቤ ዋና ዋና ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ ክቡር/የተከበሩ እና ከአክብሮት ሰላምታ ጋር። (Language concept U24)",
-            "ጨው፣ በርበሬ እና ዘይት። (Language concept U24)",
-            "እግር ኳስ፣ መረብ ኳስ እና ቅርጫት ኳስ። (Language concept U24)",
-            "በአማርኛ የደብዳቤ ቅርፅ የለም። (Language concept U24)"
+            "ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ ክቡር/የተከበሩ እና ከአክብሮት ሰላምታ ጋር። (Core concept alternative form)",
+            "ጨው፣ በርበሬ እና ዘይት። (Core concept alternative form)",
+            "እግር ኳስ፣ መረብ ኳስ እና ቅርጫት ኳስ። (Core concept alternative form)",
+            "በአማርኛ የደብዳቤ ቅርፅ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመደበኛ አስተዳደራዊ ደብዳቤ ክፍሎችን በሙሉ ይዟል።"
@@ -11093,9 +11093,9 @@
         {
           "prompt": "«Application» የሚለውን በአማርኛ አስተዳደራዊ ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ማመልከቻ (Language concept U24)",
-            "የግል ታሪክ (Language concept U24)",
-            "ስዕል (Language concept U24)",
+            "ማመልከቻ (Core concept key phrasing)",
+            "የግል ታሪክ (Core concept alternative form)",
+            "ስዕል (Core concept alternative form)",
             "ምንም አይደለም (Mnem aydelem - You are welcome / No problem)"
           ],
           "answerIndex": 0,
@@ -11108,10 +11108,10 @@
         {
           "prompt": "'Educational credentials' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የትምህርት ማስረጃ (Language concept U24)",
-            "የቤት እቃ (Language concept U24)",
-            "የመኪና ቁልፍ (Language concept U24)",
-            "ገንዘብ (Language concept U24)"
+            "የትምህርት ማስረጃ (Core concept key phrasing)",
+            "የቤት እቃ (Core concept alternative form)",
+            "የመኪና ቁልፍ (Core concept alternative form)",
+            "ገንዘብ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የትምህርት ማስረጃ» የትምህርት ደረጃን የሚያረጋግጥ ይፋዊ ሰነድ ነው።"
@@ -11124,10 +11124,10 @@
           "type": "multiple-choice",
           "prompt": "የማመልከቻ እና የጥያቄ ደብዳቤ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አመልካች፣ ማመልከቻ፣ የትምህርት ማስረጃ፣ የስራ ልምድ እና አቤቱታ። (Language concept U24)",
-            "ስኳር፣ ጨው፣ ሻይ እና ቡና። (Language concept U24)",
-            "ሰማያዊ፣ ቀይ እና ጥቁር። (Language concept U24)",
-            "በአማርኛ ማመልከቻ አይጻፍም። (Language concept U24)"
+            "አመልካች፣ ማመልከቻ፣ የትምህርት ማስረጃ፣ የስራ ልምድ እና አቤቱታ። (Core concept alternative form)",
+            "ስኳር፣ ጨው፣ ሻይ እና ቡና። (Core concept alternative form)",
+            "ሰማያዊ፣ ቀይ እና ጥቁር። (Core concept alternative form)",
+            "በአማርኛ ማመልከቻ አይጻፍም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የማመልከቻ ደብዳቤ ዋና ዋና ቃላትን በሙሉ ያካትታል።"
@@ -11183,10 +11183,10 @@
         {
           "prompt": "«Contract agreement» የሚለውን በአማርኛ አስተዳደራዊ እና ህጋዊ ቃል በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የውል ስምምነት (Language concept U24)",
-            "የቃል ወሬ (Language concept U24)",
-            "የጨዋታ ህግ (Language concept U24)",
-            "ምንም ውል የለም (Language concept U24)"
+            "የውል ስምምነት (Core concept key phrasing)",
+            "የቃል ወሬ (Core concept alternative form)",
+            "የጨዋታ ህግ (Core concept alternative form)",
+            "ምንም ውል የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የውል ስምምነት» በሁለት ወገኖች መካከል መብትና ግዴታን የሚደነግግ ይፋዊ የህግ ሰነድ ነው።"
@@ -11198,10 +11198,10 @@
         {
           "prompt": "'Contracting parties' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተዋዋይ ወገኖች (Language concept U24)",
-            "ተመልካቾች (Language concept U24)",
-            "እንግዶች (Language concept U24)",
-            "መንገደኞች (Language concept U24)"
+            "ተዋዋይ ወገኖች (Core concept key phrasing)",
+            "ተመልካቾች (Core concept alternative form)",
+            "እንግዶች (Core concept alternative form)",
+            "መንገደኞች (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ተዋዋይ ወገኖች» ውሉን የተፈራረሙትን አካላት የሚያመለክት መደበኛ የህግ ቃል ነው።"
@@ -11214,10 +11214,10 @@
           "type": "multiple-choice",
           "prompt": "የውል እና የስምምነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የውል ስምምነት፣ ተዋዋይ ወገኖች፣ ግዴታ፣ የአስተዳደር መመሪያ እና ፊርማ። (Language concept U24)",
-            "ጫማ፣ ካልሲ፣ ሱሪ እና ሸሚዝ። (Language concept U24)",
-            "ወንዝ፣ ተራራ፣ ሸለቆ እና ሜዳ። (Language concept U24)",
-            "በአማርኛ የውል ሰነድ የለም። (Language concept U24)"
+            "የውል ስምምነት፣ ተዋዋይ ወገኖች፣ ግዴታ፣ የአስተዳደር መመሪያ እና ፊርማ። (Core concept alternative form)",
+            "ጫማ፣ ካልሲ፣ ሱሪ እና ሸሚዝ። (Core concept alternative form)",
+            "ወንዝ፣ ተራራ፣ ሸለቆ እና ሜዳ። (Core concept alternative form)",
+            "በአማርኛ የውል ሰነድ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የውልና የአስተዳደር መመሪያ ቃላትን በሙሉ ይዟል።"
@@ -11273,10 +11273,10 @@
         {
           "prompt": "«Minutes of meeting» የሚለውን በአማርኛ አስተዳደራዊ ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቃለ-ጉባኤ (Language concept U24)",
-            "የስብሰባ ወሬ (Language concept U24)",
-            "የአዳራሽ ቁልፍ (Language concept U24)",
-            "ምንም ሰነድ የለም (Language concept U24)"
+            "ቃለ-ጉባኤ (Core concept key phrasing)",
+            "የስብሰባ ወሬ (Core concept alternative form)",
+            "የአዳራሽ ቁልፍ (Core concept alternative form)",
+            "ምንም ሰነድ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ቃለ-ጉባኤ» በስብሰባ ወቅት የተነሱትን ነጥቦችና የተላለፉትን ውሳኔዎች በጽሁፍ የሚያሰፍር ይፋዊ ሰነድ ነው።"
@@ -11288,10 +11288,10 @@
         {
           "prompt": "'Agenda' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አጀንዳ (Language concept U24)",
-            "የስብሰባ ሰዓት ብቻ (Language concept U24)",
-            "ምሳ (Language concept U24)",
-            "እረፍት (Language concept U24)"
+            "አጀንዳ (Core concept key phrasing)",
+            "የስብሰባ ሰዓት ብቻ (Core concept alternative form)",
+            "ምሳ (Core concept alternative form)",
+            "እረፍት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አጀንዳ» በስብሰባው ላይ የሚወያዩባቸውን ርዕሰ ጉዳዮች ዝርዝር ያመለክታል።"
@@ -11304,10 +11304,10 @@
           "type": "multiple-choice",
           "prompt": "የስብሰባ ቃለ-ጉባኤ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አጀንዳ፣ ሰብሳቢ፣ ጸሐፊ፣ ተሰብሳቢዎች፣ ቃለ-ጉባኤ እና ውሳኔ። (Language concept U24)",
-            "ብርቱካን፣ ሎሚ፣ ማንጎ እና ሙዝ። (Language concept U24)",
-            "ወንበር፣ ጠረጴዛ እና ሰሌዳ። (Language concept U24)",
-            "በአማርኛ ቃለ-ጉባኤ አይጻፍም። (Language concept U24)"
+            "አጀንዳ፣ ሰብሳቢ፣ ጸሐፊ፣ ተሰብሳቢዎች፣ ቃለ-ጉባኤ እና ውሳኔ። (Core concept alternative form)",
+            "ብርቱካን፣ ሎሚ፣ ማንጎ እና ሙዝ። (Core concept alternative form)",
+            "ወንበር፣ ጠረጴዛ እና ሰሌዳ። (Core concept alternative form)",
+            "በአማርኛ ቃለ-ጉባኤ አይጻፍም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስብሰባ አስተዳደራዊ ሰነድ ክፍሎችን በሙሉ ይዟል።"
@@ -11364,10 +11364,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ አስተዳደራዊ ሰነድ አወቃቀር የያዘው የትኛው ነው?",
           "options": [
-            "ጉዳዩ: የስብሰባ ቃለ-ጉባኤ ውሳኔን እና የውል ስምምነት መመሪያን ማጽደቅ። (Language concept U24)",
-            "ምንም ሰነድ የለም (Language concept U24)",
-            "ሁሉም ተራ ወረቀት ነው (Language concept U24)",
-            "ማመልከቻ የለም (Language concept U24)"
+            "ጉዳዩ: የስብሰባ ቃለ-ጉባኤ ውሳኔን እና የውል ስምምነት መመሪያን ማጽደቅ። (Core concept alternative form)",
+            "ምንም ሰነድ የለም (Core concept alternative form)",
+            "ሁሉም ተራ ወረቀት ነው (Core concept alternative form)",
+            "ማመልከቻ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የደብዳቤ ርዕስን (ጉዳዩ)፣ ቃለ-ጉባኤን እና የውል መመሪያን በአግባቡ ያጣመረ ነው።"
@@ -11379,10 +11379,10 @@
         {
           "prompt": "የማመልከቻ እና የውል ስምምነት ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "አመልካቹ የውል ስምምነቱን ግዴታዎች አሟልቶ ማመልከቻውን አስገባ። (Language concept U24)",
-            "ምንም ማመልከቻ አልገባም (Language concept U24)",
-            "ውል የለም (Language concept U24)",
-            "ሰው የለም (Language concept U24)"
+            "አመልካቹ የውል ስምምነቱን ግዴታዎች አሟልቶ ማመልከቻውን አስገባ። (Core concept alternative form)",
+            "ምንም ማመልከቻ አልገባም (Core concept alternative form)",
+            "ውል የለም (Core concept alternative form)",
+            "ሰው የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የማመልከቻ እና የውል ቃላትን በትክክል ያቀናጃል።"
@@ -11395,10 +11395,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 24 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የመንግሥትና የድርጅት ደብዳቤ ቅርፅ፣ የማመልከቻ አጻጻፍ፣ የውልና ስምምነት ሰነዶች፣ እንዲሁም የስብሰባ ቃለ-ጉባኤ እና ሪፖርት ተካተዋል። (Language concept U24)",
-            "ይህ ክፍል ስለ ስፖርት ብቻ ነው። (Language concept U24)",
-            "በአማርኛ ይፋዊ ደብዳቤ አይጻፍም። (Language concept U24)",
-            "ሁሉም ሰነዶች ተመሳሳይ ቅርፅ አላቸው። (Language concept U24)"
+            "የመንግሥትና የድርጅት ደብዳቤ ቅርፅ፣ የማመልከቻ አጻጻፍ፣ የውልና ስምምነት ሰነዶች፣ እንዲሁም የስብሰባ ቃለ-ጉባኤ እና ሪፖርት ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ስፖርት ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ ይፋዊ ደብዳቤ አይጻፍም። (Core concept alternative form)",
+            "ሁሉም ሰነዶች ተመሳሳይ ቅርፅ አላቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 24ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -11454,10 +11454,10 @@
         {
           "prompt": "«ፍቅር እስከ መቃብር» የተሰኘውን ድንቅ ልቦለድ የጻፉት አንጋፋ ደራሲ ማን ናቸው?",
           "options": [
-            "ሐዲስ ዓለማየሁ (Language concept U25)",
-            "ከበደ ሚካኤል (Language concept U25)",
-            "በዓሉ ግርማ (Language concept U25)",
-            "ጸጋዬ ገብረመድህን (Language concept U25)"
+            "ሐዲስ ዓለማየሁ (Core concept key phrasing)",
+            "ከበደ ሚካኤል (Core concept alternative form)",
+            "በዓሉ ግርማ (Core concept alternative form)",
+            "ጸጋዬ ገብረመድህን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ፍቅር እስከ መቃብር» በታዋቂው ደራሲ ሐዲስ ዓለማየሁ የተደረሰ ድንቅ የልቦለድ ስራ ነው።"
@@ -11469,10 +11469,10 @@
         {
           "prompt": "'Novel' የሚለውን የስነ-ጽሑፍ ዘውግ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ልቦለድ (Language concept U25)",
-            "ግጥም (Language concept U25)",
-            "ዜና (Language concept U25)",
-            "ደብዳቤ (Language concept U25)"
+            "ልቦለድ (Core concept key phrasing)",
+            "ግጥም (Core concept alternative form)",
+            "ዜና (Core concept alternative form)",
+            "ደብዳቤ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ልቦለድ» ረጅም ልብወለዳዊ ታሪክን የሚያቀርብ የስነ-ጽሑፍ ዘውግ ነው።"
@@ -11485,10 +11485,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ ስነ-ጽሑፍ ዘውጎችንና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስነ-ጽሑፍ፣ ልቦለድ፣ አጭር ልቦለድ፣ ድርሰት፣ ተውኔት እና ደራሲ። (Language concept U25)",
-            "ወተት፣ ቅቤ፣ አይብ እና እርጎ። (Language concept U25)",
-            "ሰኞ፣ ማክሰኞ እና እሮብ። (Language concept U25)",
-            "በአማርኛ ስነ-ጽሑፍ የለም። (Language concept U25)"
+            "ስነ-ጽሑፍ፣ ልቦለድ፣ አጭር ልቦለድ፣ ድርሰት፣ ተውኔት እና ደራሲ። (Core concept alternative form)",
+            "ወተት፣ ቅቤ፣ አይብ እና እርጎ። (Core concept alternative form)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ። (Core concept alternative form)",
+            "በአማርኛ ስነ-ጽሑፍ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ዘውጎችንና ቃላትን በሙሉ ይዟል።"
@@ -11815,10 +11815,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የስነ-ጽሑፍና የቅኔ ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "የአማርኛ ስነ-ጽሑፍ በልቦለድ፣ በግጥም ቤት መምቻ እና በሰምና ወርቅ ምስጢር የጎለበተ ነው። (Language concept U25)",
-            "ምንም ስነ-ጽሑፍ የለም (Language concept U25)",
-            "ሁሉም ተራ ቃላት ናቸው (Language concept U25)",
-            "ግጥም የለም (Language concept U25)"
+            "የአማርኛ ስነ-ጽሑፍ በልቦለድ፣ በግጥም ቤት መምቻ እና በሰምና ወርቅ ምስጢር የጎለበተ ነው። (Core concept alternative form)",
+            "ምንም ስነ-ጽሑፍ የለም (Core concept alternative form)",
+            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
+            "ግጥም የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ልቦለድን፣ የግጥም ስነ-ስርዓትን እና የሰምና ወርቅን በአንድነት ያጠቃለለ ነው።"
@@ -11830,10 +11830,10 @@
         {
           "prompt": "የስነ-ጽሑፍ ትችት እና የቅኔ ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተቺው በስነ-ጽሑፍ ትንተናው ወቅት የቅኔውን ሰም እና ወርቅ በዝርዝር አብራራ። (Language concept U25)",
-            "ምንም ትችት አልቀረበም (Language concept U25)",
-            "ቅኔ የለም (Language concept U25)",
-            "ወርቅ የለም (Language concept U25)"
+            "ተቺው በስነ-ጽሑፍ ትንተናው ወቅት የቅኔውን ሰም እና ወርቅ በዝርዝር አብራራ። (Core concept alternative form)",
+            "ምንም ትችት አልቀረበም (Core concept alternative form)",
+            "ቅኔ የለም (Core concept alternative form)",
+            "ወርቅ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የስነ-ጽሑፍ ትችትን እና የቅኔ ፍልስፍናን በትክክል ያዛምዳል።"
@@ -11846,10 +11846,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 25 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የአማርኛ ስነ-ጽሑፍ ታሪክና ደራስያን፣ የግጥም ቅርፅና ቤት መምቻ፣ የሰምና ወርቅ ቅኔያዊ ምስጢር፣ እንዲሁም የስነ-ጽሑፍ ትችት ተካተዋል። (Language concept U25)",
-            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (Language concept U25)",
-            "በአማርኛ ልቦለድ አይጻፍም። (Language concept U25)",
-            "ሁሉም ግጥሞች ቤት መምቻ የላቸውም። (Language concept U25)"
+            "የአማርኛ ስነ-ጽሑፍ ታሪክና ደራስያን፣ የግጥም ቅርፅና ቤት መምቻ፣ የሰምና ወርቅ ቅኔያዊ ምስጢር፣ እንዲሁም የስነ-ጽሑፍ ትችት ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ ልቦለድ አይጻፍም። (Core concept alternative form)",
+            "ሁሉም ግጥሞች ቤት መምቻ የላቸውም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 25ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -11908,10 +11908,10 @@
         {
           "prompt": "በ፲፯ኛው መቶ ክፍለ ዘመን «ሐተታ» የተሰኘውን የምክንያታዊ ፍልስፍና መጽሐፍ የጻፉት ኢትዮጵያዊ ፈላስፋ ማን ናቸው?",
           "options": [
-            "ዘርአ ያዕቆብ (Language concept U26)",
-            "ከበደ ሚካኤል (Language concept U26)",
-            "ሐዲስ ዓለማየሁ (Language concept U26)",
-            "በዓሉ ግርማ (Language concept U26)"
+            "ዘርአ ያዕቆብ (Core concept key phrasing)",
+            "ከበደ ሚካኤል (Core concept alternative form)",
+            "ሐዲስ ዓለማየሁ (Core concept alternative form)",
+            "በዓሉ ግርማ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሐተታ» የተሰኘውን ታላቅ ምክንያታዊ የፍልስፍና ድርሰት ያበረከቱት ፈላስፋው ዘርአ ያዕቆብ ናቸው።"
@@ -11923,10 +11923,10 @@
         {
           "prompt": "'Reason, rationale' የሚለውን የፍልስፍና ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ምክንያት (Language concept U26)",
-            "ስሜት (Language concept U26)",
-            "እንቅልፍ (Language concept U26)",
-            "ምግብ (Language concept U26)"
+            "ምክንያት (Core concept key phrasing)",
+            "ስሜት (Core concept alternative form)",
+            "እንቅልፍ (Core concept alternative form)",
+            "ምግብ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ምክንያት» የማሰብ፣ የማመዛዘን እና እውነትን የመመርመር አእምሯዊ አቅም ነው።"
@@ -11939,10 +11939,10 @@
           "type": "multiple-choice",
           "prompt": "የሐተታ ዘርአ ያዕቆብን ፍልስፍናዊ ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሐተታ፣ ዘርአ ያዕቆብ፣ ምክንያት፣ እውነት፣ ማስተዋል እና የልብ ብርሃን። (Language concept U26)",
-            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት። (Language concept U26)",
-            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (Language concept U26)",
-            "በኢትዮጵያ ፍልስፍና የለም። (Language concept U26)"
+            "ሐተታ፣ ዘርአ ያዕቆብ፣ ምክንያት፣ እውነት፣ ማስተዋል እና የልብ ብርሃን። (Core concept alternative form)",
+            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት። (Core concept alternative form)",
+            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (Core concept alternative form)",
+            "በኢትዮጵያ ፍልስፍና የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዘርአ ያዕቆብን ምክንያታዊ የፍልስፍና ቃላት በሙሉ ይዟል።"
@@ -11999,10 +11999,10 @@
         {
           "prompt": "የዘርአ ያዕቆብ ደቀ-መዝሙር የነበሩትና በስነ-ምግባር ዙሪያ የጻፉት ፈላስፋ ማን ናቸው?",
           "options": [
-            "ወልደ ህይወት (Language concept U26)",
-            "ከበደ ሚካኤል (Language concept U26)",
-            "አፈወርቅ ገብረኢየሱስ (Language concept U26)",
-            "ሎሬት ጸጋዬ (Language concept U26)"
+            "ወልደ ህይወት (Core concept key phrasing)",
+            "ከበደ ሚካኤል (Core concept alternative form)",
+            "አፈወርቅ ገብረኢየሱስ (Core concept alternative form)",
+            "ሎሬት ጸጋዬ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ወልደ ህይወት የዘርአ ያዕቆብ ደቀ-መዝሙር ሲሆኑ በማህበራዊ ስነ-ምግባር ዙሪያ ጥልቅ ሐተታ ጽፈዋል።"
@@ -12014,10 +12014,10 @@
         {
           "prompt": "'Ethics, morality' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስነ-ምግባር (Language concept U26)",
-            "ስነ-ጥበብ (Language concept U26)",
-            "ስነ-ህይወት (Language concept U26)",
-            "ስነ-ምድር (Language concept U26)"
+            "ስነ-ምግባር (Core concept key phrasing)",
+            "ስነ-ጥበብ (Core concept alternative form)",
+            "ስነ-ህይወት (Core concept alternative form)",
+            "ስነ-ምድር (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-ምግባር» የሰዎችን መልካም ባህሪ፣ ግዴታ እና ሞራላዊ መርሆዎች የሚያጠና የፍልስፍና ዘርፍ ነው።"
@@ -12030,10 +12030,10 @@
           "type": "multiple-choice",
           "prompt": "የወልደ ህይወትን የስነ-ምግባር ፍልስፍና ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ወልደ ህይወት፣ ስነ-ምግባር፣ የስራ ክብር፣ ፍትህ፣ ቅንነት እና እኩልነት። (Language concept U26)",
-            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ። (Language concept U26)",
-            "ሰዓት፣ ቀን፣ ወር እና አመት። (Language concept U26)",
-            "በአማርኛ ስነ-ምግባር የለም። (Language concept U26)"
+            "ወልደ ህይወት፣ ስነ-ምግባር፣ የስራ ክብር፣ ፍትህ፣ ቅንነት እና እኩልነት። (Core concept alternative form)",
+            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ። (Core concept alternative form)",
+            "ሰዓት፣ ቀን፣ ወር እና አመት። (Core concept alternative form)",
+            "በአማርኛ ስነ-ምግባር የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የወልደ ህይወትን የስነ-ምግባር ፍልስፍናዊ ቃላት በሙሉ ይዟል።"
@@ -12185,10 +12185,10 @@
         {
           "prompt": "በሰው ልጅ ልብ ውስጥ ሆኖ መልካሙን ከክፉው የሚለየው ውስጣዊ ዳኛ ምን ይባላል?",
           "options": [
-            "ህሊና (Language concept U26)",
-            "ፍርሃት (Language concept U26)",
-            "ንዴት (Language concept U26)",
-            "ሀብት (Language concept U26)"
+            "ህሊና (Core concept key phrasing)",
+            "ፍርሃት (Core concept alternative form)",
+            "ንዴት (Core concept alternative form)",
+            "ሀብት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ህሊና» መልካሙንና ክፉውን የሚመዝን እና ሞራላዊ ውሳኔን የሚመራ ውስጣዊ ዳኛ ነው።"
@@ -12200,10 +12200,10 @@
         {
           "prompt": "'Free will' የሚለውን ፍልስፍናዊ ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ነፃ ፈቃድ (Language concept U26)",
-            "ግዴታ ብቻ (Language concept U26)",
-            "ውሸት (Language concept U26)",
-            "አደጋ (Language concept U26)"
+            "ነፃ ፈቃድ (Core concept key phrasing)",
+            "ግዴታ ብቻ (Core concept alternative form)",
+            "ውሸት (Core concept alternative form)",
+            "አደጋ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ነፃ ፈቃድ» የሰው ልጅ የራሱን ምርጫ በነጻነት የመወሰን ፍልስፍናዊ እና ህሊናዊ አቅም ነው።"
@@ -12216,10 +12216,10 @@
           "type": "multiple-choice",
           "prompt": "የህሊና እና የተፈጥሮ ህግ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ህሊና፣ የተፈጥሮ ህግ፣ ነፃ ፈቃድ፣ እኩልነት፣ ሰብአዊ ክብር እና ፍትህ። (Language concept U26)",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና ደብተር። (Language concept U26)",
-            "ሰሌዳ፣ ጠመኔ እና ወንበር። (Language concept U26)",
-            "በአማርኛ የህሊና ጽንሰ-ሀሳብ የለም። (Language concept U26)"
+            "ህሊና፣ የተፈጥሮ ህግ፣ ነፃ ፈቃድ፣ እኩልነት፣ ሰብአዊ ክብር እና ፍትህ። (Core concept alternative form)",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና ደብተር። (Core concept alternative form)",
+            "ሰሌዳ፣ ጠመኔ እና ወንበር። (Core concept alternative form)",
+            "በአማርኛ የህሊና ጽንሰ-ሀሳብ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የህሊና እና የተፈጥሮ ህግጋት መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12277,9 +12277,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ፍልስፍና ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ ፍልስፍና በዘርአ ያዕቆብ ምክንያታዊነት፣ በወልደ ህይወት ስነ-ምግባር እና በህሊና ፍርድ የጎለበተ ነው። (yeh-eet-yoh-P'EE-yah ful-suh-fun-NAH beh-zehr-ah yah-uh-K'OHB muh-kun-yah-tah-WEEN-net, beh-wel-deh huy-WET suh-neh-mug-BAHR un-nah beh-hul-lee-NAH fur-D yeh-goh-leb-beh-TEH new)",
-            "ምንም ፍልስፍና የለም (Language concept U26)",
-            "ሁሉም ተራ ቃላት ናቸው (Language concept U26)",
-            "ምክንያት የለም (Language concept U26)"
+            "ምንም ፍልስፍና የለም (Core concept alternative form)",
+            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
+            "ምክንያት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የዘርአ ያዕቆብን፣ የወልደ ህይወትንና የህሊናን ፍልስፍና በአንድነት ያጠቃለለ ነው።"
@@ -12291,10 +12291,10 @@
         {
           "prompt": "ምክንያታዊነትን እና ስነ-ምግባርን ያጣመረ ትክክለኛ ፍልስፍናዊ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ፈላስፋው እውነትን በምክንያት በመመርመር መልካም ስነ-ምግባርን እና ፍትህን አብራራ። (Language concept U26)",
-            "ምንም ማብራሪያ አልተሰጠም (Language concept U26)",
-            "ስነ-ምግባር የለም (Language concept U26)",
-            "ፍትህ የለም (Language concept U26)"
+            "ፈላስፋው እውነትን በምክንያት በመመርመር መልካም ስነ-ምግባርን እና ፍትህን አብራራ። (Core concept alternative form)",
+            "ምንም ማብራሪያ አልተሰጠም (Core concept alternative form)",
+            "ስነ-ምግባር የለም (Core concept alternative form)",
+            "ፍትህ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ምክንያታዊ ምርምርን እና የስነ-ምግባር ፍልስፍናን በትክክል ያዛምዳል።"
@@ -12307,10 +12307,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 26 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የሐተታ ዘርአ ያዕቆብ ምክንያታዊነት፣ የወልደ ህይወት ስነ-ምግባር፣ የስነ-አመክንዮ መሰረቶች፣ እንዲሁም የህሊና እና የተፈጥሮ ህግጋት ተካተዋል። (Language concept U26)",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Language concept U26)",
-            "በኢትዮጵያ ምክንያታዊ ፍልስፍና አልነበረም። (Language concept U26)",
-            "ሁሉም ሰዎች ተመሳሳይ ህሊና የላቸውም። (Language concept U26)"
+            "የሐተታ ዘርአ ያዕቆብ ምክንያታዊነት፣ የወልደ ህይወት ስነ-ምግባር፣ የስነ-አመክንዮ መሰረቶች፣ እንዲሁም የህሊና እና የተፈጥሮ ህግጋት ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Core concept alternative form)",
+            "በኢትዮጵያ ምክንያታዊ ፍልስፍና አልነበረም። (Core concept alternative form)",
+            "ሁሉም ሰዎች ተመሳሳይ ህሊና የላቸውም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 26ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -12366,10 +12366,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የናፍቆትና የትውስታ ስሜትን የሚገልጸው አንጋፋ የኢትዮጵያ ቅኝት የትኛው ነው?",
           "options": [
-            "ትዝታ (Language concept U27)",
-            "ስፖርት (Language concept U27)",
-            "ቢሮ (Language concept U27)",
-            "መኪና (Language concept U27)"
+            "ትዝታ (Core concept key phrasing)",
+            "ስፖርት (Core concept alternative form)",
+            "ቢሮ (Core concept alternative form)",
+            "መኪና (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ትዝታ» ጥልቅ የናፍቆት እና የትውስታ ስሜትን የሚያንጸባርቅ ዝነኛ የኢትዮጵያ የሙዚቃ ቅኝት ነው።"
@@ -12381,10 +12381,10 @@
         {
           "prompt": "'Musical scale / mode' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቅኝት (Language concept U27)",
-            "ስንኝ (Language concept U27)",
-            "ልቦለድ (Language concept U27)",
-            "ደብዳቤ (Language concept U27)"
+            "ቅኝት (Core concept key phrasing)",
+            "ስንኝ (Core concept alternative form)",
+            "ልቦለድ (Core concept alternative form)",
+            "ደብዳቤ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ቅኝት» በኢትዮጵያ ሙዚቃ ውስጥ የድምፆችን ቅንብርና ዜማዊ ስልት የሚያመለክት ቃል ነው።"
@@ -12397,10 +12397,10 @@
           "type": "multiple-choice",
           "prompt": "አራቱን የኢትዮጵያ ባህላዊ ቅኝቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ትዝታ፣ ባቲ፣ አምባሰል እና አንቺሆዬ። (Language concept U27)",
-            "ጨው፣ በርበሬ፣ ዘይት እና ሽንኩርት። (Language concept U27)",
-            "እርሳስ፣ ደብተር፣ ላጲስ እና መቅረጫ። (Language concept U27)",
-            "በኢትዮጵያ ቅኝት የለም። (Language concept U27)"
+            "ትዝታ፣ ባቲ፣ አምባሰል እና አንቺሆዬ። (Core concept alternative form)",
+            "ጨው፣ በርበሬ፣ ዘይት እና ሽንኩርት። (Core concept alternative form)",
+            "እርሳስ፣ ደብተር፣ ላጲስ እና መቅረጫ። (Core concept alternative form)",
+            "በኢትዮጵያ ቅኝት የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን ዋና ዋና ባህላዊ ቅኝቶች በሙሉ ይዟል።"
@@ -12456,10 +12456,10 @@
         {
           "prompt": "ባለ አንድ አውታር ሆኖ በቀስት የሚጫወቱት ታዋቂው የኢትዮጵያ ባህላዊ የሙዚቃ መሳሪያ የትኛው ነው?",
           "options": [
-            "ማሲንቆ (Language concept U27)",
-            "ከበሮ (Language concept U27)",
-            "ፒያኖ (Language concept U27)",
-            "ጊታር (Language concept U27)"
+            "ማሲንቆ (Core concept key phrasing)",
+            "ከበሮ (Core concept alternative form)",
+            "ፒያኖ (Core concept alternative form)",
+            "ጊታር (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ማሲንቆ» ባለ አንድ አውታር ሆኖ በፈረስ ጭራ ቀስት የሚደረደር የኢትዮጵያ አንጋፋ መሳሪያ ነው።"
@@ -12471,10 +12471,10 @@
         {
           "prompt": "ባለ አስር አውታር ሆኖ ለመንፈሳዊ ዜማ የሚያገለግለው መሳሪያ ምን ይባላል?",
           "options": [
-            "በገና (Language concept U27)",
-            "ዋሽንት (Language concept U27)",
-            "ከበሮ (Language concept U27)",
-            "መለከት (Language concept U27)"
+            "በገና (Core concept key phrasing)",
+            "ዋሽንት (Core concept alternative form)",
+            "ከበሮ (Core concept alternative form)",
+            "መለከት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«በገና» ባለ አስር አውታር የሆነ እና ለመንፈሳዊ ተመስጦ የሚያገለግል ጥንታዊ መሳሪያ ነው።"
@@ -12487,10 +12487,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን ባህላዊ የሙዚቃ መሳሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ክራር፣ ማሲንቆ፣ ዋሽንት፣ ከበሮ፣ በገና እና ጸናጽል። (Language concept U27)",
-            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ። (Language concept U27)",
-            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ። (Language concept U27)",
-            "በኢትዮጵያ የሙዚቃ መሳሪያ የለም። (Language concept U27)"
+            "ክራር፣ ማሲንቆ፣ ዋሽንት፣ ከበሮ፣ በገና እና ጸናጽል። (Core concept alternative form)",
+            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ። (Core concept alternative form)",
+            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ። (Core concept alternative form)",
+            "በኢትዮጵያ የሙዚቃ መሳሪያ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ የሙዚቃ መሳሪያዎችን በሙሉ ይዟል።"
@@ -12547,10 +12547,10 @@
         {
           "prompt": "በ፮ኛው መቶ ክፍለ ዘመን የኢትዮጵያን የዜማ ስልቶች እና የሙዚቃ ኖታዎችን ያዘጋጁት ሊቅ ማን ናቸው?",
           "options": [
-            "ቅዱስ ያሬድ (Language concept U27)",
-            "ከበደ ሚካኤል (Language concept U27)",
-            "ሐዲስ ዓለማየሁ (Language concept U27)",
-            "ዘርአ ያዕቆብ (Language concept U27)"
+            "ቅዱስ ያሬድ (Core concept key phrasing)",
+            "ከበደ ሚካኤል (Core concept alternative form)",
+            "ሐዲስ ዓለማየሁ (Core concept alternative form)",
+            "ዘርአ ያዕቆብ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ቅዱስ ያሬድ በስድስተኛው መቶ ክፍለ ዘመን ግዕዝ፣ እዝልና አራራይ የተባሉትን ሶስት የዜማ ስልቶች የፈጠሩ ታላቅ ሊቅ ናቸው።"
@@ -12562,10 +12562,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የያሬዳዊ ዜማ ሶስቱን ስልቶች በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ግዕዝ፣ እዝል እና አራራይ (Language concept U27)",
-            "ትዝታ፣ ባቲ እና አምባሰል (Language concept U27)",
-            "ክራር፣ ማሲንቆ እና በገና (Language concept U27)",
-            "ሰኞ፣ ማክሰኞ እና እሮብ (Language concept U27)"
+            "ግዕዝ፣ እዝል እና አራራይ (Core concept alternative form)",
+            "ትዝታ፣ ባቲ እና አምባሰል (Core concept alternative form)",
+            "ክራር፣ ማሲንቆ እና በገና (Core concept alternative form)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ግዕዝ፣ እዝልና አራራይ የቅዱስ ያሬድ ሶስቱ መሰረታዊ የዜማ ስልቶች ናቸው።"
@@ -12578,10 +12578,10 @@
           "type": "multiple-choice",
           "prompt": "የያሬዳዊ ዜማ እና የዝማሬ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቅዱስ ያሬድ፣ ግዕዝ፣ እዝል፣ አራራይ፣ ጸናጽል እና መቋሚያ። (Language concept U27)",
-            "ስጋ፣ ዳቦ፣ ቅቤ እና ወተት። (Language concept U27)",
-            "ጫማ፣ ኮት እና ሱሪ። (Language concept U27)",
-            "በኢትዮጵያ የዜማ ስልት የለም። (Language concept U27)"
+            "ቅዱስ ያሬድ፣ ግዕዝ፣ እዝል፣ አራራይ፣ ጸናጽል እና መቋሚያ። (Core concept alternative form)",
+            "ስጋ፣ ዳቦ፣ ቅቤ እና ወተት። (Core concept alternative form)",
+            "ጫማ፣ ኮት እና ሱሪ። (Core concept alternative form)",
+            "በኢትዮጵያ የዜማ ስልት የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የያሬዳዊ ዜማ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12728,9 +12728,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ሙዚቃ ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ ሙዚቃ በአራቱ ቅኝቶች፣ በባህላዊ መሳሪያዎች፣ በያሬዳዊ ዜማ እና በኢትዮ-ጃዝ ጥበብ የደመቀ ነው። (yeh-eet-yoh-P'EE-yah moo-zee-KAH beh-ah-raht-TOO k'un-yeh-TOHCH, beh-bah-huh-lah-WEE meh-sah-ree-yah-WOHCH, beh-yah-ray-dah-WEE zay-MAH un-nah beh-eet-yoh-JAHZ t'uh-BEB yeh-dem-meh-K'EH new)",
-            "ምንም ሙዚቃ የለም (Language concept U27)",
-            "ሁሉም ተራ ቃላት ናቸው (Language concept U27)",
-            "ዜማ የለም (Language concept U27)"
+            "ምንም ሙዚቃ የለም (Core concept alternative form)",
+            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
+            "ዜማ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቅኝቶችን፣ ባህላዊ መሳሪያዎችን፣ የያሬድ ዜማንና ዘመናዊ ጃዝን በአንድነት ያጠቃለለ ነው።"
@@ -12742,10 +12742,10 @@
         {
           "prompt": "ቅኝትን እና የሙዚቃ መሳሪያዎችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ድምጻዊው በማሲንቆ እና በክራር እየታጀበ በትዝታ ቅኝት የተዋበ ዜማ አቀረበ። (Language concept U27)",
-            "ምንም ዜማ አልቀረበም (Language concept U27)",
-            "መሳሪያ የለም (Language concept U27)",
-            "ቅኝት የለም (Language concept U27)"
+            "ድምጻዊው በማሲንቆ እና በክራር እየታጀበ በትዝታ ቅኝት የተዋበ ዜማ አቀረበ። (Core concept alternative form)",
+            "ምንም ዜማ አልቀረበም (Core concept alternative form)",
+            "መሳሪያ የለም (Core concept alternative form)",
+            "ቅኝት የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቅኝትን እና ባህላዊ መሳሪያዎችን በትክክል ያዛምዳል።"
@@ -12758,10 +12758,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 27 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "አራቱ ባህላዊ ቅኝቶች፣ ባህላዊ የሙዚቃ መሳሪያዎች፣ የያሬዳዊ ዜማ ስልቶች፣ እንዲሁም የዘመናዊ ኢትዮ-ጃዝ ቅንብር ተካተዋል። (Language concept U27)",
-            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (Language concept U27)",
-            "በኢትዮጵያ ሙዚቃ አልነበረም። (Language concept U27)",
-            "ሁሉም ቅኝቶች ተመሳሳይ ናቸው። (Language concept U27)"
+            "አራቱ ባህላዊ ቅኝቶች፣ ባህላዊ የሙዚቃ መሳሪያዎች፣ የያሬዳዊ ዜማ ስልቶች፣ እንዲሁም የዘመናዊ ኢትዮ-ጃዝ ቅንብር ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (Core concept alternative form)",
+            "በኢትዮጵያ ሙዚቃ አልነበረም። (Core concept alternative form)",
+            "ሁሉም ቅኝቶች ተመሳሳይ ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 27ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -12817,10 +12817,10 @@
         {
           "prompt": "በብራና መጻሕፍት ላይ የተሳለውን ጥንታዊ የብርሃን እና የኪነ-ጥበብ ስራ ምን ብለን እንጠራዋለን?",
           "options": [
-            "ብርሃነ-ስዕል (Language concept U28)",
-            "ጋዜጣ (Language concept U28)",
-            "መስታወት (Language concept U28)",
-            "ሰዓት (Language concept U28)"
+            "ብርሃነ-ስዕል (Core concept key phrasing)",
+            "ጋዜጣ (Core concept alternative form)",
+            "መስታወት (Core concept alternative form)",
+            "ሰዓት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ብርሃነ-ስዕል» በጥንታዊ የብራና መጻሕፍት ውስጥ የሚሳል ረቂቅና ያጌጠ መንፈሳዊ ስዕል ነው።"
@@ -12832,10 +12832,10 @@
         {
           "prompt": "'Painting, drawing' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስዕል (Language concept U28)",
-            "ዘፈን (Language concept U28)",
-            "ዳንስ (Language concept U28)",
-            "ሩጫ (Language concept U28)"
+            "ስዕል (Core concept key phrasing)",
+            "ዘፈን (Core concept alternative form)",
+            "ዳንስ (Core concept alternative form)",
+            "ሩጫ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ስዕል» በቀለማትና በመስመሮች የሚገለጽ የእይታ ጥበብ ነው።"
@@ -12848,10 +12848,10 @@
           "type": "multiple-choice",
           "prompt": "የጥንታዊ ስዕል እና የብራና ኪነ-ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስዕል፣ ሰዓሊ፣ ብርሃነ-ስዕል፣ ብራና፣ ቀለማት እና ምስል። (Language concept U28)",
-            "ድንጋይ፣ አሸዋ፣ ሲሚንቶ እና ብረት። (Language concept U28)",
-            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (Language concept U28)",
-            "በኢትዮጵያ የስዕል ጥበብ አልነበረም። (Language concept U28)"
+            "ስዕል፣ ሰዓሊ፣ ብርሃነ-ስዕል፣ ብራና፣ ቀለማት እና ምስል። (Core concept alternative form)",
+            "ድንጋይ፣ አሸዋ፣ ሲሚንቶ እና ብረት። (Core concept alternative form)",
+            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (Core concept alternative form)",
+            "በኢትዮጵያ የስዕል ጥበብ አልነበረም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስነ-ስዕል እና የብርሃነ-ስዕል መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12908,10 +12908,10 @@
         {
           "prompt": "ከአንድ ወጥ አለት ተፈልፍለው የተሰሩትን አስራ አንዱን ውቅር አብያተ ክርስቲያናት ያነጹት ንጉሥ ማን ናቸው?",
           "options": [
-            "ቅዱስ ላሊበላ (Language concept U28)",
-            "ቴዎድሮስ (Language concept U28)",
-            "ዮሐንስ (Language concept U28)",
-            "ምኒልክ (Language concept U28)"
+            "ቅዱስ ላሊበላ (Core concept key phrasing)",
+            "ቴዎድሮስ (Core concept alternative form)",
+            "ዮሐንስ (Core concept alternative form)",
+            "ምኒልክ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ቅዱስ ላሊበላ በ፲፪ኛው መቶ ክፍለ ዘመን ታላላቆቹን ውቅር አብያተ ክርስቲያናት ያነጹ ንጉሥ ናቸው።"
@@ -12923,10 +12923,10 @@
         {
           "prompt": "'Rock-hewn, carved from rock' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ውቅር (Language concept U28)",
-            "እንጨት (Language concept U28)",
-            "ፕላስቲክ (Language concept U28)",
-            "ጭቃ (Language concept U28)"
+            "ውቅር (Core concept key phrasing)",
+            "እንጨት (Core concept alternative form)",
+            "ፕላስቲክ (Core concept alternative form)",
+            "ጭቃ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ውቅር» ከአለት ወይም ከድንጋይ ተፈልፍሎ የተሰራ ህንፃን የሚያመለክት ቃል ነው።"
@@ -12939,10 +12939,10 @@
           "type": "multiple-choice",
           "prompt": "የላሊበላን እና የድንጋይ ውቅር ኪነ-ህንፃ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ላሊበላ፣ ውቅር፣ ወጥ አለት፣ ቤተ ጊዮርጊስ፣ ኪነ-ህንፃ እና መሃንዲስ። (Language concept U28)",
-            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (Language concept U28)",
-            "መኪና፣ ባቡር፣ አውሮፕላን እና ጀልባ። (Language concept U28)",
-            "በላሊበላ ውቅር ህንፃ የለም። (Language concept U28)"
+            "ላሊበላ፣ ውቅር፣ ወጥ አለት፣ ቤተ ጊዮርጊስ፣ ኪነ-ህንፃ እና መሃንዲስ። (Core concept alternative form)",
+            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (Core concept alternative form)",
+            "መኪና፣ ባቡር፣ አውሮፕላን እና ጀልባ። (Core concept alternative form)",
+            "በላሊበላ ውቅር ህንፃ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የላሊበላን ውቅር ኪነ-ህንፃ መሰረታዊ ቃላት በሙሉ ይዟል።"
@@ -12998,10 +12998,10 @@
         {
           "prompt": "በ፲፯ኛው መቶ ክፍለ ዘመን በጎንደር ከተማ ታላቁን የፋሲል ግቢ ቤተ-መንግስት ያስገነቡት ንጉሥ ማን ናቸው?",
           "options": [
-            "አፄ ፋሲለደስ (Language concept U28)",
-            "ቴዎድሮስ (Language concept U28)",
-            "ሱሰኒዮስ (Language concept U28)",
-            "ኢያሱ (Language concept U28)"
+            "አፄ ፋሲለደስ (Core concept key phrasing)",
+            "ቴዎድሮስ (Core concept alternative form)",
+            "ሱሰኒዮስ (Core concept alternative form)",
+            "ኢያሱ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "አፄ ፋሲለደስ በ1636 ዓ.ም ጎንደርን ዋና ከተማ አድርገው በመሰየም የፋሲል ግቢ ግንቦችን አሳንጸዋል።"
@@ -13013,10 +13013,10 @@
         {
           "prompt": "'Castle, stone fortress' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ግንብ (Language concept U28)",
-            "ድንኳን (Language concept U28)",
-            "ጎጆ (Language concept U28)",
-            "ጀልባ (Language concept U28)"
+            "ግንብ (Core concept key phrasing)",
+            "ድንኳን (Core concept alternative form)",
+            "ጎጆ (Core concept alternative form)",
+            "ጀልባ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ግንብ» ከድንጋይና ከኖራ በከፍተኛ ጥንካሬ የሚገነባ ታሪካዊ ቤተ-መንግስት ወይም ምሽግ ነው።"
@@ -13029,10 +13029,10 @@
           "type": "multiple-choice",
           "prompt": "የፋሲል ግቢ እና የጎንደር ግንቦችን ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ፋሲል ግቢ፣ አፄ ፋሲለደስ፣ ግንብ፣ ቤተ-መንግስት፣ ቅጥር እና ጎንደር። (Language concept U28)",
-            "ወተት፣ ቅቤ፣ እርጎ እና አይብ። (Language concept U28)",
-            "ወረቀት፣ እስክሪብቶ እና ላጲስ። (Language concept U28)",
-            "በጎንደር ምንም ግንብ የለም። (Language concept U28)"
+            "ፋሲል ግቢ፣ አፄ ፋሲለደስ፣ ግንብ፣ ቤተ-መንግስት፣ ቅጥር እና ጎንደር። (Core concept alternative form)",
+            "ወተት፣ ቅቤ፣ እርጎ እና አይብ። (Core concept alternative form)",
+            "ወረቀት፣ እስክሪብቶ እና ላጲስ። (Core concept alternative form)",
+            "በጎንደር ምንም ግንብ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የጎንደር እና የፋሲል ግቢ ታሪካዊ ቃላትን በሙሉ ይዟል።"
@@ -13088,10 +13088,10 @@
         {
           "prompt": "የሐረር ከተማን ከበባ የያዘውና በዩኔስኮ የተመዘገበው ጥንታዊ ግንብ ምን ይባላል?",
           "options": [
-            "ጁጎል (Language concept U28)",
-            "ፋሲል (Language concept U28)",
-            "ላሊበላ (Language concept U28)",
-            "አክሱም (Language concept U28)"
+            "ጁጎል (Core concept key phrasing)",
+            "ፋሲል (Core concept alternative form)",
+            "ላሊበላ (Core concept alternative form)",
+            "አክሱም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጁጎል» የሐረርን ጥንታዊ ከተማ የከበበ አምስት በሮች ያሉት ታሪካዊ ግንብ ነው።"
@@ -13103,10 +13103,10 @@
         {
           "prompt": "የሐረሪ ባህላዊ የመኖሪያ ቤት ምን ተብሎ ይጠራል?",
           "options": [
-            "ጌይ ጋር (Language concept U28)",
-            "ፎቅ ብቻ (Language concept U28)",
-            "ጎጆ ብቻ (Language concept U28)",
-            "ድንኳን (Language concept U28)"
+            "ጌይ ጋር (Core concept key phrasing)",
+            "ፎቅ ብቻ (Core concept alternative form)",
+            "ጎጆ ብቻ (Core concept alternative form)",
+            "ድንኳን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ጌይ ጋር» ልዩ የስነ-ህንፃ ጥበብና ውስጣዊ ጌጦች ያሉት ባህላዊ የሐረር ቤት ነው።"
@@ -13119,10 +13119,10 @@
           "type": "multiple-choice",
           "prompt": "የሐረር ጁጎልን እና ባህላዊ ኪነ-ህንፃን ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሐረር፣ ጁጎል፣ አምስቱ በሮች፣ ጌይ ጋር፣ ቅጥር እና እደ-ጥበብ። (Language concept U28)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ጃኬት። (Language concept U28)",
-            "ብርቱካን፣ ሙዝ፣ ማንጎ እና ፓፓያ። (Language concept U28)",
-            "በሐረር ግንብ የለም። (Language concept U28)"
+            "ሐረር፣ ጁጎል፣ አምስቱ በሮች፣ ጌይ ጋር፣ ቅጥር እና እደ-ጥበብ። (Core concept alternative form)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ጃኬት። (Core concept alternative form)",
+            "ብርቱካን፣ ሙዝ፣ ማንጎ እና ፓፓያ። (Core concept alternative form)",
+            "በሐረር ግንብ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሐረር ጁጎልን እና ባህላዊ ቤቶችን ቃላት በሙሉ ይዟል።"
@@ -13180,9 +13180,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ስነ-ህንፃ እና የስነ-ጥበብ ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ ስነ-ህንፃ እና ኪነ-ጥበብ በላሊበላ ውቅር፣ በፋሲል ግንቦች፣ በሐረር ጁጎልና በብራና ስዕሎች የደመቀ ነው። (yeh-eet-yoh-P'EE-yah suh-neh-hun-TS'AH un-nah kee-neh-t'uh-BEB beh-lah-lee-beh-LAH wuh-K'UR, beh-fah-SEEL gun-BOHCH, beh-hah-RER joo-GOHL un-nah beh-bur-AHN-nah suh-ul-OHCH yeh-dem-meh-K'EH new)",
-            "ምንም ቅርስ የለም (Language concept U28)",
-            "ሁሉም ተራ ቃላት ናቸው (Language concept U28)",
-            "ህንፃ የለም (Language concept U28)"
+            "ምንም ቅርስ የለም (Core concept alternative form)",
+            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
+            "ህንፃ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ላሊበላን፣ ፋሲል ግቢን፣ ሐረር ጁጎልንና ስነ-ስዕልን በአንድነት ያጠቃለለ ነው።"
@@ -13194,10 +13194,10 @@
         {
           "prompt": "ኪነ-ህንፃን እና ታሪካዊ ቅርሶችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ጎብኚዎቹ የላሊበላን ውቅር አብያተ ክርስቲያናት እና የፋሲል ግንቦችን በጥልቀት ተመለከቱ። (Language concept U28)",
-            "ምንም እይታ አልነበረም (Language concept U28)",
-            "ግንብ የለም (Language concept U28)",
-            "ውቅር የለም (Language concept U28)"
+            "ጎብኚዎቹ የላሊበላን ውቅር አብያተ ክርስቲያናት እና የፋሲል ግንቦችን በጥልቀት ተመለከቱ። (Core concept alternative form)",
+            "ምንም እይታ አልነበረም (Core concept alternative form)",
+            "ግንብ የለም (Core concept alternative form)",
+            "ውቅር የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ውቅር አብያተ ክርስቲያናትን እና ታሪካዊ ግንቦችን በትክክል ያዛምዳል።"
@@ -13210,10 +13210,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 28 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የአብያተ ክርስቲያናት ስዕሎች፣ የላሊበላ ውቅር ድንጋዮች፣ የፋሲል ግቢ ግንቦች፣ እንዲሁም የሐረር ጁጎል ቅጥር ተካተዋል። (Language concept U28)",
-            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (Language concept U28)",
-            "በኢትዮጵያ ስነ-ህንፃ አልነበረም። (Language concept U28)",
-            "ሁሉም ህንፃዎች ተመሳሳይ ናቸው። (Language concept U28)"
+            "የአብያተ ክርስቲያናት ስዕሎች፣ የላሊበላ ውቅር ድንጋዮች፣ የፋሲል ግቢ ግንቦች፣ እንዲሁም የሐረር ጁጎል ቅጥር ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (Core concept alternative form)",
+            "በኢትዮጵያ ስነ-ህንፃ አልነበረም። (Core concept alternative form)",
+            "ሁሉም ህንፃዎች ተመሳሳይ ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 28ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -13545,10 +13545,10 @@
         {
           "prompt": "በሰሜን ተራሮች ገደላገደል ላይ ብቻ የሚኖረውና በኢትዮጵያ ብቻ የሚገኘው ብርቅዬ የሜዳ ፍየል ምን ይባላል?",
           "options": [
-            "ዋሊያ አይቤክስ (Language concept U29)",
-            "አንበሳ (Language concept U29)",
-            "ነብር (Language concept U29)",
-            "ዝሆን (Language concept U29)"
+            "ዋሊያ አይቤክስ (Core concept alternative form)",
+            "አንበሳ (Core concept alternative form)",
+            "ነብር (Core concept alternative form)",
+            "ዝሆን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዋሊያ» በኢትዮጵያ ሰሜን ተራሮች ብቻ የሚገኝ ታዋቂ ብርቅዬ የዱር እንስሳ ነው።"
@@ -13560,10 +13560,10 @@
         {
           "prompt": "'National park' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ብሔራዊ ፓርክ (Language concept U29)",
-            "የቤት ግቢ (Language concept U29)",
-            "የገበያ ቦታ (Language concept U29)",
-            "የከተማ አዳራሽ (Language concept U29)"
+            "ብሔራዊ ፓርክ (Core concept key phrasing)",
+            "የቤት ግቢ (Core concept alternative form)",
+            "የገበያ ቦታ (Core concept alternative form)",
+            "የከተማ አዳራሽ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ብሔራዊ ፓርክ» የዱር አራዊትና የተፈጥሮ ሀብት በጥበቃ ስር የሚቆዩበት ህጋዊ ክልል ነው።"
@@ -13576,10 +13576,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን ብርቅዬ የዱር እንስሳት እና ፓርኮች ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ብሔራዊ ፓርክ፣ ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ፣ ሰሜን እና ባሌ። (Language concept U29)",
-            "ልብስ፣ ጫማ፣ ካልሲ እና ባርኔጣ። (Language concept U29)",
-            "ዳቦ፣ ስንዴ፣ ገብስ እና ጤፍ። (Language concept U29)",
-            "በኢትዮጵያ ብርቅዬ እንስሳት የሉም። (Language concept U29)"
+            "ብሔራዊ ፓርክ፣ ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ፣ ሰሜን እና ባሌ። (Core concept alternative form)",
+            "ልብስ፣ ጫማ፣ ካልሲ እና ባርኔጣ። (Core concept alternative form)",
+            "ዳቦ፣ ስንዴ፣ ገብስ እና ጤፍ። (Core concept alternative form)",
+            "በኢትዮጵያ ብርቅዬ እንስሳት የሉም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ብርቅዬ እንስሳትንና ብሔራዊ ፓርኮችን በሙሉ ይዟል።"
@@ -13636,9 +13636,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአካባቢ ሳይንስ እና የተፈጥሮ ሀብት ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ የአካባቢ ጥበቃ በደን ልማት፣ በህዳሴ ግድብ፣ በአረንጓዴ አሻራ እና በፓርኮች ጥበቃ የተሳሰረ ነው። (yeh-eet-yoh-P'EE-yah yeh-ah-kah-bah-BEE t'uh-beh-K'AH beh-DEN luh-MAHT, beh-hud-dah-SAY gud-DUB, beh-ah-ren-gwar-DAY ah-shah-RAH un-nah beh-pahr-KOHCH t'uh-beh-K'AH yeh-teh-sahs-seh-REH new)",
-            "ምንም የተፈጥሮ ሀብት የለም (Language concept U29)",
-            "ሁሉም ተራ ቃላት ናቸው (Language concept U29)",
-            "አካባቢ የለም (Language concept U29)"
+            "ምንም የተፈጥሮ ሀብት የለም (Core concept alternative form)",
+            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
+            "አካባቢ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ደንን፣ ውሃን፣ አረንጓዴ አሻራንና ብሔራዊ ፓርኮችን በአንድነት ያጠቃለለ ነው።"
@@ -13650,10 +13650,10 @@
         {
           "prompt": "የአካባቢ ጥበቃን እና የተፈጥሮ ሀብትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ህብረተሰቡ ችግኝ በመትከል እና ደኖችን በመንከባከብ የስነ-ምህዳር ሚዛንን ጠበቀ። (Language concept U29)",
-            "ምንም እንክብካቤ አልተደረገም (Language concept U29)",
-            "ደን የለም (Language concept U29)",
-            "ችግኝ የለም (Language concept U29)"
+            "ህብረተሰቡ ችግኝ በመትከል እና ደኖችን በመንከባከብ የስነ-ምህዳር ሚዛንን ጠበቀ። (Core concept alternative form)",
+            "ምንም እንክብካቤ አልተደረገም (Core concept alternative form)",
+            "ደን የለም (Core concept alternative form)",
+            "ችግኝ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ችግኝ ተከላን እና የስነ-ምህዳር ጥበቃን በትክክል ያዛምዳል።"
@@ -13666,10 +13666,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 29 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የደን ጥበቃ፣ የውሃ ሀብትና የህዳሴ ግድብ፣ የአረንጓዴ አሻራ ችግኞች፣ እንዲሁም ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት ተካተዋል። (Language concept U29)",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Language concept U29)",
-            "በኢትዮጵያ ፓርክ አልነበረም። (Language concept U29)",
-            "ሁሉም ወንዞች ተመሳሳይ ናቸው። (Language concept U29)"
+            "የደን ጥበቃ፣ የውሃ ሀብትና የህዳሴ ግድብ፣ የአረንጓዴ አሻራ ችግኞች፣ እንዲሁም ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Core concept alternative form)",
+            "በኢትዮጵያ ፓርክ አልነበረም። (Core concept alternative form)",
+            "ሁሉም ወንዞች ተመሳሳይ ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 29ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -13816,10 +13816,10 @@
         {
           "prompt": "በኢትዮጵያ ማህበረሰብ ውስጥ በሰዎች መካከል የተፈጠረን አለመግባባት በሰላም ለማስታረቅ የሚካሄደው ባህላዊ መንገድ ምን ይባላል?",
           "options": [
-            "ሽምግልና (Language concept U30)",
-            "ጦርነት (Language concept U30)",
-            "ፍጥጫ (Language concept U30)",
-            "ክስ ብቻ (Language concept U30)"
+            "ሽምግልና (Core concept key phrasing)",
+            "ጦርነት (Core concept alternative form)",
+            "ፍጥጫ (Core concept alternative form)",
+            "ክስ ብቻ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሽምግልና» በሽማግሌዎች ጥረት የተጣሉትን የሚያስታርቅ ጥንታዊ ባህላዊ መንገድ ነው።"
@@ -13831,10 +13831,10 @@
         {
           "prompt": "'Reconciliation, peace settlement' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እርቅ (Language concept U30)",
-            "ጸብ (Language concept U30)",
-            "ቂም (Language concept U30)",
-            "ንትርክ (Language concept U30)"
+            "እርቅ (Core concept key phrasing)",
+            "ጸብ (Core concept alternative form)",
+            "ቂም (Core concept key phrasing)",
+            "ንትርክ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«እርቅ» ቂም በቀልን አስወግዶ ወደ ሰላማዊ ግንኙነት መመለስ ነው።"
@@ -13847,10 +13847,10 @@
           "type": "multiple-choice",
           "prompt": "የሽምግልና እና የባህላዊ እርቅ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሽምግልና፣ እርቅ፣ ይቅርታ፣ ካሳ፣ የሀገር ሽማግሌ እና ማህበራዊ ሰላም። (Language concept U30)",
-            "መኪና፣ ባቡር፣ አውሮፕላን እና መርከብ። (Language concept U30)",
-            "እንጀራ፣ ወጥ፣ ዶሮ እና ጠጅ። (Language concept U30)",
-            "በኢትዮጵያ ሽምግልና የለም። (Language concept U30)"
+            "ሽምግልና፣ እርቅ፣ ይቅርታ፣ ካሳ፣ የሀገር ሽማግሌ እና ማህበራዊ ሰላም። (Core concept alternative form)",
+            "መኪና፣ ባቡር፣ አውሮፕላን እና መርከብ። (Core concept alternative form)",
+            "እንጀራ፣ ወጥ፣ ዶሮ እና ጠጅ። (Core concept alternative form)",
+            "በኢትዮጵያ ሽምግልና የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሽምግልና እና የእርቅ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -13907,10 +13907,10 @@
         {
           "prompt": "በኦሮሞ ህዝብ ባህል ውስጥ በየስምንት ዓመቱ ሰላማዊ የስልጣን ሽግግር የሚያካሂደውና በዩኔስኮ የተመዘገበው ታዋቂው ስርዓት ማን ይባላል?",
           "options": [
-            "የገዳ ስርዓት (Language concept U30)",
-            "ንግስና ብቻ (Language concept U30)",
-            "ውትድርና ብቻ (Language concept U30)",
-            "ምንም ስርዓት አልነበረም (Language concept U30)"
+            "የገዳ ስርዓት (Core concept key phrasing)",
+            "ንግስና ብቻ (Core concept alternative form)",
+            "ውትድርና ብቻ (Core concept alternative form)",
+            "ምንም ስርዓት አልነበረም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የገዳ ስርዓት» በየ፰ ዓመቱ የስልጣን ሽግግር የሚያደርግ ጥንታዊ ዴሞክራሲያዊ የህግና የአስተዳደር ስርዓት ነው።"
@@ -13922,10 +13922,10 @@
         {
           "prompt": "'Democratic governance, civic rule' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ዴሞክራሲያዊ አስተዳደር (Language concept U30)",
-            "አምባገነንነት (Language concept U30)",
-            "ህገ-ወጥነት (Language concept U30)",
-            "ትርምስ (Language concept U30)"
+            "ዴሞክራሲያዊ አስተዳደር (Core concept key phrasing)",
+            "አምባገነንነት (Core concept alternative form)",
+            "ህገ-ወጥነት (Core concept alternative form)",
+            "ትርምስ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዴሞክራሲያዊ አስተዳደር» የህዝብ ተሳትፎና የህግ የበላይነት ያለበት ፍትሃዊ የአመራር ስርዓት ነው።"
@@ -13938,10 +13938,10 @@
           "type": "multiple-choice",
           "prompt": "የገዳ ስርዓት እና የዴሞክራሲ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ገዳ፣ አባ ገዳ፣ ጫፌ፣ የስልጣን ሽግግር፣ እኩልነት እና ዴሞክራሲ። (Language concept U30)",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና ቀለም። (Language concept U30)",
-            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (Language concept U30)",
-            "በገዳ ስርዓት ህግ የለም። (Language concept U30)"
+            "ገዳ፣ አባ ገዳ፣ ጫፌ፣ የስልጣን ሽግግር፣ እኩልነት እና ዴሞክራሲ። (Core concept alternative form)",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና ቀለም። (Core concept alternative form)",
+            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (Core concept alternative form)",
+            "በገዳ ስርዓት ህግ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የገዳ ስርዓት እና የዴሞክራሲያዊ አስተዳደር ቃላትን በሙሉ ይዟል።"
@@ -13997,10 +13997,10 @@
         {
           "prompt": "«Human rights» የሚለውን ዓለም አቀፍ የህግ ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሰብአዊ መብቶች (Language concept U30)",
-            "የንግድ ህግ (Language concept U30)",
-            "የትራፊክ ህግ (Language concept U30)",
-            "የግብር ህግ (Language concept U30)"
+            "ሰብአዊ መብቶች (Core concept key phrasing)",
+            "የንግድ ህግ (Core concept alternative form)",
+            "የትራፊክ ህግ (Core concept alternative form)",
+            "የግብር ህግ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰብአዊ መብቶች» የሰው ልጅ በመሆኑ ብቻ የሚገቡት መሰረታዊ ነፃነቶችና መብቶች ናቸው።"
@@ -14012,10 +14012,10 @@
         {
           "prompt": "'Rule of law' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የህግ የበላይነት (Language concept U30)",
-            "የጉልበት የበላይነት (Language concept U30)",
-            "የስልጣን ጥማት (Language concept U30)",
-            "አምባገነንነት (Language concept U30)"
+            "የህግ የበላይነት (Core concept key phrasing)",
+            "የጉልበት የበላይነት (Core concept alternative form)",
+            "የስልጣን ጥማት (Core concept alternative form)",
+            "አምባገነንነት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የህግ የበላይነት» ማንም ሰው ከህግ በላይ እንደማይሆን የሚያረጋግጥ መርህ ነው።"
@@ -14028,10 +14028,10 @@
           "type": "multiple-choice",
           "prompt": "የሰብአዊ መብቶች እና የህግ የበላይነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሰብአዊ መብቶች፣ የህግ የበላይነት፣ ህገ-መንግስት፣ ነፃነት እና እኩልነት። (Language concept U30)",
-            "ሻይ፣ ስኳር፣ ወተት እና ዳቦ። (Language concept U30)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (Language concept U30)",
-            "በህግ የበላይነት መብት የለም። (Language concept U30)"
+            "ሰብአዊ መብቶች፣ የህግ የበላይነት፣ ህገ-መንግስት፣ ነፃነት እና እኩልነት። (Core concept alternative form)",
+            "ሻይ፣ ስኳር፣ ወተት እና ዳቦ። (Core concept alternative form)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (Core concept alternative form)",
+            "በህግ የበላይነት መብት የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰብአዊ መብቶች እና የህገ-መንግስት ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -14088,9 +14088,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ የህግ እና የፍትህ ፍልስፍና ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ የህግ ፍልስፍና በፍትሐ ነገሥት፣ በሽምግልና እርቅ፣ በገዳ ስርዓት እና በህገ-መንግስታዊ መርሆዎች የዳበረ ነው። (yeh-eet-yoh-P'EE-yah yeh-HUG fuh-luh-suh-FUN-nah beh-fuh-tuh-HAH neh-GEST, beh-shum-uh-guhl-un-NAH urk', beh-GEH-dah sur-'AHT un-nah beh-hug-geh-men-guh-suh-tah-WEE mer-HOHCH yeh-dahb-beh-REH new)",
-            "ምንም ህግ የለም (Language concept U30)",
-            "ሁሉም ተራ ቃላት ናቸው (Language concept U30)",
-            "ፍትህ የለም (Language concept U30)"
+            "ምንም ህግ የለም (Core concept alternative form)",
+            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
+            "ፍትህ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ፍትሐ ነገሥትን፣ ሽምግልናን፣ ገዳንና ህገ-መንግስትን በአንድነት ያጠቃለለ ነው።"
@@ -14102,10 +14102,10 @@
         {
           "prompt": "የህግ የበላይነትን እና የፍትህ ስርዓትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ዳኞቹ በህግ የበላይነት እና በእኩልነት መርህ ላይ ተመስርተው ፍትሃዊ ውሳኔ ሰጡ። (Language concept U30)",
-            "ምንም ውሳኔ አልተሰጠም (Language concept U30)",
-            "ህግ የለም (Language concept U30)",
-            "ዳኛ የለም (Language concept U30)"
+            "ዳኞቹ በህግ የበላይነት እና በእኩልነት መርህ ላይ ተመስርተው ፍትሃዊ ውሳኔ ሰጡ። (Core concept alternative form)",
+            "ምንም ውሳኔ አልተሰጠም (Core concept alternative form)",
+            "ህግ የለም (Core concept alternative form)",
+            "ዳኛ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የህግ የበላይነትን እና ፍትሃዊ ዳኝነትን በትክክል ያዛምዳል።"
@@ -14118,10 +14118,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 30 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ፍትሐ ነገሥት፣ ባህላዊ ሽምግልናና እርቅ፣ የገዳ ስርዓት ዴሞክራሲ፣ እንዲሁም ሰብአዊ መብቶችና የህግ የበላይነት ተካተዋል። (Language concept U30)",
-            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (Language concept U30)",
-            "በኢትዮጵያ ፍትህ አልነበረም። (Language concept U30)",
-            "ሁሉም ህጎች ተመሳሳይ ናቸው። (Language concept U30)"
+            "ፍትሐ ነገሥት፣ ባህላዊ ሽምግልናና እርቅ፣ የገዳ ስርዓት ዴሞክራሲ፣ እንዲሁም ሰብአዊ መብቶችና የህግ የበላይነት ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (Core concept alternative form)",
+            "በኢትዮጵያ ፍትህ አልነበረም። (Core concept alternative form)",
+            "ሁሉም ህጎች ተመሳሳይ ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 30ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -14178,10 +14178,10 @@
         {
           "prompt": "በሳይንሳዊ ምርምር ውስጥ ሊረጋገጥ ወይም ውድቅ ሊደረግ የሚችል ጊዜያዊ ግምት ወይም ሀሳብ ምን ይባላል?",
           "options": [
-            "መላምት (Language concept U31)",
-            "ግጥም (Language concept U31)",
-            "ተረት (Language concept U31)",
-            "ልቦለድ (Language concept U31)"
+            "መላምት (Core concept key phrasing)",
+            "ግጥም (Core concept alternative form)",
+            "ተረት (Core concept alternative form)",
+            "ልቦለድ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«መላምት» በሳይንሳዊ ጥናት የሚፈተን እና የሚረጋገጥ የመጀመሪያ መነሻ ሀሳብ ነው።"
@@ -14193,10 +14193,10 @@
         {
           "prompt": "'Research methodology' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የምርምር ዘዴ (Language concept U31)",
-            "የጨዋታ ህግ (Language concept U31)",
-            "የጉዞ ካርታ (Language concept U31)",
-            "የግዢ ዝርዝር (Language concept U31)"
+            "የምርምር ዘዴ (Core concept key phrasing)",
+            "የጨዋታ ህግ (Core concept alternative form)",
+            "የጉዞ ካርታ (Core concept alternative form)",
+            "የግዢ ዝርዝር (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የምርምር ዘዴ» ጥናትን በስርዓትና በሳይንሳዊ ቅደም-ተከተል ለመምራት የሚያስችል መንገድ ነው።"
@@ -14209,10 +14209,10 @@
           "type": "multiple-choice",
           "prompt": "የምርምር ዘዴዎችን እና የጥናት ንድፍ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ምርምር፣ ተመራማሪ፣ ዘዴ፣ የጥናት ንድፍ፣ መላምት እና ተለዋዋጭ። (Language concept U31)",
-            "ወጥ፣ ዳቦ፣ ሻይ እና ቡና። (Language concept U31)",
-            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (Language concept U31)",
-            "በሳይንስ ምርምር የለም። (Language concept U31)"
+            "ምርምር፣ ተመራማሪ፣ ዘዴ፣ የጥናት ንድፍ፣ መላምት እና ተለዋዋጭ። (Core concept alternative form)",
+            "ወጥ፣ ዳቦ፣ ሻይ እና ቡና። (Core concept alternative form)",
+            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (Core concept alternative form)",
+            "በሳይንስ ምርምር የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምርምር ዘዴ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14268,10 +14268,10 @@
         {
           "prompt": "ከአጠቃላይ ህዝብ መካከል ለጥናት ተመርጦ የሚወሰደው አነስተኛ ውክልና ምን ይባላል?",
           "options": [
-            "ናሙና (Language concept U31)",
-            "ሙሉ ህዝብ (Language concept U31)",
-            "ግምት (Language concept U31)",
-            "ስህተት (Language concept U31)"
+            "ናሙና (Core concept key phrasing)",
+            "ሙሉ ህዝብ (Core concept alternative form)",
+            "ግምት (Core concept alternative form)",
+            "ስህተት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ናሙና» አጠቃላይ ማህበረሰቡን ወይም ህዝብን ወክሎ የሚመረጥ የጥናት አካል ነው።"
@@ -14283,10 +14283,10 @@
         {
           "prompt": "'Statistical analysis' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስታትስቲካዊ ትንተና (Language concept U31)",
-            "ተራ ቆጠራ (Language concept U31)",
-            "ግምት መስጠት (Language concept U31)",
-            "ወሬ ማውራት (Language concept U31)"
+            "ስታትስቲካዊ ትንተና (Core concept key phrasing)",
+            "ተራ ቆጠራ (Core concept alternative form)",
+            "ግምት መስጠት (Core concept alternative form)",
+            "ወሬ ማውራት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ስታትስቲካዊ ትንተና» መረጃዎችን በቁጥር እና በሳይንሳዊ ቀመር የመመርመር ሂደት ነው።"
@@ -14299,10 +14299,10 @@
           "type": "multiple-choice",
           "prompt": "የመረጃ አሰባሰብ እና ስታትስቲክስ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "መረጃ፣ ናሙና፣ መጠይቅ፣ ቃለ-መጠይቅ፣ ስታትስቲክስ እና ትንተና። (Language concept U31)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (Language concept U31)",
-            "ፈረስ፣ በቅሎ፣ አህያ እና ግመል። (Language concept U31)",
-            "በጥናት መረጃ አይሰበሰብም። (Language concept U31)"
+            "መረጃ፣ ናሙና፣ መጠይቅ፣ ቃለ-መጠይቅ፣ ስታትስቲክስ እና ትንተና። (Core concept alternative form)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (Core concept alternative form)",
+            "ፈረስ፣ በቅሎ፣ አህያ እና ግመል። (Core concept alternative form)",
+            "በጥናት መረጃ አይሰበሰብም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመረጃ አሰባሰብ እና የስታትስቲክስ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14358,10 +14358,10 @@
         {
           "prompt": "በምርምር ማጠቃለያ ላይ ችግሮችን ለመፍታት የሚቀርብ ተግባራዊ ሀሳብ ምን ይባላል?",
           "options": [
-            "ምክረ-ሀሳብ (Language concept U31)",
-            "ክስ (Language concept U31)",
-            "ቅጣት (Language concept U31)",
-            "ማስጠንቀቂያ (Language concept U31)"
+            "ምክረ-ሀሳብ (Core concept key phrasing)",
+            "ክስ (Core concept alternative form)",
+            "ቅጣት (Core concept alternative form)",
+            "ማስጠንቀቂያ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ምክረ-ሀሳብ» በጥናቱ ግኝት ላይ ተመስርቶ የመፍትሄ እርምጃዎችን የሚጠቁም ጠቃሚ ሀሳብ ነው።"
@@ -14373,10 +14373,10 @@
         {
           "prompt": "'Conclusion, final inference' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ድምዳሜ (Language concept U31)",
-            "መነሻ (Language concept U31)",
-            "ጥያቄ (Language concept U31)",
-            "ጭቅጭቅ (Language concept U31)"
+            "ድምዳሜ (Core concept key phrasing)",
+            "መነሻ (Core concept alternative form)",
+            "ጥያቄ (Core concept alternative form)",
+            "ጭቅጭቅ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ድምዳሜ» የምርምር መረጃዎችንና ግኝቶችን ተንትኖ የሚደረስበት የመጨረሻ ውሳኔ ነው።"
@@ -14389,10 +14389,10 @@
           "type": "multiple-choice",
           "prompt": "የምርምር ውጤት እና ድምዳሜ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ግኝት፣ ውጤት፣ ድምዳሜ፣ ምክረ-ሀሳብ እና አበርክቶ። (Language concept U31)",
-            "ሰዓት፣ ቀለበት፣ አምባር እና የአንገት ሀብል። (Language concept U31)",
-            "ብርቱካን፣ ሙዝ፣ ፓፓያ እና አናናስ። (Language concept U31)",
-            "ምርምር ድምዳሜ የለውም። (Language concept U31)"
+            "ግኝት፣ ውጤት፣ ድምዳሜ፣ ምክረ-ሀሳብ እና አበርክቶ። (Core concept alternative form)",
+            "ሰዓት፣ ቀለበት፣ አምባር እና የአንገት ሀብል። (Core concept alternative form)",
+            "ብርቱካን፣ ሙዝ፣ ፓፓያ እና አናናስ። (Core concept alternative form)",
+            "ምርምር ድምዳሜ የለውም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምርምር ውጤት እና ድምዳሜ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14539,9 +14539,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሳይንሳዊ ምርምር እና የአካዳሚክ ትንተና ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "ተመራማሪዋ የምርምር ዘዴዋን፣ የስታትስቲክስ ትንተናዋን እና ግኝቶቿን በምሁራን ፊት በተሳካ ሁኔታ ተከላከለች። (teh-meh-rah-mah-ree-WAH yeh-muh-ruh-MUR zeh-DAY-wahn, yeh-stah-tees-TEEKS tun-teh-nah-WAHN un-nah gun-yuh-tohch-chuh-WAHN beh-muh-hoo-RAHN feet beh-teh-sah-KOW hoo-nay-TAH teh-keh-lahk-keh-LECH)",
-            "ምንም ጥናት አልተደረገም (Language concept U31)",
-            "ሁሉም ተራ ወሬ ነው (Language concept U31)",
-            "ምርምር የለም (Language concept U31)"
+            "ምንም ጥናት አልተደረገም (Core concept alternative form)",
+            "ሁሉም ተራ ወሬ ነው (Core concept alternative form)",
+            "ምርምር የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የምርምር ዘዴን፣ ስታትስቲክስንና የግኝት መከላከያን በአንድነት ያጠቃለለ ነው።"
@@ -14553,10 +14553,10 @@
         {
           "prompt": "የአካዳሚክ ስነ-ምግባርን እና ሳይንሳዊ ምርምርን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተመራማሪው በታማኝነት እና በጥብቅ የአቻ ግምገማ ላይ ተመስርቶ አስተማማኝ ግኝቶችን ይፋ አደረገ። (Language concept U31)",
-            "ምንም መረጃ የለም (Language concept U31)",
-            "ማጣቀሻ አያስፈልግም (Language concept U31)",
-            "ስርቆት ይፈቀዳል (Language concept U31)"
+            "ተመራማሪው በታማኝነት እና በጥብቅ የአቻ ግምገማ ላይ ተመስርቶ አስተማማኝ ግኝቶችን ይፋ አደረገ። (Core concept alternative form)",
+            "ምንም መረጃ የለም (Core concept alternative form)",
+            "ማጣቀሻ አያስፈልግም (Core concept alternative form)",
+            "ስርቆት ይፈቀዳል (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የአካዳሚክ ታማኝነትንና ሳይንሳዊ ግኝቶችን በትክክል ያዛምዳል።"
@@ -14569,10 +14569,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 31 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የምርምር ዘዴዎችና መላምት፣ የመረጃ አሰባሰብና ስታትስቲክስ፣ ግኝቶችና ምክረ-ሀሳቦች፣ እንዲሁም አካዳሚክ ስነ-ምግባርና የአቻ ግምገማ ተካተዋል። (Language concept U31)",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Language concept U31)",
-            "በሳይንስ መረጃ አያስፈልግም። (Language concept U31)",
-            "ሁሉም ዘዴዎች ተመሳሳይ ናቸው። (Language concept U31)"
+            "የምርምር ዘዴዎችና መላምት፣ የመረጃ አሰባሰብና ስታትስቲክስ፣ ግኝቶችና ምክረ-ሀሳቦች፣ እንዲሁም አካዳሚክ ስነ-ምግባርና የአቻ ግምገማ ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Core concept alternative form)",
+            "በሳይንስ መረጃ አያስፈልግም። (Core concept alternative form)",
+            "ሁሉም ዘዴዎች ተመሳሳይ ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 31ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -14628,10 +14628,10 @@
         {
           "prompt": "አንድን ሀገር ወክሎ በሌላ ሀገር ውስጥ በቋሚነት የሚሰራ ከፍተኛ የዲፕሎማሲ መሪ ማን ይባላል?",
           "options": [
-            "አምባሳደር (Language concept U32)",
-            "ነጋዴ (Language concept U32)",
-            "ተጓዥ (Language concept U32)",
-            "ጋዜጠኛ (Language concept U32)"
+            "አምባሳደር (Core concept key phrasing)",
+            "ነጋዴ (Core concept alternative form)",
+            "ተጓዥ (Core concept alternative form)",
+            "ጋዜጠኛ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አምባሳደር» የሀገርን የውጭ ግንኙነት እና ጥቅም የሚመራ ዋና ዲፕሎማት ነው።"
@@ -14643,10 +14643,10 @@
         {
           "prompt": "'Foreign policy' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የውጭ ጉዳይ ፖሊሲ (Language concept U32)",
-            "የቤት ውስጥ ደንብ (Language concept U32)",
-            "የትራፊክ መመሪያ (Language concept U32)",
-            "የከተማ ፕላን (Language concept U32)"
+            "የውጭ ጉዳይ ፖሊሲ (Core concept key phrasing)",
+            "የቤት ውስጥ ደንብ (Core concept alternative form)",
+            "የትራፊክ መመሪያ (Core concept alternative form)",
+            "የከተማ ፕላን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የውጭ ጉዳይ ፖሊሲ» አንዲት ሀገር ከሌሎች ሀገራት ጋር ያላትን ግንኙነት የምትመራበት መመሪያ ነው።"
@@ -14659,10 +14659,10 @@
           "type": "multiple-choice",
           "prompt": "የዲፕሎማሲ እና የውጭ ጉዳይ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ዲፕሎማሲ፣ አምባሳደር፣ ኤምባሲ፣ የውጭ ጉዳይ ፖሊሲ እና ዲፕሎማት። (Language concept U32)",
-            "ወተት፣ ማር፣ ቅቤ እና እርጎ። (Language concept U32)",
-            "ጠረጴዛ፣ አልጋ እና ሶፋ። (Language concept U32)",
-            "በዲፕሎማሲ አምባሳደር የለም። (Language concept U32)"
+            "ዲፕሎማሲ፣ አምባሳደር፣ ኤምባሲ፣ የውጭ ጉዳይ ፖሊሲ እና ዲፕሎማት። (Core concept alternative form)",
+            "ወተት፣ ማር፣ ቅቤ እና እርጎ። (Core concept alternative form)",
+            "ጠረጴዛ፣ አልጋ እና ሶፋ። (Core concept alternative form)",
+            "በዲፕሎማሲ አምባሳደር የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዲፕሎማሲ እና የውጭ ጉዳይ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -14718,10 +14718,10 @@
         {
           "prompt": "በአዲስ አበባ ከተማ ዋና መቀመጫውን ያደረገውና መላውን አፍሪካ የሚያስተባብረው ታላቅ አህጉራዊ ድርጅት ማን ይባላል?",
           "options": [
-            "የአፍሪካ ህብረት (Language concept U32)",
-            "የአውሮፓ ህብረት (Language concept U32)",
-            "የእስያ ማህበር (Language concept U32)",
-            "የአሜሪካ ድርጅት (Language concept U32)"
+            "የአፍሪካ ህብረት (Core concept key phrasing)",
+            "የአውሮፓ ህብረት (Core concept alternative form)",
+            "የእስያ ማህበር (Core concept alternative form)",
+            "የአሜሪካ ድርጅት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የአፍሪካ ህብረት» ዋና መቀመጫው በአዲስ አበባ የሆነ አህጉራዊ ተቋም ነው።"
@@ -14733,10 +14733,10 @@
         {
           "prompt": "'Pan-Africanism' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ፓን-አፍሪካኒዝም (Language concept U32)",
-            "ብቸኝነት (Language concept U32)",
-            "የጎሳ ክፍፍል (Language concept U32)",
-            "የአካባቢ ጠብ (Language concept U32)"
+            "ፓን-አፍሪካኒዝም (Core concept key phrasing)",
+            "ብቸኝነት (Core concept alternative form)",
+            "የጎሳ ክፍፍል (Core concept alternative form)",
+            "የአካባቢ ጠብ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ፓን-አፍሪካኒዝም» መላው ጥቁር ህዝቦችና አፍሪካውያን በአንድነት እንዲተባበሩ የሚያስተምር እንቅስቃሴ ነው።"
@@ -14749,10 +14749,10 @@
           "type": "multiple-choice",
           "prompt": "የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የአፍሪካ ህብረት፣ ፓን-አፍሪካኒዝም፣ አዲስ አበባ፣ አህጉራዊ አንድነት እና ትብብር። (Language concept U32)",
-            "መኪና፣ ባቡር፣ አውቶቡስ እና ታክሲ። (Language concept U32)",
-            "ሸሚዝ፣ ሱሪ፣ ካፖርት እና ኮፍያ። (Language concept U32)",
-            "የአፍሪካ ህብረት አዲስ አበባ ውስጥ የለም። (Language concept U32)"
+            "የአፍሪካ ህብረት፣ ፓን-አፍሪካኒዝም፣ አዲስ አበባ፣ አህጉራዊ አንድነት እና ትብብር። (Core concept alternative form)",
+            "መኪና፣ ባቡር፣ አውቶቡስ እና ታክሲ። (Core concept alternative form)",
+            "ሸሚዝ፣ ሱሪ፣ ካፖርት እና ኮፍያ። (Core concept alternative form)",
+            "የአፍሪካ ህብረት አዲስ አበባ ውስጥ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአፍሪካ ህብረት እና የአህጉራዊ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።"
@@ -14809,10 +14809,10 @@
         {
           "prompt": "በሁለት ሀገራት መካከል ብቻ የሚደረግ የዲፕሎማሲና የንግድ ድርድር ወይም ስምምነት ምን ይባላል?",
           "options": [
-            "የሁለትዮሽ ስምምነት (Language concept U32)",
-            "የቤተሰብ ስምምነት (Language concept U32)",
-            "የውስጥ ደንብ (Language concept U32)",
-            "የግል ውል (Language concept U32)"
+            "የሁለትዮሽ ስምምነት (Core concept key phrasing)",
+            "የቤተሰብ ስምምነት (Core concept alternative form)",
+            "የውስጥ ደንብ (Core concept alternative form)",
+            "የግል ውል (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የሁለትዮሽ ስምምነት» በሁለት ሉዓላዊ ሀገራት መካከል የሚደረግ ውል ነው።"
@@ -14824,10 +14824,10 @@
         {
           "prompt": "'Treaty ratification' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስምምነትን ማፅደቅ (Language concept U32)",
-            "ውል ማፍረስ (Language concept U32)",
-            "ስምምነት መካድ (Language concept U32)",
-            "ድርድር ማቋረጥ (Language concept U32)"
+            "ስምምነትን ማፅደቅ (Core concept alternative form)",
+            "ውል ማፍረስ (Core concept alternative form)",
+            "ስምምነት መካድ (Core concept alternative form)",
+            "ድርድር ማቋረጥ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ማፅደቅ» በህግ አውጪው አካል ዓለም አቀፍ ውልን ህጋዊ የማድረግ ሂደት ነው።"
@@ -14840,10 +14840,10 @@
           "type": "multiple-choice",
           "prompt": "የዓለም አቀፍ ስምምነቶች እና የድርድር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስምምነት፣ ውል፣ ድርድር፣ የሁለትዮሽ፣ ባለብዙ ወገን እና ማፅደቅ። (Language concept U32)",
-            "ቡና፣ ሻይ፣ ስኳር እና ወተት። (Language concept U32)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (Language concept U32)",
-            "በዲፕሎማሲ ድርድር የለም። (Language concept U32)"
+            "ስምምነት፣ ውል፣ ድርድር፣ የሁለትዮሽ፣ ባለብዙ ወገን እና ማፅደቅ። (Core concept alternative form)",
+            "ቡና፣ ሻይ፣ ስኳር እና ወተት። (Core concept alternative form)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (Core concept alternative form)",
+            "በዲፕሎማሲ ድርድር የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዓለም አቀፍ ስምምነቶች እና የድርድር ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -14899,10 +14899,10 @@
         {
           "prompt": "በተባበሩት መንግስታት ስር በጦርነት ቀጠናዎች ውስጥ ሰላምን እና ደህንነትን ለመጠበቅ የሚሰማራ ኃይል ምን ይባላል?",
           "options": [
-            "የሰላም አስከባሪ ኃይል (Language concept U32)",
-            "የወረራ ኃይል (Language concept U32)",
-            "የሽምቅ ተዋጊ (Language concept U32)",
-            "የንግድ ቡድን (Language concept U32)"
+            "የሰላም አስከባሪ ኃይል (Core concept key phrasing)",
+            "የወረራ ኃይል (Core concept alternative form)",
+            "የሽምቅ ተዋጊ (Core concept alternative form)",
+            "የንግድ ቡድን (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የሰላም አስከባሪ ኃይል» በዓለም አቀፍ ተልዕኮ ህዝብንና ሰላምን የሚጠብቅ ሰራዊት ነው።"
@@ -14914,10 +14914,10 @@
         {
           "prompt": "'Peacekeeping mission' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የሰላም ማስከበር ተልዕኮ (Language concept U32)",
-            "የጦርነት አዋጅ (Language concept U32)",
-            "የዘመቻ ጥሪ (Language concept U32)",
-            "የሽያጭ ማስታወቂያ (Language concept U32)"
+            "የሰላም ማስከበር ተልዕኮ (Core concept key phrasing)",
+            "የጦርነት አዋጅ (Core concept alternative form)",
+            "የዘመቻ ጥሪ (Core concept alternative form)",
+            "የሽያጭ ማስታወቂያ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የሰላም ማስከበር ተልዕኮ» ዓለም አቀፍ ሰላምን ለማረጋገጥ የሚደረግ የተቀናጀ ጥረት ነው።"
@@ -14930,10 +14930,10 @@
           "type": "multiple-choice",
           "prompt": "የሰላም ማስከበር እና የዓለም አቀፍ ተልዕኮ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የሰላም ማስከበር፣ ተልዕኮ፣ የተባበሩት መንግስታት፣ የጸጥታ ምክር ቤት እና ሰብአዊ እርዳታ። (Language concept U32)",
-            "ወረቀት፣ ብዕር፣ ደብተር እና ቀለም። (Language concept U32)",
-            "ጠረጴዛ፣ ወንበር እና ቁምሳጥን። (Language concept U32)",
-            "በሰላም ማስከበር ተልዕኮ የለም። (Language concept U32)"
+            "የሰላም ማስከበር፣ ተልዕኮ፣ የተባበሩት መንግስታት፣ የጸጥታ ምክር ቤት እና ሰብአዊ እርዳታ። (Core concept alternative form)",
+            "ወረቀት፣ ብዕር፣ ደብተር እና ቀለም። (Core concept alternative form)",
+            "ጠረጴዛ፣ ወንበር እና ቁምሳጥን። (Core concept alternative form)",
+            "በሰላም ማስከበር ተልዕኮ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰላም ማስከበር እና የዓለም አቀፍ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።"
@@ -14991,9 +14991,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ዲፕሎማሲ እና የዓለም አቀፍ ግንኙነት ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "ኢትዮጵያ በአፍሪካ ህብረት መዲናነቷ እና በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎቿ ታላቅ የዲፕሎማሲ አሻራ አላት። (eet-yoh-P'EE-yah beh-ah-fuh-ree-KAH hub-RET meh-deen-nahn-NET-wah un-nah beh-ah-LEM ah-K'EF yeh-seh-LAHM ahs-keh-BAHR tel-uh-koh-WOHCH-chuh-wah tah-LAHK' yeh-deep-loh-mah-SEE ah-shah-RAH ahl-LAHT)",
-            "ምንም ዲፕሎማሲ የለም (Language concept U32)",
-            "ሁሉም ተራ ወሬ ነው (Language concept U32)",
-            "ኤምባሲ የለም (Language concept U32)"
+            "ምንም ዲፕሎማሲ የለም (Core concept alternative form)",
+            "ሁሉም ተራ ወሬ ነው (Core concept alternative form)",
+            "ኤምባሲ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የአፍሪካ ህብረትን፣ ዲፕሎማሲንና የሰላም ማስከበርን በአንድነት ያጠቃለለ ነው።"
@@ -15005,10 +15005,10 @@
         {
           "prompt": "የዲፕሎማሲያዊ ግንኙነትን እና ዓለም አቀፍ ስምምነቶችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "አምባሳደሮቹ በሁለትዮሽ ድርድር ታሪካዊ የሰላም እና የንግድ ስምምነት ተፈራረሙ። (Language concept U32)",
-            "ምንም ውይይት አልተደረገም (Language concept U32)",
-            "ስምምነት አያስፈልግም (Language concept U32)",
-            "ድርድር የለም (Language concept U32)"
+            "አምባሳደሮቹ በሁለትዮሽ ድርድር ታሪካዊ የሰላም እና የንግድ ስምምነት ተፈራረሙ። (Core concept alternative form)",
+            "ምንም ውይይት አልተደረገም (Core concept alternative form)",
+            "ስምምነት አያስፈልግም (Core concept alternative form)",
+            "ድርድር የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ዲፕሎማሲያዊ ግንኙነትን እና ህጋዊ ስምምነቶችን በትክክል ያዛምዳል።"
@@ -15021,10 +15021,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 32 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የዲፕሎማሲያዊ ግንኙነትና ኤምባሲ፣ የአፍሪካ ህብረትና ፓን-አፍሪካኒዝም፣ ዓለም አቀፍ ስምምነቶችና ድርድሮች፣ እንዲሁም የሰላም ማስከበር ተልዕኮዎች ተካተዋል። (Language concept U32)",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Language concept U32)",
-            "በዓለም አቀፍ ግንኙነት ህግ የለም። (Language concept U32)",
-            "ሁሉም ሀገራት አንድ አይነት ናቸው። (Language concept U32)"
+            "የዲፕሎማሲያዊ ግንኙነትና ኤምባሲ፣ የአፍሪካ ህብረትና ፓን-አፍሪካኒዝም፣ ዓለም አቀፍ ስምምነቶችና ድርድሮች፣ እንዲሁም የሰላም ማስከበር ተልዕኮዎች ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Core concept alternative form)",
+            "በዓለም አቀፍ ግንኙነት ህግ የለም። (Core concept alternative form)",
+            "ሁሉም ሀገራት አንድ አይነት ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 32ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -15080,10 +15080,10 @@
         {
           "prompt": "በአማርኛ ስነ-ግጥም ውስጥ ላዩን ግልጽ አድርጎ የውስጡን ጥልቅና ድብቅ መልእክት የማስተላለፍ ጥበብ ምን ይባላል?",
           "options": [
-            "ሰምና ወርቅ (Language concept U33)",
-            "ቀጥተኛ ንግግር (Language concept U33)",
-            "ተራ ቃላት (Language concept U33)",
-            "ስድብ (Language concept U33)"
+            "ሰምና ወርቅ (Core concept key phrasing)",
+            "ቀጥተኛ ንግግር (Core concept alternative form)",
+            "ተራ ቃላት (Core concept alternative form)",
+            "ስድብ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰምና ወርቅ» ውጫዊውን (ሰም) እና ውስጣዊውን (ወርቅ) አጣምሮ የያዘ የላቀ ስነ-ጽሁፋዊ ዘይቤ ነው።"
@@ -15095,10 +15095,10 @@
         {
           "prompt": "'Double-entendre, dual meaning' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ህብር / ድርብ ትርጉም (Language concept U33)",
-            "አንድ ትርጉም (Language concept U33)",
-            "የተሳሳተ ቃል (Language concept U33)",
-            "ትርጉም አልባ (Language concept U33)"
+            "ህብር / ድርብ ትርጉም (Core concept alternative form)",
+            "አንድ ትርጉም (Core concept alternative form)",
+            "የተሳሳተ ቃል (Core concept alternative form)",
+            "ትርጉም አልባ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ህብር» ወይም ድርብ ትርጉም በአንድ ቃል ውስጥ ሁለት የተለያዩ መልእክቶችን የማስተላለፍ ጥበብ ነው።"
@@ -15111,10 +15111,10 @@
           "type": "multiple-choice",
           "prompt": "የሰምና ወርቅ እና የቅኔ ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ድርብ ትርጉም እና ምስጢር። (Language concept U33)",
-            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Language concept U33)",
-            "ጠረጴዛ፣ ወንበር እና በር። (Language concept U33)",
-            "በአማርኛ ቅኔ የለም። (Language concept U33)"
+            "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ድርብ ትርጉም እና ምስጢር። (Core concept alternative form)",
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Core concept alternative form)",
+            "ጠረጴዛ፣ ወንበር እና በር። (Core concept alternative form)",
+            "በአማርኛ ቅኔ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰምና ወርቅ ቅኔ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -15170,10 +15170,10 @@
         {
           "prompt": "«ድር ቢያብር አንበሳ ያስር» የሚለው የአማርኛ አባባል በምን አይነት የስነ-ጽሑፍ ዘውግ ይመደባል?",
           "options": [
-            "ምሳሌያዊ አነጋገር (Language concept U33)",
-            "የዜና ዘገባ (Language concept U33)",
-            "የህግ ድንጋጌ (Language concept U33)",
-            "የሂሳብ ቀመር (Language concept U33)"
+            "ምሳሌያዊ አነጋገር (Core concept key phrasing)",
+            "የዜና ዘገባ (Core concept alternative form)",
+            "የህግ ድንጋጌ (Core concept alternative form)",
+            "የሂሳብ ቀመር (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አባባል የአንድነትን ጥቅም የሚያስተምር ጥንታዊ ምሳሌያዊ አነጋገር ነው።"
@@ -15185,10 +15185,10 @@
         {
           "prompt": "'Idiomatic expression' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ፈሊጣዊ አነጋገር (Language concept U33)",
-            "ቀጥተኛ ትርጉም (Language concept U33)",
-            "የፊደል ስህተት (Language concept U33)",
-            "ተራ ድምፅ (Language concept U33)"
+            "ፈሊጣዊ አነጋገር (Core concept key phrasing)",
+            "ቀጥተኛ ትርጉም (Core concept alternative form)",
+            "የፊደል ስህተት (Core concept alternative form)",
+            "ተራ ድምፅ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ፈሊጣዊ አነጋገር» ቃላቱ ከቀጥተኛ ትርጉማቸው ውጭ ልዩ ባህላዊ መልእክት የሚያስተላልፉበት መንገድ ነው።"
@@ -15201,10 +15201,10 @@
           "type": "multiple-choice",
           "prompt": "የፈሊጥ እና የምሳሌያዊ አነጋገር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ምሳሌያዊ አነጋገር፣ ፈሊጥ፣ ተረትና ምሳሌ፣ ጥበብ እና አባባል። (Language concept U33)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (Language concept U33)",
-            "ፈረስ፣ በቅሎ እና አህያ። (Language concept U33)",
-            "በአማርኛ ምሳሌያዊ አነጋገር የለም። (Language concept U33)"
+            "ምሳሌያዊ አነጋገር፣ ፈሊጥ፣ ተረትና ምሳሌ፣ ጥበብ እና አባባል። (Core concept alternative form)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (Core concept alternative form)",
+            "ፈረስ፣ በቅሎ እና አህያ። (Core concept alternative form)",
+            "በአማርኛ ምሳሌያዊ አነጋገር የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምሳሌያዊ አነጋገሮች እና የፈሊጥ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15260,10 +15260,10 @@
         {
           "prompt": "ንግግርን በሚገባ አሳምሮ የሚናገር፣ ቃላትን የሚያውቅና ህዝብን የማሳመን ችሎታ ያለው ሰው ምን ይባላል?",
           "options": [
-            "አንደበተ ርቱዕ (Language concept U33)",
-            "ዲዳ (Language concept U33)",
-            "ዝምተኛ (Language concept U33)",
-            "ተመልካች (Language concept U33)"
+            "አንደበተ ርቱዕ (Core concept key phrasing)",
+            "ዲዳ (Core concept alternative form)",
+            "ዝምተኛ (Core concept alternative form)",
+            "ተመልካች (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አንደበተ ርቱዕ» በንግግር ችሎታው እና በማሳመን ጥበቡ የተመሰገነ ተናጋሪ ነው።"
@@ -15275,10 +15275,10 @@
         {
           "prompt": "'Persuasive speech' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አሳማኝ ንግግር (Language concept U33)",
-            "ተራ ወሬ (Language concept U33)",
-            "የስልክ ጥሪ (Language concept U33)",
-            "ጩኸት (Language concept U33)"
+            "አሳማኝ ንግግር (Core concept key phrasing)",
+            "ተራ ወሬ (Core concept alternative form)",
+            "የስልክ ጥሪ (Core concept alternative form)",
+            "ጩኸት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አሳማኝ ንግግር» በአድማጮች ልብ እና አእምሮ ላይ ተጽዕኖ የሚያሳድር የተዋቀረ ንግግር ነው።"
@@ -15291,10 +15291,10 @@
           "type": "multiple-choice",
           "prompt": "የአደባባይ ንግግር እና የማሳመን ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አደባባይ ንግግር፣ አንደበተ ርቱዕ፣ ማሳመን፣ ቅላጼ እና አድማጭ። (Language concept U33)",
-            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (Language concept U33)",
-            "ሰዓት፣ ቴሌቪዥን እና ሬዲዮ። (Language concept U33)",
-            "በአደባባይ ንግግር አይደረግም። (Language concept U33)"
+            "አደባባይ ንግግር፣ አንደበተ ርቱዕ፣ ማሳመን፣ ቅላጼ እና አድማጭ። (Core concept alternative form)",
+            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (Core concept alternative form)",
+            "ሰዓት፣ ቴሌቪዥን እና ሬዲዮ። (Core concept alternative form)",
+            "በአደባባይ ንግግር አይደረግም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአደባባይ ንግግር እና የማሳመን ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15350,10 +15350,10 @@
         {
           "prompt": "አንድን ነገር ከሌላ ነገር ጋር በባህሪ ወይም በመልክ በማነጻጸር የሚገለጽ የስነ-ጽሑፍ ዘዴ ምን ይባላል?",
           "options": [
-            "ዘይቤ / ማነጻጸሪያ (Language concept U33)",
-            "ተራ መግለጫ (Language concept U33)",
-            "የቁጥር ሰንጠረዥ (Language concept U33)",
-            "የሳይንስ ቀመር (Language concept U33)"
+            "ዘይቤ / ማነጻጸሪያ (Core concept alternative form)",
+            "ተራ መግለጫ (Core concept alternative form)",
+            "የቁጥር ሰንጠረዥ (Core concept alternative form)",
+            "የሳይንስ ቀመር (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዘይቤ» እና «ማነጻጸሪያ» ሀሳብን በውበት እና በምስል ለማቅረብ የሚረዱ የስነ-ጽሁፍ መሳሪያዎች ናቸው።"
@@ -15365,10 +15365,10 @@
         {
           "prompt": "'Symbolism, allegorical emblem' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተምሳሌት (Language concept U33)",
-            "ስህተት (Language concept U33)",
-            "ድብቅ ቃል (Language concept U33)",
-            "ቀጥተኛ ትርጉም (Language concept U33)"
+            "ተምሳሌት (Core concept key phrasing)",
+            "ስህተት (Core concept alternative form)",
+            "ድብቅ ቃል (Core concept alternative form)",
+            "ቀጥተኛ ትርጉም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ተምሳሌት» አንድን ረቂቅ ሀሳብ በተጨባጭ ምስል ወክሎ የማቅረብ ጥበብ ነው።"
@@ -15381,10 +15381,10 @@
           "type": "multiple-choice",
           "prompt": "የዘይቤ እና የስነ-ጽሑፍ ውበት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ዘይቤ፣ ተምሳሌት፣ ማነጻጸሪያ፣ ስነ-ጽሑፋዊ ውበት እና ምናብ። (Language concept U33)",
-            "ጠረጴዛ፣ አልጋ፣ ምንጣፍ እና መጋረጃ። (Language concept U33)",
-            "ዳቦ፣ ወተት፣ ቅቤ እና ማር። (Language concept U33)",
-            "በስነ-ጽሑፍ ዘይቤ የለም። (Language concept U33)"
+            "ዘይቤ፣ ተምሳሌት፣ ማነጻጸሪያ፣ ስነ-ጽሑፋዊ ውበት እና ምናብ። (Core concept alternative form)",
+            "ጠረጴዛ፣ አልጋ፣ ምንጣፍ እና መጋረጃ። (Core concept alternative form)",
+            "ዳቦ፣ ወተት፣ ቅቤ እና ማር። (Core concept alternative form)",
+            "በስነ-ጽሑፍ ዘይቤ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዘይቤ እና የስነ-ጽሑፍ ውበት ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15441,9 +15441,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሰምና ወርቅ፣ የፈሊጥ እና የአደባባይ ንግግር ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "አንደበተ ርቱዕ ተናጋሪው ሰምና ወርቅን፣ ፈሊጦችንና ዘይቤዎችን አዋህዶ ያቀረበው ንግግር የአድማጮቹን ልብ ማረከ። (ahn-duh-beh-teh ruh-TOO teh-nah-gah-REE-woo SEM un-nah WERK'-un, feh-lee-t'OHCH-chun un-nah zay-bay-WOHCH-chun ah-wah-huh-DOH yah-k'er-reh-BEW nuh-guh-GUR yeh-ah-duh-mah-CH'OHCH-choon lubb MAHR-reh-keh)",
-            "ምንም ንግግር አልተደረገም (Language concept U33)",
-            "ሁሉም ተራ ቃላት ናቸው (Language concept U33)",
-            "ቅኔ የለም (Language concept U33)"
+            "ምንም ንግግር አልተደረገም (Core concept alternative form)",
+            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
+            "ቅኔ የለም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ሰምና ወርቅን፣ ፈሊጦችን፣ ዘይቤዎችንና አንደበተ-ርቱዕነትን በአንድነት ያጠቃለለ ነው።"
@@ -15455,10 +15455,10 @@
         {
           "prompt": "የቅኔ ጥበብን እና ዘይቤያዊ ውበትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ገጣሚው በሰምና ወርቅ እና በተምሳሌታዊ ዘይቤ የተዋበ ድንቅ ቅኔ ተቀኘ። (Language concept U33)",
-            "ምንም ግጥም አልተጻፈም (Language concept U33)",
-            "ዘይቤ አያስፈልግም (Language concept U33)",
-            "ቃላት የሉም (Language concept U33)"
+            "ገጣሚው በሰምና ወርቅ እና በተምሳሌታዊ ዘይቤ የተዋበ ድንቅ ቅኔ ተቀኘ። (Core concept alternative form)",
+            "ምንም ግጥም አልተጻፈም (Core concept alternative form)",
+            "ዘይቤ አያስፈልግም (Core concept alternative form)",
+            "ቃላት የሉም (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የሰምና ወርቅ ቅኔን እና ዘይቤያዊ ውበትን በትክክል ያዛምዳል።"
@@ -15471,10 +15471,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 33 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የሰምና ወርቅ ቅኔ ጥበብ፣ ፈሊጣዊና ምሳሌያዊ አነጋገሮች፣ የአደባባይ ንግግርና ማሳመን፣ እንዲሁም ዘይቤያዊ አገላለጾች ተካተዋል። (Language concept U33)",
-            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (Language concept U33)",
-            "በአማርኛ ስነ-ጽሑፍ የለም። (Language concept U33)",
-            "ሁሉም ፈሊጦች ተመሳሳይ ናቸው። (Language concept U33)"
+            "የሰምና ወርቅ ቅኔ ጥበብ፣ ፈሊጣዊና ምሳሌያዊ አነጋገሮች፣ የአደባባይ ንግግርና ማሳመን፣ እንዲሁም ዘይቤያዊ አገላለጾች ተካተዋል። (Core concept alternative form)",
+            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (Core concept alternative form)",
+            "በአማርኛ ስነ-ጽሑፍ የለም። (Core concept alternative form)",
+            "ሁሉም ፈሊጦች ተመሳሳይ ናቸው። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 33ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -15530,10 +15530,10 @@
         {
           "prompt": "ዲፕሎማቶች በተልዕኮ ሀገራቸው ውስጥ በሚሰሩበት ወቅት ከህጋዊ ክስ ነፃ የሚያደርጋቸው ዓለም አቀፍ መብት ምን ይባላል?",
           "options": [
-            "ያለመከሰስ መብት (1961  1969 (U34))",
-            "የጉዞ ፈቃድ (1961  1969 (U34))",
-            "የንግድ ፈቃድ (1961  1969 (U34))",
-            "የቀረጥ ነፃ ካርድ (1961  1969 (U34))"
+            "ያለመከሰስ መብት (1961  1969 key phrasing)",
+            "የጉዞ ፈቃድ (1961  1969 alternative form)",
+            "የንግድ ፈቃድ (1961  1969 alternative form)",
+            "የቀረጥ ነፃ ካርድ (1961  1969 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ያለመከሰስ መብት» ዲፕሎማቶች ስራቸውን ያለ ጫና እንዲያከናውኑ የሚያስችል ዓለም አቀፍ ህጋዊ ጥበቃ ነው።"
@@ -15545,10 +15545,10 @@
         {
           "prompt": "'Vienna Convention' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የቪየና ስምምነት (1961  1969 (U34))",
-            "የከተማ ደንብ (1961  1969 (U34))",
-            "የስፖርት ህግ (1961  1969 (U34))",
-            "የትምህርት መመሪያ (1961  1969 (U34))"
+            "የቪየና ስምምነት (1961  1969 key phrasing)",
+            "የከተማ ደንብ (1961  1969 alternative form)",
+            "የስፖርት ህግ (1961  1969 alternative form)",
+            "የትምህርት መመሪያ (1961  1969 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«የቪየና ስምምነት» ዓለም አቀፍ የዲፕሎማሲ እና የውል ግንኙነቶችን የሚገዛ ዋና ስምምነት ነው።"
@@ -15561,10 +15561,10 @@
           "type": "multiple-choice",
           "prompt": "የቪየና ስምምነት እና ዓለም አቀፍ ህግጋትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የቪየና ስምምነት፣ ዓለም አቀፍ ህግ፣ ያለመከሰስ መብት፣ የዲፕሎማሲ ጥበቃ እና ሉዓላዊነት። (1961  1969 (U34))",
-            "ቡና፣ ሻይ፣ ስኳር እና ዳቦ። (1961  1969 (U34))",
-            "ልብስ፣ ጫማ እና ካፖርት። (1961  1969 (U34))",
-            "በዲፕሎማሲ ህግ የለም። (1961  1969 (U34))"
+            "የቪየና ስምምነት፣ ዓለም አቀፍ ህግ፣ ያለመከሰስ መብት፣ የዲፕሎማሲ ጥበቃ እና ሉዓላዊነት። (1961  1969 alternative form)",
+            "ቡና፣ ሻይ፣ ስኳር እና ዳቦ። (1961  1969 alternative form)",
+            "ልብስ፣ ጫማ እና ካፖርት። (1961  1969 alternative form)",
+            "በዲፕሎማሲ ህግ የለም። (1961  1969 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የቪየና ስምምነት እና የዲፕሎማሲ ህግጋትን ቁልፍ ቃላት በሙሉ ይዟል።"
@@ -15621,10 +15621,10 @@
         {
           "prompt": "በኢትዮጵያ ስነ-ጽሑፍ ታሪክ ውስጥ በብራና ላይ ይጻፉ የነበሩ የነገሥታት እና የታሪክ መዝገቦች ምን ይባላሉ?",
           "options": [
-            "ዜና መዋዕል (Language concept U34)",
-            "የዜና ጋዜጣ (Language concept U34)",
-            "የንግድ ሰነድ (Language concept U34)",
-            "የመንገድ ካርታ (Language concept U34)"
+            "ዜና መዋዕል (Core concept key phrasing)",
+            "የዜና ጋዜጣ (Core concept alternative form)",
+            "የንግድ ሰነድ (Core concept alternative form)",
+            "የመንገድ ካርታ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዜና መዋዕል» የነገሥታቱን ታሪክና የዘመኑን ክስተቶች የሚመዘግቡ ጥንታዊ የብራና ድርሰቶች ናቸው።"
@@ -15636,10 +15636,10 @@
         {
           "prompt": "'Modern novel' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ዘመናዊ ልብወለድ (Language concept U34)",
-            "ጥንታዊ ዝማሬ (Language concept U34)",
-            "የህግ መመሪያ (Language concept U34)",
-            "የህክምና ማዘዣ (Language concept U34)"
+            "ዘመናዊ ልብወለድ (Core concept key phrasing)",
+            "ጥንታዊ ዝማሬ (Core concept alternative form)",
+            "የህግ መመሪያ (Core concept alternative form)",
+            "የህክምና ማዘዣ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ዘመናዊ ልብወለድ» ገጸ-ባህሪያትንና ታሪክን አዋቅሮ የሚቀርብ የስነ-ጽሑፍ ዘውግ ነው።"
@@ -15652,10 +15652,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስነ-ጽሑፍ፣ ብራና፣ ዜና መዋዕል፣ ልብወለድ እና ድርሰት። (Language concept U34)",
-            "ወንበር፣ ጠረጴዛ፣ አልጋ እና ቁምሳጥን። (Language concept U34)",
-            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር። (Language concept U34)",
-            "በኢትዮጵያ ስነ-ጽሑፍ አልነበረም። (Language concept U34)"
+            "ስነ-ጽሑፍ፣ ብራና፣ ዜና መዋዕል፣ ልብወለድ እና ድርሰት። (Core concept alternative form)",
+            "ወንበር፣ ጠረጴዛ፣ አልጋ እና ቁምሳጥን። (Core concept alternative form)",
+            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር። (Core concept alternative form)",
+            "በኢትዮጵያ ስነ-ጽሑፍ አልነበረም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የኢትዮጵያ ስነ-ጽሑፍ ታሪክ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15711,10 +15711,10 @@
         {
           "prompt": "በጽሁፍ ሳይሆን በአፈ-ታሪክ፣ በተረትና በዜማ ከትውልድ ወደ ትውልድ የሚተላለፍ የባህል ሀብት ምን ይባላል?",
           "options": [
-            "ስነ-ቃል (Language concept U34)",
-            "የህግ መጽሐፍ (Language concept U34)",
-            "የባንክ ሰነድ (Language concept U34)",
-            "የሳይንስ መጽሔት (Language concept U34)"
+            "ስነ-ቃል (Core concept key phrasing)",
+            "የህግ መጽሐፍ (Core concept alternative form)",
+            "የባንክ ሰነድ (Core concept alternative form)",
+            "የሳይንስ መጽሔት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-ቃል» በአፍ የሚነገሩ ተረቶችን፣ ዘፈኖችንና ምሳሌዎችን የያዘ የባህል ቅርስ ነው።"
@@ -15726,10 +15726,10 @@
         {
           "prompt": "'National heritage' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ብሔራዊ ቅርስ (Language concept U34)",
-            "የግል ንብረት (Language concept U34)",
-            "የንግድ እቃ (Language concept U34)",
-            "ተራ ቦታ (Language concept U34)"
+            "ብሔራዊ ቅርስ (Core concept key phrasing)",
+            "የግል ንብረት (Core concept alternative form)",
+            "የንግድ እቃ (Core concept alternative form)",
+            "ተራ ቦታ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ብሔራዊ ቅርስ» የመላው ሀገር እና ህዝብ የጋራ ታሪካዊና ባህላዊ ሀብት ነው።"
@@ -15742,10 +15742,10 @@
           "type": "multiple-choice",
           "prompt": "የባህል ውህደት እና የብሔራዊ ቅርስ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ብሔራዊ ቅርስ፣ ስነ-ቃል፣ የባህል ብዝሃነት፣ ውህደት እና ጥንታዊ ስልጣኔ። (Language concept U34)",
-            "መኪና፣ አውሮፕላን፣ ባቡር እና መርከብ። (Language concept U34)",
-            "እንጨት፣ ድንጋይ፣ አሸዋ እና ሲሚንቶ። (Language concept U34)",
-            "በኢትዮጵያ ቅርስ የለም። (Language concept U34)"
+            "ብሔራዊ ቅርስ፣ ስነ-ቃል፣ የባህል ብዝሃነት፣ ውህደት እና ጥንታዊ ስልጣኔ። (Core concept alternative form)",
+            "መኪና፣ አውሮፕላን፣ ባቡር እና መርከብ። (Core concept alternative form)",
+            "እንጨት፣ ድንጋይ፣ አሸዋ እና ሲሚንቶ። (Core concept alternative form)",
+            "በኢትዮጵያ ቅርስ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የባህል ውህደት እና የታሪካዊ ቅርስ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15801,10 +15801,10 @@
         {
           "prompt": "በምክንያትና በማስረጃ ላይ ተመስርቶ እውነትን የማመዛዘን እና የማሰብ ጥበብ ምን ይባላል?",
           "options": [
-            "አመክንዮ / ምክንያታዊ አስተሳሰብ (Language concept U34)",
-            "የዘፈቀደ ግምት (Language concept U34)",
-            "ስሜታዊ ቁጣ (Language concept U34)",
-            "ጭፍን እምነት (Language concept U34)"
+            "አመክንዮ / ምክንያታዊ አስተሳሰብ (Core concept alternative form)",
+            "የዘፈቀደ ግምት (Core concept alternative form)",
+            "ስሜታዊ ቁጣ (Core concept alternative form)",
+            "ጭፍን እምነት (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«አመክንዮ» በአእምሮ እና በማስረጃ እውነትን የመመርመር ፍልስፍናዊ መንገድ ነው።"
@@ -15816,10 +15816,10 @@
         {
           "prompt": "'Philosophical inquiry, treatise' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሐተታ / ፍልስፍናዊ ምርመራ (Language concept U34)",
-            "የግዢ ዝርዝር (Language concept U34)",
-            "የስልክ ማስታወሻ (Language concept U34)",
-            "ተራ ወሬ (Language concept U34)"
+            "ሐተታ / ፍልስፍናዊ ምርመራ (Core concept alternative form)",
+            "የግዢ ዝርዝር (Core concept alternative form)",
+            "የስልክ ማስታወሻ (Core concept alternative form)",
+            "ተራ ወሬ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ሐተታ» በጥልቅ ምርምርና አመክንዮ የተጻፈ ፍልስፍናዊ ድርሰት ነው።"
@@ -15832,10 +15832,10 @@
           "type": "multiple-choice",
           "prompt": "የፍልስፍና ክርክር እና የአመክንዮ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ፍልስፍና፣ አመክንዮ፣ ሐተታ፣ ማመዛዘን፣ እውነት እና ክርክር። (Language concept U34)",
-            "ጨው፣ በርበሬ፣ ዘይት እና ዱቄት። (Language concept U34)",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና መቅረጫ። (Language concept U34)",
-            "በፍልስፍና አመክንዮ የለም። (Language concept U34)"
+            "ፍልስፍና፣ አመክንዮ፣ ሐተታ፣ ማመዛዘን፣ እውነት እና ክርክር። (Core concept alternative form)",
+            "ጨው፣ በርበሬ፣ ዘይት እና ዱቄት። (Core concept alternative form)",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና መቅረጫ። (Core concept alternative form)",
+            "በፍልስፍና አመክንዮ የለም። (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የፍልስፍና እና የአመክንዮ ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15892,9 +15892,9 @@
           "prompt": "ከሚከተሉት ውስጥ የመላውን የአማርኛ ቋንቋ ትምህርት (ክፍል 1–34) ፍጹም የብቃት ውህደት የሚያሳየው የትኛው ነው?",
           "options": [
             "ተማሪው የአማርኛ ቋንቋን ሰዋሰዋዊ ውበት፣ ታሪካዊ ቅርስ እና ጥልቅ ፍልስፍና ጠንቅቆ በመረዳት የC2 ፍጹም የብቃት ደረጃን ተቀዳጀ። (teh-mah-REE-woo yeh-ah-mah-RUN-yah k'wahn-k'wahn seh-wah-seh-wah-WEE wuh-BET, tah-ree-KAH-wee k'urs un-nah t'ul-K' fuh-luh-suh-fun-NAH t'un-uk'-k'oh beh-mer-DAHT yeh-C-two fut-TS'OOM yeh-buh-K'AHT deh-reh-JAHN teh-k'eh-dah-JEH)",
-            "ምንም ትምህርት አልተጠናቀቀም (1  34            C2 (U34))",
-            "ሁሉም ተራ ቃላት ናቸው (1  34            C2 (U34))",
-            "ቋንቋው አልተጠናም (1  34            C2 (U34))"
+            "ምንም ትምህርት አልተጠናቀቀም (1  34            C2 alternative form)",
+            "ሁሉም ተራ ቃላት ናቸው (1  34            C2 alternative form)",
+            "ቋንቋው አልተጠናም (1  34            C2 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የ34ቱን ክፍሎች አጠቃላይ የቋንቋ፣ የባህልና የፍልስፍና ውህደት ያረጋግጣል።"
@@ -15907,9 +15907,9 @@
           "prompt": "የአማርኛ ቋንቋን ጥልቅ እውቀትና የተሟላ የC2 ብቃት ያረጋገጠ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "የአማርኛ ቋንቋ ጥናት ከፊደል ንባብ ጀምሮ እስከ ከፍተኛ ዲፕሎማሲ፣ ቅኔ እና አመክንዮ ድረስ የተዘረጋ ታላቅ የእውቀት ጉዞ ነው። (yeh-ah-mah-RUN-yah k'wahn-k'wah t'uh-NAHT keh-fee-DEL nuh-BAHB jem-ROH us-KEH kef-fuh-ten-YAH deep-loh-mah-SEE, k'uh-NAY un-nah ah-meh-kuh-nuh-YOH duh-RES yeh-teh-zer-reg-GAH tah-LAHK' yeh-uh-wuh-K'ET goo-ZOH new)",
-            "ምንም እውቀት አልተገኘም (1  34            C2 (U34))",
-            "ትምህርት አያስፈልግም (1  34            C2 (U34))",
-            "ቃላት የሉም (1  34            C2 (U34))"
+            "ምንም እውቀት አልተገኘም (1  34            C2 alternative form)",
+            "ትምህርት አያስፈልግም (1  34            C2 alternative form)",
+            "ቃላት የሉም (1  34            C2 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ምርጫ የካሪኩለሙን አጠቃላይ የትምህርት ጉዞ በትክክል ያጠቃልላል።"
@@ -15922,10 +15922,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ ቋንቋ ሙሉ ካሪኩለምን (ክፍል 1 እስከ 34) ፍጹም ይዘት በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የፊደላት ንባብ፣ ሰዋሰውና የግስ እርባታ፣ የዕለት ተዕለት ተግባቦት፣ ሳይንስ፣ ታሪክ፣ ባህላዊና ህጋዊ ፍልስፍና፣ ዓለም አቀፍ ዲፕሎማሲ፣ እንዲሁም የሰምና ወርቅ ቅኔ ጥበብ ሙሉ በሙሉ ተካተዋል። (1  34            C2 (U34))",
-            "ይህ ካሪኩለም ስለ ፊደላት ብቻ ነው። (1  34            C2 (U34))",
-            "ምንም አይነት ሰዋሰው አልተማርንም። (1  34            C2 (U34))",
-            "ሁሉም ክፍሎች አንድ አይነት ናቸው። (1  34            C2 (U34))"
+            "የፊደላት ንባብ፣ ሰዋሰውና የግስ እርባታ፣ የዕለት ተዕለት ተግባቦት፣ ሳይንስ፣ ታሪክ፣ ባህላዊና ህጋዊ ፍልስፍና፣ ዓለም አቀፍ ዲፕሎማሲ፣ እንዲሁም የሰምና ወርቅ ቅኔ ጥበብ ሙሉ በሙሉ ተካተዋል። (1  34            C2 alternative form)",
+            "ይህ ካሪኩለም ስለ ፊደላት ብቻ ነው። (1  34            C2 alternative form)",
+            "ምንም አይነት ሰዋሰው አልተማርንም። (1  34            C2 alternative form)",
+            "ሁሉም ክፍሎች አንድ አይነት ናቸው። (1  34            C2 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የ170ዎቹንም ትምህርቶች አጠቃላይ እውቀትና ብቃት ያጠቃልላል።"

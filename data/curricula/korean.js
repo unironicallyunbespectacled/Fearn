@@ -524,9 +524,9 @@
         {
           "prompt": "Which Hangul syllable is formed by combining the initial consonant 'ㄴ' [n] with the vertical vowel 'ㅏ' [a]?",
           "options": [
-            "나 (Master the 6 fundamental vowels - Unit 1 Target Practice)",
-            "노 (Master the 6 fundamental vowels - Unit 1 Target Practice)",
-            "니 (Master the 6 fundamental vowels - Unit 1 Target Practice)"
+            "나 (Master the 6 fundamental vowels key phrasing)",
+            "노 (Master the 6 fundamental vowels key phrasing)",
+            "니 (Master the 6 fundamental vowels key phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "The consonant 'ㄴ' [n] placed next to the vertical vowel 'ㅏ' [a] forms the syllable block '나' [na]. '노' is n+o, and '니' is n+i."
@@ -999,7 +999,7 @@
         {
           "prompt": "How do you say \"No, I am not Korean\" in polite Korean? (한국 사람 = Korean person):",
           "options": [
-            "아니요, 한국 사람이 아닙니다 (Answer questions using Yes  and No - Unit 1 Target Practice)",
+            "아니요, 한국 사람이 아닙니다 (Answer questions using Yes  and No alternative form)",
             "네, 한국 사람입니다 (Ne, hanguk saram-imnida - Yes, I am Korean)",
             "아니요, 한국 사람입니다 (Aniyo, hanguk saram-imnida - No, I am Korean)"
           ],
@@ -1118,7 +1118,7 @@
           "options": [
             "은 (eun)",
             "는 (neun)",
-            "가 (Core target concept - Unit 2 Target Practice)"
+            "가 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'이것'은 받침 'ㅅ'이 있으므로 연음되어 '이것은[igeoseun]'이 됩니다."
@@ -1193,8 +1193,8 @@
         {
           "prompt": "'가방(받침 ㅇ 있음) _____ 무겁습니다.' 빈칸에 들어갈 올바른 주격 조사는 무엇입니까?",
           "options": [
-            "이 (Core target concept - Unit 2 Target Practice)",
-            "가 (Core target concept - Unit 2 Target Practice)",
+            "이 (Core concept key phrasing)",
+            "가 (Core concept key phrasing)",
             "을 (eul)"
           ],
           "answerIndex": 0,
@@ -1271,9 +1271,9 @@
         {
           "prompt": "'한국어는 재미있습니다. 하지만 수학_____ 어렵습니다.' 두 과목을 대조할 때 빈칸에 들어갈 가장 알맞은 조사는 무엇입니까?",
           "options": [
-            "은 (Language concept U2)",
+            "은 (Core concept key phrasing)",
             "는 (neun)",
-            "이 (Core target concept - Unit 2 Target Practice)"
+            "이 (Core concept key phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "'한국어는'과 대조를 이루며, '수학'은 받침 'ㄱ'이 있으므로 대조의 보조사 '은'이 결합하여 '수학은'이 됩니다."
@@ -1301,7 +1301,7 @@
           "prompt": "'형_____ 키가 크고, 동생_____ 키가 작습니다.' 두 사람의 키를 대조하는 빈칸에 알맞은 조사 쌍은 무엇입니까?",
           "options": [
             "은, 은은과 동생받침 ㅇ 있음은으로 대조 보조사 은이 양쪽에 결합해 eun, euneungwa dongsaengbadchim ㅇ isseumeuneuro daejo bojosa euni yangjjoke gyeolhabhae (eun, eun)",
-            "이, 가 (Core target concept - Unit 2 Target Practice)",
+            "이, 가 (Core concept alternative form)",
             "을, 를 (eul, reul)"
           ],
           "answerIndex": 0,
@@ -1377,8 +1377,8 @@
         {
           "prompt": "'민수 씨는 마음(받침 ㅁ 있음) _____ 착합니다.' 빈칸에 들어갈 올바른 소주어 조사는 무엇입니까?",
           "options": [
-            "이 (Language concept U2)",
-            "가 (Core target concept - Unit 2 Target Practice)",
+            "이 (Core concept key phrasing)",
+            "가 (Core concept key phrasing)",
             "은 (eun)"
           ],
           "answerIndex": 0,
@@ -1456,7 +1456,7 @@
           "prompt": "'가방(bag) 안에 책(book - 받침 ㄱ 있음) _____ 있습니다.' 빈칸에 들어갈 알맞은 조사는 무엇입니까?",
           "options": [
             "이 (to existhave to not existnot have U2)",
-            "가 (to existhave to not existnot have - Unit 2 Target Practice)",
+            "가 (to existhave to not existnot have key phrasing)",
             "은 (eun)"
           ],
           "answerIndex": 0,
@@ -1561,9 +1561,9 @@
         {
           "prompt": "'저는 음악(music - 받침 ㄱ 있음) _____ 듣습니다.' 빈칸에 들어갈 알맞은 목적격 조사는 무엇입니까?",
           "options": [
-            "을 (Language concept U3)",
+            "을 (Core concept key phrasing)",
             "를 (reul)",
-            "이 (Core target concept - Unit 3 Target Practice)"
+            "이 (Core concept key phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "'음악'은 받침 'ㄱ'이 있으므로 목적격 조사 '을'이 결합하여 연음 발음 [으마글]이 됩니다."
@@ -1639,7 +1639,7 @@
         {
           "prompt": "'민수 씨', '책', '읽습니다'를 한국어의 기본 SOV 어순과 올바른 조사에 맞추어 배열한 문장은 무엇입니까?",
           "options": [
-            "민수 씨가 책을 읽습니다. + 목적어책을 + 동사읽습니다 순서의 SOV 구조가 가장 (S  O  V (U3))",
+            "민수 씨가 책을 읽습니다. + 목적어책을 + 동사읽습니다 순서의 SOV 구조가 가장 (S  O  V alternative form)",
             "민수 씨가 읽습니다 책을. (minsu ssiga ilgseubnida chaekeul.)",
             "책을 읽습니다 민수 씨가. (chaekeul ilgseubnida minsu ssiga.)"
           ],
@@ -1668,7 +1668,7 @@
           "type": "multiple-choice",
           "prompt": "영어 'I watch a movie'(SVO)를 한국어 기본 어순(SOV)으로 올바르게 번역한 문장은 무엇입니까?",
           "options": [
-            "저는 영화를 봅니다. (S  O  V (U3))",
+            "저는 영화를 봅니다. (S  O  V alternative form)",
             "저는 봅니다 영화를. (jeoneun bobnida yeonghwareul.)",
             "영화를 봅니다 저는. (yeonghwareul bobnida jeoneun.)"
           ],
@@ -1747,7 +1747,7 @@
           "options": [
             "에게 (seonmuleul badneun saram daesangimeuro yeogyeok josa egega gyeolhabhayeo chinguegega doebnida.)",
             "을 (eul)",
-            "이 (Core target concept - Unit 3 Target Practice)"
+            "이 (Core concept key phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "선물을 받는 사람 대상이므로 여격 조사 '에게'가 결합하여 '친구에게'가 됩니다."
@@ -2113,7 +2113,7 @@
         {
           "prompt": "동사 '읽다(to read)'의 해요체 활용형과 올바른 발음 표기는 어느 것입니까?",
           "options": [
-            "읽어요 (Language concept U4)",
+            "읽어요 (Core concept key phrasing)",
             "읽아요 (ilgayo ilgayo)",
             "읽해요 (ilghaeyo ilkaeyo)"
           ],
@@ -2482,7 +2482,7 @@
           "prompt": "동사 '먹다(to eat - 받침 ㄱ 있음)'의 올바른 하십시오체 활용형은 어느 것입니까?",
           "options": [
             "먹습니다 (meokseubnida)",
-            "먹ㅂ니다 (Language concept U5)",
+            "먹ㅂ니다 (Core concept alternative form)",
             "먹입니다 (meokibnida)"
           ],
           "answerIndex": 0,
@@ -2574,7 +2574,7 @@
           "prompt": "'음악을 자주 _____? (Do you often listen to music?)' 빈칸에 들어갈 알맞은 격식체 의문사는 무엇입니까?",
           "options": [
             "듣습니까 (deudseubnikka)",
-            "듣ㅂ니까 (Language concept U5)",
+            "듣ㅂ니까 (Core concept alternative form)",
             "듣입니까 (deudibnikka)"
           ],
           "answerIndex": 0,
@@ -2927,7 +2927,7 @@
         {
           "prompt": "동사 '먹다(to eat - 음성모음 ㅓ)'의 올바른 해요체 과거형은 무엇입니까?",
           "options": [
-            "먹었어요 (vs  vs (U6))",
+            "먹었어요 (vs  vs key phrasing)",
             "먹았어요 (meokasseoyo)",
             "먹했어요 (meokhaesseoyo)"
           ],
@@ -3388,8 +3388,8 @@
           "prompt": "동사 '가다(to go - 모음 어간)'의 올바른 미래 예정형은 무엇입니까?",
           "options": [
             "갈 거예요 (gal geoyeyo)",
-            "가을 거예요ㄹ 거예요 (Language concept U7)",
-            "가ㄹ 거예요ㄹ 거예요 (Language concept U7)"
+            "가을 거예요ㄹ 거예요 (Core concept alternative form)",
+            "가ㄹ 거예요ㄹ 거예요 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'가다'는 받침이 없는 모음 종결 어간이므로 '-ㄹ 거예요'가 결합하여 '갈 거예요[갈꺼예요]'가 됩니다."
@@ -3402,8 +3402,8 @@
           "prompt": "동사 '먹다(to eat - 자음 어간)'의 올바른 미래 예정형은 어느 것입니까?",
           "options": [
             "먹을 거예요 (meokeul geoyeyo)",
-            "먹ㄹ 거예요ㄹ 거예요 (Language concept U7)",
-            "먹예요ㄹ 거예요 (Language concept U7)"
+            "먹ㄹ 거예요ㄹ 거예요 (Core concept alternative form)",
+            "먹예요ㄹ 거예요 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'먹다'는 받침이 있는 자음 어간이므로 '-을 거예요'와 결합하여 '먹을 거예요[머글꺼예요]'가 됩니다."
@@ -3417,8 +3417,8 @@
           "prompt": "'주말에 맛있는 저녁 요리를 _____ (I will make delicious dinner).' 빈칸에 알맞은 '만들다'의 미래형은?",
           "options": [
             "만들 거예요 (mandeul geoyeyo)",
-            "만들을 거예요ㄹ 거예요 (Language concept U7)",
-            "만들ㄹ 거예요ㄹ 거예요 (Language concept U7)"
+            "만들을 거예요ㄹ 거예요 (Core concept alternative form)",
+            "만들ㄹ 거예요ㄹ 거예요 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'만들다'는 어간 끝이 'ㄹ' 받침이므로 그대로 '거예요'가 결합하여 '만들 거예요[만들꺼예요]'가 됩니다."
@@ -3664,8 +3664,8 @@
           "prompt": "카페에서 친구에게 '오늘 커피는 내가 살게(약속/호의)'라고 말할 때 가장 자연스러운 표현은 무엇입니까?",
           "options": [
             "오늘 커피는 제가 살게요. (oneul keopineun jega salgeyo.)",
-            "오늘 커피는 제가 살 거예요.ㄹ게요'와 일반 예정 '- (Language concept U7)",
-            "오늘 커피는 제가 샀어요.ㄹ게요'와 일반 예정 '- (Language concept U7)"
+            "오늘 커피는 제가 살 거예요.ㄹ게요'와 일반 예정 '- (Core concept alternative form)",
+            "오늘 커피는 제가 샀어요.ㄹ게요'와 일반 예정 '- (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "청자에게 호의를 베풀거나 약속하는 1인칭 즉각 반응이므로 '살게요'가 가장 자연스럽습니다."
@@ -3677,9 +3677,9 @@
         {
           "prompt": "다음 중 '-(으)ㄹ게요'의 문법 규칙에 엄격히 부합하는 올바른 문장은 어느 것입니까?",
           "options": [
-            "제가 내일 아침 일찍 연락할게요. (Language concept U7)",
-            "선생님, 내일 학교에 올게요?ㄹ게요'와 일반 예정 '- (Language concept U7)",
-            "민수 씨가 내일 영화를 볼게요.ㄹ게요'와 일반 예정 '- (Language concept U7)"
+            "제가 내일 아침 일찍 연락할게요. (Core concept alternative form)",
+            "선생님, 내일 학교에 올게요?ㄹ게요'와 일반 예정 '- (Core concept alternative form)",
+            "민수 씨가 내일 영화를 볼게요.ㄹ게요'와 일반 예정 '- (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'-(으)ㄹ게요'는 1인칭 주어 평서문에서만 사용 가능하므로 '제가 ... 연락할게요'가 유일하게 올바릅니다."
@@ -3693,8 +3693,8 @@
           "prompt": "'A: 서류 정리가 좀 많네요. B: 걱정하지 마세요. 제가 _____ (Don't worry, I will help you).' 빈칸에 알맞은 약속형은?",
           "options": [
             "도와드릴게요 (dowadeurilgeyo)",
-            "도와드릴 거예요ㄹ게요'와 일반 예정 '- (Language concept U7)",
-            "도와드렸어요ㄹ게요'와 일반 예정 '- (Language concept U7)"
+            "도와드릴 거예요ㄹ게요'와 일반 예정 '- (Core concept alternative form)",
+            "도와드렸어요ㄹ게요'와 일반 예정 '- (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "상대방을 돕겠다고 약속하는 대화 상황이므로 '도와드릴게요'가 가장 적절합니다."
@@ -4123,7 +4123,7 @@
         {
           "prompt": "'안경(glasses)'을 착용할 때 결합하는 올바른 착용 동사는 무엇입니까?",
           "options": [
-            "쓰다 (Language concept U8)",
+            "쓰다 (Core concept key phrasing)",
             "입다 (angyeongeul ibda)",
             "신다 (angyeongeul sinda)"
           ],
@@ -4429,7 +4429,7 @@
           "prompt": "'A: 어디_____ 왔어요? B: 저는 호주_____ 왔어요.' 빈칸에 공통으로 알맞은 출처 조사는?",
           "options": [
             "에서 (Origin from)",
-            "에 (Action Location  Origin from - Unit 9 Target Practice)",
+            "에 (Action Location  Origin from key phrasing)",
             "으로 (euro)"
           ],
           "answerIndex": 0,
@@ -4507,7 +4507,7 @@
           "options": [
             "에, 에서 (sijange gayo)",
             "에서, 에 (eseo, e)",
-            "에, 에 (vs - Unit 9 Target Practice)"
+            "에, 에 (vs alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "첫 문장은 이동 도착점('시장에 가요'), 두 번째 문장은 구매 행동 장소('시장에서 살 거예요')입니다."
@@ -4583,7 +4583,7 @@
         {
           "prompt": "'오른쪽(right side)' 방향으로 이동하라고 안내할 때 올바른 결합 형태는 무엇입니까?",
           "options": [
-            "오른쪽으로 (Language concept U9)",
+            "오른쪽으로 (Core concept key phrasing)",
             "오른쪽로로 (oreunjjokroro)",
             "오른쪽에로로 (oreunjjokeroro)"
           ],
@@ -4768,8 +4768,8 @@
           "prompt": "동사 '가다(to go)'의 올바른 능력/가능 긍정형은 무엇입니까?",
           "options": [
             "갈 수 있어요 (gal su isseoyo)",
-            "가을 수 있어요ㄹ 수 있다 (Language concept U10)",
-            "가 수 있어요ㄹ 수 있다 (Language concept U10)"
+            "가을 수 있어요ㄹ 수 있다 (Core concept alternative form)",
+            "가 수 있어요ㄹ 수 있다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'가다'는 받침이 없는 모음 종결 어간이므로 '-ㄹ 수 있다'가 결합하여 '갈 수 있어요'가 됩니다."
@@ -4782,8 +4782,8 @@
           "prompt": "동사 '읽다(to read - 자음 받침)'의 올바른 가능형은 어느 것입니까?",
           "options": [
             "읽을 수 있어요 (ilgeul su isseoyo)",
-            "읽ㄹ 수 있어요ㄹ 수 있다 (Language concept U10)",
-            "읽 수 있어요ㄹ 수 있다 (Language concept U10)"
+            "읽ㄹ 수 있어요ㄹ 수 있다 (Core concept alternative form)",
+            "읽 수 있어요ㄹ 수 있다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'읽다'는 받침이 있으므로 '-을 수 있다'와 결합하여 '읽을 수 있어요'가 됩니다."
@@ -4797,8 +4797,8 @@
           "prompt": "'한국 요리를 혼자서 _____ (I can make Korean food alone).' 빈칸에 알맞은 '만들다'의 가능형은?",
           "options": [
             "만들 수 있어요 (mandeul su isseoyo)",
-            "만들을 수 있어요ㄹ 수 있다 (Language concept U10)",
-            "만들ㄹ 수 있어요ㄹ 수 있다 (Language concept U10)"
+            "만들을 수 있어요ㄹ 수 있다 (Core concept alternative form)",
+            "만들ㄹ 수 있어요ㄹ 수 있다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'만들다'는 어간 끝이 'ㄹ' 받침이므로 그대로 '수 있다'가 결합하여 '만들 수 있어요'가 됩니다."
@@ -4860,8 +4860,8 @@
           "prompt": "동사 '가다(to go)'의 능력/상황 부정형으로 가장 올바른 것은 무엇입니까?",
           "options": [
             "갈 수 없어요 (gal su eobseoyo)",
-            "가을 수 없어요ㄹ 수 없다 (Language concept U10)",
-            "가 수 없어요ㄹ 수 없다 (Language concept U10)"
+            "가을 수 없어요ㄹ 수 없다 (Core concept alternative form)",
+            "가 수 없어요ㄹ 수 없다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'가다'에 부정 어미 '-ㄹ 수 없다'가 결합하여 '갈 수 없어요'가 됩니다."
@@ -4874,8 +4874,8 @@
           "prompt": "'회의 중이라서 전화를 받지 못한다'를 정중하게 표현한 문장은 어느 것입니까?",
           "options": [
             "회의 중이라서 전화를 받을 수 없어요. (hoeui jungiraseo jeonhwareul badeul su eobseoyo.)",
-            "회의 중이라서 전화를 받ㄹ 수 없어요.ㄹ 수 없다 (Language concept U10)",
-            "회의 중이라서 전화를 받아 수 없어요.ㄹ 수 없다 (Language concept U10)"
+            "회의 중이라서 전화를 받ㄹ 수 없어요.ㄹ 수 없다 (Core concept alternative form)",
+            "회의 중이라서 전화를 받아 수 없어요.ㄹ 수 없다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'받다'는 자음 받침이 있으므로 '-을 수 없다'와 결합하여 '받을 수 없어요'가 됩니다."
@@ -4889,8 +4889,8 @@
           "prompt": "다음 중 정중한 거절 표현으로 문법과 화용이 가장 자연스러운 문장은?",
           "options": [
             "죄송하지만 내일은 일정이 있어서 갈 수 없습니다. (joesonghajiman)",
-            "죄송하지만 내일은 일정이 있어서 갈 수 있습니다.ㄹ 수 없다 (Language concept U10)",
-            "죄송하지만 내일은 일정이 있어서 가지 수 없어요.ㄹ 수 없다 (Language concept U10)"
+            "죄송하지만 내일은 일정이 있어서 갈 수 있습니다.ㄹ 수 없다 (Core concept alternative form)",
+            "죄송하지만 내일은 일정이 있어서 가지 수 없어요.ㄹ 수 없다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "사과 표현('죄송하지만')과 이유('일정이 있어서'), 정중한 불가능 서술('갈 수 없습니다')이 완벽합니다."
@@ -4952,8 +4952,8 @@
           "prompt": "'운전하다(to drive)'를 부정 부사 '못'을 사용하여 바르게 표현한 것은 무엇입니까?",
           "options": [
             "운전을 못해요. (unjeoneul moshaeyo.)",
-            "못 운전해요.ㄹ 수 없다 (Language concept U10)",
-            "운전이 못해요.ㄹ 수 없다 (Language concept U10)"
+            "못 운전해요.ㄹ 수 없다 (Core concept alternative form)",
+            "운전이 못해요.ㄹ 수 없다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'명사+하다' 구조의 동사는 '못'이 '하다' 바로 앞에 들어가 '운전을 못해요'가 됩니다."
@@ -4966,8 +4966,8 @@
           "prompt": "다음 중 '못'의 결합이 문법적으로 잘못된 비문은 어느 것입니까?",
           "options": [
             "오늘 날씨가 못 추워요. (chubda)",
-            "오늘 학교에 못 가요.ㄹ 수 없다 (Language concept U10)",
-            "김치를 매워서 못 먹어요.ㄹ 수 없다 (Language concept U10)"
+            "오늘 학교에 못 가요.ㄹ 수 없다 (Core concept alternative form)",
+            "김치를 매워서 못 먹어요.ㄹ 수 없다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'못'은 형용사(춥다)와 결합할 수 없으며 단순 부정 부사인 '안'을 써야 합니다 ('안 추워요')."
@@ -4981,8 +4981,8 @@
           "prompt": "'시간이 부족해서 점심을 _____ (I couldn't eat lunch).' 빈칸에 알맞은 형태는?",
           "options": [
             "못 먹었어요 (mos meokeosseoyo)",
-            "안 먹었어요ㄹ 수 없다 (Language concept U10)",
-            "못 춥었어요ㄹ 수 없다 (Language concept U10)"
+            "안 먹었어요ㄹ 수 없다 (Core concept alternative form)",
+            "못 춥었어요ㄹ 수 없다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "시간 부족이라는 외적 여건으로 인해 먹지 못한 상황이므로 능력/상황 부정인 '못 먹었어요'가 정확합니다."
@@ -5043,9 +5043,9 @@
         {
           "prompt": "피아노 연주 방법을 알고 있음을 나타내는 가장 올바른 표현은 무엇입니까?",
           "options": [
-            "피아노를 칠 줄 알아요. (Language concept U10)",
-            "피아노를 치을 줄 알아요.ㄹ 줄 알다 / 모르다 (Language concept U10)",
-            "피아노를 쳐 줄 알아요.ㄹ 줄 알다 / 모르다 (Language concept U10)"
+            "피아노를 칠 줄 알아요. (Core concept alternative form)",
+            "피아노를 치을 줄 알아요.ㄹ 줄 알다 / 모르다 (Core concept alternative form)",
+            "피아노를 쳐 줄 알아요.ㄹ 줄 알다 / 모르다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'치다'는 모음 종결 어간이므로 '-ㄹ 줄 알다'가 결합하여 '칠 줄 알아요'가 됩니다."
@@ -5058,8 +5058,8 @@
           "prompt": "'스키를 타는 방법을 모른다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
             "스키를 탈 줄 몰라요. (bangbeobeul moreul ttaeneun moreudareul gyeolhabhayeo tal jul molrayoga olbareubnida.)",
-            "스키를 타을 줄 몰라요.ㄹ 줄 알다 / 모르다 (Language concept U10)",
-            "스키를 탈 줄 알아요.ㄹ 줄 알다 / 모르다 (Language concept U10)"
+            "스키를 타을 줄 몰라요.ㄹ 줄 알다 / 모르다 (Core concept alternative form)",
+            "스키를 탈 줄 알아요.ㄹ 줄 알다 / 모르다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "방법을 모를 때는 '모르다'를 결합하여 '탈 줄 몰라요'가 올바릅니다."
@@ -5072,9 +5072,9 @@
           "type": "multiple-choice",
           "prompt": "'A: 한국 요리 할 줄 알아요? B: 네, 불고기를 _____.' 빈칸에 알맞은 형태는?",
           "options": [
-            "만들 줄 알아요 (Language concept U10)",
-            "만들을 줄 알아요ㄹ 줄 알다 / 모르다 (Language concept U10)",
-            "만들 줄 몰라요ㄹ 줄 알다 / 모르다 (Language concept U10)"
+            "만들 줄 알아요 (Core concept key phrasing)",
+            "만들을 줄 알아요ㄹ 줄 알다 / 모르다 (Core concept alternative form)",
+            "만들 줄 몰라요ㄹ 줄 알다 / 모르다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'네'로 긍정 답변을 했으며 '만들다'는 ㄹ 받침이므로 '만들 줄 알아요'가 정확합니다."
@@ -5780,7 +5780,7 @@
           "prompt": "'할아버지(Grandfather)' 뒤에 올 가장 알맞은 존칭 주격 조사는 무엇입니까?",
           "options": [
             "께서 (juche nopim daesang dwieneun jonching jugyeok josa kkeseoga gyeolhabhabnida.)",
-            "가 (Syntactic Agreement - Unit 12 Target Practice)",
+            "가 (Syntactic Agreement key phrasing)",
             "에게 (ege)"
           ],
           "answerIndex": 0,
@@ -6360,7 +6360,7 @@
           "type": "multiple-choice",
           "prompt": "'교수님을 _____ 연구실에 갔습니다 (I went to the lab to see the professor).' 빈칸에 알맞은 형태는?",
           "options": [
-            "뵈러 (vs (U13))",
+            "뵈러 (vs key phrasing)",
             "뵙으러의 객체 높임 특수 동사 '뵙다 / 뵈다' (boebeureoui gaekche nopim teuksu dongsa 'boebda / boeda')",
             "봬러의 객체 높임 특수 동사 '뵙다 / 뵈다' (bwaereoui gaekche nopim teuksu dongsa 'boebda / boeda')"
           ],
@@ -6699,7 +6699,7 @@
         {
           "prompt": "명령문 '서두르세요(Please hurry)' 앞의 이유 절로 가장 올바른 형태는 무엇입니까?",
           "options": [
-            "시간이 없으니까 (Language concept U14)",
+            "시간이 없으니까 (Core concept key phrasing)",
             "시간이 없어서니까 (sigani eobseoseonikka)",
             "시간이 없으면니까 (sigani eobseumyeonnikka)"
           ],
@@ -6912,9 +6912,10 @@
           "type": "multiple-choice",
           "prompt": "다음 세 문장의 문법적 정오 판단이 모두 올바른 것은?",
           "options": [
-            "1. 와 주셔서 감사합니다  / 2. 추우니까 코트 입으세요  / 3. 비가 와서 우산 쓰세요 (Core target concept - Unit 14 Target Practice)",
-            "1. 와 주셔서 감사합니다  / 2. 추우니까 코트 입으세요  / 3. 비가 와서 우산 쓰세요 (Core target concept - Unit 14 Target Practice) [Option 2]",
-            "1. 와 주니까 감사합니다  / 2. 추워서 코트 입으세요  / 3. 비가 오기 때문에 우산 쓰세요 (Core target concept - Unit 14 Target Practice)"
+            "1. 와 주셔서 감사합니다 (Thank you for coming) / 2. 추우니까 코트 입으세요 (Wear a coat because it is cold) / 3. 비가 와서 우산 쓰세요 (Use an umbrella because it is raining)",
+            "1. 와 주시니까 감사합니다 (Incorrect connective ending for gratitude) / 2. 춥기 때문에 코트 입으세요 / 3. 비가 오니까 우산 썼어요",
+            "1. 와서 고맙습니다 (Informal ending) / 2. 추워서 코트 입으십시오 (Incorrect -aseo with imperative) / 3. 비가 와서 우산 쓰십시오",
+            "1. 오면 감사합니다 (Incorrect hypothetical -myeon) / 2. 추우면 코트 입었어요 / 3. 비가 오면 우산 쓰겠습니다"
           ],
           "answerIndex": 0,
           "explanation": "감사에는 '-아/어서', 명령에는 '-(으)니까'가 맞으며, 명령에 '-아/어서'를 쓴 3번은 비문(X)입니다."
@@ -7159,9 +7160,9 @@
         {
           "prompt": "형용사 '예쁘다(pretty)'에 배경 제시 어미가 결합한 올바른 형태는 무엇입니까?",
           "options": [
-            "예쁜데 (Language concept U15)",
-            "예쁘는데ㄴ/는데 (Language concept U15)",
-            "예쁜는데ㄴ/는데 (Language concept U15)"
+            "예쁜데 (Core concept key phrasing)",
+            "예쁘는데ㄴ/는데 (Core concept alternative form)",
+            "예쁜는데ㄴ/는데 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "형용사 모음 종결 어간 뒤에는 '-(으)ㄴ데'가 붙어 '예쁜데'가 됩니다."
@@ -7174,8 +7175,8 @@
           "prompt": "동사 '먹다(eat)'와 '있다(exist)'의 배경 제시 형태가 모두 올바르게 짝지어진 것은?",
           "options": [
             "먹는데 - 있는데 (meokneunde)",
-            "먹은데 - 있은데ㄴ/는데 (Language concept U15)",
-            "먹는데 - 있은데ㄴ/는데 (Language concept U15)"
+            "먹은데 - 있은데ㄴ/는데 (Core concept alternative form)",
+            "먹는데 - 있은데ㄴ/는데 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "동사는 '-는데(먹는데)', '있다/없다'도 항상 '-는데(있는데)'가 결합합니다."
@@ -7189,8 +7190,8 @@
           "prompt": "'제가 지금 도서관에 _____ 책을 빌려다 드릴까요? (I am in the library now, shall I borrow a book for you?)' 빈칸에 알맞은 형태는?",
           "options": [
             "있는데 (issneunde)",
-            "있은데ㄴ/는데 (Language concept U15)",
-            "있는지ㄴ/는데 (Language concept U15)"
+            "있은데ㄴ/는데 (Core concept alternative form)",
+            "있는지ㄴ/는데 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'있다'의 어간 뒤에는 '-는데'가 결합하여 '있는데'가 됩니다."
@@ -7252,8 +7253,8 @@
           "prompt": "친구의 식사 제안을 완곡하고 공손하게 거절하는 가장 적절한 표현은 무엇입니까?",
           "options": [
             "같이 가고 싶은데 오늘 다른 약속이 있어요. (hwajaui maeumeul wangokhage balghimyeo geojeolhal ttaeneun gago sipeundega gajang jayeonseureobgo budeureobseubnida.)",
-            "같이 가고 싶지만 오늘 다른 약속이 있습니다.ㄴ/는데' vs '-지만' 뉘앙스 (Language concept U15)",
-            "같이 가고 싶으니까 안 갈 거예요.ㄴ/는데' vs '-지만' 뉘앙스 (Language concept U15)"
+            "같이 가고 싶지만 오늘 다른 약속이 있습니다.ㄴ/는데' vs '-지만' 뉘앙스 (Core concept alternative form)",
+            "같이 가고 싶으니까 안 갈 거예요.ㄴ/는데' vs '-지만' 뉘앙스 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "화자의 마음을 완곡하게 밝히며 거절할 때는 '가고 싶은데'가 가장 자연스럽고 부드럽습니다."
@@ -7266,8 +7267,8 @@
           "prompt": "기대와 다른 반전 상황을 아쉬움을 담아 표현한 가장 자연스러운 문장은 어느 것입니까?",
           "options": [
             "열심히 찾아봤는데 지갑이 어디에도 없어요. (ilsang gueoeseo gidaewa eogeusnan banjeonjeok aswiumeul wangokhi jeonhal ttaeneun -ass/eossneundega eutteumibnida.)",
-            "열심히 찾아봤지만 지갑이 어디에도 없습니다.ㄴ/는데' vs '-지만' 뉘앙스 (Language concept U15)",
-            "열심히 찾아보니까 지갑이 어디에도 없습니다.ㄴ/는데' vs '-지만' 뉘앙스 (Language concept U15)"
+            "열심히 찾아봤지만 지갑이 어디에도 없습니다.ㄴ/는데' vs '-지만' 뉘앙스 (Core concept alternative form)",
+            "열심히 찾아보니까 지갑이 어디에도 없습니다.ㄴ/는데' vs '-지만' 뉘앙스 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "일상 구어에서 기대와 어긋난 반전적 아쉬움을 완곡히 전할 때는 '-았/었는데'가 으뜸입니다."
@@ -7281,8 +7282,8 @@
           "prompt": "'영화를 보러 _____ 표가 매진되었어요 (I went to see a movie, but tickets were sold out).' 빈칸에 알맞은 형태는?",
           "options": [
             "갔는데 (pyo maejin)",
-            "가서ㄴ/는데' vs '-지만' 뉘앙스 (Language concept U15)",
-            "가니까요ㄴ/는데' vs '-지만' 뉘앙스 (Language concept U15)"
+            "가서ㄴ/는데' vs '-지만' 뉘앙스 (Core concept alternative form)",
+            "가니까요ㄴ/는데' vs '-지만' 뉘앙스 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "과거 행동 뒤에 기대와 다른 상황(표 매진)을 맞닥뜨린 반전 배경이므로 '갔는데'가 정확합니다."
@@ -7344,8 +7345,8 @@
           "prompt": "'제가 민수입니다(I am Minsu)'를 전화를 걸어온 상대에게 부드럽게 밝히는 종결 표현은?",
           "options": [
             "제가 민수인데요. (jega minsuindeyo.)",
-            "제가 민수지만요.ㄴ/는데요' (Language concept U15)",
-            "제가 민수니까요.ㄴ/는데요' (Language concept U15)"
+            "제가 민수지만요.ㄴ/는데요' (Core concept alternative form)",
+            "제가 민수니까요.ㄴ/는데요' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "자신임을 밝히며 상대방의 용건을 묻는 정중한 응답은 '제가 민수인데요'입니다."
@@ -7358,8 +7359,8 @@
           "prompt": "음식 맛에 대한 부드러운 감탄을 나타내는 가장 자연스러운 종결형은 어느 것입니까?",
           "options": [
             "생각했던 것보다 훨씬 더 맛있는데요! (saenggakhaessdeon geosboda hweolssin deo masissneundeyo!)",
-            "생각했던 것보다 훨씬 더 맛있지만요!ㄴ/는데요' (Language concept U15)",
-            "생각했던 것보다 훨씬 더 맛있어서요!ㄴ/는데요' (Language concept U15)"
+            "생각했던 것보다 훨씬 더 맛있지만요!ㄴ/는데요' (Core concept alternative form)",
+            "생각했던 것보다 훨씬 더 맛있어서요!ㄴ/는데요' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "예상 밖의 맛에 대한 기분 좋은 감탄과 피드백에는 '맛있는데요'가 가장 자연스럽습니다."
@@ -7373,8 +7374,8 @@
           "prompt": "'A: 커피 한잔 더 드실래요? B: 저는 방금 _____ (I drank just now).' 빈칸에 알맞은 완곡 거절형은?",
           "options": [
             "마셨는데요 (masyeossneundeyo)",
-            "마셨지만요ㄴ/는데요' (Language concept U15)",
-            "마시니까요ㄴ/는데요' (Language concept U15)"
+            "마셨지만요ㄴ/는데요' (Core concept alternative form)",
+            "마시니까요ㄴ/는데요' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "이미 마셨음을 완곡히 알리며 사양하는 종결형은 '마셨는데요'입니다."
@@ -7619,9 +7620,9 @@
         {
           "prompt": "형용사 '좋다(good)'가 명사 '날씨(weather)'를 현재형으로 수식하는 올바른 형태는?",
           "options": [
-            "좋은 날씨 (Language concept U16)",
-            "좋는 날씨ㄴ' vs 형용사의 현재 관형형 johneun nalssiㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Language concept U16)",
-            "좋은는 날씨ㄴ' vs 형용사의 현재 관형형 joheunneun nalssiㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Language concept U16)"
+            "좋은 날씨 (Core concept key phrasing)",
+            "좋는 날씨ㄴ' vs 형용사의 현재 관형형 johneun nalssiㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Core concept alternative form)",
+            "좋은는 날씨ㄴ' vs 형용사의 현재 관형형 joheunneun nalssiㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "형용사의 현재 관형형은 '-(으)ㄴ'이므로 '좋은 날씨'가 정확합니다 (*'좋는'은 비문)."
@@ -7633,9 +7634,9 @@
         {
           "prompt": "'어제 읽다(read yesterday)'를 사용하여 '책(book)'을 과거 관형형으로 바르게 수식한 것은?",
           "options": [
-            "어제 읽은 책 (Language concept U16)",
-            "어제 읽는 책ㄴ' vs 형용사의 현재 관형형 eoje ilgneun chaekㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Language concept U16)",
-            "어제 읽을 책ㄴ' vs 형용사의 현재 관형형 eoje ilgeul chaekㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Language concept U16)"
+            "어제 읽은 책 (Core concept key phrasing)",
+            "어제 읽는 책ㄴ' vs 형용사의 현재 관형형 eoje ilgneun chaekㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Core concept alternative form)",
+            "어제 읽을 책ㄴ' vs 형용사의 현재 관형형 eoje ilgeul chaekㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "동사의 과거 관형형은 '-(으)ㄴ'이므로 자음 받침 뒤에 '-은'이 붙은 '어제 읽은 책'이 맞습니다."
@@ -7648,9 +7649,9 @@
           "type": "multiple-choice",
           "prompt": "'어제 _____ 사람과 오늘 _____ 사람은 다른 사람입니다.' 빈칸에 들어갈 알맞은 형태 순서는?",
           "options": [
-            "만난 / 만나는 (Language concept U16)",
-            "만나는 / 만난ㄴ' vs 형용사의 현재 관형형 mannaneun / mannanㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Language concept U16)",
-            "만날 / 만난ㄴ' vs 형용사의 현재 관형형 mannal / mannanㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Language concept U16)"
+            "만난 / 만나는 (Core concept alternative form)",
+            "만나는 / 만난ㄴ' vs 형용사의 현재 관형형 mannaneun / mannanㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Core concept alternative form)",
+            "만날 / 만난ㄴ' vs 형용사의 현재 관형형 mannal / mannanㄴ' vs hyeongyongsaui hyeonjae gwanhyeonghyeong (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "어제 만난(과거 동사 '-(으)ㄴ') + 오늘 만나는(현재 동사 '-는')의 대조가 완벽합니다."
@@ -7711,9 +7712,9 @@
         {
           "prompt": "'내일 먹다(eat tomorrow)'를 사용하여 '음식(food)'을 미래 관형형으로 바르게 수식한 형태는?",
           "options": [
-            "내일 먹을 음식 (Language concept U16)",
-            "내일 먹는 음식ㄹ' (Language concept U16)",
-            "내일 먹은 음식ㄹ' (Language concept U16)"
+            "내일 먹을 음식 (Core concept alternative form)",
+            "내일 먹는 음식ㄹ' (Core concept alternative form)",
+            "내일 먹은 음식ㄹ' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "미래 시제 관형형 어미는 '-(으)ㄹ'이므로 '먹을 음식'이 정확합니다."
@@ -7726,8 +7727,8 @@
           "prompt": "'주말에 가다(go on the weekend)'를 '곳(place)'과 결합한 올바른 미래 관형절은?",
           "options": [
             "주말에 갈 곳 (jumale gal gos)",
-            "주말에 가는 곳ㄹ' (Language concept U16)",
-            "주말에 간 곳ㄹ' (Language concept U16)"
+            "주말에 가는 곳ㄹ' (Core concept alternative form)",
+            "주말에 간 곳ㄹ' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "모음 종결 어간 '가-'에 '-ㄹ'이 붙어 '갈 곳'이 됩니다."
@@ -7741,8 +7742,8 @@
           "prompt": "'내일 시험에서 _____ 문제들을 미리 복습했습니다.' 빈칸에 알맞은 미래형은?",
           "options": [
             "나올 (naol)",
-            "나오는ㄹ' (Language concept U16)",
-            "나온ㄹ' (Language concept U16)"
+            "나오는ㄹ' (Core concept alternative form)",
+            "나온ㄹ' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "내일 시험에 출제될 미래의 문제이므로 '나올'이 정확합니다."
@@ -8173,9 +8174,9 @@
         {
           "prompt": "시스템 화면에 '재고가 없다'는 사실을 간결하게 표기할 때 가장 표준적인 명사형 종결 표기는?",
           "options": [
-            "재고 없음 (Language concept U17)",
-            "재고 없기ㅁ' (Language concept U17)",
-            "재고 없는 것ㅁ' (Language concept U17)"
+            "재고 없음 (Core concept key phrasing)",
+            "재고 없기ㅁ' (Core concept alternative form)",
+            "재고 없는 것ㅁ' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "시스템 상태나 공식 알림의 명사형 종결은 '-(으)ㅁ'을 사용하여 '재고 없음'으로 표기합니다."
@@ -8187,9 +8188,9 @@
         {
           "prompt": "공식 업무 보고 메모에서 '회의를 마쳤다'를 압축하여 서면 명사형으로 종결한 올바른 문장은?",
           "options": [
-            "금일 프로젝트 회의 정상 종료함. (Language concept U17)",
-            "금일 프로젝트 회의 정상 종료하기.ㅁ' (Language concept U17)",
-            "금일 프로젝트 회의 정상 종료하는 것.ㅁ' (Language concept U17)"
+            "금일 프로젝트 회의 정상 종료함. (Core concept alternative form)",
+            "금일 프로젝트 회의 정상 종료하기.ㅁ' (Core concept alternative form)",
+            "금일 프로젝트 회의 정상 종료하는 것.ㅁ' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "서면 업무 보고 명사형 종결체는 '-(으)ㅁ(종료함)'입니다."
@@ -8203,8 +8204,8 @@
           "prompt": "게시판 공지문 '[알림] 금일 세미나 장소가 301호로 _____.' 빈칸에 가장 알맞은 명사형 종결 표현은?",
           "options": [
             "변경되었음 (byeongyeongdoeeosseum)",
-            "변경되었기ㅁ' (Language concept U17)",
-            "변경되는 것ㅁ' (Language concept U17)"
+            "변경되었기ㅁ' (Core concept alternative form)",
+            "변경되는 것ㅁ' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "과거 완료된 공식 공지 사실의 서면 종결체는 '-었음(변경되었음)'입니다."
@@ -8265,9 +8266,9 @@
         {
           "prompt": "'바라다(hope/wish)' 앞에 결합할 수 있는 올바른 명사형 어미는 무엇입니까?",
           "options": [
-            "-기 (vs  vs (U17))",
+            "-기 (vs  vs key phrasing)",
             "-는 것 (haengbokhasineun geoseul barabnida)",
-            "- (vs  vs (U17))"
+            "- (vs  vs)"
           ],
           "answerIndex": 0,
           "explanation": "'바라다'는 희망의 동사이므로 명사형 어미 '-기'와 결합하는 강력한 통사 제약을 가집니다."
@@ -8279,9 +8280,9 @@
         {
           "prompt": "다음 중 후행 서술어와의 문법적 결합이 올바른 문장은 어느 것입니까?",
           "options": [
-            "진실이 밝혀졌음이 법정에서 명백히 인정되었습니다. 법정이나 공식 문서에서 객관적 사실 입증에는 -으ㅁ밝혀졌음이이 결합합니다.ㅁ'의 통사 제약 및 화용론적 기능 비교 jinsili balghyeojyeosseumi beobjeongeseo myeongbaekhi injeongdoeeossseubnida. beobjeongina gongsik munseoeseo gaekgwanjeok sasil ibjeungeneun -euㅁbalghyeojyeosseumii gyeolhabhabnida.ㅁ'ui tongsa jeyak mich hwayongronjeok gineung bigyo (vs  vs (U17))",
-            "진실이 밝혀졌기가 법정에서 명백히 인정되었습니다.ㅁ' (vs  vs (U17))",
-            "진실이 밝혀졌는 걸이 법정에서 명백히 인정되었습니다.ㅁ' (vs  vs (U17))"
+            "진실이 밝혀졌음이 법정에서 명백히 인정되었습니다. 법정이나 공식 문서에서 객관적 사실 입증에는 -으ㅁ밝혀졌음이이 결합합니다.ㅁ'의 통사 제약 및 화용론적 기능 비교 jinsili balghyeojyeosseumi beobjeongeseo myeongbaekhi injeongdoeeossseubnida. beobjeongina gongsik munseoeseo gaekgwanjeok sasil ibjeungeneun -euㅁbalghyeojyeosseumii gyeolhabhabnida.ㅁ'ui tongsa jeyak mich hwayongronjeok gineung bigyo (vs  vs alternative form)",
+            "진실이 밝혀졌기가 법정에서 명백히 인정되었습니다.ㅁ' (vs  vs alternative form)",
+            "진실이 밝혀졌는 걸이 법정에서 명백히 인정되었습니다.ㅁ' (vs  vs alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "법정이나 공식 문서에서 객관적 사실 입증에는 '-(으)ㅁ(밝혀졌음이)'이 결합합니다."
@@ -8294,9 +8295,9 @@
           "type": "multiple-choice",
           "prompt": "3대 명사형 어미의 특성을 비교한 설명 중 틀린 것은?",
           "options": [
-            "'-는 것'은 공식 공지문의 문장 종결체로 가장 선호된다. 공식 공지문의 간결한 서면 종결체로는 -는 것이 아니라 -으ㅁ이 선호됩니다.ㅁ'의 통사 제약 및 화용론적 기능 비교 '-neun geos'eun gongsik gongjimunui munjang jonggyeolchero gajang seonhodoenda. gongsik gongjimunui gangyeolhan seomyeon jonggyeolcheroneun -neun geosi anira -euㅁi seonhodoebnida.ㅁ'ui tongsa jeyak mich hwayongronjeok gineung bigyo (vs  vs (U17))",
-            "'-기'는 '-기 전에', '-기 위해', '-기 시작하다' 등의 관용구에 필수적으로 쓰인다.ㅁ' (vs  vs (U17))",
-            "'- (vs  vs (U17))"
+            "'-는 것'은 공식 공지문의 문장 종결체로 가장 선호된다. 공식 공지문의 간결한 서면 종결체로는 -는 것이 아니라 -으ㅁ이 선호됩니다.ㅁ'의 통사 제약 및 화용론적 기능 비교 '-neun geos'eun gongsik gongjimunui munjang jonggyeolchero gajang seonhodoenda. gongsik gongjimunui gangyeolhan seomyeon jonggyeolcheroneun -neun geosi anira -euㅁi seonhodoebnida.ㅁ'ui tongsa jeyak mich hwayongronjeok gineung bigyo (vs  vs alternative form)",
+            "'-기'는 '-기 전에', '-기 위해', '-기 시작하다' 등의 관용구에 필수적으로 쓰인다.ㅁ' (vs  vs alternative form)",
+            "'- (vs  vs)"
           ],
           "answerIndex": 0,
           "explanation": "공식 공지문의 간결한 서면 종결체로는 '-는 것'이 아니라 '-(으)ㅁ'이 선호됩니다."
@@ -8557,7 +8558,7 @@
         {
           "prompt": "\"어디에 살아요?\"라는 질문을 제3자에게 전달할 때 올바른 간접화법은?",
           "options": [
-            "어디에 사냐고 물어봤어요. (Language concept U18)",
+            "어디에 사냐고 물어봤어요. (Core concept alternative form)",
             "어디에 살자고 물어봤어요.냐고 하다' 및 제안문 간접화법 eodie saljago muleobwasseoyo.nyago hada' mich jeanmun ganjeobhwabeob (eodie saljago muleobwasseoyo.nyago hada')",
             "어디에 사라고 물어봤어요.냐고 하다' 및 제안문 간접화법 eodie sarago muleobwasseoyo.nyago hada' mich jeanmun ganjeobhwabeob (eodie sarago muleobwasseoyo.nyago hada')"
           ],
@@ -8757,8 +8758,8 @@
           "prompt": "다음 축약형 연결 중 짝지음이 잘못된 것은?",
           "options": [
             "가라고 해요 → 가대요 (myeongryeong)",
-            "가자고 해요 → 가재요 (4 (U18))",
-            "가냐고 해요 → 가냬요 (4 (U18))"
+            "가자고 해요 → 가재요 (4 alternative form)",
+            "가냐고 해요 → 가냬요 (4 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'가라고 해요(명령)'의 축약형은 '가래요'이며, '가대요'는 '간다고 해요'의 잘못된 축약입니다."
@@ -9201,7 +9202,7 @@
         {
           "prompt": "다음 중 이중 피동 오류가 없는 문법적으로 완벽한 문장은 어느 것입니까?",
           "options": [
-            "세월이 흘러도 그의 이름은 영원히 잊히지 않을 것입니다. (Language concept U19)",
+            "세월이 흘러도 그의 이름은 영원히 잊히지 않을 것입니다. (Core concept alternative form)",
             "세월이 흘러도 그의 이름은 영원히 잊혀지지 않을 것입니다. (seweoli heulreodo geuui ireumeun yeongweonhi ijhyeojiji anheul geosibnida.)",
             "세월이 흘러도 그의 이름은 영원히 잊히어지지 않을 것입니다. (seweoli heulreodo geuui ireumeun yeongweonhi ijhieojiji anheul geosibnida.)"
           ],
@@ -9216,9 +9217,9 @@
           "type": "multiple-choice",
           "prompt": "다음 중 올바른 피동형 짝지음이 아닌 것은?",
           "options": [
-            "닫다 → 닫혀지다 (Language concept U19)",
-            "닫다 → 닫히다 (Language concept U19)",
-            "쓰다 → 쓰이다 (Language concept U19)"
+            "닫다 → 닫혀지다 (Core concept alternative form)",
+            "닫다 → 닫히다 (Core concept alternative form)",
+            "쓰다 → 쓰이다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'닫다'의 피동사는 '닫히다'이며, '닫혀지다'는 이중 피동 오류입니다."
@@ -9400,9 +9401,9 @@
           "type": "multiple-choice",
           "prompt": "다음 중 사동 접미사의 결합이 올바르게 짝지어진 것은?",
           "options": [
-            "웃다 → 웃기다 (6 (U20))",
-            "웃다 → 웃히다 (6 (U20))",
-            "웃다 → 웃리다 (6 (U20))"
+            "웃다 → 웃기다 (6 alternative form)",
+            "웃다 → 웃히다 (6 alternative form)",
+            "웃다 → 웃리다 (6 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'웃다'의 사동사는 '-기-'가 붙어 '웃기다'가 됩니다."
@@ -9937,7 +9938,7 @@
         {
           "prompt": "'안전모를 쓰지 않았다면 큰 부상을 입었을 것이다'를 가장 실감 나게 표현한 문장은?",
           "options": [
-            "안전모를 쓰지 않았더라면 머리를 크게 다칠 뻔했습니다. (Language concept U21)",
+            "안전모를 쓰지 않았더라면 머리를 크게 다칠 뻔했습니다. (Core concept alternative form)",
             "안전모를 쓰지 않더라도 머리를 크게 다치게 되었습니다.더라면' (anjeonmoreul sseuji anhdeorado meorireul keuge dachige doeeossseubnida.deoramyeon')",
             "안전모를 쓰지 않는 한 머리를 크게 다쳤을 것입니다.더라면' (anjeonmoreul sseuji anhneun han meorireul keuge dachyeosseul geosibnida.deoramyeon')"
           ],
@@ -10030,8 +10031,8 @@
           "prompt": "'별다른 문제가 없다면 원래 계획대로 추진한다'를 '-(으)ㄴ/는 한'으로 가장 정확하게 표현한 문장은?",
           "options": [
             "특별한 문제가 없는 한, 원래 계획대로 추진할 것입니다. (teukbyeolhan munjega eobsneun han, weonrae gyehoekdaero chujinhal geosibnida.)",
-            "특별한 문제가 없는 한, 원래 계획대로 추진해 주세요.ㄴ/는 한'과 조건 전제 teukbyeolhan munjega eobsneun han, weonrae gyehoekdaero chujinhae juseyo.ㄴ/neun han'gwa jogeon jeonje (Language concept U21)",
-            "특별한 문제가 없었던 한, 원래 계획대로 추진했거든.ㄴ/는 한'과 조건 전제 teukbyeolhan munjega eobseossdeon han, weonrae gyehoekdaero chujinhaessgeodeun.ㄴ/neun han'gwa jogeon jeonje (Language concept U21)"
+            "특별한 문제가 없는 한, 원래 계획대로 추진해 주세요.ㄴ/는 한'과 조건 전제 teukbyeolhan munjega eobsneun han, weonrae gyehoekdaero chujinhae juseyo.ㄴ/neun han'gwa jogeon jeonje (Core concept alternative form)",
+            "특별한 문제가 없었던 한, 원래 계획대로 추진했거든.ㄴ/는 한'과 조건 전제 teukbyeolhan munjega eobseossdeon han, weonrae gyehoekdaero chujinhaessgeodeun.ㄴ/neun han'gwa jogeon jeonje (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "조건의 범위를 규정하는 '없는 한' + 평서문 의지 '추진할 것입니다'의 결합이 가장 적합합니다."
@@ -10045,8 +10046,8 @@
           "prompt": "다음 중 '-거든'의 문법적 제약에 맞지 않는 비문(틀린 문장)은?",
           "options": [
             "친구가 오거든 함께 맛있는 점심을 먹었습니다. (meokeossseubnida)",
-            "친구가 오거든 함께 맛있는 점심을 먹으러 가자.ㄴ/는 한'과 조건 전제 chinguga ogeodeun hamkke masissneun jeomsimeul meokeureo gaja.ㄴ/neun han'gwa jogeon jeonje (Language concept U21)",
-            "친구가 오거든 문을 열어 주십시오.ㄴ/는 한'과 조건 전제 chinguga ogeodeun muneul yeoleo jusibsio.ㄴ/neun han'gwa jogeon jeonje (Language concept U21)"
+            "친구가 오거든 함께 맛있는 점심을 먹으러 가자.ㄴ/는 한'과 조건 전제 chinguga ogeodeun hamkke masissneun jeomsimeul meokeureo gaja.ㄴ/neun han'gwa jogeon jeonje (Core concept alternative form)",
+            "친구가 오거든 문을 열어 주십시오.ㄴ/는 한'과 조건 전제 chinguga ogeodeun muneul yeoleo jusibsio.ㄴ/neun han'gwa jogeon jeonje (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'-거든' 뒤에는 과거 완료 평서문('먹었습니다')이 올 수 없습니다."
@@ -10108,8 +10109,8 @@
           "prompt": "음주 운전의 위험성을 경고하는 문장으로 가장 적절한 연결어미는?",
           "options": [
             "술을 마시고 운전대를 잡다가는 패가망신할 수 있습니다. (jabdaganeun)",
-            "술을 마시고 운전대를 잡는 한 패가망신할 수 있습니다.와 양보 가정 (Language concept U21)",
-            "술을 마시고 운전대를 잡았더라면 패가망신할 수 있습니다.와 양보 가정 (Language concept U21)"
+            "술을 마시고 운전대를 잡는 한 패가망신할 수 있습니다.와 양보 가정 (Core concept alternative form)",
+            "술을 마시고 운전대를 잡았더라면 패가망신할 수 있습니다.와 양보 가정 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "부정적 행동의 지속으로 인한 비극적 결과를 경고하므로 '-다가는(잡다가는)'이 정확합니다."
@@ -10121,9 +10122,9 @@
         {
           "prompt": "'아무리 실패가 반복되더라도 굴하지 않겠다'를 가장 비장하고 격조 높게 표현한 문장은?",
           "options": [
-            "수없이 실패할지라도 끝까지 도전하겠습니다. (Language concept U21)",
-            "수없이 실패하다가는 끝까지 도전하겠습니다.와 양보 가정 (Language concept U21)",
-            "수없이 실패하거든 끝까지 도전하겠습니다.와 양보 가정 (Language concept U21)"
+            "수없이 실패할지라도 끝까지 도전하겠습니다. (Core concept alternative form)",
+            "수없이 실패하다가는 끝까지 도전하겠습니다.와 양보 가정 (Core concept alternative form)",
+            "수없이 실패하거든 끝까지 도전하겠습니다.와 양보 가정 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "극단적 시련을 양보로 수용하는 '-(으)ㄹ지라도(실패할지라도)'가 가장 적합합니다."
@@ -10137,8 +10138,8 @@
           "prompt": "다음 빈칸에 들어갈 가장 자연스러운 어미는? \"자극적인 음식을 너무 자주 _____ 위장병에 걸릴 위험이 큽니다.\"",
           "options": [
             "먹다가는 (meokdaganeun)",
-            "먹었더라면와 양보 가정 (Language concept U21)",
-            "먹는 한편와 양보 가정 (Language concept U21)"
+            "먹었더라면와 양보 가정 (Core concept alternative form)",
+            "먹는 한편와 양보 가정 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "위험한 습관의 반복에 따른 건강 악화 경고이므로 '먹다가는'이 들어갑니다."
@@ -10384,8 +10385,8 @@
           "prompt": "'익다(ripen)'에 '-(으)ㄹ수록'을 결합한 유명한 한국 속담(\"벼는 익을수록 고개를 숙인다\")의 형태는?",
           "options": [
             "익을수록 (ikeulsurok)",
-            "익수록ㄹ수록' (Language concept U22)",
-            "익을수록에ㄹ수록' (Language concept U22)"
+            "익수록ㄹ수록' (Core concept alternative form)",
+            "익을수록에ㄹ수록' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'익다'는 받침 'ㄱ'이 있으므로 '-을수록'이 결합하여 '익을수록'이 됩니다."
@@ -10398,8 +10399,8 @@
           "prompt": "'시간이 지날수록 상황이 점점 더 나아지고 있다'를 바르게 표현한 문장은?",
           "options": [
             "시간이 갈수록 환자의 건강 상태가 뚜렷하게 호전되고 있습니다. (sigani galsurok hwanjaui geongang sangtaega tturyeoshage hojeondoego issseubnida.)",
-            "시간이 가더라도 환자의 건강 상태가 뚜렷하게 호전되고 있습니다.ㄹ수록' (Language concept U22)",
-            "시간이 가는 한 환자의 건강 상태가 뚜렷하게 호전되고 있습니다.ㄹ수록' (Language concept U22)"
+            "시간이 가더라도 환자의 건강 상태가 뚜렷하게 호전되고 있습니다.ㄹ수록' (Core concept alternative form)",
+            "시간이 가는 한 환자의 건강 상태가 뚜렷하게 호전되고 있습니다.ㄹ수록' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "시간의 경과에 비례하는 긍정적 호전을 나타내므로 '갈수록'이 정확합니다."
@@ -10413,8 +10414,8 @@
           "prompt": "다음 빈칸에 들어갈 가장 자연스러운 연결어미는? \"한국 음식은 자주 _____ 그 깊은 감칠맛에 중독됩니다.\"",
           "options": [
             "먹을수록 (meokeulsurok)",
-            "먹더라도ㄹ수록' (Language concept U22)",
-            "먹는 한편ㄹ수록' (Language concept U22)"
+            "먹더라도ㄹ수록' (Core concept alternative form)",
+            "먹는 한편ㄹ수록' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "빈도 증가에 비례하여 맛을 알게 되는 문맥이므로 '먹을수록'이 알맞습니다."
@@ -10568,8 +10569,8 @@
           "prompt": "명사 '밥(rice/meal)' 뒤에 붙어 '식사는 고사하고 물도 못 마셨다'를 나타내는 올바른 조사는?",
           "options": [
             "밥은커녕 (babeunkeonyeong)",
-            "밥기는커녕과 대체/보상 (Language concept U22)",
-            "밥은 대신에과 대체/보상 (Language concept U22)"
+            "밥기는커녕과 대체/보상 (Core concept alternative form)",
+            "밥은 대신에과 대체/보상 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "명사 뒤에는 바로 '-은/는커녕'이 붙으므로 '밥은커녕'이 정확합니다."
@@ -10582,8 +10583,8 @@
           "prompt": "'집값이 비싼 대신에 주변 학군과 편의시설이 훌륭하다'의 보상/상쇄 관계를 바르게 나타낸 문장은?",
           "options": [
             "이 동네는 집값이 비싼 대신에 생활 인프라와 교육 환경이 대단히 뛰어납니다. (i dongneneun jibgabsi bissan daesine saenghwal inpeurawa gyoyuk hwangyeongi daedanhi ttwieonabnida.)",
-            "이 동네는 집값이 비싸기는커녕 생활 인프라와 교육 환경이 대단히 뛰어납니다.과 대체/보상 (Language concept U22)",
-            "이 동네는 집값이 비싸더라도 생활 인프라와 교육 환경이 대단히 뛰어납니다.과 대체/보상 (Language concept U22)"
+            "이 동네는 집값이 비싸기는커녕 생활 인프라와 교육 환경이 대단히 뛰어납니다.과 대체/보상 (Core concept alternative form)",
+            "이 동네는 집값이 비싸더라도 생활 인프라와 교육 환경이 대단히 뛰어납니다.과 대체/보상 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "높은 가격이라는 단점을 뛰어난 환경이라는 장점으로 상쇄·보상하므로 '비싼 대신에'가 가장 적절합니다."
@@ -10597,8 +10598,8 @@
           "prompt": "다음 빈칸에 들어갈 가장 자연스러운 표현은? \"열심히 도왔는데 고맙다는 인사를 _____ 오히려 원망만 들었어요.\"",
           "options": [
             "받기는커녕 (badgineunkeonyeong)",
-            "받는 대신에과 대체/보상 (Language concept U22)",
-            "받는 한편과 대체/보상 (Language concept U22)"
+            "받는 대신에과 대체/보상 (Core concept alternative form)",
+            "받는 한편과 대체/보상 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "최소한의 감사는커녕 오히려 원망을 들은 극단적 부정 대비이므로 '받기는커녕'이 정답입니다."
@@ -10765,7 +10766,7 @@
         {
           "prompt": "거래처 담당자에게 자료를 첨부하여 정중하게 발송함을 알리는 가장 격식 있는 문장은?",
           "options": [
-            "요청하신 3분기 사업 실적 보고서를 첨부하여 송부해 드립니다. (Language concept U23)",
+            "요청하신 3분기 사업 실적 보고서를 첨부하여 송부해 드립니다. (Core concept alternative form)",
             "요청하신 3분기 사업 실적 보고서를 첨부해서 던져 드립니다. (yocheonghasin 3bungi saeob siljeok bogoseoreul cheombuhaeseo deonjyeo deuribnida.)",
             "요청하신 3분기 사업 실적 보고서를 첨부하더라도 보냅니다. (yocheonghasin 3bungi saeob siljeok bogoseoreul cheombuhadeorado bonaebnida.)"
           ],
@@ -10780,7 +10781,7 @@
           "type": "multiple-choice",
           "prompt": "다음 중 비즈니스 이메일 서명 결미어로 가장 알맞은 것은?",
           "options": [
-            "홍길동 배상 (Language concept U23)",
+            "홍길동 배상 (Core concept alternative form)",
             "홍길동 형아 (honggildong hyeonga)",
             "홍길동 씀 (honggildong sseum)"
           ],
@@ -10843,7 +10844,7 @@
         {
           "prompt": "직속 상사인 '김 부장'에게 보고서를 결재 올릴 때 가장 격식 있는 표현은?",
           "options": [
-            "부장님, 이번 주 기획안을 결재 상신하였습니다. (Language concept U23)",
+            "부장님, 이번 주 기획안을 결재 상신하였습니다. (Core concept alternative form)",
             "부장아, 이번 주 기획안 결재해라. (bujanga, ibeon ju gihoekan gyeoljaehaera.)",
             "김 씨, 이번 주 기획안을 결재해 줬다. (gim ssi, ibeon ju gihoekaneul gyeoljaehae jweossda.)"
           ],
@@ -10872,9 +10873,9 @@
           "type": "multiple-choice",
           "prompt": "한국 기업의 일반적인 승진 직급 순서가 올바르게 나열된 것은?",
           "options": [
-            "사원 → 대리 → 과장 → 차장 → 부장 (Language concept U23)",
-            "부장 → 차장 → 과장 → 대리 → 사원 (Language concept U23)",
-            "사원 → 부장 → 대리 → 차장 → 과장 (Language concept U23)"
+            "사원 → 대리 → 과장 → 차장 → 부장 (Core concept alternative form)",
+            "부장 → 차장 → 과장 → 대리 → 사원 (Core concept alternative form)",
+            "사원 → 부장 → 대리 → 차장 → 과장 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "일반적 기업 직급은 사원-대리-과장-차장-부장 순으로 올라갑니다."
@@ -10965,7 +10966,7 @@
           "prompt": "한국 비즈니스 대화에서 '내부적으로 신중히 검토해 보겠습니다'가 지닌 실제 화용적 의미는?",
           "options": [
             "즉각적인 수락이 어려워 완곡하고 정중하게 거절하거나 보류함을 뜻한다. (jeukgakjeokin suraki eoryeoweo wangokhago jeongjunghage geojeolhageona boryuhameul tteushanda.)",
-            "100% 무조건 내일 당장 계약하겠다는 뜻이다. (Language concept U23)",
+            "100% 무조건 내일 당장 계약하겠다는 뜻이다. (Core concept alternative form)",
             "상대방에게 화를 내며 계약을 파기하겠다는 뜻이다. (sangdaebangege hwareul naemyeo gyeyakeul pagihagessdaneun tteusida.)"
           ],
           "answerIndex": 0,
@@ -11396,8 +11397,8 @@
           "prompt": "'감독이 인터뷰에서 그 사실을 이미 말한 적이 있다'를 품격 높은 비평문으로 전환한 표현은?",
           "options": [
             "감독이 공식 인터뷰에서 직접 밝힌 바 있습니다. (gamdoki gongsik inteobyueseo jikjeob balghin ba issseubnida.)",
-            "감독이 공식 인터뷰에서 직접 밝히더라도 있습니다.ㄴ/는 바 있다' (Language concept U24)",
-            "감독이 공식 인터뷰에서 직접 밝히기는커녕 있습니다.ㄴ/는 바 있다' (Language concept U24)"
+            "감독이 공식 인터뷰에서 직접 밝히더라도 있습니다.ㄴ/는 바 있다' (Core concept alternative form)",
+            "감독이 공식 인터뷰에서 직접 밝히기는커녕 있습니다.ㄴ/는 바 있다' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "공식 선례나 과거 사실을 격조 높게 서술하므로 '밝힌 바 있습니다'가 가장 적합합니다."
@@ -11410,8 +11411,8 @@
           "prompt": "영화의 시각적 구도 연출을 전문적으로 칭찬하는 가장 탁월한 비평 문장은?",
           "options": [
             "어둠과 빛의 강렬한 대비를 활용한 미장센이 인물의 고독감을 극대화했다. (eodumgwa bichui gangryeolhan daebireul hwalyonghan mijangseni inmului godokgameul geukdaehwahaessda.)",
-            "어둠과 빛의 강렬한 대비를 활용할수록 카메라가 고장 났다.ㄴ/는 바 있다' (Language concept U24)",
-            "어둠과 빛의 강렬한 대비를 활용하는 대신에 영화를 상영하지 않았다.ㄴ/는 바 있다' (Language concept U24)"
+            "어둠과 빛의 강렬한 대비를 활용할수록 카메라가 고장 났다.ㄴ/는 바 있다' (Core concept alternative form)",
+            "어둠과 빛의 강렬한 대비를 활용하는 대신에 영화를 상영하지 않았다.ㄴ/는 바 있다' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "화면 내 시각 요소 배치를 뜻하는 '미장센이 인물의 고독감을 극대화했다'가 완벽합니다."
@@ -11424,9 +11425,9 @@
           "type": "multiple-choice",
           "prompt": "다음 중 '-(으)ㄴ 바 있다'의 문법적 기능으로 알맞은 것은?",
           "options": [
-            "과거의 특정한 경험, 선례, 역사적 사실을 격식 있게 진술한다. (Language concept U24)",
-            "미래에 일어날 사태를 추측하며 의문을 제기한다.ㄴ/는 바 있다' (Language concept U24)",
-            "명령이나 청유형으로 상대방의 행동을 촉구한다.ㄴ/는 바 있다' (Language concept U24)"
+            "과거의 특정한 경험, 선례, 역사적 사실을 격식 있게 진술한다. (Core concept alternative form)",
+            "미래에 일어날 사태를 추측하며 의문을 제기한다.ㄴ/는 바 있다' (Core concept alternative form)",
+            "명령이나 청유형으로 상대방의 행동을 촉구한다.ㄴ/는 바 있다' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'-(으)ㄴ 바 있다'는 공식 문어체에서 과거의 선례나 사실을 진술할 때 쓰입니다."
@@ -11501,9 +11502,9 @@
         {
           "prompt": "하나의 원작 소설이나 웹툰을 영화, 드라마, 뮤지컬, 게임 등 다양한 장르로 재생산하는 비즈니스 모델은?",
           "options": [
-            "OSMU (K IP (U24))",
-            "ASMR (K IP (U24))",
-            "B2B (K IP (U24))"
+            "OSMU (K IP)",
+            "ASMR (K IP)",
+            "B2B (K IP)"
           ],
           "answerIndex": 0,
           "explanation": "하나의 원천 지식재산권을 다각도로 활용하는 미디어 전략은 OSMU(원 소스 멀티 유즈)입니다."
@@ -11792,8 +11793,8 @@
           "type": "multiple-choice",
           "prompt": "조선 시대 왕에게 바치던 가장 격조 높은 진지를 뜻하는 궁중 높임말은?",
           "options": [
-            "수라 (Language concept U25)",
-            "밥 (Language concept U25)",
+            "수라 (Core concept key phrasing)",
+            "밥 (bap - cooked rice / meal Batchim ㅂ)",
             "진지 (jinji)"
           ],
           "answerIndex": 0,
@@ -11947,7 +11948,7 @@
         {
           "prompt": "한국 불교 사찰음식에서 마음을 산란하게 하여 배제하는 마늘, 파 등 다섯 가지 자극적인 채소를 일컫는 말은?",
           "options": [
-            "오신채 (Language concept U25)",
+            "오신채 (Core concept key phrasing)",
             "오방색 (obangsaek)",
             "오곡밥 (ogokbab)"
           ],
@@ -12069,7 +12070,7 @@
           "prompt": "다음 중 전통 한식의 철학과 가장 거리가 먼 것은?",
           "options": [
             "자연의 생태를 파괴하고 오직 자극적인 인공 단맛만을 추구한다. (jayeonui saengtaereul pagoehago ojik jageukjeokin ingong danmasmaneul chuguhanda.)",
-            "음식과 약의 근원이 같다는 약식동원 (Language concept U25)",
+            "음식과 약의 근원이 같다는 약식동원 (Core concept alternative form)",
             "청, 적, 황, 백, 흑 오방색의 음양오행적 영양 균형 (cheong, jeok, hwang, baek, heuk obangsaekui eumyangohaengjeok yeongyang gyunhyeong)"
           ],
           "answerIndex": 0,
@@ -12501,9 +12502,9 @@
         {
           "prompt": "의료 상담 및 복약 과정의 올바른 절차를 바르게 나열한 것은?",
           "options": [
-            "증상 문진 접수 → 정밀 검사 및 소견 확인 → 처방전 발급 → 약국 복약 지도 및 완복 (Language concept U26)",
-            "약국에서 약 먼저 사기 → 수술실 들어가기 → 의사에게 화내기 (Language concept U26)",
-            "CT 먼저 찍기 → 1차 병원 가기 → 처방전 버리기 (Language concept U26)"
+            "증상 문진 접수 → 정밀 검사 및 소견 확인 → 처방전 발급 → 약국 복약 지도 및 완복 (Core concept alternative form)",
+            "약국에서 약 먼저 사기 → 수술실 들어가기 → 의사에게 화내기 (Core concept alternative form)",
+            "CT 먼저 찍기 → 1차 병원 가기 → 처방전 버리기 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "문진 → 정밀 검사/소견 → 처방전 발급 → 약국 복약 지도의 순서가 표준 의료 프로세스입니다."
@@ -12992,7 +12993,7 @@
           "options": [
             "등기부등본을 확인하고 전입신고와 확정일자를 마쳐 보증금 대항력을 확보했습니다. (deunggibudeungboneul hwakinhago jeonibsingowa hwakjeongiljareul machyeo bojeunggeum daehangryeokeul hwakbohaessseubnida.)",
             "전세계약을 맺었으니 등기부등본은 찢어서 버리셔도 됩니다. (jeonsegyeyakeul maejeosseuni deunggibudeungboneun jjijeoseo beorisyeodo doebnida.)",
-            "원금 손실 위험이 100% 보장되는 펀드에 전 재산을 맡기세요. (PB (U27))"
+            "원금 손실 위험이 100% 보장되는 펀드에 전 재산을 맡기세요. (PB alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'등기부등본 확인', '전입신고', '확정일자', '대항력 확보'는 완벽한 부동산 경제 실전 표현입니다."
@@ -13053,7 +13054,7 @@
         {
           "prompt": "고생과 어려움을 꿋꿋이 이겨내고 나면 반드시 달콤한 행복과 결실이 찾아온다는 뜻의 사자성어는?",
           "options": [
-            "고진감래 (Language concept U28)",
+            "고진감래 (Core concept key phrasing)",
             "양두구육 (yangduguyuk)",
             "주마간산 (jumagansan)"
           ],
@@ -13067,7 +13068,7 @@
         {
           "prompt": "과거와 비교하여 세상이 놀랍고 몰라보게 달라져 다른 세상에 온 것 같은 깊은 감회를 뜻하는 사자성어는?",
           "options": [
-            "격세지감 (Language concept U28)",
+            "격세지감 (Core concept key phrasing)",
             "탁상공론 (taksanggongron)",
             "화무십일홍 (hwamusibilhong)"
           ],
@@ -13082,7 +13083,7 @@
           "type": "multiple-choice",
           "prompt": "재앙이나 위기가 오히려 좋은 기회나 복으로 바뀐 상황을 가장 잘 나타낸 고사성어는?",
           "options": [
-            "전화위복 (Language concept U28)",
+            "전화위복 (Core concept key phrasing)",
             "새옹지마 (saeongjima)",
             "백절불굴 (baekjeolbulgul)"
           ],
@@ -13145,7 +13146,7 @@
         {
           "prompt": "남의 잘못이나 하찮은 실수라도 자신의 인격과 교훈을 닦는 거울로 삼는다는 뜻의 사자성어는?",
           "options": [
-            "타산지석 (Language concept U28)",
+            "타산지석 (Core concept key phrasing)",
             "양두구육 (yangduguyuk)",
             "화무십일홍 (hwamusibilhong)"
           ],
@@ -13174,7 +13175,7 @@
           "type": "multiple-choice",
           "prompt": "제자가 스승의 가르침을 바탕으로 더욱 정진하여 스승보다 뛰어난 학문적 성취를 거두었을 때 쓰는 성어는?",
           "options": [
-            "청출어람 (Language concept U28)",
+            "청출어람 (Core concept key phrasing)",
             "새옹지마 (saeongjima)",
             "관포지교 (gwanpojigyo)"
           ],
@@ -13237,7 +13238,7 @@
         {
           "prompt": "평소에 빈틈없이 준비해 두면 뜻밖의 재앙이나 걱정거리가 생기지 않는다는 뜻의 사자성어는?",
           "options": [
-            "유비무환 (Language concept U28)",
+            "유비무환 (Core concept key phrasing)",
             "탁상공론 (taksanggongron)",
             "침소봉대 (chimsobongdae)"
           ],
@@ -13251,7 +13252,7 @@
         {
           "prompt": "갈등 해결과 원활한 소통을 위해 서로의 입장을 바꾸어 상대방의 처지에서 헤아려 보는 지혜를 일컫는 사자성어는?",
           "options": [
-            "역지사지 (Language concept U28)",
+            "역지사지 (Core concept key phrasing)",
             "적반하장 (jeokbanhajang)",
             "와신상담 (wasinsangdam)"
           ],
@@ -13266,7 +13267,7 @@
           "type": "multiple-choice",
           "prompt": "어떠한 시련과 난관 앞에서도 백 번 꺾일지언정 결코 굽히지 않는 굳센 절개를 이르는 말은?",
           "options": [
-            "백절불굴 (Language concept U28)",
+            "백절불굴 (Core concept key phrasing)",
             "고진감래 (gojingamrae)",
             "화무십일홍 (hwamusibilhong)"
           ],
@@ -13329,7 +13330,7 @@
         {
           "prompt": "잘못을 저지른 사람이 도리어 큰소리를 치며 피해자에게 성을 내는 파렴치한 상황을 일컫는 사자성어는?",
           "options": [
-            "적반하장 (Language concept U28)",
+            "적반하장 (Core concept key phrasing)",
             "온고지신 (ongojisin)",
             "타산지석 (tasanjiseok)"
           ],
@@ -13343,7 +13344,7 @@
         {
           "prompt": "겉으로는 훌륭한 명분을 내세우지만 속으로는 전혀 딴판인 질 낮은 것을 속여 파는 행태를 뜻하는 사자성어는?",
           "options": [
-            "양두구육 (Language concept U28)",
+            "양두구육 (Core concept key phrasing)",
             "유비무환 (yubimuhwan)",
             "백절불굴 (baekjeolbulgul)"
           ],
@@ -13358,7 +13359,7 @@
           "type": "multiple-choice",
           "prompt": "현실적인 실행 가능성이나 현장의 목소리를 전혀 반영하지 않은 채 책상 위에서만 맴도는 헛된 논의는?",
           "options": [
-            "탁상공론 (Language concept U28)",
+            "탁상공론 (Core concept key phrasing)",
             "청출어람 (cheongchuleoram)",
             "전화위복 (jeonhwawibok)"
           ],
@@ -13421,9 +13422,9 @@
         {
           "prompt": "연설문에서 '옛 지혜를 바탕으로 혁신을 이루고, 철저한 사전 준비로 위험을 막자'는 취지를 표현할 때 가장 적합한 사자성어 쌍은?",
           "options": [
-            "온고지신 (Language concept U28)",
-            "양두구육 (Language concept U28)",
-            "주마간산 (Language concept U28)"
+            "온고지신 (Core concept key phrasing)",
+            "양두구육 (Core concept alternative form)",
+            "주마간산 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "옛것을 익혀 새것을 아는 '온고지신'과 준비가 있으면 근심이 없다는 '유비무환'의 결합이 완벽합니다."
@@ -13436,8 +13437,8 @@
           "prompt": "위기 극복 연설에서 '우리는 숱한 좌절에도 꺾이지 않고 피땀 흘려 노력해 마침내 위기를 기회로 바꾸었다'를 표현하는 사자성어 조합은?",
           "options": [
             "백절불굴 (gochoreul gyeondim)",
-            "침소봉대 (Language concept U28)",
-            "양두구육 (Language concept U28)"
+            "침소봉대 (Core concept alternative form)",
+            "양두구육 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "백절불굴(꺾이지 않음), 와신상담(고초를 견딤), 전화위복(위기를 복으로 바꿈)이 완벽한 논리 조합입니다."
@@ -13634,9 +13635,9 @@
           "type": "multiple-choice",
           "prompt": "한국연구재단에서 국내 우수 학술지를 평가하고 관리하는 국가 학술지 색인 시스템은?",
           "options": [
-            "KCI (Language concept U29)",
-            "KOSPI (Language concept U29)",
-            "KTX (Language concept U29)"
+            "KCI",
+            "KOSPI",
+            "KTX"
           ],
           "answerIndex": 0,
           "explanation": "국내 학술지 관리 및 인용 지수 체계는 KCI(Korea Citation Index)입니다."
@@ -13697,9 +13698,9 @@
         {
           "prompt": "학술 논문에서 연구 결과가 나타난 원인을 학술적이고 객관적으로 서술할 때 가장 적절한 표현은?",
           "options": [
-            "~에 기인하는 것으로 해석된다 (Language concept U29)",
-            "~ 때문이라서 내가 기분이 좋다 (Language concept U29)",
-            "~ 인 것 같아서 그냥 그렇게 썼다 (Language concept U29)"
+            "~에 기인하는 것으로 해석된다 (Core concept key phrasing)",
+            "~ 때문이라서 내가 기분이 좋다 (Core concept alternative form)",
+            "~ 인 것 같아서 그냥 그렇게 썼다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'~에 기인하는 것으로 해석된다'는 원인 귀속을 객관적으로 서술하는 표준 학술 문형입니다."
@@ -13711,9 +13712,9 @@
         {
           "prompt": "논문의 결론부에서 연구자가 조심스럽고 품격 있게 제언이나 견해를 밝힐 때 쓰는 고급 학술 어미는?",
           "options": [
-            "~할 필요가 있을 것으로 사료된다 (Language concept U29)",
-            "~하니까 너희들이 알아서 해라 (Language concept U29)",
-            "~하고 싶다고 솔직히 말하겠다 (Language concept U29)"
+            "~할 필요가 있을 것으로 사료된다 (Core concept alternative form)",
+            "~하니까 너희들이 알아서 해라 (Core concept alternative form)",
+            "~하고 싶다고 솔직히 말하겠다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'~으로 사료된다'는 학술 연구자의 정중하고 신중한 판단을 드러내는 최상급 학술 어휘입니다."
@@ -13726,7 +13727,7 @@
           "type": "multiple-choice",
           "prompt": "연구의 가치와 학문적 기여도를 평가할 때 가장 적절한 학술적 문장 표현은?",
           "options": [
-            "새로운 방법론을 제시했다는 점에서 중요한 학술적 의의를 지닌다. (Language concept U29)",
+            "새로운 방법론을 제시했다는 점에서 중요한 학술적 의의를 지닌다. (Core concept alternative form)",
             "내가 열심히 썼기 때문에 이 논문은 아주 훌륭하다. (naega yeolsimhi sseossgi ttaemune i nonmuneun aju hulryunghada.)",
             "아무도 안 읽을 것 같아서 별로 의미가 없다. (amudo an ilgeul geos gataseo byeolro uimiga eobsda.)"
           ],
@@ -14709,9 +14710,9 @@
         {
           "prompt": "시사 논증에서 어떤 사태가 부정적인 최종 결과로 끝날 확률이 매우 높음을 경고할 때 쓰는 고급 관용 문형은?",
           "options": [
-            "~로 귀결될 공산이 크다 (Language concept U31)",
-            "~로 끝나면 내가 밥을 사겠다 (Language concept U31)",
-            "~로 될지 안 될지 아무도 모른다 (Language concept U31)"
+            "~로 귀결될 공산이 크다 (Core concept key phrasing)",
+            "~로 끝나면 내가 밥을 사겠다 (Core concept alternative form)",
+            "~로 될지 안 될지 아무도 모른다 (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'~로 귀결될 공산이 크다'는 결과의 인과적 귀결 가능성을 격조 높게 예측하는 표현입니다."
@@ -14907,7 +14908,7 @@
         {
           "prompt": "1970년대 한국의 급격한 산업화와 도시 재개발 이면에 숨겨진 철거민 가족의 비극을 연작 형태로 다룬 조세희의 소설은?",
           "options": [
-            "난장이가 쏘아올린 작은 공 (Language concept U32)",
+            "난장이가 쏘아올린 작은 공 (Core concept key phrasing)",
             "동백꽃 (dongbaekkkoch)",
             "운수 좋은 날 (unsu joheun nal)"
           ],
@@ -15353,7 +15354,7 @@
         {
           "prompt": "인공지능(AI) 칩셋의 초고속 연산을 위해 D램을 여러 층으로 수직 적층하여 데이터 처리 대역폭을 극대화한 차세대 메모리 반도체는?",
           "options": [
-            "HBM (Language concept U33)",
+            "HBM",
             "플로피 디스크 (peulropi diseukeu)",
             "카세트 테이프 (kaseteu teipeu)"
           ],
@@ -15658,7 +15659,7 @@
           "type": "multiple-choice",
           "prompt": "첨단 기술 확보가 국가의 존립과 번영에 직결되어 있음을 강조하는 가장 강력한 사자성어적 관용구는?",
           "options": [
-            "국가의 사활 (Language concept U33)",
+            "국가의 사활 (Core concept alternative form)",
             "가화만사성이다 (gahwamansaseongida)",
             "동문서답을 일삼는다 (dongmunseodabeul ilsamneunda)"
           ],
@@ -15919,9 +15920,9 @@
         {
           "prompt": "국제사회가 북핵 및 대량살상무기 폐기의 기준으로 제시하는 '완전하고 검증 가능하며 불가역적인 비핵화'의 영문 약칭은?",
           "options": [
-            "CVID (Language concept U34)",
-            "COVID (Language concept U34)",
-            "OECD (Language concept U34)"
+            "CVID",
+            "COVID",
+            "OECD"
           ],
           "answerIndex": 0,
           "explanation": "완전하고 검증 가능하며 불가역적인 비핵화는 'CVID'입니다."

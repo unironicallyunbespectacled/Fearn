@@ -1100,10 +1100,10 @@
         {
           "prompt": "हिंदी में सामान्यतः '-ई' (ईकारांत) पर समाप्त होने वाली संज्ञाएं (जैसे: कुर्सी, खिड़की, गाड़ी) किस लिंग की होती हैं?",
           "options": [
-            "स्त्रीलिंग (Language concept U2)",
-            "पुल्लिंग (Language concept U2)",
-            "नपुंसकलिंग (Language concept U2)",
-            "उभयलिंग (Language concept U2)"
+            "स्त्रीलिंग (Core concept key phrasing)",
+            "पुल्लिंग (Core concept alternative form)",
+            "नपुंसकलिंग (Core concept alternative form)",
+            "उभयलिंग (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'-ई' पर समाप्त होने वाले अधिकांश शब्द (कुर्सी, खिड़की, गाड़ी आदि) स्त्रीलिंग होते हैं।"
@@ -1115,10 +1115,10 @@
         {
           "prompt": "इनमें से कौन-सा शब्द अपवाद स्वरूप '-ई' पर समाप्त होने के बावजूद 'पुल्लिंग' है?",
           "options": [
-            "पानी (Language concept U2)",
-            "नदी (Language concept U2)",
-            "रोटी (Language concept U2)",
-            "गाड़ी (Core target concept - Unit 2 Target Practice)"
+            "पानी (pānī - water प p + ा aa + न n + ी ee)",
+            "नदी (Core concept alternative form)",
+            "रोटी (Core concept alternative form)",
+            "गाड़ी (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«पानी» (Water) हिंदी में एक प्रमुख अपवाद है जो ईकारांत होने पर भी पुल्लिंग माना जाता है।"
@@ -1131,10 +1131,10 @@
           "type": "multiple-choice",
           "prompt": "संज्ञा और लिंग की दृष्टि से सही वाक्य का चयन कीजिए:",
           "options": [
-            "यह किताब बहुत अच्छी है और यह कमरा बहुत साफ़ है। (Language concept U2)",
-            "यह किताब बहुत अच्छा है और कमरा साफ़ी है। (Language concept U2)",
-            "यह कमरा अच्छी है और किताब बड़ा है। (Language concept U2)",
-            "किताब कमरा में सोता है। (Language concept U2)"
+            "यह किताब बहुत अच्छी है और यह कमरा बहुत साफ़ है। (Core concept alternative form)",
+            "यह किताब बहुत अच्छा है और कमरा साफ़ी है। (Core concept alternative form)",
+            "यह कमरा अच्छी है और किताब बड़ा है। (Core concept alternative form)",
+            "किताब कमरा में सोता है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«किताब» स्त्रीलिंग है (अच्छी है) और «कमरा» पुल्लिंग है (साफ़ है)।"
@@ -1183,9 +1183,9 @@
           "prompt": "आकारांत पुल्लिंग संज्ञा 'कमरा' का प्रत्यक्ष बहुवचन (Direct Plural) रूप क्या होगा?",
           "options": [
             "कमरे (kamarae)",
-            "कमराएं (Language concept U2)",
-            "कमरियां (Language concept U2)",
-            "कमराओं (Language concept U2)"
+            "कमराएं (Core concept alternative form)",
+            "कमरियां (Core concept alternative form)",
+            "कमराओं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "आकारांत पुल्लिंग संज्ञा में '-आ' बदलकर '-ए' हो जाता है, अतः 'कमरा' का बहुवचन «कमरे» होगा।"
@@ -1197,10 +1197,10 @@
         {
           "prompt": "पुल्लिंग संज्ञा 'पेड़' का बहुवचन रूप तीन की संख्या के साथ क्या होगा?",
           "options": [
-            "तीन पेड़ (Language concept U2)",
-            "तीन पेड़ें (Language concept U2)",
-            "तीन पेड़ों (Language concept U2)",
-            "तीन पेड़े (Language concept U2)"
+            "तीन पेड़ (Core concept key phrasing)",
+            "तीन पेड़ें (Core concept alternative form)",
+            "तीन पेड़ों (Core concept alternative form)",
+            "तीन पेड़े (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "व्यंजनांत पुल्लिंग संज्ञाएं प्रत्यक्ष बहुवचन में नहीं बदलतीं, अतः «तीन पेड़» सही रूप है।"
@@ -1213,10 +1213,10 @@
           "type": "multiple-choice",
           "prompt": "पुल्लिंग बहुवचन के नियमों के अनुसार कौन-सा वाक्य पूर्णतः शुद्ध है?",
           "options": [
-            "मैदान में कई लड़के खेल रहे हैं और रास्ते साफ़ हैं। (Language concept U2)",
-            "मैदान में कई लड़काएं खेल रहे हैं और रास्ताएं साफ़ हैं। (Language concept U2)",
-            "मैदान में कई लड़कियां खेलता है। (Language concept U2)",
-            "मैदान में लड़के खेलती है। (Language concept U2)"
+            "मैदान में कई लड़के खेल रहे हैं और रास्ते साफ़ हैं। (Core concept alternative form)",
+            "मैदान में कई लड़काएं खेल रहे हैं और रास्ताएं साफ़ हैं। (Core concept alternative form)",
+            "मैदान में कई लड़कियां खेलता है। (Core concept alternative form)",
+            "मैदान में लड़के खेलती है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«लड़के» (लड़का का बहुवचन) और «रास्ते» (रास्ता का बहुवचन) दोनों मानक पुल्लिंग बहुवचन रूप हैं।"
@@ -1264,9 +1264,9 @@
         {
           "prompt": "ईकारांत स्त्रीलिंग संज्ञा 'कुर्सी' का शुद्ध बहुवचन रूप कौन-सा है?",
           "options": [
-            "कुर्सियाँ (Language concept U2)",
-            "कुर्सीएं (Language concept U2)",
-            "कुर्सियां (Language concept U2)",
+            "कुर्सियाँ (Core concept key phrasing)",
+            "कुर्सीएं (Core concept alternative form)",
+            "कुर्सियां (Core concept alternative form)",
             "कुर्से (kaurasae)"
           ],
           "answerIndex": 0,
@@ -1279,10 +1279,10 @@
         {
           "prompt": "स्त्रीलिंग संज्ञा 'किताब' का शुद्ध बहुवचन रूप क्या है?",
           "options": [
-            "किताबें (Language concept U2)",
-            "किताबियाँ (Language concept U2)",
-            "किताबे (Language concept U2)",
-            "किताबों (Language concept U2)"
+            "किताबें (Core concept key phrasing)",
+            "किताबियाँ (Core concept alternative form)",
+            "किताबे (Core concept key phrasing)",
+            "किताबों (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "व्यंजनांत स्त्रीलिंग शब्द में '-एं' जुड़ता है, अतः 'किताब' का प्रत्यक्ष बहुवचन «किताबें» है।"
@@ -1295,10 +1295,10 @@
           "type": "multiple-choice",
           "prompt": "स्त्रीलिंग बहुवचन के शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "मेज पर नई किताबें और कुर्सियाँ रखी हैं। (Language concept U2)",
-            "मेज पर नया किताबे और कुर्सिए रखा है। (Language concept U2)",
-            "मेज पर नई किताबियाँ और कुर्सीएं है। (Language concept U2)",
-            "मेज पर किताबे रखे हैं। (Language concept U2)"
+            "मेज पर नई किताबें और कुर्सियाँ रखी हैं। (Core concept alternative form)",
+            "मेज पर नया किताबे और कुर्सिए रखा है। (Core concept alternative form)",
+            "मेज पर नई किताबियाँ और कुर्सीएं है। (Core concept alternative form)",
+            "मेज पर किताबे रखे हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«किताबें» और «कुर्सियाँ» दोनों मानक स्त्रीलिंग बहुवचन रूप हैं और क्रिया 'हैं' सही है।"
@@ -1346,10 +1346,10 @@
         {
           "prompt": "स्त्रीलिंग बहुवचन संज्ञा 'किताबें' के साथ विकारी विशेषण 'नया' का कौन-सा रूप प्रयुक्त होगा?",
           "options": [
-            "नई (Core target concept - Unit 2 Target Practice)",
+            "नई (Core concept key phrasing)",
             "नए (nae)",
-            "नया (Language concept U2)",
-            "नयों (Language concept U2)"
+            "नया (Core concept alternative form)",
+            "नयों (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग संज्ञाओं (एकवचन व बहुवचन दोनों) के साथ विकारी विशेषण का रूप «नई» (ईकारांत) रहता है।"
@@ -1363,8 +1363,8 @@
           "options": [
             "अच्छे (acachae)",
             "अच्छा (Achha - Good)",
-            "अच्छी (Language concept U2)",
-            "अच्छों (Language concept U2)"
+            "अच्छी (Core concept alternative form)",
+            "अच्छों (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "पुल्लिंग बहुवचन संज्ञा के साथ आकारांत विशेषण बदलकर '-ए' (अच्छे) हो जाता है।"
@@ -1377,10 +1377,10 @@
           "type": "multiple-choice",
           "prompt": "विशेषण-संज्ञा समन्वय की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
-            "हमारे पास बड़े कमरे और अच्छी कुर्सियाँ हैं। (Language concept U2)",
-            "हमारे पास बड़ा कमरे और अच्छा कुर्सियाँ हैं। (Language concept U2)",
-            "हमारे पास बड़ी कमरे और अच्छे कुर्सियाँ हैं। (Language concept U2)",
-            "कमरे बड़ी है और कुर्सियाँ बड़ा है। (Language concept U2)"
+            "हमारे पास बड़े कमरे और अच्छी कुर्सियाँ हैं। (Core concept alternative form)",
+            "हमारे पास बड़ा कमरे और अच्छा कुर्सियाँ हैं। (Core concept alternative form)",
+            "हमारे पास बड़ी कमरे और अच्छे कुर्सियाँ हैं। (Core concept alternative form)",
+            "कमरे बड़ी है और कुर्सियाँ बड़ा है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«बड़े कमरे» (पुल्लिंग बहुवचन) और «अच्छी कुर्सियाँ» (स्त्रीलिंग बहुवचन) में विशेषण का सटीक समन्वय है।"
@@ -1428,10 +1428,10 @@
         {
           "prompt": "किसी अनजान व्यक्ति (सजीव प्राणी) के लिए किस अनिश्चयवाचक सर्वनाम का प्रयोग किया जाता है?",
           "options": [
-            "कोई (Language concept U2)",
+            "कोई (Core concept key phrasing)",
             "कुछ (kaucha)",
             "कौन (kaauna)",
-            "क्या (Language concept U2)"
+            "क्या (kyā - what क् k + या yaa)"
           ],
           "answerIndex": 0,
           "explanation": "सजीव प्राणियों की अनिश्चितता के लिए «कोई» का प्रयोग होता है।"
@@ -1459,10 +1459,10 @@
           "type": "multiple-choice",
           "prompt": "सर्वनाम के सही प्रयोग वाला प्रामाणिक वाक्य चुनिए:",
           "options": [
-            "ये मेरे मित्र हैं और बाहर कोई आपका इंतज़ार कर रहा है। (Language concept U2)",
-            "यह मेरे मित्र हैं और बाहर कुछ इंतज़ार कर रहा है। (Language concept U2)",
-            "वे मेरा कलम है और कोई किताबें हैं। (Language concept U2)",
-            "कुछ लोग वे है और कोई पानी पीता है। (Language concept U2)"
+            "ये मेरे मित्र हैं और बाहर कोई आपका इंतज़ार कर रहा है। (Core concept alternative form)",
+            "यह मेरे मित्र हैं और बाहर कुछ इंतज़ार कर रहा है। (Core concept alternative form)",
+            "वे मेरा कलम है और कोई किताबें हैं। (Core concept alternative form)",
+            "कुछ लोग वे है और कोई पानी पीता है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«ये मेरे मित्र हैं» (बहुवचन निकटवर्ती) और «कोई आपका इंतज़ार कर रहा है» (सजीव अनिश्चित) व्याकरण की दृष्टि से पूर्णतः शुद्ध है।"
@@ -1511,7 +1511,7 @@
           "prompt": "किसी सतह के ऊपर स्थित होने का भाव (जैसे: On the table) व्यक्त करने के लिए कौन-सा परसर्ग प्रयुक्त होता है?",
           "options": [
             "पर (para)",
-            "में (Language concept U3)",
+            "में (Core concept alternative form)",
             "से (sae)",
             "को (kao)"
           ],
@@ -1525,7 +1525,7 @@
         {
           "prompt": "वाक्य «मेरी कलम बस्ते ___ है» में सही परसर्ग भरिए:",
           "options": [
-            "में (Language concept U3)",
+            "में (Core concept key phrasing)",
             "पर (para)",
             "तक (taka)",
             "से (sae)"
@@ -1541,10 +1541,10 @@
           "type": "multiple-choice",
           "prompt": "स्थानिक परसर्गों के शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "सभी छात्र कक्षा में बैठे हैं और पुस्तकें मेज़ पर रखी हैं। (Language concept U3)",
-            "सभी छात्र कक्षा पर बैठे हैं और पुस्तकें मेज़ में रखी हैं। (Language concept U3)",
-            "सभी छात्र कक्षा तक बैठा है। (Language concept U3)",
-            "पुस्तकें मेज़ से सोती हैं। (Language concept U3)"
+            "सभी छात्र कक्षा में बैठे हैं और पुस्तकें मेज़ पर रखी हैं। (Core concept alternative form)",
+            "सभी छात्र कक्षा पर बैठे हैं और पुस्तकें मेज़ में रखी हैं। (Core concept alternative form)",
+            "सभी छात्र कक्षा तक बैठा है। (Core concept alternative form)",
+            "पुस्तकें मेज़ से सोती हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«कक्षा में» (In the class) और «मेज़ पर» (On the table) परसर्गों का सर्वथा उपयुक्त और प्रामाणिक प्रयोग है।"
@@ -1593,9 +1593,9 @@
           "prompt": "साधन या माध्यम (जैसे: 'बस द्वारा जाना' या 'कलम द्वारा लिखना') दर्शाने के लिए किस परसर्ग का प्रयोग होता है?",
           "options": [
             "से (sae)",
-            "में (Language concept U3)",
-            "पर (Language concept U3)",
-            "को (Language concept U3)"
+            "में (Core concept alternative form)",
+            "पर (Core concept alternative form)",
+            "को (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "साधन या माध्यम व्यक्त करने के लिए «से» (Instrumental) का प्रयोग किया जाता है।"
@@ -1608,9 +1608,9 @@
           "prompt": "वाक्य «मैं भारत ___ हूँ» में अपने मूल देश को बताने के लिए कौन-सा परसर्ग लगेगा?",
           "options": [
             "से (sae)",
-            "में (Language concept U3)",
-            "पर (Language concept U3)",
-            "तक (Language concept U3)"
+            "में (Core concept alternative form)",
+            "पर (Core concept alternative form)",
+            "तक (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "स्रोत या मूल स्थान बताने के लिए «से» (From) का प्रयोग होता है।"
@@ -1623,10 +1623,10 @@
           "type": "multiple-choice",
           "prompt": "परसर्ग 'से' के सटीक और व्याकरणसम्मत प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "अमित रोज़ रेलगाड़ी से यात्रा करता है और अपने गुरुजी से सीखता है। (Language concept U3)",
-            "अमित रोज़ रेलगाड़ी में लिखता है और गुरुजी पर खाता है। (Language concept U3)",
-            "अमित रेलगाड़ी को जाता है। (Language concept U3)",
-            "अमित गुरुजी तक सोता है। (Language concept U3)"
+            "अमित रोज़ रेलगाड़ी से यात्रा करता है और अपने गुरुजी से सीखता है। (Core concept alternative form)",
+            "अमित रोज़ रेलगाड़ी में लिखता है और गुरुजी पर खाता है। (Core concept alternative form)",
+            "अमित रेलगाड़ी को जाता है। (Core concept alternative form)",
+            "अमित गुरुजी तक सोता है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«रेलगाड़ी से यात्रा करना» (साधन) और «गुरुजी से सीखना» (स्रोत) दोनों में 'से' का सटीक प्रयोग है।"
@@ -1675,9 +1675,9 @@
           "prompt": "किसी व्यक्ति के हित या उद्देश्य (जैसे: For you) को दर्शाने के लिए किस संयुक्त परसर्ग का प्रयोग होता है?",
           "options": [
             "के लिए (kae laie)",
-            "के पास (Language concept U3)",
-            "के ऊपर (Language concept U3)",
-            "के साथ (Language concept U3)"
+            "के पास (Core concept alternative form)",
+            "के ऊपर (Core concept alternative form)",
+            "के साथ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "उद्देश्य या हित दर्शाने के लिए «के लिए» (For) का प्रयोग किया जाता है।"
@@ -1690,7 +1690,7 @@
           "prompt": "सजीव विशिष्ट कर्म वाले वाक्य «अध्यापक ने छात्र ___ बुलाया» में उपयुक्त परसर्ग क्या होगा?",
           "options": [
             "को (kao)",
-            "में (Language concept U3)",
+            "में (Core concept alternative form)",
             "पर (para)",
             "तक (taka)"
           ],
@@ -1705,10 +1705,10 @@
           "type": "multiple-choice",
           "prompt": "परसर्ग 'को' और 'के लिए' के सटीक प्रयोग वाला शुद्ध वाक्य चुनिए:",
           "options": [
-            "मैंने अपने मित्र को जन्मदिन पर बधाई दी और उसके लिए उपहार खरीदा। (Language concept U3)",
-            "मैंने मित्र में बधाई दी और उसके पर उपहार खरीदा। (Language concept U3)",
-            "मैंने मित्र तक उपहार दिया। (Language concept U3)",
-            "उपहार मित्र से खाता है। (Language concept U3)"
+            "मैंने अपने मित्र को जन्मदिन पर बधाई दी और उसके लिए उपहार खरीदा। (Core concept alternative form)",
+            "मैंने मित्र में बधाई दी और उसके पर उपहार खरीदा। (Core concept alternative form)",
+            "मैंने मित्र तक उपहार दिया। (Core concept alternative form)",
+            "उपहार मित्र से खाता है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मित्र को बधाई दी» और «उसके लिए उपहार खरीदा» दोनों व्याकरण और अर्थ की दृष्टि से पूर्णतः शुद्ध हैं।"
@@ -1841,7 +1841,7 @@
             "उसे / उसको (usae / usakao)",
             "इसे (isae)",
             "मुझे (maujhae)",
-            "तुम्हें (Language concept U3)"
+            "तुम्हें (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "वह + को मिलकर «उसे» या «उसको» रूप बनता है।"
@@ -1853,8 +1853,8 @@
         {
           "prompt": "आदरणीय या बहुवचन व्यक्तियों के लिए 'वे' + 'को' का संयुक्त रूप क्या होगा?",
           "options": [
-            "उन्हें / उनको (Language concept U3)",
-            "इन्हें (Language concept U3)",
+            "उन्हें / उनको (Core concept alternative form)",
+            "इन्हें (Core concept alternative form)",
             "उसे (usae)",
             "किसे (kaisae)"
           ],
@@ -1869,10 +1869,10 @@
           "type": "multiple-choice",
           "prompt": "तिर्यक् सर्वनाम के सही प्रयोग वाला मानक वाक्य चुनिए:",
           "options": [
-            "मुझे यह बात अच्छी लगी और मैंने उन्हें धन्यवाद दिया। (Language concept U3)",
-            "मैं को यह बात अच्छा लगा और मैंने वह को धन्यवाद दिया। (Language concept U3)",
-            "मुझ यह बात अच्छी लगी और उन धन्यवाद दिया। (Language concept U3)",
-            "मुझे वह में धन्यवाद है। (Language concept U3)"
+            "मुझे यह बात अच्छी लगी और मैंने उन्हें धन्यवाद दिया। (Core concept alternative form)",
+            "मैं को यह बात अच्छा लगा और मैंने वह को धन्यवाद दिया। (Core concept alternative form)",
+            "मुझ यह बात अच्छी लगी और उन धन्यवाद दिया। (Core concept alternative form)",
+            "मुझे वह में धन्यवाद है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मुझे» (मैं+को) और «उन्हें» (वे+को) दोनों मानक संयुक्त सर्वनाम रूप हैं।"
@@ -2002,9 +2002,9 @@
         {
           "prompt": "अंग्रेजी शब्द 'Always' (सदा) के लिए सबसे प्रामाणिक हिंदी क्रिया-विशेषण कौन-सा है?",
           "options": [
-            "हमेशा / सदा (Language concept U4)",
-            "कभी-कभी (Language concept U4)",
-            "कभी नहीं (Language concept U4)",
+            "हमेशा / सदा (Core concept alternative form)",
+            "कभी-कभी (Core concept alternative form)",
+            "कभी नहीं (Core concept alternative form)",
             "अक्सर (akasara)"
           ],
           "answerIndex": 0,
@@ -2018,9 +2018,9 @@
           "prompt": "वाक्य «वह ___ शाम को पुस्तकालय जाती है» में 'Often' के अर्थ हेतु कौन-सा शब्द उपयुक्त है?",
           "options": [
             "अक्सर (akasara)",
-            "कभी नहीं (Language concept U4)",
+            "कभी नहीं (Core concept alternative form)",
             "कल (kala)",
-            "परसों (Language concept U4)"
+            "परसों (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'Often' (प्रायः) का अर्थ व्यक्त करने के लिए «अक्सर» सही शब्द है।"
@@ -2033,10 +2033,10 @@
           "type": "multiple-choice",
           "prompt": "दैनिक दिनचर्या और बारंबारता का शुद्ध वाक्य पहचानिए:",
           "options": [
-            "मैं प्रतिदिन सुबह सात बजे नाश्ता करता हूँ और समय पर दफ़्तर पहुँचता हूँ। (Language concept U4)",
-            "मैं कभी नहीं नाश्ता खाता हूँ और रोज़ देर से पहुँचती है। (Language concept U4)",
-            "पिताजी अक्सर नाश्ता करती हैं। (Language concept U4)",
-            "हम हमेशा नाश्ता करता हूँ। (Language concept U4)"
+            "मैं प्रतिदिन सुबह सात बजे नाश्ता करता हूँ और समय पर दफ़्तर पहुँचता हूँ। (Core concept alternative form)",
+            "मैं कभी नहीं नाश्ता खाता हूँ और रोज़ देर से पहुँचती है। (Core concept alternative form)",
+            "पिताजी अक्सर नाश्ता करती हैं। (Core concept alternative form)",
+            "हम हमेशा नाश्ता करता हूँ। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रतिदिन सुबह सात बजे नाश्ता करता हूँ» में समय, क्रिया-विशेषण और क्रिया का पूर्ण समन्वय है।"
@@ -2084,10 +2084,10 @@
         {
           "prompt": "सकारात्मक वाक्य «वह चाय पीती है» का सबसे स्वाभाविक मानक नकारात्मक रूप क्या होगा?",
           "options": [
-            "वह चाय नहीं पीती (Language concept U4)",
-            "वह नहीं चाय पीती है (Language concept U4)",
-            "वह चाय पीती नहीं है (Language concept U4)",
-            "वह चाय मत पीती (Language concept U4)"
+            "वह चाय नहीं पीती (Core concept key phrasing)",
+            "वह नहीं चाय पीती है (Core concept alternative form)",
+            "वह चाय पीती नहीं है (Core concept alternative form)",
+            "वह चाय मत पीती (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'नहीं' मुख्य क्रिया से पूर्व आता है और 'है' का लोप मानक रूप से «वह चाय नहीं पीती» बनता है।"
@@ -2099,10 +2099,10 @@
         {
           "prompt": "नकारात्मक वाक्य में 'नहीं' का सही स्थान कहाँ होता है?",
           "options": [
-            "मुख्य क्रिया (Language concept U4)",
-            "वाक्य के सबसे अंत में (Language concept U4)",
-            "कर्ता के ठीक पहले (Language concept U4)",
-            "कर्म के ठीक बाद (Language concept U4)"
+            "मुख्य क्रिया (Core concept alternative form)",
+            "वाक्य के सबसे अंत में (Core concept alternative form)",
+            "कर्ता के ठीक पहले (Core concept alternative form)",
+            "कर्म के ठीक बाद (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'नहीं' हमेशा मुख्य कृदंत क्रिया (जैसे: नहीं खाता, नहीं जाता) के ठीक पहले आता है।"
@@ -2115,10 +2115,10 @@
           "type": "multiple-choice",
           "prompt": "नकारात्मक वाक्य रचना की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
-            "हम कभी किसी का दिल नहीं दुखाते और झूठ नहीं बोलते। (Language concept U4)",
-            "हम कभी किसी का दिल दुखाते नहीं हैं और झूठ मत बोलते। (Language concept U4)",
-            "हम नहीं दिल दुखाते हैं। (Language concept U4)",
-            "झूठ नहीं हम बोलते। (Language concept U4)"
+            "हम कभी किसी का दिल नहीं दुखाते और झूठ नहीं बोलते। (Core concept alternative form)",
+            "हम कभी किसी का दिल दुखाते नहीं हैं और झूठ मत बोलते। (Core concept alternative form)",
+            "हम नहीं दिल दुखाते हैं। (Core concept alternative form)",
+            "झूठ नहीं हम बोलते। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«दिल नहीं दुखाते» और «झूठ नहीं बोलते» में 'नहीं' का स्थान और क्रिया-संयोजन पूर्णतः मानक है।"
@@ -2166,10 +2166,10 @@
         {
           "prompt": "यदि आप किसी से पूछना चाहते हैं 'Where do you live?', तो शुद्ध हिंदी वाक्य क्या होगा?",
           "options": [
-            "आप कहाँ रहते हैं? (Language concept U4)",
-            "आप क्या रहते हैं? (Language concept U4)",
-            "कहाँ आप रहते हो? (Language concept U4)",
-            "आप कब रहते हैं? (Language concept U4)"
+            "आप कहाँ रहते हैं? (Core concept key phrasing)",
+            "आप क्या रहते हैं? (Core concept alternative form)",
+            "कहाँ आप रहते हो? (Core concept alternative form)",
+            "आप कब रहते हैं? (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "स्थान पूछने के लिए «कहाँ» क्रिया के पहले आता है: «आप कहाँ रहते हैं?»।"
@@ -2181,10 +2181,10 @@
         {
           "prompt": "वाक्य «क्या आप हिंदी बोलते हैं?» का आदरपूर्वक स्वीकारात्मक उत्तर क्या होगा?",
           "options": [
-            "जी हाँ, मैं हिंदी बोलता हूँ। (Language concept U4)",
-            "जी नहीं, आप बोलते हैं। (Language concept U4)",
-            "कहाँ, मैं जाता हूँ। (Language concept U4)",
-            "अलविदा, मैं बोलता हूँ। (Language concept U4)"
+            "जी हाँ, मैं हिंदी बोलता हूँ। (Core concept alternative form)",
+            "जी नहीं, आप बोलते हैं। (Core concept alternative form)",
+            "कहाँ, मैं जाता हूँ। (Core concept alternative form)",
+            "अलविदा, मैं बोलता हूँ। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«जी हाँ, मैं हिंदी बोलता हूँ» पूर्णतः शिष्ट और व्याकरणसम्मत उत्तर है।"
@@ -2197,10 +2197,10 @@
           "type": "multiple-choice",
           "prompt": "प्रश्नवाचक पदक्रम की दृष्टि से सही और मानक वाक्य चुनिए:",
           "options": [
-            "आप सुबह कितने बजे उठते हैं और नाश्ते में क्या लेते हैं? (Language concept U4)",
-            "आप कितने बजे सुबह उठते हैं क्या और नाश्ते में? (Language concept U4)",
-            "क्या आप उठते हैं कितने बजे? (Language concept U4)",
-            "नाश्ते में लेते हैं क्या आप? (Language concept U4)"
+            "आप सुबह कितने बजे उठते हैं और नाश्ते में क्या लेते हैं? (Core concept alternative form)",
+            "आप कितने बजे सुबह उठते हैं क्या और नाश्ते में? (Core concept alternative form)",
+            "क्या आप उठते हैं कितने बजे? (Core concept alternative form)",
+            "नाश्ते में लेते हैं क्या आप? (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«कितने बजे उठते हैं» और «क्या लेते हैं» में प्रश्नवाचक पदक्रम सर्वथा शुद्ध है।"
@@ -2248,10 +2248,10 @@
         {
           "prompt": "सार्वभौमिक स्वभाव बताने वाले वाक्य «चीनी मीठी ___» में कौन-सी क्रिया उपयुक्त होगी?",
           "options": [
-            "होती है (Language concept U4)",
+            "होती है (Core concept key phrasing)",
             "है (haai)",
-            "करता है (Language concept U4)",
-            "लेता है (Language concept U4)"
+            "करता है (Core concept alternative form)",
+            "लेता है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "प्राकृतिक या सार्वभौमिक गुण बताने के लिए «होती है» (Habitual to be) का प्रयोग होता है।"
@@ -2263,10 +2263,10 @@
         {
           "prompt": "क्रिया 'देना' (To give) का पुल्लिंग बहुवचन आदतन रूप क्या होगा?",
           "options": [
-            "देते हैं (Language concept U4)",
-            "देता हूँ (Language concept U4)",
-            "देती है (Language concept U4)",
-            "देंगे (Language concept U4)"
+            "देते हैं (Core concept key phrasing)",
+            "देता हूँ (Core concept alternative form)",
+            "देती है (Core concept alternative form)",
+            "देंगे (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'देना' धातु (दे-) + '-ते' + 'हैं' मिलकर «देते हैं» बनता है।"
@@ -2279,10 +2279,10 @@
           "type": "multiple-choice",
           "prompt": "विशेष धातुओं के आदतन प्रयोग वाला शुद्ध वाक्य चुनिए:",
           "options": [
-            "सूरज पूर्व से निकलता है और दूध सफ़ेद होता है। (Language concept U4)",
-            "सूरज पूर्व से निकलती है और दूध सफ़ेद है। (Language concept U4)",
-            "सूरज निकलता हूँ और दूध होती है। (Language concept U4)",
-            "दूध सफ़ेद करते हैं। (Language concept U4)"
+            "सूरज पूर्व से निकलता है और दूध सफ़ेद होता है। (Core concept alternative form)",
+            "सूरज पूर्व से निकलती है और दूध सफ़ेद है। (Core concept alternative form)",
+            "सूरज निकलता हूँ और दूध होती है। (Core concept alternative form)",
+            "दूध सफ़ेद करते हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«सूरज पूर्व से निकलता है» और «दूध सफ़ेद होता है» दोनों सार्वभौमिक सत्यों की शुद्ध व्याकरणिक अभिव्यक्ति हैं।"
@@ -2412,10 +2412,10 @@
         {
           "prompt": "वर्तमान में ठीक इसी क्षण हो रही क्रिया (Right now) दर्शाने के लिए कौन-सा काल-वाचक अव्यय सबसे उपयुक्त है?",
           "options": [
-            "अभी / इस समय (Language concept U5)",
+            "अभी / इस समय (Core concept alternative form)",
             "कल (kala)",
-            "परसों (Language concept U5)",
-            "रोज़ (Language concept U5)"
+            "परसों (Core concept alternative form)",
+            "रोज़ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ठीक वर्तमान क्षण दर्शाने के लिए «अभी» अथवा «इस समय» का प्रयोग किया जाता है।"
@@ -2428,8 +2428,8 @@
           "prompt": "वाक्य «बाहर तेज़ हवा ___ रही है» में उचित क्रिया-रूप भरिए:",
           "options": [
             "चल (cala)",
-            "दौड़ (Language concept U5)",
-            "उड़ (Core target concept - Unit 5 Target Practice)",
+            "दौड़ (Core concept alternative form)",
+            "उड़ (Core concept alternative form)",
             "सो (sao)"
           ],
           "answerIndex": 0,
@@ -2443,10 +2443,10 @@
           "type": "multiple-choice",
           "prompt": "तात्कालिक क्रिया और समय-अव्यय का शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम अभी दफ़्तर पहुँच रहे हैं और बैठक शुरू हो रही है। (Language concept U5)",
-            "हम अभी दफ़्तर पहुँचता है और बैठक शुरू होती है। (Language concept U5)",
-            "बैठक शुरू हो रहा है अभी। (Language concept U5)",
-            "हम रोज़ अभी पहुँच रहे हैं। (Language concept U5)"
+            "हम अभी दफ़्तर पहुँच रहे हैं और बैठक शुरू हो रही है। (Core concept alternative form)",
+            "हम अभी दफ़्तर पहुँचता है और बैठक शुरू होती है। (Core concept alternative form)",
+            "बैठक शुरू हो रहा है अभी। (Core concept alternative form)",
+            "हम रोज़ अभी पहुँच रहे हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«हम अभी दफ़्तर पहुँच रहे हैं और बैठक शुरू हो रही है» तात्कालिक वर्तमान का पूर्णतः मानक वाक्य है।"
@@ -2495,9 +2495,9 @@
           "prompt": "वाक्य «वह नहीं पढ़ रहा ___» में अपूर्ण वर्तमान काल की पूर्णता हेतु कौन-सी सहायक क्रिया आएगी?",
           "options": [
             "है (haai)",
-            "था (Language concept U5)",
-            "हूँ   के अनिवार्य प्रयोग को समझना।  के अनिवार्य प्रयोग को समझना। (Core target concept - Unit 5 Target Practice)",
-            "होगा (Language concept U5)"
+            "था (Core concept alternative form)",
+            "हूँ   के अनिवार्य प्रयोग को समझना।  के अनिवार्य प्रयोग को समझना। (Core concept alternative form)",
+            "होगा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "एकवचन अन्य पुरुष कर्ता 'वह' के साथ वर्तमान सहायक क्रिया «है» आती है।"
@@ -2509,10 +2509,10 @@
         {
           "prompt": "सकारात्मक वाक्य «वे खेल रहे हैं» का शुद्ध नकारात्मक रूप क्या होगा?",
           "options": [
-            "वे नहीं खेल रहे हैं (Language concept U5)",
-            "वे खेल नहीं हैं रहे (Language concept U5)",
-            "वे मत खेल रहे हैं (Language concept U5)",
-            "वे नहीं खेलते हैं (Language concept U5)"
+            "वे नहीं खेल रहे हैं (Core concept key phrasing)",
+            "वे खेल नहीं हैं रहे (Core concept alternative form)",
+            "वे मत खेल रहे हैं (Core concept alternative form)",
+            "वे नहीं खेलते हैं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "मानक नकारात्मक रूप «वे नहीं खेल रहे हैं» है।"
@@ -2525,10 +2525,10 @@
           "type": "multiple-choice",
           "prompt": "अपूर्ण वर्तमान नकारात्मक की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "छात्र शोर नहीं मचा रहे हैं और शांतिपूर्वक अपना काम कर रहे हैं। (Language concept U5)",
-            "छात्र शोर मचा नहीं रहे हैं मत। (Language concept U5)",
-            "छात्र शोर नहीं मचाता हैं। (Language concept U5)",
-            "छात्र नहीं मचा रहा है शोर। (Language concept U5)"
+            "छात्र शोर नहीं मचा रहे हैं और शांतिपूर्वक अपना काम कर रहे हैं। (Core concept alternative form)",
+            "छात्र शोर मचा नहीं रहे हैं मत। (Core concept alternative form)",
+            "छात्र शोर नहीं मचाता हैं। (Core concept alternative form)",
+            "छात्र नहीं मचा रहा है शोर। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«शोर नहीं मचा रहे हैं» में 'नहीं' का स्थान और बहुवचन क्रिया का प्रयोग पूर्णतः शुद्ध है।"
@@ -2576,10 +2576,10 @@
         {
           "prompt": "दैनिक बातचीत में 'What are you doing?' पूछने के लिए सबसे मानक और शिष्ट हिंदी वाक्य कौन-सा है?",
           "options": [
-            "आप क्या कर रहे हैं? (Language concept U5)",
-            "आप कहाँ जाते हो? (Language concept U5)",
-            "क्या आप करते हैं? (Language concept U5)",
-            "आप क्यों कर रहे हैं? (Language concept U5)"
+            "आप क्या कर रहे हैं? (Core concept key phrasing)",
+            "आप कहाँ जाते हो? (Core concept alternative form)",
+            "क्या आप करते हैं? (Core concept alternative form)",
+            "आप क्यों कर रहे हैं? (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'What are you doing?' के लिए मानक वाक्य «आप क्या कर रहे हैं?» है।"
@@ -2592,9 +2592,9 @@
           "prompt": "वाक्य «तुम इतनी तेज़ क्यों दौड़ ___ हो?» में रिक्त स्थान भरिए:",
           "options": [
             "रहे (rahae)",
-            "रहा (Language concept U5)",
-            "रही (Language concept U5)",
-            "हैं (Language concept U5)"
+            "रहा (Core concept alternative form)",
+            "रही (Core concept alternative form)",
+            "हैं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "सर्वनाम 'तुम' (पुल्लिंग) के साथ 'रहे हो' का प्रयोग होता है।"
@@ -2607,10 +2607,10 @@
           "type": "multiple-choice",
           "prompt": "अपूर्ण वर्तमान प्रश्नवाचक वाक्य का सर्वथा शुद्ध रूप चुनिए:",
           "options": [
-            "आप आज रात को कहाँ ठहर रहे हैं और कल कब निकल रहे हैं? (Language concept U5)",
-            "आप कहाँ ठहरता है और कब निकलती है? (Language concept U5)",
-            "कहाँ आप ठहर रहे हैं क्या? (Language concept U5)",
-            "निकल रहे हैं कब आप? (Language concept U5)"
+            "आप आज रात को कहाँ ठहर रहे हैं और कल कब निकल रहे हैं? (Core concept alternative form)",
+            "आप कहाँ ठहरता है और कब निकलती है? (Core concept alternative form)",
+            "कहाँ आप ठहर रहे हैं क्या? (Core concept alternative form)",
+            "निकल रहे हैं कब आप? (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«कहाँ ठहर रहे हैं» और «कब निकल रहे हैं» में प्रश्नवाचक पदक्रम और निरंतरता का समन्वय सटीक है।"
@@ -2658,10 +2658,10 @@
         {
           "prompt": "यदि कोई व्यक्ति पहले से कुर्सी पर विराजमान (Seated) है, तो उसके लिए शुद्ध हिंदी अभिव्यक्ति क्या होगी?",
           "options": [
-            "वह कुर्सी पर बैठा है (Language concept U5)",
-            "वह कुर्सी पर बैठ रहा है (Language concept U5)",
-            "वह कुर्सी पर बैठता हूँ (Language concept U5)",
-            "वह कुर्सी पर बैठेगा (Language concept U5)"
+            "वह कुर्सी पर बैठा है (Core concept alternative form)",
+            "वह कुर्सी पर बैठ रहा है (Core concept alternative form)",
+            "वह कुर्सी पर बैठता हूँ (Core concept alternative form)",
+            "वह कुर्सी पर बैठेगा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "बैठने की निरंतर अवस्था (Stative posture) के लिए «बैठा है» का प्रयोग किया जाता है।"
@@ -2673,10 +2673,10 @@
         {
           "prompt": "स्त्रीलिंग कर्ता 'सीमा' के पहले से खड़े होने की स्थिति को बताने वाला वाक्य कौन-सा है?",
           "options": [
-            "सीमा दरवाजे पर खड़ी है (Language concept U5)",
-            "सीमा दरवाजे पर खड़ा है (Language concept U5)",
-            "सीमा दरवाजे पर खड़े हैं (Language concept U5)",
-            "सीमा दरवाजे पर खड़ी हो रही है (Language concept U5)"
+            "सीमा दरवाजे पर खड़ी है (Core concept alternative form)",
+            "सीमा दरवाजे पर खड़ा है (Core concept alternative form)",
+            "सीमा दरवाजे पर खड़े हैं (Core concept alternative form)",
+            "सीमा दरवाजे पर खड़ी हो रही है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग एकवचन की स्थैतिक अवस्था के लिए «खड़ी है» का प्रयोग होता है।"
@@ -2689,10 +2689,10 @@
           "type": "multiple-choice",
           "prompt": "स्थैतिक अवस्था और पहनावे के सही व्याकरणिक प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "वह लाल कुरता पहने हुए मंच पर खड़ा है और लोग सामने बैठे हैं। (Language concept U5)",
-            "वह लाल कुरता पहन रहा है मंच पर खड़ा रहा है और लोग बैठ रहे हैं। (Language concept U5)",
-            "लोग खड़ा है और वह बैठी है। (Language concept U5)",
-            "मंच पर लेटा हुआ गाता है। (Language concept U5)"
+            "वह लाल कुरता पहने हुए मंच पर खड़ा है और लोग सामने बैठे हैं। (Core concept alternative form)",
+            "वह लाल कुरता पहन रहा है मंच पर खड़ा रहा है और लोग बैठ रहे हैं। (Core concept alternative form)",
+            "लोग खड़ा है और वह बैठी है। (Core concept alternative form)",
+            "मंच पर लेटा हुआ गाता है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«पहने हुए» (पहनावा), «खड़ा है» (खड़े होने की अवस्था) और «बैठे हैं» (बैठने की अवस्था) तीनों का प्रयोग पूर्णतः प्रामाणिक है।"
@@ -2986,10 +2986,10 @@
         {
           "prompt": "वाक्य «अध्यापक ने छात्राओं को ___» में शुद्ध क्रिया रूप क्या होगा?",
           "options": [
-            "बुलाया (Language concept U6)",
-            "बुलाईं (Language concept U6)",
-            "बुलाई (Language concept U6)",
-            "बुलाए (Language concept U6)"
+            "बुलाया (Core concept key phrasing)",
+            "बुलाईं (Core concept alternative form)",
+            "बुलाई (Core concept alternative form)",
+            "बुलाए (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "कर्म 'छात्राओं' के साथ 'को' लगा है, अतः तटस्थ अन्वय के नियमानुसार क्रिया पुल्लिंग एकवचन «बुलाया» होगी।"
@@ -3001,10 +3001,10 @@
         {
           "prompt": "वाक्य «पुलिस ने उस महिला को ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "बचाया (Language concept U6)",
-            "बचाई (Language concept U6)",
-            "बचाए (Language concept U6)",
-            "बचाईं (Language concept U6)"
+            "बचाया (Core concept key phrasing)",
+            "बचाई (Core concept alternative form)",
+            "बचाए (Core concept alternative form)",
+            "बचाईं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'महिला को' में 'को' परसर्ग के कारण क्रिया तटस्थ रूप «बचाया» में रहेगी।"
@@ -3017,10 +3017,10 @@
           "type": "multiple-choice",
           "prompt": "तटस्थ अन्वय (भावे प्रयोग) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "माताजी ने अपनी बेटियों को प्यार से समझाया। (Language concept U6)",
-            "माताजी ने अपनी बेटियों को समझाईं। (Language concept U6)",
-            "माताजी ने बेटियों को समझाई। (Language concept U6)",
-            "माताजी बेटियों समझाई। (Language concept U6)"
+            "माताजी ने अपनी बेटियों को प्यार से समझाया। (Core concept alternative form)",
+            "माताजी ने अपनी बेटियों को समझाईं। (Core concept alternative form)",
+            "माताजी ने बेटियों को समझाई। (Core concept alternative form)",
+            "माताजी बेटियों समझाई। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«बेटियों को समझाया» में 'को' के कारण क्रिया का तटस्थ रूप 'समझाया' व्याकरणसम्मत है।"
@@ -3068,10 +3068,10 @@
         {
           "prompt": "सकर्मक क्रिया 'लाना' (To bring) के भूतकाल का शुद्ध प्रयोग कौन-सा है?",
           "options": [
-            "रोहन फल लाया (Language concept U6)",
-            "रोहन ने फल लाया (Language concept U6)",
-            "रोहन ने फल लाई (Language concept U6)",
-            "रोहन ने लाया फल (Language concept U6)"
+            "रोहन फल लाया (Core concept key phrasing)",
+            "रोहन ने फल लाया (Core concept alternative form)",
+            "रोहन ने फल लाई (Core concept alternative form)",
+            "रोहन ने लाया फल (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'लाना' क्रिया अपवाद स्वरूप 'ने' नहीं लेती, अतः «रोहन फल लाया» शुद्ध है।"
@@ -3083,10 +3083,10 @@
         {
           "prompt": "क्रिया 'देना' का स्त्रीलिंग एकवचन भूतकालिक रूप क्या है?",
           "options": [
-            "दी (Core target concept - Unit 6 Target Practice)",
-            "दिया (Language concept U6)",
+            "दी (Core concept key phrasing)",
+            "दिया (Core concept alternative form)",
             "दिए (daie)",
-            "दीं (Core target concept - Unit 6 Target Practice)"
+            "दीं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'देना' का स्त्रीलिंग एकवचन भूतकालिक रूप «दी» होता है (जैसे: पुस्तक दी)।"
@@ -3099,10 +3099,10 @@
           "type": "multiple-choice",
           "prompt": "अनियमित कृदंत और 'ने' के अपवादों की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "सीता बाज़ार से मिठाई लाई और हमने चाय पी। (Language concept U6)",
-            "सीता ने मिठाई लाई और हमने चाय पिया। (Language concept U6)",
-            "सीता ने मिठाई लाया। (Language concept U6)",
-            "हम चाय पी। (Language concept U6)"
+            "सीता बाज़ार से मिठाई लाई और हमने चाय पी। (Core concept alternative form)",
+            "सीता ने मिठाई लाई और हमने चाय पिया। (Core concept alternative form)",
+            "सीता ने मिठाई लाया। (Core concept alternative form)",
+            "हम चाय पी। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«सीता मिठाई लाई» ('लाना' में 'ने' नहीं) और «हमने चाय पी» ('पीना' में कर्म-अन्वय) पूर्णतः शुद्ध हैं।"
@@ -3397,9 +3397,9 @@
           "prompt": "अतीत की नियमित आदत बताने वाले वाक्य «हम बचपन में रोज़ फुटबॉल ___» में कौन-सा क्रिया रूप आएगा?",
           "options": [
             "खेलते थे (khaelatae thae)",
-            "खेला था (Language concept U7)",
+            "खेला था (Core concept alternative form)",
             "खेल रहे थे (khaela rahae thae)",
-            "खेलेंगे (Language concept U7)"
+            "खेलेंगे (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अतीत की नियमित आदत (Used to play) के लिए «खेलते थे» का प्रयोग होता है।"
@@ -3411,10 +3411,10 @@
         {
           "prompt": "स्त्रीलिंग एकवचन कर्ता के साथ 'गाना गाना' का भूतकालिक अभ्यस्त रूप क्या होगा?",
           "options": [
-            "गाती थी (Language concept U7)",
-            "गाता था (Language concept U7)",
-            "गाते थे (Language concept U7)",
-            "गाया था (Language concept U7)"
+            "गाती थी (Core concept key phrasing)",
+            "गाता था (Core concept alternative form)",
+            "गाते थे (Core concept alternative form)",
+            "गाया था (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग एकवचन में अभ्यस्त क्रिया रूप «गाती थी» बनता है।"
@@ -3427,10 +3427,10 @@
           "type": "multiple-choice",
           "prompt": "भूतकालिक आदत (Past Habitual) को व्यक्त करने वाला शुद्ध वाक्य चुनिए:",
           "options": [
-            "वह रोज़ सुबह पुस्तकालय जाती थी और कई घंटे पढ़ती थी। (Language concept U7)",
-            "उसने रोज़ पुस्तकालय जाती थी और पढ़ती थी। (Language concept U7)",
-            "वह पुस्तकालय गई थी रोज़। (Language concept U7)",
-            "पुस्तकालय जा रही थी रोज़ पढ़ती थी। (Language concept U7)"
+            "वह रोज़ सुबह पुस्तकालय जाती थी और कई घंटे पढ़ती थी। (Core concept alternative form)",
+            "उसने रोज़ पुस्तकालय जाती थी और पढ़ती थी। (Core concept alternative form)",
+            "वह पुस्तकालय गई थी रोज़। (Core concept alternative form)",
+            "पुस्तकालय जा रही थी रोज़ पढ़ती थी। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«जाती थी» और «पढ़ती थी» दोनों भूतकाल की नियमित दिनचर्या का शुद्ध प्रतिनिधित्व करते हैं।"
@@ -3478,10 +3478,10 @@
         {
           "prompt": "सकर्मक क्रिया में 'ने' परसर्ग का प्रयोग इनमें से किस काल में कभी नहीं होता?",
           "options": [
-            "अपूर्ण भूतकाल (Language concept U7)",
-            "सामान्य भूतकाल (Language concept U7)",
-            "पूर्ण भूतकाल (Language concept U7)",
-            "आसन्न भूतकाल (Language concept U7)"
+            "अपूर्ण भूतकाल (Core concept key phrasing)",
+            "सामान्य भूतकाल (Core concept alternative form)",
+            "पूर्ण भूतकाल (Core concept key phrasing)",
+            "आसन्न भूतकाल (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अपूर्ण भूतकाल (रहा था) और अभ्यस्त भूतकाल (ता था) में कर्ता के साथ 'ने' कभी नहीं लगता।"
@@ -3493,10 +3493,10 @@
         {
           "prompt": "वाक्य «वह गाना गा रहा था» किस भूतकालिक रूप का उदाहरण है?",
           "options": [
-            "अपूर्ण भूतकाल (Language concept U7)",
-            "सामान्य भूतकाल (Language concept U7)",
-            "पूर्ण भूतकाल (Language concept U7)",
-            "आसन्न भूतकाल (Language concept U7)"
+            "अपूर्ण भूतकाल (Core concept key phrasing)",
+            "सामान्य भूतकाल (Core concept alternative form)",
+            "पूर्ण भूतकाल (Core concept key phrasing)",
+            "आसन्न भूतकाल (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'रहा था' भूतकाल में क्रिया के जारी रहने (अपूर्ण भूतकाल) को दर्शाता है।"
@@ -3509,10 +3509,10 @@
           "type": "multiple-choice",
           "prompt": "भूतकाल के विभिन्न रूपों के समन्वय वाला पूर्णतः शुद्ध और सुसंगत वाक्य चुनिए:",
           "options": [
-            "कल जब मैं बाज़ार गया था, तब उसने मुझे देखा और हमने साथ में चाय पी। (Language concept U7)",
-            "कल जब मैंने गया था तब उसने मुझे देखा था और हम चाय पी। (Language concept U7)",
-            "जब मैं गया था उसने चाय पिया। (Language concept U7)",
-            "हम चाय पीते थे अभी। (Language concept U7)"
+            "कल जब मैं बाज़ार गया था, तब उसने मुझे देखा और हमने साथ में चाय पी। (Core concept alternative form)",
+            "कल जब मैंने गया था तब उसने मुझे देखा था और हम चाय पी। (Core concept alternative form)",
+            "जब मैं गया था उसने चाय पिया। (Core concept alternative form)",
+            "हम चाय पीते थे अभी। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मैं गया था» (अकर्मक पूर्ण भूत), «उसने मुझे देखा» (तटस्थ अन्वय), और «हमने चाय पी» (कर्म-अन्वय) तीनों का व्याकरणिक संयोजन उत्कृष्ट है।"
@@ -3642,9 +3642,9 @@
         {
           "prompt": "सर्वनाम 'हम' के साथ 'करना' क्रिया का शुद्ध भविष्यत् रूप क्या है?",
           "options": [
-            "करेंगे (Language concept U8)",
-            "करूँगा (Language concept U8)",
-            "करेगा (Language concept U8)",
+            "करेंगे (Core concept key phrasing)",
+            "करूँगा (Core concept alternative form)",
+            "करेगा (Core concept alternative form)",
             "करोगे (karaogae)"
           ],
           "answerIndex": 0,
@@ -3657,9 +3657,9 @@
         {
           "prompt": "वाक्य «मैं कल आपको उत्तर ___» में 'देना' (पुल्लिंग एकवचन) का सही रूप भरिए:",
           "options": [
-            "दूँगा (Core target concept - Unit 8 Target Practice)",
-            "देंगे (Language concept U8)",
-            "देगा (Language concept U8)",
+            "दूँगा (Core concept key phrasing)",
+            "देंगे (Core concept alternative form)",
+            "देगा (Core concept alternative form)",
             "दोगे (daogae)"
           ],
           "answerIndex": 0,
@@ -3673,10 +3673,10 @@
           "type": "multiple-choice",
           "prompt": "अनियमित भविष्यत् धातुओं का शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम आपकी पूरी सहायता करेंगे और आपको सही मार्गदर्शन देंगे। (Language concept U8)",
-            "हम सहायता करूँगा और दूँगा। (Language concept U8)",
-            "हम ने सहायता करेंगे। (Language concept U8)",
-            "सहायता करोगे हम। (Language concept U8)"
+            "हम आपकी पूरी सहायता करेंगे और आपको सही मार्गदर्शन देंगे। (Core concept alternative form)",
+            "हम सहायता करूँगा और दूँगा। (Core concept alternative form)",
+            "हम ने सहायता करेंगे। (Core concept alternative form)",
+            "सहायता करोगे हम। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«सहायता करेंगे» और «मार्गदर्शन देंगे» दोनों 'हम' के साथ पूर्णतः शुद्ध अनियमित भविष्यत् रूप हैं।"
@@ -3724,10 +3724,10 @@
         {
           "prompt": "किसी से विनम्रतापूर्वक विदा माँगते समय 'Shall we leave now?' के लिए कौन-सा वाक्य प्रयुक्त होता है?",
           "options": [
-            "क्या अब हम चलें? (Language concept U8)",
-            "हम चलेंगे क्या? (Language concept U8)",
-            "हम चले थे क्या? (Language concept U8)",
-            "हम जा रहे हैं क्या? (Language concept U8)"
+            "क्या अब हम चलें? (Core concept key phrasing)",
+            "हम चलेंगे क्या? (Core concept alternative form)",
+            "हम चले थे क्या? (Core concept alternative form)",
+            "हम जा रहे हैं क्या? (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "विनम्र प्रस्ताव या अनुमति के लिए उपशामक रूप «क्या अब हम चलें?» का प्रयोग होता है।"
@@ -3739,10 +3739,10 @@
         {
           "prompt": "वाक्य «शायद वह आज न ___» में संभाव्य क्रिया रूप भरिए:",
           "options": [
-            "आए (Core target concept - Unit 8 Target Practice)",
-            "आएगा (Language concept U8)",
-            "आया (Core target concept - Unit 8 Target Practice)",
-            "आता है (Language concept U8)"
+            "आए (Core concept key phrasing)",
+            "आएगा (Core concept alternative form)",
+            "आया (Core concept alternative form)",
+            "आता है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'शायद' के साथ संभावना दर्शाने के लिए उपशामक रूप «आए» प्रयुक्त होता है।"
@@ -3755,10 +3755,10 @@
           "type": "multiple-choice",
           "prompt": "संभाव्य रूप (Subjunctive Mood) का शुद्ध वाक्य चुनिए:",
           "options": [
-            "हो सकता है कि कल बर्फ़बारी हो और रास्ते बंद हो जाएँ। (Language concept U8)",
-            "हो सकता है कि कल बर्फ़बारी होगा और बंद होंगे। (Language concept U8)",
-            "हो सकता है बर्फ़बारी हुई थी। (Language concept U8)",
-            "शायद बर्फ़बारी होती है। (Language concept U8)"
+            "हो सकता है कि कल बर्फ़बारी हो और रास्ते बंद हो जाएँ। (Core concept alternative form)",
+            "हो सकता है कि कल बर्फ़बारी होगा और बंद होंगे। (Core concept alternative form)",
+            "हो सकता है बर्फ़बारी हुई थी। (Core concept alternative form)",
+            "शायद बर्फ़बारी होती है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«हो» और «हो जाएँ» दोनों 'हो सकता है कि' के साथ शुद्ध उपशामक रूप हैं।"
@@ -3806,10 +3806,10 @@
         {
           "prompt": "अति-विनम्रतापूर्वक भविष्य के लिए निमंत्रण देने हेतु कौन-सा क्रिया रूप सबसे उपयुक्त है?",
           "options": [
-            "आइएगा (Language concept U8)",
-            "आओ (Core target concept - Unit 8 Target Practice)",
-            "आ (Core target concept - Unit 8 Target Practice)",
-            "आएगा (Language concept U8)"
+            "आइएगा (Core concept key phrasing)",
+            "आओ (Core concept alternative form)",
+            "आ (Core concept key phrasing)",
+            "आएगा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "भविष्य के आदरयुक्त एवं स्नेहपूर्ण निमंत्रण हेतु «आइएगा» (धातु + -इएगा) सर्वश्रेष्ठ रूप है।"
@@ -3822,9 +3822,9 @@
           "prompt": "वाक्य «यहाँ शोर ___ करो» में मानक निषेधात्मक शब्द भरिए:",
           "options": [
             "मत (mata)",
-            "नहीं (Language concept U8)",
-            "नाहीं (Core target concept - Unit 8 Target Practice)",
-            "बिना (Language concept U8)"
+            "नहीं (Core concept alternative form)",
+            "नाहीं (Core concept alternative form)",
+            "बिना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "आज्ञार्थक वाक्यों में निषेध के लिए मानक शब्द «मत» प्रयुक्त होता है।"
@@ -3837,10 +3837,10 @@
           "type": "multiple-choice",
           "prompt": "आदरसूचक और शिष्ट अनुरोध का सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
-            "कृपया यह महत्वपूर्ण प्रपत्र भर दीजिए और हस्ताक्षर कर दीजिएगा। (Language concept U8)",
-            "यह प्रपत्र भरो और हस्ताक्षर करो तुम। (Language concept U8)",
-            "कृपया नहीं शोर कीजिए। (Language concept U8)",
-            "प्रपत्र भरिए नहीं। (Language concept U8)"
+            "कृपया यह महत्वपूर्ण प्रपत्र भर दीजिए और हस्ताक्षर कर दीजिएगा। (Core concept alternative form)",
+            "यह प्रपत्र भरो और हस्ताक्षर करो तुम। (Core concept alternative form)",
+            "कृपया नहीं शोर कीजिए। (Core concept alternative form)",
+            "प्रपत्र भरिए नहीं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«भर दीजिए» और «कर दीजिएगा» शिष्ट और अति-विनम्र अनुरोध के सटीक रूप हैं।"
@@ -3890,8 +3890,8 @@
           "options": [
             "तो (tao)",
             "तब (taba)",
-            "परंतु (Language concept U8)",
-            "क्योंकि (Language concept U8)"
+            "परंतु (Core concept alternative form)",
+            "क्योंकि (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'अगर / यदि' के साथ परिणाम उपवाक्य में नित्य-संबंधी योजक «तो» आता है।"
@@ -3903,10 +3903,10 @@
         {
           "prompt": "वाक्य «जब घंटी बजेगी, तब सभी छात्र कक्षा में ___» में उचित भविष्यत् क्रिया भरिए:",
           "options": [
-            "जाएँगे (Language concept U8)",
-            "जाएगा (Language concept U8)",
+            "जाएँगे (Core concept key phrasing)",
+            "जाएगा (Core concept alternative form)",
             "गए थे (gae thae)",
-            "जाता है (Language concept U8)"
+            "जाता है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "छात्र (पुल्लिंग बहुवचन) के साथ भविष्यत् काल में «जाएँगे» आता है।"
@@ -3919,10 +3919,10 @@
           "type": "multiple-choice",
           "prompt": "शर्त-सूचक भविष्यत् वाक्य का सर्वथा शुद्ध और सुसंगत रूप चुनिए:",
           "options": [
-            "अगर आप समय पर स्टेशन पहुँचेंगे, तो आपको गाड़ी मिल जाएगी। (Language concept U8)",
-            "अगर आप पहुँचेंगे तब गाड़ी मिली थी। (Language concept U8)",
-            "जब आप पहुँचेंगे तो गाड़ी मिल जाएगी। (Language concept U8)",
-            "अगर आप पहुँचा तो गाड़ी मिलेगी। (Language concept U8)"
+            "अगर आप समय पर स्टेशन पहुँचेंगे, तो आपको गाड़ी मिल जाएगी। (Core concept alternative form)",
+            "अगर आप पहुँचेंगे तब गाड़ी मिली थी। (Core concept alternative form)",
+            "जब आप पहुँचेंगे तो गाड़ी मिल जाएगी। (Core concept alternative form)",
+            "अगर आप पहुँचा तो गाड़ी मिलेगी। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«अगर... पहुँचेंगे, तो... मिल जाएगी» में शर्त और परिणाम का व्याकरणिक संबंध पूर्णतः शुद्ध है।"
@@ -4052,10 +4052,10 @@
         {
           "prompt": "स्त्रीलिंग कर्म 'भाषा' के साथ 'सीखना चाहिए' का शुद्ध व्याकरणिक रूप क्या होगा?",
           "options": [
-            "भाषा सीखनी चाहिए (Language concept U9)",
-            "भाषा सीखना चाहिए (Language concept U9)",
-            "भाषा सीखने चाहिए (Language concept U9)",
-            "भाषा सीखता चाहिए (Language concept U9)"
+            "भाषा सीखनी चाहिए (Core concept alternative form)",
+            "भाषा सीखना चाहिए (Core concept alternative form)",
+            "भाषा सीखने चाहिए (Core concept alternative form)",
+            "भाषा सीखता चाहिए (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग कर्म 'भाषा' के साथ क्रियार्थक संज्ञा का रूप «सीखनी चाहिए» बनता है।"
@@ -4067,10 +4067,10 @@
         {
           "prompt": "वाक्य «आपको समय पर घर ___ चाहिए» में उचित अकर्मक क्रिया भरिए:",
           "options": [
-            "पहुँचना (Language concept U9)",
-            "पहुँचनी (Language concept U9)",
-            "पहुँचने (Language concept U9)",
-            "पहुँचता (Language concept U9)"
+            "पहुँचना (Core concept key phrasing)",
+            "पहुँचनी (Core concept alternative form)",
+            "पहुँचने (Core concept alternative form)",
+            "पहुँचता (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अकर्मक क्रिया में क्रियार्थक संज्ञा का मानक रूप «पहुँचना चाहिए» (तटस्थ पुल्लिंग एकवचन) होता है।"
@@ -4083,10 +4083,10 @@
           "type": "multiple-choice",
           "prompt": "क्रियार्थक संज्ञा के सही अन्वय वाला नैतिक सलाह का वाक्य चुनिए:",
           "options": [
-            "हमें सदैव सच बोलना चाहिए और सबकी सहायता करनी चाहिए। (Language concept U9)",
-            "हमको सच बोलनी चाहिए और सहायता करना चाहिए। (Language concept U9)",
-            "हम सच बोलना चाहिए। (Language concept U9)",
-            "हमें सच बोलता चाहिए। (Language concept U9)"
+            "हमें सदैव सच बोलना चाहिए और सबकी सहायता करनी चाहिए। (Core concept alternative form)",
+            "हमको सच बोलनी चाहिए और सहायता करना चाहिए। (Core concept alternative form)",
+            "हम सच बोलना चाहिए। (Core concept alternative form)",
+            "हमें सच बोलता चाहिए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«सच बोलना चाहिए» (सच पु.) और «सहायता करनी चाहिए» (सहायता स्त्री.) दोनों का अन्वय पूर्णतः शुद्ध है।"
@@ -4134,10 +4134,10 @@
         {
           "prompt": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ भूतकालिक पछतावे का कौन-सा रूप शुद्ध होगा?",
           "options": [
-            "भेजनी चाहिए थीं (Language concept U9)",
-            "भेजना चाहिए था (Language concept U9)",
-            "भेजने चाहिए थे (Language concept U9)",
-            "भेजनी चाहिए थी (Language concept U9)"
+            "भेजनी चाहिए थीं (Core concept key phrasing)",
+            "भेजना चाहिए था (Core concept alternative form)",
+            "भेजने चाहिए थे (Core concept alternative form)",
+            "भेजनी चाहिए थी (Core concept key phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ «भेजनी चाहिए थीं» (अनुनासिक 'थीं') आता है।"
@@ -4149,10 +4149,10 @@
         {
           "prompt": "वाक्य «उसे यह बात पहले ही ___ चाहिए थी» में सही क्रियार्थक संज्ञा भरिए:",
           "options": [
-            "बतानी (Language concept U9)",
-            "बताना (Language concept U9)",
-            "बताने (Language concept U9)",
-            "बताता (Language concept U9)"
+            "बतानी (Core concept key phrasing)",
+            "बताना (Core concept alternative form)",
+            "बताने (Core concept alternative form)",
+            "बताता (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "कर्म 'बात' स्त्रीलिंग एकवचन है, अतः «बतानी चाहिए थी» रूप होगा।"
@@ -4165,10 +4165,10 @@
           "type": "multiple-choice",
           "prompt": "भूतकालिक कर्तव्य (Should have done) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "आपको स्टेशन समय पर पहुँचना चाहिए था ताकि गाड़ी न छूटती। (Language concept U9)",
-            "आप स्टेशन पहुँचना चाहिए था। (Language concept U9)",
-            "आपको पहुँचना चाहिए थी। (Language concept U9)",
-            "आपको पहुँचे चाहिए थे। (Language concept U9)"
+            "आपको स्टेशन समय पर पहुँचना चाहिए था ताकि गाड़ी न छूटती। (Core concept alternative form)",
+            "आप स्टेशन पहुँचना चाहिए था। (Core concept alternative form)",
+            "आपको पहुँचना चाहिए थी। (Core concept alternative form)",
+            "आपको पहुँचे चाहिए थे। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«आपको पहुँचना चाहिए था» में संप्रदान कर्ता और अकर्मक क्रिया का तटस्थ भूतकालिक अन्वय पूर्णतः शुद्ध है।"
@@ -4298,10 +4298,10 @@
         {
           "prompt": "औपचारिक विज्ञापनों में 'Wanted / Required' के लिए सबसे मानक हिंदी पद कौन-सा है?",
           "options": [
-            "आवश्यकता है (Language concept U9)",
-            "चाहिए (Language concept U9)",
-            "ज़रूरत है (Language concept U9)",
-            "माँग है (Language concept U9)"
+            "आवश्यकता है (Core concept key phrasing)",
+            "चाहिए (Core concept alternative form)",
+            "ज़रूरत है (Core concept alternative form)",
+            "माँग है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "औपचारिक और प्रशासनिक संदर्भ में «आवश्यकता है» सबसे प्रामाणिक शब्द है।"
@@ -4313,8 +4313,8 @@
         {
           "prompt": "वाक्य «मुझे इस समय आपकी सहायता ___ ज़रूरत है» में सही परसर्ग भरिए:",
           "options": [
-            "की (Core target concept - Unit 9 Target Practice)",
-            "का (Core target concept - Unit 9 Target Practice)",
+            "की (Core concept key phrasing)",
+            "का (Core concept alternative form)",
             "के (kae)",
             "को (kao)"
           ],
@@ -4329,10 +4329,10 @@
           "type": "multiple-choice",
           "prompt": "आवश्यकता और सलाह के विविध रूपों वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "यदि आपको समय की ज़रूरत हो तो बताइएगा, परंतु काम समय पर समाप्त होना चाहिए। (Language concept U9)",
-            "यदि आपको समय का ज़रूरत हो तो बताइएगा। (Language concept U9)",
-            "काम समाप्त होना चाहिए था अभी। (Language concept U9)",
-            "समय की आवश्यकता है तुमको। (Language concept U9)"
+            "यदि आपको समय की ज़रूरत हो तो बताइएगा, परंतु काम समय पर समाप्त होना चाहिए। (Core concept alternative form)",
+            "यदि आपको समय का ज़रूरत हो तो बताइएगा। (Core concept alternative form)",
+            "काम समाप्त होना चाहिए था अभी। (Core concept alternative form)",
+            "समय की आवश्यकता है तुमको। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«समय की ज़रूरत हो» (सटीक संबंध परसर्ग) और «समाप्त होना चाहिए» (सटीक अनिवार्यता) दोनों का समन्वय पूर्णतः शुद्ध है।"
@@ -4380,10 +4380,10 @@
         {
           "prompt": "स्त्रीलिंग कर्म 'बात' के साथ 'कहना है' का शुद्ध व्याकरणिक रूप क्या होगा?",
           "options": [
-            "मुझे आपसे एक बात कहनी है (Language concept U10)",
-            "मुझे बात कहना है (Language concept U10)",
-            "मैं बात कहनी है (Language concept U10)",
-            "मुझे बात कहने हैं (Language concept U10)"
+            "मुझे आपसे एक बात कहनी है (Core concept alternative form)",
+            "मुझे बात कहना है (Core concept alternative form)",
+            "मैं बात कहनी है (Core concept alternative form)",
+            "मुझे बात कहने हैं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग कर्म 'बात' के अनुसार क्रियार्थक संज्ञा «कहनी है» बनेगी।"
@@ -4396,9 +4396,9 @@
           "prompt": "वाक्य «हमें आज शाम कई कपड़े ___ हैं» में उचित क्रियार्थक संज्ञा भरिए:",
           "options": [
             "धोने (dhaonae)",
-            "धोना (Language concept U10)",
-            "धोनी (Language concept U10)",
-            "धोता (Language concept U10)"
+            "धोना (Core concept alternative form)",
+            "धोनी (Core concept alternative form)",
+            "धोता (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "पुल्लिंग बहुवचन कर्म 'कपड़े' के साथ क्रियार्थक संज्ञा का रूप «धोने हैं» होगा।"
@@ -4411,10 +4411,10 @@
           "type": "multiple-choice",
           "prompt": "योजना/कार्यक्रम (Have to do) की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "आज दोपहर मुझे बैंक जाकर ज़रूरी दस्तावेज़ जमा करने हैं। (Language concept U10)",
-            "आज दोपहर मैं बैंक जाना है। (Language concept U10)",
-            "मुझे दस्तावेज़ जमा करना हैं। (Language concept U10)",
-            "मुझको दस्तावेज़ जमा करनी है। (Language concept U10)"
+            "आज दोपहर मुझे बैंक जाकर ज़रूरी दस्तावेज़ जमा करने हैं। (Core concept alternative form)",
+            "आज दोपहर मैं बैंक जाना है। (Core concept alternative form)",
+            "मुझे दस्तावेज़ जमा करना हैं। (Core concept alternative form)",
+            "मुझको दस्तावेज़ जमा करनी है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मुझे... दस्तावेज़ जमा करने हैं» में संप्रदान कर्ता और पुल्लिंग बहुवचन कर्म का अन्वय शुद्ध है।"
@@ -4462,10 +4462,10 @@
         {
           "prompt": "स्त्रीलिंग कर्म 'मेहनत' के साथ मजबूरी का वर्तमान रूप क्या होगा?",
           "options": [
-            "मेहनत करनी पड़ती है (Language concept U10)",
-            "मेहनत करना पड़ता है (Language concept U10)",
-            "मेहनत करने पड़ते हैं (Language concept U10)",
-            "मेहनत करती पड़ती है (Language concept U10)"
+            "मेहनत करनी पड़ती है (Core concept alternative form)",
+            "मेहनत करना पड़ता है (Core concept alternative form)",
+            "मेहनत करने पड़ते हैं (Core concept alternative form)",
+            "मेहनत करती पड़ती है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग कर्म 'मेहनत' के अनुसार «करनी पड़ती है» रूप प्रयुक्त होगा।"
@@ -4477,10 +4477,10 @@
         {
           "prompt": "वाक्य «उसे हर महीने भारी टैक्स ___» में सही मजबूरी रूप भरिए:",
           "options": [
-            "देना पड़ता है (Language concept U10)",
-            "देनी पड़ती है (Language concept U10)",
-            "देने पड़ते हैं (Language concept U10)",
-            "देना पड़ते हैं (Language concept U10)"
+            "देना पड़ता है (Core concept key phrasing)",
+            "देनी पड़ती है (Core concept alternative form)",
+            "देने पड़ते हैं (Core concept alternative form)",
+            "देना पड़ते हैं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "टैक्स (पुल्लिंग एकवचन) के साथ «देना पड़ता है» आएगा।"
@@ -4493,10 +4493,10 @@
           "type": "multiple-choice",
           "prompt": "वर्तमान मजबूरी (Habitual Compulsion) का पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "समय की कमी के कारण हमें रात में देर तक जागना पड़ता है। (Language concept U10)",
-            "हम रात में जागना पड़ता है। (Language concept U10)",
-            "हमें जागनी पड़ती है था। (Language concept U10)",
-            "हमको रात में जागते पड़ता है। (Language concept U10)"
+            "समय की कमी के कारण हमें रात में देर तक जागना पड़ता है। (Core concept alternative form)",
+            "हम रात में जागना पड़ता है। (Core concept alternative form)",
+            "हमें जागनी पड़ती है था। (Core concept alternative form)",
+            "हमको रात में जागते पड़ता है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«हमें... जागना पड़ता है» में संप्रदान कर्ता और अकर्मक मजबूरी का वर्तमान अन्वय पूर्णतः शुद्ध है।"
@@ -4708,10 +4708,10 @@
         {
           "prompt": "व्यक्तिगत योजना/कार्यसूची (Scheduled Plan) व्यक्त करने हेतु कौन-सा वाक्य उपयुक्त है?",
           "options": [
-            "मुझे आज बाज़ार जाना है (Language concept U10)",
-            "मुझे बाज़ार जाना पड़ता है (Language concept U10)",
-            "मुझे बाज़ार जाना चाहिए था (Language concept U10)",
-            "मैं बाज़ार जाना पड़ा (Language concept U10)"
+            "मुझे आज बाज़ार जाना है (Core concept alternative form)",
+            "मुझे बाज़ार जाना पड़ता है (Core concept alternative form)",
+            "मुझे बाज़ार जाना चाहिए था (Core concept alternative form)",
+            "मैं बाज़ार जाना पड़ा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "व्यक्तिगत योजना या कार्यक्रम हेतु «मुझे जाना है» (Infinitive + होना) का प्रयोग होता है।"
@@ -4723,10 +4723,10 @@
         {
           "prompt": "बाह्य दबाव या मजबूरी (External Compulsion) व्यक्त करने वाला वाक्य पहचानिए:",
           "options": [
-            "मुझे अनिच्छा से यह काम करना पड़ता है (Language concept U10)",
-            "मुझे यह काम करना है (Language concept U10)",
-            "मुझे यह काम करना चाहिए (Language concept U10)",
-            "मैं यह काम करूँगा (Language concept U10)"
+            "मुझे अनिच्छा से यह काम करना पड़ता है (Core concept alternative form)",
+            "मुझे यह काम करना है (Core concept alternative form)",
+            "मुझे यह काम करना चाहिए (Core concept alternative form)",
+            "मैं यह काम करूँगा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "बाह्य दबाव और मजबूरी के लिए «करना पड़ता है» का प्रयोग होता है।"
@@ -4739,10 +4739,10 @@
           "type": "multiple-choice",
           "prompt": "बाध्यता और मजबूरी के तीनों रूपों के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
-            "हमें सच बोलना चाहिए, पर कभी-कभी परिस्थितियों के कारण चुप रहना पड़ता है। (Language concept U10)",
-            "हम सच बोलना चाहिए पर चुप रहना पड़ता है। (Language concept U10)",
-            "हमें सच बोलना है पर चुप रहना पड़ा था अभी। (Language concept U10)",
-            "हमें सच बोलना पड़ता है और चुप रहना चाहिए। (Language concept U10)"
+            "हमें सच बोलना चाहिए, पर कभी-कभी परिस्थितियों के कारण चुप रहना पड़ता है। (Core concept alternative form)",
+            "हम सच बोलना चाहिए पर चुप रहना पड़ता है। (Core concept alternative form)",
+            "हमें सच बोलना है पर चुप रहना पड़ा था अभी। (Core concept alternative form)",
+            "हमें सच बोलना पड़ता है और चुप रहना चाहिए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«सच बोलना चाहिए» (नैतिक सलाह) और «चुप रहना पड़ता है» (परिस्थितिजन्य मजबूरी) का समन्वय अर्थ और व्याकरण दोनों से पूर्णतः शुद्ध है।"
@@ -4790,10 +4790,10 @@
         {
           "prompt": "भौतिक वस्तु 'कंप्यूटर' के स्वामित्व के लिए कौन-सा वाक्य पूर्णतः शुद्ध है?",
           "options": [
-            "मेरे पास एक नया कंप्यूटर है (Language concept U11)",
-            "मेरा एक नया कंप्यूटर है (Language concept U11)",
-            "मुझको एक नया कंप्यूटर है (Language concept U11)",
-            "मुझमें एक नया कंप्यूटर है (Language concept U11)"
+            "मेरे पास एक नया कंप्यूटर है (Core concept alternative form)",
+            "मेरा एक नया कंप्यूटर है (Core concept alternative form)",
+            "मुझको एक नया कंप्यूटर है (Core concept alternative form)",
+            "मुझमें एक नया कंप्यूटर है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "भौतिक और चल वस्तु के स्वामित्व हेतु «मेरे पास» का प्रयोग शुद्ध है।"
@@ -4805,10 +4805,10 @@
         {
           "prompt": "वाक्य «क्या ___ पास इस प्रश्न का उत्तर है?» में सही सर्वनाम रूप भरिए:",
           "options": [
-            "आपके (Language concept U11)",
-            "आपको (Language concept U11)",
-            "आपका (Language concept U11)",
-            "आपमें (Language concept U11)"
+            "आपके (Core concept key phrasing)",
+            "आपको (Core concept alternative form)",
+            "आपका (Core concept alternative form)",
+            "आपमें (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'के पास' परसर्ग के साथ सर्वनाम का तिर्यक संबंध रूप «आपके» आता है।"
@@ -4821,10 +4821,10 @@
           "type": "multiple-choice",
           "prompt": "मूर्त वस्तु के स्वामित्व (Physical Possession) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
-            "रोहन के पास परीक्षा की तैयारी के लिए सभी आवश्यक पुस्तकें और नोट्स हैं। (Language concept U11)",
-            "रोहन का परीक्षा की पुस्तकें हैं। (Language concept U11)",
-            "रोहन को पुस्तकें हैं। (Language concept U11)",
-            "रोहन में पुस्तकें हैं। (Language concept U11)"
+            "रोहन के पास परीक्षा की तैयारी के लिए सभी आवश्यक पुस्तकें और नोट्स हैं। (Core concept alternative form)",
+            "रोहन का परीक्षा की पुस्तकें हैं। (Core concept alternative form)",
+            "रोहन को पुस्तकें हैं। (Core concept alternative form)",
+            "रोहन में पुस्तकें हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«रोहन के पास... पुस्तकें और नोट्स हैं» में मूर्त स्वामित्व की संरचना पूर्णतः शुद्ध है।"
@@ -4872,10 +4872,10 @@
         {
           "prompt": "वाक्य «I have two sisters» का प्रामाणिक व्याकरणिक हिंदी अनुवाद क्या होगा?",
           "options": [
-            "मेरी दो बहनें हैं (Language concept U11)",
-            "मेरे पास दो बहनें हैं (Language concept U11)",
-            "मुझको दो बहनें हैं (Language concept U11)",
-            "मेरे में दो बहनें हैं (Language concept U11)"
+            "मेरी दो बहनें हैं (Core concept key phrasing)",
+            "मेरे पास दो बहनें हैं (Core concept alternative form)",
+            "मुझको दो बहनें हैं (Core concept alternative form)",
+            "मेरे में दो बहनें हैं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "पारिवारिक रिश्तों के लिए 'के पास' नहीं बल्कि संबंध कारक «मेरी दो बहनें हैं» आता है।"
@@ -4888,9 +4888,9 @@
           "prompt": "वाक्य «अमित ___ दो बेटे हैं» में सही संबंध कारक भरिए:",
           "options": [
             "के (kae)",
-            "का (Core target concept - Unit 11 Target Practice)",
-            "की (Core target concept - Unit 11 Target Practice)",
-            "के पास (Language concept U11)"
+            "का (Core concept key phrasing)",
+            "की (Core concept alternative form)",
+            "के पास (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "पुल्लिंग बहुवचन संबंधी 'बेटे' के साथ संबंध कारक «के» प्रयुक्त होता है।"
@@ -4903,10 +4903,10 @@
           "type": "multiple-choice",
           "prompt": "पारिवारिक संबंधों के अन्वय वाला सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
-            "मेरे चाचा जी के तीन बच्चे हैं जो सब डॉक्टर हैं। (Language concept U11)",
-            "मेरे चाचा जी के पास तीन बच्चे हैं। (Language concept U11)",
-            "मेरे चाचा जी को तीन बच्चे हैं। (Language concept U11)",
-            "चाचा जी में तीन बच्चे हैं। (Language concept U11)"
+            "मेरे चाचा जी के तीन बच्चे हैं जो सब डॉक्टर हैं। (Core concept alternative form)",
+            "मेरे चाचा जी के पास तीन बच्चे हैं। (Core concept alternative form)",
+            "मेरे चाचा जी को तीन बच्चे हैं। (Core concept alternative form)",
+            "चाचा जी में तीन बच्चे हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«चाचा जी के तीन बच्चे हैं» में पारिवारिक संबंध का मानक अन्वय पूर्णतः शुद्ध है।"
@@ -5037,9 +5037,9 @@
           "prompt": "वाक्य «I have a headache» का शुद्ध व्याकरणिक अनुवाद क्या है?",
           "options": [
             "मुझे सिरदर्द है (maujhae sairadarada haai)",
-            "मेरे पास सिरदर्द है (Language concept U11)",
-            "मेरा सिरदर्द है (Language concept U11)",
-            "मुझमें सिरदर्द है (Language concept U11)"
+            "मेरे पास सिरदर्द है (Core concept alternative form)",
+            "मेरा सिरदर्द है (Core concept alternative form)",
+            "मुझमें सिरदर्द है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "शारीरिक पीड़ा और रोग के लिए संप्रदान कर्ता «मुझे सिरदर्द है» का प्रयोग होता है।"
@@ -5052,9 +5052,9 @@
           "prompt": "वाक्य «यात्रियों ___ बहुत प्यास लगी थी» में सही परसर्ग भरिए:",
           "options": [
             "को (kao)",
-            "के पास (Language concept U11)",
-            "का (Core target concept - Unit 11 Target Practice)",
-            "में (Language concept U11)"
+            "के पास (Core concept alternative form)",
+            "का (Core concept key phrasing)",
+            "में (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "प्यास की अनुभूति के लिए कारक «को» आता है।"
@@ -5067,10 +5067,10 @@
           "type": "multiple-choice",
           "prompt": "संवेदना और रोग की दृष्टि से पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "मरीज़ को कल रात से तेज़ जुकाम और खाँसी है। (Language concept U11)",
-            "मरीज़ के पास तेज़ जुकाम और खाँसी है। (Language concept U11)",
-            "मरीज़ का तेज़ जुकाम है। (Language concept U11)",
-            "मरीज़ में जुकाम है। (Language concept U11)"
+            "मरीज़ को कल रात से तेज़ जुकाम और खाँसी है। (Core concept alternative form)",
+            "मरीज़ के पास तेज़ जुकाम और खाँसी है। (Core concept alternative form)",
+            "मरीज़ का तेज़ जुकाम है। (Core concept alternative form)",
+            "मरीज़ में जुकाम है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मरीज़ को... जुकाम और खाँसी है» में रोग के अनुभविता कर्ता की संरचना पूर्णतः शुद्ध है।"
@@ -5118,9 +5118,9 @@
         {
           "prompt": "पाँचों स्वामित्व संरचनाओं में से 'भाई-बहन' के लिए कौन-सा प्रारूप प्रयुक्त होता है?",
           "options": [
-            "का / के / की (Language concept U11)",
-            "के पास (Language concept U11)",
-            "में (Language concept U11)",
+            "का / के / की (Core concept key phrasing)",
+            "के पास (Core concept alternative form)",
+            "में (Core concept alternative form)",
             "को (kao)"
           ],
           "answerIndex": 0,
@@ -5133,8 +5133,8 @@
         {
           "prompt": "वाक्य «उस बालक ___ बहुत प्रतिभा है, किंतु आज उसे बुखार है» में रिक्त स्थान का सही परसर्ग क्या है?",
           "options": [
-            "में (Language concept U11)",
-            "के पास (Language concept U11)",
+            "में (Core concept key phrasing)",
+            "के पास (Core concept alternative form)",
             "का (Variant 11.5)",
             "को (kao)"
           ],
@@ -5149,10 +5149,10 @@
           "type": "multiple-choice",
           "prompt": "स्वामित्व और अधिकार के सभी पाँचों रूपों के शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "मेरे पास पर्याप्त साधन हैं, मेरी एक बहन है, मुझमें आत्मविश्वास है और मुझे कोई बीमारी नहीं है। (Language concept U11)",
-            "मेरे पास एक बहन है और मेरे पास आत्मविश्वास है। (Language concept U11)",
-            "मुझको साधन हैं और मेरी बीमारी है। (Language concept U11)",
-            "मुझमें साधन हैं और मेरे पास बीमारी है। (Language concept U11)"
+            "मेरे पास पर्याप्त साधन हैं, मेरी एक बहन है, मुझमें आत्मविश्वास है और मुझे कोई बीमारी नहीं है। (Core concept alternative form)",
+            "मेरे पास एक बहन है और मेरे पास आत्मविश्वास है। (Core concept alternative form)",
+            "मुझको साधन हैं और मेरी बीमारी है। (Core concept alternative form)",
+            "मुझमें साधन हैं और मेरे पास बीमारी है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मेरे पास साधन हैं» (मूर्त), «मेरी बहन है» (रिश्ता), «मुझमें आत्मविश्वास है» (गुण), और «मुझे बीमारी नहीं है» (अनुभूति) चारों का समन्वय शत-प्रतिशत शुद्ध है।"
@@ -5446,10 +5446,10 @@
         {
           "prompt": "भय से अचानक काँपने (Sudden emotional eruption) के लिए शुद्ध संयुक्त क्रिया क्या है?",
           "options": [
-            "काँप उठा (Core target concept - Unit 12 Target Practice)",
-            "काँप लिया (Language concept U12)",
-            "काँप दिया (Language concept U12)",
-            "काँप बैठा (Language concept U12)"
+            "काँप उठा (Core concept key phrasing)",
+            "काँप लिया (Core concept alternative form)",
+            "काँप दिया (Core concept alternative form)",
+            "काँप बैठा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "भय या आश्चर्य के अचानक भावोद्रेक के लिए 'उठना' रंजक क्रिया «काँप उठा» प्रयुक्त होती है।"
@@ -5461,10 +5461,10 @@
         {
           "prompt": "क्रोध में बिना सोचे-समझे किए गए अविवेकपूर्ण कार्य (Rash/Regrettable act) वाला वाक्य पहचानिए:",
           "options": [
-            "वह आवेश में आकर कड़वी बात कह बैठा (Language concept U12)",
-            "वह कड़वी बात कह दिया (Language concept U12)",
-            "वह कड़वी बात कह लिया (Language concept U12)",
-            "वह कड़वी बात कह गया (Language concept U12)"
+            "वह आवेश में आकर कड़वी बात कह बैठा (Core concept alternative form)",
+            "वह कड़वी बात कह दिया (Core concept alternative form)",
+            "वह कड़वी बात कह लिया (Core concept alternative form)",
+            "वह कड़वी बात कह गया (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अविवेकपूर्ण या पछतावे वाले कार्य के लिए 'बैठना' रंजक धातु «कह बैठा» प्रयुक्त होती है।"
@@ -5477,10 +5477,10 @@
           "type": "multiple-choice",
           "prompt": "आकस्मिकता और अविवेक के रंजक रूपों वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "दुखद समाचार सुनते ही वह अचानक रो पड़ी और अपने भाग्य को कोस बैठी। (Language concept U12)",
-            "दुखद समाचार सुनकर वह रो दी और कोस ली। (Language concept U12)",
-            "समाचार सुनकर उसने रो पड़ी। (Language concept U12)",
-            "समाचार सुनकर वह रो गया। (Language concept U12)"
+            "दुखद समाचार सुनते ही वह अचानक रो पड़ी और अपने भाग्य को कोस बैठी। (Core concept alternative form)",
+            "दुखद समाचार सुनकर वह रो दी और कोस ली। (Core concept alternative form)",
+            "समाचार सुनकर उसने रो पड़ी। (Core concept alternative form)",
+            "समाचार सुनकर वह रो गया। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«रो पड़ी» (आकस्मिक रोना) और «कोस बैठी» (अविवेकपूर्ण कृत्य) दोनों का समन्वय व्याकरणिक और संवेदनात्मक दृष्टि से पूर्णतः शुद्ध है।"
@@ -5528,10 +5528,10 @@
         {
           "prompt": "सकारात्मक वाक्य «उसने खाना खा लिया» का मानक नकारात्मक रूप क्या होगा?",
           "options": [
-            "उसने खाना नहीं खाया (Language concept U12)",
-            "उसने खाना नहीं खा लिया (Language concept U12)",
-            "उसने खाना नहीं खा दिया (Language concept U12)",
-            "उसने खाना नहीं खा गया (Language concept U12)"
+            "उसने खाना नहीं खाया (Core concept key phrasing)",
+            "उसने खाना नहीं खा लिया (Core concept alternative form)",
+            "उसने खाना नहीं खा दिया (Core concept alternative form)",
+            "उसने खाना नहीं खा गया (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "मानक हिंदी में नकारात्मक वाक्यों में रंजक क्रिया हटकर मुख्य क्रिया का सामान्य भूतकाल «उसने खाना नहीं खाया» बनता है।"
@@ -5543,10 +5543,10 @@
         {
           "prompt": "रंजक क्रियाओं के सही मिलान वाला वाक्य पहचानिए:",
           "options": [
-            "मैंने पत्र लिख लिया और डाकिया को दे दिया (Language concept U12)",
-            "मैंने पत्र लिख दिया खुद के लिए (Language concept U12)",
-            "मैंने डाकिया को पत्र ले लिया (Language concept U12)",
-            "मैं पत्र लिख बैठा शांति से (Language concept U12)"
+            "मैंने पत्र लिख लिया और डाकिया को दे दिया (Core concept alternative form)",
+            "मैंने पत्र लिख दिया खुद के लिए (Core concept alternative form)",
+            "मैंने डाकिया को पत्र ले लिया (Core concept alternative form)",
+            "मैं पत्र लिख बैठा शांति से (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "खुद लिखने के लिए «लिख लिया» (स्व-लाभ) और डाकिया को देने के लिए «दे दिया» (पर-लाभ) का समन्वय पूर्णतः शुद्ध है।"
@@ -5559,10 +5559,10 @@
           "type": "multiple-choice",
           "prompt": "संयुक्त क्रियाओं की संपूर्ण संरचना का प्रामाणिक वाक्य चुनिए:",
           "options": [
-            "अध्यापक ने पाठ समझा दिया, छात्रों ने उसे समझ लिया, और घंटी बजते ही सब बाहर चले गए। (Language concept U12)",
-            "अध्यापक ने पाठ समझा लिया छात्रों को। (Language concept U12)",
-            "छात्रों ने पाठ समझ दिया अपने लिए। (Language concept U12)",
-            "घंटी बजते ही सब बाहर चल दिए बिना कारण। (Language concept U12)"
+            "अध्यापक ने पाठ समझा दिया, छात्रों ने उसे समझ लिया, और घंटी बजते ही सब बाहर चले गए। (Core concept alternative form)",
+            "अध्यापक ने पाठ समझा लिया छात्रों को। (Core concept alternative form)",
+            "छात्रों ने पाठ समझ दिया अपने लिए। (Core concept alternative form)",
+            "घंटी बजते ही सब बाहर चल दिए बिना कारण। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«समझा दिया» (पर-लाभ), «समझ लिया» (स्व-लाभ), और «चले गए» (पूर्णता) तीनों का समन्वय व्याकरणिक रूप से आदर्श है।"
@@ -5610,10 +5610,10 @@
         {
           "prompt": "धातु 'पढ़ना' (to read) का द्वितीय प्रेरणार्थक रूप (to have taught/read by someone) क्या होगा?",
           "options": [
-            "पढ़वाना (Core target concept - Unit 13 Target Practice)",
-            "पढ़ानाक (Core target concept - Unit 13 Target Practice)",
-            "पढ़ना ही (Core target concept - Unit 13 Target Practice)",
-            "पढ़ जाना (Core target concept - Unit 13 Target Practice)"
+            "पढ़वाना (Core concept key phrasing)",
+            "पढ़ानाक (Core concept alternative form)",
+            "पढ़ना ही (Core concept alternative form)",
+            "पढ़ जाना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'-वाना' प्रत्यय जोड़कर द्वितीय प्रेरणार्थक रूप «पढ़वाना» बनता है।"
@@ -5625,10 +5625,10 @@
         {
           "prompt": "वाक्य «रोहन ने धोबी से अपने सभी गर्म कपड़े ___» में शुद्ध प्रेरणार्थक रूप भरिए:",
           "options": [
-            "धुलवाए (Language concept U13)",
-            "धोया (Language concept U13)",
-            "धुलाया खुद (Language concept U13)",
-            "धुल गया (Language concept U13)"
+            "धुलवाए (Core concept key phrasing)",
+            "धोया (Core concept alternative form)",
+            "धुलाया खुद (Core concept alternative form)",
+            "धुल गया (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "धोबी (मध्यस्थ) से कपड़े साफ करवाने हेतु द्वितीय प्रेरणार्थक «धुलवाए» सही है।"
@@ -5641,10 +5641,10 @@
           "type": "multiple-choice",
           "prompt": "प्रथम और द्वितीय प्रेरणार्थक क्रियाओं के शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
-            "माता जी बच्चे को खाना खिलाती हैं और नौकर से बर्तन साफ़ करवाती हैं। (Language concept U13)",
-            "माता जी नौकर से खाना खिलाती हैं बच्चे को। (Language concept U13)",
-            "माता जी बच्चे को बर्तन साफ़ करवाती हैं। (Language concept U13)",
-            "माता जी नौकर से खाना खाती हैं। (Language concept U13)"
+            "माता जी बच्चे को खाना खिलाती हैं और नौकर से बर्तन साफ़ करवाती हैं। (Core concept alternative form)",
+            "माता जी नौकर से खाना खिलाती हैं बच्चे को। (Core concept alternative form)",
+            "माता जी बच्चे को बर्तन साफ़ करवाती हैं। (Core concept alternative form)",
+            "माता जी नौकर से खाना खाती हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«खिलाती हैं» (प्रथम प्रेरणार्थक: प्रत्यक्ष) और «करवाती हैं» (द्वितीय प्रेरणार्थक: मध्यस्थ द्वारा) दोनों का प्रयोग व्याकरणिक रूप से आदर्श है।"
@@ -5774,10 +5774,10 @@
         {
           "prompt": "वाक्य «शायद रोहन आज हमारे घर ___» में संभावनार्थ क्रिया का शुद्ध रूप क्या होगा?",
           "options": [
-            "आए (Core target concept - Unit 13 Target Practice)",
-            "आएगा (Language concept U13)",
-            "आया था (Language concept U13)",
-            "आ रहा है (Language concept U13)"
+            "आए (Core concept key phrasing)",
+            "आएगा (Core concept alternative form)",
+            "आया था (Core concept alternative form)",
+            "आ रहा है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'शायद' के साथ अन्य पुरुष एकवचन में संभावनार्थ रूप «आए» प्रयुक्त होता है।"
@@ -5789,9 +5789,9 @@
         {
           "prompt": "वाक्य «ज़रूरी है कि हम सब मिलकर यह कठिन कार्य ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "करें (Language concept U13)",
-            "करेंगे (Language concept U13)",
-            "किया था (Language concept U13)",
+            "करें (Core concept key phrasing)",
+            "करेंगे (Core concept alternative form)",
+            "किया था (Core concept alternative form)",
             "करते (karatae)"
           ],
           "answerIndex": 0,
@@ -5805,10 +5805,10 @@
           "type": "multiple-choice",
           "prompt": "संभावना और इच्छा (Subjunctive Mood) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
-            "मेरी दिली इच्छा है कि आप अपने जीवन के प्रत्येक लक्ष्य में अवश्य सफल हों। (Language concept U13)",
-            "मेरी इच्छा है कि आप सफल होंगे कल। (Language concept U13)",
-            "मेरी इच्छा है कि आप सफल हुए थे। (Language concept U13)",
-            "मेरी इच्छा है कि आप सफल होते हैं। (Language concept U13)"
+            "मेरी दिली इच्छा है कि आप अपने जीवन के प्रत्येक लक्ष्य में अवश्य सफल हों। (Core concept alternative form)",
+            "मेरी इच्छा है कि आप सफल होंगे कल। (Core concept alternative form)",
+            "मेरी इच्छा है कि आप सफल हुए थे। (Core concept alternative form)",
+            "मेरी इच्छा है कि आप सफल होते हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मेरी इच्छा है कि आप... सफल हों» में संभावनार्थ क्रिया का आदर्श शिष्ट प्रयोग है।"
@@ -5856,10 +5856,10 @@
         {
           "prompt": "शिष्टतापूर्वक अनुमति माँगने (Polite permission: May I come in?) के लिए शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "क्या मैं अंदर आऊँ? (Language concept U13)",
-            "क्या मैं अंदर आऊँगा? (Language concept U13)",
-            "मैं अंदर आया हूँ (Language concept U13)",
-            "मैं अंदर आ रहा था (Language concept U13)"
+            "क्या मैं अंदर आऊँ? (Core concept key phrasing)",
+            "क्या मैं अंदर आऊँगा? (Core concept alternative form)",
+            "मैं अंदर आया हूँ (Core concept alternative form)",
+            "मैं अंदर आ रहा था (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अनुमति माँगने के लिए उत्तम पुरुष एकवचन संभावनार्थ «क्या मैं अंदर आऊँ?» शुद्ध है।"
@@ -5872,9 +5872,9 @@
           "prompt": "पारंपरिक मंगलकामना «भगवान आपकी हर मनोकामना पूर्ण ___» में सही क्रिया रूप भरिए:",
           "options": [
             "करे (karae)",
-            "करेगा (Language concept U13)",
+            "करेगा (Core concept alternative form)",
             "किया था (Variant 13.4)",
-            "कर रहा है (Language concept U13)"
+            "कर रहा है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "आशीर्वाद और शुभकामना के लिए संभावनार्थ «करे» का प्रयोग होता है।"
@@ -5887,10 +5887,10 @@
           "type": "multiple-choice",
           "prompt": "आशीर्वाद और शिष्ट अनुमति दोनों के शुद्ध संभावनार्थ समन्वय वाला वाक्य पहचानिए:",
           "options": [
-            "ईश्वर आपका मार्ग प्रशस्त करे, क्या अब हम सब प्रस्थान करें? (Language concept U13)",
-            "ईश्वर आपका मार्ग प्रशस्त करेगा क्या हम प्रस्थान करेंगे? (Language concept U13)",
-            "ईश्वर ने मार्ग प्रशस्त किया था क्या हम चलें? (Language concept U13)",
-            "ईश्वर मार्ग प्रशस्त करता है हम चलते हैं। (Language concept U13)"
+            "ईश्वर आपका मार्ग प्रशस्त करे, क्या अब हम सब प्रस्थान करें? (Core concept alternative form)",
+            "ईश्वर आपका मार्ग प्रशस्त करेगा क्या हम प्रस्थान करेंगे? (Core concept alternative form)",
+            "ईश्वर ने मार्ग प्रशस्त किया था क्या हम चलें? (Core concept alternative form)",
+            "ईश्वर मार्ग प्रशस्त करता है हम चलते हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रशस्त करे» (आशीर्वाद) और «प्रस्थान करें» (शिष्ट अनुमति) दोनों संभावनार्थ रूप व्याकरणिक दृष्टि से सर्वथा शुद्ध हैं।"
@@ -5938,10 +5938,10 @@
         {
           "prompt": "उद्देश्यपरक वाक्य «मैं दर्ज़ी से कपड़े सिलवाऊँगा ताकि समय पर ___» में सही संभावनार्थ रूप क्या है?",
           "options": [
-            "मिल जाएँ (Language concept U13)",
-            "मिलेंगे (Language concept U13)",
+            "मिल जाएँ (Core concept key phrasing)",
+            "मिलेंगे (Core concept alternative form)",
             "मिले थे (mailae thae)",
-            "मिलते हैं (Language concept U13)"
+            "मिलते हैं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'ताकि' (so that) के बाद उद्देश्य उपवाक्य में संभावनार्थ «मिल जाएँ» आता है।"
@@ -5953,10 +5953,10 @@
         {
           "prompt": "वाक्य «यदि आप चाहें, तो मैं माली से बगीचे की सफ़ाई ___» में शुद्ध क्रिया रूप भरिए:",
           "options": [
-            "करवा दूँ (Language concept U13)",
-            "करूँगा निश्चित (Language concept U13)",
-            "करवाया था (Language concept U13)",
-            "करता हूँ (Language concept U13)"
+            "करवा दूँ (Core concept key phrasing)",
+            "करूँगा निश्चित (Core concept alternative form)",
+            "करवाया था (Core concept alternative form)",
+            "करता हूँ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "सशर्त प्रस्ताव में मध्यस्थ 'माली' के साथ द्वितीय प्रेरणार्थक संभावनार्थ «करवा दूँ» शुद्ध है।"
@@ -5969,10 +5969,10 @@
           "type": "multiple-choice",
           "prompt": "प्रेरणार्थक और संभावनार्थ के संश्लिष्ट समन्वय वाला सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम प्रबंधक से नई व्यवस्था लागू करवाएँ ताकि सभी कर्मचारियों को सुविधा हो। (Language concept U13)",
-            "हम प्रबंधक को नई व्यवस्था लागू करेंगे ताकि कर्मचारियों को सुविधा होगी। (Language concept U13)",
-            "हम प्रबंधक से व्यवस्था लागू किया था सुविधा हुई थी। (Language concept U13)",
-            "हम प्रबंधक में व्यवस्था लागू करवाते हैं सुविधा होती है। (Language concept U13)"
+            "हम प्रबंधक से नई व्यवस्था लागू करवाएँ ताकि सभी कर्मचारियों को सुविधा हो। (Core concept alternative form)",
+            "हम प्रबंधक को नई व्यवस्था लागू करेंगे ताकि कर्मचारियों को सुविधा होगी। (Core concept alternative form)",
+            "हम प्रबंधक से व्यवस्था लागू किया था सुविधा हुई थी। (Core concept alternative form)",
+            "हम प्रबंधक में व्यवस्था लागू करवाते हैं सुविधा होती है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रबंधक से लागू करवाएँ» (मध्यस्थ प्रेरणार्थक संभावनार्थ) और «ताकि... सुविधा हो» (उद्देश्य संभावनार्थ) का संश्लेषण व्याकरणिक दृष्टि से उत्कृष्ट है।"
@@ -6102,10 +6102,10 @@
         {
           "prompt": "रीतिवाचक क्रिया-विशेषण (Manner: to speak with a smile) व्यक्त करने वाला वाक्य कौन-सा है?",
           "options": [
-            "उसने मुस्कुराकर मेरा स्वागत किया (Language concept U14)",
-            "उसने मुस्कुराया और स्वागत हुआ (Language concept U14)",
-            "वह मुस्कुराते स्वागत करता है (Language concept U14)",
-            "मुस्कुराना से स्वागत किया (Language concept U14)"
+            "उसने मुस्कुराकर मेरा स्वागत किया (Core concept alternative form)",
+            "उसने मुस्कुराया और स्वागत हुआ (Core concept alternative form)",
+            "वह मुस्कुराते स्वागत करता है (Core concept alternative form)",
+            "मुस्कुराना से स्वागत किया (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "रीति (ढंग) दर्शाने हेतु 'मुस्कुराना' में 'कर' जोड़कर «मुस्कुराकर स्वागत किया» शुद्ध है।"
@@ -6117,10 +6117,10 @@
         {
           "prompt": "कारण (Cause) व्यक्त करने वाला वाक्य पहचानिए:",
           "options": [
-            "अचानक शेर की दहाड़ सुनकर शिकारी चौंक उठा (Language concept U14)",
-            "शिकारी शेर को देखा और दौड़ा (Language concept U14)",
-            "शिकारी दौड़ता हुआ गया (Language concept U14)",
-            "शिकारी ने शेर से डर गया (Language concept U14)"
+            "अचानक शेर की दहाड़ सुनकर शिकारी चौंक उठा (Core concept alternative form)",
+            "शिकारी शेर को देखा और दौड़ा (Core concept alternative form)",
+            "शिकारी दौड़ता हुआ गया (Core concept alternative form)",
+            "शिकारी ने शेर से डर गया (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«शेर की दहाड़ सुनकर» क्रिया के कारण (Reason) का सटीक बोध कराती है।"
@@ -6133,10 +6133,10 @@
           "type": "multiple-choice",
           "prompt": "'साधन' (Means: by doing hard work) के अर्थ में 'कर' का शुद्ध प्रयोग चुनिए:",
           "options": [
-            "सच्ची लगन से अभ्यास करके ही किसी भी कला में प्रवीणता पाई जा सकती है। (Language concept U14)",
-            "अभ्यास करते ही कला पाई जाती है। (Language concept U14)",
-            "अभ्यास करने के बिना कला आती है। (Language concept U14)",
-            "अभ्यास किया तो कला खो गई। (Language concept U14)"
+            "सच्ची लगन से अभ्यास करके ही किसी भी कला में प्रवीणता पाई जा सकती है। (Core concept alternative form)",
+            "अभ्यास करते ही कला पाई जाती है। (Core concept alternative form)",
+            "अभ्यास करने के बिना कला आती है। (Core concept alternative form)",
+            "अभ्यास किया तो कला खो गई। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«अभ्यास करके ही... प्रवीणता पाई जा सकती है» में 'करके' साधन (Means) का सर्वथा मानक रूप प्रस्तुत करता है।"
@@ -6266,10 +6266,10 @@
         {
           "prompt": "शून्य समय-अंतराल (Instant action: As soon as the lightning flashed...) व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "बिजली चमकते ही मूसलाधार बारिश शुरू हो गई (Language concept U14)",
-            "बिजली चमककर बारिश शुरू हुई (Language concept U14)",
-            "बिजली चमकने के बाद ही बारिश थी (Language concept U14)",
-            "बिजली चमकी और बारिश हो गई (Language concept U14)"
+            "बिजली चमकते ही मूसलाधार बारिश शुरू हो गई (Core concept alternative form)",
+            "बिजली चमककर बारिश शुरू हुई (Core concept alternative form)",
+            "बिजली चमकने के बाद ही बारिश थी (Core concept alternative form)",
+            "बिजली चमकी और बारिश हो गई (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "तत्कालिकता और भिन्न कर्ता (बिजली और बारिश) हेतु «चमकते ही» का प्रयोग शत-प्रतिशत शुद्ध है।"
@@ -6281,10 +6281,10 @@
         {
           "prompt": "वाक्य «व्यायाम पूरा करने ___ उसने आधा घंटा विश्राम किया» में सही अव्यय भरिए:",
           "options": [
-            "के बाद (Language concept U14)",
-            "ते ही (Language concept U14)",
+            "के बाद (Core concept key phrasing)",
+            "ते ही (Core concept alternative form)",
             "करके (karakae)",
-            "बिना (Language concept U14)"
+            "बिना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "समय-अंतराल दर्शाने हेतु «व्यायाम पूरा करने के बाद» सही है।"
@@ -6297,10 +6297,10 @@
           "type": "multiple-choice",
           "prompt": "तीनों समयावधियों ('कर', 'ते ही', 'के बाद') के सटीक प्रयोग वाला वाक्य पहचानिए:",
           "options": [
-            "वह पत्र लिखकर, लिफाफा बंद करने के बाद डाकघर गया और वहाँ पहुँचते ही पत्र पोस्ट कर दिया। (Language concept U14)",
-            "वह पत्र लिखते ही लिफाफा करके डाकघर के बाद गया। एवं (Language concept U14)",
-            "वह पत्र लिखकर डाकघर पहुँचने के बाद पोस्ट करते ही गया। एवं (Language concept U14)",
-            "पत्र के बाद लिफाफा पहुँचते ही लिखा। एवं (Language concept U14)"
+            "वह पत्र लिखकर, लिफाफा बंद करने के बाद डाकघर गया और वहाँ पहुँचते ही पत्र पोस्ट कर दिया। (Core concept alternative form)",
+            "वह पत्र लिखते ही लिफाफा करके डाकघर के बाद गया। एवं (Core concept alternative form)",
+            "वह पत्र लिखकर डाकघर पहुँचने के बाद पोस्ट करते ही गया। एवं (Core concept alternative form)",
+            "पत्र के बाद लिफाफा पहुँचते ही लिखा। एवं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«लिखकर» (पूर्वकालिक), «करने के बाद» (समय अंतराल), और «पहुँचते ही» (तत्कालिकता) तीनों का समन्वय व्याकरणिक रूप से आदर्श है।"
@@ -6348,10 +6348,10 @@
         {
           "prompt": "कृदंतों के संश्लिष्ट संयोजन वाला व्याकरणिक रूप से आदर्श वाक्य चुनिए:",
           "options": [
-            "रोहन ने समाचार सुनकर, मित्रों से विचार-विमर्श करके उचित कदम उठाया (Language concept U14)",
-            "रोहन समाचार सुनते ही मित्रों से विचार के बाद कदम उठा लिया (Language concept U14)",
-            "रोहन ने समाचार सुन लिया और मित्रों को विचार दिया (Language concept U14)",
-            "रोहन समाचार सुनकर मित्रों से विचार करके ने कदम उठाया (Language concept U14)"
+            "रोहन ने समाचार सुनकर, मित्रों से विचार-विमर्श करके उचित कदम उठाया (Core concept alternative form)",
+            "रोहन समाचार सुनते ही मित्रों से विचार के बाद कदम उठा लिया (Core concept alternative form)",
+            "रोहन ने समाचार सुन लिया और मित्रों को विचार दिया (Core concept alternative form)",
+            "रोहन समाचार सुनकर मित्रों से विचार करके ने कदम उठाया (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«समाचार सुनकर» और «विचार-विमर्श करके» का पूर्वकालिक संयोजन वाक्य को सुगठित और मानक बनाता है।"
@@ -6364,7 +6364,7 @@
           "prompt": "वाक्य «अतिथि का सत्कार ___ भोजन परोसकर हमने उन्हें संतुष्ट किया» में रिक्त स्थान का सही रूप क्या है?",
           "options": [
             "करके (karakae)",
-            "करते ही (Language concept U14)",
+            "करते ही (Core concept alternative form)",
             "किया था (Variant 14.5)",
             "करने पर (karanae para)"
           ],
@@ -6379,10 +6379,10 @@
           "type": "multiple-choice",
           "prompt": "कृदंत एवं पूर्वकालिक संरचनाओं का समग्र रूप से शुद्ध वाक्य पहचानिए:",
           "options": [
-            "यात्री ने टिकट खरीदकर, सामान जाँच करवाने के बाद गाड़ी में प्रवेश किया और बैठते ही खिड़की खोल दी। (Language concept U14)",
-            "यात्री टिकट खरीदते ही सामान करके गाड़ी के बाद खिड़की खोल दिया। (Language concept U14)",
-            "यात्री ने टिकट के बाद सामान खरीदते ही खिड़की खोलकर गया। (Language concept U14)",
-            "यात्री टिकट खरीदा और सामान के बाद खिड़की खोल दी। (Language concept U14)"
+            "यात्री ने टिकट खरीदकर, सामान जाँच करवाने के बाद गाड़ी में प्रवेश किया और बैठते ही खिड़की खोल दी। (Core concept alternative form)",
+            "यात्री टिकट खरीदते ही सामान करके गाड़ी के बाद खिड़की खोल दिया। (Core concept alternative form)",
+            "यात्री ने टिकट के बाद सामान खरीदते ही खिड़की खोलकर गया। (Core concept alternative form)",
+            "यात्री टिकट खरीदा और सामान के बाद खिड़की खोल दी। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«खरीदकर» (पूर्वकालिक), «जाँच करवाने के बाद» (समय अंतराल), और «बैठते ही» (तत्कालिकता) का समन्वय शत-प्रतिशत त्रुटिहीन है।"
@@ -6512,9 +6512,9 @@
         {
           "prompt": "स्थानवाचक वाक्य «___ फूल खिलते हैं, वहाँ भौंरे मँडराते हैं» में सही संबंधवाचक शब्द क्या है?",
           "options": [
-            "जहाँ (Language concept U15)",
+            "जहाँ (Core concept key phrasing)",
             "जिधर (jaidhara)",
-            "जैसा (Language concept U15)",
+            "जैसा (Core concept alternative form)",
             "जब (jaba)"
           ],
           "answerIndex": 0,
@@ -6528,9 +6528,9 @@
           "prompt": "दिशावाचक वाक्य «जिधर रास्ता जाता है, ___ चलो» में सही नित्यसंबंधी शब्द भरिए:",
           "options": [
             "उधर (udhara)",
-            "वहाँ (Language concept U15)",
+            "वहाँ (Core concept alternative form)",
             "तब (taba)",
-            "वैसा (Language concept U15)"
+            "वैसा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'जिधर' (in which direction) के साथ नित्यसंबंधी दिशावाचक «उधर» आता है।"
@@ -6543,10 +6543,10 @@
           "type": "multiple-choice",
           "prompt": "स्थान और दिशा के संबंधवाचक युग्मों का शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
-            "जहाँ सत्य और अहिंसा का वास होता है, वहाँ शांति स्वतः स्थापित होती है। (Language concept U15)",
-            "जहाँ सत्य होता है उधर शांति होती है। (Language concept U15)",
-            "जिधर स्वच्छता है वहाँ रोग नहीं होता। (Language concept U15)",
-            "जहाँ तक चलो त्यों ही शांति मिलेगी। (Language concept U15)"
+            "जहाँ सत्य और अहिंसा का वास होता है, वहाँ शांति स्वतः स्थापित होती है। (Core concept alternative form)",
+            "जहाँ सत्य होता है उधर शांति होती है। (Core concept alternative form)",
+            "जिधर स्वच्छता है वहाँ रोग नहीं होता। (Core concept alternative form)",
+            "जहाँ तक चलो त्यों ही शांति मिलेगी। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«जहाँ...वहाँ» का स्थानवाचक युग्म पूर्णतः संगत और त्रुटिहीन है।"
@@ -6594,10 +6594,10 @@
         {
           "prompt": "स्त्रीलिंग संज्ञा 'करनी' (actions) के अनुसार सही संबंधवाचक-नित्यसंबंधी युग्म क्या होगा?",
           "options": [
-            "जैसी करनी, वैसी भरनी (Language concept U15)",
-            "जैसा करनी, वैसा भरनी (Language concept U15)",
-            "जैसे करनी, वैसे भरनी (Language concept U15)",
-            "जितना करनी, उतना भरनी (Language concept U15)"
+            "जैसी करनी, वैसी भरनी (Core concept alternative form)",
+            "जैसा करनी, वैसा भरनी (Core concept alternative form)",
+            "जैसे करनी, वैसे भरनी (Core concept alternative form)",
+            "जितना करनी, उतना भरनी (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'करनी' और 'भरनी' दोनों स्त्रीलिंग होने से «जैसी...वैसी» का रूप शुद्ध है।"
@@ -6609,9 +6609,9 @@
         {
           "prompt": "परिमाणवाचक वाक्य «___ अधिक गुड़ डालोगे, उतना ही मीठा होगा» में सही शब्द भरिए:",
           "options": [
-            "जितना (Language concept U15)",
-            "जितनी (Language concept U15)",
-            "जैसा (Language concept U15)",
+            "जितना (Core concept key phrasing)",
+            "जितनी (Core concept alternative form)",
+            "जैसा (Core concept alternative form)",
             "जब (jaba)"
           ],
           "answerIndex": 0,
@@ -6625,10 +6625,10 @@
           "type": "multiple-choice",
           "prompt": "रीति और परिमाण के सही लिंग-वचन समन्वय वाला वाक्य चुनिए:",
           "options": [
-            "जितनी अधिक पुस्तकें तुम पढ़ोगे, उतना ही अधिक तुम्हारा ज्ञान समृद्ध होगा। (Language concept U15)",
-            "जितना पुस्तकें तुम पढ़ोगे वैसा ज्ञान होगा। (Language concept U15)",
-            "जैसे पुस्तकें पढ़ोगे उतनी ज्ञान होगा। (Language concept U15)",
-            "जितने पुस्तक पढ़ोगे उतना ही ज्ञान होगा। (Language concept U15)"
+            "जितनी अधिक पुस्तकें तुम पढ़ोगे, उतना ही अधिक तुम्हारा ज्ञान समृद्ध होगा। (Core concept alternative form)",
+            "जितना पुस्तकें तुम पढ़ोगे वैसा ज्ञान होगा। (Core concept alternative form)",
+            "जैसे पुस्तकें पढ़ोगे उतनी ज्ञान होगा। (Core concept alternative form)",
+            "जितने पुस्तक पढ़ोगे उतना ही ज्ञान होगा। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«जितनी अधिक पुस्तकें...» (स्त्रीलिंग बहुवचन कर्म) और «उतना ही अधिक तुम्हारा ज्ञान...» (पुंलिंग एकवचन भाव) का समन्वय शत-प्रतिशत त्रुटिहीन है।"
@@ -6676,10 +6676,10 @@
         {
           "prompt": "तत्कालिक समय (As soon as the bell rang...) के लिए सही संबंधवाचक युग्म कौन-सा है?",
           "options": [
-            "ज्यों ही घंटी बजी, त्यों ही छात्र आए (Language concept U15)",
-            "जब घंटी बजी वैसा छात्र आए (Language concept U15)",
-            "जहाँ घंटी बजी वहाँ छात्र आए (Language concept U15)",
-            "जितनी घंटी बजी उतना छात्र आए (Language concept U15)"
+            "ज्यों ही घंटी बजी, त्यों ही छात्र आए (Core concept alternative form)",
+            "जब घंटी बजी वैसा छात्र आए (Core concept alternative form)",
+            "जहाँ घंटी बजी वहाँ छात्र आए (Core concept alternative form)",
+            "जितनी घंटी बजी उतना छात्र आए (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "तत्कालिकता के लिए «ज्यों ही...त्यों ही» का समकालिक युग्म आदर्श है।"
@@ -6692,9 +6692,9 @@
           "prompt": "समयवाचक वाक्य «जब सूर्य उदय होता है, ___ कमल खिलते हैं» में सही नित्यसंबंधी शब्द भरिए:",
           "options": [
             "तब (taba)",
-            "वहाँ (Language concept U15)",
+            "वहाँ (Core concept alternative form)",
             "उधर (udhara)",
-            "वैसा (Language concept U15)"
+            "वैसा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'जब' (when) के साथ कालवाचक नित्यसंबंधी «तब» आता है।"
@@ -6707,10 +6707,10 @@
           "type": "multiple-choice",
           "prompt": "कालिक संबंधवाचक युग्म (जब...तब) का शुद्ध वाक्य चुनिए:",
           "options": [
-            "जब तक व्यक्ति स्वयं प्रयास नहीं करता, तब तक उसे सफलता नहीं मिल सकती। (Language concept U15)",
-            "जब तक व्यक्ति प्रयास करता है जहाँ तक सफलता मिलती है। (Language concept U15)",
-            "ज्यों ही प्रयास करता है वैसा फल मिलता है। (Language concept U15)",
-            "जब व्यक्ति प्रयास किया था त्यों ही सफल हुआ था। (Language concept U15)"
+            "जब तक व्यक्ति स्वयं प्रयास नहीं करता, तब तक उसे सफलता नहीं मिल सकती। (Core concept alternative form)",
+            "जब तक व्यक्ति प्रयास करता है जहाँ तक सफलता मिलती है। (Core concept alternative form)",
+            "ज्यों ही प्रयास करता है वैसा फल मिलता है। (Core concept alternative form)",
+            "जब व्यक्ति प्रयास किया था त्यों ही सफल हुआ था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«जब तक...तब तक» (सीमा/अवधि बोधक) का प्रयोग व्याकरणिक दृष्टि से सर्वथा शुद्ध है।"
@@ -6758,10 +6758,10 @@
         {
           "prompt": "सरल वाक्य «सच्चे देशभक्त राष्ट्र के लिए बलिदान देते हैं» का मानक मिश्र वाक्य रूपांतरण क्या होगा?",
           "options": [
-            "जो सच्चे देशभक्त होते हैं, वे राष्ट्र के लिए बलिदान देते हैं (Language concept U15)",
-            "सच्चे देशभक्त जहाँ होते हैं वहाँ बलिदान देते हैं (Language concept U15)",
-            "सच्चे देशभक्त जितना होते हैं उतना बलिदान देते हैं (Language concept U15)",
-            "सच्चे देशभक्त जब बलिदान देते हैं तब देशभक्त होते हैं (Language concept U15)"
+            "जो सच्चे देशभक्त होते हैं, वे राष्ट्र के लिए बलिदान देते हैं (Core concept alternative form)",
+            "सच्चे देशभक्त जहाँ होते हैं वहाँ बलिदान देते हैं (Core concept alternative form)",
+            "सच्चे देशभक्त जितना होते हैं उतना बलिदान देते हैं (Core concept alternative form)",
+            "सच्चे देशभक्त जब बलिदान देते हैं तब देशभक्त होते हैं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "सरल विशेषण 'सच्चे देशभक्त' को संबंधवाचक उपवाक्य «जो सच्चे देशभक्त होते हैं, वे...» में बदलना मानक रूपांतरण है।"
@@ -6773,10 +6773,10 @@
         {
           "prompt": "मिश्र वाक्य «जैसा बीज बोओगे, वैसा फल पाओगे» में रेखांकित युग्म किस कोटि का है?",
           "options": [
-            "रीतिवाचक संबंध-नित्यसंबंधी (Language concept U15)",
-            "स्थानवाचक (Language concept U15)",
-            "कालवाचक (Language concept U15)",
-            "परिमाणवाचक (Language concept U15)"
+            "रीतिवाचक संबंध-नित्यसंबंधी (Core concept alternative form)",
+            "स्थानवाचक (Core concept alternative form)",
+            "कालवाचक (Core concept alternative form)",
+            "परिमाणवाचक (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«जैसा...वैसा» कार्य के प्रकार या रीति (Manner) का बोध कराने वाला संबंधवाचक युग्म है।"
@@ -6789,10 +6789,10 @@
           "type": "multiple-choice",
           "prompt": "संबंधवाचक और नित्यसंबंधी उपवाक्यों का समग्र रूप से शुद्ध व सुगठित वाक्य पहचानिए:",
           "options": [
-            "जो व्यक्ति जितना अधिक शांत और धैर्यवान रहता है, वह जीवन की हर कठिन चुनौती को उतनी ही सुगमता से पार कर लेता है। (Language concept U15)",
-            "जो व्यक्ति जहाँ शांत रहता है वह जब चुनौती पार करता है। (Language concept U15)",
-            "जैसा व्यक्ति शांत रहता है उतना ही चुनौती पार करता है। (Language concept U15)",
-            "जिसने शांत रहा उसने सुगमता से पार किया था। (Language concept U15)"
+            "जो व्यक्ति जितना अधिक शांत और धैर्यवान रहता है, वह जीवन की हर कठिन चुनौती को उतनी ही सुगमता से पार कर लेता है। (Core concept alternative form)",
+            "जो व्यक्ति जहाँ शांत रहता है वह जब चुनौती पार करता है। (Core concept alternative form)",
+            "जैसा व्यक्ति शांत रहता है उतना ही चुनौती पार करता है। (Core concept alternative form)",
+            "जिसने शांत रहा उसने सुगमता से पार किया था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«जो व्यक्ति जितना अधिक शांत... वह... उतनी ही सुगमता से...» में सर्वनाम (जो...वह) और परिमाण (जितना...उतनी) दोनों का संश्लेषण व्याकरणिक रूप से परिपूर्ण है।"
@@ -6922,10 +6922,10 @@
         {
           "prompt": "औपचारिक वाक्य «सर्वोच्च न्यायालय ___ ऐतिहासिक निर्णय सुनाया गया» में उचित कर्ता-परसर्ग क्या होगा?",
           "options": [
-            "द्वारा (Language concept U16)",
+            "द्वारा (Core concept key phrasing)",
             "को (kao)",
             "पर (para)",
-            "में (Language concept U16)"
+            "में (Core concept key phrasing)"
           ],
           "answerIndex": 0,
           "explanation": "औपचारिक और न्यायिक कर्ता के साथ कर्मवाच्य में «द्वारा» या 'के द्वारा' का प्रयोग मानक है।"
@@ -6937,8 +6937,8 @@
         {
           "prompt": "वाक्य «प्रसिद्ध चित्रकार ___ यह सुंदर कलाकृति बनाई गई» में सही परसर्ग भरिए:",
           "options": [
-            "के द्वारा (Language concept U16)",
-            "का (Core target concept - Unit 16 Target Practice)",
+            "के द्वारा (Core concept key phrasing)",
+            "का (Core concept key phrasing)",
             "में (Variant 16.2)",
             "तक (taka)"
           ],
@@ -6953,10 +6953,10 @@
           "type": "multiple-choice",
           "prompt": "'के द्वारा' परसर्ग के साथ कर्मवाच्य का शुद्ध वाक्य चुनिए:",
           "options": [
-            "प्रधानमंत्री द्वारा नए अंतरराष्ट्रीय हवाई अड्डे का विधिवत उद्घाटन किया गया। (Language concept U16)",
-            "प्रधानमंत्री को हवाई अड्डे का उद्घाटन किया गया। (Language concept U16)",
-            "प्रधानमंत्री में हवाई अड्डा का उद्घाटन हुआ था। (Language concept U16)",
-            "प्रधानमंत्री से हवाई अड्डा खोला गया था। (Language concept U16)"
+            "प्रधानमंत्री द्वारा नए अंतरराष्ट्रीय हवाई अड्डे का विधिवत उद्घाटन किया गया। (Core concept alternative form)",
+            "प्रधानमंत्री को हवाई अड्डे का उद्घाटन किया गया। (Core concept alternative form)",
+            "प्रधानमंत्री में हवाई अड्डा का उद्घाटन हुआ था। (Core concept alternative form)",
+            "प्रधानमंत्री से हवाई अड्डा खोला गया था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रधानमंत्री द्वारा... उद्घाटन किया गया» कर्मवाच्य का सर्वथा शुद्ध और मानक आधिकारिक रूप है।"
@@ -7004,10 +7004,10 @@
         {
           "prompt": "शारीरिक असमर्थता (Inability: I cannot walk anymore) को व्यक्त करने वाला शुद्ध भाववाच्य वाक्य कौन-सा है?",
           "options": [
-            "मुझसे अब और नहीं चला जाता (Language concept U16)",
-            "मैं अब और नहीं चलूँगा (Language concept U16)",
-            "मुझको चलना नहीं चाहिए (Language concept U16)",
-            "मेरे से चलना बंद हुआ (Language concept U16)"
+            "मुझसे अब और नहीं चला जाता (Core concept alternative form)",
+            "मैं अब और नहीं चलूँगा (Core concept alternative form)",
+            "मुझको चलना नहीं चाहिए (Core concept alternative form)",
+            "मेरे से चलना बंद हुआ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "शारीरिक असमर्थता दर्शाने के लिए कर्ता 'मुझसे' + 'नहीं चला जाता' का भाववाच्य रूप सर्वथा मानक है।"
@@ -7019,10 +7019,10 @@
         {
           "prompt": "वाक्य «इतनी तेज़ धूप में उससे बाहर ___» में सही असमर्थता सूचक रूप भरिए:",
           "options": [
-            "नहीं निकला जाता (Language concept U16)",
-            "नहीं निकलता है (Language concept U16)",
-            "नहीं निकलेगा (Language concept U16)",
-            "नहीं निकलना था (Language concept U16)"
+            "नहीं निकला जाता (Core concept key phrasing)",
+            "नहीं निकलता है (Core concept alternative form)",
+            "नहीं निकलेगा (Core concept alternative form)",
+            "नहीं निकलना था (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "धूप के कारण विवशता/असमर्थता दर्शाने हेतु «नहीं निकला जाता» शुद्ध है।"
@@ -7035,10 +7035,10 @@
           "type": "multiple-choice",
           "prompt": "असमर्थता और विवशता (Incapacity Passive) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "गले में तीव्र संक्रमण के कारण रोगी से कुछ भी ठोस भोजन नहीं खाया जा रहा है। (Language concept U16)",
-            "रोगी ठोस भोजन नहीं खाता है गले के कारण। (Language concept U16)",
-            "रोगी को भोजन नहीं खाया जाता है। (Language concept U16)",
-            "रोगी में भोजन नहीं खाना हुआ। (Language concept U16)"
+            "गले में तीव्र संक्रमण के कारण रोगी से कुछ भी ठोस भोजन नहीं खाया जा रहा है। (Core concept alternative form)",
+            "रोगी ठोस भोजन नहीं खाता है गले के कारण। (Core concept alternative form)",
+            "रोगी को भोजन नहीं खाया जाता है। (Core concept alternative form)",
+            "रोगी में भोजन नहीं खाना हुआ। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«रोगी से... भोजन नहीं खाया जा रहा है» में शारीरिक असमर्थता का कर्मवाच्य प्रयोग व्याकरण की दृष्टि से आदर्श है।"
@@ -7086,10 +7086,10 @@
         {
           "prompt": "सार्वजनिक सूचना (Public Notice: English is taught here) का शुद्ध कर्तृहीन कर्मवाच्य वाक्य कौन-सा है?",
           "options": [
-            "यहाँ अंग्रेज़ी सिखाई जाती है (Language concept U16)",
-            "यहाँ अंग्रेज़ी सीखता है कोई (Language concept U16)",
-            "यहाँ अंग्रेज़ी को सिखाते हैं (Language concept U16)",
-            "यहाँ अंग्रेज़ी सिखाया जाता है (Language concept U16)"
+            "यहाँ अंग्रेज़ी सिखाई जाती है (Core concept alternative form)",
+            "यहाँ अंग्रेज़ी सीखता है कोई (Core concept alternative form)",
+            "यहाँ अंग्रेज़ी को सिखाते हैं (Core concept alternative form)",
+            "यहाँ अंग्रेज़ी सिखाया जाता है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'अंग्रेज़ी' स्त्रीलिंग होने से कर्तृहीन कर्मवाच्य रूप «सिखाई जाती है» सर्वथा शुद्ध है।"
@@ -7101,10 +7101,10 @@
         {
           "prompt": "आधिकारिक विज्ञप्ति «एतद्द्वारा सभी नागरिकों को सूचित ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "किया जाता है (Language concept U16)",
-            "करता हूँ (Language concept U16)",
-            "करते हैं लोग (Language concept U16)",
-            "किया जाए शायद (Language concept U16)"
+            "किया जाता है (Core concept key phrasing)",
+            "करता हूँ (Core concept alternative form)",
+            "करते हैं लोग (Core concept alternative form)",
+            "किया जाए शायद (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "आधिकारिक सूचनाओं में मानक कर्मवाच्य सूत्र «सूचित किया जाता है» प्रयुक्त होता है।"
@@ -7117,10 +7117,10 @@
           "type": "multiple-choice",
           "prompt": "कर्तृहीन शासकीय कर्मवाच्य का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "नियमों का उल्लंघन करने वाले वाहनों का चालान काटा जाएगा। (Language concept U16)",
-            "नियमों का उल्लंघन करने वाले वाहनों का चालान काटेंगे कोई। (Language concept U16)",
-            "नियम उल्लंघन वाहनों को चालान काट दिया। (Language concept U16)",
-            "चालान वाहनों में काटा जाता होगा। (Language concept U16)"
+            "नियमों का उल्लंघन करने वाले वाहनों का चालान काटा जाएगा। (Core concept alternative form)",
+            "नियमों का उल्लंघन करने वाले वाहनों का चालान काटेंगे कोई। (Core concept alternative form)",
+            "नियम उल्लंघन वाहनों को चालान काट दिया। (Core concept alternative form)",
+            "चालान वाहनों में काटा जाता होगा। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«वाहनों का चालान काटा जाएगा» भविष्यत् काल का आदर्श कर्तृहीन कर्मवाच्य वाक्य है।"
@@ -7333,8 +7333,8 @@
           "prompt": "कारणसूचक वाक्य «चूँकि आज अवकाश है, ___ सभी दुकानें बंद हैं» में सही परिणामवाची योजक क्या है?",
           "options": [
             "इसलिए (isalaie)",
-            "क्योंकि (Language concept U17)",
-            "ताकि (Language concept U17)",
+            "क्योंकि (Core concept alternative form)",
+            "ताकि (Core concept alternative form)",
             "यद्यपि (yadayapai)"
           ],
           "answerIndex": 0,
@@ -7347,10 +7347,10 @@
         {
           "prompt": "वाक्य «वह समय पर स्टेशन नहीं पहुँच सका ___ रास्ते में भारी जाम लगा था» में सही योजक भरिए:",
           "options": [
-            "क्योंकि (Language concept U17)",
+            "क्योंकि (Core concept key phrasing)",
             "इसलिए (isalaie)",
-            "ताकि (Language concept U17)",
-            "तथापि (Language concept U17)"
+            "ताकि (Core concept alternative form)",
+            "तथापि (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "विलंब का कारण बताने के लिए उपवाक्य के बीच में «क्योंकि» शुद्ध है।"
@@ -7363,10 +7363,10 @@
           "type": "multiple-choice",
           "prompt": "कारण और परिणाम के पूर्णतः शुद्ध समन्वय वाला वाक्य पहचानिए:",
           "options": [
-            "चूँकि उसने परीक्षा के लिए निष्ठापूर्वक तैयारी की थी, इसलिए उसे उत्कृष्ट सफलता प्राप्त हुई। (Language concept U17)",
-            "चूँकि उसने तैयारी की क्योंकि सफलता मिली। (Language concept U17)",
-            "उसने तैयारी की ताकि सफलता मिली थी। (Language concept U17)",
-            "चूँकि तैयारी किया इसलिए सफल हो गया था वह। (Language concept U17)"
+            "चूँकि उसने परीक्षा के लिए निष्ठापूर्वक तैयारी की थी, इसलिए उसे उत्कृष्ट सफलता प्राप्त हुई। (Core concept alternative form)",
+            "चूँकि उसने तैयारी की क्योंकि सफलता मिली। (Core concept alternative form)",
+            "उसने तैयारी की ताकि सफलता मिली थी। (Core concept alternative form)",
+            "चूँकि तैयारी किया इसलिए सफल हो गया था वह। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«चूँकि... इसलिए» का कारण-परिणाम संबंध व्याकरणिक दृष्टि से सर्वथा त्रुटिहीन है।"
@@ -7414,10 +7414,10 @@
         {
           "prompt": "उद्देश्य (Purpose: so that you may succeed) व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "नियमित अभ्यास करो ताकि तुम परीक्षा में सफल हो सको (Language concept U17)",
-            "नियमित अभ्यास करो क्योंकि सफल हो गए (Language concept U17)",
-            "नियमित अभ्यास करो इसलिए सफल हुए (Language concept U17)",
-            "नियमित अभ्यास करो तथापि सफल हो (Language concept U17)"
+            "नियमित अभ्यास करो ताकि तुम परीक्षा में सफल हो सको (Core concept alternative form)",
+            "नियमित अभ्यास करो क्योंकि सफल हो गए (Core concept alternative form)",
+            "नियमित अभ्यास करो इसलिए सफल हुए (Core concept alternative form)",
+            "नियमित अभ्यास करो तथापि सफल हो (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "उद्देश्य दर्शाने के लिए «ताकि... सफल हो सको» का प्रयोग व्याकरणिक दृष्टि से शुद्ध है।"
@@ -7430,9 +7430,9 @@
           "prompt": "परिणाम की तीव्रता «वह इतना थक गया था ___ तुरंत सो गया» में सही योजक क्या है?",
           "options": [
             "कि (kai)",
-            "की (Core target concept - Unit 17 Target Practice)",
+            "की (Core concept alternative form)",
             "ताकि (Variant 17.3)",
-            "क्योंकि (Language concept U17)"
+            "क्योंकि (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'इतना' के साथ परिणाम उपवाक्य को जोड़ने वाला योजक «कि» है।"
@@ -7445,10 +7445,10 @@
           "type": "multiple-choice",
           "prompt": "उद्देश्य (ताकि) और परिणाम की तीव्रता (इतना...कि) का शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "वक्ता ने इतनी मधुर वाणी में समझाया कि सभी श्रोता मंत्रमुग्ध हो गए और शांति बनाए रखी ताकि कोई व्यवधान न हो। (Language concept U17)",
-            "वक्ता ने ताकि समझाया कि श्रोता इतने हो गए। (Language concept U17)",
-            "वक्ता इतना समझाया क्योंकि व्यवधान न हो। (Language concept U17)",
-            "वक्ता ने समझाया इसलिए ताकि शांति हो गई थी। (Language concept U17)"
+            "वक्ता ने इतनी मधुर वाणी में समझाया कि सभी श्रोता मंत्रमुग्ध हो गए और शांति बनाए रखी ताकि कोई व्यवधान न हो। (Core concept alternative form)",
+            "वक्ता ने ताकि समझाया कि श्रोता इतने हो गए। (Core concept alternative form)",
+            "वक्ता इतना समझाया क्योंकि व्यवधान न हो। (Core concept alternative form)",
+            "वक्ता ने समझाया इसलिए ताकि शांति हो गई थी। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«इतनी मधुर वाणी में... कि सभी मंत्रमुग्ध हो गए» (तीव्रता) और «ताकि कोई व्यवधान न हो» (उद्देश्य) दोनों का समन्वय सर्वथा मानक है।"
@@ -7496,10 +7496,10 @@
         {
           "prompt": "साहित्यिक रियायत योजक «यद्यपि वह बीमार था, ___ उसने परीक्षा दी» में सही नित्यसंबंधी शब्द क्या होगा?",
           "options": [
-            "तथापि (Language concept U17)",
-            "क्योंकि (Language concept U17)",
+            "तथापि (Core concept key phrasing)",
+            "क्योंकि (Core concept alternative form)",
             "इसलिए (isalaie)",
-            "ताकि (Language concept U17)"
+            "ताकि (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'यद्यपि' (although) के साथ नित्यसंबंधी के रूप में तत्सम अव्यय «तथापि» आता है।"
@@ -7512,7 +7512,7 @@
           "prompt": "संशोधनवाची वाक्य «वह मूर्ख नहीं है, ___ अत्यंत चतुर है» में सही योजक भरिए:",
           "options": [
             "बल्कि (balakai)",
-            "क्योंकि (Language concept U17)",
+            "क्योंकि (Core concept alternative form)",
             "इसलिए (isalaie)",
             "यद्यपि (yadayapai)"
           ],
@@ -7527,10 +7527,10 @@
           "type": "multiple-choice",
           "prompt": "वैषम्य और रियायत योजकों (यद्यपि...तथापि एवं बल्कि) का शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
-            "यद्यपि परिस्थितियाँ अत्यंत प्रतिकूल थीं, तथापि उसने धैर्य नहीं खोया, बल्कि दुगुने उत्साह से कार्य में जुट गया। (Language concept U17)",
-            "यद्यपि परिस्थितियाँ प्रतिकूल थीं इसलिए धैर्य खो दिया। (Language concept U17)",
-            "हालाँकि परिस्थितियाँ थीं ताकि उत्साह बढ़ गया। (Language concept U17)",
-            "परिस्थितियाँ प्रतिकूल थीं तथापि क्योंकि उसने काम किया। (Language concept U17)"
+            "यद्यपि परिस्थितियाँ अत्यंत प्रतिकूल थीं, तथापि उसने धैर्य नहीं खोया, बल्कि दुगुने उत्साह से कार्य में जुट गया। (Core concept alternative form)",
+            "यद्यपि परिस्थितियाँ प्रतिकूल थीं इसलिए धैर्य खो दिया। (Core concept alternative form)",
+            "हालाँकि परिस्थितियाँ थीं ताकि उत्साह बढ़ गया। (Core concept alternative form)",
+            "परिस्थितियाँ प्रतिकूल थीं तथापि क्योंकि उसने काम किया। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«यद्यपि... तथापि» (रियायत) और «बल्कि» (संशोधन) का संश्लिष्ट प्रयोग व्याकरणिक दृष्टि से सर्वथा आदर्श है।"
@@ -7578,10 +7578,10 @@
         {
           "prompt": "योजकों के संश्लिष्ट संयोजन वाला व्याकरणिक रूप से आदर्श वाक्य चुनिए:",
           "options": [
-            "उसने बताया कि यद्यपि कार्य कठिन था, तथापि उसने पूरा किया ताकि सभी को लाभ मिले (Language concept U17)",
-            "उसने बताया क्योंकि कार्य कठिन था तथापि ताकि पूरा हुआ (Language concept U17)",
-            "उसने कहा इसलिए यद्यपि कार्य था ताकि पूरा हुआ (Language concept U17)",
-            "उसने बताया कि कार्य कठिन था क्योंकि पूरा किया (Language concept U17)"
+            "उसने बताया कि यद्यपि कार्य कठिन था, तथापि उसने पूरा किया ताकि सभी को लाभ मिले (Core concept alternative form)",
+            "उसने बताया क्योंकि कार्य कठिन था तथापि ताकि पूरा हुआ (Core concept alternative form)",
+            "उसने कहा इसलिए यद्यपि कार्य था ताकि पूरा हुआ (Core concept alternative form)",
+            "उसने बताया कि कार्य कठिन था क्योंकि पूरा किया (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«कि» (कथन), «यद्यपि... तथापि» (रियायत), और «ताकि» (उद्देश्य) का संयोजन वाक्य को सुगठित और प्रामाणिक बनाता है।"
@@ -7594,9 +7594,9 @@
           "prompt": "वाक्य «चूँकि वह ज्ञानी है, ___ अहंकारी नहीं ___ अत्यंत विनम्र है» में सही योजक युग्म भरिए:",
           "options": [
             "इसलिए...बल्कि (isalaie...balakai)",
-            "क्योंकि...ताकि (Language concept U17)",
-            "यद्यपि...तथापि (Language concept U17)",
-            "कि...की (Language concept U17)"
+            "क्योंकि...ताकि (Core concept alternative form)",
+            "यद्यपि...तथापि (Core concept alternative form)",
+            "कि...की (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "कारण-परिणाम हेतु «इसलिए» और संशोधन/विरोधाभास हेतु «बल्कि» का युग्म शत-प्रतिशत शुद्ध है।"
@@ -7609,10 +7609,10 @@
           "type": "multiple-choice",
           "prompt": "पाँचों योजक वर्गों का समग्र रूप से शुद्ध व तार्किक वाक्य पहचानिए:",
           "options": [
-            "शिक्षक ने समझाया कि चूँकि समय अमूल्य है, इसलिए हमें व्यर्थ समय नहीं गँवाना चाहिए, बल्कि निरंतर परिश्रम करना चाहिए ताकि भविष्य उज्ज्वल हो। (Language concept U17)",
-            "शिक्षक ने समझाया की समय अमूल्य है क्योंकि व्यर्थ गँवाते हैं ताकि भविष्य हो। (Language concept U17)",
-            "शिक्षक ने कहा इसलिए समय अमूल्य है यद्यपि परिश्रम करें। (Language concept U17)",
-            "समय अमूल्य है ताकि शिक्षक ने समझाया इसलिए भविष्य हो गया था। (Language concept U17)"
+            "शिक्षक ने समझाया कि चूँकि समय अमूल्य है, इसलिए हमें व्यर्थ समय नहीं गँवाना चाहिए, बल्कि निरंतर परिश्रम करना चाहिए ताकि भविष्य उज्ज्वल हो। (Core concept alternative form)",
+            "शिक्षक ने समझाया की समय अमूल्य है क्योंकि व्यर्थ गँवाते हैं ताकि भविष्य हो। (Core concept alternative form)",
+            "शिक्षक ने कहा इसलिए समय अमूल्य है यद्यपि परिश्रम करें। (Core concept alternative form)",
+            "समय अमूल्य है ताकि शिक्षक ने समझाया इसलिए भविष्य हो गया था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«कि» (कथन) + «चूँकि... इसलिए» (कारण) + «बल्कि» (संशोधन) + «ताकि» (उद्देश्य) का यह संश्लेषण हिंदी वाक्य रचना का शिखर मानक है।"
@@ -7906,10 +7906,10 @@
         {
           "prompt": "असंभव इच्छा (Wish: Would that I were rich!) को व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "काश मैं धनी होता! (Language concept U18)",
-            "काश मैं धनी हूँ! (Language concept U18)",
-            "काश मैं धनी होऊंगा! (Language concept U18)",
-            "काश मैं धनी हो गया था! (Language concept U18)"
+            "काश मैं धनी होता! (Core concept alternative form)",
+            "काश मैं धनी हूँ! (Core concept alternative form)",
+            "काश मैं धनी होऊंगा! (Core concept alternative form)",
+            "काश मैं धनी हो गया था! (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "'काश' के साथ असंभव कामना व्यक्त करने हेतु अपूर्ण कृदंत «होता» शुद्ध है।"
@@ -7922,7 +7922,7 @@
           "prompt": "मिश्रित शर्त «अगर तुमने मेहनत की होती, तो आज तुम पछता ___» में सही रूप भरिए:",
           "options": [
             "न रहे होते (na rahae haotae)",
-            "न रहे होंगे (Language concept U18)",
+            "न रहे होंगे (Core concept alternative form)",
             "न रहे (na rahae)",
             "न रहे थे (na rahae thae)"
           ],
@@ -7937,10 +7937,10 @@
           "type": "multiple-choice",
           "prompt": "'काश' और मिश्रित शर्तपरक वाक्य का पूर्णतः शुद्ध उदाहरण चुनिए:",
           "options": [
-            "काश हमने समय रहते पर्यावरण संरक्षण पर ध्यान दिया होता, तो आज हमें इस गंभीर जलवायु संकट का सामना न करना पड़ता। (Language concept U18)",
-            "काश हम ध्यान देते थे इसलिए संकट न होता। (Language concept U18)",
-            "काश हम ध्यान देंगे ताकि संकट नहीं हो। (Language concept U18)",
-            "हम ध्यान दिए होते काश तो संकट था। (Language concept U18)"
+            "काश हमने समय रहते पर्यावरण संरक्षण पर ध्यान दिया होता, तो आज हमें इस गंभीर जलवायु संकट का सामना न करना पड़ता। (Core concept alternative form)",
+            "काश हम ध्यान देते थे इसलिए संकट न होता। (Core concept alternative form)",
+            "काश हम ध्यान देंगे ताकि संकट नहीं हो। (Core concept alternative form)",
+            "हम ध्यान दिए होते काश तो संकट था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«काश... ध्यान दिया होता, तो आज... न करना पड़ता» में पश्चाताप और वर्तमान परिणाम का संश्लेषण सर्वथा निर्दोष है।"
@@ -7988,10 +7988,10 @@
         {
           "prompt": "शर्तपरक संरचनाओं के सभी नियमों का पालन करने वाला सुगठित वाक्य पहचानिए:",
           "options": [
-            "यदि हम आज संयम और अनुशासन का पालन करेंगे, तो कल हमारा भविष्य सुरक्षित और समृद्ध होगा (Language concept U18)",
-            "यदि हम आज अनुशासन पालन करते तब कल भविष्य होगा (Language concept U18)",
-            "अगर अनुशासन पालन करेंगे इसलिए भविष्य समृद्ध था (Language concept U18)",
-            "अनुशासन पालन करें ताकि अगर भविष्य होगा (Language concept U18)"
+            "यदि हम आज संयम और अनुशासन का पालन करेंगे, तो कल हमारा भविष्य सुरक्षित और समृद्ध होगा (Core concept alternative form)",
+            "यदि हम आज अनुशासन पालन करते तब कल भविष्य होगा (Core concept alternative form)",
+            "अगर अनुशासन पालन करेंगे इसलिए भविष्य समृद्ध था (Core concept alternative form)",
+            "अनुशासन पालन करें ताकि अगर भविष्य होगा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«यदि... करेंगे, तो... होगा» भविष्योन्मुख शर्त का परिपूर्ण और सुगठित वाक्य है।"
@@ -8006,7 +8006,7 @@
             "तो (tao)",
             "तब (taba)",
             "ताकि (Variant 18.5)",
-            "क्योंकि (Language concept U18)"
+            "क्योंकि (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "संभाव्य शर्त 'यदि आप अनुमति दें' के साथ परिणाम हेतु «तो» ही मानक है।"
@@ -8019,10 +8019,10 @@
           "type": "multiple-choice",
           "prompt": "शर्तपरक वाक्यों (Conditionals) के चारों प्रकारों का संपूर्ण तार्किक समन्वय वाला वाक्य पहचानिए:",
           "options": [
-            "यदि समाज का प्रत्येक वर्ग एकजुट होकर प्रयास करे, तो कोई भी लक्ष्य असंभव नहीं है; किंतु अगर हमने आलस्य किया, तो हमें भारी मूल्य चुकाना पड़ेगा। (Language concept U18)",
-            "यदि समाज प्रयास करता है तब कोई लक्ष्य असंभव था। (Language concept U18)",
-            "अगर समाज प्रयास करेगा ताकि मूल्य चुकाया था। (Language concept U18)",
-            "समाज प्रयास करे इसलिए अगर लक्ष्य असंभव होगा। (Language concept U18)"
+            "यदि समाज का प्रत्येक वर्ग एकजुट होकर प्रयास करे, तो कोई भी लक्ष्य असंभव नहीं है; किंतु अगर हमने आलस्य किया, तो हमें भारी मूल्य चुकाना पड़ेगा। (Core concept alternative form)",
+            "यदि समाज प्रयास करता है तब कोई लक्ष्य असंभव था। (Core concept alternative form)",
+            "अगर समाज प्रयास करेगा ताकि मूल्य चुकाया था। (Core concept alternative form)",
+            "समाज प्रयास करे इसलिए अगर लक्ष्य असंभव होगा। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«यदि... करे, तो... असंभव नहीं है» (संभाव्य) तथा «अगर... किया, तो... चुकाना पड़ेगा» (वास्तविक परिणाम) का संश्लेषण व्याकरणिक और तार्किक दृष्टि से अप्रतिम है।"
@@ -8070,10 +8070,10 @@
         {
           "prompt": "रीतिवाचक क्रिया-विशेषण (Manner Adverb: patiently) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "उसने मेरी पूरी बात धैर्यपूर्वक सुनी (Language concept U19)",
-            "उसने मेरी बात कल सुनी (Language concept U19)",
-            "उसने मेरी बात वहाँ सुनी (Language concept U19)",
-            "उसने मेरी बात बहुत सुनी (Language concept U19)"
+            "उसने मेरी पूरी बात धैर्यपूर्वक सुनी (Core concept alternative form)",
+            "उसने मेरी बात कल सुनी (Core concept alternative form)",
+            "उसने मेरी बात वहाँ सुनी (Core concept alternative form)",
+            "उसने मेरी बात बहुत सुनी (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "कार्य के ढंग या रीति को दर्शाने वाला शब्द «धैर्यपूर्वक» रीतिवाचक क्रिया-विशेषण है।"
@@ -8085,10 +8085,10 @@
         {
           "prompt": "वाक्य «रोगी ने कड़वी दवा ___ पी ली» में सही रीतिवाचक क्रिया-विशेषण भरिए:",
           "options": [
-            "चुपचाप (Language concept U19)",
-            "ऊपर (Language concept U19)",
-            "परसों (Language concept U19)",
-            "उतना (Language concept U19)"
+            "चुपचाप (Core concept key phrasing)",
+            "ऊपर (Core concept alternative form)",
+            "परसों (Core concept alternative form)",
+            "उतना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "क्रिया के तरीके को स्पष्ट करने वाला रीतिवाचक अव्यय «चुपचाप» शुद्ध है।"
@@ -8101,10 +8101,10 @@
           "type": "multiple-choice",
           "prompt": "रीतिवाचक क्रिया-विशेषण (Manner Adverb) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
-            "सुरक्षाकर्मियों ने वीआईपी काफिले को बड़ी कुशलता और तत्परता से सुरक्षित बाहर निकाला। (Language concept U19)",
-            "सुरक्षाकर्मियों ने काफिले को कल बाहर निकाला। (Language concept U19)",
-            "सुरक्षाकर्मियों ने काफिले को बहुत बाहर निकाला। (Language concept U19)",
-            "सुरक्षाकर्मियों ने काफिले को दिल्ली में निकाला। (Language concept U19)"
+            "सुरक्षाकर्मियों ने वीआईपी काफिले को बड़ी कुशलता और तत्परता से सुरक्षित बाहर निकाला। (Core concept alternative form)",
+            "सुरक्षाकर्मियों ने काफिले को कल बाहर निकाला। (Core concept alternative form)",
+            "सुरक्षाकर्मियों ने काफिले को बहुत बाहर निकाला। (Core concept alternative form)",
+            "सुरक्षाकर्मियों ने काफिले को दिल्ली में निकाला। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«बड़ी कुशलता और तत्परता से» क्रिया के निष्पादन की रीति (Manner) को शत-प्रतिशत स्पष्ट करता है।"
@@ -8316,10 +8316,10 @@
         {
           "prompt": "तुलनात्मक परिमाण (Comparative Degree: comparatively easier) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "यह कार्य पिछले कार्य से अपेक्षाकृत सरल है (Language concept U19)",
-            "यह कार्य कल सरल है (Language concept U19)",
-            "यह कार्य ध्यानपूर्वक सरल है (Language concept U19)",
-            "यह कार्य चारों ओर सरल है (Language concept U19)"
+            "यह कार्य पिछले कार्य से अपेक्षाकृत सरल है (Core concept alternative form)",
+            "यह कार्य कल सरल है (Core concept alternative form)",
+            "यह कार्य ध्यानपूर्वक सरल है (Core concept alternative form)",
+            "यह कार्य चारों ओर सरल है (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "तुलनात्मक मात्रा या कोटि दर्शाने के लिए तत्सम अव्यय «अपेक्षाकृत» परिमाणवाचक क्रिया-विशेषण है।"
@@ -8332,9 +8332,9 @@
           "prompt": "अनुमानित परिमाण (Approximation: approximately 50 people) दर्शाने वाला शुद्ध शब्द भरिए:",
           "options": [
             "लगभग (lagabhaga)",
-            "चुपचाप (Language concept U19)",
+            "चुपचाप (Core concept alternative form)",
             "परसों (Variant 19.4)",
-            "निकट (Language concept U19)"
+            "निकट (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अनुमानित संख्या या माप के लिए «लगभग» परिमाणवाचक अव्यय शुद्ध है।"
@@ -8347,10 +8347,10 @@
           "type": "multiple-choice",
           "prompt": "परिमाणवाचक और तुलनात्मक क्रिया-विशेषण का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "नई तकनीक अपनाने के बाद कारखाने का उत्पादन अपेक्षाकृत अत्यधिक बढ़ गया है। (Language concept U19)",
-            "कारखाने का उत्पादन कल ध्यानपूर्वक बढ़ गया। (Language concept U19)",
-            "कारखाने का उत्पादन चारों ओर बढ़ गया था। (Language concept U19)",
-            "उत्पादन बढ़ गया ताकि कारखाना चला था। (Language concept U19)"
+            "नई तकनीक अपनाने के बाद कारखाने का उत्पादन अपेक्षाकृत अत्यधिक बढ़ गया है। (Core concept alternative form)",
+            "कारखाने का उत्पादन कल ध्यानपूर्वक बढ़ गया। (Core concept alternative form)",
+            "कारखाने का उत्पादन चारों ओर बढ़ गया था। (Core concept alternative form)",
+            "उत्पादन बढ़ गया ताकि कारखाना चला था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«अपेक्षाकृत» (तुलना) और «अत्यधिक» (मात्रा की तीव्रता) का संश्लेषण परिमाणवाचक व्याकरण का उत्कृष्ट उदाहरण है।"
@@ -8481,9 +8481,9 @@
           "prompt": "औपचारिक शासकीय पत्र (Formal Letter Opening) का मानक आरंभिक वाक्य चुनिए:",
           "options": [
             "सविनय निवेदन है कि (savainaya naivaedana haai kai)",
-            "अरे सुनिए भाई (Language concept U20)",
-            "तुमको बताता हूँ कि (Language concept U20)",
-            "बात यह है यार (Language concept U20)"
+            "अरे सुनिए भाई (Core concept alternative form)",
+            "तुमको बताता हूँ कि (Core concept alternative form)",
+            "बात यह है यार (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "औपचारिक पत्रों में आदरसूचक और मानक शुरुआत «सविनय निवेदन है कि» से की जाती है।"
@@ -8495,10 +8495,10 @@
         {
           "prompt": "औपचारिक पत्र के अंत में प्रयुक्त होने वाला मानक अभिनिवेदन (Formal subscription) कौन-सा है?",
           "options": [
-            "भवदीय (Language concept U20)",
-            "तुम्हारा दोस्त (Language concept U20)",
+            "भवदीय (Core concept key phrasing)",
+            "तुम्हारा दोस्त (Core concept alternative form)",
             "अलविदा (Alvida - Goodbye)",
-            "शाबाश (Core target concept - Unit 20 Target Practice)"
+            "शाबाश (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "शासकीय और व्यावसायिक पत्राचार में अंत में लेखक के हस्ताक्षर से पूर्व «भवदीय» लिखना मानक है।"
@@ -8511,10 +8511,10 @@
           "type": "multiple-choice",
           "prompt": "औपचारिक पत्राचार (Formal Correspondence) का पूर्णतः प्रामाणिक और मानक वाक्य पहचानिए:",
           "options": [
-            "उपर्युक्त विषयांतर्गत सादर निवेदन है कि हमारे आवेदन पर सहानुभूतिपूर्वक विचार कर त्वरित कार्रवाई करने की कृपा करें। (Language concept U20)",
-            "उपर्युक्त विषय में तू जल्दी काम कर ले। (Language concept U20)",
-            "आवेदन पर हम सब मिलकर हँस रहे थे। (Language concept U20)",
-            "सहानुभूतिपूर्वक विचार करो ताकि पत्र खत्म हो। (Language concept U20)"
+            "उपर्युक्त विषयांतर्गत सादर निवेदन है कि हमारे आवेदन पर सहानुभूतिपूर्वक विचार कर त्वरित कार्रवाई करने की कृपा करें। (Core concept alternative form)",
+            "उपर्युक्त विषय में तू जल्दी काम कर ले। (Core concept alternative form)",
+            "आवेदन पर हम सब मिलकर हँस रहे थे। (Core concept alternative form)",
+            "सहानुभूतिपूर्वक विचार करो ताकि पत्र खत्म हो। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«उपर्युक्त विषयांतर्गत सादर निवेदन है कि... विचार कर त्वरित कार्रवाई करने की कृपा करें» पूर्ण शासकीय शिष्टाचार और व्याकरणिक शुद्धता का उदाहरण है।"
@@ -8726,10 +8726,10 @@
         {
           "prompt": "ईमेल में फ़ाइल जोड़ने (Attachment) के लिए मानक हिंदी शब्द कौन-सा है?",
           "options": [
-            "संलग्नक / संलग्न फ़ाइल (Language concept U20)",
-            "चिपकाई हुई फ़ोटो (Language concept U20)",
-            "बाँधा हुआ कागज़ (Language concept U20)",
-            "खोया हुआ पत्र (Language concept U20)"
+            "संलग्नक / संलग्न फ़ाइल (Core concept alternative form)",
+            "चिपकाई हुई फ़ोटो (Core concept alternative form)",
+            "बाँधा हुआ कागज़ (Core concept alternative form)",
+            "खोया हुआ पत्र (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "ईमेल और पत्राचार में अटैचमेंट के लिए मानक पारिभाषिक शब्द «संलग्नक» या «संलग्न फ़ाइल» है।"
@@ -8741,10 +8741,10 @@
         {
           "prompt": "कॉरपोरेट ईमेल के अंत में 'Looking forward to your reply' का मानक हिंदी अनुवाद चुनिए:",
           "options": [
-            "आपके शीघ्र प्रत्युत्तर की प्रतीक्षा में (Language concept U20)",
-            "तुम जल्दी बोलो (Language concept U20)",
-            "हम कल सो रहे हैं (Language concept U20)",
-            "जवाब मत देना (Language concept U20)"
+            "आपके शीघ्र प्रत्युत्तर की प्रतीक्षा में (Core concept key phrasing)",
+            "तुम जल्दी बोलो (Core concept alternative form)",
+            "हम कल सो रहे हैं (Core concept alternative form)",
+            "जवाब मत देना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "व्यावसायिक पत्राचार में उत्तर की प्रतीक्षा दर्शाने हेतु «आपके शीघ्र प्रत्युत्तर की प्रतीक्षा में» मानक समापन वाक्य है।"
@@ -8757,10 +8757,10 @@
           "type": "multiple-choice",
           "prompt": "कॉरपोरेट ईमेल और संचार (Corporate Email & Communication) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "कृपया संलग्न परियोजना रिपोर्ट का अवलोकन करें और अपने बहुमूल्य सुझाव शुक्रवार तक साझा करने की कृपा करें। (Language concept U20)",
-            "रिपोर्ट को कल किसी ने देखा नहीं था ईमेल में। (Language concept U20)",
-            "परियोजना रिपोर्ट बंद है ताकि कोई न पढ़े। (Language concept U20)",
-            "शुक्रवार को हम सब मिलकर खेलेंगे। (Language concept U20)"
+            "कृपया संलग्न परियोजना रिपोर्ट का अवलोकन करें और अपने बहुमूल्य सुझाव शुक्रवार तक साझा करने की कृपा करें। (Core concept alternative form)",
+            "रिपोर्ट को कल किसी ने देखा नहीं था ईमेल में। (Core concept alternative form)",
+            "परियोजना रिपोर्ट बंद है ताकि कोई न पढ़े। (Core concept alternative form)",
+            "शुक्रवार को हम सब मिलकर खेलेंगे। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«कृपया संलग्न... अवलोकन करें और अपने बहुमूल्य सुझाव... साझा करने की कृपा करें» शिष्ट और मानक कॉरपोरेट भाषा का परिचायक है।"
@@ -8809,9 +8809,9 @@
           "prompt": "व्यावसायिक सहमति पत्र (Memorandum of Understanding) के लिए मानक हिंदी पारिभाषिक पद कौन-सा है?",
           "options": [
             "सहमति पत्र (sahamatai patara)",
-            "दावत का निमंत्रण (Language concept U20)",
-            "धमकी भरा खत (Language concept U20)",
-            "रंग-बिरंगी पत्रिका (Language concept U20)"
+            "दावत का निमंत्रण (Core concept alternative form)",
+            "धमकी भरा खत (Core concept alternative form)",
+            "रंग-बिरंगी पत्रिका (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "व्यावसायिक साझेदारियों में प्राथमिक समझौते को «सहमति पत्र» (MoU) कहा जाता है।"
@@ -8824,9 +8824,9 @@
           "prompt": "बोर्ड बैठक में सर्वसम्मति (Unanimously) से प्रस्ताव पारित होने का सही हिंदी पद भरिए:",
           "options": [
             "सर्वसम्मति से (saravasamamatai sae)",
-            "लड़ाई-झगड़े से (Language concept U20)",
+            "लड़ाई-झगड़े से (Core concept alternative form)",
             "चुपके-चुपके (caupakae-caupakae)",
-            "अचानक कल (Language concept U20)"
+            "अचानक कल (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "सभी सदस्यों की पूर्ण सहमति दर्शाने के लिए «सर्वसम्मति से» मानक औपचारिक पद है।"
@@ -8839,10 +8839,10 @@
           "type": "multiple-choice",
           "prompt": "कॉरपोरेट संवाद एवं प्रशासनिक समेकन (Corporate Synthesis & Discourse) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "निदेशक मंडल ने वार्षिक वित्तीय रिपोर्ट की समीक्षा के उपरांत शेयरधारकों के लाभांश वितरण के प्रस्ताव को सर्वसम्मति से अनुमोदित किया। (Language concept U20)",
-            "निदेशक मंडल कल शाम को क्रिकेट खेल रहा था। (Language concept U20)",
-            "वित्तीय रिपोर्ट को किसी ने जला दिया था। (Language concept U20)",
-            "लाभांश वितरण मत करो ताकि सब रोएं। (Language concept U20)"
+            "निदेशक मंडल ने वार्षिक वित्तीय रिपोर्ट की समीक्षा के उपरांत शेयरधारकों के लाभांश वितरण के प्रस्ताव को सर्वसम्मति से अनुमोदित किया। (Core concept alternative form)",
+            "निदेशक मंडल कल शाम को क्रिकेट खेल रहा था। (Core concept alternative form)",
+            "वित्तीय रिपोर्ट को किसी ने जला दिया था। (Core concept alternative form)",
+            "लाभांश वितरण मत करो ताकि सब रोएं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«निदेशक मंडल ने... लाभांश वितरण के प्रस्ताव को सर्वसम्मति से अनुमोदित किया» परिपक्व और प्रामाणिक कॉरपोरेट हिंदी का सर्वोत्तम उदाहरण है।"
@@ -8890,10 +8890,10 @@
         {
           "prompt": "शारीरिक वेदना (Physical Pain) दर्शाने वाला मानक 'को' परसर्ग युक्त वाक्य कौन-सा है?",
           "options": [
-            "रोगी को सुबह से तीव्र पेट दर्द हो रहा है (Language concept U21)",
-            "रोगी ने पेट दर्द किया (Language concept U21)",
-            "रोगी से पेट दर्द हुआ (Language concept U21)",
-            "रोगी का पेट दर्द गया था (Language concept U21)"
+            "रोगी को सुबह से तीव्र पेट दर्द हो रहा है (Core concept alternative form)",
+            "रोगी ने पेट दर्द किया (Core concept alternative form)",
+            "रोगी से पेट दर्द हुआ (Core concept alternative form)",
+            "रोगी का पेट दर्द गया था (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "रोग या शारीरिक कष्ट की अनुभूति व्यक्त करने के लिए कर्ता के साथ «को» (रोगी को) परसर्ग लगता है।"
@@ -8906,9 +8906,9 @@
           "prompt": "वाक्य «मुझे अचानक ___ आने लगे और आँखों के आगे अंधेरा छा गया» में सही लक्षण भरिए:",
           "options": [
             "चक्कर (cakakara)",
-            "कागज़ (Language concept U21)",
+            "कागज़ (Core concept alternative form)",
             "रुपये (raupayae)",
-            "कपड़े (Language concept U21)"
+            "कपड़े (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अचानक सिर घूमने और संतुलन बिगड़ने के चिकित्सीय लक्षण को «चक्कर» कहा जाता है।"
@@ -8921,10 +8921,10 @@
           "type": "multiple-choice",
           "prompt": "चिकित्सीय रोग निदान एवं शारीरिक लक्षण का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "मरीज़ को सीने में तीव्र जलन और साँस फूलने की निरंतर शिकायत होने पर चिकित्सकों ने तुरंत ईसीजी कराने का परामर्श दिया। (Language concept U21)",
-            "मरीज़ ने सीने में जलन खाया था कल। (Language concept U21)",
-            "ईसीजी हुआ ताकि मरीज़ बाज़ार में जाए। (Language concept U21)",
-            "साँस फूलने पर मरीज़ क्रिकेट खेल रहा था। (Language concept U21)"
+            "मरीज़ को सीने में तीव्र जलन और साँस फूलने की निरंतर शिकायत होने पर चिकित्सकों ने तुरंत ईसीजी कराने का परामर्श दिया। (Core concept alternative form)",
+            "मरीज़ ने सीने में जलन खाया था कल। (Core concept alternative form)",
+            "ईसीजी हुआ ताकि मरीज़ बाज़ार में जाए। (Core concept alternative form)",
+            "साँस फूलने पर मरीज़ क्रिकेट खेल रहा था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मरीज़ को... निरंतर शिकायत होने पर चिकित्सकों ने तुरंत ईसीजी कराने का परामर्श दिया» चिकित्सीय भाषा और व्याकरण का त्रुटिहीन उदाहरण है।"
@@ -9054,10 +9054,10 @@
         {
           "prompt": "दवा के सेवन में 'भोजन के बाद' के लिए मानक तत्सम शब्द कौन-सा है?",
           "options": [
-            "भोजनोपरांत (Language concept U21)",
+            "भोजनोपरांत (Core concept key phrasing)",
             "भोजन से पहले (bhaojana sae pahalae)",
-            "बिना भोजन के (Language concept U21)",
-            "भोजन पकाते समय (Language concept U21)"
+            "बिना भोजन के (Core concept alternative form)",
+            "भोजन पकाते समय (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "दवा पर्चे पर खाने के बाद दवा लेने हेतु मानक शब्द «भोजनोपरांत» लिखा जाता है।"
@@ -9069,10 +9069,10 @@
         {
           "prompt": "चिकित्सीय निर्देश «एंटीबायोटिक का पूरा कोर्स अनिवार्यतः ___ करना चाहिए» में सही क्रिया भरिए:",
           "options": [
-            "पूरा (Core target concept - Unit 21 Target Practice)",
-            "आधा (Language concept U21)",
-            "नष्ट (Core target concept - Unit 21 Target Practice)",
-            "फेंक (Language concept U21)"
+            "पूरा (Core concept key phrasing)",
+            "आधा (Core concept alternative form)",
+            "नष्ट (Core concept alternative form)",
+            "फेंक (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "संक्रमण की पुनरावृत्ति रोकने हेतु दवा का चक्र «पूरा» करना अनिवार्य होता है।"
@@ -9085,10 +9085,10 @@
           "type": "multiple-choice",
           "prompt": "औषधि सेवन निर्देश और सावधानियों (Medical Dosage & Regimen) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "चिकित्सक के निर्देशानुसार सिरप की दो चम्मच मात्रा दिन में तीन बार गुनगुने पानी के साथ नियमित रूप से लेनी चाहिए। (Language concept U21)",
-            "सिरप की बोतल को कल शाम बाज़ार में फेंक देना चाहिए। (Language concept U21)",
-            "दवा मत लो ताकि बुख़ार बहुत बढ़ जाए। (Language concept U21)",
-            "गुनगुने पानी में दवा बहाकर हम सब सो गए। (Language concept U21)"
+            "चिकित्सक के निर्देशानुसार सिरप की दो चम्मच मात्रा दिन में तीन बार गुनगुने पानी के साथ नियमित रूप से लेनी चाहिए। (Core concept alternative form)",
+            "सिरप की बोतल को कल शाम बाज़ार में फेंक देना चाहिए। (Core concept alternative form)",
+            "दवा मत लो ताकि बुख़ार बहुत बढ़ जाए। (Core concept alternative form)",
+            "गुनगुने पानी में दवा बहाकर हम सब सो गए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«चिकित्सक के निर्देशानुसार... दो चम्मच मात्रा दिन में तीन बार गुनगुने पानी के साथ नियमित रूप से लेनी चाहिए» आदर्श चिकित्सकीय भाषा है।"
@@ -9136,10 +9136,10 @@
         {
           "prompt": "अस्पताल में 'Intensive Care Unit (ICU)' के लिए शुद्ध मानक हिंदी पारिभाषिक नाम क्या है?",
           "options": [
-            "सघन चिकित्सा कक्ष (Language concept U21)",
-            "हँसी-मज़ाक कक्ष (Language concept U21)",
-            "भोजन विश्राम कक्ष (Language concept U21)",
-            "खिलौना भंडार कक्ष (Language concept U21)"
+            "सघन चिकित्सा कक्ष (Core concept key phrasing)",
+            "हँसी-मज़ाक कक्ष (Core concept alternative form)",
+            "भोजन विश्राम कक्ष (Core concept alternative form)",
+            "खिलौना भंडार कक्ष (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अति गंभीर रोगियों के लिए विशेष निगरानी वाले कक्ष को «सघन चिकित्सा कक्ष» (ICU) कहा जाता है।"
@@ -9152,9 +9152,9 @@
           "prompt": "ऑपरेशन से पूर्व रोगी के परिजनों से भरवाए जाने वाले विधिक प्रपत्र (Consent Form) को क्या कहते हैं?",
           "options": [
             "सहमति प्रपत्र (sahamatai parapatara)",
-            "रेलवे टिकट (Language concept U21)",
-            "शादी का कार्ड (Core target concept - Unit 21 Target Practice)",
-            "बिजली का बिल (Language concept U21)"
+            "रेलवे टिकट (Core concept alternative form)",
+            "शादी का कार्ड (Core concept alternative form)",
+            "बिजली का बिल (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "शल्यक्रिया या गंभीर उपचार की कानूनी स्वीकृति के दस्तावेज़ को «सहमति प्रपत्र» (Consent Form) कहते हैं।"
@@ -9167,10 +9167,10 @@
           "type": "multiple-choice",
           "prompt": "अस्पताल और शल्य चिकित्सा प्रक्रियाओं का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "शल्यक्रिया के सफल निष्पादनोपरांत निश्चेतना विशेषज्ञ ने मरीज़ के होश में आने की पुष्टि की और उसे वार्ड में स्थानांतरित किया गया। (Language concept U21)",
-            "शल्यक्रिया में सब लोग ताली बजा रहे थे। (Language concept U21)",
-            "निश्चेतना विशेषज्ञ कल मैच खेल रहा था। (Language concept U21)",
-            "मरीज़ होश में आया ताकि अस्पताल बंद हो। (Language concept U21)"
+            "शल्यक्रिया के सफल निष्पादनोपरांत निश्चेतना विशेषज्ञ ने मरीज़ के होश में आने की पुष्टि की और उसे वार्ड में स्थानांतरित किया गया। (Core concept alternative form)",
+            "शल्यक्रिया में सब लोग ताली बजा रहे थे। (Core concept alternative form)",
+            "निश्चेतना विशेषज्ञ कल मैच खेल रहा था। (Core concept alternative form)",
+            "मरीज़ होश में आया ताकि अस्पताल बंद हो। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«शल्यक्रिया के सफल निष्पादनोपरांत निश्चेतना विशेषज्ञ ने... स्थानांतरित किया गया» परिष्कृत अस्पताल शब्दावली का आदर्श वाक्य है।"
@@ -9218,10 +9218,10 @@
         {
           "prompt": "रोग के पूर्व इतिहास (Medical Case History) के लिए मानक हिंदी शब्द कौन-सा है?",
           "options": [
-            "रोग इतिहास / पूर्व चिकित्सीय वृत्त (Language concept U21)",
-            "भूतकाल की कहानी (Language concept U21)",
-            "पुराना उपन्यास (Language concept U21)",
-            "बीता हुआ नाटक (Language concept U21)"
+            "रोग इतिहास / पूर्व चिकित्सीय वृत्त (Core concept alternative form)",
+            "भूतकाल की कहानी (Core concept alternative form)",
+            "पुराना उपन्यास (Core concept alternative form)",
+            "बीता हुआ नाटक (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "रोगी के पूर्व रोगों और पारिवारिक स्वास्थ्य विवरण को «रोग इतिहास» (Case History) कहा जाता है।"
@@ -9233,10 +9233,10 @@
         {
           "prompt": "रोगों से बचाव और स्वास्थ्य संरक्षण हेतु प्रयुक्त शुद्ध पद चुनिए: «हमें ___ स्वास्थ्य पर विशेष ध्यान देना चाहिए»",
           "options": [
-            "निवारक (Language concept U21)",
-            "विनाशकारी (Language concept U21)",
-            "उदास (Language concept U21)",
-            "खतरनाक (Language concept U21)"
+            "निवारक (Core concept key phrasing)",
+            "विनाशकारी (Core concept alternative form)",
+            "उदास (Core concept alternative form)",
+            "खतरनाक (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "रोगों को होने से पहले रोकने की चिकित्सा पद्धति को «निवारक» (Preventive) स्वास्थ्य कहा जाता है।"
@@ -9249,10 +9249,10 @@
           "type": "multiple-choice",
           "prompt": "चिकित्सा और स्वास्थ्य परामर्श (Medical Consultation Synthesis) का समग्र शुद्ध वाक्य चुनिए:",
           "options": [
-            "चिकित्सक ने रोगी के पूर्व स्वास्थ्य इतिहास और प्रयोगशाला रिपोर्टों के आधार पर दीर्घकालिक उपचार योजना का निर्धारण किया। (Language concept U21)",
-            "चिकित्सक कल दोपहर बाज़ार में पतंग उड़ा रहा था। (Language concept U21)",
-            "प्रयोगशाला रिपोर्ट को किसी ने नदी में बहा दिया था। (Language concept U21)",
-            "उपचार योजना बंद कर दो ताकि सब बीमार रहें। (Language concept U21)"
+            "चिकित्सक ने रोगी के पूर्व स्वास्थ्य इतिहास और प्रयोगशाला रिपोर्टों के आधार पर दीर्घकालिक उपचार योजना का निर्धारण किया। (Core concept alternative form)",
+            "चिकित्सक कल दोपहर बाज़ार में पतंग उड़ा रहा था। (Core concept alternative form)",
+            "प्रयोगशाला रिपोर्ट को किसी ने नदी में बहा दिया था। (Core concept alternative form)",
+            "उपचार योजना बंद कर दो ताकि सब बीमार रहें। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«चिकित्सक ने रोगी के पूर्व स्वास्थ्य इतिहास... उपचार योजना का निर्धारण किया» नैदानिक हिंदी का परिपूर्ण वाक्य है।"
@@ -9300,10 +9300,10 @@
         {
           "prompt": "गर्म तेल या घी में जीरा, हींग और राई डालकर स्वाद बढ़ाने की भारतीय पाक विधि को क्या कहते हैं?",
           "options": [
-            "तड़का लगाना / छौंकना (Language concept U22)",
-            "पानी फेंकना (Language concept U22)",
-            "आटा गूँथना (Language concept U22)",
-            "चावल धोना (Language concept U22)"
+            "तड़का लगाना / छौंकना (Core concept alternative form)",
+            "पानी फेंकना (Core concept alternative form)",
+            "आटा गूँथना (Core concept alternative form)",
+            "चावल धोना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "गर्म वसा में खड़े मसालों को चटकाकर भोजन में मिलाने की विधि को «तड़का लगाना» या «छौंकना» कहा जाता है।"
@@ -9316,9 +9316,9 @@
           "prompt": "धीमी आँच पर बर्तन को सील करके पकाने की शाही विधि को क्या कहते हैं: «बिरयानी को ___ पर पकाया गया»?",
           "options": [
             "दम (dama)",
-            "धूप (Language concept U22)",
-            "बर्फ़ (Language concept U22)",
-            "पानी (Language concept U22)"
+            "धूप (Core concept alternative form)",
+            "बर्फ़ (Core concept alternative form)",
+            "पानी (pānī - water प p + ा aa + न n + ी ee)"
           ],
           "answerIndex": 0,
           "explanation": "हांडी को बंद करके मंद आँच पर भाप में पकाने की मुग़लई विधि को «दम देना» कहा जाता है।"
@@ -9331,10 +9331,10 @@
           "type": "multiple-choice",
           "prompt": "भारतीय पाककला और तड़का विधि का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "पनीर की तरीदार सब्जी में कस्तूरी मेथी और गरम मसाला डालकर धीमी आँच पर दो मिनट पकाने से अत्यंत मनभावन सुगंध आती है। (Language concept U22)",
-            "पनीर की सब्जी में कल किसी ने पत्थर डाला था। (Language concept U22)",
-            "कस्तूरी मेथी को फेंक दिया ताकि सब्जी कड़वी हो। (Language concept U22)",
-            "धीमी आँच पर सब लोग बाज़ार में सो रहे थे। (Language concept U22)"
+            "पनीर की तरीदार सब्जी में कस्तूरी मेथी और गरम मसाला डालकर धीमी आँच पर दो मिनट पकाने से अत्यंत मनभावन सुगंध आती है। (Core concept alternative form)",
+            "पनीर की सब्जी में कल किसी ने पत्थर डाला था। (Core concept alternative form)",
+            "कस्तूरी मेथी को फेंक दिया ताकि सब्जी कड़वी हो। (Core concept alternative form)",
+            "धीमी आँच पर सब लोग बाज़ार में सो रहे थे। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«पनीर की तरीदार सब्जी में... अत्यंत मनभावन सुगंध आती है» पाककला की सटीक शब्दावली और व्याकरण का सर्वोत्तम उदाहरण है।"
@@ -9382,10 +9382,10 @@
         {
           "prompt": "दाल-बाटी-चूरमा किस भारतीय राज्य का विश्वप्रसिद्ध पारंपरिक व्यंजन है?",
           "options": [
-            "राजस्थान (Language concept U22)",
+            "राजस्थान (Core concept key phrasing)",
             "केरल (kaerala)",
             "असम (asama)",
-            "कश्मीर (Language concept U22)"
+            "कश्मीर (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "दाल-बाटी-चूरमा राजस्थान की पारंपरिक थाली का मुख्य और प्रतिष्ठित व्यंजन है।"
@@ -9397,10 +9397,10 @@
         {
           "prompt": "दक्षिण भारतीय व्यंजन 'सांभर' में मुख्य रूप से कौन-सा खट्टा तत्व डाला जाता है?",
           "options": [
-            "इमली (Language concept U22)",
-            "शहद (Language concept U22)",
-            "केला (Language concept U22)",
-            "दूध (Language concept U22)"
+            "इमली (Core concept key phrasing)",
+            "शहद (Core concept alternative form)",
+            "केला (Core concept alternative form)",
+            "दूध (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "सांभर और रसम का विशेष खट्टापन इमली के रस से आता है।"
@@ -9413,10 +9413,10 @@
           "type": "multiple-choice",
           "prompt": "क्षेत्रीय भारतीय खानपान और थाली संस्कृति का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "पारंपरिक गुजराती थाली में खट्टे-मीठे ढोकले और कढ़ी के साथ गरमा-गरम पूरियाँ और श्रीखंड बड़े प्रेम से परोसा जाता है। (Language concept U22)",
-            "गुजराती थाली कल रात को सड़क पर गिर गई थी। (Language concept U22)",
-            "ढोकला किसी ने नहीं खाया क्योंकि सब सो रहे थे। (Language concept U22)",
-            "श्रीखंड फेंक दो ताकि कोई भोजन न करे। (Language concept U22)"
+            "पारंपरिक गुजराती थाली में खट्टे-मीठे ढोकले और कढ़ी के साथ गरमा-गरम पूरियाँ और श्रीखंड बड़े प्रेम से परोसा जाता है। (Core concept alternative form)",
+            "गुजराती थाली कल रात को सड़क पर गिर गई थी। (Core concept alternative form)",
+            "ढोकला किसी ने नहीं खाया क्योंकि सब सो रहे थे। (Core concept alternative form)",
+            "श्रीखंड फेंक दो ताकि कोई भोजन न करे। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«पारंपरिक गुजराती थाली में... श्रीखंड बड़े प्रेम से परोसा जाता है» क्षेत्रीय खानपान का प्रामाणिक और सुंदर वाक्य है।"
@@ -9464,10 +9464,10 @@
         {
           "prompt": "कचोरी या समोसे की कुरकुरी और परतदार बनावट के लिए मानक हिंदी शब्द कौन-सा है?",
           "options": [
-            "खस्ता (Language concept U22)",
-            "गीला (Core target concept - Unit 22 Target Practice)",
-            "कच्चा (Language concept U22)",
-            "जला हुआ (Language concept U22)"
+            "खस्ता (Core concept key phrasing)",
+            "गीला (Core concept alternative form)",
+            "कच्चा (Core concept alternative form)",
+            "जला हुआ (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "समोसे, कचोरी या मठरी की भुरभुरी व कुरकुरी बनावट को «खस्ता» कहा जाता है।"
@@ -9479,10 +9479,10 @@
         {
           "prompt": "रस से भरे हुए रसगुल्ले या जलेबी की बनावट दर्शाने हेतु सही शब्द चुनिए: «यह मिठाई बेहद ___ है»",
           "options": [
-            "रसीली (Language concept U22)",
-            "सूखी (Language concept U22)",
-            "कड़वी (Core target concept - Unit 22 Target Practice)",
-            "रेतीली (Language concept U22)"
+            "रसीली (Core concept key phrasing)",
+            "सूखी (Core concept alternative form)",
+            "कड़वी (Core concept alternative form)",
+            "रेतीली (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "चाशनी से भरी हुई मिठास को «रसीली» कहा जाता है।"
@@ -9495,10 +9495,10 @@
           "type": "multiple-choice",
           "prompt": "स्वाद और संवेदी बनावट (Flavor & Texture) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "मसाला डोसा बाहर से एकदम कुरकुरा है और इसके भीतर भरा आलू का मिश्रण बहुत ही स्वादिष्ट व सुगंधित है। (Language concept U22)",
-            "मसाला डोसा कल रात रो रहा था। (Language concept U22)",
-            "कुरकुरा होने के कारण डोसा भाग गया था। (Language concept U22)",
-            "आलू का मिश्रण फेंक दो ताकि कोई न खाए। (Language concept U22)"
+            "मसाला डोसा बाहर से एकदम कुरकुरा है और इसके भीतर भरा आलू का मिश्रण बहुत ही स्वादिष्ट व सुगंधित है। (Core concept alternative form)",
+            "मसाला डोसा कल रात रो रहा था। (Core concept alternative form)",
+            "कुरकुरा होने के कारण डोसा भाग गया था। (Core concept alternative form)",
+            "आलू का मिश्रण फेंक दो ताकि कोई न खाए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«मसाला डोसा बाहर से एकदम कुरकुरा है और... स्वादिष्ट व सुगंधित है» संवेदी पाक शब्दावली का मानक वाक्य है।"
@@ -9628,10 +9628,10 @@
         {
           "prompt": "आयुर्वेद के अनुसार भोजन में कितने मूल रसों ( षड्रस - Six Tastes) का संतुलन होना चाहिए?",
           "options": [
-            "छह रस - षड्रस (Language concept U22)",
+            "छह रस - षड्रस (Core concept alternative form)",
             "केवल दो रस (kaevala dao rasa)",
             "सौ रस (saau rasa)",
-            "शून्य रस (Language concept U22)"
+            "शून्य रस (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "आयुर्वेद में मधुर, अम्ल, लवण, कटु, तिक्त और कषाय इन 6 रसों का संतुलन अनिवार्य माना गया है।"
@@ -9643,10 +9643,10 @@
         {
           "prompt": "भारतीय भोजन में सामूहिक दावत या भोज को क्या कहते हैं: «गाँव में आज भव्य ___ का आयोजन है»?",
           "options": [
-            "प्रीतिभोज / दावत (Language concept U22)",
-            "अकेलापन (Language concept U22)",
-            "उपवास (Language concept U22)",
-            "क्रोध सभा (Language concept U22)"
+            "प्रीतिभोज / दावत (Core concept alternative form)",
+            "अकेलापन (Core concept alternative form)",
+            "उपवास (Core concept alternative form)",
+            "क्रोध सभा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "सामूहिक सामाजिक भोज या दावत को हिंदी में «प्रीतिभोज» कहा जाता है।"
@@ -9659,10 +9659,10 @@
           "type": "multiple-choice",
           "prompt": "भारतीय खानपान संस्कृति व पाककला दर्शन का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "भारतीय भोजन में मसालों के औषधीय गुणों और ऋतु-अनुकूल आहार का समन्वय स्वास्थ्य और दीर्घायु का मूल आधार है। (Language concept U22)",
-            "मसालों को आग में जला दो ताकि सब बीमार हों। (Language concept U22)",
-            "ऋतु-अनुकूल आहार कल शाम को बाज़ार में बिक रहा था। (Language concept U22)",
-            "स्वास्थ्य और दीर्घायु भोजन न करने से मिलती है। (Language concept U22)"
+            "भारतीय भोजन में मसालों के औषधीय गुणों और ऋतु-अनुकूल आहार का समन्वय स्वास्थ्य और दीर्घायु का मूल आधार है। (Core concept alternative form)",
+            "मसालों को आग में जला दो ताकि सब बीमार हों। (Core concept alternative form)",
+            "ऋतु-अनुकूल आहार कल शाम को बाज़ार में बिक रहा था। (Core concept alternative form)",
+            "स्वास्थ्य और दीर्घायु भोजन न करने से मिलती है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«भारतीय भोजन में मसालों के औषधीय गुणों... स्वास्थ्य और दीर्घायु का मूल आधार है» भारतीय खानपान दर्शन का आदर्श वाक्य है।"
@@ -9792,10 +9792,10 @@
         {
           "prompt": "शास्त्रीय गायन में राग के स्वरों को बिना ताल के मंद्र व गंभीर गति से विस्तार करने की विधि को क्या कहते हैं?",
           "options": [
-            "आलाप (Core target concept - Unit 23 Target Practice)",
-            "शोर मचाना (Language concept U23)",
-            "भाषण देना (Language concept U23)",
-            "सीटी बजाना (Language concept U23)"
+            "आलाप (Core concept key phrasing)",
+            "शोर मचाना (Core concept alternative form)",
+            "भाषण देना (Core concept alternative form)",
+            "सीटी बजाना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "राग के स्वरूप और भाव को स्थापित करने वाले प्रारंभिक धीमे गायन विस्तार को «आलाप» कहा जाता है।"
@@ -9807,10 +9807,10 @@
         {
           "prompt": "शास्त्रीय संगीत की विशिष्ट परंपरा और शिक्षण शैली की गुरु-शिष्य वंश-परंपरा को क्या कहते हैं?",
           "options": [
-            "घराना (Language concept U23)",
-            "दुकान (Language concept U23)",
-            "होटल (Language concept U23)",
-            "स्टेशन (Language concept U23)"
+            "घराना (Core concept key phrasing)",
+            "दुकान (Core concept alternative form)",
+            "होटल (Core concept alternative form)",
+            "स्टेशन (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "भारतीय संगीत में विशिष्ट गायकी या वादन परंपरा वाले परिवार/शैली को «घराना» (जैसे किराना घराना) कहा जाता है।"
@@ -9823,10 +9823,10 @@
           "type": "multiple-choice",
           "prompt": "भारतीय शास्त्रीय संगीत और राग प्रणाली का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "सितार वादक ने राग दरबारी में विलंबित लय से प्रारंभ कर द्रुत झाला बजाकर संपूर्ण वातावरण को संगीतमय बना दिया। (Language concept U23)",
-            "सितार को कल रात को तोड़ दिया था। (Language concept U23)",
-            "राग दरबारी में सब लोग सो रहे थे ताकि गाना बंद हो। (Language concept U23)",
-            "तबला वादक ने ढोलक बजाकर फुटबॉल मैच जीता। (Language concept U23)"
+            "सितार वादक ने राग दरबारी में विलंबित लय से प्रारंभ कर द्रुत झाला बजाकर संपूर्ण वातावरण को संगीतमय बना दिया। (Core concept alternative form)",
+            "सितार को कल रात को तोड़ दिया था। (Core concept alternative form)",
+            "राग दरबारी में सब लोग सो रहे थे ताकि गाना बंद हो। (Core concept alternative form)",
+            "तबला वादक ने ढोलक बजाकर फुटबॉल मैच जीता। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«सितार वादक ने राग दरबारी में विलंबित लय... संगीतमय बना दिया» शास्त्रीय संगीत की प्रामाणिक शब्दावली का आदर्श वाक्य है।"
@@ -9874,10 +9874,10 @@
         {
           "prompt": "कथक नृत्य में पैरों की तालबद्ध गति और थिरकन (Footwork) को क्या कहते हैं?",
           "options": [
-            "तत्कार / पदचाप (Language concept U23)",
-            "दौड़ना (Language concept U23)",
-            "कूदना (Language concept U23)",
-            "फिसलना (Language concept U23)"
+            "तत्कार / पदचाप (Core concept alternative form)",
+            "दौड़ना (Core concept alternative form)",
+            "कूदना (Core concept alternative form)",
+            "फिसलना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "कथक में घुँघरुओं के साथ पैरों द्वारा लयबद्ध आघात करने को «तत्कार» या «पदचाप» कहा जाता है।"
@@ -9889,10 +9889,10 @@
         {
           "prompt": "उत्तर भारत के प्रसिद्ध पारंपरिक लोक-नाट्य (Folk Theatre) का क्या नाम है?",
           "options": [
-            "नौटंकी (Language concept U23)",
-            "सिनेमाघर (Language concept U23)",
-            "पुस्तकालय (Language concept U23)",
-            "चिड़ियाघर (Language concept U23)"
+            "नौटंकी (Core concept key phrasing)",
+            "सिनेमाघर (Core concept alternative form)",
+            "पुस्तकालय (Core concept alternative form)",
+            "चिड़ियाघर (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "उत्तर प्रदेश और उत्तर भारत के पारंपरिक खुले रंगमंच लोकनाट्य को «नौटंकी» कहा जाता है।"
@@ -9905,10 +9905,10 @@
           "type": "multiple-choice",
           "prompt": "शास्त्रीय नृत्य और नाट्य मंचन का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "नृत्यांगना के भावपूर्ण नेत्रों और सूक्ष्म हस्तमुद्राओं ने शांत रस की अलौकिक अनुभूति करा दी। (Language concept U23)",
-            "नृत्यांगना कल सुबह सड़क पर कार चला रही थी। (Language concept U23)",
-            "हस्तमुद्रा बंद कर दो ताकि कोई न देखे। (Language concept U23)",
-            "शांत रस के कारण सब लोग बाज़ार भाग गए। (Language concept U23)"
+            "नृत्यांगना के भावपूर्ण नेत्रों और सूक्ष्म हस्तमुद्राओं ने शांत रस की अलौकिक अनुभूति करा दी। (Core concept alternative form)",
+            "नृत्यांगना कल सुबह सड़क पर कार चला रही थी। (Core concept alternative form)",
+            "हस्तमुद्रा बंद कर दो ताकि कोई न देखे। (Core concept alternative form)",
+            "शांत रस के कारण सब लोग बाज़ार भाग गए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«नृत्यांगना के भावपूर्ण नेत्रों और सूक्ष्म हस्तमुद्राओं ने... अलौकिक अनुभूति करा दी» शास्त्रीय नृत्य समीक्षा का परिपूर्ण वाक्य है।"
@@ -9956,10 +9956,10 @@
         {
           "prompt": "प्राकृतिक रंगों और बाँस की तीलियों से बनाई जाने वाली बिहार की विश्वविख्यात लोक चित्रकला कौन-सी है?",
           "options": [
-            "मधुबनी / मिथिला चित्रकला (Language concept U23)",
-            "डिजिटल ग्राफ़िक्स (Language concept U23)",
-            "ऑयल स्प्रे पेंटिंग (Language concept U23)",
-            "चाक ड्राइंग (Language concept U23)"
+            "मधुबनी / मिथिला चित्रकला (Core concept alternative form)",
+            "डिजिटल ग्राफ़िक्स (Core concept alternative form)",
+            "ऑयल स्प्रे पेंटिंग (Core concept alternative form)",
+            "चाक ड्राइंग (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "बिहार के मिथिलांचल की पारंपरिक लोक चित्रकला को «मधुबनी चित्रकला» कहा जाता है।"
@@ -9971,10 +9971,10 @@
         {
           "prompt": "सोने के वर्क और उभरी हुई कारीगरी वाली तमिलनाडु की पारंपरिक चित्रकला को क्या कहते हैं?",
           "options": [
-            "तंजौर चित्रकला (Language concept U23)",
-            "कार्टून कला (Language concept U23)",
-            "फ़ोटोकॉपी (Language concept U23)",
-            "सिनेमा पोस्टर (Language concept U23)"
+            "तंजौर चित्रकला (Core concept key phrasing)",
+            "कार्टून कला (Core concept alternative form)",
+            "फ़ोटोकॉपी (Core concept alternative form)",
+            "सिनेमा पोस्टर (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "तंजौर (तंजावुर) की स्वर्ण-पत्र जड़ी चित्रकला को «तंजौर चित्रकला» कहा जाता है।"
@@ -9987,10 +9987,10 @@
           "type": "multiple-choice",
           "prompt": "दृश्य कला, चित्रकला और शिल्प का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "प्रस्तर मूर्तियों पर बारीक नक्काशी और शास्त्रीय अनुपात का यह बेजोड़ संगम प्राचीन भारतीय मूर्तिकला की पराकाष्ठा है। (Language concept U23)",
-            "मूर्तियों को कल सुबह नदी में फेंक देना चाहिए। (Language concept U23)",
-            "नक्काशी मत करो ताकि पत्थर टूट जाए। (Language concept U23)",
-            "प्राचीन काल में कोई चित्र नहीं बनाता था। (Language concept U23)"
+            "प्रस्तर मूर्तियों पर बारीक नक्काशी और शास्त्रीय अनुपात का यह बेजोड़ संगम प्राचीन भारतीय मूर्तिकला की पराकाष्ठा है। (Core concept alternative form)",
+            "मूर्तियों को कल सुबह नदी में फेंक देना चाहिए। (Core concept alternative form)",
+            "नक्काशी मत करो ताकि पत्थर टूट जाए। (Core concept alternative form)",
+            "प्राचीन काल में कोई चित्र नहीं बनाता था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रस्तर मूर्तियों पर बारीक नक्काशी... मूर्तिकला की पराकाष्ठा है» दृश्य कला समीक्षा का परिपक्व वाक्य है।"
@@ -10038,10 +10038,10 @@
         {
           "prompt": "भारतीय सौंदर्यशास्त्र में 'नाट्यशास्त्र' और 'रस सिद्धांत' के प्रणेता आचार्य कौन हैं?",
           "options": [
-            "आचार्य भरतमुनि (Language concept U23)",
-            "पाणिनी (Language concept U23)",
-            "चाणक्य (Language concept U23)",
-            "आर्यभट्ट (Language concept U23)"
+            "आचार्य भरतमुनि (Core concept alternative form)",
+            "पाणिनी (Core concept alternative form)",
+            "चाणक्य (Core concept alternative form)",
+            "आर्यभट्ट (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "नाट्यशास्त्र और रस सूत्र के मूल रचयिता आचार्य «भरतमुनि» हैं।"
@@ -10053,9 +10053,9 @@
         {
           "prompt": "कला के अनुभव में जब व्यक्तिगत संकीर्णता समाप्त होकर सार्वभौमिक आनंद मिलता है, तो उस प्रक्रिया को क्या कहते हैं?",
           "options": [
-            "साधारणीकरण (Language concept U23)",
-            "निजीकरण (Language concept U23)",
-            "लड़ाई-झगड़ा (Language concept U23)",
+            "साधारणीकरण (Core concept key phrasing)",
+            "निजीकरण (Core concept alternative form)",
+            "लड़ाई-झगड़ा (Core concept alternative form)",
             "क्रोध (karaodha)"
           ],
           "answerIndex": 0,
@@ -10069,10 +10069,10 @@
           "type": "multiple-choice",
           "prompt": "कला, संगीत व सौंदर्यशास्त्र (Aesthetics & Art Criticism) का समग्र मानक वाक्य पहचानिए:",
           "options": [
-            "नाट्य प्रस्तुति में नवरसों का सजीव प्रकटीकरण दर्शकों को साधारणीकरण के माध्यम से परम रसानुभूति प्रदान करता है। (Language concept U23)",
-            "नाट्य प्रस्तुति के समय सब लोग चाय पीने चले गए थे। (Language concept U23)",
-            "नवरस को पानी में घोलकर पी लेना चाहिए। (Language concept U23)",
-            "रसानुभूति मत करो ताकि कोई खुश न हो। (Language concept U23)"
+            "नाट्य प्रस्तुति में नवरसों का सजीव प्रकटीकरण दर्शकों को साधारणीकरण के माध्यम से परम रसानुभूति प्रदान करता है। (Core concept alternative form)",
+            "नाट्य प्रस्तुति के समय सब लोग चाय पीने चले गए थे। (Core concept alternative form)",
+            "नवरस को पानी में घोलकर पी लेना चाहिए। (Core concept alternative form)",
+            "रसानुभूति मत करो ताकि कोई खुश न हो। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«नाट्य प्रस्तुति में नवरसों का सजीव प्रकटीकरण... परम रसानुभूति प्रदान करता है» भारतीय सौंदर्यशास्त्र का परिष्कृत और प्रामाणिक वाक्य है।"
@@ -10120,10 +10120,10 @@
         {
           "prompt": "एक निश्चित समय अवधि के लिए बैंक में जमा की जाने वाली राशि (Fixed Deposit) को हिंदी में क्या कहते हैं?",
           "options": [
-            "सावधि जमा खाता (Language concept U24)",
-            "हवाई टिकट (Language concept U24)",
-            "दुकान का बिल (Language concept U24)",
-            "सिनेमा पास (Language concept U24)"
+            "सावधि जमा खाता (Core concept key phrasing)",
+            "हवाई टिकट (Core concept alternative form)",
+            "दुकान का बिल (Core concept alternative form)",
+            "सिनेमा पास (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "एक तय अवधि के लिए ब्याज अर्जित करने वाले खाते को «सावधि जमा खाता» (FD) कहा जाता है।"
@@ -10135,9 +10135,9 @@
         {
           "prompt": "बैंक से लिए गए ऋण के मासिक भुगतान (Monthly Installment) के लिए मानक शब्द चुनिए:",
           "options": [
-            "मासिक किश्त / ईएमआई (Language concept U24)",
-            "दान दक्षिणा (Language concept U24)",
-            "उपहार राशि (Language concept U24)",
+            "मासिक किश्त / ईएमआई (Core concept alternative form)",
+            "दान दक्षिणा (Core concept alternative form)",
+            "उपहार राशि (Core concept alternative form)",
             "जेब खर्च (jaeba kharaca)"
           ],
           "answerIndex": 0,
@@ -10151,10 +10151,10 @@
           "type": "multiple-choice",
           "prompt": "बैंकिंग, खाता प्रबंधन और ऋण (Banking & Loans) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "खाताधारक ने अपने बचत खाते में धनराशि जमा कर सावधि जमा पर मिलने वाले वार्षिक ब्याज की जानकारी प्राप्त की। (Language concept U24)",
-            "खाताधारक कल शाम को बाज़ार में फल बेच रहा था। (Language concept U24)",
-            "बचत खाता बंद कर दो ताकि बैंक गिर जाए। (Language concept U24)",
-            "वार्षिक ब्याज मिलने पर हम सब रोएंगे। (Language concept U24)"
+            "खाताधारक ने अपने बचत खाते में धनराशि जमा कर सावधि जमा पर मिलने वाले वार्षिक ब्याज की जानकारी प्राप्त की। (Core concept alternative form)",
+            "खाताधारक कल शाम को बाज़ार में फल बेच रहा था। (Core concept alternative form)",
+            "बचत खाता बंद कर दो ताकि बैंक गिर जाए। (Core concept alternative form)",
+            "वार्षिक ब्याज मिलने पर हम सब रोएंगे। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«खाताधारक ने अपने बचत खाते में... वार्षिक ब्याज की जानकारी प्राप्त की» बैंकिंग शब्दावली का त्रुटिहीन वाक्य है।"
@@ -10366,10 +10366,10 @@
         {
           "prompt": "आयकर विभाग में अपनी वार्षिक आय का ब्यौरा देने वाले विधिक दस्तावेज़ (Income Tax Return) को क्या कहते हैं?",
           "options": [
-            "आयकर विवरणी / आईटीआर (Language concept U24)",
-            "रेलवे आरक्षण प्रपत्र (Language concept U24)",
-            "पासपोर्ट आवेदन (Language concept U24)",
-            "राशन कार्ड (Language concept U24)"
+            "आयकर विवरणी / आईटीआर (Core concept alternative form)",
+            "रेलवे आरक्षण प्रपत्र (Core concept alternative form)",
+            "पासपोर्ट आवेदन (Core concept alternative form)",
+            "राशन कार्ड (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "वार्षिक आय का ब्यौरा सरकार को दाखिल करने के प्रपत्र को «आयकर विवरणी» (ITR) कहा जाता है।"
@@ -10381,10 +10381,10 @@
         {
           "prompt": "वस्तुओं और सेवाओं पर लगने वाले एकीकृत अप्रत्यक्ष कर (GST) का पूर्ण हिंदी नाम क्या है?",
           "options": [
-            "वस्तु एवं सेवा कर (Language concept U24)",
-            "सड़क निर्माण कर (Language concept U24)",
-            "जल संरक्षण कर (Language concept U24)",
-            "मनोरंजन कर (Language concept U24)"
+            "वस्तु एवं सेवा कर (Core concept key phrasing)",
+            "सड़क निर्माण कर (Core concept alternative form)",
+            "जल संरक्षण कर (Core concept alternative form)",
+            "मनोरंजन कर (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "GST का आधिकारिक मानक हिंदी नाम «वस्तु एवं सेवा कर» है।"
@@ -10397,10 +10397,10 @@
           "type": "multiple-choice",
           "prompt": "कराधान और वित्तीय अनुपालन (Taxation & Compliance) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "समय पर आयकर विवरणी दाखिल करने और करों का विधिवत भुगतान करने से देश के आर्थिक विकास और अवसंरचना निर्माण को मजबूती मिलती है। (Language concept U24)",
-            "आयकर कभी मत दो ताकि देश रुक जाए। (Language concept U24)",
-            "कर विवरणी को फाड़कर फेंक देना चाहिए। (Language concept U24)",
-            "वित्तीय वर्ष के अंत में सब लोग सो रहे थे। (Language concept U24)"
+            "समय पर आयकर विवरणी दाखिल करने और करों का विधिवत भुगतान करने से देश के आर्थिक विकास और अवसंरचना निर्माण को मजबूती मिलती है। (Core concept alternative form)",
+            "आयकर कभी मत दो ताकि देश रुक जाए। (Core concept alternative form)",
+            "कर विवरणी को फाड़कर फेंक देना चाहिए। (Core concept alternative form)",
+            "वित्तीय वर्ष के अंत में सब लोग सो रहे थे। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«समय पर आयकर विवरणी दाखिल करने... अवसंरचना निर्माण को मजबूती मिलती है» कराधान विषयक नागरिक दायित्व का श्रेष्ठ वाक्य है।"
@@ -10612,10 +10612,10 @@
         {
           "prompt": "मानसून के समय बोई जाने वाली फसलें (जैसे धान, मक्का) किस कृषि ऋतु के अंतर्गत आती हैं?",
           "options": [
-            "ख़रीफ़ की फसलें (Language concept U25)",
-            "रबी की फसलें (Language concept U25)",
-            "जायद की फसलें (Language concept U25)",
-            "शीतगृह फसलें (Language concept U25)"
+            "ख़रीफ़ की फसलें (Core concept key phrasing)",
+            "रबी की फसलें (Core concept alternative form)",
+            "जायद की फसलें (Core concept alternative form)",
+            "शीतगृह फसलें (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "मानसून के आरंभ में बोई जाने वाली मानसूनी फसलों को «ख़रीफ़ की फसलें» कहा जाता है।"
@@ -10627,10 +10627,10 @@
         {
           "prompt": "मिट्टी की उर्वरता बनाए रखने के लिए केंचुओं द्वारा तैयार की गई जैविक खाद (Vermicompost) को क्या कहते हैं?",
           "options": [
-            "वर्मीकम्पोस्ट / केंचुआ खाद (Language concept U25)",
-            "प्लास्टिक चूर्ण (Language concept U25)",
-            "सीमेंट लेप (Language concept U25)",
-            "कीटनाशक ज़हर (Language concept U25)"
+            "वर्मीकम्पोस्ट / केंचुआ खाद (Core concept alternative form)",
+            "प्लास्टिक चूर्ण (Core concept alternative form)",
+            "सीमेंट लेप (Core concept alternative form)",
+            "कीटनाशक ज़हर (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "केंचुओं के माध्यम से कार्बनिक कचरे से बनाई गई उत्तम जैविक खाद को «केंचुआ खाद» या «वर्मीकम्पोस्ट» कहते हैं।"
@@ -10643,10 +10643,10 @@
           "type": "multiple-choice",
           "prompt": "भारतीय कृषि और जैविक खेती (Indian Agriculture & Organic Farming) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "फसल चक्र का वैज्ञानिक अनुपालन और प्राकृतिक जैविक खाद का प्रयोग भूमि की उर्वरा शक्ति और किसानों की आर्थिक समृद्धि का मूल मंत्र है। (Language concept U25)",
-            "किसान खेतों में पेट्रोल डालकर फसल जला रहे हैं। (Language concept U25)",
-            "फसल चक्र बंद कर दो ताकि खेत बंजर हो जाएं। (Language concept U25)",
-            "गेहूँ की बुआई केवल समुद्र के पानी में होती है। (Language concept U25)"
+            "फसल चक्र का वैज्ञानिक अनुपालन और प्राकृतिक जैविक खाद का प्रयोग भूमि की उर्वरा शक्ति और किसानों की आर्थिक समृद्धि का मूल मंत्र है। (Core concept alternative form)",
+            "किसान खेतों में पेट्रोल डालकर फसल जला रहे हैं। (Core concept alternative form)",
+            "फसल चक्र बंद कर दो ताकि खेत बंजर हो जाएं। (Core concept alternative form)",
+            "गेहूँ की बुआई केवल समुद्र के पानी में होती है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«फसल चक्र का वैज्ञानिक अनुपालन और प्राकृतिक जैविक खाद का प्रयोग... मूल मंत्र है» कृषि विज्ञान का परिपूर्ण वाक्य है।"
@@ -10694,10 +10694,10 @@
         {
           "prompt": "वर्षा के पानी को टंकियों, तालाबों या भूमिगत ढांचों में सुरक्षित एकत्र करने की विधि को क्या कहते हैं?",
           "options": [
-            "वर्षा जल संचयन (Language concept U25)",
-            "जल का अपव्यय (Language concept U25)",
-            "बाढ़ का प्रकोप (Language concept U25)",
-            "सूखा पड़ना (Language concept U25)"
+            "वर्षा जल संचयन (Core concept key phrasing)",
+            "जल का अपव्यय (Core concept alternative form)",
+            "बाढ़ का प्रकोप (Core concept alternative form)",
+            "सूखा पड़ना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "वर्षा के जल को एकत्र कर उपयोग हेतु सुरक्षित रखने को «वर्षा जल संचयन» (Rainwater Harvesting) कहते हैं।"
@@ -10709,10 +10709,10 @@
         {
           "prompt": "राजस्थान व गुजरात की ऐतिहासिक सीढ़ीदार जल संरचना (Stepwell) को क्या कहा जाता है?",
           "options": [
-            "बावड़ी / झालरा (Language concept U25)",
-            "पानी का नल (Language concept U25)",
-            "प्लास्टिक की बाल्टी (Language concept U25)",
-            "फव्वारा (Language concept U25)"
+            "बावड़ी / झालरा (Core concept alternative form)",
+            "पानी का नल (Core concept alternative form)",
+            "प्लास्टिक की बाल्टी (Core concept alternative form)",
+            "फव्वारा (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "सीढ़ियों द्वारा जल स्तर तक पहुँचने वाले पारंपरिक कुओं को «बावड़ी» (Stepwell) कहा जाता है।"
@@ -10725,10 +10725,10 @@
           "type": "multiple-choice",
           "prompt": "मानसून जलवायु और जल संरक्षण (Monsoon & Water Harvesting) का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "वर्षा जल संचयन और आधुनिक सूक्ष्म सिंचाई प्रणालियों का व्यापक प्रसार गिरते भूजल संकट का स्थायी और प्रभावी समाधान प्रस्तुत करता है। (Language concept U25)",
-            "भूजल को पूरा खाली कर दो ताकि कोई पानी न पी सके। (Language concept U25)",
-            "वर्षा जल संचयन करने से बादल नाराज़ हो जाते हैं। (Language concept U25)",
-            "मानसून के समय सभी नदियाँ सूख जाती हैं। (Language concept U25)"
+            "वर्षा जल संचयन और आधुनिक सूक्ष्म सिंचाई प्रणालियों का व्यापक प्रसार गिरते भूजल संकट का स्थायी और प्रभावी समाधान प्रस्तुत करता है। (Core concept alternative form)",
+            "भूजल को पूरा खाली कर दो ताकि कोई पानी न पी सके। (Core concept alternative form)",
+            "वर्षा जल संचयन करने से बादल नाराज़ हो जाते हैं। (Core concept alternative form)",
+            "मानसून के समय सभी नदियाँ सूख जाती हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«वर्षा जल संचयन और आधुनिक सूक्ष्म सिंचाई प्रणालियों का व्यापक प्रसार... स्थायी और प्रभावी समाधान प्रस्तुत करता है» जल विज्ञान का मानक वाक्य है।"
@@ -11104,10 +11104,10 @@
         {
           "prompt": "अवैध रूप से कैद किए गए व्यक्ति को न्यायालय के सामने तुरंत प्रस्तुत कराने वाली संवैधानिक रिट कौन-सी है?",
           "options": [
-            "बंदी प्रत्यक्षीकरण (32 (U26))",
-            "चालान रसीद (32 (U26))",
-            "भूमि पट्टा (32 (U26))",
-            "परीक्षा प्रवेश पत्र (32 (U26))"
+            "बंदी प्रत्यक्षीकरण (32 key phrasing)",
+            "चालान रसीद (32 alternative form)",
+            "भूमि पट्टा (32 alternative form)",
+            "परीक्षा प्रवेश पत्र (32 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अवैध रूप से बंदी व्यक्ति को सदेह अदालत में प्रस्तुत कराने की रिट को «बंदी प्रत्यक्षीकरण» (Habeas Corpus) कहते हैं।"
@@ -11119,10 +11119,10 @@
         {
           "prompt": "सार्वजनिक हित और मानवाधिकारों की रक्षा हेतु अदालत में दायर की जाने वाली याचिका (PIL) को क्या कहते हैं?",
           "options": [
-            "जनहित याचिका (32 (U26))",
-            "निजी दीवानी मुकदमा (32 (U26))",
-            "व्यापारिक बिल (32 (U26))",
-            "पारिवारिक वसीयत (32 (U26))"
+            "जनहित याचिका (32 key phrasing)",
+            "निजी दीवानी मुकदमा (32 alternative form)",
+            "व्यापारिक बिल (32 alternative form)",
+            "पारिवारिक वसीयत (32 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "व्यापक जनहित के मुद्दों पर अदालत का ध्यान आकर्षित करने वाली याचिका को «जनहित याचिका» (PIL) कहा जाता है।"
@@ -11135,10 +11135,10 @@
           "type": "multiple-choice",
           "prompt": "संवैधानिक उपचार और जनहित याचिका (Constitutional Remedies & Writs) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "संवैधानिक उपचारों का अधिकार और जनहित याचिकाएं भारतीय न्यायिक व्यवस्था में आम नागरिकों के अधिकारों की रक्षा का सबसे प्रभावी माध्यम हैं। (32 (U26))",
-            "जनहित याचिका दायर करने वाले को जेल में डाल देना चाहिए। (32 (U26))",
-            "बंदी प्रत्यक्षीकरण का अर्थ है सबको बंदी बना लो। (32 (U26))",
-            "मौलिक अधिकार छीनने के लिए अनुच्छेद 32 बनाया गया था। (32 (U26))"
+            "संवैधानिक उपचारों का अधिकार और जनहित याचिकाएं भारतीय न्यायिक व्यवस्था में आम नागरिकों के अधिकारों की रक्षा का सबसे प्रभावी माध्यम हैं। (32 alternative form)",
+            "जनहित याचिका दायर करने वाले को जेल में डाल देना चाहिए। (32 alternative form)",
+            "बंदी प्रत्यक्षीकरण का अर्थ है सबको बंदी बना लो। (32 alternative form)",
+            "मौलिक अधिकार छीनने के लिए अनुच्छेद 32 बनाया गया था। (32 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«संवैधानिक उपचारों का अधिकार और जनहित याचिकाएं... सबसे प्रभावी माध्यम हैं» विधिक उपचार प्रणाली का प्रामाणिक वाक्य है।"
@@ -11350,10 +11350,10 @@
         {
           "prompt": "हिंदी साहित्य के किस कालखंड को आध्यात्मिक और नैतिक समृद्धि के कारण 'स्वर्ण युग' कहा जाता है?",
           "options": [
-            "भक्तिकाल (Language concept U27)",
-            "सिनेमा काल (Language concept U27)",
-            "इंटरनेट काल (Language concept U27)",
-            "मशीनी युग (Language concept U27)"
+            "भक्तिकाल (Core concept key phrasing)",
+            "सिनेमा काल (Core concept alternative form)",
+            "इंटरनेट काल (Core concept alternative form)",
+            "मशीनी युग (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "कबीर, सूर, तुलसी और जायसी जैसे महान संतों के युग को «भक्तिकाल» (स्वर्ण युग) कहा जाता है।"
@@ -11365,10 +11365,10 @@
         {
           "prompt": "आधुनिक हिंदी साहित्य और खड़ी बोली गद्य का जनक किसे माना जाता है?",
           "options": [
-            "भारतेंदु हरिश्चंद्र (Language concept U27)",
-            "सिकंदर महान (Language concept U27)",
-            "कालिदास (Language concept U27)",
-            "बाणभट्ट (Language concept U27)"
+            "भारतेंदु हरिश्चंद्र (Core concept key phrasing)",
+            "सिकंदर महान (Core concept alternative form)",
+            "कालिदास (Core concept alternative form)",
+            "बाणभट्ट (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "खड़ी बोली गद्य और आधुनिक हिंदी नवजागरण के अग्रदूत «भारतेंदु हरिश्चंद्र» हैं।"
@@ -11381,10 +11381,10 @@
           "type": "multiple-choice",
           "prompt": "हिंदी साहित्य के इतिहास व काल विभाजन (History of Hindi Literature) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "आदिकाल की शौर्य गाथाओं से लेकर भक्तिकाल के लोकमंगल और आधुनिक काल के नवजागरण तक हिंदी साहित्य भारतीय संस्कृति का दर्पण है। (Language concept U27)",
-            "साहित्य के सारे ग्रंथ चूल्हे में जला देने चाहिए। (Language concept U27)",
-            "तुलसीदास ने केवल क्रिकेट मैच पर कविताएं लिखी थीं। (Language concept U27)",
-            "भक्तिकाल में कोई कवि नहीं था। (Language concept U27)"
+            "आदिकाल की शौर्य गाथाओं से लेकर भक्तिकाल के लोकमंगल और आधुनिक काल के नवजागरण तक हिंदी साहित्य भारतीय संस्कृति का दर्पण है। (Core concept alternative form)",
+            "साहित्य के सारे ग्रंथ चूल्हे में जला देने चाहिए। (Core concept alternative form)",
+            "तुलसीदास ने केवल क्रिकेट मैच पर कविताएं लिखी थीं। (Core concept alternative form)",
+            "भक्तिकाल में कोई कवि नहीं था। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«आदिकाल की शौर्य गाथाओं से लेकर... भारतीय संस्कृति का दर्पण है» साहित्य इतिहास का अत्यंत मानक और परिपक्व वाक्य है।"
@@ -11432,10 +11432,10 @@
         {
           "prompt": "छायावाद के अमर महाकाव्य 'कामायनी' के रचयिता कौन हैं?",
           "options": [
-            "जयशंकर प्रसाद (19181936 (U27))",
-            "प्रेमचंद (19181936 (U27))",
-            "रामधारी सिंह दिनकर (19181936 (U27))",
-            "मैथिलीशरण गुप्त (19181936 (U27))"
+            "जयशंकर प्रसाद (19181936 key phrasing)",
+            "प्रेमचंद (19181936 alternative form)",
+            "रामधारी सिंह दिनकर (19181936 alternative form)",
+            "मैथिलीशरण गुप्त (19181936 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "कामायनी के अमर रचयिता छायावादी महाकवि «जयशंकर प्रसाद» हैं।"
@@ -11447,10 +11447,10 @@
         {
           "prompt": "छायावादी कवयित्री जिन्हें 'आधुनिक युग की मीरा' भी कहा जाता है, वे कौन हैं?",
           "options": [
-            "महादेवी वर्मा (19181936 (U27))",
-            "सुभद्रा कुमारी चौहान (19181936 (U27))",
-            "सरोजिनी नायडू (19181936 (U27))",
-            "अमृता प्रीतम (19181936 (U27))"
+            "महादेवी वर्मा (19181936 key phrasing)",
+            "सुभद्रा कुमारी चौहान (19181936 alternative form)",
+            "सरोजिनी नायडू (19181936 alternative form)",
+            "अमृता प्रीतम (19181936 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अलौकिक वेदना और विरह के गीतों के कारण «महादेवी वर्मा» को आधुनिक युग की मीरा कहा जाता है।"
@@ -11463,10 +11463,10 @@
           "type": "multiple-choice",
           "prompt": "छायावादी काव्य धारा और सौंदर्यबोध (Chhayavadi Poetics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "प्रकृति का सजीव मानवीकरण और मानवीय संवेदनाओं की सूक्ष्म अभिव्यक्ति छायावादी युग को हिंदी कविता का अनुपम उत्कर्ष बनाती है। (19181936 (U27))",
-            "कामायनी को बाज़ार में रद्दी के भाव बेच देना चाहिए। (19181936 (U27))",
-            "छायावाद केवल भूतों की कहानियों को कहते हैं। (19181936 (U27))",
-            "निराला ने केवल गणित के सूत्र लिखे थे। (19181936 (U27))"
+            "प्रकृति का सजीव मानवीकरण और मानवीय संवेदनाओं की सूक्ष्म अभिव्यक्ति छायावादी युग को हिंदी कविता का अनुपम उत्कर्ष बनाती है। (19181936 alternative form)",
+            "कामायनी को बाज़ार में रद्दी के भाव बेच देना चाहिए। (19181936 alternative form)",
+            "छायावाद केवल भूतों की कहानियों को कहते हैं। (19181936 alternative form)",
+            "निराला ने केवल गणित के सूत्र लिखे थे। (19181936 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रकृति का सजीव मानवीकरण और मानवीय संवेदनाओं की सूक्ष्म अभिव्यक्ति... अनुपम उत्कर्ष बनाती है» छायावादी काव्यशास्त्र का शुद्धतम वाक्य है।"
@@ -11514,10 +11514,10 @@
         {
           "prompt": "भारतीय किसान के जीवन की अमर महाकाव्यात्मक त्रासदी प्रस्तुत करने वाले उपन्यास 'गोदान' के लेखक कौन हैं?",
           "options": [
-            "मुंशी प्रेमचंद (18801936 (U27))",
-            "रवींद्रनाथ ठाकुर (18801936 (U27))",
-            "बंकिम चंद्र चट्टोपाध्याय (18801936 (U27))",
-            "शरदचंद्र चट्टोपाध्याय (18801936 (U27))"
+            "मुंशी प्रेमचंद (18801936 key phrasing)",
+            "रवींद्रनाथ ठाकुर (18801936 alternative form)",
+            "बंकिम चंद्र चट्टोपाध्याय (18801936 alternative form)",
+            "शरदचंद्र चट्टोपाध्याय (18801936 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "हिंदी उपन्यास सम्राट «मुंशी प्रेमचंद» ने कालजयी उपन्यास 'गोदान' की रचना की।"
@@ -11529,10 +11529,10 @@
         {
           "prompt": "प्रेमचंद की प्रसिद्ध कहानी 'ईदगाह' का बाल पात्र हामिद मेले से अपनी दादी अमीना के लिए क्या खरीदता है?",
           "options": [
-            "लोहे का चिमटा (18801936 (U27))",
-            "खिलौना बंदूक (18801936 (U27))",
-            "मीठी जलेबी (18801936 (U27))",
-            "रेशमी कुरता (18801936 (U27))"
+            "लोहे का चिमटा (18801936 alternative form)",
+            "खिलौना बंदूक (18801936 alternative form)",
+            "मीठी जलेबी (18801936 alternative form)",
+            "रेशमी कुरता (18801936 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "हामिद अपनी दादी के हाथ रोटी बनाते समय जलने से बचाने के लिए मेले से «चिमटा» खरीदता है।"
@@ -11545,10 +11545,10 @@
           "type": "multiple-choice",
           "prompt": "मुंशी प्रेमचंद और यथार्थवादी कथा साहित्य (Premchand & Realist Fiction) का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "प्रेमचंद का कथा साहित्य शोषित, पीड़ित और उपेक्षित जनसामान्य की पीड़ा को स्वर देकर सामाजिक न्याय और मानवीय गरिमा की वकालत करता है। (18801936 (U27))",
-            "प्रेमचंद ने केवल मंगल ग्रह के एलियंस पर उपन्यास लिखे थे। (18801936 (U27))",
-            "गोदान के पात्र होरी को राजा बनाकर महल में रख दिया गया। (18801936 (U27))",
-            "कहानियों में किसानों का नाम लेना पाप है। (18801936 (U27))"
+            "प्रेमचंद का कथा साहित्य शोषित, पीड़ित और उपेक्षित जनसामान्य की पीड़ा को स्वर देकर सामाजिक न्याय और मानवीय गरिमा की वकालत करता है। (18801936 alternative form)",
+            "प्रेमचंद ने केवल मंगल ग्रह के एलियंस पर उपन्यास लिखे थे। (18801936 alternative form)",
+            "गोदान के पात्र होरी को राजा बनाकर महल में रख दिया गया। (18801936 alternative form)",
+            "कहानियों में किसानों का नाम लेना पाप है। (18801936 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रेमचंद का कथा साहित्य शोषित, पीड़ित और उपेक्षित जनसामान्य की पीड़ा को स्वर देकर... वकालत करता है» प्रेमचंद साहित्य का सर्वोत्तम और परिपक्व वाक्य है।"
@@ -11596,10 +11596,10 @@
         {
           "prompt": "कालिदास के जीवन पर आधारित आधुनिक हिंदी नाटक 'आषाढ़ का एक दिन' के रचनाकार कौन हैं?",
           "options": [
-            "मोहन राकेश (Language concept U27)",
-            "भारतेंदु हरिश्चंद्र (Language concept U27)",
-            "जयशंकर प्रसाद (Language concept U27)",
-            "लक्ष्मीनारायण मिश्र (Language concept U27)"
+            "मोहन राकेश (Core concept key phrasing)",
+            "भारतेंदु हरिश्चंद्र (Core concept alternative form)",
+            "जयशंकर प्रसाद (Core concept alternative form)",
+            "लक्ष्मीनारायण मिश्र (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "आधुनिक रंगमंच के युगांतरकारी नाटक 'आषाढ़ का एक दिन' के लेखक «मोहन राकेश» हैं।"
@@ -11611,10 +11611,10 @@
         {
           "prompt": "हिंदी साहित्य में व्यवस्था की विसंगतियों पर चोट करने वाले मूर्धन्य व्यंग्यकार (Satirist) कौन हैं?",
           "options": [
-            "हरिशंकर परसाई (Language concept U27)",
-            "मैथिलीशरण गुप्त (Language concept U27)",
-            "सुभद्रा कुमारी चौहान (Language concept U27)",
-            "अयोध्या सिंह उपाध्याय 'हरिऔध' (Language concept U27)"
+            "हरिशंकर परसाई (Core concept key phrasing)",
+            "मैथिलीशरण गुप्त (Core concept alternative form)",
+            "सुभद्रा कुमारी चौहान (Core concept alternative form)",
+            "अयोध्या सिंह उपाध्याय 'हरिऔध' (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "हिंदी में सामाजिक और राजनीतिक व्यंग्य के सर्वोच्च शिखर «हरिशंकर परसाई» हैं।"
@@ -11627,10 +11627,10 @@
           "type": "multiple-choice",
           "prompt": "आधुनिक गद्य, नाटक और व्यंग्य विधाएं (Modern Prose & Drama) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "आधुनिक हिंदी गद्य में नाटक के अंतर्द्वंद्व और व्यंग्य के तीखे प्रहार समाज को आत्ममंथन और नैतिक परिष्कार की नई दृष्टि देते हैं। (Language concept U27)",
-            "नाटक देखने वाले को जेल भेज देना चाहिए। (Language concept U27)",
-            "व्यंग्य का अर्थ केवल लोगों को गाली देना है। (Language concept U27)",
-            "निबंध केवल खाली पन्नों को कहते हैं। (Language concept U27)"
+            "आधुनिक हिंदी गद्य में नाटक के अंतर्द्वंद्व और व्यंग्य के तीखे प्रहार समाज को आत्ममंथन और नैतिक परिष्कार की नई दृष्टि देते हैं। (Core concept alternative form)",
+            "नाटक देखने वाले को जेल भेज देना चाहिए। (Core concept alternative form)",
+            "व्यंग्य का अर्थ केवल लोगों को गाली देना है। (Core concept alternative form)",
+            "निबंध केवल खाली पन्नों को कहते हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«आधुनिक हिंदी गद्य में नाटक के अंतर्द्वंद्व और व्यंग्य के तीखे प्रहार... नई दृष्टि देते हैं» आधुनिक गद्य विधाओं का आदर्श वाक्य है।"
@@ -12088,10 +12088,10 @@
         {
           "prompt": "भारत में प्रिंट मीडिया की स्वतंत्रता की रक्षा और पत्रकारिता के नैतिक मानकों के नियमन हेतु गठित सांविधिक संस्था कौन-सी है?",
           "options": [
-            "प्रेस काउंसिल ऑफ इंडिया / भारतीय प्रेस परिषद (Language concept U28)",
-            "रेलवे बोर्ड (Language concept U28)",
-            "क्रिकेट नियंत्रण बोर्ड (Language concept U28)",
-            "सिनेमा सेंसर बोर्ड (Language concept U28)"
+            "प्रेस काउंसिल ऑफ इंडिया / भारतीय प्रेस परिषद (Core concept alternative form)",
+            "रेलवे बोर्ड (Core concept alternative form)",
+            "क्रिकेट नियंत्रण बोर्ड (Core concept alternative form)",
+            "सिनेमा सेंसर बोर्ड (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "प्रेस की स्वतंत्रता और पत्रकारिता के मानकों की रक्षा करने वाली संस्था «भारतीय प्रेस परिषद» (Press Council of India) है।"
@@ -12103,10 +12103,10 @@
         {
           "prompt": "अदालत के अंतिम फैसले से पहले ही मीडिया द्वारा किसी आरोपी को दोषी करार देने की अनुचित प्रवृत्ति को क्या कहते हैं?",
           "options": [
-            "मीडिया ट्रायल (Language concept U28)",
-            "न्यायिक समीक्षा (Language concept U28)",
-            "विधिक सहायता (Language concept U28)",
-            "संसद का सत्र (Language concept U28)"
+            "मीडिया ट्रायल (Core concept key phrasing)",
+            "न्यायिक समीक्षा (Core concept alternative form)",
+            "विधिक सहायता (Core concept alternative form)",
+            "संसद का सत्र (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अदालत के निर्णय से पूर्व टीवी पर किसी को अपराधी घोषित करने की प्रवृत्ति को «मीडिया ट्रायल» (Media Trial) कहा जाता है।"
@@ -12119,10 +12119,10 @@
           "type": "multiple-choice",
           "prompt": "मीडिया विमर्श और जनसंचार नीति (Mass Media & Democratic Ethics) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "सत्यनिष्ठा, निर्भीक खोजी दृष्टि और जनसरोकारों के प्रति समर्पण ही स्वतंत्र पत्रकारिता को लोकतांत्रिक गणराज्य की अमर चेतना बनाता है। (Language concept U28)",
-            "पत्रकारिता का काम केवल झूठ और नफरत फैलाना है। (Language concept U28)",
-            "प्रेस काउंसिल को बंद कर देना चाहिए ताकि कोई नियम न रहे। (Language concept U28)",
-            "मीडिया ट्रायल करके बिना सबूत सबको फांसी दे देनी चाहिए। (Language concept U28)"
+            "सत्यनिष्ठा, निर्भीक खोजी दृष्टि और जनसरोकारों के प्रति समर्पण ही स्वतंत्र पत्रकारिता को लोकतांत्रिक गणराज्य की अमर चेतना बनाता है। (Core concept alternative form)",
+            "पत्रकारिता का काम केवल झूठ और नफरत फैलाना है। (Core concept alternative form)",
+            "प्रेस काउंसिल को बंद कर देना चाहिए ताकि कोई नियम न रहे। (Core concept alternative form)",
+            "मीडिया ट्रायल करके बिना सबूत सबको फांसी दे देनी चाहिए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«सत्यनिष्ठा, निर्भीक खोजी दृष्टि और जनसरोकारों के प्रति समर्पण... अमर चेतना बनाता है» मीडिया नैतिकता का सर्वोच्च प्रामाणिक वाक्य है।"
@@ -12416,10 +12416,10 @@
         {
           "prompt": "जैन दर्शन में सत्य के बहुआयामी स्वरूप और सहिष्णु दृष्टिकोण के सिद्धांत को क्या कहते हैं?",
           "options": [
-            "अनेकांतवाद (Language concept U29)",
-            "हठयोग (Language concept U29)",
-            "भौतिकवाद (Language concept U29)",
-            "एकाधिकार (Language concept U29)"
+            "अनेकांतवाद (Core concept key phrasing)",
+            "हठयोग (Core concept alternative form)",
+            "भौतिकवाद (Core concept alternative form)",
+            "एकाधिकार (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "सत्य के बहुआयामी दृष्टिकोण को जैन दर्शन में «अनेकांतवाद» (Anekantavada) कहा जाता है।"
@@ -12431,10 +12431,10 @@
         {
           "prompt": "भगवान बुद्ध द्वारा प्रतिपादित दुःख निवारण के आठ व्यावहारिक चरणों को क्या कहा जाता है?",
           "options": [
-            "अष्टांगिक मार्ग (Language concept U29)",
-            "आठ ग्रह (Language concept U29)",
-            "अष्टधातु (Language concept U29)",
-            "आठ दिशाएं (Language concept U29)"
+            "अष्टांगिक मार्ग (Core concept key phrasing)",
+            "आठ ग्रह (Core concept alternative form)",
+            "अष्टधातु (Core concept alternative form)",
+            "आठ दिशाएं (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "दुःख निरोध के आठ अंगों वाले बौद्ध मार्ग को «अष्टांगिक मार्ग» (Eightfold Path) कहते हैं।"
@@ -12447,10 +12447,10 @@
           "type": "multiple-choice",
           "prompt": "जैन व बौद्ध दर्शन (Jain & Buddhist Philosophy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "अनेकांतवाद की वैचारिक सहिष्णुता और मध्यम प्रतिपदा का संतुलित जीवन-दर्शन विश्व में शांति और सद्भाव स्थापित करने के शाश्वत आधार हैं। (Language concept U29)",
-            "जैन दर्शन में लिखा है कि प्रतिदिन झगड़ा करना चाहिए। (Language concept U29)",
-            "मध्यम मार्ग का अर्थ सड़क के बीच में सोना होता है। (Language concept U29)",
-            "चार आर्य सत्य केवल गणित के चार अंक हैं। (Language concept U29)"
+            "अनेकांतवाद की वैचारिक सहिष्णुता और मध्यम प्रतिपदा का संतुलित जीवन-दर्शन विश्व में शांति और सद्भाव स्थापित करने के शाश्वत आधार हैं। (Core concept alternative form)",
+            "जैन दर्शन में लिखा है कि प्रतिदिन झगड़ा करना चाहिए। (Core concept alternative form)",
+            "मध्यम मार्ग का अर्थ सड़क के बीच में सोना होता है। (Core concept alternative form)",
+            "चार आर्य सत्य केवल गणित के चार अंक हैं। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«अनेकांतवाद की वैचारिक सहिष्णुता और मध्यम प्रतिपदा का संतुलित जीवन-दर्शन... शाश्वत आधार हैं» श्रमण दर्शन का मानक वाक्य है।"
@@ -12662,10 +12662,10 @@
         {
           "prompt": "मानव मस्तिष्क के न्यूरॉन्स की कार्यप्रणाली से प्रेरित होकर बनाए गए कंप्यूटर एल्गोरिदम को क्या कहते हैं?",
           "options": [
-            "कृत्रिम तंत्रिका नेटवर्क (AI (U30))",
-            "टेलीफोन केबल नेटवर्क (AI (U30))",
-            "सड़क परिवहन नेटवर्क (AI (U30))",
-            "रेडियो प्रसारण नेटवर्क (AI (U30))"
+            "कृत्रिम तंत्रिका नेटवर्क (AI key phrasing)",
+            "टेलीफोन केबल नेटवर्क (AI alternative form)",
+            "सड़क परिवहन नेटवर्क (AI alternative form)",
+            "रेडियो प्रसारण नेटवर्क (AI alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "मानव मस्तिष्क की भांति सीखने वाले कम्प्यूटेशनल मॉडल को «कृत्रिम तंत्रिका नेटवर्क» (Neural Network) कहते हैं।"
@@ -12677,10 +12677,10 @@
         {
           "prompt": "क्वांटम कंप्यूटर में सूचना की मूल इकाई क्या होती है, जो सुपरपोजिशन में 0 और 1 दोनों अवस्थाओं में रह सकती है?",
           "options": [
-            "क्यूबिट (AI (U30))",
-            "बाइनरी बाइट (AI (U30))",
-            "किलोग्राम (AI (U30))",
-            "सेंटीमीटर (AI (U30))"
+            "क्यूबिट (AI key phrasing)",
+            "बाइनरी बाइट (AI alternative form)",
+            "किलोग्राम (AI alternative form)",
+            "सेंटीमीटर (AI alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "क्वांटम कंप्यूटिंग की आधारभूत सूचना इकाई को «क्यूबिट» (Qubit) कहा जाता है।"
@@ -12693,10 +12693,10 @@
           "type": "multiple-choice",
           "prompt": "कृत्रिम बुद्धिमत्ता और क्वांटम तकनीक (AI & Quantum Computing) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "जिम्मेदार कृत्रिम बुद्धिमत्ता और क्वांटम कंप्यूटिंग का अनुसंधान मानव जीवन को सुगम बनाने और जटिल वैज्ञानिक चुनौतियों को हल करने का नया क्षितिज है। (AI (U30))",
-            "एआई का काम केवल रोबोट बनाकर लोगों से झगड़ा कराना है। (AI (U30))",
-            "क्वांटम का अर्थ केवल टीवी पर कार्टून देखना होता है। (AI (U30))",
-            "कंप्यूटर को पानी में डुबोकर धोना ही क्वांटम कंप्यूटिंग है। (AI (U30))"
+            "जिम्मेदार कृत्रिम बुद्धिमत्ता और क्वांटम कंप्यूटिंग का अनुसंधान मानव जीवन को सुगम बनाने और जटिल वैज्ञानिक चुनौतियों को हल करने का नया क्षितिज है। (AI alternative form)",
+            "एआई का काम केवल रोबोट बनाकर लोगों से झगड़ा कराना है। (AI alternative form)",
+            "क्वांटम का अर्थ केवल टीवी पर कार्टून देखना होता है। (AI alternative form)",
+            "कंप्यूटर को पानी में डुबोकर धोना ही क्वांटम कंप्यूटिंग है। (AI alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«जिम्मेदार कृत्रिम बुद्धिमत्ता और क्वांटम कंप्यूटिंग का अनुसंधान... नया क्षितिज है» आधुनिक प्रौद्योगिकी का प्रामाणिक वाक्य है।"
@@ -12923,10 +12923,10 @@
         {
           "prompt": "प्रकाश प्रकीर्णन के विख्यात 'रमन प्रभाव' (Raman Effect) की खोज हेतु भौतिकी का नोबेल पुरस्कार प्राप्त करने वाले प्रथम भारतीय वैज्ञानिक कौन थे?",
           "options": [
-            "सर सी. वी. रमन (51 (U30))",
-            "रवींद्रनाथ टैगोर (51 (U30))",
+            "सर सी. वी. रमन (51 key phrasing)",
+            "रवींद्रनाथ टैगोर (51 alternative form)",
             "अमर्त्य सेन (amarataya saena)",
-            "कैलाश सत्यार्थी (51 (U30))"
+            "कैलाश सत्यार्थी (51 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "1930 में भौतिकी का नोबेल पुरस्कार जीतने वाले महान भारतीय वैज्ञानिक «सर सी. वी. रमन» थे।"
@@ -12939,10 +12939,10 @@
           "type": "multiple-choice",
           "prompt": "वैज्ञानिक अनुसंधान और नवाचार नीति (Scientific Research & Innovation Policy) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "वैज्ञानिक दृष्टिकोण का राष्ट्रीय प्रसार, मौलिक अनुसंधान का सुदृढ़ीकरण और अत्याधुनिक नवाचार ही भारत को आत्मनिर्भर व विश्वगुरु बनाने का सशक्त आधार हैं। (51 (U30))",
-            "वैज्ञानिक अनुसंधान पर पैसा खर्च करना समय और धन की बर्बादी है। (51 (U30))",
-            "विज्ञान की पुस्तकों को जलाकर केवल अंधविश्वास मानना चाहिए। (51 (U30))",
-            "राष्ट्रीय विज्ञान दिवस पर वैज्ञानिकों का उपहास उड़ाना चाहिए। (51 (U30))"
+            "वैज्ञानिक दृष्टिकोण का राष्ट्रीय प्रसार, मौलिक अनुसंधान का सुदृढ़ीकरण और अत्याधुनिक नवाचार ही भारत को आत्मनिर्भर व विश्वगुरु बनाने का सशक्त आधार हैं। (51 alternative form)",
+            "वैज्ञानिक अनुसंधान पर पैसा खर्च करना समय और धन की बर्बादी है। (51 alternative form)",
+            "विज्ञान की पुस्तकों को जलाकर केवल अंधविश्वास मानना चाहिए। (51 alternative form)",
+            "राष्ट्रीय विज्ञान दिवस पर वैज्ञानिकों का उपहास उड़ाना चाहिए। (51 alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«वैज्ञानिक दृष्टिकोण का राष्ट्रीय प्रसार, मौलिक अनुसंधान का सुदृढ़ीकरण... सशक्त आधार हैं» वैज्ञानिक चेतना का सर्वोच्च प्रामाणिक वाक्य है।"
@@ -13810,10 +13810,10 @@
         {
           "prompt": "अत्यंत संक्षिप्त शब्दों में अगाध और व्यापक ज्ञान को व्यक्त करने के लिए कौन सा मुहावरा प्रयुक्त होता है?",
           "options": [
-            "गागर में सागर भरना (Language concept U33)",
-            "पानी में आग लगाना (Language concept U33)",
-            "हवा में तीर चलाना (Language concept U33)",
-            "रेत से तेल निकालना (Language concept U33)"
+            "गागर में सागर भरना (Core concept key phrasing)",
+            "पानी में आग लगाना (Core concept alternative form)",
+            "हवा में तीर चलाना (Core concept alternative form)",
+            "रेत से तेल निकालना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "संक्षिप्त उक्तियों में विशाल अर्थ समाहित करने को «गागर में सागर भरना» कहा जाता है।"
@@ -13825,10 +13825,10 @@
         {
           "prompt": "किसी असाधारण और अविश्वसनीय चमत्कार को देखकर अत्यधिक आश्चर्यचकित होने पर किस मुहावरे का प्रयोग किया जाता है?",
           "options": [
-            "दांतों तले उंगली दबाना (Language concept U33)",
-            "आंखों में धूल झोंकना (Language concept U33)",
-            "कान पर जूं न रेंगना (Language concept U33)",
-            "हाथ पर हाथ धरकर बैठना (Language concept U33)"
+            "दांतों तले उंगली दबाना (Core concept key phrasing)",
+            "आंखों में धूल झोंकना (Core concept alternative form)",
+            "कान पर जूं न रेंगना (Core concept alternative form)",
+            "हाथ पर हाथ धरकर बैठना (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अत्यधिक विस्मय और आश्चर्यचकित होने की स्थिति को «दांतों तले उंगली दबाना» कहते हैं।"
@@ -13841,10 +13841,10 @@
           "type": "multiple-choice",
           "prompt": "दार्शनिक मुहावरों के शुद्ध और अलंकारिक प्रयोग (Philosophical Idioms) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "महापुरुषों की सूक्तियां गागर में सागर भरकर मानवता को अंधकार से प्रकाश की ओर ले जाने का शाश्वत मार्ग प्रशस्त करती हैं। (Language concept U33)",
-            "गागर में सागर भरने का मतलब है कि मटके में समुद्र का खारा पानी भर लाना। (Language concept U33)",
-            "अंगारों पर पैर रखने का अर्थ केवल जूते पहनकर किचन में खाना पकाना है। (Language concept U33)",
-            "आकाश-पाताल एक करने का अर्थ है हवाई जहाज में बैठकर जमीन देखना। (Language concept U33)"
+            "महापुरुषों की सूक्तियां गागर में सागर भरकर मानवता को अंधकार से प्रकाश की ओर ले जाने का शाश्वत मार्ग प्रशस्त करती हैं। (Core concept alternative form)",
+            "गागर में सागर भरने का मतलब है कि मटके में समुद्र का खारा पानी भर लाना। (Core concept alternative form)",
+            "अंगारों पर पैर रखने का अर्थ केवल जूते पहनकर किचन में खाना पकाना है। (Core concept alternative form)",
+            "आकाश-पाताल एक करने का अर्थ है हवाई जहाज में बैठकर जमीन देखना। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«महापुरुषों की सूक्तियां गागर में सागर भरकर... शाश्वत मार्ग प्रशस्त करती हैं» मुहावरों का मानक साहित्यिक वाक्य है।"
@@ -13892,10 +13892,10 @@
         {
           "prompt": "अल्प ज्ञान और कम योग्यता वाले व्यक्ति द्वारा अत्यधिक घमंड और दिखावा करने पर कौन सी लोकोक्ति उपयुक्त है?",
           "options": [
-            "अधजल गगरी छलकत जाए (Language concept U33)",
-            "दूध का दूध पानी का पानी (Language concept U33)",
-            "चोर की दाढ़ी में तिनका (Language concept U33)",
-            "आसमान से गिरा खजूर में अटका (Language concept U33)"
+            "अधजल गगरी छलकत जाए (Core concept key phrasing)",
+            "दूध का दूध पानी का पानी (Core concept alternative form)",
+            "चोर की दाढ़ी में तिनका (Core concept alternative form)",
+            "आसमान से गिरा खजूर में अटका (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "अधूरे ज्ञान के व्यर्थ अहंकार पर «अधजल गगरी छलकत जाए» लोकोक्ति सटीक बैठती है।"
@@ -13907,10 +13907,10 @@
         {
           "prompt": "मूर्खों की सभा में किसी कम ज्ञान वाले व्यक्ति को भी सर्वज्ञानी मान लेने पर कौन सी कहावत चरितार्थ होती है?",
           "options": [
-            "अंधों में काना राजा (Language concept U33)",
-            "घर का भेदी लंका ढाए (Language concept U33)",
-            "बंदर क्या जाने अदरक का स्वाद (Language concept U33)",
-            "काला अक्षर भैंस बराबर (Language concept U33)"
+            "अंधों में काना राजा (Core concept key phrasing)",
+            "घर का भेदी लंका ढाए (Core concept alternative form)",
+            "बंदर क्या जाने अदरक का स्वाद (Core concept alternative form)",
+            "काला अक्षर भैंस बराबर (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "मूर्खों के बीच अल्पज्ञानी के सम्मानित होने को «अंधों में काना राजा» कहा जाता है।"
@@ -13923,10 +13923,10 @@
           "type": "multiple-choice",
           "prompt": "नीतिपरक लोकोक्तियों (Proverbs & Moral Wisdom) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "सच्चा विद्वान ज्ञानार्जन से विनम्र बनता है, जबकि अज्ञानी 'थोथा चना बाजे घना' की भांति व्यर्थ अहंकार में लीन रहता है। (Language concept U33)",
-            "अधजल गगरी का अर्थ है कि घड़े में आधा लीटर दूध डालकर पीना चाहिए। (Language concept U33)",
-            "लोकोक्तियों का उपयोग केवल परीक्षा में फेल होने के लिए किया जाता है। (Language concept U33)",
-            "काना राजा का अर्थ है कि आंखों पर चश्मा लगाकर सो जाना। (Language concept U33)"
+            "सच्चा विद्वान ज्ञानार्जन से विनम्र बनता है, जबकि अज्ञानी 'थोथा चना बाजे घना' की भांति व्यर्थ अहंकार में लीन रहता है। (Core concept alternative form)",
+            "अधजल गगरी का अर्थ है कि घड़े में आधा लीटर दूध डालकर पीना चाहिए। (Core concept alternative form)",
+            "लोकोक्तियों का उपयोग केवल परीक्षा में फेल होने के लिए किया जाता है। (Core concept alternative form)",
+            "काना राजा का अर्थ है कि आंखों पर चश्मा लगाकर सो जाना। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«सच्चा विद्वान ज्ञानार्जन से विनम्र बनता है, जबकि अज्ञानी 'थोथा चना बाजे घना'... लीन रहता है» लोकोक्ति का मानक प्रयोग है।"
@@ -13975,9 +13975,9 @@
           "prompt": "मुंडकोपनिषद का वह अमर सूत्र कौन सा है जो भारत का राष्ट्रीय आदर्श वाक्य भी है?",
           "options": [
             "सत्यमेव जयते (satayamaeva jayatae)",
-            "तमसो मा ज्योतिर्गमय (Language concept U33)",
-            "सर्वे भवन्तु सुखिनः (Language concept U33)",
-            "मातृ देवो भव (Language concept U33)"
+            "तमसो मा ज्योतिर्गमय (Core concept alternative form)",
+            "सर्वे भवन्तु सुखिनः (Core concept alternative form)",
+            "मातृ देवो भव (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "भारत का राष्ट्रीय आदर्श वाक्य «सत्यमेव जयते» (सत्य की ही जीत होती है) है।"
@@ -13989,10 +13989,10 @@
         {
           "prompt": "रामायण का वह अमर श्लोकांश कौन सा है जो मातृभूमि के प्रति सर्वोच्च सम्मान और देशभक्ति को व्यक्त करता है?",
           "options": [
-            "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी (Language concept U33)",
-            "अहिंसा परमो धर्मः (Language concept U33)",
-            "वसुधैव कुटुम्बकम् (Language concept U33)",
-            "यतो धर्मस्ततो जयः (Language concept U33)"
+            "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी (Core concept key phrasing)",
+            "अहिंसा परमो धर्मः (Core concept alternative form)",
+            "वसुधैव कुटुम्बकम् (Core concept alternative form)",
+            "यतो धर्मस्ततो जयः (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "माता और मातृभूमि की स्वर्ग से भी उच्च महत्ता को «जननी जन्मभूमिश्च स्वर्गादपि गरीयसी» व्यक्त करता है।"
@@ -14005,10 +14005,10 @@
           "type": "multiple-choice",
           "prompt": "संस्कृत सूक्तियों और दार्शनिक अमर वचनों (Immortal Sanskrit Maxims) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "'सत्यमेव जयते' और 'विद्या ददाति विनयं' जैसी अमर सूक्तियां भारतीय संस्कृति के शाश्वत नैतिक मूल्य और चरित्र निर्माण की आधारशिला हैं। (Language concept U33)",
-            "संस्कृत सूक्तियों का अर्थ है कि किसी को कोई बात समझ में न आए। (Language concept U33)",
-            "विद्या प्राप्त करने के बाद केवल दूसरों का अपमान करना चाहिए। (Language concept U33)",
-            "सत्य की जगह हमेशा झूठ बोलने का अभ्यास करना चाहिए। (Language concept U33)"
+            "'सत्यमेव जयते' और 'विद्या ददाति विनयं' जैसी अमर सूक्तियां भारतीय संस्कृति के शाश्वत नैतिक मूल्य और चरित्र निर्माण की आधारशिला हैं। (Core concept alternative form)",
+            "संस्कृत सूक्तियों का अर्थ है कि किसी को कोई बात समझ में न आए। (Core concept alternative form)",
+            "विद्या प्राप्त करने के बाद केवल दूसरों का अपमान करना चाहिए। (Core concept alternative form)",
+            "सत्य की जगह हमेशा झूठ बोलने का अभ्यास करना चाहिए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«'सत्यमेव जयते' और 'विद्या ददाति विनयं' जैसी अमर सूक्तियां... आधारशिला हैं» सूक्तियों का मानक वाक्य है।"
@@ -14138,10 +14138,10 @@
         {
           "prompt": "काव्य अथवा गद्य में जहाँ एक ही शब्द के एक से अधिक अर्थ निकलकर चमत्कार उत्पन्न करते हों, वहाँ कौन सा अलंकार होता है?",
           "options": [
-            "श्लेष अलंकार (Language concept U33)",
-            "अनुप्रास अलंकार (Language concept U33)",
-            "यमक अलंकार (Language concept U33)",
-            "संदेह अलंकार (Language concept U33)"
+            "श्लेष अलंकार (Core concept key phrasing)",
+            "अनुप्रास अलंकार (Core concept alternative form)",
+            "यमक अलंकार (Core concept alternative form)",
+            "संदेह अलंकार (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "एक ही शब्द में एक से अधिक अर्थ चिपके होने पर «श्लेष अलंकार» होता है।"
@@ -14153,10 +14153,10 @@
         {
           "prompt": "जहाँ उपमेय में उपमान की संभावना व्यक्त की जाए (मनु, मानहु, जनु, जानहु शब्दों द्वारा), वहाँ कौन सा अलंकार होता है?",
           "options": [
-            "उत्प्रेक्षा अलंकार (Language concept U33)",
-            "उपमा अलंकार (Language concept U33)",
-            "रूपक अलंकार (Language concept U33)",
-            "अतिशयोक्ति अलंकार (Language concept U33)"
+            "उत्प्रेक्षा अलंकार (Core concept key phrasing)",
+            "उपमा अलंकार (Core concept alternative form)",
+            "रूपक अलंकार (Core concept alternative form)",
+            "अतिशयोक्ति अलंकार (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "उपमेय में उपमान की संभावना प्रकट करने वाले अलंकार को «उत्प्रेक्षा अलंकार» कहते हैं।"
@@ -14169,10 +14169,10 @@
           "type": "multiple-choice",
           "prompt": "अलंकार, वाग्मिता और शास्त्रार्थ (Rhetorical Mastery & Grand Synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "काव्यालंकारों का भव्य लालित्य, मुहावरा-शास्त्र की मार्मिकता और शास्त्रार्थ की तार्किक वाग्मिता ही हिंदी भाषा को अभिव्यक्ति की सर्वोच्च पराकाष्ठा प्रदान करते हैं। (Language concept U33)",
-            "अलंकार केवल महिलाओं के सोने के गहनों को कहते हैं और भाषा से इनका कोई संबंध नहीं है। (Language concept U33)",
-            "वाग्मिता का अर्थ है कि बिना सोचे-समझे केवल जोर-जोर से चिल्लाना। (Language concept U33)",
-            "हिंदी भाषा में मुहावरों का प्रयोग करना अपराध है। (Language concept U33)"
+            "काव्यालंकारों का भव्य लालित्य, मुहावरा-शास्त्र की मार्मिकता और शास्त्रार्थ की तार्किक वाग्मिता ही हिंदी भाषा को अभिव्यक्ति की सर्वोच्च पराकाष्ठा प्रदान करते हैं। (Core concept alternative form)",
+            "अलंकार केवल महिलाओं के सोने के गहनों को कहते हैं और भाषा से इनका कोई संबंध नहीं है। (Core concept alternative form)",
+            "वाग्मिता का अर्थ है कि बिना सोचे-समझे केवल जोर-जोर से चिल्लाना। (Core concept alternative form)",
+            "हिंदी भाषा में मुहावरों का प्रयोग करना अपराध है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«काव्यालंकारों का भव्य लालित्य, मुहावरा-शास्त्र की मार्मिकता और शास्त्रार्थ की तार्किक वाग्मिता... सर्वोच्च पराकाष्ठा प्रदान करते हैं» वाग्मिता और मुहावरा-शास्त्र का सर्वोच्च प्रामाणिक वाक्य है।"
@@ -14384,10 +14384,10 @@
         {
           "prompt": "युद्ध अथवा प्राकृतिक आपदा के समय नागरिकों को सुरक्षित निकालने हेतु स्थापित किए जाने वाले सुरक्षित मार्ग को क्या कहते हैं?",
           "options": [
-            "मानवीय गलियारा (Language concept U34)",
-            "भूमिगत सुरंग (Language concept U34)",
-            "रेलवे प्लेटफॉर्म (Language concept U34)",
-            "खेल मैदान (Language concept U34)"
+            "मानवीय गलियारा (Core concept key phrasing)",
+            "भूमिगत सुरंग (Core concept alternative form)",
+            "रेलवे प्लेटफॉर्म (Core concept alternative form)",
+            "खेल मैदान (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "युद्ध क्षेत्र में नागरिकों की सुरक्षित निकासी के तटस्थ मार्ग को «मानवीय गलियारा» (Humanitarian Corridor) कहते हैं।"
@@ -14399,10 +14399,10 @@
         {
           "prompt": "किसी देश में आपदा या संकट आने पर सबसे पहले बिना देरी किए राहत और सहायता पहुंचाने वाले देश को क्या कहा जाता है?",
           "options": [
-            "प्रथम प्रत्युत्तरदाता (Language concept U34)",
-            "तटस्थ मूकदर्शक (Language concept U34)",
-            "कड़ा विरोधी (Language concept U34)",
-            "उदासीन दर्शक (Language concept U34)"
+            "प्रथम प्रत्युत्तरदाता (Core concept key phrasing)",
+            "तटस्थ मूकदर्शक (Core concept alternative form)",
+            "कड़ा विरोधी (Core concept alternative form)",
+            "उदासीन दर्शक (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "आपदा के समय तत्काल सहायता करने वाले देश को अंतरराष्ट्रीय कूटनीति में «प्रथम प्रत्युत्तरदाता» (First Responder) कहा जाता है।"
@@ -14415,10 +14415,10 @@
           "type": "multiple-choice",
           "prompt": "अंतरराष्ट्रीय संकट प्रबंधन और मानवीय सहायता (Crisis Management & Humanitarian Aid) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "कुशल संकट प्रबंधन, त्वरित निकासी अभियान और आपदा के समय 'प्रथम प्रत्युत्तरदाता' के रूप में मानवीय सहायता प्रदान करना ही भारत को विश्व का विश्वसनीय कल्याणकारी स्तंभ बनाता है। (Language concept U34)",
-            "संकट के समय पीड़ितों को छोड़कर भाग जाना ही संकट प्रबंधन है। (Language concept U34)",
-            "ऑपरेशन दोस्त का अर्थ केवल दोस्तों के साथ पिकनिक मनाना है। (Language concept U34)",
-            "मानवीय सहायता पर रोक लगाकर लोगों को भूख से मरने देना चाहिए। (Language concept U34)"
+            "कुशल संकट प्रबंधन, त्वरित निकासी अभियान और आपदा के समय 'प्रथम प्रत्युत्तरदाता' के रूप में मानवीय सहायता प्रदान करना ही भारत को विश्व का विश्वसनीय कल्याणकारी स्तंभ बनाता है। (Core concept alternative form)",
+            "संकट के समय पीड़ितों को छोड़कर भाग जाना ही संकट प्रबंधन है। (Core concept alternative form)",
+            "ऑपरेशन दोस्त का अर्थ केवल दोस्तों के साथ पिकनिक मनाना है। (Core concept alternative form)",
+            "मानवीय सहायता पर रोक लगाकर लोगों को भूख से मरने देना चाहिए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«कुशल संकट प्रबंधन, त्वरित निकासी अभियान और आपदा के समय 'प्रथम प्रत्युत्तरदाता'... विश्वसनीय कल्याणकारी स्तंभ बनाता है» संकट प्रबंधन का मानक वाक्य है।"
@@ -14466,10 +14466,10 @@
         {
           "prompt": "1973 के विख्यात केशवानंद भारती मामले में सर्वोच्च न्यायालय द्वारा प्रतिपादित उस ऐतिहासिक सिद्धांत को क्या कहते हैं, जो संसद को संविधान के बुनियादी स्वरूप को बदलने से रोकता है?",
           "options": [
-            "मूल ढांचा सिद्धांत (Language concept U34)",
-            "आपातकाल सिद्धांत (Language concept U34)",
-            "राष्ट्रपति शासन (Language concept U34)",
-            "संसद का विशेषाधिकार (Language concept U34)"
+            "मूल ढांचा सिद्धांत (Core concept key phrasing)",
+            "आपातकाल सिद्धांत (Core concept alternative form)",
+            "राष्ट्रपति शासन (Core concept alternative form)",
+            "संसद का विशेषाधिकार (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "संविधान की आधारभूत संरचना की रक्षा करने वाले सिद्धांत को «मूल ढांचा सिद्धांत» (Basic Structure Doctrine) कहते हैं।"
@@ -14481,10 +14481,10 @@
         {
           "prompt": "समाज के अंतिम पंक्ति में खड़े निर्धनतम व्यक्ति के कल्याण और उत्थान के भारतीय दार्शनिक संकल्प को क्या संज्ञा दी गई है?",
           "options": [
-            "अंत्योदय (Language concept U34)",
-            "सूर्योदय (Language concept U34)",
-            "चंद्रोदय (Language concept U34)",
-            "मध्याह्न (Language concept U34)"
+            "अंत्योदय (Core concept key phrasing)",
+            "सूर्योदय (Core concept alternative form)",
+            "चंद्रोदय (Core concept alternative form)",
+            "मध्याह्न (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "समाज के निर्धनतम व्यक्ति तक विकास का लाभ पहुंचाने के दर्शन को «अंत्योदय» कहा जाता है।"
@@ -14497,10 +14497,10 @@
           "type": "multiple-choice",
           "prompt": "संविधान, न्यायपालिका और संप्रभु शासन (Constitutionalism & Governance) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "संवैधानिक सर्वोच्चता, विधि का शासन, स्वतंत्र न्यायपालिका और अंत्योदय का कल्याणकारी संकल्प ही भारत को एक सशक्त, न्यायप्रिय और संप्रभु लोकतांत्रिक गणराज्य बनाते हैं। (Language concept U34)",
-            "संविधान को फाड़कर फेंक देना चाहिए और तानाशाही लागू करनी चाहिए। (Language concept U34)",
-            "विधि के शासन का मतलब है कि कानून केवल अमीरों के लिए काम करेगा। (Language concept U34)",
-            "मूल ढांचा सिद्धांत केवल भवन निर्माण करने का नियम है। (Language concept U34)"
+            "संवैधानिक सर्वोच्चता, विधि का शासन, स्वतंत्र न्यायपालिका और अंत्योदय का कल्याणकारी संकल्प ही भारत को एक सशक्त, न्यायप्रिय और संप्रभु लोकतांत्रिक गणराज्य बनाते हैं। (Core concept alternative form)",
+            "संविधान को फाड़कर फेंक देना चाहिए और तानाशाही लागू करनी चाहिए। (Core concept alternative form)",
+            "विधि के शासन का मतलब है कि कानून केवल अमीरों के लिए काम करेगा। (Core concept alternative form)",
+            "मूल ढांचा सिद्धांत केवल भवन निर्माण करने का नियम है। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«संवैधानिक सर्वोच्चता, विधि का शासन, स्वतंत्र न्यायपालिका और अंत्योदय का कल्याणकारी संकल्प... गणराज्य बनाते हैं» संवैधानिक विधि का मानक वाक्य है।"
@@ -14548,10 +14548,10 @@
         {
           "prompt": "हिंदी भाषा किस प्राचीन एवं सर्वाधिक वैज्ञानिक लिपि में लिखी जाती है?",
           "options": [
-            "देवनागरी लिपि (Language concept U34)",
+            "देवनागरी लिपि (Core concept alternative form)",
             "रोमन लिपि (raomana laipai)",
-            "अरबी लिपि (Language concept U34)",
-            "रूसी सिरिलिक लिपि (Language concept U34)"
+            "अरबी लिपि (Core concept alternative form)",
+            "रूसी सिरिलिक लिपि (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "हिंदी भाषा की आधिकारिक और वैज्ञानिक लिपि «देवनागरी» है।"
@@ -14563,10 +14563,10 @@
         {
           "prompt": "भारत में प्रतिवर्ष 14 सितंबर को कौन सा राष्ट्रीय दिवस हर्षोल्लास से मनाया जाता है?",
           "options": [
-            "राष्ट्रीय हिंदी दिवस (Language concept U34)",
-            "राष्ट्रीय विज्ञान दिवस (Language concept U34)",
-            "शिक्षक दिवस (Language concept U34)",
-            "बाल दिवस (Language concept U34)"
+            "राष्ट्रीय हिंदी दिवस (Core concept key phrasing)",
+            "राष्ट्रीय विज्ञान दिवस (Core concept alternative form)",
+            "शिक्षक दिवस (Core concept alternative form)",
+            "बाल दिवस (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "14 सितंबर को पूरे देश में «राष्ट्रीय हिंदी दिवस» मनाया जाता है।"
@@ -14579,10 +14579,10 @@
           "type": "multiple-choice",
           "prompt": "हिंदी पाठ्यक्रम और महा-समेकन (Hindi Curriculum & C2 Grand Capstone Synthesis) का सर्वोत्कृष्ट प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "देवनागरी लिपि की वैज्ञानिकता, समृद्ध व्याकरणिक सौंदर्य, उत्कृष्ट साहित्य, अद्वैत दर्शन, अत्याधुनिक विज्ञान और संप्रभु राज्यशिल्प का यह 170 पाठों का समग्र समेकन हिंदी भाषा को विश्व मंच पर मानवता के शाश्वत ज्ञान का आलोकस्तंभ बनाता है। (Language concept U34)",
-            "हिंदी भाषा सीखने का कोई लाभ नहीं है क्योंकि यह बहुत पुरानी भाषा है। (Language concept U34)",
-            "170 पाठ पूरे करने के बाद भी हिंदी में केवल दो शब्द ही सीखे जा सकते हैं। (Language concept U34)",
-            "देवनागरी लिपि को समाप्त करके केवल चित्र बनाकर बातें करनी चाहिए। (Language concept U34)"
+            "देवनागरी लिपि की वैज्ञानिकता, समृद्ध व्याकरणिक सौंदर्य, उत्कृष्ट साहित्य, अद्वैत दर्शन, अत्याधुनिक विज्ञान और संप्रभु राज्यशिल्प का यह 170 पाठों का समग्र समेकन हिंदी भाषा को विश्व मंच पर मानवता के शाश्वत ज्ञान का आलोकस्तंभ बनाता है। (Core concept alternative form)",
+            "हिंदी भाषा सीखने का कोई लाभ नहीं है क्योंकि यह बहुत पुरानी भाषा है। (Core concept alternative form)",
+            "170 पाठ पूरे करने के बाद भी हिंदी में केवल दो शब्द ही सीखे जा सकते हैं। (Core concept alternative form)",
+            "देवनागरी लिपि को समाप्त करके केवल चित्र बनाकर बातें करनी चाहिए। (Core concept alternative form)"
           ],
           "answerIndex": 0,
           "explanation": "«देवनागरी लिपि की वैज्ञानिकता, समृद्ध व्याकरणिक सौंदर्य, उत्कृष्ट साहित्य, अद्वैत दर्शन, अत्याधुनिक विज्ञान और संप्रभु राज्यशिल्प... आलोकस्तंभ बनाता है» C2 स्तर की पूर्ण हिंदी प्रवीणता का सर्वोत्कृष्ट महा-समेकन वाक्य है।"
