@@ -3848,10 +3848,32 @@
       "level": "B1 / B2"
     },
     {
-      "term": "تہذیب و اخلاق (Tehzeeb & Akhlaq)",
-      "definition": "High literary culture of elegance, refined manners, linguistic politeness, and mutual respect",
-      "category": "Cultural Values",
-      "level": "B1"
+      "term": "تہذیب (Tehzib)",
+      "definition": "Refinement, civilization, exquisite manners, cultural grace, and dignified etiquette (hallmark of Lucknow and Delhi Urdu cultural heritage).",
+      "category": "ثقافت اور اخلاقیات (Culture & Etiquette)",
+      "level": "B2 / اعلیٰ",
+      "pronunciation": "تَہْ-ذِیْب [t̪ɛhˈziːb]",
+      "partOfSpeech": "اسم مؤنث (Noun - Feminine)",
+      "examples": [
+        {
+          "target": "لکھنؤ کی تہذیب میں زبان کی شائستگی اور باہمی احترام کو بنیادی اہمیت حاصل ہے۔",
+          "translation": "In the tehzib (refined culture) of Lucknow, politeness of language and mutual respect hold fundamental importance."
+        },
+        {
+          "target": "قدیم تہذیبوں کا مطالعہ ہمیں انسانی شعور کے ارتقا سے روشناس کراتا ہے۔",
+          "translation": "The study of ancient civilizations introduces us to the evolution of human consciousness."
+        }
+      ],
+      "synonyms": [
+        "شائستگی (politeness)",
+        "تمدن (civilization)",
+        "سلیقہ",
+        "ادب"
+      ],
+      "antonyms": [
+        "بدتہذیبی (rudeness / uncouthness)"
+      ],
+      "register": "ادبی / رسمی (Literary / Formal)"
     },
     {
       "term": "شاعری و مشاعرہ (Poetry & Mushaira)",
@@ -4020,6 +4042,82 @@
       "definition": "Flowing, calligraphic right-to-left Persian script traditionally used for printing and writing Urdu",
       "category": "Calligraphy & Orthography",
       "level": "A1 / A2"
+    },
+    {
+      "term": "خودی (Khudi)",
+      "pronunciation": "خُ-دِی [xʊˈd̪iː]",
+      "partOfSpeech": "اسم مؤنث (Noun - Feminine)",
+      "definition": "Selfhood, self-reliance, moral individuality, spiritual ego, and divine self-realization (Allama Iqbal's central philosophical concept).",
+      "category": "اقبالیات اور فلسفہ (Iqbalian Philosophy)",
+      "level": "C1 / اعلیٰ ترین",
+      "examples": [
+        {
+          "target": "علامہ اقبال نے فرمایا: \"خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے، خدا بندے سے خود پوچھے بتا تیری رضا کیا ہے۔\"",
+          "translation": "Allama Iqbal declared: \"Elevate your selfhood (khudi) so high that before every decree of destiny, God Himself asks His servant: Tell me, what is your desire?\""
+        },
+        {
+          "target": "خودی کی تربیت انسان کو خودداری اور خود اعتمادی کے اعلیٰ مرتبے پر فائز کرتی ہے۔",
+          "translation": "Cultivating khudi elevates a person to the sublime station of self-respect and self-confidence."
+        }
+      ],
+      "synonyms": [
+        "خودداری (self-respect)",
+        "انا (spiritual ego)",
+        "معرفت نفس"
+      ],
+      "register": "فلسفیانہ / فکری (Philosophical / Poetic)"
+    },
+    {
+      "term": "شوق (Shauq)",
+      "pronunciation": "شَوق [ʃɔːq]",
+      "partOfSpeech": "اسم مذكر (Noun - Masculine)",
+      "definition": "Passionate desire, zeal, profound aesthetic or intellectual devotion, deep longing for truth and beauty in classical Ghazal poetry.",
+      "category": "شاعری اور جذبات (Poetry & Passion)",
+      "level": "B1 / متوسط",
+      "examples": [
+        {
+          "target": "علم کے حصول کا سچا شوق انسان کو کامیابی کی منزل تک پہنچاتا ہے۔",
+          "translation": "True shauq (passion) for acquiring knowledge guides a person to the destination of success."
+        },
+        {
+          "target": "غالب کی شاعری میں شوق اور جستجو کے مضامین کو بے مثال ندرت کے ساتھ برتا گیا ہے۔",
+          "translation": "In Ghalib's poetry, themes of passion and quest are handled with incomparable novelty."
+        }
+      ],
+      "synonyms": [
+        "ذوق (refined taste)",
+        "لگن",
+        "ارمان",
+        "اشتیاق"
+      ],
+      "register": "ادبی / عام (Literary / General)"
+    },
+    {
+      "term": "مروت (Murawwat)",
+      "pronunciation": "مُ-رَوَّت [mʊˈrəʋ.ʋət̪]",
+      "partOfSpeech": "اسم مؤنث (Noun - Feminine)",
+      "definition": "Gentleness, considerate forbearance, gracious accommodation, and reluctance to offend or embarrass another person.",
+      "category": "اخلاق اور معاشرت (Social Ethics)",
+      "level": "B2 / اعلیٰ",
+      "examples": [
+        {
+          "target": "اہلِ مروت کبھی کسی کی مجبوری یا کمزوری کا ناجائز فائدہ نہیں اٹھاتے۔",
+          "translation": "People of murawwat (forbearance and graciousness) never take unfair advantage of anyone's helplessness or weakness."
+        },
+        {
+          "target": "معاشرتی رشتوں کی مضبوطی مروت، اخلاص اور باہمی ایثار پر منحصر ہے۔",
+          "translation": "The strength of societal relationships depends on gracious forbearance, sincerity, and mutual sacrifice."
+        }
+      ],
+      "synonyms": [
+        "لحاظ (consideration)",
+        "شرم و حیا",
+        "رواداری"
+      ],
+      "antonyms": [
+        "بے مروتی (callousness / lack of consideration)"
+      ],
+      "register": "ادبی / روایتی (Literary / Traditional)"
     }
   ],
   "swahili": [
