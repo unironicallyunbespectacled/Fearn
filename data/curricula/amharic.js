@@ -535,10 +535,10 @@
         {
           "prompt": "Which Fidel character represents the 7th Order sound [lo] in the ለ family?",
           "options": [
-            "ሎ (The Fidel Abugida  7 Orders   Families item 1)",
-            "ላ (The Fidel Abugida  7 Orders   Families item 2)",
-            "ሊ (The Fidel Abugida  7 Orders   Families item 3)",
-            "ሉ (The Fidel Abugida  7 Orders   Families item 4)"
+            "ሎ (standard target expression for The Fidel Abugida  7 Orders   Families)",
+            "ላ (contextual contrast form in The Fidel Abugida  7 Orders   Families)",
+            "ሊ (formal register distinction for The Fidel Abugida  7 Orders   Families)",
+            "ሉ (colloquial conversational usage for The Fidel Abugida  7 Orders   Families)"
           ],
           "answerIndex": 0,
           "explanation": "«ሎ» represents the 7th order [lo]."
@@ -550,10 +550,10 @@
         {
           "prompt": "Select the Amharic word meaning \"lemon\" spelled with «ሎ» [lo] and «ሚ» [mi]:",
           "options": [
-            "ሎሚ (Lomi - Lemon)",
-            "ላም (Lam - Cow)",
-            "ሰው (Sew - Person)",
-            "ውሃ (Weha - Water)"
+            "ሎሚ (lomi — lemon ሎ lo + ሚ mi)",
+            "ላም (lam — cow ላ la + ም m)",
+            "ሰው (säw — person / human ሰ sä + ው w)",
+            "ውሃ (wəha — water ው wə + ሃ ha)"
           ],
           "answerIndex": 0,
           "explanation": "«ሎ» [lo] + «ሚ» [mi] = «ሎሚ» (*lomi* - lemon)."
@@ -643,10 +643,10 @@
         {
           "prompt": "When greeting a male friend in Amharic, which form of \"How are you?\" is grammatically correct?",
           "options": [
-            "እንደምን ነህ? (male)",
-            "እንደምን ነሽ? (female)",
-            "እንደምን ኖት? (formal)",
-            "ደህና ነኝ (Dehna negn - I am well)"
+            "እንደምን ነህ? (standard target expression for Fidel Families 2   Gender Greetings)",
+            "እንደምን ነሽ? (contextual contrast form in Fidel Families 2   Gender Greetings)",
+            "እንደምን ኖት? (Endemen not? — How are you? respectful / formal)",
+            "ደህና ነኝ (colloquial conversational usage for Fidel Families 2   Gender Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን ነህ?» (*Endemen neh?*) uses the 2nd-person masculine suffix «-ህ» (-h)."
@@ -654,10 +654,10 @@
         {
           "prompt": "What is the universal Amharic greeting meaning \"Peace / Hello\"?",
           "options": [
-            "ሰላም (Selam - Hello / Peace)",
-            "ሎሚ (Lomi - Lemon)",
-            "ላም (Lam - Cow)",
-            "ውሃ (Weha - Water)"
+            "ሰላም (standard target expression for Fidel Families 2   Gender Greetings)",
+            "ሎሚ (lomi — lemon ሎ lo + ሚ mi)",
+            "ላም (lam — cow ላ la + ም m)",
+            "ውሃ (wəha — water ው wə + ሃ ha)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰላም» (*Selam*) means peace and serves as the universal greeting."
@@ -669,10 +669,10 @@
         {
           "prompt": "How do you politely ask a woman \"How are you?\" in Amharic?",
           "options": [
-            "እንደምን ነሽ? (female)",
-            "እንደምን ነህ? (male)",
-            "እንደምን ኖት? (formal)",
-            "ሰላም ሁን (male)"
+            "እንደምን ነሽ? (standard target expression for Fidel Families 2   Gender Greetings)",
+            "እንደምን ነህ? (contextual contrast form in Fidel Families 2   Gender Greetings)",
+            "እንደምን ኖት? (Endemen not? — How are you? respectful / formal)",
+            "ሰላም ሁን (colloquial conversational usage for Fidel Families 2   Gender Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን ነሽ?» (*Endemen nesh?*) uses the 2nd-person feminine suffix «-ሽ» (-sh)."
@@ -680,10 +680,10 @@
         {
           "prompt": "Select the traditional Amharic response meaning \"I am well, praise be to God\":",
           "options": [
-            "ደህና ነኝ፣ እግዚአብሔር ይመስገን (Dehna negn, Egziabher ymesgen - I am well, thank God)",
-            "ስሜ ዳዊት ነው (Sme Dawit new - My name is Dawit)",
-            "ቻው (Chaw - Bye / Ciao)",
-            "አይደለም (Aydelem - No / It is not)"
+            "ደህና ነኝ፣ እግዚአብሔር ይመስገን (standard target expression for Fidel Families 2   Gender Greetings)",
+            "ስሜ ዳዊት ነው (contextual contrast form in Fidel Families 2   Gender Greetings)",
+            "ቻው (formal register distinction for Fidel Families 2   Gender Greetings)",
+            "አይደለም (colloquial conversational usage for Fidel Families 2   Gender Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "«ደህና ነኝ፣ እግዚአብሔር ይመስገን» is the standard authentic response."
@@ -696,10 +696,10 @@
           "type": "multiple-choice",
           "prompt": "Which greeting is used when addressing an esteemed elder, professor, or dignitary respectfully?",
           "options": [
-            "እንደምን ኖት? (formal)",
-            "እንደምን ነህ? (male)",
-            "እንደምን ነሽ? (female)",
-            "ቻው (Chaw - Bye / Ciao)"
+            "እንደምን ኖት? (Endemen not? — How are you? respectful / formal)",
+            "እንደምን ነህ? (contextual contrast form in Fidel Families 2   Gender Greetings)",
+            "እንደምን ነሽ? (formal register distinction for Fidel Families 2   Gender Greetings)",
+            "ቻው (colloquial conversational usage for Fidel Families 2   Gender Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን ኖት?» (*Endemen not?*) is the formal honorific form."
@@ -762,10 +762,10 @@
         {
           "prompt": "Which Amharic greeting is used to say \"Good morning\" to a woman?",
           "options": [
-            "እንደምን አደርሽ? (female)",
-            "እንደምን አደርክ? (male)",
-            "እንደምን ዋልክ? (male)",
-            "እንደምን አመሸህ? (male)"
+            "እንደምን አደርሽ? (standard target expression for Time of Day Greetings   Asking Names)",
+            "እንደምን አደርክ? (contextual contrast form in Time of Day Greetings   Asking Names)",
+            "እንደምን ዋልክ? (formal register distinction for Time of Day Greetings   Asking Names)",
+            "እንደምን አመሸህ? (Endemen amesheh? — Good evening! to male)"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን አደርሽ?» (*Endemen adersh?*) is \"Good morning\" addressed to a woman."
@@ -773,10 +773,10 @@
         {
           "prompt": "How do you ask a man \"What is your name?\" in Amharic?",
           "options": [
-            "ስምህ ማን ነው? (male)",
-            "ስምሽ ማን ነው? (female)",
-            "ስሜ ዳዊት ነው (Sme Dawit new - My name is Dawit)",
-            "እንደምን ነህ? (male)"
+            "ስምህ ማን ነው? (standard target expression for Time of Day Greetings   Asking Names)",
+            "ስምሽ ማን ነው? (contextual contrast form in Time of Day Greetings   Asking Names)",
+            "ስሜ ዳዊት ነው (formal register distinction for Time of Day Greetings   Asking Names)",
+            "እንደምን ነህ? (colloquial conversational usage for Time of Day Greetings   Asking Names)"
           ],
           "answerIndex": 0,
           "explanation": "«ስምህ ማን ነው?» (*Smeh man new?*) is used for males."
@@ -788,10 +788,10 @@
         {
           "prompt": "Select the Amharic sentence meaning \"My name is Dawit\":",
           "options": [
-            "ስሜ ዳዊት ነው (Sme Dawit new - My name is Dawit)",
-            "ስምህ ማን ነው? (male)",
-            "እንደምን ነህ? (male)",
-            "ደህና ሁን (male)"
+            "ስሜ ዳዊት ነው (standard target expression for Time of Day Greetings   Asking Names)",
+            "ስምህ ማን ነው? (contextual contrast form in Time of Day Greetings   Asking Names)",
+            "እንደምን ነህ? (formal register distinction for Time of Day Greetings   Asking Names)",
+            "ደህና ሁን (colloquial conversational usage for Time of Day Greetings   Asking Names)"
           ],
           "answerIndex": 0,
           "explanation": "«ስሜ ዳዊት ነው» (*Sme Dawit new*) means \"My name is Dawit\"."
@@ -799,10 +799,10 @@
         {
           "prompt": "Which phrase is used to greet someone in the afternoon (\"Good afternoon\" to a male)?",
           "options": [
-            "እንደምን ዋልክ? (male)",
-            "እንደምን አደርክ? (male)",
-            "እንደምን አመሸህ? (male)",
-            "ደህና ሁን (male)"
+            "እንደምን ዋልክ? (standard target expression for Time of Day Greetings   Asking Names)",
+            "እንደምን አደርክ? (contextual contrast form in Time of Day Greetings   Asking Names)",
+            "እንደምን አመሸህ? (Endemen amesheh? — Good evening! to male)",
+            "ደህና ሁን (colloquial conversational usage for Time of Day Greetings   Asking Names)"
           ],
           "answerIndex": 0,
           "explanation": "«እንደምን ዋልክ?» (*Endemen walk?*) is the afternoon greeting."
@@ -881,10 +881,10 @@
         {
           "prompt": "What is the standard Amharic word for \"Thank you\"?",
           "options": [
-            "አመሰግናለሁ (Ameseginalehu - Thank you)",
-            "ይቅርታ (Ykrta - Excuse me / Sorry)",
-            "ምንም አይደለም (Mnem aydelem - You are welcome / No problem)",
-            "ሰላም (Selam - Peace / Hello)"
+            "አመሰግናለሁ (standard target expression for Gratitude  Apologies   Politeness)",
+            "ይቅርታ (contextual contrast form in Gratitude  Apologies   Politeness)",
+            "ምንም አይደለም (formal register distinction for Gratitude  Apologies   Politeness)",
+            "ሰላም (colloquial conversational usage for Gratitude  Apologies   Politeness)"
           ],
           "answerIndex": 0,
           "explanation": "«አመሰግናለሁ» (*Amesegenalehu*) is the standard phrase for \"Thank you\"."
@@ -892,10 +892,10 @@
         {
           "prompt": "When someone thanks you in Amharic, what is the correct response meaning \"You are welcome / It is nothing\"?",
           "options": [
-            "ምንም አይደለም (Mnem aydelem - You are welcome / No problem)",
-            "አመሰግናለሁ (Ameseginalehu - Thank you)",
-            "ይቅርታ (Ykrta - Excuse me / Sorry)",
-            "እንደምን ነህ? (male)"
+            "ምንም አይደለም (standard target expression for Gratitude  Apologies   Politeness)",
+            "አመሰግናለሁ (contextual contrast form in Gratitude  Apologies   Politeness)",
+            "ይቅርታ (formal register distinction for Gratitude  Apologies   Politeness)",
+            "እንደምን ነህ? (colloquial conversational usage for Gratitude  Apologies   Politeness)"
           ],
           "answerIndex": 0,
           "explanation": "«ምንም አይደለም» (*Menem aydellem*) is the polite response to \"thank you\"."
@@ -907,10 +907,10 @@
         {
           "prompt": "Select the Amharic word used to say \"Excuse me\" or \"I am sorry\":",
           "options": [
-            "ይቅርታ (Ykrta - Excuse me / Sorry)",
-            "አመሰግናለሁ (Ameseginalehu - Thank you)",
-            "ምንም አይደለም (Mnem aydelem - You are welcome / No problem)",
-            "ሰላም (Selam - Peace / Hello)"
+            "ይቅርታ (standard target expression for Gratitude  Apologies   Politeness)",
+            "አመሰግናለሁ (contextual contrast form in Gratitude  Apologies   Politeness)",
+            "ምንም አይደለም (formal register distinction for Gratitude  Apologies   Politeness)",
+            "ሰላም (colloquial conversational usage for Gratitude  Apologies   Politeness)"
           ],
           "answerIndex": 0,
           "explanation": "«ይቅርታ» (*Yeqerta*) means \"Excuse me / I am sorry\"."
@@ -918,10 +918,10 @@
         {
           "prompt": "How do you say \"Please\" when addressing an esteemed elder or formal superior?",
           "options": [
-            "እባክዎ (formal)",
-            "እባክህ (male)",
-            "እባክሽ (female)",
-            "ቻው (Chaw - Bye / Ciao)"
+            "እባክዎ (standard target expression for Gratitude  Apologies   Politeness)",
+            "እባክህ (contextual contrast form in Gratitude  Apologies   Politeness)",
+            "እባክሽ (formal register distinction for Gratitude  Apologies   Politeness)",
+            "ቻው (colloquial conversational usage for Gratitude  Apologies   Politeness)"
           ],
           "answerIndex": 0,
           "explanation": "«እባክዎ» (*Ebakwo*) is the formal honorific form of \"please\"."
@@ -1000,10 +1000,10 @@
         {
           "prompt": "Which Amharic farewell is used to say \"Goodbye / Stay well\" to a woman?",
           "options": [
-            "ደህና ሁኚ (female)",
-            "ደህና ሁን (male)",
-            "ደህና ሁኑ (plural)",
-            "እንደምን ነሽ? (female)"
+            "ደህና ሁኚ (standard target expression for Farewells  Wishes   Unit 1 Synthesis)",
+            "ደህና ሁን (contextual contrast form in Farewells  Wishes   Unit 1 Synthesis)",
+            "ደህና ሁኑ (formal register distinction for Farewells  Wishes   Unit 1 Synthesis)",
+            "እንደምን ነሽ? (colloquial conversational usage for Farewells  Wishes   Unit 1 Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "«ደህና ሁኚ» (*Dehna huñi*) is addressed to a woman."
@@ -1011,10 +1011,10 @@
         {
           "prompt": "Select the Amharic phrase meaning \"Have a nice day!\":",
           "options": [
-            "መልካም ቀን! (Melkam qen! - Have a good day!)",
-            "መልካም ሌሊት! (Melkam lelit! - Good night!)",
-            "ስሜ ዳዊት ነው (Sme Dawit new - My name is Dawit)",
-            "አመሰግናለሁ (Ameseginalehu - Thank you)"
+            "መልካም ቀን! (standard target expression for Farewells  Wishes   Unit 1 Synthesis)",
+            "መልካም ሌሊት! (contextual contrast form in Farewells  Wishes   Unit 1 Synthesis)",
+            "ስሜ ዳዊት ነው (formal register distinction for Farewells  Wishes   Unit 1 Synthesis)",
+            "አመሰግናለሁ (colloquial conversational usage for Farewells  Wishes   Unit 1 Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "«መልካም ቀን!» (*Melkam qen!*) means \"Have a nice day!\"."
@@ -1026,10 +1026,10 @@
         {
           "prompt": "How do you say \"Have a nice evening!\" in Amharic?",
           "options": [
-            "መልካም ምሽት! (Melkam mshet! - Have a good evening!)",
-            "መልካም ቀን! (Melkam qen! - Have a good day!)",
-            "መልካም ሌሊት! (Melkam lelit! - Good night!)",
-            "ሰላም (Selam - Peace / Hello)"
+            "መልካም ምሽት! (standard target expression for Farewells  Wishes   Unit 1 Synthesis)",
+            "መልካም ቀን! (contextual contrast form in Farewells  Wishes   Unit 1 Synthesis)",
+            "መልካም ሌሊት! (formal register distinction for Farewells  Wishes   Unit 1 Synthesis)",
+            "ሰላም (colloquial conversational usage for Farewells  Wishes   Unit 1 Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "«መልካም ምሽት!» (*Melkam mshet!*) means \"Have a nice evening!\"."
@@ -1037,10 +1037,10 @@
         {
           "prompt": "What casual loanword is widely used in urban Ethiopia for \"Bye!\" among friends?",
           "options": [
-            "ቻው (casual)",
-            "ሰላም (Selam - Peace / Hello)",
-            "ሎሚ (Lomi - Lemon)",
-            "ውሃ (Weha - Water)"
+            "ቻው (standard target expression for Farewells  Wishes   Unit 1 Synthesis)",
+            "ሰላም (contextual contrast form in Farewells  Wishes   Unit 1 Synthesis)",
+            "ሎሚ (lomi — lemon ሎ lo + ሚ mi)",
+            "ውሃ (wəha — water ው wə + ሃ ha)"
           ],
           "answerIndex": 0,
           "explanation": "«ቻው» (*Chao*) is the standard informal urban farewell."
@@ -1114,10 +1114,10 @@
         {
           "prompt": "ለቀረበ ተባዕታይ ነገር (ለምሳሌ መጽሐፍ) 'ይህ ምንድን ነው?' ተብሎ ሲጠየቅ፣ ትክክለኛው ምላሽ የትኛው ነው?",
           "options": [
-            "ይህ አዲስ መጽሐፍ ነው። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "እሷ ወደ ትምህርት ቤት ሄደች። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "ትላንት ማታ ዝናብ ዘነበ። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "ሻይ መጠጣት እወዳለሁ። (yh/yhch/enazih/ya/yachi/enaziya)"
+            "ይህ አዲስ መጽሐፍ ነው። (standard target expression for Everyday Nouns   Demonstratives)",
+            "እሷ ወደ ትምህርት ቤት ሄደች። (contextual contrast form in Everyday Nouns   Demonstratives)",
+            "ትላንት ማታ ዝናብ ዘነበ። (formal register distinction for Everyday Nouns   Demonstratives)",
+            "ሻይ መጠጣት እወዳለሁ። (colloquial conversational usage for Everyday Nouns   Demonstratives)"
           ],
           "answerIndex": 0,
           "explanation": "«ይህ አዲስ መጽሐፍ ነው» ለተባዕታይ መጠይቅ የተሰጠ ትክክለኛ ምላሽ ነው።"
@@ -1129,10 +1129,10 @@
         {
           "prompt": "ለቀረበች አንስታይ ነገር (ለምሳሌ ወንበር) 'ይህች ምንድን ናት?' ተብሎ ሲጠየቅ፣ ትክክለኛው ምላሽ የትኛው ነው?",
           "options": [
-            "ይህች ቆንጆ ወንበር ናት። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "ያ ትልቅ ወንድም ነው። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "እነሱ እግር ኳስ ተጫወቱ። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "በጠዋት ቁርስ በላሁ። (yh/yhch/enazih/ya/yachi/enaziya)"
+            "ይህች ቆንጆ ወንበር ናት። (standard target expression for Everyday Nouns   Demonstratives)",
+            "ያ ትልቅ ወንድም ነው። (contextual contrast form in Everyday Nouns   Demonstratives)",
+            "እነሱ እግር ኳስ ተጫወቱ። (formal register distinction for Everyday Nouns   Demonstratives)",
+            "በጠዋት ቁርስ በላሁ። (colloquial conversational usage for Everyday Nouns   Demonstratives)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንስታይ ነገር «ይህች ... ናት» የሚለው ሰዋሰዋዊ መዋቅር ትክክለኛ ነው።"
@@ -1145,10 +1145,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛን አመልካች ተውላጠ ስሞች (ይህ፣ ይህች፣ ያ፣ ያቺ) በትክክል የለየው የትኛው ነው?",
           "options": [
-            "«ይህ» ለቀረበ ወንድ፣ «ይህች» ለቀረበች ሴት፣ «ያ» ለራቀ ወንድ፣ «ያቺ» ለራቀች ሴት ያገለግላሉ። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "«ይህ» ለራቀ ነገር ብቻ ያገለግላል። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "«ያቺ» ለብዙ ወንዶች ያገለግላል። (yh/yhch/enazih/ya/yachi/enaziya)",
-            "በአማርኛ አመልካች ቃላት የጾታ ልዩነት የላቸውም። (yh/yhch/enazih/ya/yachi/enaziya)"
+            "«ይህ» ለቀረበ ወንድ፣ «ይህች» ለቀረበች ሴት፣ «ያ» ለራቀ ወንድ፣ «ያቺ» ለራቀች ሴት ያገለግላሉ። (standard target expression for Everyday Nouns   Demonstratives)",
+            "«ይህ» ለራቀ ነገር ብቻ ያገለግላል። (contextual contrast form in Everyday Nouns   Demonstratives)",
+            "«ያቺ» ለብዙ ወንዶች ያገለግላል። (formal register distinction for Everyday Nouns   Demonstratives)",
+            "በአማርኛ አመልካች ቃላት የጾታ ልዩነት የላቸውም። (colloquial conversational usage for Everyday Nouns   Demonstratives)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ አመልካች ተውላጠ ስሞች የጾታና የርቀት ልዩነት አላቸው።"
@@ -1207,10 +1207,10 @@
         {
           "prompt": "ለአንስታይ ባለቤት (ለምሳሌ እህት ወይም እናት) ትክክለኛው የማሰሪያ አንቀጽ (Copula) የትኛው ነው?",
           "options": [
-            "እህቴ ጎበዝ ዶክተር ናት። (Core concept alternative form)",
-            "እህቴ ትልቅ መጽሐፍ ነው። (Core concept alternative form)",
-            "አባቴ ዛሬ መጣች። (Core concept alternative form)",
-            "ወንድሜ ምግብ አበሰለች። (Core concept alternative form)"
+            "እህቴ ጎበዝ ዶክተር ናት። (standard target expression for Noun Gender  Masculine   Feminine Distinction)",
+            "እህቴ ትልቅ መጽሐፍ ነው። (contextual contrast form in Noun Gender  Masculine   Feminine Distinction)",
+            "አባቴ ዛሬ መጣች። (formal register distinction for Noun Gender  Masculine   Feminine Distinction)",
+            "ወንድሜ ምግብ አበሰለች። (colloquial conversational usage for Noun Gender  Masculine   Feminine Distinction)"
           ],
           "answerIndex": 0,
           "explanation": "ለሴት ባለቤት «ናት» የሚለው ማሰሪያ አንቀጽ ጥቅም ላይ ይውላል።"
@@ -1222,10 +1222,10 @@
         {
           "prompt": "ለተባዕታይ ባለቤት (ለምሳሌ አባት ወይም ወንድም) ትክክለኛውን ሰዋሰዋዊ አረፍተ ነገር ይምረጡ:",
           "options": [
-            "አባቴ ደግ ሰው ነው። (Core concept alternative form)",
-            "አባቴ ቆንጆ እናት ናት። (Core concept alternative form)",
-            "ወንድሜ አዲስ ቀሚስ ለበሰች። (Core concept alternative form)",
-            "እህቴ ጎበዝ ገበሬ ነው። (Core concept alternative form)"
+            "አባቴ ደግ ሰው ነው። (standard target expression for Noun Gender  Masculine   Feminine Distinction)",
+            "አባቴ ቆንጆ እናት ናት። (contextual contrast form in Noun Gender  Masculine   Feminine Distinction)",
+            "ወንድሜ አዲስ ቀሚስ ለበሰች። (formal register distinction for Noun Gender  Masculine   Feminine Distinction)",
+            "እህቴ ጎበዝ ገበሬ ነው። (colloquial conversational usage for Noun Gender  Masculine   Feminine Distinction)"
           ],
           "answerIndex": 0,
           "explanation": "«አባቴ ደግ ሰው ነው» ተባዕታይ ጾታን በትክክል የጠበቀ አረፍተ ነገር ነው።"
@@ -1238,10 +1238,10 @@
           "type": "multiple-choice",
           "prompt": "በአማርኛ ቋንቋ የጾታ አጠቃቀምን በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ለተባዕታይ (wand)",
-            "ለወንድና ለሴት ሁልጊዜ «ነው» ብቻ ይባላል። (Core concept alternative form)",
-            "ለሴት «ነህ» ተብሎ ይጠየቃል። (Core concept alternative form)",
-            "በአማርኛ የስም ጾታ ልዩነት የለም። (Core concept alternative form)"
+            "ለተባዕታይ (standard target expression for Noun Gender  Masculine   Feminine Distinction)",
+            "ለወንድና ለሴት ሁልጊዜ «ነው» ብቻ ይባላል። (contextual contrast form in Noun Gender  Masculine   Feminine Distinction)",
+            "ለሴት «ነህ» ተብሎ ይጠየቃል። (formal register distinction for Noun Gender  Masculine   Feminine Distinction)",
+            "በአማርኛ የስም ጾታ ልዩነት የለም። (colloquial conversational usage for Noun Gender  Masculine   Feminine Distinction)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ለተባዕታይ «ነው»፣ ለአንስታይ «ናት» ጥቅም ላይ ይውላል።"
@@ -1300,10 +1300,10 @@
         {
           "prompt": "«ቤት» (House) የሚለውን ነጠላ ስም ወደ ብዙ ቁጥር ለመቀየር ትክክለኛው ቅጥያ የትኛው ነው?",
           "options": [
-            "ቤቶች (-och / -woch)",
-            "ቤታን (-och / -woch)",
-            "ቤትዎች (-och / -woch)",
-            "ቤቲን (-och / -woch)"
+            "ቤቶች (standard target expression for Noun Pluralization with)",
+            "ቤታን (contextual contrast form in Noun Pluralization with)",
+            "ቤትዎች (formal register distinction for Noun Pluralization with)",
+            "ቤቲን (colloquial conversational usage for Noun Pluralization with)"
           ],
           "answerIndex": 0,
           "explanation": "«ቤት» በተነባቢ ስለሚያልቅ «-ኦች» ተጨምሮ «ቤቶች» ይሆናል።"
@@ -1315,10 +1315,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ ከቁጥር ጋር በትክክል የተዋቀረውን የአማርኛ አረፍተ ነገር ይምረጡ:",
           "options": [
-            "በጠረጴዛው ላይ ሦስት ደብተር አለ። (-och / -woch)",
-            "በጠረጴዛው ላይ ሦስት ደብተሮች አለ። (-och / -woch)",
-            "አንድ ቤቶች አየሁ። (-och / -woch)",
-            "ብዙ መጽሐፍቶች አሉ። (-och / -woch)"
+            "በጠረጴዛው ላይ ሦስት ደብተር አለ። (standard target expression for Noun Pluralization with)",
+            "በጠረጴዛው ላይ ሦስት ደብተሮች አለ። (contextual contrast form in Noun Pluralization with)",
+            "አንድ ቤቶች አየሁ። (formal register distinction for Noun Pluralization with)",
+            "ብዙ መጽሐፍቶች አሉ። (colloquial conversational usage for Noun Pluralization with)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ከቁጥር በኋላ ስም በነጠላ ይመጣል (ሦስት ደብተር)።"
@@ -1331,10 +1331,10 @@
           "type": "multiple-choice",
           "prompt": "ለብዙ ቁጥር ስሞች የሚያገለግለው ትክክለኛው የማሰሪያ አንቀጽ (Copula) የትኛው ነው?",
           "options": [
-            "እነዚህ ጎበዝ ተማሪዎች ናቸው። (-och / -woch)",
-            "እነዚህ ጎበዝ ተማሪዎች ነው (-och / -woch)",
-            "እነዚህ ጎበዝ ተማሪዎች ናት (-och / -woch)",
-            "እነዚህ ጎበዝ ተማሪዎች ነኝ (-och / -woch)"
+            "እነዚህ ጎበዝ ተማሪዎች ናቸው። (standard target expression for Noun Pluralization with)",
+            "እነዚህ ጎበዝ ተማሪዎች ነው (contextual contrast form in Noun Pluralization with)",
+            "እነዚህ ጎበዝ ተማሪዎች ናት (formal register distinction for Noun Pluralization with)",
+            "እነዚህ ጎበዝ ተማሪዎች ነኝ (colloquial conversational usage for Noun Pluralization with)"
           ],
           "answerIndex": 0,
           "explanation": "ለብዙ ቁጥር «ናቸው» (They are) ጥቅም ላይ ይውላል።"
@@ -1393,10 +1393,10 @@
         {
           "prompt": "«መጽሐፍ» (Book) የሚለውን ቃል 'The book' ለማለት ትክክለኛው የወሳኝ ቅጥያ የትኛው ነው?",
           "options": [
-            "መጽሐፉ (Definite)",
-            "መጽሐፍዋ (Definite)",
-            "መጽሐፍኦች (Definite)",
-            "መጽሐፍና (Definite)"
+            "መጽሐፉ (standard target expression for The Definite Suffixes       and)",
+            "መጽሐፍዋ (contextual contrast form in The Definite Suffixes       and)",
+            "መጽሐፍኦች (formal register distinction for The Definite Suffixes       and)",
+            "መጽሐፍና (colloquial conversational usage for The Definite Suffixes       and)"
           ],
           "answerIndex": 0,
           "explanation": "«መጽሐፍ» በተነባቢ ስለሚያልቅ «-ኡ» ተጨምሮበት «መጽሐፉ» (The book) ይሆናል።"
@@ -1408,10 +1408,10 @@
         {
           "prompt": "«ልጅ» (Child/Girl) ለሴት ልጅ 'The girl' ለማለት ትክክለኛው የአንስታይ ወሳኝ ቅጽ የትኛው ነው?",
           "options": [
-            "ልጅቷ / ልጇ (Definite)",
-            "ልጁ (Definite)",
-            "ልጆች (Definite)",
-            "ልጃቸው (Definite)"
+            "ልጅቷ / ልጇ (standard target expression for The Definite Suffixes       and)",
+            "ልጁ (contextual contrast form in The Definite Suffixes       and)",
+            "ልጆች (formal register distinction for The Definite Suffixes       and)",
+            "ልጃቸው (colloquial conversational usage for The Definite Suffixes       and)"
           ],
           "answerIndex": 0,
           "explanation": "ለሴት ልጅ «ልጅቷ» ወይም «ልጇ» (The girl) ይባላል።"
@@ -1424,10 +1424,10 @@
           "type": "multiple-choice",
           "prompt": "የብዙ ቁጥር ስሞችን ወሳኝ (Definite Plural) የማድረጊያ ቅጥያ በትክክል ያሳየው የትኛው ነው?",
           "options": [
-            "ቤቶቹ (Definite)",
-            "ቤቱዋ (Definite)",
-            "ቤትዎች (Definite)",
-            "ቤታቸው (Definite)"
+            "ቤቶቹ (standard target expression for The Definite Suffixes       and)",
+            "ቤቱዋ (contextual contrast form in The Definite Suffixes       and)",
+            "ቤትዎች (formal register distinction for The Definite Suffixes       and)",
+            "ቤታቸው (colloquial conversational usage for The Definite Suffixes       and)"
           ],
           "answerIndex": 0,
           "explanation": "«ቤቶች» በሚለው የብዙ ቁጥር ላይ «-ኡ» ሲጨመር «ቤቶቹ» (The houses) ይሆናል።"
@@ -1486,10 +1486,10 @@
         {
           "prompt": "«ይህች አዲስ ጠረጴዛ ናት» በሚለው አረፍተ ነገር ውስጥ ትክክለኛው ሰዋሰዋዊ ትንተና የትኛው ነው?",
           "options": [
-            "«ይህች» አንስታይ አመልካች ሲሆን «ናት» የአንስታይ ማሰሪያ አንቀጽ ነው። (-w/-u/-wa/-wochu)",
-            "«ይህች» ለብዙ ቁጥር ብቻ ያገለግላል። (-w/-u/-wa/-wochu)",
-            "«ናት» የተባዕታይ ማሰሪያ አንቀጽ ነው። (-w/-u/-wa/-wochu)",
-            "አረፍተ ነገሩ ሰዋሰዋዊ ስህተት አለበት። (-w/-u/-wa/-wochu)"
+            "«ይህች» አንስታይ አመልካች ሲሆን «ናት» የአንስታይ ማሰሪያ አንቀጽ ነው። (standard target expression for Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "«ይህች» ለብዙ ቁጥር ብቻ ያገለግላል። (contextual contrast form in Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "«ናት» የተባዕታይ ማሰሪያ አንቀጽ ነው። (formal register distinction for Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "አረፍተ ነገሩ ሰዋሰዋዊ ስህተት አለበት። (colloquial conversational usage for Unit 2 Grand Synthesis   Everyday Noun Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "«ይህች» እና «ናት» የአንስታይ ጾታ ስምምነትን በትክክል የጠበቁ ናቸው።"
@@ -1501,10 +1501,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የጾታ፣ የቁጥር እና የወሳኝ ቅጥያ ህጎችን ሙሉ በሙሉ የጠበቀው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በመማሪያ ክፍሉ ውስጥ መጽሐፎቹን ያነባሉ። (-w/-u/-wa/-wochu)",
-            "ተማሪዎቹ መጽሐፉ ያነባል እሷ። (-w/-u/-wa/-wochu)",
-            "ይህ ወንበሮች ናት። (-w/-u/-wa/-wochu)",
-            "ሦስት ቤቶች መጣ። (-w/-u/-wa/-wochu)"
+            "ተማሪዎቹ በመማሪያ ክፍሉ ውስጥ መጽሐፎቹን ያነባሉ። (standard target expression for Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "ተማሪዎቹ መጽሐፉ ያነባል እሷ። (contextual contrast form in Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "ይህ ወንበሮች ናት። (formal register distinction for Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "ሦስት ቤቶች መጣ። (colloquial conversational usage for Unit 2 Grand Synthesis   Everyday Noun Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "«ተማሪዎቹ በመማሪያ ክፍሉ ውስጥ መጽሐፎቹን ያነባሉ» ትክክለኛ ሰዋሰዋዊ መዋቅር ነው።"
@@ -1517,10 +1517,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 2ን ዋና ዋና ሰዋሰዋዊ መርሆዎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "በአማርኛ ስሞች በጾታ (-och/-woch)",
-            "በአማርኛ ስሞች ምንም አይነት ቅጥያ አይወስዱም። (-w/-u/-wa/-wochu)",
-            "ለብዙ ቁጥር ሁልጊዜ «ናት» ጥቅም ላይ ይውላል። (-w/-u/-wa/-wochu)",
-            "ከቁጥር በኋላ ስሞች ሁልጊዜ ብዙ ቁጥር መሆን አለባቸው። (-w/-u/-wa/-wochu)"
+            "በአማርኛ ስሞች በጾታ (standard target expression for Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "በአማርኛ ስሞች ምንም አይነት ቅጥያ አይወስዱም። (contextual contrast form in Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "ለብዙ ቁጥር ሁልጊዜ «ናት» ጥቅም ላይ ይውላል። (formal register distinction for Unit 2 Grand Synthesis   Everyday Noun Mastery)",
+            "ከቁጥር በኋላ ስሞች ሁልጊዜ ብዙ ቁጥር መሆን አለባቸው። (colloquial conversational usage for Unit 2 Grand Synthesis   Everyday Noun Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ስሞች በጾታ፣ በቁጥር እና በወሳኝ ቅጥያዎች በትክክል ይረባሉ።"
@@ -1579,10 +1579,10 @@
         {
           "prompt": "«እኛ» (We) ከሚለው የግል ተውላጠ ስም ጋር የሚሄደው ትክክለኛው ማሰሪያ አንቀጽ የትኛው ነው?",
           "options": [
-            "እኛ ጎበዝ ሠራተኞች ነን። (Core concept alternative form)",
-            "እኛ ጎበዝ ሠራተኞች ነኝ። (Core concept alternative form)",
-            "እኛ ጎበዝ ሠራተኞች ናችሁ። (Core concept alternative form)",
-            "እኛ ጎበዝ ሠራተኞች ነህ። (Core concept alternative form)"
+            "እኛ ጎበዝ ሠራተኞች ነን። (standard target expression for Personal Pronouns   Copula Alignment)",
+            "እኛ ጎበዝ ሠራተኞች ነኝ። (contextual contrast form in Personal Pronouns   Copula Alignment)",
+            "እኛ ጎበዝ ሠራተኞች ናችሁ። (formal register distinction for Personal Pronouns   Copula Alignment)",
+            "እኛ ጎበዝ ሠራተኞች ነህ። (colloquial conversational usage for Personal Pronouns   Copula Alignment)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ» ከሚለው ባለቤት ጋር የሚሄደው ማሰሪያ አንቀጽ «ነን» ነው።"
@@ -1594,10 +1594,10 @@
         {
           "prompt": "ለአንዲት ሴት 'አንቺ ጎበዝ ዶክተር...' ለማለት ዓረፍተ ነገሩን የሚያጠናቅቀው ትክክለኛው ቃል የትኛው ነው?",
           "options": [
-            "ነሽ (Core concept key phrasing)",
-            "ነህ (Core concept alternative form)",
-            "ነኝ (Core concept alternative form)",
-            "ናቸው (Core concept alternative form)"
+            "ነሽ (standard target expression for Personal Pronouns   Copula Alignment)",
+            "ነህ (contextual contrast form in Personal Pronouns   Copula Alignment)",
+            "ነኝ (formal register distinction for Personal Pronouns   Copula Alignment)",
+            "ናቸው (colloquial conversational usage for Personal Pronouns   Copula Alignment)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንቺ የሚስማማው ማሰሪያ አንቀጽ «ነሽ» ነው።"
@@ -1610,10 +1610,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ የግል ተውላጠ ስሞችና የማሰሪያ አንቀጾች ጥምረት በትክክል የቀረበው በየትኛው ነው?",
           "options": [
-            "እኔ ነኝ፣ አንተ ነህ፣ አንቺ ነሽ፣ እሱ ነው፣ እሷ ናት፣ እኛ ነን። (Core concept alternative form)",
-            "እኔ ነህ፣ አንተ ነኝ፣ እሷ ነው፣ እሱ ናት። (Core concept alternative form)",
-            "እኛ ናችሁ፣ እናንተ ነን፣ እነሱ ነኝ። (Core concept alternative form)",
-            "እርስዎ ነህ፣ እሱ ነሽ። (Core concept alternative form)"
+            "እኔ ነኝ፣ አንተ ነህ፣ አንቺ ነሽ፣ እሱ ነው፣ እሷ ናት፣ እኛ ነን። (standard target expression for Personal Pronouns   Copula Alignment)",
+            "እኔ ነህ፣ አንተ ነኝ፣ እሷ ነው፣ እሱ ናት። (contextual contrast form in Personal Pronouns   Copula Alignment)",
+            "እኛ ናችሁ፣ እናንተ ነን፣ እነሱ ነኝ። (formal register distinction for Personal Pronouns   Copula Alignment)",
+            "እርስዎ ነህ፣ እሱ ነሽ። (colloquial conversational usage for Personal Pronouns   Copula Alignment)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የተውላጠ ስም እና የማሰሪያ አንቀጽ ስምምነት በትክክል ይዟል።"
@@ -1672,10 +1672,10 @@
         {
           "prompt": "«ቤት» (House) የሚለውን ቃል 'Our house' ለማለት ትክክለኛው የይዞታ ቅጥያ የትኛው ነው?",
           "options": [
-            "ቤታችን (Core concept key phrasing)",
-            "ቤቴ (Core concept alternative form)",
-            "ቤትህ (Core concept alternative form)",
-            "ቤታቸው (Core concept alternative form)"
+            "ቤታችን (standard target expression for Possessive Suffixes)",
+            "ቤቴ (contextual contrast form in Possessive Suffixes)",
+            "ቤትህ (formal register distinction for Possessive Suffixes)",
+            "ቤታቸው (colloquial conversational usage for Possessive Suffixes)"
           ],
           "answerIndex": 0,
           "explanation": "ለ'የኛ ቤት' የሚሆነው የይዞታ ቅጥያ «-አችን» ተጨምሮ «ቤታችን» ይሆናል።"
@@ -1687,10 +1687,10 @@
         {
           "prompt": "ለአንድ ወንድ 'Your book' ለማለት ትክክለኛው ቃል የትኛው ነው?",
           "options": [
-            "መጽሐፍህ (Core concept key phrasing)",
-            "መጽሐፍሽ (Core concept alternative form)",
-            "መጽሐፌ (Core concept alternative form)",
-            "መጽሐፋቸው (Core concept alternative form)"
+            "መጽሐፍህ (standard target expression for Possessive Suffixes)",
+            "መጽሐፍሽ (contextual contrast form in Possessive Suffixes)",
+            "መጽሐፌ (formal register distinction for Possessive Suffixes)",
+            "መጽሐፋቸው (colloquial conversational usage for Possessive Suffixes)"
           ],
           "answerIndex": 0,
           "explanation": "ለወንድ 'ያንተ መጽሐፍ' ለማለት «መጽሐፍህ» ይባላል።"
@@ -1703,10 +1703,10 @@
           "type": "multiple-choice",
           "prompt": "የይዞታ ቅጥያዎችን ትክክለኛ አጠቃቀም ያሳየው የትኛው ነው?",
           "options": [
-            "-ኤ/ዬ (yane)",
-            "-ህ የሴት ይዞታ ማሳያ ነው። (Core concept alternative form)",
-            "-ሽ የወንድ ይዞታ ማሳያ ነው። (Core concept alternative form)",
-            "በአማርኛ የይዞታ ቅጥያዎች የሉም። (Core concept alternative form)"
+            "-ኤ/ዬ (standard target expression for Possessive Suffixes)",
+            "-ህ የሴት ይዞታ ማሳያ ነው። (contextual contrast form in Possessive Suffixes)",
+            "-ሽ የወንድ ይዞታ ማሳያ ነው። (formal register distinction for Possessive Suffixes)",
+            "በአማርኛ የይዞታ ቅጥያዎች የሉም። (colloquial conversational usage for Possessive Suffixes)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የይዞታ ቅጥያዎች ስርዓት ያሳያል።"
@@ -1765,10 +1765,10 @@
         {
           "prompt": "«ወደ ትምህርት ቤት ሄደ» በሚለው ሐረግ ውስጥ «ወደ-» የሚያሳየው ምንን ነው?",
           "options": [
-            "አቅጣጫን ወይም መዳረሻን (inwithby  fromthan  totowards  forto U3)",
-            "መነሻ ቦታን (inwithby  fromthan  totowards  forto U3)",
-            "መሳሪያን (inwithby  fromthan  totowards  forto U3)",
-            "ባለቤትነትን (inwithby  fromthan  totowards  forto U3)"
+            "አቅጣጫን ወይም መዳረሻን (standard target expression for Basic Simple Prepositions)",
+            "መነሻ ቦታን (contextual contrast form in Basic Simple Prepositions)",
+            "መሳሪያን (formal register distinction for Basic Simple Prepositions)",
+            "ባለቤትነትን (colloquial conversational usage for Basic Simple Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "«ወደ-» የሚለው መስተዋድድ አቅጣጫንና መዳረሻን ያሳያል።"
@@ -1780,10 +1780,10 @@
         {
           "prompt": "'I am going from Addis Ababa to Hawassa' የሚለውን ሐሳብ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "ከአዲስ አበባ ወደ ሐዋሳ እሄዳለሁ። (inwithby  fromthan  totowards  forto U3)",
-            "በአዲስ አበባ ለአዋሳ እሄዳለሁ። (inwithby  fromthan  totowards  forto U3)",
-            "ለአዲስ አበባ ከሐዋሳ እሄዳለሁ። (inwithby  fromthan  totowards  forto U3)",
-            "ወደ አዲስ አበባ በሐዋሳ እሄዳለሁ። (inwithby  fromthan  totowards  forto U3)"
+            "ከአዲስ አበባ ወደ ሐዋሳ እሄዳለሁ። (standard target expression for Basic Simple Prepositions)",
+            "በአዲስ አበባ ለአዋሳ እሄዳለሁ። (contextual contrast form in Basic Simple Prepositions)",
+            "ለአዲስ አበባ ከሐዋሳ እሄዳለሁ። (formal register distinction for Basic Simple Prepositions)",
+            "ወደ አዲስ አበባ በሐዋሳ እሄዳለሁ። (colloquial conversational usage for Basic Simple Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "መነሻ «ከ-»፣ መዳረሻ «ወደ-» በትክክል ተጣምረዋል።"
@@ -1796,10 +1796,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ መሠረታዊ መስተዋድዶች (በ-፣ ከ-፣ ወደ-፣ ለ-) ትክክለኛ ተግባር የትኛው ነው?",
           "options": [
-            "«በ-» (inwithby  fromthan  totowards  forto U3)",
-            "«ወደ-» መነሻ ቦታን ብቻ ያሳያል። (inwithby  fromthan  totowards  forto U3)",
-            "«ለ-» አቅጣጫን ብቻ ያሳያል። (inwithby  fromthan  totowards  forto U3)",
-            "መስተዋድዶች ከስም ጋር አይጣበቁም። (inwithby  fromthan  totowards  forto U3)"
+            "«በ-» (standard target expression for Basic Simple Prepositions)",
+            "«ወደ-» መነሻ ቦታን ብቻ ያሳያል። (contextual contrast form in Basic Simple Prepositions)",
+            "«ለ-» አቅጣጫን ብቻ ያሳያል። (formal register distinction for Basic Simple Prepositions)",
+            "መስተዋድዶች ከስም ጋር አይጣበቁም። (colloquial conversational usage for Basic Simple Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "መስተዋድዶች የስሞችን የቦታ፣ አቅጣጫና መሳሪያዊ ግንኙነት ይገልጻሉ።"
@@ -1860,10 +1860,10 @@
         {
           "prompt": "«መጽሐፉ በጠረጴዛው ላይ ነው» በሚለው ዓረፍተ ነገር ውስጥ «በ...ላይ» ምንን ያመለክታል?",
           "options": [
-            "በአንድ ነገር የላይኛው ክፍል ላይ መገኘትን (Core concept alternative form)",
-            "በአንድ ነገር ውስጥ መሆንን (Core concept alternative form)",
-            "ከአንድ ነገር በታች መደበቅን (Core concept alternative form)",
-            "የጊዜ ቅደም ተከተልን (Core concept alternative form)"
+            "በአንድ ነገር የላይኛው ክፍል ላይ መገኘትን (standard target expression for Compound Prepositions)",
+            "በአንድ ነገር ውስጥ መሆንን (contextual contrast form in Compound Prepositions)",
+            "ከአንድ ነገር በታች መደበቅን (formal register distinction for Compound Prepositions)",
+            "የጊዜ ቅደም ተከተልን (colloquial conversational usage for Compound Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "«በ...ላይ» የአንድን ነገር የላይኛውን ገጽታ ወይም መገኛ ያሳያል።"
@@ -1875,10 +1875,10 @@
         {
           "prompt": "'I am sitting with my friend' የሚለውን ሐሳብ የሚያስተላልፈው ትክክለኛው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "እኔ ከጓደኛዬ ጋር ተቀምጫለሁ። (Core concept alternative form)",
-            "እኔ በጓደኛዬ ውስጥ ተቀምጫለሁ። (Core concept alternative form)",
-            "እኔ ወደ ጓደኛዬ በታች ተቀምጫለሁ። (Core concept alternative form)",
-            "እኔ ለጓደኛዬ ላይ ተቀምጫለሁ። (Core concept alternative form)"
+            "እኔ ከጓደኛዬ ጋር ተቀምጫለሁ። (standard target expression for Compound Prepositions)",
+            "እኔ በጓደኛዬ ውስጥ ተቀምጫለሁ። (contextual contrast form in Compound Prepositions)",
+            "እኔ ወደ ጓደኛዬ በታች ተቀምጫለሁ። (formal register distinction for Compound Prepositions)",
+            "እኔ ለጓደኛዬ ላይ ተቀምጫለሁ። (colloquial conversational usage for Compound Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "አብሮነትን ለመግለጽ «ከ...ጋር» ጥቅም ላይ ይውላል።"
@@ -1891,10 +1891,10 @@
           "type": "multiple-choice",
           "prompt": "ድርብ መስተዋድዶችን (በ...ውስጥ፣ በ...ላይ፣ ከ...በታች፣ ከ...ጋር) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "በክፍሉ ውስጥ (inside)",
-            "በክፍሉ ጋር (with room)",
-            "ወደ ወንበሩ ላይ (to chair)",
-            "በአማርኛ ድርብ መስተዋድዶች አይፈቀዱም። (Core concept alternative form)"
+            "በክፍሉ ውስጥ (standard target expression for Compound Prepositions)",
+            "በክፍሉ ጋር (contextual contrast form in Compound Prepositions)",
+            "ወደ ወንበሩ ላይ (formal register distinction for Compound Prepositions)",
+            "በአማርኛ ድርብ መስተዋድዶች አይፈቀዱም። (colloquial conversational usage for Compound Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛዎቹን ድርብ መስተዋድዶች በጥምረት ያሳያል።"
@@ -1953,10 +1953,10 @@
         {
           "prompt": "«እኛ ከቤታችን ወጥተን ወደ ትምህርት ቤት እንሄዳለን» በሚለው አረፍተ ነገር ውስጥ «ከ-» እና «ወደ-» የሚያሳዩት ምንድን ነው?",
           "options": [
-            "«ከ-» መነሻ ቦታን ሲያሳይ «ወደ-» መዳረሻ አቅጣጫን ያሳያል። (Core concept alternative form)",
-            "«ከ-» መዳረሻን፣ «ወደ-» መነሻን ያሳያሉ። (Core concept alternative form)",
-            "ሁለቱም ጊዜን ብቻ ያሳያሉ። (Core concept alternative form)",
-            "ሁለቱም ባለቤትነትን ያሳያሉ። (Core concept alternative form)"
+            "«ከ-» መነሻ ቦታን ሲያሳይ «ወደ-» መዳረሻ አቅጣጫን ያሳያል። (standard target expression for Unit 3 Grand Synthesis   Integrated Syntax)",
+            "«ከ-» መዳረሻን፣ «ወደ-» መነሻን ያሳያሉ። (contextual contrast form in Unit 3 Grand Synthesis   Integrated Syntax)",
+            "ሁለቱም ጊዜን ብቻ ያሳያሉ። (formal register distinction for Unit 3 Grand Synthesis   Integrated Syntax)",
+            "ሁለቱም ባለቤትነትን ያሳያሉ። (colloquial conversational usage for Unit 3 Grand Synthesis   Integrated Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "«ከ-» መነሻን (ከቤታችን)፣ «ወደ-» ደግሞ መዳረሻን (ወደ ትምህርት ቤት) ያሳያሉ።"
@@ -1968,10 +1968,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የባለቤትነት ቅጥያዎችን፣ መስተዋድዶችንና የግስ ስምምነትን ሙሉ በሙሉ የጠበቀው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ። (Core concept alternative form)",
-            "እኔ መጽሐፍህ በቦርሳሽ ውስጥ አደረገ እሷ። (Core concept alternative form)",
-            "እኛ ወደ ቤቴ ሄደች። (Core concept alternative form)",
-            "እነሱ ከትምህርት ቤት ጋር ነኝ። (Core concept alternative form)"
+            "እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ። (standard target expression for Unit 3 Grand Synthesis   Integrated Syntax)",
+            "እኔ መጽሐፍህ በቦርሳሽ ውስጥ አደረገ እሷ። (contextual contrast form in Unit 3 Grand Synthesis   Integrated Syntax)",
+            "እኛ ወደ ቤቴ ሄደች። (formal register distinction for Unit 3 Grand Synthesis   Integrated Syntax)",
+            "እነሱ ከትምህርት ቤት ጋር ነኝ። (colloquial conversational usage for Unit 3 Grand Synthesis   Integrated Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "«እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ» ሰዋሰዋዊ ህጎችን ሙሉ በሙሉ ያሟላ ነው።"
@@ -1984,10 +1984,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 3ን ዋና ዋና ሰዋሰዋዊ ህጎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የግል ተውላጠ ስሞች ከማሰሪያ አንቀጽ ጋር ይዛመዳሉ፤ ስሞች የይዞታ ቅጥያዎችን ይወስዳሉ፤ መስተዋድዶች (qalalna drb)",
-            "በአማርኛ የግል ተውላጠ ስሞችና ማሰሪያ አንቀጾች ምንም ግንኙነት የላቸውም። (Core concept alternative form)",
-            "መስተዋድዶች የሚገቡት በዓረፍተ ነገር መጨረሻ ላይ ብቻ ነው። (Core concept alternative form)",
-            "የይዞታ ቅጥያዎች ለወንድና ለሴት አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "የግል ተውላጠ ስሞች ከማሰሪያ አንቀጽ ጋር ይዛመዳሉ፤ ስሞች የይዞታ ቅጥያዎችን ይወስዳሉ፤ መስተዋድዶች (standard target expression for Unit 3 Grand Synthesis   Integrated Syntax)",
+            "በአማርኛ የግል ተውላጠ ስሞችና ማሰሪያ አንቀጾች ምንም ግንኙነት የላቸውም። (contextual contrast form in Unit 3 Grand Synthesis   Integrated Syntax)",
+            "መስተዋድዶች የሚገቡት በዓረፍተ ነገር መጨረሻ ላይ ብቻ ነው። (formal register distinction for Unit 3 Grand Synthesis   Integrated Syntax)",
+            "የይዞታ ቅጥያዎች ለወንድና ለሴት አንድ ዓይነት ናቸው። (colloquial conversational usage for Unit 3 Grand Synthesis   Integrated Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ተውላጠ ስሞች፣ የይዞታ ቅጥያዎች እና መስተዋድዶች የተቀናጀ ስርዓት አላቸው።"
@@ -2046,10 +2046,10 @@
         {
           "prompt": "«እኔ» (I) ከሚለው የግል ተውላጠ ስም ጋር «መማር» (To Learn) የሚለው ግስ በአሁን ጊዜ እንዴት ይረባል?",
           "options": [
-            "እማራለሁ (Core concept key phrasing)",
-            "ይማራል (Core concept alternative form)",
-            "ትማራለች (Core concept alternative form)",
-            "እንማራለን (Core concept alternative form)"
+            "እማራለሁ (standard target expression for Present   Habitual Tense Conjugation)",
+            "ይማራል (contextual contrast form in Present   Habitual Tense Conjugation)",
+            "ትማራለች (formal register distinction for Present   Habitual Tense Conjugation)",
+            "እንማራለን (colloquial conversational usage for Present   Habitual Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "«እኔ» በሚሆንበት ጊዜ «እ- ... -አለሁ» ቅጥያ ገብቶ «እማራለሁ» ይሆናል።"
@@ -2061,10 +2061,10 @@
         {
           "prompt": "«እሷ» (She) ከሚለው ባለቤት ጋር የሚስማማውን የአሁን ጊዜ ግስ ይምረጡ:",
           "options": [
-            "ትጽፋለች (Core concept key phrasing)",
-            "ይጽፋል (Core concept alternative form)",
-            "እጽፋለሁ (Core concept alternative form)",
-            "ይጽፋሉ (Core concept alternative form)"
+            "ትጽፋለች (standard target expression for Present   Habitual Tense Conjugation)",
+            "ይጽፋል (contextual contrast form in Present   Habitual Tense Conjugation)",
+            "እጽፋለሁ (formal register distinction for Present   Habitual Tense Conjugation)",
+            "ይጽፋሉ (colloquial conversational usage for Present   Habitual Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "ለእሷ የሚስማማው የአሁን ጊዜ ቅጥያ «ት- ... -አለች» (ትጽፋለች) ነው።"
@@ -2077,10 +2077,10 @@
           "type": "multiple-choice",
           "prompt": "የአሁን እና ልማዳዊ ጊዜ የግስ እርባታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እኔ እማራለሁ፣ እሱ ይማራል፣ እሷ ትማራለች፣ እኛ እንማራለን። (Core concept alternative form)",
-            "እኔ ይማራል፣ እሱ እማራለሁ። (Core concept alternative form)",
-            "እኛ ይማራሉ፣ እናንተ እንማራለን። (Core concept alternative form)",
-            "እሷ ትማራለህ፣ አንተ ትማራለች። (Core concept alternative form)"
+            "እኔ እማራለሁ፣ እሱ ይማራል፣ እሷ ትማራለች፣ እኛ እንማራለን። (standard target expression for Present   Habitual Tense Conjugation)",
+            "እኔ ይማራል፣ እሱ እማራለሁ። (contextual contrast form in Present   Habitual Tense Conjugation)",
+            "እኛ ይማራሉ፣ እናንተ እንማራለን። (formal register distinction for Present   Habitual Tense Conjugation)",
+            "እሷ ትማራለህ፣ አንተ ትማራለች። (colloquial conversational usage for Present   Habitual Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የግስ እርባታ ስምምነት ጠብቋል።"
@@ -2139,10 +2139,10 @@
         {
           "prompt": "«ቁርስ እበላለሁ» በሚለው አረፍተ ነገር ውስጥ «እበላለሁ» የሚለው ቃል ትርጉም ምንድን ነው?",
           "options": [
-            "እኔ እበላለሁ / I eat (Core concept alternative form)",
-            "እሱ ይበላል (Core concept alternative form)",
-            "እሷ ትጠጣለች (Core concept alternative form)",
-            "እኛ እንሄዳለን (Core concept alternative form)"
+            "እኔ እበላለሁ / I eat (standard target expression for Daily Routines   Common Verbs)",
+            "እሱ ይበላል (contextual contrast form in Daily Routines   Common Verbs)",
+            "እሷ ትጠጣለች (formal register distinction for Daily Routines   Common Verbs)",
+            "እኛ እንሄዳለን (colloquial conversational usage for Daily Routines   Common Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "«እበላለሁ» ከ«መብላት» ግስ የወጣ የአንደኛ መደብ ነጠላ የአሁን ጊዜ ግስ ነው።"
@@ -2154,10 +2154,10 @@
         {
           "prompt": "ለአንድ ወንድ 'ወደ ሥራ ትሄዳለህ?' ብሎ ለመጠየቅ ትክክለኛው አገላለጽ የትኛው ነው?",
           "options": [
-            "ወደ ሥራ ትሄዳለህ? (Core concept alternative form)",
-            "ወደ ሥራ እሄዳለሁ? (Core concept alternative form)",
-            "ወደ ሥራ ይሄዳሉ? (Core concept alternative form)",
-            "ወደ ሥራ ትሄጃለሽ? (Core concept alternative form)"
+            "ወደ ሥራ ትሄዳለህ? (standard target expression for Daily Routines   Common Verbs)",
+            "ወደ ሥራ እሄዳለሁ? (contextual contrast form in Daily Routines   Common Verbs)",
+            "ወደ ሥራ ይሄዳሉ? (formal register distinction for Daily Routines   Common Verbs)",
+            "ወደ ሥራ ትሄጃለሽ? (colloquial conversational usage for Daily Routines   Common Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንድ ወንድ «ትሄዳለህ?» ተብሎ ይጠየቃል።"
@@ -2170,10 +2170,10 @@
           "type": "multiple-choice",
           "prompt": "የዕለት ተዕለት ተግባራትን ቅደም ተከተል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በጠዋት እነሳለሁ፣ ቁርስ እበላለሁ፣ ወደ ሥራ እሄዳለሁ፣ ማታ እተኛለሁ። (Core concept alternative form)",
-            "ማታ እነሳለሁ፣ በጠዋት እተኛለሁ፣ ወደ ቤት እሄዳለሁ። (Core concept alternative form)",
-            "ቁርስ እተኛለሁ፣ ሥራ እጠጣለሁ። (Core concept alternative form)",
-            "በአማርኛ የዕለት ተግባራት አይገለጹም። (Core concept alternative form)"
+            "በጠዋት እነሳለሁ፣ ቁርስ እበላለሁ፣ ወደ ሥራ እሄዳለሁ፣ ማታ እተኛለሁ። (standard target expression for Daily Routines   Common Verbs)",
+            "ማታ እነሳለሁ፣ በጠዋት እተኛለሁ፣ ወደ ቤት እሄዳለሁ። (contextual contrast form in Daily Routines   Common Verbs)",
+            "ቁርስ እተኛለሁ፣ ሥራ እጠጣለሁ። (formal register distinction for Daily Routines   Common Verbs)",
+            "በአማርኛ የዕለት ተግባራት አይገለጹም። (colloquial conversational usage for Daily Routines   Common Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የዕለት ተዕለት ተግባራት ቅደም ተከተልና ግሶች ይዟል።"
@@ -2232,10 +2232,10 @@
         {
           "prompt": "«በየቀኑ» (Every day) የሚለው ቃል በአረፍተ ነገር ውስጥ የሚያሳየው ምንን ነው?",
           "options": [
-            "የድርጊትን የዕለት ተዕለት ድግግሞሽ (Core concept alternative form)",
-            "ያለፈን ጊዜ ብቻ (Core concept alternative form)",
-            "የቦታ ርቀትን (Core concept alternative form)",
-            "የስም ጾታን (Core concept alternative form)"
+            "የድርጊትን የዕለት ተዕለት ድግግሞሽ (standard target expression for Adverbs of Time   Frequency)",
+            "ያለፈን ጊዜ ብቻ (contextual contrast form in Adverbs of Time   Frequency)",
+            "የቦታ ርቀትን (formal register distinction for Adverbs of Time   Frequency)",
+            "የስም ጾታን (colloquial conversational usage for Adverbs of Time   Frequency)"
           ],
           "answerIndex": 0,
           "explanation": "«በየቀኑ» የድርጊትን የየቀን ድግግሞሽ ያሳያል።"
@@ -2247,10 +2247,10 @@
         {
           "prompt": "'Tomorrow we will study together' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ነገ አብረን እንማራለን። (Core concept alternative form)",
-            "ትላንት አብረን እንማራለን። (Core concept alternative form)",
-            "አሁን ብቻ ተማርን። (Core concept alternative form)",
-            "በጭራሽ አንማርም። (Core concept alternative form)"
+            "ነገ አብረን እንማራለን። (standard target expression for Adverbs of Time   Frequency)",
+            "ትላንት አብረን እንማራለን። (contextual contrast form in Adverbs of Time   Frequency)",
+            "አሁን ብቻ ተማርን። (formal register distinction for Adverbs of Time   Frequency)",
+            "በጭራሽ አንማርም። (colloquial conversational usage for Adverbs of Time   Frequency)"
           ],
           "answerIndex": 0,
           "explanation": "«ነገ» (Tomorrow) ከወደፊት/አሁን ጊዜ ግስ «እንማራለን» ጋር በትክክል ይጣመራል።"
@@ -2263,10 +2263,10 @@
           "type": "multiple-choice",
           "prompt": "የጊዜና የድግግሞሽ አመልካች ቃላትን ትክክለኛ ትርጉም ያጣመረው የትኛው ነው?",
           "options": [
-            "ሁልጊዜ (Always)",
-            "ሁልጊዜ (Never)",
-            "ነገ (Today)",
-            "በየቀኑ (Once a year)"
+            "ሁልጊዜ (standard target expression for Adverbs of Time   Frequency)",
+            "ሁልጊዜ (contextual contrast form in Adverbs of Time   Frequency)",
+            "ነገ (formal register distinction for Adverbs of Time   Frequency)",
+            "በየቀኑ (colloquial conversational usage for Adverbs of Time   Frequency)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የቃላት ፍቺ ይዟል።"
@@ -2325,10 +2325,10 @@
         {
           "prompt": "«እኔ አልበላም» በሚለው አረፍተ ነገር ውስጥ አሉታዊነትን ያመጡት ቅጥያዎች የትኞቹ ናቸው?",
           "options": [
-            "«አል-» እና «-ም» (Core concept key phrasing)",
-            "«እ-» እና «-አለሁ» (Core concept alternative form)",
-            "«ት-» እና «-አለች» (Core concept alternative form)",
-            "«ይ-» እና «-አል» (Core concept alternative form)"
+            "«አል-» እና «-ም» (standard target expression for Negative Present Tense)",
+            "«እ-» እና «-አለሁ» (contextual contrast form in Negative Present Tense)",
+            "«ት-» እና «-አለች» (formal register distinction for Negative Present Tense)",
+            "«ይ-» እና «-አል» (colloquial conversational usage for Negative Present Tense)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንደኛ መደብ አሉታዊ ቅጥያዎች «አል-» እና «-ም» (አልበላም) ናቸው።"
@@ -2340,10 +2340,10 @@
         {
           "prompt": "ለአንድ ወንድ 'You don't study' ለማለት ትክክለኛው አሉታዊ ግስ የትኛው ነው?",
           "options": [
-            "አትማርም (Core concept key phrasing)",
-            "አልማርም (Core concept alternative form)",
-            "አይማርም (Core concept alternative form)",
-            "አንማርም (Core concept alternative form)"
+            "አትማርም (standard target expression for Negative Present Tense)",
+            "አልማርም (contextual contrast form in Negative Present Tense)",
+            "አይማርም (formal register distinction for Negative Present Tense)",
+            "አንማርም (colloquial conversational usage for Negative Present Tense)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንተ «አት- ... -ም» (አትማርም) ይባላል።"
@@ -2356,10 +2356,10 @@
           "type": "multiple-choice",
           "prompt": "የአሁን ጊዜ አሉታዊ የግስ እርባታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እኔ አልጠጣም፣ እሱ አይጠጣም፣ እሷ አትጠጣም፣ እኛ አንጠጣም። (Core concept alternative form)",
-            "እኔ አይጠጣም፣ እሱ አልጠጣም። (Core concept alternative form)",
-            "እኛ አትጠጣም፣ እናንተ አንጠጣም። (Core concept alternative form)",
-            "በአማርኛ አሉታዊ ቅጥያ -ም የለም። (Core concept alternative form)"
+            "እኔ አልጠጣም፣ እሱ አይጠጣም፣ እሷ አትጠጣም፣ እኛ አንጠጣም። (standard target expression for Negative Present Tense)",
+            "እኔ አይጠጣም፣ እሱ አልጠጣም። (contextual contrast form in Negative Present Tense)",
+            "እኛ አትጠጣም፣ እናንተ አንጠጣም። (formal register distinction for Negative Present Tense)",
+            "በአማርኛ አሉታዊ ቅጥያ -ም የለም። (colloquial conversational usage for Negative Present Tense)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን አሉታዊ የግስ እርባታ ያሳያል።"
@@ -2418,10 +2418,10 @@
         {
           "prompt": "«እኔ ሻይ እጠጣለሁ፣ ነገር ግን ቡና አልጠጣም» በሚለው ዓረፍተ ነገር ውስጥ አዎንታዊ እና አሉታዊ ግሶቹ የትኞቹ ናቸው?",
           "options": [
-            "«እጠጣለሁ» አዎንታዊ ሲሆን «አልጠጣም» አሉታዊ ነው (Core concept alternative form)",
-            "ሁለቱም አዎንታዊ ናቸው (Core concept alternative form)",
-            "ሁለቱም አሉታዊ ናቸው (Core concept alternative form)",
-            "ምንም ግስ የለም (Core concept alternative form)"
+            "«እጠጣለሁ» አዎንታዊ ሲሆን «አልጠጣም» አሉታዊ ነው (standard target expression for Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "ሁለቱም አዎንታዊ ናቸው (contextual contrast form in Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "ሁለቱም አሉታዊ ናቸው (formal register distinction for Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "ምንም ግስ የለም (colloquial conversational usage for Unit 4 Grand Synthesis   Daily Routine Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "«እጠጣለሁ» (I drink) አዎንታዊ ሲሆን «አልጠጣም» (I don't drink) አሉታዊ ነው።"
@@ -2433,10 +2433,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የዕለት ተዕለት ተግባርን፣ የጊዜ አመልካችን እና ትክክለኛ የግስ ስምምነትን ያሟላው የትኛው ነው?",
           "options": [
-            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን። (Core concept alternative form)",
-            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እሄዳለሁ። (Core concept alternative form)",
-            "እሱ ሁልጊዜ ቁርስ አልበላም። (Core concept alternative form)",
-            "እነሱ ዛሬ ሥራ ይሠራሉ። (Core concept alternative form)"
+            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን። (standard target expression for Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እሄዳለሁ። (contextual contrast form in Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "እሱ ሁልጊዜ ቁርስ አልበላም። (formal register distinction for Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "እነሱ ዛሬ ሥራ ይሠራሉ። (colloquial conversational usage for Unit 4 Grand Synthesis   Daily Routine Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን» ባለቤትና ማሰሪያ አንቀጹን በትክክል ያዛመደ ነው።"
@@ -2449,10 +2449,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 4ን ዋና ዋና ሰዋሰዋዊ ህጎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የአሁን ጊዜ ግሶች በአዎንታዊ (e-...-alahu)",
-            "በአማርኛ ግሶች የአሁን ጊዜ የላቸውም። (Core concept alternative form)",
-            "አሉታዊ ለማድረግ ቃሉን መደጋገም ብቻ በቂ ነው። (Core concept alternative form)",
-            "ለብዙ ቁጥር እና ለነጠላ ቁጥር ግስ አንድ ዓይነት ነው። (Core concept alternative form)"
+            "የአሁን ጊዜ ግሶች በአዎንታዊ (standard target expression for Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "በአማርኛ ግሶች የአሁን ጊዜ የላቸውም። (contextual contrast form in Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "አሉታዊ ለማድረግ ቃሉን መደጋገም ብቻ በቂ ነው። (formal register distinction for Unit 4 Grand Synthesis   Daily Routine Discourse)",
+            "ለብዙ ቁጥር እና ለነጠላ ቁጥር ግስ አንድ ዓይነት ነው። (colloquial conversational usage for Unit 4 Grand Synthesis   Daily Routine Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 4ን ሰዋሰዋዊ መዋቅር ሙሉ በሙሉ ያጠቃልላል።"
@@ -2526,10 +2526,10 @@
         {
           "prompt": "'It is 4:30 (four and a half)' የሚለውን በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "አራት ሰዓት ተኩል (kat'awatu 12)",
-            "አራት ሰዓት ከሩብ (kat'awatu 12)",
-            "አራት ሰዓት ለሩብ ጉዳይ (kat'awatu 12)",
-            "አራት ሰዓት ሙሉ (kat'awatu 12)"
+            "አራት ሰዓት ተኩል (standard target expression for The Ethiopian 12 Hour Time System)",
+            "አራት ሰዓት ከሩብ (contextual contrast form in The Ethiopian 12 Hour Time System)",
+            "አራት ሰዓት ለሩብ ጉዳይ (formal register distinction for The Ethiopian 12 Hour Time System)",
+            "አራት ሰዓት ሙሉ (colloquial conversational usage for The Ethiopian 12 Hour Time System)"
           ],
           "answerIndex": 0,
           "explanation": "«ተኩል» የግማሽ ሰዓት (30 ደቂቃ) መግለጫ ሲሆን «አራት ሰዓት ተኩል» ማለት 4:30 ነው።"
@@ -2542,10 +2542,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን የሰዓት አቆጣጠር መርህ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቀኑ ከጠዋቱ 12 ሰዓት (kat'awatu 12)",
-            "የኢትዮጵያ ሰዓት ከእኩለ ሌሊት 12 ሰዓት ብቻ ይጀምራል። (kat'awatu 12)",
-            "በአማርኛ የደቂቃ አቆጣጠር የለም። (kat'awatu 12)",
-            "ሰዓት በኢትዮጵያ አይጠየቅም። (kat'awatu 12)"
+            "ቀኑ ከጠዋቱ 12 ሰዓት (standard target expression for The Ethiopian 12 Hour Time System)",
+            "የኢትዮጵያ ሰዓት ከእኩለ ሌሊት 12 ሰዓት ብቻ ይጀምራል። (contextual contrast form in The Ethiopian 12 Hour Time System)",
+            "በአማርኛ የደቂቃ አቆጣጠር የለም። (formal register distinction for The Ethiopian 12 Hour Time System)",
+            "ሰዓት በኢትዮጵያ አይጠየቅም። (colloquial conversational usage for The Ethiopian 12 Hour Time System)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የኢትዮጵያ ሰዓት አቆጣጠር መርህ ያብራራል።"
@@ -2604,10 +2604,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የሳምንቱ የመጀመሪያው የሥራ ቀን የትኛው ነው?",
           "options": [
-            "ሰኞ (Core concept key phrasing)",
-            "ቅዳሜ (Core concept alternative form)",
-            "እሑድ (Core concept alternative form)",
-            "ሐሙስ (Core concept alternative form)"
+            "ሰኞ (standard target expression for Days of the Week   Parts of the Day)",
+            "ቅዳሜ (contextual contrast form in Days of the Week   Parts of the Day)",
+            "እሑድ (formal register distinction for Days of the Week   Parts of the Day)",
+            "ሐሙስ (colloquial conversational usage for Days of the Week   Parts of the Day)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰኞ» (Monday) የሳምንቱ የመጀመሪያው የሥራ ቀን ነው።"
@@ -2619,10 +2619,10 @@
         {
           "prompt": "'On Saturday and Sunday' የሚለውን ሐረግ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቅዳሜ እና እሑድ (Core concept alternative form)",
-            "ሰኞ እና ማክሰኞ (Core concept alternative form)",
-            "ረቡዕ እና ሐሙስ (Core concept alternative form)",
-            "ዓርብ እና ሰኞ (Core concept alternative form)"
+            "ቅዳሜ እና እሑድ (standard target expression for Days of the Week   Parts of the Day)",
+            "ሰኞ እና ማክሰኞ (contextual contrast form in Days of the Week   Parts of the Day)",
+            "ረቡዕ እና ሐሙስ (formal register distinction for Days of the Week   Parts of the Day)",
+            "ዓርብ እና ሰኞ (colloquial conversational usage for Days of the Week   Parts of the Day)"
           ],
           "answerIndex": 0,
           "explanation": "ቅዳሜ (Saturday) እና እሑድ (Sunday) የሳምንቱ መጨረሻ ቀናት ናቸው።"
@@ -2635,10 +2635,10 @@
           "type": "multiple-choice",
           "prompt": "ሰባቱን የሳምንቱ ቀናት በቅደም ተከተል በትክክል የዘረዘረው የትኛው ነው?",
           "options": [
-            "ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ፣ ቅዳሜ፣ እሑድ። (Core concept alternative form)",
-            "ቅዳሜ፣ እሑድ፣ ሰኞ፣ ዓርብ። (Core concept alternative form)",
-            "ማክሰኞ፣ ሰኞ፣ ሐሙስ፣ ረቡዕ። (Core concept alternative form)",
-            "በአማርኛ የሳምንቱ ቀናት አምስት ብቻ ናቸው። (Core concept alternative form)"
+            "ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ፣ ቅዳሜ፣ እሑድ። (standard target expression for Days of the Week   Parts of the Day)",
+            "ቅዳሜ፣ እሑድ፣ ሰኞ፣ ዓርብ። (contextual contrast form in Days of the Week   Parts of the Day)",
+            "ማክሰኞ፣ ሰኞ፣ ሐሙስ፣ ረቡዕ። (formal register distinction for Days of the Week   Parts of the Day)",
+            "በአማርኛ የሳምንቱ ቀናት አምስት ብቻ ናቸው። (colloquial conversational usage for Days of the Week   Parts of the Day)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሰባቱን ቀናት በትክክለኛ ቅደም ተከተላቸው ይዟል።"
@@ -2697,10 +2697,10 @@
         {
           "prompt": "ቀጠሮ ለማመቻቸት 'ይመቸኛል' የሚለው ቃል ምን ማለት ነው?",
           "options": [
-            "ይመቸኛል / It is convenient for me (Core concept alternative form)",
-            "አልፈልግም (Core concept alternative form)",
-            "አልመጣም (Core concept alternative form)",
-            "አረፈድኩ (Core concept alternative form)"
+            "ይመቸኛል / It is convenient for me (standard target expression for Appointments   Scheduling)",
+            "አልፈልግም (contextual contrast form in Appointments   Scheduling)",
+            "አልመጣም (formal register distinction for Appointments   Scheduling)",
+            "አረፈድኩ (colloquial conversational usage for Appointments   Scheduling)"
           ],
           "answerIndex": 0,
           "explanation": "«ይመቸኛል» የቀረበው ሰዓትና ቦታ አመቺ መሆኑን ያረጋግጣል።"
@@ -2712,10 +2712,10 @@
         {
           "prompt": "'When shall we meet?' የሚለውን ጥያቄ በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "መቼ እንገናኝ? (Core concept key phrasing)",
-            "የት ሄድክ? (Core concept alternative form)",
-            "ስንት ነው? (Core concept alternative form)",
-            "ምን በላህ? (Core concept alternative form)"
+            "መቼ እንገናኝ? (standard target expression for Appointments   Scheduling)",
+            "የት ሄድክ? (contextual contrast form in Appointments   Scheduling)",
+            "ስንት ነው? (formal register distinction for Appointments   Scheduling)",
+            "ምን በላህ? (colloquial conversational usage for Appointments   Scheduling)"
           ],
           "answerIndex": 0,
           "explanation": "«መቼ እንገናኝ?» የቀጠሮ ጊዜ ለመጠየቅ የሚያገለግል ትክክለኛ አገላለጽ ነው።"
@@ -2728,10 +2728,10 @@
           "type": "multiple-choice",
           "prompt": "የቀጠሮ አያያዝን እና ስምምነትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "መቼ እንገናኝ? ነገ ጠዋት በሦስት ሰዓት ይመቸኛል፤ በሰዓቱ እመጣለሁ። (Core concept alternative form)",
-            "መቼ እንገናኝ? ትላንት እመጣለሁ። (Core concept alternative form)",
-            "ቀጠሮ የለኝም ስለዚህ በሰዓቱ አረፈድኩ። (Core concept alternative form)",
-            "በአማርኛ ቀጠሮ አይያዝም። (Core concept alternative form)"
+            "መቼ እንገናኝ? ነገ ጠዋት በሦስት ሰዓት ይመቸኛል፤ በሰዓቱ እመጣለሁ። (standard target expression for Appointments   Scheduling)",
+            "መቼ እንገናኝ? ትላንት እመጣለሁ። (contextual contrast form in Appointments   Scheduling)",
+            "ቀጠሮ የለኝም ስለዚህ በሰዓቱ አረፈድኩ። (formal register distinction for Appointments   Scheduling)",
+            "በአማርኛ ቀጠሮ አይያዝም። (colloquial conversational usage for Appointments   Scheduling)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛና ምክንያታዊ የቀጠሮ ውይይት ነው።"
@@ -2790,10 +2790,10 @@
         {
           "prompt": "በኢትዮጵያ ከሰኔ እስከ ነሐሴ ያለው ዋናው የዝናብ ወቅት ምን ይባላል?",
           "options": [
-            "ክረምት (Core concept key phrasing)",
-            "በጋ (Core concept alternative form)",
-            "መኸር (Core concept alternative form)",
-            "ጸደይ (Core concept alternative form)"
+            "ክረምት (standard target expression for Seasons   Weather Basics)",
+            "በጋ (contextual contrast form in Seasons   Weather Basics)",
+            "መኸር (formal register distinction for Seasons   Weather Basics)",
+            "ጸደይ (colloquial conversational usage for Seasons   Weather Basics)"
           ],
           "answerIndex": 0,
           "explanation": "ከሰኔ እስከ ነሐሴ ያለው የዝናብ ወቅት «ክረምት» ይባላል።"
@@ -2805,10 +2805,10 @@
         {
           "prompt": "'Today is sunny' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ዛሬ ፀሐይ አለ። (Core concept alternative form)",
-            "ዛሬ በረዶ ዘነበ። (Core concept alternative form)",
-            "ዛሬ ሌሊት ነው። (Core concept alternative form)",
-            "ዛሬ ጨለማ ብቻ ነው። (Core concept alternative form)"
+            "ዛሬ ፀሐይ አለ። (standard target expression for Seasons   Weather Basics)",
+            "ዛሬ በረዶ ዘነበ። (contextual contrast form in Seasons   Weather Basics)",
+            "ዛሬ ሌሊት ነው። (formal register distinction for Seasons   Weather Basics)",
+            "ዛሬ ጨለማ ብቻ ነው። (colloquial conversational usage for Seasons   Weather Basics)"
           ],
           "answerIndex": 0,
           "explanation": "«ዛሬ ፀሐይ አለ» ወይም «ፀሐያማ ቀን ነው» ትክክለኛ የአየር ሁኔታ መግለጫ ነው።"
@@ -2821,10 +2821,10 @@
           "type": "multiple-choice",
           "prompt": "አራቱን የኢትዮጵያ ወቅቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ክረምት (znabama)",
-            "ክረምት ብቻ ነው ያለው። (Core concept alternative form)",
-            "በጋና ክረምት አንድ ዓይነት ናቸው። (Core concept alternative form)",
-            "በኢትዮጵያ ወቅቶች አይለወጡም። (Core concept alternative form)"
+            "ክረምት (standard target expression for Seasons   Weather Basics)",
+            "ክረምት ብቻ ነው ያለው። (contextual contrast form in Seasons   Weather Basics)",
+            "በጋና ክረምት አንድ ዓይነት ናቸው። (formal register distinction for Seasons   Weather Basics)",
+            "በኢትዮጵያ ወቅቶች አይለወጡም። (colloquial conversational usage for Seasons   Weather Basics)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን ወቅቶች ከነባህሪያቸው በትክክል ይገልጻል።"
@@ -2883,10 +2883,10 @@
         {
           "prompt": "«ዓርብ ከሰዓት በኋላ በአራት ሰዓት እንገናኝ» በሚለው አረፍተ ነገር ውስጥ የቀኑ ክፍለ-ጊዜ እና ሰዓቱ የትኛው ነው?",
           "options": [
-            "ከሰዓት በኋላ (Afternoon)",
-            "ጠዋት እና ስድስት ሰዓት (Core concept alternative form)",
-            "ሌሊት እና ሁለት ሰዓት (Core concept alternative form)",
-            "ቀትር ብቻ (Core concept alternative form)"
+            "ከሰዓት በኋላ (standard target expression for Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "ጠዋት እና ስድስት ሰዓት (contextual contrast form in Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "ሌሊት እና ሁለት ሰዓት (formal register distinction for Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "ቀትር ብቻ (colloquial conversational usage for Unit 5 Grand Synthesis   Daily Routine Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ቀኑ «ዓርብ»፣ ክፍለ-ጊዜው «ከሰዓት በኋላ»፣ ሰዓቱ ደግሞ «አራት ሰዓት» ነው።"
@@ -2898,10 +2898,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ ቀን፣ ሰዓት እና ትክክለኛ የቀጠሮ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "እኛ ማክሰኞ ጠዋት በሁለት ሰዓት ቀጠሮ አለን። (Core concept alternative form)",
-            "እኛ ትላንት ነገ እንሄዳለን። (Core concept alternative form)",
-            "ሰዓቱ ዝናብ ይበላል። (Core concept alternative form)",
-            "ቀጠሮ የለም ሰኞ ሌሊት። (Core concept alternative form)"
+            "እኛ ማክሰኞ ጠዋት በሁለት ሰዓት ቀጠሮ አለን። (standard target expression for Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "እኛ ትላንት ነገ እንሄዳለን። (contextual contrast form in Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "ሰዓቱ ዝናብ ይበላል። (formal register distinction for Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "ቀጠሮ የለም ሰኞ ሌሊት። (colloquial conversational usage for Unit 5 Grand Synthesis   Daily Routine Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቀን (ማክሰኞ)፣ ክፍለ-ጊዜ (ጠዋት)፣ ሰዓት (ሁለት ሰዓት) እና ቀጠሮን በትክክል አቀናጅቷል።"
@@ -2914,10 +2914,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 5ን ዋና ዋና ዕውቀቶች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ 12 ሰዓት አቆጣጠር፣ 7ቱ የሳምንቱ ቀናት፣ የቀጠሮ አነጋገር እና 4ቱ ወቅቶች በአግባቡ ተብራርተዋል። (Core concept alternative form)",
-            "በአማርኛ ሰዓትና ቀናት አይታወቁም። (Core concept alternative form)",
-            "ቀጠሮ ለመያዝ የእንግሊዝኛ ቃላት ብቻ ያስፈልጋሉ። (Core concept alternative form)",
-            "ክረምት እና በጋ አንድ ዓይነት ዝናብ አላቸው። (Core concept alternative form)"
+            "የኢትዮጵያ 12 ሰዓት አቆጣጠር፣ 7ቱ የሳምንቱ ቀናት፣ የቀጠሮ አነጋገር እና 4ቱ ወቅቶች በአግባቡ ተብራርተዋል። (standard target expression for Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "በአማርኛ ሰዓትና ቀናት አይታወቁም። (contextual contrast form in Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "ቀጠሮ ለመያዝ የእንግሊዝኛ ቃላት ብቻ ያስፈልጋሉ። (formal register distinction for Unit 5 Grand Synthesis   Daily Routine Discourse)",
+            "ክረምት እና በጋ አንድ ዓይነት ዝናብ አላቸው። (colloquial conversational usage for Unit 5 Grand Synthesis   Daily Routine Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የክፍል 5 ይዘት ያጠቃልላል።"
@@ -2976,10 +2976,10 @@
         {
           "prompt": "ከጤፍ ዱቄት የሚጋገረውና የኢትዮጵያ ዋናው ባህላዊ ምግብ መሠረት የሆነው ምንድን ነው?",
           "options": [
-            "እንጀራ (Core concept key phrasing)",
-            "ዳቦ (Core concept alternative form)",
-            "ፓስታ (Core concept alternative form)",
-            "ሩዝ (Core concept alternative form)"
+            "እንጀራ (standard target expression for Traditional Ethiopian Foods   Beverages)",
+            "ዳቦ (contextual contrast form in Traditional Ethiopian Foods   Beverages)",
+            "ፓስታ (formal register distinction for Traditional Ethiopian Foods   Beverages)",
+            "ሩዝ (colloquial conversational usage for Traditional Ethiopian Foods   Beverages)"
           ],
           "answerIndex": 0,
           "explanation": "«እንጀራ» ከጤፍ የሚዘጋጅ የኢትዮጵያ መሠረታዊ ባህላዊ ምግብ ነው።"
@@ -2991,10 +2991,10 @@
         {
           "prompt": "'We drink coffee from the Jebena' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የጀበና ቡና እንጠጣለን። (Core concept alternative form)",
-            "የጀበና ቡና እንበላለን። (Core concept alternative form)",
-            "ውኃ ብቻ እንጠጣለን። (Core concept alternative form)",
-            "ቡና አንወድም። (Core concept alternative form)"
+            "የጀበና ቡና እንጠጣለን። (standard target expression for Traditional Ethiopian Foods   Beverages)",
+            "የጀበና ቡና እንበላለን። (contextual contrast form in Traditional Ethiopian Foods   Beverages)",
+            "ውኃ ብቻ እንጠጣለን። (formal register distinction for Traditional Ethiopian Foods   Beverages)",
+            "ቡና አንወድም። (colloquial conversational usage for Traditional Ethiopian Foods   Beverages)"
           ],
           "answerIndex": 0,
           "explanation": "ቡና ፈሳሽ ስለሆነ ከ«መጠጣት» ግስ ጋር ተጣምሮ «የጀበና ቡና እንጠጣለን» ይባላል።"
@@ -3007,10 +3007,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያ ባህላዊ ምግቦችንና መጠጦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እንጀራ፣ ዶሮ ወጥ፣ ሽሮ፣ ክትፎ፣ ጥብስ እና ጀበና ቡና። (Core concept alternative form)",
-            "በርገር እና ፒዛ ብቻ። (Core concept alternative form)",
-            "በኢትዮጵያ ወጥ አይበላም። (Core concept alternative form)",
-            "ጠጅ እና ጠላ የምግብ አይነቶች ናቸው። (Core concept alternative form)"
+            "እንጀራ፣ ዶሮ ወጥ፣ ሽሮ፣ ክትፎ፣ ጥብስ እና ጀበና ቡና። (standard target expression for Traditional Ethiopian Foods   Beverages)",
+            "በርገር እና ፒዛ ብቻ። (contextual contrast form in Traditional Ethiopian Foods   Beverages)",
+            "በኢትዮጵያ ወጥ አይበላም። (formal register distinction for Traditional Ethiopian Foods   Beverages)",
+            "ጠጅ እና ጠላ የምግብ አይነቶች ናቸው። (colloquial conversational usage for Traditional Ethiopian Foods   Beverages)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ምግቦችንና መጠጦችን በትክክል ይዟል።"
@@ -3069,10 +3069,10 @@
         {
           "prompt": "በምግብ ቤት ውስጥ የበሉበትን ክፍያ ለመጠየቅ 'ሂሳብ ስንት ነው?' ማለት ምን ማለት ነው?",
           "options": [
-            "ሂሳብ ስንት ነው? / How much is the bill? (Core concept alternative form)",
-            "ምግቡ የት ነው? (Core concept alternative form)",
-            "ስምዎ ማን ነው? (Core concept alternative form)",
-            "ሰዓቱ ስንት ነው? (Core concept alternative form)"
+            "ሂሳብ ስንት ነው? / How much is the bill? (standard target expression for Ordering at a Restaurant)",
+            "ምግቡ የት ነው? (contextual contrast form in Ordering at a Restaurant)",
+            "ስምዎ ማን ነው? (formal register distinction for Ordering at a Restaurant)",
+            "ሰዓቱ ስንት ነው? (colloquial conversational usage for Ordering at a Restaurant)"
           ],
           "answerIndex": 0,
           "explanation": "«ሂሳብ ስንት ነው?» የክፍያ መጠየቂያ ትክክለኛ አገላለጽ ነው።"
@@ -3084,10 +3084,10 @@
         {
           "prompt": "'Please bring me water' የሚለውን ትህትና የተሞላበት ትዕዛዝ በአማርኛ የትኛው ነው?",
           "options": [
-            "እባክዎ ውኃ ያምጡልኝ። (Core concept alternative form)",
-            "ውኃ አልጠጣም። (Core concept alternative form)",
-            "ውኃ የለም። (Core concept alternative form)",
-            "ሂሳብ ክፈሉ። (Core concept alternative form)"
+            "እባክዎ ውኃ ያምጡልኝ። (standard target expression for Ordering at a Restaurant)",
+            "ውኃ አልጠጣም። (contextual contrast form in Ordering at a Restaurant)",
+            "ውኃ የለም። (formal register distinction for Ordering at a Restaurant)",
+            "ሂሳብ ክፈሉ። (colloquial conversational usage for Ordering at a Restaurant)"
           ],
           "answerIndex": 0,
           "explanation": "«እባክዎ ... ያምጡልኝ» በትህትና ለማዘዝ የሚያገለግል ነው።"
@@ -3100,10 +3100,10 @@
           "type": "multiple-choice",
           "prompt": "በምግብ ቤት ውስጥ የሚደረግን የተሟላ ውይይት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እባክዎ ሜኑ ያምጡልኝ -> አንድ ጥብስ አምጡልኝ -> ምግቡ ይጣፍጣል -> ሂሳብ ስንት ነው? (Core concept alternative form)",
-            "ሜኑ አልፈልግም -> ሂሳብ አልከፍልም። (Core concept alternative form)",
-            "ውኃ በላሁ -> ዳቦ ጠጣሁ። (Core concept alternative form)",
-            "በአማርኛ አስተናጋጅ አይጠራም። (Core concept alternative form)"
+            "እባክዎ ሜኑ ያምጡልኝ -> አንድ ጥብስ አምጡልኝ -> ምግቡ ይጣፍጣል -> ሂሳብ ስንት ነው? (standard target expression for Ordering at a Restaurant)",
+            "ሜኑ አልፈልግም -> ሂሳብ አልከፍልም። (contextual contrast form in Ordering at a Restaurant)",
+            "ውኃ በላሁ -> ዳቦ ጠጣሁ። (formal register distinction for Ordering at a Restaurant)",
+            "በአማርኛ አስተናጋጅ አይጠራም። (colloquial conversational usage for Ordering at a Restaurant)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የምግብ ቤት ቅደም ተከተል ያሳያል።"
@@ -3162,10 +3162,10 @@
         {
           "prompt": "የአንድ ዕቃ ዋጋ ከፍ ሲልና ቅናሽ ሲፈለግ ምን ይባላል?",
           "options": [
-            "ውድ ነው፣ እባክዎ ቀንስልኝ (snt naw? basnt br naw?)",
-            "ርካሽ ነው፣ ጨምርበት (snt naw? basnt br naw?)",
-            "ነፃ ነው (snt naw? basnt br naw?)",
-            "አልገዛም (snt naw? basnt br naw?)"
+            "ውድ ነው፣ እባክዎ ቀንስልኝ (standard target expression for Market Shopping   Bargaining)",
+            "ርካሽ ነው፣ ጨምርበት (contextual contrast form in Market Shopping   Bargaining)",
+            "ነፃ ነው (formal register distinction for Market Shopping   Bargaining)",
+            "አልገዛም (colloquial conversational usage for Market Shopping   Bargaining)"
           ],
           "answerIndex": 0,
           "explanation": "«ውድ ነው፣ እባክዎ ቀንስልኝ» ዋጋ ለመደራደር የሚያገለግል የተለመደ አነጋገር ነው።"
@@ -3177,10 +3177,10 @@
         {
           "prompt": "'What is the final price?' የሚለውን በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "የመጨረሻው ዋጋ ስንት ነው? (snt naw? basnt br naw?)",
-            "የመጀመሪያው ስም ማን ነው? (snt naw? basnt br naw?)",
-            "የት ሄደ? (snt naw? basnt br naw?)",
-            "ስንት ሰዓት ነው? (snt naw? basnt br naw?)"
+            "የመጨረሻው ዋጋ ስንት ነው? (standard target expression for Market Shopping   Bargaining)",
+            "የመጀመሪያው ስም ማን ነው? (contextual contrast form in Market Shopping   Bargaining)",
+            "የት ሄደ? (formal register distinction for Market Shopping   Bargaining)",
+            "ስንት ሰዓት ነው? (colloquial conversational usage for Market Shopping   Bargaining)"
           ],
           "answerIndex": 0,
           "explanation": "«የመጨረሻው ዋጋ ስንት ነው?» የመጨረሻውን የድርድር ዋጋ ለማወቅ ይጠየቃል።"
@@ -3193,10 +3193,10 @@
           "type": "multiple-choice",
           "prompt": "በገበያ ውስጥ ትክክለኛውን የግዢ እና የድርድር ቅደም ተከተል የያዘው የትኛው ነው?",
           "options": [
-            "ዋጋው ስንት ነው? -> ውድ ነው ቀንስልኝ -> የመጨረሻው ዋጋ አንድ መቶ ብር ነው -> በቴሌብር ከፈልኩ። (snt naw? basnt br naw?)",
-            "ገንዘብ አልሰጥም -> ዕቃውን ወሰድኩ። (snt naw? basnt br naw?)",
-            "ዋጋ ሳይጠየቅ ይከፈላል። (snt naw? basnt br naw?)",
-            "በመርካቶ ብር አይሰራም። (snt naw? basnt br naw?)"
+            "ዋጋው ስንት ነው? -> ውድ ነው ቀንስልኝ -> የመጨረሻው ዋጋ አንድ መቶ ብር ነው -> በቴሌብር ከፈልኩ። (standard target expression for Market Shopping   Bargaining)",
+            "ገንዘብ አልሰጥም -> ዕቃውን ወሰድኩ። (contextual contrast form in Market Shopping   Bargaining)",
+            "ዋጋ ሳይጠየቅ ይከፈላል። (formal register distinction for Market Shopping   Bargaining)",
+            "በመርካቶ ብር አይሰራም። (colloquial conversational usage for Market Shopping   Bargaining)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛና ጨዋነት የተሞላበት የግብይት ውይይት ነው።"
@@ -3255,10 +3255,10 @@
         {
           "prompt": "ፈሳሽ ነገሮችን (እንደ ወተትና ዘይት) ለመለካት የሚያገለግለው መለኪያ የትኛው ነው?",
           "options": [
-            "ሊትር (Core concept key phrasing)",
-            "ኪሎ (Core concept alternative form)",
-            "ሜትር (Core concept alternative form)",
-            "ሰዓት (Core concept alternative form)"
+            "ሊትር (standard target expression for Quantifiers   Measurements in the Market)",
+            "ኪሎ (contextual contrast form in Quantifiers   Measurements in the Market)",
+            "ሜትር (formal register distinction for Quantifiers   Measurements in the Market)",
+            "ሰዓት (colloquial conversational usage for Quantifiers   Measurements in the Market)"
           ],
           "answerIndex": 0,
           "explanation": "ፈሳሾች በ«ሊትር» ይለካሉ።"
@@ -3270,10 +3270,10 @@
         {
           "prompt": "'Give me half a kilo of butter' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ግማሽ ኪሎ ቅቤ ስጡኝ። (Core concept alternative form)",
-            "አንድ ሊትር ቅቤ ስጡኝ። (Core concept alternative form)",
-            "ቅቤ አልፈልግም። (Core concept alternative form)",
-            "አስር ኪሎ ቅቤ በላሁ። (Core concept alternative form)"
+            "ግማሽ ኪሎ ቅቤ ስጡኝ። (standard target expression for Quantifiers   Measurements in the Market)",
+            "አንድ ሊትር ቅቤ ስጡኝ። (contextual contrast form in Quantifiers   Measurements in the Market)",
+            "ቅቤ አልፈልግም። (formal register distinction for Quantifiers   Measurements in the Market)",
+            "አስር ኪሎ ቅቤ በላሁ። (colloquial conversational usage for Quantifiers   Measurements in the Market)"
           ],
           "answerIndex": 0,
           "explanation": "«ግማሽ ኪሎ ቅቤ ስጡኝ» ትክክለኛውን የክብደት መለኪያና ቅቤን ያጣመረ ነው።"
@@ -3286,10 +3286,10 @@
           "type": "multiple-choice",
           "prompt": "የመለኪያ ቃላትን እና ተዛማጅ ዕቃዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሁለት ኪሎ ሽንኩርት (litr lafasash)",
-            "አንድ ሊትር ሽንኩርት እና ሁለት ኪሎ ወተት። (Core concept alternative form)",
-            "በአማርኛ መለኪያዎች አይጠቀሱም። (Core concept alternative form)",
-            "ኪሎ ለጊዜ ብቻ ያገለግላል። (Core concept alternative form)"
+            "ሁለት ኪሎ ሽንኩርት (standard target expression for Quantifiers   Measurements in the Market)",
+            "አንድ ሊትር ሽንኩርት እና ሁለት ኪሎ ወተት። (contextual contrast form in Quantifiers   Measurements in the Market)",
+            "በአማርኛ መለኪያዎች አይጠቀሱም። (formal register distinction for Quantifiers   Measurements in the Market)",
+            "ኪሎ ለጊዜ ብቻ ያገለግላል። (colloquial conversational usage for Quantifiers   Measurements in the Market)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ኪሎን ለሽንኩርትና ሊትርን ለወተት በትክክል መድቧል።"
@@ -3348,10 +3348,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ በባህላዊ ምግብ ቤት ውስጥ የሚደረግን ትክክለኛ ንግግር የሚያሳየው የትኛው ነው?",
           "options": [
-            "እባክዎ አንድ ክትፎ ያምጡልን፣ ምግቡ በጣም ይጣፍጣል፣ ሂሳብ ስንት ነው? (Core concept alternative form)",
-            "ምግብ አልበላም ሂሳብ አምጡ (Core concept alternative form)",
-            "እንጀራ ጠጣሁ ቡና በላሁ (Core concept alternative form)",
-            "በሬስቶራንት ውስጥ ማዘዝ አይቻልም (Core concept alternative form)"
+            "እባክዎ አንድ ክትፎ ያምጡልን፣ ምግቡ በጣም ይጣፍጣል፣ ሂሳብ ስንት ነው? (standard target expression for Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "ምግብ አልበላም ሂሳብ አምጡ (contextual contrast form in Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "እንጀራ ጠጣሁ ቡና በላሁ (formal register distinction for Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "በሬስቶራንት ውስጥ ማዘዝ አይቻልም (colloquial conversational usage for Unit 6 Grand Synthesis   Culinary Market Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትዕዛዝን፣ ምስጋናን እና የሂሳብ ጥያቄን በአግባቡ ያጣመረ ነው።"
@@ -3363,10 +3363,10 @@
         {
           "prompt": "ገበያ ሄዶ መገበያየትን እና በምግብ ቤት መመገብን ያቀናጀው ትክክለኛ አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "በገበያ ሁለት ኪሎ ፍራፍሬ ገዛን፤ ከዚያም ቡና ጠጣን። (Core concept alternative form)",
-            "በገበያ ምንም የለም። (Core concept alternative form)",
-            "ሰዓቱ ኪሎ ይበላል። (Core concept alternative form)",
-            "ቴሌብር አይሰራም። (Core concept alternative form)"
+            "በገበያ ሁለት ኪሎ ፍራፍሬ ገዛን፤ ከዚያም ቡና ጠጣን። (standard target expression for Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "በገበያ ምንም የለም። (contextual contrast form in Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "ሰዓቱ ኪሎ ይበላል። (formal register distinction for Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "ቴሌብር አይሰራም። (colloquial conversational usage for Unit 6 Grand Synthesis   Culinary Market Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የገበያ መለኪያዎችንና የመጠጥ ግስን በትክክል ያዛምዳል።"
@@ -3379,10 +3379,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 6ን ዋና ዋና ርዕሰ ጉዳዮች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የባህላዊ ምግቦች ስሞች፣ በምግብ ቤት ማዘዝ፣ በገበያ ዋጋ መጠየቅና መደራደር፣ እንዲሁም መለኪያዎች ተካተዋል። (Core concept alternative form)",
-            "የክፍል 6 ትምህርት ስለ ስፖርት ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የገበያ ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም ምግቦች አንድ ዓይነት ስም አላቸው። (Core concept alternative form)"
+            "የባህላዊ ምግቦች ስሞች፣ በምግብ ቤት ማዘዝ፣ በገበያ ዋጋ መጠየቅና መደራደር፣ እንዲሁም መለኪያዎች ተካተዋል። (standard target expression for Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "የክፍል 6 ትምህርት ስለ ስፖርት ብቻ ነው። (contextual contrast form in Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "በአማርኛ የገበያ ቃላት የሉም። (formal register distinction for Unit 6 Grand Synthesis   Culinary Market Discourse)",
+            "ሁሉም ምግቦች አንድ ዓይነት ስም አላቸው። (colloquial conversational usage for Unit 6 Grand Synthesis   Culinary Market Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 6ን አጠቃላይ ይዘት ይሸፍናል።"
@@ -3441,10 +3441,10 @@
         {
           "prompt": "«እኛ» ከሚለው ተውላጠ ስም ጋር የሚስማማው የ«መሄድ» የኃላፊ ጊዜ ግስ የትኛው ነው?",
           "options": [
-            "ሄድን (Core concept key phrasing)",
-            "ሄድኩ (Core concept alternative form)",
-            "ሄደች (Core concept alternative form)",
-            "ሄዱ (Core concept alternative form)"
+            "ሄድን (standard target expression for Simple Past Tense Conjugation)",
+            "ሄድኩ (contextual contrast form in Simple Past Tense Conjugation)",
+            "ሄደች (formal register distinction for Simple Past Tense Conjugation)",
+            "ሄዱ (colloquial conversational usage for Simple Past Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ» ከሚለው ጋር የኃላፊ ጊዜ ቅጥያው «-ን» ሆኖ «ሄድን» ይሆናል።"
@@ -3456,10 +3456,10 @@
         {
           "prompt": "'She prepared lunch' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እሷ ምሳ አዘጋጀች። (Core concept alternative form)",
-            "እሷ ምሳ አዘጋጀሁ። (Core concept alternative form)",
-            "እሷ ምሳ አዘጋጀህ። (Core concept alternative form)",
-            "እሷ ምሳ አዘጋጁ። (Core concept alternative form)"
+            "እሷ ምሳ አዘጋጀች። (standard target expression for Simple Past Tense Conjugation)",
+            "እሷ ምሳ አዘጋጀሁ። (contextual contrast form in Simple Past Tense Conjugation)",
+            "እሷ ምሳ አዘጋጀህ። (formal register distinction for Simple Past Tense Conjugation)",
+            "እሷ ምሳ አዘጋጁ። (colloquial conversational usage for Simple Past Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "ለእሷ (3ኛ መደብ አንስታይ) የኃላፊ ቅጥያው «-ች» ሆኖ «አዘጋጀች» ይሆናል።"
@@ -3472,10 +3472,10 @@
           "type": "multiple-choice",
           "prompt": "የኃላፊ ጊዜ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እኔ በላሁ፣ አንተ በላህ፣ እሷ በላች፣ እኛ በላን። (Core concept alternative form)",
-            "እኔ በላች፣ እኛ በላሁ። (Core concept alternative form)",
-            "እሱ በላን፣ አንተ በላሽ። (Core concept alternative form)",
-            "በኃላፊ ጊዜ ሁሉም መደቦች አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "እኔ በላሁ፣ አንተ በላህ፣ እሷ በላች፣ እኛ በላን። (standard target expression for Simple Past Tense Conjugation)",
+            "እኔ በላች፣ እኛ በላሁ። (contextual contrast form in Simple Past Tense Conjugation)",
+            "እሱ በላን፣ አንተ በላሽ። (formal register distinction for Simple Past Tense Conjugation)",
+            "በኃላፊ ጊዜ ሁሉም መደቦች አንድ ዓይነት ናቸው። (colloquial conversational usage for Simple Past Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ለእያንዳንዱ መደብ ትክክለኛውን ቅጥያ ተጠቅሟል።"
@@ -3534,10 +3534,10 @@
         {
           "prompt": "ያለፈውን ቀን 'Yesterday' ለመግለጽ የሚያገለግለው ቃል የትኛው ነው?",
           "options": [
-            "ትላንትና (Core concept key phrasing)",
-            "ነገ (Core concept alternative form)",
-            "ዛሬ (Core concept alternative form)",
-            "ከነገ ወዲያ (Core concept alternative form)"
+            "ትላንትና (standard target expression for Past Actions   Time Markers)",
+            "ነገ (contextual contrast form in Past Actions   Time Markers)",
+            "ዛሬ (formal register distinction for Past Actions   Time Markers)",
+            "ከነገ ወዲያ (colloquial conversational usage for Past Actions   Time Markers)"
           ],
           "answerIndex": 0,
           "explanation": "«ትላንትና» ያለፈውን ቀን (Yesterday) ያመለክታል።"
@@ -3549,10 +3549,10 @@
         {
           "prompt": "'Last week we traveled' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ባለፈው ሳምንት ተጓዝን። (Core concept alternative form)",
-            "በሚመጣው ሳምንት እንጓዛለን። (Core concept alternative form)",
-            "ዛሬ እንጓዛለን። (Core concept alternative form)",
-            "ነገ ተጓዝን። (Core concept alternative form)"
+            "ባለፈው ሳምንት ተጓዝን። (standard target expression for Past Actions   Time Markers)",
+            "በሚመጣው ሳምንት እንጓዛለን። (contextual contrast form in Past Actions   Time Markers)",
+            "ዛሬ እንጓዛለን። (formal register distinction for Past Actions   Time Markers)",
+            "ነገ ተጓዝን። (colloquial conversational usage for Past Actions   Time Markers)"
           ],
           "answerIndex": 0,
           "explanation": "«ባለፈው ሳምንት» ካለፈ ድርጊት («ተጓዝን») ጋር አብሮ ይገባል።"
@@ -3565,10 +3565,10 @@
           "type": "multiple-choice",
           "prompt": "የጊዜ አመልካች ቃላትን እና ያለፈ ድርጊትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ባለፈው ዓመት አዲስ ቋንቋ ተማርኩ፤ ትላንት ደግሞ ፈተና ወሰድኩ። (Core concept alternative form)",
-            "ነገ ትላንት መጣሁ። (Core concept alternative form)",
-            "ዛሬ ባለፈው ዓመት እሄዳለሁ። (Core concept alternative form)",
-            "ድሮ ማለት ነገ ማለት ነው። (Core concept alternative form)"
+            "ባለፈው ዓመት አዲስ ቋንቋ ተማርኩ፤ ትላንት ደግሞ ፈተና ወሰድኩ። (standard target expression for Past Actions   Time Markers)",
+            "ነገ ትላንት መጣሁ። (contextual contrast form in Past Actions   Time Markers)",
+            "ዛሬ ባለፈው ዓመት እሄዳለሁ። (formal register distinction for Past Actions   Time Markers)",
+            "ድሮ ማለት ነገ ማለት ነው። (colloquial conversational usage for Past Actions   Time Markers)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፉ የጊዜ አመልካቾችን ከኃላፊ ግሶች ጋር በትክክል አጣምሯል።"
@@ -3629,10 +3629,10 @@
         {
           "prompt": "«እሱ ሄደ (He went)» የሚለውን ወደ አሉታዊ ኃላፊ ጊዜ ሲቀየር ምን ይሆናል?",
           "options": [
-            "እሱ አልሄደም (Core concept alternative form)",
-            "እሱ አይሄድም (Core concept alternative form)",
-            "እሱ አልሄድኩም (Core concept alternative form)",
-            "እሱ አልሄደችም (Core concept alternative form)"
+            "እሱ አልሄደም (standard target expression for Negative Past Tense)",
+            "እሱ አይሄድም (contextual contrast form in Negative Past Tense)",
+            "እሱ አልሄድኩም (formal register distinction for Negative Past Tense)",
+            "እሱ አልሄደችም (colloquial conversational usage for Negative Past Tense)"
           ],
           "answerIndex": 0,
           "explanation": "«እሱ ሄደ» በኃላፊ አሉታዊ «አልሄደም» (አል- + ሄደ + -ም) ይሆናል።"
@@ -3644,10 +3644,10 @@
         {
           "prompt": "'We did not eat' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እኛ አልበላንም። (Core concept alternative form)",
-            "እኛ አንበላም። (Core concept alternative form)",
-            "እኛ አልበላሁም። (Core concept alternative form)",
-            "እኛ አልበላችሁም። (Core concept alternative form)"
+            "እኛ አልበላንም። (standard target expression for Negative Past Tense)",
+            "እኛ አንበላም። (contextual contrast form in Negative Past Tense)",
+            "እኛ አልበላሁም። (formal register distinction for Negative Past Tense)",
+            "እኛ አልበላችሁም። (colloquial conversational usage for Negative Past Tense)"
           ],
           "answerIndex": 0,
           "explanation": "ለ«እኛ» የኃላፊ አሉታዊ ቅርጽ «አልበላንም» (አል- + በላን + -ም) ነው።"
@@ -3660,10 +3660,10 @@
           "type": "multiple-choice",
           "prompt": "የኃላፊ ጊዜ አሉታዊ አረፍተ ነገሮችን በትክክል የያዘው የትኛው ነው?",
           "options": [
-            "እኔ አልመጣሁም፣ እሷ አልጻፈችም፣ እኛ አልሰማንም። (Core concept alternative form)",
-            "እኔ አልመጣም፣ እኛ አልሰማችሁም። (Core concept alternative form)",
-            "አል- የሚለው ቅጥያ ለወደፊት ጊዜ ብቻ ነው። (Core concept alternative form)",
-            "በኃላፊ ጊዜ አሉታዊ ቅርጽ የለም። (Core concept alternative form)"
+            "እኔ አልመጣሁም፣ እሷ አልጻፈችም፣ እኛ አልሰማንም። (standard target expression for Negative Past Tense)",
+            "እኔ አልመጣም፣ እኛ አልሰማችሁም። (contextual contrast form in Negative Past Tense)",
+            "አል- የሚለው ቅጥያ ለወደፊት ጊዜ ብቻ ነው። (formal register distinction for Negative Past Tense)",
+            "በኃላፊ ጊዜ አሉታዊ ቅርጽ የለም። (colloquial conversational usage for Negative Past Tense)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የኃላፊ አሉታዊ ቅርጾችን በትክክለኛ ቅጥያዎች ተጠቅሟል።"
@@ -3722,10 +3722,10 @@
         {
           "prompt": "ታሪካዊ ቦታዎችን ጎብኝቶ መመለስን የሚገልጸው ትክክለኛ ቃል የትኛው ነው?",
           "options": [
-            "ጎበኘን እና ተመለስን (Core concept key phrasing)",
-            "እንጎበኛለን (Core concept alternative form)",
-            "አልሄድንም (Core concept alternative form)",
-            "መሄድ (Core concept alternative form)"
+            "ጎበኘን እና ተመለስን (standard target expression for Past Travel   Experiences)",
+            "እንጎበኛለን (contextual contrast form in Past Travel   Experiences)",
+            "አልሄድንም (formal register distinction for Past Travel   Experiences)",
+            "መሄድ (colloquial conversational usage for Past Travel   Experiences)"
           ],
           "answerIndex": 0,
           "explanation": "«ጎበኘን እና ተመለስን» ያለፈን ጉብኝትና መመለስን በኃላፊ ጊዜ በትክክል ይገልጻል።"
@@ -3737,10 +3737,10 @@
         {
           "prompt": "'I saw the historical castle' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ታሪካዊውን ግንብ አየሁ። (Core concept alternative form)",
-            "ታሪካዊውን ግንብ አያለሁ። (Core concept alternative form)",
-            "ታሪካዊውን ግንብ አየች። (Core concept alternative form)",
-            "ታሪካዊውን ግንብ አልፈልግም። (Core concept alternative form)"
+            "ታሪካዊውን ግንብ አየሁ። (standard target expression for Past Travel   Experiences)",
+            "ታሪካዊውን ግንብ አያለሁ። (contextual contrast form in Past Travel   Experiences)",
+            "ታሪካዊውን ግንብ አየች። (formal register distinction for Past Travel   Experiences)",
+            "ታሪካዊውን ግንብ አልፈልግም። (colloquial conversational usage for Past Travel   Experiences)"
           ],
           "answerIndex": 0,
           "explanation": "ለእኔ (1ኛ መደብ) የኃላፊ ጊዜ ግስ «አየሁ» ይሆናል።"
@@ -3753,10 +3753,10 @@
           "type": "multiple-choice",
           "prompt": "ያለፈ የጉዞ ልምድን በተሟላ መንገድ የገለጸው የትኛው ነው?",
           "options": [
-            "ባለፈው ወር ወደ አክሱም ተጉዘን ሐውልቶችን ጎበኘን፤ ከዚያም ተመለስን። (Core concept alternative form)",
-            "ነገ ወደ አክሱም ተጓዝን። (Core concept alternative form)",
-            "አክሱም ትላንት እሄዳለሁ። (Core concept alternative form)",
-            "በአማርኛ የጉዞ ታሪክ አይነገርም። (Core concept alternative form)"
+            "ባለፈው ወር ወደ አክሱም ተጉዘን ሐውልቶችን ጎበኘን፤ ከዚያም ተመለስን። (standard target expression for Past Travel   Experiences)",
+            "ነገ ወደ አክሱም ተጓዝን። (contextual contrast form in Past Travel   Experiences)",
+            "አክሱም ትላንት እሄዳለሁ። (formal register distinction for Past Travel   Experiences)",
+            "በአማርኛ የጉዞ ታሪክ አይነገርም። (colloquial conversational usage for Past Travel   Experiences)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፈውን የጉዞ ጊዜ፣ ድርጊትና ማጠቃለያ በትክክል ይዟል።"
@@ -3815,10 +3815,10 @@
         {
           "prompt": "ያለፈን ድርጊት በአዎንታዊና በአሉታዊ ቅርጽ በትክክል ያገናኘው የትኛው ነው?",
           "options": [
-            "ትላንት ወደ ከተማ ሄድኩ፣ ነገር ግን ዕቃ አልገዛሁም። (Core concept alternative form)",
-            "ነገ ወደ ከተማ ሄድኩ። (Core concept alternative form)",
-            "ትላንት ዕቃ እገዛለሁ። (Core concept alternative form)",
-            "በኃላፊ ጊዜ ሁለቱም አረፍተ ነገሮች ስህተት ናቸው። (Core concept alternative form)"
+            "ትላንት ወደ ከተማ ሄድኩ፣ ነገር ግን ዕቃ አልገዛሁም። (standard target expression for Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "ነገ ወደ ከተማ ሄድኩ። (contextual contrast form in Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "ትላንት ዕቃ እገዛለሁ። (formal register distinction for Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "በኃላፊ ጊዜ ሁለቱም አረፍተ ነገሮች ስህተት ናቸው። (colloquial conversational usage for Unit 7 Grand Synthesis   Past Narrative Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፈ ጊዜ አመልካችን፣ አዎንታዊ ኃላፊን («ሄድኩ») እና አሉታዊ ኃላፊን («አልገዛሁም») በትክክል አጣምሯል።"
@@ -3830,10 +3830,10 @@
         {
           "prompt": "የክፍል 7ን ዋና ዋና ርዕሰ ጉዳዮች ያካተተ የተሟላ ትረካ የትኛው ነው?",
           "options": [
-            "ባለፈው ዓመት ብዙ ቦታዎችን ጎበኘን፤ አስደሳች ጊዜ አሳለፍን። (Core concept alternative form)",
-            "ነገ እንጎበኛለን። (Core concept alternative form)",
-            "አሁን እየበላን ነው። (Core concept alternative form)",
-            "ቋንቋ አልፈልግም። (Core concept alternative form)"
+            "ባለፈው ዓመት ብዙ ቦታዎችን ጎበኘን፤ አስደሳች ጊዜ አሳለፍን። (standard target expression for Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "ነገ እንጎበኛለን። (contextual contrast form in Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "አሁን እየበላን ነው። (formal register distinction for Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "ቋንቋ አልፈልግም። (colloquial conversational usage for Unit 7 Grand Synthesis   Past Narrative Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የክፍል 7ን የኃላፊ ጊዜና የጉብኝት ትረካ ሙሉ በሙሉ ይገልጻል።"
@@ -3846,10 +3846,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 7 አጠቃላይ ይዘት በትክክል የትኛው ነው?",
           "options": [
-            "የቀላል ኃላፊ ጊዜ ግስ እርባታ፣ ያለፉ የጊዜ አመልካቾች፣ የኃላፊ ጊዜ አሉታዊ ቅርጽ እና ያለፉ የጉዞ ትረካዎች ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለወደፊት ጊዜ ብቻ ያትታል። (Core concept alternative form)",
-            "በአማርኛ የኃላፊ ጊዜ የለም። (Core concept alternative form)",
-            "ሁሉም ቃላት ስለ እንስሳት ናቸው። (Core concept alternative form)"
+            "የቀላል ኃላፊ ጊዜ ግስ እርባታ፣ ያለፉ የጊዜ አመልካቾች፣ የኃላፊ ጊዜ አሉታዊ ቅርጽ እና ያለፉ የጉዞ ትረካዎች ተካተዋል። (standard target expression for Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "ይህ ክፍል ስለወደፊት ጊዜ ብቻ ያትታል። (contextual contrast form in Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "በአማርኛ የኃላፊ ጊዜ የለም። (formal register distinction for Unit 7 Grand Synthesis   Past Narrative Discourse)",
+            "ሁሉም ቃላት ስለ እንስሳት ናቸው። (colloquial conversational usage for Unit 7 Grand Synthesis   Past Narrative Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 7ን ሁሉንም ሰዋሰዋዊ ክፍሎች በትክክል ይገልጻል።"
@@ -3908,10 +3908,10 @@
         {
           "prompt": "ወደ ቀኝ ለመታጠፍ ለወንድ የሚሰጥ ትክክለኛ የትዕዛዝ አነጋገር የትኛው ነው?",
           "options": [
-            "ወደ ቀኝ ታጠፍ (Core concept key phrasing)",
-            "ወደ ግራ ሂድ (Core concept alternative form)",
-            "ቀጥታ ቁም (Core concept alternative form)",
-            "ወደ ኋላ ተመለስ (Core concept alternative form)"
+            "ወደ ቀኝ ታጠፍ (standard target expression for Cardinal Directions   Spatial Terms)",
+            "ወደ ግራ ሂድ (contextual contrast form in Cardinal Directions   Spatial Terms)",
+            "ቀጥታ ቁም (formal register distinction for Cardinal Directions   Spatial Terms)",
+            "ወደ ኋላ ተመለስ (colloquial conversational usage for Cardinal Directions   Spatial Terms)"
           ],
           "answerIndex": 0,
           "explanation": "«ወደ ቀኝ ታጠፍ» ለወንድ (ተባዕታይ) ወደ ቀኝ እንዲታጠፍ የሚያዝዝ ነው።"
@@ -3923,10 +3923,10 @@
         {
           "prompt": "'The pharmacy is next to the clinic' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መድኃኒት ቤቱ ከክሊኒኩ አጠገብ ነው። (Core concept alternative form)",
-            "መድኃኒት ቤቱ በጣም ሩቅ ነው። (Core concept alternative form)",
-            "ክሊኒኩ የለም። (Core concept alternative form)",
-            "መድኃኒት ቤት አልሄድም። (Core concept alternative form)"
+            "መድኃኒት ቤቱ ከክሊኒኩ አጠገብ ነው። (standard target expression for Cardinal Directions   Spatial Terms)",
+            "መድኃኒት ቤቱ በጣም ሩቅ ነው። (contextual contrast form in Cardinal Directions   Spatial Terms)",
+            "ክሊኒኩ የለም። (formal register distinction for Cardinal Directions   Spatial Terms)",
+            "መድኃኒት ቤት አልሄድም። (colloquial conversational usage for Cardinal Directions   Spatial Terms)"
           ],
           "answerIndex": 0,
           "explanation": "«ከ... አጠገብ» (next to / beside) ትክክለኛውን የቦታ አቀማመጥ ያሳያል።"
@@ -3939,10 +3939,10 @@
           "type": "multiple-choice",
           "prompt": "የአቅጣጫ ቃላትን እና ተዛማጅ ትርጉሞቻቸውን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቀኝ (Right)",
-            "ቀኝ ማለት ግራ ማለት ነው። (Core concept alternative form)",
-            "ቅርብ እና ሩቅ አንድ ናቸው። (Core concept alternative form)",
-            "በአማርኛ አቅጣጫ አይነገርም። (Core concept alternative form)"
+            "ቀኝ (standard target expression for Cardinal Directions   Spatial Terms)",
+            "ቀኝ ማለት ግራ ማለት ነው። (contextual contrast form in Cardinal Directions   Spatial Terms)",
+            "ቅርብ እና ሩቅ አንድ ናቸው። (formal register distinction for Cardinal Directions   Spatial Terms)",
+            "በአማርኛ አቅጣጫ አይነገርም። (colloquial conversational usage for Cardinal Directions   Spatial Terms)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአቅጣጫ ቃላትን በትክክል ይዟል።"
@@ -4001,10 +4001,10 @@
         {
           "prompt": "ወደ አንድ ቦታ የሚወስደውን መንገድ በትህትና ለመጠየቅ ምን ይባላል?",
           "options": [
-            "ይቅርታ፣ ወደ ... የሚወስደው መንገድ የት ነው? (yqrta)",
-            "መንገድ አልፈልግም (yqrta)",
-            "ቶሎ ሂድ (yqrta)",
-            "ስምህ ማን ነው? (male)"
+            "ይቅርታ፣ ወደ ... የሚወስደው መንገድ የት ነው? (standard target expression for Asking for Directions)",
+            "መንገድ አልፈልግም (contextual contrast form in Asking for Directions)",
+            "ቶሎ ሂድ (formal register distinction for Asking for Directions)",
+            "ስምህ ማን ነው? (colloquial conversational usage for Asking for Directions)"
           ],
           "answerIndex": 0,
           "explanation": "«ይቅርታ፣ ወደ ... የሚወስደው መንገድ የት ነው?» ትክክለኛ የጨዋነት መንገድ መጠየቂያ ነው።"
@@ -4016,10 +4016,10 @@
         {
           "prompt": "'When you reach the roundabout, turn left' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አደባባዩን ስትደርስ ወደ ግራ ታጠፍ። (yqrta)",
-            "አደባባይ ላይ ቁም። (yqrta)",
-            "ወደ ቤት ተመለስ። (yqrta)",
-            "አደባባይ የለም። (yqrta)"
+            "አደባባዩን ስትደርስ ወደ ግራ ታጠፍ። (standard target expression for Asking for Directions)",
+            "አደባባይ ላይ ቁም። (contextual contrast form in Asking for Directions)",
+            "ወደ ቤት ተመለስ። (formal register distinction for Asking for Directions)",
+            "አደባባይ የለም። (colloquial conversational usage for Asking for Directions)"
           ],
           "answerIndex": 0,
           "explanation": "«አደባባዩን ስትደርስ ወደ ግራ ታጠፍ» አደባባይን እና የግራ አቅጣጫን በትክክል አጣምሯል።"
@@ -4032,10 +4032,10 @@
           "type": "multiple-choice",
           "prompt": "የመንገድ መጠየቅና የመመለስን የተሟላ ውይይት የያዘው የትኛው ነው?",
           "options": [
-            "ይቅርታ ሙዚየሙ የት ነው? -> ቀጥታ ሂድና አደባባዩ ላይ ወደ ቀኝ ታጠፍ -> አመሰግናለሁ! (yqrta)",
-            "ሙዚየም አልሄድም -> ሂሳብ ክፈል (yqrta)",
-            "ቀኝ እና ግራ አንድ ናቸው (yqrta)",
-            "በአማርኛ አደባባይ አይባልም (yqrta)"
+            "ይቅርታ ሙዚየሙ የት ነው? -> ቀጥታ ሂድና አደባባዩ ላይ ወደ ቀኝ ታጠፍ -> አመሰግናለሁ! (standard target expression for Asking for Directions)",
+            "ሙዚየም አልሄድም -> ሂሳብ ክፈል (contextual contrast form in Asking for Directions)",
+            "ቀኝ እና ግራ አንድ ናቸው (formal register distinction for Asking for Directions)",
+            "በአማርኛ አደባባይ አይባልም (colloquial conversational usage for Asking for Directions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተሟላና ሥርዓት ያለው የመንገድ መጠየቅ ውይይት ነው።"
@@ -4094,10 +4094,10 @@
         {
           "prompt": "በታክሲ ውስጥ ለመውረድ ሾፌሩን ወይም ረዳቱን ለማስቆም ምን ይባላል?",
           "options": [
-            "ወራጅ አለ! (Core concept key phrasing)",
-            "ሂሳብ ስንት ነው? (Core concept alternative form)",
-            "ቡና አምጡ (Core concept alternative form)",
-            "ባቡር መጣ (Core concept alternative form)"
+            "ወራጅ አለ! (standard target expression for City Transit  Taxi  Bus   Train)",
+            "ሂሳብ ስንት ነው? (contextual contrast form in City Transit  Taxi  Bus   Train)",
+            "ቡና አምጡ (formal register distinction for City Transit  Taxi  Bus   Train)",
+            "ባቡር መጣ (colloquial conversational usage for City Transit  Taxi  Bus   Train)"
           ],
           "answerIndex": 0,
           "explanation": "«ወራጅ አለ!» ተሳፋሪው የሚወርድበት ቦታ መድረሱን የሚያሳውቅበት ቃል ነው።"
@@ -4109,10 +4109,10 @@
         {
           "prompt": "'We rode the light rail train' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በቀላል ባቡር ተሳፈርን። (Core concept alternative form)",
-            "ባቡር አልወድም። (Core concept alternative form)",
-            "በእግር ብቻ ሄድን። (Core concept alternative form)",
-            "ታክሲው ተሰበረ። (Core concept alternative form)"
+            "በቀላል ባቡር ተሳፈርን። (standard target expression for City Transit  Taxi  Bus   Train)",
+            "ባቡር አልወድም። (contextual contrast form in City Transit  Taxi  Bus   Train)",
+            "በእግር ብቻ ሄድን። (formal register distinction for City Transit  Taxi  Bus   Train)",
+            "ታክሲው ተሰበረ። (colloquial conversational usage for City Transit  Taxi  Bus   Train)"
           ],
           "answerIndex": 0,
           "explanation": "«በቀላል ባቡር ተሳፈርን» ትክክለኛውን የትራንስፖርት ዘዴና ግስ ያዛምዳል።"
@@ -4125,10 +4125,10 @@
           "type": "multiple-choice",
           "prompt": "የከተማ የትራንስፖርት አይነቶችንና አገልግሎቶችን በትክክል የያዘው የትኛው ነው?",
           "options": [
-            "ሰማያዊ ታክሲ፣ አንበሳ አውቶቡስ፣ ቀላል ባቡር እና ወያላ። (Core concept alternative form)",
-            "በከተማ ውስጥ ትራንስፖርት የለም። (Core concept alternative form)",
-            "ባቡር የሚሄደው በሰማይ ላይ ብቻ ነው። (Core concept alternative form)",
-            "ወራጅ አለ ማለት ሰላምታ ነው። (Core concept alternative form)"
+            "ሰማያዊ ታክሲ፣ አንበሳ አውቶቡስ፣ ቀላል ባቡር እና ወያላ። (standard target expression for City Transit  Taxi  Bus   Train)",
+            "በከተማ ውስጥ ትራንስፖርት የለም። (contextual contrast form in City Transit  Taxi  Bus   Train)",
+            "ባቡር የሚሄደው በሰማይ ላይ ብቻ ነው። (formal register distinction for City Transit  Taxi  Bus   Train)",
+            "ወራጅ አለ ማለት ሰላምታ ነው። (colloquial conversational usage for City Transit  Taxi  Bus   Train)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የከተማ ትራንስፖርት አካላትን በትክክል ይዟል።"
@@ -4187,10 +4187,10 @@
         {
           "prompt": "የአንድን የትራንስፖርት ጉዞ ዋጋ ለመጠየቅ ምን ይባላል?",
           "options": [
-            "ታሪፉ ስንት ብር ነው? (tarifu snt naw?)",
-            "ሰዓቱ ስንት ነው? (tarifu snt naw?)",
-            "ስምህ ማን ነው? (male)",
-            "ምግብ አለ? (tarifu snt naw?)"
+            "ታሪፉ ስንት ብር ነው? (standard target expression for Transit Distance  Fares   Commuting)",
+            "ሰዓቱ ስንት ነው? (contextual contrast form in Transit Distance  Fares   Commuting)",
+            "ስምህ ማን ነው? (formal register distinction for Transit Distance  Fares   Commuting)",
+            "ምግብ አለ? (colloquial conversational usage for Transit Distance  Fares   Commuting)"
           ],
           "answerIndex": 0,
           "explanation": "«ታሪፉ ስንት ብር ነው?» የጉዞ ዋጋን ለመጠየቅ የሚያገለግል ትክክለኛ ሐረግ ነው።"
@@ -4202,10 +4202,10 @@
         {
           "prompt": "'The trip took 30 minutes' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጉዞው ሠላሳ ደቂቃ ወሰደ። (tarifu snt naw?)",
-            "ጉዞው አሥር ብር ነው። (tarifu snt naw?)",
-            "ባቡሩ አልመጣም። (tarifu snt naw?)",
-            "መንገዱ ተዘጋ። (tarifu snt naw?)"
+            "ጉዞው ሠላሳ ደቂቃ ወሰደ። (standard target expression for Transit Distance  Fares   Commuting)",
+            "ጉዞው አሥር ብር ነው። (contextual contrast form in Transit Distance  Fares   Commuting)",
+            "ባቡሩ አልመጣም። (formal register distinction for Transit Distance  Fares   Commuting)",
+            "መንገዱ ተዘጋ። (colloquial conversational usage for Transit Distance  Fares   Commuting)"
           ],
           "answerIndex": 0,
           "explanation": "«ጉዞው ሠላሳ ደቂቃ ወሰደ» የፈጀውን የጉዞ ጊዜ በትክክል ይገልጻል።"
@@ -4218,10 +4218,10 @@
           "type": "multiple-choice",
           "prompt": "የትራንስፖርት ክፍያንና የጊዜ ቆይታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ታሪፉን ከፍለን ትኬት ወሰድን፤ ጉዞውም ሃያ ደቂቃ ወሰደ። (tarifu snt naw?)",
-            "ትኬት በላን ታሪፍ ጠጣን። (tarifu snt naw?)",
-            "በአማርኛ ታሪፍ አይከፈልም። (tarifu snt naw?)",
-            "ደቂቃ ማለት የገንዘብ አይነት ነው። (tarifu snt naw?)"
+            "ታሪፉን ከፍለን ትኬት ወሰድን፤ ጉዞውም ሃያ ደቂቃ ወሰደ። (standard target expression for Transit Distance  Fares   Commuting)",
+            "ትኬት በላን ታሪፍ ጠጣን። (contextual contrast form in Transit Distance  Fares   Commuting)",
+            "በአማርኛ ታሪፍ አይከፈልም። (formal register distinction for Transit Distance  Fares   Commuting)",
+            "ደቂቃ ማለት የገንዘብ አይነት ነው። (colloquial conversational usage for Transit Distance  Fares   Commuting)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ክፍያን፣ ትኬትን እና የጉዞ ቆይታን በትክክል ያዛምዳል።"
@@ -4280,10 +4280,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የከተማ ጉዞና የትራንስፖርት ንግግር የሚያሳየው የትኛው ነው?",
           "options": [
-            "መንገድ ጠይቀን ታክሲ ተሳፈርን፤ ታሪፉን ከፍለን መብራቱ ጋር ወረድን። (Core concept alternative form)",
-            "ታክሲ አልወድም ምግብ አምጡ (Core concept alternative form)",
-            "አቅጣጫ የለም ባቡር የለም (Core concept alternative form)",
-            "በከተማ ውስጥ መጓዝ አይቻልም (Core concept alternative form)"
+            "መንገድ ጠይቀን ታክሲ ተሳፈርን፤ ታሪፉን ከፍለን መብራቱ ጋር ወረድን። (standard target expression for Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "ታክሲ አልወድም ምግብ አምጡ (contextual contrast form in Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "አቅጣጫ የለም ባቡር የለም (formal register distinction for Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "በከተማ ውስጥ መጓዝ አይቻልም (colloquial conversational usage for Unit 8 Grand Synthesis   Urban Commute Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አቅጣጫ መጠየቅን፣ ታክሲ መሳፈርን፣ ታሪፍ መክፈልንና መውረድን በትክክል ያጠቃልላል።"
@@ -4295,10 +4295,10 @@
         {
           "prompt": "አቅጣጫን፣ ባቡርንና የጉዞ ጊዜን ያቀናጀው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ወደ ቀኝ ታጥፈን የባቡር ጣቢያ ደረስን፤ ጉዞውም አስራ አምስት ደቂቃ ፈጀ። (Core concept alternative form)",
-            "ባቡሩ ትላንትና ነገ ይሄዳል። (Core concept alternative form)",
-            "ቀኝ ማለት ባቡር ነው። (Core concept alternative form)",
-            "ታሪፍ አልከፈልንም። (Core concept alternative form)"
+            "ወደ ቀኝ ታጥፈን የባቡር ጣቢያ ደረስን፤ ጉዞውም አስራ አምስት ደቂቃ ፈጀ። (standard target expression for Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "ባቡሩ ትላንትና ነገ ይሄዳል። (contextual contrast form in Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "ቀኝ ማለት ባቡር ነው። (formal register distinction for Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "ታሪፍ አልከፈልንም። (colloquial conversational usage for Unit 8 Grand Synthesis   Urban Commute Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አቅጣጫን፣ የባቡር ጣቢያንና የጉዞ ጊዜን በአንድነት ይዟል።"
@@ -4311,10 +4311,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 8 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "መሰረታዊ አቅጣጫዎች፣ መንገድ መጠየቅ፣ የከተማ ትራንስፖርት (taksina babur)",
-            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የትራንስፖርት ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም አቅጣጫዎች አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "መሰረታዊ አቅጣጫዎች፣ መንገድ መጠየቅ፣ የከተማ ትራንስፖርት (standard target expression for Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (contextual contrast form in Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "በአማርኛ የትራንስፖርት ቃላት የሉም። (formal register distinction for Unit 8 Grand Synthesis   Urban Commute Discourse)",
+            "ሁሉም አቅጣጫዎች አንድ ዓይነት ናቸው። (colloquial conversational usage for Unit 8 Grand Synthesis   Urban Commute Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 8ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -4373,10 +4373,10 @@
         {
           "prompt": "«My mother and my father» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እናቴ እና አባቴ (Core concept alternative form)",
-            "እህቴ እና ወንድሜ (Core concept alternative form)",
-            "ልጄ እና አጎቴ (Core concept alternative form)",
-            "አያቴ ብቻ (Core concept alternative form)"
+            "እናቴ እና አባቴ (standard target expression for Core Immediate Family Terms)",
+            "እህቴ እና ወንድሜ (contextual contrast form in Core Immediate Family Terms)",
+            "ልጄ እና አጎቴ (formal register distinction for Core Immediate Family Terms)",
+            "አያቴ ብቻ (colloquial conversational usage for Core Immediate Family Terms)"
           ],
           "answerIndex": 0,
           "explanation": "«እናቴ» (My mother) እና «አባቴ» (My father) ትክክለኛ የመጀመሪያ መደብ ባለቤትነት ቅጥያን (-ኤ) ይዘዋል።"
@@ -4388,10 +4388,10 @@
         {
           "prompt": "'I have an older brother and a younger sister' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አንድ ታላቅ ወንድም እና አንዲት ታናሽ እህት አሉኝ። (Core concept alternative form)",
-            "ወንድም የለኝም እህት የለኝም። (Core concept alternative form)",
-            "አያቴ ትላንትና መጣ። (Core concept alternative form)",
-            "ልጆቼ ትምህርት ቤት ሄዱ። (Core concept alternative form)"
+            "አንድ ታላቅ ወንድም እና አንዲት ታናሽ እህት አሉኝ። (standard target expression for Core Immediate Family Terms)",
+            "ወንድም የለኝም እህት የለኝም። (contextual contrast form in Core Immediate Family Terms)",
+            "አያቴ ትላንትና መጣ። (formal register distinction for Core Immediate Family Terms)",
+            "ልጆቼ ትምህርት ቤት ሄዱ። (colloquial conversational usage for Core Immediate Family Terms)"
           ],
           "answerIndex": 0,
           "explanation": "«ታላቅ ወንድም» (older brother) እና «ታናሽ እህት» (younger sister) የዕድሜ ደረጃን በትክክል ያሳያሉ።"
@@ -4404,10 +4404,10 @@
           "type": "multiple-choice",
           "prompt": "የቅርብ ቤተሰብ አባላትን መጠሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባል እና ሚስት። (Core concept alternative form)",
-            "ጠረጴዛ፣ ወንበር እና ደብተር። (Core concept alternative form)",
-            "ቀኝ፣ ግራ እና አደባባይ። (Core concept alternative form)",
-            "ትላንትና እና ዛሬ ብቻ። (Core concept alternative form)"
+            "አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባል እና ሚስት። (standard target expression for Core Immediate Family Terms)",
+            "ጠረጴዛ፣ ወንበር እና ደብተር። (contextual contrast form in Core Immediate Family Terms)",
+            "ቀኝ፣ ግራ እና አደባባይ። (formal register distinction for Core Immediate Family Terms)",
+            "ትላንትና እና ዛሬ ብቻ። (colloquial conversational usage for Core Immediate Family Terms)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቅርብ ቤተሰብ መጠሪያዎችን ይዟል።"
@@ -4466,10 +4466,10 @@
         {
           "prompt": "የእናትህን ወይም የአባትህን ወንድም ምን ብለህ ትጠራዋለህ?",
           "options": [
-            "አጎት (Core concept key phrasing)",
-            "አክስት (Core concept alternative form)",
-            "አያት (Core concept alternative form)",
-            "ምራት (Core concept alternative form)"
+            "አጎት (standard target expression for Extended Family   Kinship Terms)",
+            "አክስት (contextual contrast form in Extended Family   Kinship Terms)",
+            "አያት (formal register distinction for Extended Family   Kinship Terms)",
+            "ምራት (colloquial conversational usage for Extended Family   Kinship Terms)"
           ],
           "answerIndex": 0,
           "explanation": "የእናት ወይም የአባት ወንድም «አጎት» (Uncle) ይባላል።"
@@ -4481,10 +4481,10 @@
         {
           "prompt": "'My grandmother tells folktales to her grandchildren' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ። (Core concept alternative form)",
-            "አጎቴ መኪና ነዳ። (Core concept alternative form)",
-            "ጓደኛዬ ትምህርት ቤት ሄደ። (Core concept alternative form)",
-            "ምንም ዘመድ የለኝም። (Core concept alternative form)"
+            "አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ። (standard target expression for Extended Family   Kinship Terms)",
+            "አጎቴ መኪና ነዳ። (contextual contrast form in Extended Family   Kinship Terms)",
+            "ጓደኛዬ ትምህርት ቤት ሄደ። (formal register distinction for Extended Family   Kinship Terms)",
+            "ምንም ዘመድ የለኝም። (colloquial conversational usage for Extended Family   Kinship Terms)"
           ],
           "answerIndex": 0,
           "explanation": "«አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ» አያትንና የልጅ ልጆችን በትክክል ያዛምዳል።"
@@ -4497,10 +4497,10 @@
           "type": "multiple-choice",
           "prompt": "የተዘረጋ ቤተሰብ መጠሪያዎችን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
-            "አያት (Grandparent)",
-            "አያት ማለት ልጅ ማለት ነው። (Core concept alternative form)",
-            "አጎት እና አክስት አንድ ናቸው። (Core concept alternative form)",
-            "በአማርኛ የዝምድና መጠሪያ የለም። (Core concept alternative form)"
+            "አያት (standard target expression for Extended Family   Kinship Terms)",
+            "አያት ማለት ልጅ ማለት ነው። (contextual contrast form in Extended Family   Kinship Terms)",
+            "አጎት እና አክስት አንድ ናቸው። (formal register distinction for Extended Family   Kinship Terms)",
+            "በአማርኛ የዝምድና መጠሪያ የለም። (colloquial conversational usage for Extended Family   Kinship Terms)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ቁልፍ የተዘረጋ ቤተሰብ ቃላትን በትክክል ያጣመረ ነው።"
@@ -4559,10 +4559,10 @@
         {
           "prompt": "«Our school» የሚለውን ትክክለኛ የባለቤትነት ቅጥያ በመጠቀም የገለጸው የትኛው ነው?",
           "options": [
-            "ትምህርት ቤታችን (Core concept key phrasing)",
-            "ትምህርት ቤቴ (Core concept alternative form)",
-            "ትምህርት ቤታችሁ (Core concept alternative form)",
-            "ትምህርት ቤታቸው (Core concept alternative form)"
+            "ትምህርት ቤታችን (standard target expression for Comprehensive Possessive Suffix Paradigm)",
+            "ትምህርት ቤቴ (contextual contrast form in Comprehensive Possessive Suffix Paradigm)",
+            "ትምህርት ቤታችሁ (formal register distinction for Comprehensive Possessive Suffix Paradigm)",
+            "ትምህርት ቤታቸው (colloquial conversational usage for Comprehensive Possessive Suffix Paradigm)"
           ],
           "answerIndex": 0,
           "explanation": "«ትምህርት ቤታችን» የኛ (our) የሚለውን የብዙ ቁጥር ቅጥያ (-አችን) በትክክል ይዟል።"
@@ -4574,10 +4574,10 @@
         {
           "prompt": "'Your (plural) books are on the table' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መጽሐፎቻችሁ በጠረጴዛው ላይ ናቸው። (Core concept alternative form)",
-            "መጽሐፌ የለም። (Core concept alternative form)",
-            "መጽሐፋቸው ተቃጠለ። (Core concept alternative form)",
-            "መጽሐፍ አልገዛሁም። (Core concept alternative form)"
+            "መጽሐፎቻችሁ በጠረጴዛው ላይ ናቸው። (standard target expression for Comprehensive Possessive Suffix Paradigm)",
+            "መጽሐፌ የለም። (contextual contrast form in Comprehensive Possessive Suffix Paradigm)",
+            "መጽሐፋቸው ተቃጠለ። (formal register distinction for Comprehensive Possessive Suffix Paradigm)",
+            "መጽሐፍ አልገዛሁም። (colloquial conversational usage for Comprehensive Possessive Suffix Paradigm)"
           ],
           "answerIndex": 0,
           "explanation": "«መጽሐፎቻችሁ» (Your books) የሁለተኛ መደብ ብዙ ቅጥያን (-አችሁ) በትክክል ያሳያል።"
@@ -4590,10 +4590,10 @@
           "type": "multiple-choice",
           "prompt": "የባለቤትነት ቅጥያዎችን አጠቃቀም በትክክል ያሳየው የትኛው ነው?",
           "options": [
-            "ቤቴ (My house)",
-            "ቤቴ ማለት የእናንተ ቤት ነው። (Core concept alternative form)",
-            "ቅጥያዎች ለስሞች አይጨመሩም። (Core concept alternative form)",
-            "በአማርኛ የባለቤትነት ቅጥያ የለም። (Core concept alternative form)"
+            "ቤቴ (standard target expression for Comprehensive Possessive Suffix Paradigm)",
+            "ቤቴ ማለት የእናንተ ቤት ነው። (contextual contrast form in Comprehensive Possessive Suffix Paradigm)",
+            "ቅጥያዎች ለስሞች አይጨመሩም። (formal register distinction for Comprehensive Possessive Suffix Paradigm)",
+            "በአማርኛ የባለቤትነት ቅጥያ የለም። (colloquial conversational usage for Comprehensive Possessive Suffix Paradigm)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የባለቤትነት ቅጥያዎችን በትክክል ያቀርባል።"
@@ -4652,10 +4652,10 @@
         {
           "prompt": "ታላላቆችን ሲያከብሩ እና ሲመርቁ የሚነገር ቁልፍ ቃል የትኛው ነው?",
           "options": [
-            "ምርቃት (Core concept key phrasing)",
-            "ጠብ (Core concept alternative form)",
-            "ቁጣ (Core concept alternative form)",
-            "ስድብ (Core concept alternative form)"
+            "ምርቃት (standard target expression for Family Culture  Elder Respect   Gatherings)",
+            "ጠብ (contextual contrast form in Family Culture  Elder Respect   Gatherings)",
+            "ቁጣ (formal register distinction for Family Culture  Elder Respect   Gatherings)",
+            "ስድብ (colloquial conversational usage for Family Culture  Elder Respect   Gatherings)"
           ],
           "answerIndex": 0,
           "explanation": "«ምርቃት» የታላላቆች በጎ ምኞትና ጸሎት መግለጫ ነው።"
@@ -4667,10 +4667,10 @@
         {
           "prompt": "'Family love and cooperation are strong' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የቤተሰብ ፍቅር እና ትብብር ጠንካራ ነው። (Core concept alternative form)",
-            "ቤተሰብ የለንም። (Core concept alternative form)",
-            "በዓል አንወድም። (Core concept alternative form)",
-            "ሰርግ አይከበርም። (Core concept alternative form)"
+            "የቤተሰብ ፍቅር እና ትብብር ጠንካራ ነው። (standard target expression for Family Culture  Elder Respect   Gatherings)",
+            "ቤተሰብ የለንም። (contextual contrast form in Family Culture  Elder Respect   Gatherings)",
+            "በዓል አንወድም። (formal register distinction for Family Culture  Elder Respect   Gatherings)",
+            "ሰርግ አይከበርም። (colloquial conversational usage for Family Culture  Elder Respect   Gatherings)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር የቤተሰብ ፍቅርንና ትብብርን በትክክል ይገልጻል።"
@@ -4683,10 +4683,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን የቤተሰብ ባህልና እሴቶችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ታላላቆችን ማክበር፣ ምርቃት መቀበል፣ በበዓላት በአንድነት መሰብሰብ እና መተሳሰብ። (Core concept alternative form)",
-            "ቤተሰብ አብሮ አይበላም አይጠጣም። (Core concept alternative form)",
-            "ለታላላቆች ሰላምታ አይሰጥም። (Core concept alternative form)",
-            "በአማርኛ ሰርግ አይከበርም። (Core concept alternative form)"
+            "ታላላቆችን ማክበር፣ ምርቃት መቀበል፣ በበዓላት በአንድነት መሰብሰብ እና መተሳሰብ። (standard target expression for Family Culture  Elder Respect   Gatherings)",
+            "ቤተሰብ አብሮ አይበላም አይጠጣም። (contextual contrast form in Family Culture  Elder Respect   Gatherings)",
+            "ለታላላቆች ሰላምታ አይሰጥም። (formal register distinction for Family Culture  Elder Respect   Gatherings)",
+            "በአማርኛ ሰርግ አይከበርም። (colloquial conversational usage for Family Culture  Elder Respect   Gatherings)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የማህበራዊና የቤተሰብ ባህል እሴቶችን ያሳያል።"
@@ -4745,10 +4745,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የቤተሰብ፣ የዝምድና እና የባለቤትነት ቅጥያዎችን ያጣመረው የትኛው ነው?",
           "options": [
-            "አያቶቻችን፣ ወላጆቻችን እና ልጆቻችን በቤታችን ተሰብስበው በዓሉን አከበሩ። (Core concept alternative form)",
-            "መኪና ብቻ ነዳን። (Core concept alternative form)",
-            "አቅጣጫው ወደ ቀኝ ነው። (Core concept alternative form)",
-            "ምንም ቤተሰብ የለም። (Core concept alternative form)"
+            "አያቶቻችን፣ ወላጆቻችን እና ልጆቻችን በቤታችን ተሰብስበው በዓሉን አከበሩ። (standard target expression for Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "መኪና ብቻ ነዳን። (contextual contrast form in Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "አቅጣጫው ወደ ቀኝ ነው። (formal register distinction for Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "ምንም ቤተሰብ የለም። (colloquial conversational usage for Unit 9 Grand Synthesis   Extended Family Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አያቶችን፣ ወላጆችን፣ ልጆችንና የባለቤትነት ቅጥያዎችን በአንድነት አቀናጅቷል።"
@@ -4760,10 +4760,10 @@
         {
           "prompt": "የተዘረጋ ቤተሰብንና ምርቃትን በአንድ ላይ የያዘው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "አጎቶቻችንና አክስቶቻችን መጥተው ምርቃት ሰጡን። (Core concept alternative form)",
-            "አጎቴ መጽሐፍ አልገዛም። (Core concept alternative form)",
-            "ትላንትና ዝናብ ዘነበ። (Core concept alternative form)",
-            "ታሪፉ ሃያ ብር ነው። (Core concept alternative form)"
+            "አጎቶቻችንና አክስቶቻችን መጥተው ምርቃት ሰጡን። (standard target expression for Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "አጎቴ መጽሐፍ አልገዛም። (contextual contrast form in Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "ትላንትና ዝናብ ዘነበ። (formal register distinction for Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "ታሪፉ ሃያ ብር ነው። (colloquial conversational usage for Unit 9 Grand Synthesis   Extended Family Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተዘረጋ ቤተሰብን (አጎቶች፣ አክስቶች) እና ምርቃትን ያዛምዳል።"
@@ -4776,10 +4776,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 9 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የቅርብና የተዘረጋ ቤተሰብ አባላት፣ የባለቤትነት ቅጥያዎች (bahulum madaboch)",
-            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የቤተሰብ መጠሪያዎች አይለዩም። (Core concept alternative form)",
-            "ምንም ሰዋሰዋዊ ህግ አልተማርንም። (Core concept alternative form)"
+            "የቅርብና የተዘረጋ ቤተሰብ አባላት፣ የባለቤትነት ቅጥያዎች (standard target expression for Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (contextual contrast form in Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "በአማርኛ የቤተሰብ መጠሪያዎች አይለዩም። (formal register distinction for Unit 9 Grand Synthesis   Extended Family Discourse)",
+            "ምንም ሰዋሰዋዊ ህግ አልተማርንም። (colloquial conversational usage for Unit 9 Grand Synthesis   Extended Family Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 9ን የተሟላ ይዘት ያጠቃልላል።"
@@ -4838,10 +4838,10 @@
         {
           "prompt": "«Hand and foot» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እጅ እና እግር (Core concept alternative form)",
-            "ራስ እና ሆድ (Core concept alternative form)",
-            "ዓይን እና ጆሮ (Core concept alternative form)",
-            "አፍ እና ጥርስ (Core concept alternative form)"
+            "እጅ እና እግር (standard target expression for Human Body Parts)",
+            "ራስ እና ሆድ (contextual contrast form in Human Body Parts)",
+            "ዓይን እና ጆሮ (formal register distinction for Human Body Parts)",
+            "አፍ እና ጥርስ (colloquial conversational usage for Human Body Parts)"
           ],
           "answerIndex": 0,
           "explanation": "«እጅ» (hand/arm) እና «እግር» (foot/leg) ናቸው።"
@@ -4853,10 +4853,10 @@
         {
           "prompt": "'Keep your teeth clean' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጥርስህን በንጽህና ጠብቅ። (Core concept alternative form)",
-            "ሆድህ ይረብሻል። (Core concept alternative form)",
-            "ዓይንህ ታሟል። (Core concept alternative form)",
-            "እግርህ ተሰብሯል። (Core concept alternative form)"
+            "ጥርስህን በንጽህና ጠብቅ። (standard target expression for Human Body Parts)",
+            "ሆድህ ይረብሻል። (contextual contrast form in Human Body Parts)",
+            "ዓይንህ ታሟል። (formal register distinction for Human Body Parts)",
+            "እግርህ ተሰብሯል። (colloquial conversational usage for Human Body Parts)"
           ],
           "answerIndex": 0,
           "explanation": "«ጥርስህን በንጽህና ጠብቅ» ጥርስንና ንጽህናን በትክክል ያዛምዳል።"
@@ -4869,10 +4869,10 @@
           "type": "multiple-choice",
           "prompt": "የሰውነት ክፍሎችን መጠሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ራስ፣ ዓይን፣ ጆሮ፣ አፍንጫ፣ ጥርስ፣ እጅ፣ እግር እና ሆድ። (Core concept alternative form)",
-            "ቀኝ፣ ግራ እና አደባባይ። (Core concept alternative form)",
-            "ጠረጴዛ፣ ደብተር እና እርሳስ። (Core concept alternative form)",
-            "በአማርኛ የሰውነት ስሞች የሉም። (Core concept alternative form)"
+            "ራስ፣ ዓይን፣ ጆሮ፣ አፍንጫ፣ ጥርስ፣ እጅ፣ እግር እና ሆድ። (standard target expression for Human Body Parts)",
+            "ቀኝ፣ ግራ እና አደባባይ። (contextual contrast form in Human Body Parts)",
+            "ጠረጴዛ፣ ደብተር እና እርሳስ። (formal register distinction for Human Body Parts)",
+            "በአማርኛ የሰውነት ስሞች የሉም። (colloquial conversational usage for Human Body Parts)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሰውነት ክፍሎችን ይዟል።"
@@ -4931,10 +4931,10 @@
         {
           "prompt": "«I have a headache» የሚለውን በአማርኛ ትክክለኛ የግስ አገባብ የገለጸው የትኛው ነው?",
           "options": [
-            "ራሴን አመመኝ። (Core concept alternative form)",
-            "ራሴን በላሁ (Core concept alternative form)",
-            "ጭንቅላት የለኝም (Core concept alternative form)",
-            "ደስ አለኝ (Core concept alternative form)"
+            "ራሴን አመመኝ። (standard target expression for Expressing Sickness  Symptoms   Aches)",
+            "ራሴን በላሁ (contextual contrast form in Expressing Sickness  Symptoms   Aches)",
+            "ጭንቅላት የለኝም (formal register distinction for Expressing Sickness  Symptoms   Aches)",
+            "ደስ አለኝ (colloquial conversational usage for Expressing Sickness  Symptoms   Aches)"
           ],
           "answerIndex": 0,
           "explanation": "«ራሴን አመመኝ» የራስ ህመምን በትክክለኛው ሰዋሰዋዊ ቅርጽ ያሳያል።"
@@ -4946,10 +4946,10 @@
         {
           "prompt": "'She has a high fever and cough' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ከፍተኛ ትኩሳት እና ሳል አላት። (Core concept alternative form)",
-            "ትኩሳት የለም። (Core concept alternative form)",
-            "ውሃ ጠጣች። (Core concept alternative form)",
-            "ትምህርት ቤት ሄደች። (Core concept alternative form)"
+            "ከፍተኛ ትኩሳት እና ሳል አላት። (standard target expression for Expressing Sickness  Symptoms   Aches)",
+            "ትኩሳት የለም። (contextual contrast form in Expressing Sickness  Symptoms   Aches)",
+            "ውሃ ጠጣች። (formal register distinction for Expressing Sickness  Symptoms   Aches)",
+            "ትምህርት ቤት ሄደች። (colloquial conversational usage for Expressing Sickness  Symptoms   Aches)"
           ],
           "answerIndex": 0,
           "explanation": "«ከፍተኛ ትኩሳት እና ሳል አላት» ትኩሳትንና ሳልን በትክክል ይገልጻል።"
@@ -4962,10 +4962,10 @@
           "type": "multiple-choice",
           "prompt": "የህመም ስሜቶችን እና ምልክቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ትኩሳት፣ ሳል፣ ጉንፋን፣ የሆድ ቁርጠት እና ራስ ምታት። (Core concept alternative form)",
-            "ምግብ ማብሰል እና ቡና ማፍላት። (Core concept alternative form)",
-            "ታክሲ መሳፈር እና ትኬት መቁረጥ። (Core concept alternative form)",
-            "በአማርኛ የህመም ቃላት የሉም። (Core concept alternative form)"
+            "ትኩሳት፣ ሳል፣ ጉንፋን፣ የሆድ ቁርጠት እና ራስ ምታት። (standard target expression for Expressing Sickness  Symptoms   Aches)",
+            "ምግብ ማብሰል እና ቡና ማፍላት። (contextual contrast form in Expressing Sickness  Symptoms   Aches)",
+            "ታክሲ መሳፈር እና ትኬት መቁረጥ። (formal register distinction for Expressing Sickness  Symptoms   Aches)",
+            "በአማርኛ የህመም ቃላት የሉም። (colloquial conversational usage for Expressing Sickness  Symptoms   Aches)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የህመም ምልክቶችን በትክክል ይዟል።"
@@ -5024,10 +5024,10 @@
         {
           "prompt": "ሐኪሙ ታካሚውን ለመመርመር ምን አይነት ጥያቄ ይጠይቃል?",
           "options": [
-            "ምን ያመሃል / ምን ሆንክ? (Core concept alternative form)",
-            "የት ልትጓዝ ነው? (Core concept alternative form)",
-            "ታሪፉ ስንት ነው? (Core concept alternative form)",
-            "ስምህ ማን ነው? (male)"
+            "ምን ያመሃል / ምን ሆንክ? (standard target expression for Clinical Consultation   Diagnosis)",
+            "የት ልትጓዝ ነው? (contextual contrast form in Clinical Consultation   Diagnosis)",
+            "ታሪፉ ስንት ነው? (formal register distinction for Clinical Consultation   Diagnosis)",
+            "ስምህ ማን ነው? (colloquial conversational usage for Clinical Consultation   Diagnosis)"
           ],
           "answerIndex": 0,
           "explanation": "«ምን ያመሃል?» ሐኪሙ የህመም ምልክቶችን ለመረዳት የሚጠይቀው ዋነኛ ጥያቄ ነው።"
@@ -5039,10 +5039,10 @@
         {
           "prompt": "'The doctor ordered a blood test for the patient' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሐኪሙ ለታካሚው የደም ምርመራ አዘዘ። (Core concept alternative form)",
-            "ሐኪሙ መኪና ገዛ። (Core concept alternative form)",
-            "ታካሚው ሮጦ ሄደ። (Core concept alternative form)",
-            "ምንም ምርመራ አያስፈልግም። (Core concept alternative form)"
+            "ሐኪሙ ለታካሚው የደም ምርመራ አዘዘ። (standard target expression for Clinical Consultation   Diagnosis)",
+            "ሐኪሙ መኪና ገዛ። (contextual contrast form in Clinical Consultation   Diagnosis)",
+            "ታካሚው ሮጦ ሄደ። (formal register distinction for Clinical Consultation   Diagnosis)",
+            "ምንም ምርመራ አያስፈልግም። (colloquial conversational usage for Clinical Consultation   Diagnosis)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር ሐኪምን፣ ታካሚንና የደም ምርመራን በትክክል ያዛምዳል።"
@@ -5055,10 +5055,10 @@
           "type": "multiple-choice",
           "prompt": "የክሊኒክና የሆስፒታል አገልግሎቶችን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
-            "ሐኪም ታካሚውን መረመረ፣ ነርሷ የደም ግፊት ለካች፣ የላብራቶሪ ምርመራም ተከናወነ። (Core concept alternative form)",
-            "በሆስፒታል ውስጥ ጨዋታ ብቻ ይካሄዳል። (Core concept alternative form)",
-            "ምርመራ ማድረግ የተከለከለ ነው። (Core concept alternative form)",
-            "በአማርኛ ሐኪም አይባልም። (Core concept alternative form)"
+            "ሐኪም ታካሚውን መረመረ፣ ነርሷ የደም ግፊት ለካች፣ የላብራቶሪ ምርመራም ተከናወነ። (standard target expression for Clinical Consultation   Diagnosis)",
+            "በሆስፒታል ውስጥ ጨዋታ ብቻ ይካሄዳል። (contextual contrast form in Clinical Consultation   Diagnosis)",
+            "ምርመራ ማድረግ የተከለከለ ነው። (formal register distinction for Clinical Consultation   Diagnosis)",
+            "በአማርኛ ሐኪም አይባልም። (colloquial conversational usage for Clinical Consultation   Diagnosis)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተሟላ የክሊኒክ ምርመራ ሂደትን ያሳያል።"
@@ -5117,10 +5117,10 @@
         {
           "prompt": "«Take one pill after meals» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ከምግብ በኋላ አንድ ክኒን ውሰድ/ውሰጂ። (Core concept alternative form)",
-            "ከምግብ በፊት ሩጥ (Core concept alternative form)",
-            "መድኃኒት አትውሰድ (Core concept alternative form)",
-            "ክኒን አትግዛ (Core concept alternative form)"
+            "ከምግብ በኋላ አንድ ክኒን ውሰድ/ውሰጂ። (standard target expression for Pharmacy  Prescriptions   Dosage)",
+            "ከምግብ በፊት ሩጥ (contextual contrast form in Pharmacy  Prescriptions   Dosage)",
+            "መድኃኒት አትውሰድ (formal register distinction for Pharmacy  Prescriptions   Dosage)",
+            "ክኒን አትግዛ (colloquial conversational usage for Pharmacy  Prescriptions   Dosage)"
           ],
           "answerIndex": 0,
           "explanation": "«ከምግብ በኋላ አንድ ክኒን ውሰድ» ትክክለኛውን የአወሳሰድ መመሪያ ይገልጻል።"
@@ -5132,10 +5132,10 @@
         {
           "prompt": "'He bought the prescribed medicine from the pharmacy' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የታዘዘውን መድኃኒት ከመድኃኒት ቤት ገዛ። (Core concept alternative form)",
-            "መድኃኒት ቤት አልሄደም። (Core concept alternative form)",
-            "ክሊኒኩ ተዘጋ። (Core concept alternative form)",
-            "ምንም ህመም የለም። (Core concept alternative form)"
+            "የታዘዘውን መድኃኒት ከመድኃኒት ቤት ገዛ። (standard target expression for Pharmacy  Prescriptions   Dosage)",
+            "መድኃኒት ቤት አልሄደም። (contextual contrast form in Pharmacy  Prescriptions   Dosage)",
+            "ክሊኒኩ ተዘጋ። (formal register distinction for Pharmacy  Prescriptions   Dosage)",
+            "ምንም ህመም የለም። (colloquial conversational usage for Pharmacy  Prescriptions   Dosage)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር መድኃኒት መግዛትን በትክክል ያሳያል።"
@@ -5148,10 +5148,10 @@
           "type": "multiple-choice",
           "prompt": "የመድኃኒት አወሳሰድ መመሪያዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የሐኪም ማዘዣ፣ ክኒን፣ ሽሮፕ፣ እንዲሁም ከምግብ በፊት ወይም በኋላ መውሰድ። (Core concept alternative form)",
-            "መድኃኒት በጨለማ መወርወር። (Core concept alternative form)",
-            "በአማርኛ መድኃኒት አይሸጥም። (Core concept alternative form)",
-            "ክኒን ማለት ምግብ ማለት ነው። (Core concept alternative form)"
+            "የሐኪም ማዘዣ፣ ክኒን፣ ሽሮፕ፣ እንዲሁም ከምግብ በፊት ወይም በኋላ መውሰድ። (standard target expression for Pharmacy  Prescriptions   Dosage)",
+            "መድኃኒት በጨለማ መወርወር። (contextual contrast form in Pharmacy  Prescriptions   Dosage)",
+            "በአማርኛ መድኃኒት አይሸጥም። (formal register distinction for Pharmacy  Prescriptions   Dosage)",
+            "ክኒን ማለት ምግብ ማለት ነው። (colloquial conversational usage for Pharmacy  Prescriptions   Dosage)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመድኃኒት አወሳሰድ ስርዓትን በሙሉ ያጠቃልላል።"
@@ -5210,10 +5210,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የጤና እና የህክምና ሂደት የሚያሳየው የትኛው ነው?",
           "options": [
-            "ህመም ሲሰማን ወደ ክሊኒክ ሄደን በሐኪም ተመርምረን መድኃኒት እንወስዳለን። (Core concept alternative form)",
-            "ምንም ህመም የለም (Core concept alternative form)",
-            "መድኃኒት አንወድም (Core concept alternative form)",
-            "ሆስፒታል አንሄድም (Core concept alternative form)"
+            "ህመም ሲሰማን ወደ ክሊኒክ ሄደን በሐኪም ተመርምረን መድኃኒት እንወስዳለን። (standard target expression for Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "ምንም ህመም የለም (contextual contrast form in Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "መድኃኒት አንወድም (formal register distinction for Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "ሆስፒታል አንሄድም (colloquial conversational usage for Unit 10 Grand Synthesis   Medical Consultation Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ህመምን፣ ክሊኒክ መሄድን፣ ምርመራንና መድኃኒት መውሰድን በትክክል ያጠቃልላል።"
@@ -5225,10 +5225,10 @@
         {
           "prompt": "ምርመራን፣ መድኃኒትንና ፈውስን ያቀናጀው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ሐኪሙ መርምሮ መድኃኒት አዘዘልኝ፤ እኔም በፍጥነት ዳንኩ። (Core concept alternative form)",
-            "መድኃኒት አልገዛሁም። (Core concept alternative form)",
-            "ክሊኒኩ ሩቅ ነው። (Core concept alternative form)",
-            "ትላንትና ታክሲ ተሳፈርኩ። (Core concept alternative form)"
+            "ሐኪሙ መርምሮ መድኃኒት አዘዘልኝ፤ እኔም በፍጥነት ዳንኩ። (standard target expression for Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "መድኃኒት አልገዛሁም። (contextual contrast form in Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "ክሊኒኩ ሩቅ ነው። (formal register distinction for Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "ትላንትና ታክሲ ተሳፈርኩ። (colloquial conversational usage for Unit 10 Grand Synthesis   Medical Consultation Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ምርመራን፣ መድኃኒትንና መዳንን በአንድነት ይዟል።"
@@ -5241,10 +5241,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 10 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የሰውነት ክፍሎች፣ የህመም ስሜት መግለጽ (amamany)",
-            "ይህ ክፍል ስለ ቤተሰብ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የጤና ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም የሰውነት ክፍሎች አንድ ስም አላቸው። (Core concept alternative form)"
+            "የሰውነት ክፍሎች፣ የህመም ስሜት መግለጽ (standard target expression for Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "ይህ ክፍል ስለ ቤተሰብ ብቻ ነው። (contextual contrast form in Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "በአማርኛ የጤና ቃላት የሉም። (formal register distinction for Unit 10 Grand Synthesis   Medical Consultation Discourse)",
+            "ሁሉም የሰውነት ክፍሎች አንድ ስም አላቸው። (colloquial conversational usage for Unit 10 Grand Synthesis   Medical Consultation Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 10ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -5303,10 +5303,10 @@
         {
           "prompt": "«I will study Amharic» የሚለውን ትክክለኛ የወደፊት ጊዜ የግስ እርባታ የያዘው የትኛው ነው?",
           "options": [
-            "አማርኛ እማራለሁ። (Core concept alternative form)",
-            "አማርኛ ተማርኩ (Core concept alternative form)",
-            "አማርኛ አልማርም (Core concept alternative form)",
-            "አማርኛ ተማር (Core concept alternative form)"
+            "አማርኛ እማራለሁ። (standard target expression for Simple Future Tense Conjugation)",
+            "አማርኛ ተማርኩ (contextual contrast form in Simple Future Tense Conjugation)",
+            "አማርኛ አልማርም (formal register distinction for Simple Future Tense Conjugation)",
+            "አማርኛ ተማር (colloquial conversational usage for Simple Future Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "«እማራለሁ» ለእኔ (1st person singular) የወደፊት ጊዜን በትክክል ያመለክታል።"
@@ -5318,10 +5318,10 @@
         {
           "prompt": "'They will work in the office' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እነሱ ቢሮ ውስጥ ይሠራሉ። (Core concept alternative form)",
-            "እነሱ ቢሮ አልገቡም። (Core concept alternative form)",
-            "እኔ ቢሮ እሠራለሁ። (Core concept alternative form)",
-            "እሱ ትላንት ሠራ። (Core concept alternative form)"
+            "እነሱ ቢሮ ውስጥ ይሠራሉ። (standard target expression for Simple Future Tense Conjugation)",
+            "እነሱ ቢሮ አልገቡም። (contextual contrast form in Simple Future Tense Conjugation)",
+            "እኔ ቢሮ እሠራለሁ። (formal register distinction for Simple Future Tense Conjugation)",
+            "እሱ ትላንት ሠራ። (colloquial conversational usage for Simple Future Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "«ይሠራሉ» ለሦስተኛ መደብ ብዙ (እነሱ) የወደፊት ጊዜን በትክክል ያሳያል።"
@@ -5334,10 +5334,10 @@
           "type": "multiple-choice",
           "prompt": "የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እሄዳለሁ፣ ትሄዳለህ፣ ትሄጃለሽ፣ ይሄዳል፣ ትሄዳለች እና እንሄዳለን። (Core concept alternative form)",
-            "ትላንት ሄድኩ እና በላሁ። (Core concept alternative form)",
-            "አልሄድኩም እና አልበላሁም። (Core concept alternative form)",
-            "በአማርኛ የወደፊት ጊዜ አይረባም። (Core concept alternative form)"
+            "እሄዳለሁ፣ ትሄዳለህ፣ ትሄጃለሽ፣ ይሄዳል፣ ትሄዳለች እና እንሄዳለን። (standard target expression for Simple Future Tense Conjugation)",
+            "ትላንት ሄድኩ እና በላሁ። (contextual contrast form in Simple Future Tense Conjugation)",
+            "አልሄድኩም እና አልበላሁም። (formal register distinction for Simple Future Tense Conjugation)",
+            "በአማርኛ የወደፊት ጊዜ አይረባም። (colloquial conversational usage for Simple Future Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ይዟል።"
@@ -5396,10 +5396,10 @@
         {
           "prompt": "«Day after tomorrow» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ከነገ ወዲያ (Core concept key phrasing)",
-            "ከትላንት ወዲያ (Core concept alternative form)",
-            "ባለፈው ሳምንት (Core concept alternative form)",
-            "አሁን (Core concept alternative form)"
+            "ከነገ ወዲያ (standard target expression for Future Time Markers)",
+            "ከትላንት ወዲያ (contextual contrast form in Future Time Markers)",
+            "ባለፈው ሳምንት (formal register distinction for Future Time Markers)",
+            "አሁን (colloquial conversational usage for Future Time Markers)"
           ],
           "answerIndex": 0,
           "explanation": "«ከነገ ወዲያ» ከነገ ቀጥሎ ያለውን ቀን ያመለክታል።"
@@ -5411,10 +5411,10 @@
         {
           "prompt": "'Next week we will travel to Bahir Dar' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በሚቀጥለው ሳምንት ወደ ባሕር ዳር እንጓዛለን። (Core concept alternative form)",
-            "ትላንት ወደ ባሕር ዳር ሄድን። (Core concept alternative form)",
-            "ባሕር ዳር አንሄድም። (Core concept alternative form)",
-            "ባሕር ዳር ቆንጆ ከተማ ናት። (Core concept alternative form)"
+            "በሚቀጥለው ሳምንት ወደ ባሕር ዳር እንጓዛለን። (standard target expression for Future Time Markers)",
+            "ትላንት ወደ ባሕር ዳር ሄድን። (contextual contrast form in Future Time Markers)",
+            "ባሕር ዳር አንሄድም። (formal register distinction for Future Time Markers)",
+            "ባሕር ዳር ቆንጆ ከተማ ናት። (colloquial conversational usage for Future Time Markers)"
           ],
           "answerIndex": 0,
           "explanation": "«በሚቀጥለው ሳምንት... እንጓዛለን» የወደፊት ጊዜ አመልካችንና ግስን በትክክል ያዛምዳል።"
@@ -5427,10 +5427,10 @@
           "type": "multiple-choice",
           "prompt": "የወደፊት ጊዜ አመልካቾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ነገ፣ ከነገ ወዲያ፣ በሚቀጥለው ሳምንት፣ በሚመጣው ወር እና ወደፊት። (Core concept alternative form)",
-            "ትላንትና፣ ከትላንት ወዲያ እና ባለፈው ዓመት። (Core concept alternative form)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Core concept alternative form)",
-            "በአማርኛ የወደፊት ጊዜ ቃላት የሉም። (Core concept alternative form)"
+            "ነገ፣ ከነገ ወዲያ፣ በሚቀጥለው ሳምንት፣ በሚመጣው ወር እና ወደፊት። (standard target expression for Future Time Markers)",
+            "ትላንትና፣ ከትላንት ወዲያ እና ባለፈው ዓመት። (contextual contrast form in Future Time Markers)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (formal register distinction for Future Time Markers)",
+            "በአማርኛ የወደፊት ጊዜ ቃላት የሉም። (colloquial conversational usage for Future Time Markers)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ አመልካቾችን ይዟል።"
@@ -5489,10 +5489,10 @@
         {
           "prompt": "«I will not eat» የሚለውን በአማርኛ ትክክለኛ የወደፊት አሉታዊ ቅርጽ የገለጸው የትኛው ነው?",
           "options": [
-            "አልበላም (Core concept key phrasing)",
-            "አልበላሁም (Core concept alternative form)",
-            "እበላለሁ (Core concept alternative form)",
-            "ብላ (Core concept alternative form)"
+            "አልበላም (standard target expression for Negative Future Tense Conjugation)",
+            "አልበላሁም (contextual contrast form in Negative Future Tense Conjugation)",
+            "እበላለሁ (formal register distinction for Negative Future Tense Conjugation)",
+            "ብላ (colloquial conversational usage for Negative Future Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "«አልበላም» የወደፊት ወይም የአሁን ያልተጠናቀቀ አሉታዊ ድርጊትን ያመለክታል።"
@@ -5504,10 +5504,10 @@
         {
           "prompt": "'They will not come tomorrow' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ነገ አይመጡም። (Core concept alternative form)",
-            "ትላንት መጡ። (Core concept alternative form)",
-            "ነገ ይመጣሉ። (Core concept alternative form)",
-            "እኔ አልመጣም። (Core concept alternative form)"
+            "ነገ አይመጡም። (standard target expression for Negative Future Tense Conjugation)",
+            "ትላንት መጡ። (contextual contrast form in Negative Future Tense Conjugation)",
+            "ነገ ይመጣሉ። (formal register distinction for Negative Future Tense Conjugation)",
+            "እኔ አልመጣም። (colloquial conversational usage for Negative Future Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "«አይመጡም» ለሦስተኛ መደብ ብዙ የወደፊት አሉታዊ ቅርጽ ነው።"
@@ -5520,10 +5520,10 @@
           "type": "multiple-choice",
           "prompt": "የወደፊት ጊዜ አሉታዊ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አልሄድም፣ አትሄድም፣ አትሄጂም፣ አይሄድም፣ አትሄድም እና አንሄድም። (Core concept alternative form)",
-            "ሄድኩ፣ ሄደ እና ሄድን። (Core concept alternative form)",
-            "እሄዳለሁ እና ትሄዳለህ። (Core concept alternative form)",
-            "በአማርኛ አሉታዊ ግስ የለም። (Core concept alternative form)"
+            "አልሄድም፣ አትሄድም፣ አትሄጂም፣ አይሄድም፣ አትሄድም እና አንሄድም። (standard target expression for Negative Future Tense Conjugation)",
+            "ሄድኩ፣ ሄደ እና ሄድን። (contextual contrast form in Negative Future Tense Conjugation)",
+            "እሄዳለሁ እና ትሄዳለህ። (formal register distinction for Negative Future Tense Conjugation)",
+            "በአማርኛ አሉታዊ ግስ የለም። (colloquial conversational usage for Negative Future Tense Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት አሉታዊ ግሶችን ይዟል።"
@@ -5582,10 +5582,10 @@
         {
           "prompt": "«I want to travel» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ለመጓዝ እፈልጋለሁ። (Core concept alternative form)",
-            "መጓዝ አልፈልግም (Core concept alternative form)",
-            "ትላንት ተጓዝኩ (Core concept alternative form)",
-            "አትጓዝ (Core concept alternative form)"
+            "ለመጓዝ እፈልጋለሁ። (standard target expression for Expressing Intentions  Plans   Desires)",
+            "መጓዝ አልፈልግም (contextual contrast form in Expressing Intentions  Plans   Desires)",
+            "ትላንት ተጓዝኩ (formal register distinction for Expressing Intentions  Plans   Desires)",
+            "አትጓዝ (colloquial conversational usage for Expressing Intentions  Plans   Desires)"
           ],
           "answerIndex": 0,
           "explanation": "«ለመጓዝ እፈልጋለሁ» የመጓዝ ፍላጎትንና ምኞትን በትክክል ያሳያል።"
@@ -5597,10 +5597,10 @@
         {
           "prompt": "'He has planned to buy a car' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መኪና ለመግዛት አቅዷል። (Core concept alternative form)",
-            "መኪና ሸጠ። (Core concept alternative form)",
-            "መኪና የለውም። (Core concept alternative form)",
-            "መኪና አይገዛም። (Core concept alternative form)"
+            "መኪና ለመግዛት አቅዷል። (standard target expression for Expressing Intentions  Plans   Desires)",
+            "መኪና ሸጠ። (contextual contrast form in Expressing Intentions  Plans   Desires)",
+            "መኪና የለውም። (formal register distinction for Expressing Intentions  Plans   Desires)",
+            "መኪና አይገዛም። (colloquial conversational usage for Expressing Intentions  Plans   Desires)"
           ],
           "answerIndex": 0,
           "explanation": "«መኪና ለመግዛት አቅዷል» የግዢ ዕቅድን በትክክል ይገልጻል።"
@@ -5613,10 +5613,10 @@
           "type": "multiple-choice",
           "prompt": "የዕቅድ እና የዓላማ መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አቅጃለሁ፣ አስባለሁ፣ እፈልጋለሁ፣ ለመማር እና ለማቋቋም። (Core concept alternative form)",
-            "ትላንት በላሁ እና ጠጣሁ። (Core concept alternative form)",
-            "ምንም ዕቅድ የለም። (Core concept alternative form)",
-            "በአማርኛ የዕቅድ ቃል አይነገርም። (Core concept alternative form)"
+            "አቅጃለሁ፣ አስባለሁ፣ እፈልጋለሁ፣ ለመማር እና ለማቋቋም። (standard target expression for Expressing Intentions  Plans   Desires)",
+            "ትላንት በላሁ እና ጠጣሁ። (contextual contrast form in Expressing Intentions  Plans   Desires)",
+            "ምንም ዕቅድ የለም። (formal register distinction for Expressing Intentions  Plans   Desires)",
+            "በአማርኛ የዕቅድ ቃል አይነገርም። (colloquial conversational usage for Expressing Intentions  Plans   Desires)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የዕቅድና የምኞት መግለጫዎችን ይዟል።"
@@ -5675,10 +5675,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የወደፊት ዕቅድንና ተግባርን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
-            "በሚቀጥለው ወር አዲስ ሥራ ለመጀመር አቅጃለሁ፤ ጠንክሬም እሠራለሁ። (Core concept alternative form)",
-            "ትላንት ሥራ ጨረስኩ (Core concept alternative form)",
-            "ምንም ዕቅድ የለኝም (Core concept alternative form)",
-            "ሥራ አልፈልግም (Core concept alternative form)"
+            "በሚቀጥለው ወር አዲስ ሥራ ለመጀመር አቅጃለሁ፤ ጠንክሬም እሠራለሁ። (standard target expression for Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "ትላንት ሥራ ጨረስኩ (contextual contrast form in Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "ምንም ዕቅድ የለኝም (formal register distinction for Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "ሥራ አልፈልግም (colloquial conversational usage for Unit 11 Grand Synthesis   Future Aspirations Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጊዜ አመልካችን፣ ዕቅድንና የወደፊት ግስን በአንድነት ያጠቃልላል።"
@@ -5690,10 +5690,10 @@
         {
           "prompt": "የወደፊት አዎንታዊና አሉታዊ መግለጫዎችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ነገ ወደ ከተማ አልሄድም፤ ይልቁንም ቤት ውስጥ አጠናለሁ። (Core concept alternative form)",
-            "ትላንት ወደ ከተማ አልሄድኩም። (Core concept alternative form)",
-            "ምንም አላጠናሁም። (Core concept alternative form)",
-            "ከተማ ሩቅ ነው። (Core concept alternative form)"
+            "ነገ ወደ ከተማ አልሄድም፤ ይልቁንም ቤት ውስጥ አጠናለሁ። (standard target expression for Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "ትላንት ወደ ከተማ አልሄድኩም። (contextual contrast form in Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "ምንም አላጠናሁም። (formal register distinction for Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "ከተማ ሩቅ ነው። (colloquial conversational usage for Unit 11 Grand Synthesis   Future Aspirations Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር የወደፊት አሉታዊን (አልሄድም) እና የወደፊት አዎንታዊን (አጠናለሁ) በትክክል ያዛምዳል።"
@@ -5706,10 +5706,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 11 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ቀላል የወደፊት ጊዜ ግሶች፣ የጊዜ አመልካቾች (Core concept alternative form)",
-            "ይህ ክፍል ስለ ያለፈ ታሪክ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የወደፊት ጊዜ የለም። (Core concept alternative form)",
-            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (Core concept alternative form)"
+            "ቀላል የወደፊት ጊዜ ግሶች፣ የጊዜ አመልካቾች (standard target expression for Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "ይህ ክፍል ስለ ያለፈ ታሪክ ብቻ ነው። (contextual contrast form in Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "በአማርኛ የወደፊት ጊዜ የለም። (formal register distinction for Unit 11 Grand Synthesis   Future Aspirations Discourse)",
+            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (colloquial conversational usage for Unit 11 Grand Synthesis   Future Aspirations Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 11ን አጠቃላይ የወደፊት ጊዜ ይዘት በሙሉ ይሸፍናል።"
@@ -5768,10 +5768,10 @@
         {
           "prompt": "«Football and running» የሚለውን በአማርኛ ትክክለኛ የስፖርት ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "እግር ኳስ እና ሩጫ (Core concept alternative form)",
-            "ጠረጴዛ እና ወንበር (Core concept alternative form)",
-            "መጽሐፍ እና ደብተር (Core concept alternative form)",
-            "ታክሲ እና ባቡር (Core concept alternative form)"
+            "እግር ኳስ እና ሩጫ (standard target expression for Major Sports   Athletics)",
+            "ጠረጴዛ እና ወንበር (contextual contrast form in Major Sports   Athletics)",
+            "መጽሐፍ እና ደብተር (formal register distinction for Major Sports   Athletics)",
+            "ታክሲ እና ባቡር (colloquial conversational usage for Major Sports   Athletics)"
           ],
           "answerIndex": 0,
           "explanation": "«እግር ኳስ» እና «ሩጫ» ሁለቱን ዋና የስፖርት አይነቶች ያመለክታሉ።"
@@ -5783,10 +5783,10 @@
         {
           "prompt": "'They swim in the pool' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በገንዳው ውስጥ ይዋኛሉ። (Core concept alternative form)",
-            "እግር ኳስ ይጫወታሉ። (Core concept alternative form)",
-            "መጽሐፍ ያነባሉ። (Core concept alternative form)",
-            "ምግብ ያበስላሉ። (Core concept alternative form)"
+            "በገንዳው ውስጥ ይዋኛሉ። (standard target expression for Major Sports   Athletics)",
+            "እግር ኳስ ይጫወታሉ። (contextual contrast form in Major Sports   Athletics)",
+            "መጽሐፍ ያነባሉ። (formal register distinction for Major Sports   Athletics)",
+            "ምግብ ያበስላሉ። (colloquial conversational usage for Major Sports   Athletics)"
           ],
           "answerIndex": 0,
           "explanation": "«ይዋኛሉ» የመዋኘት ተግባርን ለሦስተኛ መደብ ብዙ በትክክል ያሳያል።"
@@ -5799,10 +5799,10 @@
           "type": "multiple-choice",
           "prompt": "ዋና ዋና የስፖርት አይነቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እግር ኳስ፣ ሩጫ፣ ቅርጫት ኳስ፣ መረብ ኳስ፣ ዋና እና ብስክሌት መንዳት። (Core concept alternative form)",
-            "እንጀራ፣ ወጥ እና ዳቦ። (Core concept alternative form)",
-            "ቀሚስ፣ ሱሪ እና ጫማ። (Core concept alternative form)",
-            "በአማርኛ የስፖርት ስሞች የሉም። (Core concept alternative form)"
+            "እግር ኳስ፣ ሩጫ፣ ቅርጫት ኳስ፣ መረብ ኳስ፣ ዋና እና ብስክሌት መንዳት። (standard target expression for Major Sports   Athletics)",
+            "እንጀራ፣ ወጥ እና ዳቦ። (contextual contrast form in Major Sports   Athletics)",
+            "ቀሚስ፣ ሱሪ እና ጫማ። (formal register distinction for Major Sports   Athletics)",
+            "በአማርኛ የስፖርት ስሞች የሉም። (colloquial conversational usage for Major Sports   Athletics)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስፖርት አይነቶችን በሙሉ ይዟል።"
@@ -5863,10 +5863,10 @@
         {
           "prompt": "«Reading books in free time» የሚለውን በአማርኛ ትክክለኛ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "በትርፍ ጊዜ መጽሐፍ ማንበብ (Core concept key phrasing)",
-            "ሥራ መፈለግ (Core concept alternative form)",
-            "ሆስፒታል መሄድ (Core concept alternative form)",
-            "ታክሲ መጠበቅ (Core concept alternative form)"
+            "በትርፍ ጊዜ መጽሐፍ ማንበብ (standard target expression for Hobbies   Leisure Pastimes)",
+            "ሥራ መፈለግ (contextual contrast form in Hobbies   Leisure Pastimes)",
+            "ሆስፒታል መሄድ (formal register distinction for Hobbies   Leisure Pastimes)",
+            "ታክሲ መጠበቅ (colloquial conversational usage for Hobbies   Leisure Pastimes)"
           ],
           "answerIndex": 0,
           "explanation": "«በትርፍ ጊዜ መጽሐፍ ማንበብ» የትርፍ ሰዓት የንባብ ልማድን በትክክል ይገልጻል።"
@@ -5878,10 +5878,10 @@
         {
           "prompt": "'She listens to traditional music' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ባህላዊ ሙዚቃ ታዳምጣለች። (Core concept alternative form)",
-            "ሙዚቃ አትወድም። (Core concept alternative form)",
-            "መጽሐፍ ትጽፋለች። (Core concept alternative form)",
-            "ምግብ አትበላም። (Core concept alternative form)"
+            "ባህላዊ ሙዚቃ ታዳምጣለች። (standard target expression for Hobbies   Leisure Pastimes)",
+            "ሙዚቃ አትወድም። (contextual contrast form in Hobbies   Leisure Pastimes)",
+            "መጽሐፍ ትጽፋለች። (formal register distinction for Hobbies   Leisure Pastimes)",
+            "ምግብ አትበላም። (colloquial conversational usage for Hobbies   Leisure Pastimes)"
           ],
           "answerIndex": 0,
           "explanation": "«ባህላዊ ሙዚቃ ታዳምጣለች» የሙዚቃ ማዳመጥን ድርጊት በትክክል ያሳያል።"
@@ -5894,10 +5894,10 @@
           "type": "multiple-choice",
           "prompt": "የትርፍ ጊዜ ተግባራትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "መጽሐፍ ማንበብ፣ ሙዚቃ ማዳመጥ፣ ፊልም ማየት፣ ሥዕል መሳል እና ፎቶግራፍ ማንሳት። (Core concept alternative form)",
-            "ክኒን መዋጥ እና መርፌ መወጋት። (Core concept alternative form)",
-            "ትኬት መቁረጥ እና ወያላ መጥራት። (Core concept alternative form)",
-            "በአማርኛ የመዝናኛ ቃላት የሉም። (Core concept alternative form)"
+            "መጽሐፍ ማንበብ፣ ሙዚቃ ማዳመጥ፣ ፊልም ማየት፣ ሥዕል መሳል እና ፎቶግራፍ ማንሳት። (standard target expression for Hobbies   Leisure Pastimes)",
+            "ክኒን መዋጥ እና መርፌ መወጋት። (contextual contrast form in Hobbies   Leisure Pastimes)",
+            "ትኬት መቁረጥ እና ወያላ መጥራት። (formal register distinction for Hobbies   Leisure Pastimes)",
+            "በአማርኛ የመዝናኛ ቃላት የሉም። (colloquial conversational usage for Hobbies   Leisure Pastimes)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የትርፍ ጊዜ ማሳለፊያዎችን በሙሉ ይዟል።"
@@ -5956,10 +5956,10 @@
         {
           "prompt": "«I prefer reading» የሚለውን በአማርኛ ትክክለኛ የምርጫ አገባብ የገለጸው የትኛው ነው?",
           "options": [
-            "ማንበብን እመርጣለሁ። (Core concept alternative form)",
-            "ማንበብ አልችልም (Core concept alternative form)",
-            "መጽሐፍ የለኝም (Core concept alternative form)",
-            "አላነብም (Core concept alternative form)"
+            "ማንበብን እመርጣለሁ። (standard target expression for Expressing Preferences)",
+            "ማንበብ አልችልም (contextual contrast form in Expressing Preferences)",
+            "መጽሐፍ የለኝም (formal register distinction for Expressing Preferences)",
+            "አላነብም (colloquial conversational usage for Expressing Preferences)"
           ],
           "answerIndex": 0,
           "explanation": "«ማንበብን እመርጣለሁ» ከሌሎች ነገሮች ይልቅ ንባብን መምረጥን በትክክል ያሳያል።"
@@ -5971,10 +5971,10 @@
         {
           "prompt": "'He doesn't like watching sports' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስፖርት ማየት አይወድም። (Core concept alternative form)",
-            "ስፖርት ይወዳል (Core concept alternative form)",
-            "ስፖርት ይጫወታል (Core concept alternative form)",
-            "ስፖርት ሮጠ (Core concept alternative form)"
+            "ስፖርት ማየት አይወድም። (standard target expression for Expressing Preferences)",
+            "ስፖርት ይወዳል (contextual contrast form in Expressing Preferences)",
+            "ስፖርት ይጫወታል (formal register distinction for Expressing Preferences)",
+            "ስፖርት ሮጠ (colloquial conversational usage for Expressing Preferences)"
           ],
           "answerIndex": 0,
           "explanation": "«አይወድም» ለሦስተኛ መደብ ተባዕታይ ያለመውደድን በትክክል ይገልጻል።"
@@ -5987,10 +5987,10 @@
           "type": "multiple-choice",
           "prompt": "የፍላጎት እና የምርጫ መግለጫዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እወዳለሁ፣ አልወድም፣ እመርጣለሁ እና ይሻለኛል። (Core concept alternative form)",
-            "ሄድኩ፣ መጣሁ እና በላሁ። (Core concept alternative form)",
-            "ትላንት፣ ዛሬ እና ነገ። (Core concept alternative form)",
-            "በአማርኛ የምርጫ ቃላት የሉም። (Core concept alternative form)"
+            "እወዳለሁ፣ አልወድም፣ እመርጣለሁ እና ይሻለኛል። (standard target expression for Expressing Preferences)",
+            "ሄድኩ፣ መጣሁ እና በላሁ። (contextual contrast form in Expressing Preferences)",
+            "ትላንት፣ ዛሬ እና ነገ። (formal register distinction for Expressing Preferences)",
+            "በአማርኛ የምርጫ ቃላት የሉም። (colloquial conversational usage for Expressing Preferences)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የምርጫና የፍላጎት መግለጫዎችን ይዟል።"
@@ -6049,10 +6049,10 @@
         {
           "prompt": "በገና በዓል ወቅት የሚጫወተው ታዋቂው የኢትዮጵያ ባህላዊ ስፖርት የትኛው ነው?",
           "options": [
-            "የገና ጨዋታ (Core concept key phrasing)",
-            "ቅርጫት ኳስ (Core concept alternative form)",
-            "መረብ ኳስ (Core concept alternative form)",
-            "ቴኒስ (Core concept alternative form)"
+            "የገና ጨዋታ (standard target expression for Traditional Ethiopian Sports   Games)",
+            "ቅርጫት ኳስ (contextual contrast form in Traditional Ethiopian Sports   Games)",
+            "መረብ ኳስ (formal register distinction for Traditional Ethiopian Sports   Games)",
+            "ቴኒስ (colloquial conversational usage for Traditional Ethiopian Sports   Games)"
           ],
           "answerIndex": 0,
           "explanation": "«የገና ጨዋታ» በገና ወቅት በባህል የሚዘወተር ጥንታዊ የሆኪ ዓይነት ጨዋታ ነው።"
@@ -6064,10 +6064,10 @@
         {
           "prompt": "'Elders play Gebet'a under the shade' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሽማግሌዎች በጥላ ሥር ገበጣ ይጫወታሉ። (Core concept alternative form)",
-            "ሽማግሌዎች ይሮጣሉ። (Core concept alternative form)",
-            "ገበጣ መጫወት አይቻልም። (Core concept alternative form)",
-            "ምንም ጨዋታ የለም። (Core concept alternative form)"
+            "ሽማግሌዎች በጥላ ሥር ገበጣ ይጫወታሉ። (standard target expression for Traditional Ethiopian Sports   Games)",
+            "ሽማግሌዎች ይሮጣሉ። (contextual contrast form in Traditional Ethiopian Sports   Games)",
+            "ገበጣ መጫወት አይቻልም። (formal register distinction for Traditional Ethiopian Sports   Games)",
+            "ምንም ጨዋታ የለም። (colloquial conversational usage for Traditional Ethiopian Sports   Games)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር ሽማግሌዎችን፣ ጥላንና የገበጣ ጨዋታን በትክክል ያዛምዳል።"
@@ -6080,10 +6080,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያ ባህላዊ ስፖርቶችንና ጨዋታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የገና ጨዋታ፣ ገበጣ፣ የፈረስ ጉግስ እና ሻጥር። (Core concept alternative form)",
-            "እግር ኳስ እና ቴኒስ ብቻ። (Core concept alternative form)",
-            "በኢትዮጵያ ባህላዊ ስፖርት የለም። (Core concept alternative form)",
-            "መኪና መንዳት እና አውሮፕላን ማብረር። (Core concept alternative form)"
+            "የገና ጨዋታ፣ ገበጣ፣ የፈረስ ጉግስ እና ሻጥር። (standard target expression for Traditional Ethiopian Sports   Games)",
+            "እግር ኳስ እና ቴኒስ ብቻ። (contextual contrast form in Traditional Ethiopian Sports   Games)",
+            "በኢትዮጵያ ባህላዊ ስፖርት የለም። (formal register distinction for Traditional Ethiopian Sports   Games)",
+            "መኪና መንዳት እና አውሮፕላን ማብረር። (colloquial conversational usage for Traditional Ethiopian Sports   Games)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ስፖርቶችንና ጨዋታዎችን በሙሉ ይዟል።"
@@ -6142,10 +6142,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የስፖርትና የመዝናኛ አኗኗርን የሚያሳየው የትኛው ነው?",
           "options": [
-            "ስፖርት እሠራለሁ፣ መጽሐፍ አነባለሁ፣ እንዲሁም በትርፍ ጊዜዬ እዝናናለሁ። (Core concept alternative form)",
-            "ምንም ስፖርት አልሠራም (Core concept alternative form)",
-            "መጽሐፍ አልወድም (Core concept alternative form)",
-            "ቤት ብቻ እቀመጣለሁ (Core concept alternative form)"
+            "ስፖርት እሠራለሁ፣ መጽሐፍ አነባለሁ፣ እንዲሁም በትርፍ ጊዜዬ እዝናናለሁ። (standard target expression for Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "ምንም ስፖርት አልሠራም (contextual contrast form in Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "መጽሐፍ አልወድም (formal register distinction for Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "ቤት ብቻ እቀመጣለሁ (colloquial conversational usage for Unit 12 Grand Synthesis   Leisure Activities Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ስፖርትን፣ ንባብንና መዝናናትን በአንድነት ያጠቃልላል።"
@@ -6157,10 +6157,10 @@
         {
           "prompt": "ባህላዊ ጨዋታዎችንና ዘመናዊ ስፖርቶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "እግር ኳስ መጫወትም ሆነ ገበጣ መጫወት ደስ ይለኛል። (Core concept alternative form)",
-            "ስፖርት አልወድም። (Core concept alternative form)",
-            "ገበጣ ጨዋታ አይደለም። (Core concept alternative form)",
-            "ኳስ የለም። (Core concept alternative form)"
+            "እግር ኳስ መጫወትም ሆነ ገበጣ መጫወት ደስ ይለኛል። (standard target expression for Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "ስፖርት አልወድም። (contextual contrast form in Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "ገበጣ ጨዋታ አይደለም። (formal register distinction for Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "ኳስ የለም። (colloquial conversational usage for Unit 12 Grand Synthesis   Leisure Activities Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ እግር ኳስንና ገበጣን በአንድ ላይ በማጣመር ትክክለኛውን ትርጉም ይሰጣል።"
@@ -6173,10 +6173,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 12 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ዋና ዋና ስፖርቶች፣ የትርፍ ጊዜ ማሳለፊያዎች፣ የፍላጎትና የምርጫ መግለጫዎች (Core concept alternative form)",
-            "ይህ ክፍል ስለ ፖለቲካ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የመዝናኛ ስሞች የሉም። (Core concept alternative form)",
-            "ሁሉም ስፖርቶች አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "ዋና ዋና ስፖርቶች፣ የትርፍ ጊዜ ማሳለፊያዎች፣ የፍላጎትና የምርጫ መግለጫዎች (standard target expression for Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "ይህ ክፍል ስለ ፖለቲካ ብቻ ነው። (contextual contrast form in Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "በአማርኛ የመዝናኛ ስሞች የሉም። (formal register distinction for Unit 12 Grand Synthesis   Leisure Activities Discourse)",
+            "ሁሉም ስፖርቶች አንድ ዓይነት ናቸው። (colloquial conversational usage for Unit 12 Grand Synthesis   Leisure Activities Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 12ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -6235,10 +6235,10 @@
         {
           "prompt": "«Teacher, doctor, and engineer» የሚለውን በአማርኛ ትክክለኛ የሙያ ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህር፣ ሐኪም እና መሃንዲስ (Core concept alternative form)",
-            "ወንበር፣ ጠረጴዛ እና በር (Core concept alternative form)",
-            "ዳቦ፣ ወተት እና ስጋ (Core concept alternative form)",
-            "ባቡር፣ አውቶቡስ እና ታክሲ (Core concept alternative form)"
+            "መምህር፣ ሐኪም እና መሃንዲስ (standard target expression for Major Professions   Occupations)",
+            "ወንበር፣ ጠረጴዛ እና በር (contextual contrast form in Major Professions   Occupations)",
+            "ዳቦ፣ ወተት እና ስጋ (formal register distinction for Major Professions   Occupations)",
+            "ባቡር፣ አውቶቡስ እና ታክሲ (colloquial conversational usage for Major Professions   Occupations)"
           ],
           "answerIndex": 0,
           "explanation": "«መምህር»፣ «ሐኪም» እና «መሃንዲስ» ሦስቱን ዋና ዋና የሙያ መጠሪያዎች ያመለክታሉ።"
@@ -6250,10 +6250,10 @@
         {
           "prompt": "'The farmer produces crops' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ገበሬው ሰብል ያመርታል። (Core concept alternative form)",
-            "ገበሬው መኪና ይነዳል (Core concept alternative form)",
-            "ገበሬው ህክምና ይሰጣል (Core concept alternative form)",
-            "ገበሬው ፎቶ ያነሳል (Core concept alternative form)"
+            "ገበሬው ሰብል ያመርታል። (standard target expression for Major Professions   Occupations)",
+            "ገበሬው መኪና ይነዳል (contextual contrast form in Major Professions   Occupations)",
+            "ገበሬው ህክምና ይሰጣል (formal register distinction for Major Professions   Occupations)",
+            "ገበሬው ፎቶ ያነሳል (colloquial conversational usage for Major Professions   Occupations)"
           ],
           "answerIndex": 0,
           "explanation": "«ገበሬው ሰብል ያመርታል» የእርሻ ሙያንና ተግባርን በትክክል ያሳያል።"
@@ -6266,10 +6266,10 @@
           "type": "multiple-choice",
           "prompt": "ዋና ዋና የሙያ መጠሪያዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "መምህር፣ ሐኪም፣ መሃንዲስ፣ ነጋዴ፣ ሹፌር፣ ገበሬ እና ጠበቃ። (Core concept alternative form)",
-            "ቤት፣ በር፣ መስኮት እና ጣሪያ። (Core concept alternative form)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Core concept alternative form)",
-            "በአማርኛ የሙያ ስሞች የሉም። (Core concept alternative form)"
+            "መምህር፣ ሐኪም፣ መሃንዲስ፣ ነጋዴ፣ ሹፌር፣ ገበሬ እና ጠበቃ። (standard target expression for Major Professions   Occupations)",
+            "ቤት፣ በር፣ መስኮት እና ጣሪያ። (contextual contrast form in Major Professions   Occupations)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (formal register distinction for Major Professions   Occupations)",
+            "በአማርኛ የሙያ ስሞች የሉም። (colloquial conversational usage for Major Professions   Occupations)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሙያ ዓይነቶችን በሙሉ ይዟል።"
@@ -6328,10 +6328,10 @@
         {
           "prompt": "«She works in the bank» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "በባንክ ውስጥ ትሠራለች። (Core concept alternative form)",
-            "ወደ ባንክ ሄደች (Core concept alternative form)",
-            "ባንክ አልሄደችም (Core concept alternative form)",
-            "ባንክ ዘግቷል (Core concept alternative form)"
+            "በባንክ ውስጥ ትሠራለች። (standard target expression for Workplaces   Professional Settings)",
+            "ወደ ባንክ ሄደች (contextual contrast form in Workplaces   Professional Settings)",
+            "ባንክ አልሄደችም (formal register distinction for Workplaces   Professional Settings)",
+            "ባንክ ዘግቷል (colloquial conversational usage for Workplaces   Professional Settings)"
           ],
           "answerIndex": 0,
           "explanation": "«በባንክ ውስጥ ትሠራለች» የሥራ ቦታውንና ድርጊቱን በትክክል ያሳያል።"
@@ -6343,10 +6343,10 @@
         {
           "prompt": "'In the office and factory' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በቢሮ እና በፋብሪካ ውስጥ (Core concept key phrasing)",
-            "በመንገድ ላይ (Core concept alternative form)",
-            "በቤት ውስጥ (Core concept alternative form)",
-            "በገበያ ላይ (Core concept alternative form)"
+            "በቢሮ እና በፋብሪካ ውስጥ (standard target expression for Workplaces   Professional Settings)",
+            "በመንገድ ላይ (contextual contrast form in Workplaces   Professional Settings)",
+            "በቤት ውስጥ (formal register distinction for Workplaces   Professional Settings)",
+            "በገበያ ላይ (colloquial conversational usage for Workplaces   Professional Settings)"
           ],
           "answerIndex": 0,
           "explanation": "«በቢሮ እና በፋብሪካ ውስጥ» ሁለቱን የስራ አካባቢዎች ያመለክታል።"
@@ -6359,10 +6359,10 @@
           "type": "multiple-choice",
           "prompt": "የሥራ ቦታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቢሮ፣ ባንክ፣ ሆስፒታል፣ ትምህርት ቤት፣ ፋብሪካ፣ ፍርድ ቤት እና እርሻ። (Core concept alternative form)",
-            "አልጋ፣ ቁምሳጥን እና ሶፋ። (Core concept alternative form)",
-            "ወጥ፣ ዶሮ እና ሩዝ። (Core concept alternative form)",
-            "በአማርኛ የሥራ ቦታ ስሞች የሉም። (Core concept alternative form)"
+            "ቢሮ፣ ባንክ፣ ሆስፒታል፣ ትምህርት ቤት፣ ፋብሪካ፣ ፍርድ ቤት እና እርሻ። (standard target expression for Workplaces   Professional Settings)",
+            "አልጋ፣ ቁምሳጥን እና ሶፋ። (contextual contrast form in Workplaces   Professional Settings)",
+            "ወጥ፣ ዶሮ እና ሩዝ። (formal register distinction for Workplaces   Professional Settings)",
+            "በአማርኛ የሥራ ቦታ ስሞች የሉም። (colloquial conversational usage for Workplaces   Professional Settings)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሥራ ቦታዎችን በሙሉ ይዟል።"
@@ -6421,10 +6421,10 @@
         {
           "prompt": "«Preparing a report and leading a meeting» የሚለውን በአማርኛ ትክክለኛ የሥራ ተግባራት የገለጸው የትኛው ነው?",
           "options": [
-            "ሪፖርት ማዘጋጀት እና ስብሰባ መምራት (Core concept key phrasing)",
-            "እግር ኳስ መጫወት (Core concept alternative form)",
-            "ምሳ መብላት (Core concept alternative form)",
-            "ቴሌቪዥን ማየት (Core concept alternative form)"
+            "ሪፖርት ማዘጋጀት እና ስብሰባ መምራት (standard target expression for Job Tasks   Professional Responsibilities)",
+            "እግር ኳስ መጫወት (contextual contrast form in Job Tasks   Professional Responsibilities)",
+            "ምሳ መብላት (formal register distinction for Job Tasks   Professional Responsibilities)",
+            "ቴሌቪዥን ማየት (colloquial conversational usage for Job Tasks   Professional Responsibilities)"
           ],
           "answerIndex": 0,
           "explanation": "«ሪፖርት ማዘጋጀት እና ስብሰባ መምራት» ሁለቱን ቁልፍ የቢሮ ተግባራት በትክክል ያመለክታሉ።"
@@ -6436,10 +6436,10 @@
         {
           "prompt": "'My responsibility is to treat patients' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ኃላፊነቴ ህሙማንን ማከም ነው። (Core concept alternative form)",
-            "ህሙማን አይታከሙም (Core concept alternative form)",
-            "ሆስፒታል አልሄድም (Core concept alternative form)",
-            "ምንም ኃላፊነት የለኝም (Core concept alternative form)"
+            "ኃላፊነቴ ህሙማንን ማከም ነው። (standard target expression for Job Tasks   Professional Responsibilities)",
+            "ህሙማን አይታከሙም (contextual contrast form in Job Tasks   Professional Responsibilities)",
+            "ሆስፒታል አልሄድም (formal register distinction for Job Tasks   Professional Responsibilities)",
+            "ምንም ኃላፊነት የለኝም (colloquial conversational usage for Job Tasks   Professional Responsibilities)"
           ],
           "answerIndex": 0,
           "explanation": "«ኃላፊነቴ ህሙማንን ማከም ነው» የህክምና ሙያ ዋነኛ ተግባርን በትክክል ያሳያል።"
@@ -6452,10 +6452,10 @@
           "type": "multiple-choice",
           "prompt": "የሥራ ተግባራትንና ኃላፊነቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ማስተማር፣ ማከም፣ ማስተዳደር፣ ሪፖርት ማዘጋጀት እና ስብሰባ መምራት። (Core concept alternative form)",
-            "መተኛት፣ መነሳት እና ማዛጋት። (Core concept alternative form)",
-            "መሮጥ፣ መዝለል እና መዋኘት። (Core concept alternative form)",
-            "በአማርኛ የሥራ ተግባር ቃላት የሉም። (Core concept alternative form)"
+            "ማስተማር፣ ማከም፣ ማስተዳደር፣ ሪፖርት ማዘጋጀት እና ስብሰባ መምራት። (standard target expression for Job Tasks   Professional Responsibilities)",
+            "መተኛት፣ መነሳት እና ማዛጋት። (contextual contrast form in Job Tasks   Professional Responsibilities)",
+            "መሮጥ፣ መዝለል እና መዋኘት። (formal register distinction for Job Tasks   Professional Responsibilities)",
+            "በአማርኛ የሥራ ተግባር ቃላት የሉም። (colloquial conversational usage for Job Tasks   Professional Responsibilities)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሥራ ተግባራትንና ኃላፊነቶችን በሙሉ ይዟል።"
@@ -6514,10 +6514,10 @@
         {
           "prompt": "«Job interview and work experience» የሚለውን በአማርኛ ትክክለኛ የቅጥር ቃላት የገለጸው የትኛው ነው?",
           "options": [
-            "የሥራ ቃለ መጠይቅ እና የሥራ ልምድ (Core concept alternative form)",
-            "የገበያ ሽያጭ (Core concept alternative form)",
-            "የእግር ኳስ ጨዋታ (Core concept alternative form)",
-            "የሲኒማ ትኬት (Core concept alternative form)"
+            "የሥራ ቃለ መጠይቅ እና የሥራ ልምድ (standard target expression for Job Applications  CV   Interviews)",
+            "የገበያ ሽያጭ (contextual contrast form in Job Applications  CV   Interviews)",
+            "የእግር ኳስ ጨዋታ (formal register distinction for Job Applications  CV   Interviews)",
+            "የሲኒማ ትኬት (colloquial conversational usage for Job Applications  CV   Interviews)"
           ],
           "answerIndex": 0,
           "explanation": "«የሥራ ቃለ መጠይቅ» እና «የሥራ ልምድ» ሁለቱን ወሳኝ የቅጥር ቃላት ያመለክታሉ።"
@@ -6529,10 +6529,10 @@
         {
           "prompt": "'I sent my application and CV' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ማመልከቻዬንና ሲቪዬን ላክሁ። (Core concept alternative form)",
-            "ማመልከቻ አልጻፍኩም (Core concept alternative form)",
-            "ሲቪ የለኝም (Core concept alternative form)",
-            "ሥራ አልፈልግም (Core concept alternative form)"
+            "ማመልከቻዬንና ሲቪዬን ላክሁ። (standard target expression for Job Applications  CV   Interviews)",
+            "ማመልከቻ አልጻፍኩም (contextual contrast form in Job Applications  CV   Interviews)",
+            "ሲቪ የለኝም (formal register distinction for Job Applications  CV   Interviews)",
+            "ሥራ አልፈልግም (colloquial conversational usage for Job Applications  CV   Interviews)"
           ],
           "answerIndex": 0,
           "explanation": "«ማመልከቻዬንና ሲቪዬን ላክሁ» የማመልከቻን መላክ በትክክል ያሳያል።"
@@ -6545,10 +6545,10 @@
           "type": "multiple-choice",
           "prompt": "የሥራ ማመልከቻና የቅጥር ሂደትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የሥራ ማስታወቂያ፣ ማመልከቻ፣ ሲቪ፣ ቃለ መጠይቅ፣ የቅጥር ውል እና ደመወዝ። (Core concept alternative form)",
-            "የበረራ ትኬት፣ ፓስፖርት እና ሻንጣ። (Core concept alternative form)",
-            "ስኳር፣ ጨው እና ዘይት። (Core concept alternative form)",
-            "በአማርኛ የቅጥር ቃላት የሉም። (Core concept alternative form)"
+            "የሥራ ማስታወቂያ፣ ማመልከቻ፣ ሲቪ፣ ቃለ መጠይቅ፣ የቅጥር ውል እና ደመወዝ። (standard target expression for Job Applications  CV   Interviews)",
+            "የበረራ ትኬት፣ ፓስፖርት እና ሻንጣ። (contextual contrast form in Job Applications  CV   Interviews)",
+            "ስኳር፣ ጨው እና ዘይት። (formal register distinction for Job Applications  CV   Interviews)",
+            "በአማርኛ የቅጥር ቃላት የሉም። (colloquial conversational usage for Job Applications  CV   Interviews)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሥራ ቅጥር ሂደትን ደረጃዎች በሙሉ ይዟል።"
@@ -6607,10 +6607,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ ሙያዊ ማንነትንና የሥራ ቦታን የሚያሳየው የትኛው ነው?",
           "options": [
-            "እኔ መምህር ነኝ፤ በዩኒቨርሲቲ ውስጥ ተማሪዎችን አስተምራለሁ። (Core concept alternative form)",
-            "እኔ ተማሪ አይደለሁም (Core concept alternative form)",
-            "ሥራ የለም (Core concept alternative form)",
-            "ቤት ተቀምጫለሁ (Core concept alternative form)"
+            "እኔ መምህር ነኝ፤ በዩኒቨርሲቲ ውስጥ ተማሪዎችን አስተምራለሁ። (standard target expression for Unit 13 Grand Synthesis   Professional Discourse)",
+            "እኔ ተማሪ አይደለሁም (contextual contrast form in Unit 13 Grand Synthesis   Professional Discourse)",
+            "ሥራ የለም (formal register distinction for Unit 13 Grand Synthesis   Professional Discourse)",
+            "ቤት ተቀምጫለሁ (colloquial conversational usage for Unit 13 Grand Synthesis   Professional Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙያን፣ የሥራ ቦታንና ተግባርን በአንድነት ያጠቃልላል።"
@@ -6622,10 +6622,10 @@
         {
           "prompt": "የሥራ ቅጥርንና የሥራ ጅማሬን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ቃለ መጠይቁን አልፌ አዲሱን ሥራዬን በደስታ ጀመርኩ። (Core concept alternative form)",
-            "ሥራ አልፈልግም (Core concept alternative form)",
-            "ቃለ መጠይቅ የለም (Core concept alternative form)",
-            "ደመወዝ አልፈልግም (Core concept alternative form)"
+            "ቃለ መጠይቁን አልፌ አዲሱን ሥራዬን በደስታ ጀመርኩ። (standard target expression for Unit 13 Grand Synthesis   Professional Discourse)",
+            "ሥራ አልፈልግም (contextual contrast form in Unit 13 Grand Synthesis   Professional Discourse)",
+            "ቃለ መጠይቅ የለም (formal register distinction for Unit 13 Grand Synthesis   Professional Discourse)",
+            "ደመወዝ አልፈልግም (colloquial conversational usage for Unit 13 Grand Synthesis   Professional Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቃለ መጠይቅን ማለፍና ሥራ መጀመርን በትክክል ያዛምዳል።"
@@ -6638,10 +6638,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 13 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ዋና ዋና ሙያዎች፣ የሥራ ቦታዎች፣ የዕለት ተዕለት የሥራ ኃላፊነቶች፣ እንዲሁም የሥራ ማመልከቻ፣ ሲቪ እና የቃለ መጠይቅ ውይይቶች ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የሙያ ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም ሰዎች አንድ ዓይነት ሥራ ይሠራሉ። (Core concept alternative form)"
+            "ዋና ዋና ሙያዎች፣ የሥራ ቦታዎች፣ የዕለት ተዕለት የሥራ ኃላፊነቶች፣ እንዲሁም የሥራ ማመልከቻ፣ ሲቪ እና የቃለ መጠይቅ ውይይቶች ተካተዋል። (standard target expression for Unit 13 Grand Synthesis   Professional Discourse)",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (contextual contrast form in Unit 13 Grand Synthesis   Professional Discourse)",
+            "በአማርኛ የሙያ ቃላት የሉም። (formal register distinction for Unit 13 Grand Synthesis   Professional Discourse)",
+            "ሁሉም ሰዎች አንድ ዓይነት ሥራ ይሠራሉ። (colloquial conversational usage for Unit 13 Grand Synthesis   Professional Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 13ን አጠቃላይ ሙያዊ ይዘት በሙሉ ይሸፍናል።"
@@ -6700,10 +6700,10 @@
         {
           "prompt": "«Lalibela, Aksum, and Gondar» የሚለውን በአማርኛ ትክክለኛ የታሪካዊ ቦታዎች ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ላሊበላ፣ አክሱም እና ጎንደር (Core concept alternative form)",
-            "መጽሐፍ፣ ደብተር እና እርሳስ (Core concept alternative form)",
-            "ታክሲ፣ ባቡር እና አውቶቡስ (Core concept alternative form)",
-            "ወጥ፣ ዳቦ እና ሻይ (Core concept alternative form)"
+            "ላሊበላ፣ አክሱም እና ጎንደር (standard target expression for Famous Ethiopian Historical Sites)",
+            "መጽሐፍ፣ ደብተር እና እርሳስ (contextual contrast form in Famous Ethiopian Historical Sites)",
+            "ታክሲ፣ ባቡር እና አውቶቡስ (formal register distinction for Famous Ethiopian Historical Sites)",
+            "ወጥ፣ ዳቦ እና ሻይ (colloquial conversational usage for Famous Ethiopian Historical Sites)"
           ],
           "answerIndex": 0,
           "explanation": "«ላሊበላ»፣ «አክሱም» እና «ጎንደር» ሦስቱን ታላላቅ የኢትዮጵያ ታሪካዊ ቅርሶች ያመለክታሉ።"
@@ -6715,10 +6715,10 @@
         {
           "prompt": "'The rock churches of Lalibela are famous' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው። (Core concept alternative form)",
-            "ላሊበላ አዲስ ከተማ ነው (Core concept alternative form)",
-            "ላሊበላ ቤተ ክርስቲያን የለውም (Core concept alternative form)",
-            "ላሊበላ መሄድ አይቻልም (Core concept alternative form)"
+            "የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው። (standard target expression for Famous Ethiopian Historical Sites)",
+            "ላሊበላ አዲስ ከተማ ነው (contextual contrast form in Famous Ethiopian Historical Sites)",
+            "ላሊበላ ቤተ ክርስቲያን የለውም (formal register distinction for Famous Ethiopian Historical Sites)",
+            "ላሊበላ መሄድ አይቻልም (colloquial conversational usage for Famous Ethiopian Historical Sites)"
           ],
           "answerIndex": 0,
           "explanation": "«የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው» የታሪካዊ ቅርሱን ዝና በትክክል ያሳያል።"
@@ -6731,10 +6731,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን ዋና ዋና ታሪካዊ ቅርሶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ላሊበላ፣ አክሱም፣ የጎንደር ፋሲል ግቢ፣ የሐረር ጁጎል እና የጢያ ሐውልቶች። (Core concept alternative form)",
-            "አልጋ፣ ጠረጴዛ እና ወንበር። (Core concept alternative form)",
-            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (Core concept alternative form)",
-            "በኢትዮጵያ ታሪካዊ ቅርሶች የሉም። (Core concept alternative form)"
+            "ላሊበላ፣ አክሱም፣ የጎንደር ፋሲል ግቢ፣ የሐረር ጁጎል እና የጢያ ሐውልቶች። (standard target expression for Famous Ethiopian Historical Sites)",
+            "አልጋ፣ ጠረጴዛ እና ወንበር። (contextual contrast form in Famous Ethiopian Historical Sites)",
+            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (formal register distinction for Famous Ethiopian Historical Sites)",
+            "በኢትዮጵያ ታሪካዊ ቅርሶች የሉም። (colloquial conversational usage for Famous Ethiopian Historical Sites)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኢትዮጵያ ታሪካዊ ቦታዎችን በሙሉ ይዟል።"
@@ -6793,10 +6793,10 @@
         {
           "prompt": "«I booked a hotel room» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "በሆቴል ውስጥ ክፍል ያዝኩ። (Core concept alternative form)",
-            "ሆቴል ውስጥ ምግብ በላሁ (Core concept alternative form)",
-            "ሆቴል አልሄድም (Core concept alternative form)",
-            "ሆቴል የለም (Core concept alternative form)"
+            "በሆቴል ውስጥ ክፍል ያዝኩ። (standard target expression for Travel Logistics   Hospitality)",
+            "ሆቴል ውስጥ ምግብ በላሁ (contextual contrast form in Travel Logistics   Hospitality)",
+            "ሆቴል አልሄድም (formal register distinction for Travel Logistics   Hospitality)",
+            "ሆቴል የለም (colloquial conversational usage for Travel Logistics   Hospitality)"
           ],
           "answerIndex": 0,
           "explanation": "«በሆቴል ውስጥ ክፍል ያዝኩ» የክፍል ማስያዝን ድርጊት በትክክል ያሳያል።"
@@ -6808,10 +6808,10 @@
         {
           "prompt": "'The tour guide explains the history' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አስጎብኚው ታሪኩን ያስረዳል። (Core concept alternative form)",
-            "አስጎብኚው ይተኛል (Core concept alternative form)",
-            "አስጎብኚው ታሪክ አያውቅም (Core concept alternative form)",
-            "ምንም አስጎብኚ የለም (Core concept alternative form)"
+            "አስጎብኚው ታሪኩን ያስረዳል። (standard target expression for Travel Logistics   Hospitality)",
+            "አስጎብኚው ይተኛል (contextual contrast form in Travel Logistics   Hospitality)",
+            "አስጎብኚው ታሪክ አያውቅም (formal register distinction for Travel Logistics   Hospitality)",
+            "ምንም አስጎብኚ የለም (colloquial conversational usage for Travel Logistics   Hospitality)"
           ],
           "answerIndex": 0,
           "explanation": "«አስጎብኚው ታሪኩን ያስረዳል» የጉዞ አስጎብኚውን ተግባር በትክክል ያመለክታል።"
@@ -6824,10 +6824,10 @@
           "type": "multiple-choice",
           "prompt": "የጉዞ ዝግጅትንና የእንግዳ ተቀባይነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የአውሮፕላን ትኬት፣ ሆቴል፣ ክፍል መያዝ፣ የጉዞ አስጎብኚ እና ሻንጣ። (Core concept alternative form)",
-            "መጥረጊያ፣ ባልዲ እና ሳሙና። (Core concept alternative form)",
-            "ጨው፣ በርበሬ እና ሽንኩርት። (Core concept alternative form)",
-            "በአማርኛ የጉዞ ቃላት የሉም። (Core concept alternative form)"
+            "የአውሮፕላን ትኬት፣ ሆቴል፣ ክፍል መያዝ፣ የጉዞ አስጎብኚ እና ሻንጣ። (standard target expression for Travel Logistics   Hospitality)",
+            "መጥረጊያ፣ ባልዲ እና ሳሙና። (contextual contrast form in Travel Logistics   Hospitality)",
+            "ጨው፣ በርበሬ እና ሽንኩርት። (formal register distinction for Travel Logistics   Hospitality)",
+            "በአማርኛ የጉዞ ቃላት የሉም። (colloquial conversational usage for Travel Logistics   Hospitality)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የጉዞ ዝግጅት ቃላትን በሙሉ ይዟል።"
@@ -6886,10 +6886,10 @@
         {
           "prompt": "«Fascinating and unforgettable trip» የሚለውን በአማርኛ ትክክለኛ ገላጭ ሐረግ የያዘው የትኛው ነው?",
           "options": [
-            "አስደናቂ እና የማይረሳ ጉዞ (Core concept key phrasing)",
-            "አጭር እና መጥፎ መንገድ (Core concept alternative form)",
-            "የጠፋ ሻንጣ (Core concept alternative form)",
-            "የተሰበረ መኪና (Core concept alternative form)"
+            "አስደናቂ እና የማይረሳ ጉዞ (standard target expression for Describing Travel Experiences   Wonders)",
+            "አጭር እና መጥፎ መንገድ (contextual contrast form in Describing Travel Experiences   Wonders)",
+            "የጠፋ ሻንጣ (formal register distinction for Describing Travel Experiences   Wonders)",
+            "የተሰበረ መኪና (colloquial conversational usage for Describing Travel Experiences   Wonders)"
           ],
           "answerIndex": 0,
           "explanation": "«አስደናቂ እና የማይረሳ ጉዞ» ሁለቱን ገላጭ ቅጽሎች ከስሙ ጋር በትክክል ያጣምራል።"
@@ -6901,10 +6901,10 @@
         {
           "prompt": "'The ancient monasteries on the lake are beautiful' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው። (Core concept alternative form)",
-            "ሐይቁ ደርቋል (Core concept alternative form)",
-            "ገዳማት የሉም (Core concept alternative form)",
-            "ምንም ውበት የለም (Core concept alternative form)"
+            "በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው። (standard target expression for Describing Travel Experiences   Wonders)",
+            "ሐይቁ ደርቋል (contextual contrast form in Describing Travel Experiences   Wonders)",
+            "ገዳማት የሉም (formal register distinction for Describing Travel Experiences   Wonders)",
+            "ምንም ውበት የለም (colloquial conversational usage for Describing Travel Experiences   Wonders)"
           ],
           "answerIndex": 0,
           "explanation": "«በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው» ጥንታዊነትን፣ ቦታንና ውበትን በትክክል ያዛምዳል።"
@@ -6917,10 +6917,10 @@
           "type": "multiple-choice",
           "prompt": "የጉዞ ልምድ ገላጭ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ጥንታዊ፣ አስደናቂ፣ ማራኪ፣ ድንቅ፣ ታሪካዊ እና የማይረሳ። (Core concept alternative form)",
-            "ክኒን፣ ሽሮፕ እና መርፌ። (Core concept alternative form)",
-            "ቅባት፣ ዘይት እና ዱቄት። (Core concept alternative form)",
-            "በአማርኛ ገላጭ ቅጽሎች የሉም። (Core concept alternative form)"
+            "ጥንታዊ፣ አስደናቂ፣ ማራኪ፣ ድንቅ፣ ታሪካዊ እና የማይረሳ። (standard target expression for Describing Travel Experiences   Wonders)",
+            "ክኒን፣ ሽሮፕ እና መርፌ። (contextual contrast form in Describing Travel Experiences   Wonders)",
+            "ቅባት፣ ዘይት እና ዱቄት። (formal register distinction for Describing Travel Experiences   Wonders)",
+            "በአማርኛ ገላጭ ቅጽሎች የሉም። (colloquial conversational usage for Describing Travel Experiences   Wonders)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታና የልምድ ገላጭ ቅጽሎችን በሙሉ ይዟል።"
@@ -6979,10 +6979,10 @@
         {
           "prompt": "በሰሜን ተራሮች ብሔራዊ ፓርክ ውስጥ የሚገኘው ብርቅዬ እንስሳ የትኛው ነው?",
           "options": [
-            "ዋሊያ አይቤክስ (Core concept key phrasing)",
-            "አንበሳ ብቻ (Core concept alternative form)",
-            "ነብር ብቻ (Core concept alternative form)",
-            "ዝሆን ብቻ (Core concept alternative form)"
+            "ዋሊያ አይቤክስ (standard target expression for National Parks   Endemic Wildlife)",
+            "አንበሳ ብቻ (contextual contrast form in National Parks   Endemic Wildlife)",
+            "ነብር ብቻ (formal register distinction for National Parks   Endemic Wildlife)",
+            "ዝሆን ብቻ (colloquial conversational usage for National Parks   Endemic Wildlife)"
           ],
           "answerIndex": 0,
           "explanation": "«ዋሊያ አይቤክስ» በሰሜን ተራሮች ገደላማ ስፍራዎች ላይ ብቻ የሚገኝ ብርቅዬ እንስሳ ነው።"
@@ -6994,10 +6994,10 @@
         {
           "prompt": "'The Ethiopian red wolf lives in Bale Mountains' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል። (Core concept alternative form)",
-            "ቀይ ቀበሮ በባህር ውስጥ ይኖራል (Core concept alternative form)",
-            "ባሌ ተራራ ውስጥ እንስሳት የሉም (Core concept alternative form)",
-            "ቀይ ቀበሮ ጠፍቷል (Core concept alternative form)"
+            "የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል። (standard target expression for National Parks   Endemic Wildlife)",
+            "ቀይ ቀበሮ በባህር ውስጥ ይኖራል (contextual contrast form in National Parks   Endemic Wildlife)",
+            "ባሌ ተራራ ውስጥ እንስሳት የሉም (formal register distinction for National Parks   Endemic Wildlife)",
+            "ቀይ ቀበሮ ጠፍቷል (colloquial conversational usage for National Parks   Endemic Wildlife)"
           ],
           "answerIndex": 0,
           "explanation": "«የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል» የእንስሳውን መገኛ በትክክል ያሳያል።"
@@ -7010,10 +7010,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የሰሜን ተራሮች፣ የባሌ ተራሮች፣ ዋሊያ አይቤክስ፣ ጭላዳ ዝንጀሮ እና ቀይ ቀበሮ። (Core concept alternative form)",
-            "ቡና፣ ሻይ እና ወተት። (Core concept alternative form)",
-            "ሸሚዝ፣ ሱሪ እና ጫማ። (Core concept alternative form)",
-            "በኢትዮጵያ ብሔራዊ ፓርኮች የሉም። (Core concept alternative form)"
+            "የሰሜን ተራሮች፣ የባሌ ተራሮች፣ ዋሊያ አይቤክስ፣ ጭላዳ ዝንጀሮ እና ቀይ ቀበሮ። (standard target expression for National Parks   Endemic Wildlife)",
+            "ቡና፣ ሻይ እና ወተት። (contextual contrast form in National Parks   Endemic Wildlife)",
+            "ሸሚዝ፣ ሱሪ እና ጫማ። (formal register distinction for National Parks   Endemic Wildlife)",
+            "በኢትዮጵያ ብሔራዊ ፓርኮች የሉም። (colloquial conversational usage for National Parks   Endemic Wildlife)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በሙሉ ይዟል።"
@@ -7072,10 +7072,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የቱሪዝም እና የቅርስ ጉዞ አገላለጽን የሚያሳየው የትኛው ነው?",
           "options": [
-            "ታሪካዊ ቅርሶችን ጎበኘን፣ በሆቴል አረፍን፣ እንዲሁም ብርቅዬ እንስሳትን ተመለከትን። (Core concept alternative form)",
-            "ቤት ውስጥ ተቀመጥን (Core concept alternative form)",
-            "ምንም ቦታ አልሄድንም (Core concept alternative form)",
-            "ጉዞ አንወድም (Core concept alternative form)"
+            "ታሪካዊ ቅርሶችን ጎበኘን፣ በሆቴል አረፍን፣ እንዲሁም ብርቅዬ እንስሳትን ተመለከትን። (standard target expression for Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "ቤት ውስጥ ተቀመጥን (contextual contrast form in Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "ምንም ቦታ አልሄድንም (formal register distinction for Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "ጉዞ አንወድም (colloquial conversational usage for Unit 14 Grand Synthesis   Heritage Tourism Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ቅርሶችን መጎብኘት፣ ማረፍና ብርቅዬ እንስሳትን መመልከትን በአንድ ላይ ያጠቃልላል።"
@@ -7087,10 +7087,10 @@
         {
           "prompt": "ታሪካዊ ቦታዎችንና የተፈጥሮ ፓርኮችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "የጎንደርን ቤተ መንግሥታት እና የሰሜን ተራሮችን ውበት አደነቅን። (Core concept alternative form)",
-            "ጎንደር ቅርሶች የሉትም (Core concept alternative form)",
-            "ሰሜን ተራራ ሩቅ ነው (Core concept alternative form)",
-            "ምንም ውበት የለም (Core concept alternative form)"
+            "የጎንደርን ቤተ መንግሥታት እና የሰሜን ተራሮችን ውበት አደነቅን። (standard target expression for Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "ጎንደር ቅርሶች የሉትም (contextual contrast form in Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "ሰሜን ተራራ ሩቅ ነው (formal register distinction for Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "ምንም ውበት የለም (colloquial conversational usage for Unit 14 Grand Synthesis   Heritage Tourism Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጎንደር ቤተ መንግሥታትንና የሰሜን ተራሮችን ውበት በአንድነት ያሳያል።"
@@ -7103,10 +7103,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 14 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ዋና ዋና ታሪካዊ ቦታዎች (Core concept alternative form)",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የቱሪዝም ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም ከተሞች አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "ዋና ዋና ታሪካዊ ቦታዎች (standard target expression for Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (contextual contrast form in Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "በአማርኛ የቱሪዝም ቃላት የሉም። (formal register distinction for Unit 14 Grand Synthesis   Heritage Tourism Discourse)",
+            "ሁሉም ከተሞች አንድ ዓይነት ናቸው። (colloquial conversational usage for Unit 14 Grand Synthesis   Heritage Tourism Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 14ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -7165,10 +7165,10 @@
         {
           "prompt": "«The rainy season and the harvest season» የሚለውን በአማርኛ ትክክለኛ የወቅት ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ክረምት እና መኸር (Core concept alternative form)",
-            "ጠዋት እና ማታ (Core concept alternative form)",
-            "ሰኞ እና አርብ (Core concept alternative form)",
-            "ጥር እና የካቲት (Core concept alternative form)"
+            "ክረምት እና መኸር (standard target expression for The Four Ethiopian Seasons)",
+            "ጠዋት እና ማታ (contextual contrast form in The Four Ethiopian Seasons)",
+            "ሰኞ እና አርብ (formal register distinction for The Four Ethiopian Seasons)",
+            "ጥር እና የካቲት (colloquial conversational usage for The Four Ethiopian Seasons)"
           ],
           "answerIndex": 0,
           "explanation": "«ክረምት» እና «መኸር» ሁለቱን ዋና ዋና የኢትዮጵያ ወቅቶች ያመለክታሉ።"
@@ -7180,10 +7180,10 @@
         {
           "prompt": "'Adey Abeba flowers bloom in Meher' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በመኸር ወቅት አደይ አበባ ያብባል። (Core concept alternative form)",
-            "በክረምት አበባ የለም (Core concept alternative form)",
-            "መኸር ደረቅ ነው (Core concept alternative form)",
-            "አደይ አበባ አይፈካም (Core concept alternative form)"
+            "በመኸር ወቅት አደይ አበባ ያብባል። (standard target expression for The Four Ethiopian Seasons)",
+            "በክረምት አበባ የለም (contextual contrast form in The Four Ethiopian Seasons)",
+            "መኸር ደረቅ ነው (formal register distinction for The Four Ethiopian Seasons)",
+            "አደይ አበባ አይፈካም (colloquial conversational usage for The Four Ethiopian Seasons)"
           ],
           "answerIndex": 0,
           "explanation": "«በመኸር ወቅት አደይ አበባ ያብባል» የመኸር ወቅትን ውበትና የአደይ አበባን መፈካት በትክክል ያሳያል።"
@@ -7196,10 +7196,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን አራቱን ወቅቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "በጋ፣ ክረምት፣ መኸር እና ፀደይ (balg)",
-            "ዳቦ፣ እንጀራ፣ ወጥ እና ጠጅ። (Core concept alternative form)",
-            "ላሊበላ፣ ጎንደር፣ አክሱም እና ሐረር። (Core concept alternative form)",
-            "በኢትዮጵያ ወቅቶች የሉም። (Core concept alternative form)"
+            "በጋ፣ ክረምት፣ መኸር እና ፀደይ (standard target expression for The Four Ethiopian Seasons)",
+            "ዳቦ፣ እንጀራ፣ ወጥ እና ጠጅ። (contextual contrast form in The Four Ethiopian Seasons)",
+            "ላሊበላ፣ ጎንደር፣ አክሱም እና ሐረር። (formal register distinction for The Four Ethiopian Seasons)",
+            "በኢትዮጵያ ወቅቶች የሉም። (colloquial conversational usage for The Four Ethiopian Seasons)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን የኢትዮጵያ ወቅቶች በሙሉ ይዟል።"
@@ -7258,10 +7258,10 @@
         {
           "prompt": "«Today the weather is sunny and warm» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው። (Core concept alternative form)",
-            "ዛሬ ዝናብ በረዶ ነው (Core concept alternative form)",
-            "ዛሬ ጨለማ ነው (Core concept alternative form)",
-            "አየር የለም (Core concept alternative form)"
+            "ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው። (standard target expression for Daily Weather Expressions)",
+            "ዛሬ ዝናብ በረዶ ነው (contextual contrast form in Daily Weather Expressions)",
+            "ዛሬ ጨለማ ነው (formal register distinction for Daily Weather Expressions)",
+            "አየር የለም (colloquial conversational usage for Daily Weather Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "«ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው» የፀሐይንና የሙቀትን ሁኔታ በትክክል ያሳያል።"
@@ -7273,10 +7273,10 @@
         {
           "prompt": "'Wear a jacket because it is cold' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስለሚበርድ ጃኬት ልበስ። (Core concept alternative form)",
-            "ስለሚሞቅ ጃኬት አውልቅ (Core concept alternative form)",
-            "ብርድ የለም (Core concept alternative form)",
-            "ጃኬት አያስፈልግም (Core concept alternative form)"
+            "ስለሚበርድ ጃኬት ልበስ። (standard target expression for Daily Weather Expressions)",
+            "ስለሚሞቅ ጃኬት አውልቅ (contextual contrast form in Daily Weather Expressions)",
+            "ብርድ የለም (formal register distinction for Daily Weather Expressions)",
+            "ጃኬት አያስፈልግም (colloquial conversational usage for Daily Weather Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "«ስለሚበርድ ጃኬት ልበስ» ቅዝቃዜንና ተገቢ ልብስ መልበስን በትክክል ያዛምዳል።"
@@ -7289,10 +7289,10 @@
           "type": "multiple-choice",
           "prompt": "የአየር ሁኔታ መግለጫዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ፀሐያማ፣ ዝናባማ፣ ደመናማ፣ ንፋሻማ፣ ጭጋጋማ፣ ብርድ እና ሙቀት። (Core concept alternative form)",
-            "እርሳስ፣ እስክሪብቶ እና ወረቀት። (Core concept alternative form)",
-            "ስኒ፣ ብርጭቆ እና ማንኪያ። (Core concept alternative form)",
-            "በአማርኛ የአየር ሁኔታ ቃላት የሉም። (Core concept alternative form)"
+            "ፀሐያማ፣ ዝናባማ፣ ደመናማ፣ ንፋሻማ፣ ጭጋጋማ፣ ብርድ እና ሙቀት። (standard target expression for Daily Weather Expressions)",
+            "እርሳስ፣ እስክሪብቶ እና ወረቀት። (contextual contrast form in Daily Weather Expressions)",
+            "ስኒ፣ ብርጭቆ እና ማንኪያ። (formal register distinction for Daily Weather Expressions)",
+            "በአማርኛ የአየር ሁኔታ ቃላት የሉም። (colloquial conversational usage for Daily Weather Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአየር ሁኔታ ገላጭ ቃላትን በሙሉ ይዟል።"
@@ -7351,10 +7351,10 @@
         {
           "prompt": "«Mountain, river, and waterfall» የሚለውን በአማርኛ ትክክለኛ የመልክዓ ምድር ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ተራራ፣ ወንዝ እና ፏፏቴ (Core concept alternative form)",
-            "ወንበር፣ ጠረጴዛ እና በር (Core concept alternative form)",
-            "መኪና፣ ባቡር እና ታክሲ (Core concept alternative form)",
-            "ዳቦ፣ ወተት እና ሻይ (Core concept alternative form)"
+            "ተራራ፣ ወንዝ እና ፏፏቴ (standard target expression for Landforms   Water Bodies)",
+            "ወንበር፣ ጠረጴዛ እና በር (contextual contrast form in Landforms   Water Bodies)",
+            "መኪና፣ ባቡር እና ታክሲ (formal register distinction for Landforms   Water Bodies)",
+            "ዳቦ፣ ወተት እና ሻይ (colloquial conversational usage for Landforms   Water Bodies)"
           ],
           "answerIndex": 0,
           "explanation": "«ተራራ»፣ «ወንዝ» እና «ፏፏቴ» ሦስቱን ቁልፍ የተፈጥሮ መልክዓ ምድር ገጽታዎች ያመለክታሉ።"
@@ -7366,10 +7366,10 @@
         {
           "prompt": "'Tis Abay is a famous waterfall' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጢስ ዓባይ ታዋቂ ፏፏቴ ነው። (Core concept alternative form)",
-            "ጢስ ዓባይ ተራራ ነው (Core concept alternative form)",
-            "ጢስ ዓባይ ደረቅ መሬት ነው (Core concept alternative form)",
-            "ፏፏቴ የለም (Core concept alternative form)"
+            "ጢስ ዓባይ ታዋቂ ፏፏቴ ነው። (standard target expression for Landforms   Water Bodies)",
+            "ጢስ ዓባይ ተራራ ነው (contextual contrast form in Landforms   Water Bodies)",
+            "ጢስ ዓባይ ደረቅ መሬት ነው (formal register distinction for Landforms   Water Bodies)",
+            "ፏፏቴ የለም (colloquial conversational usage for Landforms   Water Bodies)"
           ],
           "answerIndex": 0,
           "explanation": "«ጢስ ዓባይ ታዋቂ ፏፏቴ ነው» የጢስ ዓባይን የተፈጥሮ ምንነት በትክክል ያሳያል።"
@@ -7382,10 +7382,10 @@
           "type": "multiple-choice",
           "prompt": "የመልክዓ ምድር ገጽታዎችንና የውሃ አካላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተራራ፣ ስምጥ ሸለቆ፣ ሜዳ፣ ወንዝ፣ ሐይቅ፣ ፏፏቴ እና ዋሻ። (Core concept alternative form)",
-            "ቤት፣ በር፣ ግድግዳ እና ጣሪያ። (Core concept alternative form)",
-            "ብርቱካን፣ ሙዝ እና አፕል ብቻ። (Core concept alternative form)",
-            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (Core concept alternative form)"
+            "ተራራ፣ ስምጥ ሸለቆ፣ ሜዳ፣ ወንዝ፣ ሐይቅ፣ ፏፏቴ እና ዋሻ። (standard target expression for Landforms   Water Bodies)",
+            "ቤት፣ በር፣ ግድግዳ እና ጣሪያ። (contextual contrast form in Landforms   Water Bodies)",
+            "ብርቱካን፣ ሙዝ እና አፕል ብቻ። (formal register distinction for Landforms   Water Bodies)",
+            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (colloquial conversational usage for Landforms   Water Bodies)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የመልክዓ ምድርና የውሃ አካላትን በሙሉ ይዟል።"
@@ -7444,10 +7444,10 @@
         {
           "prompt": "«Planting tree seedlings and protecting forests» የሚለውን በአማርኛ ትክክለኛ የአካባቢ ጥበቃ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "ችግኝ መትከል እና ደን መጠበቅ (Core concept key phrasing)",
-            "ዛፍ መቁረጥ (Core concept alternative form)",
-            "ቆሻሻ መጣል (Core concept alternative form)",
-            "ውሃ ማባከን (Core concept alternative form)"
+            "ችግኝ መትከል እና ደን መጠበቅ (standard target expression for Environmental Care   Green Legacy)",
+            "ዛፍ መቁረጥ (contextual contrast form in Environmental Care   Green Legacy)",
+            "ቆሻሻ መጣል (formal register distinction for Environmental Care   Green Legacy)",
+            "ውሃ ማባከን (colloquial conversational usage for Environmental Care   Green Legacy)"
           ],
           "answerIndex": 0,
           "explanation": "«ችግኝ መትከል እና ደን መጠበቅ» ሁለቱን ቁልፍ የተፈጥሮ ጥበቃ ተግባራት ያመለክታሉ።"
@@ -7459,10 +7459,10 @@
         {
           "prompt": "'We must protect our environment' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አካባቢያችንን መጠበቅ አለብን። (Core concept alternative form)",
-            "አካባቢን ማጥፋት አለብን (Core concept alternative form)",
-            "ምንም ማድረግ አያስፈልግም (Core concept alternative form)",
-            "ተፈጥሮ አያስፈልግም (Core concept alternative form)"
+            "አካባቢያችንን መጠበቅ አለብን። (standard target expression for Environmental Care   Green Legacy)",
+            "አካባቢን ማጥፋት አለብን (contextual contrast form in Environmental Care   Green Legacy)",
+            "ምንም ማድረግ አያስፈልግም (formal register distinction for Environmental Care   Green Legacy)",
+            "ተፈጥሮ አያስፈልግም (colloquial conversational usage for Environmental Care   Green Legacy)"
           ],
           "answerIndex": 0,
           "explanation": "«አካባቢያችንን መጠበቅ አለብን» የአካባቢ ጥበቃ ግዴታን በትክክል ያሳያል።"
@@ -7475,10 +7475,10 @@
           "type": "multiple-choice",
           "prompt": "የአካባቢ ጥበቃና የችግኝ ተከላ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የችግኝ ተከላ፣ አረንጓዴ አሻራ፣ የደን ጥበቃ፣ የአፈር እንክብካቤ እና የተፈጥሮ ሀብት። (Core concept alternative form)",
-            "ጠመንጃ፣ ጥይት እና ጦር። (Core concept alternative form)",
-            "ስልክ፣ ቻርጀር እና ባትሪ። (Core concept alternative form)",
-            "በአማርኛ የአካባቢ ጥበቃ ቃላት የሉም። (Core concept alternative form)"
+            "የችግኝ ተከላ፣ አረንጓዴ አሻራ፣ የደን ጥበቃ፣ የአፈር እንክብካቤ እና የተፈጥሮ ሀብት። (standard target expression for Environmental Care   Green Legacy)",
+            "ጠመንጃ፣ ጥይት እና ጦር። (contextual contrast form in Environmental Care   Green Legacy)",
+            "ስልክ፣ ቻርጀር እና ባትሪ። (formal register distinction for Environmental Care   Green Legacy)",
+            "በአማርኛ የአካባቢ ጥበቃ ቃላት የሉም። (colloquial conversational usage for Environmental Care   Green Legacy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአካባቢ ጥበቃ ቃላትን በሙሉ ይዟል።"
@@ -7537,10 +7537,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአየር ንብረትና የተፈጥሮ ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "አራቱ ወቅቶች፣ ውብ የመልክዓ ምድር ገጽታዎች እና የተፈጥሮ አካባቢ ጥበቃ ተስማምተው ይገኛሉ። (Core concept alternative form)",
-            "ምንም ወቅት የለም (Core concept alternative form)",
-            "ዝናብ አይዘንብም (Core concept alternative form)",
-            "ተራራና ወንዝ የለም (Core concept alternative form)"
+            "አራቱ ወቅቶች፣ ውብ የመልክዓ ምድር ገጽታዎች እና የተፈጥሮ አካባቢ ጥበቃ ተስማምተው ይገኛሉ። (standard target expression for Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "ምንም ወቅት የለም (contextual contrast form in Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "ዝናብ አይዘንብም (formal register distinction for Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "ተራራና ወንዝ የለም (colloquial conversational usage for Unit 15 Grand Synthesis   Environmental Geography Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ወቅቶችን፣ መልክዓ ምድርንና የአካባቢ ጥበቃን በአንድነት ያጠቃልላል።"
@@ -7552,10 +7552,10 @@
         {
           "prompt": "የችግኝ ተከላንና የተፈጥሮ ውበትን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ችግኞችን በመትከል አካባቢያችንን አረንጓዴ እና ውብ እናደርጋለን። (Core concept alternative form)",
-            "ዛፎች አይጠቅሙም (Core concept alternative form)",
-            "ተፈጥሮ አያስፈልግም (Core concept alternative form)",
-            "ውሃ የለም (Core concept alternative form)"
+            "ችግኞችን በመትከል አካባቢያችንን አረንጓዴ እና ውብ እናደርጋለን። (standard target expression for Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "ዛፎች አይጠቅሙም (contextual contrast form in Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "ተፈጥሮ አያስፈልግም (formal register distinction for Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "ውሃ የለም (colloquial conversational usage for Unit 15 Grand Synthesis   Environmental Geography Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የችግኝ ተከላንና የተፈጥሮ ውበትን ማሳደግን በትክክል ያዛምዳል።"
@@ -7568,10 +7568,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 15 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ አራቱ ወቅቶች (Core concept alternative form)",
-            "ይህ ክፍል ስለ ቋንቋ ሰዋሰው ህጎች ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም ወቅቶች እኩል ዝናብ አላቸው። (Core concept alternative form)"
+            "የኢትዮጵያ አራቱ ወቅቶች (standard target expression for Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "ይህ ክፍል ስለ ቋንቋ ሰዋሰው ህጎች ብቻ ነው። (contextual contrast form in Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (formal register distinction for Unit 15 Grand Synthesis   Environmental Geography Discourse)",
+            "ሁሉም ወቅቶች እኩል ዝናብ አላቸው። (colloquial conversational usage for Unit 15 Grand Synthesis   Environmental Geography Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 15ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -7630,10 +7630,10 @@
         {
           "prompt": "«Living room, bedroom, and kitchen» የሚለውን በአማርኛ ትክክለኛ የክፍል ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ሳሎን፣ መኝታ ቤት እና ማብሰያ ቤት (Core concept alternative form)",
-            "መኪና፣ አውቶቡስ እና ባቡር (Core concept alternative form)",
-            "እርሳስ፣ ደብተር እና መጽሐፍ (Core concept alternative form)",
-            "ሱሪ፣ ሸሚዝ እና ኮት (Core concept alternative form)"
+            "ሳሎን፣ መኝታ ቤት እና ማብሰያ ቤት (standard target expression for Rooms of the House)",
+            "መኪና፣ አውቶቡስ እና ባቡር (contextual contrast form in Rooms of the House)",
+            "እርሳስ፣ ደብተር እና መጽሐፍ (formal register distinction for Rooms of the House)",
+            "ሱሪ፣ ሸሚዝ እና ኮት (colloquial conversational usage for Rooms of the House)"
           ],
           "answerIndex": 0,
           "explanation": "«ሳሎን»፣ «መኝታ ቤት» እና «ማብሰያ ቤት» ሦስቱን ዋና ዋና የቤት ክፍሎችን ያመለክታሉ።"
@@ -7645,10 +7645,10 @@
         {
           "prompt": "'Food is prepared in the kitchen' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል። (Core concept alternative form)",
-            "ምግብ በመኝታ ቤት ይዘጋጃል (Core concept alternative form)",
-            "ምግብ በመታጠቢያ ቤት ይበስላል (Core concept alternative form)",
-            "ወጥ ቤት የለም (Core concept alternative form)"
+            "ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል። (standard target expression for Rooms of the House)",
+            "ምግብ በመኝታ ቤት ይዘጋጃል (contextual contrast form in Rooms of the House)",
+            "ምግብ በመታጠቢያ ቤት ይበስላል (formal register distinction for Rooms of the House)",
+            "ወጥ ቤት የለም (colloquial conversational usage for Rooms of the House)"
           ],
           "answerIndex": 0,
           "explanation": "«ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል» የምግብ ማብሰል ተግባር የሚከናወንበትን ክፍል በትክክል ያሳያል።"
@@ -7661,10 +7661,10 @@
           "type": "multiple-choice",
           "prompt": "የቤት ውስጥ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት፣ መታጠቢያ ቤት፣ በረንዳ እና ጓሮ። (Core concept alternative form)",
-            "ቡና፣ ሻይ፣ ወተት እና ጭማቂ። (Core concept alternative form)",
-            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (Core concept alternative form)",
-            "በአማርኛ የቤት ክፍሎች ስም የላቸውም። (Core concept alternative form)"
+            "ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት፣ መታጠቢያ ቤት፣ በረንዳ እና ጓሮ። (standard target expression for Rooms of the House)",
+            "ቡና፣ ሻይ፣ ወተት እና ጭማቂ። (contextual contrast form in Rooms of the House)",
+            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (formal register distinction for Rooms of the House)",
+            "በአማርኛ የቤት ክፍሎች ስም የላቸውም። (colloquial conversational usage for Rooms of the House)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቤት ክፍሎችን በሙሉ ይዟል።"
@@ -7723,10 +7723,10 @@
         {
           "prompt": "«Sofa, bed, table, and wardrobe» የሚለውን በአማርኛ ትክክለኛ የቤት እቃዎች ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "ሶፋ፣ አልጋ፣ ጠረጴዛ እና ቁም ሣጥን (Core concept alternative form)",
-            "ስልክ፣ ቴሌቪዥን እና ሬዲዮ (Core concept alternative form)",
-            "ሹካ፣ ማንኪያ እና ቢላዋ (Core concept alternative form)",
-            "ሸሚዝ፣ ሱሪ እና ጫማ (Core concept alternative form)"
+            "ሶፋ፣ አልጋ፣ ጠረጴዛ እና ቁም ሣጥን (standard target expression for Furniture   Household Items)",
+            "ስልክ፣ ቴሌቪዥን እና ሬዲዮ (contextual contrast form in Furniture   Household Items)",
+            "ሹካ፣ ማንኪያ እና ቢላዋ (formal register distinction for Furniture   Household Items)",
+            "ሸሚዝ፣ ሱሪ እና ጫማ (colloquial conversational usage for Furniture   Household Items)"
           ],
           "answerIndex": 0,
           "explanation": "«ሶፋ»፣ «አልጋ»፣ «ጠረጴዛ» እና «ቁም ሣጥን» ዋና ዋና የቤት ውስጥ እቃዎችን ያመለክታሉ።"
@@ -7738,10 +7738,10 @@
         {
           "prompt": "'A large wardrobe is in the bedroom' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ። (Core concept alternative form)",
-            "ቁም ሣጥን በመንገድ ላይ አለ (Core concept alternative form)",
-            "ምንም እቃ የለም (Core concept alternative form)",
-            "አልጋ የለም (Core concept alternative form)"
+            "በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ። (standard target expression for Furniture   Household Items)",
+            "ቁም ሣጥን በመንገድ ላይ አለ (contextual contrast form in Furniture   Household Items)",
+            "ምንም እቃ የለም (formal register distinction for Furniture   Household Items)",
+            "አልጋ የለም (colloquial conversational usage for Furniture   Household Items)"
           ],
           "answerIndex": 0,
           "explanation": "«በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ» የቁም ሣጥኑን መገኛና መጠን በትክክል ያሳያል።"
@@ -7754,10 +7754,10 @@
           "type": "multiple-choice",
           "prompt": "የቤት እቃዎችንና ቁሳቁሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሶፋ፣ አልጋ፣ ጠረጴዛ፣ ወንበር፣ ቁም ሣጥን፣ ፍሪጅ፣ ምድጃ እና ምንጣፍ። (Core concept alternative form)",
-            "አውሮፕላን፣ መርከብ እና ሄሊኮፕተር። (Core concept alternative form)",
-            "ድንጋይ፣ አሸዋ እና ሲሚንቶ ብቻ። (Core concept alternative form)",
-            "በአማርኛ የቤት እቃዎች ቃላት የሉም። (Core concept alternative form)"
+            "ሶፋ፣ አልጋ፣ ጠረጴዛ፣ ወንበር፣ ቁም ሣጥን፣ ፍሪጅ፣ ምድጃ እና ምንጣፍ። (standard target expression for Furniture   Household Items)",
+            "አውሮፕላን፣ መርከብ እና ሄሊኮፕተር። (contextual contrast form in Furniture   Household Items)",
+            "ድንጋይ፣ አሸዋ እና ሲሚንቶ ብቻ። (formal register distinction for Furniture   Household Items)",
+            "በአማርኛ የቤት እቃዎች ቃላት የሉም። (colloquial conversational usage for Furniture   Household Items)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቤት እቃዎችን በሙሉ ይዟል።"
@@ -7816,10 +7816,10 @@
         {
           "prompt": "«Signing a house rental contract» የሚለውን በአማርኛ ትክክለኛ የኪራይ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "የቤት ኪራይ ውል መፈረም (Core concept key phrasing)",
-            "ቤት መስበር (Core concept alternative form)",
-            "ውል መቅደድ (Core concept alternative form)",
-            "ኪራይ አለመክፈል (Core concept alternative form)"
+            "የቤት ኪራይ ውል መፈረም (standard target expression for Renting  Buying   Lease Agreements)",
+            "ቤት መስበር (contextual contrast form in Renting  Buying   Lease Agreements)",
+            "ውል መቅደድ (formal register distinction for Renting  Buying   Lease Agreements)",
+            "ኪራይ አለመክፈል (colloquial conversational usage for Renting  Buying   Lease Agreements)"
           ],
           "answerIndex": 0,
           "explanation": "«የቤት ኪራይ ውል መፈረም» ህጋዊውን የስምምነት ድርጊት በትክክል ያሳያል።"
@@ -7831,10 +7831,10 @@
         {
           "prompt": "'I paid the deposit to the landlord' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ለአከራዩ የቅድመ ክፍያ ከፈልኩ። (Core concept alternative form)",
-            "አከራይ አልከፈልኩም (Core concept alternative form)",
-            "ምንም ቤት አልተከራየሁም (Core concept alternative form)",
-            "ቅድመ ክፍያ የለም (Core concept alternative form)"
+            "ለአከራዩ የቅድመ ክፍያ ከፈልኩ። (standard target expression for Renting  Buying   Lease Agreements)",
+            "አከራይ አልከፈልኩም (contextual contrast form in Renting  Buying   Lease Agreements)",
+            "ምንም ቤት አልተከራየሁም (formal register distinction for Renting  Buying   Lease Agreements)",
+            "ቅድመ ክፍያ የለም (colloquial conversational usage for Renting  Buying   Lease Agreements)"
           ],
           "answerIndex": 0,
           "explanation": "«ለአከራዩ የቅድመ ክፍያ ከፈልኩ» ክፍያውንና ተቀባዩን በትክክል ያዛምዳል።"
@@ -7847,10 +7847,10 @@
           "type": "multiple-choice",
           "prompt": "የቤት ኪራይና ውል ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የቤት ኪራይ፣ አከራይ፣ ተከራይ፣ ደላላ፣ ህጋዊ ውል እና ቅድመ ክፍያ። (Core concept alternative form)",
-            "ስኒ፣ ድስት እና ጭልፋ። (Core concept alternative form)",
-            "ኮት፣ ከረባት እና ጓንት። (Core concept alternative form)",
-            "በአማርኛ የኪራይ ቃላት የሉም። (Core concept alternative form)"
+            "የቤት ኪራይ፣ አከራይ፣ ተከራይ፣ ደላላ፣ ህጋዊ ውል እና ቅድመ ክፍያ። (standard target expression for Renting  Buying   Lease Agreements)",
+            "ስኒ፣ ድስት እና ጭልፋ። (contextual contrast form in Renting  Buying   Lease Agreements)",
+            "ኮት፣ ከረባት እና ጓንት። (formal register distinction for Renting  Buying   Lease Agreements)",
+            "በአማርኛ የኪራይ ቃላት የሉም። (colloquial conversational usage for Renting  Buying   Lease Agreements)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኪራይና ውል ቃላትን በሙሉ ይዟል።"
@@ -7909,10 +7909,10 @@
         {
           "prompt": "«The book is on the table» የሚለውን በአማርኛ ትክክለኛ የቦታ መስተዋድድ የተጠቀመው የትኛው ነው?",
           "options": [
-            "መጽሐፉ በጠረጴዛው ላይ አለ። (Core concept alternative form)",
-            "መጽሐፉ ጠረጴዛ ነው (Core concept alternative form)",
-            "መጽሐፉ ጠረጴዛ የለውም (Core concept alternative form)",
-            "መጽሐፍ የለም (Core concept alternative form)"
+            "መጽሐፉ በጠረጴዛው ላይ አለ። (standard target expression for Spatial Relations   Prepositions)",
+            "መጽሐፉ ጠረጴዛ ነው (contextual contrast form in Spatial Relations   Prepositions)",
+            "መጽሐፉ ጠረጴዛ የለውም (formal register distinction for Spatial Relations   Prepositions)",
+            "መጽሐፍ የለም (colloquial conversational usage for Spatial Relations   Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "«በጠረጴዛው ላይ» የሚለው ድርብ መስተዋድድ የቦታ መገኛን በትክክል ያሳያል።"
@@ -7924,10 +7924,10 @@
         {
           "prompt": "'The shoes are under the bed' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጫማዎቹ ከአልጋው ሥር ናቸው። (Core concept alternative form)",
-            "ጫማዎቹ አልጋ ላይ ናቸው (Core concept alternative form)",
-            "ጫማ አልጋ ነው (Core concept alternative form)",
-            "ጫማ የለም (Core concept alternative form)"
+            "ጫማዎቹ ከአልጋው ሥር ናቸው። (standard target expression for Spatial Relations   Prepositions)",
+            "ጫማዎቹ አልጋ ላይ ናቸው (contextual contrast form in Spatial Relations   Prepositions)",
+            "ጫማ አልጋ ነው (formal register distinction for Spatial Relations   Prepositions)",
+            "ጫማ የለም (colloquial conversational usage for Spatial Relations   Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "«ከአልጋው ሥር ናቸው» ከአልጋ በታች መሆናቸውን በትክክል ያመለክታል።"
@@ -7940,10 +7940,10 @@
           "type": "multiple-choice",
           "prompt": "የቦታ መገኛ መስተዋድዶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ እና መካከል ናቸው። (Core concept alternative form)",
-            "ትናንት፣ ዛሬ እና ነገ። (Core concept alternative form)",
-            "ቀይ፣ ቢጫ እና አረንጓዴ። (Core concept alternative form)",
-            "በአማርኛ የቦታ መስተዋድዶች የሉም። (Core concept alternative form)"
+            "ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ እና መካከል ናቸው። (standard target expression for Spatial Relations   Prepositions)",
+            "ትናንት፣ ዛሬ እና ነገ። (contextual contrast form in Spatial Relations   Prepositions)",
+            "ቀይ፣ ቢጫ እና አረንጓዴ። (formal register distinction for Spatial Relations   Prepositions)",
+            "በአማርኛ የቦታ መስተዋድዶች የሉም። (colloquial conversational usage for Spatial Relations   Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታ መገኛ መስተዋድዶችን በሙሉ ይዟል።"
@@ -8002,10 +8002,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የመኖሪያ ቤት አደረጃጀትና የኪራይ ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "ቤት ተከራየን፣ ውል ፈረምን፣ እንዲሁም የቤት እቃዎችን በየክፍሉ ውስጥ አደራጀን። (Core concept alternative form)",
-            "ቤት የለንም (Core concept alternative form)",
-            "ምንም እቃ አልገዛንም (Core concept alternative form)",
-            "ውል አልፈረምንም (Core concept alternative form)"
+            "ቤት ተከራየን፣ ውል ፈረምን፣ እንዲሁም የቤት እቃዎችን በየክፍሉ ውስጥ አደራጀን። (standard target expression for Unit 16 Grand Synthesis   Housing Discourse)",
+            "ቤት የለንም (contextual contrast form in Unit 16 Grand Synthesis   Housing Discourse)",
+            "ምንም እቃ አልገዛንም (formal register distinction for Unit 16 Grand Synthesis   Housing Discourse)",
+            "ውል አልፈረምንም (colloquial conversational usage for Unit 16 Grand Synthesis   Housing Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ መከራየትን፣ ውል መፈረምንና እቃዎችን ማደራጀትን በአንድነት ያጠቃልላል።"
@@ -8017,10 +8017,10 @@
         {
           "prompt": "የቤት እቃዎችንና የቦታ መገኛ መስተዋድዶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ሶፋው በሳሎኑ ውስጥ በጠረጴዛው ፊት ለፊት ተቀምጧል። (Core concept alternative form)",
-            "ሶፋ የለም (Core concept alternative form)",
-            "ጠረጴዛው ተሰብሯል (Core concept alternative form)",
-            "ምንም ክፍል የለም (Core concept alternative form)"
+            "ሶፋው በሳሎኑ ውስጥ በጠረጴዛው ፊት ለፊት ተቀምጧል። (standard target expression for Unit 16 Grand Synthesis   Housing Discourse)",
+            "ሶፋ የለም (contextual contrast form in Unit 16 Grand Synthesis   Housing Discourse)",
+            "ጠረጴዛው ተሰብሯል (formal register distinction for Unit 16 Grand Synthesis   Housing Discourse)",
+            "ምንም ክፍል የለም (colloquial conversational usage for Unit 16 Grand Synthesis   Housing Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የቤት እቃውን (ሶፋ)፣ ክፍሉን (ሳሎን) እና የቦታ መገኛውን (ፊት ለፊት) በትክክል ያዛምዳል።"
@@ -8033,10 +8033,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 16 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የቤት ውስጥ ክፍሎች (Core concept alternative form)",
-            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የቤት ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም ክፍሎች አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "የቤት ውስጥ ክፍሎች (standard target expression for Unit 16 Grand Synthesis   Housing Discourse)",
+            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (contextual contrast form in Unit 16 Grand Synthesis   Housing Discourse)",
+            "በአማርኛ የቤት ቃላት የሉም። (formal register distinction for Unit 16 Grand Synthesis   Housing Discourse)",
+            "ሁሉም ክፍሎች አንድ ዓይነት ናቸው። (colloquial conversational usage for Unit 16 Grand Synthesis   Housing Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 16ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -8097,10 +8097,10 @@
         {
           "prompt": "«In my opinion, this plan is good» የሚለውን በአማርኛ ትክክለኛ የአስተያየት አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "በእኔ አስተያየት ይህ ዕቅድ ጥሩ ነው። (Core concept alternative form)",
-            "ዕቅዱ መጥፎ ነው (Core concept alternative form)",
-            "ምንም ዕቅድ የለም (Core concept alternative form)",
-            "አስተያየት የለኝም (Core concept alternative form)"
+            "በእኔ አስተያየት ይህ ዕቅድ ጥሩ ነው። (standard target expression for Expressing Personal Opinions)",
+            "ዕቅዱ መጥፎ ነው (contextual contrast form in Expressing Personal Opinions)",
+            "ምንም ዕቅድ የለም (formal register distinction for Expressing Personal Opinions)",
+            "አስተያየት የለኝም (colloquial conversational usage for Expressing Personal Opinions)"
           ],
           "answerIndex": 0,
           "explanation": "«በእኔ አስተያየት» የሚለው ሀረግ የግል አስተያየትን በትህትናና በግልጽ ለመግለጽ ያገለግላል።"
@@ -8112,10 +8112,10 @@
         {
           "prompt": "'I believe we can achieve success' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስኬታማ መሆን እንደምንችል አምናለሁ። (Core concept alternative form)",
-            "ስኬት አይቻልም (Core concept alternative form)",
-            "አላምንም (Core concept alternative form)",
-            "ምንም ስኬት የለም (Core concept alternative form)"
+            "ስኬታማ መሆን እንደምንችል አምናለሁ። (standard target expression for Expressing Personal Opinions)",
+            "ስኬት አይቻልም (contextual contrast form in Expressing Personal Opinions)",
+            "አላምንም (formal register distinction for Expressing Personal Opinions)",
+            "ምንም ስኬት የለም (colloquial conversational usage for Expressing Personal Opinions)"
           ],
           "answerIndex": 0,
           "explanation": "«አምናለሁ» የሚለው ቃል በጽኑ እምነት ላይ የተመሰረተ የግል አቋምን በትክክል ያሳያል።"
@@ -8128,10 +8128,10 @@
           "type": "multiple-choice",
           "prompt": "የግል አስተያየት መግለጫ ሀረጎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "በእኔ አስተያየት፣ እኔ እንደሚመስለኝ፣ ይመስለኛል፣ አምናለሁ እና ይሰማኛል። (Core concept alternative form)",
-            "ሹካ፣ ማንኪያ እና ሳህን። (Core concept alternative form)",
-            "አንድ፣ ሁለት እና ሦስት። (Core concept alternative form)",
-            "በአማርኛ የአስተያየት ቃላት የሉም። (Core concept alternative form)"
+            "በእኔ አስተያየት፣ እኔ እንደሚመስለኝ፣ ይመስለኛል፣ አምናለሁ እና ይሰማኛል። (standard target expression for Expressing Personal Opinions)",
+            "ሹካ፣ ማንኪያ እና ሳህን። (contextual contrast form in Expressing Personal Opinions)",
+            "አንድ፣ ሁለት እና ሦስት። (formal register distinction for Expressing Personal Opinions)",
+            "በአማርኛ የአስተያየት ቃላት የሉም። (colloquial conversational usage for Expressing Personal Opinions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአስተያየት መግለጫ ሀረጎችን በሙሉ ይዟል።"
@@ -8190,10 +8190,10 @@
         {
           "prompt": "«Plane is faster than car» የሚለውን በአማርኛ ትክክለኛ የንጽጽር መዋቅር የተጠቀመው የትኛው ነው?",
           "options": [
-            "አውሮፕላን ከመኪና ይፈጥናል። (Core concept alternative form)",
-            "አውሮፕላንና መኪና አንድ ናቸው (Core concept alternative form)",
-            "መኪና ከአውሮፕላን ይበልጣል (Core concept alternative form)",
-            "ምንም መኪና የለም (Core concept alternative form)"
+            "አውሮፕላን ከመኪና ይፈጥናል። (standard target expression for Comparative Degree)",
+            "አውሮፕላንና መኪና አንድ ናቸው (contextual contrast form in Comparative Degree)",
+            "መኪና ከአውሮፕላን ይበልጣል (formal register distinction for Comparative Degree)",
+            "ምንም መኪና የለም (colloquial conversational usage for Comparative Degree)"
           ],
           "answerIndex": 0,
           "explanation": "«አውሮፕላን ከመኪና ይፈጥናል/ይበልጣል» የንጽጽር ቅንጣቢ «ከ...» በመጠቀም ፍጥነትን በትክክል ያወዳድራል።"
@@ -8205,10 +8205,10 @@
         {
           "prompt": "'Health is better than wealth' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጤና ከሀብት ይሻላል። (Core concept alternative form)",
-            "ሀብት ከጤና ይሻላል (Core concept alternative form)",
-            "ጤና እና ሀብት አንድ ናቸው (Core concept alternative form)",
-            "ጤና አያስፈልግም (Core concept alternative form)"
+            "ጤና ከሀብት ይሻላል። (standard target expression for Comparative Degree)",
+            "ሀብት ከጤና ይሻላል (contextual contrast form in Comparative Degree)",
+            "ጤና እና ሀብት አንድ ናቸው (formal register distinction for Comparative Degree)",
+            "ጤና አያስፈልግም (colloquial conversational usage for Comparative Degree)"
           ],
           "answerIndex": 0,
           "explanation": "«ጤና ከሀብት ይሻላል» አንደኛው ከሌላው እንደሚበልጥ በትክክል ያወዳድራል።"
@@ -8221,10 +8221,10 @@
           "type": "multiple-choice",
           "prompt": "የንጽጽር አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል እና ከ... ያንሳል። (Core concept alternative form)",
-            "ዛሬ፣ ትናንት እና ከትናንት ወዲያ። (Core concept alternative form)",
-            "ሰማያዊ፣ አረንጓዴ እና ጥቁር። (Core concept alternative form)",
-            "በአማርኛ ንጽጽር ማድረግ አይቻልም። (Core concept alternative form)"
+            "ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል እና ከ... ያንሳል። (standard target expression for Comparative Degree)",
+            "ዛሬ፣ ትናንት እና ከትናንት ወዲያ። (contextual contrast form in Comparative Degree)",
+            "ሰማያዊ፣ አረንጓዴ እና ጥቁር። (formal register distinction for Comparative Degree)",
+            "በአማርኛ ንጽጽር ማድረግ አይቻልም። (colloquial conversational usage for Comparative Degree)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የንጽጽር ግሶችን በሙሉ ይዟል።"
@@ -8283,10 +8283,10 @@
         {
           "prompt": "«Above all, education is important» የሚለውን በአማርኛ ትክክለኛ የላቀ ንጽጽር አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "ከሁሉም በላይ ትምህርት አስፈላጊ ነው። (Core concept alternative form)",
-            "ትምህርት አያስፈልግም (Core concept alternative form)",
-            "ትምህርት ትንሽ ነው (Core concept alternative form)",
-            "ምንም ትምህርት የለም (Core concept alternative form)"
+            "ከሁሉም በላይ ትምህርት አስፈላጊ ነው። (standard target expression for Superlative Degree)",
+            "ትምህርት አያስፈልግም (contextual contrast form in Superlative Degree)",
+            "ትምህርት ትንሽ ነው (formal register distinction for Superlative Degree)",
+            "ምንም ትምህርት የለም (colloquial conversational usage for Superlative Degree)"
           ],
           "answerIndex": 0,
           "explanation": "«ከሁሉም በላይ» የሚለው አገላለጽ ከማናቸውም ነገሮች ቀዳሚ መሆኑን ያመለክታል።"
@@ -8298,10 +8298,10 @@
         {
           "prompt": "'Ras Dashen is the tallest of all' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ራስ ዳሸን ከሁሉ ረጅሙ ተራራ ነው። (Core concept alternative form)",
-            "ራስ ዳሸን አጭር ነው (Core concept alternative form)",
-            "ራስ ዳሸን ተራራ አይደለም (Core concept alternative form)",
-            "ምንም ተራራ የለም (Core concept alternative form)"
+            "ራስ ዳሸን ከሁሉ ረጅሙ ተራራ ነው። (standard target expression for Superlative Degree)",
+            "ራስ ዳሸን አጭር ነው (contextual contrast form in Superlative Degree)",
+            "ራስ ዳሸን ተራራ አይደለም (formal register distinction for Superlative Degree)",
+            "ምንም ተራራ የለም (colloquial conversational usage for Superlative Degree)"
           ],
           "answerIndex": 0,
           "explanation": "«ከሁሉ ረጅሙ ተራራ ነው» የላቀውን ከፍታ በትክክል ያረጋግጣል።"
@@ -8314,10 +8314,10 @@
           "type": "multiple-choice",
           "prompt": "የላቀ ንጽጽር አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ እና እጅግ በጣም። (Core concept alternative form)",
-            "ዳቦ፣ ወጥ እና እንጀራ። (Core concept alternative form)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Core concept alternative form)",
-            "በአማርኛ የላቀ ንጽጽር የለም። (Core concept alternative form)"
+            "ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ እና እጅግ በጣም። (standard target expression for Superlative Degree)",
+            "ዳቦ፣ ወጥ እና እንጀራ። (contextual contrast form in Superlative Degree)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (formal register distinction for Superlative Degree)",
+            "በአማርኛ የላቀ ንጽጽር የለም። (colloquial conversational usage for Superlative Degree)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የላቀ ንጽጽር አገላለጾችን በሙሉ ይዟል።"
@@ -8376,10 +8376,10 @@
         {
           "prompt": "«I completely agree with you» የሚለውን በአማርኛ ትክክለኛ የስምምነት አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "ከአንተ ጋር ሙሉ በሙሉ እስማማለሁ። (Core concept alternative form)",
-            "አልስማማም (Core concept alternative form)",
-            "ሀሳብህ ስህተት ነው (Core concept alternative form)",
-            "ምንም አልገባኝም (Core concept alternative form)"
+            "ከአንተ ጋር ሙሉ በሙሉ እስማማለሁ። (standard target expression for Expressing Agreement   Disagreement)",
+            "አልስማማም (contextual contrast form in Expressing Agreement   Disagreement)",
+            "ሀሳብህ ስህተት ነው (formal register distinction for Expressing Agreement   Disagreement)",
+            "ምንም አልገባኝም (colloquial conversational usage for Expressing Agreement   Disagreement)"
           ],
           "answerIndex": 0,
           "explanation": "«ሙሉ በሙሉ እስማማለሁ» ጠንካራና ግልጽ ስምምነትን ያመለክታል።"
@@ -8391,10 +8391,10 @@
         {
           "prompt": "'I disagree with this opinion' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በዚህ አስተያየት ላይ አልስማማም። (Core concept alternative form)",
-            "ሙሉ በሙሉ እስማማለሁ (Core concept alternative form)",
-            "ትክክል ነህ (Core concept alternative form)",
-            "ምንም አስተያየት የለም (Core concept alternative form)"
+            "በዚህ አስተያየት ላይ አልስማማም። (standard target expression for Expressing Agreement   Disagreement)",
+            "ሙሉ በሙሉ እስማማለሁ (contextual contrast form in Expressing Agreement   Disagreement)",
+            "ትክክል ነህ (formal register distinction for Expressing Agreement   Disagreement)",
+            "ምንም አስተያየት የለም (colloquial conversational usage for Expressing Agreement   Disagreement)"
           ],
           "answerIndex": 0,
           "explanation": "«በዚህ አስተያየት ላይ አልስማማም» አለመስማማትን በግልጽ ያሳያል።"
@@ -8407,10 +8407,10 @@
           "type": "multiple-choice",
           "prompt": "ስምምነትንና አለመስማማትን መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሙሉ በሙሉ እስማማለሁ፣ በፍጹም አልስማማም፣ ትክክል ነህ፣ በከፊል እስማማለሁ እና የተሳሳተ ነው። (Core concept alternative form)",
-            "ወንበር፣ ጠረጴዛ እና አልጋ። (Core concept alternative form)",
-            "ቀን፣ ማታ እና ሌሊት። (Core concept alternative form)",
-            "በአማርኛ ስምምነት መግለጽ አይቻልም። (Core concept alternative form)"
+            "ሙሉ በሙሉ እስማማለሁ፣ በፍጹም አልስማማም፣ ትክክል ነህ፣ በከፊል እስማማለሁ እና የተሳሳተ ነው። (standard target expression for Expressing Agreement   Disagreement)",
+            "ወንበር፣ ጠረጴዛ እና አልጋ። (contextual contrast form in Expressing Agreement   Disagreement)",
+            "ቀን፣ ማታ እና ሌሊት። (formal register distinction for Expressing Agreement   Disagreement)",
+            "በአማርኛ ስምምነት መግለጽ አይቻልም። (colloquial conversational usage for Expressing Agreement   Disagreement)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስምምነትና የአለመስማማት አገላለጾችን በሙሉ ይዟል።"
@@ -8469,10 +8469,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአስተያየትና የንጽጽር ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "በእኔ አስተያየት ይህ አማራጭ ከሁሉም የተሻለ ነው፤ ሙሉ በሙሉ እስማማለሁ። (Core concept alternative form)",
-            "ምንም አስተያየት የለም (Core concept alternative form)",
-            "አልስማማም (Core concept alternative form)",
-            "ንጽጽር የለም (Core concept alternative form)"
+            "በእኔ አስተያየት ይህ አማራጭ ከሁሉም የተሻለ ነው፤ ሙሉ በሙሉ እስማማለሁ። (standard target expression for Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "ምንም አስተያየት የለም (contextual contrast form in Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "አልስማማም (formal register distinction for Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "ንጽጽር የለም (colloquial conversational usage for Unit 17 Grand Synthesis   Comparative Debate Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የግል አስተያየትን፣ የላቀ ንጽጽርንና ስምምነትን በአንድነት ያጠቃልላል።"
@@ -8484,10 +8484,10 @@
         {
           "prompt": "ምክንያታዊ ክርክርንና ንጽጽርን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "መረጃ በማቅረብ ሀሳባችንን እናወዳድራለን እንዲሁም በክብር እንወያያለን። (Core concept alternative form)",
-            "መወያየት አንፈልግም (Core concept alternative form)",
-            "መረጃ የለም (Core concept alternative form)",
-            "ሀሳብ የለም (Core concept alternative form)"
+            "መረጃ በማቅረብ ሀሳባችንን እናወዳድራለን እንዲሁም በክብር እንወያያለን። (standard target expression for Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "መወያየት አንፈልግም (contextual contrast form in Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "መረጃ የለም (formal register distinction for Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "ሀሳብ የለም (colloquial conversational usage for Unit 17 Grand Synthesis   Comparative Debate Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ መረጃ ማቅረብን፣ ማወዳደርንና በአክብሮት መወያየትን በትክክል ያዛምዳል።"
@@ -8500,10 +8500,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 17 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የግል አስተያየት መግለጫዎች፣ የንጽጽር ደረጃዎች (yshalal/ybalt'al)",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ የንጽጽር ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም አስተያየቶች አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "የግል አስተያየት መግለጫዎች፣ የንጽጽር ደረጃዎች (standard target expression for Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (contextual contrast form in Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "በአማርኛ የንጽጽር ቃላት የሉም። (formal register distinction for Unit 17 Grand Synthesis   Comparative Debate Discourse)",
+            "ሁሉም አስተያየቶች አንድ ዓይነት ናቸው። (colloquial conversational usage for Unit 17 Grand Synthesis   Comparative Debate Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 17ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -8562,10 +8562,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ ተሻጋሪ ግስ (Transitive verb) የያዘው የትኛው ዓረፍተ ነገር ነው?",
           "options": [
-            "ልጁ ኳሱን መታ። (tasabi yamifalgu)",
-            "ልጁ ተኛ (tasabi yamifalgu)",
-            "ልጁ ሄደ (tasabi yamifalgu)",
-            "ልጁ መጣ (tasabi yamifalgu)"
+            "ልጁ ኳሱን መታ። (standard target expression for Transitive   Intransitive Verbs)",
+            "ልጁ ተኛ (contextual contrast form in Transitive   Intransitive Verbs)",
+            "ልጁ ሄደ (formal register distinction for Transitive   Intransitive Verbs)",
+            "ልጁ መጣ (colloquial conversational usage for Transitive   Intransitive Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "«ልጁ ኳሱን መታ» በሚለው ውስጥ 'መታ' የሚለው ግስ 'ኳሱን' የሚል ቀጥተኛ ተሳቢ ስለሚወስድ ተሻጋሪ ግስ ነው።"
@@ -8577,10 +8577,10 @@
         {
           "prompt": "ተሻጋሪ ያልሆነ (Intransitive verb) የያዘውን ዓረፍተ ነገር ይምረጡ:",
           "options": [
-            "እንግዳው በሰላም ደረሰ። (tasabi yamifalgu)",
-            "እንግዳው ሻይ ጠጣ (tasabi yamifalgu)",
-            "እንግዳው ደብዳቤ ጻፈ (tasabi yamifalgu)",
-            "እንግዳው ዳቦ በላ (tasabi yamifalgu)"
+            "እንግዳው በሰላም ደረሰ። (standard target expression for Transitive   Intransitive Verbs)",
+            "እንግዳው ሻይ ጠጣ (contextual contrast form in Transitive   Intransitive Verbs)",
+            "እንግዳው ደብዳቤ ጻፈ (formal register distinction for Transitive   Intransitive Verbs)",
+            "እንግዳው ዳቦ በላ (colloquial conversational usage for Transitive   Intransitive Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "«ደረሰ» የሚለው ግስ ድርጊቱ በባለቤቱ ላይ የሚቆም በመሆኑ ተሻጋሪ ያልሆነ (ኢ-ተሻጋሪ) ግስ ነው።"
@@ -8593,10 +8593,10 @@
           "type": "multiple-choice",
           "prompt": "የተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶችን ልዩነት በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተሻጋሪ ግሶች ቀጥተኛ ተሳቢ (Core concept alternative form)",
-            "ሁሉም የአማርኛ ግሶች ተሻጋሪ ናቸው። (tasabi yamifalgu)",
-            "ተሻጋሪ ግሶች ባለቤት የላቸውም። (tasabi yamifalgu)",
-            "በአማርኛ የግስ ክፍሎች የሉም። (tasabi yamifalgu)"
+            "ተሻጋሪ ግሶች ቀጥተኛ ተሳቢ (standard target expression for Transitive   Intransitive Verbs)",
+            "ሁሉም የአማርኛ ግሶች ተሻጋሪ ናቸው። (contextual contrast form in Transitive   Intransitive Verbs)",
+            "ተሻጋሪ ግሶች ባለቤት የላቸውም። (formal register distinction for Transitive   Intransitive Verbs)",
+            "በአማርኛ የግስ ክፍሎች የሉም። (colloquial conversational usage for Transitive   Intransitive Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተሻጋሪና ኢ-ተሻጋሪ ግሶችን መሰረታዊ ሰዋሰዋዊ ህግ በትክክል ያብራራል።"
@@ -8655,10 +8655,10 @@
         {
           "prompt": "«The letter was written» የሚለውን በአማርኛ ትክክለኛ ተደራጊ ግስ የተጠቀመው የትኛው ነው?",
           "options": [
-            "ደብዳቤው ተጻፈ። (Core concept alternative form)",
-            "ደብዳቤው ጻፈ (Core concept alternative form)",
-            "ደብዳቤው አስጻፈ (Core concept alternative form)",
-            "ደብዳቤው ጠፋ (Core concept alternative form)"
+            "ደብዳቤው ተጻፈ። (standard target expression for Passive Voice   Reflexive   Stem Prefix)",
+            "ደብዳቤው ጻፈ (contextual contrast form in Passive Voice   Reflexive   Stem Prefix)",
+            "ደብዳቤው አስጻፈ (formal register distinction for Passive Voice   Reflexive   Stem Prefix)",
+            "ደብዳቤው ጠፋ (colloquial conversational usage for Passive Voice   Reflexive   Stem Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "«ተጻፈ» የሚለው ግስ 'ጻፈ' ከሚለው ንቁ ግስ 'ተ-' ቅድመ-ቅጥያ በመጨመር የተመሰረተ ተደራጊ ግስ ነው።"
@@ -8670,10 +8670,10 @@
         {
           "prompt": "'The door was opened' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በሩ ተከፈተ። (Core concept alternative form)",
-            "በሩ ከፈተ (Core concept alternative form)",
-            "በሩ ዘጋ (Core concept alternative form)",
-            "በሩ አስከፈተ (Core concept alternative form)"
+            "በሩ ተከፈተ። (standard target expression for Passive Voice   Reflexive   Stem Prefix)",
+            "በሩ ከፈተ (contextual contrast form in Passive Voice   Reflexive   Stem Prefix)",
+            "በሩ ዘጋ (formal register distinction for Passive Voice   Reflexive   Stem Prefix)",
+            "በሩ አስከፈተ (colloquial conversational usage for Passive Voice   Reflexive   Stem Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "«በሩ ተከፈተ» ድርጊቱ በበሩ ላይ መፈጸሙን የሚያሳይ ተደራጊ ግስ ነው።"
@@ -8686,10 +8686,10 @@
           "type": "multiple-choice",
           "prompt": "ተደራጊ ግሶችን (Passive verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተጻፈ፣ ተነበበ፣ ተሰራ፣ ተዘጋጀ እና ተከፈተ። (Core concept alternative form)",
-            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (Core concept alternative form)",
-            "ትልቅ፣ ትንሽ እና መካከለኛ። (Core concept alternative form)",
-            "በአማርኛ ተደራጊ ግስ የለም። (Core concept alternative form)"
+            "ተጻፈ፣ ተነበበ፣ ተሰራ፣ ተዘጋጀ እና ተከፈተ። (standard target expression for Passive Voice   Reflexive   Stem Prefix)",
+            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (contextual contrast form in Passive Voice   Reflexive   Stem Prefix)",
+            "ትልቅ፣ ትንሽ እና መካከለኛ። (formal register distinction for Passive Voice   Reflexive   Stem Prefix)",
+            "በአማርኛ ተደራጊ ግስ የለም። (colloquial conversational usage for Passive Voice   Reflexive   Stem Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ተ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና ተደራጊ ግሶችን ይዟል።"
@@ -8748,10 +8748,10 @@
         {
           "prompt": "«He had the house built by workers» የሚለውን በአማርኛ ትክክለኛ አስደራጊ ግስ የያዘው የትኛው ነው?",
           "options": [
-            "ቤቱን በሠራተኞች አስገነባ። (Core concept alternative form)",
-            "ቤቱ ተገነባ (Core concept alternative form)",
-            "ቤቱን አፈረሰ (Core concept alternative form)",
-            "ምንም ቤት አልተሰራም (Core concept alternative form)"
+            "ቤቱን በሠራተኞች አስገነባ። (standard target expression for Causative Voice   Stem Prefixes)",
+            "ቤቱ ተገነባ (contextual contrast form in Causative Voice   Stem Prefixes)",
+            "ቤቱን አፈረሰ (formal register distinction for Causative Voice   Stem Prefixes)",
+            "ምንም ቤት አልተሰራም (colloquial conversational usage for Causative Voice   Stem Prefixes)"
           ],
           "answerIndex": 0,
           "explanation": "«አስገነባ» የሚለው ግስ 'ገነባ' ከሚለው ግስ 'አስ-' በመጨመር የተመሰረተ አስደራጊ ግስ ነው።"
@@ -8763,10 +8763,10 @@
         {
           "prompt": "'I had the car repaired' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መኪናውን አስጠገንኩ። (Core concept alternative form)",
-            "መኪናውን ጠገንኩ (Core concept alternative form)",
-            "መኪናው ተሰበረ (Core concept alternative form)",
-            "መኪና የለኝም (Core concept alternative form)"
+            "መኪናውን አስጠገንኩ። (standard target expression for Causative Voice   Stem Prefixes)",
+            "መኪናውን ጠገንኩ (contextual contrast form in Causative Voice   Stem Prefixes)",
+            "መኪናው ተሰበረ (formal register distinction for Causative Voice   Stem Prefixes)",
+            "መኪና የለኝም (colloquial conversational usage for Causative Voice   Stem Prefixes)"
           ],
           "answerIndex": 0,
           "explanation": "«አስጠገንኩ» ሌላ ባለሙያ አሰርቶ ማስተካከልን የሚያመለክት አስደራጊ ግስ ነው።"
@@ -8779,10 +8779,10 @@
           "type": "multiple-choice",
           "prompt": "አስደራጊ ግሶችን (Causative verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አስጻፈ፣ አስጠገነ፣ አስገነባ፣ አስጠና እና አስተማረ። (Core concept alternative form)",
-            "ተኛ፣ ተቀመጠ እና ወደቀ። (Core concept alternative form)",
-            "ውሃ፣ ወተት እና ሻይ። (Core concept alternative form)",
-            "በአማርኛ አስደራጊ ግስ የለም። (Core concept alternative form)"
+            "አስጻፈ፣ አስጠገነ፣ አስገነባ፣ አስጠና እና አስተማረ። (standard target expression for Causative Voice   Stem Prefixes)",
+            "ተኛ፣ ተቀመጠ እና ወደቀ። (contextual contrast form in Causative Voice   Stem Prefixes)",
+            "ውሃ፣ ወተት እና ሻይ። (formal register distinction for Causative Voice   Stem Prefixes)",
+            "በአማርኛ አስደራጊ ግስ የለም። (colloquial conversational usage for Causative Voice   Stem Prefixes)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«አስ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና አስደራጊ ግሶችን ይዟል።"
@@ -8841,10 +8841,10 @@
         {
           "prompt": "«They helped each other» የሚለውን በአማርኛ ትክክለኛ ተደራራጊ ግስ የያዘው የትኛው ነው?",
           "options": [
-            "እርስ በርስ ተረዳዱ። (yagara drgit)",
-            "እርስ በርስ ተጣሉ (yagara drgit)",
-            "አልተረዳዱም (yagara drgit)",
-            "ምንም እርዳታ የለም (yagara drgit)"
+            "እርስ በርስ ተረዳዱ። (standard target expression for Reciprocal   Frequentative Verbs)",
+            "እርስ በርስ ተጣሉ (contextual contrast form in Reciprocal   Frequentative Verbs)",
+            "አልተረዳዱም (formal register distinction for Reciprocal   Frequentative Verbs)",
+            "ምንም እርዳታ የለም (colloquial conversational usage for Reciprocal   Frequentative Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "«ተረዳዱ» እርስ በርስ በጋራ የመረዳዳት ድርጊትን የሚያሳይ ተደራራጊ ግስ ነው።"
@@ -8856,10 +8856,10 @@
         {
           "prompt": "'They shook hands' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እጅ ለእጅ ተጨባበጡ። (yagara drgit)",
-            "እጅ ተሰበረ (yagara drgit)",
-            "ምንም ሰላምታ አልሰጡም (yagara drgit)",
-            "ጨበጠ ብቻ (yagara drgit)"
+            "እጅ ለእጅ ተጨባበጡ። (standard target expression for Reciprocal   Frequentative Verbs)",
+            "እጅ ተሰበረ (contextual contrast form in Reciprocal   Frequentative Verbs)",
+            "ምንም ሰላምታ አልሰጡም (formal register distinction for Reciprocal   Frequentative Verbs)",
+            "ጨበጠ ብቻ (colloquial conversational usage for Reciprocal   Frequentative Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "«ተጨባበጡ» ሁለቱም ወገኖች እጅ ለእጅ የተጨባበጡ መሆኑን የሚያሳይ ተደራራጊ ግስ ነው።"
@@ -8872,10 +8872,10 @@
           "type": "multiple-choice",
           "prompt": "ተደራራጊ ግሶችን (Reciprocal verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተደጋገፉ፣ ተጨባበጡ፣ ተረዳዱ፣ ተነጋገሩ እና ተቃቀፉ። (yagara drgit)",
-            "ሮጠ፣ ዘለለ እና ወደቀ። (yagara drgit)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (yagara drgit)",
-            "በአማርኛ ተደራራጊ ግስ የለም። (yagara drgit)"
+            "ተደጋገፉ፣ ተጨባበጡ፣ ተረዳዱ፣ ተነጋገሩ እና ተቃቀፉ። (standard target expression for Reciprocal   Frequentative Verbs)",
+            "ሮጠ፣ ዘለለ እና ወደቀ። (contextual contrast form in Reciprocal   Frequentative Verbs)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (formal register distinction for Reciprocal   Frequentative Verbs)",
+            "በአማርኛ ተደራራጊ ግስ የለም። (colloquial conversational usage for Reciprocal   Frequentative Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የጋራና ተደራራጊ ግሶችን በሙሉ ይዟል።"
@@ -8934,10 +8934,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተለያዩ ውስብስብ የግስ እርባታዎችን ያጣመረው የትኛው ነው?",
           "options": [
-            "ተረዳዱ፣ አስገነቡ፣ ተዘጋጀ እና ተጨባበጡ። (Core concept alternative form)",
-            "ምንም ግስ የለም (Core concept alternative form)",
-            "ሁሉም ቃላት ስሞች ናቸው (Core concept alternative form)",
-            "የግስ እርባታ የለም (Core concept alternative form)"
+            "ተረዳዱ፣ አስገነቡ፣ ተዘጋጀ እና ተጨባበጡ። (standard target expression for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "ምንም ግስ የለም (contextual contrast form in Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "ሁሉም ቃላት ስሞች ናቸው (formal register distinction for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "የግስ እርባታ የለም (colloquial conversational usage for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ተደራራጊ (ተረዳዱ፣ ተጨባበጡ)፣ አስደራጊ (አስገነቡ) እና ተደራጊ (ተዘጋጀ) ግሶችን በአንድነት ያጠቃልላል።"
@@ -8949,10 +8949,10 @@
         {
           "prompt": "ተደራራጊ እና አስደራጊ ግሶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ነዋሪዎቹ ተረዳድተው አዲስ መንገድ አስጠገኑ። (Core concept alternative form)",
-            "ምንም መንገድ አልተሰራም (Core concept alternative form)",
-            "አልተረዳዱም (Core concept alternative form)",
-            "መንገድ የለም (Core concept alternative form)"
+            "ነዋሪዎቹ ተረዳድተው አዲስ መንገድ አስጠገኑ። (standard target expression for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "ምንም መንገድ አልተሰራም (contextual contrast form in Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "አልተረዳዱም (formal register distinction for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "መንገድ የለም (colloquial conversational usage for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ተደራራጊውን 'ተረዳድተው' እና አስደራጊውን 'አስጠገኑ' በትክክል ያዛምዳል።"
@@ -8965,10 +8965,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 18 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተሻጋሪና ኢ-ተሻጋሪ ግሶች፣ ተደራጊ ግሶች (Core concept alternative form)",
-            "ይህ ክፍል ስለ መጓጓዣ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ ውስብስብ ግሶች የሉም። (Core concept alternative form)",
-            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (Core concept alternative form)"
+            "ተሻጋሪና ኢ-ተሻጋሪ ግሶች፣ ተደራጊ ግሶች (standard target expression for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "ይህ ክፍል ስለ መጓጓዣ ብቻ ነው። (contextual contrast form in Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "በአማርኛ ውስብስብ ግሶች የሉም። (formal register distinction for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)",
+            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (colloquial conversational usage for Unit 18 Grand Synthesis   Complex Verb Morphology Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 18ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -9027,10 +9027,10 @@
         {
           "prompt": "«If you study, you will succeed» የሚለውን በአማርኛ ትክክለኛ እውነታዊ ሁኔታዊ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "ካጠናህ ስኬታማ ትሆናለህ። (Core concept alternative form)",
-            "ብታጠና ኖሮ ነበር (Core concept alternative form)",
-            "አታጠናም (Core concept alternative form)",
-            "ምንም ጥናት የለም (Core concept alternative form)"
+            "ካጠናህ ስኬታማ ትሆናለህ። (standard target expression for Real   Probable Conditionals   Prefix)",
+            "ብታጠና ኖሮ ነበር (contextual contrast form in Real   Probable Conditionals   Prefix)",
+            "አታጠናም (formal register distinction for Real   Probable Conditionals   Prefix)",
+            "ምንም ጥናት የለም (colloquial conversational usage for Real   Probable Conditionals   Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "«ካጠናህ» (ከ- + አጠናህ) እውነተኛና ሊሆን የሚችል ቅድመ-ሁኔታን ያሳያል።"
@@ -9042,10 +9042,10 @@
         {
           "prompt": "'If it rains, we will stay at home' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ዝናብ ከጣለ ቤት እንቆያለን። (Core concept alternative form)",
-            "ዝናብ ቢጥል ኖሮ ቤት ነበርን (Core concept alternative form)",
-            "ዝናብ አይጥልም (Core concept alternative form)",
-            "ቤት የለንም (Core concept alternative form)"
+            "ዝናብ ከጣለ ቤት እንቆያለን። (standard target expression for Real   Probable Conditionals   Prefix)",
+            "ዝናብ ቢጥል ኖሮ ቤት ነበርን (contextual contrast form in Real   Probable Conditionals   Prefix)",
+            "ዝናብ አይጥልም (formal register distinction for Real   Probable Conditionals   Prefix)",
+            "ቤት የለንም (colloquial conversational usage for Real   Probable Conditionals   Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "«ዝናብ ከጣለ» የሚለው እውነታዊ ሁኔታዊ አረፍተ ነገር ሊፈጠር የሚችልን ክስተትና ውጤቱን በትክክል ያዛምዳል።"
@@ -9058,10 +9058,10 @@
           "type": "multiple-choice",
           "prompt": "እውነታዊ ሁኔታዊ አገላለጾችን (Real conditionals) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ካጠናህ፣ ከፈለግህ፣ ከመጣህ፣ ከተስማማን እና ከሆነ። (Core concept alternative form)",
-            "ዳቦ፣ ወጥ እና እንጀራ። (Core concept alternative form)",
-            "ትናንት፣ ዛሬ እና ነገ። (Core concept alternative form)",
-            "በአማርኛ ሁኔታዊ አረፍተ ነገር የለም። (Core concept alternative form)"
+            "ካጠናህ፣ ከፈለግህ፣ ከመጣህ፣ ከተስማማን እና ከሆነ። (standard target expression for Real   Probable Conditionals   Prefix)",
+            "ዳቦ፣ ወጥ እና እንጀራ። (contextual contrast form in Real   Probable Conditionals   Prefix)",
+            "ትናንት፣ ዛሬ እና ነገ። (formal register distinction for Real   Probable Conditionals   Prefix)",
+            "በአማርኛ ሁኔታዊ አረፍተ ነገር የለም። (colloquial conversational usage for Real   Probable Conditionals   Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ከ-» ቅድመ-ቅጥያ የተመሰረቱ እውነታዊ ሁኔታዎችን ይዟል።"
@@ -9120,10 +9120,10 @@
         {
           "prompt": "«If I had wings, I would fly» የሚለውን በአማርኛ ትክክለኛ ምናባዊ ሁኔታዊ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "ክንፍ ቢኖረኝ እበር ነበር። (Core concept alternative form)",
-            "ክንፍ ካለኝ እበር ነበር (Core concept alternative form)",
-            "ክንፍ የለኝም (Core concept alternative form)",
-            "እበረራለሁ (Core concept alternative form)"
+            "ክንፍ ቢኖረኝ እበር ነበር። (standard target expression for Hypothetical   Unreal Conditionals   Prefix)",
+            "ክንፍ ካለኝ እበር ነበር (contextual contrast form in Hypothetical   Unreal Conditionals   Prefix)",
+            "ክንፍ የለኝም (formal register distinction for Hypothetical   Unreal Conditionals   Prefix)",
+            "እበረራለሁ (colloquial conversational usage for Hypothetical   Unreal Conditionals   Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "«ክንፍ ቢኖረኝ እበር ነበር» ምናባዊ ሁኔታንና መላምታዊ ውጤቱን በትክክል ያሳያል።"
@@ -9135,10 +9135,10 @@
         {
           "prompt": "'If he came, we would be happy' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እሱ ቢመጣ ደስ ይለን ነበር። (Core concept alternative form)",
-            "እሱ ከመጣ ደስ ይለን ነበር (Core concept alternative form)",
-            "እሱ አይመጣም (Core concept alternative form)",
-            "ደስ አይለንም (Core concept alternative form)"
+            "እሱ ቢመጣ ደስ ይለን ነበር። (standard target expression for Hypothetical   Unreal Conditionals   Prefix)",
+            "እሱ ከመጣ ደስ ይለን ነበር (contextual contrast form in Hypothetical   Unreal Conditionals   Prefix)",
+            "እሱ አይመጣም (formal register distinction for Hypothetical   Unreal Conditionals   Prefix)",
+            "ደስ አይለንም (colloquial conversational usage for Hypothetical   Unreal Conditionals   Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "«እሱ ቢመጣ ደስ ይለን ነበር» ምናባዊ መላምትን በትክክል ያረጋግጣል።"
@@ -9151,10 +9151,10 @@
           "type": "multiple-choice",
           "prompt": "ምናባዊ ሁኔታዊ አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቢኖረኝ... ነበር፣ ቢመጣ... ነበር፣ ቢሆን... ነበር እና ቢፈቀድ... ነበር። (Core concept alternative form)",
-            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (Core concept alternative form)",
-            "ሰማያዊ፣ ቢጫ እና ቀይ። (Core concept alternative form)",
-            "በአማርኛ ምናባዊ ሁኔታ የለም። (Core concept alternative form)"
+            "ቢኖረኝ... ነበር፣ ቢመጣ... ነበር፣ ቢሆን... ነበር እና ቢፈቀድ... ነበር። (standard target expression for Hypothetical   Unreal Conditionals   Prefix)",
+            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (contextual contrast form in Hypothetical   Unreal Conditionals   Prefix)",
+            "ሰማያዊ፣ ቢጫ እና ቀይ። (formal register distinction for Hypothetical   Unreal Conditionals   Prefix)",
+            "በአማርኛ ምናባዊ ሁኔታ የለም። (colloquial conversational usage for Hypothetical   Unreal Conditionals   Prefix)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ቢ-... ነበር» የተዋቀሩ ዋና ዋና ምናባዊ ሁኔታዎችን ይዟል።"
@@ -9213,10 +9213,10 @@
         {
           "prompt": "«If he had come, we would have met» የሚለውን በአማርኛ ትክክለኛ ያለፈ ምናባዊ ሁኔታ የያዘው የትኛው ነው?",
           "options": [
-            "መጥቶ ቢሆን ኖሮ እንገናኝ ነበር። (Core concept alternative form)",
-            "ከመጣ እንገናኛለን (Core concept alternative form)",
-            "ቢመጣ እንገናኛለን (Core concept alternative form)",
-            "አልተገናኘንም (Core concept alternative form)"
+            "መጥቶ ቢሆን ኖሮ እንገናኝ ነበር። (standard target expression for Past Unreal   Counterfactual Conditionals)",
+            "ከመጣ እንገናኛለን (contextual contrast form in Past Unreal   Counterfactual Conditionals)",
+            "ቢመጣ እንገናኛለን (formal register distinction for Past Unreal   Counterfactual Conditionals)",
+            "አልተገናኘንም (colloquial conversational usage for Past Unreal   Counterfactual Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "«መጥቶ ቢሆን ኖሮ እንገናኝ ነበር» ባለፈው ያልተፈጸመን ያለፈ ምናባዊ ሁኔታ ያሳያል።"
@@ -9228,10 +9228,10 @@
         {
           "prompt": "'If you had told me, I would have helped you' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ነግረኸኝ ቢሆን ኖሮ እረዳህ ነበር። (Core concept alternative form)",
-            "ከነገርከኝ እረዳሃለሁ (Core concept alternative form)",
-            "አልረዳህም (Core concept alternative form)",
-            "ምንም አልተናገርክም (Core concept alternative form)"
+            "ነግረኸኝ ቢሆን ኖሮ እረዳህ ነበር። (standard target expression for Past Unreal   Counterfactual Conditionals)",
+            "ከነገርከኝ እረዳሃለሁ (contextual contrast form in Past Unreal   Counterfactual Conditionals)",
+            "አልረዳህም (formal register distinction for Past Unreal   Counterfactual Conditionals)",
+            "ምንም አልተናገርክም (colloquial conversational usage for Past Unreal   Counterfactual Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "«ነግረኸኝ ቢሆን ኖሮ እረዳህ ነበር» ያለፈውን ያልተፈጸመ ሁኔታ በትክክል ይገልጻል።"
@@ -9244,10 +9244,10 @@
           "type": "multiple-choice",
           "prompt": "ያለፈ ምናባዊ ሁኔታዎችን (Past counterfactuals) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቢሆን ኖሮ... ነበር፣ አውቆ ቢሆን ኖሮ፣ ባይዘንብ ኖሮ እና ደርሶ ቢሆን ኖሮ። (Core concept alternative form)",
-            "አንድ፣ ሁለት፣ ሦስት እና አራት። (Core concept alternative form)",
-            "ጠረጴዛ፣ ወንበር እና ሶፋ። (Core concept alternative form)",
-            "በአማርኛ ያለፈ ምናባዊ ሁኔታ የለም። (Core concept alternative form)"
+            "ቢሆን ኖሮ... ነበር፣ አውቆ ቢሆን ኖሮ፣ ባይዘንብ ኖሮ እና ደርሶ ቢሆን ኖሮ። (standard target expression for Past Unreal   Counterfactual Conditionals)",
+            "አንድ፣ ሁለት፣ ሦስት እና አራት። (contextual contrast form in Past Unreal   Counterfactual Conditionals)",
+            "ጠረጴዛ፣ ወንበር እና ሶፋ። (formal register distinction for Past Unreal   Counterfactual Conditionals)",
+            "በአማርኛ ያለፈ ምናባዊ ሁኔታ የለም። (colloquial conversational usage for Past Unreal   Counterfactual Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ቢ... ኖሮ... ነበር» የተገነቡ ዋና ዋና ያለፈ ምናባዊ ሁኔታዎችን ይዟል።"
@@ -9306,10 +9306,10 @@
         {
           "prompt": "«Even if it is difficult, we will try» የሚለውን በአማርኛ ትክክለኛ ተቃራኒ አያያዥ የያዘው የትኛው ነው?",
           "options": [
-            "ቢከብድም እንኳ እንሞክራለን። (Core concept alternative form)",
-            "ከከበደ አንሞክርም (Core concept alternative form)",
-            "አይከብድም (Core concept alternative form)",
-            "ምንም ጥረት የለም (Core concept alternative form)"
+            "ቢከብድም እንኳ እንሞክራለን። (standard target expression for Concessive   Proviso Connectors)",
+            "ከከበደ አንሞክርም (contextual contrast form in Concessive   Proviso Connectors)",
+            "አይከብድም (formal register distinction for Concessive   Proviso Connectors)",
+            "ምንም ጥረት የለም (colloquial conversational usage for Concessive   Proviso Connectors)"
           ],
           "answerIndex": 0,
           "explanation": "«ቢከብድም እንኳ» ተቃራኒ ቅድመ-ሁኔታን የሚያሳይ ትክክለኛ አያያዥ ነው።"
@@ -9321,10 +9321,10 @@
         {
           "prompt": "'Unless you come, we will not go' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አንተ ካልመጣህ በቀር አንሄድም። (Core concept alternative form)",
-            "አንተ ከመጣህ እንሄዳለን (Core concept alternative form)",
-            "አንሄድም (Core concept alternative form)",
-            "ብትመጣ ኖሮ (Core concept alternative form)"
+            "አንተ ካልመጣህ በቀር አንሄድም። (standard target expression for Concessive   Proviso Connectors)",
+            "አንተ ከመጣህ እንሄዳለን (contextual contrast form in Concessive   Proviso Connectors)",
+            "አንሄድም (formal register distinction for Concessive   Proviso Connectors)",
+            "ብትመጣ ኖሮ (colloquial conversational usage for Concessive   Proviso Connectors)"
           ],
           "answerIndex": 0,
           "explanation": "«ካልመጣህ በቀር» 'ካልሆነ በስተቀር' የሚለውን ቅድመ-ሁኔታ በትክክል ይገልጻል።"
@@ -9337,10 +9337,10 @@
           "type": "multiple-choice",
           "prompt": "ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቢ...ም እንኳ፣ ካልሆነ በቀር፣ ካልሆነ በስተቀር እና እስካለ ድረስ። (Core concept alternative form)",
-            "ቤት፣ መኪና እና አውሮፕላን። (Core concept alternative form)",
-            "ሰኞ፣ ማክሰኞ እና ሐሙስ። (Core concept alternative form)",
-            "በአማርኛ አያያዦች የሉም። (Core concept alternative form)"
+            "ቢ...ም እንኳ፣ ካልሆነ በቀር፣ ካልሆነ በስተቀር እና እስካለ ድረስ። (standard target expression for Concessive   Proviso Connectors)",
+            "ቤት፣ መኪና እና አውሮፕላን። (contextual contrast form in Concessive   Proviso Connectors)",
+            "ሰኞ፣ ማክሰኞ እና ሐሙስ። (formal register distinction for Concessive   Proviso Connectors)",
+            "በአማርኛ አያያዦች የሉም። (colloquial conversational usage for Concessive   Proviso Connectors)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ተቃራኒና ቅድመ-ሁኔታዊ አያያዦችን በሙሉ ይዟል።"
@@ -9399,10 +9399,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሁኔታዊ አረፍተ ነገሮች ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "ቢከብድም እንኳ በትጋት ከሰራን እናሳካለን፤ ካልተባበርን በቀር ግን አይቻልም። (Core concept alternative form)",
-            "ምንም ሁኔታ የለም (Core concept alternative form)",
-            "ሁሉም ነገር ቀላል ነው (Core concept alternative form)",
-            "ሁኔታዊ ህጎች የሉም (Core concept alternative form)"
+            "ቢከብድም እንኳ በትጋት ከሰራን እናሳካለን፤ ካልተባበርን በቀር ግን አይቻልም። (standard target expression for Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "ምንም ሁኔታ የለም (contextual contrast form in Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "ሁሉም ነገር ቀላል ነው (formal register distinction for Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "ሁኔታዊ ህጎች የሉም (colloquial conversational usage for Unit 19 Grand Synthesis   Conditional Logic Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ተቃራኒ (ቢከብድም እንኳ)፣ እውነታዊ (ከሰራን) እና ቅድመ-ሁኔታዊ (ካልተባበርን በቀር) መዋቅሮችን ያጣመረ ነው።"
@@ -9414,10 +9414,10 @@
         {
           "prompt": "ያለፈ ምናባዊ እና እውነታዊ ሁኔታዎችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ያኔ ተጠንቅቀን ቢሆን ኖሮ አሁን ችግር ውስጥ አንገባም ነበር፤ አሁን ግን ከሰራን ይስተካከላል። (Core concept alternative form)",
-            "ምንም አይስተካከልም (Core concept alternative form)",
-            "ያኔ አልነበርንም (Core concept alternative form)",
-            "ችግር የለም (Core concept alternative form)"
+            "ያኔ ተጠንቅቀን ቢሆን ኖሮ አሁን ችግር ውስጥ አንገባም ነበር፤ አሁን ግን ከሰራን ይስተካከላል። (standard target expression for Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "ምንም አይስተካከልም (contextual contrast form in Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "ያኔ አልነበርንም (formal register distinction for Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "ችግር የለም (colloquial conversational usage for Unit 19 Grand Synthesis   Conditional Logic Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ያለፈውን ምናባዊ ሁኔታ (ቢሆን ኖሮ) እና የአሁኑን እውነታዊ ሁኔታ (ከሰራን) በትክክል ያዛምዳል።"
@@ -9430,10 +9430,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 19 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "እውነታዊ ሁኔታዎች (Core concept alternative form)",
-            "ይህ ክፍል ስለ ኪነ-ጥበብ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ ሁኔታዊ ቃላት የሉም። (Core concept alternative form)",
-            "ሁሉም ሁኔታዎች አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "እውነታዊ ሁኔታዎች (standard target expression for Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "ይህ ክፍል ስለ ኪነ-ጥበብ ብቻ ነው። (contextual contrast form in Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "በአማርኛ ሁኔታዊ ቃላት የሉም። (formal register distinction for Unit 19 Grand Synthesis   Conditional Logic Discourse)",
+            "ሁሉም ሁኔታዎች አንድ ዓይነት ናቸው። (colloquial conversational usage for Unit 19 Grand Synthesis   Conditional Logic Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 19ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -9492,10 +9492,10 @@
         {
           "prompt": "«The project is being constructed» የሚለውን በአማርኛ ተገብሮ ቀጣይ ጊዜ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ፕሮጀክቱ እየተገነባ ነው። (Core concept alternative form)",
-            "ፕሮጀክቱ ተገነባ (Core concept alternative form)",
-            "ፕሮጀክቱ ይገነባል (Core concept alternative form)",
-            "ፕሮጀክት የለም (Core concept alternative form)"
+            "ፕሮጀክቱ እየተገነባ ነው። (standard target expression for Passive Voice Morphology   Syntax)",
+            "ፕሮጀክቱ ተገነባ (contextual contrast form in Passive Voice Morphology   Syntax)",
+            "ፕሮጀክቱ ይገነባል (formal register distinction for Passive Voice Morphology   Syntax)",
+            "ፕሮጀክት የለም (colloquial conversational usage for Passive Voice Morphology   Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "«እየተገነባ ነው» በአሁን ሰዓት እየተከናወነ ያለ ተገብሮ ቀጣይ ድርጊትን ያሳያል።"
@@ -9507,10 +9507,10 @@
         {
           "prompt": "'The book has been published' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መጽሐፉ ታትሟል። (Core concept alternative form)",
-            "መጽሐፉ ታተመ (Core concept alternative form)",
-            "መጽሐፉ ይታተማል (Core concept alternative form)",
-            "መጽሐፉ አልታተመም (Core concept alternative form)"
+            "መጽሐፉ ታትሟል። (standard target expression for Passive Voice Morphology   Syntax)",
+            "መጽሐፉ ታተመ (contextual contrast form in Passive Voice Morphology   Syntax)",
+            "መጽሐፉ ይታተማል (formal register distinction for Passive Voice Morphology   Syntax)",
+            "መጽሐፉ አልታተመም (colloquial conversational usage for Passive Voice Morphology   Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "«ታትሟል» የድርጊቱን መጠናቀቅ የሚያሳይ የፍጻሜ ጊዜ ተገብሮ ግስ ነው።"
@@ -9523,10 +9523,10 @@
           "type": "multiple-choice",
           "prompt": "የተገብሮ ግስ የጊዜ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተዘጋጀ (Past)",
-            "አረንጓዴ፣ ቢጫ፣ ቀይ እና ነጭ። (Core concept alternative form)",
-            "ሰኞ፣ ማክሰኞ እና እሮብ። (Core concept alternative form)",
-            "በአማርኛ ተገብሮ ግስ የለም። (Core concept alternative form)"
+            "ተዘጋጀ (standard target expression for Passive Voice Morphology   Syntax)",
+            "አረንጓዴ፣ ቢጫ፣ ቀይ እና ነጭ። (contextual contrast form in Passive Voice Morphology   Syntax)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ። (formal register distinction for Passive Voice Morphology   Syntax)",
+            "በአማርኛ ተገብሮ ግስ የለም። (colloquial conversational usage for Passive Voice Morphology   Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተገብሮ ግስን ዋና ዋና የጊዜ እርባታዎች በሙሉ ያሳያል።"
@@ -9585,10 +9585,10 @@
         {
           "prompt": "«The letter was sent through the embassy» የሚለውን በአማርኛ ድርጊት ፈጻሚውን በመስተዋድድ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ደብዳቤው በኤምባሲው አማካኝነት ተላከ። (Core concept alternative form)",
-            "ደብዳቤው ተላከ (Core concept alternative form)",
-            "ኤምባሲው ደብዳቤ ላከ (Core concept alternative form)",
-            "ደብዳቤ የለም (Core concept alternative form)"
+            "ደብዳቤው በኤምባሲው አማካኝነት ተላከ። (standard target expression for Expressing the Agent with Prepositions)",
+            "ደብዳቤው ተላከ (contextual contrast form in Expressing the Agent with Prepositions)",
+            "ኤምባሲው ደብዳቤ ላከ (formal register distinction for Expressing the Agent with Prepositions)",
+            "ደብዳቤ የለም (colloquial conversational usage for Expressing the Agent with Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "«በኤምባሲው አማካኝነት» ድርጊት ፈጻሚውን አካል በትክክል ያመለክታል።"
@@ -9600,10 +9600,10 @@
         {
           "prompt": "'The book was authored by scholars' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መጽሐፉ በምሁራኑ በኩል ተዘጋጀ። (Core concept alternative form)",
-            "ምሁራኑ መጽሐፉን አነበቡ (Core concept alternative form)",
-            "መጽሐፉ ጠፋ (Core concept alternative form)",
-            "ምሁራን የሉም (Core concept alternative form)"
+            "መጽሐፉ በምሁራኑ በኩል ተዘጋጀ። (standard target expression for Expressing the Agent with Prepositions)",
+            "ምሁራኑ መጽሐፉን አነበቡ (contextual contrast form in Expressing the Agent with Prepositions)",
+            "መጽሐፉ ጠፋ (formal register distinction for Expressing the Agent with Prepositions)",
+            "ምሁራን የሉም (colloquial conversational usage for Expressing the Agent with Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "«በምሁራኑ በኩል ተዘጋጀ» ድርጊት ፈጻሚውን በትክክል ያሳውቃል።"
@@ -9616,10 +9616,10 @@
           "type": "multiple-choice",
           "prompt": "ድርጊት ፈጻሚን የሚያመለክቱ መስተዋድዳዊ አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "በ... አማካኝነት፣ በ... በኩል፣ በ... እጅ እና በ... አማካሪነት። (Core concept alternative form)",
-            "ከ... በላይ፣ ከ... በታች እና በ... ውስጥ። (Core concept alternative form)",
-            "ትናንት፣ ዛሬ እና ከነገ ወዲያ። (Core concept alternative form)",
-            "በአማርኛ ድርጊት ፈጻሚ አይገለጽም። (Core concept alternative form)"
+            "በ... አማካኝነት፣ በ... በኩል፣ በ... እጅ እና በ... አማካሪነት። (standard target expression for Expressing the Agent with Prepositions)",
+            "ከ... በላይ፣ ከ... በታች እና በ... ውስጥ። (contextual contrast form in Expressing the Agent with Prepositions)",
+            "ትናንት፣ ዛሬ እና ከነገ ወዲያ። (formal register distinction for Expressing the Agent with Prepositions)",
+            "በአማርኛ ድርጊት ፈጻሚ አይገለጽም። (colloquial conversational usage for Expressing the Agent with Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በተገብሮ ዓረፍተ ነገር ውስጥ ፈጻሚን ለመግለጽ የሚያገለግሉ ዋና ዋና አገላለጾችን ይዟል።"
@@ -9678,10 +9678,10 @@
         {
           "prompt": "«A peace agreement was signed» የሚለውን በዜና ቋንቋ ተገብሮ መዋቅር በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የሰላም ስምምነት ተፈረመ። (Core concept alternative form)",
-            "የሰላም ስምምነት ፈረሙ (Core concept alternative form)",
-            "ስምምነቱ ጠፋ (Core concept alternative form)",
-            "ምንም ስምምነት የለም (Core concept alternative form)"
+            "የሰላም ስምምነት ተፈረመ። (standard target expression for Passive Voice in News   Official Journalism)",
+            "የሰላም ስምምነት ፈረሙ (contextual contrast form in Passive Voice in News   Official Journalism)",
+            "ስምምነቱ ጠፋ (formal register distinction for Passive Voice in News   Official Journalism)",
+            "ምንም ስምምነት የለም (colloquial conversational usage for Passive Voice in News   Official Journalism)"
           ],
           "answerIndex": 0,
           "explanation": "«ተፈረመ» በዜናና በሰነዶች ውስጥ ጥቅም ላይ የሚውል መደበኛ ተገብሮ ግስ ነው።"
@@ -9693,10 +9693,10 @@
         {
           "prompt": "'A meeting was held' የሚለውን በአማርኛ የዜና ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስብሰባ ተካሄደ። (Core concept alternative form)",
-            "ስብሰባ አደረጉ (Core concept alternative form)",
-            "ስብሰባ ተሰረዘ (Core concept alternative form)",
-            "ስብሰባ የለም (Core concept alternative form)"
+            "ስብሰባ ተካሄደ። (standard target expression for Passive Voice in News   Official Journalism)",
+            "ስብሰባ አደረጉ (contextual contrast form in Passive Voice in News   Official Journalism)",
+            "ስብሰባ ተሰረዘ (formal register distinction for Passive Voice in News   Official Journalism)",
+            "ስብሰባ የለም (colloquial conversational usage for Passive Voice in News   Official Journalism)"
           ],
           "answerIndex": 0,
           "explanation": "«ስብሰባ ተካሄደ» በመደበኛ የዜና ዘገባዎች ውስጥ እጅግ የተለመደ ተገብሮ መዋቅር ነው።"
@@ -9709,10 +9709,10 @@
           "type": "multiple-choice",
           "prompt": "በዜና እና ይፋዊ ሰነዶች ውስጥ የሚዘወተሩ ተገብሮ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተካሄደ፣ ተፈረመ፣ ታወጀ፣ ተላለፈ እና ተመረቀ። (Core concept alternative form)",
-            "በላ፣ ጠጣ፣ ሳቀ እና አለቀሰ። (Core concept alternative form)",
-            "ጠረጴዛ፣ ደብተር እና እርሳስ። (Core concept alternative form)",
-            "በዜና ውስጥ ተገብሮ ግስ አይገባም። (Core concept alternative form)"
+            "ተካሄደ፣ ተፈረመ፣ ታወጀ፣ ተላለፈ እና ተመረቀ። (standard target expression for Passive Voice in News   Official Journalism)",
+            "በላ፣ ጠጣ፣ ሳቀ እና አለቀሰ። (contextual contrast form in Passive Voice in News   Official Journalism)",
+            "ጠረጴዛ፣ ደብተር እና እርሳስ። (formal register distinction for Passive Voice in News   Official Journalism)",
+            "በዜና ውስጥ ተገብሮ ግስ አይገባም። (colloquial conversational usage for Passive Voice in News   Official Journalism)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በዜናና ይፋዊ ጽሑፎች ውስጥ በስፋት የሚሠራባቸውን ተገብሮ ግሶች ይዟል።"
@@ -9771,10 +9771,10 @@
         {
           "prompt": "«መሐንዲሱ ድልድዩን ሰራ» የሚለውን ንቁ ዓረፍተ ነገር ወደ ተገብሮ በትክክል የቀየረው የትኛው ነው?",
           "options": [
-            "ድልድዩ በመሐንዲሱ ተሰራ። (Active)",
-            "መሐንዲሱ ድልድዩን ሰራ (Active)",
-            "ድልድዩ መሐንዲሱን ሰራ (Active)",
-            "ምንም ድልድይ አልተሰራም (Active)"
+            "ድልድዩ በመሐንዲሱ ተሰራ። (standard target expression for Active to Passive Transformations)",
+            "መሐንዲሱ ድልድዩን ሰራ (contextual contrast form in Active to Passive Transformations)",
+            "ድልድዩ መሐንዲሱን ሰራ (formal register distinction for Active to Passive Transformations)",
+            "ምንም ድልድይ አልተሰራም (colloquial conversational usage for Active to Passive Transformations)"
           ],
           "answerIndex": 0,
           "explanation": "ተሳቢው 'ድልድዩ' ባለቤት ሆኖ፣ ባለቤቱ 'በመሐንዲሱ' ተብሎ፣ ግሱ 'ተሰራ' ተብሎ ተገብሮ ሆኗል።"
@@ -9786,10 +9786,10 @@
         {
           "prompt": "'ተማሪዎቹ ክፍሉን አጸዱ' የሚለውን ወደ ተገብሮ በትክክል የቀየረው የትኛው ነው?",
           "options": [
-            "ክፍሉ በተማሪዎቹ ተጸዳ። (Active)",
-            "ተማሪዎቹ ክፍሉን አጸዱ (Active)",
-            "ክፍሉ ተማሪዎቹን አጸዳ (Active)",
-            "ክፍሉ አልተጸዳም (Active)"
+            "ክፍሉ በተማሪዎቹ ተጸዳ። (standard target expression for Active to Passive Transformations)",
+            "ተማሪዎቹ ክፍሉን አጸዱ (contextual contrast form in Active to Passive Transformations)",
+            "ክፍሉ ተማሪዎቹን አጸዳ (formal register distinction for Active to Passive Transformations)",
+            "ክፍሉ አልተጸዳም (colloquial conversational usage for Active to Passive Transformations)"
           ],
           "answerIndex": 0,
           "explanation": "«ክፍሉ በተማሪዎቹ ተጸዳ» ትክክለኛውን የተገብሮ አወቃቀር ህግ ጠብቋል።"
@@ -9802,10 +9802,10 @@
           "type": "multiple-choice",
           "prompt": "የንቁ ወደ ተገብሮ ለውጥ መሰረታዊ ህግ ምን ይመስላል?",
           "options": [
-            "ተሳቢው ባለቤት ይሆናል፣ ባለቤቱ በመስተዋድድ ይያያዛል፣ ግሱ ደግሞ በ«ተ-» ቅድመ-ቅጥያ ተገብሮ ይሆናል። (Active)",
-            "ቃላት በሙሉ ወደ ስም ይቀየራሉ። (Active)",
-            "ምንም ዓይነት ለውጥ አይደረግም። (Active)",
-            "ተገብሮ ወደ ንቁ አይቀየርም። (Active)"
+            "ተሳቢው ባለቤት ይሆናል፣ ባለቤቱ በመስተዋድድ ይያያዛል፣ ግሱ ደግሞ በ«ተ-» ቅድመ-ቅጥያ ተገብሮ ይሆናል። (standard target expression for Active to Passive Transformations)",
+            "ቃላት በሙሉ ወደ ስም ይቀየራሉ። (contextual contrast form in Active to Passive Transformations)",
+            "ምንም ዓይነት ለውጥ አይደረግም። (formal register distinction for Active to Passive Transformations)",
+            "ተገብሮ ወደ ንቁ አይቀየርም። (colloquial conversational usage for Active to Passive Transformations)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተገብሮ ለውጥ ደንቦችን ሙሉ በሙሉ ያብራራል።"
@@ -9864,10 +9864,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ ይፋዊ የተገብሮ ዜና ዘገባ መዋቅር የያዘው የትኛው ነው?",
           "options": [
-            "ስምምነቱ በሁለቱ ሀገራት መሪዎች አማካኝነት በይፋ ተፈረመ። (Core concept alternative form)",
-            "ምንም ስምምነት የለም (Core concept alternative form)",
-            "ሁሉም ቃላት ተራ ናቸው (Core concept alternative form)",
-            "ዜና የለም (Core concept alternative form)"
+            "ስምምነቱ በሁለቱ ሀገራት መሪዎች አማካኝነት በይፋ ተፈረመ። (standard target expression for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "ምንም ስምምነት የለም (contextual contrast form in Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "ሁሉም ቃላት ተራ ናቸው (formal register distinction for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "ዜና የለም (colloquial conversational usage for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተገብሮ ግስን (ተፈረመ) እና ድርጊት ፈጻሚውን (በ... አማካኝነት) በትክክል ያዛምዳል።"
@@ -9879,10 +9879,10 @@
         {
           "prompt": "የተገብሮ ግስንና ድርጊት ፈጻሚን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "አዲሱ ሆስፒታል በጤና ጥበቃ ሚኒስቴር አማካኝነት ተገንብቶ ተመረቀ። (Core concept alternative form)",
-            "ምንም ሆስፒታል አልተሰራም (Core concept alternative form)",
-            "ሚኒስቴሩ ጠፋ (Core concept alternative form)",
-            "ሆስፒታል የለም (Core concept alternative form)"
+            "አዲሱ ሆስፒታል በጤና ጥበቃ ሚኒስቴር አማካኝነት ተገንብቶ ተመረቀ። (standard target expression for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "ምንም ሆስፒታል አልተሰራም (contextual contrast form in Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "ሚኒስቴሩ ጠፋ (formal register distinction for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "ሆስፒታል የለም (colloquial conversational usage for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ምርጫ የተገብሮ ግሶችንና ድርጊት ፈጻሚውን በመስተዋድድ በትክክል ያቀናጃል።"
@@ -9895,10 +9895,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 20 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የተገብሮ ግስ የጊዜ እርባታዎች፣ ድርጊት ፈጻሚ መስተዋድዶች (ba... amakanynat/bakul)",
-            "ይህ ክፍል ስለ እንስሳት ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ ተገብሮ ግስ አይጠቀምም። (Core concept alternative form)",
-            "ሁሉም ዜናዎች በንቁ ግስ ብቻ ይጻፋሉ። (Core concept alternative form)"
+            "የተገብሮ ግስ የጊዜ እርባታዎች፣ ድርጊት ፈጻሚ መስተዋድዶች (standard target expression for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "ይህ ክፍል ስለ እንስሳት ብቻ ነው። (contextual contrast form in Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "በአማርኛ ተገብሮ ግስ አይጠቀምም። (formal register distinction for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)",
+            "ሁሉም ዜናዎች በንቁ ግስ ብቻ ይጻፋሉ። (colloquial conversational usage for Unit 20 Grand Synthesis   Formal Journalistic Passive Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 20ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -9957,10 +9957,10 @@
         {
           "prompt": "«He always wakes up early» የሚለውን በአማርኛ የጊዜ ተውሳከ ግስ በትክክል የተጠቀመው የትኛው ነው?",
           "options": [
-            "እሱ ሁልጊዜ ማለዳ ይነሳል። (Core concept alternative form)",
-            "እሱ ትናንት ተነሳ (Core concept alternative form)",
-            "እሱ ነገ ይነሳል (Core concept alternative form)",
-            "ምንም ጊዜ የለም (Core concept alternative form)"
+            "እሱ ሁልጊዜ ማለዳ ይነሳል። (standard target expression for Adverbs of Time)",
+            "እሱ ትናንት ተነሳ (contextual contrast form in Adverbs of Time)",
+            "እሱ ነገ ይነሳል (formal register distinction for Adverbs of Time)",
+            "ምንም ጊዜ የለም (colloquial conversational usage for Adverbs of Time)"
           ],
           "answerIndex": 0,
           "explanation": "«ሁልጊዜ» የድርጊቱን ቋሚነትና ተደጋጋሚነት የሚያሳይ የጊዜ ተውሳከ ግስ ነው።"
@@ -9972,10 +9972,10 @@
         {
           "prompt": "'I will call you immediately' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ወዲያውኑ እደውልልሃለሁ። (Core concept alternative form)",
-            "ትናንት ደወልኩልህ (Core concept alternative form)",
-            "በኋላ አልደውልም (Core concept alternative form)",
-            "ስልክ የለኝም (Core concept alternative form)"
+            "ወዲያውኑ እደውልልሃለሁ። (standard target expression for Adverbs of Time)",
+            "ትናንት ደወልኩልህ (contextual contrast form in Adverbs of Time)",
+            "በኋላ አልደውልም (formal register distinction for Adverbs of Time)",
+            "ስልክ የለኝም (colloquial conversational usage for Adverbs of Time)"
           ],
           "answerIndex": 0,
           "explanation": "«ወዲያውኑ» ፈጣንና ቅጽበታዊ የጊዜ አፈጻጸምን ያመለክታል።"
@@ -9988,10 +9988,10 @@
           "type": "multiple-choice",
           "prompt": "የጊዜ ተውሳከ ግሶችን (Adverbs of time) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ እና አስቀድሞ። (Core concept alternative form)",
-            "ትልቅ፣ ትንሽ እና መካከለኛ። (Core concept alternative form)",
-            "ወንበር፣ ጠረጴዛ እና አልጋ። (Core concept alternative form)",
-            "በአማርኛ የጊዜ ተውሳከ ግስ የለም። (Core concept alternative form)"
+            "አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ እና አስቀድሞ። (standard target expression for Adverbs of Time)",
+            "ትልቅ፣ ትንሽ እና መካከለኛ። (contextual contrast form in Adverbs of Time)",
+            "ወንበር፣ ጠረጴዛ እና አልጋ። (formal register distinction for Adverbs of Time)",
+            "በአማርኛ የጊዜ ተውሳከ ግስ የለም። (colloquial conversational usage for Adverbs of Time)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የጊዜ ተውሳከ ግሶችን በሙሉ ይዟል።"
@@ -10050,10 +10050,10 @@
         {
           "prompt": "«Drive carefully» የሚለውን በአማርኛ ትክክለኛ የሁኔታ ተውሳከ ግስ የያዘው የትኛው ነው?",
           "options": [
-            "በጥንቃቄ አሽከርክር። (Core concept alternative form)",
-            "በፍጥነት ሩጥ (Core concept alternative form)",
-            "አታሽከርክር (Core concept alternative form)",
-            "መኪና የለም (Core concept alternative form)"
+            "በጥንቃቄ አሽከርክር። (standard target expression for Adverbs of Place   Manner)",
+            "በፍጥነት ሩጥ (contextual contrast form in Adverbs of Place   Manner)",
+            "አታሽከርክር (formal register distinction for Adverbs of Place   Manner)",
+            "መኪና የለም (colloquial conversational usage for Adverbs of Place   Manner)"
           ],
           "answerIndex": 0,
           "explanation": "«በጥንቃቄ» የድርጊቱን አፈጻጸም ጥራትና ሁኔታ የሚያሳይ ተውሳከ ግስ ነው።"
@@ -10065,10 +10065,10 @@
         {
           "prompt": "'He spoke courageously' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በድፍረት ተናገረ። (Core concept alternative form)",
-            "በፍርሀት ዝም አለ (Core concept alternative form)",
-            "አልተናገረም (Core concept alternative form)",
-            "ድምጽ የለም (Core concept alternative form)"
+            "በድፍረት ተናገረ። (standard target expression for Adverbs of Place   Manner)",
+            "በፍርሀት ዝም አለ (contextual contrast form in Adverbs of Place   Manner)",
+            "አልተናገረም (formal register distinction for Adverbs of Place   Manner)",
+            "ድምጽ የለም (colloquial conversational usage for Adverbs of Place   Manner)"
           ],
           "answerIndex": 0,
           "explanation": "«በድፍረት» ድፍረትንና ቁርጠኝነትን የሚያሳይ የሁኔታ ተውሳከ ግስ ነው።"
@@ -10081,10 +10081,10 @@
           "type": "multiple-choice",
           "prompt": "የቦታ እና የሁኔታ ተውሳከ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "እዚህ፣ እዚያ፣ በጥንቃቄ፣ በፍጥነት፣ በዝግታ እና በድፍረት። (Core concept alternative form)",
-            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Core concept alternative form)",
-            "ሰማይ፣ ምድር፣ ፀሐይ እና ጨረቃ። (Core concept alternative form)",
-            "በአማርኛ የሁኔታ ተውሳከ ግስ የለም። (Core concept alternative form)"
+            "እዚህ፣ እዚያ፣ በጥንቃቄ፣ በፍጥነት፣ በዝግታ እና በድፍረት። (standard target expression for Adverbs of Place   Manner)",
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (contextual contrast form in Adverbs of Place   Manner)",
+            "ሰማይ፣ ምድር፣ ፀሐይ እና ጨረቃ። (formal register distinction for Adverbs of Place   Manner)",
+            "በአማርኛ የሁኔታ ተውሳከ ግስ የለም። (colloquial conversational usage for Adverbs of Place   Manner)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታና የሁኔታ ተውሳከ ግሶችን በአግባቡ ያጠቃልላል።"
@@ -10143,10 +10143,10 @@
         {
           "prompt": "«He worked hard; therefore he succeeded» የሚለውን በአማርኛ ትክክለኛ የውጤት አያያዥ የተጠቀመው የትኛው ነው?",
           "options": [
-            "በትጋት ሰራ፤ ስለዚህ ተሳካለት። (Core concept alternative form)",
-            "በትጋት ሰራ ግን አልተሳካለትም (Core concept alternative form)",
-            "አልሰራም (Core concept alternative form)",
-            "ምንም ስራ የለም (Core concept alternative form)"
+            "በትጋት ሰራ፤ ስለዚህ ተሳካለት። (standard target expression for Causal   Consecutive Conjunctions)",
+            "በትጋት ሰራ ግን አልተሳካለትም (contextual contrast form in Causal   Consecutive Conjunctions)",
+            "አልሰራም (formal register distinction for Causal   Consecutive Conjunctions)",
+            "ምንም ስራ የለም (colloquial conversational usage for Causal   Consecutive Conjunctions)"
           ],
           "answerIndex": 0,
           "explanation": "«ስለዚህ» መንስኤውንና ውጤቱን የሚያገናኝ ትክክለኛ አያያዥ ቃል ነው።"
@@ -10158,10 +10158,10 @@
         {
           "prompt": "'Due to the rain, the event was postponed' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "በዝናቡ ሳቢያ ዝግጅቱ ተራዘመ። (Core concept alternative form)",
-            "ዝናብ የለም (Core concept alternative form)",
-            "ዝግጅቱ ተካሄደ (Core concept alternative form)",
-            "ምንም ዝግጅት የለም (Core concept alternative form)"
+            "በዝናቡ ሳቢያ ዝግጅቱ ተራዘመ። (standard target expression for Causal   Consecutive Conjunctions)",
+            "ዝናብ የለም (contextual contrast form in Causal   Consecutive Conjunctions)",
+            "ዝግጅቱ ተካሄደ (formal register distinction for Causal   Consecutive Conjunctions)",
+            "ምንም ዝግጅት የለም (colloquial conversational usage for Causal   Consecutive Conjunctions)"
           ],
           "answerIndex": 0,
           "explanation": "«በ... ሳቢያ» መንስኤን የሚያመለክት ትክክለኛ ሰዋሰዋዊ አያያዥ ነው።"
@@ -10174,10 +10174,10 @@
           "type": "multiple-choice",
           "prompt": "የመንስኤ እና የውጤት አያያዥ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስለዚህ፣ ስለሆነም፣ በመሆኑም፣ በዚህ ምክንያት እና በ... ሳቢያ። (Core concept alternative form)",
-            "አረንጓዴ፣ ቢጫ እና ቀይ። (Core concept alternative form)",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Core concept alternative form)",
-            "በአማርኛ የምክንያት አያያዥ የለም። (Core concept alternative form)"
+            "ስለዚህ፣ ስለሆነም፣ በመሆኑም፣ በዚህ ምክንያት እና በ... ሳቢያ። (standard target expression for Causal   Consecutive Conjunctions)",
+            "አረንጓዴ፣ ቢጫ እና ቀይ። (contextual contrast form in Causal   Consecutive Conjunctions)",
+            "ጠዋት፣ ከሰዓት እና ማታ። (formal register distinction for Causal   Consecutive Conjunctions)",
+            "በአማርኛ የምክንያት አያያዥ የለም። (colloquial conversational usage for Causal   Consecutive Conjunctions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የመንስኤና የውጤት አያያዦችን በሙሉ ይዟል።"
@@ -10236,10 +10236,10 @@
         {
           "prompt": "«It was hard, however we persevered» የሚለውን በአማርኛ ትክክለኛ የተቃርኖ አያያዥ የያዘው የትኛው ነው?",
           "options": [
-            "ከባድ ነበር፤ ሆኖም ግን ጸናን። (Core concept alternative form)",
-            "ከባድ ነበር ስለዚህ ተውነው (Core concept alternative form)",
-            "ቀላል ነበር (Core concept alternative form)",
-            "ምንም አልነበረም (Core concept alternative form)"
+            "ከባድ ነበር፤ ሆኖም ግን ጸናን። (standard target expression for Adversative   Alternative Conjunctions)",
+            "ከባድ ነበር ስለዚህ ተውነው (contextual contrast form in Adversative   Alternative Conjunctions)",
+            "ቀላል ነበር (formal register distinction for Adversative   Alternative Conjunctions)",
+            "ምንም አልነበረም (colloquial conversational usage for Adversative   Alternative Conjunctions)"
           ],
           "answerIndex": 0,
           "explanation": "«ሆኖም ግን» የተቃርኖ ሀሳቦችን የሚያገናኝ ትክክለኛ አያያዥ ነው።"
@@ -10251,10 +10251,10 @@
         {
           "prompt": "'Tea or coffee' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሻይ ወይም ቡና (Core concept alternative form)",
-            "ሻይ እና ቡና (Core concept alternative form)",
-            "ሻይ ግን ቡና (Core concept alternative form)",
-            "ሻይ የለም (Core concept alternative form)"
+            "ሻይ ወይም ቡና (standard target expression for Adversative   Alternative Conjunctions)",
+            "ሻይ እና ቡና (contextual contrast form in Adversative   Alternative Conjunctions)",
+            "ሻይ ግን ቡና (formal register distinction for Adversative   Alternative Conjunctions)",
+            "ሻይ የለም (colloquial conversational usage for Adversative   Alternative Conjunctions)"
           ],
           "answerIndex": 0,
           "explanation": "«ወይም» ሁለት አማራጮችን የሚያገናኝ የአማራጭ አያያዥ ቃል ነው።"
@@ -10267,10 +10267,10 @@
           "type": "multiple-choice",
           "prompt": "የተቃርኖ እና የአማራጭ አያያዦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም፣ ወይም እና አልያም ። (Core concept alternative form)",
-            "ትልቅ፣ ትንሽ እና ረጅም ። (Core concept alternative form)",
-            "ቀይ፣ አረንጓዴ እና ቢጫ። (Core concept alternative form)",
-            "በአማርኛ የተቃርኖ አያያዥ የለም። (Core concept alternative form)"
+            "ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም፣ ወይም እና አልያም ። (standard target expression for Adversative   Alternative Conjunctions)",
+            "ትልቅ፣ ትንሽ እና ረጅም ። (contextual contrast form in Adversative   Alternative Conjunctions)",
+            "ቀይ፣ አረንጓዴ እና ቢጫ። (formal register distinction for Adversative   Alternative Conjunctions)",
+            "በአማርኛ የተቃርኖ አያያዥ የለም። (colloquial conversational usage for Adversative   Alternative Conjunctions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የተቃርኖና የአማራጭ አያያዦችን በሙሉ ይዟል።"
@@ -10329,10 +10329,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተለያዩ ተውሳከ ግሶችንና አያያዦችን ያጣመረው የትኛው ነው?",
           "options": [
-            "አሁን በጥንቃቄ እንስራ፤ ስለዚህ በስኬት እንጠናቀቃለን ወይም እናርፋለን። (Core concept alternative form)",
-            "ምንም ቃል የለም (Core concept alternative form)",
-            "ሁሉም ስሞች ናቸው (Core concept alternative form)",
-            "አያያዥ የለም (Core concept alternative form)"
+            "አሁን በጥንቃቄ እንስራ፤ ስለዚህ በስኬት እንጠናቀቃለን ወይም እናርፋለን። (standard target expression for Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "ምንም ቃል የለም (contextual contrast form in Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "ሁሉም ስሞች ናቸው (formal register distinction for Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "አያያዥ የለም (colloquial conversational usage for Unit 21 Grand Synthesis   Complex Cohesive Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጊዜ (አሁን)፣ የሁኔታ (በጥንቃቄ)፣ የውጤት (ስለዚህ) እና የአማራጭ (ወይም) አያያዦችን በአንድነት ያጣመረ ነው።"
@@ -10344,10 +10344,10 @@
         {
           "prompt": "የመንስኤ-ውጤት እና የተቃርኖ አያያዦችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "መንገዱ ከባድ ነበር፤ ሆኖም ግን በድፍረት ተጓዝን፤ ስለዚህ በሰላም ደረስን። (Core concept alternative form)",
-            "ምንም መንገድ የለም (Core concept alternative form)",
-            "አልደረስንም (Core concept alternative form)",
-            "ተጓዥ የለም (Core concept alternative form)"
+            "መንገዱ ከባድ ነበር፤ ሆኖም ግን በድፍረት ተጓዝን፤ ስለዚህ በሰላም ደረስን። (standard target expression for Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "ምንም መንገድ የለም (contextual contrast form in Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "አልደረስንም (formal register distinction for Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "ተጓዥ የለም (colloquial conversational usage for Unit 21 Grand Synthesis   Complex Cohesive Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተቃርኖውን 'ሆኖም ግን'፣ የሁኔታውን 'በድፍረት' እና የውጤቱን 'ስለዚህ' በትክክል ያዛምዳል።"
@@ -10360,10 +10360,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 21 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የጊዜ ተውሳከ ግሶች፣ የቦታና የሁኔታ ተውሳከ ግሶች፣ የመንስኤና የውጤት አያያዦች (slazih/bamahonum)",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ ተውሳከ ግስ የለም። (Core concept alternative form)",
-            "ሁሉም አያያዦች አንድ ዓይነት ናቸው። (Core concept alternative form)"
+            "የጊዜ ተውሳከ ግሶች፣ የቦታና የሁኔታ ተውሳከ ግሶች፣ የመንስኤና የውጤት አያያዦች (standard target expression for Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (contextual contrast form in Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "በአማርኛ ተውሳከ ግስ የለም። (formal register distinction for Unit 21 Grand Synthesis   Complex Cohesive Discourse)",
+            "ሁሉም አያያዦች አንድ ዓይነት ናቸው። (colloquial conversational usage for Unit 21 Grand Synthesis   Complex Cohesive Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 21ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -10422,10 +10422,10 @@
         {
           "prompt": "«He did not write the letter» የሚለውን በአማርኛ የኃላፊ ጊዜ አሉታዊ መዋቅር በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ደብዳቤውን አልጻፈም። (Core concept alternative form)",
-            "ደብዳቤውን ጻፈ (Core concept alternative form)",
-            "ደብዳቤውን አይጽፍም (Core concept alternative form)",
-            "ደብዳቤ የለም (Core concept alternative form)"
+            "ደብዳቤውን አልጻፈም። (standard target expression for Negation Across All Tenses)",
+            "ደብዳቤውን ጻፈ (contextual contrast form in Negation Across All Tenses)",
+            "ደብዳቤውን አይጽፍም (formal register distinction for Negation Across All Tenses)",
+            "ደብዳቤ የለም (colloquial conversational usage for Negation Across All Tenses)"
           ],
           "answerIndex": 0,
           "explanation": "«አልጻፈም» በኃላፊ ጊዜ ውስጥ የተፈጸመ አሉታዊ ድርጊትን በትክክል ያሳያል።"
@@ -10437,10 +10437,10 @@
         {
           "prompt": "'Without him eating' የሚለውን በንዑስ አንቀጽ አሉታዊ ቅርጽ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሳይበላ (Core concept alternative form)",
-            "አልበላም (Core concept alternative form)",
-            "እየበላ (Core concept alternative form)",
-            "ይበላል (Core concept alternative form)"
+            "ሳይበላ (standard target expression for Negation Across All Tenses)",
+            "አልበላም (contextual contrast form in Negation Across All Tenses)",
+            "እየበላ (formal register distinction for Negation Across All Tenses)",
+            "ይበላል (colloquial conversational usage for Negation Across All Tenses)"
           ],
           "answerIndex": 0,
           "explanation": "በንዑስ አንቀጽ ውስጥ አሉታዊ ቅጥያ «ሳ-» ሲገባ «-ም» አይጨመርም።"
@@ -10453,10 +10453,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ አሉታዊ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አልጻፈም (yaahun/wadafit)",
-            "ቀይ፣ ሰማያዊ እና አረንጓዴ። (Core concept alternative form)",
-            "ቤት፣ በር እና መስኮት። (Core concept alternative form)",
-            "በአማርኛ አሉታዊ ግስ የለም። (Core concept alternative form)"
+            "አልጻፈም (standard target expression for Negation Across All Tenses)",
+            "ቀይ፣ ሰማያዊ እና አረንጓዴ። (contextual contrast form in Negation Across All Tenses)",
+            "ቤት፣ በር እና መስኮት። (formal register distinction for Negation Across All Tenses)",
+            "በአማርኛ አሉታዊ ግስ የለም። (colloquial conversational usage for Negation Across All Tenses)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ የግስ እርባታዎችን በአግባቡ ያሳያል።"
@@ -10515,10 +10515,10 @@
         {
           "prompt": "«I saw nothing» የሚለውን በአማርኛ አሉታዊ ተውላጠ ስም በመጠቀም በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ምንም አላየሁም። (Core concept alternative form)",
-            "ሁሉንም አየሁ (Core concept alternative form)",
-            "አንድ ነገር አየሁ (Core concept alternative form)",
-            "ምንም የለም (Core concept alternative form)"
+            "ምንም አላየሁም። (standard target expression for Special Negative Pronouns   Particles)",
+            "ሁሉንም አየሁ (contextual contrast form in Special Negative Pronouns   Particles)",
+            "አንድ ነገር አየሁ (formal register distinction for Special Negative Pronouns   Particles)",
+            "ምንም የለም (colloquial conversational usage for Special Negative Pronouns   Particles)"
           ],
           "answerIndex": 0,
           "explanation": "«ምንም» ከአሉታዊ ግስ (አላየሁም) ጋር ተጣምሮ 'ምንም አላየሁም' (I saw nothing) የሚል ትክክለኛ ትርጉም ይሰጣል።"
@@ -10530,10 +10530,10 @@
         {
           "prompt": "'Nobody knows' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ማንም አያውቅም። (Core concept alternative form)",
-            "ሁሉም ያውቃል (Core concept alternative form)",
-            "ሰው ያውቃል (Core concept alternative form)",
-            "ማንም ያውቃል (Core concept alternative form)"
+            "ማንም አያውቅም። (standard target expression for Special Negative Pronouns   Particles)",
+            "ሁሉም ያውቃል (contextual contrast form in Special Negative Pronouns   Particles)",
+            "ሰው ያውቃል (formal register distinction for Special Negative Pronouns   Particles)",
+            "ማንም ያውቃል (colloquial conversational usage for Special Negative Pronouns   Particles)"
           ],
           "answerIndex": 0,
           "explanation": "«ማንም» ከአሉታዊ ግስ «አያውቅም» ጋር መግባት አለበት።"
@@ -10546,10 +10546,10 @@
           "type": "multiple-choice",
           "prompt": "አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ማንም፣ ምንም፣ የትም፣ በፍጹም እና ከቶውንም። (Core concept alternative form)",
-            "ሁልጊዜ፣ አንዳንዴ እና አሁን። (Core concept alternative form)",
-            "ጠረጴዛ፣ ደብተር እና ወንበር። (Core concept alternative form)",
-            "በአማርኛ አሉታዊ ተውላጠ ስም የለም። (Core concept alternative form)"
+            "ማንም፣ ምንም፣ የትም፣ በፍጹም እና ከቶውንም። (standard target expression for Special Negative Pronouns   Particles)",
+            "ሁልጊዜ፣ አንዳንዴ እና አሁን። (contextual contrast form in Special Negative Pronouns   Particles)",
+            "ጠረጴዛ፣ ደብተር እና ወንበር። (formal register distinction for Special Negative Pronouns   Particles)",
+            "በአማርኛ አሉታዊ ተውላጠ ስም የለም። (colloquial conversational usage for Special Negative Pronouns   Particles)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን ያካትታል።"
@@ -10608,10 +10608,10 @@
         {
           "prompt": "«ሆድ ሰፊ» የሚለው የአማርኛ ፈሊጣዊ አነጋገር ትክክለኛ ትርጉም ምንድን ነው?",
           "options": [
-            "ትዕግሥተኛ፣ ይቅር ባይና ሰፊ አመለካከት ያለው ሰው። (Core concept alternative form)",
-            "ብዙ ምግብ የሚበላ ሰው (Core concept alternative form)",
-            "የታመመ ሰው (Core concept alternative form)",
-            "ሆድ የሌለው ሰው (Core concept alternative form)"
+            "ትዕግሥተኛ፣ ይቅር ባይና ሰፊ አመለካከት ያለው ሰው። (standard target expression for Idiomatic Expressions   Figures of Speech)",
+            "ብዙ ምግብ የሚበላ ሰው (contextual contrast form in Idiomatic Expressions   Figures of Speech)",
+            "የታመመ ሰው (formal register distinction for Idiomatic Expressions   Figures of Speech)",
+            "ሆድ የሌለው ሰው (colloquial conversational usage for Idiomatic Expressions   Figures of Speech)"
           ],
           "answerIndex": 0,
           "explanation": "«ሆድ ሰፊ» በትዕግሥትና በይቅር ባይነት የሚታወቅን ሰው የሚያመለክት ታዋቂ ፈሊጥ ነው።"
@@ -10623,10 +10623,10 @@
         {
           "prompt": "'He turned a deaf ear' የሚለውን የአማርኛ ፈሊጥ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጆሮ ዳባ ልበስ አለ። (Core concept alternative form)",
-            "ጆሮው ታመመ (Core concept alternative form)",
-            "በደንብ ሰማ (Core concept alternative form)",
-            "ጆሮ የለውም (Core concept alternative form)"
+            "ጆሮ ዳባ ልበስ አለ። (standard target expression for Idiomatic Expressions   Figures of Speech)",
+            "ጆሮው ታመመ (contextual contrast form in Idiomatic Expressions   Figures of Speech)",
+            "በደንብ ሰማ (formal register distinction for Idiomatic Expressions   Figures of Speech)",
+            "ጆሮ የለውም (colloquial conversational usage for Idiomatic Expressions   Figures of Speech)"
           ],
           "answerIndex": 0,
           "explanation": "«ጆሮ ዳባ ልበስ አለ» የቀረበለትን ምክር ወይም ጥሪ ችላ የማለት ፈሊጥ ነው።"
@@ -10639,10 +10639,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ ፈሊጣዊ አነጋገሮችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሆድ ሰፊ፣ ዐይን አፋር፣ ጆሮ ዳባ ልበስ እና አንገተ ደንዳና። (Core concept alternative form)",
-            "ሰኞ፣ ማክሰኞ፣ እሮብ እና ሐሙስ። (Core concept alternative form)",
-            "ዳቦ፣ ወተት፣ ስጋ እና እንቁላል። (Core concept alternative form)",
-            "በአማርኛ ፈሊጣዊ አነጋገር የለም። (Core concept alternative form)"
+            "ሆድ ሰፊ፣ ዐይን አፋር፣ ጆሮ ዳባ ልበስ እና አንገተ ደንዳና። (standard target expression for Idiomatic Expressions   Figures of Speech)",
+            "ሰኞ፣ ማክሰኞ፣ እሮብ እና ሐሙስ። (contextual contrast form in Idiomatic Expressions   Figures of Speech)",
+            "ዳቦ፣ ወተት፣ ስጋ እና እንቁላል። (formal register distinction for Idiomatic Expressions   Figures of Speech)",
+            "በአማርኛ ፈሊጣዊ አነጋገር የለም። (colloquial conversational usage for Idiomatic Expressions   Figures of Speech)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአማርኛ ፈሊጣዊ አነጋገሮችን በሙሉ ይዟል።"
@@ -10701,10 +10701,10 @@
         {
           "prompt": "«As for me, I finished» የሚለውን በአማርኛ አጽንኦት ሰጪ ቅጥያ በመጠቀም በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እኔማ ጨረስኩ። (Core concept alternative form)",
-            "እኔ ጨረስኩ (Core concept alternative form)",
-            "አልጨረስኩም (Core concept alternative form)",
-            "ስራ የለም (Core concept alternative form)"
+            "እኔማ ጨረስኩ። (standard target expression for Emphatic Markers   Poetic Devices)",
+            "እኔ ጨረስኩ (contextual contrast form in Emphatic Markers   Poetic Devices)",
+            "አልጨረስኩም (formal register distinction for Emphatic Markers   Poetic Devices)",
+            "ስራ የለም (colloquial conversational usage for Emphatic Markers   Poetic Devices)"
           ],
           "answerIndex": 0,
           "explanation": "«እኔማ» በርዕሰ-ጉዳዩ ላይ ልዩ አጽንኦት ለመስጠት የሚያገለግል ትክክለኛ አገላለጽ ነው።"
@@ -10716,10 +10716,10 @@
         {
           "prompt": "'What about you?' የሚለውን በአማርኛ አጽንኦት ሰጪ ቅጥያ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አንተስ? / አንቺስ? (Core concept alternative form)",
-            "አንተ ማን ነህ? (Core concept alternative form)",
-            "የት ነህ? (Core concept alternative form)",
-            "ስምህ ማን ነው? (male)"
+            "አንተስ? / አንቺስ? (standard target expression for Emphatic Markers   Poetic Devices)",
+            "አንተ ማን ነህ? (contextual contrast form in Emphatic Markers   Poetic Devices)",
+            "የት ነህ? (formal register distinction for Emphatic Markers   Poetic Devices)",
+            "ስምህ ማን ነው? (colloquial conversational usage for Emphatic Markers   Poetic Devices)"
           ],
           "answerIndex": 0,
           "explanation": "«-ስ» ወደ ሌላኛው ተናጋሪ ሀሳቡን ለማዞርና አጽንኦት ለመስጠት የሚያገለግል ቅጥያ ነው።"
@@ -10732,10 +10732,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ አጽንኦት ሰጪ ቅጥያዎችንና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "-ማ፣ -ስ፣ -ኮ፣ እንኳ እና እንጂ። (Core concept alternative form)",
-            "ትልቅ፣ ትንሽ፣ ረጅም እና አጭር። (Core concept alternative form)",
-            "ውሃ፣ ጭማቂ እና ወተት። (Core concept alternative form)",
-            "በአማርኛ አጽንኦት ሰጪ ቅጥያ የለም። (Core concept alternative form)"
+            "-ማ፣ -ስ፣ -ኮ፣ እንኳ እና እንጂ። (standard target expression for Emphatic Markers   Poetic Devices)",
+            "ትልቅ፣ ትንሽ፣ ረጅም እና አጭር። (contextual contrast form in Emphatic Markers   Poetic Devices)",
+            "ውሃ፣ ጭማቂ እና ወተት። (formal register distinction for Emphatic Markers   Poetic Devices)",
+            "በአማርኛ አጽንኦት ሰጪ ቅጥያ የለም። (colloquial conversational usage for Emphatic Markers   Poetic Devices)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአጽንኦት ቅጥያዎችንና ቃላትን በሙሉ ይዟል።"
@@ -10794,10 +10794,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ አሉታዊ መዋቅርን፣ ፈሊጥንና አጽንኦትን ያጣመረው የትኛው ነው?",
           "options": [
-            "እሱማ ሆድ ሰፊ ሰው ስለሆነ ማንም አይከፋበትምኮ። (Core concept alternative form)",
-            "ምንም የለም (Core concept alternative form)",
-            "ሁሉም ቃላት ተራ ናቸው (Core concept alternative form)",
-            "ፈሊጥ የለም (Core concept alternative form)"
+            "እሱማ ሆድ ሰፊ ሰው ስለሆነ ማንም አይከፋበትምኮ። (standard target expression for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "ምንም የለም (contextual contrast form in Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "ሁሉም ቃላት ተራ ናቸው (formal register distinction for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "ፈሊጥ የለም (colloquial conversational usage for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አጽንኦት (-ማ፣ -ኮ)፣ ፈሊጥ (ሆድ ሰፊ) እና አሉታዊ መዋቅርን (ማንም አይከፋበትም) በአንድ ላይ ያጣመረ ነው።"
@@ -10809,10 +10809,10 @@
         {
           "prompt": "ልዩ አሉታዊ ቃላትንና ፈሊጥን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ስለ ጉዳዩ ማንም ምንም አያውቅም፤ ሆኖም ግን ጆሮ ዳባ ልበስ አንበል ። (Core concept alternative form)",
-            "ምንም አናውቅም (Core concept alternative form)",
-            "ጆሮ የለም (Core concept alternative form)",
-            "ሰው የለም (Core concept alternative form)"
+            "ስለ ጉዳዩ ማንም ምንም አያውቅም፤ ሆኖም ግን ጆሮ ዳባ ልበስ አንበል ። (standard target expression for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "ምንም አናውቅም (contextual contrast form in Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "ጆሮ የለም (formal register distinction for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "ሰው የለም (colloquial conversational usage for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር አሉታዊ ተውላጠ ስሞችን (ማንም፣ ምንም) እና ፈሊጥን (ጆሮ ዳባ ልበስ) በትክክል ያዛምዳል።"
@@ -10825,10 +10825,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 22 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የተለያዩ የጊዜ አሉታዊ ቅርጾች፣ ልዩ አሉታዊ ቃላት (hod safi/joro daba lbas)",
-            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ አሉታዊ አረፍተ ነገር የለም። (Core concept alternative form)",
-            "ሁሉም ፈሊጦች ተመሳሳይ ትርጉም አላቸው። (Core concept alternative form)"
+            "የተለያዩ የጊዜ አሉታዊ ቅርጾች፣ ልዩ አሉታዊ ቃላት (standard target expression for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (contextual contrast form in Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "በአማርኛ አሉታዊ አረፍተ ነገር የለም። (formal register distinction for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)",
+            "ሁሉም ፈሊጦች ተመሳሳይ ትርጉም አላቸው። (colloquial conversational usage for Unit 22 Grand Synthesis   Idiomatic Negative Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 22ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -10887,10 +10887,10 @@
         {
           "prompt": "«Breaking news» የሚለውን በአማርኛ የዜና ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሰበር ዜና (Headlines)",
-            "የድሮ ዜና (Headlines)",
-            "ተራ ወሬ (Headlines)",
-            "ምንም ዜና የለም (Headlines)"
+            "ሰበር ዜና (standard target expression for News Reports   Headline Architecture)",
+            "የድሮ ዜና (contextual contrast form in News Reports   Headline Architecture)",
+            "ተራ ወሬ (formal register distinction for News Reports   Headline Architecture)",
+            "ምንም ዜና የለም (colloquial conversational usage for News Reports   Headline Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰበር ዜና» አጣዳፊና ቅጽበታዊ ዜናዎችን ለመግለጽ የሚሠራበት መደበኛ የሚዲያ ቃል ነው።"
@@ -10902,10 +10902,10 @@
         {
           "prompt": "'Live broadcast' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የቀጥታ ስርጭት (Headlines)",
-            "የቀረጻ ስርጭት (Headlines)",
-            "የቆየ ዜና (Headlines)",
-            "ስርጭት የለም (Headlines)"
+            "የቀጥታ ስርጭት (standard target expression for News Reports   Headline Architecture)",
+            "የቀረጻ ስርጭት (contextual contrast form in News Reports   Headline Architecture)",
+            "የቆየ ዜና (formal register distinction for News Reports   Headline Architecture)",
+            "ስርጭት የለም (colloquial conversational usage for News Reports   Headline Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "«የቀጥታ ስርጭት» በቅጽበት የሚተላለፍ የሚዲያ ፕሮግራምን ያመለክታል።"
@@ -10918,10 +10918,10 @@
           "type": "multiple-choice",
           "prompt": "የዜና እና የሚዲያ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሰበር ዜና፣ የቀጥታ ስርጭት፣ አርዕስተ ዜና፣ ዘገባ እና የዜና አውታር። (Headlines)",
-            "ወተት፣ ማር፣ ዳቦ እና ቅቤ። (Headlines)",
-            "ሰኞ፣ ማክሰኞ እና እሮብ። (Headlines)",
-            "በአማርኛ የሚዲያ ቋንቋ የለም። (Headlines)"
+            "ሰበር ዜና፣ የቀጥታ ስርጭት፣ አርዕስተ ዜና፣ ዘገባ እና የዜና አውታር። (standard target expression for News Reports   Headline Architecture)",
+            "ወተት፣ ማር፣ ዳቦ እና ቅቤ። (contextual contrast form in News Reports   Headline Architecture)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ። (formal register distinction for News Reports   Headline Architecture)",
+            "በአማርኛ የሚዲያ ቋንቋ የለም። (colloquial conversational usage for News Reports   Headline Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሚዲያና የጋዜጠኝነት ቃላትን በሙሉ ይዟል።"
@@ -10980,10 +10980,10 @@
         {
           "prompt": "«Diplomatic relations» የሚለውን በአማርኛ ትክክለኛ የዲፕሎማሲ ቃል የያዘው የትኛው ነው?",
           "options": [
-            "ዲፕሎማሲያዊ ግንኙነት (Core concept key phrasing)",
-            "የጓደኝነት ወሬ (Core concept alternative form)",
-            "የመንገድ ንግድ (Core concept alternative form)",
-            "ምንም ግንኙነት የለም (Core concept alternative form)"
+            "ዲፕሎማሲያዊ ግንኙነት (standard target expression for Politics   Diplomatic Statements)",
+            "የጓደኝነት ወሬ (contextual contrast form in Politics   Diplomatic Statements)",
+            "የመንገድ ንግድ (formal register distinction for Politics   Diplomatic Statements)",
+            "ምንም ግንኙነት የለም (colloquial conversational usage for Politics   Diplomatic Statements)"
           ],
           "answerIndex": 0,
           "explanation": "«ዲፕሎማሲያዊ ግንኙነት» በሀገራት መካከል ያለውን ይፋዊ ግንኙነት የሚገልጽ ትክክለኛ ቃል ነው።"
@@ -10995,10 +10995,10 @@
         {
           "prompt": "'Bilateral talks' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የሁለትዮሽ ውይይት (Core concept key phrasing)",
-            "የአንድ ወገን ንግግር (Core concept alternative form)",
-            "ጭቅጭቅ (Core concept alternative form)",
-            "ዝምታ (Core concept alternative form)"
+            "የሁለትዮሽ ውይይት (standard target expression for Politics   Diplomatic Statements)",
+            "የአንድ ወገን ንግግር (contextual contrast form in Politics   Diplomatic Statements)",
+            "ጭቅጭቅ (formal register distinction for Politics   Diplomatic Statements)",
+            "ዝምታ (colloquial conversational usage for Politics   Diplomatic Statements)"
           ],
           "answerIndex": 0,
           "explanation": "«የሁለትዮሽ ውይይት» በሁለት ሀገራት ወይም ወገኖች መካከል የሚደረግ ይፋዊ ንግግር ነው።"
@@ -11011,10 +11011,10 @@
           "type": "multiple-choice",
           "prompt": "የፖለቲካ እና የዲፕሎማሲ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ዲፕሎማሲያዊ ግንኙነት፣ አምባሳደር፣ ሉዓላዊነት፣ የሁለትዮሽ ውይይት እና የጋራ ተጠቃሚነት። (Core concept alternative form)",
-            "ጠመኔ፣ ጥቁር ሰሌዳ እና ማጥፊያ። (Core concept alternative form)",
-            "አውሮፕላን፣ ባቡር እና መኪና። (Core concept alternative form)",
-            "በአማርኛ የዲፕሎማሲ ቃል የለም። (Core concept alternative form)"
+            "ዲፕሎማሲያዊ ግንኙነት፣ አምባሳደር፣ ሉዓላዊነት፣ የሁለትዮሽ ውይይት እና የጋራ ተጠቃሚነት። (standard target expression for Politics   Diplomatic Statements)",
+            "ጠመኔ፣ ጥቁር ሰሌዳ እና ማጥፊያ። (contextual contrast form in Politics   Diplomatic Statements)",
+            "አውሮፕላን፣ ባቡር እና መኪና። (formal register distinction for Politics   Diplomatic Statements)",
+            "በአማርኛ የዲፕሎማሲ ቃል የለም። (colloquial conversational usage for Politics   Diplomatic Statements)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የዲፕሎማሲና የፖለቲካ ቃላትን በሙሉ ይዟል።"
@@ -11073,10 +11073,10 @@
         {
           "prompt": "«Inflation» የሚለውን በአማርኛ ትክክለኛ የኢኮኖሚ ቃል የያዘው የትኛው ነው?",
           "options": [
-            "የዋጋ ግሽበት (Core concept key phrasing)",
-            "የዋጋ ቅናሽ (Core concept alternative form)",
-            "የገበያ ሽያጭ (Core concept alternative form)",
-            "ምንም የለም (Core concept alternative form)"
+            "የዋጋ ግሽበት (standard target expression for Economic  Business   Market Reports)",
+            "የዋጋ ቅናሽ (contextual contrast form in Economic  Business   Market Reports)",
+            "የገበያ ሽያጭ (formal register distinction for Economic  Business   Market Reports)",
+            "ምንም የለም (colloquial conversational usage for Economic  Business   Market Reports)"
           ],
           "answerIndex": 0,
           "explanation": "«የዋጋ ግሽበት» የዕቃዎችና የአገልግሎቶች ዋጋ ያለማቋረጥ መጨመርን የሚገልጽ ትክክለኛ የኢኮኖሚ ቃል ነው።"
@@ -11088,10 +11088,10 @@
         {
           "prompt": "'Foreign exchange / currency' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የውጭ ምንዛሪ (Core concept key phrasing)",
-            "የሀገር ገንዘብ (Core concept alternative form)",
-            "ብረት ሳንቲም (Core concept alternative form)",
-            "የብር ኖት (Core concept alternative form)"
+            "የውጭ ምንዛሪ (standard target expression for Economic  Business   Market Reports)",
+            "የሀገር ገንዘብ (contextual contrast form in Economic  Business   Market Reports)",
+            "ብረት ሳንቲም (formal register distinction for Economic  Business   Market Reports)",
+            "የብር ኖት (colloquial conversational usage for Economic  Business   Market Reports)"
           ],
           "answerIndex": 0,
           "explanation": "«የውጭ ምንዛሪ» የሌሎች ሀገራትን ገንዘብና የገንዘብ ልውውጥን ያመለክታል።"
@@ -11104,10 +11104,10 @@
           "type": "multiple-choice",
           "prompt": "የኢኮኖሚና የንግድ ዘገባ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የዋጋ ግሽበት፣ የውጭ ምንዛሪ፣ ኢንቨስትመንት፣ ምርታማነት እና የገበያ መረጋጋት። (Core concept alternative form)",
-            "ወንበር፣ ጠረጴዛ እና ሳሎን። (Core concept alternative form)",
-            "ቢጫ፣ አረንጓዴ እና ጥቁር። (Core concept alternative form)",
-            "በአማርኛ የኢኮኖሚ ቃል የለም። (Core concept alternative form)"
+            "የዋጋ ግሽበት፣ የውጭ ምንዛሪ፣ ኢንቨስትመንት፣ ምርታማነት እና የገበያ መረጋጋት። (standard target expression for Economic  Business   Market Reports)",
+            "ወንበር፣ ጠረጴዛ እና ሳሎን። (contextual contrast form in Economic  Business   Market Reports)",
+            "ቢጫ፣ አረንጓዴ እና ጥቁር። (formal register distinction for Economic  Business   Market Reports)",
+            "በአማርኛ የኢኮኖሚ ቃል የለም። (colloquial conversational usage for Economic  Business   Market Reports)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኢኮኖሚና የንግድ ቃላትን በሙሉ ይዟል።"
@@ -11166,10 +11166,10 @@
         {
           "prompt": "«Press conference» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጋዜጣዊ መግለጫ (Core concept key phrasing)",
-            "የግል ንግግር (Core concept alternative form)",
-            "የስልክ ጥሪ (Core concept alternative form)",
-            "ምንም መግለጫ የለም (Core concept alternative form)"
+            "ጋዜጣዊ መግለጫ (standard target expression for Interviews   Press Conferences)",
+            "የግል ንግግር (contextual contrast form in Interviews   Press Conferences)",
+            "የስልክ ጥሪ (formal register distinction for Interviews   Press Conferences)",
+            "ምንም መግለጫ የለም (colloquial conversational usage for Interviews   Press Conferences)"
           ],
           "answerIndex": 0,
           "explanation": "«ጋዜጣዊ መግለጫ» ለመገናኛ ብዙሃን ባለሙያዎች የሚሰጥ ይፋዊ ማብራሪያ ነው።"
@@ -11181,10 +11181,10 @@
         {
           "prompt": "'Interview' የሚለውን በአማርኛ የጋዜጠኝነት ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቃለ-መጠይቅ (Core concept key phrasing)",
-            "ውይይት ብቻ (Core concept alternative form)",
-            "ክርክር (Core concept alternative form)",
-            "ዝምታ (Core concept alternative form)"
+            "ቃለ-መጠይቅ (standard target expression for Interviews   Press Conferences)",
+            "ውይይት ብቻ (contextual contrast form in Interviews   Press Conferences)",
+            "ክርክር (formal register distinction for Interviews   Press Conferences)",
+            "ዝምታ (colloquial conversational usage for Interviews   Press Conferences)"
           ],
           "answerIndex": 0,
           "explanation": "«ቃለ-መጠይቅ» የአንድን ግለሰብ ዕውቀት ወይም አስተያየት በጥያቄና መልስ ለመሰብሰብ የሚደረግ ጋዜጣዊ ስራ ነው።"
@@ -11197,10 +11197,10 @@
           "type": "multiple-choice",
           "prompt": "የቃለ-መጠይቅ እና የፕሬስ መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ጋዜጣዊ መግለጫ፣ ቃለ-መጠይቅ፣ ጋዜጠኛ፣ ቃል-አቀባይ እና ማስተባበያ። (Core concept alternative form)",
-            "ሰዓት፣ ደቂቃ እና ሰከንድ። (Core concept alternative form)",
-            "መጽሐፍ፣ ብዕር እና ወረቀት። (Core concept alternative form)",
-            "በአማርኛ ቃለ-መጠይቅ አይባልም። (Core concept alternative form)"
+            "ጋዜጣዊ መግለጫ፣ ቃለ-መጠይቅ፣ ጋዜጠኛ፣ ቃል-አቀባይ እና ማስተባበያ። (standard target expression for Interviews   Press Conferences)",
+            "ሰዓት፣ ደቂቃ እና ሰከንድ። (contextual contrast form in Interviews   Press Conferences)",
+            "መጽሐፍ፣ ብዕር እና ወረቀት። (formal register distinction for Interviews   Press Conferences)",
+            "በአማርኛ ቃለ-መጠይቅ አይባልም። (colloquial conversational usage for Interviews   Press Conferences)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የፕሬስና የቃለ-መጠይቅ ቃላትን በሙሉ ይዟል።"
@@ -11259,10 +11259,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሚዲያ ዘገባ አወቃቀር የያዘው የትኛው ነው?",
           "options": [
-            "ሰበር ዜና: በጋዜጣዊ መግለጫው የዲፕሎማሲ እና የኢኮኖሚ ስምምነት መፈረሙ ተገለጸ። (Core concept alternative form)",
-            "ምንም ዜና የለም (Core concept alternative form)",
-            "ሁሉም ተራ ወሬ ነው (Core concept alternative form)",
-            "መግለጫ የለም (Core concept alternative form)"
+            "ሰበር ዜና: በጋዜጣዊ መግለጫው የዲፕሎማሲ እና የኢኮኖሚ ስምምነት መፈረሙ ተገለጸ። (standard target expression for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "ምንም ዜና የለም (contextual contrast form in Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "ሁሉም ተራ ወሬ ነው (formal register distinction for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "መግለጫ የለም (colloquial conversational usage for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አርዕስተ ዜናን (ሰበር ዜና)፣ ፕሬስን (ጋዜጣዊ መግለጫ) እና ዲፕሎማሲያዊ ይዘትን በአንድነት ያጣመረ ነው።"
@@ -11274,10 +11274,10 @@
         {
           "prompt": "የኢኮኖሚ እና የሚዲያ ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "የኢኮኖሚ ዘገባው የውጭ ምንዛሪ እና የኢንቨስትመንት እድገትን በዝርዝር አብራራ። (Core concept alternative form)",
-            "ምንም ዘገባ አልቀረበም (Core concept alternative form)",
-            "ገንዘብ የለም (Core concept alternative form)",
-            "ኢንቨስትመንት የለም (Core concept alternative form)"
+            "የኢኮኖሚ ዘገባው የውጭ ምንዛሪ እና የኢንቨስትመንት እድገትን በዝርዝር አብራራ። (standard target expression for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "ምንም ዘገባ አልቀረበም (contextual contrast form in Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "ገንዘብ የለም (formal register distinction for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "ኢንቨስትመንት የለም (colloquial conversational usage for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የሚዲያ ዘገባን እና የኢኮኖሚ ቃላትን በትክክል ያቀናጃል።"
@@ -11290,10 +11290,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 23 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የዜና ዘገባና አርዕስተ ዜና፣ የፖለቲካና ዲፕሎማሲ መግለጫዎች፣ የኢኮኖሚና ገበያ ቃላት፣ እንዲሁም ቃለ-መጠይቅና ጋዜጣዊ መግለጫ ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ ጋዜጣዊ መግለጫ አይሰጥም። (Core concept alternative form)",
-            "ሁሉም ዜናዎች ተራ አሉባልታ ናቸው። (Core concept alternative form)"
+            "የዜና ዘገባና አርዕስተ ዜና፣ የፖለቲካና ዲፕሎማሲ መግለጫዎች፣ የኢኮኖሚና ገበያ ቃላት፣ እንዲሁም ቃለ-መጠይቅና ጋዜጣዊ መግለጫ ተካተዋል። (standard target expression for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (contextual contrast form in Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "በአማርኛ ጋዜጣዊ መግለጫ አይሰጥም። (formal register distinction for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)",
+            "ሁሉም ዜናዎች ተራ አሉባልታ ናቸው። (colloquial conversational usage for Unit 23 Grand Synthesis   Complete Journalistic Broadcast)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 23ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -11352,10 +11352,10 @@
         {
           "prompt": "«Subject: / Re:» የሚለውን በአማርኛ ይፋዊ ደብዳቤ አጻጻፍ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጉዳዩ (Core concept key phrasing)",
-            "ወሬው (Core concept alternative form)",
-            "መልእክቱ (Core concept alternative form)",
-            "ምንም ጉዳይ የለም (Core concept alternative form)"
+            "ጉዳዩ (standard target expression for Official Letter Formats   Headers)",
+            "ወሬው (contextual contrast form in Official Letter Formats   Headers)",
+            "መልእክቱ (formal register distinction for Official Letter Formats   Headers)",
+            "ምንም ጉዳይ የለም (colloquial conversational usage for Official Letter Formats   Headers)"
           ],
           "answerIndex": 0,
           "explanation": "«ጉዳዩ:» በደብዳቤው ላይ የሚብራራውን ዋና ርዕስ ለማመልከት የሚሠራበት መደበኛ ቃል ነው።"
@@ -11367,10 +11367,10 @@
         {
           "prompt": "'With respectful greetings' የሚለውን የደብዳቤ መዝጊያ ቃል በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ከአክብሮት ሰላምታ ጋር (Core concept key phrasing)",
-            "ቻው (casual)",
-            "ደህና ሁን (Core concept alternative form)",
-            "ሰላም (Selam - Hello / Peace)"
+            "ከአክብሮት ሰላምታ ጋር (standard target expression for Official Letter Formats   Headers)",
+            "ቻው (contextual contrast form in Official Letter Formats   Headers)",
+            "ደህና ሁን (formal register distinction for Official Letter Formats   Headers)",
+            "ሰላም (colloquial conversational usage for Official Letter Formats   Headers)"
           ],
           "answerIndex": 0,
           "explanation": "«ከአክብሮት ሰላምታ ጋር» በኦፊሴላዊ ደብዳቤ ማጠቃለያ ላይ የሚገባ ህጋዊና ጨዋ አገላለጽ ነው።"
@@ -11383,10 +11383,10 @@
           "type": "multiple-choice",
           "prompt": "የይፋዊ ደብዳቤ ዋና ዋና ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ ክቡር/የተከበሩ እና ከአክብሮት ሰላምታ ጋር። (Core concept alternative form)",
-            "ጨው፣ በርበሬ እና ዘይት። (Core concept alternative form)",
-            "እግር ኳስ፣ መረብ ኳስ እና ቅርጫት ኳስ። (Core concept alternative form)",
-            "በአማርኛ የደብዳቤ ቅርፅ የለም። (Core concept alternative form)"
+            "ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ ክቡር/የተከበሩ እና ከአክብሮት ሰላምታ ጋር። (standard target expression for Official Letter Formats   Headers)",
+            "ጨው፣ በርበሬ እና ዘይት። (contextual contrast form in Official Letter Formats   Headers)",
+            "እግር ኳስ፣ መረብ ኳስ እና ቅርጫት ኳስ። (formal register distinction for Official Letter Formats   Headers)",
+            "በአማርኛ የደብዳቤ ቅርፅ የለም። (colloquial conversational usage for Official Letter Formats   Headers)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመደበኛ አስተዳደራዊ ደብዳቤ ክፍሎችን በሙሉ ይዟል።"
@@ -11445,10 +11445,10 @@
         {
           "prompt": "«Application» የሚለውን በአማርኛ አስተዳደራዊ ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ማመልከቻ (Core concept key phrasing)",
-            "የግል ታሪክ (Core concept alternative form)",
-            "ስዕል (Core concept alternative form)",
-            "ምንም አይደለም (Mnem aydelem - You are welcome / No problem)"
+            "ማመልከቻ (standard target expression for Applications  Petitions   Requests)",
+            "የግል ታሪክ (contextual contrast form in Applications  Petitions   Requests)",
+            "ስዕል (formal register distinction for Applications  Petitions   Requests)",
+            "ምንም አይደለም (colloquial conversational usage for Applications  Petitions   Requests)"
           ],
           "answerIndex": 0,
           "explanation": "«ማመልከቻ» ለአንድ መስሪያ ቤት ወይም ድርጅት በይፋ የሚቀርብ የጥያቄ ሰነድ ነው።"
@@ -11460,10 +11460,10 @@
         {
           "prompt": "'Educational credentials' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የትምህርት ማስረጃ (Core concept key phrasing)",
-            "የቤት እቃ (Core concept alternative form)",
-            "የመኪና ቁልፍ (Core concept alternative form)",
-            "ገንዘብ (Core concept alternative form)"
+            "የትምህርት ማስረጃ (standard target expression for Applications  Petitions   Requests)",
+            "የቤት እቃ (contextual contrast form in Applications  Petitions   Requests)",
+            "የመኪና ቁልፍ (formal register distinction for Applications  Petitions   Requests)",
+            "ገንዘብ (colloquial conversational usage for Applications  Petitions   Requests)"
           ],
           "answerIndex": 0,
           "explanation": "«የትምህርት ማስረጃ» የትምህርት ደረጃን የሚያረጋግጥ ይፋዊ ሰነድ ነው።"
@@ -11476,10 +11476,10 @@
           "type": "multiple-choice",
           "prompt": "የማመልከቻ እና የጥያቄ ደብዳቤ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አመልካች፣ ማመልከቻ፣ የትምህርት ማስረጃ፣ የስራ ልምድ እና አቤቱታ። (Core concept alternative form)",
-            "ስኳር፣ ጨው፣ ሻይ እና ቡና። (Core concept alternative form)",
-            "ሰማያዊ፣ ቀይ እና ጥቁር። (Core concept alternative form)",
-            "በአማርኛ ማመልከቻ አይጻፍም። (Core concept alternative form)"
+            "አመልካች፣ ማመልከቻ፣ የትምህርት ማስረጃ፣ የስራ ልምድ እና አቤቱታ። (standard target expression for Applications  Petitions   Requests)",
+            "ስኳር፣ ጨው፣ ሻይ እና ቡና። (contextual contrast form in Applications  Petitions   Requests)",
+            "ሰማያዊ፣ ቀይ እና ጥቁር። (formal register distinction for Applications  Petitions   Requests)",
+            "በአማርኛ ማመልከቻ አይጻፍም። (colloquial conversational usage for Applications  Petitions   Requests)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የማመልከቻ ደብዳቤ ዋና ዋና ቃላትን በሙሉ ያካትታል።"
@@ -11538,10 +11538,10 @@
         {
           "prompt": "«Contract agreement» የሚለውን በአማርኛ አስተዳደራዊ እና ህጋዊ ቃል በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የውል ስምምነት (Core concept key phrasing)",
-            "የቃል ወሬ (Core concept alternative form)",
-            "የጨዋታ ህግ (Core concept alternative form)",
-            "ምንም ውል የለም (Core concept alternative form)"
+            "የውል ስምምነት (standard target expression for Contracts  Agreements   Directives)",
+            "የቃል ወሬ (contextual contrast form in Contracts  Agreements   Directives)",
+            "የጨዋታ ህግ (formal register distinction for Contracts  Agreements   Directives)",
+            "ምንም ውል የለም (colloquial conversational usage for Contracts  Agreements   Directives)"
           ],
           "answerIndex": 0,
           "explanation": "«የውል ስምምነት» በሁለት ወገኖች መካከል መብትና ግዴታን የሚደነግግ ይፋዊ የህግ ሰነድ ነው።"
@@ -11553,10 +11553,10 @@
         {
           "prompt": "'Contracting parties' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተዋዋይ ወገኖች (Core concept key phrasing)",
-            "ተመልካቾች (Core concept alternative form)",
-            "እንግዶች (Core concept alternative form)",
-            "መንገደኞች (Core concept alternative form)"
+            "ተዋዋይ ወገኖች (standard target expression for Contracts  Agreements   Directives)",
+            "ተመልካቾች (contextual contrast form in Contracts  Agreements   Directives)",
+            "እንግዶች (formal register distinction for Contracts  Agreements   Directives)",
+            "መንገደኞች (colloquial conversational usage for Contracts  Agreements   Directives)"
           ],
           "answerIndex": 0,
           "explanation": "«ተዋዋይ ወገኖች» ውሉን የተፈራረሙትን አካላት የሚያመለክት መደበኛ የህግ ቃል ነው።"
@@ -11569,10 +11569,10 @@
           "type": "multiple-choice",
           "prompt": "የውል እና የስምምነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የውል ስምምነት፣ ተዋዋይ ወገኖች፣ ግዴታ፣ የአስተዳደር መመሪያ እና ፊርማ። (Core concept alternative form)",
-            "ጫማ፣ ካልሲ፣ ሱሪ እና ሸሚዝ። (Core concept alternative form)",
-            "ወንዝ፣ ተራራ፣ ሸለቆ እና ሜዳ። (Core concept alternative form)",
-            "በአማርኛ የውል ሰነድ የለም። (Core concept alternative form)"
+            "የውል ስምምነት፣ ተዋዋይ ወገኖች፣ ግዴታ፣ የአስተዳደር መመሪያ እና ፊርማ። (standard target expression for Contracts  Agreements   Directives)",
+            "ጫማ፣ ካልሲ፣ ሱሪ እና ሸሚዝ። (contextual contrast form in Contracts  Agreements   Directives)",
+            "ወንዝ፣ ተራራ፣ ሸለቆ እና ሜዳ። (formal register distinction for Contracts  Agreements   Directives)",
+            "በአማርኛ የውል ሰነድ የለም። (colloquial conversational usage for Contracts  Agreements   Directives)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የውልና የአስተዳደር መመሪያ ቃላትን በሙሉ ይዟል።"
@@ -11631,10 +11631,10 @@
         {
           "prompt": "«Minutes of meeting» የሚለውን በአማርኛ አስተዳደራዊ ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቃለ-ጉባኤ (Core concept key phrasing)",
-            "የስብሰባ ወሬ (Core concept alternative form)",
-            "የአዳራሽ ቁልፍ (Core concept alternative form)",
-            "ምንም ሰነድ የለም (Core concept alternative form)"
+            "ቃለ-ጉባኤ (standard target expression for Meeting Minutes   Administrative Reports)",
+            "የስብሰባ ወሬ (contextual contrast form in Meeting Minutes   Administrative Reports)",
+            "የአዳራሽ ቁልፍ (formal register distinction for Meeting Minutes   Administrative Reports)",
+            "ምንም ሰነድ የለም (colloquial conversational usage for Meeting Minutes   Administrative Reports)"
           ],
           "answerIndex": 0,
           "explanation": "«ቃለ-ጉባኤ» በስብሰባ ወቅት የተነሱትን ነጥቦችና የተላለፉትን ውሳኔዎች በጽሁፍ የሚያሰፍር ይፋዊ ሰነድ ነው።"
@@ -11646,10 +11646,10 @@
         {
           "prompt": "'Agenda' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አጀንዳ (Core concept key phrasing)",
-            "የስብሰባ ሰዓት ብቻ (Core concept alternative form)",
-            "ምሳ (Core concept alternative form)",
-            "እረፍት (Core concept alternative form)"
+            "አጀንዳ (standard target expression for Meeting Minutes   Administrative Reports)",
+            "የስብሰባ ሰዓት ብቻ (contextual contrast form in Meeting Minutes   Administrative Reports)",
+            "ምሳ (formal register distinction for Meeting Minutes   Administrative Reports)",
+            "እረፍት (colloquial conversational usage for Meeting Minutes   Administrative Reports)"
           ],
           "answerIndex": 0,
           "explanation": "«አጀንዳ» በስብሰባው ላይ የሚወያዩባቸውን ርዕሰ ጉዳዮች ዝርዝር ያመለክታል።"
@@ -11662,10 +11662,10 @@
           "type": "multiple-choice",
           "prompt": "የስብሰባ ቃለ-ጉባኤ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አጀንዳ፣ ሰብሳቢ፣ ጸሐፊ፣ ተሰብሳቢዎች፣ ቃለ-ጉባኤ እና ውሳኔ። (Core concept alternative form)",
-            "ብርቱካን፣ ሎሚ፣ ማንጎ እና ሙዝ። (Core concept alternative form)",
-            "ወንበር፣ ጠረጴዛ እና ሰሌዳ። (Core concept alternative form)",
-            "በአማርኛ ቃለ-ጉባኤ አይጻፍም። (Core concept alternative form)"
+            "አጀንዳ፣ ሰብሳቢ፣ ጸሐፊ፣ ተሰብሳቢዎች፣ ቃለ-ጉባኤ እና ውሳኔ። (standard target expression for Meeting Minutes   Administrative Reports)",
+            "ብርቱካን፣ ሎሚ፣ ማንጎ እና ሙዝ። (contextual contrast form in Meeting Minutes   Administrative Reports)",
+            "ወንበር፣ ጠረጴዛ እና ሰሌዳ። (formal register distinction for Meeting Minutes   Administrative Reports)",
+            "በአማርኛ ቃለ-ጉባኤ አይጻፍም። (colloquial conversational usage for Meeting Minutes   Administrative Reports)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስብሰባ አስተዳደራዊ ሰነድ ክፍሎችን በሙሉ ይዟል።"
@@ -11726,10 +11726,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ አስተዳደራዊ ሰነድ አወቃቀር የያዘው የትኛው ነው?",
           "options": [
-            "ጉዳዩ: የስብሰባ ቃለ-ጉባኤ ውሳኔን እና የውል ስምምነት መመሪያን ማጽደቅ። (Core concept alternative form)",
-            "ምንም ሰነድ የለም (Core concept alternative form)",
-            "ሁሉም ተራ ወረቀት ነው (Core concept alternative form)",
-            "ማመልከቻ የለም (Core concept alternative form)"
+            "ጉዳዩ: የስብሰባ ቃለ-ጉባኤ ውሳኔን እና የውል ስምምነት መመሪያን ማጽደቅ። (standard target expression for Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "ምንም ሰነድ የለም (contextual contrast form in Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "ሁሉም ተራ ወረቀት ነው (formal register distinction for Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "ማመልከቻ የለም (colloquial conversational usage for Unit 24 Grand Synthesis   Administrative Office Correspondence)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የደብዳቤ ርዕስን (ጉዳዩ)፣ ቃለ-ጉባኤን እና የውል መመሪያን በአግባቡ ያጣመረ ነው።"
@@ -11741,10 +11741,10 @@
         {
           "prompt": "የማመልከቻ እና የውል ስምምነት ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "አመልካቹ የውል ስምምነቱን ግዴታዎች አሟልቶ ማመልከቻውን አስገባ። (Core concept alternative form)",
-            "ምንም ማመልከቻ አልገባም (Core concept alternative form)",
-            "ውል የለም (Core concept alternative form)",
-            "ሰው የለም (Core concept alternative form)"
+            "አመልካቹ የውል ስምምነቱን ግዴታዎች አሟልቶ ማመልከቻውን አስገባ። (standard target expression for Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "ምንም ማመልከቻ አልገባም (contextual contrast form in Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "ውል የለም (formal register distinction for Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "ሰው የለም (colloquial conversational usage for Unit 24 Grand Synthesis   Administrative Office Correspondence)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የማመልከቻ እና የውል ቃላትን በትክክል ያቀናጃል።"
@@ -11757,10 +11757,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 24 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የመንግሥትና የድርጅት ደብዳቤ ቅርፅ፣ የማመልከቻ አጻጻፍ፣ የውልና ስምምነት ሰነዶች፣ እንዲሁም የስብሰባ ቃለ-ጉባኤ እና ሪፖርት ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ስፖርት ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ ይፋዊ ደብዳቤ አይጻፍም። (Core concept alternative form)",
-            "ሁሉም ሰነዶች ተመሳሳይ ቅርፅ አላቸው። (Core concept alternative form)"
+            "የመንግሥትና የድርጅት ደብዳቤ ቅርፅ፣ የማመልከቻ አጻጻፍ፣ የውልና ስምምነት ሰነዶች፣ እንዲሁም የስብሰባ ቃለ-ጉባኤ እና ሪፖርት ተካተዋል። (standard target expression for Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "ይህ ክፍል ስለ ስፖርት ብቻ ነው። (contextual contrast form in Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "በአማርኛ ይፋዊ ደብዳቤ አይጻፍም። (formal register distinction for Unit 24 Grand Synthesis   Administrative Office Correspondence)",
+            "ሁሉም ሰነዶች ተመሳሳይ ቅርፅ አላቸው። (colloquial conversational usage for Unit 24 Grand Synthesis   Administrative Office Correspondence)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 24ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -11819,10 +11819,10 @@
         {
           "prompt": "«ፍቅር እስከ መቃብር» የተሰኘውን ድንቅ ልቦለድ የጻፉት አንጋፋ ደራሲ ማን ናቸው?",
           "options": [
-            "ሐዲስ ዓለማየሁ (Core concept key phrasing)",
-            "ከበደ ሚካኤል (Core concept alternative form)",
-            "በዓሉ ግርማ (Core concept alternative form)",
-            "ጸጋዬ ገብረመድህን (Core concept alternative form)"
+            "ሐዲስ ዓለማየሁ (standard target expression for History of Amharic Literature   Prominent Authors)",
+            "ከበደ ሚካኤል (contextual contrast form in History of Amharic Literature   Prominent Authors)",
+            "በዓሉ ግርማ (formal register distinction for History of Amharic Literature   Prominent Authors)",
+            "ጸጋዬ ገብረመድህን (colloquial conversational usage for History of Amharic Literature   Prominent Authors)"
           ],
           "answerIndex": 0,
           "explanation": "«ፍቅር እስከ መቃብር» በታዋቂው ደራሲ ሐዲስ ዓለማየሁ የተደረሰ ድንቅ የልቦለድ ስራ ነው።"
@@ -11834,10 +11834,10 @@
         {
           "prompt": "'Novel' የሚለውን የስነ-ጽሑፍ ዘውግ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ልቦለድ (Core concept key phrasing)",
-            "ግጥም (Core concept alternative form)",
-            "ዜና (Core concept alternative form)",
-            "ደብዳቤ (Core concept alternative form)"
+            "ልቦለድ (standard target expression for History of Amharic Literature   Prominent Authors)",
+            "ግጥም (contextual contrast form in History of Amharic Literature   Prominent Authors)",
+            "ዜና (formal register distinction for History of Amharic Literature   Prominent Authors)",
+            "ደብዳቤ (colloquial conversational usage for History of Amharic Literature   Prominent Authors)"
           ],
           "answerIndex": 0,
           "explanation": "«ልቦለድ» ረጅም ልብወለዳዊ ታሪክን የሚያቀርብ የስነ-ጽሑፍ ዘውግ ነው።"
@@ -11850,10 +11850,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ ስነ-ጽሑፍ ዘውጎችንና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስነ-ጽሑፍ፣ ልቦለድ፣ አጭር ልቦለድ፣ ድርሰት፣ ተውኔት እና ደራሲ። (Core concept alternative form)",
-            "ወተት፣ ቅቤ፣ አይብ እና እርጎ። (Core concept alternative form)",
-            "ሰኞ፣ ማክሰኞ እና እሮብ። (Core concept alternative form)",
-            "በአማርኛ ስነ-ጽሑፍ የለም። (Core concept alternative form)"
+            "ስነ-ጽሑፍ፣ ልቦለድ፣ አጭር ልቦለድ፣ ድርሰት፣ ተውኔት እና ደራሲ። (standard target expression for History of Amharic Literature   Prominent Authors)",
+            "ወተት፣ ቅቤ፣ አይብ እና እርጎ። (contextual contrast form in History of Amharic Literature   Prominent Authors)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ። (formal register distinction for History of Amharic Literature   Prominent Authors)",
+            "በአማርኛ ስነ-ጽሑፍ የለም። (colloquial conversational usage for History of Amharic Literature   Prominent Authors)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ዘውጎችንና ቃላትን በሙሉ ይዟል።"
@@ -11914,10 +11914,10 @@
         {
           "prompt": "በአማርኛ ግጥም ውስጥ በስንኞች መጨረሻ ላይ የሚገኝ ተነባቢ ድምፅ ወይም ፊደል ምን ይባላል?",
           "options": [
-            "ቤት መምቻ (Rhyme Scheme)",
-            "አርዕስት (Rhyme Scheme)",
-            "ደብዳቤ (Rhyme Scheme)",
-            "ስምምነት (Rhyme Scheme)"
+            "ቤት መምቻ (standard target expression for Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "አርዕስት (contextual contrast form in Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "ደብዳቤ (formal register distinction for Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "ስምምነት (colloquial conversational usage for Poetic Form  Stanza   Rhyme    Bet Memcha)"
           ],
           "answerIndex": 0,
           "explanation": "«ቤት መምቻ» የግጥሙን ስንኞች በተመሳሳይ ፊደል ወይም ድምፅ የማሳረጊያ ሰዋሰዋዊ እና ቅኔያዊ ስም ነው።"
@@ -11929,10 +11929,10 @@
         {
           "prompt": "'Poet' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ገጣሚ (Rhyme Scheme)",
-            "ነጋዴ (Rhyme Scheme)",
-            "አሽከርካሪ (Rhyme Scheme)",
-            "ገበሬ (Rhyme Scheme)"
+            "ገጣሚ (standard target expression for Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "ነጋዴ (contextual contrast form in Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "አሽከርካሪ (formal register distinction for Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "ገበሬ (colloquial conversational usage for Poetic Form  Stanza   Rhyme    Bet Memcha)"
           ],
           "answerIndex": 0,
           "explanation": "«ገጣሚ» ግጥሞችን የሚጽፍ ወይም የሚያንጎራጉር ባለሙያ ነው።"
@@ -11945,10 +11945,10 @@
           "type": "multiple-choice",
           "prompt": "የግጥም ቅርፅ እና የዜማ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስንኝ፣ ሀረግ፣ ቤት መምቻ፣ ዜማ፣ ምት እና ገጣሚ። (Rhyme Scheme)",
-            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Rhyme Scheme)",
-            "ጠረጴዛ፣ ወንበር እና በር። (Rhyme Scheme)",
-            "በአማርኛ ግጥም የለም። (Rhyme Scheme)"
+            "ስንኝ፣ ሀረግ፣ ቤት መምቻ፣ ዜማ፣ ምት እና ገጣሚ። (standard target expression for Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (contextual contrast form in Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "ጠረጴዛ፣ ወንበር እና በር። (formal register distinction for Poetic Form  Stanza   Rhyme    Bet Memcha)",
+            "በአማርኛ ግጥም የለም። (colloquial conversational usage for Poetic Form  Stanza   Rhyme    Bet Memcha)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የግጥም ክፍሎችንና የቤት መምቻ ቃላትን በሙሉ ይዟል።"
@@ -12007,10 +12007,10 @@
         {
           "prompt": "በሰምና ወርቅ ቅኔ ውስጥ «ወርቅ» የሚባለው የትኛው ነው?",
           "options": [
-            "በውስጥ የተደበቀው እውነተኛ እና ጥልቅ ምስጢር (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "የላይኛው ግልጽ ትርጉም (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "የሚሸጥ ጌጥ (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "የወረቀት ቀለም (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')"
+            "በውስጥ የተደበቀው እውነተኛ እና ጥልቅ ምስጢር (standard target expression for Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "የላይኛው ግልጽ ትርጉም (contextual contrast form in Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "የሚሸጥ ጌጥ (formal register distinction for Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "የወረቀት ቀለም (colloquial conversational usage for Sem nna Worq  Wax and Gold Poetic Double Meaning)"
           ],
           "answerIndex": 0,
           "explanation": "በቅኔ ፍልስፍና «ወርቅ» የሚባለው በግጥሙ ውስጥ ተሸፍኖ የተቀመጠው እውነተኛው እና ጥልቁ መልእክት ነው።"
@@ -12022,10 +12022,10 @@
         {
           "prompt": "በሰምና ወርቅ ውስጥ ሁለቱንም ትርጉሞች የያዘው ቁልፍ ቃል ምን ይባላል?",
           "options": [
-            "ህብር (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "ሰም ብቻ (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "ርዕስ (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "ማጠቃለያ (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')"
+            "ህብር (standard target expression for Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "ሰም ብቻ (contextual contrast form in Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "ርዕስ (formal register distinction for Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "ማጠቃለያ (colloquial conversational usage for Sem nna Worq  Wax and Gold Poetic Double Meaning)"
           ],
           "answerIndex": 0,
           "explanation": "«ህብር» ሰሙንና ወርቁን በአንድነት አጣምሮ የያዘ ባለሁለት አቅጣጫ ቃል ነው።"
@@ -12038,10 +12038,10 @@
           "type": "multiple-choice",
           "prompt": "የሰምና ወርቅ የቅኔ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ምስጢር እና ፈሊጥ። (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "ጠመኔ፣ ሰሌዳ፣ እርሳስ እና ደብተር። (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "ሰማይ፣ ምድር፣ ጨረቃ እና ፀሐይ። (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')",
-            "በአማርኛ ቅኔ የለም። (yalaynyaw trgum 'sam' ena wst'a-mist'ru 'warq')"
+            "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ምስጢር እና ፈሊጥ። (standard target expression for Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "ጠመኔ፣ ሰሌዳ፣ እርሳስ እና ደብተር። (contextual contrast form in Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "ሰማይ፣ ምድር፣ ጨረቃ እና ፀሐይ። (formal register distinction for Sem nna Worq  Wax and Gold Poetic Double Meaning)",
+            "በአማርኛ ቅኔ የለም። (colloquial conversational usage for Sem nna Worq  Wax and Gold Poetic Double Meaning)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰምና ወርቅን መሰረታዊ ጽንሰ-ሀሳቦች በሙሉ ይዟል።"
@@ -12100,10 +12100,10 @@
         {
           "prompt": "«Plot» የሚለውን የልቦለድ አወቃቀር ክፍል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሴራ (Plot)",
-            "መቼት (Plot)",
-            "ጭብጥ (Plot)",
-            "ገጸ-ባህሪ (Plot)"
+            "ሴራ (standard target expression for Literary Criticism   Character Analysis)",
+            "መቼት (contextual contrast form in Literary Criticism   Character Analysis)",
+            "ጭብጥ (formal register distinction for Literary Criticism   Character Analysis)",
+            "ገጸ-ባህሪ (colloquial conversational usage for Literary Criticism   Character Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "«ሴራ» በልቦለድ ውስጥ የክስተቶችን ቅደም ተከተልና ትስስር የሚያመለክት የስነ-ጽሑፍ ቃል ነው።"
@@ -12115,10 +12115,10 @@
         {
           "prompt": "'Theme' የሚለውን የስነ-ጽሑፍ ዋና ሀሳብ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ጭብጥ (Plot)",
-            "ስም (Plot)",
-            "ቀን (Plot)",
-            "ቦታ (Plot)"
+            "ጭብጥ (standard target expression for Literary Criticism   Character Analysis)",
+            "ስም (contextual contrast form in Literary Criticism   Character Analysis)",
+            "ቀን (formal register distinction for Literary Criticism   Character Analysis)",
+            "ቦታ (colloquial conversational usage for Literary Criticism   Character Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "«ጭብጥ» የድርሰቱ ዋና መልእክትና ማጠንጠኛ ሀሳብ ነው።"
@@ -12131,10 +12131,10 @@
           "type": "multiple-choice",
           "prompt": "የስነ-ጽሑፍ ትችት እና የልቦለድ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ጭብጥ፣ ሴራ፣ ገጸ-ባህሪ፣ መቼት፣ ግጭት እና የስነ-ጽሑፍ ትችት። (Plot)",
-            "ዳቦ፣ ስጋ፣ እንቁላል እና ወተት። (Plot)",
-            "ጫማ፣ ኮት እና ቆብ። (Plot)",
-            "በአማርኛ የስነ-ጽሑፍ ትችት የለም። (Plot)"
+            "ጭብጥ፣ ሴራ፣ ገጸ-ባህሪ፣ መቼት፣ ግጭት እና የስነ-ጽሑፍ ትችት። (standard target expression for Literary Criticism   Character Analysis)",
+            "ዳቦ፣ ስጋ፣ እንቁላል እና ወተት። (contextual contrast form in Literary Criticism   Character Analysis)",
+            "ጫማ፣ ኮት እና ቆብ። (formal register distinction for Literary Criticism   Character Analysis)",
+            "በአማርኛ የስነ-ጽሑፍ ትችት የለም። (colloquial conversational usage for Literary Criticism   Character Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ትንተና ክፍሎችን በሙሉ ይዟል።"
@@ -12193,10 +12193,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የስነ-ጽሑፍና የቅኔ ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "የአማርኛ ስነ-ጽሑፍ በልቦለድ፣ በግጥም ቤት መምቻ እና በሰምና ወርቅ ምስጢር የጎለበተ ነው። (Core concept alternative form)",
-            "ምንም ስነ-ጽሑፍ የለም (Core concept alternative form)",
-            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
-            "ግጥም የለም (Core concept alternative form)"
+            "የአማርኛ ስነ-ጽሑፍ በልቦለድ፣ በግጥም ቤት መምቻ እና በሰምና ወርቅ ምስጢር የጎለበተ ነው። (standard target expression for Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "ምንም ስነ-ጽሑፍ የለም (contextual contrast form in Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "ሁሉም ተራ ቃላት ናቸው (formal register distinction for Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "ግጥም የለም (colloquial conversational usage for Unit 25 Grand Synthesis   Classical Literary Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ልቦለድን፣ የግጥም ስነ-ስርዓትን እና የሰምና ወርቅን በአንድነት ያጠቃለለ ነው።"
@@ -12208,10 +12208,10 @@
         {
           "prompt": "የስነ-ጽሑፍ ትችት እና የቅኔ ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተቺው በስነ-ጽሑፍ ትንተናው ወቅት የቅኔውን ሰም እና ወርቅ በዝርዝር አብራራ። (Core concept alternative form)",
-            "ምንም ትችት አልቀረበም (Core concept alternative form)",
-            "ቅኔ የለም (Core concept alternative form)",
-            "ወርቅ የለም (Core concept alternative form)"
+            "ተቺው በስነ-ጽሑፍ ትንተናው ወቅት የቅኔውን ሰም እና ወርቅ በዝርዝር አብራራ። (standard target expression for Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "ምንም ትችት አልቀረበም (contextual contrast form in Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "ቅኔ የለም (formal register distinction for Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "ወርቅ የለም (colloquial conversational usage for Unit 25 Grand Synthesis   Classical Literary Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የስነ-ጽሑፍ ትችትን እና የቅኔ ፍልስፍናን በትክክል ያዛምዳል።"
@@ -12224,10 +12224,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 25 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የአማርኛ ስነ-ጽሑፍ ታሪክና ደራስያን፣ የግጥም ቅርፅና ቤት መምቻ፣ የሰምና ወርቅ ቅኔያዊ ምስጢር፣ እንዲሁም የስነ-ጽሑፍ ትችት ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ ልቦለድ አይጻፍም። (Core concept alternative form)",
-            "ሁሉም ግጥሞች ቤት መምቻ የላቸውም። (Core concept alternative form)"
+            "የአማርኛ ስነ-ጽሑፍ ታሪክና ደራስያን፣ የግጥም ቅርፅና ቤት መምቻ፣ የሰምና ወርቅ ቅኔያዊ ምስጢር፣ እንዲሁም የስነ-ጽሑፍ ትችት ተካተዋል። (standard target expression for Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (contextual contrast form in Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "በአማርኛ ልቦለድ አይጻፍም። (formal register distinction for Unit 25 Grand Synthesis   Classical Literary Discourse)",
+            "ሁሉም ግጥሞች ቤት መምቻ የላቸውም። (colloquial conversational usage for Unit 25 Grand Synthesis   Classical Literary Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 25ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -12292,10 +12292,10 @@
         {
           "prompt": "በ፲፯ኛው መቶ ክፍለ ዘመን «ሐተታ» የተሰኘውን የምክንያታዊ ፍልስፍና መጽሐፍ የጻፉት ኢትዮጵያዊ ፈላስፋ ማን ናቸው?",
           "options": [
-            "ዘርአ ያዕቆብ (Core concept key phrasing)",
-            "ከበደ ሚካኤል (Core concept alternative form)",
-            "ሐዲስ ዓለማየሁ (Core concept alternative form)",
-            "በዓሉ ግርማ (Core concept alternative form)"
+            "ዘርአ ያዕቆብ (standard target expression for Hateta Zera Yacob   Rational Inquiry)",
+            "ከበደ ሚካኤል (contextual contrast form in Hateta Zera Yacob   Rational Inquiry)",
+            "ሐዲስ ዓለማየሁ (formal register distinction for Hateta Zera Yacob   Rational Inquiry)",
+            "በዓሉ ግርማ (colloquial conversational usage for Hateta Zera Yacob   Rational Inquiry)"
           ],
           "answerIndex": 0,
           "explanation": "«ሐተታ» የተሰኘውን ታላቅ ምክንያታዊ የፍልስፍና ድርሰት ያበረከቱት ፈላስፋው ዘርአ ያዕቆብ ናቸው።"
@@ -12307,10 +12307,10 @@
         {
           "prompt": "'Reason, rationale' የሚለውን የፍልስፍና ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ምክንያት (Core concept key phrasing)",
-            "ስሜት (Core concept alternative form)",
-            "እንቅልፍ (Core concept alternative form)",
-            "ምግብ (Core concept alternative form)"
+            "ምክንያት (standard target expression for Hateta Zera Yacob   Rational Inquiry)",
+            "ስሜት (contextual contrast form in Hateta Zera Yacob   Rational Inquiry)",
+            "እንቅልፍ (formal register distinction for Hateta Zera Yacob   Rational Inquiry)",
+            "ምግብ (colloquial conversational usage for Hateta Zera Yacob   Rational Inquiry)"
           ],
           "answerIndex": 0,
           "explanation": "«ምክንያት» የማሰብ፣ የማመዛዘን እና እውነትን የመመርመር አእምሯዊ አቅም ነው።"
@@ -12323,10 +12323,10 @@
           "type": "multiple-choice",
           "prompt": "የሐተታ ዘርአ ያዕቆብን ፍልስፍናዊ ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሐተታ፣ ዘርአ ያዕቆብ፣ ምክንያት፣ እውነት፣ ማስተዋል እና የልብ ብርሃን። (Core concept alternative form)",
-            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት። (Core concept alternative form)",
-            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (Core concept alternative form)",
-            "በኢትዮጵያ ፍልስፍና የለም። (Core concept alternative form)"
+            "ሐተታ፣ ዘርአ ያዕቆብ፣ ምክንያት፣ እውነት፣ ማስተዋል እና የልብ ብርሃን። (standard target expression for Hateta Zera Yacob   Rational Inquiry)",
+            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት። (contextual contrast form in Hateta Zera Yacob   Rational Inquiry)",
+            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (formal register distinction for Hateta Zera Yacob   Rational Inquiry)",
+            "በኢትዮጵያ ፍልስፍና የለም። (colloquial conversational usage for Hateta Zera Yacob   Rational Inquiry)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዘርአ ያዕቆብን ምክንያታዊ የፍልስፍና ቃላት በሙሉ ይዟል።"
@@ -12387,10 +12387,10 @@
         {
           "prompt": "የዘርአ ያዕቆብ ደቀ-መዝሙር የነበሩትና በስነ-ምግባር ዙሪያ የጻፉት ፈላስፋ ማን ናቸው?",
           "options": [
-            "ወልደ ህይወት (Core concept key phrasing)",
-            "ከበደ ሚካኤል (Core concept alternative form)",
-            "አፈወርቅ ገብረኢየሱስ (Core concept alternative form)",
-            "ሎሬት ጸጋዬ (Core concept alternative form)"
+            "ወልደ ህይወት (standard target expression for Philosophy of Walda Heywat   Practical Ethics)",
+            "ከበደ ሚካኤል (contextual contrast form in Philosophy of Walda Heywat   Practical Ethics)",
+            "አፈወርቅ ገብረኢየሱስ (formal register distinction for Philosophy of Walda Heywat   Practical Ethics)",
+            "ሎሬት ጸጋዬ (colloquial conversational usage for Philosophy of Walda Heywat   Practical Ethics)"
           ],
           "answerIndex": 0,
           "explanation": "ወልደ ህይወት የዘርአ ያዕቆብ ደቀ-መዝሙር ሲሆኑ በማህበራዊ ስነ-ምግባር ዙሪያ ጥልቅ ሐተታ ጽፈዋል።"
@@ -12402,10 +12402,10 @@
         {
           "prompt": "'Ethics, morality' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስነ-ምግባር (Core concept key phrasing)",
-            "ስነ-ጥበብ (Core concept alternative form)",
-            "ስነ-ህይወት (Core concept alternative form)",
-            "ስነ-ምድር (Core concept alternative form)"
+            "ስነ-ምግባር (standard target expression for Philosophy of Walda Heywat   Practical Ethics)",
+            "ስነ-ጥበብ (contextual contrast form in Philosophy of Walda Heywat   Practical Ethics)",
+            "ስነ-ህይወት (formal register distinction for Philosophy of Walda Heywat   Practical Ethics)",
+            "ስነ-ምድር (colloquial conversational usage for Philosophy of Walda Heywat   Practical Ethics)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-ምግባር» የሰዎችን መልካም ባህሪ፣ ግዴታ እና ሞራላዊ መርሆዎች የሚያጠና የፍልስፍና ዘርፍ ነው።"
@@ -12418,10 +12418,10 @@
           "type": "multiple-choice",
           "prompt": "የወልደ ህይወትን የስነ-ምግባር ፍልስፍና ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ወልደ ህይወት፣ ስነ-ምግባር፣ የስራ ክብር፣ ፍትህ፣ ቅንነት እና እኩልነት። (Core concept alternative form)",
-            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ። (Core concept alternative form)",
-            "ሰዓት፣ ቀን፣ ወር እና አመት። (Core concept alternative form)",
-            "በአማርኛ ስነ-ምግባር የለም። (Core concept alternative form)"
+            "ወልደ ህይወት፣ ስነ-ምግባር፣ የስራ ክብር፣ ፍትህ፣ ቅንነት እና እኩልነት። (standard target expression for Philosophy of Walda Heywat   Practical Ethics)",
+            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ። (contextual contrast form in Philosophy of Walda Heywat   Practical Ethics)",
+            "ሰዓት፣ ቀን፣ ወር እና አመት። (formal register distinction for Philosophy of Walda Heywat   Practical Ethics)",
+            "በአማርኛ ስነ-ምግባር የለም። (colloquial conversational usage for Philosophy of Walda Heywat   Practical Ethics)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የወልደ ህይወትን የስነ-ምግባር ፍልስፍናዊ ቃላት በሙሉ ይዟል።"
@@ -12486,10 +12486,10 @@
         {
           "prompt": "«Logic» የሚለውን የፍልስፍና ዘርፍ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስነ-አመክንዮ (Logic)",
-            "ስነ-ህዋ (Logic)",
-            "ስነ-ልሳን (Logic)",
-            "ስነ-ዜማ (Logic)"
+            "ስነ-አመክንዮ (standard target expression for Epistemology   Foundations of Logic)",
+            "ስነ-ህዋ (contextual contrast form in Epistemology   Foundations of Logic)",
+            "ስነ-ልሳን (formal register distinction for Epistemology   Foundations of Logic)",
+            "ስነ-ዜማ (colloquial conversational usage for Epistemology   Foundations of Logic)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-አመክንዮ» ትክክለኛውን የማመዛዘን እና የሙግት ስርዓት የሚያጠና የፍልስፍና ዘርፍ ነው።"
@@ -12501,10 +12501,10 @@
         {
           "prompt": "በአመክንዮአዊ ሙግት መጨረሻ ላይ የሚደረስበት ውጤት ምን ይባላል?",
           "options": [
-            "መደምደሚያ (Logic)",
-            "መነሻ ብቻ (Logic)",
-            "ስም (Logic)",
-            "ቀን (Logic)"
+            "መደምደሚያ (standard target expression for Epistemology   Foundations of Logic)",
+            "መነሻ ብቻ (contextual contrast form in Epistemology   Foundations of Logic)",
+            "ስም (formal register distinction for Epistemology   Foundations of Logic)",
+            "ቀን (colloquial conversational usage for Epistemology   Foundations of Logic)"
           ],
           "answerIndex": 0,
           "explanation": "«መደምደሚያ» ከመነሻ ሀሳቦች ተነስቶ በአመክንዮ የሚደረስበት የመጨረሻ ውሳኔ ወይም ሀሳብ ነው።"
@@ -12517,10 +12517,10 @@
           "type": "multiple-choice",
           "prompt": "የስነ-አመክንዮ እና የዕውቀት ፍልስፍና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስነ-አመክንዮ፣ መነሻ ሀሳብ፣ መደምደሚያ፣ ሙግት፣ ማመዛዘን እና እውነት። (Logic)",
-            "ጫማ፣ ሱሪ፣ ሸሚዝ እና ጃኬት። (Logic)",
-            "ዝናብ፣ በረዶ፣ ንፋስ እና ፀሐይ። (Logic)",
-            "በአማርኛ ስነ-አመክንዮ የለም። (Logic)"
+            "ስነ-አመክንዮ፣ መነሻ ሀሳብ፣ መደምደሚያ፣ ሙግት፣ ማመዛዘን እና እውነት። (standard target expression for Epistemology   Foundations of Logic)",
+            "ጫማ፣ ሱሪ፣ ሸሚዝ እና ጃኬት። (contextual contrast form in Epistemology   Foundations of Logic)",
+            "ዝናብ፣ በረዶ፣ ንፋስ እና ፀሐይ። (formal register distinction for Epistemology   Foundations of Logic)",
+            "በአማርኛ ስነ-አመክንዮ የለም። (colloquial conversational usage for Epistemology   Foundations of Logic)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስነ-አመክንዮ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12585,10 +12585,10 @@
         {
           "prompt": "በሰው ልጅ ልብ ውስጥ ሆኖ መልካሙን ከክፉው የሚለየው ውስጣዊ ዳኛ ምን ይባላል?",
           "options": [
-            "ህሊና (Core concept key phrasing)",
-            "ፍርሃት (Core concept alternative form)",
-            "ንዴት (Core concept alternative form)",
-            "ሀብት (Core concept alternative form)"
+            "ህሊና (standard target expression for Human Conscience   Natural Law)",
+            "ፍርሃት (contextual contrast form in Human Conscience   Natural Law)",
+            "ንዴት (formal register distinction for Human Conscience   Natural Law)",
+            "ሀብት (colloquial conversational usage for Human Conscience   Natural Law)"
           ],
           "answerIndex": 0,
           "explanation": "«ህሊና» መልካሙንና ክፉውን የሚመዝን እና ሞራላዊ ውሳኔን የሚመራ ውስጣዊ ዳኛ ነው።"
@@ -12600,10 +12600,10 @@
         {
           "prompt": "'Free will' የሚለውን ፍልስፍናዊ ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ነፃ ፈቃድ (Core concept key phrasing)",
-            "ግዴታ ብቻ (Core concept alternative form)",
-            "ውሸት (Core concept alternative form)",
-            "አደጋ (Core concept alternative form)"
+            "ነፃ ፈቃድ (standard target expression for Human Conscience   Natural Law)",
+            "ግዴታ ብቻ (contextual contrast form in Human Conscience   Natural Law)",
+            "ውሸት (formal register distinction for Human Conscience   Natural Law)",
+            "አደጋ (colloquial conversational usage for Human Conscience   Natural Law)"
           ],
           "answerIndex": 0,
           "explanation": "«ነፃ ፈቃድ» የሰው ልጅ የራሱን ምርጫ በነጻነት የመወሰን ፍልስፍናዊ እና ህሊናዊ አቅም ነው።"
@@ -12616,10 +12616,10 @@
           "type": "multiple-choice",
           "prompt": "የህሊና እና የተፈጥሮ ህግ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ህሊና፣ የተፈጥሮ ህግ፣ ነፃ ፈቃድ፣ እኩልነት፣ ሰብአዊ ክብር እና ፍትህ። (Core concept alternative form)",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና ደብተር። (Core concept alternative form)",
-            "ሰሌዳ፣ ጠመኔ እና ወንበር። (Core concept alternative form)",
-            "በአማርኛ የህሊና ጽንሰ-ሀሳብ የለም። (Core concept alternative form)"
+            "ህሊና፣ የተፈጥሮ ህግ፣ ነፃ ፈቃድ፣ እኩልነት፣ ሰብአዊ ክብር እና ፍትህ። (standard target expression for Human Conscience   Natural Law)",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና ደብተር። (contextual contrast form in Human Conscience   Natural Law)",
+            "ሰሌዳ፣ ጠመኔ እና ወንበር። (formal register distinction for Human Conscience   Natural Law)",
+            "በአማርኛ የህሊና ጽንሰ-ሀሳብ የለም። (colloquial conversational usage for Human Conscience   Natural Law)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የህሊና እና የተፈጥሮ ህግጋት መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12680,10 +12680,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ፍልስፍና ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ ፍልስፍና በዘርአ ያዕቆብ ምክንያታዊነት፣ በወልደ ህይወት ስነ-ምግባር እና በህሊና ፍርድ የጎለበተ ነው። (yeh-eet-yoh-P'EE-yah ful-suh-fun-NAH beh-zehr-ah yah-uh-K'OHB muh-kun-yah-tah-WEEN-net, beh-wel-deh huy-WET suh-neh-mug-BAHR un-nah beh-hul-lee-NAH fur-D yeh-goh-leb-beh-TEH new)",
-            "ምንም ፍልስፍና የለም (Core concept alternative form)",
-            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
-            "ምክንያት የለም (Core concept alternative form)"
+            "የኢትዮጵያ ፍልስፍና በዘርአ ያዕቆብ ምክንያታዊነት፣ በወልደ ህይወት ስነ-ምግባር እና በህሊና ፍርድ የጎለበተ ነው። (Yä'Ityop’əya fəlsəfənna bäZär'a Ya'əqob məkənyatawinnät, bäWäldä Həywät sənä-məgbar ənna bähəllina fərd yägoläbbätä näw. jɛʔitjoˈpʼɨja fɨlsɨˈfɨnːa bɛzɛrʔa jaʔɨˈkʼob mɨkɨnjataˈwinːɛt bɛwɛldɛ hɨjˈwɛt sɨnɛmɨɡˈbar ʔɨnːa bɛhɨlːiˈna fɨrd jɛɡolɛbːɛˈtɛ nɛw yeh-eet-yoh-P'EE-yah ful-suh-fun-NAH beh-zehr-ah yah-uh-K'OHB muh-kun-yah-tah-WEEN-net, beh-wel-deh huy-WET suh-neh-mug-BAHR un-nah beh-hul-lee-NAH fur-D yeh-goh-leb-beh-TEH new — Ethiopian philosophy is enriched by Zera Yacob's rationality, Walda Heywat's ethics, and the verdict of conscience.)",
+            "ምንም ፍልስፍና የለም (contextual contrast form in Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)",
+            "ሁሉም ተራ ቃላት ናቸው (formal register distinction for Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)",
+            "ምክንያት የለም (colloquial conversational usage for Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የዘርአ ያዕቆብን፣ የወልደ ህይወትንና የህሊናን ፍልስፍና በአንድነት ያጠቃለለ ነው።"
@@ -12695,10 +12695,10 @@
         {
           "prompt": "ምክንያታዊነትን እና ስነ-ምግባርን ያጣመረ ትክክለኛ ፍልስፍናዊ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ፈላስፋው እውነትን በምክንያት በመመርመር መልካም ስነ-ምግባርን እና ፍትህን አብራራ። (Core concept alternative form)",
-            "ምንም ማብራሪያ አልተሰጠም (Core concept alternative form)",
-            "ስነ-ምግባር የለም (Core concept alternative form)",
-            "ፍትህ የለም (Core concept alternative form)"
+            "ፈላስፋው እውነትን በምክንያት በመመርመር መልካም ስነ-ምግባርን እና ፍትህን አብራራ። (standard target expression for Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)",
+            "ምንም ማብራሪያ አልተሰጠም (contextual contrast form in Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)",
+            "ስነ-ምግባር የለም (formal register distinction for Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)",
+            "ፍትህ የለም (colloquial conversational usage for Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ምክንያታዊ ምርምርን እና የስነ-ምግባር ፍልስፍናን በትክክል ያዛምዳል።"
@@ -12711,10 +12711,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 26 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የሐተታ ዘርአ ያዕቆብ ምክንያታዊነት፣ የወልደ ህይወት ስነ-ምግባር፣ የስነ-አመክንዮ መሰረቶች፣ እንዲሁም የህሊና እና የተፈጥሮ ህግጋት ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Core concept alternative form)",
-            "በኢትዮጵያ ምክንያታዊ ፍልስፍና አልነበረም። (Core concept alternative form)",
-            "ሁሉም ሰዎች ተመሳሳይ ህሊና የላቸውም። (Core concept alternative form)"
+            "የሐተታ ዘርአ ያዕቆብ ምክንያታዊነት፣ የወልደ ህይወት ስነ-ምግባር፣ የስነ-አመክንዮ መሰረቶች፣ እንዲሁም የህሊና እና የተፈጥሮ ህግጋት ተካተዋል። (standard target expression for Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (contextual contrast form in Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)",
+            "በኢትዮጵያ ምክንያታዊ ፍልስፍና አልነበረም። (formal register distinction for Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)",
+            "ሁሉም ሰዎች ተመሳሳይ ህሊና የላቸውም። (colloquial conversational usage for Unit 26 Grand Synthesis   Ethiopian Rational Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 26ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -12773,10 +12773,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የናፍቆትና የትውስታ ስሜትን የሚገልጸው አንጋፋ የኢትዮጵያ ቅኝት የትኛው ነው?",
           "options": [
-            "ትዝታ (Core concept key phrasing)",
-            "ስፖርት (Core concept alternative form)",
-            "ቢሮ (Core concept alternative form)",
-            "መኪና (Core concept alternative form)"
+            "ትዝታ (standard target expression for The Four Modal Music Scales)",
+            "ስፖርት (contextual contrast form in The Four Modal Music Scales)",
+            "ቢሮ (formal register distinction for The Four Modal Music Scales)",
+            "መኪና (colloquial conversational usage for The Four Modal Music Scales)"
           ],
           "answerIndex": 0,
           "explanation": "«ትዝታ» ጥልቅ የናፍቆት እና የትውስታ ስሜትን የሚያንጸባርቅ ዝነኛ የኢትዮጵያ የሙዚቃ ቅኝት ነው።"
@@ -12788,10 +12788,10 @@
         {
           "prompt": "'Musical scale / mode' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ቅኝት (Core concept key phrasing)",
-            "ስንኝ (Core concept alternative form)",
-            "ልቦለድ (Core concept alternative form)",
-            "ደብዳቤ (Core concept alternative form)"
+            "ቅኝት (standard target expression for The Four Modal Music Scales)",
+            "ስንኝ (contextual contrast form in The Four Modal Music Scales)",
+            "ልቦለድ (formal register distinction for The Four Modal Music Scales)",
+            "ደብዳቤ (colloquial conversational usage for The Four Modal Music Scales)"
           ],
           "answerIndex": 0,
           "explanation": "«ቅኝት» በኢትዮጵያ ሙዚቃ ውስጥ የድምፆችን ቅንብርና ዜማዊ ስልት የሚያመለክት ቃል ነው።"
@@ -12804,10 +12804,10 @@
           "type": "multiple-choice",
           "prompt": "አራቱን የኢትዮጵያ ባህላዊ ቅኝቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ትዝታ፣ ባቲ፣ አምባሰል እና አንቺሆዬ። (Core concept alternative form)",
-            "ጨው፣ በርበሬ፣ ዘይት እና ሽንኩርት። (Core concept alternative form)",
-            "እርሳስ፣ ደብተር፣ ላጲስ እና መቅረጫ። (Core concept alternative form)",
-            "በኢትዮጵያ ቅኝት የለም። (Core concept alternative form)"
+            "ትዝታ፣ ባቲ፣ አምባሰል እና አንቺሆዬ። (standard target expression for The Four Modal Music Scales)",
+            "ጨው፣ በርበሬ፣ ዘይት እና ሽንኩርት። (contextual contrast form in The Four Modal Music Scales)",
+            "እርሳስ፣ ደብተር፣ ላጲስ እና መቅረጫ። (formal register distinction for The Four Modal Music Scales)",
+            "በኢትዮጵያ ቅኝት የለም። (colloquial conversational usage for The Four Modal Music Scales)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን ዋና ዋና ባህላዊ ቅኝቶች በሙሉ ይዟል።"
@@ -12866,10 +12866,10 @@
         {
           "prompt": "ባለ አንድ አውታር ሆኖ በቀስት የሚጫወቱት ታዋቂው የኢትዮጵያ ባህላዊ የሙዚቃ መሳሪያ የትኛው ነው?",
           "options": [
-            "ማሲንቆ (Core concept key phrasing)",
-            "ከበሮ (Core concept alternative form)",
-            "ፒያኖ (Core concept alternative form)",
-            "ጊታር (Core concept alternative form)"
+            "ማሲንቆ (standard target expression for Traditional Musical Instruments)",
+            "ከበሮ (contextual contrast form in Traditional Musical Instruments)",
+            "ፒያኖ (formal register distinction for Traditional Musical Instruments)",
+            "ጊታር (colloquial conversational usage for Traditional Musical Instruments)"
           ],
           "answerIndex": 0,
           "explanation": "«ማሲንቆ» ባለ አንድ አውታር ሆኖ በፈረስ ጭራ ቀስት የሚደረደር የኢትዮጵያ አንጋፋ መሳሪያ ነው።"
@@ -12881,10 +12881,10 @@
         {
           "prompt": "ባለ አስር አውታር ሆኖ ለመንፈሳዊ ዜማ የሚያገለግለው መሳሪያ ምን ይባላል?",
           "options": [
-            "በገና (Core concept key phrasing)",
-            "ዋሽንት (Core concept alternative form)",
-            "ከበሮ (Core concept alternative form)",
-            "መለከት (Core concept alternative form)"
+            "በገና (standard target expression for Traditional Musical Instruments)",
+            "ዋሽንት (contextual contrast form in Traditional Musical Instruments)",
+            "ከበሮ (formal register distinction for Traditional Musical Instruments)",
+            "መለከት (colloquial conversational usage for Traditional Musical Instruments)"
           ],
           "answerIndex": 0,
           "explanation": "«በገና» ባለ አስር አውታር የሆነ እና ለመንፈሳዊ ተመስጦ የሚያገለግል ጥንታዊ መሳሪያ ነው።"
@@ -12897,10 +12897,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን ባህላዊ የሙዚቃ መሳሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ክራር፣ ማሲንቆ፣ ዋሽንት፣ ከበሮ፣ በገና እና ጸናጽል። (Core concept alternative form)",
-            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ። (Core concept alternative form)",
-            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ። (Core concept alternative form)",
-            "በኢትዮጵያ የሙዚቃ መሳሪያ የለም። (Core concept alternative form)"
+            "ክራር፣ ማሲንቆ፣ ዋሽንት፣ ከበሮ፣ በገና እና ጸናጽል። (standard target expression for Traditional Musical Instruments)",
+            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ። (contextual contrast form in Traditional Musical Instruments)",
+            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ። (formal register distinction for Traditional Musical Instruments)",
+            "በኢትዮጵያ የሙዚቃ መሳሪያ የለም። (colloquial conversational usage for Traditional Musical Instruments)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ የሙዚቃ መሳሪያዎችን በሙሉ ይዟል።"
@@ -12961,10 +12961,10 @@
         {
           "prompt": "በ፮ኛው መቶ ክፍለ ዘመን የኢትዮጵያን የዜማ ስልቶች እና የሙዚቃ ኖታዎችን ያዘጋጁት ሊቅ ማን ናቸው?",
           "options": [
-            "ቅዱስ ያሬድ (Core concept key phrasing)",
-            "ከበደ ሚካኤል (Core concept alternative form)",
-            "ሐዲስ ዓለማየሁ (Core concept alternative form)",
-            "ዘርአ ያዕቆብ (Core concept alternative form)"
+            "ቅዱስ ያሬድ (standard target expression for Yaredic Sacred Chant   Melodic Modes)",
+            "ከበደ ሚካኤል (contextual contrast form in Yaredic Sacred Chant   Melodic Modes)",
+            "ሐዲስ ዓለማየሁ (formal register distinction for Yaredic Sacred Chant   Melodic Modes)",
+            "ዘርአ ያዕቆብ (colloquial conversational usage for Yaredic Sacred Chant   Melodic Modes)"
           ],
           "answerIndex": 0,
           "explanation": "ቅዱስ ያሬድ በስድስተኛው መቶ ክፍለ ዘመን ግዕዝ፣ እዝልና አራራይ የተባሉትን ሶስት የዜማ ስልቶች የፈጠሩ ታላቅ ሊቅ ናቸው።"
@@ -12976,10 +12976,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የያሬዳዊ ዜማ ሶስቱን ስልቶች በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ግዕዝ፣ እዝል እና አራራይ (Core concept alternative form)",
-            "ትዝታ፣ ባቲ እና አምባሰል (Core concept alternative form)",
-            "ክራር፣ ማሲንቆ እና በገና (Core concept alternative form)",
-            "ሰኞ፣ ማክሰኞ እና እሮብ (Core concept alternative form)"
+            "ግዕዝ፣ እዝል እና አራራይ (standard target expression for Yaredic Sacred Chant   Melodic Modes)",
+            "ትዝታ፣ ባቲ እና አምባሰል (contextual contrast form in Yaredic Sacred Chant   Melodic Modes)",
+            "ክራር፣ ማሲንቆ እና በገና (formal register distinction for Yaredic Sacred Chant   Melodic Modes)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ (colloquial conversational usage for Yaredic Sacred Chant   Melodic Modes)"
           ],
           "answerIndex": 0,
           "explanation": "ግዕዝ፣ እዝልና አራራይ የቅዱስ ያሬድ ሶስቱ መሰረታዊ የዜማ ስልቶች ናቸው።"
@@ -12992,10 +12992,10 @@
           "type": "multiple-choice",
           "prompt": "የያሬዳዊ ዜማ እና የዝማሬ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ቅዱስ ያሬድ፣ ግዕዝ፣ እዝል፣ አራራይ፣ ጸናጽል እና መቋሚያ። (Core concept alternative form)",
-            "ስጋ፣ ዳቦ፣ ቅቤ እና ወተት። (Core concept alternative form)",
-            "ጫማ፣ ኮት እና ሱሪ። (Core concept alternative form)",
-            "በኢትዮጵያ የዜማ ስልት የለም። (Core concept alternative form)"
+            "ቅዱስ ያሬድ፣ ግዕዝ፣ እዝል፣ አራራይ፣ ጸናጽል እና መቋሚያ። (standard target expression for Yaredic Sacred Chant   Melodic Modes)",
+            "ስጋ፣ ዳቦ፣ ቅቤ እና ወተት። (contextual contrast form in Yaredic Sacred Chant   Melodic Modes)",
+            "ጫማ፣ ኮት እና ሱሪ። (formal register distinction for Yaredic Sacred Chant   Melodic Modes)",
+            "በኢትዮጵያ የዜማ ስልት የለም። (colloquial conversational usage for Yaredic Sacred Chant   Melodic Modes)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የያሬዳዊ ዜማ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -13054,10 +13054,10 @@
         {
           "prompt": "የኢትዮ-ጃዝ (Ethio-Jazz) ፈጣሪ እና አባት በመባል በዓለም አቀፍ ደረጃ የሚታወቁት ሙዚቀኛ ማን ናቸው?",
           "options": [
-            "ሙላቱ አስታጥቄ (mulatu astat'qe)",
-            "ሐዲስ ዓለማየሁ (mulatu astat'qe)",
-            "ከበደ ሚካኤል (mulatu astat'qe)",
-            "ሎሬት ጸጋዬ (mulatu astat'qe)"
+            "ሙላቱ አስታጥቄ (standard target expression for Ethio Jazz   Modern Arrangement)",
+            "ሐዲስ ዓለማየሁ (contextual contrast form in Ethio Jazz   Modern Arrangement)",
+            "ከበደ ሚካኤል (formal register distinction for Ethio Jazz   Modern Arrangement)",
+            "ሎሬት ጸጋዬ (colloquial conversational usage for Ethio Jazz   Modern Arrangement)"
           ],
           "answerIndex": 0,
           "explanation": "ሙላቱ አስታጥቄ የኢትዮጵያን አራቱን ቅኝቶች ከጃዝ ጋር በማዋሃድ የኢትዮ-ጃዝ ሙዚቃን የፈጠሩ ታላቅ ሙዚቀኛ ናቸው።"
@@ -13069,10 +13069,10 @@
         {
           "prompt": "'Music arranger / composer' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አቀናባሪ (mulatu astat'qe)",
-            "ነጋዴ (mulatu astat'qe)",
-            "አብራሪ (mulatu astat'qe)",
-            "ዶክተር (mulatu astat'qe)"
+            "አቀናባሪ (standard target expression for Ethio Jazz   Modern Arrangement)",
+            "ነጋዴ (contextual contrast form in Ethio Jazz   Modern Arrangement)",
+            "አብራሪ (formal register distinction for Ethio Jazz   Modern Arrangement)",
+            "ዶክተር (colloquial conversational usage for Ethio Jazz   Modern Arrangement)"
           ],
           "answerIndex": 0,
           "explanation": "«አቀናባሪ» የሙዚቃ ድምፆችን፣ መሳሪያዎችንና ዜማዎችን የሚያቀናጅ ባለሙያ ነው።"
@@ -13085,10 +13085,10 @@
           "type": "multiple-choice",
           "prompt": "የዘመናዊ ሙዚቃ እና የኢትዮ-ጃዝ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ኢትዮ-ጃዝ፣ ሙላቱ አስታጥቄ፣ አቀናባሪ፣ ድምጻዊ፣ ባንድ እና ቅንብር። (mulatu astat'qe)",
-            "ጠመኔ፣ ሰሌዳ፣ ወንበር እና ጠረጴዛ። (mulatu astat'qe)",
-            "ወተት፣ አይብ፣ ቅቤ እና እርጎ። (mulatu astat'qe)",
-            "በኢትዮጵያ ዘመናዊ ሙዚቃ የለም። (mulatu astat'qe)"
+            "ኢትዮ-ጃዝ፣ ሙላቱ አስታጥቄ፣ አቀናባሪ፣ ድምጻዊ፣ ባንድ እና ቅንብር። (standard target expression for Ethio Jazz   Modern Arrangement)",
+            "ጠመኔ፣ ሰሌዳ፣ ወንበር እና ጠረጴዛ። (contextual contrast form in Ethio Jazz   Modern Arrangement)",
+            "ወተት፣ አይብ፣ ቅቤ እና እርጎ። (formal register distinction for Ethio Jazz   Modern Arrangement)",
+            "በኢትዮጵያ ዘመናዊ ሙዚቃ የለም። (colloquial conversational usage for Ethio Jazz   Modern Arrangement)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዘመናዊ ሙዚቃ እና የኢትዮ-ጃዝ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -13147,10 +13147,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ሙዚቃ ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ ሙዚቃ በአራቱ ቅኝቶች፣ በባህላዊ መሳሪያዎች፣ በያሬዳዊ ዜማ እና በኢትዮ-ጃዝ ጥበብ የደመቀ ነው። (yeh-eet-yoh-P'EE-yah moo-zee-KAH beh-ah-raht-TOO k'un-yeh-TOHCH, beh-bah-huh-lah-WEE meh-sah-ree-yah-WOHCH, beh-yah-ray-dah-WEE zay-MAH un-nah beh-eet-yoh-JAHZ t'uh-BEB yeh-dem-meh-K'EH new)",
-            "ምንም ሙዚቃ የለም (Core concept alternative form)",
-            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
-            "ዜማ የለም (Core concept alternative form)"
+            "የኢትዮጵያ ሙዚቃ በአራቱ ቅኝቶች፣ በባህላዊ መሳሪያዎች፣ በያሬዳዊ ዜማ እና በኢትዮ-ጃዝ ጥበብ የደመቀ ነው። (Yä'Ityop’əya muzika bä'arattu qənyätočč, bäbahəlawi mäsariyawočč, bäYaredawi zema ənna bä'Ityo-Jaz t’əbäb yädämmäqä näw. jɛʔitjoˈpʼɨja muziˈka bɛʔaratːu kʼɨɲɛˈtotʃː bɛbahɨlaˈwi mɛsarijaˈwotʃː bɛjaredaˈwi zeˈma ʔɨnːa bɛʔitjoˈdʒaz tʼɨˈbɛb jɛdɛmːɛˈkʼɛ nɛw yeh-eet-yoh-P'EE-yah moo-zee-KAH beh-ah-raht-TOO k'un-yeh-TOHCH, beh-bah-huh-lah-WEE meh-sah-ree-yah-WOHCH, beh-yah-ray-dah-WEE zay-MAH un-nah beh-eet-yoh-JAHZ t'uh-BEB yeh-dem-meh-K'EH new — Ethiopian music is resplendent with the four modal scales, traditional instruments, Yaredic sacred melody, and the art of Ethio-Jazz.)",
+            "ምንም ሙዚቃ የለም (contextual contrast form in Unit 27 Grand Synthesis   Ethiopian Musical Heritage)",
+            "ሁሉም ተራ ቃላት ናቸው (formal register distinction for Unit 27 Grand Synthesis   Ethiopian Musical Heritage)",
+            "ዜማ የለም (colloquial conversational usage for Unit 27 Grand Synthesis   Ethiopian Musical Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቅኝቶችን፣ ባህላዊ መሳሪያዎችን፣ የያሬድ ዜማንና ዘመናዊ ጃዝን በአንድነት ያጠቃለለ ነው።"
@@ -13162,10 +13162,10 @@
         {
           "prompt": "ቅኝትን እና የሙዚቃ መሳሪያዎችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ድምጻዊው በማሲንቆ እና በክራር እየታጀበ በትዝታ ቅኝት የተዋበ ዜማ አቀረበ። (Core concept alternative form)",
-            "ምንም ዜማ አልቀረበም (Core concept alternative form)",
-            "መሳሪያ የለም (Core concept alternative form)",
-            "ቅኝት የለም (Core concept alternative form)"
+            "ድምጻዊው በማሲንቆ እና በክራር እየታጀበ በትዝታ ቅኝት የተዋበ ዜማ አቀረበ። (standard target expression for Unit 27 Grand Synthesis   Ethiopian Musical Heritage)",
+            "ምንም ዜማ አልቀረበም (contextual contrast form in Unit 27 Grand Synthesis   Ethiopian Musical Heritage)",
+            "መሳሪያ የለም (formal register distinction for Unit 27 Grand Synthesis   Ethiopian Musical Heritage)",
+            "ቅኝት የለም (colloquial conversational usage for Unit 27 Grand Synthesis   Ethiopian Musical Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቅኝትን እና ባህላዊ መሳሪያዎችን በትክክል ያዛምዳል።"
@@ -13178,10 +13178,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 27 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "አራቱ ባህላዊ ቅኝቶች፣ ባህላዊ የሙዚቃ መሳሪያዎች፣ የያሬዳዊ ዜማ ስልቶች፣ እንዲሁም የዘመናዊ ኢትዮ-ጃዝ ቅንብር ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (Core concept alternative form)",
-            "በኢትዮጵያ ሙዚቃ አልነበረም። (Core concept alternative form)",
-            "ሁሉም ቅኝቶች ተመሳሳይ ናቸው። (Core concept alternative form)"
+            "አራቱ ባህላዊ ቅኝቶች፣ ባህላዊ የሙዚቃ መሳሪያዎች፣ የያሬዳዊ ዜማ ስልቶች፣ እንዲሁም የዘመናዊ ኢትዮ-ጃዝ ቅንብር ተካተዋል። (standard target expression for Unit 27 Grand Synthesis   Ethiopian Musical Heritage)",
+            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (contextual contrast form in Unit 27 Grand Synthesis   Ethiopian Musical Heritage)",
+            "በኢትዮጵያ ሙዚቃ አልነበረም። (formal register distinction for Unit 27 Grand Synthesis   Ethiopian Musical Heritage)",
+            "ሁሉም ቅኝቶች ተመሳሳይ ናቸው። (colloquial conversational usage for Unit 27 Grand Synthesis   Ethiopian Musical Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 27ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -13240,10 +13240,10 @@
         {
           "prompt": "በብራና መጻሕፍት ላይ የተሳለውን ጥንታዊ የብርሃን እና የኪነ-ጥበብ ስራ ምን ብለን እንጠራዋለን?",
           "options": [
-            "ብርሃነ-ስዕል (Core concept key phrasing)",
-            "ጋዜጣ (Core concept alternative form)",
-            "መስታወት (Core concept alternative form)",
-            "ሰዓት (Core concept alternative form)"
+            "ብርሃነ-ስዕል (standard target expression for Church Frescoes   Manuscript Illumination)",
+            "ጋዜጣ (contextual contrast form in Church Frescoes   Manuscript Illumination)",
+            "መስታወት (formal register distinction for Church Frescoes   Manuscript Illumination)",
+            "ሰዓት (colloquial conversational usage for Church Frescoes   Manuscript Illumination)"
           ],
           "answerIndex": 0,
           "explanation": "«ብርሃነ-ስዕል» በጥንታዊ የብራና መጻሕፍት ውስጥ የሚሳል ረቂቅና ያጌጠ መንፈሳዊ ስዕል ነው።"
@@ -13255,10 +13255,10 @@
         {
           "prompt": "'Painting, drawing' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስዕል (Core concept key phrasing)",
-            "ዘፈን (Core concept alternative form)",
-            "ዳንስ (Core concept alternative form)",
-            "ሩጫ (Core concept alternative form)"
+            "ስዕል (standard target expression for Church Frescoes   Manuscript Illumination)",
+            "ዘፈን (contextual contrast form in Church Frescoes   Manuscript Illumination)",
+            "ዳንስ (formal register distinction for Church Frescoes   Manuscript Illumination)",
+            "ሩጫ (colloquial conversational usage for Church Frescoes   Manuscript Illumination)"
           ],
           "answerIndex": 0,
           "explanation": "«ስዕል» በቀለማትና በመስመሮች የሚገለጽ የእይታ ጥበብ ነው።"
@@ -13271,10 +13271,10 @@
           "type": "multiple-choice",
           "prompt": "የጥንታዊ ስዕል እና የብራና ኪነ-ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስዕል፣ ሰዓሊ፣ ብርሃነ-ስዕል፣ ብራና፣ ቀለማት እና ምስል። (Core concept alternative form)",
-            "ድንጋይ፣ አሸዋ፣ ሲሚንቶ እና ብረት። (Core concept alternative form)",
-            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (Core concept alternative form)",
-            "በኢትዮጵያ የስዕል ጥበብ አልነበረም። (Core concept alternative form)"
+            "ስዕል፣ ሰዓሊ፣ ብርሃነ-ስዕል፣ ብራና፣ ቀለማት እና ምስል። (standard target expression for Church Frescoes   Manuscript Illumination)",
+            "ድንጋይ፣ አሸዋ፣ ሲሚንቶ እና ብረት። (contextual contrast form in Church Frescoes   Manuscript Illumination)",
+            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (formal register distinction for Church Frescoes   Manuscript Illumination)",
+            "በኢትዮጵያ የስዕል ጥበብ አልነበረም። (colloquial conversational usage for Church Frescoes   Manuscript Illumination)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስነ-ስዕል እና የብርሃነ-ስዕል መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -13335,10 +13335,10 @@
         {
           "prompt": "ከአንድ ወጥ አለት ተፈልፍለው የተሰሩትን አስራ አንዱን ውቅር አብያተ ክርስቲያናት ያነጹት ንጉሥ ማን ናቸው?",
           "options": [
-            "ቅዱስ ላሊበላ (Core concept key phrasing)",
-            "ቴዎድሮስ (Core concept alternative form)",
-            "ዮሐንስ (Core concept alternative form)",
-            "ምኒልክ (Core concept alternative form)"
+            "ቅዱስ ላሊበላ (standard target expression for Rock Hewn Architecture   Lalibela Monoliths)",
+            "ቴዎድሮስ (contextual contrast form in Rock Hewn Architecture   Lalibela Monoliths)",
+            "ዮሐንስ (formal register distinction for Rock Hewn Architecture   Lalibela Monoliths)",
+            "ምኒልክ (colloquial conversational usage for Rock Hewn Architecture   Lalibela Monoliths)"
           ],
           "answerIndex": 0,
           "explanation": "ቅዱስ ላሊበላ በ፲፪ኛው መቶ ክፍለ ዘመን ታላላቆቹን ውቅር አብያተ ክርስቲያናት ያነጹ ንጉሥ ናቸው።"
@@ -13350,10 +13350,10 @@
         {
           "prompt": "'Rock-hewn, carved from rock' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ውቅር (Core concept key phrasing)",
-            "እንጨት (Core concept alternative form)",
-            "ፕላስቲክ (Core concept alternative form)",
-            "ጭቃ (Core concept alternative form)"
+            "ውቅር (standard target expression for Rock Hewn Architecture   Lalibela Monoliths)",
+            "እንጨት (contextual contrast form in Rock Hewn Architecture   Lalibela Monoliths)",
+            "ፕላስቲክ (formal register distinction for Rock Hewn Architecture   Lalibela Monoliths)",
+            "ጭቃ (colloquial conversational usage for Rock Hewn Architecture   Lalibela Monoliths)"
           ],
           "answerIndex": 0,
           "explanation": "«ውቅር» ከአለት ወይም ከድንጋይ ተፈልፍሎ የተሰራ ህንፃን የሚያመለክት ቃል ነው።"
@@ -13366,10 +13366,10 @@
           "type": "multiple-choice",
           "prompt": "የላሊበላን እና የድንጋይ ውቅር ኪነ-ህንፃ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ላሊበላ፣ ውቅር፣ ወጥ አለት፣ ቤተ ጊዮርጊስ፣ ኪነ-ህንፃ እና መሃንዲስ። (Core concept alternative form)",
-            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (Core concept alternative form)",
-            "መኪና፣ ባቡር፣ አውሮፕላን እና ጀልባ። (Core concept alternative form)",
-            "በላሊበላ ውቅር ህንፃ የለም። (Core concept alternative form)"
+            "ላሊበላ፣ ውቅር፣ ወጥ አለት፣ ቤተ ጊዮርጊስ፣ ኪነ-ህንፃ እና መሃንዲስ። (standard target expression for Rock Hewn Architecture   Lalibela Monoliths)",
+            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (contextual contrast form in Rock Hewn Architecture   Lalibela Monoliths)",
+            "መኪና፣ ባቡር፣ አውሮፕላን እና ጀልባ። (formal register distinction for Rock Hewn Architecture   Lalibela Monoliths)",
+            "በላሊበላ ውቅር ህንፃ የለም። (colloquial conversational usage for Rock Hewn Architecture   Lalibela Monoliths)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የላሊበላን ውቅር ኪነ-ህንፃ መሰረታዊ ቃላት በሙሉ ይዟል።"
@@ -13428,10 +13428,10 @@
         {
           "prompt": "በ፲፯ኛው መቶ ክፍለ ዘመን በጎንደር ከተማ ታላቁን የፋሲል ግቢ ቤተ-መንግስት ያስገነቡት ንጉሥ ማን ናቸው?",
           "options": [
-            "አፄ ፋሲለደስ (Core concept key phrasing)",
-            "ቴዎድሮስ (Core concept alternative form)",
-            "ሱሰኒዮስ (Core concept alternative form)",
-            "ኢያሱ (Core concept alternative form)"
+            "አፄ ፋሲለደስ (standard target expression for Fasil Ghebbi   Gondarine Castles)",
+            "ቴዎድሮስ (contextual contrast form in Fasil Ghebbi   Gondarine Castles)",
+            "ሱሰኒዮስ (formal register distinction for Fasil Ghebbi   Gondarine Castles)",
+            "ኢያሱ (colloquial conversational usage for Fasil Ghebbi   Gondarine Castles)"
           ],
           "answerIndex": 0,
           "explanation": "አፄ ፋሲለደስ በ1636 ዓ.ም ጎንደርን ዋና ከተማ አድርገው በመሰየም የፋሲል ግቢ ግንቦችን አሳንጸዋል።"
@@ -13443,10 +13443,10 @@
         {
           "prompt": "'Castle, stone fortress' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ግንብ (Core concept key phrasing)",
-            "ድንኳን (Core concept alternative form)",
-            "ጎጆ (Core concept alternative form)",
-            "ጀልባ (Core concept alternative form)"
+            "ግንብ (standard target expression for Fasil Ghebbi   Gondarine Castles)",
+            "ድንኳን (contextual contrast form in Fasil Ghebbi   Gondarine Castles)",
+            "ጎጆ (formal register distinction for Fasil Ghebbi   Gondarine Castles)",
+            "ጀልባ (colloquial conversational usage for Fasil Ghebbi   Gondarine Castles)"
           ],
           "answerIndex": 0,
           "explanation": "«ግንብ» ከድንጋይና ከኖራ በከፍተኛ ጥንካሬ የሚገነባ ታሪካዊ ቤተ-መንግስት ወይም ምሽግ ነው።"
@@ -13459,10 +13459,10 @@
           "type": "multiple-choice",
           "prompt": "የፋሲል ግቢ እና የጎንደር ግንቦችን ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ፋሲል ግቢ፣ አፄ ፋሲለደስ፣ ግንብ፣ ቤተ-መንግስት፣ ቅጥር እና ጎንደር። (Core concept alternative form)",
-            "ወተት፣ ቅቤ፣ እርጎ እና አይብ። (Core concept alternative form)",
-            "ወረቀት፣ እስክሪብቶ እና ላጲስ። (Core concept alternative form)",
-            "በጎንደር ምንም ግንብ የለም። (Core concept alternative form)"
+            "ፋሲል ግቢ፣ አፄ ፋሲለደስ፣ ግንብ፣ ቤተ-መንግስት፣ ቅጥር እና ጎንደር። (standard target expression for Fasil Ghebbi   Gondarine Castles)",
+            "ወተት፣ ቅቤ፣ እርጎ እና አይብ። (contextual contrast form in Fasil Ghebbi   Gondarine Castles)",
+            "ወረቀት፣ እስክሪብቶ እና ላጲስ። (formal register distinction for Fasil Ghebbi   Gondarine Castles)",
+            "በጎንደር ምንም ግንብ የለም። (colloquial conversational usage for Fasil Ghebbi   Gondarine Castles)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የጎንደር እና የፋሲል ግቢ ታሪካዊ ቃላትን በሙሉ ይዟል።"
@@ -13521,10 +13521,10 @@
         {
           "prompt": "የሐረር ከተማን ከበባ የያዘውና በዩኔስኮ የተመዘገበው ጥንታዊ ግንብ ምን ይባላል?",
           "options": [
-            "ጁጎል (Core concept key phrasing)",
-            "ፋሲል (Core concept alternative form)",
-            "ላሊበላ (Core concept alternative form)",
-            "አክሱም (Core concept alternative form)"
+            "ጁጎል (standard target expression for Harar Jugol   Vernacular Architecture)",
+            "ፋሲል (contextual contrast form in Harar Jugol   Vernacular Architecture)",
+            "ላሊበላ (formal register distinction for Harar Jugol   Vernacular Architecture)",
+            "አክሱም (colloquial conversational usage for Harar Jugol   Vernacular Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "«ጁጎል» የሐረርን ጥንታዊ ከተማ የከበበ አምስት በሮች ያሉት ታሪካዊ ግንብ ነው።"
@@ -13536,10 +13536,10 @@
         {
           "prompt": "የሐረሪ ባህላዊ የመኖሪያ ቤት ምን ተብሎ ይጠራል?",
           "options": [
-            "ጌይ ጋር (Core concept key phrasing)",
-            "ፎቅ ብቻ (Core concept alternative form)",
-            "ጎጆ ብቻ (Core concept alternative form)",
-            "ድንኳን (Core concept alternative form)"
+            "ጌይ ጋር (standard target expression for Harar Jugol   Vernacular Architecture)",
+            "ፎቅ ብቻ (contextual contrast form in Harar Jugol   Vernacular Architecture)",
+            "ጎጆ ብቻ (formal register distinction for Harar Jugol   Vernacular Architecture)",
+            "ድንኳን (colloquial conversational usage for Harar Jugol   Vernacular Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "«ጌይ ጋር» ልዩ የስነ-ህንፃ ጥበብና ውስጣዊ ጌጦች ያሉት ባህላዊ የሐረር ቤት ነው።"
@@ -13552,10 +13552,10 @@
           "type": "multiple-choice",
           "prompt": "የሐረር ጁጎልን እና ባህላዊ ኪነ-ህንፃን ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሐረር፣ ጁጎል፣ አምስቱ በሮች፣ ጌይ ጋር፣ ቅጥር እና እደ-ጥበብ። (Core concept alternative form)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ጃኬት። (Core concept alternative form)",
-            "ብርቱካን፣ ሙዝ፣ ማንጎ እና ፓፓያ። (Core concept alternative form)",
-            "በሐረር ግንብ የለም። (Core concept alternative form)"
+            "ሐረር፣ ጁጎል፣ አምስቱ በሮች፣ ጌይ ጋር፣ ቅጥር እና እደ-ጥበብ። (standard target expression for Harar Jugol   Vernacular Architecture)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ጃኬት። (contextual contrast form in Harar Jugol   Vernacular Architecture)",
+            "ብርቱካን፣ ሙዝ፣ ማንጎ እና ፓፓያ። (formal register distinction for Harar Jugol   Vernacular Architecture)",
+            "በሐረር ግንብ የለም። (colloquial conversational usage for Harar Jugol   Vernacular Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሐረር ጁጎልን እና ባህላዊ ቤቶችን ቃላት በሙሉ ይዟል።"
@@ -13616,10 +13616,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ስነ-ህንፃ እና የስነ-ጥበብ ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ ስነ-ህንፃ እና ኪነ-ጥበብ በላሊበላ ውቅር፣ በፋሲል ግንቦች፣ በሐረር ጁጎልና በብራና ስዕሎች የደመቀ ነው። (yeh-eet-yoh-P'EE-yah suh-neh-hun-TS'AH un-nah kee-neh-t'uh-BEB beh-lah-lee-beh-LAH wuh-K'UR, beh-fah-SEEL gun-BOHCH, beh-hah-RER joo-GOHL un-nah beh-bur-AHN-nah suh-ul-OHCH yeh-dem-meh-K'EH new)",
-            "ምንም ቅርስ የለም (Core concept alternative form)",
-            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
-            "ህንፃ የለም (Core concept alternative form)"
+            "የኢትዮጵያ ስነ-ህንፃ እና ኪነ-ጥበብ በላሊበላ ውቅር፣ በፋሲል ግንቦች፣ በሐረር ጁጎልና በብራና ስዕሎች የደመቀ ነው። (Yä'Ityop’əya sənä-hənts’a ənna kinä-t’əbäb bäLalibäla wəqər, bäFasil gənbočč, bäHarär Ğugol ənna bäbəranna sə'əločč yädämmäqä näw. jɛʔitjoˈpʼɨja sɨnɛhɨnˈtsʼa ʔɨnːa kinɛtʼɨˈbɛb bɛlalibɛˈla wɨˈkʼɨr bɛfaˈsil ɡɨnˈbotʃː bɛhaˈrɛr dʒuˈɡol ʔɨnːa bɛbɨrˈanːa sɨʔɨˈlotʃː jɛdɛmːɛˈkʼɛ nɛw yeh-eet-yoh-P'EE-yah suh-neh-hun-TS'AH un-nah kee-neh-t'uh-BEB beh-lah-lee-beh-LAH wuh-K'UR, beh-fah-SEEL gun-BOHCH, beh-hah-RER joo-GOHL un-nah beh-bur-AHN-nah suh-ul-OHCH yeh-dem-meh-K'EH new — Ethiopia's architecture and art are resplendent in Lalibela's rock-hewn monoliths, Fasil's castles, Harar's Jugol, and manuscript paintings.)",
+            "ምንም ቅርስ የለም (contextual contrast form in Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)",
+            "ሁሉም ተራ ቃላት ናቸው (formal register distinction for Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)",
+            "ህንፃ የለም (colloquial conversational usage for Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ላሊበላን፣ ፋሲል ግቢን፣ ሐረር ጁጎልንና ስነ-ስዕልን በአንድነት ያጠቃለለ ነው።"
@@ -13631,10 +13631,10 @@
         {
           "prompt": "ኪነ-ህንፃን እና ታሪካዊ ቅርሶችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ጎብኚዎቹ የላሊበላን ውቅር አብያተ ክርስቲያናት እና የፋሲል ግንቦችን በጥልቀት ተመለከቱ። (Core concept alternative form)",
-            "ምንም እይታ አልነበረም (Core concept alternative form)",
-            "ግንብ የለም (Core concept alternative form)",
-            "ውቅር የለም (Core concept alternative form)"
+            "ጎብኚዎቹ የላሊበላን ውቅር አብያተ ክርስቲያናት እና የፋሲል ግንቦችን በጥልቀት ተመለከቱ። (standard target expression for Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)",
+            "ምንም እይታ አልነበረም (contextual contrast form in Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)",
+            "ግንብ የለም (formal register distinction for Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)",
+            "ውቅር የለም (colloquial conversational usage for Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ውቅር አብያተ ክርስቲያናትን እና ታሪካዊ ግንቦችን በትክክል ያዛምዳል።"
@@ -13647,10 +13647,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 28 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የአብያተ ክርስቲያናት ስዕሎች፣ የላሊበላ ውቅር ድንጋዮች፣ የፋሲል ግቢ ግንቦች፣ እንዲሁም የሐረር ጁጎል ቅጥር ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (Core concept alternative form)",
-            "በኢትዮጵያ ስነ-ህንፃ አልነበረም። (Core concept alternative form)",
-            "ሁሉም ህንፃዎች ተመሳሳይ ናቸው። (Core concept alternative form)"
+            "የአብያተ ክርስቲያናት ስዕሎች፣ የላሊበላ ውቅር ድንጋዮች፣ የፋሲል ግቢ ግንቦች፣ እንዲሁም የሐረር ጁጎል ቅጥር ተካተዋል። (standard target expression for Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)",
+            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (contextual contrast form in Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)",
+            "በኢትዮጵያ ስነ-ህንፃ አልነበረም። (formal register distinction for Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)",
+            "ሁሉም ህንፃዎች ተመሳሳይ ናቸው። (colloquial conversational usage for Unit 28 Grand Synthesis   Ethiopian Architectural Masterpieces)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 28ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -13715,10 +13715,10 @@
         {
           "prompt": "«Ecosystem» የሚለውን ሳይንሳዊ ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስነ-ምህዳር (Ecosystem)",
-            "ስነ-ዜማ (Ecosystem)",
-            "ስነ-ምድር (Ecosystem)",
-            "ስነ-ልሳን (Ecosystem)"
+            "ስነ-ምህዳር (standard target expression for Forest Conservation   Ecosystem)",
+            "ስነ-ዜማ (contextual contrast form in Forest Conservation   Ecosystem)",
+            "ስነ-ምድር (formal register distinction for Forest Conservation   Ecosystem)",
+            "ስነ-ልሳን (colloquial conversational usage for Forest Conservation   Ecosystem)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-ምህዳር» ህያዋን ፍጥረታት ከአካባቢያቸው ጋር ያላቸውን መስተጋብር የሚያጠና የሳይንስ ዘርፍ ነው።"
@@ -13730,10 +13730,10 @@
         {
           "prompt": "'Biodiversity' የሚለውን ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ብዝሃ-ህይወት (Ecosystem)",
-            "አንድነት ብቻ (Ecosystem)",
-            "ድርቅ (Ecosystem)",
-            "በረሃ (Ecosystem)"
+            "ብዝሃ-ህይወት (standard target expression for Forest Conservation   Ecosystem)",
+            "አንድነት ብቻ (contextual contrast form in Forest Conservation   Ecosystem)",
+            "ድርቅ (formal register distinction for Forest Conservation   Ecosystem)",
+            "በረሃ (colloquial conversational usage for Forest Conservation   Ecosystem)"
           ],
           "answerIndex": 0,
           "explanation": "«ብዝሃ-ህይወት» በተወሰነ አካባቢ የሚገኙ የተለያዩ እፅዋትና እንስሳት ዝርያዎች ጥምረት ነው።"
@@ -13746,10 +13746,10 @@
           "type": "multiple-choice",
           "prompt": "የደን ጥበቃ እና የስነ-ምህዳር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ደን፣ ስነ-ምህዳር፣ ብዝሃ-ህይወት፣ የተፈጥሮ ሚዛን እና ዛፍ። (Ecosystem)",
-            "ወረቀት፣ እስክሪብቶ፣ ላጲስ እና ደብተር። (Ecosystem)",
-            "ጫማ፣ ካልሲ፣ ሱሪ እና ኮት። (Ecosystem)",
-            "በአማርኛ ስነ-ምህዳር የሚባል የለም። (Ecosystem)"
+            "ደን፣ ስነ-ምህዳር፣ ብዝሃ-ህይወት፣ የተፈጥሮ ሚዛን እና ዛፍ። (standard target expression for Forest Conservation   Ecosystem)",
+            "ወረቀት፣ እስክሪብቶ፣ ላጲስ እና ደብተር። (contextual contrast form in Forest Conservation   Ecosystem)",
+            "ጫማ፣ ካልሲ፣ ሱሪ እና ኮት። (formal register distinction for Forest Conservation   Ecosystem)",
+            "በአማርኛ ስነ-ምህዳር የሚባል የለም። (colloquial conversational usage for Forest Conservation   Ecosystem)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስነ-ምህዳር እና የደን ጥበቃ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -13814,10 +13814,10 @@
         {
           "prompt": "በአባይ ወንዝ ላይ የተገነባው ታላቁ የኢትዮጵያ የኤሌክትሪክ ኃይል ማመንጫ ግድብ ምን ይባላል?",
           "options": [
-            "የህዳሴ ግድብ (yaabay wanz)",
-            "አዋሽ ግድብ (yaabay wanz)",
-            "ጣና ግድብ (yaabay wanz)",
-            "ዝዋይ ግድብ (yaabay wanz)"
+            "የህዳሴ ግድብ (standard target expression for Water Management   GERD)",
+            "አዋሽ ግድብ (contextual contrast form in Water Management   GERD)",
+            "ጣና ግድብ (formal register distinction for Water Management   GERD)",
+            "ዝዋይ ግድብ (colloquial conversational usage for Water Management   GERD)"
           ],
           "answerIndex": 0,
           "explanation": "«የህዳሴ ግድብ» በአባይ ወንዝ ላይ በኢትዮጵያውያን አቅም የተገነባ ታላቅ የኃይል ማመንጫ ግድብ ነው።"
@@ -13829,10 +13829,10 @@
         {
           "prompt": "'Dam / Reservoir' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ግድብ (yaabay wanz)",
-            "ድልድይ (yaabay wanz)",
-            "መንገድ (yaabay wanz)",
-            "ህንፃ (yaabay wanz)"
+            "ግድብ (standard target expression for Water Management   GERD)",
+            "ድልድይ (contextual contrast form in Water Management   GERD)",
+            "መንገድ (formal register distinction for Water Management   GERD)",
+            "ህንፃ (colloquial conversational usage for Water Management   GERD)"
           ],
           "answerIndex": 0,
           "explanation": "«ግድብ» ውሃን በማቆር ለኃይል ወይም ለመስኖ አገልግሎት የሚውል የውሃ መዋቅር ነው።"
@@ -13845,10 +13845,10 @@
           "type": "multiple-choice",
           "prompt": "የውሃ ሀብት እና የህዳሴ ግድብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ውሃ፣ አባይ፣ ህዳሴ ግድብ፣ ታዳሽ ኃይል፣ ወንዝ እና መስኖ። (yaabay wanz)",
-            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት። (yaabay wanz)",
-            "ጠረጴዛ፣ ወንበር እና አልጋ። (yaabay wanz)",
-            "በኢትዮጵያ ወንዝ የለም። (yaabay wanz)"
+            "ውሃ፣ አባይ፣ ህዳሴ ግድብ፣ ታዳሽ ኃይል፣ ወንዝ እና መስኖ። (standard target expression for Water Management   GERD)",
+            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት። (contextual contrast form in Water Management   GERD)",
+            "ጠረጴዛ፣ ወንበር እና አልጋ። (formal register distinction for Water Management   GERD)",
+            "በኢትዮጵያ ወንዝ የለም። (colloquial conversational usage for Water Management   GERD)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የውሃ ሀብትና የህዳሴ ግድብ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -13907,10 +13907,10 @@
         {
           "prompt": "የአፈር መሸርሸርን ለመከላከል በተራራማ አካባቢዎች የሚሰራው የድንጋይ ወይም የአፈር አጥር ምን ይባላል?",
           "options": [
-            "እርከን (Climate Change)",
-            "ፎቅ (Climate Change)",
-            "አውራ ጎዳና (Climate Change)",
-            "ድልድይ (Climate Change)"
+            "እርከን (standard target expression for Soil Conservation   Green Legacy)",
+            "ፎቅ (contextual contrast form in Soil Conservation   Green Legacy)",
+            "አውራ ጎዳና (formal register distinction for Soil Conservation   Green Legacy)",
+            "ድልድይ (colloquial conversational usage for Soil Conservation   Green Legacy)"
           ],
           "answerIndex": 0,
           "explanation": "«እርከን» ተራራማ መሬት በዝናብ ውሃ እንዳይታጠብ የሚገነባ የአፈር ጥበቃ ዘዴ ነው።"
@@ -13922,10 +13922,10 @@
         {
           "prompt": "'Sapling, seedling' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ችግኝ (Climate Change)",
-            "ግንድ (Climate Change)",
-            "ቅርፊት (Climate Change)",
-            "ስር (Climate Change)"
+            "ችግኝ (standard target expression for Soil Conservation   Green Legacy)",
+            "ግንድ (contextual contrast form in Soil Conservation   Green Legacy)",
+            "ቅርፊት (formal register distinction for Soil Conservation   Green Legacy)",
+            "ስር (colloquial conversational usage for Soil Conservation   Green Legacy)"
           ],
           "answerIndex": 0,
           "explanation": "«ችግኝ» ለመትከል የተዘጋጀ ለጋና ወጣት ተክል ነው።"
@@ -13938,10 +13938,10 @@
           "type": "multiple-choice",
           "prompt": "የአረንጓዴ አሻራ እና የአፈር ጥበቃ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አረንጓዴ አሻራ፣ ችግኝ፣ እርከን፣ አፈር ጥበቃ እና አየር ንብረት። (Climate Change)",
-            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ። (Climate Change)",
-            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ። (Climate Change)",
-            "በአማርኛ ችግኝ የሚባል ቃል የለም። (Climate Change)"
+            "አረንጓዴ አሻራ፣ ችግኝ፣ እርከን፣ አፈር ጥበቃ እና አየር ንብረት። (standard target expression for Soil Conservation   Green Legacy)",
+            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ። (contextual contrast form in Soil Conservation   Green Legacy)",
+            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ። (formal register distinction for Soil Conservation   Green Legacy)",
+            "በአማርኛ ችግኝ የሚባል ቃል የለም። (colloquial conversational usage for Soil Conservation   Green Legacy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአረንጓዴ አሻራ እና የአፈር ጥበቃ ቃላትን በሙሉ ይዟል።"
@@ -14000,10 +14000,10 @@
         {
           "prompt": "በሰሜን ተራሮች ገደላገደል ላይ ብቻ የሚኖረውና በኢትዮጵያ ብቻ የሚገኘው ብርቅዬ የሜዳ ፍየል ምን ይባላል?",
           "options": [
-            "ዋሊያ አይቤክስ (Core concept alternative form)",
-            "አንበሳ (Core concept alternative form)",
-            "ነብር (Core concept alternative form)",
-            "ዝሆን (Core concept alternative form)"
+            "ዋሊያ አይቤክስ (standard target expression for National Parks   Wildlife Conservation)",
+            "አንበሳ (contextual contrast form in National Parks   Wildlife Conservation)",
+            "ነብር (formal register distinction for National Parks   Wildlife Conservation)",
+            "ዝሆን (colloquial conversational usage for National Parks   Wildlife Conservation)"
           ],
           "answerIndex": 0,
           "explanation": "«ዋሊያ» በኢትዮጵያ ሰሜን ተራሮች ብቻ የሚገኝ ታዋቂ ብርቅዬ የዱር እንስሳ ነው።"
@@ -14015,10 +14015,10 @@
         {
           "prompt": "'National park' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ብሔራዊ ፓርክ (Core concept key phrasing)",
-            "የቤት ግቢ (Core concept alternative form)",
-            "የገበያ ቦታ (Core concept alternative form)",
-            "የከተማ አዳራሽ (Core concept alternative form)"
+            "ብሔራዊ ፓርክ (standard target expression for National Parks   Wildlife Conservation)",
+            "የቤት ግቢ (contextual contrast form in National Parks   Wildlife Conservation)",
+            "የገበያ ቦታ (formal register distinction for National Parks   Wildlife Conservation)",
+            "የከተማ አዳራሽ (colloquial conversational usage for National Parks   Wildlife Conservation)"
           ],
           "answerIndex": 0,
           "explanation": "«ብሔራዊ ፓርክ» የዱር አራዊትና የተፈጥሮ ሀብት በጥበቃ ስር የሚቆዩበት ህጋዊ ክልል ነው።"
@@ -14031,10 +14031,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያን ብርቅዬ የዱር እንስሳት እና ፓርኮች ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ብሔራዊ ፓርክ፣ ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ፣ ሰሜን እና ባሌ። (Core concept alternative form)",
-            "ልብስ፣ ጫማ፣ ካልሲ እና ባርኔጣ። (Core concept alternative form)",
-            "ዳቦ፣ ስንዴ፣ ገብስ እና ጤፍ። (Core concept alternative form)",
-            "በኢትዮጵያ ብርቅዬ እንስሳት የሉም። (Core concept alternative form)"
+            "ብሔራዊ ፓርክ፣ ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ፣ ሰሜን እና ባሌ። (standard target expression for National Parks   Wildlife Conservation)",
+            "ልብስ፣ ጫማ፣ ካልሲ እና ባርኔጣ። (contextual contrast form in National Parks   Wildlife Conservation)",
+            "ዳቦ፣ ስንዴ፣ ገብስ እና ጤፍ። (formal register distinction for National Parks   Wildlife Conservation)",
+            "በኢትዮጵያ ብርቅዬ እንስሳት የሉም። (colloquial conversational usage for National Parks   Wildlife Conservation)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ብርቅዬ እንስሳትንና ብሔራዊ ፓርኮችን በሙሉ ይዟል።"
@@ -14093,10 +14093,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአካባቢ ሳይንስ እና የተፈጥሮ ሀብት ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ የአካባቢ ጥበቃ በደን ልማት፣ በህዳሴ ግድብ፣ በአረንጓዴ አሻራ እና በፓርኮች ጥበቃ የተሳሰረ ነው። (yeh-eet-yoh-P'EE-yah yeh-ah-kah-bah-BEE t'uh-beh-K'AH beh-DEN luh-MAHT, beh-hud-dah-SAY gud-DUB, beh-ah-ren-gwar-DAY ah-shah-RAH un-nah beh-pahr-KOHCH t'uh-beh-K'AH yeh-teh-sahs-seh-REH new)",
-            "ምንም የተፈጥሮ ሀብት የለም (Core concept alternative form)",
-            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
-            "አካባቢ የለም (Core concept alternative form)"
+            "የኢትዮጵያ የአካባቢ ጥበቃ በደን ልማት፣ በህዳሴ ግድብ፣ በአረንጓዴ አሻራ እና በፓርኮች ጥበቃ የተሳሰረ ነው። (Yä'Ityop’əya yä'akababi t’əbäqa bädän ləmat, bäHəddase Gəddəb, bä'Aränəgwarde Ašara ənna bäparkočč t’əbäqa yätäsassärä näw. jɛʔitjoˈpʼɨja jɛʔakaˈbabi tʼɨˈbɛkʼa bɛdɛn lɨˈmat bɛhɨdːaˈse ɡɨdːɨb bɛʔarɛnɡʷarˈde ʔaˈʃara ʔɨnːa bɛparˈkotʃː tʼɨˈbɛkʼa jɛtɛsasːɛˈrɛ nɛw yeh-eet-yoh-P'EE-yah yeh-ah-kah-bah-BEE t'uh-beh-K'AH beh-DEN luh-MAHT, beh-hud-dah-SAY gud-DUB, beh-ah-ren-gwar-DAY ah-shah-RAH un-nah beh-pahr-KOHCH t'uh-beh-K'AH yeh-teh-sahs-seh-REH new — Ethiopia's environmental conservation is intertwined through forestry development, the Renaissance Dam, the Green Legacy, and park preservation.)",
+            "ምንም የተፈጥሮ ሀብት የለም (contextual contrast form in Unit 29 Grand Synthesis   Environmental Sustainability)",
+            "ሁሉም ተራ ቃላት ናቸው (formal register distinction for Unit 29 Grand Synthesis   Environmental Sustainability)",
+            "አካባቢ የለም (colloquial conversational usage for Unit 29 Grand Synthesis   Environmental Sustainability)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ደንን፣ ውሃን፣ አረንጓዴ አሻራንና ብሔራዊ ፓርኮችን በአንድነት ያጠቃለለ ነው።"
@@ -14108,10 +14108,10 @@
         {
           "prompt": "የአካባቢ ጥበቃን እና የተፈጥሮ ሀብትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ህብረተሰቡ ችግኝ በመትከል እና ደኖችን በመንከባከብ የስነ-ምህዳር ሚዛንን ጠበቀ። (Core concept alternative form)",
-            "ምንም እንክብካቤ አልተደረገም (Core concept alternative form)",
-            "ደን የለም (Core concept alternative form)",
-            "ችግኝ የለም (Core concept alternative form)"
+            "ህብረተሰቡ ችግኝ በመትከል እና ደኖችን በመንከባከብ የስነ-ምህዳር ሚዛንን ጠበቀ። (standard target expression for Unit 29 Grand Synthesis   Environmental Sustainability)",
+            "ምንም እንክብካቤ አልተደረገም (contextual contrast form in Unit 29 Grand Synthesis   Environmental Sustainability)",
+            "ደን የለም (formal register distinction for Unit 29 Grand Synthesis   Environmental Sustainability)",
+            "ችግኝ የለም (colloquial conversational usage for Unit 29 Grand Synthesis   Environmental Sustainability)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ችግኝ ተከላን እና የስነ-ምህዳር ጥበቃን በትክክል ያዛምዳል።"
@@ -14124,10 +14124,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 29 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የደን ጥበቃ፣ የውሃ ሀብትና የህዳሴ ግድብ፣ የአረንጓዴ አሻራ ችግኞች፣ እንዲሁም ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Core concept alternative form)",
-            "በኢትዮጵያ ፓርክ አልነበረም። (Core concept alternative form)",
-            "ሁሉም ወንዞች ተመሳሳይ ናቸው። (Core concept alternative form)"
+            "የደን ጥበቃ፣ የውሃ ሀብትና የህዳሴ ግድብ፣ የአረንጓዴ አሻራ ችግኞች፣ እንዲሁም ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት ተካተዋል። (standard target expression for Unit 29 Grand Synthesis   Environmental Sustainability)",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (contextual contrast form in Unit 29 Grand Synthesis   Environmental Sustainability)",
+            "በኢትዮጵያ ፓርክ አልነበረም። (formal register distinction for Unit 29 Grand Synthesis   Environmental Sustainability)",
+            "ሁሉም ወንዞች ተመሳሳይ ናቸው። (colloquial conversational usage for Unit 29 Grand Synthesis   Environmental Sustainability)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 29ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -14186,10 +14186,10 @@
         {
           "prompt": "በኢትዮጵያ ጥንታዊ የፍትህ ስርዓት ውስጥ መንፈሳዊና ዓለማዊ ህጎችን ያቀፈው ታዋቂው የህግ መጽሐፍ ማን ይባላል?",
           "options": [
-            "ፍትሐ ነገሥት (Law of the Kings)",
-            "ክብረ ነገሥት (Law of the Kings)",
-            "ገድለ ተክለሃይማኖት (Law of the Kings)",
-            "ድርሳነ ማርያም (Law of the Kings)"
+            "ፍትሐ ነገሥት (standard target expression for Fetha Nagast   Ancient Jurisprudence)",
+            "ክብረ ነገሥት (contextual contrast form in Fetha Nagast   Ancient Jurisprudence)",
+            "ገድለ ተክለሃይማኖት (formal register distinction for Fetha Nagast   Ancient Jurisprudence)",
+            "ድርሳነ ማርያም (colloquial conversational usage for Fetha Nagast   Ancient Jurisprudence)"
           ],
           "answerIndex": 0,
           "explanation": "«ፍትሐ ነገሥት» ለዘመናት የዳኝነት እና የህግ ምንጭ ሆኖ ያገለገለ ጥንታዊ የህግጋት መጽሐፍ ነው።"
@@ -14201,10 +14201,10 @@
         {
           "prompt": "'Justice, righteousness' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ፍትህ (Law of the Kings)",
-            "ጭቅጭቅ (Law of the Kings)",
-            "ስህተት (Law of the Kings)",
-            "ጥፋት (Law of the Kings)"
+            "ፍትህ (standard target expression for Fetha Nagast   Ancient Jurisprudence)",
+            "ጭቅጭቅ (contextual contrast form in Fetha Nagast   Ancient Jurisprudence)",
+            "ስህተት (formal register distinction for Fetha Nagast   Ancient Jurisprudence)",
+            "ጥፋት (colloquial conversational usage for Fetha Nagast   Ancient Jurisprudence)"
           ],
           "answerIndex": 0,
           "explanation": "«ፍትህ» እውነትና እኩልነትን መሰረት ያደረገ ቅን የዳኝነት መርህ ነው።"
@@ -14217,10 +14217,10 @@
           "type": "multiple-choice",
           "prompt": "የፍትሐ ነገሥት እና የዳኝነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ፍትሐ ነገሥት፣ ፍትህ፣ ዳኝነት፣ ዳኛ፣ ፍርድ ቤት እና የህግ የበላይነት። (Law of the Kings)",
-            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ። (Law of the Kings)",
-            "ጠረጴዛ፣ ወንበር እና አልጋ። (Law of the Kings)",
-            "በኢትዮጵያ የህግ ታሪክ አልነበረም። (Law of the Kings)"
+            "ፍትሐ ነገሥት፣ ፍትህ፣ ዳኝነት፣ ዳኛ፣ ፍርድ ቤት እና የህግ የበላይነት። (standard target expression for Fetha Nagast   Ancient Jurisprudence)",
+            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ። (contextual contrast form in Fetha Nagast   Ancient Jurisprudence)",
+            "ጠረጴዛ፣ ወንበር እና አልጋ። (formal register distinction for Fetha Nagast   Ancient Jurisprudence)",
+            "በኢትዮጵያ የህግ ታሪክ አልነበረም። (colloquial conversational usage for Fetha Nagast   Ancient Jurisprudence)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የፍትሐ ነገሥት እና የዳኝነት መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14281,10 +14281,10 @@
         {
           "prompt": "በኢትዮጵያ ማህበረሰብ ውስጥ በሰዎች መካከል የተፈጠረን አለመግባባት በሰላም ለማስታረቅ የሚካሄደው ባህላዊ መንገድ ምን ይባላል?",
           "options": [
-            "ሽምግልና (Core concept key phrasing)",
-            "ጦርነት (Core concept alternative form)",
-            "ፍጥጫ (Core concept alternative form)",
-            "ክስ ብቻ (Core concept alternative form)"
+            "ሽምግልና (standard target expression for Customary Restorative Justice   Shimglina)",
+            "ጦርነት (contextual contrast form in Customary Restorative Justice   Shimglina)",
+            "ፍጥጫ (formal register distinction for Customary Restorative Justice   Shimglina)",
+            "ክስ ብቻ (colloquial conversational usage for Customary Restorative Justice   Shimglina)"
           ],
           "answerIndex": 0,
           "explanation": "«ሽምግልና» በሽማግሌዎች ጥረት የተጣሉትን የሚያስታርቅ ጥንታዊ ባህላዊ መንገድ ነው።"
@@ -14296,10 +14296,10 @@
         {
           "prompt": "'Reconciliation, peace settlement' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "እርቅ (Core concept key phrasing)",
-            "ጸብ (Core concept alternative form)",
-            "ቂም (Core concept key phrasing)",
-            "ንትርክ (Core concept alternative form)"
+            "እርቅ (standard target expression for Customary Restorative Justice   Shimglina)",
+            "ጸብ (contextual contrast form in Customary Restorative Justice   Shimglina)",
+            "ቂም (formal register distinction for Customary Restorative Justice   Shimglina)",
+            "ንትርክ (colloquial conversational usage for Customary Restorative Justice   Shimglina)"
           ],
           "answerIndex": 0,
           "explanation": "«እርቅ» ቂም በቀልን አስወግዶ ወደ ሰላማዊ ግንኙነት መመለስ ነው።"
@@ -14312,10 +14312,10 @@
           "type": "multiple-choice",
           "prompt": "የሽምግልና እና የባህላዊ እርቅ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሽምግልና፣ እርቅ፣ ይቅርታ፣ ካሳ፣ የሀገር ሽማግሌ እና ማህበራዊ ሰላም። (Core concept alternative form)",
-            "መኪና፣ ባቡር፣ አውሮፕላን እና መርከብ። (Core concept alternative form)",
-            "እንጀራ፣ ወጥ፣ ዶሮ እና ጠጅ። (Core concept alternative form)",
-            "በኢትዮጵያ ሽምግልና የለም። (Core concept alternative form)"
+            "ሽምግልና፣ እርቅ፣ ይቅርታ፣ ካሳ፣ የሀገር ሽማግሌ እና ማህበራዊ ሰላም። (standard target expression for Customary Restorative Justice   Shimglina)",
+            "መኪና፣ ባቡር፣ አውሮፕላን እና መርከብ። (contextual contrast form in Customary Restorative Justice   Shimglina)",
+            "እንጀራ፣ ወጥ፣ ዶሮ እና ጠጅ። (formal register distinction for Customary Restorative Justice   Shimglina)",
+            "በኢትዮጵያ ሽምግልና የለም። (colloquial conversational usage for Customary Restorative Justice   Shimglina)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሽምግልና እና የእርቅ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14376,10 +14376,10 @@
         {
           "prompt": "በኦሮሞ ህዝብ ባህል ውስጥ በየስምንት ዓመቱ ሰላማዊ የስልጣን ሽግግር የሚያካሂደውና በዩኔስኮ የተመዘገበው ታዋቂው ስርዓት ማን ይባላል?",
           "options": [
-            "የገዳ ስርዓት (Core concept key phrasing)",
-            "ንግስና ብቻ (Core concept alternative form)",
-            "ውትድርና ብቻ (Core concept alternative form)",
-            "ምንም ስርዓት አልነበረም (Core concept alternative form)"
+            "የገዳ ስርዓት (standard target expression for Gadaa Jurisprudence   Civic Institutions)",
+            "ንግስና ብቻ (contextual contrast form in Gadaa Jurisprudence   Civic Institutions)",
+            "ውትድርና ብቻ (formal register distinction for Gadaa Jurisprudence   Civic Institutions)",
+            "ምንም ስርዓት አልነበረም (colloquial conversational usage for Gadaa Jurisprudence   Civic Institutions)"
           ],
           "answerIndex": 0,
           "explanation": "«የገዳ ስርዓት» በየ፰ ዓመቱ የስልጣን ሽግግር የሚያደርግ ጥንታዊ ዴሞክራሲያዊ የህግና የአስተዳደር ስርዓት ነው።"
@@ -14391,10 +14391,10 @@
         {
           "prompt": "'Democratic governance, civic rule' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ዴሞክራሲያዊ አስተዳደር (Core concept key phrasing)",
-            "አምባገነንነት (Core concept alternative form)",
-            "ህገ-ወጥነት (Core concept alternative form)",
-            "ትርምስ (Core concept alternative form)"
+            "ዴሞክራሲያዊ አስተዳደር (standard target expression for Gadaa Jurisprudence   Civic Institutions)",
+            "አምባገነንነት (contextual contrast form in Gadaa Jurisprudence   Civic Institutions)",
+            "ህገ-ወጥነት (formal register distinction for Gadaa Jurisprudence   Civic Institutions)",
+            "ትርምስ (colloquial conversational usage for Gadaa Jurisprudence   Civic Institutions)"
           ],
           "answerIndex": 0,
           "explanation": "«ዴሞክራሲያዊ አስተዳደር» የህዝብ ተሳትፎና የህግ የበላይነት ያለበት ፍትሃዊ የአመራር ስርዓት ነው።"
@@ -14407,10 +14407,10 @@
           "type": "multiple-choice",
           "prompt": "የገዳ ስርዓት እና የዴሞክራሲ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ገዳ፣ አባ ገዳ፣ ጫፌ፣ የስልጣን ሽግግር፣ እኩልነት እና ዴሞክራሲ። (Core concept alternative form)",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና ቀለም። (Core concept alternative form)",
-            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (Core concept alternative form)",
-            "በገዳ ስርዓት ህግ የለም። (Core concept alternative form)"
+            "ገዳ፣ አባ ገዳ፣ ጫፌ፣ የስልጣን ሽግግር፣ እኩልነት እና ዴሞክራሲ። (standard target expression for Gadaa Jurisprudence   Civic Institutions)",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና ቀለም። (contextual contrast form in Gadaa Jurisprudence   Civic Institutions)",
+            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (formal register distinction for Gadaa Jurisprudence   Civic Institutions)",
+            "በገዳ ስርዓት ህግ የለም። (colloquial conversational usage for Gadaa Jurisprudence   Civic Institutions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የገዳ ስርዓት እና የዴሞክራሲያዊ አስተዳደር ቃላትን በሙሉ ይዟል።"
@@ -14469,10 +14469,10 @@
         {
           "prompt": "«Human rights» የሚለውን ዓለም አቀፍ የህግ ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሰብአዊ መብቶች (Core concept key phrasing)",
-            "የንግድ ህግ (Core concept alternative form)",
-            "የትራፊክ ህግ (Core concept alternative form)",
-            "የግብር ህግ (Core concept alternative form)"
+            "ሰብአዊ መብቶች (standard target expression for Human Rights   Rule of Law)",
+            "የንግድ ህግ (contextual contrast form in Human Rights   Rule of Law)",
+            "የትራፊክ ህግ (formal register distinction for Human Rights   Rule of Law)",
+            "የግብር ህግ (colloquial conversational usage for Human Rights   Rule of Law)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰብአዊ መብቶች» የሰው ልጅ በመሆኑ ብቻ የሚገቡት መሰረታዊ ነፃነቶችና መብቶች ናቸው።"
@@ -14484,10 +14484,10 @@
         {
           "prompt": "'Rule of law' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የህግ የበላይነት (Core concept key phrasing)",
-            "የጉልበት የበላይነት (Core concept alternative form)",
-            "የስልጣን ጥማት (Core concept alternative form)",
-            "አምባገነንነት (Core concept alternative form)"
+            "የህግ የበላይነት (standard target expression for Human Rights   Rule of Law)",
+            "የጉልበት የበላይነት (contextual contrast form in Human Rights   Rule of Law)",
+            "የስልጣን ጥማት (formal register distinction for Human Rights   Rule of Law)",
+            "አምባገነንነት (colloquial conversational usage for Human Rights   Rule of Law)"
           ],
           "answerIndex": 0,
           "explanation": "«የህግ የበላይነት» ማንም ሰው ከህግ በላይ እንደማይሆን የሚያረጋግጥ መርህ ነው።"
@@ -14500,10 +14500,10 @@
           "type": "multiple-choice",
           "prompt": "የሰብአዊ መብቶች እና የህግ የበላይነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሰብአዊ መብቶች፣ የህግ የበላይነት፣ ህገ-መንግስት፣ ነፃነት እና እኩልነት። (Core concept alternative form)",
-            "ሻይ፣ ስኳር፣ ወተት እና ዳቦ። (Core concept alternative form)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (Core concept alternative form)",
-            "በህግ የበላይነት መብት የለም። (Core concept alternative form)"
+            "ሰብአዊ መብቶች፣ የህግ የበላይነት፣ ህገ-መንግስት፣ ነፃነት እና እኩልነት። (standard target expression for Human Rights   Rule of Law)",
+            "ሻይ፣ ስኳር፣ ወተት እና ዳቦ። (contextual contrast form in Human Rights   Rule of Law)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (formal register distinction for Human Rights   Rule of Law)",
+            "በህግ የበላይነት መብት የለም። (colloquial conversational usage for Human Rights   Rule of Law)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰብአዊ መብቶች እና የህገ-መንግስት ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -14562,10 +14562,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ የህግ እና የፍትህ ፍልስፍና ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "የኢትዮጵያ የህግ ፍልስፍና በፍትሐ ነገሥት፣ በሽምግልና እርቅ፣ በገዳ ስርዓት እና በህገ-መንግስታዊ መርሆዎች የዳበረ ነው። (yeh-eet-yoh-P'EE-yah yeh-HUG fuh-luh-suh-FUN-nah beh-fuh-tuh-HAH neh-GEST, beh-shum-uh-guhl-un-NAH urk', beh-GEH-dah sur-'AHT un-nah beh-hug-geh-men-guh-suh-tah-WEE mer-HOHCH yeh-dahb-beh-REH new)",
-            "ምንም ህግ የለም (Core concept alternative form)",
-            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
-            "ፍትህ የለም (Core concept alternative form)"
+            "የኢትዮጵያ የህግ ፍልስፍና በፍትሐ ነገሥት፣ በሽምግልና እርቅ፣ በገዳ ስርዓት እና በህገ-መንግስታዊ መርሆዎች የዳበረ ነው። (Yä'Ityop’əya yähəgg fələsəfənna bäFətəha Nägäst, bäšəməgələnna ərq, bäGäda sər’at ənna bähəggä-mängəsətawi märəhočč yädabbärä näw. jɛʔitjoˈpʼɨja jɛhɨɡː fɨlɨsɨˈfɨnːa bɛfɨtɨˈha nɛˈɡɛst bɛʃɨmɨɡɨˈlɨnːa ʔɨrkʼ bɛɡɛˈda sɨrˈʔat ʔɨnːa bɛhɨɡːɛmɛnɡɨsɨtaˈwi mərˈhotʃː jɛdabːɛˈrɛ nɛw yeh-eet-yoh-P'EE-yah yeh-HUG fuh-luh-suh-FUN-nah beh-fuh-tuh-HAH neh-GEST, beh-shum-uh-guhl-un-NAH urk', beh-GEH-dah sur-'AHT un-nah beh-hug-geh-men-guh-suh-tah-WEE mer-HOHCH yeh-dahb-beh-REH new — Ethiopian legal philosophy is enriched by the Fetha Nagast, restorative mediation, the Gadaa system, and constitutional principles.)",
+            "ምንም ህግ የለም (contextual contrast form in Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)",
+            "ሁሉም ተራ ቃላት ናቸው (formal register distinction for Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)",
+            "ፍትህ የለም (colloquial conversational usage for Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ፍትሐ ነገሥትን፣ ሽምግልናን፣ ገዳንና ህገ-መንግስትን በአንድነት ያጠቃለለ ነው።"
@@ -14577,10 +14577,10 @@
         {
           "prompt": "የህግ የበላይነትን እና የፍትህ ስርዓትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ዳኞቹ በህግ የበላይነት እና በእኩልነት መርህ ላይ ተመስርተው ፍትሃዊ ውሳኔ ሰጡ። (Core concept alternative form)",
-            "ምንም ውሳኔ አልተሰጠም (Core concept alternative form)",
-            "ህግ የለም (Core concept alternative form)",
-            "ዳኛ የለም (Core concept alternative form)"
+            "ዳኞቹ በህግ የበላይነት እና በእኩልነት መርህ ላይ ተመስርተው ፍትሃዊ ውሳኔ ሰጡ። (standard target expression for Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)",
+            "ምንም ውሳኔ አልተሰጠም (contextual contrast form in Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)",
+            "ህግ የለም (formal register distinction for Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)",
+            "ዳኛ የለም (colloquial conversational usage for Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የህግ የበላይነትን እና ፍትሃዊ ዳኝነትን በትክክል ያዛምዳል።"
@@ -14593,10 +14593,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 30 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ፍትሐ ነገሥት፣ ባህላዊ ሽምግልናና እርቅ፣ የገዳ ስርዓት ዴሞክራሲ፣ እንዲሁም ሰብአዊ መብቶችና የህግ የበላይነት ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (Core concept alternative form)",
-            "በኢትዮጵያ ፍትህ አልነበረም። (Core concept alternative form)",
-            "ሁሉም ህጎች ተመሳሳይ ናቸው። (Core concept alternative form)"
+            "ፍትሐ ነገሥት፣ ባህላዊ ሽምግልናና እርቅ፣ የገዳ ስርዓት ዴሞክራሲ፣ እንዲሁም ሰብአዊ መብቶችና የህግ የበላይነት ተካተዋል። (standard target expression for Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)",
+            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (contextual contrast form in Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)",
+            "በኢትዮጵያ ፍትህ አልነበረም። (formal register distinction for Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)",
+            "ሁሉም ህጎች ተመሳሳይ ናቸው። (colloquial conversational usage for Unit 30 Grand Synthesis   Ethiopian Legal Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 30ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -14657,10 +14657,10 @@
         {
           "prompt": "በሳይንሳዊ ምርምር ውስጥ ሊረጋገጥ ወይም ውድቅ ሊደረግ የሚችል ጊዜያዊ ግምት ወይም ሀሳብ ምን ይባላል?",
           "options": [
-            "መላምት (Core concept key phrasing)",
-            "ግጥም (Core concept alternative form)",
-            "ተረት (Core concept alternative form)",
-            "ልቦለድ (Core concept alternative form)"
+            "መላምት (standard target expression for Research Methodologies   Study Design)",
+            "ግጥም (contextual contrast form in Research Methodologies   Study Design)",
+            "ተረት (formal register distinction for Research Methodologies   Study Design)",
+            "ልቦለድ (colloquial conversational usage for Research Methodologies   Study Design)"
           ],
           "answerIndex": 0,
           "explanation": "«መላምት» በሳይንሳዊ ጥናት የሚፈተን እና የሚረጋገጥ የመጀመሪያ መነሻ ሀሳብ ነው።"
@@ -14672,10 +14672,10 @@
         {
           "prompt": "'Research methodology' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የምርምር ዘዴ (Core concept key phrasing)",
-            "የጨዋታ ህግ (Core concept alternative form)",
-            "የጉዞ ካርታ (Core concept alternative form)",
-            "የግዢ ዝርዝር (Core concept alternative form)"
+            "የምርምር ዘዴ (standard target expression for Research Methodologies   Study Design)",
+            "የጨዋታ ህግ (contextual contrast form in Research Methodologies   Study Design)",
+            "የጉዞ ካርታ (formal register distinction for Research Methodologies   Study Design)",
+            "የግዢ ዝርዝር (colloquial conversational usage for Research Methodologies   Study Design)"
           ],
           "answerIndex": 0,
           "explanation": "«የምርምር ዘዴ» ጥናትን በስርዓትና በሳይንሳዊ ቅደም-ተከተል ለመምራት የሚያስችል መንገድ ነው።"
@@ -14688,10 +14688,10 @@
           "type": "multiple-choice",
           "prompt": "የምርምር ዘዴዎችን እና የጥናት ንድፍ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ምርምር፣ ተመራማሪ፣ ዘዴ፣ የጥናት ንድፍ፣ መላምት እና ተለዋዋጭ። (Core concept alternative form)",
-            "ወጥ፣ ዳቦ፣ ሻይ እና ቡና። (Core concept alternative form)",
-            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (Core concept alternative form)",
-            "በሳይንስ ምርምር የለም። (Core concept alternative form)"
+            "ምርምር፣ ተመራማሪ፣ ዘዴ፣ የጥናት ንድፍ፣ መላምት እና ተለዋዋጭ። (standard target expression for Research Methodologies   Study Design)",
+            "ወጥ፣ ዳቦ፣ ሻይ እና ቡና። (contextual contrast form in Research Methodologies   Study Design)",
+            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (formal register distinction for Research Methodologies   Study Design)",
+            "በሳይንስ ምርምር የለም። (colloquial conversational usage for Research Methodologies   Study Design)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምርምር ዘዴ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14750,10 +14750,10 @@
         {
           "prompt": "ከአጠቃላይ ህዝብ መካከል ለጥናት ተመርጦ የሚወሰደው አነስተኛ ውክልና ምን ይባላል?",
           "options": [
-            "ናሙና (Core concept key phrasing)",
-            "ሙሉ ህዝብ (Core concept alternative form)",
-            "ግምት (Core concept alternative form)",
-            "ስህተት (Core concept alternative form)"
+            "ናሙና (standard target expression for Data Collection   Statistical Analysis)",
+            "ሙሉ ህዝብ (contextual contrast form in Data Collection   Statistical Analysis)",
+            "ግምት (formal register distinction for Data Collection   Statistical Analysis)",
+            "ስህተት (colloquial conversational usage for Data Collection   Statistical Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "«ናሙና» አጠቃላይ ማህበረሰቡን ወይም ህዝብን ወክሎ የሚመረጥ የጥናት አካል ነው።"
@@ -14765,10 +14765,10 @@
         {
           "prompt": "'Statistical analysis' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስታትስቲካዊ ትንተና (Core concept key phrasing)",
-            "ተራ ቆጠራ (Core concept alternative form)",
-            "ግምት መስጠት (Core concept alternative form)",
-            "ወሬ ማውራት (Core concept alternative form)"
+            "ስታትስቲካዊ ትንተና (standard target expression for Data Collection   Statistical Analysis)",
+            "ተራ ቆጠራ (contextual contrast form in Data Collection   Statistical Analysis)",
+            "ግምት መስጠት (formal register distinction for Data Collection   Statistical Analysis)",
+            "ወሬ ማውራት (colloquial conversational usage for Data Collection   Statistical Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "«ስታትስቲካዊ ትንተና» መረጃዎችን በቁጥር እና በሳይንሳዊ ቀመር የመመርመር ሂደት ነው።"
@@ -14781,10 +14781,10 @@
           "type": "multiple-choice",
           "prompt": "የመረጃ አሰባሰብ እና ስታትስቲክስ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "መረጃ፣ ናሙና፣ መጠይቅ፣ ቃለ-መጠይቅ፣ ስታትስቲክስ እና ትንተና። (Core concept alternative form)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (Core concept alternative form)",
-            "ፈረስ፣ በቅሎ፣ አህያ እና ግመል። (Core concept alternative form)",
-            "በጥናት መረጃ አይሰበሰብም። (Core concept alternative form)"
+            "መረጃ፣ ናሙና፣ መጠይቅ፣ ቃለ-መጠይቅ፣ ስታትስቲክስ እና ትንተና። (standard target expression for Data Collection   Statistical Analysis)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (contextual contrast form in Data Collection   Statistical Analysis)",
+            "ፈረስ፣ በቅሎ፣ አህያ እና ግመል። (formal register distinction for Data Collection   Statistical Analysis)",
+            "በጥናት መረጃ አይሰበሰብም። (colloquial conversational usage for Data Collection   Statistical Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመረጃ አሰባሰብ እና የስታትስቲክስ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14843,10 +14843,10 @@
         {
           "prompt": "በምርምር ማጠቃለያ ላይ ችግሮችን ለመፍታት የሚቀርብ ተግባራዊ ሀሳብ ምን ይባላል?",
           "options": [
-            "ምክረ-ሀሳብ (Core concept key phrasing)",
-            "ክስ (Core concept alternative form)",
-            "ቅጣት (Core concept alternative form)",
-            "ማስጠንቀቂያ (Core concept alternative form)"
+            "ምክረ-ሀሳብ (standard target expression for Findings  Conclusion   Policy Recommendations)",
+            "ክስ (contextual contrast form in Findings  Conclusion   Policy Recommendations)",
+            "ቅጣት (formal register distinction for Findings  Conclusion   Policy Recommendations)",
+            "ማስጠንቀቂያ (colloquial conversational usage for Findings  Conclusion   Policy Recommendations)"
           ],
           "answerIndex": 0,
           "explanation": "«ምክረ-ሀሳብ» በጥናቱ ግኝት ላይ ተመስርቶ የመፍትሄ እርምጃዎችን የሚጠቁም ጠቃሚ ሀሳብ ነው።"
@@ -14858,10 +14858,10 @@
         {
           "prompt": "'Conclusion, final inference' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ድምዳሜ (Core concept key phrasing)",
-            "መነሻ (Core concept alternative form)",
-            "ጥያቄ (Core concept alternative form)",
-            "ጭቅጭቅ (Core concept alternative form)"
+            "ድምዳሜ (standard target expression for Findings  Conclusion   Policy Recommendations)",
+            "መነሻ (contextual contrast form in Findings  Conclusion   Policy Recommendations)",
+            "ጥያቄ (formal register distinction for Findings  Conclusion   Policy Recommendations)",
+            "ጭቅጭቅ (colloquial conversational usage for Findings  Conclusion   Policy Recommendations)"
           ],
           "answerIndex": 0,
           "explanation": "«ድምዳሜ» የምርምር መረጃዎችንና ግኝቶችን ተንትኖ የሚደረስበት የመጨረሻ ውሳኔ ነው።"
@@ -14874,10 +14874,10 @@
           "type": "multiple-choice",
           "prompt": "የምርምር ውጤት እና ድምዳሜ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ግኝት፣ ውጤት፣ ድምዳሜ፣ ምክረ-ሀሳብ እና አበርክቶ። (Core concept alternative form)",
-            "ሰዓት፣ ቀለበት፣ አምባር እና የአንገት ሀብል። (Core concept alternative form)",
-            "ብርቱካን፣ ሙዝ፣ ፓፓያ እና አናናስ። (Core concept alternative form)",
-            "ምርምር ድምዳሜ የለውም። (Core concept alternative form)"
+            "ግኝት፣ ውጤት፣ ድምዳሜ፣ ምክረ-ሀሳብ እና አበርክቶ። (standard target expression for Findings  Conclusion   Policy Recommendations)",
+            "ሰዓት፣ ቀለበት፣ አምባር እና የአንገት ሀብል። (contextual contrast form in Findings  Conclusion   Policy Recommendations)",
+            "ብርቱካን፣ ሙዝ፣ ፓፓያ እና አናናስ። (formal register distinction for Findings  Conclusion   Policy Recommendations)",
+            "ምርምር ድምዳሜ የለውም። (colloquial conversational usage for Findings  Conclusion   Policy Recommendations)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምርምር ውጤት እና ድምዳሜ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14936,10 +14936,10 @@
         {
           "prompt": "በሳይንሳዊ ጽሁፍ ውስጥ የሌሎች ምሁራንን ሀሳብና መረጃ የወሰድንበትን ምንጭ በግልጽ ማመልከት ምን ይባላል?",
           "options": [
-            "ማጣቀሻ (Citations)",
-            "ስርቆት (Citations)",
-            "ስህተት (Citations)",
-            "መደበቅ (Citations)"
+            "ማጣቀሻ (standard target expression for Academic Ethics  Citations   Peer Review)",
+            "ስርቆት (contextual contrast form in Academic Ethics  Citations   Peer Review)",
+            "ስህተት (formal register distinction for Academic Ethics  Citations   Peer Review)",
+            "መደበቅ (colloquial conversational usage for Academic Ethics  Citations   Peer Review)"
           ],
           "answerIndex": 0,
           "explanation": "«ማጣቀሻ» የተጠቀምንባቸውን መጽሐፍትና ጥናቶች በታማኝነት መግለጽ ነው።"
@@ -14951,10 +14951,10 @@
         {
           "prompt": "'Peer review' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የአቻ ግምገማ (Citations)",
-            "የጓደኛ ጭውውት (Citations)",
-            "ያለ ምርመራ ማለፍ (Citations)",
-            "የዘፈቀደ ውሳኔ (Citations)"
+            "የአቻ ግምገማ (standard target expression for Academic Ethics  Citations   Peer Review)",
+            "የጓደኛ ጭውውት (contextual contrast form in Academic Ethics  Citations   Peer Review)",
+            "ያለ ምርመራ ማለፍ (formal register distinction for Academic Ethics  Citations   Peer Review)",
+            "የዘፈቀደ ውሳኔ (colloquial conversational usage for Academic Ethics  Citations   Peer Review)"
           ],
           "answerIndex": 0,
           "explanation": "«የአቻ ግምገማ» በዘርፉ ባለሙያ ምሁራን ጥናትን በጥልቀት የመገምገም ሳይንሳዊ ስርዓት ነው።"
@@ -14967,10 +14967,10 @@
           "type": "multiple-choice",
           "prompt": "የአካዳሚክ ስነ-ምግባር እና የማጣቀሻ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የአካዳሚክ ስነ-ምግባር፣ ማጣቀሻ፣ ዋቢ መጽሐፍ፣ የአቻ ግምገማ እና ህትመት። (Citations)",
-            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር። (Citations)",
-            "ጠመኔ፣ ጥቁር ሰሌዳ እና እስክሪብቶ። (Citations)",
-            "በአካዳሚክ ስራ ህግ የለም። (Citations)"
+            "የአካዳሚክ ስነ-ምግባር፣ ማጣቀሻ፣ ዋቢ መጽሐፍ፣ የአቻ ግምገማ እና ህትመት። (standard target expression for Academic Ethics  Citations   Peer Review)",
+            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር። (contextual contrast form in Academic Ethics  Citations   Peer Review)",
+            "ጠመኔ፣ ጥቁር ሰሌዳ እና እስክሪብቶ። (formal register distinction for Academic Ethics  Citations   Peer Review)",
+            "በአካዳሚክ ስራ ህግ የለም። (colloquial conversational usage for Academic Ethics  Citations   Peer Review)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአካዳሚክ ስነ-ምግባር እና የማጣቀሻ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15029,10 +15029,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሳይንሳዊ ምርምር እና የአካዳሚክ ትንተና ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "ተመራማሪዋ የምርምር ዘዴዋን፣ የስታትስቲክስ ትንተናዋን እና ግኝቶቿን በምሁራን ፊት በተሳካ ሁኔታ ተከላከለች። (teh-meh-rah-mah-ree-WAH yeh-muh-ruh-MUR zeh-DAY-wahn, yeh-stah-tees-TEEKS tun-teh-nah-WAHN un-nah gun-yuh-tohch-chuh-WAHN beh-muh-hoo-RAHN feet beh-teh-sah-KOW hoo-nay-TAH teh-keh-lahk-keh-LECH)",
-            "ምንም ጥናት አልተደረገም (Core concept alternative form)",
-            "ሁሉም ተራ ወሬ ነው (Core concept alternative form)",
-            "ምርምር የለም (Core concept alternative form)"
+            "ተመራማሪዋ የምርምር ዘዴዋን፣ የስታትስቲክስ ትንተናዋን እና ግኝቶቿን በምሁራን ፊት በተሳካ ሁኔታ ተከላከለች። (Tämäramariwa yämərəmər zädewan, yäsətatəsətiks təntänawan ənna gənyətoččəwan bäməhuran fit bätäsakaw huneta täkälakkäläčč. tɛmɛramariˈwa jəmɨrɨˈmɨr zɛdeˈwan jɛsɨtatɨsɨˈtiks tɨntənaˈwan ʔɨnːa ɡɨɲɨtotʃːɨˈwan bəmɨhuˈran fit bətəsaˈkaw huˈneta təkəlakːəˈlɛtʃː teh-meh-rah-mah-ree-WAH yeh-muh-ruh-MUR zeh-DAY-wahn, yeh-stah-tees-TEEKS tun-teh-nah-WAHN un-nah gun-yuh-tohch-chuh-WAHN beh-muh-hoo-RAHN feet beh-teh-sah-KOW hoo-nay-TAH teh-keh-lahk-keh-LECH — The researcher successfully defended her research methodology, statistical analysis, and findings before scholars.)",
+            "ምንም ጥናት አልተደረገም (contextual contrast form in Unit 31 Grand Synthesis   Scholarly Research Defense)",
+            "ሁሉም ተራ ወሬ ነው (formal register distinction for Unit 31 Grand Synthesis   Scholarly Research Defense)",
+            "ምርምር የለም (colloquial conversational usage for Unit 31 Grand Synthesis   Scholarly Research Defense)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የምርምር ዘዴን፣ ስታትስቲክስንና የግኝት መከላከያን በአንድነት ያጠቃለለ ነው።"
@@ -15044,10 +15044,10 @@
         {
           "prompt": "የአካዳሚክ ስነ-ምግባርን እና ሳይንሳዊ ምርምርን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተመራማሪው በታማኝነት እና በጥብቅ የአቻ ግምገማ ላይ ተመስርቶ አስተማማኝ ግኝቶችን ይፋ አደረገ። (Core concept alternative form)",
-            "ምንም መረጃ የለም (Core concept alternative form)",
-            "ማጣቀሻ አያስፈልግም (Core concept alternative form)",
-            "ስርቆት ይፈቀዳል (Core concept alternative form)"
+            "ተመራማሪው በታማኝነት እና በጥብቅ የአቻ ግምገማ ላይ ተመስርቶ አስተማማኝ ግኝቶችን ይፋ አደረገ። (standard target expression for Unit 31 Grand Synthesis   Scholarly Research Defense)",
+            "ምንም መረጃ የለም (contextual contrast form in Unit 31 Grand Synthesis   Scholarly Research Defense)",
+            "ማጣቀሻ አያስፈልግም (formal register distinction for Unit 31 Grand Synthesis   Scholarly Research Defense)",
+            "ስርቆት ይፈቀዳል (colloquial conversational usage for Unit 31 Grand Synthesis   Scholarly Research Defense)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የአካዳሚክ ታማኝነትንና ሳይንሳዊ ግኝቶችን በትክክል ያዛምዳል።"
@@ -15060,10 +15060,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 31 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የምርምር ዘዴዎችና መላምት፣ የመረጃ አሰባሰብና ስታትስቲክስ፣ ግኝቶችና ምክረ-ሀሳቦች፣ እንዲሁም አካዳሚክ ስነ-ምግባርና የአቻ ግምገማ ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Core concept alternative form)",
-            "በሳይንስ መረጃ አያስፈልግም። (Core concept alternative form)",
-            "ሁሉም ዘዴዎች ተመሳሳይ ናቸው። (Core concept alternative form)"
+            "የምርምር ዘዴዎችና መላምት፣ የመረጃ አሰባሰብና ስታትስቲክስ፣ ግኝቶችና ምክረ-ሀሳቦች፣ እንዲሁም አካዳሚክ ስነ-ምግባርና የአቻ ግምገማ ተካተዋል። (standard target expression for Unit 31 Grand Synthesis   Scholarly Research Defense)",
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (contextual contrast form in Unit 31 Grand Synthesis   Scholarly Research Defense)",
+            "በሳይንስ መረጃ አያስፈልግም። (formal register distinction for Unit 31 Grand Synthesis   Scholarly Research Defense)",
+            "ሁሉም ዘዴዎች ተመሳሳይ ናቸው። (colloquial conversational usage for Unit 31 Grand Synthesis   Scholarly Research Defense)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 31ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -15122,10 +15122,10 @@
         {
           "prompt": "አንድን ሀገር ወክሎ በሌላ ሀገር ውስጥ በቋሚነት የሚሰራ ከፍተኛ የዲፕሎማሲ መሪ ማን ይባላል?",
           "options": [
-            "አምባሳደር (Core concept key phrasing)",
-            "ነጋዴ (Core concept alternative form)",
-            "ተጓዥ (Core concept alternative form)",
-            "ጋዜጠኛ (Core concept alternative form)"
+            "አምባሳደር (standard target expression for Diplomatic Relations   Foreign Policy)",
+            "ነጋዴ (contextual contrast form in Diplomatic Relations   Foreign Policy)",
+            "ተጓዥ (formal register distinction for Diplomatic Relations   Foreign Policy)",
+            "ጋዜጠኛ (colloquial conversational usage for Diplomatic Relations   Foreign Policy)"
           ],
           "answerIndex": 0,
           "explanation": "«አምባሳደር» የሀገርን የውጭ ግንኙነት እና ጥቅም የሚመራ ዋና ዲፕሎማት ነው።"
@@ -15137,10 +15137,10 @@
         {
           "prompt": "'Foreign policy' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የውጭ ጉዳይ ፖሊሲ (Core concept key phrasing)",
-            "የቤት ውስጥ ደንብ (Core concept alternative form)",
-            "የትራፊክ መመሪያ (Core concept alternative form)",
-            "የከተማ ፕላን (Core concept alternative form)"
+            "የውጭ ጉዳይ ፖሊሲ (standard target expression for Diplomatic Relations   Foreign Policy)",
+            "የቤት ውስጥ ደንብ (contextual contrast form in Diplomatic Relations   Foreign Policy)",
+            "የትራፊክ መመሪያ (formal register distinction for Diplomatic Relations   Foreign Policy)",
+            "የከተማ ፕላን (colloquial conversational usage for Diplomatic Relations   Foreign Policy)"
           ],
           "answerIndex": 0,
           "explanation": "«የውጭ ጉዳይ ፖሊሲ» አንዲት ሀገር ከሌሎች ሀገራት ጋር ያላትን ግንኙነት የምትመራበት መመሪያ ነው።"
@@ -15153,10 +15153,10 @@
           "type": "multiple-choice",
           "prompt": "የዲፕሎማሲ እና የውጭ ጉዳይ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ዲፕሎማሲ፣ አምባሳደር፣ ኤምባሲ፣ የውጭ ጉዳይ ፖሊሲ እና ዲፕሎማት። (Core concept alternative form)",
-            "ወተት፣ ማር፣ ቅቤ እና እርጎ። (Core concept alternative form)",
-            "ጠረጴዛ፣ አልጋ እና ሶፋ። (Core concept alternative form)",
-            "በዲፕሎማሲ አምባሳደር የለም። (Core concept alternative form)"
+            "ዲፕሎማሲ፣ አምባሳደር፣ ኤምባሲ፣ የውጭ ጉዳይ ፖሊሲ እና ዲፕሎማት። (standard target expression for Diplomatic Relations   Foreign Policy)",
+            "ወተት፣ ማር፣ ቅቤ እና እርጎ። (contextual contrast form in Diplomatic Relations   Foreign Policy)",
+            "ጠረጴዛ፣ አልጋ እና ሶፋ። (formal register distinction for Diplomatic Relations   Foreign Policy)",
+            "በዲፕሎማሲ አምባሳደር የለም። (colloquial conversational usage for Diplomatic Relations   Foreign Policy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዲፕሎማሲ እና የውጭ ጉዳይ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15215,10 +15215,10 @@
         {
           "prompt": "በአዲስ አበባ ከተማ ዋና መቀመጫውን ያደረገውና መላውን አፍሪካ የሚያስተባብረው ታላቅ አህጉራዊ ድርጅት ማን ይባላል?",
           "options": [
-            "የአፍሪካ ህብረት (Core concept key phrasing)",
-            "የአውሮፓ ህብረት (Core concept alternative form)",
-            "የእስያ ማህበር (Core concept alternative form)",
-            "የአሜሪካ ድርጅት (Core concept alternative form)"
+            "የአፍሪካ ህብረት (standard target expression for African Union   Pan Africanism)",
+            "የአውሮፓ ህብረት (contextual contrast form in African Union   Pan Africanism)",
+            "የእስያ ማህበር (formal register distinction for African Union   Pan Africanism)",
+            "የአሜሪካ ድርጅት (colloquial conversational usage for African Union   Pan Africanism)"
           ],
           "answerIndex": 0,
           "explanation": "«የአፍሪካ ህብረት» ዋና መቀመጫው በአዲስ አበባ የሆነ አህጉራዊ ተቋም ነው።"
@@ -15230,10 +15230,10 @@
         {
           "prompt": "'Pan-Africanism' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ፓን-አፍሪካኒዝም (Core concept key phrasing)",
-            "ብቸኝነት (Core concept alternative form)",
-            "የጎሳ ክፍፍል (Core concept alternative form)",
-            "የአካባቢ ጠብ (Core concept alternative form)"
+            "ፓን-አፍሪካኒዝም (standard target expression for African Union   Pan Africanism)",
+            "ብቸኝነት (contextual contrast form in African Union   Pan Africanism)",
+            "የጎሳ ክፍፍል (formal register distinction for African Union   Pan Africanism)",
+            "የአካባቢ ጠብ (colloquial conversational usage for African Union   Pan Africanism)"
           ],
           "answerIndex": 0,
           "explanation": "«ፓን-አፍሪካኒዝም» መላው ጥቁር ህዝቦችና አፍሪካውያን በአንድነት እንዲተባበሩ የሚያስተምር እንቅስቃሴ ነው።"
@@ -15246,10 +15246,10 @@
           "type": "multiple-choice",
           "prompt": "የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የአፍሪካ ህብረት፣ ፓን-አፍሪካኒዝም፣ አዲስ አበባ፣ አህጉራዊ አንድነት እና ትብብር። (Core concept alternative form)",
-            "መኪና፣ ባቡር፣ አውቶቡስ እና ታክሲ። (Core concept alternative form)",
-            "ሸሚዝ፣ ሱሪ፣ ካፖርት እና ኮፍያ። (Core concept alternative form)",
-            "የአፍሪካ ህብረት አዲስ አበባ ውስጥ የለም። (Core concept alternative form)"
+            "የአፍሪካ ህብረት፣ ፓን-አፍሪካኒዝም፣ አዲስ አበባ፣ አህጉራዊ አንድነት እና ትብብር። (standard target expression for African Union   Pan Africanism)",
+            "መኪና፣ ባቡር፣ አውቶቡስ እና ታክሲ። (contextual contrast form in African Union   Pan Africanism)",
+            "ሸሚዝ፣ ሱሪ፣ ካፖርት እና ኮፍያ። (formal register distinction for African Union   Pan Africanism)",
+            "የአፍሪካ ህብረት አዲስ አበባ ውስጥ የለም። (colloquial conversational usage for African Union   Pan Africanism)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአፍሪካ ህብረት እና የአህጉራዊ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።"
@@ -15310,10 +15310,10 @@
         {
           "prompt": "በሁለት ሀገራት መካከል ብቻ የሚደረግ የዲፕሎማሲና የንግድ ድርድር ወይም ስምምነት ምን ይባላል?",
           "options": [
-            "የሁለትዮሽ ስምምነት (Core concept key phrasing)",
-            "የቤተሰብ ስምምነት (Core concept alternative form)",
-            "የውስጥ ደንብ (Core concept alternative form)",
-            "የግል ውል (Core concept alternative form)"
+            "የሁለትዮሽ ስምምነት (standard target expression for International Treaties   Bilateral Negotiations)",
+            "የቤተሰብ ስምምነት (contextual contrast form in International Treaties   Bilateral Negotiations)",
+            "የውስጥ ደንብ (formal register distinction for International Treaties   Bilateral Negotiations)",
+            "የግል ውል (colloquial conversational usage for International Treaties   Bilateral Negotiations)"
           ],
           "answerIndex": 0,
           "explanation": "«የሁለትዮሽ ስምምነት» በሁለት ሉዓላዊ ሀገራት መካከል የሚደረግ ውል ነው።"
@@ -15325,10 +15325,10 @@
         {
           "prompt": "'Treaty ratification' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ስምምነትን ማፅደቅ (Core concept alternative form)",
-            "ውል ማፍረስ (Core concept alternative form)",
-            "ስምምነት መካድ (Core concept alternative form)",
-            "ድርድር ማቋረጥ (Core concept alternative form)"
+            "ስምምነትን ማፅደቅ (standard target expression for International Treaties   Bilateral Negotiations)",
+            "ውል ማፍረስ (contextual contrast form in International Treaties   Bilateral Negotiations)",
+            "ስምምነት መካድ (formal register distinction for International Treaties   Bilateral Negotiations)",
+            "ድርድር ማቋረጥ (colloquial conversational usage for International Treaties   Bilateral Negotiations)"
           ],
           "answerIndex": 0,
           "explanation": "«ማፅደቅ» በህግ አውጪው አካል ዓለም አቀፍ ውልን ህጋዊ የማድረግ ሂደት ነው።"
@@ -15341,10 +15341,10 @@
           "type": "multiple-choice",
           "prompt": "የዓለም አቀፍ ስምምነቶች እና የድርድር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስምምነት፣ ውል፣ ድርድር፣ የሁለትዮሽ፣ ባለብዙ ወገን እና ማፅደቅ። (Core concept alternative form)",
-            "ቡና፣ ሻይ፣ ስኳር እና ወተት። (Core concept alternative form)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (Core concept alternative form)",
-            "በዲፕሎማሲ ድርድር የለም። (Core concept alternative form)"
+            "ስምምነት፣ ውል፣ ድርድር፣ የሁለትዮሽ፣ ባለብዙ ወገን እና ማፅደቅ። (standard target expression for International Treaties   Bilateral Negotiations)",
+            "ቡና፣ ሻይ፣ ስኳር እና ወተት። (contextual contrast form in International Treaties   Bilateral Negotiations)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (formal register distinction for International Treaties   Bilateral Negotiations)",
+            "በዲፕሎማሲ ድርድር የለም። (colloquial conversational usage for International Treaties   Bilateral Negotiations)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዓለም አቀፍ ስምምነቶች እና የድርድር ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15403,10 +15403,10 @@
         {
           "prompt": "በተባበሩት መንግስታት ስር በጦርነት ቀጠናዎች ውስጥ ሰላምን እና ደህንነትን ለመጠበቅ የሚሰማራ ኃይል ምን ይባላል?",
           "options": [
-            "የሰላም አስከባሪ ኃይል (Core concept key phrasing)",
-            "የወረራ ኃይል (Core concept alternative form)",
-            "የሽምቅ ተዋጊ (Core concept alternative form)",
-            "የንግድ ቡድን (Core concept alternative form)"
+            "የሰላም አስከባሪ ኃይል (standard target expression for Peacekeeping Missions   Global Statecraft)",
+            "የወረራ ኃይል (contextual contrast form in Peacekeeping Missions   Global Statecraft)",
+            "የሽምቅ ተዋጊ (formal register distinction for Peacekeeping Missions   Global Statecraft)",
+            "የንግድ ቡድን (colloquial conversational usage for Peacekeeping Missions   Global Statecraft)"
           ],
           "answerIndex": 0,
           "explanation": "«የሰላም አስከባሪ ኃይል» በዓለም አቀፍ ተልዕኮ ህዝብንና ሰላምን የሚጠብቅ ሰራዊት ነው።"
@@ -15418,10 +15418,10 @@
         {
           "prompt": "'Peacekeeping mission' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የሰላም ማስከበር ተልዕኮ (Core concept key phrasing)",
-            "የጦርነት አዋጅ (Core concept alternative form)",
-            "የዘመቻ ጥሪ (Core concept alternative form)",
-            "የሽያጭ ማስታወቂያ (Core concept alternative form)"
+            "የሰላም ማስከበር ተልዕኮ (standard target expression for Peacekeeping Missions   Global Statecraft)",
+            "የጦርነት አዋጅ (contextual contrast form in Peacekeeping Missions   Global Statecraft)",
+            "የዘመቻ ጥሪ (formal register distinction for Peacekeeping Missions   Global Statecraft)",
+            "የሽያጭ ማስታወቂያ (colloquial conversational usage for Peacekeeping Missions   Global Statecraft)"
           ],
           "answerIndex": 0,
           "explanation": "«የሰላም ማስከበር ተልዕኮ» ዓለም አቀፍ ሰላምን ለማረጋገጥ የሚደረግ የተቀናጀ ጥረት ነው።"
@@ -15434,10 +15434,10 @@
           "type": "multiple-choice",
           "prompt": "የሰላም ማስከበር እና የዓለም አቀፍ ተልዕኮ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የሰላም ማስከበር፣ ተልዕኮ፣ የተባበሩት መንግስታት፣ የጸጥታ ምክር ቤት እና ሰብአዊ እርዳታ። (Core concept alternative form)",
-            "ወረቀት፣ ብዕር፣ ደብተር እና ቀለም። (Core concept alternative form)",
-            "ጠረጴዛ፣ ወንበር እና ቁምሳጥን። (Core concept alternative form)",
-            "በሰላም ማስከበር ተልዕኮ የለም። (Core concept alternative form)"
+            "የሰላም ማስከበር፣ ተልዕኮ፣ የተባበሩት መንግስታት፣ የጸጥታ ምክር ቤት እና ሰብአዊ እርዳታ። (standard target expression for Peacekeeping Missions   Global Statecraft)",
+            "ወረቀት፣ ብዕር፣ ደብተር እና ቀለም። (contextual contrast form in Peacekeeping Missions   Global Statecraft)",
+            "ጠረጴዛ፣ ወንበር እና ቁምሳጥን። (formal register distinction for Peacekeeping Missions   Global Statecraft)",
+            "በሰላም ማስከበር ተልዕኮ የለም። (colloquial conversational usage for Peacekeeping Missions   Global Statecraft)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰላም ማስከበር እና የዓለም አቀፍ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።"
@@ -15498,10 +15498,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ዲፕሎማሲ እና የዓለም አቀፍ ግንኙነት ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "ኢትዮጵያ በአፍሪካ ህብረት መዲናነቷ እና በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎቿ ታላቅ የዲፕሎማሲ አሻራ አላት። (eet-yoh-P'EE-yah beh-ah-fuh-ree-KAH hub-RET meh-deen-nahn-NET-wah un-nah beh-ah-LEM ah-K'EF yeh-seh-LAHM ahs-keh-BAHR tel-uh-koh-WOHCH-chuh-wah tah-LAHK' yeh-deep-loh-mah-SEE ah-shah-RAH ahl-LAHT)",
-            "ምንም ዲፕሎማሲ የለም (Core concept alternative form)",
-            "ሁሉም ተራ ወሬ ነው (Core concept alternative form)",
-            "ኤምባሲ የለም (Core concept alternative form)"
+            "ኢትዮጵያ በአፍሪካ ህብረት መዲናነቷ እና በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎቿ ታላቅ የዲፕሎማሲ አሻራ አላት። (Ityop’əya bä’Afərika Həbrät mädinnannätəwa ənna bä’aläm aqäf yäsälam askäbar täl’əkowoččəwa talaq yädiplomasi ašara allat. ʔitjoˈpʼɨja bəʔafɨriˈka hɨbrət mədinanːəˈtɨwa ʔɨnːa bəʔaˈlɛm ʔaˈkʼɛf jəsəˈlam ʔaskəˈbar təlʔɨkoˈwotʃːɨwa taˈlakʼ jədiploˈmasi ʔaʃaˈra ʔalːat eet-yoh-P'EE-yah beh-ah-fuh-ree-KAH hub-RET meh-deen-nahn-NET-wah un-nah beh-ah-LEM ah-K'EF yeh-seh-LAHM ahs-keh-BAHR tel-uh-koh-WOHCH-chuh-wah tah-LAHK' yeh-deep-loh-mah-SEE ah-shah-RAH ahl-LAHT — Ethiopia possesses a grand diplomatic footprint through its status as the African Union capital and its international peacekeeping missions.)",
+            "ምንም ዲፕሎማሲ የለም (contextual contrast form in Unit 32 Grand Synthesis   Ethiopian Diplomatic History)",
+            "ሁሉም ተራ ወሬ ነው (formal register distinction for Unit 32 Grand Synthesis   Ethiopian Diplomatic History)",
+            "ኤምባሲ የለም (colloquial conversational usage for Unit 32 Grand Synthesis   Ethiopian Diplomatic History)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የአፍሪካ ህብረትን፣ ዲፕሎማሲንና የሰላም ማስከበርን በአንድነት ያጠቃለለ ነው።"
@@ -15513,10 +15513,10 @@
         {
           "prompt": "የዲፕሎማሲያዊ ግንኙነትን እና ዓለም አቀፍ ስምምነቶችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "አምባሳደሮቹ በሁለትዮሽ ድርድር ታሪካዊ የሰላም እና የንግድ ስምምነት ተፈራረሙ። (Core concept alternative form)",
-            "ምንም ውይይት አልተደረገም (Core concept alternative form)",
-            "ስምምነት አያስፈልግም (Core concept alternative form)",
-            "ድርድር የለም (Core concept alternative form)"
+            "አምባሳደሮቹ በሁለትዮሽ ድርድር ታሪካዊ የሰላም እና የንግድ ስምምነት ተፈራረሙ። (standard target expression for Unit 32 Grand Synthesis   Ethiopian Diplomatic History)",
+            "ምንም ውይይት አልተደረገም (contextual contrast form in Unit 32 Grand Synthesis   Ethiopian Diplomatic History)",
+            "ስምምነት አያስፈልግም (formal register distinction for Unit 32 Grand Synthesis   Ethiopian Diplomatic History)",
+            "ድርድር የለም (colloquial conversational usage for Unit 32 Grand Synthesis   Ethiopian Diplomatic History)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ዲፕሎማሲያዊ ግንኙነትን እና ህጋዊ ስምምነቶችን በትክክል ያዛምዳል።"
@@ -15529,10 +15529,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 32 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የዲፕሎማሲያዊ ግንኙነትና ኤምባሲ፣ የአፍሪካ ህብረትና ፓን-አፍሪካኒዝም፣ ዓለም አቀፍ ስምምነቶችና ድርድሮች፣ እንዲሁም የሰላም ማስከበር ተልዕኮዎች ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Core concept alternative form)",
-            "በዓለም አቀፍ ግንኙነት ህግ የለም። (Core concept alternative form)",
-            "ሁሉም ሀገራት አንድ አይነት ናቸው። (Core concept alternative form)"
+            "የዲፕሎማሲያዊ ግንኙነትና ኤምባሲ፣ የአፍሪካ ህብረትና ፓን-አፍሪካኒዝም፣ ዓለም አቀፍ ስምምነቶችና ድርድሮች፣ እንዲሁም የሰላም ማስከበር ተልዕኮዎች ተካተዋል። (standard target expression for Unit 32 Grand Synthesis   Ethiopian Diplomatic History)",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (contextual contrast form in Unit 32 Grand Synthesis   Ethiopian Diplomatic History)",
+            "በዓለም አቀፍ ግንኙነት ህግ የለም። (formal register distinction for Unit 32 Grand Synthesis   Ethiopian Diplomatic History)",
+            "ሁሉም ሀገራት አንድ አይነት ናቸው። (colloquial conversational usage for Unit 32 Grand Synthesis   Ethiopian Diplomatic History)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 32ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -15591,10 +15591,10 @@
         {
           "prompt": "በአማርኛ ስነ-ግጥም ውስጥ ላዩን ግልጽ አድርጎ የውስጡን ጥልቅና ድብቅ መልእክት የማስተላለፍ ጥበብ ምን ይባላል?",
           "options": [
-            "ሰምና ወርቅ (Core concept key phrasing)",
-            "ቀጥተኛ ንግግር (Core concept alternative form)",
-            "ተራ ቃላት (Core concept alternative form)",
-            "ስድብ (Core concept alternative form)"
+            "ሰምና ወርቅ (standard target expression for Wax   Gold Sem  nna W rq Poetics)",
+            "ቀጥተኛ ንግግር (contextual contrast form in Wax   Gold Sem  nna W rq Poetics)",
+            "ተራ ቃላት (formal register distinction for Wax   Gold Sem  nna W rq Poetics)",
+            "ስድብ (colloquial conversational usage for Wax   Gold Sem  nna W rq Poetics)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰምና ወርቅ» ውጫዊውን (ሰም) እና ውስጣዊውን (ወርቅ) አጣምሮ የያዘ የላቀ ስነ-ጽሁፋዊ ዘይቤ ነው።"
@@ -15606,10 +15606,10 @@
         {
           "prompt": "'Double-entendre, dual meaning' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ህብር / ድርብ ትርጉም (Core concept alternative form)",
-            "አንድ ትርጉም (Core concept alternative form)",
-            "የተሳሳተ ቃል (Core concept alternative form)",
-            "ትርጉም አልባ (Core concept alternative form)"
+            "ህብር / ድርብ ትርጉም (standard target expression for Wax   Gold Sem  nna W rq Poetics)",
+            "አንድ ትርጉም (contextual contrast form in Wax   Gold Sem  nna W rq Poetics)",
+            "የተሳሳተ ቃል (formal register distinction for Wax   Gold Sem  nna W rq Poetics)",
+            "ትርጉም አልባ (colloquial conversational usage for Wax   Gold Sem  nna W rq Poetics)"
           ],
           "answerIndex": 0,
           "explanation": "«ህብር» ወይም ድርብ ትርጉም በአንድ ቃል ውስጥ ሁለት የተለያዩ መልእክቶችን የማስተላለፍ ጥበብ ነው።"
@@ -15622,10 +15622,10 @@
           "type": "multiple-choice",
           "prompt": "የሰምና ወርቅ እና የቅኔ ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ድርብ ትርጉም እና ምስጢር። (Core concept alternative form)",
-            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Core concept alternative form)",
-            "ጠረጴዛ፣ ወንበር እና በር። (Core concept alternative form)",
-            "በአማርኛ ቅኔ የለም። (Core concept alternative form)"
+            "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ድርብ ትርጉም እና ምስጢር። (standard target expression for Wax   Gold Sem  nna W rq Poetics)",
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (contextual contrast form in Wax   Gold Sem  nna W rq Poetics)",
+            "ጠረጴዛ፣ ወንበር እና በር። (formal register distinction for Wax   Gold Sem  nna W rq Poetics)",
+            "በአማርኛ ቅኔ የለም። (colloquial conversational usage for Wax   Gold Sem  nna W rq Poetics)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰምና ወርቅ ቅኔ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -15684,10 +15684,10 @@
         {
           "prompt": "«ድር ቢያብር አንበሳ ያስር» የሚለው የአማርኛ አባባል በምን አይነት የስነ-ጽሑፍ ዘውግ ይመደባል?",
           "options": [
-            "ምሳሌያዊ አነጋገር (Core concept key phrasing)",
-            "የዜና ዘገባ (Core concept alternative form)",
-            "የህግ ድንጋጌ (Core concept alternative form)",
-            "የሂሳብ ቀመር (Core concept alternative form)"
+            "ምሳሌያዊ አነጋገር (standard target expression for Proverbs   Idiomatic Expressions)",
+            "የዜና ዘገባ (contextual contrast form in Proverbs   Idiomatic Expressions)",
+            "የህግ ድንጋጌ (formal register distinction for Proverbs   Idiomatic Expressions)",
+            "የሂሳብ ቀመር (colloquial conversational usage for Proverbs   Idiomatic Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አባባል የአንድነትን ጥቅም የሚያስተምር ጥንታዊ ምሳሌያዊ አነጋገር ነው።"
@@ -15699,10 +15699,10 @@
         {
           "prompt": "'Idiomatic expression' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ፈሊጣዊ አነጋገር (Core concept key phrasing)",
-            "ቀጥተኛ ትርጉም (Core concept alternative form)",
-            "የፊደል ስህተት (Core concept alternative form)",
-            "ተራ ድምፅ (Core concept alternative form)"
+            "ፈሊጣዊ አነጋገር (standard target expression for Proverbs   Idiomatic Expressions)",
+            "ቀጥተኛ ትርጉም (contextual contrast form in Proverbs   Idiomatic Expressions)",
+            "የፊደል ስህተት (formal register distinction for Proverbs   Idiomatic Expressions)",
+            "ተራ ድምፅ (colloquial conversational usage for Proverbs   Idiomatic Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "«ፈሊጣዊ አነጋገር» ቃላቱ ከቀጥተኛ ትርጉማቸው ውጭ ልዩ ባህላዊ መልእክት የሚያስተላልፉበት መንገድ ነው።"
@@ -15715,10 +15715,10 @@
           "type": "multiple-choice",
           "prompt": "የፈሊጥ እና የምሳሌያዊ አነጋገር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ምሳሌያዊ አነጋገር፣ ፈሊጥ፣ ተረትና ምሳሌ፣ ጥበብ እና አባባል። (Core concept alternative form)",
-            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (Core concept alternative form)",
-            "ፈረስ፣ በቅሎ እና አህያ። (Core concept alternative form)",
-            "በአማርኛ ምሳሌያዊ አነጋገር የለም። (Core concept alternative form)"
+            "ምሳሌያዊ አነጋገር፣ ፈሊጥ፣ ተረትና ምሳሌ፣ ጥበብ እና አባባል። (standard target expression for Proverbs   Idiomatic Expressions)",
+            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (contextual contrast form in Proverbs   Idiomatic Expressions)",
+            "ፈረስ፣ በቅሎ እና አህያ። (formal register distinction for Proverbs   Idiomatic Expressions)",
+            "በአማርኛ ምሳሌያዊ አነጋገር የለም። (colloquial conversational usage for Proverbs   Idiomatic Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምሳሌያዊ አነጋገሮች እና የፈሊጥ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15777,10 +15777,10 @@
         {
           "prompt": "ንግግርን በሚገባ አሳምሮ የሚናገር፣ ቃላትን የሚያውቅና ህዝብን የማሳመን ችሎታ ያለው ሰው ምን ይባላል?",
           "options": [
-            "አንደበተ ርቱዕ (Core concept key phrasing)",
-            "ዲዳ (Core concept alternative form)",
-            "ዝምተኛ (Core concept alternative form)",
-            "ተመልካች (Core concept alternative form)"
+            "አንደበተ ርቱዕ (standard target expression for Public Oratory   Persuasive Rhetoric)",
+            "ዲዳ (contextual contrast form in Public Oratory   Persuasive Rhetoric)",
+            "ዝምተኛ (formal register distinction for Public Oratory   Persuasive Rhetoric)",
+            "ተመልካች (colloquial conversational usage for Public Oratory   Persuasive Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "«አንደበተ ርቱዕ» በንግግር ችሎታው እና በማሳመን ጥበቡ የተመሰገነ ተናጋሪ ነው።"
@@ -15792,10 +15792,10 @@
         {
           "prompt": "'Persuasive speech' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "አሳማኝ ንግግር (Core concept key phrasing)",
-            "ተራ ወሬ (Core concept alternative form)",
-            "የስልክ ጥሪ (Core concept alternative form)",
-            "ጩኸት (Core concept alternative form)"
+            "አሳማኝ ንግግር (standard target expression for Public Oratory   Persuasive Rhetoric)",
+            "ተራ ወሬ (contextual contrast form in Public Oratory   Persuasive Rhetoric)",
+            "የስልክ ጥሪ (formal register distinction for Public Oratory   Persuasive Rhetoric)",
+            "ጩኸት (colloquial conversational usage for Public Oratory   Persuasive Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "«አሳማኝ ንግግር» በአድማጮች ልብ እና አእምሮ ላይ ተጽዕኖ የሚያሳድር የተዋቀረ ንግግር ነው።"
@@ -15808,10 +15808,10 @@
           "type": "multiple-choice",
           "prompt": "የአደባባይ ንግግር እና የማሳመን ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "አደባባይ ንግግር፣ አንደበተ ርቱዕ፣ ማሳመን፣ ቅላጼ እና አድማጭ። (Core concept alternative form)",
-            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (Core concept alternative form)",
-            "ሰዓት፣ ቴሌቪዥን እና ሬዲዮ። (Core concept alternative form)",
-            "በአደባባይ ንግግር አይደረግም። (Core concept alternative form)"
+            "አደባባይ ንግግር፣ አንደበተ ርቱዕ፣ ማሳመን፣ ቅላጼ እና አድማጭ። (standard target expression for Public Oratory   Persuasive Rhetoric)",
+            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (contextual contrast form in Public Oratory   Persuasive Rhetoric)",
+            "ሰዓት፣ ቴሌቪዥን እና ሬዲዮ። (formal register distinction for Public Oratory   Persuasive Rhetoric)",
+            "በአደባባይ ንግግር አይደረግም። (colloquial conversational usage for Public Oratory   Persuasive Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአደባባይ ንግግር እና የማሳመን ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15870,10 +15870,10 @@
         {
           "prompt": "አንድን ነገር ከሌላ ነገር ጋር በባህሪ ወይም በመልክ በማነጻጸር የሚገለጽ የስነ-ጽሑፍ ዘዴ ምን ይባላል?",
           "options": [
-            "ዘይቤ / ማነጻጸሪያ (Core concept alternative form)",
-            "ተራ መግለጫ (Core concept alternative form)",
-            "የቁጥር ሰንጠረዥ (Core concept alternative form)",
-            "የሳይንስ ቀመር (Core concept alternative form)"
+            "ዘይቤ / ማነጻጸሪያ (standard target expression for Literary Metaphor   Stylistics)",
+            "ተራ መግለጫ (contextual contrast form in Literary Metaphor   Stylistics)",
+            "የቁጥር ሰንጠረዥ (formal register distinction for Literary Metaphor   Stylistics)",
+            "የሳይንስ ቀመር (colloquial conversational usage for Literary Metaphor   Stylistics)"
           ],
           "answerIndex": 0,
           "explanation": "«ዘይቤ» እና «ማነጻጸሪያ» ሀሳብን በውበት እና በምስል ለማቅረብ የሚረዱ የስነ-ጽሁፍ መሳሪያዎች ናቸው።"
@@ -15885,10 +15885,10 @@
         {
           "prompt": "'Symbolism, allegorical emblem' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተምሳሌት (Core concept key phrasing)",
-            "ስህተት (Core concept alternative form)",
-            "ድብቅ ቃል (Core concept alternative form)",
-            "ቀጥተኛ ትርጉም (Core concept alternative form)"
+            "ተምሳሌት (standard target expression for Literary Metaphor   Stylistics)",
+            "ስህተት (contextual contrast form in Literary Metaphor   Stylistics)",
+            "ድብቅ ቃል (formal register distinction for Literary Metaphor   Stylistics)",
+            "ቀጥተኛ ትርጉም (colloquial conversational usage for Literary Metaphor   Stylistics)"
           ],
           "answerIndex": 0,
           "explanation": "«ተምሳሌት» አንድን ረቂቅ ሀሳብ በተጨባጭ ምስል ወክሎ የማቅረብ ጥበብ ነው።"
@@ -15901,10 +15901,10 @@
           "type": "multiple-choice",
           "prompt": "የዘይቤ እና የስነ-ጽሑፍ ውበት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ዘይቤ፣ ተምሳሌት፣ ማነጻጸሪያ፣ ስነ-ጽሑፋዊ ውበት እና ምናብ። (Core concept alternative form)",
-            "ጠረጴዛ፣ አልጋ፣ ምንጣፍ እና መጋረጃ። (Core concept alternative form)",
-            "ዳቦ፣ ወተት፣ ቅቤ እና ማር። (Core concept alternative form)",
-            "በስነ-ጽሑፍ ዘይቤ የለም። (Core concept alternative form)"
+            "ዘይቤ፣ ተምሳሌት፣ ማነጻጸሪያ፣ ስነ-ጽሑፋዊ ውበት እና ምናብ። (standard target expression for Literary Metaphor   Stylistics)",
+            "ጠረጴዛ፣ አልጋ፣ ምንጣፍ እና መጋረጃ። (contextual contrast form in Literary Metaphor   Stylistics)",
+            "ዳቦ፣ ወተት፣ ቅቤ እና ማር። (formal register distinction for Literary Metaphor   Stylistics)",
+            "በስነ-ጽሑፍ ዘይቤ የለም። (colloquial conversational usage for Literary Metaphor   Stylistics)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዘይቤ እና የስነ-ጽሑፍ ውበት ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15963,10 +15963,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሰምና ወርቅ፣ የፈሊጥ እና የአደባባይ ንግግር ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "አንደበተ ርቱዕ ተናጋሪው ሰምና ወርቅን፣ ፈሊጦችንና ዘይቤዎችን አዋህዶ ያቀረበው ንግግር የአድማጮቹን ልብ ማረከ። (ahn-duh-beh-teh ruh-TOO teh-nah-gah-REE-woo SEM un-nah WERK'-un, feh-lee-t'OHCH-chun un-nah zay-bay-WOHCH-chun ah-wah-huh-DOH yah-k'er-reh-BEW nuh-guh-GUR yeh-ah-duh-mah-CH'OHCH-choon lubb MAHR-reh-keh)",
-            "ምንም ንግግር አልተደረገም (Core concept alternative form)",
-            "ሁሉም ተራ ቃላት ናቸው (Core concept alternative form)",
-            "ቅኔ የለም (Core concept alternative form)"
+            "አንደበተ ርቱዕ ተናጋሪው ሰምና ወርቅን፣ ፈሊጦችንና ዘይቤዎችን አዋህዶ ያቀረበው ንግግር የአድማጮቹን ልብ ማረከ። (Anədäbätä rətu’ tänagariw säm ənna wärqən, fälit’oččən ənna zäybewoččən awahədo yaqärräbäw nəgəgər yä’adəmač’oččun ləbb marräkä. ʔanɨdəbətə rɨtuʔ tənagaˈriw səm ʔɨnːa wərˈkʼɨn, fəlitʼoˈtʃːɨn ʔɨnːa zəjbeˈwotʃːɨn ʔawahɨˈdo jakʼɛrːəˈbəw nɨɡɨˈɡɨr jəʔadɨmaˈtʃʼotʃːun lɨbː maˈrːəkə ahn-duh-beh-teh ruh-TOO teh-nah-gah-REE-woo SEM un-nah WERK'-un, feh-lee-t'OHCH-chun un-nah zay-bay-WOHCH-chun ah-wah-huh-DOH yah-k'er-reh-BEW nuh-guh-GUR yeh-ah-duh-mah-CH'OHCH-choon lubb MAHR-reh-keh — The eloquent orator's speech, synthesizing Wax and Gold, idioms, and metaphors, captivated the audience's hearts.)",
+            "ምንም ንግግር አልተደረገም (contextual contrast form in Unit 33 Grand Synthesis   Rhetorical Mastery)",
+            "ሁሉም ተራ ቃላት ናቸው (formal register distinction for Unit 33 Grand Synthesis   Rhetorical Mastery)",
+            "ቅኔ የለም (colloquial conversational usage for Unit 33 Grand Synthesis   Rhetorical Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ሰምና ወርቅን፣ ፈሊጦችን፣ ዘይቤዎችንና አንደበተ-ርቱዕነትን በአንድነት ያጠቃለለ ነው።"
@@ -15978,10 +15978,10 @@
         {
           "prompt": "የቅኔ ጥበብን እና ዘይቤያዊ ውበትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ገጣሚው በሰምና ወርቅ እና በተምሳሌታዊ ዘይቤ የተዋበ ድንቅ ቅኔ ተቀኘ። (Core concept alternative form)",
-            "ምንም ግጥም አልተጻፈም (Core concept alternative form)",
-            "ዘይቤ አያስፈልግም (Core concept alternative form)",
-            "ቃላት የሉም (Core concept alternative form)"
+            "ገጣሚው በሰምና ወርቅ እና በተምሳሌታዊ ዘይቤ የተዋበ ድንቅ ቅኔ ተቀኘ። (standard target expression for Unit 33 Grand Synthesis   Rhetorical Mastery)",
+            "ምንም ግጥም አልተጻፈም (contextual contrast form in Unit 33 Grand Synthesis   Rhetorical Mastery)",
+            "ዘይቤ አያስፈልግም (formal register distinction for Unit 33 Grand Synthesis   Rhetorical Mastery)",
+            "ቃላት የሉም (colloquial conversational usage for Unit 33 Grand Synthesis   Rhetorical Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የሰምና ወርቅ ቅኔን እና ዘይቤያዊ ውበትን በትክክል ያዛምዳል።"
@@ -15994,10 +15994,10 @@
           "type": "multiple-choice",
           "prompt": "የክፍል 33 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የሰምና ወርቅ ቅኔ ጥበብ፣ ፈሊጣዊና ምሳሌያዊ አነጋገሮች፣ የአደባባይ ንግግርና ማሳመን፣ እንዲሁም ዘይቤያዊ አገላለጾች ተካተዋል። (Core concept alternative form)",
-            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (Core concept alternative form)",
-            "በአማርኛ ስነ-ጽሑፍ የለም። (Core concept alternative form)",
-            "ሁሉም ፈሊጦች ተመሳሳይ ናቸው። (Core concept alternative form)"
+            "የሰምና ወርቅ ቅኔ ጥበብ፣ ፈሊጣዊና ምሳሌያዊ አነጋገሮች፣ የአደባባይ ንግግርና ማሳመን፣ እንዲሁም ዘይቤያዊ አገላለጾች ተካተዋል። (standard target expression for Unit 33 Grand Synthesis   Rhetorical Mastery)",
+            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (contextual contrast form in Unit 33 Grand Synthesis   Rhetorical Mastery)",
+            "በአማርኛ ስነ-ጽሑፍ የለም። (formal register distinction for Unit 33 Grand Synthesis   Rhetorical Mastery)",
+            "ሁሉም ፈሊጦች ተመሳሳይ ናቸው። (colloquial conversational usage for Unit 33 Grand Synthesis   Rhetorical Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 33ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -16056,10 +16056,10 @@
         {
           "prompt": "ዲፕሎማቶች በተልዕኮ ሀገራቸው ውስጥ በሚሰሩበት ወቅት ከህጋዊ ክስ ነፃ የሚያደርጋቸው ዓለም አቀፍ መብት ምን ይባላል?",
           "options": [
-            "ያለመከሰስ መብት (1961  1969 key phrasing)",
-            "የጉዞ ፈቃድ (1961  1969 alternative form)",
-            "የንግድ ፈቃድ (1961  1969 alternative form)",
-            "የቀረጥ ነፃ ካርድ (1961  1969 alternative form)"
+            "ያለመከሰስ መብት (standard target expression for Vienna Convention   Diplomatic Immunity)",
+            "የጉዞ ፈቃድ (contextual contrast form in Vienna Convention   Diplomatic Immunity)",
+            "የንግድ ፈቃድ (formal register distinction for Vienna Convention   Diplomatic Immunity)",
+            "የቀረጥ ነፃ ካርድ (colloquial conversational usage for Vienna Convention   Diplomatic Immunity)"
           ],
           "answerIndex": 0,
           "explanation": "«ያለመከሰስ መብት» ዲፕሎማቶች ስራቸውን ያለ ጫና እንዲያከናውኑ የሚያስችል ዓለም አቀፍ ህጋዊ ጥበቃ ነው።"
@@ -16071,10 +16071,10 @@
         {
           "prompt": "'Vienna Convention' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "የቪየና ስምምነት (1961  1969 key phrasing)",
-            "የከተማ ደንብ (1961  1969 alternative form)",
-            "የስፖርት ህግ (1961  1969 alternative form)",
-            "የትምህርት መመሪያ (1961  1969 alternative form)"
+            "የቪየና ስምምነት (standard target expression for Vienna Convention   Diplomatic Immunity)",
+            "የከተማ ደንብ (contextual contrast form in Vienna Convention   Diplomatic Immunity)",
+            "የስፖርት ህግ (formal register distinction for Vienna Convention   Diplomatic Immunity)",
+            "የትምህርት መመሪያ (colloquial conversational usage for Vienna Convention   Diplomatic Immunity)"
           ],
           "answerIndex": 0,
           "explanation": "«የቪየና ስምምነት» ዓለም አቀፍ የዲፕሎማሲ እና የውል ግንኙነቶችን የሚገዛ ዋና ስምምነት ነው።"
@@ -16087,10 +16087,10 @@
           "type": "multiple-choice",
           "prompt": "የቪየና ስምምነት እና ዓለም አቀፍ ህግጋትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "የቪየና ስምምነት፣ ዓለም አቀፍ ህግ፣ ያለመከሰስ መብት፣ የዲፕሎማሲ ጥበቃ እና ሉዓላዊነት። (1961  1969 alternative form)",
-            "ቡና፣ ሻይ፣ ስኳር እና ዳቦ። (1961  1969 alternative form)",
-            "ልብስ፣ ጫማ እና ካፖርት። (1961  1969 alternative form)",
-            "በዲፕሎማሲ ህግ የለም። (1961  1969 alternative form)"
+            "የቪየና ስምምነት፣ ዓለም አቀፍ ህግ፣ ያለመከሰስ መብት፣ የዲፕሎማሲ ጥበቃ እና ሉዓላዊነት። (standard target expression for Vienna Convention   Diplomatic Immunity)",
+            "ቡና፣ ሻይ፣ ስኳር እና ዳቦ። (contextual contrast form in Vienna Convention   Diplomatic Immunity)",
+            "ልብስ፣ ጫማ እና ካፖርት። (formal register distinction for Vienna Convention   Diplomatic Immunity)",
+            "በዲፕሎማሲ ህግ የለም። (colloquial conversational usage for Vienna Convention   Diplomatic Immunity)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የቪየና ስምምነት እና የዲፕሎማሲ ህግጋትን ቁልፍ ቃላት በሙሉ ይዟል።"
@@ -16151,10 +16151,10 @@
         {
           "prompt": "በኢትዮጵያ ስነ-ጽሑፍ ታሪክ ውስጥ በብራና ላይ ይጻፉ የነበሩ የነገሥታት እና የታሪክ መዝገቦች ምን ይባላሉ?",
           "options": [
-            "ዜና መዋዕል (Core concept key phrasing)",
-            "የዜና ጋዜጣ (Core concept alternative form)",
-            "የንግድ ሰነድ (Core concept alternative form)",
-            "የመንገድ ካርታ (Core concept alternative form)"
+            "ዜና መዋዕል (standard target expression for History of Amharic Literature)",
+            "የዜና ጋዜጣ (contextual contrast form in History of Amharic Literature)",
+            "የንግድ ሰነድ (formal register distinction for History of Amharic Literature)",
+            "የመንገድ ካርታ (colloquial conversational usage for History of Amharic Literature)"
           ],
           "answerIndex": 0,
           "explanation": "«ዜና መዋዕል» የነገሥታቱን ታሪክና የዘመኑን ክስተቶች የሚመዘግቡ ጥንታዊ የብራና ድርሰቶች ናቸው።"
@@ -16166,10 +16166,10 @@
         {
           "prompt": "'Modern novel' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ዘመናዊ ልብወለድ (Core concept key phrasing)",
-            "ጥንታዊ ዝማሬ (Core concept alternative form)",
-            "የህግ መመሪያ (Core concept alternative form)",
-            "የህክምና ማዘዣ (Core concept alternative form)"
+            "ዘመናዊ ልብወለድ (standard target expression for History of Amharic Literature)",
+            "ጥንታዊ ዝማሬ (contextual contrast form in History of Amharic Literature)",
+            "የህግ መመሪያ (formal register distinction for History of Amharic Literature)",
+            "የህክምና ማዘዣ (colloquial conversational usage for History of Amharic Literature)"
           ],
           "answerIndex": 0,
           "explanation": "«ዘመናዊ ልብወለድ» ገጸ-ባህሪያትንና ታሪክን አዋቅሮ የሚቀርብ የስነ-ጽሑፍ ዘውግ ነው።"
@@ -16182,10 +16182,10 @@
           "type": "multiple-choice",
           "prompt": "የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ስነ-ጽሑፍ፣ ብራና፣ ዜና መዋዕል፣ ልብወለድ እና ድርሰት። (Core concept alternative form)",
-            "ወንበር፣ ጠረጴዛ፣ አልጋ እና ቁምሳጥን። (Core concept alternative form)",
-            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር። (Core concept alternative form)",
-            "በኢትዮጵያ ስነ-ጽሑፍ አልነበረም። (Core concept alternative form)"
+            "ስነ-ጽሑፍ፣ ብራና፣ ዜና መዋዕል፣ ልብወለድ እና ድርሰት። (standard target expression for History of Amharic Literature)",
+            "ወንበር፣ ጠረጴዛ፣ አልጋ እና ቁምሳጥን። (contextual contrast form in History of Amharic Literature)",
+            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር። (formal register distinction for History of Amharic Literature)",
+            "በኢትዮጵያ ስነ-ጽሑፍ አልነበረም። (colloquial conversational usage for History of Amharic Literature)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የኢትዮጵያ ስነ-ጽሑፍ ታሪክ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -16244,10 +16244,10 @@
         {
           "prompt": "በጽሁፍ ሳይሆን በአፈ-ታሪክ፣ በተረትና በዜማ ከትውልድ ወደ ትውልድ የሚተላለፍ የባህል ሀብት ምን ይባላል?",
           "options": [
-            "ስነ-ቃል (Core concept key phrasing)",
-            "የህግ መጽሐፍ (Core concept alternative form)",
-            "የባንክ ሰነድ (Core concept alternative form)",
-            "የሳይንስ መጽሔት (Core concept alternative form)"
+            "ስነ-ቃል (standard target expression for Cultural Synthesis   National Heritage)",
+            "የህግ መጽሐፍ (contextual contrast form in Cultural Synthesis   National Heritage)",
+            "የባንክ ሰነድ (formal register distinction for Cultural Synthesis   National Heritage)",
+            "የሳይንስ መጽሔት (colloquial conversational usage for Cultural Synthesis   National Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-ቃል» በአፍ የሚነገሩ ተረቶችን፣ ዘፈኖችንና ምሳሌዎችን የያዘ የባህል ቅርስ ነው።"
@@ -16259,10 +16259,10 @@
         {
           "prompt": "'National heritage' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ብሔራዊ ቅርስ (Core concept key phrasing)",
-            "የግል ንብረት (Core concept alternative form)",
-            "የንግድ እቃ (Core concept alternative form)",
-            "ተራ ቦታ (Core concept alternative form)"
+            "ብሔራዊ ቅርስ (standard target expression for Cultural Synthesis   National Heritage)",
+            "የግል ንብረት (contextual contrast form in Cultural Synthesis   National Heritage)",
+            "የንግድ እቃ (formal register distinction for Cultural Synthesis   National Heritage)",
+            "ተራ ቦታ (colloquial conversational usage for Cultural Synthesis   National Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "«ብሔራዊ ቅርስ» የመላው ሀገር እና ህዝብ የጋራ ታሪካዊና ባህላዊ ሀብት ነው።"
@@ -16275,10 +16275,10 @@
           "type": "multiple-choice",
           "prompt": "የባህል ውህደት እና የብሔራዊ ቅርስ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ብሔራዊ ቅርስ፣ ስነ-ቃል፣ የባህል ብዝሃነት፣ ውህደት እና ጥንታዊ ስልጣኔ። (Core concept alternative form)",
-            "መኪና፣ አውሮፕላን፣ ባቡር እና መርከብ። (Core concept alternative form)",
-            "እንጨት፣ ድንጋይ፣ አሸዋ እና ሲሚንቶ። (Core concept alternative form)",
-            "በኢትዮጵያ ቅርስ የለም። (Core concept alternative form)"
+            "ብሔራዊ ቅርስ፣ ስነ-ቃል፣ የባህል ብዝሃነት፣ ውህደት እና ጥንታዊ ስልጣኔ። (standard target expression for Cultural Synthesis   National Heritage)",
+            "መኪና፣ አውሮፕላን፣ ባቡር እና መርከብ። (contextual contrast form in Cultural Synthesis   National Heritage)",
+            "እንጨት፣ ድንጋይ፣ አሸዋ እና ሲሚንቶ። (formal register distinction for Cultural Synthesis   National Heritage)",
+            "በኢትዮጵያ ቅርስ የለም። (colloquial conversational usage for Cultural Synthesis   National Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የባህል ውህደት እና የታሪካዊ ቅርስ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -16337,10 +16337,10 @@
         {
           "prompt": "በምክንያትና በማስረጃ ላይ ተመስርቶ እውነትን የማመዛዘን እና የማሰብ ጥበብ ምን ይባላል?",
           "options": [
-            "አመክንዮ / ምክንያታዊ አስተሳሰብ (Core concept alternative form)",
-            "የዘፈቀደ ግምት (Core concept alternative form)",
-            "ስሜታዊ ቁጣ (Core concept alternative form)",
-            "ጭፍን እምነት (Core concept alternative form)"
+            "አመክንዮ / ምክንያታዊ አስተሳሰብ (standard target expression for Philosophical Discourse   Logic)",
+            "የዘፈቀደ ግምት (contextual contrast form in Philosophical Discourse   Logic)",
+            "ስሜታዊ ቁጣ (formal register distinction for Philosophical Discourse   Logic)",
+            "ጭፍን እምነት (colloquial conversational usage for Philosophical Discourse   Logic)"
           ],
           "answerIndex": 0,
           "explanation": "«አመክንዮ» በአእምሮ እና በማስረጃ እውነትን የመመርመር ፍልስፍናዊ መንገድ ነው።"
@@ -16352,10 +16352,10 @@
         {
           "prompt": "'Philosophical inquiry, treatise' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ሐተታ / ፍልስፍናዊ ምርመራ (Core concept alternative form)",
-            "የግዢ ዝርዝር (Core concept alternative form)",
-            "የስልክ ማስታወሻ (Core concept alternative form)",
-            "ተራ ወሬ (Core concept alternative form)"
+            "ሐተታ / ፍልስፍናዊ ምርመራ (standard target expression for Philosophical Discourse   Logic)",
+            "የግዢ ዝርዝር (contextual contrast form in Philosophical Discourse   Logic)",
+            "የስልክ ማስታወሻ (formal register distinction for Philosophical Discourse   Logic)",
+            "ተራ ወሬ (colloquial conversational usage for Philosophical Discourse   Logic)"
           ],
           "answerIndex": 0,
           "explanation": "«ሐተታ» በጥልቅ ምርምርና አመክንዮ የተጻፈ ፍልስፍናዊ ድርሰት ነው።"
@@ -16368,10 +16368,10 @@
           "type": "multiple-choice",
           "prompt": "የፍልስፍና ክርክር እና የአመክንዮ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ፍልስፍና፣ አመክንዮ፣ ሐተታ፣ ማመዛዘን፣ እውነት እና ክርክር። (Core concept alternative form)",
-            "ጨው፣ በርበሬ፣ ዘይት እና ዱቄት። (Core concept alternative form)",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና መቅረጫ። (Core concept alternative form)",
-            "በፍልስፍና አመክንዮ የለም። (Core concept alternative form)"
+            "ፍልስፍና፣ አመክንዮ፣ ሐተታ፣ ማመዛዘን፣ እውነት እና ክርክር። (standard target expression for Philosophical Discourse   Logic)",
+            "ጨው፣ በርበሬ፣ ዘይት እና ዱቄት። (contextual contrast form in Philosophical Discourse   Logic)",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና መቅረጫ። (formal register distinction for Philosophical Discourse   Logic)",
+            "በፍልስፍና አመክንዮ የለም። (colloquial conversational usage for Philosophical Discourse   Logic)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የፍልስፍና እና የአመክንዮ ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -16430,10 +16430,10 @@
         {
           "prompt": "ከሚከተሉት ውስጥ የመላውን የአማርኛ ቋንቋ ትምህርት (ክፍል 1–34) ፍጹም የብቃት ውህደት የሚያሳየው የትኛው ነው?",
           "options": [
-            "ተማሪው የአማርኛ ቋንቋን ሰዋሰዋዊ ውበት፣ ታሪካዊ ቅርስ እና ጥልቅ ፍልስፍና ጠንቅቆ በመረዳት የC2 ፍጹም የብቃት ደረጃን ተቀዳጀ። (teh-mah-REE-woo yeh-ah-mah-RUN-yah k'wahn-k'wahn seh-wah-seh-wah-WEE wuh-BET, tah-ree-KAH-wee k'urs un-nah t'ul-K' fuh-luh-suh-fun-NAH t'un-uk'-k'oh beh-mer-DAHT yeh-C-two fut-TS'OOM yeh-buh-K'AHT deh-reh-JAHN teh-k'eh-dah-JEH)",
-            "ምንም ትምህርት አልተጠናቀቀም (1  34            C2 alternative form)",
-            "ሁሉም ተራ ቃላት ናቸው (1  34            C2 alternative form)",
-            "ቋንቋው አልተጠናም (1  34            C2 alternative form)"
+            "ተማሪው የአማርኛ ቋንቋን ሰዋሰዋዊ ውበት፣ ታሪካዊ ቅርስ እና ጥልቅ ፍልስፍና ጠንቅቆ በመረዳት የC2 ፍጹም የብቃት ደረጃን ተቀዳጀ። (Tämariw yä'Amarənya qwanəqwan säwasäwawi wəbät, tarikawi qərs ənna t’əlq fələsəfənna t’änəqqəqo bämärdat yäC2 fəts’um yäbəqat däräğan täqädağğä. təmaˈriw jəʔamaˈrɨɲa kʼʷanɨˈkʼʷan səwasəwaˈwi wɨˈbət, tariˈkawi kʼɨrs ʔɨnːa tʼɨlkʼ fɨlɨsɨˈfɨnːa tʼənɨkʼːɨˈkʼo bəmərˈdat jəsiˈtu fɨtsʼum jəbɨˈkʼat dərəˈdʒan təkʼədaˈdʒːə teh-mah-REE-woo yeh-ah-mah-RUN-yah k'wahn-k'wahn seh-wah-seh-wah-WEE wuh-BET, tah-ree-KAH-wee k'urs un-nah t'ul-K' fuh-luh-suh-fun-NAH t'un-uk'-k'oh beh-mer-DAHT yeh-C-two fut-TS'OOM yeh-buh-K'AHT deh-reh-JAHN teh-k'eh-dah-JEH — The student attained complete C2 mastery level by thoroughly understanding the grammatical beauty, historical heritage, and profound philosophy of the Amharic language.)",
+            "ምንም ትምህርት አልተጠናቀቀም (contextual contrast form in Grand Capstone Synthesis   Complete C2 Mastery)",
+            "ሁሉም ተራ ቃላት ናቸው (formal register distinction for Grand Capstone Synthesis   Complete C2 Mastery)",
+            "ቋንቋው አልተጠናም (colloquial conversational usage for Grand Capstone Synthesis   Complete C2 Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የ34ቱን ክፍሎች አጠቃላይ የቋንቋ፣ የባህልና የፍልስፍና ውህደት ያረጋግጣል።"
@@ -16445,10 +16445,10 @@
         {
           "prompt": "የአማርኛ ቋንቋን ጥልቅ እውቀትና የተሟላ የC2 ብቃት ያረጋገጠ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "የአማርኛ ቋንቋ ጥናት ከፊደል ንባብ ጀምሮ እስከ ከፍተኛ ዲፕሎማሲ፣ ቅኔ እና አመክንዮ ድረስ የተዘረጋ ታላቅ የእውቀት ጉዞ ነው። (yeh-ah-mah-RUN-yah k'wahn-k'wah t'uh-NAHT keh-fee-DEL nuh-BAHB jem-ROH us-KEH kef-fuh-ten-YAH deep-loh-mah-SEE, k'uh-NAY un-nah ah-meh-kuh-nuh-YOH duh-RES yeh-teh-zer-reg-GAH tah-LAHK' yeh-uh-wuh-K'ET goo-ZOH new)",
-            "ምንም እውቀት አልተገኘም (1  34            C2 alternative form)",
-            "ትምህርት አያስፈልግም (1  34            C2 alternative form)",
-            "ቃላት የሉም (1  34            C2 alternative form)"
+            "የአማርኛ ቋንቋ ጥናት ከፊደል ንባብ ጀምሮ እስከ ከፍተኛ ዲፕሎማሲ፣ ቅኔ እና አመክንዮ ድረስ የተዘረጋ ታላቅ የእውቀት ጉዞ ነው። (Yä'Amarənya qwanəqwa t’ənat käfidäl nəbab ğäməro əskä käffətänya diplomasi, qəne ənna amäkənəyo dräs yätäzärägga talaq yä’əwəqät guzo näw. jəʔamaˈrɨɲa kʼʷanɨˈkʼʷa tʼɨˈnat kəfiˈdəl nɨˈbab dʒəmɨˈro ʔɨsˈkə kəfːɨtɛˈɲa diploˈmasi, kʼɨˈne ʔɨnːa ʔaməkɨnɨˈjo dɨrəs jətəzərəɡːa taˈlakʼ jəʔɨwɨˈkʼət ɡuˈzo nɛw yeh-ah-mah-RUN-yah k'wahn-k'wah t'uh-NAHT keh-fee-DEL nuh-BAHB jem-ROH us-KEH kef-fuh-ten-YAH deep-loh-mah-SEE, k'uh-NAY un-nah ah-meh-kuh-nuh-YOH duh-RES yeh-teh-zer-reg-GAH tah-LAHK' yeh-uh-wuh-K'ET goo-ZOH new — The study of the Amharic language is a grand journey of knowledge spanning from Fidel literacy up to high diplomacy, Qene poetry, and logical reasoning.)",
+            "ምንም እውቀት አልተገኘም (contextual contrast form in Grand Capstone Synthesis   Complete C2 Mastery)",
+            "ትምህርት አያስፈልግም (formal register distinction for Grand Capstone Synthesis   Complete C2 Mastery)",
+            "ቃላት የሉም (colloquial conversational usage for Grand Capstone Synthesis   Complete C2 Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ምርጫ የካሪኩለሙን አጠቃላይ የትምህርት ጉዞ በትክክል ያጠቃልላል።"
@@ -16461,10 +16461,10 @@
           "type": "multiple-choice",
           "prompt": "የአማርኛ ቋንቋ ሙሉ ካሪኩለምን (ክፍል 1 እስከ 34) ፍጹም ይዘት በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "የፊደላት ንባብ፣ ሰዋሰውና የግስ እርባታ፣ የዕለት ተዕለት ተግባቦት፣ ሳይንስ፣ ታሪክ፣ ባህላዊና ህጋዊ ፍልስፍና፣ ዓለም አቀፍ ዲፕሎማሲ፣ እንዲሁም የሰምና ወርቅ ቅኔ ጥበብ ሙሉ በሙሉ ተካተዋል። (1  34            C2 alternative form)",
-            "ይህ ካሪኩለም ስለ ፊደላት ብቻ ነው። (1  34            C2 alternative form)",
-            "ምንም አይነት ሰዋሰው አልተማርንም። (1  34            C2 alternative form)",
-            "ሁሉም ክፍሎች አንድ አይነት ናቸው። (1  34            C2 alternative form)"
+            "የፊደላት ንባብ፣ ሰዋሰውና የግስ እርባታ፣ የዕለት ተዕለት ተግባቦት፣ ሳይንስ፣ ታሪክ፣ ባህላዊና ህጋዊ ፍልስፍና፣ ዓለም አቀፍ ዲፕሎማሲ፣ እንዲሁም የሰምና ወርቅ ቅኔ ጥበብ ሙሉ በሙሉ ተካተዋል። (standard target expression for Grand Capstone Synthesis   Complete C2 Mastery)",
+            "ይህ ካሪኩለም ስለ ፊደላት ብቻ ነው። (contextual contrast form in Grand Capstone Synthesis   Complete C2 Mastery)",
+            "ምንም አይነት ሰዋሰው አልተማርንም። (formal register distinction for Grand Capstone Synthesis   Complete C2 Mastery)",
+            "ሁሉም ክፍሎች አንድ አይነት ናቸው። (colloquial conversational usage for Grand Capstone Synthesis   Complete C2 Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የ170ዎቹንም ትምህርቶች አጠቃላይ እውቀትና ብቃት ያጠቃልላል።"

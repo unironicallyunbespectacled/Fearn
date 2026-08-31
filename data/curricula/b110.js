@@ -635,7 +635,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Capstone Synthesis"
+    "title": "Unit 5, Lesson 4: Behavioral Economics & Quantitative Pricing Synthesis"
   },
   "b110-u5-l3": {
     "id": "b110-u5-l3",
@@ -717,7 +717,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Anchoring, Decoy Effect & Menu Architecture"
+    "title": "Unit 5, Lesson 3: Anchoring, Decoy Effect & Menu Architecture in Retail"
   },
   "b110-u5-l2": {
     "id": "b110-u5-l2",
@@ -799,7 +799,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1105, Lesson 4: The non-linear probability wei"
+    "title": "Unit 5, Lesson 2: Probability Weighting & Cumulative Prospect Theory"
   },
   "b110-u5-l1": {
     "id": "b110-u5-l1",
@@ -882,7 +882,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1105, Lesson 5: The Economist Decoy Pricing Ex"
+    "title": "Unit 5, Lesson 1: Asymmetric Dominance & Decoy Pricing Experiments"
   },
   "b110-u4-l4": {
     "id": "b110-u4-l4",
@@ -964,7 +964,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 1: Network Externalities"
+    "title": "Unit 4, Lesson 4: Direct & Indirect Network Externalities in Two-Sided Markets"
   },
   "b110-u4-l3": {
     "id": "b110-u4-l3",
@@ -1046,7 +1046,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Crossing the Chasm"
+    "title": "Unit 4, Lesson 3: Crossing the Chasm & Mainstream Market Adoption"
   },
   "b110-u4-l2": {
     "id": "b110-u4-l2",
@@ -1128,7 +1128,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 3: Estimating Market Peak Timing"
+    "title": "Unit 4, Lesson 2: Estimating Market Peak Timing & Diffusion Dynamics"
   },
   "b110-u4-l1": {
     "id": "b110-u4-l1",
@@ -1210,7 +1210,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 4: Formulate the Bass Diffusion Model for new product adoption"
+    "title": "Unit 4, Lesson 1: Formulating the Bass Diffusion Model for New Product Adoption"
   },
   "b110-u3-l4": {
     "id": "b110-u3-l4",
@@ -2112,7 +2112,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4 Capstone"
+    "title": "Unit 4, Lesson 5: Unit 4 Diffusion & Market Strategy Capstone"
   },
   "b110-u5-l5": {
     "id": "b110-u5-l5",
@@ -2194,7 +2194,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "B110 Master Capstone"
+    "title": "Unit 5, Lesson 5: B110 Master Capstone Tournament & Econometric Synthesis"
   }
 };
   var CURRICULUM = { id: 'b110', name: "B110: Market Dynamics & Consumer Psychology", units: UNITS, lessons: LESSONS };

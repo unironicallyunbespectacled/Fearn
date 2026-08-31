@@ -3931,10 +3931,10 @@
         {
           "prompt": "According to master chess strategy in Unit 10, Lesson 5, which move or plan is best?",
           "options": [
-            "It eliminated Black's key central defender, won the bishop pair, established an unstoppable outpost on e5, and created an outside passed a-pawn that easily converted the endgame (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite)",
-            "It checkmated Black on move 21 (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite)",
-            "It won Black's queen on move 22 (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite)",
-            "It forced an immediate draw (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite)"
+            "1. Candidate move identification; 2. Kotov calculation tree verification; 3. Prophylactic defensive check; 4. Concrete tactical execution",
+            "1. Rapid piece mobilization; 2. Superficial king check; 3. Random pawn push; 4. Flagging opponent clock",
+            "1. Opening book recall; 2. Hope chess; 3. Immediate piece exchange; 4. Endgame resignation",
+            "1. Passive bishop retreat; 2. Center abandonment; 3. Premature queen attack; 4. King exposure"
           ],
           "answerIndex": 0,
           "explanation": "21.Rxc6! shattered Black's position and secured total positional dominance."
@@ -3983,10 +3983,10 @@
         {
           "prompt": "What core tactical, positional, endgame, and strategic competencies were mastered across the ENTIRE 50-Lesson FEARN Chess Curriculum?",
           "options": [
-            "Forks, pins, skewers, discovered attacks, double checks, tactical combinations (deflection, decoy, clearance, overload, interference, xray)",
-            "Passive pawn structure management without piece coordination (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite)",
-            "Impulsive tactical decisions without prophylactic checks (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite)",
-            "Basic piece positioning without dynamic tactical ideas (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite)"
+            "Forks, pins, skewers, discovered attacks, double checks, tactical combinations (deflection, decoy, clearance, overload, interference, xray), positional pawn structures, king safety, and endgame mastery",
+            "Passive pawn structure management without piece coordination or tactical calculation",
+            "Impulsive tactical decisions without prophylactic checks or strategic foresight",
+            "Basic piece positioning without dynamic tactical combinations or endgame technique"
           ],
           "answerIndex": 0,
           "explanation": "Comprehensive 50-lesson Chess Strategy grandmaster certification.",

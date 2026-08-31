@@ -1,6 +1,6 @@
 // FEARN Fitness 170-Day Unique Periodization Quality Gate
 const path = require('path');
-const ROOT_DIR = 'C:\\Users\\HP USER\\Downloads\\yo';
+const ROOT_DIR = path.resolve(__dirname, '..');
 const fitnessPath = path.join(ROOT_DIR, 'data/fitness-program.js');
 
 const fitness = require(fitnessPath);

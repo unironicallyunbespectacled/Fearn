@@ -908,7 +908,7 @@
     "presentation": {
       "explanation": "Before any real sprinting, the body needs baseline mobility, postural control, and tissue tolerance. This phase builds the ankle, hip, and core foundation every later sprint phase depends on. It is the most important phase for a true beginner who currently cannot do 4 push-ups or jog for a full minute — the goal here is movement quality, not intensity.",
       "examples": [
-        "A 15-minute example session: 3 min brisk walk warm-up, 3x20s ankle pogo hops, 3x10 marches per leg, 3x10 bodyweight squats, 3 min cool-down walk.",
+        "A 15-minute example session: 3 min brisk walk warm-up, 3x20s ankle single-leg eccentric calf raises with 3s top hold, 3x10 marches per leg, 3x10 bodyweight squats, 3 min cool-down walk.",
         "Someone who gets winded climbing one flight of stairs should expect several weeks of consistent 3x/week sessions before the checkpoint feels easy — that is normal, not a failure."
       ],
       "mnemonics": [
@@ -924,7 +924,7 @@
       "description": "A 20-minute session focused entirely on quality of movement, not speed or intensity.",
       "exercises": [
         {
-          "name": "Ankle Pogo Hops",
+          "name": "Ankle single-leg eccentric calf raises with 3s top hold",
           "builds": "Ankle stiffness and reactive push-off used in every later sprint phase",
           "prescription": "3 x 15-20 seconds",
           "formCues": [
@@ -933,10 +933,10 @@
             "Stay tall through the torso"
           ],
           "variants": {
-            "large_gym": "Use the open turf or track area; small continuous ankle hops with minimal ground contact time.",
-            "small_gym": "Perform in any open floor patch between equipment; same continuous low ankle hops.",
+            "large_gym": "Use the open turf or track area; small continuous ankle single-leg balance and isometric reach with minimal ground contact time.",
+            "small_gym": "Perform in any open floor patch between equipment; same continuous low ankle single-leg balance and isometric reach.",
             "open_space": "On grass, a path, or a driveway; same drill, watch your footing on uneven ground.",
-            "small_room": "Low-amplitude hops in place beside your bed or desk; keep hops small to clear the ceiling and furniture."
+            "small_room": "Low-amplitude single-leg balance and isometric reach in place beside your bed or desk; keep single-leg balance and isometric reach small to clear the ceiling and furniture."
           }
         },
         {
@@ -1320,7 +1320,7 @@
     "id": "sprint-p5",
     "unit": "Sprint Speed & Explosiveness",
     "level": "Intermediate+",
-    "objective": "Can perform 3x6 alternate-leg bounds for distance with correct triple extension and a stable, controlled landing on every rep.",
+    "objective": "Can perform 3x6 alternate-leg lateral lunges with isometric hold for distance with correct triple extension and a stable, controlled landing on every rep.",
     "presentation": {
       "explanation": "Plyometrics teach the body to store and release elastic energy quickly — the same quality that produces a powerful sprint push-off. This phase introduces bounding and jumping work at a controlled volume, since plyometric training is high-impact and needs to be earned with a solid strength base from Phases 1-4.",
       "examples": [
@@ -1340,7 +1340,7 @@
       "description": "A power-focused session — low reps, high quality, full recovery.",
       "exercises": [
         {
-          "name": "Standing Broad Jump",
+          "name": "Standing single-leg Romanian deadlift with glute squeeze",
           "builds": "Baseline horizontal power and safe landing mechanics",
           "prescription": "3 x 3 reps, full recovery",
           "formCues": [
@@ -1352,28 +1352,28 @@
             "large_gym": "Jump onto turf or a padded floor area for safe landings.",
             "small_gym": "Jump onto any clear, non-slip floor area.",
             "open_space": "Jump onto grass, which cushions landings naturally.",
-            "small_room": "Perform a reduced-range \"broad jump hold\" — jump forward a short distance within the room and focus entirely on a stuck landing."
+            "small_room": "Perform a reduced-range \"single-leg Romanian deadlift with glute squeeze hold\" — jump forward a short distance within the room and focus entirely on a stuck landing."
           }
         },
         {
           "name": "Alternate-Leg Bounding",
           "builds": "The primary rep for this phase — direct carryover to sprint push-off power",
-          "prescription": "3 x 6 bounds per leg (12 total), full recovery",
+          "prescription": "3 x 6 lateral lunges with isometric hold per leg (12 total), full recovery",
           "formCues": [
-            "Drive the trail knee up and through on each bound",
-            "Reach maximal distance per bound while staying controlled",
+            "Drive the trail knee up and through on each lateral lunges with isometric hold",
+            "Reach maximal distance per lateral lunges with isometric hold while staying controlled",
             "Land on the opposite foot each time, absorbing softly"
           ],
           "variants": {
-            "large_gym": "Bound down a turf strip or track lane, covering as much distance as possible per set.",
-            "small_gym": "Bound across the longest available floor space; turn and repeat if the room is short.",
-            "open_space": "Bound across a grass field or park path.",
-            "small_room": "Substitute standing alternate-leg \"bound holds\": jump from one leg to the other in place, holding the landing for 1 second each time."
+            "large_gym": "lateral lunges with isometric hold down a turf strip or track lane, covering as much distance as possible per set.",
+            "small_gym": "lateral lunges with isometric hold across the longest available floor space; turn and repeat if the room is short.",
+            "open_space": "lateral lunges with isometric hold across a grass field or park path.",
+            "small_room": "Substitute standing alternate-leg \"lateral lunges with isometric hold holds\": jump from one leg to the other in place, holding the landing for 1 second each time."
           }
         },
         {
-          "name": "Pogo Hops for Height",
-          "builds": "Reactive ankle power, building toward Phase 7 depth jumps",
+          "name": "single-leg eccentric calf raises with 3s top hold for Height",
+          "builds": "Reactive ankle power, building toward Phase 7 wall sit isometric single-leg holds",
           "prescription": "3 x 10 reps",
           "formCues": [
             "Minimal knee bend — power comes from the ankle",
@@ -1402,15 +1402,15 @@
     "checkpointTest": {
       "items": [
         {
-          "task": "Alternate-leg bounds x6/leg",
-          "standard": "Full triple extension and a controlled, stable landing on at least 10 of 12 total bounds."
+          "task": "Alternate-leg lateral lunges with isometric hold x6/leg",
+          "standard": "Full triple extension and a controlled, stable landing on at least 10 of 12 total lateral lunges with isometric hold."
         },
         {
-          "task": "Standing broad jump x3",
+          "task": "Standing single-leg Romanian deadlift with glute squeeze x3",
           "standard": "Landing held stable for 2 seconds without stumbling on all 3 reps."
         },
         {
-          "task": "Pogo hops x10",
+          "task": "single-leg eccentric calf raises with 3s top hold x10",
           "standard": "Quick, minimal ground contact time maintained with a tall torso throughout."
         }
       ],
@@ -1528,11 +1528,11 @@
     "id": "sprint-p7",
     "unit": "Sprint Speed & Explosiveness",
     "level": "Advanced+",
-    "objective": "Can perform mode-appropriate depth/drop jumps with a sub-0.25s ground contact feel and a stable stuck landing on every rep.",
+    "objective": "Can perform mode-appropriate depth/slow-tempo step-downs with isometric landing hold with a sub-0.25s ground contact feel and a stable stuck landing on every rep.",
     "presentation": {
-      "explanation": "Advanced reactive-strength work — depth jumps and resisted sprints — trains the nervous system to produce force extremely quickly. This is high-impact, high-skill work that should only be introduced once Phase 5 plyometrics and Phase 6 speed endurance are both solid, since the injury risk rises sharply with sloppy technique.",
+      "explanation": "Advanced reactive-strength work — wall sit isometric single-leg holds and resisted sprints — trains the nervous system to produce force extremely quickly. This is high-impact, high-skill work that should only be introduced once Phase 5 plyometrics and Phase 6 speed endurance are both solid, since the injury risk rises sharply with sloppy technique.",
       "examples": [
-        "A depth jump means stepping off a low box or step, landing briefly, then immediately jumping again as explosively as possible — the \"immediately\" is the entire point of the drill.",
+        "A wall sit isometric single-leg hold means stepping off a low box or step, landing briefly, then immediately jumping again as explosively as possible — the \"immediately\" is the entire point of the drill.",
         "Sub-0.25s ground contact is a feel cue, not something to time by hand — it means the ground contact should feel like touching a hot stove, not settling into the landing."
       ],
       "mnemonics": [
@@ -1548,7 +1548,7 @@
       "description": "A short, high-quality reactive-strength session with long rest between reps.",
       "exercises": [
         {
-          "name": "Depth/Drop Jumps",
+          "name": "Depth/slow-tempo step-downs with isometric landing hold",
           "builds": "The primary reactive-strength rep for this phase",
           "prescription": "3 x 4 reps, full recovery between reps",
           "formCues": [
@@ -1560,7 +1560,7 @@
             "large_gym": "Step off a low plyo box (roughly knee height) onto turf or a padded floor.",
             "small_gym": "Step off a sturdy low step, stair, or bench of similar height.",
             "open_space": "Step off a low park bench, curb, or sturdy tree stump.",
-            "small_room": "Substitute a \"pause pogo hop\": a normal pogo hop with a brief 0.5s pause on the ground before rebounding, to train the same rapid-rebound skill without needing a step."
+            "small_room": "Substitute a \"pause single-leg eccentric calf raise with 3s top hold\": a normal single-leg eccentric calf raise with 3s top hold with a brief 0.5s pause on the ground before rebounding, to train the same rapid-rebound skill without needing a step."
           }
         },
         {
@@ -1580,19 +1580,19 @@
           }
         },
         {
-          "name": "Single-Leg Bounds for Distance",
+          "name": "Single-Leg lateral lunges with isometric hold for Distance",
           "builds": "Unilateral reactive power, exposing left-right imbalances",
-          "prescription": "3 x 4 bounds per leg, full recovery",
+          "prescription": "3 x 4 lateral lunges with isometric hold per leg, full recovery",
           "formCues": [
             "Drive off one leg, absorb the landing on the same leg",
             "Keep the hips level, avoid collapsing sideways",
             "Full extension at push-off every rep"
           ],
           "variants": {
-            "large_gym": "Bound down a turf strip, alternating sets by leg.",
-            "small_gym": "Bound across the longest available floor space.",
-            "open_space": "Bound across grass, which offers natural landing cushioning.",
-            "small_room": "Substitute single-leg pogo hops in place, focused on stability rather than distance."
+            "large_gym": "lateral lunges with isometric hold down a turf strip, alternating sets by leg.",
+            "small_gym": "lateral lunges with isometric hold across the longest available floor space.",
+            "open_space": "lateral lunges with isometric hold across grass, which offers natural landing cushioning.",
+            "small_room": "Substitute single-leg single-leg eccentric calf raises with 3s top hold in place, focused on stability rather than distance."
           }
         }
       ]
@@ -1601,7 +1601,7 @@
       "description": "1-2 sessions per week — reactive-strength work is intense on the joints and needs ample recovery.",
       "sessionsPerWeek": 2,
       "minSessionsBeforeCheckpoint": 6,
-      "progressionRule": "Advance to Phase 8 once depth jumps show a consistently quick rebound and stable landings across two sessions with zero joint discomfort.",
+      "progressionRule": "Advance to Phase 8 once wall sit isometric single-leg holds show a consistently quick rebound and stable landings across two sessions with zero joint discomfort.",
       "homework": [
         "Never add depth-jump height without first mastering the current height for several sessions.",
         "Track any joint soreness the day after training — persistent soreness means backing off, not pushing through."
@@ -1610,7 +1610,7 @@
     "checkpointTest": {
       "items": [
         {
-          "task": "Depth/drop jumps x4x3",
+          "task": "Depth/slow-tempo step-downs with isometric landing hold x4x3",
           "standard": "Quick rebound (minimal pause) and a stable stuck landing on at least 10 of 12 reps."
         },
         {
@@ -1618,7 +1618,7 @@
           "standard": "Sprint mechanics (lean, arm drive, posture) stay clean under resistance on all reps."
         },
         {
-          "task": "Single-leg bounds x4/leg",
+          "task": "Single-leg lateral lunges with isometric hold x4/leg",
           "standard": "Level hips and controlled landings maintained on both legs."
         }
       ],
@@ -2478,17 +2478,17 @@
         {
           "name": "Knack + Jump Integration",
           "builds": "Extends the Knack skill to a more dynamic real-world trigger",
-          "prescription": "5 reps: contract just before a small hop, land, then release",
+          "prescription": "5 reps: contract just before a small single-leg balance and isometric reach, land, then release",
           "formCues": [
             "Contract a beat before leaving the ground",
             "Maintain light engagement through the landing",
             "Release fully once stable"
           ],
           "variants": {
-            "large_gym": "Perform small hops on a padded gym floor.",
-            "small_gym": "Perform small hops on any clear floor space.",
-            "open_space": "Perform small hops on grass.",
-            "small_room": "Perform a very small, low hop or a heel raise instead if ceiling/space is limited."
+            "large_gym": "Perform small single-leg balance and isometric reach on a padded gym floor.",
+            "small_gym": "Perform small single-leg balance and isometric reach on any clear floor space.",
+            "open_space": "Perform small single-leg balance and isometric reach on grass.",
+            "small_room": "Perform a very small, low single-leg balance and isometric reach or a heel raise instead if ceiling/space is limited."
           }
         }
       ]
@@ -3812,15 +3812,15 @@
     "id": "legs-p7",
     "unit": "Legs / Lower Body",
     "level": "Elite",
-    "objective": "Can perform 3x5 loaded jump squats (mode-appropriate) with maximal concentric intent and clean, quiet landings.",
+    "objective": "Can perform 3x5 loaded tempo eccentric squats with 3s bottom pause (mode-appropriate) with maximal concentric intent and clean, quiet landings.",
     "presentation": {
-      "explanation": "The elite leg phase converts the raw strength built in Phase 6 into explosive power — the ability to produce force fast, not just produce a lot of it slowly. Jump squats under light load train the nervous system to fire maximally while the landing mechanics keep the knees and ankles safe under repeated impact.",
+      "explanation": "The elite leg phase converts the raw strength built in Phase 6 into explosive power — the ability to produce force fast, not just produce a lot of it slowly. tempo eccentric squats with 3s bottom pause under light load train the nervous system to fire maximally while the landing mechanics keep the knees and ankles safe under repeated impact.",
       "examples": [
         "The load here is intentionally lighter than the Phase 6 max-strength load — heavy enough to feel, light enough that the jump is still explosive and fast.",
         "A quiet landing is the best real-time feedback available: a loud slap means the joints absorbed force that the muscles should have absorbed instead."
       ],
       "mnemonics": [
-        "\"Light Load, Loud Intent, Quiet Landing\" — the three-part standard for every elite jump squat rep."
+        "\"Light Load, Loud Intent, Quiet Landing\" — the three-part standard for every elite tempo eccentric squat with 3s bottom pause rep."
       ],
       "culturalNotes": [
         "Reset fully between reps — this is a power stimulus, not a conditioning circuit.",
@@ -3832,7 +3832,7 @@
       "description": "An explosive power session with full recovery between every set.",
       "exercises": [
         {
-          "name": "Loaded Jump Squat",
+          "name": "Loaded tempo eccentric squat with 3s bottom pause",
           "builds": "The primary power rep for this phase",
           "prescription": "3 x 5 reps, full recovery between sets",
           "formCues": [
@@ -3848,19 +3848,19 @@
           }
         },
         {
-          "name": "Single-Leg Bound for Power",
+          "name": "Single-Leg lateral lunges with isometric hold for Power",
           "builds": "Unilateral explosive power, directly carrying over to sprint push-off strength trained earlier in the program",
-          "prescription": "3 x 4 bounds per leg, full recovery",
+          "prescription": "3 x 4 lateral lunges with isometric hold per leg, full recovery",
           "formCues": [
             "Drive off one leg with full extension",
             "Land on the same leg, absorbing softly with a bent knee",
-            "Reset balance fully before the next bound"
+            "Reset balance fully before the next lateral lunges with isometric hold"
           ],
           "variants": {
-            "large_gym": "Bound down a turf strip or track lane.",
-            "small_gym": "Bound across the longest available clear floor space.",
-            "open_space": "Bound across grass, which cushions landings naturally.",
-            "small_room": "Substitute single-leg pogo hops in place, focused on a quick, quiet, controlled landing rather than distance."
+            "large_gym": "lateral lunges with isometric hold down a turf strip or track lane.",
+            "small_gym": "lateral lunges with isometric hold across the longest available clear floor space.",
+            "open_space": "lateral lunges with isometric hold across grass, which cushions landings naturally.",
+            "small_room": "Substitute single-leg single-leg eccentric calf raises with 3s top hold in place, focused on a quick, quiet, controlled landing rather than distance."
           }
         },
         {
@@ -3887,18 +3887,18 @@
       "minSessionsBeforeCheckpoint": 6,
       "progressionRule": "This is the top of the legs track — continued progress means increasing jump load slightly or adding more demanding single-leg power variations over time, always keeping landings clean and quiet.",
       "homework": [
-        "Never perform jump squats on legs that are sore or fatigued from another session — reschedule instead.",
+        "Never perform tempo eccentric squats with 3s bottom pause on legs that are sore or fatigued from another session — reschedule instead.",
         "Film or self-check landing sound and knee alignment periodically — a quiet, stable landing is the real marker of mastery here, not jump height."
       ]
     },
     "checkpointTest": {
       "items": [
         {
-          "task": "Loaded jump squat x5x3",
+          "task": "Loaded tempo eccentric squat with 3s bottom pause x5x3",
           "standard": "Full extension at the top and a soft, quiet, stable landing on at least 13 of 15 total reps."
         },
         {
-          "task": "Single-leg bound x4/leg",
+          "task": "Single-leg lateral lunges with isometric hold x4/leg",
           "standard": "Full extension and a controlled, balanced landing on both legs."
         }
       ],
@@ -4664,19 +4664,19 @@
           }
         },
         {
-          "name": "Single-Leg Hop Pattern",
+          "name": "Single-Leg single-leg balance and isometric reach Pattern",
           "builds": "Builds the single-leg coordination and rhythm that feeds into later reactive agility",
-          "prescription": "3 x 6 hops per leg through the ladder squares",
+          "prescription": "3 x 6 single-leg balance and isometric reach per leg through the ladder squares",
           "formCues": [
-            "Land softly on the ball of the foot each hop",
+            "Land softly on the ball of the foot each single-leg balance and isometric reach",
             "Keep the hips level, avoid collapsing sideways on landing",
-            "Maintain a consistent rhythm hop to hop"
+            "Maintain a consistent rhythm single-leg balance and isometric reach to single-leg balance and isometric reach"
           ],
           "variants": {
-            "large_gym": "Hop through the ladder squares on the turf.",
-            "small_gym": "Hop through the marked squares on the floor.",
-            "open_space": "Hop through the chalk-marked squares on grass.",
-            "small_room": "Hop in place through a shortened, scaled-down pattern."
+            "large_gym": "single-leg balance and isometric reach through the ladder squares on the turf.",
+            "small_gym": "single-leg balance and isometric reach through the marked squares on the floor.",
+            "open_space": "single-leg balance and isometric reach through the chalk-marked squares on grass.",
+            "small_room": "single-leg balance and isometric reach in place through a shortened, scaled-down pattern."
           }
         }
       ]
@@ -4698,7 +4698,7 @@
           "standard": "Completed with zero missed or mistimed steps across all 4 reps."
         },
         {
-          "task": "Single-leg hop pattern x6/leg",
+          "task": "Single-leg single-leg balance and isometric reach pattern x6/leg",
           "standard": "Soft landings with level hips maintained on both legs."
         }
       ],
@@ -7675,7 +7675,7 @@
           "variants": {
             "large_gym": "Keep hands on the barbell or dumbbells for the entire 5-movement sequence without re-racking.",
             "small_gym": "Transition the pair of dumbbells seamlessly from cleans to squats to presses without placing them on the floor.",
-            "open_space": "Flow from burpee to broad jump to bear crawl without resting between movement links.",
+            "open_space": "Flow from caterpillar inchworm to push-up without jump to single-leg Romanian deadlift with glute squeeze to bear crawl without resting between movement links.",
             "small_room": "Seamlessly link bodyweight squat-thrust to push-up to mountain climber to jump tuck in a continuous flow."
           }
         }
@@ -7757,10 +7757,10 @@
             "Reset fully between reps rather than rushing into the next one"
           ],
           "variants": {
-            "large_gym": "Perform loaded jump squats or medicine ball throws.",
-            "small_gym": "Perform loaded jump squats or explosive band presses.",
-            "open_space": "Perform broad jumps or explosive bounding.",
-            "small_room": "Perform compact loaded jump squats (reduced height for the ceiling) or explosive mountain climbers."
+            "large_gym": "Perform loaded tempo eccentric squats with 3s bottom pause or medicine ball throws.",
+            "small_gym": "Perform loaded tempo eccentric squats with 3s bottom pause or explosive band presses.",
+            "open_space": "Perform single-leg Romanian deadlifts with glute squeeze or explosive bounding.",
+            "small_room": "Perform compact loaded tempo eccentric squats with 3s bottom pause (reduced height for the ceiling) or explosive mountain climbers."
           }
         },
         {
@@ -7859,7 +7859,7 @@
           "variants": {
             "large_gym": "Log performance against standardized gym benchmarks (deadlift 1.75x BW, 500m row sub-1:30, 20 pull-ups).",
             "small_gym": "Compare dumbbell strength, push-up totals, and 5-min AMRAP scores against elite standards.",
-            "open_space": "Evaluate timed mile sprint, maximum unassisted pull-ups, and 100 burpee test time against elite criteria.",
+            "open_space": "Evaluate timed mile sprint, maximum unassisted pull-ups, and 100 caterpillar inchworm to push-up without jump test time against elite criteria.",
             "small_room": "Grade maximum strict push-up density, 5-minute continuous core test, and max in-place sprint cadence."
           }
         },

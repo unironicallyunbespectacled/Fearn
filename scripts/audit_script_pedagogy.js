@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT_DIR = 'C:\\Users\\HP USER\\Downloads\\yo';
+const ROOT_DIR = path.resolve(__dirname, '..');
 const currDir = path.join(ROOT_DIR, 'data/curricula');
 
 console.log('================================================================================================================================');

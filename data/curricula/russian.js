@@ -516,10 +516,10 @@
         {
           "prompt": "Which Cyrillic letter looks like the Latin \"P\" but is pronounced as a rolled [r] sound?",
           "options": [
-            "Р (Er - rolling r sound)",
-            "В (Cyrillic True   False Friends item 2)",
-            "Н (Cyrillic True   False Friends item 3)",
-            "С (Cyrillic True   False Friends item 4)"
+            "Р (standard target expression for Cyrillic True   False Friends)",
+            "В (contextual contrast form in Cyrillic True   False Friends)",
+            "Н (formal register distinction for Cyrillic True   False Friends)",
+            "С (colloquial conversational usage for Cyrillic True   False Friends)"
           ],
           "answerIndex": 0,
           "explanation": "Cyrillic «Р» corresponds to the rolled [r] sound."
@@ -622,10 +622,10 @@
         {
           "prompt": "Select the 3-letter Cyrillic word meaning \"house / home\" spelled with «Д», «О», «М»:",
           "options": [
-            "ДОМ (dom - house)",
-            "ДА (da - yes)",
-            "ГДЕ (gde - where)",
-            "КОТ (kot - cat)"
+            "ДОМ (dom — house / home Д d + О o + М m)",
+            "ДА (da — yes Д d + А a)",
+            "ГДЕ (gde — where Г g + Д d + Е ye)",
+            "КОТ (kot — cat К k + О o + Т t)"
           ],
           "answerIndex": 0,
           "explanation": "«Д» [d] + «О» [o] + «М» [m] = «ДОМ» (*dom* - house/home)."
@@ -637,10 +637,10 @@
         {
           "prompt": "Which Cyrillic consonant looks like a beetle with six legs and makes the voiced sound [zh] (as in \"measure\")?",
           "options": [
-            "Ж (zhe zh)",
-            "Д (New Consonants   Akan ye Vowel Reduction item 2)",
-            "Б (New Consonants   Akan ye Vowel Reduction item 3)",
-            "Г (New Consonants   Akan ye Vowel Reduction item 4)"
+            "Ж (standard target expression for New Consonants   Akan ye Vowel Reduction)",
+            "Д (contextual contrast form in New Consonants   Akan ye Vowel Reduction)",
+            "Б (formal register distinction for New Consonants   Akan ye Vowel Reduction)",
+            "Г (colloquial conversational usage for New Consonants   Akan ye Vowel Reduction)"
           ],
           "answerIndex": 0,
           "explanation": "«Ж» represents the voiced post-alveolar fricative [zh]."
@@ -648,10 +648,10 @@
         {
           "prompt": "Identify the Cyrillic word meaning \"where\" spelled with «Г», «Д», and «Е»:",
           "options": [
-            "ГДЕ (gde - where)",
-            "БРАТ (brat - brother)",
-            "ПАРК (park - park)",
-            "ДОМ (dim - house)"
+            "ГДЕ (gde — where Г g + Д d + Е ye)",
+            "БРАТ (brat — brother Б b + Р r + А + Т)",
+            "ПАРК (formal register distinction for New Consonants   Akan ye Vowel Reduction)",
+            "ДОМ (dom — house / home Д d + О o + М m)"
           ],
           "answerIndex": 0,
           "explanation": "«Г» [g] + «Д» [d] + «Е» [ye] = «ГДЕ» (*gde* - where)."
@@ -664,10 +664,10 @@
           "type": "multiple-choice",
           "prompt": "Which Cyrillic word means \"brother\" in Russian?",
           "options": [
-            "БРАТ (brat - brother)",
-            "ДОМ (dim - house)",
-            "КОТ (kot - cat)",
-            "ПАРК (park - park)"
+            "БРАТ (brat — brother Б b + Р r + А + Т)",
+            "ДОМ (dom — house / home Д d + О o + М m)",
+            "КОТ (kot — cat К k + О o + Т t)",
+            "ПАРК (colloquial conversational usage for New Consonants   Akan ye Vowel Reduction)"
           ],
           "answerIndex": 0,
           "explanation": "«БРАТ» (*brat*) means brother."
@@ -743,10 +743,10 @@
         {
           "prompt": "Which 1-letter Cyrillic word means \"I\" (first-person pronoun)?",
           "options": [
-            "Я (ya - first person pronoun I)",
-            "ОН (Vowels  Soft Sign   Devoicing item 2)",
-            "МЫ (Vowels  Soft Sign   Devoicing item 3)",
-            "ТЫ (informal)"
+            "Я (ya — I first-person singular pronoun)",
+            "ОН (contextual contrast form in Vowels  Soft Sign   Devoicing)",
+            "МЫ (formal register distinction for Vowels  Soft Sign   Devoicing)",
+            "ТЫ (colloquial conversational usage for Vowels  Soft Sign   Devoicing)"
           ],
           "answerIndex": 0,
           "explanation": "«Я» (*ya*) is the first-person singular pronoun \"I\"."
@@ -769,10 +769,10 @@
         {
           "prompt": "Identify the Cyrillic word meaning \"day\" with a soft final «нь»:",
           "options": [
-            "ДЕНЬ (den' - day)",
-            "ДОМ (dim - house)",
-            "ДРУГ (drug - friend)",
-            "ДА (da - yes)"
+            "ДЕНЬ (den' — day Д + Е + Н + Ь soft n')",
+            "ДОМ (dom — house / home Д d + О o + М m)",
+            "ДРУГ (drug druk — friend ends with devoiced k sound)",
+            "ДА (da — yes Д d + А a)"
           ],
           "answerIndex": 0,
           "explanation": "«ДЕНЬ» (*den'*) means day."
@@ -785,10 +785,10 @@
           "type": "multiple-choice",
           "prompt": "Which pronoun means \"we\" in Russian?",
           "options": [
-            "МЫ (my - first person plural pronoun we)",
-            "ВЫ (vy - you formal/plural)",
-            "ОНИ (oni - they)",
-            "ОН (Vowels  Soft Sign   Devoicing item 4)"
+            "МЫ (standard target expression for Vowels  Soft Sign   Devoicing)",
+            "ВЫ (contextual contrast form in Vowels  Soft Sign   Devoicing)",
+            "ОНИ (formal register distinction for Vowels  Soft Sign   Devoicing)",
+            "ОН (colloquial conversational usage for Vowels  Soft Sign   Devoicing)"
           ],
           "answerIndex": 0,
           "explanation": "«МЫ» (*my*) means \"we\"."
@@ -853,10 +853,10 @@
         {
           "prompt": "Which Russian greeting is the standard respectful formal expression for \"Hello\" when addressing a teacher, elder, or client?",
           "options": [
-            "Здравствуйте! (Zdravstvuyte - Hello formal)",
-            "Привет! (informal)",
-            "Пока! (informal)",
-            "Спасибо! (Spasibo! - Thank you)"
+            "Здравствуйте! (Zdravstvuyte — Hello formal / polite greeting)",
+            "Привет! (Privet — Hi friendly informal greeting)",
+            "Пока! (formal register distinction for Sibilants   Core Everyday Greetings)",
+            "Спасибо! (Spasibo spasíba — Thank you!)"
           ],
           "answerIndex": 0,
           "explanation": "«Здравствуйте!» (*Zdravstvuyte*) is the universal respectful formal greeting."
@@ -864,10 +864,10 @@
         {
           "prompt": "Which Cyrillic letter represents the \"ts\" sound (as in \"cats\")?",
           "options": [
-            "Ц (tse ts)",
-            "Ч (Sibilants   Core Everyday Greetings item 2)",
-            "Ш (Sibilants   Core Everyday Greetings item 3)",
-            "Щ (Sibilants   Core Everyday Greetings item 4)"
+            "Ц (standard target expression for Sibilants   Core Everyday Greetings)",
+            "Ч (contextual contrast form in Sibilants   Core Everyday Greetings)",
+            "Ш (formal register distinction for Sibilants   Core Everyday Greetings)",
+            "Щ (colloquial conversational usage for Sibilants   Core Everyday Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "«Ц» represents the alveolar affricate [ts]."
@@ -879,10 +879,10 @@
         {
           "prompt": "Select the standard Russian word for expressing gratitude (\"Thank you!\"):",
           "options": [
-            "Спасибо! (Spasibo - Thank you)",
-            "Пожалуйста! (Pozhaluysta! - Please / You are welcome)",
-            "До свидания! (Do svidaniya! - Goodbye)",
-            "Привет! (informal)"
+            "Спасибо! (Spasibo spasíba — Thank you!)",
+            "Пожалуйста! (contextual contrast form in Sibilants   Core Everyday Greetings)",
+            "До свидания! (Do svidaniya — Goodbye!)",
+            "Привет! (Privet — Hi friendly informal greeting)"
           ],
           "answerIndex": 0,
           "explanation": "«Спасибо!» (*Spasibo*) means \"Thank you!\"."
@@ -890,10 +890,10 @@
         {
           "prompt": "Which phrase is the standard formal way to say \"Goodbye\" in Russian?",
           "options": [
-            "До свидания! (Do svidaniya - Goodbye)",
-            "Пока! (informal)",
-            "Привет! (informal)",
-            "Здравствуйте! (formal)"
+            "До свидания! (Do svidaniya — Goodbye!)",
+            "Пока! (contextual contrast form in Sibilants   Core Everyday Greetings)",
+            "Привет! (Privet — Hi friendly informal greeting)",
+            "Здравствуйте! (Zdravstvuyte — Hello formal / polite greeting)"
           ],
           "answerIndex": 0,
           "explanation": "«До свидания!» (*Do svidaniya*) means \"Goodbye!\"."
@@ -906,10 +906,10 @@
           "type": "multiple-choice",
           "prompt": "Which casual word is used among close friends for \"Hi / Hello\"?",
           "options": [
-            "Привет! (Privet - Hi informal)",
-            "Здравствуйте! (formal)",
-            "До свидания! (Do svidaniya! - Goodbye)",
-            "Спасибо! (Spasibo! - Thank you)"
+            "Привет! (Privet — Hi friendly informal greeting)",
+            "Здравствуйте! (Zdravstvuyte — Hello formal / polite greeting)",
+            "До свидания! (Do svidaniya — Goodbye!)",
+            "Спасибо! (Spasibo spasíba — Thank you!)"
           ],
           "answerIndex": 0,
           "explanation": "«Привет!» (*Privet*) is the friendly informal greeting."
@@ -976,10 +976,10 @@
         {
           "prompt": "Which construction is used in Russian to say \"My name is...\"?",
           "options": [
-            "Меня зовут... (Menya zovut - My name is)",
-            "Я зовут... (Ungrammatical distractor)",
-            "Мой имя есть... (Ungrammatical distractor)",
-            "Меня есть... (Ungrammatical distractor)"
+            "Меня зовут... (standard target expression for Self Introductions   Dialogue Mechanics)",
+            "Я зовут... (contextual contrast form in Self Introductions   Dialogue Mechanics)",
+            "Мой имя есть... (formal register distinction for Self Introductions   Dialogue Mechanics)",
+            "Меня есть... (colloquial conversational usage for Self Introductions   Dialogue Mechanics)"
           ],
           "answerIndex": 0,
           "explanation": "«Меня зовут...» (*Menya zovut...*) is the standard authentic construction."
@@ -987,10 +987,10 @@
         {
           "prompt": "How do you politely ask a stranger or professor their name in formal Russian?",
           "options": [
-            "Как вас зовут? (Kak vas zovut - What is your name formal)",
-            "Как тебя зовут? (informal)",
-            "Кто ты? (Kto ty? - Who are you?)",
-            "Где дом? (Gde dom? - Where is the house?)"
+            "Как вас зовут? (Kak vas zovut? — What is your name? polite / formal)",
+            "Как тебя зовут? (Kak tebya zovut? — What is your name? informal / friendly)",
+            "Кто ты? (formal register distinction for Self Introductions   Dialogue Mechanics)",
+            "Где дом? (colloquial conversational usage for Self Introductions   Dialogue Mechanics)"
           ],
           "answerIndex": 0,
           "explanation": "«Как вас зовут?» (*Kak vas zovut?*) uses the polite plural/formal pronoun form «вас»."
@@ -1002,10 +1002,10 @@
         {
           "prompt": "Select the polite phrase meaning \"Pleased to meet you!\" upon an introduction:",
           "options": [
-            "Очень приятно! (Ochen priyatno - Pleased to meet you)",
-            "До свидания! (Do svidaniya! - Goodbye)",
-            "Спасибо! (Spasibo! - Thank you)",
-            "Пожалуйста! (Pozhaluysta! - Please / You are welcome)"
+            "Очень приятно! (Ochen' priyatno! — Pleased to meet you!)",
+            "До свидания! (Do svidaniya — Goodbye!)",
+            "Спасибо! (Spasibo spasíba — Thank you!)",
+            "Пожалуйста! (colloquial conversational usage for Self Introductions   Dialogue Mechanics)"
           ],
           "answerIndex": 0,
           "explanation": "«Очень приятно!» (*Ochen' priyatno!*) means \"Pleased to meet you!\"."
@@ -1029,10 +1029,10 @@
           "type": "multiple-choice",
           "prompt": "What is the correct formal response when introduced to a new colleague who says «Очень приятно!»?",
           "options": [
-            "Очень приятно! / Взаимно! (Ochen priyatno / Vzaimno - Pleased to meet you / Likewise)",
-            "Пока! (informal)",
-            "Где кот? (Gde kot? - Where is the cat?)",
-            "Нет, спасибо! (Net, spasibo! - No, thank you!)"
+            "Очень приятно! / Взаимно! (standard target expression for Self Introductions   Dialogue Mechanics)",
+            "Пока! (contextual contrast form in Self Introductions   Dialogue Mechanics)",
+            "Где кот? (formal register distinction for Self Introductions   Dialogue Mechanics)",
+            "Нет, спасибо! (colloquial conversational usage for Self Introductions   Dialogue Mechanics)"
           ],
           "answerIndex": 0,
           "explanation": "Responding with «Очень приятно!» or «Взаимно!» is the correct etiquette."
@@ -1101,9 +1101,9 @@
         {
           "prompt": "Какая форма существительного «рубль» грамматически верна после числительного «четыре» (4)?",
           "options": [
-            "четыре рубля (chetyre rublya)",
-            "четыре рублей (chetyre rubley)",
-            "четыре рубль (chetyre rubl')"
+            "четыре рубля (standard target expression for Unit 2 Lesson 1 target grammar)",
+            "четыре рублей (contextual contrast form in Unit 2 Lesson 1 target grammar)",
+            "четыре рубль (formal register distinction for Unit 2 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "После числительных 2, 3, 4 существительное ставится в родительный падеж единственного числа: «четыре рубля»."
@@ -1115,9 +1115,9 @@
         {
           "prompt": "Какая форма существительного «студент» требуется после числительного «десять» (10)?",
           "options": [
-            "десять студентов (desyat' studentov)",
-            "десять студента (desyat' studenta)",
-            "десять студент (desyat' student)"
+            "десять студентов (standard target expression for Unit 2 Lesson 1 target grammar)",
+            "десять студента (contextual contrast form in Unit 2 Lesson 1 target grammar)",
+            "десять студент (formal register distinction for Unit 2 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "После числительных от 5 до 20 существительное ставится в родительный падеж множественного числа: «десять студентов»."
@@ -1130,9 +1130,9 @@
           "type": "multiple-choice",
           "prompt": "Какое предложение иллюстрирует безупречное падежное согласование числительных с существительными?",
           "options": [
-            "У меня один брат, две сестры и пять друзей., 2 сестры U menya odin brat, dve sestry i pyat' druzey., 2 sestry (U menya odin brat, dve sestry i pyat' druzey.)",
-            "У меня один братьев, две сестра и пять друг. (U menya odin brat'ev, dve sestra i pyat' drug.)",
-            "У меня один брата, две рублей и пять сестра. (U menya odin brata, dve rubley i pyat' sestra.)"
+            "У меня один брат, две сестры и пять друзей., 2 сестры U menya odin brat, dve sestry i pyat' druzey., 2 sestry (standard target expression for Unit 2 Lesson 1 target grammar)",
+            "У меня один братьев, две сестра и пять друг. (contextual contrast form in Unit 2 Lesson 1 target grammar)",
+            "У меня один брата, две рублей и пять сестра. (formal register distinction for Unit 2 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "1 брат (им. ед.), 2 сестры (род. ед. от сестра), 5 друзей (род. мн. от друг)."
@@ -1201,9 +1201,9 @@
         {
           "prompt": "Какая форма существительного верна в словосочетании «двадцать два ...» (22 rubles)?",
           "options": [
-            "двадцать два рубля (dvadtsat' dva rublya)",
-            "двадцать два рублей (dvadtsat' dva rubley)",
-            "двадцать два рубль (dvadtsat' dva rubl')"
+            "двадцать два рубля (standard target expression for Unit 2 Lesson 2 target grammar)",
+            "двадцать два рублей (contextual contrast form in Unit 2 Lesson 2 target grammar)",
+            "двадцать два рубль (formal register distinction for Unit 2 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В составных числительных форма существительного согласуется с последним компонентом: «два» требует родительного падежа единственного числа («рубля»)."
@@ -1215,9 +1215,9 @@
         {
           "prompt": "Как по-русски правильно спросить цену предмета: «How much does this cost?»",
           "options": [
-            "Сколько это стоит? (Skol'ko eto stoit?)",
-            "Кто это стоит? (Kto eto stoit?)",
-            "Где это стоит? (Gde eto stoit?)"
+            "Сколько это стоит? (standard target expression for Unit 2 Lesson 2 target grammar)",
+            "Кто это стоит? (contextual contrast form in Unit 2 Lesson 2 target grammar)",
+            "Где это стоит? (formal register distinction for Unit 2 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Вопрос о стоимости строится с местоимением «Сколько» и глаголом «стоит»: «Сколько это стоит?»."
@@ -1230,9 +1230,9 @@
           "type": "multiple-choice",
           "prompt": "Какой вариант правильно отражает согласование в ряду: 21, 24, 25 (книга)?",
           "options": [
-            "21 книга, 24 книги, 25 книг, 24 книги род. ед., 25 к 21 kniga, 24 knigi, 25 knig, 24 knigi rod. ed., 25 k (21 kniga, 24 knigi, 25 knig)",
-            "21 книг, 24 книга, 25 книги (21 knig, 24 kniga, 25 knigi)",
-            "21 книги, 24 книг, 25 книга (21 knigi, 24 knig, 25 kniga)"
+            "21 книга, 24 книги, 25 книг, 24 книги род. ед., 25 к 21 kniga, 24 knigi, 25 knig, 24 knigi rod. ed., 25 k (standard target expression for Unit 2 Lesson 2 target grammar)",
+            "21 книг, 24 книга, 25 книги (contextual contrast form in Unit 2 Lesson 2 target grammar)",
+            "21 книги, 24 книг, 25 книга (formal register distinction for Unit 2 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "21 книга (им. ед.), 24 книги (род. ед.), 25 книг (род. мн.)."
@@ -1301,9 +1301,9 @@
         {
           "prompt": "Как правильно сказать «It is three o'clock right now» по-русски?",
           "options": [
-            "Сейчас три часа. (Seychas tri chasa.)",
-            "Сейчас три часов. (Seychas tri chasov.)",
-            "Сейчас три час. (Seychas tri chas.)"
+            "Сейчас три часа. (standard target expression for Unit 2 Lesson 3 target grammar)",
+            "Сейчас три часов. (contextual contrast form in Unit 2 Lesson 3 target grammar)",
+            "Сейчас три час. (formal register distinction for Unit 2 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Числительное «три» требует формы родительного падежа единственного числа: «три часа»."
@@ -1315,9 +1315,9 @@
         {
           "prompt": "Как ответить на вопрос «Во сколько начинается концерт?» фразой «At seven o'clock in the evening»?",
           "options": [
-            "В семь часов вечера. (V sem' chasov vechera.)",
-            "В семь часа утра. (V sem' chasa utra.)",
-            "В семь час днём. (V sem' chas dnyom.)"
+            "В семь часов вечера. (standard target expression for Unit 2 Lesson 3 target grammar)",
+            "В семь часа утра. (contextual contrast form in Unit 2 Lesson 3 target grammar)",
+            "В семь час днём. (formal register distinction for Unit 2 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«В семь часов вечера» — грамматически и лексически безупречный ответ."
@@ -1330,9 +1330,9 @@
           "type": "multiple-choice",
           "prompt": "Какая тройка форм времени построена абсолютно грамматически верно?",
           "options": [
-            "Один час, два часа, пять часов (Core concept alternative form)",
-            "Один часов, два час, пять часа (Odin chasov, dva chas, pyat' chasa)",
-            "Один часа, два часов, пять час (Odin chasa, dva chasov, pyat' chas)"
+            "Один час, два часа, пять часов (standard target expression for Unit 2 Lesson 3 target grammar)",
+            "Один часов, два час, пять часа (contextual contrast form in Unit 2 Lesson 3 target grammar)",
+            "Один часа, два часов, пять час (formal register distinction for Unit 2 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "1 час (им. ед.), 2 часа (род. ед.), 5 часов (род. мн.)."
@@ -1401,9 +1401,9 @@
         {
           "prompt": "Как правильно сказать «On Wednesday» по-русски с учетом изменения женского рода в винительном падеже?",
           "options": [
-            "в среду (v sredu)",
-            "в среда (v sreda)",
-            "в среде (v srede)"
+            "в среду (standard target expression for Unit 2 Lesson 4 target grammar)",
+            "в среда (contextual contrast form in Unit 2 Lesson 4 target grammar)",
+            "в среде (formal register distinction for Unit 2 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительные женского рода на -а в винительном падеже с предлогом «в» принимают окончание -у: «в среду»."
@@ -1415,9 +1415,9 @@
         {
           "prompt": "Какой предлог используется со словом «вторник» для удобства произношения перед группой согласных?",
           "options": [
-            "во (7 key phrasing)",
-            "в (7 key phrasing)",
-            "на (7 alternative form)"
+            "во (standard target expression for Unit 2 Lesson 4 target grammar)",
+            "в (contextual contrast form in Unit 2 Lesson 4 target grammar)",
+            "на (formal register distinction for Unit 2 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Перед сочетанием согласных [вт] предлог «в» превращается в «во»: «во вторник»."
@@ -1430,9 +1430,9 @@
           "type": "multiple-choice",
           "prompt": "Какая цепочка дней недели в предложно-временной форме построена абсолютно безупречно?",
           "options": [
-            "В понедельник, во вторник, в среду, в четверг, в пятницу, в субботу, в воскресенье (V ponedel'nik, vo vtornik, v sredu, v chetverg, v pyatnitsu, v subbotu, v voskresen'e)",
-            "В понедельник, в вторник, в среда, в четверг, в пятница, в суббота, в воскресенье (V ponedel'nik, v vtornik, v sreda, v chetverg, v pyatnitsa, v subbota, v voskresen'e)",
-            "На понедельник, на вторник, на среду, на четверг, на пятницу (Na ponedel'nik, na vtornik, na sredu, na chetverg, na pyatnitsu)"
+            "В понедельник, во вторник, в среду, в четверг, в пятницу, в субботу, в воскресенье (standard target expression for Unit 2 Lesson 4 target grammar)",
+            "В понедельник, в вторник, в среда, в четверг, в пятница, в суббота, в воскресенье (contextual contrast form in Unit 2 Lesson 4 target grammar)",
+            "На понедельник, на вторник, на среду, на четверг, на пятницу (formal register distinction for Unit 2 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все дни недели требуют предлога в/во с винительным падежом (женский род: в среду, в пятницу, в субботу)."
@@ -1501,9 +1501,9 @@
         {
           "prompt": "Как ответить на вопрос «Какое сегодня число?», если сегодня первое число месяца мая?",
           "options": [
-            "Сегодня первое мая (Segodnya pervoe maya)",
-            "Сегодня один май (Segodnya odin may)",
-            "Сегодня первый май (Segodnya pervyy may)"
+            "Сегодня первое мая (standard target expression for Unit 2 Lesson 5 target grammar)",
+            "Сегодня один май (contextual contrast form in Unit 2 Lesson 5 target grammar)",
+            "Сегодня первый май (formal register distinction for Unit 2 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Календарная дата выражается порядковым числительным среднего рода (первое) и родительным падежом месяца (мая): «Сегодня первое мая»."
@@ -1515,9 +1515,9 @@
         {
           "prompt": "Как сказать «in summer in July» по-русски?",
           "options": [
-            "летом в июле (letom v iyule)",
-            "лето в июль (leto v iyul')",
-            "летом на июле (letom na iyule)"
+            "летом в июле (standard target expression for Unit 2 Lesson 5 target grammar)",
+            "лето в июль (contextual contrast form in Unit 2 Lesson 5 target grammar)",
+            "летом на июле (formal register distinction for Unit 2 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Время года в роли обстоятельства времени имеет форму творительного падежа («летом»), а месяц требует предложного падежа с предлогом «в» («в июле»)."
@@ -1530,9 +1530,9 @@
           "type": "multiple-choice",
           "prompt": "Какое высказывание безупречно связывает время года, месяц и дату?",
           "options": [
-            "Осенью в сентябре начинается учебный год: первое сентября — День знаний. (Osen'yu v sentyabre nachinaetsya uchebnyy god: pervoe sentyabrya — Den' znaniy.)",
-            "Осень в сентябрь начинается год: один сентябрь день. (Osen' v sentyabr' nachinaetsya god: odin sentyabr' den'.)",
-            "Осенью на сентябре начинается год: первый сентябре день. (Osen'yu na sentyabre nachinaetsya god: pervyy sentyabre den'.)"
+            "Осенью в сентябре начинается учебный год: первое сентября — День знаний. (standard target expression for Unit 2 Lesson 5 target grammar)",
+            "Осень в сентябрь начинается год: один сентябрь день. (contextual contrast form in Unit 2 Lesson 5 target grammar)",
+            "Осенью на сентябре начинается год: первый сентябре день. (formal register distinction for Unit 2 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Осенью в сентябре... первое сентября...» — эталонная грамматическая конструкция."
@@ -1601,9 +1601,9 @@
         {
           "prompt": "К какому грамматическому роду относится слово «дедушка» при согласовании с прилагательными и местоимениями?",
           "options": [
-            "Мужской род (Muzhskoy rod)",
-            "Женский род (Zhenskiy rod)",
-            "Средний род (Sredniy rod)"
+            "Мужской род (standard target expression for Unit 3 Lesson 1 target grammar)",
+            "Женский род (contextual contrast form in Unit 3 Lesson 1 target grammar)",
+            "Средний род (formal register distinction for Unit 3 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «дедушка» обозначает лицо мужского пола и грамматически требует форм мужского рода: «мой любимый дедушка»."
@@ -1615,9 +1615,9 @@
         {
           "prompt": "Какое существительное из предложенных относится к среднему роду?",
           "options": [
-            "окно (okno)",
-            "комната (komnata)",
-            "словарь (slovar')"
+            "окно (standard target expression for Unit 3 Lesson 1 target grammar)",
+            "комната (contextual contrast form in Unit 3 Lesson 1 target grammar)",
+            "словарь (formal register distinction for Unit 3 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительные с окончанием на -о (окно, письмо) относятся к среднему роду."
@@ -1630,9 +1630,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все три существительных распределены по родам в строгом порядке: мужской род — женский род — средний род?",
           "options": [
-            "Брат — сестра — письмо, сестра женский род, пис Brat — sestra — pis'mo, sestra zhenskiy rod, pis (Brat — sestra — pis'mo)",
-            "Окно — мама — папа (Okno — mama — papa)",
-            "Книга — стол — море (Kniga — stol — more)"
+            "Брат — сестра — письмо, сестра женский род, пис Brat — sestra — pis'mo, sestra zhenskiy rod, pis (standard target expression for Unit 3 Lesson 1 target grammar)",
+            "Окно — мама — папа (contextual contrast form in Unit 3 Lesson 1 target grammar)",
+            "Книга — стол — море (formal register distinction for Unit 3 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Брат (мужской род), сестра (женский род), письмо (средний род)."
@@ -1701,9 +1701,9 @@
         {
           "prompt": "Какое притяжательное местоимение требуется со словом «машина» (женский род) для 1-го лица?",
           "options": [
-            "моя (moya)",
-            "мой (moy)",
-            "моё (moyo)"
+            "моя (standard target expression for Unit 3 Lesson 2 target grammar)",
+            "мой (contextual contrast form in Unit 3 Lesson 2 target grammar)",
+            "моё (formal register distinction for Unit 3 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «машина» женского рода, поэтому местоимение согласуется в форме женского рода: «моя машина»."
@@ -1715,9 +1715,9 @@
         {
           "prompt": "Какой вопрос о принадлежности необходимо задать к существительному среднего рода «письмо»?",
           "options": [
-            "Чьё это письмо? (Ch'yo eto pis'mo?)",
-            "Чей это письмо? (Chey eto pis'mo?)",
-            "Чья это письмо? (Ch'ya eto pis'mo?)"
+            "Чьё это письмо? (standard target expression for Unit 3 Lesson 2 target grammar)",
+            "Чей это письмо? (contextual contrast form in Unit 3 Lesson 2 target grammar)",
+            "Чья это письмо? (formal register distinction for Unit 3 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "К существительным среднего рода задаётся вопрос «Чьё?»: «Чьё это письмо?»."
@@ -1730,9 +1730,9 @@
           "type": "multiple-choice",
           "prompt": "Какая реплика демонстрирует безупречное согласование вопроса и притяжательного местоимения?",
           "options": [
-            "— Чья это комната? — Это наша светлая комната. → вопрос «Чья?» → ответ — Ch'ya eto komnata? — Eto nasha svetlaya komnata. → vopros «Ch'ya?» → otvet (— Ch'ya eto komnata? — Eto nasha svetlaya komnata.)",
-            "— Чей это комната? — Это наше светлая комната. (— Chey eto komnata? — Eto nashe svetlaya komnata.)",
-            "— Чьё это комната? — Это мой светлая комната. (— Ch'yo eto komnata? — Eto moy svetlaya komnata.)"
+            "— Чья это комната? — Это наша светлая комната. → вопрос «Чья?» → ответ — Ch'ya eto komnata? — Eto nasha svetlaya komnata. → vopros «Ch'ya?» → otvet (standard target expression for Unit 3 Lesson 2 target grammar)",
+            "— Чей это комната? — Это наше светлая комната. (contextual contrast form in Unit 3 Lesson 2 target grammar)",
+            "— Чьё это комната? — Это мой светлая комната. (formal register distinction for Unit 3 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Комната (женский род) → вопрос «Чья?» → ответ «наша комната»."
@@ -1801,9 +1801,9 @@
         {
           "prompt": "Какая форма притяжательного местоимения верна при указании на собственность женщины (Анна)?",
           "options": [
-            "её (eyo)",
-            "ево (evo)",
-            "ейная (eynaya)"
+            "её (standard target expression for Unit 3 Lesson 3 target grammar)",
+            "ево (contextual contrast form in Unit 3 Lesson 3 target grammar)",
+            "ейная (formal register distinction for Unit 3 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Принадлежность лицу женского рода выражается неизменяемой формой «её»."
@@ -1815,9 +1815,9 @@
         {
           "prompt": "Как произносится согласный «г» в притяжательном местоимении «его»?",
           "options": [
-            "как звук (kak zvuk v)",
-            "как звук (kak zvuk g)",
-            "как звук (kak zvuk kh)"
+            "как звук (standard target expression for Unit 3 Lesson 3 target grammar)",
+            "как звук (contextual contrast form in Unit 3 Lesson 3 target grammar)",
+            "как звук (formal register distinction for Unit 3 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В местоимении «его» буква «г» орфоэпически читается как [в]: [ево́]."
@@ -1830,9 +1830,9 @@
           "type": "multiple-choice",
           "prompt": "Какое предложение грамматически безупречно употребляет притяжательные местоимения 3-го лица?",
           "options": [
-            "Иван показал его новый проект, а Анна объяснила её сложную задачу. (Ivan pokazal ego novyy proekt, a Anna obyasnila eyo slozhnuyu zadachu.)",
-            "Иван показал ево новый проект, а Анна объяснила еёйную задачу. (Ivan pokazal evo novyy proekt, a Anna obyasnila eyoynuyu zadachu.)",
-            "Иван показал ихний новый проект, а Анна объяснила свойная задачу. (Ivan pokazal ikhniy novyy proekt, a Anna obyasnila svoynaya zadachu.)"
+            "Иван показал его новый проект, а Анна объяснила её сложную задачу. (standard target expression for Unit 3 Lesson 3 target grammar)",
+            "Иван показал ево новый проект, а Анна объяснила еёйную задачу. (contextual contrast form in Unit 3 Lesson 3 target grammar)",
+            "Иван показал ихний новый проект, а Анна объяснила свойная задачу. (formal register distinction for Unit 3 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Формы «его» и «её» — строгая норма русского литературного языка."
@@ -1901,9 +1901,9 @@
         {
           "prompt": "Какая падежная форма существительного «машина» требуется после отрицательного слова «нет»?",
           "options": [
-            "нет машины (net mashiny)",
-            "нет машина (net mashina)",
-            "нет машине (net mashine)"
+            "нет машины (standard target expression for Unit 3 Lesson 4 target grammar)",
+            "нет машина (contextual contrast form in Unit 3 Lesson 4 target grammar)",
+            "нет машине (formal register distinction for Unit 3 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «нет» требует обязательного употребления родительного падежа: «нет машины»."
@@ -1915,9 +1915,9 @@
         {
           "prompt": "Как грамматически правильно сказать по-русски «I have a brother and a sister»?",
           "options": [
-            "У меня есть брат и сестра. (U menya est' brat i sestra.)",
-            "Я имею брат и сестра. (Ya imeyu brat i sestra.)",
-            "У меня есть брата и сестры. (U menya est' brata i sestry.)"
+            "У меня есть брат и сестра. (standard target expression for Unit 3 Lesson 4 target grammar)",
+            "Я имею брат и сестра. (contextual contrast form in Unit 3 Lesson 4 target grammar)",
+            "У меня есть брата и сестры. (formal register distinction for Unit 3 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Конструкция «У меня есть...» требует именительного падежа: «У меня есть брат и сестра»."
@@ -1930,9 +1930,9 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте пара «утверждение — отрицание» построена грамматически безупречно?",
           "options": [
-            "У меня есть билет. ↔ У меня нет билета. ↔ нет билета U menya est' bilet. ↔ U menya net bileta. ↔ net bileta (Core concept alternative form)",
-            "У меня есть билет. ↔ У меня нет билет. (Core concept alternative form)",
-            "У меня есть билета. ↔ У меня нет билету. (Core concept alternative form)"
+            "У меня есть билет. ↔ У меня нет билета. ↔ нет билета U menya est' bilet. ↔ U menya net bileta. ↔ net bileta (standard target expression for Unit 3 Lesson 4 target grammar)",
+            "У меня есть билет. ↔ У меня нет билет. (contextual contrast form in Unit 3 Lesson 4 target grammar)",
+            "У меня есть билета. ↔ У меня нет билету. (formal register distinction for Unit 3 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Есть билет (именительный падеж) ↔ нет билета (родительный падеж)."
@@ -2001,9 +2001,9 @@
         {
           "prompt": "Какая форма множественного числа верна для слова «друг»?",
           "options": [
-            "друзья (druz'ya)",
-            "други (drugi)",
-            "другы (drugy)"
+            "друзья (standard target expression for Unit 3 Lesson 5 target grammar)",
+            "други (contextual contrast form in Unit 3 Lesson 5 target grammar)",
+            "другы (formal register distinction for Unit 3 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «друг» образует множественное число нерегулярно: «друг → друзья»."
@@ -2015,9 +2015,9 @@
         {
           "prompt": "Какая форма множественного числа является нормативной для слова «город»?",
           "options": [
-            "города (goroda)",
-            "городы (gorody)",
-            "городи (gorodi)"
+            "города (standard target expression for Unit 3 Lesson 5 target grammar)",
+            "городы (contextual contrast form in Unit 3 Lesson 5 target grammar)",
+            "городи (formal register distinction for Unit 3 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительное мужского рода «город» во множественном числе принимает ударное окончание -а: «города́»."
@@ -2030,9 +2030,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все формы множественного числа образованы абсолютно правильно?",
           "options": [
-            "Дома, города, друзья, братья, люди, дети, письма (Doma, goroda, druz'ya, brat'ya, lyudi, deti, pis'ma)",
-            "Домы, городы, други, браты, человеки, письмы (Domy, gorody, drugi, braty, cheloveki, pis'my)",
-            "Доме, городе, друзи, братьи, ребёнки, письми (Dome, gorode, druzi, brat'i, rebyonki, pis'mi)"
+            "Дома, города, друзья, братья, люди, дети, письма (standard target expression for Unit 3 Lesson 5 target grammar)",
+            "Домы, городы, други, браты, человеки, письмы (contextual contrast form in Unit 3 Lesson 5 target grammar)",
+            "Доме, городе, друзи, братьи, ребёнки, письми (formal register distinction for Unit 3 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все слова в первом ряду представляют собой нормативные формы множественного числа."
@@ -2101,9 +2101,9 @@
         {
           "prompt": "Какая форма глагола «понимать» грамматически верна для местоимения «мы»?",
           "options": [
-            "мы понимаем (my ponimaem)",
-            "мы понимаете (my ponimaete)",
-            "мы понимают (my ponimayut)"
+            "мы понимаем (standard target expression for Unit 4 Lesson 1 target grammar)",
+            "мы понимаете (contextual contrast form in Unit 4 Lesson 1 target grammar)",
+            "мы понимают (formal register distinction for Unit 4 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для местоимения 1-го лица множественного числа «мы» глаголы I спряжения принимают окончание -ем: «мы понимаем»."
@@ -2115,9 +2115,9 @@
         {
           "prompt": "Как грамматически правильно сказать «You (informal) read and understand well»?",
           "options": [
-            "Ты читаешь и хорошо понимаешь. (Ty chitaesh' i khorosho ponimaesh'.)",
-            "Ты читает и хорошо понимает. (Ty chitaet i khorosho ponimaet.)",
-            "Ты читаете и хорошо понимаете. (Ty chitaete i khorosho ponimaete.)"
+            "Ты читаешь и хорошо понимаешь. (standard target expression for Unit 4 Lesson 1 target grammar)",
+            "Ты читает и хорошо понимает. (contextual contrast form in Unit 4 Lesson 1 target grammar)",
+            "Ты читаете и хорошо понимаете. (formal register distinction for Unit 4 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для местоимения 2-го лица единственного числа «ты» используется окончание -ешь: «ты читаешь и понимаешь»."
@@ -2130,9 +2130,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все глагольные формы I спряжения согласованы верно?",
           "options": [
-            "Я знаю, ты работаешь, он читает, мы понимаем, они работают (Ya znayu, ty rabotaesh', on chitaet, my ponimaem, oni rabotayut)",
-            "Я знает, ты читаю, он работаем, мы читаете (Ya znaet, ty chitayu, on rabotaem, my chitaete)",
-            "Я знаем, ты знает, он работают, они читает (Ya znaem, ty znaet, on rabotayut, oni chitaet)"
+            "Я знаю, ты работаешь, он читает, мы понимаем, они работают (standard target expression for Unit 4 Lesson 1 target grammar)",
+            "Я знает, ты читаю, он работаем, мы читаете (contextual contrast form in Unit 4 Lesson 1 target grammar)",
+            "Я знаем, ты знает, он работают, они читает (formal register distinction for Unit 4 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все личные окончания глаголов I спряжения в первом ряду образованы по нормативным правилам."
@@ -2209,9 +2209,9 @@
         {
           "prompt": "Какая форма глагола «говорить» грамматически верна для местоимения «они»?",
           "options": [
-            "они говорят (oni govoryat)",
-            "они говорут (oni govorut)",
-            "они говореют (oni govoreyut)"
+            "они говорят (standard target expression for Unit 4 Lesson 2 target grammar)",
+            "они говорут (contextual contrast form in Unit 4 Lesson 2 target grammar)",
+            "они говореют (formal register distinction for Unit 4 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол «говорить» относится ко II спряжению и в форме 3-го лица множественного числа имеет окончание -ят: «они говорят»."
@@ -2223,9 +2223,9 @@
         {
           "prompt": "Как грамматически правильно сказать «We speak Russian and study English»?",
           "options": [
-            "Мы говорим по-русски и учим английский язык. (My govorim po-russki i uchim angliyskiy yazyk.)",
-            "Мы говоришь по-русски и учит английский. (My govorish' po-russki i uchit angliyskiy.)",
-            "Мы говорят по-русски и учите английский. (My govoryat po-russki i uchite angliyskiy.)"
+            "Мы говорим по-русски и учим английский язык. (standard target expression for Unit 4 Lesson 2 target grammar)",
+            "Мы говоришь по-русски и учит английский. (contextual contrast form in Unit 4 Lesson 2 target grammar)",
+            "Мы говорят по-русски и учите английский. (formal register distinction for Unit 4 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для местоимения «мы» используются формы 1-го лица множественного числа: «говорим» и «учим»."
@@ -2238,9 +2238,9 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте глагольные формы II спряжения употреблены без ошибок?",
           "options": [
-            "Я говорю, ты учишь, он помнит, мы смотрим, они говорят (Ya govoryu, ty uchish', on pomnit, my smotrim, oni govoryat)",
-            "Я говоришь, ты говорит, он учим, они учит (Ya govorish', ty govorit, on uchim, oni uchit)",
-            "Я говорет, ты учит, мы говорите, они помнит (Ya govoret, ty uchit, my govorite, oni pomnit)"
+            "Я говорю, ты учишь, он помнит, мы смотрим, они говорят (standard target expression for Unit 4 Lesson 2 target grammar)",
+            "Я говоришь, ты говорит, он учим, они учит (contextual contrast form in Unit 4 Lesson 2 target grammar)",
+            "Я говорет, ты учит, мы говорите, они помнит (formal register distinction for Unit 4 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все личные окончания глаголов II спряжения в первом варианте образованы верно."
@@ -2309,9 +2309,9 @@
         {
           "prompt": "Где в русском предложении ставится частица «не» для отрицания действия?",
           "options": [
-            "Непосредственно перед отрицаемым глаголом (Neposredstvenno pered otritsaemym glagolom)",
-            "В самом конце предложения (V samom kontse predlozheniya)",
-            "После подлежащего через тире (Posle podlezhashchego cherez tire)"
+            "Непосредственно перед отрицаемым глаголом (standard target expression for Unit 4 Lesson 3 target grammar)",
+            "В самом конце предложения (contextual contrast form in Unit 4 Lesson 3 target grammar)",
+            "После подлежащего через тире (formal register distinction for Unit 4 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Отрицательная частица «не» ставится непосредственно перед тем словом, значение которого отрицается (обычно перед глаголом)."
@@ -2323,9 +2323,9 @@
         {
           "prompt": "Как грамматически корректно спросить «What are you (plural) doing now?»",
           "options": [
-            "Что вы сейчас делаете? (Chto vy seychas delaete?)",
-            "Где вы сейчас делаете? (Gde vy seychas delaete?)",
-            "Кто вы сейчас делаете? (Kto vy seychas delaete?)"
+            "Что вы сейчас делаете? (standard target expression for Unit 4 Lesson 3 target grammar)",
+            "Где вы сейчас делаете? (contextual contrast form in Unit 4 Lesson 3 target grammar)",
+            "Кто вы сейчас делаете? (formal register distinction for Unit 4 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Вопрос о неодушевлённом предмете действия строится с местоимением «Что»: «Что вы сейчас делаете?»."
@@ -2338,9 +2338,9 @@
           "type": "multiple-choice",
           "prompt": "Какая пара «вопрос — отрицательный ответ» построена грамматически верно?",
           "options": [
-            "— Ты говоришь по-французски? — Нет, я не говорю по-французски. (— Ty govorish' po-frantsuzski? — Net, ya ne govoryu po-frantsuzski.)",
-            "— Ты говоришь по-французски? — Нет, я говорю нет. (— Ty govorish' po-frantsuzski? — Net, ya govoryu net.)",
-            "— Ты говоришь по-французски? — Да, я не говорю. (— Ty govorish' po-frantsuzski? — Da, ya ne govoryu.)"
+            "— Ты говоришь по-французски? — Нет, я не говорю по-французски. (standard target expression for Unit 4 Lesson 3 target grammar)",
+            "— Ты говоришь по-французски? — Нет, я говорю нет. (contextual contrast form in Unit 4 Lesson 3 target grammar)",
+            "— Ты говоришь по-французски? — Да, я не говорю. (formal register distinction for Unit 4 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Отрицательный ответ оформляется словом «Нет» и частицей «не» перед глаголом: «Нет, я не говорю»."
@@ -2409,9 +2409,9 @@
         {
           "prompt": "Какое наречие образа действия образуется от прилагательного «быстрый»?",
           "options": [
-            "быстро (bystro)",
-            "быстрый (bystryy)",
-            "быстрая (bystraya)"
+            "быстро (standard target expression for Unit 4 Lesson 4 target grammar)",
+            "быстрый (contextual contrast form in Unit 4 Lesson 4 target grammar)",
+            "быстрая (formal register distinction for Unit 4 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Наречия от качественных прилагательных образуются при помощи суффикса -о: «быстрый → быстро»."
@@ -2423,9 +2423,9 @@
         {
           "prompt": "Как правильно сказать «He always speaks the truth and never lies»?",
           "options": [
-            "Он всегда говорит правду и никогда не обманывает. (On vsegda govorit pravdu i nikogda ne obmanyvaet.)",
-            "Он часто говорит правду и когда обманывает. (On chasto govorit pravdu i kogda obmanyvaet.)",
-            "Он редко говорит правду и всегда нет обманывает. (On redko govorit pravdu i vsegda net obmanyvaet.)"
+            "Он всегда говорит правду и никогда не обманывает. (standard target expression for Unit 4 Lesson 4 target grammar)",
+            "Он часто говорит правду и когда обманывает. (contextual contrast form in Unit 4 Lesson 4 target grammar)",
+            "Он редко говорит правду и всегда нет обманывает. (formal register distinction for Unit 4 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Наречие «всегда» обозначает постоянное действие, а «никогда не» выражает категорическое отрицание."
@@ -2438,9 +2438,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении наречия частотности и образа действия употреблены абсолютно верно?",
           "options": [
-            "Студент быстро читает, правильно отвечает и всегда учит слова. (Student bystro chitaet, pravil'no otvechaet i vsegda uchit slova.)",
-            "Студент быстрый читает, правильный отвечает и всегда не учит. (Student bystryy chitaet, pravil'nyy otvechaet i vsegda ne uchit.)",
-            "Студент быстрому читает, правильно отвечает, редко учит не. (Student bystromu chitaet, pravil'no otvechaet, redko uchit ne.)"
+            "Студент быстро читает, правильно отвечает и всегда учит слова. (standard target expression for Unit 4 Lesson 4 target grammar)",
+            "Студент быстрый читает, правильный отвечает и всегда не учит. (contextual contrast form in Unit 4 Lesson 4 target grammar)",
+            "Студент быстрому читает, правильно отвечает, редко учит не. (formal register distinction for Unit 4 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Формы «быстро», «правильно» и «всегда» использованы в точном соответствии с грамматической нормой."
@@ -2509,9 +2509,9 @@
         {
           "prompt": "В каком предложении оба глагола (I и II спряжения) согласованы с местоимением «мы» правильно?",
           "options": [
-            "Мы много работаем (I spr.)",
-            "Мы много работаете и хорошо говорит по-русски. (My mnogo rabotaete i khorosho govorit po-russki.)",
-            "Мы много работают и хорошо говорите по-русски. (My mnogo rabotayut i khorosho govorite po-russki.)"
+            "Мы много работаем (standard target expression for Unit 4 Lesson 5 target grammar)",
+            "Мы много работаете и хорошо говорит по-русски. (contextual contrast form in Unit 4 Lesson 5 target grammar)",
+            "Мы много работают и хорошо говорите по-русски. (formal register distinction for Unit 4 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Мы работаем» (I спряжение, окончание -ем) и «мы говорим» (II спряжение, окончание -им)."
@@ -2523,9 +2523,9 @@
         {
           "prompt": "Как грамматически корректно выразить профессию и владение языками: «He is a programmer, works in an office and speaks two languages»?",
           "options": [
-            "Он программист, работает в офисе и говорит на двух языках. (On programmist, rabotaet v ofise i govorit na dvukh yazykakh.)",
-            "Он программист, работаю в офисе и говорю на двух языках. (On programmist, rabotayu v ofise i govoryu na dvukh yazykakh.)",
-            "Он программист, работаешь в офисе и говоришь на двух языках. (On programmist, rabotaesh' v ofise i govorish' na dvukh yazykakh.)"
+            "Он программист, работает в офисе и говорит на двух языках. (standard target expression for Unit 4 Lesson 5 target grammar)",
+            "Он программист, работаю в офисе и говорю на двух языках. (contextual contrast form in Unit 4 Lesson 5 target grammar)",
+            "Он программист, работаешь в офисе и говоришь на двух языках. (formal register distinction for Unit 4 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для подлежащего «он» используются глагольные формы 3-го лица единственного числа: «работает» и «говорит»."
@@ -2538,9 +2538,9 @@
           "type": "multiple-choice",
           "prompt": "Какой фрагмент диалога построен безупречно с точки зрения русской глагольной системы?",
           "options": [
-            "— Где вы работаете? — Я работаю в школе, учу детей и говорю с родителями. (— Gde vy rabotaete? — Ya rabotayu v shkole, uchu detey i govoryu s roditelyami.)",
-            "— Где вы работаете? — Я работаешь в школе, учит детей. (— Gde vy rabotaete? — Ya rabotaesh' v shkole, uchit detey.)",
-            "— Где вы работаете? — Я работать в школе, учить детей. (— Gde vy rabotaete? — Ya rabotat' v shkole, uchit' detey.)"
+            "— Где вы работаете? — Я работаю в школе, учу детей и говорю с родителями. (standard target expression for Unit 4 Lesson 5 target grammar)",
+            "— Где вы работаете? — Я работаешь в школе, учит детей. (contextual contrast form in Unit 4 Lesson 5 target grammar)",
+            "— Где вы работаете? — Я работать в школе, учить детей. (formal register distinction for Unit 4 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В первом варианте все глаголы согласованы с местоимением «я» в 1-м лице единственного числа: «работаю», «учу», «говорю»."
@@ -2609,9 +2609,9 @@
         {
           "prompt": "Какой постфикс возвратности (-ся или -сь) пишется после гласной в форме 1-го лица «я просыпаю...»?",
           "options": [
-            "-сь (Core concept key phrasing)",
-            "-ся (-sya)",
-            "-ть (Core concept alternative form)"
+            "-сь (standard target expression for Unit 5 Lesson 1 target grammar)",
+            "-ся (contextual contrast form in Unit 5 Lesson 1 target grammar)",
+            "-ть (formal register distinction for Unit 5 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "После гласных букв в возвратных глаголах пишется постфикс -сь: «я просыпаюсь»."
@@ -2623,9 +2623,9 @@
         {
           "prompt": "Как грамматически правильно сказать «He wakes up early and gets dressed quickly»?",
           "options": [
-            "Он рано просыпается и быстро одевается. (On rano prosypaetsya i bystro odevaetsya.)",
-            "Он рано просыпаюсь и быстро одеваюсь. (On rano prosypayus' i bystro odevayus'.)",
-            "Он рано просыпаетесь и быстро одеваетесь. (On rano prosypaetes' i bystro odevaetes'.)"
+            "Он рано просыпается и быстро одевается. (standard target expression for Unit 5 Lesson 1 target grammar)",
+            "Он рано просыпаюсь и быстро одеваюсь. (contextual contrast form in Unit 5 Lesson 1 target grammar)",
+            "Он рано просыпаетесь и быстро одеваетесь. (formal register distinction for Unit 5 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для местоимения 3-го лица «он» используются формы с окончанием -ет и постфиксом -ся: «просыпается», «одевается»."
@@ -2638,9 +2638,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все формы возвратных глаголов образованы грамматически верно?",
           "options": [
-            "Я умываюсь, ты одеваешься, он ложится, мы встречаемся, они просыпаются (Ya umyvayus', ty odevaesh'sya, on lozhitsya, my vstrechaemsya, oni prosypayutsya)",
-            "Я умываюся, ты одеваешьсь, он ложитсь, мы встречаетесь (Ya umyvayusya, ty odevaesh's', on lozhits', my vstrechaetes')",
-            "Я умываетесь, ты одеваюсь, он просыпаешься, они ложится (Ya umyvaetes', ty odevayus', on prosypaesh'sya, oni lozhitsya)"
+            "Я умываюсь, ты одеваешься, он ложится, мы встречаемся, они просыпаются (standard target expression for Unit 5 Lesson 1 target grammar)",
+            "Я умываюся, ты одеваешьсь, он ложитсь, мы встречаетесь (contextual contrast form in Unit 5 Lesson 1 target grammar)",
+            "Я умываетесь, ты одеваюсь, он просыпаешься, они ложится (formal register distinction for Unit 5 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все личные формы возвратных глаголов в первом ряду согласованы по правилам русской грамматики."
@@ -2709,9 +2709,9 @@
         {
           "prompt": "Какую форму в винительном падеже принимает существительное женского рода «газета» после глагола «читать»?",
           "options": [
-            "газету (gazetu)",
-            "газета (gazeta)",
-            "газете (gazete)"
+            "газету (standard target expression for Unit 5 Lesson 2 target grammar)",
+            "газета (contextual contrast form in Unit 5 Lesson 2 target grammar)",
+            "газете (formal register distinction for Unit 5 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительные женского рода на -а в винительном падеже единственного числа принимают окончание -у: «читать газету»."
@@ -2723,9 +2723,9 @@
         {
           "prompt": "Как грамматически правильно сказать «He drinks tea and eats soup»?",
           "options": [
-            "Он пьёт чай и ест суп. (On p'yot chay i est sup.)",
-            "Он пьёт чая и ест супа. (On p'yot chaya i est supa.)",
-            "Он пьёт чаю и ест супу. (On p'yot chayu i est supu.)"
+            "Он пьёт чай и ест суп. (standard target expression for Unit 5 Lesson 2 target grammar)",
+            "Он пьёт чая и ест супа. (contextual contrast form in Unit 5 Lesson 2 target grammar)",
+            "Он пьёт чаю и ест супу. (formal register distinction for Unit 5 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Неодушевленные существительные мужского рода «чай» и «суп» в винительном падеже сохраняют форму именительного падежа."
@@ -2738,9 +2738,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все существительные в форме винительного падежа употреблены правильно?",
           "options": [
-            "Я читаю книгу, слушаю музыку, пью воду и смотрю фильм, музыку -у, воду -у — женский Ya chitayu knigu, slushayu muzyku, p'yu vodu i smotryu fil'm, muzyku -u, vodu -u — zhenskiy (Ya chitayu knigu, slushayu muzyku, p'yu vodu i smotryu fil'm)",
-            "Я читаю книга, слушаю музыка, пью вода и смотрю фильма (Ya chitayu kniga, slushayu muzyka, p'yu voda i smotryu fil'ma)",
-            "Я читаю книгой, слушаю музыке, пью воде и смотрю фильму (Ya chitayu knigoy, slushayu muzyke, p'yu vode i smotryu fil'mu)"
+            "Я читаю книгу, слушаю музыку, пью воду и смотрю фильм, музыку -у, воду -у — женский Ya chitayu knigu, slushayu muzyku, p'yu vodu i smotryu fil'm, muzyku -u, vodu -u — zhenskiy (standard target expression for Unit 5 Lesson 2 target grammar)",
+            "Я читаю книга, слушаю музыка, пью вода и смотрю фильма (contextual contrast form in Unit 5 Lesson 2 target grammar)",
+            "Я читаю книгой, слушаю музыке, пью воде и смотрю фильму (formal register distinction for Unit 5 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Книгу (-у), музыку (-у), воду (-у) — женский род; фильм — мужской неодушевлённый род."
@@ -2809,9 +2809,9 @@
         {
           "prompt": "Какую форму винительного падежа принимает одушевленное существительное мужского рода «друг» в предложении «Я знаю ...»?",
           "options": [
-            "друга (druga)",
-            "друг (drug)",
-            "другу (drugu)"
+            "друга (standard target expression for Unit 5 Lesson 3 target grammar)",
+            "друг (contextual contrast form in Unit 5 Lesson 3 target grammar)",
+            "другу (formal register distinction for Unit 5 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Одушевленные существительные мужского рода в винительном падеже принимают окончание -а: «знаю друга»."
@@ -2823,9 +2823,9 @@
         {
           "prompt": "Как грамматически корректно сказать «We meet our teacher and doctor»?",
           "options": [
-            "Мы встречаем нашего преподавателя и врача. (My vstrechaem nashego prepodavatelya i vracha.)",
-            "Мы встречаем наш преподаватель и врач. (My vstrechaem nash prepodavatel' i vrach.)",
-            "Мы встречаем нашему преподавателю и врачу. (My vstrechaem nashemu prepodavatelyu i vrachu.)"
+            "Мы встречаем нашего преподавателя и врача. (standard target expression for Unit 5 Lesson 3 target grammar)",
+            "Мы встречаем наш преподаватель и врач. (contextual contrast form in Unit 5 Lesson 3 target grammar)",
+            "Мы встречаем нашему преподавателю и врачу. (formal register distinction for Unit 5 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Одушевленные существительные мужского рода «преподаватель» и «врач» в винительном падеже принимают окончания -я / -а («преподавателя», «врача»)."
@@ -2838,9 +2838,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении правило одушевленности применено абсолютно безупречно?",
           "options": [
-            "Я вижу красивый парк неодуш. и жду хорошего друга одуш.. совпадает с им. п., « Ya vizhu krasivyy park neodush. i zhdu khoroshego druga odush.. sovpadaet s im. p., « (neodush.)",
-            "Я вижу красивого парк и жду хороший друг. (Ya vizhu krasivogo park i zhdu khoroshiy drug.)",
-            "Я вижу красивому парку и жду хорошему другу. (Ya vizhu krasivomu parku i zhdu khoroshemu drugu.)"
+            "Я вижу красивый парк неодуш. и жду хорошего друга одуш.. совпадает с им. п., « Ya vizhu krasivyy park neodush. i zhdu khoroshego druga odush.. sovpadaet s im. p., « (standard target expression for Unit 5 Lesson 3 target grammar)",
+            "Я вижу красивого парк и жду хороший друг. (contextual contrast form in Unit 5 Lesson 3 target grammar)",
+            "Я вижу красивому парку и жду хорошему другу. (formal register distinction for Unit 5 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Парк» (неодушевлённое) совпадает с им. п., «друга» (одушевлённое) совпадает с род. п."
@@ -2909,9 +2909,9 @@
         {
           "prompt": "Какое наречие времени обозначает период с 18:00 до полуночи?",
           "options": [
-            "вечером (vecherom)",
-            "утром (utrom)",
-            "днём (dnyom)"
+            "вечером (standard target expression for Unit 5 Lesson 4 target grammar)",
+            "утром (contextual contrast form in Unit 5 Lesson 4 target grammar)",
+            "днём (formal register distinction for Unit 5 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Период с 18:00 до полуночи обозначается наречием времени «вечером»."
@@ -2923,9 +2923,9 @@
         {
           "prompt": "Как грамматически корректно сказать «The lesson starts at two o'clock in the afternoon»?",
           "options": [
-            "Урок начинается в два часа дня. (Urok nachinaetsya v dva chasa dnya.)",
-            "Урок начинается в два часов дня. (Urok nachinaetsya v dva chasov dnya.)",
-            "Урок начинается в два часе дня. (Urok nachinaetsya v dva chase dnya.)"
+            "Урок начинается в два часа дня. (standard target expression for Unit 5 Lesson 4 target grammar)",
+            "Урок начинается в два часов дня. (contextual contrast form in Unit 5 Lesson 4 target grammar)",
+            "Урок начинается в два часе дня. (formal register distinction for Unit 5 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "После числительного «два» существительное «час» ставится в родительный падеж единственного числа: «в два часа дня»."
@@ -2938,9 +2938,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении временные ориентиры суток и предлоги времени употреблены безупречно?",
           "options": [
-            "Утром в семь часов я встаю, а вечером в десять часов ложусь спать. (Utrom v sem' chasov ya vstayu, a vecherom v desyat' chasov lozhus' spat'.)",
-            "Утро в семь часов я встаю, а вечер в десять ложусь. (Utro v sem' chasov ya vstayu, a vecher v desyat' lozhus'.)",
-            "Утра в семь часов я встаю, а вечера в десять ложусь. (Utra v sem' chasov ya vstayu, a vechera v desyat' lozhus'.)"
+            "Утром в семь часов я встаю, а вечером в десять часов ложусь спать. (standard target expression for Unit 5 Lesson 4 target grammar)",
+            "Утро в семь часов я встаю, а вечер в десять ложусь. (contextual contrast form in Unit 5 Lesson 4 target grammar)",
+            "Утра в семь часов я встаю, а вечера в десять ложусь. (formal register distinction for Unit 5 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Формы «утром в семь часов» и «вечером в десять часов» грамматически безупречны."
@@ -3009,9 +3009,9 @@
         {
           "prompt": "Какой глагол логически завершает утренний распорядок перед выходом из дома: «Я просыпаюсь, умываюсь и быстро ...»?",
           "options": [
-            "одеваюсь (odevayus')",
-            "одеваю (odevayu)",
-            "одеваешься (odevaesh'sya)"
+            "одеваюсь (standard target expression for Unit 5 Lesson 5 target grammar)",
+            "одеваю (contextual contrast form in Unit 5 Lesson 5 target grammar)",
+            "одеваешься (formal register distinction for Unit 5 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В 1-м лице единственного числа возвратный глагол «одеваться» имеет форму «одеваюсь»."
@@ -3023,9 +3023,9 @@
         {
           "prompt": "Как грамматически безупречно построить предложение «In the evening after work I read a book and drink tea»?",
           "options": [
-            "Вечером после работы я читаю книгу и пью чай., «после работы» Vecherom posle raboty ya chitayu knigu i p'yu chay., «posle raboty» (Vecherom posle raboty ya chitayu knigu i p'yu chay.)",
-            "Вечером после работы я читает книга и пьёт чая. (Vecherom posle raboty ya chitaet kniga i p'yot chaya.)",
-            "Вечер после работа я читаю книге и пью чаю. (Vecher posle rabota ya chitayu knige i p'yu chayu.)"
+            "Вечером после работы я читаю книгу и пью чай., «после работы» Vecherom posle raboty ya chitayu knigu i p'yu chay., «posle raboty» (standard target expression for Unit 5 Lesson 5 target grammar)",
+            "Вечером после работы я читает книга и пьёт чая. (contextual contrast form in Unit 5 Lesson 5 target grammar)",
+            "Вечер после работа я читаю книге и пью чаю. (formal register distinction for Unit 5 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Вечером» (наречие времени), «после работы» (предлог с род. п.), «книгу» (вин. п. жен. рода), «чай» (вин. п. муж. неодуш. рода)."
@@ -3038,9 +3038,9 @@
           "type": "multiple-choice",
           "prompt": "Какой фрагмент текста наиболее грамотно и связно описывает распорядок дня?",
           "options": [
-            "Утром я рано просыпаюсь, умываюсь, пью кофе и в восемь часов иду на работу. (Utrom ya rano prosypayus', umyvayus', p'yu kofe i v vosem' chasov idu na rabotu.)",
-            "Утром я рано просыпаю, умываю, кофе пью и в восемь часе иду работа. (Utrom ya rano prosypayu, umyvayu, kofe p'yu i v vosem' chase idu rabota.)",
-            "Утра я рано просыпается, умывается, кофе пить и в восемь час. (Utra ya rano prosypaetsya, umyvaetsya, kofe pit' i v vosem' chas.)"
+            "Утром я рано просыпаюсь, умываюсь, пью кофе и в восемь часов иду на работу. (standard target expression for Unit 5 Lesson 5 target grammar)",
+            "Утром я рано просыпаю, умываю, кофе пью и в восемь часе иду работа. (contextual contrast form in Unit 5 Lesson 5 target grammar)",
+            "Утра я рано просыпается, умывается, кофе пить и в восемь час. (formal register distinction for Unit 5 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первый фрагмент безупречно согласован по лицу, времени, падежам и синтаксической связи."
@@ -3109,9 +3109,9 @@
         {
           "prompt": "Какая форма глагола «есть» (to eat) грамматически верна для местоимения «мы»?",
           "options": [
-            "мы едим (my edim)",
-            "мы едем (my edem)",
-            "мы едят (my edyat)"
+            "мы едим (standard target expression for Unit 6 Lesson 1 target grammar)",
+            "мы едем (contextual contrast form in Unit 6 Lesson 1 target grammar)",
+            "мы едят (formal register distinction for Unit 6 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для местоимения 1-го лица множественного числа «мы» форма глагола «есть» — «едим»."
@@ -3123,9 +3123,9 @@
         {
           "prompt": "Как грамматически правильно сказать «What are you drinking: tea or coffee?»",
           "options": [
-            "Что ты пьёшь: чай или кофе? (Chto ty p'yosh': chay ili kofe?)",
-            "Что ты пьёт: чай или кофе? (Chto ty p'yot: chay ili kofe?)",
-            "Что ты пить: чай или кофе? (Chto ty pit': chay ili kofe?)"
+            "Что ты пьёшь: чай или кофе? (standard target expression for Unit 6 Lesson 1 target grammar)",
+            "Что ты пьёт: чай или кофе? (contextual contrast form in Unit 6 Lesson 1 target grammar)",
+            "Что ты пить: чай или кофе? (formal register distinction for Unit 6 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для местоимения «ты» используется форма 2-го лица единственного числа «пьёшь»."
@@ -3138,9 +3138,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду формы глаголов «есть» и «пить» согласованы абсолютно верно?",
           "options": [
-            "Я ем суп и пью чай, а они едят мясо и пьют сок. (Ya em sup i p'yu chay, a oni edyat myaso i p'yut sok.)",
-            "Я ест суп и пьёт чай, а они едим мясо и пьёте сок. (Ya est sup i p'yot chay, a oni edim myaso i p'yote sok.)",
-            "Я ем суп и пьёшь чай, а они едят мясо и пьёт сок. (Ya em sup i p'yosh' chay, a oni edyat myaso i p'yot sok.)"
+            "Я ем суп и пью чай, а они едят мясо и пьют сок. (standard target expression for Unit 6 Lesson 1 target grammar)",
+            "Я ест суп и пьёт чай, а они едим мясо и пьёте сок. (contextual contrast form in Unit 6 Lesson 1 target grammar)",
+            "Я ем суп и пьёшь чай, а они едят мясо и пьёт сок. (formal register distinction for Unit 6 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Я ем / пью», «они едят / пьют» — все личные формы согласованы безупречно."
@@ -3209,9 +3209,9 @@
         {
           "prompt": "Какую падежную форму принимает существительное «вода» после слова «стакан» в заказе «стакан ...»?",
           "options": [
-            "воды (vody)",
-            "воду (vodu)",
-            "воде (vode)"
+            "воды (standard target expression for Unit 6 Lesson 2 target grammar)",
+            "воду (contextual contrast form in Unit 6 Lesson 2 target grammar)",
+            "воде (formal register distinction for Unit 6 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "После слов ёмкости и меры (стакан, чашка, бутылка) используется родительный падеж: «стакан воды»."
@@ -3223,9 +3223,9 @@
         {
           "prompt": "Как правильно сказать «There is a lot of milk and little sugar in the kitchen»?",
           "options": [
-            "На кухне есть много молока и мало сахара. (Na kukhne est' mnogo moloka i malo sakhara.)",
-            "На кухне есть много молоко и мало сахар. (Na kukhne est' mnogo moloko i malo sakhar.)",
-            "На кухне есть много молоку и мало сахару. (Na kukhne est' mnogo moloku i malo sakharu.)"
+            "На кухне есть много молока и мало сахара. (standard target expression for Unit 6 Lesson 2 target grammar)",
+            "На кухне есть много молоко и мало сахар. (contextual contrast form in Unit 6 Lesson 2 target grammar)",
+            "На кухне есть много молоку и мало сахару. (formal register distinction for Unit 6 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Слова «много» и «мало» требуют родительного падежа: «молока» и «сахара»."
@@ -3238,9 +3238,9 @@
           "type": "multiple-choice",
           "prompt": "В каком словосочетании родительный падеж количества использован без ошибок?",
           "options": [
-            "Чашка чая, стакан сока, килограмм сыра, много хлеба (Chashka chaya, stakan soka, kilogramm syra, mnogo khleba)",
-            "Чашка чай, стакан сок, килограмм сыр, много хлеб (Chashka chay, stakan sok, kilogramm syr, mnogo khleb)",
-            "Чашка чаем, стакан соком, килограмм сыром, много хлебом (Chashka chaem, stakan sokom, kilogramm syrom, mnogo khlebom)"
+            "Чашка чая, стакан сока, килограмм сыра, много хлеба (standard target expression for Unit 6 Lesson 2 target grammar)",
+            "Чашка чай, стакан сок, килограмм сыр, много хлеб (contextual contrast form in Unit 6 Lesson 2 target grammar)",
+            "Чашка чаем, стакан соком, килограмм сыром, много хлебом (formal register distinction for Unit 6 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все существительные («чая», «сока», «сыра», «хлеба») стоят в правильной форме родительного падежа."
@@ -3309,9 +3309,9 @@
         {
           "prompt": "Какую форму глагола (нравится или нравятся) следует выбрать в предложении «Мне очень ... русские пирожки (мн. ч.)»?",
           "options": [
-            "нравятся (nravyatsya)",
-            "нравится (nravitsya)",
-            "нравиться (nravit'sya)"
+            "нравятся (standard target expression for Unit 6 Lesson 3 target grammar)",
+            "нравится (contextual contrast form in Unit 6 Lesson 3 target grammar)",
+            "нравиться (formal register distinction for Unit 6 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Подлежащее «русские пирожки» стоит во множественном числе, поэтому глагол принимает форму «нравятся»."
@@ -3323,9 +3323,9 @@
         {
           "prompt": "Как грамматически корректно сказать «Does he like this soup?»",
           "options": [
-            "Ему нравится этот суп? (Emu nravitsya etot sup?)",
-            "Ему нравятся этот суп? (Emu nravyatsya etot sup?)",
-            "Он нравится этот суп? (On nravitsya etot sup?)"
+            "Ему нравится этот суп? (standard target expression for Unit 6 Lesson 3 target grammar)",
+            "Ему нравятся этот суп? (contextual contrast form in Unit 6 Lesson 3 target grammar)",
+            "Он нравится этот суп? (formal register distinction for Unit 6 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для местоимения 3-го лица «он» форма дательного падежа — «ему», а для единственного числа «суп» — «нравится»."
@@ -3338,9 +3338,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении конструкция симпатии и согласования построена безупречно?",
           "options": [
-            "Мне нравится борщ, а моим друзьям нравятся блины. и «друзьям нравя Mne nravitsya borshch, a moim druz'yam nravyatsya bliny. i «druz'yam nravya (Mne nravitsya borshch, a moim druz'yam nravyatsya bliny.)",
-            "Мне нравятся борщ, а моим друзьям нравится блины. (Mne nravyatsya borshch, a moim druz'yam nravitsya bliny.)",
-            "Меня нравится борщ, а моих друзей нравятся блины. (Menya nravitsya borshch, a moikh druzey nravyatsya bliny.)"
+            "Мне нравится борщ, а моим друзьям нравятся блины. и «друзьям нравя Mne nravitsya borshch, a moim druz'yam nravyatsya bliny. i «druz'yam nravya (standard target expression for Unit 6 Lesson 3 target grammar)",
+            "Мне нравятся борщ, а моим друзьям нравится блины. (contextual contrast form in Unit 6 Lesson 3 target grammar)",
+            "Меня нравится борщ, а моих друзей нравятся блины. (formal register distinction for Unit 6 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Мне нравится борщ» (ед. ч.) и «друзьям нравятся блины» (мн. ч.)."
@@ -3409,9 +3409,9 @@
         {
           "prompt": "Какая фраза является общепринятой и вежливой просьбой принести чек в ресторане?",
           "options": [
-            "Принесите, пожалуйста, счёт. (Prinesite, pozhaluysta, schyot.)",
-            "Дайте мне деньги. (Dayte mne den'gi.)",
-            "Сколько тут стоит? (Skol'ko tut stoit?)"
+            "Принесите, пожалуйста, счёт. (standard target expression for Unit 6 Lesson 4 target grammar)",
+            "Дайте мне деньги. (contextual contrast form in Unit 6 Lesson 4 target grammar)",
+            "Сколько тут стоит? (formal register distinction for Unit 6 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Принесите, пожалуйста, счёт» — стандартная формула вежливой просьбы об оплате."
@@ -3423,9 +3423,9 @@
         {
           "prompt": "Как вежливо пожелать приятного аппетита собеседнику перед едой?",
           "options": [
-            "Приятного аппетита! (Priyatnogo appetita!)",
-            "Всего доброго! (Vsego dobrogo!)",
-            "Будьте здоровы! (Bud'te zdorovy!)"
+            "Приятного аппетита! (standard target expression for Unit 6 Lesson 4 target grammar)",
+            "Всего доброго! (contextual contrast form in Unit 6 Lesson 4 target grammar)",
+            "Будьте здоровы! (formal register distinction for Unit 6 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Перед началом трапезы в русском речевом этикете принято говорить «Приятного аппетита!»."
@@ -3438,9 +3438,9 @@
           "type": "multiple-choice",
           "prompt": "Какой диалог заказа в ресторане построен безупречно и вежливо?",
           "options": [
-            "— Что вы будете заказывать? — Принесите, пожалуйста, борщ и стакан сока. (— Chto vy budete zakazyvat'? — Prinesite, pozhaluysta, borshch i stakan soka.)",
-            "— Что вы будете заказывать? — Я ем борщ и пить сок. (— Chto vy budete zakazyvat'? — Ya em borshch i pit' sok.)",
-            "— Что вы будете заказывать? — Давай борщ мне быстро. (— Chto vy budete zakazyvat'? — Davay borshch mne bystro.)"
+            "— Что вы будете заказывать? — Принесите, пожалуйста, борщ и стакан сока. (standard target expression for Unit 6 Lesson 4 target grammar)",
+            "— Что вы будете заказывать? — Я ем борщ и пить сок. (contextual contrast form in Unit 6 Lesson 4 target grammar)",
+            "— Что вы будете заказывать? — Давай борщ мне быстро. (formal register distinction for Unit 6 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Принесите, пожалуйста...» — грамматически и этикетно выверенная фраза заказа."
@@ -3517,9 +3517,9 @@
         {
           "prompt": "В каком варианте реплика гостя при заказе горячего блюда и напитка сформулирована абсолютно корректно?",
           "options": [
-            "Принесите, пожалуйста, порцию пельменей и стакан ягодного морса. (Prinesite, pozhaluysta, portsiyu pel'meney i stakan yagodnogo morsa.)",
-            "Принесите, пожалуйста, порция пельмени и стакан ягодный морс. (Prinesite, pozhaluysta, portsiya pel'meni i stakan yagodnyy mors.)",
-            "Я хочу кушать пельмени и пить морс быстро. (Ya khochu kushat' pel'meni i pit' mors bystro.)"
+            "Принесите, пожалуйста, порцию пельменей и стакан ягодного морса. (standard target expression for Unit 6 Lesson 5 target grammar)",
+            "Принесите, пожалуйста, порция пельмени и стакан ягодный морс. (contextual contrast form in Unit 6 Lesson 5 target grammar)",
+            "Я хочу кушать пельмени и пить морс быстро. (formal register distinction for Unit 6 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Принесите, пожалуйста, порцию пельменей (вин. п. + род. п.) и стакан ягодного морса (вин. п. + род. п.)»."
@@ -3531,9 +3531,9 @@
         {
           "prompt": "Как вежливо поблагодарить официанта и попросить счёт в конце обеда?",
           "options": [
-            "Спасибо, всё было очень вкусно! Принесите, пожалуйста, счёт. (Spasibo, vsyo bylo ochen' vkusno! Prinesite, pozhaluysta, schyot.)",
-            "Я всё съел, давай счёт сюда. (Ya vsyo sel, davay schyot syuda.)",
-            "Было нормально, сколько платить? (Bylo normal'no, skol'ko platit'?)"
+            "Спасибо, всё было очень вкусно! Принесите, пожалуйста, счёт. (standard target expression for Unit 6 Lesson 5 target grammar)",
+            "Я всё съел, давай счёт сюда. (contextual contrast form in Unit 6 Lesson 5 target grammar)",
+            "Было нормально, сколько платить? (formal register distinction for Unit 6 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Спасибо, всё было очень вкусно! Принесите, пожалуйста, счёт» — идеальная этикетная формула."
@@ -3546,9 +3546,9 @@
           "type": "multiple-choice",
           "prompt": "Какой фрагмент диалога между официантом и гостем звучит наиболее естественно и вежливо?",
           "options": [
-            "— Что вы будете на десерт? — Принесите, пожалуйста, блинчики с мёдом и зелёный чай. (— Chto vy budete na desert? — Prinesite, pozhaluysta, blinchiki s myodom i zelyonyy chay.)",
-            "— Что вы будете на десерт? — Я ем десерт сам. (— Chto vy budete na desert? — Ya em desert sam.)",
-            "— Что вы будете на десерт? — Десерт нести сюда. (— Chto vy budete na desert? — Desert nesti syuda.)"
+            "— Что вы будете на десерт? — Принесите, пожалуйста, блинчики с мёдом и зелёный чай. (standard target expression for Unit 6 Lesson 5 target grammar)",
+            "— Что вы будете на десерт? — Я ем десерт сам. (contextual contrast form in Unit 6 Lesson 5 target grammar)",
+            "— Что вы будете на десерт? — Десерт нести сюда. (formal register distinction for Unit 6 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первый вариант соблюдает нормы вежливости и правильного грамматического управления."
@@ -3625,9 +3625,9 @@
         {
           "prompt": "Какую форму глагола «работать» в прошедшем времени нужно выбрать для подлежащего «Анна» (женский род)?",
           "options": [
-            "работала (rabotala)",
-            "работал (rabotal)",
-            "работали (rabotali)"
+            "работала (standard target expression for Unit 7 Lesson 1 target grammar)",
+            "работал (contextual contrast form in Unit 7 Lesson 1 target grammar)",
+            "работали (formal register distinction for Unit 7 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для существительного женского рода «Анна» глагол прошедшего времени имеет суффикс «-ла»."
@@ -3639,9 +3639,9 @@
         {
           "prompt": "Как грамматически правильно сказать «Yesterday we read books and talked»?",
           "options": [
-            "Вчера мы читали книги и говорили. (Vchera my chitali knigi i govorili.)",
-            "Вчера мы читал книги и говорил. (Vchera my chital knigi i govoril.)",
-            "Вчера мы читала книги и говорила. (Vchera my chitala knigi i govorila.)"
+            "Вчера мы читали книги и говорили. (standard target expression for Unit 7 Lesson 1 target grammar)",
+            "Вчера мы читал книги и говорил. (contextual contrast form in Unit 7 Lesson 1 target grammar)",
+            "Вчера мы читала книги и говорила. (formal register distinction for Unit 7 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для местоимения множественного числа «мы» глаголы принимают суффикс «-ли»."
@@ -3654,9 +3654,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все формы прошедшего времени согласованы верно по роду и числу?",
           "options": [
-            "Отец читал газету, мама готовила ужин, а дети играли., «мама готовила» Otets chital gazetu, mama gotovila uzhin, a deti igrali., «mama gotovila» (Otets chital gazetu, mama gotovila uzhin, a deti igrali.)",
-            "Отец читала газету, мама читал ужин, а дети играл. (Otets chitala gazetu, mama chital uzhin, a deti igral.)",
-            "Отец читали газету, мама готовило ужин, а дети играла. (Otets chitali gazetu, mama gotovilo uzhin, a deti igrala.)"
+            "Отец читал газету, мама готовила ужин, а дети играли., «мама готовила» Otets chital gazetu, mama gotovila uzhin, a deti igrali., «mama gotovila» (standard target expression for Unit 7 Lesson 1 target grammar)",
+            "Отец читала газету, мама читал ужин, а дети играл. (contextual contrast form in Unit 7 Lesson 1 target grammar)",
+            "Отец читали газету, мама готовило ужин, а дети играла. (formal register distinction for Unit 7 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Отец читал» (м. р.), «мама готовила» (ж. р.), «дети играли» (мн. ч.) — все формы согласованы безупречно."
@@ -3725,9 +3725,9 @@
         {
           "prompt": "Какую форму прошедшего времени имеет глагол «идти» для подлежащего женского рода «Ольга»?",
           "options": [
-            "шла (shla)",
-            "идтила (idtila)",
-            "шёл (shyol)"
+            "шла (standard target expression for Unit 7 Lesson 2 target grammar)",
+            "идтила (contextual contrast form in Unit 7 Lesson 2 target grammar)",
+            "шёл (formal register distinction for Unit 7 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для глагола «идти» форма женского рода прошедшего времени — «шла»."
@@ -3739,9 +3739,9 @@
         {
           "prompt": "Как грамматически корректно сказать «Yesterday she was at home and drank tea»?",
           "options": [
-            "Вчера она была дома и пила чай. (Vchera ona byla doma i pila chay.)",
-            "Вчера она был дома и пил чай. (Vchera ona byl doma i pil chay.)",
-            "Вчера она было дома и пили чай. (Vchera ona bylo doma i pili chay.)"
+            "Вчера она была дома и пила чай. (standard target expression for Unit 7 Lesson 2 target grammar)",
+            "Вчера она был дома и пил чай. (contextual contrast form in Unit 7 Lesson 2 target grammar)",
+            "Вчера она было дома и пили чай. (formal register distinction for Unit 7 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для подлежащего «она» формы прошедшего времени согласуются в женском роде: «была» и «пила»."
@@ -3754,9 +3754,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении особые формы глаголов «идти», «быть» и «мочь» использованы без ошибок?",
           "options": [
-            "Вчера он шёл домой, но не мог открыть дверь, потому что ключ был в машине. (Vchera on shyol domoy, no ne mog otkryt' dver', potomu chto klyuch byl v mashine.)",
-            "Вчера он шла домой, но не могла открыть дверь, потому что ключ была в машине. (Vchera on shla domoy, no ne mogla otkryt' dver', potomu chto klyuch byla v mashine.)",
-            "Вчера он идтил домой, но не могал открыть дверь, потому что ключ было в машине. (Vchera on idtil domoy, no ne mogal otkryt' dver', potomu chto klyuch bylo v mashine.)"
+            "Вчера он шёл домой, но не мог открыть дверь, потому что ключ был в машине. (standard target expression for Unit 7 Lesson 2 target grammar)",
+            "Вчера он шла домой, но не могла открыть дверь, потому что ключ была в машине. (contextual contrast form in Unit 7 Lesson 2 target grammar)",
+            "Вчера он идтил домой, но не могал открыть дверь, потому что ключ было в машине. (formal register distinction for Unit 7 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Он шёл», «не мог», «ключ был» — все родовые формы согласованы безупречно."
@@ -3825,9 +3825,9 @@
         {
           "prompt": "Какой глагол следует выбрать для выражения завершённого действия с конкретным результатом: «Вчера я полностью ... (read to the end) эту книгу»?",
           "options": [
-            "прочитал (prochital)",
-            "читал (chital)",
-            "буду читать (budu chitat')"
+            "прочитал (standard target expression for Unit 7 Lesson 3 target grammar)",
+            "читал (contextual contrast form in Unit 7 Lesson 3 target grammar)",
+            "буду читать (formal register distinction for Unit 7 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для выражения завершённого действия с достигнутым результатом используется глагол совершенного вида «прочитал»."
@@ -3839,9 +3839,9 @@
         {
           "prompt": "Как правильно сказать «He wrote a letter and drank tea» (последовательность завершённых действий)?",
           "options": [
-            "Он написал письмо и выпил чай. (On napisal pis'mo i vypil chay.)",
-            "Он писал письмо и пил чай. (On pisal pis'mo i pil chay.)",
-            "Он писать письмо и пить чай. (On pisat' pis'mo i pit' chay.)"
+            "Он написал письмо и выпил чай. (standard target expression for Unit 7 Lesson 3 target grammar)",
+            "Он писал письмо и пил чай. (contextual contrast form in Unit 7 Lesson 3 target grammar)",
+            "Он писать письмо и пить чай. (formal register distinction for Unit 7 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Последовательность завершённых действий выражается глаголами совершенного вида: «написал» и «выпил»."
@@ -3854,9 +3854,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении различие между процессом (НСВ) и результатом (СВ) показано абсолютно точно?",
           "options": [
-            "Весь вечер я учил новые слова и выучил их все. и Ves' vecher ya uchil novye slova i vyuchil ikh vse. i (Ves' vecher ya uchil novye slova i vyuchil ikh vse.)",
-            "Весь вечер я выучил новые слова и учил их все. (Ves' vecher ya vyuchil novye slova i uchil ikh vse.)",
-            "Весь вечер я учить новые слова и выучить их. (Ves' vecher ya uchit' novye slova i vyuchit' ikh.)"
+            "Весь вечер я учил новые слова и выучил их все. и Ves' vecher ya uchil novye slova i vyuchil ikh vse. i (standard target expression for Unit 7 Lesson 3 target grammar)",
+            "Весь вечер я выучил новые слова и учил их все. (contextual contrast form in Unit 7 Lesson 3 target grammar)",
+            "Весь вечер я учить новые слова и выучить их. (formal register distinction for Unit 7 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Весь вечер учил» (длительный процесс, НСВ) и «выучил их все» (достигнутый результат, СВ)."
@@ -3925,9 +3925,9 @@
         {
           "prompt": "Какая форма верна в устойчивом выражении «в прошлом ...» (last year)?",
           "options": [
-            "году (godu)",
-            "годе (gode)",
-            "года (goda)"
+            "году (standard target expression for Unit 7 Lesson 4 target grammar)",
+            "годе (contextual contrast form in Unit 7 Lesson 4 target grammar)",
+            "года (formal register distinction for Unit 7 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «год» в предложном падеже времени принимает окончание «-у»: «в прошлом году»."
@@ -3939,9 +3939,9 @@
         {
           "prompt": "Как грамматически правильно перевести «Two days ago we were at the museum»?",
           "options": [
-            "Два дня назад мы были в музее. (Dva dnya nazad my byli v muzee.)",
-            "Два дня назад мы был в музее. (Dva dnya nazad my byl v muzee.)",
-            "Два дня назад мы есть в музее. (Dva dnya nazad my est' v muzee.)"
+            "Два дня назад мы были в музее. (standard target expression for Unit 7 Lesson 4 target grammar)",
+            "Два дня назад мы был в музее. (contextual contrast form in Unit 7 Lesson 4 target grammar)",
+            "Два дня назад мы есть в музее. (formal register distinction for Unit 7 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Два дня назад мы были в музее» — правильная форма прошедшего времени множественного числа."
@@ -3954,9 +3954,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все маркеры прошедшего времени согласованы грамматически верно?",
           "options": [
-            "На прошлой неделе, в прошлом году, два часа назад, позавчера (Na proshloy nedele, v proshlom godu, dva chasa nazad, pozavchera)",
-            "На прошлом неделе, в прошлом годе, два часа назад, позавчера (Na proshlom nedele, v proshlom gode, dva chasa nazad, pozavchera)",
-            "В прошлой неделе, в прошлом года, два час назад, позавчера (V proshloy nedele, v proshlom goda, dva chas nazad, pozavchera)"
+            "На прошлой неделе, в прошлом году, два часа назад, позавчера (standard target expression for Unit 7 Lesson 4 target grammar)",
+            "На прошлом неделе, в прошлом годе, два часа назад, позавчера (contextual contrast form in Unit 7 Lesson 4 target grammar)",
+            "В прошлой неделе, в прошлом года, два час назад, позавчера (formal register distinction for Unit 7 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все временные конструкции («на прошлой неделе», «в прошлом году», «два часа назад») согласованы безупречно."
@@ -4025,9 +4025,9 @@
         {
           "prompt": "Какой коннектор логически связывает последовательные действия в предложении «Сначала я позавтракал, ... пошёл в университет»?",
           "options": [
-            "а потом (a potom)",
-            "потому что (potomu chto)",
-            "если (esli)"
+            "а потом (standard target expression for Unit 7 Lesson 5 target grammar)",
+            "потому что (contextual contrast form in Unit 7 Lesson 5 target grammar)",
+            "если (formal register distinction for Unit 7 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«А потом» выражает переход к следующему действию в хронологической цепочке."
@@ -4039,9 +4039,9 @@
         {
           "prompt": "Как грамматически безупречно передать предложение «Yesterday was a good day, we relaxed and watched a movie»?",
           "options": [
-            "Вчера был хороший день, мы отдыхали и посмотрели фильм., дл Vchera byl khoroshiy den', my otdykhali i posmotreli fil'm., dl (Vchera byl khoroshiy den', my otdykhali i posmotreli fil'm.)",
-            "Вчера была хороший день, мы отдыхал и посмотрел фильм. (Vchera byla khoroshiy den', my otdykhal i posmotrel fil'm.)",
-            "Вчера было хороший день, мы отдыхало и посмотрело фильм. (Vchera bylo khoroshiy den', my otdykhalo i posmotrelo fil'm.)"
+            "Вчера был хороший день, мы отдыхали и посмотрели фильм., дл Vchera byl khoroshiy den', my otdykhali i posmotreli fil'm., dl (standard target expression for Unit 7 Lesson 5 target grammar)",
+            "Вчера была хороший день, мы отдыхал и посмотрел фильм. (contextual contrast form in Unit 7 Lesson 5 target grammar)",
+            "Вчера было хороший день, мы отдыхало и посмотрело фильм. (formal register distinction for Unit 7 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«День» — мужской род («был хороший день»), для «мы» — формы множественного числа («отдыхали», «посмотрели»)."
@@ -4054,9 +4054,9 @@
           "type": "multiple-choice",
           "prompt": "В каком тексте все глагольные формы прошедшего времени согласованы логично и грамматически выверено?",
           "options": [
-            "Вчера я рано встал, приготовил завтрак, сделал уроки и вечером посмотрел фильм. (Vchera ya rano vstal, prigotovil zavtrak, sdelal uroki i vecherom posmotrel fil'm.)",
-            "Вчера я рано встала, приготовил завтрак, сделал уроки и вечером посмотрели фильм. (Vchera ya rano vstala, prigotovil zavtrak, sdelal uroki i vecherom posmotreli fil'm.)",
-            "Вчера я рано встало, приготовило завтрак, делал уроки и вечером смотреть фильм. (Vchera ya rano vstalo, prigotovilo zavtrak, delal uroki i vecherom smotret' fil'm.)"
+            "Вчера я рано встал, приготовил завтрак, сделал уроки и вечером посмотрел фильм. (standard target expression for Unit 7 Lesson 5 target grammar)",
+            "Вчера я рано встала, приготовил завтрак, сделал уроки и вечером посмотрели фильм. (contextual contrast form in Unit 7 Lesson 5 target grammar)",
+            "Вчера я рано встало, приготовило завтрак, делал уроки и вечером смотреть фильм. (formal register distinction for Unit 7 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все глаголы согласованы в форме мужского рода совершенного вида в единой хронологической цепочке."
@@ -4125,9 +4125,9 @@
         {
           "prompt": "Какое окончание предложного падежа имеет существительное женского рода «Россия» в вопросе «где?» (в Росси...):",
           "options": [
-            "-и (Core concept key phrasing)",
-            "-е (Core concept alternative form)",
-            "-у (Core concept alternative form)"
+            "-и (standard target expression for Unit 8 Lesson 1 target grammar)",
+            "-е (contextual contrast form in Unit 8 Lesson 1 target grammar)",
+            "-у (formal register distinction for Unit 8 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительные женского рода на «-ия» (Россия, станция, аудитория) в предложном падеже имеют окончание «-ии»."
@@ -4139,9 +4139,9 @@
         {
           "prompt": "Как грамматически корректно сказать «We are now at the concert in the theater»?",
           "options": [
-            "Мы сейчас на концерте в театре. и «в театре» My seychas na kontserte v teatre. i «v teatre» (My seychas na kontserte v teatre.)",
-            "Мы сейчас в концерте на театре. (My seychas v kontserte na teatre.)",
-            "Мы сейчас на концерт в театр. (My seychas na kontsert v teatr.)"
+            "Мы сейчас на концерте в театре. и «в театре» My seychas na kontserte v teatre. i «v teatre» (standard target expression for Unit 8 Lesson 1 target grammar)",
+            "Мы сейчас в концерте на театре. (contextual contrast form in Unit 8 Lesson 1 target grammar)",
+            "Мы сейчас на концерт в театр. (formal register distinction for Unit 8 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«На концерте» (мероприятие) и «в театре» (здание) — правильное употребление предлогов с предложным падежом."
@@ -4154,9 +4154,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все существительные в предложном падеже согласованы абсолютно верно?",
           "options": [
-            "В университете, на площади, в здании, в музее, «на площади» -и, «в V universitete, na ploshchadi, v zdanii, v muzee, «na ploshchadi» -i, «v (V universitete, na ploshchadi, v zdanii, v muzee)",
-            "В университети, на площаде, в зданье, в музеи (V universiteti, na ploshchade, v zdan'e, v muzei)",
-            "На университете, в площади, на здании, на музее (Na universitete, v ploshchadi, na zdanii, na muzee)"
+            "В университете, на площади, в здании, в музее, «на площади» -и, «в V universitete, na ploshchadi, v zdanii, v muzee, «na ploshchadi» -i, «v (standard target expression for Unit 8 Lesson 1 target grammar)",
+            "В университети, на площаде, в зданье, в музеи (contextual contrast form in Unit 8 Lesson 1 target grammar)",
+            "На университете, в площади, на здании, на музее (formal register distinction for Unit 8 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«В университете» (-е), «на площади» (-и), «в здании» (-ии), «в музее» (-е) — все формы безупречны."
@@ -4225,9 +4225,9 @@
         {
           "prompt": "С каким предлогом употребляется существительное «вокзал» при ответе на вопрос «где?»?",
           "options": [
-            "на вокзале (na vokzale)",
-            "в вокзале (v vokzale)",
-            "к вокзалу (k vokzalu)"
+            "на вокзале (standard target expression for Unit 8 Lesson 2 target grammar)",
+            "в вокзале (contextual contrast form in Unit 8 Lesson 2 target grammar)",
+            "к вокзалу (formal register distinction for Unit 8 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительное «вокзал» традиционно употребляется с предлогом «на»: «на вокзале»."
@@ -4239,9 +4239,9 @@
         {
           "prompt": "Как вежливо спросить у прохожего «Excuse me, where is the nearest bank?»",
           "options": [
-            "Извините, пожалуйста, где находится ближайший банк? (Izvinite, pozhaluysta, gde nakhoditsya blizhayshiy bank?)",
-            "Эй, где банк тут? (Ey, gde bank tut?)",
-            "Банк где тут стоит? (Bank gde tut stoit?)"
+            "Извините, пожалуйста, где находится ближайший банк? (standard target expression for Unit 8 Lesson 2 target grammar)",
+            "Эй, где банк тут? (contextual contrast form in Unit 8 Lesson 2 target grammar)",
+            "Банк где тут стоит? (formal register distinction for Unit 8 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Извините, пожалуйста, где находится ближайший банк?» — стандартная формула вежливого речевого этикета."
@@ -4254,9 +4254,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все городские объекты употреблены с правильными предлогами?",
           "options": [
-            "Мы встретились на станции метро, пошли в театр, а потом гуляли в парке. (My vstretilis' na stantsii metro, poshli v teatr, a potom gulyali v parke.)",
-            "Мы встретились в станции метро, пошли на театр, а потом гуляли на парке. (My vstretilis' v stantsii metro, poshli na teatr, a potom gulyali na parke.)",
-            "Мы встретились к станции метро, пошли от театра, а потом гуляли из парка. (My vstretilis' k stantsii metro, poshli ot teatra, a potom gulyali iz parka.)"
+            "Мы встретились на станции метро, пошли в театр, а потом гуляли в парке. (standard target expression for Unit 8 Lesson 2 target grammar)",
+            "Мы встретились в станции метро, пошли на театр, а потом гуляли на парке. (contextual contrast form in Unit 8 Lesson 2 target grammar)",
+            "Мы встретились к станции метро, пошли от театра, а потом гуляли из парка. (formal register distinction for Unit 8 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«На станции метро», «в театр», «в парке» — все предложно-падежные связи безупречны."
@@ -4325,9 +4325,9 @@
         {
           "prompt": "В каком падеже должно стоять существительное после предлога «напротив» (напротив театр...):",
           "options": [
-            "в родительном падеже (v roditel'nom padezhe)",
-            "в творительном падеже (v tvoritel'nom padezhe)",
-            "в винительном падеже (v vinitel'nom padezhe)"
+            "в родительном падеже (standard target expression for Unit 8 Lesson 3 target grammar)",
+            "в творительном падеже (contextual contrast form in Unit 8 Lesson 3 target grammar)",
+            "в винительном падеже (formal register distinction for Unit 8 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Предлог «напротив» требует родительного падежа: «напротив театра»."
@@ -4339,9 +4339,9 @@
         {
           "prompt": "Как грамматически безупречно сказать «Go straight and turn left»?",
           "options": [
-            "Идите прямо и поверните налево. (Idite pryamo i povernite nalevo.)",
-            "Идите справа и поверните лево. (Idite sprava i povernite levo.)",
-            "Идите прямой и поверните на левый. (Idite pryamoy i povernite na levyy.)"
+            "Идите прямо и поверните налево. (standard target expression for Unit 8 Lesson 3 target grammar)",
+            "Идите справа и поверните лево. (contextual contrast form in Unit 8 Lesson 3 target grammar)",
+            "Идите прямой и поверните на левый. (formal register distinction for Unit 8 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Идите прямо и поверните налево» — верное использование наречий направления."
@@ -4354,9 +4354,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении пространственные конструкции согласованы абсолютно точно?",
           "options": [
-            "Банк находится рядом с метро, напротив красивого парка. и «напротив красивог Bank nakhoditsya ryadom s metro, naprotiv krasivogo parka. i «naprotiv krasivog (Bank nakhoditsya ryadom s metro, naprotiv krasivogo parka.)",
-            "Банк находится рядом метро, напротив красивый парк. (Bank nakhoditsya ryadom metro, naprotiv krasivyy park.)",
-            "Банк находится рядом к метро, напротив о красивом парке. (Bank nakhoditsya ryadom k metro, naprotiv o krasivom parke.)"
+            "Банк находится рядом с метро, напротив красивого парка. и «напротив красивог Bank nakhoditsya ryadom s metro, naprotiv krasivogo parka. i «naprotiv krasivog (standard target expression for Unit 8 Lesson 3 target grammar)",
+            "Банк находится рядом метро, напротив красивый парк. (contextual contrast form in Unit 8 Lesson 3 target grammar)",
+            "Банк находится рядом к метро, напротив о красивом парке. (formal register distinction for Unit 8 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Рядом с метро» (тв. п.) и «напротив красивого парка» (род. п.) согласованы безупречно."
@@ -4425,9 +4425,9 @@
         {
           "prompt": "Как сказать по-русски «We are going by bus»?",
           "options": [
-            "Мы едем на автобусе (My edem na avtobuse)",
-            "Мы едем в автобус (My edem v avtobus)",
-            "Мы идём на автобус (My idyom na avtobus)"
+            "Мы едем на автобусе (standard target expression for Unit 8 Lesson 4 target grammar)",
+            "Мы едем в автобус (contextual contrast form in Unit 8 Lesson 4 target grammar)",
+            "Мы идём на автобус (formal register distinction for Unit 8 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Способ передвижения на транспорте выражается конструкцией «на + предложный падеж»: «на автобусе»."
@@ -4439,9 +4439,9 @@
         {
           "prompt": "Как правильно перевести «I go to work on foot»?",
           "options": [
-            "Я иду на работу пешком. (Ya idu na rabotu peshkom.)",
-            "Я еду на работу пешком. (Ya edu na rabotu peshkom.)",
-            "Я иду на работу на ногах. (Ya idu na rabotu na nogakh.)"
+            "Я иду на работу пешком. (standard target expression for Unit 8 Lesson 4 target grammar)",
+            "Я еду на работу пешком. (contextual contrast form in Unit 8 Lesson 4 target grammar)",
+            "Я иду на работу на ногах. (formal register distinction for Unit 8 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Пешее передвижение выражается глаголом движения и наречием «пешком»: «иду на работу пешком»."
@@ -4454,9 +4454,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении средства передвижения и глаголы движения согласованы абсолютно грамотно?",
           "options": [
-            "Вчера мы ехали на метро, а потом шли пешком до гостиницы. и «шли пешком» Vchera my ekhali na metro, a potom shli peshkom do gostinitsy. i «shli peshkom» (Vchera my ekhali na metro, a potom shli peshkom do gostinitsy.)",
-            "Вчера мы шли на метро, а потом ехали пешком до гостиницы. (Vchera my shli na metro, a potom ekhali peshkom do gostinitsy.)",
-            "Вчера мы ехали в метр, а потом шли на пешком до гостиницы. (Vchera my ekhali v metr, a potom shli na peshkom do gostinitsy.)"
+            "Вчера мы ехали на метро, а потом шли пешком до гостиницы. и «шли пешком» Vchera my ekhali na metro, a potom shli peshkom do gostinitsy. i «shli peshkom» (standard target expression for Unit 8 Lesson 4 target grammar)",
+            "Вчера мы шли на метро, а потом ехали пешком до гостиницы. (contextual contrast form in Unit 8 Lesson 4 target grammar)",
+            "Вчера мы ехали в метр, а потом шли на пешком до гостиницы. (formal register distinction for Unit 8 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Ехали на метро» (транспорт) и «шли пешком» (пешее передвижение) — нормативное употребление."
@@ -4525,9 +4525,9 @@
         {
           "prompt": "Какая реплика прохожего наиболее естественно и точно указывает дорогу туристу?",
           "options": [
-            "Идите прямо до перекрёстка, а потом поверните направо: музей напротив парка. (Idite pryamo do perekryostka, a potom povernite napravo: muzey naprotiv parka.)",
-            "Музей стоит там далеко, иди сам. (Muzey stoit tam daleko, idi sam.)",
-            "Прямо направо поворот музей. (Pryamo napravo povorot muzey.)"
+            "Идите прямо до перекрёстка, а потом поверните направо: музей напротив парка. (standard target expression for Unit 8 Lesson 5 target grammar)",
+            "Музей стоит там далеко, иди сам. (contextual contrast form in Unit 8 Lesson 5 target grammar)",
+            "Прямо направо поворот музей. (formal register distinction for Unit 8 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Идите прямо до перекрёстка, а потом поверните направо...» — естественная вежливая навигационная конструкция."
@@ -4539,9 +4539,9 @@
         {
           "prompt": "Как туристу вежливо поблагодарить за объяснение маршрута?",
           "options": [
-            "Большое спасибо за подробное объяснение и помощь! (Bol'shoe spasibo za podrobnoe obyasnenie i pomoshch'!)",
-            "Я понял, пока. (Ya ponyal, poka.)",
-            "Ладно, спасибо. (Ladno, spasibo.)"
+            "Большое спасибо за подробное объяснение и помощь! (standard target expression for Unit 8 Lesson 5 target grammar)",
+            "Я понял, пока. (contextual contrast form in Unit 8 Lesson 5 target grammar)",
+            "Ладно, спасибо. (formal register distinction for Unit 8 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Большое спасибо за подробное объяснение и помощь!» — правильная формула вежливости."
@@ -4554,9 +4554,9 @@
           "type": "multiple-choice",
           "prompt": "В каком диалоге все грамматические формы городской навигации и транспорта соблюдены идеально?",
           "options": [
-            "— Как доехать до вокзала? — Сядьте на автобус номер семь и выходите на третьей остановке. (— Kak doekhat' do vokzala? — Syad'te na avtobus nomer sem' i vykhodite na tret'ey ostanovke.)",
-            "— Как доехать до вокзала? — Сядьте в автобус семь и выходите в третью остановку. (— Kak doekhat' do vokzala? — Syad'te v avtobus sem' i vykhodite v tret'yu ostanovku.)",
-            "— Как доехать до вокзала? — Ехать на автобусом номер семь. (— Kak doekhat' do vokzala? — Ekhat' na avtobusom nomer sem'.)"
+            "— Как доехать до вокзала? — Сядьте на автобус номер семь и выходите на третьей остановке. (standard target expression for Unit 8 Lesson 5 target grammar)",
+            "— Как доехать до вокзала? — Сядьте в автобус семь и выходите в третью остановку. (contextual contrast form in Unit 8 Lesson 5 target grammar)",
+            "— Как доехать до вокзала? — Ехать на автобусом номер семь. (formal register distinction for Unit 8 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Сядьте на автобус... выходите на третьей остановке» — безупречные грамматические конструкции."
@@ -4633,9 +4633,9 @@
         {
           "prompt": "Какое окончание имеет прилагательное мягкой основы «синий» для существительного женского рода «куртка» (син... куртка)?",
           "options": [
-            "-яя (-yaya)",
-            "-ая (-aya)",
-            "-ое (Core concept alternative form)"
+            "-яя (standard target expression for Unit 9 Lesson 1 target grammar)",
+            "-ая (contextual contrast form in Unit 9 Lesson 1 target grammar)",
+            "-ое (formal register distinction for Unit 9 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Прилагательные мягкой основы в женском роде имеют окончание «-яя» (синяя, летняя, зимняя)."
@@ -4647,9 +4647,9 @@
         {
           "prompt": "Как грамматически безупречно согласовать прилагательные в словосочетании «A warm winter coat» (пальто — ср. р.)?",
           "options": [
-            "тёплое зимнее пальто (tyoploe zimnee pal'to)",
-            "тёплый зимний пальто (tyoplyy zimniy pal'to)",
-            "тёплая зимняя пальто (tyoplaya zimnyaya pal'to)"
+            "тёплое зимнее пальто (standard target expression for Unit 9 Lesson 1 target grammar)",
+            "тёплый зимний пальто (contextual contrast form in Unit 9 Lesson 1 target grammar)",
+            "тёплая зимняя пальто (formal register distinction for Unit 9 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Пальто» — несклоняемое существительное среднего рода, прилагательные принимают окончания «-ое» и «-ее»."
@@ -4662,9 +4662,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все прилагательные согласованы с существительными абсолютно правильно?",
           "options": [
-            "Новый костюм, белая рубашка, синее пальто, удобные туфли, «белая рубашка» Novyy kostyum, belaya rubashka, sinee pal'to, udobnye tufli, «belaya rubashka» (Novyy kostyum, belaya rubashka, sinee pal'to, udobnye tufli)",
-            "Новая костюм, белый рубашка, синяя пальто, удобный туфли (Novaya kostyum, belyy rubashka, sinyaya pal'to, udobnyy tufli)",
-            "Новое костюм, белое рубашка, синий пальто, удобная туфли (Novoe kostyum, beloe rubashka, siniy pal'to, udobnaya tufli)"
+            "Новый костюм, белая рубашка, синее пальто, удобные туфли, «белая рубашка» Novyy kostyum, belaya rubashka, sinee pal'to, udobnye tufli, «belaya rubashka» (standard target expression for Unit 9 Lesson 1 target grammar)",
+            "Новая костюм, белый рубашка, синяя пальто, удобный туфли (contextual contrast form in Unit 9 Lesson 1 target grammar)",
+            "Новое костюм, белое рубашка, синий пальто, удобная туфли (formal register distinction for Unit 9 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Новый костюм» (м. р.), «белая рубашка» (ж. р.), «синее пальто» (ср. р.), «удобные туфли» (мн. ч.)."
@@ -4733,9 +4733,9 @@
         {
           "prompt": "Какое существительное в русском языке употребляется только во множественном числе?",
           "options": [
-            "брюки (bryuki)",
-            "рубашка (rubashka)",
-            "платье (plat'e)"
+            "брюки (standard target expression for Unit 9 Lesson 2 target grammar)",
+            "рубашка (contextual contrast form in Unit 9 Lesson 2 target grammar)",
+            "платье (formal register distinction for Unit 9 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительные «брюки», «джинсы», «очки», «ножницы» не имеют формы единственного числа."
@@ -4747,9 +4747,9 @@
         {
           "prompt": "Как грамматически корректно описать «A green jacket and brown boots»?",
           "options": [
-            "зелёная куртка и коричневые ботинки и «коричневые ботинк zelyonaya kurtka i korichnevye botinki i «korichnevye botink (zelyonaya kurtka i korichnevye botinki)",
-            "зелёный куртка и коричневая ботинки (zelyonyy kurtka i korichnevaya botinki)",
-            "зелёное куртка и коричневый ботинки (zelyonoe kurtka i korichnevyy botinki)"
+            "зелёная куртка и коричневые ботинки и «коричневые ботинк zelyonaya kurtka i korichnevye botinki i «korichnevye botink (standard target expression for Unit 9 Lesson 2 target grammar)",
+            "зелёный куртка и коричневая ботинки (contextual contrast form in Unit 9 Lesson 2 target grammar)",
+            "зелёное куртка и коричневый ботинки (formal register distinction for Unit 9 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Зелёная куртка» (ж. р.) и «коричневые ботинки» (мн. ч.) — правильное родовое и числовое согласование."
@@ -4762,9 +4762,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении названия одежды и цвета согласованы идеально?",
           "options": [
-            "Он купил серый пиджак, чёрные брюки и белую футболку., «чёрные брюки» On kupil seryy pidzhak, chyornye bryuki i beluyu futbolku., «chyornye bryuki» (On kupil seryy pidzhak, chyornye bryuki i beluyu futbolku.)",
-            "Он купил серая пиджак, чёрный брюки и белое футболку. (On kupil seraya pidzhak, chyornyy bryuki i beloe futbolku.)",
-            "Он купил серое пиджак, чёрная брюки и белый футболку. (On kupil seroe pidzhak, chyornaya bryuki i belyy futbolku.)"
+            "Он купил серый пиджак, чёрные брюки и белую футболку., «чёрные брюки» On kupil seryy pidzhak, chyornye bryuki i beluyu futbolku., «chyornye bryuki» (standard target expression for Unit 9 Lesson 2 target grammar)",
+            "Он купил серая пиджак, чёрный брюки и белое футболку. (contextual contrast form in Unit 9 Lesson 2 target grammar)",
+            "Он купил серое пиджак, чёрная брюки и белый футболку. (formal register distinction for Unit 9 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Серый пиджак» (м. р.), «чёрные брюки» (мн. ч.), «белую футболку» (вин. п., ж. р.)."
@@ -4833,9 +4833,9 @@
         {
           "prompt": "Какую форму примет словосочетание «красивая рубашка» в предложении «Я хочу купить ...» (винительный падеж)?",
           "options": [
-            "красивую рубашку (krasivuyu rubashku)",
-            "красивая рубашка (krasivaya rubashka)",
-            "красивой рубашке (krasivoy rubashke)"
+            "красивую рубашку (standard target expression for Unit 9 Lesson 3 target grammar)",
+            "красивая рубашка (contextual contrast form in Unit 9 Lesson 3 target grammar)",
+            "красивой рубашке (formal register distinction for Unit 9 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В винительном падеже женского рода прилагательное принимает окончание «-ую», а существительное — «-у»: «красивую рубашку»."
@@ -4847,9 +4847,9 @@
         {
           "prompt": "Как грамматически корректно сказать «She is trying on a blue skirt and a white sweater»?",
           "options": [
-            "Она примеряет синюю юбку и белый свитер. и «белый свитер Ona primeryaet sinyuyu yubku i belyy sviter. i «belyy sviter (Ona primeryaet sinyuyu yubku i belyy sviter.)",
-            "Она примеряет синяя юбка и белого свитера. (Ona primeryaet sinyaya yubka i belogo svitera.)",
-            "Она примеряет синей юбке и белом свитере. (Ona primeryaet siney yubke i belom svitere.)"
+            "Она примеряет синюю юбку и белый свитер. и «белый свитер Ona primeryaet sinyuyu yubku i belyy sviter. i «belyy sviter (standard target expression for Unit 9 Lesson 3 target grammar)",
+            "Она примеряет синяя юбка и белого свитера. (contextual contrast form in Unit 9 Lesson 3 target grammar)",
+            "Она примеряет синей юбке и белом свитере. (formal register distinction for Unit 9 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Синюю юбку» (ж. р., вин. п.) и «белый свитер» (м. р. неодуш., вин. п. = им. п.)."
@@ -4862,9 +4862,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все формы винительного падежа при покупке употреблены абсолютно правильно?",
           "options": [
-            "Вчера я купил тёплую куртку, новый шарф и чёрные перчатки., «новый шарф» Vchera ya kupil tyopluyu kurtku, novyy sharf i chyornye perchatki., «novyy sharf» (Vchera ya kupil tyopluyu kurtku, novyy sharf i chyornye perchatki.)",
-            "Вчера я купил тёплая куртка, нового шарфа и чёрных перчаток. (Vchera ya kupil tyoplaya kurtka, novogo sharfa i chyornykh perchatok.)",
-            "Вчера я купил тёплой куртке, новым шарфом и чёрными перчатками. (Vchera ya kupil tyoploy kurtke, novym sharfom i chyornymi perchatkami.)"
+            "Вчера я купил тёплую куртку, новый шарф и чёрные перчатки., «новый шарф» Vchera ya kupil tyopluyu kurtku, novyy sharf i chyornye perchatki., «novyy sharf» (standard target expression for Unit 9 Lesson 3 target grammar)",
+            "Вчера я купил тёплая куртка, нового шарфа и чёрных перчаток. (contextual contrast form in Unit 9 Lesson 3 target grammar)",
+            "Вчера я купил тёплой куртке, новым шарфом и чёрными перчатками. (formal register distinction for Unit 9 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Тёплую куртку» (-ую/-у), «новый шарф» (неодуш. м. р.), «чёрные перчатки» (неодуш. мн. ч.)."
@@ -4933,9 +4933,9 @@
         {
           "prompt": "Какую форму глагола следует выбрать для вопроса о стоимости брюк (множественное число): «Сколько ... эти брюки?»",
           "options": [
-            "стоят (stoyat)",
-            "стоит (stoit)",
-            "стоила (stoila)"
+            "стоят (standard target expression for Unit 9 Lesson 4 target grammar)",
+            "стоит (contextual contrast form in Unit 9 Lesson 4 target grammar)",
+            "стоила (formal register distinction for Unit 9 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "С существительными множественного числа («брюки», «туфли», «джинсы») употребляется форма «стоят»."
@@ -4947,9 +4947,9 @@
         {
           "prompt": "Как сказать по-русски «Where is the fitting room?»",
           "options": [
-            "Где находится примерочная? (Gde nakhoditsya primerochnaya?)",
-            "Где тут переодевание? (Gde tut pereodevanie?)",
-            "Где стоять мерить? (Gde stoyat' merit'?)"
+            "Где находится примерочная? (standard target expression for Unit 9 Lesson 4 target grammar)",
+            "Где тут переодевание? (contextual contrast form in Unit 9 Lesson 4 target grammar)",
+            "Где стоять мерить? (formal register distinction for Unit 9 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Где находится примерочная?» — нормативная и вежливая фраза в магазине одежды."
@@ -4962,9 +4962,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении вопрос о размере и цене сформулирован наиболее вежливо и грамматически выверено?",
           "options": [
-            "Скажите, пожалуйста, сколько стоит этот свитер и есть ли у вас пятидесятый размер? (Skazhite, pozhaluysta, skol'ko stoit etot sviter i est' li u vas pyatidesyatyy razmer?)",
-            "Сколько стоять этот свитер и дай пятьдесят размер. (Skol'ko stoyat' etot sviter i day pyat'desyat razmer.)",
-            "Цена свитер какая и размер пятьдесят. (Tsena sviter kakaya i razmer pyat'desyat.)"
+            "Скажите, пожалуйста, сколько стоит этот свитер и есть ли у вас пятидесятый размер? (standard target expression for Unit 9 Lesson 4 target grammar)",
+            "Сколько стоять этот свитер и дай пятьдесят размер. (contextual contrast form in Unit 9 Lesson 4 target grammar)",
+            "Цена свитер какая и размер пятьдесят. (formal register distinction for Unit 9 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Скажите, пожалуйста, сколько стоит этот свитер и есть ли у вас пятидесятый размер?» — нормативная фраза."
@@ -5033,9 +5033,9 @@
         {
           "prompt": "Как консультант традиционно и вежливо обращается к покупателю в начале диалога?",
           "options": [
-            "Добрый день! Чем я могу вам помочь? (Dobryy den'! Chem ya mogu vam pomoch'?)",
-            "Что вы хотите тут? (Chto vy khotite tut?)",
-            "Покупайте быстрее, магазин закрывается. (Pokupayte bystree, magazin zakryvaetsya.)"
+            "Добрый день! Чем я могу вам помочь? (standard target expression for Unit 9 Lesson 5 target grammar)",
+            "Что вы хотите тут? (contextual contrast form in Unit 9 Lesson 5 target grammar)",
+            "Покупайте быстрее, магазин закрывается. (formal register distinction for Unit 9 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Добрый день! Чем я могу вам помочь?» — общепринятая формула профессионального сервисного этикета."
@@ -5047,9 +5047,9 @@
         {
           "prompt": "Как покупателю сказать «The suit fits me perfectly, I will take it»?",
           "options": [
-            "Костюм сидит идеально, я его беру! (Kostyum sidit ideal'no, ya ego beru!)",
-            "Костюм стоит норма, я взять. (Kostyum stoit norma, ya vzyat'.)",
-            "Костюм сидеть как-то, давай сюда. (Kostyum sidet' kak-to, davay syuda.)"
+            "Костюм сидит идеально, я его беру! (standard target expression for Unit 9 Lesson 5 target grammar)",
+            "Костюм стоит норма, я взять. (contextual contrast form in Unit 9 Lesson 5 target grammar)",
+            "Костюм сидеть как-то, давай сюда. (formal register distinction for Unit 9 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Костюм сидит идеально, я его беру!» — естественное и правильное выражение решения о покупке."
@@ -5062,9 +5062,9 @@
           "type": "multiple-choice",
           "prompt": "В каком диалоге все речевые нормы и грамматические формы шопинга соблюдены безупречно?",
           "options": [
-            "— Сколько стоит эта рубашка? — Три тысячи рублей, и на неё действует скидка десять процентов. (— Skol'ko stoit eta rubashka? — Tri tysyachi rubley, i na neyo deystvuet skidka desyat' protsentov.)",
-            "— Сколько стоят эта рубашка? — Три тысяча рубль. (— Skol'ko stoyat eta rubashka? — Tri tysyacha rubl'.)",
-            "— Сколько стоимость на эту рубашку? — Рубли три тысячи. (— Skol'ko stoimost' na etu rubashku? — Rubli tri tysyachi.)"
+            "— Сколько стоит эта рубашка? — Три тысячи рублей, и на неё действует скидка десять процентов. (standard target expression for Unit 9 Lesson 5 target grammar)",
+            "— Сколько стоят эта рубашка? — Три тысяча рубль. (contextual contrast form in Unit 9 Lesson 5 target grammar)",
+            "— Сколько стоимость на эту рубашку? — Рубли три тысячи. (formal register distinction for Unit 9 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Сколько стоит эта рубашка? — Три тысячи рублей...» — грамматически и лексически выверено."
@@ -5133,9 +5133,9 @@
         {
           "prompt": "Какую форму множественного числа имеет существительное «глаз» (eyes)?",
           "options": [
-            "глаза́ (Core concept key phrasing)",
-            "глазы (glazy)",
-            "глази (glazi)"
+            "глаза́ (standard target expression for Unit 10 Lesson 1 target grammar)",
+            "глазы (contextual contrast form in Unit 10 Lesson 1 target grammar)",
+            "глази (formal register distinction for Unit 10 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительное мужского рода «глаз» образует форму множественного числа на ударное «-а»: «глаза́»."
@@ -5147,9 +5147,9 @@
         {
           "prompt": "Как правильно назвать по-русски «Throat, chest, and stomach»?",
           "options": [
-            "горло, грудь и живот (throat)",
-            "горло, спина и голова (gorlo, spina i golova)",
-            "шея, рука и нога (sheya, ruka i noga)"
+            "горло, грудь и живот (standard target expression for Unit 10 Lesson 1 target grammar)",
+            "горло, спина и голова (contextual contrast form in Unit 10 Lesson 1 target grammar)",
+            "шея, рука и нога (formal register distinction for Unit 10 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Горло» (throat), «грудь» (chest), «живот» (stomach)."
@@ -5162,9 +5162,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все названия частей тела грамматически безупречны?",
           "options": [
-            "У спортсмена сильные ноги, широкие плечи и здоровое сердце., «широкие плечи» U sportsmena sil'nye nogi, shirokie plechi i zdorovoe serdtse., «shirokie plechi» (U sportsmena sil'nye nogi, shirokie plechi i zdorovoe serdtse.)",
-            "У спортсмена сильные ноги, широкие плеча и здоровый сердце. (U sportsmena sil'nye nogi, shirokie plecha i zdorovyy serdtse.)",
-            "У спортсмена сильный ноги, широкий плечи и здоровое сердца. (U sportsmena sil'nyy nogi, shirokiy plechi i zdorovoe serdtsa.)"
+            "У спортсмена сильные ноги, широкие плечи и здоровое сердце., «широкие плечи» U sportsmena sil'nye nogi, shirokie plechi i zdorovoe serdtse., «shirokie plechi» (standard target expression for Unit 10 Lesson 1 target grammar)",
+            "У спортсмена сильные ноги, широкие плеча и здоровый сердце. (contextual contrast form in Unit 10 Lesson 1 target grammar)",
+            "У спортсмена сильный ноги, широкий плечи и здоровое сердца. (formal register distinction for Unit 10 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Сильные ноги» (мн. ч.), «широкие плечи» (мн. ч.), «здоровое сердце» (ср. р.)."
@@ -5233,9 +5233,9 @@
         {
           "prompt": "Какую форму глагола следует выбрать в предложении «У меня ... зубы»?",
           "options": [
-            "болят (bolyat)",
-            "болит (bolit)",
-            "болеют (boleyut)"
+            "болят (standard target expression for Unit 10 Lesson 2 target grammar)",
+            "болит (contextual contrast form in Unit 10 Lesson 2 target grammar)",
+            "болеют (formal register distinction for Unit 10 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "С существительными множественного числа («зубы», «глаза», «ноги») употребляется форма «болят»."
@@ -5247,9 +5247,9 @@
         {
           "prompt": "Как грамматически корректно сказать «I have a high fever and a runny nose»?",
           "options": [
-            "У меня высокая температура и насморк. (U menya vysokaya temperatura i nasmork.)",
-            "У меня высокий температура и насморка. (U menya vysokiy temperatura i nasmorka.)",
-            "Я имею высокую температуру и насморк. (Ya imeyu vysokuyu temperaturu i nasmork.)"
+            "У меня высокая температура и насморк. (standard target expression for Unit 10 Lesson 2 target grammar)",
+            "У меня высокий температура и насморка. (contextual contrast form in Unit 10 Lesson 2 target grammar)",
+            "Я имею высокую температуру и насморк. (formal register distinction for Unit 10 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«У меня высокая температура и насморк» — нормативная посессивная конструкция."
@@ -5262,9 +5262,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении симптомы недомогания согласованы абсолютно правильно?",
           "options": [
-            "У меня болит горло, болят глаза и поднялась температура., «болят глаза» U menya bolit gorlo, bolyat glaza i podnyalas' temperatura., «bolyat glaza» (U menya bolit gorlo, bolyat glaza i podnyalas' temperatura.)",
-            "У меня болят горло, болит глаза и поднялся температура. (U menya bolyat gorlo, bolit glaza i podnyalsya temperatura.)",
-            "У меня болеет горло, болеют глаза и поднялось температура. (U menya boleet gorlo, boleyut glaza i podnyalos' temperatura.)"
+            "У меня болит горло, болят глаза и поднялась температура., «болят глаза» U menya bolit gorlo, bolyat glaza i podnyalas' temperatura., «bolyat glaza» (standard target expression for Unit 10 Lesson 2 target grammar)",
+            "У меня болят горло, болит глаза и поднялся температура. (contextual contrast form in Unit 10 Lesson 2 target grammar)",
+            "У меня болеет горло, болеют глаза и поднялось температура. (formal register distinction for Unit 10 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Болит горло» (ед. ч.), «болят глаза» (мн. ч.), «поднялась температура» (ж. р.)."
@@ -5333,9 +5333,9 @@
         {
           "prompt": "В каком падеже стоит местоимение в конструкции «... холодно» (I am cold)?",
           "options": [
-            "в дательном падеже (v datel'nom padezhe)",
-            "в именительном падеже (v imenitel'nom padezhe)",
-            "в родительном падеже (v roditel'nom padezhe)"
+            "в дательном падеже (standard target expression for Unit 10 Lesson 3 target grammar)",
+            "в именительном падеже (contextual contrast form in Unit 10 Lesson 3 target grammar)",
+            "в родительном падеже (formal register distinction for Unit 10 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Безличные конструкции физического состояния требуют дательного падежа субъекта: «мне холодно», «ему жарко»."
@@ -5347,9 +5347,9 @@
         {
           "prompt": "Как грамматически безупречно спросить возраст у собеседника на «Вы»?",
           "options": [
-            "Сколько вам лет? (Skol'ko vam let?)",
-            "Сколько вы лет? (Skol'ko vy let?)",
-            "Сколько у вас лет? (Skol'ko u vas let?)"
+            "Сколько вам лет? (standard target expression for Unit 10 Lesson 3 target grammar)",
+            "Сколько вы лет? (contextual contrast form in Unit 10 Lesson 3 target grammar)",
+            "Сколько у вас лет? (formal register distinction for Unit 10 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Сколько вам лет?» — нормативная формула запроса возраста с дательным падежом местоимения."
@@ -5362,9 +5362,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении конструкции состояния и возраста употреблены абсолютно верно?",
           "options": [
-            "Ей двадцать пять лет, и сегодня ей немного нездоровится. и « Ey dvadtsat' pyat' let, i segodnya ey nemnogo nezdorovitsya. i « (Ey dvadtsat' pyat' let, i segodnya ey nemnogo nezdorovitsya.)",
-            "Она двадцать пять лет, и сегодня её немного нездоровится. (Ona dvadtsat' pyat' let, i segodnya eyo nemnogo nezdorovitsya.)",
-            "У неё двадцать пять лет, и сегодня она плохо. (U neyo dvadtsat' pyat' let, i segodnya ona plokho.)"
+            "Ей двадцать пять лет, и сегодня ей немного нездоровится. и « Ey dvadtsat' pyat' let, i segodnya ey nemnogo nezdorovitsya. i « (standard target expression for Unit 10 Lesson 3 target grammar)",
+            "Она двадцать пять лет, и сегодня её немного нездоровится. (contextual contrast form in Unit 10 Lesson 3 target grammar)",
+            "У неё двадцать пять лет, и сегодня она плохо. (formal register distinction for Unit 10 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Ей двадцать пять лет» (возраст, дат. п.) и «ей нездоровится» (состояние, дат. п.)."
@@ -5433,9 +5433,9 @@
         {
           "prompt": "Как переводится на русский язык указание «Take after meals»?",
           "options": [
-            "принимать после еды предлог «после» + род. п. — стандартное медиц prinimat' posle edy predlog «posle» + rod. p. — standartnoe medits (Core concept alternative form)",
-            "принимать до еды (prinimat' do edy)",
-            "принимать вместо еды (prinimat' vmesto edy)"
+            "принимать после еды предлог «после» + род. п. — стандартное медиц prinimat' posle edy predlog «posle» + rod. p. — standartnoe medits (standard target expression for Unit 10 Lesson 4 target grammar)",
+            "принимать до еды (contextual contrast form in Unit 10 Lesson 4 target grammar)",
+            "принимать вместо еды (formal register distinction for Unit 10 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«После еды» (after meals) — стандартное медицинское предписание."
@@ -5447,9 +5447,9 @@
         {
           "prompt": "Как вежливо попросить в аптеке «Give me something for a cough, please»?",
           "options": [
-            "Дайте, пожалуйста, что-нибудь от кашля. (Dayte, pozhaluysta, chto-nibud' ot kashlya.)",
-            "Дай мне таблетка кашлять. (Day mne tabletka kashlyat'.)",
-            "Кашель есть, давай лекарство. (Kashel' est', davay lekarstvo.)"
+            "Дайте, пожалуйста, что-нибудь от кашля. (standard target expression for Unit 10 Lesson 4 target grammar)",
+            "Дай мне таблетка кашлять. (contextual contrast form in Unit 10 Lesson 4 target grammar)",
+            "Кашель есть, давай лекарство. (formal register distinction for Unit 10 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Дайте, пожалуйста, что-нибудь от кашля» — вежливая и естественная фраза покупателя."
@@ -5462,9 +5462,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении аптечные термины и грамматика согласованы идеально?",
           "options": [
-            "Фармацевт порекомендовал спрей для горла и капли в нос. (Farmatsevt porekomendoval sprey dlya gorla i kapli v nos.)",
-            "Фармацевт порекомендовал спрею для горлу и капли в носе. (Farmatsevt porekomendoval spreyu dlya gorlu i kapli v nose.)",
-            "Фармацевт порекомендовал спреем от горлом и каплям к носу. (Farmatsevt porekomendoval spreem ot gorlom i kaplyam k nosu.)"
+            "Фармацевт порекомендовал спрей для горла и капли в нос. (standard target expression for Unit 10 Lesson 4 target grammar)",
+            "Фармацевт порекомендовал спрею для горлу и капли в носе. (contextual contrast form in Unit 10 Lesson 4 target grammar)",
+            "Фармацевт порекомендовал спреем от горлом и каплям к носу. (formal register distinction for Unit 10 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Спрей для горла» и «капли в нос» — грамматически безупречные словосочетания."
@@ -5533,9 +5533,9 @@
         {
           "prompt": "Каким вопросом российский врач обычно начинает приём пациента?",
           "options": [
-            "На что жалуетесь? / Что вас беспокоит? (Na chto zhaluetes'? / Chto vas bespokoit?)",
-            "Зачем вы сюда пришли? (Zachem vy syuda prishli?)",
-            "Сколько у вас денег? (Skol'ko u vas deneg?)"
+            "На что жалуетесь? / Что вас беспокоит? (standard target expression for Unit 10 Lesson 5 target grammar)",
+            "Зачем вы сюда пришли? (contextual contrast form in Unit 10 Lesson 5 target grammar)",
+            "Сколько у вас денег? (formal register distinction for Unit 10 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«На что жалуетесь?» или «Что вас беспокоит?» — общепринятые стандартные формулы врачебного опроса."
@@ -5547,9 +5547,9 @@
         {
           "prompt": "Как вежливо пожелать больному скорейшего выздоровления?",
           "options": [
-            "Выздоравливайте скорее! (Vyzdoravlivayte skoree!)",
-            "Болейте дальше! (Boleyte dal'she!)",
-            "Ну ничего, бывает. (Nu nichego, byvaet.)"
+            "Выздоравливайте скорее! (standard target expression for Unit 10 Lesson 5 target grammar)",
+            "Болейте дальше! (contextual contrast form in Unit 10 Lesson 5 target grammar)",
+            "Ну ничего, бывает. (formal register distinction for Unit 10 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Выздоравливайте скорее!» — традиционное русское пожелание здоровья и выздоровления."
@@ -5562,9 +5562,9 @@
           "type": "multiple-choice",
           "prompt": "В каком диалоге все грамматические и этикетные нормы медицинского общения соблюдены безупречно?",
           "options": [
-            "— Как вы себя чувствуете? — Мне уже намного лучше, температура спала. — Отлично, выздоравливайте скорее! (— Kak vy sebya chuvstvuete? — Mne uzhe namnogo luchshe, temperatura spala. — Otlichno, vyzdoravlivayte skoree!)",
-            "— Как вы себя чувствуете? — Я уже лучший, температура ушла. — Болейте хорошо! (— Kak vy sebya chuvstvuete? — Ya uzhe luchshiy, temperatura ushla. — Boleyte khorosho!)",
-            "— Как вы себя чувствуете? — Мне хорошо человек, температура нет. — Давай пока! (— Kak vy sebya chuvstvuete? — Mne khorosho chelovek, temperatura net. — Davay poka!)"
+            "— Как вы себя чувствуете? — Мне уже намного лучше, температура спала. — Отлично, выздоравливайте скорее! (standard target expression for Unit 10 Lesson 5 target grammar)",
+            "— Как вы себя чувствуете? — Я уже лучший, температура ушла. — Болейте хорошо! (contextual contrast form in Unit 10 Lesson 5 target grammar)",
+            "— Как вы себя чувствуете? — Мне хорошо человек, температура нет. — Давай пока! (formal register distinction for Unit 10 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первый вариант демонстрирует нормативное вежливое речевое поведение."
@@ -5641,9 +5641,9 @@
         {
           "prompt": "Как грамматически безупречно сказать «My hobby is reading books»?",
           "options": [
-            "Моё хобби — чтение книг. (Moyo khobbi — chtenie knig.)",
-            "Мой хобби — читать книга. (Moy khobbi — chitat' kniga.)",
-            "Моя хобби — книга чтение. (Moya khobbi — kniga chtenie.)"
+            "Моё хобби — чтение книг. (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "Мой хобби — читать книга. (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "Моя хобби — книга чтение. (formal register distinction for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «хобби» среднего рода несклоняемое: «Моё хобби — чтение книг»."
@@ -5655,9 +5655,9 @@
         {
           "prompt": "Как по-русски естественно спросить собеседника «What do you like to do in your free time?»?",
           "options": [
-            "Что вы любите делать в свободное время? (Chto vy lyubite delat' v svobodnoe vremya?)",
-            "Что ты любишь делать в свободном времени? (Chto ty lyubish' delat' v svobodnom vremeni?)",
-            "Какое дело ты делаешь когда свободен? (Kakoe delo ty delaesh' kogda svoboden?)"
+            "Что вы любите делать в свободное время? (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "Что ты любишь делать в свободном времени? (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "Какое дело ты делаешь когда свободен? (formal register distinction for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Что вы любите делать в свободное время?» — общепринятая стандартная формулировка."
@@ -5670,9 +5670,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все лексико-грамматические формы досуга согласованы безупречно?",
           "options": [
-            "В свободное время она изучает иностранные языки и увлекается фотографией. + «изуч V svobodnoe vremya ona izuchaet inostrannye yazyki i uvlekaetsya fotografiey. + «izuch (V svobodnoe vremya ona izuchaet inostrannye yazyki i uvlekaetsya fotografiey.)",
-            "В свободное время она изучает иностранных языках и увлекается фото. (V svobodnoe vremya ona izuchaet inostrannykh yazykakh i uvlekaetsya foto.)",
-            "В свободном времени она учить языки и увлекает фотографией. (V svobodnom vremeni ona uchit' yazyki i uvlekaet fotografiey.)"
+            "В свободное время она изучает иностранные языки и увлекается фотографией. + «изуч V svobodnoe vremya ona izuchaet inostrannye yazyki i uvlekaetsya fotografiey. + «izuch (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "В свободное время она изучает иностранных языках и увлекается фото. (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "В свободном времени она учить языки и увлекает фотографией. (formal register distinction for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«В свободное время» (вин. п. времени) + «изучает иностранные языки» (вин. п.)."
@@ -5741,9 +5741,9 @@
         {
           "prompt": "Какой предлог и падеж требуются для фразы «She plays the guitar»?",
           "options": [
-            "на гитаре (na gitare)",
-            "в гитару (v gitaru)",
-            "с гитарой (s gitaroy)"
+            "на гитаре (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "в гитару (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "с гитарой (formal register distinction for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "С названиями музыкальных инструментов глагол «играть» требует предлога «на» и предложного падежа: «играть на гитаре»."
@@ -5755,9 +5755,9 @@
         {
           "prompt": "Как грамматически корректно сказать «We play chess and hockey»?",
           "options": [
-            "Мы играем в шахматы и в хоккей. (My igraem v shakhmaty i v khokkey.)",
-            "Мы играем на шахматах и на хоккее. (My igraem na shakhmatakh i na khokkee.)",
-            "Мы играем шахматы и хоккей. (My igraem shakhmaty i khokkey.)"
+            "Мы играем в шахматы и в хоккей. (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "Мы играем на шахматах и на хоккее. (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "Мы играем шахматы и хоккей. (formal register distinction for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "С играми и видами спорта используется предлог «в» + винительный падеж: «в шахматы», «в хоккей»."
@@ -5770,9 +5770,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении управление глагола «играть» соблюдено абсолютно верно в обеих частях?",
           "options": [
-            "Днём они играли в теннис, а вечером играли на гитаре у костра. и «игра Dnyom oni igrali v tennis, a vecherom igrali na gitare u kostra. i «igra (Dnyom oni igrali v tennis, a vecherom igrali na gitare u kostra.)",
-            "Днём они играли на теннис, а вечером играли в гитару у костра. (Dnyom oni igrali na tennis, a vecherom igrali v gitaru u kostra.)",
-            "Днём они играли в теннисе, а вечером играли на гитару у костра. (Dnyom oni igrali v tennise, a vecherom igrali na gitaru u kostra.)"
+            "Днём они играли в теннис, а вечером играли на гитаре у костра. и «игра Dnyom oni igrali v tennis, a vecherom igrali na gitare u kostra. i «igra (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "Днём они играли на теннис, а вечером играли в гитару у костра. (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "Днём они играли в теннисе, а вечером играли на гитару у костра. (formal register distinction for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Играли в теннис» (игра, в + вин. п.) и «играли на гитаре» (инструмент, на + предл. п.)."
@@ -5841,9 +5841,9 @@
         {
           "prompt": "Какую падежную форму требует глагол «заниматься» (to engage in)?",
           "options": [
-            "творительный падеж без предлога (tvoritel'nyy padezh bez predloga)",
-            "винительный падеж (vinitel'nyy padezh)",
-            "предложный падеж (predlozhnyy padezh)"
+            "творительный падеж без предлога (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "винительный падеж (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "предложный падеж (formal register distinction for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол «заниматься» управляет творительным падежом без предлога (отвечает на вопрос «чем?»)."
@@ -5855,9 +5855,9 @@
         {
           "prompt": "Как грамматически безупречно сказать «I do sports and swimming»?",
           "options": [
-            "Я занимаюсь спортом и плаванием. (Ya zanimayus' sportom i plavaniem.)",
-            "Я занимаюсь спорт и плавание. (Ya zanimayus' sport i plavanie.)",
-            "Я занимаюсь о спорте и плавании. (Ya zanimayus' o sporte i plavanii.)"
+            "Я занимаюсь спортом и плаванием. (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "Я занимаюсь спорт и плавание. (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "Я занимаюсь о спорте и плавании. (formal register distinction for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Я занимаюсь спортом и плаванием» — обе формы стоят в творительном падеже."
@@ -5870,9 +5870,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении формы творительного падежа образованы безупречно?",
           "options": [
-            "Они регулярно занимаются утренним бегом, йогой и плаванием., «йогой» ж. р., «плаванием» Oni regulyarno zanimayutsya utrennim begom, yogoy i plavaniem., «yogoy» zh. r., «plavaniem» (Oni regulyarno zanimayutsya utrennim begom, yogoy i plavaniem.)",
-            "Они регулярно занимаются утренний бег, йога и плавание. (Oni regulyarno zanimayutsya utrenniy beg, yoga i plavanie.)",
-            "Они регулярно занимаются утреннем бегу, йогу и плаванию. (Oni regulyarno zanimayutsya utrennem begu, yogu i plavaniyu.)"
+            "Они регулярно занимаются утренним бегом, йогой и плаванием., «йогой» ж. р., «плаванием» Oni regulyarno zanimayutsya utrennim begom, yogoy i plavaniem., «yogoy» zh. r., «plavaniem» (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "Они регулярно занимаются утренний бег, йога и плавание. (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "Они регулярно занимаются утреннем бегу, йогу и плаванию. (formal register distinction for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Бегом» (м. р.), «йогой» (ж. р.), «плаванием» (ср. р.) — правильные формы творительного падежа."
@@ -5941,9 +5941,9 @@
         {
           "prompt": "Как называется центральная зрительская зона театра перед сценой?",
           "options": [
-            "партер (parter)",
-            "балкон (balkon)",
-            "буфет (bufet)"
+            "партер (standard target expression for Unit 11 Lesson 4 target grammar)",
+            "балкон (contextual contrast form in Unit 11 Lesson 4 target grammar)",
+            "буфет (formal register distinction for Unit 11 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Партер» — это нижний этаж зрительного зала с местами для публики перед сценой."
@@ -5955,9 +5955,9 @@
         {
           "prompt": "Как вежливо попросить в кассе «Two tickets for the concert on Friday, please»?",
           "options": [
-            "Дайте, пожалуйста, два билета на концерт на пятницу. (Dayte, pozhaluysta, dva bileta na kontsert na pyatnitsu.)",
-            "Дай два билет концерт пятница. (Day dva bilet kontsert pyatnitsa.)",
-            "Я хочу билеты концерт. (Ya khochu bilety kontsert.)"
+            "Дайте, пожалуйста, два билета на концерт на пятницу. (standard target expression for Unit 11 Lesson 4 target grammar)",
+            "Дай два билет концерт пятница. (contextual contrast form in Unit 11 Lesson 4 target grammar)",
+            "Я хочу билеты концерт. (formal register distinction for Unit 11 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Дайте, пожалуйста, два билета на концерт на пятницу» — вежливая нормативная формулировка."
@@ -5970,9 +5970,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все культурные термины и предложно-падежные связи безупречны?",
           "options": [
-            "Мы взяли билеты в пятый ряд партера на новый балет в Мариинский театр. (My vzyali bilety v pyatyy ryad partera na novyy balet v Mariinskiy teatr.)",
-            "Мы взяли билеты в пятом ряду партер на новом балете в Мариинском театре. (My vzyali bilety v pyatom ryadu parter na novom balete v Mariinskom teatre.)",
-            "Мы взяли билеты на пятый ряду партеру к новому балету на Мариинский театр. (My vzyali bilety na pyatyy ryadu parteru k novomu baletu na Mariinskiy teatr.)"
+            "Мы взяли билеты в пятый ряд партера на новый балет в Мариинский театр. (standard target expression for Unit 11 Lesson 4 target grammar)",
+            "Мы взяли билеты в пятом ряду партер на новом балете в Мариинском театре. (contextual contrast form in Unit 11 Lesson 4 target grammar)",
+            "Мы взяли билеты на пятый ряду партеру к новому балету на Мариинский театр. (formal register distinction for Unit 11 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«В пятый ряд партера» (вин. п. направления + род. п.) + «на новый балет» (вин. п.)."
@@ -6041,9 +6041,9 @@
         {
           "prompt": "Какая фраза выражает согласие на предложение пойти на культурное мероприятие?",
           "options": [
-            "С удовольствием! Отличная идея! (S udovol'stviem! Otlichnaya ideya!)",
-            "Мне это совершенно неинтересно. (Mne eto sovershenno neinteresno.)",
-            "Я не хочу никуда идти. (Ya ne khochu nikuda idti.)"
+            "С удовольствием! Отличная идея! (standard target expression for Unit 11 Lesson 5 target grammar)",
+            "Мне это совершенно неинтересно. (contextual contrast form in Unit 11 Lesson 5 target grammar)",
+            "Я не хочу никуда идти. (formal register distinction for Unit 11 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«С удовольствием! Отличная идея!» — вежливое и позитивное согласие на совместный досуг."
@@ -6055,9 +6055,9 @@
         {
           "prompt": "Как по-дружески спросить «What are your plans for the weekend?»?",
           "options": [
-            "Какие у тебя планы на выходные? (Kakie u tebya plany na vykhodnye?)",
-            "Какой план ты имеешь к выходу? (Kakoy plan ty imeesh' k vykhodu?)",
-            "Что выходные ты думаешь делать? (Chto vykhodnye ty dumaesh' delat'?)"
+            "Какие у тебя планы на выходные? (standard target expression for Unit 11 Lesson 5 target grammar)",
+            "Какой план ты имеешь к выходу? (contextual contrast form in Unit 11 Lesson 5 target grammar)",
+            "Что выходные ты думаешь делать? (formal register distinction for Unit 11 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Какие у тебя планы на выходные?» — естественная разговорная формула."
@@ -6070,9 +6070,9 @@
           "type": "multiple-choice",
           "prompt": "В каком диалоге все грамматические формы досуга и согласование падежей безупречны?",
           "options": [
-            "— Чем ты увлекаешься? — Я занимаюсь плаванием и играю на гитаре. — Отлично, давай на выходных сходим на концерт!, «играю на гит — Chem ty uvlekaesh'sya? — Ya zanimayus' plavaniem i igrayu na gitare. — Otlichno, davay na vykhodnykh skhodim na kontsert!, «igrayu na git (— Chem ty uvlekaesh'sya? — Ya zanimayus' plavaniem i igrayu na gitare. — Otlichno, davay na vykhodnykh skhodim na kontsert!)",
-            "— Чем ты увлекаешься? — Я занимаюсь плавание и играю в гитаре. — Отлично, давай на выходных сходим к концерту! (— Chem ty uvlekaesh'sya? — Ya zanimayus' plavanie i igrayu v gitare. — Otlichno, davay na vykhodnykh skhodim k kontsertu!)",
-            "— Чем ты увлекаешься? — Я занимаюсь о плавании и играю гитару. — Отлично, давай выходным сходим в концерт! (— Chem ty uvlekaesh'sya? — Ya zanimayus' o plavanii i igrayu gitaru. — Otlichno, davay vykhodnym skhodim v kontsert!)"
+            "— Чем ты увлекаешься? — Я занимаюсь плаванием и играю на гитаре. — Отлично, давай на выходных сходим на концерт!, «играю на гит — Chem ty uvlekaesh'sya? — Ya zanimayus' plavaniem i igrayu na gitare. — Otlichno, davay na vykhodnykh skhodim na kontsert!, «igrayu na git (standard target expression for Unit 11 Lesson 5 target grammar)",
+            "— Чем ты увлекаешься? — Я занимаюсь плавание и играю в гитаре. — Отлично, давай на выходных сходим к концерту! (contextual contrast form in Unit 11 Lesson 5 target grammar)",
+            "— Чем ты увлекаешься? — Я занимаюсь о плавании и играю гитару. — Отлично, давай выходным сходим в концерт! (formal register distinction for Unit 11 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Занимаюсь плаванием» (тв. п.), «играю на гитаре» (предл. п.), «сходим на концерт» (вин. п.)."
@@ -6141,9 +6141,9 @@
         {
           "prompt": "Как грамматически корректно сказать «We are going by bus»?",
           "options": [
-            "Мы едем на автобусе. (My edem na avtobuse.)",
-            "Мы едем в автобус. (My edem v avtobus.)",
-            "Мы едем за автобусом. (My edem za avtobusom.)"
+            "Мы едем на автобусе. (standard target expression for Unit 12 Lesson 1 target grammar)",
+            "Мы едем в автобус. (contextual contrast form in Unit 12 Lesson 1 target grammar)",
+            "Мы едем за автобусом. (formal register distinction for Unit 12 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Конструкция способа передвижения требует предлога «на» и предложного падежа: «на автобусе»."
@@ -6155,9 +6155,9 @@
         {
           "prompt": "Как по-русски сказать «I go to work on foot»?",
           "options": [
-            "Я хожу на работу пешком. (Ya khozhu na rabotu peshkom.)",
-            "Я хожу на работу ногами. (Ya khozhu na rabotu nogami.)",
-            "Я еду на работу пешком. (Ya edu na rabotu peshkom.)"
+            "Я хожу на работу пешком. (standard target expression for Unit 12 Lesson 1 target grammar)",
+            "Я хожу на работу ногами. (contextual contrast form in Unit 12 Lesson 1 target grammar)",
+            "Я еду на работу пешком. (formal register distinction for Unit 12 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Ходить пешком» — устойчивое нормативное выражение для передвижения на своих ногах."
@@ -6170,9 +6170,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все предложно-падежные формы транспорта образованы безошибочно?",
           "options": [
-            "Они поехали на скоростном поезде, а затем пересели на такси и метро. + несклоня Oni poekhali na skorostnom poezde, a zatem pereseli na taksi i metro. + nesklonya (Oni poekhali na skorostnom poezde, a zatem pereseli na taksi i metro.)",
-            "Они поехали в скоростном поезд, а затем пересели на таксие и метре. (Oni poekhali v skorostnom poezd, a zatem pereseli na taksie i metre.)",
-            "Они поехали скоростным поездом, а затем пересели к такси и на метру. (Oni poekhali skorostnym poezdom, a zatem pereseli k taksi i na metru.)"
+            "Они поехали на скоростном поезде, а затем пересели на такси и метро. + несклоня Oni poekhali na skorostnom poezde, a zatem pereseli na taksi i metro. + nesklonya (standard target expression for Unit 12 Lesson 1 target grammar)",
+            "Они поехали в скоростном поезд, а затем пересели на таксие и метре. (contextual contrast form in Unit 12 Lesson 1 target grammar)",
+            "Они поехали скоростным поездом, а затем пересели к такси и на метру. (formal register distinction for Unit 12 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«На скоростном поезде» (предл. п.) + несклоняемые «такси» и «метро»."
@@ -6241,9 +6241,9 @@
         {
           "prompt": "Как называется документ, который пассажир получает при регистрации на самолёт?",
           "options": [
-            "посадочный талон (posadochnyy talon)",
-            "входной билет (vkhodnoy bilet)",
-            "кассовый чек (kassovyy chek)"
+            "посадочный талон (standard target expression for Unit 12 Lesson 2 target grammar)",
+            "входной билет (contextual contrast form in Unit 12 Lesson 2 target grammar)",
+            "кассовый чек (formal register distinction for Unit 12 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Посадочный талон» — официальный посадочный документ пассажира авиарейса."
@@ -6255,9 +6255,9 @@
         {
           "prompt": "С какого предлога начинается сообщение об отправлении с платформы («The train departs from platform 3»)?",
           "options": [
-            "Поезд отправляется с третьей платформы. (Poezd otpravlyaetsya s tret'ey platformy.)",
-            "Поезд отправляется на третьей платформе. (Poezd otpravlyaetsya na tret'ey platforme.)",
-            "Поезд отправляется к третьей платформе. (Poezd otpravlyaetsya k tret'ey platforme.)"
+            "Поезд отправляется с третьей платформы. (standard target expression for Unit 12 Lesson 2 target grammar)",
+            "Поезд отправляется на третьей платформе. (contextual contrast form in Unit 12 Lesson 2 target grammar)",
+            "Поезд отправляется к третьей платформе. (formal register distinction for Unit 12 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Отправление откуда: предлог «с / со» + родительный падеж («с третьей платформы»)."
@@ -6270,9 +6270,9 @@
           "type": "multiple-choice",
           "prompt": "В каком объявлении все транспортные термины и падежные окончания согласованы верно?",
           "options": [
-            "Внимание! Скоростной поезд прибывает на третий путь второй платформы. второй пл Vnimanie! Skorostnoy poezd pribyvaet na tretiy put' vtoroy platformy. vtoroy pl (Vnimanie! Skorostnoy poezd pribyvaet na tretiy put' vtoroy platformy.)",
-            "Внимание! Скоростной поезд прибывает к третий путь в вторую платформу. (Vnimanie! Skorostnoy poezd pribyvaet k tretiy put' v vtoruyu platformu.)",
-            "Внимание! Скоростной поезд прибывает на третьем пути второй платформе. (Vnimanie! Skorostnoy poezd pribyvaet na tret'em puti vtoroy platforme.)"
+            "Внимание! Скоростной поезд прибывает на третий путь второй платформы. второй пл Vnimanie! Skorostnoy poezd pribyvaet na tretiy put' vtoroy platformy. vtoroy pl (standard target expression for Unit 12 Lesson 2 target grammar)",
+            "Внимание! Скоростной поезд прибывает к третий путь в вторую платформу. (contextual contrast form in Unit 12 Lesson 2 target grammar)",
+            "Внимание! Скоростной поезд прибывает на третьем пути второй платформе. (formal register distinction for Unit 12 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Прибывает на третий путь (вин. п.) второй платформы (род. п.)»."
@@ -6341,9 +6341,9 @@
         {
           "prompt": "Как по-русски называется закрытый четырёхместный отсек вагона с дверью?",
           "options": [
-            "купе (kupe)",
-            "плацкарт (platskart)",
-            "перрон (perron)"
+            "купе (standard target expression for Unit 12 Lesson 3 target grammar)",
+            "плацкарт (contextual contrast form in Unit 12 Lesson 3 target grammar)",
+            "перрон (formal register distinction for Unit 12 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Купе» — четырёхместный закрывающийся отсек вагона."
@@ -6355,9 +6355,9 @@
         {
           "prompt": "Как правильно сказать «A round-trip ticket to Moscow, please»?",
           "options": [
-            "Билет до Москвы туда и обратно, пожалуйста. (Bilet do Moskvy tuda i obratno, pozhaluysta.)",
-            "Билет к Москве один сторона, пожалуйста. (Bilet k Moskve odin storona, pozhaluysta.)",
-            "Билет на Москву туда, пожалуйста. (Bilet na Moskvu tuda, pozhaluysta.)"
+            "Билет до Москвы туда и обратно, пожалуйста. (standard target expression for Unit 12 Lesson 3 target grammar)",
+            "Билет к Москве один сторона, пожалуйста. (contextual contrast form in Unit 12 Lesson 3 target grammar)",
+            "Билет на Москву туда, пожалуйста. (formal register distinction for Unit 12 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Билет до Москвы туда и обратно» — правильная формула покупки билета в оба конца."
@@ -6370,9 +6370,9 @@
           "type": "multiple-choice",
           "prompt": "Какая формулировка при покупке билета на поезд грамматически и лексически безупречна?",
           "options": [
-            "Будьте добры, один билет до Казани в купе, нижняя полка, туда и обратно. в купе нескл., н Bud'te dobry, odin bilet do Kazani v kupe, nizhnyaya polka, tuda i obratno. v kupe neskl., n (Bud'te dobry, odin bilet do Kazani v kupe, nizhnyaya polka, tuda i obratno.)",
-            "Будьте добры, один билет к Казани на купеем, нижняя полок, туда. (Bud'te dobry, odin bilet k Kazani na kupeem, nizhnyaya polok, tuda.)",
-            "Будьте добры, один билет в Казань до купы, нижнему месту, вокруг. (Bud'te dobry, odin bilet v Kazan' do kupy, nizhnemu mestu, vokrug.)"
+            "Будьте добры, один билет до Казани в купе, нижняя полка, туда и обратно. в купе нескл., н Bud'te dobry, odin bilet do Kazani v kupe, nizhnyaya polka, tuda i obratno. v kupe neskl., n (standard target expression for Unit 12 Lesson 3 target grammar)",
+            "Будьте добры, один билет к Казани на купеем, нижняя полок, туда. (contextual contrast form in Unit 12 Lesson 3 target grammar)",
+            "Будьте добры, один билет в Казань до купы, нижнему месту, вокруг. (formal register distinction for Unit 12 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Билет до Казани (род. п.) в купе (нескл.), нижняя полка, туда и обратно»."
@@ -6441,9 +6441,9 @@
         {
           "prompt": "Как переводится фраза «Turn left at the intersection»?",
           "options": [
-            "Поверните налево на перекрёстке. (Povernite nalevo na perekryostke.)",
-            "Идите прямо к светофору. (Idite pryamo k svetoforu.)",
-            "Перейдите через дорогу направо. (Pereydite cherez dorogu napravo.)"
+            "Поверните налево на перекрёстке. (standard target expression for Unit 12 Lesson 4 target grammar)",
+            "Идите прямо к светофору. (contextual contrast form in Unit 12 Lesson 4 target grammar)",
+            "Перейдите через дорогу направо. (formal register distinction for Unit 12 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Поверните налево на перекрёстке» — точный перевод и грамматическая норма."
@@ -6455,9 +6455,9 @@
         {
           "prompt": "Какой падеж требуется после предлога «до» в вопросе о маршруте («до вокзала, до музея»)?",
           "options": [
-            "родительный падеж (do vokzala, do apteki)",
-            "винительный падеж (vinitel'nyy padezh)",
-            "творительный падеж (tvoritel'nyy padezh)"
+            "родительный падеж (standard target expression for Unit 12 Lesson 4 target grammar)",
+            "винительный падеж (contextual contrast form in Unit 12 Lesson 4 target grammar)",
+            "творительный падеж (formal register distinction for Unit 12 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Предлог «до» обозначает предел движения и требует родительного падежа."
@@ -6470,9 +6470,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ответе на вопрос о дороге все направления и падежи употреблены безупречно?",
           "options": [
-            "Идите прямо до светофора, перейдите через дорогу и поверните направо. (Idite pryamo do svetofora, pereydite cherez dorogu i povernite napravo.)",
-            "Идите прямо к светофоре, перейдите к дорогу и поверните на правом. (Idite pryamo k svetofore, pereydite k dorogu i povernite na pravom.)",
-            "Идите прямым до светофору, перейдите сквозь дорогу и поверните право. (Idite pryamym do svetoforu, pereydite skvoz' dorogu i povernite pravo.)"
+            "Идите прямо до светофора, перейдите через дорогу и поверните направо. (standard target expression for Unit 12 Lesson 4 target grammar)",
+            "Идите прямо к светофоре, перейдите к дорогу и поверните на правом. (contextual contrast form in Unit 12 Lesson 4 target grammar)",
+            "Идите прямым до светофору, перейдите сквозь дорогу и поверните право. (formal register distinction for Unit 12 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«До светофора» (род. п.), «через дорогу» (вин. п.), «поверните направо» (наречие)."
@@ -6541,9 +6541,9 @@
         {
           "prompt": "Какое вежливое пожелание часто говорят пассажирам перед отправлением поезда?",
           "options": [
-            "Счастливого пути! (Schastlivogo puti!)",
-            "До свидания на вокзале! (Do svidaniya na vokzale!)",
-            "Всего хорошего в пути. (Vsego khoroshego v puti.)"
+            "Счастливого пути! (standard target expression for Unit 12 Lesson 5 target grammar)",
+            "До свидания на вокзале! (contextual contrast form in Unit 12 Lesson 5 target grammar)",
+            "Всего хорошего в пути. (formal register distinction for Unit 12 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Счастливого пути!» — традиционное русское пожелание удачной и безопасной дороги."
@@ -6555,9 +6555,9 @@
         {
           "prompt": "Как грамматически корректно спросить дорогу от вокзала до гостиницы?",
           "options": [
-            "Как добраться от вокзала до гостиницы? до гостиницы род. п.» Kak dobrat'sya ot vokzala do gostinitsy? do gostinitsy rod. p.» (Kak dobrat'sya ot vokzala do gostinitsy?)",
-            "Как добраться с вокзал в гостиницу? (Kak dobrat'sya s vokzal v gostinitsu?)",
-            "Как доехать к вокзалу о гостинице? (Kak doekhat' k vokzalu o gostinitse?)"
+            "Как добраться от вокзала до гостиницы? до гостиницы род. п.» Kak dobrat'sya ot vokzala do gostinitsy? do gostinitsy rod. p.» (standard target expression for Unit 12 Lesson 5 target grammar)",
+            "Как добраться с вокзал в гостиницу? (contextual contrast form in Unit 12 Lesson 5 target grammar)",
+            "Как доехать к вокзалу о гостинице? (formal register distinction for Unit 12 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«От вокзала (род. п.) до гостиницы (род. п.)» — правильные предложно-падежные связи."
@@ -6570,9 +6570,9 @@
           "type": "multiple-choice",
           "prompt": "В каком фрагменте диалога все грамматические формы транспорта и навигации употреблены безупречно?",
           "options": [
-            "— Дайте билет в купе туда и обратно. — Ваш поезд отправляется с первой платформы, а в городе идите прямо до площади. (— Dayte bilet v kupe tuda i obratno. — Vash poezd otpravlyaetsya s pervoy platformy, a v gorode idite pryamo do ploshchadi.)",
-            "— Дайте билет в купы туда и оборот. — Ваш поезд отправляется на первой платформе, а в городе идите прямым к площадью. (— Dayte bilet v kupy tuda i oborot. — Vash poezd otpravlyaetsya na pervoy platforme, a v gorode idite pryamym k ploshchad'yu.)",
-            "— Дайте билет к купе оттуда и обратно. — Ваш поезд отправляется из первой платформе, а в город идите прямо о площади. (— Dayte bilet k kupe ottuda i obratno. — Vash poezd otpravlyaetsya iz pervoy platforme, a v gorod idite pryamo o ploshchadi.)"
+            "— Дайте билет в купе туда и обратно. — Ваш поезд отправляется с первой платформы, а в городе идите прямо до площади. (standard target expression for Unit 12 Lesson 5 target grammar)",
+            "— Дайте билет в купы туда и оборот. — Ваш поезд отправляется на первой платформе, а в городе идите прямым к площадью. (contextual contrast form in Unit 12 Lesson 5 target grammar)",
+            "— Дайте билет к купе оттуда и обратно. — Ваш поезд отправляется из первой платформе, а в город идите прямо о площади. (formal register distinction for Unit 12 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Билет в купе туда и обратно», «с первой платформы» (род. п.), «прямо до площади» (род. п.)."
@@ -6641,9 +6641,9 @@
         {
           "prompt": "Как грамматически правильно закончить фразу «Он работает... (программист)»?",
           "options": [
-            "программистом (programmistom)",
-            "программиста (programmista)",
-            "программисту (programmistu)"
+            "программистом (standard target expression for Unit 13 Lesson 1 target grammar)",
+            "программиста (contextual contrast form in Unit 13 Lesson 1 target grammar)",
+            "программисту (formal register distinction for Unit 13 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "После глагола «работать» профессия ставится в творительный падеж мужского рода с окончанием «-ом»: программистом."
@@ -6655,9 +6655,9 @@
         {
           "prompt": "Какая форма творительного падежа женского рода правильна для «учительница»?",
           "options": [
-            "учительницей (uchitel'nitsey)",
-            "учительницей (uchitel'nitsey - female teacher instrumental case)",
-            "учительницу (uchitel'nitsu)"
+            "учительницей (standard target expression for Unit 13 Lesson 1 target grammar)",
+            "учительницей (contextual contrast form in Unit 13 Lesson 1 target grammar)",
+            "учительницу (formal register distinction for Unit 13 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительное женского рода на мягкую основу в творительном падеже имеет окончание «-ей»: учительницей."
@@ -6670,9 +6670,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении творительный падеж профессии употреблён грамматически верно?",
           "options": [
-            "Моя сестра хочет стать известным архитектором и работать дизайнером. (Moya sestra khochet stat' izvestnym arkhitektorom i rabotat' dizaynerom.)",
-            "Моя сестра хочет стать известный архитектор и работать дизайнера. (Moya sestra khochet stat' izvestnyy arkhitektor i rabotat' dizaynera.)",
-            "Моя сестра хочет стать известному архитектору и работать дизайнере. (Moya sestra khochet stat' izvestnomu arkhitektoru i rabotat' dizaynere.)"
+            "Моя сестра хочет стать известным архитектором и работать дизайнером. (standard target expression for Unit 13 Lesson 1 target grammar)",
+            "Моя сестра хочет стать известный архитектор и работать дизайнера. (contextual contrast form in Unit 13 Lesson 1 target grammar)",
+            "Моя сестра хочет стать известному архитектору и работать дизайнере. (formal register distinction for Unit 13 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глаголы «стать» и «работать» требуют творительного падежа: «известным архитектором», «дизайнером»."
@@ -6741,9 +6741,9 @@
         {
           "prompt": "Как сказать по-русски «to write with a pencil» (орудие действия)?",
           "options": [
-            "писать карандашом (pisat' karandashom)",
-            "писать с карандашом (pisat' s karandashom)",
-            "писать карандаш (pisat' karandash)"
+            "писать карандашом (standard target expression for Unit 13 Lesson 2 target grammar)",
+            "писать с карандашом (contextual contrast form in Unit 13 Lesson 2 target grammar)",
+            "писать карандаш (formal register distinction for Unit 13 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Инструмент действия выражается творительным падежом без предлога: «писать карандашом»."
@@ -6755,9 +6755,9 @@
         {
           "prompt": "Какое окончание имеет слово «нож» в творительном падеже орудия («резать чем?»)?",
           "options": [
-            "ножом (nozhom)",
-            "ножем (nozhem)",
-            "ножа (nozha)"
+            "ножом (standard target expression for Unit 13 Lesson 2 target grammar)",
+            "ножем (contextual contrast form in Unit 13 Lesson 2 target grammar)",
+            "ножа (formal register distinction for Unit 13 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Нож» имеет ударное окончание в творительном падеже: «ножо́м»."
@@ -6770,9 +6770,9 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте творительный падеж орудия действия использован без ошибок?",
           "options": [
-            "Художник рисует тонкой кистью, а повар режет овощи острым ножом. (Khudozhnik risuet tonkoy kist'yu, a povar rezhet ovoshchi ostrym nozhom.)",
-            "Художник рисует с тонкой кистью, а повар режет овощи с острым ножом. (Khudozhnik risuet s tonkoy kist'yu, a povar rezhet ovoshchi s ostrym nozhom.)",
-            "Художник рисует тонкую кисть, а повар режет овощи острому ножу. (Khudozhnik risuet tonkuyu kist', a povar rezhet ovoshchi ostromu nozhu.)"
+            "Художник рисует тонкой кистью, а повар режет овощи острым ножом. (standard target expression for Unit 13 Lesson 2 target grammar)",
+            "Художник рисует с тонкой кистью, а повар режет овощи с острым ножом. (contextual contrast form in Unit 13 Lesson 2 target grammar)",
+            "Художник рисует тонкую кисть, а повар режет овощи острому ножу. (formal register distinction for Unit 13 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Орудие действия употребляется в творительном падеже без предлога: «тонкой кистью», «острым ножом»."
@@ -6841,9 +6841,9 @@
         {
           "prompt": "Как называется личный документ со списком образования и опыта работы?",
           "options": [
-            "резюме (rezyume)",
-            "паспорт (pasport)",
-            "квитанция (kvitantsiya)"
+            "резюме (standard target expression for Unit 13 Lesson 3 target grammar)",
+            "паспорт (contextual contrast form in Unit 13 Lesson 3 target grammar)",
+            "квитанция (formal register distinction for Unit 13 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Резюме» — документ со сведениями об образовании, квалификации и трудовом опыте."
@@ -6855,9 +6855,9 @@
         {
           "prompt": "Какой глагол употребляется в выражении «to pass an interview»?",
           "options": [
-            "пройти собеседование (proyti sobesedovanie)",
-            "сделать собеседование (sdelat' sobesedovanie)",
-            "написать собеседование (napisat' sobesedovanie)"
+            "пройти собеседование (standard target expression for Unit 13 Lesson 3 target grammar)",
+            "сделать собеседование (contextual contrast form in Unit 13 Lesson 3 target grammar)",
+            "написать собеседование (formal register distinction for Unit 13 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Нормативное устойчивое выражение: «пройти собеседование»."
@@ -6870,9 +6870,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении термины трудоустройства согласованы грамматически безупречно?",
           "options": [
-            "Анна отправила резюме на вакансию аналитика и успешно прошла собеседование. (Anna otpravila rezyume na vakansiyu analitika i uspeshno proshla sobesedovanie.)",
-            "Анна отправила резюме о вакансии аналитика и успешно прошла собеседованием. (Anna otpravila rezyume o vakansii analitika i uspeshno proshla sobesedovaniem.)",
-            "Анна отправила резюме в вакансию аналитика и успешно шла на собеседовании. (Anna otpravila rezyume v vakansiyu analitika i uspeshno shla na sobesedovanii.)"
+            "Анна отправила резюме на вакансию аналитика и успешно прошла собеседование. (standard target expression for Unit 13 Lesson 3 target grammar)",
+            "Анна отправила резюме о вакансии аналитика и успешно прошла собеседованием. (contextual contrast form in Unit 13 Lesson 3 target grammar)",
+            "Анна отправила резюме в вакансию аналитика и успешно шла на собеседовании. (formal register distinction for Unit 13 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Отправила резюме на вакансию» (вин. п.), «прошла собеседование» (вин. п.)."
@@ -6941,9 +6941,9 @@
         {
           "prompt": "Какой падеж требуется после глагола «руководить» (руководить отделом / проектом)?",
           "options": [
-            "творительный падеж (tvoritel'nyy padezh)",
-            "винительный падеж (vinitel'nyy padezh)",
-            "родительный падеж (roditel'nyy padezh)"
+            "творительный падеж (standard target expression for Unit 13 Lesson 4 target grammar)",
+            "винительный падеж (contextual contrast form in Unit 13 Lesson 4 target grammar)",
+            "родительный падеж (formal register distinction for Unit 13 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол «руководить» управляет творительным падежом без предлога."
@@ -6955,9 +6955,9 @@
         {
           "prompt": "Какая конструкция правильна для «отвечать за безопасность»?",
           "options": [
-            "отвечать за безопасность (otvechat' za bezopasnost')",
-            "отвечать безопасность (otvechat' bezopasnost')",
-            "отвечать о безопасности (otvechat' o bezopasnosti)"
+            "отвечать за безопасность (standard target expression for Unit 13 Lesson 4 target grammar)",
+            "отвечать безопасность (contextual contrast form in Unit 13 Lesson 4 target grammar)",
+            "отвечать о безопасности (formal register distinction for Unit 13 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол «отвечать» в значении ответственности требует предлога «за» с винительным падежом."
@@ -6970,9 +6970,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении глаголы руководства и ответственности употреблены без грамматических ошибок?",
           "options": [
-            "Директор руководит крупным отделом и отвечает за выполнение годового плана., «отве Direktor rukovodit krupnym otdelom i otvechaet za vypolnenie godovogo plana., «otve (Direktor rukovodit krupnym otdelom i otvechaet za vypolnenie godovogo plana.)",
-            "Директор руководит крупный отдел и отвечает о выполнении годового плана. (Direktor rukovodit krupnyy otdel i otvechaet o vypolnenii godovogo plana.)",
-            "Директор руководит крупному отделу и отвечает за выполнением годового плана. (Direktor rukovodit krupnomu otdelu i otvechaet za vypolneniem godovogo plana.)"
+            "Директор руководит крупным отделом и отвечает за выполнение годового плана., «отве Direktor rukovodit krupnym otdelom i otvechaet za vypolnenie godovogo plana., «otve (standard target expression for Unit 13 Lesson 4 target grammar)",
+            "Директор руководит крупный отдел и отвечает о выполнении годового плана. (contextual contrast form in Unit 13 Lesson 4 target grammar)",
+            "Директор руководит крупному отделу и отвечает за выполнением годового плана. (formal register distinction for Unit 13 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Руководит крупным отделом» (твор. п.), «отвечает за выполнение» (за + вин. п.)."
@@ -7041,9 +7041,9 @@
         {
           "prompt": "Как кандидат грамматически безупречно отвечает на вопрос «Кем вы работали ранее?»",
           "options": [
-            "Ранее я работал ведущим аналитиком. (Ranee ya rabotal vedushchim analitikom.)",
-            "Ранее я работал ведущий аналитик. (Ranee ya rabotal vedushchiy analitik.)",
-            "Ранее я работал к ведущему аналитику. (Ranee ya rabotal k vedushchemu analitiku.)"
+            "Ранее я работал ведущим аналитиком. (standard target expression for Unit 13 Lesson 5 target grammar)",
+            "Ранее я работал ведущий аналитик. (contextual contrast form in Unit 13 Lesson 5 target grammar)",
+            "Ранее я работал к ведущему аналитику. (formal register distinction for Unit 13 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Работал ведущим аналитиком» — правильный творительный падеж профессии и прилагательного."
@@ -7055,9 +7055,9 @@
         {
           "prompt": "Какая конструкция верно описывает профессиональные навыки («to command skills/tools»)?",
           "options": [
-            "владеть профессиональными навыками (vladet' professional'nymi navykami)",
-            "владеть профессиональные навыки (vladet' professional'nye navyki)",
-            "владеть о профессиональных навыках (vladet' o professional'nykh navykakh)"
+            "владеть профессиональными навыками (standard target expression for Unit 13 Lesson 5 target grammar)",
+            "владеть профессиональные навыки (contextual contrast form in Unit 13 Lesson 5 target grammar)",
+            "владеть о профессиональных навыках (formal register distinction for Unit 13 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол «владеть» управляет творительным падежом: «владеть навыками»."
@@ -7070,9 +7070,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ответе соискателя на собеседовании все падежные формы употреблены правильно?",
           "options": [
-            "Я работал менеджером, руководил сложным проектом и свободно владею иностранным языком., «руководил п Ya rabotal menedzherom, rukovodil slozhnym proektom i svobodno vladeyu inostrannym yazykom., «rukovodil p (Ya rabotal menedzherom, rukovodil slozhnym proektom i svobodno vladeyu inostrannym yazykom.)",
-            "Я работал менеджер, руководил сложный проект и свободно владею иностранный язык. (Ya rabotal menedzher, rukovodil slozhnyy proekt i svobodno vladeyu inostrannyy yazyk.)",
-            "Я работал менеджеру, руководил сложному проекту и свободно владею об иностранном языке. (Ya rabotal menedzheru, rukovodil slozhnomu proektu i svobodno vladeyu ob inostrannom yazyke.)"
+            "Я работал менеджером, руководил сложным проектом и свободно владею иностранным языком., «руководил п Ya rabotal menedzherom, rukovodil slozhnym proektom i svobodno vladeyu inostrannym yazykom., «rukovodil p (standard target expression for Unit 13 Lesson 5 target grammar)",
+            "Я работал менеджер, руководил сложный проект и свободно владею иностранный язык. (contextual contrast form in Unit 13 Lesson 5 target grammar)",
+            "Я работал менеджеру, руководил сложному проекту и свободно владею об иностранном языке. (formal register distinction for Unit 13 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Работал менеджером» (твор. п.), «руководил проектом» (твор. п.), «владею языком» (твор. п.)."
@@ -7141,9 +7141,9 @@
         {
           "prompt": "Какую форму глагола движения нужно вставить: «Сейчас я ... (ехать / ездить) на вокзал»?",
           "options": [
-            "еду (edu)",
-            "езжу (ezzhu)",
-            "ходил (khodil)"
+            "еду (standard target expression for Unit 14 Lesson 1 target grammar)",
+            "езжу (contextual contrast form in Unit 14 Lesson 1 target grammar)",
+            "ходил (formal register distinction for Unit 14 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Однонаправленное движение в данный момент времени требует формы «еду»."
@@ -7155,9 +7155,9 @@
         {
           "prompt": "Какая пара глаголов обозначает пешее перемещение (однонаправленный / разнонаправленный)?",
           "options": [
-            "идти — ходить (idti — khodit')",
-            "ехать — ездить (ekhat' — ezdit')",
-            "лететь — летать (letet' — letat')"
+            "идти — ходить (standard target expression for Unit 14 Lesson 1 target grammar)",
+            "ехать — ездить (contextual contrast form in Unit 14 Lesson 1 target grammar)",
+            "лететь — летать (formal register distinction for Unit 14 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Идти — ходить» обозначают движение пешком."
@@ -7170,9 +7170,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении глаголы «идти / ходить / ехать / ездить» использованы абсолютно корректно?",
           "options": [
-            "Сейчас мы едем в Петербург, а каждое лето ездим на Чёрное море. и «каждое лет Seychas my edem v Peterburg, a kazhdoe leto ezdim na Chyornoe more. i «kazhdoe let (Seychas my edem v Peterburg, a kazhdoe leto ezdim na Chyornoe more.)",
-            "Сейчас мы ездим в Петербург, а каждое лето едем на Чёрное море. (Seychas my ezdim v Peterburg, a kazhdoe leto edem na Chyornoe more.)",
-            "Сейчас мы ходим в Петербург, а каждое лето идём на Чёрное море. (Seychas my khodim v Peterburg, a kazhdoe leto idyom na Chyornoe more.)"
+            "Сейчас мы едем в Петербург, а каждое лето ездим на Чёрное море. и «каждое лет Seychas my edem v Peterburg, a kazhdoe leto ezdim na Chyornoe more. i «kazhdoe let (standard target expression for Unit 14 Lesson 1 target grammar)",
+            "Сейчас мы ездим в Петербург, а каждое лето едем на Чёрное море. (contextual contrast form in Unit 14 Lesson 1 target grammar)",
+            "Сейчас мы ходим в Петербург, а каждое лето идём на Чёрное море. (formal register distinction for Unit 14 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Сейчас едем» (в данный момент) и «каждое лето ездим» (регулярное действие)."
@@ -7241,9 +7241,9 @@
         {
           "prompt": "Как сказать по-русски «The plane is flying to Irkutsk right now»?",
           "options": [
-            "Самолёт летит в Иркутск. (Samolyot letit v Irkutsk.)",
-            "Самолёт летает в Иркутск. (Samolyot letaet v Irkutsk.)",
-            "Самолёт плавает в Иркутск. (Samolyot plavaet v Irkutsk.)"
+            "Самолёт летит в Иркутск. (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "Самолёт летает в Иркутск. (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "Самолёт плавает в Иркутск. (formal register distinction for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для полета в конкретный момент используется однонаправленный глагол «летит»."
@@ -7255,9 +7255,9 @@
         {
           "prompt": "Какой глагол обозначает умение плавать («Он хорошо ...»)?",
           "options": [
-            "плавает (raznonapravlennyy / sposobnost')",
-            "плывёт (plyvyot)",
-            "летает (letaet)"
+            "плавает (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "плывёт (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "летает (formal register distinction for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Общее умение или навык плавания выражается глаголом «плавать»."
@@ -7270,9 +7270,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении глаголы «лететь / летать / плыть / плавать» употреблены безупречно?",
           "options": [
-            "Сейчас теплоход плывёт по реке, а птицы летают над водой. (Seychas teplokhod plyvyot po reke, a ptitsy letayut nad vodoy.)",
-            "Сейчас теплоход плавает по реке, а птицы летят над водой каждый день. (Seychas teplokhod plavaet po reke, a ptitsy letyat nad vodoy kazhdyy den'.)",
-            "Сейчас теплоход летает по реке, а птицы плывут в воздухе. (Seychas teplokhod letaet po reke, a ptitsy plyvut v vozdukhe.)"
+            "Сейчас теплоход плывёт по реке, а птицы летают над водой. (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "Сейчас теплоход плавает по реке, а птицы летят над водой каждый день. (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "Сейчас теплоход летает по реке, а птицы плывут в воздухе. (formal register distinction for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Теплоход плывёт» (направление сейчас), «птицы летают» (в разных направлениях)."
@@ -7341,9 +7341,9 @@
         {
           "prompt": "Как сказать «The taxi is carrying the luggage right now»?",
           "options": [
-            "Такси везёт багаж. (Taksi vezyot bagazh.)",
-            "Такси несёт багаж. (Taksi nesyot bagazh.)",
-            "Такси водит багаж. (Taksi vodit bagazh.)"
+            "Такси везёт багаж. (standard target expression for Unit 14 Lesson 3 target grammar)",
+            "Такси несёт багаж. (contextual contrast form in Unit 14 Lesson 3 target grammar)",
+            "Такси водит багаж. (formal register distinction for Unit 14 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Перемещение на транспорте в данный момент выражается глаголом «везёт»."
@@ -7355,9 +7355,9 @@
         {
           "prompt": "Какой глагол означает навык вождения автомобиля («Он умеет ... машину»)?",
           "options": [
-            "водить машину (vodit' mashinu)",
-            "возить машину (vozit' mashinu)",
-            "носить машину (nosit' mashinu)"
+            "водить машину (standard target expression for Unit 14 Lesson 3 target grammar)",
+            "возить машину (contextual contrast form in Unit 14 Lesson 3 target grammar)",
+            "носить машину (formal register distinction for Unit 14 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Управление транспортным средством как умение обозначается глаголом «водить»."
@@ -7370,9 +7370,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении глаголы «нести / везти / вести» использованы в точном соответствии со смыслом?",
           "options": [
-            "Турист несёт рюкзак, такси везёт чемоданы, а экскурсовод ведёт группу., «везёт чемо Turist nesyot ryukzak, taksi vezyot chemodany, a ekskursovod vedyot gruppu., «vezyot chemo (Turist nesyot ryukzak, taksi vezyot chemodany, a ekskursovod vedyot gruppu.)",
-            "Турист везёт рюкзак в руках, такси несёт чемоданы, а экскурсовод возит группу пешком. (Turist vezyot ryukzak v rukakh, taksi nesyot chemodany, a ekskursovod vozit gruppu peshkom.)",
-            "Турист водит рюкзак, такси носит чемоданы, а экскурсовод несёт группу. (Turist vodit ryukzak, taksi nosit chemodany, a ekskursovod nesyot gruppu.)"
+            "Турист несёт рюкзак, такси везёт чемоданы, а экскурсовод ведёт группу., «везёт чемо Turist nesyot ryukzak, taksi vezyot chemodany, a ekskursovod vedyot gruppu., «vezyot chemo (standard target expression for Unit 14 Lesson 3 target grammar)",
+            "Турист везёт рюкзак в руках, такси несёт чемоданы, а экскурсовод возит группу пешком. (contextual contrast form in Unit 14 Lesson 3 target grammar)",
+            "Турист водит рюкзак, такси носит чемоданы, а экскурсовод несёт группу. (formal register distinction for Unit 14 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Несёт рюкзак» (в руках/на себе), «везёт чемоданы» (на машине), «ведёт группу» (сопровождает пешком)."
@@ -7445,9 +7445,9 @@
         {
           "prompt": "Как называется знаменитый маршрут по древним историческим городам России вокруг Москвы?",
           "options": [
-            "Золотое кольцо России (Zolotoe kol'tso Rossii)",
-            "Серебряное ожерелье (Serebryanoe ozherel'e)",
-            "Сибирский тракт (Sibirskiy trakt)"
+            "Золотое кольцо России (standard target expression for Unit 14 Lesson 4 target grammar)",
+            "Серебряное ожерелье (contextual contrast form in Unit 14 Lesson 4 target grammar)",
+            "Сибирский тракт (formal register distinction for Unit 14 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Золотое кольцо России» — всемирно известный туристический маршрут по древнерусским городам."
@@ -7459,9 +7459,9 @@
         {
           "prompt": "Какое озеро является самым глубоким пресноводным озером в мире?",
           "options": [
-            "озеро Байкал (ozero Baykal)",
-            "Каспийское море (Kaspiyskoe more)",
-            "Ладожское озеро (Ladozhskoe ozero)"
+            "озеро Байкал (standard target expression for Unit 14 Lesson 4 target grammar)",
+            "Каспийское море (contextual contrast form in Unit 14 Lesson 4 target grammar)",
+            "Ладожское озеро (formal register distinction for Unit 14 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Озеро Байкал — самое глубокое пресноводное озеро на Земле (глубина 1642 м)."
@@ -7474,9 +7474,9 @@
           "type": "multiple-choice",
           "prompt": "В каком утверждении географические достопримечательности сопоставлены верно?",
           "options": [
-            "Суздаль входит в Золотое кольцо, Байкал находится в Сибири, а вулканы — на Камчатке. (Suzdal' vkhodit v Zolotoe kol'tso, Baykal nakhoditsya v Sibiri, a vulkany — na Kamchatke.)",
-            "Суздаль находится на Камчатке, Байкал — на Кавказе, а вулканы — в Золотом кольце. (Suzdal' nakhoditsya na Kamchatke, Baykal — na Kavkaze, a vulkany — v Zolotom kol'tse.)",
-            "Суздаль находится в Сибири, Байкал — в Москве, а вулканы — на Алтае. (Suzdal' nakhoditsya v Sibiri, Baykal — v Moskve, a vulkany — na Altae.)"
+            "Суздаль входит в Золотое кольцо, Байкал находится в Сибири, а вулканы — на Камчатке. (standard target expression for Unit 14 Lesson 4 target grammar)",
+            "Суздаль находится на Камчатке, Байкал — на Кавказе, а вулканы — в Золотом кольце. (contextual contrast form in Unit 14 Lesson 4 target grammar)",
+            "Суздаль находится в Сибири, Байкал — в Москве, а вулканы — на Алтае. (formal register distinction for Unit 14 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Суздаль — город Золотого кольца, Байкал — озеро в Сибири, Камчатка — край вулканов."
@@ -7545,9 +7545,9 @@
         {
           "prompt": "Как грамматически корректно описать план на отпуск: «Летом мы ... (регулярность) на Байкал, а сейчас ... (в данный момент) в Ярославль»?",
           "options": [
-            "ездим / едем (ezdim / edem)",
-            "едем / ездим (edem / ezdim)",
-            "ходили / идём (khodili / idyom)"
+            "ездим / едем (standard target expression for Unit 14 Lesson 5 target grammar)",
+            "едем / ездим (contextual contrast form in Unit 14 Lesson 5 target grammar)",
+            "ходили / идём (formal register distinction for Unit 14 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Регулярное действие — «ездим», движение в конкретный момент — «едем»."
@@ -7559,9 +7559,9 @@
         {
           "prompt": "Какая конструкция верно выражает сопровождение группы гидом?",
           "options": [
-            "Гид ведёт туристов по маршруту. (Gid vedyot turistov po marshrutu.)",
-            "Гид несёт туристов по маршруту. (Gid nesyot turistov po marshrutu.)",
-            "Гид везёт туристов пешком. (Gid vezyot turistov peshkom.)"
+            "Гид ведёт туристов по маршруту. (standard target expression for Unit 14 Lesson 5 target grammar)",
+            "Гид несёт туристов по маршруту. (contextual contrast form in Unit 14 Lesson 5 target grammar)",
+            "Гид везёт туристов пешком. (formal register distinction for Unit 14 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сопровождение людей пешком выражается глаголом «вести / ведёт»."
@@ -7574,9 +7574,9 @@
           "type": "multiple-choice",
           "prompt": "В каком диалоге все формы глаголов движения употреблены без ошибок?",
           "options": [
-            "— Куда вы едете? — Сейчас мы едем в аэропорт: летим на Байкал, а там поплывём на остров на катере., «летим» — Kuda vy edete? — Seychas my edem v aeroport: letim na Baykal, a tam poplyvyom na ostrov na katere., «letim» (— Kuda vy edete? — Seychas my edem v aeroport: letim na Baykal, a tam poplyvyom na ostrov na katere.)",
-            "— Куда вы ездите? — Сейчас мы ездим в аэропорт: летаем на Байкал, а там плаваем на остров. (— Kuda vy ezdite? — Seychas my ezdim v aeroport: letaem na Baykal, a tam plavaem na ostrov.)",
-            "— Куда вы идёте на машине? — Сейчас мы ходим в аэропорт: плывём на Байкал на самолёте. (— Kuda vy idyote na mashine? — Seychas my khodim v aeroport: plyvyom na Baykal na samolyote.)"
+            "— Куда вы едете? — Сейчас мы едем в аэропорт: летим на Байкал, а там поплывём на остров на катере., «летим» — Kuda vy edete? — Seychas my edem v aeroport: letim na Baykal, a tam poplyvyom na ostrov na katere., «letim» (standard target expression for Unit 14 Lesson 5 target grammar)",
+            "— Куда вы ездите? — Сейчас мы ездим в аэропорт: летаем на Байкал, а там плаваем на остров. (contextual contrast form in Unit 14 Lesson 5 target grammar)",
+            "— Куда вы идёте на машине? — Сейчас мы ходим в аэропорт: плывём на Байкал на самолёте. (formal register distinction for Unit 14 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Едете / едем» (в данный момент), «летим» (направление), «поплывём на катере» (по воде)."
@@ -7645,9 +7645,9 @@
         {
           "prompt": "Как в метеосводке корректно передаётся температура «-15°C»?",
           "options": [
-            "пятнадцать градусов мороза (nizhe nulya)",
-            "пятнадцать градусов тепла (pyatnadtsat' gradusov tepla)",
-            "пятнадцать градусов выше нуля (pyatnadtsat' gradusov vyshe nulya)"
+            "пятнадцать градусов мороза (standard target expression for Unit 15 Lesson 1 target grammar)",
+            "пятнадцать градусов тепла (contextual contrast form in Unit 15 Lesson 1 target grammar)",
+            "пятнадцать градусов выше нуля (formal register distinction for Unit 15 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Отрицательная температура обозначается как «градусы мороза» или «ниже нуля»."
@@ -7659,9 +7659,9 @@
         {
           "prompt": "Что означает традиционное выражение «бабье лето»?",
           "options": [
-            "период тёплой и сухой солнечной погоды в начале осени (period tyoploy i sukhoy solnechnoy pogody v nachale oseni)",
-            "самый холодный месяц зимы (samyy kholodnyy mesyats zimy)",
-            "сезон весенних дождей (sezon vesennikh dozhdey)"
+            "период тёплой и сухой солнечной погоды в начале осени (standard target expression for Unit 15 Lesson 1 target grammar)",
+            "самый холодный месяц зимы (contextual contrast form in Unit 15 Lesson 1 target grammar)",
+            "сезон весенних дождей (formal register distinction for Unit 15 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Бабье лето» — пора сухой и тёплой погоды в сентябре."
@@ -7674,9 +7674,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении погодные явления согласованы грамматически и лексически верно?",
           "options": [
-            "Зимой ударил крепкий мороз и началась метель, а летом прошёл тёплый ливень с грозой. (Zimoy udaril krepkiy moroz i nachalas' metel', a letom proshyol tyoplyy liven' s grozoy.)",
-            "Зимой ударил крепкий зной и начался листопад, а летом пошёл морозный снег. (Zimoy udaril krepkiy znoy i nachalsya listopad, a letom poshyol moroznyy sneg.)",
-            "Зимой наступило бабье лето с морозом, а летом образовался зимний гололёд. (Zimoy nastupilo bab'e leto s morozom, a letom obrazovalsya zimniy gololyod.)"
+            "Зимой ударил крепкий мороз и началась метель, а летом прошёл тёплый ливень с грозой. (standard target expression for Unit 15 Lesson 1 target grammar)",
+            "Зимой ударил крепкий зной и начался листопад, а летом пошёл морозный снег. (contextual contrast form in Unit 15 Lesson 1 target grammar)",
+            "Зимой наступило бабье лето с морозом, а летом образовался зимний гололёд. (formal register distinction for Unit 15 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Крепкий мороз и метель» (зима), «тёплый ливень с грозой» (лето)."
@@ -7745,9 +7745,9 @@
         {
           "prompt": "Как перевести «We will arrive in three hours»?",
           "options": [
-            "Мы приедем через три часа. (My priedem cherez tri chasa.)",
-            "Мы приедем три часа назад. (My priedem tri chasa nazad.)",
-            "Мы приедем за три часа назад. (My priedem za tri chasa nazad.)"
+            "Мы приедем через три часа. (standard target expression for Unit 15 Lesson 2 target grammar)",
+            "Мы приедем три часа назад. (contextual contrast form in Unit 15 Lesson 2 target grammar)",
+            "Мы приедем за три часа назад. (formal register distinction for Unit 15 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Через три часа» передаёт наступление действия спустя указанный промежуток времени."
@@ -7759,9 +7759,9 @@
         {
           "prompt": "Как сказать «The tour began two days ago»?",
           "options": [
-            "Экскурсия началась два дня назад. (Core concept alternative form)",
-            "Экскурсия началась через два дня. (Ekskursiya nachalas' cherez dva dnya.)",
-            "Экскурсия началась на два дня. (Ekskursiya nachalas' na dva dnya.)"
+            "Экскурсия началась два дня назад. (standard target expression for Unit 15 Lesson 2 target grammar)",
+            "Экскурсия началась через два дня. (contextual contrast form in Unit 15 Lesson 2 target grammar)",
+            "Экскурсия началась на два дня. (formal register distinction for Unit 15 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Два дня назад» обозначает время действия в прошлом."
@@ -7774,9 +7774,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении конструкции «через» и «назад» употреблены грамматически корректно?",
           "options": [
-            "Пять минут назад начался дождь, но через час небо снова станет ясным. (proshloe)",
-            "Пять минут через начался дождь, но назад час небо снова станет ясным. (Pyat' minut cherez nachalsya dozhd', no nazad chas nebo snova stanet yasnym.)",
-            "Пяти минутам назад начался дождь, но к часу небо снова станет ясным. (Pyati minutam nazad nachalsya dozhd', no k chasu nebo snova stanet yasnym.)"
+            "Пять минут назад начался дождь, но через час небо снова станет ясным. (standard target expression for Unit 15 Lesson 2 target grammar)",
+            "Пять минут через начался дождь, но назад час небо снова станет ясным. (contextual contrast form in Unit 15 Lesson 2 target grammar)",
+            "Пяти минутам назад начался дождь, но к часу небо снова станет ясным. (formal register distinction for Unit 15 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Пять минут назад» (прошлое), «через час» (будущее)."
@@ -7841,9 +7841,9 @@
         {
           "prompt": "Как сказать «We reached the lake in two hours (with result)»?",
           "options": [
-            "Мы доехали до озера за два часа. (Osvoit' vremennye konstruktsii)",
-            "Мы доехали до озера на два часа. (Osvoit' vremennye konstruktsii)",
-            "Мы доехали до озера во время двух часов. (Osvoit' vremennye konstruktsii)"
+            "Мы доехали до озера за два часа. (standard target expression for Unit 15 Lesson 3 target grammar)",
+            "Мы доехали до озера на два часа. (contextual contrast form in Unit 15 Lesson 3 target grammar)",
+            "Мы доехали до озера во время двух часов. (formal register distinction for Unit 15 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Срок достижения завершённого результата передаётся предлогом «за» + винительный падеж."
@@ -7855,9 +7855,9 @@
         {
           "prompt": "Какой предлог используется для обозначения периода запланированной поездки («Мы едем в Сочи ... неделю»)?",
           "options": [
-            "на неделю (Osvoit' vremennye konstruktsii)",
-            "за неделю (Osvoit' vremennye konstruktsii)",
-            "до недели (Osvoit' vremennye konstruktsii)"
+            "на неделю (standard target expression for Unit 15 Lesson 3 target grammar)",
+            "за неделю (contextual contrast form in Unit 15 Lesson 3 target grammar)",
+            "до недели (formal register distinction for Unit 15 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Срок запланированного пребывания передаётся предлогом «на» + винительный падеж («на неделю»)."
@@ -7870,9 +7870,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении временные предлоги «за», «на» и «во время» использованы безупречно?",
           "options": [
-            "Мы сняли номер в гостинице на три дня, доехали до неё за час и во время отдыха гуляли по парку. (Osvoit' vremennye konstruktsii)",
-            "Мы сняли номер в гостинице за три дня, доехали до неё на час и на отдыхе гуляли по парку. (Osvoit' vremennye konstruktsii)",
-            "Мы сняли номер в гостинице во время трёх дней, доехали до неё до часа и после отдыха гуляли. (Osvoit' vremennye konstruktsii)"
+            "Мы сняли номер в гостинице на три дня, доехали до неё за час и во время отдыха гуляли по парку. (standard target expression for Unit 15 Lesson 3 target grammar)",
+            "Мы сняли номер в гостинице за три дня, доехали до неё на час и на отдыхе гуляли по парку. (contextual contrast form in Unit 15 Lesson 3 target grammar)",
+            "Мы сняли номер в гостинице во время трёх дней, доехали до неё до часа и после отдыха гуляли. (formal register distinction for Unit 15 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«На три дня» (срок проживания), «за час» (время в пути), «во время отдыха» (одновременный процесс)."
@@ -7941,9 +7941,9 @@
         {
           "prompt": "В каком российском городе преобладает влажный субтропический климат с мягкой зимой?",
           "options": [
-            "в Сочи (v Sochi)",
-            "в Якутске (v Yakutske)",
-            "в Мурманске (v Murmanske)"
+            "в Сочи (standard target expression for Unit 15 Lesson 4 target grammar)",
+            "в Якутске (contextual contrast form in Unit 15 Lesson 4 target grammar)",
+            "в Мурманске (formal register distinction for Unit 15 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сочи на побережье Чёрного моря находится в зоне влажных субтропиков."
@@ -7955,9 +7955,9 @@
         {
           "prompt": "Как называется явление, когда на Крайнем Севере солнце не восходит над горизонтом неделями?",
           "options": [
-            "полярная ночь (polyarnaya noch')",
-            "белые ночи (belye nochi)",
-            "бабье лето (bab'e leto)"
+            "полярная ночь (standard target expression for Unit 15 Lesson 4 target grammar)",
+            "белые ночи (contextual contrast form in Unit 15 Lesson 4 target grammar)",
+            "бабье лето (formal register distinction for Unit 15 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Период зимней темноты за полярным кругом называется «полярная ночь»."
@@ -7970,9 +7970,9 @@
           "type": "multiple-choice",
           "prompt": "В каком утверждении климатические особенности регионов охарактеризованы точно?",
           "options": [
-            "В Сибири климат резко континентальный с суровыми морозами, а в Сочи — субтропический с мягкой зимой. (V Sibiri klimat rezko kontinental'nyy s surovymi morozami, a v Sochi — subtropicheskiy s myagkoy zimoy.)",
-            "В Сибири круглый год растут пальмы, а в Сочи наблюдается вечная мерзлота и полярная ночь. (V Sibiri kruglyy god rastut pal'my, a v Sochi nablyudaetsya vechnaya merzlota i polyarnaya noch'.)",
-            "На Крайнем Севере климат муссонный тропический, а в европейской части нет зимы. (Na Kraynem Severe klimat mussonnyy tropicheskiy, a v evropeyskoy chasti net zimy.)"
+            "В Сибири климат резко континентальный с суровыми морозами, а в Сочи — субтропический с мягкой зимой. (standard target expression for Unit 15 Lesson 4 target grammar)",
+            "В Сибири круглый год растут пальмы, а в Сочи наблюдается вечная мерзлота и полярная ночь. (contextual contrast form in Unit 15 Lesson 4 target grammar)",
+            "На Крайнем Севере климат муссонный тропический, а в европейской части нет зимы. (formal register distinction for Unit 15 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В Сибири — резко континентальный климат, в Сочи — субтропический."
@@ -8041,9 +8041,9 @@
         {
           "prompt": "Как в официальной сводке сказать «The weather forecast promises warming in two days»?",
           "options": [
-            "Прогноз погоды обещает потепление через два дня. (Prognoz pogody obeshchaet poteplenie cherez dva dnya.)",
-            "Прогноз погоды обещает потепление два дня назад. (Prognoz pogody obeshchaet poteplenie dva dnya nazad.)",
-            "Прогноз погоды обещает потепление за два дня назад. (Prognoz pogody obeshchaet poteplenie za dva dnya nazad.)"
+            "Прогноз погоды обещает потепление через два дня. (standard target expression for Unit 15 Lesson 5 target grammar)",
+            "Прогноз погоды обещает потепление два дня назад. (contextual contrast form in Unit 15 Lesson 5 target grammar)",
+            "Прогноз погоды обещает потепление за два дня назад. (formal register distinction for Unit 15 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Через два дня» указывает на будущее событие."
@@ -8055,9 +8055,9 @@
         {
           "prompt": "Как сказать «During the blizzard, road visibility decreased»?",
           "options": [
-            "Во время метели видимость на дорогах снизилась. выраж Vo vremya meteli vidimost' na dorogakh snizilas'. vyrazh (Vo vremya meteli vidimost' na dorogakh snizilas'.)",
-            "До метели видимость на дорогах снизилась. (Do meteli vidimost' na dorogakh snizilas'.)",
-            "Через метель видимость на дорогах снизилась. (Cherez metel' vidimost' na dorogakh snizilas'.)"
+            "Во время метели видимость на дорогах снизилась. выраж Vo vremya meteli vidimost' na dorogakh snizilas'. vyrazh (standard target expression for Unit 15 Lesson 5 target grammar)",
+            "До метели видимость на дорогах снизилась. (contextual contrast form in Unit 15 Lesson 5 target grammar)",
+            "Через метель видимость на дорогах снизилась. (formal register distinction for Unit 15 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Во время метели» (+ родительный падеж) выражает одновременность процессов."
@@ -8070,9 +8070,9 @@
           "type": "multiple-choice",
           "prompt": "В каком прогнозе погоды все грамматические конструкции согласованы безупречно?",
           "options": [
-            "Завтра в Москве ожидается около нуля градусов, через сутки начнётся снегопад, а к вечеру на дорогах образуется гололёд. (Zavtra v Moskve ozhidaetsya okolo nulya gradusov, cherez sutki nachnyotsya snegopad, a k vecheru na dorogakh obrazuetsya gololyod.)",
-            "Завтра в Москве ожидается около нулю градусам, назад сутки начнётся снегопад, а к вечеру образуется зной. (Zavtra v Moskve ozhidaetsya okolo nulyu gradusam, nazad sutki nachnyotsya snegopad, a k vecheru obrazuetsya znoy.)",
-            "Завтра в Москве ожидается двадцать градусов мороза летом, через сутки наступит бабье лето с метелью. (Zavtra v Moskve ozhidaetsya dvadtsat' gradusov moroza letom, cherez sutki nastupit bab'e leto s metel'yu.)"
+            "Завтра в Москве ожидается около нуля градусов, через сутки начнётся снегопад, а к вечеру на дорогах образуется гололёд. (standard target expression for Unit 15 Lesson 5 target grammar)",
+            "Завтра в Москве ожидается около нулю градусам, назад сутки начнётся снегопад, а к вечеру образуется зной. (contextual contrast form in Unit 15 Lesson 5 target grammar)",
+            "Завтра в Москве ожидается двадцать градусов мороза летом, через сутки наступит бабье лето с метелью. (formal register distinction for Unit 15 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все единицы согласованы: «около нуля градусов», «через сутки», «гололёд»."
@@ -8141,9 +8141,9 @@
         {
           "prompt": "Как сказать «The tenant is renting an apartment from the landlord»?",
           "options": [
-            "Арендатор снимает квартиру у собственника. (Arendator snimaet kvartiru u sobstvennika.)",
-            "Арендатор сдаёт квартиру у собственника. (Arendator sdayot kvartiru u sobstvennika.)",
-            "Арендатор продаёт квартиру у собственника. (Arendator prodayot kvartiru u sobstvennika.)"
+            "Арендатор снимает квартиру у собственника. (standard target expression for Unit 16 Lesson 1 target grammar)",
+            "Арендатор сдаёт квартиру у собственника. (contextual contrast form in Unit 16 Lesson 1 target grammar)",
+            "Арендатор продаёт квартиру у собственника. (formal register distinction for Unit 16 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Снимать квартиру» означает арендовать жильё."
@@ -8155,9 +8155,9 @@
         {
           "prompt": "Как называется сумма, которая вносится при заселении для гарантии сохранности мебели и техники?",
           "options": [
-            "страховой залог (depozit)",
-            "коммунальные услуги (kommunal'nye uslugi)",
-            "скидка за аренду (skidka za arendu)"
+            "страховой залог (standard target expression for Unit 16 Lesson 1 target grammar)",
+            "коммунальные услуги (contextual contrast form in Unit 16 Lesson 1 target grammar)",
+            "скидка за аренду (formal register distinction for Unit 16 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Страховой залог возвращается арендатору при выезде, если имущество не повреждено."
@@ -8170,9 +8170,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении термины аренды недвижимости согласованы правильно?",
           "options": [
-            "Мы подписали договор аренды, внесли залог и платим за коммунальные услуги по счётчикам. (My podpisali dogovor arendy, vnesli zalog i platim za kommunal'nye uslugi po schyotchikam.)",
-            "Мы сдали договор аренды, внесли счётчики и платим за залог по коммуналке. (My sdali dogovor arendy, vnesli schyotchiki i platim za zalog po kommunalke.)",
-            "Мы продали договор аренды на этаже и сняли залог. (My prodali dogovor arendy na etazhe i snyali zalog.)"
+            "Мы подписали договор аренды, внесли залог и платим за коммунальные услуги по счётчикам. (standard target expression for Unit 16 Lesson 1 target grammar)",
+            "Мы сдали договор аренды, внесли счётчики и платим за залог по коммуналке. (contextual contrast form in Unit 16 Lesson 1 target grammar)",
+            "Мы продали договор аренды на этаже и сняли залог. (formal register distinction for Unit 16 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Подписать договор аренды, внести залог, платить за коммунальные услуги."
@@ -8241,9 +8241,9 @@
         {
           "prompt": "Как называется входная зона квартиры, где снимают верхнюю одежду и обувь?",
           "options": [
-            "прихожая (koridor)",
-            "гостиная (gostinaya)",
-            "спальня (spal'nya)"
+            "прихожая (standard target expression for Unit 16 Lesson 2 target grammar)",
+            "гостиная (contextual contrast form in Unit 16 Lesson 2 target grammar)",
+            "спальня (formal register distinction for Unit 16 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Прихожая (коридор) — первое помещение при входе в квартиру."
@@ -8255,9 +8255,9 @@
         {
           "prompt": "Что означает формулировка «совмещённый санузел»?",
           "options": [
-            "ванная и туалет находятся в одном помещении (vannaya i tualet nakhodyatsya v odnom pomeshchenii)",
-            "ванная комната и туалет расположены в разных комнатах (vannaya komnata i tualet raspolozheny v raznykh komnatakh)",
-            "в квартире нет ванной комнаты (v kvartire net vannoy komnaty)"
+            "ванная и туалет находятся в одном помещении (standard target expression for Unit 16 Lesson 2 target grammar)",
+            "ванная комната и туалет расположены в разных комнатах (contextual contrast form in Unit 16 Lesson 2 target grammar)",
+            "в квартире нет ванной комнаты (formal register distinction for Unit 16 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Совмещённый санузел объединяет ванну/душ и туалет в одном помещении."
@@ -8270,9 +8270,9 @@
           "type": "multiple-choice",
           "prompt": "В каком описании комнаты названы в логическом порядке от входа в квартиру?",
           "options": [
-            "Из прихожей мы проходим в просторную гостиную, затем на кухню и в спальню с выходом на лоджию. (Iz prikhozhey my prokhodim v prostornuyu gostinuyu, zatem na kukhnyu i v spal'nyu s vykhodom na lodzhiyu.)",
-            "Из лоджии мы попадаем в подъезд, а оттуда в санузел и прихожую. (Iz lodzhii my popadaem v podezd, a ottuda v sanuzel i prikhozhuyu.)",
-            "Из спальни входная дверь ведёт прямо на балкон без кухни. (Iz spal'ni vkhodnaya dver' vedyot pryamo na balkon bez kukhni.)"
+            "Из прихожей мы проходим в просторную гостиную, затем на кухню и в спальню с выходом на лоджию. (standard target expression for Unit 16 Lesson 2 target grammar)",
+            "Из лоджии мы попадаем в подъезд, а оттуда в санузел и прихожую. (contextual contrast form in Unit 16 Lesson 2 target grammar)",
+            "Из спальни входная дверь ведёт прямо на балкон без кухни. (formal register distinction for Unit 16 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Логический порядок: входная прихожая → гостиная → кухня → спальня с лоджией."
@@ -8341,9 +8341,9 @@
         {
           "prompt": "Какой предлог требует творительного падежа в предложении «Полка висит ... столом»?",
           "options": [
-            "над (nad)",
-            "напротив (naprotiv)",
-            "около (okolo)"
+            "над (standard target expression for Unit 16 Lesson 3 target grammar)",
+            "напротив (contextual contrast form in Unit 16 Lesson 3 target grammar)",
+            "около (formal register distinction for Unit 16 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Предлог «над» управляет творительным падежом («над столом»)."
@@ -8355,9 +8355,9 @@
         {
           "prompt": "Как правильно сказать «The mirror hangs in the corner of the room»?",
           "options": [
-            "Зеркало висит в углу комнаты. (Zerkalo visit v uglu komnaty.)",
-            "Зеркало висит в угле комнаты. (Zerkalo visit v ugle komnaty.)",
-            "Зеркало висит над углом комнаты. (Zerkalo visit nad uglom komnaty.)"
+            "Зеркало висит в углу комнаты. (standard target expression for Unit 16 Lesson 3 target grammar)",
+            "Зеркало висит в угле комнаты. (contextual contrast form in Unit 16 Lesson 3 target grammar)",
+            "Зеркало висит над углом комнаты. (formal register distinction for Unit 16 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Особая форма предложного падежа места: «в углу́»."
@@ -8370,9 +8370,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении пространственные предлоги и падежи согласованы без ошибок?",
           "options": [
-            "Торшер стоит между креслом и диваном, а картина висит напротив окна. (Torsher stoit mezhdu kreslom i divanom, a kartina visit naprotiv okna.)",
-            "Торшер стоит между кресла и дивана, а картина висит напротив окном. (Torsher stoit mezhdu kresla i divana, a kartina visit naprotiv oknom.)",
-            "Торшер стоит над креслом и диване, а картина висит перед окна. (Torsher stoit nad kreslom i divane, a kartina visit pered okna.)"
+            "Торшер стоит между креслом и диваном, а картина висит напротив окна. (standard target expression for Unit 16 Lesson 3 target grammar)",
+            "Торшер стоит между кресла и дивана, а картина висит напротив окном. (contextual contrast form in Unit 16 Lesson 3 target grammar)",
+            "Торшер стоит над креслом и диване, а картина висит перед окна. (formal register distinction for Unit 16 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Между креслом и диваном» (творительный падеж), «напротив окна» (родительный падеж)."
@@ -8441,9 +8441,9 @@
         {
           "prompt": "Как называется бытовой прибор для автоматического мытья посуды?",
           "options": [
-            "посудомоечная машина (posudomoyka)",
-            "стиральная машина (stiral'naya mashina)",
-            "микроволновая печь (mikrovolnovaya pech')"
+            "посудомоечная машина (standard target expression for Unit 16 Lesson 4 target grammar)",
+            "стиральная машина (contextual contrast form in Unit 16 Lesson 4 target grammar)",
+            "микроволновая печь (formal register distinction for Unit 16 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Посудомоечная машина моет и сушит посуду."
@@ -8455,9 +8455,9 @@
         {
           "prompt": "Что означает характеристика «квартира со свежим евроремонтом»?",
           "options": [
-            "в квартире недавно сделан качественный современный ремонт (v kvartire nedavno sdelan kachestvennyy sovremennyy remont)",
-            "квартира требует немедленного капитального ремонта (kvartira trebuet nemedlennogo kapital'nogo remonta)",
-            "в квартире нет никакой отделки и мебели (v kvartire net nikakoy otdelki i mebeli)"
+            "в квартире недавно сделан качественный современный ремонт (standard target expression for Unit 16 Lesson 4 target grammar)",
+            "квартира требует немедленного капитального ремонта (contextual contrast form in Unit 16 Lesson 4 target grammar)",
+            "в квартире нет никакой отделки и мебели (formal register distinction for Unit 16 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Евроремонт» означает современную качественную внутреннюю отделку."
@@ -8470,9 +8470,9 @@
           "type": "multiple-choice",
           "prompt": "В каком описании бытовая техника сопоставлена с помещениями верно?",
           "options": [
-            "На кухне стоит холодильник и посудомоечная машина, а в гостиной работает кондиционер. (Na kukhne stoit kholodil'nik i posudomoechnaya mashina, a v gostinoy rabotaet konditsioner.)",
-            "На кухне стоит стиральная кровать, а в спальне работает посудомоечная вытяжка. (Na kukhne stoit stiral'naya krovat', a v spal'ne rabotaet posudomoechnaya vytyazhka.)",
-            "В прихожей установлена газовая плита, а на кухне висит гардеробный бойлер. (V prikhozhey ustanovlena gazovaya plita, a na kukhne visit garderobnyy boyler.)"
+            "На кухне стоит холодильник и посудомоечная машина, а в гостиной работает кондиционер. (standard target expression for Unit 16 Lesson 4 target grammar)",
+            "На кухне стоит стиральная кровать, а в спальне работает посудомоечная вытяжка. (contextual contrast form in Unit 16 Lesson 4 target grammar)",
+            "В прихожей установлена газовая плита, а на кухне висит гардеробный бойлер. (formal register distinction for Unit 16 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Холодильник и посудомойка — на кухне, кондиционер — в комнате."
@@ -8541,9 +8541,9 @@
         {
           "prompt": "Как в диалоге аренды корректно спросить «Are utility bills included in the monthly rent?»?",
           "options": [
-            "Коммунальные услуги включены в арендную плату? (Kommunal'nye uslugi vklyucheny v arendnuyu platu?)",
-            "Коммунальные услуги сдаются в залог? (Kommunal'nye uslugi sdayutsya v zalog?)",
-            "Коммунальные услуги продаются с мебелью? (Kommunal'nye uslugi prodayutsya s mebel'yu?)"
+            "Коммунальные услуги включены в арендную плату? (standard target expression for Unit 16 Lesson 5 target grammar)",
+            "Коммунальные услуги сдаются в залог? (contextual contrast form in Unit 16 Lesson 5 target grammar)",
+            "Коммунальные услуги продаются с мебелью? (formal register distinction for Unit 16 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Коммунальные услуги включены в арендную плату?» — стандартный вопрос при найме жилья."
@@ -8555,9 +8555,9 @@
         {
           "prompt": "Какой документ фиксирует полный список мебели и техники в арендуемой квартире?",
           "options": [
-            "опись имущества (akt priyoma-peredachi)",
-            "паспорт собственника (pasport sobstvennika)",
-            "квитанция за электричество (kvitantsiya za elektrichestvo)"
+            "опись имущества (standard target expression for Unit 16 Lesson 5 target grammar)",
+            "паспорт собственника (contextual contrast form in Unit 16 Lesson 5 target grammar)",
+            "квитанция за электричество (formal register distinction for Unit 16 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Опись имущества прилагается к договору найма."
@@ -8570,9 +8570,9 @@
           "type": "multiple-choice",
           "prompt": "В каком диалоге все условия и этапы найма квартиры согласованы безупречно?",
           "options": [
-            "— Мы осмотрели квартиру, проверили технику, подписали договор найма, внесли залог и получили ключи. (— My osmotreli kvartiru, proverili tekhniku, podpisali dogovor nayma, vnesli zalog i poluchili klyuchi.)",
-            "— Мы сдали квартиру в залог, сломали договор найма и купили ключи у счётчика. (— My sdali kvartiru v zalog, slomali dogovor nayma i kupili klyuchi u schyotchika.)",
-            "— Мы выехали из квартиры до осмотра, сняли коммуналку и продали прихожую. (— My vyekhali iz kvartiry do osmotra, snyali kommunalku i prodali prikhozhuyu.)"
+            "— Мы осмотрели квартиру, проверили технику, подписали договор найма, внесли залог и получили ключи. (standard target expression for Unit 16 Lesson 5 target grammar)",
+            "— Мы сдали квартиру в залог, сломали договор найма и купили ключи у счётчика. (contextual contrast form in Unit 16 Lesson 5 target grammar)",
+            "— Мы выехали из квартиры до осмотра, сняли коммуналку и продали прихожую. (formal register distinction for Unit 16 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Последовательность: осмотреть квартиру → проверить технику → подписать договор → внести залог → получить ключи."
@@ -8641,9 +8641,9 @@
         {
           "prompt": "Как сказать «The train is faster than the bus» через родительный падеж без союза?",
           "options": [
-            "Поезд быстрее автобуса. (Poezd bystree avtobusa.)",
-            "Поезд быстрее автобус. (Poezd bystree avtobus.)",
-            "Поезд быстрее автобусом. (Poezd bystree avtobusom.)"
+            "Поезд быстрее автобуса. (standard target expression for Unit 17 Lesson 1 target grammar)",
+            "Поезд быстрее автобус. (contextual contrast form in Unit 17 Lesson 1 target grammar)",
+            "Поезд быстрее автобусом. (formal register distinction for Unit 17 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "При бессоюзном сравнении второй предмет стоит в родительном падеже («быстрее автобуса»)."
@@ -8655,9 +8655,9 @@
         {
           "prompt": "Какая сравнительная форма от прилагательного «дорогой» является правильной?",
           "options": [
-            "дороже (dorozhe)",
-            "дорогее (dorogee)",
-            "дорогше (dorogshe)"
+            "дороже (standard target expression for Unit 17 Lesson 1 target grammar)",
+            "дорогее (contextual contrast form in Unit 17 Lesson 1 target grammar)",
+            "дорогше (formal register distinction for Unit 17 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Дорогой» образует сравнительную степень с чередованием г/ж: «дороже»."
@@ -8670,9 +8670,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении сравнительная степень образована и согласована без грамматических ошибок?",
           "options": [
-            "Эта комната больше и светлее той гостиной, а потолки здесь выше., « Eta komnata bol'she i svetlee toy gostinoy, a potolki zdes' vyshe., « (Eta komnata bol'she i svetlee toy gostinoy, a potolki zdes' vyshe.)",
-            "Эта комната более большай и светлее той гостиной, а потолки вышее. (Eta komnata bolee bol'shay i svetlee toy gostinoy, a potolki vyshee.)",
-            "Эта комната лучшее и свежее чем та гостиная без окна. (Eta komnata luchshee i svezhee chem ta gostinaya bez okna.)"
+            "Эта комната больше и светлее той гостиной, а потолки здесь выше., « Eta komnata bol'she i svetlee toy gostinoy, a potolki zdes' vyshe., « (standard target expression for Unit 17 Lesson 1 target grammar)",
+            "Эта комната более большай и светлее той гостиной, а потолки вышее. (contextual contrast form in Unit 17 Lesson 1 target grammar)",
+            "Эта комната лучшее и свежее чем та гостиная без окна. (formal register distinction for Unit 17 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Больше», «светлее той гостиной» (род. п.), «выше» (высокий → выше)."
@@ -8741,9 +8741,9 @@
         {
           "prompt": "Как грамматически корректно сказать «in the most beautiful city»?",
           "options": [
-            "в самом красивом городе (v samom krasivom gorode)",
-            "в самый красивый город (v samyy krasivyy gorod)",
-            "в самом красивее городе (v samom krasivee gorode)"
+            "в самом красивом городе (standard target expression for Unit 17 Lesson 2 target grammar)",
+            "в самый красивый город (contextual contrast form in Unit 17 Lesson 2 target grammar)",
+            "в самом красивее городе (formal register distinction for Unit 17 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Местоимение «самый» и прилагательное согласуются в предложном падеже: «в самом красивом городе»."
@@ -8755,9 +8755,9 @@
         {
           "prompt": "Какая синтетическая форма превосходной степени образуется от слова «высокий»?",
           "options": [
-            "высочайший (vysochayshiy)",
-            "высокейший (vysokeyshiy)",
-            "самый выше (samyy vyshe)"
+            "высочайший (standard target expression for Unit 17 Lesson 2 target grammar)",
+            "высокейший (contextual contrast form in Unit 17 Lesson 2 target grammar)",
+            "самый выше (formal register distinction for Unit 17 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "От «высокий» с чередованием к/ч образуется «высочайший»."
@@ -8770,9 +8770,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении превосходная степень прилагательных использована грамматически безупречно?",
           "options": [
-            "Эльбрус — высочайшая вершина Европы, а Байкал — самое глубокое озеро в мире. (El'brus — vysochayshaya vershina Evropy, a Baykal — samoe glubokoe ozero v mire.)",
-            "Эльбрус — самая более высокая вершина Европы, а Байкал — самое глубочайшее озеро. (El'brus — samaya bolee vysokaya vershina Evropy, a Baykal — samoe glubochayshee ozero.)",
-            "Эльбрус — выше всех вершин Европы, а Байкал — самое глубокий озеро. (El'brus — vyshe vsekh vershin Evropy, a Baykal — samoe glubokiy ozero.)"
+            "Эльбрус — высочайшая вершина Европы, а Байкал — самое глубокое озеро в мире. (standard target expression for Unit 17 Lesson 2 target grammar)",
+            "Эльбрус — самая более высокая вершина Европы, а Байкал — самое глубочайшее озеро. (contextual contrast form in Unit 17 Lesson 2 target grammar)",
+            "Эльбрус — выше всех вершин Европы, а Байкал — самое глубокий озеро. (formal register distinction for Unit 17 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Высочайшая вершина» (синтетическая превосходная), «самое глубокое озеро» (составная превосходная)."
@@ -8837,9 +8837,9 @@
         {
           "prompt": "Как пишется вводное слово со значением «In my opinion»?",
           "options": [
-            "по-моему (po-moemu)",
-            "по моему (po moemu)",
-            "помоему (pomoemu)"
+            "по-моему (standard target expression for Unit 17 Lesson 3 target grammar)",
+            "по моему (contextual contrast form in Unit 17 Lesson 3 target grammar)",
+            "помоему (formal register distinction for Unit 17 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Вводное наречие «по-моему» пишется через дефис и выделяется запятой."
@@ -8851,9 +8851,9 @@
         {
           "prompt": "Какая пара вводных оборотов используется для взвешивания противоположных аргументов?",
           "options": [
-            "с одной стороны, ... с другой стороны (s odnoy storony, ... s drugoy storony)",
-            "во-первых, ... во-вторых (vo-pervykh, ... vo-vtorykh)",
-            "таким образом, ... следовательно (takim obrazom, ... sledovatel'no)"
+            "с одной стороны, ... с другой стороны (standard target expression for Unit 17 Lesson 3 target grammar)",
+            "во-первых, ... во-вторых (contextual contrast form in Unit 17 Lesson 3 target grammar)",
+            "таким образом, ... следовательно (formal register distinction for Unit 17 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Конструкция «с одной стороны... с другой стороны» сопоставляет две разные грани вопроса."
@@ -8866,9 +8866,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении вводные слова выражают личное мнение и пунктуационно оформлены правильно?",
           "options": [
-            "На мой взгляд, этот новый жилой комплекс расположен значительно удобнее, чем старый квартал. (Na moy vzglyad, etot novyy zhiloy kompleks raspolozhen znachitel'no udobnee, chem staryy kvartal.)",
-            "На мой взгляд этот новый жилой комплекс расположен более удобнее чем старый квартал. (Na moy vzglyad etot novyy zhiloy kompleks raspolozhen bolee udobnee chem staryy kvartal.)",
-            "По моему этот жилой комплекс расположен самый удобно. (Po moemu etot zhiloy kompleks raspolozhen samyy udobno.)"
+            "На мой взгляд, этот новый жилой комплекс расположен значительно удобнее, чем старый квартал. (standard target expression for Unit 17 Lesson 3 target grammar)",
+            "На мой взгляд этот новый жилой комплекс расположен более удобнее чем старый квартал. (contextual contrast form in Unit 17 Lesson 3 target grammar)",
+            "По моему этот жилой комплекс расположен самый удобно. (formal register distinction for Unit 17 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«На мой взгляд,» выделено запятой, «значительно удобнее, чем» согласовано корректно."
@@ -8933,9 +8933,9 @@
         {
           "prompt": "Как вежливо выразить несогласие с собеседником в интеллигентной дискуссии?",
           "options": [
-            "Позвольте не согласиться с вашей позицией. (Pozvol'te ne soglasit'sya s vashey pozitsiey.)",
-            "Вы говорите полную ерунду. (Vy govorite polnuyu erundu.)",
-            "Я заставляю вас молчать. (Ya zastavlyayu vas molchat'.)"
+            "Позвольте не согласиться с вашей позицией. (standard target expression for Unit 17 Lesson 4 target grammar)",
+            "Вы говорите полную ерунду. (contextual contrast form in Unit 17 Lesson 4 target grammar)",
+            "Я заставляю вас молчать. (formal register distinction for Unit 17 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Позвольте не согласиться» — эталон вежливого несогласия в русском речевом этикете."
@@ -8947,9 +8947,9 @@
         {
           "prompt": "Какое вводное слово используется для подведения логического итога рассуждения?",
           "options": [
-            "таким образом (takim obrazom)",
-            "во-первых (vo-pervykh)",
-            "с одной стороны (s odnoy storony)"
+            "таким образом (standard target expression for Unit 17 Lesson 4 target grammar)",
+            "во-первых (contextual contrast form in Unit 17 Lesson 4 target grammar)",
+            "с одной стороны (formal register distinction for Unit 17 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Таким образом» и «следовательно» вводят логический вывод."
@@ -8962,9 +8962,9 @@
           "type": "multiple-choice",
           "prompt": "В какой реплике логические коннекторы и формулы вежливой дискуссии использованы безупречно?",
           "options": [
-            "Позвольте не согласиться: во-первых, экология за городом лучше, а во-вторых, дома там просторнее. (Pozvol'te ne soglasit'sya: vo-pervykh, ekologiya za gorodom luchshe, a vo-vtorykh, doma tam prostornee.)",
-            "Я согласен что вы не правы: с одной стороне экология лучше и во первых дома просторнее. (Ya soglasen chto vy ne pravy: s odnoy storone ekologiya luchshe i vo pervykh doma prostornee.)",
-            "Вы правы поэтому я придерживаюсь против вашей точки зрения без аргумента. (Vy pravy poetomu ya priderzhivayus' protiv vashey tochki zreniya bez argumenta.)"
+            "Позвольте не согласиться: во-первых, экология за городом лучше, а во-вторых, дома там просторнее. (standard target expression for Unit 17 Lesson 4 target grammar)",
+            "Я согласен что вы не правы: с одной стороне экология лучше и во первых дома просторнее. (contextual contrast form in Unit 17 Lesson 4 target grammar)",
+            "Вы правы поэтому я придерживаюсь против вашей точки зрения без аргумента. (formal register distinction for Unit 17 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Позвольте не согласиться: во-первых..., а во-вторых...» — безупречная грамматика и стиль."
@@ -9029,9 +9029,9 @@
         {
           "prompt": "Какая реплика содержит корректное выражение личного мнения и аргумент со сравнительной степенью?",
           "options": [
-            "По моему мнению, загородный дом намного просторнее и комфортнее городской студии. (Po moemu mneniyu, zagorodnyy dom namnogo prostornee i komfortnee gorodskoy studii.)",
-            "По моему мнению загородный дом более просторнее и комфортнейший студии. (Po moemu mneniyu zagorodnyy dom bolee prostornee i komfortneyshiy studii.)",
-            "Я знаю что загородный дом самый просторно. (Ya znayu chto zagorodnyy dom samyy prostorno.)"
+            "По моему мнению, загородный дом намного просторнее и комфортнее городской студии. (standard target expression for Unit 17 Lesson 5 target grammar)",
+            "По моему мнению загородный дом более просторнее и комфортнейший студии. (contextual contrast form in Unit 17 Lesson 5 target grammar)",
+            "Я знаю что загородный дом самый просторно. (formal register distinction for Unit 17 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«По моему мнению, ... просторнее и комфортнее» — правильная пунктуация и сравнительная степень."
@@ -9043,9 +9043,9 @@
         {
           "prompt": "Как в дебатах связать признание правоты оппонента с выдвижением своего контраргумента?",
           "options": [
-            "Вы отчасти правы, однако нельзя забывать об экологии. (Vy otchasti pravy, odnako nel'zya zabyvat' ob ekologii.)",
-            "Вы не правы и я не буду слушать ваши аргументы. (Vy ne pravy i ya ne budu slushat' vashi argumenty.)",
-            "Таким образом во-первых никто не прав. (Takim obrazom vo-pervykh nikto ne prav.)"
+            "Вы отчасти правы, однако нельзя забывать об экологии. (standard target expression for Unit 17 Lesson 5 target grammar)",
+            "Вы не правы и я не буду слушать ваши аргументы. (contextual contrast form in Unit 17 Lesson 5 target grammar)",
+            "Таким образом во-первых никто не прав. (formal register distinction for Unit 17 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Вы отчасти правы, однако...» демонстрирует высокую культуру аргументации."
@@ -9058,9 +9058,9 @@
           "type": "multiple-choice",
           "prompt": "В каком выступлении все элементы аргументации согласованы логически и грамматически?",
           "options": [
-            "На мой взгляд, жизнь в пригороде лучше: во-первых, здесь чище воздух, а во-вторых, дома просторнее. (Na moy vzglyad, zhizn' v prigorode luchshe: vo-pervykh, zdes' chishche vozdukh, a vo-vtorykh, doma prostornee.)",
-            "На мой взгляд жизнь в пригороде лучшее: во первых здесь чистый воздух а во вторых дома просторней. (Na moy vzglyad zhizn' v prigorode luchshee: vo pervykh zdes' chistyy vozdukh a vo vtorykh doma prostorney.)",
-            "Позвольте согласиться что мегаполис более хуже чем дача в лесу. (Pozvol'te soglasit'sya chto megapolis bolee khuzhe chem dacha v lesu.)"
+            "На мой взгляд, жизнь в пригороде лучше: во-первых, здесь чище воздух, а во-вторых, дома просторнее. (standard target expression for Unit 17 Lesson 5 target grammar)",
+            "На мой взгляд жизнь в пригороде лучшее: во первых здесь чистый воздух а во вторых дома просторней. (contextual contrast form in Unit 17 Lesson 5 target grammar)",
+            "Позвольте согласиться что мегаполис более хуже чем дача в лесу. (formal register distinction for Unit 17 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«На мой взгляд, жизнь в пригороде лучше: во-первых, здесь чище воздух, а во-вторых, дома просторнее.» — эталонная формулировка."
@@ -9125,9 +9125,9 @@
         {
           "prompt": "Какой глагол выражает достигнутый конкретный результат в предложении «Студент ... экзамен на отлично»?",
           "options": [
-            "сдал (Core concept alternative form)",
-            "сдавал (NSV)",
-            "сдаёт (NSV)"
+            "сдал (standard target expression for Unit 18 Lesson 1 target grammar)",
+            "сдавал (contextual contrast form in Unit 18 Lesson 1 target grammar)",
+            "сдаёт (formal register distinction for Unit 18 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Сдал экзамен» означает успешный завершённый результат (СВ)."
@@ -9139,9 +9139,9 @@
         {
           "prompt": "Какой маркер времени всегда требует несовершенного вида (НСВ)?",
           "options": [
-            "каждый день (NSV)",
-            "вдруг (Osvoit' semanticheskie razlichiya vidov glagola)",
-            "наконец (Osvoit' semanticheskie razlichiya vidov glagola)"
+            "каждый день (standard target expression for Unit 18 Lesson 1 target grammar)",
+            "вдруг (contextual contrast form in Unit 18 Lesson 1 target grammar)",
+            "наконец (formal register distinction for Unit 18 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Каждый день» указывает на регулярную повторяемость (НСВ)."
@@ -9154,9 +9154,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении виды глаголов употреблены в соответствии с логикой процесса и результата?",
           "options": [
-            "Архитектор три месяца чертил проект (NSV)",
-            "Архитектор три месяца начертил проект (Core concept alternative form)",
-            "Архитектор вдруг чертил проект три месяца без результата. (Osvoit' semanticheskie razlichiya vidov glagola)"
+            "Архитектор три месяца чертил проект (standard target expression for Unit 18 Lesson 1 target grammar)",
+            "Архитектор три месяца начертил проект (contextual contrast form in Unit 18 Lesson 1 target grammar)",
+            "Архитектор вдруг чертил проект три месяца без результата. (formal register distinction for Unit 18 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Три месяца чертил» (длительный процесс — НСВ), «наконец закончил» (результат — СВ)."
@@ -9225,9 +9225,9 @@
         {
           "prompt": "Какая форма несовершенного вида (НСВ) образуется от глагола «переписать»?",
           "options": [
-            "переписывать (Core concept key phrasing)",
-            "переписавать (perepisavat')",
-            "дописывать (dopisyvat')"
+            "переписывать (standard target expression for Unit 18 Lesson 2 target grammar)",
+            "переписавать (contextual contrast form in Unit 18 Lesson 2 target grammar)",
+            "дописывать (formal register distinction for Unit 18 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Переписать» (СВ) → «переписывать» (НСВ) с суффиксом -ыва-."
@@ -9239,9 +9239,9 @@
         {
           "prompt": "Какой глагол несовершенного вида образует нормативную пару к глаголу совершенного вида «положить»?",
           "options": [
-            "класть — положить klast' — polozhit' (klast')",
-            "ложить (lozhit')",
-            "покладывать (pokladyvat')"
+            "класть — положить klast' — polozhit' (standard target expression for Unit 18 Lesson 2 target grammar)",
+            "ложить (contextual contrast form in Unit 18 Lesson 2 target grammar)",
+            "покладывать (formal register distinction for Unit 18 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Нормативная пара: класть (НСВ) — положить (СВ). Слова «ложить» в литературном русском языке нет."
@@ -9254,9 +9254,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ряду все видовые пары образованы без ошибок?",
           "options": [
-            "делать — сделать, писать — написать, переписать — переписывать, положить — класть (delat' — sdelat', pisat' — napisat', perepisat' — perepisyvat', polozhit' — klast')",
-            "делать — поделать, писать — заделать, переписать — ложить, положить — ложить (delat' — podelat', pisat' — zadelat', perepisat' — lozhit', polozhit' — lozhit')",
-            "делать — сделавать, писать — прописать, переписать — открывать (delat' — sdelavat', pisat' — propisat', perepisat' — otkryvat')"
+            "делать — сделать, писать — написать, переписать — переписывать, положить — класть (standard target expression for Unit 18 Lesson 2 target grammar)",
+            "делать — поделать, писать — заделать, переписать — ложить, положить — ложить (contextual contrast form in Unit 18 Lesson 2 target grammar)",
+            "делать — сделавать, писать — прописать, переписать — открывать (formal register distinction for Unit 18 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Все четыре видовые пары соответствуют строгой литературной норме."
@@ -9325,9 +9325,9 @@
         {
           "prompt": "Какой вид инфинитива можно использовать после фазового глагола «начал» в фразе «Он начал ...»?",
           "options": [
-            "читать (NSV)",
-            "прочитать (Core concept alternative form)",
-            "прочитал (prosh. vr.)"
+            "читать (standard target expression for Unit 18 Lesson 3 target grammar)",
+            "прочитать (contextual contrast form in Unit 18 Lesson 3 target grammar)",
+            "прочитал (formal register distinction for Unit 18 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "После фазовых глаголов (начал, продолжил, закончил) используется ТОЛЬКО инфинитив несовершенного вида (НСВ)."
@@ -9339,9 +9339,9 @@
         {
           "prompt": "Что означает фраза «Я брал эту книгу у профессора» по сравнению с «Я взял эту книгу»?",
           "options": [
-            "книга уже возвращена профессору назад (annulirovannoe deystvie)",
-            "книга до сих пор находится у меня дома (Osvoit' tonkie semanticheskie funktsii vida)",
-            "я никогда не видел эту книгу (Osvoit' tonkie semanticheskie funktsii vida)"
+            "книга уже возвращена профессору назад (standard target expression for Unit 18 Lesson 3 target grammar)",
+            "книга до сих пор находится у меня дома (contextual contrast form in Unit 18 Lesson 3 target grammar)",
+            "я никогда не видел эту книгу (formal register distinction for Unit 18 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Форма НСВ «брал» выражает аннулированное двухстороннее действие: взял и уже вернул."
@@ -9354,9 +9354,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении правила сочетаемости вида глагола соблюдены безупречно?",
           "options": [
-            "Студент закончил писать курсовую работу и успел отправить её научному руководителю. (Osvoit' tonkie semanticheskie funktsii vida)",
-            "Студент закончил написать курсовую работу и успевал отправлять её научному руководителю. (Osvoit' tonkie semanticheskie funktsii vida)",
-            "Студент начал написание закончить курсовую без ошибки. (Osvoit' tonkie semanticheskie funktsii vida)"
+            "Студент закончил писать курсовую работу и успел отправить её научному руководителю. (standard target expression for Unit 18 Lesson 3 target grammar)",
+            "Студент закончил написать курсовую работу и успевал отправлять её научному руководителю. (contextual contrast form in Unit 18 Lesson 3 target grammar)",
+            "Студент начал написание закончить курсовую без ошибки. (formal register distinction for Unit 18 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Закончил писать» (фазовый глагол + НСВ), «успел отправить» (глагол успеха + СВ)."
@@ -9421,9 +9421,9 @@
         {
           "prompt": "Какая комбинация видов описывает прерывание длительного процесса точечным событием?",
           "options": [
-            "Когда я шёл НСВ по парку, пошёл СВ сильный дождь. + «пош Kogda ya shyol NSV po parku, poshyol SV sil'nyy dozhd'. + «posh (NSV)",
-            "Когда я пришёл (Core concept alternative form)",
-            "Когда я шёл (NSV)"
+            "Когда я шёл НСВ по парку, пошёл СВ сильный дождь. + «пош Kogda ya shyol NSV po parku, poshyol SV sil'nyy dozhd'. + «posh (standard target expression for Unit 18 Lesson 4 target grammar)",
+            "Когда я пришёл (contextual contrast form in Unit 18 Lesson 4 target grammar)",
+            "Когда я шёл (formal register distinction for Unit 18 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Шёл» (длительный фоновый процесс НСВ) + «пошёл дождь» (внезапное событие СВ)."
@@ -9435,9 +9435,9 @@
         {
           "prompt": "Как выразить последовательность трёх быстрых завершённых действий в прошлом?",
           "options": [
-            "Он вошёл в комнату, включил свет и сел за рабочий стол (Core concept alternative form)",
-            "Он входил в комнату, включал свет и садился за рабочий стол (Core concept alternative form)",
-            "Он входил в комнату, включил свет и сидел за столом. (On vkhodil v komnatu, vklyuchil svet i sidel za stolom.)"
+            "Он вошёл в комнату, включил свет и сел за рабочий стол (standard target expression for Unit 18 Lesson 4 target grammar)",
+            "Он входил в комнату, включал свет и садился за рабочий стол (contextual contrast form in Unit 18 Lesson 4 target grammar)",
+            "Он входил в комнату, включил свет и сидел за столом. (formal register distinction for Unit 18 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Последовательность сменяющих друг друга завершённых действий выражается цепочкой глаголов СВ."
@@ -9450,9 +9450,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении временные отношения и виды глаголов согласованы безупречно?",
           "options": [
-            "Пока программист писал код, дизайнер создавал макет интерфейса, а затем они вместе протестировали приложение. (Poka programmist pisal kod, dizayner sozdaval maket interfeysa, a zatem oni vmeste protestirovali prilozhenie.)",
-            "Пока программист написал код, дизайнер создал макет интерфейса, а затем они вместе тестировали приложение. (Poka programmist napisal kod, dizayner sozdal maket interfeysa, a zatem oni vmeste testirovali prilozhenie.)",
-            "Когда программист написал код, дизайнер создавал макет без остановки. (Kogda programmist napisal kod, dizayner sozdaval maket bez ostanovki.)"
+            "Пока программист писал код, дизайнер создавал макет интерфейса, а затем они вместе протестировали приложение. (standard target expression for Unit 18 Lesson 4 target grammar)",
+            "Пока программист написал код, дизайнер создал макет интерфейса, а затем они вместе тестировали приложение. (contextual contrast form in Unit 18 Lesson 4 target grammar)",
+            "Когда программист написал код, дизайнер создавал макет без остановки. (formal register distinction for Unit 18 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Параллельные процессы «писал / создавал» (НСВ) + последующее действие «протестировали» (СВ)."
@@ -9517,9 +9517,9 @@
         {
           "prompt": "Какой глагол следует выбрать для описания конкретного завершённого достижения в резюме («Мы ... новый продукт в срок»)?",
           "options": [
-            "запустили (zapustili)",
-            "запускали (zapuskali)",
-            "будем запускать (budem zapuskat')"
+            "запустили (standard target expression for Unit 18 Lesson 5 target grammar)",
+            "запускали (contextual contrast form in Unit 18 Lesson 5 target grammar)",
+            "будем запускать (formal register distinction for Unit 18 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Для фиксации достигнутого результата используется совершенный вид (СВ): «запустили новый продукт»."
@@ -9531,9 +9531,9 @@
         {
           "prompt": "Как грамматически корректно описать длительные регулярные обязанности на прошлой работе?",
           "options": [
-            "Я два года анализировал рынок и готовил еженедельные отчёты (NSV)",
-            "Я два года проанализировал рынок и подготовил еженедельные отчёты (vs alternative form)",
-            "Я два года начать анализировать рынок. (Ya dva goda nachat' analizirovat' rynok.)"
+            "Я два года анализировал рынок и готовил еженедельные отчёты (standard target expression for Unit 18 Lesson 5 target grammar)",
+            "Я два года проанализировал рынок и подготовил еженедельные отчёты (contextual contrast form in Unit 18 Lesson 5 target grammar)",
+            "Я два года начать анализировать рынок. (formal register distinction for Unit 18 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Длительные регулярные обязанности передаются глаголами несовершенного вида (НСВ)."
@@ -9546,9 +9546,9 @@
           "type": "multiple-choice",
           "prompt": "В каком ответе на собеседовании виды глаголов разграничивают процесс обязанностей и результат достижений безупречно?",
           "options": [
-            "— На прошлом месте я координировал НСВ работу команды, а за последний год разработал СВ и успешно запустил СВ три крупных проекта. + — Na proshlom meste ya koordiniroval NSV rabotu komandy, a za posledniy god razrabotal SV i uspeshno zapustil SV tri krupnykh proekta. (NSV)",
-            "— На прошлом месте я скоординировал (vs alternative form)",
-            "— Я начал разработать проекты и закончил запустить их в срок. (— Ya nachal razrabotat' proekty i zakonchil zapustit' ikh v srok.)"
+            "— На прошлом месте я координировал НСВ работу команды, а за последний год разработал СВ и успешно запустил СВ три крупных проекта. + — Na proshlom meste ya koordiniroval NSV rabotu komandy, a za posledniy god razrabotal SV i uspeshno zapustil SV tri krupnykh proekta. (standard target expression for Unit 18 Lesson 5 target grammar)",
+            "— На прошлом месте я скоординировал (contextual contrast form in Unit 18 Lesson 5 target grammar)",
+            "— Я начал разработать проекты и закончил запустить их в срок. (formal register distinction for Unit 18 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Координировал» (постоянный процесс — НСВ) + «разработал и запустил» (достигнутый результат — СВ)."
@@ -9613,9 +9613,9 @@
         {
           "prompt": "Какую приставку нужно добавить к глаголу движения, чтобы выразить действие «движение внутрь здания»?",
           "options": [
-            "в- / во- (Core concept key phrasing)",
-            "вы- (Core concept alternative form)",
-            "у- (Core concept alternative form)"
+            "в- / во- (standard target expression for Unit 19 Lesson 1 target grammar)",
+            "вы- (contextual contrast form in Unit 19 Lesson 1 target grammar)",
+            "у- (formal register distinction for Unit 19 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Приставка «в- / во-» указывает на направление движения внутрь замкнутого пространства (войти в здание)."
@@ -9627,9 +9627,9 @@
         {
           "prompt": "Какой предлог и падеж используются с глаголом «приехать» при указании города назначения?",
           "options": [
-            "в + винительный падеж (Core concept alternative form)",
-            "из + родительный падеж (Core concept alternative form)",
-            "до + родительный падеж (Core concept alternative form)"
+            "в + винительный падеж (standard target expression for Unit 19 Lesson 1 target grammar)",
+            "из + родительный падеж (contextual contrast form in Unit 19 Lesson 1 target grammar)",
+            "до + родительный падеж (formal register distinction for Unit 19 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "С глаголом «приехать» направление прибытия в город выражается предлогом «в» с винительным падежом."
@@ -9642,9 +9642,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении приставочные глаголы движения и предлоги согласованы грамматически безупречно?",
           "options": [
-            "Утром туристы вышли из отеля, доехали до музея и вошли в центральный зал галереи., «доехали до» предел, « Utrom turisty vyshli iz otelya, doekhali do muzeya i voshli v tsentral'nyy zal galerei., «doekhali do» predel, « (Utrom turisty vyshli iz otelya, doekhali do muzeya i voshli v tsentral'nyy zal galerei.)",
-            "Утром туристы вошли из отеля, выехали до музея и ушли в центральный зал. (Utrom turisty voshli iz otelya, vyekhali do muzeya i ushli v tsentral'nyy zal.)",
-            "Утром туристы уехали в отель из зала галереи без билетов. (Utrom turisty uekhali v otel' iz zala galerei bez biletov.)"
+            "Утром туристы вышли из отеля, доехали до музея и вошли в центральный зал галереи., «доехали до» предел, « Utrom turisty vyshli iz otelya, doekhali do muzeya i voshli v tsentral'nyy zal galerei., «doekhali do» predel, « (standard target expression for Unit 19 Lesson 1 target grammar)",
+            "Утром туристы вошли из отеля, выехали до музея и ушли в центральный зал. (contextual contrast form in Unit 19 Lesson 1 target grammar)",
+            "Утром туристы уехали в отель из зала галереи без билетов. (formal register distinction for Unit 19 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Вышли из» (наружу), «доехали до» (предел), «вошли в» (внутрь)."
@@ -9713,9 +9713,9 @@
         {
           "prompt": "Какой глагол движения означает пересечение улицы с одной стороны на другую?",
           "options": [
-            "перейти улицу (pereyti ulitsu)",
-            "пройти улицу (proyti ulitsu)",
-            "дойти улицу (doyti ulitsu)"
+            "перейти улицу (standard target expression for Unit 19 Lesson 2 target grammar)",
+            "пройти улицу (contextual contrast form in Unit 19 Lesson 2 target grammar)",
+            "дойти улицу (formal register distinction for Unit 19 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Приставка «пере-» выражает преодоление преграды и перемещение с одной стороны на другую (перейти улицу)."
@@ -9727,9 +9727,9 @@
         {
           "prompt": "С каким предлогом употребляется глагол «доехать» для обозначения конечной точки маршрута?",
           "options": [
-            "до + родительный падеж (Core concept alternative form)",
-            "к + дательный падеж (Core concept alternative form)",
-            "у + родительный падеж (Core concept alternative form)"
+            "до + родительный падеж (standard target expression for Unit 19 Lesson 2 target grammar)",
+            "к + дательный падеж (contextual contrast form in Unit 19 Lesson 2 target grammar)",
+            "у + родительный падеж (formal register distinction for Unit 19 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол с приставкой «до-» требует предлога «до» с родительным падежом (доехать до вокзала)."
@@ -9742,9 +9742,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении приставки движения передают значение пройденной дистанции и ориентиров без ошибок?",
           "options": [
-            "Спортсмен пробежал дистанция пять километров, проехал мимо мимо стадиона и добежал предел до финиша., «прое Sportsmen probezhal distantsiya pyat' kilometrov, proekhal mimo mimo stadiona i dobezhal predel do finisha., «proe (distantsiya)",
-            "Спортсмен перебежал пять километров, уехал мимо стадиона и вошёл до финиша. (Sportsmen perebezhal pyat' kilometrov, uekhal mimo stadiona i voshyol do finisha.)",
-            "Спортсмен выбежал пять километров и переехал сквозь стадион. (Sportsmen vybezhal pyat' kilometrov i pereekhal skvoz' stadion.)"
+            "Спортсмен пробежал дистанция пять километров, проехал мимо мимо стадиона и добежал предел до финиша., «прое Sportsmen probezhal distantsiya pyat' kilometrov, proekhal mimo mimo stadiona i dobezhal predel do finisha., «proe (standard target expression for Unit 19 Lesson 2 target grammar)",
+            "Спортсмен перебежал пять километров, уехал мимо стадиона и вошёл до финиша. (contextual contrast form in Unit 19 Lesson 2 target grammar)",
+            "Спортсмен выбежал пять километров и переехал сквозь стадион. (formal register distinction for Unit 19 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Пробежал пять километров» (дистанция), «проехал мимо» (мимо ориентира), «добежал до финиша» (достижение цели)."
@@ -9809,9 +9809,9 @@
         {
           "prompt": "С каким предлогом и падежом употребляется глагол «подойти» в значении приближения к человеку?",
           "options": [
-            "к + дательный падеж (Core concept alternative form)",
-            "в + винительный падеж (Core concept alternative form)",
-            "от + родительный падеж (Core concept alternative form)"
+            "к + дательный падеж (standard target expression for Unit 19 Lesson 3 target grammar)",
+            "в + винительный падеж (contextual contrast form in Unit 19 Lesson 3 target grammar)",
+            "от + родительный падеж (formal register distinction for Unit 19 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глагол «подойти» требует предлога «к» с дательным падежом (подойти к преподавателю)."
@@ -9823,9 +9823,9 @@
         {
           "prompt": "Какое значение выражает глагол «зайти» в предложении «По дороге с работы я зашёл в булочную»?",
           "options": [
-            "попутное кратковременное посещение по дороге (poputnoe kratkovremennoe poseshchenie po doroge)",
-            "окончательный переезд на новое место (okonchatel'nyy pereezd na novoe mesto)",
-            "движение изнутри здания наружу (dvizhenie iznutri zdaniya naruzhu)"
+            "попутное кратковременное посещение по дороге (standard target expression for Unit 19 Lesson 3 target grammar)",
+            "окончательный переезд на новое место (contextual contrast form in Unit 19 Lesson 3 target grammar)",
+            "движение изнутри здания наружу (formal register distinction for Unit 19 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Приставка «за-» выражает попутное, кратковременное отклонение от основного маршрута (зайти в булочную)."
@@ -9838,9 +9838,9 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте предлоги при приставочных глаголах движения под- и от- выбраны правильно?",
           "options": [
-            "Пассажир подошёл к (dat. pad.)",
-            "Пассажир подошёл в кассу, а затем отошёл в окна. (Passazhir podoshyol v kassu, a zatem otoshyol v okna.)",
-            "Пассажир подошёл от кассы, а затем отошёл к окна. (Passazhir podoshyol ot kassy, a zatem otoshyol k okna.)"
+            "Пассажир подошёл к (standard target expression for Unit 19 Lesson 3 target grammar)",
+            "Пассажир подошёл в кассу, а затем отошёл в окна. (contextual contrast form in Unit 19 Lesson 3 target grammar)",
+            "Пассажир подошёл от кассы, а затем отошёл к окна. (formal register distinction for Unit 19 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Подошёл к» (+ дат. пад.) и «отошёл от» (+ род. пад.)."
@@ -9909,9 +9909,9 @@
         {
           "prompt": "Какое идиоматическое выражение означает «детально разобраться в текущих рабочих процессах»?",
           "options": [
-            "войти в курс дела (voyti v kurs dela)",
-            "выйти из строя (vyyti iz stroya)",
-            "уйти на пенсию (uyti na pensiyu)"
+            "войти в курс дела (standard target expression for Unit 19 Lesson 4 target grammar)",
+            "выйти из строя (contextual contrast form in Unit 19 Lesson 4 target grammar)",
+            "уйти на пенсию (formal register distinction for Unit 19 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Войти в курс дела» означает ознакомиться со всеми нюансами и спецификой текущей работы."
@@ -9923,9 +9923,9 @@
         {
           "prompt": "Что означает метафорическое выражение «Сервер вышел из строя»?",
           "options": [
-            "сервер сломался и прекратил функционировать (server slomalsya i prekratil funktsionirovat')",
-            "сервер успешно прошёл обновление (server uspeshno proshyol obnovlenie)",
-            "сервер перенесли в другое здание (server perenesli v drugoe zdanie)"
+            "сервер сломался и прекратил функционировать (standard target expression for Unit 19 Lesson 4 target grammar)",
+            "сервер успешно прошёл обновление (contextual contrast form in Unit 19 Lesson 4 target grammar)",
+            "сервер перенесли в другое здание (formal register distinction for Unit 19 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Выражение «выйти из строя» означает поломку, утрату работоспособности оборудования."
@@ -9938,9 +9938,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении метафорический глагол движения употреблён в соответствии с нормами делового стиля?",
           "options": [
-            "В ходе научной конференции исследователи пришли к единому выводу и решили провести серию совместных экспериментов. и «провести V khode nauchnoy konferentsii issledovateli prishli k edinomu vyvodu i reshili provesti seriyu sovmestnykh eksperimentov. i «provesti (V khode nauchnoy konferentsii issledovateli prishli k edinomu vyvodu i reshili provesti seriyu sovmestnykh eksperimentov.)",
-            "В ходе научной конференции исследователи вышли в вывод и решили отойти серию экспериментов. (V khode nauchnoy konferentsii issledovateli vyshli v vyvod i reshili otoyti seriyu eksperimentov.)",
-            "Исследователи зашли в кризис и перешли из строя. (Issledovateli zashli v krizis i pereshli iz stroya.)"
+            "В ходе научной конференции исследователи пришли к единому выводу и решили провести серию совместных экспериментов. и «провести V khode nauchnoy konferentsii issledovateli prishli k edinomu vyvodu i reshili provesti seriyu sovmestnykh eksperimentov. i «provesti (standard target expression for Unit 19 Lesson 4 target grammar)",
+            "В ходе научной конференции исследователи вышли в вывод и решили отойти серию экспериментов. (contextual contrast form in Unit 19 Lesson 4 target grammar)",
+            "Исследователи зашли в кризис и перешли из строя. (formal register distinction for Unit 19 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Пришли к выводу» (сделали вывод) и «провести серию экспериментов» (осуществить опыт)."
@@ -10005,9 +10005,9 @@
         {
           "prompt": "Какая последовательность глаголов правильно описывает маршрут: «выход из метро, пересечение площади и вход в театр»?",
           "options": [
-            "выйти из метро → перейти площадь → войти в театр → «перейти через/площадь» vyyti iz metro → pereyti ploshchad' → voyti v teatr → «pereyti cherez/ploshchad'» (Core concept alternative form)",
-            "войти из метро → уйти площадь → выйти в театр (Core concept alternative form)",
-            "дойти в метро → зайти площадь → отойти в театр (Core concept alternative form)"
+            "выйти из метро → перейти площадь → войти в театр → «перейти через/площадь» vyyti iz metro → pereyti ploshchad' → voyti v teatr → «pereyti cherez/ploshchad'» (standard target expression for Unit 19 Lesson 5 target grammar)",
+            "войти из метро → уйти площадь → выйти в театр (contextual contrast form in Unit 19 Lesson 5 target grammar)",
+            "дойти в метро → зайти площадь → отойти в театр (formal register distinction for Unit 19 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Выйти из» (наружу) → «перейти через/площадь» (пересечь) → «войти в» (внутрь)."
@@ -10019,9 +10019,9 @@
         {
           "prompt": "Как вежливо спросить у прохожего на улице, как добраться до центра?",
           "options": [
-            "Скажите, пожалуйста, как быстрее всего дойти до центра? (Skazhite, pozhaluysta, kak bystree vsego doyti do tsentra?)",
-            "Куда ты идёшь до центра? (Kuda ty idyosh' do tsentra?)",
-            "Отойдите от меня в центр. (Otoydite ot menya v tsentr.)"
+            "Скажите, пожалуйста, как быстрее всего дойти до центра? (standard target expression for Unit 19 Lesson 5 target grammar)",
+            "Куда ты идёшь до центра? (contextual contrast form in Unit 19 Lesson 5 target grammar)",
+            "Отойдите от меня в центр. (formal register distinction for Unit 19 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Скажите, пожалуйста, как быстрее всего дойти до...» — эталонная вежливая формула вопроса о маршруте."
@@ -10034,9 +10034,9 @@
           "type": "multiple-choice",
           "prompt": "В каком связном рассказе все приставочные глаголы движения употреблены безупречно?",
           "options": [
-            "Утром делегация приехала в город, вышла из поезда, доехала на такси до отеля и вошла в холл, чтобы зарегистрироваться. (Utrom delegatsiya priekhala v gorod, vyshla iz poezda, doekhala na taksi do otelya i voshla v kholl, chtoby zaregistrirovat'sya.)",
-            "Утром делегация уехала в поезд, перешла в отель и отплыла в холл. (Utrom delegatsiya uekhala v poezd, pereshla v otel' i otplyla v kholl.)",
-            "Делегация зашла из города и отошла в такси без водителя. (Delegatsiya zashla iz goroda i otoshla v taksi bez voditelya.)"
+            "Утром делегация приехала в город, вышла из поезда, доехала на такси до отеля и вошла в холл, чтобы зарегистрироваться. (standard target expression for Unit 19 Lesson 5 target grammar)",
+            "Утром делегация уехала в поезд, перешла в отель и отплыла в холл. (contextual contrast form in Unit 19 Lesson 5 target grammar)",
+            "Делегация зашла из города и отошла в такси без водителя. (formal register distinction for Unit 19 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Приехала в», «вышла из», «доехала до», «вошла в» — все глаголы и предлоги согласованы безупречно."
@@ -10101,9 +10101,9 @@
         {
           "prompt": "Как грамматически правильно построить придаточную часть нереального условия («If I had time...»)?",
           "options": [
-            "Если бы у меня было время... (Esli by u menya bylo vremya...)",
-            "Если у меня будет бы время... (Esli u menya budet by vremya...)",
-            "Если бы у меня есть время... (Esli by u menya est' vremya...)"
+            "Если бы у меня было время... (standard target expression for Unit 20 Lesson 1 target grammar)",
+            "Если у меня будет бы время... (contextual contrast form in Unit 20 Lesson 1 target grammar)",
+            "Если бы у меня есть время... (formal register distinction for Unit 20 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В придаточном нереального условия используется «если бы» + прошедшее время («было время»)."
@@ -10115,9 +10115,9 @@
         {
           "prompt": "Какая форма глагола требуется в главной части нереального условия после союза «то»?",
           "options": [
-            "форма прошедшего времени с частицей «бы» (Core concept alternative form)",
-            "форма будущего времени без частиц (forma budushchego vremeni bez chastits)",
-            "форма настоящего времени (forma nastoyashchego vremeni)"
+            "форма прошедшего времени с частицей «бы» (standard target expression for Unit 20 Lesson 1 target grammar)",
+            "форма будущего времени без частиц (contextual contrast form in Unit 20 Lesson 1 target grammar)",
+            "форма настоящего времени (formal register distinction for Unit 20 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В главной части ирреального условия глагол согласуется в прошедшем времени с частицей «бы»."
@@ -10130,9 +10130,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении сослагательное наклонение нереального условия оформлено безупречно?",
           "options": [
-            "Если бы инженеры вовремя заметили ошибку в расчётах, мост был бы построен строго по графику. ... «был Esli by inzhenery vovremya zametili oshibku v raschyotakh, most byl by postroen strogo po grafiku. ... «byl (Esli by inzhenery vovremya zametili oshibku v raschyotakh, most byl by postroen strogo po grafiku.)",
-            "Если инженеры вовремя заметили бы ошибку, мост будет построен строго по графику. (Esli inzhenery vovremya zametili by oshibku, most budet postroen strogo po grafiku.)",
-            "Если бы инженеры заметят ошибку, мост построили бы вовремя. (Esli by inzhenery zametyat oshibku, most postroili by vovremya.)"
+            "Если бы инженеры вовремя заметили ошибку в расчётах, мост был бы построен строго по графику. ... «был Esli by inzhenery vovremya zametili oshibku v raschyotakh, most byl by postroen strogo po grafiku. ... «byl (standard target expression for Unit 20 Lesson 1 target grammar)",
+            "Если инженеры вовремя заметили бы ошибку, мост будет построен строго по графику. (contextual contrast form in Unit 20 Lesson 1 target grammar)",
+            "Если бы инженеры заметят ошибку, мост построили бы вовремя. (formal register distinction for Unit 20 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Если бы заметили» (прош. вр. + бы) ... «был бы построен» (прош. вр. + бы)."
@@ -10197,9 +10197,9 @@
         {
           "prompt": "Какая формулировка выражает вежливую просьбу на официальной встрече?",
           "options": [
-            "Я хотел бы уточнить один важный пункт повестки. (Ya khotel by utochnit' odin vazhnyy punkt povestki.)",
-            "Я хочу, чтобы вы быстро ответили мне. (Ya khochu, chtoby vy bystro otvetili mne.)",
-            "Отвечай немедленно на мой вопрос. (Otvechay nemedlenno na moy vopros.)"
+            "Я хотел бы уточнить один важный пункт повестки. (standard target expression for Unit 20 Lesson 2 target grammar)",
+            "Я хочу, чтобы вы быстро ответили мне. (contextual contrast form in Unit 20 Lesson 2 target grammar)",
+            "Отвечай немедленно на мой вопрос. (formal register distinction for Unit 20 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Формула «Я хотел бы уточнить...» представляет собой эталон вежливого делового этикета."
@@ -10211,9 +10211,9 @@
         {
           "prompt": "Как выразить деликатный совет собеседнику с помощью инфинитива и частицы «бы»?",
           "options": [
-            "Тебе бы поспать пару часов перед дорогой. (Tebe by pospat' paru chasov pered dorogoy.)",
-            "Спи сейчас же пару часов. (Spi seychas zhe paru chasov.)",
-            "Ты спишь пару часов перед дорогой. (Ty spish' paru chasov pered dorogoy.)"
+            "Тебе бы поспать пару часов перед дорогой. (standard target expression for Unit 20 Lesson 2 target grammar)",
+            "Спи сейчас же пару часов. (contextual contrast form in Unit 20 Lesson 2 target grammar)",
+            "Ты спишь пару часов перед дорогой. (formal register distinction for Unit 20 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Конструкция «Тебе бы + инфинитив» (Тебе бы поспать) выражает мягкую, заботливую рекомендацию."
@@ -10226,9 +10226,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении сослагательное наклонение использовано для вежливой просьбы без ошибок?",
           "options": [
-            "Не могли бы вы предоставить нам актуальную статистику за прошлый квартал? (Ne mogli by vy predostavit' nam aktual'nuyu statistiku za proshlyy kvartal?)",
-            "Не можете бы вы предоставить нам статистику вчера? (Ne mozhete by vy predostavit' nam statistiku vchera?)",
-            "Вы бы могли предоставите нам статистику без вопросов. (Vy by mogli predostavite nam statistiku bez voprosov.)"
+            "Не могли бы вы предоставить нам актуальную статистику за прошлый квартал? (standard target expression for Unit 20 Lesson 2 target grammar)",
+            "Не можете бы вы предоставить нам статистику вчера? (contextual contrast form in Unit 20 Lesson 2 target grammar)",
+            "Вы бы могли предоставите нам статистику без вопросов. (formal register distinction for Unit 20 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Не могли бы вы предоставить...» — грамматически выверенная формула вежливого запроса."
@@ -10293,9 +10293,9 @@
         {
           "prompt": "Какая форма глагола требуется в предложении «Я хочу, чтобы вы ... (to read) этот отчёт»?",
           "options": [
-            "прочитали (prochitali)",
-            "читать (chitat')",
-            "прочитаете (prochitaete)"
+            "прочитали (standard target expression for Unit 20 Lesson 3 target grammar)",
+            "читать (contextual contrast form in Unit 20 Lesson 3 target grammar)",
+            "прочитаете (formal register distinction for Unit 20 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Поскольку субъекты разные (я хочу / вы прочитали), после союза «чтобы» глагол ставится в форму прошедшего времени."
@@ -10307,9 +10307,9 @@
         {
           "prompt": "В каком предложении после союза «чтобы» правильно использован инфинитив?",
           "options": [
-            "Студент много занимается, чтобы сдать экзамен на отлично. (Student mnogo zanimaetsya, chtoby sdat' ekzamen na otlichno.)",
-            "Студент много занимается, чтобы преподаватель сдать экзамен. (Student mnogo zanimaetsya, chtoby prepodavatel' sdat' ekzamen.)",
-            "Студент попросил друга, чтобы сдать книгу. (Student poprosil druga, chtoby sdat' knigu.)"
+            "Студент много занимается, чтобы сдать экзамен на отлично. (standard target expression for Unit 20 Lesson 3 target grammar)",
+            "Студент много занимается, чтобы преподаватель сдать экзамен. (contextual contrast form in Unit 20 Lesson 3 target grammar)",
+            "Студент попросил друга, чтобы сдать книгу. (formal register distinction for Unit 20 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Субъект один и тот же (студент занимается, студент сдаёт), поэтому используется инфинитив «чтобы сдать»."
@@ -10322,9 +10322,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении союз «чтобы» и согласование глагольных форм оформлены безупречно?",
           "options": [
-            "Декан потребовал, чтобы старосты групп собрали заявления студентов до конца недели. (Dekan potreboval, chtoby starosty grupp sobrali zayavleniya studentov do kontsa nedeli.)",
-            "Декан потребовал, чтобы старосты групп соберут заявления студентов. (Dekan potreboval, chtoby starosty grupp soberut zayavleniya studentov.)",
-            "Декан пришёл в аудиторию, чтобы старосты собрать заявления. (Dekan prishyol v auditoriyu, chtoby starosty sobrat' zayavleniya.)"
+            "Декан потребовал, чтобы старосты групп собрали заявления студентов до конца недели. (standard target expression for Unit 20 Lesson 3 target grammar)",
+            "Декан потребовал, чтобы старосты групп соберут заявления студентов. (contextual contrast form in Unit 20 Lesson 3 target grammar)",
+            "Декан пришёл в аудиторию, чтобы старосты собрать заявления. (formal register distinction for Unit 20 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Потребовал, чтобы собрали» (разные субъекты → прошедшее время множественного числа)."
@@ -10393,9 +10393,9 @@
         {
           "prompt": "Какое значение имеет конструкция «как бы не...» в фразе «Поторопись, как бы не опоздать»?",
           "options": [
-            "выражение опасения и предостережения о нежелательном событии (vyrazhenie opaseniya i predosterezheniya o nezhelatel'nom sobytii)",
-            "категорический приказ начать движение (kategoricheskiy prikaz nachat' dvizhenie)",
-            "сообщение о свершившемся в прошлом факте (soobshchenie o svershivshemsya v proshlom fakte)"
+            "выражение опасения и предостережения о нежелательном событии (standard target expression for Unit 20 Lesson 4 target grammar)",
+            "категорический приказ начать движение (contextual contrast form in Unit 20 Lesson 4 target grammar)",
+            "сообщение о свершившемся в прошлом факте (formal register distinction for Unit 20 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Конструкция «как бы не + инфинитив/прош. вр.» выражает опасение говорящего."
@@ -10407,9 +10407,9 @@
         {
           "prompt": "Что означает предложение «Без вашей поддержки я бы не защитил диссертацию»?",
           "options": [
-            "Ваша поддержка сыграла решающую роль: если бы её не было, защита бы не состоялась. (Vasha podderzhka sygrala reshayushchuyu rol': esli by eyo ne bylo, zashchita by ne sostoyalas'.)",
-            "Я защитил диссертацию самостоятельно без посторонней помощи. (Ya zashchitil dissertatsiyu samostoyatel'no bez postoronney pomoshchi.)",
-            "Я отказался от защиты диссертации из-за нехватки времени. (Ya otkazalsya ot zashchity dissertatsii iz-za nekhvatki vremeni.)"
+            "Ваша поддержка сыграла решающую роль: если бы её не было, защита бы не состоялась. (standard target expression for Unit 20 Lesson 4 target grammar)",
+            "Я защитил диссертацию самостоятельно без посторонней помощи. (contextual contrast form in Unit 20 Lesson 4 target grammar)",
+            "Я отказался от защиты диссертации из-за нехватки времени. (formal register distinction for Unit 20 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Конструкция со скрытым условием («Без + род. пад. + прош. вр. + бы») выражает решающую роль условия."
@@ -10422,9 +10422,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении конструкция сослагательного наклонения выражает почти совершившееся действие?",
           "options": [
-            "Из-за плотного тумана пилот чуть было не пропустил взлётно-посадочную полосу аэродрома. (Iz-za plotnogo tumana pilot chut' bylo ne propustil vzlyotno-posadochnuyu polosu aerodroma.)",
-            "Пилот успешно приземлился по расписанию в ясную погоду. (Pilot uspeshno prizemlilsya po raspisaniyu v yasnuyu pogodu.)",
-            "Пилот требует, чтобы диспетчер освободил полосу. (Pilot trebuet, chtoby dispetcher osvobodil polosu.)"
+            "Из-за плотного тумана пилот чуть было не пропустил взлётно-посадочную полосу аэродрома. (standard target expression for Unit 20 Lesson 4 target grammar)",
+            "Пилот успешно приземлился по расписанию в ясную погоду. (contextual contrast form in Unit 20 Lesson 4 target grammar)",
+            "Пилот требует, чтобы диспетчер освободил полосу. (formal register distinction for Unit 20 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Чуть было не пропустил» указывает на действие, которое едва не произошло, но было предотвращено."
@@ -10489,9 +10489,9 @@
         {
           "prompt": "Какая конструкция позволяет дипломатично предложить инициативу совету директоров?",
           "options": [
-            "Было бы целесообразно рассмотреть альтернативные варианты поставок. (Bylo by tselesoobrazno rassmotret' al'ternativnye varianty postavok.)",
-            "Вы должны немедленно поменять всех поставщиков! (Vy dolzhny nemedlenno pomenyat' vsekh postavshchikov!)",
-            "Поменяйте поставщиков, а то я уйду. (Pomenyayte postavshchikov, a to ya uydu.)"
+            "Было бы целесообразно рассмотреть альтернативные варианты поставок. (standard target expression for Unit 20 Lesson 5 target grammar)",
+            "Вы должны немедленно поменять всех поставщиков! (contextual contrast form in Unit 20 Lesson 5 target grammar)",
+            "Поменяйте поставщиков, а то я уйду. (formal register distinction for Unit 20 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Было бы целесообразно...» — образец безупречного дипломатичного делового регистра."
@@ -10503,9 +10503,9 @@
         {
           "prompt": "Как грамматически безупречно выразить гипотетическое условие в прошлом?",
           "options": [
-            "Если бы мы начали проект в прошлом году, мы бы уже завершили разработку. (Esli by my nachali proekt v proshlom godu, my by uzhe zavershili razrabotku.)",
-            "Если мы начнём проект в прошлом году, мы завершим разработку. (Esli my nachnyom proekt v proshlom godu, my zavershim razrabotku.)",
-            "Если бы мы начнём проект, мы бы завершаем разработку. (Esli by my nachnyom proekt, my by zavershaem razrabotku.)"
+            "Если бы мы начали проект в прошлом году, мы бы уже завершили разработку. (standard target expression for Unit 20 Lesson 5 target grammar)",
+            "Если мы начнём проект в прошлом году, мы завершим разработку. (contextual contrast form in Unit 20 Lesson 5 target grammar)",
+            "Если бы мы начнём проект, мы бы завершаем разработку. (formal register distinction for Unit 20 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Если бы начали... мы бы завершили» — грамматически выверенное нереальное условие."
@@ -10518,9 +10518,9 @@
           "type": "multiple-choice",
           "prompt": "В каком фрагменте стратегического анализа все конструкции сослагательного наклонения употреблены правильно?",
           "options": [
-            "Если бы компания вовремя диверсифицировала активы, она избежала бы финансовых потерь; поэтому важно, чтобы совет директоров одобрил новую стратегию. (Esli by kompaniya vovremya diversifitsirovala aktivy, ona izbezhala by finansovykh poter'; poetomu vazhno, chtoby sovet direktorov odobril novuyu strategiyu.)",
-            "Если компания вовремя диверсифицировала бы активы, она избежит потерь; поэтому важно, чтобы совет директоров одобрит стратегию. (Esli kompaniya vovremya diversifitsirovala by aktivy, ona izbezhit poter'; poetomu vazhno, chtoby sovet direktorov odobrit strategiyu.)",
-            "Без активов мы не избежали потери и требовали чтобы совет одобрять. (Bez aktivov my ne izbezhali poteri i trebovali chtoby sovet odobryat'.)"
+            "Если бы компания вовремя диверсифицировала активы, она избежала бы финансовых потерь; поэтому важно, чтобы совет директоров одобрил новую стратегию. (standard target expression for Unit 20 Lesson 5 target grammar)",
+            "Если компания вовремя диверсифицировала бы активы, она избежит потерь; поэтому важно, чтобы совет директоров одобрит стратегию. (contextual contrast form in Unit 20 Lesson 5 target grammar)",
+            "Без активов мы не избежали потери и требовали чтобы совет одобрять. (formal register distinction for Unit 20 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Если бы диверсифицировала, избежала бы» и «важно, чтобы одобрил» — все формы согласованы безупречно."
@@ -10585,9 +10585,9 @@
         {
           "prompt": "Какое действительное причастие настоящего времени образуется от глагола 2-го спряжения «строить» (они строят)?",
           "options": [
-            "строящий (stroyashchiy)",
-            "строющий (stroyushchiy)",
-            "строивший (stroivshiy)"
+            "строящий (standard target expression for Unit 21 Lesson 1 target grammar)",
+            "строющий (contextual contrast form in Unit 21 Lesson 1 target grammar)",
+            "строивший (formal register distinction for Unit 21 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "От основы глагола 2-го спряжения «стро-ят» с суффиксом «-ящ-» образуется причастие «строящий»."
@@ -10599,9 +10599,9 @@
         {
           "prompt": "Как трансформировать предложение «Я подошёл к человеку, который живёт здесь» с помощью причастия?",
           "options": [
-            "Я подошёл к человеку, живущему здесь. (Ya podoshyol k cheloveku, zhivushchemu zdes'.)",
-            "Я подошёл к человеку, живущий здесь. (Ya podoshyol k cheloveku, zhivushchiy zdes'.)",
-            "Я подошёл к человеку, жившего здесь. (Ya podoshyol k cheloveku, zhivshego zdes'.)"
+            "Я подошёл к человеку, живущему здесь. (standard target expression for Unit 21 Lesson 1 target grammar)",
+            "Я подошёл к человеку, живущий здесь. (contextual contrast form in Unit 21 Lesson 1 target grammar)",
+            "Я подошёл к человеку, жившего здесь. (formal register distinction for Unit 21 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Существительное стоит в дательном падеже («к человеку»), поэтому причастие согласуется в дательном падеже: «живущему»."
@@ -10614,9 +10614,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении причастие настоящего времени правильно согласовано с определяемым словом?",
           "options": [
-            "Мы гордимся специалистами твор. пад. мн. ч., разрабатывающими твор. пад. мн. ч. инновационные программы. разрабатывающими — тв My gordimsya spetsialistami tvor. pad. mn. ch., razrabatyvayushchimi tvor. pad. mn. ch. innovatsionnye programmy. razrabatyvayushchimi — tv (tvor. pad. mn. ch.)",
-            "Мы гордимся специалистами, разрабатывающие инновационные программы. (My gordimsya spetsialistami, razrabatyvayushchie innovatsionnye programmy.)",
-            "Мы гордимся специалистами, разрабатывающим инновационные программы. (My gordimsya spetsialistami, razrabatyvayushchim innovatsionnye programmy.)"
+            "Мы гордимся специалистами твор. пад. мн. ч., разрабатывающими твор. пад. мн. ч. инновационные программы. разрабатывающими — тв My gordimsya spetsialistami tvor. pad. mn. ch., razrabatyvayushchimi tvor. pad. mn. ch. innovatsionnye programmy. razrabatyvayushchimi — tv (standard target expression for Unit 21 Lesson 1 target grammar)",
+            "Мы гордимся специалистами, разрабатывающие инновационные программы. (contextual contrast form in Unit 21 Lesson 1 target grammar)",
+            "Мы гордимся специалистами, разрабатывающим инновационные программы. (formal register distinction for Unit 21 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Специалистами (какими?) разрабатывающими — творительный падеж множественного числа."
@@ -10681,9 +10681,9 @@
         {
           "prompt": "Какое причастие прошедшего времени образуется от основы глагола «принести» (он принёс)?",
           "options": [
-            "принёсший (prinyosshiy)",
-            "принёсвший (prinyosvshiy)",
-            "приносящий (prinosyashchiy)"
+            "принёсший (standard target expression for Unit 21 Lesson 2 target grammar)",
+            "принёсвший (contextual contrast form in Unit 21 Lesson 2 target grammar)",
+            "приносящий (formal register distinction for Unit 21 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "После согласного основы прошедшего времени («принёс-») используется суффикс «-ш-»: принёсший."
@@ -10695,9 +10695,9 @@
         {
           "prompt": "Как трансформировать предложение «Мы поблагодарили волонтёров, которые помогли нам» с помощью причастия?",
           "options": [
-            "Мы поблагодарили волонтёров, помогших нам. (My poblagodarili volontyorov, pomogshikh nam.)",
-            "Мы поблагодарили волонтёров, помогшие нам. (My poblagodarili volontyorov, pomogshie nam.)",
-            "Мы поблагодарили волонтёров, помогающие нам. (My poblagodarili volontyorov, pomogayushchie nam.)"
+            "Мы поблагодарили волонтёров, помогших нам. (standard target expression for Unit 21 Lesson 2 target grammar)",
+            "Мы поблагодарили волонтёров, помогшие нам. (contextual contrast form in Unit 21 Lesson 2 target grammar)",
+            "Мы поблагодарили волонтёров, помогающие нам. (formal register distinction for Unit 21 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Волонтёров» стоит в винительном/родительном падеже множественного числа, поэтому причастие: «помогших» (каких?)."
@@ -10710,9 +10710,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении действительное причастие прошедшего времени образовано и согласовано безупречно?",
           "options": [
-            "Профессор поздравил выпускников, успешно защитивших свои дипломные проекты. защитивши Professor pozdravil vypusknikov, uspeshno zashchitivshikh svoi diplomnye proekty. zashchitivshi (Professor pozdravil vypusknikov, uspeshno zashchitivshikh svoi diplomnye proekty.)",
-            "Профессор поздравил выпускников, успешно защитившие свои дипломные проекты. (Professor pozdravil vypusknikov, uspeshno zashchitivshie svoi diplomnye proekty.)",
-            "Профессор поздравил выпускников, успешно защитившим проекты. (Professor pozdravil vypusknikov, uspeshno zashchitivshim proekty.)"
+            "Профессор поздравил выпускников, успешно защитивших свои дипломные проекты. защитивши Professor pozdravil vypusknikov, uspeshno zashchitivshikh svoi diplomnye proekty. zashchitivshi (standard target expression for Unit 21 Lesson 2 target grammar)",
+            "Профессор поздравил выпускников, успешно защитившие свои дипломные проекты. (contextual contrast form in Unit 21 Lesson 2 target grammar)",
+            "Профессор поздравил выпускников, успешно защитившим проекты. (formal register distinction for Unit 21 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Выпускников (кого? вин. пад. одуш.) защитивших (вин. пад. мн. ч.)."
@@ -10777,9 +10777,9 @@
         {
           "prompt": "Какое страдательное причастие настоящего времени образуется от глагола 2-го спряжения «хранить» (мы храним)?",
           "options": [
-            "хранимый (khranimyy)",
-            "храняемый (khranyaemyy)",
-            "хранивший (khranivshiy)"
+            "хранимый (standard target expression for Unit 21 Lesson 3 target grammar)",
+            "храняемый (contextual contrast form in Unit 21 Lesson 3 target grammar)",
+            "хранивший (formal register distinction for Unit 21 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "От глагола 2-го спряжения «хранить» образуется страдательное причастие «хранимый»."
@@ -10791,9 +10791,9 @@
         {
           "prompt": "Как трансформировать предложение «Это книга, которую читают миллионы людей» с помощью страдательного причастия?",
           "options": [
-            "Это книга, читаемая миллионами людей. читаемая кем? миллионами люде Eto kniga, chitaemaya millionami lyudey. chitaemaya kem? millionami lyude (Eto kniga, chitaemaya millionami lyudey.)",
-            "Это книга, читающая миллионами людей. (Eto kniga, chitayushchaya millionami lyudey.)",
-            "Это книга, прочитавшая миллионами людей. (Eto kniga, prochitavshaya millionami lyudey.)"
+            "Это книга, читаемая миллионами людей. читаемая кем? миллионами люде Eto kniga, chitaemaya millionami lyudey. chitaemaya kem? millionami lyude (standard target expression for Unit 21 Lesson 3 target grammar)",
+            "Это книга, читающая миллионами людей. (contextual contrast form in Unit 21 Lesson 3 target grammar)",
+            "Это книга, прочитавшая миллионами людей. (formal register distinction for Unit 21 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Книга (какая?) читаемая кем? миллионами людей» — страдательное причастие настоящего времени."
@@ -10806,9 +10806,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении страдательное причастие настоящего времени правильно употреблено с субъектом действия?",
           "options": [
-            "Тема диссертации, исследуемая молодым аспирантом твор. пад., имеет важное прикладное значение. аспирантом» — страд Tema dissertatsii, issleduemaya molodym aspirantom tvor. pad., imeet vazhnoe prikladnoe znachenie. aspirantom» — strad (tvor. pad.)",
-            "Тема диссертации, исследующая молодым аспирантом, имеет важное значение. (Tema dissertatsii, issleduyushchaya molodym aspirantom, imeet vazhnoe znachenie.)",
-            "Тема диссертации, исследовавшая молодому аспиранту, имеет значение. (Tema dissertatsii, issledovavshaya molodomu aspirantu, imeet znachenie.)"
+            "Тема диссертации, исследуемая молодым аспирантом твор. пад., имеет важное прикладное значение. аспирантом» — страд Tema dissertatsii, issleduemaya molodym aspirantom tvor. pad., imeet vazhnoe prikladnoe znachenie. aspirantom» — strad (standard target expression for Unit 21 Lesson 3 target grammar)",
+            "Тема диссертации, исследующая молодым аспирантом, имеет важное значение. (contextual contrast form in Unit 21 Lesson 3 target grammar)",
+            "Тема диссертации, исследовавшая молодому аспиранту, имеет значение. (formal register distinction for Unit 21 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Тема, исследуемая (кем?) аспирантом» — страдательное причастие согласуется с определяемым словом, а деятель в творительном падеже."
@@ -10873,9 +10873,9 @@
         {
           "prompt": "Какая краткая форма страдательного причастия женского рода образуется от глагола «написать» (статья написана)?",
           "options": [
-            "написана (napisana)",
-            "написанна (napisanna)",
-            "написанная (napisannaya)"
+            "написана (standard target expression for Unit 21 Lesson 4 target grammar)",
+            "написанна (contextual contrast form in Unit 21 Lesson 4 target grammar)",
+            "написанная (formal register distinction for Unit 21 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В кратких страдательных причастиях пишется только одна буква «н»: написана."
@@ -10887,9 +10887,9 @@
         {
           "prompt": "Как трансформировать активное предложение «Архитекторы построили мост» в пассивное с кратким причастием?",
           "options": [
-            "Мост построен архитекторами. построен Most postroen arkhitektorami. postroen (Most postroen arkhitektorami.)",
-            "Мост построивший архитекторами. (Most postroivshiy arkhitektorami.)",
-            "Архитекторы построены мостом. (Arkhitektory postroeny mostom.)"
+            "Мост построен архитекторами. построен Most postroen arkhitektorami. postroen (standard target expression for Unit 21 Lesson 4 target grammar)",
+            "Мост построивший архитекторами. (contextual contrast form in Unit 21 Lesson 4 target grammar)",
+            "Архитекторы построены мостом. (formal register distinction for Unit 21 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Мост (подлежащее) построен (краткое причастие) архитекторами (творительный падеж деятеля)»."
@@ -10902,9 +10902,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении краткое страдательное причастие употреблено грамматически безупречно?",
           "options": [
-            "Все финансовые отчёты были своевременно подготовлены и подписаны генеральным директором. (Vse finansovye otchyoty byli svoevremenno podgotovleny i podpisany general'nym direktorom.)",
-            "Все финансовые отчёты были своевременно подготовленные и подписанные директором. (Vse finansovye otchyoty byli svoevremenno podgotovlennye i podpisannye direktorom.)",
-            "Отчёты подписали директором без ошибок. (Otchyoty podpisali direktorom bez oshibok.)"
+            "Все финансовые отчёты были своевременно подготовлены и подписаны генеральным директором. (standard target expression for Unit 21 Lesson 4 target grammar)",
+            "Все финансовые отчёты были своевременно подготовленные и подписанные директором. (contextual contrast form in Unit 21 Lesson 4 target grammar)",
+            "Отчёты подписали директором без ошибок. (formal register distinction for Unit 21 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Были подготовлены и подписаны» — краткие страдательные причастия множественного числа с одной «н»."
@@ -10969,9 +10969,9 @@
         {
           "prompt": "Где нужны запятые в предложении «Книга (1) прочитанная мною летом (2) произвела сильное впечатление»?",
           "options": [
-            "на месте  и  — причастный оборот стоит после определяемого существительного (Core concept alternative form)",
-            "только на месте (tol'ko na meste)",
-            "запятые не нужны (zapyatye ne nuzhny)"
+            "на месте  и  — причастный оборот стоит после определяемого существительного (standard target expression for Unit 21 Lesson 5 target grammar)",
+            "только на месте (contextual contrast form in Unit 21 Lesson 5 target grammar)",
+            "запятые не нужны (formal register distinction for Unit 21 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Причастный оборот («прочитанная мною летом») стоит после определяемого слова («книга»), поэтому обособляется с двух сторон: (1) и (2)."
@@ -10983,9 +10983,9 @@
         {
           "prompt": "Нужны ли запятые, если причастный оборот стоит перед определяемым существительным: «Написанная профессором статья была опубликована»?",
           "options": [
-            "нет, перед определяемым существительным причастный оборот не обособляется (net, pered opredelyaemym sushchestvitel'nym prichastnyy oborot ne obosoblyaetsya)",
-            "да, после слова «статья» (Core concept alternative form)",
-            "да, после слова «профессором» (Core concept alternative form)"
+            "нет, перед определяемым существительным причастный оборот не обособляется (standard target expression for Unit 21 Lesson 5 target grammar)",
+            "да, после слова «статья» (contextual contrast form in Unit 21 Lesson 5 target grammar)",
+            "да, после слова «профессором» (formal register distinction for Unit 21 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Перед определяемым существительным обособление не требуется («Написанная профессором статья была...»)."
@@ -10998,9 +10998,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении причастные обороты и знаки препинания расставлены безупречно?",
           "options": [
-            "Эксперимент, проведённый молодыми физиками в лаборатории, подтвердил теоретические расчёты, изложенные в статье. (Eksperiment, provedyonnyy molodymi fizikami v laboratorii, podtverdil teoreticheskie raschyoty, izlozhennye v stat'e.)",
-            "Эксперимент проведённый молодыми физиками в лаборатории подтвердил теоретические расчёты изложенные в статье. (Eksperiment provedyonnyy molodymi fizikami v laboratorii podtverdil teoreticheskie raschyoty izlozhennye v stat'e.)",
-            "Эксперимент, проведённый молодыми физиками, в лаборатории подтвердил расчёты. (Eksperiment, provedyonnyy molodymi fizikami, v laboratorii podtverdil raschyoty.)"
+            "Эксперимент, проведённый молодыми физиками в лаборатории, подтвердил теоретические расчёты, изложенные в статье. (standard target expression for Unit 21 Lesson 5 target grammar)",
+            "Эксперимент проведённый молодыми физиками в лаборатории подтвердил теоретические расчёты изложенные в статье. (contextual contrast form in Unit 21 Lesson 5 target grammar)",
+            "Эксперимент, проведённый молодыми физиками, в лаборатории подтвердил расчёты. (formal register distinction for Unit 21 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Оба причастных оборота («проведённый...» и «изложенные...») стоят после определяемых существительных и правильно обособлены."
@@ -11065,9 +11065,9 @@
         {
           "prompt": "Какое деепричастие несовершенного вида образуется от глагола «узнавать» (особый тип на -авать)?",
           "options": [
-            "узнавая (uznavaya)",
-            "узнаваясь (uznavayas')",
-            "узнавши (uznavshi)"
+            "узнавая (standard target expression for Unit 22 Lesson 1 target grammar)",
+            "узнаваясь (contextual contrast form in Unit 22 Lesson 1 target grammar)",
+            "узнавши (formal register distinction for Unit 22 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Глаголы на «-авать» образуют деепричастия НСВ от основы инфинитива: «узнава-я», «дава-я»."
@@ -11079,9 +11079,9 @@
         {
           "prompt": "Как образовать деепричастие несовершенного вида от возвратного глагола «улыбаться» (они улыбаются)?",
           "options": [
-            "улыбаясь (ulybayas')",
-            "улыбаяся (ulybayasya)",
-            "улыбнувшись (ulybnuvshis')"
+            "улыбаясь (standard target expression for Unit 22 Lesson 1 target grammar)",
+            "улыбаяся (contextual contrast form in Unit 22 Lesson 1 target grammar)",
+            "улыбнувшись (formal register distinction for Unit 22 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Возвратные деепричастия всегда оканчиваются на «-сь»: улыбаясь."
@@ -11094,9 +11094,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении деепричастие несовершенного вида образовано и употреблено правильно?",
           "options": [
-            "Слушая доклад коллеги, профессора внимательно анализировали представленные статистические данные. (Slushaya doklad kollegi, professora vnimatel'no analizirovali predstavlennye statisticheskie dannye.)",
-            "Слушая доклад коллеги, профессорам было интересно. (Slushaya doklad kollegi, professoram bylo interesno.)",
-            "Слушавши доклад, профессора ушли. (Slushavshi doklad, professora ushli.)"
+            "Слушая доклад коллеги, профессора внимательно анализировали представленные статистические данные. (standard target expression for Unit 22 Lesson 1 target grammar)",
+            "Слушая доклад коллеги, профессорам было интересно. (contextual contrast form in Unit 22 Lesson 1 target grammar)",
+            "Слушавши доклад, профессора ушли. (formal register distinction for Unit 22 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Слушая доклад, профессора анализировали...» — действие деепричастия и сказуемого относится к подлежащему («профессора»)."
@@ -11161,9 +11161,9 @@
         {
           "prompt": "Как правильно пишется деепричастие совершенного вида от глагола «прийти»?",
           "options": [
-            "придя (normativnaya orfografiya)",
-            "прийдя (priydya)",
-            "пришедши (prishedshi)"
+            "придя (standard target expression for Unit 22 Lesson 2 target grammar)",
+            "прийдя (contextual contrast form in Unit 22 Lesson 2 target grammar)",
+            "пришедши (formal register distinction for Unit 22 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Литературная норма: «придя» (без буквы «й»)."
@@ -11175,9 +11175,9 @@
         {
           "prompt": "Как образовать деепричастие совершенного вида от глагола «вернуться»?",
           "options": [
-            "вернувшись (vernuvshis')",
-            "вернувся (vernuvsya)",
-            "возвращаясь (vozvrashchayas')"
+            "вернувшись (standard target expression for Unit 22 Lesson 2 target grammar)",
+            "вернувся (contextual contrast form in Unit 22 Lesson 2 target grammar)",
+            "возвращаясь (formal register distinction for Unit 22 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Возвратные глаголы СВ на гласный образуют деепричастия с суффиксом «-вшись»: вернувшись."
@@ -11190,9 +11190,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении деепричастие совершенного вида образовано и согласовано безупречно?",
           "options": [
-            "Подписав итоговый протокол, участники переговоров пожали друг другу руки. (Podpisav itogovyy protokol, uchastniki peregovorov pozhali drug drugu ruki.)",
-            "Подписав протокол, переговоры закончились. (Podpisav protokol, peregovory zakonchilis'.)",
-            "Подписавши протокол, участникам было радостно. (Podpisavshi protokol, uchastnikam bylo radostno.)"
+            "Подписав итоговый протокол, участники переговоров пожали друг другу руки. (standard target expression for Unit 22 Lesson 2 target grammar)",
+            "Подписав протокол, переговоры закончились. (contextual contrast form in Unit 22 Lesson 2 target grammar)",
+            "Подписавши протокол, участникам было радостно. (formal register distinction for Unit 22 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Подписав протокол, участники пожали руки» — участники подписали и участники пожали руки (единый субъект)."
@@ -11257,9 +11257,9 @@
         {
           "prompt": "Какое предложение построено грамматически корректно по правилу единого субъекта?",
           "options": [
-            "Возвращаясь вечером домой, я встретил своего школьного учителя. (Vozvrashchayas' vecherom domoy, ya vstretil svoego shkol'nogo uchitelya.)",
-            "Возвращаясь вечером домой, у меня порвался рюкзак. (Vozvrashchayas' vecherom domoy, u menya porvalsya ryukzak.)",
-            "Возвращаясь вечером домой, начался сильный дождь. (Vozvrashchayas' vecherom domoy, nachalsya sil'nyy dozhd'.)"
+            "Возвращаясь вечером домой, я встретил своего школьного учителя. (standard target expression for Unit 22 Lesson 3 target grammar)",
+            "Возвращаясь вечером домой, у меня порвался рюкзак. (contextual contrast form in Unit 22 Lesson 3 target grammar)",
+            "Возвращаясь вечером домой, начался сильный дождь. (formal register distinction for Unit 22 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В первом предложении подлежащее «я» совершает оба действия: возвращался домой и встретил учителя."
@@ -11271,9 +11271,9 @@
         {
           "prompt": "В каком безличном предложении деепричастный оборот употреблён допустимо и грамматично?",
           "options": [
-            "Переходя улицу, необходимо внимательно смотреть по сторонам. (Perekhodya ulitsu, neobkhodimo vnimatel'no smotret' po storonam.)",
-            "Переходя улицу, мне показалось что-то странное. (Perekhodya ulitsu, mne pokazalos' chto-to strannoe.)",
-            "Переходя улицу, пешеходам было скользко. (Perekhodya ulitsu, peshekhodam bylo skol'zko.)"
+            "Переходя улицу, необходимо внимательно смотреть по сторонам. (standard target expression for Unit 22 Lesson 3 target grammar)",
+            "Переходя улицу, мне показалось что-то странное. (contextual contrast form in Unit 22 Lesson 3 target grammar)",
+            "Переходя улицу, пешеходам было скользко. (formal register distinction for Unit 22 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В безличном предложении со значением необходимости и инфинитивом («необходимо смотреть») деепричастный оборот допустим."
@@ -11286,9 +11286,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении синтаксическая связь деепричастного оборота с подлежащим построена безупречно?",
           "options": [
-            "Услышав звонок будильника, студент мгновенно проснулся и выключил сигнал. (Uslyshav zvonok budil'nika, student mgnovenno prosnulsya i vyklyuchil signal.)",
-            "Услышав звонок будильника, студенту захотелось спать дальше. (Uslyshav zvonok budil'nika, studentu zakhotelos' spat' dal'she.)",
-            "Услышав звонок будильника, наступило утро. (Uslyshav zvonok budil'nika, nastupilo utro.)"
+            "Услышав звонок будильника, студент мгновенно проснулся и выключил сигнал. (standard target expression for Unit 22 Lesson 3 target grammar)",
+            "Услышав звонок будильника, студенту захотелось спать дальше. (contextual contrast form in Unit 22 Lesson 3 target grammar)",
+            "Услышав звонок будильника, наступило утро. (formal register distinction for Unit 22 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Студент услышал звонок и студент проснулся — субъект един."
@@ -11353,9 +11353,9 @@
         {
           "prompt": "Нужна ли запятая перед словом «молча» в предложении «Они слушали молча»?",
           "options": [
-            "нет, одиночное деепричастие в роли наречия образа действия не обособляется (net, odinochnoe deeprichastie v roli narechiya obraza deystviya ne obosoblyaetsya)",
-            "да, деепричастия всегда обособляются (da, deeprichastiya vsegda obosoblyayutsya)",
-            "да, после слова «Они» (Core concept alternative form)"
+            "нет, одиночное деепричастие в роли наречия образа действия не обособляется (standard target expression for Unit 22 Lesson 4 target grammar)",
+            "да, деепричастия всегда обособляются (contextual contrast form in Unit 22 Lesson 4 target grammar)",
+            "да, после слова «Они» (formal register distinction for Unit 22 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Слово «молча» стоит в конце предложения и выполняет функцию наречия образа действия (как? молча), поэтому запятая не ставится."
@@ -11367,9 +11367,9 @@
         {
           "prompt": "Какой предложный оборот требует обязательного обособления запятыми независимо от места в предложении?",
           "options": [
-            "оборот с уступительным предлогом «несмотря на» (Core concept alternative form)",
-            "оборот с предлогом «вследствие» (Core concept alternative form)",
-            "оборот с предлогом «в течение» (Core concept alternative form)"
+            "оборот с уступительным предлогом «несмотря на» (standard target expression for Unit 22 Lesson 4 target grammar)",
+            "оборот с предлогом «вследствие» (contextual contrast form in Unit 22 Lesson 4 target grammar)",
+            "оборот с предлогом «в течение» (formal register distinction for Unit 22 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Оборот с производным уступительным предлогом «несмотря на (+ вин. пад.)» всегда обособляется запятыми."
@@ -11382,9 +11382,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении знаки препинания расставлены безупречно?",
           "options": [
-            "Несмотря на проливной дождь, спортсмены продолжили тренировку, не сбавляя темпа. (Nesmotrya na prolivnoy dozhd', sportsmeny prodolzhili trenirovku, ne sbavlyaya tempa.)",
-            "Несмотря на проливной дождь спортсмены продолжили тренировку не сбавляя темпа. (Nesmotrya na prolivnoy dozhd' sportsmeny prodolzhili trenirovku ne sbavlyaya tempa.)",
-            "Несмотря, на дождь спортсмены продолжили тренировку, не сбавляя темпа. (Nesmotrya, na dozhd' sportsmeny prodolzhili trenirovku, ne sbavlyaya tempa.)"
+            "Несмотря на проливной дождь, спортсмены продолжили тренировку, не сбавляя темпа. (standard target expression for Unit 22 Lesson 4 target grammar)",
+            "Несмотря на проливной дождь спортсмены продолжили тренировку не сбавляя темпа. (contextual contrast form in Unit 22 Lesson 4 target grammar)",
+            "Несмотря, на дождь спортсмены продолжили тренировку, не сбавляя темпа. (formal register distinction for Unit 22 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Несмотря на проливной дождь,» (уступительный оборот) и «, не сбавляя темпа» (деепричастный оборот) выделены запятыми."
@@ -11449,9 +11449,9 @@
         {
           "prompt": "Какая комбинация деепричастий гармонично передает завершённый подготовительный этап и сопутствующий процесс: «(1) все документы и (2) за реакцией аудитории, спикер начал доклад»?",
           "options": [
-            "Подготовив ,  наблюдая  и (Core concept alternative form)",
-            "Готовя ,  понаблюдав (Core concept alternative form)",
-            "Подготовивший ,  наблюдать (Core concept alternative form)"
+            "Подготовив ,  наблюдая  и (standard target expression for Unit 22 Lesson 5 target grammar)",
+            "Готовя ,  понаблюдав (contextual contrast form in Unit 22 Lesson 5 target grammar)",
+            "Подготовивший ,  наблюдать (formal register distinction for Unit 22 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Подготовив документы (СВ — сделал заранее) и наблюдая за аудиторией (НСВ — параллельный процесс), спикер начал доклад»."
@@ -11463,9 +11463,9 @@
         {
           "prompt": "Как грамматически безупречно объединить предложения «Учёный провёл серию опытов. Он доказал теорему» с помощью деепричастия?",
           "options": [
-            "Проведя серию опытов, учёный доказал теорему. серию опытов, учёный доказал те Provedya seriyu opytov, uchyonyy dokazal teoremu. seriyu opytov, uchyonyy dokazal te (Provedya seriyu opytov, uchyonyy dokazal teoremu.)",
-            "Проводя серию опытов, учёным доказана теорему. (Provodya seriyu opytov, uchyonym dokazana teoremu.)",
-            "Учёный доказал теорему, проведённую опыт. (Uchyonyy dokazal teoremu, provedyonnuyu opyt.)"
+            "Проведя серию опытов, учёный доказал теорему. серию опытов, учёный доказал те Provedya seriyu opytov, uchyonyy dokazal teoremu. seriyu opytov, uchyonyy dokazal te (standard target expression for Unit 22 Lesson 5 target grammar)",
+            "Проводя серию опытов, учёным доказана теорему. (contextual contrast form in Unit 22 Lesson 5 target grammar)",
+            "Учёный доказал теорему, проведённую опыт. (formal register distinction for Unit 22 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Проведя (СВ) серию опытов, учёный доказал теорему» — соблюдено правило единого субъекта и законченности действия."
@@ -11478,9 +11478,9 @@
           "type": "multiple-choice",
           "prompt": "В каком фрагменте нарративного текста все деепричастные обороты согласованы и пунктуационно оформлены правильно?",
           "options": [
-            "Окончив университет с отличием и стремясь внести вклад в науку, молодой биолог отправился в экспедицию. (Okonchiv universitet s otlichiem i stremyas' vnesti vklad v nauku, molodoy biolog otpravilsya v ekspeditsiyu.)",
-            "Окончив университет с отличием и стремясь в науку, биологу предложили грант. (Okonchiv universitet s otlichiem i stremyas' v nauku, biologu predlozhili grant.)",
-            "Окончивши университет, экспедиция началась успешно. (Okonchivshi universitet, ekspeditsiya nachalas' uspeshno.)"
+            "Окончив университет с отличием и стремясь внести вклад в науку, молодой биолог отправился в экспедицию. (standard target expression for Unit 22 Lesson 5 target grammar)",
+            "Окончив университет с отличием и стремясь в науку, биологу предложили грант. (contextual contrast form in Unit 22 Lesson 5 target grammar)",
+            "Окончивши университет, экспедиция началась успешно. (formal register distinction for Unit 22 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Окончив университет... и стремясь... биолог отправился» — биолог окончил, биолог стремился и биолог отправился."
@@ -11545,9 +11545,9 @@
         {
           "prompt": "Какое клише характерно для официального новостного сообщения об итогах переговоров?",
           "options": [
-            "Стороны выразили готовность к дальнейшему укреплению партнёрских отношений. (Storony vyrazili gotovnost' k dal'neyshemu ukrepleniyu partnyorskikh otnosheniy.)",
-            "Люди мило поболтали о всякой всячине. (Lyudi milo poboltali o vsyakoy vsyachine.)",
-            "Они решили посидеть и ещё немного подумать. (Oni reshili posidet' i eshchyo nemnogo podumat'.)"
+            "Стороны выразили готовность к дальнейшему укреплению партнёрских отношений. (standard target expression for Unit 23 Lesson 1 target grammar)",
+            "Люди мило поболтали о всякой всячине. (contextual contrast form in Unit 23 Lesson 1 target grammar)",
+            "Они решили посидеть и ещё немного подумать. (formal register distinction for Unit 23 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Стороны выразили готовность к дальнейшему укреплению...» — классический стандарт официальной публицистической хроники."
@@ -11559,9 +11559,9 @@
         {
           "prompt": "Какое отглагольное существительное означает разделение и расширение спектра производимой продукции/экспорта?",
           "options": [
-            "диверсификация (diversifikatsiya)",
-            "девальвация (deval'vatsiya)",
-            "монополизация (monopolizatsiya)"
+            "диверсификация (standard target expression for Unit 23 Lesson 1 target grammar)",
+            "девальвация (contextual contrast form in Unit 23 Lesson 1 target grammar)",
+            "монополизация (formal register distinction for Unit 23 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Диверсификация — распределение усилий по разным отраслям для снижения экономических рисков."
@@ -11574,9 +11574,9 @@
           "type": "multiple-choice",
           "prompt": "Какое предложение полностью выдержано в стиле качественной новостной аналитики?",
           "options": [
-            "По данным профильного ведомства, ввод нового энергетического объекта в эксплуатацию запланирован на конец квартала. (Po dannym profil'nogo vedomstva, vvod novogo energeticheskogo obekta v ekspluatatsiyu zaplanirovan na konets kvartala.)",
-            "Вроде бы скоро запустят новую станцию, если всё будет нормально. (Vrode by skoro zapustyat novuyu stantsiyu, esli vsyo budet normal'no.)",
-            "Короче говоря, станция скоро начнёт как-нибудь работать. (Koroche govorya, stantsiya skoro nachnyot kak-nibud' rabotat'.)"
+            "По данным профильного ведомства, ввод нового энергетического объекта в эксплуатацию запланирован на конец квартала. (standard target expression for Unit 23 Lesson 1 target grammar)",
+            "Вроде бы скоро запустят новую станцию, если всё будет нормально. (contextual contrast form in Unit 23 Lesson 1 target grammar)",
+            "Короче говоря, станция скоро начнёт как-нибудь работать. (formal register distinction for Unit 23 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первый вариант использует точную официальную терминологию («по данным профильного ведомства», «ввод в эксплуатацию»)."
@@ -11641,9 +11641,9 @@
         {
           "prompt": "Какая метафора означает основополагающий фундамент, главную опору общественно-экономического процесса?",
           "options": [
-            "краеугольный камень (kraeugol'nyy kamen')",
-            "палка о двух концах (palka o dvukh kontsakh)",
-            "подводный камень (podvodnyy kamen')"
+            "краеугольный камень (standard target expression for Unit 23 Lesson 2 target grammar)",
+            "палка о двух концах (contextual contrast form in Unit 23 Lesson 2 target grammar)",
+            "подводный камень (formal register distinction for Unit 23 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Краеугольный камень» — ключевая основа или фундаментальный принцип явления."
@@ -11655,9 +11655,9 @@
         {
           "prompt": "Какая вводная конструкция наилучшим образом оформляет противопоставление двух аспектов проблемы?",
           "options": [
-            "С одной стороны... однако с другой стороны... (S odnoy storony... odnako s drugoy storony...)",
-            "Во-первых... во-вторых... (Vo-pervykh... vo-vtorykh...)",
-            "Иными словами... то есть... (Inymi slovami... to est'...)"
+            "С одной стороны... однако с другой стороны... (standard target expression for Unit 23 Lesson 2 target grammar)",
+            "Во-первых... во-вторых... (contextual contrast form in Unit 23 Lesson 2 target grammar)",
+            "Иными словами... то есть... (formal register distinction for Unit 23 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«С одной стороны... однако с другой стороны...» — классическая формула сопоставления контрастных факторов."
@@ -11670,9 +11670,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении публицистическая аргументация выстроена образно и логически безупречно?",
           "options": [
-            "Нельзя не признать, что предложенная налоговая реформа — это палка о двух концах, требующая всестороннего экспертного анализа. (Nel'zya ne priznat', chto predlozhennaya nalogovaya reforma — eto palka o dvukh kontsakh, trebuyushchaya vsestoronnego ekspertnogo analiza.)",
-            "Налоговая реформа это хорошая штука, но есть пара плохих вещей. (Nalogovaya reforma eto khoroshaya shtuka, no est' para plokhikh veshchey.)",
-            "Реформа налогов была сделана и это всем понравилось или не понравилось. (Reforma nalogov byla sdelana i eto vsem ponravilos' ili ne ponravilos'.)"
+            "Нельзя не признать, что предложенная налоговая реформа — это палка о двух концах, требующая всестороннего экспертного анализа. (standard target expression for Unit 23 Lesson 2 target grammar)",
+            "Налоговая реформа это хорошая штука, но есть пара плохих вещей. (contextual contrast form in Unit 23 Lesson 2 target grammar)",
+            "Реформа налогов была сделана и это всем понравилось или не понравилось. (formal register distinction for Unit 23 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Нельзя не признать... палка о двух концах...» демонстрирует высокий уровень публицистического стиля."
@@ -11737,9 +11737,9 @@
         {
           "prompt": "Какая дипломатическая формула означает, что переговоры были трудными, но продуктивными для сохранения контакта?",
           "options": [
-            "встреча прошла в конструктивной и откровенной атмосфере (vstrecha proshla v konstruktivnoy i otkrovennoy atmosfere)",
-            "стороны поругались и разошлись (storony porugalis' i razoshlis')",
-            "все полностью согласились без всяких обсуждений (vse polnost'yu soglasilis' bez vsyakikh obsuzhdeniy)"
+            "встреча прошла в конструктивной и откровенной атмосфере (standard target expression for Unit 23 Lesson 3 target grammar)",
+            "стороны поругались и разошлись (contextual contrast form in Unit 23 Lesson 3 target grammar)",
+            "все полностью согласились без всяких обсуждений (formal register distinction for Unit 23 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Встреча прошла в конструктивной атмосфере» — официальный дипломатический эвфемизм для интенсивных, но результативных переговоров."
@@ -11751,9 +11751,9 @@
         {
           "prompt": "Как корректно задать уточняющий вопрос спикеру на официальной пресс-конференции?",
           "options": [
-            "Позвольте уточнить: означает ли это решение пересмотр ключевых параметров соглашения? (Pozvol'te utochnit': oznachaet li eto reshenie peresmotr klyuchevykh parametrov soglasheniya?)",
-            "Эй, а что вы вообще имели в виду? (Ey, a chto vy voobshche imeli v vidu?)",
-            "Скажите правду, вы же всё переделали? (Skazhite pravdu, vy zhe vsyo peredelali?)"
+            "Позвольте уточнить: означает ли это решение пересмотр ключевых параметров соглашения? (standard target expression for Unit 23 Lesson 3 target grammar)",
+            "Эй, а что вы вообще имели в виду? (contextual contrast form in Unit 23 Lesson 3 target grammar)",
+            "Скажите правду, вы же всё переделали? (formal register distinction for Unit 23 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Позвольте уточнить: означает ли...» — образцовый регистр делового и журналистского этикета."
@@ -11766,9 +11766,9 @@
           "type": "multiple-choice",
           "prompt": "Какое предложение выдержано в безупречном дипломатическом стиле?",
           "options": [
-            "Стороны подтвердили приверженность принципам суверенного равенства и добрососедства. (Storony podtverdili priverzhennost' printsipam suverennogo ravenstva i dobrososedstva.)",
-            "Стороны решили, что они будут дружить и никто никого не обидит. (Storony reshili, chto oni budut druzhit' i nikto nikogo ne obidit.)",
-            "Обе страны пообещали вести себя хорошо на границе. (Obe strany poobeshchali vesti sebya khorosho na granitse.)"
+            "Стороны подтвердили приверженность принципам суверенного равенства и добрососедства. (standard target expression for Unit 23 Lesson 3 target grammar)",
+            "Стороны решили, что они будут дружить и никто никого не обидит. (contextual contrast form in Unit 23 Lesson 3 target grammar)",
+            "Обе страны пообещали вести себя хорошо на границе. (formal register distinction for Unit 23 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Стороны подтвердили приверженность принципам суверенного равенства...» — нормативный дипломатический язык."
@@ -11833,9 +11833,9 @@
         {
           "prompt": "Как называется заголовок с преувеличенной сенсационностью, созданный для привлечения внимания пользователей?",
           "options": [
-            "кликбейт (klikbeyt)",
-            "первоисточник (pervoistochnik)",
-            "меморандум (memorandum)"
+            "кликбейт (standard target expression for Unit 23 Lesson 4 target grammar)",
+            "первоисточник (contextual contrast form in Unit 23 Lesson 4 target grammar)",
+            "меморандум (formal register distinction for Unit 23 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Кликбейт — вводящий в заблуждение или кричащий заголовок, нацеленный на увеличение кликов."
@@ -11847,9 +11847,9 @@
         {
           "prompt": "Какое слово обозначает исходный подлинный документ или свидетельство, к которому обращаются для проверки фактов?",
           "options": [
-            "первоисточник (pervoistochnik)",
-            "повестка дня (povestka dnya)",
-            "коммюнике (kommyunike)"
+            "первоисточник (standard target expression for Unit 23 Lesson 4 target grammar)",
+            "повестка дня (contextual contrast form in Unit 23 Lesson 4 target grammar)",
+            "коммюнике (formal register distinction for Unit 23 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первоисточник — оригинальный, первичный источник информации."
@@ -11862,9 +11862,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении термины медиаанализа употреблены грамматически и семантически корректно?",
           "options": [
-            "Аналитики провели фактчекинг и доказали, что видеозапись была сгенерирована нейросетью и содержит элементы дипфейка. (Analitiki proveli faktcheking i dokazali, chto videozapis' byla sgenerirovana neyroset'yu i soderzhit elementy dipfeyka.)",
-            "Аналитики сделали кликбейт и нашли первоисточник в телевизоре. (Analitiki sdelali klikbeyt i nashli pervoistochnik v televizore.)",
-            "Фактчекинг был вырван из контекста и стал меморандумом. (Faktcheking byl vyrvan iz konteksta i stal memorandumom.)"
+            "Аналитики провели фактчекинг и доказали, что видеозапись была сгенерирована нейросетью и содержит элементы дипфейка. (standard target expression for Unit 23 Lesson 4 target grammar)",
+            "Аналитики сделали кликбейт и нашли первоисточник в телевизоре. (contextual contrast form in Unit 23 Lesson 4 target grammar)",
+            "Фактчекинг был вырван из контекста и стал меморандумом. (formal register distinction for Unit 23 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Провели фактчекинг и доказали, что видеозапись была сгенерирована нейросетью...» — точное и осмысленное употребление медиатерминов."
@@ -11929,9 +11929,9 @@
         {
           "prompt": "Какая реплика модератора наиболее органично открывает экспертное обсуждение?",
           "options": [
-            "Уважаемые коллеги, в центре нашего внимания сегодня находится ключевой вопрос глобальной повестки. (Uvazhaemye kollegi, v tsentre nashego vnimaniya segodnya nakhoditsya klyuchevoy vopros global'noy povestki.)",
-            "Привет всем, давайте быстро поговорим о чём-нибудь полезном. (Privet vsem, davayte bystro pogovorim o chyom-nibud' poleznom.)",
-            "Кто первый хочет что-то сказать, начинайте скорее. (Kto pervyy khochet chto-to skazat', nachinayte skoree.)"
+            "Уважаемые коллеги, в центре нашего внимания сегодня находится ключевой вопрос глобальной повестки. (standard target expression for Unit 23 Lesson 5 target grammar)",
+            "Привет всем, давайте быстро поговорим о чём-нибудь полезном. (contextual contrast form in Unit 23 Lesson 5 target grammar)",
+            "Кто первый хочет что-то сказать, начинайте скорее. (formal register distinction for Unit 23 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Уважаемые коллеги, в центре нашего внимания сегодня находится...» — безупречное начало официального круглого стола."
@@ -11943,9 +11943,9 @@
         {
           "prompt": "Как профессионально подвести итог экспертного выступления в аналитическом материале?",
           "options": [
-            "Резюмируя вышесказанное, эксперт отметил стратегическую важность диверсификации экономики. (Rezyumiruya vysheskazannoe, ekspert otmetil strategicheskuyu vazhnost' diversifikatsii ekonomiki.)",
-            "Короче говоря, эксперт сказал, что надо что-то делать. (Koroche govorya, ekspert skazal, chto nado chto-to delat'.)",
-            "В общем, всё было понятно и все разошлись. (V obshchem, vsyo bylo ponyatno i vse razoshlis'.)"
+            "Резюмируя вышесказанное, эксперт отметил стратегическую важность диверсификации экономики. (standard target expression for Unit 23 Lesson 5 target grammar)",
+            "Короче говоря, эксперт сказал, что надо что-то делать. (contextual contrast form in Unit 23 Lesson 5 target grammar)",
+            "В общем, всё было понятно и все разошлись. (formal register distinction for Unit 23 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Резюмируя вышесказанное, эксперт отметил стратегическую важность...» — образец аналитического синтеза."
@@ -11958,9 +11958,9 @@
           "type": "multiple-choice",
           "prompt": "В каком фрагменте публицистического текста все термины и синтаксические конструкции согласованы гармонично?",
           "options": [
-            "Опираясь на данные макроэкономического анализа, участники круглого стола подтвердили приверженность взвешенной финансовой политике. (Opirayas' na dannye makroekonomicheskogo analiza, uchastniki kruglogo stola podtverdili priverzhennost' vzveshennoy finansovoy politike.)",
-            "Опираясь на кликбейт, участники круглого стола подписали точку невозврата. (Opirayas' na klikbeyt, uchastniki kruglogo stola podpisali tochku nevozvrata.)",
-            "По данным первоисточника, дискуссия выразила озабоченность о ставке. (Po dannym pervoistochnika, diskussiya vyrazila ozabochennost' o stavke.)"
+            "Опираясь на данные макроэкономического анализа, участники круглого стола подтвердили приверженность взвешенной финансовой политике. (standard target expression for Unit 23 Lesson 5 target grammar)",
+            "Опираясь на кликбейт, участники круглого стола подписали точку невозврата. (contextual contrast form in Unit 23 Lesson 5 target grammar)",
+            "По данным первоисточника, дискуссия выразила озабоченность о ставке. (formal register distinction for Unit 23 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первый вариант демонстрирует строгое соблюдение норм аналитического и публицистического стиля."
@@ -12025,9 +12025,9 @@
         {
           "prompt": "Какая стандартная фраза используется в тексте заявления сотрудника на отпуск?",
           "options": [
-            "Прошу предоставить мне очередной оплачиваемый отпуск с 1 июня. (Proshu predostavit' mne ocherednoy oplachivaemyy otpusk s 1 iyunya.)",
-            "Дайте мне, пожалуйста, отдохнуть пару недель. (Dayte mne, pozhaluysta, otdokhnut' paru nedel'.)",
-            "Я очень хочу пойти в отпуск прямо сейчас. (Ya ochen' khochu poyti v otpusk pryamo seychas.)"
+            "Прошу предоставить мне очередной оплачиваемый отпуск с 1 июня. (standard target expression for Unit 24 Lesson 1 target grammar)",
+            "Дайте мне, пожалуйста, отдохнуть пару недель. (contextual contrast form in Unit 24 Lesson 1 target grammar)",
+            "Я очень хочу пойти в отпуск прямо сейчас. (formal register distinction for Unit 24 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Прошу предоставить мне очередной оплачиваемый отпуск...» — нормативное клише трудового делопроизводства."
@@ -12039,9 +12039,9 @@
         {
           "prompt": "Как оформляется адресат в шапке официального служебного документа?",
           "options": [
-            "в дательном падеже: Ректору университета профессору Иванову И. И. всегда с v datel'nom padezhe: Rektoru universiteta professoru Ivanovu I. I. vsegda s (v datel'nom padezhe: Rektoru universiteta professoru Ivanovu I. I.)",
-            "в именительном падеже: Ректор университета профессор Иванов (v imenitel'nom padezhe: Rektor universiteta professor Ivanov)",
-            "в творительном падеже: Ректором университета профессором Ивановым (v tvoritel'nom padezhe: Rektorom universiteta professorom Ivanovym)"
+            "в дательном падеже: Ректору университета профессору Иванову И. И. всегда с v datel'nom padezhe: Rektoru universiteta professoru Ivanovu I. I. vsegda s (standard target expression for Unit 24 Lesson 1 target grammar)",
+            "в именительном падеже: Ректор университета профессор Иванов (contextual contrast form in Unit 24 Lesson 1 target grammar)",
+            "в творительном падеже: Ректором университета профессором Ивановым (formal register distinction for Unit 24 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Адресат (кому направляется документ) всегда ставится в дательном падеже: Директору, Ректору, Начальнику."
@@ -12054,9 +12054,9 @@
           "type": "multiple-choice",
           "prompt": "Какое предложение представляет собой безупречно составленную служебную записку?",
           "options": [
-            "Довожу до вашего сведения, что в связи с расширением штата отдела требуется оборудовать два дополнительных рабочих места. (Dovozhu do vashego svedeniya, chto v svyazi s rasshireniem shtata otdela trebuetsya oborudovat' dva dopolnitel'nykh rabochikh mesta.)",
-            "Пишу вам, потому что у нас мало стульев и столов в кабинете. (Pishu vam, potomu chto u nas malo stul'ev i stolov v kabinete.)",
-            "Нам надо бы купить столы, а то работать негде. (Nam nado by kupit' stoly, a to rabotat' negde.)"
+            "Довожу до вашего сведения, что в связи с расширением штата отдела требуется оборудовать два дополнительных рабочих места. (standard target expression for Unit 24 Lesson 1 target grammar)",
+            "Пишу вам, потому что у нас мало стульев и столов в кабинете. (contextual contrast form in Unit 24 Lesson 1 target grammar)",
+            "Нам надо бы купить столы, а то работать негде. (formal register distinction for Unit 24 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Довожу до вашего сведения, что в связи с расширением штата... требуется...» — эталон служебной записки."
@@ -12121,9 +12121,9 @@
         {
           "prompt": "Какая этикетная формула наиболее уместна при направлении коммерческого предложения потенциальному партнёру?",
           "options": [
-            "Направляем в ваш адрес коммерческое предложение и надеемся на взаимовыгодное сотрудничество. (Napravlyaem v vash adres kommercheskoe predlozhenie i nadeemsya na vzaimovygodnoe sotrudnichestvo.)",
-            "Посмотрите наши цены, может быть, вам что-то понравится. (Posmotrite nashi tseny, mozhet byt', vam chto-to ponravitsya.)",
-            "Купите наши товары прямо сейчас, у нас всё самое дешёвое. (Kupite nashi tovary pryamo seychas, u nas vsyo samoe deshyovoe.)"
+            "Направляем в ваш адрес коммерческое предложение и надеемся на взаимовыгодное сотрудничество. (standard target expression for Unit 24 Lesson 2 target grammar)",
+            "Посмотрите наши цены, может быть, вам что-то понравится. (contextual contrast form in Unit 24 Lesson 2 target grammar)",
+            "Купите наши товары прямо сейчас, у нас всё самое дешёвое. (formal register distinction for Unit 24 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Направляем в ваш адрес коммерческое предложение...» — общепринятый стандарт корпоративной переписки."
@@ -12135,9 +12135,9 @@
         {
           "prompt": "Как корректно оформить отсылку к предыдущему письму контрагента?",
           "options": [
-            "№  соо (Core concept alternative form)",
-            "Мы прочитали то, что вы нам прислали на прошлой неделе (My prochitali to, chto vy nam prislali na proshloy nedele:)",
-            "По поводу вашего старого письма хотим сказать (Po povodu vashego starogo pis'ma khotim skazat':)"
+            "№  соо (standard target expression for Unit 24 Lesson 2 target grammar)",
+            "Мы прочитали то, что вы нам прислали на прошлой неделе (contextual contrast form in Unit 24 Lesson 2 target grammar)",
+            "По поводу вашего старого письма хотим сказать (formal register distinction for Unit 24 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«В ответ на ваше письмо от (дата) № (...) сообщаем следующее:...» — строгий стандарт официального делопроизводства."
@@ -12150,9 +12150,9 @@
           "type": "multiple-choice",
           "prompt": "В каком варианте заключительная часть делового письма оформлена безупречно?",
           "options": [
-            "Заранее благодарим за сотрудничество. С уважением, исполнительный директор ООО «Спектр» Соколов Д. А. (Core concept alternative form)",
-            "Ну всё, пока, ждём ответа как можно быстрее, директор Дима. (Nu vsyo, poka, zhdyom otveta kak mozhno bystree, direktor Dima.)",
-            "Всего хорошего, надеемся на ответ когда-нибудь. (Vsego khoroshego, nadeemsya na otvet kogda-nibud'.)"
+            "Заранее благодарим за сотрудничество. С уважением, исполнительный директор ООО «Спектр» Соколов Д. А. (standard target expression for Unit 24 Lesson 2 target grammar)",
+            "Ну всё, пока, ждём ответа как можно быстрее, директор Дима. (contextual contrast form in Unit 24 Lesson 2 target grammar)",
+            "Всего хорошего, надеемся на ответ когда-нибудь. (formal register distinction for Unit 24 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первый вариант полностью соответствует всем канонам официально-делового этикета."
@@ -12217,9 +12217,9 @@
         {
           "prompt": "Какой глагол выражает строгое юридическое обязательство стороны по контракту?",
           "options": [
-            "обязуется — базовый модальный ю obyazuetsya — bazovyy modal'nyy yu (obyazuetsya)",
-            "надеется (nadeetsya)",
-            "хочет (khochet)"
+            "обязуется — базовый модальный ю obyazuetsya — bazovyy modal'nyy yu (standard target expression for Unit 24 Lesson 3 target grammar)",
+            "надеется (contextual contrast form in Unit 24 Lesson 3 target grammar)",
+            "хочет (formal register distinction for Unit 24 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Обязуется» (обязаться) — базовый модальный юридический глагол договора."
@@ -12231,9 +12231,9 @@
         {
           "prompt": "Как юридически корректно называется акт о завершении и проверке оказанных услуг?",
           "options": [
-            "акт сдачи-приёмки оказанных услуг (akt sdachi-priyomki okazannykh uslug)",
-            "расписка о том, что всё сделано (raspiska o tom, chto vsyo sdelano)",
-            "бумага о проверке работы (bumaga o proverke raboty)"
+            "акт сдачи-приёмки оказанных услуг (standard target expression for Unit 24 Lesson 3 target grammar)",
+            "расписка о том, что всё сделано (contextual contrast form in Unit 24 Lesson 3 target grammar)",
+            "бумага о проверке работы (formal register distinction for Unit 24 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Акт сдачи-приёмки оказанных услуг» — нормативное наименование первичного бухгалтерско-правового документа."
@@ -12246,9 +12246,9 @@
           "type": "multiple-choice",
           "prompt": "Какая формулировка строго соответствует стандарту договорного права РФ?",
           "options": [
-            "Настоящий Договор вступает в силу со дня его подписания и действует до полного исполнения Сторонами своих обязательств. (Nastoyashchiy Dogovor vstupaet v silu so dnya ego podpisaniya i deystvuet do polnogo ispolneniya Storonami svoikh obyazatel'stv.)",
-            "Этот контракт начинает работать, когда мы его подпишем, и длится, пока мы всё не сделаем. (Etot kontrakt nachinaet rabotat', kogda my ego podpishem, i dlitsya, poka my vsyo ne sdelaem.)",
-            "Мы договорились всё выполнять, пока договор подписан обеими сторонами. (My dogovorilis' vsyo vypolnyat', poka dogovor podpisan obeimi storonami.)"
+            "Настоящий Договор вступает в силу со дня его подписания и действует до полного исполнения Сторонами своих обязательств. (standard target expression for Unit 24 Lesson 3 target grammar)",
+            "Этот контракт начинает работать, когда мы его подпишем, и длится, пока мы всё не сделаем. (contextual contrast form in Unit 24 Lesson 3 target grammar)",
+            "Мы договорились всё выполнять, пока договор подписан обеими сторонами. (formal register distinction for Unit 24 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первый вариант содержит стандартные нормативные формулировки гражданского законодательства."
@@ -12313,9 +12313,9 @@
         {
           "prompt": "В каком падеже стоит существительное после предлога «согласно» в строгой литературной норме?",
           "options": [
-            "в дательном падеже: согласно регламенту (v datel'nom padezhe: soglasno reglamentu)",
-            "в родительном падеже: согласно регламента (v roditel'nom padezhe: soglasno reglamenta)",
-            "в творительном падеже: согласно регламентом (v tvoritel'nom padezhe: soglasno reglamentom)"
+            "в дательном падеже: согласно регламенту (standard target expression for Unit 24 Lesson 4 target grammar)",
+            "в родительном падеже: согласно регламента (contextual contrast form in Unit 24 Lesson 4 target grammar)",
+            "в творительном падеже: согласно регламентом (formal register distinction for Unit 24 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Предлог «согласно» требует строгого дательного падежа: согласно (чему?) регламенту, распоряжению, приказу."
@@ -12327,9 +12327,9 @@
         {
           "prompt": "Как правильно пишется временной оборот с предлогом «по» со значением «после окончания»?",
           "options": [
-            "по истечении срока (po istechenii sroka)",
-            "по истечению срока (po istecheniyu sroka)",
-            "по истечение срока (po istechenie sroka)"
+            "по истечении срока (standard target expression for Unit 24 Lesson 4 target grammar)",
+            "по истечению срока (contextual contrast form in Unit 24 Lesson 4 target grammar)",
+            "по истечение срока (formal register distinction for Unit 24 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Предлог «по» во временном значении «после чего-либо» управляет предложным падежом с окончанием -ии: по истечении, по прибытии, по окончании."
@@ -12342,9 +12342,9 @@
           "type": "multiple-choice",
           "prompt": "В каком предложении все деловые предложные конструкции согласованы грамматически безупречно?",
           "options": [
-            "Согласно распоряжению генерального директора, по возвращении из командировки сотрудники предоставляют авансовый отчёт. и «по воз Soglasno rasporyazheniyu general'nogo direktora, po vozvrashchenii iz komandirovki sotrudniki predostavlyayut avansovyy otchyot. i «po voz (Soglasno rasporyazheniyu general'nogo direktora, po vozvrashchenii iz komandirovki sotrudniki predostavlyayut avansovyy otchyot.)",
-            "Согласно распоряжения генерального директора, по возвращению из командировки сотрудники пишут отчёт. (Soglasno rasporyazheniya general'nogo direktora, po vozvrashcheniyu iz komandirovki sotrudniki pishut otchyot.)",
-            "В целях проверки согласно приказу по окончанию месяца сдаются документы. (V tselyakh proverki soglasno prikazu po okonchaniyu mesyatsa sdayutsya dokumenty.)"
+            "Согласно распоряжению генерального директора, по возвращении из командировки сотрудники предоставляют авансовый отчёт. и «по воз Soglasno rasporyazheniyu general'nogo direktora, po vozvrashchenii iz komandirovki sotrudniki predostavlyayut avansovyy otchyot. i «po voz (standard target expression for Unit 24 Lesson 4 target grammar)",
+            "Согласно распоряжения генерального директора, по возвращению из командировки сотрудники пишут отчёт. (contextual contrast form in Unit 24 Lesson 4 target grammar)",
+            "В целях проверки согласно приказу по окончанию месяца сдаются документы. (formal register distinction for Unit 24 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Согласно распоряжению» (дат. пад.) и «по возвращении» (предл. пад. на -ии) представляют собой безупречные литературные нормы."
@@ -12409,9 +12409,9 @@
         {
           "prompt": "Как называется официальный документ, в котором фиксируются спорные формулировки проекта договора и варианты их исправления?",
           "options": [
-            "протокол разногласий (protokol raznoglasiy)",
-            "гарантийное письмо (garantiynoe pis'mo)",
-            "служебная записка (sluzhebnaya zapiska)"
+            "протокол разногласий (standard target expression for Unit 24 Lesson 5 target grammar)",
+            "гарантийное письмо (contextual contrast form in Unit 24 Lesson 5 target grammar)",
+            "служебная записка (formal register distinction for Unit 24 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Протокол разногласий составляется при несогласии одной из сторон с отдельными положениями предложенного проекта договора."
@@ -12423,9 +12423,9 @@
         {
           "prompt": "Какая стандартная фраза завершает текст двустороннего юридического соглашения?",
           "options": [
-            "Настоящее соглашение составлено в двух экземплярах, имеющих равную юридическую силу. (Nastoyashchee soglashenie sostavleno v dvukh ekzemplyarakh, imeyushchikh ravnuyu yuridicheskuyu silu.)",
-            "Мы напечатали два одинаковых листа для каждого участника. (My napechatali dva odinakovykh lista dlya kazhdogo uchastnika.)",
-            "Копии договора отданы обеим сторонам на память. (Kopii dogovora otdany obeim storonam na pamyat'.)"
+            "Настоящее соглашение составлено в двух экземплярах, имеющих равную юридическую силу. (standard target expression for Unit 24 Lesson 5 target grammar)",
+            "Мы напечатали два одинаковых листа для каждого участника. (contextual contrast form in Unit 24 Lesson 5 target grammar)",
+            "Копии договора отданы обеим сторонам на память. (formal register distinction for Unit 24 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Настоящее соглашение составлено в двух экземплярах, имеющих равную юридическую силу...» — каноническая концовка договора."
@@ -12438,9 +12438,9 @@
           "type": "multiple-choice",
           "prompt": "В каком фрагменте официально-делового документа соблюдены все нормы профессионального языка и юридического этикета?",
           "options": [
-            "В соответствии с пунктом 7.3 настоящего Договора, по завершении оказания услуг Стороны подписывают двусторонний Акт сдачи-приёмки. (V sootvetstvii s punktom 7.3 nastoyashchego Dogovora, po zavershenii okazaniya uslug Storony podpisyvayut dvustoronniy Akt sdachi-priyomki.)",
-            "Согласно пункта 7.3 договора, по завершению услуг стороны пишут акт сдачи. (Soglasno punkta 7.3 dogovora, po zaversheniyu uslug storony pishut akt sdachi.)",
-            "В целях пункта 7.3 после оказания услуг все подписывают бумагу о сдаче. (V tselyakh punkta 7.3 posle okazaniya uslug vse podpisyvayut bumagu o sdache.)"
+            "В соответствии с пунктом 7.3 настоящего Договора, по завершении оказания услуг Стороны подписывают двусторонний Акт сдачи-приёмки. (standard target expression for Unit 24 Lesson 5 target grammar)",
+            "Согласно пункта 7.3 договора, по завершению услуг стороны пишут акт сдачи. (contextual contrast form in Unit 24 Lesson 5 target grammar)",
+            "В целях пункта 7.3 после оказания услуг все подписывают бумагу о сдаче. (formal register distinction for Unit 24 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Первый вариант демонстрирует строгое соответствие нормам официально-делового стиля и правильное предложное управление."
@@ -12505,9 +12505,9 @@
         {
           "prompt": "Как называется тип героя (Онегин, Печорин), одарённого, но чуждого своему сословию и времени?",
           "options": [
-            "лишний человек (lishniy chelovek)",
-            "маленький человек (malen'kiy chelovek)",
-            "новый человек (novyy chelovek)"
+            "лишний человек (standard target expression for Unit 25 Lesson 1 target grammar)",
+            "маленький человек (contextual contrast form in Unit 25 Lesson 1 target grammar)",
+            "новый человек (formal register distinction for Unit 25 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Лишний человек» — классический социально-психологический архетип русской классической литературы XIX века."
@@ -12519,9 +12519,9 @@
         {
           "prompt": "Сколько строк насчитывает классическая онегинская строфа?",
           "options": [
-            "14 строк (14 strok)",
-            "12 строк (12 strok)",
-            "16 строк (16 strok)"
+            "14 строк (standard target expression for Unit 25 Lesson 1 target grammar)",
+            "12 строк (contextual contrast form in Unit 25 Lesson 1 target grammar)",
+            "16 строк (formal register distinction for Unit 25 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Онегинская строфа содержит ровно 14 строк четырёхстопного ямба со строгой системой рифмовки."
@@ -12534,9 +12534,9 @@
           "type": "multiple-choice",
           "prompt": "Кто из великих русских критиков охарактеризовал роман «Евгений Онегин» как «энциклопедию русской жизни»?",
           "options": [
-            "В. Г. Белинский (V. G. Belinskiy)",
-            "Н. Г. Чернышевский (N. G. Chernyshevskiy)",
-            "Д. И. Писарев (D. I. Pisarev)"
+            "В. Г. Белинский (standard target expression for Unit 25 Lesson 1 target grammar)",
+            "Н. Г. Чернышевский (contextual contrast form in Unit 25 Lesson 1 target grammar)",
+            "Д. И. Писарев (formal register distinction for Unit 25 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Знаменитое определение «энциклопедия русской жизни» принадлежит критику Виссариону Григорьевичу Белинскому."
@@ -12603,9 +12603,9 @@
         {
           "prompt": "Как в русской литературе называется гуманистический архетип героя, открытый Гоголем в повести «Шинель» (Акакий Акакиевич)?",
           "options": [
-            "маленький человек (malen'kiy chelovek)",
-            "лишний человек (lishniy chelovek)",
-            "резонёр (rezonyor)"
+            "маленький человек (standard target expression for Unit 25 Lesson 2 target grammar)",
+            "лишний человек (contextual contrast form in Unit 25 Lesson 2 target grammar)",
+            "резонёр (formal register distinction for Unit 25 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Маленький человек» — социально незащищённый, скромный чиновник или обыватель, вызывающий глубокое сочувствие читателя."
@@ -12617,9 +12617,9 @@
         {
           "prompt": "С какой целью Лермонтов нарушил хронологический порядок глав в «Герое нашего времени»?",
           "options": [
-            "чтобы постепенно приблизить читателя от внешнего взгляда к исповедальному самораскрытию Печорина (chtoby postepenno priblizit' chitatelya ot vneshnego vzglyada k ispovedal'nomu samoraskrytiyu Pechorina)",
-            "из-за случайной ошибки типографии при первой публикации (iz-za sluchaynoy oshibki tipografii pri pervoy publikatsii)",
-            "чтобы скрыть биографические факты из жизни главного героя (chtoby skryt' biograficheskie fakty iz zhizni glavnogo geroya)"
+            "чтобы постепенно приблизить читателя от внешнего взгляда к исповедальному самораскрытию Печорина (standard target expression for Unit 25 Lesson 2 target grammar)",
+            "из-за случайной ошибки типографии при первой публикации (contextual contrast form in Unit 25 Lesson 2 target grammar)",
+            "чтобы скрыть биографические факты из жизни главного героя (formal register distinction for Unit 25 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Композиция романа подчинена психологической задаче: от рассказа Максима Максимыча к дневнику («Журналу Печорина»)."
@@ -12632,9 +12632,9 @@
           "type": "multiple-choice",
           "prompt": "Какой знаменитый образ в финале первого тома «Мёртвых душ» символизирует стремительное движение и величие России?",
           "options": [
-            "птица-тройка (ptitsa-troyka)",
-            "железный всадник (zheleznyy vsadnik)",
-            "парус одинокий (parus odinokiy)"
+            "птица-тройка (standard target expression for Unit 25 Lesson 2 target grammar)",
+            "железный всадник (contextual contrast form in Unit 25 Lesson 2 target grammar)",
+            "парус одинокий (formal register distinction for Unit 25 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Русь, куда ж несешься ты? дай ответ. Не дает ответа...» — образ летящей птицы-тройки в поэме «Мёртвые души»."
@@ -12699,9 +12699,9 @@
         {
           "prompt": "Как филолог Михаил Бахтин определил тип романа Достоевского с равноправием авторского голоса и голосов персонажей?",
           "options": [
-            "полифонический роман (polifonicheskiy roman)",
-            "монологический роман (monologicheskiy roman)",
-            "авантюрный роман (avantyurnyy roman)"
+            "полифонический роман (standard target expression for Unit 25 Lesson 3 target grammar)",
+            "монологический роман (contextual contrast form in Unit 25 Lesson 3 target grammar)",
+            "авантюрный роман (formal register distinction for Unit 25 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Полифонический роман» — термин М. М. Бахтина для многоголосной структуры художественного мира Достоевского."
@@ -12713,9 +12713,9 @@
         {
           "prompt": "Какое специфическое слово использует Достоевский для описания мучительного эмоционального надлома и экстатического страдания героя?",
           "options": [
-            "надрыв (nadryv)",
-            "остранение (ostranenie)",
-            "апатия (apatiya)"
+            "надрыв (standard target expression for Unit 25 Lesson 3 target grammar)",
+            "остранение (contextual contrast form in Unit 25 Lesson 3 target grammar)",
+            "апатия (formal register distinction for Unit 25 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Надрыв» — знаковое психологическое понятие поэтики Достоевского («Братья Карамазовы»)."
@@ -12728,9 +12728,9 @@
           "type": "multiple-choice",
           "prompt": "В каком из романов Достоевского главный герой проверяет бесчеловечную теорию деления людей на «тварей дрожащих» и «право имеющих»?",
           "options": [
-            "«Преступление и наказание» (Core concept key phrasing)",
-            "«Идиот» (Core concept alternative form)",
-            "«Подросток» (Core concept alternative form)"
+            "«Преступление и наказание» (standard target expression for Unit 25 Lesson 3 target grammar)",
+            "«Идиот» (contextual contrast form in Unit 25 Lesson 3 target grammar)",
+            "«Подросток» (formal register distinction for Unit 25 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Идею о проверке собственной силы через преступление выдвигает Родион Раскольников в романе «Преступление и наказание»."
@@ -12795,9 +12795,9 @@
         {
           "prompt": "Как литературный критик Н. Г. Чернышевский охарактеризовал способность Толстого прослеживать сам процесс развития психологических переживаний?",
           "options": [
-            "диалектика души (dialektika dushi)",
-            "поток сознания (potok soznaniya)",
-            "романтический гротеск (romanticheskiy grotesk)"
+            "диалектика души (standard target expression for Unit 25 Lesson 4 target grammar)",
+            "поток сознания (contextual contrast form in Unit 25 Lesson 4 target grammar)",
+            "романтический гротеск (formal register distinction for Unit 25 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Диалектика души» — знаменитый термин Чернышевского, определяющий психологический метод Льва Толстого."
@@ -12809,9 +12809,9 @@
         {
           "prompt": "Как теоретик Виктор Шкловский назвал толстовский приём описания вещей вне привычного контекста глазами наивного зрителя?",
           "options": [
-            "остранение (ostranenie)",
-            "гипербола (giperbola)",
-            "парцелляция (partsellyatsiya)"
+            "остранение (standard target expression for Unit 25 Lesson 4 target grammar)",
+            "гипербола (contextual contrast form in Unit 25 Lesson 4 target grammar)",
+            "парцелляция (formal register distinction for Unit 25 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Остранение» — термин формальной школы, обозначающий представление знакомого предмета как странного и нового."
@@ -12824,9 +12824,9 @@
           "type": "multiple-choice",
           "prompt": "Какой персонаж романа «Война и мир» олицетворяет для Пьера Безухова идеал гармоничной, простой и праведной народной жизни?",
           "options": [
-            "Платон Каратаев (Platon Karataev)",
-            "Анатоль Курагин (Anatol' Kuragin)",
-            "Долохов (Dolokhov)"
+            "Платон Каратаев (standard target expression for Unit 25 Lesson 4 target grammar)",
+            "Анатоль Курагин (contextual contrast form in Unit 25 Lesson 4 target grammar)",
+            "Долохов (formal register distinction for Unit 25 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Платон Каратаев — символ народного духа, простоты, всепрощения и органической веры в «Войне и мире»."
@@ -12893,9 +12893,9 @@
         {
           "prompt": "Как называется знаменитый драматургический закон, сформулированный Чеховым о необходимости функциональности каждой детали сюжета?",
           "options": [
-            "чеховское ружьё (chekhovskoe ruzh'yo)",
-            "птица-тройка (ptitsa-troyka)",
-            "онегинская строфа (oneginskaya strofa)"
+            "чеховское ружьё (standard target expression for Unit 25 Lesson 5 target grammar)",
+            "птица-тройка (contextual contrast form in Unit 25 Lesson 5 target grammar)",
+            "онегинская строфа (formal register distinction for Unit 25 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Чеховское ружьё» — принцип драматургии: не вводить в повествование элементы, которые не сыграют роли в дальнейшем развитии событий."
@@ -12907,9 +12907,9 @@
         {
           "prompt": "Кто из персонажей пьесы «Вишнёвый сад» покупает имение Раневской на аукционе и приказывает вырубить сад?",
           "options": [
-            "купец Ермолай Лопахин (kupets Ermolay Lopakhin)",
-            "студент Петя Трофимов (student Petya Trofimov)",
-            "брат Леонид Гаев (brat Leonid Gaev)"
+            "купец Ермолай Лопахин (standard target expression for Unit 25 Lesson 5 target grammar)",
+            "студент Петя Трофимов (contextual contrast form in Unit 25 Lesson 5 target grammar)",
+            "брат Леонид Гаев (formal register distinction for Unit 25 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Купец Ермолай Лопахин, сын крепостного, покупает имение на торгах, знаменуя приход новой буржуазной эпохи."
@@ -12922,9 +12922,9 @@
           "type": "multiple-choice",
           "prompt": "В чём заключается феномен чеховского «подводного течения» в пьесах?",
           "options": [
-            "подлинный драматизм и психологические переживания героев скрыты в паузах и бытовых разговорах в подтексте — основа чехов podlinnyy dramatizm i psikhologicheskie perezhivaniya geroev skryty v pauzakh i bytovykh razgovorakh v podtekste — osnova chekhov (v podtekste)",
-            "все персонажи говорят исключительно о морских путешествиях (vse personazhi govoryat isklyuchitel'no o morskikh puteshestviyakh)",
-            "действие пьесы разворачивается под водой (deystvie p'esy razvorachivaetsya pod vodoy)"
+            "подлинный драматизм и психологические переживания героев скрыты в паузах и бытовых разговорах в подтексте — основа чехов podlinnyy dramatizm i psikhologicheskie perezhivaniya geroev skryty v pauzakh i bytovykh razgovorakh v podtekste — osnova chekhov (standard target expression for Unit 25 Lesson 5 target grammar)",
+            "все персонажи говорят исключительно о морских путешествиях (contextual contrast form in Unit 25 Lesson 5 target grammar)",
+            "действие пьесы разворачивается под водой (formal register distinction for Unit 25 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Подводное течение» (подтекст) — основа чеховской драматургии, когда глубочайшие душевные драмы не проговариваются напрямую."
@@ -12989,9 +12989,9 @@
         {
           "prompt": "Как называется центральная философская концепция Владимира Соловьёва об онтологической целостности бытия в Боге?",
           "options": [
-            "философия всеединства (filosofiya vseedinstva)",
-            "диалектический материализм (dialekticheskiy materializm)",
-            "позитивизм (pozitivizm)"
+            "философия всеединства (standard target expression for Unit 26 Lesson 1 target grammar)",
+            "диалектический материализм (contextual contrast form in Unit 26 Lesson 1 target grammar)",
+            "позитивизм (formal register distinction for Unit 26 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Философия всеединства» — фундамент метафизической системы Владимира Соловьёва."
@@ -13003,9 +13003,9 @@
         {
           "prompt": "Какой мистический и богословский образ Соловьёв определял как Премудрость Божию и Вечную Женственность?",
           "options": [
-            "София — центральный образ Sofiya — tsentral'nyy obraz (Sofiya)",
-            "Афина (Afina)",
-            "Психея (Psikheya)"
+            "София — центральный образ Sofiya — tsentral'nyy obraz (standard target expression for Unit 26 Lesson 1 target grammar)",
+            "Афина (contextual contrast form in Unit 26 Lesson 1 target grammar)",
+            "Психея (formal register distinction for Unit 26 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "София (Премудрость Божия) — центральный образ софиологии Соловьёва и русских символистов."
@@ -13018,9 +13018,9 @@
           "type": "multiple-choice",
           "prompt": "Как называется главный фундаментальный этический труд Владимира Соловьёва?",
           "options": [
-            "«Оправдание добра» — классичес «Opravdanie dobra» — klassiches (Core concept alternative form)",
-            "«Критика чистого разума» (Core concept alternative form)",
-            "«Этика ненасилия» (Core concept alternative form)"
+            "«Оправдание добра» — классичес «Opravdanie dobra» — klassiches (standard target expression for Unit 26 Lesson 1 target grammar)",
+            "«Критика чистого разума» (contextual contrast form in Unit 26 Lesson 1 target grammar)",
+            "«Этика ненасилия» (formal register distinction for Unit 26 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Трактат «Оправдание добра» (1897) — классический труд русской этической мысли."
@@ -13085,9 +13085,9 @@
         {
           "prompt": "Что в философии Николая Бердяева является первичным по отношению к бытию?",
           "options": [
-            "свобода (svoboda)",
-            "материя (materiya)",
-            "государственный закон (gosudarstvennyy zakon)"
+            "свобода (standard target expression for Unit 26 Lesson 2 target grammar)",
+            "материя (contextual contrast form in Unit 26 Lesson 2 target grammar)",
+            "государственный закон (formal register distinction for Unit 26 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Бердяев утверждал абсолютный примат свободы над бытием (*Ungrund*)."
@@ -13099,9 +13099,9 @@
         {
           "prompt": "Как называется процесс отчуждения и подчинения человеческого духа внешнему материальному миру в терминологии Бердяева?",
           "options": [
-            "объективация (obektivatsiya)",
-            "сублимация (sublimatsiya)",
-            "рефлексия (refleksiya)"
+            "объективация (standard target expression for Unit 26 Lesson 2 target grammar)",
+            "сублимация (contextual contrast form in Unit 26 Lesson 2 target grammar)",
+            "рефлексия (formal register distinction for Unit 26 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Объективация — ключевой термин Бердяева, обозначающий порабощение личности социальными и природными условностями."
@@ -13114,9 +13114,9 @@
           "type": "multiple-choice",
           "prompt": "Как Бердяев называл религиозное и философское оправдание человека через его способность к творчеству?",
           "options": [
-            "антроподицея — фундамен antropoditseya — fundamen (antropoditseya)",
-            "теодицея (teoditseya)",
-            "апология (apologiya)"
+            "антроподицея — фундамен antropoditseya — fundamen (standard target expression for Unit 26 Lesson 2 target grammar)",
+            "теодицея (contextual contrast form in Unit 26 Lesson 2 target grammar)",
+            "апология (formal register distinction for Unit 26 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Антроподицея (оправдание человека) — фундаментальная идея книги Бердяева «Смысл творчества» (1916)."
@@ -13181,9 +13181,9 @@
         {
           "prompt": "Какая антиномия лежит в основе главного итогового философского труда Льва Шестова?",
           "options": [
-            "«Афины и Иерусалим» разум против веры — фундаментальный «Afiny i Ierusalim» razum protiv very — fundamental'nyy (razum protiv very)",
-            "«Война и мир» (Core concept alternative form)",
-            "«Отцы и дети» (Core concept alternative form)"
+            "«Афины и Иерусалим» разум против веры — фундаментальный «Afiny i Ierusalim» razum protiv very — fundamental'nyy (standard target expression for Unit 26 Lesson 3 target grammar)",
+            "«Война и мир» (contextual contrast form in Unit 26 Lesson 3 target grammar)",
+            "«Отцы и дети» (formal register distinction for Unit 26 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Афины и Иерусалим» (1938) — фундаментальный труд Шестова о конфликте философского разума и религиозной веры."
@@ -13195,9 +13195,9 @@
         {
           "prompt": "Как называется программная книга Шестова 1905 года, провозгласившая отказ от академических догм и систем?",
           "options": [
-            "«Апофеоз беспочвенности» (Core concept alternative form)",
-            "«Столп и утверждение Истины» (Core concept alternative form)",
-            "«Критика практического разума» (Core concept alternative form)"
+            "«Апофеоз беспочвенности» (standard target expression for Unit 26 Lesson 3 target grammar)",
+            "«Столп и утверждение Истины» (contextual contrast form in Unit 26 Lesson 3 target grammar)",
+            "«Критика практического разума» (formal register distinction for Unit 26 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Апофеоз беспочвенности (опыт адогматического мышления)» — манифест экзистенциального релятивизма Шестова."
@@ -13210,9 +13210,9 @@
           "type": "multiple-choice",
           "prompt": "Что, согласно Льву Шестову, способно победить «железную необходимость» и законы рациональной логики?",
           "options": [
-            "парадоксальная библейская вера в Божественное всемогущество (paradoksal'naya bibleyskaya vera v Bozhestvennoe vsemogushchestvo)",
-            "строгий научный позитивизм (strogiy nauchnyy pozitivizm)",
-            "государственное законодательство (gosudarstvennoe zakonodatel'stvo)"
+            "парадоксальная библейская вера в Божественное всемогущество (standard target expression for Unit 26 Lesson 3 target grammar)",
+            "строгий научный позитивизм (contextual contrast form in Unit 26 Lesson 3 target grammar)",
+            "государственное законодательство (formal register distinction for Unit 26 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Шестов верил, что только вера способна преодолеть тиранию разума и природной необходимости."
@@ -13277,9 +13277,9 @@
         {
           "prompt": "Как в русской философии называется принцип органического единения множества индивидуальностей в вере и любви?",
           "options": [
-            "соборность (sobornost')",
-            "коллективизм (kollektivizm)",
-            "атомизм (atomizm)"
+            "соборность (standard target expression for Unit 26 Lesson 4 target grammar)",
+            "коллективизм (contextual contrast form in Unit 26 Lesson 4 target grammar)",
+            "атомизм (formal register distinction for Unit 26 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Соборность — ключевой концепт славянофилов и религиозных философов Серебряного века."
@@ -13291,9 +13291,9 @@
         {
           "prompt": "Какой художественно-пространственный приём иконописи Флоренский объяснял как окно в горний мир в книге «Иконостас»?",
           "options": [
-            "обратная перспектива (obratnaya perspektiva)",
-            "сфумато (sfumato)",
-            "прямая линейная перспектива (pryamaya lineynaya perspektiva)"
+            "обратная перспектива (standard target expression for Unit 26 Lesson 4 target grammar)",
+            "сфумато (contextual contrast form in Unit 26 Lesson 4 target grammar)",
+            "прямая линейная перспектива (formal register distinction for Unit 26 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Обратная перспектива — визуальный принцип иконописи, разворачивающий пространство навстречу молящемуся."
@@ -13306,9 +13306,9 @@
           "type": "multiple-choice",
           "prompt": "Как называется главный богословско-философский труд отца Павла Флоренского (1914)?",
           "options": [
-            "«Столп и утверждение Истины» (Core concept alternative form)",
-            "«Смысл истории» (Core concept alternative form)",
-            "«Свет невечерний» (Core concept alternative form)"
+            "«Столп и утверждение Истины» (standard target expression for Unit 26 Lesson 4 target grammar)",
+            "«Смысл истории» (contextual contrast form in Unit 26 Lesson 4 target grammar)",
+            "«Свет невечерний» (formal register distinction for Unit 26 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Столп и утверждение Истины. Опыт православной теодицеи в двенадцати письмах» — главный труд П. А. Флоренского."
@@ -13373,9 +13373,9 @@
         {
           "prompt": "Как в историографии называется высылка выдающихся русских философов и учёных за границу осенью 1922 года?",
           "options": [
-            "Философский пароход (Filosofskiy parokhod)",
-            "Поезд революции (Poezd revolyutsii)",
-            "Культурный десант (Kul'turnyy desant)"
+            "Философский пароход (standard target expression for Unit 26 Lesson 5 target grammar)",
+            "Поезд революции (contextual contrast form in Unit 26 Lesson 5 target grammar)",
+            "Культурный десант (formal register distinction for Unit 26 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Философский пароход» — собирательное название высылки интеллектуальной элиты из Советской России в 1922 году."
@@ -13387,9 +13387,9 @@
         {
           "prompt": "Какой знаменитый сборник статей 1909 года подверг критике правовой нигилизм и максимализм русской интеллигенции?",
           "options": [
-            "«Вехи» (Core concept alternative form)",
-            "«Колокол» (Core concept alternative form)",
-            "«Полярная звезда» (Core concept alternative form)"
+            "«Вехи» (standard target expression for Unit 26 Lesson 5 target grammar)",
+            "«Колокол» (contextual contrast form in Unit 26 Lesson 5 target grammar)",
+            "«Полярная звезда» (formal register distinction for Unit 26 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сборник «Вехи. Сборник статей о русской интеллигенции» (1909) вызвал огромный общественный резонанс."
@@ -13402,9 +13402,9 @@
           "type": "multiple-choice",
           "prompt": "Какой богословский институт, основанный в Париже мыслителями эмиграции, стал центром православного богословия в Европе?",
           "options": [
-            "Свято-Сергиевский православный богословский институт (Svyato-Sergievskiy pravoslavnyy bogoslovskiy institut)",
-            "Сорбонна (Sorbonna)",
-            "Гейдельбергский университет (Geydel'bergskiy universitet)"
+            "Свято-Сергиевский православный богословский институт (standard target expression for Unit 26 Lesson 5 target grammar)",
+            "Сорбонна (contextual contrast form in Unit 26 Lesson 5 target grammar)",
+            "Гейдельбергский университет (formal register distinction for Unit 26 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Свято-Сергиевский институт в Париже (основан в 1925 г.) стал колыбелью неопатристического синтеза и русской богословской мысли."
@@ -13471,9 +13471,9 @@
         {
           "prompt": "Кто считается основоположником русской классической национальной оперы и симфонической музыки?",
           "options": [
-            "Михаил Иванович Глинка (Mikhail Ivanovich Glinka)",
-            "Антонио Сальери (Antonio Sal'eri)",
-            "Дмитрий Шостакович (Dmitriy Shostakovich)"
+            "Михаил Иванович Глинка (standard target expression for Unit 27 Lesson 1 target grammar)",
+            "Антонио Сальери (contextual contrast form in Unit 27 Lesson 1 target grammar)",
+            "Дмитрий Шостакович (formal register distinction for Unit 27 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "М. И. Глинка — признанный основоположник русской классической музыки («Жизнь за царя», «Руслан и Людмила»)."
@@ -13485,9 +13485,9 @@
         {
           "prompt": "Как композитор Модест Мусоргский жанрово определял свои новаторские оперы «Борис Годунов» и «Хованщина»?",
           "options": [
-            "народная музыкальная драма (narodnaya muzykal'naya drama)",
-            "комическая опера-буффа (komicheskaya opera-buffa)",
-            "лирическая оперетта (liricheskaya operetta)"
+            "народная музыкальная драма (standard target expression for Unit 27 Lesson 1 target grammar)",
+            "комическая опера-буффа (contextual contrast form in Unit 27 Lesson 1 target grammar)",
+            "лирическая оперетта (formal register distinction for Unit 27 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Мусоргский называл свои оперы «народными музыкальными драмами», подчёркивая ведущую роль народа в историческом процессе."
@@ -13500,9 +13500,9 @@
           "type": "multiple-choice",
           "prompt": "В какую оперу Александра Бородина входит знаменитый шедевр симфонической музыки «Половецкие пляски»?",
           "options": [
-            "«Князь Игорь» (Core concept key phrasing)",
-            "«Пиковая дама» (Core concept alternative form)",
-            "«Снегурочка» (Core concept alternative form)"
+            "«Князь Игорь» (standard target expression for Unit 27 Lesson 1 target grammar)",
+            "«Пиковая дама» (contextual contrast form in Unit 27 Lesson 1 target grammar)",
+            "«Снегурочка» (formal register distinction for Unit 27 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Половецкие пляски» являются кульминационным актом оперы А. П. Бородина «Князь Игорь»."
@@ -13567,9 +13567,9 @@
         {
           "prompt": "Какой балет П. И. Чайковского традиционно исполняется в театрах мира во время новогодних и рождественских праздников?",
           "options": [
-            "«Щелкунчик» — всемирно любимая н «Shchelkunchik» — vsemirno lyubimaya n (Core concept alternative form)",
-            "«Жизель» (Core concept alternative form)",
-            "«Петрушка» (Core concept alternative form)"
+            "«Щелкунчик» — всемирно любимая н «Shchelkunchik» — vsemirno lyubimaya n (standard target expression for Unit 27 Lesson 2 target grammar)",
+            "«Жизель» (contextual contrast form in Unit 27 Lesson 2 target grammar)",
+            "«Петрушка» (formal register distinction for Unit 27 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Балет «Щелкунчик» (1892) — всемирно любимая новогодняя классика на сюжет сказки Гофмана."
@@ -13581,9 +13581,9 @@
         {
           "prompt": "Как называется последняя, Шестая симфония Чайковского, завершающаяся трагическим затихающим Adagio lamentoso?",
           "options": [
-            "«Патетическая» си минор — и «Pateticheskaya» si minor — i (Core concept alternative form)",
-            "«Героическая» (Core concept alternative form)",
-            "«Фантастическая» (Core concept alternative form)"
+            "«Патетическая» си минор — и «Pateticheskaya» si minor — i (standard target expression for Unit 27 Lesson 2 target grammar)",
+            "«Героическая» (contextual contrast form in Unit 27 Lesson 2 target grammar)",
+            "«Фантастическая» (formal register distinction for Unit 27 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Шестая симфония («Патетическая») си минор — итоговое завещание композитора, исполненное за 9 дней до его кончины."
@@ -13596,9 +13596,9 @@
           "type": "multiple-choice",
           "prompt": "В какой опере Чайковского звучит знаменитая сцена письма Татьяны и ария Ленского «Куда, куда вы удалились...»?",
           "options": [
-            "«Евгений Онегин» (Core concept key phrasing)",
-            "«Мазепа» (Core concept alternative form)",
-            "«Иоланта» (Core concept alternative form)"
+            "«Евгений Онегин» (standard target expression for Unit 27 Lesson 2 target grammar)",
+            "«Мазепа» (contextual contrast form in Unit 27 Lesson 2 target grammar)",
+            "«Иоланта» (formal register distinction for Unit 27 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сцена письма Татьяны и преддуэльная ария Ленского входят в шедевр Чайковского «Евгений Онегин»."
@@ -13663,9 +13663,9 @@
         {
           "prompt": "Какой акустический и символический феномен является сквозным лейтмотивом фортепианного и симфонического творчества Рахманинова?",
           "options": [
-            "колокольность (kolokol'nost')",
-            "джазовый свинг (dzhazovyy sving)",
-            "электронный шум (elektronnyy shum)"
+            "колокольность (standard target expression for Unit 27 Lesson 3 target grammar)",
+            "джазовый свинг (contextual contrast form in Unit 27 Lesson 3 target grammar)",
+            "электронный шум (formal register distinction for Unit 27 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Колокольность — фундаментальная черта стиля Рахманинова, воспроизводящая богатство звонов русской земли."
@@ -13677,9 +13677,9 @@
         {
           "prompt": "Какое хоровое духовное произведение Рахманинова, написанное в годы Первой мировой войны, считается вершиной православной хоровой музыки?",
           "options": [
-            "«Всенощное бдение» ор. 37 — монументал ор. 37 — монументальный ... «Vsenoshchnoe bdenie» or. 37 — monumental or. 37 — monumental'nyy ... (Core concept alternative form)",
-            "«Реквием» (Core concept alternative form)",
-            "«Страсти по Матфею» (Core concept alternative form)"
+            "«Всенощное бдение» ор. 37 — монументал ор. 37 — монументальный ... «Vsenoshchnoe bdenie» or. 37 — monumental or. 37 — monumental'nyy ... (standard target expression for Unit 27 Lesson 3 target grammar)",
+            "«Реквием» (contextual contrast form in Unit 27 Lesson 3 target grammar)",
+            "«Страсти по Матфею» (formal register distinction for Unit 27 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Всенощное бдение» (1915) ор. 37 — монументальный шедевр Рахманинова для хора a cappella."
@@ -13692,9 +13692,9 @@
           "type": "multiple-choice",
           "prompt": "Как называется последнее крупное произведение Сергея Рахманинова, написанное в США в 1940 году?",
           "options": [
-            "«Симфонические танцы» (Core concept key phrasing)",
-            "«Весна священная» (Core concept alternative form)",
-            "«Половецкие пляски» (Core concept alternative form)"
+            "«Симфонические танцы» (standard target expression for Unit 27 Lesson 3 target grammar)",
+            "«Весна священная» (contextual contrast form in Unit 27 Lesson 3 target grammar)",
+            "«Половецкие пляски» (formal register distinction for Unit 27 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Оркестровая сюита «Симфонические танцы» (1940) — лебединая песня великого композитора."
@@ -13765,9 +13765,9 @@
         {
           "prompt": "Как назывались легендарные гастроли русского балета и оперы в Париже, организованные Сергеем Дягилевым?",
           "options": [
-            "Русские сезоны (Russkie sezony)",
-            "Славянский базар (Slavyanskiy bazar)",
-            "Серебряный век (Serebryanyy vek)"
+            "Русские сезоны (standard target expression for Unit 27 Lesson 4 target grammar)",
+            "Славянский базар (contextual contrast form in Unit 27 Lesson 4 target grammar)",
+            "Серебряный век (formal register distinction for Unit 27 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Русские сезоны» (Ballets Russes, 1908–1929) — знаменитый проект Сергея Дягилева, покоривший Европу и Америку."
@@ -13779,9 +13779,9 @@
         {
           "prompt": "Премьера какого авангардного балета Игоря Стравинского в 1913 году в Париже завершилась исторической дракой зрителей в зале?",
           "options": [
-            "«Весна священная» с «Vesna svyashchennaya» s (Core concept alternative form)",
-            "«Лебединое озеро» (Core concept alternative form)",
-            "«Спящая красавица» (Core concept alternative form)"
+            "«Весна священная» с «Vesna svyashchennaya» s (standard target expression for Unit 27 Lesson 4 target grammar)",
+            "«Лебединое озеро» (contextual contrast form in Unit 27 Lesson 4 target grammar)",
+            "«Спящая красавица» (formal register distinction for Unit 27 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Премьера «Весны священной» (29 мая 1913 г.) с хореографией В. Нижинского вызвала знаменитый скандал из-за радикального музыкального языка."
@@ -13794,9 +13794,9 @@
           "type": "multiple-choice",
           "prompt": "Какой стиль в творчестве Стравинского ознаменовался обращением к гармоническим формам Баха и Моцарта («Пульчинелла», «Царь Эдип»)?",
           "options": [
-            "неоклассицизм (neoklassitsizm)",
-            "экспрессионизм (ekspressionizm)",
-            "импрессионизм (impressionizm)"
+            "неоклассицизм (standard target expression for Unit 27 Lesson 4 target grammar)",
+            "экспрессионизм (contextual contrast form in Unit 27 Lesson 4 target grammar)",
+            "импрессионизм (formal register distinction for Unit 27 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Неоклассицизм Стравинского (1920–1950-е гг.) провозгласил лозунг «Назад к Баху» и строгость классических структур."
@@ -13861,9 +13861,9 @@
         {
           "prompt": "Какая симфония Дмитрия Шостаковича получила название «Ленинградская» и была исполнена в осаждённом блокадном городе в 1942 году?",
           "options": [
-            "Седьмая симфония симфония до мажор о Sed'maya simfoniya simfoniya do mazhor o (Sed'maya simfoniya)",
-            "Пятая симфония (Pyataya simfoniya)",
-            "Девятая симфония (Devyataya simfoniya)"
+            "Седьмая симфония симфония до мажор о Sed'maya simfoniya simfoniya do mazhor o (standard target expression for Unit 27 Lesson 5 target grammar)",
+            "Пятая симфония (contextual contrast form in Unit 27 Lesson 5 target grammar)",
+            "Девятая симфония (formal register distinction for Unit 27 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Седьмая («Ленинградская») симфония до мажор ор. 60 — бессмертный монумент стойкости блокадного Ленинграда."
@@ -13875,9 +13875,9 @@
         {
           "prompt": "Кто из великих русских композиторов написал музыку к знаменитому балету «Ромео и Джульетта» и симфонической сказке «Петя и волк»?",
           "options": [
-            "Сергей Сергеевич Прокофьев (Sergey Sergeevich Prokof'ev)",
-            "Модест Петрович Мусоргский (Modest Petrovich Musorgskiy)",
-            "Николай Андреевич Римский-Корсаков (Nikolay Andreevich Rimskiy-Korsakov)"
+            "Сергей Сергеевич Прокофьев (standard target expression for Unit 27 Lesson 5 target grammar)",
+            "Модест Петрович Мусоргский (contextual contrast form in Unit 27 Lesson 5 target grammar)",
+            "Николай Андреевич Римский-Корсаков (formal register distinction for Unit 27 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сергей Прокофьев — автор музыки к балету «Ромео и Джульетта» и сказке «Петя и волк»."
@@ -13890,9 +13890,9 @@
           "type": "multiple-choice",
           "prompt": "Кто из великих русских басов прославился эталонным исполнением роли царя Бориса в опере Мусоргского «Борис Годунов»?",
           "options": [
-            "Фёдор Иванович Шаляпин (Fyodor Ivanovich Shalyapin)",
-            "Святослав Рихтер (Svyatoslav Rikhter)",
-            "Мстислав Ростропович (Mstislav Rostropovich)"
+            "Фёдор Иванович Шаляпин (standard target expression for Unit 27 Lesson 5 target grammar)",
+            "Святослав Рихтер (contextual contrast form in Unit 27 Lesson 5 target grammar)",
+            "Мстислав Ростропович (formal register distinction for Unit 27 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Фёдор Шаляпин создал гениальный драматический образ царя Бориса Годунова на оперных сценах мира."
@@ -13957,9 +13957,9 @@
         {
           "prompt": "Как называлось объединение художников-реалистов второй половины XIX века, устраивавших выставки по городам России?",
           "options": [
-            "Товарищество передвижных художественных выставок (Tovarishchestvo peredvizhnykh khudozhestvennykh vystavok)",
-            "«Бубновый валет» (Core concept alternative form)",
-            "«Мир искусства» (Core concept alternative form)"
+            "Товарищество передвижных художественных выставок (standard target expression for Unit 28 Lesson 1 target grammar)",
+            "«Бубновый валет» (contextual contrast form in Unit 28 Lesson 1 target grammar)",
+            "«Мир искусства» (formal register distinction for Unit 28 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Товарищество передвижных художественных выставок (передвижники) определяло развитие русского реалистического искусства с 1870 года."
@@ -13971,9 +13971,9 @@
         {
           "prompt": "Кто из великих русских живописцев создал исторические шедевры «Боярыня Морозова» и «Утро стрелецкой казни»?",
           "options": [
-            "Василий Иванович Суриков (Vasiliy Ivanovich Surikov)",
-            "Иван Иванович Шишкин (Ivan Ivanovich Shishkin)",
-            "Казимир Северинович Малевич (Kazimir Severinovich Malevich)"
+            "Василий Иванович Суриков (standard target expression for Unit 28 Lesson 1 target grammar)",
+            "Иван Иванович Шишкин (contextual contrast form in Unit 28 Lesson 1 target grammar)",
+            "Казимир Северинович Малевич (formal register distinction for Unit 28 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "В. И. Суриков — непревзойдённый мастер масштабных исторических полотен, посвящённых узловым моментам русской истории."
@@ -13986,9 +13986,9 @@
           "type": "multiple-choice",
           "prompt": "Какая знаменитая картина Ильи Репина изображает изнемогающих от непосильного труда людей, тянущих барку вдоль речного берега?",
           "options": [
-            "«Бурлаки на Волге» принес «Burlaki na Volge» prines (Core concept alternative form)",
-            "«Не ждали» (Core concept alternative form)",
-            "«Крестный ход в Курской губернии» (Core concept alternative form)"
+            "«Бурлаки на Волге» принес «Burlaki na Volge» prines (standard target expression for Unit 28 Lesson 1 target grammar)",
+            "«Не ждали» (contextual contrast form in Unit 28 Lesson 1 target grammar)",
+            "«Крестный ход в Курской губернии» (formal register distinction for Unit 28 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Картина «Бурлаки на Волге» (1870–1873) принесла Илье Репину европейскую славу."
@@ -14053,9 +14053,9 @@
         {
           "prompt": "Как называется фундаментальный трактат Василия Кандинского 1911 года, обосновавший принципы абстрактной живописи?",
           "options": [
-            "«О духовном в искусстве» (Core concept key phrasing)",
-            "«Эстетика прекрасного» (Core concept alternative form)",
-            "«Черный квадрат» (Core concept alternative form)"
+            "«О духовном в искусстве» (standard target expression for Unit 28 Lesson 2 target grammar)",
+            "«Эстетика прекрасного» (contextual contrast form in Unit 28 Lesson 2 target grammar)",
+            "«Черный квадрат» (formal register distinction for Unit 28 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Трактат «О духовном в искусстве» (Über das Geistige in der Kunst) стал манифестом беспредметного искусства XX века."
@@ -14067,9 +14067,9 @@
         {
           "prompt": "Какой термин обозначает способность Кандинского воспринимать цвет через звуковые и музыкальные ассоциации?",
           "options": [
-            "синестезия (sinesteziya)",
-            "афазия (afaziya)",
-            "амнезия (amneziya)"
+            "синестезия (standard target expression for Unit 28 Lesson 2 target grammar)",
+            "афазия (contextual contrast form in Unit 28 Lesson 2 target grammar)",
+            "амнезия (formal register distinction for Unit 28 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Синестезия — соощущение, при котором зрительное восприятие цвета вызывает слуховые музыкальные переживания."
@@ -14082,9 +14082,9 @@
           "type": "multiple-choice",
           "prompt": "К какому высшему типу произведений в классификации Кандинского относятся монументальные синтетические полотна («Композиция VII»)?",
           "options": [
-            "Композиции (Kompozitsii)",
-            "Импрессии (Impressii)",
-            "Этюды (Etyudy)"
+            "Композиции (standard target expression for Unit 28 Lesson 2 target grammar)",
+            "Импрессии (contextual contrast form in Unit 28 Lesson 2 target grammar)",
+            "Этюды (formal register distinction for Unit 28 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Композиции» — наиболее сложная и монументальная категория картин Кандинского, создававшаяся годами."
@@ -14149,9 +14149,9 @@
         {
           "prompt": "Как называется авангардное художественное направление, основанное Казимиром Малевичем в 1915 году?",
           "options": [
-            "супрематизм (suprematizm)",
-            "импрессионизм (impressionizm)",
-            "классицизм (klassitsizm)"
+            "супрематизм (standard target expression for Unit 28 Lesson 3 target grammar)",
+            "импрессионизм (contextual contrast form in Unit 28 Lesson 3 target grammar)",
+            "классицизм (formal register distinction for Unit 28 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Супрематизм — направление авангарда, выражающееся в комбинациях разноцветных геометрических плоскостей."
@@ -14163,9 +14163,9 @@
         {
           "prompt": "На какой знаменитой петроградской выставке 1915 года впервые был показан «Чёрный квадрат» в «красном углу» зала?",
           "options": [
-            "Последняя футуристическая выставка картин «0,10» в Петрограде Poslednyaya futuristicheskaya vystavka kartin «0,10» v Petrograde (Core concept alternative form)",
-            "Выставка передвижников (Vystavka peredvizhnikov)",
-            "«Ослиный хвост» (Core concept alternative form)"
+            "Последняя футуристическая выставка картин «0,10» в Петрограде Poslednyaya futuristicheskaya vystavka kartin «0,10» v Petrograde (standard target expression for Unit 28 Lesson 3 target grammar)",
+            "Выставка передвижников (contextual contrast form in Unit 28 Lesson 3 target grammar)",
+            "«Ослиный хвост» (formal register distinction for Unit 28 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "На выставке «0,10» (ноль-десять) в Петрограде состоялся исторический дебют супрематизма Малевича."
@@ -14178,9 +14178,9 @@
           "type": "multiple-choice",
           "prompt": "Как расшифровывается аббревиатура авангардного творческого объединения УНОВИС, созданного Малевичем в Витебске?",
           "options": [
-            "Утвердители нового искусства (Utverditeli novogo iskusstva)",
-            "Университет новейших открытий (Universitet noveyshikh otkrytiy)",
-            "Управление народных искусств (Upravlenie narodnykh iskusstv)"
+            "Утвердители нового искусства (standard target expression for Unit 28 Lesson 3 target grammar)",
+            "Университет новейших открытий (contextual contrast form in Unit 28 Lesson 3 target grammar)",
+            "Управление народных искусств (formal register distinction for Unit 28 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "УНОВИС — «Утвердители нового искусства» (1919–1922), авангардная группа в Витебском народном художественном училище."
@@ -14245,9 +14245,9 @@
         {
           "prompt": "Какой выдающийся художник-конструктивист спроектировал знаменитую наклонную спиральную «Башню III Интернационала»?",
           "options": [
-            "Владимир Евграфович Татлин (Vladimir Evgrafovich Tatlin)",
-            "Илья Ефимович Репин (Il'ya Efimovich Repin)",
-            "Исаак Ильич Левитан (Isaak Il'ich Levitan)"
+            "Владимир Евграфович Татлин (standard target expression for Unit 28 Lesson 4 target grammar)",
+            "Илья Ефимович Репин (contextual contrast form in Unit 28 Lesson 4 target grammar)",
+            "Исаак Ильич Левитан (formal register distinction for Unit 28 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Владимир Татлин — создатель модели «Памятника III Интернационалу» (1919–1920)."
@@ -14259,9 +14259,9 @@
         {
           "prompt": "Как назывался московский институт (1920–1926), ставший колыбелью конструктивизма и дизайна наряду с Баухаусом?",
           "options": [
-            "ВХУТЕМАС (VKhUTEMAS)",
-            "Царскосельский лицей (Tsarskosel'skiy litsey)",
-            "Смольный институт (Smol'nyy institut)"
+            "ВХУТЕМАС (standard target expression for Unit 28 Lesson 4 target grammar)",
+            "Царскосельский лицей (contextual contrast form in Unit 28 Lesson 4 target grammar)",
+            "Смольный институт (formal register distinction for Unit 28 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ВХУТЕМАС (Высшие государственные художественно-технические мастерские) — мировой центр авангардного образования."
@@ -14274,9 +14274,9 @@
           "type": "multiple-choice",
           "prompt": "Какой термин использовали художники-производственники (Степанова, Попова) для обозначения функциональной рабочей одежды?",
           "options": [
-            "прозодежда (prozodezhda)",
-            "кринолин (krinolin)",
-            "мундир (mundir)"
+            "прозодежда (standard target expression for Unit 28 Lesson 4 target grammar)",
+            "кринолин (contextual contrast form in Unit 28 Lesson 4 target grammar)",
+            "мундир (formal register distinction for Unit 28 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Прозодежда — одежда, специально сконструированная для выполнения производственных и профессиональных задач."
@@ -14341,9 +14341,9 @@
         {
           "prompt": "Какой художественный метод был провозглашён в СССР в 1930-е годы единственным официальным каноном советского искусства?",
           "options": [
-            "социалистический реализм (sotsialisticheskiy realizm)",
-            "кубизм (kubizm)",
-            "дадаизм (dadaizm)"
+            "социалистический реализм (standard target expression for Unit 28 Lesson 5 target grammar)",
+            "кубизм (contextual contrast form in Unit 28 Lesson 5 target grammar)",
+            "дадаизм (formal register distinction for Unit 28 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Социалистический реализм с 1932–1934 гг. стал обязательным нормативным методом для всех советских деятелей искусства."
@@ -14355,9 +14355,9 @@
         {
           "prompt": "Кто из великих художников создал знаменитую картину-символ «Купание красного коня» (1912) со сферической перспективой?",
           "options": [
-            "Кузьма Сергеевич Петров-Водкин (Kuz'ma Sergeevich Petrov-Vodkin)",
-            "Иван Иванович Шишкин (Ivan Ivanovich Shishkin)",
-            "Владимир Евграфович Татлин (Vladimir Evgrafovich Tatlin)"
+            "Кузьма Сергеевич Петров-Водкин (standard target expression for Unit 28 Lesson 5 target grammar)",
+            "Иван Иванович Шишкин (contextual contrast form in Unit 28 Lesson 5 target grammar)",
+            "Владимир Евграфович Татлин (formal register distinction for Unit 28 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "К. С. Петров-Водкин — автор полотна «Купание красного коня» и теории сферической перспективы."
@@ -14370,9 +14370,9 @@
           "type": "multiple-choice",
           "prompt": "Кто является автором всемирно известной скульптурной группы «Рабочий и колхозница», венчавшей советский павильон в Париже в 1937 г.?",
           "options": [
-            "Вера Игнатьевна Мухина (Vera Ignat'evna Mukhina)",
-            "Варвара Фёдоровна Степанова (Varvara Fyodorovna Stepanova)",
-            "Любовь Сергеевна Попова (Lyubov' Sergeevna Popova)"
+            "Вера Игнатьевна Мухина (standard target expression for Unit 28 Lesson 5 target grammar)",
+            "Варвара Фёдоровна Степанова (contextual contrast form in Unit 28 Lesson 5 target grammar)",
+            "Любовь Сергеевна Попова (formal register distinction for Unit 28 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Выдающийся советский скульптор Вера Мухина создала монумент «Рабочий и колхозница» из нержавеющей стали."
@@ -14437,9 +14437,9 @@
         {
           "prompt": "Как называется базовый киноэффект, открывший возникновение нового смысла при склейке двух независимых кадров?",
           "options": [
-            "эффект Кулешова (effekt Kuleshova)",
-            "эффект Доплера (effekt Doplera)",
-            "эффект плацебо (effekt platsebo)"
+            "эффект Кулешова (standard target expression for Unit 29 Lesson 1 target grammar)",
+            "эффект Доплера (contextual contrast form in Unit 29 Lesson 1 target grammar)",
+            "эффект плацебо (formal register distinction for Unit 29 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Эффект Кулешова доказал, что сопоставление кадров рождает в восприятии зрителя новый образ, отсутствующий в каждом отдельном кадре."
@@ -14451,9 +14451,9 @@
         {
           "prompt": "Какой шедевр немого документального кино снял Дзига Вертов в 1929 году, показав жизнь города через призму объектива?",
           "options": [
-            "«Человек с киноаппаратом» — вершина до «Chelovek s kinoapparatom» — vershina do (Core concept alternative form)",
-            "«Прибытие поезда» (Core concept alternative form)",
-            "«Земля» (Core concept alternative form)"
+            "«Человек с киноаппаратом» — вершина до «Chelovek s kinoapparatom» — vershina do (standard target expression for Unit 29 Lesson 1 target grammar)",
+            "«Прибытие поезда» (contextual contrast form in Unit 29 Lesson 1 target grammar)",
+            "«Земля» (formal register distinction for Unit 29 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Человек с киноаппаратом» (1929) — вершина документального киноавангарда Дзиги Вертова."
@@ -14466,9 +14466,9 @@
           "type": "multiple-choice",
           "prompt": "Какая знаменитая сцена из фильма Эйзенштейна «Броненосец „Потёмкин“» стала хрестоматийным примером драматического монтажа?",
           "options": [
-            "сцена на Одесской лестнице (stsena na Odesskoy lestnitse)",
-            "Ледовое побоище (Ledovoe poboishche)",
-            "взятие Зимнего дворца (vzyatie Zimnego dvortsa)"
+            "сцена на Одесской лестнице (standard target expression for Unit 29 Lesson 1 target grammar)",
+            "Ледовое побоище (contextual contrast form in Unit 29 Lesson 1 target grammar)",
+            "взятие Зимнего дворца (formal register distinction for Unit 29 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сцена расстрела мирных граждан на Одесской лестнице — одна из самых известных монтажных сцен в истории кино."
@@ -14533,9 +14533,9 @@
         {
           "prompt": "Как Андрей Тарковский озаглавил свою знаменитую теоретическую книгу об эстетике и природе кинематографа?",
           "options": [
-            "«Запечатленное время» (Core concept key phrasing)",
-            "«Монтаж аттракционов» (Core concept alternative form)",
-            "«Киноглаз» (Core concept alternative form)"
+            "«Запечатленное время» (standard target expression for Unit 29 Lesson 2 target grammar)",
+            "«Монтаж аттракционов» (contextual contrast form in Unit 29 Lesson 2 target grammar)",
+            "«Киноглаз» (formal register distinction for Unit 29 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Книга «Запечатленное время» (Sculpting in Time, 1986) формулирует творческое кредо Тарковского о фиксации времени в кадре."
@@ -14547,9 +14547,9 @@
         {
           "prompt": "В каком философском фильме Тарковского 1979 года герои совершают опасный путь в загадочную Зону к «комнате желаний»?",
           "options": [
-            "«Сталкер» (Core concept key phrasing)",
-            "«Солярис» (Core concept alternative form)",
-            "«Иваново детство» (Core concept alternative form)"
+            "«Сталкер» (standard target expression for Unit 29 Lesson 2 target grammar)",
+            "«Солярис» (contextual contrast form in Unit 29 Lesson 2 target grammar)",
+            "«Иваново детство» (formal register distinction for Unit 29 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Фильм «Сталкер» (по мотивам повести братьев Стругацких «Пикник на обочине») исследует сокровенные глубины человеческой души."
@@ -14562,9 +14562,9 @@
           "type": "multiple-choice",
           "prompt": "Какой великий древнерусский иконописец стал героем монументальной историко-философской кинодрамы Тарковского 1966 года?",
           "options": [
-            "Андрей Рублёв (Andrey Rublyov)",
-            "Дионисий (Dionisiy)",
-            "Феофан Грек (Feofan Grek)"
+            "Андрей Рублёв (standard target expression for Unit 29 Lesson 2 target grammar)",
+            "Дионисий (contextual contrast form in Unit 29 Lesson 2 target grammar)",
+            "Феофан Грек (formal register distinction for Unit 29 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Шедевр «Андрей Рублёв» («Страсти по Андрею») посвящён жизни и духовному подвигу преподобного Андрея Рублёва."
@@ -14629,9 +14629,9 @@
         {
           "prompt": "Какой советский фильм 1957 года режиссёра Михаила Калатозова был удостоен главного приза — «Золотой пальмовой ветви» Каннского кинофестиваля?",
           "options": [
-            "«Летят журавли» — триумфатор Каннского «Letyat zhuravli» — triumfator Kannskogo (Core concept alternative form)",
-            "«Броненосец „Потёмкин“» (Core concept alternative form)",
-            "«Война и мир» (Core concept alternative form)"
+            "«Летят журавли» — триумфатор Каннского «Letyat zhuravli» — triumfator Kannskogo (standard target expression for Unit 29 Lesson 3 target grammar)",
+            "«Броненосец „Потёмкин“» (contextual contrast form in Unit 29 Lesson 3 target grammar)",
+            "«Война и мир» (formal register distinction for Unit 29 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Летят журавли» (1957) — триумфатор Каннского кинофестиваля 1958 года."
@@ -14643,9 +14643,9 @@
         {
           "prompt": "Кто выступил режиссёром культовых картин эпохи оттепели «Застава Ильича» («Мне двадцать лет») и «Июльский дождь»?",
           "options": [
-            "Марлен Мартынович Хуциев (Marlen Martynovich Khutsiev)",
-            "Сергей Фёдорович Бондарчук (Sergey Fyodorovich Bondarchuk)",
-            "Леонид Иович Гайдай (Leonid Iovich Gayday)"
+            "Марлен Мартынович Хуциев (standard target expression for Unit 29 Lesson 3 target grammar)",
+            "Сергей Фёдорович Бондарчук (contextual contrast form in Unit 29 Lesson 3 target grammar)",
+            "Леонид Иович Гайдай (formal register distinction for Unit 29 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Марлен Хуциев — классик советского кино, создавший главные киношедевры о поколении шестидесятников."
@@ -14658,9 +14658,9 @@
           "type": "multiple-choice",
           "prompt": "Какое имя носит главный герой пронзительной военной драмы Григория Чухрая «Баллада о солдате» (1959)?",
           "options": [
-            "Алёша Скворцов (Alyosha Skvortsov)",
-            "Иван Денисович (Ivan Denisovich)",
-            "Павел Корчагин (Pavel Korchagin)"
+            "Алёша Скворцов (standard target expression for Unit 29 Lesson 3 target grammar)",
+            "Иван Денисович (contextual contrast form in Unit 29 Lesson 3 target grammar)",
+            "Павел Корчагин (formal register distinction for Unit 29 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Рядовой Алёша Скворцов (актёр Владимир Ивашов) получает краткосрочный отпуск с фронта, чтобы повидать мать."
@@ -14725,9 +14725,9 @@
         {
           "prompt": "Какой выдающийся режиссёр создал поэтическую кинофреску «Цвет граната» («Саят-Нова») о жизни армянского поэта?",
           "options": [
-            "Сергей Иосифович Параджанов (Sergey Iosifovich Paradzhanov)",
-            "Сергей Фёдорович Бондарчук (Sergey Fyodorovich Bondarchuk)",
-            "Андрей Сергеевич Кончаловский (Andrey Sergeevich Konchalovskiy)"
+            "Сергей Иосифович Параджанов (standard target expression for Unit 29 Lesson 4 target grammar)",
+            "Сергей Фёдорович Бондарчук (contextual contrast form in Unit 29 Lesson 4 target grammar)",
+            "Андрей Сергеевич Кончаловский (formal register distinction for Unit 29 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сергей Параджанов — создатель фильмов «Тени забытых предков» и «Цвет граната»."
@@ -14739,9 +14739,9 @@
         {
           "prompt": "Какая знаменитая реплика звучит в финале антитоталитарной притчи Тенгиза Абуладзе «Покаяние»?",
           "options": [
-            "«Зачем нужна дорога, если она не ведёт к храму?» (Core concept alternative form)",
-            "«Красота спасёт мир» (Core concept alternative form)",
-            "«В чём сила, брат?» (Core concept alternative form)"
+            "«Зачем нужна дорога, если она не ведёт к храму?» (standard target expression for Unit 29 Lesson 4 target grammar)",
+            "«Красота спасёт мир» (contextual contrast form in Unit 29 Lesson 4 target grammar)",
+            "«В чём сила, брат?» (formal register distinction for Unit 29 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Этот риторический вопрос пожилой странницы стал крылатым выражением эпохи перестройки."
@@ -14754,9 +14754,9 @@
           "type": "multiple-choice",
           "prompt": "Кто является режиссёром сложнейших шедевров исторического гиперреализма «Мой друг Иван Лапшин» и «Хрусталёв, машину!»?",
           "options": [
-            "Алексей Юрьевич Герман (Aleksey Yur'evich German)",
-            "Эльдар Александрович Рязанов (El'dar Aleksandrovich Ryazanov)",
-            "Никита Сергеевич Михалков (Nikita Sergeevich Mikhalkov)"
+            "Алексей Юрьевич Герман (standard target expression for Unit 29 Lesson 4 target grammar)",
+            "Эльдар Александрович Рязанов (contextual contrast form in Unit 29 Lesson 4 target grammar)",
+            "Никита Сергеевич Михалков (formal register distinction for Unit 29 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Алексей Герман-старший — непревзойдённый мастер сверхплотной кинематографической материи."
@@ -14821,9 +14821,9 @@
         {
           "prompt": "Как в киноведении называется знаменитая старейшая в мире высшая киношкола, основанная в Москве в 1919 году?",
           "options": [
-            "ВГИК (VGIK)",
-            "МХАТ (MKhAT)",
-            "ГИТИС (GITIS)"
+            "ВГИК (standard target expression for Unit 29 Lesson 5 target grammar)",
+            "МХАТ (contextual contrast form in Unit 29 Lesson 5 target grammar)",
+            "ГИТИС (formal register distinction for Unit 29 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ВГИК — Всероссийский государственный институт кинематографии имени С. А. Герасимова."
@@ -14835,9 +14835,9 @@
         {
           "prompt": "Какой выдающийся культуролог и литературовед написал фундаментальный труд «Семиотика кино и проблемы киноэстетики» (1973)?",
           "options": [
-            "Юрий Михайлович Лотман (Yuriy Mikhaylovich Lotman)",
-            "Дмитрий Сергеевич Лихачёв (Dmitriy Sergeevich Likhachyov)",
-            "Михаил Михайлович Бахтин (Mikhail Mikhaylovich Bakhtin)"
+            "Юрий Михайлович Лотман (standard target expression for Unit 29 Lesson 5 target grammar)",
+            "Дмитрий Сергеевич Лихачёв (contextual contrast form in Unit 29 Lesson 5 target grammar)",
+            "Михаил Михайлович Бахтин (formal register distinction for Unit 29 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Ю. М. Лотман — основоположник отечественной семиотики культуры и кино."
@@ -14850,9 +14850,9 @@
           "type": "multiple-choice",
           "prompt": "Как называется тип кинематографического плана, при котором в кадре крупно выделяется отдельный объект (например, глаз или кольцо)?",
           "options": [
-            "деталь (detal')",
-            "общий план (obshchiy plan)",
-            "панорама (panorama)"
+            "деталь (standard target expression for Unit 29 Lesson 5 target grammar)",
+            "общий план (contextual contrast form in Unit 29 Lesson 5 target grammar)",
+            "панорама (formal register distinction for Unit 29 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Деталь фиксирует внимание зрителя на отдельном изолированном элементе или предмете."
@@ -14917,9 +14917,9 @@
         {
           "prompt": "Какое фундаментальное открытие совершил великий русский химик Д. И. Менделеев в марте 1869 года?",
           "options": [
-            "Периодический закон химических элементов (Periodicheskiy zakon khimicheskikh elementov)",
-            "теория относительности (teoriya otnositel'nosti)",
-            "закон всемирного тяготения (zakon vsemirnogo tyagoteniya)"
+            "Периодический закон химических элементов (standard target expression for Unit 30 Lesson 1 target grammar)",
+            "теория относительности (contextual contrast form in Unit 30 Lesson 1 target grammar)",
+            "закон всемирного тяготения (formal register distinction for Unit 30 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Периодический закон Менделеева упорядочил все известные химические элементы по их атомной массе и свойствам."
@@ -14931,9 +14931,9 @@
         {
           "prompt": "Кто стал первым российским лауреатом Нобелевской премии по физиологии и медицине (1904 г.) за исследования пищеварения и рефлексов?",
           "options": [
-            "Иван Петрович Павлов (Ivan Petrovich Pavlov)",
-            "Николай Иванович Пирогов (Nikolay Ivanovich Pirogov)",
-            "Климент Аркадьевич Тимирязев (Kliment Arkad'evich Timiryazev)"
+            "Иван Петрович Павлов (standard target expression for Unit 30 Lesson 1 target grammar)",
+            "Николай Иванович Пирогов (contextual contrast form in Unit 30 Lesson 1 target grammar)",
+            "Климент Аркадьевич Тимирязев (formal register distinction for Unit 30 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "И. П. Павлов получил Нобелевскую премию в 1904 году за классические работы по физиологии."
@@ -14946,9 +14946,9 @@
           "type": "multiple-choice",
           "prompt": "Какой русский учёный-энциклопедист основал Московский университет в 1755 году и сформулировал закон сохранения массы?",
           "options": [
-            "Михаил Васильевич Ломоносов (Mikhail Vasil'evich Lomonosov)",
-            "Александр Степанович Попов (Aleksandr Stepanovich Popov)",
-            "Николай Иванович Лобачевский (Nikolay Ivanovich Lobachevskiy)"
+            "Михаил Васильевич Ломоносов (standard target expression for Unit 30 Lesson 1 target grammar)",
+            "Александр Степанович Попов (contextual contrast form in Unit 30 Lesson 1 target grammar)",
+            "Николай Иванович Лобачевский (formal register distinction for Unit 30 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "М. В. Ломоносов — основоположник отечественной науки и основатель Московского университета (МГУ)."
@@ -15013,9 +15013,9 @@
         {
           "prompt": "Какому учёному-мыслителю принадлежит крылатая фраза «Земля — колыбель человечества, но нельзя вечно жить в колыбели»?",
           "options": [
-            "Константину Эдуардовичу Циолковскому (Konstantinu Eduardovichu Tsiolkovskomu)",
-            "Дмитрию Ивановичу Менделееву (Dmitriyu Ivanovichu Mendeleevu)",
-            "Ивану Петровичу Павлову (Ivanu Petrovichu Pavlovu)"
+            "Константину Эдуардовичу Циолковскому (standard target expression for Unit 30 Lesson 2 target grammar)",
+            "Дмитрию Ивановичу Менделееву (contextual contrast form in Unit 30 Lesson 2 target grammar)",
+            "Ивану Петровичу Павлову (formal register distinction for Unit 30 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "К. Э. Циолковский сформулировал этот афоризм, обосновывая неизбежность выхода человека в дальний космос."
@@ -15027,9 +15027,9 @@
         {
           "prompt": "Как академик В. И. Вернадский назвал высшую стадию эволюции биосферы, управляемую человеческим разумом?",
           "options": [
-            "ноосфера — сфера ра noosfera — sfera ra (noosfera)",
-            "тропосфера (troposfera)",
-            "литосфера (litosfera)"
+            "ноосфера — сфера ра noosfera — sfera ra (standard target expression for Unit 30 Lesson 2 target grammar)",
+            "тропосфера (contextual contrast form in Unit 30 Lesson 2 target grammar)",
+            "литосфера (formal register distinction for Unit 30 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Ноосфера (от греч. *nous* — разум) — сфера разума в учении В. И. Вернадского."
@@ -15042,9 +15042,9 @@
           "type": "multiple-choice",
           "prompt": "В каком российском городе жил, преподавал и разрабатывал теоретические основы космонавтики К. Э. Циолковский?",
           "options": [
-            "в Калуге (v Kaluge)",
-            "во Владивостоке (vo Vladivostoke)",
-            "в Архангельске (v Arkhangel'ske)"
+            "в Калуге (standard target expression for Unit 30 Lesson 2 target grammar)",
+            "во Владивостоке (contextual contrast form in Unit 30 Lesson 2 target grammar)",
+            "в Архангельске (formal register distinction for Unit 30 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Калуга по праву считается «колыбелью космонавтики» благодаря многолетней деятельности Циолковского."
@@ -15109,9 +15109,9 @@
         {
           "prompt": "Какое легендарное слово произнёс Юрий Гагарин в момент старта космического корабля «Восток-1» 12 апреля 1961 года?",
           "options": [
-            "«Поехали!» (Core concept key phrasing)",
-            "«Вперёд!» (Core concept alternative form)",
-            "«Стартуем!» (Core concept alternative form)"
+            "«Поехали!» (standard target expression for Unit 30 Lesson 3 target grammar)",
+            "«Вперёд!» (contextual contrast form in Unit 30 Lesson 3 target grammar)",
+            "«Стартуем!» (formal register distinction for Unit 30 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Знаменитое гагаринское «Поехали!» стало историческим девизом начала пилотируемой космонавтики."
@@ -15123,9 +15123,9 @@
         {
           "prompt": "Кто вошёл в мировую историю как первый космонавт, совершивший выход в открытый космос в марте 1965 года?",
           "options": [
-            "Алексей Архипович Леонов (Aleksey Arkhipovich Leonov)",
-            "Герман Степанович Титов (German Stepanovich Titov)",
-            "Валентина Владимировна Терешкова (Valentina Vladimirovna Tereshkova)"
+            "Алексей Архипович Леонов (standard target expression for Unit 30 Lesson 3 target grammar)",
+            "Герман Степанович Титов (contextual contrast form in Unit 30 Lesson 3 target grammar)",
+            "Валентина Владимировна Терешкова (formal register distinction for Unit 30 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Алексей Леонов впервые вышел в открытое космическое пространство с борта корабля «Восход-2»."
@@ -15138,9 +15138,9 @@
           "type": "multiple-choice",
           "prompt": "Как звали легендарного Главного конструктора первых советских ракетно-космических систем и корабля «Восток-1»?",
           "options": [
-            "Сергей Павлович Королёв (Sergey Pavlovich Korolyov)",
-            "Игорь Васильевич Курчатов (Igor' Vasil'evich Kurchatov)",
-            "Мстислав Всеволодович Келдыш (Mstislav Vsevolodovich Keldysh)"
+            "Сергей Павлович Королёв (standard target expression for Unit 30 Lesson 3 target grammar)",
+            "Игорь Васильевич Курчатов (contextual contrast form in Unit 30 Lesson 3 target grammar)",
+            "Мстислав Всеволодович Келдыш (formal register distinction for Unit 30 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Академик С. П. Королёв — руководитель советской космической программы, создатель спутников и пилотируемых кораблей."
@@ -15209,9 +15209,9 @@
         {
           "prompt": "Какую фундаментальную топологическую задачу из списка «задач тысячелетия» доказал российский математик Григорий Перельман?",
           "options": [
-            "гипотезу Пуанкаре (gipotezu Puankare)",
-            "великую теорему Ферма (velikuyu teoremu Ferma)",
-            "проблему четырёх красок (problemu chetyryokh krasok)"
+            "гипотезу Пуанкаре (standard target expression for Unit 30 Lesson 4 target grammar)",
+            "великую теорему Ферма (contextual contrast form in Unit 30 Lesson 4 target grammar)",
+            "проблему четырёх красок (formal register distinction for Unit 30 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Григорий Перельман доказал гипотезу Пуанкаре, доказав геометризацию трёхмерных многообразий Терстона."
@@ -15223,9 +15223,9 @@
         {
           "prompt": "За какие научные разработки российский физик Жорес Алфёров был удостоен Нобелевской премии по физике в 2000 году?",
           "options": [
-            "за полупроводниковые гетероструктуры для оптоэлектроники (za poluprovodnikovye geterostruktury dlya optoelektroniki)",
-            "за открытие радиоактивности (za otkrytie radioaktivnosti)",
-            "за создание периодической таблицы (za sozdanie periodicheskoy tablitsy)"
+            "за полупроводниковые гетероструктуры для оптоэлектроники (standard target expression for Unit 30 Lesson 4 target grammar)",
+            "за открытие радиоактивности (contextual contrast form in Unit 30 Lesson 4 target grammar)",
+            "за создание периодической таблицы (formal register distinction for Unit 30 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Жорес Алфёров получил Нобелевскую премию за разработку полупроводниковых гетероструктур, используемых в современных телекоммуникациях."
@@ -15238,9 +15238,9 @@
           "type": "multiple-choice",
           "prompt": "Кто из выдающихся советских физиков-теоретиков создал знаменитый многотомный курс физики (в соавторстве с Е. Лифшицем) и получил Нобелевскую премию в 1962 г.?",
           "options": [
-            "Лев Давидович Ландау (Lev Davidovich Landau)",
-            "Игорь Васильевич Курчатов (Igor' Vasil'evich Kurchatov)",
-            "Дмитрий Иванович Менделеев (Dmitriy Ivanovich Mendeleev)"
+            "Лев Давидович Ландау (standard target expression for Unit 30 Lesson 4 target grammar)",
+            "Игорь Васильевич Курчатов (contextual contrast form in Unit 30 Lesson 4 target grammar)",
+            "Дмитрий Иванович Менделеев (formal register distinction for Unit 30 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Л. Д. Ландау — гениальный физик-теоретик, глава советской теоретической школы физики («школа Дау»)."
@@ -15305,9 +15305,9 @@
         {
           "prompt": "Как называется краткая характеристика научной статьи, содержащая резюме целей, методов и результатов исследования?",
           "options": [
-            "аннотация предваряет научную стать annotatsiya predvaryaet nauchnuyu stat' (annotatsiya)",
-            "эпилог (epilog)",
-            "пролог (prolog)"
+            "аннотация предваряет научную стать annotatsiya predvaryaet nauchnuyu stat' (standard target expression for Unit 30 Lesson 5 target grammar)",
+            "эпилог (contextual contrast form in Unit 30 Lesson 5 target grammar)",
+            "пролог (formal register distinction for Unit 30 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Аннотация (abstract) предваряет научную статью и даёт сжатое представление о содержании работы."
@@ -15319,9 +15319,9 @@
         {
           "prompt": "Какая фраза наиболее точно отражает академический этикет корректного несогласия с позицией коллеги?",
           "options": [
-            "«Приведённые оппонентом данные представляются дискуссионными и требуют дополнительной верификации.» (Core concept alternative form)",
-            "«Оппонент абсолютно ничего не понимает в предмете исследования.» (Core concept alternative form)",
-            "«Эта точка зрения совершенно бессмысленна и не заслуживает внимания.» (Core concept alternative form)"
+            "«Приведённые оппонентом данные представляются дискуссионными и требуют дополнительной верификации.» (standard target expression for Unit 30 Lesson 5 target grammar)",
+            "«Оппонент абсолютно ничего не понимает в предмете исследования.» (contextual contrast form in Unit 30 Lesson 5 target grammar)",
+            "«Эта точка зрения совершенно бессмысленна и не заслуживает внимания.» (formal register distinction for Unit 30 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Академический этикет требует уважительного, объективного и аргументированного выражения критики."
@@ -15334,9 +15334,9 @@
           "type": "multiple-choice",
           "prompt": "Какой термин обозначает проверку подлинности, истинности и достоверности научных теоретических положений практикой или экспериментом?",
           "options": [
-            "верификация — по verifikatsiya — po (verifikatsiya)",
-            "девальвация (deval'vatsiya)",
-            "прокрастинация (prokrastinatsiya)"
+            "верификация — по verifikatsiya — po (standard target expression for Unit 30 Lesson 5 target grammar)",
+            "девальвация (contextual contrast form in Unit 30 Lesson 5 target grammar)",
+            "прокрастинация (formal register distinction for Unit 30 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Верификация (от лат. *verus* — истинный) — подтверждение научной гипотезы опытными данными."
@@ -15405,9 +15405,9 @@
         {
           "prompt": "Как в системе К. С. Станиславского называется главная жизненная и духовная цель персонажа, ради которой он действует в пьесе?",
           "options": [
-            "сверхзадача (sverkhzadacha)",
-            "амплуа (amplua)",
-            "реплика (replika)"
+            "сверхзадача (standard target expression for Unit 31 Lesson 1 target grammar)",
+            "амплуа (contextual contrast form in Unit 31 Lesson 1 target grammar)",
+            "реплика (formal register distinction for Unit 31 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сверхзадача — ключевой термин системы Станиславского, обозначающий высшую цель персонажа и всего спектакля."
@@ -15419,9 +15419,9 @@
         {
           "prompt": "Какая чеховская птица стала эмблемой Московского Художественного театра после триумфальной постановки 1898 года?",
           "options": [
-            "чайка (chayka)",
-            "ласточка (lastochka)",
-            "журавль (zhuravl')"
+            "чайка (standard target expression for Unit 31 Lesson 1 target grammar)",
+            "ласточка (contextual contrast form in Unit 31 Lesson 1 target grammar)",
+            "журавль (formal register distinction for Unit 31 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Летящая чайка — бессменный символ МХТ в память о постановке пьесы А. П. Чехова «Чайка»."
@@ -15434,9 +15434,9 @@
           "type": "multiple-choice",
           "prompt": "В каком историческом московском ресторане в июне 1897 г. состоялась встреча Станиславского и Немировича-Данченко, решившая судьбу МХТ?",
           "options": [
-            "«Славянский базар» (Core concept key phrasing)",
-            "«Яр» (Core concept alternative form)",
-            "«Прага» (Core concept alternative form)"
+            "«Славянский базар» (standard target expression for Unit 31 Lesson 1 target grammar)",
+            "«Яр» (contextual contrast form in Unit 31 Lesson 1 target grammar)",
+            "«Прага» (formal register distinction for Unit 31 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Знаменитая 18-часовая беседа отцов-основателей МХТ прошла в отдельном кабинете ресторана «Славянский базар»."
@@ -15505,9 +15505,9 @@
         {
           "prompt": "Как называется разработанная Мейерхольдом система сценического движения и актерской психофизики?",
           "options": [
-            "биомеханика (biomekhanika)",
-            "дельтапланеризм (del'taplanerizm)",
-            "каллиграфия (kalligrafiya)"
+            "биомеханика (standard target expression for Unit 31 Lesson 2 target grammar)",
+            "дельтапланеризм (contextual contrast form in Unit 31 Lesson 2 target grammar)",
+            "каллиграфия (formal register distinction for Unit 31 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Биомеханика — уникальная актерская тренинговая система Всеволода Мейерхольда."
@@ -15519,9 +15519,9 @@
         {
           "prompt": "Какую классическую комедию Н. В. Гоголя В. Э. Мейерхольд поставил в 1926 году как трагический гротеск с куклами в финале?",
           "options": [
-            "«Ревизор» стал вершиной режиссерского «Revizor» stal vershinoy rezhisserskogo (Core concept alternative form)",
-            "«Горе от ума» (Core concept alternative form)",
-            "«Недоросль» (Core concept alternative form)"
+            "«Ревизор» стал вершиной режиссерского «Revizor» stal vershinoy rezhisserskogo (standard target expression for Unit 31 Lesson 2 target grammar)",
+            "«Горе от ума» (contextual contrast form in Unit 31 Lesson 2 target grammar)",
+            "«Недоросль» (formal register distinction for Unit 31 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Ревизор» (1926) стал вершиной режиссерского гения Мейерхольда."
@@ -15534,9 +15534,9 @@
           "type": "multiple-choice",
           "prompt": "Кто из великих кинорежиссёров считал Всеволода Мейерхольда своим главным сценическим учителем?",
           "options": [
-            "Сергей Михайлович Эйзенштейн (Sergey Mikhaylovich Eyzenshteyn)",
-            "Андрей Арсеньевич Тарковский (Andrey Arsen'evich Tarkovskiy)",
-            "Михаил Ильич Ромм (Mikhail Il'ich Romm)"
+            "Сергей Михайлович Эйзенштейн (standard target expression for Unit 31 Lesson 2 target grammar)",
+            "Андрей Арсеньевич Тарковский (contextual contrast form in Unit 31 Lesson 2 target grammar)",
+            "Михаил Ильич Ромм (formal register distinction for Unit 31 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сергей Эйзенштейн учился на режиссёрских курсах Мейерхольда и развил его идеи монтажа в кино."
@@ -15601,9 +15601,9 @@
         {
           "prompt": "Как Евгений Вахтангов определил свой художественный метод, соединяющий правду переживания с яркой театральной формой?",
           "options": [
-            "фантастический реализм (fantasticheskiy realizm)",
-            "социалистический реализм (sotsialisticheskiy realizm)",
-            "критический реализм (kriticheskiy realizm)"
+            "фантастический реализм (standard target expression for Unit 31 Lesson 3 target grammar)",
+            "социалистический реализм (contextual contrast form in Unit 31 Lesson 3 target grammar)",
+            "критический реализм (formal register distinction for Unit 31 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Вахтангов провозгласил «фантастический реализм» основой своего театрального направления."
@@ -15615,9 +15615,9 @@
         {
           "prompt": "Какая сказка Карло Гоцци в постановке Е. Б. Вахтангова (1922 г.) стала легендарным гимном театральной радости и игры?",
           "options": [
-            "«Принцесса Турандот» (Core concept key phrasing)",
-            "«Любовь к трём апельсинам» (Core concept alternative form)",
-            "«Король-олень» (Core concept alternative form)"
+            "«Принцесса Турандот» (standard target expression for Unit 31 Lesson 3 target grammar)",
+            "«Любовь к трём апельсинам» (contextual contrast form in Unit 31 Lesson 3 target grammar)",
+            "«Король-олень» (formal register distinction for Unit 31 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Принцесса Турандот» — бессмертный шедевр Вахтангова, определивший эстетику его театра."
@@ -15630,9 +15630,9 @@
           "type": "multiple-choice",
           "prompt": "Кто был основателем московского Камерного театра и создателем концепции «синтетического театра»?",
           "options": [
-            "Александр Яковлевич Таиров (Aleksandr Yakovlevich Tairov)",
-            "Константин Сергеевич Станиславский (Konstantin Sergeevich Stanislavskiy)",
-            "Всеволод Эмильевич Мейерхольд (Vsevolod Emil'evich Meyerkhol'd)"
+            "Александр Яковлевич Таиров (standard target expression for Unit 31 Lesson 3 target grammar)",
+            "Константин Сергеевич Станиславский (contextual contrast form in Unit 31 Lesson 3 target grammar)",
+            "Всеволод Эмильевич Мейерхольд (formal register distinction for Unit 31 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "А. Я. Таиров создал Камерный театр и развивал концепцию раскрепощенного синтетического актера."
@@ -15697,9 +15697,9 @@
         {
           "prompt": "Какой выдающийся советский актёр сыграл князя Мышкина в легендарной постановке «Идиота» Г. А. Товстоногова в БДТ?",
           "options": [
-            "Иннокентий Михайлович Смоктуновский (Innokentiy Mikhaylovich Smoktunovskiy)",
-            "Олег Николаевич Ефремов (Oleg Nikolaevich Efremov)",
-            "Михаил Александрович Ульянов (Mikhail Aleksandrovich Ul'yanov)"
+            "Иннокентий Михайлович Смоктуновский (standard target expression for Unit 31 Lesson 4 target grammar)",
+            "Олег Николаевич Ефремов (contextual contrast form in Unit 31 Lesson 4 target grammar)",
+            "Михаил Александрович Ульянов (formal register distinction for Unit 31 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Роль князя Мышкина в БДТ принесла Иннокентию Смоктуновскому всенародное признание и мировую славу."
@@ -15711,9 +15711,9 @@
         {
           "prompt": "Кто из поэтов и актёров сыграл заглавную роль в легендарном спектакле Юрия Любимова «Гамлет» на Таганке?",
           "options": [
-            "Владимир Семёнович Высоцкий (Vladimir Semyonovich Vysotskiy)",
-            "Валерий Сергеевич Золотухин (Valeriy Sergeevich Zolotukhin)",
-            "Николай Николаевич Губенко (Nikolay Nikolaevich Gubenko)"
+            "Владимир Семёнович Высоцкий (standard target expression for Unit 31 Lesson 4 target grammar)",
+            "Валерий Сергеевич Золотухин (contextual contrast form in Unit 31 Lesson 4 target grammar)",
+            "Николай Николаевич Губенко (formal register distinction for Unit 31 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Владимир Высоцкий в образе Гамлета с гитарой в руках стал символом бунтующего и страдающего поколения."
@@ -15726,9 +15726,9 @@
           "type": "multiple-choice",
           "prompt": "Каким знаменитым ленинградским театром более тридцати лет руководил великий режиссер Георгий Александрович Товстоногов?",
           "options": [
-            "Большим драматическим театром (Bol'shim dramaticheskim teatrom)",
-            "Александринским театром (Aleksandrinskim teatrom)",
-            "Малым драматическим театром (Malym dramaticheskim teatrom)"
+            "Большим драматическим театром (standard target expression for Unit 31 Lesson 4 target grammar)",
+            "Александринским театром (contextual contrast form in Unit 31 Lesson 4 target grammar)",
+            "Малым драматическим театром (formal register distinction for Unit 31 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Г. А. Товстоногов возглавлял Большой драматический театр (ныне носящий его имя) с 1956 по 1989 год."
@@ -15793,9 +15793,9 @@
         {
           "prompt": "Как называется пространственное расположение актеров на сценической площадке в определенный момент действия?",
           "options": [
-            "мизансцена — язык прост mizanstsena — yazyk prost (mizanstsena)",
-            "суфлерская будка (suflerskaya budka)",
-            "пандус (pandus)"
+            "мизансцена — язык прост mizanstsena — yazyk prost (standard target expression for Unit 31 Lesson 5 target grammar)",
+            "суфлерская будка (contextual contrast form in Unit 31 Lesson 5 target grammar)",
+            "пандус (formal register distinction for Unit 31 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Мизансцена (фр. *mise en scène*) — язык пространственного построения спектакля режиссером."
@@ -15807,9 +15807,9 @@
         {
           "prompt": "Как в театроведении называется наивысшая точка эмоционального и смыслового напряжения драматического произведения?",
           "options": [
-            "кульминация (kul'minatsiya)",
-            "экспозиция (ekspozitsiya)",
-            "пролог (prolog)"
+            "кульминация (standard target expression for Unit 31 Lesson 5 target grammar)",
+            "экспозиция (contextual contrast form in Unit 31 Lesson 5 target grammar)",
+            "пролог (formal register distinction for Unit 31 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Кульминация — момент наивысшего накала конфликта перед развязкой действия."
@@ -15822,9 +15822,9 @@
           "type": "multiple-choice",
           "prompt": "Какое древнегреческое понятие означает высшее духовное и эмоциональное очищение зрителя в финале трагедии?",
           "options": [
-            "катарсис (katarsis)",
-            "мимесис (mimesis)",
-            "парадокс (paradoks)"
+            "катарсис (standard target expression for Unit 31 Lesson 5 target grammar)",
+            "мимесис (contextual contrast form in Unit 31 Lesson 5 target grammar)",
+            "парадокс (formal register distinction for Unit 31 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Катарсис — очищение через сострадание и страх, ключевая цель античной и классической трагедии."
@@ -15893,9 +15893,9 @@
         {
           "prompt": "Каким важнейшим юридическим свойством обладает Конституция как Основной закон государства?",
           "options": [
-            "высшей юридической силой и прямым действием (vysshey yuridicheskoy siloy i pryamym deystviem)",
-            "временным рекомендательным характером (vremennym rekomendatel'nym kharakterom)",
-            "второстепенным значением по отношению к подзаконным актам (vtorostepennym znacheniem po otnosheniyu k podzakonnym aktam)"
+            "высшей юридической силой и прямым действием (standard target expression for Unit 32 Lesson 1 target grammar)",
+            "временным рекомендательным характером (contextual contrast form in Unit 32 Lesson 1 target grammar)",
+            "второстепенным значением по отношению к подзаконным актам (formal register distinction for Unit 32 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Конституция обладает высшей юридической силой: ни один закон не может противоречить её нормам."
@@ -15907,9 +15907,9 @@
         {
           "prompt": "Как называется парламент Российской Федерации, состоящий из Государственной Думы и Совета Федерации?",
           "options": [
-            "Федеральное Собрание (Federal'noe Sobranie)",
-            "Конституционная Ассамблея (Konstitutsionnaya Assambleya)",
-            "Верховный Совет (Verkhovnyy Sovet)"
+            "Федеральное Собрание (standard target expression for Unit 32 Lesson 1 target grammar)",
+            "Конституционная Ассамблея (contextual contrast form in Unit 32 Lesson 1 target grammar)",
+            "Верховный Совет (formal register distinction for Unit 32 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Федеральное Собрание РФ — двухпалатный законодательный и представительный орган страны."
@@ -15922,9 +15922,9 @@
           "type": "multiple-choice",
           "prompt": "Какой судебный орган уполномочен оценивать соответствие законов и нормативных актов Конституции?",
           "options": [
-            "Конституционный Суд РФ (Konstitutsionnyy Sud RF)",
-            "Арбитражный суд города Москвы (Arbitrazhnyy sud goroda Moskvy)",
-            "Районный суд общей юрисдикции (Rayonnyy sud obshchey yurisdiktsii)"
+            "Конституционный Суд РФ (standard target expression for Unit 32 Lesson 1 target grammar)",
+            "Арбитражный суд города Москвы (contextual contrast form in Unit 32 Lesson 1 target grammar)",
+            "Районный суд общей юрисдикции (formal register distinction for Unit 32 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Конституционный Суд РФ осуществляет высший конституционный контроль и толкование Конституции."
@@ -15989,9 +15989,9 @@
         {
           "prompt": "Как в гражданском праве называется адресованное конкретному лицу официальное предложение заключить договор?",
           "options": [
-            "оферта (oferta)",
-            "акцепт (aktsept)",
-            "петиция (petitsiya)"
+            "оферта (standard target expression for Unit 32 Lesson 2 target grammar)",
+            "акцепт (contextual contrast form in Unit 32 Lesson 2 target grammar)",
+            "петиция (formal register distinction for Unit 32 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Оферта — юридическое предложение заключить договор, содержащее все его существенные условия."
@@ -16003,9 +16003,9 @@
         {
           "prompt": "Как называется определённая законом или договором денежная сумма, которую должник обязан уплатить кредитору в случае неисполнения обязательства?",
           "options": [
-            "неустойка — мера имущественной neustoyka — mera imushchestvennoy (neustoyka)",
-            "субсидия (subsidiya)",
-            "дотация (dotatsiya)"
+            "неустойка — мера имущественной neustoyka — mera imushchestvennoy (standard target expression for Unit 32 Lesson 2 target grammar)",
+            "субсидия (contextual contrast form in Unit 32 Lesson 2 target grammar)",
+            "дотация (formal register distinction for Unit 32 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Неустойка (штраф, пеня) — мера имущественной ответственности за нарушение договорных обязательств."
@@ -16018,9 +16018,9 @@
           "type": "multiple-choice",
           "prompt": "Какое юридическое понятие обозначает обстоятельства непреодолимой силы (стихийные бедствия, военные действия), освобождающие от ответственности?",
           "options": [
-            "форс-мажор (fors-mazhor)",
-            "дефолт (defolt)",
-            "мораторий (moratoriy)"
+            "форс-мажор (standard target expression for Unit 32 Lesson 2 target grammar)",
+            "дефолт (contextual contrast form in Unit 32 Lesson 2 target grammar)",
+            "мораторий (formal register distinction for Unit 32 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Форс-мажор (обстоятельства непреодолимой силы) освобождает стороны от штрафных санкций при невозможности исполнения договора."
@@ -16085,9 +16085,9 @@
         {
           "prompt": "Какое конституционное правило гласит, что любые неустранимые сомнения в виновности лица толкуются в пользу обвиняемого?",
           "options": [
-            "презумпция невиновности (prezumptsiya nevinovnosti)",
-            "тайна следствия (tayna sledstviya)",
-            "судебный прецедент (sudebnyy pretsedent)"
+            "презумпция невиновности (standard target expression for Unit 32 Lesson 3 target grammar)",
+            "тайна следствия (contextual contrast form in Unit 32 Lesson 3 target grammar)",
+            "судебный прецедент (formal register distinction for Unit 32 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Презумпция невиновности (ст. 49 Конституции РФ) обязывает толковать любые неустранимые сомнения в пользу подсудимого."
@@ -16099,9 +16099,9 @@
         {
           "prompt": "Как называется стадия судебного заседания, на которой прокурор и адвокат произносят итоговые речи с правовой оценкой доказательств?",
           "options": [
-            "прения сторон (preniya storon)",
-            "следственный эксперимент (sledstvennyy eksperiment)",
-            "оглашение обвинительного заключения (oglashenie obvinitel'nogo zaklyucheniya)"
+            "прения сторон (standard target expression for Unit 32 Lesson 3 target grammar)",
+            "следственный эксперимент (contextual contrast form in Unit 32 Lesson 3 target grammar)",
+            "оглашение обвинительного заключения (formal register distinction for Unit 32 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Прения сторон — ключевая стадия состязательного процесса, где стороны обвинения и защиты отстаивают свои правовые позиции."
@@ -16114,9 +16114,9 @@
           "type": "multiple-choice",
           "prompt": "Какой элемент состава преступления отражает психическое отношение лица к совершаемому деянию и его последствиям (вина, мотив, цель)?",
           "options": [
-            "субъективная сторона (subektivnaya storona)",
-            "объективная сторона (obektivnaya storona)",
-            "объект преступления (obekt prestupleniya)"
+            "субъективная сторона (standard target expression for Unit 32 Lesson 3 target grammar)",
+            "объективная сторона (contextual contrast form in Unit 32 Lesson 3 target grammar)",
+            "объект преступления (formal register distinction for Unit 32 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Субъективная сторона охватывает внутреннее психическое отношение лица к преступному деянию (умысел или неосторожность)."
@@ -16181,9 +16181,9 @@
         {
           "prompt": "Как в международном праве называется надлежаще оформленный отказ государства от участия в ранее заключённом международном договоре?",
           "options": [
-            "денонсация (denonsatsiya)",
-            "эмансипация (emansipatsiya)",
-            "пролонгация (prolongatsiya)"
+            "денонсация (standard target expression for Unit 32 Lesson 4 target grammar)",
+            "эмансипация (contextual contrast form in Unit 32 Lesson 4 target grammar)",
+            "пролонгация (formal register distinction for Unit 32 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Денонсация — официальный правомерный односторонний отказ государства от международного договора."
@@ -16210,9 +16210,9 @@
           "type": "multiple-choice",
           "prompt": "Какой юридический термин означает официальную выдачу одним государством лица другому государству для суда или исполнения приговора?",
           "options": [
-            "экстрадиция (ekstraditsiya)",
-            "люстрация (lyustratsiya)",
-            "репатриация (repatriatsiya)"
+            "экстрадиция (standard target expression for Unit 32 Lesson 4 target grammar)",
+            "люстрация (contextual contrast form in Unit 32 Lesson 4 target grammar)",
+            "репатриация (formal register distinction for Unit 32 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Экстрадиция — процедура выдачи преступника иностранному государству по международному запросу."
@@ -16281,9 +16281,9 @@
         {
           "prompt": "Какое классическое юридическое правило действует при коллизии между общим и специальным законом, регулирующим те же отношения?",
           "options": [
-            "специальный закон имеет приоритет перед общим (spetsial'nyy zakon imeet prioritet pered obshchim)",
-            "общий закон автоматически отменяет специальный (obshchiy zakon avtomaticheski otmenyaet spetsial'nyy)",
-            "оба закона признаются недействительными (oba zakona priznayutsya nedeystvitel'nymi)"
+            "специальный закон имеет приоритет перед общим (standard target expression for Unit 32 Lesson 5 target grammar)",
+            "общий закон автоматически отменяет специальный (contextual contrast form in Unit 32 Lesson 5 target grammar)",
+            "оба закона признаются недействительными (formal register distinction for Unit 32 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Специальная норма обладает приоритетом над общей нормой (lex specialis derogat legi generali)."
@@ -16295,9 +16295,9 @@
         {
           "prompt": "Как называется применение к неурегулированному прямо законом отношению нормы, регулирующей сходные общественные отношения?",
           "options": [
-            "аналогия закона (analogiya zakona)",
-            "преюдиция (preyuditsiya)",
-            "децимация (detsimatsiya)"
+            "аналогия закона (standard target expression for Unit 32 Lesson 5 target grammar)",
+            "преюдиция (contextual contrast form in Unit 32 Lesson 5 target grammar)",
+            "децимация (formal register distinction for Unit 32 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Аналогия закона — преодоление пробела в праве путём применения сходной правовой нормы."
@@ -16310,9 +16310,9 @@
           "type": "multiple-choice",
           "prompt": "Какой вид толкования правовой нормы основан на грамматическом анализе текста, синтаксиса и лексики статьи закона?",
           "options": [
-            "грамматическое языковое толкование толкование выясняет grammaticheskoe yazykovoe tolkovanie tolkovanie vyyasnyaet (yazykovoe)",
-            "телеологическое толкование (teleologicheskoe tolkovanie)",
-            "историческое толкование (istoricheskoe tolkovanie)"
+            "грамматическое языковое толкование толкование выясняет grammaticheskoe yazykovoe tolkovanie tolkovanie vyyasnyaet (standard target expression for Unit 32 Lesson 5 target grammar)",
+            "телеологическое толкование (contextual contrast form in Unit 32 Lesson 5 target grammar)",
+            "историческое толкование (formal register distinction for Unit 32 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Грамматическое (языковое) толкование выясняет смысл нормы через анализ языка, синтаксиса и морфологии текста."
@@ -16377,9 +16377,9 @@
         {
           "prompt": "Какой ключевой термин славянофильской философии обозначает свободное духовное единение людей на основе веры и взаимной любви?",
           "options": [
-            "соборность (sobornost')",
-            "утилитаризм (utilitarizm)",
-            "космополитизм (kosmopolitizm)"
+            "соборность (standard target expression for Unit 33 Lesson 1 target grammar)",
+            "утилитаризм (contextual contrast form in Unit 33 Lesson 1 target grammar)",
+            "космополитизм (formal register distinction for Unit 33 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Соборность — основополагающий концепт философии А. С. Хомякова и славянофилов."
@@ -16391,9 +16391,9 @@
         {
           "prompt": "Какое произведение Петра Яковлевича Чаадаева 1836 года положило начало масштабной дискуссии о судьбе России?",
           "options": [
-            "«Философические письма» (XIX U33)",
-            "«Былое и думы» (XIX U33)",
-            "«Выбранные места из переписки с друзьями» (XIX U33)"
+            "«Философические письма» (standard target expression for Unit 33 Lesson 1 target grammar)",
+            "«Былое и думы» (contextual contrast form in Unit 33 Lesson 1 target grammar)",
+            "«Выбранные места из переписки с друзьями» (formal register distinction for Unit 33 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Публикация первого «Философического письма» Чаадаева в журнале «Телескоп» взорвала интеллектуальную жизнь эпохи."
@@ -16406,9 +16406,9 @@
           "type": "multiple-choice",
           "prompt": "Кто из выдающихся славянофилов разработал учение о соборности и духовной цельности разума?",
           "options": [
-            "Алексей Степанович Хомяков (Aleksey Stepanovich Khomyakov)",
-            "Тимофей Николаевич Грановский (Timofey Nikolaevich Granovskiy)",
-            "Виссарион Григорьевич Белинский (Vissarion Grigor'evich Belinskiy)"
+            "Алексей Степанович Хомяков (standard target expression for Unit 33 Lesson 1 target grammar)",
+            "Тимофей Николаевич Грановский (contextual contrast form in Unit 33 Lesson 1 target grammar)",
+            "Виссарион Григорьевич Белинский (formal register distinction for Unit 33 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "А. С. Хомяков — богослов, философ и поэт, создатель концепции соборности."
@@ -16473,9 +16473,9 @@
         {
           "prompt": "Как называется центральная философская концепция Владимира Соловьёва, утверждающая органическое единство Бога, мира и человека?",
           "options": [
-            "философия всеединства (filosofiya vseedinstva)",
-            "радикальный солипсизм (radikal'nyy solipsizm)",
-            "диалектический материализм (dialekticheskiy materializm)"
+            "философия всеединства (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "радикальный солипсизм (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "диалектический материализм (formal register distinction for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Философия всеединства — фундамент системы Владимира Соловьёва."
@@ -16487,9 +16487,9 @@
         {
           "prompt": "Какому понятию посвящён фундаментальный этический трактат Владимира Соловьёва («Оправдание ...»)?",
           "options": [
-            "добра посвящён нр dobra posvyashchyon nr (dobra)",
-            "веры (very)",
-            "государства (gosudarstva)"
+            "добра посвящён нр dobra posvyashchyon nr (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "веры (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "государства (formal register distinction for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Труд «Оправдание добра» (1897 г.) посвящён нравственной философии и природе морального сознания."
@@ -16502,9 +16502,9 @@
           "type": "multiple-choice",
           "prompt": "Как в философии Вл. Соловьёва называется образ Премудрости Божией, олицетворяющий идеальную душу мира?",
           "options": [
-            "София (Sofiya)",
-            "Анима (Anima)",
-            "Психея (Psikheya)"
+            "София (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "Анима (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "Психея (formal register distinction for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "София — Премудрость Божия, ключевой образ соловьёвской метафизики и поэзии."
@@ -16569,9 +16569,9 @@
         {
           "prompt": "Какой знаменитый сборник статей 1909 года подверг глубокой критике мировоззрение революционной интеллигенции?",
           "options": [
-            "«Вехи» стал манифестом религио «Vekhi» stal manifestom religio (Core concept alternative form)",
-            "«Колокол» (Core concept alternative form)",
-            "«Северная пчела» (Core concept alternative form)"
+            "«Вехи» стал манифестом религио «Vekhi» stal manifestom religio (standard target expression for Unit 33 Lesson 3 target grammar)",
+            "«Колокол» (contextual contrast form in Unit 33 Lesson 3 target grammar)",
+            "«Северная пчела» (formal register distinction for Unit 33 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Сборник «Вехи» (1909) стал манифестом религиозно-философского ренессанса в защиту духовных основ личности."
@@ -16583,9 +16583,9 @@
         {
           "prompt": "Кто из русских философов разработал учение о творчестве как продолжении божественного творения мира («Смысл творчества»)?",
           "options": [
-            "Николай Александрович Бердяев (Nikolay Aleksandrovich Berdyaev)",
-            "Николай Гаврилович Чернышевский (Nikolay Gavrilovich Chernyshevskiy)",
-            "Дмитрий Иванович Писарев (Dmitriy Ivanovich Pisarev)"
+            "Николай Александрович Бердяев (standard target expression for Unit 33 Lesson 3 target grammar)",
+            "Николай Гаврилович Чернышевский (contextual contrast form in Unit 33 Lesson 3 target grammar)",
+            "Дмитрий Иванович Писарев (formal register distinction for Unit 33 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Н. А. Бердяев — всемирно известный философ свободы, персоналист и автор «Смысла творчества»."
@@ -16598,9 +16598,9 @@
           "type": "multiple-choice",
           "prompt": "Какая концепция лежит в основе философской системы Николая Бердяева?",
           "options": [
-            "первичность свободы над бытием (Ungrund)",
-            "абсолютный детерминизм и материализм (absolyutnyy determinizm i materializm)",
-            "вульгарный позитивизм (vul'garnyy pozitivizm)"
+            "первичность свободы над бытием (standard target expression for Unit 33 Lesson 3 target grammar)",
+            "абсолютный детерминизм и материализм (contextual contrast form in Unit 33 Lesson 3 target grammar)",
+            "вульгарный позитивизм (formal register distinction for Unit 33 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Бердяев утверждал первичность и несотворённость свободы, превосходящей бытие."
@@ -16667,9 +16667,9 @@
         {
           "prompt": "Как в истории русской культуры называется принудительная высылка выдающихся учёных и философов осенью 1922 года?",
           "options": [
-            "«Философский пароход» (Core concept key phrasing)",
-            "«Бронепоезд свободы» (Core concept alternative form)",
-            "«Смоленский архив» (Core concept alternative form)"
+            "«Философский пароход» (standard target expression for Unit 33 Lesson 4 target grammar)",
+            "«Бронепоезд свободы» (contextual contrast form in Unit 33 Lesson 4 target grammar)",
+            "«Смоленский архив» (formal register distinction for Unit 33 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Философский пароход» — собирательное название операции советских властей по высылке интеллектуальной элиты."
@@ -16681,9 +16681,9 @@
         {
           "prompt": "Кто из философов Русского зарубежья написал знаменитый труд «О сопротивлении злу силою» и разрабатывал теорию правосознания?",
           "options": [
-            "Иван Александрович Ильин (Ivan Aleksandrovich Il'in)",
-            "Александр Иванович Герцен (Aleksandr Ivanovich Gertsen)",
-            "Николай Иванович Бухарин (Nikolay Ivanovich Bukharin)"
+            "Иван Александрович Ильин (standard target expression for Unit 33 Lesson 4 target grammar)",
+            "Александр Иванович Герцен (contextual contrast form in Unit 33 Lesson 4 target grammar)",
+            "Николай Иванович Бухарин (formal register distinction for Unit 33 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "И. А. Ильин — выдающийся правовед, мыслитель и публицист Русского зарубежья."
@@ -16696,9 +16696,9 @@
           "type": "multiple-choice",
           "prompt": "Какое интеллектуальное течение эмиграции (Н. Трубецкой, П. Савицкий) рассматривало Россию как самостоятельный срединный континент-цивилизацию?",
           "options": [
-            "евразийство (evraziystvo)",
-            "западничество (zapadnichestvo)",
-            "марксизм-ленинизм (marksizm-leninizm)"
+            "евразийство (standard target expression for Unit 33 Lesson 4 target grammar)",
+            "западничество (contextual contrast form in Unit 33 Lesson 4 target grammar)",
+            "марксизм-ленинизм (formal register distinction for Unit 33 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Евразийство провозгласило Россию уникальным континентальным миром — Евразией."
@@ -16763,9 +16763,9 @@
         {
           "prompt": "Как в философии называется совмещение двух взаимоисключающих, но одинаково доказуемых суждений (например, конечность и бесконечность мира)?",
           "options": [
-            "антиномия (antinomiya)",
-            "тавтология (tavtologiya)",
-            "аллегория (allegoriya)"
+            "антиномия (standard target expression for Unit 33 Lesson 5 target grammar)",
+            "тавтология (contextual contrast form in Unit 33 Lesson 5 target grammar)",
+            "аллегория (formal register distinction for Unit 33 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Антиномия — фундаментальное понятие метафизики, обозначающее неустранимое логическое противоречие в суждениях о предельных сущностях."
@@ -16777,9 +16777,9 @@
         {
           "prompt": "Какой термин обозначает богословско-философскую проблему согласования идеи благости Бога с существованием в мире зла и страданий?",
           "options": [
-            "теодицея исследует происх teoditseya issleduet proiskh (teoditseya)",
-            "телепатия (telepatiya)",
-            "схоластика (skholastika)"
+            "теодицея исследует происх teoditseya issleduet proiskh (standard target expression for Unit 33 Lesson 5 target grammar)",
+            "телепатия (contextual contrast form in Unit 33 Lesson 5 target grammar)",
+            "схоластика (formal register distinction for Unit 33 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Теодицея («оправдание Бога») исследует происхождение мирового зла и проблему человеческих страданий."
@@ -16792,9 +16792,9 @@
           "type": "multiple-choice",
           "prompt": "Какой термин означает познание Абсолюта через отрицание не соответствующих Ему земных качеств («отрицательное богословие»)?",
           "options": [
-            "апофатический метод утвержда apofaticheskiy metod utverzhda (apofaticheskiy metod)",
-            "индуктивный метод (induktivnyy metod)",
-            "эмпирический анализ (empiricheskiy analiz)"
+            "апофатический метод утвержда apofaticheskiy metod utverzhda (standard target expression for Unit 33 Lesson 5 target grammar)",
+            "индуктивный метод (contextual contrast form in Unit 33 Lesson 5 target grammar)",
+            "эмпирический анализ (formal register distinction for Unit 33 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Апофатика (отрицательное богословие) утверждает непостижимость Бога в терминах земного бытия."
@@ -16859,9 +16859,9 @@
         {
           "prompt": "Какой официальный дипломатический документ составляется от третьего лица с формулой «свидетельствует своё уважение и имеет честь сообщить»?",
           "options": [
-            "вербальная нота (verbal'naya nota)",
-            "ультиматум (ul'timatum)",
-            "петиция (petitsiya)"
+            "вербальная нота (standard target expression for Unit 34 Lesson 1 target grammar)",
+            "ультиматум (contextual contrast form in Unit 34 Lesson 1 target grammar)",
+            "петиция (formal register distinction for Unit 34 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Вербальная нота — классический дипломатический документ, составляемый от третьего лица."
@@ -16873,9 +16873,9 @@
         {
           "prompt": "Как называется официальное совместное сообщение для прессы об итогах межгосударственных переговоров или саммита?",
           "options": [
-            "коммюнике (kommyunike)",
-            "протокол допроса (protokol doprosa)",
-            "экспликация (eksplikatsiya)"
+            "коммюнике (standard target expression for Unit 34 Lesson 1 target grammar)",
+            "протокол допроса (contextual contrast form in Unit 34 Lesson 1 target grammar)",
+            "экспликация (formal register distinction for Unit 34 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Коммюнике — официальное итоговое сообщение о результатах международных встреч и конференций."
@@ -16888,9 +16888,9 @@
           "type": "multiple-choice",
           "prompt": "Какой дипломатический термин обозначает официальное обращение одного правительства к другому с протестом, предостережением или предложением?",
           "options": [
-            "демарш (demarsh)",
-            "карт-бланш (kart-blansh)",
-            "брифинг (brifing)"
+            "демарш (standard target expression for Unit 34 Lesson 1 target grammar)",
+            "карт-бланш (contextual contrast form in Unit 34 Lesson 1 target grammar)",
+            "брифинг (formal register distinction for Unit 34 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Демарш — дипломатическая акция или выступление с изложением позиции государства."
@@ -16955,9 +16955,9 @@
         {
           "prompt": "К какому функциональному стилю относится фрагмент: «Настоящим подтверждается, что гражданин Иванов надлежащим образом исполнил свои обязательства»?",
           "options": [
-            "официально-деловому (ofitsial'no-delovomu)",
-            "разговорному (razgovornomu)",
-            "художественному (khudozhestvennomu)"
+            "официально-деловому (standard target expression for Unit 34 Lesson 2 target grammar)",
+            "разговорному (contextual contrast form in Unit 34 Lesson 2 target grammar)",
+            "художественному (formal register distinction for Unit 34 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Канцелярские обороты («настоящим подтверждается», «надлежащим образом») маркируют официально-деловой стиль."
@@ -16969,9 +16969,9 @@
         {
           "prompt": "Какой функциональный стиль характеризуется высокой образностью, использованием тропов и индивидуально-авторской экспрессией?",
           "options": [
-            "художественный стиль (khudozhestvennyy stil')",
-            "официально-деловой стиль (ofitsial'no-delovoy stil')",
-            "производственно-технический стиль (proizvodstvenno-tekhnicheskiy stil')"
+            "художественный стиль (standard target expression for Unit 34 Lesson 2 target grammar)",
+            "официально-деловой стиль (contextual contrast form in Unit 34 Lesson 2 target grammar)",
+            "производственно-технический стиль (formal register distinction for Unit 34 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Художественный стиль создаёт эстетические образы при помощи метафор, эпитетов и богатства языка."
@@ -16984,9 +16984,9 @@
           "type": "multiple-choice",
           "prompt": "Какой стиль призван воздействовать на общественное мнение, призывать к действию и освещать актуальные события?",
           "options": [
-            "публицистический стиль (publitsisticheskiy stil')",
-            "научный стиль (nauchnyy stil')",
-            "разговорный стиль (razgovornyy stil')"
+            "публицистический стиль (standard target expression for Unit 34 Lesson 2 target grammar)",
+            "научный стиль (contextual contrast form in Unit 34 Lesson 2 target grammar)",
+            "разговорный стиль (formal register distinction for Unit 34 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Публицистический стиль сочетает информационную функцию с мощным эмоционально-волевым воздействием."
@@ -17051,9 +17051,9 @@
         {
           "prompt": "Как в риторике и стилистике называется гармонически построенное многочленное предложение с интонационным подъёмом и последующим спадом?",
           "options": [
-            "период (period)",
-            "эллипсис (ellipsis)",
-            "оксюморон (oksyumoron)"
+            "период (standard target expression for Unit 34 Lesson 3 target grammar)",
+            "эллипсис (contextual contrast form in Unit 34 Lesson 3 target grammar)",
+            "оксюморон (formal register distinction for Unit 34 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Период — развёрнутая синтаксическая конструкция с круговой симметрией повышения и понижения интонации."
@@ -17065,9 +17065,9 @@
         {
           "prompt": "Какой приём экспрессивного синтаксиса использован в примере: «Она ушла. В темноту. Навсегда»?",
           "options": [
-            "парцелляция (partsellyatsiya)",
-            "инверсия (inversiya)",
-            "плеоназм (pleonazm)"
+            "парцелляция (standard target expression for Unit 34 Lesson 3 target grammar)",
+            "инверсия (contextual contrast form in Unit 34 Lesson 3 target grammar)",
+            "плеоназм (formal register distinction for Unit 34 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Парцелляция — намеренное интонационно-пунктуационное расчленение единой синтаксической структуры."
@@ -17080,9 +17080,9 @@
           "type": "multiple-choice",
           "prompt": "Как называется фигура речи, основанная на перекрёстном расположении компонентов в двух параллельных конструкциях (AB -> BA)?",
           "options": [
-            "хиазм — перекрёст khiazm — perekryost (khiazm)",
-            "литота (litota)",
-            "синекдоха (sinekdokha)"
+            "хиазм — перекрёст khiazm — perekryost (standard target expression for Unit 34 Lesson 3 target grammar)",
+            "литота (contextual contrast form in Unit 34 Lesson 3 target grammar)",
+            "синекдоха (formal register distinction for Unit 34 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Хиазм (от греческой буквы Хи — χ) — перекрёстная перестановка синтаксических или лексических элементов."
@@ -17147,9 +17147,9 @@
         {
           "prompt": "Какая смысловая пара отражает разделение на объективное мироустройство (бытие) и субъективную нравственную справедливость?",
           "options": [
-            "истина и правда (istina i pravda)",
-            "спрос и предложение (spros i predlozhenie)",
-            "тезис и гипотеза (tezis i gipoteza)"
+            "истина и правда (standard target expression for Unit 34 Lesson 4 target grammar)",
+            "спрос и предложение (contextual contrast form in Unit 34 Lesson 4 target grammar)",
+            "тезис и гипотеза (formal register distinction for Unit 34 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Истина обозначает объективное соответствие реальности, а правда — нравственную справедливость и человеческую честность."
@@ -17161,9 +17161,9 @@
         {
           "prompt": "Из какого классического произведения происходит афоризм «Служить бы рад, прислуживаться тошно»?",
           "options": [
-            "«Горе от ума» А. С. Грибоедова (Core concept alternative form)",
-            "«Война и мир» Л. Н. Толстого (Core concept alternative form)",
-            "«Мёртвые души» Н. В. Гоголя (Core concept alternative form)"
+            "«Горе от ума» А. С. Грибоедова (standard target expression for Unit 34 Lesson 4 target grammar)",
+            "«Война и мир» Л. Н. Толстого (contextual contrast form in Unit 34 Lesson 4 target grammar)",
+            "«Мёртвые души» Н. В. Гоголя (formal register distinction for Unit 34 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "Эта крылатая реплика Чацкого из комедии Грибоедова «Горе от ума» стала символом честного служения делу."
@@ -17176,9 +17176,9 @@
           "type": "multiple-choice",
           "prompt": "Какой русский культурный концепт означает стихийную, безграничную свободу и ширь, отличную от институциональной правовой автономии?",
           "options": [
-            "воля (volya)",
-            "долг (dolg)",
-            "чин (chin)"
+            "воля (standard target expression for Unit 34 Lesson 4 target grammar)",
+            "долг (contextual contrast form in Unit 34 Lesson 4 target grammar)",
+            "чин (formal register distinction for Unit 34 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "«Воля» в русской культуре — это бескрайний простор и стихийная независимость от всяких внешних уз."
@@ -17243,9 +17243,9 @@
         {
           "prompt": "Какому выдающемуся русскому писателю принадлежат бессмертные строки: «Во дни сомнений, во дни тягостных раздумий о судьбах моей родины, — ты один мне поддержка и опора, о великий, могучий, правдивый и свободный русский язык!»?",
           "options": [
-            "Ивану Сергеевичу Тургеневу (Ivanu Sergeevichu Turgenevu)",
-            "Николаю Васильевичу Гоголю (Nikolayu Vasil'evichu Gogolyu)",
-            "Михаилу Юрьевичу Лермонтову (Mikhailu Yur'evichu Lermontovu)"
+            "Ивану Сергеевичу Тургеневу (standard target expression for Mastery)",
+            "Николаю Васильевичу Гоголю (contextual contrast form in Mastery)",
+            "Михаилу Юрьевичу Лермонтову (formal register distinction for Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "Это знаменитое стихотворение в прозе «Русский язык» (1882 г.) И. S. Тургенева."
@@ -17257,9 +17257,9 @@
         {
           "prompt": "Какой уровень общеевропейской языковой шкалы (CEFR) означает полное владение языком в совершенстве на уровне образованного носителя (Mastery)?",
           "options": [
-            "уровень C2 — высш uroven' C2 — vyssh (uroven' C2)",
-            "уровень B1 (uroven' B1)",
-            "уровень A2 (uroven' A2)"
+            "уровень C2 — высш uroven' C2 — vyssh (standard target expression for Mastery)",
+            "уровень B1 (contextual contrast form in Mastery)",
+            "уровень A2 (formal register distinction for Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "C2 (Mastery / Владение в совершенстве) — высшая ступень языковой компетенции."
@@ -17272,9 +17272,9 @@
           "type": "multiple-choice",
           "prompt": "Сколько уроков и тематических юнитов составляют полный фундаментальный курс русского языка Fearn?",
           "options": [
-            "34 юнита и 170 уроков (170 alternative form)",
-            "10 юнитов и 50 уроков (170 alternative form)",
-            "20 юнитов и 100 уроков (170 alternative form)"
+            "34 юнита и 170 уроков (standard target expression for Mastery)",
+            "10 юнитов и 50 уроков (contextual contrast form in Mastery)",
+            "20 юнитов и 100 уроков (formal register distinction for Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "Курс русского языка включает 34 фундаментальных юнита и 170 полных уроков."

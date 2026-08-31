@@ -514,10 +514,10 @@
         {
           "prompt": "【情境選擇】早上八時半喺大廈電梯遇到鄰居，最適當且自然嘅問候語係：",
           "options": [
-            "早晨呀 (zou2 san4)",
-            "再見 (zoi3 gin3 - goodbye)",
-            "多謝 (for gift/compliment)",
-            "唔緊要 (m4 gan2 jiu3 - no problem / never mind)"
+            "早晨呀 (standard target expression for Jyutping Initials   Morning Greetings)",
+            "再見 (contextual contrast form in Jyutping Initials   Morning Greetings)",
+            "多謝 (formal register distinction for Jyutping Initials   Morning Greetings)",
+            "唔緊要 (colloquial conversational usage for Jyutping Initials   Morning Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "早晨 (zou2 san4) 係粵語最標準正宗嘅晨早問候語。"
@@ -545,10 +545,10 @@
           "type": "multiple-choice",
           "prompt": "【禮貌規範】喺商務會議初次接見客戶時，最適當嘅日間問候語係：",
           "options": [
-            "你好 (nei5 hou2 - hello)",
-            "早晨 (zou2 san4 - good morning)",
-            "唔該 (for service)",
-            "拜拜 (baai1 baai3 - bye-bye)"
+            "你好 (standard target expression for Jyutping Initials   Morning Greetings)",
+            "早晨 (contextual contrast form in Jyutping Initials   Morning Greetings)",
+            "唔該 (formal register distinction for Jyutping Initials   Morning Greetings)",
+            "拜拜 (colloquial conversational usage for Jyutping Initials   Morning Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "「你好」（nei5 hou2）係初次見面最得體正式嘅敬語問候。"
@@ -596,10 +596,10 @@
         {
           "prompt": "【情境辨析】同事專程買咗杯熱咖啡請你飲作為鼓勵，你應對佢講：",
           "options": [
-            "多謝你 (for gift/kindness)",
-            "唔該借借 (m4 goi1 ze3 ze3 - Excuse me, please let me through)",
-            "早晨 (zou2 san4 - good morning)",
-            "對唔住 (deoi3 m4 zyu6 - sorry / excuse me)"
+            "多謝你 (standard target expression for Gratitude  m4 goi1 vs do1 ze6)",
+            "唔該借借 (contextual contrast form in Gratitude  m4 goi1 vs do1 ze6)",
+            "早晨 (formal register distinction for Gratitude  m4 goi1 vs do1 ze6)",
+            "對唔住 (colloquial conversational usage for Gratitude  m4 goi1 vs do1 ze6)"
           ],
           "answerIndex": 0,
           "explanation": "受人宴請或餽贈飲品，必須使用「多謝」表達謝意。"
@@ -611,10 +611,10 @@
         {
           "prompt": "【日常生活】搭乘地鐵準備落車，前方乘客阻擋出口，最適當嘅禮貌用語係：",
           "options": [
-            "唔該借借 (m4 goi1 ze3 ze3 - Excuse me, please let me through)",
-            "多謝借借 (do1 ze6 ze3 ze3 - Incorrect usage distractor)",
-            "拜拜 (baai1 baai3 - bye-bye)",
-            "好高興 (hou2 gou1 hing3 - Very pleased / Happy)"
+            "唔該借借 (standard target expression for Gratitude  m4 goi1 vs do1 ze6)",
+            "多謝借借 (contextual contrast form in Gratitude  m4 goi1 vs do1 ze6)",
+            "拜拜 (formal register distinction for Gratitude  m4 goi1 vs do1 ze6)",
+            "好高興 (colloquial conversational usage for Gratitude  m4 goi1 vs do1 ze6)"
           ],
           "answerIndex": 0,
           "explanation": "請求他人讓路或提供便利時，使用「唔該借借」（m4 goi1 ze3 ze3）。"
@@ -627,10 +627,10 @@
           "type": "multiple-choice",
           "prompt": "【語用判斷】以下邊種情境必須使用「唔該」而絕對不可使用「多謝」？",
           "options": [
-            "喺茶餐廳示意侍應添熱水或結帳 (uses m4 goi1)",
-            "婚宴上收取親友致贈嘅賀禮紅包 (uses do1 ze6)",
-            "生日聚會接過朋友送嘅香水禮盒 (uses do1 ze6)",
-            "被同事讚賞工作效率高超 (uses do1 ze6)"
+            "喺茶餐廳示意侍應添熱水或結帳 (standard target expression for Gratitude  m4 goi1 vs do1 ze6)",
+            "婚宴上收取親友致贈嘅賀禮紅包 (contextual contrast form in Gratitude  m4 goi1 vs do1 ze6)",
+            "生日聚會接過朋友送嘅香水禮盒 (formal register distinction for Gratitude  m4 goi1 vs do1 ze6)",
+            "被同事讚賞工作效率高超 (colloquial conversational usage for Gratitude  m4 goi1 vs do1 ze6)"
           ],
           "answerIndex": 0,
           "explanation": "指示或請求餐飲侍應服務，必須使用「唔該」。"
@@ -678,10 +678,10 @@
         {
           "prompt": "【音高辨析】粵語第2聲（陰上，如「史」si2、「好」hou2）嘅五度音高輪廓係：",
           "options": [
-            "高升調 35 (Tone 2, 35)",
-            "高平調 55 (Tone 1, 55)",
-            "低降調 21 (Tone 4, 21)",
-            "低平調 22 (Tone 6, 22)"
+            "高升調 35 (standard target expression for The Six Tones   Pitch Contours)",
+            "高平調 55 (contextual contrast form in The Six Tones   Pitch Contours)",
+            "低降調 21 (formal register distinction for The Six Tones   Pitch Contours)",
+            "低平調 22 (colloquial conversational usage for The Six Tones   Pitch Contours)"
           ],
           "answerIndex": 0,
           "explanation": "第2聲（陰上）由中音（3度）升至最高音（5度）。"
@@ -693,10 +693,10 @@
         {
           "prompt": "【詞義辨析】「買」（maai5）同「賣」（maai6）喺聲調與含義上嘅核心差別係：",
           "options": [
-            "「買」係第5聲 (Tone 5: buy)",
-            "「買」係第6聲 (Inverted tone distractor)",
-            "兩者皆為第1聲且意思完全相同 (Identical tone distractor)",
-            "「買」係名詞，「賣」係形容詞 (Grammar class distractor)"
+            "「買」係第5聲 (standard target expression for The Six Tones   Pitch Contours)",
+            "「買」係第6聲 (contextual contrast form in The Six Tones   Pitch Contours)",
+            "兩者皆為第1聲且意思完全相同 (formal register distinction for The Six Tones   Pitch Contours)",
+            "「買」係名詞，「賣」係形容詞 (colloquial conversational usage for The Six Tones   Pitch Contours)"
           ],
           "answerIndex": 0,
           "explanation": "「買」為第5聲（maai5，23低升），「賣」為第6聲（maai6，22低平）。"
@@ -709,10 +709,10 @@
           "type": "multiple-choice",
           "prompt": "【口訣驗證】以下邊句地道粵語名句嘅字音聲調嚴格按照第1聲至第6聲依序排列？",
           "options": [
-            "三碗細牛腩麵 (saam1 wun2 sai3 ngau4 naam5 min6 - Three small beef brisket noodles)",
-            "早晨李先生呀 (zou2 san4 lei5 sin1 saang1 aa3 - Good morning Mr. Lee)",
-            "唔該借借我過 (m4 goi1 ze3 ze3 ngo5 gwo3 - Excuse me, let me pass)",
-            "你好陳大文生 (nei5 hou2 can4 daai6 man4 saang1 - Unnatural word order distractor)"
+            "三碗細牛腩麵 (saam1 wun2 sai3 ngau4 naam5 min6 saːm˥, wuːn˧˥, sɐi˧, ŋɐu˨˩, naːm˨˧, miːn˨ SAHM WOON SYE NGAU NAHM MEEN — Three bowls of small beef brisket noodles Tone sequence 1-2-3-4-5-6)",
+            "早晨李先生呀 (contextual contrast form in The Six Tones   Pitch Contours)",
+            "唔該借借我過 (formal register distinction for The Six Tones   Pitch Contours)",
+            "你好陳大文生 (colloquial conversational usage for The Six Tones   Pitch Contours)"
           ],
           "answerIndex": 0,
           "explanation": "三(1) 碗(2) 細(3) 牛(4) 腩(5) 麵(6) 完美對應 1 至 6 聲。"
@@ -760,10 +760,10 @@
         {
           "prompt": "【日常下班】下班離開辦公室向同組同事告別，最自然地道嘅說法係：",
           "options": [
-            "我走先喇，聽日見！ (ngo5 zau2 sin1 laa3, ting1 jat6 gin3! - I am leaving first, see you tomorrow!)",
-            "早晨陳小姐！ (zou2 san4 can4 siu2 ze2! - Good morning Miss Chan!)",
-            "唔該埋單！ (m4 goi1 maai4 daan1! - Check please / Bill please!)",
-            "對唔住呀！ (deoi3 m4 zyu6 aa3! - I am sorry!)"
+            "我走先喇，聽日見！ (standard target expression for Farewells    Dak Haan Jam Caa)",
+            "早晨陳小姐！ (contextual contrast form in Farewells    Dak Haan Jam Caa)",
+            "唔該埋單！ (formal register distinction for Farewells    Dak Haan Jam Caa)",
+            "對唔住呀！ (colloquial conversational usage for Farewells    Dak Haan Jam Caa)"
           ],
           "answerIndex": 0,
           "explanation": "「我走先喇，聽日見！」係放工離場最地道親切嘅粵語告別語。"
@@ -775,10 +775,10 @@
         {
           "prompt": "【文化理解】友人離別時講「得閒飲茶啦」，最符合香港社交語用嘅真實意涵係：",
           "options": [
-            "表達友好掛念嘅告別客套，意為「保持聯絡、改天相聚 (Friendly farewell meaning \"keep in touch / let us meet again soon\")",
-            "要求你即刻預訂聽朝早茶位 (Literal booking distractor)",
-            "表示對你目前工作忙碌嘅嚴厲批評 (Criticism distractor)",
-            "要求你即刻替對方支付茶水費用 (Payment request distractor)"
+            "表達友好掛念嘅告別客套，意為「保持聯絡、改天相聚 (standard target expression for Farewells    Dak Haan Jam Caa)",
+            "要求你即刻預訂聽朝早茶位 (contextual contrast form in Farewells    Dak Haan Jam Caa)",
+            "表示對你目前工作忙碌嘅嚴厲批評 (formal register distinction for Farewells    Dak Haan Jam Caa)",
+            "要求你即刻替對方支付茶水費用 (colloquial conversational usage for Farewells    Dak Haan Jam Caa)"
           ],
           "answerIndex": 0,
           "explanation": "「得閒飲茶」係香港極具代表性嘅人情味客套道別語。"
@@ -791,10 +791,10 @@
           "type": "multiple-choice",
           "prompt": "【口語習慣】喺香港年輕同輩或朋友之間，最普遍使用嘅非正式告別語係：",
           "options": [
-            "拜拜 (baai1 baai3 - bye-bye)",
-            "貴姓 (gwai3 sing3 - Honorable surname)",
-            "請問 (ceng2 man6 - excuse me, may I ask)",
-            "多謝 (for gift/compliment)"
+            "拜拜 (standard target expression for Farewells    Dak Haan Jam Caa)",
+            "貴姓 (contextual contrast form in Farewells    Dak Haan Jam Caa)",
+            "請問 (formal register distinction for Farewells    Dak Haan Jam Caa)",
+            "多謝 (colloquial conversational usage for Farewells    Dak Haan Jam Caa)"
           ],
           "answerIndex": 0,
           "explanation": "「拜拜」（baai1 baai3）喺香港日常社交中普及率最高。"
@@ -842,10 +842,10 @@
         {
           "prompt": "【商務拜訪】初次與客戶見面，最得體禮貌詢問對方姓名嘅句式係：",
           "options": [
-            "請問點稱呼？ (cing2 man6 dim2 cing1 fu1? - May I ask how to address you?)",
-            "你走先喇！ (nei5 zau2 sin1 laa3! - You go first!)",
-            "唔該借借！ (m4 goi1 ze3 ze3! - Excuse me please!)",
-            "多謝禮物！ (do1 ze6 lai5 mat6! - Thank you for the gift!)"
+            "請問點稱呼？ (standard target expression for Surnames  Titles   Polite Inquiries)",
+            "你走先喇！ (contextual contrast form in Surnames  Titles   Polite Inquiries)",
+            "唔該借借！ (formal register distinction for Surnames  Titles   Polite Inquiries)",
+            "多謝禮物！ (colloquial conversational usage for Surnames  Titles   Polite Inquiries)"
           ],
           "answerIndex": 0,
           "explanation": "「請問點稱呼？」係粵語詢問姓名最得體標準嘅敬語。"
@@ -857,10 +857,10 @@
         {
           "prompt": "【稱謂規範】向大家正式介紹「黃先生」時，正確嘅粵語詞序係：",
           "options": [
-            "黃先生 (wong4 sin1 saang1)",
-            "先生黃 (sin1 saang1 wong4 - Incorrect inverted title distractor)",
-            "黃多謝 (wong4 do1 ze6 - Incorrect title distractor)",
-            "黃早晨 (wong4 zou2 san4 - Incorrect title distractor)"
+            "黃先生 (standard target expression for Surnames  Titles   Polite Inquiries)",
+            "先生黃 (contextual contrast form in Surnames  Titles   Polite Inquiries)",
+            "黃多謝 (formal register distinction for Surnames  Titles   Polite Inquiries)",
+            "黃早晨 (colloquial conversational usage for Surnames  Titles   Polite Inquiries)"
           ],
           "answerIndex": 0,
           "explanation": "粵語稱謂嚴格遵循「姓氏在前、稱謂在後」：黃先生 (wong4 sin1 saang1)。"
@@ -873,10 +873,10 @@
           "type": "multiple-choice",
           "prompt": "【問答匹配】當對方禮貌詢問「請問點稱呼？」時，最適切自然嘅答覆係：",
           "options": [
-            "我姓李，叫我阿Ben得喇 (Core concept alternative form)",
-            "唔該晒你幫手搬枱 (m4 goi1 saai3 nei5 bong1 sau2 bun1 toi2 - Thank you so much for helping move the table)",
-            "聽日公司再見啦 (ting1 jat6 gung1 si1 zoi3 gin3 laa1 - See you at the company tomorrow)",
-            "得閒出嚟飲茶啦 (dak1 haan4 ceot1 lai4 jam2 caa4 laa1 - Let us go have dim sum / tea when free)"
+            "我姓李，叫我阿Ben得喇 (standard target expression for Surnames  Titles   Polite Inquiries)",
+            "唔該晒你幫手搬枱 (contextual contrast form in Surnames  Titles   Polite Inquiries)",
+            "聽日公司再見啦 (formal register distinction for Surnames  Titles   Polite Inquiries)",
+            "得閒出嚟飲茶啦 (colloquial conversational usage for Surnames  Titles   Polite Inquiries)"
           ],
           "answerIndex": 0,
           "explanation": "報出姓氏（我姓...）及慣用稱呼（叫我...得喇）係最標準完整嘅回應。"
@@ -924,10 +924,10 @@
         {
           "prompt": "【代詞替換】欲將「佢一個人去行街」改為複數「他們一起去逛街」，正確代詞係：",
           "options": [
-            "佢哋 (Core concept key phrasing)",
-            "我哋 (Core concept alternative form)",
-            "你哋 (Core concept alternative form)",
-            "大家 (Core concept alternative form)"
+            "佢哋 (standard target expression for Personal Pronouns   Plural Suffix dei6)",
+            "我哋 (contextual contrast form in Personal Pronouns   Plural Suffix dei6)",
+            "你哋 (formal register distinction for Personal Pronouns   Plural Suffix dei6)",
+            "大家 (colloquial conversational usage for Personal Pronouns   Plural Suffix dei6)"
           ],
           "answerIndex": 0,
           "explanation": "第三人稱複數「他們/她們」在粵語中為「佢哋」（keoi5 dei6）。"
@@ -939,10 +939,10 @@
         {
           "prompt": "【語法規則】關於粵語第三人稱單數代詞「佢」（keoi5），以下描述何者完全正確？",
           "options": [
-            "口語中不分性別，兼指男性、女性及事物 (Core concept alternative form)",
-            "僅專門指代女性 (Core concept alternative form)",
-            "僅專門指代男性 (Core concept alternative form)",
-            "只能指代非人類動物 (Core concept alternative form)"
+            "口語中不分性別，兼指男性、女性及事物 (standard target expression for Personal Pronouns   Plural Suffix dei6)",
+            "僅專門指代女性 (contextual contrast form in Personal Pronouns   Plural Suffix dei6)",
+            "僅專門指代男性 (formal register distinction for Personal Pronouns   Plural Suffix dei6)",
+            "只能指代非人類動物 (colloquial conversational usage for Personal Pronouns   Plural Suffix dei6)"
           ],
           "answerIndex": 0,
           "explanation": "粵語代詞「佢」在口語中兼表他、她、它，不分性別與物稱。"
@@ -955,10 +955,10 @@
           "type": "multiple-choice",
           "prompt": "【句子填空】「＿＿＿今晚一齊去銅鑼灣睇戲啦！」（提議我們大家一起去）應填入：",
           "options": [
-            "我哋 (Core concept key phrasing)",
-            "佢 (Core concept alternative form)",
-            "你 (Core concept alternative form)",
-            "佢哋 (Core concept alternative form)"
+            "我哋 (standard target expression for Personal Pronouns   Plural Suffix dei6)",
+            "佢 (contextual contrast form in Personal Pronouns   Plural Suffix dei6)",
+            "你 (formal register distinction for Personal Pronouns   Plural Suffix dei6)",
+            "佢哋 (colloquial conversational usage for Personal Pronouns   Plural Suffix dei6)"
           ],
           "answerIndex": 0,
           "explanation": "提議包含說話者自身之集體行動，應使用第一人稱複數「我哋」（ngo5 dei6）。"
@@ -1006,10 +1006,10 @@
         {
           "prompt": "【句型轉換】將肯定句「佢係我哋公司經理」改為否定句，正確表達係：",
           "options": [
-            "佢唔係我哋公司經理 (Core concept alternative form)",
-            "佢冇係我哋公司經理 (Core concept alternative form)",
-            "佢未係我哋公司經理 (Core concept alternative form)",
-            "佢咪係我哋公司經理 (Core concept alternative form)"
+            "佢唔係我哋公司經理 (standard target expression for The Copula hai6   Negation m4 hai6)",
+            "佢冇係我哋公司經理 (contextual contrast form in The Copula hai6   Negation m4 hai6)",
+            "佢未係我哋公司經理 (formal register distinction for The Copula hai6   Negation m4 hai6)",
+            "佢咪係我哋公司經理 (colloquial conversational usage for The Copula hai6   Negation m4 hai6)"
           ],
           "answerIndex": 0,
           "explanation": "否定動詞「係」必須使用「唔」，構成「唔係」（m4 hai6）。"
@@ -1021,10 +1021,10 @@
         {
           "prompt": "【語法辨析】喺「我＿＿＿日本人，我＿＿＿韓國人」中，表「不是...而是...」之正確詞語搭配係：",
           "options": [
-            "唔係……係…… (Core concept key phrasing)",
-            "冇……有…… (Core concept alternative form)",
-            "未……係…… (Core concept alternative form)",
-            "唔……都…… (Core concept alternative form)"
+            "唔係……係…… (standard target expression for The Copula hai6   Negation m4 hai6)",
+            "冇……有…… (contextual contrast form in The Copula hai6   Negation m4 hai6)",
+            "未……係…… (formal register distinction for The Copula hai6   Negation m4 hai6)",
+            "唔……都…… (colloquial conversational usage for The Copula hai6   Negation m4 hai6)"
           ],
           "answerIndex": 0,
           "explanation": "「唔係……係……」表達否定前者、肯定後者之判斷。"
@@ -1037,10 +1037,10 @@
           "type": "multiple-choice",
           "prompt": "【正誤判斷】以下邊句粵語判斷句嘅語法完全正確？",
           "options": [
-            "佢係一名經驗豐富嘅建築師 (Core concept alternative form)",
-            "佢冇係一名建築師 (Core concept alternative form)",
-            "佢係唔建築師 (Core concept alternative form)",
-            "佢建築師係唔 (Core concept alternative form)"
+            "佢係一名經驗豐富嘅建築師 (standard target expression for The Copula hai6   Negation m4 hai6)",
+            "佢冇係一名建築師 (contextual contrast form in The Copula hai6   Negation m4 hai6)",
+            "佢係唔建築師 (formal register distinction for The Copula hai6   Negation m4 hai6)",
+            "佢建築師係唔 (colloquial conversational usage for The Copula hai6   Negation m4 hai6)"
           ],
           "answerIndex": 0,
           "explanation": "「主語＋係＋名詞短語」係標準正確之粵語判斷句。"
@@ -1088,10 +1088,10 @@
         {
           "prompt": "【表達所有】欲表達「這是陳律師的公事包」，最道地之粵語句式係：",
           "options": [
-            "呢個係陳律師嘅公事包 (ge3 alternative form)",
-            "呢個係陳律師公事包嘅 (ge3 alternative form)",
-            "呢個陳律師係嘅公事包 (ge3 alternative form)",
-            "呢個公事包陳律師係嘅 (ge3 alternative form)"
+            "呢個係陳律師嘅公事包 (standard target expression for Possessive Particle ge3   Modifiers)",
+            "呢個係陳律師公事包嘅 (contextual contrast form in Possessive Particle ge3   Modifiers)",
+            "呢個陳律師係嘅公事包 (formal register distinction for Possessive Particle ge3   Modifiers)",
+            "呢個公事包陳律師係嘅 (colloquial conversational usage for Possessive Particle ge3   Modifiers)"
           ],
           "answerIndex": 0,
           "explanation": "領屬助詞「嘅」置於所有者與名詞之間：陳律師嘅公事包。"
@@ -1103,10 +1103,10 @@
         {
           "prompt": "【語法填空】「呢間餐廳有好多好食＿＿＿點心。」空格內應填入之結構助詞係：",
           "options": [
-            "嘅 (ge3 key phrasing)",
-            "哋 (ge3 alternative form)",
-            "喺 (ge3 alternative form)",
-            "晒 (ge3 alternative form)"
+            "嘅 (standard target expression for Possessive Particle ge3   Modifiers)",
+            "哋 (contextual contrast form in Possessive Particle ge3   Modifiers)",
+            "喺 (formal register distinction for Possessive Particle ge3   Modifiers)",
+            "晒 (colloquial conversational usage for Possessive Particle ge3   Modifiers)"
           ],
           "answerIndex": 0,
           "explanation": "形容詞修飾名詞（好食嘅點心）需使用定語標記「嘅」（ge3）。"
@@ -1119,10 +1119,10 @@
           "type": "multiple-choice",
           "prompt": "【語用語義】句子「呢部車係佢哋嘅」所表達之真實含義係：",
           "options": [
-            "這輛車是屬於他們的 (ge3 alternative form)",
-            "這輛車是他們駕駛的 (ge3 alternative form)",
-            "他們正在購買這輛車 (ge3 alternative form)",
-            "他們討厭這輛車 (ge3 alternative form)"
+            "這輛車是屬於他們的 (standard target expression for Possessive Particle ge3   Modifiers)",
+            "這輛車是他們駕駛的 (contextual contrast form in Possessive Particle ge3   Modifiers)",
+            "他們正在購買這輛車 (formal register distinction for Possessive Particle ge3   Modifiers)",
+            "他們討厭這輛車 (colloquial conversational usage for Possessive Particle ge3   Modifiers)"
           ],
           "answerIndex": 0,
           "explanation": "「代詞＋嘅」作謂語表所有權歸屬。"
@@ -1170,10 +1170,10 @@
         {
           "prompt": "【問句構造】欲以正反問句詢問對方「你今天去不去九龍塘」，正確句式係：",
           "options": [
-            "你今日去唔去九龍塘？ (Core concept alternative form)",
-            "你今日去九龍塘係唔？ (Core concept alternative form)",
-            "你今日去唔九龍塘？ (Core concept alternative form)",
-            "你今日係九龍塘去？ (Core concept alternative form)"
+            "你今日去唔去九龍塘？ (standard target expression for Questions  aa4       hai6 m4 hai6)",
+            "你今日去九龍塘係唔？ (contextual contrast form in Questions  aa4       hai6 m4 hai6)",
+            "你今日去唔九龍塘？ (formal register distinction for Questions  aa4       hai6 m4 hai6)",
+            "你今日係九龍塘去？ (colloquial conversational usage for Questions  aa4       hai6 m4 hai6)"
           ],
           "answerIndex": 0,
           "explanation": "正反問句將動詞正反重疊：「去唔去」（heoi3 m4 heoi3）。"
@@ -1185,10 +1185,10 @@
         {
           "prompt": "【語氣辨析】句末助詞「咩」（me1，如「佢唔知咩？」）帶有何種典型語氣色彩？",
           "options": [
-            "驚訝、反詰或難以置信之懷疑語氣 (Core concept alternative form)",
-            "極度恭敬之謙卑語氣 (Core concept alternative form)",
-            "冷淡命令之威嚴語氣 (Core concept alternative form)",
-            "歡欣慶祝之熱烈語氣 (Core concept alternative form)"
+            "驚訝、反詰或難以置信之懷疑語氣 (standard target expression for Questions  aa4       hai6 m4 hai6)",
+            "極度恭敬之謙卑語氣 (contextual contrast form in Questions  aa4       hai6 m4 hai6)",
+            "冷淡命令之威嚴語氣 (formal register distinction for Questions  aa4       hai6 m4 hai6)",
+            "歡欣慶祝之熱烈語氣 (colloquial conversational usage for Questions  aa4       hai6 m4 hai6)"
           ],
           "answerIndex": 0,
           "explanation": "「咩」（me1）常用於表示詫異、反問或不相信之語氣。"
@@ -1201,10 +1201,10 @@
           "type": "multiple-choice",
           "prompt": "【問答匹配】對問句「你係唔係陳大文先生？」之標準肯定與否定答覆分別為：",
           "options": [
-            "肯定：「係，我係」／ 否定：「唔係，我姓黃 (Core concept alternative form)",
-            "肯定：「好，我哋」／ 否定：「冇，我唔 (Core concept alternative form)",
-            "肯定：「有，我知」／ 否定：「未，我早 (Core concept alternative form)",
-            "肯定：「得，我去」／ 否定：「咪，我講 (Core concept alternative form)"
+            "肯定：「係，我係」／ 否定：「唔係，我姓黃 (standard target expression for Questions  aa4       hai6 m4 hai6)",
+            "肯定：「好，我哋」／ 否定：「冇，我唔 (contextual contrast form in Questions  aa4       hai6 m4 hai6)",
+            "肯定：「有，我知」／ 否定：「未，我早 (formal register distinction for Questions  aa4       hai6 m4 hai6)",
+            "肯定：「得，我去」／ 否定：「咪，我講 (colloquial conversational usage for Questions  aa4       hai6 m4 hai6)"
           ],
           "answerIndex": 0,
           "explanation": "回答判斷動詞問句時，肯定答「係」，否定答「唔係」。"
@@ -1252,10 +1252,10 @@
         {
           "prompt": "【問路表達】欲禮貌向路人詢問「請問巴士總站在哪裡？」，正確粵語句式係：",
           "options": [
-            "請問巴士總站喺邊度呀？ (ni1go2 alternative form)",
-            "請問巴士總站喺呢度呀？ (ni1go2 alternative form)",
-            "請問巴士總站喺嗰度呀？ (ni1go2 alternative form)",
-            "請問巴士總站係邊個呀？ (ni1go2 alternative form)"
+            "請問巴士總站喺邊度呀？ (standard target expression for Demonstratives  ni1 vs go2   Locations)",
+            "請問巴士總站喺呢度呀？ (contextual contrast form in Demonstratives  ni1 vs go2   Locations)",
+            "請問巴士總站喺嗰度呀？ (formal register distinction for Demonstratives  ni1 vs go2   Locations)",
+            "請問巴士總站係邊個呀？ (colloquial conversational usage for Demonstratives  ni1 vs go2   Locations)"
           ],
           "answerIndex": 0,
           "explanation": "詢問方位處所使用疑問代詞「邊度」（bin1 dou6）。"
@@ -1267,10 +1267,10 @@
         {
           "prompt": "【指示辨析】指著近處手中的文件說「這份文件很重要」，應使用之指示詞係：",
           "options": [
-            "呢份 (ni1go2 key phrasing)",
-            "嗰份 (ni1go2 alternative form)",
-            "邊份 (ni1go2 alternative form)",
-            "邊度 (ni1go2 alternative form)"
+            "呢份 (standard target expression for Demonstratives  ni1 vs go2   Locations)",
+            "嗰份 (contextual contrast form in Demonstratives  ni1 vs go2   Locations)",
+            "邊份 (formal register distinction for Demonstratives  ni1 vs go2   Locations)",
+            "邊度 (colloquial conversational usage for Demonstratives  ni1 vs go2   Locations)"
           ],
           "answerIndex": 0,
           "explanation": "近指量詞短語為「呢份」（ni1 fan6）。"
@@ -1283,10 +1283,10 @@
           "type": "multiple-choice",
           "prompt": "【空間對應】「呢度」對應「這裡」，「嗰度」對應「那裡」，則「邊度」對應之現代漢語詞彙係：",
           "options": [
-            "哪裡 / 何處 (ni1go2 alternative form)",
-            "這裡 (ni1go2 alternative form)",
-            "那裡 (ni1go2 alternative form)",
-            "到處 (ni1go2 alternative form)"
+            "哪裡 / 何處 (standard target expression for Demonstratives  ni1 vs go2   Locations)",
+            "這裡 (contextual contrast form in Demonstratives  ni1 vs go2   Locations)",
+            "那裡 (formal register distinction for Demonstratives  ni1 vs go2   Locations)",
+            "到處 (colloquial conversational usage for Demonstratives  ni1 vs go2   Locations)"
           ],
           "answerIndex": 0,
           "explanation": "「邊度」（bin1 dou6）為粵語處所疑問代詞，相當於「哪裡/何處」。"
@@ -1334,10 +1334,10 @@
         {
           "prompt": "【入聲辨析】以下邊一組數字在粵語中全部屬於入聲字（以 -p, -t, -k 收尾）？",
           "options": [
-            "一 (jat1 - one)",
-            "二 (ji6 - two / counting)",
-            "三 (saam1 - three)",
-            "兩 (loeng5 - two / quantity with classifier)"
+            "一 (standard target expression for Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "二 (contextual contrast form in Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "三 (formal register distinction for Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "兩 (colloquial conversational usage for Numbers 1 10   Checked Tone Finals  p   t   k)"
           ],
           "answerIndex": 0,
           "explanation": "一(-t)、六(-k)、七(-t)、八(-t)、十(-p) 均為入聲字。"
@@ -1349,10 +1349,10 @@
         {
           "prompt": "【語音細節】粵語「十」（sap6）嘅韻尾屬於邊種入聲塞音？",
           "options": [
-            "雙唇塞音 (p alternative form)",
-            "舌尖塞音 (p alternative form)",
-            "舌根塞音 (p alternative form)",
-            "雙唇鼻音 (p alternative form)"
+            "雙唇塞音 (standard target expression for Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "舌尖塞音 (contextual contrast form in Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "舌根塞音 (formal register distinction for Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "雙唇鼻音 (colloquial conversational usage for Numbers 1 10   Checked Tone Finals  p   t   k)"
           ],
           "answerIndex": 0,
           "explanation": "「十」（sap6）以雙唇閉塞音 [-p̚] 結尾。"
@@ -1365,10 +1365,10 @@
           "type": "multiple-choice",
           "prompt": "【文化音韻】廣東人喜愛數字「八」（baat3），主要因為其發音與邊個吉祥詞語諧音？",
           "options": [
-            "發 (p key phrasing)",
-            "生 (p alternative form)",
-            "福 (p alternative form)",
-            "吉 (p alternative form)"
+            "發 (standard target expression for Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "生 (contextual contrast form in Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "福 (formal register distinction for Numbers 1 10   Checked Tone Finals  p   t   k)",
+            "吉 (colloquial conversational usage for Numbers 1 10   Checked Tone Finals  p   t   k)"
           ],
           "answerIndex": 0,
           "explanation": "「八」（baat3）與「發」（faat3）同韻且音近，象徵發財興旺。"
@@ -1416,10 +1416,10 @@
         {
           "prompt": "【量詞搭配】欲表達「兩位朋友」，正確之粵語詞組係：",
           "options": [
-            "兩位朋友 (loeng5ji6 U3)",
-            "二位朋友 (loeng5ji6 U3)",
-            "雙位朋友 (loeng5ji6 U3)",
-            "個位朋友 (loeng5ji6 U3)"
+            "兩位朋友 (standard target expression for Hundreds  Thousands   ji6 vs loeng5)",
+            "二位朋友 (contextual contrast form in Hundreds  Thousands   ji6 vs loeng5)",
+            "雙位朋友 (formal register distinction for Hundreds  Thousands   ji6 vs loeng5)",
+            "個位朋友 (colloquial conversational usage for Hundreds  Thousands   ji6 vs loeng5)"
           ],
           "answerIndex": 0,
           "explanation": "量詞前表示數量「二」必須使用「兩」（loeng5）。"
@@ -1431,10 +1431,10 @@
         {
           "prompt": "【口語縮合】粵語日常生活中「廿蚊」所代表之具體金額係：",
           "options": [
-            "二十元 (loeng5ji6 U3)",
-            "十二元 (loeng5ji6 U3)",
-            "二百元 (loeng5ji6 U3)",
-            "兩千元 (loeng5ji6 U3)"
+            "二十元 (standard target expression for Hundreds  Thousands   ji6 vs loeng5)",
+            "十二元 (contextual contrast form in Hundreds  Thousands   ji6 vs loeng5)",
+            "二百元 (formal register distinction for Hundreds  Thousands   ji6 vs loeng5)",
+            "兩千元 (colloquial conversational usage for Hundreds  Thousands   ji6 vs loeng5)"
           ],
           "answerIndex": 0,
           "explanation": "「廿」（jaa6）係「二十」之合音字，「廿蚊」即二十元。"
@@ -1447,10 +1447,10 @@
           "type": "multiple-choice",
           "prompt": "【語法判斷】以下邊句句子在「二」與「兩」之使用上完全合乎粵語語法規範？",
           "options": [
-            "我今日喺書店買咗兩本書同兩支筆 (loeng5ji6 U3)",
-            "我今日喺書店買咗二本書同二支筆 (loeng5ji6 U3)",
-            "呢架巴士係第二兩架 (loeng5ji6 U3)",
-            "我有二個阿哥 (loeng5ji6 U3)"
+            "我今日喺書店買咗兩本書同兩支筆 (standard target expression for Hundreds  Thousands   ji6 vs loeng5)",
+            "我今日喺書店買咗二本書同二支筆 (contextual contrast form in Hundreds  Thousands   ji6 vs loeng5)",
+            "呢架巴士係第二兩架 (formal register distinction for Hundreds  Thousands   ji6 vs loeng5)",
+            "我有二個阿哥 (colloquial conversational usage for Hundreds  Thousands   ji6 vs loeng5)"
           ],
           "answerIndex": 0,
           "explanation": "修飾量詞「本」、「支」必須使用「兩」（兩本書、兩支筆）。"
@@ -1513,10 +1513,10 @@
         {
           "prompt": "【時間表達】欲表達「差十分鐘到八點」（即 7:50），最道地之粵語句式係：",
           "options": [
-            "差兩個字八點 (Core concept key phrasing)",
-            "差十分鐘八點 (Core concept alternative form)",
-            "八點差兩個字 (Core concept alternative form)",
-            "八點過兩個字 (Core concept alternative form)"
+            "差兩個字八點 (standard target expression for Telling Time  dim2  go3 zi6  bun3)",
+            "差十分鐘八點 (contextual contrast form in Telling Time  dim2  go3 zi6  bun3)",
+            "八點差兩個字 (formal register distinction for Telling Time  dim2  go3 zi6  bun3)",
+            "八點過兩個字 (colloquial conversational usage for Telling Time  dim2  go3 zi6  bun3)"
           ],
           "answerIndex": 0,
           "explanation": "「差兩個字八點」係表示 7:50 最地道之粵語說法。"
@@ -1580,10 +1580,10 @@
         {
           "prompt": "【詞彙對應】粵語口語中「聽日」（ting1 jat6）所指之時間係：",
           "options": [
-            "明天 (Core concept key phrasing)",
-            "昨天 (Core concept alternative form)",
-            "今天 (Core concept alternative form)",
-            "後天 (Core concept alternative form)"
+            "明天 (standard target expression for Days of the Week  Months   Time Adverbs)",
+            "昨天 (contextual contrast form in Days of the Week  Months   Time Adverbs)",
+            "今天 (formal register distinction for Days of the Week  Months   Time Adverbs)",
+            "後天 (colloquial conversational usage for Days of the Week  Months   Time Adverbs)"
           ],
           "answerIndex": 0,
           "explanation": "「聽日」（ting1 jat6）即現代標準漢語之「明天」。"
@@ -1595,10 +1595,10 @@
         {
           "prompt": "【日常對話】「琴晚」（kam4 maan5）在粵語中表達之真實時間係：",
           "options": [
-            "昨晚 (Core concept key phrasing)",
-            "今晚 (Core concept alternative form)",
-            "明晚 (Core concept alternative form)",
-            "後晚 (Core concept alternative form)"
+            "昨晚 (standard target expression for Days of the Week  Months   Time Adverbs)",
+            "今晚 (contextual contrast form in Days of the Week  Months   Time Adverbs)",
+            "明晚 (formal register distinction for Days of the Week  Months   Time Adverbs)",
+            "後晚 (colloquial conversational usage for Days of the Week  Months   Time Adverbs)"
           ],
           "answerIndex": 0,
           "explanation": "「琴晚 / 尋晚」（kam4 maan5）即「昨晚 / 昨天晚上」。"
@@ -1611,10 +1611,10 @@
           "type": "multiple-choice",
           "prompt": "【語境應用】同事問「你禮拜日有冇空？」，其中「禮拜日」意指：",
           "options": [
-            "星期日 (Core concept key phrasing)",
-            "星期一 (Core concept alternative form)",
-            "星期六 (Core concept alternative form)",
-            "工作日 (Core concept alternative form)"
+            "星期日 (standard target expression for Days of the Week  Months   Time Adverbs)",
+            "星期一 (contextual contrast form in Days of the Week  Months   Time Adverbs)",
+            "星期六 (formal register distinction for Days of the Week  Months   Time Adverbs)",
+            "工作日 (colloquial conversational usage for Days of the Week  Months   Time Adverbs)"
           ],
           "answerIndex": 0,
           "explanation": "「禮拜日」（lai5 baai3 jat6）即星期日。"
@@ -1662,10 +1662,10 @@
         {
           "prompt": "【商務約定】欲禮貌詢問合作方「您明天上午是否有空」，最得體之粵語句式係：",
           "options": [
-            "請問你聽朝得唔得閒？ (Core concept key phrasing)",
-            "你聽朝做乜嘢？ (Core concept alternative form)",
-            "你聽朝走先喇！ (Core concept alternative form)",
-            "你聽朝唔好意思！ (Core concept alternative form)"
+            "請問你聽朝得唔得閒？ (standard target expression for Making Appointments   Scheduling)",
+            "你聽朝做乜嘢？ (contextual contrast form in Making Appointments   Scheduling)",
+            "你聽朝走先喇！ (formal register distinction for Making Appointments   Scheduling)",
+            "你聽朝唔好意思！ (colloquial conversational usage for Making Appointments   Scheduling)"
           ],
           "answerIndex": 0,
           "explanation": "「請問你聽朝得唔得閒？」係商務與社交詢問時間最得體禮貌之句式。"
@@ -1677,10 +1677,10 @@
         {
           "prompt": "【敲定約定】雙方商定好會面時間地點後，表示「就這麼說定了」之經典成語句式係：",
           "options": [
-            "一言為定 (Core concept key phrasing)",
-            "得閒飲茶 (Core concept alternative form)",
-            "唔該借借 (Core concept alternative form)",
-            "早晨你好 (Core concept alternative form)"
+            "一言為定 (standard target expression for Making Appointments   Scheduling)",
+            "得閒飲茶 (contextual contrast form in Making Appointments   Scheduling)",
+            "唔該借借 (formal register distinction for Making Appointments   Scheduling)",
+            "早晨你好 (colloquial conversational usage for Making Appointments   Scheduling)"
           ],
           "answerIndex": 0,
           "explanation": "「一言為定」（jat1 jin4 wai4 ding6）表示雙方一致同意、敲定約定。"
@@ -1693,10 +1693,10 @@
           "type": "multiple-choice",
           "prompt": "【情境應對】若因突發事務需向朋友延遲會面十分鐘，最適當之地道說法係：",
           "options": [
-            "唔好意思，我有啲事，大概遲兩個字到 (Core concept alternative form)",
-            "多謝禮物，我走先喇 (Core concept alternative form)",
-            "早晨李先生，聽日見 (Core concept alternative form)",
-            "請問最近嘅洗手間喺邊度？ (Core concept alternative form)"
+            "唔好意思，我有啲事，大概遲兩個字到 (standard target expression for Making Appointments   Scheduling)",
+            "多謝禮物，我走先喇 (contextual contrast form in Making Appointments   Scheduling)",
+            "早晨李先生，聽日見 (formal register distinction for Making Appointments   Scheduling)",
+            "請問最近嘅洗手間喺邊度？ (colloquial conversational usage for Making Appointments   Scheduling)"
           ],
           "answerIndex": 0,
           "explanation": "「遲兩個字到」精確表達遲到 10 分鐘，並以「唔好意思」禮貌致歉。"
@@ -1744,10 +1744,10 @@
         {
           "prompt": "【量詞匹配】欲形容「一家茶餐廳」，最正宗道地之粵語量詞係：",
           "options": [
-            "一間茶餐廳 (Core concept alternative form)",
-            "一個茶餐廳 (Core concept alternative form)",
-            "一隻茶餐廳 (Core concept alternative form)",
-            "一條茶餐廳 (Core concept alternative form)"
+            "一間茶餐廳 (standard target expression for Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "一個茶餐廳 (contextual contrast form in Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "一隻茶餐廳 (formal register distinction for Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "一條茶餐廳 (colloquial conversational usage for Individual Classifiers  go3  zek3  tiu4  gaan1)"
           ],
           "answerIndex": 0,
           "explanation": "建築物、餐飲門店及機構必須使用量詞「間」（gaan1）。"
@@ -1759,10 +1759,10 @@
         {
           "prompt": "【器物搭配】粵語口語中稱呼「一隻水杯」，正確量詞搭配係：",
           "options": [
-            "一隻杯 (Core concept alternative form)",
-            "一個杯 (Core concept alternative form)",
-            "一條杯 (Core concept alternative form)",
-            "一間杯 (Core concept alternative form)"
+            "一隻杯 (standard target expression for Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "一個杯 (contextual contrast form in Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "一條杯 (formal register distinction for Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "一間杯 (colloquial conversational usage for Individual Classifiers  go3  zek3  tiu4  gaan1)"
           ],
           "answerIndex": 0,
           "explanation": "粵語中杯子、碟子等器皿習慣以「隻」（zek3）作量詞。"
@@ -1775,10 +1775,10 @@
           "type": "multiple-choice",
           "prompt": "【語法糾錯】以下邊句句子中之量詞搭配完全符合粵語語法規範？",
           "options": [
-            "街市嗰條鮮魚好新鮮，游嚟游去 (Core concept alternative form)",
-            "街市嗰間鮮魚好新鮮 (Core concept alternative form)",
-            "街市嗰隻褲好靚 (Core concept alternative form)",
-            "街市嗰條舖頭好大 (Core concept alternative form)"
+            "街市嗰條鮮魚好新鮮，游嚟游去 (standard target expression for Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "街市嗰間鮮魚好新鮮 (contextual contrast form in Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "街市嗰隻褲好靚 (formal register distinction for Individual Classifiers  go3  zek3  tiu4  gaan1)",
+            "街市嗰條舖頭好大 (colloquial conversational usage for Individual Classifiers  go3  zek3  tiu4  gaan1)"
           ],
           "answerIndex": 0,
           "explanation": "魚類使用量詞「條」（條魚）。"
@@ -1826,10 +1826,10 @@
         {
           "prompt": "【飲食點餐】在茶餐廳欲點一份熱奶茶，最正確之量詞係：",
           "options": [
-            "一杯熱奶茶 (Core concept alternative form)",
-            "一碗熱奶茶 (Core concept alternative form)",
-            "一碟熱奶茶 (Core concept alternative form)",
-            "一條熱奶茶 (Core concept alternative form)"
+            "一杯熱奶茶 (standard target expression for Container   Group Classifiers)",
+            "一碗熱奶茶 (contextual contrast form in Container   Group Classifiers)",
+            "一碟熱奶茶 (formal register distinction for Container   Group Classifiers)",
+            "一條熱奶茶 (colloquial conversational usage for Container   Group Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "杯裝液體飲品使用量詞「杯」（bui1）。"
@@ -1841,10 +1841,10 @@
         {
           "prompt": "【集合量詞】在香港麵包店購買「一打蛋撻」，其精確數量係：",
           "options": [
-            "十二個 (Core concept key phrasing)",
-            "六個 (Core concept alternative form)",
-            "十個 (Core concept alternative form)",
-            "二十個 (Core concept alternative form)"
+            "十二個 (standard target expression for Container   Group Classifiers)",
+            "六個 (contextual contrast form in Container   Group Classifiers)",
+            "十個 (formal register distinction for Container   Group Classifiers)",
+            "二十個 (colloquial conversational usage for Container   Group Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "「一打」（jat1 daa1）源自英語 'dozen'，即十二個。"
@@ -1857,10 +1857,10 @@
           "type": "multiple-choice",
           "prompt": "【語境點餐】以下邊組點餐語句之量詞搭配完全符合香港茶餐廳慣例？",
           "options": [
-            "一碗雲吞麵、一碟乾炒牛河、一杯凍檸茶 (Core concept alternative form)",
-            "一樽雲吞麵、一碗乾炒牛河、一條凍檸茶 (Core concept alternative form)",
-            "一隻雲吞麵、一條乾炒牛河、一碗凍檸茶 (Core concept alternative form)",
-            "一間雲吞麵、一對乾炒牛河、一打凍檸茶 (Core concept alternative form)"
+            "一碗雲吞麵、一碟乾炒牛河、一杯凍檸茶 (standard target expression for Container   Group Classifiers)",
+            "一樽雲吞麵、一碗乾炒牛河、一條凍檸茶 (contextual contrast form in Container   Group Classifiers)",
+            "一隻雲吞麵、一條乾炒牛河、一碗凍檸茶 (formal register distinction for Container   Group Classifiers)",
+            "一間雲吞麵、一對乾炒牛河、一打凍檸茶 (colloquial conversational usage for Container   Group Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "麵用「碗」，炒河粉用「碟」，冷飲用「杯」。"
@@ -1908,10 +1908,10 @@
         {
           "prompt": "【定指理解】句子「部電腦壞咗」中，「部電腦」所表達之真實語法涵義係：",
           "options": [
-            "特定的那部電腦壞了 掌握粵語量詞直接置於名詞前無數詞表達定指「這/那/該the」之重大語法特徵 (the U4)",
-            "世界上所有的電腦都壞了 (the U4)",
-            "某一部不知名的電腦 (the U4)",
-            "很多部電腦 (the U4)"
+            "特定的那部電腦壞了 掌握粵語量詞直接置於名詞前無數詞表達定指「這/那/該the」之重大語法特徵 (standard target expression for Classifier without Numeral as Definite Marker)",
+            "世界上所有的電腦都壞了 (contextual contrast form in Classifier without Numeral as Definite Marker)",
+            "某一部不知名的電腦 (formal register distinction for Classifier without Numeral as Definite Marker)",
+            "很多部電腦 (colloquial conversational usage for Classifier without Numeral as Definite Marker)"
           ],
           "answerIndex": 0,
           "explanation": "「量詞＋名詞」（部電腦）在粵語中具備明確之定指功能（The computer）。"
@@ -1923,10 +1923,10 @@
         {
           "prompt": "【語法造句】欲特指「剛才提到的那條街很熱鬧」，最簡練地道之粵語開頭係：",
           "options": [
-            "條街好熱鬧 (the U4)",
-            "一個街好熱鬧 (the U4)",
-            "街好熱鬧一個 (the U4)",
-            "熱鬧好條街 (the U4)"
+            "條街好熱鬧 (standard target expression for Classifier without Numeral as Definite Marker)",
+            "一個街好熱鬧 (contextual contrast form in Classifier without Numeral as Definite Marker)",
+            "街好熱鬧一個 (formal register distinction for Classifier without Numeral as Definite Marker)",
+            "熱鬧好條街 (colloquial conversational usage for Classifier without Numeral as Definite Marker)"
           ],
           "answerIndex": 0,
           "explanation": "以「條街」定指開頭，最為地道自然。"
@@ -1939,10 +1939,10 @@
           "type": "multiple-choice",
           "prompt": "【語法辨析】關於粵語「量詞＋名詞」（如「隻杯」、「間屋」）之結構功能，以下何者正確？",
           "options": [
-            "直接表達定指 (the U4)",
-            "只能表示疑問 (the U4)",
-            "只能表示否定 (the U4)",
-            "表示數量極大 (the U4)"
+            "直接表達定指 (standard target expression for Classifier without Numeral as Definite Marker)",
+            "只能表示疑問 (contextual contrast form in Classifier without Numeral as Definite Marker)",
+            "只能表示否定 (formal register distinction for Classifier without Numeral as Definite Marker)",
+            "表示數量極大 (colloquial conversational usage for Classifier without Numeral as Definite Marker)"
           ],
           "answerIndex": 0,
           "explanation": "粵語「量詞＋名詞」承擔定指（Definite Reference）功能。"
@@ -1990,10 +1990,10 @@
         {
           "prompt": "【買菜問價】在香港街市欲詢問番茄每斤價格，最地道之句式係：",
           "options": [
-            "請問番茄幾多錢一斤呀？ (Core concept alternative form)",
-            "請問番茄有冇一斤呀？ (Core concept alternative form)",
-            "請問番茄走先喇！ (Core concept alternative form)",
-            "請問番茄得閒飲茶！ (Core concept alternative form)"
+            "請問番茄幾多錢一斤呀？ (standard target expression for Market Shopping   Price Inquiries)",
+            "請問番茄有冇一斤呀？ (contextual contrast form in Market Shopping   Price Inquiries)",
+            "請問番茄走先喇！ (formal register distinction for Market Shopping   Price Inquiries)",
+            "請問番茄得閒飲茶！ (colloquial conversational usage for Market Shopping   Price Inquiries)"
           ],
           "answerIndex": 0,
           "explanation": "「幾多錢一斤」係標準地道之問價句式。"
@@ -2005,10 +2005,10 @@
         {
           "prompt": "【單位常識】香港傳統市場所稱之一「斤」（司馬斤），一斤等於幾多「兩」？",
           "options": [
-            "十六兩 (Core concept key phrasing)",
-            "十兩 (Core concept alternative form)",
-            "十二兩 (Core concept alternative form)",
-            "八兩 (Core concept key phrasing)"
+            "十六兩 (standard target expression for Market Shopping   Price Inquiries)",
+            "十兩 (contextual contrast form in Market Shopping   Price Inquiries)",
+            "十二兩 (formal register distinction for Market Shopping   Price Inquiries)",
+            "八兩 (colloquial conversational usage for Market Shopping   Price Inquiries)"
           ],
           "answerIndex": 0,
           "explanation": "香港司馬斤沿用十六兩制（半斤八兩）。"
@@ -2021,10 +2021,10 @@
           "type": "multiple-choice",
           "prompt": "【語境理解】菜檔標明「十蚊三棵」，欲買六棵菜需支付之金額為：",
           "options": [
-            "二十蚊 (Core concept key phrasing)",
-            "三十蚊 (Core concept alternative form)",
-            "十五蚊 (Core concept alternative form)",
-            "十蚊 (Core concept key phrasing)"
+            "二十蚊 (standard target expression for Market Shopping   Price Inquiries)",
+            "三十蚊 (contextual contrast form in Market Shopping   Price Inquiries)",
+            "十五蚊 (formal register distinction for Market Shopping   Price Inquiries)",
+            "十蚊 (colloquial conversational usage for Market Shopping   Price Inquiries)"
           ],
           "answerIndex": 0,
           "explanation": "十蚊三棵，六棵即兩份，共計二十蚊。"
@@ -2072,10 +2072,10 @@
         {
           "prompt": "【議價用語】在露天排檔買衣服，欲禮貌請求店主降價，最地道之句式係：",
           "options": [
-            "老細，平啲得唔得呀？ (Core concept alternative form)",
-            "老細，貴啲得唔得呀？ (Core concept alternative form)",
-            "老細，早晨你好！ (Core concept alternative form)",
-            "老細，我走先喇！ (Core concept alternative form)"
+            "老細，平啲得唔得呀？ (standard target expression for Bargaining   Discounts)",
+            "老細，貴啲得唔得呀？ (contextual contrast form in Bargaining   Discounts)",
+            "老細，早晨你好！ (formal register distinction for Bargaining   Discounts)",
+            "老細，我走先喇！ (colloquial conversational usage for Bargaining   Discounts)"
           ],
           "answerIndex": 0,
           "explanation": "「平啲得唔得呀？」（便宜點行不行？）係最經典之粵語議價句式。"
@@ -2087,10 +2087,10 @@
         {
           "prompt": "【折扣計算】商場櫥窗貼出「全場七折」，一件原價 100 蚊嘅襯衫折後售價係：",
           "options": [
-            "70 蚊 (Core concept key phrasing)",
-            "30 蚊 (Core concept alternative form)",
-            "17 蚊 (Core concept alternative form)",
-            "7 蚊 (Core concept alternative form)"
+            "70 蚊 (standard target expression for Bargaining   Discounts)",
+            "30 蚊 (contextual contrast form in Bargaining   Discounts)",
+            "17 蚊 (formal register distinction for Bargaining   Discounts)",
+            "7 蚊 (colloquial conversational usage for Bargaining   Discounts)"
           ],
           "answerIndex": 0,
           "explanation": "「七折」（cat1 zit3）即按原價 70% 支付，100 蚊 × 70% ＝ 70 蚊。"
@@ -2103,10 +2103,10 @@
           "type": "multiple-choice",
           "prompt": "【詞彙理解】在粵語中，形容一件商品「物超所值、極度划算」之專用形容詞係：",
           "options": [
-            "好抵 (Core concept alternative form)",
-            "好貴 (Core concept alternative form)",
-            "好慢 (Core concept alternative form)",
-            "好難 (Core concept alternative form)"
+            "好抵 (standard target expression for Bargaining   Discounts)",
+            "好貴 (contextual contrast form in Bargaining   Discounts)",
+            "好慢 (formal register distinction for Bargaining   Discounts)",
+            "好難 (colloquial conversational usage for Bargaining   Discounts)"
           ],
           "answerIndex": 0,
           "explanation": "「抵」（dai2 / 抵買）意為划算、性價比高。"
@@ -2154,10 +2154,10 @@
         {
           "prompt": "【語序造句】欲表達「我們在圖書館看書」，正確之粵語語序係：",
           "options": [
-            "我哋喺圖書館睇書 (hai2 U5)",
-            "我哋睇書喺圖書館 (hai2 U5)",
-            "喺圖書館我哋睇書係 (hai2 U5)",
-            "我哋圖書館喺睇書 (hai2 U5)"
+            "我哋喺圖書館睇書 (standard target expression for Location Preposition hai2   Word Order)",
+            "我哋睇書喺圖書館 (contextual contrast form in Location Preposition hai2   Word Order)",
+            "喺圖書館我哋睇書係 (formal register distinction for Location Preposition hai2   Word Order)",
+            "我哋圖書館喺睇書 (colloquial conversational usage for Location Preposition hai2   Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "「主語＋喺＋處所＋動詞短語」（我哋喺圖書館睇書）係標準粵語語序。"
@@ -2169,10 +2169,10 @@
         {
           "prompt": "【音義辨析】「佢＿＿＿香港人」與「佢＿＿＿香港住」，兩空格依序應填入之字詞係：",
           "options": [
-            "喺 (hai2 - to be at / location)",
-            "係 (hai6 - to be / identity)",
-            "去 (heoi3 - to go / movement)",
-            "有 (jau5 - to have / existence)"
+            "喺 (standard target expression for Location Preposition hai2   Word Order)",
+            "係 (contextual contrast form in Location Preposition hai2   Word Order)",
+            "去 (formal register distinction for Location Preposition hai2   Word Order)",
+            "有 (colloquial conversational usage for Location Preposition hai2   Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "前者為判斷身份（係香港人），後者為處所居住（喺香港住）。"
@@ -2185,10 +2185,10 @@
           "type": "multiple-choice",
           "prompt": "【語法正誤】以下邊句句子之處所介詞與語序完全正確？",
           "options": [
-            "陳生每日下晝都喺尖沙咀見客戶 (hai2 U5)",
-            "陳生每日下晝都係尖沙咀見客戶 (hai2 U5)",
-            "陳生每日見客戶尖沙咀喺 (hai2 U5)",
-            "陳生喺每日見客戶尖沙咀 (hai2 U5)"
+            "陳生每日下晝都喺尖沙咀見客戶 (standard target expression for Location Preposition hai2   Word Order)",
+            "陳生每日下晝都係尖沙咀見客戶 (contextual contrast form in Location Preposition hai2   Word Order)",
+            "陳生每日見客戶尖沙咀喺 (formal register distinction for Location Preposition hai2   Word Order)",
+            "陳生喺每日見客戶尖沙咀 (colloquial conversational usage for Location Preposition hai2   Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "「喺＋處所＋動詞短語」（喺尖沙咀見客戶）完全正確。"
@@ -2236,10 +2236,10 @@
         {
           "prompt": "【方位理解】「間咖啡舖喺書店隔離」所表達之具體方位關係係：",
           "options": [
-            "咖啡店在書店隔壁 / 緊挨著書店 (Core concept alternative form)",
-            "咖啡店在書店對面 (Core concept alternative form)",
-            "咖啡店在書店樓上 (Core concept alternative form)",
-            "咖啡店在書店裡面 (Core concept alternative form)"
+            "咖啡店在書店隔壁 / 緊挨著書店 (standard target expression for Location Questions   Spatial Relators)",
+            "咖啡店在書店對面 (contextual contrast form in Location Questions   Spatial Relators)",
+            "咖啡店在書店樓上 (formal register distinction for Location Questions   Spatial Relators)",
+            "咖啡店在書店裡面 (colloquial conversational usage for Location Questions   Spatial Relators)"
           ],
           "answerIndex": 0,
           "explanation": "「隔離」（gaak3 lei4）在粵語中意為「隔壁/相鄰」。"
@@ -2251,10 +2251,10 @@
         {
           "prompt": "【問路句式】欲向路人詢問「請問最近嘅地鐵站在哪裡」，正確之粵語表達係：",
           "options": [
-            "請問最近嘅地鐵站喺邊度呀？ (Core concept alternative form)",
-            "請問最近嘅地鐵站係邊個呀？ (Core concept alternative form)",
-            "請問最近嘅地鐵站有冇人呀？ (Core concept alternative form)",
-            "請問最近嘅地鐵站得唔得閒呀？ (Core concept alternative form)"
+            "請問最近嘅地鐵站喺邊度呀？ (standard target expression for Location Questions   Spatial Relators)",
+            "請問最近嘅地鐵站係邊個呀？ (contextual contrast form in Location Questions   Spatial Relators)",
+            "請問最近嘅地鐵站有冇人呀？ (formal register distinction for Location Questions   Spatial Relators)",
+            "請問最近嘅地鐵站得唔得閒呀？ (colloquial conversational usage for Location Questions   Spatial Relators)"
           ],
           "answerIndex": 0,
           "explanation": "詢問地點處所使用「喺邊度」（hai2 bin1 dou6）。"
@@ -2267,10 +2267,10 @@
           "type": "multiple-choice",
           "prompt": "【方位對應】與「入面」（裡面）語義完全相反之粵語方位詞係：",
           "options": [
-            "出面 (Core concept key phrasing)",
-            "上面 (Core concept alternative form)",
-            "下面 (Core concept alternative form)",
-            "後面 (Core concept alternative form)"
+            "出面 (standard target expression for Location Questions   Spatial Relators)",
+            "上面 (contextual contrast form in Location Questions   Spatial Relators)",
+            "下面 (formal register distinction for Location Questions   Spatial Relators)",
+            "後面 (colloquial conversational usage for Location Questions   Spatial Relators)"
           ],
           "answerIndex": 0,
           "explanation": "「出面」（外面）與「入面」（裡面）構成反義詞。"
@@ -2318,10 +2318,10 @@
         {
           "prompt": "【文化名詞】香港市民常將香港島百年雙層有軌電車親切暱稱為：",
           "options": [
-            "叮叮 (Core concept key phrasing)",
-            "小巴 (Core concept alternative form)",
-            "的士 (Core concept alternative form)",
-            "小輪 (Core concept alternative form)"
+            "叮叮 (standard target expression for Public Transport Collocations)",
+            "小巴 (contextual contrast form in Public Transport Collocations)",
+            "的士 (formal register distinction for Public Transport Collocations)",
+            "小輪 (colloquial conversational usage for Public Transport Collocations)"
           ],
           "answerIndex": 0,
           "explanation": "香港電車因鈴聲而被廣泛稱為「叮叮」（ding1 ding1）。"
@@ -2333,10 +2333,10 @@
         {
           "prompt": "【動賓搭配】欲表達「乘坐地下鐵路上班」，最地道之粵語詞組係：",
           "options": [
-            "搭地鐵返工 (Core concept alternative form)",
-            "行地鐵返工 (Core concept alternative form)",
-            "跑地鐵返工 (Core concept alternative form)",
-            "飛地鐵返工 (Core concept alternative form)"
+            "搭地鐵返工 (standard target expression for Public Transport Collocations)",
+            "行地鐵返工 (contextual contrast form in Public Transport Collocations)",
+            "跑地鐵返工 (formal register distinction for Public Transport Collocations)",
+            "飛地鐵返工 (colloquial conversational usage for Public Transport Collocations)"
           ],
           "answerIndex": 0,
           "explanation": "乘坐交通工具使用動詞「搭」（搭地鐵）。"
@@ -2349,10 +2349,10 @@
           "type": "multiple-choice",
           "prompt": "【交通辨析】以下邊種交通工具係橫渡維多利亞港之經典渡輪？",
           "options": [
-            "天星小輪 (Core concept key phrasing)",
-            "叮叮電車 (Core concept alternative form)",
-            "紅色小巴 (Core concept alternative form)",
-            "雙層巴士 (Core concept alternative form)"
+            "天星小輪 (standard target expression for Public Transport Collocations)",
+            "叮叮電車 (contextual contrast form in Public Transport Collocations)",
+            "紅色小巴 (formal register distinction for Public Transport Collocations)",
+            "雙層巴士 (colloquial conversational usage for Public Transport Collocations)"
           ],
           "answerIndex": 0,
           "explanation": "天星小輪係維多利亞港極具歷史文化底蘊之渡海輪船。"
@@ -2400,10 +2400,10 @@
         {
           "prompt": "【詞彙對應】粵語詞彙「放工」所對應之現代標準漢語係：",
           "options": [
-            "下班 (Core concept key phrasing)",
-            "上班 (Core concept key phrasing)",
-            "請假 (Core concept alternative form)",
-            "加班 (Core concept alternative form)"
+            "下班 (standard target expression for Daily Routine Verbs)",
+            "上班 (contextual contrast form in Daily Routine Verbs)",
+            "請假 (formal register distinction for Daily Routine Verbs)",
+            "加班 (colloquial conversational usage for Daily Routine Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "「放工」（fong3 gung1）即下班，相對應之「返工」（faan1 gung1）為上班。"
@@ -2415,10 +2415,10 @@
         {
           "prompt": "【日常問候】同事在中午時分向你打招呼「食晏未呀？」，其真實意圖係詢問：",
           "options": [
-            "吃午飯了嗎？ (Core concept alternative form)",
-            "起床了嗎？ (Core concept alternative form)",
-            "下班了嗎？ (Core concept alternative form)",
-            "睡覺了嗎？ (Core concept alternative form)"
+            "吃午飯了嗎？ (standard target expression for Daily Routine Verbs)",
+            "起床了嗎？ (contextual contrast form in Daily Routine Verbs)",
+            "下班了嗎？ (formal register distinction for Daily Routine Verbs)",
+            "睡覺了嗎？ (colloquial conversational usage for Daily Routine Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "「食晏」（sik6 aan3）專指吃午餐。"
@@ -2431,10 +2431,10 @@
           "type": "multiple-choice",
           "prompt": "【語法造句】以下邊句句子之日常作息表達完全符合粵語習慣？",
           "options": [
-            "我每晚十一點半瞓覺，聽朝七點起身 (Core concept alternative form)",
-            "我每晚十一點半起身，聽朝七點瞓覺 (Core concept alternative form)",
-            "我每晚十一點半放學返工 (Core concept alternative form)",
-            "我每晚十一點半食晏 (Core concept alternative form)"
+            "我每晚十一點半瞓覺，聽朝七點起身 (standard target expression for Daily Routine Verbs)",
+            "我每晚十一點半起身，聽朝七點瞓覺 (contextual contrast form in Daily Routine Verbs)",
+            "我每晚十一點半放學返工 (formal register distinction for Daily Routine Verbs)",
+            "我每晚十一點半食晏 (colloquial conversational usage for Daily Routine Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "夜晚睡覺（瞓覺）、明早起床（起身）邏輯與語法完全正確。"
@@ -2482,10 +2482,10 @@
         {
           "prompt": "【正反問句】在便利店詢問店員「請問有沒有熱咖啡」，最地道之句式係：",
           "options": [
-            "請問有冇熱咖啡呀？ (jau5mou5 U5)",
-            "請問是不是熱咖啡呀？ (jau5mou5 U5)",
-            "請問有沒有熱咖啡是？ (jau5mou5 U5)",
-            "請問熱咖啡有冇是？ (jau5mou5 U5)"
+            "請問有冇熱咖啡呀？ (standard target expression for Existential   Possessive   jau5 vs   mou5)",
+            "請問是不是熱咖啡呀？ (contextual contrast form in Existential   Possessive   jau5 vs   mou5)",
+            "請問有沒有熱咖啡是？ (formal register distinction for Existential   Possessive   jau5 vs   mou5)",
+            "請問熱咖啡有冇是？ (colloquial conversational usage for Existential   Possessive   jau5 vs   mou5)"
           ],
           "answerIndex": 0,
           "explanation": "「有冇」（jau5 mou5）係詢問有無最標準正宗之正反問構式。"
@@ -2497,10 +2497,10 @@
         {
           "prompt": "【語意否定】粵語獨特字「冇」（mou5）之核心語法功能係：",
           "options": [
-            "直接表達「沒有 / 未曾 (jau5mou5 U5)",
-            "表示「很多 (jau5mou5 U5)",
-            "表示「非常喜歡 (jau5mou5 U5)",
-            "表示「已經完成 (jau5mou5 U5)"
+            "直接表達「沒有 / 未曾 (standard target expression for Existential   Possessive   jau5 vs   mou5)",
+            "表示「很多 (contextual contrast form in Existential   Possessive   jau5 vs   mou5)",
+            "表示「非常喜歡 (formal register distinction for Existential   Possessive   jau5 vs   mou5)",
+            "表示「已經完成 (colloquial conversational usage for Existential   Possessive   jau5 vs   mou5)"
           ],
           "answerIndex": 0,
           "explanation": "「冇」（mou5）在粵語中專門表示「沒有」或否定過去動作。"
@@ -2513,10 +2513,10 @@
           "type": "multiple-choice",
           "prompt": "【問答匹配】對問句「你今日有冇帶八達通卡？」之標準否定答覆係：",
           "options": [
-            "我今日冇帶 (jau5mou5 U5)",
-            "我今日唔係 (jau5mou5 U5)",
-            "我今日唔得 (jau5mou5 U5)",
-            "我今日唔使 (jau5mou5 U5)"
+            "我今日冇帶 (standard target expression for Existential   Possessive   jau5 vs   mou5)",
+            "我今日唔係 (contextual contrast form in Existential   Possessive   jau5 vs   mou5)",
+            "我今日唔得 (formal register distinction for Existential   Possessive   jau5 vs   mou5)",
+            "我今日唔使 (colloquial conversational usage for Existential   Possessive   jau5 vs   mou5)"
           ],
           "answerIndex": 0,
           "explanation": "回答「有冇」問句時，否定答「冇」（冇帶）。"
@@ -2564,10 +2564,10 @@
         {
           "prompt": "【開茶用語】在茶樓入座被問及「飲咩茶」，欲點選菊花與普洱調配之混合茶，應回答：",
           "options": [
-            "唔該要菊普 (Core concept alternative form)",
-            "唔該要凍檸茶 (Core concept alternative form)",
-            "唔該要熱可樂 (Core concept alternative form)",
-            "唔該要蒸餾水 (Core concept alternative form)"
+            "唔該要菊普 (standard target expression for Yum Cha Culture   Tea Etiquette)",
+            "唔該要凍檸茶 (contextual contrast form in Yum Cha Culture   Tea Etiquette)",
+            "唔該要熱可樂 (formal register distinction for Yum Cha Culture   Tea Etiquette)",
+            "唔該要蒸餾水 (colloquial conversational usage for Yum Cha Culture   Tea Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "「菊普」（guk1 bou2）即菊花茶與普洱茶之經典調和。"
@@ -2579,10 +2579,10 @@
         {
           "prompt": "【茶樓禮儀】在茶樓如果茶壺需要加水，最地道得體之做法係：",
           "options": [
-            "將茶壺蓋揭開半搭在壺口邊 (Core concept alternative form)",
-            "大聲敲擊茶杯呼叫伙計 (Core concept alternative form)",
-            "自行拿著茶壺跑到廚房加水 (Core concept alternative form)",
-            "把茶壺倒扣在枱面上 (Core concept alternative form)"
+            "將茶壺蓋揭開半搭在壺口邊 (standard target expression for Yum Cha Culture   Tea Etiquette)",
+            "大聲敲擊茶杯呼叫伙計 (contextual contrast form in Yum Cha Culture   Tea Etiquette)",
+            "自行拿著茶壺跑到廚房加水 (formal register distinction for Yum Cha Culture   Tea Etiquette)",
+            "把茶壺倒扣在枱面上 (colloquial conversational usage for Yum Cha Culture   Tea Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "「揭開壺蓋」係粵港茶樓通用默契信號，侍應見到即會主動前來加熱水。"
@@ -2595,10 +2595,10 @@
           "type": "multiple-choice",
           "prompt": "【社交文化】他人為你斟茶時，用手指在枱面輕叩兩下（叩指禮）之寓意係：",
           "options": [
-            "表示感謝 (Core concept alternative form)",
-            "表示茶太燙 (Core concept alternative form)",
-            "表示茶不好喝 (Core concept alternative form)",
-            "要求更換茶杯 (Core concept alternative form)"
+            "表示感謝 (standard target expression for Yum Cha Culture   Tea Etiquette)",
+            "表示茶太燙 (contextual contrast form in Yum Cha Culture   Tea Etiquette)",
+            "表示茶不好喝 (formal register distinction for Yum Cha Culture   Tea Etiquette)",
+            "要求更換茶杯 (colloquial conversational usage for Yum Cha Culture   Tea Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "「叩指謝茶」（kau3 zi2 lai5）係嶺南飲茶文化中最高雅普及之感謝手勢。"
@@ -2646,10 +2646,10 @@
         {
           "prompt": "【點心搭配】以下邊一項屬於廣東傳統點心「四大天王」之一？",
           "options": [
-            "蝦餃 (Core concept key phrasing)",
-            "炸薯條 (Core concept alternative form)",
-            "漢堡包 (Core concept alternative form)",
-            "比薩餅 (Core concept alternative form)"
+            "蝦餃 (standard target expression for The Big Four Dim Sum   Ordering)",
+            "炸薯條 (contextual contrast form in The Big Four Dim Sum   Ordering)",
+            "漢堡包 (formal register distinction for The Big Four Dim Sum   Ordering)",
+            "比薩餅 (colloquial conversational usage for The Big Four Dim Sum   Ordering)"
           ],
           "answerIndex": 0,
           "explanation": "「蝦餃、燒賣、叉燒包、蛋撻」合稱點心四大天王。"
@@ -2661,10 +2661,10 @@
         {
           "prompt": "【點餐詞彙】在茶樓用餐中途欲加點幾道點心，應向伙計講：",
           "options": [
-            "伙計，唔該加單！ (Core concept alternative form)",
-            "伙計，唔該埋單！ (Core concept alternative form)",
-            "伙計，唔該早晨！ (Core concept alternative form)",
-            "伙計，唔該走先！ (Core concept alternative form)"
+            "伙計，唔該加單！ (standard target expression for The Big Four Dim Sum   Ordering)",
+            "伙計，唔該埋單！ (contextual contrast form in The Big Four Dim Sum   Ordering)",
+            "伙計，唔該早晨！ (formal register distinction for The Big Four Dim Sum   Ordering)",
+            "伙計，唔該走先！ (colloquial conversational usage for The Big Four Dim Sum   Ordering)"
           ],
           "answerIndex": 0,
           "explanation": "加點菜式稱為「加單」（gaa1 daan1），而「埋單」係結帳買單。"
@@ -2677,10 +2677,10 @@
           "type": "multiple-choice",
           "prompt": "【量詞點餐】欲點選兩份蒸籠點心燒賣，最地道之量詞搭配係：",
           "options": [
-            "兩籠燒賣 (Core concept alternative form)",
-            "兩部燒賣 (Core concept alternative form)",
-            "兩條燒賣 (Core concept alternative form)",
-            "兩間燒賣 (Core concept alternative form)"
+            "兩籠燒賣 (standard target expression for The Big Four Dim Sum   Ordering)",
+            "兩部燒賣 (contextual contrast form in The Big Four Dim Sum   Ordering)",
+            "兩條燒賣 (formal register distinction for The Big Four Dim Sum   Ordering)",
+            "兩間燒賣 (colloquial conversational usage for The Big Four Dim Sum   Ordering)"
           ],
           "answerIndex": 0,
           "explanation": "蒸籠點心使用量詞「籠」（lung4）。"
@@ -2728,10 +2728,10 @@
         {
           "prompt": "【特飲常識】港式特色飲品「鴛鴦」（jin1 joeng1）之主要原料配方係：",
           "options": [
-            "奶茶混合咖啡 (Core concept alternative form)",
-            "綠茶混合紅茶 (Core concept alternative form)",
-            "檸檬水混合可樂 (Core concept alternative form)",
-            "豆漿混合牛奶 (Core concept alternative form)"
+            "奶茶混合咖啡 (standard target expression for Cha Chaan Teng Lingo   Classics)",
+            "綠茶混合紅茶 (contextual contrast form in Cha Chaan Teng Lingo   Classics)",
+            "檸檬水混合可樂 (formal register distinction for Cha Chaan Teng Lingo   Classics)",
+            "豆漿混合牛奶 (colloquial conversational usage for Cha Chaan Teng Lingo   Classics)"
           ],
           "answerIndex": 0,
           "explanation": "「鴛鴦」係港式奶茶與咖啡按獨特比例調製而成之經典混搭飲品。"
@@ -2743,10 +2743,10 @@
         {
           "prompt": "【烘焙名產】「菠蘿油」（bo1 lo4 jau4）與普通「菠蘿包」之最大區別係：",
           "options": [
-            "中間夾入了一片厚切冰牛油 (Core concept alternative form)",
-            "裡面包了真正的菠蘿果肉 (Core concept alternative form)",
-            "麵包頂部塗上了朱古力醬 (Core concept alternative form)",
-            "麵包是用油炸熟的 (Core concept alternative form)"
+            "中間夾入了一片厚切冰牛油 (standard target expression for Cha Chaan Teng Lingo   Classics)",
+            "裡面包了真正的菠蘿果肉 (contextual contrast form in Cha Chaan Teng Lingo   Classics)",
+            "麵包頂部塗上了朱古力醬 (formal register distinction for Cha Chaan Teng Lingo   Classics)",
+            "麵包是用油炸熟的 (colloquial conversational usage for Cha Chaan Teng Lingo   Classics)"
           ],
           "answerIndex": 0,
           "explanation": "「菠蘿油」係在剛出爐之熱菠蘿包中橫切夾入厚切冰凍牛油（牛油遇熱半融）。"
@@ -2759,10 +2759,10 @@
           "type": "multiple-choice",
           "prompt": "【品味習慣】在香港茶餐廳飲「凍檸茶」時，顧客常拿茶匙做邊個動作以萃取檸檬汁？",
           "options": [
-            "篤檸檬 (Core concept key phrasing)",
-            "撈走檸檬扔掉 (Core concept alternative form)",
-            "把茶水倒進杯蓋 (Core concept alternative form)",
-            "加大量白開水 (Core concept alternative form)"
+            "篤檸檬 (standard target expression for Cha Chaan Teng Lingo   Classics)",
+            "撈走檸檬扔掉 (contextual contrast form in Cha Chaan Teng Lingo   Classics)",
+            "把茶水倒進杯蓋 (formal register distinction for Cha Chaan Teng Lingo   Classics)",
+            "加大量白開水 (colloquial conversational usage for Cha Chaan Teng Lingo   Classics)"
           ],
           "answerIndex": 0,
           "explanation": "「篤檸檬」（用茶匙反覆戳壓檸檬片）係港人釋放檸檬香氣酸味之經典習慣。"
@@ -2810,10 +2810,10 @@
         {
           "prompt": "【點餐術語】在茶餐廳點凍飲時，如果不想要加糖漿，應說：",
           "options": [
-            "走甜 (Core concept key phrasing)",
-            "多甜 (Core concept alternative form)",
-            "走冰 (Core concept alternative form)",
-            "烘底 (Core concept alternative form)"
+            "走甜 (standard target expression for Customization Jargon)",
+            "多甜 (contextual contrast form in Customization Jargon)",
+            "走冰 (formal register distinction for Customization Jargon)",
+            "烘底 (colloquial conversational usage for Customization Jargon)"
           ],
           "answerIndex": 0,
           "explanation": "「走甜」（zau2 tim4）即免糖、不放糖漿。"
@@ -2825,10 +2825,10 @@
         {
           "prompt": "【三文治術語】點餐時講「腿蛋治烘底」，其中「烘底」之意思係：",
           "options": [
-            "將三文治麵包在多士爐中烤脆 (Core concept alternative form)",
-            "切除麵包皮 (Core concept alternative form)",
-            "加多一隻煎蛋 (Core concept alternative form)",
-            "加大量番茄醬 (Core concept alternative form)"
+            "將三文治麵包在多士爐中烤脆 (standard target expression for Customization Jargon)",
+            "切除麵包皮 (contextual contrast form in Customization Jargon)",
+            "加多一隻煎蛋 (formal register distinction for Customization Jargon)",
+            "加大量番茄醬 (colloquial conversational usage for Customization Jargon)"
           ],
           "answerIndex": 0,
           "explanation": "「烘底」（hung3 dai2）指將吐司烘烤成多士。"
@@ -2841,10 +2841,10 @@
           "type": "multiple-choice",
           "prompt": "【飲食禁忌】顧客點雲吞麵時強調「走青」，廚師出餐時會排除以下邊種食材？",
           "options": [
-            "蔥花與芫荽 (Core concept key phrasing)",
-            "雲吞與蝦肉 (Core concept alternative form)",
-            "麵條與湯底 (Core concept alternative form)",
-            "大地魚乾 (Core concept alternative form)"
+            "蔥花與芫荽 (standard target expression for Customization Jargon)",
+            "雲吞與蝦肉 (contextual contrast form in Customization Jargon)",
+            "麵條與湯底 (formal register distinction for Customization Jargon)",
+            "大地魚乾 (colloquial conversational usage for Customization Jargon)"
           ],
           "answerIndex": 0,
           "explanation": "「青」（ceng1）指綠色調味料蔥花與芫荽，「走青」即不要蔥芫荽。"
@@ -2892,10 +2892,10 @@
         {
           "prompt": "【結帳用語】在香港食肆用餐完畢欲結帳付款，最地道核心之粵語說法係：",
           "options": [
-            "埋單 (Core concept key phrasing)",
-            "買菜 (Core concept alternative form)",
-            "加單 (Core concept alternative form)",
-            "開茶 (Core concept alternative form)"
+            "埋單 (standard target expression for Billing   Table Sharing)",
+            "買菜 (contextual contrast form in Billing   Table Sharing)",
+            "加單 (formal register distinction for Billing   Table Sharing)",
+            "開茶 (colloquial conversational usage for Billing   Table Sharing)"
           ],
           "answerIndex": 0,
           "explanation": "「埋單」（maai4 daan1）係粵語結帳之絕對通用詞。"
@@ -2907,10 +2907,10 @@
         {
           "prompt": "【就餐文化】在茶餐廳繁忙時間，侍應引導兩位互不認識之顧客同坐一張四人桌，此現象稱為：",
           "options": [
-            "搭枱 (Core concept key phrasing)",
-            "開枱 (Core concept alternative form)",
-            "拆枱 (Core concept alternative form)",
-            "擺枱 (Core concept alternative form)"
+            "搭枱 (standard target expression for Billing   Table Sharing)",
+            "開枱 (contextual contrast form in Billing   Table Sharing)",
+            "拆枱 (formal register distinction for Billing   Table Sharing)",
+            "擺枱 (colloquial conversational usage for Billing   Table Sharing)"
           ],
           "answerIndex": 0,
           "explanation": "「搭枱」（daap3 toi2）即與陌生人拼桌共用一張餐桌。"
@@ -2923,10 +2923,10 @@
           "type": "multiple-choice",
           "prompt": "【外賣俚語】在港式茶飲店點了一杯熱奶茶並打算邊走邊喝帶走，店員常稱之為：",
           "options": [
-            "行街 (Core concept key phrasing)",
-            "堂食 (Core concept alternative form)",
-            "坐低 (Core concept alternative form)",
-            "搭枱 (Core concept alternative form)"
+            "行街 (standard target expression for Billing   Table Sharing)",
+            "堂食 (contextual contrast form in Billing   Table Sharing)",
+            "坐低 (formal register distinction for Billing   Table Sharing)",
+            "搭枱 (colloquial conversational usage for Billing   Table Sharing)"
           ],
           "answerIndex": 0,
           "explanation": "飲品外帶邊行邊飲被俚俗稱為「行街」（如「熱奶茶行街」）。"
@@ -2974,10 +2974,10 @@
         {
           "prompt": "【語法造句】欲表達「我已經買了車票」，正確之粵語句子係：",
           "options": [
-            "我已經買咗車飛喇 (zo2 alternative form)",
-            "我已經買車飛咗喇 (zo2 alternative form)",
-            "我已經買車飛了 (zo2 alternative form)",
-            "我買咗車飛已經冇 (zo2 alternative form)"
+            "我已經買咗車飛喇 (standard target expression for Perfective Aspect ZO)",
+            "我已經買車飛咗喇 (contextual contrast form in Perfective Aspect ZO)",
+            "我已經買車飛了 (formal register distinction for Perfective Aspect ZO)",
+            "我買咗車飛已經冇 (colloquial conversational usage for Perfective Aspect ZO)"
           ],
           "answerIndex": 0,
           "explanation": "「咗」（zo2）必須緊跟在動詞「買」之後（買咗車飛）。"
@@ -2989,10 +2989,10 @@
         {
           "prompt": "【否定轉換】對問句「你簽咗份合約未？」，標準之否定回答係：",
           "options": [
-            "我仲未簽 (zo2 alternative form)",
-            "我冇簽咗 (zo2 alternative form)",
-            "我唔係簽咗 (zo2 alternative form)",
-            "我未簽咗 (zo2 alternative form)"
+            "我仲未簽 (standard target expression for Perfective Aspect ZO)",
+            "我冇簽咗 (contextual contrast form in Perfective Aspect ZO)",
+            "我唔係簽咗 (formal register distinction for Perfective Aspect ZO)",
+            "我未簽咗 (colloquial conversational usage for Perfective Aspect ZO)"
           ],
           "answerIndex": 0,
           "explanation": "否定完成貌使用「未 / 仲未」，同時必須去掉「咗」（仲未簽）。"
@@ -3005,10 +3005,10 @@
           "type": "multiple-choice",
           "prompt": "【語法辨析】關於粵語助詞「咗」（zo2）之用法，以下敘述何者完全正確？",
           "options": [
-            "必須緊隨動詞之後表示動作完成 (zo2 alternative form)",
-            "必須放在句末表示狀態改變 (zo2 alternative form)",
-            "可以用於否定句「冇＋動詞＋咗 (zo2 alternative form)",
-            "只能用於形容詞後面 (zo2 alternative form)"
+            "必須緊隨動詞之後表示動作完成 (standard target expression for Perfective Aspect ZO)",
+            "必須放在句末表示狀態改變 (contextual contrast form in Perfective Aspect ZO)",
+            "可以用於否定句「冇＋動詞＋咗 (formal register distinction for Perfective Aspect ZO)",
+            "只能用於形容詞後面 (colloquial conversational usage for Perfective Aspect ZO)"
           ],
           "answerIndex": 0,
           "explanation": "「咗」作為動態助詞，必須緊貼動詞後面。"
@@ -3056,10 +3056,10 @@
         {
           "prompt": "【進行時態】欲表達「他正在聽音樂」，最地道之粵語句子係：",
           "options": [
-            "佢聽緊音樂 (gan2 U7)",
-            "佢聽咗音樂 (gan2 U7)",
-            "佢聽過音樂 (gan2 U7)",
-            "佢聽住音樂喇 (gan2 U7)"
+            "佢聽緊音樂 (standard target expression for Progressive Aspect GAN)",
+            "佢聽咗音樂 (contextual contrast form in Progressive Aspect GAN)",
+            "佢聽過音樂 (formal register distinction for Progressive Aspect GAN)",
+            "佢聽住音樂喇 (colloquial conversational usage for Progressive Aspect GAN)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞＋緊」（聽緊）表示動作正在進行中。"
@@ -3071,10 +3071,10 @@
         {
           "prompt": "【語意理解】句子「我覆緊客戶電郵」表示之時間狀態係：",
           "options": [
-            "說話當下正在回覆客戶郵件 (gan2 U7)",
-            "昨天已經回覆完了客戶郵件 (gan2 U7)",
-            "從來沒有回覆過客戶郵件 (gan2 U7)",
-            "明天打算回覆客戶郵件 (gan2 U7)"
+            "說話當下正在回覆客戶郵件 (standard target expression for Progressive Aspect GAN)",
+            "昨天已經回覆完了客戶郵件 (contextual contrast form in Progressive Aspect GAN)",
+            "從來沒有回覆過客戶郵件 (formal register distinction for Progressive Aspect GAN)",
+            "明天打算回覆客戶郵件 (colloquial conversational usage for Progressive Aspect GAN)"
           ],
           "answerIndex": 0,
           "explanation": "「覆緊」（覆＋緊）精確標記當下正在進行之動作。"
@@ -3087,10 +3087,10 @@
           "type": "multiple-choice",
           "prompt": "【語句糾錯】在以下句子中，邊句正確運用「緊」表達「正在下雨」？",
           "options": [
-            "出面落緊雨 (gan2 U7)",
-            "出面緊落雨 (gan2 U7)",
-            "出面落雨緊 (gan2 U7)",
-            "出面緊雨落 (gan2 U7)"
+            "出面落緊雨 (standard target expression for Progressive Aspect GAN)",
+            "出面緊落雨 (contextual contrast form in Progressive Aspect GAN)",
+            "出面落雨緊 (formal register distinction for Progressive Aspect GAN)",
+            "出面緊雨落 (colloquial conversational usage for Progressive Aspect GAN)"
           ],
           "answerIndex": 0,
           "explanation": "「緊」必須緊貼動詞「落」（落緊雨）。"
@@ -3138,10 +3138,10 @@
         {
           "prompt": "【經歷表達】欲表達「我以前在英國住過兩年」，正確之粵語句子係：",
           "options": [
-            "我以前喺英國住過兩年 (gwo3 U7)",
-            "我以前喺英國住咗兩年喇 (gwo3 U7)",
-            "我以前喺英國住緊兩年 (gwo3 U7)",
-            "我以前喺英國住住兩年 (gwo3 U7)"
+            "我以前喺英國住過兩年 (standard target expression for Experiential Aspect GWO)",
+            "我以前喺英國住咗兩年喇 (contextual contrast form in Experiential Aspect GWO)",
+            "我以前喺英國住緊兩年 (formal register distinction for Experiential Aspect GWO)",
+            "我以前喺英國住住兩年 (colloquial conversational usage for Experiential Aspect GWO)"
           ],
           "answerIndex": 0,
           "explanation": "表達過去的人生經歷體驗使用經歷貌助詞「過」（住過兩年）。"
@@ -3153,10 +3153,10 @@
         {
           "prompt": "【從未經歷】欲表達「我從來沒有喝過絲襪奶茶」，最正宗之粵語說法係：",
           "options": [
-            "我從來未飲過絲襪奶茶 (gwo3 U7)",
-            "我從來冇飲咗絲襪奶茶 (gwo3 U7)",
-            "我從來唔飲緊絲襪奶茶 (gwo3 U7)",
-            "我從來未飲咗絲襪奶茶 (gwo3 U7)"
+            "我從來未飲過絲襪奶茶 (standard target expression for Experiential Aspect GWO)",
+            "我從來冇飲咗絲襪奶茶 (contextual contrast form in Experiential Aspect GWO)",
+            "我從來唔飲緊絲襪奶茶 (formal register distinction for Experiential Aspect GWO)",
+            "我從來未飲咗絲襪奶茶 (colloquial conversational usage for Experiential Aspect GWO)"
           ],
           "answerIndex": 0,
           "explanation": "「從來未＋動詞＋過」（從來未飲過）係否定經歷之標準構式。"
@@ -3169,10 +3169,10 @@
           "type": "multiple-choice",
           "prompt": "【時態區分】「我食咗藥」與「我食過嗰隻藥」之核心差異在於：",
           "options": [
-            "前者指剛才完成了吃藥動作，後者指過去曾有過吃那種藥的經歷 (gwo3 U7)",
-            "前者指正在吃藥，後者指將要吃藥 (gwo3 U7)",
-            "兩者意思完全相同沒有分別 (gwo3 U7)",
-            "前者指否定吃藥，後者指肯定吃藥 (gwo3 U7)"
+            "前者指剛才完成了吃藥動作，後者指過去曾有過吃那種藥的經歷 (standard target expression for Experiential Aspect GWO)",
+            "前者指正在吃藥，後者指將要吃藥 (contextual contrast form in Experiential Aspect GWO)",
+            "兩者意思完全相同沒有分別 (formal register distinction for Experiential Aspect GWO)",
+            "前者指否定吃藥，後者指肯定吃藥 (colloquial conversational usage for Experiential Aspect GWO)"
           ],
           "answerIndex": 0,
           "explanation": "「咗」標記具體事件之完成，「過」標記人生體驗經歷。"
@@ -3220,10 +3220,10 @@
         {
           "prompt": "【伴隨動作】欲表達「我們邊走邊談這件事」，最地道之粵語句子係：",
           "options": [
-            "我哋行住傾呢件事 (zyu6 U7)",
-            "我哋行咗傾呢件事 (zyu6 U7)",
-            "我哋行過傾呢件事 (zyu6 U7)",
-            "我哋行緊傾呢件事 (zyu6 U7)"
+            "我哋行住傾呢件事 (standard target expression for Continuous State ZYU)",
+            "我哋行咗傾呢件事 (contextual contrast form in Continuous State ZYU)",
+            "我哋行過傾呢件事 (formal register distinction for Continuous State ZYU)",
+            "我哋行緊傾呢件事 (colloquial conversational usage for Continuous State ZYU)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞1＋住＋動詞2」（行住傾）表示伴隨動作（邊走邊聊）。"
@@ -3235,10 +3235,10 @@
         {
           "prompt": "【祈使暫緩】朋友催促你離開，你希望對方「先別走，等我五分鐘」，應講：",
           "options": [
-            "唔好走住，等我五分鐘！ (zyu6 U7)",
-            "唔好走咗，等我五分鐘！ (zyu6 U7)",
-            "唔好走緊，等我五分鐘！ (zyu6 U7)",
-            "唔好走過，等我五分鐘！ (zyu6 U7)"
+            "唔好走住，等我五分鐘！ (standard target expression for Continuous State ZYU)",
+            "唔好走咗，等我五分鐘！ (contextual contrast form in Continuous State ZYU)",
+            "唔好走緊，等我五分鐘！ (formal register distinction for Continuous State ZYU)",
+            "唔好走過，等我五分鐘！ (colloquial conversational usage for Continuous State ZYU)"
           ],
           "answerIndex": 0,
           "explanation": "「唔好＋動詞＋住」（唔好走住）表示「先不要做某事 / 暫緩做某事」。"
@@ -3251,10 +3251,10 @@
           "type": "multiple-choice",
           "prompt": "【語法功能】助詞「住」（zyu6）在句子「你著住件衫」中承擔之核心語法功能係：",
           "options": [
-            "表示靜態穿著狀態之持續 (zyu6 U7)",
-            "表示動作已經結束 (zyu6 U7)",
-            "表示動作從未發生 (zyu6 U7)",
-            "表示將來計劃 (zyu6 U7)"
+            "表示靜態穿著狀態之持續 (standard target expression for Continuous State ZYU)",
+            "表示動作已經結束 (contextual contrast form in Continuous State ZYU)",
+            "表示動作從未發生 (formal register distinction for Continuous State ZYU)",
+            "表示將來計劃 (colloquial conversational usage for Continuous State ZYU)"
           ],
           "answerIndex": 0,
           "explanation": "「著住」表示穿著狀態之持續延續。"
@@ -3302,10 +3302,10 @@
         {
           "prompt": "【語境填空】「我＿＿＿（剛才）食＿＿＿（完成）午餐，依家＿＿＿（正在）寫＿＿＿（進行）報告」，應填入：",
           "options": [
-            "啱啱 …… 咗 …… 正喺度 …… 緊 (Core concept alternative form)",
-            "已經 …… 緊 …… 仲未 …… 咗 (Core concept alternative form)",
-            "從來 …… 過 …… 已經 …… 住 (Core concept alternative form)",
-            "正喺度 …… 住 …… 啱啱 …… 過 (Core concept alternative form)"
+            "啱啱 …… 咗 …… 正喺度 …… 緊 (standard target expression for Aspect Synthesis)",
+            "已經 …… 緊 …… 仲未 …… 咗 (contextual contrast form in Aspect Synthesis)",
+            "從來 …… 過 …… 已經 …… 住 (formal register distinction for Aspect Synthesis)",
+            "正喺度 …… 住 …… 啱啱 …… 過 (colloquial conversational usage for Aspect Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "「啱啱……咗」搭配完成貌，「正喺度……緊」搭配進行貌。"
@@ -3317,10 +3317,10 @@
         {
           "prompt": "【時體辨析】「你睇緊邊套戲？」詢問之焦點在於：",
           "options": [
-            "你當下正在觀看哪部電影 (Core concept alternative form)",
-            "你昨天看完了哪部電影 (Core concept alternative form)",
-            "你生平看過哪部電影 (Core concept alternative form)",
-            "你打算買哪部電影的票 (Core concept alternative form)"
+            "你當下正在觀看哪部電影 (standard target expression for Aspect Synthesis)",
+            "你昨天看完了哪部電影 (contextual contrast form in Aspect Synthesis)",
+            "你生平看過哪部電影 (formal register distinction for Aspect Synthesis)",
+            "你打算買哪部電影的票 (colloquial conversational usage for Aspect Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "「睇緊」標記正在進行之觀影動作。"
@@ -3333,10 +3333,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合判斷】以下四個句子中，邊句正確表達「我們邊喝茶邊聊天」？",
           "options": [
-            "我哋飲住茶傾偈 (Core concept alternative form)",
-            "我哋飲咗茶傾偈 (Core concept alternative form)",
-            "我哋飲過茶傾偈 (Core concept alternative form)",
-            "我哋飲緊茶傾咗偈 (Core concept alternative form)"
+            "我哋飲住茶傾偈 (standard target expression for Aspect Synthesis)",
+            "我哋飲咗茶傾偈 (contextual contrast form in Aspect Synthesis)",
+            "我哋飲過茶傾偈 (formal register distinction for Aspect Synthesis)",
+            "我哋飲緊茶傾咗偈 (colloquial conversational usage for Aspect Synthesis)"
           ],
           "answerIndex": 0,
           "explanation": "「飲住茶傾偈」（V1住＋V2）正確表達伴隨動作（邊喝茶邊聊天）。"
@@ -3384,10 +3384,10 @@
         {
           "prompt": "【方向指示】路人告訴你「喺前面紅綠燈位轉右」，你應該進行之動作係：",
           "options": [
-            "在前面的交通信號燈處向右轉 (Core concept alternative form)",
-            "在前面的交通信號燈處向左轉 (Core concept alternative form)",
-            "在前面的交通信號燈處往後退 (Core concept alternative form)",
-            "在前面的交通信號燈處停下不走 (Core concept alternative form)"
+            "在前面的交通信號燈處向右轉 (standard target expression for Asking Directions   Navigation Verbs)",
+            "在前面的交通信號燈處向左轉 (contextual contrast form in Asking Directions   Navigation Verbs)",
+            "在前面的交通信號燈處往後退 (formal register distinction for Asking Directions   Navigation Verbs)",
+            "在前面的交通信號燈處停下不走 (colloquial conversational usage for Asking Directions   Navigation Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "「轉右」（zyun3 jau6）即向右轉，「燈位」指紅綠燈處。"
@@ -3399,10 +3399,10 @@
         {
           "prompt": "【立體交通】欲表達「乘搭自動扶手電梯上二樓」，最地道之粵語動賓搭配係：",
           "options": [
-            "搭扶手電梯上二樓 (Core concept alternative form)",
-            "行升降機上二樓 (Core concept alternative form)",
-            "坐斑馬線上二樓 (Core concept alternative form)",
-            "飛天橋上二樓 (Core concept alternative form)"
+            "搭扶手電梯上二樓 (standard target expression for Asking Directions   Navigation Verbs)",
+            "行升降機上二樓 (contextual contrast form in Asking Directions   Navigation Verbs)",
+            "坐斑馬線上二樓 (formal register distinction for Asking Directions   Navigation Verbs)",
+            "飛天橋上二樓 (colloquial conversational usage for Asking Directions   Navigation Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "手扶梯在粵語中稱為「扶手電梯」（fu4 sau2 din6 tai1）。"
@@ -3415,10 +3415,10 @@
           "type": "multiple-choice",
           "prompt": "【問路句式】欲向路人禮貌詢問「去香港站應該怎麼走」，最地道標準之句式係：",
           "options": [
-            "請問去香港站應該點樣行？ (Core concept alternative form)",
-            "請問去香港站幾多錢一個？ (Core concept alternative form)",
-            "請問去香港站食咗飯未？ (Core concept alternative form)",
-            "請問去香港站有冇得打包？ (Core concept alternative form)"
+            "請問去香港站應該點樣行？ (standard target expression for Asking Directions   Navigation Verbs)",
+            "請問去香港站幾多錢一個？ (contextual contrast form in Asking Directions   Navigation Verbs)",
+            "請問去香港站食咗飯未？ (formal register distinction for Asking Directions   Navigation Verbs)",
+            "請問去香港站有冇得打包？ (colloquial conversational usage for Asking Directions   Navigation Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "「應該點樣行」（應該怎麼走）係粵語問路最經典之表達。"
@@ -3466,10 +3466,10 @@
         {
           "prompt": "【充值用語】在香港便利店欲為八達通充值 200 港幣，應講：",
           "options": [
-            "唔該八達通增值兩百蚊 (Core concept alternative form)",
-            "唔該八達通買單兩百蚊 (Core concept alternative form)",
-            "唔該八達通找錢兩百蚊 (Core concept alternative form)",
-            "唔該八達通平啲兩百蚊 (Core concept alternative form)"
+            "唔該八達通增值兩百蚊 (standard target expression for MTR Navigation   Octopus Top up)",
+            "唔該八達通買單兩百蚊 (contextual contrast form in MTR Navigation   Octopus Top up)",
+            "唔該八達通找錢兩百蚊 (formal register distinction for MTR Navigation   Octopus Top up)",
+            "唔該八達通平啲兩百蚊 (colloquial conversational usage for MTR Navigation   Octopus Top up)"
           ],
           "answerIndex": 0,
           "explanation": "「增值」（zang1 zik6）係粵語為儲值卡充值之唯一正宗專用詞。"
@@ -3481,10 +3481,10 @@
         {
           "prompt": "【換乘術語】在港鐵廣播中聽到「往柴灣方向嘅乘客，請喺呢個站＿＿＿」，空格應填入：",
           "options": [
-            "轉線 (Core concept key phrasing)",
-            "出閘 (Core concept alternative form)",
-            "打包 (Core concept alternative form)",
-            "埋單 (Core concept alternative form)"
+            "轉線 (standard target expression for MTR Navigation   Octopus Top up)",
+            "出閘 (contextual contrast form in MTR Navigation   Octopus Top up)",
+            "打包 (formal register distinction for MTR Navigation   Octopus Top up)",
+            "埋單 (colloquial conversational usage for MTR Navigation   Octopus Top up)"
           ],
           "answerIndex": 0,
           "explanation": "地鐵換乘線路稱為「轉線」（zyun3 sin3）。"
@@ -3497,10 +3497,10 @@
           "type": "multiple-choice",
           "prompt": "【動作識別】將八達通靠近地鐵閘機感應區刷卡進站，此動作在粵語中稱為：",
           "options": [
-            "拍卡入閘 (Core concept key phrasing)",
-            "轉線出閘 (Core concept alternative form)",
-            "埋單找錢 (Core concept alternative form)",
-            "走青烘底 (Core concept alternative form)"
+            "拍卡入閘 (standard target expression for MTR Navigation   Octopus Top up)",
+            "轉線出閘 (contextual contrast form in MTR Navigation   Octopus Top up)",
+            "埋單找錢 (formal register distinction for MTR Navigation   Octopus Top up)",
+            "走青烘底 (colloquial conversational usage for MTR Navigation   Octopus Top up)"
           ],
           "answerIndex": 0,
           "explanation": "刷卡進站稱為「拍卡入閘」（paak3 kaat1 jap6 zaap6）。"
@@ -3548,10 +3548,10 @@
         {
           "prompt": "【小巴喊話】乘搭香港小巴即將到達目的地紅綠燈處，欲要求司機停車下車，最地道之喊話係：",
           "options": [
-            "司機，燈位有落，唔該！ (Core concept alternative form)",
-            "司機，我想埋單！ (Core concept alternative form)",
-            "司機，唔該增值一百蚊！ (Core concept alternative form)",
-            "司機，我想食雲吞麵！ (Core concept alternative form)"
+            "司機，燈位有落，唔該！ (standard target expression for Minibus Shouting Etiquette)",
+            "司機，我想埋單！ (contextual contrast form in Minibus Shouting Etiquette)",
+            "司機，唔該增值一百蚊！ (formal register distinction for Minibus Shouting Etiquette)",
+            "司機，我想食雲吞麵！ (colloquial conversational usage for Minibus Shouting Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "「燈位有落，唔該！」係要求在紅綠燈處下車最標準地道之小巴用語。"
@@ -3563,10 +3563,10 @@
         {
           "prompt": "【語意理解】在小巴上聽到有乘客大嗌「過咗天橋有落」，其準確含義係：",
           "options": [
-            "穿過天橋之後靠邊停車讓我下車 (Core concept alternative form)",
-            "在天橋正上方停車跳下去 (Core concept alternative form)",
-            "司機開車撞到了天橋 (Core concept alternative form)",
-            "天橋上面有人跌落下來 (Core concept alternative form)"
+            "穿過天橋之後靠邊停車讓我下車 (standard target expression for Minibus Shouting Etiquette)",
+            "在天橋正上方停車跳下去 (contextual contrast form in Minibus Shouting Etiquette)",
+            "司機開車撞到了天橋 (formal register distinction for Minibus Shouting Etiquette)",
+            "天橋上面有人跌落下來 (colloquial conversational usage for Minibus Shouting Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "「過咗天橋有落」指越過天橋後立即停車落客。"
@@ -3579,10 +3579,10 @@
           "type": "multiple-choice",
           "prompt": "【文化禮儀】在香港乘搭沒有按鈴裝置之紅色小巴時，乘客要求下車之常規方式係：",
           "options": [
-            "提前大聲向司機呼喊「有落 (Core concept alternative form)",
-            "在座位上默默等待司機主動問每個人 (Core concept alternative form)",
-            "直接站起來走到司機身旁拍司機肩膀 (Core concept alternative form)",
-            "用手機向運輸署發送下車短信 (Core concept alternative form)"
+            "提前大聲向司機呼喊「有落 (standard target expression for Minibus Shouting Etiquette)",
+            "在座位上默默等待司機主動問每個人 (contextual contrast form in Minibus Shouting Etiquette)",
+            "直接站起來走到司機身旁拍司機肩膀 (formal register distinction for Minibus Shouting Etiquette)",
+            "用手機向運輸署發送下車短信 (colloquial conversational usage for Minibus Shouting Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "乘搭紅色小巴必須由乘客主動大聲嗌「有落」。"
@@ -3630,10 +3630,10 @@
         {
           "prompt": "【的士小費】車費為 88 元，你給予司機 100 元並表示不用找零錢，應講：",
           "options": [
-            "唔使找喇，多謝司機！ (Core concept alternative form)",
-            "一定要找錢畀我！ (Core concept alternative form)",
-            "唔該印張車飛！ (Core concept alternative form)",
-            "我想轉線去柴灣！ (Core concept alternative form)"
+            "唔使找喇，多謝司機！ (standard target expression for Taking a Taxi   Route Choice)",
+            "一定要找錢畀我！ (contextual contrast form in Taking a Taxi   Route Choice)",
+            "唔該印張車飛！ (formal register distinction for Taking a Taxi   Route Choice)",
+            "我想轉線去柴灣！ (colloquial conversational usage for Taking a Taxi   Route Choice)"
           ],
           "answerIndex": 0,
           "explanation": "「唔使找喇」（m4 sai2 zaau2 laa3）意為不用找零錢了。"
@@ -3645,10 +3645,10 @@
         {
           "prompt": "【隧道名稱】在香港從九龍過海到港島，所稱「西隧」之全名係：",
           "options": [
-            "西區海底隧道 (Core concept key phrasing)",
-            "香港大橋隧道 (Core concept alternative form)",
-            "獅子山隧道 (Core concept alternative form)",
-            "將軍澳隧道 (Core concept alternative form)"
+            "西區海底隧道 (standard target expression for Taking a Taxi   Route Choice)",
+            "香港大橋隧道 (contextual contrast form in Taking a Taxi   Route Choice)",
+            "獅子山隧道 (formal register distinction for Taking a Taxi   Route Choice)",
+            "將軍澳隧道 (colloquial conversational usage for Taking a Taxi   Route Choice)"
           ],
           "answerIndex": 0,
           "explanation": "「西隧」（sai1 seoi6）即西區海底隧道。"
@@ -3661,10 +3661,10 @@
           "type": "multiple-choice",
           "prompt": "【發票索取】下車前欲向的士司機索取乘車發票收據，最正確之粵語說法係：",
           "options": [
-            "司機，唔該印張收據 / 印張飛 (Core concept alternative form)",
-            "司機，唔該埋單加單 (Core concept alternative form)",
-            "司機，唔該走青少甜 (Core concept alternative form)",
-            "司機，唔該行直轉左 (Core concept alternative form)"
+            "司機，唔該印張收據 / 印張飛 (standard target expression for Taking a Taxi   Route Choice)",
+            "司機，唔該埋單加單 (contextual contrast form in Taking a Taxi   Route Choice)",
+            "司機，唔該走青少甜 (formal register distinction for Taking a Taxi   Route Choice)",
+            "司機，唔該行直轉左 (colloquial conversational usage for Taking a Taxi   Route Choice)"
           ],
           "answerIndex": 0,
           "explanation": "打印發票稱為「印張收據」或「印張飛」（jan3 zoeng1 fei1）。"
@@ -3712,10 +3712,10 @@
         {
           "prompt": "【地標識別】位於九龍半島南端、坐擁維多利亞港壯麗海景與星光大道之著名街區係：",
           "options": [
-            "尖沙咀 (Core concept key phrasing)",
-            "中環 (Core concept alternative form)",
-            "屯門 (Core concept alternative form)",
-            "沙田 (Core concept alternative form)"
+            "尖沙咀 (standard target expression for City Landmarks   Districts)",
+            "中環 (contextual contrast form in City Landmarks   Districts)",
+            "屯門 (formal register distinction for City Landmarks   Districts)",
+            "沙田 (colloquial conversational usage for City Landmarks   Districts)"
           ],
           "answerIndex": 0,
           "explanation": "尖沙咀（zim1 saa1 zeoi2）位於九龍半島南端。"
@@ -3727,10 +3727,10 @@
         {
           "prompt": "【空間語彙】在香港日常口語中，「過海」（gwo3 hoi2）所指之具體地理行為係：",
           "options": [
-            "橫渡或穿過維多利亞港 (Core concept alternative form)",
-            "出國去外國旅遊 (Core concept alternative form)",
-            "游泳去大嶼山 (Core concept alternative form)",
-            "坐輪船去澳門 (Core concept alternative form)"
+            "橫渡或穿過維多利亞港 (standard target expression for City Landmarks   Districts)",
+            "出國去外國旅遊 (contextual contrast form in City Landmarks   Districts)",
+            "游泳去大嶼山 (formal register distinction for City Landmarks   Districts)",
+            "坐輪船去澳門 (colloquial conversational usage for City Landmarks   Districts)"
           ],
           "answerIndex": 0,
           "explanation": "「過海」專指跨越維多利亞港往返港島與九龍。"
@@ -3743,10 +3743,10 @@
           "type": "multiple-choice",
           "prompt": "【區域歸屬】以下邊個著名繁華街區位於香港島（而非九龍）？",
           "options": [
-            "銅鑼灣 (Core concept key phrasing)",
-            "旺角 (Core concept alternative form)",
-            "尖沙咀 (Core concept alternative form)",
-            "深水埗 (Core concept alternative form)"
+            "銅鑼灣 (standard target expression for City Landmarks   Districts)",
+            "旺角 (contextual contrast form in City Landmarks   Districts)",
+            "尖沙咀 (formal register distinction for City Landmarks   Districts)",
+            "深水埗 (colloquial conversational usage for City Landmarks   Districts)"
           ],
           "answerIndex": 0,
           "explanation": "銅鑼灣（Causeway Bay）位於香港島北岸。"
@@ -3794,10 +3794,10 @@
         {
           "prompt": "【度量衡計量】在香港海鮮檔買蝦，檔主問「要幾多？」，你欲購買半斤，應講：",
           "options": [
-            "唔該要半斤 (Core concept alternative form)",
-            "唔該要半打 (Core concept alternative form)",
-            "唔該要半條 (Core concept alternative form)",
-            "唔該要半間 (Core concept alternative form)"
+            "唔該要半斤 (standard target expression for Inquiring Prices   Cantonese Weights and Measures)",
+            "唔該要半打 (contextual contrast form in Inquiring Prices   Cantonese Weights and Measures)",
+            "唔該要半條 (formal register distinction for Inquiring Prices   Cantonese Weights and Measures)",
+            "唔該要半間 (colloquial conversational usage for Inquiring Prices   Cantonese Weights and Measures)"
           ],
           "answerIndex": 0,
           "explanation": "「半斤」（bun3 gan1）指半司馬斤（八兩）。"
@@ -3809,10 +3809,10 @@
         {
           "prompt": "【語句探詢】向水果檔店主詢問富士蘋果價格，最地道之問法係：",
           "options": [
-            "呢啲富士蘋果幾多錢一磅話？ (Core concept alternative form)",
-            "呢啲富士蘋果有冇得搭枱？ (Core concept alternative form)",
-            "呢啲富士蘋果印張收據未？ (Core concept alternative form)",
-            "呢啲富士蘋果轉線出閘未？ (Core concept alternative form)"
+            "呢啲富士蘋果幾多錢一磅話？ (standard target expression for Inquiring Prices   Cantonese Weights and Measures)",
+            "呢啲富士蘋果有冇得搭枱？ (contextual contrast form in Inquiring Prices   Cantonese Weights and Measures)",
+            "呢啲富士蘋果印張收據未？ (formal register distinction for Inquiring Prices   Cantonese Weights and Measures)",
+            "呢啲富士蘋果轉線出閘未？ (colloquial conversational usage for Inquiring Prices   Cantonese Weights and Measures)"
           ],
           "answerIndex": 0,
           "explanation": "「幾多錢一磅話？」（gei2 do1 cin2 jat1 bong6 waa2）係詢價最地道自然之口語表達。"
@@ -3825,10 +3825,10 @@
           "type": "multiple-choice",
           "prompt": "【度量衡換算】在香港傳統街市中，一「司馬斤」等於幾多「兩」？",
           "options": [
-            "十六兩 (Core concept key phrasing)",
-            "十兩 (Core concept alternative form)",
-            "十二兩 (Core concept alternative form)",
-            "二十兩 (Core concept alternative form)"
+            "十六兩 (standard target expression for Inquiring Prices   Cantonese Weights and Measures)",
+            "十兩 (contextual contrast form in Inquiring Prices   Cantonese Weights and Measures)",
+            "十二兩 (formal register distinction for Inquiring Prices   Cantonese Weights and Measures)",
+            "二十兩 (colloquial conversational usage for Inquiring Prices   Cantonese Weights and Measures)"
           ],
           "answerIndex": 0,
           "explanation": "香港傳統司馬斤為十六兩制（半斤八兩）。"
@@ -3876,10 +3876,10 @@
         {
           "prompt": "【零錢兌換】欲請店員將一張 500 元大鈔破開換成零錢，最地道之粵語說法係：",
           "options": [
-            "唔該幫我唱散張五百蚊紙 (Core concept alternative form)",
-            "唔該幫我埋單張五百蚊紙 (Core concept alternative form)",
-            "唔該幫我增值張五百蚊紙 (Core concept alternative form)",
-            "唔該幫我打包張五百蚊紙 (Core concept alternative form)"
+            "唔該幫我唱散張五百蚊紙 (standard target expression for Giving Change   Coins)",
+            "唔該幫我埋單張五百蚊紙 (contextual contrast form in Giving Change   Coins)",
+            "唔該幫我增值張五百蚊紙 (formal register distinction for Giving Change   Coins)",
+            "唔該幫我打包張五百蚊紙 (colloquial conversational usage for Giving Change   Coins)"
           ],
           "answerIndex": 0,
           "explanation": "「唱散」（coeng3 saan2）意為把大額紙幣兌換為零錢。"
@@ -3891,10 +3891,10 @@
         {
           "prompt": "【找零計算】購物花費 35 元，顧客付 50 元，店員找回 15 元零錢時應講：",
           "options": [
-            "找返十五蚊畀你，唔該晒！ (Core concept alternative form)",
-            "增值十五蚊畀你！ (Core concept alternative form)",
-            "買單十五蚊畀你！ (Core concept alternative form)",
-            "行街十五蚊畀你！ (Core concept alternative form)"
+            "找返十五蚊畀你，唔該晒！ (standard target expression for Giving Change   Coins)",
+            "增值十五蚊畀你！ (contextual contrast form in Giving Change   Coins)",
+            "買單十五蚊畀你！ (formal register distinction for Giving Change   Coins)",
+            "行街十五蚊畀你！ (colloquial conversational usage for Giving Change   Coins)"
           ],
           "answerIndex": 0,
           "explanation": "「找返……畀你」（zaau2 faan1...bei2 nei5）係找回零錢之標準用語。"
@@ -3907,10 +3907,10 @@
           "type": "multiple-choice",
           "prompt": "【俚語識別】在香港俗語中，「金牛 / 大牛」通常指代面額幾多之紙幣？",
           "options": [
-            "一千蚊紙 (Core concept alternative form)",
-            "五百蚊紙 (Core concept alternative form)",
-            "一百蚊紙 (Core concept alternative form)",
-            "五十蚊紙 (Core concept alternative form)"
+            "一千蚊紙 (standard target expression for Giving Change   Coins)",
+            "五百蚊紙 (contextual contrast form in Giving Change   Coins)",
+            "一百蚊紙 (formal register distinction for Giving Change   Coins)",
+            "五十蚊紙 (colloquial conversational usage for Giving Change   Coins)"
           ],
           "answerIndex": 0,
           "explanation": "香港俗稱一千元港幣紙幣為「金牛 / 大牛」。"
@@ -3958,10 +3958,10 @@
         {
           "prompt": "【折扣計算】在香港服裝店看到櫥窗貼著「全場八折」，其含義為：",
           "options": [
-            "所有商品按原價百分之八十出售 (Core concept alternative form)",
-            "所有商品只需八塊錢 (Core concept alternative form)",
-            "買八件衣服打折 (Core concept alternative form)",
-            "每件衣服降價八塊錢 (Core concept alternative form)"
+            "所有商品按原價百分之八十出售 (standard target expression for Bargaining   Promotions)",
+            "所有商品只需八塊錢 (contextual contrast form in Bargaining   Promotions)",
+            "買八件衣服打折 (formal register distinction for Bargaining   Promotions)",
+            "每件衣服降價八塊錢 (colloquial conversational usage for Bargaining   Promotions)"
           ],
           "answerIndex": 0,
           "explanation": "「八折」（baat3 zit3）即原價之 80%（20% off）。"
@@ -3973,10 +3973,10 @@
         {
           "prompt": "【排檔講價】在旺角排檔購物，欲請店主算便宜一點點，最地道得體之句式係：",
           "options": [
-            "老闆，計平少少得唔得呀？ (Core concept alternative form)",
-            "老闆，唔該幫我搭枱！ (Core concept alternative form)",
-            "老闆，唔該印張車飛！ (Core concept alternative form)",
-            "老闆，落緊大雨未？ (Core concept alternative form)"
+            "老闆，計平少少得唔得呀？ (standard target expression for Bargaining   Promotions)",
+            "老闆，唔該幫我搭枱！ (contextual contrast form in Bargaining   Promotions)",
+            "老闆，唔該印張車飛！ (formal register distinction for Bargaining   Promotions)",
+            "老闆，落緊大雨未？ (colloquial conversational usage for Bargaining   Promotions)"
           ],
           "answerIndex": 0,
           "explanation": "「計平少少得唔得呀？」（算便宜一點好不好）係地道講價句式。"
@@ -3989,10 +3989,10 @@
           "type": "multiple-choice",
           "prompt": "【促銷用語】商場門口掛出「買一送一」橫幅，其精確商業含義係：",
           "options": [
-            "購買一件正價商品即可獲贈另一件相同商品 (Core concept alternative form)",
-            "買一件商品需要送貨一次 (Core concept alternative form)",
-            "買了一件商品必須送給別人 (Core concept alternative form)",
-            "一次只能購買一件商品 (Core concept alternative form)"
+            "購買一件正價商品即可獲贈另一件相同商品 (standard target expression for Bargaining   Promotions)",
+            "買一件商品需要送貨一次 (contextual contrast form in Bargaining   Promotions)",
+            "買了一件商品必須送給別人 (formal register distinction for Bargaining   Promotions)",
+            "一次只能購買一件商品 (colloquial conversational usage for Bargaining   Promotions)"
           ],
           "answerIndex": 0,
           "explanation": "「買一送一」（maai5 jat1 sung3 jat1）即買一贈一。"
@@ -4040,10 +4040,10 @@
         {
           "prompt": "【支付動詞】在香港收銀台欲表示「我用信用卡刷卡付款」，應講：",
           "options": [
-            "我碌信用卡畀錢 (FPS U9)",
-            "我行街信用卡畀錢 (FPS U9)",
-            "我搭枱信用卡畀錢 (FPS U9)",
-            "我走青信用卡畀錢 (FPS U9)"
+            "我碌信用卡畀錢 (standard target expression for Payment Methods)",
+            "我行街信用卡畀錢 (contextual contrast form in Payment Methods)",
+            "我搭枱信用卡畀錢 (formal register distinction for Payment Methods)",
+            "我走青信用卡畀錢 (colloquial conversational usage for Payment Methods)"
           ],
           "answerIndex": 0,
           "explanation": "刷信用卡付款在粵語中稱為「碌卡」（luk1 kaat1）。"
@@ -4055,10 +4055,10 @@
         {
           "prompt": "【語彙由來】粵語中用「嘟卡」（dyut1 kaat1）指代刷八達通卡，該詞之由來係：",
           "options": [
-            "刷卡機感應成功時發出的「嘟」提示音 (FPS U9)",
-            "八達通發明人的名字 (FPS U9)",
-            "香港某座地鐵站的名稱 (FPS U9)",
-            "古漢語的傳統動詞 (FPS U9)"
+            "刷卡機感應成功時發出的「嘟」提示音 (standard target expression for Payment Methods)",
+            "八達通發明人的名字 (contextual contrast form in Payment Methods)",
+            "香港某座地鐵站的名稱 (formal register distinction for Payment Methods)",
+            "古漢語的傳統動詞 (colloquial conversational usage for Payment Methods)"
           ],
           "answerIndex": 0,
           "explanation": "「嘟」係刷卡機感應提示音之擬聲詞。"
@@ -4071,10 +4071,10 @@
           "type": "multiple-choice",
           "prompt": "【金融術語】香港金管局推行之快速跨銀行即時電子轉帳系統之粵語名稱係：",
           "options": [
-            "轉數快 (FPS U9)",
-            "八達通 (FPS U9)",
-            "易辦事 (FPS U9)",
-            "支票簿 (FPS U9)"
+            "轉數快 (standard target expression for Payment Methods)",
+            "八達通 (contextual contrast form in Payment Methods)",
+            "易辦事 (formal register distinction for Payment Methods)",
+            "支票簿 (colloquial conversational usage for Payment Methods)"
           ],
           "answerIndex": 0,
           "explanation": "香港快速支付系統官方俗稱為「轉數快」（FPS）。"
@@ -4122,10 +4122,10 @@
         {
           "prompt": "【店舖識別】香港街坊用以稱呼售賣零食、飲料、香煙及日常雜貨之傳統小店為：",
           "options": [
-            "士多 (Core concept key phrasing)",
-            "月台 (Core concept alternative form)",
-            "天橋 (Core concept alternative form)",
-            "燈位 (Core concept alternative form)"
+            "士多 (standard target expression for Store Types   Returns)",
+            "月台 (contextual contrast form in Store Types   Returns)",
+            "天橋 (formal register distinction for Store Types   Returns)",
+            "燈位 (colloquial conversational usage for Store Types   Returns)"
           ],
           "answerIndex": 0,
           "explanation": "傳統雜貨小店音譯英語 'Store' 稱為「士多」（si6 do1）。"
@@ -4137,10 +4137,10 @@
         {
           "prompt": "【售後權益】所購電器出現故障，欲憑購買發票向商家要求更換一件新貨，應講：",
           "options": [
-            "我憑單據想換貨 (Core concept alternative form)",
-            "我憑單據想搭枱 (Core concept alternative form)",
-            "我憑單據想轉線 (Core concept alternative form)",
-            "我憑單據想走甜 (Core concept alternative form)"
+            "我憑單據想換貨 (standard target expression for Store Types   Returns)",
+            "我憑單據想搭枱 (contextual contrast form in Store Types   Returns)",
+            "我憑單據想轉線 (formal register distinction for Store Types   Returns)",
+            "我憑單據想走甜 (colloquial conversational usage for Store Types   Returns)"
           ],
           "answerIndex": 0,
           "explanation": "「憑單據想換貨」（憑發票收據想要換貨）係售後更換商品之標準表達。"
@@ -4153,10 +4153,10 @@
           "type": "multiple-choice",
           "prompt": "【商家告示】在香港店舖門口常看到「出門恕不退換」告示牌，其意思係：",
           "options": [
-            "商品售出離開店門後概不提供退貨或換貨服務 (Core concept alternative form)",
-            "出門時必須向店員脫帽鞠躬 (Core concept alternative form)",
-            "走出門口可以免費退換所有商品 (Core concept alternative form)",
-            "商品只能在門口使用 (Core concept alternative form)"
+            "商品售出離開店門後概不提供退貨或換貨服務 (standard target expression for Store Types   Returns)",
+            "出門時必須向店員脫帽鞠躬 (contextual contrast form in Store Types   Returns)",
+            "走出門口可以免費退換所有商品 (formal register distinction for Store Types   Returns)",
+            "商品只能在門口使用 (colloquial conversational usage for Store Types   Returns)"
           ],
           "answerIndex": 0,
           "explanation": "「出門恕不退換」意為商品售出離店後恕不接受退貨或更換。"
@@ -4204,10 +4204,10 @@
         {
           "prompt": "【量詞搭配】在粵語中描述「臉部」與「脖子」，正確之專屬量詞分別係：",
           "options": [
-            "一塊面、一條頸 (Core concept alternative form)",
-            "一條面、一塊頸 (Core concept alternative form)",
-            "一隻面、一對頸 (Core concept alternative form)",
-            "一個面、一把頸 (Core concept alternative form)"
+            "一塊面、一條頸 (standard target expression for Human Body Parts   Cantonese Classifiers)",
+            "一條面、一塊頸 (contextual contrast form in Human Body Parts   Cantonese Classifiers)",
+            "一隻面、一對頸 (formal register distinction for Human Body Parts   Cantonese Classifiers)",
+            "一個面、一把頸 (colloquial conversational usage for Human Body Parts   Cantonese Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "臉部量詞用「塊」（一塊面），頸部量詞用「條」（一條頸）。"
@@ -4219,10 +4219,10 @@
         {
           "prompt": "【名詞識別】粵語俗稱人體腿部之「膝蓋」為：",
           "options": [
-            "膝頭哥 (Core concept key phrasing)",
-            "心口 (Core concept alternative form)",
-            "腳板底 (Core concept alternative form)",
-            "肚腩 (Core concept alternative form)"
+            "膝頭哥 (standard target expression for Human Body Parts   Cantonese Classifiers)",
+            "心口 (contextual contrast form in Human Body Parts   Cantonese Classifiers)",
+            "腳板底 (formal register distinction for Human Body Parts   Cantonese Classifiers)",
+            "肚腩 (colloquial conversational usage for Human Body Parts   Cantonese Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "膝蓋在粵語中俗稱為「膝頭哥」（sat1 tau4 go1）。"
@@ -4235,10 +4235,10 @@
           "type": "multiple-choice",
           "prompt": "【語法搭配】若指單隻眼睛出現發炎紅腫，最準確之量詞短語係：",
           "options": [
-            "隻眼 (Core concept key phrasing)",
-            "條眼 (Core concept alternative form)",
-            "把眼 (Core concept alternative form)",
-            "幅眼 (Core concept alternative form)"
+            "隻眼 (standard target expression for Human Body Parts   Cantonese Classifiers)",
+            "條眼 (contextual contrast form in Human Body Parts   Cantonese Classifiers)",
+            "把眼 (formal register distinction for Human Body Parts   Cantonese Classifiers)",
+            "幅眼 (colloquial conversational usage for Human Body Parts   Cantonese Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "單隻眼睛或耳朵等對稱器官在粵語中量詞用「隻」（隻眼、隻耳仔）。"
@@ -4286,10 +4286,10 @@
         {
           "prompt": "【語法詞綴】感覺身體微熱、咽喉微痛，似乎「快要感冒了」，最地道之粵語表達係：",
           "options": [
-            "我好似有啲作感冒 (Core concept alternative form)",
-            "我好似有啲搭感冒 (Core concept alternative form)",
-            "我好似有啲轉感冒 (Core concept alternative form)",
-            "我好似有啲走感冒 (Core concept alternative form)"
+            "我好似有啲作感冒 (standard target expression for Common Illnesses   Symptoms)",
+            "我好似有啲搭感冒 (contextual contrast form in Common Illnesses   Symptoms)",
+            "我好似有啲轉感冒 (formal register distinction for Common Illnesses   Symptoms)",
+            "我好似有啲走感冒 (colloquial conversational usage for Common Illnesses   Symptoms)"
           ],
           "answerIndex": 0,
           "explanation": "「作」（zok3）置於病名感冒前，表示感覺快要感冒生病之前兆。"
@@ -4301,10 +4301,10 @@
         {
           "prompt": "【病徵識別】進食不潔食物導致肚子疼痛且頻繁腹瀉，粵語稱此症狀為：",
           "options": [
-            "肚痛同肚痾 (Core concept key phrasing)",
-            "頭痛同頭暈 (Core concept alternative form)",
-            "鼻塞同流涕 (Core concept alternative form)",
-            "聲沙同乾咳 (Core concept alternative form)"
+            "肚痛同肚痾 (standard target expression for Common Illnesses   Symptoms)",
+            "頭痛同頭暈 (contextual contrast form in Common Illnesses   Symptoms)",
+            "鼻塞同流涕 (formal register distinction for Common Illnesses   Symptoms)",
+            "聲沙同乾咳 (colloquial conversational usage for Common Illnesses   Symptoms)"
           ],
           "answerIndex": 0,
           "explanation": "腹部疼痛腹瀉在粵語中稱為「肚痛同肚痾」（tou5 tung3 tung4 tou5 o1）。"
@@ -4317,10 +4317,10 @@
           "type": "multiple-choice",
           "prompt": "【構詞解析】在粵語短語「作嘔」（zok3 au2）中，字首「作」之確切語義功能為：",
           "options": [
-            "表示想要嘔吐、噁心作嘔之生理預兆體感 (Core concept alternative form)",
-            "表示故意裝作嘔吐動作 (Core concept alternative form)",
-            "表示創作關於嘔吐的文章 (Core concept alternative form)",
-            "表示工作勞動導致嘔吐 (Core concept alternative form)"
+            "表示想要嘔吐、噁心作嘔之生理預兆體感 (standard target expression for Common Illnesses   Symptoms)",
+            "表示故意裝作嘔吐動作 (contextual contrast form in Common Illnesses   Symptoms)",
+            "表示創作關於嘔吐的文章 (formal register distinction for Common Illnesses   Symptoms)",
+            "表示工作勞動導致嘔吐 (colloquial conversational usage for Common Illnesses   Symptoms)"
           ],
           "answerIndex": 0,
           "explanation": "前綴「作」在醫學症狀中表示即將發作或產生噁心前兆之生理感受。"
@@ -4368,10 +4368,10 @@
         {
           "prompt": "【醫護尊稱】在香港診所接待處向當值護士登記掛號時，最得體之道地尊稱為：",
           "options": [
-            "姑娘 (Core concept key phrasing)",
-            "老闆娘 (Core concept alternative form)",
-            "師傅 (Core concept alternative form)",
-            "經理 (Core concept alternative form)"
+            "姑娘 (standard target expression for Doctor Visit Dialogue)",
+            "老闆娘 (contextual contrast form in Doctor Visit Dialogue)",
+            "師傅 (formal register distinction for Doctor Visit Dialogue)",
+            "經理 (colloquial conversational usage for Doctor Visit Dialogue)"
           ],
           "answerIndex": 0,
           "explanation": "香港文化中尊稱診所及醫院女護士為「姑娘」（gu1 neong4）。"
@@ -4383,10 +4383,10 @@
         {
           "prompt": "【問診交涉】進入診室後，醫生詢問「邊度唔舒服呀？」，欲表達「我喉嚨痛且發燒兩天」，應講：",
           "options": [
-            "我喉嚨痛同埋發燒咗兩日 (Core concept alternative form)",
-            "我八達通增值咗兩日 (Core concept alternative form)",
-            "我開茶搭枱咗兩日 (Core concept alternative form)",
-            "我行街買衫咗兩日 (Core concept alternative form)"
+            "我喉嚨痛同埋發燒咗兩日 (standard target expression for Doctor Visit Dialogue)",
+            "我八達通增值咗兩日 (contextual contrast form in Doctor Visit Dialogue)",
+            "我開茶搭枱咗兩日 (formal register distinction for Doctor Visit Dialogue)",
+            "我行街買衫咗兩日 (colloquial conversational usage for Doctor Visit Dialogue)"
           ],
           "answerIndex": 0,
           "explanation": "「喉嚨痛同埋發燒咗兩日」係準確清晰之病情自述句式。"
@@ -4399,10 +4399,10 @@
           "type": "multiple-choice",
           "prompt": "【醫療安全】醫生處方前詢問「有冇藥物敏感？」，其核心用意為確認：",
           "options": [
-            "病人過往是否對某些特定西藥存在過敏不良反應 (Core concept alternative form)",
-            "病人是否喜歡吃甜味藥水 (Core concept alternative form)",
-            "病人對藥物價格是否敏感在乎 (Core concept alternative form)",
-            "病人是否能夠自行吞服藥丸 (Core concept alternative form)"
+            "病人過往是否對某些特定西藥存在過敏不良反應 (standard target expression for Doctor Visit Dialogue)",
+            "病人是否喜歡吃甜味藥水 (contextual contrast form in Doctor Visit Dialogue)",
+            "病人對藥物價格是否敏感在乎 (formal register distinction for Doctor Visit Dialogue)",
+            "病人是否能夠自行吞服藥丸 (colloquial conversational usage for Doctor Visit Dialogue)"
           ],
           "answerIndex": 0,
           "explanation": "「藥物敏感」（joek6 mat6 man5 gam2）指藥物過敏史。"
@@ -4450,10 +4450,10 @@
         {
           "prompt": "【服藥量詞】藥劑師交代「每次吃兩粒藥片」，在粵語中最地道之說法為：",
           "options": [
-            "每次食兩粒 (Core concept alternative form)",
-            "每次食兩條 (Core concept alternative form)",
-            "每次食兩隻 (Core concept alternative form)",
-            "每次食兩間 (Core concept alternative form)"
+            "每次食兩粒 (standard target expression for Medication Instructions   Dosage)",
+            "每次食兩條 (contextual contrast form in Medication Instructions   Dosage)",
+            "每次食兩隻 (formal register distinction for Medication Instructions   Dosage)",
+            "每次食兩間 (colloquial conversational usage for Medication Instructions   Dosage)"
           ],
           "answerIndex": 0,
           "explanation": "顆粒狀藥丸藥片在粵語中量詞用「粒」（nap1）。"
@@ -4465,10 +4465,10 @@
         {
           "prompt": "【用藥安全】若藥袋上標註「服後可能引起昏睡」，患者在服藥期間應特別避免：",
           "options": [
-            "駕駛汽車或操作重型機械 (Core concept alternative form)",
-            "喝溫開水 (Core concept alternative form)",
-            "臥床休息 (Core concept alternative form)",
-            "按時按量服藥 (Core concept alternative form)"
+            "駕駛汽車或操作重型機械 (standard target expression for Medication Instructions   Dosage)",
+            "喝溫開水 (contextual contrast form in Medication Instructions   Dosage)",
+            "臥床休息 (formal register distinction for Medication Instructions   Dosage)",
+            "按時按量服藥 (colloquial conversational usage for Medication Instructions   Dosage)"
           ],
           "answerIndex": 0,
           "explanation": "引起嗜睡昏睡之藥物（如傳統抗過敏及感冒藥）服後嚴禁駕駛車輛或高空危險操作。"
@@ -4481,10 +4481,10 @@
           "type": "multiple-choice",
           "prompt": "【服藥時機】藥袋標籤註明「飯後服」（faan6 hau6 fuk6），其正確之服用方法係：",
           "options": [
-            "吃完飯後十五至三十分鐘內服用 (Core concept alternative form)",
-            "吃早飯前三小時服用 (Core concept alternative form)",
-            "只能在不吃飯的那天服用 (Core concept alternative form)",
-            "把藥物混合米飯一起吞食 (Core concept alternative form)"
+            "吃完飯後十五至三十分鐘內服用 (standard target expression for Medication Instructions   Dosage)",
+            "吃早飯前三小時服用 (contextual contrast form in Medication Instructions   Dosage)",
+            "只能在不吃飯的那天服用 (formal register distinction for Medication Instructions   Dosage)",
+            "把藥物混合米飯一起吞食 (colloquial conversational usage for Medication Instructions   Dosage)"
           ],
           "answerIndex": 0,
           "explanation": "「飯後服」指在用餐結束後適當時間服用以減少藥物對胃黏膜之刺激。"
@@ -4547,10 +4547,10 @@
         {
           "prompt": "【職場就醫】在香港向公司主管請病假，必備出具由註冊醫生簽發之證明文件，俗稱係：",
           "options": [
-            "病假紙 / 醫生紙 (999 alternative form)",
-            "收據單 (999 alternative form)",
-            "車飛 (999 alternative form)",
-            "八達通卡 (999 alternative form)"
+            "病假紙 / 醫生紙 (standard target expression for HK Healthcare   Emergency)",
+            "收據單 (contextual contrast form in HK Healthcare   Emergency)",
+            "車飛 (formal register distinction for HK Healthcare   Emergency)",
+            "八達通卡 (colloquial conversational usage for HK Healthcare   Emergency)"
           ],
           "answerIndex": 0,
           "explanation": "醫生簽發之合法病假證明在香港俗稱為「病假紙」或「醫生紙」。"
@@ -4563,10 +4563,10 @@
           "type": "multiple-choice",
           "prompt": "【俚語識別】香港市民日常俗稱緊急送院之白色救護車為：",
           "options": [
-            "白車 (999 key phrasing)",
-            "的士 (999 alternative form)",
-            "小巴 (999 alternative form)",
-            "叮叮 (999 alternative form)"
+            "白車 (standard target expression for HK Healthcare   Emergency)",
+            "的士 (contextual contrast form in HK Healthcare   Emergency)",
+            "小巴 (formal register distinction for HK Healthcare   Emergency)",
+            "叮叮 (colloquial conversational usage for HK Healthcare   Emergency)"
           ],
           "answerIndex": 0,
           "explanation": "救護車在香港廣泛俗稱為「白車」（baak6 ce1）。"
@@ -4614,10 +4614,10 @@
         {
           "prompt": "【情態否定】若主管告知員工明天是公眾假期，「不需要來公司上班」，最地道之粵語表達係：",
           "options": [
-            "你聽日唔使返工 (Core concept alternative form)",
-            "你聽日唔要返工 (Core concept alternative form)",
-            "你聽日唔想返工 (Core concept alternative form)",
-            "你聽日唔諗住返工 (Core concept alternative form)"
+            "你聽日唔使返工 (standard target expression for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "你聽日唔要返工 (contextual contrast form in Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "你聽日唔想返工 (formal register distinction for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "你聽日唔諗住返工 (colloquial conversational usage for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)"
           ],
           "answerIndex": 0,
           "explanation": "「要」（必須）之情態否定為「唔使」（不必/不需要）。"
@@ -4629,10 +4629,10 @@
         {
           "prompt": "【意圖表達】欲表達自己「原本打算週末去圖書館看書」，應使用之助動詞係：",
           "options": [
-            "我週末諗住去圖書館睇書 (Core concept alternative form)",
-            "我週末搭去圖書館睇書 (Core concept alternative form)",
-            "我週末轉去圖書館睇書 (Core concept alternative form)",
-            "我週末落去圖書館睇書 (Core concept alternative form)"
+            "我週末諗住去圖書館睇書 (standard target expression for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "我週末搭去圖書館睇書 (contextual contrast form in Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "我週末轉去圖書館睇書 (formal register distinction for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "我週末落去圖書館睇書 (colloquial conversational usage for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)"
           ],
           "answerIndex": 0,
           "explanation": "「諗住」（lam2 zyu6）表示心中的打算或計劃。"
@@ -4645,10 +4645,10 @@
           "type": "multiple-choice",
           "prompt": "【語義辨析】在粵語中，「你要唔要加糖？」與「你使唔使加糖？」之細微語意差異為：",
           "options": [
-            "「要唔要」詢問是否想要具體物品糖，「使唔使」詢問客觀上是否需要進行加糖動作 (Core concept alternative form)",
-            "兩者完全相反，「要唔要」表示拒絕 (Core concept alternative form)",
-            "「使唔使」只能對長輩使用 (Core concept alternative form)",
-            "「要唔要」只能在茶餐廳點凍飲時使用 (Core concept alternative form)"
+            "「要唔要」詢問是否想要具體物品糖，「使唔使」詢問客觀上是否需要進行加糖動作 (standard target expression for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "兩者完全相反，「要唔要」表示拒絕 (contextual contrast form in Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "「使唔使」只能對長輩使用 (formal register distinction for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)",
+            "「要唔要」只能在茶餐廳點凍飲時使用 (colloquial conversational usage for Volition  Necessity    Intention  soeng2  jiu3  lam2 zyu6)"
           ],
           "answerIndex": 0,
           "explanation": "「要唔要」側重於主觀是否索取物品，「使唔使」側重於客觀是否有必要進行某動作。"
@@ -4696,10 +4696,10 @@
         {
           "prompt": "【技能助動詞】欲表達「他通過後天學習掌握了烹飪與駕駛技術」，正確之粵語助動詞句式係：",
           "options": [
-            "佢識煮飯同埋識揸車 (Core concept alternative form)",
-            "佢要煮飯同埋要揸車 (Core concept alternative form)",
-            "佢想煮飯同埋想揸車 (Core concept alternative form)",
-            "佢諗住煮飯同埋諗住揸車 (Core concept alternative form)"
+            "佢識煮飯同埋識揸車 (standard target expression for Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "佢要煮飯同埋要揸車 (contextual contrast form in Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "佢想煮飯同埋想揸車 (formal register distinction for Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "佢諗住煮飯同埋諗住揸車 (colloquial conversational usage for Acquired Knowledge   Skills  sik1  sik1 dak1)"
           ],
           "answerIndex": 0,
           "explanation": "「識」（sik1）專門用於表示後天學會之各類技能。"
@@ -4711,10 +4711,10 @@
         {
           "prompt": "【正反問句】向新朋友禮貌詢問「你懂得游泳嗎？」，地道之粵語提問係：",
           "options": [
-            "你識唔識游水呀？ (Core concept alternative form)",
-            "你搭唔搭游水呀？ (Core concept alternative form)",
-            "你轉唔轉游水呀？ (Core concept alternative form)",
-            "你落唔落游水呀？ (Core concept alternative form)"
+            "你識唔識游水呀？ (standard target expression for Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "你搭唔搭游水呀？ (contextual contrast form in Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "你轉唔轉游水呀？ (formal register distinction for Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "你落唔落游水呀？ (colloquial conversational usage for Acquired Knowledge   Skills  sik1  sik1 dak1)"
           ],
           "answerIndex": 0,
           "explanation": "技能正反問句結構為「識唔識……？」（Do you know how to...?）。"
@@ -4727,10 +4727,10 @@
           "type": "multiple-choice",
           "prompt": "【語義範疇】下列哪一項最準確描述了助動詞「識」（sik1）之核心語言學功能？",
           "options": [
-            "表示通過後天學習、培訓而具備之技能或認知 (Core concept alternative form)",
-            "表示客觀法律或規則之強制義務 (Core concept alternative form)",
-            "表示生理構造之本能反應 (Core concept alternative form)",
-            "表示瞬時完成之動作體貌 (Core concept alternative form)"
+            "表示通過後天學習、培訓而具備之技能或認知 (standard target expression for Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "表示客觀法律或規則之強制義務 (contextual contrast form in Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "表示生理構造之本能反應 (formal register distinction for Acquired Knowledge   Skills  sik1  sik1 dak1)",
+            "表示瞬時完成之動作體貌 (colloquial conversational usage for Acquired Knowledge   Skills  sik1  sik1 dak1)"
           ],
           "answerIndex": 0,
           "explanation": "「識」在語法上專門表達後天習得之能力或認知識別。"
@@ -4778,10 +4778,10 @@
         {
           "prompt": "【禮貌請求】在會議中欲禮貌請求同事「能否把窗戶關上」，最得體之粵語句式係：",
           "options": [
-            "可唔可以唔該你幫手閂埋隻窗？ (PermissionPossibility U11)",
-            "你一定要閂埋隻窗！ (PermissionPossibility U11)",
-            "你識唔識閂埋隻窗？ (PermissionPossibility U11)",
-            "你諗住閂埋隻窗未？ (PermissionPossibility U11)"
+            "可唔可以唔該你幫手閂埋隻窗？ (standard target expression for Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "你一定要閂埋隻窗！ (contextual contrast form in Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "你識唔識閂埋隻窗？ (formal register distinction for Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "你諗住閂埋隻窗未？ (colloquial conversational usage for Permission   Possibility  ho2 ji5  nang4 gau3)"
           ],
           "answerIndex": 0,
           "explanation": "「可唔可以唔該你……」係表達禮貌請求之最標準句式。"
@@ -4793,10 +4793,10 @@
         {
           "prompt": "【規則禁令】公共場所張貼告示標明「嚴禁飲食」，口語化之粵語解釋係：",
           "options": [
-            "呢度唔可以食嘢同飲水 (PermissionPossibility U11)",
-            "呢度唔識食嘢同飲水 (PermissionPossibility U11)",
-            "呢度唔諗住食嘢同飲水 (PermissionPossibility U11)",
-            "呢度唔使食嘢同飲水 (PermissionPossibility U11)"
+            "呢度唔可以食嘢同飲水 (standard target expression for Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "呢度唔識食嘢同飲水 (contextual contrast form in Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "呢度唔諗住食嘢同飲水 (formal register distinction for Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "呢度唔使食嘢同飲水 (colloquial conversational usage for Permission   Possibility  ho2 ji5  nang4 gau3)"
           ],
           "answerIndex": 0,
           "explanation": "「唔可以」表示規則禁止或不被許可（Not allowed）。"
@@ -4809,10 +4809,10 @@
           "type": "multiple-choice",
           "prompt": "【語法辨析】當別人詢問「我可唔可以坐呢度呀？」，若表示「可以，請坐」，最自然之道地回應為：",
           "options": [
-            "可以呀，請坐啦！ (PermissionPossibility U11)",
-            "識得呀，請坐啦！ (PermissionPossibility U11)",
-            "要呀，請坐啦！ (PermissionPossibility U11)",
-            "諗住呀，請坐啦！ (PermissionPossibility U11)"
+            "可以呀，請坐啦！ (standard target expression for Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "識得呀，請坐啦！ (contextual contrast form in Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "要呀，請坐啦！ (formal register distinction for Permission   Possibility  ho2 ji5  nang4 gau3)",
+            "諗住呀，請坐啦！ (colloquial conversational usage for Permission   Possibility  ho2 ji5  nang4 gau3)"
           ],
           "answerIndex": 0,
           "explanation": "回答許可請求正向確認時使用「可以呀」（ho2 ji5 aa3）。"
@@ -4860,10 +4860,10 @@
         {
           "prompt": "【可能補語】主廚把煲仔飯端上桌，告知顧客「飯已經煮熟可以開始吃了」，最地道之粵語表達係：",
           "options": [
-            "煲仔飯整好，食得喇！ (dak1V  V U11)",
-            "煲仔飯整好，食識喇！ (dak1V  V U11)",
-            "煲仔飯整好，食要喇！ (dak1V  V U11)",
-            "煲仔飯整好，食諗住喇！ (dak1V  V U11)"
+            "煲仔飯整好，食得喇！ (standard target expression for The Versatile Modal  dak1)",
+            "煲仔飯整好，食識喇！ (contextual contrast form in The Versatile Modal  dak1)",
+            "煲仔飯整好，食要喇！ (formal register distinction for The Versatile Modal  dak1)",
+            "煲仔飯整好，食諗住喇！ (colloquial conversational usage for The Versatile Modal  dak1)"
           ],
           "answerIndex": 0,
           "explanation": "動詞後加「得」（食得）表示動作已經就緒、可以進行。"
@@ -4875,10 +4875,10 @@
         {
           "prompt": "【協商答問】同事提議「聽日下晝兩點開會，得唔得？」，欲表示「行，沒問題」，應回答：",
           "options": [
-            "得，冇問題！ (dak1V  V U11)",
-            "識，冇問題！ (dak1V  V U11)",
-            "要，冇問題！ (dak1V  V U11)",
-            "諗住，冇問題！ (dak1V  V U11)"
+            "得，冇問題！ (standard target expression for The Versatile Modal  dak1)",
+            "識，冇問題！ (contextual contrast form in The Versatile Modal  dak1)",
+            "要，冇問題！ (formal register distinction for The Versatile Modal  dak1)",
+            "諗住，冇問題！ (colloquial conversational usage for The Versatile Modal  dak1)"
           ],
           "answerIndex": 0,
           "explanation": "獨立情態謂語「得」（dak1）表示同意、可行或沒問題。"
@@ -4891,10 +4891,10 @@
           "type": "multiple-choice",
           "prompt": "【句法功能】短語「部打印機整好，用得喇」中，「用得」之確切語法含義為：",
           "options": [
-            "打印機已經修復完畢，具備正常功能可以使用 (dak1V  V U11)",
-            "打印機必須強制作業 (dak1V  V U11)",
-            "打印機很想去工作 (dak1V  V U11)",
-            "打印機認識很多文件 (dak1V  V U11)"
+            "打印機已經修復完畢，具備正常功能可以使用 (standard target expression for The Versatile Modal  dak1)",
+            "打印機必須強制作業 (contextual contrast form in The Versatile Modal  dak1)",
+            "打印機很想去工作 (formal register distinction for The Versatile Modal  dak1)",
+            "打印機認識很多文件 (colloquial conversational usage for The Versatile Modal  dak1)"
           ],
           "answerIndex": 0,
           "explanation": "「用得」表示設備處於可正常使用之就緒狀態。"
@@ -4942,10 +4942,10 @@
         {
           "prompt": "【職場交涉】欲向上級表達「員工全體具備該技術（識），只要老闆願意批準（肯），明天就能正式動工（可以/得）」，應講：",
           "options": [
-            "我哋個個都識做，只要老細肯批，聽日就開得工！ (Core concept alternative form)",
-            "我哋個個都唔識做，只要老細唔肯批，聽日就開唔到工！ (Core concept alternative form)",
-            "我哋個個都搭車，只要老細轉車，聽日就落車！ (Core concept alternative form)",
-            "我哋個個都行街，只要老細買衫，聽日就找錢！ (Core concept alternative form)"
+            "我哋個個都識做，只要老細肯批，聽日就開得工！ (standard target expression for Comprehensive Modal Contrast   Negotiations)",
+            "我哋個個都唔識做，只要老細唔肯批，聽日就開唔到工！ (contextual contrast form in Comprehensive Modal Contrast   Negotiations)",
+            "我哋個個都搭車，只要老細轉車，聽日就落車！ (formal register distinction for Comprehensive Modal Contrast   Negotiations)",
+            "我哋個個都行街，只要老細買衫，聽日就找錢！ (colloquial conversational usage for Comprehensive Modal Contrast   Negotiations)"
           ],
           "answerIndex": 0,
           "explanation": "該句精確融合了技能「識」、主觀同意「肯」與就緒狀態「開得工」。"
@@ -4957,10 +4957,10 @@
         {
           "prompt": "【情態辨析】在句子「公司唔准員工喺辦公室食煙」中，「唔准」之精確含義為：",
           "options": [
-            "不允許 / 嚴格禁止 (Core concept alternative form)",
-            "不想吸煙 (Core concept alternative form)",
-            "不會吸煙 (Core concept alternative form)",
-            "不需要吸煙 (Core concept alternative form)"
+            "不允許 / 嚴格禁止 (standard target expression for Comprehensive Modal Contrast   Negotiations)",
+            "不想吸煙 (contextual contrast form in Comprehensive Modal Contrast   Negotiations)",
+            "不會吸煙 (formal register distinction for Comprehensive Modal Contrast   Negotiations)",
+            "不需要吸煙 (colloquial conversational usage for Comprehensive Modal Contrast   Negotiations)"
           ],
           "answerIndex": 0,
           "explanation": "「唔准」（m4 zeon2）表示官方或上級嚴格禁止、不予許可。"
@@ -4973,10 +4973,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合判斷】請選出語法結構、情態助動詞搭配完全正確且符合地道粵語表達之句子：",
           "options": [
-            "如果老細肯批准呢個計劃，我哋聽日就可以開得工喇 (Core concept alternative form)",
-            "如果老細要批准呢個計劃，我哋聽日就唔要返工喇 (Core concept alternative form)",
-            "如果老細識批准呢個計劃，我哋聽日就諗住開工喇 (Core concept alternative form)",
-            "如果老細准批准呢個計劃，我哋聽日就使返工喇 (Core concept alternative form)"
+            "如果老細肯批准呢個計劃，我哋聽日就可以開得工喇 (standard target expression for Comprehensive Modal Contrast   Negotiations)",
+            "如果老細要批准呢個計劃，我哋聽日就唔要返工喇 (contextual contrast form in Comprehensive Modal Contrast   Negotiations)",
+            "如果老細識批准呢個計劃，我哋聽日就諗住開工喇 (formal register distinction for Comprehensive Modal Contrast   Negotiations)",
+            "如果老細准批准呢個計劃，我哋聽日就使返工喇 (colloquial conversational usage for Comprehensive Modal Contrast   Negotiations)"
           ],
           "answerIndex": 0,
           "explanation": "該句語法邏輯嚴密，正確使用了意願「肯」、許可「可以」與就緒補語「開得工」。"
@@ -5024,10 +5024,10 @@
         {
           "prompt": "【動詞搭配】在粵語中描述「踢足球」與「打籃球」，正確之專屬動詞短語分別係：",
           "options": [
-            "踢波、打籃球 (Gym U12)",
-            "打波、踢籃球 (Gym U12)",
-            "游波、做籃球 (Gym U12)",
-            "行波、搭籃球 (Gym U12)"
+            "踢波、打籃球 (standard target expression for Sports   Ball Games Collocations)",
+            "打波、踢籃球 (contextual contrast form in Sports   Ball Games Collocations)",
+            "游波、做籃球 (formal register distinction for Sports   Ball Games Collocations)",
+            "行波、搭籃球 (colloquial conversational usage for Sports   Ball Games Collocations)"
           ],
           "answerIndex": 0,
           "explanation": "足球運動量詞動詞用「踢」（踢波），手打球類用「打」（打籃球）。"
@@ -5039,10 +5039,10 @@
         {
           "prompt": "【俚語識別】香港市民日常俗稱「去健身房進行器械重訓與體能健身」為：",
           "options": [
-            "做Gym / 做尖 (Gym U12)",
-            "行街 (Gym U12)",
-            "睇戲 (Gym U12)",
-            "唱K (Gym U12)"
+            "做Gym / 做尖 (standard target expression for Sports   Ball Games Collocations)",
+            "行街 (contextual contrast form in Sports   Ball Games Collocations)",
+            "睇戲 (formal register distinction for Sports   Ball Games Collocations)",
+            "唱K (colloquial conversational usage for Sports   Ball Games Collocations)"
           ],
           "answerIndex": 0,
           "explanation": "「做Gym / 做尖」（zou6 gym）指前往健身房健身鍛鍊。"
@@ -5055,10 +5055,10 @@
           "type": "multiple-choice",
           "prompt": "【語法正誤】請選出動詞搭配完全符合粵語規範之運動表達句子：",
           "options": [
-            "我同班波友每個星期六都去跑馬地踢波 (Gym U12)",
-            "我同班波友每個星期六都去跑馬地打足球 (Gym U12)",
-            "我同班波友每個星期六都去跑馬地游足球 (Gym U12)",
-            "我同班波友每個星期六都去跑馬地做足球 (Gym U12)"
+            "我同班波友每個星期六都去跑馬地踢波 (standard target expression for Sports   Ball Games Collocations)",
+            "我同班波友每個星期六都去跑馬地打足球 (contextual contrast form in Sports   Ball Games Collocations)",
+            "我同班波友每個星期六都去跑馬地游足球 (formal register distinction for Sports   Ball Games Collocations)",
+            "我同班波友每個星期六都去跑馬地做足球 (colloquial conversational usage for Sports   Ball Games Collocations)"
           ],
           "answerIndex": 0,
           "explanation": "足球運動在粵語中嚴格搭配動詞「踢」（踢波）。"
@@ -5106,10 +5106,10 @@
         {
           "prompt": "【戶外名詞】在粵語中描述「騎自行車」與「防蚊液/驅蚊水」，地道詞彙分別係：",
           "options": [
-            "踩單車、蚊怕水 (Core concept alternative form)",
-            "坐單車、防蚊汁 (Core concept alternative form)",
-            "行單車、蚊見愁 (Core concept alternative form)",
-            "搭單車、驅蟲油 (Core concept alternative form)"
+            "踩單車、蚊怕水 (standard target expression for Outdoor Recreation)",
+            "坐單車、防蚊汁 (contextual contrast form in Outdoor Recreation)",
+            "行單車、蚊見愁 (formal register distinction for Outdoor Recreation)",
+            "搭單車、驅蟲油 (colloquial conversational usage for Outdoor Recreation)"
           ],
           "answerIndex": 0,
           "explanation": "自行車在粵語中稱為「單車」（動詞用「踩」），驅蚊水俗稱「蚊怕水」。"
@@ -5121,10 +5121,10 @@
         {
           "prompt": "【香港地理】香港著名之遠足徑「龍脊」或「麥理浩徑」，其主要戶外運動類型係：",
           "options": [
-            "行山 (Core concept key phrasing)",
-            "唱K (Core concept alternative form)",
-            "打麻雀 (Core concept alternative form)",
-            "睇戲 (Core concept alternative form)"
+            "行山 (standard target expression for Outdoor Recreation)",
+            "唱K (contextual contrast form in Outdoor Recreation)",
+            "打麻雀 (formal register distinction for Outdoor Recreation)",
+            "睇戲 (colloquial conversational usage for Outdoor Recreation)"
           ],
           "answerIndex": 0,
           "explanation": "「行山」（haang4 saan1）指登山徒步健行。"
@@ -5137,10 +5137,10 @@
           "type": "multiple-choice",
           "prompt": "【文化理解】粵語詞彙「蚊怕水」（man1 paa3 seoi2）之字面構詞理據與實際用途為：",
           "options": [
-            "塗抹於皮膚上令蚊蟲懼怕不敢靠近之驅蚊液 (Core concept alternative form)",
-            "用來淹死蚊子之污水 (Core concept alternative form)",
-            "蚊子產卵喜愛之糖水 (Core concept alternative form)",
-            "洗滌登山衣物之清潔劑 (Core concept alternative form)"
+            "塗抹於皮膚上令蚊蟲懼怕不敢靠近之驅蚊液 (standard target expression for Outdoor Recreation)",
+            "用來淹死蚊子之污水 (contextual contrast form in Outdoor Recreation)",
+            "蚊子產卵喜愛之糖水 (formal register distinction for Outdoor Recreation)",
+            "洗滌登山衣物之清潔劑 (colloquial conversational usage for Outdoor Recreation)"
           ],
           "answerIndex": 0,
           "explanation": "「蚊怕水」直譯為「讓蚊子害怕的水」，即驅蚊噴霧/防蚊水。"
@@ -5188,10 +5188,10 @@
         {
           "prompt": "【影視詞彙】在粵語中描述「看電影」、「電影院」與「電影票」，正確之名詞組合係：",
           "options": [
-            "睇戲、戲院、戲飛 (K alternative form)",
-            "看電、電影室、電影券 (K alternative form)",
-            "望劇、劇院、劇票 (K alternative form)",
-            "瞧影、影城、影紙 (K alternative form)"
+            "睇戲、戲院、戲飛 (standard target expression for Urban Entertainment   Nightlife)",
+            "看電、電影室、電影券 (contextual contrast form in Urban Entertainment   Nightlife)",
+            "望劇、劇院、劇票 (formal register distinction for Urban Entertainment   Nightlife)",
+            "瞧影、影城、影紙 (colloquial conversational usage for Urban Entertainment   Nightlife)"
           ],
           "answerIndex": 0,
           "explanation": "看電影在粵語中稱為「睇戲」，電影院為「戲院」，電影票為「戲飛」。"
@@ -5203,10 +5203,10 @@
         {
           "prompt": "【俚語識別】粵語生動口語「煲劇」（bou1 kek6）之確切含義為：",
           "options": [
-            "連續長時間追看電視劇集 (K alternative form)",
-            "一邊煮煲仔飯一邊演戲 (K alternative form)",
-            "在廚房用砂鍋熬煮中藥 (K alternative form)",
-            "批評某部戲劇拍得太差 (K alternative form)"
+            "連續長時間追看電視劇集 (standard target expression for Urban Entertainment   Nightlife)",
+            "一邊煮煲仔飯一邊演戲 (contextual contrast form in Urban Entertainment   Nightlife)",
+            "在廚房用砂鍋熬煮中藥 (formal register distinction for Urban Entertainment   Nightlife)",
+            "批評某部戲劇拍得太差 (colloquial conversational usage for Urban Entertainment   Nightlife)"
           ],
           "answerIndex": 0,
           "explanation": "「煲劇」（bou1 kek6）專指連續狂看追劇（如同文火慢燉）。"
@@ -5219,10 +5219,10 @@
           "type": "multiple-choice",
           "prompt": "【麻雀術語】在香港打麻雀牌局中，當某位玩家成功和牌獲勝，口語中宣告之標準說法為：",
           "options": [
-            "我食糊喇！ (K alternative form)",
-            "我買單喇！ (K alternative form)",
-            "我搭枱喇！ (K alternative form)",
-            "我行街喇！ (K alternative form)"
+            "我食糊喇！ (standard target expression for Urban Entertainment   Nightlife)",
+            "我買單喇！ (contextual contrast form in Urban Entertainment   Nightlife)",
+            "我搭枱喇！ (formal register distinction for Urban Entertainment   Nightlife)",
+            "我行街喇！ (colloquial conversational usage for Urban Entertainment   Nightlife)"
           ],
           "answerIndex": 0,
           "explanation": "麻將胡牌在粵語中稱為「食糊」（sik6 wu42）。"
@@ -5270,10 +5270,10 @@
         {
           "prompt": "【樂器動詞】在粵語中描述演奏「鋼琴」與演奏「小提琴」，正確之專屬動詞分別係：",
           "options": [
-            "彈鋼琴、拉小提琴 (Core concept alternative form)",
-            "拉鋼琴、彈小提琴 (Core concept alternative form)",
-            "吹鋼琴、打小提琴 (Core concept alternative form)",
-            "踢鋼琴、做小提琴 (Core concept alternative form)"
+            "彈鋼琴、拉小提琴 (standard target expression for Cultural Arts   Hobbies)",
+            "拉鋼琴、彈小提琴 (contextual contrast form in Cultural Arts   Hobbies)",
+            "吹鋼琴、打小提琴 (formal register distinction for Cultural Arts   Hobbies)",
+            "踢鋼琴、做小提琴 (colloquial conversational usage for Cultural Arts   Hobbies)"
           ],
           "answerIndex": 0,
           "explanation": "鍵盤樂器用「彈」（彈鋼琴），弦樂拉弓用「拉」（拉小提琴）。"
@@ -5285,10 +5285,10 @@
         {
           "prompt": "【動詞搭配】欲表達「拿相機在海濱長廊拍照留念」，地道之粵語表達係：",
           "options": [
-            "喺海濱長廊影相 (Core concept alternative form)",
-            "喺海濱長廊拍相 (Core concept alternative form)",
-            "喺海濱長廊打相 (Core concept alternative form)",
-            "喺海濱長廊做相 (Core concept alternative form)"
+            "喺海濱長廊影相 (standard target expression for Cultural Arts   Hobbies)",
+            "喺海濱長廊拍相 (contextual contrast form in Cultural Arts   Hobbies)",
+            "喺海濱長廊打相 (formal register distinction for Cultural Arts   Hobbies)",
+            "喺海濱長廊做相 (colloquial conversational usage for Cultural Arts   Hobbies)"
           ],
           "answerIndex": 0,
           "explanation": "拍照在粵語中嚴格使用動詞「影」（影相）。"
@@ -5301,10 +5301,10 @@
           "type": "multiple-choice",
           "prompt": "【俚語溯源】粵語中形容對攝影、音響或特定技藝極度痴迷之行家發燒愛好者，稱之為：",
           "options": [
-            "發燒友 (Core concept key phrasing)",
-            "波友 (Core concept alternative form)",
-            "搭枱友 (Core concept alternative form)",
-            "司機友 (Core concept alternative form)"
+            "發燒友 (standard target expression for Cultural Arts   Hobbies)",
+            "波友 (contextual contrast form in Cultural Arts   Hobbies)",
+            "搭枱友 (formal register distinction for Cultural Arts   Hobbies)",
+            "司機友 (colloquial conversational usage for Cultural Arts   Hobbies)"
           ],
           "answerIndex": 0,
           "explanation": "痴迷某項愛好的資深愛好者在粵語中稱為「發燒友」（faat3 siu1 jau5）。"
@@ -5352,10 +5352,10 @@
         {
           "prompt": "【喜好表達】欲表達自己對某項活動「感覺一般、算不上特別喜歡」，最地道之粵語詞彙係：",
           "options": [
-            "麻麻哋 (Core concept key phrasing)",
-            "好中意 (Core concept alternative form)",
-            "最沉迷 (Core concept alternative form)",
-            "超鍾意 (Core concept alternative form)"
+            "麻麻哋 (standard target expression for Preferences   Invitations)",
+            "好中意 (contextual contrast form in Preferences   Invitations)",
+            "最沉迷 (formal register distinction for Preferences   Invitations)",
+            "超鍾意 (colloquial conversational usage for Preferences   Invitations)"
           ],
           "answerIndex": 0,
           "explanation": "「麻麻哋」（maa4 maa2 dei2）在粵語中表示普通、一般般。"
@@ -5367,10 +5367,10 @@
         {
           "prompt": "【社交邀約】欲向朋友提出「有空時聚在一起去郊外行山」，最熱情得體之粵語句式係：",
           "options": [
-            "得閒約埋一齊去行山啦！ (Core concept alternative form)",
-            "你一定要自己去行山！ (Core concept alternative form)",
-            "我唔識同你去行山！ (Core concept alternative form)",
-            "大家唔好去行山！ (Core concept alternative form)"
+            "得閒約埋一齊去行山啦！ (standard target expression for Preferences   Invitations)",
+            "你一定要自己去行山！ (contextual contrast form in Preferences   Invitations)",
+            "我唔識同你去行山！ (formal register distinction for Preferences   Invitations)",
+            "大家唔好去行山！ (colloquial conversational usage for Preferences   Invitations)"
           ],
           "answerIndex": 0,
           "explanation": "「得閒約埋一齊去……」係粵語最標準親切之社交聚會邀約語。"
@@ -5383,10 +5383,10 @@
           "type": "multiple-choice",
           "prompt": "【頻率副詞】在粵語中，副詞「成日」（seng4 jat6）之確切含義為：",
           "options": [
-            "總是、整天、頻繁老是 (Core concept alternative form)",
-            "僅限於昨天一天 (Core concept alternative form)",
-            "從來沒有發生過 (Core concept alternative form)",
-            "每年只發生一次 (Core concept alternative form)"
+            "總是、整天、頻繁老是 (standard target expression for Preferences   Invitations)",
+            "僅限於昨天一天 (contextual contrast form in Preferences   Invitations)",
+            "從來沒有發生過 (formal register distinction for Preferences   Invitations)",
+            "每年只發生一次 (colloquial conversational usage for Preferences   Invitations)"
           ],
           "answerIndex": 0,
           "explanation": "「成日」（seng4 jat6）在粵語中作為頻率副詞表示總是、老是、整天。"
@@ -5434,10 +5434,10 @@
         {
           "prompt": "【社交詢問】在商務社交場合欲禮貌詢問對方「從事哪個行業」，最地道之粵語提問係：",
           "options": [
-            "請問你做邊行呀？ (Core concept alternative form)",
-            "請問你搭邊架車呀？ (Core concept alternative form)",
-            "請問你行邊條路呀？ (Core concept alternative form)",
-            "請問你買邊件衫呀？ (Core concept alternative form)"
+            "請問你做邊行呀？ (standard target expression for Professions   Job Titles)",
+            "請問你搭邊架車呀？ (contextual contrast form in Professions   Job Titles)",
+            "請問你行邊條路呀？ (formal register distinction for Professions   Job Titles)",
+            "請問你買邊件衫呀？ (colloquial conversational usage for Professions   Job Titles)"
           ],
           "answerIndex": 0,
           "explanation": "「做邊行」（zou6 bin1 hong4）係粵語中詢問從事何種行業之標準表達。"
@@ -5449,10 +5449,10 @@
         {
           "prompt": "【職銜稱謂】專門負責協助客戶進行住宅或寫字樓買賣租賃之中介專才，粵語稱之為：",
           "options": [
-            "地產經紀 (Core concept key phrasing)",
-            "司機 (Core concept alternative form)",
-            "廚師 (Core concept alternative form)",
-            "波友 (Core concept alternative form)"
+            "地產經紀 (standard target expression for Professions   Job Titles)",
+            "司機 (contextual contrast form in Professions   Job Titles)",
+            "廚師 (formal register distinction for Professions   Job Titles)",
+            "波友 (colloquial conversational usage for Professions   Job Titles)"
           ],
           "answerIndex": 0,
           "explanation": "房產物業代理在香港通稱為「地產經紀」（dei6 caan2 ging1 gei2）。"
@@ -5465,10 +5465,10 @@
           "type": "multiple-choice",
           "prompt": "【商務敬語】在粵語中，禮貌敬語「喺邊度高就呀？」之確切含義為：",
           "options": [
-            "請問您在哪裡任職工作？ (Core concept alternative form)",
-            "請問您住在哪座高山？ (Core concept alternative form)",
-            "請問您爬了多高的山？ (Core concept alternative form)",
-            "請問您身材有多高？ (Core concept alternative form)"
+            "請問您在哪裡任職工作？ (standard target expression for Professions   Job Titles)",
+            "請問您住在哪座高山？ (contextual contrast form in Professions   Job Titles)",
+            "請問您爬了多高的山？ (formal register distinction for Professions   Job Titles)",
+            "請問您身材有多高？ (colloquial conversational usage for Professions   Job Titles)"
           ],
           "answerIndex": 0,
           "explanation": "「高就」（gou1 zau6）係商務場合禮貌詢問任職機構之敬語辭令。"
@@ -5516,10 +5516,10 @@
         {
           "prompt": "【求職表達】在粵語中描述「前往企業應聘職位參加求職面試」，最地道之說法係：",
           "options": [
-            "去見工 (Core concept alternative form)",
-            "去買工 (Core concept alternative form)",
-            "去行工 (Core concept alternative form)",
-            "去搭工 (Core concept alternative form)"
+            "去見工 (standard target expression for Office Routines   Business Trips)",
+            "去買工 (contextual contrast form in Office Routines   Business Trips)",
+            "去行工 (formal register distinction for Office Routines   Business Trips)",
+            "去搭工 (colloquial conversational usage for Office Routines   Business Trips)"
           ],
           "answerIndex": 0,
           "explanation": "參加求職面試在粵語中稱為「見工」（gin3 gung1）。"
@@ -5531,10 +5531,10 @@
         {
           "prompt": "【職場俚語】當遇到棘手複雜之業務突發危機，主管要求下屬「想辦法協調妥善解決」，口語常講：",
           "options": [
-            "諗辦法幫手拆掂佢！ (Core concept alternative form)",
-            "諗辦法幫手炒魷魚！ (Core concept alternative form)",
-            "諗辦法幫手遞信！ (Core concept alternative form)",
-            "諗辦法幫手派散水餅！ (Core concept alternative form)"
+            "諗辦法幫手拆掂佢！ (standard target expression for Office Routines   Business Trips)",
+            "諗辦法幫手炒魷魚！ (contextual contrast form in Office Routines   Business Trips)",
+            "諗辦法幫手遞信！ (formal register distinction for Office Routines   Business Trips)",
+            "諗辦法幫手派散水餅！ (colloquial conversational usage for Office Routines   Business Trips)"
           ],
           "answerIndex": 0,
           "explanation": "「拆掂佢」（caak3 dim6 keoi5）指把困難難題圓滿化解處理妥當。"
@@ -5547,10 +5547,10 @@
           "type": "multiple-choice",
           "prompt": "【公務術語】粵語動詞短語「傾生意」（king1 saang1 ji3）之確切含義為：",
           "options": [
-            "與客戶洽談商務合作與合約訂單 (Core concept alternative form)",
-            "向主管申請休假 (Core concept alternative form)",
-            "在辦公室吃下午茶 (Core concept alternative form)",
-            "操作影印機複印文件 (Core concept alternative form)"
+            "與客戶洽談商務合作與合約訂單 (standard target expression for Office Routines   Business Trips)",
+            "向主管申請休假 (contextual contrast form in Office Routines   Business Trips)",
+            "在辦公室吃下午茶 (formal register distinction for Office Routines   Business Trips)",
+            "操作影印機複印文件 (colloquial conversational usage for Office Routines   Business Trips)"
           ],
           "answerIndex": 0,
           "explanation": "「傾生意」（king1 saang1 ji3）指洽談商業合作、商談買賣訂單。"
@@ -5598,10 +5598,10 @@
         {
           "prompt": "【文儀名詞】在粵語中描述辦公室用來裝訂文件的「訂書機」與「迴形針」，正確之名稱分別係：",
           "options": [
-            "釘書機、萬字夾 (Core concept alternative form)",
-            "夾書機、回形扣 (Core concept alternative form)",
-            "訂紙機、鐵絲環 (Core concept alternative form)",
-            "合頁機、字形扣 (Core concept alternative form)"
+            "釘書機、萬字夾 (standard target expression for Office Equipment   Supplies)",
+            "夾書機、回形扣 (contextual contrast form in Office Equipment   Supplies)",
+            "訂紙機、鐵絲環 (formal register distinction for Office Equipment   Supplies)",
+            "合頁機、字形扣 (colloquial conversational usage for Office Equipment   Supplies)"
           ],
           "answerIndex": 0,
           "explanation": "訂書機在粵語中稱為「釘書機」，迴形針稱為「萬字夾」。"
@@ -5613,10 +5613,10 @@
         {
           "prompt": "【設備識別】公司財務部用來存放現金印章與極重要機密文件之安全保險箱，粵語稱之為：",
           "options": [
-            "夾萬 (Core concept key phrasing)",
-            "影印機 (Core concept alternative form)",
-            "碎紙機 (Core concept alternative form)",
-            "公文袋 (Core concept alternative form)"
+            "夾萬 (standard target expression for Office Equipment   Supplies)",
+            "影印機 (contextual contrast form in Office Equipment   Supplies)",
+            "碎紙機 (formal register distinction for Office Equipment   Supplies)",
+            "公文袋 (colloquial conversational usage for Office Equipment   Supplies)"
           ],
           "answerIndex": 0,
           "explanation": "保險箱在粵語中稱為「夾萬」（gaap3 maan6）。"
@@ -5629,10 +5629,10 @@
           "type": "multiple-choice",
           "prompt": "【辦公操作】當辦公室影印機出現「卡紙」（kaat1 zi2）故障時，其確切含義為：",
           "options": [
-            "打印紙張夾在機器滾輪內部無法順暢運轉輸出 (Core concept alternative form)",
-            "影印機的墨水用完了 (Core concept alternative form)",
-            "影印機電源線被拔掉 (Core concept alternative form)",
-            "影印機被鎖進了夾萬 (Core concept alternative form)"
+            "打印紙張夾在機器滾輪內部無法順暢運轉輸出 (standard target expression for Office Equipment   Supplies)",
+            "影印機的墨水用完了 (contextual contrast form in Office Equipment   Supplies)",
+            "影印機電源線被拔掉 (formal register distinction for Office Equipment   Supplies)",
+            "影印機被鎖進了夾萬 (colloquial conversational usage for Office Equipment   Supplies)"
           ],
           "answerIndex": 0,
           "explanation": "「卡紙」（kaat1 zi2）指紙張卡在印表機或影印機內部。"
@@ -5680,10 +5680,10 @@
         {
           "prompt": "【福利名詞】在香港職場中，年終固定加發一個月薪水之薪酬制度，口語稱為：",
           "options": [
-            "雙糧 (MPF U13)",
-            "單糧 (MPF U13)",
-            "半糧 (MPF U13)",
-            "空糧 (MPF U13)"
+            "雙糧 (standard target expression for Compensation   Benefits)",
+            "單糧 (contextual contrast form in Compensation   Benefits)",
+            "半糧 (formal register distinction for Compensation   Benefits)",
+            "空糧 (colloquial conversational usage for Compensation   Benefits)"
           ],
           "answerIndex": 0,
           "explanation": "年終加發一個月薪水在香港稱為「雙糧」（soeng1 loeng4）。"
@@ -5695,10 +5695,10 @@
         {
           "prompt": "【制度簡稱】香港法定之退休保障制度「強制性公積金」，英文簡稱與中文口語簡稱為：",
           "options": [
-            "強積金 / MPF (MPF U13)",
-            "養老金 / CPP (MPF U13)",
-            "退休保 / 401K (MPF U13)",
-            "醫保卡 / NHS (MPF U13)"
+            "強積金 / MPF (standard target expression for Compensation   Benefits)",
+            "養老金 / CPP (contextual contrast form in Compensation   Benefits)",
+            "退休保 / 401K (formal register distinction for Compensation   Benefits)",
+            "醫保卡 / NHS (colloquial conversational usage for Compensation   Benefits)"
           ],
           "answerIndex": 0,
           "explanation": "香港強制性公積金簡稱為「強積金」或英文縮寫「MPF」。"
@@ -5711,10 +5711,10 @@
           "type": "multiple-choice",
           "prompt": "【假期辨析】香港上班族口語中所講之「放公眾大假」（daai6 gaa3），確切指代：",
           "options": [
-            "僱員合同中享有的法定帶薪年假 (MPF U13)",
-            "週末兩天雙休日 (MPF U13)",
-            "因病請假的病假 (MPF U13)",
-            "政府規定的颱風假 (MPF U13)"
+            "僱員合同中享有的法定帶薪年假 (standard target expression for Compensation   Benefits)",
+            "週末兩天雙休日 (contextual contrast form in Compensation   Benefits)",
+            "因病請假的病假 (formal register distinction for Compensation   Benefits)",
+            "政府規定的颱風假 (colloquial conversational usage for Compensation   Benefits)"
           ],
           "answerIndex": 0,
           "explanation": "在香港職場中，「大假」（daai6 gaa3）指代帶薪年假（Annual Leave）。"
@@ -5762,10 +5762,10 @@
         {
           "prompt": "【離職習俗】香港員工在最後一個工作日（Last Day）購買西餅甜品派發給同事以示告別感謝，此傳統稱為：",
           "options": [
-            "派散水餅 (Core concept alternative form)",
-            "派月餅 (Core concept alternative form)",
-            "派嫁女餅 (Core concept alternative form)",
-            "派老婆餅 (Core concept alternative form)"
+            "派散水餅 (standard target expression for Promotions   Farewells)",
+            "派月餅 (contextual contrast form in Promotions   Farewells)",
+            "派嫁女餅 (formal register distinction for Promotions   Farewells)",
+            "派老婆餅 (colloquial conversational usage for Promotions   Farewells)"
           ],
           "answerIndex": 0,
           "explanation": "香港職場離職告別時派發的告別點心稱為「散水餅」（saan2 seoi2 beng2）。"
@@ -5777,10 +5777,10 @@
         {
           "prompt": "【職場動作】在粵語中描述員工「主動向主管提交辭職信」，最標準之口語短語係：",
           "options": [
-            "遞信 (Core concept key phrasing)",
-            "寄信 (Core concept alternative form)",
-            "收信 (Core concept alternative form)",
-            "印信 (Core concept alternative form)"
+            "遞信 (standard target expression for Promotions   Farewells)",
+            "寄信 (contextual contrast form in Promotions   Farewells)",
+            "收信 (formal register distinction for Promotions   Farewells)",
+            "印信 (colloquial conversational usage for Promotions   Farewells)"
           ],
           "answerIndex": 0,
           "explanation": "提交辭職信在粵語中稱為「遞信」（dai6 seon3）。"
@@ -5793,10 +5793,10 @@
           "type": "multiple-choice",
           "prompt": "【成語溯源】粵語經典俚語「畀老細炒魷魚」（caau2 jau4 jyu42）之實際含義為：",
           "options": [
-            "被老闆解僱開除 (Core concept alternative form)",
-            "被老闆邀請吃海鮮大餐 (Core concept alternative form)",
-            "在公司廚房烹飪海鮮 (Core concept alternative form)",
-            "獲得老闆升職加薪獎勵 (Core concept alternative form)"
+            "被老闆解僱開除 (standard target expression for Promotions   Farewells)",
+            "被老闆邀請吃海鮮大餐 (contextual contrast form in Promotions   Farewells)",
+            "在公司廚房烹飪海鮮 (formal register distinction for Promotions   Farewells)",
+            "獲得老闆升職加薪獎勵 (colloquial conversational usage for Promotions   Farewells)"
           ],
           "answerIndex": 0,
           "explanation": "「炒魷魚」指被解僱、開除（源於打工者捲起鋪蓋捲行李之形象）。"
@@ -5844,10 +5844,10 @@
         {
           "prompt": "【語序轉換】欲用標準粵語表達「搭地鐵比搭巴士快」，正確之語法語序係：",
           "options": [
-            "搭地鐵快過搭巴士 (A      B alternative form)",
-            "搭地鐵比搭巴士快 (A      B alternative form)",
-            "搭地鐵過搭巴士快 (A      B alternative form)",
-            "搭地鐵快比搭巴士 (A      B alternative form)"
+            "搭地鐵快過搭巴士 (standard target expression for Post Adjectival Comparatives)",
+            "搭地鐵比搭巴士快 (contextual contrast form in Post Adjectival Comparatives)",
+            "搭地鐵過搭巴士快 (formal register distinction for Post Adjectival Comparatives)",
+            "搭地鐵快比搭巴士 (colloquial conversational usage for Post Adjectival Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "粵語超越比較句嚴格採用「形容詞＋過＋比較對象」之後置結構（快過……）。"
@@ -5859,10 +5859,10 @@
         {
           "prompt": "【年齡比較】在粵語中表達「他比我大三歲」，最地道標準之句式係：",
           "options": [
-            "佢大過我三歲 (A      B alternative form)",
-            "佢比我大三歲 (A      B alternative form)",
-            "佢過我大三歲 (A      B alternative form)",
-            "佢大三歲比我 (A      B alternative form)"
+            "佢大過我三歲 (standard target expression for Post Adjectival Comparatives)",
+            "佢比我大三歲 (contextual contrast form in Post Adjectival Comparatives)",
+            "佢過我大三歲 (formal register distinction for Post Adjectival Comparatives)",
+            "佢大三歲比我 (colloquial conversational usage for Post Adjectival Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "年齡比較在粵語中同樣遵循「大過＋對象＋差額」之語序。"
@@ -5875,10 +5875,10 @@
           "type": "multiple-choice",
           "prompt": "【語法判斷】在粵語口語中，短語「好過冇」之確切含義為：",
           "options": [
-            "有總比沒有好 / 聊勝於無 (A      B alternative form)",
-            "最好甚麼都沒有 (A      B alternative form)",
-            "非常好而且應有盡有 (A      B alternative form)",
-            "完全沒有任何好處 (A      B alternative form)"
+            "有總比沒有好 / 聊勝於無 (standard target expression for Post Adjectival Comparatives)",
+            "最好甚麼都沒有 (contextual contrast form in Post Adjectival Comparatives)",
+            "非常好而且應有盡有 (formal register distinction for Post Adjectival Comparatives)",
+            "完全沒有任何好處 (colloquial conversational usage for Post Adjectival Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「好過冇」（hou2 gwo3 mou5）指比沒有要好，相當於「聊勝於無」。"
@@ -5926,10 +5926,10 @@
         {
           "prompt": "【差額位置】在粵語中表達「這件衣服比那件便宜五十塊錢」，正確之句子係：",
           "options": [
-            "呢件衫平過嗰件五十蚊 (Core concept alternative form)",
-            "呢件衫五十蚊平過嗰件 (Core concept alternative form)",
-            "呢件衫平五十蚊過嗰件 (Core concept alternative form)",
-            "呢件衫比嗰件平五十蚊過 (Core concept alternative form)"
+            "呢件衫平過嗰件五十蚊 (standard target expression for Comparative Differentials)",
+            "呢件衫五十蚊平過嗰件 (contextual contrast form in Comparative Differentials)",
+            "呢件衫平五十蚊過嗰件 (formal register distinction for Comparative Differentials)",
+            "呢件衫比嗰件平五十蚊過 (colloquial conversational usage for Comparative Differentials)"
           ],
           "answerIndex": 0,
           "explanation": "數量差額「五十蚊」必須置於比較對象「嗰件」之後。"
@@ -5941,10 +5941,10 @@
         {
           "prompt": "【程度補語】欲表達「這款電腦運行速度比舊電腦快很多」，地道口語係：",
           "options": [
-            "呢部電腦快過舊電腦好多 (Core concept alternative form)",
-            "呢部電腦很多快過舊電腦 (Core concept alternative form)",
-            "呢部電腦快好多過舊電腦 (Core concept alternative form)",
-            "呢部電腦比舊電腦很多快 (Core concept alternative form)"
+            "呢部電腦快過舊電腦好多 (standard target expression for Comparative Differentials)",
+            "呢部電腦很多快過舊電腦 (contextual contrast form in Comparative Differentials)",
+            "呢部電腦快好多過舊電腦 (formal register distinction for Comparative Differentials)",
+            "呢部電腦比舊電腦很多快 (colloquial conversational usage for Comparative Differentials)"
           ],
           "answerIndex": 0,
           "explanation": "程度補語「好多」必須置於比較對象「舊電腦」之後。"
@@ -5957,10 +5957,10 @@
           "type": "multiple-choice",
           "prompt": "【語序正誤】請判斷以下哪一句粵語差額比較句完全符合語法規範：",
           "options": [
-            "我哥哥高過我半個頭 (Core concept alternative form)",
-            "我哥哥半個頭高過我 (Core concept alternative form)",
-            "我哥哥高半個頭過我 (Core concept alternative form)",
-            "我哥哥過我高半個頭 (Core concept alternative form)"
+            "我哥哥高過我半個頭 (standard target expression for Comparative Differentials)",
+            "我哥哥半個頭高過我 (contextual contrast form in Comparative Differentials)",
+            "我哥哥高半個頭過我 (formal register distinction for Comparative Differentials)",
+            "我哥哥過我高半個頭 (colloquial conversational usage for Comparative Differentials)"
           ],
           "answerIndex": 0,
           "explanation": "差額量詞「半個頭」置於比較對象「我」之後，結構完全正確。"
@@ -6008,10 +6008,10 @@
         {
           "prompt": "【否定比較】欲用粵語委婉表達「今天沒有昨天那麼冷」，標準之句子係：",
           "options": [
-            "今日冇琴日咁凍 (A    B key phrasing)",
-            "今日不比琴日凍 (A    B alternative form)",
-            "今日冇琴日凍過 (A    B alternative form)",
-            "今日冇咁凍琴日 (A    B alternative form)"
+            "今日冇琴日咁凍 (standard target expression for Inferiority Comparisons)",
+            "今日不比琴日凍 (contextual contrast form in Inferiority Comparisons)",
+            "今日冇琴日凍過 (formal register distinction for Inferiority Comparisons)",
+            "今日冇咁凍琴日 (colloquial conversational usage for Inferiority Comparisons)"
           ],
           "answerIndex": 0,
           "explanation": "粵語不及比較句固定結構為「主語＋冇＋對象＋咁＋形容詞」（今日冇琴日咁凍）。"
@@ -6023,10 +6023,10 @@
         {
           "prompt": "【句意轉換】句子「搭地鐵快過搭巴士」轉換為以「搭巴士」為主語之否定比較句，應為：",
           "options": [
-            "搭巴士冇搭地鐵咁快 (A    B alternative form)",
-            "搭巴士快過搭地鐵 (A    B alternative form)",
-            "搭巴士冇地鐵快過 (A    B alternative form)",
-            "搭巴士同地鐵一樣快 (A    B alternative form)"
+            "搭巴士冇搭地鐵咁快 (standard target expression for Inferiority Comparisons)",
+            "搭巴士快過搭地鐵 (contextual contrast form in Inferiority Comparisons)",
+            "搭巴士冇地鐵快過 (formal register distinction for Inferiority Comparisons)",
+            "搭巴士同地鐵一樣快 (colloquial conversational usage for Inferiority Comparisons)"
           ],
           "answerIndex": 0,
           "explanation": "「Ａ快過Ｂ」之等價否定句為「Ｂ冇Ａ咁快」。"
@@ -6039,10 +6039,10 @@
           "type": "multiple-choice",
           "prompt": "【語氣理解】當朋友向你請教某項高難度技能，你回答「件事冇咁易㗎！」，此話含意為：",
           "options": [
-            "這件事情沒有想像中那麼容易 (A    B alternative form)",
-            "這件事情非常簡單容易 (A    B alternative form)",
-            "這件事情根本不需要做 (A    B alternative form)",
-            "這件事情已經徹底完成了 (A    B alternative form)"
+            "這件事情沒有想像中那麼容易 (standard target expression for Inferiority Comparisons)",
+            "這件事情非常簡單容易 (contextual contrast form in Inferiority Comparisons)",
+            "這件事情根本不需要做 (formal register distinction for Inferiority Comparisons)",
+            "這件事情已經徹底完成了 (colloquial conversational usage for Inferiority Comparisons)"
           ],
           "answerIndex": 0,
           "explanation": "「冇咁易」（mou5 gam3 ji6）意為沒有那麼容易。"
@@ -6090,10 +6090,10 @@
         {
           "prompt": "【等同句式】在粵語中表達「這部手機和那部一樣貴」，正確之句子係：",
           "options": [
-            "呢部手機同嗰部一樣咁貴 (A    B alternative form)",
-            "呢部手機一樣貴過嗰部 (A    B alternative form)",
-            "呢部手機同嗰部貴一樣 (A    B alternative form)",
-            "呢部手機比嗰部一樣貴 (A    B alternative form)"
+            "呢部手機同嗰部一樣咁貴 (standard target expression for Equatives   Similarity)",
+            "呢部手機一樣貴過嗰部 (contextual contrast form in Equatives   Similarity)",
+            "呢部手機同嗰部貴一樣 (formal register distinction for Equatives   Similarity)",
+            "呢部手機比嗰部一樣貴 (colloquial conversational usage for Equatives   Similarity)"
           ],
           "answerIndex": 0,
           "explanation": "屬性等同比較句結構為「Ａ＋同＋Ｂ＋一樣咁＋形容詞」。"
@@ -6105,10 +6105,10 @@
         {
           "prompt": "【相仿表達】欲表達「我和他年齡相仿、差不多大」，地道口語係：",
           "options": [
-            "我同佢年紀差唔多 (A    B alternative form)",
-            "我同佢年紀差不多過 (A    B alternative form)",
-            "我比佢年紀差唔多大 (A    B alternative form)",
-            "我過佢年紀差唔多 (A    B alternative form)"
+            "我同佢年紀差唔多 (standard target expression for Equatives   Similarity)",
+            "我同佢年紀差不多過 (contextual contrast form in Equatives   Similarity)",
+            "我比佢年紀差唔多大 (formal register distinction for Equatives   Similarity)",
+            "我過佢年紀差唔多 (colloquial conversational usage for Equatives   Similarity)"
           ],
           "answerIndex": 0,
           "explanation": "「差唔多」（caa1 m4 do1）作為謂語表示大體相仿、相差無幾。"
@@ -6121,10 +6121,10 @@
           "type": "multiple-choice",
           "prompt": "【否定判斷】句子「我嘅意見同你完全唔同」之確切含義為：",
           "options": [
-            "我的意見和你的完全不一樣 / 大相徑庭 (A    B alternative form)",
-            "我的意見和你的完全一致 (A    B alternative form)",
-            "我沒有任何意見 (A    B alternative form)",
-            "我非常贊成你的觀點 (A    B alternative form)"
+            "我的意見和你的完全不一樣 / 大相徑庭 (standard target expression for Equatives   Similarity)",
+            "我的意見和你的完全一致 (contextual contrast form in Equatives   Similarity)",
+            "我沒有任何意見 (formal register distinction for Equatives   Similarity)",
+            "我非常贊成你的觀點 (colloquial conversational usage for Equatives   Similarity)"
           ],
           "answerIndex": 0,
           "explanation": "「唔同」（m4 tung4）在粵語中表示不同、不一樣。"
@@ -6172,10 +6172,10 @@
         {
           "prompt": "【極致補語】在粵語中欲極度讚賞某物「美艷震撼到了極點」，地道之形容詞搭配係：",
           "options": [
-            "靚到震 (Core concept key phrasing)",
-            "靚到坐 (Core concept alternative form)",
-            "靚到跑 (Core concept alternative form)",
-            "靚到跳 (Core concept alternative form)"
+            "靚到震 (standard target expression for Superlatives   Extreme Degree)",
+            "靚到坐 (contextual contrast form in Superlatives   Extreme Degree)",
+            "靚到跑 (formal register distinction for Superlatives   Extreme Degree)",
+            "靚到跳 (colloquial conversational usage for Superlatives   Extreme Degree)"
           ],
           "answerIndex": 0,
           "explanation": "「靚到震」（leng3 dou3 zan3）指美麗到令人心靈震撼之極致程度。"
@@ -6187,10 +6187,10 @@
         {
           "prompt": "【極致稱讚】在香港粵語中，讚美食物或服務好到無可挑剔、頂級絕妙，最經典之俚語係：",
           "options": [
-            "冇得頂！ (Core concept alternative form)",
-            "冇得食！ (Core concept alternative form)",
-            "冇得睇！ (Core concept alternative form)",
-            "冇得行！ (Core concept alternative form)"
+            "冇得頂！ (standard target expression for Superlatives   Extreme Degree)",
+            "冇得食！ (contextual contrast form in Superlatives   Extreme Degree)",
+            "冇得睇！ (formal register distinction for Superlatives   Extreme Degree)",
+            "冇得行！ (colloquial conversational usage for Superlatives   Extreme Degree)"
           ],
           "answerIndex": 0,
           "explanation": "「冇得頂」（mou5 dak1 ding2）意為好到了極點、頂級絕妙。"
@@ -6203,10 +6203,10 @@
           "type": "multiple-choice",
           "prompt": "【成語語義】在粵語評價中稱讚某餐廳的菜式「喺全香港數一數二」，其確切含義為：",
           "options": [
-            "在全香港名列前茅、頂尖一流 (Core concept alternative form)",
-            "全香港只有一到兩個人吃過 (Core concept alternative form)",
-            "全香港只開了一家到兩家分店 (Core concept alternative form)",
-            "價格在全香港排名倒數第一 (Core concept alternative form)"
+            "在全香港名列前茅、頂尖一流 (standard target expression for Superlatives   Extreme Degree)",
+            "全香港只有一到兩個人吃過 (contextual contrast form in Superlatives   Extreme Degree)",
+            "全香港只開了一家到兩家分店 (formal register distinction for Superlatives   Extreme Degree)",
+            "價格在全香港排名倒數第一 (colloquial conversational usage for Superlatives   Extreme Degree)"
           ],
           "answerIndex": 0,
           "explanation": "「數一數二」指在同行或同類事物中名列前茅、數一數二。"
@@ -6254,10 +6254,10 @@
         {
           "prompt": "【跨海動詞】在香港粵語中描述從九龍或新界前往香港島，最地道專屬之動詞係：",
           "options": [
-            "過海 (Core concept key phrasing)",
-            "過河 (Core concept alternative form)",
-            "過橋 (Core concept alternative form)",
-            "過山 (Core concept alternative form)"
+            "過海 (standard target expression for HK Macro Geography   Cross Harbour Links)",
+            "過河 (contextual contrast form in HK Macro Geography   Cross Harbour Links)",
+            "過橋 (formal register distinction for HK Macro Geography   Cross Harbour Links)",
+            "過山 (colloquial conversational usage for HK Macro Geography   Cross Harbour Links)"
           ],
           "answerIndex": 0,
           "explanation": "往來港島與九龍新界在粵語中專用動詞「過海」（gwo3 hoi2）。"
@@ -6269,10 +6269,10 @@
         {
           "prompt": "【設施簡稱】香港歷史最悠久、連接紅磡與灣仔告士打道之海底隧道，口語簡稱為：",
           "options": [
-            "紅隧 (Core concept key phrasing)",
-            "東隧 (Core concept alternative form)",
-            "西隧 (Core concept alternative form)",
-            "大隧 (Core concept alternative form)"
+            "紅隧 (standard target expression for HK Macro Geography   Cross Harbour Links)",
+            "東隧 (contextual contrast form in HK Macro Geography   Cross Harbour Links)",
+            "西隧 (formal register distinction for HK Macro Geography   Cross Harbour Links)",
+            "大隧 (colloquial conversational usage for HK Macro Geography   Cross Harbour Links)"
           ],
           "answerIndex": 0,
           "explanation": "紅磡海底隧道在香港口語中普遍簡稱為「紅隧」（hung4 seoi6）。"
@@ -6285,10 +6285,10 @@
           "type": "multiple-choice",
           "prompt": "【板塊常識】香港地理三大核心組成板塊中，佔全港土地面積八成以上之區域為：",
           "options": [
-            "新界同離島 (Core concept alternative form)",
-            "香港島 (Core concept alternative form)",
-            "九龍半島 (Core concept alternative form)",
-            "維多利亞港 (Core concept alternative form)"
+            "新界同離島 (standard target expression for HK Macro Geography   Cross Harbour Links)",
+            "香港島 (contextual contrast form in HK Macro Geography   Cross Harbour Links)",
+            "九龍半島 (formal register distinction for HK Macro Geography   Cross Harbour Links)",
+            "維多利亞港 (colloquial conversational usage for HK Macro Geography   Cross Harbour Links)"
           ],
           "answerIndex": 0,
           "explanation": "新界連同各個離島佔香港整體陸地面積超過百分之八十。"
@@ -6336,10 +6336,10 @@
         {
           "prompt": "【地標匹配】香港歷史悠久之登山復古纜車，其直達之港島著名俯瞰全港夜景勝地係：",
           "options": [
-            "太平山頂 (Core concept key phrasing)",
-            "獅子山 (Core concept alternative form)",
-            "大帽山 (Core concept alternative form)",
-            "鳳凰山 (Core concept alternative form)"
+            "太平山頂 (standard target expression for HK Island Districts   Landmarks)",
+            "獅子山 (contextual contrast form in HK Island Districts   Landmarks)",
+            "大帽山 (formal register distinction for HK Island Districts   Landmarks)",
+            "鳳凰山 (colloquial conversational usage for HK Island Districts   Landmarks)"
           ],
           "answerIndex": 0,
           "explanation": "山頂纜車直達太平山頂（taai3 ping4 saan1 deng2）。"
@@ -6351,10 +6351,10 @@
         {
           "prompt": "【街區識別】位於港島中環、以異國風情特色酒吧、西餐廳與夜生活聞名之街區係：",
           "options": [
-            "蘭桂坊 (Core concept key phrasing)",
-            "女人街 (Core concept alternative form)",
-            "波鞋街 (Core concept alternative form)",
-            "金魚街 (Core concept alternative form)"
+            "蘭桂坊 (standard target expression for HK Island Districts   Landmarks)",
+            "女人街 (contextual contrast form in HK Island Districts   Landmarks)",
+            "波鞋街 (formal register distinction for HK Island Districts   Landmarks)",
+            "金魚街 (colloquial conversational usage for HK Island Districts   Landmarks)"
           ],
           "answerIndex": 0,
           "explanation": "中環著名酒吧與夜生活街區為「蘭桂坊」（laan4 gwai3 fong1）。"
@@ -6367,10 +6367,10 @@
           "type": "multiple-choice",
           "prompt": "【古蹟文化】由舊中區警署建築群活化而成之當代文藝古蹟地標，其通稱為：",
           "options": [
-            "大館 (Core concept key phrasing)",
-            "大會堂 (Core concept alternative form)",
-            "大劇院 (Core concept alternative form)",
-            "大碼頭 (Core concept alternative form)"
+            "大館 (standard target expression for HK Island Districts   Landmarks)",
+            "大會堂 (contextual contrast form in HK Island Districts   Landmarks)",
+            "大劇院 (formal register distinction for HK Island Districts   Landmarks)",
+            "大碼頭 (colloquial conversational usage for HK Island Districts   Landmarks)"
           ],
           "answerIndex": 0,
           "explanation": "舊中區警署建築群在香港通稱「大館」（daai6 gun2）。"
@@ -6418,10 +6418,10 @@
         {
           "prompt": "【特色街區】位於九龍旺角花園街南段、專門集中售賣各類潮流運動鞋之特色街道稱為：",
           "options": [
-            "波鞋街 (Core concept key phrasing)",
-            "金魚街 (Core concept alternative form)",
-            "女人街 (Core concept alternative form)",
-            "廟街 (Core concept alternative form)"
+            "波鞋街 (standard target expression for Kowloon Landmarks   Heritage)",
+            "金魚街 (contextual contrast form in Kowloon Landmarks   Heritage)",
+            "女人街 (formal register distinction for Kowloon Landmarks   Heritage)",
+            "廟街 (colloquial conversational usage for Kowloon Landmarks   Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "花園街南段因專門售賣運動鞋（波鞋）而通稱「波鞋街」（bo1 haai4 gaai1）。"
@@ -6433,10 +6433,10 @@
         {
           "prompt": "【廟宇民俗】以「有求必應」著稱、每逢農曆新年除夕善信爭插「頭炷香」之著名道教宮觀係：",
           "options": [
-            "黃大仙祠 (Core concept key phrasing)",
-            "文武廟 (Core concept alternative form)",
-            "車公廟 (Core concept alternative form)",
-            "天后廟 (Core concept alternative form)"
+            "黃大仙祠 (standard target expression for Kowloon Landmarks   Heritage)",
+            "文武廟 (contextual contrast form in Kowloon Landmarks   Heritage)",
+            "車公廟 (formal register distinction for Kowloon Landmarks   Heritage)",
+            "天后廟 (colloquial conversational usage for Kowloon Landmarks   Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "「黃大仙祠」（wong4 daai6 sin1 ci4）以有求必應與新春頭炷香聞名。"
@@ -6449,10 +6449,10 @@
           "type": "multiple-choice",
           "prompt": "【市井街區】九龍油麻地擁有百年歷史之著名水果批發交易市場，粵語口語簡稱為：",
           "options": [
-            "果欄 (Core concept key phrasing)",
-            "菜欄 (Core concept alternative form)",
-            "魚欄 (Core concept alternative form)",
-            "肉欄 (Core concept alternative form)"
+            "果欄 (standard target expression for Kowloon Landmarks   Heritage)",
+            "菜欄 (contextual contrast form in Kowloon Landmarks   Heritage)",
+            "魚欄 (formal register distinction for Kowloon Landmarks   Heritage)",
+            "肉欄 (colloquial conversational usage for Kowloon Landmarks   Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "油麻地水果批發市場在香港通稱為「果欄」（gwo2 laan4）。"
@@ -6500,10 +6500,10 @@
         {
           "prompt": "【自然地標】因山清水秀、地質公園景觀優美而素有「香港後花園」美譽之新界地區係：",
           "options": [
-            "西貢 (Core concept key phrasing)",
-            "觀塘 (Core concept alternative form)",
-            "深水埗 (Core concept alternative form)",
-            "油麻地 (Core concept alternative form)"
+            "西貢 (standard target expression for New Territories Heritage   Nature)",
+            "觀塘 (contextual contrast form in New Territories Heritage   Nature)",
+            "深水埗 (formal register distinction for New Territories Heritage   Nature)",
+            "油麻地 (colloquial conversational usage for New Territories Heritage   Nature)"
           ],
           "answerIndex": 0,
           "explanation": "「西貢」（sai1 gung3）被譽為「香港後花園」。"
@@ -6515,10 +6515,10 @@
         {
           "prompt": "【非遺美食】元朗原居民圍村在喜慶節日時全村共食、象徵「盆滿缽滿」之傳統特色菜式係：",
           "options": [
-            "圍村盆菜 (Core concept alternative form)",
-            "叉燒包 (Core concept alternative form)",
-            "菠蘿包 (Core concept alternative form)",
-            "老婆餅 (Core concept alternative form)"
+            "圍村盆菜 (standard target expression for New Territories Heritage   Nature)",
+            "叉燒包 (contextual contrast form in New Territories Heritage   Nature)",
+            "菠蘿包 (formal register distinction for New Territories Heritage   Nature)",
+            "老婆餅 (colloquial conversational usage for New Territories Heritage   Nature)"
           ],
           "answerIndex": 0,
           "explanation": "新界原居民圍村最具代表性之喜慶盛宴為「盆菜」（pun4 coi3）。"
@@ -6531,10 +6531,10 @@
           "type": "multiple-choice",
           "prompt": "【民俗祈福】沙田車公廟每年新春吸引大量善信前往祈福，信眾通常透過轉動何種吉祥物象徵轉運：",
           "options": [
-            "銅風車 (Core concept key phrasing)",
-            "轉經筒 (Core concept alternative form)",
-            "大銅鐘 (Core concept alternative form)",
-            "八卦鏡 (Core concept alternative form)"
+            "銅風車 (standard target expression for New Territories Heritage   Nature)",
+            "轉經筒 (contextual contrast form in New Territories Heritage   Nature)",
+            "大銅鐘 (formal register distinction for New Territories Heritage   Nature)",
+            "八卦鏡 (colloquial conversational usage for New Territories Heritage   Nature)"
           ],
           "answerIndex": 0,
           "explanation": "車公廟信眾透過轉動銅風車（zyun3 fung1 ce1）祈求轉運轉吉。"
@@ -6582,10 +6582,10 @@
         {
           "prompt": "【非遺盛事】每年農曆四月在長洲舉行、以「搶包山」與「飄色巡遊」聞名全港之傳統節慶係：",
           "options": [
-            "長洲太平清醮 (Core concept alternative form)",
-            "大坑舞火龍 (Core concept alternative form)",
-            "中秋綵燈會 (Core concept alternative form)",
-            "天后誕巡遊 (Core concept alternative form)"
+            "長洲太平清醮 (standard target expression for Outlying Islands   Living Heritage)",
+            "大坑舞火龍 (contextual contrast form in Outlying Islands   Living Heritage)",
+            "中秋綵燈會 (formal register distinction for Outlying Islands   Living Heritage)",
+            "天后誕巡遊 (colloquial conversational usage for Outlying Islands   Living Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "長洲最負盛名之國家級非遺民俗節慶為「太平清醮」（taai3 ping4 cing1 ziu3）。"
@@ -6597,10 +6597,10 @@
         {
           "prompt": "【名勝景觀】大嶼山寶蓮禪寺旁著名之世界級戶外青銅坐佛，其正式名稱係：",
           "options": [
-            "天壇大佛 (Core concept key phrasing)",
-            "樂山大佛 (Core concept alternative form)",
-            "雲岡大佛 (Core concept alternative form)",
-            "龍門大佛 (Core concept alternative form)"
+            "天壇大佛 (standard target expression for Outlying Islands   Living Heritage)",
+            "樂山大佛 (contextual contrast form in Outlying Islands   Living Heritage)",
+            "雲岡大佛 (formal register distinction for Outlying Islands   Living Heritage)",
+            "龍門大佛 (colloquial conversational usage for Outlying Islands   Living Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "大嶼山著名青銅坐佛為「天壇大佛」（tin1 taan4 daai6 fat6）。"
@@ -6613,10 +6613,10 @@
           "type": "multiple-choice",
           "prompt": "【水鄉景觀】被譽為「東方威尼斯」之大澳漁村，其搭建在水面潮汐之上的標誌性民居建築稱為：",
           "options": [
-            "棚屋 (Core concept key phrasing)",
-            "石屋 (Core concept alternative form)",
-            "竹樓 (Core concept alternative form)",
-            "碉堡 (Core concept alternative form)"
+            "棚屋 (standard target expression for Outlying Islands   Living Heritage)",
+            "石屋 (contextual contrast form in Outlying Islands   Living Heritage)",
+            "竹樓 (formal register distinction for Outlying Islands   Living Heritage)",
+            "碉堡 (colloquial conversational usage for Outlying Islands   Living Heritage)"
           ],
           "answerIndex": 0,
           "explanation": "大澳水鄉建於水面木柱之上的傳統民居稱為「棚屋」（paang4 uk1）。"
@@ -6664,10 +6664,10 @@
         {
           "prompt": "【公文句式】在正式商務或公務場合表達「請把這份文件交給陳經理」，最得體之粵語處置句係：",
           "options": [
-            "請將呢份文件交畀陳經理 (Core concept alternative form)",
-            "請交呢份文件畀陳經理 (Core concept alternative form)",
-            "請將陳經理交畀呢份文件 (Core concept alternative form)",
-            "請呢份文件將交畀陳經理 (Core concept alternative form)"
+            "請將呢份文件交畀陳經理 (standard target expression for The  zoeng1  Disposal Construction)",
+            "請交呢份文件畀陳經理 (contextual contrast form in The  zoeng1  Disposal Construction)",
+            "請將陳經理交畀呢份文件 (formal register distinction for The  zoeng1  Disposal Construction)",
+            "請呢份文件將交畀陳經理 (colloquial conversational usage for The  zoeng1  Disposal Construction)"
           ],
           "answerIndex": 0,
           "explanation": "標準處置句公式為「主語＋將＋賓語＋動詞補語」（請將呢份文件交畀……）。"
@@ -6679,10 +6679,10 @@
         {
           "prompt": "【語法結構】在粵語「將」字句中，動詞謂語後方必須具備之語法要素係：",
           "options": [
-            "結果補語、趨向補語或體貌助詞 (Core concept alternative form)",
-            "形容詞最高級標記 (Core concept alternative form)",
-            "疑問代名詞 (Core concept alternative form)",
-            "否定副詞「唔 (Core concept alternative form)"
+            "結果補語、趨向補語或體貌助詞 (standard target expression for The  zoeng1  Disposal Construction)",
+            "形容詞最高級標記 (contextual contrast form in The  zoeng1  Disposal Construction)",
+            "疑問代名詞 (formal register distinction for The  zoeng1  Disposal Construction)",
+            "否定副詞「唔 (colloquial conversational usage for The  zoeng1  Disposal Construction)"
           ],
           "answerIndex": 0,
           "explanation": "處置句要求動詞後方必須帶有結果、趨向補語或體態助詞，以交代處置之終結狀態。"
@@ -6695,10 +6695,10 @@
           "type": "multiple-choice",
           "prompt": "【句意解析】港鐵廣播詞「請將座位讓畀有需要嘅乘客」，其句法結構屬於：",
           "options": [
-            "「將」字受事處置祈使句 (Core concept alternative form)",
-            "否定比較句 (Core concept alternative form)",
-            "被動被字句 (Core concept alternative form)",
-            "可能態疑問句 (Core concept alternative form)"
+            "「將」字受事處置祈使句 (standard target expression for The  zoeng1  Disposal Construction)",
+            "否定比較句 (contextual contrast form in The  zoeng1  Disposal Construction)",
+            "被動被字句 (formal register distinction for The  zoeng1  Disposal Construction)",
+            "可能態疑問句 (colloquial conversational usage for The  zoeng1  Disposal Construction)"
           ],
           "answerIndex": 0,
           "explanation": "此句通過「將＋受事（座位）＋動詞（讓畀）＋對象」構成標準處置祈使句。"
@@ -6746,10 +6746,10 @@
         {
           "prompt": "【口語處置】在粵語日常生活中欲催促對方「把這碗湯喝了它」，最地道之口語說法係：",
           "options": [
-            "快啲飲咗碗湯佢！ (Core concept alternative form)",
-            "快啲把碗湯喝！ (Core concept alternative form)",
-            "快啲飲碗湯把！ (Core concept alternative form)",
-            "快啲將碗湯喝！ (Core concept alternative form)"
+            "快啲飲咗碗湯佢！ (standard target expression for Resumptive  keoi5  Disposal)",
+            "快啲把碗湯喝！ (contextual contrast form in Resumptive  keoi5  Disposal)",
+            "快啲飲碗湯把！ (formal register distinction for Resumptive  keoi5  Disposal)",
+            "快啲將碗湯喝！ (colloquial conversational usage for Resumptive  keoi5  Disposal)"
           ],
           "answerIndex": 0,
           "explanation": "粵語口語處置句典型結構為「動詞＋賓語＋佢」（飲咗碗湯佢）。"
@@ -6761,10 +6761,10 @@
         {
           "prompt": "【動作識別】當看見桌上有過期壞掉之食物，媽媽吩咐孩子「把它扔掉」，口語常講：",
           "options": [
-            "抌咗佢！ (Core concept alternative form)",
-            "食咗佢！ (Core concept alternative form)",
-            "買咗佢！ (Core concept alternative form)",
-            "睇咗佢！ (Core concept alternative form)"
+            "抌咗佢！ (standard target expression for Resumptive  keoi5  Disposal)",
+            "食咗佢！ (contextual contrast form in Resumptive  keoi5  Disposal)",
+            "買咗佢！ (formal register distinction for Resumptive  keoi5  Disposal)",
+            "睇咗佢！ (colloquial conversational usage for Resumptive  keoi5  Disposal)"
           ],
           "answerIndex": 0,
           "explanation": "「抌」（dam2）在粵語中表示扔掉、丟棄。「抌咗佢」即把它扔掉。"
@@ -6777,10 +6777,10 @@
           "type": "multiple-choice",
           "prompt": "【語法功能】在粵語短語「搞掂佢」（gaau2 dim6 keoi5）中，字尾「佢」之主要語法功能係：",
           "options": [
-            "作為後置虛指處置代詞，強化完成處置之語氣 (Core concept alternative form)",
-            "專門特指某一位男性長輩 (Core concept alternative form)",
-            "表示疑問語氣助詞 (Core concept alternative form)",
-            "表示否定副詞 (Core concept alternative form)"
+            "作為後置虛指處置代詞，強化完成處置之語氣 (standard target expression for Resumptive  keoi5  Disposal)",
+            "專門特指某一位男性長輩 (contextual contrast form in Resumptive  keoi5  Disposal)",
+            "表示疑問語氣助詞 (formal register distinction for Resumptive  keoi5  Disposal)",
+            "表示否定副詞 (colloquial conversational usage for Resumptive  keoi5  Disposal)"
           ],
           "answerIndex": 0,
           "explanation": "「佢」在處置短語中虛化為處置了結之代詞標記。"
@@ -6828,10 +6828,10 @@
         {
           "prompt": "【位置轉移】欲表達「請把這份文件放在我的辦公桌上」，標準粵語處置句係：",
           "options": [
-            "請將呢份文件擺喺我張寫字枱上面 (Core concept alternative form)",
-            "請將我張寫字枱擺喺呢份文件 (Core concept alternative form)",
-            "請擺喺呢份文件我張寫字枱 (Core concept alternative form)",
-            "請呢份文件擺喺將我張寫字枱 (Core concept alternative form)"
+            "請將呢份文件擺喺我張寫字枱上面 (standard target expression for Resultative   Directional Disposals)",
+            "請將我張寫字枱擺喺呢份文件 (contextual contrast form in Resultative   Directional Disposals)",
+            "請擺喺呢份文件我張寫字枱 (formal register distinction for Resultative   Directional Disposals)",
+            "請呢份文件擺喺將我張寫字枱 (colloquial conversational usage for Resultative   Directional Disposals)"
           ],
           "answerIndex": 0,
           "explanation": "「將＋賓語（呢份文件）＋動詞補語（擺喺……）」為正確結構。"
@@ -6843,10 +6843,10 @@
         {
           "prompt": "【對象轉移】快遞員將物品親手送達並轉移給接收者，動詞短語應選用：",
           "options": [
-            "遞畀 (Core concept key phrasing)",
-            "食畀 (Core concept alternative form)",
-            "行畀 (Core concept alternative form)",
-            "睇畀 (Core concept alternative form)"
+            "遞畀 (standard target expression for Resultative   Directional Disposals)",
+            "食畀 (contextual contrast form in Resultative   Directional Disposals)",
+            "行畀 (formal register distinction for Resultative   Directional Disposals)",
+            "睇畀 (colloquial conversational usage for Resultative   Directional Disposals)"
           ],
           "answerIndex": 0,
           "explanation": "「遞畀」（dai6 bei2）表示親手遞交、傳遞給某人。"
@@ -6859,10 +6859,10 @@
           "type": "multiple-choice",
           "prompt": "【趨向理解】句子「記得將部手提電腦帶返屋企」中，「帶返」之核心語義為：",
           "options": [
-            "把筆記本電腦帶回到家中原處 (Core concept alternative form)",
-            "把筆記本電腦丟棄在家中 (Core concept alternative form)",
-            "在家中購買一台新電腦 (Core concept alternative form)",
-            "在家中修理筆記本電腦 (Core concept alternative form)"
+            "把筆記本電腦帶回到家中原處 (standard target expression for Resultative   Directional Disposals)",
+            "把筆記本電腦丟棄在家中 (contextual contrast form in Resultative   Directional Disposals)",
+            "在家中購買一台新電腦 (formal register distinction for Resultative   Directional Disposals)",
+            "在家中修理筆記本電腦 (colloquial conversational usage for Resultative   Directional Disposals)"
           ],
           "answerIndex": 0,
           "explanation": "補語「返」表示回歸原處，「帶返屋企」即帶回家中。"
@@ -6910,10 +6910,10 @@
         {
           "prompt": "【使成動詞】在粵語中描述不小心把鑰匙「弄丟、搞丟了」，最標準之動詞搭配係：",
           "options": [
-            "整唔見咗 (Core concept alternative form)",
-            "行唔見咗 (Core concept alternative form)",
-            "睇唔見咗 (Core concept alternative form)",
-            "聽唔見咗 (Core concept alternative form)"
+            "整唔見咗 (standard target expression for Causative   Telic Disposals)",
+            "行唔見咗 (contextual contrast form in Causative   Telic Disposals)",
+            "睇唔見咗 (formal register distinction for Causative   Telic Disposals)",
+            "聽唔見咗 (colloquial conversational usage for Causative   Telic Disposals)"
           ],
           "answerIndex": 0,
           "explanation": "「整唔見」（zing2 m4 gin3）係粵語中表達把物品搞丟、遺失之標準說法。"
@@ -6925,10 +6925,10 @@
         {
           "prompt": "【體貌補語】欲表達「把桌上剩餘之飯菜全部吃完」，動詞短語應使用助詞：",
           "options": [
-            "食埋佢 (Core concept alternative form)",
-            "食起佢 (Core concept alternative form)",
-            "食落佢 (Core concept alternative form)",
-            "食過佢 (Core concept alternative form)"
+            "食埋佢 (standard target expression for Causative   Telic Disposals)",
+            "食起佢 (contextual contrast form in Causative   Telic Disposals)",
+            "食落佢 (formal register distinction for Causative   Telic Disposals)",
+            "食過佢 (colloquial conversational usage for Causative   Telic Disposals)"
           ],
           "answerIndex": 0,
           "explanation": "補語「埋」（maai4）表示將剩餘部分徹底做完、了結。"
@@ -6941,10 +6941,10 @@
           "type": "multiple-choice",
           "prompt": "【語意理解】句子「將架私家車揸走」中，「揸走」之確切含義為：",
           "options": [
-            "開車離開現場 (Core concept alternative form)",
-            "把車停放在原地 (Core concept alternative form)",
-            "在車裡休息睡覺 (Core concept alternative form)",
-            "把車輛徹底拆解 (Core concept alternative form)"
+            "開車離開現場 (standard target expression for Causative   Telic Disposals)",
+            "把車停放在原地 (contextual contrast form in Causative   Telic Disposals)",
+            "在車裡休息睡覺 (formal register distinction for Causative   Telic Disposals)",
+            "把車輛徹底拆解 (colloquial conversational usage for Causative   Telic Disposals)"
           ],
           "answerIndex": 0,
           "explanation": "「揸」（zaa1）為開車，「揸走」即開車離開移走。"
@@ -6992,10 +6992,10 @@
         {
           "prompt": "【句式轉換】將主動句「同事借咗我部相機」轉換為強調「我部相機」之受事主題化句，應為：",
           "options": [
-            "我部相機，同事借咗 (SVOTopicComment U16)",
-            "我部相機借咗同事 (SVOTopicComment U16)",
-            "同事我部相機借咗 (SVOTopicComment U16)",
-            "借咗我部相機同事 (SVOTopicComment U16)"
+            "我部相機，同事借咗 (standard target expression for Disposal  Topic Comment    Passives)",
+            "我部相機借咗同事 (contextual contrast form in Disposal  Topic Comment    Passives)",
+            "同事我部相機借咗 (formal register distinction for Disposal  Topic Comment    Passives)",
+            "借咗我部相機同事 (colloquial conversational usage for Disposal  Topic Comment    Passives)"
           ],
           "answerIndex": 0,
           "explanation": "受事主題化將受事焦點「我部相機」提至句首作為話題。"
@@ -7007,10 +7007,10 @@
         {
           "prompt": "【被動結構】在粵語中表達「杯子被弟弟打破了」，正確之「畀」字被動句係：",
           "options": [
-            "隻杯畀細佬整爛咗 (SVOTopicComment U16)",
-            "隻杯將細佬整爛咗 (SVOTopicComment U16)",
-            "細佬畀隻杯整爛咗 (SVOTopicComment U16)",
-            "隻杯過細佬整爛咗 (SVOTopicComment U16)"
+            "隻杯畀細佬整爛咗 (standard target expression for Disposal  Topic Comment    Passives)",
+            "隻杯將細佬整爛咗 (contextual contrast form in Disposal  Topic Comment    Passives)",
+            "細佬畀隻杯整爛咗 (formal register distinction for Disposal  Topic Comment    Passives)",
+            "隻杯過細佬整爛咗 (colloquial conversational usage for Disposal  Topic Comment    Passives)"
           ],
           "answerIndex": 0,
           "explanation": "粵語被動句結構為「受事＋畀＋施事＋動詞補語」（隻杯畀細佬整爛咗）。"
@@ -7023,10 +7023,10 @@
           "type": "multiple-choice",
           "prompt": "【語用選擇】在向客戶交代工作完成進度時，欲展現最高之專業度與責任感，最推薦之句式係：",
           "options": [
-            "我已經將所有資料核對好並寄出咗 (SVOTopicComment U16)",
-            "資料畀我寄出咗 (SVOTopicComment U16)",
-            "資料寄出咗佢 (SVOTopicComment U16)",
-            "唔知邊個寄咗資料 (SVOTopicComment U16)"
+            "我已經將所有資料核對好並寄出咗 (standard target expression for Disposal  Topic Comment    Passives)",
+            "資料畀我寄出咗 (contextual contrast form in Disposal  Topic Comment    Passives)",
+            "資料寄出咗佢 (formal register distinction for Disposal  Topic Comment    Passives)",
+            "唔知邊個寄咗資料 (colloquial conversational usage for Disposal  Topic Comment    Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「將」字處置句在商務交流中展現出最高之主動性與嚴謹規範性。"
@@ -7074,10 +7074,10 @@
         {
           "prompt": "【語法正誤】在粵語中表達「手機被摔壞了（未知是誰摔的）」，符合粵語語法規範之句子係：",
           "options": [
-            "部手機畀人整爛咗 (Core concept alternative form)",
-            "部手機畀整爛咗 (Core concept alternative form)",
-            "部手機整爛咗畀人 (Core concept alternative form)",
-            "部手機被整爛咗 (Core concept alternative form)"
+            "部手機畀人整爛咗 (standard target expression for The Core  bei2  Passive Voice)",
+            "部手機畀整爛咗 (contextual contrast form in The Core  bei2  Passive Voice)",
+            "部手機整爛咗畀人 (formal register distinction for The Core  bei2  Passive Voice)",
+            "部手機被整爛咗 (colloquial conversational usage for The Core  bei2  Passive Voice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語「畀」字後方不可懸空，施事者未知時必須補入泛指代詞「人」（畀人整爛咗）。"
@@ -7089,10 +7089,10 @@
         {
           "prompt": "【被動結構】在粵語被動句「本書畀陳老師借咗」中，動作之實際發出者（施事者）係：",
           "options": [
-            "陳老師 (Core concept key phrasing)",
-            "本書 (Core concept alternative form)",
-            "我 (Core concept alternative form)",
-            "圖書館 (Core concept alternative form)"
+            "陳老師 (standard target expression for The Core  bei2  Passive Voice)",
+            "本書 (contextual contrast form in The Core  bei2  Passive Voice)",
+            "我 (formal register distinction for The Core  bei2  Passive Voice)",
+            "圖書館 (colloquial conversational usage for The Core  bei2  Passive Voice)"
           ],
           "answerIndex": 0,
           "explanation": "在「受事＋畀＋施事＋動詞」結構中，「畀」後方之「陳老師」為動作施事者。"
@@ -7105,10 +7105,10 @@
           "type": "multiple-choice",
           "prompt": "【特徵對比】相較於現代標準漢語「被」字句，粵語「畀」字句最顯著之句法約束係：",
           "options": [
-            "「畀」字後方之施事主體不可省略，泛指時須填補「人 (Core concept alternative form)",
-            "「畀」字句不能使用任何結果補語 (Core concept alternative form)",
-            "「畀」字句只能用於祈使語氣 (Core concept alternative form)",
-            "「畀」字句不能含有時間副詞 (Core concept alternative form)"
+            "「畀」字後方之施事主體不可省略，泛指時須填補「人 (standard target expression for The Core  bei2  Passive Voice)",
+            "「畀」字句不能使用任何結果補語 (contextual contrast form in The Core  bei2  Passive Voice)",
+            "「畀」字句只能用於祈使語氣 (formal register distinction for The Core  bei2  Passive Voice)",
+            "「畀」字句不能含有時間副詞 (colloquial conversational usage for The Core  bei2  Passive Voice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語「畀」字後方施事不可懸空，無定施事時必須補入「人」（如「畀人偷咗」）。"
@@ -7156,10 +7156,10 @@
         {
           "prompt": "【語意匹配】在廣東話中描述自己遭受了詐騙分子之欺騙，最地道之口語被動說法係：",
           "options": [
-            "我畀人呃咗 (Core concept alternative form)",
-            "我畀人炒咗 (Core concept alternative form)",
-            "我畀人屈咗 (Core concept alternative form)",
-            "我畀人蝦咗 (Core concept alternative form)"
+            "我畀人呃咗 (standard target expression for Adverse  bei2 jan4  Passives)",
+            "我畀人炒咗 (contextual contrast form in Adverse  bei2 jan4  Passives)",
+            "我畀人屈咗 (formal register distinction for Adverse  bei2 jan4  Passives)",
+            "我畀人蝦咗 (colloquial conversational usage for Adverse  bei2 jan4  Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「呃」（aak1）為欺騙，「畀人呃咗」表示被人欺騙上當。"
@@ -7171,10 +7171,10 @@
         {
           "prompt": "【職場俚語】在香港職場中，若某員工不幸遭到公司開除解僱，其口語被動表達為：",
           "options": [
-            "畀老細炒魷魚 (Core concept alternative form)",
-            "畀老細請食飯 (Core concept alternative form)",
-            "畀老細加人工 (Core concept alternative form)",
-            "畀老細升職 (Core concept alternative form)"
+            "畀老細炒魷魚 (standard target expression for Adverse  bei2 jan4  Passives)",
+            "畀老細請食飯 (contextual contrast form in Adverse  bei2 jan4  Passives)",
+            "畀老細加人工 (formal register distinction for Adverse  bei2 jan4  Passives)",
+            "畀老細升職 (colloquial conversational usage for Adverse  bei2 jan4  Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「畀……炒魷魚」係粵語中被解僱開除之經典被動表達。"
@@ -7187,10 +7187,10 @@
           "type": "multiple-choice",
           "prompt": "【詞義辨析】句子「佢個人好老實，喺學校成日畀人蝦」中，「畀人蝦」之含義係：",
           "options": [
-            "被人欺負、霸凌 (Core concept alternative form)",
-            "被人請吃海鮮大蝦 (Core concept alternative form)",
-            "被人誇獎表揚 (Core concept alternative form)",
-            "被人邀請去旅遊 (Core concept alternative form)"
+            "被人欺負、霸凌 (standard target expression for Adverse  bei2 jan4  Passives)",
+            "被人請吃海鮮大蝦 (contextual contrast form in Adverse  bei2 jan4  Passives)",
+            "被人誇獎表揚 (formal register distinction for Adverse  bei2 jan4  Passives)",
+            "被人邀請去旅遊 (colloquial conversational usage for Adverse  bei2 jan4  Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「蝦」（haa1）在粵語中作動詞時表示欺負、霸凌，「畀人蝦」即被人欺負。"
@@ -7238,10 +7238,10 @@
         {
           "prompt": "【功能辨析】句子「媽咪唔畀我睇電視」中，「畀」字所承擔之語法功能係：",
           "options": [
-            "使役動詞 (Core concept key phrasing)",
-            "被動標記 (Core concept alternative form)",
-            "給予動詞 (Core concept alternative form)",
-            "形容詞最高級標記 (Core concept alternative form)"
+            "使役動詞 (standard target expression for Disambiguating Dative  Causative    Passives)",
+            "被動標記 (contextual contrast form in Disambiguating Dative  Causative    Passives)",
+            "給予動詞 (formal register distinction for Disambiguating Dative  Causative    Passives)",
+            "形容詞最高級標記 (colloquial conversational usage for Disambiguating Dative  Causative    Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「唔畀我睇」表示不允許我看，此處「畀」為使役動詞。"
@@ -7253,10 +7253,10 @@
         {
           "prompt": "【功能辨析】句子「我個銀包尋晚畀小偷扒咗」中，「畀」字所承擔之語法功能係：",
           "options": [
-            "被動標記 (Core concept key phrasing)",
-            "使役動詞 (Core concept alternative form)",
-            "給予動詞 (Core concept alternative form)",
-            "疑問代名詞 (Core concept alternative form)"
+            "被動標記 (standard target expression for Disambiguating Dative  Causative    Passives)",
+            "使役動詞 (contextual contrast form in Disambiguating Dative  Causative    Passives)",
+            "給予動詞 (formal register distinction for Disambiguating Dative  Causative    Passives)",
+            "疑問代名詞 (colloquial conversational usage for Disambiguating Dative  Causative    Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「銀包畀小偷扒咗」表示錢包被小偷偷走，此處「畀」為被動標記。"
@@ -7269,10 +7269,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合判斷】下列四個含有「畀」字之粵語句子中，屬於典型「雙賓語給予動詞」用法嘅係：",
           "options": [
-            "叔叔畀咗一百蚊利是阿明 (Core concept alternative form)",
-            "部電腦畀細佬整爛咗 (Core concept alternative form)",
-            "經理唔畀員工請假 (Core concept alternative form)",
-            "佢尋日畀雨淋濕咗 (Core concept alternative form)"
+            "叔叔畀咗一百蚊利是阿明 (standard target expression for Disambiguating Dative  Causative    Passives)",
+            "部電腦畀細佬整爛咗 (contextual contrast form in Disambiguating Dative  Causative    Passives)",
+            "經理唔畀員工請假 (formal register distinction for Disambiguating Dative  Causative    Passives)",
+            "佢尋日畀雨淋濕咗 (colloquial conversational usage for Disambiguating Dative  Causative    Passives)"
           ],
           "answerIndex": 0,
           "explanation": "選項A中「畀＋一百蚊（物）＋阿明（人）」為標準給予雙賓語用法。"
@@ -7320,10 +7320,10 @@
         {
           "prompt": "【受傷補語】在粵語中描述不小心被滾燙之開水燙傷了手，正確之動詞補語組合係：",
           "options": [
-            "畀滾水淥親手 (V alternative form)",
-            "畀滾水食親手 (V alternative form)",
-            "畀滾水行親手 (V alternative form)",
-            "畀滾水睇親手 (V alternative form)"
+            "畀滾水淥親手 (standard target expression for Environmental   Accidental Passives)",
+            "畀滾水食親手 (contextual contrast form in Environmental   Accidental Passives)",
+            "畀滾水行親手 (formal register distinction for Environmental   Accidental Passives)",
+            "畀滾水睇親手 (colloquial conversational usage for Environmental   Accidental Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「淥」（luk6）表示燙，「淥親」表示被熱水燙傷。"
@@ -7335,10 +7335,10 @@
         {
           "prompt": "【氣候被動】下雨天出門未帶雨具導致衣服全部濕透，地道粵語表達係：",
           "options": [
-            "畀雨淋到濕晒 (V key phrasing)",
-            "畀雨曬到乾晒 (V alternative form)",
-            "畀雨吹到飛晒 (V alternative form)",
-            "畀雨煮到熟晒 (V alternative form)"
+            "畀雨淋到濕晒 (standard target expression for Environmental   Accidental Passives)",
+            "畀雨曬到乾晒 (contextual contrast form in Environmental   Accidental Passives)",
+            "畀雨吹到飛晒 (formal register distinction for Environmental   Accidental Passives)",
+            "畀雨煮到熟晒 (colloquial conversational usage for Environmental   Accidental Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「畀雨淋到濕晒」表示被雨水淋得全身濕透。"
@@ -7351,10 +7351,10 @@
           "type": "multiple-choice",
           "prompt": "【字義理解】句子「食魚小心畀魚骨鯁親」中，「鯁」（gang2）之具體意思係：",
           "options": [
-            "卡在喉嚨中咽不下去 (V alternative form)",
-            "把魚骨咬碎 (V alternative form)",
-            "把魚骨吐出來 (V alternative form)",
-            "把魚骨煮成湯 (V alternative form)"
+            "卡在喉嚨中咽不下去 (standard target expression for Environmental   Accidental Passives)",
+            "把魚骨咬碎 (contextual contrast form in Environmental   Accidental Passives)",
+            "把魚骨吐出來 (formal register distinction for Environmental   Accidental Passives)",
+            "把魚骨煮成湯 (colloquial conversational usage for Environmental   Accidental Passives)"
           ],
           "answerIndex": 0,
           "explanation": "「鯁」（gang2）在粵語中指骨頭或異物卡在食道咽喉。"
@@ -7402,10 +7402,10 @@
         {
           "prompt": "【語用得體】在日常生活中向朋友分享「我升職了」之喜訊，最地道自然之口語表達係：",
           "options": [
-            "老細升咗我職！ (Adverse PassiveFormal Passive U17)",
-            "我畀老細升職咗 (Adverse PassiveFormal Passive U17)",
-            "我畀人升咗職 (Adverse PassiveFormal Passive U17)",
-            "職畀老細升咗我 (Adverse PassiveFormal Passive U17)"
+            "老細升咗我職！ (standard target expression for Valence in Cantonese Passives)",
+            "我畀老細升職咗 (contextual contrast form in Valence in Cantonese Passives)",
+            "我畀人升咗職 (formal register distinction for Valence in Cantonese Passives)",
+            "職畀老細升咗我 (colloquial conversational usage for Valence in Cantonese Passives)"
           ],
           "answerIndex": 0,
           "explanation": "粵語口語表達正向喜事時，首選主動句「老細升咗我職」，避免生硬被動態。"
@@ -7417,10 +7417,10 @@
         {
           "prompt": "【公文語體】在正式公司公告中表彰某位傑出員工，規範之現代公務被動句係：",
           "options": [
-            "李經理畀全體同仁推選為本年度模範員工 (Adverse PassiveFormal Passive U17)",
-            "李經理畀全體同仁整爛咗 (Adverse PassiveFormal Passive U17)",
-            "全體同仁畀李經理推選咗 (Adverse PassiveFormal Passive U17)",
-            "李經理推選咗畀全體同仁 (Adverse PassiveFormal Passive U17)"
+            "李經理畀全體同仁推選為本年度模範員工 (standard target expression for Valence in Cantonese Passives)",
+            "李經理畀全體同仁整爛咗 (contextual contrast form in Valence in Cantonese Passives)",
+            "全體同仁畀李經理推選咗 (formal register distinction for Valence in Cantonese Passives)",
+            "李經理推選咗畀全體同仁 (colloquial conversational usage for Valence in Cantonese Passives)"
           ],
           "answerIndex": 0,
           "explanation": "正式公文中可使用「受事＋畀＋施事＋推選為……」表達客觀推選表彰。"
@@ -7433,10 +7433,10 @@
           "type": "multiple-choice",
           "prompt": "【語言學常識】傳統純口語粵語中，「畀」字被動句最核心之語義特徵係：",
           "options": [
-            "強烈之「被害義」與遭受不幸色彩 (Adverse PassiveFormal Passive U17)",
-            "專門用於表達強烈祝賀 (Adverse PassiveFormal Passive U17)",
-            "只能用於天氣預報 (Adverse PassiveFormal Passive U17)",
-            "只能用於醫學診斷 (Adverse PassiveFormal Passive U17)"
+            "強烈之「被害義」與遭受不幸色彩 (standard target expression for Valence in Cantonese Passives)",
+            "專門用於表達強烈祝賀 (contextual contrast form in Valence in Cantonese Passives)",
+            "只能用於天氣預報 (formal register distinction for Valence in Cantonese Passives)",
+            "只能用於醫學診斷 (colloquial conversational usage for Valence in Cantonese Passives)"
           ],
           "answerIndex": 0,
           "explanation": "傳統粵語口語被動句主要用於表達遭受損害、挫折、委屈等被害語義。"
@@ -7484,10 +7484,10 @@
         {
           "prompt": "【補語匹配】在廣東話中表達「所有任務都已經圓滿辦妥、解決了」，動詞短語應為：",
           "options": [
-            "搞掂 (Core concept key phrasing)",
-            "搞齊 (Core concept alternative form)",
-            "搞錯 (Core concept alternative form)",
-            "搞爛 (Core concept alternative form)"
+            "搞掂 (standard target expression for Core Resultative Complements)",
+            "搞齊 (contextual contrast form in Core Resultative Complements)",
+            "搞錯 (formal register distinction for Core Resultative Complements)",
+            "搞爛 (colloquial conversational usage for Core Resultative Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「搞掂」（gaau2 dim6）表示順利辦妥、圓滿解決。"
@@ -7499,10 +7499,10 @@
         {
           "prompt": "【窮盡語義】當麵包店所有新鮮出爐之蛋撻全部售罄，店員會向客人解釋：",
           "options": [
-            "蛋撻已經賣晒喇 (Core concept alternative form)",
-            "蛋撻已經賣齊喇 (Core concept alternative form)",
-            "蛋撻已經賣錯喇 (Core concept alternative form)",
-            "蛋撻已經賣掂喇 (Core concept alternative form)"
+            "蛋撻已經賣晒喇 (standard target expression for Core Resultative Complements)",
+            "蛋撻已經賣齊喇 (contextual contrast form in Core Resultative Complements)",
+            "蛋撻已經賣錯喇 (formal register distinction for Core Resultative Complements)",
+            "蛋撻已經賣掂喇 (colloquial conversational usage for Core Resultative Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「賣晒」（maai6 saai3）表示全部售罄、賣光。"
@@ -7515,10 +7515,10 @@
           "type": "multiple-choice",
           "prompt": "【語序規則】下列關於粵語結果補語與賓語位置關係之敘述，正確嘅係：",
           "options": [
-            "結果補語必須緊貼動詞，置於賓語之前 (Core concept alternative form)",
-            "結果補語必須放在賓語最後方 (Core concept alternative form)",
-            "結果補語必須放在句首主語前面 (Core concept alternative form)",
-            "結果補語不能與及物動詞連用 (Core concept alternative form)"
+            "結果補語必須緊貼動詞，置於賓語之前 (standard target expression for Core Resultative Complements)",
+            "結果補語必須放在賓語最後方 (contextual contrast form in Core Resultative Complements)",
+            "結果補語必須放在句首主語前面 (formal register distinction for Core Resultative Complements)",
+            "結果補語不能與及物動詞連用 (colloquial conversational usage for Core Resultative Complements)"
           ],
           "answerIndex": 0,
           "explanation": "粵語語法規範要求結果補語緊隨動詞謂語，置於名詞賓語之前（動＋補＋賓）。"
@@ -7566,10 +7566,10 @@
         {
           "prompt": "【創傷補語】在廣東話中詢問對方摔倒後「有沒有摔傷、受傷」，最關切之問句係：",
           "options": [
-            "你有冇跌親呀？ (Core concept alternative form)",
-            "你有冇跌爛呀？ (Core concept alternative form)",
-            "你有冇跌斷呀？ (Core concept alternative form)",
-            "你有冇跌死呀？ (Core concept alternative form)"
+            "你有冇跌親呀？ (standard target expression for Somatic   Traumatic Complements)",
+            "你有冇跌爛呀？ (contextual contrast form in Somatic   Traumatic Complements)",
+            "你有冇跌斷呀？ (formal register distinction for Somatic   Traumatic Complements)",
+            "你有冇跌死呀？ (colloquial conversational usage for Somatic   Traumatic Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「跌親」（tit3 can1）為跌倒受傷之專屬表達，「有冇跌親」為最標準慰問語。"
@@ -7581,10 +7581,10 @@
         {
           "prompt": "【骨骼損傷】若滑雪時不幸造成手臂骨骼折斷，動詞短語應表達為：",
           "options": [
-            "跌斷手 (Core concept key phrasing)",
-            "跌爛手 (Core concept alternative form)",
-            "跌碎手 (Core concept alternative form)",
-            "跌裂手 (Core concept alternative form)"
+            "跌斷手 (standard target expression for Somatic   Traumatic Complements)",
+            "跌爛手 (contextual contrast form in Somatic   Traumatic Complements)",
+            "跌碎手 (formal register distinction for Somatic   Traumatic Complements)",
+            "跌裂手 (colloquial conversational usage for Somatic   Traumatic Complements)"
           ],
           "answerIndex": 0,
           "explanation": "骨骼折斷在粵語中專用結果補語「斷」（跌斷手）。"
@@ -7597,10 +7597,10 @@
           "type": "multiple-choice",
           "prompt": "【程度修辭】短語「攰死」（gui6 sei2）在粵語中之實際語義為：",
           "options": [
-            "極度疲倦、累得要命 (Core concept alternative form)",
-            "已經死亡 (Core concept alternative form)",
-            "感到非常寒冷 (Core concept alternative form)",
-            "感到非常憤怒 (Core concept alternative form)"
+            "極度疲倦、累得要命 (standard target expression for Somatic   Traumatic Complements)",
+            "已經死亡 (contextual contrast form in Somatic   Traumatic Complements)",
+            "感到非常寒冷 (formal register distinction for Somatic   Traumatic Complements)",
+            "感到非常憤怒 (colloquial conversational usage for Somatic   Traumatic Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「攰死」中「死」為極致程度補語，表示極度疲勞勞累。"
@@ -7648,10 +7648,10 @@
         {
           "prompt": "【空間視角】說話者站在辦公室內部，欲招呼門外之同事「走進辦公室來」，應講：",
           "options": [
-            "快啲行入嚟啦！ (Core concept alternative form)",
-            "快啲行入去啦！ (Core concept alternative form)",
-            "快啲行出去啦！ (Core concept alternative form)",
-            "快啲行出嚟啦！ (Core concept alternative form)"
+            "快啲行入嚟啦！ (standard target expression for Directional Complements)",
+            "快啲行入去啦！ (contextual contrast form in Directional Complements)",
+            "快啲行出去啦！ (formal register distinction for Directional Complements)",
+            "快啲行出嚟啦！ (colloquial conversational usage for Directional Complements)"
           ],
           "answerIndex": 0,
           "explanation": "由外向內且朝向說話者位置移動，使用趨向補語「入嚟」（jap6 lai4）。"
@@ -7663,10 +7663,10 @@
         {
           "prompt": "【視角轉換】說話者在樓下，看見朋友正從樓下走向頂樓（遠離說話者），應描述為：",
           "options": [
-            "佢行咗上去 (Core concept alternative form)",
-            "佢行咗上嚟 (Core concept alternative form)",
-            "佢行咗落嚟 (Core concept alternative form)",
-            "佢行咗入嚟 (Core concept alternative form)"
+            "佢行咗上去 (standard target expression for Directional Complements)",
+            "佢行咗上嚟 (contextual contrast form in Directional Complements)",
+            "佢行咗落嚟 (formal register distinction for Directional Complements)",
+            "佢行咗入嚟 (colloquial conversational usage for Directional Complements)"
           ],
           "answerIndex": 0,
           "explanation": "由低向高且背離說話者移動，使用趨向補語「上去」（soeng5 heoi3）。"
@@ -7679,10 +7679,10 @@
           "type": "multiple-choice",
           "prompt": "【跨越維度】在街道一側向對面之朋友揮手示意「走過來我這邊」，正確之趨向動詞係：",
           "options": [
-            "行過嚟 (Core concept alternative form)",
-            "行過去 (Core concept alternative form)",
-            "行落去 (Core concept alternative form)",
-            "行入去 (Core concept alternative form)"
+            "行過嚟 (standard target expression for Directional Complements)",
+            "行過去 (contextual contrast form in Directional Complements)",
+            "行落去 (formal register distinction for Directional Complements)",
+            "行入去 (colloquial conversational usage for Directional Complements)"
           ],
           "answerIndex": 0,
           "explanation": "橫向跨越並朝向說話者走近，使用「過嚟」（gwo3 lai4）。"
@@ -7730,10 +7730,10 @@
         {
           "prompt": "【狀態回歸】生病發燒數天後，欲表達身體「已經痊癒、恢復健康」，最地道之口語說法係：",
           "options": [
-            "我已經好返喇 (Core concept alternative form)",
-            "我已經好去喇 (Core concept alternative form)",
-            "我已經好落喇 (Core concept alternative form)",
-            "我已經好上喇 (Core concept alternative form)"
+            "我已經好返喇 (standard target expression for Aspectual Directionals)",
+            "我已經好去喇 (contextual contrast form in Aspectual Directionals)",
+            "我已經好落喇 (formal register distinction for Aspectual Directionals)",
+            "我已經好上喇 (colloquial conversational usage for Aspectual Directionals)"
           ],
           "answerIndex": 0,
           "explanation": "「好返」（hou2 faan1）表示病癒、身體恢復健康。"
@@ -7745,10 +7745,10 @@
         {
           "prompt": "【動作延續】在會議上鼓勵發言者「請繼續往下講」，地道粵語表達係：",
           "options": [
-            "請你繼續講落去 (Core concept alternative form)",
-            "請你繼續講上去 (Core concept alternative form)",
-            "請你繼續講入嚟 (Core concept alternative form)",
-            "請你繼續講出嚟 (Core concept alternative form)"
+            "請你繼續講落去 (standard target expression for Aspectual Directionals)",
+            "請你繼續講上去 (contextual contrast form in Aspectual Directionals)",
+            "請你繼續講入嚟 (formal register distinction for Aspectual Directionals)",
+            "請你繼續講出嚟 (colloquial conversational usage for Aspectual Directionals)"
           ],
           "answerIndex": 0,
           "explanation": "「講落去」（gong2 lok6 heoi3）表示繼續往下講述。"
@@ -7761,10 +7761,10 @@
           "type": "multiple-choice",
           "prompt": "【語意評估】短語「睇起上嚟好後生」中，「起上嚟」之主要語法功能係：",
           "options": [
-            "表示主觀觀察、感知與評估 (Core concept alternative form)",
-            "表示身體意外受傷 (Core concept alternative form)",
-            "表示方位向低處移動 (Core concept alternative form)",
-            "表示動作徹底完成 (Core concept alternative form)"
+            "表示主觀觀察、感知與評估 (standard target expression for Aspectual Directionals)",
+            "表示身體意外受傷 (contextual contrast form in Aspectual Directionals)",
+            "表示方位向低處移動 (formal register distinction for Aspectual Directionals)",
+            "表示動作徹底完成 (colloquial conversational usage for Aspectual Directionals)"
           ],
           "answerIndex": 0,
           "explanation": "「睇起上嚟」表示看起來、在視覺評估上。"
@@ -7812,10 +7812,10 @@
         {
           "prompt": "【語病修復】下列四個句子中，符合粵語「動詞 + 結果補語 + 賓語」標準語序之句子係：",
           "options": [
-            "我已經做晒所有功課 (Core concept alternative form)",
-            "我已經做所有功課晒 (Core concept alternative form)",
-            "我已經晒做所有功課 (Core concept alternative form)",
-            "我所有功課已經做晒晒 (Core concept alternative form)"
+            "我已經做晒所有功課 (standard target expression for Complement Object Word Order)",
+            "我已經做所有功課晒 (contextual contrast form in Complement Object Word Order)",
+            "我已經晒做所有功課 (formal register distinction for Complement Object Word Order)",
+            "我所有功課已經做晒晒 (colloquial conversational usage for Complement Object Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "「做（動）＋晒（補）＋所有功課（賓）」為標準正確語序。"
@@ -7827,10 +7827,10 @@
         {
           "prompt": "【處所嵌入】欲表達「走進圖書館來」，正確之複合趨向補語與處所嵌入句式係：",
           "options": [
-            "行入圖書館嚟 (Core concept key phrasing)",
-            "行圖書館入嚟 (Core concept alternative form)",
-            "行入嚟圖書館 (Core concept alternative form)",
-            "圖書館行入嚟 (Core concept alternative form)"
+            "行入圖書館嚟 (standard target expression for Complement Object Word Order)",
+            "行圖書館入嚟 (contextual contrast form in Complement Object Word Order)",
+            "行入嚟圖書館 (formal register distinction for Complement Object Word Order)",
+            "圖書館行入嚟 (colloquial conversational usage for Complement Object Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "處所名詞「圖書館」應夾在趨向補語中間構成「行入圖書館嚟」。"
@@ -7843,10 +7843,10 @@
           "type": "multiple-choice",
           "prompt": "【語法綜合】在粵語會話中表達「吃完這碗雲吞麵」，最純正地道之語序為：",
           "options": [
-            "食完呢碗雲吞麵 (Core concept alternative form)",
-            "食呢碗雲吞麵完 (Core concept alternative form)",
-            "呢碗雲吞麵完食 (Core concept alternative form)",
-            "完食呢碗雲吞麵 (Core concept alternative form)"
+            "食完呢碗雲吞麵 (standard target expression for Complement Object Word Order)",
+            "食呢碗雲吞麵完 (contextual contrast form in Complement Object Word Order)",
+            "呢碗雲吞麵完食 (formal register distinction for Complement Object Word Order)",
+            "完食呢碗雲吞麵 (colloquial conversational usage for Complement Object Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "結果補語「完」必須緊貼動詞「食」，置於數量名詞賓語之前。"
@@ -7894,10 +7894,10 @@
         {
           "prompt": "【否定可能】在廣東話中表達「聽不懂對方所說的話」，最地道之動詞可能補語短語係：",
           "options": [
-            "聽唔明 (Core concept key phrasing)",
-            "聽得明 (Core concept alternative form)",
-            "聽唔好 (Core concept alternative form)",
-            "聽唔晒 (Core concept alternative form)"
+            "聽唔明 (standard target expression for Core Potential Complements)",
+            "聽得明 (contextual contrast form in Core Potential Complements)",
+            "聽唔好 (formal register distinction for Core Potential Complements)",
+            "聽唔晒 (colloquial conversational usage for Core Potential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "否定可能式使用中綴「唔」，「聽唔明」表示聽不懂。"
@@ -7909,10 +7909,10 @@
         {
           "prompt": "【肯定可能】欲向對方確認「我看得清楚你寫的字」，肯定式可能補語應講：",
           "options": [
-            "我睇得清楚 (Core concept alternative form)",
-            "我睇唔清楚 (Core concept alternative form)",
-            "我睇得晒 (Core concept alternative form)",
-            "我睇唔到 (Core concept alternative form)"
+            "我睇得清楚 (standard target expression for Core Potential Complements)",
+            "我睇唔清楚 (contextual contrast form in Core Potential Complements)",
+            "我睇得晒 (formal register distinction for Core Potential Complements)",
+            "我睇唔到 (colloquial conversational usage for Core Potential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "肯定可能式使用中綴「得」，「睇得清楚」表示能夠看清。"
@@ -7925,10 +7925,10 @@
           "type": "multiple-choice",
           "prompt": "【語法結構】短語「做唔到」（zou6 m4 dou2）之核心語法性質係：",
           "options": [
-            "可能補語否定式 (Core concept alternative form)",
-            "處置式祈使句 (Core concept alternative form)",
-            "被動態肯定句 (Core concept alternative form)",
-            "形容詞最高級 (Core concept alternative form)"
+            "可能補語否定式 (standard target expression for Core Potential Complements)",
+            "處置式祈使句 (contextual contrast form in Core Potential Complements)",
+            "被動態肯定句 (formal register distinction for Core Potential Complements)",
+            "形容詞最高級 (colloquial conversational usage for Core Potential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "動詞「做」＋否定中綴「唔」＋結果補語「到」構成典型否定可能補語。"
@@ -7976,10 +7976,10 @@
         {
           "prompt": "【空間容量】升降機內已經站滿了人，欲向外面等待的人表示「站不下了」，地道粵語表達係：",
           "options": [
-            "企唔落喇！ (Core concept alternative form)",
-            "企得落喇！ (Core concept alternative form)",
-            "企唔明喇！ (Core concept alternative form)",
-            "企唔晒喇！ (Core concept alternative form)"
+            "企唔落喇！ (standard target expression for Capacity Potential Complements)",
+            "企得落喇！ (contextual contrast form in Capacity Potential Complements)",
+            "企唔明喇！ (formal register distinction for Capacity Potential Complements)",
+            "企唔晒喇！ (colloquial conversational usage for Capacity Potential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「企唔落」（kei5 m4 lok6）表示站立空間已滿，容納不下更多人站立。"
@@ -7991,10 +7991,10 @@
         {
           "prompt": "【食慾表達】已經吃得非常飽足、無法再吃下甜品時，應向朋友表示：",
           "options": [
-            "我太飽，真係食唔落喇 (Core concept alternative form)",
-            "我太飽，真係食得落喇 (Core concept alternative form)",
-            "我太飽，真係食得切喇 (Core concept alternative form)",
-            "我太飽，真係食唔切喇 (Core concept alternative form)"
+            "我太飽，真係食唔落喇 (standard target expression for Capacity Potential Complements)",
+            "我太飽，真係食得落喇 (contextual contrast form in Capacity Potential Complements)",
+            "我太飽，真係食得切喇 (formal register distinction for Capacity Potential Complements)",
+            "我太飽，真係食唔切喇 (colloquial conversational usage for Capacity Potential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「食唔落」（sik6 m4 lok6）表示胃部容量已滿或無胃口吃下。"
@@ -8007,10 +8007,10 @@
           "type": "multiple-choice",
           "prompt": "【容器容量】短語「裝得落」（zong1 dak1 lok6）在粵語中之確切語義為：",
           "options": [
-            "容器空間充足，能夠容納裝得下 (Core concept alternative form)",
-            "容器已經破裂漏水 (Core concept alternative form)",
-            "容器外觀非常精美 (Core concept alternative form)",
-            "容器重量非常沉重 (Core concept alternative form)"
+            "容器空間充足，能夠容納裝得下 (standard target expression for Capacity Potential Complements)",
+            "容器已經破裂漏水 (contextual contrast form in Capacity Potential Complements)",
+            "容器外觀非常精美 (formal register distinction for Capacity Potential Complements)",
+            "容器重量非常沉重 (colloquial conversational usage for Capacity Potential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「裝得落」表示容器具備足夠容量裝入物件。"
@@ -8058,10 +8058,10 @@
         {
           "prompt": "【負擔能力】在香港買房時表達「樓價太高，普通家庭根本負擔不起、買不起」，應講：",
           "options": [
-            "普通家庭買唔起 (Core concept alternative form)",
-            "普通家庭買得起 (Core concept alternative form)",
-            "普通家庭買唔落 (Core concept alternative form)",
-            "普通家庭買唔明 (Core concept alternative form)"
+            "普通家庭買唔起 (standard target expression for Affordability   Endurance)",
+            "普通家庭買得起 (contextual contrast form in Affordability   Endurance)",
+            "普通家庭買唔落 (formal register distinction for Affordability   Endurance)",
+            "普通家庭買唔明 (colloquial conversational usage for Affordability   Endurance)"
           ],
           "answerIndex": 0,
           "explanation": "「買唔起」（maai5 m4 hei2）表示經濟能力上無法負擔購買。"
@@ -8073,10 +8073,10 @@
         {
           "prompt": "【社交評價】形容一個人性格豁達、輸得起且經得起朋友開玩笑，廣東話讚揚為：",
           "options": [
-            "玩得起 (Core concept key phrasing)",
-            "玩唔起 (Core concept alternative form)",
-            "玩唔落 (Core concept alternative form)",
-            "玩唔明 (Core concept alternative form)"
+            "玩得起 (standard target expression for Affordability   Endurance)",
+            "玩唔起 (contextual contrast form in Affordability   Endurance)",
+            "玩唔落 (formal register distinction for Affordability   Endurance)",
+            "玩唔明 (colloquial conversational usage for Affordability   Endurance)"
           ],
           "answerIndex": 0,
           "explanation": "「玩得起」（waan2 dak1 hei2）表示經得起開玩笑、輸得起。"
@@ -8089,10 +8089,10 @@
           "type": "multiple-choice",
           "prompt": "【人際評價】句子「老細好睇得起你」中，「睇得起」之實際含義為：",
           "options": [
-            "老闆非常賞識、看重你 (Core concept alternative form)",
-            "老闆看不起你 (Core concept alternative form)",
-            "老闆看不清楚你 (Core concept alternative form)",
-            "老闆監視你 (Core concept alternative form)"
+            "老闆非常賞識、看重你 (standard target expression for Affordability   Endurance)",
+            "老闆看不起你 (contextual contrast form in Affordability   Endurance)",
+            "老闆看不清楚你 (formal register distinction for Affordability   Endurance)",
+            "老闆監視你 (colloquial conversational usage for Affordability   Endurance)"
           ],
           "answerIndex": 0,
           "explanation": "「睇得起」（tai2 dak1 hei2）表示器重、賞識、看得起。"
@@ -8140,10 +8140,10 @@
         {
           "prompt": "【人際投緣】形容自己與新朋友「非常聊得來、志趣相投」，最地道之粵語短語係：",
           "options": [
-            "好傾得嚟 (Core concept alternative form)",
-            "好傾唔嚟 (Core concept alternative form)",
-            "好傾得落 (Core concept alternative form)",
-            "好傾得起 (Core concept alternative form)"
+            "好傾得嚟 (standard target expression for Competence Complements)",
+            "好傾唔嚟 (contextual contrast form in Competence Complements)",
+            "好傾得落 (formal register distinction for Competence Complements)",
+            "好傾得起 (colloquial conversational usage for Competence Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「傾得嚟」（king1 dak1 lai4）表示交談投契、聊得來。"
@@ -8155,10 +8155,10 @@
         {
           "prompt": "【工作勝任】面對繁重工作任務，欲向主管表示自己「完全能夠勝任應付」，應講：",
           "options": [
-            "我應付得嚟 (Core concept alternative form)",
-            "我應付唔嚟 (Core concept alternative form)",
-            "我應付得落 (Core concept alternative form)",
-            "我應付唔起 (Core concept alternative form)"
+            "我應付得嚟 (standard target expression for Competence Complements)",
+            "我應付唔嚟 (contextual contrast form in Competence Complements)",
+            "我應付得落 (formal register distinction for Competence Complements)",
+            "我應付唔起 (colloquial conversational usage for Competence Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「應付得嚟」（jing3 fu6 dak1 lai4）表示能夠勝任處理。"
@@ -8171,10 +8171,10 @@
           "type": "multiple-choice",
           "prompt": "【語意理解】餐廳經理講「客人太多，樓面招呼唔嚟」，「招呼唔嚟」之意思是：",
           "options": [
-            "人手不足，無法把所有客人接待周全 (Core concept alternative form)",
-            "客人不願意進來餐廳 (Core concept alternative form)",
-            "經理不認識客人 (Core concept alternative form)",
-            "餐廳菜式已經售罄 (Core concept alternative form)"
+            "人手不足，無法把所有客人接待周全 (standard target expression for Competence Complements)",
+            "客人不願意進來餐廳 (contextual contrast form in Competence Complements)",
+            "經理不認識客人 (formal register distinction for Competence Complements)",
+            "餐廳菜式已經售罄 (colloquial conversational usage for Competence Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「招呼唔嚟」表示接待服務能力超出負荷，無法應付。"
@@ -8222,10 +8222,10 @@
         {
           "prompt": "【正反疑問】欲向對方詢問「你能不能聽得懂我說的粵語」，最標準之正反問句係：",
           "options": [
-            "你聽唔聽得明我講嘅廣東話？ (VVC  VCVC alternative form)",
-            "你聽得明聽唔明我廣東話？ (VVC  VCVC alternative form)",
-            "你廣東話聽唔聽？ (VVC  VCVC alternative form)",
-            "你明唔明聽廣東話？ (VVC  VCVC alternative form)"
+            "你聽唔聽得明我講嘅廣東話？ (standard target expression for Potential Questions   Modals)",
+            "你聽得明聽唔明我廣東話？ (contextual contrast form in Potential Questions   Modals)",
+            "你廣東話聽唔聽？ (formal register distinction for Potential Questions   Modals)",
+            "你明唔明聽廣東話？ (colloquial conversational usage for Potential Questions   Modals)"
           ],
           "answerIndex": 0,
           "explanation": "「聽唔聽得明」（動＋唔＋動＋得＋補）為標準正反疑問句式。"
@@ -8237,10 +8237,10 @@
         {
           "prompt": "【情態對比】詢問對方是否具備「開車、駕駛這項技術本領」，應選用之情態動詞係：",
           "options": [
-            "你識唔識揸車？ (VVC  VCVC alternative form)",
-            "你揸得落車嗎？ (VVC  VCVC alternative form)",
-            "你揸得起車嗎？ (VVC  VCVC alternative form)",
-            "你揸唔揸得明？ (VVC  VCVC alternative form)"
+            "你識唔識揸車？ (standard target expression for Potential Questions   Modals)",
+            "你揸得落車嗎？ (contextual contrast form in Potential Questions   Modals)",
+            "你揸得起車嗎？ (formal register distinction for Potential Questions   Modals)",
+            "你揸唔揸得明？ (colloquial conversational usage for Potential Questions   Modals)"
           ],
           "answerIndex": 0,
           "explanation": "表示後天習得之技能本領，專用能願動詞「識」（識唔識）。"
@@ -8253,10 +8253,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合辨析】下列三句話中，分別強調「許可准許」、「習得技能」與「客觀完成可能」之排列順序係：",
           "options": [
-            "可唔可以入去 (ho2 m4 ho2 ji5 jap6 heoi3 - Can I enter? / Modal A-not-A)",
-            "入去可以唔可以 (Incorrect word order for modal A-not-A question)",
-            "可唔入去可以 (Malformed modal reduplication)",
-            "可以唔可以入去嗎 (Redundant question particle with A-not-A syntax)"
+            "可唔可以入去 (standard target expression for Potential Questions   Modals)",
+            "入去可以唔可以 (contextual contrast form in Potential Questions   Modals)",
+            "可唔入去可以 (formal register distinction for Potential Questions   Modals)",
+            "可以唔可以入去嗎 (colloquial conversational usage for Potential Questions   Modals)"
           ],
           "answerIndex": 0,
           "explanation": "「可以」表許可准許，「識」表習得技能，「睇得見」表客觀結果達成之可能性。"
@@ -8304,10 +8304,10 @@
         {
           "prompt": "【存在句構造】欲向客人介紹「會議室裡面有十張旋轉椅」，標準粵語存在句句式係：",
           "options": [
-            "會議室入面有十張旋轉椅 (Core concept alternative form)",
-            "十張旋轉椅喺會議室入面有 (Core concept alternative form)",
-            "有十張旋轉椅喺會議室入面度 (Core concept alternative form)",
-            "會議室入面喺十張旋轉椅 (Core concept alternative form)"
+            "會議室入面有十張旋轉椅 (standard target expression for Existential Sentences)",
+            "十張旋轉椅喺會議室入面有 (contextual contrast form in Existential Sentences)",
+            "有十張旋轉椅喺會議室入面度 (formal register distinction for Existential Sentences)",
+            "會議室入面喺十張旋轉椅 (colloquial conversational usage for Existential Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "存在句標準句序為【處所 ＋ 有 ＋ 數量名詞】（會議室入面有……）。"
@@ -8319,10 +8319,10 @@
         {
           "prompt": "【處所定位】回答「我部手機去咗邊？」，指出「你的手機在沙發上面」，應講：",
           "options": [
-            "你部手機喺梳化上面 (Core concept alternative form)",
-            "梳化上面有你部手機 (Core concept alternative form)",
-            "你部手機有梳化上面 (Core concept alternative form)",
-            "梳化上面喺你部手機 (Core concept alternative form)"
+            "你部手機喺梳化上面 (standard target expression for Existential Sentences)",
+            "梳化上面有你部手機 (contextual contrast form in Existential Sentences)",
+            "你部手機有梳化上面 (formal register distinction for Existential Sentences)",
+            "梳化上面喺你部手機 (colloquial conversational usage for Existential Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "交代已知特定物品之具體坐標，使用處所定位句【名詞 ＋ 喺 ＋ 處所】。"
@@ -8335,10 +8335,10 @@
           "type": "multiple-choice",
           "prompt": "【語法辨析】句子「雪櫃入面冇晒雞蛋」中，「冇」之主要語法功能係：",
           "options": [
-            "存在句否定標記，表示某空間內不存在某實體 (Core concept alternative form)",
-            "動態進行體標記 (Core concept alternative form)",
-            "被動態引介詞 (Core concept alternative form)",
-            "比較級介詞 (Core concept alternative form)"
+            "存在句否定標記，表示某空間內不存在某實體 (standard target expression for Existential Sentences)",
+            "動態進行體標記 (contextual contrast form in Existential Sentences)",
+            "被動態引介詞 (formal register distinction for Existential Sentences)",
+            "比較級介詞 (colloquial conversational usage for Existential Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「冇」在存在句中作為否定核心謂語，表示處所內目標物之缺失。"
@@ -8386,10 +8386,10 @@
         {
           "prompt": "【空間存現句】欲描寫「會議室牆上掛著一張世界地圖」，最地道之粵語存現句係：",
           "options": [
-            "會議室牆上面掛住一張世界地圖 (Core concept alternative form)",
-            "會議室牆上面掛緊一張世界地圖 (Core concept alternative form)",
-            "會議室牆上面掛咗一張世界地圖晒 (Core concept alternative form)",
-            "一張世界地圖掛住會議室牆上面 (Core concept alternative form)"
+            "會議室牆上面掛住一張世界地圖 (standard target expression for Durative Existential Complements)",
+            "會議室牆上面掛緊一張世界地圖 (contextual contrast form in Durative Existential Complements)",
+            "會議室牆上面掛咗一張世界地圖晒 (formal register distinction for Durative Existential Complements)",
+            "一張世界地圖掛住會議室牆上面 (colloquial conversational usage for Durative Existential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "靜態存現持續句公式為【處所 ＋ 動詞 ＋ 住 ＋ 實體】（牆上面掛住……）。"
@@ -8401,10 +8401,10 @@
         {
           "prompt": "【姿態存現】描寫「大門兩旁站著兩位接待員」，應選用之姿態動詞短語係：",
           "options": [
-            "企住兩位接待員 (Core concept alternative form)",
-            "坐住兩位接待員 (Core concept alternative form)",
-            "擺住兩位接待員 (Core concept alternative form)",
-            "掛住兩位接待員 (Core concept alternative form)"
+            "企住兩位接待員 (standard target expression for Durative Existential Complements)",
+            "坐住兩位接待員 (contextual contrast form in Durative Existential Complements)",
+            "擺住兩位接待員 (formal register distinction for Durative Existential Complements)",
+            "掛住兩位接待員 (colloquial conversational usage for Durative Existential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "人物站立姿態在粵語中專用動詞「企」（企住）。"
@@ -8417,10 +8417,10 @@
           "type": "multiple-choice",
           "prompt": "【語態對比】「掛住」（kwaa3 zyu6）與「掛緊」（kwaa3 gan2）在空間描寫中之核心語法差別係：",
           "options": [
-            "「掛住」表示物體靜態懸掛之持續狀態，「掛緊」表示正在進行懸掛之動態過程 (Core concept alternative form)",
-            "「掛住」表示動作已經失敗，「掛緊」表示動作順利完成 (Core concept alternative form)",
-            "「掛住」只能用於人體，「掛緊」只能用於建築物 (Core concept alternative form)",
-            "兩者在語法與語義上完全等同無差別 (Core concept alternative form)"
+            "「掛住」表示物體靜態懸掛之持續狀態，「掛緊」表示正在進行懸掛之動態過程 (standard target expression for Durative Existential Complements)",
+            "「掛住」表示動作已經失敗，「掛緊」表示動作順利完成 (contextual contrast form in Durative Existential Complements)",
+            "「掛住」只能用於人體，「掛緊」只能用於建築物 (formal register distinction for Durative Existential Complements)",
+            "兩者在語法與語義上完全等同無差別 (colloquial conversational usage for Durative Existential Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「住」標註狀態之靜態延續（存現態），「緊」標註動作正處於進行過程中（進行態）。"
@@ -8468,10 +8468,10 @@
         {
           "prompt": "【人稱處所化】欲向同事表示「那份重要文件由我保管、在我這裡」，最地道粵語表達係：",
           "options": [
-            "份文件喺我度 (Core concept alternative form)",
-            "份文件喺我邊 (Core concept alternative form)",
-            "份文件喺我面 (Core concept alternative form)",
-            "份文件喺我處 (Core concept alternative form)"
+            "份文件喺我度 (standard target expression for Spatial Localizers   Clitics)",
+            "份文件喺我邊 (contextual contrast form in Spatial Localizers   Clitics)",
+            "份文件喺我面 (formal register distinction for Spatial Localizers   Clitics)",
+            "份文件喺我處 (colloquial conversational usage for Spatial Localizers   Clitics)"
           ],
           "answerIndex": 0,
           "explanation": "人稱代詞後加「度」（喺我度）表示在某人處/由某人保管。"
@@ -8483,10 +8483,10 @@
         {
           "prompt": "【方位指向】指示方向「向右側看、在右手側」，應選用之方位短語係：",
           "options": [
-            "右手邊 (Core concept key phrasing)",
-            "右手度 (Core concept alternative form)",
-            "右手面 (Core concept alternative form)",
-            "右手處 (Core concept alternative form)"
+            "右手邊 (standard target expression for Spatial Localizers   Clitics)",
+            "右手度 (contextual contrast form in Spatial Localizers   Clitics)",
+            "右手面 (formal register distinction for Spatial Localizers   Clitics)",
+            "右手處 (colloquial conversational usage for Spatial Localizers   Clitics)"
           ],
           "answerIndex": 0,
           "explanation": "左右側向維度專用標記「邊」（右手邊、左手邊）。"
@@ -8499,10 +8499,10 @@
           "type": "multiple-choice",
           "prompt": "【拓撲辨析】指示代詞「邊度」（bin1 dou6）在粵語中之標準語法语義為：",
           "options": [
-            "何處、哪裡 (Core concept alternative form)",
-            "什麼時候 (Core concept alternative form)",
-            "為什麼 (Core concept alternative form)",
-            "多少錢 (Core concept alternative form)"
+            "何處、哪裡 (standard target expression for Spatial Localizers   Clitics)",
+            "什麼時候 (contextual contrast form in Spatial Localizers   Clitics)",
+            "為什麼 (formal register distinction for Spatial Localizers   Clitics)",
+            "多少錢 (colloquial conversational usage for Spatial Localizers   Clitics)"
           ],
           "answerIndex": 0,
           "explanation": "「邊度」為粵語標準處所疑問詞，相當於「哪裡/何處」。"
@@ -8550,10 +8550,10 @@
         {
           "prompt": "【相鄰關係】在香港街頭指引「隔壁那家店舖」，最地道之拓撲方位詞係：",
           "options": [
-            "隔離舖頭 (Core concept alternative form)",
-            "對面舖頭 (Core concept alternative form)",
-            "斜對面舖頭 (Core concept alternative form)",
-            "天橋底舖頭 (Core concept alternative form)"
+            "隔離舖頭 (standard target expression for Urban Spatial Topology)",
+            "對面舖頭 (contextual contrast form in Urban Spatial Topology)",
+            "斜對面舖頭 (formal register distinction for Urban Spatial Topology)",
+            "天橋底舖頭 (colloquial conversational usage for Urban Spatial Topology)"
           ],
           "answerIndex": 0,
           "explanation": "「隔離」（gaak3 lei4）專門表示相鄰、隔壁。"
@@ -8565,10 +8565,10 @@
         {
           "prompt": "【拐角拓撲】形容商店坐落於「街道轉角拐彎處」，標準名詞短語係：",
           "options": [
-            "轉角位 (Core concept key phrasing)",
-            "天橋底 (Core concept alternative form)",
-            "後巷位 (Core concept alternative form)",
-            "對面海 (Core concept alternative form)"
+            "轉角位 (standard target expression for Urban Spatial Topology)",
+            "天橋底 (contextual contrast form in Urban Spatial Topology)",
+            "後巷位 (formal register distinction for Urban Spatial Topology)",
+            "對面海 (colloquial conversational usage for Urban Spatial Topology)"
           ],
           "answerIndex": 0,
           "explanation": "「轉角位」表示道路轉折拐角處之位置。"
@@ -8581,10 +8581,10 @@
           "type": "multiple-choice",
           "prompt": "【空間幾何】建築物Ａ與建築物Ｂ位於十字路口之對角線兩側，彼此之空間拓撲關係係：",
           "options": [
-            "斜對面 (Core concept key phrasing)",
-            "隔離 (Core concept alternative form)",
-            "正對面 (Core concept alternative form)",
-            "天橋底 (Core concept alternative form)"
+            "斜對面 (standard target expression for Urban Spatial Topology)",
+            "隔離 (contextual contrast form in Urban Spatial Topology)",
+            "正對面 (formal register distinction for Urban Spatial Topology)",
+            "天橋底 (colloquial conversational usage for Urban Spatial Topology)"
           ],
           "answerIndex": 0,
           "explanation": "十字路口斜對角位置在粵語中嚴格稱為「斜對面」（ce4 deoi3 min6）。"
@@ -8632,10 +8632,10 @@
         {
           "prompt": "【路線指引】指引「走出手鐵站出口後一直往前走」，地道粵語語句係：",
           "options": [
-            "行出地鐵站出口之後一路直行 (Core concept alternative form)",
-            "行入地鐵站出口之後一路轉左 (Core concept alternative form)",
-            "行過地鐵站出口之後一路坐低 (Core concept alternative form)",
-            "行落地鐵站出口之後一路停低 (Core concept alternative form)"
+            "行出地鐵站出口之後一路直行 (standard target expression for Route Navigation Mastery)",
+            "行入地鐵站出口之後一路轉左 (contextual contrast form in Route Navigation Mastery)",
+            "行過地鐵站出口之後一路坐低 (formal register distinction for Route Navigation Mastery)",
+            "行落地鐵站出口之後一路停低 (colloquial conversational usage for Route Navigation Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "「行出……之後一路直行」為標準出發直線位移引導句式。"
@@ -8647,10 +8647,10 @@
         {
           "prompt": "【室內樓層轉換】在大型商場引導顧客「乘搭手扶電梯上二樓」，應講：",
           "options": [
-            "搭扶手電梯上二樓 (Core concept alternative form)",
-            "搭扶手電梯落二樓 (Core concept alternative form)",
-            "搭扶手電梯出二樓 (Core concept alternative form)",
-            "搭扶手電梯入二樓 (Core concept alternative form)"
+            "搭扶手電梯上二樓 (standard target expression for Route Navigation Mastery)",
+            "搭扶手電梯落二樓 (contextual contrast form in Route Navigation Mastery)",
+            "搭扶手電梯出二樓 (formal register distinction for Route Navigation Mastery)",
+            "搭扶手電梯入二樓 (colloquial conversational usage for Route Navigation Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "由低層前往高層，使用趨向動詞「上」（上一樓、上二樓）。"
@@ -8663,10 +8663,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合指引】句子「過咗交通燈位轉右，診所就喺你右手邊」，其中各成分之指引邏輯為：",
           "options": [
-            "地標參照＋ 動作轉向＋ 終點方位定位 (Core concept alternative form)",
-            "時間判斷 ＋ 速度限制 ＋ 費用計算 (Core concept alternative form)",
-            "人物介紹 ＋ 年齡說明 ＋ 職業交代 (Core concept alternative form)",
-            "菜單推薦 ＋ 價格說明 ＋ 口味評估 (Core concept alternative form)"
+            "地標參照＋ 動作轉向＋ 終點方位定位 (standard target expression for Route Navigation Mastery)",
+            "時間判斷 ＋ 速度限制 ＋ 費用計算 (contextual contrast form in Route Navigation Mastery)",
+            "人物介紹 ＋ 年齡說明 ＋ 職業交代 (formal register distinction for Route Navigation Mastery)",
+            "菜單推薦 ＋ 價格說明 ＋ 口味評估 (colloquial conversational usage for Route Navigation Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "該句完整展示了路標參照、方向轉折與目標終點坐標之完整導覽結構。"
@@ -8714,10 +8714,10 @@
         {
           "prompt": "【理所當然】欲表達「如果你努力工作，自然就能賺到錢，這是理所當然的」，結尾語氣詞應為：",
           "options": [
-            "自然就賺到錢囉！ (Core concept alternative form)",
-            "自然就賺到錢咩？ (Core concept alternative form)",
-            "自然就賺到錢啫？ (Core concept alternative form)",
-            "自然就賺到錢喎？ (Core concept alternative form)"
+            "自然就賺到錢囉！ (standard target expression for Evidential   State Particles)",
+            "自然就賺到錢咩？ (contextual contrast form in Evidential   State Particles)",
+            "自然就賺到錢啫？ (formal register distinction for Evidential   State Particles)",
+            "自然就賺到錢喎？ (colloquial conversational usage for Evidential   State Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「囉」（lo1）表示理所當然、顯而易見之因果必然性。"
@@ -8729,10 +8729,10 @@
         {
           "prompt": "【常識提醒】提醒朋友「今天是公眾假期，銀行不開門是大家都知道的事實」，應講：",
           "options": [
-            "今日係假期，銀行唔開門㗎嘛 (Core concept alternative form)",
-            "今日係假期，銀行唔開門囉 (Core concept alternative form)",
-            "今日係假期，銀行唔開門咩 (Core concept alternative form)",
-            "今日係假期，銀行唔開門喎 (Core concept alternative form)"
+            "今日係假期，銀行唔開門㗎嘛 (standard target expression for Evidential   State Particles)",
+            "今日係假期，銀行唔開門囉 (contextual contrast form in Evidential   State Particles)",
+            "今日係假期，銀行唔開門咩 (formal register distinction for Evidential   State Particles)",
+            "今日係假期，銀行唔開門喎 (colloquial conversational usage for Evidential   State Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎嘛 / 呀嘛」用以提醒對方共有之常識或背景信息。"
@@ -8745,10 +8745,10 @@
           "type": "multiple-choice",
           "prompt": "【語氣功能】短語「時間到喇」（si4 gaan3 dou3 laa3）中，「喇」之核心語法功能係：",
           "options": [
-            "標註新事態之成立與實現 (Core concept alternative form)",
-            "表示強烈質疑反問 (Core concept alternative form)",
-            "表示主觀輕視與忽略 (Core concept alternative form)",
-            "表示引用他人傳聞 (Core concept alternative form)"
+            "標註新事態之成立與實現 (standard target expression for Evidential   State Particles)",
+            "表示強烈質疑反問 (contextual contrast form in Evidential   State Particles)",
+            "表示主觀輕視與忽略 (formal register distinction for Evidential   State Particles)",
+            "表示引用他人傳聞 (colloquial conversational usage for Evidential   State Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「喇」（laa3）作為句尾助詞，核心功能為標註事態轉變或階段性完成。"
@@ -8796,10 +8796,10 @@
         {
           "prompt": "【驚訝反問】聽到令人難以置信的消息時，反問「真的是這樣嗎？！難道真的會這樣？」，應講：",
           "options": [
-            "真係噉咩？！ (Core concept alternative form)",
-            "真係噉囉？！ (Core concept alternative form)",
-            "真係噉啫？！ (Core concept alternative form)",
-            "真係噉可？！ (Core concept alternative form)"
+            "真係噉咩？！ (standard target expression for Inquisitive   Hearsay Particles)",
+            "真係噉囉？！ (contextual contrast form in Inquisitive   Hearsay Particles)",
+            "真係噉啫？！ (formal register distinction for Inquisitive   Hearsay Particles)",
+            "真係噉可？！ (colloquial conversational usage for Inquisitive   Hearsay Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「咩」（me1）表示出乎意料之強烈反問與懷疑。"
@@ -8811,10 +8811,10 @@
         {
           "prompt": "【轉述傳聞】向朋友轉達「我聽經理說下星期要全體加班」，客觀轉述助詞應為：",
           "options": [
-            "經理話下個禮拜要加班喎 (Core concept alternative form)",
-            "經理話下個禮拜要加班咩 (Core concept alternative form)",
-            "經理話下個禮拜要加班啫 (Core concept alternative form)",
-            "經理話下個禮拜要加班可 (Core concept alternative form)"
+            "經理話下個禮拜要加班喎 (standard target expression for Inquisitive   Hearsay Particles)",
+            "經理話下個禮拜要加班咩 (contextual contrast form in Inquisitive   Hearsay Particles)",
+            "經理話下個禮拜要加班啫 (formal register distinction for Inquisitive   Hearsay Particles)",
+            "經理話下個禮拜要加班可 (colloquial conversational usage for Inquisitive   Hearsay Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「喎」（wo3）用於轉述第三方言論或傳聞消息。"
@@ -8827,10 +8827,10 @@
           "type": "multiple-choice",
           "prompt": "【求證附加問】句子「份報告聽日交嘅，可？」（ho2）中，「可」之功能相當於英語中之：",
           "options": [
-            "附加疑問句標記 (Core concept alternative form)",
-            "動態完成標記 (Core concept alternative form)",
-            "條件連詞 (Core concept alternative form)",
-            "否定副詞 (Core concept alternative form)"
+            "附加疑問句標記 (standard target expression for Inquisitive   Hearsay Particles)",
+            "動態完成標記 (contextual contrast form in Inquisitive   Hearsay Particles)",
+            "條件連詞 (formal register distinction for Inquisitive   Hearsay Particles)",
+            "否定副詞 (colloquial conversational usage for Inquisitive   Hearsay Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「可」（ho2）置於句尾，功能為向對方尋求肯定與確認（..., right?）。"
@@ -8878,10 +8878,10 @@
         {
           "prompt": "【輕描淡寫】安慰朋友「這只是一件微不足道的小事，別放在心上」，地道結尾語氣詞係：",
           "options": [
-            "小事嚟啫 (Core concept alternative form)",
-            "小事嚟㗎 (Core concept alternative form)",
-            "小事嚟咩 (Core concept alternative form)",
-            "小事嚟囉 (Core concept alternative form)"
+            "小事嚟啫 (standard target expression for Limitative   Inherent Particles)",
+            "小事嚟㗎 (contextual contrast form in Limitative   Inherent Particles)",
+            "小事嚟咩 (formal register distinction for Limitative   Inherent Particles)",
+            "小事嚟囉 (colloquial conversational usage for Limitative   Inherent Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「啫」（ze1）用於輕描淡寫、主觀縮小嚴重性。"
@@ -8893,10 +8893,10 @@
         {
           "prompt": "【本質特徵】向外地朋友解釋「香港夏天向來都非常炎熱多雨（固有規律）」，應講：",
           "options": [
-            "香港夏天好熱㗎 (Core concept alternative form)",
-            "香港夏天好熱啫 (Core concept alternative form)",
-            "香港夏天好熱咩 (Core concept alternative form)",
-            "香港夏天好熱可 (Core concept alternative form)"
+            "香港夏天好熱㗎 (standard target expression for Limitative   Inherent Particles)",
+            "香港夏天好熱啫 (contextual contrast form in Limitative   Inherent Particles)",
+            "香港夏天好熱咩 (formal register distinction for Limitative   Inherent Particles)",
+            "香港夏天好熱可 (colloquial conversational usage for Limitative   Inherent Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎」（gaa3）表示本質固有事實與規律。"
@@ -8909,10 +8909,10 @@
           "type": "multiple-choice",
           "prompt": "【對比辨析】句子Ａ「我問下啫」與句子Ｂ「我問下㗎」之語法語氣核心差別係：",
           "options": [
-            "句子Ａ強調『只是隨口問問、別介意』，句子Ｂ強調『問問題是我的固有習慣或職責』 (Core concept alternative form)",
-            "句子Ａ表示憤怒，句子Ｂ表示高興 (Core concept alternative form)",
-            "句子Ａ是疑問句，句子Ｂ是祈使句 (Core concept alternative form)",
-            "兩者毫無語義差別 (Core concept alternative form)"
+            "句子Ａ強調『只是隨口問問、別介意』，句子Ｂ強調『問問題是我的固有習慣或職責』 (standard target expression for Limitative   Inherent Particles)",
+            "句子Ａ表示憤怒，句子Ｂ表示高興 (contextual contrast form in Limitative   Inherent Particles)",
+            "句子Ａ是疑問句，句子Ｂ是祈使句 (formal register distinction for Limitative   Inherent Particles)",
+            "兩者毫無語義差別 (colloquial conversational usage for Limitative   Inherent Particles)"
           ],
           "answerIndex": 0,
           "explanation": "「啫」表縮小輕描淡寫，「㗎」表固有特徵或慣常做法。"
@@ -8960,10 +8960,10 @@
         {
           "prompt": "【緊迫警示】提醒朋友「末班地鐵快要開走了，再不跑就趕不上了」，應講：",
           "options": [
-            "尾班車就嚟開走喇喎！ (Core concept alternative form)",
-            "尾班車就嚟開走罷啦！ (Core concept alternative form)",
-            "尾班車就嚟開走啫！ (Core concept alternative form)",
-            "尾班車就嚟開走可！ (Core concept alternative form)"
+            "尾班車就嚟開走喇喎！ (standard target expression for Directives   Warnings)",
+            "尾班車就嚟開走罷啦！ (contextual contrast form in Directives   Warnings)",
+            "尾班車就嚟開走啫！ (formal register distinction for Directives   Warnings)",
+            "尾班車就嚟開走可！ (colloquial conversational usage for Directives   Warnings)"
           ],
           "answerIndex": 0,
           "explanation": "「喇喎」（laa3 wo3）用於發出事態迫近之警告。"
@@ -8975,10 +8975,10 @@
         {
           "prompt": "【放棄妥協】面對無法挽回之失敗局面，表達「算了，別再糾結了」，最地道粵語表達係：",
           "options": [
-            "算罷啦 (Core concept key phrasing)",
-            "算喇喎 (Core concept alternative form)",
-            "算咩啦 (Core concept alternative form)",
-            "算㗎喎 (Core concept alternative form)"
+            "算罷啦 (standard target expression for Directives   Warnings)",
+            "算喇喎 (contextual contrast form in Directives   Warnings)",
+            "算咩啦 (formal register distinction for Directives   Warnings)",
+            "算㗎喎 (colloquial conversational usage for Directives   Warnings)"
           ],
           "answerIndex": 0,
           "explanation": "「算罷啦」（syun3 baa6 laa1）表示無奈放棄、不再計較。"
@@ -8991,10 +8991,10 @@
           "type": "multiple-choice",
           "prompt": "【語氣對比】祈請助詞「啦」（laa1）與事態助詞「喇」（laa3）之核心語音與語義差異係：",
           "options": [
-            "「啦 (Core concept key phrasing)",
-            "「啦」表否定，「喇」表肯定 (Core concept alternative form)",
-            "「啦」只能用於書面語，「喇」只能用於口語 (Core concept alternative form)",
-            "兩者聲調與用法完全相同 (Core concept alternative form)"
+            "「啦 (standard target expression for Directives   Warnings)",
+            "「啦」表否定，「喇」表肯定 (contextual contrast form in Directives   Warnings)",
+            "「啦」只能用於書面語，「喇」只能用於口語 (formal register distinction for Directives   Warnings)",
+            "兩者聲調與用法完全相同 (colloquial conversational usage for Directives   Warnings)"
           ],
           "answerIndex": 0,
           "explanation": "第一聲「啦」（laa1）為祈使祈請助詞，第三聲「喇」（laa3）為既成事態助詞。"
@@ -9042,10 +9042,10 @@
         {
           "prompt": "【語氣疊用】向老闆匯報任務時確認「全部工作都已經徹底辦妥無誤了」，最地道複合助詞短語係：",
           "options": [
-            "全部搞掂㗎喇！ (Core concept alternative form)",
-            "全部搞掂嘅啫！ (Core concept alternative form)",
-            "全部搞掂啫嘛！ (Core concept alternative form)",
-            "全部搞掂㗎喎！ (Core concept alternative form)"
+            "全部搞掂㗎喇！ (standard target expression for Compound Particle Stacking)",
+            "全部搞掂嘅啫！ (contextual contrast form in Compound Particle Stacking)",
+            "全部搞掂啫嘛！ (formal register distinction for Compound Particle Stacking)",
+            "全部搞掂㗎喎！ (colloquial conversational usage for Compound Particle Stacking)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎喇」（gaa3 laa3）表示任務已經徹底辦妥並正式生效。"
@@ -9057,10 +9057,10 @@
         {
           "prompt": "【複合微不足道】向著急的朋友勸解「只不過是等十分鐘而已嘛，何必這麼心急」，應講：",
           "options": [
-            "等十分鐘啫嘛 (Core concept alternative form)",
-            "等十分鐘㗎喇 (Core concept alternative form)",
-            "等十分鐘㗎喎 (Core concept alternative form)",
-            "等十分鐘嘅可 (Core concept alternative form)"
+            "等十分鐘啫嘛 (standard target expression for Compound Particle Stacking)",
+            "等十分鐘㗎喇 (contextual contrast form in Compound Particle Stacking)",
+            "等十分鐘㗎喎 (formal register distinction for Compound Particle Stacking)",
+            "等十分鐘嘅可 (colloquial conversational usage for Compound Particle Stacking)"
           ],
           "answerIndex": 0,
           "explanation": "「啫嘛」（ze1 maa3）結合了縮小微不足道與共有認知之勸解語氣。"
@@ -9073,10 +9073,10 @@
           "type": "multiple-choice",
           "prompt": "【多重語氣分析】句子「佢好勁㗎喎」（gaa3 wo3）中，複合助詞之語意合成效果係：",
           "options": [
-            "強調對方客觀上具備卓越能力，同時向聽者發出提示或表達驚嘆 (Core concept alternative form)",
-            "表示完全否定對方的能力 (Core concept alternative form)",
-            "表示向對方發出嚴厲批評 (Core concept alternative form)",
-            "表示疑問求證對方是否具備能力 (Core concept alternative form)"
+            "強調對方客觀上具備卓越能力，同時向聽者發出提示或表達驚嘆 (standard target expression for Compound Particle Stacking)",
+            "表示完全否定對方的能力 (contextual contrast form in Compound Particle Stacking)",
+            "表示向對方發出嚴厲批評 (formal register distinction for Compound Particle Stacking)",
+            "表示疑問求證對方是否具備能力 (colloquial conversational usage for Compound Particle Stacking)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎」確立本質屬性事實，「喎」承擔提醒聽者注意或傳遞新奇信息之功能。"
@@ -9124,10 +9124,10 @@
         {
           "prompt": "【防騙俗語】面對聲稱「零風險、高回報」之可疑投資宣傳，廣東人最常用之警惕俗語係：",
           "options": [
-            "邊有咁大隻蛤乸隨街跳 (Core concept key phrasing)",
-            "食得鹹魚抵得渴 (Core concept alternative form)",
-            "執輸行頭慘過敗家 (Core concept alternative form)",
-            "扮豬食老虎 (Core concept alternative form)"
+            "邊有咁大隻蛤乸隨街跳 (standard target expression for Core Cantonese Proverbs)",
+            "食得鹹魚抵得渴 (contextual contrast form in Core Cantonese Proverbs)",
+            "執輸行頭慘過敗家 (formal register distinction for Core Cantonese Proverbs)",
+            "扮豬食老虎 (colloquial conversational usage for Core Cantonese Proverbs)"
           ],
           "answerIndex": 0,
           "explanation": "「邊有咁大隻蛤乸隨街跳」比喻天下沒有免費午餐，警惕提防被騙。"
@@ -9139,10 +9139,10 @@
         {
           "prompt": "【承擔後果】告誡他人「既然選擇了高風險高回報之路，就要勇於承受隨之而來的壓力」，應引用：",
           "options": [
-            "食得鹹魚抵得渴 (Core concept key phrasing)",
-            "邊有咁大隻蛤乸隨街跳 (Core concept alternative form)",
-            "水過鴨背 (Core concept alternative form)",
-            "阿茂整餅 (Core concept alternative form)"
+            "食得鹹魚抵得渴 (standard target expression for Core Cantonese Proverbs)",
+            "邊有咁大隻蛤乸隨街跳 (contextual contrast form in Core Cantonese Proverbs)",
+            "水過鴨背 (formal register distinction for Core Cantonese Proverbs)",
+            "阿茂整餅 (colloquial conversational usage for Core Cantonese Proverbs)"
           ],
           "answerIndex": 0,
           "explanation": "「食得鹹魚抵得渴」比喻敢作敢當、承擔自己選擇所帶來的必然代價。"
@@ -9155,10 +9155,10 @@
           "type": "multiple-choice",
           "prompt": "【商戰心態】俗語「執輸行頭慘過敗家」（zap1 syu1 haang4 tau4 caam2 gwo3 baai6 gaa1）所體現之核心精神係：",
           "options": [
-            "強烈之搶佔商機與爭先恐後競爭意識 (Core concept alternative form)",
-            "安貧樂道、與世無爭 (Core concept alternative form)",
-            "崇尚奢侈浪費之敗家行為 (Core concept alternative form)",
-            "消極放棄所有投資機會 (Core concept alternative form)"
+            "強烈之搶佔商機與爭先恐後競爭意識 (standard target expression for Core Cantonese Proverbs)",
+            "安貧樂道、與世無爭 (contextual contrast form in Core Cantonese Proverbs)",
+            "崇尚奢侈浪費之敗家行為 (formal register distinction for Core Cantonese Proverbs)",
+            "消極放棄所有投資機會 (colloquial conversational usage for Core Cantonese Proverbs)"
           ],
           "answerIndex": 0,
           "explanation": "該俗語強調商場競爭中錯失先機之痛心，體現出積極進取、爭分奪秒之搶佔商機意識。"
@@ -9206,10 +9206,10 @@
         {
           "prompt": "【職場隱喻】在公司中被無辜栽贓、替他人頂罪受過，地道飲食成語係：",
           "options": [
-            "食死貓 (Core concept key phrasing)",
-            "炒魷魚 (Core concept alternative form)",
-            "食檸檬 (Core concept alternative form)",
-            "飲頭啖湯 (Core concept alternative form)"
+            "食死貓 (standard target expression for Culinary Idioms)",
+            "炒魷魚 (contextual contrast form in Culinary Idioms)",
+            "食檸檬 (formal register distinction for Culinary Idioms)",
+            "飲頭啖湯 (colloquial conversational usage for Culinary Idioms)"
           ],
           "answerIndex": 0,
           "explanation": "「食死貓」比喻背黑鍋、含冤受屈。"
@@ -9221,10 +9221,10 @@
         {
           "prompt": "【商業先機】形容企業搶先進入新市場、最先享受豐厚紅利，應選用之成語係：",
           "options": [
-            "飲頭啖湯 (Core concept key phrasing)",
-            "食死貓 (Core concept alternative form)",
-            "炒魷魚 (Core concept alternative form)",
-            "食軟飯 (Core concept alternative form)"
+            "飲頭啖湯 (standard target expression for Culinary Idioms)",
+            "食死貓 (contextual contrast form in Culinary Idioms)",
+            "炒魷魚 (formal register distinction for Culinary Idioms)",
+            "食軟飯 (colloquial conversational usage for Culinary Idioms)"
           ],
           "answerIndex": 0,
           "explanation": "「飲頭啖湯」比喻第一批搶先獲取最大利益者。"
@@ -9237,10 +9237,10 @@
           "type": "multiple-choice",
           "prompt": "【社交隱喻】短語「畀人請食檸檬」在廣東話中之真正含義為：",
           "options": [
-            "遭到對方的拒絕或冷落回絕 (Core concept alternative form)",
-            "獲贈新鮮美味的水果禮品 (Core concept alternative form)",
-            "被邀請參加豪華宴會 (Core concept alternative form)",
-            "在餐廳免費獲得檸檬茶飲品 (Core concept alternative form)"
+            "遭到對方的拒絕或冷落回絕 (standard target expression for Culinary Idioms)",
+            "獲贈新鮮美味的水果禮品 (contextual contrast form in Culinary Idioms)",
+            "被邀請參加豪華宴會 (formal register distinction for Culinary Idioms)",
+            "在餐廳免費獲得檸檬茶飲品 (colloquial conversational usage for Culinary Idioms)"
           ],
           "answerIndex": 0,
           "explanation": "「食檸檬」為遭到求愛拒絕或請求碰釘子之經典隱喻。"
@@ -9288,10 +9288,10 @@
         {
           "prompt": "【歇後匹配】歇後語「水過鴨背」之後半段對應謎底係：",
           "options": [
-            "唔入心 / 冇痕跡 (Core concept alternative form)",
-            "心中有數 (Core concept alternative form)",
-            "冇嗰樣整嗰樣 (Core concept alternative form)",
-            "冇安好心 (Core concept alternative form)"
+            "唔入心 / 冇痕跡 (standard target expression for Everyday Xiehouyu)",
+            "心中有數 (contextual contrast form in Everyday Xiehouyu)",
+            "冇嗰樣整嗰樣 (formal register distinction for Everyday Xiehouyu)",
+            "冇安好心 (colloquial conversational usage for Everyday Xiehouyu)"
           ],
           "answerIndex": 0,
           "explanation": "「水過鴨背」比喻說話如過眼雲煙、聽不進去（唔入心）。"
@@ -9303,10 +9303,10 @@
         {
           "prompt": "【多此一舉】形容人無事生非、多此一舉做無用功，對應之歇後語前半句係：",
           "options": [
-            "阿茂整餅 (Core concept key phrasing)",
-            "盲人食湯圓 (Core concept alternative form)",
-            "黃鼠狼畀雞拜年 (Core concept alternative form)",
-            "泥菩薩過江 (Core concept alternative form)"
+            "阿茂整餅 (standard target expression for Everyday Xiehouyu)",
+            "盲人食湯圓 (contextual contrast form in Everyday Xiehouyu)",
+            "黃鼠狼畀雞拜年 (formal register distinction for Everyday Xiehouyu)",
+            "泥菩薩過江 (colloquial conversational usage for Everyday Xiehouyu)"
           ],
           "answerIndex": 0,
           "explanation": "「阿茂整餅 —— 冇嗰樣整嗰樣」比喻多此一舉、自找麻煩。"
@@ -9319,10 +9319,10 @@
           "type": "multiple-choice",
           "prompt": "【心知肚明】歇後語「盲人食湯圓」（maang4 jan4 sik6 tong1 jyun4*2）所表達之真實寓意係：",
           "options": [
-            "心中有數、內心對底細清清楚楚 (Core concept alternative form)",
-            "完全不知道吃了多少 (Core concept alternative form)",
-            "湯圓味道非常甜美 (Core concept alternative form)",
-            "雙眼視力突然恢復 (Core concept alternative form)"
+            "心中有數、內心對底細清清楚楚 (standard target expression for Everyday Xiehouyu)",
+            "完全不知道吃了多少 (contextual contrast form in Everyday Xiehouyu)",
+            "湯圓味道非常甜美 (formal register distinction for Everyday Xiehouyu)",
+            "雙眼視力突然恢復 (colloquial conversational usage for Everyday Xiehouyu)"
           ],
           "answerIndex": 0,
           "explanation": "「盲人食湯圓 —— 心中有數」比喻內心對事情來龍去脈與數字底細極為清楚。"
@@ -9370,10 +9370,10 @@
         {
           "prompt": "【萬無一失】形容事情有十足把握、絕對安全穩妥，對應之歇後語前半句係：",
           "options": [
-            "神仙過鐵橋 (Core concept key phrasing)",
-            "泥菩薩過江 (Core concept alternative form)",
-            "風吹雞蛋殼 (Core concept alternative form)",
-            "單眼佬睇榜 (Core concept alternative form)"
+            "神仙過鐵橋 (standard target expression for Historical   Punning Xiehouyu)",
+            "泥菩薩過江 (contextual contrast form in Historical   Punning Xiehouyu)",
+            "風吹雞蛋殼 (formal register distinction for Historical   Punning Xiehouyu)",
+            "單眼佬睇榜 (colloquial conversational usage for Historical   Punning Xiehouyu)"
           ],
           "answerIndex": 0,
           "explanation": "「神仙過鐵橋 —— 包穩陣」比喻萬無一失、極其穩妥。"
@@ -9385,10 +9385,10 @@
         {
           "prompt": "【自身難保】比喻連自己都難以自保、無力顧及他人，歇後語前半句係：",
           "options": [
-            "泥菩薩過江 (Core concept key phrasing)",
-            "神仙過鐵橋 (Core concept alternative form)",
-            "風吹雞蛋殼 (Core concept alternative form)",
-            "阿茂整餅 (Core concept alternative form)"
+            "泥菩薩過江 (standard target expression for Historical   Punning Xiehouyu)",
+            "神仙過鐵橋 (contextual contrast form in Historical   Punning Xiehouyu)",
+            "風吹雞蛋殼 (formal register distinction for Historical   Punning Xiehouyu)",
+            "阿茂整餅 (colloquial conversational usage for Historical   Punning Xiehouyu)"
           ],
           "answerIndex": 0,
           "explanation": "「泥菩薩過江 —— 自身難保」形容自身處境危殆、無力助人。"
@@ -9401,10 +9401,10 @@
           "type": "multiple-choice",
           "prompt": "【雙關諧音】歇後語「單眼佬睇榜 —— 一目了然」中，「一目」所運用的修辭手法係：",
           "options": [
-            "雙關諧音 (Core concept key phrasing)",
-            "誇張修辭 (Core concept alternative form)",
-            "借代修辭 (Core concept alternative form)",
-            "擬人修辭 (Core concept alternative form)"
+            "雙關諧音 (standard target expression for Historical   Punning Xiehouyu)",
+            "誇張修辭 (contextual contrast form in Historical   Punning Xiehouyu)",
+            "借代修辭 (formal register distinction for Historical   Punning Xiehouyu)",
+            "擬人修辭 (colloquial conversational usage for Historical   Punning Xiehouyu)"
           ],
           "answerIndex": 0,
           "explanation": "單眼人只有一隻眼（一目），與成語「一目了然」形成絕妙雙關諧音。"
@@ -9452,10 +9452,10 @@
         {
           "prompt": "【語用語境】在與香港商業合作夥伴簽約時，欲表達「我方承諾該項目絕對穩當、萬無一失」，最得體幽默之表達係：",
           "options": [
-            "今次合作真係神仙過鐵橋 —— 包穩陣！ (Core concept alternative form)",
-            "今次合作真係阿茂整餅！ (Core concept alternative form)",
-            "今次合作真係水過鴨背！ (Core concept alternative form)",
-            "今次合作真係泥菩薩過江！ (Core concept alternative form)"
+            "今次合作真係神仙過鐵橋 —— 包穩陣！ (standard target expression for Pragmatic Deployment Mastery)",
+            "今次合作真係阿茂整餅！ (contextual contrast form in Pragmatic Deployment Mastery)",
+            "今次合作真係水過鴨背！ (formal register distinction for Pragmatic Deployment Mastery)",
+            "今次合作真係泥菩薩過江！ (colloquial conversational usage for Pragmatic Deployment Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "「神仙過鐵橋 —— 包穩陣」在商務溝通中兼具自信承諾與地道幽默。"
@@ -9467,10 +9467,10 @@
         {
           "prompt": "【職場自衛】告誡年輕員工「要小心核對簽名文件，避免日後替他人背黑鍋」，應講：",
           "options": [
-            "小心核對，免得幫人食死貓 (Core concept alternative form)",
-            "小心核對，免得幫人飲頭啖湯 (Core concept alternative form)",
-            "小心核對，免得幫人食檸檬 (Core concept alternative form)",
-            "小心核對，免得幫人食軟飯 (Core concept alternative form)"
+            "小心核對，免得幫人食死貓 (standard target expression for Pragmatic Deployment Mastery)",
+            "小心核對，免得幫人飲頭啖湯 (contextual contrast form in Pragmatic Deployment Mastery)",
+            "小心核對，免得幫人食檸檬 (formal register distinction for Pragmatic Deployment Mastery)",
+            "小心核對，免得幫人食軟飯 (colloquial conversational usage for Pragmatic Deployment Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "「食死貓」為替人背黑鍋受過之專屬表達。"
@@ -9483,10 +9483,10 @@
           "type": "multiple-choice",
           "prompt": "【高情商策略】在跨文化商務社交中，巧妙運用廣東話俗語與歇後語之主要價值在於：",
           "options": [
-            "活躍談判氣氛，展示文化共鳴，迅速拉近與本地夥伴之人際心理距離 (Core concept alternative form)",
-            "故意讓對方聽不懂以獲取利益 (Core concept alternative form)",
-            "取代所有正式法律合同條款 (Core concept alternative form)",
-            "展示自身方言優越感 (Core concept alternative form)"
+            "活躍談判氣氛，展示文化共鳴，迅速拉近與本地夥伴之人際心理距離 (standard target expression for Pragmatic Deployment Mastery)",
+            "故意讓對方聽不懂以獲取利益 (contextual contrast form in Pragmatic Deployment Mastery)",
+            "取代所有正式法律合同條款 (formal register distinction for Pragmatic Deployment Mastery)",
+            "展示自身方言優越感 (colloquial conversational usage for Pragmatic Deployment Mastery)"
           ],
           "answerIndex": 0,
           "explanation": "恰當運用本土俗語能展現文化包容度與親和力，快速建立互信與心理共鳴。"
@@ -9534,10 +9534,10 @@
         {
           "prompt": "【新聞引述】新聞主播引述可靠內部情報時，最權威客觀之開篇信源詞係：",
           "options": [
-            "消息指 (Core concept key phrasing)",
-            "有人講 (Core concept alternative form)",
-            "聽講話 (Core concept alternative form)",
-            "街坊話 (Core concept alternative form)"
+            "消息指 (standard target expression for Formal Broadcast Cantonese   Sourcing)",
+            "有人講 (contextual contrast form in Formal Broadcast Cantonese   Sourcing)",
+            "聽講話 (formal register distinction for Formal Broadcast Cantonese   Sourcing)",
+            "街坊話 (colloquial conversational usage for Formal Broadcast Cantonese   Sourcing)"
           ],
           "answerIndex": 0,
           "explanation": "「消息指 / 據悉」為新聞傳媒最權威標準之客觀信源引述詞。"
@@ -9549,10 +9549,10 @@
         {
           "prompt": "【官方表態】在正式新聞稿中表述主管部門對某項政策的鄭重說明，地道表達係：",
           "options": [
-            "當局發言人指出並重申方針 (Core concept alternative form)",
-            "老細隨便講兩句 (Core concept alternative form)",
-            "阿茂整餅式通知 (Core concept alternative form)",
-            "街坊私下傾計 (Core concept alternative form)"
+            "當局發言人指出並重申方針 (standard target expression for Formal Broadcast Cantonese   Sourcing)",
+            "老細隨便講兩句 (contextual contrast form in Formal Broadcast Cantonese   Sourcing)",
+            "阿茂整餅式通知 (formal register distinction for Formal Broadcast Cantonese   Sourcing)",
+            "街坊私下傾計 (colloquial conversational usage for Formal Broadcast Cantonese   Sourcing)"
           ],
           "answerIndex": 0,
           "explanation": "「發言人指出 / 重申」為官方新聞語體之標準莊重表達。"
@@ -9565,10 +9565,10 @@
           "type": "multiple-choice",
           "prompt": "【語體轉換】日常口語「警察叫大家千祈唔好犯法」轉換為莊重新聞語體應為：",
           "options": [
-            "警方呼籲市民切勿以身試法 (Core concept key phrasing)",
-            "差人叫大家唔好做壞事 (Core concept alternative form)",
-            "警察話大家小心啲啦 (Core concept alternative form)",
-            "警署發明咗新規矩 (Core concept alternative form)"
+            "警方呼籲市民切勿以身試法 (standard target expression for Formal Broadcast Cantonese   Sourcing)",
+            "差人叫大家唔好做壞事 (contextual contrast form in Formal Broadcast Cantonese   Sourcing)",
+            "警察話大家小心啲啦 (formal register distinction for Formal Broadcast Cantonese   Sourcing)",
+            "警署發明咗新規矩 (colloquial conversational usage for Formal Broadcast Cantonese   Sourcing)"
           ],
           "answerIndex": 0,
           "explanation": "「警方呼籲市民切勿以身試法」體現了新聞語體之規範性、典雅性與客觀性。"
@@ -9616,10 +9616,10 @@
         {
           "prompt": "【房屋類型】指稱將住宅單位分間為多個極微小空間獨立出租之住房形態，專用術語係：",
           "options": [
-            "劏房 (Core concept key phrasing)",
-            "居屋 (Core concept alternative form)",
-            "村屋 (Core concept alternative form)",
-            "豪宅 (Core concept alternative form)"
+            "劏房 (standard target expression for Housing   Urban Redevelopment)",
+            "居屋 (contextual contrast form in Housing   Urban Redevelopment)",
+            "村屋 (formal register distinction for Housing   Urban Redevelopment)",
+            "豪宅 (colloquial conversational usage for Housing   Urban Redevelopment)"
           ],
           "answerIndex": 0,
           "explanation": "「劏房」指將單位分間出租之極端微型居住形態。"
@@ -9631,10 +9631,10 @@
         {
           "prompt": "【置業術語】廣東話中指稱「按月償還房屋貸款本金與利息」，地道動詞短語係：",
           "options": [
-            "供樓 (Core concept key phrasing)",
-            "炒樓 (Core concept alternative form)",
-            "租樓 (Core concept alternative form)",
-            "睇樓 (Core concept alternative form)"
+            "供樓 (standard target expression for Housing   Urban Redevelopment)",
+            "炒樓 (contextual contrast form in Housing   Urban Redevelopment)",
+            "租樓 (formal register distinction for Housing   Urban Redevelopment)",
+            "睇樓 (colloquial conversational usage for Housing   Urban Redevelopment)"
           ],
           "answerIndex": 0,
           "explanation": "「供樓」指每月按期向銀行繳付按揭貸款。"
@@ -9647,10 +9647,10 @@
           "type": "multiple-choice",
           "prompt": "【金融術語】在香港購買私人物業時，買家首先必須自行支付之初始訂金額度稱為：",
           "options": [
-            "首期 (Core concept key phrasing)",
-            "利息 (Core concept alternative form)",
-            "差餉 (Core concept alternative form)",
-            "管理費 (Core concept alternative form)"
+            "首期 (standard target expression for Housing   Urban Redevelopment)",
+            "利息 (contextual contrast form in Housing   Urban Redevelopment)",
+            "差餉 (formal register distinction for Housing   Urban Redevelopment)",
+            "管理費 (colloquial conversational usage for Housing   Urban Redevelopment)"
           ],
           "answerIndex": 0,
           "explanation": "「首期」指置業時買家自備並先行繳付之首期款項（Down Payment）。"
@@ -9698,10 +9698,10 @@
         {
           "prompt": "【股指術語】形容恒生指數跌破重要心理支持點位，專業廣東話術語係：",
           "options": [
-            "跌穿 (Core concept key phrasing)",
-            "跌入 (Core concept alternative form)",
-            "跌埋 (Core concept alternative form)",
-            "跌醒 (Core concept alternative form)"
+            "跌穿 (standard target expression for Financial Markets   Economy)",
+            "跌入 (contextual contrast form in Financial Markets   Economy)",
+            "跌埋 (formal register distinction for Financial Markets   Economy)",
+            "跌醒 (colloquial conversational usage for Financial Markets   Economy)"
           ],
           "answerIndex": 0,
           "explanation": "「跌穿」（如跌穿萬八點）為財經新聞描寫指數跌破關口之專屬動補結構。"
@@ -9713,10 +9713,10 @@
         {
           "prompt": "【節省開支】市井口語中生動形容「節約花銷、省錢守住錢包」，地道動賓短語係：",
           "options": [
-            "慳荷包 (Core concept key phrasing)",
-            "炒荷包 (Core concept alternative form)",
-            "供荷包 (Core concept alternative form)",
-            "買荷包 (Core concept alternative form)"
+            "慳荷包 (standard target expression for Financial Markets   Economy)",
+            "炒荷包 (contextual contrast form in Financial Markets   Economy)",
+            "供荷包 (formal register distinction for Financial Markets   Economy)",
+            "買荷包 (colloquial conversational usage for Financial Markets   Economy)"
           ],
           "answerIndex": 0,
           "explanation": "「慳荷包」（慳錢）比喻節省開銷、精打細算。"
@@ -9729,10 +9729,10 @@
           "type": "multiple-choice",
           "prompt": "【宏觀經濟】術語「加息週期」（gaa1 sik1 zau1 kei4）對普通置業家庭最直接之影響為：",
           "options": [
-            "銀行物業按揭月供款項隨利率上升而增加 (Core concept alternative form)",
-            "超市物價立刻全部免費 (Core concept alternative form)",
-            "水電費賬單徹底免除 (Core concept alternative form)",
-            "公共交通工具全面停止收費 (Core concept alternative form)"
+            "銀行物業按揭月供款項隨利率上升而增加 (standard target expression for Financial Markets   Economy)",
+            "超市物價立刻全部免費 (contextual contrast form in Financial Markets   Economy)",
+            "水電費賬單徹底免除 (formal register distinction for Financial Markets   Economy)",
+            "公共交通工具全面停止收費 (colloquial conversational usage for Financial Markets   Economy)"
           ],
           "answerIndex": 0,
           "explanation": "加息週期下銀行利率上升，直接導致浮動利率按揭家庭之「供樓」負擔顯著加重。"
@@ -9780,10 +9780,10 @@
         {
           "prompt": "【環保生活】在香港餐廳點餐外賣時，表達「不要一次性即棄塑膠餐具和吸管」，地道術語係：",
           "options": [
-            "走塑 / 走餐具 (Core concept alternative form)",
-            "走甜 (Core concept key phrasing)",
-            "走冰 (Core concept key phrasing)",
-            "走油 (Core concept alternative form)"
+            "走塑 / 走餐具 (standard target expression for Environmental Policy   Green Living)",
+            "走甜 (contextual contrast form in Environmental Policy   Green Living)",
+            "走冰 (formal register distinction for Environmental Policy   Green Living)",
+            "走油 (colloquial conversational usage for Environmental Policy   Green Living)"
           ],
           "answerIndex": 0,
           "explanation": "「走塑」（如同走甜、走冰）指不索取即棄塑膠餐具之環保倡議。"
@@ -9795,10 +9795,10 @@
         {
           "prompt": "【政策理念】環保宣傳中強調「在消費與生產最前端就減少廢棄物產生」，核心標語係：",
           "options": [
-            "源頭減廢 (Core concept key phrasing)",
-            "炒魷魚 (Core concept alternative form)",
-            "食死貓 (Core concept alternative form)",
-            "邊有蛤乸跳 (Core concept alternative form)"
+            "源頭減廢 (standard target expression for Environmental Policy   Green Living)",
+            "炒魷魚 (contextual contrast form in Environmental Policy   Green Living)",
+            "食死貓 (formal register distinction for Environmental Policy   Green Living)",
+            "邊有蛤乸跳 (colloquial conversational usage for Environmental Policy   Green Living)"
           ],
           "answerIndex": 0,
           "explanation": "「源頭減廢」為可持續固體廢物管理之核心政策理念。"
@@ -9811,10 +9811,10 @@
           "type": "multiple-choice",
           "prompt": "【社區網絡】遍佈全港十八區、鼓勵市民將廢紙塑膠玻璃回收換取生活日用品之社區環保網絡名稱為：",
           "options": [
-            "綠在區區 (Core concept key phrasing)",
-            "紅在街市 (Core concept alternative form)",
-            "藍在碼頭 (Core concept alternative form)",
-            "黃在地鐵 (Core concept alternative form)"
+            "綠在區區 (standard target expression for Environmental Policy   Green Living)",
+            "紅在街市 (contextual contrast form in Environmental Policy   Green Living)",
+            "藍在碼頭 (formal register distinction for Environmental Policy   Green Living)",
+            "黃在地鐵 (colloquial conversational usage for Environmental Policy   Green Living)"
           ],
           "answerIndex": 0,
           "explanation": "「綠在區區」為香港環保署推動之全港性社區回收環保站網絡。"
@@ -9862,10 +9862,10 @@
         {
           "prompt": "【社論銜接】在政策評論中客觀表述「這項措施對緩解短期問題有幫助，但無法從根本上徹底解決」，應使用之論證句式係：",
           "options": [
-            "固然有助於……然而難以徹底解決…… (Core concept key phrasing)",
-            "完全冇用兼阿茂整餅 (Core concept alternative form)",
-            "一目了然唔使諗 (Core concept alternative form)",
-            "神仙過鐵橋包解決 (Core concept alternative form)"
+            "固然有助於……然而難以徹底解決…… (standard target expression for Policy Debates   Editorials)",
+            "完全冇用兼阿茂整餅 (contextual contrast form in Policy Debates   Editorials)",
+            "一目了然唔使諗 (formal register distinction for Policy Debates   Editorials)",
+            "神仙過鐵橋包解決 (colloquial conversational usage for Policy Debates   Editorials)"
           ],
           "answerIndex": 0,
           "explanation": "「固然有助於……然而難以徹底解決……」為政策社論中辨析局部效益與深層局限之經典平衡句式。"
@@ -9877,10 +9877,10 @@
         {
           "prompt": "【宏觀視角】引導讀者跳出當前微觀局部爭拗、從未來整體戰略視角評估政策，應引出之書面銜接詞係：",
           "options": [
-            "從宏觀角度審視，長遠而言…… (Core concept alternative form)",
-            "即刻執輸行頭慘過敗家 (Core concept alternative form)",
-            "大家算罷啦 (Core concept alternative form)",
-            "食死貓算數 (Core concept alternative form)"
+            "從宏觀角度審視，長遠而言…… (standard target expression for Policy Debates   Editorials)",
+            "即刻執輸行頭慘過敗家 (contextual contrast form in Policy Debates   Editorials)",
+            "大家算罷啦 (formal register distinction for Policy Debates   Editorials)",
+            "食死貓算數 (colloquial conversational usage for Policy Debates   Editorials)"
           ],
           "answerIndex": 0,
           "explanation": "「從宏觀角度審視 / 長遠而言」為高階社論評論之專業視角轉換標記。"
@@ -9893,10 +9893,10 @@
           "type": "multiple-choice",
           "prompt": "【政策論辯架構】優秀公共政策社論的核心論述特徵在於：",
           "options": [
-            "邏輯嚴密、視角宏觀，既肯定政策正面效益，又辯證指出執行局限並提出建設性平衡方案 (Core concept alternative form)",
-            "盲目情緒化宣洩或人身攻擊 (Core concept alternative form)",
-            "只堆砌市井歇後語而無實質數據支持 (Core concept alternative form)",
-            "全盤否定所有公共治理措施 (Core concept alternative form)"
+            "邏輯嚴密、視角宏觀，既肯定政策正面效益，又辯證指出執行局限並提出建設性平衡方案 (standard target expression for Policy Debates   Editorials)",
+            "盲目情緒化宣洩或人身攻擊 (contextual contrast form in Policy Debates   Editorials)",
+            "只堆砌市井歇後語而無實質數據支持 (formal register distinction for Policy Debates   Editorials)",
+            "全盤否定所有公共治理措施 (colloquial conversational usage for Policy Debates   Editorials)"
           ],
           "answerIndex": 0,
           "explanation": "專業社論依託嚴謹的邏輯論證、宏觀辯證視角以及兼顧多方利益之平衡建設性。"
@@ -9944,10 +9944,10 @@
         {
           "prompt": "【財務流程】在廣東話商業語境中，指稱「向客戶開具收費單據或發票」，標準動賓短語係：",
           "options": [
-            "開單 (Core concept key phrasing)",
-            "炒單 (Core concept alternative form)",
-            "食單 (Core concept alternative form)",
-            "走單 (Core concept alternative form)"
+            "開單 (standard target expression for Business Operations   Approvals)",
+            "炒單 (contextual contrast form in Business Operations   Approvals)",
+            "食單 (formal register distinction for Business Operations   Approvals)",
+            "走單 (colloquial conversational usage for Business Operations   Approvals)"
           ],
           "answerIndex": 0,
           "explanation": "「開單 / 出單」指開立商業收費發票或賬單。"
@@ -9959,10 +9959,10 @@
         {
           "prompt": "【審批敬語】將方案文件呈交主管請其審閱時，最得體禮貌之敬語詞彙係：",
           "options": [
-            "請主管過目 (Core concept alternative form)",
-            "請主管食死貓 (Core concept alternative form)",
-            "請主管算罷啦 (Core concept alternative form)",
-            "請主管邊度跳 (Core concept alternative form)"
+            "請主管過目 (standard target expression for Business Operations   Approvals)",
+            "請主管食死貓 (contextual contrast form in Business Operations   Approvals)",
+            "請主管算罷啦 (formal register distinction for Business Operations   Approvals)",
+            "請主管邊度跳 (colloquial conversational usage for Business Operations   Approvals)"
           ],
           "answerIndex": 0,
           "explanation": "「過目」為商務公文中懇請對方審閱之莊重敬語。"
@@ -9975,10 +9975,10 @@
           "type": "multiple-choice",
           "prompt": "【商業結算】短語「找清貨款」（zaau2 cing1 fo3 fun2）在粵語商業活動中之準確含義為：",
           "options": [
-            "全額結清應付貨物款項 (Core concept alternative form)",
-            "尋找丟失的貨物 (Core concept alternative form)",
-            "給予客戶折扣優惠 (Core concept alternative form)",
-            "拒絕支付貨款 (Core concept alternative form)"
+            "全額結清應付貨物款項 (standard target expression for Business Operations   Approvals)",
+            "尋找丟失的貨物 (contextual contrast form in Business Operations   Approvals)",
+            "給予客戶折扣優惠 (formal register distinction for Business Operations   Approvals)",
+            "拒絕支付貨款 (colloquial conversational usage for Business Operations   Approvals)"
           ],
           "answerIndex": 0,
           "explanation": "「找數 / 找清」為粵語商業傳統中結清賬目之核心術語。"
@@ -10026,10 +10026,10 @@
         {
           "prompt": "【商務電郵結尾】正式商務書信最標準典雅之結尾祝頌語係：",
           "options": [
-            "祝 商祺 (Core concept key phrasing)",
-            "祝 算罷啦 (Core concept alternative form)",
-            "祝 炒魷魚 (Core concept alternative form)",
-            "祝 泥菩薩 (Core concept alternative form)"
+            "祝 商祺 (standard target expression for Formal Business Correspondence)",
+            "祝 算罷啦 (contextual contrast form in Formal Business Correspondence)",
+            "祝 炒魷魚 (formal register distinction for Formal Business Correspondence)",
+            "祝 泥菩薩 (colloquial conversational usage for Formal Business Correspondence)"
           ],
           "answerIndex": 0,
           "explanation": "「祝 商祺」為中文正式商務往來公函之標準祝福語。"
@@ -10041,10 +10041,10 @@
         {
           "prompt": "【公函發端】公函開頭鄭重告知各方某項官方決議，傳統標準起首語係：",
           "options": [
-            "茲特函告 / 茲通知 (Core concept alternative form)",
-            "聽講話通知大家 (Core concept alternative form)",
-            "阿茂話畀你知 (Core concept alternative form)",
-            "食死貓式通知 (Core concept alternative form)"
+            "茲特函告 / 茲通知 (standard target expression for Formal Business Correspondence)",
+            "聽講話通知大家 (contextual contrast form in Formal Business Correspondence)",
+            "阿茂話畀你知 (formal register distinction for Formal Business Correspondence)",
+            "食死貓式通知 (colloquial conversational usage for Formal Business Correspondence)"
           ],
           "answerIndex": 0,
           "explanation": "「茲通知 / 茲特函告」為正式公文起首之標準法定用語。"
@@ -10057,10 +10057,10 @@
           "type": "multiple-choice",
           "prompt": "【附件提示】商務電郵中提請對方查看附隨合同草案時，最得體之表達為：",
           "options": [
-            "隨電郵附呈合作協議，敬請 查照 (Core concept alternative form)",
-            "隨便睇下個協議啦 (Core concept alternative form)",
-            "協議放喺度你愛理不理 (Core concept alternative form)",
-            "協議唔准睇 (Core concept alternative form)"
+            "隨電郵附呈合作協議，敬請 查照 (standard target expression for Formal Business Correspondence)",
+            "隨便睇下個協議啦 (contextual contrast form in Formal Business Correspondence)",
+            "協議放喺度你愛理不理 (formal register distinction for Formal Business Correspondence)",
+            "協議唔准睇 (colloquial conversational usage for Formal Business Correspondence)"
           ],
           "answerIndex": 0,
           "explanation": "「隨電郵附呈……敬請查照」結合了精準格式與高度商業禮儀。"
@@ -10108,10 +10108,10 @@
         {
           "prompt": "【談判妥協】形容談判雙方各自作出讓步以消除分歧、達成共識，經典短語係：",
           "options": [
-            "各讓一步 (Core concept key phrasing)",
-            "邊有蛤乸跳 (Core concept alternative form)",
-            "食得鹹魚渴 (Core concept alternative form)",
-            "阿茂整餅式 (Core concept alternative form)"
+            "各讓一步 (standard target expression for Negotiations   Contracts)",
+            "邊有蛤乸跳 (contextual contrast form in Negotiations   Contracts)",
+            "食得鹹魚渴 (formal register distinction for Negotiations   Contracts)",
+            "阿茂整餅式 (colloquial conversational usage for Negotiations   Contracts)"
           ],
           "answerIndex": 0,
           "explanation": "「各讓一步」指雙方互相妥協、尋求利益平衡點。"
@@ -10123,10 +10123,10 @@
         {
           "prompt": "【法律意向】在正式合同簽署前，雙方先行簽訂之初步合作意向文件名稱係：",
           "options": [
-            "諒解備忘錄 (Core concept key phrasing)",
-            "炒魷魚協議 (Core concept alternative form)",
-            "食檸檬保證書 (Core concept alternative form)",
-            "水過鴨背記錄 (Core concept alternative form)"
+            "諒解備忘錄 (standard target expression for Negotiations   Contracts)",
+            "炒魷魚協議 (contextual contrast form in Negotiations   Contracts)",
+            "食檸檬保證書 (formal register distinction for Negotiations   Contracts)",
+            "水過鴨背記錄 (colloquial conversational usage for Negotiations   Contracts)"
           ],
           "answerIndex": 0,
           "explanation": "「諒解備忘錄（MOU）」為商務談判初步階段確立合作框架之法定意向書。"
@@ -10139,10 +10139,10 @@
           "type": "multiple-choice",
           "prompt": "【底線定義】在商業合約洽商中，「我方底線」所指的具體含義為：",
           "options": [
-            "我方在談判中所能接受之最低限度利益條件，逾此則寧可放棄合作 (Core concept alternative form)",
-            "辦公室最底層的地板線 (Core concept alternative form)",
-            "合同最下方的一條橫線 (Core concept alternative form)",
-            "無條件答應對方所有苛刻要求 (Core concept alternative form)"
+            "我方在談判中所能接受之最低限度利益條件，逾此則寧可放棄合作 (standard target expression for Negotiations   Contracts)",
+            "辦公室最底層的地板線 (contextual contrast form in Negotiations   Contracts)",
+            "合同最下方的一條橫線 (formal register distinction for Negotiations   Contracts)",
+            "無條件答應對方所有苛刻要求 (colloquial conversational usage for Negotiations   Contracts)"
           ],
           "answerIndex": 0,
           "explanation": "「底線」指談判中不可逾越之最低利益與原則邊界。"
@@ -10190,10 +10190,10 @@
         {
           "prompt": "【同理致歉】面對憤怒投訴的客戶，第一時間平息其情緒之最得體粵語話術係：",
           "options": [
-            "真係唔好意思畀您添咗咁多麻煩！ (Core concept alternative form)",
-            "你算罷啦唔好鬧啦 (Core concept alternative form)",
-            "邊有蛤乸跳你咪鬧啦 (Core concept alternative form)",
-            "食死貓都唔關我事 (Core concept alternative form)"
+            "真係唔好意思畀您添咗咁多麻煩！ (standard target expression for Customer Relations   Crisis PR)",
+            "你算罷啦唔好鬧啦 (contextual contrast form in Customer Relations   Crisis PR)",
+            "邊有蛤乸跳你咪鬧啦 (formal register distinction for Customer Relations   Crisis PR)",
+            "食死貓都唔關我事 (colloquial conversational usage for Customer Relations   Crisis PR)"
           ],
           "answerIndex": 0,
           "explanation": "「唔好意思畀您添咗咁多麻煩」真誠認同客戶困擾，能迅速化解對抗情緒。"
@@ -10205,10 +10205,10 @@
         {
           "prompt": "【責任認領】向客戶保證會由專屬人員負責追蹤解決問題，地道商務承諾係：",
           "options": [
-            "我哋會即時安排專人跟進 (Core concept alternative form)",
-            "我哋會當水過鴨背 (Core concept alternative form)",
-            "我哋會阿茂整餅 (Core concept alternative form)",
-            "我哋會炒魷魚 (Core concept alternative form)"
+            "我哋會即時安排專人跟進 (standard target expression for Customer Relations   Crisis PR)",
+            "我哋會當水過鴨背 (contextual contrast form in Customer Relations   Crisis PR)",
+            "我哋會阿茂整餅 (formal register distinction for Customer Relations   Crisis PR)",
+            "我哋會炒魷魚 (colloquial conversational usage for Customer Relations   Crisis PR)"
           ],
           "answerIndex": 0,
           "explanation": "「安排專人跟進」展現高度專業性與負責態度。"
@@ -10221,10 +10221,10 @@
           "type": "multiple-choice",
           "prompt": "【危機公關】處理重大客戶投訴時，最關鍵之首要原則係：",
           "options": [
-            "展現同理心傾聽並真誠致歉，迅速鎖定問題並安排具體補救措施 (Core concept alternative form)",
-            "推卸責任並指責客戶操作不當 (Core concept alternative form)",
-            "直接掛斷電話置之不理 (Core concept alternative form)",
-            "向客戶發出法律威脅 (Core concept alternative form)"
+            "展現同理心傾聽並真誠致歉，迅速鎖定問題並安排具體補救措施 (standard target expression for Customer Relations   Crisis PR)",
+            "推卸責任並指責客戶操作不當 (contextual contrast form in Customer Relations   Crisis PR)",
+            "直接掛斷電話置之不理 (formal register distinction for Customer Relations   Crisis PR)",
+            "向客戶發出法律威脅 (colloquial conversational usage for Customer Relations   Crisis PR)"
           ],
           "answerIndex": 0,
           "explanation": "及時共情致歉、認領責任並提供切實補救方案係危機公關的核心法則。"
@@ -10272,10 +10272,10 @@
         {
           "prompt": "【簡報架構】在項目演報開篇引介簡報大綱時，最標準之引導句式係：",
           "options": [
-            "今日嘅簡報主要分為三個核心部分 (PitchingQA U24)",
-            "大家隨便聽下算罷啦 (PitchingQA U24)",
-            "我都唔知講乜好 (PitchingQA U24)",
-            "阿茂整餅式簡報開始 (PitchingQA U24)"
+            "今日嘅簡報主要分為三個核心部分 (standard target expression for Business Pitching   Project Presentations)",
+            "大家隨便聽下算罷啦 (contextual contrast form in Business Pitching   Project Presentations)",
+            "我都唔知講乜好 (formal register distinction for Business Pitching   Project Presentations)",
+            "阿茂整餅式簡報開始 (colloquial conversational usage for Business Pitching   Project Presentations)"
           ],
           "answerIndex": 0,
           "explanation": "「今日嘅簡報主要分為……」為商務演報最標準之結構導引句式。"
@@ -10287,10 +10287,10 @@
         {
           "prompt": "【問答過渡】簡報結束後禮貌邀請在場投資人或董事提問，標準專業話術係：",
           "options": [
-            "簡報到此為止，依家歡迎大家提問 (PitchingQA U24)",
-            "簡報講完，千祈咪問問題 (PitchingQA U24)",
-            "邊有蛤乸跳問乜鬼 (PitchingQA U24)",
-            "食死貓問答開始 (PitchingQA U24)"
+            "簡報到此為止，依家歡迎大家提問 (standard target expression for Business Pitching   Project Presentations)",
+            "簡報講完，千祈咪問問題 (contextual contrast form in Business Pitching   Project Presentations)",
+            "邊有蛤乸跳問乜鬼 (formal register distinction for Business Pitching   Project Presentations)",
+            "食死貓問答開始 (colloquial conversational usage for Business Pitching   Project Presentations)"
           ],
           "answerIndex": 0,
           "explanation": "「簡報到此為止，依家歡迎大家提問」為演報過渡至Q&A之標準禮貌話術。"
@@ -10303,10 +10303,10 @@
           "type": "multiple-choice",
           "prompt": "【演報價值主張】在項目提案中，闡述「核心競爭優勢」（Core Competitive Advantage）之關鍵目的在於：",
           "options": [
-            "向投資人清晰展示本產品相比市場競品不可替代之獨特價值與技術門檻 (PitchingQA U24)",
-            "故意隱瞞所有財務數據 (PitchingQA U24)",
-            "向評審抱怨行業艱辛 (PitchingQA U24)",
-            "單純展示漂亮的幻燈片動畫 (PitchingQA U24)"
+            "向投資人清晰展示本產品相比市場競品不可替代之獨特價值與技術門檻 (standard target expression for Business Pitching   Project Presentations)",
+            "故意隱瞞所有財務數據 (contextual contrast form in Business Pitching   Project Presentations)",
+            "向評審抱怨行業艱辛 (formal register distinction for Business Pitching   Project Presentations)",
+            "單純展示漂亮的幻燈片動畫 (colloquial conversational usage for Business Pitching   Project Presentations)"
           ],
           "answerIndex": 0,
           "explanation": "核心競爭優勢之剖析係說服投資人與決策者採納提案的最核心商業依據。"
@@ -10436,10 +10436,10 @@
         {
           "prompt": "【入聲韻尾】漢字「八（baat3）」與「月（jyut6）」在粵語中共同具備之中古塞音韻尾係：",
           "options": [
-            "舌尖塞音韻尾【-t】 (p alternative form)",
-            "雙唇塞音韻尾【-p】 (p alternative form)",
-            "舌根塞音韻尾【-k】 (p alternative form)",
-            "鼻音韻尾【-m】 (p alternative form)"
+            "舌尖塞音韻尾【-t】 (standard target expression for Middle Chinese Entering Tones)",
+            "雙唇塞音韻尾【-p】 (contextual contrast form in Middle Chinese Entering Tones)",
+            "舌根塞音韻尾【-k】 (formal register distinction for Middle Chinese Entering Tones)",
+            "鼻音韻尾【-m】 (colloquial conversational usage for Middle Chinese Entering Tones)"
           ],
           "answerIndex": 0,
           "explanation": "「八（baat3）」與「月（jyut6）」均以舌尖塞音【-t】收尾。"
@@ -10451,10 +10451,10 @@
         {
           "prompt": "【古詩格律】用粵語吟誦岳飛《滿江紅》能完美押韻，其根本原因在於粵語保留了古代之：",
           "options": [
-            "入聲韻尾與九聲調類系統 (p alternative form)",
-            "英語外來借詞 (p alternative form)",
-            "現代網絡流行語 (p alternative form)",
-            "西方格律詩節奏 (p alternative form)"
+            "入聲韻尾與九聲調類系統 (standard target expression for Middle Chinese Entering Tones)",
+            "英語外來借詞 (contextual contrast form in Middle Chinese Entering Tones)",
+            "現代網絡流行語 (formal register distinction for Middle Chinese Entering Tones)",
+            "西方格律詩節奏 (colloquial conversational usage for Middle Chinese Entering Tones)"
           ],
           "answerIndex": 0,
           "explanation": "《滿江紅》全篇押入聲韻，粵語完整保留入聲韻尾，因而能完美重現古代詩詞音律。"
@@ -10467,10 +10467,10 @@
           "type": "multiple-choice",
           "prompt": "【語音學辨析】漢字「十（sap6）」與「盒（hap6）」在發音結束時之發音部位特徵為：",
           "options": [
-            "雙唇緊閉阻斷氣流 (p alternative form)",
-            "舌根頂住軟齶 (p alternative form)",
-            "舌尖頂住上齒齦 (p alternative form)",
-            "氣流從鼻腔完全釋放 (p alternative form)"
+            "雙唇緊閉阻斷氣流 (standard target expression for Middle Chinese Entering Tones)",
+            "舌根頂住軟齶 (contextual contrast form in Middle Chinese Entering Tones)",
+            "舌尖頂住上齒齦 (formal register distinction for Middle Chinese Entering Tones)",
+            "氣流從鼻腔完全釋放 (colloquial conversational usage for Middle Chinese Entering Tones)"
           ],
           "answerIndex": 0,
           "explanation": "「十（sap6）」與「盒（hap6）」屬於雙唇塞音韻尾【-p】字。"
@@ -10518,10 +10518,10 @@
         {
           "prompt": "【嶺南名著】明末清初學者屈大均所撰、全面記錄廣東地理風俗與早期粵語字彙之百科全書名著係：",
           "options": [
-            "《廣東新語》 (Core concept key phrasing)",
-            "《全唐詩》 (Core concept alternative form)",
-            "《文心雕龍》 (Core concept alternative form)",
-            "《粵曲大辭典》 (Core concept alternative form)"
+            "《廣東新語》 (standard target expression for Lingnan Classical Poets)",
+            "《全唐詩》 (contextual contrast form in Lingnan Classical Poets)",
+            "《文心雕龍》 (formal register distinction for Lingnan Classical Poets)",
+            "《粵曲大辭典》 (colloquial conversational usage for Lingnan Classical Poets)"
           ],
           "answerIndex": 0,
           "explanation": "《廣東新語》為屈大均撰寫之嶺南歷史地理與民俗語言百科全書。"
@@ -10533,10 +10533,10 @@
         {
           "prompt": "【名篇作者】名作《崖門竭》（山川浩劫動神明）之作者、「嶺南三大家」之一係：",
           "options": [
-            "陳恭尹 (Core concept key phrasing)",
-            "蘇軾 (Core concept alternative form)",
-            "屈大均 (Core concept alternative form)",
-            "李白 (Core concept alternative form)"
+            "陳恭尹 (standard target expression for Lingnan Classical Poets)",
+            "蘇軾 (contextual contrast form in Lingnan Classical Poets)",
+            "屈大均 (formal register distinction for Lingnan Classical Poets)",
+            "李白 (colloquial conversational usage for Lingnan Classical Poets)"
           ],
           "answerIndex": 0,
           "explanation": "《崖門竭》為清初嶺南詩冠陳恭尹之代表詩作。"
@@ -10549,10 +10549,10 @@
           "type": "multiple-choice",
           "prompt": "【詩壇三大家】在中國文學史上被譽為「嶺南三大家」的三位古典文學巨擘係：",
           "options": [
-            "屈大均、陳恭尹、梁佩蘭 (Core concept alternative form)",
-            "李白、杜甫、白居易 (Core concept alternative form)",
-            "蘇軾、蘇洵、蘇轍 (Core concept alternative form)",
-            "韓愈、柳宗元、歐陽修 (Core concept alternative form)"
+            "屈大均、陳恭尹、梁佩蘭 (standard target expression for Lingnan Classical Poets)",
+            "李白、杜甫、白居易 (contextual contrast form in Lingnan Classical Poets)",
+            "蘇軾、蘇洵、蘇轍 (formal register distinction for Lingnan Classical Poets)",
+            "韓愈、柳宗元、歐陽修 (colloquial conversational usage for Lingnan Classical Poets)"
           ],
           "answerIndex": 0,
           "explanation": "「嶺南三大家」指明末清初嶺南著名詩人屈大均、陳恭尹與梁佩蘭。"
@@ -10600,10 +10600,10 @@
         {
           "prompt": "【民間說唱名篇】開篇為「涼風有信，秋月無邊。虧我思嬌情緒好比度日如年」之著名地水南音曲目係：",
           "options": [
-            "《客途秋恨》 (Core concept key phrasing)",
-            "《帝女花》 (Core concept alternative form)",
-            "《鳳閣恩仇未了情》 (Core concept alternative form)",
-            "《將進酒》 (Core concept alternative form)"
+            "《客途秋恨》 (standard target expression for Folk Ballads   Cantonese Opera Lyrics)",
+            "《帝女花》 (contextual contrast form in Folk Ballads   Cantonese Opera Lyrics)",
+            "《鳳閣恩仇未了情》 (formal register distinction for Folk Ballads   Cantonese Opera Lyrics)",
+            "《將進酒》 (colloquial conversational usage for Folk Ballads   Cantonese Opera Lyrics)"
           ],
           "answerIndex": 0,
           "explanation": "《客途秋恨》為嶺南地水南音最具代表性之千古名篇。"
@@ -10615,10 +10615,10 @@
         {
           "prompt": "【木魚名著】19世紀即被翻譯傳入歐洲、以粵語七言說唱體裁寫成之木魚書經典係：",
           "options": [
-            "《花箋記》 (Core concept key phrasing)",
-            "《水滸傳》 (Core concept alternative form)",
-            "《紅樓夢》 (Core concept alternative form)",
-            "《廣東新語》 (Core concept alternative form)"
+            "《花箋記》 (standard target expression for Folk Ballads   Cantonese Opera Lyrics)",
+            "《水滸傳》 (contextual contrast form in Folk Ballads   Cantonese Opera Lyrics)",
+            "《紅樓夢》 (formal register distinction for Folk Ballads   Cantonese Opera Lyrics)",
+            "《廣東新語》 (colloquial conversational usage for Folk Ballads   Cantonese Opera Lyrics)"
           ],
           "answerIndex": 0,
           "explanation": "《花箋記》為明末清初木魚書之傳世經典。"
@@ -10631,10 +10631,10 @@
           "type": "multiple-choice",
           "prompt": "【曲藝特色】嶺南傳統說唱曲藝「龍舟歌」最標誌性之表演形式為：",
           "options": [
-            "藝人手持小鑼小鼓與木雕小龍舟，沿街邊敲邊唱即興敘事 (Core concept alternative form)",
-            "百人大型交響樂團伴奏 (Core concept alternative form)",
-            "無伴奏純美聲合唱 (Core concept alternative form)",
-            "西洋芭蕾舞劇配樂 (Core concept alternative form)"
+            "藝人手持小鑼小鼓與木雕小龍舟，沿街邊敲邊唱即興敘事 (standard target expression for Folk Ballads   Cantonese Opera Lyrics)",
+            "百人大型交響樂團伴奏 (contextual contrast form in Folk Ballads   Cantonese Opera Lyrics)",
+            "無伴奏純美聲合唱 (formal register distinction for Folk Ballads   Cantonese Opera Lyrics)",
+            "西洋芭蕾舞劇配樂 (colloquial conversational usage for Folk Ballads   Cantonese Opera Lyrics)"
           ],
           "answerIndex": 0,
           "explanation": "龍舟歌藝人手持小鑼鼓與木龍舟，採用靈動即興之粵語口頭敘事。"
@@ -10682,10 +10682,10 @@
         {
           "prompt": "【古漢語動詞】廣東話中「走（zau2）」字在古漢語及本地方言中的原始本義係：",
           "options": [
-            "奔跑、逃跑 (Core concept alternative form)",
-            "緩慢步行 (Core concept alternative form)",
-            "躺臥睡覺 (Core concept alternative form)",
-            "跳躍舞蹈 (Core concept alternative form)"
+            "奔跑、逃跑 (standard target expression for Archaic Syntax   Lexical Preservation)",
+            "緩慢步行 (contextual contrast form in Archaic Syntax   Lexical Preservation)",
+            "躺臥睡覺 (formal register distinction for Archaic Syntax   Lexical Preservation)",
+            "跳躍舞蹈 (colloquial conversational usage for Archaic Syntax   Lexical Preservation)"
           ],
           "answerIndex": 0,
           "explanation": "先秦古漢語中「走」為奔跑（如走馬觀花、夸父逐日棄杖而走），粵語完整保留此古義。"
@@ -10697,10 +10697,10 @@
         {
           "prompt": "【語序倒裝】日常表達「你行先」（你先走）所體現的古漢語語法特徵係：",
           "options": [
-            "狀語副詞後置倒裝 (Core concept alternative form)",
-            "賓語前置 (Core concept alternative form)",
-            "主謂倒裝 (Core concept alternative form)",
-            "定語後置 (Core concept alternative form)"
+            "狀語副詞後置倒裝 (standard target expression for Archaic Syntax   Lexical Preservation)",
+            "賓語前置 (contextual contrast form in Archaic Syntax   Lexical Preservation)",
+            "主謂倒裝 (formal register distinction for Archaic Syntax   Lexical Preservation)",
+            "定語後置 (colloquial conversational usage for Archaic Syntax   Lexical Preservation)"
           ],
           "answerIndex": 0,
           "explanation": "「行先」、「食多啲」體現了狀語副詞後置於動詞之後的古漢語倒裝語法遺存。"
@@ -10713,10 +10713,10 @@
           "type": "multiple-choice",
           "prompt": "【比較句淵源】粵語比較句「我大過你」（ngo5 daai6 gwo3 nei5）中，「過」字的古代語法淵源相當於先秦古漢語的：",
           "options": [
-            "介詞「於 (Core concept key phrasing)",
-            "動詞「經過 (Core concept alternative form)",
-            "名詞「過錯 (Core concept alternative form)",
-            "助詞「的 (Core concept alternative form)"
+            "介詞「於 (standard target expression for Archaic Syntax   Lexical Preservation)",
+            "動詞「經過 (contextual contrast form in Archaic Syntax   Lexical Preservation)",
+            "名詞「過錯 (formal register distinction for Archaic Syntax   Lexical Preservation)",
+            "助詞「的 (colloquial conversational usage for Archaic Syntax   Lexical Preservation)"
           ],
           "answerIndex": 0,
           "explanation": "「大過你」在結構上直接對應先秦漢語之「大於汝」，「過」承擔了比較介詞「於」之功能。"
@@ -10764,10 +10764,10 @@
         {
           "prompt": "【心學開山】明代江門學派宗師陳白沙提倡之核心求知與心性修養原則係：",
           "options": [
-            "學貴自得 / 靜中養出端倪 (Core concept alternative form)",
-            "死記硬背註疏 (Core concept alternative form)",
-            "盲目遵從教條 (Core concept alternative form)",
-            "放棄所有思考 (Core concept alternative form)"
+            "學貴自得 / 靜中養出端倪 (standard target expression for Chan Baak saa   Baisha School of Mind)",
+            "死記硬背註疏 (contextual contrast form in Chan Baak saa   Baisha School of Mind)",
+            "盲目遵從教條 (formal register distinction for Chan Baak saa   Baisha School of Mind)",
+            "放棄所有思考 (colloquial conversational usage for Chan Baak saa   Baisha School of Mind)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙江門心學以「學貴自得」與「靜中養出端倪」為核心宗旨。"
@@ -10779,10 +10779,10 @@
         {
           "prompt": "【嶺南名筆】陳獻章（陳白沙）就地取材、以廣東新會圭峰山茅草發明之獨特書法名筆係：",
           "options": [
-            "茅龍筆 (Core concept key phrasing)",
-            "狼毫筆 (Core concept alternative form)",
-            "羊毫筆 (Core concept alternative form)",
-            "紫毫筆 (Core concept alternative form)"
+            "茅龍筆 (standard target expression for Chan Baak saa   Baisha School of Mind)",
+            "狼毫筆 (contextual contrast form in Chan Baak saa   Baisha School of Mind)",
+            "羊毫筆 (formal register distinction for Chan Baak saa   Baisha School of Mind)",
+            "紫毫筆 (colloquial conversational usage for Chan Baak saa   Baisha School of Mind)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙以圭峰山茅草創製「茅龍筆」，書法獨具古拙蒼勁之美。"
@@ -10795,10 +10795,10 @@
           "type": "multiple-choice",
           "prompt": "【哲學史地位】陳白沙（陳獻章）在中國思想史上的崇高地位在於：",
           "options": [
-            "開創明代江門心學，打破程朱理學教條束縛，為後續陽明心學之崛起奠定先聲 (Core concept alternative form)",
-            "主張全盤否定儒家道德體系 (Core concept alternative form)",
-            "只專注於海外貿易而無學術建樹 (Core concept alternative form)",
-            "禁止弟子進行任何哲學思考 (Core concept alternative form)"
+            "開創明代江門心學，打破程朱理學教條束縛，為後續陽明心學之崛起奠定先聲 (standard target expression for Chan Baak saa   Baisha School of Mind)",
+            "主張全盤否定儒家道德體系 (contextual contrast form in Chan Baak saa   Baisha School of Mind)",
+            "只專注於海外貿易而無學術建樹 (formal register distinction for Chan Baak saa   Baisha School of Mind)",
+            "禁止弟子進行任何哲學思考 (colloquial conversational usage for Chan Baak saa   Baisha School of Mind)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙被尊為明代心學之先驅，打破了宋儒註疏之錮蔽，開啟了主體自得心學之新紀元。"
@@ -10846,10 +10846,10 @@
         {
           "prompt": "【哲學核心】明代思想家湛若水（湛甘泉）所創立之甘泉學派，其最高哲學命題係：",
           "options": [
-            "隨處體認天理 (Core concept key phrasing)",
-            "存天理滅人欲 (Core concept alternative form)",
-            "唯物辯證法 (Core concept alternative form)",
-            "因果報應說 (Core concept alternative form)"
+            "隨處體認天理 (standard target expression for Zaam Joek seoi   Ganquan Philosophy)",
+            "存天理滅人欲 (contextual contrast form in Zaam Joek seoi   Ganquan Philosophy)",
+            "唯物辯證法 (formal register distinction for Zaam Joek seoi   Ganquan Philosophy)",
+            "因果報應說 (colloquial conversational usage for Zaam Joek seoi   Ganquan Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "湛甘泉哲學之核心綱領為「隨處體認天理」。"
@@ -10861,10 +10861,10 @@
         {
           "prompt": "【並稱巨擘】在明代心學發展史上，與王陽明齊名並稱「王湛之學」的嶺南大儒係：",
           "options": [
-            "湛若水 (Core concept key phrasing)",
-            "屈大均 (Core concept alternative form)",
-            "梁啟超 (Core concept alternative form)",
-            "康有為 (Core concept alternative form)"
+            "湛若水 (standard target expression for Zaam Joek seoi   Ganquan Philosophy)",
+            "屈大均 (contextual contrast form in Zaam Joek seoi   Ganquan Philosophy)",
+            "梁啟超 (formal register distinction for Zaam Joek seoi   Ganquan Philosophy)",
+            "康有為 (colloquial conversational usage for Zaam Joek seoi   Ganquan Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "湛若水（湛甘泉）與王陽明齊名，被明代學術界並稱為「王湛之學」。"
@@ -10877,10 +10877,10 @@
           "type": "multiple-choice",
           "prompt": "【心物關係】湛甘泉「心包萬物」命題所闡發之核心宇宙心性觀為：",
           "options": [
-            "心體無邊無界，萬物皆涵容於心體之中，主體與世界渾然一體 (Core concept alternative form)",
-            "物質完全獨立於意識之外且彼此隔絕 (Core concept alternative form)",
-            "只有看得見的具體物件才算存在 (Core concept alternative form)",
-            "心靈與外界毫無關聯 (Core concept alternative form)"
+            "心體無邊無界，萬物皆涵容於心體之中，主體與世界渾然一體 (standard target expression for Zaam Joek seoi   Ganquan Philosophy)",
+            "物質完全獨立於意識之外且彼此隔絕 (contextual contrast form in Zaam Joek seoi   Ganquan Philosophy)",
+            "只有看得見的具體物件才算存在 (formal register distinction for Zaam Joek seoi   Ganquan Philosophy)",
+            "心靈與外界毫無關聯 (colloquial conversational usage for Zaam Joek seoi   Ganquan Philosophy)"
           ],
           "answerIndex": 0,
           "explanation": "「心包萬物」強調心體博大無外，萬事萬物皆在心體之中涵融貫通。"
@@ -10928,10 +10928,10 @@
         {
           "prompt": "【啟蒙名作】近代思想家梁啟超所著、主張「欲維新吾國，當先維新吾民」之核心啟蒙著作係：",
           "options": [
-            "《新民說》 (Core concept key phrasing)",
-            "《廣東新語》 (Core concept alternative form)",
-            "《花箋記》 (Core concept alternative form)",
-            "《大同書》 (Core concept alternative form)"
+            "《新民說》 (standard target expression for Kang Liang Enlightenment)",
+            "《廣東新語》 (contextual contrast form in Kang Liang Enlightenment)",
+            "《花箋記》 (formal register distinction for Kang Liang Enlightenment)",
+            "《大同書》 (colloquial conversational usage for Kang Liang Enlightenment)"
           ],
           "answerIndex": 0,
           "explanation": "《新民說》為梁啟超系統闡述現代國民品格與公民意識重塑之經典名篇。"
@@ -10943,10 +10943,10 @@
         {
           "prompt": "【維新搖籃】康有為在廣州創辦、培養了梁啟超等維新變法核心骨幹之著名學堂係：",
           "options": [
-            "萬木草堂 (Core concept key phrasing)",
-            "白鹿洞書院 (Core concept alternative form)",
-            "嶽麓書院 (Core concept alternative form)",
-            "應天書院 (Core concept alternative form)"
+            "萬木草堂 (standard target expression for Kang Liang Enlightenment)",
+            "白鹿洞書院 (contextual contrast form in Kang Liang Enlightenment)",
+            "嶽麓書院 (formal register distinction for Kang Liang Enlightenment)",
+            "應天書院 (colloquial conversational usage for Kang Liang Enlightenment)"
           ],
           "answerIndex": 0,
           "explanation": "萬木草堂為康有為於廣州設立、推動近代維新變法思想之著名講學聖地。"
@@ -10959,10 +10959,10 @@
           "type": "multiple-choice",
           "prompt": "【思想烏托邦】康有為晚年所著、描繪消除國家階級界限與實現人類世界大同理想之著作係：",
           "options": [
-            "《大同書》 (Core concept key phrasing)",
-            "《新學偽經考》 (Core concept alternative form)",
-            "《孔子改制考》 (Core concept alternative form)",
-            "《變法通議》 (Core concept alternative form)"
+            "《大同書》 (standard target expression for Kang Liang Enlightenment)",
+            "《新學偽經考》 (contextual contrast form in Kang Liang Enlightenment)",
+            "《孔子改制考》 (formal register distinction for Kang Liang Enlightenment)",
+            "《變法通議》 (colloquial conversational usage for Kang Liang Enlightenment)"
           ],
           "answerIndex": 0,
           "explanation": "《大同書》勾勒出康有為對未來世界大同社會之宏偉哲學構想。"
@@ -11010,10 +11010,10 @@
         {
           "prompt": "【留學之父】1854年畢業於美國耶魯大學、被尊為「中國留學生之父」並推動留美幼童計劃之嶺南先驅係：",
           "options": [
-            "容閎 (Core concept key phrasing)",
-            "詹天佑 (Core concept alternative form)",
-            "林則徐 (Core concept alternative form)",
-            "魏源 (Core concept alternative form)"
+            "容閎 (standard target expression for Yung Wing   Early Modernization)",
+            "詹天佑 (contextual contrast form in Yung Wing   Early Modernization)",
+            "林則徐 (formal register distinction for Yung Wing   Early Modernization)",
+            "魏源 (colloquial conversational usage for Yung Wing   Early Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "容閎為首位留美中國大學畢業生，一生致力於推動中國教育現代化。"
@@ -11025,10 +11025,10 @@
         {
           "prompt": "【近代工程】由留美幼童出身之傑出工程師、主持修建京張鐵路並被譽為「中國鐵路之父」之名家係：",
           "options": [
-            "詹天佑 (Core concept key phrasing)",
-            "容閎 (Core concept alternative form)",
-            "唐紹儀 (Core concept alternative form)",
-            "梁敦彥 (Core concept alternative form)"
+            "詹天佑 (standard target expression for Yung Wing   Early Modernization)",
+            "容閎 (contextual contrast form in Yung Wing   Early Modernization)",
+            "唐紹儀 (formal register distinction for Yung Wing   Early Modernization)",
+            "梁敦彥 (colloquial conversational usage for Yung Wing   Early Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "詹天佑為第一批留美幼童優秀代表，主持修建了著名的京張鐵路。"
@@ -11041,10 +11041,10 @@
           "type": "multiple-choice",
           "prompt": "【地理樞紐】嶺南地區在中國近代「西學東漸」進程中扮演核心角色之根本優勢在於：",
           "options": [
-            "毗鄰港澳與海外通商口岸之海洋地理優勢，孕育出勇於革新、開眼看世界的重商與留學傳統 (Core concept alternative form)",
-            "地理位置封閉偏僻遠離所有海外航線 (Core concept alternative form)",
-            "嚴格禁止任何外國人與外來技術進入 (Core concept alternative form)",
-            "完全缺乏商業與航海歷史 (Core concept alternative form)"
+            "毗鄰港澳與海外通商口岸之海洋地理優勢，孕育出勇於革新、開眼看世界的重商與留學傳統 (standard target expression for Yung Wing   Early Modernization)",
+            "地理位置封閉偏僻遠離所有海外航線 (contextual contrast form in Yung Wing   Early Modernization)",
+            "嚴格禁止任何外國人與外來技術進入 (formal register distinction for Yung Wing   Early Modernization)",
+            "完全缺乏商業與航海歷史 (colloquial conversational usage for Yung Wing   Early Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "嶺南得天獨厚之海洋口岸優勢使其成為近代西方思想與科學技術傳入中國之首要樞紐。"
@@ -11092,10 +11092,10 @@
         {
           "prompt": "【立論設問】在學術政論文中，引導讀者探尋事件根本原因之標準設疑過渡句係：",
           "options": [
-            "何以見得？究其根源…… (Core concept key phrasing)",
-            "你問我我問邊個 (Core concept alternative form)",
-            "大家隨便估下啦 (Core concept alternative form)",
-            "算罷啦唔好問 (Core concept alternative form)"
+            "何以見得？究其根源…… (standard target expression for Political Discourse   Rhetorical Architecture)",
+            "你問我我問邊個 (contextual contrast form in Political Discourse   Rhetorical Architecture)",
+            "大家隨便估下啦 (formal register distinction for Political Discourse   Rhetorical Architecture)",
+            "算罷啦唔好問 (colloquial conversational usage for Political Discourse   Rhetorical Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "「何以見得？究其根源……」為經典政論文剖析因果機制之高階設問句式。"
@@ -11107,10 +11107,10 @@
         {
           "prompt": "【駁論謬誤】指出對手論證顛倒因果關係之專業邏輯術語係：",
           "options": [
-            "倒果為因 (Core concept key phrasing)",
-            "阿茂整餅 (Core concept alternative form)",
-            "斷章取義 (Core concept alternative form)",
-            "食死貓 (Core concept alternative form)"
+            "倒果為因 (standard target expression for Political Discourse   Rhetorical Architecture)",
+            "阿茂整餅 (contextual contrast form in Political Discourse   Rhetorical Architecture)",
+            "斷章取義 (formal register distinction for Political Discourse   Rhetorical Architecture)",
+            "食死貓 (colloquial conversational usage for Political Discourse   Rhetorical Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "「倒果為因」為駁論文中精確指出邏輯因果顛倒之標準術語。"
@@ -11123,10 +11123,10 @@
           "type": "multiple-choice",
           "prompt": "【政論修辭架構】一篇高水平思想政論文的核心論述架構應包含：",
           "options": [
-            "立論鮮明、論據充分，運用嚴謹邏輯反駁對立觀點，並在宏觀層面提出辯證建設性方案 (Core concept alternative form)",
-            "單純情緒化謾罵而無任何事實論據 (Core concept alternative form)",
-            "全盤抄襲他人觀點並拼湊網絡段子 (Core concept alternative form)",
-            "前後自相矛盾且邏輯混亂 (Core concept alternative form)"
+            "立論鮮明、論據充分，運用嚴謹邏輯反駁對立觀點，並在宏觀層面提出辯證建設性方案 (standard target expression for Political Discourse   Rhetorical Architecture)",
+            "單純情緒化謾罵而無任何事實論據 (contextual contrast form in Political Discourse   Rhetorical Architecture)",
+            "全盤抄襲他人觀點並拼湊網絡段子 (formal register distinction for Political Discourse   Rhetorical Architecture)",
+            "前後自相矛盾且邏輯混亂 (colloquial conversational usage for Political Discourse   Rhetorical Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "優秀政論文依託立論、駁論與辯證綜合三位一體之嚴謹修辭架構。"
@@ -11174,10 +11174,10 @@
         {
           "prompt": "【粵劇行當】在廣東大戲中，負責飾演劇團第一首席女主角之核心行當稱謂係：",
           "options": [
-            "正印花旦 (Core concept key phrasing)",
-            "文武生 (Core concept alternative form)",
-            "丑生 (Core concept alternative form)",
-            "大花面 (Core concept alternative form)"
+            "正印花旦 (standard target expression for Cantonese Opera Conventions)",
+            "文武生 (contextual contrast form in Cantonese Opera Conventions)",
+            "丑生 (formal register distinction for Cantonese Opera Conventions)",
+            "大花面 (colloquial conversational usage for Cantonese Opera Conventions)"
           ],
           "answerIndex": 0,
           "explanation": "「正印花旦」為粵劇劇團中地位最高之首席女主角行當。"
@@ -11189,10 +11189,10 @@
         {
           "prompt": "【戲曲熟語】形容演出排場宏大、準備工作極為隆重浩大之粵語熟語係：",
           "options": [
-            "大陣仗 (Core concept key phrasing)",
-            "細場仔 (Core concept alternative form)",
-            "草草收場 (Core concept alternative form)",
-            "靜英英 (Core concept alternative form)"
+            "大陣仗 (standard target expression for Cantonese Opera Conventions)",
+            "細場仔 (contextual contrast form in Cantonese Opera Conventions)",
+            "草草收場 (formal register distinction for Cantonese Opera Conventions)",
+            "靜英英 (colloquial conversational usage for Cantonese Opera Conventions)"
           ],
           "answerIndex": 0,
           "explanation": "「大陣仗」源自古代戲曲大排場武打陣勢，現泛指聲勢浩大之場面。"
@@ -11205,10 +11205,10 @@
           "type": "multiple-choice",
           "prompt": "【戲劇名篇】被譽為粵劇黃金時代巔峰代表作、由劇作家唐滌生編撰之傳世名劇係：",
           "options": [
-            "《帝女花》與《紫釵記》 (Core concept key phrasing)",
-            "《哈姆雷特》 (Core concept alternative form)",
-            "《天鵝湖》 (Core concept alternative form)",
-            "《等待戈多》 (Core concept alternative form)"
+            "《帝女花》與《紫釵記》 (standard target expression for Cantonese Opera Conventions)",
+            "《哈姆雷特》 (contextual contrast form in Cantonese Opera Conventions)",
+            "《天鵝湖》 (formal register distinction for Cantonese Opera Conventions)",
+            "《等待戈多》 (colloquial conversational usage for Cantonese Opera Conventions)"
           ],
           "answerIndex": 0,
           "explanation": "《帝女花》與《紫釵記》為粵劇編劇泰斗唐滌生最負盛名之傳世經典。"
@@ -11256,10 +11256,10 @@
         {
           "prompt": "【畫派宗旨在於】二十世紀初嶺南畫派（高劍父、高奇峰、陳樹人）的核心藝術綱領係：",
           "options": [
-            "折衷中西，融匯古今 (Core concept key phrasing)",
-            "全盤模仿古代文人畫 (Core concept alternative form)",
-            "徹底放棄中國傳統筆墨 (Core concept alternative form)",
-            "單純追求西洋抽象藝術 (Core concept alternative form)"
+            "折衷中西，融匯古今 (standard target expression for Lingnan School of Painting)",
+            "全盤模仿古代文人畫 (contextual contrast form in Lingnan School of Painting)",
+            "徹底放棄中國傳統筆墨 (formal register distinction for Lingnan School of Painting)",
+            "單純追求西洋抽象藝術 (colloquial conversational usage for Lingnan School of Painting)"
           ],
           "answerIndex": 0,
           "explanation": "「折衷中西，融匯古今」為嶺南畫派最核心之藝術革新旗幟。"
@@ -11271,10 +11271,10 @@
         {
           "prompt": "【水墨技法】在花鳥設色未乾時注入清水或白蛤粉以形成生動光影與濕潤質感之嶺南畫派技法係：",
           "options": [
-            "撞水法與撞粉法 (Core concept alternative form)",
-            "油畫厚塗法 (Core concept alternative form)",
-            "版畫刻線法 (Core concept alternative form)",
-            "水彩拓印法 (Core concept alternative form)"
+            "撞水法與撞粉法 (standard target expression for Lingnan School of Painting)",
+            "油畫厚塗法 (contextual contrast form in Lingnan School of Painting)",
+            "版畫刻線法 (formal register distinction for Lingnan School of Painting)",
+            "水彩拓印法 (colloquial conversational usage for Lingnan School of Painting)"
           ],
           "answerIndex": 0,
           "explanation": "「撞水撞粉」為嶺南畫派先驅居廉所獨創之標誌性繪畫技法。"
@@ -11287,10 +11287,10 @@
           "type": "multiple-choice",
           "prompt": "【畫派三傑】在中國近代美術史上被尊稱為「嶺南三傑（二高一陳）」的三位畫壇宗師係：",
           "options": [
-            "高劍父、高奇峰、陳樹人 (Core concept alternative form)",
-            "齊白石、張大千、徐悲鴻 (Core concept alternative form)",
-            "任伯年、吳昌碩、虛谷 (Core concept alternative form)",
-            "黃賓虹、傅抱石、李可染 (Core concept alternative form)"
+            "高劍父、高奇峰、陳樹人 (standard target expression for Lingnan School of Painting)",
+            "齊白石、張大千、徐悲鴻 (contextual contrast form in Lingnan School of Painting)",
+            "任伯年、吳昌碩、虛谷 (formal register distinction for Lingnan School of Painting)",
+            "黃賓虹、傅抱石、李可染 (colloquial conversational usage for Lingnan School of Painting)"
           ],
           "answerIndex": 0,
           "explanation": "「嶺南三傑（二高一陳）」指創立嶺南畫派之高劍父、高奇峰與陳樹人。"
@@ -11338,10 +11338,10 @@
         {
           "prompt": "【工藝總稱】代表廣州傳統手工藝最高成就、享譽海內外之「三雕一彩一繡」中之「一彩」指：",
           "options": [
-            "廣彩 (Core concept key phrasing)",
-            "彩色玻璃 (Core concept alternative form)",
-            "油畫色彩 (Core concept alternative form)",
-            "皮影彩繪 (Core concept alternative form)"
+            "廣彩 (standard target expression for Guangzhou Crafts)",
+            "彩色玻璃 (contextual contrast form in Guangzhou Crafts)",
+            "油畫色彩 (formal register distinction for Guangzhou Crafts)",
+            "皮影彩繪 (colloquial conversational usage for Guangzhou Crafts)"
           ],
           "answerIndex": 0,
           "explanation": "「一彩」指創立於廣州、以金碧輝煌著稱之「廣彩（廣州織金彩瓷）」。"
@@ -11353,10 +11353,10 @@
         {
           "prompt": "【名繡特點】中國四大名繡之一的「廣繡」（廣東刺繡）最顯著之風格特色係：",
           "options": [
-            "色彩富麗鮮艷、構圖緊密飽滿、善用釘金繡法 (Core concept alternative form)",
-            "純黑白素色單調 (Core concept alternative form)",
-            "完全不使用任何絲線 (Core concept alternative form)",
-            "無任何刺繡圖案 (Core concept alternative form)"
+            "色彩富麗鮮艷、構圖緊密飽滿、善用釘金繡法 (standard target expression for Guangzhou Crafts)",
+            "純黑白素色單調 (contextual contrast form in Guangzhou Crafts)",
+            "完全不使用任何絲線 (formal register distinction for Guangzhou Crafts)",
+            "無任何刺繡圖案 (colloquial conversational usage for Guangzhou Crafts)"
           ],
           "answerIndex": 0,
           "explanation": "廣繡以色彩鮮濃熱烈、針法多變、構圖豐滿繁茂為標誌性藝術特徵。"
@@ -11369,10 +11369,10 @@
           "type": "multiple-choice",
           "prompt": "【象牙透雕】廣州傳統牙雕工藝中，最能體現「鬼斧神工」高超技藝之代表性經典工藝品係：",
           "options": [
-            "多層透雕象牙套球 (Core concept alternative form)",
-            "普通實心象牙筷子 (Core concept alternative form)",
-            "未經雕琢的象牙原料 (Core concept alternative form)",
-            "平面象牙印章 (Core concept alternative form)"
+            "多層透雕象牙套球 (standard target expression for Guangzhou Crafts)",
+            "普通實心象牙筷子 (contextual contrast form in Guangzhou Crafts)",
+            "未經雕琢的象牙原料 (formal register distinction for Guangzhou Crafts)",
+            "平面象牙印章 (colloquial conversational usage for Guangzhou Crafts)"
           ],
           "answerIndex": 0,
           "explanation": "多層透雕象牙球內外各層均可靈活轉動，層層透雕精美花紋，為廣州牙雕技冠全球之絕活。"
@@ -11420,10 +11420,10 @@
         {
           "prompt": "【醒獅儀軌】廣府醒獅表演中，獅子歷經艱險騰躍採摘生菜以寓意「生財」之核心高潮動作係：",
           "options": [
-            "採青 (Core concept key phrasing)",
-            "出洞 (Core concept alternative form)",
-            "睡獅 (Core concept alternative form)",
-            "洗鬚 (Core concept alternative form)"
+            "採青 (standard target expression for Southern Lion Dance   Martial Arts)",
+            "出洞 (contextual contrast form in Southern Lion Dance   Martial Arts)",
+            "睡獅 (formal register distinction for Southern Lion Dance   Martial Arts)",
+            "洗鬚 (colloquial conversational usage for Southern Lion Dance   Martial Arts)"
           ],
           "answerIndex": 0,
           "explanation": "「採青」為醒獅表演中寓意生財大吉、技藝難度最高之核心環節。"
@@ -11435,10 +11435,10 @@
         {
           "prompt": "【武術器械】詠春拳門派進行貼身攻防、走位與卸力發力訓練所使用之專屬木製器械係：",
           "options": [
-            "木人樁 (Core concept key phrasing)",
-            "石鎖 (Core concept alternative form)",
-            "沙包 (Core concept alternative form)",
-            "大刀 (Core concept alternative form)"
+            "木人樁 (standard target expression for Southern Lion Dance   Martial Arts)",
+            "石鎖 (contextual contrast form in Southern Lion Dance   Martial Arts)",
+            "沙包 (formal register distinction for Southern Lion Dance   Martial Arts)",
+            "大刀 (colloquial conversational usage for Southern Lion Dance   Martial Arts)"
           ],
           "answerIndex": 0,
           "explanation": "「木人樁」為詠春拳精煉寸勁、黐手與近身走位之標誌性專屬訓練器具。"
@@ -11451,10 +11451,10 @@
           "type": "multiple-choice",
           "prompt": "【武學名家】在嶺南武術史上集洪拳之大成、兼擅醒獅且被眾多香港影視作品廣泛歌頌之一代宗師係：",
           "options": [
-            "黃飛鴻 (Core concept key phrasing)",
-            "陳真 (Core concept alternative form)",
-            "霍元甲 (Core concept alternative form)",
-            "張三丰 (Core concept alternative form)"
+            "黃飛鴻 (standard target expression for Southern Lion Dance   Martial Arts)",
+            "陳真 (contextual contrast form in Southern Lion Dance   Martial Arts)",
+            "霍元甲 (formal register distinction for Southern Lion Dance   Martial Arts)",
+            "張三丰 (colloquial conversational usage for Southern Lion Dance   Martial Arts)"
           ],
           "answerIndex": 0,
           "explanation": "黃飛鴻為嶺南洪拳宗師與醒獅名家，其武德傳奇深深融入了省港澳文化歷史之中。"
@@ -11502,10 +11502,10 @@
         {
           "prompt": "【遺產活化】將歷史古建築或傳統工藝賦予現代生活功能與文創新活力之保護理念稱為：",
           "options": [
-            "活化保育 (Core concept key phrasing)",
-            "全盤拆除重建 (Core concept alternative form)",
-            "徹底封閉禁止參觀 (Core concept alternative form)",
-            "任由風化廢棄 (Core concept alternative form)"
+            "活化保育 (standard target expression for Heritage Revitalization   Art Criticism)",
+            "全盤拆除重建 (contextual contrast form in Heritage Revitalization   Art Criticism)",
+            "徹底封閉禁止參觀 (formal register distinction for Heritage Revitalization   Art Criticism)",
+            "任由風化廢棄 (colloquial conversational usage for Heritage Revitalization   Art Criticism)"
           ],
           "answerIndex": 0,
           "explanation": "「活化保育」強調在妥善保護歷史真實性的前提下，注入當代文化與社區活力。"
@@ -11517,10 +11517,10 @@
         {
           "prompt": "【藝術評論】形容藝術作品構思極為精妙、具備高度原創性與精湛技藝之高階評論成語係：",
           "options": [
-            "匠心獨運 (Core concept key phrasing)",
-            "千篇一律 (Core concept alternative form)",
-            "粗製濫造 (Core concept alternative form)",
-            "生搬硬套 (Core concept alternative form)"
+            "匠心獨運 (standard target expression for Heritage Revitalization   Art Criticism)",
+            "千篇一律 (contextual contrast form in Heritage Revitalization   Art Criticism)",
+            "粗製濫造 (formal register distinction for Heritage Revitalization   Art Criticism)",
+            "生搬硬套 (colloquial conversational usage for Heritage Revitalization   Art Criticism)"
           ],
           "answerIndex": 0,
           "explanation": "「匠心獨運」為文藝評論中讚美創作者構思獨特奇妙之高階成語。"
@@ -11533,10 +11533,10 @@
           "type": "multiple-choice",
           "prompt": "【非遺真諦】現代非物質文化遺產保護所秉持之「見人、見物、見生活」核心理念意指：",
           "options": [
-            "非遺保護必須依托傳承人、技藝載體並深植於當代大眾日常生活之中 (Core concept alternative form)",
-            "將所有傳統工藝品只鎖入博物館庫房 (Core concept alternative form)",
-            "禁止任何商業文創改編 (Core concept alternative form)",
-            "強迫所有人完全按古代生活方式生活 (Core concept alternative form)"
+            "非遺保護必須依托傳承人、技藝載體並深植於當代大眾日常生活之中 (standard target expression for Heritage Revitalization   Art Criticism)",
+            "將所有傳統工藝品只鎖入博物館庫房 (contextual contrast form in Heritage Revitalization   Art Criticism)",
+            "禁止任何商業文創改編 (formal register distinction for Heritage Revitalization   Art Criticism)",
+            "強迫所有人完全按古代生活方式生活 (colloquial conversational usage for Heritage Revitalization   Art Criticism)"
           ],
           "answerIndex": 0,
           "explanation": "「見人、見物、見生活」強調非物質文化遺產作為活態文化之動態傳承本質。"
@@ -11584,10 +11584,10 @@
         {
           "prompt": "【武俠精神】金庸小說《射鵰英雄傳》中郭靖所道出、代表中華俠義文化至高境界之名言係：",
           "options": [
-            "俠之大者，為國為民 (Core concept key phrasing)",
-            "事不關己，己不勞心 (Core concept alternative form)",
-            "人不為己，天誅地滅 (Core concept alternative form)",
-            "得過且過，逍遙快活 (Core concept alternative form)"
+            "俠之大者，為國為民 (standard target expression for New School Wuxia Literature)",
+            "事不關己，己不勞心 (contextual contrast form in New School Wuxia Literature)",
+            "人不為己，天誅地滅 (formal register distinction for New School Wuxia Literature)",
+            "得過且過，逍遙快活 (colloquial conversational usage for New School Wuxia Literature)"
           ],
           "answerIndex": 0,
           "explanation": "「俠之大者，為國為民」為金庸武俠哲學中將個人武藝昇華至家國擔當之核心綱領。"
@@ -11599,10 +11599,10 @@
         {
           "prompt": "【武學哲理】形容超越一切固定招式套路、順應對手形勢直達武學與思維化境之經典成語係：",
           "options": [
-            "無招勝有招 (Core concept key phrasing)",
-            "生搬硬套 (Core concept alternative form)",
-            "墨守成規 (Core concept alternative form)",
-            "按部就班 (Core concept alternative form)"
+            "無招勝有招 (standard target expression for New School Wuxia Literature)",
+            "生搬硬套 (contextual contrast form in New School Wuxia Literature)",
+            "墨守成規 (formal register distinction for New School Wuxia Literature)",
+            "按部就班 (colloquial conversational usage for New School Wuxia Literature)"
           ],
           "answerIndex": 0,
           "explanation": "「無招勝有招」為獨孤九劍與太極拳哲學中破除形式拘泥之至高境地。"
@@ -11615,10 +11615,10 @@
           "type": "multiple-choice",
           "prompt": "【文學宗師】在香港創辦《明報》並著有《天龍八部》、《笑傲江湖》、《鹿鼎記》等經典武俠巨作之大師係：",
           "options": [
-            "金庸 (Core concept key phrasing)",
-            "魯迅 (Core concept alternative form)",
-            "張愛玲 (Core concept alternative form)",
-            "老舍 (Core concept alternative form)"
+            "金庸 (standard target expression for New School Wuxia Literature)",
+            "魯迅 (contextual contrast form in New School Wuxia Literature)",
+            "張愛玲 (formal register distinction for New School Wuxia Literature)",
+            "老舍 (colloquial conversational usage for New School Wuxia Literature)"
           ],
           "answerIndex": 0,
           "explanation": "金庸（查良鏞）為二十世紀華語文學界最負盛名之武俠小說泰斗。"
@@ -11666,10 +11666,10 @@
         {
           "prompt": "【現代主義】被公認為華語文學史上第一部意識流長篇小說之香港經典名作係：",
           "options": [
-            "劉以鬯《酒徒》 (Core concept alternative form)",
-            "《紅樓夢》 (Core concept alternative form)",
-            "《三國演義》 (Core concept alternative form)",
-            "《水滸傳》 (Core concept alternative form)"
+            "劉以鬯《酒徒》 (standard target expression for Modern HK Literature)",
+            "《紅樓夢》 (contextual contrast form in Modern HK Literature)",
+            "《三國演義》 (formal register distinction for Modern HK Literature)",
+            "《水滸傳》 (colloquial conversational usage for Modern HK Literature)"
           ],
           "answerIndex": 0,
           "explanation": "劉以鬯於1963年出版之《酒徒》為中國第一部意識流長篇小說。"
@@ -11681,10 +11681,10 @@
         {
           "prompt": "【我城自覺】以童稚純真視角描寫七十年代香港草根市民日常生活、開創「我城」本土敘事之作家係：",
           "options": [
-            "西西 (Core concept key phrasing)",
-            "冰心 (Core concept alternative form)",
-            "茅盾 (Core concept alternative form)",
-            "朱自清 (Core concept alternative form)"
+            "西西 (standard target expression for Modern HK Literature)",
+            "冰心 (contextual contrast form in Modern HK Literature)",
+            "茅盾 (formal register distinction for Modern HK Literature)",
+            "朱自清 (colloquial conversational usage for Modern HK Literature)"
           ],
           "answerIndex": 0,
           "explanation": "著名香港女作家西西於1974年發表小說《我城》，奠定了香港本土文學之重要基石。"
@@ -11697,10 +11697,10 @@
           "type": "multiple-choice",
           "prompt": "【電影靈感】王家衛執導之經典電影《花樣年華》，其文學構思主要靈感來源於劉以鬯先生之邊部小說：",
           "options": [
-            "《對倒》 (Core concept key phrasing)",
-            "《狂人日記》 (Core concept alternative form)",
-            "《雷雨》 (Core concept alternative form)",
-            "《駱駝祥子》 (Core concept alternative form)"
+            "《對倒》 (standard target expression for Modern HK Literature)",
+            "《狂人日記》 (contextual contrast form in Modern HK Literature)",
+            "《雷雨》 (formal register distinction for Modern HK Literature)",
+            "《駱駝祥子》 (colloquial conversational usage for Modern HK Literature)"
           ],
           "answerIndex": 0,
           "explanation": "《花樣年華》片尾特別鳴謝劉以鬯，其雙線交叉之時空氛圍深受小說《對倒》之啟發。"
@@ -11748,10 +11748,10 @@
         {
           "prompt": "【經典金句】在周星馳電影《少林足球》中，激勵小人物勇於追求夢想之傳世金句係：",
           "options": [
-            "做人如果冇夢想，同條鹹魚有咩分別？ (Core concept alternative form)",
-            "我都係聽日先諗啦 (Core concept alternative form)",
-            "大家千祈唔好努力 (Core concept alternative form)",
-            "算數啦返去訓覺 (Core concept alternative form)"
+            "做人如果冇夢想，同條鹹魚有咩分別？ (standard target expression for HK Cinema)",
+            "我都係聽日先諗啦 (contextual contrast form in HK Cinema)",
+            "大家千祈唔好努力 (formal register distinction for HK Cinema)",
+            "算數啦返去訓覺 (colloquial conversational usage for HK Cinema)"
           ],
           "answerIndex": 0,
           "explanation": "「做人如果冇夢想，同條鹹魚有咩分別」為周星馳電影最膾炙人口之勵志名言。"
@@ -11763,10 +11763,10 @@
         {
           "prompt": "【電影名篇】以梁朝偉、劉德華飾演之雙重臥底身分困境為核心、被荷里活翻拍並獲奧斯卡最佳影片之香港神作係：",
           "options": [
-            "《無間道》 (Core concept key phrasing)",
-            "《哈利波特》 (Core concept alternative form)",
-            "《鐵達尼號》 (Core concept alternative form)",
-            "《侏羅紀公園》 (Core concept alternative form)"
+            "《無間道》 (standard target expression for HK Cinema)",
+            "《哈利波特》 (contextual contrast form in HK Cinema)",
+            "《鐵達尼號》 (formal register distinction for HK Cinema)",
+            "《侏羅紀公園》 (colloquial conversational usage for HK Cinema)"
           ],
           "answerIndex": 0,
           "explanation": "《無間道》為香港警匪臥底題材之經典巔峰，獲全球廣泛讚譽。"
@@ -11779,10 +11779,10 @@
           "type": "multiple-choice",
           "prompt": "【文藝大師】執導《阿飛正傳》、《重慶森林》、《花樣年華》，榮獲康城影展最佳導演獎之香港文藝片泰斗係：",
           "options": [
-            "王家衛 (Core concept key phrasing)",
-            "希治閣 (Core concept alternative form)",
-            "史匹堡 (Core concept alternative form)",
-            "諾蘭 (Core concept alternative form)"
+            "王家衛 (standard target expression for HK Cinema)",
+            "希治閣 (contextual contrast form in HK Cinema)",
+            "史匹堡 (formal register distinction for HK Cinema)",
+            "諾蘭 (colloquial conversational usage for HK Cinema)"
           ],
           "answerIndex": 0,
           "explanation": "王家衛為享譽國際影壇之香港殿堂級電影大師。"
@@ -11830,10 +11830,10 @@
         {
           "prompt": "【填詞術語】粵語流行曲創作中，歌詞字音聲調必須嚴格契合曲譜旋律音高走勢之語言學要求稱為：",
           "options": [
-            "依聲填詞 / 協音 (Cantopop U28)",
-            "隨便亂填 (Cantopop U28)",
-            "完全不看曲譜 (Cantopop U28)",
-            "單純拼湊英文單詞 (Cantopop U28)"
+            "依聲填詞 / 協音 (standard target expression for Cantopop Lyricism)",
+            "隨便亂填 (contextual contrast form in Cantopop Lyricism)",
+            "完全不看曲譜 (formal register distinction for Cantopop Lyricism)",
+            "單純拼湊英文單詞 (colloquial conversational usage for Cantopop Lyricism)"
           ],
           "answerIndex": 0,
           "explanation": "「協音（依聲填詞）」為粵語流行歌曲確保不出現「倒字」現象之核心創作法則。"
@@ -11845,10 +11845,10 @@
         {
           "prompt": "【經典名曲】由黃霑填詞、羅文演唱，深刻凝聚香港草根同舟共濟與逆境拼搏精神之代表歌曲係：",
           "options": [
-            "《獅子山下》 (Cantopop U28)",
-            "《兩隻老虎》 (Cantopop U28)",
-            "《小星星》 (Cantopop U28)",
-            "《生日快樂》 (Cantopop U28)"
+            "《獅子山下》 (standard target expression for Cantopop Lyricism)",
+            "《兩隻老虎》 (contextual contrast form in Cantopop Lyricism)",
+            "《小星星》 (formal register distinction for Cantopop Lyricism)",
+            "《生日快樂》 (colloquial conversational usage for Cantopop Lyricism)"
           ],
           "answerIndex": 0,
           "explanation": "《獅子山下》為黃霑填詞之不朽名作，被視為香港奮鬥精神之精神像徵。"
@@ -11861,10 +11861,10 @@
           "type": "multiple-choice",
           "prompt": "【詞壇宗師】創作逾三千首歌詞、將佛學禪理與現代都市情感完美融合、寫下《約定》《富士山下》之詞壇泰斗係：",
           "options": [
-            "林夕 (Cantopop U28)",
-            "徐志摩 (Cantopop U28)",
-            "戴望舒 (Cantopop U28)",
-            "海子 (Cantopop U28)"
+            "林夕 (standard target expression for Cantopop Lyricism)",
+            "徐志摩 (contextual contrast form in Cantopop Lyricism)",
+            "戴望舒 (formal register distinction for Cantopop Lyricism)",
+            "海子 (colloquial conversational usage for Cantopop Lyricism)"
           ],
           "answerIndex": 0,
           "explanation": "林夕為當代華語樂壇最具影響力與文學深度之填詞大家。"
@@ -11912,10 +11912,10 @@
         {
           "prompt": "【核心精神】象徵香港草根大眾同舟共濟、勤勞勇敢、在逆境中互助拼搏之核心精神象徵係：",
           "options": [
-            "獅子山精神 (Cultural Studies U28)",
-            "逃避主義 (Cultural Studies U28)",
-            "拜金主義 (Cultural Studies U28)",
-            "得過且過 (Cultural Studies U28)"
+            "獅子山精神 (standard target expression for HK Cultural Identity)",
+            "逃避主義 (contextual contrast form in HK Cultural Identity)",
+            "拜金主義 (formal register distinction for HK Cultural Identity)",
+            "得過且過 (colloquial conversational usage for HK Cultural Identity)"
           ],
           "answerIndex": 0,
           "explanation": "「獅子山精神」為香港社會最核心、最受推崇之集體拼搏與互助精神象徵。"
@@ -11927,10 +11927,10 @@
         {
           "prompt": "【文化特質】形容香港流行文化既具備高雅深刻之藝術品味，又能被廣大普通市民大眾所喜愛欣賞之成語係：",
           "options": [
-            "雅俗共賞 (Cultural Studies U28)",
-            "孤芳自賞 (Cultural Studies U28)",
-            "曲高和寡 (Cultural Studies U28)",
-            "庸俗不堪 (Cultural Studies U28)"
+            "雅俗共賞 (standard target expression for HK Cultural Identity)",
+            "孤芳自賞 (contextual contrast form in HK Cultural Identity)",
+            "曲高和寡 (formal register distinction for HK Cultural Identity)",
+            "庸俗不堪 (colloquial conversational usage for HK Cultural Identity)"
           ],
           "answerIndex": 0,
           "explanation": "「雅俗共賞」精確概括了香港武俠文學、電影與粵語金曲跨越階層之傳播魅力。"
@@ -11943,10 +11943,10 @@
           "type": "multiple-choice",
           "prompt": "【文化研究】當代文化研究中，用以描述香港文化兼具嶺南底蘊、西方制度與全球流行元素之理論概念係：",
           "options": [
-            "文化雜糅性 / 混血性 (Cultural Studies U28)",
-            "單一封閉性 (Cultural Studies U28)",
-            "完全同質化 (Cultural Studies U28)",
-            "原始未開化 (Cultural Studies U28)"
+            "文化雜糅性 / 混血性 (standard target expression for HK Cultural Identity)",
+            "單一封閉性 (contextual contrast form in HK Cultural Identity)",
+            "完全同質化 (formal register distinction for HK Cultural Identity)",
+            "原始未開化 (colloquial conversational usage for HK Cultural Identity)"
           ],
           "answerIndex": 0,
           "explanation": "「文化雜糅性（Cultural Hybridity）」為香港文化研究中最核心之理論闡釋架構。"
@@ -11994,10 +11994,10 @@
         {
           "prompt": "【前沿科技】以海量數據為基礎、能夠進行複雜語言生成與邏輯推理之核心AI技術架構稱為：",
           "options": [
-            "大語言模型 (AILLM U29)",
-            "算盤珠心算 (AILLM U29)",
-            "打字機打字 (AILLM U29)",
-            "機械發條鐘 (AILLM U29)"
+            "大語言模型 (standard target expression for AI   Big Data Analytics)",
+            "算盤珠心算 (contextual contrast form in AI   Big Data Analytics)",
+            "打字機打字 (formal register distinction for AI   Big Data Analytics)",
+            "機械發條鐘 (colloquial conversational usage for AI   Big Data Analytics)"
           ],
           "answerIndex": 0,
           "explanation": "「大語言模型（LLM）」為當代生成式人工智能之核心技術基石。"
@@ -12009,10 +12009,10 @@
         {
           "prompt": "【技術工程】為使預訓練AI模型更貼合特定領域專業知識或具體應用場景所進行之針對性參數調整過程係：",
           "options": [
-            "微調 (AILLM U29)",
-            "格式化全盤清空 (AILLM U29)",
-            "拔掉電源關機 (AILLM U29)",
-            "隨機猜測 (AILLM U29)"
+            "微調 (standard target expression for AI   Big Data Analytics)",
+            "格式化全盤清空 (contextual contrast form in AI   Big Data Analytics)",
+            "拔掉電源關機 (formal register distinction for AI   Big Data Analytics)",
+            "隨機猜測 (colloquial conversational usage for AI   Big Data Analytics)"
           ],
           "answerIndex": 0,
           "explanation": "「微調（Fine-tuning）」係在大模型基礎上調整權重參數以適配專屬垂直領域之核心工藝。"
@@ -12025,10 +12025,10 @@
           "type": "multiple-choice",
           "prompt": "【深度學習】深度學習（Deep Learning）之所以具備強大表徵學習能力，主要歸功於其採用咗邊種核心架構：",
           "options": [
-            "多層人工神經網絡 (AILLM U29)",
-            "單純手工規則枚舉 (AILLM U29)",
-            "隨機亂數生成器 (AILLM U29)",
-            "機械指針齒輪 (AILLM U29)"
+            "多層人工神經網絡 (standard target expression for AI   Big Data Analytics)",
+            "單純手工規則枚舉 (contextual contrast form in AI   Big Data Analytics)",
+            "隨機亂數生成器 (formal register distinction for AI   Big Data Analytics)",
+            "機械指針齒輪 (colloquial conversational usage for AI   Big Data Analytics)"
           ],
           "answerIndex": 0,
           "explanation": "深度學習依托多層人工神經網絡實現對高維非線性特徵之自主提取與擬合。"
@@ -12076,10 +12076,10 @@
         {
           "prompt": "【區塊鏈應用】在區塊鏈上部署、當預設條件被觸發時自動無偏差執行之程序代碼稱為：",
           "options": [
-            "智能合約 (FinTechWeb3AML U29)",
-            "口頭協議 (FinTechWeb3AML U29)",
-            "手寫收據 (FinTechWeb3AML U29)",
-            "傳真文件 (FinTechWeb3AML U29)"
+            "智能合約 (standard target expression for FinTech   Blockchain)",
+            "口頭協議 (contextual contrast form in FinTech   Blockchain)",
+            "手寫收據 (formal register distinction for FinTech   Blockchain)",
+            "傳真文件 (colloquial conversational usage for FinTech   Blockchain)"
           ],
           "answerIndex": 0,
           "explanation": "「智能合約（Smart Contracts）」為去中心化應用中自動執行條款之核心技術。"
@@ -12091,10 +12091,10 @@
         {
           "prompt": "【金融監管】允許金融科技初創企業在真實市場環境但受限範圍內測試創新產品之監管機制稱為：",
           "options": [
-            "監管沙盒 (FinTechWeb3AML U29)",
-            "全面禁止創新 (FinTechWeb3AML U29)",
-            "放任自流不予監管 (FinTechWeb3AML U29)",
-            "強制關閉業務 (FinTechWeb3AML U29)"
+            "監管沙盒 (standard target expression for FinTech   Blockchain)",
+            "全面禁止創新 (contextual contrast form in FinTech   Blockchain)",
+            "放任自流不予監管 (formal register distinction for FinTech   Blockchain)",
+            "強制關閉業務 (colloquial conversational usage for FinTech   Blockchain)"
           ],
           "answerIndex": 0,
           "explanation": "「監管沙盒（Regulatory Sandbox）」為平衡金融創新與風險防控之標誌性監管制度。"
@@ -12107,10 +12107,10 @@
           "type": "multiple-choice",
           "prompt": "【合規義務】金融機構為防止不法資金透過金融體系合法化，必須強制嚴格落實之合規審查條例係：",
           "options": [
-            "反洗黑錢條例 (FinTechWeb3AML U29)",
-            "單純登記用戶暱稱 (FinTechWeb3AML U29)",
-            "免除一切身分核實 (FinTechWeb3AML U29)",
-            "允許匿名大額跨境轉賬 (FinTechWeb3AML U29)"
+            "反洗黑錢條例 (standard target expression for FinTech   Blockchain)",
+            "單純登記用戶暱稱 (contextual contrast form in FinTech   Blockchain)",
+            "免除一切身分核實 (formal register distinction for FinTech   Blockchain)",
+            "允許匿名大額跨境轉賬 (colloquial conversational usage for FinTech   Blockchain)"
           ],
           "answerIndex": 0,
           "explanation": "AML（反洗黑錢）與KYC（客戶身分識別）為全球金融機構營運之法定底線。"
@@ -12158,10 +12158,10 @@
         {
           "prompt": "【臨床試驗】在醫學實驗中，為徹底消除受試患者同醫生雙方之主觀心理暗示所採用之標準科研方法係：",
           "options": [
-            "雙盲測試 (Core concept key phrasing)",
-            "隨意公開測試 (Core concept alternative form)",
-            "單純問卷調查 (Core concept alternative form)",
-            "口頭訪問 (Core concept alternative form)"
+            "雙盲測試 (standard target expression for Biomedicine   MedTech)",
+            "隨意公開測試 (contextual contrast form in Biomedicine   MedTech)",
+            "單純問卷調查 (formal register distinction for Biomedicine   MedTech)",
+            "口頭訪問 (colloquial conversational usage for Biomedicine   MedTech)"
           ],
           "answerIndex": 0,
           "explanation": "「雙盲測試（Double-blind trial）」為國際醫學臨床試驗最高標準之黃金準則。"
@@ -12173,10 +12173,10 @@
         {
           "prompt": "【精準醫療】針對癌細胞特定突變基因或受體分子進行精準打擊、對正常組織損傷極小之現代療法係：",
           "options": [
-            "標靶治療 (Core concept key phrasing)",
-            "大劑量普通化療 (Core concept alternative form)",
-            "傳統放血療法 (Core concept alternative form)",
-            "單純休息靜養 (Core concept alternative form)"
+            "標靶治療 (standard target expression for Biomedicine   MedTech)",
+            "大劑量普通化療 (contextual contrast form in Biomedicine   MedTech)",
+            "傳統放血療法 (formal register distinction for Biomedicine   MedTech)",
+            "單純休息靜養 (colloquial conversational usage for Biomedicine   MedTech)"
           ],
           "answerIndex": 0,
           "explanation": "「標靶治療（Targeted Therapy）」為現代精準腫瘤醫學之重大突破。"
@@ -12189,10 +12189,10 @@
           "type": "multiple-choice",
           "prompt": "【前沿生物】利用CRISPR分子剪刀對生物基因組特定序列進行精確修改之尖端生物技術係：",
           "options": [
-            "基因編輯 (Core concept key phrasing)",
-            "普通血液透析 (Core concept alternative form)",
-            "X光骨骼透視 (Core concept alternative form)",
-            "心電圖檢查 (Core concept alternative form)"
+            "基因編輯 (standard target expression for Biomedicine   MedTech)",
+            "普通血液透析 (contextual contrast form in Biomedicine   MedTech)",
+            "X光骨骼透視 (formal register distinction for Biomedicine   MedTech)",
+            "心電圖檢查 (colloquial conversational usage for Biomedicine   MedTech)"
           ],
           "answerIndex": 0,
           "explanation": "「基因編輯（Gene Editing）」為當代分子生物學中革命性之基因操作工具。"
@@ -12240,10 +12240,10 @@
         {
           "prompt": "【學術寫作】在論文開篇部分，系統梳理前人研究成果並精確指出既有研究不足之章節稱為：",
           "options": [
-            "文獻探討 / 文獻綜述 (Core concept alternative form)",
-            "隨手日記 (Core concept alternative form)",
-            "純個人抒情 (Core concept alternative form)",
-            "小說創作 (Core concept alternative form)"
+            "文獻探討 / 文獻綜述 (standard target expression for Academic Methodology)",
+            "隨手日記 (contextual contrast form in Academic Methodology)",
+            "純個人抒情 (formal register distinction for Academic Methodology)",
+            "小說創作 (colloquial conversational usage for Academic Methodology)"
           ],
           "answerIndex": 0,
           "explanation": "「文獻探討（Literature Review）」為確立研究價值與理論起點之必備核心章節。"
@@ -12255,10 +12255,10 @@
         {
           "prompt": "【統計分析】在定量實證研究中，用以表明研究結果並非出於隨機偶然、具備科學可靠性之核心概念係：",
           "options": [
-            "統計顯著性 (Core concept key phrasing)",
-            "主觀直覺感應 (Core concept alternative form)",
-            "個人偏好猜測 (Core concept alternative form)",
-            "拋硬幣決定 (Core concept alternative form)"
+            "統計顯著性 (standard target expression for Academic Methodology)",
+            "主觀直覺感應 (contextual contrast form in Academic Methodology)",
+            "個人偏好猜測 (formal register distinction for Academic Methodology)",
+            "拋硬幣決定 (colloquial conversational usage for Academic Methodology)"
           ],
           "answerIndex": 0,
           "explanation": "「統計顯著性（Statistical Significance）」為實證定量分析中驗證假說之標準科學判據。"
@@ -12271,10 +12271,10 @@
           "type": "multiple-choice",
           "prompt": "【審稿機制】國際權威學術期刊為確保論文學術質量與客觀公正所普遍採用的審稿機制係：",
           "options": [
-            "雙向匿名同行評審 (Core concept alternative form)",
-            "作者自審自發 (Core concept alternative form)",
-            "商業廣告競價排名 (Core concept alternative form)",
-            "社交媒體投票 (Core concept alternative form)"
+            "雙向匿名同行評審 (standard target expression for Academic Methodology)",
+            "作者自審自發 (contextual contrast form in Academic Methodology)",
+            "商業廣告競價排名 (formal register distinction for Academic Methodology)",
+            "社交媒體投票 (colloquial conversational usage for Academic Methodology)"
           ],
           "answerIndex": 0,
           "explanation": "「同行評審（Peer Review）」為現代國際學術出版與科學共同體驗證學術成果之基石。"
@@ -12322,10 +12322,10 @@
         {
           "prompt": "【科技倫理】因訓練數據存在偏頗而導致AI決策系統對特定群體產生不公評判之現象稱為：",
           "options": [
-            "算法偏見 (Core concept key phrasing)",
-            "完全客觀公正 (Core concept alternative form)",
-            "絕對完美無瑕 (Core concept alternative form)",
-            "硬件電路故障 (Core concept alternative form)"
+            "算法偏見 (standard target expression for Tech Ethics   Smart Governance)",
+            "完全客觀公正 (contextual contrast form in Tech Ethics   Smart Governance)",
+            "絕對完美無瑕 (formal register distinction for Tech Ethics   Smart Governance)",
+            "硬件電路故障 (colloquial conversational usage for Tech Ethics   Smart Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「算法偏見（Algorithmic Bias）」為當前人工智能倫理治理中最關鍵之核心議題。"
@@ -12337,10 +12337,10 @@
         {
           "prompt": "【公共政策】在重大科技風險或危機發生前預先制定防範對策與監管法規之成語係：",
           "options": [
-            "未雨綢繆 (Core concept key phrasing)",
-            "臨渴掘井 (Core concept alternative form)",
-            "亡羊補牢 (Core concept alternative form)",
-            "坐以待斃 (Core concept alternative form)"
+            "未雨綢繆 (standard target expression for Tech Ethics   Smart Governance)",
+            "臨渴掘井 (contextual contrast form in Tech Ethics   Smart Governance)",
+            "亡羊補牢 (formal register distinction for Tech Ethics   Smart Governance)",
+            "坐以待斃 (colloquial conversational usage for Tech Ethics   Smart Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「未雨綢繆」常用於科技政策前瞻性制定與前沿風險防範語境。"
@@ -12353,10 +12353,10 @@
           "type": "multiple-choice",
           "prompt": "【科技治理】現代科技創新與數字化轉型必須恪守之核心倫理指導原則係：",
           "options": [
-            "以人為本、科技向善 (Core concept key phrasing)",
-            "利潤至上不顧後果 (Core concept alternative form)",
-            "肆意侵犯個人私隱 (Core concept alternative form)",
-            "全面推行算法壟斷 (Core concept alternative form)"
+            "以人為本、科技向善 (standard target expression for Tech Ethics   Smart Governance)",
+            "利潤至上不顧後果 (contextual contrast form in Tech Ethics   Smart Governance)",
+            "肆意侵犯個人私隱 (formal register distinction for Tech Ethics   Smart Governance)",
+            "全面推行算法壟斷 (colloquial conversational usage for Tech Ethics   Smart Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「以人為本、科技向善」為全球公認之科技治理與可持續發展最高準則。"
@@ -12404,10 +12404,10 @@
         {
           "prompt": "【電影運動】二十世紀七十年代末在香港興起、由許鞍華徐克等年輕導演推動之視聽美學革命稱為：",
           "options": [
-            "香港電影新浪潮 (1979 key phrasing)",
-            "黑白默片運動 (1979 alternative form)",
-            "皮影戲巡演 (1979 alternative form)",
-            "純商業廣告片潮 (1979 alternative form)"
+            "香港電影新浪潮 (standard target expression for HK New Wave Cinema)",
+            "黑白默片運動 (contextual contrast form in HK New Wave Cinema)",
+            "皮影戲巡演 (formal register distinction for HK New Wave Cinema)",
+            "純商業廣告片潮 (colloquial conversational usage for HK New Wave Cinema)"
           ],
           "answerIndex": 0,
           "explanation": "「香港電影新浪潮」為香港電影邁向現代主義與作者電影美學之關鍵里程碑。"
@@ -12419,10 +12419,10 @@
         {
           "prompt": "【影壇巨匠】執導《投奔怒海》、《女人四十》、《桃姐》，榮獲威尼斯影展終身成就金獅獎之香港女導演係：",
           "options": [
-            "許鞍華 (1979 key phrasing)",
-            "宮崎駿 (1979 alternative form)",
-            "黑澤明 (1979 alternative form)",
-            "奉俊昊 (1979 alternative form)"
+            "許鞍華 (standard target expression for HK New Wave Cinema)",
+            "宮崎駿 (contextual contrast form in HK New Wave Cinema)",
+            "黑澤明 (formal register distinction for HK New Wave Cinema)",
+            "奉俊昊 (colloquial conversational usage for HK New Wave Cinema)"
           ],
           "answerIndex": 0,
           "explanation": "許鞍華為香港新浪潮領軍人物及享譽全球之電影大師。"
@@ -12435,10 +12435,10 @@
           "type": "multiple-choice",
           "prompt": "【美學風格】香港新浪潮電影在製作手法上最顯著區別於傳統片場電影之核心特點係：",
           "options": [
-            "走出攝影棚、大量採用真實街頭社區進行菲林實景拍攝 (1979 alternative form)",
-            "全片只在單一綠幕前用電腦合成 (1979 alternative form)",
-            "完全不使用任何真實演員 (1979 alternative form)",
-            "禁止在香港本地取景 (1979 alternative form)"
+            "走出攝影棚、大量採用真實街頭社區進行菲林實景拍攝 (standard target expression for HK New Wave Cinema)",
+            "全片只在單一綠幕前用電腦合成 (contextual contrast form in HK New Wave Cinema)",
+            "完全不使用任何真實演員 (formal register distinction for HK New Wave Cinema)",
+            "禁止在香港本地取景 (colloquial conversational usage for HK New Wave Cinema)"
           ],
           "answerIndex": 0,
           "explanation": "深入香港本土社區進行實景拍攝為新浪潮紀實寫實美學之標誌性特徵。"
@@ -12486,10 +12486,10 @@
         {
           "prompt": "【剪接手法】在電影中將兩條或多條在不同空間同時發生的劇情線索交替剪接在一起之蒙太奇手法係：",
           "options": [
-            "交叉剪接 / 平行蒙太奇 (Core concept alternative form)",
-            "單純黑屏暫停 (Core concept alternative form)",
-            "快進十倍播放 (Core concept alternative form)",
-            "隨意刪除素材 (Core concept alternative form)"
+            "交叉剪接 / 平行蒙太奇 (standard target expression for Cinematography   Mise en sc ne)",
+            "單純黑屏暫停 (contextual contrast form in Cinematography   Mise en sc ne)",
+            "快進十倍播放 (formal register distinction for Cinematography   Mise en sc ne)",
+            "隨意刪除素材 (colloquial conversational usage for Cinematography   Mise en sc ne)"
           ],
           "answerIndex": 0,
           "explanation": "「交叉剪接（Cross-cutting）」為電影營造緊迫懸念與時空交織感最經典之剪接語法。"
@@ -12501,10 +12501,10 @@
         {
           "prompt": "【視聽修辭】電影中背景聲音（如歡快音樂）與畫面內容（如悲慘處境）形成鮮明反差與諷刺效果之手法稱為：",
           "options": [
-            "聲畫對位 (Core concept key phrasing)",
-            "無聲靜音 (Core concept alternative form)",
-            "噪聲干擾 (Core concept alternative form)",
-            "設備短路 (Core concept alternative form)"
+            "聲畫對位 (standard target expression for Cinematography   Mise en sc ne)",
+            "無聲靜音 (contextual contrast form in Cinematography   Mise en sc ne)",
+            "噪聲干擾 (formal register distinction for Cinematography   Mise en sc ne)",
+            "設備短路 (colloquial conversational usage for Cinematography   Mise en sc ne)"
           ],
           "answerIndex": 0,
           "explanation": "「聲畫對位」透過視聽反差營造深刻之象徵寓意與哲學思辨空間。"
@@ -12517,10 +12517,10 @@
           "type": "multiple-choice",
           "prompt": "【攝影技術】在電影拍攝中，攝影機不中斷且持續跟隨角色運動或場景流轉之單一鏡頭稱為：",
           "options": [
-            "長鏡頭 (Core concept key phrasing)",
-            "定格照片 (Core concept alternative form)",
-            "幻燈片切換 (Core concept alternative form)",
-            "一秒快速閃爍 (Core concept alternative form)"
+            "長鏡頭 (standard target expression for Cinematography   Mise en sc ne)",
+            "定格照片 (contextual contrast form in Cinematography   Mise en sc ne)",
+            "幻燈片切換 (formal register distinction for Cinematography   Mise en sc ne)",
+            "一秒快速閃爍 (colloquial conversational usage for Cinematography   Mise en sc ne)"
           ],
           "answerIndex": 0,
           "explanation": "「長鏡頭（Long Take）」能夠完整保留時空連續性與現場氛圍之真實張力。"
@@ -12568,10 +12568,10 @@
         {
           "prompt": "【紀錄片流派】強調攝影機盡可能不干預被拍攝對象、客觀真實記錄事件自然生長之紀錄片流派係：",
           "options": [
-            "直接電影 (Core concept key phrasing)",
-            "荷里活特效科幻片 (Core concept alternative form)",
-            "舞台情景喜劇 (Core concept alternative form)",
-            "劇本虛構電影 (Core concept alternative form)"
+            "直接電影 (standard target expression for HK Documentaries)",
+            "荷里活特效科幻片 (contextual contrast form in HK Documentaries)",
+            "舞台情景喜劇 (formal register distinction for HK Documentaries)",
+            "劇本虛構電影 (colloquial conversational usage for HK Documentaries)"
           ],
           "answerIndex": 0,
           "explanation": "「直接電影（Direct Cinema）」主張客觀觀察，被譽為紀錄片真實性之核心範式。"
@@ -12583,10 +12583,10 @@
         {
           "prompt": "【影壇名作】榮獲金馬獎最佳紀錄片、由張經緯導演深入跟拍音樂少年黃家正成長困惑之香港名片係：",
           "options": [
-            "《音樂人生》 (Core concept key phrasing)",
-            "《阿凡達》 (Core concept alternative form)",
-            "《變形金剛》 (Core concept alternative form)",
-            "《復仇者聯盟》 (Core concept alternative form)"
+            "《音樂人生》 (standard target expression for HK Documentaries)",
+            "《阿凡達》 (contextual contrast form in HK Documentaries)",
+            "《變形金剛》 (formal register distinction for HK Documentaries)",
+            "《復仇者聯盟》 (colloquial conversational usage for HK Documentaries)"
           ],
           "answerIndex": 0,
           "explanation": "《音樂人生》為香港紀錄片史上口碑與藝術成就極高之經典代表作。"
@@ -12599,10 +12599,10 @@
           "type": "multiple-choice",
           "prompt": "【非虛構價值】優秀紀錄片之所以具備跨越時空之震撼力量，其最根本之核心價值在於：",
           "options": [
-            "真實記錄社會現實、作為時代見證並傳遞深厚之人文關懷 (Core concept alternative form)",
-            "純粹追求商業票房最大化 (Core concept alternative form)",
-            "完全脫離現實虛構劇情 (Core concept alternative form)",
-            "使用炫目電腦特效掩蓋內容空洞 (Core concept alternative form)"
+            "真實記錄社會現實、作為時代見證並傳遞深厚之人文關懷 (standard target expression for HK Documentaries)",
+            "純粹追求商業票房最大化 (contextual contrast form in HK Documentaries)",
+            "完全脫離現實虛構劇情 (formal register distinction for HK Documentaries)",
+            "使用炫目電腦特效掩蓋內容空洞 (colloquial conversational usage for HK Documentaries)"
           ],
           "answerIndex": 0,
           "explanation": "真實呈現歷史變遷與人文關懷係紀錄片最核心之精神內核。"
@@ -12650,10 +12650,10 @@
         {
           "prompt": "【影視分發】打破傳統實體電影院排片限制、透過互聯網向全球用戶提供即時影音點播之平台形式稱為：",
           "options": [
-            "網絡串流平台 (Streaming PlatformsIP U30)",
-            "錄影帶租賃小店 (Streaming PlatformsIP U30)",
-            "露天黑白放映隊 (Streaming PlatformsIP U30)",
-            "實體光盤售賣攤 (Streaming PlatformsIP U30)"
+            "網絡串流平台 (standard target expression for Streaming Era   Coproductions)",
+            "錄影帶租賃小店 (contextual contrast form in Streaming Era   Coproductions)",
+            "露天黑白放映隊 (formal register distinction for Streaming Era   Coproductions)",
+            "實體光盤售賣攤 (colloquial conversational usage for Streaming Era   Coproductions)"
           ],
           "answerIndex": 0,
           "explanation": "「網絡串流平台（Streaming Platforms）」為數字時代全球影視分發之主導形態。"
@@ -12665,10 +12665,10 @@
         {
           "prompt": "【產業模式】香港電影製作團隊與內地資本及市場深度合作、在CEPA框架下共同投資拍攝之電影類型稱為：",
           "options": [
-            "合拍片 (Streaming PlatformsIP U30)",
-            "純個人家庭錄像 (Streaming PlatformsIP U30)",
-            "未經授權盜版片 (Streaming PlatformsIP U30)",
-            "單純進口引進片 (Streaming PlatformsIP U30)"
+            "合拍片 (standard target expression for Streaming Era   Coproductions)",
+            "純個人家庭錄像 (contextual contrast form in Streaming Era   Coproductions)",
+            "未經授權盜版片 (formal register distinction for Streaming Era   Coproductions)",
+            "單純進口引進片 (colloquial conversational usage for Streaming Era   Coproductions)"
           ],
           "answerIndex": 0,
           "explanation": "「合拍片」為二十一世紀華語電影產業規模化與跨地域合作之核心模式。"
@@ -12681,10 +12681,10 @@
           "type": "multiple-choice",
           "prompt": "【文創戰略】以核心文學或動漫角色世界觀為基礎、進行全產業鏈多維度影視與衍生產品開發之過程稱為：",
           "options": [
-            "IP孵化與衍生開發 (Streaming PlatformsIP U30)",
-            "隨意抄襲翻拍 (Streaming PlatformsIP U30)",
-            "一次性短期投機 (Streaming PlatformsIP U30)",
-            "徹底封存版權 (Streaming PlatformsIP U30)"
+            "IP孵化與衍生開發 (standard target expression for Streaming Era   Coproductions)",
+            "隨意抄襲翻拍 (contextual contrast form in Streaming Era   Coproductions)",
+            "一次性短期投機 (formal register distinction for Streaming Era   Coproductions)",
+            "徹底封存版權 (colloquial conversational usage for Streaming Era   Coproductions)"
           ],
           "answerIndex": 0,
           "explanation": "「IP孵化」為文創產業實現長期品牌價值積累與商業變現之重要戰略。"
@@ -12732,10 +12732,10 @@
         {
           "prompt": "【批評理論】在電影評論中，用以分析影片如何與其他經典文學名著或影視文本產生跨時空對話與引申之理論概念係：",
           "options": [
-            "互文性 (Film SemioticsIntertextuality U30)",
-            "完全抄襲 (Film SemioticsIntertextuality U30)",
-            "毫無關聯 (Film SemioticsIntertextuality U30)",
-            "偶然巧合 (Film SemioticsIntertextuality U30)"
+            "互文性 (standard target expression for Film Philosophy   Criticism)",
+            "完全抄襲 (contextual contrast form in Film Philosophy   Criticism)",
+            "毫無關聯 (formal register distinction for Film Philosophy   Criticism)",
+            "偶然巧合 (colloquial conversational usage for Film Philosophy   Criticism)"
           ],
           "answerIndex": 0,
           "explanation": "「互文性（Intertextuality）」為當代文藝理論中揭示文本間對話與文化引申之核心範式。"
@@ -12747,10 +12747,10 @@
         {
           "prompt": "【符號分析】將電影中的鏡頭、光線、色彩與道具作為具備特定隱喻含義之符號體系進行嚴密剖析之學術方法係：",
           "options": [
-            "視聽符號學 (Film SemioticsIntertextuality U30)",
-            "隨意主觀猜謎 (Film SemioticsIntertextuality U30)",
-            "單純八卦緋聞 (Film SemioticsIntertextuality U30)",
-            "票房商業統計 (Film SemioticsIntertextuality U30)"
+            "視聽符號學 (standard target expression for Film Philosophy   Criticism)",
+            "隨意主觀猜謎 (contextual contrast form in Film Philosophy   Criticism)",
+            "單純八卦緋聞 (formal register distinction for Film Philosophy   Criticism)",
+            "票房商業統計 (colloquial conversational usage for Film Philosophy   Criticism)"
           ],
           "answerIndex": 0,
           "explanation": "「視聽符號學（Film Semiotics）」為電影美學分析中精確解讀影像深層隱喻之科學工具。"
@@ -12763,10 +12763,10 @@
           "type": "multiple-choice",
           "prompt": "【影評高度】一篇具備高度學術價值與思想深度之高階電影評論，其核心評價維度應聚焦於：",
           "options": [
-            "視聽語言創新性、思想哲學厚度及對人性與時代命題之深刻剖析 (Film SemioticsIntertextuality U30)",
-            "單純宣洩個人追星情緒 (Film SemioticsIntertextuality U30)",
-            "只複述電影官方劇情簡介 (Film SemioticsIntertextuality U30)",
-            "完全按照商業利益評分 (Film SemioticsIntertextuality U30)"
+            "視聽語言創新性、思想哲學厚度及對人性與時代命題之深刻剖析 (standard target expression for Film Philosophy   Criticism)",
+            "單純宣洩個人追星情緒 (contextual contrast form in Film Philosophy   Criticism)",
+            "只複述電影官方劇情簡介 (formal register distinction for Film Philosophy   Criticism)",
+            "完全按照商業利益評分 (colloquial conversational usage for Film Philosophy   Criticism)"
           ],
           "answerIndex": 0,
           "explanation": "高階影評依托嚴謹之視聽語法與思想厚度，實現對作品之哲學級審美昇華。"
@@ -12814,10 +12814,10 @@
         {
           "prompt": "【法律體系】普通法體系中下級法院在裁判同類案件時必須嚴格遵從上級法院既有判例之核心司法原則稱為：",
           "options": [
-            "遵循先例原則 (Common LawStare Decisis U31)",
-            "隨意自行裁量 (Common LawStare Decisis U31)",
-            "每年重新立法 (Common LawStare Decisis U31)",
-            "由當事人抽籤決定 (Common LawStare Decisis U31)"
+            "遵循先例原則 (standard target expression for Common Law   Stare Decisis)",
+            "隨意自行裁量 (contextual contrast form in Common Law   Stare Decisis)",
+            "每年重新立法 (formal register distinction for Common Law   Stare Decisis)",
+            "由當事人抽籤決定 (colloquial conversational usage for Common Law   Stare Decisis)"
           ],
           "answerIndex": 0,
           "explanation": "「遵循先例原則（Stare Decisis）」為普通法體系確定性與連續性之最核心基石。"
@@ -12829,10 +12829,10 @@
         {
           "prompt": "【司法架構】香港特區法院體系中享有最高司法審判權與最終裁決權之司法機構係：",
           "options": [
-            "香港終審法院 (Common LawStare Decisis U31)",
-            "裁判法院 (Common LawStare Decisis U31)",
-            "勞資審裁處 (Common LawStare Decisis U31)",
-            "淫褻物品審裁處 (Common LawStare Decisis U31)"
+            "香港終審法院 (standard target expression for Common Law   Stare Decisis)",
+            "裁判法院 (contextual contrast form in Common Law   Stare Decisis)",
+            "勞資審裁處 (formal register distinction for Common Law   Stare Decisis)",
+            "淫褻物品審裁處 (colloquial conversational usage for Common Law   Stare Decisis)"
           ],
           "answerIndex": 0,
           "explanation": "香港終審法院為香港特別行政區最高級別之終審司法機構。"
@@ -12845,10 +12845,10 @@
           "type": "multiple-choice",
           "prompt": "【憲制地位】香港特別行政區之所以能夠在中國境內保持普通法制度，其最根本之憲制法律依據係：",
           "options": [
-            "《中華人民共和國香港特別行政區基本法》 (Common LawStare Decisis U31)",
-            "中世紀大憲章 (Common LawStare Decisis U31)",
-            "外國商會協議 (Common LawStare Decisis U31)",
-            "民間習慣法 (Common LawStare Decisis U31)"
+            "《中華人民共和國香港特別行政區基本法》 (standard target expression for Common Law   Stare Decisis)",
+            "中世紀大憲章 (contextual contrast form in Common Law   Stare Decisis)",
+            "外國商會協議 (formal register distinction for Common Law   Stare Decisis)",
+            "民間習慣法 (colloquial conversational usage for Common Law   Stare Decisis)"
           ],
           "answerIndex": 0,
           "explanation": "《香港基本法》在憲制層面確立並保障了香港維持普通法制度與司法獨立。"
@@ -12896,10 +12896,10 @@
         {
           "prompt": "【刑事原則】普通法刑事訴訟中，在法院依法審測定罪前將一切被告人假定為無罪之黃金原則係：",
           "options": [
-            "無罪推定原則 (vs alternative form)",
-            "有罪推定 (vs alternative form)",
-            "先入為主定罪 (vs alternative form)",
-            "以口供為唯一依據 (vs alternative form)"
+            "無罪推定原則 (standard target expression for Courtroom Procedure   Litigation)",
+            "有罪推定 (contextual contrast form in Courtroom Procedure   Litigation)",
+            "先入為主定罪 (formal register distinction for Courtroom Procedure   Litigation)",
+            "以口供為唯一依據 (colloquial conversational usage for Courtroom Procedure   Litigation)"
           ],
           "answerIndex": 0,
           "explanation": "「無罪推定」為文明司法制度中保障人身權利與防止冤假錯案之底線基石。"
@@ -12911,10 +12911,10 @@
         {
           "prompt": "【律師分工】在香港法律體系中，獲專門認可出庭進行高級別訴訟辯護與口頭陳詞之法律專家係：",
           "options": [
-            "大律師 / 大狀 (vs alternative form)",
-            "房地產經紀 (vs alternative form)",
-            "物業管理員 (vs alternative form)",
-            "會計記賬員 (vs alternative form)"
+            "大律師 / 大狀 (standard target expression for Courtroom Procedure   Litigation)",
+            "房地產經紀 (contextual contrast form in Courtroom Procedure   Litigation)",
+            "物業管理員 (formal register distinction for Courtroom Procedure   Litigation)",
+            "會計記賬員 (colloquial conversational usage for Courtroom Procedure   Litigation)"
           ],
           "answerIndex": 0,
           "explanation": "香港大律師（Barrister）專精於法庭訴訟、盤問與法律論辯。"
@@ -12927,10 +12927,10 @@
           "type": "multiple-choice",
           "prompt": "【證明標準】在普通法刑事案件中，控方欲指控被告有罪所必須達到的最高法律證明標準係：",
           "options": [
-            "排除合理疑點 (vs key phrasing)",
-            "五成可能性的蓋然性權衡 (vs alternative form)",
-            "主觀直覺懷疑 (vs alternative form)",
-            "媒體輿論傾向 (vs alternative form)"
+            "排除合理疑點 (standard target expression for Courtroom Procedure   Litigation)",
+            "五成可能性的蓋然性權衡 (contextual contrast form in Courtroom Procedure   Litigation)",
+            "主觀直覺懷疑 (formal register distinction for Courtroom Procedure   Litigation)",
+            "媒體輿論傾向 (colloquial conversational usage for Courtroom Procedure   Litigation)"
           ],
           "answerIndex": 0,
           "explanation": "「排除合理疑點（Beyond Reasonable Doubt）」為普通法刑事定罪之法定唯一證明門檻。"
@@ -12978,10 +12978,10 @@
         {
           "prompt": "【侵權法】普通法中規定每個人在行動時對周圍可合理預見會受其行為影響之人負有防範損害義務之核心概念係：",
           "options": [
-            "謹慎責任 (Core concept key phrasing)",
-            "無限絕對責任 (Core concept alternative form)",
-            "互不相干免責 (Core concept alternative form)",
-            "純粹道德倡議 (Core concept alternative form)"
+            "謹慎責任 (standard target expression for Commercial Law   Arbitration)",
+            "無限絕對責任 (contextual contrast form in Commercial Law   Arbitration)",
+            "互不相干免責 (formal register distinction for Commercial Law   Arbitration)",
+            "純粹道德倡議 (colloquial conversational usage for Commercial Law   Arbitration)"
           ],
           "answerIndex": 0,
           "explanation": "「謹慎責任（Duty of Care）」為侵權法中疏忽責任（Negligence）成立之核心前提。"
@@ -12993,10 +12993,10 @@
         {
           "prompt": "【爭議解決】跨國商業交易中雙方約定由獨立中立之專業第三方機構作出具終局法律效力裁決之非訴訟爭議解決途徑係：",
           "options": [
-            "國際商事仲裁 (Core concept key phrasing)",
-            "網上公開罵戰 (Core concept alternative form)",
-            "單方面武力威脅 (Core concept alternative form)",
-            "無休止街頭爭吵 (Core concept alternative form)"
+            "國際商事仲裁 (standard target expression for Commercial Law   Arbitration)",
+            "網上公開罵戰 (contextual contrast form in Commercial Law   Arbitration)",
+            "單方面武力威脅 (formal register distinction for Commercial Law   Arbitration)",
+            "無休止街頭爭吵 (colloquial conversational usage for Commercial Law   Arbitration)"
           ],
           "answerIndex": 0,
           "explanation": "「國際商事仲裁（Commercial Arbitration）」為全球商業貿易中首選之爭議解決機制。"
@@ -13009,10 +13009,10 @@
           "type": "multiple-choice",
           "prompt": "【違約救濟】當金錢賠償不足以彌補受害方損失時，法院依據衡平法原則命令違約方必須按照原約定履行義務之司法命令稱為：",
           "options": [
-            "強制履行令 (Core concept key phrasing)",
-            "罰款警告信 (Core concept alternative form)",
-            "撤銷法庭設立 (Core concept alternative form)",
-            "免除全部合同責任 (Core concept alternative form)"
+            "強制履行令 (standard target expression for Commercial Law   Arbitration)",
+            "罰款警告信 (contextual contrast form in Commercial Law   Arbitration)",
+            "撤銷法庭設立 (formal register distinction for Commercial Law   Arbitration)",
+            "免除全部合同責任 (colloquial conversational usage for Commercial Law   Arbitration)"
           ],
           "answerIndex": 0,
           "explanation": "「強制履行令（Specific Performance）」為普通法衡平法體系下極具約束力之違約特殊救濟手段。"
@@ -13060,10 +13060,10 @@
         {
           "prompt": "【法例詮釋】在法例解釋中，法官不局限於法條死板字面、而是探求立法背後整體政策目的與社會宗旨之詮釋方法係：",
           "options": [
-            "目的性詮釋法 (Core concept key phrasing)",
-            "隨便曲解法條 (Core concept alternative form)",
-            "機械字面死扣 (Core concept alternative form)",
-            "抽籤決定含義 (Core concept alternative form)"
+            "目的性詮釋法 (standard target expression for Legal Drafting   Bilingual Legislation)",
+            "隨便曲解法條 (contextual contrast form in Legal Drafting   Bilingual Legislation)",
+            "機械字面死扣 (formal register distinction for Legal Drafting   Bilingual Legislation)",
+            "抽籤決定含義 (colloquial conversational usage for Legal Drafting   Bilingual Legislation)"
           ],
           "answerIndex": 0,
           "explanation": "「目的性詮釋法（Purposive Approach）」為現代普通法法官探求法例精神實質最主流之詮釋準則。"
@@ -13075,10 +13075,10 @@
         {
           "prompt": "【雙語制度】香港《法定語文條例》對香港法例文本法律效力作出的核心規定係：",
           "options": [
-            "中文本與英文本同具真準效力 (Core concept alternative form)",
-            "英文本效力永遠高於中文本 (Core concept alternative form)",
-            "中文本僅供參考無法律效力 (Core concept alternative form)",
-            "只以口頭聲明為準 (Core concept alternative form)"
+            "中文本與英文本同具真準效力 (standard target expression for Legal Drafting   Bilingual Legislation)",
+            "英文本效力永遠高於中文本 (contextual contrast form in Legal Drafting   Bilingual Legislation)",
+            "中文本僅供參考無法律效力 (formal register distinction for Legal Drafting   Bilingual Legislation)",
+            "只以口頭聲明為準 (colloquial conversational usage for Legal Drafting   Bilingual Legislation)"
           ],
           "answerIndex": 0,
           "explanation": "香港特區法律規定中英兩種語言文本同具真準法定效力。"
@@ -13091,10 +13091,10 @@
           "type": "multiple-choice",
           "prompt": "【法例文本】在法例草擬中，為精確界定特定專有名詞在該部法律中之具體適用範圍所專門設置的法條章節稱為：",
           "options": [
-            "釋義與定義條款 (Core concept alternative form)",
-            "作者簡介 (Core concept alternative form)",
-            "廣告宣傳頁 (Core concept alternative form)",
-            "感謝名單 (Core concept alternative form)"
+            "釋義與定義條款 (standard target expression for Legal Drafting   Bilingual Legislation)",
+            "作者簡介 (contextual contrast form in Legal Drafting   Bilingual Legislation)",
+            "廣告宣傳頁 (formal register distinction for Legal Drafting   Bilingual Legislation)",
+            "感謝名單 (colloquial conversational usage for Legal Drafting   Bilingual Legislation)"
           ],
           "answerIndex": 0,
           "explanation": "「釋義條款（Interpretation Clauses）」為法例起草中鎖定法律術語內涵與外延之核心技術手段。"
@@ -13142,10 +13142,10 @@
         {
           "prompt": "【司法倫理】自然公正原則（Natural Justice）中嚴格規定法官絕不能審理與自己存在利益關聯案件之拉丁法諺係：",
           "options": [
-            "任何人不得在自己的案件中擔任法官 (vs Natural Justice U31)",
-            "法官可以任意接受饋贈 (vs Natural Justice U31)",
-            "法官可以自告自審 (vs Natural Justice U31)",
-            "法官無須迴避利益衝突 (vs Natural Justice U31)"
+            "任何人不得在自己的案件中擔任法官 (standard target expression for Jurisprudence   Ethics)",
+            "法官可以任意接受饋贈 (contextual contrast form in Jurisprudence   Ethics)",
+            "法官可以自告自審 (formal register distinction for Jurisprudence   Ethics)",
+            "法官無須迴避利益衝突 (colloquial conversational usage for Jurisprudence   Ethics)"
           ],
           "answerIndex": 0,
           "explanation": "「Nemo judex in causa sua」為確保司法公正無偏頗之第一自然正義鐵律。"
@@ -13157,10 +13157,10 @@
         {
           "prompt": "【法學流派】主張法律之上存在著永恆客觀之道德與理性法則、非正義之法律並非真正法律之學派係：",
           "options": [
-            "自然法學派 (vs Natural Justice U31)",
-            "純粹強權論 (vs Natural Justice U31)",
-            "虛無主義派 (vs Natural Justice U31)",
-            "商業至上派 (vs Natural Justice U31)"
+            "自然法學派 (standard target expression for Jurisprudence   Ethics)",
+            "純粹強權論 (contextual contrast form in Jurisprudence   Ethics)",
+            "虛無主義派 (formal register distinction for Jurisprudence   Ethics)",
+            "商業至上派 (colloquial conversational usage for Jurisprudence   Ethics)"
           ],
           "answerIndex": 0,
           "explanation": "「自然法學派（Natural Law）」將道德正義與理性視為檢驗法律正當性之最高標準。"
@@ -13173,10 +13173,10 @@
           "type": "multiple-choice",
           "prompt": "【法治名言】普通法體系中強調審判程序必須公開透明、公眾必須能夠直觀感受正義得以落實之世界名言係：",
           "options": [
-            "正義不僅要得到實現，而且要以讓人看得見的方式實現 (vs Natural Justice U31)",
-            "正義可以秘密暗中達成 (vs Natural Justice U31)",
-            "審判結果無須向公眾說明 (vs Natural Justice U31)",
-            "只要目的正確可以不擇手段 (vs Natural Justice U31)"
+            "正義不僅要得到實現，而且要以讓人看得見的方式實現 (standard target expression for Jurisprudence   Ethics)",
+            "正義可以秘密暗中達成 (contextual contrast form in Jurisprudence   Ethics)",
+            "審判結果無須向公眾說明 (formal register distinction for Jurisprudence   Ethics)",
+            "只要目的正確可以不擇手段 (colloquial conversational usage for Jurisprudence   Ethics)"
           ],
           "answerIndex": 0,
           "explanation": "此名言精闢闡明了程序正義（Procedural Justice）對於公眾建立法治信心之不可替代價值。"
@@ -13224,10 +13224,10 @@
         {
           "prompt": "【辯論策略】在辯論中利用對方所提出的論據推導出對方自身論點自相矛盾之經典反駁技法係：",
           "options": [
-            "以子之矛，攻子之盾 (Core concept key phrasing)",
-            "直接人身攻擊 (Core concept alternative form)",
-            "大聲喧嘩打斷 (Core concept alternative form)",
-            "承認對方全對 (Core concept alternative form)"
+            "以子之矛，攻子之盾 (standard target expression for Debate   Argumentation)",
+            "直接人身攻擊 (contextual contrast form in Debate   Argumentation)",
+            "大聲喧嘩打斷 (formal register distinction for Debate   Argumentation)",
+            "承認對方全對 (colloquial conversational usage for Debate   Argumentation)"
           ],
           "answerIndex": 0,
           "explanation": "「以子之矛，攻子之盾」為辯論攻防中直擊對方邏輯自洽性漏洞之最高效招式。"
@@ -13239,10 +13239,10 @@
         {
           "prompt": "【立論架構】在辯論開篇環節，確立全場論辯評判依據與核心價值導向之環節稱為：",
           "options": [
-            "確立評判標準 (Core concept alternative form)",
-            "隨意講笑話 (Core concept alternative form)",
-            "朗讀課文 (Core concept alternative form)",
-            "宣布比賽結束 (Core concept alternative form)"
+            "確立評判標準 (standard target expression for Debate   Argumentation)",
+            "隨意講笑話 (contextual contrast form in Debate   Argumentation)",
+            "朗讀課文 (formal register distinction for Debate   Argumentation)",
+            "宣布比賽結束 (colloquial conversational usage for Debate   Argumentation)"
           ],
           "answerIndex": 0,
           "explanation": "「評判標準（Criteria）」為政策與價值辯論中決定勝負判定之核心坐標軸。"
@@ -13255,10 +13255,10 @@
           "type": "multiple-choice",
           "prompt": "【反駁方法】假定對方荒謬的主張為真、進而順著其邏輯推導出顯然荒謬絕倫之結論以反證其錯誤之邏輯方法係：",
           "options": [
-            "歸謬法 (Core concept key phrasing)",
-            "循環論證 (Core concept alternative form)",
-            "強詞奪理 (Core concept alternative form)",
-            "無效枚舉 (Core concept alternative form)"
+            "歸謬法 (standard target expression for Debate   Argumentation)",
+            "循環論證 (contextual contrast form in Debate   Argumentation)",
+            "強詞奪理 (formal register distinction for Debate   Argumentation)",
+            "無效枚舉 (colloquial conversational usage for Debate   Argumentation)"
           ],
           "answerIndex": 0,
           "explanation": "「歸謬法（Reductio ad absurdum）」為邏輯學與辯論學中極具殺傷力之反駁利器。"
@@ -13306,10 +13306,10 @@
         {
           "prompt": "【邏輯謬誤】曲解或誇大對方觀點、樹立一個虛假極端靶子進行猛烈抨擊之邏輯謬誤稱為：",
           "options": [
-            "稻草人謬誤 (Core concept key phrasing)",
-            "嚴密三段論 (Core concept alternative form)",
-            "客觀全面分析 (Core concept alternative form)",
-            "實事求是舉證 (Core concept alternative form)"
+            "稻草人謬誤 (standard target expression for Logical Fallacies Analysis)",
+            "嚴密三段論 (contextual contrast form in Logical Fallacies Analysis)",
+            "客觀全面分析 (formal register distinction for Logical Fallacies Analysis)",
+            "實事求是舉證 (colloquial conversational usage for Logical Fallacies Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "「稻草人謬誤（Straw Man Fallacy）」為論辯中歪曲對手立場最常見之形式。"
@@ -13321,10 +13321,10 @@
         {
           "prompt": "【批判思維】在論證中不反駁對方論點論據、而是直接針對論者個人道德人品或出身背景進行攻擊之謬誤係：",
           "options": [
-            "訴諸人身謬誤 (Core concept alternative form)",
-            "歸納邏輯 (Core concept alternative form)",
-            "演繹推理 (Core concept alternative form)",
-            "實證檢驗 (Core concept alternative form)"
+            "訴諸人身謬誤 (standard target expression for Logical Fallacies Analysis)",
+            "歸納邏輯 (contextual contrast form in Logical Fallacies Analysis)",
+            "演繹推理 (formal register distinction for Logical Fallacies Analysis)",
+            "實證檢驗 (colloquial conversational usage for Logical Fallacies Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "「訴諸人身（Ad Hominem）」屬於典型的轉移論題與關聯性謬誤。"
@@ -13337,10 +13337,10 @@
           "type": "multiple-choice",
           "prompt": "【邏輯推演】無合理中間因果鏈條支持、斷言採取微小一步必然導致極端崩潰毀滅之後果之謬誤係：",
           "options": [
-            "滑坡謬誤 (Core concept key phrasing)",
-            "精確數學模型 (Core concept alternative form)",
-            "嚴謹概率統計 (Core concept alternative form)",
-            "反證法推理 (Core concept alternative form)"
+            "滑坡謬誤 (standard target expression for Logical Fallacies Analysis)",
+            "精確數學模型 (contextual contrast form in Logical Fallacies Analysis)",
+            "嚴謹概率統計 (formal register distinction for Logical Fallacies Analysis)",
+            "反證法推理 (colloquial conversational usage for Logical Fallacies Analysis)"
           ],
           "answerIndex": 0,
           "explanation": "「滑坡謬誤（Slippery Slope）」透過無限誇大因果連鎖反應製造非理性恐慌。"
@@ -13388,10 +13388,10 @@
         {
           "prompt": "【修辭三要素】亞里士多德修辭學中指演說者透過自身誠信、專業聲譽與道德威望贏得聽眾信任之要素係：",
           "options": [
-            "品格說服力 (EthosPathosLogos U32)",
-            "單純靠聲音大 (EthosPathosLogos U32)",
-            "炫耀財富 (EthosPathosLogos U32)",
-            "威脅恐嚇 (EthosPathosLogos U32)"
+            "品格說服力 (standard target expression for Aristotelian Rhetoric)",
+            "單純靠聲音大 (contextual contrast form in Aristotelian Rhetoric)",
+            "炫耀財富 (formal register distinction for Aristotelian Rhetoric)",
+            "威脅恐嚇 (colloquial conversational usage for Aristotelian Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "「Ethos（品格說服力）」為確立演說者信譽與道德正當性之第一基石。"
@@ -13403,10 +13403,10 @@
         {
           "prompt": "【演說技藝】公共演講中連用三個或以上結構相同、語氣一致的對稱句子以增強說服氣勢之修辭手法係：",
           "options": [
-            "排比 (EthosPathosLogos U32)",
-            "語無倫次 (EthosPathosLogos U32)",
-            "重複單詞十次 (EthosPathosLogos U32)",
-            "小聲耳語 (EthosPathosLogos U32)"
+            "排比 (standard target expression for Aristotelian Rhetoric)",
+            "語無倫次 (contextual contrast form in Aristotelian Rhetoric)",
+            "重複單詞十次 (formal register distinction for Aristotelian Rhetoric)",
+            "小聲耳語 (colloquial conversational usage for Aristotelian Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "「排比（Parallelism）」為演說中營造磅礴氣勢與鮮明節奏之標誌性修辭工具。"
@@ -13419,10 +13419,10 @@
           "type": "multiple-choice",
           "prompt": "【演講要素】在古典修辭學中，主要透過無可辯駁的客觀數據、實證事實與嚴密邏輯推理進行說服之要素係：",
           "options": [
-            "理性邏輯 (EthosPathosLogos U32)",
-            "虛構謠言 (EthosPathosLogos U32)",
-            "盲目迷信 (EthosPathosLogos U32)",
-            "純粹情緒宣洩 (EthosPathosLogos U32)"
+            "理性邏輯 (standard target expression for Aristotelian Rhetoric)",
+            "虛構謠言 (contextual contrast form in Aristotelian Rhetoric)",
+            "盲目迷信 (formal register distinction for Aristotelian Rhetoric)",
+            "純粹情緒宣洩 (colloquial conversational usage for Aristotelian Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "「Logos（理性邏輯）」為一切嚴謹論證與演說中最不可撼動之理性支柱。"
@@ -13470,10 +13470,10 @@
         {
           "prompt": "【危機溝通】在突發公共危機中，機構新聞發言人所必須恪守的第一核心原則係：",
           "options": [
-            "第一時間主動公開透明通報真實情況 (Core concept alternative form)",
-            "封鎖一切消息 (Core concept alternative form)",
-            "長期保持沉默不予理睬 (Core concept alternative form)",
-            "推卸責任給受害者 (Core concept alternative form)"
+            "第一時間主動公開透明通報真實情況 (standard target expression for Crisis Communication   Press Conferences)",
+            "封鎖一切消息 (contextual contrast form in Crisis Communication   Press Conferences)",
+            "長期保持沉默不予理睬 (formal register distinction for Crisis Communication   Press Conferences)",
+            "推卸責任給受害者 (colloquial conversational usage for Crisis Communication   Press Conferences)"
           ],
           "answerIndex": 0,
           "explanation": "「第一時間主動公開」為危機公關中贏得公眾信任、遏制謠言蔓延之第一黃金鐵律。"
@@ -13485,10 +13485,10 @@
         {
           "prompt": "【答問技巧】發言人在面對偏頗或陷阱提問時、將話題順暢引導回機構核心信息與關鍵事實之公關技巧係：",
           "options": [
-            "橋接法 (Core concept key phrasing)",
-            "憤怒離場 (Core concept alternative form)",
-            "當場辱罵記者 (Core concept alternative form)",
-            "編造虛假謊言 (Core concept alternative form)"
+            "橋接法 (standard target expression for Crisis Communication   Press Conferences)",
+            "憤怒離場 (contextual contrast form in Crisis Communication   Press Conferences)",
+            "當場辱罵記者 (formal register distinction for Crisis Communication   Press Conferences)",
+            "編造虛假謊言 (colloquial conversational usage for Crisis Communication   Press Conferences)"
           ],
           "answerIndex": 0,
           "explanation": "「橋接法（Bridging）」為新聞發言人掌控發布會主導權之核心專業技能。"
@@ -13501,10 +13501,10 @@
           "type": "multiple-choice",
           "prompt": "【公關目的】高水平公共政策溝通與危機新聞發布會之最終核心歸宿在於：",
           "options": [
-            "化解公眾疑慮、保障市民知情權並凝聚全社會廣泛共識 (Core concept alternative form)",
-            "單純掩蓋機構失誤 (Core concept alternative form)",
-            "忽悠欺騙公眾 (Core concept alternative form)",
-            "展示官僚傲慢 (Core concept alternative form)"
+            "化解公眾疑慮、保障市民知情權並凝聚全社會廣泛共識 (standard target expression for Crisis Communication   Press Conferences)",
+            "單純掩蓋機構失誤 (contextual contrast form in Crisis Communication   Press Conferences)",
+            "忽悠欺騙公眾 (formal register distinction for Crisis Communication   Press Conferences)",
+            "展示官僚傲慢 (colloquial conversational usage for Crisis Communication   Press Conferences)"
           ],
           "answerIndex": 0,
           "explanation": "保障公眾知情權與凝聚社會共識係現代公共政策溝通之根本價值。"
@@ -13552,10 +13552,10 @@
         {
           "prompt": "【演說魅力】重大歷史名篇演說之所以能夠穿越漫長歷史時空依然震撼人心的根本原因在於：",
           "options": [
-            "具備崇高思想引領、強烈時代號召力與深厚人文情懷 (Core concept alternative form)",
-            "單純堆砌華麗辭藻 (Core concept alternative form)",
-            "聲音調至最高分貝 (Core concept alternative form)",
-            "迎合庸俗低級趣味 (Core concept alternative form)"
+            "具備崇高思想引領、強烈時代號召力與深厚人文情懷 (standard target expression for Historic Speeches   Master Oratory)",
+            "單純堆砌華麗辭藻 (contextual contrast form in Historic Speeches   Master Oratory)",
+            "聲音調至最高分貝 (formal register distinction for Historic Speeches   Master Oratory)",
+            "迎合庸俗低級趣味 (colloquial conversational usage for Historic Speeches   Master Oratory)"
           ],
           "answerIndex": 0,
           "explanation": "崇高思想價值與時代精神號召係歷史名篇演說永恆生命力之所在。"
@@ -13567,10 +13567,10 @@
         {
           "prompt": "【歷史名篇】1923年在香港大學發表演說、深情回顧求學歲月並指出其思想得自香港之近代偉人係：",
           "options": [
-            "孫中山先生 (Core concept key phrasing)",
-            "愛迪生 (Core concept alternative form)",
-            "牛頓 (Core concept alternative form)",
-            "達爾文 (Core concept alternative form)"
+            "孫中山先生 (standard target expression for Historic Speeches   Master Oratory)",
+            "愛迪生 (contextual contrast form in Historic Speeches   Master Oratory)",
+            "牛頓 (formal register distinction for Historic Speeches   Master Oratory)",
+            "達爾文 (colloquial conversational usage for Historic Speeches   Master Oratory)"
           ],
           "answerIndex": 0,
           "explanation": "孫中山先生於1923年在港大的歷史演說是香港近代史上的標誌性事件。"
@@ -13583,10 +13583,10 @@
           "type": "multiple-choice",
           "prompt": "【演說評價】形容一篇演說論點宏大、立意高遠、氣勢磅礴且極具感染力之經典成語係：",
           "options": [
-            "高瞻遠矚、氣貫長虹 (Core concept key phrasing)",
-            "鼠目寸光 (Core concept alternative form)",
-            "言之無物 (Core concept alternative form)",
-            "無病呻吟 (Core concept alternative form)"
+            "高瞻遠矚、氣貫長虹 (standard target expression for Historic Speeches   Master Oratory)",
+            "鼠目寸光 (contextual contrast form in Historic Speeches   Master Oratory)",
+            "言之無物 (formal register distinction for Historic Speeches   Master Oratory)",
+            "無病呻吟 (colloquial conversational usage for Historic Speeches   Master Oratory)"
           ],
           "answerIndex": 0,
           "explanation": "「高瞻遠矚、氣貫長虹」常用於評價傳世歷史名篇演說之崇高境界與雄渾氣魄。"
@@ -13634,10 +13634,10 @@
         {
           "prompt": "【廣府建築】嶺南傳統民居中狀如鑊耳、具備防火防風實用功能且象徵獨佔鰲頭之特色山牆稱為：",
           "options": [
-            "鑊耳屋 / 鑊耳封火山牆 (Core concept alternative form)",
-            "哥特式尖頂 (Core concept alternative form)",
-            "羅馬圓形穹頂 (Core concept alternative form)",
-            "茅草圓錐頂 (Core concept alternative form)"
+            "鑊耳屋 / 鑊耳封火山牆 (standard target expression for Cantonese Vernacular Architecture)",
+            "哥特式尖頂 (contextual contrast form in Cantonese Vernacular Architecture)",
+            "羅馬圓形穹頂 (formal register distinction for Cantonese Vernacular Architecture)",
+            "茅草圓錐頂 (colloquial conversational usage for Cantonese Vernacular Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "「鑊耳封火山牆」為嶺南廣府民居最具標誌性與辨識度之傳統建築符號。"
@@ -13649,10 +13649,10 @@
         {
           "prompt": "【通風智慧】嶺南民居利用狹窄通道與天井高差加速室內熱空氣排出、引入涼風之生態通風構造係：",
           "options": [
-            "天井與冷巷 (Core concept alternative form)",
-            "全封閉玻璃幕牆 (Core concept alternative form)",
-            "地下密閉地窖 (Core concept alternative form)",
-            "加厚實心牆體 (Core concept alternative form)"
+            "天井與冷巷 (standard target expression for Cantonese Vernacular Architecture)",
+            "全封閉玻璃幕牆 (contextual contrast form in Cantonese Vernacular Architecture)",
+            "地下密閉地窖 (formal register distinction for Cantonese Vernacular Architecture)",
+            "加厚實心牆體 (colloquial conversational usage for Cantonese Vernacular Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "「冷巷」利用狹管效應（Venturi Effect）與拔風對流，為濕熱嶺南提供天然降溫空調。"
@@ -13665,10 +13665,10 @@
           "type": "multiple-choice",
           "prompt": "【生態適應】嶺南傳統民居建築在構造上最核心之整體設計指導哲學係：",
           "options": [
-            "因地制宜、遮陽隔熱、導風散熱與防潮排濕 (Core concept alternative form)",
-            "單純模仿北方防寒厚牆 (Core concept alternative form)",
-            "完全忽略本地濕熱氣候 (Core concept alternative form)",
-            "只追求形式奢華浪費 (Core concept alternative form)"
+            "因地制宜、遮陽隔熱、導風散熱與防潮排濕 (standard target expression for Cantonese Vernacular Architecture)",
+            "單純模仿北方防寒厚牆 (contextual contrast form in Cantonese Vernacular Architecture)",
+            "完全忽略本地濕熱氣候 (formal register distinction for Cantonese Vernacular Architecture)",
+            "只追求形式奢華浪費 (colloquial conversational usage for Cantonese Vernacular Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "因地制宜適應濕熱氣候係嶺南傳統建築最寶貴之生態建築智慧。"
@@ -13716,10 +13716,10 @@
         {
           "prompt": "【名園名言】番禺餘蔭山房在有限的三畝土地內創造出極其開闊深遠之山水層次，其最著名之造園格言係：",
           "options": [
-            "縮龍成寸，小中見大 (Core concept key phrasing)",
-            "大興土木，耗資巨萬 (Core concept alternative form)",
-            "全盤西化，照抄洋樓 (Core concept alternative form)",
-            "寸草不生，鋪滿水泥 (Core concept alternative form)"
+            "縮龍成寸，小中見大 (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "大興土木，耗資巨萬 (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "全盤西化，照抄洋樓 (formal register distinction for Unit 33 Lesson 2 target grammar)",
+            "寸草不生，鋪滿水泥 (colloquial conversational usage for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「縮龍成寸，小中見大」為嶺南園林在方寸之間營造萬千氣象之核心造園哲學。"
@@ -13731,10 +13731,10 @@
         {
           "prompt": "【園林構件】嶺南園林中將西洋彩色玻璃與傳統木格扇巧妙結合、呈現絢麗光影效果之標誌性窗櫺裝飾係：",
           "options": [
-            "滿洲窗 (Core concept key phrasing)",
-            "普通塑料窗 (Core concept alternative form)",
-            "鋁合金推拉窗 (Core concept alternative form)",
-            "鋼化防盜窗 (Core concept alternative form)"
+            "滿洲窗 (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "普通塑料窗 (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "鋁合金推拉窗 (formal register distinction for Unit 33 Lesson 2 target grammar)",
+            "鋼化防盜窗 (colloquial conversational usage for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「滿洲窗」為嶺南園林中西文化交融與光影美學之璀璨明珠。"
@@ -13747,10 +13747,10 @@
           "type": "multiple-choice",
           "prompt": "【名園總攬】以下哪一組完全屬於中國著名的「嶺南四大名園」：",
           "options": [
-            "順德清暉園、番禺餘蔭山房、佛山梁園、東莞可園 (Core concept alternative form)",
-            "拙政園、留園、網師園、滄浪亭 (Core concept alternative form)",
-            "頤和園、圓明園、避暑山莊、北海公園 (Core concept alternative form)",
-            "凡爾賽宮、楓丹白露、無憂宮、冬宮 (Core concept alternative form)"
+            "順德清暉園、番禺餘蔭山房、佛山梁園、東莞可園 (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "拙政園、留園、網師園、滄浪亭 (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "頤和園、圓明園、避暑山莊、北海公園 (formal register distinction for Unit 33 Lesson 2 target grammar)",
+            "凡爾賽宮、楓丹白露、無憂宮、冬宮 (colloquial conversational usage for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "清暉園、餘蔭山房、梁園、可園合稱為嶺南古典園林之四大代表瑰寶。"
@@ -13798,10 +13798,10 @@
         {
           "prompt": "【建築工藝】以石灰、礦物顏料及植物纖維為原料、在嶺南古建築屋脊與山牆上立體堆塑之耐風雨傳統工藝係：",
           "options": [
-            "灰塑 / 灰批 (Core concept alternative form)",
-            "普通水泥塗抹 (Core concept alternative form)",
-            "油漆塗鴉 (Core concept alternative form)",
-            "石膏翻模 (Core concept alternative form)"
+            "灰塑 / 灰批 (standard target expression for Lingnan Architectural Decorative Arts)",
+            "普通水泥塗抹 (contextual contrast form in Lingnan Architectural Decorative Arts)",
+            "油漆塗鴉 (formal register distinction for Lingnan Architectural Decorative Arts)",
+            "石膏翻模 (colloquial conversational usage for Lingnan Architectural Decorative Arts)"
           ],
           "answerIndex": 0,
           "explanation": "「灰塑」為嶺南古建屋脊抵禦亞熱帶狂風暴雨侵蝕之獨門傳統工藝。"
@@ -13813,10 +13813,10 @@
         {
           "prompt": "【古建明珠】匯聚木雕、石雕、磚雕、灰塑、陶塑、嵌瓷等全部工藝精華、被譽為嶺南建築裝飾藝術明珠之廣州古蹟係：",
           "options": [
-            "陳家祠 / 陳氏書院 (Core concept alternative form)",
-            "黃埔軍校舊址 (Core concept alternative form)",
-            "廣州電視塔 (Core concept alternative form)",
-            "天河體育中心 (Core concept alternative form)"
+            "陳家祠 / 陳氏書院 (standard target expression for Lingnan Architectural Decorative Arts)",
+            "黃埔軍校舊址 (contextual contrast form in Lingnan Architectural Decorative Arts)",
+            "廣州電視塔 (formal register distinction for Lingnan Architectural Decorative Arts)",
+            "天河體育中心 (colloquial conversational usage for Lingnan Architectural Decorative Arts)"
           ],
           "answerIndex": 0,
           "explanation": "廣州陳家祠為嶺南傳統民間建築裝飾藝術最高成就之集大成者。"
@@ -13829,10 +13829,10 @@
           "type": "multiple-choice",
           "prompt": "【工藝特點】將廢棄或特製的彩色瓷片精確剪裁後拼貼於屋脊龍鳳花鳥飾物上之傳統屋頂裝飾工藝稱為：",
           "options": [
-            "嵌瓷 / 剪瓷雕 (Core concept alternative form)",
-            "單純玻璃鋼翻制 (Core concept alternative form)",
-            "普通彩繪木板 (Core concept alternative form)",
-            "金屬鍍膜 (Core concept alternative form)"
+            "嵌瓷 / 剪瓷雕 (standard target expression for Lingnan Architectural Decorative Arts)",
+            "單純玻璃鋼翻制 (contextual contrast form in Lingnan Architectural Decorative Arts)",
+            "普通彩繪木板 (formal register distinction for Lingnan Architectural Decorative Arts)",
+            "金屬鍍膜 (colloquial conversational usage for Lingnan Architectural Decorative Arts)"
           ],
           "answerIndex": 0,
           "explanation": "「嵌瓷（剪瓷雕）」為潮汕及嶺南地區傲立屋頂風雨百年不褪色之精湛非遺工藝。"
@@ -13880,10 +13880,10 @@
         {
           "prompt": "【香港建築】香港近代典型街道景觀中下層形成通廊人行步道、上居下舖之嶺南中西混合商住建築稱為：",
           "options": [
-            "唐樓與騎樓底 (Core concept key phrasing)",
-            "現代玻璃超高層 (Core concept alternative form)",
-            "野營帆布帳篷 (Core concept alternative form)",
-            "單純地下防空洞 (Core concept alternative form)"
+            "唐樓與騎樓底 (standard target expression for HK Historic Buildings   Shophouses)",
+            "現代玻璃超高層 (contextual contrast form in HK Historic Buildings   Shophouses)",
+            "野營帆布帳篷 (formal register distinction for HK Historic Buildings   Shophouses)",
+            "單純地下防空洞 (colloquial conversational usage for HK Historic Buildings   Shophouses)"
           ],
           "answerIndex": 0,
           "explanation": "「唐樓與騎樓底」為香港十九世紀末至戰前最核心之城市街區形態特徵。"
@@ -13895,10 +13895,10 @@
         {
           "prompt": "【古蹟活化】香港深水埗荔枝角道交界、由雷氏家族捐出並成功活化為浸會大學中醫藥保健中心之名建築係：",
           "options": [
-            "雷生春 (Core concept key phrasing)",
-            "中環怡和大廈 (Core concept alternative form)",
-            "環球貿易廣場ICC (Core concept alternative form)",
-            "香港摩天輪 (Core concept alternative form)"
+            "雷生春 (standard target expression for HK Historic Buildings   Shophouses)",
+            "中環怡和大廈 (contextual contrast form in HK Historic Buildings   Shophouses)",
+            "環球貿易廣場ICC (formal register distinction for HK Historic Buildings   Shophouses)",
+            "香港摩天輪 (colloquial conversational usage for HK Historic Buildings   Shophouses)"
           ],
           "answerIndex": 0,
           "explanation": "「雷生春堂」為香港歷史建築活化保育最著名的成功示範標杆之一。"
@@ -13911,10 +13911,10 @@
           "type": "multiple-choice",
           "prompt": "【保育理念】現代城市可持續規劃中對待老舊歷史建築群最進步之保護保育理念係：",
           "options": [
-            "有機活化、保留歷史肌理並注入現代社區生命力 (Core concept alternative form)",
-            "全盤推倒夷為平地起豪宅 (Core concept alternative form)",
-            "全封閉鎖死禁止任何人進入 (Core concept alternative form)",
-            "塗抹劣質油漆遮蓋所有痕跡 (Core concept alternative form)"
+            "有機活化、保留歷史肌理並注入現代社區生命力 (standard target expression for HK Historic Buildings   Shophouses)",
+            "全盤推倒夷為平地起豪宅 (contextual contrast form in HK Historic Buildings   Shophouses)",
+            "全封閉鎖死禁止任何人進入 (formal register distinction for HK Historic Buildings   Shophouses)",
+            "塗抹劣質油漆遮蓋所有痕跡 (colloquial conversational usage for HK Historic Buildings   Shophouses)"
           ],
           "answerIndex": 0,
           "explanation": "「有機活化保育」在保留歷史記憶與文脈的同時賦予古建築現代實用功能。"
@@ -13962,10 +13962,10 @@
         {
           "prompt": "【現代建築】廣州白天鵝賓館在中庭內首創、將嶺南傳統水石園林搬入現代五星級酒店之著名室內景觀係：",
           "options": [
-            "故鄉水 (Core concept key phrasing)",
-            "人工真雪滑雪場 (Core concept alternative form)",
-            "室內高速賽車道 (Core concept alternative form)",
-            "巨型金屬旋轉木馬 (Core concept alternative form)"
+            "故鄉水 (standard target expression for Modern Lingnan Urbanism)",
+            "人工真雪滑雪場 (contextual contrast form in Modern Lingnan Urbanism)",
+            "室內高速賽車道 (formal register distinction for Modern Lingnan Urbanism)",
+            "巨型金屬旋轉木馬 (colloquial conversational usage for Modern Lingnan Urbanism)"
           ],
           "answerIndex": 0,
           "explanation": "白天鵝賓館「故鄉水」室內園林為現代嶺南建築與鄉愁意象融合之世界經典。"
@@ -13977,10 +13977,10 @@
         {
           "prompt": "【建築大師】設計上海世博會中國館（東方之冠）、侵華日軍南京大屠殺遇難同胞紀念館擴建之現代嶺南學派院士建築師係：",
           "options": [
-            "何鏡堂院士 (Core concept key phrasing)",
-            "貝聿銘 (Core concept alternative form)",
-            "梁思成 (Core concept alternative form)",
-            "林徽因 (Core concept alternative form)"
+            "何鏡堂院士 (standard target expression for Modern Lingnan Urbanism)",
+            "貝聿銘 (contextual contrast form in Modern Lingnan Urbanism)",
+            "梁思成 (formal register distinction for Modern Lingnan Urbanism)",
+            "林徽因 (colloquial conversational usage for Modern Lingnan Urbanism)"
           ],
           "answerIndex": 0,
           "explanation": "何鏡堂院士為當代嶺南建築學派旗幟性人物及中國工程院院士。"
@@ -13993,10 +13993,10 @@
           "type": "multiple-choice",
           "prompt": "【規劃哲學】現代嶺南建築學派在城市空間與建築設計中最核心之空間哲學特徵係：",
           "options": [
-            "空間通透、庭園交融、在地氣候主動適應與天人合一 (Core concept alternative form)",
-            "全封閉單一火柴盒結構 (Core concept alternative form)",
-            "完全脫離周圍自然環境 (Core concept alternative form)",
-            "徹底封閉不通風無採光 (Core concept alternative form)"
+            "空間通透、庭園交融、在地氣候主動適應與天人合一 (standard target expression for Modern Lingnan Urbanism)",
+            "全封閉單一火柴盒結構 (contextual contrast form in Modern Lingnan Urbanism)",
+            "完全脫離周圍自然環境 (formal register distinction for Modern Lingnan Urbanism)",
+            "徹底封閉不通風無採光 (colloquial conversational usage for Modern Lingnan Urbanism)"
           ],
           "answerIndex": 0,
           "explanation": "空間通透、庭園交融與在地氣候適應係現代嶺南建築學派立足世界建築之林的根本靈魂。"
@@ -14044,10 +14044,10 @@
         {
           "prompt": "【國際法原則】《維也納條約法公約》中規定有效條約對締約國具有絕對法律約束力、必須善意履行之拉丁法諺係：",
           "options": [
-            "約定必須遵守 (VCLT U34)",
-            "強權即是真理 (VCLT U34)",
-            "條約隨時可以單方作廢 (VCLT U34)",
-            "口頭承諾無須遵守 (VCLT U34)"
+            "約定必須遵守 (standard target expression for Treaty Law   Ratification)",
+            "強權即是真理 (contextual contrast form in Treaty Law   Ratification)",
+            "條約隨時可以單方作廢 (formal register distinction for Treaty Law   Ratification)",
+            "口頭承諾無須遵守 (colloquial conversational usage for Treaty Law   Ratification)"
           ],
           "answerIndex": 0,
           "explanation": "「約定必須遵守（Pacta sunt servanda）」為國際公法與國際條約法體系中最高級別之根本鐵律。"
@@ -14059,10 +14059,10 @@
         {
           "prompt": "【締約程序】國家元首或外長出具證明代表享有合法權限談判並簽署國際條約之法定權力憑證係：",
           "options": [
-            "全權證書 (VCLT U34)",
-            "普通商業名片 (VCLT U34)",
-            "私人推薦信 (VCLT U34)",
-            "口頭自我介紹 (VCLT U34)"
+            "全權證書 (standard target expression for Treaty Law   Ratification)",
+            "普通商業名片 (contextual contrast form in Treaty Law   Ratification)",
+            "私人推薦信 (formal register distinction for Treaty Law   Ratification)",
+            "口頭自我介紹 (colloquial conversational usage for Treaty Law   Ratification)"
           ],
           "answerIndex": 0,
           "explanation": "「全權證書（Full Powers）」為代表主權國家締結國際條約之法定必要憑證。"
@@ -14075,10 +14075,10 @@
           "type": "multiple-choice",
           "prompt": "【條約生效】一項多邊國際公約在完成簽署後、在國際法層面正式對締約國產生法律約束力之關鍵法律行為係：",
           "options": [
-            "批准並交存批准書 (VCLT U34)",
-            "單純在新聞上口頭宣布 (VCLT U34)",
-            "未經批准私下存放 (VCLT U34)",
-            "拒絕履行任何手續 (VCLT U34)"
+            "批准並交存批准書 (standard target expression for Treaty Law   Ratification)",
+            "單純在新聞上口頭宣布 (contextual contrast form in Treaty Law   Ratification)",
+            "未經批准私下存放 (formal register distinction for Treaty Law   Ratification)",
+            "拒絕履行任何手續 (colloquial conversational usage for Treaty Law   Ratification)"
           ],
           "answerIndex": 0,
           "explanation": "國內立法機關批准並向條約保存機關交存批准書係多邊條約對國家正式生效之法定要件。"
@@ -14126,10 +14126,10 @@
         {
           "prompt": "【多邊外交】在國際會議中當本國立場遭到他國代表歪曲指責時、代表團請求大會主席給予發言機會進行反駁之法定外交權利係：",
           "options": [
-            "答辯權 (Core concept key phrasing)",
-            "直接離場抗議 (Core concept alternative form)",
-            "當場大聲喧嘩 (Core concept alternative form)",
-            "永久保持沉默 (Core concept alternative form)"
+            "答辯權 (standard target expression for UNGA Multilateral Debate)",
+            "直接離場抗議 (contextual contrast form in UNGA Multilateral Debate)",
+            "當場大聲喧嘩 (formal register distinction for UNGA Multilateral Debate)",
+            "永久保持沉默 (colloquial conversational usage for UNGA Multilateral Debate)"
           ],
           "answerIndex": 0,
           "explanation": "「答辯權（Right of Reply）」為聯合國大會及各大多邊外交論壇中捍衛國家尊嚴與立場之標準法定程序權利。"
@@ -14141,10 +14141,10 @@
         {
           "prompt": "【表決機制】聯合國大會決議草案在無任何代表團提出異議、無需付諸投票表決而一致通過之最高級別通過方式係：",
           "options": [
-            "協商一致通過 (Core concept alternative form)",
-            "少數服從多數勉強通過 (Core concept alternative form)",
-            "抽籤決定 (Core concept alternative form)",
-            "主席一人專斷 (Core concept alternative form)"
+            "協商一致通過 (standard target expression for UNGA Multilateral Debate)",
+            "少數服從多數勉強通過 (contextual contrast form in UNGA Multilateral Debate)",
+            "抽籤決定 (formal register distinction for UNGA Multilateral Debate)",
+            "主席一人專斷 (colloquial conversational usage for UNGA Multilateral Debate)"
           ],
           "answerIndex": 0,
           "explanation": "「協商一致（Consensus）」代表了國際社會全體成員之最高政治共識。"
@@ -14157,10 +14157,10 @@
           "type": "multiple-choice",
           "prompt": "【議事規則】在多邊會議進行中代表針對主持程序或發言規則是否合規當場打斷並要求主席裁決之程序工具係：",
           "options": [
-            "程序問題 (Core concept key phrasing)",
-            "私人聊天 (Core concept alternative form)",
-            "廣告宣傳 (Core concept alternative form)",
-            "無效抱怨 (Core concept alternative form)"
+            "程序問題 (standard target expression for UNGA Multilateral Debate)",
+            "私人聊天 (contextual contrast form in UNGA Multilateral Debate)",
+            "廣告宣傳 (formal register distinction for UNGA Multilateral Debate)",
+            "無效抱怨 (colloquial conversational usage for UNGA Multilateral Debate)"
           ],
           "answerIndex": 0,
           "explanation": "「程序問題（Point of Order）」為各國代表糾正會議偏離議事規則之有力法定手段。"
@@ -14208,10 +14208,10 @@
         {
           "prompt": "【國際訴訟】在海牙國際法院訴訟中，被告國在實體問題辯論前主張法院無權審理該案之法定抗辯稱為：",
           "options": [
-            "先決抗辯 / 管轄權異議 (ICJ U34)",
-            "直接認罪認罰 (ICJ U34)",
-            "要求法官全部辭職 (ICJ U34)",
-            "拒絕出庭並撕毀卷宗 (ICJ U34)"
+            "先決抗辯 / 管轄權異議 (standard target expression for ICJ Litigation   Advisory Opinions)",
+            "直接認罪認罰 (contextual contrast form in ICJ Litigation   Advisory Opinions)",
+            "要求法官全部辭職 (formal register distinction for ICJ Litigation   Advisory Opinions)",
+            "拒絕出庭並撕毀卷宗 (colloquial conversational usage for ICJ Litigation   Advisory Opinions)"
           ],
           "answerIndex": 0,
           "explanation": "「先決抗辯（Preliminary Objections）」為阻斷不當國際訴訟、質疑法院管轄權之第一道關鍵司法防線。"
@@ -14223,10 +14223,10 @@
         {
           "prompt": "【判決效力】法院判決一經依法終局作出即具有不容反悔、同一訴訟標的不得重複再審之司法效力稱為：",
           "options": [
-            "確定力 / 既判力 (ICJ U34)",
-            "臨時參考效力 (ICJ U34)",
-            "隨意撤銷權 (ICJ U34)",
-            "無效通知 (ICJ U34)"
+            "確定力 / 既判力 (standard target expression for ICJ Litigation   Advisory Opinions)",
+            "臨時參考效力 (contextual contrast form in ICJ Litigation   Advisory Opinions)",
+            "隨意撤銷權 (formal register distinction for ICJ Litigation   Advisory Opinions)",
+            "無效通知 (colloquial conversational usage for ICJ Litigation   Advisory Opinions)"
           ],
           "answerIndex": 0,
           "explanation": "「確定力（Res Judicata）」為保障司法判決權威性與終局性之根本法律基石。"
@@ -14239,10 +14239,10 @@
           "type": "multiple-choice",
           "prompt": "【法院職能】國際法院除審理國家間爭端外、應聯大或安理會請求就重大法律難題發布權威法律闡釋之形式係：",
           "options": [
-            "諮詢意見 (ICJ U34)",
-            "非公開私人信件 (ICJ U34)",
-            "新聞評論員文章 (ICJ U34)",
-            "匿名社交媒體帖文 (ICJ U34)"
+            "諮詢意見 (standard target expression for ICJ Litigation   Advisory Opinions)",
+            "非公開私人信件 (contextual contrast form in ICJ Litigation   Advisory Opinions)",
+            "新聞評論員文章 (formal register distinction for ICJ Litigation   Advisory Opinions)",
+            "匿名社交媒體帖文 (colloquial conversational usage for ICJ Litigation   Advisory Opinions)"
           ],
           "answerIndex": 0,
           "explanation": "國際法院發布之「諮詢意見（Advisory Opinion）」在國際公法領域享有崇高的權威性與指導價值。"
@@ -14290,10 +14290,10 @@
         {
           "prompt": "【安理會決議】聯合國安理會為應對和平之威脅而採取強制性非軍事制裁或授權軍事行動所依據之《憲章》章節係：",
           "options": [
-            "第七章 (ROE U34)",
-            "第一章 (ROE U34)",
-            "附錄目錄 (ROE U34)",
-            "隨機章節 (ROE U34)"
+            "第七章 (standard target expression for UN Security Council Mandates)",
+            "第一章 (contextual contrast form in UN Security Council Mandates)",
+            "附錄目錄 (formal register distinction for UN Security Council Mandates)",
+            "隨機章節 (colloquial conversational usage for UN Security Council Mandates)"
           ],
           "answerIndex": 0,
           "explanation": "《聯合國憲章》第七章為安理會採取具有強制法律效力維和與制裁行動之唯一憲章授權來源。"
@@ -14305,10 +14305,10 @@
         {
           "prompt": "【制裁保護】安理會實施經濟制裁時特意豁免食品、醫療藥品等基本人道物資以保護無辜平民之機制稱為：",
           "options": [
-            "人道主義豁免 (ROE U34)",
-            "全面封鎖飢餓政策 (ROE U34)",
-            "無差別懲罰 (ROE U34)",
-            "取消一切醫療援助 (ROE U34)"
+            "人道主義豁免 (standard target expression for UN Security Council Mandates)",
+            "全面封鎖飢餓政策 (contextual contrast form in UN Security Council Mandates)",
+            "無差別懲罰 (formal register distinction for UN Security Council Mandates)",
+            "取消一切醫療援助 (colloquial conversational usage for UN Security Council Mandates)"
           ],
           "answerIndex": 0,
           "explanation": "「人道主義豁免」為現代定向精準制裁避免殃及無辜平民生存權益之必備文明條款。"
@@ -14321,10 +14321,10 @@
           "type": "multiple-choice",
           "prompt": "【和平使命】聯合國維持和平部隊（藍盔部隊）在執行維和任務時所必須嚴格恪守之三大傳統核心原則係：",
           "options": [
-            "當事國同意、保持嚴格中立、非自衛不使用武力 (ROE U34)",
-            "主動發動侵略戰爭 (ROE U34)",
-            "全面偏袒單一參戰方 (ROE U34)",
-            "隨意掠奪當地資源 (ROE U34)"
+            "當事國同意、保持嚴格中立、非自衛不使用武力 (standard target expression for UN Security Council Mandates)",
+            "主動發動侵略戰爭 (contextual contrast form in UN Security Council Mandates)",
+            "全面偏袒單一參戰方 (formal register distinction for UN Security Council Mandates)",
+            "隨意掠奪當地資源 (colloquial conversational usage for UN Security Council Mandates)"
           ],
           "answerIndex": 0,
           "explanation": "「當事國同意、中立、自衛使用武力」為聯合國維和行動享譽全球之三大黃金基石。"
@@ -14372,10 +14372,10 @@
         {
           "prompt": "【外交草擬】在國際公報草擬中為化解暫時無法完全調和之分歧、採用兼具多重解讀空間之精妙措辭推動協議簽署之高階技巧係：",
           "options": [
-            "建構性模糊 (Joint CommuniquC2 U34)",
-            "直接掀翻談判桌 (Joint CommuniquC2 U34)",
-            "當場辱罵外國元首 (Joint CommuniquC2 U34)",
-            "完全放棄談判 (Joint CommuniquC2 U34)"
+            "建構性模糊 (standard target expression for Joint Communiqu  Drafting)",
+            "直接掀翻談判桌 (contextual contrast form in Joint Communiqu  Drafting)",
+            "當場辱罵外國元首 (formal register distinction for Joint Communiqu  Drafting)",
+            "完全放棄談判 (colloquial conversational usage for Joint Communiqu  Drafting)"
           ],
           "answerIndex": 0,
           "explanation": "「建構性模糊（Constructive Ambiguity）」為基辛格等外交巨匠在國際條約與公報草擬中化解死結之經典外交藝術。"
@@ -14387,10 +14387,10 @@
         {
           "prompt": "【文本承諾】在國際公報草擬中代表最高級別國家政治與法律義務承諾之標準表述係：",
           "options": [
-            "堅定重申承諾 (Joint CommuniquC2 U34)",
-            "隨便聽聽 (Joint CommuniquC2 U34)",
-            "表示完全不在乎 (Joint CommuniquC2 U34)",
-            "拒絕做任何表態 (Joint CommuniquC2 U34)"
+            "堅定重申承諾 (standard target expression for Joint Communiqu  Drafting)",
+            "隨便聽聽 (contextual contrast form in Joint Communiqu  Drafting)",
+            "表示完全不在乎 (formal register distinction for Joint Communiqu  Drafting)",
+            "拒絕做任何表態 (colloquial conversational usage for Joint Communiqu  Drafting)"
           ],
           "answerIndex": 0,
           "explanation": "「堅定重申承諾（Reiterate firm commitment）」為多邊公報中表達最高國家決心之嚴肅外交辭令。"
@@ -14403,10 +14403,10 @@
           "type": "multiple-choice",
           "prompt": "【課程大成】完成全部一百七十課粵語課程後，學習者所具備之核心語言能力境界係：",
           "options": [
-            "融匯日常市井生活、文史哲學術、法庭辯論及國際多邊外交之全維度高階語言藝術 (Joint CommuniquC2 U34)",
-            "只會說兩句問候語 (Joint CommuniquC2 U34)",
-            "完全無法進行任何專業對話 (Joint CommuniquC2 U34)",
-            "只能閱讀幼兒識字卡片 (Joint CommuniquC2 U34)"
+            "融匯日常市井生活、文史哲學術、法庭辯論及國際多邊外交之全維度高階語言藝術 (standard target expression for Joint Communiqu  Drafting)",
+            "只會說兩句問候語 (contextual contrast form in Joint Communiqu  Drafting)",
+            "完全無法進行任何專業對話 (formal register distinction for Joint Communiqu  Drafting)",
+            "只能閱讀幼兒識字卡片 (colloquial conversational usage for Joint Communiqu  Drafting)"
           ],
           "answerIndex": 0,
           "explanation": "恭喜！您已成功解鎖全部170課粵語高階全域語言學之崇高殿堂！"

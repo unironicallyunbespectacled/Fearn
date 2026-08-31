@@ -823,7 +823,7 @@
           "type": "multiple-choice",
           "prompt": "Which rule explains why «不是» is pronounced [bú shì] rather than [bù shì]?",
           "options": [
-            "The tone sandhi rule of 「不」 changing to 2nd tone before 4th tone (Tone Sandhi  3rd Tone  Y    B item 1)",
+            "The tone sandhi rule of 「不」 changing to 2nd tone before 4th tone (standard target expression for Tone Sandhi  3rd Tone  Y    B)",
             "The 3rd tone sandhi rule",
             "The neutral tone rule",
             "The retroflex rule"
@@ -895,10 +895,10 @@
         {
           "prompt": "Which greeting is the respectful honorific form of \"Hello\" used when addressing a teacher, elder, or client in China?",
           "options": [
-            "您好 (polite)",
-            "你好 (nei5 hou2 - hello)",
-            "晚安 (Daily Greetings   Honorifics item 3)",
-            "再见 (Daily Greetings   Honorifics item 4)"
+            "您好 (standard target expression for Daily Greetings   Honorifics)",
+            "你好 (contextual contrast form in Daily Greetings   Honorifics)",
+            "晚安 (formal register distinction for Daily Greetings   Honorifics)",
+            "再见 (colloquial conversational usage for Daily Greetings   Honorifics)"
           ],
           "answerIndex": 0,
           "explanation": "«您好» (*nín hǎo*) uses the honorific pronoun «您» to express respect."
@@ -906,10 +906,10 @@
         {
           "prompt": "How do students respectfully greet their teacher at the start of class in Chinese?",
           "options": [
-            "老师好！ (Daily Greetings   Honorifics item 1)",
-            "你早！ (casual)",
-            "拜拜！ (Daily Greetings   Honorifics item 3)",
-            "对不起！ (Daily Greetings   Honorifics item 4)"
+            "老师好！ (standard target expression for Daily Greetings   Honorifics)",
+            "你早！ (contextual contrast form in Daily Greetings   Honorifics)",
+            "拜拜！ (formal register distinction for Daily Greetings   Honorifics)",
+            "对不起！ (colloquial conversational usage for Daily Greetings   Honorifics)"
           ],
           "answerIndex": 0,
           "explanation": "«老师好！» (*Lǎoshī hǎo!*) is the standard respectful student-to-teacher greeting."
@@ -921,10 +921,10 @@
         {
           "prompt": "Select the Chinese greeting meaning \"Good morning!\":",
           "options": [
-            "早上好 (Daily Greetings   Honorifics item 1)",
-            "晚上好 (Daily Greetings   Honorifics item 2)",
-            "下午好 (Daily Greetings   Honorifics item 3)",
-            "晚安 (Daily Greetings   Honorifics item 4)"
+            "早上好 (standard target expression for Daily Greetings   Honorifics)",
+            "晚上好 (contextual contrast form in Daily Greetings   Honorifics)",
+            "下午好 (formal register distinction for Daily Greetings   Honorifics)",
+            "晚安 (colloquial conversational usage for Daily Greetings   Honorifics)"
           ],
           "answerIndex": 0,
           "explanation": "«早上好» (*zǎoshang hǎo*) means \"Good morning!\"."
@@ -932,10 +932,10 @@
         {
           "prompt": "When addressing a group of friends or classmates together, which greeting means \"Hello everyone! / Hello you all!\"?",
           "options": [
-            "你们好 / 大家好 (Daily Greetings   Honorifics item 1)",
-            "您好 (polite)",
-            "早 (casual)",
-            "再见 (Daily Greetings   Honorifics item 4)"
+            "你们好 / 大家好 (standard target expression for Daily Greetings   Honorifics)",
+            "您好 (contextual contrast form in Daily Greetings   Honorifics)",
+            "早 (formal register distinction for Daily Greetings   Honorifics)",
+            "再见 (colloquial conversational usage for Daily Greetings   Honorifics)"
           ],
           "answerIndex": 0,
           "explanation": "«你们好» and «大家好» are used for greeting multiple people."
@@ -1020,10 +1020,10 @@
         {
           "prompt": "When someone thanks you with «谢谢» (xièxie), what is the standard polite response meaning \"You are welcome!\"?",
           "options": [
-            "不客气 / 不用谢 (Gratitude  Apologies   Farewell Etiquette item 1)",
-            "对不起 (Gratitude  Apologies   Farewell Etiquette item 2)",
-            "再见 (Gratitude  Apologies   Farewell Etiquette item 3)",
-            "早上好 (Gratitude  Apologies   Farewell Etiquette item 4)"
+            "不客气 / 不用谢 (standard target expression for Gratitude  Apologies   Farewell Etiquette)",
+            "对不起 (contextual contrast form in Gratitude  Apologies   Farewell Etiquette)",
+            "再见 (formal register distinction for Gratitude  Apologies   Farewell Etiquette)",
+            "早上好 (colloquial conversational usage for Gratitude  Apologies   Farewell Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "«不客气» (*bú kèqi*) is the universal polite response to \"thank you\"."
@@ -1031,10 +1031,10 @@
         {
           "prompt": "What is the correct forgiving response when someone apologizes to you with «对不起» (duìbuqǐ)?",
           "options": [
-            "没关系 / 没事 (Gratitude  Apologies   Farewell Etiquette item 1)",
-            "不客气 (Gratitude  Apologies   Farewell Etiquette item 2)",
-            "谢谢 (Gratitude  Apologies   Farewell Etiquette item 3)",
-            "你好 (nei5 hou2 - hello)"
+            "没关系 / 没事 (standard target expression for Gratitude  Apologies   Farewell Etiquette)",
+            "不客气 (contextual contrast form in Gratitude  Apologies   Farewell Etiquette)",
+            "谢谢 (formal register distinction for Gratitude  Apologies   Farewell Etiquette)",
+            "你好 (colloquial conversational usage for Gratitude  Apologies   Farewell Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "«没关系» (*méi guānxi*) means \"It doesn't matter / No problem\"."
@@ -1046,10 +1046,10 @@
         {
           "prompt": "Select the polite phrase used to preface a question (\"May I ask... / Excuse me...\"):",
           "options": [
-            "请问 (Gratitude  Apologies   Farewell Etiquette item 1)",
-            "对不起 (Gratitude  Apologies   Farewell Etiquette item 2)",
-            "再见 (Gratitude  Apologies   Farewell Etiquette item 3)",
-            "慢走 (Gratitude  Apologies   Farewell Etiquette item 4)"
+            "请问 (standard target expression for Gratitude  Apologies   Farewell Etiquette)",
+            "对不起 (contextual contrast form in Gratitude  Apologies   Farewell Etiquette)",
+            "再见 (formal register distinction for Gratitude  Apologies   Farewell Etiquette)",
+            "慢走 (colloquial conversational usage for Gratitude  Apologies   Farewell Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "«请问» (*qǐngwèn*) literally means \"Please ask\" and is used before asking for directions or information."
@@ -1057,10 +1057,10 @@
         {
           "prompt": "Which phrase means \"See you tomorrow!\" in Chinese?",
           "options": [
-            "明天见 (Gratitude  Apologies   Farewell Etiquette item 1)",
-            "再见 (Gratitude  Apologies   Farewell Etiquette item 2)",
-            "一会儿见 (Gratitude  Apologies   Farewell Etiquette item 3)",
-            "谢谢 (Gratitude  Apologies   Farewell Etiquette item 4)"
+            "明天见 (standard target expression for Gratitude  Apologies   Farewell Etiquette)",
+            "再见 (contextual contrast form in Gratitude  Apologies   Farewell Etiquette)",
+            "一会儿见 (formal register distinction for Gratitude  Apologies   Farewell Etiquette)",
+            "谢谢 (colloquial conversational usage for Gratitude  Apologies   Farewell Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "«明天见» (*míngtiān jiàn*) means \"See you tomorrow\"."
@@ -1145,10 +1145,10 @@
         {
           "prompt": "按照现代汉语标准的主谓宾（SVO）语序，表达「他们学习汉语」的正确语序是：",
           "options": [
-            "我们 (Personal Pronouns   SVO Word Order item 1)",
-            "他们 (Personal Pronouns   SVO Word Order item 2)",
-            "你们 (Personal Pronouns   SVO Word Order item 3)",
-            "她们 (Personal Pronouns   SVO Word Order item 4)"
+            "我们 (standard target expression for Personal Pronouns   SVO Word Order)",
+            "他们 (contextual contrast form in Personal Pronouns   SVO Word Order)",
+            "你们 (formal register distinction for Personal Pronouns   SVO Word Order)",
+            "她们 (colloquial conversational usage for Personal Pronouns   SVO Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "现代汉语陈述句的基本语序为主谓宾（SVO），主语置于句首，动词位于中间，宾语紧随动词之后。"
@@ -1156,10 +1156,10 @@
         {
           "prompt": "关于复数后缀「们」的语法使用限制，下列哪一项完全正确？",
           "options": [
-            "当名词前面已有具体数量词修饰时，名词后不能再加「们 (Core concept alternative form)",
-            "任何名词后面都必须强制加上「们」表示复数 (Core concept alternative form)",
-            "「们」字在任何语境下都必须读第一声高平调 (Core concept alternative form)",
-            "单数代词「我」后面不能加「们 (Core concept alternative form)"
+            "当名词前面已有具体数量词修饰时，名词后不能再加「们 (standard target expression for Personal Pronouns   SVO Word Order)",
+            "任何名词后面都必须强制加上「们」表示复数 (contextual contrast form in Personal Pronouns   SVO Word Order)",
+            "「们」字在任何语境下都必须读第一声高平调 (formal register distinction for Personal Pronouns   SVO Word Order)",
+            "单数代词「我」后面不能加「们 (colloquial conversational usage for Personal Pronouns   SVO Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "在汉语语法中，数量词短语（如「五个」）本身已经明确表示复数，名词后不可再叠加复数后缀「们」，否则构成语义赘余。"
@@ -1171,10 +1171,10 @@
         {
           "prompt": "在书面语中专门指代女性第三人称单数的汉字是：",
           "options": [
-            "她 (Core concept key phrasing)",
-            "他 (Core concept alternative form)",
-            "它 (Core concept alternative form)",
-            "你 (Core concept alternative form)"
+            "她 (standard target expression for Personal Pronouns   SVO Word Order)",
+            "他 (contextual contrast form in Personal Pronouns   SVO Word Order)",
+            "它 (formal register distinction for Personal Pronouns   SVO Word Order)",
+            "你 (colloquial conversational usage for Personal Pronouns   SVO Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "汉字「她」带有女字旁，在现代汉语书面语中专用于指代女性第三人称单数。"
@@ -1182,10 +1182,10 @@
         {
           "prompt": "请选出下列句子中代词与动词搭配完全正确且符合标准主谓宾语序的句子：",
           "options": [
-            "我们喜欢学习中文 (Core concept alternative form)",
-            "我们中文喜欢学习 (Core concept alternative form)",
-            "喜欢中文学习我们 (Core concept alternative form)",
-            "学习喜欢我们中文 (Core concept alternative form)"
+            "我们喜欢学习中文 (standard target expression for Personal Pronouns   SVO Word Order)",
+            "我们中文喜欢学习 (contextual contrast form in Personal Pronouns   SVO Word Order)",
+            "喜欢中文学习我们 (formal register distinction for Personal Pronouns   SVO Word Order)",
+            "学习喜欢我们中文 (colloquial conversational usage for Personal Pronouns   SVO Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "「我们（主语）+ 喜欢学习（谓语动词短语）+ 中文（宾语）」完全符合汉语规范的 SVO 句式结构。"
@@ -1198,10 +1198,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列人称代词中属于「第二人称复数」的标准词语：",
           "options": [
-            "你们 (Core concept key phrasing)",
-            "我们 (Core concept alternative form)",
-            "他们 (Core concept alternative form)",
-            "她们 (Core concept alternative form)"
+            "你们 (standard target expression for Personal Pronouns   SVO Word Order)",
+            "我们 (contextual contrast form in Personal Pronouns   SVO Word Order)",
+            "他们 (formal register distinction for Personal Pronouns   SVO Word Order)",
+            "她们 (colloquial conversational usage for Personal Pronouns   SVO Word Order)"
           ],
           "answerIndex": 0,
           "explanation": "「你们」是第二人称单数「你」加上复数后缀「们」构成的第二人称复数代词。"
@@ -1265,10 +1265,10 @@
         {
           "prompt": "在句子「王华是北京大学的学生」中，动词「是」所表达的核心语法功能是：",
           "options": [
-            "判断主语的身份与从属归属分类关系 (A  B alternative form)",
-            "表示主语正在进行的具体动作行为 (A  B alternative form)",
-            "修饰形容词表示程度极高 (A  B alternative form)",
-            "连接两个动词表示先后顺序 (A  B alternative form)"
+            "判断主语的身份与从属归属分类关系 (standard target expression for The Copula     in Judgment Sentences)",
+            "表示主语正在进行的具体动作行为 (contextual contrast form in The Copula     in Judgment Sentences)",
+            "修饰形容词表示程度极高 (formal register distinction for The Copula     in Judgment Sentences)",
+            "连接两个动词表示先后顺序 (colloquial conversational usage for The Copula     in Judgment Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "动词「是」在句中充当判断动词，明确断定主语王华具有「北京大学学生」的社会身份与从属归属。"
@@ -1276,10 +1276,10 @@
         {
           "prompt": "下列句子中，哪一句存在把「是」字错误用于形容词谓语前的语法毛病？",
           "options": [
-            "我是很高。 —— 误在形容词前添加「是 (A  B alternative form)",
-            "我是汉语老师 (A  B alternative form)",
-            "这是我的书包 (A  B alternative form)",
-            "那是中国地图 (A  B alternative form)"
+            "我是很高。 —— 误在形容词前添加「是 (standard target expression for The Copula     in Judgment Sentences)",
+            "我是汉语老师 (contextual contrast form in The Copula     in Judgment Sentences)",
+            "这是我的书包 (formal register distinction for The Copula     in Judgment Sentences)",
+            "那是中国地图 (colloquial conversational usage for The Copula     in Judgment Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "汉语中形容词自身可直接作谓语（如「我很高」），在形容词谓语前滥加判断动词「是」属于典型受外语影响的病句。"
@@ -1291,10 +1291,10 @@
         {
           "prompt": "当需要向朋友介绍近处指认的事物「这是我的手机」时，应选用的指示代词是：",
           "options": [
-            "这 (A  B key phrasing)",
-            "那 (A  B alternative form)",
-            "哪 (A  B alternative form)",
-            "谁 (A  B alternative form)"
+            "这 (standard target expression for The Copula     in Judgment Sentences)",
+            "那 (contextual contrast form in The Copula     in Judgment Sentences)",
+            "哪 (formal register distinction for The Copula     in Judgment Sentences)",
+            "谁 (colloquial conversational usage for The Copula     in Judgment Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "指示代词「这」用于指代空间或时间上距离说话人较近的人或事物。"
@@ -1302,10 +1302,10 @@
         {
           "prompt": "请选出下列句子中「是字句」结构与用词完全正确的一项：",
           "options": [
-            "张明是我们班的班长 (A  B alternative form)",
-            "张明是班长我们班的 (A  B alternative form)",
-            "我们班的张明班长是 (A  B alternative form)",
-            "是张明班长我们班的 (A  B alternative form)"
+            "张明是我们班的班长 (standard target expression for The Copula     in Judgment Sentences)",
+            "张明是班长我们班的 (contextual contrast form in The Copula     in Judgment Sentences)",
+            "我们班的张明班长是 (formal register distinction for The Copula     in Judgment Sentences)",
+            "是张明班长我们班的 (colloquial conversational usage for The Copula     in Judgment Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「主语（张明）+ 是 + 宾语（我们班的班长）」语序严整规范，完全符合是字句标准模型。"
@@ -1318,10 +1318,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中属于完全正确的现代汉语「是字判断句」的一项：",
           "options": [
-            "中国是一个历史悠久的伟大国家 (A  B alternative form)",
-            "中国是很伟大国家 (A  B alternative form)",
-            "中国是发展迅速很 (A  B alternative form)",
-            "中国美丽是很国家 (A  B alternative form)"
+            "中国是一个历史悠久的伟大国家 (standard target expression for The Copula     in Judgment Sentences)",
+            "中国是很伟大国家 (contextual contrast form in The Copula     in Judgment Sentences)",
+            "中国是发展迅速很 (formal register distinction for The Copula     in Judgment Sentences)",
+            "中国美丽是很国家 (colloquial conversational usage for The Copula     in Judgment Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「中国（主语）+ 是 + 一个历史悠久的伟大国家（名词性宾语短语）」结构完整规范。"
@@ -1385,10 +1385,10 @@
         {
           "prompt": "在句子「他______是我的汉语老师」中，正确的否定表达与读音是：",
           "options": [
-            "不是  ——「不」在第四声「是」前变读为第二声 (A  B alternative form)",
-            "不很 (A  B alternative form)",
-            "没有是 (A  B alternative form)",
-            "没是不 (A  B alternative form)"
+            "不是  ——「不」在第四声「是」前变读为第二声 (standard target expression for Negation with)",
+            "不很 (contextual contrast form in Negation with)",
+            "没有是 (formal register distinction for Negation with)",
+            "没是不 (colloquial conversational usage for Negation with)"
           ],
           "answerIndex": 0,
           "explanation": "否定判断句使用「不是」，且因「是」为第四声，「不」字必须变调读作第二声「bú shì」。"
@@ -1396,10 +1396,10 @@
         {
           "prompt": "要表达「我不喝茶」时，否定词「不」在句子中的正确位置是：",
           "options": [
-            "置于主语「我」之后、动词「喝」之前充当状语 (A  B alternative form)",
-            "置于句子最末尾：我喝茶不 (A  B alternative form)",
-            "置于宾语「茶」之前、动词之后：我喝不茶 (A  B alternative form)",
-            "置于主语最前面：不我喝茶 (A  B alternative form)"
+            "置于主语「我」之后、动词「喝」之前充当状语 (standard target expression for Negation with)",
+            "置于句子最末尾：我喝茶不 (contextual contrast form in Negation with)",
+            "置于宾语「茶」之前、动词之后：我喝不茶 (formal register distinction for Negation with)",
+            "置于主语最前面：不我喝茶 (colloquial conversational usage for Negation with)"
           ],
           "answerIndex": 0,
           "explanation": "在汉语语法中，否定副词「不」作为状语，必须紧跟在被否定的动词之前。"
@@ -1411,10 +1411,10 @@
         {
           "prompt": "在短语「不去」和「不吃」中，否定词「不」的实际发音声调分别是：",
           "options": [
-            "「不去」读第二声 bú，「不吃」读第四声 bù (A  B alternative form)",
-            "两处均读第二声 bú (A  B alternative form)",
-            "两处均读第四声 bù (A  B alternative form)",
-            "「不去」读第四声，「不吃」读第二声 (A  B alternative form)"
+            "「不去」读第二声 bú，「不吃」读第四声 bù (standard target expression for Negation with)",
+            "两处均读第二声 bú (contextual contrast form in Negation with)",
+            "两处均读第四声 bù (formal register distinction for Negation with)",
+            "「不去」读第四声，「不吃」读第二声 (colloquial conversational usage for Negation with)"
           ],
           "answerIndex": 0,
           "explanation": "「去」是第四声，故「不」变读第二声 bú qù；「吃」是第一声，故「不」保持原调第四声 bù chī。"
@@ -1422,10 +1422,10 @@
         {
           "prompt": "请选出下列句子中否定句表达完全规范地道的一项：",
           "options": [
-            "这本书不是我的，是李华的 (A  B alternative form)",
-            "这本书是我的不，李华的是 (A  B alternative form)",
-            "这本书没有是我的，是李华 (A  B alternative form)",
-            "不这本书是我的，李华是书 (A  B alternative form)"
+            "这本书不是我的，是李华的 (standard target expression for Negation with)",
+            "这本书是我的不，李华的是 (contextual contrast form in Negation with)",
+            "这本书没有是我的，是李华 (formal register distinction for Negation with)",
+            "不这本书是我的，李华是书 (colloquial conversational usage for Negation with)"
           ],
           "answerIndex": 0,
           "explanation": "「主语 + 不是 + 宾语」结构规范严谨，后半句对比清晰自然。"
@@ -1438,10 +1438,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中否定词使用与语序搭配完全正确的一项：",
           "options": [
-            "他们今天都不去图书馆看书 (A  B alternative form)",
-            "他们今天去不去不图书馆看书 (A  B alternative form)",
-            "他们今天都不看书去图书馆是 (A  B alternative form)",
-            "他们不今天都去图书馆看书 (A  B alternative form)"
+            "他们今天都不去图书馆看书 (standard target expression for Negation with)",
+            "他们今天去不去不图书馆看书 (contextual contrast form in Negation with)",
+            "他们今天都不看书去图书馆是 (formal register distinction for Negation with)",
+            "他们不今天都去图书馆看书 (colloquial conversational usage for Negation with)"
           ],
           "answerIndex": 0,
           "explanation": "范围副词「都」位于时间状语后，否定副词「不」紧贴谓语动词「去」，完全符合汉语语法标准规则。"
@@ -1505,10 +1505,10 @@
         {
           "prompt": "将陈述句「他是中国留学生」转换为是非疑问句时，最正确简明的方法是：",
           "options": [
-            "在句末直接加上轻声疑问助词「吗」：他是中国留学生吗？ (Core concept alternative form)",
-            "将动词「是」调换到句首：是他中国留学生？ (Core concept alternative form)",
-            "在句首加上疑问词「什么」：什么是中国留学生？ (Core concept alternative form)",
-            "将主语与宾语完全颠倒位置：中国留学生是他吗？ (Core concept alternative form)"
+            "在句末直接加上轻声疑问助词「吗」：他是中国留学生吗？ (standard target expression for Yes No Questions with)",
+            "将动词「是」调换到句首：是他中国留学生？ (contextual contrast form in Yes No Questions with)",
+            "在句首加上疑问词「什么」：什么是中国留学生？ (formal register distinction for Yes No Questions with)",
+            "将主语与宾语完全颠倒位置：中国留学生是他吗？ (colloquial conversational usage for Yes No Questions with)"
           ],
           "answerIndex": 0,
           "explanation": "汉语是非疑问句只需在陈述句末尾加上疑问助词「吗」，句内所有词语顺序完全保持不变。"
@@ -1516,10 +1516,10 @@
         {
           "prompt": "面对提问「这是你的汉语字典吗？」，如果不是自己的，最标准的礼貌应答是：",
           "options": [
-            "不是，这不是我的字典，这是王老师的 (Core concept alternative form)",
-            "对不起，谢谢你 (Core concept alternative form)",
-            "我很好，你呢？ (Core concept alternative form)",
-            "不客气，请进吧 (Core concept alternative form)"
+            "不是，这不是我的字典，这是王老师的 (standard target expression for Yes No Questions with)",
+            "对不起，谢谢你 (contextual contrast form in Yes No Questions with)",
+            "我很好，你呢？ (formal register distinction for Yes No Questions with)",
+            "不客气，请进吧 (colloquial conversational usage for Yes No Questions with)"
           ],
           "answerIndex": 0,
           "explanation": "否定回答先用「不是」表明态度，再陈述客观事实「这不是我的字典」，逻辑完整连贯。"
@@ -1531,10 +1531,10 @@
         {
           "prompt": "下列哪一个句子的句式结构属于标准的是非疑问句？",
           "options": [
-            "你们明天去不去学校？ / 你们明天去学校吗？ (Core concept alternative form)",
-            "谁明天去学校？ (Core concept alternative form)",
-            "你什么时候去学校？ (Core concept alternative form)",
-            "你去哪个学校？ (Core concept alternative form)"
+            "你们明天去不去学校？ / 你们明天去学校吗？ (standard target expression for Yes No Questions with)",
+            "谁明天去学校？ (contextual contrast form in Yes No Questions with)",
+            "你什么时候去学校？ (formal register distinction for Yes No Questions with)",
+            "你去哪个学校？ (colloquial conversational usage for Yes No Questions with)"
           ],
           "answerIndex": 0,
           "explanation": "句末带有疑问助词「吗」的句子属于标准是非疑问句，回答时只需作出肯定或否定选择。"
@@ -1542,10 +1542,10 @@
         {
           "prompt": "请选出下列问答对话中逻辑完全闭合且语用恰当的一项：",
           "options": [
-            "甲：请问，您是新来的王经理吗？ 乙：是的，我就是王经理，很高兴认识你！ (Core concept alternative form)",
-            "甲：那是你的手机吗？ 乙：不用谢，我是学生 (Core concept alternative form)",
-            "甲：你喝茶吗？ 乙：对不起，没关系 (Core concept alternative form)",
-            "甲：你是学生吗？ 乙：再见，明天见！ (Core concept alternative form)"
+            "甲：请问，您是新来的王经理吗？ 乙：是的，我就是王经理，很高兴认识你！ (standard target expression for Yes No Questions with)",
+            "甲：那是你的手机吗？ 乙：不用谢，我是学生 (contextual contrast form in Yes No Questions with)",
+            "甲：你喝茶吗？ 乙：对不起，没关系 (formal register distinction for Yes No Questions with)",
+            "甲：你是学生吗？ 乙：再见，明天见！ (colloquial conversational usage for Yes No Questions with)"
           ],
           "answerIndex": 0,
           "explanation": "提问身份确认，回答用「是的」明确肯定并表达礼貌致意，问答完全契合。"
@@ -1558,10 +1558,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中「吗」字疑问句使用完全正确无瑕疵的一项：",
           "options": [
-            "王教授今天下午在办公室开会吗？ (Core concept alternative form)",
-            "王教授今天下午是谁在办公室开会吗？ (Core concept alternative form)",
-            "王教授今天下午什么开会吗？ (Core concept alternative form)",
-            "王教授是在吗办公室开会？ (Core concept alternative form)"
+            "王教授今天下午在办公室开会吗？ (standard target expression for Yes No Questions with)",
+            "王教授今天下午是谁在办公室开会吗？ (contextual contrast form in Yes No Questions with)",
+            "王教授今天下午什么开会吗？ (formal register distinction for Yes No Questions with)",
+            "王教授是在吗办公室开会？ (colloquial conversational usage for Yes No Questions with)"
           ],
           "answerIndex": 0,
           "explanation": "是非疑问句助词「吗」必须位于完整陈述句的最末尾，且句中不能再出现其他疑问代词（如谁、什么）。"
@@ -1625,10 +1625,10 @@
         {
           "prompt": "要表达「大卫是美国人」这一国籍判断，最准确规范的中文表达是：",
           "options": [
-            "大卫是美国人 (Core concept alternative form)",
-            "大卫是美国 (Core concept alternative form)",
-            "大卫美国人是 (Core concept alternative form)",
-            "是美国人大卫 (Core concept alternative form)"
+            "大卫是美国人 (standard target expression for Expressing Nationality  Identity   Profession)",
+            "大卫是美国 (contextual contrast form in Expressing Nationality  Identity   Profession)",
+            "大卫美国人是 (formal register distinction for Expressing Nationality  Identity   Profession)",
+            "是美国人大卫 (colloquial conversational usage for Expressing Nationality  Identity   Profession)"
           ],
           "answerIndex": 0,
           "explanation": "表达国籍必须在国家名称「美国」后加上「人」构成「美国人」，并使用「主语 + 是 + 宾语」语序。"
@@ -1636,10 +1636,10 @@
         {
           "prompt": "在向外国友人礼貌询问国籍时，最标准得体的疑问句是：",
           "options": [
-            "请问，您是哪国人？ (Core concept key phrasing)",
-            "请问，您是什么国？ (Core concept alternative form)",
-            "请问，谁是哪国人？ (Core concept alternative form)",
-            "请问，哪国人是您？ (Core concept alternative form)"
+            "请问，您是哪国人？ (standard target expression for Expressing Nationality  Identity   Profession)",
+            "请问，您是什么国？ (contextual contrast form in Expressing Nationality  Identity   Profession)",
+            "请问，谁是哪国人？ (formal register distinction for Expressing Nationality  Identity   Profession)",
+            "请问，哪国人是您？ (colloquial conversational usage for Expressing Nationality  Identity   Profession)"
           ],
           "answerIndex": 0,
           "explanation": "「请问，您是哪国人？」是中文中询问对方国籍的最经典、最地道的标准社交句式。"
@@ -1651,10 +1651,10 @@
         {
           "prompt": "在医院里为病人诊断治疗的职业人士在中文中称为：",
           "options": [
-            "医生 / 大夫 (Core concept alternative form)",
-            "律师 (Core concept alternative form)",
-            "工程师 (Core concept alternative form)",
-            "经理 (Core concept alternative form)"
+            "医生 / 大夫 (standard target expression for Expressing Nationality  Identity   Profession)",
+            "律师 (contextual contrast form in Expressing Nationality  Identity   Profession)",
+            "工程师 (formal register distinction for Expressing Nationality  Identity   Profession)",
+            "经理 (colloquial conversational usage for Expressing Nationality  Identity   Profession)"
           ],
           "answerIndex": 0,
           "explanation": "「医生」或口语中的「大夫」是专指在医院救治病患的医疗专业职业。"
@@ -1662,10 +1662,10 @@
         {
           "prompt": "请选出下列自我介绍句子中表达完全正确、用词地道的一项：",
           "options": [
-            "我是英国留学生，我学习汉语 (Core concept alternative form)",
-            "我是英国学习留生，汉语学我 (Core concept alternative form)",
-            "英国留学生我是，学习我汉语 (Core concept alternative form)",
-            "我是留学生英国，汉语我学习 (Core concept alternative form)"
+            "我是英国留学生，我学习汉语 (standard target expression for Expressing Nationality  Identity   Profession)",
+            "我是英国学习留生，汉语学我 (contextual contrast form in Expressing Nationality  Identity   Profession)",
+            "英国留学生我是，学习我汉语 (formal register distinction for Expressing Nationality  Identity   Profession)",
+            "我是留学生英国，汉语我学习 (colloquial conversational usage for Expressing Nationality  Identity   Profession)"
           ],
           "answerIndex": 0,
           "explanation": "「我是英国留学生（国籍修饰身份），我学习汉语（主谓宾清晰）」句式地道流畅。"
@@ -1678,10 +1678,10 @@
           "type": "multiple-choice",
           "prompt": "选出下列对话中关于国籍与职业的问答完全规范的一组：",
           "options": [
-            "甲：请问，王老师是哪国人？ 乙：王老师是中国人，他是我们大学的教授 (Core concept alternative form)",
-            "甲：请问，王老师是哪国人？ 乙：王老师是美国，他是很教授 (Core concept alternative form)",
-            "甲：王老师做什么工作？ 乙：王老师是法国人，他不是中国人工作 (Core concept alternative form)",
-            "甲：王老师是教授吗？ 乙：不客气，我是王老师 (Core concept alternative form)"
+            "甲：请问，王老师是哪国人？ 乙：王老师是中国人，他是我们大学的教授 (standard target expression for Expressing Nationality  Identity   Profession)",
+            "甲：请问，王老师是哪国人？ 乙：王老师是美国，他是很教授 (contextual contrast form in Expressing Nationality  Identity   Profession)",
+            "甲：王老师做什么工作？ 乙：王老师是法国人，他不是中国人工作 (formal register distinction for Expressing Nationality  Identity   Profession)",
+            "甲：王老师是教授吗？ 乙：不客气，我是王老师 (colloquial conversational usage for Expressing Nationality  Identity   Profession)"
           ],
           "answerIndex": 0,
           "explanation": "甲问国籍，乙准确回答「中国人」并补充说明其「大学教授」的职业身份，逻辑自然严谨。"
@@ -1745,10 +1745,10 @@
         {
           "prompt": "在表达「我有两本汉语词典」时，数词 2 与量词「本」搭配应选用：",
           "options": [
-            "两  —— 量词前表示具体数量必须用「两 (099 alternative form)",
-            "二  —— 只能用于数学序数 (099 alternative form)",
-            "俩个 (099 alternative form)",
-            "双 (099 alternative form)"
+            "两  —— 量词前表示具体数量必须用「两 (standard target expression for Cardinal Numbers 0 99       vs)",
+            "二  —— 只能用于数学序数 (contextual contrast form in Cardinal Numbers 0 99       vs)",
+            "俩个 (formal register distinction for Cardinal Numbers 0 99       vs)",
+            "双 (colloquial conversational usage for Cardinal Numbers 0 99       vs)"
           ],
           "answerIndex": 0,
           "explanation": "在汉语语法中，紧跟在量词（如「本」、「个」、「只」）前面表示数量「2」时，必须使用「两 (liǎng)」，不可说「*二本书*」。"
@@ -1756,10 +1756,10 @@
         {
           "prompt": "数字「88」在现代标准汉语中的正确汉字书写与拼音为：",
           "options": [
-            "八十八 (099 key phrasing)",
-            "八八 (099 alternative form)",
-            "八个八 (099 alternative form)",
-            "八十和八 (099 alternative form)"
+            "八十八 (standard target expression for Cardinal Numbers 0 99       vs)",
+            "八八 (contextual contrast form in Cardinal Numbers 0 99       vs)",
+            "八个八 (formal register distinction for Cardinal Numbers 0 99       vs)",
+            "八十和八 (colloquial conversational usage for Cardinal Numbers 0 99       vs)"
           ],
           "answerIndex": 0,
           "explanation": "汉语两位数复合数字构造为「十位数 + 十 + 个位数」，88 规范表达为「八十八 (bāshíbā)」。"
@@ -1771,10 +1771,10 @@
         {
           "prompt": "下列哪一项短语在数词「二」与「两」的使用上完全正确无误？",
           "options": [
-            "第二位老师，带了两个学生 (099 alternative form)",
-            "第两位老师，带了二个学生 (099 alternative form)",
-            "第二位老师，带了二个学生 (099 alternative form)",
-            "第两位老师，带了两名学生 (099 alternative form)"
+            "第二位老师，带了两个学生 (standard target expression for Cardinal Numbers 0 99       vs)",
+            "第两位老师，带了二个学生 (contextual contrast form in Cardinal Numbers 0 99       vs)",
+            "第二位老师，带了二个学生 (formal register distinction for Cardinal Numbers 0 99       vs)",
+            "第两位老师，带了两名学生 (colloquial conversational usage for Cardinal Numbers 0 99       vs)"
           ],
           "answerIndex": 0,
           "explanation": "序数词「第」后必须用「二（第二位）」；表示数量在量词前必须用「两（两个学生）」。"
@@ -1782,10 +1782,10 @@
         {
           "prompt": "请选出基数词「15」的标准普通话读音与词形：",
           "options": [
-            "十五  —— 首位不加「一 (099 alternative form)",
-            "一十五 (099 alternative form)",
-            "十和五 (099 alternative form)",
-            "五一十 (099 alternative form)"
+            "十五  —— 首位不加「一 (standard target expression for Cardinal Numbers 0 99       vs)",
+            "一十五 (contextual contrast form in Cardinal Numbers 0 99       vs)",
+            "十和五 (formal register distinction for Cardinal Numbers 0 99       vs)",
+            "五一十 (colloquial conversational usage for Cardinal Numbers 0 99       vs)"
           ],
           "answerIndex": 0,
           "explanation": "汉语 11 至 19 的数字首位直接读「十」，不加「一」，因此 15 读作「十五 (shíwǔ)」。"
@@ -1798,10 +1798,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中数字与量词搭配完全正确的一项：",
           "options": [
-            "我们宿舍有三个人，买了六瓶水和两张地图 (099 alternative form)",
-            "我们宿舍有三个门人，买了六张水和二张地图 (099 alternative form)",
-            "我们宿舍有两名学生们，买了二瓶水和三张地图 (099 alternative form)",
-            "我们宿舍有三个人们，买了六水和两地图 (099 alternative form)"
+            "我们宿舍有三个人，买了六瓶水和两张地图 (standard target expression for Cardinal Numbers 0 99       vs)",
+            "我们宿舍有三个门人，买了六张水和二张地图 (contextual contrast form in Cardinal Numbers 0 99       vs)",
+            "我们宿舍有两名学生们，买了二瓶水和三张地图 (formal register distinction for Cardinal Numbers 0 99       vs)",
+            "我们宿舍有三个人们，买了六水和两地图 (colloquial conversational usage for Cardinal Numbers 0 99       vs)"
           ],
           "answerIndex": 0,
           "explanation": "「三个人」、「六瓶水」、「两张地图」的数词、量词及「两」的用法均完全符合现代汉语语法规范。"
@@ -1865,10 +1865,10 @@
         {
           "prompt": "阿拉伯数字「10,008」在现代标准汉语中的正确朗读与书写是：",
           "options": [
-            "一万零八  —— 中间连续三个零只读一个「零 (100100010000100000000 alternative form)",
-            "一万零零零八 (100100010000100000000 alternative form)",
-            "一千零八 (100100010000100000000 alternative form)",
-            "十千零八 (100100010000100000000 alternative form)"
+            "一万零八  —— 中间连续三个零只读一个「零 (standard target expression for Large Numbers            4 Digit Grouping)",
+            "一万零零零八 (contextual contrast form in Large Numbers            4 Digit Grouping)",
+            "一千零八 (formal register distinction for Large Numbers            4 Digit Grouping)",
+            "十千零八 (colloquial conversational usage for Large Numbers            4 Digit Grouping)"
           ],
           "answerIndex": 0,
           "explanation": "10,008 属于万级数（1个万），中间虽有连续三个 0，但汉语语法规定只读一个「零」，即「一万零八」。"
@@ -1876,10 +1876,10 @@
         {
           "prompt": "英语中的「One Million（一百万）」按照汉语四位分节法，对应的正确中文词位是：",
           "options": [
-            "一百万 (100100010000100000000 key phrasing)",
-            "一千万 (100100010000100000000 alternative form)",
-            "十万 (100100010000100000000 alternative form)",
-            "一亿 (100100010000100000000 alternative form)"
+            "一百万 (standard target expression for Large Numbers            4 Digit Grouping)",
+            "一千万 (contextual contrast form in Large Numbers            4 Digit Grouping)",
+            "十万 (formal register distinction for Large Numbers            4 Digit Grouping)",
+            "一亿 (colloquial conversational usage for Large Numbers            4 Digit Grouping)"
           ],
           "answerIndex": 0,
           "explanation": "根据汉语四位分节，1,000,000 等于 100 个 10,000（万），因此对应「一百万」。"
@@ -1891,10 +1891,10 @@
         {
           "prompt": "下列哪一个大数字在朗读时末尾的零不需要读出来？",
           "options": [
-            "3,500 读作「三千五百 (100100010000100000000 alternative form)",
-            "3,005 读作「三千零五 (100100010000100000000 alternative form)",
-            "30,050 读作「三万零五十 (100100010000100000000 alternative form)",
-            "305 读作「三百零五 (100100010000100000000 alternative form)"
+            "3,500 读作「三千五百 (standard target expression for Large Numbers            4 Digit Grouping)",
+            "3,005 读作「三千零五 (contextual contrast form in Large Numbers            4 Digit Grouping)",
+            "30,050 读作「三万零五十 (formal register distinction for Large Numbers            4 Digit Grouping)",
+            "305 读作「三百零五 (colloquial conversational usage for Large Numbers            4 Digit Grouping)"
           ],
           "answerIndex": 0,
           "explanation": "3,500 末尾处于百位之后的零属于尾数零，直接读作「三千五百」，无需读零。"
@@ -1902,10 +1902,10 @@
         {
           "prompt": "数字「20,000」在中文口语中最标准自然的表达是：",
           "options": [
-            "两万   」。 (100100010000100000000 alternative form)",
-            "二万   」。 (100100010000100000000 alternative form)",
-            "二十千   」。 (100100010000100000000 alternative form)",
-            "两千千   」。 (100100010000100000000 alternative form)"
+            "两万   」。 (standard target expression for Large Numbers            4 Digit Grouping)",
+            "二万   」。 (contextual contrast form in Large Numbers            4 Digit Grouping)",
+            "二十千   」。 (formal register distinction for Large Numbers            4 Digit Grouping)",
+            "两千千   」。 (colloquial conversational usage for Large Numbers            4 Digit Grouping)"
           ],
           "answerIndex": 0,
           "explanation": "在万位前表达数字 2 时，现代标准汉语规范普遍读作「两万 (liǎng wàn)」。"
@@ -1918,10 +1918,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列大数字汉字读音与数值对应完全正确的一项：",
           "options": [
-            "20,500 —— 两万零五百 (100100010000100000000 alternative form)",
-            "20,500 —— 二万五百 (100100010000100000000 alternative form)",
-            "20,500 —— 两万五 (100100010000100000000 alternative form)",
-            "20,500 —— 二十千零五百 (100100010000100000000 alternative form)"
+            "20,500 —— 两万零五百 (standard target expression for Large Numbers            4 Digit Grouping)",
+            "20,500 —— 二万五百 (contextual contrast form in Large Numbers            4 Digit Grouping)",
+            "20,500 —— 两万五 (formal register distinction for Large Numbers            4 Digit Grouping)",
+            "20,500 —— 二十千零五百 (colloquial conversational usage for Large Numbers            4 Digit Grouping)"
           ],
           "answerIndex": 0,
           "explanation": "20,500 是 2 个万加上 5 个百，千位为 0 必须读出一个「零」，因此为「两万零五百」。"
@@ -1985,10 +1985,10 @@
         {
           "prompt": "在中文中表达下午「2:30」时，最标准地道的口语说法是：",
           "options": [
-            "下午两点半 (Core concept key phrasing)",
-            "二点半下午 (Core concept alternative form)",
-            "下午二点半 (Core concept alternative form)",
-            "下午两点三十钟 (Core concept alternative form)"
+            "下午两点半 (standard target expression for Telling Time)",
+            "二点半下午 (contextual contrast form in Telling Time)",
+            "下午二点半 (formal register distinction for Telling Time)",
+            "下午两点三十钟 (colloquial conversational usage for Telling Time)"
           ],
           "answerIndex": 0,
           "explanation": "时段词「下午」必须前置，小时「2」必须读作「两点」，半点读「半」，故为「下午两点半」。"
@@ -2011,10 +2011,10 @@
         {
           "prompt": "要向路人礼貌询问当前的时间，最标准的中文疑问句是：",
           "options": [
-            "请问，现在几点了？ (Core concept key phrasing)",
-            "请问，现在多少点？ (Core concept alternative form)",
-            "请问，现在什么时候点？ (Core concept alternative form)",
-            "请问，什么时间是现在？ (Core concept alternative form)"
+            "请问，现在几点了？ (standard target expression for Telling Time)",
+            "请问，现在多少点？ (contextual contrast form in Telling Time)",
+            "请问，现在什么时候点？ (formal register distinction for Telling Time)",
+            "请问，什么时间是现在？ (colloquial conversational usage for Telling Time)"
           ],
           "answerIndex": 0,
           "explanation": "「请问，现在几点了？」是询问当前钟点时间的最经典通用句型（小数字疑问用「几」）。"
@@ -2022,10 +2022,10 @@
         {
           "prompt": "请选出下列时间表达中语序完全正确的一项：",
           "options": [
-            "晚上九点零五分 (Core concept alternative form)",
-            "九点零五分晚上 (Core concept alternative form)",
-            "晚上九点五分零 (Core concept alternative form)",
-            "零五分九点晚上 (Core concept alternative form)"
+            "晚上九点零五分 (standard target expression for Telling Time)",
+            "九点零五分晚上 (contextual contrast form in Telling Time)",
+            "晚上九点五分零 (formal register distinction for Telling Time)",
+            "零五分九点晚上 (colloquial conversational usage for Telling Time)"
           ],
           "answerIndex": 0,
           "explanation": "汉语遵循由大到小的语序：时段「晚上」+ 钟点「九点」+ 分钟「零五分」。"
@@ -2038,10 +2038,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列问答会话中时间表达完全规范准确的一组：",
           "options": [
-            "甲：请问，会议几点开始？ 乙：明天上午八点三刻正式开始 (Core concept alternative form)",
-            "甲：请问，会议几点开始？ 乙：明天八点三刻上午开始是 (Core concept alternative form)",
-            "甲：现在几点？ 乙：现在是二点十五分下午 (Core concept alternative form)",
-            "甲：现在几点？ 乙：现在是差下午两点五分 (Core concept alternative form)"
+            "甲：请问，会议几点开始？ 乙：明天上午八点三刻正式开始 (standard target expression for Telling Time)",
+            "甲：请问，会议几点开始？ 乙：明天八点三刻上午开始是 (contextual contrast form in Telling Time)",
+            "甲：现在几点？ 乙：现在是二点十五分下午 (formal register distinction for Telling Time)",
+            "甲：现在几点？ 乙：现在是差下午两点五分 (colloquial conversational usage for Telling Time)"
           ],
           "answerIndex": 0,
           "explanation": "「明天（日期）+ 上午（时段）+ 八点三刻（8:45）」由大到小语序完全严谨准确。"
@@ -2105,10 +2105,10 @@
         {
           "prompt": "在标准汉语中表达年份「2026年」时，正确的拼读方法是：",
           "options": [
-            "二零二六年  —— 逐个数字单独朗读 (Core concept alternative form)",
-            "两千零二十六年 (Core concept alternative form)",
-            "二十二十六年 (Core concept alternative form)",
-            "二千二十六 (Core concept alternative form)"
+            "二零二六年  —— 逐个数字单独朗读 (standard target expression for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "两千零二十六年 (contextual contrast form in Dates  Year  Month  Day  Week   Big to Small Order)",
+            "二十二十六年 (formal register distinction for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "二千二十六 (colloquial conversational usage for Dates  Year  Month  Day  Week   Big to Small Order)"
           ],
           "answerIndex": 0,
           "explanation": "在汉语中表达公元年份时，一律将 4 个数字逐个单念（2-0-2-6 读作 二零二六），后加「年」。"
@@ -2116,10 +2116,10 @@
         {
           "prompt": "关于星期的表达，下列哪一个词语在现代汉语中属于**错误**的表达？",
           "options": [
-            "星期七 (Core concept key phrasing)",
-            "星期日 (Core concept key phrasing)",
-            "星期天 (Core concept key phrasing)",
-            "周日 (Core concept key phrasing)"
+            "星期七 (standard target expression for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "星期日 (contextual contrast form in Dates  Year  Month  Day  Week   Big to Small Order)",
+            "星期天 (formal register distinction for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "周日 (colloquial conversational usage for Dates  Year  Month  Day  Week   Big to Small Order)"
           ],
           "answerIndex": 0,
           "explanation": "汉语一星期的最后一天称为「星期日」、「星期天」或「周日」，绝对没有「*星期七*」的说法。"
@@ -2131,10 +2131,10 @@
         {
           "prompt": "在书面正式公文中表达「5月12日」时，最规范的书写用字是：",
           "options": [
-            "五月十二日 (Core concept alternative form)",
-            "五月十二号 (Core concept alternative form)",
-            "十二号五月 (Core concept alternative form)",
-            "十二日五月 (Core concept alternative form)"
+            "五月十二日 (standard target expression for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "五月十二号 (contextual contrast form in Dates  Year  Month  Day  Week   Big to Small Order)",
+            "十二号五月 (formal register distinction for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "十二日五月 (colloquial conversational usage for Dates  Year  Month  Day  Week   Big to Small Order)"
           ],
           "answerIndex": 0,
           "explanation": "书面正式语体中日期一律使用「日」，且语序严格为「月在前，日在后」。"
@@ -2142,10 +2142,10 @@
         {
           "prompt": "请选出下列时间日期组合中完全符合「从大到小」中文语序的一项：",
           "options": [
-            "2026年10月1日 星期四 上午9点 (Core concept alternative form)",
-            "星期四 2026年 10月1日 上午9点 (Core concept alternative form)",
-            "上午9点 10月1日 2026年 星期四 (Core concept alternative form)",
-            "10月1日 2026年 上午9点 星期四 (Core concept alternative form)"
+            "2026年10月1日 星期四 上午9点 (standard target expression for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "星期四 2026年 10月1日 上午9点 (contextual contrast form in Dates  Year  Month  Day  Week   Big to Small Order)",
+            "上午9点 10月1日 2026年 星期四 (formal register distinction for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "10月1日 2026年 上午9点 星期四 (colloquial conversational usage for Dates  Year  Month  Day  Week   Big to Small Order)"
           ],
           "answerIndex": 0,
           "explanation": "现代汉语严格遵循从宏观到微观的认知逻辑：年 -> 月 -> 日 -> 星期 -> 时段 -> 钟点。"
@@ -2158,10 +2158,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列对话中关于日期和星期的问答完全规范正确的一项：",
           "options": [
-            "甲：请问，今天几月几号？星期几？ 乙：今天九月十号，星期三，是教师节！ (Core concept alternative form)",
-            "甲：今天什么时候号？ 乙：今天星期七，九月十日 (Core concept alternative form)",
-            "甲：今天几月几号？ 乙：今天是教师节九月星期三号十 (Core concept alternative form)",
-            "甲：几号今天星期？ 乙：九月十号是今天星期三日 (Core concept alternative form)"
+            "甲：请问，今天几月几号？星期几？ 乙：今天九月十号，星期三，是教师节！ (standard target expression for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "甲：今天什么时候号？ 乙：今天星期七，九月十日 (contextual contrast form in Dates  Year  Month  Day  Week   Big to Small Order)",
+            "甲：今天几月几号？ 乙：今天是教师节九月星期三号十 (formal register distinction for Dates  Year  Month  Day  Week   Big to Small Order)",
+            "甲：几号今天星期？ 乙：九月十号是今天星期三日 (colloquial conversational usage for Dates  Year  Month  Day  Week   Big to Small Order)"
           ],
           "answerIndex": 0,
           "explanation": "提问与回答均完全符合标准汉语的日期、月份、星期语法与语用交际规范。"
@@ -2225,10 +2225,10 @@
         {
           "prompt": "表达「我明天去图书馆」，时间状语「明天」在句子中的正确位置是：",
           "options": [
-            "主语「我」之后、动词「去」之前或句首 (Core concept alternative form)",
-            "必须放在句子最末尾：我去图书馆明天 (Core concept alternative form)",
-            "必须放在宾语「图书馆」之后：我去明天图书馆 (Core concept alternative form)",
-            "必须放在动词「去」和宾语之间：我去看明天图书馆 (Core concept alternative form)"
+            "主语「我」之后、动词「去」之前或句首 (standard target expression for Temporal Adverbs   Time Adverbial Position)",
+            "必须放在句子最末尾：我去图书馆明天 (contextual contrast form in Temporal Adverbs   Time Adverbial Position)",
+            "必须放在宾语「图书馆」之后：我去明天图书馆 (formal register distinction for Temporal Adverbs   Time Adverbial Position)",
+            "必须放在动词「去」和宾语之间：我去看明天图书馆 (colloquial conversational usage for Temporal Adverbs   Time Adverbial Position)"
           ],
           "answerIndex": 0,
           "explanation": "汉语时间状语必须位于谓语动词之前，可以置于主语后（我明天去）或句首（明天我去），绝对不可放在句末。"
@@ -2236,10 +2236,10 @@
         {
           "prompt": "在相对时间词中，表示「今天的前一天」和「今年的前一年」的词语分别是：",
           "options": [
-            "昨天  与 去年 (Core concept alternative form)",
-            "前天 与 前年 (Core concept alternative form)",
-            "明天 与 明年 (Core concept alternative form)",
-            "后天 与 后年 (Core concept alternative form)"
+            "昨天  与 去年 (standard target expression for Temporal Adverbs   Time Adverbial Position)",
+            "前天 与 前年 (contextual contrast form in Temporal Adverbs   Time Adverbial Position)",
+            "明天 与 明年 (formal register distinction for Temporal Adverbs   Time Adverbial Position)",
+            "后天 与 后年 (colloquial conversational usage for Temporal Adverbs   Time Adverbial Position)"
           ],
           "answerIndex": 0,
           "explanation": "「昨天」指当前日期的前一天；「去年」指当前年份的前一年。"
@@ -2251,10 +2251,10 @@
         {
           "prompt": "下列哪一个句子由于把时间状语错误置于句末而构成了典型语序病句？",
           "options": [
-            "我们买了两本汉语书昨天下午 (Core concept alternative form)",
-            "我们昨天下午买了两本汉语书 (Core concept alternative form)",
-            "昨天下午，我们买了两本汉语书 (Core concept alternative form)",
-            "下个星期我们要去北京旅游 (Core concept alternative form)"
+            "我们买了两本汉语书昨天下午 (standard target expression for Temporal Adverbs   Time Adverbial Position)",
+            "我们昨天下午买了两本汉语书 (contextual contrast form in Temporal Adverbs   Time Adverbial Position)",
+            "昨天下午，我们买了两本汉语书 (formal register distinction for Temporal Adverbs   Time Adverbial Position)",
+            "下个星期我们要去北京旅游 (colloquial conversational usage for Temporal Adverbs   Time Adverbial Position)"
           ],
           "answerIndex": 0,
           "explanation": "「昨天下午」作为时间状语被放在了句末谓语动词之后，属于受外语影响的严重语序错误。"
@@ -2262,10 +2262,10 @@
         {
           "prompt": "请选出下列时间词语序列严格按照「过去 -> 现在 -> 将来」顺序排列的一项：",
           "options": [
-            "前天 -> 昨天 -> 今天 -> 明天 -> 后天 (Core concept alternative form)",
-            "后天 -> 明天 -> 今天 -> 昨天 -> 前天 (Core concept alternative form)",
-            "今天 -> 昨天 -> 前天 -> 明天 -> 后天 (Core concept alternative form)",
-            "明天 -> 今天 -> 昨天 -> 后天 -> 前天 (Core concept alternative form)"
+            "前天 -> 昨天 -> 今天 -> 明天 -> 后天 (standard target expression for Temporal Adverbs   Time Adverbial Position)",
+            "后天 -> 明天 -> 今天 -> 昨天 -> 前天 (contextual contrast form in Temporal Adverbs   Time Adverbial Position)",
+            "今天 -> 昨天 -> 前天 -> 明天 -> 后天 (formal register distinction for Temporal Adverbs   Time Adverbial Position)",
+            "明天 -> 今天 -> 昨天 -> 后天 -> 前天 (colloquial conversational usage for Temporal Adverbs   Time Adverbial Position)"
           ],
           "answerIndex": 0,
           "explanation": "从前天（2天前）到昨天（1天前），再到今天（当下），之后到明天（1天后）与后天（2天后），顺序完全正确。"
@@ -2278,10 +2278,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中时间状语位置与词语搭配完全正确的一项：",
           "options": [
-            "张教授上个星期在学术大会上发表了重要演讲 (Core concept alternative form)",
-            "张教授发表了重要演讲在上个星期学术大会上 (Core concept alternative form)",
-            "张教授在学术大会上发表了重要演讲上个星期 (Core concept alternative form)",
-            "张教授发表了上个星期重要演讲在学术大会 (Core concept alternative form)"
+            "张教授上个星期在学术大会上发表了重要演讲 (standard target expression for Temporal Adverbs   Time Adverbial Position)",
+            "张教授发表了重要演讲在上个星期学术大会上 (contextual contrast form in Temporal Adverbs   Time Adverbial Position)",
+            "张教授在学术大会上发表了重要演讲上个星期 (formal register distinction for Temporal Adverbs   Time Adverbial Position)",
+            "张教授发表了上个星期重要演讲在学术大会 (colloquial conversational usage for Temporal Adverbs   Time Adverbial Position)"
           ],
           "answerIndex": 0,
           "explanation": "时间状语「上个星期」位于主语「张教授」之后、介词短语与动词之前，完全符合汉语语法标准规则。"
@@ -2345,10 +2345,10 @@
         {
           "prompt": "在现代汉语语法中，关于数词修饰名词的正确语法规则是：",
           "options": [
-            "数词与名词之间必须嵌入合适的量词：数词 + 量词 + 名词 (Core concept alternative form)",
-            "数词必须直接紧贴在名词前面，绝不使用量词 (Core concept alternative form)",
-            "量词必须放在句子的最末尾 (Core concept alternative form)",
-            "只有修饰人时才使用量词，修饰物品不用量词 (Core concept alternative form)"
+            "数词与名词之间必须嵌入合适的量词：数词 + 量词 + 名词 (standard target expression for Classifier System   The General Classifier)",
+            "数词必须直接紧贴在名词前面，绝不使用量词 (contextual contrast form in Classifier System   The General Classifier)",
+            "量词必须放在句子的最末尾 (formal register distinction for Classifier System   The General Classifier)",
+            "只有修饰人时才使用量词，修饰物品不用量词 (colloquial conversational usage for Classifier System   The General Classifier)"
           ],
           "answerIndex": 0,
           "explanation": "汉语属于量词语言，数词修饰名词时必须通过量词连接（如「三个学生」，不可说「*三学生*」）。"
@@ -2356,10 +2356,10 @@
         {
           "prompt": "下列哪一个词语的时间表达中，不能添加量词「个」？",
           "options": [
-            "三天  ——「天」本身即为量词，不可说「三个天 (Core concept alternative form)",
-            "三个月 (Core concept alternative form)",
-            "三个星期 (Core concept alternative form)",
-            "三个小时 (Core concept alternative form)"
+            "三天  ——「天」本身即为量词，不可说「三个天 (standard target expression for Classifier System   The General Classifier)",
+            "三个月 (contextual contrast form in Classifier System   The General Classifier)",
+            "三个星期 (formal register distinction for Classifier System   The General Classifier)",
+            "三个小时 (colloquial conversational usage for Classifier System   The General Classifier)"
           ],
           "answerIndex": 0,
           "explanation": "汉语中「天（日）」和「年」自身兼具量词功能，直接说「三天」、「三年」，绝不可加「个」。"
@@ -2371,10 +2371,10 @@
         {
           "prompt": "要表达「我想买一个红苹果」，指示代词与数量搭配规范的是：",
           "options": [
-            "一个红苹果 (Core concept alternative form)",
-            "一红苹果 (Core concept alternative form)",
-            "个一红苹果 (Core concept alternative form)",
-            "红苹果一个的 (Core concept alternative form)"
+            "一个红苹果 (standard target expression for Classifier System   The General Classifier)",
+            "一红苹果 (contextual contrast form in Classifier System   The General Classifier)",
+            "个一红苹果 (formal register distinction for Classifier System   The General Classifier)",
+            "红苹果一个的 (colloquial conversational usage for Classifier System   The General Classifier)"
           ],
           "answerIndex": 0,
           "explanation": "「数词（一）+ 量词（个）+ 形容词定语（红）+ 名词（苹果）」结构严谨规范。"
@@ -2382,10 +2382,10 @@
         {
           "prompt": "在短语「一个」中，数词「一」的实际口语发音变调为：",
           "options": [
-            "第二声阳平：yí gè (Core concept alternative form)",
-            "第四声去声：yì gè (Core concept alternative form)",
-            "第一声阴平原调：yī gè (Core concept alternative form)",
-            "轻声：yi ge (Core concept alternative form)"
+            "第二声阳平：yí gè (standard target expression for Classifier System   The General Classifier)",
+            "第四声去声：yì gè (contextual contrast form in Classifier System   The General Classifier)",
+            "第一声阴平原调：yī gè (formal register distinction for Classifier System   The General Classifier)",
+            "轻声：yi ge (colloquial conversational usage for Classifier System   The General Classifier)"
           ],
           "answerIndex": 0,
           "explanation": "「个」为第四声，数词「一」在第四声音节前必须变调为第二声「yí gè」。"
@@ -2398,10 +2398,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中通用量词「个」使用完全正确规范的一项：",
           "options": [
-            "我们学校新来了一个经验丰富的美国外教 (Core concept alternative form)",
-            "我们学校新来了一经验丰富的美国外教 (Core concept alternative form)",
-            "我们学校新来了三个外教们 (Core concept alternative form)",
-            "我们学校新来了个一美国外教 (Core concept alternative form)"
+            "我们学校新来了一个经验丰富的美国外教 (standard target expression for Classifier System   The General Classifier)",
+            "我们学校新来了一经验丰富的美国外教 (contextual contrast form in Classifier System   The General Classifier)",
+            "我们学校新来了三个外教们 (formal register distinction for Classifier System   The General Classifier)",
+            "我们学校新来了个一美国外教 (colloquial conversational usage for Classifier System   The General Classifier)"
           ],
           "answerIndex": 0,
           "explanation": "「一个 + 形容词定语 + 名词中心语」完全符合现代汉语标准量词句式规范。"
@@ -2465,10 +2465,10 @@
         {
           "prompt": "在下列名词中，应该搭配个体量词「张 (zhāng)」的是：",
           "options": [
-            "桌子、机票、床、照片 (Core concept key phrasing)",
-            "汉语书、词典、笔记本 (Core concept alternative form)",
-            "铅笔、毛笔、钢笔 (Core concept alternative form)",
-            "雨伞、椅子、钥匙 (Core concept alternative form)"
+            "桌子、机票、床、照片 (standard target expression for Core Individual Classifiers)",
+            "汉语书、词典、笔记本 (contextual contrast form in Core Individual Classifiers)",
+            "铅笔、毛笔、钢笔 (formal register distinction for Core Individual Classifiers)",
+            "雨伞、椅子、钥匙 (colloquial conversational usage for Core Individual Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "量词「张」专用于平展、薄片或平坦表面的物品，如桌子、机票、床、照片。"
@@ -2476,10 +2476,10 @@
         {
           "prompt": "修饰细长、柔软的衣物「裤子」时，正确的量词搭配是：",
           "options": [
-            "一条裤子 (Core concept alternative form)",
-            "一本裤子 (Core concept alternative form)",
-            "一张裤子 (Core concept alternative form)",
-            "一把裤子 (Core concept alternative form)"
+            "一条裤子 (standard target expression for Core Individual Classifiers)",
+            "一本裤子 (contextual contrast form in Core Individual Classifiers)",
+            "一张裤子 (formal register distinction for Core Individual Classifiers)",
+            "一把裤子 (colloquial conversational usage for Core Individual Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "「裤子」属于细长形态的服饰，在汉语中一律使用量词「条」。"
@@ -2491,10 +2491,10 @@
         {
           "prompt": "下列哪一组名词与量词的搭配完全正确无误？",
           "options": [
-            "两本词典、三支铅笔、一把雨伞 (Core concept alternative form)",
-            "两张词典、三条铅笔、一本雨伞 (Core concept alternative form)",
-            "两支词典、三把铅笔、一张雨伞 (Core concept alternative form)",
-            "两条词典、三张铅笔、一支雨伞 (Core concept alternative form)"
+            "两本词典、三支铅笔、一把雨伞 (standard target expression for Core Individual Classifiers)",
+            "两张词典、三条铅笔、一本雨伞 (contextual contrast form in Core Individual Classifiers)",
+            "两支词典、三把铅笔、一张雨伞 (formal register distinction for Core Individual Classifiers)",
+            "两条词典、三张铅笔、一支雨伞 (colloquial conversational usage for Core Individual Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "词典用「本」，铅笔用「支」，雨伞用「把」，各项搭配完全精准符合规范。"
@@ -2502,10 +2502,10 @@
         {
           "prompt": "修饰用于开门进入房间的工具「钥匙」时，应选用的量词是：",
           "options": [
-            "把 (Core concept key phrasing)",
-            "本 (Core concept alternative form)",
-            "张 (Core concept alternative form)",
-            "条 (Core concept alternative form)"
+            "把 (standard target expression for Core Individual Classifiers)",
+            "本 (contextual contrast form in Core Individual Classifiers)",
+            "张 (formal register distinction for Core Individual Classifiers)",
+            "条 (colloquial conversational usage for Core Individual Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "钥匙属于手持操控的器具，使用量词「把（一把钥匙）」。"
@@ -2518,10 +2518,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中量词使用全部准确得体的一项：",
           "options": [
-            "房间里有一张大桌子、两把木头椅子和三本书 (Core concept alternative form)",
-            "房间里有一本大桌子、两张木头椅子和三把书 (Core concept alternative form)",
-            "房间里有一条大桌子、两支木头椅子和三张书 (Core concept alternative form)",
-            "房间里有一把大桌子、两条木头椅子和三支书 (Core concept alternative form)"
+            "房间里有一张大桌子、两把木头椅子和三本书 (standard target expression for Core Individual Classifiers)",
+            "房间里有一本大桌子、两张木头椅子和三把书 (contextual contrast form in Core Individual Classifiers)",
+            "房间里有一条大桌子、两支木头椅子和三张书 (formal register distinction for Core Individual Classifiers)",
+            "房间里有一把大桌子、两条木头椅子和三支书 (colloquial conversational usage for Core Individual Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "桌子用「张」，椅子用「把」，书用「本」，搭配完全精确无误。"
@@ -2585,10 +2585,10 @@
         {
           "prompt": "在餐馆点餐时，表达「两碗面条」和「两杯热茶」的量词搭配应选用：",
           "options": [
-            "碗  与 杯 (Core concept alternative form)",
-            "本 与 张 (Core concept alternative form)",
-            "条 与 支 (Core concept alternative form)",
-            "把 与 个 (Core concept alternative form)"
+            "碗  与 杯 (standard target expression for Container   Measurement Classifiers)",
+            "本 与 张 (contextual contrast form in Container   Measurement Classifiers)",
+            "条 与 支 (formal register distinction for Container   Measurement Classifiers)",
+            "把 与 个 (colloquial conversational usage for Container   Measurement Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "面条用碗盛装故用「碗」，茶水用杯盛装故用「杯」，属于标准容器量词。"
@@ -2596,10 +2596,10 @@
         {
           "prompt": "在中国菜市场买水果，标价「8元一斤」，这里的「一斤」重量相当于公制：",
           "options": [
-            "500克 (Core concept alternative form)",
-            "1000克 (Core concept alternative form)",
-            "250克 (Core concept alternative form)",
-            "100克 (Core concept alternative form)"
+            "500克 (standard target expression for Container   Measurement Classifiers)",
+            "1000克 (contextual contrast form in Container   Measurement Classifiers)",
+            "250克 (formal register distinction for Container   Measurement Classifiers)",
+            "100克 (colloquial conversational usage for Container   Measurement Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "中国大陆法定市斤标准中，1 斤严格等于 500 克（即半公斤）。"
@@ -2611,10 +2611,10 @@
         {
           "prompt": "口语中表达商品价格「15.50元」时，最自然地道的中文说法是：",
           "options": [
-            "十五块五毛钱 / 十五块五 (Core concept alternative form)",
-            "十五元五角钱零分 (Core concept alternative form)",
-            "五毛十五块 (Core concept alternative form)",
-            "十五点五十块钱 (Core concept alternative form)"
+            "十五块五毛钱 / 十五块五 (standard target expression for Container   Measurement Classifiers)",
+            "十五元五角钱零分 (contextual contrast form in Container   Measurement Classifiers)",
+            "五毛十五块 (formal register distinction for Container   Measurement Classifiers)",
+            "十五点五十块钱 (colloquial conversational usage for Container   Measurement Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "中文口语中货币主币读「块」，辅币读「毛」，15.50元常说作「十五块五毛」或简作「十五块五」。"
@@ -2622,10 +2622,10 @@
         {
           "prompt": "修饰装在玻璃瓶或塑料瓶中的矿泉水时，应使用的量词是：",
           "options": [
-            "瓶   」。 (Core concept alternative form)",
-            "本   」。 (Core concept alternative form)",
-            "把   」。 (Core concept alternative form)",
-            "张   」。 (Core concept alternative form)"
+            "瓶   」。 (standard target expression for Container   Measurement Classifiers)",
+            "本   」。 (contextual contrast form in Container   Measurement Classifiers)",
+            "把   」。 (formal register distinction for Container   Measurement Classifiers)",
+            "张   」。 (colloquial conversational usage for Container   Measurement Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "瓶装液体使用容器量词「瓶 (píng)」。"
@@ -2638,10 +2638,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列购物结账对话中量词与货币表达完全正确的一项：",
           "options": [
-            "甲：两瓶水和三斤苹果一共多少钱？ 乙：一共二十二块五毛钱 (Core concept alternative form)",
-            "甲：两张水和三把苹果一共多少钱？ 乙：一共二十二本五毛钱 (Core concept alternative form)",
-            "甲：两个水和三支苹果一共多少钱？ 乙：一共二十二元钱五分条 (Core concept alternative form)",
-            "甲：两杯水和三条苹果一共多少钱？ 乙：一共二十二毛五块钱 (Core concept alternative form)"
+            "甲：两瓶水和三斤苹果一共多少钱？ 乙：一共二十二块五毛钱 (standard target expression for Container   Measurement Classifiers)",
+            "甲：两张水和三把苹果一共多少钱？ 乙：一共二十二本五毛钱 (contextual contrast form in Container   Measurement Classifiers)",
+            "甲：两个水和三支苹果一共多少钱？ 乙：一共二十二元钱五分条 (formal register distinction for Container   Measurement Classifiers)",
+            "甲：两杯水和三条苹果一共多少钱？ 乙：一共二十二毛五块钱 (colloquial conversational usage for Container   Measurement Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "水用「瓶」，苹果称重用「斤」，价格「二十二块五毛钱」，语法与生活语用完全准确。"
@@ -2705,10 +2705,10 @@
         {
           "prompt": "在餐厅就餐时，修饰吃饭用的「筷子」应选用的标准量词是：",
           "options": [
-            "双 (Core concept key phrasing)",
-            "把 (Core concept alternative form)",
-            "张 (Core concept alternative form)",
-            "本 (Core concept alternative form)"
+            "双 (standard target expression for Indefinite   Collective Classifiers)",
+            "把 (contextual contrast form in Indefinite   Collective Classifiers)",
+            "张 (formal register distinction for Indefinite   Collective Classifiers)",
+            "本 (colloquial conversational usage for Indefinite   Collective Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "筷子是两支成套配合使用的对称餐具，必须使用量词「双（一双筷子）」。"
@@ -2716,10 +2716,10 @@
         {
           "prompt": "要表达「我会说少量的汉语」，最地道的中文表达是：",
           "options": [
-            "我会说一点儿汉语 (Core concept alternative form)",
-            "我会说一些汉语 (Core concept alternative form)",
-            "我会说一只汉语 (Core concept alternative form)",
-            "我会说一本汉语 (Core concept alternative form)"
+            "我会说一点儿汉语 (standard target expression for Indefinite   Collective Classifiers)",
+            "我会说一些汉语 (contextual contrast form in Indefinite   Collective Classifiers)",
+            "我会说一只汉语 (formal register distinction for Indefinite   Collective Classifiers)",
+            "我会说一本汉语 (colloquial conversational usage for Indefinite   Collective Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "修饰不可数抽象的语言能力「少量」，固定搭配使用不定量词「一点儿」。"
@@ -2731,10 +2731,10 @@
         {
           "prompt": "修饰公园里聚集成堆的很多游客时，应选用的集合量词是：",
           "options": [
-            "群 (Core concept key phrasing)",
-            "双 (Core concept alternative form)",
-            "对 (Core concept alternative form)",
-            "本 (Core concept alternative form)"
+            "群 (standard target expression for Indefinite   Collective Classifiers)",
+            "双 (contextual contrast form in Indefinite   Collective Classifiers)",
+            "对 (formal register distinction for Indefinite   Collective Classifiers)",
+            "本 (colloquial conversational usage for Indefinite   Collective Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "多人聚集而成的群体在汉语中使用集合量词「群（一群游客）」。"
@@ -2742,10 +2742,10 @@
         {
           "prompt": "请选出下列句子中不定量词使用完全正确的一项：",
           "options": [
-            "这些苹果很新鲜，请给我称两斤 (Core concept alternative form)",
-            "这群苹果很新鲜，请给我称两斤 (Core concept alternative form)",
-            "这双苹果很新鲜，请给我称两斤 (Core concept alternative form)",
-            "这对苹果很新鲜，请给我称两斤 (Core concept alternative form)"
+            "这些苹果很新鲜，请给我称两斤 (standard target expression for Indefinite   Collective Classifiers)",
+            "这群苹果很新鲜，请给我称两斤 (contextual contrast form in Indefinite   Collective Classifiers)",
+            "这双苹果很新鲜，请给我称两斤 (formal register distinction for Indefinite   Collective Classifiers)",
+            "这对苹果很新鲜，请给我称两斤 (colloquial conversational usage for Indefinite   Collective Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "指示代词「这」与不定量词「些」组合构成「这些苹果（these apples）」，完全符合规范。"
@@ -2758,10 +2758,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中量词与名词搭配全部正确的一项：",
           "options": [
-            "王先生买了一双皮鞋、一对耳环和一些茶叶 (Core concept alternative form)",
-            "王先生买了一群皮鞋、一双耳环和一点儿茶叶们 (Core concept alternative form)",
-            "王先生买了一对皮鞋、一群耳环和一双茶叶 (Core concept alternative form)",
-            "王先生买了一把皮鞋、一本耳环和一张茶叶 (Core concept alternative form)"
+            "王先生买了一双皮鞋、一对耳环和一些茶叶 (standard target expression for Indefinite   Collective Classifiers)",
+            "王先生买了一群皮鞋、一双耳环和一点儿茶叶们 (contextual contrast form in Indefinite   Collective Classifiers)",
+            "王先生买了一对皮鞋、一群耳环和一双茶叶 (formal register distinction for Indefinite   Collective Classifiers)",
+            "王先生买了一把皮鞋、一本耳环和一张茶叶 (colloquial conversational usage for Indefinite   Collective Classifiers)"
           ],
           "answerIndex": 0,
           "explanation": "皮鞋用「双」，耳环用「对」，茶叶用「一些」，完全契合各项量词语法规范。"
@@ -2825,10 +2825,10 @@
         {
           "prompt": "在句子「这是教我们汉语______王老师」中，定语与中心语之间应填入的结构助词是：",
           "options": [
-            "的  —— 动词短语作定语修饰名词中心语 (Core concept alternative form)",
-            "地 (Core concept alternative form)",
-            "得 (Core concept alternative form)",
-            "了 (Core concept alternative form)"
+            "的  —— 动词短语作定语修饰名词中心语 (standard target expression for Structural Particle       Attributive Modification)",
+            "地 (contextual contrast form in Structural Particle       Attributive Modification)",
+            "得 (formal register distinction for Structural Particle       Attributive Modification)",
+            "了 (colloquial conversational usage for Structural Particle       Attributive Modification)"
           ],
           "answerIndex": 0,
           "explanation": "「教我们汉语」充当定语修饰中心语名词「王老师」，必须使用定语结构助词「的」。"
@@ -2836,10 +2836,10 @@
         {
           "prompt": "下列短语中，哪一个由于属于亲属或单音节形容词而最自然省略「的」？",
           "options": [
-            "我妈妈 (Core concept key phrasing)",
-            "漂亮衣服 (Core concept alternative form)",
-            "中国历史 (Core concept alternative form)",
-            "我昨天买书 (Core concept alternative form)"
+            "我妈妈 (standard target expression for Structural Particle       Attributive Modification)",
+            "漂亮衣服 (contextual contrast form in Structural Particle       Attributive Modification)",
+            "中国历史 (formal register distinction for Structural Particle       Attributive Modification)",
+            "我昨天买书 (colloquial conversational usage for Structural Particle       Attributive Modification)"
           ],
           "answerIndex": 0,
           "explanation": "指称直系亲属称谓时代词后通常省略「的」，直称「我妈妈」、「我爸爸」最为自然地道。"
@@ -2851,10 +2851,10 @@
         {
           "prompt": "将句子「这本书是李华的」中「的」字结构还原为其省略的中心语，其完整含义是：",
           "options": [
-            "这本书是李华的书 (Core concept alternative form)",
-            "这本书是李华的老师 (Core concept alternative form)",
-            "这本书是李华的电脑 (Core concept alternative form)",
-            "这本书是李华的朋友 (Core concept alternative form)"
+            "这本书是李华的书 (standard target expression for Structural Particle       Attributive Modification)",
+            "这本书是李华的老师 (contextual contrast form in Structural Particle       Attributive Modification)",
+            "这本书是李华的电脑 (formal register distinction for Structural Particle       Attributive Modification)",
+            "这本书是李华的朋友 (colloquial conversational usage for Structural Particle       Attributive Modification)"
           ],
           "answerIndex": 0,
           "explanation": "「名词 + 的」构成「的字短语」，在此处省略了与主语相同的中心语「书」。"
@@ -2862,10 +2862,10 @@
         {
           "prompt": "请选出下列句子中修饰语语序完全符合汉语规范的一项：",
           "options": [
-            "北京大学的图书馆很安静 (Core concept alternative form)",
-            "图书馆北京大学的很大 (Core concept alternative form)",
-            "安静很北京大学图书馆 (Core concept alternative form)",
-            "北京大学图书馆很安静的 (Core concept alternative form)"
+            "北京大学的图书馆很安静 (standard target expression for Structural Particle       Attributive Modification)",
+            "图书馆北京大学的很大 (contextual contrast form in Structural Particle       Attributive Modification)",
+            "安静很北京大学图书馆 (formal register distinction for Structural Particle       Attributive Modification)",
+            "北京大学图书馆很安静的 (colloquial conversational usage for Structural Particle       Attributive Modification)"
           ],
           "answerIndex": 0,
           "explanation": "「定语（北京大学的）+ 中心语（图书馆）+ 谓语（很安静）」结构完全标准规范。"
@@ -2878,10 +2878,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中定语标记「的」使用与语序完全正确的一项：",
           "options": [
-            "我昨天买的那本汉语词典非常实用 (Core concept alternative form)",
-            "我买的那本汉语词典昨天非常实用 (Core concept alternative form)",
-            "昨天买的那本汉语词典我的非常实用 (Core concept alternative form)",
-            "汉语词典我昨天买的那本非常实用的 (Core concept alternative form)"
+            "我昨天买的那本汉语词典非常实用 (standard target expression for Structural Particle       Attributive Modification)",
+            "我买的那本汉语词典昨天非常实用 (contextual contrast form in Structural Particle       Attributive Modification)",
+            "昨天买的那本汉语词典我的非常实用 (formal register distinction for Structural Particle       Attributive Modification)",
+            "汉语词典我昨天买的那本非常实用的 (colloquial conversational usage for Structural Particle       Attributive Modification)"
           ],
           "answerIndex": 0,
           "explanation": "「领属代词（我）+ 时间与动词定语（昨天买的）+ 数量短语（那本）+ 中心语（汉语词典）」语序完全严密。"
@@ -2945,10 +2945,10 @@
         {
           "prompt": "在下列日常作息动词中，表示「结束课程走出教室」的是：",
           "options": [
-            "下课 (Core concept key phrasing)",
-            "上课 (Core concept alternative form)",
-            "下班 (Core concept key phrasing)",
-            "上班 (Core concept alternative form)"
+            "下课 (standard target expression for Daily Routine Verbs   Typical Day Schedule)",
+            "上课 (contextual contrast form in Daily Routine Verbs   Typical Day Schedule)",
+            "下班 (formal register distinction for Daily Routine Verbs   Typical Day Schedule)",
+            "上班 (colloquial conversational usage for Daily Routine Verbs   Typical Day Schedule)"
           ],
           "answerIndex": 0,
           "explanation": "「下课」表示课程结束（Class is over）；「下班」则专指工作下班。"
@@ -2956,10 +2956,10 @@
         {
           "prompt": "要表达「我每天早上七点半起床」，正确的语序结构是：",
           "options": [
-            "我每天早上七点半起床 (Core concept alternative form)",
-            "我起床每天早上七点半 (Core concept alternative form)",
-            "起床我每天早上七点半 (Core concept alternative form)",
-            "每天我起床早上七点半 (Core concept alternative form)"
+            "我每天早上七点半起床 (standard target expression for Daily Routine Verbs   Typical Day Schedule)",
+            "我起床每天早上七点半 (contextual contrast form in Daily Routine Verbs   Typical Day Schedule)",
+            "起床我每天早上七点半 (formal register distinction for Daily Routine Verbs   Typical Day Schedule)",
+            "每天我起床早上七点半 (colloquial conversational usage for Daily Routine Verbs   Typical Day Schedule)"
           ],
           "answerIndex": 0,
           "explanation": "时间状语「每天早上七点半」严格置于主语「我」之后、动词「起床」之前。"
@@ -2971,10 +2971,10 @@
         {
           "prompt": "下列哪一组动词词组完全属于清晨起居与洗漱行为？",
           "options": [
-            "起床、刷牙、洗脸、吃早饭 (Core concept key phrasing)",
-            "下班、睡觉、做作业、开会 (Core concept alternative form)",
-            "散步、看电视、下课、买菜 (Core concept alternative form)",
-            "上网、打球、开会、看电影 (Core concept alternative form)"
+            "起床、刷牙、洗脸、吃早饭 (standard target expression for Daily Routine Verbs   Typical Day Schedule)",
+            "下班、睡觉、做作业、开会 (contextual contrast form in Daily Routine Verbs   Typical Day Schedule)",
+            "散步、看电视、下课、买菜 (formal register distinction for Daily Routine Verbs   Typical Day Schedule)",
+            "上网、打球、开会、看电影 (colloquial conversational usage for Daily Routine Verbs   Typical Day Schedule)"
           ],
           "answerIndex": 0,
           "explanation": "起床、刷牙、洗脸、吃早饭构成了清晨标准的晨间作息链条。"
@@ -2982,10 +2982,10 @@
         {
           "prompt": "请选出下列句子中表达「就寝入睡」最地道规范的动词搭配：",
           "options": [
-            "睡觉 (Core concept key phrasing)",
-            "睡床 (Core concept alternative form)",
-            "眠觉 (Core concept alternative form)",
-            "歇宿 (Core concept alternative form)"
+            "睡觉 (standard target expression for Daily Routine Verbs   Typical Day Schedule)",
+            "睡床 (contextual contrast form in Daily Routine Verbs   Typical Day Schedule)",
+            "眠觉 (formal register distinction for Daily Routine Verbs   Typical Day Schedule)",
+            "歇宿 (colloquial conversational usage for Daily Routine Verbs   Typical Day Schedule)"
           ],
           "answerIndex": 0,
           "explanation": "现代标准汉语中最通用、最自然的表达就寝睡眠的动词是「睡觉 (shuìjiào)」或「去睡觉」。"
@@ -2998,10 +2998,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列作息叙述中逻辑合理且语序完全规范的一项：",
           "options": [
-            "王华每天上午八点去学校上课，中午在食堂吃午饭，晚上十一点睡觉 (Core concept alternative form)",
-            "王华每天去学校上课上午八点，在食堂吃午饭中午 (Core concept alternative form)",
-            "王华上课上午八点，睡觉在十一点晚上 (Core concept alternative form)",
-            "王华在十一点睡觉晚上，吃午饭在中午食堂 (Core concept alternative form)"
+            "王华每天上午八点去学校上课，中午在食堂吃午饭，晚上十一点睡觉 (standard target expression for Daily Routine Verbs   Typical Day Schedule)",
+            "王华每天去学校上课上午八点，在食堂吃午饭中午 (contextual contrast form in Daily Routine Verbs   Typical Day Schedule)",
+            "王华上课上午八点，睡觉在十一点晚上 (formal register distinction for Daily Routine Verbs   Typical Day Schedule)",
+            "王华在十一点睡觉晚上，吃午饭在中午食堂 (colloquial conversational usage for Daily Routine Verbs   Typical Day Schedule)"
           ],
           "answerIndex": 0,
           "explanation": "时间状语均置于动词之前，作息时间线清晰顺畅，句式完全规范。"
@@ -3065,10 +3065,10 @@
         {
           "prompt": "双音节动词「休息 (xiūxi)」在现代标准汉语中的正确动词重叠形式是：",
           "options": [
-            "休息休息 (AAAAAAABAB U5)",
-            "休休息息 (AAAAAAABAB U5)",
-            "休息一休息 (AAAAAAABAB U5)",
-            "休一休息 (AAAAAAABAB U5)"
+            "休息休息 (standard target expression for Verb Reduplication)",
+            "休休息息 (contextual contrast form in Verb Reduplication)",
+            "休息一休息 (formal register distinction for Verb Reduplication)",
+            "休一休息 (colloquial conversational usage for Verb Reduplication)"
           ],
           "answerIndex": 0,
           "explanation": "现代汉语双音节动词的重叠形式严格为 ABAB 式（休息休息、学习学习），不可使用 AABB 式。"
@@ -3076,10 +3076,10 @@
         {
           "prompt": "在句子「请你______这道菜的味道」中，表达尝试品尝且语气委婉的动词重叠式是：",
           "options": [
-            "尝尝 (AAAAAAABAB U5)",
-            "尝尝尝 (AAAAAAABAB U5)",
-            "尝了尝了 (AAAAAAABAB U5)",
-            "品尝品尝尝 (AAAAAAABAB U5)"
+            "尝尝 (standard target expression for Verb Reduplication)",
+            "尝尝尝 (contextual contrast form in Verb Reduplication)",
+            "尝了尝了 (formal register distinction for Verb Reduplication)",
+            "品尝品尝尝 (colloquial conversational usage for Verb Reduplication)"
           ],
           "answerIndex": 0,
           "explanation": "单音节动词重叠为 AA 式（尝尝）或 A一A 式（尝一尝），表示尝试与客气请求。"
@@ -3091,10 +3091,10 @@
         {
           "prompt": "下列哪一个词语属于形容词重叠而非动词重叠？",
           "options": [
-            "高高兴兴 (AAAAAAABAB U5)",
-            "介绍介绍 (AAAAAAABAB U5)",
-            "学习学习 (AAAAAAABAB U5)",
-            "讨论讨论 (AAAAAAABAB U5)"
+            "高高兴兴 (standard target expression for Verb Reduplication)",
+            "介绍介绍 (contextual contrast form in Verb Reduplication)",
+            "学习学习 (formal register distinction for Verb Reduplication)",
+            "讨论讨论 (colloquial conversational usage for Verb Reduplication)"
           ],
           "answerIndex": 0,
           "explanation": "「高高兴兴」属于形容词的 AABB 重叠式；动词重叠形式一律为 ABAB。"
@@ -3102,10 +3102,10 @@
         {
           "prompt": "在单音节动词 AA 重叠式（如「看看」、「想想」）中，第二个音节的正确发音调值为：",
           "options": [
-            "轻声 (AAAAAAABAB U5)",
-            "第一声阴平 (AAAAAAABAB U5)",
-            "第四声去声 (AAAAAAABAB U5)",
-            "保持原调不变 (AAAAAAABAB U5)"
+            "轻声 (standard target expression for Verb Reduplication)",
+            "第一声阴平 (contextual contrast form in Verb Reduplication)",
+            "第四声去声 (formal register distinction for Verb Reduplication)",
+            "保持原调不变 (colloquial conversational usage for Verb Reduplication)"
           ],
           "answerIndex": 0,
           "explanation": "单音节动词重叠后，第二个音节在普通话口语中必须弱化读作轻声。"
@@ -3118,10 +3118,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中动词重叠运用完全规范得体的一项：",
           "options": [
-            "这个问题很有意思，大家一起讨论讨论吧！ (AAAAAAABAB U5)",
-            "这个问题很有意思，大家一起讨讨论论吧！ (AAAAAAABAB U5)",
-            "这个问题很有意思，大家一起讨论一讨论吧！ (AAAAAAABAB U5)",
-            "这个问题很有意思，大家一起讨一讨论吧！ (AAAAAAABAB U5)"
+            "这个问题很有意思，大家一起讨论讨论吧！ (standard target expression for Verb Reduplication)",
+            "这个问题很有意思，大家一起讨讨论论吧！ (contextual contrast form in Verb Reduplication)",
+            "这个问题很有意思，大家一起讨论一讨论吧！ (formal register distinction for Verb Reduplication)",
+            "这个问题很有意思，大家一起讨一讨论吧！ (colloquial conversational usage for Verb Reduplication)"
           ],
           "answerIndex": 0,
           "explanation": "双音节动词「讨论」重叠为 ABAB 式「讨论讨论」，完全符合汉语语法标准。"
@@ -3185,10 +3185,10 @@
         {
           "prompt": "要表达「他现在没有在睡觉（进行体否定）」，正确的中文句子是：",
           "options": [
-            "他没在睡觉 / 他没有在睡觉 (Core concept alternative form)",
-            "他不在睡觉 (Core concept alternative form)",
-            "他不正在睡觉 (Core concept alternative form)",
-            "他没睡觉在 (Core concept alternative form)"
+            "他没在睡觉 / 他没有在睡觉 (standard target expression for Progressive Aspect)",
+            "他不在睡觉 (contextual contrast form in Progressive Aspect)",
+            "他不正在睡觉 (formal register distinction for Progressive Aspect)",
+            "他没睡觉在 (colloquial conversational usage for Progressive Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "否定动作进行体必须使用「没在」或「没有在」，绝不能使用「不在」。"
@@ -3196,10 +3196,10 @@
         {
           "prompt": "在句子「大家______认真听老师讲课呢」中，最适合填入的进行体副词是：",
           "options": [
-            "正在 (Core concept key phrasing)",
-            "常常 (Core concept alternative form)",
-            "已经 (Core concept alternative form)",
-            "就要 (Core concept alternative form)"
+            "正在 (standard target expression for Progressive Aspect)",
+            "常常 (contextual contrast form in Progressive Aspect)",
+            "已经 (formal register distinction for Progressive Aspect)",
+            "就要 (colloquial conversational usage for Progressive Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "副词「正在」与句末语气助词「呢」前后呼应，完美构成标准的动作进行体句式。"
@@ -3211,10 +3211,10 @@
         {
           "prompt": "要向朋友询问「你现在正在做什么？」，最地道自然的中文表达是：",
           "options": [
-            "你在做什么呢？ (Core concept key phrasing)",
-            "你做什么是现在？ (Core concept alternative form)",
-            "现在你是做什么？ (Core concept alternative form)",
-            "你在哪里做什么呢是？ (Core concept alternative form)"
+            "你在做什么呢？ (standard target expression for Progressive Aspect)",
+            "你做什么是现在？ (contextual contrast form in Progressive Aspect)",
+            "现在你是做什么？ (formal register distinction for Progressive Aspect)",
+            "你在哪里做什么呢是？ (colloquial conversational usage for Progressive Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "「你在做什么呢？」是询问当前正在发生动作的最经典地道句式。"
@@ -3222,10 +3222,10 @@
         {
           "prompt": "下列哪一个句子由于错误使用「不在」否定动作进行体而构成了病句？",
           "options": [
-            "他不在写作业，在玩电脑游戏 (Core concept alternative form)",
-            "他没在写作业，在玩电脑游戏 (Core concept alternative form)",
-            "他不在办公室，在图书馆 (Core concept alternative form)",
-            "张老师不在学校 (Core concept alternative form)"
+            "他不在写作业，在玩电脑游戏 (standard target expression for Progressive Aspect)",
+            "他没在写作业，在玩电脑游戏 (contextual contrast form in Progressive Aspect)",
+            "他不在办公室，在图书馆 (formal register distinction for Progressive Aspect)",
+            "张老师不在学校 (colloquial conversational usage for Progressive Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "否定动作进行体必须用「没在写作业」，不能用「不在写作业」。「不在办公室」则是正确的处所否定。"
@@ -3238,10 +3238,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列问答对话中关于动作进行体表达完全准确规范的一组：",
           "options": [
-            "甲：李华在做什么呢？ 乙：他正在宿舍听中国现代音乐呢 (Core concept alternative form)",
-            "甲：李华做什么在呢？ 乙：他做正在宿舍听中国现代音乐 (Core concept alternative form)",
-            "甲：李华不在做什么？ 乙：他不正在宿舍听音乐 (Core concept alternative form)",
-            "甲：李华在做什么呢？ 乙：他在听音乐宿舍正在呢 (Core concept alternative form)"
+            "甲：李华在做什么呢？ 乙：他正在宿舍听中国现代音乐呢 (standard target expression for Progressive Aspect)",
+            "甲：李华做什么在呢？ 乙：他做正在宿舍听中国现代音乐 (contextual contrast form in Progressive Aspect)",
+            "甲：李华不在做什么？ 乙：他不正在宿舍听音乐 (formal register distinction for Progressive Aspect)",
+            "甲：李华在做什么呢？ 乙：他在听音乐宿舍正在呢 (colloquial conversational usage for Progressive Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "提问「在做什么呢」与回答「正在......呢」结构完全严密，处所与动词语序精准。"
@@ -3305,10 +3305,10 @@
         {
           "prompt": "表达「我在食堂吃午饭」，处所状语「在食堂」在句子中的正确位置是：",
           "options": [
-            "置于主语「我」之后、动词「吃」之前：我在食堂吃午饭 (Core concept alternative form)",
-            "置于句子最末尾：我吃午饭在食堂 (Core concept alternative form)",
-            "置于动词和宾语之间：我吃在食堂午饭 (Core concept alternative form)",
-            "置于宾语之后：我吃午饭食堂在 (Core concept alternative form)"
+            "置于主语「我」之后、动词「吃」之前：我在食堂吃午饭 (standard target expression for Locative Preposition       Spatial S   P V O Order)",
+            "置于句子最末尾：我吃午饭在食堂 (contextual contrast form in Locative Preposition       Spatial S   P V O Order)",
+            "置于动词和宾语之间：我吃在食堂午饭 (formal register distinction for Locative Preposition       Spatial S   P V O Order)",
+            "置于宾语之后：我吃午饭食堂在 (colloquial conversational usage for Locative Preposition       Spatial S   P V O Order)"
           ],
           "answerIndex": 0,
           "explanation": "处所介词短语「在食堂」作为状语，必须置于谓语动词「吃」之前。"
@@ -3316,10 +3316,10 @@
         {
           "prompt": "要询问对方「你在哪里学习汉语？」，正确的疑问语序是：",
           "options": [
-            "你在哪儿学习汉语？ (Core concept alternative form)",
-            "你学习汉语在哪儿？ (Core concept alternative form)",
-            "你在哪儿是学习汉语？ (Core concept alternative form)",
-            "学习汉语你在哪儿？ (Core concept alternative form)"
+            "你在哪儿学习汉语？ (standard target expression for Locative Preposition       Spatial S   P V O Order)",
+            "你学习汉语在哪儿？ (contextual contrast form in Locative Preposition       Spatial S   P V O Order)",
+            "你在哪儿是学习汉语？ (formal register distinction for Locative Preposition       Spatial S   P V O Order)",
+            "学习汉语你在哪儿？ (colloquial conversational usage for Locative Preposition       Spatial S   P V O Order)"
           ],
           "answerIndex": 0,
           "explanation": "疑问代词处所短语「在哪儿」同样必须位于动词「学习」之前。"
@@ -3331,10 +3331,10 @@
         {
           "prompt": "下列哪一个句子由于把处所介词短语置于句末而构成了典型语序病句？",
           "options": [
-            "我们在借了两本书在图书馆 (Core concept alternative form)",
-            "我们在图书馆借了两本书 (Core concept alternative form)",
-            "张老师在教室上课 (Core concept alternative form)",
-            "学生们在操场打篮球 (Core concept alternative form)"
+            "我们在借了两本书在图书馆 (standard target expression for Locative Preposition       Spatial S   P V O Order)",
+            "我们在图书馆借了两本书 (contextual contrast form in Locative Preposition       Spatial S   P V O Order)",
+            "张老师在教室上课 (formal register distinction for Locative Preposition       Spatial S   P V O Order)",
+            "学生们在操场打篮球 (colloquial conversational usage for Locative Preposition       Spatial S   P V O Order)"
           ],
           "answerIndex": 0,
           "explanation": "「在图书馆」作为处所状语被放在了句末，属于受外语影响的严重语序错误。"
@@ -3342,10 +3342,10 @@
         {
           "prompt": "在句子「王教授在办公室」中，单字「在」充当的句子成分是：",
           "options": [
-            "全句的核心谓语动词 (Core concept alternative form)",
-            "修饰动词的介词 (Core concept alternative form)",
-            "名词 (Core concept key phrasing)",
-            "形容词 (Core concept alternative form)"
+            "全句的核心谓语动词 (standard target expression for Locative Preposition       Spatial S   P V O Order)",
+            "修饰动词的介词 (contextual contrast form in Locative Preposition       Spatial S   P V O Order)",
+            "名词 (formal register distinction for Locative Preposition       Spatial S   P V O Order)",
+            "形容词 (colloquial conversational usage for Locative Preposition       Spatial S   P V O Order)"
           ],
           "answerIndex": 0,
           "explanation": "在此句中「在」后直接跟处所名词，没有其他动词，充当全句核心谓语动词。"
@@ -3358,10 +3358,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中时间、处所与动词语序全部正确无误的一项：",
           "options": [
-            "我们明天下午在学校体育馆打羽毛球 (Core concept alternative form)",
-            "我们打羽毛球在学校体育馆明天下午 (Core concept alternative form)",
-            "我们在学校体育馆明天下午打羽毛球 (Core concept alternative form)",
-            "我们打羽毛球明天下午在学校体育馆 (Core concept alternative form)"
+            "我们明天下午在学校体育馆打羽毛球 (standard target expression for Locative Preposition       Spatial S   P V O Order)",
+            "我们打羽毛球在学校体育馆明天下午 (contextual contrast form in Locative Preposition       Spatial S   P V O Order)",
+            "我们在学校体育馆明天下午打羽毛球 (formal register distinction for Locative Preposition       Spatial S   P V O Order)",
+            "我们打羽毛球明天下午在学校体育馆 (colloquial conversational usage for Locative Preposition       Spatial S   P V O Order)"
           ],
           "answerIndex": 0,
           "explanation": "汉语中标准完整语序为：「主语 + [时间状语] + [处所状语] + 谓语动词 + 宾语」，即「我们 + 明天下午 + 在学校体育馆 + 打 + 羽毛球」。"
@@ -3425,10 +3425,10 @@
         {
           "prompt": "在叙述作息先后动作时，表示「第一步先做 A，第二步接着做 B」的经典关联词对是：",
           "options": [
-            "先......然后...... (Core concept key phrasing)",
-            "虽然......但是...... (Core concept alternative form)",
-            "因为......所以...... (Core concept alternative form)",
-            "不但......而且...... (Core concept alternative form)"
+            "先......然后...... (standard target expression for Daily Routine Narrative   Discourse Cohesion)",
+            "虽然......但是...... (contextual contrast form in Daily Routine Narrative   Discourse Cohesion)",
+            "因为......所以...... (formal register distinction for Daily Routine Narrative   Discourse Cohesion)",
+            "不但......而且...... (colloquial conversational usage for Daily Routine Narrative   Discourse Cohesion)"
           ],
           "answerIndex": 0,
           "explanation": "「先......然后......」是汉语中表达动作时间先后顺序最经典通用的关联词对。"
@@ -3436,10 +3436,10 @@
         {
           "prompt": "表达「下课之后/课程结束以后」，正确的短语结构是：",
           "options": [
-            "下课以后 / 下课之后 (Core concept alternative form)",
-            "以后下课 (Core concept alternative form)",
-            "下课在以后 (Core concept alternative form)",
-            "在以后下课 (Core concept alternative form)"
+            "下课以后 / 下课之后 (standard target expression for Daily Routine Narrative   Discourse Cohesion)",
+            "以后下课 (contextual contrast form in Daily Routine Narrative   Discourse Cohesion)",
+            "下课在以后 (formal register distinction for Daily Routine Narrative   Discourse Cohesion)",
+            "在以后下课 (colloquial conversational usage for Daily Routine Narrative   Discourse Cohesion)"
           ],
           "answerIndex": 0,
           "explanation": "方位时间词「以后 / 之后」附在动词或小句之后构成时间状语从句（如「下课以后」）。"
@@ -3451,10 +3451,10 @@
         {
           "prompt": "请选出下列作息叙述中语篇连贯且关联词搭配完全正确的一项：",
           "options": [
-            "我每天早晨先跑步，然后吃早饭，最后去上课 (Core concept alternative form)",
-            "我每天早晨但是跑步，所以吃早饭，虽然去上课 (Core concept alternative form)",
-            "我每天早晨因为跑步，而且吃早饭，虽然去上课 (Core concept alternative form)",
-            "我每天早晨如果跑步，那么吃早饭，可是去上课 (Core concept alternative form)"
+            "我每天早晨先跑步，然后吃早饭，最后去上课 (standard target expression for Daily Routine Narrative   Discourse Cohesion)",
+            "我每天早晨但是跑步，所以吃早饭，虽然去上课 (contextual contrast form in Daily Routine Narrative   Discourse Cohesion)",
+            "我每天早晨因为跑步，而且吃早饭，虽然去上课 (formal register distinction for Daily Routine Narrative   Discourse Cohesion)",
+            "我每天早晨如果跑步，那么吃早饭，可是去上课 (colloquial conversational usage for Daily Routine Narrative   Discourse Cohesion)"
           ],
           "answerIndex": 0,
           "explanation": "「先......然后......最后......」层层递进，时间逻辑严丝合缝。"
@@ -3462,10 +3462,10 @@
         {
           "prompt": "在叙述一系列日常活动完成时，引出最终压轴行为的承接副词是：",
           "options": [
-            "最后 (Core concept key phrasing)",
-            "最先 (Core concept alternative form)",
-            "首先 (Core concept alternative form)",
-            "本来 (Core concept alternative form)"
+            "最后 (standard target expression for Daily Routine Narrative   Discourse Cohesion)",
+            "最先 (contextual contrast form in Daily Routine Narrative   Discourse Cohesion)",
+            "首先 (formal register distinction for Daily Routine Narrative   Discourse Cohesion)",
+            "本来 (colloquial conversational usage for Daily Routine Narrative   Discourse Cohesion)"
           ],
           "answerIndex": 0,
           "explanation": "「最后」用于表示一连串事件或作息活动的最终收尾步骤。"
@@ -3478,10 +3478,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列篇章段落中语法、语序、动词重叠及语篇衔接完全规范的一项：",
           "options": [
-            "我每天早上七点起床，先刷牙洗脸，然后去食堂吃早饭。上午我们在教室认真上课，中午下课以后在食堂吃午饭、休息休息。下午在图书馆看书，晚上十一点睡觉 (Core concept alternative form)",
-            "我每天早上七点起床，虽然刷牙洗脸，但是吃早饭在食堂。上午我们上课在教室，中午吃午饭以后下课在食堂 (Core concept alternative form)",
-            "我每天早上起床七点，洗脸刷牙先，然后早饭吃在食堂。在教室上课认真上午，休息休息在中午食堂 (Core concept alternative form)",
-            "我每天七点在起床早上，吃早饭在然后，下课在中午以后食堂 (Core concept alternative form)"
+            "我每天早上七点起床，先刷牙洗脸，然后去食堂吃早饭。上午我们在教室认真上课，中午下课以后在食堂吃午饭、休息休息。下午在图书馆看书，晚上十一点睡觉 (standard target expression for Daily Routine Narrative   Discourse Cohesion)",
+            "我每天早上七点起床，虽然刷牙洗脸，但是吃早饭在食堂。上午我们上课在教室，中午吃午饭以后下课在食堂 (contextual contrast form in Daily Routine Narrative   Discourse Cohesion)",
+            "我每天早上起床七点，洗脸刷牙先，然后早饭吃在食堂。在教室上课认真上午，休息休息在中午食堂 (formal register distinction for Daily Routine Narrative   Discourse Cohesion)",
+            "我每天七点在起床早上，吃早饭在然后，下课在中午以后食堂 (colloquial conversational usage for Daily Routine Narrative   Discourse Cohesion)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在时间词、处所介词「在」、动词重叠「休息休息」及时间连词「先...然后...以后」上均达到标准现代汉语范文规范。"
@@ -3545,10 +3545,10 @@
         {
           "prompt": "在下列中华美食中，属于中国传统节庆（如除夕春节）最具象征意义的面食是：",
           "options": [
-            "饺子 (Core concept key phrasing)",
-            "面包 (Core concept alternative form)",
-            "汉堡 (Core concept alternative form)",
-            "三明治 (Core concept alternative form)"
+            "饺子 (standard target expression for Chinese Staples  Dishes   Culinary Lexicon)",
+            "面包 (contextual contrast form in Chinese Staples  Dishes   Culinary Lexicon)",
+            "汉堡 (formal register distinction for Chinese Staples  Dishes   Culinary Lexicon)",
+            "三明治 (colloquial conversational usage for Chinese Staples  Dishes   Culinary Lexicon)"
           ],
           "answerIndex": 0,
           "explanation": "饺子形如元宝，是中国传统文化（尤其是北方）过年团圆最重要的象征性主食。"
@@ -3556,10 +3556,10 @@
         {
           "prompt": "由鸡肉丁、花生米、干辣椒爆炒而成的著名川菜名馔是：",
           "options": [
-            "宫保鸡丁 (Core concept key phrasing)",
-            "北京烤鸭 (Core concept alternative form)",
-            "西红柿炒鸡蛋 (Core concept alternative form)",
-            "清蒸鱼 (Core concept alternative form)"
+            "宫保鸡丁 (standard target expression for Chinese Staples  Dishes   Culinary Lexicon)",
+            "北京烤鸭 (contextual contrast form in Chinese Staples  Dishes   Culinary Lexicon)",
+            "西红柿炒鸡蛋 (formal register distinction for Chinese Staples  Dishes   Culinary Lexicon)",
+            "清蒸鱼 (colloquial conversational usage for Chinese Staples  Dishes   Culinary Lexicon)"
           ],
           "answerIndex": 0,
           "explanation": "「宫保鸡丁」是川菜中以鸡肉丁与花生米为主料的享誉世界的经典菜肴。"
@@ -3571,10 +3571,10 @@
         {
           "prompt": "点餐时表达「两碗白米饭和一盘水饺」，量词搭配完全正确的是：",
           "options": [
-            "两碗米饭和一盘饺子 (Core concept alternative form)",
-            "两张米饭和一本饺子 (Core concept alternative form)",
-            "两条米饭和两支饺子 (Core concept alternative form)",
-            "两把米饭和两双饺子 (Core concept alternative form)"
+            "两碗米饭和一盘饺子 (standard target expression for Chinese Staples  Dishes   Culinary Lexicon)",
+            "两张米饭和一本饺子 (contextual contrast form in Chinese Staples  Dishes   Culinary Lexicon)",
+            "两条米饭和两支饺子 (formal register distinction for Chinese Staples  Dishes   Culinary Lexicon)",
+            "两把米饭和两双饺子 (colloquial conversational usage for Chinese Staples  Dishes   Culinary Lexicon)"
           ],
           "answerIndex": 0,
           "explanation": "米饭用容器量词「碗」，水饺用盘装量词「盘」，搭配精准严密。"
@@ -3582,10 +3582,10 @@
         {
           "prompt": "中国国民家常菜「西红柿炒鸡蛋」中的主要蔬菜原料「西红柿」又称作：",
           "options": [
-            "番茄 (Core concept key phrasing)",
-            "土豆 (Core concept alternative form)",
-            "黄瓜 (Core concept alternative form)",
-            "青椒 (Core concept alternative form)"
+            "番茄 (standard target expression for Chinese Staples  Dishes   Culinary Lexicon)",
+            "土豆 (contextual contrast form in Chinese Staples  Dishes   Culinary Lexicon)",
+            "黄瓜 (formal register distinction for Chinese Staples  Dishes   Culinary Lexicon)",
+            "青椒 (colloquial conversational usage for Chinese Staples  Dishes   Culinary Lexicon)"
           ],
           "answerIndex": 0,
           "explanation": "「西红柿」在中文中亦广泛被称为「番茄 (fānqié)」。"
@@ -3598,10 +3598,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中菜品名称与量词搭配完全正确的一项：",
           "options": [
-            "服务员，请给我们上一盘麻婆豆腐、两碗米饭和一碗热汤 (Core concept alternative form)",
-            "服务员，请给我们上一本麻婆豆腐、两张米饭和一条热汤 (Core concept alternative form)",
-            "服务员，请给我们上两双麻婆豆腐、两支米饭和一把热汤 (Core concept alternative form)",
-            "服务员，请给我们上一群麻婆豆腐、两个米饭和一点儿热汤们 (Core concept alternative form)"
+            "服务员，请给我们上一盘麻婆豆腐、两碗米饭和一碗热汤 (standard target expression for Chinese Staples  Dishes   Culinary Lexicon)",
+            "服务员，请给我们上一本麻婆豆腐、两张米饭和一条热汤 (contextual contrast form in Chinese Staples  Dishes   Culinary Lexicon)",
+            "服务员，请给我们上两双麻婆豆腐、两支米饭和一把热汤 (formal register distinction for Chinese Staples  Dishes   Culinary Lexicon)",
+            "服务员，请给我们上一群麻婆豆腐、两个米饭和一点儿热汤们 (colloquial conversational usage for Chinese Staples  Dishes   Culinary Lexicon)"
           ],
           "answerIndex": 0,
           "explanation": "麻婆豆腐用「盘」，米饭与热汤用「碗」，完全符合现代汉语餐饮量词规范。"
@@ -3665,10 +3665,10 @@
         {
           "prompt": "在餐厅就餐完毕需要结账支付时，礼貌呼唤服务员的标准用语是：",
           "options": [
-            "服务员，买单！ / 服务员，结账！ (Core concept alternative form)",
-            "服务员，给钱！ (Core concept alternative form)",
-            "服务员，算账我！ (Core concept alternative form)",
-            "服务员，收人民币！ (Core concept alternative form)"
+            "服务员，买单！ / 服务员，结账！ (standard target expression for Restaurant Dining Discourse)",
+            "服务员，给钱！ (contextual contrast form in Restaurant Dining Discourse)",
+            "服务员，算账我！ (formal register distinction for Restaurant Dining Discourse)",
+            "服务员，收人民币！ (colloquial conversational usage for Restaurant Dining Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「买单」与「结账」是现代标准汉语中最通用、最礼貌得体的结账用语。"
@@ -3676,10 +3676,10 @@
         {
           "prompt": "服务员询问就餐人数「请问几位？」，两人就餐的标准回答是：",
           "options": [
-            "我们两位 (Core concept alternative form)",
-            "我们二个 (Core concept alternative form)",
-            "我们俩位人 (Core concept alternative form)",
-            "我们二位人 (Core concept alternative form)"
+            "我们两位 (standard target expression for Restaurant Dining Discourse)",
+            "我们二个 (contextual contrast form in Restaurant Dining Discourse)",
+            "我们俩位人 (formal register distinction for Restaurant Dining Discourse)",
+            "我们二位人 (colloquial conversational usage for Restaurant Dining Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "回答就餐人数时，使用数量词「两位（两位客人）」最为典雅得体。"
@@ -3691,10 +3691,10 @@
         {
           "prompt": "点菜时，表达「我们要一盘烤鸭，再来两碗米饭」，动词「来」在语境中的含义是：",
           "options": [
-            "上菜 / 带来 / 下单 (Core concept alternative form)",
-            "走过来 (Core concept alternative form)",
-            "离开 (Core concept alternative form)",
-            "做饭 (Core concept alternative form)"
+            "上菜 / 带来 / 下单 (standard target expression for Restaurant Dining Discourse)",
+            "走过来 (contextual contrast form in Restaurant Dining Discourse)",
+            "离开 (formal register distinction for Restaurant Dining Discourse)",
+            "做饭 (colloquial conversational usage for Restaurant Dining Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "动词「来」在餐饮点餐语境中是极其高频口语词，表示「请上一道菜/点取某物」。"
@@ -3702,10 +3702,10 @@
         {
           "prompt": "想要询问餐厅最拿手、最具代表性的菜肴，最标准的提问是：",
           "options": [
-            "请问你们有什么特色菜 / 招牌菜？ (Core concept alternative form)",
-            "请问你们有什么贵菜？ (Core concept alternative form)",
-            "请问你们做什么饭？ (Core concept alternative form)",
-            "请问菜好不好吃？ (Core concept alternative form)"
+            "请问你们有什么特色菜 / 招牌菜？ (standard target expression for Restaurant Dining Discourse)",
+            "请问你们有什么贵菜？ (contextual contrast form in Restaurant Dining Discourse)",
+            "请问你们做什么饭？ (formal register distinction for Restaurant Dining Discourse)",
+            "请问菜好不好吃？ (colloquial conversational usage for Restaurant Dining Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「特色菜」与「招牌菜」专指餐厅独具风味与极高声誉的代表名菜。"
@@ -3718,10 +3718,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列点餐会话中表达最为自然、得体且完全符合规范的一组：",
           "options": [
-            "顾客：服务员，我们要一盘宫保鸡丁，再来两碗米饭。 服务员：好的，请稍等！ (Core concept alternative form)",
-            "顾客：服务员，我们要两张鸡丁，再来两支米饭。 服务员：好的！ (Core concept alternative form)",
-            "顾客：服务员，做一盘宫保鸡丁我们吃在现在。 服务员：请等！ (Core concept alternative form)",
-            "顾客：服务员，米饭两碗宫保鸡丁一盘要买。 服务员：是的！ (Core concept alternative form)"
+            "顾客：服务员，我们要一盘宫保鸡丁，再来两碗米饭。 服务员：好的，请稍等！ (standard target expression for Restaurant Dining Discourse)",
+            "顾客：服务员，我们要两张鸡丁，再来两支米饭。 服务员：好的！ (contextual contrast form in Restaurant Dining Discourse)",
+            "顾客：服务员，做一盘宫保鸡丁我们吃在现在。 服务员：请等！ (formal register distinction for Restaurant Dining Discourse)",
+            "顾客：服务员，米饭两碗宫保鸡丁一盘要买。 服务员：是的！ (colloquial conversational usage for Restaurant Dining Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "顾客使用「要一盘宫保鸡丁，再来两碗米饭」，量词精准，动词地道，服务员应答得体。"
@@ -3785,10 +3785,10 @@
         {
           "prompt": "在餐馆点菜时，向服务员表达「不要在菜里添加辣椒」的正确中文句式是：",
           "options": [
-            "请别放辣椒 / 请不要放辣椒 (Core concept alternative form)",
-            "请少吃辣椒 (Core concept alternative form)",
-            "请不要辣椒放 (Core concept alternative form)",
-            "辣椒请不给 (Core concept alternative form)"
+            "请别放辣椒 / 请不要放辣椒 (standard target expression for Five Flavors   Taste Expressions)",
+            "请少吃辣椒 (contextual contrast form in Five Flavors   Taste Expressions)",
+            "请不要辣椒放 (formal register distinction for Five Flavors   Taste Expressions)",
+            "辣椒请不给 (colloquial conversational usage for Five Flavors   Taste Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "「请别放......」或「请不要放......」是表达忌口要求的最标准地道格式。"
@@ -3796,10 +3796,10 @@
         {
           "prompt": "中国著名菜肴「糖醋里脊」与「糖醋排骨」最突出的复合风味是：",
           "options": [
-            "酸甜 (Core concept key phrasing)",
-            "苦辣 (Core concept alternative form)",
-            "咸苦 (Core concept alternative form)",
-            "麻辣 (Core concept alternative form)"
+            "酸甜 (standard target expression for Five Flavors   Taste Expressions)",
+            "苦辣 (contextual contrast form in Five Flavors   Taste Expressions)",
+            "咸苦 (formal register distinction for Five Flavors   Taste Expressions)",
+            "麻辣 (colloquial conversational usage for Five Flavors   Taste Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "「糖醋」指以食糖与米醋调制而成的经典中餐复合风味「酸甜」。"
@@ -3811,10 +3811,10 @@
         {
           "prompt": "形容清蒸海鲜肉质极佳、带有天然美味鲜香的味觉形容词是：",
           "options": [
-            "鲜 / 鲜美 (Core concept alternative form)",
-            "苦 (Core concept alternative form)",
-            "咸 (Core concept alternative form)",
-            "辣 (Core concept alternative form)"
+            "鲜 / 鲜美 (standard target expression for Five Flavors   Taste Expressions)",
+            "苦 (contextual contrast form in Five Flavors   Taste Expressions)",
+            "咸 (formal register distinction for Five Flavors   Taste Expressions)",
+            "辣 (colloquial conversational usage for Five Flavors   Taste Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "「鲜」是中华饮食中专门赞美水产海鲜、优质肉类或鲜汤纯正滋味的最高评语。"
@@ -3822,10 +3822,10 @@
         {
           "prompt": "如果某位顾客饮食习惯清淡少油，他最可能对服务员说：",
           "options": [
-            "请做得清淡一点儿，少放油和盐 (Core concept alternative form)",
-            "请做得油腻一点儿，多放辣 (Core concept alternative form)",
-            "请做得太咸一点儿，少放水 (Core concept alternative form)",
-            "请多放糖和肥肉 (Core concept alternative form)"
+            "请做得清淡一点儿，少放油和盐 (standard target expression for Five Flavors   Taste Expressions)",
+            "请做得油腻一点儿，多放辣 (contextual contrast form in Five Flavors   Taste Expressions)",
+            "请做得太咸一点儿，少放水 (formal register distinction for Five Flavors   Taste Expressions)",
+            "请多放糖和肥肉 (colloquial conversational usage for Five Flavors   Taste Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "「清淡一点儿，少放油和盐」准确反映了健康少油盐的饮食偏好。"
@@ -3838,10 +3838,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中口味描写与定制要求完全规范地道的一项：",
           "options": [
-            "这道川菜非常辣，服务员，请给我们上一大杯冰水，下一道菜请少放辣椒 (Core concept alternative form)",
-            "这道川菜非常甜，服务员，下一道菜请少吃辣椒 (Core concept alternative form)",
-            "这道川菜非常苦，服务员，请放多辣椒在下一道菜上 (Core concept alternative form)",
-            "这道川菜非常清淡，服务员，请不要放水在菜里 (Core concept alternative form)"
+            "这道川菜非常辣，服务员，请给我们上一大杯冰水，下一道菜请少放辣椒 (standard target expression for Five Flavors   Taste Expressions)",
+            "这道川菜非常甜，服务员，下一道菜请少吃辣椒 (contextual contrast form in Five Flavors   Taste Expressions)",
+            "这道川菜非常苦，服务员，请放多辣椒在下一道菜上 (formal register distinction for Five Flavors   Taste Expressions)",
+            "这道川菜非常清淡，服务员，请不要放水在菜里 (colloquial conversational usage for Five Flavors   Taste Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "川菜特征为「辣」，点水解辣并提出「少放辣椒」的要求，语义自然，逻辑严密。"
@@ -3905,10 +3905,10 @@
         {
           "prompt": "在正式点餐向服务员下达点菜指令时，最自然直接的动词是：",
           "options": [
-            "要 (Core concept key phrasing)",
-            "必须 (Core concept alternative form)",
-            "应该 (Core concept alternative form)",
-            "可以 (Core concept alternative form)"
+            "要 (standard target expression for Modal Verbs     vs)",
+            "必须 (contextual contrast form in Modal Verbs     vs)",
+            "应该 (formal register distinction for Modal Verbs     vs)",
+            "可以 (colloquial conversational usage for Modal Verbs     vs)"
           ],
           "answerIndex": 0,
           "explanation": "在餐馆向服务员点菜下单时，「我们要...... / 来一盘......」是最自然地道的表达。"
@@ -3916,10 +3916,10 @@
         {
           "prompt": "要表达「主观上没有吃辣的意愿/不想吃辣」，应选用的否定形式是：",
           "options": [
-            "不想吃辣   」。 (Core concept alternative form)",
-            "不要吃辣   」。 (Core concept alternative form)",
-            "不肯吃辣   」。 (Core concept alternative form)",
-            "不愿吃辣   」。 (Core concept alternative form)"
+            "不想吃辣   」。 (standard target expression for Modal Verbs     vs)",
+            "不要吃辣   」。 (contextual contrast form in Modal Verbs     vs)",
+            "不肯吃辣   」。 (formal register distinction for Modal Verbs     vs)",
+            "不愿吃辣   」。 (colloquial conversational usage for Modal Verbs     vs)"
           ],
           "answerIndex": 0,
           "explanation": "表达主观上缺乏做某事的意愿与心情时，使用「不想 (bù xiǎng)」。"
@@ -3931,10 +3931,10 @@
         {
           "prompt": "请选出下列句子中「不要」表示明确拒绝添加某食材的一项：",
           "options": [
-            "服务员，我的这碗面条不要放香菜 (Core concept alternative form)",
-            "我不想去上课 (Core concept alternative form)",
-            "我今天晚上想看电影 (Core concept alternative form)",
-            "我们要两杯热绿茶 (Core concept alternative form)"
+            "服务员，我的这碗面条不要放香菜 (standard target expression for Modal Verbs     vs)",
+            "我不想去上课 (contextual contrast form in Modal Verbs     vs)",
+            "我今天晚上想看电影 (formal register distinction for Modal Verbs     vs)",
+            "我们要两杯热绿茶 (colloquial conversational usage for Modal Verbs     vs)"
           ],
           "answerIndex": 0,
           "explanation": "「不要放香菜」明确表达了拒绝添加香菜的忌口定制要求。"
@@ -3942,10 +3942,10 @@
         {
           "prompt": "询问远方来宾的饮食偏好时，最具礼貌和亲和力的问句是：",
           "options": [
-            "请问您想品尝哪种中国特色菜肴？ (Core concept alternative form)",
-            "你必须吃什么菜？ (Core concept alternative form)",
-            "你一定要吃哪个？ (Core concept alternative form)",
-            "你吃什么现在？ (Core concept alternative form)"
+            "请问您想品尝哪种中国特色菜肴？ (standard target expression for Modal Verbs     vs)",
+            "你必须吃什么菜？ (contextual contrast form in Modal Verbs     vs)",
+            "你一定要吃哪个？ (formal register distinction for Modal Verbs     vs)",
+            "你吃什么现在？ (colloquial conversational usage for Modal Verbs     vs)"
           ],
           "answerIndex": 0,
           "explanation": "使用「您想品尝......」语气委婉亲切，极具跨文化交际礼貌。"
@@ -3958,10 +3958,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列会话中助动词「想」与「要」运用完全得体正确的一组：",
           "options": [
-            "服务员：请问两位想吃点儿什么？ 顾客：我们想尝尝这儿的特色菜，我们要一盘宫保鸡丁和两碗米饭 (Core concept alternative form)",
-            "服务员：两位必须吃什么？ 顾客：我们不可吃这儿的菜 (Core concept alternative form)",
-            "服务员：两位要吃什么呢？ 顾客：我们不想要菜在今天 (Core concept alternative form)",
-            "服务员：想吃两位什么？ 顾客：要一盘鸡丁我们想 (Core concept alternative form)"
+            "服务员：请问两位想吃点儿什么？ 顾客：我们想尝尝这儿的特色菜，我们要一盘宫保鸡丁和两碗米饭 (standard target expression for Modal Verbs     vs)",
+            "服务员：两位必须吃什么？ 顾客：我们不可吃这儿的菜 (contextual contrast form in Modal Verbs     vs)",
+            "服务员：两位要吃什么呢？ 顾客：我们不想要菜在今天 (formal register distinction for Modal Verbs     vs)",
+            "服务员：想吃两位什么？ 顾客：要一盘鸡丁我们想 (colloquial conversational usage for Modal Verbs     vs)"
           ],
           "answerIndex": 0,
           "explanation": "服务员用「想吃点儿什么」礼貌询问，顾客先表达愿望「想尝尝」，再明确下单「我们要......」，语用极其地道标准。"
@@ -4025,10 +4025,10 @@
         {
           "prompt": "在中国餐桌礼仪中，关于使用筷子的重大文化禁忌是：",
           "options": [
-            "绝对不能将筷子直立插在米饭碗中央 (Core concept alternative form)",
-            "不能用筷子夹蔬菜 (Core concept alternative form)",
-            "不能使用木质筷子 (Core concept alternative form)",
-            "就餐前必须把筷子洗三遍 (Core concept alternative form)"
+            "绝对不能将筷子直立插在米饭碗中央 (standard target expression for Chinese Dining Etiquette   Eight Cuisines)",
+            "不能用筷子夹蔬菜 (contextual contrast form in Chinese Dining Etiquette   Eight Cuisines)",
+            "不能使用木质筷子 (formal register distinction for Chinese Dining Etiquette   Eight Cuisines)",
+            "就餐前必须把筷子洗三遍 (colloquial conversational usage for Chinese Dining Etiquette   Eight Cuisines)"
           ],
           "answerIndex": 0,
           "explanation": "将筷子直插在饭碗中央形似祭祀插香，在中国文化中属于严重禁忌。"
@@ -4036,10 +4036,10 @@
         {
           "prompt": "以「原汁原味、清脆鲜美、广式早茶点心」闻名天下的中国菜系是：",
           "options": [
-            "粤菜 (Core concept key phrasing)",
-            "川菜 (Core concept alternative form)",
-            "湘菜 (Core concept alternative form)",
-            "鲁菜 (Core concept alternative form)"
+            "粤菜 (standard target expression for Chinese Dining Etiquette   Eight Cuisines)",
+            "川菜 (contextual contrast form in Chinese Dining Etiquette   Eight Cuisines)",
+            "湘菜 (formal register distinction for Chinese Dining Etiquette   Eight Cuisines)",
+            "鲁菜 (colloquial conversational usage for Chinese Dining Etiquette   Eight Cuisines)"
           ],
           "answerIndex": 0,
           "explanation": "粤菜极其讲究食材原汁原味与鲜活清爽，广式早茶点心享誉全球。"
@@ -4051,10 +4051,10 @@
         {
           "prompt": "在宴席敬酒祝愿时，中国人常说的经典祝酒词是：",
           "options": [
-            "干杯！   」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。 (Core concept alternative form)",
-            "快喝！   」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。 (Core concept alternative form)",
-            "喝完它！   」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。 (Core concept alternative form)",
-            "倒酒！   」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。 (Core concept alternative form)"
+            "干杯！   」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。 (standard target expression for Chinese Dining Etiquette   Eight Cuisines)",
+            "快喝！   」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。 (contextual contrast form in Chinese Dining Etiquette   Eight Cuisines)",
+            "喝完它！   」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。 (formal register distinction for Chinese Dining Etiquette   Eight Cuisines)",
+            "倒酒！   」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。 (colloquial conversational usage for Chinese Dining Etiquette   Eight Cuisines)"
           ],
           "answerIndex": 0,
           "explanation": "「干杯 (Gānbēi)」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。"
@@ -4062,10 +4062,10 @@
         {
           "prompt": "在正式中餐宴席上，合乎中华礼仪的动筷进餐顺序是：",
           "options": [
-            "请主人与长辈先动筷夹菜，晚辈与客人随后 (Core concept alternative form)",
-            "小孩子抢先吃自己喜欢的菜 (Core concept alternative form)",
-            "所有人必须同时抓起筷子夹菜 (Core concept alternative form)",
-            "只夹离自己最远的那盘菜 (Core concept alternative form)"
+            "请主人与长辈先动筷夹菜，晚辈与客人随后 (standard target expression for Chinese Dining Etiquette   Eight Cuisines)",
+            "小孩子抢先吃自己喜欢的菜 (contextual contrast form in Chinese Dining Etiquette   Eight Cuisines)",
+            "所有人必须同时抓起筷子夹菜 (formal register distinction for Chinese Dining Etiquette   Eight Cuisines)",
+            "只夹离自己最远的那盘菜 (colloquial conversational usage for Chinese Dining Etiquette   Eight Cuisines)"
           ],
           "answerIndex": 0,
           "explanation": "「长者先动筷」体现了中华传统尊老敬贤与谦让待客的伦理秩序。"
@@ -4078,10 +4078,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中华饮食文化与宴席礼仪叙述完全正确的一项：",
           "options": [
-            "川菜以麻辣著称，粤菜以清鲜闻名；宴席上大家举杯说「干杯」，绝不可将筷子直立插在饭碗中 (Core concept alternative form)",
-            "川菜以清淡著称，粤菜以极其辛辣闻名；敬酒时杯子必须高于长辈 (Core concept alternative form)",
-            "中国餐桌上必须把筷子插在米饭上以示吉利 (Core concept alternative form)",
-            "中国人聚餐从来不用筷子，只用刀叉勺 (Core concept alternative form)"
+            "川菜以麻辣著称，粤菜以清鲜闻名；宴席上大家举杯说「干杯」，绝不可将筷子直立插在饭碗中 (standard target expression for Chinese Dining Etiquette   Eight Cuisines)",
+            "川菜以清淡著称，粤菜以极其辛辣闻名；敬酒时杯子必须高于长辈 (contextual contrast form in Chinese Dining Etiquette   Eight Cuisines)",
+            "中国餐桌上必须把筷子插在米饭上以示吉利 (formal register distinction for Chinese Dining Etiquette   Eight Cuisines)",
+            "中国人聚餐从来不用筷子，只用刀叉勺 (colloquial conversational usage for Chinese Dining Etiquette   Eight Cuisines)"
           ],
           "answerIndex": 0,
           "explanation": "该项全面准确地概括了川粤菜系风味对比、宴席祝酒词以及筷子核心文化禁忌。"
@@ -4145,10 +4145,10 @@
         {
           "prompt": "要表达「他昨天没有买这本汉语词典」，正确的否定句式是：",
           "options": [
-            "他昨天没买这本汉语词典 (Core concept alternative form)",
-            "他昨天没买了这本汉语词典 (Core concept alternative form)",
-            "他昨天不买这本汉语词典了 (Core concept alternative form)",
-            "他昨天不买了这本汉语词典 (Core concept alternative form)"
+            "他昨天没买这本汉语词典 (standard target expression for Aspect Particle        Perfective Completion)",
+            "他昨天没买了这本汉语词典 (contextual contrast form in Aspect Particle        Perfective Completion)",
+            "他昨天不买这本汉语词典了 (formal register distinction for Aspect Particle        Perfective Completion)",
+            "他昨天不买了这本汉语词典 (colloquial conversational usage for Aspect Particle        Perfective Completion)"
           ],
           "answerIndex": 0,
           "explanation": "否定过去动作的发生必须用「没/没有」，动词后面的动态助词「了」必须彻底脱落。"
@@ -4156,10 +4156,10 @@
         {
           "prompt": "在句子「我们明天下______课就去操场散步」中，表示第一项动作完成后立即进行下一动作的助词是：",
           "options": [
-            "了 (Core concept key phrasing)",
-            "过 (Core concept alternative form)",
-            "着 (Core concept alternative form)",
-            "在 (Core concept alternative form)"
+            "了 (standard target expression for Aspect Particle        Perfective Completion)",
+            "过 (contextual contrast form in Aspect Particle        Perfective Completion)",
+            "着 (formal register distinction for Aspect Particle        Perfective Completion)",
+            "在 (colloquial conversational usage for Aspect Particle        Perfective Completion)"
           ],
           "answerIndex": 0,
           "explanation": "「动词1 + 了 + 宾语 + 就 + 动词2」是表示两项动作紧密承接的经典格式。"
@@ -4171,10 +4171,10 @@
         {
           "prompt": "下列哪一个句子由于在否定句中错误保留了动态助词「了」而构成了病句？",
           "options": [
-            "他今天早晨没有吃了早饭 (Core concept alternative form)",
-            "他今天早晨没有吃早饭 (Core concept alternative form)",
-            "他今天早晨吃了一碗热面条 (Core concept alternative form)",
-            "他吃了早饭就去上课了 (Core concept alternative form)"
+            "他今天早晨没有吃了早饭 (standard target expression for Aspect Particle        Perfective Completion)",
+            "他今天早晨没有吃早饭 (contextual contrast form in Aspect Particle        Perfective Completion)",
+            "他今天早晨吃了一碗热面条 (formal register distinction for Aspect Particle        Perfective Completion)",
+            "他吃了早饭就去上课了 (colloquial conversational usage for Aspect Particle        Perfective Completion)"
           ],
           "answerIndex": 0,
           "explanation": "「没有吃了早饭」属于典型的初学者病句，动词后绝不能加「了」。"
@@ -4182,10 +4182,10 @@
         {
           "prompt": "在句子「张教授写了一部优秀的语言学专著」中，「了」的语法性质是：",
           "options": [
-            "紧附于动词后的动态助词 (Core concept alternative form)",
-            "句末语气助词 (Core concept alternative form)",
-            "形容词 (Core concept alternative form)",
-            "副词 (Core concept alternative form)"
+            "紧附于动词后的动态助词 (standard target expression for Aspect Particle        Perfective Completion)",
+            "句末语气助词 (contextual contrast form in Aspect Particle        Perfective Completion)",
+            "形容词 (formal register distinction for Aspect Particle        Perfective Completion)",
+            "副词 (colloquial conversational usage for Aspect Particle        Perfective Completion)"
           ],
           "answerIndex": 0,
           "explanation": "「写了一部专著」中「了」紧跟动词「写」，修饰数量宾语，属于标准动态助词「了₁」。"
@@ -4198,10 +4198,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中动态助词「了₁」运用完全正确无误的一项：",
           "options": [
-            "昨天王华在书店买了两本新书，回宿舍后认真读了一本 (Core concept alternative form)",
-            "昨天王华在书店没买了两本新书 (Core concept alternative form)",
-            "昨天王华在书店买新书两本了在下午 (Core concept alternative form)",
-            "王华每天在书店买了两本书 (Core concept alternative form)"
+            "昨天王华在书店买了两本新书，回宿舍后认真读了一本 (standard target expression for Aspect Particle        Perfective Completion)",
+            "昨天王华在书店没买了两本新书 (contextual contrast form in Aspect Particle        Perfective Completion)",
+            "昨天王华在书店买新书两本了在下午 (formal register distinction for Aspect Particle        Perfective Completion)",
+            "王华每天在书店买了两本书 (colloquial conversational usage for Aspect Particle        Perfective Completion)"
           ],
           "answerIndex": 0,
           "explanation": "「买了两本新书」、「读了一本」动作实现且带数量宾语，句法语义完全严谨。"
@@ -4265,10 +4265,10 @@
         {
           "prompt": "在句子「下雨了！」中，句末语气助词「了」表达的核心语法意义是：",
           "options": [
-            "事态发生新变化 (Core concept alternative form)",
-            "下雨已经彻底结束 (Core concept alternative form)",
-            "从来没有下过雨 (Core concept alternative form)",
-            "询问天气情况 (Core concept alternative form)"
+            "事态发生新变化 (standard target expression for Modal Particle        Change of State)",
+            "下雨已经彻底结束 (contextual contrast form in Modal Particle        Change of State)",
+            "从来没有下过雨 (formal register distinction for Modal Particle        Change of State)",
+            "询问天气情况 (colloquial conversational usage for Modal Particle        Change of State)"
           ],
           "answerIndex": 0,
           "explanation": "句末「了」在此处作为语气助词表示新情况的出现。"
@@ -4276,10 +4276,10 @@
         {
           "prompt": "表达「火车行将出发/马上就要开走」，正确的固定句式是：",
           "options": [
-            "火车快要开了！ (Core concept alternative form)",
-            "火车快要开过！ (Core concept alternative form)",
-            "火车快要在开着！ (Core concept alternative form)",
-            "火车开了快要！ (Core concept alternative form)"
+            "火车快要开了！ (standard target expression for Modal Particle        Change of State)",
+            "火车快要开过！ (contextual contrast form in Modal Particle        Change of State)",
+            "火车快要在开着！ (formal register distinction for Modal Particle        Change of State)",
+            "火车开了快要！ (colloquial conversational usage for Modal Particle        Change of State)"
           ],
           "answerIndex": 0,
           "explanation": "「快要......了」是现代汉语中表达动作即将发生的最标准句式。"
@@ -4291,10 +4291,10 @@
         {
           "prompt": "句子「我不吃肉了」所传达的真实含义是：",
           "options": [
-            "改变了原来的饮食习惯，现在不再吃肉了 (Core concept alternative form)",
-            "以前不吃肉，现在开始吃肉了 (Core concept alternative form)",
-            "从来没有吃过肉 (Core concept alternative form)",
-            "正在吃肉 (Core concept alternative form)"
+            "改变了原来的饮食习惯，现在不再吃肉了 (standard target expression for Modal Particle        Change of State)",
+            "以前不吃肉，现在开始吃肉了 (contextual contrast form in Modal Particle        Change of State)",
+            "从来没有吃过肉 (formal register distinction for Modal Particle        Change of State)",
+            "正在吃肉 (colloquial conversational usage for Modal Particle        Change of State)"
           ],
           "answerIndex": 0,
           "explanation": "「不 + 动词 + 了」表示放弃原有行为，产生状态转变。"
@@ -4302,10 +4302,10 @@
         {
           "prompt": "在感叹句「这里的风景太美了！」中，与副词「太」前后呼应的句末助词是：",
           "options": [
-            "了 (Core concept key phrasing)",
-            "过 (Core concept alternative form)",
-            "着 (Core concept alternative form)",
-            "的 (Core concept key phrasing)"
+            "了 (standard target expression for Modal Particle        Change of State)",
+            "过 (contextual contrast form in Modal Particle        Change of State)",
+            "着 (formal register distinction for Modal Particle        Change of State)",
+            "的 (colloquial conversational usage for Modal Particle        Change of State)"
           ],
           "answerIndex": 0,
           "explanation": "「太......了」是现代汉语中表达强烈赞叹的固定结构。"
@@ -4318,10 +4318,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中句末语气助词「了₂」运用完全规范得体的一项：",
           "options": [
-            "天气渐渐变暖和了，春天快要到了，公园里的花儿都开了 (Core concept alternative form)",
-            "天气渐渐变暖和过，春天快要到着 (Core concept alternative form)",
-            "天气变暖和了渐渐，快要到了春天 (Core concept alternative form)",
-            "春天快要在到了，花儿开了都 (Core concept alternative form)"
+            "天气渐渐变暖和了，春天快要到了，公园里的花儿都开了 (standard target expression for Modal Particle        Change of State)",
+            "天气渐渐变暖和过，春天快要到着 (contextual contrast form in Modal Particle        Change of State)",
+            "天气变暖和了渐渐，快要到了春天 (formal register distinction for Modal Particle        Change of State)",
+            "春天快要在到了，花儿开了都 (colloquial conversational usage for Modal Particle        Change of State)"
           ],
           "answerIndex": 0,
           "explanation": "「变暖和了」（变化）、「快要到了」（即将态）、「花儿都开了」（新状态），句末「了」运用典雅精准。"
@@ -4385,10 +4385,10 @@
         {
           "prompt": "句子「他在中国工作了五年了」向听话人传递的最核心信息是：",
           "options": [
-            "他已经在中国工作了五年，并且目前依然在中国工作 (Core concept alternative form)",
-            "他在中国工作了五年，现在已经离开中国回国了 (Core concept alternative form)",
-            "他从来没有在中国工作过 (Core concept alternative form)",
-            "他正打算去中国工作五年 (Core concept alternative form)"
+            "他已经在中国工作了五年，并且目前依然在中国工作 (standard target expression for Double LE Structure   Ongoing Duration)",
+            "他在中国工作了五年，现在已经离开中国回国了 (contextual contrast form in Double LE Structure   Ongoing Duration)",
+            "他从来没有在中国工作过 (formal register distinction for Double LE Structure   Ongoing Duration)",
+            "他正打算去中国工作五年 (colloquial conversational usage for Double LE Structure   Ongoing Duration)"
           ],
           "answerIndex": 0,
           "explanation": "双「了」句（工作了五年了）严格表示动作从过去开始，持续了五年且至今仍在继续。"
@@ -4396,10 +4396,10 @@
         {
           "prompt": "对比单双了：表示「过去曾学过半年汉语，但现在已经不学了」的句子是：",
           "options": [
-            "我学了半年汉语 (Core concept key phrasing)",
-            "我学了半年汉语了 (Core concept alternative form)",
-            "我学过半年汉语了 (Core concept alternative form)",
-            "我正在学了半年汉语 (Core concept alternative form)"
+            "我学了半年汉语 (standard target expression for Double LE Structure   Ongoing Duration)",
+            "我学了半年汉语了 (contextual contrast form in Double LE Structure   Ongoing Duration)",
+            "我学过半年汉语了 (formal register distinction for Double LE Structure   Ongoing Duration)",
+            "我正在学了半年汉语 (colloquial conversational usage for Double LE Structure   Ongoing Duration)"
           ],
           "answerIndex": 0,
           "explanation": "单「了」句「我学了半年汉语」句末没有「了」，表示过去动作的完成，现已不再持续。"
@@ -4411,10 +4411,10 @@
         {
           "prompt": "要询问对方「你学习汉语多长时间了？」，最标准的回应双「了」句是：",
           "options": [
-            "我学习了一年半了 (Core concept alternative form)",
-            "我学习一年半过 (Core concept alternative form)",
-            "我正在学习一年半了 (Core concept alternative form)",
-            "我学习了一年半着 (Core concept alternative form)"
+            "我学习了一年半了 (standard target expression for Double LE Structure   Ongoing Duration)",
+            "我学习一年半过 (contextual contrast form in Double LE Structure   Ongoing Duration)",
+            "我正在学习一年半了 (formal register distinction for Double LE Structure   Ongoing Duration)",
+            "我学习了一年半着 (colloquial conversational usage for Double LE Structure   Ongoing Duration)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 了 + 时量 + 了」是回答持续时间询问的最标准句式。"
@@ -4422,10 +4422,10 @@
         {
           "prompt": "在句子「外面这场大雨已经下了一整天了」中，句末「了」的作用是：",
           "options": [
-            "与动词后的「了」配合，表明下雨动作持续至今尚未停歇 (Core concept alternative form)",
-            "表示下雨已经完全停止 (Core concept alternative form)",
-            "表示否定 (Core concept alternative form)",
-            "表示疑问 (Core concept alternative form)"
+            "与动词后的「了」配合，表明下雨动作持续至今尚未停歇 (standard target expression for Double LE Structure   Ongoing Duration)",
+            "表示下雨已经完全停止 (contextual contrast form in Double LE Structure   Ongoing Duration)",
+            "表示否定 (formal register distinction for Double LE Structure   Ongoing Duration)",
+            "表示疑问 (colloquial conversational usage for Double LE Structure   Ongoing Duration)"
           ],
           "answerIndex": 0,
           "explanation": "句末「了」与动词后「了」构成双「了」格局，表达下雨持续整天且仍在下。"
@@ -4438,10 +4438,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中表达「持续性动作至今仍在继续进行」且语法完全正确的一项：",
           "options": [
-            "王华在北京大学读了三年研究生了，明年即将毕业 (Core concept alternative form)",
-            "王华在北京大学读三年研究生过明年 (Core concept alternative form)",
-            "王华在北京大学读了三年研究生着 (Core concept alternative form)",
-            "王华读了三年研究生在北京大学了 (Core concept alternative form)"
+            "王华在北京大学读了三年研究生了，明年即将毕业 (standard target expression for Double LE Structure   Ongoing Duration)",
+            "王华在北京大学读三年研究生过明年 (contextual contrast form in Double LE Structure   Ongoing Duration)",
+            "王华在北京大学读了三年研究生着 (formal register distinction for Double LE Structure   Ongoing Duration)",
+            "王华读了三年研究生在北京大学了 (colloquial conversational usage for Double LE Structure   Ongoing Duration)"
           ],
           "answerIndex": 0,
           "explanation": "「读了三年研究生了」精准呈现双「了」持续结构，后续「明年即将毕业」语义严密吻合。"
@@ -4505,10 +4505,10 @@
         {
           "prompt": "句子「我去过北京」与「我去了北京」的最大区别是：",
           "options": [
-            "「去过北京」指过去曾经有去北京的经历，现在人不在北京；「去了北京」指已经出发前往，现在可能在途或在京  +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "两句话意思完全相同没有任何区别 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "「去过北京」表示现在正在北京 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "「去了北京」表示从来没有去过北京 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)"
+            "「去过北京」指过去曾经有去北京的经历，现在人不在北京；「去了北京」指已经出发前往，现在可能在途或在京  +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (standard target expression for Aspect Particle       Experiential Aspect)",
+            "两句话意思完全相同没有任何区别 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (contextual contrast form in Aspect Particle       Experiential Aspect)",
+            "「去过北京」表示现在正在北京 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (formal register distinction for Aspect Particle       Experiential Aspect)",
+            "「去了北京」表示从来没有去过北京 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (colloquial conversational usage for Aspect Particle       Experiential Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "「过」强调过去的经历且已结束；「了」标记动作实现或状态改变（人前往了某地）。"
@@ -4516,10 +4516,10 @@
         {
           "prompt": "表达「我从来没有吃过这种中国特色小吃」，正确的中文句子是：",
           "options": [
-            "我从来没吃过这种中国特色小吃。 + 动词 + 过」，助词「过」必须保留。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。  + 动词 + 过」，助词「过」必须保留。 (Core concept alternative form)",
-            "我从来不吃过了这种中国特色小吃。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。  + 动词 + 过」，助词「过」必须保留。 (Core concept alternative form)",
-            "我从来没吃了这种中国特色小吃。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。  + 动词 + 过」，助词「过」必须保留。 (Core concept alternative form)",
-            "我没吃这种中国特色小吃过不。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。  + 动词 + 过」，助词「过」必须保留。 (Core concept alternative form)"
+            "我从来没吃过这种中国特色小吃。 + 动词 + 过」，助词「过」必须保留。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。  + 动词 + 过」，助词「过」必须保留。 (standard target expression for Aspect Particle       Experiential Aspect)",
+            "我从来不吃过了这种中国特色小吃。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。  + 动词 + 过」，助词「过」必须保留。 (contextual contrast form in Aspect Particle       Experiential Aspect)",
+            "我从来没吃了这种中国特色小吃。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。  + 动词 + 过」，助词「过」必须保留。 (formal register distinction for Aspect Particle       Experiential Aspect)",
+            "我没吃这种中国特色小吃过不。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。  + 动词 + 过」，助词「过」必须保留。 (colloquial conversational usage for Aspect Particle       Experiential Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "否定经历体使用「没(有) + 动词 + 过」，助词「过」必须保留。"
@@ -4531,10 +4531,10 @@
         {
           "prompt": "向外国朋友询问是否曾经登临过中国万里长城，最得体的疑问句是：",
           "options": [
-            "你去过长城吗？ / 你登过长城没有？ +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "你正在去长城吗？ +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "你去长城了没有快要？ +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "你想要去长城着吗？ +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)"
+            "你去过长城吗？ / 你登过长城没有？ +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (standard target expression for Aspect Particle       Experiential Aspect)",
+            "你正在去长城吗？ +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (contextual contrast form in Aspect Particle       Experiential Aspect)",
+            "你去长城了没有快要？ +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (formal register distinction for Aspect Particle       Experiential Aspect)",
+            "你想要去长城着吗？ +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (colloquial conversational usage for Aspect Particle       Experiential Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "询问人生过往经历，使用「动词 + 过 + 宾语 + 吗/没有」最为地道。"
@@ -4542,10 +4542,10 @@
         {
           "prompt": "在句子「李老师以前在国外教过两年中文」中，动态助词「过」表明：",
           "options": [
-            "李老师过去曾经在国外教中文，但现在已经不在此处任教  +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "李老师现在依然在国外教中文 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "李老师打算去国外教中文 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "李老师从来没去过国外 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)"
+            "李老师过去曾经在国外教中文，但现在已经不在此处任教  +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (standard target expression for Aspect Particle       Experiential Aspect)",
+            "李老师现在依然在国外教中文 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (contextual contrast form in Aspect Particle       Experiential Aspect)",
+            "李老师打算去国外教中文 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (formal register distinction for Aspect Particle       Experiential Aspect)",
+            "李老师从来没去过国外 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (colloquial conversational usage for Aspect Particle       Experiential Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "「教过」表示过去的从教经历，现已告一段落。"
@@ -4558,10 +4558,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列问答对话中关于经历体「过」运用完全准确地道的一组：",
           "options": [
-            "甲：你以前看过这部中国经典电影吗？ 乙：我没看过，但我听朋友介绍过，非常精彩。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "甲：你以前看了这部中国经典电影吗？ 乙：我没看过了这部电影。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "甲：你以前在看这部中国电影着吗？ 乙：我不看过这部电影。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)",
-            "甲：你看过这部电影快要吗？ 乙：我看了过一遍。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (Core concept alternative form)"
+            "甲：你以前看过这部中国经典电影吗？ 乙：我没看过，但我听朋友介绍过，非常精彩。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (standard target expression for Aspect Particle       Experiential Aspect)",
+            "甲：你以前看了这部中国经典电影吗？ 乙：我没看过了这部电影。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (contextual contrast form in Aspect Particle       Experiential Aspect)",
+            "甲：你以前在看这部中国电影着吗？ 乙：我不看过这部电影。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (formal register distinction for Aspect Particle       Experiential Aspect)",
+            "甲：你看过这部电影快要吗？ 乙：我看了过一遍。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 +动词+过」否定句式中「过」必须保留的铁律，精准辨析「动词+了」与「动词+过」的本质差异。 (colloquial conversational usage for Aspect Particle       Experiential Aspect)"
           ],
           "answerIndex": 0,
           "explanation": "提问「看过...吗」，否定回答「没看过」，肯定经历「听朋友介绍过」，语法与语用均无可挑剔。"
@@ -4625,10 +4625,10 @@
         {
           "prompt": "在叙述成长经历时，表达「在中国居住了三年且目前仍在居住，期间曾去过长城」，句式组合正确的是：",
           "options": [
-            "我在中国住了三年了，去过长城 (Core concept alternative form)",
-            "我在中国住了三年过，去了长城了 (Core concept alternative form)",
-            "我在中国住着三年，去在长城了 (Core concept alternative form)",
-            "我住在中国三年着了，去过长城了在 (Core concept alternative form)"
+            "我在中国住了三年了，去过长城 (standard target expression for Comprehensive Contrast   Past Narrative)",
+            "我在中国住了三年过，去了长城了 (contextual contrast form in Comprehensive Contrast   Past Narrative)",
+            "我在中国住着三年，去在长城了 (formal register distinction for Comprehensive Contrast   Past Narrative)",
+            "我住在中国三年着了，去过长城了在 (colloquial conversational usage for Comprehensive Contrast   Past Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「住了三年了」准确表达持续至今；「去过长城」准确表达过往旅游经历。"
@@ -4636,10 +4636,10 @@
         {
           "prompt": "在篇章「下雪了，天气冷了，我们买了一台暖气机」中，三个助词的语法功能依次是：",
           "options": [
-            "状态变化 -> 状态变化 -> 动作完成 (Core concept alternative form)",
-            "动作完成 -> 动作完成 -> 动作完成 (Core concept alternative form)",
-            "经历体 -> 经历体 -> 经历体 (Core concept alternative form)",
-            "状态变化 -> 经历体 -> 状态变化 (Core concept alternative form)"
+            "状态变化 -> 状态变化 -> 动作完成 (standard target expression for Comprehensive Contrast   Past Narrative)",
+            "动作完成 -> 动作完成 -> 动作完成 (contextual contrast form in Comprehensive Contrast   Past Narrative)",
+            "经历体 -> 经历体 -> 经历体 (formal register distinction for Comprehensive Contrast   Past Narrative)",
+            "状态变化 -> 经历体 -> 状态变化 (colloquial conversational usage for Comprehensive Contrast   Past Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「下雪了」和「冷了」是事态与天气变化，「买了一台」是动词动作实现。"
@@ -4651,10 +4651,10 @@
         {
           "prompt": "请选出下列叙述中体貌助词运用完全严密、逻辑天衣无缝的一项：",
           "options": [
-            "我来中国学习一年了，以前没学过汉语，昨天参加了汉语水平考试 (Core concept alternative form)",
-            "我来中国学习一年过，以前没学了汉语，昨天参加过汉语考试了 (Core concept alternative form)",
-            "我来中国学习一年着，以前不学过汉语，昨天参加在考试 (Core concept alternative form)",
-            "我来中国学习了一年了，以前没学了汉语，昨天参加过考试了 (Core concept alternative form)"
+            "我来中国学习一年了，以前没学过汉语，昨天参加了汉语水平考试 (standard target expression for Comprehensive Contrast   Past Narrative)",
+            "我来中国学习一年过，以前没学了汉语，昨天参加过汉语考试了 (contextual contrast form in Comprehensive Contrast   Past Narrative)",
+            "我来中国学习一年着，以前不学过汉语，昨天参加在考试 (formal register distinction for Comprehensive Contrast   Past Narrative)",
+            "我来中国学习了一年了，以前没学了汉语，昨天参加过考试了 (colloquial conversational usage for Comprehensive Contrast   Past Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "双「了」（持续）、「没学过」（否定经历）、「参加了」（完成），语法体系极其严谨。"
@@ -4662,10 +4662,10 @@
         {
           "prompt": "在句子「火车快要进站了，乘客们都站起来了」中，句末两个「了」共同表达的核心功能是：",
           "options": [
-            "传递即将发生与新动作状态的开启 (Core concept alternative form)",
-            "表示所有动作完全结束于遥远的过去 (Core concept alternative form)",
-            "表示否定与拒绝 (Core concept alternative form)",
-            "表示被动语态 (Core concept alternative form)"
+            "传递即将发生与新动作状态的开启 (standard target expression for Comprehensive Contrast   Past Narrative)",
+            "表示所有动作完全结束于遥远的过去 (contextual contrast form in Comprehensive Contrast   Past Narrative)",
+            "表示否定与拒绝 (formal register distinction for Comprehensive Contrast   Past Narrative)",
+            "表示被动语态 (colloquial conversational usage for Comprehensive Contrast   Past Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「快要...了」表示动作即将发生，「站起来了」表示新动作状态的产生。"
@@ -4678,10 +4678,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列叙事语篇中动词「了₁」、句末「了₂」、双「了」与「过」运用完全规范得体的一项：",
           "options": [
-            "我在北京生活了两年了，尝过很多地道的中华美食。春天来了，天气暖和了，昨天我和朋友去公园拍了很多美丽的照片 (Core concept alternative form)",
-            "我在北京生活了两年过，尝了许多美食了。春天来过，天气暖和着，昨天我和朋友拍照片很多了 (Core concept alternative form)",
-            "我在北京生活两年了在，尝过美食很多了。春天来在，天气冷过，昨天我和朋友拍了很多照片在公园 (Core concept alternative form)",
-            "我在北京生活两年着，没尝过美食了。春天快到过，昨天我和朋友拍了照片没有 (Core concept alternative form)"
+            "我在北京生活了两年了，尝过很多地道的中华美食。春天来了，天气暖和了，昨天我和朋友去公园拍了很多美丽的照片 (standard target expression for Comprehensive Contrast   Past Narrative)",
+            "我在北京生活了两年过，尝了许多美食了。春天来过，天气暖和着，昨天我和朋友拍照片很多了 (contextual contrast form in Comprehensive Contrast   Past Narrative)",
+            "我在北京生活两年了在，尝过美食很多了。春天来在，天气冷过，昨天我和朋友拍了很多照片在公园 (formal register distinction for Comprehensive Contrast   Past Narrative)",
+            "我在北京生活两年着，没尝过美食了。春天快到过，昨天我和朋友拍了照片没有 (colloquial conversational usage for Comprehensive Contrast   Past Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在双「了」（生活了两年了）、经历体（尝过美食）、句末变化（春天来了/暖和了）以及动作完成（拍了很多照片）上均达到了现代汉语典范水准。"
@@ -4745,10 +4745,10 @@
         {
           "prompt": "要表达「书架的最上面放着词典」，正确的方位短语是：",
           "options": [
-            "书架的最上边 / 最上面 (Core concept alternative form)",
-            "书架的最上头面 (Core concept alternative form)",
-            "书架的最上边里 (Core concept alternative form)",
-            "书架的最面头 (Core concept alternative form)"
+            "书架的最上边 / 最上面 (standard target expression for Spatial Locatives   Suffixes   bian mian tou)",
+            "书架的最上头面 (contextual contrast form in Spatial Locatives   Suffixes   bian mian tou)",
+            "书架的最上边里 (formal register distinction for Spatial Locatives   Suffixes   bian mian tou)",
+            "书架的最面头 (colloquial conversational usage for Spatial Locatives   Suffixes   bian mian tou)"
           ],
           "answerIndex": 0,
           "explanation": "「上」可接后缀「边」或「面」构成标准方位词「上边/上面」。"
@@ -4756,10 +4756,10 @@
         {
           "prompt": "下列关于地理专有名词与方位词的搭配中，完全符合汉语语法规范的是：",
           "options": [
-            "他在北京工作 (Core concept alternative form)",
-            "他在北京里工作 (Core concept alternative form)",
-            "他在中国里面生活 (Core concept alternative form)",
-            "他在上海城市里头居住 (Core concept alternative form)"
+            "他在北京工作 (standard target expression for Spatial Locatives   Suffixes   bian mian tou)",
+            "他在北京里工作 (contextual contrast form in Spatial Locatives   Suffixes   bian mian tou)",
+            "他在中国里面生活 (formal register distinction for Spatial Locatives   Suffixes   bian mian tou)",
+            "他在上海城市里头居住 (colloquial conversational usage for Spatial Locatives   Suffixes   bian mian tou)"
           ],
           "answerIndex": 0,
           "explanation": "城市名、国名自身具有处所属性，无需也不应加「里」或「里面」。"
@@ -4771,10 +4771,10 @@
         {
           "prompt": "在句子「学校的______是一座新建的体育馆，环境非常好」中，表示两建筑相对位置的词语是：",
           "options": [
-            "对面 (Core concept key phrasing)",
-            "对边 (Core concept key phrasing)",
-            "对头 (Core concept key phrasing)",
-            "对上 (Core concept alternative form)"
+            "对面 (standard target expression for Spatial Locatives   Suffixes   bian mian tou)",
+            "对边 (contextual contrast form in Spatial Locatives   Suffixes   bian mian tou)",
+            "对头 (formal register distinction for Spatial Locatives   Suffixes   bian mian tou)",
+            "对上 (colloquial conversational usage for Spatial Locatives   Suffixes   bian mian tou)"
           ],
           "answerIndex": 0,
           "explanation": "表示空间相对位置时，固定搭配为「对面」，不能说「对边」或「对头」。"
@@ -4782,10 +4782,10 @@
         {
           "prompt": "下列哪一项属于由于方位词误用而导致的病句？",
           "options": [
-            "我昨天在中国里买了很多中国传统茶叶 (Core concept alternative form)",
-            "我昨天在中国买了很多中国传统茶叶 (Core concept alternative form)",
-            "茶叶放在茶几上面的盒子里 (Core concept alternative form)",
-            "茶几旁边有一把红木椅子 (Core concept alternative form)"
+            "我昨天在中国里买了很多中国传统茶叶 (standard target expression for Spatial Locatives   Suffixes   bian mian tou)",
+            "我昨天在中国买了很多中国传统茶叶 (contextual contrast form in Spatial Locatives   Suffixes   bian mian tou)",
+            "茶叶放在茶几上面的盒子里 (formal register distinction for Spatial Locatives   Suffixes   bian mian tou)",
+            "茶几旁边有一把红木椅子 (colloquial conversational usage for Spatial Locatives   Suffixes   bian mian tou)"
           ],
           "answerIndex": 0,
           "explanation": "「在中国里」属于初学者极易出现的语法偏误，国名后不可加「里」。"
@@ -4798,10 +4798,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中空间方位词运用完全规范精准的一项：",
           "options": [
-            "新华书店在学校东门的正对面，书店的左边是一家安静的咖啡馆 (Core concept alternative form)",
-            "新华书店在学校东门的正对边，书店的左头是一家咖啡馆 (Core concept alternative form)",
-            "新华书店在北京市里东门，书店的旁面有一家咖啡馆 (Core concept alternative form)",
-            "新华书店东边在学校对面，左边里是咖啡馆 (Core concept alternative form)"
+            "新华书店在学校东门的正对面，书店的左边是一家安静的咖啡馆 (standard target expression for Spatial Locatives   Suffixes   bian mian tou)",
+            "新华书店在学校东门的正对边，书店的左头是一家咖啡馆 (contextual contrast form in Spatial Locatives   Suffixes   bian mian tou)",
+            "新华书店在北京市里东门，书店的旁面有一家咖啡馆 (formal register distinction for Spatial Locatives   Suffixes   bian mian tou)",
+            "新华书店东边在学校对面，左边里是咖啡馆 (colloquial conversational usage for Spatial Locatives   Suffixes   bian mian tou)"
           ],
           "answerIndex": 0,
           "explanation": "「正对面」、「左边」方位词规范得体，空间结构交代条理井然。"
@@ -4865,10 +4865,10 @@
         {
           "prompt": "要表达「图书馆离学生宿舍不远」，正确的句子结构是：",
           "options": [
-            "图书馆离学生宿舍不远 (AB alternative form)",
-            "图书馆从学生宿舍不远 (AB alternative form)",
-            "图书馆向学生宿舍不远 (AB alternative form)",
-            "图书馆在学生宿舍不远 (AB alternative form)"
+            "图书馆离学生宿舍不远 (standard target expression for Locative Prepositions   Distance Expressions)",
+            "图书馆从学生宿舍不远 (contextual contrast form in Locative Prepositions   Distance Expressions)",
+            "图书馆向学生宿舍不远 (formal register distinction for Locative Prepositions   Distance Expressions)",
+            "图书馆在学生宿舍不远 (colloquial conversational usage for Locative Prepositions   Distance Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "表达两地相对空间距离时，必须使用介词「离」（A离B远/近）。"
@@ -4876,10 +4876,10 @@
         {
           "prompt": "在句子「请您走到红绿灯路口______右拐」中，表示位移方向的介词是：",
           "options": [
-            "向 / 往 (AB alternative form)",
-            "离 (AB alternative form)",
-            "从 (AB alternative form)",
-            "在 (AB alternative form)"
+            "向 / 往 (standard target expression for Locative Prepositions   Distance Expressions)",
+            "离 (contextual contrast form in Locative Prepositions   Distance Expressions)",
+            "从 (formal register distinction for Locative Prepositions   Distance Expressions)",
+            "在 (colloquial conversational usage for Locative Prepositions   Distance Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "表示朝向某一方向转弯位移，使用「向」或「往」。"
@@ -4891,10 +4891,10 @@
         {
           "prompt": "下列哪一个句子由于介词短语位置后置而构成了病句？",
           "options": [
-            "我们明天坐高速列车出发从北京 (AB alternative form)",
-            "我们明天坐高速列车从北京出发 (AB alternative form)",
-            "从北京到天津只需要半个小时 (AB alternative form)",
-            "北京离天津非常近 (AB alternative form)"
+            "我们明天坐高速列车出发从北京 (standard target expression for Locative Prepositions   Distance Expressions)",
+            "我们明天坐高速列车从北京出发 (contextual contrast form in Locative Prepositions   Distance Expressions)",
+            "从北京到天津只需要半个小时 (formal register distinction for Locative Prepositions   Distance Expressions)",
+            "北京离天津非常近 (colloquial conversational usage for Locative Prepositions   Distance Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "汉语介词短语必须放在谓语动词之前作状语，不可置于动词后。"
@@ -4902,10 +4902,10 @@
         {
           "prompt": "询问两地之间的具体距离，最地道的疑问格式是：",
           "options": [
-            "从这里到市中心有多远？ / 这里离市中心有多远？ (AB alternative form)",
-            "从这里在市中心有多远？ (AB alternative form)",
-            "这里向市中心有多远？ (AB alternative form)",
-            "这里往市中心有多远？ (AB alternative form)"
+            "从这里到市中心有多远？ / 这里离市中心有多远？ (standard target expression for Locative Prepositions   Distance Expressions)",
+            "从这里在市中心有多远？ (contextual contrast form in Locative Prepositions   Distance Expressions)",
+            "这里向市中心有多远？ (formal register distinction for Locative Prepositions   Distance Expressions)",
+            "这里往市中心有多远？ (colloquial conversational usage for Locative Prepositions   Distance Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "询问距离标准句式为「A离B有多远？」或「从A到B有多远？」。"
@@ -4918,10 +4918,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中空间介词「离、从、到、向、往」运用完全规范得体的一项：",
           "options": [
-            "我们学校离地铁站只有五百米，从校门口一直往前走，在十字路口向左拐就到了 (AB alternative form)",
-            "我们学校从地铁站只有五百米，离校门口往前走一直 (AB alternative form)",
-            "我们学校向地铁站很近，往校门口出发到地铁站从 (AB alternative form)",
-            "我们学校在地铁站五百米离，从走往左拐 (AB alternative form)"
+            "我们学校离地铁站只有五百米，从校门口一直往前走，在十字路口向左拐就到了 (standard target expression for Locative Prepositions   Distance Expressions)",
+            "我们学校从地铁站只有五百米，离校门口往前走一直 (contextual contrast form in Locative Prepositions   Distance Expressions)",
+            "我们学校向地铁站很近，往校门口出发到地铁站从 (formal register distinction for Locative Prepositions   Distance Expressions)",
+            "我们学校在地铁站五百米离，从走往左拐 (colloquial conversational usage for Locative Prepositions   Distance Expressions)"
           ],
           "answerIndex": 0,
           "explanation": "「离地铁站」、「从校门口」、「往前走」、「向左拐」层层递进，语法完全标准。"
@@ -4985,10 +4985,10 @@
         {
           "prompt": "与交通工具「自行车 / 共享单车」搭配的正确动词是：",
           "options": [
-            "骑 (Core concept key phrasing)",
-            "坐 (Core concept alternative form)",
-            "开 (Core concept alternative form)",
-            "乘 (Core concept alternative form)"
+            "骑 (standard target expression for Urban Transit   Commuting Verbs)",
+            "坐 (contextual contrast form in Urban Transit   Commuting Verbs)",
+            "开 (formal register distinction for Urban Transit   Commuting Verbs)",
+            "乘 (colloquial conversational usage for Urban Transit   Commuting Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "跨骑两轮车辆必须使用动词「骑」（骑自行车、骑摩托车）。"
@@ -4996,10 +4996,10 @@
         {
           "prompt": "在地铁线路中，表达「从一号线转到二号线」的专业规范动词是：",
           "options": [
-            "换乘 / 转乘 (Core concept alternative form)",
-            "改坐 (Core concept alternative form)",
-            "变车 (Core concept alternative form)",
-            "替乘 (Core concept alternative form)"
+            "换乘 / 转乘 (standard target expression for Urban Transit   Commuting Verbs)",
+            "改坐 (contextual contrast form in Urban Transit   Commuting Verbs)",
+            "变车 (formal register distinction for Urban Transit   Commuting Verbs)",
+            "替乘 (colloquial conversational usage for Urban Transit   Commuting Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "在轨道交通中，转换线路的标准术语为「换乘」或「转乘」。"
@@ -5011,10 +5011,10 @@
         {
           "prompt": "要表达「开着私家车去郊区旅游」，正确的动宾搭配是：",
           "options": [
-            "开车 / 开私家车 (Core concept alternative form)",
-            "骑私家车 (Core concept alternative form)",
-            "坐开私家车 (Core concept alternative form)",
-            "步私家车 (Core concept alternative form)"
+            "开车 / 开私家车 (standard target expression for Urban Transit   Commuting Verbs)",
+            "骑私家车 (contextual contrast form in Urban Transit   Commuting Verbs)",
+            "坐开私家车 (formal register distinction for Urban Transit   Commuting Verbs)",
+            "步私家车 (colloquial conversational usage for Urban Transit   Commuting Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "亲自驾驶汽车必须使用动词「开」（开车）。"
@@ -5022,10 +5022,10 @@
         {
           "prompt": "连动句表达出行手段：下列哪一项在句式逻辑与动词搭配上完全正确？",
           "options": [
-            "王老师每天骑自行车到大学图书馆查阅文献资料 (Core concept alternative form)",
-            "王老师每天到大学图书馆查阅文献骑自行车资料 (Core concept alternative form)",
-            "王老师每天坐自行车到大学图书馆查阅资料 (Core concept alternative form)",
-            "王老师每天开自行车去查阅资料 (Core concept alternative form)"
+            "王老师每天骑自行车到大学图书馆查阅文献资料 (standard target expression for Urban Transit   Commuting Verbs)",
+            "王老师每天到大学图书馆查阅文献骑自行车资料 (contextual contrast form in Urban Transit   Commuting Verbs)",
+            "王老师每天坐自行车到大学图书馆查阅资料 (formal register distinction for Urban Transit   Commuting Verbs)",
+            "王老师每天开自行车去查阅资料 (colloquial conversational usage for Urban Transit   Commuting Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "连动句遵循「S + [方式方式动词短语] + 去/到 + [目的地点] + [动作]」的标准逻辑。"
@@ -5038,10 +5038,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列出行与交通叙述中动词搭配与句法完全规范得体的一项：",
           "options": [
-            "我打算明天早晨乘高铁去北京出差，到了北京南站后再坐四号线地铁去酒店 (Core concept alternative form)",
-            "我打算明天早晨骑高铁去北京出差，到了北京南站后开四号线地铁 (Core concept alternative form)",
-            "我打算明天早晨走高铁去北京，坐四号线地铁在骑去酒店 (Core concept alternative form)",
-            "我打算明天早晨开高铁出差北京，到了后乘自行车 (Core concept alternative form)"
+            "我打算明天早晨乘高铁去北京出差，到了北京南站后再坐四号线地铁去酒店 (standard target expression for Urban Transit   Commuting Verbs)",
+            "我打算明天早晨骑高铁去北京出差，到了北京南站后开四号线地铁 (contextual contrast form in Urban Transit   Commuting Verbs)",
+            "我打算明天早晨走高铁去北京，坐四号线地铁在骑去酒店 (formal register distinction for Urban Transit   Commuting Verbs)",
+            "我打算明天早晨开高铁出差北京，到了后乘自行车 (colloquial conversational usage for Urban Transit   Commuting Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "「乘高铁」、「坐地铁」搭配规范，行程时序条理分明。"
@@ -5105,10 +5105,10 @@
         {
           "prompt": "向路人询问去北京大学东门的正确走法，最礼貌得体的开场白是：",
           "options": [
-            "请问，去北京大学东门怎么走？ (Core concept alternative form)",
-            "喂，北京大学东门在哪里去？ (Core concept alternative form)",
-            "北京大学东门你告诉我走法 (Core concept alternative form)",
-            "走去北京大学东门怎么你？ (Core concept alternative form)"
+            "请问，去北京大学东门怎么走？ (standard target expression for Asking   Giving Directions Discourse)",
+            "喂，北京大学东门在哪里去？ (contextual contrast form in Asking   Giving Directions Discourse)",
+            "北京大学东门你告诉我走法 (formal register distinction for Asking   Giving Directions Discourse)",
+            "走去北京大学东门怎么你？ (colloquial conversational usage for Asking   Giving Directions Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「请问，去......怎么走？」是现代汉语最标准的礼貌问路句式。"
@@ -5116,10 +5116,10 @@
         {
           "prompt": "指令「一直往前走」所表达的动作方向是：",
           "options": [
-            "沿着当前朝向直行 (Core concept alternative form)",
-            "向后退步 (Core concept alternative form)",
-            "向左转弯 (Core concept alternative form)",
-            "原地等待 (Core concept alternative form)"
+            "沿着当前朝向直行 (standard target expression for Asking   Giving Directions Discourse)",
+            "向后退步 (contextual contrast form in Asking   Giving Directions Discourse)",
+            "向左转弯 (formal register distinction for Asking   Giving Directions Discourse)",
+            "原地等待 (colloquial conversational usage for Asking   Giving Directions Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「一直往前走」是直行指令的最核心表达。"
@@ -5131,10 +5131,10 @@
         {
           "prompt": "在句子「走到十字路口，请向右______」中，表示改变行进方向的动词是：",
           "options": [
-            "拐 / 转 (Core concept alternative form)",
-            "走 (Core concept alternative form)",
-            "行 (Core concept alternative form)",
-            "退 (Core concept alternative form)"
+            "拐 / 转 (standard target expression for Asking   Giving Directions Discourse)",
+            "走 (contextual contrast form in Asking   Giving Directions Discourse)",
+            "行 (formal register distinction for Asking   Giving Directions Discourse)",
+            "退 (colloquial conversational usage for Asking   Giving Directions Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "表示向左或向右转弯，使用动词「拐」或「转」。"
@@ -5142,10 +5142,10 @@
         {
           "prompt": "指引对方目的地位于道路一侧，最常用的地道表达是：",
           "options": [
-            "就在你的右手边 / 左手边 (Core concept alternative form)",
-            "就在你的手脚上 (Core concept alternative form)",
-            "就在你的头顶上面 (Core concept alternative form)",
-            "就在你的手心里 (Core concept alternative form)"
+            "就在你的右手边 / 左手边 (standard target expression for Asking   Giving Directions Discourse)",
+            "就在你的手脚上 (contextual contrast form in Asking   Giving Directions Discourse)",
+            "就在你的头顶上面 (formal register distinction for Asking   Giving Directions Discourse)",
+            "就在你的手心里 (colloquial conversational usage for Asking   Giving Directions Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「在你的右手边/左手边」是指引目标位置的固定地道表达。"
@@ -5158,10 +5158,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列问路与指路对话中用词最地道、语法逻辑完全严密的一组：",
           "options": [
-            "甲：劳驾，请问去天安门广场怎么走？ 乙：从这里一直往前走，过两个红绿灯路口向右拐，广场就在你的正前方 (Core concept alternative form)",
-            "甲：天安门广场怎么去走？ 乙：一直往后走右拐在天安门 (Core concept alternative form)",
-            "甲：喂，天安门在哪里？ 乙：你去走红绿灯在左边天安门 (Core concept alternative form)",
-            "甲：请问天安门广场去怎么？ 乙：你拐右一直走到头没有 (Core concept alternative form)"
+            "甲：劳驾，请问去天安门广场怎么走？ 乙：从这里一直往前走，过两个红绿灯路口向右拐，广场就在你的正前方 (standard target expression for Asking   Giving Directions Discourse)",
+            "甲：天安门广场怎么去走？ 乙：一直往后走右拐在天安门 (contextual contrast form in Asking   Giving Directions Discourse)",
+            "甲：喂，天安门在哪里？ 乙：你去走红绿灯在左边天安门 (formal register distinction for Asking   Giving Directions Discourse)",
+            "甲：请问天安门广场去怎么？ 乙：你拐右一直走到头没有 (colloquial conversational usage for Asking   Giving Directions Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "提问使用「劳驾，请问...」，回答包含「直行、过路口、转弯、目标方位」，堪称问路指路典范。"
@@ -5225,10 +5225,10 @@
         {
           "prompt": "在叙述出行路线时，表示「沿着街道前行并穿过通道」的最佳动词组合是：",
           "options": [
-            "沿着街道走 -> 穿过地下通道 (Core concept alternative form)",
-            "离着街道走 -> 从过地下通道 (Core concept alternative form)",
-            "在着街道走 -> 往过地下通道 (Core concept alternative form)",
-            "向着街道走 -> 到过地下通道 (Core concept alternative form)"
+            "沿着街道走 -> 穿过地下通道 (standard target expression for Comprehensive Wayfinding   Transit Narrative)",
+            "离着街道走 -> 从过地下通道 (contextual contrast form in Comprehensive Wayfinding   Transit Narrative)",
+            "在着街道走 -> 往过地下通道 (formal register distinction for Comprehensive Wayfinding   Transit Narrative)",
+            "向着街道走 -> 到过地下通道 (colloquial conversational usage for Comprehensive Wayfinding   Transit Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「沿着/顺着街道」表达顺应道路走向，「穿过通道」表达横穿空间。"
@@ -5236,10 +5236,10 @@
         {
           "prompt": "在语篇「首先坐公交车，接着换乘地铁，最后步行到达」中，三个关联词的主要功能是：",
           "options": [
-            "组织时序与动作先后顺序 (Core concept alternative form)",
-            "表达因果推论 (Core concept alternative form)",
-            "表达转折关系 (Core concept alternative form)",
-            "表达假设条件 (Core concept alternative form)"
+            "组织时序与动作先后顺序 (standard target expression for Comprehensive Wayfinding   Transit Narrative)",
+            "表达因果推论 (contextual contrast form in Comprehensive Wayfinding   Transit Narrative)",
+            "表达转折关系 (formal register distinction for Comprehensive Wayfinding   Transit Narrative)",
+            "表达假设条件 (colloquial conversational usage for Comprehensive Wayfinding   Transit Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「首先...接着...最后...」是构建行程时序与动作衔接的核心语篇标记。"
@@ -5251,10 +5251,10 @@
         {
           "prompt": "请选出下列出行路线叙述中方位、介词与交通动词完全严密精确的一项：",
           "options": [
-            "我们从酒店出发，骑共享单车到地铁站，乘坐二号线换乘一号线，在天安门东站下车后向北走两百米到达故宫 (Core concept alternative form)",
-            "我们离酒店出发，开共享单车到地铁站，坐二号线坐一号线在天安门东站向北 (Core concept alternative form)",
-            "我们从酒店出发骑车，换乘到天安门东站下车在向北走两百米后坐地铁 (Core concept alternative form)",
-            "我们向酒店出发，坐共享单车在地铁站骑一号线 (Core concept alternative form)"
+            "我们从酒店出发，骑共享单车到地铁站，乘坐二号线换乘一号线，在天安门东站下车后向北走两百米到达故宫 (standard target expression for Comprehensive Wayfinding   Transit Narrative)",
+            "我们离酒店出发，开共享单车到地铁站，坐二号线坐一号线在天安门东站向北 (contextual contrast form in Comprehensive Wayfinding   Transit Narrative)",
+            "我们从酒店出发骑车，换乘到天安门东站下车在向北走两百米后坐地铁 (formal register distinction for Comprehensive Wayfinding   Transit Narrative)",
+            "我们向酒店出发，坐共享单车在地铁站骑一号线 (colloquial conversational usage for Comprehensive Wayfinding   Transit Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该句完整涵盖起点（从酒店出发）、交通接驳（骑单车/乘地铁/换乘）、下车指引（向北走），逻辑天衣无缝。"
@@ -5262,10 +5262,10 @@
         {
           "prompt": "在句子「走出地铁口，过街天桥的右侧就是博物馆」中，「右侧」的语法性质与位置功能是：",
           "options": [
-            "方位词短语，标定目标建筑的具体空间方位 (Core concept alternative form)",
-            "时间副词 (Core concept alternative form)",
-            "语气助词 (Core concept alternative form)",
-            "连词 (Core concept alternative form)"
+            "方位词短语，标定目标建筑的具体空间方位 (standard target expression for Comprehensive Wayfinding   Transit Narrative)",
+            "时间副词 (contextual contrast form in Comprehensive Wayfinding   Transit Narrative)",
+            "语气助词 (formal register distinction for Comprehensive Wayfinding   Transit Narrative)",
+            "连词 (colloquial conversational usage for Comprehensive Wayfinding   Transit Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「右侧」作为方位词短语，明确标定博物馆位于天桥右侧。"
@@ -5278,10 +5278,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列城市导航与出行语篇中语言最典范、结构最严谨的一项：",
           "options": [
-            "为了避开早高峰拥堵，我们早晨从宿舍出发，步行五分钟到地铁站，乘坐八号线直达奥林匹克公园。出站后顺着宽阔的景观大道向北走，宏伟的国家体育场就在我们的右手边 (Core concept alternative form)",
-            "为了避开早高峰，我们从宿舍出发走五分钟在地铁站，开八号线到奥林匹克公园出站向北在国家体育场右手 (Core concept alternative form)",
-            "我们宿舍离出发，坐步行到地铁，乘八号线转奥林匹克公园，走出向北体育场右边 (Core concept alternative form)",
-            "我们从宿舍离出发，骑八号线地铁在奥林匹克公园下，向北走右手边在体育场 (Core concept alternative form)"
+            "为了避开早高峰拥堵，我们早晨从宿舍出发，步行五分钟到地铁站，乘坐八号线直达奥林匹克公园。出站后顺着宽阔的景观大道向北走，宏伟的国家体育场就在我们的右手边 (standard target expression for Comprehensive Wayfinding   Transit Narrative)",
+            "为了避开早高峰，我们从宿舍出发走五分钟在地铁站，开八号线到奥林匹克公园出站向北在国家体育场右手 (contextual contrast form in Comprehensive Wayfinding   Transit Narrative)",
+            "我们宿舍离出发，坐步行到地铁，乘八号线转奥林匹克公园，走出向北体育场右边 (formal register distinction for Comprehensive Wayfinding   Transit Narrative)",
+            "我们从宿舍离出发，骑八号线地铁在奥林匹克公园下，向北走右手边在体育场 (colloquial conversational usage for Comprehensive Wayfinding   Transit Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在出行目的、起点、交通方式（步行/乘八号线）、出站指引（顺着大道向北走）以及地标定位（右手边）上均达到了现代汉语的典范标准。"
@@ -5308,7 +5308,7 @@
     "subject": "mandarin",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "人民币货币单位体系（元/角/分 vs 块/毛/分）与价格读法 (Renminbi Currency System & Price Reading)",
+    "title": "人民币货币单位体系（元/角/分 vs 块/毛/分）与价格读法 (Renminbi Currency System & Price Expression)",
     "level": "A2",
     "objective": "系统掌握现代人民币货币单位的书面语（元角分）与口语（块毛分）对应体系，熟练掌握价格读法、省略规律及核心问价句式（多少钱/怎么卖）。",
     "presentation": {
@@ -5347,10 +5347,10 @@
         {
           "prompt": "在口语日常交际中，价格「¥18.50」最常用且自然的口语读法是：",
           "options": [
-            "十八块五 (Core concept key phrasing)",
-            "十八元五角零分 (Core concept alternative form)",
-            "十八个钱五个钱 (Core concept alternative form)",
-            "十八元角五 (Core concept alternative form)"
+            "十八块五 (standard target expression for Renminbi Currency System   Price Expression)",
+            "十八元五角零分 (contextual contrast form in Renminbi Currency System   Price Expression)",
+            "十八个钱五个钱 (formal register distinction for Renminbi Currency System   Price Expression)",
+            "十八元角五 (colloquial conversational usage for Renminbi Currency System   Price Expression)"
           ],
           "answerIndex": 0,
           "explanation": "口语中¥18.50通常读作「十八块五」，末尾的「毛」字习惯性省略。"
@@ -5358,10 +5358,10 @@
         {
           "prompt": "价格「¥12.05」正确的读法是（注意中间有零）：",
           "options": [
-            "十二块零五分 (Core concept key phrasing)",
-            "十二块五 (Core concept alternative form)",
-            "十二块零五 (Core concept key phrasing)",
-            "十二点零五块毛 (Core concept alternative form)"
+            "十二块零五分 (standard target expression for Renminbi Currency System   Price Expression)",
+            "十二块五 (contextual contrast form in Renminbi Currency System   Price Expression)",
+            "十二块零五 (formal register distinction for Renminbi Currency System   Price Expression)",
+            "十二点零五块毛 (colloquial conversational usage for Renminbi Currency System   Price Expression)"
           ],
           "answerIndex": 0,
           "explanation": "¥12.05中间有零，必须读「十二块零五分」，末尾「分」字绝对不可省。"
@@ -5373,10 +5373,10 @@
         {
           "prompt": "在水果摊询问西瓜的价格，最地道规范的口语问法是：",
           "options": [
-            "老板，西瓜怎么卖？ / 这个西瓜多少钱一斤？ (Core concept alternative form)",
-            "老板，西瓜怎么买去？ (Core concept alternative form)",
-            "老板，西瓜的价格是多少元角？ (Core concept alternative form)",
-            "老板，西瓜多少货币？ (Core concept alternative form)"
+            "老板，西瓜怎么卖？ / 这个西瓜多少钱一斤？ (standard target expression for Renminbi Currency System   Price Expression)",
+            "老板，西瓜怎么买去？ (contextual contrast form in Renminbi Currency System   Price Expression)",
+            "老板，西瓜的价格是多少元角？ (formal register distinction for Renminbi Currency System   Price Expression)",
+            "老板，西瓜多少货币？ (colloquial conversational usage for Renminbi Currency System   Price Expression)"
           ],
           "answerIndex": 0,
           "explanation": "「怎么卖？」或「多少钱一斤？」是市井买卖中最地道的问价句式。"
@@ -5384,10 +5384,10 @@
         {
           "prompt": "下列人民币货币单位中，属于正式书面语规范单位的一组是：",
           "options": [
-            "元、角、分 (Core concept key phrasing)",
-            "块、毛、分 (Core concept alternative form)",
-            "个、张、张 (Core concept alternative form)",
-            "本、只、条 (Core concept alternative form)"
+            "元、角、分 (standard target expression for Renminbi Currency System   Price Expression)",
+            "块、毛、分 (contextual contrast form in Renminbi Currency System   Price Expression)",
+            "个、张、张 (formal register distinction for Renminbi Currency System   Price Expression)",
+            "本、只、条 (colloquial conversational usage for Renminbi Currency System   Price Expression)"
           ],
           "answerIndex": 0,
           "explanation": "「元、角、分」是人民币法定的正式书面语货币单位。"
@@ -5400,10 +5400,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于人民币价格读法完全正确且符合交际规范的一项：",
           "options": [
-            "这盒优质碧螺春茶叶标价是两百零八块整，如果买两盒一共四百一十六块钱 (Core concept alternative form)",
-            "这盒茶叶标价是两百八块整，买两盒四百一十六元角 (Core concept alternative form)",
-            "这盒茶叶标价是两百块零八毛分，买两盒四百十六块 (Core concept alternative form)",
-            "这盒茶叶两百零八元钱块，买两盒一共四百一十六个 (Core concept alternative form)"
+            "这盒优质碧螺春茶叶标价是两百零八块整，如果买两盒一共四百一十六块钱 (standard target expression for Renminbi Currency System   Price Expression)",
+            "这盒茶叶标价是两百八块整，买两盒四百一十六元角 (contextual contrast form in Renminbi Currency System   Price Expression)",
+            "这盒茶叶标价是两百块零八毛分，买两盒四百十六块 (formal register distinction for Renminbi Currency System   Price Expression)",
+            "这盒茶叶两百零八元钱块，买两盒一共四百一十六个 (colloquial conversational usage for Renminbi Currency System   Price Expression)"
           ],
           "answerIndex": 0,
           "explanation": "「两百零八块」、「四百一十六块钱」数字发音与货币搭配天衣无缝。"
@@ -5467,10 +5467,10 @@
         {
           "prompt": "要表达「这条裤子我觉得有点太紧了（表达消极感受）」，正确的句子是：",
           "options": [
-            "这条裤子有点儿紧 (Core concept alternative form)",
-            "这条裤子紧一点儿 (Core concept alternative form)",
-            "这条裤子一点儿有紧 (Core concept alternative form)",
-            "这条裤子紧有点儿 (Core concept alternative form)"
+            "这条裤子有点儿紧 (standard target expression for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "这条裤子紧一点儿 (contextual contrast form in Shopping for Clothes  Sizes  Colors   Trying On)",
+            "这条裤子一点儿有紧 (formal register distinction for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "这条裤子紧有点儿 (colloquial conversational usage for Shopping for Clothes  Sizes  Colors   Trying On)"
           ],
           "answerIndex": 0,
           "explanation": "表达说话人主观上不合心意的感受，使用「有点儿 + 形容词」（有点儿紧）。"
@@ -5478,10 +5478,10 @@
         {
           "prompt": "向店员提出期望「请帮我拿一件稍微大一点的衬衫」，正确的句子是：",
           "options": [
-            "请帮我拿一件大一点儿的衬衫 (Core concept alternative form)",
-            "请帮我拿一件有点儿大的衬衫 (Core concept alternative form)",
-            "请帮我拿一件一点儿有大的衬衫 (Core concept alternative form)",
-            "请帮我拿一件大有点儿的衬衫 (Core concept alternative form)"
+            "请帮我拿一件大一点儿的衬衫 (standard target expression for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "请帮我拿一件有点儿大的衬衫 (contextual contrast form in Shopping for Clothes  Sizes  Colors   Trying On)",
+            "请帮我拿一件一点儿有大的衬衫 (formal register distinction for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "请帮我拿一件大有点儿的衬衫 (colloquial conversational usage for Shopping for Clothes  Sizes  Colors   Trying On)"
           ],
           "answerIndex": 0,
           "explanation": "表示希望尺寸进行微量调整，使用「形容词 + 一点儿」（大一点儿）。"
@@ -5493,10 +5493,10 @@
         {
           "prompt": "下列哪一项量词与服饰名词的搭配完全符合现代汉语规范？",
           "options": [
-            "一件外套、两条裤子、一双皮鞋 (Core concept alternative form)",
-            "一条外套、一件裤子、一顶皮鞋 (Core concept alternative form)",
-            "一双外套、一顶裤子、一件皮鞋 (Core concept alternative form)",
-            "一顶外套、一条皮鞋、一件裤子 (Core concept alternative form)"
+            "一件外套、两条裤子、一双皮鞋 (standard target expression for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "一条外套、一件裤子、一顶皮鞋 (contextual contrast form in Shopping for Clothes  Sizes  Colors   Trying On)",
+            "一双外套、一顶裤子、一件皮鞋 (formal register distinction for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "一顶外套、一条皮鞋、一件裤子 (colloquial conversational usage for Shopping for Clothes  Sizes  Colors   Trying On)"
           ],
           "answerIndex": 0,
           "explanation": "外套用「件」，裤子用「条」，鞋袜用「双」，这是汉语量词铁律。"
@@ -5504,10 +5504,10 @@
         {
           "prompt": "想询问试衣间的位置，最得体的交际用语是：",
           "options": [
-            "请问，试衣间在哪里？我想试穿一下 (Core concept alternative form)",
-            "喂，试衣间在哪里去？ (Core concept alternative form)",
-            "试衣服屋子在何处？ (Core concept alternative form)",
-            "我想穿衣服房子在哪里？ (Core concept alternative form)"
+            "请问，试衣间在哪里？我想试穿一下 (standard target expression for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "喂，试衣间在哪里去？ (contextual contrast form in Shopping for Clothes  Sizes  Colors   Trying On)",
+            "试衣服屋子在何处？ (formal register distinction for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "我想穿衣服房子在哪里？ (colloquial conversational usage for Shopping for Clothes  Sizes  Colors   Trying On)"
           ],
           "answerIndex": 0,
           "explanation": "「试衣间」是试穿衣服场所的标准专业词汇，句式礼貌规范。"
@@ -5520,10 +5520,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列试穿选购对话中量词、尺码与副词搭配完全严谨得体的一项：",
           "options": [
-            "服务员，这件大号毛衣我穿有点儿肥，请帮我换一件中号的试一试，谢谢 (Core concept alternative form)",
-            "服务员，这条毛衣我穿肥一点儿，换一顶大号试 (Core concept alternative form)",
-            "服务员，这件毛衣我穿一点儿肥，换一条小号看 (Core concept alternative form)",
-            "服务员，这双毛衣大号有肥，换件试一 (Core concept alternative form)"
+            "服务员，这件大号毛衣我穿有点儿肥，请帮我换一件中号的试一试，谢谢 (standard target expression for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "服务员，这条毛衣我穿肥一点儿，换一顶大号试 (contextual contrast form in Shopping for Clothes  Sizes  Colors   Trying On)",
+            "服务员，这件毛衣我穿一点儿肥，换一条小号看 (formal register distinction for Shopping for Clothes  Sizes  Colors   Trying On)",
+            "服务员，这双毛衣大号有肥，换件试一 (colloquial conversational usage for Shopping for Clothes  Sizes  Colors   Trying On)"
           ],
           "answerIndex": 0,
           "explanation": "「一件毛衣」、「有点儿肥」（消极）、「换一件中号」（期望）、「试一试」（重叠），无可挑剔。"
@@ -5587,10 +5587,10 @@
         {
           "prompt": "在商场看到一件标价200元的衣服正在「打八折」，顾客最终需要支付的实际金额是：",
           "options": [
-            "160元 (80 key phrasing)",
-            "40元 (80 alternative form)",
-            "20元 (80 alternative form)",
-            "180元 (80 alternative form)"
+            "160元 (standard target expression for Bargaining   Discounts   da zhe)",
+            "40元 (contextual contrast form in Bargaining   Discounts   da zhe)",
+            "20元 (formal register distinction for Bargaining   Discounts   da zhe)",
+            "180元 (colloquial conversational usage for Bargaining   Discounts   da zhe)"
           ],
           "answerIndex": 0,
           "explanation": "「打八折」即按原价的80%付款（200 × 0.8 = 160元）。"
@@ -5598,10 +5598,10 @@
         {
           "prompt": "在小商品集市上，向摊主委婉请求降低价格，最得体的表达是：",
           "options": [
-            "老板，能不能便宜一点儿？ (80 alternative form)",
-            "老板，你必须给我很便宜！ (80 alternative form)",
-            "老板，我不给你钱！ (80 alternative form)",
-            "老板，价格太便宜了！ (80 alternative form)"
+            "老板，能不能便宜一点儿？ (standard target expression for Bargaining   Discounts   da zhe)",
+            "老板，你必须给我很便宜！ (contextual contrast form in Bargaining   Discounts   da zhe)",
+            "老板，我不给你钱！ (formal register distinction for Bargaining   Discounts   da zhe)",
+            "老板，价格太便宜了！ (colloquial conversational usage for Bargaining   Discounts   da zhe)"
           ],
           "answerIndex": 0,
           "explanation": "「能不能便宜一点儿？」是集市议价中最经典得体的礼貌表达。"
@@ -5613,10 +5613,10 @@
         {
           "prompt": "促销术语「买一赠一」表达的真实含义是：",
           "options": [
-            "购买一件商品，免费赠送同款或指定商品一件 (80 alternative form)",
-            "买一件商品收两件的钱 (80 alternative form)",
-            "买一件商品打一折 (80 alternative form)",
-            "买两件商品只给一件 (80 alternative form)"
+            "购买一件商品，免费赠送同款或指定商品一件 (standard target expression for Bargaining   Discounts   da zhe)",
+            "买一件商品收两件的钱 (contextual contrast form in Bargaining   Discounts   da zhe)",
+            "买一件商品打一折 (formal register distinction for Bargaining   Discounts   da zhe)",
+            "买两件商品只给一件 (colloquial conversational usage for Bargaining   Discounts   da zhe)"
           ],
           "answerIndex": 0,
           "explanation": "「买一赠一/买一送一」即买一件免费赠送一件。"
@@ -5624,10 +5624,10 @@
         {
           "prompt": "商场进行半价促销，海报上最规范典雅的中文表达是：",
           "options": [
-            "全场打五折 / 全场打对折 (80 alternative form)",
-            "全场打半折 (80 alternative form)",
-            "全场打二折 (80 alternative form)",
-            "全场打十折 (80 alternative form)"
+            "全场打五折 / 全场打对折 (standard target expression for Bargaining   Discounts   da zhe)",
+            "全场打半折 (contextual contrast form in Bargaining   Discounts   da zhe)",
+            "全场打二折 (formal register distinction for Bargaining   Discounts   da zhe)",
+            "全场打十折 (colloquial conversational usage for Bargaining   Discounts   da zhe)"
           ],
           "answerIndex": 0,
           "explanation": "半价在汉语中表述为「打五折」或「打对折」。"
@@ -5640,10 +5640,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于商场折扣与议价表述完全正确无误的一项：",
           "options": [
-            "这套精美的中国茶具原价四百元，现在商场搞促销打七五折，实付三百元即可买下 (80 alternative form)",
-            "这套茶具原价四百元，打七五折后实付一百元 (80 alternative form)",
-            "这套茶具原价四百元，打七折五后实付七十五元 (80 alternative form)",
-            "这套茶具打折七五，四百元减去三百五 (80 alternative form)"
+            "这套精美的中国茶具原价四百元，现在商场搞促销打七五折，实付三百元即可买下 (standard target expression for Bargaining   Discounts   da zhe)",
+            "这套茶具原价四百元，打七五折后实付一百元 (contextual contrast form in Bargaining   Discounts   da zhe)",
+            "这套茶具原价四百元，打七折五后实付七十五元 (formal register distinction for Bargaining   Discounts   da zhe)",
+            "这套茶具打折七五，四百元减去三百五 (colloquial conversational usage for Bargaining   Discounts   da zhe)"
           ],
           "answerIndex": 0,
           "explanation": "400元打七五折（400 × 0.75 = 300元），计算与语法表述无懈可击。"
@@ -5707,10 +5707,10 @@
         {
           "prompt": "在餐厅用餐完毕准备结账，最常用得体的汉语表达是：",
           "options": [
-            "服务员，买单！ / 服务员，结账！ (Core concept alternative form)",
-            "服务员，算算你的钱！ (Core concept alternative form)",
-            "服务员，给钱你！ (Core concept alternative form)",
-            "服务员，钱拿走！ (Core concept alternative form)"
+            "服务员，买单！ / 服务员，结账！ (standard target expression for Mobile Payments   Checkout Discourse)",
+            "服务员，算算你的钱！ (contextual contrast form in Mobile Payments   Checkout Discourse)",
+            "服务员，给钱你！ (formal register distinction for Mobile Payments   Checkout Discourse)",
+            "服务员，钱拿走！ (colloquial conversational usage for Mobile Payments   Checkout Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「买单」与「结账」是结账结算最标准通用的交际用语。"
@@ -5718,10 +5718,10 @@
         {
           "prompt": "收银员说「请出示您的付款码」，顾客应该进行的操作是：",
           "options": [
-            "在手机App上打开自己的付款二维码让商家扫描 (Core concept alternative form)",
-            "用手机去扫描商家桌上的二维码 (Core concept alternative form)",
-            "拿出现金纸币 (Core concept alternative form)",
-            "拿出身份证件 (Core concept alternative form)"
+            "在手机App上打开自己的付款二维码让商家扫描 (standard target expression for Mobile Payments   Checkout Discourse)",
+            "用手机去扫描商家桌上的二维码 (contextual contrast form in Mobile Payments   Checkout Discourse)",
+            "拿出现金纸币 (formal register distinction for Mobile Payments   Checkout Discourse)",
+            "拿出身份证件 (colloquial conversational usage for Mobile Payments   Checkout Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「出示付款码」即展示手机上的个人付款条码或二维码供扫码设备识别。"
@@ -5733,10 +5733,10 @@
         {
           "prompt": "向商家索取可用于企业报销或正式记账的凭证，应使用的规范词汇是：",
           "options": [
-            "发票 (Core concept key phrasing)",
-            "草稿 (Core concept alternative form)",
-            "便条 (Core concept alternative form)",
-            "贺卡 (Core concept alternative form)"
+            "发票 (standard target expression for Mobile Payments   Checkout Discourse)",
+            "草稿 (contextual contrast form in Mobile Payments   Checkout Discourse)",
+            "便条 (formal register distinction for Mobile Payments   Checkout Discourse)",
+            "贺卡 (colloquial conversational usage for Mobile Payments   Checkout Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「发票」是具有法律效力的正规商业凭证。"
@@ -5744,10 +5744,10 @@
         {
           "prompt": "购买商品后若尺寸不合，凭购物凭证向商场申请换一件新的，该售后行为称为：",
           "options": [
-            "换货 (Core concept key phrasing)",
-            "送货 (Core concept alternative form)",
-            "进货 (Core concept alternative form)",
-            "发货 (Core concept alternative form)"
+            "换货 (standard target expression for Mobile Payments   Checkout Discourse)",
+            "送货 (contextual contrast form in Mobile Payments   Checkout Discourse)",
+            "进货 (formal register distinction for Mobile Payments   Checkout Discourse)",
+            "发货 (colloquial conversational usage for Mobile Payments   Checkout Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "更换商品称为「换货」，退掉商品退款称为「退货」。"
@@ -5760,10 +5760,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列移动支付与结算对话中表达最规范地道的一组：",
           "options": [
-            "甲：你好，一共是一百二十五块钱，扫码还是刷卡？ 乙：我扫微信付款码，顺便帮我开一张电子发票 (Core concept alternative form)",
-            "甲：你好，一百二十五块钱拿来。 乙：我给你微信扫发票 (Core concept alternative form)",
-            "甲：钱一共一百二十五元角。 乙：刷卡出示退货码 (Core concept alternative form)",
-            "甲：买单多少钱你。 乙：我扫你的发票小票 (Core concept alternative form)"
+            "甲：你好，一共是一百二十五块钱，扫码还是刷卡？ 乙：我扫微信付款码，顺便帮我开一张电子发票 (standard target expression for Mobile Payments   Checkout Discourse)",
+            "甲：你好，一百二十五块钱拿来。 乙：我给你微信扫发票 (contextual contrast form in Mobile Payments   Checkout Discourse)",
+            "甲：钱一共一百二十五元角。 乙：刷卡出示退货码 (formal register distinction for Mobile Payments   Checkout Discourse)",
+            "甲：买单多少钱你。 乙：我扫你的发票小票 (colloquial conversational usage for Mobile Payments   Checkout Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "收银提问「扫码还是刷卡」，顾客回答「扫微信付款码并开电子发票」，展现了当代中国最典型的结算场景。"
@@ -5827,10 +5827,10 @@
         {
           "prompt": "在购物叙事中，正确串联「挑选试穿 -> 询问折扣 -> 扫码支付」的篇章脉络是：",
           "options": [
-            "看中试穿合身 -> 询问得知打折 -> 出示付款码结账 (Core concept alternative form)",
-            "先扫码付款 -> 再去试穿衣服 -> 最后询问价格 (Core concept alternative form)",
-            "先开具发票 -> 挑选衣服试穿 -> 询问能不能退货 (Core concept alternative form)",
-            "退换衣服 -> 扫码支付 -> 进店选购 (Core concept alternative form)"
+            "看中试穿合身 -> 询问得知打折 -> 出示付款码结账 (standard target expression for Comprehensive Shopping   Commercial Narrative)",
+            "先扫码付款 -> 再去试穿衣服 -> 最后询问价格 (contextual contrast form in Comprehensive Shopping   Commercial Narrative)",
+            "先开具发票 -> 挑选衣服试穿 -> 询问能不能退货 (formal register distinction for Comprehensive Shopping   Commercial Narrative)",
+            "退换衣服 -> 扫码支付 -> 进店选购 (colloquial conversational usage for Comprehensive Shopping   Commercial Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事语篇遵循选购试穿、询价打折、扫码买单的自然时序逻辑。"
@@ -5838,10 +5838,10 @@
         {
           "prompt": "语篇中「原价六百元打八折」与「微信扫码支付」对应的实际交际是：",
           "options": [
-            "实付480元，使用手机微信完成无现金结算 (Core concept alternative form)",
-            "实付120元，使用现金结算 (Core concept alternative form)",
-            "实付600元，使用银行支票结算 (Core concept alternative form)",
-            "实付80元，使用刷卡结算 (Core concept alternative form)"
+            "实付480元，使用手机微信完成无现金结算 (standard target expression for Comprehensive Shopping   Commercial Narrative)",
+            "实付120元，使用现金结算 (contextual contrast form in Comprehensive Shopping   Commercial Narrative)",
+            "实付600元，使用银行支票结算 (formal register distinction for Comprehensive Shopping   Commercial Narrative)",
+            "实付80元，使用刷卡结算 (colloquial conversational usage for Comprehensive Shopping   Commercial Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "600元打八折为480元，微信扫码为移动支付方式。"
@@ -5853,10 +5853,10 @@
         {
           "prompt": "请选出下列购物叙事语篇中词汇搭配、句式与逻辑完全典范通畅的一项：",
           "options": [
-            "我在商场看中了一条牛仔裤，试穿后觉得有点儿长，店员帮我换了一条小号的，打八折后扫码付了一百六十块钱 (Core concept alternative form)",
-            "我在商场看中了一件牛仔裤，试穿后觉得长一点儿，店员换了一顶小号，打二折付了钱 (Core concept alternative form)",
-            "我在商场看中一双牛仔裤，有点儿合身，打折了八，现金扫码退换 (Core concept alternative form)",
-            "我在商场看中一条裤子，穿起来一点儿长，打八折付了一百六十个 (Core concept alternative form)"
+            "我在商场看中了一条牛仔裤，试穿后觉得有点儿长，店员帮我换了一条小号的，打八折后扫码付了一百六十块钱 (standard target expression for Comprehensive Shopping   Commercial Narrative)",
+            "我在商场看中了一件牛仔裤，试穿后觉得长一点儿，店员换了一顶小号，打二折付了钱 (contextual contrast form in Comprehensive Shopping   Commercial Narrative)",
+            "我在商场看中一双牛仔裤，有点儿合身，打折了八，现金扫码退换 (formal register distinction for Comprehensive Shopping   Commercial Narrative)",
+            "我在商场看中一条裤子，穿起来一点儿长，打八折付了一百六十个 (colloquial conversational usage for Comprehensive Shopping   Commercial Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「一条牛仔裤」、「有点儿长」（消极感受）、「换一条小号」（期望）、「打八折扫码付了一百六十块」，语法体系完美无缺。"
@@ -5864,10 +5864,10 @@
         {
           "prompt": "在语篇「凭小票在七天之内可以办理退换货」中，「凭」的语法功能是：",
           "options": [
-            "介词，表示依据或凭借某种凭据 (Core concept alternative form)",
-            "动词，表示跑步 (Core concept alternative form)",
-            "副词，表示经常 (Core concept alternative form)",
-            "助词，表示时态 (Core concept alternative form)"
+            "介词，表示依据或凭借某种凭据 (standard target expression for Comprehensive Shopping   Commercial Narrative)",
+            "动词，表示跑步 (contextual contrast form in Comprehensive Shopping   Commercial Narrative)",
+            "副词，表示经常 (formal register distinction for Comprehensive Shopping   Commercial Narrative)",
+            "助词，表示时态 (colloquial conversational usage for Comprehensive Shopping   Commercial Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「凭」在此处充当介词，表示「凭借、依据（小票）」。"
@@ -5880,10 +5880,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列商业购物综合语篇中用词最地道、语法逻辑完全严密的一项：",
           "options": [
-            "今天我和同学去商场选购衣物，我试穿了一件深蓝色外套，大小正合适。这件外套原价五百元，赶上商场店庆打八折，我拿出手机扫码支付了四百块钱，收银员还开具了正规电子发票 (Core concept alternative form)",
-            "今天我和同学去商场，我试穿了一条外套，有点儿合身。原价五百元打二折，我扫码支付了一百元小票 (Core concept alternative form)",
-            "今天我和同学去商场，我试穿一双外套，大一点儿长。五百元打八折给五十元发票 (Core concept alternative form)",
-            "今天我和同学商场去，试穿外套一件，太贵一点儿。打折八给四百元钱 (Core concept alternative form)"
+            "今天我和同学去商场选购衣物，我试穿了一件深蓝色外套，大小正合适。这件外套原价五百元，赶上商场店庆打八折，我拿出手机扫码支付了四百块钱，收银员还开具了正规电子发票 (standard target expression for Comprehensive Shopping   Commercial Narrative)",
+            "今天我和同学去商场，我试穿了一条外套，有点儿合身。原价五百元打二折，我扫码支付了一百元小票 (contextual contrast form in Comprehensive Shopping   Commercial Narrative)",
+            "今天我和同学去商场，我试穿一双外套，大一点儿长。五百元打八折给五十元发票 (formal register distinction for Comprehensive Shopping   Commercial Narrative)",
+            "今天我和同学商场去，试穿外套一件，太贵一点儿。打折八给四百元钱 (colloquial conversational usage for Comprehensive Shopping   Commercial Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在选购、试穿（正合适）、原价与打折计算（500 × 0.8 = 400元）、移动支付（扫码支付）及开票（电子发票）上均达到了现代汉语的最高标准。"
@@ -5947,10 +5947,10 @@
         {
           "prompt": "向医生描述「头部剧烈疼痛」，最标准的主谓谓语主诉句是：",
           "options": [
-            "我头疼得很厉害 (Core concept key phrasing)",
-            "我很头疼在昨天 (Core concept alternative form)",
-            "我疼头很多在脑子里 (Core concept alternative form)",
-            "我的头疼有很大 (Core concept alternative form)"
+            "我头疼得很厉害 (standard target expression for Human Anatomy   Bodily Discomfort Symptoms)",
+            "我很头疼在昨天 (contextual contrast form in Human Anatomy   Bodily Discomfort Symptoms)",
+            "我疼头很多在脑子里 (formal register distinction for Human Anatomy   Bodily Discomfort Symptoms)",
+            "我的头疼有很大 (colloquial conversational usage for Human Anatomy   Bodily Discomfort Symptoms)"
           ],
           "answerIndex": 0,
           "explanation": "「我头疼得很厉害」采用标准主谓谓语句型，结构严谨得体。"
@@ -5958,10 +5958,10 @@
         {
           "prompt": "爬山运动后肌肉产生的困顿疲劳感，最贴切的汉语描述词是：",
           "options": [
-            "酸 / 酸痛 / 酸胀 (Core concept alternative form)",
-            "甜 (Core concept alternative form)",
-            "苦 (Core concept alternative form)",
-            "辣 (Core concept alternative form)"
+            "酸 / 酸痛 / 酸胀 (standard target expression for Human Anatomy   Bodily Discomfort Symptoms)",
+            "甜 (contextual contrast form in Human Anatomy   Bodily Discomfort Symptoms)",
+            "苦 (formal register distinction for Human Anatomy   Bodily Discomfort Symptoms)",
+            "辣 (colloquial conversational usage for Human Anatomy   Bodily Discomfort Symptoms)"
           ],
           "answerIndex": 0,
           "explanation": "肌肉劳累疲乏在汉语中用「酸/酸痛」来精确描述。"
@@ -5973,10 +5973,10 @@
         {
           "prompt": "在句子「他吃了不干净的变质食物，现在______疼得厉害」中，应填入的消化器官词汇是：",
           "options": [
-            "肚子 / 胃 (Core concept alternative form)",
-            "肩膀 (Core concept alternative form)",
-            "耳朵 (Core concept alternative form)",
-            "脚后跟 (Core concept alternative form)"
+            "肚子 / 胃 (standard target expression for Human Anatomy   Bodily Discomfort Symptoms)",
+            "肩膀 (contextual contrast form in Human Anatomy   Bodily Discomfort Symptoms)",
+            "耳朵 (formal register distinction for Human Anatomy   Bodily Discomfort Symptoms)",
+            "脚后跟 (colloquial conversational usage for Human Anatomy   Bodily Discomfort Symptoms)"
           ],
           "answerIndex": 0,
           "explanation": "吃坏东西引起消化道病痛，对应部位为「肚子」或「胃」。"
@@ -5984,10 +5984,10 @@
         {
           "prompt": "下列哪一项属于身体病痛主诉的典型规范表达？",
           "options": [
-            "我嗓子发炎了，吞咽口水时特别疼 (Core concept alternative form)",
-            "我眼睛发炎在肚子里疼 (Core concept alternative form)",
-            "我耳朵疼在牙齿上面走 (Core concept alternative form)",
-            "我腿疼在脑子发酸 (Core concept alternative form)"
+            "我嗓子发炎了，吞咽口水时特别疼 (standard target expression for Human Anatomy   Bodily Discomfort Symptoms)",
+            "我眼睛发炎在肚子里疼 (contextual contrast form in Human Anatomy   Bodily Discomfort Symptoms)",
+            "我耳朵疼在牙齿上面走 (formal register distinction for Human Anatomy   Bodily Discomfort Symptoms)",
+            "我腿疼在脑子发酸 (colloquial conversational usage for Human Anatomy   Bodily Discomfort Symptoms)"
           ],
           "answerIndex": 0,
           "explanation": "「嗓子发炎，吞咽时特别疼」逻辑与部位描述完全严谨真实。"
@@ -6000,10 +6000,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列身体病痛描述中部位名词与感觉状态搭配完全规范精准的一项：",
           "options": [
-            "他感冒受凉后浑身发冷，头痛剧烈，嗓子干哑肿痛，全身关节也酸痛无力 (Core concept alternative form)",
-            "他受凉后头酸痛在眼睛，嗓子发冷在耳朵 (Core concept alternative form)",
-            "他感冒后手脚发烧在肚子里，嘴巴酸痛在后背 (Core concept alternative form)",
-            "他受凉浑身发酸头痒，眼睛肿在脖子 (Core concept alternative form)"
+            "他感冒受凉后浑身发冷，头痛剧烈，嗓子干哑肿痛，全身关节也酸痛无力 (standard target expression for Human Anatomy   Bodily Discomfort Symptoms)",
+            "他受凉后头酸痛在眼睛，嗓子发冷在耳朵 (contextual contrast form in Human Anatomy   Bodily Discomfort Symptoms)",
+            "他感冒后手脚发烧在肚子里，嘴巴酸痛在后背 (formal register distinction for Human Anatomy   Bodily Discomfort Symptoms)",
+            "他受凉浑身发酸头痒，眼睛肿在脖子 (colloquial conversational usage for Human Anatomy   Bodily Discomfort Symptoms)"
           ],
           "answerIndex": 0,
           "explanation": "「头痛剧烈」、「嗓子肿痛」、「关节酸痛」用词专业典雅，句法流畅。"
@@ -6067,10 +6067,10 @@
         {
           "prompt": "体温计显示为「38.5℃」，规范的汉语口语读法是：",
           "options": [
-            "三十八度五 (Core concept key phrasing)",
-            "三十八个点五度 (Core concept alternative form)",
-            "三八点五分度 (Core concept alternative form)",
-            "三十八温度五 (Core concept alternative form)"
+            "三十八度五 (standard target expression for Common Illnesses  Fever   Etiology)",
+            "三十八个点五度 (contextual contrast form in Common Illnesses  Fever   Etiology)",
+            "三八点五分度 (formal register distinction for Common Illnesses  Fever   Etiology)",
+            "三十八温度五 (colloquial conversational usage for Common Illnesses  Fever   Etiology)"
           ],
           "answerIndex": 0,
           "explanation": "38.5℃在汉语中标准口语读法为「三十八度五」。"
@@ -6078,10 +6078,10 @@
         {
           "prompt": "要表达「咳嗽症状极其严重」，运用程度补语的正确句子是：",
           "options": [
-            "他咳得很厉害 (Core concept alternative form)",
-            "他很厉害咳着 (Core concept alternative form)",
-            "他咳嗽在很厉害得 (Core concept alternative form)",
-            "他咳厉害很多 (Core concept alternative form)"
+            "他咳得很厉害 (standard target expression for Common Illnesses  Fever   Etiology)",
+            "他很厉害咳着 (contextual contrast form in Common Illnesses  Fever   Etiology)",
+            "他咳嗽在很厉害得 (formal register distinction for Common Illnesses  Fever   Etiology)",
+            "他咳厉害很多 (colloquial conversational usage for Common Illnesses  Fever   Etiology)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 得 + 很厉害」是表达生理病痛程度极深的标准句式。"
@@ -6093,10 +6093,10 @@
         {
           "prompt": "表达对海鲜食物产生变态反应的正确介词句式是：",
           "options": [
-            "我对海鲜严重过敏 (Core concept alternative form)",
-            "我从海鲜严重过敏 (Core concept alternative form)",
-            "我向海鲜严重过敏 (Core concept alternative form)",
-            "我在海鲜严重过敏 (Core concept alternative form)"
+            "我对海鲜严重过敏 (standard target expression for Common Illnesses  Fever   Etiology)",
+            "我从海鲜严重过敏 (contextual contrast form in Common Illnesses  Fever   Etiology)",
+            "我向海鲜严重过敏 (formal register distinction for Common Illnesses  Fever   Etiology)",
+            "我在海鲜严重过敏 (colloquial conversational usage for Common Illnesses  Fever   Etiology)"
           ],
           "answerIndex": 0,
           "explanation": "表达过敏对象使用介词「对」（对......过敏）。"
@@ -6104,10 +6104,10 @@
         {
           "prompt": "因食用不洁变质食物引发急性肠胃炎，最地道的病因表达是：",
           "options": [
-            "吃坏了肚子 (Core concept key phrasing)",
-            "吃好了肚子 (Core concept alternative form)",
-            "吃破了肚子 (Core concept alternative form)",
-            "吃丢了肚子 (Core concept alternative form)"
+            "吃坏了肚子 (standard target expression for Common Illnesses  Fever   Etiology)",
+            "吃好了肚子 (contextual contrast form in Common Illnesses  Fever   Etiology)",
+            "吃破了肚子 (formal register distinction for Common Illnesses  Fever   Etiology)",
+            "吃丢了肚子 (colloquial conversational usage for Common Illnesses  Fever   Etiology)"
           ],
           "answerIndex": 0,
           "explanation": "「吃坏了肚子」是表达食物不洁引起肠胃不适的经典固定短语。"
@@ -6120,10 +6120,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于病状、体温与病因叙述完全准确地道的一项：",
           "options": [
-            "小王昨晚睡觉着凉了，今天早晨量体温发现烧到了三十九度整，咳嗽得非常厉害，需要立即就医 (Core concept alternative form)",
-            "小王昨晚着凉在量体温，烧到了三十九度分，咳得很厉害着 (Core concept alternative form)",
-            "小王对感冒过敏了，体温量了三十九度点，肚子吃坏在咳嗽 (Core concept alternative form)",
-            "小王吃坏了感冒，三十九度烧得在流鼻涕 (Core concept alternative form)"
+            "小王昨晚睡觉着凉了，今天早晨量体温发现烧到了三十九度整，咳嗽得非常厉害，需要立即就医 (standard target expression for Common Illnesses  Fever   Etiology)",
+            "小王昨晚着凉在量体温，烧到了三十九度分，咳得很厉害着 (contextual contrast form in Common Illnesses  Fever   Etiology)",
+            "小王对感冒过敏了，体温量了三十九度点，肚子吃坏在咳嗽 (formal register distinction for Common Illnesses  Fever   Etiology)",
+            "小王吃坏了感冒，三十九度烧得在流鼻涕 (colloquial conversational usage for Common Illnesses  Fever   Etiology)"
           ],
           "answerIndex": 0,
           "explanation": "「着凉了」、「烧到了三十九度整」、「咳嗽得非常厉害」语法与语用均无懈可击。"
@@ -6187,10 +6187,10 @@
         {
           "prompt": "因咳嗽发烧前往医院就诊，在挂号处应首选挂号的科室是：",
           "options": [
-            "呼吸内科 / 普通内科 (Core concept alternative form)",
-            "骨科 (Core concept alternative form)",
-            "眼科 (Core concept alternative form)",
-            "口腔科 (Core concept alternative form)"
+            "呼吸内科 / 普通内科 (standard target expression for Hospital Registration  Departments   Clinical Consultation)",
+            "骨科 (contextual contrast form in Hospital Registration  Departments   Clinical Consultation)",
+            "眼科 (formal register distinction for Hospital Registration  Departments   Clinical Consultation)",
+            "口腔科 (colloquial conversational usage for Hospital Registration  Departments   Clinical Consultation)"
           ],
           "answerIndex": 0,
           "explanation": "感冒、发烧、咳嗽属于内科（特别是呼吸内科）诊疗范围。"
@@ -6198,10 +6198,10 @@
         {
           "prompt": "医生在电脑系统中为患者开具药品清单及用法，该医疗行为称为：",
           "options": [
-            "开药 / 开处方 (Core concept alternative form)",
-            "退药 (Core concept alternative form)",
-            "买药 (Core concept alternative form)",
-            "藏药 (Core concept alternative form)"
+            "开药 / 开处方 (standard target expression for Hospital Registration  Departments   Clinical Consultation)",
+            "退药 (contextual contrast form in Hospital Registration  Departments   Clinical Consultation)",
+            "买药 (formal register distinction for Hospital Registration  Departments   Clinical Consultation)",
+            "藏药 (colloquial conversational usage for Hospital Registration  Departments   Clinical Consultation)"
           ],
           "answerIndex": 0,
           "explanation": "医生开具药方称为「开药」或「开处方」。"
@@ -6213,10 +6213,10 @@
         {
           "prompt": "通过静脉滴注将药液缓慢输入人体内的治疗方式，在汉语中称为：",
           "options": [
-            "输液 / 打点滴 (Core concept alternative form)",
-            "吃药丸 (Core concept alternative form)",
-            "贴膏药 (Core concept alternative form)",
-            "量体温 (Core concept alternative form)"
+            "输液 / 打点滴 (standard target expression for Hospital Registration  Departments   Clinical Consultation)",
+            "吃药丸 (contextual contrast form in Hospital Registration  Departments   Clinical Consultation)",
+            "贴膏药 (formal register distinction for Hospital Registration  Departments   Clinical Consultation)",
+            "量体温 (colloquial conversational usage for Hospital Registration  Departments   Clinical Consultation)"
           ],
           "answerIndex": 0,
           "explanation": "静脉滴注通称为「输液」或口语中的「打点滴」。"
@@ -6224,10 +6224,10 @@
         {
           "prompt": "在医生询问「您有药物过敏史吗？」时，准确的应答格式是：",
           "options": [
-            "我以前对青霉素过敏。 / 我从来没有药物过敏史 (Core concept alternative form)",
-            "我不喜欢吃药 (Core concept alternative form)",
-            "我每天都吃药 (Core concept alternative form)",
-            "我不去药店 (Core concept alternative form)"
+            "我以前对青霉素过敏。 / 我从来没有药物过敏史 (standard target expression for Hospital Registration  Departments   Clinical Consultation)",
+            "我不喜欢吃药 (contextual contrast form in Hospital Registration  Departments   Clinical Consultation)",
+            "我每天都吃药 (formal register distinction for Hospital Registration  Departments   Clinical Consultation)",
+            "我不去药店 (colloquial conversational usage for Hospital Registration  Departments   Clinical Consultation)"
           ],
           "answerIndex": 0,
           "explanation": "向医生明确说明具体的过敏药物是关键的医疗安全常识。"
@@ -6240,10 +6240,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列医院就诊问答对话中语言规范、符合真实医疗交际流程的一组：",
           "options": [
-            "医生：请坐，哪儿不舒服？从什么时候开始发烧的？ 患者：医生，我从昨天开始发热头疼，嗓子也肿了，量体温是三十八度六 (Core concept alternative form)",
-            "医生：你来干什么？ 患者：我给你买开药在医院 (Core concept alternative form)",
-            "医生：挂号了没有谁？ 患者：我打点滴在挂号眼科 (Core concept alternative form)",
-            "医生：哪儿药不好？ 患者：我拍片子在头疼药 (Core concept alternative form)"
+            "医生：请坐，哪儿不舒服？从什么时候开始发烧的？ 患者：医生，我从昨天开始发热头疼，嗓子也肿了，量体温是三十八度六 (standard target expression for Hospital Registration  Departments   Clinical Consultation)",
+            "医生：你来干什么？ 患者：我给你买开药在医院 (contextual contrast form in Hospital Registration  Departments   Clinical Consultation)",
+            "医生：挂号了没有谁？ 患者：我打点滴在挂号眼科 (formal register distinction for Hospital Registration  Departments   Clinical Consultation)",
+            "医生：哪儿药不好？ 患者：我拍片子在头疼药 (colloquial conversational usage for Hospital Registration  Departments   Clinical Consultation)"
           ],
           "answerIndex": 0,
           "explanation": "医生规范询问主诉与起病时间，患者清晰陈述发病经过与体温数值，医患交流堪称典范。"
@@ -6307,10 +6307,10 @@
         {
           "prompt": "药品说明书上标注「每日3次，每次2片，饭后服用」，口语解释完全正确的是：",
           "options": [
-            "一天吃三次，一次吃两片，吃完饭之后服用 (Core concept alternative form)",
-            "三天吃一次，一次吃两片饭前吃 (Core concept alternative form)",
-            "一天吃两片，一次吃三次 (Core concept alternative form)",
-            "每三个小时吃两片饭前 (Core concept alternative form)"
+            "一天吃三次，一次吃两片，吃完饭之后服用 (standard target expression for Medication Dosage  Usage   Health Advice)",
+            "三天吃一次，一次吃两片饭前吃 (contextual contrast form in Medication Dosage  Usage   Health Advice)",
+            "一天吃两片，一次吃三次 (formal register distinction for Medication Dosage  Usage   Health Advice)",
+            "每三个小时吃两片饭前 (colloquial conversational usage for Medication Dosage  Usage   Health Advice)"
           ],
           "answerIndex": 0,
           "explanation": "「每日3次，每次2片，饭后服用」即一天三次、一次两片、饭后温水服用。"
@@ -6318,10 +6318,10 @@
         {
           "prompt": "向生病住院的朋友表达最诚挚得体的康复祝福，最经典的中文用语是：",
           "options": [
-            "祝你早日康复！ (Core concept alternative form)",
-            "祝你天天吃药！ (Core concept alternative form)",
-            "祝你多住几天院！ (Core concept alternative form)",
-            "祝你早日生病！ (Core concept alternative form)"
+            "祝你早日康复！ (standard target expression for Medication Dosage  Usage   Health Advice)",
+            "祝你天天吃药！ (contextual contrast form in Medication Dosage  Usage   Health Advice)",
+            "祝你多住几天院！ (formal register distinction for Medication Dosage  Usage   Health Advice)",
+            "祝你早日生病！ (colloquial conversational usage for Medication Dosage  Usage   Health Advice)"
           ],
           "answerIndex": 0,
           "explanation": "「祝你早日康复」是探望慰问病患最得体标准的祝福用语。"
@@ -6333,10 +6333,10 @@
         {
           "prompt": "在句子「这盒胶囊请在睡前半小时口服两______」中，最适合胶囊药品的量词是：",
           "options": [
-            "粒 / 颗 (Core concept alternative form)",
-            "条 (Core concept alternative form)",
-            "本 (Core concept alternative form)",
-            "张 (Core concept alternative form)"
+            "粒 / 颗 (standard target expression for Medication Dosage  Usage   Health Advice)",
+            "条 (contextual contrast form in Medication Dosage  Usage   Health Advice)",
+            "本 (formal register distinction for Medication Dosage  Usage   Health Advice)",
+            "张 (colloquial conversational usage for Medication Dosage  Usage   Health Advice)"
           ],
           "answerIndex": 0,
           "explanation": "胶囊、药丸专属量词为「粒」或「颗」。"
@@ -6344,10 +6344,10 @@
         {
           "prompt": "下列哪一项符合服药期间的健康医嘱与禁忌规范？",
           "options": [
-            "服药期间应多喝温水，保证充足休息，忌吃辛辣油腻食物 (Core concept alternative form)",
-            "生病期间应熬夜玩游戏并不喝水 (Core concept alternative form)",
-            "服药期间可以大量饮酒吃生冷冰块 (Core concept alternative form)",
-            "发烧时应剧烈跑步运动并不睡觉 (Core concept alternative form)"
+            "服药期间应多喝温水，保证充足休息，忌吃辛辣油腻食物 (standard target expression for Medication Dosage  Usage   Health Advice)",
+            "生病期间应熬夜玩游戏并不喝水 (contextual contrast form in Medication Dosage  Usage   Health Advice)",
+            "服药期间可以大量饮酒吃生冷冰块 (formal register distinction for Medication Dosage  Usage   Health Advice)",
+            "发烧时应剧烈跑步运动并不睡觉 (colloquial conversational usage for Medication Dosage  Usage   Health Advice)"
           ],
           "answerIndex": 0,
           "explanation": "多饮水、重休息、忌辛辣是生病服药期间最标准的健康调养规范。"
@@ -6360,10 +6360,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列药剂医嘱与康复关怀表述完全准确得体的一项：",
           "options": [
-            "这种感冒冲剂一天喝两次，一次冲服一袋，服药期间注意多喝温开水并清淡饮食，祝你早日康复！ (Core concept alternative form)",
-            "这种感冒药一天喝两片袋，饭后冲一瓶，祝你早日生病 (Core concept alternative form)",
-            "这种药冲剂一天服二次两粒，忌喝热水多吃辛辣 (Core concept alternative form)",
-            "这种药一天服三次在冲服，祝你早日开药 (Core concept alternative form)"
+            "这种感冒冲剂一天喝两次，一次冲服一袋，服药期间注意多喝温开水并清淡饮食，祝你早日康复！ (standard target expression for Medication Dosage  Usage   Health Advice)",
+            "这种感冒药一天喝两片袋，饭后冲一瓶，祝你早日生病 (contextual contrast form in Medication Dosage  Usage   Health Advice)",
+            "这种药冲剂一天服二次两粒，忌喝热水多吃辛辣 (formal register distinction for Medication Dosage  Usage   Health Advice)",
+            "这种药一天服三次在冲服，祝你早日开药 (colloquial conversational usage for Medication Dosage  Usage   Health Advice)"
           ],
           "answerIndex": 0,
           "explanation": "冲剂配「袋」、频次清晰、关怀温馨，语法与语用堪称典范。"
@@ -6427,10 +6427,10 @@
         {
           "prompt": "在就医叙事语篇中，正确组织就医全流程的逻辑链条是：",
           "options": [
-            "起病不适 -> 挂号就诊 -> 问诊化验 -> 开药取药 -> 服药康复 (Core concept alternative form)",
-            "先取药吃药 -> 再去医院挂号 -> 医生问诊检查 (Core concept alternative form)",
-            "化验血常规 -> 自助机挂号 -> 康复祝愿 (Core concept alternative form)",
-            "开药服药 -> 突发不适 -> 挂号问诊 (Core concept alternative form)"
+            "起病不适 -> 挂号就诊 -> 问诊化验 -> 开药取药 -> 服药康复 (standard target expression for Comprehensive Medical   Recovery Narrative)",
+            "先取药吃药 -> 再去医院挂号 -> 医生问诊检查 (contextual contrast form in Comprehensive Medical   Recovery Narrative)",
+            "化验血常规 -> 自助机挂号 -> 康复祝愿 (formal register distinction for Comprehensive Medical   Recovery Narrative)",
+            "开药服药 -> 突发不适 -> 挂号问诊 (colloquial conversational usage for Comprehensive Medical   Recovery Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事语篇严格遵循起病、挂号、问诊、检验、开药、休养康复的真实时序。"
@@ -6438,10 +6438,10 @@
         {
           "prompt": "语篇中医生叮嘱「一天服用三次，饭后服用，服药期间多喝温水」，其核心意图是：",
           "options": [
-            "指导患者规范服药并配合科学休养以促进康复 (Core concept alternative form)",
-            "要求患者不要吃药 (Core concept alternative form)",
-            "要求患者立刻住院手术 (Core concept alternative form)",
-            "要求患者每天剧烈跑步 (Core concept alternative form)"
+            "指导患者规范服药并配合科学休养以促进康复 (standard target expression for Comprehensive Medical   Recovery Narrative)",
+            "要求患者不要吃药 (contextual contrast form in Comprehensive Medical   Recovery Narrative)",
+            "要求患者立刻住院手术 (formal register distinction for Comprehensive Medical   Recovery Narrative)",
+            "要求患者每天剧烈跑步 (colloquial conversational usage for Comprehensive Medical   Recovery Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该医嘱旨在规范患者用药频次与调养方式。"
@@ -6453,10 +6453,10 @@
         {
           "prompt": "请选出下列就医叙事语篇中词汇专业、句式连贯、逻辑天衣无缝的一项：",
           "options": [
-            "我昨天感冒发烧到了三十八度八，同学陪我去医院挂了内科号，医生化验血常规后确诊为上呼吸道感染，给我开了一些消炎药并叮嘱我饭后按时服用 (Core concept alternative form)",
-            "我昨天感冒发烧在挂号眼科，医生量体温开了一顶小药片，在饭前输液了 (Core concept alternative form)",
-            "我昨天肚子疼去挂外科，医生给我开拍片子发烧三十九度吃中药 (Core concept alternative form)",
-            "我昨天发烧在打点滴挂号，血常规吃药后医生祝我康复 (Core concept alternative form)"
+            "我昨天感冒发烧到了三十八度八，同学陪我去医院挂了内科号，医生化验血常规后确诊为上呼吸道感染，给我开了一些消炎药并叮嘱我饭后按时服用 (standard target expression for Comprehensive Medical   Recovery Narrative)",
+            "我昨天感冒发烧在挂号眼科，医生量体温开了一顶小药片，在饭前输液了 (contextual contrast form in Comprehensive Medical   Recovery Narrative)",
+            "我昨天肚子疼去挂外科，医生给我开拍片子发烧三十九度吃中药 (formal register distinction for Comprehensive Medical   Recovery Narrative)",
+            "我昨天发烧在打点滴挂号，血常规吃药后医生祝我康复 (colloquial conversational usage for Comprehensive Medical   Recovery Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「发烧到了三十八度八」、「挂了内科号」、「化验血常规」、「开消炎药叮嘱饭后服用」，语法体系完美无缺。"
@@ -6464,10 +6464,10 @@
         {
           "prompt": "在叙事篇章末尾表达「恢复健康后对科学作息的领悟」，最典范得体的词汇是：",
           "options": [
-            "坚持体育锻炼与规律作息 (Core concept key phrasing)",
-            "天天熬夜不睡觉 (Core concept alternative form)",
-            "每天吃生冷油腻食品 (Core concept alternative form)",
-            "不喝温水只吹冷风 (Core concept alternative form)"
+            "坚持体育锻炼与规律作息 (standard target expression for Comprehensive Medical   Recovery Narrative)",
+            "天天熬夜不睡觉 (contextual contrast form in Comprehensive Medical   Recovery Narrative)",
+            "每天吃生冷油腻食品 (formal register distinction for Comprehensive Medical   Recovery Narrative)",
+            "不喝温水只吹冷风 (colloquial conversational usage for Comprehensive Medical   Recovery Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「坚持体育锻炼与规律作息」是总结健康生活方式的标准典范表达。"
@@ -6480,10 +6480,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列医疗与健康叙事篇章中语言最典范、结构最严谨的一项：",
           "options": [
-            "经过两天的按时服药与充分休养，我的体温完全恢复了正常，嗓子也不再肿痛。这次看病经历让我深刻认识到，保持健康规律的作息和适度的体育锻炼是预防疾病的关键 (Core concept alternative form)",
-            "经过两天吃药，我的体温打折正常了，嗓子在挂号不疼，这次生病很好玩 (Core concept alternative form)",
-            "按时服药在医院里，体温三十九度正常着，嗓子有点儿开药 (Core concept alternative form)",
-            "经过两天打点滴，体温量了不正常，医生说不用锻炼 (Core concept alternative form)"
+            "经过两天的按时服药与充分休养，我的体温完全恢复了正常，嗓子也不再肿痛。这次看病经历让我深刻认识到，保持健康规律的作息和适度的体育锻炼是预防疾病的关键 (standard target expression for Comprehensive Medical   Recovery Narrative)",
+            "经过两天吃药，我的体温打折正常了，嗓子在挂号不疼，这次生病很好玩 (contextual contrast form in Comprehensive Medical   Recovery Narrative)",
+            "按时服药在医院里，体温三十九度正常着，嗓子有点儿开药 (formal register distinction for Comprehensive Medical   Recovery Narrative)",
+            "经过两天打点滴，体温量了不正常，医生说不用锻炼 (colloquial conversational usage for Comprehensive Medical   Recovery Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在疗效叙述（体温恢复正常/嗓子不再肿痛）以及健康思想升华上均达到了现代汉语的最高境界。"
@@ -6547,10 +6547,10 @@
         {
           "prompt": "要表达「他通过专门训练掌握了开车这项技能」，正确的能愿动词是：",
           "options": [
-            "他会开车 (Core concept alternative form)",
-            "他能开车在生病。 vs 会  精微语义与句法 (Core concept alternative form)",
-            "他应该开车在学会。 vs 会  精微语义与句法 (Core concept alternative form)",
-            "他想要开车在过去。 vs 会  精微语义与句法 (Core concept alternative form)"
+            "他会开车 (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "他能开车在生病。 vs 会  精微语义与句法 (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "他应该开车在学会。 vs 会  精微语义与句法 (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "他想要开车在过去。 vs 会  精微语义与句法 (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "表达通过学习掌握的专门技艺，使用「会」（会开车）。"
@@ -6558,10 +6558,10 @@
         {
           "prompt": "句子「我今天头疼得厉害，______去参加聚会了」中，表达客观身体条件不允许，应填入：",
           "options": [
-            "不能 (Core concept key phrasing)",
-            "不会 vs 会  精微语义与句法 (Core concept alternative form)",
-            "不想在过去 vs 会  精微语义与句法 (Core concept alternative form)",
-            "不要在以前 vs 会  精微语义与句法 (Core concept alternative form)"
+            "不能 (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "不会 vs 会  精微语义与句法 (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "不想在过去 vs 会  精微语义与句法 (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "不要在以前 vs 会  精微语义与句法 (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "因身体客观原因无法前往，使用「不能」。"
@@ -6573,10 +6573,10 @@
         {
           "prompt": "在气象预报语境「明天夜里北京______下雪」，表达对未来必然性的预测，应填入：",
           "options": [
-            "会 (Core concept key phrasing)",
-            "能 vs 会  精微语义与句法 (Core concept alternative form)",
-            "可以 vs 会  精微语义与句法 (Core concept alternative form)",
-            "必须 vs 会  精微语义与句法 (Core concept alternative form)"
+            "会 (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "能 vs 会  精微语义与句法 (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "可以 vs 会  精微语义与句法 (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "必须 vs 会  精微语义与句法 (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "预测未来可能发生的事态，使用「会」（会下雪）。"
@@ -6584,10 +6584,10 @@
         {
           "prompt": "在图书馆公共场所标识牌上，表达规章制度禁止大声喧哗，规范用语是：",
           "options": [
-            "阅览室内不能 / 请勿大声喧哗 (Core concept alternative form)",
-            "阅览室内不会大声喧哗。 vs 会  精微语义与句法 (Core concept alternative form)",
-            "阅览室内可以大声喧哗。 vs 会  精微语义与句法 (Core concept alternative form)",
-            "阅览室内想大声喧哗。 vs 会  精微语义与句法 (Core concept alternative form)"
+            "阅览室内不能 / 请勿大声喧哗 (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "阅览室内不会大声喧哗。 vs 会  精微语义与句法 (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "阅览室内可以大声喧哗。 vs 会  精微语义与句法 (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "阅览室内想大声喧哗。 vs 会  精微语义与句法 (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "表达制度约束与禁止使用「不能」或「请勿」。"
@@ -6600,10 +6600,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中「会」与「能」的语义与语法运用完全精准无误的一项：",
           "options": [
-            "大卫虽然会包中国饺子，但由于今天右手受伤了，所以不能帮妈妈做晚饭 (Core concept alternative form)",
-            "大卫虽然能包饺子，但右手受伤不会做饭。 vs 会 (Core concept alternative form)",
-            "大卫虽然想包饺子，但他明天会不能来。 vs 会 (Core concept alternative form)",
-            "大卫可以包饺子，但他不会在今天。 vs 会 (Core concept alternative form)"
+            "大卫虽然会包中国饺子，但由于今天右手受伤了，所以不能帮妈妈做晚饭 (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "大卫虽然能包饺子，但右手受伤不会做饭。 vs 会 (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "大卫虽然想包饺子，但他明天会不能来。 vs 会 (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "大卫可以包饺子，但他不会在今天。 vs 会 (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「会包饺子」（技能）与「右手受伤不能做饭」（客观限制）对比鲜明，堪称能愿动词典范句。"
@@ -6667,10 +6667,10 @@
         {
           "prompt": "向朋友委婉表达自己周末有去故宫参观的主观愿望，最得体的句子是：",
           "options": [
-            "这个周末我很想去故宫博物院参观 (vs alternative form)",
-            "这个周末我必须在故宫走。 vs 要  语气强 (vs alternative form)",
-            "这个周末我不要在故宫去。 vs 要  语气强 (vs alternative form)",
-            "这个周末我应该不要去故宫。 vs 要  语气强 (vs alternative form)"
+            "这个周末我很想去故宫博物院参观 (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "这个周末我必须在故宫走。 vs 要  语气强 (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "这个周末我不要在故宫去。 vs 要  语气强 (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "这个周末我应该不要去故宫。 vs 要  语气强 (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「我很想去...」表达委婉主观愿望，语气亲切得体。"
@@ -6678,10 +6678,10 @@
         {
           "prompt": "在告示牌上表达严禁吸烟的劝阻指令，规范句式是：",
           "options": [
-            "此处请不要吸烟！ / 请勿吸烟！ (vs alternative form)",
-            "此处请不想吸烟！ vs 要  语气强 (vs alternative form)",
-            "此处请不用吸烟！ vs 要  语气强 (vs alternative form)",
-            "此处请不能想吸烟！ vs 要  语气强 (vs alternative form)"
+            "此处请不要吸烟！ / 请勿吸烟！ (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "此处请不想吸烟！ vs 要  语气强 (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "此处请不用吸烟！ vs 要  语气强 (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "此处请不能想吸烟！ vs 要  语气强 (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「请不要吸烟」中「不要」充当劝阻警示助词。"
@@ -6693,10 +6693,10 @@
         {
           "prompt": "要表达「今天很累，主观上没有去逛街的意愿」，正确的否定式是：",
           "options": [
-            "我今天太累了，不想去逛街 (vs alternative form)",
-            "我今天太累了，不要去逛街。 vs 要 (vs alternative form)",
-            "我今天太累了，不能想逛街。 vs 要  语气强 (vs alternative form)",
-            "我今天太累了，应该不想逛街。 vs 要  语气强 (vs alternative form)"
+            "我今天太累了，不想去逛街 (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "我今天太累了，不要去逛街。 vs 要 (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "我今天太累了，不能想逛街。 vs 要  语气强 (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "我今天太累了，应该不想逛街。 vs 要  语气强 (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "表达个人主观上没有意向，必须使用「不想」。"
@@ -6704,10 +6704,10 @@
         {
           "prompt": "表达对实现既定奋斗目标的坚定决心，最适合的情态助词是：",
           "options": [
-            "要 / 一定要 (vs alternative form)",
-            "想一点儿 vs 要  语气强 (vs alternative form)",
-            "有点儿想 vs 要  语气强 (vs alternative form)",
-            "可以试试 vs 要  语气强 (vs alternative form)"
+            "要 / 一定要 (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "想一点儿 vs 要  语气强 (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "有点儿想 vs 要  语气强 (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "可以试试 vs 要  语气强 (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「要/一定要」展现了坚定不移的意志与明确的执行决心。"
@@ -6720,10 +6720,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中「想」与「要」的语义层次与否定用法完全规范无误的一项：",
           "options": [
-            "我原本只是想了解一下中国茶文化，但深入研读后，我现在决心要成为一名优秀的评茶师 (vs alternative form)",
-            "我原本不要了解中国茶文化，但现在不想成为评茶师。 vs 要 (vs alternative form)",
-            "我原本要不想了解茶文化，但现在不要成评茶师。 vs 要 (vs alternative form)",
-            "我想要不要了解茶文化，但现在要不想做。 vs 要 (vs alternative form)"
+            "我原本只是想了解一下中国茶文化，但深入研读后，我现在决心要成为一名优秀的评茶师 (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "我原本不要了解中国茶文化，但现在不想成为评茶师。 vs 要 (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "我原本要不想了解茶文化，但现在不要成评茶师。 vs 要 (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "我想要不要了解茶文化，但现在要不想做。 vs 要 (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首句精准刻画了心理愿望向行动抱负的飞跃，逻辑严谨。"
@@ -6787,10 +6787,10 @@
         {
           "prompt": "在正式场合向主持人礼貌请求发言许可，最得体的表达是：",
           "options": [
-            "请问我可以发言吗？ (Core concept alternative form)",
-            "请问我必须发言吗？ / 应该 (Core concept alternative form)",
-            "请问我应该不要发言？ / 应该 (Core concept alternative form)",
-            "请问我想不能发言？ / 应该 (Core concept alternative form)"
+            "请问我可以发言吗？ (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "请问我必须发言吗？ / 应该 (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "请问我应该不要发言？ / 应该 (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "请问我想不能发言？ / 应该 (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「请问我可以...吗？」是征询许可最标准礼貌的交际用语。"
@@ -6798,10 +6798,10 @@
         {
           "prompt": "表达法律、制度与安全规章中的强制性不可违背要求，最准确的情态动词是：",
           "options": [
-            "必须 (Core concept key phrasing)",
-            "可以 / 应该 (Core concept alternative form)",
-            "想 / 应该 (Core concept alternative form)",
-            "会一点儿 / 应该 (Core concept alternative form)"
+            "必须 (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "可以 / 应该 (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "想 / 应该 (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "会一点儿 / 应该 (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "法律与安全规章中的强制性要求使用「必须」。"
@@ -6813,10 +6813,10 @@
         {
           "prompt": "在句子「作为社会的一员，我们______保护环境、节约用水」中，表达社会公德义务应填入：",
           "options": [
-            "应该 / 应当 (Core concept alternative form)",
-            "可以随便 / 应该 (Core concept alternative form)",
-            "不用 / 应该 (Core concept alternative form)",
-            "不想 / 应该 (Core concept alternative form)"
+            "应该 / 应当 (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "可以随便 / 应该 (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "不用 / 应该 (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "不想 / 应该 (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "履行社会公德与道德义务使用「应该/应当」。"
@@ -6824,10 +6824,10 @@
         {
           "prompt": "要表达「明天是周末不用早起，客观上没有早起的必要」，正确的否定形式是：",
           "options": [
-            "明天不用 / 不必早起 (Core concept alternative form)",
-            "明天不必须早起。 / 应该 (Core concept alternative form)",
-            "明天不要早起。 / 应该 (Core concept alternative form)",
-            "明天不会早起。 / 应该 (Core concept alternative form)"
+            "明天不用 / 不必早起 (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "明天不必须早起。 / 应该 (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "明天不要早起。 / 应该 (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "明天不会早起。 / 应该 (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "表达「没有必要」应使用「不用」或「不必」，现代汉语中无「不必须」说法。"
@@ -6840,10 +6840,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列规章制度与社会规范语篇中情态助词运用完全典范严密的一项：",
           "options": [
-            "所有进入实验室的人员都必须严格穿戴防护服，实验过程中应该保持专注严谨，非经导师许可绝不可以擅自改动仪器参数 (Core concept alternative form)",
-            "所有人员都可以在实验室穿防护服，实验中必须不可以专注。 / 应该 (Core concept alternative form)",
-            "进入实验室应该不用穿衣服，不可以必须改动。 / 应该 (Core concept alternative form)",
-            "实验室必须可以随便进，应该不要看仪器。 / 应该 (Core concept alternative form)"
+            "所有进入实验室的人员都必须严格穿戴防护服，实验过程中应该保持专注严谨，非经导师许可绝不可以擅自改动仪器参数 (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "所有人员都可以在实验室穿防护服，实验中必须不可以专注。 / 应该 (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "进入实验室应该不用穿衣服，不可以必须改动。 / 应该 (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "实验室必须可以随便进，应该不要看仪器。 / 应该 (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "该句精准展示了「必须（强制法令）」、「应该（道德自觉）」与「不可以（禁令）」的法度分工。"
@@ -6907,10 +6907,10 @@
         {
           "prompt": "在句子「______实现留学中国的梦想，他每天都在刻苦攻读汉语」中，引导目标的介词是：",
           "options": [
-            "为了 (Core concept key phrasing)",
-            "关于 (Core concept alternative form)",
-            "对于 (Core concept alternative form)",
-            "在上面 (Core concept alternative form)"
+            "为了 (standard target expression for Short term Plans  Future Career   Life Aspirations)",
+            "关于 (contextual contrast form in Short term Plans  Future Career   Life Aspirations)",
+            "对于 (formal register distinction for Short term Plans  Future Career   Life Aspirations)",
+            "在上面 (colloquial conversational usage for Short term Plans  Future Career   Life Aspirations)"
           ],
           "answerIndex": 0,
           "explanation": "引导明确奋斗目标使用目的介词「为了」。"
@@ -6918,10 +6918,10 @@
         {
           "prompt": "表达正式、长远且具有系统性的方案规划，最书面严谨的词汇是：",
           "options": [
-            "计划 / 规划 (Core concept alternative form)",
-            "随便想想 (Core concept alternative form)",
-            "玩一玩 (Core concept alternative form)",
-            "看一看 (Core concept alternative form)"
+            "计划 / 规划 (standard target expression for Short term Plans  Future Career   Life Aspirations)",
+            "随便想想 (contextual contrast form in Short term Plans  Future Career   Life Aspirations)",
+            "玩一玩 (formal register distinction for Short term Plans  Future Career   Life Aspirations)",
+            "看一看 (colloquial conversational usage for Short term Plans  Future Career   Life Aspirations)"
           ],
           "answerIndex": 0,
           "explanation": "「计划」与「规划」是表达长远正式方案的标准书面词汇。"
@@ -6933,10 +6933,10 @@
         {
           "prompt": "下列哪一项属于学业规划与人生抱负的典范汉语陈述？",
           "options": [
-            "我计划在未来三年内攻读语言学硕士学位，希望将来能从事国际汉语教育工作 (Core concept alternative form)",
-            "我打算在昨天攻读完硕士明天去玩 (Core concept alternative form)",
-            "我为了不想学习而天天睡觉 (Core concept alternative form)",
-            "我希望不可以成为老师在过去 (Core concept alternative form)"
+            "我计划在未来三年内攻读语言学硕士学位，希望将来能从事国际汉语教育工作 (standard target expression for Short term Plans  Future Career   Life Aspirations)",
+            "我打算在昨天攻读完硕士明天去玩 (contextual contrast form in Short term Plans  Future Career   Life Aspirations)",
+            "我为了不想学习而天天睡觉 (formal register distinction for Short term Plans  Future Career   Life Aspirations)",
+            "我希望不可以成为老师在过去 (colloquial conversational usage for Short term Plans  Future Career   Life Aspirations)"
           ],
           "answerIndex": 0,
           "explanation": "三年计划、学位攻读与职业理想层层递进，结构优美。"
@@ -6944,10 +6944,10 @@
         {
           "prompt": "在规划叙事中，表示行动前期筹备就绪的动词词汇是：",
           "options": [
-            "准备 (Core concept key phrasing)",
-            "退步 (Core concept alternative form)",
-            "放弃 (Core concept alternative form)",
-            "迟到 (Core concept alternative form)"
+            "准备 (standard target expression for Short term Plans  Future Career   Life Aspirations)",
+            "退步 (contextual contrast form in Short term Plans  Future Career   Life Aspirations)",
+            "放弃 (formal register distinction for Short term Plans  Future Career   Life Aspirations)",
+            "迟到 (colloquial conversational usage for Short term Plans  Future Career   Life Aspirations)"
           ],
           "answerIndex": 0,
           "explanation": "「准备」表示积极筹备与行动就绪。"
@@ -6960,10 +6960,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列个人规划与理想阐述中逻辑最严密、语言最典范的一项：",
           "options": [
-            "为了能够在中外经贸合作中发挥桥梁作用，我打算先在大学里打牢经济学与汉语言基础，然后计划申请中国政府奖学金赴华深造 (Core concept alternative form)",
-            "为了能够去中国玩，我打算先睡觉然后计划不学习 (Core concept alternative form)",
-            "我打算在过去为了中国留学而准备昨天 (Core concept alternative form)",
-            "我计划必须可以希望去经贸合作 (Core concept alternative form)"
+            "为了能够在中外经贸合作中发挥桥梁作用，我打算先在大学里打牢经济学与汉语言基础，然后计划申请中国政府奖学金赴华深造 (standard target expression for Short term Plans  Future Career   Life Aspirations)",
+            "为了能够去中国玩，我打算先睡觉然后计划不学习 (contextual contrast form in Short term Plans  Future Career   Life Aspirations)",
+            "我打算在过去为了中国留学而准备昨天 (formal register distinction for Short term Plans  Future Career   Life Aspirations)",
+            "我计划必须可以希望去经贸合作 (colloquial conversational usage for Short term Plans  Future Career   Life Aspirations)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在目标（发挥桥梁作用）、路径（打牢双重基础）及长远规划（申请奖学金深造）上达到了极高标准。"
@@ -7027,10 +7027,10 @@
         {
           "prompt": "在个人学术愿景自述中，将各情态动词与规划步骤进行逻辑串联的正确篇章脉络是：",
           "options": [
-            "展示现有能力 -> 明确奋斗志向 -> 严守自律 -> 落实分步计划 (Core concept alternative form)",
-            "先说长远愿景 -> 再说不能做的事 -> 最后说不想学习 (Core concept alternative form)",
-            "先必须制定计划 -> 再说不会汉语 -> 结束自述 (Core concept alternative form)",
-            "只说希望梦想 -> 没有任何具体步骤与能力证明 (Core concept alternative form)"
+            "展示现有能力 -> 明确奋斗志向 -> 严守自律 -> 落实分步计划 (standard target expression for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "先说长远愿景 -> 再说不能做的事 -> 最后说不想学习 (contextual contrast form in Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "先必须制定计划 -> 再说不会汉语 -> 结束自述 (formal register distinction for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "只说希望梦想 -> 没有任何具体步骤与能力证明 (colloquial conversational usage for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "由现有能力切入，确立目标、严明纪律、细化步骤并升华愿景，是严密规范的学术自述结构。"
@@ -7038,10 +7038,10 @@
         {
           "prompt": "语篇中「为了促进中外文化交流，我必须每天合理规划时间」所体现的核心逻辑是：",
           "options": [
-            "崇高宏伟的理想目标必须依靠高度自律的日常行动来保障落实 (Core concept alternative form)",
-            "只需要空想不用付诸行动 (Core concept alternative form)",
-            "计划与目标毫无关系 (Core concept alternative form)",
-            "每天随便过日子即可实现理想 (Core concept alternative form)"
+            "崇高宏伟的理想目标必须依靠高度自律的日常行动来保障落实 (standard target expression for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "只需要空想不用付诸行动 (contextual contrast form in Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "计划与目标毫无关系 (formal register distinction for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "每天随便过日子即可实现理想 (colloquial conversational usage for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该句深刻揭示了远大目标（为了...）与高度自律（必须...）的辩证统一关系。"
@@ -7053,10 +7053,10 @@
         {
           "prompt": "请选出下列个人愿景陈述中情态动词搭配与逻辑演进最完美通畅的一项：",
           "options": [
-            "我现在能用中文阅读专业文献，为了将来能成为一名优秀的汉学家，我必须要前往中国深入研学，我计划在明年申请相关高校的研究生项目 (Core concept alternative form)",
-            "我现在不会看书，为了不想去中国，我计划天天睡觉 (Core concept alternative form)",
-            "我现在能看书在过去，必须可以去留学在明年 (Core concept alternative form)",
-            "我现在想不能看书，为了应该不计划申请 (Core concept alternative form)"
+            "我现在能用中文阅读专业文献，为了将来能成为一名优秀的汉学家，我必须要前往中国深入研学，我计划在明年申请相关高校的研究生项目 (standard target expression for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "我现在不会看书，为了不想去中国，我计划天天睡觉 (contextual contrast form in Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "我现在能看书在过去，必须可以去留学在明年 (formal register distinction for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "我现在想不能看书，为了应该不计划申请 (colloquial conversational usage for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「能阅读」（能力）、「为了...要...」（目标与决心）、「计划申请」（行动），无可挑剔。"
@@ -7064,10 +7064,10 @@
         {
           "prompt": "在学术自述中表达「中外青年之间的互相了解与友谊」，最典雅得体的词汇是：",
           "options": [
-            "相互理解与深厚友谊 (Core concept key phrasing)",
-            "天天打架 (Core concept alternative form)",
-            "互不理睬 (Core concept alternative form)",
-            "互相不说话 (Core concept alternative form)"
+            "相互理解与深厚友谊 (standard target expression for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "天天打架 (contextual contrast form in Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "互不理睬 (formal register distinction for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "互相不说话 (colloquial conversational usage for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「相互理解与深厚友谊」是跨文化学术愿景的标准典雅表达。"
@@ -7080,10 +7080,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列个人学术蓝图叙事篇章中思想最深刻、语法结构最典范的一项：",
           "options": [
-            "作为一名国际汉语学习者，我不仅会熟练运用日常口语，更能深入理解中文背后的文化底蕴。为了将来成为中外经贸文化交流的桥梁，我必须坚持严谨治学，我计划在未来五年内攻读硕士学位，并希望能为增进中外人民的友谊贡献自己的青春与智慧 (Core concept alternative form)",
-            "作为学生我不要学中文，因为太难了，我打算回家玩 (Core concept alternative form)",
-            "我能会中文在昨天，必须可以希望当桥梁在未来 (Core concept alternative form)",
-            "为了不用学习，我应该计划天天睡觉去 (Core concept alternative form)"
+            "作为一名国际汉语学习者，我不仅会熟练运用日常口语，更能深入理解中文背后的文化底蕴。为了将来成为中外经贸文化交流的桥梁，我必须坚持严谨治学，我计划在未来五年内攻读硕士学位，并希望能为增进中外人民的友谊贡献自己的青春与智慧 (standard target expression for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "作为学生我不要学中文，因为太难了，我打算回家玩 (contextual contrast form in Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "我能会中文在昨天，必须可以希望当桥梁在未来 (formal register distinction for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)",
+            "为了不用学习，我应该计划天天睡觉去 (colloquial conversational usage for Comprehensive Personal Growth  Academic Blueprint   Vision Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在能力展示、文化理解、人生目标、治学态度、学术规划以及价值升华上均达到了现代汉语的最高境界。"
@@ -7147,10 +7147,10 @@
         {
           "prompt": "在汉语中，与「足球」搭配的专属运动动作动词是：",
           "options": [
-            "踢 (Core concept key phrasing)",
-            "打 (Core concept alternative form)",
-            "下 (Core concept alternative form)",
-            "滑 (Core concept alternative form)"
+            "踢 (standard target expression for Sports   Recreation Vocabulary)",
+            "打 (contextual contrast form in Sports   Recreation Vocabulary)",
+            "下 (formal register distinction for Sports   Recreation Vocabulary)",
+            "滑 (colloquial conversational usage for Sports   Recreation Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "足球是用脚踢的运动，固定动词搭配为「踢足球」。"
@@ -7158,10 +7158,10 @@
         {
           "prompt": "在汉语中，与「围棋 / 象棋」等智力棋类搭配的专属动词是：",
           "options": [
-            "下 (Core concept key phrasing)",
-            "踢 (Core concept alternative form)",
-            "滑 (Core concept alternative form)",
-            "游 (Core concept alternative form)"
+            "下 (standard target expression for Sports   Recreation Vocabulary)",
+            "踢 (contextual contrast form in Sports   Recreation Vocabulary)",
+            "滑 (formal register distinction for Sports   Recreation Vocabulary)",
+            "游 (colloquial conversational usage for Sports   Recreation Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "棋类活动在汉语中固定搭配动词「下」（下围棋、下象棋）。"
@@ -7173,10 +7173,10 @@
         {
           "prompt": "下列哪一组体育运动与动词的搭配完全正确无误？",
           "options": [
-            "打篮球、踢足球、滑雪、下象棋 (Core concept alternative form)",
-            "踢篮球、打足球、下滑雪、滑象棋 (Core concept alternative form)",
-            "下篮球、滑足球、打滑雪、踢象棋 (Core concept alternative form)",
-            "游篮球、跑足球、骑滑雪、爬象棋 (Core concept alternative form)"
+            "打篮球、踢足球、滑雪、下象棋 (standard target expression for Sports   Recreation Vocabulary)",
+            "踢篮球、打足球、下滑雪、滑象棋 (contextual contrast form in Sports   Recreation Vocabulary)",
+            "下篮球、滑足球、打滑雪、踢象棋 (formal register distinction for Sports   Recreation Vocabulary)",
+            "游篮球、跑足球、骑滑雪、爬象棋 (colloquial conversational usage for Sports   Recreation Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "打篮球（手）、踢足球（脚）、滑雪（滑行）、下象棋（棋类），搭配精准无误。"
@@ -7184,10 +7184,10 @@
         {
           "prompt": "表达对某项运动产生浓厚兴趣的规范介词短语框架是：",
           "options": [
-            "我对打羽毛球很感兴趣 (Core concept alternative form)",
-            "我从打羽毛球很感兴趣 (Core concept alternative form)",
-            "我向打羽毛球很感兴趣 (Core concept alternative form)",
-            "我在打羽毛球很感兴趣 (Core concept alternative form)"
+            "我对打羽毛球很感兴趣 (standard target expression for Sports   Recreation Vocabulary)",
+            "我从打羽毛球很感兴趣 (contextual contrast form in Sports   Recreation Vocabulary)",
+            "我向打羽毛球很感兴趣 (formal register distinction for Sports   Recreation Vocabulary)",
+            "我在打羽毛球很感兴趣 (colloquial conversational usage for Sports   Recreation Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "表达兴趣对象必须使用介词「对」（对......感兴趣）。"
@@ -7200,10 +7200,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列文体爱好描述中动宾搭配完全符合规范的一项：",
           "options": [
-            "哥哥每逢周末喜欢去公园打太极拳，弟弟则喜欢在球场上踢足球和打网球，他们都对体育运动充满热情 (Core concept alternative form)",
-            "哥哥喜欢踢太极拳，弟弟喜欢下足球和滑网球 (Core concept alternative form)",
-            "哥哥下太极拳，弟弟打足球在滑网球 (Core concept alternative form)",
-            "哥哥滑太极拳，弟弟游足球 (Core concept alternative form)"
+            "哥哥每逢周末喜欢去公园打太极拳，弟弟则喜欢在球场上踢足球和打网球，他们都对体育运动充满热情 (standard target expression for Sports   Recreation Vocabulary)",
+            "哥哥喜欢踢太极拳，弟弟喜欢下足球和滑网球 (contextual contrast form in Sports   Recreation Vocabulary)",
+            "哥哥下太极拳，弟弟打足球在滑网球 (formal register distinction for Sports   Recreation Vocabulary)",
+            "哥哥滑太极拳，弟弟游足球 (colloquial conversational usage for Sports   Recreation Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "打太极拳、踢足球、打网球动词搭配完全符合现代汉语词法规范。"
@@ -7267,10 +7267,10 @@
         {
           "prompt": "要表达「我想和他见一面」，符合离合词「见面」语法规范的正确句子是：",
           "options": [
-            "我想跟他见面 (VOAABABAB U12)",
-            "我想见面他 (VOAABABAB U12)",
-            "我想见面跟他 (VOAABABAB U12)",
-            "我想见他面在明天 (VOAABABAB U12)"
+            "我想跟他见面 (standard target expression for Separable Verbs Structure   Grammatical Constraints)",
+            "我想见面他 (contextual contrast form in Separable Verbs Structure   Grammatical Constraints)",
+            "我想见面跟他 (formal register distinction for Separable Verbs Structure   Grammatical Constraints)",
+            "我想见他面在明天 (colloquial conversational usage for Separable Verbs Structure   Grammatical Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "离合词「见面」不能直接带宾语，必须用介词「跟/和/同」引出交际对象（跟他见面）。"
@@ -7278,10 +7278,10 @@
         {
           "prompt": "离合词「跳舞」的动词重叠形式，完全符合规范的是：",
           "options": [
-            "跳跳舞 (VOAABABAB U12)",
-            "跳舞跳舞 (VOAABABAB U12)",
-            "跳舞舞 (VOAABABAB U12)",
-            "跳舞跳 (VOAABABAB U12)"
+            "跳跳舞 (standard target expression for Separable Verbs Structure   Grammatical Constraints)",
+            "跳舞跳舞 (contextual contrast form in Separable Verbs Structure   Grammatical Constraints)",
+            "跳舞舞 (formal register distinction for Separable Verbs Structure   Grammatical Constraints)",
+            "跳舞跳 (colloquial conversational usage for Separable Verbs Structure   Grammatical Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "离合词动词重叠铁律为 AAB 式（跳跳舞、游游泳、散散步）。"
@@ -7293,10 +7293,10 @@
         {
           "prompt": "在句子「请你一定要帮______，我遇到了急事」中，正确的离合词离析表达是：",
           "options": [
-            "我的忙 (VOAABABAB U12)",
-            "忙我 (VOAABABAB U12)",
-            "帮忙我 (VOAABABAB U12)",
-            "我帮忙 (VOAABABAB U12)"
+            "我的忙 (standard target expression for Separable Verbs Structure   Grammatical Constraints)",
+            "忙我 (contextual contrast form in Separable Verbs Structure   Grammatical Constraints)",
+            "帮忙我 (formal register distinction for Separable Verbs Structure   Grammatical Constraints)",
+            "我帮忙 (colloquial conversational usage for Separable Verbs Structure   Grammatical Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "「帮忙」是离合词，不能说「帮忙我」，正确形式为「帮我的忙」或使用动词「帮助我」。"
@@ -7304,10 +7304,10 @@
         {
           "prompt": "下列哪一项离合词的重叠形式完全符合现代汉语语法铁律？",
           "options": [
-            "散散步、聊聊天、洗洗澡 (VOAABABAB U12)",
-            "散步散步、聊天聊天、洗澡洗澡 (VOAABABAB U12)",
-            "散步步、聊天天、洗澡澡 (VOAABABAB U12)",
-            "散步散、聊天聊、洗澡洗 (VOAABABAB U12)"
+            "散散步、聊聊天、洗洗澡 (standard target expression for Separable Verbs Structure   Grammatical Constraints)",
+            "散步散步、聊天聊天、洗澡洗澡 (contextual contrast form in Separable Verbs Structure   Grammatical Constraints)",
+            "散步步、聊天天、洗澡澡 (formal register distinction for Separable Verbs Structure   Grammatical Constraints)",
+            "散步散、聊天聊、洗澡洗 (colloquial conversational usage for Separable Verbs Structure   Grammatical Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "离合词重叠必须重叠前面的动词语素，构成 AAB 形式。"
@@ -7320,10 +7320,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中离合词用法与句式结构完全正确的一项：",
           "options": [
-            "下班以后，张老师喜欢跟老朋友在公园里下下棋、聊聊天，生活过得十分充实 (VOAABABAB U12)",
-            "下班以后，张老师喜欢下棋老朋友在公园，聊天聊天 (VOAABABAB U12)",
-            "张老师结婚了李老师，并帮忙了他很多 (VOAABABAB U12)",
-            "张老师见面老朋友，生气了他 (VOAABABAB U12)"
+            "下班以后，张老师喜欢跟老朋友在公园里下下棋、聊聊天，生活过得十分充实 (standard target expression for Separable Verbs Structure   Grammatical Constraints)",
+            "下班以后，张老师喜欢下棋老朋友在公园，聊天聊天 (contextual contrast form in Separable Verbs Structure   Grammatical Constraints)",
+            "张老师结婚了李老师，并帮忙了他很多 (formal register distinction for Separable Verbs Structure   Grammatical Constraints)",
+            "张老师见面老朋友，生气了他 (colloquial conversational usage for Separable Verbs Structure   Grammatical Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "「跟老朋友下下棋、聊聊天」介词引出对象且使用AAB重叠，堪称离合词语法的典范示范。"
@@ -7387,10 +7387,10 @@
         {
           "prompt": "表达「跑步持续了三十分钟」，符合离合词时量补语插入规则的正确句子是：",
           "options": [
-            "他跑了三十分钟的步。 + 步。    + 步。 (Core concept alternative form)",
-            "他跑步了三十分钟的。    + 步。 (Core concept alternative form)",
-            "他三十分钟跑步了。    + 步。 (Core concept alternative form)",
-            "他跑了步三十分钟。    + 步。 (Core concept alternative form)"
+            "他跑了三十分钟的步。 + 步。    + 步。 (standard target expression for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "他跑步了三十分钟的。    + 步。 (contextual contrast form in Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "他三十分钟跑步了。    + 步。 (formal register distinction for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "他跑了步三十分钟。    + 步。 (colloquial conversational usage for Separable Verbs Splitting  Complements  Particles   Attributes)"
           ],
           "answerIndex": 0,
           "explanation": "时量补语应插入离合词中间：跑 + 了 + 三十分钟 + (的) + 步。"
@@ -7398,10 +7398,10 @@
         {
           "prompt": "表达「对方帮了自己很大一个忙」，正确的离析句式是：",
           "options": [
-            "你帮了我一个大忙 (Core concept alternative form)",
-            "你帮忙了我一个大 (Core concept alternative form)",
-            "你一个大帮忙了我 (Core concept alternative form)",
-            "你帮我忙了一个大 (Core concept alternative form)"
+            "你帮了我一个大忙 (standard target expression for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "你帮忙了我一个大 (contextual contrast form in Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "你一个大帮忙了我 (formal register distinction for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "你帮我忙了一个大 (colloquial conversational usage for Separable Verbs Splitting  Complements  Particles   Attributes)"
           ],
           "answerIndex": 0,
           "explanation": "定语「我一个大」插入离合词动词与宾语之间：帮了我一个大忙。"
@@ -7413,10 +7413,10 @@
         {
           "prompt": "在句子「昨天晚上太累了，我一口气______」中，表达睡眠持续时间应填入：",
           "options": [
-            "睡了九个小时的觉 (Core concept key phrasing)",
-            "睡觉了九个小时的 (Core concept alternative form)",
-            "九个小时睡觉了 (Core concept alternative form)",
-            "睡了觉九个小时 (Core concept alternative form)"
+            "睡了九个小时的觉 (standard target expression for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "睡觉了九个小时的 (contextual contrast form in Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "九个小时睡觉了 (formal register distinction for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "睡了觉九个小时 (colloquial conversational usage for Separable Verbs Splitting  Complements  Particles   Attributes)"
           ],
           "answerIndex": 0,
           "explanation": "「睡觉」中间插入时量补语「九个小时的」，构成「睡了九个小时的觉」。"
@@ -7424,10 +7424,10 @@
         {
           "prompt": "下列哪一项离合词插入动态助词「过」的形式完全正确？",
           "options": [
-            "游过泳、洗过澡、离过婚 (Core concept alternative form)",
-            "游泳过、洗澡过、结婚过 (Core concept alternative form)",
-            "过游泳、过洗澡、过结婚 (Core concept alternative form)",
-            "游过泳过、洗过澡过 (Core concept alternative form)"
+            "游过泳、洗过澡、离过婚 (standard target expression for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "游泳过、洗澡过、结婚过 (contextual contrast form in Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "过游泳、过洗澡、过结婚 (formal register distinction for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "游过泳过、洗过澡过 (colloquial conversational usage for Separable Verbs Splitting  Complements  Particles   Attributes)"
           ],
           "answerIndex": 0,
           "explanation": "动态助词「过」必须紧贴离合词前面的动词语素（游过泳、洗过澡）。"
@@ -7440,10 +7440,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中离合词离析形态、时量补语与定语插入完全典范严谨的一项：",
           "options": [
-            "小王向公司请了三天病假，在家里好好睡了一个大觉，身体终于完全康复了 (Core concept alternative form)",
-            "小王向公司请假了三天病，睡觉了一个大觉 (Core concept alternative form)",
-            "小王三天请假了病，大觉睡了一个 (Core concept alternative form)",
-            "小王请假三天在家里，睡了觉一个大 (Core concept alternative form)"
+            "小王向公司请了三天病假，在家里好好睡了一个大觉，身体终于完全康复了 (standard target expression for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "小王向公司请假了三天病，睡觉了一个大觉 (contextual contrast form in Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "小王三天请假了病，大觉睡了一个 (formal register distinction for Separable Verbs Splitting  Complements  Particles   Attributes)",
+            "小王请假三天在家里，睡了觉一个大 (colloquial conversational usage for Separable Verbs Splitting  Complements  Particles   Attributes)"
           ],
           "answerIndex": 0,
           "explanation": "「请了三天病假」与「睡了一个大觉」完美体现了离合词离析插入的精髓。"
@@ -7507,10 +7507,10 @@
         {
           "prompt": "在汉语中，与弦乐器「小提琴 / 二胡」搭配的专属演奏动词是：",
           "options": [
-            "拉 (Core concept key phrasing)",
-            "弹 (Core concept alternative form)",
-            "吹 (Core concept alternative form)",
-            "踢 (Core concept alternative form)"
+            "拉 (standard target expression for Artistic Talents   Extracurricular Life)",
+            "弹 (contextual contrast form in Artistic Talents   Extracurricular Life)",
+            "吹 (formal register distinction for Artistic Talents   Extracurricular Life)",
+            "踢 (colloquial conversational usage for Artistic Talents   Extracurricular Life)"
           ],
           "answerIndex": 0,
           "explanation": "拉奏弓弦乐器固定搭配动词「拉」（拉小提琴、拉二胡）。"
@@ -7518,10 +7518,10 @@
         {
           "prompt": "在汉语中，与键盘乐器「钢琴」或拨弦乐器「吉他」搭配的动词是：",
           "options": [
-            "弹 (Core concept key phrasing)",
-            "拉 (Core concept alternative form)",
-            "吹 (Core concept alternative form)",
-            "下 (Core concept alternative form)"
+            "弹 (standard target expression for Artistic Talents   Extracurricular Life)",
+            "拉 (contextual contrast form in Artistic Talents   Extracurricular Life)",
+            "吹 (formal register distinction for Artistic Talents   Extracurricular Life)",
+            "下 (colloquial conversational usage for Artistic Talents   Extracurricular Life)"
           ],
           "answerIndex": 0,
           "explanation": "弹奏键盘或拨弦乐器固定搭配动词「弹」（弹钢琴、弹吉他）。"
@@ -7533,10 +7533,10 @@
         {
           "prompt": "下列哪一项才艺与动词的搭配完全符合规范？",
           "options": [
-            "弹古筝、拉二胡、吹笛子、练书法 (Core concept alternative form)",
-            "拉古筝、吹二胡、弹笛子、下书法 (Core concept alternative form)",
-            "吹古筝、弹二胡、拉笛子、画书法 (Core concept alternative form)",
-            "踢古筝、滑二胡、游笛子、骑书法 (Core concept alternative form)"
+            "弹古筝、拉二胡、吹笛子、练书法 (standard target expression for Artistic Talents   Extracurricular Life)",
+            "拉古筝、吹二胡、弹笛子、下书法 (contextual contrast form in Artistic Talents   Extracurricular Life)",
+            "吹古筝、弹二胡、拉笛子、画书法 (formal register distinction for Artistic Talents   Extracurricular Life)",
+            "踢古筝、滑二胡、游笛子、骑书法 (colloquial conversational usage for Artistic Talents   Extracurricular Life)"
           ],
           "answerIndex": 0,
           "explanation": "弹古筝（拨弦）、拉二胡（弓弦）、吹笛子（管乐）、练书法（书写），搭配天衣无缝。"
@@ -7544,10 +7544,10 @@
         {
           "prompt": "表达「去专门场所进行肌肉力量与体能训练」，最通用的现代词汇是：",
           "options": [
-            "去健身房健身 / 锻炼 (Core concept alternative form)",
-            "去电影院看电影 (Core concept alternative form)",
-            "去餐厅吃大餐 (Core concept alternative form)",
-            "去超市买菜 (Core concept alternative form)"
+            "去健身房健身 / 锻炼 (standard target expression for Artistic Talents   Extracurricular Life)",
+            "去电影院看电影 (contextual contrast form in Artistic Talents   Extracurricular Life)",
+            "去餐厅吃大餐 (formal register distinction for Artistic Talents   Extracurricular Life)",
+            "去超市买菜 (colloquial conversational usage for Artistic Talents   Extracurricular Life)"
           ],
           "answerIndex": 0,
           "explanation": "「去健身房健身/锻炼」是现代都市健康生活的标准表达。"
@@ -7560,10 +7560,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列课外文体生活叙述中词汇搭配最典范、语篇逻辑最严密的一项：",
           "options": [
-            "李华的业余生活丰富多彩，他不仅会弹吉他、吹萨克斯，每周还定期去书法社练习写毛笔字，周末偶尔还和朋友去健身房健身 (Core concept alternative form)",
-            "李华会拉萨克斯、吹吉他，在书法社踢毛笔字 (Core concept alternative form)",
-            "李华下吉他、画萨克斯，在健身房弹跑步 (Core concept alternative form)",
-            "李华滑书法、游毛笔字 (Core concept alternative form)"
+            "李华的业余生活丰富多彩，他不仅会弹吉他、吹萨克斯，每周还定期去书法社练习写毛笔字，周末偶尔还和朋友去健身房健身 (standard target expression for Artistic Talents   Extracurricular Life)",
+            "李华会拉萨克斯、吹吉他，在书法社踢毛笔字 (contextual contrast form in Artistic Talents   Extracurricular Life)",
+            "李华下吉他、画萨克斯，在健身房弹跑步 (formal register distinction for Artistic Talents   Extracurricular Life)",
+            "李华滑书法、游毛笔字 (colloquial conversational usage for Artistic Talents   Extracurricular Life)"
           ],
           "answerIndex": 0,
           "explanation": "弹吉他、吹萨克斯、练毛笔字、去健身房健身，动词与名词搭配无可挑剔。"
@@ -7627,10 +7627,10 @@
         {
           "prompt": "在课余生活叙事中，正确串联「晨练跑步 -> 课后打球 -> 晚间散步聊天 -> 夜晚安睡」的逻辑脉络是：",
           "options": [
-            "跑了半个小时步 -> 打打羽毛球 -> 散散步聊聊天 -> 睡了八个小时觉 (AAB U12)",
-            "先睡八小时觉 -> 散步聊天 -> 跑半小时步 -> 打羽毛球 (AAB U12)",
-            "打羽毛球 -> 睡觉八小时 -> 跑步半小时 (AAB U12)",
-            "聊天聊天 -> 跑步跑步 -> 睡觉睡觉 (AAB U12)"
+            "跑了半个小时步 -> 打打羽毛球 -> 散散步聊聊天 -> 睡了八个小时觉 (standard target expression for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "先睡八小时觉 -> 散步聊天 -> 跑半小时步 -> 打羽毛球 (contextual contrast form in Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "打羽毛球 -> 睡觉八小时 -> 跑步半小时 (formal register distinction for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "聊天聊天 -> 跑步跑步 -> 睡觉睡觉 (colloquial conversational usage for Comprehensive Extracurricular Life  Sports   Balance Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格遵循从清晨到夜晚的时序脉络与离合词规范离析/AAB重叠。"
@@ -7638,10 +7638,10 @@
         {
           "prompt": "语篇中「在紧张繁忙的学业之余始终保持身心平衡」所表达的核心理念是：",
           "options": [
-            "通过健康的文体爱好达到劳逸结合、身心和谐 (AAB U12)",
-            "不学习只玩耍 (AAB U12)",
-            "只学习不睡觉不运动 (AAB U12)",
-            "天天熬夜玩电子游戏 (AAB U12)"
+            "通过健康的文体爱好达到劳逸结合、身心和谐 (standard target expression for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "不学习只玩耍 (contextual contrast form in Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "只学习不睡觉不运动 (formal register distinction for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "天天熬夜玩电子游戏 (colloquial conversational usage for Comprehensive Extracurricular Life  Sports   Balance Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该句升华了文体活动促进身心平衡与学业促进的深刻哲理。"
@@ -7653,10 +7653,10 @@
         {
           "prompt": "请选出下列校园生活叙事语篇中离合词运用与词汇搭配完全典范通畅的一项：",
           "options": [
-            "我每天下午去操场跑四十分钟的步，周末和同学去体育馆打打球，社团的老师在书法上帮了我一个大忙，这让我的课余生活非常充实 (AAB U12)",
-            "我每天操场跑步四十分钟，周末打球打球，社团帮忙我很大 (AAB U12)",
-            "我每天跑了步在操场，周末见面朋友在打羽毛球 (AAB U12)",
-            "我每天四十分钟跑步，社团帮我忙很大一个 (AAB U12)"
+            "我每天下午去操场跑四十分钟的步，周末和同学去体育馆打打球，社团的老师在书法上帮了我一个大忙，这让我的课余生活非常充实 (standard target expression for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "我每天操场跑步四十分钟，周末打球打球，社团帮忙我很大 (contextual contrast form in Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "我每天跑了步在操场，周末见面朋友在打羽毛球 (formal register distinction for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "我每天四十分钟跑步，社团帮我忙很大一个 (colloquial conversational usage for Comprehensive Extracurricular Life  Sports   Balance Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「跑四十分钟的步」、「打打球」、「帮了我一个大忙」，语法体系极其严谨纯正。"
@@ -7664,10 +7664,10 @@
         {
           "prompt": "在叙事中表达身体健康状态与精神心理状态的协调一致，最典雅的名词短语是：",
           "options": [
-            "身心平衡 / 身心健康 (AAB U12)",
-            "身体不舒服 (AAB U12)",
-            "头疼脑热 (AAB U12)",
-            "疲惫不堪 (AAB U12)"
+            "身心平衡 / 身心健康 (standard target expression for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "身体不舒服 (contextual contrast form in Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "头疼脑热 (formal register distinction for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "疲惫不堪 (colloquial conversational usage for Comprehensive Extracurricular Life  Sports   Balance Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「身心平衡」是概括身心和谐健康状态的标准典雅表达。"
@@ -7680,10 +7680,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列文体生活与身心平衡综合叙事篇章中语言最典范、结构最严谨的一项：",
           "options": [
-            "广泛的文体爱好让我的留学生活充满阳光。每天清晨我坚持去公园跑半个小时的步，傍晚在宿舍弹弹吉他、唱唱歌，周末还跟中国同学一起练习书法。这种张弛有度的生活方式不仅帮我缓解了学业压力，更让我始终保持着身心平衡与饱满活力 (AAB U12)",
-            "我的生活很好玩，天天跑步跑步，弹吉他吉他，不学习只睡觉 (AAB U12)",
-            "我天天在公园跑了步半小时，弹吉他了跟朋友见面他 (AAB U12)",
-            "我为了不想学习而天天打打球睡觉觉 (AAB U12)"
+            "广泛的文体爱好让我的留学生活充满阳光。每天清晨我坚持去公园跑半个小时的步，傍晚在宿舍弹弹吉他、唱唱歌，周末还跟中国同学一起练习书法。这种张弛有度的生活方式不仅帮我缓解了学业压力，更让我始终保持着身心平衡与饱满活力 (standard target expression for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "我的生活很好玩，天天跑步跑步，弹吉他吉他，不学习只睡觉 (contextual contrast form in Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "我天天在公园跑了步半小时，弹吉他了跟朋友见面他 (formal register distinction for Comprehensive Extracurricular Life  Sports   Balance Narrative)",
+            "我为了不想学习而天天打打球睡觉觉 (colloquial conversational usage for Comprehensive Extracurricular Life  Sports   Balance Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在时序组织、离合词离析（跑半个小时的步）、AAB重叠（弹弹吉他/唱唱歌）、介词引介（跟中国同学练习）及身心平衡升华上均达到了现代汉语的最高标准。"
@@ -7751,10 +7751,10 @@
         {
           "prompt": "在现代企业组织架构中，负责统筹全公司整体运营管理的最高行政领导职务称谓是：",
           "options": [
-            "总经理 (Core concept key phrasing)",
-            "出纳员 (Core concept alternative form)",
-            "前台接待 (Core concept alternative form)",
-            "实习生 (Core concept alternative form)"
+            "总经理 (standard target expression for Professions   Industry Vocabulary)",
+            "出纳员 (contextual contrast form in Professions   Industry Vocabulary)",
+            "前台接待 (formal register distinction for Professions   Industry Vocabulary)",
+            "实习生 (colloquial conversational usage for Professions   Industry Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "「总经理」是主持企业日常经营管理工作的最高行政长官。"
@@ -7762,10 +7762,10 @@
         {
           "prompt": "表达某人从事的行业与岗位，最标准地道的规范句式框架是：",
           "options": [
-            "他长期从事软件开发工作，在公司担任架构师 (Core concept alternative form)",
-            "他从事了架构师，在公司工作从事 (Core concept alternative form)",
-            "他担任在软件开发，从事架构师 (Core concept alternative form)",
-            "他是工作从事担任架构师 (Core concept alternative form)"
+            "他长期从事软件开发工作，在公司担任架构师 (standard target expression for Professions   Industry Vocabulary)",
+            "他从事了架构师，在公司工作从事 (contextual contrast form in Professions   Industry Vocabulary)",
+            "他担任在软件开发，从事架构师 (formal register distinction for Professions   Industry Vocabulary)",
+            "他是工作从事担任架构师 (colloquial conversational usage for Professions   Industry Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "「从事......工作」搭配行业，「担任......职务」搭配具体职位。"
@@ -7777,10 +7777,10 @@
         {
           "prompt": "下列哪一组职业称谓与工作内容的搭配完全对应准确？",
           "options": [
-            "律师辩护诉讼、医师救死扶伤、记者采访报道、会计核算账目 (Core concept alternative form)",
-            "律师救死扶伤、医师核算账目、记者设计图纸、会计采访报道 (Core concept alternative form)",
-            "建筑师辩护诉讼、导游编写代码、工程师带领旅游 (Core concept alternative form)",
-            "教师开处方药、厨师诊断病情、法官炒菜做饭 (Core concept alternative form)"
+            "律师辩护诉讼、医师救死扶伤、记者采访报道、会计核算账目 (standard target expression for Professions   Industry Vocabulary)",
+            "律师救死扶伤、医师核算账目、记者设计图纸、会计采访报道 (contextual contrast form in Professions   Industry Vocabulary)",
+            "建筑师辩护诉讼、导游编写代码、工程师带领旅游 (formal register distinction for Professions   Industry Vocabulary)",
+            "教师开处方药、厨师诊断病情、法官炒菜做饭 (colloquial conversational usage for Professions   Industry Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "律师诉讼、医师治病、记者采访、会计算账，职责匹配极为严谨。"
@@ -7788,10 +7788,10 @@
         {
           "prompt": "在跨国文化交流与涉外旅游中，负责讲解景点历史文化与行程协调的专业人员是：",
           "options": [
-            "涉外导游 (Core concept alternative form)",
-            "程序员 (Core concept alternative form)",
-            "精算师 (Core concept alternative form)",
-            "机械师 (Core concept alternative form)"
+            "涉外导游 (standard target expression for Professions   Industry Vocabulary)",
+            "程序员 (contextual contrast form in Professions   Industry Vocabulary)",
+            "精算师 (formal register distinction for Professions   Industry Vocabulary)",
+            "机械师 (colloquial conversational usage for Professions   Industry Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "「导游」是引领游客观光并讲解文化历史的专业文旅工作者。"
@@ -7804,10 +7804,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列职场身份介绍中用词最典雅、句式结构最严密规范的一项：",
           "options": [
-            "陈先生毕业于同济大学建筑系，目前在一家国家级规划设计院担任高级建筑师，主持过多项大型城市地标工程的设计工作 (Core concept alternative form)",
-            "陈先生从事建筑师，在设计院做大官，搞房子 (Core concept alternative form)",
-            "陈先生担任在设计院，工作做建筑 (Core concept alternative form)",
-            "陈先生主持做设计建筑师在城市 (Core concept alternative form)"
+            "陈先生毕业于同济大学建筑系，目前在一家国家级规划设计院担任高级建筑师，主持过多项大型城市地标工程的设计工作 (standard target expression for Professions   Industry Vocabulary)",
+            "陈先生从事建筑师，在设计院做大官，搞房子 (contextual contrast form in Professions   Industry Vocabulary)",
+            "陈先生担任在设计院，工作做建筑 (formal register distinction for Professions   Industry Vocabulary)",
+            "陈先生主持做设计建筑师在城市 (colloquial conversational usage for Professions   Industry Vocabulary)"
           ],
           "answerIndex": 0,
           "explanation": "该句在学历背景、就职机构、职务头衔及项目业绩表述上均达到了高级职场汉语的最高标准。"
@@ -7871,10 +7871,10 @@
         {
           "prompt": "在大学阶段，除主要学习的第一专业之外，同时修读的第二专业被称为：",
           "options": [
-            "辅修专业 (Core concept key phrasing)",
-            "主修专业 (Core concept key phrasing)",
-            "选修课 (Core concept alternative form)",
-            "必修课 (Core concept alternative form)"
+            "辅修专业 (standard target expression for Academic Majors   Fields of Study)",
+            "主修专业 (contextual contrast form in Academic Majors   Fields of Study)",
+            "选修课 (formal register distinction for Academic Majors   Fields of Study)",
+            "必修课 (colloquial conversational usage for Academic Majors   Fields of Study)"
           ],
           "answerIndex": 0,
           "explanation": "「辅修专业」指学生在修读主修专业的同时修读的辅助学科专业。"
@@ -7882,10 +7882,10 @@
         {
           "prompt": "表达研究生深入钻研的专门学术领域，最规范的汉语术语是：",
           "options": [
-            "研究方向 (Core concept key phrasing)",
-            "课外活动 (Core concept alternative form)",
-            "兴趣小组 (Core concept alternative form)",
-            "平时作业 (Core concept alternative form)"
+            "研究方向 (standard target expression for Academic Majors   Fields of Study)",
+            "课外活动 (contextual contrast form in Academic Majors   Fields of Study)",
+            "兴趣小组 (formal register distinction for Academic Majors   Fields of Study)",
+            "平时作业 (colloquial conversational usage for Academic Majors   Fields of Study)"
           ],
           "answerIndex": 0,
           "explanation": "「研究方向」是研究生阶段聚焦学术前沿探索的专业细分领域。"
@@ -7897,10 +7897,10 @@
         {
           "prompt": "下列哪一项学科门类与所属专业的分类完全正确？",
           "options": [
-            "工学包含计算机与软件工程，人文包含汉语言文学与哲学 (Core concept alternative form)",
-            "医学包含国际经济与贸易，工学包含古诗词鉴赏 (Core concept alternative form)",
-            "法学包含临床外科手术，理学包含民事诉讼法 (Core concept alternative form)",
-            "管理学包含人体解剖学，文学包含半导体集成电路 (Core concept alternative form)"
+            "工学包含计算机与软件工程，人文包含汉语言文学与哲学 (standard target expression for Academic Majors   Fields of Study)",
+            "医学包含国际经济与贸易，工学包含古诗词鉴赏 (contextual contrast form in Academic Majors   Fields of Study)",
+            "法学包含临床外科手术，理学包含民事诉讼法 (formal register distinction for Academic Majors   Fields of Study)",
+            "管理学包含人体解剖学，文学包含半导体集成电路 (colloquial conversational usage for Academic Majors   Fields of Study)"
           ],
           "answerIndex": 0,
           "explanation": "计算机属于工科，文哲属于人文学科，分类准确严谨。"
@@ -7908,10 +7908,10 @@
         {
           "prompt": "在介绍个人学术背景时，表达「获得工科学士学位」的标准说法是：",
           "options": [
-            "获工学学士学位 (Core concept key phrasing)",
-            "拿工科毕业证书 (Core concept alternative form)",
-            "考工科满分 (Core concept alternative form)",
-            "读工科书本 (Core concept alternative form)"
+            "获工学学士学位 (standard target expression for Academic Majors   Fields of Study)",
+            "拿工科毕业证书 (contextual contrast form in Academic Majors   Fields of Study)",
+            "考工科满分 (formal register distinction for Academic Majors   Fields of Study)",
+            "读工科书本 (colloquial conversational usage for Academic Majors   Fields of Study)"
           ],
           "answerIndex": 0,
           "explanation": "「获工学学士学位」是正规学历学位表述的标准学术用语。"
@@ -7924,10 +7924,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术背景介绍中专业术语最规范、逻辑表达最流畅严密的一项：",
           "options": [
-            "张华本科就读于北京大学软件工程专业，硕士阶段师从知名学者专攻人工智能与自然语言处理研究方向，在顶级学术期刊发表过多篇高水平论文 (Core concept alternative form)",
-            "张华本科读电脑做软件，硕士找老师搞聊天机器人，写了文章 (Core concept alternative form)",
-            "张华就读人工智能研究方向在本科，硕士专攻软件工程大学 (Core concept alternative form)",
-            "张华学位了工学在论文研究方向 (Core concept alternative form)"
+            "张华本科就读于北京大学软件工程专业，硕士阶段师从知名学者专攻人工智能与自然语言处理研究方向，在顶级学术期刊发表过多篇高水平论文 (standard target expression for Academic Majors   Fields of Study)",
+            "张华本科读电脑做软件，硕士找老师搞聊天机器人，写了文章 (contextual contrast form in Academic Majors   Fields of Study)",
+            "张华就读人工智能研究方向在本科，硕士专攻软件工程大学 (formal register distinction for Academic Majors   Fields of Study)",
+            "张华学位了工学在论文研究方向 (colloquial conversational usage for Academic Majors   Fields of Study)"
           ],
           "answerIndex": 0,
           "explanation": "该句学术语体色彩浓厚，专业术语精准，展现了高阶汉语的书面语典范规范。"
@@ -7991,10 +7991,10 @@
         {
           "prompt": "在中文简历中，概括求职者以往在企事业单位所承担职责与业务产出的模块是：",
           "options": [
-            "工作经历 / 实习经历 (Core concept alternative form)",
-            "兴趣爱好 (Core concept alternative form)",
-            "家庭成员 (Core concept alternative form)",
-            "休闲娱乐 (Core concept alternative form)"
+            "工作经历 / 实习经历 (standard target expression for Job Application   Resumes)",
+            "兴趣爱好 (contextual contrast form in Job Application   Resumes)",
+            "家庭成员 (formal register distinction for Job Application   Resumes)",
+            "休闲娱乐 (colloquial conversational usage for Job Application   Resumes)"
           ],
           "answerIndex": 0,
           "explanation": "「工作经历/实习经历」是展现求职者实战能力与业务产出的核心模块。"
@@ -8002,10 +8002,10 @@
         {
           "prompt": "在正式商务求职信中，称呼对方公司与自称的规范敬语与谦称是：",
           "options": [
-            "贵公司，本人 / 应聘者 (Core concept alternative form)",
-            "你家公司，我本人 (Core concept alternative form)",
-            "那个单位，我们几个 (Core concept alternative form)",
-            "老板公司，小弟 (Core concept alternative form)"
+            "贵公司，本人 / 应聘者 (standard target expression for Job Application   Resumes)",
+            "你家公司，我本人 (contextual contrast form in Job Application   Resumes)",
+            "那个单位，我们几个 (formal register distinction for Job Application   Resumes)",
+            "老板公司，小弟 (colloquial conversational usage for Job Application   Resumes)"
           ],
           "answerIndex": 0,
           "explanation": "「贵公司」是对用人单位的标准敬称，「本人」是求职者的规范自称。"
@@ -8017,10 +8017,10 @@
         {
           "prompt": "下列哪一项求职信中的自我推荐语句最具说服力且符合商务礼仪？",
           "options": [
-            "我相信我的专业知识储备与多语种沟通能力非常契合贵公司的岗位需求 (Core concept alternative form)",
-            "你们公司必须录用我，因为我最厉害 (Core concept alternative form)",
-            "我随便找个工作干干，不行我就辞职 (Core concept alternative form)",
-            "给多少钱我就干多少活 (Core concept alternative form)"
+            "我相信我的专业知识储备与多语种沟通能力非常契合贵公司的岗位需求 (standard target expression for Job Application   Resumes)",
+            "你们公司必须录用我，因为我最厉害 (contextual contrast form in Job Application   Resumes)",
+            "我随便找个工作干干，不行我就辞职 (formal register distinction for Job Application   Resumes)",
+            "给多少钱我就干多少活 (colloquial conversational usage for Job Application   Resumes)"
           ],
           "answerIndex": 0,
           "explanation": "该句态度自信谦逊，明确表达了专业技能与岗位需求的契合度。"
@@ -8028,10 +8028,10 @@
         {
           "prompt": "在简历中列举项目经验时，最能体现工作成效的科学方法是：",
           "options": [
-            "用具体翔实的数据与量化指标说明成果 (Core concept alternative form)",
-            "只写项目名字不写任何细节 (Core concept alternative form)",
-            "夸大其词编造虚假信息 (Core concept alternative form)",
-            "用长篇大论抒发个人感慨 (Core concept alternative form)"
+            "用具体翔实的数据与量化指标说明成果 (standard target expression for Job Application   Resumes)",
+            "只写项目名字不写任何细节 (contextual contrast form in Job Application   Resumes)",
+            "夸大其词编造虚假信息 (formal register distinction for Job Application   Resumes)",
+            "用长篇大论抒发个人感慨 (colloquial conversational usage for Job Application   Resumes)"
           ],
           "answerIndex": 0,
           "explanation": "量化数据（如提高效率20%、交付百万级系统）是用人单位最为看重的硬指标。"
@@ -8044,10 +8044,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列求职邮件正文中格式最规范、语气最得体、用词最典范的一项：",
           "options": [
-            "尊敬的招聘负责人：您好！得知贵公司正在招聘涉外项目助理，本人深感该岗位与我的专业背景高度契合。随信附上我的个人简历与成绩单，恳请审阅。期待能有机会参与面试。此致，敬礼！ (Core concept alternative form)",
-            "喂，招人吗？看我简历吧，快点回复 (Core concept alternative form)",
-            "贵公司好，我来找工作了，给我多少工资？ (Core concept alternative form)",
-            "招聘你看简历在附件里，一定要要我 (Core concept alternative form)"
+            "尊敬的招聘负责人：您好！得知贵公司正在招聘涉外项目助理，本人深感该岗位与我的专业背景高度契合。随信附上我的个人简历与成绩单，恳请审阅。期待能有机会参与面试。此致，敬礼！ (standard target expression for Job Application   Resumes)",
+            "喂，招人吗？看我简历吧，快点回复 (contextual contrast form in Job Application   Resumes)",
+            "贵公司好，我来找工作了，给我多少工资？ (formal register distinction for Job Application   Resumes)",
+            "招聘你看简历在附件里，一定要要我 (colloquial conversational usage for Job Application   Resumes)"
           ],
           "answerIndex": 0,
           "explanation": "该求职信包含了尊称、应聘缘由、契合说明、附件提示、面试期待与标准祝颂语，堪称商务书信典范。"
@@ -8111,10 +8111,10 @@
         {
           "prompt": "在面试结束前，当面试官询问「你还有什么问题要问我们吗」时，最得体专业的提问是：",
           "options": [
-            "请问贵公司对该岗位新人的培养机制与发展空间是怎样的？ (Core concept alternative form)",
-            "没有问题，我就想知道什么时候发工资 (Core concept alternative form)",
-            "你们公司平时加班严重不严重？ (Core concept alternative form)",
-            "没有，我什么都不想问 (Core concept alternative form)"
+            "请问贵公司对该岗位新人的培养机制与发展空间是怎样的？ (standard target expression for Job Interview   Professional Etiquette)",
+            "没有问题，我就想知道什么时候发工资 (contextual contrast form in Job Interview   Professional Etiquette)",
+            "你们公司平时加班严重不严重？ (formal register distinction for Job Interview   Professional Etiquette)",
+            "没有，我什么都不想问 (colloquial conversational usage for Job Interview   Professional Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "询问人才培养机制与成长空间，能展现求职者积极上进的敬业精神。"
@@ -8122,10 +8122,10 @@
         {
           "prompt": "在面试中面对面试官关于「你的最大短板」的提问时，最成熟得体的应对方法是：",
           "options": [
-            "诚恳说明具体不足并着重阐述目前正在采取的改进措施 (Core concept alternative form)",
-            "直接回答自己没有任何缺点，十全十美 (Core concept alternative form)",
-            "说自己脾气暴躁容易和同事吵架 (Core concept alternative form)",
-            "抱怨以前的学校和老师不好 (Core concept alternative form)"
+            "诚恳说明具体不足并着重阐述目前正在采取的改进措施 (standard target expression for Job Interview   Professional Etiquette)",
+            "直接回答自己没有任何缺点，十全十美 (contextual contrast form in Job Interview   Professional Etiquette)",
+            "说自己脾气暴躁容易和同事吵架 (formal register distinction for Job Interview   Professional Etiquette)",
+            "抱怨以前的学校和老师不好 (colloquial conversational usage for Job Interview   Professional Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "坦诚承认短处并阐述改进措施，展现了成熟的自省能力与进取心。"
@@ -8137,10 +8137,10 @@
         {
           "prompt": "下列哪一项体现了中国职场中优秀的团队协作与跨部门沟通素养？",
           "options": [
-            "以项目总体目标为导向，主动倾听他人意见并通过理性沟通化解分歧 (Core concept alternative form)",
-            "遇到问题互相推卸责任 (Core concept alternative form)",
-            "只顾个人表现不配合团队 (Core concept alternative form)",
-            "拒绝与任何其他同事交流 (Core concept alternative form)"
+            "以项目总体目标为导向，主动倾听他人意见并通过理性沟通化解分歧 (standard target expression for Job Interview   Professional Etiquette)",
+            "遇到问题互相推卸责任 (contextual contrast form in Job Interview   Professional Etiquette)",
+            "只顾个人表现不配合团队 (formal register distinction for Job Interview   Professional Etiquette)",
+            "拒绝与任何其他同事交流 (colloquial conversational usage for Job Interview   Professional Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "目标导向、倾听包容与理性沟通是现代职场团队精神的核心内核。"
@@ -8148,10 +8148,10 @@
         {
           "prompt": "在中国企事业单位用工福利制度中，常说的「五险一金」是指：",
           "options": [
-            "社会保险与住房公积金 (Core concept key phrasing)",
-            "五种奖金和一份礼物 (Core concept alternative form)",
-            "五次带薪休假和一次旅游 (Core concept alternative form)",
-            "五倍加班费和一辆公车 (Core concept alternative form)"
+            "社会保险与住房公积金 (standard target expression for Job Interview   Professional Etiquette)",
+            "五种奖金和一份礼物 (contextual contrast form in Job Interview   Professional Etiquette)",
+            "五次带薪休假和一次旅游 (formal register distinction for Job Interview   Professional Etiquette)",
+            "五倍加班费和一辆公车 (colloquial conversational usage for Job Interview   Professional Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "「五险一金」是中国法定社会保险与住房公积金福利体系的统称。"
@@ -8164,10 +8164,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列面试问答中求职者回答逻辑最清晰、修养最典范的一项：",
           "options": [
-            "感谢各位面试官的提问。我的核心优势在于不仅具备扎实的专业理论功底，更具有很强的跨文化沟通能力。如果能够有幸加入贵团队，我将全力以赴投入项目研发，并虚心向前辈学习，为公司的业务开拓贡献力量 (Core concept alternative form)",
-            "反正我就是最强的人才，你们不录用我就是你们的损失 (Core concept alternative form)",
-            "我不知道我能干什么，你们看着安排吧 (Core concept alternative form)",
-            "我主要是为了混个经验，随时打算跳槽 (Core concept alternative form)"
+            "感谢各位面试官的提问。我的核心优势在于不仅具备扎实的专业理论功底，更具有很强的跨文化沟通能力。如果能够有幸加入贵团队，我将全力以赴投入项目研发，并虚心向前辈学习，为公司的业务开拓贡献力量 (standard target expression for Job Interview   Professional Etiquette)",
+            "反正我就是最强的人才，你们不录用我就是你们的损失 (contextual contrast form in Job Interview   Professional Etiquette)",
+            "我不知道我能干什么，你们看着安排吧 (formal register distinction for Job Interview   Professional Etiquette)",
+            "我主要是为了混个经验，随时打算跳槽 (colloquial conversational usage for Job Interview   Professional Etiquette)"
           ],
           "answerIndex": 0,
           "explanation": "该应答既表达了谢意与自信，又体现了团队意识与敬业精神，是现代职场面试的典范标杆。"
@@ -8231,10 +8231,10 @@
         {
           "prompt": "在职场求职叙事篇章中，正确串联「专业学习 -> 简历投递 -> 面试考核 -> 获得录用」的逻辑时间线是：",
           "options": [
-            "深造奠定基石 -> 打磨个人简历 -> 历经面试评估 -> 荣获录用通知 (Core concept alternative form)",
-            "先拿录用通知 -> 再去面试 -> 再写简历 -> 最后上大学 (Core concept alternative form)",
-            "面试录用 -> 简历投递 -> 大学深造 (Core concept alternative form)",
-            "简历投递 -> 大学学习 -> 获得录用 -> 面试考核 (Core concept alternative form)"
+            "深造奠定基石 -> 打磨个人简历 -> 历经面试评估 -> 荣获录用通知 (standard target expression for Comprehensive Job Application  Workplace   Career Narrative)",
+            "先拿录用通知 -> 再去面试 -> 再写简历 -> 最后上大学 (contextual contrast form in Comprehensive Job Application  Workplace   Career Narrative)",
+            "面试录用 -> 简历投递 -> 大学深造 (formal register distinction for Comprehensive Job Application  Workplace   Career Narrative)",
+            "简历投递 -> 大学学习 -> 获得录用 -> 面试考核 (colloquial conversational usage for Comprehensive Job Application  Workplace   Career Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格遵循从大学深造积淀到求职录用的自然时序与因果逻辑。"
@@ -8242,10 +8242,10 @@
         {
           "prompt": "语篇中「将所学的专业知识充分运用于实际研发项目中」所体现的职业精神是：",
           "options": [
-            "理论联系实际、学以致用 (Core concept alternative form)",
-            "纸上谈兵不求实干 (Core concept alternative form)",
-            "不劳而获坐享其成 (Core concept alternative form)",
-            "只讲理论不做实事 (Core concept alternative form)"
+            "理论联系实际、学以致用 (standard target expression for Comprehensive Job Application  Workplace   Career Narrative)",
+            "纸上谈兵不求实干 (contextual contrast form in Comprehensive Job Application  Workplace   Career Narrative)",
+            "不劳而获坐享其成 (formal register distinction for Comprehensive Job Application  Workplace   Career Narrative)",
+            "只讲理论不做实事 (colloquial conversational usage for Comprehensive Job Application  Workplace   Career Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「学以致用、知行合一」是中华文化中崇尚实践与实干的核心价值观。"
@@ -8257,10 +8257,10 @@
         {
           "prompt": "请选出下列职场成长叙事中用词最典雅、句式最完整通畅的一项：",
           "options": [
-            "在激烈的求职竞争中，我凭借扎实的专业功底与出色的综合素养脱颖而出，成功获得了心仪企业的录用通知书 (Core concept alternative form)",
-            "求职很热闹，我打败了很多人拿到了纸头通知 (Core concept alternative form)",
-            "我在竞争中拿到了录用，因为我很厉害他们不得不给 (Core concept alternative form)",
-            "录用通知书给我了在激烈的招聘中 (Core concept alternative form)"
+            "在激烈的求职竞争中，我凭借扎实的专业功底与出色的综合素养脱颖而出，成功获得了心仪企业的录用通知书 (standard target expression for Comprehensive Job Application  Workplace   Career Narrative)",
+            "求职很热闹，我打败了很多人拿到了纸头通知 (contextual contrast form in Comprehensive Job Application  Workplace   Career Narrative)",
+            "我在竞争中拿到了录用，因为我很厉害他们不得不给 (formal register distinction for Comprehensive Job Application  Workplace   Career Narrative)",
+            "录用通知书给我了在激烈的招聘中 (colloquial conversational usage for Comprehensive Job Application  Workplace   Career Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「脱颖而出」、「录用通知书」搭配精准，书面语体典雅严谨。"
@@ -8268,10 +8268,10 @@
         {
           "prompt": "在职场篇章中表达不断进取、追求最高水平的经典四字成语是：",
           "options": [
-            "追求卓越 / 精益求精 (Core concept alternative form)",
-            "得过且过 (Core concept alternative form)",
-            "半途而废 (Core concept alternative form)",
-            "敷衍了事 (Core concept alternative form)"
+            "追求卓越 / 精益求精 (standard target expression for Comprehensive Job Application  Workplace   Career Narrative)",
+            "得过且过 (contextual contrast form in Comprehensive Job Application  Workplace   Career Narrative)",
+            "半途而废 (formal register distinction for Comprehensive Job Application  Workplace   Career Narrative)",
+            "敷衍了事 (colloquial conversational usage for Comprehensive Job Application  Workplace   Career Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「追求卓越」是表达在事业中精益求精、不断攀登高峰的标准成语。"
@@ -8284,10 +8284,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列职业成长与求职发展叙事语篇中思想境界最高远、语言最典范严密的一项：",
           "options": [
-            "回顾从校园走向职场的历程，大学期间的系统专业学习与科研实践为我铸就了坚实的翅膀。在严谨的求职面试中，我充分展现了自己的专业实力与团队协作潜能，最终顺利加盟跨国科技团队。未来我将始终保持谦逊笃学的心态，在岗位上深耕细作、追求卓越！ (Core concept alternative form)",
-            "我终于毕业了，找了个班上，天天等下班拿工资 (Core concept alternative form)",
-            "求职面试很好玩，我随便说说就录用了，我不打算多干活 (Core concept alternative form)",
-            "我走向职场在大学，面试了在跨国公司拿钱 (Core concept alternative form)"
+            "回顾从校园走向职场的历程，大学期间的系统专业学习与科研实践为我铸就了坚实的翅膀。在严谨的求职面试中，我充分展现了自己的专业实力与团队协作潜能，最终顺利加盟跨国科技团队。未来我将始终保持谦逊笃学的心态，在岗位上深耕细作、追求卓越！ (standard target expression for Comprehensive Job Application  Workplace   Career Narrative)",
+            "我终于毕业了，找了个班上，天天等下班拿工资 (contextual contrast form in Comprehensive Job Application  Workplace   Career Narrative)",
+            "求职面试很好玩，我随便说说就录用了，我不打算多干活 (formal register distinction for Comprehensive Job Application  Workplace   Career Narrative)",
+            "我走向职场在大学，面试了在跨国公司拿钱 (colloquial conversational usage for Comprehensive Job Application  Workplace   Career Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在时序建构、辞章修辞、职业精神与抱负升华上均达到了现代汉语的最高境界。"
@@ -8355,10 +8355,10 @@
         {
           "prompt": "在「比」字句中，下列哪一个副词绝对不能出现在谓语形容词前面修饰？",
           "options": [
-            "很 / 非常 (Core concept alternative form)",
-            "更 (Core concept alternative form)",
-            "还要 (Core concept alternative form)",
-            "略微 (Core concept alternative form)"
+            "很 / 非常 (standard target expression for The  Bi  Comparative Construction)",
+            "更 (contextual contrast form in The  Bi  Comparative Construction)",
+            "还要 (formal register distinction for The  Bi  Comparative Construction)",
+            "略微 (colloquial conversational usage for The  Bi  Comparative Construction)"
           ],
           "answerIndex": 0,
           "explanation": "「比」字句中形容词前严禁加「很/非常/十分」等绝对程度副词。"
@@ -8366,10 +8366,10 @@
         {
           "prompt": "要表达「哥哥的年龄大于弟弟三岁」，完全符合语法规范的句子是：",
           "options": [
-            "哥哥比弟弟大三岁 (Core concept alternative form)",
-            "哥哥比弟弟很大三岁 (Core concept alternative form)",
-            "哥哥三大岁比弟弟 (Core concept alternative form)",
-            "哥哥比三岁大弟弟 (Core concept alternative form)"
+            "哥哥比弟弟大三岁 (standard target expression for The  Bi  Comparative Construction)",
+            "哥哥比弟弟很大三岁 (contextual contrast form in The  Bi  Comparative Construction)",
+            "哥哥三大岁比弟弟 (formal register distinction for The  Bi  Comparative Construction)",
+            "哥哥比三岁大弟弟 (colloquial conversational usage for The  Bi  Comparative Construction)"
           ],
           "answerIndex": 0,
           "explanation": "具体差异数量词必须置于形容词之后：大三岁。"
@@ -8381,10 +8381,10 @@
         {
           "prompt": "表达两者的差异量极其悬殊巨大时，正确的补语形式是：",
           "options": [
-            "这台新电脑比旧电脑快得多 / 快多了 (Core concept alternative form)",
-            "这台新电脑比旧电脑很快 (Core concept alternative form)",
-            "这台新电脑非常比旧电脑快 (Core concept alternative form)",
-            "这台新电脑比旧电脑快很 (Core concept alternative form)"
+            "这台新电脑比旧电脑快得多 / 快多了 (standard target expression for The  Bi  Comparative Construction)",
+            "这台新电脑比旧电脑很快 (contextual contrast form in The  Bi  Comparative Construction)",
+            "这台新电脑非常比旧电脑快 (formal register distinction for The  Bi  Comparative Construction)",
+            "这台新电脑比旧电脑快很 (colloquial conversational usage for The  Bi  Comparative Construction)"
           ],
           "answerIndex": 0,
           "explanation": "差异量巨大时在形容词后加「得多」或「多了」。"
@@ -8392,10 +8392,10 @@
         {
           "prompt": "下列哪一项「比」字句完全符合现代汉语语法规则？",
           "options": [
-            "这件衣服比那件漂亮得多，价格也更实惠 (Core concept alternative form)",
-            "这件衣服比那件很漂亮，价格也非常实惠 (Core concept alternative form)",
-            "这件衣服十分比那件漂亮 (Core concept alternative form)",
-            "这件衣服比那件太漂亮得多 (Core concept alternative form)"
+            "这件衣服比那件漂亮得多，价格也更实惠 (standard target expression for The  Bi  Comparative Construction)",
+            "这件衣服比那件很漂亮，价格也非常实惠 (contextual contrast form in The  Bi  Comparative Construction)",
+            "这件衣服十分比那件漂亮 (formal register distinction for The  Bi  Comparative Construction)",
+            "这件衣服比那件太漂亮得多 (colloquial conversational usage for The  Bi  Comparative Construction)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在形容词后用「得多」，第二分句用相对副词「更」，完全正确。"
@@ -8408,10 +8408,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列比较句中语法结构最严谨、差异量补充表达最规范的一项：",
           "options": [
-            "随着工业互联网技术的升级，新建自动化车间的生产效率比传统车间提高了整整两倍，废品率也比以往降低了许多 (Core concept alternative form)",
-            "自动化车间比传统车间很提高，废品率非常降低 (Core concept alternative form)",
-            "自动化车间十分比传统车间提高两倍 (Core concept alternative form)",
-            "自动化车间比两倍提高传统车间 (Core concept alternative form)"
+            "随着工业互联网技术的升级，新建自动化车间的生产效率比传统车间提高了整整两倍，废品率也比以往降低了许多 (standard target expression for The  Bi  Comparative Construction)",
+            "自动化车间比传统车间很提高，废品率非常降低 (contextual contrast form in The  Bi  Comparative Construction)",
+            "自动化车间十分比传统车间提高两倍 (formal register distinction for The  Bi  Comparative Construction)",
+            "自动化车间比两倍提高传统车间 (colloquial conversational usage for The  Bi  Comparative Construction)"
           ],
           "answerIndex": 0,
           "explanation": "该句在比较主体、比较对象、谓语动词及后置数量补语的配合上堪称现代汉语比较句的最高规范。"
@@ -8475,10 +8475,10 @@
         {
           "prompt": "在辩论中反驳对方观点，表达「本产品的质量并不比任何竞争对手差」时，最准确的句式是：",
           "options": [
-            "本产品的质量绝不比任何对手差！ (Core concept alternative form)",
-            "本产品的质量没有对手好。 vs 没有 (Core concept alternative form)",
-            "本产品的质量不如对手。 vs 没有 (Core concept alternative form)",
-            "本产品的质量比对手更差。 vs 没有 (Core concept alternative form)"
+            "本产品的质量绝不比任何对手差！ (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "本产品的质量没有对手好。 vs 没有 (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "本产品的质量不如对手。 vs 没有 (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "本产品的质量比对手更差。 vs 没有 (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「不比......差」带有明确的反驳与肯定自信语气。"
@@ -8486,10 +8486,10 @@
         {
           "prompt": "在客观陈述「今天的天气没有昨天热」时，句中的「没有」表达的是：",
           "options": [
-            "今天的热度未达到昨天的程度 (Core concept alternative form)",
-            "今天比昨天更热 vs 没有 (Core concept alternative form)",
-            "今天和昨天完全一样热 vs 没有 (Core concept alternative form)",
-            "昨天一点儿都不热 vs 没有 (Core concept alternative form)"
+            "今天的热度未达到昨天的程度 (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "今天比昨天更热 vs 没有 (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "今天和昨天完全一样热 vs 没有 (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "昨天一点儿都不热 vs 没有 (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「A 没有 B + 形容词」表示 A 的程度低于 B。"
@@ -8501,10 +8501,10 @@
         {
           "prompt": "在复句关联词框架「与其......不如......」中，「不如」所引导的分句表达的是：",
           "options": [
-            "说话人经过权衡后认为更优、更值得采取的选择 (Core concept alternative form)",
-            "说话人坚决放弃的糟糕选项 vs 没有 (Core concept alternative form)",
-            "与前句完全相同的事情 vs 没有 (Core concept alternative form)",
-            "毫无意义的废话 vs 没有 (Core concept alternative form)"
+            "说话人经过权衡后认为更优、更值得采取的选择 (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "说话人坚决放弃的糟糕选项 vs 没有 (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "与前句完全相同的事情 vs 没有 (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "毫无意义的废话 vs 没有 (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「与其 A 不如 B」表示放弃 A 而选择更优方案 B。"
@@ -8512,10 +8512,10 @@
         {
           "prompt": "下列哪一项否定比较句的运用完全符合现代汉语语用逻辑？",
           "options": [
-            "尽管条件艰苦，但大家的科研热情绝不比在优越实验室里低 (Core concept alternative form)",
-            "大家的科研热情没有比在优越实验室里高。 vs 没有 (Core concept alternative form)",
-            "大家的科研热情不如在优越实验室里更低。 vs 没有 (Core concept alternative form)",
-            "大家的科研热情不比在优越实验室里高得很。 vs 没有 (Core concept alternative form)"
+            "尽管条件艰苦，但大家的科研热情绝不比在优越实验室里低 (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "大家的科研热情没有比在优越实验室里高。 vs 没有 (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "大家的科研热情不如在优越实验室里更低。 vs 没有 (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "大家的科研热情不比在优越实验室里高得很。 vs 没有 (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「绝不比......低」反驳困难，表达坚强毅力，语用极其贴切。"
@@ -8528,10 +8528,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列否定比较句中语义最精准、语用色彩最得体的一项：",
           "options": [
-            "我们青年一代虽然起步稍晚，但求知探索的精神绝不比任何人逊色，在未来的科技竞争中一定能迎头赶上 (Core concept alternative form)",
-            "我们青年一代不如任何人，没有办法学习。 vs 没有 (Core concept alternative form)",
-            "我们青年一代不比很差在任何人。 vs 没有 (Core concept alternative form)",
-            "我们青年一代没有任何人那么聪明所以不用努力。 vs 没有 (Core concept alternative form)"
+            "我们青年一代虽然起步稍晚，但求知探索的精神绝不比任何人逊色，在未来的科技竞争中一定能迎头赶上 (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "我们青年一代不如任何人，没有办法学习。 vs 没有 (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "我们青年一代不比很差在任何人。 vs 没有 (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "我们青年一代没有任何人那么聪明所以不用努力。 vs 没有 (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "该句准确运用「不比......逊色」表达青年一代奋发图强的坚定信念，语体典雅庄重。"
@@ -8595,10 +8595,10 @@
         {
           "prompt": "要表达「大卫的汉语发音跟播音员一样标准」，完全符合等同比较句式的是：",
           "options": [
-            "大卫的发音跟播音员一样标准 (AB alternative form)",
-            "大卫的发音一样标准跟播音员 (AB alternative form)",
-            "大卫的发音播音员跟一样标准 (AB alternative form)",
-            "大卫的发音比播音员一样标准 (AB alternative form)"
+            "大卫的发音跟播音员一样标准 (standard target expression for Equality   Similarity Comparatives)",
+            "大卫的发音一样标准跟播音员 (contextual contrast form in Equality   Similarity Comparatives)",
+            "大卫的发音播音员跟一样标准 (formal register distinction for Equality   Similarity Comparatives)",
+            "大卫的发音比播音员一样标准 (colloquial conversational usage for Equality   Similarity Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「A + 跟 + B + 一样 + 形容词」是现代汉语等同比较的标准句式。"
@@ -8606,10 +8606,10 @@
         {
           "prompt": "形容两件事情或两个物体几乎没有任何区别、极其相似时，最生动的四字成语是：",
           "options": [
-            "一模一样 / 大同小异 (AB alternative form)",
-            "截然不同 (AB alternative form)",
-            "天差地别 (AB alternative form)",
-            "南辕北辙 (AB alternative form)"
+            "一模一样 / 大同小异 (standard target expression for Equality   Similarity Comparatives)",
+            "截然不同 (contextual contrast form in Equality   Similarity Comparatives)",
+            "天差地别 (formal register distinction for Equality   Similarity Comparatives)",
+            "南辕北辙 (colloquial conversational usage for Equality   Similarity Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「一模一样」是表达外观或特征完全一致的核心成语。"
@@ -8621,10 +8621,10 @@
         {
           "prompt": "在书面语中表达「车厢里安静得好像图书馆一样」，最典雅的比拟修辞句式是：",
           "options": [
-            "车厢内安静得如同图书馆一般 (AB alternative form)",
-            "车厢内安静得比图书馆一样 (AB alternative form)",
-            "车厢内安静得跟图书馆很一样 (AB alternative form)",
-            "车厢内安静得图书馆差不多 (AB alternative form)"
+            "车厢内安静得如同图书馆一般 (standard target expression for Equality   Similarity Comparatives)",
+            "车厢内安静得比图书馆一样 (contextual contrast form in Equality   Similarity Comparatives)",
+            "车厢内安静得跟图书馆很一样 (formal register distinction for Equality   Similarity Comparatives)",
+            "车厢内安静得图书馆差不多 (colloquial conversational usage for Equality   Similarity Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「如同......一般」是典雅的书面语比拟修辞结构。"
@@ -8632,10 +8632,10 @@
         {
           "prompt": "下列哪一项表达了两者在核心观点上的高度一致性？",
           "options": [
-            "两位教授在学术创新理念上的看法完全一致 (AB alternative form)",
-            "两位教授的看法截然相反 (AB alternative form)",
-            "两位教授谁也不理谁 (AB alternative form)",
-            "两位教授毫无共同语言 (AB alternative form)"
+            "两位教授在学术创新理念上的看法完全一致 (standard target expression for Equality   Similarity Comparatives)",
+            "两位教授的看法截然相反 (contextual contrast form in Equality   Similarity Comparatives)",
+            "两位教授谁也不理谁 (formal register distinction for Equality   Similarity Comparatives)",
+            "两位教授毫无共同语言 (colloquial conversational usage for Equality   Similarity Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「完全一致」准确表达了等同与高度吻合。"
@@ -8648,10 +8648,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列等同与相似比较句中语法结构最规范、修辞色彩最典雅的一项：",
           "options": [
-            "经过多年的学术交流，两校在科研管理与人才培养机制上已经建立起了如同孪生兄弟般紧密的战略合作关系 (AB alternative form)",
-            "两校一样在管理上跟孪生兄弟 (AB alternative form)",
-            "两校的管理差不多很一样在兄弟 (AB alternative form)",
-            "两校如同一样在科研上 (AB alternative form)"
+            "经过多年的学术交流，两校在科研管理与人才培养机制上已经建立起了如同孪生兄弟般紧密的战略合作关系 (standard target expression for Equality   Similarity Comparatives)",
+            "两校一样在管理上跟孪生兄弟 (contextual contrast form in Equality   Similarity Comparatives)",
+            "两校的管理差不多很一样在兄弟 (formal register distinction for Equality   Similarity Comparatives)",
+            "两校如同一样在科研上 (colloquial conversational usage for Equality   Similarity Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "该句语法完整，比拟贴切，兼具学术严谨性与文学修辞美感。"
@@ -8715,10 +8715,10 @@
         {
           "prompt": "在复句「你练习得越勤奋，中文口语就会说得越流利」中，「越......越......」表达的逻辑关系是：",
           "options": [
-            "后者的程度随着前者的程度加深而同步加深 (AB alternative form)",
-            "前后两件事完全没有关系 (AB alternative form)",
-            "前者越努力后者反而越差 (AB alternative form)",
-            "两者互相排斥不可共存 (AB alternative form)"
+            "后者的程度随着前者的程度加深而同步加深 (standard target expression for Progressive   Correlative Comparatives)",
+            "前后两件事完全没有关系 (contextual contrast form in Progressive   Correlative Comparatives)",
+            "前者越努力后者反而越差 (formal register distinction for Progressive   Correlative Comparatives)",
+            "两者互相排斥不可共存 (colloquial conversational usage for Progressive   Correlative Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「越 A 越 B」表达 B 的发展程度随 A 的增长而正向递进。"
@@ -8726,10 +8726,10 @@
         {
           "prompt": "形容在挫折和困难面前不仅不气馁，反而变得更加英勇顽强的典雅成语是：",
           "options": [
-            "愈挫愈勇 (AB key phrasing)",
-            "知难而退 (AB alternative form)",
-            "半途而废 (AB alternative form)",
-            "一蹶不振 (AB alternative form)"
+            "愈挫愈勇 (standard target expression for Progressive   Correlative Comparatives)",
+            "知难而退 (contextual contrast form in Progressive   Correlative Comparatives)",
+            "半途而废 (formal register distinction for Progressive   Correlative Comparatives)",
+            "一蹶不振 (colloquial conversational usage for Progressive   Correlative Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「愈挫愈勇」是表达在逆境中越发坚韧刚毅的标准典雅成语。"
@@ -8741,10 +8741,10 @@
         {
           "prompt": "表达事物随着时间推移一年接着一年变得更加美好，最标准的重叠递进句式是：",
           "options": [
-            "一年比一年好 / 一年比一年繁荣 (AB alternative form)",
-            "一年和一年一样好 (AB alternative form)",
-            "一年没有一年好 (AB alternative form)",
-            "一年不如一年好 (AB alternative form)"
+            "一年比一年好 / 一年比一年繁荣 (standard target expression for Progressive   Correlative Comparatives)",
+            "一年和一年一样好 (contextual contrast form in Progressive   Correlative Comparatives)",
+            "一年没有一年好 (formal register distinction for Progressive   Correlative Comparatives)",
+            "一年不如一年好 (colloquial conversational usage for Progressive   Correlative Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「一年比一年 + 形容词」是表达年年向上递增的标准句法结构。"
@@ -8752,10 +8752,10 @@
         {
           "prompt": "下列哪一项递进比较句的语法搭配完全正确？",
           "options": [
-            "随着科技的不断进步，智能设备的操作变得越来越简便人性化 (AB alternative form)",
-            "智能设备变得很越来越简便 (AB alternative form)",
-            "智能设备越来越非常简便 (AB alternative form)",
-            "智能设备越简便越非常人性化 (AB alternative form)"
+            "随着科技的不断进步，智能设备的操作变得越来越简便人性化 (standard target expression for Progressive   Correlative Comparatives)",
+            "智能设备变得很越来越简便 (contextual contrast form in Progressive   Correlative Comparatives)",
+            "智能设备越来越非常简便 (formal register distinction for Progressive   Correlative Comparatives)",
+            "智能设备越简便越非常人性化 (colloquial conversational usage for Progressive   Correlative Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "「越来越」后直接加形容词，绝不能再加「很/非常」。"
@@ -8768,10 +8768,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列递进与关联比较句中思想境界最高远、句式最典范工整的一项：",
           "options": [
-            "学术攀登之路虽充满荆棘，但青年学者们愈挫愈勇，所取得的科研成果一年比一年丰硕，为国家科技强国建设贡献了源源不断的青春力量 (AB alternative form)",
-            "科研很难，越来越不想干，一年比一年差 (AB alternative form)",
-            "青年学者越挫折越非常勇敢在科研里 (AB alternative form)",
-            "成果越来越很多在一年比一年 (AB alternative form)"
+            "学术攀登之路虽充满荆棘，但青年学者们愈挫愈勇，所取得的科研成果一年比一年丰硕，为国家科技强国建设贡献了源源不断的青春力量 (standard target expression for Progressive   Correlative Comparatives)",
+            "科研很难，越来越不想干，一年比一年差 (contextual contrast form in Progressive   Correlative Comparatives)",
+            "青年学者越挫折越非常勇敢在科研里 (formal register distinction for Progressive   Correlative Comparatives)",
+            "成果越来越很多在一年比一年 (colloquial conversational usage for Progressive   Correlative Comparatives)"
           ],
           "answerIndex": 0,
           "explanation": "该句兼备了「愈挫愈勇」的书面语典雅度与「一年比一年」的纵向递进感，展现了极高语言修养。"
@@ -8835,10 +8835,10 @@
         {
           "prompt": "在时代发展对比语篇中，串联「今昔交通差比 -> 移动支付便捷递进 -> 高铁等同舒适 -> 国家一年比一年好」的宏观逻辑是：",
           "options": [
-            "比以往发达得多 -> 越来越便捷 -> 跟客房一样舒适 -> 一年比一年繁荣 (Core concept alternative form)",
-            "先说一年不如一年 -> 再说没有飞机快 -> 最后说都一样 (Core concept alternative form)",
-            "越来越落后 -> 比过去差得多 -> 不如古代 (Core concept alternative form)",
-            "完全一样 -> 没有变化 -> 越来越慢 (Core concept alternative form)"
+            "比以往发达得多 -> 越来越便捷 -> 跟客房一样舒适 -> 一年比一年繁荣 (standard target expression for Comprehensive Temporal   Technological Comparison Narrative)",
+            "先说一年不如一年 -> 再说没有飞机快 -> 最后说都一样 (contextual contrast form in Comprehensive Temporal   Technological Comparison Narrative)",
+            "越来越落后 -> 比过去差得多 -> 不如古代 (formal register distinction for Comprehensive Temporal   Technological Comparison Narrative)",
+            "完全一样 -> 没有变化 -> 越来越慢 (colloquial conversational usage for Comprehensive Temporal   Technological Comparison Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格融合差比、递进、等同与年际推进，逻辑层次分明。"
@@ -8846,10 +8846,10 @@
         {
           "prompt": "语篇中「远比航空出行更胜一筹」中的成语「更胜一筹」意思是：",
           "options": [
-            "相比之下表现更好、更具优势 (Core concept alternative form)",
-            "相比之下完全失败 (Core concept alternative form)",
-            "两者打成平手毫无区别 (Core concept alternative form)",
-            "极其低劣糟糕 (Core concept alternative form)"
+            "相比之下表现更好、更具优势 (standard target expression for Comprehensive Temporal   Technological Comparison Narrative)",
+            "相比之下完全失败 (contextual contrast form in Comprehensive Temporal   Technological Comparison Narrative)",
+            "两者打成平手毫无区别 (formal register distinction for Comprehensive Temporal   Technological Comparison Narrative)",
+            "极其低劣糟糕 (colloquial conversational usage for Comprehensive Temporal   Technological Comparison Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「更胜一筹」是比较范畴中指称质量或性能更优异的核心成语。"
@@ -8861,10 +8861,10 @@
         {
           "prompt": "请选出下列时代科技对比叙事中比较句式融合最典范、语言最通畅的一项：",
           "options": [
-            "现在的通信网络比过去快得多，人们的生活也越来越智能化，这种飞跃比以往任何时候都更加令人振奋 (Core concept alternative form)",
-            "现在的通信比过去很快速，生活越来越非常智能 (Core concept alternative form)",
-            "通信十分比过去快，生活没有比过去更好 (Core concept alternative form)",
-            "生活越来越快得多在通信网络 (Core concept alternative form)"
+            "现在的通信网络比过去快得多，人们的生活也越来越智能化，这种飞跃比以往任何时候都更加令人振奋 (standard target expression for Comprehensive Temporal   Technological Comparison Narrative)",
+            "现在的通信比过去很快速，生活越来越非常智能 (contextual contrast form in Comprehensive Temporal   Technological Comparison Narrative)",
+            "通信十分比过去快，生活没有比过去更好 (formal register distinction for Comprehensive Temporal   Technological Comparison Narrative)",
+            "生活越来越快得多在通信网络 (colloquial conversational usage for Comprehensive Temporal   Technological Comparison Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「比过去快得多」、「越来越智能化」、「比以往任何时候都更加......」句法体系严丝合缝。"
@@ -8872,10 +8872,10 @@
         {
           "prompt": "在宏观篇章中表达国家综合国力不断壮大、蓬勃兴旺的最典雅四字成语是：",
           "options": [
-            "繁荣昌盛 / 欣欣向荣 (Core concept alternative form)",
-            "残缺不全 (Core concept alternative form)",
-            "故步自封 (Core concept alternative form)",
-            "萧条冷落 (Core concept alternative form)"
+            "繁荣昌盛 / 欣欣向荣 (standard target expression for Comprehensive Temporal   Technological Comparison Narrative)",
+            "残缺不全 (contextual contrast form in Comprehensive Temporal   Technological Comparison Narrative)",
+            "故步自封 (formal register distinction for Comprehensive Temporal   Technological Comparison Narrative)",
+            "萧条冷落 (colloquial conversational usage for Comprehensive Temporal   Technological Comparison Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「繁荣昌盛」是形容国家与社会高度繁荣发展的典范庄重成语。"
@@ -8888,10 +8888,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科技与时代变迁综合对比叙事篇章中句法最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "纵观时代变迁，今天的科技创新速度比以往任何时期都更加迅猛。不仅高铁与移动互联让大众生活变得越来越高效便捷，国家的现代化建设更是展现出一年比一年更加繁荣昌盛的壮丽图景。立足新时代，青年一代施展才干的舞台比过去任何时候都更加广阔！ (Core concept alternative form)",
-            "以前什么都没有，现在有手机了，比以前好玩 (Core concept alternative form)",
-            "现在的科技比以前非常快，越来越很多东西出来 (Core concept alternative form)",
-            "科技发展了一年比一年，没有不好 (Core concept alternative form)"
+            "纵观时代变迁，今天的科技创新速度比以往任何时期都更加迅猛。不仅高铁与移动互联让大众生活变得越来越高效便捷，国家的现代化建设更是展现出一年比一年更加繁荣昌盛的壮丽图景。立足新时代，青年一代施展才干的舞台比过去任何时候都更加广阔！ (standard target expression for Comprehensive Temporal   Technological Comparison Narrative)",
+            "以前什么都没有，现在有手机了，比以前好玩 (contextual contrast form in Comprehensive Temporal   Technological Comparison Narrative)",
+            "现在的科技比以前非常快，越来越很多东西出来 (formal register distinction for Comprehensive Temporal   Technological Comparison Narrative)",
+            "科技发展了一年比一年，没有不好 (colloquial conversational usage for Comprehensive Temporal   Technological Comparison Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在比较句式的多样性（差比、递进、纵向时序）、思想立意的高度与词章文采上均达到了现代汉语的最高境界。"
@@ -8959,10 +8959,10 @@
         {
           "prompt": "被誉为「世界屋脊」和「地球第三极」的中国第一大地形阶梯高原是：",
           "options": [
-            "青藏高原 (Core concept key phrasing)",
-            "黄土高原 (Core concept alternative form)",
-            "内蒙古高原 (Core concept alternative form)",
-            "云贵高原 (Core concept alternative form)"
+            "青藏高原 (standard target expression for Chinese Geography   Landscapes)",
+            "黄土高原 (contextual contrast form in Chinese Geography   Landscapes)",
+            "内蒙古高原 (formal register distinction for Chinese Geography   Landscapes)",
+            "云贵高原 (colloquial conversational usage for Chinese Geography   Landscapes)"
           ],
           "answerIndex": 0,
           "explanation": "青藏高原平均海拔超4000米，是世界海拔最高的高原，被称为世界屋脊。"
@@ -8970,10 +8970,10 @@
         {
           "prompt": "被誉为中华民族母亲河、流经黄土高原汇入渤海的中国第二长河是：",
           "options": [
-            "黄河 (Core concept key phrasing)",
-            "长江 (Core concept alternative form)",
-            "珠江 (Core concept alternative form)",
-            "黑龙江 (Core concept alternative form)"
+            "黄河 (standard target expression for Chinese Geography   Landscapes)",
+            "长江 (contextual contrast form in Chinese Geography   Landscapes)",
+            "珠江 (formal register distinction for Chinese Geography   Landscapes)",
+            "黑龙江 (colloquial conversational usage for Chinese Geography   Landscapes)"
           ],
           "answerIndex": 0,
           "explanation": "黄河是孕育古代华夏文明的核心摇篮，全长约5464公里。"
@@ -8985,10 +8985,10 @@
         {
           "prompt": "关于中国宏观地形与地势走向的概括，下列完全科学准确的是：",
           "options": [
-            "地势西高东低，呈三级阶梯状分布 (Core concept alternative form)",
-            "地势东高西低，四周高中间低 (Core concept alternative form)",
-            "全中国全是一望无际的大平原 (Core concept alternative form)",
-            "地势南高北低没有任何山脉 (Core concept alternative form)"
+            "地势西高东低，呈三级阶梯状分布 (standard target expression for Chinese Geography   Landscapes)",
+            "地势东高西低，四周高中间低 (contextual contrast form in Chinese Geography   Landscapes)",
+            "全中国全是一望无际的大平原 (formal register distinction for Chinese Geography   Landscapes)",
+            "地势南高北低没有任何山脉 (colloquial conversational usage for Chinese Geography   Landscapes)"
           ],
           "answerIndex": 0,
           "explanation": "「西高东低，三级阶梯」是中国宏观地貌的基本特征。"
@@ -8996,10 +8996,10 @@
         {
           "prompt": "中国最长、流域面积最广、被誉为黄金水道的水系是：",
           "options": [
-            "长江 (Core concept key phrasing)",
-            "海河 (Core concept alternative form)",
-            "淮河 (Core concept alternative form)",
-            "辽河 (Core concept alternative form)"
+            "长江 (standard target expression for Chinese Geography   Landscapes)",
+            "海河 (contextual contrast form in Chinese Geography   Landscapes)",
+            "淮河 (formal register distinction for Chinese Geography   Landscapes)",
+            "辽河 (colloquial conversational usage for Chinese Geography   Landscapes)"
           ],
           "answerIndex": 0,
           "explanation": "长江是中国第一长河，世界第三长河。"
@@ -9012,10 +9012,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国地理与水系地貌描述中语言最规范、地理知识最精确的一项：",
           "options": [
-            "中国幅员辽阔，西起世界屋脊青藏高原，东至广袤富饶的沿海平原，长江与黄河横贯东西，奔流不息，滋养了千百年来生生不息的中华民族 (Core concept alternative form)",
-            "中国很小，地势东高西低，黄河流入印度洋 (Core concept alternative form)",
-            "长江自东向西流到西藏去 (Core concept alternative form)",
-            "中国只有高原没有平原与大河 (Core concept alternative form)"
+            "中国幅员辽阔，西起世界屋脊青藏高原，东至广袤富饶的沿海平原，长江与黄河横贯东西，奔流不息，滋养了千百年来生生不息的中华民族 (standard target expression for Chinese Geography   Landscapes)",
+            "中国很小，地势东高西低，黄河流入印度洋 (contextual contrast form in Chinese Geography   Landscapes)",
+            "长江自东向西流到西藏去 (formal register distinction for Chinese Geography   Landscapes)",
+            "中国只有高原没有平原与大河 (colloquial conversational usage for Chinese Geography   Landscapes)"
           ],
           "answerIndex": 0,
           "explanation": "该句在宏观地理地貌、江河水系走向及中华文明孕育叙述上均达到了最高规范。"
@@ -9079,10 +9079,10 @@
         {
           "prompt": "作为明清两代皇帝的皇家宫殿，现存世界上规模最大、保存最完好的木质古代宫殿建筑群是：",
           "options": [
-            "北京故宫博物院 / 紫禁城 (Core concept alternative form)",
-            "颐和园 (Core concept alternative form)",
-            "圆明园 (Core concept alternative form)",
-            "承德避暑山庄 (Core concept alternative form)"
+            "北京故宫博物院 / 紫禁城 (standard target expression for UNESCO World Cultural Heritages)",
+            "颐和园 (contextual contrast form in UNESCO World Cultural Heritages)",
+            "圆明园 (formal register distinction for UNESCO World Cultural Heritages)",
+            "承德避暑山庄 (colloquial conversational usage for UNESCO World Cultural Heritages)"
           ],
           "answerIndex": 0,
           "explanation": "北京故宫（紫禁城）是世界现存最大、最完备的古代宫殿建筑群。"
@@ -9090,10 +9090,10 @@
         {
           "prompt": "位于甘肃敦煌、以精美绝伦的飞天壁画与彩塑艺术闻名于世的古丝绸之路文化遗产是：",
           "options": [
-            "敦煌莫高窟 (Core concept key phrasing)",
-            "龙门石窟 (Core concept alternative form)",
-            "云冈石窟 (Core concept alternative form)",
-            "麦积山石窟 (Core concept alternative form)"
+            "敦煌莫高窟 (standard target expression for UNESCO World Cultural Heritages)",
+            "龙门石窟 (contextual contrast form in UNESCO World Cultural Heritages)",
+            "云冈石窟 (formal register distinction for UNESCO World Cultural Heritages)",
+            "麦积山石窟 (colloquial conversational usage for UNESCO World Cultural Heritages)"
           ],
           "answerIndex": 0,
           "explanation": "敦煌莫高窟是古丝绸之路上举世闻名的佛教与丝路艺术宝库。"
@@ -9105,10 +9105,10 @@
         {
           "prompt": "中国著名谚语「不到长城非好汉」表达的核心精神是：",
           "options": [
-            "面对困难要有不畏艰难、勇攀高峰的顽强毅力 (Core concept alternative form)",
-            "不买长城门票就不算英雄 (Core concept alternative form)",
-            "长城只有男子汉才可以去爬 (Core concept alternative form)",
-            "没有去过北京就不能交朋友 (Core concept alternative form)"
+            "面对困难要有不畏艰难、勇攀高峰的顽强毅力 (standard target expression for UNESCO World Cultural Heritages)",
+            "不买长城门票就不算英雄 (contextual contrast form in UNESCO World Cultural Heritages)",
+            "长城只有男子汉才可以去爬 (formal register distinction for UNESCO World Cultural Heritages)",
+            "没有去过北京就不能交朋友 (colloquial conversational usage for UNESCO World Cultural Heritages)"
           ],
           "answerIndex": 0,
           "explanation": "「不到长城非好汉」借攀登长城喻指克服险阻、不懈奋斗的坚强品格。"
@@ -9116,10 +9116,10 @@
         {
           "prompt": "被国际社会誉为「世界第八大奇迹」的中国陕西西安秦代历史古迹是：",
           "options": [
-            "秦始皇陵兵马俑 (Core concept key phrasing)",
-            "大雁塔 (Core concept alternative form)",
-            "华清宫 (Core concept alternative form)",
-            "明城墙 (Core concept alternative form)"
+            "秦始皇陵兵马俑 (standard target expression for UNESCO World Cultural Heritages)",
+            "大雁塔 (contextual contrast form in UNESCO World Cultural Heritages)",
+            "华清宫 (formal register distinction for UNESCO World Cultural Heritages)",
+            "明城墙 (colloquial conversational usage for UNESCO World Cultural Heritages)"
           ],
           "answerIndex": 0,
           "explanation": "秦始皇陵兵马俑以其庞大军阵与高超写实雕塑技艺享誉全球。"
@@ -9132,10 +9132,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列文化遗产阐述中文采最斐然、历史内涵与艺术特征概括最精准的一项：",
           "options": [
-            "故宫紫禁城以其宏伟严整的中轴对称布局与金碧辉煌的殿宇建筑，生动诠释了东方古代礼制文明与高超的营造技艺，是全人类共有的无价文化瑰宝 (Core concept alternative form)",
-            "故宫就是很多老房子，红红黄黄的 (Core concept alternative form)",
-            "兵马俑都是泥巴做的，没什么特别的 (Core concept alternative form)",
-            "长城是现代人修的小墙用来跑步 (Core concept alternative form)"
+            "故宫紫禁城以其宏伟严整的中轴对称布局与金碧辉煌的殿宇建筑，生动诠释了东方古代礼制文明与高超的营造技艺，是全人类共有的无价文化瑰宝 (standard target expression for UNESCO World Cultural Heritages)",
+            "故宫就是很多老房子，红红黄黄的 (contextual contrast form in UNESCO World Cultural Heritages)",
+            "兵马俑都是泥巴做的，没什么特别的 (formal register distinction for UNESCO World Cultural Heritages)",
+            "长城是现代人修的小墙用来跑步 (colloquial conversational usage for UNESCO World Cultural Heritages)"
           ],
           "answerIndex": 0,
           "explanation": "该句对紫禁城的中轴布局、建筑规制及人类文明价值作出了典范的汉语学术阐释。"
@@ -9203,10 +9203,10 @@
         {
           "prompt": "在苏州古典园林营造技艺中，形容游人每走一步都能看到不同风景与空间层次的四字成语是：",
           "options": [
-            "移步换景 (Core concept key phrasing)",
-            "走马观花 (Core concept alternative form)",
-            "原地不动 (Core concept alternative form)",
-            "千篇一律 (Core concept alternative form)"
+            "移步换景 (standard target expression for Natural Wonders   Classical Gardens)",
+            "走马观花 (contextual contrast form in Natural Wonders   Classical Gardens)",
+            "原地不动 (formal register distinction for Natural Wonders   Classical Gardens)",
+            "千篇一律 (colloquial conversational usage for Natural Wonders   Classical Gardens)"
           ],
           "answerIndex": 0,
           "explanation": "「移步换景」是苏州古典园林空间借景与隔景手法的核心特征。"
@@ -9214,10 +9214,10 @@
         {
           "prompt": "中国著名谚语「五岳归来不看山，______归来不看岳」，横线处应填入的名山是：",
           "options": [
-            "黄山 (Core concept key phrasing)",
-            "泰山 (Core concept alternative form)",
-            "华山 (Core concept alternative form)",
-            "嵩山 (Core concept alternative form)"
+            "黄山 (standard target expression for Natural Wonders   Classical Gardens)",
+            "泰山 (contextual contrast form in Natural Wonders   Classical Gardens)",
+            "华山 (formal register distinction for Natural Wonders   Classical Gardens)",
+            "嵩山 (colloquial conversational usage for Natural Wonders   Classical Gardens)"
           ],
           "answerIndex": 0,
           "explanation": "徐霞客赞誉黄山景观之绝，称「黄山归来不看岳」。"
@@ -9229,10 +9229,10 @@
         {
           "prompt": "形容中国山水自然风光如同一幅美丽生动的水墨画，最贴切典雅的比喻是：",
           "options": [
-            "宛如置身于一幅天然的水墨画卷之中 (Core concept alternative form)",
-            "像一个装满水泥的工厂 (Core concept alternative form)",
-            "到处都是乱七八糟的石头 (Core concept alternative form)",
-            "跟没有画完的草稿纸差不多 (Core concept alternative form)"
+            "宛如置身于一幅天然的水墨画卷之中 (standard target expression for Natural Wonders   Classical Gardens)",
+            "像一个装满水泥的工厂 (contextual contrast form in Natural Wonders   Classical Gardens)",
+            "到处都是乱七八糟的石头 (formal register distinction for Natural Wonders   Classical Gardens)",
+            "跟没有画完的草稿纸差不多 (colloquial conversational usage for Natural Wonders   Classical Gardens)"
           ],
           "answerIndex": 0,
           "explanation": "「水墨画卷」是形容中国喀斯特与江南山水空灵之美的经典比拟。"
@@ -9240,10 +9240,10 @@
         {
           "prompt": "下列哪一项诗句是苏轼赞美杭州西湖阴晴皆美的千古绝唱？",
           "options": [
-            "欲把西湖比西子，淡妆浓抹总相宜 (Core concept alternative form)",
-            "床前明月光，疑是地上霜 (Core concept alternative form)",
-            "白日依山尽，黄河入海流 (Core concept alternative form)",
-            "春眠不觉晓，处处闻啼鸟 (Core concept alternative form)"
+            "欲把西湖比西子，淡妆浓抹总相宜 (standard target expression for Natural Wonders   Classical Gardens)",
+            "床前明月光，疑是地上霜 (contextual contrast form in Natural Wonders   Classical Gardens)",
+            "白日依山尽，黄河入海流 (formal register distinction for Natural Wonders   Classical Gardens)",
+            "春眠不觉晓，处处闻啼鸟 (colloquial conversational usage for Natural Wonders   Classical Gardens)"
           ],
           "answerIndex": 0,
           "explanation": "苏轼将西湖比作古代美人西施，晴雨皆美，脍炙人口。"
@@ -9256,10 +9256,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列江南山水园林美学评价中辞意最雅致、意境最高远的一项：",
           "options": [
-            "苏州古典园林在有限的空间内叠石理水、栽植花木，运用移步换景的巧妙设计，达到了「咫尺之内再造乾坤」的崇高美学境界 (Core concept alternative form)",
-            "苏州园林就是小池塘边上放几块烂石头 (Core concept alternative form)",
-            "西湖水太多了，看来看去全是荷花没意思 (Core concept alternative form)",
-            "黄山上面石头太怪了不好走 (Core concept alternative form)"
+            "苏州古典园林在有限的空间内叠石理水、栽植花木，运用移步换景的巧妙设计，达到了「咫尺之内再造乾坤」的崇高美学境界 (standard target expression for Natural Wonders   Classical Gardens)",
+            "苏州园林就是小池塘边上放几块烂石头 (contextual contrast form in Natural Wonders   Classical Gardens)",
+            "西湖水太多了，看来看去全是荷花没意思 (formal register distinction for Natural Wonders   Classical Gardens)",
+            "黄山上面石头太怪了不好走 (colloquial conversational usage for Natural Wonders   Classical Gardens)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇对中国园林空间美学与造园哲学作出了极为地道典雅的汉语学术美学概括。"
@@ -9323,10 +9323,10 @@
         {
           "prompt": "在现代中国参观国家级博物馆或热门名胜景区时，第一步必须完成的操作是：",
           "options": [
-            "通过官方线上平台进行实名制分时段预约 (Core concept alternative form)",
-            "直接去现场插队硬闯 (Core concept alternative form)",
-            "在门口等待不买票 (Core concept alternative form)",
-            "带违禁物品强行进入 (Core concept alternative form)"
+            "通过官方线上平台进行实名制分时段预约 (standard target expression for Travel Preparation   Tourism Practical Communication)",
+            "直接去现场插队硬闯 (contextual contrast form in Travel Preparation   Tourism Practical Communication)",
+            "在门口等待不买票 (formal register distinction for Travel Preparation   Tourism Practical Communication)",
+            "带违禁物品强行进入 (colloquial conversational usage for Travel Preparation   Tourism Practical Communication)"
           ],
           "answerIndex": 0,
           "explanation": "中国各大名胜文博场馆全面实行线上实名制分时预约制度。"
@@ -9334,10 +9334,10 @@
         {
           "prompt": "在酒店住宿时，如需将行李暂时存放在前台，最规范礼貌的交际用语是：",
           "options": [
-            "您好，请问前台可以为住客提供免费行李寄存服务吗？ (Core concept alternative form)",
-            "喂，给我看着包，丢了赔钱！ (Core concept alternative form)",
-            "把你们房间钥匙全部拿来 (Core concept alternative form)",
-            "我不给房费 (Core concept alternative form)"
+            "您好，请问前台可以为住客提供免费行李寄存服务吗？ (standard target expression for Travel Preparation   Tourism Practical Communication)",
+            "喂，给我看着包，丢了赔钱！ (contextual contrast form in Travel Preparation   Tourism Practical Communication)",
+            "把你们房间钥匙全部拿来 (formal register distinction for Travel Preparation   Tourism Practical Communication)",
+            "我不给房费 (colloquial conversational usage for Travel Preparation   Tourism Practical Communication)"
           ],
           "answerIndex": 0,
           "explanation": "「提供行李寄存服务」是标准得体的酒店涉外商务交际话术。"
@@ -9349,10 +9349,10 @@
         {
           "prompt": "旅行结束时，为家人和朋友购买的具有当地浓厚文化特色的纪念礼品称为：",
           "options": [
-            "伴手礼 / 地方特产 (Core concept alternative form)",
-            "废旧物资 (Core concept alternative form)",
-            "办公用品 (Core concept alternative form)",
-            "日常垃圾 (Core concept alternative form)"
+            "伴手礼 / 地方特产 (standard target expression for Travel Preparation   Tourism Practical Communication)",
+            "废旧物资 (contextual contrast form in Travel Preparation   Tourism Practical Communication)",
+            "办公用品 (formal register distinction for Travel Preparation   Tourism Practical Communication)",
+            "日常垃圾 (colloquial conversational usage for Travel Preparation   Tourism Practical Communication)"
           ],
           "answerIndex": 0,
           "explanation": "「伴手礼」或「地方特产」是指出门旅行带回赠送亲友的礼物。"
@@ -9360,10 +9360,10 @@
         {
           "prompt": "在博物馆参观时，如需自行了解每件文物的详细历史背景，最便捷的租赁设备是：",
           "options": [
-            "智能语音导览器 (Core concept key phrasing)",
-            "扩音大喇叭 (Core concept alternative form)",
-            "家用电视机 (Core concept alternative form)",
-            "收音机天线 (Core concept alternative form)"
+            "智能语音导览器 (standard target expression for Travel Preparation   Tourism Practical Communication)",
+            "扩音大喇叭 (contextual contrast form in Travel Preparation   Tourism Practical Communication)",
+            "家用电视机 (formal register distinction for Travel Preparation   Tourism Practical Communication)",
+            "收音机天线 (colloquial conversational usage for Travel Preparation   Tourism Practical Communication)"
           ],
           "answerIndex": 0,
           "explanation": "「智能语音导览器」能够根据游客位置自动播放多语种专业文物讲解。"
@@ -9376,10 +9376,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列涉外旅游行程安排中表述最完备、用词最得体典范的一项：",
           "options": [
-            "我们提前通过官方小程序预约了故宫上午场的门票，并在前台办理了行李寄存。入园后租借了一台多语种智能导览器，游览结束后还选购了精美的文创伴手礼 (Core concept alternative form)",
-            "我们没有买票去故宫硬闯，把包扔在地上，随便拿了东西走 (Core concept alternative form)",
-            "故宫开门我们进去，不知道干什么 (Core concept alternative form)",
-            "导览器我们不要买票在酒店退房行李 (Core concept alternative form)"
+            "我们提前通过官方小程序预约了故宫上午场的门票，并在前台办理了行李寄存。入园后租借了一台多语种智能导览器，游览结束后还选购了精美的文创伴手礼 (standard target expression for Travel Preparation   Tourism Practical Communication)",
+            "我们没有买票去故宫硬闯，把包扔在地上，随便拿了东西走 (contextual contrast form in Travel Preparation   Tourism Practical Communication)",
+            "故宫开门我们进去，不知道干什么 (formal register distinction for Travel Preparation   Tourism Practical Communication)",
+            "导览器我们不要买票在酒店退房行李 (colloquial conversational usage for Travel Preparation   Tourism Practical Communication)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇涵盖了现代旅游预约、酒店服务、智慧导览及文创消费全流程，用词精准典范。"
@@ -9443,10 +9443,10 @@
         {
           "prompt": "在文化游历综合叙事篇章中，串联「北上古都长城故宫 -> 西进秦俑古迹 -> 南下江南山水园林 -> 思想升华」的逻辑主线是：",
           "options": [
-            "读万卷书行万里路 -> 探访北方长城故宫 -> 领略西安秦俑 -> 沉醉江南西湖园林 -> 感悟中华文明博大精深 (Core concept alternative form)",
-            "先去买伴手礼 -> 再回家睡觉 -> 再去长城 (Core concept alternative form)",
-            "只看现代大商场 -> 不去任何古迹 (Core concept alternative form)",
-            "直接写结论没有任何游历细节 (Core concept alternative form)"
+            "读万卷书行万里路 -> 探访北方长城故宫 -> 领略西安秦俑 -> 沉醉江南西湖园林 -> 感悟中华文明博大精深 (standard target expression for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "先去买伴手礼 -> 再回家睡觉 -> 再去长城 (contextual contrast form in Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "只看现代大商场 -> 不去任何古迹 (formal register distinction for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "直接写结论没有任何游历细节 (colloquial conversational usage for Comprehensive Cultural Travel   Geographic Exploration Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格遵循从北到西再到南的地理空间移动与文化深度递进脉络。"
@@ -9454,10 +9454,10 @@
         {
           "prompt": "古籍名言「读万卷书，行万里路」所蕴含的核心中国哲学智慧是：",
           "options": [
-            "理论知识学习与实地考察实践紧密结合 (Core concept alternative form)",
-            "只读书不出门 (Core concept alternative form)",
-            "只旅游不读书 (Core concept alternative form)",
-            "书本知识全部是错误的 (Core concept alternative form)"
+            "理论知识学习与实地考察实践紧密结合 (standard target expression for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "只读书不出门 (contextual contrast form in Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "只旅游不读书 (formal register distinction for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "书本知识全部是错误的 (colloquial conversational usage for Comprehensive Cultural Travel   Geographic Exploration Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「读万卷书，行万里路」倡导理论研读与实践游历并重，是知行合一的典范。"
@@ -9469,10 +9469,10 @@
         {
           "prompt": "请选出下列文化遗产游历纪实中辞藻最典雅、文化感悟最深刻的一项：",
           "options": [
-            "从巍峨长城到江南水乡，这趟文化之旅让我真切触摸到了华夏文明生生不息的脉搏，更深刻领悟了天人合一的东方美学 (Core concept alternative form)",
-            "我去长城照相，去西湖划船，很好玩 (Core concept alternative form)",
-            "华夏山河到处是人，我走累了想回家 (Core concept alternative form)",
-            "长城西湖在故宫里面很好吃 (Core concept alternative form)"
+            "从巍峨长城到江南水乡，这趟文化之旅让我真切触摸到了华夏文明生生不息的脉搏，更深刻领悟了天人合一的东方美学 (standard target expression for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "我去长城照相，去西湖划船，很好玩 (contextual contrast form in Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "华夏山河到处是人，我走累了想回家 (formal register distinction for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "长城西湖在故宫里面很好吃 (colloquial conversational usage for Comprehensive Cultural Travel   Geographic Exploration Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项将具体景点游历升华至文明认同与哲学美学高度，语言极为典雅纯正。"
@@ -9480,10 +9480,10 @@
         {
           "prompt": "在中华传统文化中，指称幅员辽阔、历史悠久的中华大地的诗意代称是：",
           "options": [
-            "神州大地 / 华夏大地 (Core concept alternative form)",
-            "天涯海角 (Core concept alternative form)",
-            "荒芜之地 (Core concept alternative form)",
-            "异国他乡 (Core concept alternative form)"
+            "神州大地 / 华夏大地 (standard target expression for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "天涯海角 (contextual contrast form in Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "荒芜之地 (formal register distinction for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "异国他乡 (colloquial conversational usage for Comprehensive Cultural Travel   Geographic Exploration Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「神州大地」或「华夏大地」是中华国土最宏伟典雅的经典诗意代称。"
@@ -9496,10 +9496,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列华夏名胜游历与文化感悟综合叙事语篇中艺术境界最高、逻辑架构最严谨的一项：",
           "options": [
-            "行走在华夏大地的壮丽山河之间，无论是雄伟庄严的万里长城与故宫紫禁城，还是空濛温婉的杭州西湖与苏州园林，都让我深深领略了中华文明博大精深、天人合一的永恒魅力。这场行万里路的文化求索，铸就了我人生中最璀璨的思想财富！ (Core concept alternative form)",
-            "中国很好玩，我去了长城和西湖，拍了很多自拍照 (Core concept alternative form)",
-            "名胜古迹都差不多，看了长城就不想看西湖了 (Core concept alternative form)",
-            "神州大地在长城西湖里走走 (Core concept alternative form)"
+            "行走在华夏大地的壮丽山河之间，无论是雄伟庄严的万里长城与故宫紫禁城，还是空濛温婉的杭州西湖与苏州园林，都让我深深领略了中华文明博大精深、天人合一的永恒魅力。这场行万里路的文化求索，铸就了我人生中最璀璨的思想财富！ (standard target expression for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "中国很好玩，我去了长城和西湖，拍了很多自拍照 (contextual contrast form in Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "名胜古迹都差不多，看了长城就不想看西湖了 (formal register distinction for Comprehensive Cultural Travel   Geographic Exploration Narrative)",
+            "神州大地在长城西湖里走走 (colloquial conversational usage for Comprehensive Cultural Travel   Geographic Exploration Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在地理广度、历史深度、美学高度及思想升华上均达到了现代汉语的最高境界。"
@@ -9567,10 +9567,10 @@
         {
           "prompt": "在「把」字句中，「把」字后面的宾语成分必须满足的语法语义条件是：",
           "options": [
-            "必须是说话双方已知、有定特指的具体对象 (Core concept alternative form)",
-            "必须是任意无定的一般泛指名词 (Core concept alternative form)",
-            "必须是形容词或副词 (Core concept alternative form)",
-            "必须是不及物动词 (Core concept alternative form)"
+            "必须是说话双方已知、有定特指的具体对象 (standard target expression for Disposal Semantics   Definite Object Constraint)",
+            "必须是任意无定的一般泛指名词 (contextual contrast form in Disposal Semantics   Definite Object Constraint)",
+            "必须是形容词或副词 (formal register distinction for Disposal Semantics   Definite Object Constraint)",
+            "必须是不及物动词 (colloquial conversational usage for Disposal Semantics   Definite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "「把」字句宾语必须具备有定性，不能是泛指无定名词。"
@@ -9578,10 +9578,10 @@
         {
           "prompt": "下列哪一个句子犯了「把字句动词单独光秃秃出现、缺少补语或其他成分」的语法错误？",
           "options": [
-            "*他把作业做 (Core concept alternative form)",
-            "他把作业做完了 (Core concept alternative form)",
-            "他把作业做好了 (Core concept alternative form)",
-            "他把作业交给了老师 (Core concept alternative form)"
+            "*他把作业做 (standard target expression for Disposal Semantics   Definite Object Constraint)",
+            "他把作业做完了 (contextual contrast form in Disposal Semantics   Definite Object Constraint)",
+            "他把作业做好了 (formal register distinction for Disposal Semantics   Definite Object Constraint)",
+            "他把作业交给了老师 (colloquial conversational usage for Disposal Semantics   Definite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "「把」字句谓语动词绝不能单独光秃秃出现，必须带结果补语或助词。"
@@ -9593,10 +9593,10 @@
         {
           "prompt": "要表达「请将那扇窗户关紧」，完全符合「把」字句语法规范的句子是：",
           "options": [
-            "请把那扇窗户关好 / 关上 (Core concept alternative form)",
-            "请把一扇窗户关 (Core concept alternative form)",
-            "请关把那扇窗户好 (Core concept alternative form)",
-            "请把窗户非常关 (Core concept alternative form)"
+            "请把那扇窗户关好 / 关上 (standard target expression for Disposal Semantics   Definite Object Constraint)",
+            "请把一扇窗户关 (contextual contrast form in Disposal Semantics   Definite Object Constraint)",
+            "请关把那扇窗户好 (formal register distinction for Disposal Semantics   Definite Object Constraint)",
+            "请把窗户非常关 (colloquial conversational usage for Disposal Semantics   Definite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "「把那扇窗户关好」宾语特指，动词后带结果补语「好」，完全合规。"
@@ -9604,10 +9604,10 @@
         {
           "prompt": "下列哪一项「把」字句的表达完全符合现代汉语语法规则？",
           "options": [
-            "实验室助理把新采购的试剂整齐地摆放在药品柜里 (Core concept alternative form)",
-            "实验室助理把试剂摆放 (Core concept alternative form)",
-            "实验室助理摆放把试剂在药品柜 (Core concept alternative form)",
-            "实验室助理把一种试剂摆放药品柜 (Core concept alternative form)"
+            "实验室助理把新采购的试剂整齐地摆放在药品柜里 (standard target expression for Disposal Semantics   Definite Object Constraint)",
+            "实验室助理把试剂摆放 (contextual contrast form in Disposal Semantics   Definite Object Constraint)",
+            "实验室助理摆放把试剂在药品柜 (formal register distinction for Disposal Semantics   Definite Object Constraint)",
+            "实验室助理把一种试剂摆放药品柜 (colloquial conversational usage for Disposal Semantics   Definite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项宾语有定，动词后有介词短语补语「在药品柜里」，语法极为严整。"
@@ -9620,10 +9620,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列「把」字句中宾语有定、动词搭配得当且补语结构最严密的一项：",
           "options": [
-            "工程师在发布新版本前，把测试报告中指出的所有安全漏洞全部修复好了 (Core concept alternative form)",
-            "工程师把漏洞修复 (Core concept alternative form)",
-            "工程师把一个漏洞修复在电脑 (Core concept alternative form)",
-            "工程师修复把所有漏洞好 (Core concept alternative form)"
+            "工程师在发布新版本前，把测试报告中指出的所有安全漏洞全部修复好了 (standard target expression for Disposal Semantics   Definite Object Constraint)",
+            "工程师把漏洞修复 (contextual contrast form in Disposal Semantics   Definite Object Constraint)",
+            "工程师把一个漏洞修复在电脑 (formal register distinction for Disposal Semantics   Definite Object Constraint)",
+            "工程师修复把所有漏洞好 (colloquial conversational usage for Disposal Semantics   Definite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "该句在宾语特指性、处置动词及后置结果补语「好」的配合上堪称现代汉语把字句的典范。"
@@ -9687,10 +9687,10 @@
         {
           "prompt": "下列哪一组动词属于心理情感或感觉认知动词，绝对【不能】进入「把」字句作主要谓语？",
           "options": [
-            "喜欢 / 爱 / 知道 / 认识 / 觉得 (Core concept alternative form)",
-            "切 / 洗 / 修 / 整理 (Core concept alternative form)",
-            "放 / 借 / 送 / 递 (Core concept alternative form)",
-            "搬 / 扔 / 关 / 开 (Core concept alternative form)"
+            "喜欢 / 爱 / 知道 / 认识 / 觉得 (standard target expression for Verbal Restrictions in BA Sentences)",
+            "切 / 洗 / 修 / 整理 (contextual contrast form in Verbal Restrictions in BA Sentences)",
+            "放 / 借 / 送 / 递 (formal register distinction for Verbal Restrictions in BA Sentences)",
+            "搬 / 扔 / 关 / 开 (colloquial conversational usage for Verbal Restrictions in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "心理情感和感觉认知动词（喜欢、爱、知道等）缺乏外在处置力，严禁进入「把」字句。"
@@ -9698,10 +9698,10 @@
         {
           "prompt": "下列哪一个句子犯了「将心理情感动词错误用于把字句」的语法病句？",
           "options": [
-            "*玛丽把中国书法很喜欢 (Core concept alternative form)",
-            "玛丽把书法作业写完了 (Core concept alternative form)",
-            "玛丽把毛笔放在桌子上 (Core concept alternative form)",
-            "玛丽把字帖借给了同学 (Core concept alternative form)"
+            "*玛丽把中国书法很喜欢 (standard target expression for Verbal Restrictions in BA Sentences)",
+            "玛丽把书法作业写完了 (contextual contrast form in Verbal Restrictions in BA Sentences)",
+            "玛丽把毛笔放在桌子上 (formal register distinction for Verbal Restrictions in BA Sentences)",
+            "玛丽把字帖借给了同学 (colloquial conversational usage for Verbal Restrictions in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「喜欢」是心理动词，不能进入「把」字句，应改为「玛丽很喜欢中国书法」。"
@@ -9713,10 +9713,10 @@
         {
           "prompt": "动词「翻译」具有很强的使动转化处置性，下列哪一项把字句搭配最为规范？",
           "options": [
-            "学者把这部古代经典著作翻译成了现代汉语 (Core concept alternative form)",
-            "学者把这部著作翻译喜欢 (Core concept alternative form)",
-            "学者翻译把这部著作现代汉语 (Core concept alternative form)",
-            "学者把现代汉语翻译这部著作 (Core concept alternative form)"
+            "学者把这部古代经典著作翻译成了现代汉语 (standard target expression for Verbal Restrictions in BA Sentences)",
+            "学者把这部著作翻译喜欢 (contextual contrast form in Verbal Restrictions in BA Sentences)",
+            "学者翻译把这部著作现代汉语 (formal register distinction for Verbal Restrictions in BA Sentences)",
+            "学者把现代汉语翻译这部著作 (colloquial conversational usage for Verbal Restrictions in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「把......翻译成......」是表达形态转换的标准处置句式。"
@@ -9724,10 +9724,10 @@
         {
           "prompt": "判断正误：判断动词「是」和存在动词「有」可以随意进入把字句（例如：*我把他是朋友）。",
           "options": [
-            "错误：判断与存在动词绝不能进入把字句 (Core concept alternative form)",
-            "正确：任何动词都能进入把字句 (Core concept alternative form)",
-            "只有在书面语中可以这样用 (Core concept alternative form)",
-            "古代汉语可以现代汉语不可以 (Core concept alternative form)"
+            "错误：判断与存在动词绝不能进入把字句 (standard target expression for Verbal Restrictions in BA Sentences)",
+            "正确：任何动词都能进入把字句 (contextual contrast form in Verbal Restrictions in BA Sentences)",
+            "只有在书面语中可以这样用 (formal register distinction for Verbal Restrictions in BA Sentences)",
+            "古代汉语可以现代汉语不可以 (colloquial conversational usage for Verbal Restrictions in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「是、有、在」等联系与存在动词绝对不可进入把字句。"
@@ -9740,10 +9740,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中动词处置性最强、语法结构完全合规的一项：",
           "options": [
-            "软件工程师加班加点，终于把数据库中的异常冗余记录全部清除干净了 (Core concept alternative form)",
-            "软件工程师把数据库知道得很清楚 (Core concept alternative form)",
-            "软件工程师把那个软件很爱 (Core concept alternative form)",
-            "软件工程师把那个程序是一个系统 (Core concept alternative form)"
+            "软件工程师加班加点，终于把数据库中的异常冗余记录全部清除干净了 (standard target expression for Verbal Restrictions in BA Sentences)",
+            "软件工程师把数据库知道得很清楚 (contextual contrast form in Verbal Restrictions in BA Sentences)",
+            "软件工程师把那个软件很爱 (formal register distinction for Verbal Restrictions in BA Sentences)",
+            "软件工程师把那个程序是一个系统 (colloquial conversational usage for Verbal Restrictions in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项使用动作处置动词「清除」配合结果补语「干净」，其余三项均误用了认知、情感与判断动词。"
@@ -9807,10 +9807,10 @@
         {
           "prompt": "要表达「将书本归放到书架上」，最精准的介词短语补语搭配是：",
           "options": [
-            "把书放在书架上 (Core concept alternative form)",
-            "把书放成书架上 (Core concept alternative form)",
-            "把书放给书架上 (Core concept alternative form)",
-            "把书放到书架上做 (Core concept alternative form)"
+            "把书放在书架上 (standard target expression for Complements Required in BA Sentences)",
+            "把书放成书架上 (contextual contrast form in Complements Required in BA Sentences)",
+            "把书放给书架上 (formal register distinction for Complements Required in BA Sentences)",
+            "把书放到书架上做 (colloquial conversational usage for Complements Required in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "表达空间落点与位置时，动词后搭配介词短语补语「在/到 + 处所」。"
@@ -9818,10 +9818,10 @@
         {
           "prompt": "在句子「请把护照拿出来」中，「出来」充当的句子成分是：",
           "options": [
-            "趋向补语 (Core concept key phrasing)",
-            "主语 (Core concept alternative form)",
-            "状语 (Core concept alternative form)",
-            "谓语中心动词 (Core concept alternative form)"
+            "趋向补语 (standard target expression for Complements Required in BA Sentences)",
+            "主语 (contextual contrast form in Complements Required in BA Sentences)",
+            "状语 (formal register distinction for Complements Required in BA Sentences)",
+            "谓语中心动词 (colloquial conversational usage for Complements Required in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「出来」表示动作位移由内向外的方向，是趋向补语。"
@@ -9833,10 +9833,10 @@
         {
           "prompt": "表达将某项任务或材料转移交给某人时，正确的「把」字句式是：",
           "options": [
-            "把报告交给辅导员 (Core concept alternative form)",
-            "把报告给交辅导员 (Core concept alternative form)",
-            "给辅导员把报告交 (Core concept alternative form)",
-            "把报告交成辅导员 (Core concept alternative form)"
+            "把报告交给辅导员 (standard target expression for Complements Required in BA Sentences)",
+            "把报告给交辅导员 (contextual contrast form in Complements Required in BA Sentences)",
+            "给辅导员把报告交 (formal register distinction for Complements Required in BA Sentences)",
+            "把报告交成辅导员 (colloquial conversational usage for Complements Required in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 给 + 人」表达归属与所有权的转移交付。"
@@ -9844,10 +9844,10 @@
         {
           "prompt": "下列哪一项把字句的数量补语使用完全正确？",
           "options": [
-            "老师把重点语法规则强调了三遍 (Core concept alternative form)",
-            "老师三遍把重点语法强调了 (Core concept alternative form)",
-            "老师把重点语法三遍强调了 (Core concept alternative form)",
-            "老师把三遍重点语法强调了 (Core concept alternative form)"
+            "老师把重点语法规则强调了三遍 (standard target expression for Complements Required in BA Sentences)",
+            "老师三遍把重点语法强调了 (contextual contrast form in Complements Required in BA Sentences)",
+            "老师把重点语法三遍强调了 (formal register distinction for Complements Required in BA Sentences)",
+            "老师把三遍重点语法强调了 (colloquial conversational usage for Complements Required in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "动量补语「三遍」必须置于动词及动态助词「了」之后。"
@@ -9860,10 +9860,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列「把」字句中补语类别最丰富、句子结构最严密完整的一项：",
           "options": [
-            "研究员把实验采集到的海量原始数据录入到分析软件中，并把统计结果整理成了五份专题研究报告 (Core concept alternative form)",
-            "研究员把数据录入，把报告整理 (Core concept alternative form)",
-            "研究员录入把数据到软件成报告 (Core concept alternative form)",
-            "研究员把软件录入数据整理 (Core concept alternative form)"
+            "研究员把实验采集到的海量原始数据录入到分析软件中，并把统计结果整理成了五份专题研究报告 (standard target expression for Complements Required in BA Sentences)",
+            "研究员把数据录入，把报告整理 (contextual contrast form in Complements Required in BA Sentences)",
+            "研究员录入把数据到软件成报告 (formal register distinction for Complements Required in BA Sentences)",
+            "研究员把软件录入数据整理 (colloquial conversational usage for Complements Required in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "该句准确运用了「录入到」与「整理成」两大典型介词短语补语，展现了极高学术汉语素养。"
@@ -9927,10 +9927,10 @@
         {
           "prompt": "在「把」字句中，否定副词（没/不/别）和能愿动词（想/能/应该/必须）的正确放置位置是：",
           "options": [
-            "必须放在介词「把」字的前面 (Core concept alternative form)",
-            "必须放在主要谓语动词的后面 (Core concept alternative form)",
-            "必须放在句末 (Core concept alternative form)",
-            "必须放在宾语和动词之间 (Core concept alternative form)"
+            "必须放在介词「把」字的前面 (standard target expression for Negation  Modals   Adverbials in BA Sentences)",
+            "必须放在主要谓语动词的后面 (contextual contrast form in Negation  Modals   Adverbials in BA Sentences)",
+            "必须放在句末 (formal register distinction for Negation  Modals   Adverbials in BA Sentences)",
+            "必须放在宾语和动词之间 (colloquial conversational usage for Negation  Modals   Adverbials in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "否定词和能愿动词必须统一置于「把」字之前。"
@@ -9938,10 +9938,10 @@
         {
           "prompt": "要表达「请不要把垃圾扔在地上」，语序完全正确的一项是：",
           "options": [
-            "请不要把垃圾扔在地上 (Core concept alternative form)",
-            "请把垃圾不要扔在地上 (Core concept alternative form)",
-            "请把不要垃圾扔在地上 (Core concept alternative form)",
-            "请把垃圾扔不要在地上 (Core concept alternative form)"
+            "请不要把垃圾扔在地上 (standard target expression for Negation  Modals   Adverbials in BA Sentences)",
+            "请把垃圾不要扔在地上 (contextual contrast form in Negation  Modals   Adverbials in BA Sentences)",
+            "请把不要垃圾扔在地上 (formal register distinction for Negation  Modals   Adverbials in BA Sentences)",
+            "请把垃圾扔不要在地上 (colloquial conversational usage for Negation  Modals   Adverbials in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "否定词「不要」必须置于「把」字前：不要把垃圾扔在地上。"
@@ -9953,10 +9953,10 @@
         {
           "prompt": "表达「我还没来得及把作业交上去」，下列哪一项语序是完全错误的？",
           "options": [
-            "*我把作业还没来得及交上去 (Core concept alternative form)",
-            "我还没来得及把作业交上去 (Core concept alternative form)",
-            "作业我还没来得及交上去 (Core concept alternative form)",
-            "我还没把作业交上去 (Core concept alternative form)"
+            "*我把作业还没来得及交上去 (standard target expression for Negation  Modals   Adverbials in BA Sentences)",
+            "我还没来得及把作业交上去 (contextual contrast form in Negation  Modals   Adverbials in BA Sentences)",
+            "作业我还没来得及交上去 (formal register distinction for Negation  Modals   Adverbials in BA Sentences)",
+            "我还没把作业交上去 (colloquial conversational usage for Negation  Modals   Adverbials in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "状语「还没来得及」错误放在了「把」字之后，属于典型语病。"
@@ -9964,10 +9964,10 @@
         {
           "prompt": "在句子「我们必须把科研计划按时落实到位」中，能愿动词「必须」修饰的是：",
           "options": [
-            "整个「把科研计划按时落实到位」处置谓词结构 (Core concept alternative form)",
-            "仅仅修饰主语「我们 (Core concept alternative form)",
-            "仅仅修饰宾语「科研计划 (Core concept alternative form)",
-            "修饰数量词 (Core concept alternative form)"
+            "整个「把科研计划按时落实到位」处置谓词结构 (standard target expression for Negation  Modals   Adverbials in BA Sentences)",
+            "仅仅修饰主语「我们 (contextual contrast form in Negation  Modals   Adverbials in BA Sentences)",
+            "仅仅修饰宾语「科研计划 (formal register distinction for Negation  Modals   Adverbials in BA Sentences)",
+            "修饰数量词 (colloquial conversational usage for Negation  Modals   Adverbials in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "能愿动词放在「把」前修饰整个后接的处置谓语短语。"
@@ -9980,10 +9980,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列把字句中否定副词与能愿动词位置最严谨规范的一项：",
           "options": [
-            "青年学者在科研攻关中千万不能把暂时的失败当成放弃的借口，而应该把每一次挫折都化为奋进的动力 (Core concept alternative form)",
-            "青年学者把失败千万不能当成借口 (Core concept alternative form)",
-            "青年学者把挫折应该化为动力 (Core concept alternative form)",
-            "青年学者把暂时的失败当成借口千万不能 (Core concept alternative form)"
+            "青年学者在科研攻关中千万不能把暂时的失败当成放弃的借口，而应该把每一次挫折都化为奋进的动力 (standard target expression for Negation  Modals   Adverbials in BA Sentences)",
+            "青年学者把失败千万不能当成借口 (contextual contrast form in Negation  Modals   Adverbials in BA Sentences)",
+            "青年学者把挫折应该化为动力 (formal register distinction for Negation  Modals   Adverbials in BA Sentences)",
+            "青年学者把暂时的失败当成借口千万不能 (colloquial conversational usage for Negation  Modals   Adverbials in BA Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "该句中「千万不能把......」与「应该把......」完美遵守了否定词和能愿动词置于「把」前的铁律规则。"
@@ -10049,10 +10049,10 @@
         {
           "prompt": "在科研办公综合叙事语篇中，串联「设备校准 -> 数据整理成图表 -> 核心代码备份 -> 报告交付评审」的句式主干是：",
           "options": [
-            "把设备检查一遍 -> 把数据整理成图表 -> 把代码备份到服务器 -> 把报告交给专家组 (Core concept alternative form)",
-            "设备在检查 -> 数据在整理 -> 代码在写 -> 报告在看 (Core concept alternative form)",
-            "不用把字句只用被字句 (Core concept alternative form)",
-            "全篇没有任何动作结果 (Core concept alternative form)"
+            "把设备检查一遍 -> 把数据整理成图表 -> 把代码备份到服务器 -> 把报告交给专家组 (standard target expression for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "设备在检查 -> 数据在整理 -> 代码在写 -> 报告在看 (contextual contrast form in Comprehensive Academic  Office   Life Management BA Narrative)",
+            "不用把字句只用被字句 (formal register distinction for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "全篇没有任何动作结果 (colloquial conversational usage for Comprehensive Academic  Office   Life Management BA Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格运用多重「把」字处置动补链条，高效清晰推进科研流程。"
@@ -10060,10 +10060,10 @@
         {
           "prompt": "语篇中「把每一项细节都做到极致」中的「做到极致」表达的意思是：",
           "options": [
-            "达到最高水平、最完美的境界 (Core concept alternative form)",
-            "马马虎虎应付了事 (Core concept alternative form)",
-            "做到一半就放弃 (Core concept alternative form)",
-            "完全彻底失败 (Core concept alternative form)"
+            "达到最高水平、最完美的境界 (standard target expression for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "马马虎虎应付了事 (contextual contrast form in Comprehensive Academic  Office   Life Management BA Narrative)",
+            "做到一半就放弃 (formal register distinction for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "完全彻底失败 (colloquial conversational usage for Comprehensive Academic  Office   Life Management BA Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「做到极致」是形容精益求精、追求卓越的经典词汇。"
@@ -10075,10 +10075,10 @@
         {
           "prompt": "请选出下列科研协作叙事中「把」字句运用最地道、语序最严谨的一项：",
           "options": [
-            "团队把所有参数校对完毕后，立即把最终成果录入到了系统数据库中 (Core concept alternative form)",
-            "团队把参数校对，把成果系统录入 (Core concept alternative form)",
-            "团队已经把成果录入系统没 (Core concept alternative form)",
-            "团队把系统成果录入 (Core concept alternative form)"
+            "团队把所有参数校对完毕后，立即把最终成果录入到了系统数据库中 (standard target expression for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "团队把参数校对，把成果系统录入 (contextual contrast form in Comprehensive Academic  Office   Life Management BA Narrative)",
+            "团队已经把成果录入系统没 (formal register distinction for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "团队把系统成果录入 (colloquial conversational usage for Comprehensive Academic  Office   Life Management BA Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在动补搭配、时间状语与宾语特指性上均达到了汉语规范的最高要求。"
@@ -10086,10 +10086,10 @@
         {
           "prompt": "在办公叙事中表达把工作责任或物资完整移交出去，最标准的搭配是：",
           "options": [
-            "把文档移交给了新同事 (Core concept alternative form)",
-            "把新同事移交给文档 (Core concept alternative form)",
-            "移交把文档新同事 (Core concept alternative form)",
-            "把文档给新同事移交做 (Core concept alternative form)"
+            "把文档移交给了新同事 (standard target expression for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "把新同事移交给文档 (contextual contrast form in Comprehensive Academic  Office   Life Management BA Narrative)",
+            "移交把文档新同事 (formal register distinction for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "把文档给新同事移交做 (colloquial conversational usage for Comprehensive Academic  Office   Life Management BA Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「把 + 客体 + 移交给 + 接收人」是标准规范的办公交接句型。"
@@ -10102,10 +10102,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科研与办公协作叙事语篇中句式最丰富、动补配合最严谨、思想境界最高远的一项：",
           "options": [
-            "在科研攻关的全流程中，我们始终把严谨求实放在首位。不仅把海量实验数据整理成了条理清晰的学术报告，更把每项技术难关逐一攻克，最终把科技创新的宏伟蓝图转化为了报效国家的现实成果！ (Core concept alternative form)",
-            "科研工作就是做实验，把东西放放，把电脑开开 (Core concept alternative form)",
-            "我们把失败很多，没有把成功做出来 (Core concept alternative form)",
-            "把数据整理，把报告交给 (Core concept alternative form)"
+            "在科研攻关的全流程中，我们始终把严谨求实放在首位。不仅把海量实验数据整理成了条理清晰的学术报告，更把每项技术难关逐一攻克，最终把科技创新的宏伟蓝图转化为了报效国家的现实成果！ (standard target expression for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "科研工作就是做实验，把东西放放，把电脑开开 (contextual contrast form in Comprehensive Academic  Office   Life Management BA Narrative)",
+            "我们把失败很多，没有把成功做出来 (formal register distinction for Comprehensive Academic  Office   Life Management BA Narrative)",
+            "把数据整理，把报告交给 (colloquial conversational usage for Comprehensive Academic  Office   Life Management BA Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在「把」字句多样性、动补搭配精微度以及思想格局上均展现了极高的现代汉语修养。"
@@ -10169,10 +10169,10 @@
         {
           "prompt": "在书面语「被」字句中，关于动作的施事者（动作发出者），下列说明正确的是：",
           "options": [
-            "施事者可以出现，也可以省略 (Core concept alternative form)",
-            "施事者必须强制出现绝对不能省略 (Core concept alternative form)",
-            "施事者必须放在句首 (Core concept alternative form)",
-            "施事者必须是形容词 (Core concept alternative form)"
+            "施事者可以出现，也可以省略 (standard target expression for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "施事者必须强制出现绝对不能省略 (contextual contrast form in The  Bei  Passive Structure   Pragmatic Evolution)",
+            "施事者必须放在句首 (formal register distinction for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "施事者必须是形容词 (colloquial conversational usage for The  Bei  Passive Structure   Pragmatic Evolution)"
           ],
           "answerIndex": 0,
           "explanation": "在书面语「被」字句中，施事者可以根据语境需要出现或省略。"
@@ -10180,10 +10180,10 @@
         {
           "prompt": "下列哪一项「被」字句体现了现代汉语在学术与荣誉表彰领域的积极褒义用法？",
           "options": [
-            "张教授被授予国家杰出科学家荣誉称号 (Core concept alternative form)",
-            "他的自行车被小偷偷了 (Core concept alternative form)",
-            "他的衣服被墨水弄脏了 (Core concept alternative form)",
-            "玻璃杯被风吹碎了 (Core concept alternative form)"
+            "张教授被授予国家杰出科学家荣誉称号 (standard target expression for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "他的自行车被小偷偷了 (contextual contrast form in The  Bei  Passive Structure   Pragmatic Evolution)",
+            "他的衣服被墨水弄脏了 (formal register distinction for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "玻璃杯被风吹碎了 (colloquial conversational usage for The  Bei  Passive Structure   Pragmatic Evolution)"
           ],
           "answerIndex": 0,
           "explanation": "「被授予荣誉称号」是现代汉语中典型的积极褒义被动句用法。"
@@ -10195,10 +10195,10 @@
         {
           "prompt": "要表达「这篇重要学术论文已被顶级期刊正式发表」，最规范严谨的被动句是：",
           "options": [
-            "这篇学术论文已被顶级期刊正式发表 (Core concept alternative form)",
-            "这篇学术论文被发表顶级期刊 (Core concept alternative form)",
-            "顶级期刊这篇学术论文被发表 (Core concept alternative form)",
-            "这篇学术论文被很发表 (Core concept alternative form)"
+            "这篇学术论文已被顶级期刊正式发表 (standard target expression for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "这篇学术论文被发表顶级期刊 (contextual contrast form in The  Bei  Passive Structure   Pragmatic Evolution)",
+            "顶级期刊这篇学术论文被发表 (formal register distinction for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "这篇学术论文被很发表 (colloquial conversational usage for The  Bei  Passive Structure   Pragmatic Evolution)"
           ],
           "answerIndex": 0,
           "explanation": "受事主语在前，被 + 施事者 + 副词 + 动词，结构严谨。"
@@ -10206,10 +10206,10 @@
         {
           "prompt": "在句子「会议被推迟到下周举行」中，施事者被省略的原因是：",
           "options": [
-            "施事者在语境中显而易见或重点在于突出「会议推迟」这一客观结果 (Core concept alternative form)",
-            "因为汉语不能表达人 (Core concept alternative form)",
-            "因为打字太累了 (Core concept alternative form)",
-            "因为动词不能带施事 (Core concept alternative form)"
+            "施事者在语境中显而易见或重点在于突出「会议推迟」这一客观结果 (standard target expression for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "因为汉语不能表达人 (contextual contrast form in The  Bei  Passive Structure   Pragmatic Evolution)",
+            "因为打字太累了 (formal register distinction for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "因为动词不能带施事 (colloquial conversational usage for The  Bei  Passive Structure   Pragmatic Evolution)"
           ],
           "answerIndex": 0,
           "explanation": "省略施事者能够更好地将语义焦点置于受事对象及其结果状态上。"
@@ -10222,10 +10222,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列「被」字句中主受关系最清晰、动补搭配最严谨、语体最得体的一项：",
           "options": [
-            "经过严格的资质审查与全员无记名投票，李博士被全体代表一致推选为新一届学术委员会主席 (Core concept alternative form)",
-            "李博士被推选 (Core concept alternative form)",
-            "全体代表被李博士推选为主席 (Core concept alternative form)",
-            "李博士被学术委员会推选很 (Core concept alternative form)"
+            "经过严格的资质审查与全员无记名投票，李博士被全体代表一致推选为新一届学术委员会主席 (standard target expression for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "李博士被推选 (contextual contrast form in The  Bei  Passive Structure   Pragmatic Evolution)",
+            "全体代表被李博士推选为主席 (formal register distinction for The  Bei  Passive Structure   Pragmatic Evolution)",
+            "李博士被学术委员会推选很 (colloquial conversational usage for The  Bei  Passive Structure   Pragmatic Evolution)"
           ],
           "answerIndex": 0,
           "explanation": "该句在受事主语、施事者「全体代表」、修饰语及结果补语的配合上达到了现代汉语的最高规范。"
@@ -10289,10 +10289,10 @@
         {
           "prompt": "在现代汉语口语中，使用介词「叫」或「让」构成被动句时，施事者（动作发出者）的规则是：",
           "options": [
-            "施事者必须强制出现，绝对不能省略 (Core concept alternative form)",
-            "施事者可以随时省略 (Core concept alternative form)",
-            "施事者必须放在句首 (Core concept alternative form)",
-            "施事者只能是代词 (Core concept alternative form)"
+            "施事者必须强制出现，绝对不能省略 (standard target expression for Colloquial   Formal Passive Markers)",
+            "施事者可以随时省略 (contextual contrast form in Colloquial   Formal Passive Markers)",
+            "施事者必须放在句首 (formal register distinction for Colloquial   Formal Passive Markers)",
+            "施事者只能是代词 (colloquial conversational usage for Colloquial   Formal Passive Markers)"
           ],
           "answerIndex": 0,
           "explanation": "「叫/让」构成被动句时，施事者绝对不可省略（必须说「叫谁偷了 / 让风吹了」）。"
@@ -10300,10 +10300,10 @@
         {
           "prompt": "在庄重的书面语中，表达「他的高尚品德被全世界人民所称赞」最典雅的书面语被动范式是：",
           "options": [
-            "为世人所称赞 (Core concept alternative form)",
-            "叫世人称赞 (Core concept alternative form)",
-            "让世人给称赞了 (Core concept alternative form)",
-            "被世人弄称赞了 (Core concept alternative form)"
+            "为世人所称赞 (standard target expression for Colloquial   Formal Passive Markers)",
+            "叫世人称赞 (contextual contrast form in Colloquial   Formal Passive Markers)",
+            "让世人给称赞了 (formal register distinction for Colloquial   Formal Passive Markers)",
+            "被世人弄称赞了 (colloquial conversational usage for Colloquial   Formal Passive Markers)"
           ],
           "answerIndex": 0,
           "explanation": "「为......所......」是现代汉语中继承自古汉语的典雅书面语被动结构。"
@@ -10315,10 +10315,10 @@
         {
           "prompt": "在公文与法律文书中表达「由有关部门给予批准」，最地道的词汇搭配是：",
           "options": [
-            "由主管部门予以批准 (Core concept key phrasing)",
-            "叫主管部门给批准了 (Core concept alternative form)",
-            "让主管部门批准一下 (Core concept alternative form)",
-            "被主管部门批准做 (Core concept alternative form)"
+            "由主管部门予以批准 (standard target expression for Colloquial   Formal Passive Markers)",
+            "叫主管部门给批准了 (contextual contrast form in Colloquial   Formal Passive Markers)",
+            "让主管部门批准一下 (formal register distinction for Colloquial   Formal Passive Markers)",
+            "被主管部门批准做 (colloquial conversational usage for Colloquial   Formal Passive Markers)"
           ],
           "answerIndex": 0,
           "explanation": "「由主管部门予以批准」是公文行政中最标准的规范表达。"
@@ -10326,10 +10326,10 @@
         {
           "prompt": "下列哪一个口语被动句犯了「在叫/让句中错误省略施事者」的语法病句？",
           "options": [
-            "*我的雨伞叫拿走了 (Core concept alternative form)",
-            "我的雨伞叫同桌给拿走了 (Core concept alternative form)",
-            "我的雨伞让大风吹坏了 (Core concept alternative form)",
-            "我的雨伞被拿走了 (Core concept alternative form)"
+            "*我的雨伞叫拿走了 (standard target expression for Colloquial   Formal Passive Markers)",
+            "我的雨伞叫同桌给拿走了 (contextual contrast form in Colloquial   Formal Passive Markers)",
+            "我的雨伞让大风吹坏了 (formal register distinction for Colloquial   Formal Passive Markers)",
+            "我的雨伞被拿走了 (colloquial conversational usage for Colloquial   Formal Passive Markers)"
           ],
           "answerIndex": 0,
           "explanation": "「叫」后缺少施事者，应改为「叫人拿走了」或使用「被拿走了」。"
@@ -10342,10 +10342,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列公文与学术被动句中语体风格最典雅庄重、语法结构最严谨的一项：",
           "options": [
-            "该项重大前沿科技攻关方案已由国家专家评审委员会严格审定，并由科研发展基金予以全额立项资助 (Core concept alternative form)",
-            "这个项目让专家给看了，叫国家给钱了 (Core concept alternative form)",
-            "项目被搞好了由很多人 (Core concept alternative form)",
-            "方案为专家予以批准叫委员会 (Core concept alternative form)"
+            "该项重大前沿科技攻关方案已由国家专家评审委员会严格审定，并由科研发展基金予以全额立项资助 (standard target expression for Colloquial   Formal Passive Markers)",
+            "这个项目让专家给看了，叫国家给钱了 (contextual contrast form in Colloquial   Formal Passive Markers)",
+            "项目被搞好了由很多人 (formal register distinction for Colloquial   Formal Passive Markers)",
+            "方案为专家予以批准叫委员会 (colloquial conversational usage for Colloquial   Formal Passive Markers)"
           ],
           "answerIndex": 0,
           "explanation": "该句在公文被动标记「由......审定」与「予以全额立项资助」的使用上展现了极高的公文写作规范。"
@@ -10413,10 +10413,10 @@
         {
           "prompt": "要表达「晚饭已经准备妥当，可以开饭了」，最地道自然的现代汉语表达是：",
           "options": [
-            "晚饭做好了，大家快来吃吧 (Core concept alternative form)",
-            "晚饭被做好了，大家快来吃吧 (Core concept alternative form)",
-            "晚饭被妈妈做好了大家吃 (Core concept alternative form)",
-            "大家被晚饭做好了 (Core concept alternative form)"
+            "晚饭做好了，大家快来吃吧 (standard target expression for Notional Passives vs Explicit Bei)",
+            "晚饭被做好了，大家快来吃吧 (contextual contrast form in Notional Passives vs Explicit Bei)",
+            "晚饭被妈妈做好了大家吃 (formal register distinction for Notional Passives vs Explicit Bei)",
+            "大家被晚饭做好了 (colloquial conversational usage for Notional Passives vs Explicit Bei)"
           ],
           "answerIndex": 0,
           "explanation": "「晚饭做好了」是典型的受事主语句，地道自然，绝不可滥加「被」字。"
@@ -10424,10 +10424,10 @@
         {
           "prompt": "下列哪一项属于典型的「欧化被动语法病句（滥用被字句）」？",
           "options": [
-            "*这杯水被我喝完了 (Core concept alternative form)",
-            "这杯水我喝完了 (Core concept key phrasing)",
-            "水喝光了 (Core concept alternative form)",
-            "服务员端来了一杯水 (Core concept alternative form)"
+            "*这杯水被我喝完了 (standard target expression for Notional Passives vs Explicit Bei)",
+            "这杯水我喝完了 (contextual contrast form in Notional Passives vs Explicit Bei)",
+            "水喝光了 (formal register distinction for Notional Passives vs Explicit Bei)",
+            "服务员端来了一杯水 (colloquial conversational usage for Notional Passives vs Explicit Bei)"
           ],
           "answerIndex": 0,
           "explanation": "普通饮水动作应用「这杯水我喝完了」或受事主语句，滥加「被」属于欧化病句。"
@@ -10439,10 +10439,10 @@
         {
           "prompt": "关于意义被动句（受事主语句）的主语特征，下列说明完全正确的是：",
           "options": [
-            "主语通常是无生命的物品或事项，在逻辑上是动作的承受者 (Core concept alternative form)",
-            "主语必须是有生命的动物或人 (Core concept alternative form)",
-            "主语必须是能愿动词 (Core concept alternative form)",
-            "句子必须强制带有「被」字 (Core concept alternative form)"
+            "主语通常是无生命的物品或事项，在逻辑上是动作的承受者 (standard target expression for Notional Passives vs Explicit Bei)",
+            "主语必须是有生命的动物或人 (contextual contrast form in Notional Passives vs Explicit Bei)",
+            "主语必须是能愿动词 (formal register distinction for Notional Passives vs Explicit Bei)",
+            "句子必须强制带有「被」字 (colloquial conversational usage for Notional Passives vs Explicit Bei)"
           ],
           "answerIndex": 0,
           "explanation": "无生命受事主语与动补结构的搭配构成了汉语经典的受事主语句。"
@@ -10450,10 +10450,10 @@
         {
           "prompt": "下列哪一个句子是地道规范的受事主语句？",
           "options": [
-            "房间打扫干净了，被褥也换新了 (Core concept alternative form)",
-            "房间被小明打扫干净了，被褥被换新了 (Core concept alternative form)",
-            "小明把房间被打扫干净了 (Core concept alternative form)",
-            "房间打扫在小明 (Core concept alternative form)"
+            "房间打扫干净了，被褥也换新了 (standard target expression for Notional Passives vs Explicit Bei)",
+            "房间被小明打扫干净了，被褥被换新了 (contextual contrast form in Notional Passives vs Explicit Bei)",
+            "小明把房间被打扫干净了 (formal register distinction for Notional Passives vs Explicit Bei)",
+            "房间打扫在小明 (colloquial conversational usage for Notional Passives vs Explicit Bei)"
           ],
           "answerIndex": 0,
           "explanation": "「房间打扫干净了」受事为主语，动词后带补语，表意极其地道利落。"
@@ -10466,10 +10466,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中语言最地道纯正、毫无欧化翻译腔的一项：",
           "options": [
-            "实验报告已经校对完毕并打印出来了，随时可以交给导师审阅 (Core concept alternative form)",
-            "实验报告被校对完毕了并且被打印出来了 (Core concept alternative form)",
-            "导师被实验报告校对完了 (Core concept alternative form)",
-            "实验报告被打印在电脑 (Core concept alternative form)"
+            "实验报告已经校对完毕并打印出来了，随时可以交给导师审阅 (standard target expression for Notional Passives vs Explicit Bei)",
+            "实验报告被校对完毕了并且被打印出来了 (contextual contrast form in Notional Passives vs Explicit Bei)",
+            "导师被实验报告校对完了 (formal register distinction for Notional Passives vs Explicit Bei)",
+            "实验报告被打印在电脑 (colloquial conversational usage for Notional Passives vs Explicit Bei)"
           ],
           "answerIndex": 0,
           "explanation": "该句准确使用受事主语句交代实验报告的完成状态，完全摆脱了欧化被动痕迹，纯正自然。"
@@ -10537,10 +10537,10 @@
         {
           "prompt": "在「被」字句中，否定副词（没/不/别）和能愿动词（能/会/应该/必须）的正确语法位置是：",
           "options": [
-            "必须一律置于介词「被」字的前面 (Core concept alternative form)",
-            "必须置于主要动词的后面 (Core concept alternative form)",
-            "必须置于句末 (Core concept alternative form)",
-            "必须置于施事者和动词之间 (Core concept alternative form)"
+            "必须一律置于介词「被」字的前面 (standard target expression for Adverbials  Negation   Modals in BEI Sentences)",
+            "必须置于主要动词的后面 (contextual contrast form in Adverbials  Negation   Modals in BEI Sentences)",
+            "必须置于句末 (formal register distinction for Adverbials  Negation   Modals in BEI Sentences)",
+            "必须置于施事者和动词之间 (colloquial conversational usage for Adverbials  Negation   Modals in BEI Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "否定词与能愿动词必须统一置于「被」字之前。"
@@ -10548,10 +10548,10 @@
         {
           "prompt": "要表达「真正的学术真理永远不会被谎言所掩盖」，语序完全正确的一项是：",
           "options": [
-            "真理永远不会被谎言所掩盖 (Core concept alternative form)",
-            "真理被谎言永远不会掩盖 (Core concept alternative form)",
-            "真理被不会谎言掩盖 (Core concept alternative form)",
-            "真理谎言被不会所掩盖 (Core concept alternative form)"
+            "真理永远不会被谎言所掩盖 (standard target expression for Adverbials  Negation   Modals in BEI Sentences)",
+            "真理被谎言永远不会掩盖 (contextual contrast form in Adverbials  Negation   Modals in BEI Sentences)",
+            "真理被不会谎言掩盖 (formal register distinction for Adverbials  Negation   Modals in BEI Sentences)",
+            "真理谎言被不会所掩盖 (colloquial conversational usage for Adverbials  Negation   Modals in BEI Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "否定能愿词组「不会」必须置于「被」字前：不会被谎言所掩盖。"
@@ -10563,10 +10563,10 @@
         {
           "prompt": "下列哪一项「被」字句中的否定词位置是完全错误的病句？",
           "options": [
-            "*这台仪器被工程师没有修好 (Core concept alternative form)",
-            "这台仪器没有被工程师修好 (Core concept alternative form)",
-            "这台仪器还没修好 (Core concept alternative form)",
-            "工程师没有把这台仪器修好 (Core concept alternative form)"
+            "*这台仪器被工程师没有修好 (standard target expression for Adverbials  Negation   Modals in BEI Sentences)",
+            "这台仪器没有被工程师修好 (contextual contrast form in Adverbials  Negation   Modals in BEI Sentences)",
+            "这台仪器还没修好 (formal register distinction for Adverbials  Negation   Modals in BEI Sentences)",
+            "工程师没有把这台仪器修好 (colloquial conversational usage for Adverbials  Negation   Modals in BEI Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "否定词「没有」错误置于「被」字之后，应改为「没有被工程师修好」。"
@@ -10574,10 +10574,10 @@
         {
           "prompt": "在句子「这项创新技术应该被广泛推广到基层」中，能愿动词「应该」修饰的是：",
           "options": [
-            "整个后接的被动谓语短语「被广泛推广到基层 (Core concept alternative form)",
-            "仅仅修饰主语「这项创新技术 (Core concept alternative form)",
-            "仅仅修饰介词「被 (Core concept alternative form)",
-            "修饰名词「基层 (Core concept alternative form)"
+            "整个后接的被动谓语短语「被广泛推广到基层 (standard target expression for Adverbials  Negation   Modals in BEI Sentences)",
+            "仅仅修饰主语「这项创新技术 (contextual contrast form in Adverbials  Negation   Modals in BEI Sentences)",
+            "仅仅修饰介词「被 (formal register distinction for Adverbials  Negation   Modals in BEI Sentences)",
+            "修饰名词「基层 (colloquial conversational usage for Adverbials  Negation   Modals in BEI Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "能愿动词置于「被」前，充当全句的状语修饰整个被动谓语短语。"
@@ -10590,10 +10590,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中否定词与能愿动词位置最规范、论述最严密的一项：",
           "options": [
-            "任何具有前瞻性的科研探索都不应该被短期的功利思想所束缚，而必须被赋予充分的探索自由 (Core concept alternative form)",
-            "科研探索被短期的功利思想不应该束缚 (Core concept alternative form)",
-            "探索被必须赋予自由 (Core concept alternative form)",
-            "科研探索被功利思想束缚不应该 (Core concept alternative form)"
+            "任何具有前瞻性的科研探索都不应该被短期的功利思想所束缚，而必须被赋予充分的探索自由 (standard target expression for Adverbials  Negation   Modals in BEI Sentences)",
+            "科研探索被短期的功利思想不应该束缚 (contextual contrast form in Adverbials  Negation   Modals in BEI Sentences)",
+            "探索被必须赋予自由 (formal register distinction for Adverbials  Negation   Modals in BEI Sentences)",
+            "科研探索被功利思想束缚不应该 (colloquial conversational usage for Adverbials  Negation   Modals in BEI Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "该句中「不应该被......」与「必须被......」精准契合了现代汉语被动句状语前置的铁律规则。"
@@ -10659,10 +10659,10 @@
         {
           "prompt": "在科技表彰综合叙事语篇中，串联「成果被媒体报道 -> 难关被攻克 -> 专家被授予奖章 -> 精神为历史所铭记」的逻辑主线是：",
           "options": [
-            "被争相报道 -> 难关被彻底攻克 -> 被授予功勋奖章 -> 为共和国历史所深切铭记 (Core concept alternative form)",
-            "大家都不关心 -> 难关自己解决了 -> 没有奖章 -> 谁也记不住 (Core concept alternative form)",
-            "只用把字句不用任何被动句 (Core concept alternative form)",
-            "全篇全是病句 (Core concept alternative form)"
+            "被争相报道 -> 难关被彻底攻克 -> 被授予功勋奖章 -> 为共和国历史所深切铭记 (standard target expression for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "大家都不关心 -> 难关自己解决了 -> 没有奖章 -> 谁也记不住 (contextual contrast form in Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "只用把字句不用任何被动句 (formal register distinction for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "全篇全是病句 (colloquial conversational usage for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格融合显性「被」字句与书面语「为......所......」，气魄宏大。"
@@ -10670,10 +10670,10 @@
         {
           "prompt": "语篇中「推选为时代楷模」中的「楷模」意思是：",
           "options": [
-            "值得全社会学习的崇高榜样与模范人物 (Core concept alternative form)",
-            "普通路人 (Core concept alternative form)",
-            "反面典型 (Core concept alternative form)",
-            "毫无作为的人 (Core concept alternative form)"
+            "值得全社会学习的崇高榜样与模范人物 (standard target expression for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "普通路人 (contextual contrast form in Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "反面典型 (formal register distinction for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "毫无作为的人 (colloquial conversational usage for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「楷模」是形容具有崇高品德与卓越功勋、堪为世人典范的核心成语词汇。"
@@ -10685,10 +10685,10 @@
         {
           "prompt": "请选出下列荣誉表彰叙事中被动句式融合最典范、文采最斐然的一项：",
           "options": [
-            "科研团队攻克的重大成果不仅被国际顶刊录用，其核心负责人更被授予国家最高荣誉，其奉献精神将永远为后世所铭记 (Core concept alternative form)",
-            "成果被搞出来了，专家被给钱了 (Core concept alternative form)",
-            "团队被国际顶刊录用在成果 (Core concept alternative form)",
-            "为后世所铭记被奉献精神 (Core concept alternative form)"
+            "科研团队攻克的重大成果不仅被国际顶刊录用，其核心负责人更被授予国家最高荣誉，其奉献精神将永远为后世所铭记 (standard target expression for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "成果被搞出来了，专家被给钱了 (contextual contrast form in Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "团队被国际顶刊录用在成果 (formal register distinction for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "为后世所铭记被奉献精神 (colloquial conversational usage for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在多种被动句式的切换、动补配合及公文典雅度上达到了最高标准。"
@@ -10696,10 +10696,10 @@
         {
           "prompt": "在历史叙事中表达某事物的深远影响将被后人代代传唱颂扬，最典雅的四字成语是：",
           "options": [
-            "代代传颂 / 传为佳话 (Core concept alternative form)",
-            "无人问津 (Core concept alternative form)",
-            "销声匿迹 (Core concept alternative form)",
-            "过眼云烟 (Core concept alternative form)"
+            "代代传颂 / 传为佳话 (standard target expression for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "无人问津 (contextual contrast form in Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "销声匿迹 (formal register distinction for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "过眼云烟 (colloquial conversational usage for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「代代传颂」是表达历史功勋与精神代代相传的典范成语。"
@@ -10712,10 +10712,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术表彰与科技荣光综合叙事语篇中句法最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "在国家科技攻关的壮阔征程中，无数颠覆性难题被青年科学家团队彻底攻克。他们不仅被授予共和国最高科学技术奖章，其卓越成果更是被全社会广泛应用转化。这种科技报国的无私情怀，必将永远为伟大历史所深切铭记，为亿万人民所由衷敬仰！ (Core concept alternative form)",
-            "大家做了很多实验，被发了奖金，大家都很高兴 (Core concept alternative form)",
-            "难题被攻克在青年科学家，被授予奖章有很多 (Core concept alternative form)",
-            "为历史所铭记在奖章被给予 (Core concept alternative form)"
+            "在国家科技攻关的壮阔征程中，无数颠覆性难题被青年科学家团队彻底攻克。他们不仅被授予共和国最高科学技术奖章，其卓越成果更是被全社会广泛应用转化。这种科技报国的无私情怀，必将永远为伟大历史所深切铭记，为亿万人民所由衷敬仰！ (standard target expression for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "大家做了很多实验，被发了奖金，大家都很高兴 (contextual contrast form in Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "难题被攻克在青年科学家，被授予奖章有很多 (formal register distinction for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)",
+            "为历史所铭记在奖章被给予 (colloquial conversational usage for Comprehensive Academic Honors  Historical Legacy   Passive Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在被动语态体系的综合驾驭、思想立意的高度与词章文采上均达到了现代汉语的最高境界。"
@@ -10779,10 +10779,10 @@
         {
           "prompt": "在表达「事情不仅做完了，而且完全准备妥当、令人满意」时，最准确的结果补语是：",
           "options": [
-            "做好 / 准备好 (Core concept alternative form)",
-            "做完 (Core concept alternative form)",
-            "做到 (Core concept alternative form)",
-            "做懂 (Core concept alternative form)"
+            "做好 / 准备好 (standard target expression for High Frequency Resultative Complements)",
+            "做完 (contextual contrast form in High Frequency Resultative Complements)",
+            "做到 (formal register distinction for High Frequency Resultative Complements)",
+            "做懂 (colloquial conversational usage for High Frequency Resultative Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「好」作结果补语强调动作达到完善、妥当、就绪的标准。"
@@ -10790,10 +10790,10 @@
         {
           "prompt": "对结果补语短语「听懂了」进行否定时，完全符合汉语语法规范的形式是：",
           "options": [
-            "没听懂 (Core concept key phrasing)",
-            "听没懂 (Core concept alternative form)",
-            "不听懂 (Core concept alternative form)",
-            "听懂不 (Core concept alternative form)"
+            "没听懂 (standard target expression for High Frequency Resultative Complements)",
+            "听没懂 (contextual contrast form in High Frequency Resultative Complements)",
+            "不听懂 (formal register distinction for High Frequency Resultative Complements)",
+            "听懂不 (colloquial conversational usage for High Frequency Resultative Complements)"
           ],
           "answerIndex": 0,
           "explanation": "结果补语的否定必须在动词前加「没 / 没有」：没听懂。"
@@ -10805,10 +10805,10 @@
         {
           "prompt": "表达通过感官看而识别、理解其深层含义时，最精准的动补组合是：",
           "options": [
-            "看懂 (Core concept key phrasing)",
-            "看见 (Core concept key phrasing)",
-            "看完 (Core concept alternative form)",
-            "看到 (Core concept alternative form)"
+            "看懂 (standard target expression for High Frequency Resultative Complements)",
+            "看见 (contextual contrast form in High Frequency Resultative Complements)",
+            "看完 (formal register distinction for High Frequency Resultative Complements)",
+            "看到 (colloquial conversational usage for High Frequency Resultative Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「看懂」强调领会理解，「看见」仅强调感官接触到图像。"
@@ -10816,10 +10816,10 @@
         {
           "prompt": "下列哪一项动补短语表达了「将旧习惯或错误记忆彻底消除」？",
           "options": [
-            "忘掉 / 改掉 (Core concept alternative form)",
-            "忘完 (Core concept alternative form)",
-            "改好成 (Core concept alternative form)",
-            "改到 (Core concept alternative form)"
+            "忘掉 / 改掉 (standard target expression for High Frequency Resultative Complements)",
+            "忘完 (contextual contrast form in High Frequency Resultative Complements)",
+            "改好成 (formal register distinction for High Frequency Resultative Complements)",
+            "改到 (colloquial conversational usage for High Frequency Resultative Complements)"
           ],
           "answerIndex": 0,
           "explanation": "「掉」作为结果补语常表示消除、去掉、脱落（如忘掉、改掉毛病）。"
@@ -10832,10 +10832,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中结果补语搭配最精准、语义毫无歧义的一项：",
           "options": [
-            "研究人员经过通宵达旦的计算，终于把核心算法中的逻辑错误全部纠正过来了，所有测试数据也都核对完毕了 (Core concept alternative form)",
-            "研究人员把错误算懂了，数据算成完 (Core concept alternative form)",
-            "数据被核对在电脑没 (Core concept alternative form)",
-            "逻辑错误纠正在算法 (Core concept alternative form)"
+            "研究人员经过通宵达旦的计算，终于把核心算法中的逻辑错误全部纠正过来了，所有测试数据也都核对完毕了 (standard target expression for High Frequency Resultative Complements)",
+            "研究人员把错误算懂了，数据算成完 (contextual contrast form in High Frequency Resultative Complements)",
+            "数据被核对在电脑没 (formal register distinction for High Frequency Resultative Complements)",
+            "逻辑错误纠正在算法 (colloquial conversational usage for High Frequency Resultative Complements)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在结果补语「纠正过来」与「核对完毕」的搭配上展现了极高精度的学术汉语规范。"
@@ -10899,10 +10899,10 @@
         {
           "prompt": "在趋向补语中，当宾语是表示地点的处所名词（如「教室/图书馆/家」）时，其绝对位置是：",
           "options": [
-            "必须强制放在单纯趋向补语「来 / 去」的前面 (Core concept alternative form)",
-            "必须放在「来 / 去」的后面 (Core concept alternative form)",
-            "必须放在句首主语前面 (Core concept alternative form)",
-            "可以随意放在任何位置 (Core concept alternative form)"
+            "必须强制放在单纯趋向补语「来 / 去」的前面 (standard target expression for Simple   Compound Directional Complements   Object Placement)",
+            "必须放在「来 / 去」的后面 (contextual contrast form in Simple   Compound Directional Complements   Object Placement)",
+            "必须放在句首主语前面 (formal register distinction for Simple   Compound Directional Complements   Object Placement)",
+            "可以随意放在任何位置 (colloquial conversational usage for Simple   Compound Directional Complements   Object Placement)"
           ],
           "answerIndex": 0,
           "explanation": "处所宾语必须放在「来/去」之前（如：进教室来、回宿舍去）。"
@@ -10910,10 +10910,10 @@
         {
           "prompt": "下列哪一个趋向补语句子犯了「处所宾语错误置于来/去之后」的严重语法病句？",
           "options": [
-            "*他走进来教室 (Core concept alternative form)",
-            "他走进教室来 (Core concept alternative form)",
-            "他走进教室去了 (Core concept alternative form)",
-            "他走进图书馆去了 (Core concept alternative form)"
+            "*他走进来教室 (standard target expression for Simple   Compound Directional Complements   Object Placement)",
+            "他走进教室来 (contextual contrast form in Simple   Compound Directional Complements   Object Placement)",
+            "他走进教室去了 (formal register distinction for Simple   Compound Directional Complements   Object Placement)",
+            "他走进图书馆去了 (colloquial conversational usage for Simple   Compound Directional Complements   Object Placement)"
           ],
           "answerIndex": 0,
           "explanation": "地点「教室」错误放在了「来」之后，必须改为「走进教室来」。"
@@ -10925,10 +10925,10 @@
         {
           "prompt": "要表达「请从书包里拿出一本书」，下列哪一种语序是完全允许且地道的？",
           "options": [
-            "拿出一本书来 / 拿出来一本书 (Core concept alternative form)",
-            "拿出一本书去来 (Core concept alternative form)",
-            "来拿出一本书 (Core concept alternative form)",
-            "拿书出一本去 (Core concept alternative form)"
+            "拿出一本书来 / 拿出来一本书 (standard target expression for Simple   Compound Directional Complements   Object Placement)",
+            "拿出一本书去来 (contextual contrast form in Simple   Compound Directional Complements   Object Placement)",
+            "来拿出一本书 (formal register distinction for Simple   Compound Directional Complements   Object Placement)",
+            "拿书出一本去 (colloquial conversational usage for Simple   Compound Directional Complements   Object Placement)"
           ],
           "answerIndex": 0,
           "explanation": "事物宾语既可以放在复合趋向补语中间（拿出一本书来），也可放在其后（拿出来一本书）。"
@@ -10936,10 +10936,10 @@
         {
           "prompt": "在句子「大家快上楼来，会议马上开始了」中，说话人当前所处的物理空间位置是：",
           "options": [
-            "说话人正在楼上 (Core concept alternative form)",
-            "说话人正在楼下 (Core concept alternative form)",
-            "说话人在大门外 (Core concept alternative form)",
-            "说话人在地下室 (Core concept alternative form)"
+            "说话人正在楼上 (standard target expression for Simple   Compound Directional Complements   Object Placement)",
+            "说话人正在楼下 (contextual contrast form in Simple   Compound Directional Complements   Object Placement)",
+            "说话人在大门外 (formal register distinction for Simple   Compound Directional Complements   Object Placement)",
+            "说话人在地下室 (colloquial conversational usage for Simple   Compound Directional Complements   Object Placement)"
           ],
           "answerIndex": 0,
           "explanation": "「上......来」表明说话人自身位于楼上，动作向着说话人方向移动。"
@@ -10952,10 +10952,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列趋向补语句子中处所宾语与视点基准运用完全合规的一项：",
           "options": [
-            "教授刚走进会议室来，所有参会的青年学者们便立刻站起身来热烈鼓掌 (Core concept alternative form)",
-            "教授刚走进来会议室，大家站起来 (Core concept alternative form)",
-            "教授走进在会议室去来 (Core concept alternative form)",
-            "会议室走进教授来 (Core concept alternative form)"
+            "教授刚走进会议室来，所有参会的青年学者们便立刻站起身来热烈鼓掌 (standard target expression for Simple   Compound Directional Complements   Object Placement)",
+            "教授刚走进来会议室，大家站起来 (contextual contrast form in Simple   Compound Directional Complements   Object Placement)",
+            "教授走进在会议室去来 (formal register distinction for Simple   Compound Directional Complements   Object Placement)",
+            "会议室走进教授来 (colloquial conversational usage for Simple   Compound Directional Complements   Object Placement)"
           ],
           "answerIndex": 0,
           "explanation": "「走进会议室来」完美遵守了处所宾语置于「来」前的铁律规则。"
@@ -11019,10 +11019,10 @@
         {
           "prompt": "在句子「会议室里突然热烈讨论起来」中，「起来」充当补语表达的引申义是：",
           "options": [
-            "动作或状态的开始并持续进行 (qlai U18)",
-            "身体从座位上站立起来 (qlai U18)",
-            "把物品藏起来 (qlai U18)",
-            "从记忆中回忆提取 (qlai U18)"
+            "动作或状态的开始并持续进行 (standard target expression for Extended Meanings of  Qilai)",
+            "身体从座位上站立起来 (contextual contrast form in Extended Meanings of  Qilai)",
+            "把物品藏起来 (formal register distinction for Extended Meanings of  Qilai)",
+            "从记忆中回忆提取 (colloquial conversational usage for Extended Meanings of  Qilai)"
           ],
           "answerIndex": 0,
           "explanation": "「讨论起来」表示动作由静止转为开始发生并持续进行。"
@@ -11030,10 +11030,10 @@
         {
           "prompt": "在句子「这篇文言文读起来朗朗上口」中，「读起来」中「起来」表达的引申义是：",
           "options": [
-            "从特定角度进行感知、体验与主观评估 (qlai U18)",
-            "由分散变为集中 (qlai U18)",
-            "从睡梦中醒来 (qlai U18)",
-            "物理空间向上位移 (qlai U18)"
+            "从特定角度进行感知、体验与主观评估 (standard target expression for Extended Meanings of  Qilai)",
+            "由分散变为集中 (contextual contrast form in Extended Meanings of  Qilai)",
+            "从睡梦中醒来 (formal register distinction for Extended Meanings of  Qilai)",
+            "物理空间向上位移 (colloquial conversational usage for Extended Meanings of  Qilai)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 起来 + 形容词」表示在实施该动作时的感知与主观评估。"
@@ -11045,10 +11045,10 @@
         {
           "prompt": "要表达「把散落在桌子上的各类实验试剂集中收拢保存」，最贴切的动补搭配是：",
           "options": [
-            "整理起来 / 收集起来 (qlai U18)",
-            "整理出来 (qlai U18)",
-            "整理下去 (qlai U18)",
-            "整理过去 (qlai U18)"
+            "整理起来 / 收集起来 (standard target expression for Extended Meanings of  Qilai)",
+            "整理出来 (contextual contrast form in Extended Meanings of  Qilai)",
+            "整理下去 (formal register distinction for Extended Meanings of  Qilai)",
+            "整理过去 (colloquial conversational usage for Extended Meanings of  Qilai)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 起来」可表达使事物由分散状态转变为集中收拢状态。"
@@ -11056,10 +11056,10 @@
         {
           "prompt": "在句子「我想起来当初保存文档的文件名了」中，「想起来」表达的意思是：",
           "options": [
-            "从记忆深处成功检索回忆起已知信息 (qlai U18)",
-            "凭空发明创造了一个名字 (qlai U18)",
-            "正在思考但没有结果 (qlai U18)",
-            "彻底忘记了 (qlai U18)"
+            "从记忆深处成功检索回忆起已知信息 (standard target expression for Extended Meanings of  Qilai)",
+            "凭空发明创造了一个名字 (contextual contrast form in Extended Meanings of  Qilai)",
+            "正在思考但没有结果 (formal register distinction for Extended Meanings of  Qilai)",
+            "彻底忘记了 (colloquial conversational usage for Extended Meanings of  Qilai)"
           ],
           "answerIndex": 0,
           "explanation": "「想起来」表示记忆中原有信息的成功提取检索。"
@@ -11072,10 +11072,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中「起来」引申义运用最地道、句式最典范的一项：",
           "options": [
-            "大家把历年积累的宝贵科研经验系统地总结了起来，这项新技术应用起来不仅高效便捷，而且推广起来也极其顺畅 (qlai U18)",
-            "大家把经验站起来，技术看起来很起来 (qlai U18)",
-            "科研经验被起来在总结 (qlai U18)",
-            "经验起来总结技术 (qlai U18)"
+            "大家把历年积累的宝贵科研经验系统地总结了起来，这项新技术应用起来不仅高效便捷，而且推广起来也极其顺畅 (standard target expression for Extended Meanings of  Qilai)",
+            "大家把经验站起来，技术看起来很起来 (contextual contrast form in Extended Meanings of  Qilai)",
+            "科研经验被起来在总结 (formal register distinction for Extended Meanings of  Qilai)",
+            "经验起来总结技术 (colloquial conversational usage for Extended Meanings of  Qilai)"
           ],
           "answerIndex": 0,
           "explanation": "该句精准融合了「总结起来（收拢归纳）」与「应用起来/推广起来（主观评估）」两大高阶引申义。"
@@ -11139,10 +11139,10 @@
         {
           "prompt": "在表达「科学家克服重重困难，成功发明创新出一款新型软件」时，最准确的复合趋向补语是：",
           "options": [
-            "研发出来 / 创造出来 (Core concept alternative form)",
-            "研发下去 (Core concept alternative form)",
-            "研发下来 (Core concept alternative form)",
-            "研发过来 (Core concept alternative form)"
+            "研发出来 / 创造出来 (standard target expression for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "研发下去 (contextual contrast form in Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "研发下来 (formal register distinction for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "研发过来 (colloquial conversational usage for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)"
           ],
           "answerIndex": 0,
           "explanation": "「出来」表示动作使事物从无到有产生与实现。"
@@ -11150,10 +11150,10 @@
         {
           "prompt": "在表达「无论多么艰难，我们都必须把这项伟大的事业坚定进行到底」时，最准确的趋向补语是：",
           "options": [
-            "坚持下去 / 进行下去 (Core concept alternative form)",
-            "坚持出来 (Core concept alternative form)",
-            "坚持过来 (Core concept alternative form)",
-            "坚持起来 (Core concept alternative form)"
+            "坚持下去 / 进行下去 (standard target expression for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "坚持出来 (contextual contrast form in Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "坚持过来 (formal register distinction for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "坚持起来 (colloquial conversational usage for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)"
           ],
           "answerIndex": 0,
           "explanation": "「下去」表示动作顺应时间轴向未来继续坚持进行。"
@@ -11165,10 +11165,10 @@
         {
           "prompt": "表达一项古代文化技艺从历史源头一直完好保存传承到现在，最精准的表达是：",
           "options": [
-            "流传下来 / 传承下来 (Core concept alternative form)",
-            "流传下去 (Core concept alternative form)",
-            "流传出来 (Core concept alternative form)",
-            "流传过来 (Core concept alternative form)"
+            "流传下来 / 传承下来 (standard target expression for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "流传下去 (contextual contrast form in Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "流传出来 (formal register distinction for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "流传过来 (colloquial conversational usage for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)"
           ],
           "answerIndex": 0,
           "explanation": "「下来」表示动作或状态从过去一直延续保留至当下。"
@@ -11176,10 +11176,10 @@
         {
           "prompt": "在句子「昏迷的病人终于慢慢醒过来了」中，「过来」表达的深层引申义是：",
           "options": [
-            "从昏迷/不正常状态恢复到清醒正常状态 (Core concept alternative form)",
-            "身体从远处走到了近处 (Core concept alternative form)",
-            "开始说话 (Core concept alternative form)",
-            "记忆被提取 (Core concept alternative form)"
+            "从昏迷/不正常状态恢复到清醒正常状态 (standard target expression for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "身体从远处走到了近处 (contextual contrast form in Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "开始说话 (formal register distinction for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "记忆被提取 (colloquial conversational usage for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 过来」表示由反常、危险、昏迷等非正常状态恢复至正常状态。"
@@ -11192,10 +11192,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中趋向补语引申义运用最精准、历史与科技内涵最丰富的一项：",
           "options": [
-            "这门古老的非遗手艺历经沧桑被完整保留了下来；如今青年传承人又研制出来了现代文创新产品，并决心将这份匠心精神代代坚持传下去 (Core concept alternative form)",
-            "手艺保留下去，产品做出来下来，传过来 (Core concept alternative form)",
-            "手艺被出来在保留，产品研制下去 (Core concept alternative form)",
-            "大家下来把产品做出来过去 (Core concept alternative form)"
+            "这门古老的非遗手艺历经沧桑被完整保留了下来；如今青年传承人又研制出来了现代文创新产品，并决心将这份匠心精神代代坚持传下去 (standard target expression for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "手艺保留下去，产品做出来下来，传过来 (contextual contrast form in Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "手艺被出来在保留，产品研制下去 (formal register distinction for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)",
+            "大家下来把产品做出来过去 (colloquial conversational usage for Extended Meanings of Chulai  Xiaqu  Xialai   Guolai)"
           ],
           "answerIndex": 0,
           "explanation": "该句在「保留下来（自古及今）」、「研制出来（从无到有）」与「传下去（由今及后）」的配合上达到了汉语艺术运用的最高水准。"
@@ -11259,10 +11259,10 @@
         {
           "prompt": "在时代奋斗综合语篇中，串联「流传下来 -> 研制出来 -> 团结起来 -> 坚持干下去 -> 做好办成」的动补系统功能是：",
           "options": [
-            "历史传承 -> 成果创新 -> 凝聚合力 -> 持续奋斗 -> 效能达成 (Core concept alternative form)",
-            "全部表示身体在跑来跑去 (Core concept alternative form)",
-            "全部是没有意义的虚词 (Core concept alternative form)",
-            "只用单纯的动词没有任何补语 (Core concept alternative form)"
+            "历史传承 -> 成果创新 -> 凝聚合力 -> 持续奋斗 -> 效能达成 (standard target expression for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "全部表示身体在跑来跑去 (contextual contrast form in Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "全部是没有意义的虚词 (formal register distinction for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "只用单纯的动词没有任何补语 (colloquial conversational usage for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格融合历史传承、科技创新、集体凝聚、未来奋斗与成果达成全套动补体系。"
@@ -11270,10 +11270,10 @@
         {
           "prompt": "语篇中「热烈的欢呼声在大厅内响彻起来」中的「响彻」意思是：",
           "options": [
-            "声音极其响亮、回荡贯穿整个空间 (Core concept alternative form)",
-            "声音非常微弱听不见 (Core concept alternative form)",
-            "没有发出任何声音 (Core concept alternative form)",
-            "悄悄说悄悄话 (Core concept alternative form)"
+            "声音极其响亮、回荡贯穿整个空间 (standard target expression for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "声音非常微弱听不见 (contextual contrast form in Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "没有发出任何声音 (formal register distinction for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "悄悄说悄悄话 (colloquial conversational usage for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「响彻」是形容声音宏亮昂扬、贯穿回荡于空间之中的典雅词汇。"
@@ -11285,10 +11285,10 @@
         {
           "prompt": "请选出下列时代科技与文化综合叙事中动补结构运用最丰富自然、文采最斐然的一项：",
           "options": [
-            "我们把优良传统传承了下来，研制出来了前沿技术，只要紧密团结起来、坚持干下去，就一定能把宏伟蓝图做成功！ (Core concept alternative form)",
-            "我们把传统做了，技术做了，大家干，蓝图做 (Core concept alternative form)",
-            "传统下来被研制，技术干下去起来 (Core concept alternative form)",
-            "宏伟蓝图做成功被大家起来 (Core concept alternative form)"
+            "我们把优良传统传承了下来，研制出来了前沿技术，只要紧密团结起来、坚持干下去，就一定能把宏伟蓝图做成功！ (standard target expression for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "我们把传统做了，技术做了，大家干，蓝图做 (contextual contrast form in Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "传统下来被研制，技术干下去起来 (formal register distinction for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "宏伟蓝图做成功被大家起来 (colloquial conversational usage for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在传承、创新、凝聚、奋进与达成的动补搭配上达到了汉语文学写作的巅峰境界。"
@@ -11296,10 +11296,10 @@
         {
           "prompt": "在宏观篇章中表达各方力量紧密联系、结成坚不可摧的整体，最核心的动补短语是：",
           "options": [
-            "团结起来 / 组织起来 (Core concept alternative form)",
-            "团结下去 (Core concept alternative form)",
-            "团结出来 (Core concept alternative form)",
-            "团结过去 (Core concept alternative form)"
+            "团结起来 / 组织起来 (standard target expression for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "团结下去 (contextual contrast form in Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "团结出来 (formal register distinction for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "团结过去 (colloquial conversational usage for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「团结起来」是表达力量凝聚与紧密结合的经典动补组合。"
@@ -11312,10 +11312,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科学攻坚与历史奋进综合叙事语篇中动补结构最严谨、文采最斐然、思想境界最高远的一项：",
           "options": [
-            "纵观华夏文明史，古老先贤的科学智慧历经千年流传了下来；面对当今世界科技竞争，青年科研团队潜心攻坚，成功研制出来了一批重大原创成果。只要全体中华儿女团结起来、坚持奋斗下去，就必将把科技强国的宏伟蓝图一步步转化成现实伟业！ (Core concept alternative form)",
-            "以前的东西留着，现在做新东西，大家一起做，以后也做 (Core concept alternative form)",
-            "成果研制在下来，大家奋斗出来，蓝图成功 (Core concept alternative form)",
-            "文明流传下去在古代，青年科学家起来 (Core concept alternative form)"
+            "纵观华夏文明史，古老先贤的科学智慧历经千年流传了下来；面对当今世界科技竞争，青年科研团队潜心攻坚，成功研制出来了一批重大原创成果。只要全体中华儿女团结起来、坚持奋斗下去，就必将把科技强国的宏伟蓝图一步步转化成现实伟业！ (standard target expression for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "以前的东西留着，现在做新东西，大家一起做，以后也做 (contextual contrast form in Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "成果研制在下来，大家奋斗出来，蓝图成功 (formal register distinction for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)",
+            "文明流传下去在古代，青年科学家起来 (colloquial conversational usage for Comprehensive Scientific Breakthrough  Cultural Heritage   Complement Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在结果与趋向动补系统的多维交融、思想立意的高度与词章文采上均达到了现代汉语的最高境界。"
@@ -11383,10 +11383,10 @@
         {
           "prompt": "在表达「因为字迹过于模糊，导致视力无法识别文字内容」时，最地道的可能补语是：",
           "options": [
-            "看不清 / 看不见 (VCVC alternative form)",
-            "看没清 (VCVC alternative form)",
-            "不看清 (VCVC alternative form)",
-            "看清不 (VCVC alternative form)"
+            "看不清 / 看不见 (standard target expression for Potential Complements Affirmative   Negative)",
+            "看没清 (contextual contrast form in Potential Complements Affirmative   Negative)",
+            "不看清 (formal register distinction for Potential Complements Affirmative   Negative)",
+            "看清不 (colloquial conversational usage for Potential Complements Affirmative   Negative)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 不 + 结果补语」构成可能补语否定式：看不清。"
@@ -11394,10 +11394,10 @@
         {
           "prompt": "下列哪一项表达了「具备充足的时间和能力把工作全部完成」的可能补语肯定式？",
           "options": [
-            "做得完 (VCVC key phrasing)",
-            "做完好 (VCVC alternative form)",
-            "做成完 (VCVC alternative form)",
-            "做到完 (VCVC alternative form)"
+            "做得完 (standard target expression for Potential Complements Affirmative   Negative)",
+            "做完好 (contextual contrast form in Potential Complements Affirmative   Negative)",
+            "做成完 (formal register distinction for Potential Complements Affirmative   Negative)",
+            "做到完 (colloquial conversational usage for Potential Complements Affirmative   Negative)"
           ],
           "answerIndex": 0,
           "explanation": "「做得完」是表达有能力、有时间完成动作的可能补语肯定式。"
@@ -11409,10 +11409,10 @@
         {
           "prompt": "句子「这个学术问题太深奥了，我根本听不懂」中，「听不懂」强调的是：",
           "options": [
-            "认知与理解层面客观上无法领会其含义 (VCVC alternative form)",
-            "耳朵被塞住了没有听到任何声音 (VCVC alternative form)",
-            "因为纪律原因不被允许听 (VCVC alternative form)",
-            "故意不想听 (VCVC alternative form)"
+            "认知与理解层面客观上无法领会其含义 (standard target expression for Potential Complements Affirmative   Negative)",
+            "耳朵被塞住了没有听到任何声音 (contextual contrast form in Potential Complements Affirmative   Negative)",
+            "因为纪律原因不被允许听 (formal register distinction for Potential Complements Affirmative   Negative)",
+            "故意不想听 (colloquial conversational usage for Potential Complements Affirmative   Negative)"
           ],
           "answerIndex": 0,
           "explanation": "「听不懂」侧重于主观理解能力在客观上受阻无法领会深层含义。"
@@ -11420,10 +11420,10 @@
         {
           "prompt": "在表达「商品数量极少，在市场上根本无法买到」时，最准确的表达是：",
           "options": [
-            "买不到 (VCVC key phrasing)",
-            "买没到 (VCVC alternative form)",
-            "不买到 (VCVC alternative form)",
-            "买到不 (VCVC alternative form)"
+            "买不到 (standard target expression for Potential Complements Affirmative   Negative)",
+            "买没到 (contextual contrast form in Potential Complements Affirmative   Negative)",
+            "不买到 (formal register distinction for Potential Complements Affirmative   Negative)",
+            "买到不 (colloquial conversational usage for Potential Complements Affirmative   Negative)"
           ],
           "answerIndex": 0,
           "explanation": "「买不到」是表达客观条件不具备、无法购得的经典可能补语否定式。"
@@ -11436,10 +11436,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中可能补语运用最准确、语境逻辑最严密的一项：",
           "options": [
-            "这套古代碑帖拓本由于年代久远有些字迹磨损，普通读者很难辨认得出来，但权威专家完全看得懂其中的微言大义 (VCVC alternative form)",
-            "读者把字迹看不懂，专家看懂得了 (VCVC alternative form)",
-            "字迹被专家看得不出来 (VCVC alternative form)",
-            "普通读者不辨认出拓本 (VCVC alternative form)"
+            "这套古代碑帖拓本由于年代久远有些字迹磨损，普通读者很难辨认得出来，但权威专家完全看得懂其中的微言大义 (standard target expression for Potential Complements Affirmative   Negative)",
+            "读者把字迹看不懂，专家看懂得了 (contextual contrast form in Potential Complements Affirmative   Negative)",
+            "字迹被专家看得不出来 (formal register distinction for Potential Complements Affirmative   Negative)",
+            "普通读者不辨认出拓本 (colloquial conversational usage for Potential Complements Affirmative   Negative)"
           ],
           "answerIndex": 0,
           "explanation": "该句在可能补语「辨认得出来」与「看得懂」的配合上精准体现了专业能力与客观条件的评估。"
@@ -11503,10 +11503,10 @@
         {
           "prompt": "在表达「大型会议室具有充足的空间容量，能够容纳三百人开会」时，最地道的固定可能补语是：",
           "options": [
-            "坐得下 / 容得下 (Core concept alternative form)",
-            "坐得了 (Core concept alternative form)",
-            "坐得动 (Core concept alternative form)",
-            "坐得着 (Core concept alternative form)"
+            "坐得下 / 容得下 (standard target expression for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "坐得了 (contextual contrast form in High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "坐得动 (formal register distinction for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "坐得着 (colloquial conversational usage for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 得下」专门用于表达物理空间或心理容量能够容纳客观事物。"
@@ -11514,10 +11514,10 @@
         {
           "prompt": "在表达「科研工作者用优异成果回报祖国，不辜负人民期望」时，最核心的伦理道德补语是：",
           "options": [
-            "对得起 (Core concept key phrasing)",
-            "对得了 (Core concept alternative form)",
-            "对得动 (Core concept alternative form)",
-            "对得着 (Core concept alternative form)"
+            "对得起 (standard target expression for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "对得了 (contextual contrast form in High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "对得动 (formal register distinction for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "对得着 (colloquial conversational usage for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)"
           ],
           "answerIndex": 0,
           "explanation": "「对得起」是表达良心责任与道德担当达成一致的核心表达。"
@@ -11529,10 +11529,10 @@
         {
           "prompt": "表达箱子太重、凭个人的力气无法抬起或搬移时，最精准的固定可能补语是：",
           "options": [
-            "搬不动 / 抬不动 (Core concept alternative form)",
-            "搬不下 (Core concept alternative form)",
-            "搬不起 (Core concept alternative form)",
-            "搬不着 (Core concept alternative form)"
+            "搬不动 / 抬不动 (standard target expression for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "搬不下 (contextual contrast form in High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "搬不起 (formal register distinction for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "搬不着 (colloquial conversational usage for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 不动」专门表示力量不足以使物体移位或无法维持体力动作。"
@@ -11540,10 +11540,10 @@
         {
           "prompt": "在句子「他今天突发高烧，实在去不了现场」中，「去不了」的意思是：",
           "options": [
-            "受身体健康等客观严重条件限制无法前往   」表示主客观条件不允许动作的实现。 (Core concept alternative form)",
-            "心理上不想去   」表示主客观条件不允许动作的实现。 (Core concept alternative form)",
-            "大家不许他去   」表示主客观条件不允许动作的实现。 (Core concept alternative form)",
-            "路被封死了   」表示主客观条件不允许动作的实现。 (Core concept alternative form)"
+            "受身体健康等客观严重条件限制无法前往   」表示主客观条件不允许动作的实现。 (standard target expression for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "心理上不想去   」表示主客观条件不允许动作的实现。 (contextual contrast form in High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "大家不许他去   」表示主客观条件不允许动作的实现。 (formal register distinction for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "路被封死了   」表示主客观条件不允许动作的实现。 (colloquial conversational usage for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 不了 (liǎo)」表示主客观条件不允许动作的实现。"
@@ -11556,10 +11556,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中固定可能补语搭配最精准、语体风格最典雅崇高的一项：",
           "options": [
-            "青年科研人员不畏艰辛吃得了苦、顶得住压力，誓用重大原创科技突破对得起国家的厚望与历史的托付！ (Core concept alternative form)",
-            "青年人员吃得动苦，对得下厚望 (Core concept alternative form)",
-            "把厚望对得起在青年科研人员 (Core concept alternative form)",
-            "厚望被吃得着苦 (Core concept alternative form)"
+            "青年科研人员不畏艰辛吃得了苦、顶得住压力，誓用重大原创科技突破对得起国家的厚望与历史的托付！ (standard target expression for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "青年人员吃得动苦，对得下厚望 (contextual contrast form in High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "把厚望对得起在青年科研人员 (formal register distinction for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)",
+            "厚望被吃得着苦 (colloquial conversational usage for High Frequency Fixed Potential Complements  liao  xia  dong  zhao  qi)"
           ],
           "answerIndex": 0,
           "explanation": "该句在「吃得了苦（耐力）」、「顶得住压力（承重）」与「对得起厚望（道德担当）」的搭配上展现了极高的思想与语言修养。"
@@ -11623,10 +11623,10 @@
         {
           "prompt": "关于可能补语与「把」字句、「被」字句的组合规则，下列说明完全正确的是：",
           "options": [
-            "可能补语绝对不能直接用于「把」字句和「被」字句中 (Core concept alternative form)",
-            "可能补语必须强制与把字句连用 (Core concept alternative form)",
-            "可能补语必须放在被字句的施事者前面 (Core concept alternative form)",
-            "任何动词都可以随意混用 (Core concept alternative form)"
+            "可能补语绝对不能直接用于「把」字句和「被」字句中 (standard target expression for Potential Question Forms   Co occurrence Constraints)",
+            "可能补语必须强制与把字句连用 (contextual contrast form in Potential Question Forms   Co occurrence Constraints)",
+            "可能补语必须放在被字句的施事者前面 (formal register distinction for Potential Question Forms   Co occurrence Constraints)",
+            "任何动词都可以随意混用 (colloquial conversational usage for Potential Question Forms   Co occurrence Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "可能补语与把/被字句在语义与语法上互斥，绝对不可直接混用。"
@@ -11634,10 +11634,10 @@
         {
           "prompt": "要询问对方「是否能够看懂这份设计图纸」，最规范纯正的正反疑问句是：",
           "options": [
-            "你看得懂看不懂这份设计图纸？ (Core concept alternative form)",
-            "你把这份图纸看懂看不懂？ (Core concept alternative form)",
-            "图纸被你看得懂吗？ (Core concept alternative form)",
-            "你看懂不看懂这份图纸？ (Core concept alternative form)"
+            "你看得懂看不懂这份设计图纸？ (standard target expression for Potential Question Forms   Co occurrence Constraints)",
+            "你把这份图纸看懂看不懂？ (contextual contrast form in Potential Question Forms   Co occurrence Constraints)",
+            "图纸被你看得懂吗？ (formal register distinction for Potential Question Forms   Co occurrence Constraints)",
+            "你看懂不看懂这份图纸？ (colloquial conversational usage for Potential Question Forms   Co occurrence Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "「V+得+C + V+不+C」是可能补语最标准规范的正反疑问句式。"
@@ -11649,10 +11649,10 @@
         {
           "prompt": "下列哪一个句子犯了「把字句与可能补语错误混用」的严重语法病句？",
           "options": [
-            "*他把这些古代文字看不懂 (Core concept alternative form)",
-            "这些古代文字他看不懂 (Core concept key phrasing)",
-            "他不能把这些古代文字翻译出来 (Core concept alternative form)",
-            "这些古代文字太深奥了 (Core concept alternative form)"
+            "*他把这些古代文字看不懂 (standard target expression for Potential Question Forms   Co occurrence Constraints)",
+            "这些古代文字他看不懂 (contextual contrast form in Potential Question Forms   Co occurrence Constraints)",
+            "他不能把这些古代文字翻译出来 (formal register distinction for Potential Question Forms   Co occurrence Constraints)",
+            "这些古代文字太深奥了 (colloquial conversational usage for Potential Question Forms   Co occurrence Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "可能补语「看不懂」绝不能直接用于「把」字句中，应改为「这些古代文字他看不懂」。"
@@ -11660,10 +11660,10 @@
         {
           "prompt": "若语境中必须使用「把」字句表达处置潜能，正确的语法解决途径是：",
           "options": [
-            "在「把」字前加上能愿动词 (Core concept alternative form)",
-            "在句末强行加一个得 (Core concept alternative form)",
-            "把动词删除 (Core concept alternative form)",
-            "把宾语删除 (Core concept alternative form)"
+            "在「把」字前加上能愿动词 (standard target expression for Potential Question Forms   Co occurrence Constraints)",
+            "在句末强行加一个得 (contextual contrast form in Potential Question Forms   Co occurrence Constraints)",
+            "把动词删除 (formal register distinction for Potential Question Forms   Co occurrence Constraints)",
+            "把宾语删除 (colloquial conversational usage for Potential Question Forms   Co occurrence Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "将潜能意义由能愿动词承担（能不能/不可能 + 把 + 宾语 + 动词 + 结果补语），是标准合规句式。"
@@ -11676,10 +11676,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中句法结构完全合规、毫无句式杂糅病态的一项：",
           "options": [
-            "面对如此浩繁的工程数据，单凭人工计算根本不可能把所有参数核对完毕，必须依靠智能算法进行快速校验 (Core concept alternative form)",
-            "工程师把所有参数核对得完 (Core concept alternative form)",
-            "参数被工程师核对不完 (Core concept alternative form)",
-            "核对得完参数把工程师 (Core concept alternative form)"
+            "面对如此浩繁的工程数据，单凭人工计算根本不可能把所有参数核对完毕，必须依靠智能算法进行快速校验 (standard target expression for Potential Question Forms   Co occurrence Constraints)",
+            "工程师把所有参数核对得完 (contextual contrast form in Potential Question Forms   Co occurrence Constraints)",
+            "参数被工程师核对不完 (formal register distinction for Potential Question Forms   Co occurrence Constraints)",
+            "核对得完参数把工程师 (colloquial conversational usage for Potential Question Forms   Co occurrence Constraints)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项准确使用能愿动词「不可能」引领把字句，动词后搭配结果补语「核对完毕」，严格遵守了排斥铁律。"
@@ -11743,10 +11743,10 @@
         {
           "prompt": "在状态补语句中，当动词带有宾语时，完全符合汉语语法规范的句法处理方式是：",
           "options": [
-            "必须重复动词或将宾语前置 (Core concept alternative form)",
-            "直接把「得」放在宾语后面 (Core concept alternative form)",
-            "把宾语删除 (Core concept alternative form)",
-            "把动词放在句末 (Core concept alternative form)"
+            "必须重复动词或将宾语前置 (standard target expression for State   Degree Complements  de  jile  dehen  sile)",
+            "直接把「得」放在宾语后面 (contextual contrast form in State   Degree Complements  de  jile  dehen  sile)",
+            "把宾语删除 (formal register distinction for State   Degree Complements  de  jile  dehen  sile)",
+            "把动词放在句末 (colloquial conversational usage for State   Degree Complements  de  jile  dehen  sile)"
           ],
           "answerIndex": 0,
           "explanation": "动词带宾语时必须重复动词：他说英语说得流利 / 英语他说得流利。"
@@ -11754,10 +11754,10 @@
         {
           "prompt": "对状态补语句「他字写得好」进行否定时，否定词「不」的正确位置是：",
           "options": [
-            "置于补语形容词前面：他字写得不好 (Core concept alternative form)",
-            "置于动词前面：他不字写得好 (Core concept alternative form)",
-            "置于得前面：他字不写得好 (Core concept alternative form)",
-            "置于句末：他字写得好不 (Core concept alternative form)"
+            "置于补语形容词前面：他字写得不好 (standard target expression for State   Degree Complements  de  jile  dehen  sile)",
+            "置于动词前面：他不字写得好 (contextual contrast form in State   Degree Complements  de  jile  dehen  sile)",
+            "置于得前面：他字不写得好 (formal register distinction for State   Degree Complements  de  jile  dehen  sile)",
+            "置于句末：他字写得好不 (colloquial conversational usage for State   Degree Complements  de  jile  dehen  sile)"
           ],
           "answerIndex": 0,
           "explanation": "状态补语的否定是对评价本身的否定，否定词必须放在「得」之后的补语部分前。"
@@ -11769,10 +11769,10 @@
         {
           "prompt": "表达某项演出或讲座达到令人叹为观止的极高水准，最典雅地道的程度补语是：",
           "options": [
-            "精彩极了 / 绝妙极了 (Core concept alternative form)",
-            "精彩死了了 (Core concept alternative form)",
-            "精彩透得很 (Core concept alternative form)",
-            "精彩得极 (Core concept alternative form)"
+            "精彩极了 / 绝妙极了 (standard target expression for State   Degree Complements  de  jile  dehen  sile)",
+            "精彩死了了 (contextual contrast form in State   Degree Complements  de  jile  dehen  sile)",
+            "精彩透得很 (formal register distinction for State   Degree Complements  de  jile  dehen  sile)",
+            "精彩得极 (colloquial conversational usage for State   Degree Complements  de  jile  dehen  sile)"
           ],
           "answerIndex": 0,
           "explanation": "「形容词 + 极了」是表达达到顶峰程度的经典程度补语。"
@@ -11780,10 +11780,10 @@
         {
           "prompt": "下列哪一项状态补语句犯了「动词带宾语未复述动词」的严重语法错误？",
           "options": [
-            "*他弹钢琴得非常动听 (Core concept alternative form)",
-            "他弹钢琴弹得非常动听 (Core concept alternative form)",
-            "钢琴他弹得非常动听 (Core concept alternative form)",
-            "他钢琴弹得好 (Core concept alternative form)"
+            "*他弹钢琴得非常动听 (standard target expression for State   Degree Complements  de  jile  dehen  sile)",
+            "他弹钢琴弹得非常动听 (contextual contrast form in State   Degree Complements  de  jile  dehen  sile)",
+            "钢琴他弹得非常动听 (formal register distinction for State   Degree Complements  de  jile  dehen  sile)",
+            "他钢琴弹得好 (colloquial conversational usage for State   Degree Complements  de  jile  dehen  sile)"
           ],
           "answerIndex": 0,
           "explanation": "「弹钢琴得」是典型语法病句，必须重复动词改为「弹钢琴弹得非常动听」。"
@@ -11796,10 +11796,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中状态与程度补语运用最地道、语法完全合规的一项：",
           "options": [
-            "青年学者在国际讲坛上把科研成果讲解得深入浅出，现场同行专家对报告的严谨论证满意极了 (Core concept alternative form)",
-            "学者讲成果得深入浅出，满意死了了 (Core concept alternative form)",
-            "成果被讲解深入浅出得很好 (Core concept alternative form)",
-            "深入浅出得讲解成果 (Core concept alternative form)"
+            "青年学者在国际讲坛上把科研成果讲解得深入浅出，现场同行专家对报告的严谨论证满意极了 (standard target expression for State   Degree Complements  de  jile  dehen  sile)",
+            "学者讲成果得深入浅出，满意死了了 (contextual contrast form in State   Degree Complements  de  jile  dehen  sile)",
+            "成果被讲解深入浅出得很好 (formal register distinction for State   Degree Complements  de  jile  dehen  sile)",
+            "深入浅出得讲解成果 (colloquial conversational usage for State   Degree Complements  de  jile  dehen  sile)"
           ],
           "answerIndex": 0,
           "explanation": "该句在状态补语「讲解得深入浅出」与程度补语「满意极了」的搭配上展现了高超的学术汉语修养。"
@@ -11863,10 +11863,10 @@
         {
           "prompt": "在卓越科技叙事篇章中，串联「扛得住压力 -> 弄懂弄通 -> 阐述得清楚 -> 赞赏极了」的情态系统功能是：",
           "options": [
-            "潜能支撑 -> 认知突破 -> 过程描摹 -> 评价升华 (Core concept alternative form)",
-            "全部表示身体在跑来跑去 (Core concept alternative form)",
-            "全部是没有意义的语气词 (Core concept alternative form)",
-            "只用单字没有任何语法逻辑 (Core concept alternative form)"
+            "潜能支撑 -> 认知突破 -> 过程描摹 -> 评价升华 (standard target expression for Comprehensive Potential  Mastery   Modality Narrative)",
+            "全部表示身体在跑来跑去 (contextual contrast form in Comprehensive Potential  Mastery   Modality Narrative)",
+            "全部是没有意义的语气词 (formal register distinction for Comprehensive Potential  Mastery   Modality Narrative)",
+            "只用单字没有任何语法逻辑 (colloquial conversational usage for Comprehensive Potential  Mastery   Modality Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格遵循从潜能担当、认知突破到状态描摹与极性赞赏的情态补语体系。"
@@ -11874,10 +11874,10 @@
         {
           "prompt": "语篇中「精益求精」成语的核心含义是：",
           "options": [
-            "已经很好了，还要追求更加完美、好上加好 (Core concept alternative form)",
-            "做事情马马虎虎 (Core concept alternative form)",
-            "敷衍了事随便做做 (Core concept alternative form)",
-            "遇到困难立即放弃 (Core concept alternative form)"
+            "已经很好了，还要追求更加完美、好上加好 (standard target expression for Comprehensive Potential  Mastery   Modality Narrative)",
+            "做事情马马虎虎 (contextual contrast form in Comprehensive Potential  Mastery   Modality Narrative)",
+            "敷衍了事随便做做 (formal register distinction for Comprehensive Potential  Mastery   Modality Narrative)",
+            "遇到困难立即放弃 (colloquial conversational usage for Comprehensive Potential  Mastery   Modality Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「精益求精」是形容对学术、技艺追求卓越顶峰、好上加好的经典成语。"
@@ -11889,10 +11889,10 @@
         {
           "prompt": "请选出下列学术攻坚叙事中情态补语体系融合最完满、文采最斐然的一项：",
           "options": [
-            "科研团队顶得住重重压力，把复杂机理研究得透彻极了，在国际讲坛上阐述得清清楚楚，现场专家钦佩极了 (Core concept alternative form)",
-            "团队把压力顶得住，搞透彻，说清楚，专家很满意 (Core concept alternative form)",
-            "复杂机理被研究得透彻极了在团队 (Core concept alternative form)",
-            "专家钦佩极了被阐述清楚 (Core concept alternative form)"
+            "科研团队顶得住重重压力，把复杂机理研究得透彻极了，在国际讲坛上阐述得清清楚楚，现场专家钦佩极了 (standard target expression for Comprehensive Potential  Mastery   Modality Narrative)",
+            "团队把压力顶得住，搞透彻，说清楚，专家很满意 (contextual contrast form in Comprehensive Potential  Mastery   Modality Narrative)",
+            "复杂机理被研究得透彻极了在团队 (formal register distinction for Comprehensive Potential  Mastery   Modality Narrative)",
+            "专家钦佩极了被阐述清楚 (colloquial conversational usage for Comprehensive Potential  Mastery   Modality Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在可能补语、状态补语与程度补语的配合上达到了极高的文学与学术标准。"
@@ -11900,10 +11900,10 @@
         {
           "prompt": "在宏观叙事中表达意志极其坚韧、能够承受任何艰险困苦的固定可能短语是：",
           "options": [
-            "吃得了苦 / 经得起考验 (Core concept alternative form)",
-            "吃得下苦 (Core concept alternative form)",
-            "吃得动苦 (Core concept alternative form)",
-            "吃得着苦 (Core concept alternative form)"
+            "吃得了苦 / 经得起考验 (standard target expression for Comprehensive Potential  Mastery   Modality Narrative)",
+            "吃得下苦 (contextual contrast form in Comprehensive Potential  Mastery   Modality Narrative)",
+            "吃得动苦 (formal register distinction for Comprehensive Potential  Mastery   Modality Narrative)",
+            "吃得着苦 (colloquial conversational usage for Comprehensive Potential  Mastery   Modality Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「吃得了苦」是表达坚韧不拔承受劳苦的经典可能补语搭配。"
@@ -11916,10 +11916,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术攀登与卓越奋斗综合叙事语篇中情态补语最严整、文采最斐然、立意最高远的一项：",
           "options": [
-            "在科技攀登的崇高征程中，青年科学家团队始终扛得住重压、耐得住寂寞。大家把实验方案论证得严丝合缝，把前沿技术钻研得透彻极了，最终在世界舞台上把中国智慧展现得淋漓尽致，对得起伟大时代的历史重托！ (Core concept alternative form)",
-            "大家克服困难做了很多实验，把技术做出来了，大家都非常高兴 (Core concept alternative form)",
-            "方案被论证严丝合缝在实验室，大家很自豪极了 (Core concept alternative form)",
-            "把时代重托对得起在青年科学家 (Core concept alternative form)"
+            "在科技攀登的崇高征程中，青年科学家团队始终扛得住重压、耐得住寂寞。大家把实验方案论证得严丝合缝，把前沿技术钻研得透彻极了，最终在世界舞台上把中国智慧展现得淋漓尽致，对得起伟大时代的历史重托！ (standard target expression for Comprehensive Potential  Mastery   Modality Narrative)",
+            "大家克服困难做了很多实验，把技术做出来了，大家都非常高兴 (contextual contrast form in Comprehensive Potential  Mastery   Modality Narrative)",
+            "方案被论证严丝合缝在实验室，大家很自豪极了 (formal register distinction for Comprehensive Potential  Mastery   Modality Narrative)",
+            "把时代重托对得起在青年科学家 (colloquial conversational usage for Comprehensive Potential  Mastery   Modality Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在可能补语、状态补语、程度补语的系统综合运用与崇高时代立意上均达到了现代汉语的最高境界。"
@@ -11983,10 +11983,10 @@
         {
           "prompt": "在现代汉语静态存现句中，关于动词后面的宾语成分，下列说明完全正确的是：",
           "options": [
-            "宾语必须是无定泛指成分 (indefiniteness)",
-            "宾语必须带有代词「这/那」进行特指 (indefiniteness)",
-            "宾语必须是人称代词「你/我/他 (indefiniteness)",
-            "宾语必须是专有名词 (indefiniteness)"
+            "宾语必须是无定泛指成分 (standard target expression for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "宾语必须带有代词「这/那」进行特指 (contextual contrast form in Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "宾语必须是人称代词「你/我/他 (formal register distinction for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "宾语必须是专有名词 (colloquial conversational usage for Static Existential Sentences  V zhe le   Indefinite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "存现句宾语严格要求具有「无定性 (indefiniteness)」，用于引介未知的新实体。"
@@ -11994,10 +11994,10 @@
         {
           "prompt": "下列哪一个句子犯了「存现句宾语错误使用有定特指代词」的语法病句？",
           "options": [
-            "*桌子上放着这本新书 (Core concept alternative form)",
-            "桌子上放着一本新书 (Core concept alternative form)",
-            "这本新书在桌子上放着 (Core concept alternative form)",
-            "书架上摆着许多专业书籍 (Core concept alternative form)"
+            "*桌子上放着这本新书 (standard target expression for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "桌子上放着一本新书 (contextual contrast form in Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "这本新书在桌子上放着 (formal register distinction for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "书架上摆着许多专业书籍 (colloquial conversational usage for Static Existential Sentences  V zhe le   Indefinite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "存现句不能说「放着这本新书」，应改为无定短语「放着一本新书」或主谓句「这本新书放在桌子上」。"
@@ -12009,10 +12009,10 @@
         {
           "prompt": "要表达「大礼堂的前排坐着几位享誉国内外的著名教授」，最地道规范的存现句是：",
           "options": [
-            "大礼堂前排坐着几位著名教授 (Core concept alternative form)",
-            "在大礼堂前排坐着这几位著名教授 (Core concept alternative form)",
-            "几位著名教授被坐着在大礼堂 (Core concept alternative form)",
-            "前排把几位著名教授坐着 (Core concept alternative form)"
+            "大礼堂前排坐着几位著名教授 (standard target expression for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "在大礼堂前排坐着这几位著名教授 (contextual contrast form in Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "几位著名教授被坐着在大礼堂 (formal register distinction for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "前排把几位著名教授坐着 (colloquial conversational usage for Static Existential Sentences  V zhe le   Indefinite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "处所词「大礼堂前排」直接作主语，后接「动词+着+无定宾语」，完美合规。"
@@ -12020,10 +12020,10 @@
         {
           "prompt": "在静态存现句中，动词后面通常附带哪两个动态助词来表达状态的持续存在？",
           "options": [
-            "着 / 了 (Core concept alternative form)",
-            "过 / 的 (Core concept alternative form)",
-            "得 / 地 (Core concept alternative form)",
-            "吗 / 呢 (Core concept alternative form)"
+            "着 / 了 (standard target expression for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "过 / 的 (contextual contrast form in Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "得 / 地 (formal register distinction for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "吗 / 呢 (colloquial conversational usage for Static Existential Sentences  V zhe le   Indefinite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "「动词 + 着/了」是静态存现句表达状态持续与存留的核心形态标志。"
@@ -12036,10 +12036,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列存现句中处所主语清晰、动词形态准确、宾语无定性完全合规的一项：",
           "options": [
-            "学术交流中心正大门前整齐地停放着几辆迎宾大巴，大厅里悬挂着一条醒目的中英双语欢迎横幅 (Core concept alternative form)",
-            "大门前停放着那辆大巴，大厅里悬挂着这个横幅 (Core concept alternative form)",
-            "大厅把横幅悬挂着在里面 (Core concept alternative form)",
-            "大巴被停放在大门前着 (Core concept alternative form)"
+            "学术交流中心正大门前整齐地停放着几辆迎宾大巴，大厅里悬挂着一条醒目的中英双语欢迎横幅 (standard target expression for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "大门前停放着那辆大巴，大厅里悬挂着这个横幅 (contextual contrast form in Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "大厅把横幅悬挂着在里面 (formal register distinction for Static Existential Sentences  V zhe le   Indefinite Object Constraint)",
+            "大巴被停放在大门前着 (colloquial conversational usage for Static Existential Sentences  V zhe le   Indefinite Object Constraint)"
           ],
           "answerIndex": 0,
           "explanation": "该句在两个分句中均严格遵守了处所作主语及无定宾语「几辆大巴」、「一条横幅」的存现法则。"
@@ -12103,10 +12103,10 @@
         {
           "prompt": "在动态存现句中，句子「长廊尽头迎面走过来几位年轻学者」属于：",
           "options": [
-            "出现句 (Core concept key phrasing)",
-            "消失句 (Core concept alternative form)",
-            "静态存在句 (Core concept alternative form)",
-            "被动句 (Core concept alternative form)"
+            "出现句 (standard target expression for Dynamic Emergence   Disappearance Sentences)",
+            "消失句 (contextual contrast form in Dynamic Emergence   Disappearance Sentences)",
+            "静态存在句 (formal register distinction for Dynamic Emergence   Disappearance Sentences)",
+            "被动句 (colloquial conversational usage for Dynamic Emergence   Disappearance Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「处所 + 走过来 + 无定人名短语」是典型的动态出现句。"
@@ -12114,10 +12114,10 @@
         {
           "prompt": "在句子「课题组上个月调走了两位核心骨干」中，该句表达的语法功能是：",
           "options": [
-            "消失句 (Core concept key phrasing)",
-            "出现句 (Core concept alternative form)",
-            "比较句 (Core concept alternative form)",
-            "把字句 (Core concept alternative form)"
+            "消失句 (standard target expression for Dynamic Emergence   Disappearance Sentences)",
+            "出现句 (contextual contrast form in Dynamic Emergence   Disappearance Sentences)",
+            "比较句 (formal register distinction for Dynamic Emergence   Disappearance Sentences)",
+            "把字句 (colloquial conversational usage for Dynamic Emergence   Disappearance Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「处所 + 调走了 + 数量名词」是典型的动态消失句。"
@@ -12129,10 +12129,10 @@
         {
           "prompt": "要生动描写清晨红日从海平面冉冉升起的壮丽景象，最地道的出现句是：",
           "options": [
-            "海平面上方冉冉升起了一轮璀璨的朝阳 (Core concept alternative form)",
-            "朝阳在海平面上升起很璀璨 (Core concept alternative form)",
-            "海平面把一轮朝阳升起了 (Core concept alternative form)",
-            "一轮朝阳被升起在海平面 (Core concept alternative form)"
+            "海平面上方冉冉升起了一轮璀璨的朝阳 (standard target expression for Dynamic Emergence   Disappearance Sentences)",
+            "朝阳在海平面上升起很璀璨 (contextual contrast form in Dynamic Emergence   Disappearance Sentences)",
+            "海平面把一轮朝阳升起了 (formal register distinction for Dynamic Emergence   Disappearance Sentences)",
+            "一轮朝阳被升起在海平面 (colloquial conversational usage for Dynamic Emergence   Disappearance Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "处所词居首，后接位移动词与动态助词「升起了」，再引出无定宾语「一轮朝阳」，画意生动。"
@@ -12140,10 +12140,10 @@
         {
           "prompt": "下列哪一项属于规范标准的动态消失句？",
           "options": [
-            "仓库里少了两台精密仪器 (Core concept alternative form)",
-            "两台精密仪器在仓库里放着 (Core concept alternative form)",
-            "仓库里放着两台精密仪器 (Core concept alternative form)",
-            "精密仪器被存放在仓库里 (Core concept alternative form)"
+            "仓库里少了两台精密仪器 (standard target expression for Dynamic Emergence   Disappearance Sentences)",
+            "两台精密仪器在仓库里放着 (contextual contrast form in Dynamic Emergence   Disappearance Sentences)",
+            "仓库里放着两台精密仪器 (formal register distinction for Dynamic Emergence   Disappearance Sentences)",
+            "精密仪器被存放在仓库里 (colloquial conversational usage for Dynamic Emergence   Disappearance Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「处所 + 少了 + 数量名词」是表达数量减损脱离的标准消失句。"
@@ -12156,10 +12156,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中动态出现句与消失句对仗严整、动补运用最精准的一项：",
           "options": [
-            "在科研攻关的关键阶段，团队虽然临时调走了两位老专家，但立刻新补充进来了四名优秀的青年博士 (Core concept alternative form)",
-            "老专家被调走了两个在团队，博士补充了 (Core concept alternative form)",
-            "团队把老专家调走，把博士进来 (Core concept alternative form)",
-            "调走老专家在团队里 (Core concept alternative form)"
+            "在科研攻关的关键阶段，团队虽然临时调走了两位老专家，但立刻新补充进来了四名优秀的青年博士 (standard target expression for Dynamic Emergence   Disappearance Sentences)",
+            "老专家被调走了两个在团队，博士补充了 (contextual contrast form in Dynamic Emergence   Disappearance Sentences)",
+            "团队把老专家调走，把博士进来 (formal register distinction for Dynamic Emergence   Disappearance Sentences)",
+            "调走老专家在团队里 (colloquial conversational usage for Dynamic Emergence   Disappearance Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "该句在前半句使用消失句「调走了两位老专家」，后半句使用出现句「补充进来了四名博士」，对仗严密，生动体现了动态隐现句的叙事力量。"
@@ -12223,10 +12223,10 @@
         {
           "prompt": "普通名词「黑板 / 书桌」在充当存现句的处所主语时，正确的语法处理方式是：",
           "options": [
-            "必须在其后面加上方位词 (Core concept alternative form)",
-            "直接使用普通名词充当主语 (Core concept alternative form)",
-            "在前面加副词「很 (Core concept alternative form)",
-            "把名词删除 (Core concept alternative form)"
+            "必须在其后面加上方位词 (standard target expression for Spatial Localizers   Preposition Drop)",
+            "直接使用普通名词充当主语 (contextual contrast form in Spatial Localizers   Preposition Drop)",
+            "在前面加副词「很 (formal register distinction for Spatial Localizers   Preposition Drop)",
+            "把名词删除 (colloquial conversational usage for Spatial Localizers   Preposition Drop)"
           ],
           "answerIndex": 0,
           "explanation": "普通名词必须附带方位词才能转化为合法的空间处所短语。"
@@ -12234,10 +12234,10 @@
         {
           "prompt": "在标准纯正的现代汉语存现句中，关于句首处所词前面的介词「在」，最规范的做法是：",
           "options": [
-            "通常省略「在」，让处所词直接充当句子的语法主语 (Core concept alternative form)",
-            "必须强制加上「在 (Core concept alternative form)",
-            "必须把「在」放在句末 (Core concept alternative form)",
-            "必须把「在」重复三次 (Core concept alternative form)"
+            "通常省略「在」，让处所词直接充当句子的语法主语 (standard target expression for Spatial Localizers   Preposition Drop)",
+            "必须强制加上「在 (contextual contrast form in Spatial Localizers   Preposition Drop)",
+            "必须把「在」放在句末 (formal register distinction for Spatial Localizers   Preposition Drop)",
+            "必须把「在」重复三次 (colloquial conversational usage for Spatial Localizers   Preposition Drop)"
           ],
           "answerIndex": 0,
           "explanation": "存现句首处所词直接充当主语，省略介词「在」最为地道自然。"
@@ -12249,10 +12249,10 @@
         {
           "prompt": "下列哪一个专用地理名称后「错误且多余地添加了方位词里」？",
           "options": [
-            "*在北京里工作 (Core concept alternative form)",
-            "在北京市工作 (Core concept alternative form)",
-            "在学校里开会 (Core concept alternative form)",
-            "在教室里上课 (Core concept alternative form)"
+            "*在北京里工作 (standard target expression for Spatial Localizers   Preposition Drop)",
+            "在北京市工作 (contextual contrast form in Spatial Localizers   Preposition Drop)",
+            "在学校里开会 (formal register distinction for Spatial Localizers   Preposition Drop)",
+            "在教室里上课 (colloquial conversational usage for Spatial Localizers   Preposition Drop)"
           ],
           "answerIndex": 0,
           "explanation": "专有地名如「北京/上海/中国」本身即为处所，后绝不能多余添加「里」。"
@@ -12260,10 +12260,10 @@
         {
           "prompt": "在表达「园区正门东侧坐落着科研大楼」时，方位词「东侧」表达的是：",
           "options": [
-            "以正门为基准的东方侧面空间位置 (Core concept alternative form)",
-            "内部空间 (Core concept alternative form)",
-            "上方空间 (Core concept alternative form)",
-            "下方空间 (Core concept alternative form)"
+            "以正门为基准的东方侧面空间位置 (standard target expression for Spatial Localizers   Preposition Drop)",
+            "内部空间 (contextual contrast form in Spatial Localizers   Preposition Drop)",
+            "上方空间 (formal register distinction for Spatial Localizers   Preposition Drop)",
+            "下方空间 (colloquial conversational usage for Spatial Localizers   Preposition Drop)"
           ],
           "answerIndex": 0,
           "explanation": "「东侧」指称以参照点为核心的正东方向侧面。"
@@ -12276,10 +12276,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列句子中方位词使用最地道、处所主语完全规范合规的一项：",
           "options": [
-            "综合实验楼南侧整齐地排列着几座现代化温室大棚，大棚里面培育着最新选育的抗旱农作物新品种 (Core concept alternative form)",
-            "在南侧排列着大棚在楼，里面培育新品种 (Core concept alternative form)",
-            "北京里实验楼南边大棚培育着 (Core concept alternative form)",
-            "大棚把新品种培育在里面着 (Core concept alternative form)"
+            "综合实验楼南侧整齐地排列着几座现代化温室大棚，大棚里面培育着最新选育的抗旱农作物新品种 (standard target expression for Spatial Localizers   Preposition Drop)",
+            "在南侧排列着大棚在楼，里面培育新品种 (contextual contrast form in Spatial Localizers   Preposition Drop)",
+            "北京里实验楼南边大棚培育着 (formal register distinction for Spatial Localizers   Preposition Drop)",
+            "大棚把新品种培育在里面着 (colloquial conversational usage for Spatial Localizers   Preposition Drop)"
           ],
           "answerIndex": 0,
           "explanation": "该句在方位词「南侧」与「大棚里面」的使用上严密准确，句首省略「在」使全句行云流水。"
@@ -12343,10 +12343,10 @@
         {
           "prompt": "在描写文人雅致书斋时，「案头静静地燃着一炉檀香」中「案头」指的是：",
           "options": [
-            "古代文人书桌/长案的表面上方空间 (Core concept alternative form)",
-            "抽屉深处 (Core concept alternative form)",
-            "书房的地板上 (Core concept alternative form)",
-            "椅子背后 (Core concept alternative form)"
+            "古代文人书桌/长案的表面上方空间 (standard target expression for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "抽屉深处 (contextual contrast form in Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "书房的地板上 (formal register distinction for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "椅子背后 (colloquial conversational usage for Spatial Aesthetics of Classical Gardens  Studies   Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "「案头」是指书案、书桌的台面空间，是文人墨客摆放文房清供的核心位置。"
@@ -12354,10 +12354,10 @@
         {
           "prompt": "语篇中「尚未题跋的书法长卷」中的「题跋」意思是：",
           "options": [
-            "在书画作品后撰写品鉴、题记或评论性诗文 (Core concept alternative form)",
-            "把字画撕毁 (Core concept alternative form)",
-            "用来擦桌子 (Core concept alternative form)",
-            "给画作涂改颜色 (Core concept alternative form)"
+            "在书画作品后撰写品鉴、题记或评论性诗文 (standard target expression for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "把字画撕毁 (contextual contrast form in Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "用来擦桌子 (formal register distinction for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "给画作涂改颜色 (colloquial conversational usage for Spatial Aesthetics of Classical Gardens  Studies   Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "「题跋」是中国传统书画艺术中在作品卷首或卷后题写的品评鉴赏与考证文字。"
@@ -12369,10 +12369,10 @@
         {
           "prompt": "请选出下列苏州园林空间描写中存现句运用最典雅、意境最高古的一项：",
           "options": [
-            "池塘中央建有一座湖心水榭，榭后环绕着苍翠欲滴的修竹，粉墙前错落有致地叠放着几块太湖怪石 (Core concept alternative form)",
-            "池塘把水榭建了，竹子在后面 (Core concept alternative form)",
-            "太湖怪石被叠放在粉墙前很美 (Core concept alternative form)",
-            "水榭中央建池塘 (Core concept alternative form)"
+            "池塘中央建有一座湖心水榭，榭后环绕着苍翠欲滴的修竹，粉墙前错落有致地叠放着几块太湖怪石 (standard target expression for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "池塘把水榭建了，竹子在后面 (contextual contrast form in Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "太湖怪石被叠放在粉墙前很美 (formal register distinction for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "水榭中央建池塘 (colloquial conversational usage for Spatial Aesthetics of Classical Gardens  Studies   Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在方位空间词、动补结构与古典美学意象的融合上达到了中国传统散文写作的极高境界。"
@@ -12380,10 +12380,10 @@
         {
           "prompt": "在古典居室描摹中表达墙壁正中高高挂着画作，最地道典雅的动补短语是：",
           "options": [
-            "高悬着 / 悬挂着 (Core concept alternative form)",
-            "高贴在 (Core concept alternative form)",
-            "高放在 (Core concept alternative form)",
-            "高拿着 (Core concept alternative form)"
+            "高悬着 / 悬挂着 (standard target expression for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "高贴在 (contextual contrast form in Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "高放在 (formal register distinction for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "高拿着 (colloquial conversational usage for Spatial Aesthetics of Classical Gardens  Studies   Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "「高悬着」是传统书画与匾额悬挂于中堂墙面的经典雅致表达。"
@@ -12396,10 +12396,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列传统文人书斋空间美学语篇中存现句式最丰富、文采最斐然、意境最高雅的一项：",
           "options": [
-            "推开雅致的雕花木门，书斋沉香木大案上端正地摆放着文房四宝，案头正中铺展着一幅尚未题跋的宣纸长卷，铜炉里静静地燃着一缕清幽的沉香。靠墙的多宝格上陈列着历代线装古籍与青铜古玩，整座斋室内弥漫着深厚的书卷书香 (Core concept alternative form)",
-            "书房里面有很多书，桌子上放着纸和笔，还有香在烧着 (Core concept alternative form)",
-            "文房四宝被摆放在桌子上面，宣纸被铺开 (Core concept alternative form)",
-            "大案上面铺展着纸被毛笔写 (Core concept alternative form)"
+            "推开雅致的雕花木门，书斋沉香木大案上端正地摆放着文房四宝，案头正中铺展着一幅尚未题跋的宣纸长卷，铜炉里静静地燃着一缕清幽的沉香。靠墙的多宝格上陈列着历代线装古籍与青铜古玩，整座斋室内弥漫着深厚的书卷书香 (standard target expression for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "书房里面有很多书，桌子上放着纸和笔，还有香在烧着 (contextual contrast form in Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "文房四宝被摆放在桌子上面，宣纸被铺开 (formal register distinction for Spatial Aesthetics of Classical Gardens  Studies   Architecture)",
+            "大案上面铺展着纸被毛笔写 (colloquial conversational usage for Spatial Aesthetics of Classical Gardens  Studies   Architecture)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在存现动补「摆放着、铺展着、燃着、陈列着」的运用上浑然天成，生动呈现了东方文人书斋的至高美学风骨。"
@@ -12463,10 +12463,10 @@
         {
           "prompt": "在科技大国气象全景篇章中，串联「排列着科研楼 -> 矗立着火箭模型 -> 走过来青年学者 -> 铺展着智慧新城」的空间主线是：",
           "options": [
-            "静态基地铺展 -> 动态人才汇聚 -> 宏观远景升华 (Core concept alternative form)",
-            "全部表示身体在跑来跑去 (Core concept alternative form)",
-            "没有主语也没有处所 (Core concept alternative form)",
-            "全篇全是病句 (Core concept alternative form)"
+            "静态基地铺展 -> 动态人才汇聚 -> 宏观远景升华 (standard target expression for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "全部表示身体在跑来跑去 (contextual contrast form in Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "没有主语也没有处所 (formal register distinction for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "全篇全是病句 (colloquial conversational usage for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)"
           ],
           "answerIndex": 0,
           "explanation": "叙事篇章严格遵循从静态空间陈列、动态隐现汇聚到宏观气象升华的立体存现系统。"
@@ -12474,10 +12474,10 @@
         {
           "prompt": "语篇中「极目远眺」成语的核心含义是：",
           "options": [
-            "尽力张开眼睛向极其遥远的地方远望 (Core concept alternative form)",
-            "闭上眼睛睡觉 (Core concept alternative form)",
-            "低头看自己的脚 (Core concept alternative form)",
-            "只看眼前一寸地方 (Core concept alternative form)"
+            "尽力张开眼睛向极其遥远的地方远望 (standard target expression for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "闭上眼睛睡觉 (contextual contrast form in Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "低头看自己的脚 (formal register distinction for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "只看眼前一寸地方 (colloquial conversational usage for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)"
           ],
           "answerIndex": 0,
           "explanation": "「极目远眺」是形容极尽眼力向开阔遥远空间极目远望的经典典雅成语。"
@@ -12489,10 +12489,10 @@
         {
           "prompt": "请选出下列空间全景叙事中存现句融合最典范、气魄最宏阔的一项：",
           "options": [
-            "园区主干道两侧排列着现代化科研楼，展厅正中矗立着运载火箭模型，广场上迎面走过来批批青年科学家，蓝天下铺展着壮丽的科技新城 (Core concept alternative form)",
-            "园区有楼，火箭在展厅，青年科学家走，新城很好 (Core concept alternative form)",
-            "科研楼被排列在两侧，火箭被矗立 (Core concept alternative form)",
-            "走过来新城在蓝天下 (Core concept alternative form)"
+            "园区主干道两侧排列着现代化科研楼，展厅正中矗立着运载火箭模型，广场上迎面走过来批批青年科学家，蓝天下铺展着壮丽的科技新城 (standard target expression for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "园区有楼，火箭在展厅，青年科学家走，新城很好 (contextual contrast form in Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "科研楼被排列在两侧，火箭被矗立 (formal register distinction for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "走过来新城在蓝天下 (colloquial conversational usage for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在多层空间方位、静态与动态存现的切换及思想气魄上达到了现代汉语写作的巅峰水准。"
@@ -12500,10 +12500,10 @@
         {
           "prompt": "在宏观空间描写中表达物体像巨大山峰般庄严挺拔站立，最典雅的成语动词是：",
           "options": [
-            "巍然矗立 / 拔地而起 (Core concept alternative form)",
-            "躺在地上 (Core concept alternative form)",
-            "趴在那里 (Core concept alternative form)",
-            "缩成一团 (Core concept alternative form)"
+            "巍然矗立 / 拔地而起 (standard target expression for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "躺在地上 (contextual contrast form in Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "趴在那里 (formal register distinction for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "缩成一团 (colloquial conversational usage for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)"
           ],
           "answerIndex": 0,
           "explanation": "「巍然矗立」是形容建筑物或模型雄伟挺拔、庄严高耸的经典成语。"
@@ -12516,10 +12516,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科技园区与大国气象综合叙事语篇中句式最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "漫步在现代化国家科学中心，宽阔的大道两旁坐落着数十座国家重点实验室，展厅中央巍然矗立着大国重器航天火箭模型，广场前不断走过来意气风发的青年科研先锋。极目远眺，在蔚蓝的天空下绵延铺展着一座生机勃勃的生态智慧新城，处处洋溢着科技报国与民族复兴的大国气象！ (Core concept alternative form)",
-            "科技中心有很多楼，里面放着火箭，人很多，城市很大 (Core concept alternative form)",
-            "重点实验室被坐落在两旁，火箭被矗立在中央 (Core concept alternative form)",
-            "新城铺展着在天空下把青年先锋走过来 (Core concept alternative form)"
+            "漫步在现代化国家科学中心，宽阔的大道两旁坐落着数十座国家重点实验室，展厅中央巍然矗立着大国重器航天火箭模型，广场前不断走过来意气风发的青年科研先锋。极目远眺，在蔚蓝的天空下绵延铺展着一座生机勃勃的生态智慧新城，处处洋溢着科技报国与民族复兴的大国气象！ (standard target expression for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "科技中心有很多楼，里面放着火箭，人很多，城市很大 (contextual contrast form in Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "重点实验室被坐落在两旁，火箭被矗立在中央 (formal register distinction for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)",
+            "新城铺展着在天空下把青年先锋走过来 (colloquial conversational usage for Comprehensive Spatial Panorama  Cultural Splendor   High Tech Parks)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在空间存现句全套体系的驾驭、辞章文采的高度与崇高的大国科技情怀上均达到了现代汉语的最高境界。"
@@ -12585,10 +12585,10 @@
         {
           "prompt": "在递进复句中，当两个分句的主语完全相同时，关联词「不仅 / 不但」与主语的正确语序是：",
           "options": [
-            "主语必须置于「不仅 / 不但」的前面 (Core concept alternative form)",
-            "「不仅 / 不但」必须置于主语前面 (Core concept alternative form)",
-            "主语必须置于句末 (Core concept alternative form)",
-            "主语可以随意放置 (Core concept alternative form)"
+            "主语必须置于「不仅 / 不但」的前面 (standard target expression for Progressive Complex Sentences   Subject Position Rules)",
+            "「不仅 / 不但」必须置于主语前面 (contextual contrast form in Progressive Complex Sentences   Subject Position Rules)",
+            "主语必须置于句末 (formal register distinction for Progressive Complex Sentences   Subject Position Rules)",
+            "主语可以随意放置 (colloquial conversational usage for Progressive Complex Sentences   Subject Position Rules)"
           ],
           "answerIndex": 0,
           "explanation": "主语相同时，主语必须置于关联词前（如：李教授不仅精通理论，而且善于实践）。"
@@ -12596,10 +12596,10 @@
         {
           "prompt": "当两个分句的主语不同时（如主语1为学生，主语2为老师），关联词「不仅」的正确位置是：",
           "options": [
-            "必须置于第一个主语的前面：不仅学生......而且老师...... (Core concept alternative form)",
-            "必须置于第一个主语的后面 (Core concept alternative form)",
-            "必须置于第二个主语的后面 (Core concept alternative form)",
-            "必须置于句末 (Core concept alternative form)"
+            "必须置于第一个主语的前面：不仅学生......而且老师...... (standard target expression for Progressive Complex Sentences   Subject Position Rules)",
+            "必须置于第一个主语的后面 (contextual contrast form in Progressive Complex Sentences   Subject Position Rules)",
+            "必须置于第二个主语的后面 (formal register distinction for Progressive Complex Sentences   Subject Position Rules)",
+            "必须置于句末 (colloquial conversational usage for Progressive Complex Sentences   Subject Position Rules)"
           ],
           "answerIndex": 0,
           "explanation": "主语不同时，关联词必须置于第一个主语前面，统领全句分工。"
@@ -12611,10 +12611,10 @@
         {
           "prompt": "下列哪一个递进复句犯了「主语相同时错误将不仅置于主语前」的语法病句？",
           "options": [
-            "*不仅张研究员发表了多篇顶刊，而且获得了国家青年科技奖 (Core concept alternative form)",
-            "张研究员不仅发表了多篇顶刊，而且获得了国家青年科技奖 (Core concept alternative form)",
-            "不仅张研究员获得了奖项，而且李工程师也获得了表彰 (Core concept alternative form)",
-            "张研究员不仅理论功底深厚，而且实践经验丰富 (Core concept alternative form)"
+            "*不仅张研究员发表了多篇顶刊，而且获得了国家青年科技奖 (standard target expression for Progressive Complex Sentences   Subject Position Rules)",
+            "张研究员不仅发表了多篇顶刊，而且获得了国家青年科技奖 (contextual contrast form in Progressive Complex Sentences   Subject Position Rules)",
+            "不仅张研究员获得了奖项，而且李工程师也获得了表彰 (formal register distinction for Progressive Complex Sentences   Subject Position Rules)",
+            "张研究员不仅理论功底深厚，而且实践经验丰富 (colloquial conversational usage for Progressive Complex Sentences   Subject Position Rules)"
           ],
           "answerIndex": 0,
           "explanation": "前后分句主语都是「张研究员」，主语必须前置于「不仅」之前。"
@@ -12622,10 +12622,10 @@
         {
           "prompt": "表达「高级专家尚且感到困难，更不用说普通初学者」时，最地道的反衬递进关联搭配是：",
           "options": [
-            "尚且......何况...... / 尚且......更不用说...... (Core concept alternative form)",
-            "虽然......但是...... (Core concept alternative form)",
-            "因为......所以...... (Core concept alternative form)",
-            "如果......就...... (Core concept alternative form)"
+            "尚且......何况...... / 尚且......更不用说...... (standard target expression for Progressive Complex Sentences   Subject Position Rules)",
+            "虽然......但是...... (contextual contrast form in Progressive Complex Sentences   Subject Position Rules)",
+            "因为......所以...... (formal register distinction for Progressive Complex Sentences   Subject Position Rules)",
+            "如果......就...... (colloquial conversational usage for Progressive Complex Sentences   Subject Position Rules)"
           ],
           "answerIndex": 0,
           "explanation": "「尚且......何况......」是汉语中表达高强度反衬递进的经典关联体系。"
@@ -12638,10 +12638,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列递进复句中主语位置、动宾搭配及逻辑递进关系完全合规的一项：",
           "options": [
-            "不仅核心攻关小组通宵达旦地全力攻坚，而且全院各科研实验室也协同参与了数据验证，使得该项目不仅如期完成了阶段性目标，而且取得了远超预期的原创性成果！ (Core concept alternative form)",
-            "攻关小组不仅通宵攻坚，而且全院实验室协同 (Core concept alternative form)",
-            "不仅项目完成了目标，而且取得了成果 (Core concept alternative form)",
-            "尚且项目取得成果，何况小组 (Core concept alternative form)"
+            "不仅核心攻关小组通宵达旦地全力攻坚，而且全院各科研实验室也协同参与了数据验证，使得该项目不仅如期完成了阶段性目标，而且取得了远超预期的原创性成果！ (standard target expression for Progressive Complex Sentences   Subject Position Rules)",
+            "攻关小组不仅通宵攻坚，而且全院实验室协同 (contextual contrast form in Progressive Complex Sentences   Subject Position Rules)",
+            "不仅项目完成了目标，而且取得了成果 (formal register distinction for Progressive Complex Sentences   Subject Position Rules)",
+            "尚且项目取得成果，何况小组 (colloquial conversational usage for Progressive Complex Sentences   Subject Position Rules)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在主语不同与主语相同时准确切换了「不仅」的前后位置，完全符合现代汉语最高级语法规范。"
@@ -12705,10 +12705,10 @@
         {
           "prompt": "在辩证论证中，表达「先充分肯定某方案具有某种优势，然后笔锋一转提出更有分量的深层反思」时，最典雅的关联词搭配是：",
           "options": [
-            "固然......然而 / 但是...... (Core concept alternative form)",
-            "因为......所以...... (Core concept alternative form)",
-            "不仅......而且...... (Core concept alternative form)",
-            "只要......就...... (Core concept alternative form)"
+            "固然......然而 / 但是...... (standard target expression for Adversative Complex Sentences   Register Nuance)",
+            "因为......所以...... (contextual contrast form in Adversative Complex Sentences   Register Nuance)",
+            "不仅......而且...... (formal register distinction for Adversative Complex Sentences   Register Nuance)",
+            "只要......就...... (colloquial conversational usage for Adversative Complex Sentences   Register Nuance)"
           ],
           "answerIndex": 0,
           "explanation": "「固然......然而......」是先承认合理性再进行深层重大转折的经典辩证关联式。"
@@ -12716,10 +12716,10 @@
         {
           "prompt": "副词「却」在转折复句后一分句中的绝对位置是：",
           "options": [
-            "必须置于后一分句的主语之后、主要动词之前 (Core concept alternative form)",
-            "必须置于后一分句的主语前面 (Core concept alternative form)",
-            "必须置于前一分句的句首 (Core concept alternative form)",
-            "必须置于全句末尾 (Core concept alternative form)"
+            "必须置于后一分句的主语之后、主要动词之前 (standard target expression for Adversative Complex Sentences   Register Nuance)",
+            "必须置于后一分句的主语前面 (contextual contrast form in Adversative Complex Sentences   Register Nuance)",
+            "必须置于前一分句的句首 (formal register distinction for Adversative Complex Sentences   Register Nuance)",
+            "必须置于全句末尾 (colloquial conversational usage for Adversative Complex Sentences   Register Nuance)"
           ],
           "answerIndex": 0,
           "explanation": "副词「却」充当状语，语法位置必须置于主语后、动词前（如：他虽然很累，精神**却**很好）。"
@@ -12731,10 +12731,10 @@
         {
           "prompt": "下列哪一个句子中的转折副词「却」放置在了错误的语法位置？",
           "options": [
-            "*虽然天色已晚，却学者们依然在激烈研讨 (Core concept alternative form)",
-            "虽然天色已晚，学者们却依然在激烈研讨 (Core concept alternative form)",
-            "虽然任务繁重，大家却信心百倍 (Core concept alternative form)",
-            "虽然条件艰苦，他却从未放弃 (Core concept alternative form)"
+            "*虽然天色已晚，却学者们依然在激烈研讨 (standard target expression for Adversative Complex Sentences   Register Nuance)",
+            "虽然天色已晚，学者们却依然在激烈研讨 (contextual contrast form in Adversative Complex Sentences   Register Nuance)",
+            "虽然任务繁重，大家却信心百倍 (formal register distinction for Adversative Complex Sentences   Register Nuance)",
+            "虽然条件艰苦，他却从未放弃 (colloquial conversational usage for Adversative Complex Sentences   Register Nuance)"
           ],
           "answerIndex": 0,
           "explanation": "「却」绝不能放在主语「学者们」前面，应改为「学者们却依然在研讨」。"
@@ -12742,10 +12742,10 @@
         {
           "prompt": "在学术评审中，表达「大体肯定成果，仅作局部细节补充修正」时，最得体的轻微转折词是：",
           "options": [
-            "不过 / 只是 (Core concept alternative form)",
-            "然而 (Core concept alternative form)",
-            "但是 (Core concept alternative form)",
-            "反倒 (Core concept alternative form)"
+            "不过 / 只是 (standard target expression for Adversative Complex Sentences   Register Nuance)",
+            "然而 (contextual contrast form in Adversative Complex Sentences   Register Nuance)",
+            "但是 (formal register distinction for Adversative Complex Sentences   Register Nuance)",
+            "反倒 (colloquial conversational usage for Adversative Complex Sentences   Register Nuance)"
           ],
           "answerIndex": 0,
           "explanation": "「不过/只是」用于轻微转折与补充说明，语气委婉得体。"
@@ -12758,10 +12758,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列转折复句中辩证逻辑最周密、副词位置最精准、语体最典雅的一项：",
           "options": [
-            "引进成熟技术固然能够在短期内带来效益，然而从长远战略来看，我们却必须坚定不移地推进原创自主创新，唯有如此方能打破受制于人的被动局面 (Core concept alternative form)",
-            "引进技术固然好，却我们然而要自主创新 (Core concept alternative form)",
-            "虽然引进技术好，但是却我们要创新 (Core concept alternative form)",
-            "固然自主创新被技术引进 (Core concept alternative form)"
+            "引进成熟技术固然能够在短期内带来效益，然而从长远战略来看，我们却必须坚定不移地推进原创自主创新，唯有如此方能打破受制于人的被动局面 (standard target expression for Adversative Complex Sentences   Register Nuance)",
+            "引进技术固然好，却我们然而要自主创新 (contextual contrast form in Adversative Complex Sentences   Register Nuance)",
+            "虽然引进技术好，但是却我们要创新 (formal register distinction for Adversative Complex Sentences   Register Nuance)",
+            "固然自主创新被技术引进 (colloquial conversational usage for Adversative Complex Sentences   Register Nuance)"
           ],
           "answerIndex": 0,
           "explanation": "该句在「固然（承认短效）」与「然而（战略转折）」的配合上展现了高超的政论辩证逻辑，副词「却」位置完全合规。"
@@ -12825,10 +12825,10 @@
         {
           "prompt": "在学术答辩与论说文中，表达「先亮出引人瞩目的结果，再集中探究剖析其深层内在根源」时，最经典精炼的句式是：",
           "options": [
-            "......之所以......是因为...... (Core concept alternative form)",
-            "虽然......但是...... (Core concept alternative form)",
-            "只要......就...... (Core concept alternative form)",
-            "不仅......而且...... (Core concept alternative form)"
+            "......之所以......是因为...... (standard target expression for Causal   Inferential Complex Sentences)",
+            "虽然......但是...... (contextual contrast form in Causal   Inferential Complex Sentences)",
+            "只要......就...... (formal register distinction for Causal   Inferential Complex Sentences)",
+            "不仅......而且...... (colloquial conversational usage for Causal   Inferential Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「之所以......是因为......」是汉语倒装强调因果关系的标准规范句式。"
@@ -12836,10 +12836,10 @@
         {
           "prompt": "在句子「既然大方向已经明确，我们就应该毫不迟疑地推进实施」中，「既然......就......」表达的逻辑关系是：",
           "options": [
-            "推论因果 (Core concept alternative form)",
-            "假设让步 (Core concept alternative form)",
-            "递进关系 (Core concept alternative form)",
-            "转折关系 (Core concept alternative form)"
+            "推论因果 (standard target expression for Causal   Inferential Complex Sentences)",
+            "假设让步 (contextual contrast form in Causal   Inferential Complex Sentences)",
+            "递进关系 (formal register distinction for Causal   Inferential Complex Sentences)",
+            "转折关系 (colloquial conversational usage for Causal   Inferential Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「既然......就......」是由已知既定事实推导合乎逻辑的行动结论。"
@@ -12851,10 +12851,10 @@
         {
           "prompt": "书面语连词「从而」与「以致」的核心语义区别在于：",
           "options": [
-            "「从而」引出积极顺承的推进成果；「以致」引出消极不良的后果 (Core concept alternative form)",
-            "二者没有任何区别可以随意混用 (Core concept alternative form)",
-            "「从而」只能用于否定句 (Core concept alternative form)",
-            "「以致」只能用于疑问句 (Core concept alternative form)"
+            "「从而」引出积极顺承的推进成果；「以致」引出消极不良的后果 (standard target expression for Causal   Inferential Complex Sentences)",
+            "二者没有任何区别可以随意混用 (contextual contrast form in Causal   Inferential Complex Sentences)",
+            "「从而」只能用于否定句 (formal register distinction for Causal   Inferential Complex Sentences)",
+            "「以致」只能用于疑问句 (colloquial conversational usage for Causal   Inferential Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「从而」表积极引申推进，「以致」表不良过失性后果。"
@@ -12862,10 +12862,10 @@
         {
           "prompt": "下列哪一个句子中的因果倒装句「之所以......是因为......」运用完全正确？",
           "options": [
-            "实验之所以取得圆满成功，是因为全员付出了艰苦卓绝的努力 (Core concept alternative form)",
-            "之所以实验取得成功，是因为付出了努力很多 (Core concept alternative form)",
-            "实验因为取得成功，之所以大家努力 (Core concept alternative form)",
-            "是因为实验成功，之所以大家努力 (Core concept alternative form)"
+            "实验之所以取得圆满成功，是因为全员付出了艰苦卓绝的努力 (standard target expression for Causal   Inferential Complex Sentences)",
+            "之所以实验取得成功，是因为付出了努力很多 (contextual contrast form in Causal   Inferential Complex Sentences)",
+            "实验因为取得成功，之所以大家努力 (formal register distinction for Causal   Inferential Complex Sentences)",
+            "是因为实验成功，之所以大家努力 (colloquial conversational usage for Causal   Inferential Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "主语置于之所以前（实验之所以...），后接是因为揭示原因，结构纯熟规范。"
@@ -12878,10 +12878,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列因果与推论复句中逻辑链条最严密、书面连词运用最纯熟的一项：",
           "options": [
-            "该项重大国家工程之所以能提前竣工并投入运营，是因为全体建设者发扬了精益求精的工匠精神，从而创造了世界基建史上的新奇迹！ (Core concept alternative form)",
-            "工程因为竣工提前，所以以致创造了奇迹 (Core concept alternative form)",
-            "既然工程提前竣工，是因为工匠精神 (Core concept alternative form)",
-            "从而工程之所以提前竣工 (Core concept alternative form)"
+            "该项重大国家工程之所以能提前竣工并投入运营，是因为全体建设者发扬了精益求精的工匠精神，从而创造了世界基建史上的新奇迹！ (standard target expression for Causal   Inferential Complex Sentences)",
+            "工程因为竣工提前，所以以致创造了奇迹 (contextual contrast form in Causal   Inferential Complex Sentences)",
+            "既然工程提前竣工，是因为工匠精神 (formal register distinction for Causal   Inferential Complex Sentences)",
+            "从而工程之所以提前竣工 (colloquial conversational usage for Causal   Inferential Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "该句精准融合了「之所以......是因为......」倒装因果与「从而......」积极顺承引申，逻辑严密，气魄宏大。"
@@ -12945,10 +12945,10 @@
         {
           "prompt": "在表达「前一分句是后一分句结果得以实现的唯一不可或缺的必由之路」时，正确的关联词是：",
           "options": [
-            "只有......才...... (Core concept key phrasing)",
-            "只要......就...... (Core concept alternative form)",
-            "无论......都...... (Core concept alternative form)",
-            "即使......也...... (Core concept alternative form)"
+            "只有......才...... (standard target expression for Conditional   Hypothetical Complex Sentences)",
+            "只要......就...... (contextual contrast form in Conditional   Hypothetical Complex Sentences)",
+            "无论......都...... (formal register distinction for Conditional   Hypothetical Complex Sentences)",
+            "即使......也...... (colloquial conversational usage for Conditional   Hypothetical Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「只有......才......」表达必要条件（唯一前提），非此不可。"
@@ -12956,10 +12956,10 @@
         {
           "prompt": "在表达「排除任何外界环境与干扰的限制，结论都坚定不变」时，最准确的无条件关联词是：",
           "options": [
-            "无论 / 不管......都...... (Core concept alternative form)",
-            "只要......就...... (Core concept alternative form)",
-            "只有......才...... (Core concept alternative form)",
-            "既然......就...... (Core concept alternative form)"
+            "无论 / 不管......都...... (standard target expression for Conditional   Hypothetical Complex Sentences)",
+            "只要......就...... (contextual contrast form in Conditional   Hypothetical Complex Sentences)",
+            "只有......才...... (formal register distinction for Conditional   Hypothetical Complex Sentences)",
+            "既然......就...... (colloquial conversational usage for Conditional   Hypothetical Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「无论/不管......都......」是表达排除一切条件限制的无条件复句。"
@@ -12971,10 +12971,10 @@
         {
           "prompt": "下列哪一个句子犯了「混淆充分条件只要就与必要条件只有才」的搭配错误？",
           "options": [
-            "*只有我们团结一致，就能克服难关 (Core concept alternative form)",
-            "只要我们团结一致，就能克服难关 (Core concept alternative form)",
-            "只有我们团结一致，才能克服难关 (Core concept alternative form)",
-            "无论面对什么难关，我们都能克服 (Core concept alternative form)"
+            "*只有我们团结一致，就能克服难关 (standard target expression for Conditional   Hypothetical Complex Sentences)",
+            "只要我们团结一致，就能克服难关 (contextual contrast form in Conditional   Hypothetical Complex Sentences)",
+            "只有我们团结一致，才能克服难关 (formal register distinction for Conditional   Hypothetical Complex Sentences)",
+            "无论面对什么难关，我们都能克服 (colloquial conversational usage for Conditional   Hypothetical Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「只有」必须与「才」搭配，绝不能与「就」混搭为病句「*只有......就......」。"
@@ -12982,10 +12982,10 @@
         {
           "prompt": "表达「哪怕退一步承认最极端的困难假定，科研探索决心依然不变」的让步假设关联词是：",
           "options": [
-            "哪怕 / 即使......也...... (Core concept alternative form)",
-            "因为......所以...... (Core concept alternative form)",
-            "不仅......而且...... (Core concept alternative form)",
-            "既然......就...... (Core concept alternative form)"
+            "哪怕 / 即使......也...... (standard target expression for Conditional   Hypothetical Complex Sentences)",
+            "因为......所以...... (contextual contrast form in Conditional   Hypothetical Complex Sentences)",
+            "不仅......而且...... (formal register distinction for Conditional   Hypothetical Complex Sentences)",
+            "既然......就...... (colloquial conversational usage for Conditional   Hypothetical Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "「哪怕/即使......也......」是表达极端让步假设的经典句式。"
@@ -12998,10 +12998,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列条件与假设复句中关联词搭配严丝合缝、逻辑层次最严整的一项：",
           "options": [
-            "在攀登世界科技高峰的壮阔征程中，无论前方遭遇多少荆棘险阻，只要我们坚定自立自强的必胜信念，就一定能攻克难关；并且只有牢牢掌握核心自主产权，才能真正赢得世界的由衷尊重！ (Core concept alternative form)",
-            "只有我们坚定信念，就能赢得尊重无论困难 (Core concept alternative form)",
-            "哪怕掌握核心技术，才赢得尊重 (Core concept alternative form)",
-            "只要掌握产权，才赢得尊重 (Core concept alternative form)"
+            "在攀登世界科技高峰的壮阔征程中，无论前方遭遇多少荆棘险阻，只要我们坚定自立自强的必胜信念，就一定能攻克难关；并且只有牢牢掌握核心自主产权，才能真正赢得世界的由衷尊重！ (standard target expression for Conditional   Hypothetical Complex Sentences)",
+            "只有我们坚定信念，就能赢得尊重无论困难 (contextual contrast form in Conditional   Hypothetical Complex Sentences)",
+            "哪怕掌握核心技术，才赢得尊重 (formal register distinction for Conditional   Hypothetical Complex Sentences)",
+            "只要掌握产权，才赢得尊重 (colloquial conversational usage for Conditional   Hypothetical Complex Sentences)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在无条件「无论...」、充分条件「只要...就...」与必要条件「只有...才...」的配合上逻辑严丝合缝，堪称典范。"
@@ -13065,10 +13065,10 @@
         {
           "prompt": "在战略决策综合论说语篇中，串联「固然（承认短利） -> 然而（战略转折） -> 只有才（必由之路） -> 之所以是因为（精神根源） -> 不仅更（使命升华）」的多重复句功能是：",
           "options": [
-            "辩证考量 -> 战略定力 -> 探求根源 -> 崇高升华 (Core concept alternative form)",
-            "全部表示身体跑来跑去 (Core concept alternative form)",
-            "只是单纯的排比句没有任何逻辑 (Core concept alternative form)",
-            "全篇全是病句 (Core concept alternative form)"
+            "辩证考量 -> 战略定力 -> 探求根源 -> 崇高升华 (standard target expression for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "全部表示身体跑来跑去 (contextual contrast form in Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "只是单纯的排比句没有任何逻辑 (formal register distinction for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "全篇全是病句 (colloquial conversational usage for Comprehensive Multi Clause Dialectical   Strategic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "叙事语篇严格遵循从辩证转折、战略定力到探究根源与使命升华的严密逻辑链条。"
@@ -13076,10 +13076,10 @@
         {
           "prompt": "语篇中「自力更生，自立自强」的核心时代内涵是：",
           "options": [
-            "依靠本国自身力量开拓创新、掌握科技主动权 (Core concept alternative form)",
-            "完全封闭不与任何国家交流 (Core concept alternative form)",
-            "遇到困难等待别人救助 (Core concept alternative form)",
-            "完全放弃科技研发 (Core concept alternative form)"
+            "依靠本国自身力量开拓创新、掌握科技主动权 (standard target expression for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "完全封闭不与任何国家交流 (contextual contrast form in Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "遇到困难等待别人救助 (formal register distinction for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "完全放弃科技研发 (colloquial conversational usage for Comprehensive Multi Clause Dialectical   Strategic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「自立自强」是当代中国科技发展中依靠自主攻关掌握战略主动权的核心理念。"
@@ -13091,10 +13091,10 @@
         {
           "prompt": "请选出下列战略论说语篇中复句逻辑链条最严密、文采最沉雄斐然的一项：",
           "options": [
-            "引进技术固然能够解燃眉之急，然而只有坚定自主创新，才能真正把握命运；我们的事业之所以能跨越发展，是因为全体青年学者不仅肩负探索使命，更心怀报国担当！ (Core concept alternative form)",
-            "引进技术好，但是要创新，因为大家努力，不仅做实验而且写论文 (Core concept alternative form)",
-            "之所以我们要创新，是因为固然技术被引进 (Core concept alternative form)",
-            "哪怕只有我们掌握技术，才能成功 (Core concept alternative form)"
+            "引进技术固然能够解燃眉之急，然而只有坚定自主创新，才能真正把握命运；我们的事业之所以能跨越发展，是因为全体青年学者不仅肩负探索使命，更心怀报国担当！ (standard target expression for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "引进技术好，但是要创新，因为大家努力，不仅做实验而且写论文 (contextual contrast form in Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "之所以我们要创新，是因为固然技术被引进 (formal register distinction for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "哪怕只有我们掌握技术，才能成功 (colloquial conversational usage for Comprehensive Multi Clause Dialectical   Strategic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在多重关联词体系的综合驾驭、辩证说理的深度及爱国情怀的表达上达到了现代汉语政论文的最高境界。"
@@ -13102,10 +13102,10 @@
         {
           "prompt": "在宏观战略叙事中表达从根本上摆脱被动、掌握主动地位的核心四字成语是：",
           "options": [
-            "立于不败之地 / 掌握主动权 (Core concept alternative form)",
-            "任人宰割 (Core concept alternative form)",
-            "举棋不定 (Core concept alternative form)",
-            "随波逐流 (Core concept alternative form)"
+            "立于不败之地 / 掌握主动权 (standard target expression for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "任人宰割 (contextual contrast form in Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "举棋不定 (formal register distinction for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "随波逐流 (colloquial conversational usage for Comprehensive Multi Clause Dialectical   Strategic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「立于不败之地」是战略决策中表达筑牢根基、立足长远的经典成语。"
@@ -13118,10 +13118,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列辩证论证与战略蓝图综合论说语篇中逻辑最严密、词章最斐然、思想境界最高远的一项：",
           "options": [
-            "站在新的历史起点上，引进国外技术固然能带来一时的便利，然而唯有高水平科技自立自强，方能从根本上立于不败之地。我们的科研事业之所以能不断打破垄断，是因为广大科学家哪怕历经万难也始终矢志报国。新时代青年不仅要勇攀科学高峰，更要以自强不息的奋斗铸就中华民族伟大复兴的壮丽蓝图！ (Core concept alternative form)",
-            "我们要做好科研，因为技术很重要，大家要努力，不要怕困难 (Core concept alternative form)",
-            "固然技术被打破垄断，是因为大家哪怕努力了 (Core concept alternative form)",
-            "之所以只有创新，才能而且发展 (Core concept alternative form)"
+            "站在新的历史起点上，引进国外技术固然能带来一时的便利，然而唯有高水平科技自立自强，方能从根本上立于不败之地。我们的科研事业之所以能不断打破垄断，是因为广大科学家哪怕历经万难也始终矢志报国。新时代青年不仅要勇攀科学高峰，更要以自强不息的奋斗铸就中华民族伟大复兴的壮丽蓝图！ (standard target expression for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "我们要做好科研，因为技术很重要，大家要努力，不要怕困难 (contextual contrast form in Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "固然技术被打破垄断，是因为大家哪怕努力了 (formal register distinction for Comprehensive Multi Clause Dialectical   Strategic Narrative)",
+            "之所以只有创新，才能而且发展 (colloquial conversational usage for Comprehensive Multi Clause Dialectical   Strategic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在多重复句系统（转折、因果、条件、让步、递进）的综合驾驭与崇高家国情怀上均达到了现代汉语的最高境界。"
@@ -13185,10 +13185,10 @@
         {
           "prompt": "在正式公文与学术报告中，口语词「为了 / 想要」最地道典雅的书面双音节对偶词是：",
           "options": [
-            "旨在 / 意在 (Core concept alternative form)",
-            "想去 (Core concept alternative form)",
-            "为了想 (Core concept alternative form)",
-            "打算是 (Core concept alternative form)"
+            "旨在 / 意在 (standard target expression for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "想去 (contextual contrast form in Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "为了想 (formal register distinction for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "打算是 (colloquial conversational usage for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)"
           ],
           "answerIndex": 0,
           "explanation": "「旨在」是表达会议、计划、政策等核心目的的标准书面语用词。"
@@ -13196,10 +13196,10 @@
         {
           "prompt": "在书面语中表达「因为考虑到某种现实背景原因」，最规范典雅的句首关联词是：",
           "options": [
-            "鉴于 (Core concept key phrasing)",
-            "因为着 (Core concept alternative form)",
-            "由于吧 (Core concept alternative form)",
-            "想来想去 (Core concept alternative form)"
+            "鉴于 (standard target expression for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "因为着 (contextual contrast form in Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "由于吧 (formal register distinction for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "想来想去 (colloquial conversational usage for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)"
           ],
           "answerIndex": 0,
           "explanation": "「鉴于」是现代公文与学术政论中用于交代前提背景的标准书面词。"
@@ -13211,10 +13211,10 @@
         {
           "prompt": "请选出下列句子中书面语体转换最彻底、辞令最典雅庄重的一项：",
           "options": [
-            "鉴于该项目具有重大的战略价值，专家组拟对其予以全额资助，旨在加速突破核心卡脖子技术 (Core concept alternative form)",
-            "因为这个项目挺好，专家们想给它钱，为了搞快点突破技术 (Core concept alternative form)",
-            "鉴于专家想给钱，旨在由于技术好 (Core concept alternative form)",
-            "项目被拟在专家给钱 (Core concept alternative form)"
+            "鉴于该项目具有重大的战略价值，专家组拟对其予以全额资助，旨在加速突破核心卡脖子技术 (standard target expression for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "因为这个项目挺好，专家们想给它钱，为了搞快点突破技术 (contextual contrast form in Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "鉴于专家想给钱，旨在由于技术好 (formal register distinction for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "项目被拟在专家给钱 (colloquial conversational usage for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在虚词与动词的选择上完全符合现代高级汉语公文与学术报告的最高标准。"
@@ -13222,10 +13222,10 @@
         {
           "prompt": "表达「从某个起始时间到某个截止时间」，最精炼的书面语结构是：",
           "options": [
-            "自......至...... / 自......起至......止 (Core concept alternative form)",
-            "从......到......吧 (Core concept alternative form)",
-            "打从......到......呢 (Core concept alternative form)",
-            "由......去到...... (Core concept alternative form)"
+            "自......至...... / 自......起至......止 (standard target expression for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "从......到......吧 (contextual contrast form in Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "打从......到......呢 (formal register distinction for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "由......去到...... (colloquial conversational usage for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)"
           ],
           "answerIndex": 0,
           "explanation": "「自......至......」是现代汉语公文中表达时空区间的标准文言化精炼结构。"
@@ -13238,10 +13238,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术研讨会开幕辞中书面语体最典雅、辞章最庄重、结构最严谨的一项：",
           "options": [
-            "鉴于全球科技发展日新月异，本次国际学术论坛旨在搭建高水平跨学科对话平台，自开幕之日起至本周末，各国专家将围绕核心前沿议题展开深入审视，并对青年学者杰出论文予以表彰 (Core concept alternative form)",
-            "因为科技发展很快，我们开这个会想让大家聊聊，从今天到周末，大家看看论文给点奖 (Core concept alternative form)",
-            "鉴于大家聊聊，旨在给点奖在周末 (Core concept alternative form)",
-            "专家被旨在开会自今天 (Core concept alternative form)"
+            "鉴于全球科技发展日新月异，本次国际学术论坛旨在搭建高水平跨学科对话平台，自开幕之日起至本周末，各国专家将围绕核心前沿议题展开深入审视，并对青年学者杰出论文予以表彰 (standard target expression for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "因为科技发展很快，我们开这个会想让大家聊聊，从今天到周末，大家看看论文给点奖 (contextual contrast form in Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "鉴于大家聊聊，旨在给点奖在周末 (formal register distinction for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)",
+            "专家被旨在开会自今天 (colloquial conversational usage for Spoken vs  Formal Written Register Lexical   Syntactic Mapping)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在现代汉语高级书面语词汇的运用上浑然天成，完全达到了国际高规格学术峰会发言的专业水准。"
@@ -13305,10 +13305,10 @@
         {
           "prompt": "成语「格物致知」最早源自儒家经典《礼记·大学》，其在现代学术语境下的核心含义是：",
           "options": [
-            "穷究客观事物的本质规律与科学原理，从而获取真正的理性知识 (Core concept alternative form)",
-            "把物品随意乱放 (Core concept alternative form)",
-            "只看物体的表面颜色 (Core concept alternative form)",
-            "买卖各类商品 (Core concept alternative form)"
+            "穷究客观事物的本质规律与科学原理，从而获取真正的理性知识 (standard target expression for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "把物品随意乱放 (contextual contrast form in High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "只看物体的表面颜色 (formal register distinction for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "买卖各类商品 (colloquial conversational usage for High Frequency Academic  Scholarly   Moral Chengyu Systems)"
           ],
           "answerIndex": 0,
           "explanation": "「格物致知」是中国古代认识论的核心命题，意为深入探究客观物理以达到真理认知。"
@@ -13316,10 +13316,10 @@
         {
           "prompt": "成语「厚积薄发」形容的学术攻关规律是：",
           "options": [
-            "经过长期大量的深厚积累储备，然后才能释放出强大的创新突破 (Core concept alternative form)",
-            "做事情马马虎虎不积累 (Core concept alternative form)",
-            "只做表面文章 (Core concept alternative form)",
-            "遇到困难立刻放弃 (Core concept alternative form)"
+            "经过长期大量的深厚积累储备，然后才能释放出强大的创新突破 (standard target expression for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "做事情马马虎虎不积累 (contextual contrast form in High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "只做表面文章 (formal register distinction for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "遇到困难立刻放弃 (colloquial conversational usage for High Frequency Academic  Scholarly   Moral Chengyu Systems)"
           ],
           "answerIndex": 0,
           "explanation": "「厚积薄发」是形容长期潜心积淀后迎来重大收获的经典成语。"
@@ -13331,10 +13331,10 @@
         {
           "prompt": "在描写老科学家不慕虚名、专心致力于崇高科学事业的精神境界时，最贴切的成语是：",
           "options": [
-            "淡泊明志，宁静致远 (Core concept key phrasing)",
-            "急功近利 (Core concept alternative form)",
-            "追名逐利 (Core concept alternative form)",
-            "好大喜功 (Core concept alternative form)"
+            "淡泊明志，宁静致远 (standard target expression for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "急功近利 (contextual contrast form in High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "追名逐利 (formal register distinction for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "好大喜功 (colloquial conversational usage for High Frequency Academic  Scholarly   Moral Chengyu Systems)"
           ],
           "answerIndex": 0,
           "explanation": "「淡泊明志，宁静致远」是赞美学者超凡脱俗、潜心科学风骨的最高赞誉成语。"
@@ -13342,10 +13342,10 @@
         {
           "prompt": "成语「融会贯通」在学术研究中指的是：",
           "options": [
-            "把各门类、各学派的知识与理论深刻融合，形成完整贯通的认知体系 (Core concept alternative form)",
-            "把所有的路都修通 (Core concept alternative form)",
-            "在路上散步 (Core concept alternative form)",
-            "把水倒在杯子里 (Core concept alternative form)"
+            "把各门类、各学派的知识与理论深刻融合，形成完整贯通的认知体系 (standard target expression for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "把所有的路都修通 (contextual contrast form in High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "在路上散步 (formal register distinction for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "把水倒在杯子里 (colloquial conversational usage for High Frequency Academic  Scholarly   Moral Chengyu Systems)"
           ],
           "answerIndex": 0,
           "explanation": "「融会贯通」指将零散复杂的学术理论彻底贯通为有机整体。"
@@ -13358,10 +13358,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术治学叙事中成语搭配最严谨、思想境界最高远、文采最斐然的一项：",
           "options": [
-            "在探索科学前沿的漫长征程中，青年学者既要有潜心笃志、韦编三绝的治学毅力，又要有格物致知、厚积薄发的求真定力，更要有淡泊明志、宁静致远的高尚风骨，方能在科技攻关中披荆斩棘、勇攀高峰！ (Core concept alternative form)",
-            "学者们急功近利，随便看看书，想马上取得成功 (Core concept alternative form)",
-            "大家披荆斩棘在教室里睡觉 (Core concept alternative form)",
-            "淡泊明志被学者们做了很多实验 (Core concept alternative form)"
+            "在探索科学前沿的漫长征程中，青年学者既要有潜心笃志、韦编三绝的治学毅力，又要有格物致知、厚积薄发的求真定力，更要有淡泊明志、宁静致远的高尚风骨，方能在科技攻关中披荆斩棘、勇攀高峰！ (standard target expression for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "学者们急功近利，随便看看书，想马上取得成功 (contextual contrast form in High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "大家披荆斩棘在教室里睡觉 (formal register distinction for High Frequency Academic  Scholarly   Moral Chengyu Systems)",
+            "淡泊明志被学者们做了很多实验 (colloquial conversational usage for High Frequency Academic  Scholarly   Moral Chengyu Systems)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇将治学、求真、风骨与攻关四大维度的核心成语熔铸于一炉，气度宏大，立意深远。"
@@ -13425,10 +13425,10 @@
         {
           "prompt": "在战略政论语境中，表达「站得高、看得远，具有宏远开阔的历史大局眼光」的核心成语是：",
           "options": [
-            "高瞻远瞩 / 深谋远虑 (Core concept alternative form)",
-            "目光短浅 (Core concept alternative form)",
-            "鼠目寸光 (Core concept alternative form)",
-            "只顾眼前 (Core concept alternative form)"
+            "高瞻远瞩 / 深谋远虑 (standard target expression for Macro Era   Governance High Register Political Chengyu)",
+            "目光短浅 (contextual contrast form in Macro Era   Governance High Register Political Chengyu)",
+            "鼠目寸光 (formal register distinction for Macro Era   Governance High Register Political Chengyu)",
+            "只顾眼前 (colloquial conversational usage for Macro Era   Governance High Register Political Chengyu)"
           ],
           "answerIndex": 0,
           "explanation": "「高瞻远瞩」是形容战略决策层具有长远战略宏阔眼光的经典高规格成语。"
@@ -13436,10 +13436,10 @@
         {
           "prompt": "成语「戮力同心」中「戮力」的准确含义是：",
           "options": [
-            "齐心合力、共同倾尽所有力量 (Core concept alternative form)",
-            "互相拆台 (Core concept alternative form)",
-            "分散力量 (Core concept alternative form)",
-            "消极怠工 (Core concept alternative form)"
+            "齐心合力、共同倾尽所有力量 (standard target expression for Macro Era   Governance High Register Political Chengyu)",
+            "互相拆台 (contextual contrast form in Macro Era   Governance High Register Political Chengyu)",
+            "分散力量 (formal register distinction for Macro Era   Governance High Register Political Chengyu)",
+            "消极怠工 (colloquial conversational usage for Macro Era   Governance High Register Political Chengyu)"
           ],
           "answerIndex": 0,
           "explanation": "「戮力」意为合力、并力，「戮力同心」指万众齐心合力成就大业。"
@@ -13451,10 +13451,10 @@
         {
           "prompt": "在重大工程安全管理中，表达「在极其微小的风险隐患刚刚萌芽时就彻底予以排查消除」的成语是：",
           "options": [
-            "防微杜渐 (Core concept key phrasing)",
-            "任其发展 (Core concept alternative form)",
-            "敷衍了事 (Core concept alternative form)",
-            "亡羊补牢 (Core concept alternative form)"
+            "防微杜渐 (standard target expression for Macro Era   Governance High Register Political Chengyu)",
+            "任其发展 (contextual contrast form in Macro Era   Governance High Register Political Chengyu)",
+            "敷衍了事 (formal register distinction for Macro Era   Governance High Register Political Chengyu)",
+            "亡羊补牢 (colloquial conversational usage for Macro Era   Governance High Register Political Chengyu)"
           ],
           "answerIndex": 0,
           "explanation": "「防微杜渐」指在隐患萌芽阶段就予以防范杜绝，是工程安全与廉政建设的高频成语。"
@@ -13462,10 +13462,10 @@
         {
           "prompt": "请选出下列政论社论语篇中成语搭配最严谨、气势最磅礴的一项：",
           "options": [
-            "面对波澜壮阔的新时代征程，我们要高瞻远瞩谋全局、统筹兼顾促发展，只要全党全国人民戮力同心、众志成城，就必定能砥砺前行、再创辉煌！ (Core concept alternative form)",
-            "新时代很热闹，大家一起做事情，不要害怕困难，慢慢走 (Core concept alternative form)",
-            "波澜壮阔被我们高瞻远瞩在路上 (Core concept alternative form)",
-            "防微杜渐谋全局在全国人民 (Core concept alternative form)"
+            "面对波澜壮阔的新时代征程，我们要高瞻远瞩谋全局、统筹兼顾促发展，只要全党全国人民戮力同心、众志成城，就必定能砥砺前行、再创辉煌！ (standard target expression for Macro Era   Governance High Register Political Chengyu)",
+            "新时代很热闹，大家一起做事情，不要害怕困难，慢慢走 (contextual contrast form in Macro Era   Governance High Register Political Chengyu)",
+            "波澜壮阔被我们高瞻远瞩在路上 (formal register distinction for Macro Era   Governance High Register Political Chengyu)",
+            "防微杜渐谋全局在全国人民 (colloquial conversational usage for Macro Era   Governance High Register Political Chengyu)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在宏观叙事成语的配合上达到了人民日报社论的高规格政论水平。"
@@ -13478,10 +13478,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列治国理政综合社论语篇中成语运用最纯熟、思想最深邃、辞章最庄严的一项：",
           "options": [
-            "回顾百年波澜壮阔的奋斗征程，我们党始终高瞻远瞩、深谋远虑，统筹兼顾发展全局。站在新的历史起点上，广大建设者同舟共济、砥砺前行，以防微杜渐的审慎确保万无一失，以戮力同心的伟力推动中华民族伟大复兴的巨轮乘风破浪！ (Core concept alternative form)",
-            "过去的一百年很有意思，我们做了很多打算，现在大家要一起努力把船开好 (Core concept alternative form)",
-            "高瞻远瞩被统筹兼顾，巨轮波澜壮阔在地上 (Core concept alternative form)",
-            "只要防微杜渐，就能波澜壮阔开巨轮 (Core concept alternative form)"
+            "回顾百年波澜壮阔的奋斗征程，我们党始终高瞻远瞩、深谋远虑，统筹兼顾发展全局。站在新的历史起点上，广大建设者同舟共济、砥砺前行，以防微杜渐的审慎确保万无一失，以戮力同心的伟力推动中华民族伟大复兴的巨轮乘风破浪！ (standard target expression for Macro Era   Governance High Register Political Chengyu)",
+            "过去的一百年很有意思，我们做了很多打算，现在大家要一起努力把船开好 (contextual contrast form in Macro Era   Governance High Register Political Chengyu)",
+            "高瞻远瞩被统筹兼顾，巨轮波澜壮阔在地上 (formal register distinction for Macro Era   Governance High Register Political Chengyu)",
+            "只要防微杜渐，就能波澜壮阔开巨轮 (colloquial conversational usage for Macro Era   Governance High Register Political Chengyu)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在政论成语全套系统的驾驭与大国气魄的展现上达到了现代汉语政论文的最高境界。"
@@ -13545,10 +13545,10 @@
         {
           "prompt": "在修辞学中，连续使用「需要仰望星空......，需要脚踏实地......，需要海纳百川......」三个结构相同、语气一致的分句，属于：",
           "options": [
-            "排比修辞 (Core concept key phrasing)",
-            "反问修辞 (Core concept alternative form)",
-            "借代修辞 (Core concept alternative form)",
-            "夸张修辞 (Core concept alternative form)"
+            "排比修辞 (standard target expression for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "反问修辞 (contextual contrast form in Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "借代修辞 (formal register distinction for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "夸张修辞 (colloquial conversational usage for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)"
           ],
           "answerIndex": 0,
           "explanation": "三个或以上结构对称、语气一致的分句并列使用构成经典排比修辞。"
@@ -13556,10 +13556,10 @@
         {
           "prompt": "对偶修辞的核心句法特征是：",
           "options": [
-            "字数严格相等、结构完全对称、词性相对、意义对称 (Core concept alternative form)",
-            "字数长短随意 (Core concept alternative form)",
-            "不需要任何语法对称 (Core concept alternative form)",
-            "只用一个单字 (Core concept alternative form)"
+            "字数严格相等、结构完全对称、词性相对、意义对称 (standard target expression for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "字数长短随意 (contextual contrast form in Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "不需要任何语法对称 (formal register distinction for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "只用一个单字 (colloquial conversational usage for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)"
           ],
           "answerIndex": 0,
           "explanation": "对偶要求字数相等、结构对称、词性相对，具有极强的声律美。"
@@ -13571,10 +13571,10 @@
         {
           "prompt": "在句子「创新是破浪前行的引擎，是引领时代的东风，是自立自强的铠甲」中，运用的主要修辞手法是：",
           "options": [
-            "隐喻/比喻 与 排比的融合运用 (Core concept alternative form)",
-            "拟人与设问 (Core concept alternative form)",
-            "夸张与借代 (Core concept alternative form)",
-            "对偶与反问 (Core concept alternative form)"
+            "隐喻/比喻 与 排比的融合运用 (standard target expression for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "拟人与设问 (contextual contrast form in Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "夸张与借代 (formal register distinction for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "对偶与反问 (colloquial conversational usage for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)"
           ],
           "answerIndex": 0,
           "explanation": "该句将「创新」具象比喻为引擎、东风与铠甲，并以三个并列分句构成排比。"
@@ -13582,10 +13582,10 @@
         {
           "prompt": "在论述青年学者使命时，从「立足科研前沿 -> 勇攀学术高峰 -> 服务国家战略」的步步升华，运用的修辞是：",
           "options": [
-            "层递 (Core concept key phrasing)",
-            "倒装 (Core concept alternative form)",
-            "省略 (Core concept alternative form)",
-            "互文 (Core concept alternative form)"
+            "层递 (standard target expression for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "倒装 (contextual contrast form in Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "省略 (formal register distinction for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "互文 (colloquial conversational usage for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)"
           ],
           "answerIndex": 0,
           "explanation": "「层递」是根据逻辑发展规律由浅入深、层层递进升华的经典修辞。"
@@ -13598,10 +13598,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列论述语段中排比、对偶、层递与隐喻修辞融合最完美、最具震撼感染力的一项：",
           "options": [
-            "青年科学家当以自强为舟、以奋斗为桨：立足实验前沿以强基，攻克核心难关以拓新，献身强国伟业以铸魂！让青春在星辰大海的探索中闪光，让智慧在民族复兴的征程中绽放！ (Core concept alternative form)",
-            "青年科学家要做实验，写论文，搞好国家建设，大家都很努力加油 (Core concept alternative form)",
-            "以舟为奋斗，实验被立足，绽放智慧在做实验 (Core concept alternative form)",
-            "创新是引擎但是青年是舟所以大家都好 (Core concept alternative form)"
+            "青年科学家当以自强为舟、以奋斗为桨：立足实验前沿以强基，攻克核心难关以拓新，献身强国伟业以铸魂！让青春在星辰大海的探索中闪光，让智慧在民族复兴的征程中绽放！ (standard target expression for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "青年科学家要做实验，写论文，搞好国家建设，大家都很努力加油 (contextual contrast form in Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "以舟为奋斗，实验被立足，绽放智慧在做实验 (formal register distinction for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)",
+            "创新是引擎但是青年是舟所以大家都好 (colloquial conversational usage for Rhetorical Devices  Parallelism  Antithesis  Gradation   Metaphor)"
           ],
           "answerIndex": 0,
           "explanation": "该语段融会了比喻、对偶、层递与排比全套修辞技法，声律铿锵，辞采飞扬，感染力极强。"
@@ -13665,10 +13665,10 @@
         {
           "prompt": "在时代学术宣言语篇中，串联「鉴于（宏观背景） -> 格物致知/厚积薄发（治学定力） -> 戮力同心/砥砺前行（政论担当） -> 科技巨轮乘风破浪（修辞升华）」的篇章主线是：",
           "options": [
-            "书面开篇 -> 学术修身 -> 国家战略 -> 宏大意象修辞升华 (Core concept alternative form)",
-            "身体运动跑操比赛 (Core concept alternative form)",
-            "买卖物品讨价还价 (Core concept alternative form)",
-            "全篇没有任何逻辑关联 (Core concept alternative form)"
+            "书面开篇 -> 学术修身 -> 国家战略 -> 宏大意象修辞升华 (standard target expression for Comprehensive High Register Academic Manifesto   Editorial)",
+            "身体运动跑操比赛 (contextual contrast form in Comprehensive High Register Academic Manifesto   Editorial)",
+            "买卖物品讨价还价 (formal register distinction for Comprehensive High Register Academic Manifesto   Editorial)",
+            "全篇没有任何逻辑关联 (colloquial conversational usage for Comprehensive High Register Academic Manifesto   Editorial)"
           ],
           "answerIndex": 0,
           "explanation": "语篇严格遵循从时代背景审视、治学风骨熔铸到国家战略担当与宏大修辞升华的最高范式。"
@@ -13676,10 +13676,10 @@
         {
           "prompt": "语篇中「不负时代，不负韶华」中「韶华」的经典含义是：",
           "options": [
-            "美好的青春年华与光阴 (Core concept alternative form)",
-            "秋天的树叶 (Core concept alternative form)",
-            "冬天的积雪 (Core concept alternative form)",
-            "生锈的铁器 (Core concept alternative form)"
+            "美好的青春年华与光阴 (standard target expression for Comprehensive High Register Academic Manifesto   Editorial)",
+            "秋天的树叶 (contextual contrast form in Comprehensive High Register Academic Manifesto   Editorial)",
+            "冬天的积雪 (formal register distinction for Comprehensive High Register Academic Manifesto   Editorial)",
+            "生锈的铁器 (colloquial conversational usage for Comprehensive High Register Academic Manifesto   Editorial)"
           ],
           "answerIndex": 0,
           "explanation": "「韶华」是中国传统诗文中指称青春美好年华的经典雅致词汇。"
@@ -13691,10 +13691,10 @@
         {
           "prompt": "请选出下列学术宣言与时代社论中书面语体、成语与修辞融合最完美、立意最高远的一项：",
           "options": [
-            "鉴于当今科技竞争日趋激烈，广大青年学者当以格物致知探真理，以厚积薄发攀高峰；戮力同心攻克关键难关，推动中国创新巨轮劈波斩浪，驶向民族复兴的光辉彼岸！ (Core concept alternative form)",
-            "科技竞争很激烈，我们要好好做实验，把船开好，争取复兴 (Core concept alternative form)",
-            "鉴于船劈波斩浪，格物致知被我们做实验 (Core concept alternative form)",
-            "旨在大家戮力同心在实验室睡觉 (Core concept alternative form)"
+            "鉴于当今科技竞争日趋激烈，广大青年学者当以格物致知探真理，以厚积薄发攀高峰；戮力同心攻克关键难关，推动中国创新巨轮劈波斩浪，驶向民族复兴的光辉彼岸！ (standard target expression for Comprehensive High Register Academic Manifesto   Editorial)",
+            "科技竞争很激烈，我们要好好做实验，把船开好，争取复兴 (contextual contrast form in Comprehensive High Register Academic Manifesto   Editorial)",
+            "鉴于船劈波斩浪，格物致知被我们做实验 (formal register distinction for Comprehensive High Register Academic Manifesto   Editorial)",
+            "旨在大家戮力同心在实验室睡觉 (colloquial conversational usage for Comprehensive High Register Academic Manifesto   Editorial)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在现代汉语最高级书面语词汇、经典四字成语与崇高修辞意境的结合上臻于化境。"
@@ -13702,10 +13702,10 @@
         {
           "prompt": "在宏大时代叙事中表达乘着东风劈开波浪、勇往直前的核心四字成语是：",
           "options": [
-            "乘风破浪 / 劈波斩浪 (Core concept key phrasing)",
-            "停滞不前 (Core concept alternative form)",
-            "畏缩不前 (Core concept alternative form)",
-            "半途而废 (Core concept alternative form)"
+            "乘风破浪 / 劈波斩浪 (standard target expression for Comprehensive High Register Academic Manifesto   Editorial)",
+            "停滞不前 (contextual contrast form in Comprehensive High Register Academic Manifesto   Editorial)",
+            "畏缩不前 (formal register distinction for Comprehensive High Register Academic Manifesto   Editorial)",
+            "半途而废 (colloquial conversational usage for Comprehensive High Register Academic Manifesto   Editorial)"
           ],
           "answerIndex": 0,
           "explanation": "「乘风破浪 / 劈波斩浪」是表达奋勇开拓、无惧险阻向前发展的经典成语。"
@@ -13718,10 +13718,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列时代学术宣言与大国科技社论综合语篇中词章最斐然、气度最恢宏、境界最高远的一项：",
           "options": [
-            "鉴于新一轮科技革命正在重塑世界格局，时代赋予青年学者无上光荣的历史重托。治学当如滴水穿石，求索当如百川归海。唯有以潜心笃志、格物致知之精神钻研真理，以淡泊明志、宁静致远之风骨坚守冷板凳，方能厚积薄发、披荆斩棘。只要全体科研工作者戮力同心、砥砺前行，中国科技创新的壮丽巨轮必将高挂云帆、乘风破浪，铸就中华民族伟大复兴的永恒辉煌！ (Core concept alternative form)",
-            "现在科技发展很快，大家要认真做实验，不怕辛苦，一起把国家建设好，加油努力！ (Core concept alternative form)",
-            "鉴于历史重托被赋予，巨轮在滴水穿石 (Core concept alternative form)",
-            "只要淡泊明志，就能劈波斩浪在实验室 (Core concept alternative form)"
+            "鉴于新一轮科技革命正在重塑世界格局，时代赋予青年学者无上光荣的历史重托。治学当如滴水穿石，求索当如百川归海。唯有以潜心笃志、格物致知之精神钻研真理，以淡泊明志、宁静致远之风骨坚守冷板凳，方能厚积薄发、披荆斩棘。只要全体科研工作者戮力同心、砥砺前行，中国科技创新的壮丽巨轮必将高挂云帆、乘风破浪，铸就中华民族伟大复兴的永恒辉煌！ (standard target expression for Comprehensive High Register Academic Manifesto   Editorial)",
+            "现在科技发展很快，大家要认真做实验，不怕辛苦，一起把国家建设好，加油努力！ (contextual contrast form in Comprehensive High Register Academic Manifesto   Editorial)",
+            "鉴于历史重托被赋予，巨轮在滴水穿石 (formal register distinction for Comprehensive High Register Academic Manifesto   Editorial)",
+            "只要淡泊明志，就能劈波斩浪在实验室 (colloquial conversational usage for Comprehensive High Register Academic Manifesto   Editorial)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在现代汉语书面语体、成语修辞系统与时代精神的熔铸上达到了当代中国散文与政论文的最高境界。"
@@ -13787,10 +13787,10 @@
         {
           "prompt": "在新华社权威新闻通稿开头，标注「新华社北京X月X日电」的专业新闻学名称是：",
           "options": [
-            "新闻电头 / 发稿电头 (Core concept alternative form)",
-            "文章结尾 (Core concept alternative form)",
-            "读者评论 (Core concept alternative form)",
-            "广告说明 (Core concept alternative form)"
+            "新闻电头 / 发稿电头 (standard target expression for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "文章结尾 (contextual contrast form in Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "读者评论 (formal register distinction for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "广告说明 (colloquial conversational usage for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "「电头」是新闻通讯社发布的标准消息开头，用于明确消息来源与发稿时空。"
@@ -13798,10 +13798,10 @@
         {
           "prompt": "倒金字塔结构新闻导语的核心写作要求是：",
           "options": [
-            "在篇首第一句话或第一段开门见山交代核心五要素与最重大成果 (Core concept alternative form)",
-            "把最重要的事情藏在最后一段 (Core concept alternative form)",
-            "只写天气不写事件 (Core concept alternative form)",
-            "通篇全是抒情散文没有任何事实 (Core concept alternative form)"
+            "在篇首第一句话或第一段开门见山交代核心五要素与最重大成果 (standard target expression for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "把最重要的事情藏在最后一段 (contextual contrast form in Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "只写天气不写事件 (formal register distinction for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "通篇全是抒情散文没有任何事实 (colloquial conversational usage for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "倒金字塔结构要求将最重要的核心事实置于导语首段，随后按重要程度递减展开。"
@@ -13813,10 +13813,10 @@
         {
           "prompt": "在新闻转述中，表达发言人对某项关键原则「特别予以着重突出口头表明」时，最准确的引述动词是：",
           "options": [
-            "强调 (Core concept key phrasing)",
-            "闲聊 (Core concept alternative form)",
-            "嘀咕 (Core concept alternative form)",
-            "随口说 (Core concept alternative form)"
+            "强调 (standard target expression for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "闲聊 (contextual contrast form in Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "嘀咕 (formal register distinction for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "随口说 (colloquial conversational usage for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "「强调」是新闻报道中表达对核心政策与原则给予最高度关注的标准引述词。"
@@ -13824,10 +13824,10 @@
         {
           "prompt": "请选出下列新闻通稿导语中结构最规范、语体最权威、信息最精炼的一项：",
           "options": [
-            "新华社北京电：记者从国家重大科技攻关领导小组获悉，我国自主研制的超导量子计算机原型机今日成功完成算力升级，标志着我国量子计算跻身世界前列 (Core concept alternative form)",
-            "今天北京天气挺好，我们听说计算机搞出来了，还挺厉害的 (Core concept alternative form)",
-            "标志着世界前列被计算机在领导小组 (Core concept alternative form)",
-            "计算机很厉害在新闻发布会闲聊 (Core concept alternative form)"
+            "新华社北京电：记者从国家重大科技攻关领导小组获悉，我国自主研制的超导量子计算机原型机今日成功完成算力升级，标志着我国量子计算跻身世界前列 (standard target expression for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "今天北京天气挺好，我们听说计算机搞出来了，还挺厉害的 (contextual contrast form in Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "标志着世界前列被计算机在领导小组 (formal register distinction for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "计算机很厉害在新闻发布会闲聊 (colloquial conversational usage for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在电头、导语五要素与重大战略意义表述上完全符合新华社通稿的最高规范。"
@@ -13840,10 +13840,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列新闻通稿在倒金字塔导语、引述动词与标志性结句上完全符合权威媒体规范的一项：",
           "options": [
-            "新华社北京电：记者从工业和信息化部获悉，截至上月底，我国累计建成开通5G基站逾三百万个，网络规模稳居全球首位。工信部负责人在新闻发布会上强调，将持续深化数字基础设施建设，标志着我国信息通信产业高质量发展迈出坚实步伐 (Core concept alternative form)",
-            "工信部昨天聊天说建了很多基站，大家觉得挺快，标志着很好 (Core concept alternative form)",
-            "5G基站被工信部宣布在昨天开通很多在发布会 (Core concept alternative form)",
-            "记者从基站获悉工信部在聊天 (Core concept alternative form)"
+            "新华社北京电：记者从工业和信息化部获悉，截至上月底，我国累计建成开通5G基站逾三百万个，网络规模稳居全球首位。工信部负责人在新闻发布会上强调，将持续深化数字基础设施建设，标志着我国信息通信产业高质量发展迈出坚实步伐 (standard target expression for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "工信部昨天聊天说建了很多基站，大家觉得挺快，标志着很好 (contextual contrast form in Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "5G基站被工信部宣布在昨天开通很多在发布会 (formal register distinction for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)",
+            "记者从基站获悉工信部在聊天 (colloquial conversational usage for Xinhua News Wire Headers  Inverted Pyramid Leads   Reporting Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在新闻电头、权威来源引介、精确数据展示及重大标志性意义的概括上堪称权威新闻典范。"
@@ -13909,10 +13909,10 @@
         {
           "prompt": "在经济统计报告中，将「今年3月份的数据与去年3月份的数据」进行对比，所使用的专业统计术语是：",
           "options": [
-            "同比 (Core concept key phrasing)",
-            "环比 (Core concept alternative form)",
-            "自比 (Core concept alternative form)",
-            "反比 (Core concept alternative form)"
+            "同比 (standard target expression for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "环比 (contextual contrast form in Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "自比 (formal register distinction for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "反比 (colloquial conversational usage for Macroeconomics  Industrial Upgrading   Statistical Indicators)"
           ],
           "answerIndex": 0,
           "explanation": "「同比」专门指与上年同一历史时期的数据进行对比。"
@@ -13920,10 +13920,10 @@
         {
           "prompt": "将「今年3月份的数据与今年2月份的数据」进行紧邻周期的环扣对比，所使用的专业术语是：",
           "options": [
-            "环比 (Core concept key phrasing)",
-            "同比 (Core concept alternative form)",
-            "正比 (Core concept alternative form)",
-            "虚比 (Core concept alternative form)"
+            "环比 (standard target expression for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "同比 (contextual contrast form in Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "正比 (formal register distinction for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "虚比 (colloquial conversational usage for Macroeconomics  Industrial Upgrading   Statistical Indicators)"
           ],
           "answerIndex": 0,
           "explanation": "「环比」是指与紧接在前的相邻统计周期进行对比。"
@@ -13935,10 +13935,10 @@
         {
           "prompt": "在宏观经济描述中，表达某种经济指标达到了有记录以来的最高峰值，最地道规范的表达是：",
           "options": [
-            "创历史新高 / 创历史同期最好水平 (Core concept alternative form)",
-            "高得不得了 (Core concept alternative form)",
-            "非常厉害地高 (Core concept alternative form)",
-            "高到了天上 (Core concept alternative form)"
+            "创历史新高 / 创历史同期最好水平 (standard target expression for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "高得不得了 (contextual contrast form in Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "非常厉害地高 (formal register distinction for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "高到了天上 (colloquial conversational usage for Macroeconomics  Industrial Upgrading   Statistical Indicators)"
           ],
           "answerIndex": 0,
           "explanation": "「创历史新高」是经济统计分析中表达达到最高峰值的标准规范术语。"
@@ -13946,10 +13946,10 @@
         {
           "prompt": "专业术语「专精特新」中包含的四大核心特征是：",
           "options": [
-            "专业化、精细化、特色化、新颖化 (Core concept key phrasing)",
-            "专利多、精力好、特殊大、新闻多 (Core concept alternative form)",
-            "专门做、精神好、特别贵、新建的 (Core concept alternative form)",
-            "专车开、精品买、特效看、新生儿 (Core concept alternative form)"
+            "专业化、精细化、特色化、新颖化 (standard target expression for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "专利多、精力好、特殊大、新闻多 (contextual contrast form in Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "专门做、精神好、特别贵、新建的 (formal register distinction for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "专车开、精品买、特效看、新生儿 (colloquial conversational usage for Macroeconomics  Industrial Upgrading   Statistical Indicators)"
           ],
           "answerIndex": 0,
           "explanation": "「专精特新」是中国扶持科技创新型中小企业的核心标准术语（专业化、精细化、特色化、新颖化）。"
@@ -13962,10 +13962,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列宏观经济统计与产业升级分析语段中术语运用最精准、逻辑链条最严密的一项：",
           "options": [
-            "国家统计局最新公布的数据显示，今年前三季度高技术制造业增加值同比增长百分之九点一，战略性新兴产业投资增幅持续扩大。各地通过加快培育壮大新质生产力，有力推动了专精特新中小企业集聚发展，进一步增强了产业链供应链的自主可控与安全韧性！ (Core concept alternative form)",
-            "数据显示高技术挺好，环比去年增加了，大家觉得新质生产力很不错 (Core concept alternative form)",
-            "新质生产力被专精特新增加在增幅收窄 (Core concept alternative form)",
-            "同比增长了专精特新在制造业 (Core concept alternative form)"
+            "国家统计局最新公布的数据显示，今年前三季度高技术制造业增加值同比增长百分之九点一，战略性新兴产业投资增幅持续扩大。各地通过加快培育壮大新质生产力，有力推动了专精特新中小企业集聚发展，进一步增强了产业链供应链的自主可控与安全韧性！ (standard target expression for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "数据显示高技术挺好，环比去年增加了，大家觉得新质生产力很不错 (contextual contrast form in Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "新质生产力被专精特新增加在增幅收窄 (formal register distinction for Macroeconomics  Industrial Upgrading   Statistical Indicators)",
+            "同比增长了专精特新在制造业 (colloquial conversational usage for Macroeconomics  Industrial Upgrading   Statistical Indicators)"
           ],
           "answerIndex": 0,
           "explanation": "该语段在统计指标对比、产业升级动能及新质生产力战略术语的运用上达到了专业国家级经济分析师的标准。"
@@ -14029,10 +14029,10 @@
         {
           "prompt": "在人工智能法治与伦理讨论中，表达科技探索必须符合人类道德良知、服务人类福祉的核心理念是：",
           "options": [
-            "科技向善 (Core concept key phrasing)",
-            "科技为恶 (Core concept alternative form)",
-            "只讲盈利不顾后果 (Core concept alternative form)",
-            "完全不受任何伦理约束 (Core concept alternative form)"
+            "科技向善 (standard target expression for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "科技为恶 (contextual contrast form in AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "只讲盈利不顾后果 (formal register distinction for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "完全不受任何伦理约束 (colloquial conversational usage for AI Ethics  Digital Economy   Frontier Tech Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「科技向善」是全球人工智能与科技治理领域公认的崇高伦理价值坐标。"
@@ -14040,10 +14040,10 @@
         {
           "prompt": "在监管前沿新兴数字技术时，既不一棒子打死扼杀创新、又时刻严密防范系统性风险的监管原则是：",
           "options": [
-            "包容审慎监管 (Core concept key phrasing)",
-            "全面禁止一切研发 (Core concept alternative form)",
-            "彻底放任不管 (Core concept alternative form)",
-            "闭门造车 (Core concept alternative form)"
+            "包容审慎监管 (standard target expression for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "全面禁止一切研发 (contextual contrast form in AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "彻底放任不管 (formal register distinction for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "闭门造车 (colloquial conversational usage for AI Ethics  Digital Economy   Frontier Tech Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「包容审慎监管」是中国在数字经济与前沿科技治理中形成的科学监管战略。"
@@ -14055,10 +14055,10 @@
         {
           "prompt": "在法律法规中，表达彻底把各方的权利与责任边界彻底查清楚、梳理分明的专业动词是：",
           "options": [
-            "厘清 (Core concept key phrasing)",
-            "糊涂 (Core concept alternative form)",
-            "混淆 (Core concept alternative form)",
-            "搅浑 (Core concept alternative form)"
+            "厘清 (standard target expression for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "糊涂 (contextual contrast form in AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "混淆 (formal register distinction for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "搅浑 (colloquial conversational usage for AI Ethics  Digital Economy   Frontier Tech Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「厘清（权责边界）」是法治与公文中表达梳理分明、界限清晰的标准用词。"
@@ -14066,10 +14066,10 @@
         {
           "prompt": "在涉及大语言模型与文生图技术时，对应的中文专业前沿概念是：",
           "options": [
-            "生成式人工智能 (Core concept key phrasing)",
-            "计算器工具 (Core concept alternative form)",
-            "打字机系统 (Core concept alternative form)",
-            "收音机设备 (Core concept alternative form)"
+            "生成式人工智能 (standard target expression for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "计算器工具 (contextual contrast form in AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "打字机系统 (formal register distinction for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "收音机设备 (colloquial conversational usage for AI Ethics  Digital Economy   Frontier Tech Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「生成式人工智能」是 Generative Artificial Intelligence 的标准官方学术与法律译名。"
@@ -14082,10 +14082,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列人工智能治理与科技伦理论说语段中专业术语最规范、法治逻辑最严密的一项：",
           "options": [
-            "推动数字经济高质量发展，必须健全生成式人工智能全链条治理体系。监管部门既要秉持包容审慎理念以激发算法创新活力，又要坚决划定科技伦理底线与数据安全红线，全面厘清各方权责，确保人工智能始终沿着科技向善的法治轨道健康前行！ (Core concept alternative form)",
-            "我们要搞人工智能，但是有人造假骗人，所以要管管他们，大家不要做坏事 (Core concept alternative form)",
-            "包容审慎被红线厘清在生成式智能 (Core concept alternative form)",
-            "科技向善禁止一切算法探索 (Core concept alternative form)"
+            "推动数字经济高质量发展，必须健全生成式人工智能全链条治理体系。监管部门既要秉持包容审慎理念以激发算法创新活力，又要坚决划定科技伦理底线与数据安全红线，全面厘清各方权责，确保人工智能始终沿着科技向善的法治轨道健康前行！ (standard target expression for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "我们要搞人工智能，但是有人造假骗人，所以要管管他们，大家不要做坏事 (contextual contrast form in AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "包容审慎被红线厘清在生成式智能 (formal register distinction for AI Ethics  Digital Economy   Frontier Tech Governance)",
+            "科技向善禁止一切算法探索 (colloquial conversational usage for AI Ethics  Digital Economy   Frontier Tech Governance)"
           ],
           "answerIndex": 0,
           "explanation": "该语段在人工智能前沿科技治理、法治合规与伦理价值维度的论证逻辑达到了国家智库研究报告的水准。"
@@ -14149,10 +14149,10 @@
         {
           "prompt": "在生态文明建设与绿色转型中，表达「保护生态环境就是保护生产力、改善生态环境就是发展生产力」的核心经典理念是：",
           "options": [
-            "绿水青山就是金山银山 (Core concept key phrasing)",
-            "先污染后治理 (Core concept alternative form)",
-            "只要金钱不要自然 (Core concept alternative form)",
-            "乱砍滥伐大肆开采 (Core concept alternative form)"
+            "绿水青山就是金山银山 (standard target expression for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "先污染后治理 (contextual contrast form in Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "只要金钱不要自然 (formal register distinction for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "乱砍滥伐大肆开采 (colloquial conversational usage for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)"
           ],
           "answerIndex": 0,
           "explanation": "「绿水青山就是金山银山」是当代中国生态文明建设最核心、影响最深远的科学论断。"
@@ -14160,10 +14160,10 @@
         {
           "prompt": "在乡村振兴与扶贫开发中，指称「针对不同地区不同情况采取量身定制、极其准确有效措施」的专业词汇是：",
           "options": [
-            "精准施策 (Core concept key phrasing)",
-            "大水漫灌 (Core concept alternative form)",
-            "一刀切 (Core concept alternative form)",
-            "不管不问 (Core concept alternative form)"
+            "精准施策 (standard target expression for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "大水漫灌 (contextual contrast form in Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "一刀切 (formal register distinction for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "不管不问 (colloquial conversational usage for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)"
           ],
           "answerIndex": 0,
           "explanation": "「精准施策」是国家治理与乡村振兴中告别粗放治理、追求高精准效能的核心方法论。"
@@ -14175,10 +14175,10 @@
         {
           "prompt": "在民生保障制度建设中，形容「全方位构建严密、兜底、无遗漏社会保障安全防线」的经典生动表述是：",
           "options": [
-            "织密兜牢民生保障网 (Core concept key phrasing)",
-            "把网打破 (Core concept alternative form)",
-            "随意丢弃 (Core concept alternative form)",
-            "缩减保障 (Core concept alternative form)"
+            "织密兜牢民生保障网 (standard target expression for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "把网打破 (contextual contrast form in Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "随意丢弃 (formal register distinction for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "缩减保障 (colloquial conversational usage for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)"
           ],
           "answerIndex": 0,
           "explanation": "「织密兜牢民生保障网」是公共政策与民生建设中形容构建多层次保障体系的标准权威修辞。"
@@ -14186,10 +14186,10 @@
         {
           "prompt": "中国式现代化与西方以资本为中心现代化最根本的本质区别在于：",
           "options": [
-            "坚持以人民为中心，追求人与自然和谐共生 (Core concept alternative form)",
-            "追求少数资本寡头垄断 (Core concept alternative form)",
-            "通过对外掠夺实现富裕 (Core concept alternative form)",
-            "破坏自然环境换取短暂财富 (Core concept alternative form)"
+            "坚持以人民为中心，追求人与自然和谐共生 (standard target expression for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "追求少数资本寡头垄断 (contextual contrast form in Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "通过对外掠夺实现富裕 (formal register distinction for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "破坏自然环境换取短暂财富 (colloquial conversational usage for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)"
           ],
           "answerIndex": 0,
           "explanation": "坚持以人民为中心的发展思想是中国式现代化的根本政治立场与核心价值底色。"
@@ -14202,10 +14202,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列民生福祉、乡村振兴与生态文明综合语篇中理念最高远、词章最精粹的一项：",
           "options": [
-            "牢固树立并践行绿水青山就是金山银山的崇高理念，坚定不移走人与自然和谐共生的可持续发展之路。在推进乡村全面振兴中坚持精准施策，持续织密兜牢民生保障网，真正让现代化建设成果更多更公平惠及全体人民！ (Core concept alternative form)",
-            "我们要保护树木，让农民有钱花，给大家建好房子 (Core concept alternative form)",
-            "绿水青山被兜牢在乡村施策 (Core concept alternative form)",
-            "只要精准施策，就能破坏环境发财 (Core concept alternative form)"
+            "牢固树立并践行绿水青山就是金山银山的崇高理念，坚定不移走人与自然和谐共生的可持续发展之路。在推进乡村全面振兴中坚持精准施策，持续织密兜牢民生保障网，真正让现代化建设成果更多更公平惠及全体人民！ (standard target expression for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "我们要保护树木，让农民有钱花，给大家建好房子 (contextual contrast form in Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "绿水青山被兜牢在乡村施策 (formal register distinction for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)",
+            "只要精准施策，就能破坏环境发财 (colloquial conversational usage for Livelihood Well Being  Rural Revitalization   Ecological Green Transition)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇在生态文明理念、精准乡村振兴战略及以人民为中心的根本立场上达到了国家级政论社论的最高标准。"
@@ -14269,10 +14269,10 @@
         {
           "prompt": "在国家治理宏大政论语篇中，串联「新华电头/统计数据（宏观动能） -> 算法伦理/科技向善（前沿治理） -> 两山理念/民生答卷（生态底色） -> 中国式现代化行稳致远（时代升华）」的篇章主线是：",
           "options": [
-            "权威消息通报 -> 经济动能剖析 -> 科技法治平衡 -> 生态民生升华 (Core concept alternative form)",
-            "普通体育比赛报道 (Core concept alternative form)",
-            "商场打折促销活动 (Core concept alternative form)",
-            "全篇全是病句拼凑 (Core concept alternative form)"
+            "权威消息通报 -> 经济动能剖析 -> 科技法治平衡 -> 生态民生升华 (standard target expression for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "普通体育比赛报道 (contextual contrast form in Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "商场打折促销活动 (formal register distinction for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "全篇全是病句拼凑 (colloquial conversational usage for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "语篇严格遵循现代国家治理与公共政策分析从权威通报、经济动能到科技法治与生态民生升华的最高范式。"
@@ -14280,10 +14280,10 @@
         {
           "prompt": "成语「行稳致远」在国家战略叙事中的深层含义是：",
           "options": [
-            "步伐走得稳健扎实，才能到达遥远的宏伟目标 (Core concept alternative form)",
-            "走路太快摔倒 (Core concept alternative form)",
-            "站在原地不走 (Core concept alternative form)",
-            "只看眼前一步路 (Core concept alternative form)"
+            "步伐走得稳健扎实，才能到达遥远的宏伟目标 (standard target expression for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "走路太快摔倒 (contextual contrast form in Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "站在原地不走 (formal register distinction for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "只看眼前一步路 (colloquial conversational usage for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "「行稳致远」是国家战略与经济社会发展中强调保持战略定力、走稳每一步以实现长远目标的经典成语。"
@@ -14295,10 +14295,10 @@
         {
           "prompt": "请选出下列大国治理与公共政策叙事中术语运用最严整、气度最恢宏的一项：",
           "options": [
-            "新华社北京电：我国战略性新兴产业增加值同比增长势头强劲，新质生产力加速释放。在统筹前沿科技治理划定伦理红线的同时，生态文明与民生保障交出暖心答卷，中国式现代化巨轮正行稳致远！ (Core concept alternative form)",
-            "北京发来消息，经济挺好，科技搞得很厉害，大家都很开心 (Core concept alternative form)",
-            "新质生产力被行稳致远在生态文明 (Core concept alternative form)",
-            "划定伦理红线为了让大家不要做实验 (Core concept alternative form)"
+            "新华社北京电：我国战略性新兴产业增加值同比增长势头强劲，新质生产力加速释放。在统筹前沿科技治理划定伦理红线的同时，生态文明与民生保障交出暖心答卷，中国式现代化巨轮正行稳致远！ (standard target expression for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "北京发来消息，经济挺好，科技搞得很厉害，大家都很开心 (contextual contrast form in Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "新质生产力被行稳致远在生态文明 (formal register distinction for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "划定伦理红线为了让大家不要做实验 (colloquial conversational usage for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在现代高级公共政策语汇的配合上达到了新华社与人民日报头版社论的最高标准。"
@@ -14306,10 +14306,10 @@
         {
           "prompt": "在宏观战略叙事中表达发展战略谋划极其深远周密的核心成语是：",
           "options": [
-            "深谋远虑 / 高瞻远瞩 (Core concept alternative form)",
-            "盲目跟风 (Core concept alternative form)",
-            "朝令夕改 (Core concept alternative form)",
-            "敷衍塞责 (Core concept alternative form)"
+            "深谋远虑 / 高瞻远瞩 (standard target expression for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "盲目跟风 (contextual contrast form in Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "朝令夕改 (formal register distinction for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "敷衍塞责 (colloquial conversational usage for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "「深谋远虑」指在战略决策中具有极其深刻长远的战略眼光与谋划定力。"
@@ -14322,10 +14322,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国式现代化与大国治理综合政论语篇中词章最典雅、逻辑最严密、气魄最宏大的一项：",
           "options": [
-            "新华社北京电：最新统计显示，我国战略性新兴产业增加值同比增长强劲，新质生产力加速培育壮大。在统筹前沿科技治理、划定算法伦理红线的同时，我们坚定践行绿水青山就是金山银山理念，持续织密兜牢民生保障网。立足新时代，大国治理以深谋远虑的战略定力，推动中国式现代化巨轮破浪前行、行稳致远！ (Core concept alternative form)",
-            "北京新闻说很多高科技造出来了，环境也变好了，大家都有钱了，国家发展很好 (Core concept alternative form)",
-            "新华社电被新质生产力同比增长在巨轮 (Core concept alternative form)",
-            "只要织密兜牢，就能在实验室睡觉行稳致远 (Core concept alternative form)"
+            "新华社北京电：最新统计显示，我国战略性新兴产业增加值同比增长强劲，新质生产力加速培育壮大。在统筹前沿科技治理、划定算法伦理红线的同时，我们坚定践行绿水青山就是金山银山理念，持续织密兜牢民生保障网。立足新时代，大国治理以深谋远虑的战略定力，推动中国式现代化巨轮破浪前行、行稳致远！ (standard target expression for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "北京新闻说很多高科技造出来了，环境也变好了，大家都有钱了，国家发展很好 (contextual contrast form in Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "新华社电被新质生产力同比增长在巨轮 (formal register distinction for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)",
+            "只要织密兜牢，就能在实验室睡觉行稳致远 (colloquial conversational usage for Comprehensive Public Policy Narrative  National Governance   Chinese Modernization)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇将权威新闻通报、宏观经济量化、前沿算法科技治理、生态民生与大国现代化巨轮意象熔铸为一体，达到了当代汉语公共政策论著的最高水准。"
@@ -14389,10 +14389,10 @@
         {
           "prompt": "在向上级机关呈送的正式《请示》文件结尾，最标准的规范呈批结语是：",
           "options": [
-            "妥否，请批示 (Core concept key phrasing)",
-            "你看着办吧 (Core concept alternative form)",
-            "必须明天回复我 (Core concept alternative form)",
-            "就这样决定了 (Core concept alternative form)"
+            "妥否，请批示 (standard target expression for Administrative Documents  Requests   Approvals Syntax)",
+            "你看着办吧 (contextual contrast form in Administrative Documents  Requests   Approvals Syntax)",
+            "必须明天回复我 (formal register distinction for Administrative Documents  Requests   Approvals Syntax)",
+            "就这样决定了 (colloquial conversational usage for Administrative Documents  Requests   Approvals Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "「妥否，请批示」是现代汉语上行公文《请示》的标准法定结语。"
@@ -14400,10 +14400,10 @@
         {
           "prompt": "在不相隶属机关之间发送商洽公函请求对方协助时，文末常用的感激期盼结语是：",
           "options": [
-            "特此函达，望予协助为盼 / 为荷 (Core concept alternative form)",
-            "请上级立刻命令他们 (Core concept alternative form)",
-            "快点做完别偷懒 (Core concept alternative form)",
-            "命令你单位执行 (Core concept alternative form)"
+            "特此函达，望予协助为盼 / 为荷 (standard target expression for Administrative Documents  Requests   Approvals Syntax)",
+            "请上级立刻命令他们 (contextual contrast form in Administrative Documents  Requests   Approvals Syntax)",
+            "快点做完别偷懒 (formal register distinction for Administrative Documents  Requests   Approvals Syntax)",
+            "命令你单位执行 (colloquial conversational usage for Administrative Documents  Requests   Approvals Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "「望予协助为盼」或「请予大力支持为荷」是公函平行商洽的标准敬辞结语。"
@@ -14415,10 +14415,10 @@
         {
           "prompt": "上级机关在对下级单位的请示文件作出正式书面答复时，所使用的法定公文文种是：",
           "options": [
-            "批复 (Core concept key phrasing)",
-            "日记 (Core concept alternative form)",
-            "散文 (Core concept alternative form)",
-            "口信 (Core concept alternative form)"
+            "批复 (standard target expression for Administrative Documents  Requests   Approvals Syntax)",
+            "日记 (contextual contrast form in Administrative Documents  Requests   Approvals Syntax)",
+            "散文 (formal register distinction for Administrative Documents  Requests   Approvals Syntax)",
+            "口信 (colloquial conversational usage for Administrative Documents  Requests   Approvals Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "「批复」是法定公文中专用于答复下级机关请示事项的下行文文种。"
@@ -14426,10 +14426,10 @@
         {
           "prompt": "在公文体例中，公文标题的黄金标准三要素构成顺序是：",
           "options": [
-            "发文机关 + 发文事由 + 公文文种 (Core concept key phrasing)",
-            "文种 + 日期 + 领导名字 (Core concept alternative form)",
-            "随便起一个吸引人的标题 (Core concept alternative form)",
-            "事由 + 天气 + 电话号码 (Core concept alternative form)"
+            "发文机关 + 发文事由 + 公文文种 (standard target expression for Administrative Documents  Requests   Approvals Syntax)",
+            "文种 + 日期 + 领导名字 (contextual contrast form in Administrative Documents  Requests   Approvals Syntax)",
+            "随便起一个吸引人的标题 (formal register distinction for Administrative Documents  Requests   Approvals Syntax)",
+            "事由 + 天气 + 电话号码 (colloquial conversational usage for Administrative Documents  Requests   Approvals Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "标准法定公文标题必须由「发文机关 + 发文事由 + 公文文种」三要素构成。"
@@ -14442,10 +14442,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列公文呈批与请批批复行文中结构最严谨、格式最规范、用语最得体的一项：",
           "options": [
-            "《关于申请设立国家级重大创新试验区的请示》业经专家委员会周密论证。为抢抓数字经济发展机遇，拟请上级批准在我市设立试验区并给予先行先试政策支持。妥否，请批示 (Core concept alternative form)",
-            "我们想建个试验区，大家赶紧批准，别耽误时间 (Core concept alternative form)",
-            "设立试验区被妥否请批示在专家委员会 (Core concept alternative form)",
-            "请示报告说要设立试验区你看着办 (Core concept alternative form)"
+            "《关于申请设立国家级重大创新试验区的请示》业经专家委员会周密论证。为抢抓数字经济发展机遇，拟请上级批准在我市设立试验区并给予先行先试政策支持。妥否，请批示 (standard target expression for Administrative Documents  Requests   Approvals Syntax)",
+            "我们想建个试验区，大家赶紧批准，别耽误时间 (contextual contrast form in Administrative Documents  Requests   Approvals Syntax)",
+            "设立试验区被妥否请批示在专家委员会 (formal register distinction for Administrative Documents  Requests   Approvals Syntax)",
+            "请示报告说要设立试验区你看着办 (colloquial conversational usage for Administrative Documents  Requests   Approvals Syntax)"
           ],
           "answerIndex": 0,
           "explanation": "该语段在公文标题构成、事由陈述、申请意图及标准呈批结语「妥否，请批示」上完全符合国家法定公文标准。"
@@ -14509,10 +14509,10 @@
         {
           "prompt": "在商务合同开头的鉴于条款结尾，用于表达「以此作为双方共同遵守信守凭证」的经典书面法律程式语是：",
           "options": [
-            "以资共同信守 / 以资共同遵守 (Core concept alternative form)",
-            "大家随便看看 (Core concept alternative form)",
-            "反正没人管 (Core concept alternative form)",
-            "大家看着办 (Core concept alternative form)"
+            "以资共同信守 / 以资共同遵守 (standard target expression for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "大家随便看看 (contextual contrast form in Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "反正没人管 (formal register distinction for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "大家看着办 (colloquial conversational usage for Commercial Contracts  Rights Obligations   Breach Clauses)"
           ],
           "answerIndex": 0,
           "explanation": "「以资共同信守」是中文合同导语中表明以此作为正式法律凭据的经典规范程式语。"
@@ -14520,10 +14520,10 @@
         {
           "prompt": "合同中指称地震、海啸、战争等「不可预见、不能避免且无法克服」的法律免责事由的专业法律概念是：",
           "options": [
-            "不可抗力 (Core concept key phrasing)",
-            "主观故意 (Core concept alternative form)",
-            "恶意违约 (Core concept alternative form)",
-            "疏忽大意 (Core concept alternative form)"
+            "不可抗力 (standard target expression for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "主观故意 (contextual contrast form in Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "恶意违约 (formal register distinction for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "疏忽大意 (colloquial conversational usage for Commercial Contracts  Rights Obligations   Breach Clauses)"
           ],
           "answerIndex": 0,
           "explanation": "「不可抗力」是民商法中关于无法预见克服的客观免责事由的法定专有名词。"
@@ -14535,10 +14535,10 @@
         {
           "prompt": "在商务合同中，未违反合同条款、有权向违约方追究法律责任的一方当事人被称为：",
           "options": [
-            "守约方 (Core concept key phrasing)",
-            "违约方 (Core concept alternative form)",
-            "路人甲 (Core concept alternative form)",
-            "看客 (Core concept alternative form)"
+            "守约方 (standard target expression for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "违约方 (contextual contrast form in Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "路人甲 (formal register distinction for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "看客 (colloquial conversational usage for Commercial Contracts  Rights Obligations   Breach Clauses)"
           ],
           "answerIndex": 0,
           "explanation": "「守约方」是民商事法律合同中专指严格履行义务的一方。"
@@ -14546,10 +14546,10 @@
         {
           "prompt": "标准商务合同正式生效的核心法定要件通常表述为：",
           "options": [
-            "自双方法定代表人签字并加盖公章之日起生效 (Core concept alternative form)",
-            "只要心里想一想就生效 (Core concept alternative form)",
-            "吃完饭就生效 (Core concept alternative form)",
-            "不用签字盖章也生效 (Core concept alternative form)"
+            "自双方法定代表人签字并加盖公章之日起生效 (standard target expression for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "只要心里想一想就生效 (contextual contrast form in Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "吃完饭就生效 (formal register distinction for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "不用签字盖章也生效 (colloquial conversational usage for Commercial Contracts  Rights Obligations   Breach Clauses)"
           ],
           "answerIndex": 0,
           "explanation": "法定代表人签字并加盖公章是现代中国商业合同生效的最权威法定形式要件。"
@@ -14562,10 +14562,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列商务合同条款中法律逻辑最严密、书面语体最规范、权责界定最清晰的一项：",
           "options": [
-            "鉴于甲乙双方经友好协商达成合作，特订立本合同。任何一方无正当理由单方解除合同，均构成实质性违约，应向守约方支付合同总额百分之二十的违约金，并赔偿由此产生的一切直接与间接经济损失。本合同自双方签字盖章之日起生效，以资共同信守 (Core concept alternative form)",
-            "甲方和乙方签了个合同，谁如果不听话就要赔钱，合同今天开始管用 (Core concept alternative form)",
-            "违约金被以资信守在签字盖章 (Core concept alternative form)",
-            "守约方必须向违约方道歉并支付赔偿金 (Core concept alternative form)"
+            "鉴于甲乙双方经友好协商达成合作，特订立本合同。任何一方无正当理由单方解除合同，均构成实质性违约，应向守约方支付合同总额百分之二十的违约金，并赔偿由此产生的一切直接与间接经济损失。本合同自双方签字盖章之日起生效，以资共同信守 (standard target expression for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "甲方和乙方签了个合同，谁如果不听话就要赔钱，合同今天开始管用 (contextual contrast form in Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "违约金被以资信守在签字盖章 (formal register distinction for Commercial Contracts  Rights Obligations   Breach Clauses)",
+            "守约方必须向违约方道歉并支付赔偿金 (colloquial conversational usage for Commercial Contracts  Rights Obligations   Breach Clauses)"
           ],
           "answerIndex": 0,
           "explanation": "该语段在合同鉴于条款、违约责任界定、赔偿金比例及生效要件上完全达到了专业公司法律顾问与国际商事仲裁律师的起草标准。"
@@ -14629,10 +14629,10 @@
         {
           "prompt": "在投标技术偏离表中，如果投标方案的某项核心性能指标「显著优于招标文件规定的最低标准」，该现象被称为：",
           "options": [
-            "正偏离 (Core concept key phrasing)",
-            "负偏离 (Core concept alternative form)",
-            "零偏离 (Core concept alternative form)",
-            "离谱偏离 (Core concept alternative form)"
+            "正偏离 (standard target expression for Tenders  Technical Specifications   Commercial Bidding)",
+            "负偏离 (contextual contrast form in Tenders  Technical Specifications   Commercial Bidding)",
+            "零偏离 (formal register distinction for Tenders  Technical Specifications   Commercial Bidding)",
+            "离谱偏离 (colloquial conversational usage for Tenders  Technical Specifications   Commercial Bidding)"
           ],
           "answerIndex": 0,
           "explanation": "「正偏离」是招投标专业术语，指投标人的技术方案优于招标文件的要求。"
@@ -14640,10 +14640,10 @@
         {
           "prompt": "中标人为了向招标方担保自己将严格按照合同履约而缴纳的法定款项被称为：",
           "options": [
-            "履约保证金 (Core concept key phrasing)",
-            "小费 (Core concept alternative form)",
-            "红包 (Core concept alternative form)",
-            "打赏 (Core concept alternative form)"
+            "履约保证金 (standard target expression for Tenders  Technical Specifications   Commercial Bidding)",
+            "小费 (contextual contrast form in Tenders  Technical Specifications   Commercial Bidding)",
+            "红包 (formal register distinction for Tenders  Technical Specifications   Commercial Bidding)",
+            "打赏 (colloquial conversational usage for Tenders  Technical Specifications   Commercial Bidding)"
           ],
           "answerIndex": 0,
           "explanation": "「履约保证金」是招投标中用于担保中标人依约履行合同的法定保证金。"
@@ -14655,10 +14655,10 @@
         {
           "prompt": "在招投标中，由行业专家组成的对各家投标文件进行独立、专业、公正打分评审的法定组织是：",
           "options": [
-            "评标委员会 (Core concept key phrasing)",
-            "啦啦队 (Core concept alternative form)",
-            "群众演员 (Core concept alternative form)",
-            "亲友团 (Core concept alternative form)"
+            "评标委员会 (standard target expression for Tenders  Technical Specifications   Commercial Bidding)",
+            "啦啦队 (contextual contrast form in Tenders  Technical Specifications   Commercial Bidding)",
+            "群众演员 (formal register distinction for Tenders  Technical Specifications   Commercial Bidding)",
+            "亲友团 (colloquial conversational usage for Tenders  Technical Specifications   Commercial Bidding)"
           ],
           "answerIndex": 0,
           "explanation": "「评标委员会」是依照招标投标法设立的法定专家评审组织。"
@@ -14666,10 +14666,10 @@
         {
           "prompt": "在投标标书中，专门阐述施工方案、设备参数与售后保障的标书部分是：",
           "options": [
-            "技术标 (Core concept key phrasing)",
-            "商务标 (Core concept alternative form)",
-            "图画本 (Core concept alternative form)",
-            "草稿纸 (Core concept alternative form)"
+            "技术标 (standard target expression for Tenders  Technical Specifications   Commercial Bidding)",
+            "商务标 (contextual contrast form in Tenders  Technical Specifications   Commercial Bidding)",
+            "图画本 (formal register distinction for Tenders  Technical Specifications   Commercial Bidding)",
+            "草稿纸 (colloquial conversational usage for Tenders  Technical Specifications   Commercial Bidding)"
           ],
           "answerIndex": 0,
           "explanation": "「技术标」专注于技术方案的先进性、可行性与参数响应。"
@@ -14682,10 +14682,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列招投标与技术标评审表述中专业术语最准确、商业逻辑最严密的一项：",
           "options": [
-            "我方投标方案全面响应了招标文件的所有硬性技术指标，并在算力优化与能耗控制上实现了显著正偏离。评标委员会综合评分名列第一，中标公示期满后，我司已按期足额缴纳了履约保证金，确保项目高质量交付！ (Core concept alternative form)",
-            "我们公司去投标了，专家觉得挺好给打了最高分，给钱之后就可以开工了 (Core concept alternative form)",
-            "履约保证金被正偏离在评标委员会 (Core concept alternative form)",
-            "负偏离越严重说明标书质量越优秀 (Core concept alternative form)"
+            "我方投标方案全面响应了招标文件的所有硬性技术指标，并在算力优化与能耗控制上实现了显著正偏离。评标委员会综合评分名列第一，中标公示期满后，我司已按期足额缴纳了履约保证金，确保项目高质量交付！ (standard target expression for Tenders  Technical Specifications   Commercial Bidding)",
+            "我们公司去投标了，专家觉得挺好给打了最高分，给钱之后就可以开工了 (contextual contrast form in Tenders  Technical Specifications   Commercial Bidding)",
+            "履约保证金被正偏离在评标委员会 (formal register distinction for Tenders  Technical Specifications   Commercial Bidding)",
+            "负偏离越严重说明标书质量越优秀 (colloquial conversational usage for Tenders  Technical Specifications   Commercial Bidding)"
           ],
           "answerIndex": 0,
           "explanation": "该语段在投标参数响应、正偏离、评标委员会评审及履约保证金等招投标核心术语的运用上达到了行业标杆水准。"
@@ -14749,10 +14749,10 @@
         {
           "prompt": "在商务谈判中，表达某项报价已经达到自己所能承受的最低极限、无法再作退让时，最地道规范的说法是：",
           "options": [
-            "触及我方的成本红线 / 底线 (Core concept alternative form)",
-            "我们不想卖了 (Core concept alternative form)",
-            "你们太贪心了 (Core concept alternative form)",
-            "别跟我们说话了 (Core concept alternative form)"
+            "触及我方的成本红线 / 底线 (standard target expression for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "我们不想卖了 (contextual contrast form in Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "你们太贪心了 (formal register distinction for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "别跟我们说话了 (colloquial conversational usage for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)"
           ],
           "answerIndex": 0,
           "explanation": "「触及成本红线/底线」是商务谈判中委婉但坚定表明底线立场的标准专业表述。"
@@ -14760,10 +14760,10 @@
         {
           "prompt": "在谈判陷入僵局时，提出「如果对方在A条件上让步，我方就在B条件上给予优惠」的谈判策略属于：",
           "options": [
-            "有条件让步 / 利益置换 (Core concept alternative form)",
-            "无底线投降 (Core concept alternative form)",
-            "掀桌子走人 (Core concept alternative form)",
-            "拒绝沟通 (Core concept alternative form)"
+            "有条件让步 / 利益置换 (standard target expression for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "无底线投降 (contextual contrast form in Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "掀桌子走人 (formal register distinction for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "拒绝沟通 (colloquial conversational usage for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)"
           ],
           "answerIndex": 0,
           "explanation": "「有条件让步」是国际高阶商务谈判中化解僵局、引导双赢的核心博弈战术。"
@@ -14775,10 +14775,10 @@
         {
           "prompt": "成语「求同存异」在商务谈判中的智慧体现为：",
           "options": [
-            "寻找双方共同利益交汇点，暂时搁置次要分歧 (Core concept alternative form)",
-            "要求对方彻底放弃所有原则 (Core concept alternative form)",
-            "完全不在意任何合同细节 (Core concept alternative form)",
-            "必须让对方全都听自己的 (Core concept alternative form)"
+            "寻找双方共同利益交汇点，暂时搁置次要分歧 (standard target expression for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "要求对方彻底放弃所有原则 (contextual contrast form in Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "完全不在意任何合同细节 (formal register distinction for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "必须让对方全都听自己的 (colloquial conversational usage for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)"
           ],
           "answerIndex": 0,
           "explanation": "「求同存异」是在谈判中聚焦共同利益、求得共识的东方哲学智慧。"
@@ -14786,10 +14786,10 @@
         {
           "prompt": "在商务谈判最后阶段，形容双方都获得了满意的利益回报、达成最佳合作结果的核心成语是：",
           "options": [
-            "互利共赢 / 合作共赢 (Core concept alternative form)",
-            "零和博弈 (Core concept alternative form)",
-            "两败俱伤 (Core concept alternative form)",
-            "损人利己 (Core concept alternative form)"
+            "互利共赢 / 合作共赢 (standard target expression for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "零和博弈 (contextual contrast form in Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "两败俱伤 (formal register distinction for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "损人利己 (colloquial conversational usage for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)"
           ],
           "answerIndex": 0,
           "explanation": "「互利共赢」是现代商业合作追求的崇高境界与最终目标。"
@@ -14802,10 +14802,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列高阶商务谈判攻防话术中表达最得体、博弈逻辑最精湛的一项：",
           "options": [
-            "坦率地讲，贵方目前的报价已经触及我方的成本红线。但出于长远战略合作的诚意，如果贵方能将首付款提高至百分之四十，并在采购规模上进一步扩大，我们愿意在交货账期上作出相应让步，通过求同存异实现互利共赢！ (Core concept alternative form)",
-            "你们价格太低了我们不干，除非你们先给钱再说 (Core concept alternative form)",
-            "成本红线被互利共赢在首付款 (Core concept alternative form)",
-            "只要我们亏本卖给你们，你们就开心了 (Core concept alternative form)"
+            "坦率地讲，贵方目前的报价已经触及我方的成本红线。但出于长远战略合作的诚意，如果贵方能将首付款提高至百分之四十，并在采购规模上进一步扩大，我们愿意在交货账期上作出相应让步，通过求同存异实现互利共赢！ (standard target expression for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "你们价格太低了我们不干，除非你们先给钱再说 (contextual contrast form in Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "成本红线被互利共赢在首付款 (formal register distinction for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)",
+            "只要我们亏本卖给你们，你们就开心了 (colloquial conversational usage for Advanced Business Negotiations  Tactical Rebuttal   Game Strategy)"
           ],
           "answerIndex": 0,
           "explanation": "该语段在底线表达、条件性让步置换及引导互利共赢上体现了当代国际顶尖商务谈判专家的风范。"
@@ -14871,10 +14871,10 @@
         {
           "prompt": "在跨国商业并购与战略合作综合语篇中，将「行政请批呈批（妥否，请批示） -> 技术标书正偏离中标 -> 商务谈判博弈互利共赢 -> 合同签字盖章以资信守」串联起来的核心主线是：",
           "options": [
-            "行政立项呈批 -> 竞标技术胜出 -> 商业博弈攻防 -> 法律契约签署 (Core concept alternative form)",
-            "普通菜市场买菜过程 (Core concept alternative form)",
-            "小学生写请假条 (Core concept alternative form)",
-            "全是病句的乱码拼凑 (Core concept alternative form)"
+            "行政立项呈批 -> 竞标技术胜出 -> 商业博弈攻防 -> 法律契约签署 (standard target expression for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "普通菜市场买菜过程 (contextual contrast form in Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "小学生写请假条 (formal register distinction for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "全是病句的乱码拼凑 (colloquial conversational usage for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)"
           ],
           "answerIndex": 0,
           "explanation": "语篇完美再现了跨国现代企业从公文立项呈批、招投标竞争、谈判博弈到合同法治签署的全生命周期。"
@@ -14882,10 +14882,10 @@
         {
           "prompt": "在商务综合语篇中，指称「双方在核心业务能力上能够互相补充、产生协同乘数效应」的专业表述是：",
           "options": [
-            "高度互补性 / 战略协同效应 (Core concept alternative form)",
-            "互相拆台 (Core concept alternative form)",
-            "谁也不理谁 (Core concept alternative form)",
-            "没有共同点 (Core concept alternative form)"
+            "高度互补性 / 战略协同效应 (standard target expression for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "互相拆台 (contextual contrast form in Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "谁也不理谁 (formal register distinction for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "没有共同点 (colloquial conversational usage for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)"
           ],
           "answerIndex": 0,
           "explanation": "「高度互补性」与「战略协同」是企业并购与合资合作中最核心的商业价值动因。"
@@ -14897,10 +14897,10 @@
         {
           "prompt": "请选出下列跨国战略合作公文与商业综合语篇中词章最典雅、法商逻辑最严密的一项：",
           "options": [
-            "《关于深化跨国智能装备技术并购的请示》业经专家委员会周密论证，妥否，请批示。我司技术标在关键参数上实现显著正偏离并顺利中标。在商务谈判中，双方秉持求同存异理念打破僵局，订立战略合作合同，自签字盖章之日起生效，以资共同信守！ (Core concept alternative form)",
-            "我们公司想买个外国公司，大家赶紧批了，然后我们去签字给钱 (Core concept alternative form)",
-            "以资信守被正偏离在合同妥否请批示 (Core concept alternative form)",
-            "求同存异意味着我们单方面赔偿所有违约金 (Core concept alternative form)"
+            "《关于深化跨国智能装备技术并购的请示》业经专家委员会周密论证，妥否，请批示。我司技术标在关键参数上实现显著正偏离并顺利中标。在商务谈判中，双方秉持求同存异理念打破僵局，订立战略合作合同，自签字盖章之日起生效，以资共同信守！ (standard target expression for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "我们公司想买个外国公司，大家赶紧批了，然后我们去签字给钱 (contextual contrast form in Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "以资信守被正偏离在合同妥否请批示 (formal register distinction for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "求同存异意味着我们单方面赔偿所有违约金 (colloquial conversational usage for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在公文格式、招投标术语、商务谈判策略及合同生效程式语的综合运用上堪称现代法商公文的典范。"
@@ -14908,10 +14908,10 @@
         {
           "prompt": "在商业战略语篇中表达共同达成的坚定共识与纲领性协议的核心词汇是：",
           "options": [
-            "战略共识 / 战略协议 (Core concept alternative form)",
-            "随便聊聊 (Core concept alternative form)",
-            "草率口约 (Core concept alternative form)",
-            "没有准信 (Core concept alternative form)"
+            "战略共识 / 战略协议 (standard target expression for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "随便聊聊 (contextual contrast form in Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "草率口约 (formal register distinction for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "没有准信 (colloquial conversational usage for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)"
           ],
           "answerIndex": 0,
           "explanation": "「战略共识」与「战略协议」是高层商务交往与并购重组中表达双方最高决策意向的标准术语。"
@@ -14924,10 +14924,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列跨国商务并购、公文呈批与契约法治综合语篇中气度最恢宏、法理最严密、结构最完整的一项：",
           "options": [
-            "《关于推进跨国高端制造战略并购与技术合作的请示》业经董事会严格审议，妥否，请批示。在招投标角逐中，我方技术标在核心能效参数上实现显著正偏离，顺利赢得评标委员会综合评审第一名。在随后的高阶商务谈判中，团队坚守成本底线，通过结构性条款重组打破僵局。鉴于双方高度战略互补性，特订立本合同，自双方法定代表人签字并加盖公章之日起生效，以资共同信守！ (Core concept alternative form)",
-            "我们写了个请示想买下外国厂子，招标第一名，然后去跟老外谈判签合同盖章 (Core concept alternative form)",
-            "请示被评标委员会签字盖章在成本底线 (Core concept alternative form)",
-            "只要正偏离，就能不签合同直接拿走违约金 (Core concept alternative form)"
+            "《关于推进跨国高端制造战略并购与技术合作的请示》业经董事会严格审议，妥否，请批示。在招投标角逐中，我方技术标在核心能效参数上实现显著正偏离，顺利赢得评标委员会综合评审第一名。在随后的高阶商务谈判中，团队坚守成本底线，通过结构性条款重组打破僵局。鉴于双方高度战略互补性，特订立本合同，自双方法定代表人签字并加盖公章之日起生效，以资共同信守！ (standard target expression for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "我们写了个请示想买下外国厂子，招标第一名，然后去跟老外谈判签合同盖章 (contextual contrast form in Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "请示被评标委员会签字盖章在成本底线 (formal register distinction for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)",
+            "只要正偏离，就能不签合同直接拿走违约金 (colloquial conversational usage for Comprehensive Business   Corporate Strategy Narrative  Cross Border M A   Strategic Partnerships)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇融会贯通公文行政呈批、招投标技术响应、商务博弈攻防与合同法治要件，语言极其严谨典雅，达到了最高级别的商事公文水准。"
@@ -14993,10 +14993,10 @@
         {
           "prompt": "在《诗经》「六义」表现手法中，先描写眼前自然景物以引出所咏之词的手法被称为：",
           "options": [
-            "兴 / 托物起兴 (Core concept alternative form)",
-            "赋 (Core concept alternative form)",
-            "比 (Core concept alternative form)",
-            "散文翻译 (Core concept alternative form)"
+            "兴 / 托物起兴 (standard target expression for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "赋 (contextual contrast form in The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "比 (formal register distinction for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "散文翻译 (colloquial conversational usage for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「兴」（起兴）是《诗经》最独具魅力的艺术手法，先言他物以引出诗歌所要抒发的主旨。"
@@ -15004,10 +15004,10 @@
         {
           "prompt": "屈原在《离骚》中大量运用「兰草、蕙草、幽兰、杜衡」等意象，在文学批评中这种隐喻体系被称为：",
           "options": [
-            "香草美人 (Core concept key phrasing)",
-            "买菜清单 (Core concept alternative form)",
-            "植物学分类 (Core concept alternative form)",
-            "药膳食谱 (Core concept alternative form)"
+            "香草美人 (standard target expression for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "买菜清单 (contextual contrast form in The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "植物学分类 (formal register distinction for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "药膳食谱 (colloquial conversational usage for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「香草美人」是中国浪漫主义文学中以芳香植物与佳人隐喻崇高人格与政治抱负的经典隐喻体系。"
@@ -15019,10 +15019,10 @@
         {
           "prompt": "曹操诗歌「对酒当歌，人生几何」、「日月之行，若出其中」所代表的具有慷慨悲凉、雄健遒劲美学特征的文学时代风格被称为：",
           "options": [
-            "建安风骨 (Core concept key phrasing)",
-            "靡靡之音 (Core concept alternative form)",
-            "浅薄口水诗 (Core concept alternative form)",
-            "消极遁世 (Core concept alternative form)"
+            "建安风骨 (standard target expression for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "靡靡之音 (contextual contrast form in The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "浅薄口水诗 (formal register distinction for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "消极遁世 (colloquial conversational usage for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「建安风骨」是汉末建安时期以曹操、曹丕、曹植等为代表的慷慨悲凉、刚健雄浑的诗歌风格。"
@@ -15030,10 +15030,10 @@
         {
           "prompt": "文学史上将《诗经》与《楚辞》合称并用以指代中国最崇高文学才情的词汇是：",
           "options": [
-            "风骚 (Core concept key phrasing)",
-            "戏剧 (Core concept alternative form)",
-            "杂谈 (Core concept alternative form)",
-            "小品 (Core concept alternative form)"
+            "风骚 (standard target expression for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "戏剧 (contextual contrast form in The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "杂谈 (formal register distinction for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "小品 (colloquial conversational usage for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「风骚」源于《诗经》的「国风」与《楚辞》的「离骚」，后代用来代表崇高的文学才华与文采。"
@@ -15046,10 +15046,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列古代诗歌源流与美学批评语段中概念最准确、词章最雅致的一项：",
           "options": [
-            "《诗经》以「风、雅、颂」奠定题材格局，凭「赋、比、兴」铸就现实主义传统；屈原《离骚》则以香草美人隐喻高洁忠贞之志，开创了瑰丽奇绝的楚辞浪漫主义巅峰；汉魏建安风骨融慷慨悲凉与雄健风骨于一体，共同构筑了中华古典诗学的巍峨源头！ (Core concept alternative form)",
-            "古人写诗喜欢写小草和小花，大家随便写写，后来曹操写了喝酒的诗 (Core concept alternative form)",
-            "赋比兴被建安风骨在离骚六义 (Core concept alternative form)",
-            "香草美人是指古代妇女去买香草做饭 (Core concept alternative form)"
+            "《诗经》以「风、雅、颂」奠定题材格局，凭「赋、比、兴」铸就现实主义传统；屈原《离骚》则以香草美人隐喻高洁忠贞之志，开创了瑰丽奇绝的楚辞浪漫主义巅峰；汉魏建安风骨融慷慨悲凉与雄健风骨于一体，共同构筑了中华古典诗学的巍峨源头！ (standard target expression for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "古人写诗喜欢写小草和小花，大家随便写写，后来曹操写了喝酒的诗 (contextual contrast form in The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "赋比兴被建安风骨在离骚六义 (formal register distinction for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)",
+            "香草美人是指古代妇女去买香草做饭 (colloquial conversational usage for The Book of Songs  Chu Ci   Ancient Verses Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "该语段在《诗经》六义、屈原香草美人传统与建安风骨的文学史定位上达到了专业文学批评的高深水准。"
@@ -15113,10 +15113,10 @@
         {
           "prompt": "在八句的近体七言律诗中，按照格律规定必须严格进行对仗（词性与平仄对称）的两联是：",
           "options": [
-            "颔联与 颈联 (Core concept alternative form)",
-            "首联与尾联 (Core concept alternative form)",
-            "只有第一句和最后一句 (Core concept alternative form)",
-            "没有任何对仗要求 (Core concept alternative form)"
+            "颔联与 颈联 (standard target expression for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "首联与尾联 (contextual contrast form in High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "只有第一句和最后一句 (formal register distinction for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "没有任何对仗要求 (colloquial conversational usage for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "律诗的核心格律规范要求第三四句（颔联）和第五六句（颈联）必须严格对仗。"
@@ -15124,10 +15124,10 @@
         {
           "prompt": "唐代大诗人中，被尊为「诗仙」、以豪放飘逸浪漫主义著称的是哪位诗人？",
           "options": [
-            "李白 (Core concept key phrasing)",
-            "杜甫 (Core concept alternative form)",
-            "白居易 (Core concept alternative form)",
-            "李商隐 (Core concept alternative form)"
+            "李白 (standard target expression for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "杜甫 (contextual contrast form in High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "白居易 (formal register distinction for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "李商隐 (colloquial conversational usage for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "李白被尊为「诗仙」，其诗作具有极强的浪漫主义与雄奇飘逸风格。"
@@ -15139,10 +15139,10 @@
         {
           "prompt": "杜甫诗歌中展现出的深沉博大、关切天下苍生、跌宕起伏的核心风格特征通常被概括为：",
           "options": [
-            "沉郁顿挫 (Core concept key phrasing)",
-            "轻佻浮夸 (Core concept alternative form)",
-            "平淡如水 (Core concept alternative form)",
-            "无病呻吟 (Core concept alternative form)"
+            "沉郁顿挫 (standard target expression for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "轻佻浮夸 (contextual contrast form in High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "平淡如水 (formal register distinction for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "无病呻吟 (colloquial conversational usage for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「沉郁顿挫」是文学批评中对杜甫忧国忧民情怀与深厚诗风的定性评价。"
@@ -15150,10 +15150,10 @@
         {
           "prompt": "宋代苏轼评价唐代诗人王维的艺术造诣时留下的千古名言是：",
           "options": [
-            "诗中有画，画中有诗 (Core concept key phrasing)",
-            "字数很多，写得很快 (Core concept alternative form)",
-            "文章很长，句子很乱 (Core concept alternative form)",
-            "只懂画画，不会写诗 (Core concept alternative form)"
+            "诗中有画，画中有诗 (standard target expression for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "字数很多，写得很快 (contextual contrast form in High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "文章很长，句子很乱 (formal register distinction for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "只懂画画，不会写诗 (colloquial conversational usage for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「诗中有画，画中有诗」是苏轼对王维诗画交融、意境幽远艺术特质的至高赞誉。"
@@ -15166,10 +15166,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列盛唐诗歌格律与三大诗宗风格评析中理解最深刻、表述最精当的一项：",
           "options": [
-            "盛唐近体律诗以颔联、颈联的工稳对仗与严谨平仄确立了声律范式。李白以豪放飘逸的浪漫奇想驰骋诗坛，杜甫以沉郁顿挫的家国情怀与炉火纯青的格律被尊为诗圣，王维则将禅宗哲思融入山水田园达到诗中有画的空灵境界！ (Core concept alternative form)",
-            "唐诗有绝句和律诗，李白很会喝酒写诗，杜甫很穷，王维喜欢画画 (Core concept alternative form)",
-            "对仗要求在首联和尾联被诗仙沉郁顿挫 (Core concept alternative form)",
-            "王维诗中有画说明他其实是个画匠而不是诗人 (Core concept alternative form)"
+            "盛唐近体律诗以颔联、颈联的工稳对仗与严谨平仄确立了声律范式。李白以豪放飘逸的浪漫奇想驰骋诗坛，杜甫以沉郁顿挫的家国情怀与炉火纯青的格律被尊为诗圣，王维则将禅宗哲思融入山水田园达到诗中有画的空灵境界！ (standard target expression for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "唐诗有绝句和律诗，李白很会喝酒写诗，杜甫很穷，王维喜欢画画 (contextual contrast form in High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "对仗要求在首联和尾联被诗仙沉郁顿挫 (formal register distinction for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)",
+            "王维诗中有画说明他其实是个画匠而不是诗人 (colloquial conversational usage for High Tang Meter  Regulated Verse   Li Bai   Du Fu Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "该语段精准把握了唐代近体律诗的格律核心以及李白、杜甫、王维三大诗宗的审美灵魂。"
@@ -15233,10 +15233,10 @@
         {
           "prompt": "宋代文人创作宋词时，依据固定的音乐曲调名称（如《水调歌头》、《满江红》）来决定句数、平仄与押韵，这种曲调名称被称为：",
           "options": [
-            "词牌 (Core concept key phrasing)",
-            "歌单 (Core concept alternative form)",
-            "唱片名 (Core concept alternative form)",
-            "剧本号 (Core concept alternative form)"
+            "词牌 (standard target expression for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "歌单 (contextual contrast form in Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "唱片名 (formal register distinction for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "剧本号 (colloquial conversational usage for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)"
           ],
           "answerIndex": 0,
           "explanation": "「词牌」是宋词填词所依据的曲调乐谱名称，决定了整首词的字数、句式与平仄韵律。"
@@ -15244,10 +15244,10 @@
         {
           "prompt": "宋词两大主要流派中，以苏轼、辛弃疾为代表，风格雄浑开阔、慷慨悲壮的流派是：",
           "options": [
-            "豪放派 (Core concept key phrasing)",
-            "婉约派 (Core concept alternative form)",
-            "写实派 (Core concept alternative form)",
-            "意识流 (Core concept alternative form)"
+            "豪放派 (standard target expression for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "婉约派 (contextual contrast form in Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "写实派 (formal register distinction for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "意识流 (colloquial conversational usage for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)"
           ],
           "answerIndex": 0,
           "explanation": "「豪放派」是宋词中以苏轼、辛弃疾为代表的词学流派，题材开阔，气势磅礴。"
@@ -15259,10 +15259,10 @@
         {
           "prompt": "李清照在名作《声声慢》开篇破天荒连用十四个叠字，千古传诵。该开篇名句是：",
           "options": [
-            "寻寻觅觅，冷冷清清，凄凄惨惨戚戚 (Core concept key phrasing)",
-            "大江东去，浪淘尽，千古风流人物 (Core concept alternative form)",
-            "明月几时有，把酒问青天 (Core concept alternative form)",
-            "醉里挑灯看剑，梦回吹角连营 (Core concept alternative form)"
+            "寻寻觅觅，冷冷清清，凄凄惨惨戚戚 (standard target expression for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "大江东去，浪淘尽，千古风流人物 (contextual contrast form in Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "明月几时有，把酒问青天 (formal register distinction for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "醉里挑灯看剑，梦回吹角连营 (colloquial conversational usage for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)"
           ],
           "answerIndex": 0,
           "explanation": "「寻寻觅觅，冷冷清清，凄凄惨惨戚戚」是李清照《声声慢》中运用叠字艺术的巅峰之作。"
@@ -15270,10 +15270,10 @@
         {
           "prompt": "苏轼《水调歌头》中表达对远方亲人美好祝愿、成为中秋佳节最经典寄托的名句是：",
           "options": [
-            "但愿人长久，千里共婵娟 (Core concept key phrasing)",
-            "杨柳岸，晓风残月 (Core concept alternative form)",
-            "无言独上西楼，月如钩 (Core concept alternative form)",
-            "无可奈何花落去，似曾相识燕归来 (Core concept alternative form)"
+            "但愿人长久，千里共婵娟 (standard target expression for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "杨柳岸，晓风残月 (contextual contrast form in Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "无言独上西楼，月如钩 (formal register distinction for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "无可奈何花落去，似曾相识燕归来 (colloquial conversational usage for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)"
           ],
           "answerIndex": 0,
           "explanation": "「但愿人长久，千里共婵娟」是苏轼词中最脍炙人口的中秋名句。"
@@ -15286,10 +15286,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列宋词体式、词牌声律与流派审美分析中最全面、最深刻的一项：",
           "options": [
-            "宋词依词牌长短句依谱填词，上片起兴写景，下片抒情明志。苏轼以旷达胸襟与天纵奇才开豪放之风，辛弃疾倾家国壮志铸就金戈铁马的英雄悲歌；柳永以慢词羁旅铺叙离情，李清照则以连用十四叠字的绝唱将婉约派凄清幽微的情感推向了极致！ (Core concept alternative form)",
-            "宋词就是长长短短的歌词，苏轼写月亮，辛弃疾写打仗，李清照写悲伤 (Core concept alternative form)",
-            "豪放派只准写李清照十四叠字在词牌 (Core concept alternative form)",
-            "词牌是指古代歌女手里拿的塑料牌子 (Core concept alternative form)"
+            "宋词依词牌长短句依谱填词，上片起兴写景，下片抒情明志。苏轼以旷达胸襟与天纵奇才开豪放之风，辛弃疾倾家国壮志铸就金戈铁马的英雄悲歌；柳永以慢词羁旅铺叙离情，李清照则以连用十四叠字的绝唱将婉约派凄清幽微的情感推向了极致！ (standard target expression for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "宋词就是长长短短的歌词，苏轼写月亮，辛弃疾写打仗，李清照写悲伤 (contextual contrast form in Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "豪放派只准写李清照十四叠字在词牌 (formal register distinction for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)",
+            "词牌是指古代歌女手里拿的塑料牌子 (colloquial conversational usage for Song Ci Long Short Lines  Cipai Metres   Haofang   Wanyue Schools)"
           ],
           "answerIndex": 0,
           "explanation": "该语段对宋词依谱填词的体例、苏辛豪放派的家国宏大视野以及柳李婉约派的细腻情感进行了极其精到的美学概括。"
@@ -15353,10 +15353,10 @@
         {
           "prompt": "近代著名学者王国维在文艺美学批评名著《人间词话》中提出的评判文学作品高下的最高核心标准是：",
           "options": [
-            "境界 / 意境 (Core concept alternative form)",
-            "字数最多 (Core concept alternative form)",
-            "用词最长 (Core concept alternative form)",
-            "排版最花哨 (Core concept alternative form)"
+            "境界 / 意境 (standard target expression for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "字数最多 (contextual contrast form in Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "用词最长 (formal register distinction for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "排版最花哨 (colloquial conversational usage for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)"
           ],
           "answerIndex": 0,
           "explanation": "王国维开宗明义提出「词以境界为最上」，将意境/境界置于诗歌美学批评的最高王座。"
@@ -15364,10 +15364,10 @@
         {
           "prompt": "在传统诗画理论中，形容通过实写景物与留白想象相结合、达到「计白当黑」审美效果的艺术法则是：",
           "options": [
-            "虚实相生 (Core concept key phrasing)",
-            "完全填满没有任何空隙 (Core concept alternative form)",
-            "乱涂乱画 (Core concept alternative form)",
-            "只留白没有任何实景 (Core concept alternative form)"
+            "虚实相生 (standard target expression for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "完全填满没有任何空隙 (contextual contrast form in Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "乱涂乱画 (formal register distinction for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "只留白没有任何实景 (colloquial conversational usage for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)"
           ],
           "answerIndex": 0,
           "explanation": "「虚实相生」是中国古典美学中处理具象描摹与抽象神韵关系的核心艺术法则。"
@@ -15379,10 +15379,10 @@
         {
           "prompt": "陶渊明名句「采菊东篱下，悠然见南山」中物我两忘、浑然天成的审美境界在王国维《人间词话》中被称为：",
           "options": [
-            "无我之境 (Core concept key phrasing)",
-            "有我之境 (Core concept alternative form)",
-            "无理取闹之境 (Core concept alternative form)",
-            "喧嚣吵闹之境 (Core concept alternative form)"
+            "无我之境 (standard target expression for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "有我之境 (contextual contrast form in Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "无理取闹之境 (formal register distinction for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "喧嚣吵闹之境 (colloquial conversational usage for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)"
           ],
           "answerIndex": 0,
           "explanation": "「无我之境」指诗人达到心境澄明、物我两忘、不知何者为我何者为物的至高恬淡境界。"
@@ -15390,10 +15390,10 @@
         {
           "prompt": "古典文学批评中用来形容诗歌语言虽然结束、但其中蕴含的意味和余韵却无休无止深邃悠远的名句是：",
           "options": [
-            "言有尽而意无穷 (Core concept key phrasing)",
-            "废话连篇 (Core concept alternative form)",
-            "辞不达意 (Core concept alternative form)",
-            "枯燥乏味 (Core concept alternative form)"
+            "言有尽而意无穷 (standard target expression for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "废话连篇 (contextual contrast form in Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "辞不达意 (formal register distinction for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "枯燥乏味 (colloquial conversational usage for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)"
           ],
           "answerIndex": 0,
           "explanation": "「言有尽而意无穷」是古代文论中对优秀诗词留白与深邃意境魅力的至高赞誉。"
@@ -15406,10 +15406,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国古典文艺批评与意境理论评析中哲理性最高、文论体系最完备的一项：",
           "options": [
-            "中国古典美学以「意境」为灵魂，追求情与景的水乳交融。王国维《人间词话》分立「有我之境」与「无我之境」，深刻阐发了物我关系的两种至高形态；古典诗画更依托「虚实相生」与留白艺术，在「不着一字，尽得风流」的幽微中达成「言有尽而意无穷」的永恒境界！ (Core concept alternative form)",
-            "古人写诗喜欢讲意境，就是让人猜猜什么意思，猜不出来说明写得好 (Core concept alternative form)",
-            "虚实相生是指诗歌前半句是真的后半句是假话 (Core concept alternative form)",
-            "只要没有境界，就能写出人间词话 (Core concept alternative form)"
+            "中国古典美学以「意境」为灵魂，追求情与景的水乳交融。王国维《人间词话》分立「有我之境」与「无我之境」，深刻阐发了物我关系的两种至高形态；古典诗画更依托「虚实相生」与留白艺术，在「不着一字，尽得风流」的幽微中达成「言有尽而意无穷」的永恒境界！ (standard target expression for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "古人写诗喜欢讲意境，就是让人猜猜什么意思，猜不出来说明写得好 (contextual contrast form in Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "虚实相生是指诗歌前半句是真的后半句是假话 (formal register distinction for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)",
+            "只要没有境界，就能写出人间词话 (colloquial conversational usage for Yijing Aesthetics  Emptiness   Reality  Vitality   Implicit Meaning)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统总结了意境论、王国维有我/无我之境、虚实相生及言有尽而意无穷的核心美学意涵。"
@@ -15473,10 +15473,10 @@
         {
           "prompt": "在中华古典文学三千年发展全景脉络中，将「先秦风骚（赋比兴/求索） -> 盛唐气象（律诗对仗/李杜王维） -> 两宋词韵（豪放婉约） -> 王国维境界论（虚实相生/言有尽而意无穷）」串联起来的核心红线是：",
           "options": [
-            "中华诗歌源流演进与古典意境美学体系 (Core concept alternative form)",
-            "普通古代历史事件罗列 (Core concept alternative form)",
-            "古代算术演算法则 (Core concept alternative form)",
-            "纯粹由语法病句拼凑的杂文 (Core concept alternative form)"
+            "中华诗歌源流演进与古典意境美学体系 (standard target expression for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "普通古代历史事件罗列 (contextual contrast form in Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "古代算术演算法则 (formal register distinction for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "纯粹由语法病句拼凑的杂文 (colloquial conversational usage for Comprehensive Classical Literature   Timeless Aesthetic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "语篇完美勾勒了三千年中国古典诗词文脉演进的宏伟历程与意境美学的崇高建构。"
@@ -15484,10 +15484,10 @@
         {
           "prompt": "在古典诗学中，指称「诗歌的文字形式已经结束，但作品所激发的美感与哲理回味却在读者心中绵延无尽」的最高审美评价是：",
           "options": [
-            "言有尽而意无穷 / 韵外之致 (Core concept alternative form)",
-            "废话连篇不知所云 (Core concept alternative form)",
-            "平淡寡味 (Core concept alternative form)",
-            "语言粗糙没有内涵 (Core concept alternative form)"
+            "言有尽而意无穷 / 韵外之致 (standard target expression for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "废话连篇不知所云 (contextual contrast form in Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "平淡寡味 (formal register distinction for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "语言粗糙没有内涵 (colloquial conversational usage for Comprehensive Classical Literature   Timeless Aesthetic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「言有尽而意无穷」是千百年来中国文论对古典诗词艺术最高境界的一致赞誉。"
@@ -15499,10 +15499,10 @@
         {
           "prompt": "请选出下列中华古典文学与文脉传承评析中辞采最斐然、立意最高远的一项：",
           "options": [
-            "从先秦风骚的现实关切与浪漫求索，到盛唐李杜的豪放沉郁与两宋词客的金戈铁马、凄婉清绝，古典诗学在虚实相生中将言有尽而意无穷的东方意境推向了巅峰。读千载诗词，便是与古圣先贤进行跨越时空的心灵对话！ (Core concept alternative form)",
-            "中国古诗词很多，以前的人很会写，我们现在多读读挺有好处的 (Core concept alternative form)",
-            "赋比兴被言有尽而意无穷在金戈铁马 (Core concept alternative form)",
-            "读古诗词只是为了背诵考试没有别的用处 (Core concept alternative form)"
+            "从先秦风骚的现实关切与浪漫求索，到盛唐李杜的豪放沉郁与两宋词客的金戈铁马、凄婉清绝，古典诗学在虚实相生中将言有尽而意无穷的东方意境推向了巅峰。读千载诗词，便是与古圣先贤进行跨越时空的心灵对话！ (standard target expression for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "中国古诗词很多，以前的人很会写，我们现在多读读挺有好处的 (contextual contrast form in Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "赋比兴被言有尽而意无穷在金戈铁马 (formal register distinction for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "读古诗词只是为了背诵考试没有别的用处 (colloquial conversational usage for Comprehensive Classical Literature   Timeless Aesthetic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在古典文学流变、诗学美学范畴与人文精神升华上达到了当代高级文史学者的最高造诣。"
@@ -15510,10 +15510,10 @@
         {
           "prompt": "在文学史上被誉为中国古典浪漫主义开山鼻祖、抒发「路漫漫其修远兮，吾将上下而求索」的伟大爱国诗人是：",
           "options": [
-            "屈原 (Core concept key phrasing)",
-            "司马迁 (Core concept alternative form)",
-            "韩愈 (Core concept alternative form)",
-            "白居易 (Core concept alternative form)"
+            "屈原 (standard target expression for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "司马迁 (contextual contrast form in Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "韩愈 (formal register distinction for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "白居易 (colloquial conversational usage for Comprehensive Classical Literature   Timeless Aesthetic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "屈原是楚辞的代表作家，中国浪漫主义诗歌的开山鼻祖与伟大爱国诗人。"
@@ -15526,10 +15526,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中华古典诗词与意境美学综合语篇中气度最恢宏、文脉最贯通、美学价值最高的一项：",
           "options": [
-            "三千年文脉弦歌不辍。《诗经》以赋比兴铸就现实主义基石，屈原《楚辞》以香草美人树立浪漫求索丰碑；盛唐律诗平仄工稳，李白豪放飘逸，杜甫沉郁顿挫，王维诗中有画；两宋词客依谱填词，东坡稼轩唱彻豪放山河，易安居士道尽婉约凄情。王国维称境界为最上，古典诗学以虚实相生达致言有尽而意无穷之化境，成为中华民族永恒的精神家园！ (Core concept alternative form)",
-            "古代诗歌很好听，大家写了诗经离骚唐诗宋词，王国维说境界最重要 (Core concept alternative form)",
-            "诗经被李白杜甫在词牌里写虚实相生 (Core concept alternative form)",
-            "只要学会平仄，就能随便当诗仙诗圣 (Core concept alternative form)"
+            "三千年文脉弦歌不辍。《诗经》以赋比兴铸就现实主义基石，屈原《楚辞》以香草美人树立浪漫求索丰碑；盛唐律诗平仄工稳，李白豪放飘逸，杜甫沉郁顿挫，王维诗中有画；两宋词客依谱填词，东坡稼轩唱彻豪放山河，易安居士道尽婉约凄情。王国维称境界为最上，古典诗学以虚实相生达致言有尽而意无穷之化境，成为中华民族永恒的精神家园！ (standard target expression for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "古代诗歌很好听，大家写了诗经离骚唐诗宋词，王国维说境界最重要 (contextual contrast form in Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "诗经被李白杜甫在词牌里写虚实相生 (formal register distinction for Comprehensive Classical Literature   Timeless Aesthetic Narrative)",
+            "只要学会平仄，就能随便当诗仙诗圣 (colloquial conversational usage for Comprehensive Classical Literature   Timeless Aesthetic Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇将先秦风骚、唐诗格律、宋词流派与王国维境界美学熔铸一体，文辞极其典雅，思想深刻，达到了中国古典文学鉴赏与理论批评的巅峰。"
@@ -15595,10 +15595,10 @@
         {
           "prompt": "孔子在《论语》中提出君子在处理人际与社会关系时追求多样和谐而不盲从附和的千古箴言是：",
           "options": [
-            "君子和而不同，小人同而不和 (Core concept key phrasing)",
-            "君子同流合污 (Core concept alternative form)",
-            "君子唯唯诺诺 (Core concept alternative form)",
-            "君子随波逐流 (Core concept alternative form)"
+            "君子和而不同，小人同而不和 (standard target expression for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "君子同流合污 (contextual contrast form in Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "君子唯唯诺诺 (formal register distinction for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "君子随波逐流 (colloquial conversational usage for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)"
           ],
           "answerIndex": 0,
           "explanation": "「君子和而不同，小人同而不和」是孔子关于多元包容与坚守道德原则的核心名言。"
@@ -15606,10 +15606,10 @@
         {
           "prompt": "孟子政治哲学中将人民大众的地位置于国家与君主之上的崇高民本思想名言是：",
           "options": [
-            "民为贵，社稷次之，君为轻 (Core concept key phrasing)",
-            "君为最尊，万民为奴 (Core concept alternative form)",
-            "社稷第一，无视百姓 (Core concept alternative form)",
-            "只要君王高兴，百姓受苦无妨 (Core concept alternative form)"
+            "民为贵，社稷次之，君为轻 (standard target expression for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "君为最尊，万民为奴 (contextual contrast form in Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "社稷第一，无视百姓 (formal register distinction for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "只要君王高兴，百姓受苦无妨 (colloquial conversational usage for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)"
           ],
           "answerIndex": 0,
           "explanation": "「民为贵，社稷次之，君为轻」是孟子民本主义思想的至高纲领。"
@@ -15621,10 +15621,10 @@
         {
           "prompt": "儒家追求个人道德达到至高圣人境界、同时在外部社会建立治国安邦功业的至高理想被称为：",
           "options": [
-            "内圣外王 (Core concept key phrasing)",
-            "自私自利 (Core concept alternative form)",
-            "沽名钓誉 (Core concept alternative form)",
-            "逃避现实 (Core concept alternative form)"
+            "内圣外王 (standard target expression for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "自私自利 (contextual contrast form in Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "沽名钓誉 (formal register distinction for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "逃避现实 (colloquial conversational usage for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)"
           ],
           "answerIndex": 0,
           "explanation": "「内圣外王」是儒家追求道德修养（内圣）与社会政治实践（外王）统一的终极人格理想。"
@@ -15632,10 +15632,10 @@
         {
           "prompt": "孟子所提出的「四端」（恻隐之心、羞恶之心、辞让之心、是非之心）分别对应的人类四大基本道德是：",
           "options": [
-            "仁、义、礼、智 (Core concept key phrasing)",
-            "吃、喝、玩、乐 (Core concept alternative form)",
-            "琴、棋、书、画 (Core concept alternative form)",
-            "金、银、铜、铁 (Core concept alternative form)"
+            "仁、义、礼、智 (standard target expression for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "吃、喝、玩、乐 (contextual contrast form in Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "琴、棋、书、画 (formal register distinction for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "金、银、铜、铁 (colloquial conversational usage for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)"
           ],
           "answerIndex": 0,
           "explanation": "孟子以四心为四端，分别引申出「仁、义、礼、智」儒家四大核心道德品质。"
@@ -15648,10 +15648,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列儒学哲学体系评析中概念最精准、义理最圆融的一项：",
           "options": [
-            "孔子以「仁者爱人」与「克己复礼」奠定道德与社会秩序之基，强调「和而不同」的独立君子人格；孟子创「性善论」与「仁义礼智」四端说，力主「民贵君轻」的民本大道；儒家以修齐治平贯通个体德行与天下治理，构建了「内圣外王」的崇高精神典范！ (Core concept alternative form)",
-            "孔孟就是叫大家听话，孔子喜欢礼貌，孟子觉得大家都很善良，大家不要吵架 (Core concept alternative form)",
-            "克己复礼被民贵君轻在内圣外王四端 (Core concept alternative form)",
-            "和而不同是指君子必须跟所有人说一模一样的话 (Core concept alternative form)"
+            "孔子以「仁者爱人」与「克己复礼」奠定道德与社会秩序之基，强调「和而不同」的独立君子人格；孟子创「性善论」与「仁义礼智」四端说，力主「民贵君轻」的民本大道；儒家以修齐治平贯通个体德行与天下治理，构建了「内圣外王」的崇高精神典范！ (standard target expression for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "孔孟就是叫大家听话，孔子喜欢礼貌，孟子觉得大家都很善良，大家不要吵架 (contextual contrast form in Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "克己复礼被民贵君轻在内圣外王四端 (formal register distinction for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)",
+            "和而不同是指君子必须跟所有人说一模一样的话 (colloquial conversational usage for Confucianism of Confucius   Mencius  Ren  Yi  Li  Zhi  Innate Goodness   Sageliness Within and Kingliness Without)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统总结了孔子仁礼论、和而不同思想、孟子性善论与民贵君轻主张，以及内圣外王的终极追求，达到了极高的哲学深度。"
@@ -15715,10 +15715,10 @@
         {
           "prompt": "老子在《道德经》中用来比喻君子拥有至柔、至善、滋养万物却从不与人相争的高尚品格的名句是：",
           "options": [
-            "上善若水 (Core concept key phrasing)",
-            "水火不容 (Core concept alternative form)",
-            "洪水猛兽 (Core concept alternative form)",
-            "落井下石 (Core concept alternative form)"
+            "上善若水 (standard target expression for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "水火不容 (contextual contrast form in Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "洪水猛兽 (formal register distinction for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "落井下石 (colloquial conversational usage for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)"
           ],
           "answerIndex": 0,
           "explanation": "「上善若水」是老子道德哲学的最高象征，以水之至柔利物喻指最高尚德行。"
@@ -15726,10 +15726,10 @@
         {
           "prompt": "成语「游刃有余」源自庄子《养生主》中哪一个脍炙人口的经典哲学寓言？",
           "options": [
-            "庖丁解牛 (Core concept key phrasing)",
-            "井底之蛙 (Core concept alternative form)",
-            "刻舟求剑 (Core concept alternative form)",
-            "掩耳盗铃 (Core concept alternative form)"
+            "庖丁解牛 (standard target expression for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "井底之蛙 (contextual contrast form in Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "刻舟求剑 (formal register distinction for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "掩耳盗铃 (colloquial conversational usage for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)"
           ],
           "answerIndex": 0,
           "explanation": "成语「游刃有余」出自《庄子·养生主》中庖丁解牛依乎天理的经典寓言。"
@@ -15741,10 +15741,10 @@
         {
           "prompt": "庄子哲学名篇《逍遥游》开篇描绘的神鸟「鲲化为鹏、扶摇直上九万里」所象征的核心精神境界是：",
           "options": [
-            "超越世俗名利羁绊、追求绝对的精神自由 (Core concept alternative form)",
-            "想飞得高多吃虫子 (Core concept alternative form)",
-            "天气太热想要乘凉 (Core concept alternative form)",
-            "没有目的到处乱晃 (Core concept alternative form)"
+            "超越世俗名利羁绊、追求绝对的精神自由 (standard target expression for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "想飞得高多吃虫子 (contextual contrast form in Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "天气太热想要乘凉 (formal register distinction for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "没有目的到处乱晃 (colloquial conversational usage for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)"
           ],
           "answerIndex": 0,
           "explanation": "《逍遥游》中的鲲鹏展翅象征着摆脱形骸与世俗功利羁绊、追求心灵绝对超脱与自由。"
@@ -15752,10 +15752,10 @@
         {
           "prompt": "老子揭示祸与福相互依存、相互转化的朴素辩证法名句是：",
           "options": [
-            "祸兮福之所倚，福兮祸之所伏 (Core concept key phrasing)",
-            "祸不单行福无双至 (Core concept alternative form)",
-            "大难临头各自飞 (Core concept alternative form)",
-            "因祸得福全是运气 (Core concept alternative form)"
+            "祸兮福之所倚，福兮祸之所伏 (standard target expression for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "祸不单行福无双至 (contextual contrast form in Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "大难临头各自飞 (formal register distinction for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "因祸得福全是运气 (colloquial conversational usage for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)"
           ],
           "answerIndex": 0,
           "explanation": "「祸兮福之所倚，福兮祸之所伏」是老子关于事物对立面在一定条件下相互转化的经典论述。"
@@ -15768,10 +15768,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列老庄道家哲学体系评析中义理最深邃、论述最透彻的一项：",
           "options": [
-            "老子立足「道法自然」，倡导「无为而无不为」与「上善若水」的至柔智慧，揭示了祸福相倚的辩证法；庄子著《逍遥游》以鲲鹏展翅寄托超越形骸的绝对精神自由，以《齐物论》齐万物等是非，借「庖丁解牛」阐发顺应客观天理以「游刃有余」的生命真谛！ (Core concept alternative form)",
-            "道家思想就是让人什么都别做，在家里睡觉，老子喜欢水，庄子喜欢写大鸟 (Core concept alternative form)",
-            "庖丁解牛被上善若水在逍遥游祸福相倚 (Core concept alternative form)",
-            "道法自然是指人完全不需要遵守任何自然规律 (Core concept alternative form)"
+            "老子立足「道法自然」，倡导「无为而无不为」与「上善若水」的至柔智慧，揭示了祸福相倚的辩证法；庄子著《逍遥游》以鲲鹏展翅寄托超越形骸的绝对精神自由，以《齐物论》齐万物等是非，借「庖丁解牛」阐发顺应客观天理以「游刃有余」的生命真谛！ (standard target expression for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "道家思想就是让人什么都别做，在家里睡觉，老子喜欢水，庄子喜欢写大鸟 (contextual contrast form in Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "庖丁解牛被上善若水在逍遥游祸福相倚 (formal register distinction for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)",
+            "道法自然是指人完全不需要遵守任何自然规律 (colloquial conversational usage for Daoist Philosophy of Laozi   Zhuangzi  Wuwei  Nature s Way  Equalizing Things   Carefree Wandering)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将老子的道法自然、上善若水、无为而治辩证法与庄子的逍遥游、齐物论及庖丁解牛哲学进行了全面、准确且极具思想张力的系统阐发。"
@@ -15835,10 +15835,10 @@
         {
           "prompt": "战国法家集大成者韩非子提出的治国御臣核心政治哲学三大支柱是：",
           "options": [
-            "法、术、势 (Core concept alternative form)",
-            "吃、喝、睡 (Core concept alternative form)",
-            "风、花、雪 (Core concept alternative form)",
-            "仁、义、礼 (Core concept alternative form)"
+            "法、术、势 (standard target expression for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "吃、喝、睡 (contextual contrast form in Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "风、花、雪 (formal register distinction for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "仁、义、礼 (colloquial conversational usage for Legalism  Mohist Universal Love   Hundred Schools Contention)"
           ],
           "answerIndex": 0,
           "explanation": "韩非子将法家前人的「法」（商鞅）、「术」（申不害）、「势」（慎到）融为一体，构建了法家完整的治国理论。"
@@ -15846,10 +15846,10 @@
         {
           "prompt": "墨家学派的核心政治与伦理纲领，主张人人无差别互爱、坚决反对不义侵略战争的是：",
           "options": [
-            "兼爱、非攻 (Core concept alternative form)",
-            "严刑峻法 (Core concept alternative form)",
-            "克己复礼 (Core concept alternative form)",
-            "无为而治 (Core concept alternative form)"
+            "兼爱、非攻 (standard target expression for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "严刑峻法 (contextual contrast form in Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "克己复礼 (formal register distinction for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "无为而治 (colloquial conversational usage for Legalism  Mohist Universal Love   Hundred Schools Contention)"
           ],
           "answerIndex": 0,
           "explanation": "「兼爱」与「非攻」是墨家学派最鲜明、最具平民情怀的两大核心主张。"
@@ -15861,10 +15861,10 @@
         {
           "prompt": "《孙子兵法·谋攻篇》中提出用最高明的谋略使敌人屈服而非靠单纯流血杀伐的至高战略境界名句是：",
           "options": [
-            "不战而屈人之兵，善之善者也 (Core concept key phrasing)",
-            "杀敌一千自损八百 (Core concept alternative form)",
-            "战到一兵一卒 (Core concept alternative form)",
-            "鱼死网破 (Core concept alternative form)"
+            "不战而屈人之兵，善之善者也 (standard target expression for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "杀敌一千自损八百 (contextual contrast form in Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "战到一兵一卒 (formal register distinction for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "鱼死网破 (colloquial conversational usage for Legalism  Mohist Universal Love   Hundred Schools Contention)"
           ],
           "answerIndex": 0,
           "explanation": "「不战而屈人之兵，善之善者也」是孙子兵法将谋略与和平置于纯粹武力之上的至高境界。"
@@ -15872,10 +15872,10 @@
         {
           "prompt": "《孙子兵法》中强调准确掌握敌我双方虚实信息从而立于不败之地的千古军政箴言是：",
           "options": [
-            "知彼知己，百战不殆 (Core concept key phrasing)",
-            "盲人摸象，走一步看一步 (Core concept alternative form)",
-            "草木皆兵，疑神疑鬼 (Core concept alternative form)",
-            "孤注一掷，碰碰运气 (Core concept alternative form)"
+            "知彼知己，百战不殆 (standard target expression for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "盲人摸象，走一步看一步 (contextual contrast form in Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "草木皆兵，疑神疑鬼 (formal register distinction for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "孤注一掷，碰碰运气 (colloquial conversational usage for Legalism  Mohist Universal Love   Hundred Schools Contention)"
           ],
           "answerIndex": 0,
           "explanation": "「知彼知己，百战不殆」是战略博弈中强调信息对称与深度研判的核心原理。"
@@ -15888,10 +15888,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列法家、墨家与兵家思想评析中概念最精准、格局最宏大的一项：",
           "options": [
-            "先秦诸子争鸣百花齐放：韩非子融「法、术、势」为一体，以因时制宜的法治思想筑牢国家治理根基；墨子以「兼爱、非攻」抒发平民博爱情怀与反战正义；孙子兵法以「不战而屈人之兵」和「知彼知己」确立了超越战术层面的全胜战略哲学！ (Core concept alternative form)",
-            "法家喜欢抓人，墨家喜欢做木工玩具，孙子教人怎么打架 (Core concept alternative form)",
-            "兼爱非攻被法术势在百战不殆 (Core concept alternative form)",
-            "不战而屈人之兵是指遇到敌人马上投降 (Core concept alternative form)"
+            "先秦诸子争鸣百花齐放：韩非子融「法、术、势」为一体，以因时制宜的法治思想筑牢国家治理根基；墨子以「兼爱、非攻」抒发平民博爱情怀与反战正义；孙子兵法以「不战而屈人之兵」和「知彼知己」确立了超越战术层面的全胜战略哲学！ (standard target expression for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "法家喜欢抓人，墨家喜欢做木工玩具，孙子教人怎么打架 (contextual contrast form in Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "兼爱非攻被法术势在百战不殆 (formal register distinction for Legalism  Mohist Universal Love   Hundred Schools Contention)",
+            "不战而屈人之兵是指遇到敌人马上投降 (colloquial conversational usage for Legalism  Mohist Universal Love   Hundred Schools Contention)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将法家的制度理性、墨家的平民博爱与兵家的全胜战略哲学进行了严密、精准且深刻的概括。"
@@ -15955,10 +15955,10 @@
         {
           "prompt": "《周易·象传》中用来阐述君子应当像天一样刚健坚卓、永不停歇奋发图强的经典名句是：",
           "options": [
-            "天行健，君子以自强不息 (Core concept key phrasing)",
-            "做一天和尚撞一天钟 (Core concept alternative form)",
-            "随随便便放弃努力 (Core concept alternative form)",
-            "怨天尤人消极躺平 (Core concept alternative form)"
+            "天行健，君子以自强不息 (standard target expression for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "做一天和尚撞一天钟 (contextual contrast form in Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "随随便便放弃努力 (formal register distinction for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "怨天尤人消极躺平 (colloquial conversational usage for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)"
           ],
           "answerIndex": 0,
           "explanation": "「天行健，君子以自强不息」是中华民族刚健坚毅精神品格的最高表述。"
@@ -15966,10 +15966,10 @@
         {
           "prompt": "明代著名哲学家王阳明创立心学，提出的强调认识与实践内在统一的核心哲学命题是：",
           "options": [
-            "知行合一 (Core concept key phrasing)",
-            "光说不做 (Core concept alternative form)",
-            "只做不想 (Core concept alternative form)",
-            "知行脱节 (Core concept alternative form)"
+            "知行合一 (standard target expression for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "光说不做 (contextual contrast form in Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "只做不想 (formal register distinction for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "知行脱节 (colloquial conversational usage for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)"
           ],
           "answerIndex": 0,
           "explanation": "「知行合一」是王阳明心学的核心命题，强调真知必能践行，践行方显真知。"
@@ -15981,10 +15981,10 @@
         {
           "prompt": "《周易·坤卦》中用来指称君子应当如同大地般宽厚博大、包容承载万物的经典名句是：",
           "options": [
-            "地势坤，君子以厚德载物 (Core concept key phrasing)",
-            "心胸狭窄斤斤计较 (Core concept alternative form)",
-            "自私自利不容他人 (Core concept alternative form)",
-            "尖酸刻薄 (Core concept alternative form)"
+            "地势坤，君子以厚德载物 (standard target expression for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "心胸狭窄斤斤计较 (contextual contrast form in Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "自私自利不容他人 (formal register distinction for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "尖酸刻薄 (colloquial conversational usage for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)"
           ],
           "answerIndex": 0,
           "explanation": "「地势坤，君子以厚德载物」代表了博大包容、仁厚待人的至高道德操守。"
@@ -15992,10 +15992,10 @@
         {
           "prompt": "在中国哲学中，用来形容「在得志时兼济天下、在失意时独善其身」的心理调适机制是：",
           "options": [
-            "儒道互补 (Core concept key phrasing)",
-            "精神分裂 (Core concept alternative form)",
-            "毫无原则 (Core concept alternative form)",
-            "朝三暮四 (Core concept alternative form)"
+            "儒道互补 (standard target expression for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "精神分裂 (contextual contrast form in Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "毫无原则 (formal register distinction for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "朝三暮四 (colloquial conversational usage for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)"
           ],
           "answerIndex": 0,
           "explanation": "「儒道互补」使中国士大夫既有积极入世的责任担当，又有超然物外的旷达心境。"
@@ -16008,10 +16008,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中华哲学辩证思维与精神结构论述中立论最高远、概括最精辟的一项：",
           "options": [
-            "中华哲学以「儒道互补」构筑了兼济天下与独善其身的心理弹性；《周易》并立「自强不息」之乾道与「厚德载物」之坤道，熔铸了刚柔相济的民族品格；「中庸之道」在万变中把握动态平衡，王阳明「知行合一」更将心性觉悟落实于事上磨练，共同奠定了中华辩证思维的至高典范！ (Core concept alternative form)",
-            "中国人有时候听孔子，有时候听老子，周易教人算命，王阳明叫人干活 (Core concept alternative form)",
-            "知行合一被厚德载物在自强不息中庸之道 (Core concept alternative form)",
-            "中庸之道就是做人没有原则和稀泥 (Core concept alternative form)"
+            "中华哲学以「儒道互补」构筑了兼济天下与独善其身的心理弹性；《周易》并立「自强不息」之乾道与「厚德载物」之坤道，熔铸了刚柔相济的民族品格；「中庸之道」在万变中把握动态平衡，王阳明「知行合一」更将心性觉悟落实于事上磨练，共同奠定了中华辩证思维的至高典范！ (standard target expression for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "中国人有时候听孔子，有时候听老子，周易教人算命，王阳明叫人干活 (contextual contrast form in Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "知行合一被厚德载物在自强不息中庸之道 (formal register distinction for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)",
+            "中庸之道就是做人没有原则和稀泥 (colloquial conversational usage for Confucian Daoist Complementarity   Chinese Dialectical Paradigm)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将儒道互补机制、《周易》乾坤刚柔哲学、中庸动态平衡与阳明心学知行合一进行了极其精湛的系统整合。"
@@ -16075,10 +16075,10 @@
         {
           "prompt": "在中华哲学思想源流全景发展脉络中，串联「孔孟仁爱与内圣外王 -> 老庄道法自然与逍遥游 -> 法墨兵家治国战略 -> 儒道互补与知行合一（大同社会）」的核心主线是：",
           "options": [
-            "诸子百家思想体系演进与中华哲学智慧升华 (Core concept alternative form)",
-            "普通古代科举考试规章 (Core concept alternative form)",
-            "古代算命占卜手册 (Core concept alternative form)",
-            "全篇全是病句的乱码文字 (Core concept alternative form)"
+            "诸子百家思想体系演进与中华哲学智慧升华 (standard target expression for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "普通古代科举考试规章 (contextual contrast form in Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "古代算命占卜手册 (formal register distinction for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "全篇全是病句的乱码文字 (colloquial conversational usage for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)"
           ],
           "answerIndex": 0,
           "explanation": "语篇系统展现了先秦诸子百家从本体论、认识论到治国理政、心学实践的大道演进全貌。"
@@ -16086,10 +16086,10 @@
         {
           "prompt": "出自《礼记·礼运》、表达人类追求理想大同社会与公正天下秩序的核心经典名言是：",
           "options": [
-            "大道之行也，天下为公 (Core concept key phrasing)",
-            "各人自扫门前雪 (Core concept alternative form)",
-            "事不关己高高挂起 (Core concept alternative form)",
-            "人不为己天诛地灭 (Core concept alternative form)"
+            "大道之行也，天下为公 (standard target expression for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "各人自扫门前雪 (contextual contrast form in Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "事不关己高高挂起 (formal register distinction for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "人不为己天诛地灭 (colloquial conversational usage for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)"
           ],
           "answerIndex": 0,
           "explanation": "「大道之行也，天下为公」是中华传统文化关于天下为公、选贤与能、讲信修睦大同世界的至高哲学表述。"
@@ -16101,10 +16101,10 @@
         {
           "prompt": "请选出下列中华哲学思辨与现代文明论述中辞章最斐然、思想最深邃的一项：",
           "options": [
-            "先秦诸子争鸣奠定东方哲学基石：孔孟仁爱民本与老庄道法自然相映成辉，周易乾坤之自强不息与厚德载物刚柔相济，阳明心学更以知行合一赋能实践。秉持和而不同与天下为公之胸襟，中华哲学为当代人类文明贡献了历久弥新的东方智慧！ (Core concept alternative form)",
-            "中国哲学很好，孔子老子很厉害，我们要多学习他们的思想建设国家 (Core concept alternative form)",
-            "知行合一被天下为公在自强不息 (Core concept alternative form)",
-            "天下为公是指所有财产都不属于任何人谁也别干活 (Core concept alternative form)"
+            "先秦诸子争鸣奠定东方哲学基石：孔孟仁爱民本与老庄道法自然相映成辉，周易乾坤之自强不息与厚德载物刚柔相济，阳明心学更以知行合一赋能实践。秉持和而不同与天下为公之胸襟，中华哲学为当代人类文明贡献了历久弥新的东方智慧！ (standard target expression for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "中国哲学很好，孔子老子很厉害，我们要多学习他们的思想建设国家 (contextual contrast form in Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "知行合一被天下为公在自强不息 (formal register distinction for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "天下为公是指所有财产都不属于任何人谁也别干活 (colloquial conversational usage for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项在诸子各家精髓熔铸、辩证思维建构与当代文明关怀上达到了当代高级哲学思想论著的最高境界。"
@@ -16112,10 +16112,10 @@
         {
           "prompt": "形容中华优秀传统文化历经数千年漫长岁月依然散发蓬勃生命力的经典成语是：",
           "options": [
-            "历久弥新 (Core concept key phrasing)",
-            "行将就木 (Core concept alternative form)",
-            "陈词滥调 (Core concept alternative form)",
-            "腐朽不堪 (Core concept alternative form)"
+            "历久弥新 (standard target expression for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "行将就木 (contextual contrast form in Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "陈词滥调 (formal register distinction for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "腐朽不堪 (colloquial conversational usage for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)"
           ],
           "answerIndex": 0,
           "explanation": "「历久弥新」形容优秀的思想文化历经久远年代的淘洗反而愈加焕发出崭新的光彩与生命力。"
@@ -16128,10 +16128,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中华哲学思想源流与当代文明观综合语篇中格局最宏大、哲思最深邃、论辩最严密的一项：",
           "options": [
-            "大道之行，天下为公。先秦百家争鸣铸就中华哲学辉煌源流：孔孟以仁爱民本树立内圣外王之极则，老庄以道法自然与上善若水悟透宇宙机理；周易刚柔相济，《自强不息》与《厚德载物》共铸民族风骨；法墨兵术各展宏图，阳明心学以知行合一达致实践觉悟。秉持和而不同与美美与共，中华哲学正为构建人类命运共同体贡献深邃悠远的东方智慧！ (Core concept alternative form)",
-            "我们古代有很多哲学家，写了很多书，现在大家觉得很有道理，我们要继续传承 (Core concept alternative form)",
-            "大道之行被法术势知行合一在逍遥游 (Core concept alternative form)",
-            "只要学会知行合一，就能不读书不思考直接平天下 (Core concept alternative form)"
+            "大道之行，天下为公。先秦百家争鸣铸就中华哲学辉煌源流：孔孟以仁爱民本树立内圣外王之极则，老庄以道法自然与上善若水悟透宇宙机理；周易刚柔相济，《自强不息》与《厚德载物》共铸民族风骨；法墨兵术各展宏图，阳明心学以知行合一达致实践觉悟。秉持和而不同与美美与共，中华哲学正为构建人类命运共同体贡献深邃悠远的东方智慧！ (standard target expression for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "我们古代有很多哲学家，写了很多书，现在大家觉得很有道理，我们要继续传承 (contextual contrast form in Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "大道之行被法术势知行合一在逍遥游 (formal register distinction for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)",
+            "只要学会知行合一，就能不读书不思考直接平天下 (colloquial conversational usage for Comprehensive Chinese Philosophy Narrative  Grand Dao   Modern Civilizational Vision)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇融会贯通儒道法墨兵诸子精义、《周易》刚柔辩证、阳明知行心学与天下为公天下大同理想，辞采华茂，哲思通达，堪称中华古典哲学思想论述的巅峰范本。"
@@ -16195,10 +16195,10 @@
         {
           "prompt": "中国传统戏曲中对演员基本功训练所概括的「四功」是指：",
           "options": [
-            "唱、念、做、打 (Core concept key phrasing)",
-            "吃、喝、拉、撒 (Core concept alternative form)",
-            "摸、爬、滚、打 (Core concept alternative form)",
-            "说、学、逗、唱 (Core concept key phrasing)"
+            "唱、念、做、打 (standard target expression for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "吃、喝、拉、撒 (contextual contrast form in Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "摸、爬、滚、打 (formal register distinction for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "说、学、逗、唱 (colloquial conversational usage for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)"
           ],
           "answerIndex": 0,
           "explanation": "戏曲「四功」为唱、念、做、打；相声的基本功才是说、学、逗、唱。"
@@ -16206,10 +16206,10 @@
         {
           "prompt": "中国戏曲中端庄娴静、以高超唱功为主要特征的女性角色行当被称为：",
           "options": [
-            "青衣 / 正旦 (Core concept alternative form)",
-            "文丑 (Core concept alternative form)",
-            "武生 (Core concept alternative form)",
-            "架子花脸 (Core concept alternative form)"
+            "青衣 / 正旦 (standard target expression for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "文丑 (contextual contrast form in Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "武生 (formal register distinction for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "架子花脸 (colloquial conversational usage for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)"
           ],
           "answerIndex": 0,
           "explanation": "「青衣」（正旦）是京剧等剧种中端庄严肃的中青年女性主角，以典雅唱腔见长。"
@@ -16221,10 +16221,10 @@
         {
           "prompt": "戏曲舞台上用来形容以高度写意虚拟的手法打破时空限制的经典美学俗谚是：",
           "options": [
-            "三五步行遍天下，七八人百万雄兵 (Core concept key phrasing)",
-            "台上无戏台下看热闹 (Core concept alternative form)",
-            "台上一分钟台下十年功 (Core concept alternative form)",
-            "演戏的疯子看戏的傻子 (Core concept alternative form)"
+            "三五步行遍天下，七八人百万雄兵 (standard target expression for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "台上无戏台下看热闹 (contextual contrast form in Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "台上一分钟台下十年功 (formal register distinction for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "演戏的疯子看戏的傻子 (colloquial conversational usage for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)"
           ],
           "answerIndex": 0,
           "explanation": "「三五步行遍天下，七八人百万雄兵」准确概括了中国戏曲时空虚拟性与写意性的美学本质。"
@@ -16232,10 +16232,10 @@
         {
           "prompt": "在传统戏曲脸谱色彩美学中，通常用来象征人物忠义、耿直与勇猛的脸谱主色调是：",
           "options": [
-            "红色 (Core concept key phrasing)",
-            "白色 (Core concept key phrasing)",
-            "金色 (Core concept alternative form)",
-            "灰色 (Core concept alternative form)"
+            "红色 (standard target expression for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "白色 (contextual contrast form in Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "金色 (formal register distinction for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "灰色 (colloquial conversational usage for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)"
           ],
           "answerIndex": 0,
           "explanation": "在京剧脸谱中，红色代表忠勇正义（如关公），黑色代表刚直不阿（如包拯），白色代表阴险奸诈（如曹操）。"
@@ -16248,10 +16248,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国戏曲美学系统评析中概念最精准、艺术概括最透彻的一项：",
           "options": [
-            "中国戏曲以「生旦净丑」构建行当谱系，以「唱念做打」与「手眼身步法」熔铸表演功法；通过高度程式化的身段与虚拟写意的舞台调度，达成「一桌二椅演春秋，三五步走遍天下」的超时空自由，确立了东方演剧美学的世界级巅峰！ (Core concept alternative form)",
-            "京剧就是穿戏服在台上乱跑乱叫，生旦净丑是四个人的名字 (Core concept alternative form)",
-            "唱念做打被青衣生旦在脸谱虚拟性 (Core concept alternative form)",
-            "戏曲表演必须完全按照西方写实主义电影的实景来搭舞台 (Core concept alternative form)"
+            "中国戏曲以「生旦净丑」构建行当谱系，以「唱念做打」与「手眼身步法」熔铸表演功法；通过高度程式化的身段与虚拟写意的舞台调度，达成「一桌二椅演春秋，三五步走遍天下」的超时空自由，确立了东方演剧美学的世界级巅峰！ (standard target expression for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "京剧就是穿戏服在台上乱跑乱叫，生旦净丑是四个人的名字 (contextual contrast form in Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "唱念做打被青衣生旦在脸谱虚拟性 (formal register distinction for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)",
+            "戏曲表演必须完全按照西方写实主义电影的实景来搭舞台 (colloquial conversational usage for Chinese Opera Aesthetics  Four Role Types   Chang Nian Zuo Da Stylized Performance)"
           ],
           "answerIndex": 0,
           "explanation": "该语段全面概括了戏曲的行当体系、四功五法、程式化规范与虚拟性美学特质，文字典雅流畅。"
@@ -16319,10 +16319,10 @@
         {
           "prompt": "南齐谢赫在《古画品录》中提出的中国传统绘画理论「六法」之首、最高审美评价标准是：",
           "options": [
-            "气韵生动 (Core concept key phrasing)",
-            "五颜六色 (Core concept alternative form)",
-            "照猫画虎 (Core concept alternative form)",
-            "涂脂抹粉 (Core concept alternative form)"
+            "气韵生动 (standard target expression for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "五颜六色 (contextual contrast form in Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "照猫画虎 (formal register distinction for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "涂脂抹粉 (colloquial conversational usage for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「气韵生动」被谢赫列为绘画六法之首，是中国古代绘画理论的最高纲领。"
@@ -16330,10 +16330,10 @@
         {
           "prompt": "中国水墨画在处理纸上空白与着墨部分关系时，体现道家虚实相生哲学的经典原则是：",
           "options": [
-            "计白当黑 / 留白 (Core concept alternative form)",
-            "密不透风全部涂黑 (Core concept alternative form)",
-            "乱涂乱画不留一点空 (Core concept alternative form)",
-            "白纸一张不画任何东西 (Core concept alternative form)"
+            "计白当黑 / 留白 (standard target expression for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "密不透风全部涂黑 (contextual contrast form in Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "乱涂乱画不留一点空 (formal register distinction for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "白纸一张不画任何东西 (colloquial conversational usage for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「计白当黑」是清代书法家邓石如与古代画论的核心命题，强调空白处同样蕴含深邃意境。"
@@ -16345,10 +16345,10 @@
         {
           "prompt": "中国古代水墨画中用来形容单一墨汁在宣纸上通过水分调节呈现丰富明暗层次的术语是：",
           "options": [
-            "墨分五色 (Core concept key phrasing)",
-            "五彩缤纷 (Core concept alternative form)",
-            "黑白颠倒 (Core concept alternative form)",
-            "一团漆黑 (Core concept alternative form)"
+            "墨分五色 (standard target expression for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "五彩缤纷 (contextual contrast form in Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "黑白颠倒 (formal register distinction for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "一团漆黑 (colloquial conversational usage for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「墨分五色」指中国水墨画仅用黑墨与水调配出的丰富焦、浓、重、淡、清等层次色彩。"
@@ -16356,10 +16356,10 @@
         {
           "prompt": "集文学、书法、绘画与金石篆刻于一幅作品之中的文人画完美艺术形式被称为：",
           "options": [
-            "诗书画印四位一体 (Core concept alternative form)",
-            "装模作样 (Core concept alternative form)",
-            "画蛇添足 (Core concept alternative form)",
-            "买椟还珠 (Core concept alternative form)"
+            "诗书画印四位一体 (standard target expression for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "装模作样 (contextual contrast form in Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "画蛇添足 (formal register distinction for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "买椟还珠 (colloquial conversational usage for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「诗书画印」是文人画成熟时期的标志性审美形态，体现了文人的全能艺术修养。"
@@ -16372,10 +16372,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于文人水墨画美学体系阐发最深刻、艺术品评最精到的一项：",
           "options": [
-            "文人水墨画以谢赫六法之「气韵生动」为灵魂，依托「骨法用笔」与「墨分五色」的无穷变幻构筑意境；秉持「计白当黑」的虚实辩证，在大片留白中包孕天地灵气；更熔「诗、书、画、印」于一体，借物抒情，展现了中国士大夫超然高洁的心性追求！ (Core concept alternative form)",
-            "画国画就是用黑墨水在宣纸上乱画山水，画得不像就说自己是写意文人画 (Core concept alternative form)",
-            "计白当黑被墨分五色在气韵生动诗书画印 (Core concept alternative form)",
-            "文人水墨画必须使用西方透视法则和油画颜料才能算优秀 (Core concept alternative form)"
+            "文人水墨画以谢赫六法之「气韵生动」为灵魂，依托「骨法用笔」与「墨分五色」的无穷变幻构筑意境；秉持「计白当黑」的虚实辩证，在大片留白中包孕天地灵气；更熔「诗、书、画、印」于一体，借物抒情，展现了中国士大夫超然高洁的心性追求！ (standard target expression for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "画国画就是用黑墨水在宣纸上乱画山水，画得不像就说自己是写意文人画 (contextual contrast form in Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "计白当黑被墨分五色在气韵生动诗书画印 (formal register distinction for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)",
+            "文人水墨画必须使用西方透视法则和油画颜料才能算优秀 (colloquial conversational usage for Literati Ink Wash Painting  Spirit Resonance  Five Inks   White Space Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统全面地阐释了谢赫六法、笔墨技法、留白辩证法以及诗书画印四位一体的文人画美学体系。"
@@ -16439,10 +16439,10 @@
         {
           "prompt": "在汉字字体演变史上，彻底打破古文字象形轮廓、奠定现代方块汉字笔画结构基础的关键转折是：",
           "options": [
-            "隶变 (Core concept key phrasing)",
-            "简化字运动 (Core concept alternative form)",
-            "仓颉造字 (Core concept alternative form)",
-            "印刷术发明 (Core concept alternative form)"
+            "隶变 (standard target expression for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "简化字运动 (contextual contrast form in History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "仓颉造字 (formal register distinction for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "印刷术发明 (colloquial conversational usage for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)"
           ],
           "answerIndex": 0,
           "explanation": "「隶变」是汉字发展史上最重大的转折点，将圆转象形的篆书改造成方折平直的笔画，标志着今文字时代的到来。"
@@ -16450,10 +16450,10 @@
         {
           "prompt": "被历代尊称为「书圣」、创作了天下第一行书《兰亭集序》的东晋大书法家是：",
           "options": [
-            "王羲之 (Core concept key phrasing)",
-            "欧阳询 (Core concept alternative form)",
-            "柳公权 (Core concept alternative form)",
-            "赵孟頫 (Core concept alternative form)"
+            "王羲之 (standard target expression for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "欧阳询 (contextual contrast form in History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "柳公权 (formal register distinction for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "赵孟頫 (colloquial conversational usage for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)"
           ],
           "answerIndex": 0,
           "explanation": "王羲之被誉为中国「书圣」，其《兰亭集序》被公认为「天下第一行书」。"
@@ -16465,10 +16465,10 @@
         {
           "prompt": "后世用来高度评价唐代楷书大家颜真卿与柳公权在笔力和结构上各自鲜明风格的著名术语是：",
           "options": [
-            "颜筋柳骨 (Core concept key phrasing)",
-            "肥肉瘦肉 (Core concept alternative form)",
-            "粗枝大叶 (Core concept alternative form)",
-            "平淡无奇 (Core concept alternative form)"
+            "颜筋柳骨 (standard target expression for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "肥肉瘦肉 (contextual contrast form in History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "粗枝大叶 (formal register distinction for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "平淡无奇 (colloquial conversational usage for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)"
           ],
           "answerIndex": 0,
           "explanation": "「颜筋柳骨」赞誉颜真卿楷书筋肉丰满雄健，柳公权楷书骨力刚劲硬挺，代表了唐楷的最高成就。"
@@ -16476,10 +16476,10 @@
         {
           "prompt": "颜真卿在惊闻侄儿英勇抗击安史之乱叛军牺牲后悲愤挥毫、被誉为「天下第二行书」的传世巨作是：",
           "options": [
-            "《祭侄文稿》 (Core concept key phrasing)",
-            "《黄州寒食帖》 (Core concept alternative form)",
-            "《多宝塔碑》 (Core concept alternative form)",
-            "《玄秘塔碑》 (Core concept alternative form)"
+            "《祭侄文稿》 (standard target expression for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "《黄州寒食帖》 (contextual contrast form in History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "《多宝塔碑》 (formal register distinction for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "《玄秘塔碑》 (colloquial conversational usage for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)"
           ],
           "answerIndex": 0,
           "explanation": "颜真卿《祭侄文稿》被称为天下第二行书，字字饱含忠烈悲痛之气，是极富情感力量的书法极品。"
@@ -16492,10 +16492,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列汉字书法史论述中脉络最清晰、审美鉴赏最精准的一项：",
           "options": [
-            "汉字五体演变贯通三千年文明脉络：甲骨金文庄严古朴，秦篆圆劲肃穆，「隶变」化圆为方奠定方块汉字之基；草书如张旭怀素笔走龙蛇抒发狂放浪漫，楷书聚欧颜柳赵立万世法度并铸「颜筋柳骨」；王羲之《兰亭集序》更以行云流水之神韵冠绝天下行书，展现了中华书法无与伦比的笔墨风骨！ (Core concept alternative form)",
-            "书法就是毛笔写字，五种字体随便写，王羲之和颜真卿谁字写得大谁就厉害 (Core concept alternative form)",
-            "隶变被天下第一行书在颜筋柳骨五体 (Core concept alternative form)",
-            "草书必须一笔一划写得像印刷体一样规整才符合规范 (Core concept alternative form)"
+            "汉字五体演变贯通三千年文明脉络：甲骨金文庄严古朴，秦篆圆劲肃穆，「隶变」化圆为方奠定方块汉字之基；草书如张旭怀素笔走龙蛇抒发狂放浪漫，楷书聚欧颜柳赵立万世法度并铸「颜筋柳骨」；王羲之《兰亭集序》更以行云流水之神韵冠绝天下行书，展现了中华书法无与伦比的笔墨风骨！ (standard target expression for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "书法就是毛笔写字，五种字体随便写，王羲之和颜真卿谁字写得大谁就厉害 (contextual contrast form in History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "隶变被天下第一行书在颜筋柳骨五体 (formal register distinction for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)",
+            "草书必须一笔一划写得像印刷体一样规整才符合规范 (colloquial conversational usage for History of Chinese Calligraphy  Evolution of Five Scripts   Brushstroke Character)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将甲金篆隶楷行草五体演变、隶变历史意义、书圣兰亭及颜筋柳骨楷书法度融为一体，论述高度专业精当。"
@@ -16565,10 +16565,10 @@
         {
           "prompt": "在中华文人传统中，「文房四宝」四大著名产地名品分别对应的是：",
           "options": [
-            "湖笔、徽墨、宣纸、端砚 (Core concept key phrasing)",
-            "铅笔、圆珠笔、白纸、橡皮 (Core concept alternative form)",
-            "油画棒、水彩笔、白板、黑板 (Core concept alternative form)",
-            "毛笔、打印机、复印纸、订书机 (Core concept alternative form)"
+            "湖笔、徽墨、宣纸、端砚 (standard target expression for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "铅笔、圆珠笔、白纸、橡皮 (contextual contrast form in Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "油画棒、水彩笔、白板、黑板 (formal register distinction for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "毛笔、打印机、复印纸、订书机 (colloquial conversational usage for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "「湖笔、徽墨、宣纸、端砚」代表了中国传统书斋文化中品质最高、底蕴最深厚的文房四宝代表名品。"
@@ -16576,10 +16576,10 @@
         {
           "prompt": "金石篆刻中，将印章文字刻成凹陷、蘸印泥盖出后印文呈现红底白字效果的刻法被称为：",
           "options": [
-            "白文 / 阴文 (Core concept alternative form)",
-            "朱文 / 阳文 (Core concept alternative form)",
-            "雕版印刷 (Core concept alternative form)",
-            "水墨晕染 (Core concept alternative form)"
+            "白文 / 阴文 (standard target expression for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "朱文 / 阳文 (contextual contrast form in Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "雕版印刷 (formal register distinction for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "水墨晕染 (colloquial conversational usage for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "印章刻法中，白文（阴文）刻去字画凹陷留下空白；朱文（阳文）保留凸起线条盖出红色文字。"
@@ -16591,10 +16591,10 @@
         {
           "prompt": "在宣纸分类中，未经胶矾加工、吸水渗墨能力极强、最适合创作大写意水墨山水画的纸张类型是：",
           "options": [
-            "生宣 (Core concept key phrasing)",
-            "熟宣 (Core concept alternative form)",
-            "报纸 (Core concept alternative form)",
-            "砂纸 (Core concept alternative form)"
+            "生宣 (standard target expression for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "熟宣 (contextual contrast form in Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "报纸 (formal register distinction for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "砂纸 (colloquial conversational usage for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "生宣吸水性与渗透性极佳，能产生极丰富的水墨晕染层次，是大写意画作的首选媒介。"
@@ -16602,10 +16602,10 @@
         {
           "prompt": "形容非遗传承人一生执着专注、追求技艺达到极致完美的崇高职业精神的词语是：",
           "options": [
-            "工匠精神 / 匠心独运 (Core concept alternative form)",
-            "偷工减料 (Core concept alternative form)",
-            "粗制滥造 (Core concept alternative form)",
-            "得过且过 (Core concept alternative form)"
+            "工匠精神 / 匠心独运 (standard target expression for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "偷工减料 (contextual contrast form in Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "粗制滥造 (formal register distinction for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "得过且过 (colloquial conversational usage for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "「工匠精神」（匠心独运）体现了中华民族精益求精、专注严谨、追求道技合一的卓越品质。"
@@ -16618,10 +16618,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列文房四宝、篆刻与传统工艺论述中阐发最精妙、内涵最丰富的一项：",
           "options": [
-            "湖笔、徽墨、宣纸与端砚共筑「文房四宝」千古风雅，宣纸纸寿千年、墨韵润泽，奠定水墨永恒载体；金石篆刻运铁笔于方寸之间，朱白交错中尽展秦汉金石气度；从景泰蓝之掐丝点蓝到紫砂之巧夺天工，中华匠人以一生择一事的专注，诠释了道技合一的崇高匠心精神！ (Core concept alternative form)",
-            "文房四宝就是四个写字工具，刻章就是路边刻橡皮图章，匠人就是普通工人干活 (Core concept alternative form)",
-            "宣纸端砚被朱文白文在景泰蓝工匠精神 (Core concept alternative form)",
-            "生宣是指完全不吸水的防水纸，专门用来包食物 (Core concept alternative form)"
+            "湖笔、徽墨、宣纸与端砚共筑「文房四宝」千古风雅，宣纸纸寿千年、墨韵润泽，奠定水墨永恒载体；金石篆刻运铁笔于方寸之间，朱白交错中尽展秦汉金石气度；从景泰蓝之掐丝点蓝到紫砂之巧夺天工，中华匠人以一生择一事的专注，诠释了道技合一的崇高匠心精神！ (standard target expression for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "文房四宝就是四个写字工具，刻章就是路边刻橡皮图章，匠人就是普通工人干活 (contextual contrast form in Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "宣纸端砚被朱文白文在景泰蓝工匠精神 (formal register distinction for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)",
+            "生宣是指完全不吸水的防水纸，专门用来包食物 (colloquial conversational usage for Four Treasures of the Study  Seal Carving   Traditional Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将文房四宝的物态审美、金石篆刻的方寸气象与非遗大国工匠精神进行了全面、准确且高屋建瓴的阐发。"
@@ -16685,10 +16685,10 @@
         {
           "prompt": "在中华传统国粹艺术综合体系中，将「戏曲舞台虚拟程式、水墨留白写意、书法线条风骨与文房金石匠心」融为一体的核心美学特质是：",
           "options": [
-            "写意精神与虚实相生的东方美学意境 (Core concept alternative form)",
-            "照搬西方现代摄影技术 (Core concept alternative form)",
-            "杂乱无章的随便涂抹 (Core concept alternative form)",
-            "完全没有任何文化内涵的娱乐活动 (Core concept alternative form)"
+            "写意精神与虚实相生的东方美学意境 (standard target expression for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "照搬西方现代摄影技术 (contextual contrast form in Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "杂乱无章的随便涂抹 (formal register distinction for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "完全没有任何文化内涵的娱乐活动 (colloquial conversational usage for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "写意精神与虚实相生、气韵生动构成了中国戏曲、国画、书法与金石工艺共同的美学灵魂。"
@@ -16696,10 +16696,10 @@
         {
           "prompt": "形容中华优秀传统艺术历经千百年岁月流逝依然散发浓郁芳香与强大生命力的成语是：",
           "options": [
-            "国粹流芳 (Core concept key phrasing)",
-            "过眼云烟 (Core concept alternative form)",
-            "昙花一现 (Core concept alternative form)",
-            "销声匿迹 (Core concept alternative form)"
+            "国粹流芳 (standard target expression for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "过眼云烟 (contextual contrast form in Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "昙花一现 (formal register distinction for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "销声匿迹 (colloquial conversational usage for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「国粹流芳」形容民族传统艺术精华历经岁月洗礼而流芳百世、长盛不衰。"
@@ -16711,10 +16711,10 @@
         {
           "prompt": "请选出下列传统艺术综合评析中概括最精辟、辞藻最斐然的一项：",
           "options": [
-            "国粹流芳融会千秋：戏曲生旦净丑虚实写意，水墨气韵生动计白当黑，书法五体演进颜筋柳骨兰亭风流，文房四宝金石印章匠心独运。东方艺术以意构境、神形兼备，铸就了世界艺术之林不朽的璀璨丰碑！ (Core concept alternative form)",
-            "中国传统艺术很多，戏曲很好听，水墨画很好看，毛笔字很漂亮 (Core concept alternative form)",
-            "计白当黑被唱念做打在五体演变匠心独运 (Core concept alternative form)",
-            "写意水墨画不需要任何基本功只要乱泼墨就能成功 (Core concept alternative form)"
+            "国粹流芳融会千秋：戏曲生旦净丑虚实写意，水墨气韵生动计白当黑，书法五体演进颜筋柳骨兰亭风流，文房四宝金石印章匠心独运。东方艺术以意构境、神形兼备，铸就了世界艺术之林不朽的璀璨丰碑！ (standard target expression for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "中国传统艺术很多，戏曲很好听，水墨画很好看，毛笔字很漂亮 (contextual contrast form in Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "计白当黑被唱念做打在五体演变匠心独运 (formal register distinction for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "写意水墨画不需要任何基本功只要乱泼墨就能成功 (colloquial conversational usage for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项将戏曲、水墨、书法、文房金石四大艺术支柱的美学精髓融会贯通，语言典雅博大。"
@@ -16722,10 +16722,10 @@
         {
           "prompt": "在中国书画美学中，用来形容作品不仅形貌逼真更蕴含内在生动神韵的经典成语是：",
           "options": [
-            "神形兼备 (Core concept key phrasing)",
-            "画饼充饥 (Core concept alternative form)",
-            "形式主义 (Core concept alternative form)",
-            "空洞无物 (Core concept alternative form)"
+            "神形兼备 (standard target expression for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "画饼充饥 (contextual contrast form in Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "形式主义 (formal register distinction for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "空洞无物 (colloquial conversational usage for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「神形兼备」是中国传统艺术批评的至高标准，要求艺术作品在外在形态与内在神采上达到完美统一。"
@@ -16738,10 +16738,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中华传统国粹艺术精神与东方美学综合语篇中格局最宏大、品鉴最深邃、辞采最雅致的一项：",
           "options": [
-            "国粹流芳，气象万千。中国戏曲以生旦净丑与唱念做打运筹帷幄，一桌二椅演尽千秋沧桑；文人水墨以气韵生动为宗，墨分五色巧借计白当黑吞吐宇宙；书法五体由篆隶至真草，隶变化圆为方，羲之兰亭如行云流水，颜筋柳骨立千古风范；更有文房四宝墨香永驻，金石印章方寸乾坤，非遗工匠一生守一艺。东方艺术神形兼备、道技合一，在人类文明百花园中绽放永恒东方光彩！ (Core concept alternative form)",
-            "古代艺术包括唱戏、画画、写字和刻章，这些老东西现在大家还要继续看 (Core concept alternative form)",
-            "国粹流芳被隶变在生旦净丑计白当黑 (Core concept alternative form)",
-            "传统戏曲必须废除唱念做打改成现代话剧才算进步 (Core concept alternative form)"
+            "国粹流芳，气象万千。中国戏曲以生旦净丑与唱念做打运筹帷幄，一桌二椅演尽千秋沧桑；文人水墨以气韵生动为宗，墨分五色巧借计白当黑吞吐宇宙；书法五体由篆隶至真草，隶变化圆为方，羲之兰亭如行云流水，颜筋柳骨立千古风范；更有文房四宝墨香永驻，金石印章方寸乾坤，非遗工匠一生守一艺。东方艺术神形兼备、道技合一，在人类文明百花园中绽放永恒东方光彩！ (standard target expression for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "古代艺术包括唱戏、画画、写字和刻章，这些老东西现在大家还要继续看 (contextual contrast form in Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "国粹流芳被隶变在生旦净丑计白当黑 (formal register distinction for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)",
+            "传统戏曲必须废除唱念做打改成现代话剧才算进步 (colloquial conversational usage for Comprehensive Traditional Chinese Arts Narrative  Essence of Oriental Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇全景融通戏曲程式、文人水墨、书法五体、文房四宝与金石匠心，论证严密，气魄雄浑，文辞典雅，堪称东方美学论述的极品之作。"
@@ -16805,10 +16805,10 @@
         {
           "prompt": "鲁迅于1918年在《新青年》发表的、标志着中国现代白话小说诞生的划时代开山之作是：",
           "options": [
-            "《狂人日记》 (Q key phrasing)",
-            "《红楼梦》 (Q alternative form)",
-            "《西游记》 (Q alternative form)",
-            "《三国演义》 (Q alternative form)"
+            "《狂人日记》 (standard target expression for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "《红楼梦》 (contextual contrast form in Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "《西游记》 (formal register distinction for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "《三国演义》 (colloquial conversational usage for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)"
           ],
           "answerIndex": 0,
           "explanation": "《狂人日记》是中国现代文学史上第一篇现代白话小说，具有里程碑式的启蒙意义。"
@@ -16816,10 +16816,10 @@
         {
           "prompt": "鲁迅在《阿Q正传》中精准概括的旧中国国民在遭受屈辱打击时用幻想自我安慰的心理病态被称为：",
           "options": [
-            "精神胜利法 (Q key phrasing)",
-            "辩证唯物主义 (Q alternative form)",
-            "实事求是 (Q alternative form)",
-            "知行合一 (Q alternative form)"
+            "精神胜利法 (standard target expression for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "辩证唯物主义 (contextual contrast form in Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "实事求是 (formal register distinction for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "知行合一 (colloquial conversational usage for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)"
           ],
           "answerIndex": 0,
           "explanation": "「精神胜利法」是鲁迅塑造的阿Q身上最典型的国民劣根性象征。"
@@ -16831,10 +16831,10 @@
         {
           "prompt": "鲁迅在《呐喊》自序中用哪个著名的意象来隐喻黑暗沉睡、万难破毁却仍需大声疾呼唤醒民众的旧中国社会？",
           "options": [
-            "铁屋子 (Q key phrasing)",
-            "象牙塔 (Q alternative form)",
-            "桃花源 (Q alternative form)",
-            "黄金屋 (Q alternative form)"
+            "铁屋子 (standard target expression for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "象牙塔 (contextual contrast form in Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "桃花源 (formal register distinction for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "黄金屋 (colloquial conversational usage for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)"
           ],
           "answerIndex": 0,
           "explanation": "「铁屋子」是鲁迅文学中最震撼人心的现代性启蒙隐喻之一。"
@@ -16842,10 +16842,10 @@
         {
           "prompt": "鲁迅在《自嘲》诗中展现其对敌人决不妥协、对人民大众无限忠诚奉献的千古名句是：",
           "options": [
-            "横眉冷对千夫指，俯首甘为孺子牛 (Q key phrasing)",
-            "两耳不闻窗外事 (Q alternative form)",
-            "明哲保身莫多言 (Q alternative form)",
-            "随波逐流度余生 (Q alternative form)"
+            "横眉冷对千夫指，俯首甘为孺子牛 (standard target expression for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "两耳不闻窗外事 (contextual contrast form in Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "明哲保身莫多言 (formal register distinction for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "随波逐流度余生 (colloquial conversational usage for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)"
           ],
           "answerIndex": 0,
           "explanation": "「横眉冷对千夫指，俯首甘为孺子牛」是鲁迅高尚人格精神与斗争品格的最崇高写照。"
@@ -16858,10 +16858,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列鲁迅文学思想体系评析中立论最深刻、论述最精准的一项：",
           "options": [
-            "鲁迅以《狂人日记》揭开中国现代白话小说序幕，借狂人幻象直指宗法礼教「吃人」的血腥本质；借「铁屋子」呐喊启迪麻木大众，以阿Q的「精神胜利法」解剖国民劣根性；更在《野草》中发出「绝望之为虚妄，正与希望相同」的坚毅哲思，铸就了现代中国知识分子的精神脊梁！ (Q alternative form)",
-            "鲁迅就是一个爱骂人的作家，阿Q是个搞笑人物，大家看狂人日记就是看热闹 (Q alternative form)",
-            "铁屋子被精神胜利法在吃人狂人日记 (Q alternative form)",
-            "精神胜利法是鲁迅大力提倡的所有中国人都应当学习的优秀传统美德 (Q alternative form)"
+            "鲁迅以《狂人日记》揭开中国现代白话小说序幕，借狂人幻象直指宗法礼教「吃人」的血腥本质；借「铁屋子」呐喊启迪麻木大众，以阿Q的「精神胜利法」解剖国民劣根性；更在《野草》中发出「绝望之为虚妄，正与希望相同」的坚毅哲思，铸就了现代中国知识分子的精神脊梁！ (standard target expression for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "鲁迅就是一个爱骂人的作家，阿Q是个搞笑人物，大家看狂人日记就是看热闹 (contextual contrast form in Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "铁屋子被精神胜利法在吃人狂人日记 (formal register distinction for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)",
+            "精神胜利法是鲁迅大力提倡的所有中国人都应当学习的优秀传统美德 (colloquial conversational usage for Lu Xun s Literature   Modernity Critique  National Character  Iron House   Despair s Struggle)"
           ],
           "answerIndex": 0,
           "explanation": "该语段全面概括了鲁迅由《狂人日记》至《阿Q正传》与《野草》的现代性思想演进，立意深刻，论析精微。"
@@ -16925,10 +16925,10 @@
         {
           "prompt": "老舍的长篇小说代表作《骆驼祥子》中，主人公祥子在旧社会经历了怎样的人生轨迹？",
           "options": [
-            "从要强勤劳的洋车夫，经历「三起三落」后彻底幻灭沦落为自甘堕落的游民 (Core concept alternative form)",
-            "买下车队成为富甲一方的大老板 (Core concept alternative form)",
-            "中彩票发财买了大房子 (Core concept alternative form)",
-            "考上状元当上高官 (Core concept alternative form)"
+            "从要强勤劳的洋车夫，经历「三起三落」后彻底幻灭沦落为自甘堕落的游民 (standard target expression for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "买下车队成为富甲一方的大老板 (contextual contrast form in Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "中彩票发财买了大房子 (formal register distinction for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "考上状元当上高官 (colloquial conversational usage for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)"
           ],
           "answerIndex": 0,
           "explanation": "祥子的「三起三落」与最终沉沦是《骆驼祥子》对旧社会残酷吞噬劳动者梦想的核心批判。"
@@ -16936,10 +16936,10 @@
         {
           "prompt": "老舍享誉世界的话剧名作《茶馆》在结构上巧妙运用的戏剧形式是：",
           "options": [
-            "三幕剧 (Core concept key phrasing)",
-            "五幕歌剧 (Core concept alternative form)",
-            "单口相声 (Core concept alternative form)",
-            "一幕独角戏 (Core concept alternative form)"
+            "三幕剧 (standard target expression for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "五幕歌剧 (contextual contrast form in Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "单口相声 (formal register distinction for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "一幕独角戏 (colloquial conversational usage for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)"
           ],
           "answerIndex": 0,
           "explanation": "《茶馆》采用经典的三幕剧结构，借老北京裕泰茶馆一家兴衰浓缩半个世纪现代中国沧桑史。"
@@ -16951,10 +16951,10 @@
         {
           "prompt": "老舍因其对现代文学的杰出贡献与对普通大众的深厚关怀，被北京市人民政府授予的崇高荣誉称号是：",
           "options": [
-            "人民艺术家 (Core concept key phrasing)",
-            "京城首富 (Core concept alternative form)",
-            "文学皇帝 (Core concept alternative form)",
-            "曲艺行家 (Core concept alternative form)"
+            "人民艺术家 (standard target expression for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "京城首富 (contextual contrast form in Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "文学皇帝 (formal register distinction for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "曲艺行家 (colloquial conversational usage for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)"
           ],
           "answerIndex": 0,
           "explanation": "1951年，老舍被北京市人民政府授予「人民艺术家」光荣称号。"
@@ -16962,10 +16962,10 @@
         {
           "prompt": "老舍文学作品在语言风格上最鲜明独特的标志性特征是：",
           "options": [
-            "纯正地道的京味语言与含泪的幽默 (Core concept alternative form)",
-            "大量堆砌古代晦涩文言虚词 (Core concept alternative form)",
-            "全篇使用英文单词混杂 (Core concept alternative form)",
-            "完全没有对话的纯风景描写 (Core concept alternative form)"
+            "纯正地道的京味语言与含泪的幽默 (standard target expression for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "大量堆砌古代晦涩文言虚词 (contextual contrast form in Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "全篇使用英文单词混杂 (formal register distinction for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "完全没有对话的纯风景描写 (colloquial conversational usage for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)"
           ],
           "answerIndex": 0,
           "explanation": "京味语言与悲喜交融的幽默是老舍文学独步中国现代文坛的鲜明旗帜。"
@@ -16978,10 +16978,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于老舍文学艺术成就评析最全面、最深刻的一项：",
           "options": [
-            "老舍以精纯纯正的京味口语和悲喜交融的幽默风貌，铸就了现代文学史上独树一帜的市民平民史诗；《骆驼祥子》以祥子的三起三落与彻底沉沦，控诉了吞噬个人奋斗梦想的黑暗旧社会；话剧巨著《茶馆》更以三幕跨越半个世纪的惊人结构，在方寸裕泰茶馆中演尽时代兴亡，堪称「人民艺术家」的不朽丰碑！ (Core concept alternative form)",
-            "老舍就是写北京拉洋车的故事，茶馆就是叫大家去喝茶聊天 (Core concept alternative form)",
-            "骆驼祥子被京味文学在茶馆三幕剧人民艺术家 (Core concept alternative form)",
-            "《茶馆》表达了旧社会茶馆老板最终都发财致富的幸福故事 (Core concept alternative form)"
+            "老舍以精纯纯正的京味口语和悲喜交融的幽默风貌，铸就了现代文学史上独树一帜的市民平民史诗；《骆驼祥子》以祥子的三起三落与彻底沉沦，控诉了吞噬个人奋斗梦想的黑暗旧社会；话剧巨著《茶馆》更以三幕跨越半个世纪的惊人结构，在方寸裕泰茶馆中演尽时代兴亡，堪称「人民艺术家」的不朽丰碑！ (standard target expression for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "老舍就是写北京拉洋车的故事，茶馆就是叫大家去喝茶聊天 (contextual contrast form in Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "骆驼祥子被京味文学在茶馆三幕剧人民艺术家 (formal register distinction for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)",
+            "《茶馆》表达了旧社会茶馆老板最终都发财致富的幸福故事 (colloquial conversational usage for Lao She   Beijing Flavored Literature  Civic Life  Underclass Tragedy   Epic of Common Folk)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将老舍京味语言艺术、《骆驼祥子》平民悲剧与《茶馆》三幕剧史诗结构进行了极其透彻的系统概括。"
@@ -17047,10 +17047,10 @@
         {
           "prompt": "张爱玲在散文《天才梦》中用「生命是一袭华美的袍，爬满了蚤子」这一经典名句所表达的核心美学思想是：",
           "options": [
-            "华美背后的荒凉与残酷 (Core concept alternative form)",
-            "衣服没有洗干净要多洗澡 (Core concept alternative form)",
-            "跳蚤是一种有益的昆虫 (Core concept alternative form)",
-            "买衣服一定要买最贵的旗袍 (Core concept alternative form)"
+            "华美背后的荒凉与残酷 (standard target expression for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "衣服没有洗干净要多洗澡 (contextual contrast form in Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "跳蚤是一种有益的昆虫 (formal register distinction for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "买衣服一定要买最贵的旗袍 (colloquial conversational usage for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)"
           ],
           "answerIndex": 0,
           "explanation": "「华袍与跳蚤」是张爱玲关于繁华表象与生命本真苍凉残酷矛盾的最高哲学隐喻。"
@@ -17058,10 +17058,10 @@
         {
           "prompt": "张爱玲代表作《倾城之恋》中，最终成全了白流苏与范柳原这对原本精明博弈男女真正走到一起的历史事件是：",
           "options": [
-            "香港沦陷 (Core concept alternative form)",
-            "范柳原买彩票中大奖 (Core concept alternative form)",
-            "白流苏考上大学出国留学 (Core concept alternative form)",
-            "两家父母包办婚姻 (Core concept alternative form)"
+            "香港沦陷 (standard target expression for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "范柳原买彩票中大奖 (contextual contrast form in Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "白流苏考上大学出国留学 (formal register distinction for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "两家父母包办婚姻 (colloquial conversational usage for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)"
           ],
           "answerIndex": 0,
           "explanation": "香港的陷落使乱世男女抛弃了世俗利害计较，成全了白流苏与范柳原相濡以沫的传奇爱情。"
@@ -17073,10 +17073,10 @@
         {
           "prompt": "文学评论家夏志清盛赞为「中国从古以来最伟大的中篇小说」、描写曹七巧戴着黄金枷锁人性扭曲悲剧的作品是：",
           "options": [
-            "《金锁记》 (Core concept key phrasing)",
-            "《半生缘》 (Core concept alternative form)",
-            "《色，戒》 (Core concept alternative form)",
-            "《沉香屑·第一炉香》 (Core concept alternative form)"
+            "《金锁记》 (standard target expression for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "《半生缘》 (contextual contrast form in Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "《色，戒》 (formal register distinction for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "《沉香屑·第一炉香》 (colloquial conversational usage for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)"
           ],
           "answerIndex": 0,
           "explanation": "《金锁记》是张爱玲中篇小说的巅峰之作，对曹七巧病态心理的刻画达到了世界级文学水平。"
@@ -17084,10 +17084,10 @@
         {
           "prompt": "张爱玲在小说《红玫瑰与白玫瑰》中用来揭示男性欲望与情感心理矛盾的经典意象对偶是：",
           "options": [
-            "蚊子血与明月光、饭黏子与朱砂痣 (Core concept alternative form)",
-            "苹果与香蕉、西瓜与草莓 (Core concept alternative form)",
-            "金子与银子、铜板与铁块 (Core concept alternative form)",
-            "太阳与月亮、星星与云朵 (Core concept alternative form)"
+            "蚊子血与明月光、饭黏子与朱砂痣 (standard target expression for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "苹果与香蕉、西瓜与草莓 (contextual contrast form in Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "金子与银子、铜板与铁块 (formal register distinction for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "太阳与月亮、星星与云朵 (colloquial conversational usage for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)"
           ],
           "answerIndex": 0,
           "explanation": "「蚊子血/明月光与饭黏子/朱砂痣」是现代文学史上最脍炙人口的男女情感心理隐喻。"
@@ -17100,10 +17100,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列张爱玲文学美学体系评析中立意最高妙、洞察最透彻的一项：",
           "options": [
-            "张爱玲融古典《红楼》笔法与现代心理分析于一炉，以「华袍蚤子」奠定苍凉美学之基；《倾城之恋》借香港陷落打破男女世俗利害博弈，成全乱世传奇；《金锁记》以惊心动魄之笔剖析曹七巧黄金枷锁下扭曲异化的人性深渊；精微通感与冷峻洞察相得益彰，堪称海派现代文学的绝代传奇！ (Core concept alternative form)",
-            "张爱玲就是喜欢写香港和上海男女谈恋爱的小说，文字花里胡哨喜欢写衣服 (Core concept alternative form)",
-            "金锁记被倾城之恋在华袍蚤子苍凉美学 (Core concept alternative form)",
-            "曹七巧是一个充满母爱、把所有家产都无私分给儿女的模范慈母 (Core concept alternative form)"
+            "张爱玲融古典《红楼》笔法与现代心理分析于一炉，以「华袍蚤子」奠定苍凉美学之基；《倾城之恋》借香港陷落打破男女世俗利害博弈，成全乱世传奇；《金锁记》以惊心动魄之笔剖析曹七巧黄金枷锁下扭曲异化的人性深渊；精微通感与冷峻洞察相得益彰，堪称海派现代文学的绝代传奇！ (standard target expression for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "张爱玲就是喜欢写香港和上海男女谈恋爱的小说，文字花里胡哨喜欢写衣服 (contextual contrast form in Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "金锁记被倾城之恋在华袍蚤子苍凉美学 (formal register distinction for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)",
+            "曹七巧是一个充满母爱、把所有家产都无私分给儿女的模范慈母 (colloquial conversational usage for Eileen Chang   Haipai Modernism  Desolation Aesthetics   Urban Legends)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统总结了张爱玲苍凉美学、海派现代主义传奇叙事与心理深渊透视，评析精深独到。"
@@ -17169,10 +17169,10 @@
         {
           "prompt": "沈从文著名中篇小说《边城》中，纯洁善良的主人公翠翠生活在哪个充满田园诗意的湘西边陲小镇？",
           "options": [
-            "茶峒 (Core concept key phrasing)",
-            "北京城 (Core concept alternative form)",
-            "上海滩 (Core concept alternative form)",
-            "香港岛 (Core concept alternative form)"
+            "茶峒 (standard target expression for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "北京城 (contextual contrast form in Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "上海滩 (formal register distinction for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "香港岛 (colloquial conversational usage for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)"
           ],
           "answerIndex": 0,
           "explanation": "《边城》的故事发生在湘西、川东交界的茶峒古镇，是沈从文笔下至纯至美的世外桃源。"
@@ -17180,10 +17180,10 @@
         {
           "prompt": "剧作家曹禺在经典话剧《雷雨》中，遵循的严格将戏剧时间限制在一天之内爆发冲突的西方古典法则被称为：",
           "options": [
-            "三一律 (Core concept key phrasing)",
-            "意识流 (Core concept alternative form)",
-            "魔幻现实主义 (Core concept alternative form)",
-            "荒诞派 (Core concept alternative form)"
+            "三一律 (standard target expression for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "意识流 (contextual contrast form in Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "魔幻现实主义 (formal register distinction for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "荒诞派 (colloquial conversational usage for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)"
           ],
           "answerIndex": 0,
           "explanation": "曹禺在《雷雨》中高度娴熟地运用了古典「三一律」，在一天之内引爆了三十年的沉重恩怨。"
@@ -17195,10 +17195,10 @@
         {
           "prompt": "沈从文在《边城》题记中阐明其写作目的是为了构建何种至高的人生理想形式？",
           "options": [
-            "优美、健康、自然，而又不悖于人性的人生形式 (Core concept alternative form)",
-            "追求金钱名利、飞黄腾达 (Core concept alternative form)",
-            "出人头地做大官 (Core concept alternative form)",
-            "追求绝对虚无消极避世 (Core concept alternative form)"
+            "优美、健康、自然，而又不悖于人性的人生形式 (standard target expression for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "追求金钱名利、飞黄腾达 (contextual contrast form in Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "出人头地做大官 (formal register distinction for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "追求绝对虚无消极避世 (colloquial conversational usage for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)"
           ],
           "answerIndex": 0,
           "explanation": "沈从文在《边城》中倾注毕生心血，旨在为现代人重铸健康、自然、充满人性光辉的生命范式。"
@@ -17206,10 +17206,10 @@
         {
           "prompt": "在现代中国文坛上，以沈从文为代表、崇尚自然恬淡与纯文学审美的文学派别通常被称为：",
           "options": [
-            "京派文学 (Core concept key phrasing)",
-            "海派文学 (Core concept alternative form)",
-            "鸳鸯蝴蝶派 (Core concept alternative form)",
-            "通俗武侠派 (Core concept alternative form)"
+            "京派文学 (standard target expression for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "海派文学 (contextual contrast form in Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "鸳鸯蝴蝶派 (formal register distinction for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "通俗武侠派 (colloquial conversational usage for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)"
           ],
           "answerIndex": 0,
           "explanation": "京派文学以沈从文、朱自清、废名等为代表，强调文学的独立审美价值与乡土纯真情怀。"
@@ -17222,10 +17222,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于沈从文、曹禺与现代文学流派格局评析最深刻、最精准的一项：",
           "options": [
-            "沈从文《边城》以茶峒古镇为圣境，塑造了翠翠至纯至善的灵魂，谱写了「健康自然不悖于人性」的人性美神曲；曹禺《雷雨》以严密的三一律构架与雷雨之夜的毁灭性冲突，展现了命运捉弄的现代心理悲剧；京派之宁静致远与海派之感官异化交织共鸣，共同构建了二十世纪中国文学辉煌多元的艺术图景！ (Core concept alternative form)",
-            "边城就是划船的故事，雷雨就是下大雨的故事，现代文学没有什么值得研究的 (Core concept alternative form)",
-            "雷雨被茶峒在三一律京派海派边城 (Core concept alternative form)",
-            "《雷雨》表达了周公馆一家人和睦相处、没有任何矛盾的快乐生活 (Core concept alternative form)"
+            "沈从文《边城》以茶峒古镇为圣境，塑造了翠翠至纯至善的灵魂，谱写了「健康自然不悖于人性」的人性美神曲；曹禺《雷雨》以严密的三一律构架与雷雨之夜的毁灭性冲突，展现了命运捉弄的现代心理悲剧；京派之宁静致远与海派之感官异化交织共鸣，共同构建了二十世纪中国文学辉煌多元的艺术图景！ (standard target expression for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "边城就是划船的故事，雷雨就是下大雨的故事，现代文学没有什么值得研究的 (contextual contrast form in Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "雷雨被茶峒在三一律京派海派边城 (formal register distinction for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)",
+            "《雷雨》表达了周公馆一家人和睦相处、没有任何矛盾的快乐生活 (colloquial conversational usage for Shen Congwen s Border Town  Cao Yu s Thunderstorm   20th Century Literary Landscape)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将沈从文边城诗意、曹禺雷雨古典戏剧结构与京派海派流派思潮进行了系统严密的整合评析。"
@@ -17291,10 +17291,10 @@
         {
           "prompt": "在二十世纪中国现代文学全景图谱中，分别对应「国民性启蒙批判 -> 京味平民市民悲悯 -> 海派都市苍凉心理 -> 湘西抒情田园牧歌 -> 现代话剧命运悲剧」的五位文学巨擘依次是：",
           "options": [
-            "鲁迅、老舍、张爱玲、沈从文、曹禺 (Core concept key phrasing)",
-            "李白、杜甫、白居易、苏轼、辛弃疾 (Core concept alternative form)",
-            "孔子、孟子、老子、庄子、韩非子 (Core concept alternative form)",
-            "关汉卿、王实甫、汤显祖、孔尚任、洪昇 (Core concept alternative form)"
+            "鲁迅、老舍、张爱玲、沈从文、曹禺 (standard target expression for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "李白、杜甫、白居易、苏轼、辛弃疾 (contextual contrast form in Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "孔子、孟子、老子、庄子、韩非子 (formal register distinction for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "关汉卿、王实甫、汤显祖、孔尚任、洪昇 (colloquial conversational usage for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "鲁迅、老舍、张爱玲、沈从文、曹禺这五位文学大师共同构筑了中国现代文学多维立体的精神峰巅。"
@@ -17302,10 +17302,10 @@
         {
           "prompt": "用来形容中华民族与中国文学在近现代百年磨难抗争中历经痛苦洗礼、最终焕发崭新文明生机的著名成语是：",
           "options": [
-            "凤凰涅槃 (Core concept key phrasing)",
-            "坐井观天 (Core concept alternative form)",
-            "墨守成规 (Core concept alternative form)",
-            "固步自封 (Core concept alternative form)"
+            "凤凰涅槃 (standard target expression for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "坐井观天 (contextual contrast form in Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "墨守成规 (formal register distinction for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "固步自封 (colloquial conversational usage for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「凤凰涅槃」生动象征了中华民族与文学在二十世纪苦难中重获新生、走向现代文明的伟大历程。"
@@ -17317,10 +17317,10 @@
         {
           "prompt": "请选出下列关于二十世纪中国文学精神脉络综述中格局最宏大、辞采最雅正的一项：",
           "options": [
-            "百年求索铸就民族文脉：鲁迅以铁屋呐喊与阿Q批判唤醒国民灵魂，老舍以京味茶馆与祥子沉沦倾注平民悲悯，张爱玲以华袍蚤子洞悉苍凉传奇，沈从文边城诗意与曹禺雷雨交响辉映。现代文学以卓越的汉语辞章与深邃的人文反思，绘就了走向现代文明的心灵史诗！ (Core concept alternative form)",
-            "二十世纪中国有很多作家写了很多书，大家喜欢看小说和话剧 (Core concept alternative form)",
-            "狂人日记被骆驼祥子倾城之恋在边城雷雨凤凰涅槃 (Core concept alternative form)",
-            "现代文学全部都是毫无价值的消极描写没有任何思想 (Core concept alternative form)"
+            "百年求索铸就民族文脉：鲁迅以铁屋呐喊与阿Q批判唤醒国民灵魂，老舍以京味茶馆与祥子沉沦倾注平民悲悯，张爱玲以华袍蚤子洞悉苍凉传奇，沈从文边城诗意与曹禺雷雨交响辉映。现代文学以卓越的汉语辞章与深邃的人文反思，绘就了走向现代文明的心灵史诗！ (standard target expression for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "二十世纪中国有很多作家写了很多书，大家喜欢看小说和话剧 (contextual contrast form in Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "狂人日记被骆驼祥子倾城之恋在边城雷雨凤凰涅槃 (formal register distinction for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "现代文学全部都是毫无价值的消极描写没有任何思想 (colloquial conversational usage for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项将五大文学巨匠的思想精髓、审美向度与百年民族精神演进融为一体，堪称现代文学综述的极品范文。"
@@ -17328,10 +17328,10 @@
         {
           "prompt": "在中国现代文学评论中，用来形容一部作品思想深邃、对社会和人心具有极其强烈震动与警醒作用的成语是：",
           "options": [
-            "振聋发聩 (Core concept key phrasing)",
-            "不痛不痒 (Core concept alternative form)",
-            "无关紧要 (Core concept alternative form)",
-            "人云亦云 (Core concept alternative form)"
+            "振聋发聩 (standard target expression for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "不痛不痒 (contextual contrast form in Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "无关紧要 (formal register distinction for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "人云亦云 (colloquial conversational usage for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "「振聋发聩」常用来赞誉鲁迅等现代启蒙思想家具有强烈批判力量与觉醒意义的经典巨著。"
@@ -17344,10 +17344,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列二十世纪中国现代文学与精神图谱综合语篇中立论最高远、概括最精深、论证最完备的一项：",
           "options": [
-            "百年求索，文脉觉醒。二十世纪中国现代文学汇聚群星闪耀之光华：鲁迅以《狂人日记》与《阿Q正传》痛击吃人礼教与国民劣根性，挺立民族精神脊梁；老舍以纯正京味口语赋形《骆驼祥子》与《茶馆》，铸就深厚平民史诗；张爱玲冷眼洞穿繁华以苍凉美学开创海派传奇；沈从文以《边城》筑就健康自然之人性神庙；曹禺以《雷雨》演绎现代命运悲剧之化境。现代文学大师们以崇高的人文担当与精妙汉语辞章，共同绘制了中华民族走向现代文明的伟大心灵图谱！ (Core concept alternative form)",
-            "现代文学就是几个作家写的故事，现在大家都看手机不看书了 (Core concept alternative form)",
-            "百年求索被阿Q精神胜利法在茶馆倾城之恋边城雷雨 (Core concept alternative form)",
-            "老舍张爱玲沈从文全都是写古代文言文的作家 (Core concept alternative form)"
+            "百年求索，文脉觉醒。二十世纪中国现代文学汇聚群星闪耀之光华：鲁迅以《狂人日记》与《阿Q正传》痛击吃人礼教与国民劣根性，挺立民族精神脊梁；老舍以纯正京味口语赋形《骆驼祥子》与《茶馆》，铸就深厚平民史诗；张爱玲冷眼洞穿繁华以苍凉美学开创海派传奇；沈从文以《边城》筑就健康自然之人性神庙；曹禺以《雷雨》演绎现代命运悲剧之化境。现代文学大师们以崇高的人文担当与精妙汉语辞章，共同绘制了中华民族走向现代文明的伟大心灵图谱！ (standard target expression for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "现代文学就是几个作家写的故事，现在大家都看手机不看书了 (contextual contrast form in Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "百年求索被阿Q精神胜利法在茶馆倾城之恋边城雷雨 (formal register distinction for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)",
+            "老舍张爱玲沈从文全都是写古代文言文的作家 (colloquial conversational usage for Comprehensive 20th Century Chinese Literature   Modern Mind Narrative)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇系统融会贯通鲁迅、老舍、张爱玲、沈从文与曹禺的核心创作与精神品格，气势雄浑，文质兼美，是二十世纪中国文学论述的最高范本。"
@@ -17411,10 +17411,10 @@
         {
           "prompt": "在撰写学术论文引言与文献综述时，用来指出前人研究不足、引出本研究必要性的标准学术表达是：",
           "options": [
-            "综观既有研究，学者们多关注……，然而鲜有文献探讨…… (IMRADH1H2 U29)",
-            "以前的研究全都是错的只有我是对的 (IMRADH1H2 U29)",
-            "大家随便写写，我也跟着随便写写 (IMRADH1H2 U29)",
-            "谁也不知道以前的人写了什么 (IMRADH1H2 U29)"
+            "综观既有研究，学者们多关注……，然而鲜有文献探讨…… (standard target expression for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "以前的研究全都是错的只有我是对的 (contextual contrast form in Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "大家随便写写，我也跟着随便写写 (formal register distinction for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "谁也不知道以前的人写了什么 (colloquial conversational usage for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项是学术界最严谨、最客观的文献综述与识别研究空白（Research Gap）的标准范式。"
@@ -17422,10 +17422,10 @@
         {
           "prompt": "学术论文中用来表示两个核心研究变量之间存在统计学上确切正向联系的标准学术术语是：",
           "options": [
-            "呈显著正相关 (IMRADH1H2 U29)",
-            "关系好像还行 (IMRADH1H2 U29)",
-            "大概差不多有一点关系 (IMRADH1H2 U29)",
-            "反正挺好的 (IMRADH1H2 U29)"
+            "呈显著正相关 (standard target expression for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "关系好像还行 (contextual contrast form in Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "大概差不多有一点关系 (formal register distinction for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "反正挺好的 (colloquial conversational usage for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)"
           ],
           "answerIndex": 0,
           "explanation": "「呈显著正/负相关」是定量实证研究中描述变量关联的标准统计学规范表述。"
@@ -17437,10 +17437,10 @@
         {
           "prompt": "学术论文在正式开展实证测量前，将抽象理论概念转化为可具体观察测量的变量指标的过程被称为：",
           "options": [
-            "操作化定义 (IMRADH1H2 U29)",
-            "胡思乱想 (IMRADH1H2 U29)",
-            "望文生义 (IMRADH1H2 U29)",
-            "断章取义 (IMRADH1H2 U29)"
+            "操作化定义 (standard target expression for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "胡思乱想 (contextual contrast form in Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "望文生义 (formal register distinction for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "断章取义 (colloquial conversational usage for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)"
           ],
           "answerIndex": 0,
           "explanation": "「操作化定义」是将抽象构念转化为具体可测量的变量维度的关键学术步骤。"
@@ -17448,10 +17448,10 @@
         {
           "prompt": "学术论文中用于连接上下文、表达「鉴于前述理论分析而提出针对性研究构想」的高阶书面衔接词是：",
           "options": [
-            "有鉴于此 (IMRADH1H2 U29)",
-            "话说回来 (IMRADH1H2 U29)",
-            "不管三七二十一 (IMRADH1H2 U29)",
-            "总而言之言而总之 (IMRADH1H2 U29)"
+            "有鉴于此 (standard target expression for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "话说回来 (contextual contrast form in Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "不管三七二十一 (formal register distinction for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "总而言之言而总之 (colloquial conversational usage for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)"
           ],
           "answerIndex": 0,
           "explanation": "「有鉴于此」是极具学术权威感与逻辑承转力的高级书面语关联词。"
@@ -17464,10 +17464,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列学术论文引言与假说推导语段中语体最规范、逻辑最严密的一项：",
           "options": [
-            "综观既有文献，学界关于数字化转型的探讨多集中于宏观经济效应，鲜有研究深入微观企业组织层面剖析其内在作用机制。有鉴于此，本文立足动态能力理论，构建了多维整合分析框架。基于严密的理论推演，本文提出核心假设：企业数字化转型程度与创新绩效呈显著正相关，且组织敏捷度在其中发挥显著中介效应！ (IMRADH1H2 U29)",
-            "大家都在说数字化转型，我也觉得挺重要的，所以我就写了这篇文章来看看能不能赚钱 (IMRADH1H2 U29)",
-            "数字化转型被呈显著正相关在有鉴于此中介效应 (IMRADH1H2 U29)",
-            "由于数字化转型非常好，所以所有企业都不需要做任何研究直接成功 (IMRADH1H2 U29)"
+            "综观既有文献，学界关于数字化转型的探讨多集中于宏观经济效应，鲜有研究深入微观企业组织层面剖析其内在作用机制。有鉴于此，本文立足动态能力理论，构建了多维整合分析框架。基于严密的理论推演，本文提出核心假设：企业数字化转型程度与创新绩效呈显著正相关，且组织敏捷度在其中发挥显著中介效应！ (standard target expression for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "大家都在说数字化转型，我也觉得挺重要的，所以我就写了这篇文章来看看能不能赚钱 (contextual contrast form in Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "数字化转型被呈显著正相关在有鉴于此中介效应 (formal register distinction for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)",
+            "由于数字化转型非常好，所以所有企业都不需要做任何研究直接成功 (colloquial conversational usage for Academic Paper Structure  Intro  Literature Review  Problem Formulation   Hypotheses)"
           ],
           "answerIndex": 0,
           "explanation": "该语段完整展现了现代学术论文引言综述、问题提出、理论依托与假说构建的标准语体，词严义正。"
@@ -17531,10 +17531,10 @@
         {
           "prompt": "在实证研究设计中，结合定量数据与定性质性资料相互印证以提高结论稳健性的方法论被称为：",
           "options": [
-            "混合研究方法 / 三角互证 (Core concept alternative form)",
-            "捕风捉影 (Core concept alternative form)",
-            "闭门造车 (Core concept alternative form)",
-            "自相矛盾 (Core concept alternative form)"
+            "混合研究方法 / 三角互证 (standard target expression for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "捕风捉影 (contextual contrast form in Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "闭门造车 (formal register distinction for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "自相矛盾 (colloquial conversational usage for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)"
           ],
           "answerIndex": 0,
           "explanation": "「三角互证」（Triangulation）指运用多种数据源与研究方法相互校验，提升实证研究效度。"
@@ -17542,10 +17542,10 @@
         {
           "prompt": "在扎根理论质性研究中，当新收集的访谈数据不再能提炼出新的理论概念与范畴时，表明研究达到了：",
           "options": [
-            "理论饱和度 (Core concept key phrasing)",
-            "文字通胀 (Core concept alternative form)",
-            "篇幅超标 (Core concept alternative form)",
-            "作者疲劳 (Core concept alternative form)"
+            "理论饱和度 (standard target expression for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "文字通胀 (contextual contrast form in Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "篇幅超标 (formal register distinction for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "作者疲劳 (colloquial conversational usage for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)"
           ],
           "answerIndex": 0,
           "explanation": "「理论饱和度」是质性扎根理论抽样停止与范畴提炼完成的核心学术标准。"
@@ -17557,10 +17557,10 @@
         {
           "prompt": "在调查问卷设计中，衡量量表测量结果内部一致性与稳定性的常用统计学指标是：",
           "options": [
-            "信度检验 (Core concept alternative form)",
-            "字数统计 (Core concept alternative form)",
-            "字体大小 (Core concept alternative form)",
-            "排版行距 (Core concept alternative form)"
+            "信度检验 (standard target expression for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "字数统计 (contextual contrast form in Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "字体大小 (formal register distinction for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "排版行距 (colloquial conversational usage for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)"
           ],
           "answerIndex": 0,
           "explanation": "信度（Reliability）反映测量的稳定性与一致性，通常以Cronbach's α系数衡量。"
@@ -17568,10 +17568,10 @@
         {
           "prompt": "在因果推断模型中，用来消除潜在混淆变量干扰、确保研究对象在各组间具有可比性的变量类型是：",
           "options": [
-            "控制变量 (Core concept key phrasing)",
-            "干扰杂音 (Core concept alternative form)",
-            "无关赘词 (Core concept alternative form)",
-            "无效样本 (Core concept alternative form)"
+            "控制变量 (standard target expression for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "干扰杂音 (contextual contrast form in Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "无关赘词 (formal register distinction for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "无效样本 (colloquial conversational usage for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)"
           ],
           "answerIndex": 0,
           "explanation": "控制变量（Control variables）用于控制其他可能影响因变量的因素，确保因果估计的无偏性。"
@@ -17584,10 +17584,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列实证研究方法论阐述中术语最准确、方法流程最规范的一项：",
           "options": [
-            "本研究遵循严密的科学实证范式：首先采用分层随机抽样获取大样本问卷数据，利用成熟李克特量表进行变量操作化；通过信度 (Core concept alternative form)",
-            "我们做研究就是随便找几个人聊聊天，然后自己编造几个数字写成论文 (Core concept alternative form)",
-            "扎根理论被信度效度在自变量因变量三角互证 (Core concept alternative form)",
-            "只要样本数量大，就完全不需要做任何信度和效度检验 (Core concept alternative form)"
+            "本研究遵循严密的科学实证范式：首先采用分层随机抽样获取大样本问卷数据，利用成熟李克特量表进行变量操作化；通过信度 (standard target expression for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "我们做研究就是随便找几个人聊聊天，然后自己编造几个数字写成论文 (contextual contrast form in Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "扎根理论被信度效度在自变量因变量三角互证 (formal register distinction for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)",
+            "只要样本数量大，就完全不需要做任何信度和效度检验 (colloquial conversational usage for Empirical Methodology  Qualitative Quantitative Methods  Operationalization   Sampling)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将定量测量信效度检验、抽样控制与质性扎根理论三角互证融会贯通，展现了极高的实证研究素养。"
@@ -17651,10 +17651,10 @@
         {
           "prompt": "在人工智能大语言模型领域，用来形容当模型参数量达到一定规模后突然展现出复杂推理与高级智能的术语是：",
           "options": [
-            "能力涌现 / 涌现特征 (Core concept alternative form)",
-            "死机重启 (Core concept alternative form)",
-            "偶然巧合 (Core concept alternative form)",
-            "系统卡顿 (Core concept alternative form)"
+            "能力涌现 / 涌现特征 (standard target expression for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "死机重启 (contextual contrast form in Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "偶然巧合 (formal register distinction for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "系统卡顿 (colloquial conversational usage for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)"
           ],
           "answerIndex": 0,
           "explanation": "「能力涌现」（Emergence）指复杂AI大模型在参数规模突破临界值后涌现出的高级认知与推理能力。"
@@ -17662,10 +17662,10 @@
         {
           "prompt": "量子计算机在特定复杂计算任务上展现出远超最强大传统经典超级计算机能力的里程碑被称为：",
           "options": [
-            "量子优越性 / 量子霸权 (Core concept alternative form)",
-            "经典计算极限 (Core concept alternative form)",
-            "二进制升级 (Core concept alternative form)",
-            "机械算盘进化 (Core concept alternative form)"
+            "量子优越性 / 量子霸权 (standard target expression for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "经典计算极限 (contextual contrast form in Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "二进制升级 (formal register distinction for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "机械算盘进化 (colloquial conversational usage for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)"
           ],
           "answerIndex": 0,
           "explanation": "「量子优越性」（Quantum Supremacy）是量子计算发展史上的关键分水岭，证明量子算力实现质的飞跃。"
@@ -17677,10 +17677,10 @@
         {
           "prompt": "CRISPR-Cas9技术在现代生命科学与合成生物学中最核心的应用功能是：",
           "options": [
-            "高精度定向基因编辑 (Core concept alternative form)",
-            "拍照滤镜美化 (Core concept alternative form)",
-            "普通血液化验 (Core concept alternative form)",
-            "测量人体身高 (Core concept alternative form)"
+            "高精度定向基因编辑 (standard target expression for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "拍照滤镜美化 (contextual contrast form in Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "普通血液化验 (formal register distinction for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "测量人体身高 (colloquial conversational usage for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)"
           ],
           "answerIndex": 0,
           "explanation": "CRISPR-Cas9被誉为「基因魔剪」，是现代合成生物学与精准医疗的核心基因编辑工具。"
@@ -17688,10 +17688,10 @@
         {
           "prompt": "形容一项新兴技术具备彻底打破旧有技术路线、引发产业和学术范式根本性变革的学术词汇是：",
           "options": [
-            "颠覆性技术 (Core concept key phrasing)",
-            "微不足道的技术 (Core concept alternative form)",
-            "换汤不换药的技术 (Core concept alternative form)",
-            "无关紧要的发明 (Core concept alternative form)"
+            "颠覆性技术 (standard target expression for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "微不足道的技术 (contextual contrast form in Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "换汤不换药的技术 (formal register distinction for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "无关紧要的发明 (colloquial conversational usage for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)"
           ],
           "answerIndex": 0,
           "explanation": "「颠覆性技术」（Disruptive Technology）指能够对已有产业、商业模式及科学范式产生替代重塑效应的前沿创新。"
@@ -17704,10 +17704,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列前沿科技论述中概念最前瞻、逻辑最严密的一项：",
           "options": [
-            "当今前沿科技呈现多点爆发的聚变效应：超大规模多模态模型以「能力涌现」驱动通用人工智能走向现实；超导量子计算以纠缠与叠加突破算力极限，确立「量子优越性」；合成生物学以CRISPR基因编辑与蛋白质AI预测重塑生命底层逻辑。跨学科颠覆性技术的深度聚合，正在重塑人类未来的文明形态！ (Core concept alternative form)",
-            "人工智能就是手机发短信，量子计算就是算盘打得快，合成生物就是种地 (Core concept alternative form)",
-            "量子优越性被大模型能力涌现在CRISPR颠覆性技术 (Core concept alternative form)",
-            "科学研究已经发展到尽头，未来不可能再有任何颠覆性技术突破 (Core concept alternative form)"
+            "当今前沿科技呈现多点爆发的聚变效应：超大规模多模态模型以「能力涌现」驱动通用人工智能走向现实；超导量子计算以纠缠与叠加突破算力极限，确立「量子优越性」；合成生物学以CRISPR基因编辑与蛋白质AI预测重塑生命底层逻辑。跨学科颠覆性技术的深度聚合，正在重塑人类未来的文明形态！ (standard target expression for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "人工智能就是手机发短信，量子计算就是算盘打得快，合成生物就是种地 (contextual contrast form in Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "量子优越性被大模型能力涌现在CRISPR颠覆性技术 (formal register distinction for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)",
+            "科学研究已经发展到尽头，未来不可能再有任何颠覆性技术突破 (colloquial conversational usage for Cutting Edge Tech  AI Large Models  Quantum Computing   Synthetic Biology)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统整合了人工智能大模型、量子计算与合成生物学三大前沿高地，语言高屋建瓴，科技前瞻力极强。"
@@ -17771,10 +17771,10 @@
         {
           "prompt": "在对学术期刊审稿意见进行回复时，针对审稿人关于模型「内生性」（Endogeneity）的质疑，最专业标准的实证处理方法是：",
           "options": [
-            "引入外生工具变量法 (RRI U29)",
-            "直接发邮件把审稿人痛骂一顿 (RRI U29)",
-            "把论文里的图表全部删掉 (RRI U29)",
-            "假装没看到审稿人的意见 (RRI U29)"
+            "引入外生工具变量法 (standard target expression for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "直接发邮件把审稿人痛骂一顿 (contextual contrast form in Academic Debate  Peer Review   Techno Ethics Governance)",
+            "把论文里的图表全部删掉 (formal register distinction for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "假装没看到审稿人的意见 (colloquial conversational usage for Academic Debate  Peer Review   Techno Ethics Governance)"
           ],
           "answerIndex": 0,
           "explanation": "引入工具变量（IV）、双重差分（DID）及安慰剂检验是解决内生性偏误、回应同行评审的标准规范方案。"
@@ -17782,10 +17782,10 @@
         {
           "prompt": "在涉及人体受试者或个人敏感数据的科学研究中，必须首先严格履行的基本伦理审查原则是：",
           "options": [
-            "知情同意原则 (RRI U29)",
-            "强迫命令原则 (RRI U29)",
-            "隐瞒欺骗原则 (RRI U29)",
-            "先斩后奏原则 (RRI U29)"
+            "知情同意原则 (standard target expression for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "强迫命令原则 (contextual contrast form in Academic Debate  Peer Review   Techno Ethics Governance)",
+            "隐瞒欺骗原则 (formal register distinction for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "先斩后奏原则 (colloquial conversational usage for Academic Debate  Peer Review   Techno Ethics Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「知情同意原则」（Informed Consent）是国际学术界与生物医学研究最神圣不可侵犯的伦理底线。"
@@ -17797,10 +17797,10 @@
         {
           "prompt": "形容在科技创新过程中如果缺乏伦理防线，会导致道德底线逐步退让最终酿成不可挽回灾难的学术概念是：",
           "options": [
-            "伦理滑坡 (RRI U29)",
-            "水涨船高 (RRI U29)",
-            "平步青云 (RRI U29)",
-            "按部就班 (RRI U29)"
+            "伦理滑坡 (standard target expression for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "水涨船高 (contextual contrast form in Academic Debate  Peer Review   Techno Ethics Governance)",
+            "平步青云 (formal register distinction for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "按部就班 (colloquial conversational usage for Academic Debate  Peer Review   Techno Ethics Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「伦理滑坡」（Slippery Slope）常用于警示在基因编辑、AI武器等前沿领域严防道德失控。"
@@ -17808,10 +17808,10 @@
         {
           "prompt": "国际科技界倡导在技术研发全流程中主动嵌入伦理反思、确保技术造福人类社会的先进治理理念是：",
           "options": [
-            "负责任的研究与创新 / 科技向善 (RRI U29)",
-            "技术至上唯利是图 (RRI U29)",
-            "盲目冒进不管后果 (RRI U29)",
-            "完全禁止一切科技研发 (RRI U29)"
+            "负责任的研究与创新 / 科技向善 (standard target expression for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "技术至上唯利是图 (contextual contrast form in Academic Debate  Peer Review   Techno Ethics Governance)",
+            "盲目冒进不管后果 (formal register distinction for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "完全禁止一切科技研发 (colloquial conversational usage for Academic Debate  Peer Review   Techno Ethics Governance)"
           ],
           "answerIndex": 0,
           "explanation": "「负责任的研究与创新」（RRI）与「科技向善」代表了当代科技与人类伦理相融通的最高治理范式。"
@@ -17824,10 +17824,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于学术同行评审与科技伦理治理述评最深刻、最严谨的一项：",
           "options": [
-            "学术争鸣与科技伦理是科学健康发展的双轨保障：同行评审以严格的内生性排查与稳健性检验捍卫学术真实性；科技伦理规制则以知情同意与算法透明为底线，严密防范伦理滑坡。推行「负责任的研究与创新 (RRI U29)",
-            "审稿就是找茬挑刺，伦理审查就是阻碍科学家发财的繁文缛节 (RRI U29)",
-            "负责任创新被知情同意在内生性同行评审伦理滑坡 (RRI U29)",
-            "只要能做出颠覆性科技成果，就可以无视任何法律与人类道德底线 (RRI U29)"
+            "学术争鸣与科技伦理是科学健康发展的双轨保障：同行评审以严格的内生性排查与稳健性检验捍卫学术真实性；科技伦理规制则以知情同意与算法透明为底线，严密防范伦理滑坡。推行「负责任的研究与创新 (standard target expression for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "审稿就是找茬挑刺，伦理审查就是阻碍科学家发财的繁文缛节 (contextual contrast form in Academic Debate  Peer Review   Techno Ethics Governance)",
+            "负责任创新被知情同意在内生性同行评审伦理滑坡 (formal register distinction for Academic Debate  Peer Review   Techno Ethics Governance)",
+            "只要能做出颠覆性科技成果，就可以无视任何法律与人类道德底线 (colloquial conversational usage for Academic Debate  Peer Review   Techno Ethics Governance)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统总结了同行评审的实证严谨性与科技伦理审查的不可逾越性，思想深刻，论据充实。"
@@ -17891,10 +17891,10 @@
         {
           "prompt": "在现代科学研究与学术话语综合体系中，用来概括科学理论体系发生根本性、革命性演进与认知飞跃的核心概念是：",
           "options": [
-            "范式跃迁 / 范式转移 (AI alternative form)",
-            "原地踏步 (AI alternative form)",
-            "微小改动 (AI alternative form)",
-            "换汤不换药 (AI alternative form)"
+            "范式跃迁 / 范式转移 (standard target expression for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "原地踏步 (contextual contrast form in Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "微小改动 (formal register distinction for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "换汤不换药 (colloquial conversational usage for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)"
           ],
           "answerIndex": 0,
           "explanation": "科学哲学家托马斯·库恩提出的「范式转移/范式跃迁」（Paradigm Shift）用来描述科学革命与认知范式的根本变革。"
@@ -17902,10 +17902,10 @@
         {
           "prompt": "在开展前沿科技创新时，将「追求科学真理」与「增进人类整体共同福祉」相统一的核心指导思想是：",
           "options": [
-            "科技向善与负责任创新 (AI key phrasing)",
-            "技术至上不管不顾 (AI alternative form)",
-            "唯利是图金钱第一 (AI alternative form)",
-            "盲目自大忽视风险 (AI alternative form)"
+            "科技向善与负责任创新 (standard target expression for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "技术至上不管不顾 (contextual contrast form in Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "唯利是图金钱第一 (formal register distinction for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "盲目自大忽视风险 (colloquial conversational usage for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)"
           ],
           "answerIndex": 0,
           "explanation": "「科技向善与负责任创新」是当代国际科学界关于科学技术造福人类、守护生命尊严的至高价值观。"
@@ -17917,10 +17917,10 @@
         {
           "prompt": "请选出下列科学精神与学术话语综合论述中立论最高远、概括最精辟的一项：",
           "options": [
-            "范式跃迁驱动文明演进：学术探索以逻辑假说与实证三角互证筑牢理性根基，前沿科技以AI涌现、量子优越与合成生命重塑认知边界，科技伦理以知情同意与负责任创新守护人类底线。科学理性与人文情怀交相辉映，共同引领人类走向光明未来！ (AI alternative form)",
-            "科学技术就是很厉害的机器，科学家每天在实验室里做做实验 (AI alternative form)",
-            "范式跃迁被科技向善在三角互证量子优越性 (AI alternative form)",
-            "只要有了强大的人工智能，人类就不再需要任何道德和伦理审查 (AI alternative form)"
+            "范式跃迁驱动文明演进：学术探索以逻辑假说与实证三角互证筑牢理性根基，前沿科技以AI涌现、量子优越与合成生命重塑认知边界，科技伦理以知情同意与负责任创新守护人类底线。科学理性与人文情怀交相辉映，共同引领人类走向光明未来！ (standard target expression for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "科学技术就是很厉害的机器，科学家每天在实验室里做做实验 (contextual contrast form in Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "范式跃迁被科技向善在三角互证量子优越性 (formal register distinction for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "只要有了强大的人工智能，人类就不再需要任何道德和伦理审查 (colloquial conversational usage for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项将学术规范、实证方法、前沿科技与伦理规制四大支柱熔铸一体，展现了崇高博大的学术境界。"
@@ -17928,10 +17928,10 @@
         {
           "prompt": "形容科学研究必须以客观事实为依据、不迷信权威、勇于探索追求真实本质的崇高精神品格是：",
           "options": [
-            "求真务实 (AI key phrasing)",
-            "弄虚作假 (AI alternative form)",
-            "好高骛远 (AI alternative form)",
-            "投机取巧 (AI alternative form)"
+            "求真务实 (standard target expression for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "弄虚作假 (contextual contrast form in Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "好高骛远 (formal register distinction for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "投机取巧 (colloquial conversational usage for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)"
           ],
           "answerIndex": 0,
           "explanation": "「求真务实」是科学精神的核心基石，要求科学家一切以客观事实与实证数据为依据。"
@@ -17944,10 +17944,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列科学范式跃迁、前沿科技探索与学术话语综合语篇中格局最宏大、论述最透彻、语体最雅正的一项：",
           "options": [
-            "范式跃迁，求索无疆。现代科学探索展现出逻辑与理性的崇高力量：学术话语以文献综述识别空白、以可证伪假说引领方向；实证方法以大样本统计与扎根编码实现三角互证；AI大模型涌现、超导量子优越与合成基因重构驱动科技革命全面爆发；科技伦理更以知情同意与负责任创新筑牢生命安全屏障。求真务实的科学理性与博大深沉的人文关怀交相辉映，必将指引人类开创科技与文明和谐共生的辉煌未来！ (AI alternative form)",
-            "科技发展很快，我们要多写论文多发表，争取早点评上教授拿到科研经费 (AI alternative form)",
-            "科学探索被算法透明在范式跃迁合成生物量子优越性 (AI alternative form)",
-            "实证研究完全是浪费时间，科学发现全靠主观拍脑袋想象 (AI alternative form)"
+            "范式跃迁，求索无疆。现代科学探索展现出逻辑与理性的崇高力量：学术话语以文献综述识别空白、以可证伪假说引领方向；实证方法以大样本统计与扎根编码实现三角互证；AI大模型涌现、超导量子优越与合成基因重构驱动科技革命全面爆发；科技伦理更以知情同意与负责任创新筑牢生命安全屏障。求真务实的科学理性与博大深沉的人文关怀交相辉映，必将指引人类开创科技与文明和谐共生的辉煌未来！ (standard target expression for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "科技发展很快，我们要多写论文多发表，争取早点评上教授拿到科研经费 (contextual contrast form in Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "科学探索被算法透明在范式跃迁合成生物量子优越性 (formal register distinction for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)",
+            "实证研究完全是浪费时间，科学发现全靠主观拍脑袋想象 (colloquial conversational usage for Comprehensive Science   Academic Discourse  Paradigm Shift   Human Future)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇系统融通学术论文逻辑、实证科学方法、前沿颠覆性技术与科技向善伦理治理，思想深邃，气象恢宏，是现代科技与学术汉语的巅峰范本。"
@@ -18011,10 +18011,10 @@
         {
           "prompt": "荣获第46届戛纳国际电影节最高奖「金棕榈奖」、被公认为华语史诗电影巅峰之作的陈凯歌导演作品是：",
           "options": [
-            "《霸王别姬》 (Core concept key phrasing)",
-            "《小时代》 (Core concept alternative form)",
-            "《大话西游》 (Core concept alternative form)",
-            "《泰囧》 (Core concept alternative form)"
+            "《霸王别姬》 (standard target expression for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "《小时代》 (contextual contrast form in Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "《大话西游》 (formal register distinction for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "《泰囧》 (colloquial conversational usage for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)"
           ],
           "answerIndex": 0,
           "explanation": "《霸王别姬》由陈凯歌执导，张国荣、张丰毅、巩俐主演，是迄今唯一荣获戛纳金棕榈大奖的华语电影。"
@@ -18022,10 +18022,10 @@
         {
           "prompt": "中国「第五代导演」在视觉造型上最标志性的美学探索特征是：",
           "options": [
-            "高饱和度原色造型、压抑性对称空间构图与民俗奇观反思 (Core concept alternative form)",
-            "只用黑白模糊画面拍家庭吵架 (Core concept alternative form)",
-            "完全模仿低成本肥皂剧室内对话 (Core concept alternative form)",
-            "全程只用文字不拍任何画面 (Core concept alternative form)"
+            "高饱和度原色造型、压抑性对称空间构图与民俗奇观反思 (standard target expression for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "只用黑白模糊画面拍家庭吵架 (contextual contrast form in Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "完全模仿低成本肥皂剧室内对话 (formal register distinction for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "全程只用文字不拍任何画面 (colloquial conversational usage for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)"
           ],
           "answerIndex": 0,
           "explanation": "色彩造型（浓烈红/黄）、对称压抑空间与民俗反思是第五代导演震撼世界影坛的核心美学标志。"
@@ -18037,10 +18037,10 @@
         {
           "prompt": "在《大红灯笼高高挂》中，张艺谋用来象征封建宗法礼教森严与女性被困窒息命运的视觉构图手段是：",
           "options": [
-            "极端严整对称的封闭式四合院深宅构图 (Core concept alternative form)",
-            "手持晃动镜头拍大街 (Core concept alternative form)",
-            "彩色动漫特效 (Core concept alternative form)",
-            "一镜到底长镜头拍风景 (Core concept alternative form)"
+            "极端严整对称的封闭式四合院深宅构图 (standard target expression for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "手持晃动镜头拍大街 (contextual contrast form in Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "彩色动漫特效 (formal register distinction for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "一镜到底长镜头拍风景 (colloquial conversational usage for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)"
           ],
           "answerIndex": 0,
           "explanation": "张艺谋通过严整对称的封闭式深宅大院构图，以几何冰冷的建筑结构具象化封建礼教的压迫窒息。"
@@ -18048,10 +18048,10 @@
         {
           "prompt": "电影《霸王别姬》中程蝶衣一生人戏不分、执着于京剧艺术最高境界的经典台词是：",
           "options": [
-            "不疯魔不成活 (Core concept key phrasing)",
-            "随随便便差不多就行 (Core concept alternative form)",
-            "演戏就是为了下班吃饭 (Core concept alternative form)",
-            "无所谓无所不能 (Core concept alternative form)"
+            "不疯魔不成活 (standard target expression for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "随随便便差不多就行 (contextual contrast form in Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "演戏就是为了下班吃饭 (formal register distinction for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "无所谓无所不能 (colloquial conversational usage for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)"
           ],
           "answerIndex": 0,
           "explanation": "「不疯魔不成活」是《霸王别姬》程蝶衣戏痴人生的崇高写照与华语影史最经典名言。"
@@ -18064,10 +18064,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国第五代电影美学批评最深刻、最精准的一项：",
           "options": [
-            "第五代导演以《黄土地》为起点发动了中国电影的美学革命：张艺谋在《红高粱》《大红灯笼高高挂》中以炽热猩红与压抑封闭对称构图，将民俗奇观与身体仪式升华为对宗法礼教的犀利解构；陈凯歌在《霸王别姬》中以「不疯魔不成活」的戏痴执念，将个人悲欢与半世纪历史风云融铸成悲壮史诗，奠定了华语电影在世界影坛的崇高地位！ (Core concept alternative form)",
-            "第五代导演就是张艺谋一个人拍拍红灯笼，没有什么深刻的文化思考 (Core concept alternative form)",
-            "第五代电影被霸王别姬在红高粱构图民俗奇观 (Core concept alternative form)",
-            "第五代导演从来没有获得过任何国际电影节的任何奖项 (Core concept alternative form)"
+            "第五代导演以《黄土地》为起点发动了中国电影的美学革命：张艺谋在《红高粱》《大红灯笼高高挂》中以炽热猩红与压抑封闭对称构图，将民俗奇观与身体仪式升华为对宗法礼教的犀利解构；陈凯歌在《霸王别姬》中以「不疯魔不成活」的戏痴执念，将个人悲欢与半世纪历史风云融铸成悲壮史诗，奠定了华语电影在世界影坛的崇高地位！ (standard target expression for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "第五代导演就是张艺谋一个人拍拍红灯笼，没有什么深刻的文化思考 (contextual contrast form in Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "第五代电影被霸王别姬在红高粱构图民俗奇观 (formal register distinction for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)",
+            "第五代导演从来没有获得过任何国际电影节的任何奖项 (colloquial conversational usage for Fifth Generation Cinema  Folk Spectacle  Earth Colors   Historical Reflection)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将第五代导演的代表巨作、色彩造型、封闭构图与历史批判精神融会贯通，是专业电影批评的典范。"
@@ -18131,10 +18131,10 @@
         {
           "prompt": "执导「故乡三部曲」（《小武》《站台》《任逍遥》》并凭《三峡好人》荣获威尼斯金狮奖的中国第六代代表导演是：",
           "options": [
-            "贾樟柯 (Core concept key phrasing)",
-            "冯小刚 (Core concept alternative form)",
-            "王晶 (Core concept alternative form)",
-            "徐峥 (Core concept alternative form)"
+            "贾樟柯 (standard target expression for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "冯小刚 (contextual contrast form in Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "王晶 (formal register distinction for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "徐峥 (colloquial conversational usage for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)"
           ],
           "answerIndex": 0,
           "explanation": "贾樟柯是中国第六代导演的灵魂人物，以独特的纪实美学享誉国际影坛。"
@@ -18142,10 +18142,10 @@
         {
           "prompt": "中国第六代独立电影在叙事范式上最核心的美学转向是：",
           "options": [
-            "告别宏大历史寓言，转向微观个体经验与城市边缘空间纪实 (Core concept alternative form)",
-            "全盘转向古装神话大片 (Core concept alternative form)",
-            "完全模仿好莱坞超级英雄电影 (Core concept alternative form)",
-            "放弃所有现实题材只拍外星人 (Core concept alternative form)"
+            "告别宏大历史寓言，转向微观个体经验与城市边缘空间纪实 (standard target expression for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "全盘转向古装神话大片 (contextual contrast form in Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "完全模仿好莱坞超级英雄电影 (formal register distinction for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "放弃所有现实题材只拍外星人 (colloquial conversational usage for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)"
           ],
           "answerIndex": 0,
           "explanation": "第六代导演的根本转折在于从宏大历史神话叙事转向微观边缘个体的日常生活纪实。"
@@ -18157,10 +18157,10 @@
         {
           "prompt": "在电影《三峡好人》中，导演贾樟柯用来打破纯粹写实纪录、带来震撼超现实诗意的神来之笔镜头是：",
           "options": [
-            "拆迁废墟上空升空的飞碟 / 像火箭一样发射的移民纪念碑 (Core concept alternative form)",
-            "主角突然变身奥特曼打怪兽 (Core concept alternative form)",
-            "满天飞舞的彩色卡通气球 (Core concept alternative form)",
-            "全剧演员突然开始跳街舞 (Core concept alternative form)"
+            "拆迁废墟上空升空的飞碟 / 像火箭一样发射的移民纪念碑 (standard target expression for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "主角突然变身奥特曼打怪兽 (contextual contrast form in Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "满天飞舞的彩色卡通气球 (formal register distinction for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "全剧演员突然开始跳街舞 (colloquial conversational usage for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)"
           ],
           "answerIndex": 0,
           "explanation": "废墟上空的飞碟与形似火箭升空的纪念碑是《三峡好人》中最具天才创造力的超现实主义视听神来之笔。"
@@ -18168,10 +18168,10 @@
         {
           "prompt": "娄烨导演在《苏州河》中用来制造沉浸式、私人化都市迷离情感记忆的摄影手法是：",
           "options": [
-            "主观晃动手持摄影与独白旁白 (Core concept alternative form)",
-            "完全静止的固定机位大远景 (Core concept alternative form)",
-            "无人机机械化俯瞰航拍 (Core concept alternative form)",
-            "动画逐格拍摄 (Core concept alternative form)"
+            "主观晃动手持摄影与独白旁白 (standard target expression for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "完全静止的固定机位大远景 (contextual contrast form in Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "无人机机械化俯瞰航拍 (formal register distinction for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "动画逐格拍摄 (colloquial conversational usage for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)"
           ],
           "answerIndex": 0,
           "explanation": "晃动的主观手持镜头（Handheld Camera）与主观第一人称旁白是娄烨极具作者辨识度的视听语言。"
@@ -18184,10 +18184,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于第六代独立电影美学与现实主义转向述评最深刻、最精准的一项：",
           "options": [
-            "第六代导演开启了中国电影的现实主义纪实转向：贾樟柯以故乡汾阳与三峡废墟为地标，以长镜头、现场同期声与非职业演员记录转型期边缘群体的生存阵痛，在《三峡好人》中以超现实神笔摘得威尼斯金狮；王小帅深耕三线家庭个体记忆，娄烨以晃动手持镜头构筑都市欲望迷局。他们以冷峻而深情的影像，为时代变迁中的普通人留下了不可磨灭的真实档案！ (Core concept alternative form)",
-            "第六代导演拍的电影画面粗糙，没有任何艺术价值 (Core concept alternative form)",
-            "第六代电影被贾樟柯在三峡好人长镜头超现实主义 (Core concept alternative form)",
-            "第六代电影全部都是商业搞笑喜剧片 (Core concept alternative form)"
+            "第六代导演开启了中国电影的现实主义纪实转向：贾樟柯以故乡汾阳与三峡废墟为地标，以长镜头、现场同期声与非职业演员记录转型期边缘群体的生存阵痛，在《三峡好人》中以超现实神笔摘得威尼斯金狮；王小帅深耕三线家庭个体记忆，娄烨以晃动手持镜头构筑都市欲望迷局。他们以冷峻而深情的影像，为时代变迁中的普通人留下了不可磨灭的真实档案！ (standard target expression for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "第六代导演拍的电影画面粗糙，没有任何艺术价值 (contextual contrast form in Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "第六代电影被贾樟柯在三峡好人长镜头超现实主义 (formal register distinction for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)",
+            "第六代电影全部都是商业搞笑喜剧片 (colloquial conversational usage for Sixth Generation   Realism  Urban Margins  Documentary Aesthetics   Individual Agency)"
           ],
           "answerIndex": 0,
           "explanation": "该语段全面概括了第六代电影的代表导演、纪实视听语言、底层关怀与美学历史贡献，评论精当有力。"
@@ -18251,10 +18251,10 @@
         {
           "prompt": "被誉为开启中国硬核科幻电影工业化元年、体现「带着地球家园去流浪」中国特色家国情怀的巨作是：",
           "options": [
-            "《流浪地球》 (VFX U30)",
-            "《上海堡垒》 (VFX U30)",
-            "《人在囧途》 (VFX U30)",
-            "《前任攻略》 (VFX U30)"
+            "《流浪地球》 (standard target expression for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "《上海堡垒》 (contextual contrast form in New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "《人在囧途》 (formal register distinction for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "《前任攻略》 (colloquial conversational usage for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)"
           ],
           "answerIndex": 0,
           "explanation": "《流浪地球》由郭帆执导，吴京等主演，开启了中国科幻电影重工业化全新纪元。"
@@ -18262,10 +18262,10 @@
         {
           "prompt": "近年来中国「新主流大片」（如《长津湖》《红海行动》）在叙事上取得巨大商业成功的核心法宝是：",
           "options": [
-            "借鉴成熟类型片高强度对抗与快节奏，以平民英雄视角引发强烈共鸣 (VFX U30)",
-            "只放长篇大论的政治宣讲 (VFX U30)",
-            "完全没有任何故事情节只有口号 (VFX U30)",
-            "把电影拍成无声纪录片 (VFX U30)"
+            "借鉴成熟类型片高强度对抗与快节奏，以平民英雄视角引发强烈共鸣 (standard target expression for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "只放长篇大论的政治宣讲 (contextual contrast form in New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "完全没有任何故事情节只有口号 (formal register distinction for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "把电影拍成无声纪录片 (colloquial conversational usage for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)"
           ],
           "answerIndex": 0,
           "explanation": "新主流大片将成熟商业类型片法则与真挚的家国平民英雄叙事深度融合，实现了口碑与票房双丰收。"
@@ -18277,10 +18277,10 @@
         {
           "prompt": "在现代电影重工业制作体系中，利用LED巨幕墙实时呈现虚拟场景并与摄像机追踪联动的拍摄革新技术被称为：",
           "options": [
-            "虚拟制片 (VFX U30)",
-            "画画上色 (VFX U30)",
-            "洗印胶片 (VFX U30)",
-            "拉幕布放映 (VFX U30)"
+            "虚拟制片 (standard target expression for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "画画上色 (contextual contrast form in New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "洗印胶片 (formal register distinction for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "拉幕布放映 (colloquial conversational usage for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)"
           ],
           "answerIndex": 0,
           "explanation": "「虚拟制片」（Virtual Production）是影视工业化的前沿制高点，实现所见即所得的沉浸式拍摄。"
@@ -18288,10 +18288,10 @@
         {
           "prompt": "由乌尔善执导、开创中国东方神话史诗全流程工业化与新人演员系统化培养的标杆三部曲是：",
           "options": [
-            "《封神三部曲》 (VFX U30)",
-            "《小时代三部曲》 (VFX U30)",
-            "《煎饼侠》 (VFX U30)",
-            "《港囧》 (VFX U30)"
+            "《封神三部曲》 (standard target expression for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "《小时代三部曲》 (contextual contrast form in New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "《煎饼侠》 (formal register distinction for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "《港囧》 (colloquial conversational usage for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)"
           ],
           "answerIndex": 0,
           "explanation": "《封神三部曲》建立了中国东方神话史诗电影从概念设计到全流程工业化制作的最高标杆。"
@@ -18304,10 +18304,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国电影重工业化与新主流大片述评最全面、最深刻的一项：",
           "options": [
-            "中国电影迎来了工业化重塑与类型创新的黄金时代：《流浪地球》以硬核机械美学与数万视效镜头开辟科幻重工业元年，用「带着地球流浪」诠释深厚的家国眷恋；《封神三部曲》以全流程视效管线树立神话史诗工业标杆；新主流大片以高概念类型法则融合微观平民英雄叙事，在虚拟制片与前沿数字科技赋能下，展现出强劲的文化自信与视效奇观魅力！ (VFX U30)",
-            "中国电影工业化就是多花钱买外国特效，没有任何自己的文化内涵 (VFX U30)",
-            "科幻工业化被流浪地球在封神虚拟制片新主流大片 (VFX U30)",
-            "电影只要有明星脸就行，不需要任何视效工业化标准 (VFX U30)"
+            "中国电影迎来了工业化重塑与类型创新的黄金时代：《流浪地球》以硬核机械美学与数万视效镜头开辟科幻重工业元年，用「带着地球流浪」诠释深厚的家国眷恋；《封神三部曲》以全流程视效管线树立神话史诗工业标杆；新主流大片以高概念类型法则融合微观平民英雄叙事，在虚拟制片与前沿数字科技赋能下，展现出强劲的文化自信与视效奇观魅力！ (standard target expression for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "中国电影工业化就是多花钱买外国特效，没有任何自己的文化内涵 (contextual contrast form in New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "科幻工业化被流浪地球在封神虚拟制片新主流大片 (formal register distinction for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)",
+            "电影只要有明星脸就行，不需要任何视效工业化标准 (colloquial conversational usage for New Mainstream Blockbusters  Sci Fi Industrialization   Visual Effects)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将科幻工业化、新主流平民叙事、神话史诗重塑与前沿视听科技融会贯通，评析精深，气魄宏大。"
@@ -18371,10 +18371,10 @@
         {
           "prompt": "在电影剪辑中，将处于两个不同空间同时发生、相互关联并不断加速交替切换以制造强烈戏剧悬念的技巧是：",
           "options": [
-            "交叉蒙太奇 / 交叉剪辑 (Miseenscne U30)",
-            "跳切 (Miseenscne U30)",
-            "黑屏淡出 (Miseenscne U30)",
-            "乱剪一通 (Miseenscne U30)"
+            "交叉蒙太奇 / 交叉剪辑 (standard target expression for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "跳切 (contextual contrast form in Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "黑屏淡出 (formal register distinction for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "乱剪一通 (colloquial conversational usage for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "交叉蒙太奇（Cross-cutting）常用于惊险营救或生死对决高潮，制造强烈的戏剧张力与节奏感。"
@@ -18382,10 +18382,10 @@
         {
           "prompt": "在声画关系中，当画面的悲惨残酷与声音音乐的欢快优美形成极度反差、引发观众理性反思的艺术手法是：",
           "options": [
-            "声画对位 (Miseenscne U30)",
-            "声画同步 (Miseenscne U30)",
-            "无声哑剧 (Miseenscne U30)",
-            "噪音干扰 (Miseenscne U30)"
+            "声画对位 (standard target expression for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "声画同步 (contextual contrast form in Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "无声哑剧 (formal register distinction for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "噪音干扰 (colloquial conversational usage for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「声画对位」（Counterpoint）利用声音与画面的情绪反差，创造出强烈的审美间离与讽刺批判力量。"
@@ -18397,10 +18397,10 @@
         {
           "prompt": "在电影摄影中，使画面中的前景、中景与远景都保持高度清晰锐利、让观众自由选择关注焦点的摄影技术是：",
           "options": [
-            "深焦摄影 (Miseenscne U30)",
-            "浅景深虚化 (Miseenscne U30)",
-            "镜头模糊失焦 (Miseenscne U30)",
-            "全黑曝光不足 (Miseenscne U30)"
+            "深焦摄影 (standard target expression for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "浅景深虚化 (contextual contrast form in Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "镜头模糊失焦 (formal register distinction for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "全黑曝光不足 (colloquial conversational usage for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "深焦摄影（Deep Focus）是现实主义长镜头美学的技术基石，展现多层次空间细节与人物关系。"
@@ -18408,10 +18408,10 @@
         {
           "prompt": "影视批评中，借用戏剧大师布莱希特概念、指通过特殊形式打破观众对剧情的盲目沉迷、促使其保持清醒理性反思的效果是：",
           "options": [
-            "审美间离效果 / 间离效应 (Miseenscne U30)",
-            "催眠效应 (Miseenscne U30)",
-            "白日梦效应 (Miseenscne U30)",
-            "盲从效应 (Miseenscne U30)"
+            "审美间离效果 / 间离效应 (standard target expression for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "催眠效应 (contextual contrast form in Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "白日梦效应 (formal register distinction for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "盲从效应 (colloquial conversational usage for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "「间离效果」（Alienation Effect）旨在阻断情绪无脑共情，激发观众理性的社会批判意识。"
@@ -18424,10 +18424,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列影视视听语言与审美批评分析中术语最专业、逻辑最严密的一项：",
           "options": [
-            "专业的影视审美批评建立在精密的视听语言解构之上：场面调度通过人物走位与深焦摄影在景深内构建复杂张力；交叉蒙太奇以多线交织加速推进高潮悬念；声画对位更以音画情绪的强烈背离引发深刻的审美间离反思。跳脱单纯的剧情复述，深入视听符码与意识形态细读，方能洞察光影背后的文化真谛！ (Miseenscne U30)",
-            "看电影就是看哪个明星长得好看，特效打得热闹就行，不需要懂什么镜头语言 (Miseenscne U30)",
-            "深焦摄影被声画对位在交叉蒙太奇场面调度间离效果 (Miseenscne U30)",
-            "电影的所有镜头都是随便拍的，没有任何艺术构思与符号学意图 (Miseenscne U30)"
+            "专业的影视审美批评建立在精密的视听语言解构之上：场面调度通过人物走位与深焦摄影在景深内构建复杂张力；交叉蒙太奇以多线交织加速推进高潮悬念；声画对位更以音画情绪的强烈背离引发深刻的审美间离反思。跳脱单纯的剧情复述，深入视听符码与意识形态细读，方能洞察光影背后的文化真谛！ (standard target expression for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "看电影就是看哪个明星长得好看，特效打得热闹就行，不需要懂什么镜头语言 (contextual contrast form in Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "深焦摄影被声画对位在交叉蒙太奇场面调度间离效果 (formal register distinction for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)",
+            "电影的所有镜头都是随便拍的，没有任何艺术构思与符号学意图 (colloquial conversational usage for Film Semiotics  Audiovisual Syntax   Critical Aesthetics)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将场面调度、深焦摄影、交叉蒙太奇、声画对位与符号学细读有机融合，是专业电影批评的典范。"
@@ -18495,10 +18495,10 @@
         {
           "prompt": "在回顾当代中国电影美学流变时，将「第五代」与「第六代」的核心美学差异概括得最精辟的一项是：",
           "options": [
-            "第五代注重宏大历史寓言与原色民俗造型；第六代转向微观个体经验与纪实粗粝现实 (Core concept alternative form)",
-            "第五代只拍喜剧，第六代只拍悲剧 (Core concept alternative form)",
-            "第五代用电脑特技，第六代用手绘动画 (Core concept alternative form)",
-            "两者完全一样没有任何区别 (Core concept alternative form)"
+            "第五代注重宏大历史寓言与原色民俗造型；第六代转向微观个体经验与纪实粗粝现实 (standard target expression for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "第五代只拍喜剧，第六代只拍悲剧 (contextual contrast form in Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "第五代用电脑特技，第六代用手绘动画 (formal register distinction for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "两者完全一样没有任何区别 (colloquial conversational usage for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)"
           ],
           "answerIndex": 0,
           "explanation": "第五代的宏大历史寓言与原色造型，与第六代的微观个体关怀与纪实长镜头，构成了当代中国影史最鲜明的代际美学对照。"
@@ -18506,10 +18506,10 @@
         {
           "prompt": "在当代中国电影走向工业化与全球传播的过程中，将东方文化特质融入世界级科幻叙事的典范是：",
           "options": [
-            "《流浪地球》以「带着地球家园流浪」展现华夏深厚的土地眷恋与人类命运担当 (Core concept alternative form)",
-            "放弃所有地球家园直接逃跑 (Core concept alternative form)",
-            "完全照搬好莱坞个人英雄主义救世主设定 (Core concept alternative form)",
-            "依靠神仙法术直接变出新星球 (Core concept alternative form)"
+            "《流浪地球》以「带着地球家园流浪」展现华夏深厚的土地眷恋与人类命运担当 (standard target expression for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "放弃所有地球家园直接逃跑 (contextual contrast form in Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "完全照搬好莱坞个人英雄主义救世主设定 (formal register distinction for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "依靠神仙法术直接变出新星球 (colloquial conversational usage for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)"
           ],
           "answerIndex": 0,
           "explanation": "《流浪地球》将独特的中华土地情结与人类命运共同体意识注入硬核科幻，成就了划时代的东方科幻美学。"
@@ -18521,10 +18521,10 @@
         {
           "prompt": "请选出下列当代电影审美批评综合论述中立论最高远、概括最透彻的一项：",
           "options": [
-            "光影映照时代精神：第五代以民俗色彩与霸王史诗震撼国际影坛，第六代以纪实长镜头为边缘失语者立传，新主流与硬核科幻以工业重构铸就视效奇观，专业视听批评以文本细读洞悉文化密码。中国影视在历史、现实与未来的交响中展现出崇高的文化自信！ (Core concept alternative form)",
-            "现在的电影就是只要明星多就能赚钱，不需要任何艺术和文化思考 (Core concept alternative form)",
-            "光影流年被霸王别姬在三峡好人流浪地球视听语言 (Core concept alternative form)",
-            "中国电影不需要任何视听批评和理论研究，观众看看笑笑即可 (Core concept alternative form)"
+            "光影映照时代精神：第五代以民俗色彩与霸王史诗震撼国际影坛，第六代以纪实长镜头为边缘失语者立传，新主流与硬核科幻以工业重构铸就视效奇观，专业视听批评以文本细读洞悉文化密码。中国影视在历史、现实与未来的交响中展现出崇高的文化自信！ (standard target expression for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "现在的电影就是只要明星多就能赚钱，不需要任何艺术和文化思考 (contextual contrast form in Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "光影流年被霸王别姬在三峡好人流浪地球视听语言 (formal register distinction for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "中国电影不需要任何视听批评和理论研究，观众看看笑笑即可 (colloquial conversational usage for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项全景融通了第五代、第六代、新主流工业化与视听专业批评，见解深邃，气象恢弘。"
@@ -18532,10 +18532,10 @@
         {
           "prompt": "影视艺术理论中用来比喻电影如同镜子一般真实折射社会历史风貌与大众集体心理的经典术语是：",
           "options": [
-            "时代的镜像 (Core concept key phrasing)",
-            "虚幻的谎言 (Core concept alternative form)",
-            "无聊的消遣 (Core concept alternative form)",
-            "机械的翻版 (Core concept alternative form)"
+            "时代的镜像 (standard target expression for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "虚幻的谎言 (contextual contrast form in Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "无聊的消遣 (formal register distinction for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "机械的翻版 (colloquial conversational usage for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)"
           ],
           "answerIndex": 0,
           "explanation": "「时代的镜像」是影视社会学与文化批评中最具象征力与概括力的经典比喻。"
@@ -18548,10 +18548,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列中国影视艺术美学与视听审美批评综合语篇中格局最宏大、论述最透彻、文采最雅正的一项：",
           "options": [
-            "光影如炬，映照时代；视听生辉，淬炼精神。当代中国影视在四十年激荡岁月中谱写了壮丽的美学史诗：第五代以《黄土地》《红高粱》《霸王别姬》之原色造型与封闭对称构图，在戛纳金棕榈中铸就历史反思丰碑；第六代以贾樟柯《小武》《三峡好人》之纪实长镜头与微观凝视，在威尼斯金狮中为转型期普通人铭刻生存尊严；新时代《流浪地球》与新主流大片更以硬核重工业标准、虚拟制片与家国大爱开辟东方视效新纪元。融通深焦调度、交叉蒙太奇与声画对位之视听语法，当代中国电影正以博大的文化自信与卓越的艺术创造力，屹立于世界光影之林！ (Core concept alternative form)",
-            "中国电影就是以前拍农村现在拍科幻，大家去电影院吃吃爆米花挺高兴的 (Core concept alternative form)",
-            "光影时代镜像被深焦摄影在金棕榈金狮奖流浪地球 (Core concept alternative form)",
-            "中国电影完全没有任何国际影响力，也没有出过任何优秀导演 (Core concept alternative form)"
+            "光影如炬，映照时代；视听生辉，淬炼精神。当代中国影视在四十年激荡岁月中谱写了壮丽的美学史诗：第五代以《黄土地》《红高粱》《霸王别姬》之原色造型与封闭对称构图，在戛纳金棕榈中铸就历史反思丰碑；第六代以贾樟柯《小武》《三峡好人》之纪实长镜头与微观凝视，在威尼斯金狮中为转型期普通人铭刻生存尊严；新时代《流浪地球》与新主流大片更以硬核重工业标准、虚拟制片与家国大爱开辟东方视效新纪元。融通深焦调度、交叉蒙太奇与声画对位之视听语法，当代中国电影正以博大的文化自信与卓越的艺术创造力，屹立于世界光影之林！ (standard target expression for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "中国电影就是以前拍农村现在拍科幻，大家去电影院吃吃爆米花挺高兴的 (contextual contrast form in Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "光影时代镜像被深焦摄影在金棕榈金狮奖流浪地球 (formal register distinction for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)",
+            "中国电影完全没有任何国际影响力，也没有出过任何优秀导演 (colloquial conversational usage for Comprehensive Cinema   Media Aesthetics  Time  Mirror   Critical Essay)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇全景贯通第五代、第六代、新主流科幻重工业与视听批评语法体系，思想深邃，气象万千，是当代影视艺术批评的典范杰作。"
@@ -18617,10 +18617,10 @@
         {
           "prompt": "在现代法治国家法律渊源效力位阶中，规定国家根本任务与根本制度、具有最高法律效力的是：",
           "options": [
-            "宪法 (Core concept key phrasing)",
-            "部门规章 (Core concept alternative form)",
-            "地方政府通告 (Core concept alternative form)",
-            "行业内部倡议 (Core concept alternative form)"
+            "宪法 (standard target expression for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "部门规章 (contextual contrast form in Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "地方政府通告 (formal register distinction for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "行业内部倡议 (colloquial conversational usage for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)"
           ],
           "answerIndex": 0,
           "explanation": "宪法是国家的根本法，处于整个法律体系的核心与顶端，具有最高的法律效力。"
@@ -18628,10 +18628,10 @@
         {
           "prompt": "全国人大常委会对行政法规、地方性法规及司法解释是否符合宪法精神进行审查并纠正的法律监督机制被称为：",
           "options": [
-            "合宪性审查与备案审查 (Core concept alternative form)",
-            "随意翻看 (Core concept alternative form)",
-            "民间投票 (Core concept alternative form)",
-            "商业审核 (Core concept alternative form)"
+            "合宪性审查与备案审查 (standard target expression for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "随意翻看 (contextual contrast form in Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "民间投票 (formal register distinction for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "商业审核 (colloquial conversational usage for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)"
           ],
           "answerIndex": 0,
           "explanation": "合宪性审查是维护国家法制统一、保障宪法权威和有效实施的关键宪法监督机制。"
@@ -18643,10 +18643,10 @@
         {
           "prompt": "我国宪法明确载明的关于公民基本权利保障的最核心宪法原则是：",
           "options": [
-            "国家尊重和保障人权 (Core concept key phrasing)",
-            "权力高于一切 (Core concept alternative form)",
-            "金钱决定权利 (Core concept alternative form)",
-            "特权不受限制 (Core concept alternative form)"
+            "国家尊重和保障人权 (standard target expression for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "权力高于一切 (contextual contrast form in Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "金钱决定权利 (formal register distinction for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "特权不受限制 (colloquial conversational usage for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)"
           ],
           "answerIndex": 0,
           "explanation": "「国家尊重和保障人权」是写入我国宪法的崇高原则，是法治建设的核心价值导向。"
@@ -18654,10 +18654,10 @@
         {
           "prompt": "国家公职人员在正式就职履职时，面向国旗国徽公开进行庄严承诺的法定仪式是：",
           "options": [
-            "宪法宣誓 (Core concept key phrasing)",
-            "发朋友圈打卡 (Core concept alternative form)",
-            "签署商业广告 (Core concept alternative form)",
-            "请客吃饭聚餐 (Core concept alternative form)"
+            "宪法宣誓 (standard target expression for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "发朋友圈打卡 (contextual contrast form in Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "签署商业广告 (formal register distinction for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "请客吃饭聚餐 (colloquial conversational usage for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)"
           ],
           "answerIndex": 0,
           "explanation": "实行宪法宣誓制度旨在增强公职人员的宪法观念，激励公职人员忠于宪法、遵守宪法。"
@@ -18670,10 +18670,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于宪法根本地位与依宪治国论述中法理最精严、表述最规范的一项：",
           "options": [
-            "宪法是国家的根本大法，具有最高的法律地位、法律权威与法律效力。坚持依法治国首先要坚持依宪治国，坚持依法执政首先要坚持依宪执政。通过完善全流程合宪性审查机制维护法制统一，严格践行「国家尊重和保障人权」的宪法原则，落实就职宪法宣誓制度，确保国家各项事业在宪法轨道上规范运行！ (Core concept alternative form)",
-            "宪法就是一本普通的参考书，平时办案根本用不上 (Core concept alternative form)",
-            "合宪性审查被依宪治国在宪法宣誓人权保障最高效力 (Core concept alternative form)",
-            "地方政府制定的红头文件效力可以凌驾于国家宪法之上 (Core concept alternative form)"
+            "宪法是国家的根本大法，具有最高的法律地位、法律权威与法律效力。坚持依法治国首先要坚持依宪治国，坚持依法执政首先要坚持依宪执政。通过完善全流程合宪性审查机制维护法制统一，严格践行「国家尊重和保障人权」的宪法原则，落实就职宪法宣誓制度，确保国家各项事业在宪法轨道上规范运行！ (standard target expression for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "宪法就是一本普通的参考书，平时办案根本用不上 (contextual contrast form in Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "合宪性审查被依宪治国在宪法宣誓人权保障最高效力 (formal register distinction for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)",
+            "地方政府制定的红头文件效力可以凌驾于国家宪法之上 (colloquial conversational usage for Constitutional Supremacy  Rule of Law  Constitutional Review   Human Rights)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统总结了宪法最高效力、依宪治国原则、合宪审查与人权法治保障，法理清晰，逻辑严谨。"
@@ -18737,10 +18737,10 @@
         {
           "prompt": "在《中华人民共和国民法典》中，被称为民法基本原则中统领民商事活动的「帝王条款」是：",
           "options": [
-            "诚信原则 / 诚实信用原则 (Core concept alternative form)",
-            "利益最大化原则 (Core concept alternative form)",
-            "谁强谁有理原则 (Core concept alternative form)",
-            "霸王条款优先原则 (Core concept alternative form)"
+            "诚信原则 / 诚实信用原则 (standard target expression for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "利益最大化原则 (contextual contrast form in Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "谁强谁有理原则 (formal register distinction for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "霸王条款优先原则 (colloquial conversational usage for Civil Code  Property  Contracts  Personality Rights   Torts)"
           ],
           "answerIndex": 0,
           "explanation": "诚信原则要求民事主体在民事活动中恪守诺言、诚实不欺，是民法公认的「帝王条款」。"
@@ -18748,10 +18748,10 @@
         {
           "prompt": "《民法典》物权编中新增设的、为满足养老或住房保障需求而设立的用益物权类型是：",
           "options": [
-            "居住权 (Core concept key phrasing)",
-            "随意拆迁权 (Core concept alternative form)",
-            "霸占房屋权 (Core concept alternative form)",
-            "无偿转让权 (Core concept alternative form)"
+            "居住权 (standard target expression for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "随意拆迁权 (contextual contrast form in Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "霸占房屋权 (formal register distinction for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "无偿转让权 (colloquial conversational usage for Civil Code  Property  Contracts  Personality Rights   Torts)"
           ],
           "answerIndex": 0,
           "explanation": "「居住权」是民法典物权编创设的新型用益物权，有效保障弱势群体「房子住得踏实」。"
@@ -18763,10 +18763,10 @@
         {
           "prompt": "《民法典》将哪一编予以独立编纂，在世界民法典编纂史上开创了强化隐私权与人尊严保护的先河？",
           "options": [
-            "人格权编 (Core concept alternative form)",
-            "商业广告编 (Core concept alternative form)",
-            "企业合并编 (Core concept alternative form)",
-            "网络游戏编 (Core concept alternative form)"
+            "人格权编 (standard target expression for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "商业广告编 (contextual contrast form in Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "企业合并编 (formal register distinction for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "网络游戏编 (colloquial conversational usage for Civil Code  Property  Contracts  Personality Rights   Torts)"
           ],
           "answerIndex": 0,
           "explanation": "人格权独立成编是中国民法典对世界民事立法体系作出的原创性重大制度贡献。"
@@ -18774,10 +18774,10 @@
         {
           "prompt": "在民法典侵权责任中，针对恶意严重侵犯知识产权或故意污染生态环境的行为适用的惩戒性法律责任是：",
           "options": [
-            "惩罚性赔偿 (Core concept key phrasing)",
-            "批评教育了事 (Core concept alternative form)",
-            "口头表扬 (Core concept alternative form)",
-            "免除所有赔偿 (Core concept alternative form)"
+            "惩罚性赔偿 (standard target expression for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "批评教育了事 (contextual contrast form in Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "口头表扬 (formal register distinction for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "免除所有赔偿 (colloquial conversational usage for Civil Code  Property  Contracts  Personality Rights   Torts)"
           ],
           "answerIndex": 0,
           "explanation": "惩罚性赔偿（Punitive damages）打破了传统的填平原则，对严重恶意侵权行为予以严厉制裁。"
@@ -18790,10 +18790,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于《民法典》体系特征与法治精神评述最准确、最深刻的一项：",
           "options": [
-            "《民法典》作为新时代民事权利宣言书与社会生活百科全书，构建起七编融通的私权保障大厦：恪守诚信与公序良俗基本原则；创设物权编「居住权」以解民生之忧；首创「人格权编」独立成编，对隐私权、肖像权与个人信息构筑严密法治防线；确立侵权惩罚性赔偿遏制恶意侵权。民法典通篇贯穿以人民为中心的法治人文关怀！ (Core concept alternative form)",
-            "民法典只管借钱还钱的事，跟老百姓的日常生活和人格尊严没有关系 (Core concept alternative form)",
-            "民法典被物权编在居住权人格权侵权责任诚信原则 (Core concept alternative form)",
-            "只要签订了合同，即便违反公序良俗和法律底线也是完全有效的 (Core concept alternative form)"
+            "《民法典》作为新时代民事权利宣言书与社会生活百科全书，构建起七编融通的私权保障大厦：恪守诚信与公序良俗基本原则；创设物权编「居住权」以解民生之忧；首创「人格权编」独立成编，对隐私权、肖像权与个人信息构筑严密法治防线；确立侵权惩罚性赔偿遏制恶意侵权。民法典通篇贯穿以人民为中心的法治人文关怀！ (standard target expression for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "民法典只管借钱还钱的事，跟老百姓的日常生活和人格尊严没有关系 (contextual contrast form in Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "民法典被物权编在居住权人格权侵权责任诚信原则 (formal register distinction for Civil Code  Property  Contracts  Personality Rights   Torts)",
+            "只要签订了合同，即便违反公序良俗和法律底线也是完全有效的 (colloquial conversational usage for Civil Code  Property  Contracts  Personality Rights   Torts)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统总结了《民法典》的编纂创新、核心编目、基本原则与人文精神，法理见解极具深度。"
@@ -18857,10 +18857,10 @@
         {
           "prompt": "现代刑法学中，要求「法律没有明文规定为犯罪的，不得定罪处刑」的核心基本原则是：",
           "options": [
-            "罪刑法定原则 (Core concept key phrasing)",
-            "法官自由心证原则 (Core concept alternative form)",
-            "依情代理原则 (Core concept alternative form)",
-            "长官意志原则 (Core concept alternative form)"
+            "罪刑法定原则 (standard target expression for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "法官自由心证原则 (contextual contrast form in Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "依情代理原则 (formal register distinction for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "长官意志原则 (colloquial conversational usage for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)"
           ],
           "answerIndex": 0,
           "explanation": "罪刑法定原则是现代法治文明惩治犯罪与防范国家刑罚权滥用的最核心原则。"
@@ -18868,10 +18868,10 @@
         {
           "prompt": "在司法实践中，彰显正义底线、明确公民面对正在进行的严重暴力不法侵害时享有特殊防卫权的法治箴言是：",
           "options": [
-            "法不能向不法让步 (Core concept key phrasing)",
-            "谁闹谁有理 (Core concept alternative form)",
-            "各打五十大板 (Core concept alternative form)",
-            "多一事不如少一事 (Core concept alternative form)"
+            "法不能向不法让步 (standard target expression for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "谁闹谁有理 (contextual contrast form in Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "各打五十大板 (formal register distinction for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "多一事不如少一事 (colloquial conversational usage for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)"
           ],
           "answerIndex": 0,
           "explanation": "「法不能向不法让步」是最高司法机关激活正当防卫制度的核心价值灵魂。"
@@ -18883,10 +18883,10 @@
         {
           "prompt": "刑法中要求刑罚裁量的轻重必须与犯罪分子所犯罪行大小及刑事责任相匹配的原则是：",
           "options": [
-            "罪责刑相适应原则 (Core concept key phrasing)",
-            "轻罪重判原则 (Core concept alternative form)",
-            "重罪轻判原则 (Core concept alternative form)",
-            "随心所欲原则 (Core concept alternative form)"
+            "罪责刑相适应原则 (standard target expression for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "轻罪重判原则 (contextual contrast form in Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "重罪轻判原则 (formal register distinction for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "随心所欲原则 (colloquial conversational usage for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)"
           ],
           "answerIndex": 0,
           "explanation": "罪责刑相适应原则确保刑罚公正裁量，做到罚当其罪、罪刑均衡。"
@@ -18894,10 +18894,10 @@
         {
           "prompt": "在刑事犯罪事实认定中，严防仅凭客观后果即盲目定罪、坚决贯彻主客观相统一的刑法底线是：",
           "options": [
-            "反对客观归罪 (Core concept key phrasing)",
-            "只看结果不问主观 (Core concept alternative form)",
-            "随意推定动机 (Core concept alternative form)",
-            "一概从重处罚 (Core concept alternative form)"
+            "反对客观归罪 (standard target expression for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "只看结果不问主观 (contextual contrast form in Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "随意推定动机 (formal register distinction for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "一概从重处罚 (colloquial conversational usage for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)"
           ],
           "answerIndex": 0,
           "explanation": "反对客观归罪要求必须同时具备主观罪过（故意或过失）与客观危害行为方能定罪。"
@@ -18910,10 +18910,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于现代刑法基本法理与正当防卫述评最深刻、最精准的一项：",
           "options": [
-            "现代刑法恪守人权保障与惩罚犯罪的双重使命：以罪刑法定原则筑牢「法无明文规定不为罪」的法治底线；以罪责刑相适应原则实现刑罚裁量的实体公正；在正当防卫认定中坚决贯彻「法不能向不法让步」的正义精神，划清防卫过当边界，坚决为见义勇为者撑腰；严格坚持主客观相统一，排除非法证据，严密防范客观归罪！ (Core concept alternative form)",
-            "只要有人受伤，防卫的人就必须承担刑事责任，这叫公平 (Core concept alternative form)",
-            "罪刑法定被正当防卫在罪责刑相适应法不能向不法让步 (Core concept alternative form)",
-            "只要法官觉得一个人该判死刑，即便没有法律明文规定也可以判 (Core concept alternative form)"
+            "现代刑法恪守人权保障与惩罚犯罪的双重使命：以罪刑法定原则筑牢「法无明文规定不为罪」的法治底线；以罪责刑相适应原则实现刑罚裁量的实体公正；在正当防卫认定中坚决贯彻「法不能向不法让步」的正义精神，划清防卫过当边界，坚决为见义勇为者撑腰；严格坚持主客观相统一，排除非法证据，严密防范客观归罪！ (standard target expression for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "只要有人受伤，防卫的人就必须承担刑事责任，这叫公平 (contextual contrast form in Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "罪刑法定被正当防卫在罪责刑相适应法不能向不法让步 (formal register distinction for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)",
+            "只要法官觉得一个人该判死刑，即便没有法律明文规定也可以判 (colloquial conversational usage for Criminal Law  Legality  Elements of Crime  Self Defense   Proportionality)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将罪刑法定原则、罪责刑相适应、正当防卫理念与证据排除融通一体，评析极其专业透彻。"
@@ -18979,10 +18979,10 @@
         {
           "prompt": "在刑事诉讼中，对被告人定罪必须达到的法定最高证明标准是：",
           "options": [
-            "证据确实、充分，排除合理怀疑 (Core concept key phrasing)",
-            "大概差不多可能是有罪 (Core concept alternative form)",
-            "根据法官直觉判断 (Core concept alternative form)",
-            "只要原告起诉就算有罪 (Core concept alternative form)"
+            "证据确实、充分，排除合理怀疑 (standard target expression for Judicial System  Law of Evidence   Procedural Justice)",
+            "大概差不多可能是有罪 (contextual contrast form in Judicial System  Law of Evidence   Procedural Justice)",
+            "根据法官直觉判断 (formal register distinction for Judicial System  Law of Evidence   Procedural Justice)",
+            "只要原告起诉就算有罪 (colloquial conversational usage for Judicial System  Law of Evidence   Procedural Justice)"
           ],
           "answerIndex": 0,
           "explanation": "「证据确实、充分，排除合理怀疑」是刑事诉讼定罪的法定最高证明标准，确保无辜者不受刑事追究。"
@@ -18990,10 +18990,10 @@
         {
           "prompt": "在法庭审判中，对采用刑讯逼供等违法手段获取的口供依法予以排除、不得作为定案依据的制度是：",
           "options": [
-            "非法证据排除规则 (Core concept key phrasing)",
-            "照单全收制度 (Core concept alternative form)",
-            "秘密审判制度 (Core concept alternative form)",
-            "刑讯逼供合法化 (Core concept alternative form)"
+            "非法证据排除规则 (standard target expression for Judicial System  Law of Evidence   Procedural Justice)",
+            "照单全收制度 (contextual contrast form in Judicial System  Law of Evidence   Procedural Justice)",
+            "秘密审判制度 (formal register distinction for Judicial System  Law of Evidence   Procedural Justice)",
+            "刑讯逼供合法化 (colloquial conversational usage for Judicial System  Law of Evidence   Procedural Justice)"
           ],
           "answerIndex": 0,
           "explanation": "非法证据排除规则是防范冤假错案、维护被追诉人基本人权与程序正义的底线铁律。"
@@ -19005,10 +19005,10 @@
         {
           "prompt": "西方法谚与现代诉讼法学中强调审判程序公开透明、保障当事人看得见感受得到正义的崇高格言是：",
           "options": [
-            "正义不仅要实现，而且要以看得见的方式实现 (Core concept key phrasing)",
-            "程序只是形式不重要 (Core concept alternative form)",
-            "秘密审判效率最高 (Core concept alternative form)",
-            "胜者为王败者为寇 (Core concept alternative form)"
+            "正义不仅要实现，而且要以看得见的方式实现 (standard target expression for Judicial System  Law of Evidence   Procedural Justice)",
+            "程序只是形式不重要 (contextual contrast form in Judicial System  Law of Evidence   Procedural Justice)",
+            "秘密审判效率最高 (formal register distinction for Judicial System  Law of Evidence   Procedural Justice)",
+            "胜者为王败者为寇 (colloquial conversational usage for Judicial System  Law of Evidence   Procedural Justice)"
           ],
           "answerIndex": 0,
           "explanation": "「正义不仅要实现，而且要以看得见的方式实现」强调了程序正义对实体正义的不可替代性。"
@@ -19016,10 +19016,10 @@
         {
           "prompt": "对于已经发生法律效力的裁判，若发现确有错误或有足以推翻原判的新证据时，启动纠错重审的救济程序是：",
           "options": [
-            "审判监督程序 / 再审程序 (Core concept alternative form)",
-            "一审程序 (Core concept alternative form)",
-            "普通二审上诉 (Core concept alternative form)",
-            "撤回起诉 (Core concept alternative form)"
+            "审判监督程序 / 再审程序 (standard target expression for Judicial System  Law of Evidence   Procedural Justice)",
+            "一审程序 (contextual contrast form in Judicial System  Law of Evidence   Procedural Justice)",
+            "普通二审上诉 (formal register distinction for Judicial System  Law of Evidence   Procedural Justice)",
+            "撤回起诉 (colloquial conversational usage for Judicial System  Law of Evidence   Procedural Justice)"
           ],
           "answerIndex": 0,
           "explanation": "审判监督程序（再审）是针对生效裁判设立的法定纠错纠冤司法救济机制。"
@@ -19032,10 +19032,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于现代司法审判制度、证据法学与程序正义论述最完整、最透彻的一项：",
           "options": [
-            "司法公正依托严密的证据法则与正当程序：证据裁判原则确立了以事实为依据、以法律为准绳的定案准则；刑事审判定罪坚决恪守「排除合理怀疑」的法定证明标准；严格落实非法证据排除规则，从源头上斩断刑讯逼供与冤假错案；坚持审判公开与程序正义，让公平正义以看得见的方式得以实现，筑牢法治社会最后一道坚固防线！ (Core concept alternative form)",
-            "法官审案只要凭个人主观好恶判决就行，不需要任何证据和法庭质证 (Core concept alternative form)",
-            "排除合理怀疑被证据裁判在非法证据排除程序正义审判公开 (Core concept alternative form)",
-            "程序正义就是繁文缛节，为了快速破案完全可以采取任何刑讯手段 (Core concept alternative form)"
+            "司法公正依托严密的证据法则与正当程序：证据裁判原则确立了以事实为依据、以法律为准绳的定案准则；刑事审判定罪坚决恪守「排除合理怀疑」的法定证明标准；严格落实非法证据排除规则，从源头上斩断刑讯逼供与冤假错案；坚持审判公开与程序正义，让公平正义以看得见的方式得以实现，筑牢法治社会最后一道坚固防线！ (standard target expression for Judicial System  Law of Evidence   Procedural Justice)",
+            "法官审案只要凭个人主观好恶判决就行，不需要任何证据和法庭质证 (contextual contrast form in Judicial System  Law of Evidence   Procedural Justice)",
+            "排除合理怀疑被证据裁判在非法证据排除程序正义审判公开 (formal register distinction for Judicial System  Law of Evidence   Procedural Justice)",
+            "程序正义就是繁文缛节，为了快速破案完全可以采取任何刑讯手段 (colloquial conversational usage for Judicial System  Law of Evidence   Procedural Justice)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将证据裁判、排除合理怀疑证明标准、非法证据排除规则与程序正义理念融汇贯通，法理深邃，立论严谨。"
@@ -19099,10 +19099,10 @@
         {
           "prompt": "在全面推进法治中国建设的宏伟蓝图中，用来概括法治国家最高价值追求与制度治理理想的四字法学概念是：",
           "options": [
-            "良法善治 (Core concept key phrasing)",
-            "任性妄为 (Core concept alternative form)",
-            "权钱交易 (Core concept alternative form)",
-            "朝令夕改 (Core concept alternative form)"
+            "良法善治 (standard target expression for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "任性妄为 (contextual contrast form in Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "权钱交易 (formal register distinction for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "朝令夕改 (colloquial conversational usage for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)"
           ],
           "answerIndex": 0,
           "explanation": "「良法善治」是现代法治的精髓，良法是善治的前提，善治是良法的目标。"
@@ -19110,10 +19110,10 @@
         {
           "prompt": "中国特色社会主义法治建设新十六字方针中，处于防范社会纠纷、维护公平正义最后防线地位的是：",
           "options": [
-            "公正司法 (Core concept key phrasing)",
-            "随意执法 (Core concept alternative form)",
-            "主观臆断 (Core concept alternative form)",
-            "秘密审判 (Core concept alternative form)"
+            "公正司法 (standard target expression for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "随意执法 (contextual contrast form in Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "主观臆断 (formal register distinction for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "秘密审判 (colloquial conversational usage for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)"
           ],
           "answerIndex": 0,
           "explanation": "公正是司法的灵魂和生命，公正司法是维护社会公平正义的最后一道防线。"
@@ -19125,10 +19125,10 @@
         {
           "prompt": "请选出下列全面依法治国综合论述中立论最高远、法理最严整的一项：",
           "options": [
-            "法治兴则国兴，良法善治奠定复兴之基：宪法统领依宪治国与人权保障，民法典守护民事私权与人格尊严，刑法严守罪刑法定与正当防卫，司法审判坚持证据裁判与程序正义。科学立法、严格执法、公正司法与全民守法一体推进，谱写中华法治文明辉煌新篇！ (Core concept alternative form)",
-            "法治就是公安局抓小偷，法官随便判判刑，不需要什么高深的法理 (Core concept alternative form)",
-            "良法善治被依宪治国民法典正当防卫排除合理怀疑 (Core concept alternative form)",
-            "只要经济发展快，法律制度完善与否完全无关紧要 (Core concept alternative form)"
+            "法治兴则国兴，良法善治奠定复兴之基：宪法统领依宪治国与人权保障，民法典守护民事私权与人格尊严，刑法严守罪刑法定与正当防卫，司法审判坚持证据裁判与程序正义。科学立法、严格执法、公正司法与全民守法一体推进，谱写中华法治文明辉煌新篇！ (standard target expression for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "法治就是公安局抓小偷，法官随便判判刑，不需要什么高深的法理 (contextual contrast form in Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "良法善治被依宪治国民法典正当防卫排除合理怀疑 (formal register distinction for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "只要经济发展快，法律制度完善与否完全无关紧要 (colloquial conversational usage for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项全景融通了宪法、民法典、刑法、司法证据与法治中国总方针，立论高瞻远瞩，法理透彻。"
@@ -19136,10 +19136,10 @@
         {
           "prompt": "战国法家经典《韩非子》中论述法律与国家兴衰关系、被当代法治建设广泛引用的千古名句是：",
           "options": [
-            "奉法者强则国强，奉法者弱则国弱 (Core concept key phrasing)",
-            "得过且过天下太平 (Core concept alternative form)",
-            "人不为己天诛地灭 (Core concept alternative form)",
-            "信马由缰顺其自然 (Core concept alternative form)"
+            "奉法者强则国强，奉法者弱则国弱 (standard target expression for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "得过且过天下太平 (contextual contrast form in Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "人不为己天诛地灭 (formal register distinction for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "信马由缰顺其自然 (colloquial conversational usage for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)"
           ],
           "answerIndex": 0,
           "explanation": "「奉法者强则国强，奉法者弱则国弱」深刻揭示了严格执法与尊法守法对国家强盛的决定性作用。"
@@ -19152,10 +19152,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于法治中国建设、良法善治与法治文明综合语篇中格局最恢弘、法理最精严、文辞最雅正的一项：",
           "options": [
-            "国无常强，无常弱；奉法者强则国强，奉法者弱则国弱。当代中国法治建设展现出气势磅礴的文明气象：以宪法为统帅，依宪治国与合宪审查筑牢公法之基；以《民法典》为宝典，人格独立与物权契约构筑私权大厦；以严正刑法为利剑，罪刑法定与「法不能向不法让步」坚守正义底线；以证据裁判与程序正义为天平，排除合理怀疑以铸就看得见的正义。统筹推进科学立法、严格执法、公正司法、全民守法，良法善治必将护航中华民族行稳致远！ (Core concept alternative form)",
-            "法治社会就是法律条文越多越好，法官权力越大越好 (Core concept alternative form)",
-            "良法善治被宪法民法典刑法证据裁判程序正义十六字方针 (Core concept alternative form)",
-            "古代法家治国和现代法治完全一样，都是用严刑峻法吓唬老百姓 (Core concept alternative form)"
+            "国无常强，无常弱；奉法者强则国强，奉法者弱则国弱。当代中国法治建设展现出气势磅礴的文明气象：以宪法为统帅，依宪治国与合宪审查筑牢公法之基；以《民法典》为宝典，人格独立与物权契约构筑私权大厦；以严正刑法为利剑，罪刑法定与「法不能向不法让步」坚守正义底线；以证据裁判与程序正义为天平，排除合理怀疑以铸就看得见的正义。统筹推进科学立法、严格执法、公正司法、全民守法，良法善治必将护航中华民族行稳致远！ (standard target expression for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "法治社会就是法律条文越多越好，法官权力越大越好 (contextual contrast form in Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "良法善治被宪法民法典刑法证据裁判程序正义十六字方针 (formal register distinction for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)",
+            "古代法家治国和现代法治完全一样，都是用严刑峻法吓唬老百姓 (colloquial conversational usage for Comprehensive Rule of Law  Good Laws  Good Governance   China s Legal Civilization)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇全景熔铸宪法依宪治国、民法典私权保护、刑法罪刑法定与正当防卫、司法证据裁判与十六字法治方针，思想深邃，文采斐然，堪称法学汉语的最高范本。"
@@ -19219,10 +19219,10 @@
         {
           "prompt": "在辩论逻辑中，顺着对方提出的错误观点继续推演、最终导出极其荒谬结论以驳倒对方的论证方法是：",
           "options": [
-            "归谬法 / 反证法 (Core concept alternative form)",
-            "直接人身攻击 (Core concept alternative form)",
-            "大声打断对方讲话 (Core concept alternative form)",
-            "承认对方完全正确 (Core concept alternative form)"
+            "归谬法 / 反证法 (standard target expression for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "直接人身攻击 (contextual contrast form in Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "大声打断对方讲话 (formal register distinction for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "承认对方完全正确 (colloquial conversational usage for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)"
           ],
           "answerIndex": 0,
           "explanation": "归谬法（Reductio Ad Absurdum）是辩论中以子之矛攻子之盾的最具杀伤力的高级逻辑反驳技巧。"
@@ -19230,10 +19230,10 @@
         {
           "prompt": "由主张、根据、保证、支援、限定与反驳六要素构成的现代经典论证分析模型被称为：",
           "options": [
-            "图尔敏论证模型 (Core concept alternative form)",
-            "金字塔销售模型 (Core concept alternative form)",
-            "占星八卦模型 (Core concept alternative form)",
-            "迷宫推理模型 (Core concept alternative form)"
+            "图尔敏论证模型 (standard target expression for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "金字塔销售模型 (contextual contrast form in Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "占星八卦模型 (formal register distinction for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "迷宫推理模型 (colloquial conversational usage for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)"
           ],
           "answerIndex": 0,
           "explanation": "图尔敏模型（Toulmin Model）是现代辩论与学术论辩中最严密、最实用的逻辑立论分析工具。"
@@ -19245,10 +19245,10 @@
         {
           "prompt": "在辩论破辩中，不纠缠于枝节细节，而是直接击碎对方立论赖以成立的最核心大前提的策略被称为：",
           "options": [
-            "釜底抽薪 (Core concept key phrasing)",
-            "扬汤止沸 (Core concept alternative form)",
-            "无中生有 (Core concept alternative form)",
-            "掩耳盗铃 (Core concept alternative form)"
+            "釜底抽薪 (standard target expression for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "扬汤止沸 (contextual contrast form in Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "无中生有 (formal register distinction for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "掩耳盗铃 (colloquial conversational usage for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)"
           ],
           "answerIndex": 0,
           "explanation": "「釜底抽薪」直击对方逻辑核心大前提，实现一招制敌、根本瓦解对方体系。"
@@ -19256,10 +19256,10 @@
         {
           "prompt": "辩论赛中，双方对于辩题中关键名词的理解和界定存在分歧、决定后续讨论范围的争夺被称为：",
           "options": [
-            "定义争夺 / 定义战场 (Core concept alternative form)",
-            "抽签运气 (Core concept alternative form)",
-            "裁判打分 (Core concept alternative form)",
-            "开场白寒暄 (Core concept alternative form)"
+            "定义争夺 / 定义战场 (standard target expression for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "抽签运气 (contextual contrast form in Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "裁判打分 (formal register distinction for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "开场白寒暄 (colloquial conversational usage for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)"
           ],
           "answerIndex": 0,
           "explanation": "「定义即战场」，对核心概念的合理界定往往直接决定了辩论攻防的有利地势。"
@@ -19272,10 +19272,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于辩论立论架构与破辩战术论述最专业、逻辑最严整的一项：",
           "options": [
-            "高阶辩论是逻辑思维与语言艺术的巅峰对决：立论依托图尔敏六要素模型，以确凿数据与稳固保证支撑核心主张，并以审慎限定防范绝对化漏洞；攻辩交锋以定义争夺为战场，善用归谬法顺推对方荒谬结论，更以「釜底抽薪」直击敌方大前提。在多维价值位阶的理性权衡中，展现出崇高的思辨魅力！ (Core concept alternative form)",
-            "辩论就是吵架，谁说话声音大、语速快谁就能赢 (Core concept alternative form)",
-            "图尔敏模型被归谬法在釜底抽薪定义争夺价值位阶 (Core concept alternative form)",
-            "辩论不需要任何逻辑推理，只要多背诵名人名言就可以 (Core concept alternative form)"
+            "高阶辩论是逻辑思维与语言艺术的巅峰对决：立论依托图尔敏六要素模型，以确凿数据与稳固保证支撑核心主张，并以审慎限定防范绝对化漏洞；攻辩交锋以定义争夺为战场，善用归谬法顺推对方荒谬结论，更以「釜底抽薪」直击敌方大前提。在多维价值位阶的理性权衡中，展现出崇高的思辨魅力！ (standard target expression for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "辩论就是吵架，谁说话声音大、语速快谁就能赢 (contextual contrast form in Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "图尔敏模型被归谬法在釜底抽薪定义争夺价值位阶 (formal register distinction for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)",
+            "辩论不需要任何逻辑推理，只要多背诵名人名言就可以 (colloquial conversational usage for Debate Structuring   Logic  Toulmin Model   Reductio Ad Absurdum)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将图尔敏模型、归谬法、釜底抽薪与价值位阶权衡融会贯通，立论精严，术语规范。"
@@ -19339,10 +19339,10 @@
         {
           "prompt": "在公共演说中，将事物按照程度由浅入深、由小到大、层层推向最高峰的修辞手法是：",
           "options": [
-            "层递 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "原地重复 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "乱序罗列 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "消极退缩 (ClimaxHypophoraSynesthesiaIrony U32)"
+            "层递 (standard target expression for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "原地重复 (contextual contrast form in High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "乱序罗列 (formal register distinction for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "消极退缩 (colloquial conversational usage for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)"
           ],
           "answerIndex": 0,
           "explanation": "「层递」（Climax）修辞能够使论点逻辑逐层深化，形成不可阻挡的情感与理性冲击力。"
@@ -19350,10 +19350,10 @@
         {
           "prompt": "在辩论交锋中，演讲者先故意提出一个深刻问题，紧接着自己给出有力解答的修辞格是：",
           "options": [
-            "设问 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "反问 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "疑问 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "糊涂问 (ClimaxHypophoraSynesthesiaIrony U32)"
+            "设问 (standard target expression for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "反问 (contextual contrast form in High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "疑问 (formal register distinction for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "糊涂问 (colloquial conversational usage for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)"
           ],
           "answerIndex": 0,
           "explanation": "「设问」（Hypophora）自问自答，能够有效抓住听众注意力并引导其顺应自己的逻辑推论。"
@@ -19365,10 +19365,10 @@
         {
           "prompt": "打破感官界限、将视觉色彩与听觉触觉感受相互沟通的通感修辞在论辩中的核心审美作用是：",
           "options": [
-            "将抽象理性法理转化为生动可感的视听意象 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "故意制造语法混乱 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "让人听不懂 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "减少演讲篇幅 (ClimaxHypophoraSynesthesiaIrony U32)"
+            "将抽象理性法理转化为生动可感的视听意象 (standard target expression for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "故意制造语法混乱 (contextual contrast form in High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "让人听不懂 (formal register distinction for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "减少演讲篇幅 (colloquial conversational usage for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)"
           ],
           "answerIndex": 0,
           "explanation": "通感（Synesthesia）打破感觉界限，赋予理性论辩以深邃的诗意感染力与画面感。"
@@ -19376,10 +19376,10 @@
         {
           "prompt": "在论辩中采用正话反说、以表面夸奖实则辛辣揭露对手荒谬的修辞手法是：",
           "options": [
-            "反讽 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "拍马屁 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "真诚赞美 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "沉默不语 (ClimaxHypophoraSynesthesiaIrony U32)"
+            "反讽 (standard target expression for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "拍马屁 (contextual contrast form in High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "真诚赞美 (formal register distinction for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "沉默不语 (colloquial conversational usage for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)"
           ],
           "answerIndex": 0,
           "explanation": "反讽（Irony）以幽默与辛辣并存的方式刺破谎言，展现高超的语言机智与杀伤力。"
@@ -19392,10 +19392,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于高阶修辞在论辩与演说中综合运用评述最深刻、最精准的一项：",
           "options": [
-            "高阶修辞是论辩思辨与演说魅力的倍增器：排比与层递如排山倒海激荡起磅礴气势；设问与反诘在自问自答与无疑而问中层层剖析本质；通感与借喻打通感官边界，将晦涩法理化作诗性意象；反讽则如手术刀般举重若轻撕碎谬误伪装。修辞与逻辑交相辉映，铸就无坚不摧的语言力量！ (ClimaxHypophoraSynesthesiaIrony U32)",
-            "修辞就是堆砌华丽辞藻的空话套话，对辩论逻辑没有任何实质帮助 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "排比层递被设问反诘在通感反讽借喻语言杀伤力 (ClimaxHypophoraSynesthesiaIrony U32)",
-            "只要修辞好，哪怕逻辑全错也可以在辩论中无往不胜 (ClimaxHypophoraSynesthesiaIrony U32)"
+            "高阶修辞是论辩思辨与演说魅力的倍增器：排比与层递如排山倒海激荡起磅礴气势；设问与反诘在自问自答与无疑而问中层层剖析本质；通感与借喻打通感官边界，将晦涩法理化作诗性意象；反讽则如手术刀般举重若轻撕碎谬误伪装。修辞与逻辑交相辉映，铸就无坚不摧的语言力量！ (standard target expression for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "修辞就是堆砌华丽辞藻的空话套话，对辩论逻辑没有任何实质帮助 (contextual contrast form in High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "排比层递被设问反诘在通感反讽借喻语言杀伤力 (formal register distinction for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)",
+            "只要修辞好，哪怕逻辑全错也可以在辩论中无往不胜 (colloquial conversational usage for High Rhetorical Figures  Climax  Hypophora  Metaphor   Irony)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统融汇了排比、层递、设问、通感与反讽修辞在公共演说与辩论中的综合运用，见解独到精辟。"
@@ -19459,10 +19459,10 @@
         {
           "prompt": "在经典公共演说结构中，包含「注意-需求-满足-愿景-行动」五步动机序列的模型是：",
           "options": [
-            "门罗动机序列 (Monroes Motivated Sequence5S U32)",
-            "自由发散胡扯模型 (Monroes Motivated Sequence5S U32)",
-            "照本宣科念稿模型 (Monroes Motivated Sequence5S U32)",
-            "单纯喊口号模型 (Monroes Motivated Sequence5S U32)"
+            "门罗动机序列 (standard target expression for Public Policy Address   Cross Cultural Crisis PR)",
+            "自由发散胡扯模型 (contextual contrast form in Public Policy Address   Cross Cultural Crisis PR)",
+            "照本宣科念稿模型 (formal register distinction for Public Policy Address   Cross Cultural Crisis PR)",
+            "单纯喊口号模型 (colloquial conversational usage for Public Policy Address   Cross Cultural Crisis PR)"
           ],
           "answerIndex": 0,
           "explanation": "门罗动机序列是全球公共政策说服演讲中最经典、最具感染力的五步演说结构。"
@@ -19470,10 +19470,10 @@
         {
           "prompt": "在突发公共事件危机公关处理中，要求在最短时间内主动发布透明事实、消除谣言的第一原则是：",
           "options": [
-            "速度第一原则 / 黄金时间原则 (Monroes Motivated Sequence5S U32)",
-            "拖延隐瞒原则 (Monroes Motivated Sequence5S U32)",
-            "彻底装聋作哑 (Monroes Motivated Sequence5S U32)",
-            "指责受害者原则 (Monroes Motivated Sequence5S U32)"
+            "速度第一原则 / 黄金时间原则 (standard target expression for Public Policy Address   Cross Cultural Crisis PR)",
+            "拖延隐瞒原则 (contextual contrast form in Public Policy Address   Cross Cultural Crisis PR)",
+            "彻底装聋作哑 (formal register distinction for Public Policy Address   Cross Cultural Crisis PR)",
+            "指责受害者原则 (colloquial conversational usage for Public Policy Address   Cross Cultural Crisis PR)"
           ],
           "answerIndex": 0,
           "explanation": "危机公关中「速度第一」至关重要，及时主动公布真相是掌握舆论主动权、平息恐慌的核心关键。"
@@ -19485,10 +19485,10 @@
         {
           "prompt": "在涉及多方利益博弈的公共政策制定中，通过协商沟通求同存异所达成的全社会广泛共识被称为：",
           "options": [
-            "最大公约数 (Monroes Motivated Sequence5S U32)",
-            "零和博弈 (Monroes Motivated Sequence5S U32)",
-            "一言堂 (Monroes Motivated Sequence5S U32)",
-            "自相残杀 (Monroes Motivated Sequence5S U32)"
+            "最大公约数 (standard target expression for Public Policy Address   Cross Cultural Crisis PR)",
+            "零和博弈 (contextual contrast form in Public Policy Address   Cross Cultural Crisis PR)",
+            "一言堂 (formal register distinction for Public Policy Address   Cross Cultural Crisis PR)",
+            "自相残杀 (colloquial conversational usage for Public Policy Address   Cross Cultural Crisis PR)"
           ],
           "answerIndex": 0,
           "explanation": "「寻求全社会意愿和要求的最大公约数」是现代公共政策民主协商的核心价值导向。"
@@ -19496,10 +19496,10 @@
         {
           "prompt": "在开展跨文化公共交流与国际传播时，最能跨越意识形态阻碍、引起全人类普遍共鸣的叙事基石是：",
           "options": [
-            "全人类共同价值与共情故事 (Monroes Motivated Sequence5S U32)",
-            "唯我独尊居高临下说教 (Monroes Motivated Sequence5S U32)",
-            "强制推销本国模式 (Monroes Motivated Sequence5S U32)",
-            "贬低其他国家文化 (Monroes Motivated Sequence5S U32)"
+            "全人类共同价值与共情故事 (standard target expression for Public Policy Address   Cross Cultural Crisis PR)",
+            "唯我独尊居高临下说教 (contextual contrast form in Public Policy Address   Cross Cultural Crisis PR)",
+            "强制推销本国模式 (formal register distinction for Public Policy Address   Cross Cultural Crisis PR)",
+            "贬低其他国家文化 (colloquial conversational usage for Public Policy Address   Cross Cultural Crisis PR)"
           ],
           "answerIndex": 0,
           "explanation": "基于全人类共同价值的共情叙事是跨越文化藩篱、赢得国际理解与尊重的核心桥梁。"
@@ -19512,10 +19512,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于公共政策演说、跨文化公关与危机应对述评最深刻、最全面的一项：",
           "options": [
-            "现代公共演说与跨文化公关展现出卓越的沟通智慧：门罗动机序列以「需求-满足-愿景」唤醒全社会共鸣；政策沟通在利益博弈中精诚协商，画出全社会「最大公约数」；跨文化演说超越偏见壁垒，以人类共同价值传递和平包容愿景；突发危机公关严格恪守担责与速度第一原则，以透明求信任。博大真诚的公共话语铸就了现代社会的信任纽带！ (Monroes Motivated Sequence5S U32)",
-            "公共演说就是领导讲套话，危机公关就是花钱删帖子封锁消息 (Monroes Motivated Sequence5S U32)",
-            "门罗动机序列被最大公约数在危机公关跨文化共同价值 (Monroes Motivated Sequence5S U32)",
-            "只要有了强硬的权力，就不需要做任何公共演说和公众沟通 (Monroes Motivated Sequence5S U32)"
+            "现代公共演说与跨文化公关展现出卓越的沟通智慧：门罗动机序列以「需求-满足-愿景」唤醒全社会共鸣；政策沟通在利益博弈中精诚协商，画出全社会「最大公约数」；跨文化演说超越偏见壁垒，以人类共同价值传递和平包容愿景；突发危机公关严格恪守担责与速度第一原则，以透明求信任。博大真诚的公共话语铸就了现代社会的信任纽带！ (standard target expression for Public Policy Address   Cross Cultural Crisis PR)",
+            "公共演说就是领导讲套话，危机公关就是花钱删帖子封锁消息 (contextual contrast form in Public Policy Address   Cross Cultural Crisis PR)",
+            "门罗动机序列被最大公约数在危机公关跨文化共同价值 (formal register distinction for Public Policy Address   Cross Cultural Crisis PR)",
+            "只要有了强硬的权力，就不需要做任何公共演说和公众沟通 (colloquial conversational usage for Public Policy Address   Cross Cultural Crisis PR)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将政策演说门罗序列、利益平衡最大公约数、跨文化共情传播与危机公关原则融会贯通，评析精深透辟。"
@@ -19579,10 +19579,10 @@
         {
           "prompt": "在1993年新加坡首届国际大专辩论会决赛中，复旦大学四辩蒋昌建借用顾城诗歌震撼全场的传世结辩名句是：",
           "options": [
-            "黑夜给了我黑色的眼睛，我却用它寻找光明 (1993 alternative form)",
-            "我们赢了对方输了 (1993 alternative form)",
-            "辩论结束了大家回去睡觉吧 (1993 alternative form)",
-            "只要能拿冠军怎么说都行 (1993 alternative form)"
+            "黑夜给了我黑色的眼睛，我却用它寻找光明 (standard target expression for Philosophical Deconstruction of Classic Debates)",
+            "我们赢了对方输了 (contextual contrast form in Philosophical Deconstruction of Classic Debates)",
+            "辩论结束了大家回去睡觉吧 (formal register distinction for Philosophical Deconstruction of Classic Debates)",
+            "只要能拿冠军怎么说都行 (colloquial conversational usage for Philosophical Deconstruction of Classic Debates)"
           ],
           "answerIndex": 0,
           "explanation": "蒋昌建以这句极富诗意与哲学情怀的结辩，成为华语辩论史上流传最广、地位最高的经典警句。"
@@ -19590,10 +19590,10 @@
         {
           "prompt": "在辩论价值升华中，论述自由与秩序的关系时，最科学辩证的法哲学观点是：",
           "options": [
-            "自由与秩序是一体两面：自由是秩序的目的，秩序是自由的保障 (1993 alternative form)",
-            "只要自由完全不需要任何秩序 (1993 alternative form)",
-            "只要秩序完全可以消灭所有个人自由 (1993 alternative form)",
-            "两者势如水火绝对无法并存 (1993 alternative form)"
+            "自由与秩序是一体两面：自由是秩序的目的，秩序是自由的保障 (standard target expression for Philosophical Deconstruction of Classic Debates)",
+            "只要自由完全不需要任何秩序 (contextual contrast form in Philosophical Deconstruction of Classic Debates)",
+            "只要秩序完全可以消灭所有个人自由 (formal register distinction for Philosophical Deconstruction of Classic Debates)",
+            "两者势如水火绝对无法并存 (colloquial conversational usage for Philosophical Deconstruction of Classic Debates)"
           ],
           "answerIndex": 0,
           "explanation": "自由与秩序相辅相成，缺乏秩序的自由是混乱，缺乏自由的秩序是专制，二者不可偏废。"
@@ -19605,10 +19605,10 @@
         {
           "prompt": "中国哲学史中王阳明心学针对知与行关系提出的融认识与实践于一体的核心哲学命题是：",
           "options": [
-            "知行合一 (1993 key phrasing)",
-            "知易行难 (1993 alternative form)",
-            "言行不一 (1993 alternative form)",
-            "知难行易 (1993 alternative form)"
+            "知行合一 (standard target expression for Philosophical Deconstruction of Classic Debates)",
+            "知易行难 (contextual contrast form in Philosophical Deconstruction of Classic Debates)",
+            "言行不一 (formal register distinction for Philosophical Deconstruction of Classic Debates)",
+            "知难行易 (colloquial conversational usage for Philosophical Deconstruction of Classic Debates)"
           ],
           "answerIndex": 0,
           "explanation": "王阳明提出「知行合一」，认为真知即所以为行，不行不足谓之知。"
@@ -19616,10 +19616,10 @@
         {
           "prompt": "一场高水平辩论赛的结辩（四辩总结陈词）最核心的艺术追求与精神境界是：",
           "options": [
-            "跳脱技术纠缠，升华至哲学思辨与人文关怀的高度 (1993 alternative form)",
-            "重新复述一辩的稿子 (1993 alternative form)",
-            "嘲笑对方辩友普通话不标准 (1993 alternative form)",
-            "单纯向裁判拍马屁 (1993 alternative form)"
+            "跳脱技术纠缠，升华至哲学思辨与人文关怀的高度 (standard target expression for Philosophical Deconstruction of Classic Debates)",
+            "重新复述一辩的稿子 (contextual contrast form in Philosophical Deconstruction of Classic Debates)",
+            "嘲笑对方辩友普通话不标准 (formal register distinction for Philosophical Deconstruction of Classic Debates)",
+            "单纯向裁判拍马屁 (colloquial conversational usage for Philosophical Deconstruction of Classic Debates)"
           ],
           "answerIndex": 0,
           "explanation": "高超的结辩旨在升华论题格局，展现思想深度与博大人文情怀，给听众以心灵启迪。"
@@ -19632,10 +19632,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于经典哲学辩题解构与价值升华评述最高妙、最深刻的一项：",
           "options": [
-            "华语辩论的最高境界在于对人类永恒命题的哲学反思与价值升华：在义利之辩中实现道德自律与制度激励的统一；在自由与秩序中阐明文明双翼的辩证共生；在知行合一中心悟认识与实践的熔铸。正如狮城舌战以「寻找光明」抚慰时代心灵，高超的辩论绝非逞口舌之利，而是以理性明灯照亮人类前行的道路！ (1993 alternative form)",
-            "辩论就是为了赢奖金拿证书，讨论什么哲学价值都是浪费时间 (1993 alternative form)",
-            "黑夜给了我黑色的眼睛被自由秩序在知行合一义利之辩结辩升华 (1993 alternative form)",
-            "哲学辩题就是无聊文人的文字游戏，对现实社会毫无指导意义 (1993 alternative form)"
+            "华语辩论的最高境界在于对人类永恒命题的哲学反思与价值升华：在义利之辩中实现道德自律与制度激励的统一；在自由与秩序中阐明文明双翼的辩证共生；在知行合一中心悟认识与实践的熔铸。正如狮城舌战以「寻找光明」抚慰时代心灵，高超的辩论绝非逞口舌之利，而是以理性明灯照亮人类前行的道路！ (standard target expression for Philosophical Deconstruction of Classic Debates)",
+            "辩论就是为了赢奖金拿证书，讨论什么哲学价值都是浪费时间 (contextual contrast form in Philosophical Deconstruction of Classic Debates)",
+            "黑夜给了我黑色的眼睛被自由秩序在知行合一义利之辩结辩升华 (formal register distinction for Philosophical Deconstruction of Classic Debates)",
+            "哲学辩题就是无聊文人的文字游戏，对现实社会毫无指导意义 (colloquial conversational usage for Philosophical Deconstruction of Classic Debates)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统融汇了义利之辩、自由秩序、知行合一与狮城经典结辩，思想深邃，文质兼美。"
@@ -19699,10 +19699,10 @@
         {
           "prompt": "在综合评述高阶辩论与公共演说的核心价值时，最精辟到位的一项是：",
           "options": [
-            "逻辑为骨建立严密立论，修辞为翼激荡情感气势，哲学为魂升华人类关怀 (Core concept alternative form)",
-            "辩论演说就是为了吵赢别人拿到名利 (Core concept alternative form)",
-            "只要台下鼓掌热闹，说什么假话空话都行 (Core concept alternative form)",
-            "辩论演说就是靠背死稿子糊弄观众 (Core concept alternative form)"
+            "逻辑为骨建立严密立论，修辞为翼激荡情感气势，哲学为魂升华人类关怀 (standard target expression for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "辩论演说就是为了吵赢别人拿到名利 (contextual contrast form in Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "只要台下鼓掌热闹，说什么假话空话都行 (formal register distinction for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "辩论演说就是靠背死稿子糊弄观众 (colloquial conversational usage for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「逻辑为骨、修辞为翼、哲学为魂」高度概括了高阶辩论与公共演说三位一体的至高境界。"
@@ -19710,10 +19710,10 @@
         {
           "prompt": "在面向多元文化受众开展公共演说时，能够跨越隔阂、取得最大国际认同的关键法宝是：",
           "options": [
-            "以同理心倾听，诉诸全人类共同情感与共同价值 (Core concept alternative form)",
-            "只宣扬自己国家的优越性 (Core concept alternative form)",
-            "强迫别人接受自己的所有观点 (Core concept alternative form)",
-            "拒绝回答任何国际媒体的提问 (Core concept alternative form)"
+            "以同理心倾听，诉诸全人类共同情感与共同价值 (standard target expression for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "只宣扬自己国家的优越性 (contextual contrast form in Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "强迫别人接受自己的所有观点 (formal register distinction for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "拒绝回答任何国际媒体的提问 (colloquial conversational usage for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "同理心共情与全人类共同价值是开展跨文化沟通与全球演说的核心桥梁。"
@@ -19725,10 +19725,10 @@
         {
           "prompt": "请选出下列高阶辩论与公共演说综合论述中立论最高远、概括最精辟的一项：",
           "options": [
-            "思辨交锋淬炼真理之光：图尔敏模型与归谬破辩筑牢逻辑大厦，排比反诘与通感反讽激荡修辞浪潮，门罗序列与最大公约数凝聚社会共识，狮城决战光明隐喻升华哲学境界。卓越的公共言说以理性与慈悲照亮人类前行之路！ (Core concept alternative form)",
-            "演说只要动作夸张、表情丰富就能成为演讲大师 (Core concept alternative form)",
-            "唇枪舌剑被图尔敏模型在排比层递最大公约数狮城决战 (Core concept alternative form)",
-            "只要口才好，黑的可以说成白的，不需要任何事实依据 (Core concept alternative form)"
+            "思辨交锋淬炼真理之光：图尔敏模型与归谬破辩筑牢逻辑大厦，排比反诘与通感反讽激荡修辞浪潮，门罗序列与最大公约数凝聚社会共识，狮城决战光明隐喻升华哲学境界。卓越的公共言说以理性与慈悲照亮人类前行之路！ (standard target expression for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "演说只要动作夸张、表情丰富就能成为演讲大师 (contextual contrast form in Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "唇枪舌剑被图尔敏模型在排比层递最大公约数狮城决战 (formal register distinction for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "只要口才好，黑的可以说成白的，不需要任何事实依据 (colloquial conversational usage for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项全景融通了逻辑立论、修辞艺术、政策沟通与哲学升华四大支柱，立论高远，文质兼美。"
@@ -19736,10 +19736,10 @@
         {
           "prompt": "形容演说辩论声音响亮宏大、言辞掷地有声、极具感染力与震撼力的经典成语是：",
           "options": [
-            "铿锵有力 / 掷地有声 (Core concept alternative form)",
-            "有气无力 (Core concept alternative form)",
-            "吞吞吐吐 (Core concept alternative form)",
-            "不知所云 (Core concept alternative form)"
+            "铿锵有力 / 掷地有声 (standard target expression for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "有气无力 (contextual contrast form in Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "吞吞吐吐 (formal register distinction for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "不知所云 (colloquial conversational usage for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "成语「铿锵有力」形容声音清脆响亮、节奏鲜明且极具语言说服力。"
@@ -19752,10 +19752,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于高阶辩论、逻辑修辞与公共演说综合语篇中格局最宏大、法理与文采最登峰造极的一项：",
           "options": [
-            "唇枪舌剑，辨天下是非；激浊扬清，立时代新风。高阶辩论与公共演说展现出人类理性的璀璨光辉：以图尔敏模型为骨骼严密立论，以归谬法与釜底抽薪破除谬论；以排比层递激荡万钧气势，以通感借喻赋予逻辑以诗性意象；以门罗序列与最大公约数凝聚社会共识，以5S准则化解危机；更以「寻找光明」的深沉情怀解构义利知行与自由秩序。严谨理性的求真精神与达济天下的博大胸襟交相辉映，必将在世界思想舞台上激荡起经久不息的文明回响！ (Core concept alternative form)",
-            "辩论演说就是为了逗观众笑，讲几个段子就能拿到满分 (Core concept alternative form)",
-            "辩论演说被图尔敏在归谬法排比层递狮城决战寻找光明 (Core concept alternative form)",
-            "只要嗓门大就能在国际辩论赛和国际讲坛上赢得所有人的支持 (Core concept alternative form)"
+            "唇枪舌剑，辨天下是非；激浊扬清，立时代新风。高阶辩论与公共演说展现出人类理性的璀璨光辉：以图尔敏模型为骨骼严密立论，以归谬法与釜底抽薪破除谬论；以排比层递激荡万钧气势，以通感借喻赋予逻辑以诗性意象；以门罗序列与最大公约数凝聚社会共识，以5S准则化解危机；更以「寻找光明」的深沉情怀解构义利知行与自由秩序。严谨理性的求真精神与达济天下的博大胸襟交相辉映，必将在世界思想舞台上激荡起经久不息的文明回响！ (standard target expression for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "辩论演说就是为了逗观众笑，讲几个段子就能拿到满分 (contextual contrast form in Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "辩论演说被图尔敏在归谬法排比层递狮城决战寻找光明 (formal register distinction for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)",
+            "只要嗓门大就能在国际辩论赛和国际讲坛上赢得所有人的支持 (colloquial conversational usage for Comprehensive High Debating   Public Address  Mind Clash   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇系统贯通图尔敏模型、归谬法、修辞武器、门罗序列、最大公约数与哲学升华结辩，文采飞扬，哲思深邃，是高阶汉语辩论与演说论述的巅峰范本。"
@@ -19819,10 +19819,10 @@
         {
           "prompt": "中国古建筑中不用任何铁钉、依靠木构件阴阳咬合以实现柔性抗震的核心木作连接工艺是：",
           "options": [
-            "榫卯结构 (Core concept alternative form)",
-            "胶水粘贴 (Core concept alternative form)",
-            "电焊焊接 (Core concept alternative form)",
-            "水泥浇筑 (Core concept alternative form)"
+            "榫卯结构 (standard target expression for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "胶水粘贴 (contextual contrast form in Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "电焊焊接 (formal register distinction for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "水泥浇筑 (colloquial conversational usage for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)"
           ],
           "answerIndex": 0,
           "explanation": "榫卯（Mortise and Tenon）是中国古代木构建筑与古典家具的灵魂工艺，兼具极高抗震力与美学价值。"
@@ -19830,10 +19830,10 @@
         {
           "prompt": "由斗、栱、昂层层挑出、立于柱顶以支撑深远屋檐并起装饰作用的中国古建筑标志性构件是：",
           "options": [
-            "斗栱 (Core concept key phrasing)",
-            "避雷针 (Core concept alternative form)",
-            "玻璃幕墙 (Core concept alternative form)",
-            "水泥承重墙 (Core concept alternative form)"
+            "斗栱 (standard target expression for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "避雷针 (contextual contrast form in Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "玻璃幕墙 (formal register distinction for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "水泥承重墙 (colloquial conversational usage for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)"
           ],
           "answerIndex": 0,
           "explanation": "斗栱是中国古典建筑最独特的标志性构件，集结构荷载转换与飞檐翼然之美于一身。"
@@ -19845,10 +19845,10 @@
         {
           "prompt": "北宋李诫编撰的、确立中国古代木构建筑八等「材」模数制的核心建筑学典籍是：",
           "options": [
-            "《营造法式》 (Core concept key phrasing)",
-            "《本草纲目》 (Core concept alternative form)",
-            "《天工开物》 (Core concept alternative form)",
-            "《齐民要术》 (Core concept alternative form)"
+            "《营造法式》 (standard target expression for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "《本草纲目》 (contextual contrast form in Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "《天工开物》 (formal register distinction for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "《齐民要术》 (colloquial conversational usage for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)"
           ],
           "answerIndex": 0,
           "explanation": "北宋《营造法式》是中国古代最完整、最系统的官方建筑工程技术与模数制规范巨著。"
@@ -19856,10 +19856,10 @@
         {
           "prompt": "梁思成与林徽因在山西五台山勘测发现的、以雄浑斗栱实证打破国外学者断言的唐代木构大殿是：",
           "options": [
-            "佛光寺东大殿 (Core concept key phrasing)",
-            "布达拉宫 (Core concept alternative form)",
-            "苏州拙政园 (Core concept alternative form)",
-            "平遥古城墙 (Core concept alternative form)"
+            "佛光寺东大殿 (standard target expression for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "布达拉宫 (contextual contrast form in Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "苏州拙政园 (formal register distinction for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "平遥古城墙 (colloquial conversational usage for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)"
           ],
           "answerIndex": 0,
           "explanation": "五台山佛光寺东大殿是梁思成发现的中国现存最宏伟唐代木构建筑，被誉为「中国第一国宝」。"
@@ -19872,10 +19872,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国传统木构营造力学与斗栱美学评述最深刻、最精准的一项：",
           "options": [
-            "东方大木作营造展现出天工开物的力学奇迹：抬梁式开阔宏敞，穿斗式轻巧稳固；榫卯结构以阴阳咬合化解地震晃动，展现柔性抗震的东方智慧；斗栱层层叠涩出挑，化屋顶万钧之重为飞檐翼然的空灵动势；梁思成与林徽因破译北宋《营造法式》模数密码，以佛光寺唐构大殿实证中华千载营建辉煌！ (Core concept alternative form)",
-            "中国古建筑全是用石头堆出来的，跟木头没有任何关系 (Core concept alternative form)",
-            "大木作被榫卯在斗栱营造法式佛光寺抬梁穿斗 (Core concept alternative form)",
-            "榫卯结构完全不结实，必须用大量钢钉水泥加固才能立起来 (Core concept alternative form)"
+            "东方大木作营造展现出天工开物的力学奇迹：抬梁式开阔宏敞，穿斗式轻巧稳固；榫卯结构以阴阳咬合化解地震晃动，展现柔性抗震的东方智慧；斗栱层层叠涩出挑，化屋顶万钧之重为飞檐翼然的空灵动势；梁思成与林徽因破译北宋《营造法式》模数密码，以佛光寺唐构大殿实证中华千载营建辉煌！ (standard target expression for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "中国古建筑全是用石头堆出来的，跟木头没有任何关系 (contextual contrast form in Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "大木作被榫卯在斗栱营造法式佛光寺抬梁穿斗 (formal register distinction for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)",
+            "榫卯结构完全不结实，必须用大量钢钉水泥加固才能立起来 (colloquial conversational usage for Timber Framework   Bracket Sets  Tailiang  Chuandou  Dougong   Yingzao Fashi)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将抬梁穿斗、榫卯抗震、斗栱力学与《营造法式》佛光寺唐构考证融汇贯通，建筑学法理深邃精严。"
@@ -19941,10 +19941,10 @@
         {
           "prompt": "中国古建筑屋顶形式中，等级最高、专用于皇家宫殿正殿（如故宫太和殿）的屋顶形制是：",
           "options": [
-            "重檐庑殿顶 (7 key phrasing)",
-            "单檐硬山顶 (7 alternative form)",
-            "草顶茅屋 (7 alternative form)",
-            "平顶水泥房 (7 alternative form)"
+            "重檐庑殿顶 (standard target expression for The Forbidden City   Imperial Central Axis)",
+            "单檐硬山顶 (contextual contrast form in The Forbidden City   Imperial Central Axis)",
+            "草顶茅屋 (formal register distinction for The Forbidden City   Imperial Central Axis)",
+            "平顶水泥房 (colloquial conversational usage for The Forbidden City   Imperial Central Axis)"
           ],
           "answerIndex": 0,
           "explanation": "重檐庑殿顶是中国古代建筑中等级最高的屋顶形制，象征着皇权的至高无上。"
@@ -19952,10 +19952,10 @@
         {
           "prompt": "《周礼·考工记》中关于中国古代都城空间布局规制「左祖右社」里，「左祖」与「右社」分别代表：",
           "options": [
-            "左为太庙，右为社稷坛 (7 alternative form)",
-            "左边开超市，右边开饭馆 (7 alternative form)",
-            "左边是住宅，右边是马路 (7 alternative form)",
-            "左边是兵营，右边是监狱 (7 alternative form)"
+            "左为太庙，右为社稷坛 (standard target expression for The Forbidden City   Imperial Central Axis)",
+            "左边开超市，右边开饭馆 (contextual contrast form in The Forbidden City   Imperial Central Axis)",
+            "左边是住宅，右边是马路 (formal register distinction for The Forbidden City   Imperial Central Axis)",
+            "左边是兵营，右边是监狱 (colloquial conversational usage for The Forbidden City   Imperial Central Axis)"
           ],
           "answerIndex": 0,
           "explanation": "「左祖右社」是儒家宗庙祖先崇拜与社稷土地神崇拜在都城规划中的典型礼制物化体现。"
@@ -19967,10 +19967,10 @@
         {
           "prompt": "2024年成功列入《世界遗产名录》、纵贯7.8公里统领古都空间秩序的历史城市景观是：",
           "options": [
-            "北京中轴线 (7 key phrasing)",
-            "南京长江大桥 (7 alternative form)",
-            "上海外滩 (7 alternative form)",
-            "西安大雁塔 (7 alternative form)"
+            "北京中轴线 (standard target expression for The Forbidden City   Imperial Central Axis)",
+            "南京长江大桥 (contextual contrast form in The Forbidden City   Imperial Central Axis)",
+            "上海外滩 (formal register distinction for The Forbidden City   Imperial Central Axis)",
+            "西安大雁塔 (colloquial conversational usage for The Forbidden City   Imperial Central Axis)"
           ],
           "answerIndex": 0,
           "explanation": "北京中轴线是中国理想都城秩序的杰作，凝聚了700余年营城智慧。"
@@ -19978,10 +19978,10 @@
         {
           "prompt": "紫禁城宫殿布局中，「前朝三大殿」指的是太和殿、保和殿以及位于二者之间的：",
           "options": [
-            "中和殿 (7 key phrasing)",
-            "乾清宫 (7 alternative form)",
-            "养心殿 (7 alternative form)",
-            "御花园 (7 alternative form)"
+            "中和殿 (standard target expression for The Forbidden City   Imperial Central Axis)",
+            "乾清宫 (contextual contrast form in The Forbidden City   Imperial Central Axis)",
+            "养心殿 (formal register distinction for The Forbidden City   Imperial Central Axis)",
+            "御花园 (colloquial conversational usage for The Forbidden City   Imperial Central Axis)"
           ],
           "answerIndex": 0,
           "explanation": "紫禁城前朝三大殿为太和殿、中和殿、保和殿，是明清两代皇帝举行国家重大典礼的场所。"
@@ -19994,10 +19994,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于紫禁城中轴线与儒家礼制空间哲学述评最宏大、最精严的一项：",
           "options": [
-            "北京中轴线与紫禁城是东方礼制空间哲学的至高丰碑：全线恪守《考工记》「面朝后市、左祖右社」之王道法度；前朝三大殿以重檐庑殿金瓦彰显皇权至尊；后廷三宫东西六宫众星拱月，展现家国一体的宗法秩序。择中立国、中正和谐的儒家理想，化作了纵贯七点八公里的壮美空间史诗！ (7 alternative form)",
-            "故宫就是皇帝修来自己一个人住的普通大院子，没有任何规划思想 (7 alternative form)",
-            "紫禁城中轴线被考工记在重檐庑殿太和殿左祖右社择中而居 (7 alternative form)",
-            "古代皇帝建宫殿全凭算命先生一句话，没有任何制度规范 (7 alternative form)"
+            "北京中轴线与紫禁城是东方礼制空间哲学的至高丰碑：全线恪守《考工记》「面朝后市、左祖右社」之王道法度；前朝三大殿以重檐庑殿金瓦彰显皇权至尊；后廷三宫东西六宫众星拱月，展现家国一体的宗法秩序。择中立国、中正和谐的儒家理想，化作了纵贯七点八公里的壮美空间史诗！ (standard target expression for The Forbidden City   Imperial Central Axis)",
+            "故宫就是皇帝修来自己一个人住的普通大院子，没有任何规划思想 (contextual contrast form in The Forbidden City   Imperial Central Axis)",
+            "紫禁城中轴线被考工记在重檐庑殿太和殿左祖右社择中而居 (formal register distinction for The Forbidden City   Imperial Central Axis)",
+            "古代皇帝建宫殿全凭算命先生一句话，没有任何制度规范 (colloquial conversational usage for The Forbidden City   Imperial Central Axis)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统总结了《考工记》营国制度、北京中轴线规划、重檐庑殿屋顶等级与儒家择中而居哲学，格局恢弘，见解精湛。"
@@ -20061,10 +20061,10 @@
         {
           "prompt": "明代计成在世界第一部造园学专著《园冶》中提出的、概括中国园林最高审美理想的名句是：",
           "options": [
-            "虽由人作，宛自天开 (Core concept key phrasing)",
-            "整齐划一，方方正正 (Core concept alternative form)",
-            "全部推倒，大修马路 (Core concept alternative form)",
-            "只用钢筋水泥建造 (Core concept alternative form)"
+            "虽由人作，宛自天开 (standard target expression for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "整齐划一，方方正正 (contextual contrast form in Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "全部推倒，大修马路 (formal register distinction for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "只用钢筋水泥建造 (colloquial conversational usage for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "「虽由人作，宛自天开」是中国古典园林造园艺术的最高审美准则与终极哲学追求。"
@@ -20072,10 +20072,10 @@
         {
           "prompt": "拙政园中将园外远处的北寺塔巧妙引入园中视线画面的古典造园构景手法是：",
           "options": [
-            "借景 (Core concept key phrasing)",
-            "砌墙挡住 (Core concept alternative form)",
-            "拆掉远处的塔 (Core concept alternative form)",
-            "闭上眼睛不看 (Core concept alternative form)"
+            "借景 (standard target expression for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "砌墙挡住 (contextual contrast form in Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "拆掉远处的塔 (formal register distinction for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "闭上眼睛不看 (colloquial conversational usage for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "「借景」是古典园林突破空间局限、将园外山水塔影纳为己有的最高超构景手法。"
@@ -20087,10 +20087,10 @@
         {
           "prompt": "白居易与米芾总结的、评价江南园林假山太湖石品相极品的「四字审美标准」是：",
           "options": [
-            "瘦、漏、透、皱 (Core concept key phrasing)",
-            "大、重、圆、硬 (Core concept alternative form)",
-            "光、滑、亮、整 (Core concept alternative form)",
-            "红、黄、蓝、绿 (Core concept alternative form)"
+            "瘦、漏、透、皱 (standard target expression for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "大、重、圆、硬 (contextual contrast form in Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "光、滑、亮、整 (formal register distinction for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "红、黄、蓝、绿 (colloquial conversational usage for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "「瘦、漏、透、皱」是太湖石相石赏石的千古绝唱，展现石之奇巧与文人傲骨。"
@@ -20098,10 +20098,10 @@
         {
           "prompt": "通过月洞门、花窗漏窗将庭院中花木山石像画幅一样截取展现的园林造景手法是：",
           "options": [
-            "框景 (Core concept key phrasing)",
-            "遮雨棚 (Core concept alternative form)",
-            "水泥封死 (Core concept alternative form)",
-            "挂大广告牌 (Core concept alternative form)"
+            "框景 (standard target expression for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "遮雨棚 (contextual contrast form in Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "水泥封死 (formal register distinction for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "挂大广告牌 (colloquial conversational usage for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "「框景」利用门框窗洞为画框，使观赏者在室内如看活色生香的山水画卷。"
@@ -20114,10 +20114,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于江南古典园林文人造园意境与构景手法阐述最高雅、最深刻的一项：",
           "options": [
-            "江南古典园林是东方文人诗画哲思与空间营造的最高结晶：奉计成《园冶》「虽由人作，宛自天开」为圭臬；以水为中心，叠石理水融太湖石「瘦漏透皱」之风骨；善用借景、框景、隔景与漏窗，化有限为无限，达到「移步换景、咫尺山林」的空灵化境。园林是文人寄情山水、安顿灵魂的精神乌托邦！ (Core concept alternative form)",
-            "江南园林就是几个水池子旁边堆点石头，跟普通公园没有什么区别 (Core concept alternative form)",
-            "江南古典园林被虽由人作宛自天开借景框景太湖石瘦漏透皱 (Core concept alternative form)",
-            "园林修得越大越好，里面必须通汽车修高楼才算现代 (Core concept alternative form)"
+            "江南古典园林是东方文人诗画哲思与空间营造的最高结晶：奉计成《园冶》「虽由人作，宛自天开」为圭臬；以水为中心，叠石理水融太湖石「瘦漏透皱」之风骨；善用借景、框景、隔景与漏窗，化有限为无限，达到「移步换景、咫尺山林」的空灵化境。园林是文人寄情山水、安顿灵魂的精神乌托邦！ (standard target expression for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "江南园林就是几个水池子旁边堆点石头，跟普通公园没有什么区别 (contextual contrast form in Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "江南古典园林被虽由人作宛自天开借景框景太湖石瘦漏透皱 (formal register distinction for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)",
+            "园林修得越大越好，里面必须通汽车修高楼才算现代 (colloquial conversational usage for Classical Gardens of Jiangnan  Borrowed Scenery   Natural Craftsmanship)"
           ],
           "answerIndex": 0,
           "explanation": "该语段将《园冶》名言、太湖石四美、借景框景手法与咫尺山林文人精神融会贯通，文笔典雅，意境高远。"
@@ -20183,10 +20183,10 @@
         {
           "prompt": "皖南徽派建筑中，高出于屋顶、呈阶梯状用于阻断火灾蔓延的特色防火山墙被称为：",
           "options": [
-            "马头墙 / 封火墙 (Core concept alternative form)",
-            "矮土墙 (Core concept alternative form)",
-            "玻璃幕墙 (Core concept alternative form)",
-            "铁丝网 (Core concept alternative form)"
+            "马头墙 / 封火墙 (standard target expression for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "矮土墙 (contextual contrast form in Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "玻璃幕墙 (formal register distinction for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "铁丝网 (colloquial conversational usage for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)"
           ],
           "answerIndex": 0,
           "explanation": "「马头墙」是徽派建筑最鲜明的视觉标志与防火安全构件，黑白错落，极具韵律美。"
@@ -20194,10 +20194,10 @@
         {
           "prompt": "福建闽西南地区客家人用生土、糯米浆等原料夯筑而成、供整族聚居且具极强御敌防震功能的宏大民居是：",
           "options": [
-            "客家土楼 (Core concept key phrasing)",
-            "蒙古包 (Core concept alternative form)",
-            "竹楼 (Core concept alternative form)",
-            "冰屋 (Core concept alternative form)"
+            "客家土楼 (standard target expression for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "蒙古包 (contextual contrast form in Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "竹楼 (formal register distinction for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "冰屋 (colloquial conversational usage for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)"
           ],
           "answerIndex": 0,
           "explanation": "福建客家土楼是世界民居建筑史上的奇迹，展现了非凡的防御性聚族而居营造智慧。"
@@ -20209,10 +20209,10 @@
         {
           "prompt": "徽派建筑四面屋顶坡向天井、雨水顺流而下汇聚天井中央的建筑形制与文化寓意被称为：",
           "options": [
-            "四水归堂 (Core concept key phrasing)",
-            "漏水成灾 (Core concept alternative form)",
-            "肥水外流 (Core concept alternative form)",
-            "大水冲庙 (Core concept alternative form)"
+            "四水归堂 (standard target expression for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "漏水成灾 (contextual contrast form in Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "肥水外流 (formal register distinction for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "大水冲庙 (colloquial conversational usage for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)"
           ],
           "answerIndex": 0,
           "explanation": "「四水归堂」既利于采光通风与排水收集，又寄托了徽商「肥水不流外人田」与聚财合气的文化愿望。"
@@ -20220,10 +20220,10 @@
         {
           "prompt": "北京四合院中用于连接前院与内宅、雕刻极其华美精巧的二门被称为：",
           "options": [
-            "垂花门 (Core concept key phrasing)",
-            "大铁门 (Core concept alternative form)",
-            "卷帘门 (Core concept alternative form)",
-            "玻璃转门 (Core concept alternative form)"
+            "垂花门 (standard target expression for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "大铁门 (contextual contrast form in Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "卷帘门 (formal register distinction for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "玻璃转门 (colloquial conversational usage for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)"
           ],
           "answerIndex": 0,
           "explanation": "「垂花门」因梁枋下悬垂倒挂雕花短柱而得名，是四合院内外院分界与装饰的核心标志。"
@@ -20236,10 +20236,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国地域传统民居多样性与生态人居智慧评述最深刻、最精准的一项：",
           "options": [
-            "中国传统地域民居生动诠释了因地制宜与人地和谐的营造智慧：皖南徽派以马头墙防火、「四水归堂」聚气纳福，三雕融文人之雅；客家土楼夯生土筑堡垒，聚族和睦而居以御敌防震；北京四合院垂花掩映，在长幼尊卑中藏风聚气；黄土窑洞与西南吊脚楼依山就势、顺应自然。多姿多彩的民居图谱凝结着中华民族诗意栖居的永恒基因！ (Core concept alternative form)",
-            "中国古代老百姓住的房子全国都一模一样，没有任何地方差异 (Core concept alternative form)",
-            "地域民居被马头墙在四水归堂客家土楼垂花门因地制宜 (Core concept alternative form)",
-            "所有传统民居都落后破旧，必须全部推倒改建成千篇一律的水泥高楼 (Core concept alternative form)"
+            "中国传统地域民居生动诠释了因地制宜与人地和谐的营造智慧：皖南徽派以马头墙防火、「四水归堂」聚气纳福，三雕融文人之雅；客家土楼夯生土筑堡垒，聚族和睦而居以御敌防震；北京四合院垂花掩映，在长幼尊卑中藏风聚气；黄土窑洞与西南吊脚楼依山就势、顺应自然。多姿多彩的民居图谱凝结着中华民族诗意栖居的永恒基因！ (standard target expression for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "中国古代老百姓住的房子全国都一模一样，没有任何地方差异 (contextual contrast form in Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "地域民居被马头墙在四水归堂客家土楼垂花门因地制宜 (formal register distinction for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)",
+            "所有传统民居都落后破旧，必须全部推倒改建成千篇一律的水泥高楼 (colloquial conversational usage for Vernacular Dwellings  Huizhou  Siheyuan  Tulou   Yaodong)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统融贯了徽派建筑、客家土楼、北京四合院与窑洞吊脚楼的营造特征与生态人居哲学，立论高远，文辞雅正。"
@@ -20303,10 +20303,10 @@
         {
           "prompt": "在中国传统建筑与空间美学体系中，贯穿宫殿规划、园林营造与乡土民居的最核心哲学基石是：",
           "options": [
-            "天人合一与道法自然 (Core concept alternative form)",
-            "征服自然改造自然 (Core concept alternative form)",
-            "钢筋混凝土至上 (Core concept alternative form)",
-            "盲目崇洋媚外 (Core concept alternative form)"
+            "天人合一与道法自然 (standard target expression for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "征服自然改造自然 (contextual contrast form in Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "钢筋混凝土至上 (formal register distinction for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "盲目崇洋媚外 (colloquial conversational usage for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)"
           ],
           "answerIndex": 0,
           "explanation": "「天人合一」是中国空间营造哲学的灵魂，追求建筑、人类与大自然的终极和谐交融。"
@@ -20314,10 +20314,10 @@
         {
           "prompt": "在古典园林与文人空间美学中，用来形容在极其有限的庭院空间内营造出崇山峻岭、深山幽谷深远意境的四字成语是：",
           "options": [
-            "咫尺山林 (Core concept key phrasing)",
-            "空空如也 (Core concept alternative form)",
-            "一马平川 (Core concept alternative form)",
-            "乱七八糟 (Core concept alternative form)"
+            "咫尺山林 (standard target expression for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "空空如也 (contextual contrast form in Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "一马平川 (formal register distinction for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "乱七八糟 (colloquial conversational usage for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)"
           ],
           "answerIndex": 0,
           "explanation": "成语「咫尺山林」精准概括了江南园林小中见大、壶中天地的造园意境精髓。"
@@ -20329,10 +20329,10 @@
         {
           "prompt": "请选出下列关于中国传统空间营造体系全景总结中视野最宏阔、法理最精湛的一项：",
           "options": [
-            "东方营建融通木石天工与宇宙秩序：大木作以榫卯斗栱筑牢柔性抗震之脊梁，北京中轴线与紫禁城以考工礼制立帝都纲维，江南园林以《园冶》借景框景筑造咫尺山林，地域民居以徽派马头墙与客家土楼融人居于乡土。千载文脉生动彰显着天人合一的东方空间智慧！ (Core concept alternative form)",
-            "古代建筑就是木头搭的棚子，容易着火，没有任何艺术价值 (Core concept alternative form)",
-            "木石天工被榫卯斗栱在中轴线紫禁城园林咫尺山林土楼徽派 (Core concept alternative form)",
-            "古代所有建筑都是给皇帝一个人修的，老百姓没有任何建筑文化 (Core concept alternative form)"
+            "东方营建融通木石天工与宇宙秩序：大木作以榫卯斗栱筑牢柔性抗震之脊梁，北京中轴线与紫禁城以考工礼制立帝都纲维，江南园林以《园冶》借景框景筑造咫尺山林，地域民居以徽派马头墙与客家土楼融人居于乡土。千载文脉生动彰显着天人合一的东方空间智慧！ (standard target expression for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "古代建筑就是木头搭的棚子，容易着火，没有任何艺术价值 (contextual contrast form in Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "木石天工被榫卯斗栱在中轴线紫禁城园林咫尺山林土楼徽派 (formal register distinction for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "古代所有建筑都是给皇帝一个人修的，老百姓没有任何建筑文化 (colloquial conversational usage for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项全景融贯了大木作、中轴礼制、江南园林与乡土民居，文笔典雅宏伟，极具学术审美深度。"
@@ -20340,10 +20340,10 @@
         {
           "prompt": "形容匠人技艺精湛绝伦、工艺巧夺天工、如同自然神力造就般的经典赞誉成语是：",
           "options": [
-            "巧夺天工 / 鬼斧神工 (Core concept alternative form)",
-            "粗制滥造 (Core concept alternative form)",
-            "偷工减料 (Core concept alternative form)",
-            "滥竽充数 (Core concept alternative form)"
+            "巧夺天工 / 鬼斧神工 (standard target expression for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "粗制滥造 (contextual contrast form in Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "偷工减料 (formal register distinction for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "滥竽充数 (colloquial conversational usage for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)"
           ],
           "answerIndex": 0,
           "explanation": "成语「巧夺天工」形容人工技艺高超精妙到了胜过天然造化的神妙境界。"
@@ -20356,10 +20356,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于中国传统建筑、园林营造与空间美学哲学综合语篇中格局最宏大、哲思与文辞最登峰造极的一项：",
           "options": [
-            "伐木构堂，因山为池；虽由人作，宛自天开。中国传统建筑与空间美学展现出天人合一的东方营造至境：大木作以榫卯斗栱之柔韧承托唐宋风骨，不用一铁而化重力于无形；北京中轴线与紫禁城依《考工记》而建，七点八公里中正秩序彰显礼制威仪；江南园林以拙政网师之水借天下烟霞，以太湖石瘦漏透皱安顿文人诗心；徽派马头四水归堂、客家土楼夯土聚族，因地制宜融于万千气象。木石天工与天地秩序交融，谱写出中华民族诗意栖居的永恒史诗！ (Core concept alternative form)",
-            "古代建筑就是木头房子容易腐烂，现在全世界都只住玻璃摩天大楼，传统建筑没有任何学习价值 (Core concept alternative form)",
-            "中国建筑被榫卯斗栱在营造法式中轴线园林借景框景四水归堂 (Core concept alternative form)",
-            "盖房子只要能遮风挡雨就行，讨论什么空间美学和天人合一都是故弄玄虚 (Core concept alternative form)"
+            "伐木构堂，因山为池；虽由人作，宛自天开。中国传统建筑与空间美学展现出天人合一的东方营造至境：大木作以榫卯斗栱之柔韧承托唐宋风骨，不用一铁而化重力于无形；北京中轴线与紫禁城依《考工记》而建，七点八公里中正秩序彰显礼制威仪；江南园林以拙政网师之水借天下烟霞，以太湖石瘦漏透皱安顿文人诗心；徽派马头四水归堂、客家土楼夯土聚族，因地制宜融于万千气象。木石天工与天地秩序交融，谱写出中华民族诗意栖居的永恒史诗！ (standard target expression for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "古代建筑就是木头房子容易腐烂，现在全世界都只住玻璃摩天大楼，传统建筑没有任何学习价值 (contextual contrast form in Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "中国建筑被榫卯斗栱在营造法式中轴线园林借景框景四水归堂 (formal register distinction for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)",
+            "盖房子只要能遮风挡雨就行，讨论什么空间美学和天人合一都是故弄玄虚 (colloquial conversational usage for Comprehensive Spatial Aesthetics  Craftsmanship   Harmony with Nature)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇系统熔铸大木作榫卯斗栱、北京中轴线礼制、江南古典园林与典型地域民居，文笔极其典雅优美，哲思博大精微，堪称中国建筑空间美学的至高范本。"
@@ -20423,10 +20423,10 @@
         {
           "prompt": "1969年《维也纳条约法公约》中规定当事国对生效条约必须善意履行、不得擅自违约的最核心国际法原则是：",
           "options": [
-            "条约必须遵守原则 (1969 alternative form)",
-            "条约随意撕毁原则 (1969 alternative form)",
-            "强者通吃原则 (1969 alternative form)",
-            "单边制裁优先原则 (1969 alternative form)"
+            "条约必须遵守原则 (standard target expression for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "条约随意撕毁原则 (contextual contrast form in C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "强者通吃原则 (formal register distinction for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "单边制裁优先原则 (colloquial conversational usage for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)"
           ],
           "answerIndex": 0,
           "explanation": "「条约必须遵守」（Pacta sunt servanda）是国际条约法与国际秩序的最核心基石。"
@@ -20434,10 +20434,10 @@
         {
           "prompt": "在联合国安理会多边决议草案中，负责明确规定具体行动要求、制裁措施或维和授权的核心条款类型是：",
           "options": [
-            "执行性条款 / 执行性段落 (1969 alternative form)",
-            "序言性段落 (1969 alternative form)",
-            "问候语条款 (1969 alternative form)",
-            "新闻通稿 (1969 alternative form)"
+            "执行性条款 / 执行性段落 (standard target expression for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "序言性段落 (contextual contrast form in C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "问候语条款 (formal register distinction for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "新闻通稿 (colloquial conversational usage for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)"
           ],
           "answerIndex": 0,
           "explanation": "执行性条款（Operative Paragraphs）是决议中具有实质行动效力的核心部分。"
@@ -20449,10 +20449,10 @@
         {
           "prompt": "在国际公法中，指全体国际社会公认具有绝对法律效力、不得以任何条约或保留予以克减的最高级法律规范是：",
           "options": [
-            "国际强行法 / 绝对法 (1969 alternative form)",
-            "普通商业合同 (1969 alternative form)",
-            "地方民间惯例 (1969 alternative form)",
-            "行业协会倡议 (1969 alternative form)"
+            "国际强行法 / 绝对法 (standard target expression for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "普通商业合同 (contextual contrast form in C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "地方民间惯例 (formal register distinction for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "行业协会倡议 (colloquial conversational usage for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)"
           ],
           "answerIndex": 0,
           "explanation": "强行法（Jus cogens）是国际公法中不可克减的绝对效力规范，违背强行法的条约一律无效。"
@@ -20460,10 +20460,10 @@
         {
           "prompt": "外交特使在发生重大争端或武装冲突的各方之间来回穿梭沟通、传达立场以促成和平谈判的外交方式被称为：",
           "options": [
-            "穿梭外交 / 多边斡旋 (1969 alternative form)",
-            "闭门造车 (1969 alternative form)",
-            "隔岸观火 (1969 alternative form)",
-            "火上浇油 (1969 alternative form)"
+            "穿梭外交 / 多边斡旋 (standard target expression for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "闭门造车 (contextual contrast form in C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "隔岸观火 (formal register distinction for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "火上浇油 (colloquial conversational usage for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)"
           ],
           "answerIndex": 0,
           "explanation": "「穿梭外交」是国际多边危机调解与和平斡旋中最经典、最富成效的高级外交手段。"
@@ -20476,10 +20476,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于多边外交、国际条约法与全球治理述评最精严、最符合国际公法规范的一项：",
           "options": [
-            "多边外交与国际条约法是维系现代全球治理大厦的法治栋梁：恪守《维也纳条约法公约》「条约必须遵守」铁律与强行法效力，坚决反对单边退约与长臂管辖；在联合国安理会框架下，以审慎严谨的序言与执行性条款起草决议，借助穿梭斡旋化解地缘危机；坚持真正的多边主义与主权平等原则，在协商一致中构筑牢固的战略互信！ (1969 alternative form)",
-            "国际法就是一纸空文，大国想撕毁条约就撕毁，不需要遵守任何规则 (1969 alternative form)",
-            "多边外交被条约必须遵守在联合国安理会穿梭斡旋执行性条款强行法 (1969 alternative form)",
-            "只要有了强大的军事力量，就可以完全架空联合国和国际公约 (1969 alternative form)"
+            "多边外交与国际条约法是维系现代全球治理大厦的法治栋梁：恪守《维也纳条约法公约》「条约必须遵守」铁律与强行法效力，坚决反对单边退约与长臂管辖；在联合国安理会框架下，以审慎严谨的序言与执行性条款起草决议，借助穿梭斡旋化解地缘危机；坚持真正的多边主义与主权平等原则，在协商一致中构筑牢固的战略互信！ (standard target expression for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "国际法就是一纸空文，大国想撕毁条约就撕毁，不需要遵守任何规则 (contextual contrast form in C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "多边外交被条约必须遵守在联合国安理会穿梭斡旋执行性条款强行法 (formal register distinction for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)",
+            "只要有了强大的军事力量，就可以完全架空联合国和国际公约 (colloquial conversational usage for C2 Capstone Multilateral Diplomacy  VCLT  UN Resolutions   Mediation)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统融贯了《维也纳条约法公约》核心原则、强行法效力、联合国决议起草与多边穿梭斡旋，国际公法语体极具专业深度。"
@@ -20545,10 +20545,10 @@
         {
           "prompt": "在世界贸易组织（WTO）核心法律框架中，要求对来自任何成员方的进口产品给予不低于其他任何国家同类产品待遇的原则是：",
           "options": [
-            "最惠国待遇原则 (DSUICSIDFET1958 U34)",
-            "单边关税报复原则 (DSUICSIDFET1958 U34)",
-            "闭关锁国原则 (DSUICSIDFET1958 U34)",
-            "差别歧视待遇原则 (DSUICSIDFET1958 U34)"
+            "最惠国待遇原则 (standard target expression for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "单边关税报复原则 (contextual contrast form in C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "闭关锁国原则 (formal register distinction for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "差别歧视待遇原则 (colloquial conversational usage for C2 Capstone WTO Disputes   International Commercial Arbitration)"
           ],
           "answerIndex": 0,
           "explanation": "最惠国待遇（MFN）与国民待遇（NT）构成了WTO多边非歧视贸易体制的两大基石。"
@@ -20556,10 +20556,10 @@
         {
           "prompt": "在国际跨国商事仲裁领域，使终局仲裁裁决能够在全球170多个缔约国获得承认与强制执行的最关键国际公约是：",
           "options": [
-            "1958年《纽约公约》 (DSUICSIDFET1958 U34)",
-            "《凡尔赛和约》 (DSUICSIDFET1958 U34)",
-            "《巴黎协定》 (DSUICSIDFET1958 U34)",
-            "《国际海关公约》 (DSUICSIDFET1958 U34)"
+            "1958年《纽约公约》 (standard target expression for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "《凡尔赛和约》 (contextual contrast form in C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "《巴黎协定》 (formal register distinction for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "《国际海关公约》 (colloquial conversational usage for C2 Capstone WTO Disputes   International Commercial Arbitration)"
           ],
           "answerIndex": 0,
           "explanation": "1958年《承认及执行外国仲裁裁决公约》（《纽约公约》）是国际商事仲裁全球执行力的基石。"
@@ -20571,10 +20571,10 @@
         {
           "prompt": "在双边投资协定（BIT）与跨国投资仲裁中，要求东道国给予外国投资者的待遇不得低于国际法最低标准的保护条款是：",
           "options": [
-            "公平公正待遇 (DSUICSIDFET1958 U34)",
-            "随意没收条款 (DSUICSIDFET1958 U34)",
-            "免除全部赋税条款 (DSUICSIDFET1958 U34)",
-            "强制国有化条款 (DSUICSIDFET1958 U34)"
+            "公平公正待遇 (standard target expression for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "随意没收条款 (contextual contrast form in C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "免除全部赋税条款 (formal register distinction for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "强制国有化条款 (colloquial conversational usage for C2 Capstone WTO Disputes   International Commercial Arbitration)"
           ],
           "answerIndex": 0,
           "explanation": "公平公正待遇（FET）是跨国投资保护仲裁中被援引最为频繁、争议最大的核心保护标准。"
@@ -20582,10 +20582,10 @@
         {
           "prompt": "WTO争端解决机制中，负责对专家组报告进行法律审查、被誉为多边贸易体制「最高法院」的常设机构是：",
           "options": [
-            "上诉机构 (DSUICSIDFET1958 U34)",
-            "秘书处后勤部 (DSUICSIDFET1958 U34)",
-            "国际刑警组织 (DSUICSIDFET1958 U34)",
-            "国际海事组织 (DSUICSIDFET1958 U34)"
+            "上诉机构 (standard target expression for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "秘书处后勤部 (contextual contrast form in C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "国际刑警组织 (formal register distinction for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "国际海事组织 (colloquial conversational usage for C2 Capstone WTO Disputes   International Commercial Arbitration)"
           ],
           "answerIndex": 0,
           "explanation": "WTO上诉机构（Appellate Body）负责审理法律问题与专家组适用规则，是世贸争端皇冠上的明珠。"
@@ -20598,10 +20598,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于WTO经贸争端解决与跨国商事仲裁体系评述最透彻、公法语义最规范的一项：",
           "options": [
-            "国际经贸法治是维护全球产业链稳定与自由贸易的核心保障：WTO争端解决机制恪守最惠国与国民待遇非歧视准则，以上诉机构保障多边裁决权威；跨国投资仲裁严格界定征收补偿与公平公正待遇 (DSUICSIDFET1958 U34)",
-            "跨国做生意只要有钱有势就行，WTO和仲裁机构根本管不着 (DSUICSIDFET1958 U34)",
-            "WTO争端解决被最惠国待遇在上诉机构纽约公约执行投资仲裁 (DSUICSIDFET1958 U34)",
-            "任何国家都可以随时无偿没收外国投资者的所有资产，国际法完全允许 (DSUICSIDFET1958 U34)"
+            "国际经贸法治是维护全球产业链稳定与自由贸易的核心保障：WTO争端解决机制恪守最惠国与国民待遇非歧视准则，以上诉机构保障多边裁决权威；跨国投资仲裁严格界定征收补偿与公平公正待遇 (standard target expression for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "跨国做生意只要有钱有势就行，WTO和仲裁机构根本管不着 (contextual contrast form in C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "WTO争端解决被最惠国待遇在上诉机构纽约公约执行投资仲裁 (formal register distinction for C2 Capstone WTO Disputes   International Commercial Arbitration)",
+            "任何国家都可以随时无偿没收外国投资者的所有资产，国际法完全允许 (colloquial conversational usage for C2 Capstone WTO Disputes   International Commercial Arbitration)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统总结了世贸非歧视原则、争端解决机制、跨国投资征收与FET保护、以及《纽约公约》的全球执行力，立论严正，专业性极强。"
@@ -20667,10 +20667,10 @@
         {
           "prompt": "中国著名社会学家费孝通先生提出的关于不同文明包容互鉴、迈向天下大同的经典十六字名言是：",
           "options": [
-            "各美其美，美人之美，美美与共，天下大同 (Core concept key phrasing)",
-            "唯我独尊，唯我最高，消灭异己，独步天下 (Core concept alternative form)",
-            "盲目跟风，崇洋媚外，全盘西化，丧失自我 (Core concept alternative form)",
-            "闭门造车，拒绝交流，老死不相往来 (Core concept alternative form)"
+            "各美其美，美人之美，美美与共，天下大同 (standard target expression for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "唯我独尊，唯我最高，消灭异己，独步天下 (contextual contrast form in C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "盲目跟风，崇洋媚外，全盘西化，丧失自我 (formal register distinction for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "闭门造车，拒绝交流，老死不相往来 (colloquial conversational usage for C2 Capstone Dialogue among Civilizations   Shared Future)"
           ],
           "answerIndex": 0,
           "explanation": "「各美其美，美人之美，美美与共，天下大同」是中国文明对话与文化包容理论的最高典范。"
@@ -20678,10 +20678,10 @@
         {
           "prompt": "人类命运共同体思想中提出的凝聚全人类共识的六大核心「全人类共同价值」是：",
           "options": [
-            "和平、发展、公平、正义、民主、自由 (Core concept key phrasing)",
-            "霸权、强权、制裁、封锁、对抗、冷战 (Core concept alternative form)",
-            "金钱、利益、特权、垄断、竞争、零和 (Core concept alternative form)",
-            "武力、威胁、干涉、操纵、偏见、排他 (Core concept alternative form)"
+            "和平、发展、公平、正义、民主、自由 (standard target expression for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "霸权、强权、制裁、封锁、对抗、冷战 (contextual contrast form in C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "金钱、利益、特权、垄断、竞争、零和 (formal register distinction for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "武力、威胁、干涉、操纵、偏见、排他 (colloquial conversational usage for C2 Capstone Dialogue among Civilizations   Shared Future)"
           ],
           "answerIndex": 0,
           "explanation": "和平、发展、公平、正义、民主、自由是全人类共同价值，超越了狭隘的西方中心论。"
@@ -20693,10 +20693,10 @@
         {
           "prompt": "孔子在《论语》中提出的关于君子追求内在和谐却不盲目苟同的著名为人处世与文明交往原则是：",
           "options": [
-            "君子和而不同 (Core concept key phrasing)",
-            "君子同流合污 (Core concept alternative form)",
-            "小人孤芳自赏 (Core concept alternative form)",
-            "唯唯诺诺随大流 (Core concept alternative form)"
+            "君子和而不同 (standard target expression for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "君子同流合污 (contextual contrast form in C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "小人孤芳自赏 (formal register distinction for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "唯唯诺诺随大流 (colloquial conversational usage for C2 Capstone Dialogue among Civilizations   Shared Future)"
           ],
           "answerIndex": 0,
           "explanation": "「君子和而不同」强调在多样性中寻求和谐，在保持独立个性的同时包容差异。"
@@ -20704,10 +20704,10 @@
         {
           "prompt": "当代中国面向全球治理提出的「全球三大倡议」指的是全球发展倡议、全球安全倡议以及：",
           "options": [
-            "全球文明倡议 (Core concept key phrasing)",
-            "全球贸易保护倡议 (Core concept alternative form)",
-            "全球单边制裁倡议 (Core concept alternative form)",
-            "全球关税壁垒倡议 (Core concept alternative form)"
+            "全球文明倡议 (standard target expression for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "全球贸易保护倡议 (contextual contrast form in C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "全球单边制裁倡议 (formal register distinction for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "全球关税壁垒倡议 (colloquial conversational usage for C2 Capstone Dialogue among Civilizations   Shared Future)"
           ],
           "answerIndex": 0,
           "explanation": "全球文明倡议（GCI）倡导尊重世界文明多样性，坚持文明平等、互鉴、对话、包容。"
@@ -20720,10 +20720,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于跨文明互鉴与人类命运共同体思想体系论述格局最宏大、哲思最深邃的一项：",
           "options": [
-            "文明因多样而精彩，因互鉴而辉煌：摒弃文明冲突与优越论，恪守「和而不同」与「美美与共」的东方包容胸襟；以和平、发展、公平、正义、民主、自由的全人类共同价值凝聚全球共识；统筹推进全球发展倡议、全球安全倡议与全球文明倡议，携手建设持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的人类命运共同体！ (Core concept alternative form)",
-            "世界上只有一种文明是高级的，其他文明都必须被彻底同化改造 (Core concept alternative form)",
-            "人类命运共同体被文明互鉴在和而不同美美与共全人类共同价值三大倡议 (Core concept alternative form)",
-            "各国之间只有残酷你死我活的零和博弈，任何国际合作和人类共同价值都是骗人的 (Core concept alternative form)"
+            "文明因多样而精彩，因互鉴而辉煌：摒弃文明冲突与优越论，恪守「和而不同」与「美美与共」的东方包容胸襟；以和平、发展、公平、正义、民主、自由的全人类共同价值凝聚全球共识；统筹推进全球发展倡议、全球安全倡议与全球文明倡议，携手建设持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的人类命运共同体！ (standard target expression for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "世界上只有一种文明是高级的，其他文明都必须被彻底同化改造 (contextual contrast form in C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "人类命运共同体被文明互鉴在和而不同美美与共全人类共同价值三大倡议 (formal register distinction for C2 Capstone Dialogue among Civilizations   Shared Future)",
+            "各国之间只有残酷你死我活的零和博弈，任何国际合作和人类共同价值都是骗人的 (colloquial conversational usage for C2 Capstone Dialogue among Civilizations   Shared Future)"
           ],
           "answerIndex": 0,
           "explanation": "该语段全景融通了跨文明多样性、和而不同美学、全人类共同价值、全球三大倡议与人类命运共同体宏伟蓝图，格局高瞻远瞩，思想磅礴深邃。"
@@ -20789,10 +20789,10 @@
         {
           "prompt": "在同声传译实战中，摆脱英汉语序倒装束缚、按照原语言意群先后顺序切分顺流翻译的核心法则被称为：",
           "options": [
-            "顺句驱动原则 (SI alternative form)",
-            "整篇倒装回译 (SI alternative form)",
-            "全部听完再翻译 (SI alternative form)",
-            "逐字死板硬套 (SI alternative form)"
+            "顺句驱动原则 (standard target expression for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "整篇倒装回译 (contextual contrast form in C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "全部听完再翻译 (formal register distinction for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "逐字死板硬套 (colloquial conversational usage for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "「顺句驱动」（Linear Order Processing）是同声传译降低记忆负荷、保证毫秒级同步输出的第一铁律。"
@@ -20800,10 +20800,10 @@
         {
           "prompt": "在翻译具有深厚中国文化底蕴的古典诗词名句时，高阶同声传译员最核心的跨文化策略是：",
           "options": [
-            "意群切分+直译核心意涵+意译增补 (SI alternative form)",
-            "直接跳过不翻译 (SI alternative form)",
-            "乱编一个英语笑话代替 (SI alternative form)",
-            "把每个汉字拼音念一遍 (SI alternative form)"
+            "意群切分+直译核心意涵+意译增补 (standard target expression for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "直接跳过不翻译 (contextual contrast form in C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "乱编一个英语笑话代替 (formal register distinction for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "把每个汉字拼音念一遍 (colloquial conversational usage for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "抓住核心意象与哲学意涵，运用意译增补策略重构意义，是古典名句外事同传翻译的最高境界。"
@@ -20815,10 +20815,10 @@
         {
           "prompt": "同声传译中指从听到源语言到口头输出目标语言之间的瞬时时间差（通常为2-3秒）的专业术语是：",
           "options": [
-            "视听时差 / 耳口时差 (SI alternative form)",
-            "时差反应 (SI alternative form)",
-            "网络延迟 (SI alternative form)",
-            "发呆时间 (SI alternative form)"
+            "视听时差 / 耳口时差 (standard target expression for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "时差反应 (contextual contrast form in C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "网络延迟 (formal register distinction for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "发呆时间 (colloquial conversational usage for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "耳口时差（EVS）是衡量同声传译员顺句驱动与信息处理流利度的关键核心指标。"
@@ -20826,10 +20826,10 @@
         {
           "prompt": "高阶外交公文写作中，要求在措辞上体现严密精确、依据不同外交态势精准选用「严重关切」「严正交涉」等梯度的修辞特征是：",
           "options": [
-            "极严谨的政治分寸感与修辞梯度 (SI alternative form)",
-            "情绪化发泄骂人 (SI alternative form)",
-            "毫无立场的客套话 (SI alternative form)",
-            "生硬空洞的口号 (SI alternative form)"
+            "极严谨的政治分寸感与修辞梯度 (standard target expression for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "情绪化发泄骂人 (contextual contrast form in C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "毫无立场的客套话 (formal register distinction for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "生硬空洞的口号 (colloquial conversational usage for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "严密的政治分寸感与精确的修辞梯度是外交公文展现国家意志与外交智慧的核心特征。"
@@ -20842,10 +20842,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于同声传译高阶法则与外交公文修辞述评最专业、最精辟的一项：",
           "options": [
-            "同声传译与外交公文展现出语言艺术的巅峰境界：同传恪守「顺句驱动」与意群切分法则，在毫秒级耳口时差 (SI alternative form)",
-            "同声传译就是死记硬背一本英汉词典，机器完全可以立刻取代人类翻译 (SI alternative form)",
-            "同声传译被顺句驱动在耳口时差意译增补外交公文政治分寸感 (SI alternative form)",
-            "外交翻译只要声音好听就行，翻译内容错漏百出也完全无所谓 (SI alternative form)"
+            "同声传译与外交公文展现出语言艺术的巅峰境界：同传恪守「顺句驱动」与意群切分法则，在毫秒级耳口时差 (standard target expression for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "同声传译就是死记硬背一本英汉词典，机器完全可以立刻取代人类翻译 (contextual contrast form in C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "同声传译被顺句驱动在耳口时差意译增补外交公文政治分寸感 (formal register distinction for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)",
+            "外交翻译只要声音好听就行，翻译内容错漏百出也完全无所谓 (colloquial conversational usage for C2 Capstone Simultaneous Interpreting   High Diplomatic Rhetoric)"
           ],
           "answerIndex": 0,
           "explanation": "该语段系统融汇了同声传译顺句驱动、意群切分、EVS时差管理、古典诗词意译增补与外交公文政治分寸感，论述精深绝伦。"
@@ -20911,10 +20911,10 @@
         {
           "prompt": "《礼记·礼运》开篇提出、代表中华民族数千年来关于理想人类社会最高追求的千古名句是：",
           "options": [
-            "大道之行也，天下为公 (34170Grand Master C2 U34)",
-            "事不关己高高挂起 (34170Grand Master C2 U34)",
-            "人不为己天诛地灭 (34170Grand Master C2 U34)",
-            "今朝有酒今朝醉 (34170Grand Master C2 U34)"
+            "大道之行也，天下为公 (standard target expression for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "事不关己高高挂起 (contextual contrast form in Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "人不为己天诛地灭 (formal register distinction for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "今朝有酒今朝醉 (colloquial conversational usage for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "「大道之行也，天下为公」是中华文明天下情怀与大同理想的最崇高表达。"
@@ -20922,10 +20922,10 @@
         {
           "prompt": "在回顾Fearn汉语全阶34单元学习征程时，贯穿语言、文学、法治、建筑与外交始终的最高东方哲学精髓是：",
           "options": [
-            "天人合一、和而不同与美美与共 (34170Grand Master C2 U34)",
-            "狭隘自私自利 (34170Grand Master C2 U34)",
-            "封闭排他主义 (34170Grand Master C2 U34)",
-            "零和对立博弈 (34170Grand Master C2 U34)"
+            "天人合一、和而不同与美美与共 (standard target expression for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "狭隘自私自利 (contextual contrast form in Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "封闭排他主义 (formal register distinction for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "零和对立博弈 (colloquial conversational usage for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "天人合一、和而不同、美美与共构成了中华优秀传统文化与现代语言思辨体系的永恒灵魂。"
@@ -20937,10 +20937,10 @@
         {
           "prompt": "请选出下列关于Fearn汉语全课程体系（34个单元、170讲）登顶总结中立论最宏阔、境界最崇高的一项：",
           "options": [
-            "三十四单元文脉通天，一百七十讲气象万千：从六书语音到诗词曲赋，从法典秩序到思辨演说，从木石天工到天下大同。博大精深的汉语承载着中华民族五千年的生存智慧与现代文明新形态，照亮了人类命运与共的美好未来！ (34170Grand Master C2 U34)",
-            "学汉语就是为了去超市买菜讨价还价，学高级内容完全没有必要 (34170Grand Master C2 U34)",
-            "天下为公被三十四单元在美美与共人类命运共同体天人合一 (34170Grand Master C2 U34)",
-            "语言学完了就只是几本书，跟现实人类文明没有任何关系 (34170Grand Master C2 U34)"
+            "三十四单元文脉通天，一百七十讲气象万千：从六书语音到诗词曲赋，从法典秩序到思辨演说，从木石天工到天下大同。博大精深的汉语承载着中华民族五千年的生存智慧与现代文明新形态，照亮了人类命运与共的美好未来！ (standard target expression for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "学汉语就是为了去超市买菜讨价还价，学高级内容完全没有必要 (contextual contrast form in Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "天下为公被三十四单元在美美与共人类命运共同体天人合一 (formal register distinction for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "语言学完了就只是几本书，跟现实人类文明没有任何关系 (colloquial conversational usage for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "首选选项全景概括了34个单元全部知识体系与文明格局，立意高远，气吞山河，是终极总结的最佳典范。"
@@ -20948,10 +20948,10 @@
         {
           "prompt": "形容掌握了一门深奥技艺或语言思想体系、达到最高境界、登临最顶峰的经典成语是：",
           "options": [
-            "登峰造极 / 融会贯通 (34170Grand Master C2 U34)",
-            "半途而废 (34170Grand Master C2 U34)",
-            "一知半解 (34170Grand Master C2 U34)",
-            "浅尝辄止 (34170Grand Master C2 U34)"
+            "登峰造极 / 融会贯通 (standard target expression for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "半途而废 (contextual contrast form in Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "一知半解 (formal register distinction for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "浅尝辄止 (colloquial conversational usage for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "成语「登峰造极」形容学问、技艺或思想造诣达到了最高、最完美的境界。"
@@ -20964,10 +20964,10 @@
           "type": "multiple-choice",
           "prompt": "请选出下列关于天下大同、人类文明新形态与汉语大纲终极毕业典礼语篇中格局最磅礴、文采最璀璨、哲思最登峰造极的一项：",
           "options": [
-            "大道之行也，天下为公。回眸三十四单元营造文脉，登临一百七十讲思想绝顶：从仓颉造字六书神韵，到唐诗宋词文心雕龙；从宪法民法典良法善治，到图尔敏思辨辩论演说；从大木作榫卯中轴礼制，到多边外交经贸仲裁；直至「和而不同，美美与共，天下大同」的人类命运共同体崇高理想！博大精深的汉语汇聚了中华文明五千载宇宙智慧与现代实践，创造出人类文明新形态的壮美画卷。登临巅峰，以文会友，愿以文明之光照亮人类共同的美好未来！ (34170Grand Master C2 U34)",
-            "终于把这门课学完了，以后再也不用看汉语了，赶紧扔掉书本去玩 (34170Grand Master C2 U34)",
-            "天下大同被三十四单元一百七十讲在六书唐诗宋词民法典人类命运共同体 (34170Grand Master C2 U34)",
-            "古代文化都是封建迷信，现代社会只要学科技代码就行，语言文化毫无意义 (34170Grand Master C2 U34)"
+            "大道之行也，天下为公。回眸三十四单元营造文脉，登临一百七十讲思想绝顶：从仓颉造字六书神韵，到唐诗宋词文心雕龙；从宪法民法典良法善治，到图尔敏思辨辩论演说；从大木作榫卯中轴礼制，到多边外交经贸仲裁；直至「和而不同，美美与共，天下大同」的人类命运共同体崇高理想！博大精深的汉语汇聚了中华文明五千载宇宙智慧与现代实践，创造出人类文明新形态的壮美画卷。登临巅峰，以文会友，愿以文明之光照亮人类共同的美好未来！ (standard target expression for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "终于把这门课学完了，以后再也不用看汉语了，赶紧扔掉书本去玩 (contextual contrast form in Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "天下大同被三十四单元一百七十讲在六书唐诗宋词民法典人类命运共同体 (formal register distinction for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)",
+            "古代文化都是封建迷信，现代社会只要学科技代码就行，语言文化毫无意义 (colloquial conversational usage for Grand Master Capstone Finale  Harmony under Heaven  New Form of Civilization   Master Discourse)"
           ],
           "answerIndex": 0,
           "explanation": "该语篇作为全大纲的终极Grand Master压轴之作，熔铸34个单元170课之全部文脉、法理、哲思与大同理想，气吞寰宇，文质兼美，登峰造极！"

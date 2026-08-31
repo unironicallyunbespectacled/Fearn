@@ -503,10 +503,10 @@
         {
           "prompt": "Which Hiragana character corresponds to the vowel sound [i] (as in \"meet\")?",
           "options": [
-            "い (Hiragana Vowels   K Row item 1)",
-            "あ (Hiragana Vowels   K Row item 2)",
-            "う (Hiragana Vowels   K Row item 3)",
-            "え (Hiragana Vowels   K Row item 4)"
+            "い (standard target expression for Hiragana Vowels   K Row)",
+            "あ (contextual contrast form in Hiragana Vowels   K Row)",
+            "う (formal register distinction for Hiragana Vowels   K Row)",
+            "え (colloquial conversational usage for Hiragana Vowels   K Row)"
           ],
           "answerIndex": 0,
           "explanation": "「い」 represents the vowel sound [i]. 「あ」 is [a], 「う」 is [u], and 「え」 is [e]."
@@ -514,10 +514,10 @@
         {
           "prompt": "Select the Hiragana word meaning \"train station\" composed of 「え」 [e] and 「き」 [ki]:",
           "options": [
-            "えき (eki - train station え e + き ki)",
-            "あき (aki - autumn / fall - U1L1)",
-            "かお (kao - face - U1L1)",
-            "あい (ai - love - U1L1)"
+            "えき (eki — train station え e + き ki)",
+            "あき (contextual contrast form in Hiragana Vowels   K Row)",
+            "かお (kao — face か ka + お o)",
+            "あい (ai — love あ a + い i)"
           ],
           "answerIndex": 0,
           "explanation": "「え」 [e] + 「き」 [ki] = 「えき」 (*eki*), which means train station."
@@ -529,10 +529,10 @@
         {
           "prompt": "Which Hiragana character from the K-row is pronounced [ko]?",
           "options": [
-            "こ (Hiragana Vowels   K Row item 1)",
-            "か (Hiragana Vowels   K Row item 2)",
-            "き (Hiragana Vowels   K Row item 3)",
-            "く (Hiragana Vowels   K Row item 4)"
+            "こ (standard target expression for Hiragana Vowels   K Row)",
+            "か (contextual contrast form in Hiragana Vowels   K Row)",
+            "き (formal register distinction for Hiragana Vowels   K Row)",
+            "く (colloquial conversational usage for Hiragana Vowels   K Row)"
           ],
           "answerIndex": 0,
           "explanation": "「こ」 is the K-row character pronounced [ko]."
@@ -540,10 +540,10 @@
         {
           "prompt": "Identify the Hiragana word meaning \"face\" combining 「か」 [ka] and 「お」 [o]:",
           "options": [
-            "かお (kao - face か ka + お o)",
-            "こえ (koe - voice - U1L1)",
-            "うえ (ue - above / on top - U1L1)",
-            "いけ (ike - pond - U1L1)"
+            "かお (kao — face か ka + お o)",
+            "こえ (contextual contrast form in Hiragana Vowels   K Row)",
+            "うえ (ue — up / above う u + え e)",
+            "いけ (colloquial conversational usage for Hiragana Vowels   K Row)"
           ],
           "answerIndex": 0,
           "explanation": "「か」 [ka] + 「お」 [o] forms 「かお」 (*kao*), meaning face."
@@ -556,10 +556,10 @@
           "type": "multiple-choice",
           "prompt": "Which of the following Hiragana words means \"love\" (formed from vowels 「あ」 and 「い」)?",
           "options": [
-            "あい (ai - love あ a + い i)",
-            "うえ (ue - above / on top - U1L1)",
-            "あき (aki - autumn / fall - U1L1)",
-            "えき (eki - station - U1L1)"
+            "あい (ai — love あ a + い i)",
+            "うえ (ue — up / above う u + え e)",
+            "あき (formal register distinction for Hiragana Vowels   K Row)",
+            "えき (eki — train station え e + き ki)"
           ],
           "answerIndex": 0,
           "explanation": "「あ」 [a] + 「い」 [i] = 「あい」 (*ai* - love)."
@@ -622,10 +622,10 @@
         {
           "prompt": "Which of the following Hiragana characters represents the sound [shi]?",
           "options": [
-            "し (shi - U1L2)",
-            "さ (Hiragana S Row   T Row item 2)",
-            "す (Hiragana S Row   T Row item 3)",
-            "せ (Hiragana S Row   T Row item 4)"
+            "し (standard target expression for Hiragana S Row   T Row)",
+            "さ (contextual contrast form in Hiragana S Row   T Row)",
+            "す (formal register distinction for Hiragana S Row   T Row)",
+            "せ (colloquial conversational usage for Hiragana S Row   T Row)"
           ],
           "answerIndex": 0,
           "explanation": "「し」 is pronounced [shi]. In Japanese phonology, [s] + [i] naturally palatalizes to [shi]."
@@ -633,10 +633,10 @@
         {
           "prompt": "Identify the world-famous culinary word meaning \"sushi\" spelled with 「す」 and 「し」:",
           "options": [
-            "すし (sushi - sushi す su + し shi)",
-            "たこ (tako - octopus / kite - U1L2)",
-            "くつ (kutsu - shoes - U1L2)",
-            "あさ (asa - morning - U1L2)"
+            "すし (sushi — sushi す su + し shi)",
+            "たこ (contextual contrast form in Hiragana S Row   T Row)",
+            "くつ (formal register distinction for Hiragana S Row   T Row)",
+            "あさ (asa — morning あ a + さ sa)"
           ],
           "answerIndex": 0,
           "explanation": "「す」 [su] + 「し」 [shi] forms 「すし」 (*sushi*)."
@@ -648,10 +648,10 @@
         {
           "prompt": "Which character represents the affricate sound [tsu] (as in \"tsunami\")?",
           "options": [
-            "つ (tsu - U1L2)",
-            "た (Hiragana S Row   T Row item 2)",
-            "ち (chi - U1L2)",
-            "て (Hiragana S Row   T Row item 4)"
+            "つ (standard target expression for Hiragana S Row   T Row)",
+            "た (contextual contrast form in Hiragana S Row   T Row)",
+            "ち (formal register distinction for Hiragana S Row   T Row)",
+            "て (colloquial conversational usage for Hiragana S Row   T Row)"
           ],
           "answerIndex": 0,
           "explanation": "「つ」 is pronounced [tsu]."
@@ -659,10 +659,10 @@
         {
           "prompt": "Select the Hiragana word meaning \"moon\" combining 「つ」 [tsu] and 「き」 [ki]:",
           "options": [
-            "つき (tsuki - moon つ tsu + き ki)",
-            "すき (suki - fond of / like - U1L2)",
-            "たこ (tako - octopus / kite - U1L2)",
-            "うそ (uso - lie / untruth - U1L2)"
+            "つき (tsuki — moon つ tsu + き ki)",
+            "すき (contextual contrast form in Hiragana S Row   T Row)",
+            "たこ (formal register distinction for Hiragana S Row   T Row)",
+            "うそ (colloquial conversational usage for Hiragana S Row   T Row)"
           ],
           "answerIndex": 0,
           "explanation": "「つ」 [tsu] + 「き」 [ki] = 「つき」 (*tsuki* - moon)."
@@ -675,10 +675,10 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana word means \"shoes\" formed from 「く」 [ku] and 「つ」 [tsu]?",
           "options": [
-            "くつ (Hiragana S Row   T Row item 1)",
-            "あさ (asa - morning - U1L2)",
-            "せかい (sekai - world - U1L2)",
-            "すし (sushi - sushi - U1L2)"
+            "くつ (standard target expression for Hiragana S Row   T Row)",
+            "あさ (asa — morning あ a + さ sa)",
+            "せかい (sekai — world せ se + か ka + い i)",
+            "すし (sushi — sushi す su + し shi)"
           ],
           "answerIndex": 0,
           "explanation": "「く」 [ku] + 「つ」 [tsu] = 「くつ」 (*kutsu* - shoes)."
@@ -741,10 +741,10 @@
         {
           "prompt": "Which Hiragana word means \"cat\" combining 「ね」 [ne] and 「こ」 [ko]?",
           "options": [
-            "ねこ (neko - cat ね ne + こ ko)",
-            "いぬ (inu - dog - U1L3)",
-            "はな (hana - flower / nose - U1L3)",
-            "ひと (hito - person - U1L3)"
+            "ねこ (neko — cat ね ne + こ ko)",
+            "いぬ (inu — dog い i + ぬ nu)",
+            "はな (hana — flower は ha + な na)",
+            "ひと (hito — person ひ hi + と to)"
           ],
           "answerIndex": 0,
           "explanation": "「ね」 [ne] + 「こ」 [ko] forms 「ねこ」 (*neko* - cat)."
@@ -752,10 +752,10 @@
         {
           "prompt": "Which character represents the bilabial fricative sound [fu] in the H-row?",
           "options": [
-            "ふ (Hiragana N Row   H Row item 1)",
-            "は (Hiragana N Row   H Row item 2)",
-            "ひ (Hiragana N Row   H Row item 3)",
-            "ほ (Hiragana N Row   H Row item 4)"
+            "ふ (standard target expression for Hiragana N Row   H Row)",
+            "は (contextual contrast form in Hiragana N Row   H Row)",
+            "ひ (formal register distinction for Hiragana N Row   H Row)",
+            "ほ (colloquial conversational usage for Hiragana N Row   H Row)"
           ],
           "answerIndex": 0,
           "explanation": "「ふ」 is the H-row character pronounced [fu], made by gently blowing air through unrounded lips."
@@ -767,10 +767,10 @@
         {
           "prompt": "Select the Hiragana word meaning \"dog\" spelled with 「い」 and 「ぬ」:",
           "options": [
-            "いぬ (inu - dog い i + ぬ nu)",
-            "ねこ (neko - cat - U1L3)",
-            "ふね (fune - boat / ship - U1L3)",
-            "ほし (hoshi - star - U1L3)"
+            "いぬ (inu — dog い i + ぬ nu)",
+            "ねこ (neko — cat ね ne + こ ko)",
+            "ふね (formal register distinction for Hiragana N Row   H Row)",
+            "ほし (colloquial conversational usage for Hiragana N Row   H Row)"
           ],
           "answerIndex": 0,
           "explanation": "「い」 [i] + 「ぬ」 [nu] = 「いぬ」 (*inu* - dog)."
@@ -778,10 +778,10 @@
         {
           "prompt": "Which word means \"flower\" or \"nose\" formed from 「は」 [ha] and 「な」 [na]?",
           "options": [
-            "はな (hana - flower は ha + な na)",
-            "なつ (natsu - summer - U1L3)",
-            "ひと (hito - person - U1L3)",
-            "にく (niku - meat - U1L3)"
+            "はな (hana — flower は ha + な na)",
+            "なつ (contextual contrast form in Hiragana N Row   H Row)",
+            "ひと (hito — person ひ hi + と to)",
+            "にく (colloquial conversational usage for Hiragana N Row   H Row)"
           ],
           "answerIndex": 0,
           "explanation": "「は」 [ha] + 「な」 [na] = 「はな」 (*hana*)."
@@ -794,10 +794,10 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana character is drawn as a single graceful circular spiral stroke and represents the sound [no]?",
           "options": [
-            "の (Hiragana N Row   H Row item 1)",
-            "ぬ (Hiragana N Row   H Row item 2)",
-            "ね (Hiragana N Row   H Row item 3)",
-            "な (Hiragana N Row   H Row item 4)"
+            "の (standard target expression for Hiragana N Row   H Row)",
+            "ぬ (contextual contrast form in Hiragana N Row   H Row)",
+            "ね (formal register distinction for Hiragana N Row   H Row)",
+            "な (colloquial conversational usage for Hiragana N Row   H Row)"
           ],
           "answerIndex": 0,
           "explanation": "「の」 is written in a single continuous spiral stroke representing [no]."
@@ -860,10 +860,10 @@
         {
           "prompt": "Which Hiragana word means \"cherry blossom\" spelled with 「さ」, 「く」, and 「ら」?",
           "options": [
-            "さくら (Complete all 46 basic Hiragana characters by mastering Mrow U1 - U1L4)",
-            "くるま (kuruma - car - U1L4)",
-            "わたし (watashi - I / me - U1L4)",
-            "やま (yama - mountain - U1L4)"
+            "さくら (sakura — cherry blossom さ + く + ら)",
+            "くるま (contextual contrast form in Complete 46 Hiragana Syllabary)",
+            "わたし (watashi — I / me わ + た + し)",
+            "やま (yama — mountain や + ま)"
           ],
           "answerIndex": 0,
           "explanation": "「さ」 [sa] + 「く」 [ku] + 「ら」 [ra] = 「さくら」 (*sakura*)."
@@ -886,10 +886,10 @@
         {
           "prompt": "Identify the word for \"mountain\" formed by combining 「や」 [ya] and 「ま」 [ma]:",
           "options": [
-            "やま (Complete all 46 basic Hiragana characters by mastering Mrow U1 - U1L4)",
-            "ゆめ (yume - dream - U1L4)",
-            "そら (sora - sky - U1L4)",
-            "もり (mori - forest - U1L4)"
+            "やま (yama — mountain や + ま)",
+            "ゆめ (contextual contrast form in Complete 46 Hiragana Syllabary)",
+            "そら (formal register distinction for Complete 46 Hiragana Syllabary)",
+            "もり (colloquial conversational usage for Complete 46 Hiragana Syllabary)"
           ],
           "answerIndex": 0,
           "explanation": "「や」 [ya] + 「ま」 [ma] = 「やま」 (*yama* - mountain)."
@@ -897,10 +897,10 @@
         {
           "prompt": "Select the Hiragana word meaning \"I / me\" spelled with 「わ」, 「た」, and 「し」:",
           "options": [
-            "わたし (Complete all 46 basic Hiragana characters by mastering Mrow U1 - U1L4)",
-            "あなた (anata - you - U1L4)",
-            "くるま (kuruma - car - U1L4)",
-            "ほん (hon - book - U1L4)"
+            "わたし (watashi — I / me わ + た + し)",
+            "あなた (contextual contrast form in Complete 46 Hiragana Syllabary)",
+            "くるま (formal register distinction for Complete 46 Hiragana Syllabary)",
+            "ほん (hon — book ほ + ん)"
           ],
           "answerIndex": 0,
           "explanation": "「わ」 [wa] + 「た」 [ta] + 「し」 [shi] = 「わたし」 (*watashi* - I / me)."
@@ -913,10 +913,10 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana word means \"book\" formed from 「ほ」 [ho] and 「ん」 [n]?",
           "options": [
-            "ほん (Complete all 46 basic Hiragana characters by mastering Mrow U1 - U1L4)",
-            "はな (hana - flower / nose - U1L4)",
-            "ひと (hito - person - U1L4)",
-            "ふね (fune - boat / ship - U1L4)"
+            "ほん (hon — book ほ + ん)",
+            "はな (hana — flower は ha + な na)",
+            "ひと (hito — person ひ hi + と to)",
+            "ふね (colloquial conversational usage for Complete 46 Hiragana Syllabary)"
           ],
           "answerIndex": 0,
           "explanation": "「ほ」 [ho] + 「ん」 [n] = 「ほん」 (*hon* - book)."
@@ -979,10 +979,10 @@
         {
           "prompt": "Which standard polite greeting means \"Good morning\" in Japanese?",
           "options": [
-            "おはようございます (Ohayou gozaimasu - Good morning respectful/polite)",
-            "こんにちは (konnichiwa - hello / good afternoon - U1L5)",
-            "さようなら (Voiced Kana  Combinations   Core Greetings item 3)",
-            "すみません (sumimasen - excuse me / sorry - U1L5)"
+            "おはようございます (Ohayou gozaimasu — Good morning respectful/polite)",
+            "こんにちは (Konnichiwa — Hello / Good afternoon everyday polite greeting)",
+            "さようなら (formal register distinction for Voiced Kana  Combinations   Core Greetings)",
+            "すみません (Sumimasen — Excuse me / I am sorry multi-purpose courtesy)"
           ],
           "answerIndex": 0,
           "explanation": "「おはようございます」 (*Ohayou gozaimasu*) is the standard polite morning greeting."
@@ -1005,10 +1005,10 @@
         {
           "prompt": "Select the versatile Japanese phrase meaning \"Excuse me\" or \"I am sorry\":",
           "options": [
-            "すみません (Sumimasen - Excuse me / I am sorry multi-purpose courtesy)",
-            "ありがとうございます (Arigatou gozaimasu - Thank you very much polite gratitude)",
-            "はじめまして (hajimemashite - nice to meet you - U1L5)",
-            "こんにちは (konnichiwa - hello / good afternoon - U1L5)"
+            "すみません (Sumimasen — Excuse me / I am sorry multi-purpose courtesy)",
+            "ありがとうございます (Arigatou gozaimasu — Thank you very much polite gratitude)",
+            "はじめまして (formal register distinction for Voiced Kana  Combinations   Core Greetings)",
+            "こんにちは (Konnichiwa — Hello / Good afternoon everyday polite greeting)"
           ],
           "answerIndex": 0,
           "explanation": "「すみません」 (*Sumimasen*) is used to get attention (excuse me), apologize (sorry), or show appreciation."
@@ -1016,10 +1016,10 @@
         {
           "prompt": "In the greeting 「こんにちは」 (Konnichiwa), how is the final character 「は」 pronounced?",
           "options": [
-            "wa In 「こんにちは」 and 「こんばんは (Voiced Kana  Combinations   Core Greetings item 1)",
-            "ha In 「こんにちは」 and 「こんばんは (Voiced Kana  Combinations   Core Greetings item 2)",
-            "he In 「こんにちは」 and 「こんばんは (Voiced Kana  Combinations   Core Greetings item 3)",
-            "ho In 「こんにちは」 and 「こんばんは (Voiced Kana  Combinations   Core Greetings item 4)"
+            "wa In 「こんにちは」 and 「こんばんは (standard target expression for Voiced Kana  Combinations   Core Greetings)",
+            "ha In 「こんにちは」 and 「こんばんは (contextual contrast form in Voiced Kana  Combinations   Core Greetings)",
+            "he In 「こんにちは」 and 「こんばんは (formal register distinction for Voiced Kana  Combinations   Core Greetings)",
+            "ho In 「こんにちは」 and 「こんばんは (colloquial conversational usage for Voiced Kana  Combinations   Core Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "In 「こんにちは」 and 「こんばんは」, the final 「は」 is historical topic particle and is pronounced [wa]."
@@ -1032,10 +1032,10 @@
           "type": "multiple-choice",
           "prompt": "Which phrase is the standard polite expression for \"Thank you very much\"?",
           "options": [
-            "ありがとうございます (Arigatou gozaimasu - Thank you very much polite gratitude)",
-            "おはようございます (Ohayou gozaimasu - Good morning respectful/polite)",
-            "さようなら (Voiced Kana  Combinations   Core Greetings item 3)",
-            "はじめまして (hajimemashite - nice to meet you - U1L5)"
+            "ありがとうございます (Arigatou gozaimasu — Thank you very much polite gratitude)",
+            "おはようございます (Ohayou gozaimasu — Good morning respectful/polite)",
+            "さようなら (formal register distinction for Voiced Kana  Combinations   Core Greetings)",
+            "はじめまして (colloquial conversational usage for Voiced Kana  Combinations   Core Greetings)"
           ],
           "answerIndex": 0,
           "explanation": "「ありがとうございます」 (*Arigatou gozaimasu*) expresses polite gratitude."
@@ -1094,10 +1094,10 @@
         {
           "prompt": "【数字の読み分け】漢数字「47」の標準的な日本語の読み方はどれですか。",
           "options": [
-            "よんじゅうなな (Core concept key phrasing - U2L1)",
-            "しじゅうなな (Core concept alternative form - U2L1)",
-            "よんじゅうきゅう (Core concept alternative form - U2L1)",
-            "ななじゅうよん (Core concept alternative form - U2L1)"
+            "よんじゅうなな (standard target expression for Numbers 1 100)",
+            "しじゅうなな (contextual contrast form in Numbers 1 100)",
+            "よんじゅうきゅう (formal register distinction for Numbers 1 100)",
+            "ななじゅうよん (colloquial conversational usage for Numbers 1 100)"
           ],
           "answerIndex": 0,
           "explanation": "「47」は「よんじゅうなな」または「よんじゅうしち」と読みます。"
@@ -1105,10 +1105,10 @@
         {
           "prompt": "【百の音便変化】「300」「600」「800」の正しい読み方の組み合わせを選択してください。",
           "options": [
-            "さんびゃく / ろっぴゃく / はっぴゃく (pause - U2L1)",
-            "さんひゃく / ろくひゃく / はちひゃく (Core concept alternative form - U2L1)",
-            "さんぴゃく / ろくぴゃく / はちぴゃく (Core concept alternative form - U2L1)",
-            "さんびゃく / ろくびゃく / はちびゃく (Core concept alternative form - U2L1)"
+            "さんびゃく / ろっぴゃく / はっぴゃく (standard target expression for Numbers 1 100)",
+            "さんひゃく / ろくひゃく / はちひゃく (contextual contrast form in Numbers 1 100)",
+            "さんぴゃく / ろくぴゃく / はちぴゃく (formal register distinction for Numbers 1 100)",
+            "さんびゃく / ろくびゃく / はちびゃく (colloquial conversational usage for Numbers 1 100)"
           ],
           "answerIndex": 0,
           "explanation": "300は濁音化（さんびゃく）、600と800は促音＋半濁音化（ろっぴゃく、はっぴゃく）します。"
@@ -1120,10 +1120,10 @@
         {
           "prompt": "【電話番号の読み方】「03-1234-5678」を日本語で伝える正しい発話を選択してください。",
           "options": [
-            "ゼロさんの、いちにさんよんの、ごーろくななはちです (Core concept alternative form - U2L1)",
-            "ぜろさんから、いちにさんよんまで、ごーろくしちはちです (Core concept alternative form - U2L1)",
-            "れいさん、いちにさんし、ごーろくしちはちです (Core concept alternative form - U2L1)",
-            "ぜろさんを、いちにさんよんを、ごーろくななはちです (Core concept alternative form - U2L1)"
+            "ゼロさんの、いちにさんよんの、ごーろくななはちです (standard target expression for Numbers 1 100)",
+            "ぜろさんから、いちにさんよんまで、ごーろくしちはちです (contextual contrast form in Numbers 1 100)",
+            "れいさん、いちにさんし、ごーろくしちはちです (formal register distinction for Numbers 1 100)",
+            "ぜろさんを、いちにさんよんを、ごーろくななはちです (colloquial conversational usage for Numbers 1 100)"
           ],
           "answerIndex": 0,
           "explanation": "電話番号のハイフン「-」は接続助詞「の」で読み上げます。"
@@ -1131,10 +1131,10 @@
         {
           "prompt": "【合計人数の表現】参加人数が47人であることを述べる文を選択してください。",
           "options": [
-            "参加者は全員で四十七人 (Core concept alternative form - U2L1)",
-            "参加者は全員で四十七本です (Core concept alternative form - U2L1)",
-            "参加者は全員で四十七円です (Core concept alternative form - U2L1)",
-            "参加者は全員で四十七匹です (Core concept alternative form - U2L1)"
+            "参加者は全員で四十七人 (standard target expression for Numbers 1 100)",
+            "参加者は全員で四十七本です (contextual contrast form in Numbers 1 100)",
+            "参加者は全員で四十七円です (formal register distinction for Numbers 1 100)",
+            "参加者は全員で四十七匹です (colloquial conversational usage for Numbers 1 100)"
           ],
           "answerIndex": 0,
           "explanation": "人間の数を数える助数詞は「〜人（にん）」です。"
@@ -1147,10 +1147,10 @@
           "type": "multiple-choice",
           "prompt": "「この教科書は一冊800円です。二冊で1600円になります。」における「800円」と「1600円」の正しい読み方はどれですか。",
           "options": [
-            "はっぴゃくえん / せんろっぴゃくえん (pause - U2L1)",
-            "はちひゃくえん / せんろくひゃくえん (Core concept alternative form - U2L1)",
-            "はちびゃくえん / せんろくびゃくえん (Core concept alternative form - U2L1)",
-            "はっぴゃくえん / せんろくひゃくえん (pause - U2L1)"
+            "はっぴゃくえん / せんろっぴゃくえん (standard target expression for Numbers 1 100)",
+            "はちひゃくえん / せんろくひゃくえん (contextual contrast form in Numbers 1 100)",
+            "はちびゃくえん / せんろくびゃくえん (formal register distinction for Numbers 1 100)",
+            "はっぴゃくえん / せんろくひゃくえん (colloquial conversational usage for Numbers 1 100)"
           ],
           "answerIndex": 0,
           "explanation": "800円は「はっぴゃくえん」、1600円は「せんろっぴゃくえん」と音便変化します。"
@@ -1212,10 +1212,10 @@
         {
           "prompt": "【時間の不規則読み】「4時」「7時」「9時」の標準的な日本語の発音の組み合わせを選択してください。",
           "options": [
-            "よじ / しちじ (pause - U2L2)",
-            "よんじ / ななじ / きゅうじ (pause - U2L2)",
-            "しじ / しちじ / きゅうじ (pause - U2L2)",
-            "よじ / ななじ / きゅうじ (pause - U2L2)"
+            "よじ / しちじ (standard target expression for Time   Counters  ji    fun)",
+            "よんじ / ななじ / きゅうじ (contextual contrast form in Time   Counters  ji    fun)",
+            "しじ / しちじ / きゅうじ (formal register distinction for Time   Counters  ji    fun)",
+            "よじ / ななじ / きゅうじ (colloquial conversational usage for Time   Counters  ji    fun)"
           ],
           "answerIndex": 0,
           "explanation": "時刻の「時」では4時は「よじ」、7時は「しちじ」、9時は「くじ」と読みます。"
@@ -1223,10 +1223,10 @@
         {
           "prompt": "【「分」の音便】「1分」「3分」「6分」「8分」「10分」の正しい読み方の組み合わせを選択してください。",
           "options": [
-            "いっぷん / さんぷん / ろっぷん / はっぷん / じゅっぷん (pause - U2L2)",
-            "いちふん / さんふん / ろくふん / はちふん / じゅうふん (pause - U2L2)",
-            "いっぷん / さんふん / ろっぷん / はちふん / じっぷん (pause - U2L2)",
-            "いちぷん / さんぷん / ろくぷん / はちぷん / じゅうぷん (pause - U2L2)"
+            "いっぷん / さんぷん / ろっぷん / はっぷん / じゅっぷん (standard target expression for Time   Counters  ji    fun)",
+            "いちふん / さんふん / ろくふん / はちふん / じゅうふん (contextual contrast form in Time   Counters  ji    fun)",
+            "いっぷん / さんふん / ろっぷん / はちふん / じっぷん (formal register distinction for Time   Counters  ji    fun)",
+            "いちぷん / さんぷん / ろくぷん / はちぷん / じゅうぷん (colloquial conversational usage for Time   Counters  ji    fun)"
           ],
           "answerIndex": 0,
           "explanation": "1, 3, 6, 8, 10分は半濁音「〜ぷん」および促音化（いっぷん、ろっぷん等）を伴います。"
@@ -1238,10 +1238,10 @@
         {
           "prompt": "【時刻の質問と回答】現在時刻を尋ねられて「ちょうど午後2時30分」と答える対話を選択してください。",
           "options": [
-            "「今、何時ですか。」「ちょうど午後二時半 (pause - U2L2)",
-            "「今、何分ですか。」「午後二分です (pause - U2L2)",
-            "「今、何曜日ですか。」「午後二時です (pause - U2L2)",
-            "「今、何日ですか。」「二時半日です (pause - U2L2)"
+            "「今、何時ですか。」「ちょうど午後二時半 (standard target expression for Time   Counters  ji    fun)",
+            "「今、何分ですか。」「午後二分です (contextual contrast form in Time   Counters  ji    fun)",
+            "「今、何曜日ですか。」「午後二時です (formal register distinction for Time   Counters  ji    fun)",
+            "「今、何日ですか。」「二時半日です (colloquial conversational usage for Time   Counters  ji    fun)"
           ],
           "answerIndex": 0,
           "explanation": "「2時30分」は「2時半（にじはん）」と言います。"
@@ -1249,10 +1249,10 @@
         {
           "prompt": "【出発時刻の伝達】新幹線の出発時刻「午後4時14分」を正確に伝える文を選択してください。",
           "options": [
-            "新幹線は東京駅を午後四時十四分に出発します (The Shinkansen departs Tokyo Station at 4:14 PM - U2L2)",
-            "新幹線は東京駅に午後四時四十分に着きます (The Shinkansen arrives at Tokyo Station at 4:40 PM - U2L2)",
-            "新幹線は東京駅を午後四時四分に出発しました (The Shinkansen departed Tokyo Station at 4:04 PM - U2L2)",
-            "新幹線は東京駅を午前四時十四分に出発します (The Shinkansen departs Tokyo Station at 4:14 AM - U2L2)"
+            "新幹線は東京駅を午後四時十四分に出発します (standard target expression for Time   Counters  ji    fun)",
+            "新幹線は東京駅に午後四時四十分に着きます (contextual contrast form in Time   Counters  ji    fun)",
+            "新幹線は東京駅を午後四時四分に出発しました (formal register distinction for Time   Counters  ji    fun)",
+            "新幹線は東京駅を午前四時十四分に出発します (colloquial conversational usage for Time   Counters  ji    fun)"
           ],
           "answerIndex": 0,
           "explanation": "4時は「よじ」、14分は「じゅうよんぷん」です。"
@@ -1265,10 +1265,10 @@
           "type": "multiple-choice",
           "prompt": "「会議の開始時刻は午前10時10分です」の正しい読み方はどれですか。",
           "options": [
-            "ごぜん じゅうじ じゅっぷん (pause - U2L2)",
-            "ごぜん とおじ じゅうふん (pause - U2L2)",
-            "ごぜん じゅうじ とおふん (pause - U2L2)",
-            "ごぜん じゅうじ じゅうふん (pause - U2L2)"
+            "ごぜん じゅうじ じゅっぷん (standard target expression for Time   Counters  ji    fun)",
+            "ごぜん とおじ じゅうふん (contextual contrast form in Time   Counters  ji    fun)",
+            "ごぜん じゅうじ とおふん (formal register distinction for Time   Counters  ji    fun)",
+            "ごぜん じゅうじ じゅうふん (colloquial conversational usage for Time   Counters  ji    fun)"
           ],
           "answerIndex": 0,
           "explanation": "10時は「じゅうじ」、10分は「じゅっぷん（じっぷん）」と読みます。"
@@ -1330,10 +1330,10 @@
         {
           "prompt": "【日付の特殊和語読み】「1日」「2日」「8日」「20日」の正しい読み方の組み合わせを選択してください。",
           "options": [
-            "ついたち / ふつか / ようか / はつか (tsuitachi / futsuka / youka / hatsuka - Days of Week   Calendar Dates U2L3 - U2L3)",
-            "いちにち / ににち / はちにち / にじゅうにち (Core concept alternative form - U2L3)",
-            "ついたち / ふつか / はちにち / はつか (tsuitachi / futsuka / hachinichi / hatsuka - Days of Week   Calendar Dates U2L3 - U2L3)",
-            "いちにち / ふつか / ようか / にじゅうにち (Core concept alternative form - U2L3)"
+            "ついたち / ふつか / ようか / はつか (standard target expression for Days of Week   Calendar Dates)",
+            "いちにち / ににち / はちにち / にじゅうにち (contextual contrast form in Days of Week   Calendar Dates)",
+            "ついたち / ふつか / はちにち / はつか (formal register distinction for Days of Week   Calendar Dates)",
+            "いちにち / ふつか / ようか / にじゅうにち (colloquial conversational usage for Days of Week   Calendar Dates)"
           ],
           "answerIndex": 0,
           "explanation": "1日は「ついたち」、2日は「ふつか」、8日は「ようか」、20日は「はつか」と特殊な和語読みをします。"
@@ -1341,10 +1341,10 @@
         {
           "prompt": "【4がつく日付の読み】「4日」「14日」「24日」の正しい読み方を選択してください。",
           "options": [
-            "よっか / じゅうよっか / にじゅうよっか (pause - U2L3)",
-            "よんにち / じゅうよんにち / にじゅうよんにち (Core concept alternative form - U2L3)",
-            "しにち / じゅうしにち / にじゅうしにち (Core concept alternative form - U2L3)",
-            "よっか / じゅうよんにち / にじゅうよっか (pause - U2L3)"
+            "よっか / じゅうよっか / にじゅうよっか (standard target expression for Days of Week   Calendar Dates)",
+            "よんにち / じゅうよんにち / にじゅうよんにち (contextual contrast form in Days of Week   Calendar Dates)",
+            "しにち / じゅうしにち / にじゅうしにち (formal register distinction for Days of Week   Calendar Dates)",
+            "よっか / じゅうよんにち / にじゅうよっか (colloquial conversational usage for Days of Week   Calendar Dates)"
           ],
           "answerIndex": 0,
           "explanation": "4がつく日付（4日、14日、24日）はすべて促音を伴う「〜よっか」となります。"
@@ -1356,10 +1356,10 @@
         {
           "prompt": "【誕生日の伝達】「5月5日」を正確に伝える文を選択してください。",
           "options": [
-            "私の誕生日は五月五日 (My birthday is May 5th - Children's Day - U2L3)",
-            "私の誕生日は五月一日 (My birthday is May 1st - U2L3)",
-            "私の誕生日は五月八日 (My birthday is May 8th - U2L3)",
-            "私の誕生日は五月二十日 (My birthday is May 20th - U2L3)"
+            "私の誕生日は五月五日 (standard target expression for Days of Week   Calendar Dates)",
+            "私の誕生日は五月一日 (contextual contrast form in Days of Week   Calendar Dates)",
+            "私の誕生日は五月八日 (formal register distinction for Days of Week   Calendar Dates)",
+            "私の誕生日は五月二十日 (colloquial conversational usage for Days of Week   Calendar Dates)"
           ],
           "answerIndex": 0,
           "explanation": "5月は「ごがつ」、5日は「いつか」と読みます。"
@@ -1367,10 +1367,10 @@
         {
           "prompt": "【曜日の順序】「水曜日」の翌日の曜日を答える自然な文を選択してください。",
           "options": [
-            "今日は水曜日です。明日は木曜日 (Core concept alternative form - U2L3)",
-            "今日は水曜日です。明日は火曜日です (Core concept alternative form - U2L3)",
-            "今日は水曜日です。明日は金曜日です (Core concept alternative form - U2L3)",
-            "今日は水曜日です。明日は土曜日です (Core concept alternative form - U2L3)"
+            "今日は水曜日です。明日は木曜日 (standard target expression for Days of Week   Calendar Dates)",
+            "今日は水曜日です。明日は火曜日です (contextual contrast form in Days of Week   Calendar Dates)",
+            "今日は水曜日です。明日は金曜日です (formal register distinction for Days of Week   Calendar Dates)",
+            "今日は水曜日です。明日は土曜日です (colloquial conversational usage for Days of Week   Calendar Dates)"
           ],
           "answerIndex": 0,
           "explanation": "水曜日の次は木曜日（もくようび）です。"
@@ -1383,10 +1383,10 @@
           "type": "multiple-choice",
           "prompt": "「日本への出張は7月20日から8月10日までです」の日付部分（7月20日 / 8月10日）の正しい読み方はどれですか。",
           "options": [
-            "しちがつ はつか / はちがつ とおか (shichigatsu hatsuka / hachigatsu tooka - Days of Week   Calendar Dates U2L3 - U2L3)",
-            "なながつ にじゅうにち / はちがつ じゅうにち (Core concept alternative form - U2L3)",
-            "しちがつ にじゅうにち / はちがつ とおか (Core concept alternative form - U2L3)",
-            "なながつ はつか / はちがつ じゅうにち (Core concept alternative form - U2L3)"
+            "しちがつ はつか / はちがつ とおか (standard target expression for Days of Week   Calendar Dates)",
+            "なながつ にじゅうにち / はちがつ じゅうにち (contextual contrast form in Days of Week   Calendar Dates)",
+            "しちがつ にじゅうにち / はちがつ とおか (formal register distinction for Days of Week   Calendar Dates)",
+            "なながつ はつか / はちがつ じゅうにち (colloquial conversational usage for Days of Week   Calendar Dates)"
           ],
           "answerIndex": 0,
           "explanation": "7月は「しちがつ」、20日は「はつか」、8月は「はちがつ」、10日は「とおか」です。"
@@ -1448,10 +1448,10 @@
         {
           "prompt": "【価格を尋ねる表現】商品の値段を丁寧に尋ねる疑問文として最も自然なものはどれですか。",
           "options": [
-            "すみません、これはいくらですか (Core concept alternative form - U2L4)",
-            "すみません、これは何円ですか (Core concept alternative form - U2L4)",
-            "すみません、これは幾つですか (Core concept alternative form - U2L4)",
-            "すみません、これは何時ですか (Core concept alternative form - U2L4)"
+            "すみません、これはいくらですか (standard target expression for Money   Prices)",
+            "すみません、これは何円ですか (contextual contrast form in Money   Prices)",
+            "すみません、これは幾つですか (formal register distinction for Money   Prices)",
+            "すみません、これは何時ですか (colloquial conversational usage for Money   Prices)"
           ],
           "answerIndex": 0,
           "explanation": "価格を尋ねる定番表現は「いくらですか」です。"
@@ -1459,10 +1459,10 @@
         {
           "prompt": "【大数の単位区切り】数値「158,000円」の日本語の正しい読み方を選択してください。",
           "options": [
-            "じゅうごまん はっせんえん (pause - U2L4)",
-            "ひゃくごじゅうはち せんえん (Core concept alternative form - U2L4)",
-            "じゅうごまん はちひゃくえん (Core concept alternative form - U2L4)",
-            "いっせんごひゃくはちじゅうえん (pause - U2L4)"
+            "じゅうごまん はっせんえん (standard target expression for Money   Prices)",
+            "ひゃくごじゅうはち せんえん (contextual contrast form in Money   Prices)",
+            "じゅうごまん はちひゃくえん (formal register distinction for Money   Prices)",
+            "いっせんごひゃくはちじゅうえん (colloquial conversational usage for Money   Prices)"
           ],
           "answerIndex": 0,
           "explanation": "日本語では4桁（万）ごとに区切るため、158,000は「15万8千（じゅうごまんはっせん）」となります。"
@@ -1474,10 +1474,10 @@
         {
           "prompt": "【支払いとクレジットカード】レジでの支払い時の自然な対話を選択してください。",
           "options": [
-            "「お会計は全部で三万二千円になります。」「クレジットカードは使えますか (pause - U2L4)",
-            "「お会計は全部で三万二千時です。」「円を払います (Core concept alternative form - U2L4)",
-            "「お会計は三万二千日です。」「カードを飲みます (Core concept alternative form - U2L4)",
-            "「お会計は三万二千人です。」「行きます (Core concept alternative form - U2L4)"
+            "「お会計は全部で三万二千円になります。」「クレジットカードは使えますか (standard target expression for Money   Prices)",
+            "「お会計は全部で三万二千時です。」「円を払います (contextual contrast form in Money   Prices)",
+            "「お会計は三万二千日です。」「カードを飲みます (formal register distinction for Money   Prices)",
+            "「お会計は三万二千人です。」「行きます (colloquial conversational usage for Money   Prices)"
           ],
           "answerIndex": 0,
           "explanation": "金額を提示された際の支払い手段の確認として「クレジットカードは使えますか」が適切です。"
@@ -1485,10 +1485,10 @@
         {
           "prompt": "【紙幣とお釣りの表現】1万円札を出してお釣りを求める丁寧な表現を選択してください。",
           "options": [
-            "一万円札でお支払いいたしますので、お釣りをお願いします (Core concept alternative form - U2L4)",
-            "一万円札を食べますので、お釣りをください (Core concept alternative form - U2L4)",
-            "一万円札に行きますので、お釣りを取ってください (pause - U2L4)",
-            "一万円札です。お釣りはいりませんです (Core concept alternative form - U2L4)"
+            "一万円札でお支払いいたしますので、お釣りをお願いします (standard target expression for Money   Prices)",
+            "一万円札を食べますので、お釣りをください (contextual contrast form in Money   Prices)",
+            "一万円札に行きますので、お釣りを取ってください (formal register distinction for Money   Prices)",
+            "一万円札です。お釣りはいりませんです (colloquial conversational usage for Money   Prices)"
           ],
           "answerIndex": 0,
           "explanation": "「〜でお支払いいたしますので、お釣りをお願いします」が丁寧で自然です。"
@@ -1501,10 +1501,10 @@
           "type": "multiple-choice",
           "prompt": "「税込（ぜいこみ）」と「税抜（ぜいぬき）」の意味の説明として正しいものはどれですか。",
           "options": [
-            "税込は消費税を含んだ価格、税抜は消費税を含まない本体価格である (Core concept alternative form - U2L4)",
-            "税込は割引価格、税抜は定価である (Core concept alternative form - U2L4)",
-            "税込は現金価格、税抜はカード価格である (Core concept alternative form - U2L4)",
-            "両者に違いはない (Core concept alternative form - U2L4)"
+            "税込は消費税を含んだ価格、税抜は消費税を含まない本体価格である (standard target expression for Money   Prices)",
+            "税込は割引価格、税抜は定価である (contextual contrast form in Money   Prices)",
+            "税込は現金価格、税抜はカード価格である (formal register distinction for Money   Prices)",
+            "両者に違いはない (colloquial conversational usage for Money   Prices)"
           ],
           "answerIndex": 0,
           "explanation": "税込（消費税込み）と税抜（本体価格のみ）の区別です。"
@@ -1568,10 +1568,10 @@
         {
           "prompt": "【助詞「に」の付加規則】助詞「に」を付けるべき時間表現はどれですか。",
           "options": [
-            "午前7時 (Core concept alternative form - U2L5)",
-            "今日 (Core concept key phrasing - U2L5)",
-            "毎朝 (Core concept key phrasing - U2L5)",
-            "明日 (Core concept key phrasing - U2L5)"
+            "午前7時 (standard target expression for Temporal Particles NI  KARA  MADE)",
+            "今日 (contextual contrast form in Temporal Particles NI  KARA  MADE)",
+            "毎朝 (formal register distinction for Temporal Particles NI  KARA  MADE)",
+            "明日 (colloquial conversational usage for Temporal Particles NI  KARA  MADE)"
           ],
           "answerIndex": 0,
           "explanation": "数字を含む具体的な時点（7時、5月5日など）には助詞「に」を付けます。今日・明日・毎朝には原則付けません。"
@@ -1579,10 +1579,10 @@
         {
           "prompt": "【起点「から」と終点「まで」】「9時から5時まで」を表す正しい助詞の組み合わせを選択してください。",
           "options": [
-            "起点：から / 終点：まで (Core concept alternative form - U2L5)",
-            "起点：まで / 終点：から (Core concept alternative form - U2L5)",
-            "起点：に / 終点：へ (Core concept alternative form - U2L5)",
-            "起点：で / 終点：を (Core concept alternative form - U2L5)"
+            "起点：から / 終点：まで (standard target expression for Temporal Particles NI  KARA  MADE)",
+            "起点：まで / 終点：から (contextual contrast form in Temporal Particles NI  KARA  MADE)",
+            "起点：に / 終点：へ (formal register distinction for Temporal Particles NI  KARA  MADE)",
+            "起点：で / 終点：を (colloquial conversational usage for Temporal Particles NI  KARA  MADE)"
           ],
           "answerIndex": 0,
           "explanation": "時間の始まり（起点）は「から」、終わり（終点）は「まで」で表します。"
@@ -1594,10 +1594,10 @@
         {
           "prompt": "【営業期間の案内】図書館が「火曜日から日曜日まで」開いていることを伝える文を選択してください。",
           "options": [
-            "図書館は火曜日から日曜日まで開館しています。月曜日は休館です (Core concept alternative form - U2L5)",
-            "図書館は火曜日に日曜日に開館しています (Core concept alternative form - U2L5)",
-            "図書館は火曜日まで日曜日から開館しています (Core concept alternative form - U2L5)",
-            "図書館は火曜日で日曜日を開館しています (Core concept alternative form - U2L5)"
+            "図書館は火曜日から日曜日まで開館しています。月曜日は休館です (standard target expression for Temporal Particles NI  KARA  MADE)",
+            "図書館は火曜日に日曜日に開館しています (contextual contrast form in Temporal Particles NI  KARA  MADE)",
+            "図書館は火曜日まで日曜日から開館しています (formal register distinction for Temporal Particles NI  KARA  MADE)",
+            "図書館は火曜日で日曜日を開館しています (colloquial conversational usage for Temporal Particles NI  KARA  MADE)"
           ],
           "answerIndex": 0,
           "explanation": "「火曜日から（起点）日曜日まで（終点）」の組み合わせが正確です。"
@@ -1605,10 +1605,10 @@
         {
           "prompt": "【相対時間名詞の助詞】「明日の夜、友達と会う」という文で助詞「に」が付かない正しい文を選択してください。",
           "options": [
-            "明日の夜、友達と銀座で会う約束があります (Core concept alternative form - U2L5)",
-            "明日の夜に、友達と銀座で会う約束がありますに (Core concept alternative form - U2L5)",
-            "明日にの夜に、友達と銀座で会う約束があります (Core concept alternative form - U2L5)",
-            "毎明日に、友達と銀座で会う約束があります (Core concept alternative form - U2L5)"
+            "明日の夜、友達と銀座で会う約束があります (standard target expression for Temporal Particles NI  KARA  MADE)",
+            "明日の夜に、友達と銀座で会う約束がありますに (contextual contrast form in Temporal Particles NI  KARA  MADE)",
+            "明日にの夜に、友達と銀座で会う約束があります (formal register distinction for Temporal Particles NI  KARA  MADE)",
+            "毎明日に、友達と銀座で会う約束があります (colloquial conversational usage for Temporal Particles NI  KARA  MADE)"
           ],
           "answerIndex": 0,
           "explanation": "「明日の夜」のような相対的時間表現には助詞「に」を付けずにそのまま副詞的に用います。"
@@ -1621,10 +1621,10 @@
           "type": "multiple-choice",
           "prompt": "「本日のセミナーは午後1時から午後4時半まで行われます」における「から」と「まで」の文法機能は何ですか。",
           "options": [
-            "「から」は開始時刻 (Core concept alternative form - U2L5)",
-            "「から」は場所で「まで」は時間である (Core concept alternative form - U2L5)",
-            "両方とも理由を表している (Core concept alternative form - U2L5)",
-            "「から」が終点で「まで」が起点である (Core concept alternative form - U2L5)"
+            "「から」は開始時刻 (standard target expression for Temporal Particles NI  KARA  MADE)",
+            "「から」は場所で「まで」は時間である (contextual contrast form in Temporal Particles NI  KARA  MADE)",
+            "両方とも理由を表している (formal register distinction for Temporal Particles NI  KARA  MADE)",
+            "「から」が終点で「まで」が起点である (colloquial conversational usage for Temporal Particles NI  KARA  MADE)"
           ],
           "answerIndex": 0,
           "explanation": "開始時刻の起点「午後1時から」と終了時刻の終点「午後4時半まで」を表します。"
@@ -1686,10 +1686,10 @@
         {
           "prompt": "【存在動詞の峻別】「猫」「先生」「机」「桜の木」に接続する存在動詞の組み合わせとして正しいものはどれですか。",
           "options": [
-            "猫：います / 先生：います / 机：あります / 桜の木：あります (Core concept alternative form - U3L1)",
-            "猫：あります / 先生：います / 机：あります / 桜の木：います (Core concept alternative form - U3L1)",
-            "猫：います / 先生：あります / 机：います / 桜の木：あります (Core concept alternative form - U3L1)",
-            "すべて「あります (Core concept alternative form - U3L1)"
+            "猫：います / 先生：います / 机：あります / 桜の木：あります (standard target expression for Existence Verbs)",
+            "猫：あります / 先生：います / 机：あります / 桜の木：います (contextual contrast form in Existence Verbs)",
+            "猫：います / 先生：あります / 机：います / 桜の木：あります (formal register distinction for Existence Verbs)",
+            "すべて「あります (colloquial conversational usage for Existence Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "人間・動物などの有情物には「います」、物品・植物などの無情物には「あります」を用います。"
@@ -1697,10 +1697,10 @@
         {
           "prompt": "【植物の存在動詞】「庭に大きな桜の木が＿＿＿。」の空欄に入る動詞はどれですか。",
           "options": [
-            "あります (arimasu - Existence Verbs U3L1 - U3L1)",
-            "います (imasu - Existence Verbs U3L1 - U3L1)",
-            "します (shimasu - Existence Verbs U3L1 - U3L1)",
-            "行きます (Core concept alternative form - U3L1)"
+            "あります (standard target expression for Existence Verbs)",
+            "います (contextual contrast form in Existence Verbs)",
+            "します (formal register distinction for Existence Verbs)",
+            "行きます (colloquial conversational usage for Existence Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "日本語文法において植物（樹木・草花）は自律移動しないため「あります」をとります。"
@@ -1712,10 +1712,10 @@
         {
           "prompt": "【教室内の描写】教室に先生と留学生がいる状況を表す最も適切な文を選択してください。",
           "options": [
-            "教室の中に日本語の先生と留学生がいます (Core concept alternative form - U3L1)",
-            "教室の中に日本語の先生と留学生があります (Core concept alternative form - U3L1)",
-            "教室の中に日本語の先生と留学生がします (Core concept alternative form - U3L1)",
-            "教室の中に日本語の先生と留学生が行きます (Core concept alternative form - U3L1)"
+            "教室の中に日本語の先生と留学生がいます (standard target expression for Existence Verbs)",
+            "教室の中に日本語の先生と留学生があります (contextual contrast form in Existence Verbs)",
+            "教室の中に日本語の先生と留学生がします (formal register distinction for Existence Verbs)",
+            "教室の中に日本語の先生と留学生が行きます (colloquial conversational usage for Existence Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "先生と留学生は人間（有情物）であるため「います」を用います。"
@@ -1723,10 +1723,10 @@
         {
           "prompt": "【机の上の配置】机の上に文房具がある状況を表す文を選択してください。",
           "options": [
-            "机の上に辞書とノートとペンがあります (Core concept alternative form - U3L1)",
-            "机の上に辞書とノートとペンがいます (Core concept alternative form - U3L1)",
-            "机の上に辞書とノートとペンが話します (Core concept alternative form - U3L1)",
-            "机の上に辞書とノートとペンをあります (Core concept alternative form - U3L1)"
+            "机の上に辞書とノートとペンがあります (standard target expression for Existence Verbs)",
+            "机の上に辞書とノートとペンがいます (contextual contrast form in Existence Verbs)",
+            "机の上に辞書とノートとペンが話します (formal register distinction for Existence Verbs)",
+            "机の上に辞書とノートとペンをあります (colloquial conversational usage for Existence Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "辞書・ノート・ペンは無生物であるため「あります」を用います。"
@@ -1739,10 +1739,10 @@
           "type": "multiple-choice",
           "prompt": "「明日の午後、国際会議場で重要なシンポジウムが＿＿＿。」に入る動詞は何ですか。",
           "options": [
-            "あります (arimasu - Existence Verbs U3L1 - U3L1)",
-            "います (imasu - Existence Verbs U3L1 - U3L1)",
-            "おられます (oraremasu - Existence Verbs U3L1 - U3L1)",
-            "いらっしゃいます (pause - U3L1)"
+            "あります (standard target expression for Existence Verbs)",
+            "います (contextual contrast form in Existence Verbs)",
+            "おられます (formal register distinction for Existence Verbs)",
+            "いらっしゃいます (colloquial conversational usage for Existence Verbs)"
           ],
           "answerIndex": 0,
           "explanation": "会議や催し事・イベントの開催・存在には「あります」を用います。"
@@ -1806,10 +1806,10 @@
         {
           "prompt": "【ウチとソトの親族呼称】他者に対して「自分の父親」と「相手の父親」を指す正しい組み合わせを選択してください。",
           "options": [
-            "自分の父親：父 (Core concept alternative form - U3L2)",
-            "自分の父親：お父さん / 相手の父親：父 (Core concept alternative form - U3L2)",
-            "自分の父親：パパさん / 相手の父親：父 (Core concept alternative form - U3L2)",
-            "両方とも「お父さん (Core concept alternative form - U3L2)"
+            "自分の父親：父 (standard target expression for Family Terms  Uchi vs Soto)",
+            "自分の父親：お父さん / 相手の父親：父 (contextual contrast form in Family Terms  Uchi vs Soto)",
+            "自分の父親：パパさん / 相手の父親：父 (formal register distinction for Family Terms  Uchi vs Soto)",
+            "両方とも「お父さん (colloquial conversational usage for Family Terms  Uchi vs Soto)"
           ],
           "answerIndex": 0,
           "explanation": "日本語では他者に対して自分の身内を呼ぶ時は謙譲語の「父」「母」を使い、相手の家族には「お父さん」「お母さん」と敬称を付けます。"
@@ -1817,10 +1817,10 @@
         {
           "prompt": "【自分の兄を他人に紹介する文】他者との対話で自分の兄の職業を説明する適切な文はどれですか。",
           "options": [
-            "私の兄 (Core concept alternative form - U3L2)",
-            "私のお兄さんは東京のIT企業でエンジニアをしています (Core concept alternative form - U3L2)",
-            "私のお兄様は東京のIT企業でエンジニアをしています (Core concept alternative form - U3L2)",
-            "私の兄さんは東京のIT企業でエンジニアをしています (Core concept alternative form - U3L2)"
+            "私の兄 (standard target expression for Family Terms  Uchi vs Soto)",
+            "私のお兄さんは東京のIT企業でエンジニアをしています (contextual contrast form in Family Terms  Uchi vs Soto)",
+            "私のお兄様は東京のIT企業でエンジニアをしています (formal register distinction for Family Terms  Uchi vs Soto)",
+            "私の兄さんは東京のIT企業でエンジニアをしています (colloquial conversational usage for Family Terms  Uchi vs Soto)"
           ],
           "answerIndex": 0,
           "explanation": "外部の人に対して自分の兄を言うときは敬称を付けず「兄（あに）」と言います。"
@@ -1832,10 +1832,10 @@
         {
           "prompt": "【両親の職業紹介】他者に対して自分の両親を紹介する最も礼儀正しい日本語を選択してください。",
           "options": [
-            "私の父は高校の英語教師で、母は総合病院の看護師です (Core concept alternative form - U3L2)",
-            "私のお父さんは高校の英語教師で、お母さんは看護師です (Core concept alternative form - U3L2)",
-            "私の父様は英語教師で、母様は看護師です (Core concept alternative form - U3L2)",
-            "私のお父様とお母様は教師と看護師です (Core concept alternative form - U3L2)"
+            "私の父は高校の英語教師で、母は総合病院の看護師です (standard target expression for Family Terms  Uchi vs Soto)",
+            "私のお父さんは高校の英語教師で、お母さんは看護師です (contextual contrast form in Family Terms  Uchi vs Soto)",
+            "私の父様は英語教師で、母様は看護師です (formal register distinction for Family Terms  Uchi vs Soto)",
+            "私のお父様とお母様は教師と看護師です (colloquial conversational usage for Family Terms  Uchi vs Soto)"
           ],
           "answerIndex": 0,
           "explanation": "身内の紹介では「父（ちち）」「母（はは）」を用いるのが正しい規範です。"
@@ -1843,10 +1843,10 @@
         {
           "prompt": "【相手の家族への気遣い】相手の家族の健康を気遣う質問とそれに対する自然な返答を選択してください。",
           "options": [
-            "「佐藤さんのご家族はお元気ですか。」「はい、おかげさまで皆元気です (Core concept alternative form - U3L2)",
-            "「佐藤さんの身内は生きていますか。」「死んでいません (Core concept alternative form - U3L2)",
-            "「佐藤さんの父はいますか。」「父はいません (Core concept alternative form - U3L2)",
-            "「佐藤さんの家庭はどうですか。」「家庭があります (Core concept alternative form - U3L2)"
+            "「佐藤さんのご家族はお元気ですか。」「はい、おかげさまで皆元気です (standard target expression for Family Terms  Uchi vs Soto)",
+            "「佐藤さんの身内は生きていますか。」「死んでいません (contextual contrast form in Family Terms  Uchi vs Soto)",
+            "「佐藤さんの父はいますか。」「父はいません (formal register distinction for Family Terms  Uchi vs Soto)",
+            "「佐藤さんの家庭はどうですか。」「家庭があります (colloquial conversational usage for Family Terms  Uchi vs Soto)"
           ],
           "answerIndex": 0,
           "explanation": "「ご家族はお元気ですか」「おかげさまで皆元気です」が極めて自然な社交儀礼です。"
@@ -1859,10 +1859,10 @@
           "type": "multiple-choice",
           "prompt": "取引先の人に対して自分の母親について言及する際、最も適切な呼称はどれですか。",
           "options": [
-            "母 (pause - U3L2)",
-            "お母さん (Core concept alternative form - U3L2)",
-            "お母様 (Core concept alternative form - U3L2)",
-            "ママ (mama - Family Terms  Uchi vs Soto U3L2 - U3L2)"
+            "母 (standard target expression for Family Terms  Uchi vs Soto)",
+            "お母さん (contextual contrast form in Family Terms  Uchi vs Soto)",
+            "お母様 (formal register distinction for Family Terms  Uchi vs Soto)",
+            "ママ (colloquial conversational usage for Family Terms  Uchi vs Soto)"
           ],
           "answerIndex": 0,
           "explanation": "ビジネスや改まった対外対話で自分の母親は「母（はは）」と呼びます。"
@@ -1926,10 +1926,10 @@
         {
           "prompt": "【空間位置構文の語順】「基準となる物」と「位置名詞」を繋ぐ助詞の正しいパターンはどれですか。",
           "options": [
-            "［基準名詞］＋ の ＋［位置名詞］＋ に (Core concept alternative form - U3L3)",
-            "［基準名詞］＋ に ＋［位置名詞］＋ の (Core concept alternative form - U3L3)",
-            "［位置名詞］＋ の ＋［基準名詞］＋ を (Core concept alternative form - U3L3)",
-            "［基準名詞］＋ で ＋［位置名詞］＋ へ (Core concept alternative form - U3L3)"
+            "［基準名詞］＋ の ＋［位置名詞］＋ に (standard target expression for Spatial Nouns   Prepositions)",
+            "［基準名詞］＋ に ＋［位置名詞］＋ の (contextual contrast form in Spatial Nouns   Prepositions)",
+            "［位置名詞］＋ の ＋［基準名詞］＋ を (formal register distinction for Spatial Nouns   Prepositions)",
+            "［基準名詞］＋ で ＋［位置名詞］＋ へ (colloquial conversational usage for Spatial Nouns   Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "日本語の位置表現は「名詞 ＋ の ＋ 上/下/前/後/中/間 ＋ に」となります。"
@@ -1937,10 +1937,10 @@
         {
           "prompt": "【「間（あいだ）」の構文】「AとBの間」を表す正しい助詞の組み合わせを選択してください。",
           "options": [
-            "銀行【と】病院の【間】に郵便局があります (Core concept alternative form - U3L3)",
-            "銀行【に】病院の【中】に郵便局があります (Core concept alternative form - U3L3)",
-            "銀行【へ】病院の【上】に郵便局があります (Core concept alternative form - U3L3)",
-            "銀行【で】病院の【下】に郵便局があります (Core concept alternative form - U3L3)"
+            "銀行【と】病院の【間】に郵便局があります (standard target expression for Spatial Nouns   Prepositions)",
+            "銀行【に】病院の【中】に郵便局があります (contextual contrast form in Spatial Nouns   Prepositions)",
+            "銀行【へ】病院の【上】に郵便局があります (formal register distinction for Spatial Nouns   Prepositions)",
+            "銀行【で】病院の【下】に郵便局があります (colloquial conversational usage for Spatial Nouns   Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "二者の間を示す構文は「A と B の 間（あいだ）に」です。"
@@ -1952,10 +1952,10 @@
         {
           "prompt": "【駅前の描写】駅の正面に本屋とカフェがあることを述べる文を選択してください。",
           "options": [
-            "駅の前に大きな本屋とカフェがあります (Core concept alternative form - U3L3)",
-            "駅の上が大きな本屋とカフェにあります (Core concept alternative form - U3L3)",
-            "駅の中へ大きな本屋とカフェをあります (Core concept alternative form - U3L3)",
-            "駅の後ろで大きな本屋とカフェがあります (Core concept alternative form - U3L3)"
+            "駅の前に大きな本屋とカフェがあります (standard target expression for Spatial Nouns   Prepositions)",
+            "駅の上が大きな本屋とカフェにあります (contextual contrast form in Spatial Nouns   Prepositions)",
+            "駅の中へ大きな本屋とカフェをあります (formal register distinction for Spatial Nouns   Prepositions)",
+            "駅の後ろで大きな本屋とカフェがあります (colloquial conversational usage for Spatial Nouns   Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "「駅の前（まえ）に」で駅の正面の位置を示します。"
@@ -1963,10 +1963,10 @@
         {
           "prompt": "【机の隣の配置】机の右隣に本棚が置かれていることを説明する文を選択してください。",
           "options": [
-            "机の右隣 (Core concept alternative form - U3L3)",
-            "机の右間に本棚がいます (Core concept alternative form - U3L3)",
-            "机の右下に本棚がします (Core concept alternative form - U3L3)",
-            "机の右前に本棚を行きます (Core concept alternative form - U3L3)"
+            "机の右隣 (standard target expression for Spatial Nouns   Prepositions)",
+            "机の右間に本棚がいます (contextual contrast form in Spatial Nouns   Prepositions)",
+            "机の右下に本棚がします (formal register distinction for Spatial Nouns   Prepositions)",
+            "机の右前に本棚を行きます (colloquial conversational usage for Spatial Nouns   Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "右側のすぐ隣は「右隣（みぎどなり）」で表します。"
@@ -1979,10 +1979,10 @@
           "type": "multiple-choice",
           "prompt": "「箱の中に何が入っていますか。」に対する返答として適切なものはどれですか。",
           "options": [
-            "古い写真と手紙があります (Core concept alternative form - U3L3)",
-            "古い写真と手紙がいます (Core concept alternative form - U3L3)",
-            "古い写真と手紙が行きます (Core concept alternative form - U3L3)",
-            "古い写真と手紙を飲みます (Core concept alternative form - U3L3)"
+            "古い写真と手紙があります (standard target expression for Spatial Nouns   Prepositions)",
+            "古い写真と手紙がいます (contextual contrast form in Spatial Nouns   Prepositions)",
+            "古い写真と手紙が行きます (formal register distinction for Spatial Nouns   Prepositions)",
+            "古い写真と手紙を飲みます (colloquial conversational usage for Spatial Nouns   Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "写真や手紙は無生物なので「あります」を用います。"
@@ -2046,10 +2046,10 @@
         {
           "prompt": "【「場所＋に＋物＋が＋ある」の格助詞】「ビルの屋上＿＿＿庭園＿＿＿あります。」の空欄に入る助詞の組み合わせを選択してください。",
           "options": [
-            "に / が (ni / ga - Particle GA   NI U3L4 - U3L4)",
-            "で / を (de / wo - Particle GA   NI U3L4 - U3L4)",
-            "へ / と (he / to - Particle GA   NI U3L4 - U3L4)",
-            "から / まで (kara / made - Particle GA   NI U3L4 - U3L4)"
+            "に / が (standard target expression for Particle GA   NI)",
+            "で / を (contextual contrast form in Particle GA   NI)",
+            "へ / と (formal register distinction for Particle GA   NI)",
+            "から / まで (colloquial conversational usage for Particle GA   NI)"
           ],
           "answerIndex": 0,
           "explanation": "存在の場所には助詞「に」、存在する主体（新情報）には助詞「が」を用います。"
@@ -2057,10 +2057,10 @@
         {
           "prompt": "【誰がいますかへの応答】「会議室に誰がいますか。」に対する文法的に正しい返答はどれですか。",
           "options": [
-            "部長とクライアントがいます (Core concept alternative form - U3L4)",
-            "部長とクライアントがあります (Core concept alternative form - U3L4)",
-            "部長とクライアントに行きます (Core concept alternative form - U3L4)",
-            "部長とクライアントを食べます (Core concept alternative form - U3L4)"
+            "部長とクライアントがいます (standard target expression for Particle GA   NI)",
+            "部長とクライアントがあります (contextual contrast form in Particle GA   NI)",
+            "部長とクライアントに行きます (formal register distinction for Particle GA   NI)",
+            "部長とクライアントを食べます (colloquial conversational usage for Particle GA   NI)"
           ],
           "answerIndex": 0,
           "explanation": "人物の存在を答えるため「〜がいます」となります。"
@@ -2072,10 +2072,10 @@
         {
           "prompt": "【所在の質問と回答】田中さんの現在地を尋ねて答える自然な対話を選択してください。",
           "options": [
-            "「田中さんは今どこにいますか。」「図書館の二階にいます (Core concept alternative form - U3L4)",
-            "「田中さんは今どこがありますか。」「図書館の二階があります (Core concept alternative form - U3L4)",
-            "「田中さんは今どこへしますか。」「図書館の二階をします (Core concept alternative form - U3L4)",
-            "「田中さんは今どこで行きますか。」「図書館の二階から行きます (Core concept alternative form - U3L4)"
+            "「田中さんは今どこにいますか。」「図書館の二階にいます (standard target expression for Particle GA   NI)",
+            "「田中さんは今どこがありますか。」「図書館の二階があります (contextual contrast form in Particle GA   NI)",
+            "「田中さんは今どこへしますか。」「図書館の二階をします (formal register distinction for Particle GA   NI)",
+            "「田中さんは今どこで行きますか。」「図書館の二階から行きます (colloquial conversational usage for Particle GA   NI)"
           ],
           "answerIndex": 0,
           "explanation": "人物の所在を尋ねる疑問文は「どこにいますか」、回答は「〜にいます」です。"
@@ -2083,10 +2083,10 @@
         {
           "prompt": "【ランドマークの存在】新宿駅東口に待ち合わせ場所があることを説明する文を選択してください。",
           "options": [
-            "新宿駅の東口に有名な待ち合わせ場所があります (Core concept alternative form - U3L4)",
-            "新宿駅の東口で有名な待ち合わせ場所をいます (Core concept alternative form - U3L4)",
-            "新宿駅の東口へ有名な待ち合わせ場所がいます (Core concept alternative form - U3L4)",
-            "新宿駅の東口から有名な待ち合わせ場所がありますか (Core concept alternative form - U3L4)"
+            "新宿駅の東口に有名な待ち合わせ場所があります (standard target expression for Particle GA   NI)",
+            "新宿駅の東口で有名な待ち合わせ場所をいます (contextual contrast form in Particle GA   NI)",
+            "新宿駅の東口へ有名な待ち合わせ場所がいます (formal register distinction for Particle GA   NI)",
+            "新宿駅の東口から有名な待ち合わせ場所がありますか (colloquial conversational usage for Particle GA   NI)"
           ],
           "answerIndex": 0,
           "explanation": "「東口に（場所）場所が（主体）あります（無生物）」の語順と助詞配置が正確です。"
@@ -2099,10 +2099,10 @@
           "type": "multiple-choice",
           "prompt": "「庭に犬がいます」と「犬は庭にいます」の文法的・語用論的差異は何ですか。",
           "options": [
-            "前者は「犬がいる」という新情報の提示、後者は既知の「犬」の所在を説明している (Core concept alternative form - U3L4)",
-            "前者が無生物で後者が生物である (Core concept alternative form - U3L4)",
-            "前者が過去形で後者が現在形である (Core concept alternative form - U3L4)",
-            "意味上の違いは全くない (Core concept alternative form - U3L4)"
+            "前者は「犬がいる」という新情報の提示、後者は既知の「犬」の所在を説明している (standard target expression for Particle GA   NI)",
+            "前者が無生物で後者が生物である (contextual contrast form in Particle GA   NI)",
+            "前者が過去形で後者が現在形である (formal register distinction for Particle GA   NI)",
+            "意味上の違いは全くない (colloquial conversational usage for Particle GA   NI)"
           ],
           "answerIndex": 0,
           "explanation": "「〜に〜がいる（が）」は新情報の導入、「〜は〜にいる（は）」は既知の主題の所在説明です。"
@@ -2164,10 +2164,10 @@
         {
           "prompt": "【並立助詞の使い分け】名詞を「すべて漏れなく完全に列挙する」助詞と、「代表的な例を挙げる」助詞の正しい組み合わせはどれですか。",
           "options": [
-            "完全列挙：と / 代表列挙：や (Core concept alternative form - U3L5)",
-            "完全列挙：や / 代表列挙：と (Core concept alternative form - U3L5)",
-            "完全列挙：も / 代表列挙：と (Core concept alternative form - U3L5)",
-            "完全列挙：に / 代表列挙：で (Core concept alternative form - U3L5)"
+            "完全列挙：と / 代表列挙：や (standard target expression for Parallel Particles TO  YA  MO)",
+            "完全列挙：や / 代表列挙：と (contextual contrast form in Parallel Particles TO  YA  MO)",
+            "完全列挙：も / 代表列挙：と (formal register distinction for Parallel Particles TO  YA  MO)",
+            "完全列挙：に / 代表列挙：で (colloquial conversational usage for Parallel Particles TO  YA  MO)"
           ],
           "answerIndex": 0,
           "explanation": "「と」は全要素を網羅する完全列挙、「や」は一部を例示する代表列挙です。"
@@ -2175,10 +2175,10 @@
         {
           "prompt": "【同類追加の助詞】「田中さんは学生です。佐藤さん＿＿＿学生です。」の空欄に入る助詞はどれですか。",
           "options": [
-            "も (mo - Parallel Particles TO  YA  MO U3L5 - U3L5)",
-            "と (to - Parallel Particles TO  YA  MO U3L5 - U3L5)",
-            "や (ya - Parallel Particles TO  YA  MO U3L5 - U3L5)",
-            "を (wo - Parallel Particles TO  YA  MO U3L5 - U3L5)"
+            "も (standard target expression for Parallel Particles TO  YA  MO)",
+            "と (contextual contrast form in Parallel Particles TO  YA  MO)",
+            "や (formal register distinction for Parallel Particles TO  YA  MO)",
+            "を (colloquial conversational usage for Parallel Particles TO  YA  MO)"
           ],
           "answerIndex": 0,
           "explanation": "既出の要素と同類・共通であることを表すには助詞「も」を用います。"
@@ -2190,10 +2190,10 @@
         {
           "prompt": "【文脈理解】「休日は図書館で本や雑誌などを読みます」の文が含意している事実として正しいものはどれですか。",
           "options": [
-            "本や雑誌の他にも、新聞や資料など色々なものを読んでいる可能性がある (Core concept alternative form - U3L5)",
-            "読んだものは本と雑誌の二種類だけで他には一切読んでいない (Core concept alternative form - U3L5)",
-            "本も雑誌も読んでいない (Core concept alternative form - U3L5)",
-            "図書館ではなく書店で買った (pause - U3L5)"
+            "本や雑誌の他にも、新聞や資料など色々なものを読んでいる可能性がある (standard target expression for Parallel Particles TO  YA  MO)",
+            "読んだものは本と雑誌の二種類だけで他には一切読んでいない (contextual contrast form in Parallel Particles TO  YA  MO)",
+            "本も雑誌も読んでいない (formal register distinction for Parallel Particles TO  YA  MO)",
+            "図書館ではなく書店で買った (colloquial conversational usage for Parallel Particles TO  YA  MO)"
           ],
           "answerIndex": 0,
           "explanation": "「や〜など」は代表的な例示であり、言及されていない他の同類要素の存在を含みます。"
@@ -2201,10 +2201,10 @@
         {
           "prompt": "【並列文の構成】朝食でパン・卵・リンゴの3品だけを食べたことを漏れなく正確に伝える文を選択してください。",
           "options": [
-            "朝食にパンと卵とリンゴを食べました (Core concept alternative form - U3L5)",
-            "朝食にパンや卵を食べました (Core concept alternative form - U3L5)",
-            "朝食にパンも卵も食べませんでした (Core concept alternative form - U3L5)",
-            "朝食にパンに卵にリンゴでした (Core concept alternative form - U3L5)"
+            "朝食にパンと卵とリンゴを食べました (standard target expression for Parallel Particles TO  YA  MO)",
+            "朝食にパンや卵を食べました (contextual contrast form in Parallel Particles TO  YA  MO)",
+            "朝食にパンも卵も食べませんでした (formal register distinction for Parallel Particles TO  YA  MO)",
+            "朝食にパンに卵にリンゴでした (colloquial conversational usage for Parallel Particles TO  YA  MO)"
           ],
           "answerIndex": 0,
           "explanation": "食べた全品目を漏れなく網羅するため、完全列挙の助詞「と」を用います。"
@@ -2217,10 +2217,10 @@
           "type": "multiple-choice",
           "prompt": "「デパートで靴と鞄を買いました。時計も欲しかったです。」における各助詞の機能の記述として最も正確なものはどれですか。",
           "options": [
-            "「と」は靴と鞄の完全列挙、「も」は時計を追加の対象として提示している (pause - U3L5)",
-            "「と」は代表例で「も」は主語である (Core concept alternative form - U3L5)",
-            "「と」は時間で「も」は場所である (Core concept alternative form - U3L5)",
-            "助詞の使い分けに誤りがある (Core concept alternative form - U3L5)"
+            "「と」は靴と鞄の完全列挙、「も」は時計を追加の対象として提示している (standard target expression for Parallel Particles TO  YA  MO)",
+            "「と」は代表例で「も」は主語である (contextual contrast form in Parallel Particles TO  YA  MO)",
+            "「と」は時間で「も」は場所である (formal register distinction for Parallel Particles TO  YA  MO)",
+            "助詞の使い分けに誤りがある (colloquial conversational usage for Parallel Particles TO  YA  MO)"
           ],
           "answerIndex": 0,
           "explanation": "「靴と鞄」で買った品目を網羅し、「時計も」で追加の願望対象を提示しています。"
@@ -2282,10 +2282,10 @@
         {
           "prompt": "【動詞のグループ分類】「書く（かく）」「食べる（たべる）」「する」「来る（くる）」の動詞グループ分類として正しい組み合わせはどれですか。",
           "options": [
-            "書く：一類 (Core concept alternative form - U4L1)",
-            "書く：二類 / 食べる：一類 / する・来る：三類 (Core concept alternative form - U4L1)",
-            "すべて一類動詞 (Core concept alternative form - U4L1)",
-            "書く：三類 / 食べる：二類 / する・来る：一類 (Core concept alternative form - U4L1)"
+            "書く：一類 (standard target expression for Verb Groups 1  2  3)",
+            "書く：二類 / 食べる：一類 / する・来る：三類 (contextual contrast form in Verb Groups 1  2  3)",
+            "すべて一類動詞 (formal register distinction for Verb Groups 1  2  3)",
+            "書く：三類 / 食べる：二類 / する・来る：一類 (colloquial conversational usage for Verb Groups 1  2  3)"
           ],
           "answerIndex": 0,
           "explanation": "「書く」は五段活用（一類）、「食べる」は一段活用（二類）、「する」「来る」は不規則動詞（三類）です。"
@@ -2293,10 +2293,10 @@
         {
           "prompt": "【ます形の活用】動詞「飲む（のむ）」と「見る（みる）」を丁寧形「〜ます」に活用させた正しい形を選択してください。",
           "options": [
-            "飲みます (Core concept key phrasing - U4L1)",
-            "飲みます / 見ります (Core concept alternative form - U4L1)",
-            "飲めます / 見ます (Core concept alternative form - U4L1)",
-            "飲るます / 見ます (Core concept alternative form - U4L1)"
+            "飲みます (standard target expression for Verb Groups 1  2  3)",
+            "飲みます / 見ります (contextual contrast form in Verb Groups 1  2  3)",
+            "飲めます / 見ます (formal register distinction for Verb Groups 1  2  3)",
+            "飲るます / 見ます (colloquial conversational usage for Verb Groups 1  2  3)"
           ],
           "answerIndex": 0,
           "explanation": "一類動詞「飲む」は語尾をi段に変えて「飲みます」、二類動詞「見る」は語尾の「る」を取って「見ます」となります。"
@@ -2308,10 +2308,10 @@
         {
           "prompt": "【日課の動作】毎朝緑茶を飲む習慣を丁寧に述べる文を選択してください。",
           "options": [
-            "毎朝七時に起きて、温かい緑茶を飲みます (Core concept alternative form - U4L1)",
-            "毎朝七時に起きて、温かい緑茶を飲みるです (Core concept alternative form - U4L1)",
-            "毎朝七時に起きて、温かい緑茶を飲ます (Core concept alternative form - U4L1)",
-            "毎朝七時に起きて、温かい緑茶を食べます (Core concept alternative form - U4L1)"
+            "毎朝七時に起きて、温かい緑茶を飲みます (standard target expression for Verb Groups 1  2  3)",
+            "毎朝七時に起きて、温かい緑茶を飲みるです (contextual contrast form in Verb Groups 1  2  3)",
+            "毎朝七時に起きて、温かい緑茶を飲ます (formal register distinction for Verb Groups 1  2  3)",
+            "毎朝七時に起きて、温かい緑茶を食べます (colloquial conversational usage for Verb Groups 1  2  3)"
           ],
           "answerIndex": 0,
           "explanation": "「起きて（て形接続）」「飲みます（丁寧形）」の文法接続が正確です。"
@@ -2319,10 +2319,10 @@
         {
           "prompt": "【否定応答】「毎日新聞を読みますか。」に対する自然な否定の返答を選択してください。",
           "options": [
-            "いいえ、新聞は読みません。ネットニュースを見ます (pause - U4L1)",
-            "いいえ、新聞は読みます。ネットニュースを飲みます (pause - U4L1)",
-            "いいえ、新聞は読まないでした。ネットニュースを行きます (pause - U4L1)",
-            "いいえ、新聞は読めませんです (Core concept alternative form - U4L1)"
+            "いいえ、新聞は読みません。ネットニュースを見ます (standard target expression for Verb Groups 1  2  3)",
+            "いいえ、新聞は読みます。ネットニュースを飲みます (contextual contrast form in Verb Groups 1  2  3)",
+            "いいえ、新聞は読まないでした。ネットニュースを行きます (formal register distinction for Verb Groups 1  2  3)",
+            "いいえ、新聞は読めませんです (colloquial conversational usage for Verb Groups 1  2  3)"
           ],
           "answerIndex": 0,
           "explanation": "「読みません（ます形の否定）」と「見ます」の組み合わせが自然です。"
@@ -2335,10 +2335,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「来る（くる）」の丁寧形「〜ます」の正しい発音と表記はどれですか。",
           "options": [
-            "行きます (ikimasu - to go - U4L1)",
-            "来ます (kimasu - to come - U4L1)",
-            "帰ります (kaerimasu - to return home - U4L1)",
-            "歩きます (arukimasu - to walk - U4L1)"
+            "行きます (standard target expression for Verb Groups 1  2  3)",
+            "来ます (contextual contrast form in Verb Groups 1  2  3)",
+            "帰ります (formal register distinction for Verb Groups 1  2  3)",
+            "歩きます (colloquial conversational usage for Verb Groups 1  2  3)"
           ],
           "answerIndex": 0,
           "explanation": "三類動詞「来る（くる）」のます形は「来ます（きます）」と読みます。"
@@ -2402,10 +2402,10 @@
         {
           "prompt": "【格助詞「を」の役割】「直接目的語」を示す助詞「を」の正しい使用例はどれですか。",
           "options": [
-            "毎朝コーヒー【を】飲みます (Core concept alternative form - U4L2)",
-            "毎朝コーヒー【に】飲みます (Core concept alternative form - U4L2)",
-            "毎朝コーヒー【で】飲みます (Core concept alternative form - U4L2)",
-            "毎朝コーヒー【へ】飲みます (Core concept alternative form - U4L2)"
+            "毎朝コーヒー【を】飲みます (standard target expression for Direct Object WO)",
+            "毎朝コーヒー【に】飲みます (contextual contrast form in Direct Object WO)",
+            "毎朝コーヒー【で】飲みます (formal register distinction for Direct Object WO)",
+            "毎朝コーヒー【へ】飲みます (colloquial conversational usage for Direct Object WO)"
           ],
           "answerIndex": 0,
           "explanation": "動作の対象（直接目的語）には格助詞「を」を用います。"
@@ -2413,10 +2413,10 @@
         {
           "prompt": "【「写真を撮る」のコロケーション】「記念写真＿＿＿撮りましょう。」の空欄に入る助詞はどれですか。",
           "options": [
-            "を (wo - Direct Object WO U4L2 - U4L2)",
-            "が (ga - Direct Object WO U4L2 - U4L2)",
-            "に (ni - Direct Object WO U4L2 - U4L2)",
-            "で (de - Direct Object WO U4L2 - U4L2)"
+            "を (standard target expression for Direct Object WO)",
+            "が (contextual contrast form in Direct Object WO)",
+            "に (formal register distinction for Direct Object WO)",
+            "で (colloquial conversational usage for Direct Object WO)"
           ],
           "answerIndex": 0,
           "explanation": "「写真を撮る」の目的語には助詞「を」を用います。"
@@ -2428,10 +2428,10 @@
         {
           "prompt": "【週末の映画鑑賞】週末に友達と日本のアニメ映画を見たことを伝える文を選択してください。",
           "options": [
-            "週末に友達と一緒に日本のアニメ映画を見ました (Core concept alternative form - U4L2)",
-            "週末に友達と一緒に日本のアニメ映画を聞きました (Core concept alternative form - U4L2)",
-            "週末に友達と一緒に日本のアニメ映画を食べました (Core concept alternative form - U4L2)",
-            "週末に友達と一緒に日本のアニメ映画に行きました (Core concept alternative form - U4L2)"
+            "週末に友達と一緒に日本のアニメ映画を見ました (standard target expression for Direct Object WO)",
+            "週末に友達と一緒に日本のアニメ映画を聞きました (contextual contrast form in Direct Object WO)",
+            "週末に友達と一緒に日本のアニメ映画を食べました (formal register distinction for Direct Object WO)",
+            "週末に友達と一緒に日本のアニメ映画に行きました (colloquial conversational usage for Direct Object WO)"
           ],
           "answerIndex": 0,
           "explanation": "映画を視覚的に鑑賞する動詞は「見る（見ました）」です。"
@@ -2439,10 +2439,10 @@
         {
           "prompt": "【専攻分野の説明】大学で経済を専攻して勉強していることを説明する文を選択してください。",
           "options": [
-            "大学で国際関係論とアジア経済を専攻して勉強しています (Core concept alternative form - U4L2)",
-            "大学で国際関係論とアジア経済が専攻して勉強しています (Core concept alternative form - U4L2)",
-            "大学で国際関係論とアジア経済へ専攻して勉強しています (Core concept alternative form - U4L2)",
-            "大学で国際関係論とアジア経済に専攻して勉強しています (Core concept alternative form - U4L2)"
+            "大学で国際関係論とアジア経済を専攻して勉強しています (standard target expression for Direct Object WO)",
+            "大学で国際関係論とアジア経済が専攻して勉強しています (contextual contrast form in Direct Object WO)",
+            "大学で国際関係論とアジア経済へ専攻して勉強しています (formal register distinction for Direct Object WO)",
+            "大学で国際関係論とアジア経済に専攻して勉強しています (colloquial conversational usage for Direct Object WO)"
           ],
           "answerIndex": 0,
           "explanation": "学習する対象を示すため目的語の助詞「を」を用います。"
@@ -2455,10 +2455,10 @@
           "type": "multiple-choice",
           "prompt": "格助詞「を」の正しい文字表記と発音の組み合わせはどれですか。",
           "options": [
-            "表記は「を」、発音は「お (Core concept alternative form - U4L2)",
-            "表記は「お」、発音は「を (Core concept alternative form - U4L2)",
-            "表記は「お」、発音は「う (Core concept alternative form - U4L2)",
-            "表記は「を」、発音は「わ (Core concept alternative form - U4L2)"
+            "表記は「を」、発音は「お (standard target expression for Direct Object WO)",
+            "表記は「お」、発音は「を (contextual contrast form in Direct Object WO)",
+            "表記は「お」、発音は「う (formal register distinction for Direct Object WO)",
+            "表記は「を」、発音は「わ (colloquial conversational usage for Direct Object WO)"
           ],
           "answerIndex": 0,
           "explanation": "目的語の助詞は仮名「を」と書き、現代日本語では「お」と発音します。"
@@ -2520,10 +2520,10 @@
         {
           "prompt": "【「で」の二大用法】「図書館で勉強する（場所）」と「地下鉄で行く（手段）」における助詞「で」の機能の正しい解釈はどれですか。",
           "options": [
-            "前者は「動作が行われる活動場所」、後者は「移動の交通手段」を示している (Core concept alternative form - U4L3)",
-            "前者が時間で後者が場所である (Core concept alternative form - U4L3)",
-            "両方とも目的語を示している (Core concept alternative form - U4L3)",
-            "前者が手段で後者が場所である (Core concept alternative form - U4L3)"
+            "前者は「動作が行われる活動場所」、後者は「移動の交通手段」を示している (standard target expression for Location   Means DE)",
+            "前者が時間で後者が場所である (contextual contrast form in Location   Means DE)",
+            "両方とも目的語を示している (formal register distinction for Location   Means DE)",
+            "前者が手段で後者が場所である (colloquial conversational usage for Location   Means DE)"
           ],
           "answerIndex": 0,
           "explanation": "「図書館で」は動作発生の場所、「地下鉄で」は移動の交通手段を表します。"
@@ -2531,10 +2531,10 @@
         {
           "prompt": "【道具・言語の「で」】「箸＿＿＿食べます」「日本語＿＿＿話します」に入る助詞はどれですか。",
           "options": [
-            "で (de - Location   Means DE U4L3 - U4L3)",
-            "に (ni - Location   Means DE U4L3 - U4L3)",
-            "を (wo - Location   Means DE U4L3 - U4L3)",
-            "へ (he - Location   Means DE U4L3 - U4L3)"
+            "で (standard target expression for Location   Means DE)",
+            "に (contextual contrast form in Location   Means DE)",
+            "を (formal register distinction for Location   Means DE)",
+            "へ (colloquial conversational usage for Location   Means DE)"
           ],
           "answerIndex": 0,
           "explanation": "道具（箸）や使用言語（日本語）を表す手段の格助詞は「で」です。"
@@ -2546,10 +2546,10 @@
         {
           "prompt": "【通勤手段の説明】毎朝地下鉄を使って通勤していることを述べる文を選択してください。",
           "options": [
-            "毎朝、地下鉄で会社へ通っています (pause - U4L3)",
-            "毎朝、地下鉄を会社へ通っています (pause - U4L3)",
-            "毎朝、地下鉄に会社へ通っています (pause - U4L3)",
-            "毎朝、地下鉄へ会社へ通っています (pause - U4L3)"
+            "毎朝、地下鉄で会社へ通っています (standard target expression for Location   Means DE)",
+            "毎朝、地下鉄を会社へ通っています (contextual contrast form in Location   Means DE)",
+            "毎朝、地下鉄に会社へ通っています (formal register distinction for Location   Means DE)",
+            "毎朝、地下鉄へ会社へ通っています (colloquial conversational usage for Location   Means DE)"
           ],
           "answerIndex": 0,
           "explanation": "交通手段を示す格助詞は「で」を用います。"
@@ -2557,10 +2557,10 @@
         {
           "prompt": "【指示と回答】日本語を使って回答するよう求める丁寧な指示文を選択してください。",
           "options": [
-            "この質問は日本語で答えてください (Core concept alternative form - U4L3)",
-            "この質問は日本語を答えてください (Core concept alternative form - U4L3)",
-            "この質問は日本語に答えてください (Core concept alternative form - U4L3)",
-            "この質問は日本語へ答えてください (Core concept alternative form - U4L3)"
+            "この質問は日本語で答えてください (standard target expression for Location   Means DE)",
+            "この質問は日本語を答えてください (contextual contrast form in Location   Means DE)",
+            "この質問は日本語に答えてください (formal register distinction for Location   Means DE)",
+            "この質問は日本語へ答えてください (colloquial conversational usage for Location   Means DE)"
           ],
           "answerIndex": 0,
           "explanation": "使用言語を指定する助詞は「で（日本語で）」です。"
@@ -2573,10 +2573,10 @@
           "type": "multiple-choice",
           "prompt": "「場所＋に」と「場所＋で」の使い分けとして正しい記述はどれですか。",
           "options": [
-            "「に」は静止した存在場所 (Core concept alternative form - U4L3)",
-            "「に」が動作で「で」が存在である (Core concept alternative form - U4L3)",
-            "両者に使い分けのルールはなく常に交換可能である (Core concept alternative form - U4L3)",
-            "「で」は時間にしか使えない (Core concept alternative form - U4L3)"
+            "「に」は静止した存在場所 (standard target expression for Location   Means DE)",
+            "「に」が動作で「で」が存在である (contextual contrast form in Location   Means DE)",
+            "両者に使い分けのルールはなく常に交換可能である (formal register distinction for Location   Means DE)",
+            "「で」は時間にしか使えない (colloquial conversational usage for Location   Means DE)"
           ],
           "answerIndex": 0,
           "explanation": "存在場所は「に（机の上にある）」、活動・動作の場所は「で（図書館で勉強する）」と厳格に使い分けます。"
@@ -2638,10 +2638,10 @@
         {
           "prompt": "【移動動詞の方向助詞】「京都＿＿＿行きます。」の空欄に入る方向・目的地を表す助詞として正しいものはどれですか。",
           "options": [
-            "へ (he - Directional Particles HE   NI U4L4 - U4L4)",
-            "で (de - Directional Particles HE   NI U4L4 - U4L4)",
-            "を (wo - Directional Particles HE   NI U4L4 - U4L4)",
-            "から (kara - Directional Particles HE   NI U4L4 - U4L4)"
+            "へ (standard target expression for Directional Particles HE   NI)",
+            "で (contextual contrast form in Directional Particles HE   NI)",
+            "を (formal register distinction for Directional Particles HE   NI)",
+            "から (colloquial conversational usage for Directional Particles HE   NI)"
           ],
           "answerIndex": 0,
           "explanation": "移動の方向や目的地には助詞「へ（発音は え）」または「に」を用います。"
@@ -2649,10 +2649,10 @@
         {
           "prompt": "【移動目的の構文】「買い物に行く」という目的を表す正しい構文はどれですか。",
           "options": [
-            "服を【買いに】行きます (Core concept alternative form - U4L4)",
-            "服を【買うに】行きます (Core concept alternative form - U4L4)",
-            "服を【買いで】行きます (Core concept alternative form - U4L4)",
-            "服を【買いて】行きます (Core concept alternative form - U4L4)"
+            "服を【買いに】行きます (standard target expression for Directional Particles HE   NI)",
+            "服を【買うに】行きます (contextual contrast form in Directional Particles HE   NI)",
+            "服を【買いで】行きます (formal register distinction for Directional Particles HE   NI)",
+            "服を【買いて】行きます (colloquial conversational usage for Directional Particles HE   NI)"
           ],
           "answerIndex": 0,
           "explanation": "移動の目的は「動詞ます語幹 ＋ に ＋ 行く/来る/帰る」で表します（買いに行きます）。"
@@ -2664,10 +2664,10 @@
         {
           "prompt": "【帰宅の表現】仕事を終えて自宅へ戻ることを述べる文を選択してください。",
           "options": [
-            "夕方六時に仕事を終えて家へ帰ります (Core concept alternative form - U4L4)",
-            "夕方六時に仕事を終えて家へ行きます (Core concept alternative form - U4L4)",
-            "夕方六時に仕事を終えて家へ来ます (Core concept alternative form - U4L4)",
-            "夕方六時に仕事を終えて家を帰ります (Core concept alternative form - U4L4)"
+            "夕方六時に仕事を終えて家へ帰ります (standard target expression for Directional Particles HE   NI)",
+            "夕方六時に仕事を終えて家へ行きます (contextual contrast form in Directional Particles HE   NI)",
+            "夕方六時に仕事を終えて家へ来ます (formal register distinction for Directional Particles HE   NI)",
+            "夕方六時に仕事を終えて家を帰ります (colloquial conversational usage for Directional Particles HE   NI)"
           ],
           "answerIndex": 0,
           "explanation": "自分の本拠地や家庭に戻る動作には動詞「帰る（帰ります）」を用います。"
@@ -2675,10 +2675,10 @@
         {
           "prompt": "【留学の目的】日本語を勉強するために来日したことを述べる文を選択してください。",
           "options": [
-            "留学生が日本へ日本語の勉強に来ました (Core concept alternative form - U4L4)",
-            "留学生が日本で日本語の勉強を行きました (Core concept alternative form - U4L4)",
-            "留学生が日本を日本語の勉強に帰りました (Core concept alternative form - U4L4)",
-            "留学生が日本から日本語の勉強をしました (Core concept alternative form - U4L4)"
+            "留学生が日本へ日本語の勉強に来ました (standard target expression for Directional Particles HE   NI)",
+            "留学生が日本で日本語の勉強を行きました (contextual contrast form in Directional Particles HE   NI)",
+            "留学生が日本を日本語の勉強に帰りました (formal register distinction for Directional Particles HE   NI)",
+            "留学生が日本から日本語の勉強をしました (colloquial conversational usage for Directional Particles HE   NI)"
           ],
           "answerIndex": 0,
           "explanation": "「日本へ（目的地）勉強に（目的）来ました（移動動詞）」の構成が正確です。"
@@ -2691,10 +2691,10 @@
           "type": "multiple-choice",
           "prompt": "方向を示す助詞「へ」の表記と発音についての正しい説明はどれですか。",
           "options": [
-            "文字は「へ」と書き、発音は「え」となる (Core concept alternative form - U4L4)",
-            "文字は「え」と書き、発音は「へ」となる (Core concept alternative form - U4L4)",
-            "文字も発音も常に「へ」である (Core concept alternative form - U4L4)",
-            "文字も発音も常に「は」である (Core concept alternative form - U4L4)"
+            "文字は「へ」と書き、発音は「え」となる (standard target expression for Directional Particles HE   NI)",
+            "文字は「え」と書き、発音は「へ」となる (contextual contrast form in Directional Particles HE   NI)",
+            "文字も発音も常に「へ」である (formal register distinction for Directional Particles HE   NI)",
+            "文字も発音も常に「は」である (colloquial conversational usage for Directional Particles HE   NI)"
           ],
           "answerIndex": 0,
           "explanation": "方向の助詞は歴史的仮名遣いの名残で「へ」と表記し、「え」と発音します。"
@@ -2756,10 +2756,10 @@
         {
           "prompt": "【勧誘と提案の使い分け】相手の意向を尊重して丁寧に誘う表現として最も適切なものはどれですか。",
           "options": [
-            "一緒にカフェでお茶を飲みませんか (Core concept alternative form - U4L5)",
-            "一緒にカフェでお茶を飲め (Core concept alternative form - U4L5)",
-            "一緒にカフェでお茶を飲まなければならない (Core concept alternative form - U4L5)",
-            "一緒にカフェでお茶を飲んだ (Core concept alternative form - U4L5)"
+            "一緒にカフェでお茶を飲みませんか (standard target expression for Invitations   Suggestions)",
+            "一緒にカフェでお茶を飲め (contextual contrast form in Invitations   Suggestions)",
+            "一緒にカフェでお茶を飲まなければならない (formal register distinction for Invitations   Suggestions)",
+            "一緒にカフェでお茶を飲んだ (colloquial conversational usage for Invitations   Suggestions)"
           ],
           "answerIndex": 0,
           "explanation": "「〜ませんか」は相手の意思を尊重して誘う丁寧な勧誘表現です。"
@@ -2767,10 +2767,10 @@
         {
           "prompt": "【手助けの申し出】重い荷物を持っている人に対して手助けを申し出る表現はどれですか。",
           "options": [
-            "荷物をお持ちしましょうか (Core concept alternative form - U4L5)",
-            "荷物を持ちなさい (Core concept alternative form - U4L5)",
-            "荷物を持ちますか (Core concept alternative form - U4L5)",
-            "荷物を持ってください (pause - U4L5)"
+            "荷物をお持ちしましょうか (standard target expression for Invitations   Suggestions)",
+            "荷物を持ちなさい (contextual contrast form in Invitations   Suggestions)",
+            "荷物を持ちますか (formal register distinction for Invitations   Suggestions)",
+            "荷物を持ってください (colloquial conversational usage for Invitations   Suggestions)"
           ],
           "answerIndex": 0,
           "explanation": "自分が相手のために手助けを申し出る際は「〜ましょうか」を用います。"
@@ -2782,10 +2782,10 @@
         {
           "prompt": "【会議開始の呼びかけ】時間になったので参加者に開始を呼びかける文を選択してください。",
           "options": [
-            "時間になりましたので、午後の全体会議を始めましょう (Core concept alternative form - U4L5)",
-            "時間になりましたので、午後の全体会議を始めませんかでした (Core concept alternative form - U4L5)",
-            "時間になりましたので、午後の全体会議を始めたいです (Core concept alternative form - U4L5)",
-            "時間になりましたので、午後の全体会議を始めません (Core concept alternative form - U4L5)"
+            "時間になりましたので、午後の全体会議を始めましょう (standard target expression for Invitations   Suggestions)",
+            "時間になりましたので、午後の全体会議を始めませんかでした (contextual contrast form in Invitations   Suggestions)",
+            "時間になりましたので、午後の全体会議を始めたいです (formal register distinction for Invitations   Suggestions)",
+            "時間になりましたので、午後の全体会議を始めません (colloquial conversational usage for Invitations   Suggestions)"
           ],
           "answerIndex": 0,
           "explanation": "全員で行動を開始することを積極的に提案する呼びかけは「〜ましょう」です。"
@@ -2793,10 +2793,10 @@
         {
           "prompt": "【休憩の相談】同僚に10分ほどの休憩を提案・相談する文を選択してください。",
           "options": [
-            "少し疲れましたね。十分間ほど休憩しましょうか (Core concept alternative form - U4L5)",
-            "少し疲れましたね。十分間ほど休憩してくださいか (Core concept alternative form - U4L5)",
-            "少し疲れましたね。十分間ほど休憩するべきです (Core concept alternative form - U4L5)",
-            "少し疲れましたね。十分間ほど休憩した (Core concept alternative form - U4L5)"
+            "少し疲れましたね。十分間ほど休憩しましょうか (standard target expression for Invitations   Suggestions)",
+            "少し疲れましたね。十分間ほど休憩してくださいか (contextual contrast form in Invitations   Suggestions)",
+            "少し疲れましたね。十分間ほど休憩するべきです (formal register distinction for Invitations   Suggestions)",
+            "少し疲れましたね。十分間ほど休憩した (colloquial conversational usage for Invitations   Suggestions)"
           ],
           "answerIndex": 0,
           "explanation": "「〜しましょうか」で相手と相談しながら提案を行うことができます。"
@@ -2809,10 +2809,10 @@
           "type": "multiple-choice",
           "prompt": "「〜ませんか」で誘われた際、快諾する自然な日本語の返答はどれですか。",
           "options": [
-            "「ええ、喜んで！」 / 「いいですね、ぜひ行きましょう！ (Core concept alternative form - U4L5)",
-            "「いいえ、行きます (Core concept alternative form - U4L5)",
-            "「そうです、飲みます (Core concept alternative form - U4L5)",
-            "「ごちそうさまでした (Core concept alternative form - U4L5)"
+            "「ええ、喜んで！」 / 「いいですね、ぜひ行きましょう！ (standard target expression for Invitations   Suggestions)",
+            "「いいえ、行きます (contextual contrast form in Invitations   Suggestions)",
+            "「そうです、飲みます (formal register distinction for Invitations   Suggestions)",
+            "「ごちそうさまでした (colloquial conversational usage for Invitations   Suggestions)"
           ],
           "answerIndex": 0,
           "explanation": "勧誘を快諾する際は「ええ、喜んで」「いいですね、ぜひ行きましょう」と答えます。"
@@ -2874,10 +2874,10 @@
         {
           "prompt": "【て形音便の規則】「買う（かう）」「待つ（まつ）」「飲む（のむ）」「書く（かく）」の正しい「て形」の組み合わせを選択してください。",
           "options": [
-            "買って (pause - U5L1)",
-            "買いて / 待ちて / 飲みて / 書きて (Core concept alternative form - U5L1)",
-            "買いて / 待って / 飲みて / 書いて (pause - U5L1)",
-            "買って / 待んで / 飲んで / 書いて (pause - U5L1)"
+            "買って (standard target expression for Te form Rules   Onbin)",
+            "買いて / 待ちて / 飲みて / 書きて (contextual contrast form in Te form Rules   Onbin)",
+            "買いて / 待って / 飲みて / 書いて (formal register distinction for Te form Rules   Onbin)",
+            "買って / 待んで / 飲んで / 書いて (colloquial conversational usage for Te form Rules   Onbin)"
           ],
           "answerIndex": 0,
           "explanation": "う・つ・るは「〜って」、む・ぶ・ぬは「〜んで」、くは「〜いて」と音便変化します。"
@@ -2885,10 +2885,10 @@
         {
           "prompt": "【「行く」の例外活用】動詞「行く（いく）」の正しい「て形」はどれですか。",
           "options": [
-            "行って (pause - U5L1)",
-            "行いて (Core concept alternative form - U5L1)",
-            "行んで (Core concept alternative form - U5L1)",
-            "行きて (Core concept alternative form - U5L1)"
+            "行って (standard target expression for Te form Rules   Onbin)",
+            "行いて (contextual contrast form in Te form Rules   Onbin)",
+            "行んで (formal register distinction for Te form Rules   Onbin)",
+            "行きて (colloquial conversational usage for Te form Rules   Onbin)"
           ],
           "answerIndex": 0,
           "explanation": "「行く」は「く」で終わりますがイ音便にはならず、例外的に「行って（促音便）」となります。"
@@ -2900,10 +2900,10 @@
         {
           "prompt": "【朝の日課の連続動作】朝の動作を時間順に繋げて述べる自然な文を選択してください。",
           "options": [
-            "毎朝七時に起きて、顔を洗って、朝ご飯を食べます (pause - U5L1)",
-            "毎朝七時に起きますて、顔を洗いて、朝ご飯を食べます (Core concept alternative form - U5L1)",
-            "毎朝七時に起きるて、顔を洗うて、朝ご飯を食べます (Core concept alternative form - U5L1)",
-            "毎朝七時に起きて、顔を洗って、朝ご飯を飲みます (pause - U5L1)"
+            "毎朝七時に起きて、顔を洗って、朝ご飯を食べます (standard target expression for Te form Rules   Onbin)",
+            "毎朝七時に起きますて、顔を洗いて、朝ご飯を食べます (contextual contrast form in Te form Rules   Onbin)",
+            "毎朝七時に起きるて、顔を洗うて、朝ご飯を食べます (formal register distinction for Te form Rules   Onbin)",
+            "毎朝七時に起きて、顔を洗って、朝ご飯を飲みます (colloquial conversational usage for Te form Rules   Onbin)"
           ],
           "answerIndex": 0,
           "explanation": "「起きて（二類）」「洗って（一類）」とて形で動作をスムーズに接続します。"
@@ -2911,10 +2911,10 @@
         {
           "prompt": "【図書館での動作連結】図書館に行って本を借りて帰ったことを述べる過去形の文を選択してください。",
           "options": [
-            "図書館へ行って、日本語の専門書を借りて帰りました (pause - U5L1)",
-            "図書館へ行きて、日本語の専門書を借って帰りました (pause - U5L1)",
-            "図書館へ行いて、日本語の専門書を借りて帰りますでした (Core concept alternative form - U5L1)",
-            "図書館へ行って、日本語の専門書を借りる帰りました (pause - U5L1)"
+            "図書館へ行って、日本語の専門書を借りて帰りました (standard target expression for Te form Rules   Onbin)",
+            "図書館へ行きて、日本語の専門書を借って帰りました (contextual contrast form in Te form Rules   Onbin)",
+            "図書館へ行いて、日本語の専門書を借りて帰りますでした (formal register distinction for Te form Rules   Onbin)",
+            "図書館へ行って、日本語の専門書を借りる帰りました (colloquial conversational usage for Te form Rules   Onbin)"
           ],
           "answerIndex": 0,
           "explanation": "文末の「帰りました」によって全体の過去時制が決定されます。"
@@ -2927,10 +2927,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「話す（はなす）」と「泳ぐ（およぐ）」の正しい「て形」はどれですか。",
           "options": [
-            "話して / 泳いで (Core concept alternative form - U5L1)",
-            "話して / 泳いて (Core concept alternative form - U5L1)",
-            "話しって / 泳いで (pause - U5L1)",
-            "話して / 泳んで (Core concept alternative form - U5L1)"
+            "話して / 泳いで (standard target expression for Te form Rules   Onbin)",
+            "話して / 泳いて (contextual contrast form in Te form Rules   Onbin)",
+            "話しって / 泳いで (formal register distinction for Te form Rules   Onbin)",
+            "話して / 泳んで (colloquial conversational usage for Te form Rules   Onbin)"
           ],
           "answerIndex": 0,
           "explanation": "すは「〜して」、ぐは濁音のイ音便「〜いで」となります。"
@@ -2992,10 +2992,10 @@
         {
           "prompt": "【「〜てから」の文法機能】「宿題を終わらせてから、お風呂に入ります」における「〜てから」の意味機能は何ですか。",
           "options": [
-            "前件の動作が完了した後に、後件の動作を行う時間的順序を強調している (pause - U5L2)",
-            "宿題とお風呂を同時に並行して行うことを示している (pause - U5L2)",
-            "宿題をする理由を説明している (pause - U5L2)",
-            "お風呂に入らないことを示している (pause - U5L2)"
+            "前件の動作が完了した後に、後件の動作を行う時間的順序を強調している (standard target expression for Sequential Actions   TE KARA)",
+            "宿題とお風呂を同時に並行して行うことを示している (contextual contrast form in Sequential Actions   TE KARA)",
+            "宿題をする理由を説明している (formal register distinction for Sequential Actions   TE KARA)",
+            "お風呂に入らないことを示している (colloquial conversational usage for Sequential Actions   TE KARA)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞て形＋から」は「〜した後に（after doing）」という先行動作の完了を表します。"
@@ -3003,10 +3003,10 @@
         {
           "prompt": "【安全指示の構文】機械操作の前に説明書を読むことを指示する文として適切なものはどれですか。",
           "options": [
-            "十分によく説明書を【読んでから】、操作を始めてください (pause - U5L2)",
-            "十分によく説明書を【読むから】、操作を始めてください (pause - U5L2)",
-            "十分によく説明書を【読んだから】、操作を始めてください (pause - U5L2)",
-            "十分によく説明書を【読みに】、操作を始めてください (pause - U5L2)"
+            "十分によく説明書を【読んでから】、操作を始めてください (standard target expression for Sequential Actions   TE KARA)",
+            "十分によく説明書を【読むから】、操作を始めてください (contextual contrast form in Sequential Actions   TE KARA)",
+            "十分によく説明書を【読んだから】、操作を始めてください (formal register distinction for Sequential Actions   TE KARA)",
+            "十分によく説明書を【読みに】、操作を始めてください (colloquial conversational usage for Sequential Actions   TE KARA)"
           ],
           "answerIndex": 0,
           "explanation": "動作の完了後の移行を示すため「読んでから」を用います。"
@@ -3018,10 +3018,10 @@
         {
           "prompt": "【到着後の連絡】駅に到着した後に電話で連絡することを丁寧に伝える文を選択してください。",
           "options": [
-            "駅に着いてから、電話で田中さんに連絡いたします (Core concept alternative form - U5L2)",
-            "駅に着くから、電話で田中さんに連絡いたします (pause - U5L2)",
-            "駅に着いたから、電話で田中さんに連絡いたします (pause - U5L2)",
-            "駅に着きながら、電話で田中さんに連絡いたします (pause - U5L2)"
+            "駅に着いてから、電話で田中さんに連絡いたします (standard target expression for Sequential Actions   TE KARA)",
+            "駅に着くから、電話で田中さんに連絡いたします (contextual contrast form in Sequential Actions   TE KARA)",
+            "駅に着いたから、電話で田中さんに連絡いたします (formal register distinction for Sequential Actions   TE KARA)",
+            "駅に着きながら、電話で田中さんに連絡いたします (colloquial conversational usage for Sequential Actions   TE KARA)"
           ],
           "answerIndex": 0,
           "explanation": "到着が完了した後の連絡であることを「着いてから」で明示します。"
@@ -3029,10 +3029,10 @@
         {
           "prompt": "【休日ルーティンの描写】朝の一連の活動を順序立てて説明する文を選択してください。",
           "options": [
-            "休日は朝早く起きて、近くの公園をジョギングして、それから朝食を作ります (Core concept alternative form - U5L2)",
-            "休日は朝早く起きると、近くの公園をジョギングするから、朝食を作ります (pause - U5L2)",
-            "休日は朝早く起きる前、近くの公園をジョギングして、朝食を作りました (pause - U5L2)",
-            "休日は朝早く起きながら、ジョギングして、朝食を作ります (pause - U5L2)"
+            "休日は朝早く起きて、近くの公園をジョギングして、それから朝食を作ります (standard target expression for Sequential Actions   TE KARA)",
+            "休日は朝早く起きると、近くの公園をジョギングするから、朝食を作ります (contextual contrast form in Sequential Actions   TE KARA)",
+            "休日は朝早く起きる前、近くの公園をジョギングして、朝食を作りました (formal register distinction for Sequential Actions   TE KARA)",
+            "休日は朝早く起きながら、ジョギングして、朝食を作ります (colloquial conversational usage for Sequential Actions   TE KARA)"
           ],
           "answerIndex": 0,
           "explanation": "「起きて」「ジョギングして」「それから作ります」と時間順の推移が的確に表現されています。"
@@ -3045,10 +3045,10 @@
           "type": "multiple-choice",
           "prompt": "「て形」で複数の動作を繋ぐ文において、文全体の「過去・現在」などの時制はどこで決定されますか。",
           "options": [
-            "文末の最後の動詞述語の形によって決定される (pause - U5L2)",
-            "文頭の最初の動詞の形によって決定される (pause - U5L2)",
-            "すべての動詞を過去形にする必要がある (pause - U5L2)",
-            "文中の副詞だけで決まり動詞は関係ない (pause - U5L2)"
+            "文末の最後の動詞述語の形によって決定される (standard target expression for Sequential Actions   TE KARA)",
+            "文頭の最初の動詞の形によって決定される (contextual contrast form in Sequential Actions   TE KARA)",
+            "すべての動詞を過去形にする必要がある (formal register distinction for Sequential Actions   TE KARA)",
+            "文中の副詞だけで決まり動詞は関係ない (colloquial conversational usage for Sequential Actions   TE KARA)"
           ],
           "answerIndex": 0,
           "explanation": "「〜て、〜て、〜ました」のように、文全体の時制は文末の述語動詞で示されます。"
@@ -3110,10 +3110,10 @@
         {
           "prompt": "【進行相 vs 結果相】「勉強しています（進行）」と「結婚しています（結果状態）」における「〜ています」の性質の違いとして正しいものはどれですか。",
           "options": [
-            "前者は今まさに動作が行われている進行中、後者は変化完了後の状態が継続していることを表す (be ing U5 - U5L3)",
-            "前者が状態の継続で後者が動作の進行中である (be ing U5 - U5L3)",
-            "両方とも未来の予定を表している (be ing U5 - U5L3)",
-            "文法的な違いは存在しない (be ing U5 - U5L3)"
+            "前者は今まさに動作が行われている進行中、後者は変化完了後の状態が継続していることを表す (standard target expression for Continuous Actions   States)",
+            "前者が状態の継続で後者が動作の進行中である (contextual contrast form in Continuous Actions   States)",
+            "両方とも未来の予定を表している (formal register distinction for Continuous Actions   States)",
+            "文法的な違いは存在しない (colloquial conversational usage for Continuous Actions   States)"
           ],
           "answerIndex": 0,
           "explanation": "継続動詞（勉強する）では動作の進行中、瞬間動詞（結婚する・住む）では結果状態の継続を表します。"
@@ -3121,10 +3121,10 @@
         {
           "prompt": "【「知っています」の否定形】「佐藤さんの電話番号を知っていますか。」に対する正しい否定の返答はどれですか。",
           "options": [
-            "いいえ、知りません (be ing U5 - U5L3)",
-            "いいえ、知っていません (be ing U5 - U5L3)",
-            "いいえ、知るではありません (be ing U5 - U5L3)",
-            "いいえ、知りませんでしたです (be ing U5 - U5L3)"
+            "いいえ、知りません (standard target expression for Continuous Actions   States)",
+            "いいえ、知っていません (contextual contrast form in Continuous Actions   States)",
+            "いいえ、知るではありません (formal register distinction for Continuous Actions   States)",
+            "いいえ、知りませんでしたです (colloquial conversational usage for Continuous Actions   States)"
           ],
           "answerIndex": 0,
           "explanation": "「知っています」の否定は慣用的に「知りません」となります。"
@@ -3136,10 +3136,10 @@
         {
           "prompt": "【現在進行中の動作】山田さんが今プレゼンテーションを行っている最中であることを述べる文を選択してください。",
           "options": [
-            "山田さんは今、会議室で重要なプレゼンテーションを行っています (be ing U5 - U5L3)",
-            "山田さんは今、会議室で重要なプレゼンテーションを行いました (be ing U5 - U5L3)",
-            "山田さんは今、会議室で重要なプレゼンテーションを行いますでした (be ing U5 - U5L3)",
-            "山田さんは今、会議室で重要なプレゼンテーションを行いそうです (be ing U5 - U5L3)"
+            "山田さんは今、会議室で重要なプレゼンテーションを行っています (standard target expression for Continuous Actions   States)",
+            "山田さんは今、会議室で重要なプレゼンテーションを行いました (contextual contrast form in Continuous Actions   States)",
+            "山田さんは今、会議室で重要なプレゼンテーションを行いますでした (formal register distinction for Continuous Actions   States)",
+            "山田さんは今、会議室で重要なプレゼンテーションを行いそうです (colloquial conversational usage for Continuous Actions   States)"
           ],
           "answerIndex": 0,
           "explanation": "現時点で進行中の動作には「〜を行っています」を用います。"
@@ -3147,10 +3147,10 @@
         {
           "prompt": "【外見・身なりの描写】田中先生がスーツを着て眼鏡をかけている状態を説明する文を選択してください。",
           "options": [
-            "田中先生は黒いスーツを着て、眼鏡をかけています (be ing U5 - U5L3)",
-            "田中先生は黒いスーツを着るで、眼鏡をかけます (be ing U5 - U5L3)",
-            "田中先生は黒いスーツを着てから、眼鏡をかけました (be ing U5 - U5L3)",
-            "田中先生は黒いスーツを着ながら、眼鏡をかけます (be ing U5 - U5L3)"
+            "田中先生は黒いスーツを着て、眼鏡をかけています (standard target expression for Continuous Actions   States)",
+            "田中先生は黒いスーツを着るで、眼鏡をかけます (contextual contrast form in Continuous Actions   States)",
+            "田中先生は黒いスーツを着てから、眼鏡をかけました (formal register distinction for Continuous Actions   States)",
+            "田中先生は黒いスーツを着ながら、眼鏡をかけます (colloquial conversational usage for Continuous Actions   States)"
           ],
           "answerIndex": 0,
           "explanation": "着衣や装飾品の着用状態の継続には「着ています」「かけています」を用います。"
@@ -3163,10 +3163,10 @@
           "type": "multiple-choice",
           "prompt": "「京都に住んでいます」における「住んでいます」の文法機能は何ですか。",
           "options": [
-            "京都に住むという状態が現在も継続していること (be ing U5 - U5L3)",
-            "今まさに家を建てて引っ越している最中であること (be ing U5 - U5L3)",
-            "過去に住んでいたこと (be ing U5 - U5L3)",
-            "将来住む予定であること (be ing U5 - U5L3)"
+            "京都に住むという状態が現在も継続していること (standard target expression for Continuous Actions   States)",
+            "今まさに家を建てて引っ越している最中であること (contextual contrast form in Continuous Actions   States)",
+            "過去に住んでいたこと (formal register distinction for Continuous Actions   States)",
+            "将来住む予定であること (colloquial conversational usage for Continuous Actions   States)"
           ],
           "answerIndex": 0,
           "explanation": "「住む」は結果状態を表し、「住んでいます」で居住状態の継続を示します。"
@@ -3230,10 +3230,10 @@
         {
           "prompt": "【丁寧な依頼構文】書類への記入を丁寧に促す表現として最も適切なものはどれですか。",
           "options": [
-            "この用紙に黒いペンで記入してください (Core concept alternative form - U5L4)",
-            "この用紙に黒いペンで記入しなさい (Core concept alternative form - U5L4)",
-            "この用紙に黒いペンで記入するべきだ (Core concept alternative form - U5L4)",
-            "この用紙に黒いペンで記入してはいけない (Core concept alternative form - U5L4)"
+            "この用紙に黒いペンで記入してください (standard target expression for Polite Requests TE KUDASAI)",
+            "この用紙に黒いペンで記入しなさい (contextual contrast form in Polite Requests TE KUDASAI)",
+            "この用紙に黒いペンで記入するべきだ (formal register distinction for Polite Requests TE KUDASAI)",
+            "この用紙に黒いペンで記入してはいけない (colloquial conversational usage for Polite Requests TE KUDASAI)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞て形＋ください」は標準的な丁寧な指示・依頼の構文です。"
@@ -3241,10 +3241,10 @@
         {
           "prompt": "【否定の依頼（禁止の配慮表現）】美術館で写真撮影を控えるよう頼む表現はどれですか。",
           "options": [
-            "フラッシュを使って写真を【撮らないでください】 (pause - U5L4)",
-            "フラッシュを使って写真を【撮らなくてください】 (pause - U5L4)",
-            "フラッシュを使って写真を【撮るなください】 (pause - U5L4)",
-            "フラッシュを使って写真を【撮りませんでください】 (pause - U5L4)"
+            "フラッシュを使って写真を【撮らないでください】 (standard target expression for Polite Requests TE KUDASAI)",
+            "フラッシュを使って写真を【撮らなくてください】 (contextual contrast form in Polite Requests TE KUDASAI)",
+            "フラッシュを使って写真を【撮るなください】 (formal register distinction for Polite Requests TE KUDASAI)",
+            "フラッシュを使って写真を【撮りませんでください】 (colloquial conversational usage for Polite Requests TE KUDASAI)"
           ],
           "answerIndex": 0,
           "explanation": "「〜しないでほしい」という否定の依頼は「動詞ない形 ＋ でください」となります。"
@@ -3256,10 +3256,10 @@
         {
           "prompt": "【来客対応の接客対話】来客に対して少々待つよう丁寧に案内する定番の表現を選択してください。",
           "options": [
-            "少々お待ちください。ただいま担当者をお呼びいたします (Core concept alternative form - U5L4)",
-            "少々待ってください。担当者を呼びますよ (pause - U5L4)",
-            "少々待ちなさい。担当者が来ます (Core concept alternative form - U5L4)",
-            "少々待つことです。担当者を見ます (Core concept alternative form - U5L4)"
+            "少々お待ちください。ただいま担当者をお呼びいたします (standard target expression for Polite Requests TE KUDASAI)",
+            "少々待ってください。担当者を呼びますよ (contextual contrast form in Polite Requests TE KUDASAI)",
+            "少々待ちなさい。担当者が来ます (formal register distinction for Polite Requests TE KUDASAI)",
+            "少々待つことです。担当者を見ます (colloquial conversational usage for Polite Requests TE KUDASAI)"
           ],
           "answerIndex": 0,
           "explanation": "接客やビジネスでの定番依頼表現は「少々お待ちください」です。"
@@ -3267,10 +3267,10 @@
         {
           "prompt": "【改まったメールでの資料請求】ビジネスメール等で資料の送付を極めて丁寧に依頼する文を選択してください。",
           "options": [
-            "本日の資料をメールで送付していただけますでしょうか (Core concept alternative form - U5L4)",
-            "本日の資料をメールで送付してくださいよ (Core concept alternative form - U5L4)",
-            "本日の資料をメールで送付しなさい (Core concept alternative form - U5L4)",
-            "本日の資料をメールで送付してくれ (Core concept alternative form - U5L4)"
+            "本日の資料をメールで送付していただけますでしょうか (standard target expression for Polite Requests TE KUDASAI)",
+            "本日の資料をメールで送付してくださいよ (contextual contrast form in Polite Requests TE KUDASAI)",
+            "本日の資料をメールで送付しなさい (formal register distinction for Polite Requests TE KUDASAI)",
+            "本日の資料をメールで送付してくれ (colloquial conversational usage for Polite Requests TE KUDASAI)"
           ],
           "answerIndex": 0,
           "explanation": "「〜していただけますでしょうか」は非常に丁寧で洗練された依頼表現です。"
@@ -3283,10 +3283,10 @@
           "type": "multiple-choice",
           "prompt": "「〜てください」を目上の人や上司に対して使う際の注意点として正しいものはどれですか。",
           "options": [
-            "「〜てください」は指示・命令のニュアンスを含むため、目上の人には「〜ていただけますでしょうか」等を使うのが望ましい (Core concept alternative form - U5L4)",
-            "「〜てください」は最高位の敬語なので誰に対しても最も適切である (Core concept alternative form - U5L4)",
-            "目上の人には「〜なさい」を使う (Core concept alternative form - U5L4)",
-            "何を使っても違いはない (pause - U5L4)"
+            "「〜てください」は指示・命令のニュアンスを含むため、目上の人には「〜ていただけますでしょうか」等を使うのが望ましい (standard target expression for Polite Requests TE KUDASAI)",
+            "「〜てください」は最高位の敬語なので誰に対しても最も適切である (contextual contrast form in Polite Requests TE KUDASAI)",
+            "目上の人には「〜なさい」を使う (formal register distinction for Polite Requests TE KUDASAI)",
+            "何を使っても違いはない (colloquial conversational usage for Polite Requests TE KUDASAI)"
           ],
           "answerIndex": 0,
           "explanation": "「〜てください」は指示的響きを持つため、目上には「〜ていただけますでしょうか」等の敬語を用います。"
@@ -3350,10 +3350,10 @@
         {
           "prompt": "【許可を求める構文】他者の席に座ってよいか丁寧に尋ねる表現はどれですか。",
           "options": [
-            "この席に座ってもよろしいでしょうか (pause - U5L5)",
-            "この席に座ってはいけません (pause - U5L5)",
-            "この席に座りましょう (Core concept alternative form - U5L5)",
-            "この席に座ってください (pause - U5L5)"
+            "この席に座ってもよろしいでしょうか (standard target expression for Permission   Prohibition)",
+            "この席に座ってはいけません (contextual contrast form in Permission   Prohibition)",
+            "この席に座りましょう (formal register distinction for Permission   Prohibition)",
+            "この席に座ってください (colloquial conversational usage for Permission   Prohibition)"
           ],
           "answerIndex": 0,
           "explanation": "許可を求める表現は「動詞て形 ＋ もいいですか / もよろしいでしょうか」です。"
@@ -3361,10 +3361,10 @@
         {
           "prompt": "【規則・禁止の構文】公共の場での禁止事項を伝える「〜てはいけません」の正しい使用例はどれですか。",
           "options": [
-            "図書館の中では大きな声で電話を【してはいけません】 (Core concept alternative form - U5L5)",
-            "図書館の中では大きな声で電話を【してもいいです】 (Core concept alternative form - U5L5)",
-            "図書館の中では大きな声で電話を【してください】 (Core concept alternative form - U5L5)",
-            "図書館の中では大きな声で電話を【したいです】 (Core concept alternative form - U5L5)"
+            "図書館の中では大きな声で電話を【してはいけません】 (standard target expression for Permission   Prohibition)",
+            "図書館の中では大きな声で電話を【してもいいです】 (contextual contrast form in Permission   Prohibition)",
+            "図書館の中では大きな声で電話を【してください】 (formal register distinction for Permission   Prohibition)",
+            "図書館の中では大きな声で電話を【したいです】 (colloquial conversational usage for Permission   Prohibition)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞て形 ＋ はいけません」は規則やマナーに基づく強い禁止を表します。"
@@ -3376,10 +3376,10 @@
         {
           "prompt": "【撮影許可と丁寧な断り】写真撮影の可否を尋ねられて、丁寧に断る対話を選択してください。",
           "options": [
-            "「ここで写真を撮ってもいいですか。」「申し訳ございませんが、撮影はご遠慮ください (pause - U5L5)",
-            "「ここで写真を撮ってもいいですか。」「はい、撮ってはいけません (pause - U5L5)",
-            "「ここで写真を撮ってもいいですか。」「ええ、禁止です (pause - U5L5)",
-            "「ここで写真を撮ってもいいですか。」「写真がありません (pause - U5L5)"
+            "「ここで写真を撮ってもいいですか。」「申し訳ございませんが、撮影はご遠慮ください (standard target expression for Permission   Prohibition)",
+            "「ここで写真を撮ってもいいですか。」「はい、撮ってはいけません (contextual contrast form in Permission   Prohibition)",
+            "「ここで写真を撮ってもいいですか。」「ええ、禁止です (formal register distinction for Permission   Prohibition)",
+            "「ここで写真を撮ってもいいですか。」「写真がありません (colloquial conversational usage for Permission   Prohibition)"
           ],
           "answerIndex": 0,
           "explanation": "不許可を丁寧に伝える際は「申し訳ございませんが、〜はご遠慮ください」を用います。"
@@ -3387,10 +3387,10 @@
         {
           "prompt": "【展示作品への接触禁止】美術館の規則として作品に触れてはならないことを明示する文を選択してください。",
           "options": [
-            "美術館の展示作品に手を触れてはいけません (Core concept alternative form - U5L5)",
-            "美術館の展示作品に手を触れてもいいです (Core concept alternative form - U5L5)",
-            "美術館の展示作品に手を触れてください (Core concept alternative form - U5L5)",
-            "美術館の展示作品に手を触れましょう (Core concept alternative form - U5L5)"
+            "美術館の展示作品に手を触れてはいけません (standard target expression for Permission   Prohibition)",
+            "美術館の展示作品に手を触れてもいいです (contextual contrast form in Permission   Prohibition)",
+            "美術館の展示作品に手を触れてください (formal register distinction for Permission   Prohibition)",
+            "美術館の展示作品に手を触れましょう (colloquial conversational usage for Permission   Prohibition)"
           ],
           "answerIndex": 0,
           "explanation": "接触禁止を明確に示すため「触れてはいけません」を用います。"
@@ -3403,10 +3403,10 @@
           "type": "multiple-choice",
           "prompt": "「〜てはいけません」の「は」の文字表記と発音についての正しい記述はどれですか。",
           "options": [
-            "表記は「は」と書き、発音は「わ」となる (Core concept alternative form - U5L5)",
-            "表記も発音も常に「は」である (Core concept alternative form - U5L5)",
-            "表記は「わ」と書く (Core concept alternative form - U5L5)",
-            "表記は「ば」と書く (Core concept alternative form - U5L5)"
+            "表記は「は」と書き、発音は「わ」となる (standard target expression for Permission   Prohibition)",
+            "表記も発音も常に「は」である (contextual contrast form in Permission   Prohibition)",
+            "表記は「わ」と書く (formal register distinction for Permission   Prohibition)",
+            "表記は「ば」と書く (colloquial conversational usage for Permission   Prohibition)"
           ],
           "answerIndex": 0,
           "explanation": "「〜てはいけません」の「は」は係助詞なので「は」と書き、「わ」と発音します。"
@@ -3468,10 +3468,10 @@
         {
           "prompt": "【飲食店での注文表現】飲食店で料理を注文する際の最も丁寧で標準的な表現はどれですか。",
           "options": [
-            "すみません、この特選海鮮丼を一つと温かいお茶をお願いします (Core concept alternative form - U6L1)",
-            "海鮮丼とお茶を寄こせ (Core concept alternative form - U6L1)",
-            "海鮮丼とお茶を食べたいです (Core concept alternative form - U6L1)",
-            "海鮮丼とお茶をあげます (Core concept alternative form - U6L1)"
+            "すみません、この特選海鮮丼を一つと温かいお茶をお願いします (standard target expression for Unit 6 Lesson 1 target grammar)",
+            "海鮮丼とお茶を寄こせ (contextual contrast form in Unit 6 Lesson 1 target grammar)",
+            "海鮮丼とお茶を食べたいです (formal register distinction for Unit 6 Lesson 1 target grammar)",
+            "海鮮丼とお茶をあげます (colloquial conversational usage for Unit 6 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "注文する際は「［品名］を［数量］と、［品名］をお願いします」が最も丁寧で標準的です。"
@@ -3479,10 +3479,10 @@
         {
           "prompt": "【数詞（和語数詞）の活用】「1つ」「2つ」「3つ」の正しい和語の数え方を選択してください。",
           "options": [
-            "ひとつ / ふたつ / みっつ (pause - U6L1)",
-            "いちつ / につ / さんつ (Core concept alternative form - U6L1)",
-            "いっこ / にこ / さんこ (pause - U6L1)",
-            "ひとり / ふたり / さんにん (Core concept alternative form - U6L1)"
+            "ひとつ / ふたつ / みっつ (standard target expression for Unit 6 Lesson 1 target grammar)",
+            "いちつ / につ / さんつ (contextual contrast form in Unit 6 Lesson 1 target grammar)",
+            "いっこ / にこ / さんこ (formal register distinction for Unit 6 Lesson 1 target grammar)",
+            "ひとり / ふたり / さんにん (colloquial conversational usage for Unit 6 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "料理や品物を数える基本の和語数詞は「ひとつ、ふたつ、みっつ」です。"
@@ -3494,10 +3494,10 @@
         {
           "prompt": "【味覚の感想】京都の抹茶パフェの甘さ控えめで美味しい味を表現する文を選択してください。",
           "options": [
-            "この京都の伝統的な抹茶パフェは、甘さ控えめでとても美味しいです (Core concept alternative form - U6L1)",
-            "この抹茶パフェはとても辛くて塩辛いです (Core concept alternative form - U6L1)",
-            "この抹茶パフェは酸っぱくて苦いですが熱いです (pause - U6L1)",
-            "この抹茶パフェを食べに行きませんでした (Core concept alternative form - U6L1)"
+            "この京都の伝統的な抹茶パフェは、甘さ控えめでとても美味しいです (standard target expression for Unit 6 Lesson 1 target grammar)",
+            "この抹茶パフェはとても辛くて塩辛いです (contextual contrast form in Unit 6 Lesson 1 target grammar)",
+            "この抹茶パフェは酸っぱくて苦いですが熱いです (formal register distinction for Unit 6 Lesson 1 target grammar)",
+            "この抹茶パフェを食べに行きませんでした (colloquial conversational usage for Unit 6 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "デザートの上品な甘さを「甘さ控えめでとても美味しい」と表現します。"
@@ -3505,10 +3505,10 @@
         {
           "prompt": "【食事終わりの感謝】食事を終えて店員や同席者に感謝を述べる日本の伝統的な挨拶を選択してください。",
           "options": [
-            "大変美味しくいただきました。ごちそうさまでした (Core concept alternative form - U6L1)",
-            "いただきます。これから食べます (Core concept alternative form - U6L1)",
-            "いってきます。また明日 (pause - U6L1)",
-            "お邪魔しました。さようなら (Core concept alternative form - U6L1)"
+            "大変美味しくいただきました。ごちそうさまでした (standard target expression for Unit 6 Lesson 1 target grammar)",
+            "いただきます。これから食べます (contextual contrast form in Unit 6 Lesson 1 target grammar)",
+            "いってきます。また明日 (formal register distinction for Unit 6 Lesson 1 target grammar)",
+            "お邪魔しました。さようなら (colloquial conversational usage for Unit 6 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "食後の感謝の挨拶は「ごちそうさまでした」です。"
@@ -3521,10 +3521,10 @@
           "type": "multiple-choice",
           "prompt": "日本の和食文化における「旨味（うまみ）」の基本となる出汁の原料の組み合わせはどれですか。",
           "options": [
-            "昆布 (Core concept key phrasing - U6L1)",
-            "砂糖と醤油 (Core concept alternative form - U6L1)",
-            "胡椒と唐辛子 (Core concept alternative form - U6L1)",
-            "バターとオリーブオイル (Core concept alternative form - U6L1)"
+            "昆布 (standard target expression for Unit 6 Lesson 1 target grammar)",
+            "砂糖と醤油 (contextual contrast form in Unit 6 Lesson 1 target grammar)",
+            "胡椒と唐辛子 (formal register distinction for Unit 6 Lesson 1 target grammar)",
+            "バターとオリーブオイル (colloquial conversational usage for Unit 6 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "伝統的な和食の出汁は主に昆布と鰹節から抽出されます。"
@@ -3586,10 +3586,10 @@
         {
           "prompt": "【嗜好の表現「好き・嫌い」】好きな食べ物を表す助詞構文として文法的に正しいものはどれですか。",
           "options": [
-            "私は日本の寿司や天ぷらが大好きです (Core concept alternative form - U6L2)",
-            "私は日本の寿司や天ぷらを大好きです (Core concept alternative form - U6L2)",
-            "私は日本の寿司や天ぷらに大好きです (Core concept alternative form - U6L2)",
-            "私は日本の寿司や天ぷらで大好きです (Core concept alternative form - U6L2)"
+            "私は日本の寿司や天ぷらが大好きです (standard target expression for Unit 6 Lesson 2 target grammar)",
+            "私は日本の寿司や天ぷらを大好きです (contextual contrast form in Unit 6 Lesson 2 target grammar)",
+            "私は日本の寿司や天ぷらに大好きです (formal register distinction for Unit 6 Lesson 2 target grammar)",
+            "私は日本の寿司や天ぷらで大好きです (colloquial conversational usage for Unit 6 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "感情・嗜好の対象（好き・嫌い・上手・下手）には助詞「が」を用います。"
@@ -3597,10 +3597,10 @@
         {
           "prompt": "【味覚形容詞の対立】「甘い（あまい）」と「辛い（からい）」、「酸っぱい（すっぱい）」と「苦い（にがい）」の意味の組み合わせとして正しいものはどれですか。",
           "options": [
-            "甘い：sweet / 辛い：spicy・hot / 酸っぱい：sour / 苦い：bitter (pause - U6L2)",
-            "甘い：bitter / 辛い：sweet / 酸っぱい：salty / 苦い：sour (pause - U6L2)",
-            "甘い：sour / 辛い：bitter / 酸っぱい：sweet / 苦い：spicy (pause - U6L2)",
-            "すべて同じ意味 (Core concept alternative form - U6L2)"
+            "甘い：sweet / 辛い：spicy・hot / 酸っぱい：sour / 苦い：bitter (standard target expression for Unit 6 Lesson 2 target grammar)",
+            "甘い：bitter / 辛い：sweet / 酸っぱい：salty / 苦い：sour (contextual contrast form in Unit 6 Lesson 2 target grammar)",
+            "甘い：sour / 辛い：bitter / 酸っぱい：sweet / 苦い：spicy (formal register distinction for Unit 6 Lesson 2 target grammar)",
+            "すべて同じ意味 (colloquial conversational usage for Unit 6 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "五味の形容詞：甘い（sweet）、辛い（spicy/hot）、酸っぱい（sour）、苦い（bitter）、塩辛い（salty）です。"
@@ -3612,10 +3612,10 @@
         {
           "prompt": "【辛い料理の可否】辛いものが苦手であることを丁寧に伝える表現を選択してください。",
           "options": [
-            "すみません、辛い料理は少し苦手 (Core concept alternative form - U6L2)",
-            "辛い料理はとても上手です (Core concept alternative form - U6L2)",
-            "辛い料理を飲みたいです (Core concept alternative form - U6L2)",
-            "辛い料理に行きましょう (Core concept alternative form - U6L2)"
+            "すみません、辛い料理は少し苦手 (standard target expression for Unit 6 Lesson 2 target grammar)",
+            "辛い料理はとても上手です (contextual contrast form in Unit 6 Lesson 2 target grammar)",
+            "辛い料理を飲みたいです (formal register distinction for Unit 6 Lesson 2 target grammar)",
+            "辛い料理に行きましょう (colloquial conversational usage for Unit 6 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "食べられない・好まないことを柔らかく伝える際は「〜は苦手です」を用います。"
@@ -3623,10 +3623,10 @@
         {
           "prompt": "【出汁の風味の描写】和食の出汁（だし）の美味しさを説明する文を選択してください。",
           "options": [
-            "日本の出汁は昆布と鰹節の豊かな旨味が凝縮されています (Core concept alternative form - U6L2)",
-            "日本の出汁は砂糖と塩の激しい辛さがあります (Core concept alternative form - U6L2)",
-            "日本の出汁は油で揚げて作ります (Core concept alternative form - U6L2)",
-            "日本の出汁は冷たく凍っています (pause - U6L2)"
+            "日本の出汁は昆布と鰹節の豊かな旨味が凝縮されています (standard target expression for Unit 6 Lesson 2 target grammar)",
+            "日本の出汁は砂糖と塩の激しい辛さがあります (contextual contrast form in Unit 6 Lesson 2 target grammar)",
+            "日本の出汁は油で揚げて作ります (formal register distinction for Unit 6 Lesson 2 target grammar)",
+            "日本の出汁は冷たく凍っています (colloquial conversational usage for Unit 6 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "昆布と鰹節による旨味（うまみ）の凝縮が出汁の本質です。"
@@ -3639,10 +3639,10 @@
           "type": "multiple-choice",
           "prompt": "「甘い」の否定形（丁寧形）として正しいものはどれですか。",
           "options": [
-            "甘くないです (Core concept key phrasing - U6L2)",
-            "甘いじゃないです (Core concept alternative form - U6L2)",
-            "甘くないでした (Core concept alternative form - U6L2)",
-            "甘いではありません (Core concept alternative form - U6L2)"
+            "甘くないです (standard target expression for Unit 6 Lesson 2 target grammar)",
+            "甘いじゃないです (contextual contrast form in Unit 6 Lesson 2 target grammar)",
+            "甘くないでした (formal register distinction for Unit 6 Lesson 2 target grammar)",
+            "甘いではありません (colloquial conversational usage for Unit 6 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "い形容詞「甘い」の否定形は語尾の「い」を「くない」に変えて「甘くないです / 甘くありません」となります。"
@@ -3706,10 +3706,10 @@
         {
           "prompt": "【居酒屋での注文対話】店員を呼んで飲み物とおつまみを頼む自然な対話はどれですか。",
           "options": [
-            "「すみません、生ビールを二つと枝豆を一つお願いします (Core concept alternative form - U6L3)",
-            "「おい、ビール二つ持ってこい (pause - U6L3)",
-            "「ビールを二つ飲むつもりでした (Core concept alternative form - U6L3)",
-            "「ビールと枝豆がいますか (Core concept alternative form - U6L3)"
+            "「すみません、生ビールを二つと枝豆を一つお願いします (standard target expression for Unit 6 Lesson 3 target grammar)",
+            "「おい、ビール二つ持ってこい (contextual contrast form in Unit 6 Lesson 3 target grammar)",
+            "「ビールを二つ飲むつもりでした (formal register distinction for Unit 6 Lesson 3 target grammar)",
+            "「ビールと枝豆がいますか (colloquial conversational usage for Unit 6 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「すみません、［品名］を［数量］お願いします」が日本の居酒屋で最も一般的な注文表現です。"
@@ -3717,10 +3717,10 @@
         {
           "prompt": "【会計を頼む表現】食事が終わり、店員に会計を求める際の表現を選択してください。",
           "options": [
-            "すみません、お会計 (Core concept alternative form - U6L3)",
-            "すみません、お金を返してください (Core concept alternative form - U6L3)",
-            "すみません、注文をキャンセルします (Core concept alternative form - U6L3)",
-            "すみません、料理を食べてください (Core concept alternative form - U6L3)"
+            "すみません、お会計 (standard target expression for Unit 6 Lesson 3 target grammar)",
+            "すみません、お金を返してください (contextual contrast form in Unit 6 Lesson 3 target grammar)",
+            "すみません、注文をキャンセルします (formal register distinction for Unit 6 Lesson 3 target grammar)",
+            "すみません、料理を食べてください (colloquial conversational usage for Unit 6 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "会計を頼むときは「お会計をお願いします（または お勘定をお願いします）」と言います。"
@@ -3732,10 +3732,10 @@
         {
           "prompt": "【セットメニューの選択】ランチセットに飲み物が付くか尋ねる文を選択してください。",
           "options": [
-            "このランチセットにはお飲み物が付きますか (pause - U6L3)",
-            "このランチセットにお飲み物を食べますか (pause - U6L3)",
-            "このランチセットはお飲み物に行きますか (pause - U6L3)",
-            "このランチセットがお飲み物をしますか (pause - U6L3)"
+            "このランチセットにはお飲み物が付きますか (standard target expression for Unit 6 Lesson 3 target grammar)",
+            "このランチセットにお飲み物を食べますか (contextual contrast form in Unit 6 Lesson 3 target grammar)",
+            "このランチセットはお飲み物に行きますか (formal register distinction for Unit 6 Lesson 3 target grammar)",
+            "このランチセットがお飲み物をしますか (colloquial conversational usage for Unit 6 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "セットに付属しているか確認する動詞は「付く（付きますか）」です。"
@@ -3743,10 +3743,10 @@
         {
           "prompt": "【おすすめ料理の質問】店の店員におすすめの料理を尋ねる丁寧な表現を選択してください。",
           "options": [
-            "本日のおすすめ料理は何ですか (Core concept alternative form - U6L3)",
-            "今日の料理を食べなさい (Core concept alternative form - U6L3)",
-            "今日のおすすめはいくらですか (Core concept alternative form - U6L3)",
-            "今日の料理はありますか (Core concept alternative form - U6L3)"
+            "本日のおすすめ料理は何ですか (standard target expression for Unit 6 Lesson 3 target grammar)",
+            "今日の料理を食べなさい (contextual contrast form in Unit 6 Lesson 3 target grammar)",
+            "今日のおすすめはいくらですか (formal register distinction for Unit 6 Lesson 3 target grammar)",
+            "今日の料理はありますか (colloquial conversational usage for Unit 6 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「本日のおすすめは何ですか」で本日の一押しメニューを尋ねることができます。"
@@ -3759,10 +3759,10 @@
           "type": "multiple-choice",
           "prompt": "「別々でお会計をお願いします」という発話の意味は何ですか。",
           "options": [
-            "同席者各自が個別に自分の分を支払うこと (Core concept alternative form - U6L3)",
-            "一人で全員分をまとめて支払うこと (Core concept alternative form - U6L3)",
-            "ツケ払いにすること (Core concept alternative form - U6L3)",
-            "無料にしてもらうこと (Core concept alternative form - U6L3)"
+            "同席者各自が個別に自分の分を支払うこと (standard target expression for Unit 6 Lesson 3 target grammar)",
+            "一人で全員分をまとめて支払うこと (contextual contrast form in Unit 6 Lesson 3 target grammar)",
+            "ツケ払いにすること (formal register distinction for Unit 6 Lesson 3 target grammar)",
+            "無料にしてもらうこと (colloquial conversational usage for Unit 6 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「別々で」は個別会計（各自払い）を意味します。"
@@ -3830,10 +3830,10 @@
         {
           "prompt": "【箸のマナーと文化】日本の食事作法において避けるべき「嫌い箸（タブー）」として正しいものはどれですか。",
           "options": [
-            "箸から箸へ直接料理を渡すこと (Core concept alternative form - U6L4)",
-            "箸置きを使うこと (Core concept alternative form - U6L4)",
-            "右手で箸を持つこと (Core concept alternative form - U6L4)",
-            "料理を一口サイズにして食べること (Core concept alternative form - U6L4)"
+            "箸から箸へ直接料理を渡すこと (standard target expression for Unit 6 Lesson 4 target grammar)",
+            "箸置きを使うこと (contextual contrast form in Unit 6 Lesson 4 target grammar)",
+            "右手で箸を持つこと (formal register distinction for Unit 6 Lesson 4 target grammar)",
+            "料理を一口サイズにして食べること (colloquial conversational usage for Unit 6 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「箸渡し」や「立て箸」は仏事・葬儀の作法に連なるため、日本の食事文化において厳格なタブーとされています。"
@@ -3841,10 +3841,10 @@
         {
           "prompt": "【「いただきます」の文化的意義】食事前の挨拶「いただきます」に込められた本来の感謝の対象は何ですか。",
           "options": [
-            "食材となった動植物の命と、食事の準備・調理に関わったすべての人々 (pause - U6L4)",
-            "料理を作ったシェフだけに限定される (pause - U6L4)",
-            "自分自身の労働 (Core concept alternative form - U6L4)",
-            "特に意味はなく単なる掛け声 (Core concept alternative form - U6L4)"
+            "食材となった動植物の命と、食事の準備・調理に関わったすべての人々 (standard target expression for Unit 6 Lesson 4 target grammar)",
+            "料理を作ったシェフだけに限定される (contextual contrast form in Unit 6 Lesson 4 target grammar)",
+            "自分自身の労働 (formal register distinction for Unit 6 Lesson 4 target grammar)",
+            "特に意味はなく単なる掛け声 (colloquial conversational usage for Unit 6 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「いただきます（命をいただく）」は食材の生命への畏敬と、調理・生産に関わった人々への感謝を含みます。"
@@ -3856,10 +3856,10 @@
         {
           "prompt": "【定食の配膳マナー】日本の伝統的な一汁三菜の配膳におけるご飯と味噌汁の正しい位置を選択してください。",
           "options": [
-            "左手前にご飯、右手前に味噌汁 (Core concept alternative form - U6L4)",
-            "右手前にご飯、左手前に味噌汁 (Core concept alternative form - U6L4)",
-            "奥にご飯と味噌汁、手前におかず (Core concept alternative form - U6L4)",
-            "左右どちらでも全く自由 (Core concept alternative form - U6L4)"
+            "左手前にご飯、右手前に味噌汁 (standard target expression for Unit 6 Lesson 4 target grammar)",
+            "右手前にご飯、左手前に味噌汁 (contextual contrast form in Unit 6 Lesson 4 target grammar)",
+            "奥にご飯と味噌汁、手前におかず (formal register distinction for Unit 6 Lesson 4 target grammar)",
+            "左右どちらでも全く自由 (colloquial conversational usage for Unit 6 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "和食の伝統的配膳では、主食であるご飯を左手前、汁物を右手前に配置します。"
@@ -3867,10 +3867,10 @@
         {
           "prompt": "【お茶のおかわり】飲食店でお茶のおかわりを丁寧に頼む文を選択してください。",
           "options": [
-            "すみません、お茶のおかわりをいただけますでしょうか (Core concept alternative form - U6L4)",
-            "お茶をもっと飲みなさい (pause - U6L4)",
-            "お茶を買いに行きます (Core concept alternative form - U6L4)",
-            "お茶は要りません (Core concept alternative form - U6L4)"
+            "すみません、お茶のおかわりをいただけますでしょうか (standard target expression for Unit 6 Lesson 4 target grammar)",
+            "お茶をもっと飲みなさい (contextual contrast form in Unit 6 Lesson 4 target grammar)",
+            "お茶を買いに行きます (formal register distinction for Unit 6 Lesson 4 target grammar)",
+            "お茶は要りません (colloquial conversational usage for Unit 6 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「お茶のおかわりをいただけますでしょうか」が極めて礼儀正しく自然です。"
@@ -3883,10 +3883,10 @@
           "type": "multiple-choice",
           "prompt": "「ごちそうさまでした」の漢字表記「御馳走様でした」における「馳走」の本来の語源は何ですか。",
           "options": [
-            "客をもてなすために方々を馬で走り回って食材を集めたこと (pause - U6L4)",
-            "高価なワインを飲むこと (Core concept alternative form - U6L4)",
-            "ゆっくり座って休むこと (pause - U6L4)",
-            "早く食事を終えること (Core concept alternative form - U6L4)"
+            "客をもてなすために方々を馬で走り回って食材を集めたこと (standard target expression for Unit 6 Lesson 4 target grammar)",
+            "高価なワインを飲むこと (contextual contrast form in Unit 6 Lesson 4 target grammar)",
+            "ゆっくり座って休むこと (formal register distinction for Unit 6 Lesson 4 target grammar)",
+            "早く食事を終えること (colloquial conversational usage for Unit 6 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「馳走」は走り回ることを意味し、食事を用意するために駆け回ってくれた労苦への感謝を表現しています。"
@@ -3948,10 +3948,10 @@
         {
           "prompt": "【席の予約対話】電話で飲食店に今夜の予約を入れる対話として最も自然なものはどれですか。",
           "options": [
-            "「今夜七時に四名で予約をお願いしたいのですが、お席は空いていますでしょうか (Core concept alternative form - U6L5)",
-            "「今夜四人で行くから席を取れ (Core concept alternative form - U6L5)",
-            "「今夜七時に四名がいます (Core concept alternative form - U6L5)",
-            "「予約は好きですか (Core concept alternative form - U6L5)"
+            "「今夜七時に四名で予約をお願いしたいのですが、お席は空いていますでしょうか (standard target expression for Unit 6 Lesson 5 target grammar)",
+            "「今夜四人で行くから席を取れ (contextual contrast form in Unit 6 Lesson 5 target grammar)",
+            "「今夜七時に四名がいます (formal register distinction for Unit 6 Lesson 5 target grammar)",
+            "「予約は好きですか (colloquial conversational usage for Unit 6 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「［日時］に［人数］で予約をお願いしたいのですが」が予約時の丁寧な定型表現です。"
@@ -3959,10 +3959,10 @@
         {
           "prompt": "【アレルギーの確認】アレルギー食材が含まれているか確認する質問はどれですか。",
           "options": [
-            "この料理に甲殻類 (pause - U6L5)",
-            "この料理は甘いですか。辛いですか (Core concept alternative form - U6L5)",
-            "この料理はいくらですか (Core concept alternative form - U6L5)",
-            "この料理はどこへ行きますか (Core concept alternative form - U6L5)"
+            "この料理に甲殻類 (standard target expression for Unit 6 Lesson 5 target grammar)",
+            "この料理は甘いですか。辛いですか (contextual contrast form in Unit 6 Lesson 5 target grammar)",
+            "この料理はいくらですか (formal register distinction for Unit 6 Lesson 5 target grammar)",
+            "この料理はどこへ行きますか (colloquial conversational usage for Unit 6 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜は入っていますか。アレルギーがあります」で食材を確認します。"
@@ -3974,10 +3974,10 @@
         {
           "prompt": "【フルコースの感想】招待された会席料理の味と演出を褒める洗練された文を選択してください。",
           "options": [
-            "季節の食材が美しく盛り付けられていて、どのお料理も大変美味でした (Core concept alternative form - U6L5)",
-            "料理が多すぎて全部残しました (Core concept alternative form - U6L5)",
-            "味が辛すぎて食べられませんでした (Core concept alternative form - U6L5)",
-            "早く帰りたかったです (pause - U6L5)"
+            "季節の食材が美しく盛り付けられていて、どのお料理も大変美味でした (standard target expression for Unit 6 Lesson 5 target grammar)",
+            "料理が多すぎて全部残しました (contextual contrast form in Unit 6 Lesson 5 target grammar)",
+            "味が辛すぎて食べられませんでした (formal register distinction for Unit 6 Lesson 5 target grammar)",
+            "早く帰りたかったです (colloquial conversational usage for Unit 6 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "和食の美と味を称賛する「季節の食材が美しく盛り付けられていて、大変美味でした」が適切です。"
@@ -3985,10 +3985,10 @@
         {
           "prompt": "【退店時の挨拶】会計を済ませて店を出る際の挨拶を選択してください。",
           "options": [
-            "ごちそうさまでした。とても美味しかったです。また来ます (pause - U6L5)",
-            "いただきます。これから食べます (Core concept alternative form - U6L5)",
-            "お邪魔します。入ります (Core concept alternative form - U6L5)",
-            "さようなら。二度と来ません (Core concept alternative form - U6L5)"
+            "ごちそうさまでした。とても美味しかったです。また来ます (standard target expression for Unit 6 Lesson 5 target grammar)",
+            "いただきます。これから食べます (contextual contrast form in Unit 6 Lesson 5 target grammar)",
+            "お邪魔します。入ります (formal register distinction for Unit 6 Lesson 5 target grammar)",
+            "さようなら。二度と来ません (colloquial conversational usage for Unit 6 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「ごちそうさまでした。とても美味しかったです。また来ます」が最高のお客側の礼儀です。"
@@ -4001,10 +4001,10 @@
           "type": "multiple-choice",
           "prompt": "飲食店での「予約・入店・注文・食事・会計・退店」の一連の流れで使われる表現として、順番が正しいものはどれですか。",
           "options": [
-            "予約をお願いします → いただきます → 注文をお願いします → お会計をお願いします → ごちそうさまでした (Core concept alternative form - U6L5)",
-            "ごちそうさまでした → お会計をお願いします → いただきます → 予約をお願いします (Core concept alternative form - U6L5)",
-            "いただきます → ごちそうさまでした → 注文をお願いします → お会計をお願いします (Core concept alternative form - U6L5)",
-            "お会計をお願いします → いただきます → 予約をお願いします (Core concept alternative form - U6L5)"
+            "予約をお願いします → いただきます → 注文をお願いします → お会計をお願いします → ごちそうさまでした (standard target expression for Unit 6 Lesson 5 target grammar)",
+            "ごちそうさまでした → お会計をお願いします → いただきます → 予約をお願いします (contextual contrast form in Unit 6 Lesson 5 target grammar)",
+            "いただきます → ごちそうさまでした → 注文をお願いします → お会計をお願いします (formal register distinction for Unit 6 Lesson 5 target grammar)",
+            "お会計をお願いします → いただきます → 予約をお願いします (colloquial conversational usage for Unit 6 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "予約・注文・食事前（いただきます）・会計・退店（ごちそうさまでした）の順序です。"
@@ -4068,10 +4068,10 @@
         {
           "prompt": "【動詞の過去形活用】動詞「食べる」「行く」「飲む」の丁寧な過去肯定形（〜ました）として正しい組み合わせはどれですか。",
           "options": [
-            "食べました / 行きました / 飲みました (Core concept alternative form - U7L1)",
-            "食べたでした / 行ったでした / 飲んだでした (pause - U7L1)",
-            "食べました / 行きませんでした / 飲みます (Core concept alternative form - U7L1)",
-            "食べました / 行くでした / 飲むでした (Core concept alternative form - U7L1)"
+            "食べました / 行きました / 飲みました (standard target expression for Unit 7 Lesson 1 target grammar)",
+            "食べたでした / 行ったでした / 飲んだでした (contextual contrast form in Unit 7 Lesson 1 target grammar)",
+            "食べました / 行きませんでした / 飲みます (formal register distinction for Unit 7 Lesson 1 target grammar)",
+            "食べました / 行くでした / 飲むでした (colloquial conversational usage for Unit 7 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "動詞の丁寧な過去形は「ます語幹 ＋ ました」です。"
@@ -4079,10 +4079,10 @@
         {
           "prompt": "【動詞の過去否定形】「先週の土曜日は雨だったので、どこへも＿＿＿。」の空欄に入る動詞過去否定形を選択してください。",
           "options": [
-            "出かけませんでした (Core concept key phrasing - U7L1)",
-            "出かけました (Core concept alternative form - U7L1)",
-            "出かけません (Core concept key phrasing - U7L1)",
-            "出かけるでした (Core concept alternative form - U7L1)"
+            "出かけませんでした (standard target expression for Unit 7 Lesson 1 target grammar)",
+            "出かけました (contextual contrast form in Unit 7 Lesson 1 target grammar)",
+            "出かけません (formal register distinction for Unit 7 Lesson 1 target grammar)",
+            "出かけるでした (colloquial conversational usage for Unit 7 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "過去の行為の否定は「〜ませんでした（出かけませんでした）」を用います。"
@@ -4094,10 +4094,10 @@
         {
           "prompt": "【週末の行動報告】週末に友達と映画を見てお茶を飲んだことを報告する文を選択してください。",
           "options": [
-            "週末に友達と一緒に日本のアニメ映画を見て、カフェでお茶を飲みました (Core concept alternative form - U7L1)",
-            "週末に友達と一緒に映画を見るて、お茶を飲むでした (Core concept alternative form - U7L1)",
-            "週末に友達と一緒に映画を見たから、お茶を飲みません (Core concept alternative form - U7L1)",
-            "週末に友達と一緒に映画を見るでしょう (Core concept alternative form - U7L1)"
+            "週末に友達と一緒に日本のアニメ映画を見て、カフェでお茶を飲みました (standard target expression for Unit 7 Lesson 1 target grammar)",
+            "週末に友達と一緒に映画を見るて、お茶を飲むでした (contextual contrast form in Unit 7 Lesson 1 target grammar)",
+            "週末に友達と一緒に映画を見たから、お茶を飲みません (formal register distinction for Unit 7 Lesson 1 target grammar)",
+            "週末に友達と一緒に映画を見るでしょう (colloquial conversational usage for Unit 7 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「見て（て形接続）」「飲みました（過去形結び）」の時制一致が正確です。"
@@ -4105,10 +4105,10 @@
         {
           "prompt": "【昨日の勉強時間の伝達】昨日図書館で3時間日本語を勉強したことを述べる文を選択してください。",
           "options": [
-            "昨日は図書館で三時間日本語を勉強しました (Core concept alternative form - U7L1)",
-            "昨日は図書館で三時間日本語を勉強しますでした (Core concept alternative form - U7L1)",
-            "昨日は図書館で三時間日本語を勉強するでした (Core concept alternative form - U7L1)",
-            "昨日は図書館で三時間日本語を勉強したいです (Core concept alternative form - U7L1)"
+            "昨日は図書館で三時間日本語を勉強しました (standard target expression for Unit 7 Lesson 1 target grammar)",
+            "昨日は図書館で三時間日本語を勉強しますでした (contextual contrast form in Unit 7 Lesson 1 target grammar)",
+            "昨日は図書館で三時間日本語を勉強するでした (formal register distinction for Unit 7 Lesson 1 target grammar)",
+            "昨日は図書館で三時間日本語を勉強したいです (colloquial conversational usage for Unit 7 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「勉強しました」が正しい過去形です。"
@@ -4121,10 +4121,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「する」と「来る（くる）」の丁寧な過去肯定形はどれですか。",
           "options": [
-            "しました / 来ました (Core concept alternative form - U7L1)",
-            "するでした / 来るでした (Core concept alternative form - U7L1)",
-            "したでした / 来たでした (Core concept alternative form - U7L1)",
-            "しりました / きりました (Core concept alternative form - U7L1)"
+            "しました / 来ました (standard target expression for Unit 7 Lesson 1 target grammar)",
+            "するでした / 来るでした (contextual contrast form in Unit 7 Lesson 1 target grammar)",
+            "したでした / 来たでした (formal register distinction for Unit 7 Lesson 1 target grammar)",
+            "しりました / きりました (colloquial conversational usage for Unit 7 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "三類動詞の過去形は「しました」「来ました（きました）」です。"
@@ -4188,10 +4188,10 @@
         {
           "prompt": "【い形容詞の過去形】「美味しい（おいしい）」「楽しい（たのしい）」の過去形として正しいものはどれですか。",
           "options": [
-            "美味しかったです / 楽しかったです (pause - U7L2)",
-            "美味しいでした / 楽しいでした (pause - U7L2)",
-            "美味しいかったです / 楽しいかったです (pause - U7L2)",
-            "美味しでした / 楽しでした (pause - U7L2)"
+            "美味しかったです / 楽しかったです (standard target expression for Unit 7 Lesson 2 target grammar)",
+            "美味しいでした / 楽しいでした (contextual contrast form in Unit 7 Lesson 2 target grammar)",
+            "美味しいかったです / 楽しいかったです (formal register distinction for Unit 7 Lesson 2 target grammar)",
+            "美味しでした / 楽しでした (colloquial conversational usage for Unit 7 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "い形容詞の過去形は語尾の「い」を「かった」に変えて「〜かったです」となります。「〜いでした」は文法誤用です。"
@@ -4199,10 +4199,10 @@
         {
           "prompt": "【「いい（良い）」の不規則過去形】形容詞「いい」の正しい過去形を選択してください。",
           "options": [
-            "よかったです (pause - U7L2)",
-            "いかったです (pause - U7L2)",
-            "いいでした (pause - U7L2)",
-            "いくなかったです (pause - U7L2)"
+            "よかったです (standard target expression for Unit 7 Lesson 2 target grammar)",
+            "いかったです (contextual contrast form in Unit 7 Lesson 2 target grammar)",
+            "いいでした (formal register distinction for Unit 7 Lesson 2 target grammar)",
+            "いくなかったです (colloquial conversational usage for Unit 7 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「いい」は語幹「よい」に基づき、過去形は「よかったです」となります。"
@@ -4214,10 +4214,10 @@
         {
           "prompt": "【紅葉の感想】昨日の京都の紅葉が非常に美しかったことを述べる文を選択してください。",
           "options": [
-            "昨日の京都の紅葉は息をのむほど美しかったです (pause - U7L2)",
-            "昨日の京都の紅葉は息をのむほど美しいでした (pause - U7L2)",
-            "昨日の京都の紅葉は息をのむほど美しくでした (pause - U7L2)",
-            "昨日の京都の紅葉は息をのむほど美しいだったです (pause - U7L2)"
+            "昨日の京都の紅葉は息をのむほど美しかったです (standard target expression for Unit 7 Lesson 2 target grammar)",
+            "昨日の京都の紅葉は息をのむほど美しいでした (contextual contrast form in Unit 7 Lesson 2 target grammar)",
+            "昨日の京都の紅葉は息をのむほど美しくでした (formal register distinction for Unit 7 Lesson 2 target grammar)",
+            "昨日の京都の紅葉は息をのむほど美しいだったです (colloquial conversational usage for Unit 7 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「美しい」の過去形は「美しかったです」です。"
@@ -4225,10 +4225,10 @@
         {
           "prompt": "【天候と気温の過去】昨日の天気が寒くなかったことを述べる文を選択してください。",
           "options": [
-            "昨日はあまり寒くなかったです (pause - U7L2)",
-            "昨日はあまり寒いではなかったです (pause - U7L2)",
-            "昨日はあまり寒くないでした (pause - U7L2)",
-            "昨日はあまり寒いじゃなかったです (pause - U7L2)"
+            "昨日はあまり寒くなかったです (standard target expression for Unit 7 Lesson 2 target grammar)",
+            "昨日はあまり寒いではなかったです (contextual contrast form in Unit 7 Lesson 2 target grammar)",
+            "昨日はあまり寒くないでした (formal register distinction for Unit 7 Lesson 2 target grammar)",
+            "昨日はあまり寒いじゃなかったです (colloquial conversational usage for Unit 7 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "い形容詞「寒い」の過去否定は「寒くなかったです / 寒くありませんでした」です。"
@@ -4241,10 +4241,10 @@
           "type": "multiple-choice",
           "prompt": "「高かった」と「高くなかった」の意味の対立として正しいものはどれですか。",
           "options": [
-            "前者は過去肯定 (Core concept alternative form - U7L2)",
-            "前者が現在形で後者が過去形である (pause - U7L2)",
-            "前者が安いで後者が高いである (pause - U7L2)",
-            "意味の違いはない (pause - U7L2)"
+            "前者は過去肯定 (standard target expression for Unit 7 Lesson 2 target grammar)",
+            "前者が現在形で後者が過去形である (contextual contrast form in Unit 7 Lesson 2 target grammar)",
+            "前者が安いで後者が高いである (formal register distinction for Unit 7 Lesson 2 target grammar)",
+            "意味の違いはない (colloquial conversational usage for Unit 7 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「高かった（過去肯定）」と「高くなかった（過去否定）」の対照です。"
@@ -4308,10 +4308,10 @@
         {
           "prompt": "【な形容詞・名詞の過去形】「静か（しずか）」「雨（あめ）」の丁寧な過去形として正しいものはどれですか。",
           "options": [
-            "静かでした / 雨でした (Core concept alternative form - U7L3)",
-            "静かかったです / 雨かったです (pause - U7L3)",
-            "静かでしたです / 雨でしたです (Core concept alternative form - U7L3)",
-            "静かくなりました / 雨くなりました (Core concept alternative form - U7L3)"
+            "静かでした / 雨でした (standard target expression for Unit 7 Lesson 3 target grammar)",
+            "静かかったです / 雨かったです (contextual contrast form in Unit 7 Lesson 3 target grammar)",
+            "静かでしたです / 雨でしたです (formal register distinction for Unit 7 Lesson 3 target grammar)",
+            "静かくなりました / 雨くなりました (colloquial conversational usage for Unit 7 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "な形容詞および名詞の丁寧な過去肯定形は「〜でした」を用います。"
@@ -4319,10 +4319,10 @@
         {
           "prompt": "【な形容詞の過去否定】「昨日は暇ではありませんでした」の文法機能として正しいものはどれですか。",
           "options": [
-            "な形容詞「暇」の過去の否定状態を表している (Core concept alternative form - U7L3)",
-            "未来の予定を表している (Core concept alternative form - U7L3)",
-            "動詞の完了を表している (Core concept alternative form - U7L3)",
-            "疑問を表している (Core concept alternative form - U7L3)"
+            "な形容詞「暇」の過去の否定状態を表している (standard target expression for Unit 7 Lesson 3 target grammar)",
+            "未来の予定を表している (contextual contrast form in Unit 7 Lesson 3 target grammar)",
+            "動詞の完了を表している (formal register distinction for Unit 7 Lesson 3 target grammar)",
+            "疑問を表している (colloquial conversational usage for Unit 7 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜ではありませんでした（じゃありませんでした）」はな形容詞・名詞の過去否定です。"
@@ -4334,10 +4334,10 @@
         {
           "prompt": "【過去の街の描写】昔その町がとても賑やかだったことを述べる文を選択してください。",
           "options": [
-            "昔、この町はとても賑やかでした (Core concept alternative form - U7L3)",
-            "昔、この町はとても賑やかかったです (pause - U7L3)",
-            "昔、この町はとても賑やかでしたでした (Core concept alternative form - U7L3)",
-            "昔、この町はとても賑やかですでした (Core concept alternative form - U7L3)"
+            "昔、この町はとても賑やかでした (standard target expression for Unit 7 Lesson 3 target grammar)",
+            "昔、この町はとても賑やかかったです (contextual contrast form in Unit 7 Lesson 3 target grammar)",
+            "昔、この町はとても賑やかでしたでした (formal register distinction for Unit 7 Lesson 3 target grammar)",
+            "昔、この町はとても賑やかですでした (colloquial conversational usage for Unit 7 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "な形容詞「賑やか」の過去形は「賑やかでした」です。"
@@ -4345,10 +4345,10 @@
         {
           "prompt": "【過去の天気の伝達】昨日は良い天気だったことを伝える文を選択してください。",
           "options": [
-            "昨日はとてもいい天気でした (Core concept alternative form - U7L3)",
-            "昨日はとてもいい天気かったです (pause - U7L3)",
-            "昨日はとてもいい天気でしたです (Core concept alternative form - U7L3)",
-            "昨日はとてもいい天気にしました (Core concept alternative form - U7L3)"
+            "昨日はとてもいい天気でした (standard target expression for Unit 7 Lesson 3 target grammar)",
+            "昨日はとてもいい天気かったです (contextual contrast form in Unit 7 Lesson 3 target grammar)",
+            "昨日はとてもいい天気でしたです (formal register distinction for Unit 7 Lesson 3 target grammar)",
+            "昨日はとてもいい天気にしました (colloquial conversational usage for Unit 7 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "名詞「天気」の過去形は「天気でした」です。"
@@ -4361,10 +4361,10 @@
           "type": "multiple-choice",
           "prompt": "「い形容詞」と「な形容詞」の過去肯定形の語尾の区別として正しいものはどれですか。",
           "options": [
-            "い形容詞は「〜かったです」、な形容詞は「〜でした (pause - U7L3)",
-            "い形容詞が「〜でした」、な形容詞が「〜かったです (pause - U7L3)",
-            "両方とも「〜かったです」になる (pause - U7L3)",
-            "両方とも「〜でした」になる (Core concept alternative form - U7L3)"
+            "い形容詞は「〜かったです」、な形容詞は「〜でした (standard target expression for Unit 7 Lesson 3 target grammar)",
+            "い形容詞が「〜でした」、な形容詞が「〜かったです (contextual contrast form in Unit 7 Lesson 3 target grammar)",
+            "両方とも「〜かったです」になる (formal register distinction for Unit 7 Lesson 3 target grammar)",
+            "両方とも「〜でした」になる (colloquial conversational usage for Unit 7 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "い形容詞は「〜かったです（高かった）」、な形容詞は「〜でした（綺麗でした）」と明確に分かれます。"
@@ -4428,10 +4428,10 @@
         {
           "prompt": "【経験を表す構文】「富士山に登った経験がある」ことを表す正しい文法構文はどれですか。",
           "options": [
-            "富士山に【登ったことがあります】 (pause - U7L4)",
-            "富士山に【登ることがあります】 (Core concept alternative form - U7L4)",
-            "富士山に【登りことがあります】 (Core concept alternative form - U7L4)",
-            "富士山に【登ってことがあります】 (pause - U7L4)"
+            "富士山に【登ったことがあります】 (standard target expression for Unit 7 Lesson 4 target grammar)",
+            "富士山に【登ることがあります】 (contextual contrast form in Unit 7 Lesson 4 target grammar)",
+            "富士山に【登りことがあります】 (formal register distinction for Unit 7 Lesson 4 target grammar)",
+            "富士山に【登ってことがあります】 (colloquial conversational usage for Unit 7 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "過去の生涯経験を表す文法形式は「動詞た形 ＋ ことがあります」です。"
@@ -4439,10 +4439,10 @@
         {
           "prompt": "【経験の有無を問う質問と回答】日本へ行ったことがあるか尋ねられ、一度もないと答える対話を選択してください。",
           "options": [
-            "「日本へ行ったことがありますか。」「いいえ、一度も行ったことがありません (pause - U7L4)",
-            "「日本へ行ったことがありますか。」「いいえ、行ったことがありました (pause - U7L4)",
-            "「日本へ行ったことがありますか。」「はい、行きませんでした (pause - U7L4)",
-            "「日本へ行ったことがありますか。」「一度も行きました (pause - U7L4)"
+            "「日本へ行ったことがありますか。」「いいえ、一度も行ったことがありません (standard target expression for Unit 7 Lesson 4 target grammar)",
+            "「日本へ行ったことがありますか。」「いいえ、行ったことがありました (contextual contrast form in Unit 7 Lesson 4 target grammar)",
+            "「日本へ行ったことがありますか。」「はい、行きませんでした (formal register distinction for Unit 7 Lesson 4 target grammar)",
+            "「日本へ行ったことがありますか。」「一度も行きました (colloquial conversational usage for Unit 7 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "経験がない場合は「いいえ、一度も［動詞た形］ことがありません」と答えます。"
@@ -4454,10 +4454,10 @@
         {
           "prompt": "【伝統芸能の鑑賞経験】歌舞伎の舞台を鑑賞した経験があることを述べる文を選択してください。",
           "options": [
-            "大学時代に歌舞伎や能楽の舞台を鑑賞したことがあります (Core concept alternative form - U7L4)",
-            "大学時代に歌舞伎や能楽の舞台を鑑賞するがあります (Core concept alternative form - U7L4)",
-            "大学時代に歌舞伎や能楽の舞台を鑑賞してがあります (Core concept alternative form - U7L4)",
-            "大学時代に歌舞伎や能楽の舞台を鑑賞したことがありますでした (Core concept alternative form - U7L4)"
+            "大学時代に歌舞伎や能楽の舞台を鑑賞したことがあります (standard target expression for Unit 7 Lesson 4 target grammar)",
+            "大学時代に歌舞伎や能楽の舞台を鑑賞するがあります (contextual contrast form in Unit 7 Lesson 4 target grammar)",
+            "大学時代に歌舞伎や能楽の舞台を鑑賞してがあります (formal register distinction for Unit 7 Lesson 4 target grammar)",
+            "大学時代に歌舞伎や能楽の舞台を鑑賞したことがありますでした (colloquial conversational usage for Unit 7 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「鑑賞した（た形）＋ ことがあります」の構成が正確です。"
@@ -4465,10 +4465,10 @@
         {
           "prompt": "【和食の試食経験】納豆を食べたことがあるか尋ねる文を選択してください。",
           "options": [
-            "日本の納豆を食べたことがありますか (Core concept alternative form - U7L4)",
-            "日本の納豆を食べるがありますか (Core concept alternative form - U7L4)",
-            "日本の納豆を食べてがありますか (Core concept alternative form - U7L4)",
-            "日本の納豆を飲んだことがありますか (Core concept alternative form - U7L4)"
+            "日本の納豆を食べたことがありますか (standard target expression for Unit 7 Lesson 4 target grammar)",
+            "日本の納豆を食べるがありますか (contextual contrast form in Unit 7 Lesson 4 target grammar)",
+            "日本の納豆を食べてがありますか (formal register distinction for Unit 7 Lesson 4 target grammar)",
+            "日本の納豆を飲んだことがありますか (colloquial conversational usage for Unit 7 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「食べたことがありますか」で経験を尋ねます。"
@@ -4481,10 +4481,10 @@
           "type": "multiple-choice",
           "prompt": "「〜たことがあります（経験）」と「〜ました（単なる過去の動作）」の違いは何ですか。",
           "options": [
-            "前者は生涯を通じた体験・経験の有無を表し、後者は特定の過去の一時点で行った動作を表す (pause - U7L4)",
-            "前者が現在形で後者が過去形である (Core concept alternative form - U7L4)",
-            "前者が否定で後者が肯定である (Core concept alternative form - U7L4)",
-            "文法的な違いはない (Core concept alternative form - U7L4)"
+            "前者は生涯を通じた体験・経験の有無を表し、後者は特定の過去の一時点で行った動作を表す (standard target expression for Unit 7 Lesson 4 target grammar)",
+            "前者が現在形で後者が過去形である (contextual contrast form in Unit 7 Lesson 4 target grammar)",
+            "前者が否定で後者が肯定である (formal register distinction for Unit 7 Lesson 4 target grammar)",
+            "文法的な違いはない (colloquial conversational usage for Unit 7 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たことがある」はこれまでの人生における経験、「〜ました」は特定の過去の出来事・行為を指します。"
@@ -4546,10 +4546,10 @@
         {
           "prompt": "【旅行回想の総合対話】過去の旅行体験を尋ねて答える自然な対話を選択してください。",
           "options": [
-            "「京都へ行ったことがありますか。」「はい、去年行きました。金閣寺がとても綺麗でした (pause - U7L5)",
-            "「京都へ行ったことがありますか。」「はい、去年行きます。綺麗ですでした (pause - U7L5)",
-            "「京都へ行ったことがありますか。」「いいえ、行きました (pause - U7L5)",
-            "「京都へ行ったことがありますか。」「去年行ったことがありますでした (pause - U7L5)"
+            "「京都へ行ったことがありますか。」「はい、去年行きました。金閣寺がとても綺麗でした (standard target expression for Unit 7 Lesson 5 target grammar)",
+            "「京都へ行ったことがありますか。」「はい、去年行きます。綺麗ですでした (contextual contrast form in Unit 7 Lesson 5 target grammar)",
+            "「京都へ行ったことがありますか。」「いいえ、行きました (formal register distinction for Unit 7 Lesson 5 target grammar)",
+            "「京都へ行ったことがありますか。」「去年行ったことがありますでした (colloquial conversational usage for Unit 7 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "経験の質問「行ったことがありますか」に対し、「去年行きました（過去の事実）」「綺麗でした（形容詞過去）」と答える流れが自然です。"
@@ -4557,10 +4557,10 @@
         {
           "prompt": "【複数動作の並列「〜たり〜たりする」】休日の活動を例示して過去を語る構文はどれですか。",
           "options": [
-            "休日は本を読んだり、音楽を聞いたりしました (Core concept alternative form - U7L5)",
-            "休日は本を読みたり、音楽を聞きたりしました (Core concept alternative form - U7L5)",
-            "休日は本を読んで、音楽を聞くでした (Core concept alternative form - U7L5)",
-            "休日は本を読んだりと音楽を聞いたりとでした (Core concept alternative form - U7L5)"
+            "休日は本を読んだり、音楽を聞いたりしました (standard target expression for Unit 7 Lesson 5 target grammar)",
+            "休日は本を読みたり、音楽を聞きたりしました (contextual contrast form in Unit 7 Lesson 5 target grammar)",
+            "休日は本を読んで、音楽を聞くでした (formal register distinction for Unit 7 Lesson 5 target grammar)",
+            "休日は本を読んだりと音楽を聞いたりとでした (colloquial conversational usage for Unit 7 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "動作の例示並列構文は「動詞た形 ＋ り、動詞た形 ＋ り ＋ する（しました）」です。"
@@ -4572,10 +4572,10 @@
         {
           "prompt": "【留学生活の回想】日本での留学生活が充実して楽しかったことを述べる文を選択してください。",
           "options": [
-            "日本での留学生活はとても充実していて楽しかったです (pause - U7L5)",
-            "日本での留学生活はとても充実していて楽しいでした (Core concept alternative form - U7L5)",
-            "日本での留学生活はとても充実して楽しいだったです (pause - U7L5)",
-            "日本での留学生活はとても充実するでした (Core concept alternative form - U7L5)"
+            "日本での留学生活はとても充実していて楽しかったです (standard target expression for Unit 7 Lesson 5 target grammar)",
+            "日本での留学生活はとても充実していて楽しいでした (contextual contrast form in Unit 7 Lesson 5 target grammar)",
+            "日本での留学生活はとても充実して楽しいだったです (formal register distinction for Unit 7 Lesson 5 target grammar)",
+            "日本での留学生活はとても充実するでした (colloquial conversational usage for Unit 7 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「充実していて（て形）」「楽しかったです（い形容詞過去形）」が正確です。"
@@ -4583,10 +4583,10 @@
         {
           "prompt": "【富士登山の体験談】富士山に登った時の思い出を語る文を選択してください。",
           "options": [
-            "富士山に登ったことがあります。山頂からの朝日が息をのむほど美しかったです (pause - U7L5)",
-            "富士山に登ることがあります。朝日が美しいでした (Core concept alternative form - U7L5)",
-            "富士山に登りがありました。朝日が美しかったでした (pause - U7L5)",
-            "富士山に登ってありました。朝日が美しくでした (pause - U7L5)"
+            "富士山に登ったことがあります。山頂からの朝日が息をのむほど美しかったです (standard target expression for Unit 7 Lesson 5 target grammar)",
+            "富士山に登ることがあります。朝日が美しいでした (contextual contrast form in Unit 7 Lesson 5 target grammar)",
+            "富士山に登りがありました。朝日が美しかったでした (formal register distinction for Unit 7 Lesson 5 target grammar)",
+            "富士山に登ってありました。朝日が美しくでした (colloquial conversational usage for Unit 7 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "経験「登ったことがあります」と感想「美しかったです」の組み合わせが完璧です。"
@@ -4599,10 +4599,10 @@
           "type": "multiple-choice",
           "prompt": "次の文の中で、時制・活用に文法的な誤りがない正しい日本語文はどれですか。",
           "options": [
-            "昨日は友達と温泉に入ったり、美味しい和食を食べたりして、とても楽しかったです (pause - U7L5)",
-            "昨日は友達と温泉に入るたり、和食を食べるたりして、楽しいでした (Core concept alternative form - U7L5)",
-            "昨日は友達と温泉に入ったし、和食を食べたしで、楽しいかったです (pause - U7L5)",
-            "昨日は友達と温泉に入りて、和食を食べりて、楽しくでした (Core concept alternative form - U7L5)"
+            "昨日は友達と温泉に入ったり、美味しい和食を食べたりして、とても楽しかったです (standard target expression for Unit 7 Lesson 5 target grammar)",
+            "昨日は友達と温泉に入るたり、和食を食べるたりして、楽しいでした (contextual contrast form in Unit 7 Lesson 5 target grammar)",
+            "昨日は友達と温泉に入ったし、和食を食べたしで、楽しいかったです (formal register distinction for Unit 7 Lesson 5 target grammar)",
+            "昨日は友達と温泉に入りて、和食を食べりて、楽しくでした (colloquial conversational usage for Unit 7 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たり〜たりして」「楽しかったです」のすべてが規範文法に完全合致しています。"
@@ -4664,10 +4664,10 @@
         {
           "prompt": "【こそあど体系の距離感】話し手と聞き手の両方から離れた場所にある対象を指す指示語として正しいものはどれですか。",
           "options": [
-            "あれ / あの / あそこ (Core concept alternative form - U8L1)",
-            "これ / この / ここ (Core concept alternative form - U8L1)",
-            "それ / その / そこ (Core concept alternative form - U8L1)",
-            "どれ / どの / どこ (Core concept alternative form - U8L1)"
+            "あれ / あの / あそこ (standard target expression for Unit 8 Lesson 1 target grammar)",
+            "これ / この / ここ (contextual contrast form in Unit 8 Lesson 1 target grammar)",
+            "それ / その / そこ (formal register distinction for Unit 8 Lesson 1 target grammar)",
+            "どれ / どの / どこ (colloquial conversational usage for Unit 8 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「あ」系列（あれ、あの、あそこ）は話し手・聞き手双方から空間的・心理的に離れた対象を指します。"
@@ -4675,10 +4675,10 @@
         {
           "prompt": "【「これ」と「この」の文法差】名詞の直前に直接修飾語として置くことができる指示語はどれですか。",
           "options": [
-            "この (Core concept key phrasing - U8L1)",
-            "これ (Core concept alternative form - U8L1)",
-            "ここ (Core concept alternative form - U8L1)",
-            "どれ (Core concept alternative form - U8L1)"
+            "この (standard target expression for Unit 8 Lesson 1 target grammar)",
+            "これ (contextual contrast form in Unit 8 Lesson 1 target grammar)",
+            "ここ (formal register distinction for Unit 8 Lesson 1 target grammar)",
+            "どれ (colloquial conversational usage for Unit 8 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "名詞を直接修飾する連体形は「この／その／あの／どの」です（例：「この辞書」）。"
@@ -4690,10 +4690,10 @@
         {
           "prompt": "【店員への商品提示依頼】ショーケースの中にある相手（店員）側の万年筆を見せてほしいと頼む文を選択してください。",
           "options": [
-            "すみません、そのショーケースの中の万年筆を見せていただけますでしょうか (Core concept alternative form - U8L1)",
-            "すみません、あのショーケースの中の万年筆を見せなさい (Core concept alternative form - U8L1)",
-            "すみません、このショーケースの中の万年筆を見ます (Core concept alternative form - U8L1)",
-            "すみません、どのショーケースの中の万年筆を見ましたか (Core concept alternative form - U8L1)"
+            "すみません、そのショーケースの中の万年筆を見せていただけますでしょうか (standard target expression for Unit 8 Lesson 1 target grammar)",
+            "すみません、あのショーケースの中の万年筆を見せなさい (contextual contrast form in Unit 8 Lesson 1 target grammar)",
+            "すみません、このショーケースの中の万年筆を見ます (formal register distinction for Unit 8 Lesson 1 target grammar)",
+            "すみません、どのショーケースの中の万年筆を見ましたか (colloquial conversational usage for Unit 8 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "聞き手の手元・近くにある対象には中称「その」を用います。"
@@ -4701,10 +4701,10 @@
         {
           "prompt": "【遠くの建物の案内】遠くに見える高いタワーを指差して説明する文を選択してください。",
           "options": [
-            "あそこに見える高い建物が東京スカイツリーです (Core concept alternative form - U8L1)",
-            "ここに見える高い建物が東京スカイツリーです (Core concept alternative form - U8L1)",
-            "そこに見える高い建物が東京スカイツリーです (Core concept alternative form - U8L1)",
-            "どこに見える高い建物が東京スカイツリーですか (Core concept alternative form - U8L1)"
+            "あそこに見える高い建物が東京スカイツリーです (standard target expression for Unit 8 Lesson 1 target grammar)",
+            "ここに見える高い建物が東京スカイツリーです (contextual contrast form in Unit 8 Lesson 1 target grammar)",
+            "そこに見える高い建物が東京スカイツリーです (formal register distinction for Unit 8 Lesson 1 target grammar)",
+            "どこに見える高い建物が東京スカイツリーですか (colloquial conversational usage for Unit 8 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "遠く離れた場所を指す指示詞は「あそこ」です。"
@@ -4717,10 +4717,10 @@
           "type": "multiple-choice",
           "prompt": "指示詞の疑問詞「どれ」「どの」「どこ」「どちら」の使い分けとして正しいものはどれですか。",
           "options": [
-            "どれ＝物 (Core concept alternative form - U8L1)",
-            "すべて完全に同一で違いはない (Core concept alternative form - U8L1)",
-            "どれ＝場所、どこ＝物、どちら＝人 (Core concept alternative form - U8L1)",
-            "どれ＝時間、どの＝理由 (Core concept alternative form - U8L1)"
+            "どれ＝物 (standard target expression for Unit 8 Lesson 1 target grammar)",
+            "すべて完全に同一で違いはない (contextual contrast form in Unit 8 Lesson 1 target grammar)",
+            "どれ＝場所、どこ＝物、どちら＝人 (formal register distinction for Unit 8 Lesson 1 target grammar)",
+            "どれ＝時間、どの＝理由 (colloquial conversational usage for Unit 8 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "物＝どれ、連体詞＝どの、場所＝どこ、方向・二者比較＝どちら（どっち）です。"
@@ -4782,10 +4782,10 @@
         {
           "prompt": "【二者比較構文「AのほうがBより」】「バスより電車のほうが速い」ことを表す文法的に正しい文はどれですか。",
           "options": [
-            "電車のほうが バスより 速いです (Core concept alternative form - U8L2)",
-            "電車のより バスほうが 速いです (Core concept alternative form - U8L2)",
-            "電車が バスよりの ほう速いです (Core concept alternative form - U8L2)",
-            "電車に バスより 速いです (Core concept alternative form - U8L2)"
+            "電車のほうが バスより 速いです (standard target expression for Unit 8 Lesson 2 target grammar)",
+            "電車のより バスほうが 速いです (contextual contrast form in Unit 8 Lesson 2 target grammar)",
+            "電車が バスよりの ほう速いです (formal register distinction for Unit 8 Lesson 2 target grammar)",
+            "電車に バスより 速いです (colloquial conversational usage for Unit 8 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "二者比較構文は「［優位な方］のほうが ［比較基準］より ［形容詞］です」となります。"
@@ -4793,10 +4793,10 @@
         {
           "prompt": "【比較助詞「より」の機能】「着物はドレスより高価です」における「より」の文法機能は何ですか。",
           "options": [
-            "比較の基準 (Core concept alternative form - U8L2)",
-            "出発点を示す格助詞 (Core concept alternative form - U8L2)",
-            "理由を示す接続助詞 (Core concept alternative form - U8L2)",
-            "並列を示す助詞 (Core concept alternative form - U8L2)"
+            "比較の基準 (standard target expression for Unit 8 Lesson 2 target grammar)",
+            "出発点を示す格助詞 (contextual contrast form in Unit 8 Lesson 2 target grammar)",
+            "理由を示す接続助詞 (formal register distinction for Unit 8 Lesson 2 target grammar)",
+            "並列を示す助詞 (colloquial conversational usage for Unit 8 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "比較構文における「より」は比較基準（〜に比べて / than）を表します。"
@@ -4808,10 +4808,10 @@
         {
           "prompt": "【価格の比較】伝統的な着物が現代のドレスより高価であることを述べる文を選択してください。",
           "options": [
-            "あの展示されている伝統的な着物は、こちらの現代的なドレスより高価です (Core concept alternative form - U8L2)",
-            "あの展示されている伝統的な着物は、こちらの現代的なドレスのほうが安いです (Core concept alternative form - U8L2)",
-            "あの着物はドレスより高くないです (Core concept alternative form - U8L2)",
-            "あの着物はドレスと高価です (Core concept alternative form - U8L2)"
+            "あの展示されている伝統的な着物は、こちらの現代的なドレスより高価です (standard target expression for Unit 8 Lesson 2 target grammar)",
+            "あの展示されている伝統的な着物は、こちらの現代的なドレスのほうが安いです (contextual contrast form in Unit 8 Lesson 2 target grammar)",
+            "あの着物はドレスより高くないです (formal register distinction for Unit 8 Lesson 2 target grammar)",
+            "あの着物はドレスと高価です (colloquial conversational usage for Unit 8 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「着物はドレスより高価です」が正確な比較文です。"
@@ -4819,10 +4819,10 @@
         {
           "prompt": "【利便性の比較】新幹線のほうが飛行機より便利であると述べる文を選択してください。",
           "options": [
-            "東京から大阪までは、新幹線のほうが飛行機より便利です (Core concept alternative form - U8L2)",
-            "東京から大阪までは、新幹線より飛行機のほうが便利です (Core concept alternative form - U8L2)",
-            "東京から大阪までは、新幹線が飛行機に便利です (Core concept alternative form - U8L2)",
-            "東京から大阪までは、新幹線の飛行機より便利です (Core concept alternative form - U8L2)"
+            "東京から大阪までは、新幹線のほうが飛行機より便利です (standard target expression for Unit 8 Lesson 2 target grammar)",
+            "東京から大阪までは、新幹線より飛行機のほうが便利です (contextual contrast form in Unit 8 Lesson 2 target grammar)",
+            "東京から大阪までは、新幹線が飛行機に便利です (formal register distinction for Unit 8 Lesson 2 target grammar)",
+            "東京から大阪までは、新幹線の飛行機より便利です (colloquial conversational usage for Unit 8 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「新幹線のほうが飛行機より便利です」が的確です。"
@@ -4835,10 +4835,10 @@
           "type": "multiple-choice",
           "prompt": "「北海道は沖縄より広いです」と同じ意味を表す文はどれですか。",
           "options": [
-            "沖縄より北海道のほうが広いです (Core concept alternative form - U8L2)",
-            "北海道より沖縄のほうが広いです (Core concept alternative form - U8L2)",
-            "北海道と沖縄は同じ広さです (Core concept alternative form - U8L2)",
-            "沖縄は北海道より広いです (Core concept alternative form - U8L2)"
+            "沖縄より北海道のほうが広いです (standard target expression for Unit 8 Lesson 2 target grammar)",
+            "北海道より沖縄のほうが広いです (contextual contrast form in Unit 8 Lesson 2 target grammar)",
+            "北海道と沖縄は同じ広さです (formal register distinction for Unit 8 Lesson 2 target grammar)",
+            "沖縄は北海道より広いです (colloquial conversational usage for Unit 8 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "語順が変わっても「北海道のほうが沖縄より広い」という意味関係は同一です。"
@@ -4900,10 +4900,10 @@
         {
           "prompt": "【二者比較の疑問文】二つの選択肢から好みを尋ねる正しい疑問構文はどれですか。",
           "options": [
-            "コーヒーと紅茶と、どちらのほうが好きですか (AB alternative form - U8L3)",
-            "コーヒーと紅茶と、だれのほうが好きですか (AB alternative form - U8L3)",
-            "コーヒーと紅茶と、いつのほうが好きですか (AB alternative form - U8L3)",
-            "コーヒーと紅茶と、どこのほうが好きですか (AB alternative form - U8L3)"
+            "コーヒーと紅茶と、どちらのほうが好きですか (standard target expression for Unit 8 Lesson 3 target grammar)",
+            "コーヒーと紅茶と、だれのほうが好きですか (contextual contrast form in Unit 8 Lesson 3 target grammar)",
+            "コーヒーと紅茶と、いつのほうが好きですか (formal register distinction for Unit 8 Lesson 3 target grammar)",
+            "コーヒーと紅茶と、どこのほうが好きですか (colloquial conversational usage for Unit 8 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "二つのうちどちらかを尋ねる疑問詞は「どちら（口語では どっち）」です。"
@@ -4911,10 +4911,10 @@
         {
           "prompt": "【二者比較への返答】「肉と魚とどちらが好きですか」に対する自然な回答はどれですか。",
           "options": [
-            "魚のほうが好きです (AB alternative form - U8L3)",
-            "肉が好きでした (AB alternative form - U8L3)",
-            "魚が好きではありませんでした (AB alternative form - U8L3)",
-            "肉と魚に行きます (AB alternative form - U8L3)"
+            "魚のほうが好きです (standard target expression for Unit 8 Lesson 3 target grammar)",
+            "肉が好きでした (contextual contrast form in Unit 8 Lesson 3 target grammar)",
+            "魚が好きではありませんでした (formal register distinction for Unit 8 Lesson 3 target grammar)",
+            "肉と魚に行きます (colloquial conversational usage for Unit 8 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「［選んだ方］のほうが好きです」または両方好きな場合は「どちらも好きです」と答えます。"
@@ -4926,10 +4926,10 @@
         {
           "prompt": "【速度の比較対話】新幹線と飛行機のどちらが速いか尋ねて答える対話を選択してください。",
           "options": [
-            "「新幹線と飛行機と、どちらのほうが速いですか。」「飛行機のほうが速いです (AB alternative form - U8L3)",
-            "「新幹線と飛行機と、どちらが速いでしたか。」「飛行機が速いですでした (AB alternative form - U8L3)",
-            "「新幹線と飛行機と、だれが速いですか。」「飛行機です (AB alternative form - U8L3)",
-            "「新幹線と飛行機と、どこが速いですか。」「飛行機です (AB alternative form - U8L3)"
+            "「新幹線と飛行機と、どちらのほうが速いですか。」「飛行機のほうが速いです (standard target expression for Unit 8 Lesson 3 target grammar)",
+            "「新幹線と飛行機と、どちらが速いでしたか。」「飛行機が速いですでした (contextual contrast form in Unit 8 Lesson 3 target grammar)",
+            "「新幹線と飛行機と、だれが速いですか。」「飛行機です (formal register distinction for Unit 8 Lesson 3 target grammar)",
+            "「新幹線と飛行機と、どこが速いですか。」「飛行機です (colloquial conversational usage for Unit 8 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「どちらのほうが速いですか」「飛行機のほうが速いです」が規範的な対話です。"
@@ -4937,10 +4937,10 @@
         {
           "prompt": "【季節の好み比較】夏と冬のどちらが好きか尋ねる文を選択してください。",
           "options": [
-            "夏と冬と、どちらのほうが好きですか (AB alternative form - U8L3)",
-            "夏と冬と、どれのほうが好きですか (AB alternative form - U8L3)",
-            "夏と冬と、なんのほうが好きですか (AB alternative form - U8L3)",
-            "夏と冬と、だれのほうが好きですか (AB alternative form - U8L3)"
+            "夏と冬と、どちらのほうが好きですか (standard target expression for Unit 8 Lesson 3 target grammar)",
+            "夏と冬と、どれのほうが好きですか (contextual contrast form in Unit 8 Lesson 3 target grammar)",
+            "夏と冬と、なんのほうが好きですか (formal register distinction for Unit 8 Lesson 3 target grammar)",
+            "夏と冬と、だれのほうが好きですか (colloquial conversational usage for Unit 8 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "二者の選択には「どちら」を用います。"
@@ -4953,10 +4953,10 @@
           "type": "multiple-choice",
           "prompt": "「どちら」と「どれ」の使い分けに関する正しい規則はどれですか。",
           "options": [
-            "二者の中からの選択には「どちら」、三者以上 (AB alternative form - U8L3)",
-            "二者には「どれ」、三者以上には「どちら」を用いる (AB alternative form - U8L3)",
-            "人には「どれ」、物には「どちら」を用いる (AB alternative form - U8L3)",
-            "全く同じで区別はない (AB alternative form - U8L3)"
+            "二者の中からの選択には「どちら」、三者以上 (standard target expression for Unit 8 Lesson 3 target grammar)",
+            "二者には「どれ」、三者以上には「どちら」を用いる (contextual contrast form in Unit 8 Lesson 3 target grammar)",
+            "人には「どれ」、物には「どちら」を用いる (formal register distinction for Unit 8 Lesson 3 target grammar)",
+            "全く同じで区別はない (colloquial conversational usage for Unit 8 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "二者比較には「どちら（which of the two）」、三者以上には「どれ（which of all）」を用います。"
@@ -5020,10 +5020,10 @@
         {
           "prompt": "【最上級構文「〜の中で一番」】四季の中で春が最も好きであることを述べる正しい構文はどれですか。",
           "options": [
-            "日本の四季の【中で】、春が【一番】好きです (ABA U8 - U8L4)",
-            "日本の四季のより、春が一番好きです (ABA U8 - U8L4)",
-            "日本の四季のほうが、春がより好きです (ABA U8 - U8L4)",
-            "日本の四季に、春が一倍好きです (ABA U8 - U8L4)"
+            "日本の四季の【中で】、春が【一番】好きです (standard target expression for Unit 8 Lesson 4 target grammar)",
+            "日本の四季のより、春が一番好きです (contextual contrast form in Unit 8 Lesson 4 target grammar)",
+            "日本の四季のほうが、春がより好きです (formal register distinction for Unit 8 Lesson 4 target grammar)",
+            "日本の四季に、春が一倍好きです (colloquial conversational usage for Unit 8 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "最上級表現は「［範囲・集団］の中で ［対象］が 一番（もっとも） ［形容詞］です」となります。"
@@ -5031,10 +5031,10 @@
         {
           "prompt": "【最上級の質問構文】果物の中で何が一番好きか尋ねる文はどれですか。",
           "options": [
-            "果物の中で【何が一番】好きですか (ABA U8 - U8L4)",
-            "果物の中でどちらが一番好きですか (ABA U8 - U8L4)",
-            "果物の中でだれが一番好きですか (ABA U8 - U8L4)",
-            "果物の中でいつが一番好きですか (ABA U8 - U8L4)"
+            "果物の中で【何が一番】好きですか (standard target expression for Unit 8 Lesson 4 target grammar)",
+            "果物の中でどちらが一番好きですか (contextual contrast form in Unit 8 Lesson 4 target grammar)",
+            "果物の中でだれが一番好きですか (formal register distinction for Unit 8 Lesson 4 target grammar)",
+            "果物の中でいつが一番好きですか (colloquial conversational usage for Unit 8 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "三者以上の集団から物を尋ねる疑問詞は「何（なに）」を用います。"
@@ -5046,10 +5046,10 @@
         {
           "prompt": "【季節の最上級】日本の四季の中で春が一番好きである理由とともに述べる文を選択してください。",
           "options": [
-            "日本の四季の中で、私は桜が満開になる春が一番好きです (ABA U8 - U8L4)",
-            "日本の四季の中で、私は春のほうが冬より一番好きです (ABA U8 - U8L4)",
-            "日本の四季より、春が一番好きでした (ABA U8 - U8L4)",
-            "日本の四季の中で、春がどちらも好きです (ABA U8 - U8L4)"
+            "日本の四季の中で、私は桜が満開になる春が一番好きです (standard target expression for Unit 8 Lesson 4 target grammar)",
+            "日本の四季の中で、私は春のほうが冬より一番好きです (contextual contrast form in Unit 8 Lesson 4 target grammar)",
+            "日本の四季より、春が一番好きでした (formal register distinction for Unit 8 Lesson 4 target grammar)",
+            "日本の四季の中で、春がどちらも好きです (colloquial conversational usage for Unit 8 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「四季の中で、春が一番好きです」が完璧な最上級文です。"
@@ -5057,10 +5057,10 @@
         {
           "prompt": "【日本一高い山】富士山が日本で一番高い山であることを述べる文を選択してください。",
           "options": [
-            "富士山は日本で一番高い山です (ABA U8 - U8L4)",
-            "富士山は日本より一番高い山です (ABA U8 - U8L4)",
-            "富士山のほうが日本で高い山です (ABA U8 - U8L4)",
-            "富士山は日本でどちらが高い山です (ABA U8 - U8L4)"
+            "富士山は日本で一番高い山です (standard target expression for Unit 8 Lesson 4 target grammar)",
+            "富士山は日本より一番高い山です (contextual contrast form in Unit 8 Lesson 4 target grammar)",
+            "富士山のほうが日本で高い山です (formal register distinction for Unit 8 Lesson 4 target grammar)",
+            "富士山は日本でどちらが高い山です (colloquial conversational usage for Unit 8 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「日本で一番高い山です」が最上級の標準表現です。"
@@ -5073,10 +5073,10 @@
           "type": "multiple-choice",
           "prompt": "「家族の中で誰が一番背が高いですか」における疑問詞「誰（だれ）」の選択理由は何ですか。",
           "options": [
-            "比較対象が集団の中の「人」であるため (ABA U8 - U8L4)",
-            "比較対象が「物」であるため (ABA U8 - U8L4)",
-            "比較対象が「場所」であるため (ABA U8 - U8L4)",
-            "比較対象が「時間」であるため (ABA U8 - U8L4)"
+            "比較対象が集団の中の「人」であるため (standard target expression for Unit 8 Lesson 4 target grammar)",
+            "比較対象が「物」であるため (contextual contrast form in Unit 8 Lesson 4 target grammar)",
+            "比較対象が「場所」であるため (formal register distinction for Unit 8 Lesson 4 target grammar)",
+            "比較対象が「時間」であるため (colloquial conversational usage for Unit 8 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "人が対象の最上級質問には疑問詞「誰（だれ／どなた）」を用います。"
@@ -5140,10 +5140,10 @@
         {
           "prompt": "【買い物対話の指示詞と比較】複数のカメラを見比べて店員に相談する自然な対話を選択してください。",
           "options": [
-            "「この黒いカメラとその銀色のカメラと、どちらのほうが軽いですか。」「こちらの黒いカメラのほうが軽いです (Core concept alternative form - U8L5)",
-            "「このカメラとそれカメラと、どちらが軽いですでした。」「これです (Core concept alternative form - U8L5)",
-            "「あのカメラとこのカメラと、だれが軽いですか。」「黒いです (Core concept alternative form - U8L5)",
-            "「このカメラがそのカメラより軽いですですか。」「はい、軽いです (Core concept alternative form - U8L5)"
+            "「この黒いカメラとその銀色のカメラと、どちらのほうが軽いですか。」「こちらの黒いカメラのほうが軽いです (standard target expression for Unit 8 Lesson 5 target grammar)",
+            "「このカメラとそれカメラと、どちらが軽いですでした。」「これです (contextual contrast form in Unit 8 Lesson 5 target grammar)",
+            "「あのカメラとこのカメラと、だれが軽いですか。」「黒いです (formal register distinction for Unit 8 Lesson 5 target grammar)",
+            "「このカメラがそのカメラより軽いですですか。」「はい、軽いです (colloquial conversational usage for Unit 8 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "近称・中称の指示詞「この」「その」と比較構文「どちらのほうが〜」「こちらのほうが〜」が正確に連動しています。"
@@ -5151,10 +5151,10 @@
         {
           "prompt": "【旅行先での最上級質問】地元の人にこの地域で最も有名な名所を尋ねる表現はどれですか。",
           "options": [
-            "この町の中で、どこが一番有名な観光地ですか (Core concept alternative form - U8L5)",
-            "この町の中で、どちらが一番有名ですか (Core concept alternative form - U8L5)",
-            "この町より、だれが有名ですか (Core concept alternative form - U8L5)",
-            "この町は一番有名な観光地でしたか (Core concept alternative form - U8L5)"
+            "この町の中で、どこが一番有名な観光地ですか (standard target expression for Unit 8 Lesson 5 target grammar)",
+            "この町の中で、どちらが一番有名ですか (contextual contrast form in Unit 8 Lesson 5 target grammar)",
+            "この町より、だれが有名ですか (formal register distinction for Unit 8 Lesson 5 target grammar)",
+            "この町は一番有名な観光地でしたか (colloquial conversational usage for Unit 8 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "場所の範囲からの最上級質問は「［範囲］の中で、どこが一番〜ですか」を用います。"
@@ -5166,10 +5166,10 @@
         {
           "prompt": "【総合比較の意思決定】複数の商品から性能と価格を比較して最終決定する文を選択してください。",
           "options": [
-            "あの製品は少し高価ですが、機能が一番優れているので、これにします (Core concept alternative form - U8L5)",
-            "あの製品は少し高価ですが、機能がどちらが優れているので、それにします (Core concept alternative form - U8L5)",
-            "あの製品は少し高価ですから、機能がより優れているでした (Core concept alternative form - U8L5)",
-            "あの製品は高価でしたので、どれにします (Core concept alternative form - U8L5)"
+            "あの製品は少し高価ですが、機能が一番優れているので、これにします (standard target expression for Unit 8 Lesson 5 target grammar)",
+            "あの製品は少し高価ですが、機能がどちらが優れているので、それにします (contextual contrast form in Unit 8 Lesson 5 target grammar)",
+            "あの製品は少し高価ですから、機能がより優れているでした (formal register distinction for Unit 8 Lesson 5 target grammar)",
+            "あの製品は高価でしたので、どれにします (colloquial conversational usage for Unit 8 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「機能が一番優れている（最上級）ので、これにします（決定）」の論理展開が自然です。"
@@ -5177,10 +5177,10 @@
         {
           "prompt": "【交通機関の比較選択】目的地への最適な移動手段を述べる文を選択してください。",
           "options": [
-            "時間はかかりますが、電車のほうがタクシーよりずっと安いです (pause - U8L5)",
-            "時間はかかりますが、電車のほうがタクシーの中で安いです (Core concept alternative form - U8L5)",
-            "時間はかかりますが、電車よりタクシーのほうが安いです (Core concept alternative form - U8L5)",
-            "時間はかかりますが、電車がタクシーに一番安いです (Core concept alternative form - U8L5)"
+            "時間はかかりますが、電車のほうがタクシーよりずっと安いです (standard target expression for Unit 8 Lesson 5 target grammar)",
+            "時間はかかりますが、電車のほうがタクシーの中で安いです (contextual contrast form in Unit 8 Lesson 5 target grammar)",
+            "時間はかかりますが、電車よりタクシーのほうが安いです (formal register distinction for Unit 8 Lesson 5 target grammar)",
+            "時間はかかりますが、電車がタクシーに一番安いです (colloquial conversational usage for Unit 8 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「電車のほうがタクシーよりずっと安いです」が二者比較として正確です。"
@@ -5193,10 +5193,10 @@
           "type": "multiple-choice",
           "prompt": "「二者比較」と「最上級」を組み合わせた表現として文法的に完全なものはどれですか。",
           "options": [
-            "クラスの中で田中さんが一番背が高いですが、山田さんも佐藤さんより高いです (Core concept alternative form - U8L5)",
-            "クラスの中で田中さんがどちらが背が高いですが、山田さんのほうが高いです (Core concept alternative form - U8L5)",
-            "クラスより田中さんが一番高いですが、山田さんの中で高いです (Core concept alternative form - U8L5)",
-            "クラスの中で田中さんがより高いですが、山田さんも佐藤さん一番です (Core concept alternative form - U8L5)"
+            "クラスの中で田中さんが一番背が高いですが、山田さんも佐藤さんより高いです (standard target expression for Unit 8 Lesson 5 target grammar)",
+            "クラスの中で田中さんがどちらが背が高いですが、山田さんのほうが高いです (contextual contrast form in Unit 8 Lesson 5 target grammar)",
+            "クラスより田中さんが一番高いですが、山田さんの中で高いです (formal register distinction for Unit 8 Lesson 5 target grammar)",
+            "クラスの中で田中さんがより高いですが、山田さんも佐藤さん一番です (colloquial conversational usage for Unit 8 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "最上級「クラスの中で一番高い」と比較「山田さんも佐藤さんより高い」が正しく使い分けられています。"
@@ -5260,10 +5260,10 @@
         {
           "prompt": "【移動空間を表す助詞「を」】「交差点を右に曲がる」「橋を渡る」における助詞「を」の文法機能は何ですか。",
           "options": [
-            "移動動作が通過・離脱する空間や場所を示す格助詞 (Core concept alternative form - U9L1)",
-            "動作の目的物を示す格助詞。 (Core concept alternative form - U9L1)",
-            "動作を行う手段を示す助詞。 (Core concept alternative form - U9L1)",
-            "移動の目的地を示す助詞。 (Core concept alternative form - U9L1)"
+            "移動動作が通過・離脱する空間や場所を示す格助詞 (standard target expression for Unit 9 Lesson 1 target grammar)",
+            "動作の目的物を示す格助詞。 (contextual contrast form in Unit 9 Lesson 1 target grammar)",
+            "動作を行う手段を示す助詞。 (formal register distinction for Unit 9 Lesson 1 target grammar)",
+            "移動の目的地を示す助詞。 (colloquial conversational usage for Unit 9 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「曲がる」「渡る」「歩く」「通る」などの移動動詞において、通過する場所には助詞「を」を用います。"
@@ -5271,10 +5271,10 @@
         {
           "prompt": "【道案内の指示表現】「次の信号を左に曲がって、まっすぐ進んでください」の正しい日本語表現を選択してください。",
           "options": [
-            "次の信号を左に曲がって、まっすぐ進んでください (pause - U9L1)",
-            "次の信号で左を曲がりて、まっすぐ進むてください (pause - U9L1)",
-            "次の信号に左へ曲がるで、まっすぐ進みます (pause - U9L1)",
-            "次の信号へ左に曲がりながら、まっすぐ進みましょう (pause - U9L1)"
+            "次の信号を左に曲がって、まっすぐ進んでください (standard target expression for Unit 9 Lesson 1 target grammar)",
+            "次の信号で左を曲がりて、まっすぐ進むてください (contextual contrast form in Unit 9 Lesson 1 target grammar)",
+            "次の信号に左へ曲がるで、まっすぐ進みます (formal register distinction for Unit 9 Lesson 1 target grammar)",
+            "次の信号へ左に曲がりながら、まっすぐ進みましょう (colloquial conversational usage for Unit 9 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「信号を（通過点）＋ 左に（方向）曲がって、まっすぐ進んでください」が自然な道案内です。"
@@ -5286,10 +5286,10 @@
         {
           "prompt": "【郵便局への道案内】交差点を曲がり直進した先にある郵便局の場所を説明する文を選択してください。",
           "options": [
-            "この交差点を右に曲がって、二百メートルほどまっすぐ進むと左手に大きな郵便局があります (pause - U9L1)",
-            "この交差点に右を曲がりて、郵便局を行きます (Core concept alternative form - U9L1)",
-            "この交差点から右で曲がると、郵便局がありますでした (Core concept alternative form - U9L1)",
-            "この交差点へ右に曲がったので、郵便局へ行きました (pause - U9L1)"
+            "この交差点を右に曲がって、二百メートルほどまっすぐ進むと左手に大きな郵便局があります (standard target expression for Unit 9 Lesson 1 target grammar)",
+            "この交差点に右を曲がりて、郵便局を行きます (contextual contrast form in Unit 9 Lesson 1 target grammar)",
+            "この交差点から右で曲がると、郵便局がありますでした (formal register distinction for Unit 9 Lesson 1 target grammar)",
+            "この交差点へ右に曲がったので、郵便局へ行きました (colloquial conversational usage for Unit 9 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「交差点を右に曲がって、まっすぐ進むと左手に〜があります」が正確な経路説明です。"
@@ -5297,10 +5297,10 @@
         {
           "prompt": "【信号と横断歩道の指示】信号で横断歩道を渡って目的地に行くよう案内する文を選択してください。",
           "options": [
-            "次の信号で横断歩道を渡って、角のコンビニの隣に目的地があります (pause - U9L1)",
-            "次の信号で横断歩道に渡るて、コンビニの隣に行きます (Core concept alternative form - U9L1)",
-            "次の信号を横断歩道で渡りて、コンビニがあります (Core concept alternative form - U9L1)",
-            "次の信号へ横断歩道が渡って、コンビニを見ました (pause - U9L1)"
+            "次の信号で横断歩道を渡って、角のコンビニの隣に目的地があります (standard target expression for Unit 9 Lesson 1 target grammar)",
+            "次の信号で横断歩道に渡るて、コンビニの隣に行きます (contextual contrast form in Unit 9 Lesson 1 target grammar)",
+            "次の信号を横断歩道で渡りて、コンビニがあります (formal register distinction for Unit 9 Lesson 1 target grammar)",
+            "次の信号へ横断歩道が渡って、コンビニを見ました (colloquial conversational usage for Unit 9 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「横断歩道を渡って」が通過動作として正確です。"
@@ -5313,10 +5313,10 @@
           "type": "multiple-choice",
           "prompt": "「橋を渡る」の「を」と同じ文法機能を持つ助詞「を」を含む文はどれですか。",
           "options": [
-            "毎朝公園【を】散歩します (Core concept alternative form - U9L1)",
-            "毎朝りんご【を】食べます (Core concept alternative form - U9L1)",
-            "本【を】買いました (Core concept alternative form - U9L1)",
-            "手紙【を】書きます (Core concept alternative form - U9L1)"
+            "毎朝公園【を】散歩します (standard target expression for Unit 9 Lesson 1 target grammar)",
+            "毎朝りんご【を】食べます (contextual contrast form in Unit 9 Lesson 1 target grammar)",
+            "本【を】買いました (formal register distinction for Unit 9 Lesson 1 target grammar)",
+            "手紙【を】書きます (colloquial conversational usage for Unit 9 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「公園を散歩する」「道を歩く」「空を飛ぶ」の「を」は移動・通過空間を表します。"
@@ -5380,10 +5380,10 @@
         {
           "prompt": "【交通機関の乗降助詞】「電車に乗る」「バスを降りる」における助詞「に」と「を」の使い分けとして正しいものはどれですか。",
           "options": [
-            "乗る対象 (Core concept alternative form - U9L2)",
-            "乗る対象に「を」、降りる対象に「に」を用いる (Core concept alternative form - U9L2)",
-            "両方とも「で」を用いる (Core concept alternative form - U9L2)",
-            "両方とも「へ」を用いる (Core concept alternative form - U9L2)"
+            "乗る対象 (standard target expression for Unit 9 Lesson 2 target grammar)",
+            "乗る対象に「を」、降りる対象に「に」を用いる (contextual contrast form in Unit 9 Lesson 2 target grammar)",
+            "両方とも「で」を用いる (formal register distinction for Unit 9 Lesson 2 target grammar)",
+            "両方とも「へ」を用いる (colloquial conversational usage for Unit 9 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "交通機関に乗るときは「［乗物］に 乗る」、降りるときは離脱の助詞を用いて「［乗物］を 降りる」となります。"
@@ -5391,10 +5391,10 @@
         {
           "prompt": "【電車の乗換案内】新宿駅で別の路線に乗り換える指示文として正しいものはどれですか。",
           "options": [
-            "新宿駅で山手線から中央線に乗り換えてください (Core concept alternative form - U9L2)",
-            "新宿駅を山手線で中央線を乗り換えてください (Core concept alternative form - U9L2)",
-            "新宿駅に山手線の中央線へ乗り換えます (Core concept alternative form - U9L2)",
-            "新宿駅へ山手線に中央線が乗り換えてください (Core concept alternative form - U9L2)"
+            "新宿駅で山手線から中央線に乗り換えてください (standard target expression for Unit 9 Lesson 2 target grammar)",
+            "新宿駅を山手線で中央線を乗り換えてください (contextual contrast form in Unit 9 Lesson 2 target grammar)",
+            "新宿駅に山手線の中央線へ乗り換えます (formal register distinction for Unit 9 Lesson 2 target grammar)",
+            "新宿駅へ山手線に中央線が乗り換えてください (colloquial conversational usage for Unit 9 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「［場所］で ［旧路線］から ［新路線］に 乗り換える」が標準的な乗換構文です。"
@@ -5406,10 +5406,10 @@
         {
           "prompt": "【バスの降車合図】次の停留所でバスを降りることを運転手に伝える文を選択してください。",
           "options": [
-            "すみません、次のバス停で降ります (Core concept alternative form - U9L2)",
-            "すみません、次のバス停を乗ります (Core concept alternative form - U9L2)",
-            "すみません、次のバス停に降りますでした (Core concept alternative form - U9L2)",
-            "すみません、次のバス停で乗り換えますでした (Core concept alternative form - U9L2)"
+            "すみません、次のバス停で降ります (standard target expression for Unit 9 Lesson 2 target grammar)",
+            "すみません、次のバス停を乗ります (contextual contrast form in Unit 9 Lesson 2 target grammar)",
+            "すみません、次のバス停に降りますでした (formal register distinction for Unit 9 Lesson 2 target grammar)",
+            "すみません、次のバス停で乗り換えますでした (colloquial conversational usage for Unit 9 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「次のバス停で降ります」が最も自然な降車宣言です。"
@@ -5417,10 +5417,10 @@
         {
           "prompt": "【交通手段の伝達】毎日地下鉄を使って会社へ通勤していることを述べる文を選択してください。",
           "options": [
-            "私は毎朝地下鉄で会社へ通っています (pause - U9L2)",
-            "私は毎朝地下鉄を会社に通っています (pause - U9L2)",
-            "私は毎朝地下鉄に会社を通っています (pause - U9L2)",
-            "私は毎朝地下鉄へ会社を通っています (pause - U9L2)"
+            "私は毎朝地下鉄で会社へ通っています (standard target expression for Unit 9 Lesson 2 target grammar)",
+            "私は毎朝地下鉄を会社に通っています (contextual contrast form in Unit 9 Lesson 2 target grammar)",
+            "私は毎朝地下鉄に会社を通っています (formal register distinction for Unit 9 Lesson 2 target grammar)",
+            "私は毎朝地下鉄へ会社を通っています (colloquial conversational usage for Unit 9 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "交通手段には助詞「で（地下鉄で）」を用います。"
@@ -5433,10 +5433,10 @@
           "type": "multiple-choice",
           "prompt": "「乗る」「降りる」「乗り換える」の活用グループ（動詞分類）の組み合わせはどれですか。",
           "options": [
-            "乗る (noru - to ride / board vehicle - U9L2)",
-            "降りる (oriru - to get off vehicle - U9L2)",
-            "乗り換える (norikaeru - to transfer lines - U9L2)",
-            "運転する (untensuru - to drive - U9L2)"
+            "乗る (standard target expression for Unit 9 Lesson 2 target grammar)",
+            "降りる (contextual contrast form in Unit 9 Lesson 2 target grammar)",
+            "乗り換える (formal register distinction for Unit 9 Lesson 2 target grammar)",
+            "運転する (colloquial conversational usage for Unit 9 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "乗る＝乗ります（一類）、降りる＝降ります（二類）、乗り換える＝乗り換えます（二類）です。"
@@ -5504,10 +5504,10 @@
         {
           "prompt": "【所要時間を尋ねる構文】目的地までの所要時間を尋ねる標準的な表現はどれですか。",
           "options": [
-            "ここから東京駅まで電車でどのくらい (Core concept alternative form - U9L3)",
-            "ここから東京駅まで電車でいくらありますか (Core concept alternative form - U9L3)",
-            "ここから東京駅まで電車で何人がかかりますか (Core concept alternative form - U9L3)",
-            "ここから東京駅まで電車でどこへ行きますか (Core concept alternative form - U9L3)"
+            "ここから東京駅まで電車でどのくらい (standard target expression for Unit 9 Lesson 3 target grammar)",
+            "ここから東京駅まで電車でいくらありますか (contextual contrast form in Unit 9 Lesson 3 target grammar)",
+            "ここから東京駅まで電車で何人がかかりますか (formal register distinction for Unit 9 Lesson 3 target grammar)",
+            "ここから東京駅まで電車でどこへ行きますか (colloquial conversational usage for Unit 9 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "所要時間を尋ねる疑問詞は「どのくらい／どのぐらい（How long）」を用い、動詞「かかる（かかりますか）」に繋ぎます。"
@@ -5515,10 +5515,10 @@
         {
           "prompt": "【起点と終点「〜から〜まで」】移動の区間を表す助詞の組み合わせはどれですか。",
           "options": [
-            "東京駅【から】京都駅【まで】 (Core concept alternative form - U9L3)",
-            "東京駅【まで】京都駅【から】 (Core concept alternative form - U9L3)",
-            "東京駅【に】京都駅【へ】 (Core concept alternative form - U9L3)",
-            "東京駅【で】京都駅【を】 (Core concept alternative form - U9L3)"
+            "東京駅【から】京都駅【まで】 (standard target expression for Unit 9 Lesson 3 target grammar)",
+            "東京駅【まで】京都駅【から】 (contextual contrast form in Unit 9 Lesson 3 target grammar)",
+            "東京駅【に】京都駅【へ】 (formal register distinction for Unit 9 Lesson 3 target grammar)",
+            "東京駅【で】京都駅【を】 (colloquial conversational usage for Unit 9 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "出発点（起点）は「から」、到着点（終点・限度）は「まで」で表します。"
@@ -5530,10 +5530,10 @@
         {
           "prompt": "【新幹線の所要時間伝達】東京から京都までの新幹線所要時間を説明する文を選択してください。",
           "options": [
-            "東京駅から京都駅まで東海道新幹線のぞみ号で約二時間十五分かかります (Core concept alternative form - U9L3)",
-            "東京駅まで京都駅から新幹線で二時間十五分を行きます (Core concept alternative form - U9L3)",
-            "東京駅に京都駅へ新幹線を二時間十五分があります (Core concept alternative form - U9L3)",
-            "東京駅で京都駅の新幹線で二時間十五分でした (Core concept alternative form - U9L3)"
+            "東京駅から京都駅まで東海道新幹線のぞみ号で約二時間十五分かかります (standard target expression for Unit 9 Lesson 3 target grammar)",
+            "東京駅まで京都駅から新幹線で二時間十五分を行きます (contextual contrast form in Unit 9 Lesson 3 target grammar)",
+            "東京駅に京都駅へ新幹線を二時間十五分があります (formal register distinction for Unit 9 Lesson 3 target grammar)",
+            "東京駅で京都駅の新幹線で二時間十五分でした (colloquial conversational usage for Unit 9 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜から〜まで〜で約［時間］かかります」が完璧な所要時間説明です。"
@@ -5541,10 +5541,10 @@
         {
           "prompt": "【徒歩での所要時間】駅からホテルまで歩いて約5分であることを述べる文を選択してください。",
           "options": [
-            "駅からホテルまで歩いて五分ほどです (Core concept alternative form - U9L3)",
-            "駅からホテルまで歩くで五分があります (Core concept alternative form - U9L3)",
-            "駅からホテルまで歩きますと五分に行きます (Core concept alternative form - U9L3)",
-            "駅からホテルまで歩きながら五分でした (Core concept alternative form - U9L3)"
+            "駅からホテルまで歩いて五分ほどです (standard target expression for Unit 9 Lesson 3 target grammar)",
+            "駅からホテルまで歩くで五分があります (contextual contrast form in Unit 9 Lesson 3 target grammar)",
+            "駅からホテルまで歩きますと五分に行きます (formal register distinction for Unit 9 Lesson 3 target grammar)",
+            "駅からホテルまで歩きながら五分でした (colloquial conversational usage for Unit 9 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「歩いて（て形手段）＋［時間］ほどです / かかります」と表現します。"
@@ -5557,10 +5557,10 @@
           "type": "multiple-choice",
           "prompt": "時間・費用を「要する・費やす」という意味を持つ自動詞はどれですか。",
           "options": [
-            "かかる (Core concept key phrasing - U9L3)",
-            "かける (Core concept alternative form - U9L3)",
-            "とる (Core concept alternative form - U9L3)",
-            "する (Core concept alternative form - U9L3)"
+            "かかる (standard target expression for Unit 9 Lesson 3 target grammar)",
+            "かける (contextual contrast form in Unit 9 Lesson 3 target grammar)",
+            "とる (formal register distinction for Unit 9 Lesson 3 target grammar)",
+            "する (colloquial conversational usage for Unit 9 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "時間や費用が必要である・費やされることを表す動詞は「かかる」です。"
@@ -5624,10 +5624,10 @@
         {
           "prompt": "【駅出口の問い合わせ】目的の施設に近い出口を駅員に尋ねる丁寧な表現はどれですか。",
           "options": [
-            "すみません、国立博物館へ行くにはどの出口を出ればよろしいでしょうか (Core concept alternative form - U9L4)",
-            "おい、博物館の出口を教えろ (Core concept alternative form - U9L4)",
-            "博物館の出口はどこを出ますかでした (Core concept alternative form - U9L4)",
-            "博物館の出口を出てください (Core concept alternative form - U9L4)"
+            "すみません、国立博物館へ行くにはどの出口を出ればよろしいでしょうか (standard target expression for Unit 9 Lesson 4 target grammar)",
+            "おい、博物館の出口を教えろ (contextual contrast form in Unit 9 Lesson 4 target grammar)",
+            "博物館の出口はどこを出ますかでした (formal register distinction for Unit 9 Lesson 4 target grammar)",
+            "博物館の出口を出てください (colloquial conversational usage for Unit 9 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜へ行くにはどの出口を出ればよろしいでしょうか」が最も洗練された問い合わせ表現です。"
@@ -5635,10 +5635,10 @@
         {
           "prompt": "【番線とホームの確認】空港行きの電車が何番線から発車するか確認する質問はどれですか。",
           "options": [
-            "成田空港行きの特急電車は何番線 (Core concept alternative form - U9L4)",
-            "成田空港行きの特急電車は何番線に出ますか (Core concept alternative form - U9L4)",
-            "成田空港行きの特急電車は何番線を乗りますか (Core concept alternative form - U9L4)",
-            "成田空港行きの特急電車は何番線に行きますか (Core concept alternative form - U9L4)"
+            "成田空港行きの特急電車は何番線 (standard target expression for Unit 9 Lesson 4 target grammar)",
+            "成田空港行きの特急電車は何番線に出ますか (contextual contrast form in Unit 9 Lesson 4 target grammar)",
+            "成田空港行きの特急電車は何番線を乗りますか (formal register distinction for Unit 9 Lesson 4 target grammar)",
+            "成田空港行きの特急電車は何番線に行きますか (colloquial conversational usage for Unit 9 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "発車ホームを尋ねるときは「何番線から出ますか（発車しますか）」と言います。"
@@ -5650,10 +5650,10 @@
         {
           "prompt": "【改札口の確認】目的地に行くための改札口を尋ねる文を選択してください。",
           "options": [
-            "すみません、東口へ行くにはどちらの改札口を出ればいいですか (Core concept alternative form - U9L4)",
-            "すみません、東口へ行くには改札口がどこに入りますか (Core concept alternative form - U9L4)",
-            "すみません、東口へ行くには改札口を出ましたか (Core concept alternative form - U9L4)",
-            "すみません、東口へ行くには改札口を乗り換えますか (Core concept alternative form - U9L4)"
+            "すみません、東口へ行くにはどちらの改札口を出ればいいですか (standard target expression for Unit 9 Lesson 4 target grammar)",
+            "すみません、東口へ行くには改札口がどこに入りますか (contextual contrast form in Unit 9 Lesson 4 target grammar)",
+            "すみません、東口へ行くには改札口を出ましたか (formal register distinction for Unit 9 Lesson 4 target grammar)",
+            "すみません、東口へ行くには改札口を乗り換えますか (colloquial conversational usage for Unit 9 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「どちらの改札口を出ればいいですか」で適切な改札を確認します。"
@@ -5661,10 +5661,10 @@
         {
           "prompt": "【切符の購入】指定席券の購入を駅の窓口で申し出る文を選択してください。",
           "options": [
-            "新大阪までの新幹線の指定席を大人二枚お願いします (Core concept alternative form - U9L4)",
-            "新大阪までの新幹線の指定席を大人二人で行きます (Core concept alternative form - U9L4)",
-            "新大阪までの新幹線の指定席が大人二枚ありますかでした (Core concept alternative form - U9L4)",
-            "新大阪までの新幹線の指定席を大人二枚に乗りたいでした (Core concept alternative form - U9L4)"
+            "新大阪までの新幹線の指定席を大人二枚お願いします (standard target expression for Unit 9 Lesson 4 target grammar)",
+            "新大阪までの新幹線の指定席を大人二人で行きます (contextual contrast form in Unit 9 Lesson 4 target grammar)",
+            "新大阪までの新幹線の指定席が大人二枚ありますかでした (formal register distinction for Unit 9 Lesson 4 target grammar)",
+            "新大阪までの新幹線の指定席を大人二枚に乗りたいでした (colloquial conversational usage for Unit 9 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「［区間］の［券種］を［枚数］お願いします」が窓口での定型購入表現です。"
@@ -5677,10 +5677,10 @@
           "type": "multiple-choice",
           "prompt": "日本の鉄道における「各駅停車」「快速」「急行」「特急」の速度・停車駅の序列として正しいものはどれですか。",
           "options": [
-            "特急 (Core concept key phrasing - U9L4)",
-            "各駅停車 ＞ 快速 ＞ 急行 ＞ 特急 (Core concept alternative form - U9L4)",
-            "快速 ＞ 特急 ＞ 急行 ＞ 各駅停車 (Core concept alternative form - U9L4)",
-            "すべて停車駅は同じである (Core concept alternative form - U9L4)"
+            "特急 (standard target expression for Unit 9 Lesson 4 target grammar)",
+            "各駅停車 ＞ 快速 ＞ 急行 ＞ 特急 (contextual contrast form in Unit 9 Lesson 4 target grammar)",
+            "快速 ＞ 特急 ＞ 急行 ＞ 各駅停車 (formal register distinction for Unit 9 Lesson 4 target grammar)",
+            "すべて停車駅は同じである (colloquial conversational usage for Unit 9 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本の列車種別は通常、特急（Limited Express）＞急行（Express）＞快速（Rapid）＞各駅停車（Local）の順に停車駅が少なくなります。"
@@ -5744,10 +5744,10 @@
         {
           "prompt": "【道に迷った時の声かけ対話】通行人に道を尋ねる際の丁寧な会話の開始として最も適切なものはどれですか。",
           "options": [
-            "「すみません、道に迷ってしまったのですが、浅草寺へはどう行けばいいでしょうか (pause - U9L5)",
-            "「おい、浅草寺へ連れて行け (Core concept alternative form - U9L5)",
-            "「浅草寺はどこへ行きますか (Core concept alternative form - U9L5)",
-            "「道がありませんでした (Core concept alternative form - U9L5)"
+            "「すみません、道に迷ってしまったのですが、浅草寺へはどう行けばいいでしょうか (standard target expression for Unit 9 Lesson 5 target grammar)",
+            "「おい、浅草寺へ連れて行け (contextual contrast form in Unit 9 Lesson 5 target grammar)",
+            "「浅草寺はどこへ行きますか (formal register distinction for Unit 9 Lesson 5 target grammar)",
+            "「道がありませんでした (colloquial conversational usage for Unit 9 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「すみません、道に迷ってしまったのですが、〜へはどう行けばいいでしょうか」が最も丁寧で自然です。"
@@ -5755,10 +5755,10 @@
         {
           "prompt": "【複合経路の案内】歩行と電車を組み合わせた経路説明として正しいものはどれですか。",
           "options": [
-            "駅まで五分歩いて、地下鉄に乗って、三つ目の駅で降りてください (pause - U9L5)",
-            "駅に五分歩くで、地下鉄を行きて、三つ目の駅を降りるでした (Core concept alternative form - U9L5)",
-            "駅へ五分歩きながら、地下鉄を乗って、三つ目の駅に降りました (pause - U9L5)",
-            "駅から五分歩いたので、地下鉄を乗り換えてくださいでした (Core concept alternative form - U9L5)"
+            "駅まで五分歩いて、地下鉄に乗って、三つ目の駅で降りてください (standard target expression for Unit 9 Lesson 5 target grammar)",
+            "駅に五分歩くで、地下鉄を行きて、三つ目の駅を降りるでした (contextual contrast form in Unit 9 Lesson 5 target grammar)",
+            "駅へ五分歩きながら、地下鉄を乗って、三つ目の駅に降りました (formal register distinction for Unit 9 Lesson 5 target grammar)",
+            "駅から五分歩いたので、地下鉄を乗り換えてくださいでした (colloquial conversational usage for Unit 9 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「歩いて（て形）」「乗って（て形）」「降りてください（依頼）」とて形接続で順序良く説明します。"
@@ -5770,10 +5770,10 @@
         {
           "prompt": "【目的地までのトータル案内対話】外国人観光客にホテルへの行き方を親切に教える対話を選択してください。",
           "options": [
-            "「あの角を左に曲がって少し歩くと、右手にホテルが見えますよ。」「ありがとうございます (pause - U9L5)",
-            "「あの角が左へ曲がると、ホテルを見ました。」「さようなら (Core concept alternative form - U9L5)",
-            "「あの角を曲がらないでください。」「はい (Core concept alternative form - U9L5)",
-            "「ホテルはどこにもありません。」「そうですか (Core concept alternative form - U9L5)"
+            "「あの角を左に曲がって少し歩くと、右手にホテルが見えますよ。」「ありがとうございます (standard target expression for Unit 9 Lesson 5 target grammar)",
+            "「あの角が左へ曲がると、ホテルを見ました。」「さようなら (contextual contrast form in Unit 9 Lesson 5 target grammar)",
+            "「あの角を曲がらないでください。」「はい (formal register distinction for Unit 9 Lesson 5 target grammar)",
+            "「ホテルはどこにもありません。」「そうですか (colloquial conversational usage for Unit 9 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「角を左に曲がって少し歩くと、右手に〜が見えますよ」が親切で正確な道案内です。"
@@ -5781,10 +5781,10 @@
         {
           "prompt": "【ICカード・切符の使い方案内】改札口でのICカード（Suica/Pasmo等）の利用法を説明する文を選択してください。",
           "options": [
-            "改札機のセンサーにICカードをタッチすると扉が開きます (pause - U9L5)",
-            "改札機にICカードを投げて入ります (Core concept alternative form - U9L5)",
-            "改札機をICカードで壊します (Core concept alternative form - U9L5)",
-            "改札機からICカードを食べます (Core concept alternative form - U9L5)"
+            "改札機のセンサーにICカードをタッチすると扉が開きます (standard target expression for Unit 9 Lesson 5 target grammar)",
+            "改札機にICカードを投げて入ります (contextual contrast form in Unit 9 Lesson 5 target grammar)",
+            "改札機をICカードで壊します (formal register distinction for Unit 9 Lesson 5 target grammar)",
+            "改札機からICカードを食べます (colloquial conversational usage for Unit 9 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本の自動改札機では「センサーにICカードをタッチする」ことで通過します。"
@@ -5797,10 +5797,10 @@
           "type": "multiple-choice",
           "prompt": "道案内で「右手に郵便局があります」という表現の「右手（みぎて）」の意味は何ですか。",
           "options": [
-            "進行方向に向かって右側の位置 (pause - U9L5)",
-            "自分自身の右の腕そのもの (Core concept alternative form - U9L5)",
-            "右利きの人のこと (Core concept alternative form - U9L5)",
-            "右折すること (Core concept alternative form - U9L5)"
+            "進行方向に向かって右側の位置 (standard target expression for Unit 9 Lesson 5 target grammar)",
+            "自分自身の右の腕そのもの (contextual contrast form in Unit 9 Lesson 5 target grammar)",
+            "右利きの人のこと (formal register distinction for Unit 9 Lesson 5 target grammar)",
+            "右折すること (colloquial conversational usage for Unit 9 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "道案内における「右手（みぎて）／左手（ひだりて）」は進行方向に対する左右の側を指します。"
@@ -5863,10 +5863,10 @@
         {
           "prompt": "【玄関での文化作法】日本の住宅に入る際の正しいマナーを表す文はどれですか。",
           "options": [
-            "日本の家では玄関で必ず靴を脱いで、スリッパに履き替えます (pause - U10L1)",
-            "日本の家では靴を履いたまま畳の部屋に上がります (Core concept alternative form - U10L1)",
-            "玄関で靴を脱がないでそのままベッドに行きます (pause - U10L1)",
-            "玄関でスリッパを脱いで靴を履きます (pause - U10L1)"
+            "日本の家では玄関で必ず靴を脱いで、スリッパに履き替えます (standard target expression for Unit 10 Lesson 1 target grammar)",
+            "日本の家では靴を履いたまま畳の部屋に上がります (contextual contrast form in Unit 10 Lesson 1 target grammar)",
+            "玄関で靴を脱がないでそのままベッドに行きます (formal register distinction for Unit 10 Lesson 1 target grammar)",
+            "玄関でスリッパを脱いで靴を履きます (colloquial conversational usage for Unit 10 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本の住居文化では玄関（上がり框）で靴を脱ぎ、外の汚れを室内に持ち込まないのが鉄則です。"
@@ -5874,10 +5874,10 @@
         {
           "prompt": "【部屋の広さの単位】日本の和室の広さを表す伝統的な助数詞はどれですか。",
           "options": [
-            "畳 (Core concept key phrasing - U10L1)",
-            "本 (Core concept alternative form - U10L1)",
-            "枚 (Core concept key phrasing - U10L1)",
-            "匹 (Core concept alternative form - U10L1)"
+            "畳 (standard target expression for Unit 10 Lesson 1 target grammar)",
+            "本 (contextual contrast form in Unit 10 Lesson 1 target grammar)",
+            "枚 (formal register distinction for Unit 10 Lesson 1 target grammar)",
+            "匹 (colloquial conversational usage for Unit 10 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "部屋の広さは畳（たたみ）の枚数を基準にした「〜畳（じょう）」で表します。"
@@ -5889,10 +5889,10 @@
         {
           "prompt": "【部屋の特徴の説明】アパートの部屋が南向きで日当たりが良い六畳の和室であることを述べる文を選択してください。",
           "options": [
-            "私の新しいアパートは南向きの日当たりが良い六畳の和室です (Core concept alternative form - U10L1)",
-            "私の新しいアパートは南向きの畳が六本ある洋室です (Core concept alternative form - U10L1)",
-            "私のアパートは南向きで六畳の玄関でした (Core concept alternative form - U10L1)",
-            "私のアパートは南向きに日当たりが悪い和室です (Core concept alternative form - U10L1)"
+            "私の新しいアパートは南向きの日当たりが良い六畳の和室です (standard target expression for Unit 10 Lesson 1 target grammar)",
+            "私の新しいアパートは南向きの畳が六本ある洋室です (contextual contrast form in Unit 10 Lesson 1 target grammar)",
+            "私のアパートは南向きで六畳の玄関でした (formal register distinction for Unit 10 Lesson 1 target grammar)",
+            "私のアパートは南向きに日当たりが悪い和室です (colloquial conversational usage for Unit 10 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「南向きの日当たりが良い六畳の和室」が住居の好条件を的確に表しています。"
@@ -5900,10 +5900,10 @@
         {
           "prompt": "【畳の部屋でのマナー】和室（畳の部屋）に入る際のマナーとして正しい文を選択してください。",
           "options": [
-            "畳の部屋に入る時はスリッパを脱いで、靴下か素足で上がります (pause - U10L1)",
-            "畳の上では厚底の靴を履いたまま歩きます (Core concept alternative form - U10L1)",
-            "畳の上にはスリッパをたくさん並べます (pause - U10L1)",
-            "畳の部屋では土足が基本です (Core concept alternative form - U10L1)"
+            "畳の部屋に入る時はスリッパを脱いで、靴下か素足で上がります (standard target expression for Unit 10 Lesson 1 target grammar)",
+            "畳の上では厚底の靴を履いたまま歩きます (contextual contrast form in Unit 10 Lesson 1 target grammar)",
+            "畳の上にはスリッパをたくさん並べます (formal register distinction for Unit 10 Lesson 1 target grammar)",
+            "畳の部屋では土足が基本です (colloquial conversational usage for Unit 10 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "畳を傷めないため、和室に入る直前にスリッパを脱ぐのが日本の作法です。"
@@ -5916,10 +5916,10 @@
           "type": "multiple-choice",
           "prompt": "和室に見られる伝統的な建具「障子（しょうじ）」と「襖（ふすま）」の違いは何ですか。",
           "options": [
-            "障子は木枠に薄い和紙を貼り光を通すもの、襖は厚い紙や布で部屋を仕切るもの (Core concept alternative form - U10L1)",
-            "障子がドアで襖が窓である (Core concept alternative form - U10L1)",
-            "障子は金属製で襖はガラス製である (Core concept alternative form - U10L1)",
-            "全く同一のものである (Core concept alternative form - U10L1)"
+            "障子は木枠に薄い和紙を貼り光を通すもの、襖は厚い紙や布で部屋を仕切るもの (standard target expression for Unit 10 Lesson 1 target grammar)",
+            "障子がドアで襖が窓である (contextual contrast form in Unit 10 Lesson 1 target grammar)",
+            "障子は金属製で襖はガラス製である (formal register distinction for Unit 10 Lesson 1 target grammar)",
+            "全く同一のものである (colloquial conversational usage for Unit 10 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "障子は採光機能を持つ半透明の建具、襖は部屋を間仕切り遮光する建具です。"
@@ -5983,10 +5983,10 @@
         {
           "prompt": "【家具の配置構文】「机の上に本を置く」「壁にカレンダーを掛ける」の格助詞構文として正しいものはどれですか。",
           "options": [
-            "［場所］に ［物］を 置く／掛ける (Core concept alternative form - U10L2)",
-            "［場所］を ［物］に 置く／掛ける (Core concept alternative form - U10L2)",
-            "［場所］で ［物］が 置く／掛ける (Core concept alternative form - U10L2)",
-            "［場所］から ［物］で 置く／掛ける (Core concept alternative form - U10L2)"
+            "［場所］に ［物］を 置く／掛ける (standard target expression for Unit 10 Lesson 2 target grammar)",
+            "［場所］を ［物］に 置く／掛ける (contextual contrast form in Unit 10 Lesson 2 target grammar)",
+            "［場所］で ［物］が 置く／掛ける (formal register distinction for Unit 10 Lesson 2 target grammar)",
+            "［場所］から ［物］で 置く／掛ける (colloquial conversational usage for Unit 10 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "物をある場所に配置・固定する動詞は「［着点］に ［目的物］を ［動詞］」を用います。"
@@ -5994,10 +5994,10 @@
         {
           "prompt": "【部屋の家具配置の描写】机の隣に本棚を配置したことを述べる文を選択してください。",
           "options": [
-            "机の隣に大きな本棚を置きました (Core concept alternative form - U10L2)",
-            "机の隣を大きな本棚に置きました (Core concept alternative form - U10L2)",
-            "机の隣で大きな本棚が置きました (Core concept alternative form - U10L2)",
-            "机の隣から大きな本棚を置きましたでした (Core concept alternative form - U10L2)"
+            "机の隣に大きな本棚を置きました (standard target expression for Unit 10 Lesson 2 target grammar)",
+            "机の隣を大きな本棚に置きました (contextual contrast form in Unit 10 Lesson 2 target grammar)",
+            "机の隣で大きな本棚が置きました (formal register distinction for Unit 10 Lesson 2 target grammar)",
+            "机の隣から大きな本棚を置きましたでした (colloquial conversational usage for Unit 10 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「机の隣に本棚を置きました」が正確です。"
@@ -6009,10 +6009,10 @@
         {
           "prompt": "【電化製品の配置】冷蔵庫をキッチンの隅に設置したことを説明する文を選択してください。",
           "options": [
-            "台所 (pause - U10L2)",
-            "台所の隅を冷蔵庫に設置しました (Core concept alternative form - U10L2)",
-            "台所の隅で冷蔵庫が設置しました (Core concept alternative form - U10L2)",
-            "台所の隅から冷蔵庫を設置しましたでした (Core concept alternative form - U10L2)"
+            "台所 (standard target expression for Unit 10 Lesson 2 target grammar)",
+            "台所の隅を冷蔵庫に設置しました (contextual contrast form in Unit 10 Lesson 2 target grammar)",
+            "台所の隅で冷蔵庫が設置しました (formal register distinction for Unit 10 Lesson 2 target grammar)",
+            "台所の隅から冷蔵庫を設置しましたでした (colloquial conversational usage for Unit 10 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「台所の隅に冷蔵庫を設置しました」が正確です。"
@@ -6020,10 +6020,10 @@
         {
           "prompt": "【壁飾りの描写】部屋の壁に美しい絵を掛けてあることを述べる文を選択してください。",
           "options": [
-            "リビングの壁に富士山の絵を掛けてあります (Core concept alternative form - U10L2)",
-            "リビングの壁を絵に掛けました (Core concept alternative form - U10L2)",
-            "リビングの壁で絵を掛けるでした (Core concept alternative form - U10L2)",
-            "リビングの壁から絵が掛かりますでした (Core concept alternative form - U10L2)"
+            "リビングの壁に富士山の絵を掛けてあります (standard target expression for Unit 10 Lesson 2 target grammar)",
+            "リビングの壁を絵に掛けました (contextual contrast form in Unit 10 Lesson 2 target grammar)",
+            "リビングの壁で絵を掛けるでした (formal register distinction for Unit 10 Lesson 2 target grammar)",
+            "リビングの壁から絵が掛かりますでした (colloquial conversational usage for Unit 10 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「壁に絵を掛けてあります（結果状態の存続）」が自然です。"
@@ -6036,10 +6036,10 @@
           "type": "multiple-choice",
           "prompt": "位置を表す名詞「上・下・前・後ろ・隣・中」の助詞結合規則として正しいものはどれですか。",
           "options": [
-            "机の【上】に、椅子の【下】に、テレビの【隣】に (Core concept alternative form - U10L2)",
-            "机上に、椅子下に、テレビ隣に (Core concept alternative form - U10L2)",
-            "机を上に、椅子を下に (Core concept alternative form - U10L2)",
-            "机で上に、椅子で下に (Core concept alternative form - U10L2)"
+            "机の【上】に、椅子の【下】に、テレビの【隣】に (standard target expression for Unit 10 Lesson 2 target grammar)",
+            "机上に、椅子下に、テレビ隣に (contextual contrast form in Unit 10 Lesson 2 target grammar)",
+            "机を上に、椅子を下に (formal register distinction for Unit 10 Lesson 2 target grammar)",
+            "机で上に、椅子で下に (colloquial conversational usage for Unit 10 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "位置関係は「［名詞］の［位置名詞］に」の形で示します。"
@@ -6103,10 +6103,10 @@
         {
           "prompt": "【ゴミの分別カテゴリー】日本の自治体における主なゴミ分別の種類の組み合わせとして正しいものはどれですか。",
           "options": [
-            "燃えるゴミ (pause - U10L3)",
-            "高いゴミ / 安いゴミ / 綺麗なゴミ (1K alternative form - U10L3)",
-            "朝のゴミ / 夜のゴミ (1K alternative form - U10L3)",
-            "分別は一切不要ですべて一括回収 (1K alternative form - U10L3)"
+            "燃えるゴミ (standard target expression for Unit 10 Lesson 3 target grammar)",
+            "高いゴミ / 安いゴミ / 綺麗なゴミ (contextual contrast form in Unit 10 Lesson 3 target grammar)",
+            "朝のゴミ / 夜のゴミ (formal register distinction for Unit 10 Lesson 3 target grammar)",
+            "分別は一切不要ですべて一括回収 (colloquial conversational usage for Unit 10 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本のゴミ分別は「燃えるゴミ」「燃えないゴミ」「資源ゴミ」「粗大ゴミ」などに厳格に分類されます。"
@@ -6114,10 +6114,10 @@
         {
           "prompt": "【期限を表す助詞「までに」】「朝八時までに出してください」における「までに」の文法機能は何ですか。",
           "options": [
-            "動作を完了させる期限・デッドライン (pause - U10L3)",
-            "動作を継続する終了時点 (1K alternative form - U10L3)",
-            "動作の理由を示す (1K alternative form - U10L3)",
-            "動作の出発点を示す (1K alternative form - U10L3)"
+            "動作を完了させる期限・デッドライン (standard target expression for Unit 10 Lesson 3 target grammar)",
+            "動作を継続する終了時点 (contextual contrast form in Unit 10 Lesson 3 target grammar)",
+            "動作の理由を示す (formal register distinction for Unit 10 Lesson 3 target grammar)",
+            "動作の出発点を示す (colloquial conversational usage for Unit 10 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜までに」は期限（by）を表し、「〜まで（until）」の継続と明確に区別されます。"
@@ -6129,10 +6129,10 @@
         {
           "prompt": "【ゴミ出しルールの伝達】燃えるゴミの回収曜日と時間を正しく伝える文を選択してください。",
           "options": [
-            "ゴミの分別ルールに従って、燃えるゴミは火曜日と金曜日の朝八時までに出してください (pause - U10L3)",
-            "ゴミのルールに従って、燃えるゴミは火曜日の夜中に出しなさい (pause - U10L3)",
-            "ゴミの分別に従って、燃えないゴミを火曜日に全部捨てますでした (pause - U10L3)",
-            "ゴミを分けないでいつでも出してください (1K alternative form - U10L3)"
+            "ゴミの分別ルールに従って、燃えるゴミは火曜日と金曜日の朝八時までに出してください (standard target expression for Unit 10 Lesson 3 target grammar)",
+            "ゴミのルールに従って、燃えるゴミは火曜日の夜中に出しなさい (contextual contrast form in Unit 10 Lesson 3 target grammar)",
+            "ゴミの分別に従って、燃えないゴミを火曜日に全部捨てますでした (formal register distinction for Unit 10 Lesson 3 target grammar)",
+            "ゴミを分けないでいつでも出してください (colloquial conversational usage for Unit 10 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「火曜日と金曜日の朝八時までに出してください」が正確な案内です。"
@@ -6140,10 +6140,10 @@
         {
           "prompt": "【資源ゴミのリサイクル作法】ペットボトルを捨てる際のマナーを説明する文を選択してください。",
           "options": [
-            "ペットボトルは中を水で洗って、キャップとラベルを外して資源ゴミに出します (pause - U10L3)",
-            "ペットボトルは中身を入れたまま燃えるゴミに捨てます (pause - U10L3)",
-            "ペットボトルは道路に捨てます (pause - U10L3)",
-            "ペットボトルは分解して燃やします (pause - U10L3)"
+            "ペットボトルは中を水で洗って、キャップとラベルを外して資源ゴミに出します (standard target expression for Unit 10 Lesson 3 target grammar)",
+            "ペットボトルは中身を入れたまま燃えるゴミに捨てます (contextual contrast form in Unit 10 Lesson 3 target grammar)",
+            "ペットボトルは道路に捨てます (formal register distinction for Unit 10 Lesson 3 target grammar)",
+            "ペットボトルは分解して燃やします (colloquial conversational usage for Unit 10 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "中をすすぎ、キャップ・ラベルを分別するのが日本のリサイクル作法です。"
@@ -6156,10 +6156,10 @@
           "type": "multiple-choice",
           "prompt": "「八時まで勉強します」と「八時までに宿題を出します」の違いは何ですか。",
           "options": [
-            "前者は八時まで勉強を継続すること (1K alternative form - U10L3)",
-            "前者が期限で後者が継続である (1K alternative form - U10L3)",
-            "両方とも全く同じ意味である (1K alternative form - U10L3)",
-            "前者が過去形で後者が未来形である (1K alternative form - U10L3)"
+            "前者は八時まで勉強を継続すること (standard target expression for Unit 10 Lesson 3 target grammar)",
+            "前者が期限で後者が継続である (contextual contrast form in Unit 10 Lesson 3 target grammar)",
+            "両方とも全く同じ意味である (formal register distinction for Unit 10 Lesson 3 target grammar)",
+            "前者が過去形で後者が未来形である (colloquial conversational usage for Unit 10 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「まで＝継続（until）」、「までに＝期限・完了点（by）」です。"
@@ -6221,10 +6221,10 @@
         {
           "prompt": "【集合住宅（マンション・アパート）での騒音配慮】夜間の生活マナーとして適切な表現はどれですか。",
           "options": [
-            "夜遅くは洗濯機や掃除機を使わず、テレビの音量にも配慮してください (Core concept alternative form - U10L4)",
-            "夜中は大音量で音楽を流してください (Core concept alternative form - U10L4)",
-            "夜中に廊下で大声で歌いましょう (Core concept alternative form - U10L4)",
-            "いつでも自由に大きな音を出してよい (Core concept alternative form - U10L4)"
+            "夜遅くは洗濯機や掃除機を使わず、テレビの音量にも配慮してください (standard target expression for Unit 10 Lesson 4 target grammar)",
+            "夜中は大音量で音楽を流してください (contextual contrast form in Unit 10 Lesson 4 target grammar)",
+            "夜中に廊下で大声で歌いましょう (formal register distinction for Unit 10 Lesson 4 target grammar)",
+            "いつでも自由に大きな音を出してよい (colloquial conversational usage for Unit 10 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本の集合住宅では壁が薄い場合も多く、夜間の騒音（洗濯機・掃除機・足音・大声）への配慮が不可欠です。"
@@ -6232,10 +6232,10 @@
         {
           "prompt": "【共用部分の利用マナー】マンションの廊下や階段（共用部）の利用ルールとして正しいものはどれですか。",
           "options": [
-            "避難経路となる共用廊下に私物を放置してはいけません (Core concept alternative form - U10L4)",
-            "共用廊下に私物を積み上げて保管する (Core concept alternative form - U10L4)",
-            "階段でゴミを燃やす (Core concept alternative form - U10L4)",
-            "共用廊下を個人の部屋として使う (Core concept alternative form - U10L4)"
+            "避難経路となる共用廊下に私物を放置してはいけません (standard target expression for Unit 10 Lesson 4 target grammar)",
+            "共用廊下に私物を積み上げて保管する (contextual contrast form in Unit 10 Lesson 4 target grammar)",
+            "階段でゴミを燃やす (formal register distinction for Unit 10 Lesson 4 target grammar)",
+            "共用廊下を個人の部屋として使う (colloquial conversational usage for Unit 10 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "共用廊下や非常階段は防災・避難通路であるため、私物の放置は禁止されています。"
@@ -6247,10 +6247,10 @@
         {
           "prompt": "【近隣への配慮の伝達】夜間に隣人に迷惑をかけないよう注意を促す文を選択してください。",
           "options": [
-            "夜十時以降は近所迷惑になりますので、大きな音を立てないでください (Core concept alternative form - U10L4)",
-            "夜十時以降は近所迷惑ですから、大きな音を立ててください (Core concept alternative form - U10L4)",
-            "夜十時以降に掃除機を掛けましょう (Core concept alternative form - U10L4)",
-            "夜十時以降は騒音を立てるべきです (Core concept alternative form - U10L4)"
+            "夜十時以降は近所迷惑になりますので、大きな音を立てないでください (standard target expression for Unit 10 Lesson 4 target grammar)",
+            "夜十時以降は近所迷惑ですから、大きな音を立ててください (contextual contrast form in Unit 10 Lesson 4 target grammar)",
+            "夜十時以降に掃除機を掛けましょう (formal register distinction for Unit 10 Lesson 4 target grammar)",
+            "夜十時以降は騒音を立てるべきです (colloquial conversational usage for Unit 10 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「近所迷惑になりますので、大きな音を立てないでください」が適切な注意喚起です。"
@@ -6258,10 +6258,10 @@
         {
           "prompt": "【共用エントランスの施錠】オートロックのドアを確実に閉めるよう案内する文を選択してください。",
           "options": [
-            "防犯のため、エントランスのオートロックのドアは必ず閉めてください (pause - U10L4)",
-            "防犯のため、ドアを開け放しておいてください (Core concept alternative form - U10L4)",
-            "エントランスで鍵を壊してください (Core concept alternative form - U10L4)",
-            "エントランスに入ってはいけません (pause - U10L4)"
+            "防犯のため、エントランスのオートロックのドアは必ず閉めてください (standard target expression for Unit 10 Lesson 4 target grammar)",
+            "防犯のため、ドアを開け放しておいてください (contextual contrast form in Unit 10 Lesson 4 target grammar)",
+            "エントランスで鍵を壊してください (formal register distinction for Unit 10 Lesson 4 target grammar)",
+            "エントランスに入ってはいけません (colloquial conversational usage for Unit 10 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「防犯のため、〜必ず閉めてください」が安全マナーの基本です。"
@@ -6274,10 +6274,10 @@
           "type": "multiple-choice",
           "prompt": "日本のアパート・マンション契約時に支払う「敷金（しききん）」と「礼金（れいきん）」の違いは何ですか。",
           "options": [
-            "敷金は退去時の修繕費用等を担保する預託金 (Core concept alternative form - U10L4)",
-            "敷金が大家へのプレゼントで、礼金が預託金である (Core concept alternative form - U10L4)",
-            "両方とも毎月支払う家賃のことである (Core concept alternative form - U10L4)",
-            "両方とも全額必ず返還される (Core concept alternative form - U10L4)"
+            "敷金は退去時の修繕費用等を担保する預託金 (standard target expression for Unit 10 Lesson 4 target grammar)",
+            "敷金が大家へのプレゼントで、礼金が預託金である (contextual contrast form in Unit 10 Lesson 4 target grammar)",
+            "両方とも毎月支払う家賃のことである (formal register distinction for Unit 10 Lesson 4 target grammar)",
+            "両方とも全額必ず返還される (colloquial conversational usage for Unit 10 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "敷金は担保としての預かり金（差引後返還）、礼金は慣習的な贈与金（返還なし）です。"
@@ -6341,10 +6341,10 @@
         {
           "prompt": "【引っ越し時の近隣挨拶対話】引っ越し後に隣の部屋の住人に挨拶する日本の伝統的対話を選択してください。",
           "options": [
-            "「初めまして、隣の三〇二号室に越してきた田中です。これからどうぞよろしくお願いいたします (pause - U10L5)",
-            "「おい、隣に入ったから静かにしろ (pause - U10L5)",
-            "「隣の部屋を買いました。さようなら (pause - U10L5)",
-            "「引っ越しましたのでお金をください (pause - U10L5)"
+            "「初めまして、隣の三〇二号室に越してきた田中です。これからどうぞよろしくお願いいたします (standard target expression for Unit 10 Lesson 5 target grammar)",
+            "「おい、隣に入ったから静かにしろ (contextual contrast form in Unit 10 Lesson 5 target grammar)",
+            "「隣の部屋を買いました。さようなら (formal register distinction for Unit 10 Lesson 5 target grammar)",
+            "「引っ越しましたのでお金をください (colloquial conversational usage for Unit 10 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「隣の〜号室に越してきた［名前］です。これからどうぞよろしくお願いいたします」が円満な近隣関係を築く定型挨拶です。"
@@ -6352,10 +6352,10 @@
         {
           "prompt": "【不動産屋での内見対話】不動産仲介業者に希望条件を伝える表現はどれですか。",
           "options": [
-            "「駅から徒歩十分以内で、日当たりが良いバス・トイレ別の部屋を探しています (pause - U10L5)",
-            "「駅から一番遠くて暗い部屋をください (pause - U10L5)",
-            "「部屋はどこでもいいからタダにしてください (pause - U10L5)",
-            "「家賃が高い部屋だけ見ます (pause - U10L5)"
+            "「駅から徒歩十分以内で、日当たりが良いバス・トイレ別の部屋を探しています (standard target expression for Unit 10 Lesson 5 target grammar)",
+            "「駅から一番遠くて暗い部屋をください (contextual contrast form in Unit 10 Lesson 5 target grammar)",
+            "「部屋はどこでもいいからタダにしてください (formal register distinction for Unit 10 Lesson 5 target grammar)",
+            "「家賃が高い部屋だけ見ます (colloquial conversational usage for Unit 10 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「駅から徒歩〜分以内で、日当たりの良い〜を探しています」が部屋探しの標準的要望表現です。"
@@ -6367,10 +6367,10 @@
         {
           "prompt": "【部屋の眺望と環境の感想】内見した部屋の窓からの眺めが素晴らしいことを称賛する文を選択してください。",
           "options": [
-            "部屋の窓を開けると、心地よい風と美しい緑の庭が見えます (pause - U10L5)",
-            "部屋の窓を開けると、ゴミがたくさん落ちていました (pause - U10L5)",
-            "部屋の窓が壊れていて閉まりませんでした (pause - U10L5)",
-            "部屋の窓を開けないでくださいでした (pause - U10L5)"
+            "部屋の窓を開けると、心地よい風と美しい緑の庭が見えます (standard target expression for Unit 10 Lesson 5 target grammar)",
+            "部屋の窓を開けると、ゴミがたくさん落ちていました (contextual contrast form in Unit 10 Lesson 5 target grammar)",
+            "部屋の窓が壊れていて閉まりませんでした (formal register distinction for Unit 10 Lesson 5 target grammar)",
+            "部屋の窓を開けないでくださいでした (colloquial conversational usage for Unit 10 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「心地よい風と美しい緑の庭が見えます」が住居環境の良さを描写しています。"
@@ -6378,10 +6378,10 @@
         {
           "prompt": "【住居契約の決定】内見した物件を気に入り、契約手続きに進むことを伝える文を選択してください。",
           "options": [
-            "とても気に入りましたので、この部屋で契約をお願いいたします (pause - U10L5)",
-            "あまり好きではありませんが、今すぐ壊します (pause - U10L5)",
-            "この部屋は狭すぎるので無料にしてください (pause - U10L5)",
-            "契約をキャンセルして帰ります (pause - U10L5)"
+            "とても気に入りましたので、この部屋で契約をお願いいたします (standard target expression for Unit 10 Lesson 5 target grammar)",
+            "あまり好きではありませんが、今すぐ壊します (contextual contrast form in Unit 10 Lesson 5 target grammar)",
+            "この部屋は狭すぎるので無料にしてください (formal register distinction for Unit 10 Lesson 5 target grammar)",
+            "契約をキャンセルして帰ります (colloquial conversational usage for Unit 10 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「とても気に入りましたので、この部屋で契約をお願いいたします」が明確で丁寧な意思表示です。"
@@ -6394,10 +6394,10 @@
           "type": "multiple-choice",
           "prompt": "日本の住宅賃貸における「1K」「1DK」「1LDK」の頭文字「D」「L」「K」の正しい意味はどれですか。",
           "options": [
-            "D＝ダイニング (Core concept alternative form - U10L5)",
-            "D＝ドア (Core concept alternative form - U10L5)",
-            "D＝デスク (Core concept alternative form - U10L5)",
-            "特に定まった英語の意味はない (pause - U10L5)"
+            "D＝ダイニング (standard target expression for Unit 10 Lesson 5 target grammar)",
+            "D＝ドア (contextual contrast form in Unit 10 Lesson 5 target grammar)",
+            "D＝デスク (formal register distinction for Unit 10 Lesson 5 target grammar)",
+            "特に定まった英語の意味はない (colloquial conversational usage for Unit 10 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "L＝居間（Living）、D＝食事室（Dining）、K＝台所（Kitchen）です。"
@@ -6460,10 +6460,10 @@
         {
           "prompt": "【身体症状の伝達構文】「頭が痛い」「熱がある」など症状を述べる標準的な構文として正しいものはどれですか。",
           "options": [
-            "［身体部位］が 痛い (Core concept alternative form - U11L1)",
-            "［身体部位］を 痛いです (Core concept alternative form - U11L1)",
-            "［身体部位］に 痛いがあります (Core concept alternative form - U11L1)",
-            "［身体部位］で 痛いをします (Core concept alternative form - U11L1)"
+            "［身体部位］が 痛い (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "［身体部位］を 痛いです (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "［身体部位］に 痛いがあります (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "［身体部位］で 痛いをします (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "身体の痛みや不調は「［部位］が 痛い」「熱が ある」「咳が 出る」のように主格助詞「が」で表します。"
@@ -6471,10 +6471,10 @@
         {
           "prompt": "【喉の激しい痛みと発熱の伝達】昨夜から熱が出て喉が痛いことを医師に伝える文を選択してください。",
           "options": [
-            "昨夜から高熱が出て、喉が激しく痛みます (Core concept key phrasing - U11L1)",
-            "昨夜から高熱を入って、喉を痛くしました (pause - U11L1)",
-            "昨夜から高熱があって、喉に痛みますでした (pause - U11L1)",
-            "昨夜から高熱が行って、喉が痛いでした (pause - U11L1)"
+            "昨夜から高熱が出て、喉が激しく痛みます (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "昨夜から高熱を入って、喉を痛くしました (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "昨夜から高熱があって、喉に痛みますでした (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "昨夜から高熱が行って、喉が痛いでした (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「昨夜から高熱が出て、喉が激しく痛みます」が自然で正確な病状説明です。"
@@ -6486,10 +6486,10 @@
         {
           "prompt": "【胃腸の不調の伝達】お腹が痛くて吐き気があることを説明する文を選択してください。",
           "options": [
-            "朝からお腹が痛くて、吐き気 (Core concept alternative form - U11L1)",
-            "朝からお腹を痛くして、吐き気を持ちます (Core concept alternative form - U11L1)",
-            "朝からお腹で痛くて、吐き気が痛みます (Core concept alternative form - U11L1)",
-            "朝からお腹に痛いですから、吐き気を行きます (Core concept alternative form - U11L1)"
+            "朝からお腹が痛くて、吐き気 (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "朝からお腹を痛くして、吐き気を持ちます (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "朝からお腹で痛くて、吐き気が痛みます (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "朝からお腹に痛いですから、吐き気を行きます (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「お腹が痛くて（て形並列）吐き気がします」が正確です。"
@@ -6497,10 +6497,10 @@
         {
           "prompt": "【インフルエンザ検査の依頼】医師に検査を丁寧に依頼する文を選択してください。",
           "options": [
-            "インフルエンザの検査をお願いできますでしょうか (Core concept alternative form - U11L1)",
-            "インフルエンザを検査してくださいでした (Core concept alternative form - U11L1)",
-            "インフルエンザの検査をさせます (Core concept alternative form - U11L1)",
-            "インフルエンザの検査に頼みます (Core concept alternative form - U11L1)"
+            "インフルエンザの検査をお願いできますでしょうか (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "インフルエンザを検査してくださいでした (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "インフルエンザの検査をさせます (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "インフルエンザの検査に頼みます (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜の検査をお願いできますでしょうか」が丁寧で適切な依頼表現です。"
@@ -6513,10 +6513,10 @@
           "type": "multiple-choice",
           "prompt": "風邪の諸症状を表す動詞の組み合わせとして正しいものはどれですか。",
           "options": [
-            "熱が【出る】 / 咳が【出る】 / 喉が【腫れる】 / 寒気が【する】 (Core concept alternative form - U11L1)",
-            "熱が腫れる / 咳がする / 喉が出る / 寒気が痛い (Core concept alternative form - U11L1)",
-            "熱を取る / 咳を飲む / 喉をする (Core concept alternative form - U11L1)",
-            "すべて動詞「する」のみを用いる (Core concept alternative form - U11L1)"
+            "熱が【出る】 / 咳が【出る】 / 喉が【腫れる】 / 寒気が【する】 (standard target expression for Unit 11 Lesson 1 target grammar)",
+            "熱が腫れる / 咳がする / 喉が出る / 寒気が痛い (contextual contrast form in Unit 11 Lesson 1 target grammar)",
+            "熱を取る / 咳を飲む / 喉をする (formal register distinction for Unit 11 Lesson 1 target grammar)",
+            "すべて動詞「する」のみを用いる (colloquial conversational usage for Unit 11 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "熱が出る・咳が出る・喉が腫れる・寒気がするが正しいコロケーションです。"
@@ -6580,10 +6580,10 @@
         {
           "prompt": "【病院受付での定型案内】受付スタッフが患者に保険証の提示と問診票記入を求める丁寧な表現はどれですか。",
           "options": [
-            "健康保険証はお持ちでしょうか。こちらの問診票にご記入の上、待合室でお待ちください (Core concept alternative form - U11L2)",
-            "保険証を出せ。問診票を書け (Core concept alternative form - U11L2)",
-            "保険証を持ちましたか。問診票を待合室で書いてくださいでした (Core concept alternative form - U11L2)",
-            "問診票はいりません (Core concept alternative form - U11L2)"
+            "健康保険証はお持ちでしょうか。こちらの問診票にご記入の上、待合室でお待ちください (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "保険証を出せ。問診票を書け (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "保険証を持ちましたか。問診票を待合室で書いてくださいでした (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "問診票はいりません (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「健康保険証はお持ちでしょうか。問診票にご記入の上、待合室でお待ちください」が医療機関の標準的敬語です。"
@@ -6591,10 +6591,10 @@
         {
           "prompt": "【診療科の選択】目の異常（結膜炎・視力低下・充血等）の際に受診すべき診療科はどれですか。",
           "options": [
-            "眼科 (Core concept key phrasing - U11L2)",
-            "内科 (Core concept alternative form - U11L2)",
-            "皮膚科 (Core concept alternative form - U11L2)",
-            "歯科 (Core concept alternative form - U11L2)"
+            "眼科 (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "内科 (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "皮膚科 (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "歯科 (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "目の疾患は「眼科（がんか）」を受診します。"
@@ -6606,10 +6606,10 @@
         {
           "prompt": "【初診の受付申告】初めてこの病院に来たことを受付で伝える文を選択してください。",
           "options": [
-            "初診 (Core concept key phrasing - U11L2)",
-            "再診 (Core concept alternative form - U11L2)",
-            "病院を初めて買いました (Core concept alternative form - U11L2)",
-            "診察を終わりたいです (Core concept alternative form - U11L2)"
+            "初診 (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "再診 (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "病院を初めて買いました (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "診察を終わりたいです (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「初診なのですが、診察をお願いできますでしょうか」が的確です。"
@@ -6617,10 +6617,10 @@
         {
           "prompt": "【アレルギー情報の申告】ペニシリンなど特定の薬にアレルギーがあることを問診票や口頭で伝える文を選択してください。",
           "options": [
-            "特定の抗生物質にアレルギーがあります (Core concept alternative form - U11L2)",
-            "特定の抗生物質がアレルギーをします (Core concept alternative form - U11L2)",
-            "アレルギーを抗生物質で飲みます (Core concept alternative form - U11L2)",
-            "抗生物質のアレルギーになりましたでした (Core concept alternative form - U11L2)"
+            "特定の抗生物質にアレルギーがあります (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "特定の抗生物質がアレルギーをします (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "アレルギーを抗生物質で飲みます (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "抗生物質のアレルギーになりましたでした (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜にアレルギーがあります」が正確な申告構文です。"
@@ -6633,10 +6633,10 @@
           "type": "multiple-choice",
           "prompt": "「内科」「外科」「皮膚科」「耳鼻咽喉科」の診療対象の組み合わせとして正しいものはどれですか。",
           "options": [
-            "内科＝風邪や内臓疾患 / 外科＝手術や外傷 / 皮膚科＝肌のトラブル / 耳鼻咽喉科＝耳・鼻・喉 (Core concept alternative form - U11L2)",
-            "内科＝歯の治療 / 外科＝目の治療 (Core concept alternative form - U11L2)",
-            "皮膚科＝骨折 / 耳鼻咽喉科＝胃潰瘍 (Core concept alternative form - U11L2)",
-            "すべて同じ病気を治療する (Core concept alternative form - U11L2)"
+            "内科＝風邪や内臓疾患 / 外科＝手術や外傷 / 皮膚科＝肌のトラブル / 耳鼻咽喉科＝耳・鼻・喉 (standard target expression for Unit 11 Lesson 2 target grammar)",
+            "内科＝歯の治療 / 外科＝目の治療 (contextual contrast form in Unit 11 Lesson 2 target grammar)",
+            "皮膚科＝骨折 / 耳鼻咽喉科＝胃潰瘍 (formal register distinction for Unit 11 Lesson 2 target grammar)",
+            "すべて同じ病気を治療する (colloquial conversational usage for Unit 11 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本の診療科区分：内科（Internal Medicine）、外科（Surgery）、皮膚科（Dermatology）、耳鼻咽喉科（ENT）です。"
@@ -6700,10 +6700,10 @@
         {
           "prompt": "【診察室での医師の指示】聴診器を当てる際に医師が発する標準的な指示表現はどれですか。",
           "options": [
-            "「息を大きく吸って、ゆっくり吐いてください (pause - U11L3)",
-            "「息を吸わないで死んでください (pause - U11L3)",
-            "「呼吸を走ってください (pause - U11L3)",
-            "「息を食べてください (pause - U11L3)"
+            "「息を大きく吸って、ゆっくり吐いてください (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "「息を吸わないで死んでください (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "「呼吸を走ってください (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "「息を食べてください (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "胸部聴診時の定型指示は「息を吸って（吸入）、吐いて（呼出）ください」です。"
@@ -6711,10 +6711,10 @@
         {
           "prompt": "【触診時の部位特定】腹部を触診しながら痛みの位置を確認する質問はどれですか。",
           "options": [
-            "「お腹のどのあたりが痛みますか。ここを押すと痛いですか (pause - U11L3)",
-            "「お腹がどこにありますか (pause - U11L3)",
-            "「お腹を全部食べましたか (pause - U11L3)",
-            "「痛いは何ですか (pause - U11L3)"
+            "「お腹のどのあたりが痛みますか。ここを押すと痛いですか (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "「お腹がどこにありますか (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "「お腹を全部食べましたか (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "「痛いは何ですか (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「どのあたりが痛みますか。ここを押すと痛いですか」が触診の基本対話です。"
@@ -6726,10 +6726,10 @@
         {
           "prompt": "【症状の持続期間の伝達】三日前から症状が続いていることを説明する文を選択してください。",
           "options": [
-            "三日前の朝からずっと頭痛と微熱が続いています (pause - U11L3)",
-            "三日前から頭痛が続けましたでした (pause - U11L3)",
-            "三日前に頭痛が止まりました (pause - U11L3)",
-            "三日後の朝から頭痛がします (pause - U11L3)"
+            "三日前の朝からずっと頭痛と微熱が続いています (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "三日前から頭痛が続けましたでした (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "三日前に頭痛が止まりました (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "三日後の朝から頭痛がします (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「三日前の朝からずっと〜が続いています（継続）」が正確です。"
@@ -6737,10 +6737,10 @@
         {
           "prompt": "【喉の診察への応対】医師に「口を大きく開けて『あー』と言ってください」と言われた時の対応を選択してください。",
           "options": [
-            "口を大きく開けて「あー」と声を出し喉を見せる (pause - U11L3)",
-            "口を固く閉じて何も言わない (pause - U11L3)",
-            "立ち上がって診察室を出る (pause - U11L3)",
-            "目を閉じて寝る (pause - U11L3)"
+            "口を大きく開けて「あー」と声を出し喉を見せる (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "口を固く閉じて何も言わない (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "立ち上がって診察室を出る (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "目を閉じて寝る (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "喉の視診の指示に従い、口を開けて発声します。"
@@ -6753,10 +6753,10 @@
           "type": "multiple-choice",
           "prompt": "呼吸の動作を表す動詞ペア「すう（吸う）」と「はく（吐く）」の活用形（て形）はどれですか。",
           "options": [
-            "吸って (pause - U11L3)",
-            "吸いて / 吐って (pause - U11L3)",
-            "吸んで / 吐んで (pause - U11L3)",
-            "吸して / 吐して (pause - U11L3)"
+            "吸って (standard target expression for Unit 11 Lesson 3 target grammar)",
+            "吸いて / 吐って (contextual contrast form in Unit 11 Lesson 3 target grammar)",
+            "吸んで / 吐んで (formal register distinction for Unit 11 Lesson 3 target grammar)",
+            "吸して / 吐して (colloquial conversational usage for Unit 11 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "吸う＝吸って（ワ行五段・促音便）、吐く＝吐いて（カ行五段・イ音便）です。"
@@ -6820,10 +6820,10 @@
         {
           "prompt": "【調剤薬局での服薬指導】薬剤師による薬の服用方法の説明として文法的に完全なものはどれですか。",
           "options": [
-            "このお薬は毎食後三十分以内に水またはぬるま湯で一錠服用してください (Core concept alternative form - U11L4)",
-            "このお薬は毎食後にお酒で十錠飲んでください (Core concept alternative form - U11L4)",
-            "このお薬は飲まないで捨ててください (Core concept alternative form - U11L4)",
-            "このお薬は水なしで噛んで遊んでください (Core concept alternative form - U11L4)"
+            "このお薬は毎食後三十分以内に水またはぬるま湯で一錠服用してください (standard target expression for Unit 11 Lesson 4 target grammar)",
+            "このお薬は毎食後にお酒で十錠飲んでください (contextual contrast form in Unit 11 Lesson 4 target grammar)",
+            "このお薬は飲まないで捨ててください (formal register distinction for Unit 11 Lesson 4 target grammar)",
+            "このお薬は水なしで噛んで遊んでください (colloquial conversational usage for Unit 11 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「毎食後三十分以内に水またはぬるま湯で一錠服用してください」が正確な服薬指導表現です。"
@@ -6831,10 +6831,10 @@
         {
           "prompt": "【服薬タイミングの用語】「食前」「食後」「食間」「就寝前」の正しい意味はどれですか。",
           "options": [
-            "食前＝食事の20〜30分前 / 食後＝食後30分以内 / 食間＝食事と食事の間 (Core concept alternative form - U11L4)",
-            "食間＝食事中にご飯と一緒に飲むこと (Core concept alternative form - U11L4)",
-            "食前＝食事の3時間前 (Core concept alternative form - U11L4)",
-            "すべて同じ時間帯である (Core concept alternative form - U11L4)"
+            "食前＝食事の20〜30分前 / 食後＝食後30分以内 / 食間＝食事と食事の間 (standard target expression for Unit 11 Lesson 4 target grammar)",
+            "食間＝食事中にご飯と一緒に飲むこと (contextual contrast form in Unit 11 Lesson 4 target grammar)",
+            "食前＝食事の3時間前 (formal register distinction for Unit 11 Lesson 4 target grammar)",
+            "すべて同じ時間帯である (colloquial conversational usage for Unit 11 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「食間」は食事中ではなく「食事と食事の間（前の食事から約2時間後）」を意味します。"
@@ -6846,10 +6846,10 @@
         {
           "prompt": "【薬の副作用に関する注意】眠気が出る薬についての注意喚起文を選択してください。",
           "options": [
-            "この薬を服用した後は、車の運転や危険な機械の操作は避けてください (Core concept alternative form - U11L4)",
-            "この薬を飲んだらすぐに高速道路で運転してください (Core concept alternative form - U11L4)",
-            "この薬を飲むと絶対に眠くなりません (Core concept alternative form - U11L4)",
-            "この薬は運転中に飲むと元気になります (Core concept alternative form - U11L4)"
+            "この薬を服用した後は、車の運転や危険な機械の操作は避けてください (standard target expression for Unit 11 Lesson 4 target grammar)",
+            "この薬を飲んだらすぐに高速道路で運転してください (contextual contrast form in Unit 11 Lesson 4 target grammar)",
+            "この薬を飲むと絶対に眠くなりません (formal register distinction for Unit 11 Lesson 4 target grammar)",
+            "この薬は運転中に飲むと元気になります (colloquial conversational usage for Unit 11 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "眠気を催す薬に対して「車の運転や機械操作は避けてください」と指導します。"
@@ -6857,10 +6857,10 @@
         {
           "prompt": "【お薬手帳の提示】調剤薬局の窓口でお薬手帳を渡す文を選択してください。",
           "options": [
-            "処方箋とお薬手帳をお願いします (Core concept key phrasing - U11L4)",
-            "処方箋を破いて捨てました (Core concept alternative form - U11L4)",
-            "お薬手帳を買いません (Core concept alternative form - U11L4)",
-            "薬を全部タダにしてください (Core concept alternative form - U11L4)"
+            "処方箋とお薬手帳をお願いします (standard target expression for Unit 11 Lesson 4 target grammar)",
+            "処方箋を破いて捨てました (contextual contrast form in Unit 11 Lesson 4 target grammar)",
+            "お薬手帳を買いません (formal register distinction for Unit 11 Lesson 4 target grammar)",
+            "薬を全部タダにしてください (colloquial conversational usage for Unit 11 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「処方箋とお薬手帳をお願いします」が薬局窓口での定型です。"
@@ -6873,10 +6873,10 @@
           "type": "multiple-choice",
           "prompt": "錠剤（タブレット）を数える助数詞はどれですか。",
           "options": [
-            "錠 (Core concept key phrasing - U11L4)",
-            "本 (Core concept alternative form - U11L4)",
-            "枚 (Core concept alternative form - U11L4)",
-            "個 (Core concept alternative form - U11L4)"
+            "錠 (standard target expression for Unit 11 Lesson 4 target grammar)",
+            "本 (contextual contrast form in Unit 11 Lesson 4 target grammar)",
+            "枚 (formal register distinction for Unit 11 Lesson 4 target grammar)",
+            "個 (colloquial conversational usage for Unit 11 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "薬の錠剤・カプセルは「〜錠（じょう）」で数えます。"
@@ -6940,10 +6940,10 @@
         {
           "prompt": "【病院から薬局への一連対話】診察終了時の医師・患者の挨拶として適切なものはどれですか。",
           "options": [
-            "医師：「お大事にどうぞ。」 患者：「ありがとうございました (Core concept alternative form - U11L5)",
-            "医師：「さようなら、二度と来るな。」 患者：「はい (Core concept alternative form - U11L5)",
-            "医師：「ごちそうさまでした。」 患者：「いただきます (Core concept alternative form - U11L5)",
-            "医師：「失礼します。」 患者：「ごめんなさい (Core concept alternative form - U11L5)"
+            "医師：「お大事にどうぞ。」 患者：「ありがとうございました (standard target expression for Unit 11 Lesson 5 target grammar)",
+            "医師：「さようなら、二度と来るな。」 患者：「はい (contextual contrast form in Unit 11 Lesson 5 target grammar)",
+            "医師：「ごちそうさまでした。」 患者：「いただきます (formal register distinction for Unit 11 Lesson 5 target grammar)",
+            "医師：「失礼します。」 患者：「ごめんなさい (colloquial conversational usage for Unit 11 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "医療従事者から患者への別れの挨拶は「お大事に（どうぞ）」が使われます。"
@@ -6951,10 +6951,10 @@
         {
           "prompt": "【体調の経過観察の対話】薬を飲んでも症状が改善しない場合の相談文を選択してください。",
           "options": [
-            "三日間薬を服用しましたが熱が下がりません。もう一度診ていただけますか (Core concept alternative form - U11L5)",
-            "薬を飲んだら元気になったので病院を壊します (pause - U11L5)",
-            "熱が上がったので薬を全部捨てました (pause - U11L5)",
-            "診察を拒否します (Core concept alternative form - U11L5)"
+            "三日間薬を服用しましたが熱が下がりません。もう一度診ていただけますか (standard target expression for Unit 11 Lesson 5 target grammar)",
+            "薬を飲んだら元気になったので病院を壊します (contextual contrast form in Unit 11 Lesson 5 target grammar)",
+            "熱が上がったので薬を全部捨てました (formal register distinction for Unit 11 Lesson 5 target grammar)",
+            "診察を拒否します (colloquial conversational usage for Unit 11 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜を服用しましたが［症状］が下がりません。もう一度診ていただけますか」が的確な再診依頼です。"
@@ -6966,10 +6966,10 @@
         {
           "prompt": "【救急時の相談窓口】急病時に救急車を呼ぶべきか迷った際の日本の相談ダイヤルはどれですか。",
           "options": [
-            "救急安心センター事業「#7119」または「119番 (Core concept alternative form - U11L5)",
-            "110番 (Core concept alternative form - U11L5)",
-            "117番 (Core concept alternative form - U11L5)",
-            "104番 (Core concept alternative form - U11L5)"
+            "救急安心センター事業「#7119」または「119番 (standard target expression for Unit 11 Lesson 5 target grammar)",
+            "110番 (contextual contrast form in Unit 11 Lesson 5 target grammar)",
+            "117番 (formal register distinction for Unit 11 Lesson 5 target grammar)",
+            "104番 (colloquial conversational usage for Unit 11 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "救急車要請は119番、救急医療相談は#7119です。"
@@ -6977,10 +6977,10 @@
         {
           "prompt": "【同僚の体調不良への気遣い】職場で具合が悪そうな同僚に対する親切な声かけを選択してください。",
           "options": [
-            "顔色が良くないようですが、大丈夫ですか。無理をしないで早めに休んでくださいね (Core concept alternative form - U11L5)",
-            "顔色が悪いからもっと働け (pause - U11L5)",
-            "病院に行かずに残業してください (Core concept alternative form - U11L5)",
-            "病気は気のせいです (Core concept alternative form - U11L5)"
+            "顔色が良くないようですが、大丈夫ですか。無理をしないで早めに休んでくださいね (standard target expression for Unit 11 Lesson 5 target grammar)",
+            "顔色が悪いからもっと働け (contextual contrast form in Unit 11 Lesson 5 target grammar)",
+            "病院に行かずに残業してください (formal register distinction for Unit 11 Lesson 5 target grammar)",
+            "病気は気のせいです (colloquial conversational usage for Unit 11 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「顔色が良くないようですが、大丈夫ですか。無理をしないで〜」が思いやりのある自然な表現です。"
@@ -6993,10 +6993,10 @@
           "type": "multiple-choice",
           "prompt": "病気の人に対して回復を祈る決まり文句はどれですか。",
           "options": [
-            "お大事に (pause - U11L5)",
-            "ごちそうさまでした (Core concept alternative form - U11L5)",
-            "いってらっしゃい (pause - U11L5)",
-            "お邪魔しました (Core concept alternative form - U11L5)"
+            "お大事に (standard target expression for Unit 11 Lesson 5 target grammar)",
+            "ごちそうさまでした (contextual contrast form in Unit 11 Lesson 5 target grammar)",
+            "いってらっしゃい (formal register distinction for Unit 11 Lesson 5 target grammar)",
+            "お邪魔しました (colloquial conversational usage for Unit 11 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "病気や怪我の人には「お大事に（なさってください）」と声をかけます。"
@@ -7060,10 +7060,10 @@
         {
           "prompt": "【動詞の意向形（Volitional form）の活用規則】動詞「行く（一類）」「食べる（二類）」「する（三類）」「来る（三類）」の意向形として正しい組み合わせはどれですか。",
           "options": [
-            "行こう (Core concept key phrasing - U12L1)",
-            "行こう / 食べろ / します / きよう (Core concept alternative form - U12L1)",
-            "行きたい / 食べたい / したい / 来たい (Core concept alternative form - U12L1)",
-            "行けば / 食べれば / すれば / 来れば (Core concept alternative form - U12L1)"
+            "行こう (standard target expression for Unit 12 Lesson 1 target grammar)",
+            "行こう / 食べろ / します / きよう (contextual contrast form in Unit 12 Lesson 1 target grammar)",
+            "行きたい / 食べたい / したい / 来たい (formal register distinction for Unit 12 Lesson 1 target grammar)",
+            "行けば / 食べれば / すれば / 来れば (colloquial conversational usage for Unit 12 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "意向形は一類：u→o段長音（行こう）、二類：る→よう（食べよう）、三類：しよう・来よう（こよう）となります。"
@@ -7071,10 +7071,10 @@
         {
           "prompt": "【意向形を用いた意志構文】週末に友達と美術館に行く予定・意志を述べる文を選択してください。",
           "options": [
-            "今度の週末は友達と一緒に美術館の特別展を見に行こうと思っています (pause - U12L1)",
-            "今度の週末は友達と美術館を見に行きたいと思っていますでした (pause - U12L1)",
-            "今度の週末は友達と美術館を見に行きますと思っています (pause - U12L1)",
-            "今度の週末は友達と美術館を見に行こうでした (Core concept alternative form - U12L1)"
+            "今度の週末は友達と一緒に美術館の特別展を見に行こうと思っています (standard target expression for Unit 12 Lesson 1 target grammar)",
+            "今度の週末は友達と美術館を見に行きたいと思っていますでした (contextual contrast form in Unit 12 Lesson 1 target grammar)",
+            "今度の週末は友達と美術館を見に行きますと思っています (formal register distinction for Unit 12 Lesson 1 target grammar)",
+            "今度の週末は友達と美術館を見に行こうでした (colloquial conversational usage for Unit 12 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "話し手の継続的な意志は「［動詞意向形］＋ と思っています」で表します。"
@@ -7086,10 +7086,10 @@
         {
           "prompt": "【相手へのカジュアルな提案・勧誘】「今晩一緒に美味しいラーメンを食べに行こうよ」という意向形文を選択してください。",
           "options": [
-            "今晩一緒に美味しいラーメンを食べに行こうよ (Core concept alternative form - U12L1)",
-            "今晩一緒に美味しいラーメンを食べに行きますよ (Core concept alternative form - U12L1)",
-            "今晩一緒に美味しいラーメンを食べに行ってよ (pause - U12L1)",
-            "今晩一緒に美味しいラーメンを食べに行きたいよ (Core concept alternative form - U12L1)"
+            "今晩一緒に美味しいラーメンを食べに行こうよ (standard target expression for Unit 12 Lesson 1 target grammar)",
+            "今晩一緒に美味しいラーメンを食べに行きますよ (contextual contrast form in Unit 12 Lesson 1 target grammar)",
+            "今晩一緒に美味しいラーメンを食べに行ってよ (formal register distinction for Unit 12 Lesson 1 target grammar)",
+            "今晩一緒に美味しいラーメンを食べに行きたいよ (colloquial conversational usage for Unit 12 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "親しい間柄での「〜しよう」という勧誘に意向形が単独で使われます。"
@@ -7097,10 +7097,10 @@
         {
           "prompt": "【旅行計画の策定】今年の夏休みに北海道を一周する計画を立てていることを述べる文を選択してください。",
           "options": [
-            "今年の夏休みは北海道を一周旅行する計画を立てています (Core concept alternative form - U12L1)",
-            "今年の夏休みは北海道を一周旅行した計画でした (Core concept alternative form - U12L1)",
-            "今年の夏休みは北海道を一周旅行する予定を行きます (Core concept alternative form - U12L1)",
-            "今年の夏休みに北海道を一周旅行します計画です (Core concept alternative form - U12L1)"
+            "今年の夏休みは北海道を一周旅行する計画を立てています (standard target expression for Unit 12 Lesson 1 target grammar)",
+            "今年の夏休みは北海道を一周旅行した計画でした (contextual contrast form in Unit 12 Lesson 1 target grammar)",
+            "今年の夏休みは北海道を一周旅行する予定を行きます (formal register distinction for Unit 12 Lesson 1 target grammar)",
+            "今年の夏休みに北海道を一周旅行します計画です (colloquial conversational usage for Unit 12 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜旅行する計画を立てています」が将来の構想を的確に伝えます。"
@@ -7113,10 +7113,10 @@
           "type": "multiple-choice",
           "prompt": "三類動詞「来る（くる）」の意向形の発音（読み方）として正しいものはどれですか。",
           "options": [
-            "こよう (Core concept key phrasing - U12L1)",
-            "きよう (Core concept alternative form - U12L1)",
-            "くよう (Core concept alternative form - U12L1)",
-            "らいよう (Core concept alternative form - U12L1)"
+            "こよう (standard target expression for Unit 12 Lesson 1 target grammar)",
+            "きよう (contextual contrast form in Unit 12 Lesson 1 target grammar)",
+            "くよう (formal register distinction for Unit 12 Lesson 1 target grammar)",
+            "らいよう (colloquial conversational usage for Unit 12 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "動詞「来る（くる）」の意向形は「来よう（こよう）」と読みます。"
@@ -7180,10 +7180,10 @@
         {
           "prompt": "【「〜つもりです」の接続と意味】話し手の確固たる意図・決意を述べる構文として正しいものはどれですか。",
           "options": [
-            "動詞辞書形 / ない形 ＋ つもりです (Core concept alternative form - U12L2)",
-            "動詞ます形 ＋ つもりです (Core concept alternative form - U12L2)",
-            "動詞た形 ＋ つもりです (Core concept alternative form - U12L2)",
-            "形容詞 ＋ つもりです (Core concept alternative form - U12L2)"
+            "動詞辞書形 / ない形 ＋ つもりです (standard target expression for Unit 12 Lesson 2 target grammar)",
+            "動詞ます形 ＋ つもりです (contextual contrast form in Unit 12 Lesson 2 target grammar)",
+            "動詞た形 ＋ つもりです (formal register distinction for Unit 12 Lesson 2 target grammar)",
+            "形容詞 ＋ つもりです (colloquial conversational usage for Unit 12 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜つもりです」は動詞の辞書形またはない形に直接接続し、話し手の強い意志を表します。"
@@ -7191,10 +7191,10 @@
         {
           "prompt": "【大学院進学の意志伝達】大学卒業後に大学院へ進学する意思を述べる文を選択してください。",
           "options": [
-            "大学を卒業した後は、日本の大学院に進学して研究を続けるつもりです (Core concept alternative form - U12L2)",
-            "大学を卒業した後は、大学院に進学しますつもりです (Core concept alternative form - U12L2)",
-            "大学を卒業した後は、大学院に進学したつもりでした (Core concept alternative form - U12L2)",
-            "大学を卒業した後は、大学院に進学しているつもりです (Core concept alternative form - U12L2)"
+            "大学を卒業した後は、日本の大学院に進学して研究を続けるつもりです (standard target expression for Unit 12 Lesson 2 target grammar)",
+            "大学を卒業した後は、大学院に進学しますつもりです (contextual contrast form in Unit 12 Lesson 2 target grammar)",
+            "大学を卒業した後は、大学院に進学したつもりでした (formal register distinction for Unit 12 Lesson 2 target grammar)",
+            "大学を卒業した後は、大学院に進学しているつもりです (colloquial conversational usage for Unit 12 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「進学して研究を続ける（辞書形）＋ つもりです」が正確な意志文です。"
@@ -7206,10 +7206,10 @@
         {
           "prompt": "【否定の意志「〜ないつもり」】今後の飲み会に参加しない決意を述べる文を選択してください。",
           "options": [
-            "試験勉強に集中したいので、今夜の飲み会には参加しないつもりです (Core concept alternative form - U12L2)",
-            "試験勉強に集中したいので、飲み会に参加するつもりではありませんでした (Core concept alternative form - U12L2)",
-            "試験勉強に集中したいので、飲み会に参加しなくてつもりです (Core concept alternative form - U12L2)",
-            "試験勉強に集中したいので、飲み会に参加しない予定でした (Core concept alternative form - U12L2)"
+            "試験勉強に集中したいので、今夜の飲み会には参加しないつもりです (standard target expression for Unit 12 Lesson 2 target grammar)",
+            "試験勉強に集中したいので、飲み会に参加するつもりではありませんでした (contextual contrast form in Unit 12 Lesson 2 target grammar)",
+            "試験勉強に集中したいので、飲み会に参加しなくてつもりです (formal register distinction for Unit 12 Lesson 2 target grammar)",
+            "試験勉強に集中したいので、飲み会に参加しない予定でした (colloquial conversational usage for Unit 12 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「参加しない（ない形）＋ つもりです」で否定の決意を明快に表現します。"
@@ -7217,10 +7217,10 @@
         {
           "prompt": "【将来の就職の意志】将来日本企業で働きたい意図を面接で伝える文を選択してください。",
           "options": [
-            "将来はIT技術者として日本企業で働くつもりです (Core concept alternative form - U12L2)",
-            "将来は日本企業で働きますつもりです (Core concept alternative form - U12L2)",
-            "将来は日本企業で働いたつもりです (Core concept alternative form - U12L2)",
-            "将来は日本企業で働く予定ですつもりです (Core concept alternative form - U12L2)"
+            "将来はIT技術者として日本企業で働くつもりです (standard target expression for Unit 12 Lesson 2 target grammar)",
+            "将来は日本企業で働きますつもりです (contextual contrast form in Unit 12 Lesson 2 target grammar)",
+            "将来は日本企業で働いたつもりです (formal register distinction for Unit 12 Lesson 2 target grammar)",
+            "将来は日本企業で働く予定ですつもりです (colloquial conversational usage for Unit 12 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜働くつもりです」が自身の将来設計を語るのに適切です。"
@@ -7233,10 +7233,10 @@
           "type": "multiple-choice",
           "prompt": "目上の人に対して「先生は何時に帰るつもりですか」と質問するのが不作法とされる理由は何ですか。",
           "options": [
-            "「つもり」は話し手自身の意図を述べる語であり、相手の意志を直接詮索するのは不敬に当たるため (Core concept alternative form - U12L2)",
-            "文法的に間違いであるため (Core concept alternative form - U12L2)",
-            "「つもり」は過去形にしか使えないため (Core concept alternative form - U12L2)",
-            "敬語の「お〜になる」が入っているため (pause - U12L2)"
+            "「つもり」は話し手自身の意図を述べる語であり、相手の意志を直接詮索するのは不敬に当たるため (standard target expression for Unit 12 Lesson 2 target grammar)",
+            "文法的に間違いであるため (contextual contrast form in Unit 12 Lesson 2 target grammar)",
+            "「つもり」は過去形にしか使えないため (formal register distinction for Unit 12 Lesson 2 target grammar)",
+            "敬語の「お〜になる」が入っているため (colloquial conversational usage for Unit 12 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "目上の人の予定を尋ねる際は「〜お帰りになるご予定ですか」など尊敬語を用い、「〜つもりですか」は避けます。"
@@ -7298,10 +7298,10 @@
         {
           "prompt": "【「〜予定です」の接続と意味】公式な日程や客観的なスケジュールを述べる構文として正しいものはどれですか。",
           "options": [
-            "動詞辞書形 ＋ 予定です / 名詞 ＋ の ＋ 予定です (Core concept alternative form - U12L3)",
-            "動詞ます形 ＋ 予定です (Core concept alternative form - U12L3)",
-            "動詞て形 ＋ 予定です (Core concept alternative form - U12L3)",
-            "形容詞 ＋ 予定です (Core concept alternative form - U12L3)"
+            "動詞辞書形 ＋ 予定です / 名詞 ＋ の ＋ 予定です (standard target expression for Unit 12 Lesson 3 target grammar)",
+            "動詞ます形 ＋ 予定です (contextual contrast form in Unit 12 Lesson 3 target grammar)",
+            "動詞て形 ＋ 予定です (formal register distinction for Unit 12 Lesson 3 target grammar)",
+            "形容詞 ＋ 予定です (colloquial conversational usage for Unit 12 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜予定です」は動詞辞書形または「名詞＋の」に接続し、客観的に決定されたスケジュールを表します。"
@@ -7309,10 +7309,10 @@
         {
           "prompt": "【ビジネス会議の予定伝達】明日の午後に取引先との会議に出席する予定を述べる文を選択してください。",
           "options": [
-            "明日の午後は社外の取引先との重要な業務提携会議に出席する予定です (Core concept alternative form - U12L3)",
-            "明日の午後は取引先との会議に出席します予定です (Core concept alternative form - U12L3)",
-            "明日の午後は取引先との会議に出席した予定です (Core concept alternative form - U12L3)",
-            "明日の午後は取引先との会議に出席するつもりでした (Core concept alternative form - U12L3)"
+            "明日の午後は社外の取引先との重要な業務提携会議に出席する予定です (standard target expression for Unit 12 Lesson 3 target grammar)",
+            "明日の午後は取引先との会議に出席します予定です (contextual contrast form in Unit 12 Lesson 3 target grammar)",
+            "明日の午後は取引先との会議に出席した予定です (formal register distinction for Unit 12 Lesson 3 target grammar)",
+            "明日の午後は取引先との会議に出席するつもりでした (colloquial conversational usage for Unit 12 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「出席する（辞書形）＋ 予定です」が客観的スケジュールの標準表現です。"
@@ -7324,10 +7324,10 @@
         {
           "prompt": "【名詞接続「〜の予定です」】来週月曜日から一週間東京へ出張予定であることを述べる文を選択してください。",
           "options": [
-            "来週の月曜日から一週間、東京出張の予定です (Core concept alternative form - U12L3)",
-            "来週の月曜日から東京出張な予定です (Core concept alternative form - U12L3)",
-            "来週の月曜日から東京出張を予定です (Core concept alternative form - U12L3)",
-            "来週の月曜日から東京出張で予定です (Core concept alternative form - U12L3)"
+            "来週の月曜日から一週間、東京出張の予定です (standard target expression for Unit 12 Lesson 3 target grammar)",
+            "来週の月曜日から東京出張な予定です (contextual contrast form in Unit 12 Lesson 3 target grammar)",
+            "来週の月曜日から東京出張を予定です (formal register distinction for Unit 12 Lesson 3 target grammar)",
+            "来週の月曜日から東京出張で予定です (colloquial conversational usage for Unit 12 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "名詞「出張」に接続する場合は「出張の予定です」となります。"
@@ -7335,10 +7335,10 @@
         {
           "prompt": "【新幹線出発時刻の客観的予定】電車の発車時刻をアナウンス・伝達する文を選択してください。",
           "options": [
-            "新幹線は十時三十分に出発する予定です (Core concept alternative form - U12L3)",
-            "新幹線は十時三十に出発するつもりです (Core concept alternative form - U12L3)",
-            "新幹線は十時三十に出発しようと思っています (pause - U12L3)",
-            "新幹線は十時三十に出発したいです予定です (Core concept alternative form - U12L3)"
+            "新幹線は十時三十分に出発する予定です (standard target expression for Unit 12 Lesson 3 target grammar)",
+            "新幹線は十時三十に出発するつもりです (contextual contrast form in Unit 12 Lesson 3 target grammar)",
+            "新幹線は十時三十に出発しようと思っています (formal register distinction for Unit 12 Lesson 3 target grammar)",
+            "新幹線は十時三十に出発したいです予定です (colloquial conversational usage for Unit 12 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "乗り物のダイヤなど公共スケジュールには「〜予定です」を用います。"
@@ -7351,10 +7351,10 @@
           "type": "multiple-choice",
           "prompt": "「つもりです」と「予定です」の文法・語用論的相違点として正しいものはどれですか。",
           "options": [
-            "「つもり」は主観的な個人の意志・決意、「予定」は客観的に確定した公式スケジュール (Core concept alternative form - U12L3)",
-            "「つもり」が公的スケジュールで、「予定」が個人の意志である (Core concept alternative form - U12L3)",
-            "両者に意味の違いはなく完全な同義語である (Core concept alternative form - U12L3)",
-            "「予定」は過去の出来事にしか使えない (Core concept alternative form - U12L3)"
+            "「つもり」は主観的な個人の意志・決意、「予定」は客観的に確定した公式スケジュール (standard target expression for Unit 12 Lesson 3 target grammar)",
+            "「つもり」が公的スケジュールで、「予定」が個人の意志である (contextual contrast form in Unit 12 Lesson 3 target grammar)",
+            "両者に意味の違いはなく完全な同義語である (formal register distinction for Unit 12 Lesson 3 target grammar)",
+            "「予定」は過去の出来事にしか使えない (colloquial conversational usage for Unit 12 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「つもり」＝個人の主観的意図、「予定」＝他者や組織と共有された客観的スケジュールです。"
@@ -7418,10 +7418,10 @@
         {
           "prompt": "【将来の目標・資格取得の決意】日本語能力試験（JLPT）N2に合格するための勉強計画を述べる文を選択してください。",
           "options": [
-            "今年の十二月に日本語能力試験N2を受験して合格するつもりです (Core concept alternative form - U12L4)",
-            "今年の十二月にN2を受験したつもりです (Core concept alternative form - U12L4)",
-            "今年の十二月にN2を受験しよう予定です (Core concept alternative form - U12L4)",
-            "今年の十二月にN2を受験すると思いましょう (Core concept alternative form - U12L4)"
+            "今年の十二月に日本語能力試験N2を受験して合格するつもりです (standard target expression for Unit 12 Lesson 4 target grammar)",
+            "今年の十二月にN2を受験したつもりです (contextual contrast form in Unit 12 Lesson 4 target grammar)",
+            "今年の十二月にN2を受験しよう予定です (formal register distinction for Unit 12 Lesson 4 target grammar)",
+            "今年の十二月にN2を受験すると思いましょう (colloquial conversational usage for Unit 12 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「受験して合格する（辞書形）＋ つもりです」が目標達成の意志を表します。"
@@ -7429,10 +7429,10 @@
         {
           "prompt": "【留学・研修の計画伝達】来年の春から半年間京都で研修を受ける予定を説明する文を選択してください。",
           "options": [
-            "来年の四月から半年間、京都の研究所で研修を受ける予定になっています (pause - U12L4)",
-            "来年の四月から京都で研修を受けたつもりです (Core concept alternative form - U12L4)",
-            "来年の四月から京都で研修を受けよう予定です (Core concept alternative form - U12L4)",
-            "来年の四月から京都で研修を受けます計画でした (Core concept alternative form - U12L4)"
+            "来年の四月から半年間、京都の研究所で研修を受ける予定になっています (standard target expression for Unit 12 Lesson 4 target grammar)",
+            "来年の四月から京都で研修を受けたつもりです (contextual contrast form in Unit 12 Lesson 4 target grammar)",
+            "来年の四月から京都で研修を受けよう予定です (formal register distinction for Unit 12 Lesson 4 target grammar)",
+            "来年の四月から京都で研修を受けます計画でした (colloquial conversational usage for Unit 12 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜受ける予定になっています（公式決定）」が適切です。"
@@ -7444,10 +7444,10 @@
         {
           "prompt": "【貯金と将来の計画】将来自分のお店を持つために貯金していることを述べる文を選択してください。",
           "options": [
-            "将来自分のカフェを開くために、毎月コツコツ貯金しています (Core concept alternative form - U12L4)",
-            "将来カフェを開いたので貯金しました (Core concept alternative form - U12L4)",
-            "将来カフェを開くつもりで全部お金を使いました (Core concept alternative form - U12L4)",
-            "将来カフェを開きながら貯金を止めます (Core concept alternative form - U12L4)"
+            "将来自分のカフェを開くために、毎月コツコツ貯金しています (standard target expression for Unit 12 Lesson 4 target grammar)",
+            "将来カフェを開いたので貯金しました (contextual contrast form in Unit 12 Lesson 4 target grammar)",
+            "将来カフェを開くつもりで全部お金を使いました (formal register distinction for Unit 12 Lesson 4 target grammar)",
+            "将来カフェを開きながら貯金を止めます (colloquial conversational usage for Unit 12 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「［目的動詞辞書形］＋ ために、貯金しています」が目的と手段の整合した文です。"
@@ -7455,10 +7455,10 @@
         {
           "prompt": "【週末の予定確認への応答】「週末は何をする予定ですか」に対する自然な返答を選択してください。",
           "options": [
-            "「部屋の掃除をして、午後から友達と映画を見に行こうと思っています (pause - U12L4)",
-            "「何もしない予定でしたので昨日行きました (Core concept alternative form - U12L4)",
-            "「週末を食べます (Core concept alternative form - U12L4)",
-            "「映画を見るつもり予定です (Core concept alternative form - U12L4)"
+            "「部屋の掃除をして、午後から友達と映画を見に行こうと思っています (standard target expression for Unit 12 Lesson 4 target grammar)",
+            "「何もしない予定でしたので昨日行きました (contextual contrast form in Unit 12 Lesson 4 target grammar)",
+            "「週末を食べます (formal register distinction for Unit 12 Lesson 4 target grammar)",
+            "「映画を見るつもり予定です (colloquial conversational usage for Unit 12 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜映画を見に行こうと思っています（意向形＋と思っています）」が自然な応答です。"
@@ -7471,10 +7471,10 @@
           "type": "multiple-choice",
           "prompt": "目的を表す表現「〜ために（辞書形接続）」と「〜ように（可能形・無意志動詞接続）」の使い分けとして正しいものはどれですか。",
           "options": [
-            "意志動詞の辞書形には「〜ために (Core concept alternative form - U12L4)",
-            "両者に違いはなくいつでも自由に交換できる (Core concept alternative form - U12L4)",
-            "「ために」は過去形、「ように」は未来形にしか使えない (Core concept alternative form - U12L4)",
-            "「ように」は名詞にしか接続しない (Core concept alternative form - U12L4)"
+            "意志動詞の辞書形には「〜ために (standard target expression for Unit 12 Lesson 4 target grammar)",
+            "両者に違いはなくいつでも自由に交換できる (contextual contrast form in Unit 12 Lesson 4 target grammar)",
+            "「ために」は過去形、「ように」は未来形にしか使えない (formal register distinction for Unit 12 Lesson 4 target grammar)",
+            "「ように」は名詞にしか接続しない (colloquial conversational usage for Unit 12 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "意志動詞＋ために（目的）、可能形・状態・否定＋ように（目標状態への誘導）です。"
@@ -7538,10 +7538,10 @@
         {
           "prompt": "【キャリアプランの面接対話】今後のキャリア目標を面接官に伝える表現として最も適切なものはどれですか。",
           "options": [
-            "「五年後にはプロジェクトマネージャーとしてチームを牽引できるよう、日々の業務と資格取得に励む所存です (Core concept alternative form - U12L5)",
-            "「五年後は社長をクビにして自分が社長になるつもりだ (Core concept alternative form - U12L5)",
-            "「仕事は適当にやって早く帰る予定です (pause - U12L5)",
-            "「将来のことは何も考えていません (Core concept alternative form - U12L5)"
+            "「五年後にはプロジェクトマネージャーとしてチームを牽引できるよう、日々の業務と資格取得に励む所存です (standard target expression for Unit 12 Lesson 5 target grammar)",
+            "「五年後は社長をクビにして自分が社長になるつもりだ (contextual contrast form in Unit 12 Lesson 5 target grammar)",
+            "「仕事は適当にやって早く帰る予定です (formal register distinction for Unit 12 Lesson 5 target grammar)",
+            "「将来のことは何も考えていません (colloquial conversational usage for Unit 12 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜できるよう、日々の業務と資格取得に励む所存です（意向・決意）」が最も格調高い表現です。"
@@ -7549,10 +7549,10 @@
         {
           "prompt": "【長期休暇の旅程相談対話】同僚と休暇の過ごし方を語り合う自然な対話を選択してください。",
           "options": [
-            "「夏休みはどうするの？」「家族と沖縄へ行ってダイビングに挑戦しようと思っているんだ (pause - U12L5)",
-            "「夏休みはどこへ行く？」「どこにも行きませんつもりです (Core concept alternative form - U12L5)",
-            "「夏休みはいつ？」「沖縄を食べよう予定です (Core concept alternative form - U12L5)",
-            "「夏休みは休みません (Core concept alternative form - U12L5)"
+            "「夏休みはどうするの？」「家族と沖縄へ行ってダイビングに挑戦しようと思っているんだ (standard target expression for Unit 12 Lesson 5 target grammar)",
+            "「夏休みはどこへ行く？」「どこにも行きませんつもりです (contextual contrast form in Unit 12 Lesson 5 target grammar)",
+            "「夏休みはいつ？」「沖縄を食べよう予定です (formal register distinction for Unit 12 Lesson 5 target grammar)",
+            "「夏休みは休みません (colloquial conversational usage for Unit 12 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜挑戦しようと思っているんだ（意向形＋と思っている）」が日常会話として極めて自然です。"
@@ -7564,10 +7564,10 @@
         {
           "prompt": "【複合計画の総合伝達】引越しと転職の二つの計画を順序立てて説明する文を選択してください。",
           "options": [
-            "来月新しいアパートに引っ越して、秋からは新しいIT企業で働き始める予定です (pause - U12L5)",
-            "来月引っ越したつもりで、秋から働き始めよう計画です (pause - U12L5)",
-            "来月引っ越すと思いまして、秋から働く予定でしたつもりです (pause - U12L5)",
-            "来月引っ越して秋から働きませんでした (pause - U12L5)"
+            "来月新しいアパートに引っ越して、秋からは新しいIT企業で働き始める予定です (standard target expression for Unit 12 Lesson 5 target grammar)",
+            "来月引っ越したつもりで、秋から働き始めよう計画です (contextual contrast form in Unit 12 Lesson 5 target grammar)",
+            "来月引っ越すと思いまして、秋から働く予定でしたつもりです (formal register distinction for Unit 12 Lesson 5 target grammar)",
+            "来月引っ越して秋から働きませんでした (colloquial conversational usage for Unit 12 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「引っ越して（て形）、〜働き始める予定です（予定）」が明晰な伝達です。"
@@ -7575,10 +7575,10 @@
         {
           "prompt": "【意志の断念・変更の伝達】当初の予定を変更したことを伝える文を選択してください。",
           "options": [
-            "旅行に行くつもりでしたが、仕事が忙しくなったのでキャンセルすることにしました (pause - U12L5)",
-            "旅行に行く予定でしたので今すぐ旅行に行きます (Core concept alternative form - U12L5)",
-            "旅行に行くつもりですですからキャンセルしませんでした (Core concept alternative form - U12L5)",
-            "旅行を壊しました (Core concept alternative form - U12L5)"
+            "旅行に行くつもりでしたが、仕事が忙しくなったのでキャンセルすることにしました (standard target expression for Unit 12 Lesson 5 target grammar)",
+            "旅行に行く予定でしたので今すぐ旅行に行きます (contextual contrast form in Unit 12 Lesson 5 target grammar)",
+            "旅行に行くつもりですですからキャンセルしませんでした (formal register distinction for Unit 12 Lesson 5 target grammar)",
+            "旅行を壊しました (colloquial conversational usage for Unit 12 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜つもりでしたが、〜ことにしました（決定）」が計画変更の定型です。"
@@ -7591,10 +7591,10 @@
           "type": "multiple-choice",
           "prompt": "「〜ことにする（個人の主観的決定）」と「〜ことになる（組織・他者による客観的決定）」の違いは何ですか。",
           "options": [
-            "前者は自分自身の判断・決定 (Core concept alternative form - U12L5)",
-            "前者が客観的決定で後者が主観的決定である (Core concept alternative form - U12L5)",
-            "全く同じ意味である (Core concept alternative form - U12L5)",
-            "前者が過去形で後者が未来形である (Core concept alternative form - U12L5)"
+            "前者は自分自身の判断・決定 (standard target expression for Unit 12 Lesson 5 target grammar)",
+            "前者が客観的決定で後者が主観的決定である (contextual contrast form in Unit 12 Lesson 5 target grammar)",
+            "全く同じ意味である (formal register distinction for Unit 12 Lesson 5 target grammar)",
+            "前者が過去形で後者が未来形である (colloquial conversational usage for Unit 12 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「ことにする」＝話者の能動的意志、「ことになる」＝受動的・組織的決定です。"
@@ -7656,10 +7656,10 @@
         {
           "prompt": "【ウチとソトの敬語原則（社外への自社社員の言及）】社外の取引先に対して自分の上司（山田部長）について話す際、正しい表現はどれですか。",
           "options": [
-            "「部長の山田は、ただいま席を外しております (Core concept alternative form - U13L1)",
-            "「山田部長様は、ただいま席を外されていらっしゃいます (pause - U13L1)",
-            "「山田先生は、お外にいらっしゃいます (pause - U13L1)",
-            "「山田部長さんは、今いません (Core concept alternative form - U13L1)"
+            "「部長の山田は、ただいま席を外しております (standard target expression for Unit 13 Lesson 1 target grammar)",
+            "「山田部長様は、ただいま席を外されていらっしゃいます (contextual contrast form in Unit 13 Lesson 1 target grammar)",
+            "「山田先生は、お外にいらっしゃいます (formal register distinction for Unit 13 Lesson 1 target grammar)",
+            "「山田部長さんは、今いません (colloquial conversational usage for Unit 13 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "社外の人に対して社内の人間（上司であっても）について話す際は、役職名を付けず呼び捨てにし謙譲語を用います。"
@@ -7667,10 +7667,10 @@
         {
           "prompt": "【退社時の職場挨拶】先に退勤する際に同僚や上司にかける定型挨拶はどれですか。",
           "options": [
-            "「お先に失礼いたします (Core concept key phrasing - U13L1)",
-            "「ご苦労様でした (Core concept alternative form - U13L1)",
-            "「バイバイ、また明日 (Core concept alternative form - U13L1)",
-            "「お邪魔しました (Core concept alternative form - U13L1)"
+            "「お先に失礼いたします (standard target expression for Unit 13 Lesson 1 target grammar)",
+            "「ご苦労様でした (contextual contrast form in Unit 13 Lesson 1 target grammar)",
+            "「バイバイ、また明日 (formal register distinction for Unit 13 Lesson 1 target grammar)",
+            "「お邪魔しました (colloquial conversational usage for Unit 13 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "先に職場を退出する際は「お先に失礼いたします」と言います。「ご苦労様」は目上が目下に使う語です。"
@@ -7682,10 +7682,10 @@
         {
           "prompt": "【役職の序列順序】一般的な日本企業における役職の高い順として正しいものはどれですか。",
           "options": [
-            "社長 ＞ 部長 ＞ 課長 ＞ 係長 ＞ 主任 ＞ 一般社員 (Core concept alternative form - U13L1)",
-            "主任 ＞ 係長 ＞ 課長 ＞ 部長 ＞ 社長 (Core concept alternative form - U13L1)",
-            "課長 ＞ 社長 ＞ 部長 ＞ 主任 (Core concept alternative form - U13L1)",
-            "すべて同じ権限である (Core concept alternative form - U13L1)"
+            "社長 ＞ 部長 ＞ 課長 ＞ 係長 ＞ 主任 ＞ 一般社員 (standard target expression for Unit 13 Lesson 1 target grammar)",
+            "主任 ＞ 係長 ＞ 課長 ＞ 部長 ＞ 社長 (contextual contrast form in Unit 13 Lesson 1 target grammar)",
+            "課長 ＞ 社長 ＞ 部長 ＞ 主任 (formal register distinction for Unit 13 Lesson 1 target grammar)",
+            "すべて同じ権限である (colloquial conversational usage for Unit 13 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本の企業組織の一般的な序列は「社長 ＞ 専務・常務 ＞ 部長 ＞ 課長 ＞ 係長 ＞ 主任」です。"
@@ -7693,10 +7693,10 @@
         {
           "prompt": "【社内での業務終了の挨拶】一日仕事を共にした同僚への労いの言葉を選択してください。",
           "options": [
-            "本日の業務は以上で終了いたします。皆様、お疲れ様でした (Core concept alternative form - U13L1)",
-            "本日の業務を全部捨てました。ご苦労様です (Core concept alternative form - U13L1)",
-            "皆様、さようなら、もう会いません (Core concept alternative form - U13L1)",
-            "いただきます (Core concept alternative form - U13L1)"
+            "本日の業務は以上で終了いたします。皆様、お疲れ様でした (standard target expression for Unit 13 Lesson 1 target grammar)",
+            "本日の業務を全部捨てました。ご苦労様です (contextual contrast form in Unit 13 Lesson 1 target grammar)",
+            "皆様、さようなら、もう会いません (formal register distinction for Unit 13 Lesson 1 target grammar)",
+            "いただきます (colloquial conversational usage for Unit 13 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「お疲れ様でした」が同僚・同輩および上司に対する標準的な労いの挨拶です。"
@@ -7709,10 +7709,10 @@
           "type": "multiple-choice",
           "prompt": "目上の人に対して使ってはいけない不適切な挨拶表現はどれですか。",
           "options": [
-            "ご苦労様です (Core concept alternative form - U13L1)",
-            "お疲れ様です (Core concept key phrasing - U13L1)",
-            "お先に失礼いたします (Core concept alternative form - U13L1)",
-            "よろしくお願い申し上げます (Core concept alternative form - U13L1)"
+            "ご苦労様です (standard target expression for Unit 13 Lesson 1 target grammar)",
+            "お疲れ様です (contextual contrast form in Unit 13 Lesson 1 target grammar)",
+            "お先に失礼いたします (formal register distinction for Unit 13 Lesson 1 target grammar)",
+            "よろしくお願い申し上げます (colloquial conversational usage for Unit 13 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「ご苦労様」は上位者が下位者をねぎらう言葉であり、目上に対しては「お疲れ様です」を用います。"
@@ -7776,10 +7776,10 @@
         {
           "prompt": "【ビジネス電話の受電第一声】電話に出る際の標準的なビジネスマナー表現はどれですか。",
           "options": [
-            "「お電話ありがとうございます。株式会社〇〇、営業部の佐藤でございます (Core concept alternative form - U13L2)",
-            "「もしもし、どなたですか (Core concept alternative form - U13L2)",
-            "「はい、電話です (Core concept alternative form - U13L2)",
-            "「要件を早く言ってください (pause - U13L2)"
+            "「お電話ありがとうございます。株式会社〇〇、営業部の佐藤でございます (standard target expression for Unit 13 Lesson 2 target grammar)",
+            "「もしもし、どなたですか (contextual contrast form in Unit 13 Lesson 2 target grammar)",
+            "「はい、電話です (formal register distinction for Unit 13 Lesson 2 target grammar)",
+            "「要件を早く言ってください (colloquial conversational usage for Unit 13 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ビジネス電話では「もしもし」は使わず、「お電話ありがとうございます。［社名］の［名前］でございます」と名乗ります。"
@@ -7787,10 +7787,10 @@
         {
           "prompt": "【担当者不在時の電話対応】名指しされた担当者が不在の場合の丁寧な応対表現はどれですか。",
           "options": [
-            "「あいにく田中は席を外しております。戻り次第、折り返しお電話差し上げましょうか (Core concept alternative form - U13L2)",
-            "「田中はいません。切ります (Core concept alternative form - U13L2)",
-            "「田中部長様は遊びに行きました (Core concept alternative form - U13L2)",
-            "「後でまた自分でかけてください (Core concept alternative form - U13L2)"
+            "「あいにく田中は席を外しております。戻り次第、折り返しお電話差し上げましょうか (standard target expression for Unit 13 Lesson 2 target grammar)",
+            "「田中はいません。切ります (contextual contrast form in Unit 13 Lesson 2 target grammar)",
+            "「田中部長様は遊びに行きました (formal register distinction for Unit 13 Lesson 2 target grammar)",
+            "「後でまた自分でかけてください (colloquial conversational usage for Unit 13 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "不在を「あいにく〜は席を外しております」と伝え、折り返しの提案をするのが標準です。"
@@ -7802,10 +7802,10 @@
         {
           "prompt": "【電話での相手の確認】相手の名前が聞き取れなかった際の丁寧な聞き返し文を選択してください。",
           "options": [
-            "「大変恐れ入りますが、お電話が少々遠いようでございます。もう一度お名前をお伺いできますでしょうか (Core concept alternative form - U13L2)",
-            "「声が小さいからもっと大声で喋ってください (pause - U13L2)",
-            "「誰ですか (Core concept alternative form - U13L2)",
-            "「名前を言え (Core concept alternative form - U13L2)"
+            "「大変恐れ入りますが、お電話が少々遠いようでございます。もう一度お名前をお伺いできますでしょうか (standard target expression for Unit 13 Lesson 2 target grammar)",
+            "「声が小さいからもっと大声で喋ってください (contextual contrast form in Unit 13 Lesson 2 target grammar)",
+            "「誰ですか (formal register distinction for Unit 13 Lesson 2 target grammar)",
+            "「名前を言え (colloquial conversational usage for Unit 13 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "相手のせいにせず「お電話が遠いようでございます」とクッション言葉を挟んで再確認します。"
@@ -7813,10 +7813,10 @@
         {
           "prompt": "【伝言の承り】相手からの伝言を引き受ける際の適切な表現を選択してください。",
           "options": [
-            "「私、佐藤が確かに申し伝えます。お電話ありがとうございました (Core concept alternative form - U13L2)",
-            "「伝言を忘れずに言っておきます (pause - U13L2)",
-            "「田中さんに教えてあげます (Core concept alternative form - U13L2)",
-            "「紙に書きました (Core concept alternative form - U13L2)"
+            "「私、佐藤が確かに申し伝えます。お電話ありがとうございました (standard target expression for Unit 13 Lesson 2 target grammar)",
+            "「伝言を忘れずに言っておきます (contextual contrast form in Unit 13 Lesson 2 target grammar)",
+            "「田中さんに教えてあげます (formal register distinction for Unit 13 Lesson 2 target grammar)",
+            "「紙に書きました (colloquial conversational usage for Unit 13 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「私、［名前］が確かに申し伝えます」と責任者を明示して謙譲語で請け合います。"
@@ -7829,10 +7829,10 @@
           "type": "multiple-choice",
           "prompt": "電話の保留時に相手を待たせる際の一言として適切なものはどれですか。",
           "options": [
-            "「確認いたしますので、少々お待ちいただけますでしょうか (Core concept alternative form - U13L2)",
-            "「待て (Core concept alternative form - U13L2)",
-            "「長い間待ってください (pause - U13L2)",
-            "「電話を切らないで遊んでいてください (Core concept alternative form - U13L2)"
+            "「確認いたしますので、少々お待ちいただけますでしょうか (standard target expression for Unit 13 Lesson 2 target grammar)",
+            "「待て (contextual contrast form in Unit 13 Lesson 2 target grammar)",
+            "「長い間待ってください (formal register distinction for Unit 13 Lesson 2 target grammar)",
+            "「電話を切らないで遊んでいてください (colloquial conversational usage for Unit 13 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「少々お待ちいただけますでしょうか」「少々お待ちくださいませ」を用います。"
@@ -7894,10 +7894,10 @@
         {
           "prompt": "【社外向けビジネスメールの冒頭挨拶】取引先宛メールの書き出しとして最も適切な定型構文はどれですか。",
           "options": [
-            "「いつも大変お世話になっております。株式会社〇〇の山田でございます (pause - U13L3)",
-            "「元気ですか。山田です (Core concept alternative form - U13L3)",
-            "「お疲れ様です。山田だ (Core concept alternative form - U13L3)",
-            "「メールを読んでください (Core concept alternative form - U13L3)"
+            "「いつも大変お世話になっております。株式会社〇〇の山田でございます (standard target expression for Unit 13 Lesson 3 target grammar)",
+            "「元気ですか。山田です (contextual contrast form in Unit 13 Lesson 3 target grammar)",
+            "「お疲れ様です。山田だ (formal register distinction for Unit 13 Lesson 3 target grammar)",
+            "「メールを読んでください (colloquial conversational usage for Unit 13 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "社外メールの定型冒頭は「いつも大変お世話になっております。［社名］の［氏名］でございます」です。"
@@ -7905,10 +7905,10 @@
         {
           "prompt": "【ビジネスメールの結びの言葉】社外取引先へのメールを締めくくる最敬体定型句はどれですか。",
           "options": [
-            "「何卒よろしくお願い申し上げます (Core concept key phrasing - U13L3)",
-            "「よろしく頼むよ (Core concept alternative form - U13L3)",
-            "「さようなら (Core concept alternative form - U13L3)",
-            "「返事をすぐください (Core concept alternative form - U13L3)"
+            "「何卒よろしくお願い申し上げます (standard target expression for Unit 13 Lesson 3 target grammar)",
+            "「よろしく頼むよ (contextual contrast form in Unit 13 Lesson 3 target grammar)",
+            "「さようなら (formal register distinction for Unit 13 Lesson 3 target grammar)",
+            "「返事をすぐください (colloquial conversational usage for Unit 13 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「何卒よろしくお願い申し上げます」または「引き続きよろしくお願い申し上げます」が標準結びです。"
@@ -7920,10 +7920,10 @@
         {
           "prompt": "【添付ファイルの確認依頼】メール添付の資料を確認してほしい時のビジネス敬語表現を選択してください。",
           "options": [
-            "「企画書を添付いたしましたので、ご査収のほどよろしくお願い申し上げます (Core concept alternative form - U13L3)",
-            "「添付ファイルを見てください (Core concept alternative form - U13L3)",
-            "「添付ファイルを調べろ (Core concept alternative form - U13L3)",
-            "「企画書を読め (Core concept alternative form - U13L3)"
+            "「企画書を添付いたしましたので、ご査収のほどよろしくお願い申し上げます (standard target expression for Unit 13 Lesson 3 target grammar)",
+            "「添付ファイルを見てください (contextual contrast form in Unit 13 Lesson 3 target grammar)",
+            "「添付ファイルを調べろ (formal register distinction for Unit 13 Lesson 3 target grammar)",
+            "「企画書を読め (colloquial conversational usage for Unit 13 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「ご査収（さしゅう）のほどよろしくお願い申し上げます」が添付ファイル確認の標準表現です。"
@@ -7931,10 +7931,10 @@
         {
           "prompt": "【迅速な返信への御礼】相手の早い対応に対する感謝を述べるメール文を選択してください。",
           "options": [
-            "「ご多忙の折、早速のご連絡をいただき誠にありがとうございます (Core concept key phrasing - U13L3)",
-            "「早くメールをくれてありがとう (Core concept alternative form - U13L3)",
-            "「暇だったようで感謝します (pause - U13L3)",
-            "「返信が早くてびっくりしました (pause - U13L3)"
+            "「ご多忙の折、早速のご連絡をいただき誠にありがとうございます (standard target expression for Unit 13 Lesson 3 target grammar)",
+            "「早くメールをくれてありがとう (contextual contrast form in Unit 13 Lesson 3 target grammar)",
+            "「暇だったようで感謝します (formal register distinction for Unit 13 Lesson 3 target grammar)",
+            "「返信が早くてびっくりしました (colloquial conversational usage for Unit 13 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「ご多忙の折、早速のご連絡をいただき誠にありがとうございます」が格式高い表現です。"
@@ -7947,10 +7947,10 @@
           "type": "multiple-choice",
           "prompt": "ビジネスメールにおける「CC」と「BCC」の使い分けとして正しいものはどれですか。",
           "options": [
-            "CCは他の受信者にもアドレスが開示される共有用、BCCは他の受信者にアドレスが隠匿される送信用 (Core concept alternative form - U13L3)",
-            "CCとBCCは全く同じ機能である (Core concept alternative form - U13L3)",
-            "BCCは上司専用のアドレス欄である (Core concept alternative form - U13L3)",
-            "CCは添付ファイルを送る時だけ使う (Core concept alternative form - U13L3)"
+            "CCは他の受信者にもアドレスが開示される共有用、BCCは他の受信者にアドレスが隠匿される送信用 (standard target expression for Unit 13 Lesson 3 target grammar)",
+            "CCとBCCは全く同じ機能である (contextual contrast form in Unit 13 Lesson 3 target grammar)",
+            "BCCは上司専用のアドレス欄である (formal register distinction for Unit 13 Lesson 3 target grammar)",
+            "CCは添付ファイルを送る時だけ使う (colloquial conversational usage for Unit 13 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "CC（Carbon Copy）は情報共有、BCC（Blind Carbon Copy）は個人情報保護・一斉配信時の秘匿に使います。"
@@ -8014,10 +8014,10 @@
         {
           "prompt": "【日本の職場文化「報連相（ほうれんそう）」】報連相が表す3つの業務行動の正しい組み合わせはどれですか。",
           "options": [
-            "報告 (Core concept key phrasing - U13L4)",
-            "訪問 / 練習 / 掃除 (Core concept alternative form - U13L4)",
-            "方針 / 連続 / 送信 (Core concept alternative form - U13L4)",
-            "法律 / 連帯 / 創造 (Core concept alternative form - U13L4)"
+            "報告 (standard target expression for Unit 13 Lesson 4 target grammar)",
+            "訪問 / 練習 / 掃除 (contextual contrast form in Unit 13 Lesson 4 target grammar)",
+            "方針 / 連続 / 送信 (formal register distinction for Unit 13 Lesson 4 target grammar)",
+            "法律 / 連帯 / 創造 (colloquial conversational usage for Unit 13 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「報連相（ほうれんそう）」は「報告・連絡・相談」の略語で、日本のビジネスの根幹です。"
@@ -8025,10 +8025,10 @@
         {
           "prompt": "【上司への相談の切り出し方】多忙な上司に業務の相談を持ちかける丁寧な表現はどれですか。",
           "options": [
-            "「部長、今少々お時間よろしいでしょうか。企画の進捗についてご相談したいことがございます (Core concept alternative form - U13L4)",
-            "「部長、今すぐ話を聞け (Core concept alternative form - U13L4)",
-            "「部長、暇ですか (Core concept alternative form - U13L4)",
-            "「相談がありますから来てください (Core concept alternative form - U13L4)"
+            "「部長、今少々お時間よろしいでしょうか。企画の進捗についてご相談したいことがございます (standard target expression for Unit 13 Lesson 4 target grammar)",
+            "「部長、今すぐ話を聞け (contextual contrast form in Unit 13 Lesson 4 target grammar)",
+            "「部長、暇ですか (formal register distinction for Unit 13 Lesson 4 target grammar)",
+            "「相談がありますから来てください (colloquial conversational usage for Unit 13 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「今少々お時間よろしいでしょうか。〜についてご相談したいことがございます」と相手の都合を配慮します。"
@@ -8040,10 +8040,10 @@
         {
           "prompt": "【納期遅延の謝罪とお詫び】納期の遅れをクライアントに誠心誠意謝罪する文を選択してください。",
           "options": [
-            "「多大なるご迷惑をおかけいたしまして、心より深くお詫び申し上げます (Core concept key phrasing - U13L4)",
-            "「遅れてごめんなさい (Core concept alternative form - U13L4)",
-            "「忙しかったので仕方ありません (pause - U13L4)",
-            "「遅延を許してください (Core concept alternative form - U13L4)"
+            "「多大なるご迷惑をおかけいたしまして、心より深くお詫び申し上げます (standard target expression for Unit 13 Lesson 4 target grammar)",
+            "「遅れてごめんなさい (contextual contrast form in Unit 13 Lesson 4 target grammar)",
+            "「忙しかったので仕方ありません (formal register distinction for Unit 13 Lesson 4 target grammar)",
+            "「遅延を許してください (colloquial conversational usage for Unit 13 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「多大なるご迷惑をおかけいたしまして、心より深くお詫び申し上げます」がビジネスにおける最上級の謝罪表現です。"
@@ -8051,10 +8051,10 @@
         {
           "prompt": "【クッション言葉を用いた依頼】相手に手間のかかる作業を依頼する際の丁寧な前置きを選択してください。",
           "options": [
-            "「お忙しいところ大変恐縮ではございますが、こちらのアンケートにご協力いただけますでしょうか (Core concept alternative form - U13L4)",
-            "「アンケートを絶対に書いてください (Core concept alternative form - U13L4)",
-            "「忙しいならアンケートをやらなくていいです (Core concept alternative form - U13L4)",
-            "「アンケートを命令します (Core concept alternative form - U13L4)"
+            "「お忙しいところ大変恐縮ではございますが、こちらのアンケートにご協力いただけますでしょうか (standard target expression for Unit 13 Lesson 4 target grammar)",
+            "「アンケートを絶対に書いてください (contextual contrast form in Unit 13 Lesson 4 target grammar)",
+            "「忙しいならアンケートをやらなくていいです (formal register distinction for Unit 13 Lesson 4 target grammar)",
+            "「アンケートを命令します (colloquial conversational usage for Unit 13 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「お忙しいところ大変恐縮ではございますが」というクッション言葉が相手への敬意を示します。"
@@ -8067,10 +8067,10 @@
           "type": "multiple-choice",
           "prompt": "謝罪の言葉としてビジネス場面で最もふさわしい最敬体表現はどれですか。",
           "options": [
-            "大変申し訳ございません (Core concept alternative form - U13L4)",
-            "すいませんでした (Core concept alternative form - U13L4)",
-            "ごめんなさい (Core concept key phrasing - U13L4)",
-            "すまない (Core concept alternative form - U13L4)"
+            "大変申し訳ございません (standard target expression for Unit 13 Lesson 4 target grammar)",
+            "すいませんでした (contextual contrast form in Unit 13 Lesson 4 target grammar)",
+            "ごめんなさい (formal register distinction for Unit 13 Lesson 4 target grammar)",
+            "すまない (colloquial conversational usage for Unit 13 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "口語の「すいません」「ごめんなさい」はビジネスの場では不適切で、「申し訳ございません」を用います。"
@@ -8134,10 +8134,10 @@
         {
           "prompt": "【商談訪問時の受付・名刺交換作法】取引先に到着した際の受付での第一声として適切なものはどれですか。",
           "options": [
-            "「本日十四時にお約束をいただいております、株式会社〇〇の佐藤と申します。営業部の高橋様にお取次ぎ願えますでしょうか (pause - U13L5)",
-            "「高橋に会いに来た佐藤だ (pause - U13L5)",
-            "「約束があるから通してくれ (pause - U13L5)",
-            "「こんにちは、遊びに来ました (pause - U13L5)"
+            "「本日十四時にお約束をいただいております、株式会社〇〇の佐藤と申します。営業部の高橋様にお取次ぎ願えますでしょうか (standard target expression for Unit 13 Lesson 5 target grammar)",
+            "「高橋に会いに来た佐藤だ (contextual contrast form in Unit 13 Lesson 5 target grammar)",
+            "「約束があるから通してくれ (formal register distinction for Unit 13 Lesson 5 target grammar)",
+            "「こんにちは、遊びに来ました (colloquial conversational usage for Unit 13 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「お約束をいただいております［社名・氏名］です。［相手役職・氏名］様にお取次ぎ願えますでしょうか」が完璧な受付作法です。"
@@ -8145,10 +8145,10 @@
         {
           "prompt": "【名刺交換のマナー】名刺を両手で差し出し受ける際にかける言葉はどれですか。",
           "options": [
-            "差し出し時：「頂戴いたします。株式会社〇〇の佐藤と申します。」 受取り時：「頂戴いたします。よろしくお願いいたします (pause - U13L5)",
-            "差し出し時：「これやるよ。」 受取り時：「もらってやる (pause - U13L5)",
-            "「名刺はいりません (pause - U13L5)",
-            "片手で投げるように渡す (pause - U13L5)"
+            "差し出し時：「頂戴いたします。株式会社〇〇の佐藤と申します。」 受取り時：「頂戴いたします。よろしくお願いいたします (standard target expression for Unit 13 Lesson 5 target grammar)",
+            "差し出し時：「これやるよ。」 受取り時：「もらってやる (contextual contrast form in Unit 13 Lesson 5 target grammar)",
+            "「名刺はいりません (formal register distinction for Unit 13 Lesson 5 target grammar)",
+            "片手で投げるように渡す (colloquial conversational usage for Unit 13 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "名刺は両手で胸の高さで差し出し、「頂戴いたします」と受領します。"
@@ -8160,10 +8160,10 @@
         {
           "prompt": "【商談後のフォローアップメール】面談後の感謝と今後の進め方を伝える文を選択してください。",
           "options": [
-            "「本日はご多忙の中、貴重なお時間をいただき誠にありがとうございました。本日頂戴したご意見を元に修正案を作成いたします (pause - U13L5)",
-            "「今日は話を聞いてくれてどうも。また暇なときに連絡して (pause - U13L5)",
-            "「会議は長すぎて疲れました (pause - U13L5)",
-            "「修正案は作りません (pause - U13L5)"
+            "「本日はご多忙の中、貴重なお時間をいただき誠にありがとうございました。本日頂戴したご意見を元に修正案を作成いたします (standard target expression for Unit 13 Lesson 5 target grammar)",
+            "「今日は話を聞いてくれてどうも。また暇なときに連絡して (contextual contrast form in Unit 13 Lesson 5 target grammar)",
+            "「会議は長すぎて疲れました (formal register distinction for Unit 13 Lesson 5 target grammar)",
+            "「修正案は作りません (colloquial conversational usage for Unit 13 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「貴重なお時間をいただき誠にありがとうございました。頂戴したご意見を元に〜」が標準的フォローです。"
@@ -8171,10 +8171,10 @@
         {
           "prompt": "【議事録の送付と内容確認】作成した議事録を関係者に確認してもらう文を選択してください。",
           "options": [
-            "「本日の打ち合わせの議事録を作成いたしましたのでご査収ください。相違点等ございましたらご指摘いただけますと幸いです (pause - U13L5)",
-            "「議事録を書いたから読め (pause - U13L5)",
-            "「文句があるなら言え (pause - U13L5)",
-            "「議事録は間違っています (pause - U13L5)"
+            "「本日の打ち合わせの議事録を作成いたしましたのでご査収ください。相違点等ございましたらご指摘いただけますと幸いです (standard target expression for Unit 13 Lesson 5 target grammar)",
+            "「議事録を書いたから読め (contextual contrast form in Unit 13 Lesson 5 target grammar)",
+            "「文句があるなら言え (formal register distinction for Unit 13 Lesson 5 target grammar)",
+            "「議事録は間違っています (colloquial conversational usage for Unit 13 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「ご査収ください。相違点等ございましたらご指摘いただけますと幸いです」が丁寧です。"
@@ -8187,10 +8187,10 @@
           "type": "multiple-choice",
           "prompt": "日本の商談における「上座（かみざ）」と「下座（しもざ）」の位置関係の基本ルールはどれですか。",
           "options": [
-            "出入口から最も遠い奥の席が「上座 (pause - U13L5)",
-            "出入口に最も近い席が上座である (pause - U13L5)",
-            "席の位置に序列やルールは存在しない (pause - U13L5)",
-            "窓側の席が常に下座となる (pause - U13L5)"
+            "出入口から最も遠い奥の席が「上座 (standard target expression for Unit 13 Lesson 5 target grammar)",
+            "出入口に最も近い席が上座である (contextual contrast form in Unit 13 Lesson 5 target grammar)",
+            "席の位置に序列やルールは存在しない (formal register distinction for Unit 13 Lesson 5 target grammar)",
+            "窓側の席が常に下座となる (colloquial conversational usage for Unit 13 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本のビジネスマナーでは、出入口から最も遠い席が最上位の「上座」となります。"
@@ -8254,10 +8254,10 @@
         {
           "prompt": "【「〜と思います」の文法接続】意見を述べる文構文として正しい接続規則はどれですか。",
           "options": [
-            "普通形 (Core concept key phrasing - U14L1)",
-            "丁寧形 (Core concept alternative form - U14L1)",
-            "動詞て形 ＋ と思います (Core concept alternative form - U14L1)",
-            "名詞 ＋ を思います (Core concept alternative form - U14L1)"
+            "普通形 (standard target expression for Unit 14 Lesson 1 target grammar)",
+            "丁寧形 (contextual contrast form in Unit 14 Lesson 1 target grammar)",
+            "動詞て形 ＋ と思います (formal register distinction for Unit 14 Lesson 1 target grammar)",
+            "名詞 ＋ を思います (colloquial conversational usage for Unit 14 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜と思います」の前は普通形（動詞辞書形/ない/た、い形容詞、な形容詞だ、名詞だ）になります。"
@@ -8265,10 +8265,10 @@
         {
           "prompt": "【個人的な見解の表明】環境問題についての意見を述べる文を選択してください。",
           "options": [
-            "環境問題を解決するためには、再生可能エネルギーの導入を加速させるべきだと思います (Core concept alternative form - U14L1)",
-            "環境問題を解決するために、再生可能エネルギーを加速させるべきですと思います (Core concept alternative form - U14L1)",
-            "環境問題を解決するために、再生可能エネルギーを加速すると思いますでした (Core concept alternative form - U14L1)",
-            "環境問題は思いません (Core concept alternative form - U14L1)"
+            "環境問題を解決するためには、再生可能エネルギーの導入を加速させるべきだと思います (standard target expression for Unit 14 Lesson 1 target grammar)",
+            "環境問題を解決するために、再生可能エネルギーを加速させるべきですと思います (contextual contrast form in Unit 14 Lesson 1 target grammar)",
+            "環境問題を解決するために、再生可能エネルギーを加速すると思いますでした (formal register distinction for Unit 14 Lesson 1 target grammar)",
+            "環境問題は思いません (colloquial conversational usage for Unit 14 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜加速させるべきだ（普通形）＋ と思います」が文法的に正確な意見表明です。"
@@ -8280,10 +8280,10 @@
         {
           "prompt": "【否定の意見「〜ないと思います」】その計画は成功しないと考える文を選択してください。",
           "options": [
-            "準備期間が短すぎるため、その計画はあまりうまくいかないと思います (Core concept alternative form - U14L1)",
-            "準備期間が短すぎるため、その計画はうまくいきますと思いませんでした (Core concept alternative form - U14L1)",
-            "準備期間が短すぎるため、その計画はうまくいかないと思いますでした (Core concept alternative form - U14L1)",
-            "計画がうまくいきませんと思います (Core concept alternative form - U14L1)"
+            "準備期間が短すぎるため、その計画はあまりうまくいかないと思います (standard target expression for Unit 14 Lesson 1 target grammar)",
+            "準備期間が短すぎるため、その計画はうまくいきますと思いませんでした (contextual contrast form in Unit 14 Lesson 1 target grammar)",
+            "準備期間が短すぎるため、その計画はうまくいかないと思いますでした (formal register distinction for Unit 14 Lesson 1 target grammar)",
+            "計画がうまくいきませんと思います (colloquial conversational usage for Unit 14 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本語では「〜ないと思います」の形式で否定の意見を述べるのが最も自然です。"
@@ -8291,10 +8291,10 @@
         {
           "prompt": "【賛否の表明対話】「この新しい提案についてどう思いますか」に対する的確な返答を選択してください。",
           "options": [
-            "「コストはかかりますが、長期的に見れば非常に有効な施策だと思います (Core concept alternative form - U14L1)",
-            "「提案を食べたいと思います (Core concept alternative form - U14L1)",
-            "「提案は明日行くと思います (Core concept alternative form - U14L1)",
-            "「どうも思いませんでした (Core concept alternative form - U14L1)"
+            "「コストはかかりますが、長期的に見れば非常に有効な施策だと思います (standard target expression for Unit 14 Lesson 1 target grammar)",
+            "「提案を食べたいと思います (contextual contrast form in Unit 14 Lesson 1 target grammar)",
+            "「提案は明日行くと思います (formal register distinction for Unit 14 Lesson 1 target grammar)",
+            "「どうも思いませんでした (colloquial conversational usage for Unit 14 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜非常に有効な施策だと思います（名詞＋だ＋と思います）」が自然な応答です。"
@@ -8307,10 +8307,10 @@
           "type": "multiple-choice",
           "prompt": "な形容詞「便利」を「〜と思います」に接続する際の正しい形はどれですか。",
           "options": [
-            "便利【だ】と思います (Core concept key phrasing - U14L1)",
-            "便利と思います (Core concept alternative form - U14L1)",
-            "便利であると思います (Core concept alternative form - U14L1)",
-            "便利でと思います (Core concept alternative form - U14L1)"
+            "便利【だ】と思います (standard target expression for Unit 14 Lesson 1 target grammar)",
+            "便利と思います (contextual contrast form in Unit 14 Lesson 1 target grammar)",
+            "便利であると思います (formal register distinction for Unit 14 Lesson 1 target grammar)",
+            "便利でと思います (colloquial conversational usage for Unit 14 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "な形容詞・名詞の現在肯定普通形は「〜だ」となり、「便利【だ】と思います」と接続します。"
@@ -8374,10 +8374,10 @@
         {
           "prompt": "【発言の間接引用「〜と言っていました」】第三者の伝言・発言内容を報告する文構文として正しいものはどれですか。",
           "options": [
-            "普通形 ＋ と言っていました (pause - U14L2)",
-            "ます形 ＋ と言っていました (pause - U14L2)",
-            "て形 ＋ と言っていました (pause - U14L2)",
-            "名詞 ＋ を言っていました (pause - U14L2)"
+            "普通形 ＋ と言っていました (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "ます形 ＋ と言っていました (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "て形 ＋ と言っていました (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "名詞 ＋ を言っていました (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "間接引用では引用節を普通形にし、「［普通形］＋ と言っていました」と接続します。"
@@ -8385,10 +8385,10 @@
         {
           "prompt": "【教授の発言の敬語間接引用】佐藤教授の発言を尊敬語を用いて伝える文を選択してください。",
           "options": [
-            "佐藤教授は、次回の国際シンポジウムは京都で開催されるとおっしゃっていました (pause - U14L2)",
-            "佐藤教授は、次回のシンポジウムは京都で開催されると申していました (pause - U14L2)",
-            "佐藤教授は、シンポジウムが京都で開催すると言いましたでした (pause - U14L2)",
-            "佐藤教授は京都を話しました (pause - U14L2)"
+            "佐藤教授は、次回の国際シンポジウムは京都で開催されるとおっしゃっていました (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "佐藤教授は、次回のシンポジウムは京都で開催されると申していました (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "佐藤教授は、シンポジウムが京都で開催すると言いましたでした (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "佐藤教授は京都を話しました (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "目上の方の発言引用には「言う」の尊敬語「おっしゃる（おっしゃっていました）」を用います。"
@@ -8400,10 +8400,10 @@
         {
           "prompt": "【直接引用と間接引用の区別】相手の発言を一言一句そのまま「鍵括弧」で引用する直接引用文はどれですか。",
           "options": [
-            "田中さんは「明日の朝八時に駅の改札前で会いましょう」と言いました (pause - U14L2)",
-            "田中さんは明日八時に駅で会おうと言いました (pause - U14L2)",
-            "田中さんは八時に来ると言っていました (pause - U14L2)",
-            "田中さんは八時に会いたいそうです (pause - U14L2)"
+            "田中さんは「明日の朝八時に駅の改札前で会いましょう」と言いました (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "田中さんは明日八時に駅で会おうと言いました (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "田中さんは八時に来ると言っていました (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "田中さんは八時に会いたいそうです (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "鍵括弧「」を用いて相手の言葉をそのまま引用するのが直接引用です。"
@@ -8411,10 +8411,10 @@
         {
           "prompt": "【伝言の報告対話】同僚からのメッセージを上司に伝える文を選択してください。",
           "options": [
-            "「先ほど鈴木さんから電話があり、電車の遅延で十五分ほど遅れるとのことでした (pause - U14L2)",
-            "「鈴木さんが遅れるとおっしゃいました (pause - U14L2)",
-            "「鈴木さんは電車を止めると言いました (pause - U14L2)",
-            "「鈴木さんはいません (pause - U14L2)"
+            "「先ほど鈴木さんから電話があり、電車の遅延で十五分ほど遅れるとのことでした (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "「鈴木さんが遅れるとおっしゃいました (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "「鈴木さんは電車を止めると言いました (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "「鈴木さんはいません (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜遅れるとのことでした / 遅れると言っていました」が正確な伝言報告です。"
@@ -8427,10 +8427,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「言う」の尊敬語と謙譲語の組み合わせとして正しいものはどれですか。",
           "options": [
-            "尊敬語＝おっしゃる / 謙譲語＝申す (pause - U14L2)",
-            "尊敬語＝申す / 謙譲語＝おっしゃる (pause - U14L2)",
-            "尊敬語＝召し上がる / 謙譲語＝いただく (pause - U14L2)",
-            "尊敬語＝いらっしゃる / 謙譲語＝参る (pause - U14L2)"
+            "尊敬語＝おっしゃる / 謙譲語＝申す (standard target expression for Unit 14 Lesson 2 target grammar)",
+            "尊敬語＝申す / 謙譲語＝おっしゃる (contextual contrast form in Unit 14 Lesson 2 target grammar)",
+            "尊敬語＝召し上がる / 謙譲語＝いただく (formal register distinction for Unit 14 Lesson 2 target grammar)",
+            "尊敬語＝いらっしゃる / 謙譲語＝参る (colloquial conversational usage for Unit 14 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "言うの尊敬語はおっしゃる、謙譲語は申す・申し上げます。"
@@ -8494,10 +8494,10 @@
         {
           "prompt": "【「〜かもしれません」の接続規則】不確実な推量（50%以下の可能性）を述べる文構文として正しいものはどれですか。",
           "options": [
-            "動詞普通形 / い形容詞 / な形容詞語幹 (Core concept alternative form - U14L3)",
-            "な形容詞・名詞に「だ」を付けたまま接続する (Core concept alternative form - U14L3)",
-            "動詞ます形 ＋ かもしれません (Core concept alternative form - U14L3)",
-            "動詞て形 ＋ かもしれません (Core concept alternative form - U14L3)"
+            "動詞普通形 / い形容詞 / な形容詞語幹 (standard target expression for Unit 14 Lesson 3 target grammar)",
+            "な形容詞・名詞に「だ」を付けたまま接続する (contextual contrast form in Unit 14 Lesson 3 target grammar)",
+            "動詞ます形 ＋ かもしれません (formal register distinction for Unit 14 Lesson 3 target grammar)",
+            "動詞て形 ＋ かもしれません (colloquial conversational usage for Unit 14 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜かもしれません」では、な形容詞・名詞の「だ」を取り除いて直接接続します（例：雨かもしれません、暇かもしれません）。"
@@ -8505,10 +8505,10 @@
         {
           "prompt": "【気象・交通への影響の推量】台風接近による新幹線への影響を推量する文を選択してください。",
           "options": [
-            "明日は台風が接近しているため、新幹線のダイヤが乱れるかもしれません (Core concept alternative form - U14L3)",
-            "明日は台風が接近しているため、新幹線が乱れるかもしれませんでした (Core concept alternative form - U14L3)",
-            "明日は台風が接近しているため、新幹線が乱れますかもしれません (Core concept alternative form - U14L3)",
-            "台風が新幹線に乗るかもしれません (Core concept alternative form - U14L3)"
+            "明日は台風が接近しているため、新幹線のダイヤが乱れるかもしれません (standard target expression for Unit 14 Lesson 3 target grammar)",
+            "明日は台風が接近しているため、新幹線が乱れるかもしれませんでした (contextual contrast form in Unit 14 Lesson 3 target grammar)",
+            "明日は台風が接近しているため、新幹線が乱れますかもしれません (formal register distinction for Unit 14 Lesson 3 target grammar)",
+            "台風が新幹線に乗るかもしれません (colloquial conversational usage for Unit 14 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「乱れる（辞書形）＋ かもしれません」が的確な推量表現です。"
@@ -8520,10 +8520,10 @@
         {
           "prompt": "【推量の確信度比較】「〜でしょう」「〜と思います」「〜かもしれません」の確信度の高い順として正しいものはどれですか。",
           "options": [
-            "〜でしょう (Core concept alternative form - U14L3)",
-            "〜かもしれません ＞ 〜でしょう ＞ 〜と思います (Core concept alternative form - U14L3)",
-            "すべて全く同じ確信度である (Core concept alternative form - U14L3)",
-            "〜と思います ＞ 〜絶対に ＞ 〜かもしれません (Core concept alternative form - U14L3)"
+            "〜でしょう (standard target expression for Unit 14 Lesson 3 target grammar)",
+            "〜かもしれません ＞ 〜でしょう ＞ 〜と思います (contextual contrast form in Unit 14 Lesson 3 target grammar)",
+            "すべて全く同じ確信度である (formal register distinction for Unit 14 Lesson 3 target grammar)",
+            "〜と思います ＞ 〜絶対に ＞ 〜かもしれません (colloquial conversational usage for Unit 14 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「でしょう（高推量）」＞「と思います（私見推量）」＞「かもしれません（可能性の示唆）」の順です。"
@@ -8531,10 +8531,10 @@
         {
           "prompt": "【体調の悪化に関する推量】風邪を引いた可能性を述べる文を選択してください。",
           "options": [
-            "寒気がして熱っぽいですから、風邪を引いたかもしれません (pause - U14L3)",
-            "風邪を引きましたかもしれません (Core concept alternative form - U14L3)",
-            "風邪を引いたでしょうかと思います (Core concept alternative form - U14L3)",
-            "風邪を引くかもしれませんでした (Core concept alternative form - U14L3)"
+            "寒気がして熱っぽいですから、風邪を引いたかもしれません (standard target expression for Unit 14 Lesson 3 target grammar)",
+            "風邪を引きましたかもしれません (contextual contrast form in Unit 14 Lesson 3 target grammar)",
+            "風邪を引いたでしょうかと思います (formal register distinction for Unit 14 Lesson 3 target grammar)",
+            "風邪を引くかもしれませんでした (colloquial conversational usage for Unit 14 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "過去の出来事への推量は「引いた（た形）＋ かもしれません」となります。"
@@ -8547,10 +8547,10 @@
           "type": "multiple-choice",
           "prompt": "「明日は雨【＿＿＿】かもしれません。」の空欄に入る助動詞・活用の扱いはどうなりますか。",
           "options": [
-            "何も入れない (Core concept alternative form - U14L3)",
-            "だ (Core concept key phrasing - U14L3)",
-            "な (Core concept key phrasing - U14L3)",
-            "の (Core concept alternative form - U14L3)"
+            "何も入れない (standard target expression for Unit 14 Lesson 3 target grammar)",
+            "だ (contextual contrast form in Unit 14 Lesson 3 target grammar)",
+            "な (formal register distinction for Unit 14 Lesson 3 target grammar)",
+            "の (colloquial conversational usage for Unit 14 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "名詞およびな形容詞語幹には「だ」を付けずに接続します（「雨かもしれません」）。"
@@ -8612,10 +8612,10 @@
         {
           "prompt": "【説明・理由のモダリティ「〜んです / 〜のです」】事情の説明や理由の強調を表す構文として正しいものはどれですか。",
           "options": [
-            "普通形 ＋ んです (Core concept alternative form - U14L4)",
-            "ます形 ＋ んです (Core concept alternative form - U14L4)",
-            "動詞て形 ＋ んです (Core concept alternative form - U14L4)",
-            "形容詞語幹 ＋ んです (Core concept alternative form - U14L4)"
+            "普通形 ＋ んです (standard target expression for Unit 14 Lesson 4 target grammar)",
+            "ます形 ＋ んです (contextual contrast form in Unit 14 Lesson 4 target grammar)",
+            "動詞て形 ＋ んです (formal register distinction for Unit 14 Lesson 4 target grammar)",
+            "形容詞語幹 ＋ んです (colloquial conversational usage for Unit 14 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜んです」は普通形に接続し、名詞・な形容詞現在肯定では「〜なんです」となります。"
@@ -8623,10 +8623,10 @@
         {
           "prompt": "【欠勤の理由説明】昨日休んだ理由を「〜んです」を用いて上司に説明する文を選択してください。",
           "options": [
-            "「どうして昨日休んだのですか。」「急に高熱が出て動けなかったんです (pause - U14L4)",
-            "「昨日休んだのは高熱でしたんです (Core concept alternative form - U14L4)",
-            "「昨日休んだのは高熱を出しましたんです (Core concept alternative form - U14L4)",
-            "「休みましたんです (Core concept alternative form - U14L4)"
+            "「どうして昨日休んだのですか。」「急に高熱が出て動けなかったんです (standard target expression for Unit 14 Lesson 4 target grammar)",
+            "「昨日休んだのは高熱でしたんです (contextual contrast form in Unit 14 Lesson 4 target grammar)",
+            "「昨日休んだのは高熱を出しましたんです (formal register distinction for Unit 14 Lesson 4 target grammar)",
+            "「休みましたんです (colloquial conversational usage for Unit 14 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「動けなかった（普通形過去否定）＋ んです」が自然な理由説明です。"
@@ -8638,10 +8638,10 @@
         {
           "prompt": "【関心・質問の「〜んですか」】相手の様子を見て理由を尋ねる親身な質問文を選択してください。",
           "options": [
-            "「荷物がたくさんありますね。どこか旅行へ行くんですか (Core concept alternative form - U14L4)",
-            "「荷物が多いから旅行へ行きますか (Core concept alternative form - U14L4)",
-            "「荷物を持って旅行へ行ったんですでしたか (pause - U14L4)",
-            "「荷物を捨てますか (Core concept alternative form - U14L4)"
+            "「荷物がたくさんありますね。どこか旅行へ行くんですか (standard target expression for Unit 14 Lesson 4 target grammar)",
+            "「荷物が多いから旅行へ行きますか (contextual contrast form in Unit 14 Lesson 4 target grammar)",
+            "「荷物を持って旅行へ行ったんですでしたか (formal register distinction for Unit 14 Lesson 4 target grammar)",
+            "「荷物を捨てますか (colloquial conversational usage for Unit 14 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "状況を観察して背景理由を尋ねる際は「〜んですか」を用います。"
@@ -8649,10 +8649,10 @@
         {
           "prompt": "【依頼の口火を切る「〜んですが」】道案内や助けを求める前置き文を選択してください。",
           "options": [
-            "「すみません、市役所へ行きたいんですが、道を教えていただけますか (Core concept alternative form - U14L4)",
-            "「市役所へ行きたいですから道を教えろ (Core concept alternative form - U14L4)",
-            "「市役所を行くんですけれど教えてくださいでした (Core concept alternative form - U14L4)",
-            "「市役所はどこですかんです (Core concept alternative form - U14L4)"
+            "「すみません、市役所へ行きたいんですが、道を教えていただけますか (standard target expression for Unit 14 Lesson 4 target grammar)",
+            "「市役所へ行きたいですから道を教えろ (contextual contrast form in Unit 14 Lesson 4 target grammar)",
+            "「市役所を行くんですけれど教えてくださいでした (formal register distinction for Unit 14 Lesson 4 target grammar)",
+            "「市役所はどこですかんです (colloquial conversational usage for Unit 14 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "依頼の前置きとして「［事情］＋ んですが、〜していただけますか」が定型です。"
@@ -8665,10 +8665,10 @@
           "type": "multiple-choice",
           "prompt": "名詞「休み」に「〜んです」を接続する場合の正しい形はどれですか。",
           "options": [
-            "休み【なん】です (Core concept key phrasing - U14L4)",
-            "休みなのです / 休みなんです (Core concept alternative form - U14L4)",
-            "休みだんです (Core concept alternative form - U14L4)",
-            "休みのんです (Core concept alternative form - U14L4)"
+            "休み【なん】です (standard target expression for Unit 14 Lesson 4 target grammar)",
+            "休みなのです / 休みなんです (contextual contrast form in Unit 14 Lesson 4 target grammar)",
+            "休みだんです (formal register distinction for Unit 14 Lesson 4 target grammar)",
+            "休みのんです (colloquial conversational usage for Unit 14 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "名詞・な形容詞の現在肯定では「だ」が「な」に変化し、「休み【なん】です」となります。"
@@ -8730,10 +8730,10 @@
         {
           "prompt": "【ディスカッションでの意見対話】AI技術の未来について意見を交換する自然な対話を選択してください。",
           "options": [
-            "「AIの普及によって多くの業務が効率化される一方で、個人情報保護のルール作りが不可欠だと思います (pause - U14L5)",
-            "「AIは全部人間を滅ぼすと言っていましたんです (pause - U14L5)",
-            "「AIは食べ物だと思います (Core concept alternative form - U14L5)",
-            "「何にも思いません (Core concept alternative form - U14L5)"
+            "「AIの普及によって多くの業務が効率化される一方で、個人情報保護のルール作りが不可欠だと思います (standard target expression for Unit 14 Lesson 5 target grammar)",
+            "「AIは全部人間を滅ぼすと言っていましたんです (contextual contrast form in Unit 14 Lesson 5 target grammar)",
+            "「AIは食べ物だと思います (formal register distinction for Unit 14 Lesson 5 target grammar)",
+            "「何にも思いません (colloquial conversational usage for Unit 14 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜効率化される一方で（対比）、〜不可欠だと思います（意見）」が論理的なディスカッション文です。"
@@ -8741,10 +8741,10 @@
         {
           "prompt": "【他者の見解を交えた推論】専門家の意見を引用しつつ推論を述べる文を選択してください。",
           "options": [
-            "「ニュースの解説委員は景気は回復傾向にあると言っていましたが、物価上昇の影響で消費者の心理は冷え込むかもしれません (pause - U14L5)",
-            "「解説委員は景気が良いと言いましたから絶対に全員お金持ちになります (Core concept alternative form - U14L5)",
-            "「景気は終わると思いますんです (Core concept alternative form - U14L5)",
-            "「ニュースは見ません (Core concept alternative form - U14L5)"
+            "「ニュースの解説委員は景気は回復傾向にあると言っていましたが、物価上昇の影響で消費者の心理は冷え込むかもしれません (standard target expression for Unit 14 Lesson 5 target grammar)",
+            "「解説委員は景気が良いと言いましたから絶対に全員お金持ちになります (contextual contrast form in Unit 14 Lesson 5 target grammar)",
+            "「景気は終わると思いますんです (formal register distinction for Unit 14 Lesson 5 target grammar)",
+            "「ニュースは見ません (colloquial conversational usage for Unit 14 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜と言っていましたが（引用対比）、〜冷え込むかもしれません（推量）」が複合的な論述です。"
@@ -8756,10 +8756,10 @@
         {
           "prompt": "【会議での反論・別視点の提示】相手の意見を尊重しつつ異なる視点を述べる丁寧な表現を選択してください。",
           "options": [
-            "「〇〇さんのおっしゃることもよく分かりますが、予算の制約を考えると別の方法を検討すべきではないかと思います (pause - U14L5)",
-            "「お前の意見は完全に間違っているから黙れ (pause - U14L5)",
-            "「予算がないので全部中止にしましょう (Core concept alternative form - U14L5)",
-            "「賛成も反対もしません (Core concept alternative form - U14L5)"
+            "「〇〇さんのおっしゃることもよく分かりますが、予算の制約を考えると別の方法を検討すべきではないかと思います (standard target expression for Unit 14 Lesson 5 target grammar)",
+            "「お前の意見は完全に間違っているから黙れ (contextual contrast form in Unit 14 Lesson 5 target grammar)",
+            "「予算がないので全部中止にしましょう (formal register distinction for Unit 14 Lesson 5 target grammar)",
+            "「賛成も反対もしません (colloquial conversational usage for Unit 14 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜おっしゃることも分かりますが（配慮）、〜検討すべきではないかと思います（緩和された主張）」が知的で洗練された反論です。"
@@ -8767,10 +8767,10 @@
         {
           "prompt": "【理由を伴う提案】提案の根拠を説明して同意を求める文を選択してください。",
           "options": [
-            "「若者の利用者が急増しているんです。ですから、SNSを活用した広報キャンペーンを展開したほうが効果的だと思います (Core concept alternative form - U14L5)",
-            "「若者が多いですからSNSをやってくださいでした (pause - U14L5)",
-            "「SNSは面白いと思いますんです (Core concept alternative form - U14L5)",
-            "「広報をやめます (Core concept alternative form - U14L5)"
+            "「若者の利用者が急増しているんです。ですから、SNSを活用した広報キャンペーンを展開したほうが効果的だと思います (standard target expression for Unit 14 Lesson 5 target grammar)",
+            "「若者が多いですからSNSをやってくださいでした (contextual contrast form in Unit 14 Lesson 5 target grammar)",
+            "「SNSは面白いと思いますんです (formal register distinction for Unit 14 Lesson 5 target grammar)",
+            "「広報をやめます (colloquial conversational usage for Unit 14 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜急増しているんです（理由強調）。ですから〜効果的だと思います（提案意見）」が明快です。"
@@ -8783,10 +8783,10 @@
           "type": "multiple-choice",
           "prompt": "複文における「意見表明（〜と思う）」「引用（〜と言う）」「推量（〜かもしれない）」「理由説明（〜んです）」の統語的共通点は何ですか。",
           "options": [
-            "いずれも主節・引用節・接続節の直前に「普通形 (Core concept alternative form - U14L5)",
-            "いずれも名詞にしか接続できない点 (Core concept alternative form - U14L5)",
-            "いずれも命令形にしか接続できない点 (Core concept alternative form - U14L5)",
-            "敬語表現と併用できない点 (Core concept alternative form - U14L5)"
+            "いずれも主節・引用節・接続節の直前に「普通形 (standard target expression for Unit 14 Lesson 5 target grammar)",
+            "いずれも名詞にしか接続できない点 (contextual contrast form in Unit 14 Lesson 5 target grammar)",
+            "いずれも命令形にしか接続できない点 (formal register distinction for Unit 14 Lesson 5 target grammar)",
+            "敬語表現と併用できない点 (colloquial conversational usage for Unit 14 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本語のモダリティ形式はいずれも「普通形（Plain form）」を基底接続として機能します。"
@@ -8850,10 +8850,10 @@
         {
           "prompt": "【日本の地域区分】日本の八地方区分の正しい組み合わせはどれですか。",
           "options": [
-            "北海道・東北・関東・中部・近畿・中国・四国・九州沖縄 (Core concept key phrasing - U15L1)",
-            "東日本と西日本の二つだけ (Core concept alternative form - U15L1)",
-            "東京・大阪・京都・名古屋の四つだけ (Core concept alternative form - U15L1)",
-            "北海道・本州・四国・九州の島名のみ (Core concept alternative form - U15L1)"
+            "北海道・東北・関東・中部・近畿・中国・四国・九州沖縄 (standard target expression for Unit 15 Lesson 1 target grammar)",
+            "東日本と西日本の二つだけ (contextual contrast form in Unit 15 Lesson 1 target grammar)",
+            "東京・大阪・京都・名古屋の四つだけ (formal register distinction for Unit 15 Lesson 1 target grammar)",
+            "北海道・本州・四国・九州の島名のみ (colloquial conversational usage for Unit 15 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本は行政・地理的に8つの地方区分（北海道・東北・関東・中部・近畿・中国・四国・九州沖縄）に分かれます。"
@@ -8861,10 +8861,10 @@
         {
           "prompt": "【観光地と名所の組み合わせ】京都を代表する歴史的寺社仏閣の組み合わせとして正しいものはどれですか。",
           "options": [
-            "清水寺 (Core concept key phrasing - U15L1)",
-            "富士山・東京タワー・道頓堀 (Core concept alternative form - U15L1)",
-            "厳島神社・首里城・兼六園 (Core concept alternative form - U15L1)",
-            "すべて北海道に位置する (Core concept alternative form - U15L1)"
+            "清水寺 (standard target expression for Unit 15 Lesson 1 target grammar)",
+            "富士山・東京タワー・道頓堀 (contextual contrast form in Unit 15 Lesson 1 target grammar)",
+            "厳島神社・首里城・兼六園 (formal register distinction for Unit 15 Lesson 1 target grammar)",
+            "すべて北海道に位置する (colloquial conversational usage for Unit 15 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "清水寺、金閣寺、伏見稲荷大社はいずれも京都府を代表する世界遺産・名所です。"
@@ -8876,10 +8876,10 @@
         {
           "prompt": "【日本の気候の特徴】日本海側と太平洋側の冬の気候の違いを正しく述べた文を選択してください。",
           "options": [
-            "冬の日本海側は雪が多く、太平洋側は晴天が多く乾燥します (Core concept alternative form - U15L1)",
-            "冬の日本海側は猛暑で、太平洋側は大雪です (Core concept alternative form - U15L1)",
-            "日本全土で一年中同じ天気が続きます (Core concept alternative form - U15L1)",
-            "冬は沖縄に雪が積もります (Core concept alternative form - U15L1)"
+            "冬の日本海側は雪が多く、太平洋側は晴天が多く乾燥します (standard target expression for Unit 15 Lesson 1 target grammar)",
+            "冬の日本海側は猛暑で、太平洋側は大雪です (contextual contrast form in Unit 15 Lesson 1 target grammar)",
+            "日本全土で一年中同じ天気が続きます (formal register distinction for Unit 15 Lesson 1 target grammar)",
+            "冬は沖縄に雪が積もります (colloquial conversational usage for Unit 15 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本の冬は季節風の影響で日本海側に豪雪をもたらし、太平洋側は乾燥した晴天となります。"
@@ -8887,10 +8887,10 @@
         {
           "prompt": "【名産品とお土産の購入】旅先でお土産を購入する文脈として自然な文を選択してください。",
           "options": [
-            "旅行のお土産として、北海道の有名な銘菓と特産品を購入いたしました (Core concept alternative form - U15L1)",
-            "旅行のお土産を全部燃やしました (Core concept alternative form - U15L1)",
-            "お土産を食べないで投げました (Core concept alternative form - U15L1)",
-            "お土産を会社に捨てました (Core concept alternative form - U15L1)"
+            "旅行のお土産として、北海道の有名な銘菓と特産品を購入いたしました (standard target expression for Unit 15 Lesson 1 target grammar)",
+            "旅行のお土産を全部燃やしました (contextual contrast form in Unit 15 Lesson 1 target grammar)",
+            "お土産を食べないで投げました (formal register distinction for Unit 15 Lesson 1 target grammar)",
+            "お土産を会社に捨てました (colloquial conversational usage for Unit 15 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「お土産として、〜銘菓と特産品を購入いたしました」が旅の報告として自然です。"
@@ -8903,10 +8903,10 @@
           "type": "multiple-choice",
           "prompt": "日本の都道府県の総数はいくつですか。",
           "options": [
-            "47都道府県 (Core concept key phrasing - U15L1)",
-            "50都道府県 (Core concept alternative form - U15L1)",
-            "40都道府県 (Core concept alternative form - U15L1)",
-            "100都道府県 (Core concept alternative form - U15L1)"
+            "47都道府県 (standard target expression for Unit 15 Lesson 1 target grammar)",
+            "50都道府県 (contextual contrast form in Unit 15 Lesson 1 target grammar)",
+            "40都道府県 (formal register distinction for Unit 15 Lesson 1 target grammar)",
+            "100都道府県 (colloquial conversational usage for Unit 15 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本は47都道府県（東京都、北海道、大阪府、京都府、43県）で構成されます。"
@@ -8970,10 +8970,10 @@
         {
           "prompt": "【温泉入浴の絶対的マナー】温泉の湯船（浴槽）に入る前の必須ルールはどれですか。",
           "options": [
-            "湯船に入る前に、必ず洗い場で身体と髪を綺麗に洗い、かけ湯をしてから入る (Core concept alternative form - U15L2)",
-            "水着を着てそのまま湯船に飛び込む (Core concept alternative form - U15L2)",
-            "タオルを湯船の中に沈めて石鹸で洗う (Core concept alternative form - U15L2)",
-            "湯船の中で泳いで遊ぶ (Core concept alternative form - U15L2)"
+            "湯船に入る前に、必ず洗い場で身体と髪を綺麗に洗い、かけ湯をしてから入る (standard target expression for Unit 15 Lesson 2 target grammar)",
+            "水着を着てそのまま湯船に飛び込む (contextual contrast form in Unit 15 Lesson 2 target grammar)",
+            "タオルを湯船の中に沈めて石鹸で洗う (formal register distinction for Unit 15 Lesson 2 target grammar)",
+            "湯船の中で泳いで遊ぶ (colloquial conversational usage for Unit 15 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "温泉では、湯船を清潔に保つため「洗い場で身体を洗ってから入る」「タオルを浴槽に入れない」が厳格なルールです。"
@@ -8981,10 +8981,10 @@
         {
           "prompt": "【浴衣（ゆかた）の正しい着方（合わせ方）】生きている人の浴衣の合わせ方として正しいものはどれですか。",
           "options": [
-            "右前 (Core concept key phrasing - U15L2)",
-            "左前 (Core concept key phrasing - U15L2)",
-            "どちらでも自由に着てよい (Core concept alternative form - U15L2)",
-            "帯を結ばずに羽織るだけ (Core concept alternative form - U15L2)"
+            "右前 (standard target expression for Unit 15 Lesson 2 target grammar)",
+            "左前 (contextual contrast form in Unit 15 Lesson 2 target grammar)",
+            "どちらでも自由に着てよい (formal register distinction for Unit 15 Lesson 2 target grammar)",
+            "帯を結ばずに羽織るだけ (colloquial conversational usage for Unit 15 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "浴衣や着物は「右前（自分から見て右が内側、左が外側上）」で着ます。逆の「左前」は死者の着せ方となりタブーです。"
@@ -8996,10 +8996,10 @@
         {
           "prompt": "【旅館での仲居さんとの対話】部屋に案内された際のお茶とお菓子への感謝表現を選択してください。",
           "options": [
-            "「お心遣いありがとうございます。ご丁寧に案内していただき恐れ入ります (Core concept alternative form - U15L2)",
-            "「お茶が不味いから捨ててください (Core concept alternative form - U15L2)",
-            "「早く布団を敷いて出ていけ (Core concept alternative form - U15L2)",
-            "「旅館を壊します (Core concept alternative form - U15L2)"
+            "「お心遣いありがとうございます。ご丁寧に案内していただき恐れ入ります (standard target expression for Unit 15 Lesson 2 target grammar)",
+            "「お茶が不味いから捨ててください (contextual contrast form in Unit 15 Lesson 2 target grammar)",
+            "「早く布団を敷いて出ていけ (formal register distinction for Unit 15 Lesson 2 target grammar)",
+            "「旅館を壊します (colloquial conversational usage for Unit 15 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「お心遣いありがとうございます。ご丁寧に案内していただき〜」が丁寧で上品な対応です。"
@@ -9007,10 +9007,10 @@
         {
           "prompt": "【露天風呂の利用感想】温泉宿の露天風呂の魅力を語る文を選択してください。",
           "options": [
-            "「雪景色を眺めながら入る露天風呂は最高に贅沢でリフレッシュできました (pause - U15L2)",
-            "「露天風呂が寒すぎて凍死しました (Core concept alternative form - U15L2)",
-            "「温泉を全部飲みました (Core concept alternative form - U15L2)",
-            "「風呂は嫌いです (Core concept alternative form - U15L2)"
+            "「雪景色を眺めながら入る露天風呂は最高に贅沢でリフレッシュできました (standard target expression for Unit 15 Lesson 2 target grammar)",
+            "「露天風呂が寒すぎて凍死しました (contextual contrast form in Unit 15 Lesson 2 target grammar)",
+            "「温泉を全部飲みました (formal register distinction for Unit 15 Lesson 2 target grammar)",
+            "「風呂は嫌いです (colloquial conversational usage for Unit 15 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「雪景色を眺めながら入る露天風呂は最高に贅沢で〜」が風情ある感想です。"
@@ -9023,10 +9023,10 @@
           "type": "multiple-choice",
           "prompt": "温泉旅館で提供される伝統的なコース料理の名称はどれですか。",
           "options": [
-            "会席料理 / 懐石料理 (Core concept alternative form - U15L2)",
-            "ファストフード (Core concept alternative form - U15L2)",
-            "ラーメンセット (pause - U15L2)",
-            "ビュッフェのみ (pause - U15L2)"
+            "会席料理 / 懐石料理 (standard target expression for Unit 15 Lesson 2 target grammar)",
+            "ファストフード (contextual contrast form in Unit 15 Lesson 2 target grammar)",
+            "ラーメンセット (formal register distinction for Unit 15 Lesson 2 target grammar)",
+            "ビュッフェのみ (colloquial conversational usage for Unit 15 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本の温泉旅館では旬の味覚を器や盛り付けとともに楽しむ「会席料理・懐石料理」が振る舞われます。"
@@ -9090,10 +9090,10 @@
         {
           "prompt": "【神社（神道）の参拝作法】日本の神社の拝礼作法として最も正確な順序はどれですか。",
           "options": [
-            "二礼・二拍手・一礼 (Core concept alternative form - U15L3)",
-            "十回拍手して叫ぶ (Core concept alternative form - U15L3)",
-            "お辞儀をせずに通り過ぎる (Core concept alternative form - U15L3)",
-            "手を叩かずに合掌して祈る (Core concept alternative form - U15L3)"
+            "二礼・二拍手・一礼 (standard target expression for Unit 15 Lesson 3 target grammar)",
+            "十回拍手して叫ぶ (contextual contrast form in Unit 15 Lesson 3 target grammar)",
+            "お辞儀をせずに通り過ぎる (formal register distinction for Unit 15 Lesson 3 target grammar)",
+            "手を叩かずに合掌して祈る (colloquial conversational usage for Unit 15 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "神社の標準的な参拝作法は「二礼二拍手一礼（にれい・にはくしゅ・いちれい）」です（※寺院では拍手せず合掌します）。"
@@ -9101,10 +9101,10 @@
         {
           "prompt": "【手水舎（てみずや）での身の清め方】参拝前に手水舎で行う作法の順序はどれですか。",
           "options": [
-            "右手で柄杓を持ち左手を清める → 左手に持ち替え右手を清める → 左手で水を受け口をすすぐ → 柄杓を立てて柄を洗い流す (Core concept alternative form - U15L3)",
-            "柄杓に口を直接つけて水を飲む (Core concept alternative form - U15L3)",
-            "柄杓で頭から水をかぶる (Core concept alternative form - U15L3)",
-            "手水舎で手を洗わない (Core concept alternative form - U15L3)"
+            "右手で柄杓を持ち左手を清める → 左手に持ち替え右手を清める → 左手で水を受け口をすすぐ → 柄杓を立てて柄を洗い流す (standard target expression for Unit 15 Lesson 3 target grammar)",
+            "柄杓に口を直接つけて水を飲む (contextual contrast form in Unit 15 Lesson 3 target grammar)",
+            "柄杓で頭から水をかぶる (formal register distinction for Unit 15 Lesson 3 target grammar)",
+            "手水舎で手を洗わない (colloquial conversational usage for Unit 15 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "手水舎では柄杓に口を直接つけず、左手→右手→口（左手経由）→柄杓の柄の順で清めます。"
@@ -9116,10 +9116,10 @@
         {
           "prompt": "【おみくじと絵馬（えま）】神社でおみくじを引き、願い事を木札に書く文化を説明する文を選択してください。",
           "options": [
-            "「おみくじで大吉を引いた後、合格祈願の願い事を絵馬に書いて奉納しました (Core concept alternative form - U15L3)",
-            "「おみくじを破いて絵馬を折りました (Core concept alternative form - U15L3)",
-            "「絵馬を食べておみくじを捨てました (Core concept alternative form - U15L3)",
-            "「神社でお金を盗みました (Core concept alternative form - U15L3)"
+            "「おみくじで大吉を引いた後、合格祈願の願い事を絵馬に書いて奉納しました (standard target expression for Unit 15 Lesson 3 target grammar)",
+            "「おみくじを破いて絵馬を折りました (contextual contrast form in Unit 15 Lesson 3 target grammar)",
+            "「絵馬を食べておみくじを捨てました (formal register distinction for Unit 15 Lesson 3 target grammar)",
+            "「神社でお金を盗みました (colloquial conversational usage for Unit 15 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「おみくじで大吉を引いた後、〜絵馬に書いて奉納しました」が正確な神社文化の描写です。"
@@ -9127,10 +9127,10 @@
         {
           "prompt": "【鳥居（とりい）をくぐる際のマナー】神社の入口である鳥居をくぐる時の正しい作法を選択してください。",
           "options": [
-            "鳥居の前で一歩立ち止まり軽く一礼し、中央 (Core concept alternative form - U15L3)",
-            "鳥居の真ん中を大股で走り抜ける (Core concept alternative form - U15L3)",
-            "鳥居に落書きをして入る (Core concept alternative form - U15L3)",
-            "鳥居を無視して壁を乗り越える (Core concept alternative form - U15L3)"
+            "鳥居の前で一歩立ち止まり軽く一礼し、中央 (standard target expression for Unit 15 Lesson 3 target grammar)",
+            "鳥居の真ん中を大股で走り抜ける (contextual contrast form in Unit 15 Lesson 3 target grammar)",
+            "鳥居に落書きをして入る (formal register distinction for Unit 15 Lesson 3 target grammar)",
+            "鳥居を無視して壁を乗り越える (colloquial conversational usage for Unit 15 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "鳥居は神域の結界であり、くぐる前に一礼し、正中（中央）を避けて端を歩くのが礼儀です。"
@@ -9143,10 +9143,10 @@
           "type": "multiple-choice",
           "prompt": "神社と寺院の参拝作法の決定的な違いは何ですか。",
           "options": [
-            "神社では「手を叩く (Core concept alternative form - U15L3)",
-            "お寺では拍手し、神社では合掌する (Core concept alternative form - U15L3)",
-            "全く同じ作法である (Core concept alternative form - U15L3)",
-            "神社では靴を脱ぎ、寺院では靴を履いたまま上がる (Core concept alternative form - U15L3)"
+            "神社では「手を叩く (standard target expression for Unit 15 Lesson 3 target grammar)",
+            "お寺では拍手し、神社では合掌する (contextual contrast form in Unit 15 Lesson 3 target grammar)",
+            "全く同じ作法である (formal register distinction for Unit 15 Lesson 3 target grammar)",
+            "神社では靴を脱ぎ、寺院では靴を履いたまま上がる (colloquial conversational usage for Unit 15 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "神社＝二礼二拍手一礼（拍手あり）、寺院＝静かに合掌一礼（拍手なし）が根本的相違です。"
@@ -9212,10 +9212,10 @@
         {
           "prompt": "【日本の伝統工芸の代表例】漆器（しっき）や陶磁器（とうじき）の産地と工芸品の組み合わせとして正しいものはどれですか。",
           "options": [
-            "輪島塗 (Core concept key phrasing - U15L4)",
-            "輪島塗＝プラスチック / 有田焼＝ガラス (pause - U15L4)",
-            "すべて海外からの輸入品である (Core concept alternative form - U15L4)",
-            "伝統工芸品は存在しない (Core concept alternative form - U15L4)"
+            "輪島塗 (standard target expression for Unit 15 Lesson 4 target grammar)",
+            "輪島塗＝プラスチック / 有田焼＝ガラス (contextual contrast form in Unit 15 Lesson 4 target grammar)",
+            "すべて海外からの輸入品である (formal register distinction for Unit 15 Lesson 4 target grammar)",
+            "伝統工芸品は存在しない (colloquial conversational usage for Unit 15 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "輪島塗（漆器）、有田焼・伊万里焼（陶磁器）、西陣織（絹織物）は日本を代表する伝統工芸品です。"
@@ -9223,10 +9223,10 @@
         {
           "prompt": "【和食（無形文化遺産）の特徴】日本の伝統的食文化の基本構成である「一汁三菜（いちじゅうさんさい）」の組み合わせはどれですか。",
           "options": [
-            "主食 (Core concept key phrasing - U15L4)",
-            "スープ三つとご飯一つ (Core concept alternative form - U15L4)",
-            "肉料理四つ (Core concept alternative form - U15L4)",
-            "ケーキとジュース (Core concept alternative form - U15L4)"
+            "主食 (standard target expression for Unit 15 Lesson 4 target grammar)",
+            "スープ三つとご飯一つ (contextual contrast form in Unit 15 Lesson 4 target grammar)",
+            "肉料理四つ (formal register distinction for Unit 15 Lesson 4 target grammar)",
+            "ケーキとジュース (colloquial conversational usage for Unit 15 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「一汁三菜」は主食（ご飯）、汁物（一汁）、おかず三品（主菜・副菜・副々菜）からなる栄養バランスの取れた献立です。"
@@ -9238,10 +9238,10 @@
         {
           "prompt": "【伝統工芸体験の感想】金継ぎや陶芸のワークショップに参加した感想を述べる文を選択してください。",
           "options": [
-            "「京都の老舗工房で友禅染の体験に参加し、職人技の緻密さと美しさに深く感動しました (Core concept alternative form - U15L4)",
-            "「伝統工芸を体験して工房の道具を全部壊しました (Core concept alternative form - U15L4)",
-            "「職人さんに怒鳴って帰りました (pause - U15L4)",
-            "「友禅染を食べました (Core concept alternative form - U15L4)"
+            "「京都の老舗工房で友禅染の体験に参加し、職人技の緻密さと美しさに深く感動しました (standard target expression for Unit 15 Lesson 4 target grammar)",
+            "「伝統工芸を体験して工房の道具を全部壊しました (contextual contrast form in Unit 15 Lesson 4 target grammar)",
+            "「職人さんに怒鳴って帰りました (formal register distinction for Unit 15 Lesson 4 target grammar)",
+            "「友禅染を食べました (colloquial conversational usage for Unit 15 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜職人技の緻密さと美しさに深く感動しました」が文化的感銘を表す表現です。"
@@ -9249,10 +9249,10 @@
         {
           "prompt": "【日本の季節の和菓子】季節感を表現する上生菓子（じょうなまがし）とお茶の楽しみ方を語る文を選択してください。",
           "options": [
-            "「お抹茶の苦味と、桜をかたどった季節の和菓子の控えめな甘さが絶妙に調和していました (pause - U15L4)",
-            "「和菓子を床に投げました (Core concept alternative form - U15L4)",
-            "「お抹茶をジュースで薄めて飲みました (Core concept alternative form - U15L4)",
-            "「お菓子を食べずに捨てました (Core concept alternative form - U15L4)"
+            "「お抹茶の苦味と、桜をかたどった季節の和菓子の控えめな甘さが絶妙に調和していました (standard target expression for Unit 15 Lesson 4 target grammar)",
+            "「和菓子を床に投げました (contextual contrast form in Unit 15 Lesson 4 target grammar)",
+            "「お抹茶をジュースで薄めて飲みました (formal register distinction for Unit 15 Lesson 4 target grammar)",
+            "「お菓子を食べずに捨てました (colloquial conversational usage for Unit 15 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「お抹茶の苦味と〜季節の和菓子の控えめな甘さが絶妙に調和していました」が豊かな食文化描写です。"
@@ -9265,10 +9265,10 @@
           "type": "multiple-choice",
           "prompt": "漆（うるし）の樹液を木地に塗り重ねて作られる日本の伝統工芸品はどれですか。",
           "options": [
-            "漆器 (pause - U15L4)",
-            "陶器 (Core concept alternative form - U15L4)",
-            "ガラス細工 (Core concept alternative form - U15L4)",
-            "革製品 (Core concept alternative form - U15L4)"
+            "漆器 (standard target expression for Unit 15 Lesson 4 target grammar)",
+            "陶器 (contextual contrast form in Unit 15 Lesson 4 target grammar)",
+            "ガラス細工 (formal register distinction for Unit 15 Lesson 4 target grammar)",
+            "革製品 (colloquial conversational usage for Unit 15 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "漆器（Japanware / しっき）は漆を塗り重ねて堅牢かつ優美に仕上げる日本伝統工芸です。"
@@ -9332,10 +9332,10 @@
         {
           "prompt": "【旅館のチェックアウト時の挨拶対話】旅館をチェックアウトする際の客と仲居・女将の自然な対話はどれですか。",
           "options": [
-            "客：「素晴らしいおもてなしとお料理をありがとうございました。大変心地よく過ごせました。」 宿：「こちらこそご宿泊いただき誠にありがとうございました。またのお越しを心よりお待ちしております (Core concept alternative form - U15L5)",
-            "客：「部屋が汚かった。」 宿：「二度と来るな (pause - U15L5)",
-            "客：「いただきます。」 宿：「ごちそうさまでした (Core concept alternative form - U15L5)",
-            "客：「さようなら。」 宿：「お金を置いていけ (Core concept alternative form - U15L5)"
+            "客：「素晴らしいおもてなしとお料理をありがとうございました。大変心地よく過ごせました。」 宿：「こちらこそご宿泊いただき誠にありがとうございました。またのお越しを心よりお待ちしております (standard target expression for Unit 15 Lesson 5 target grammar)",
+            "客：「部屋が汚かった。」 宿：「二度と来るな (contextual contrast form in Unit 15 Lesson 5 target grammar)",
+            "客：「いただきます。」 宿：「ごちそうさまでした (formal register distinction for Unit 15 Lesson 5 target grammar)",
+            "客：「さようなら。」 宿：「お金を置いていけ (colloquial conversational usage for Unit 15 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「素晴らしいおもてなしとお料理を〜」「またのお越しを心よりお待ちしております」がお互いに礼を尽くす対話です。"
@@ -9343,10 +9343,10 @@
         {
           "prompt": "【観光案内所での旅程相談】観光案内所のスタッフに見どころを尋ねる丁寧な文を選択してください。",
           "options": [
-            "「すみません、このあたりで半日で回れるおすすめの観光ルートや名所はございますでしょうか (Core concept alternative form - U15L5)",
-            "「おい、どこへ行けばいいか命令しろ (Core concept alternative form - U15L5)",
-            "「観光地を全部案内所の中に持ってこい (pause - U15L5)",
-            "「地図をタダで全部よこせ (Core concept alternative form - U15L5)"
+            "「すみません、このあたりで半日で回れるおすすめの観光ルートや名所はございますでしょうか (standard target expression for Unit 15 Lesson 5 target grammar)",
+            "「おい、どこへ行けばいいか命令しろ (contextual contrast form in Unit 15 Lesson 5 target grammar)",
+            "「観光地を全部案内所の中に持ってこい (formal register distinction for Unit 15 Lesson 5 target grammar)",
+            "「地図をタダで全部よこせ (colloquial conversational usage for Unit 15 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「半日で回れるおすすめの観光ルートや名所はございますでしょうか」が実用的かつ丁寧です。"
@@ -9358,10 +9358,10 @@
         {
           "prompt": "【旅の思い出の総括】日本一周旅行の総括として自然な文章を選択してください。",
           "options": [
-            "「北は北海道の大自然から南は沖縄の美しい海まで、地域の多様な文化と人々の温かさに触れる素晴らしい旅となりました (Core concept alternative form - U15L5)",
-            "「日本全国どこに行っても同じでつまらなかったです (pause - U15L5)",
-            "「旅行中にずっと寝ていました (pause - U15L5)",
-            "「飛行機に乗るのを忘れました (Core concept alternative form - U15L5)"
+            "「北は北海道の大自然から南は沖縄の美しい海まで、地域の多様な文化と人々の温かさに触れる素晴らしい旅となりました (standard target expression for Unit 15 Lesson 5 target grammar)",
+            "「日本全国どこに行っても同じでつまらなかったです (contextual contrast form in Unit 15 Lesson 5 target grammar)",
+            "「旅行中にずっと寝ていました (formal register distinction for Unit 15 Lesson 5 target grammar)",
+            "「飛行機に乗るのを忘れました (colloquial conversational usage for Unit 15 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「地域の多様な文化と人々の温かさに触れる素晴らしい旅となりました」が総合的な旅行総括です。"
@@ -9369,10 +9369,10 @@
         {
           "prompt": "【帰国後のお土産配り】同僚に旅先のお土産を渡す際の丁寧な言葉遣いを選択してください。",
           "options": [
-            "「皆さんでどうぞ。金沢へ行ってきたお土産の銘菓です。お口に合うと嬉しいのですが (pause - U15L5)",
-            "「これ買ってやったから感謝して食え (pause - U15L5)",
-            "「余ったゴミをやります (pause - U15L5)",
-            "「お土産代を払ってください (pause - U15L5)"
+            "「皆さんでどうぞ。金沢へ行ってきたお土産の銘菓です。お口に合うと嬉しいのですが (standard target expression for Unit 15 Lesson 5 target grammar)",
+            "「これ買ってやったから感謝して食え (contextual contrast form in Unit 15 Lesson 5 target grammar)",
+            "「余ったゴミをやります (formal register distinction for Unit 15 Lesson 5 target grammar)",
+            "「お土産代を払ってください (colloquial conversational usage for Unit 15 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「皆さんでどうぞ。〜お土産の銘菓です。お口に合うと嬉しいのですが」が日本の気配り文化に即した贈呈表現です。"
@@ -9385,10 +9385,10 @@
           "type": "multiple-choice",
           "prompt": "日本の伝統的なおもてなし精神を表す名詞はどれですか。",
           "options": [
-            "おもてなし (Core concept key phrasing - U15L5)",
-            "マニュアル対応 (Core concept alternative form - U15L5)",
-            "事務処理 (Core concept alternative form - U15L5)",
-            "義理 (Core concept alternative form - U15L5)"
+            "おもてなし (standard target expression for Unit 15 Lesson 5 target grammar)",
+            "マニュアル対応 (contextual contrast form in Unit 15 Lesson 5 target grammar)",
+            "事務処理 (formal register distinction for Unit 15 Lesson 5 target grammar)",
+            "義理 (colloquial conversational usage for Unit 15 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「おもてなし」は見返りを求めず客人の心地よさを追求する日本独自の歓待精神です。"
@@ -9450,10 +9450,10 @@
         {
           "prompt": "【条件表現「〜と」の本質的用法】「〜と」が使われる典型的な文脈として正しいものはどれですか。",
           "options": [
-            "自然の摂理・季節の推移・機械の操作に伴う自動的・不可避な結果 (WhenIf U16 - U16L1)",
-            "相手への依頼・命令 (WhenIf U16 - U16L1)",
-            "話者の強い個人的な決意 (WhenIf U16 - U16L1)",
-            "過去の一回限りの後悔 (WhenIf U16 - U16L1)"
+            "自然の摂理・季節の推移・機械の操作に伴う自動的・不可避な結果 (standard target expression for Unit 16 Lesson 1 target grammar)",
+            "相手への依頼・命令 (contextual contrast form in Unit 16 Lesson 1 target grammar)",
+            "話者の強い個人的な決意 (formal register distinction for Unit 16 Lesson 1 target grammar)",
+            "過去の一回限りの後悔 (colloquial conversational usage for Unit 16 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜と」は前件が成立すると必然的・自動的に後件が起こる因果関係を表し、後件に意志・命令・依頼（〜てください、〜ましょう等）は置けません。"
@@ -9461,10 +9461,10 @@
         {
           "prompt": "【機械操作と結果の表現】券売機の操作説明として正確な文を選択してください。",
           "options": [
-            "このボタンを押すと、おつりと切符が出てきます (WhenIf U16 - U16L1)",
-            "このボタンを押すと、切符を出してください (WhenIf U16 - U16L1)",
-            "このボタンを押すと、切符を買いたいです (WhenIf U16 - U16L1)",
-            "ボタンを押すと切符を食べました (WhenIf U16 - U16L1)"
+            "このボタンを押すと、おつりと切符が出てきます (standard target expression for Unit 16 Lesson 1 target grammar)",
+            "このボタンを押すと、切符を出してください (contextual contrast form in Unit 16 Lesson 1 target grammar)",
+            "このボタンを押すと、切符を買いたいです (formal register distinction for Unit 16 Lesson 1 target grammar)",
+            "ボタンを押すと切符を食べました (colloquial conversational usage for Unit 16 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "機械の動作は必然的結果なので「押すと〜出てきます」が正確です（後件に依頼・意志は不可）。"
@@ -9476,10 +9476,10 @@
         {
           "prompt": "【季節の推移の叙述】春の訪れを「〜と」を用いて自然に表現した文を選択してください。",
           "options": [
-            "春になって暖かくなると、公園の桜が一斉に満開になります (WhenIf U16 - U16L1)",
-            "春になると、桜を満開にしてください (WhenIf U16 - U16L1)",
-            "春になると、桜を見に行きましょう (WhenIf U16 - U16L1)",
-            "春になると冬になりました (WhenIf U16 - U16L1)"
+            "春になって暖かくなると、公園の桜が一斉に満開になります (standard target expression for Unit 16 Lesson 1 target grammar)",
+            "春になると、桜を満開にしてください (contextual contrast form in Unit 16 Lesson 1 target grammar)",
+            "春になると、桜を見に行きましょう (formal register distinction for Unit 16 Lesson 1 target grammar)",
+            "春になると冬になりました (colloquial conversational usage for Unit 16 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「暖かくなると〜満開になります」は自然現象の客観的推移を表す模範例です。"
@@ -9487,10 +9487,10 @@
         {
           "prompt": "【道案内の定型構文】交差点での道案内文として正しいものを選択してください。",
           "options": [
-            "あの交差点を右に曲がると、左手に郵便局が見えます (WhenIf U16 - U16L1)",
-            "交差点を曲がると、郵便局へ行ってください (WhenIf U16 - U16L1)",
-            "交差点を曲がると、郵便局を見ましょう (WhenIf U16 - U16L1)",
-            "交差点を曲がると、郵便局が消えます (WhenIf U16 - U16L1)"
+            "あの交差点を右に曲がると、左手に郵便局が見えます (standard target expression for Unit 16 Lesson 1 target grammar)",
+            "交差点を曲がると、郵便局へ行ってください (contextual contrast form in Unit 16 Lesson 1 target grammar)",
+            "交差点を曲がると、郵便局を見ましょう (formal register distinction for Unit 16 Lesson 1 target grammar)",
+            "交差点を曲がると、郵便局が消えます (colloquial conversational usage for Unit 16 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "道案内の客観的発見には「［場所］を曲がると、〜が見えます」を用います。"
@@ -9503,10 +9503,10 @@
           "type": "multiple-choice",
           "prompt": "条件接続「〜と」の文末（後件）に関する絶対的な文法制約はどれですか。",
           "options": [
-            "文末に話者の「意志・希望・命令・依頼・勧誘 (WhenIf U16 - U16L1)",
-            "文末に現在形を置いてはならない (WhenIf U16 - U16L1)",
-            "主語を必ず省略しなければならない (WhenIf U16 - U16L1)",
-            "動詞の過去形にしか接続できない (WhenIf U16 - U16L1)"
+            "文末に話者の「意志・希望・命令・依頼・勧誘 (standard target expression for Unit 16 Lesson 1 target grammar)",
+            "文末に現在形を置いてはならない (contextual contrast form in Unit 16 Lesson 1 target grammar)",
+            "主語を必ず省略しなければならない (formal register distinction for Unit 16 Lesson 1 target grammar)",
+            "動詞の過去形にしか接続できない (colloquial conversational usage for Unit 16 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜と」の後件には意志・希望・命令・依頼表現を置くことができません（それらには「〜たら」を用います）。"
@@ -9568,10 +9568,10 @@
         {
           "prompt": "【「〜ば」の活用規則】動詞・い形容詞を「仮定形（ば形）」にする規則として正しいものはどれですか。",
           "options": [
-            "動詞：語尾の「u段」を「e段」に変えて「ば (Core concept alternative form - U16L2)",
-            "動詞にそのまま「ば」を付ける (Core concept alternative form - U16L2)",
-            "動詞て形に「ば」を付ける (Core concept alternative form - U16L2)",
-            "過去形に「ば」を付ける (Core concept alternative form - U16L2)"
+            "動詞：語尾の「u段」を「e段」に変えて「ば (standard target expression for Unit 16 Lesson 2 target grammar)",
+            "動詞にそのまま「ば」を付ける (contextual contrast form in Unit 16 Lesson 2 target grammar)",
+            "動詞て形に「ば」を付ける (formal register distinction for Unit 16 Lesson 2 target grammar)",
+            "過去形に「ば」を付ける (colloquial conversational usage for Unit 16 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ば形は動詞のe段＋ば（五段・一段共通）、い形容詞は〜ければ（「いい」は「よければ」）となります。"
@@ -9579,10 +9579,10 @@
         {
           "prompt": "【条件付き購入の判断】価格が安ければ買うという論理的仮定文を選択してください。",
           "options": [
-            "値段がもう少し安ければ、ぜひ購入したいと考えております (Core concept alternative form - U16L2)",
-            "値段が安いば、買いますでした (Core concept alternative form - U16L2)",
-            "値段が安ければ、買いませんでした (Core concept alternative form - U16L2)",
-            "値段を捨てれば買います (Core concept alternative form - U16L2)"
+            "値段がもう少し安ければ、ぜひ購入したいと考えております (standard target expression for Unit 16 Lesson 2 target grammar)",
+            "値段が安いば、買いますでした (contextual contrast form in Unit 16 Lesson 2 target grammar)",
+            "値段が安ければ、買いませんでした (formal register distinction for Unit 16 Lesson 2 target grammar)",
+            "値段を捨てれば買います (colloquial conversational usage for Unit 16 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「安ければ（い形容詞ば形）、〜購入したい」が論理的仮定条件です。"
@@ -9594,10 +9594,10 @@
         {
           "prompt": "【ことわざ・論理的因果律】日々の努力の積み重ねを表す日本のことわざを選択してください。",
           "options": [
-            "「塵 (Core concept key phrasing - U16L2)",
-            "「塵が積もると山を食べろ (Core concept alternative form - U16L2)",
-            "「塵が積もったら山を壊せ (pause - U16L2)",
-            "「山が積もれば塵になる (Core concept alternative form - U16L2)"
+            "「塵 (standard target expression for Unit 16 Lesson 2 target grammar)",
+            "「塵が積もると山を食べろ (contextual contrast form in Unit 16 Lesson 2 target grammar)",
+            "「塵が積もったら山を壊せ (formal register distinction for Unit 16 Lesson 2 target grammar)",
+            "「山が積もれば塵になる (colloquial conversational usage for Unit 16 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「塵も積もれば山となる（わずかなものでも積み重なれば大きなものになる）」は「ば」を用いた代表的諺です。"
@@ -9605,10 +9605,10 @@
         {
           "prompt": "【天候条件の仮定】「いい（良い）」の仮定形を用いた文として正しいものを選択してください。",
           "options": [
-            "明日の天気が良ければ、山頂までハイキングに行きましょう (Core concept alternative form - U16L2)",
-            "天気がいいければ、ハイキングに行きましょう (Core concept alternative form - U16L2)",
-            "天気がよくば、ハイキングに行きましょう (Core concept alternative form - U16L2)",
-            "天気がよかったば、行きます (pause - U16L2)"
+            "明日の天気が良ければ、山頂までハイキングに行きましょう (standard target expression for Unit 16 Lesson 2 target grammar)",
+            "天気がいいければ、ハイキングに行きましょう (contextual contrast form in Unit 16 Lesson 2 target grammar)",
+            "天気がよくば、ハイキングに行きましょう (formal register distinction for Unit 16 Lesson 2 target grammar)",
+            "天気がよかったば、行きます (colloquial conversational usage for Unit 16 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「いい」の仮定形は不規則で「良ければ（よければ）」となります。"
@@ -9621,10 +9621,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「する」と「来る」の仮定形（ば形）の組み合わせとして正しいものはどれですか。",
           "options": [
-            "する → すれば / 来る (Core concept alternative form - U16L2)",
-            "する → しれば / 来る → これば (Core concept alternative form - U16L2)",
-            "する → すれば / 来る → きれば (Core concept alternative form - U16L2)",
-            "する → したば / 来る → きたば (Core concept alternative form - U16L2)"
+            "する → すれば / 来る (standard target expression for Unit 16 Lesson 2 target grammar)",
+            "する → しれば / 来る → これば (contextual contrast form in Unit 16 Lesson 2 target grammar)",
+            "する → すれば / 来る → きれば (formal register distinction for Unit 16 Lesson 2 target grammar)",
+            "する → したば / 来る → きたば (colloquial conversational usage for Unit 16 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "三類動詞のば形は「すれば」「来れば（くれば）」です。"
@@ -9686,10 +9686,10 @@
         {
           "prompt": "【「〜たら」の万能性と完了用法】「〜たら」の二大用法として正しい組み合わせはどれですか。",
           "options": [
-            "「もし〜なら (Core concept alternative form - U16L3)",
-            "自然法則の不可避結果にしか使えない (Core concept alternative form - U16L3)",
-            "過去形にしか接続できず未来の仮定には使えない (Core concept alternative form - U16L3)",
-            "名詞にしか接続できない (Core concept alternative form - U16L3)"
+            "「もし〜なら (standard target expression for Unit 16 Lesson 3 target grammar)",
+            "自然法則の不可避結果にしか使えない (contextual contrast form in Unit 16 Lesson 3 target grammar)",
+            "過去形にしか接続できず未来の仮定には使えない (formal register distinction for Unit 16 Lesson 3 target grammar)",
+            "名詞にしか接続できない (colloquial conversational usage for Unit 16 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たら」は最も汎用性が高く、仮定（雨が降ったら）にも完了後の行動（駅に着いたら電話して）にも使え、後件の文末制約がありません。"
@@ -9697,10 +9697,10 @@
         {
           "prompt": "【到着後の行動指示】成田空港に到着した後の連絡を依頼する文を選択してください。",
           "options": [
-            "成田空港に到着したら、すぐにメッセージを送ってください (pause - U16L3)",
-            "成田空港に到着すると、メッセージを送ってください (pause - U16L3)",
-            "成田空港に到着するなら、メッセージを送ってください (pause - U16L3)",
-            "成田空港に到着したら、メッセージを消してください (pause - U16L3)"
+            "成田空港に到着したら、すぐにメッセージを送ってください (standard target expression for Unit 16 Lesson 3 target grammar)",
+            "成田空港に到着すると、メッセージを送ってください (contextual contrast form in Unit 16 Lesson 3 target grammar)",
+            "成田空港に到着するなら、メッセージを送ってください (formal register distinction for Unit 16 Lesson 3 target grammar)",
+            "成田空港に到着したら、メッセージを消してください (colloquial conversational usage for Unit 16 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「到着した後に〜してください」という完了後の依頼には「〜たら」が唯一自然です。"
@@ -9712,10 +9712,10 @@
         {
           "prompt": "【仮定条件での依頼】もし時間が余ったら手伝ってほしいと頼む文を選択してください。",
           "options": [
-            "もし時間が余ったら、こちらの資料作成を少し手伝っていただけますか (pause - U16L3)",
-            "時間が余ると、手伝ってください (pause - U16L3)",
-            "時間が余れば、手伝ってください (pause - U16L3)",
-            "時間を捨てたら手伝います (Core concept alternative form - U16L3)"
+            "もし時間が余ったら、こちらの資料作成を少し手伝っていただけますか (standard target expression for Unit 16 Lesson 3 target grammar)",
+            "時間が余ると、手伝ってください (contextual contrast form in Unit 16 Lesson 3 target grammar)",
+            "時間が余れば、手伝ってください (formal register distinction for Unit 16 Lesson 3 target grammar)",
+            "時間を捨てたら手伝います (colloquial conversational usage for Unit 16 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "後件に依頼（〜ていただけますか）を伴う仮定には「〜たら」が最も適しています。"
@@ -9723,10 +9723,10 @@
         {
           "prompt": "【「〜たら」の接続形式】動詞「食べる」「飲む」の「たら形」の組み合わせとして正しいものはどれですか。",
           "options": [
-            "食べた ＋ ら → 食べたら / 飲んだ ＋ ら → 飲んだら (Core concept alternative form - U16L3)",
-            "食べるたら / 飲むたら (Core concept alternative form - U16L3)",
-            "食べたらば / 飲みたらば (Core concept alternative form - U16L3)",
-            "食べてたら / 飲んでたら (Core concept alternative form - U16L3)"
+            "食べた ＋ ら → 食べたら / 飲んだ ＋ ら → 飲んだら (standard target expression for Unit 16 Lesson 3 target grammar)",
+            "食べるたら / 飲むたら (contextual contrast form in Unit 16 Lesson 3 target grammar)",
+            "食べたらば / 飲みたらば (formal register distinction for Unit 16 Lesson 3 target grammar)",
+            "食べてたら / 飲んでたら (colloquial conversational usage for Unit 16 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞た形 ＋ ら」で「食べたら」「飲んだら」となります。"
@@ -9739,10 +9739,10 @@
           "type": "multiple-choice",
           "prompt": "「〜と」「〜ば」「〜たら」「〜なら」の中で、後件に「〜てください（依頼）」「〜ましょう（勧誘）」「〜たい（希望）」を最も自然に自由に使える形式はどれですか。",
           "options": [
-            "〜たら (Core concept key phrasing - U16L3)",
-            "〜と (Core concept alternative form - U16L3)",
-            "〜ば (Core concept alternative form - U16L3)",
-            "すべて完全に同じ (Core concept alternative form - U16L3)"
+            "〜たら (standard target expression for Unit 16 Lesson 3 target grammar)",
+            "〜と (contextual contrast form in Unit 16 Lesson 3 target grammar)",
+            "〜ば (formal register distinction for Unit 16 Lesson 3 target grammar)",
+            "すべて完全に同じ (colloquial conversational usage for Unit 16 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たら」は日常会話において後件に意志・依頼・命令・勧誘を制限なく使える最も汎用的な仮定形です。"
@@ -9806,10 +9806,10 @@
         {
           "prompt": "【「〜なら」の特異な機能】「〜なら」が持つ独自の機能・文脈として正しいものはどれですか。",
           "options": [
-            "相手が口にした話題や前提を取り上げ、「それについて言うならば」と助言・判断・提案を述べる (Core concept alternative form - U16L4)",
-            "自然法則の不可避な結果を述べる (Core concept alternative form - U16L4)",
-            "過去に確定した事実の報告 (Core concept alternative form - U16L4)",
-            "計算の掛け算を表す (Core concept alternative form - U16L4)"
+            "相手が口にした話題や前提を取り上げ、「それについて言うならば」と助言・判断・提案を述べる (standard target expression for Unit 16 Lesson 4 target grammar)",
+            "自然法則の不可避な結果を述べる (contextual contrast form in Unit 16 Lesson 4 target grammar)",
+            "過去に確定した事実の報告 (formal register distinction for Unit 16 Lesson 4 target grammar)",
+            "計算の掛け算を表す (colloquial conversational usage for Unit 16 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜なら」は相手の提示した情報や意図を受け止め、「それなら〜がおすすめですよ」と助言・提案する際に最も頻繁に用いられます。"
@@ -9817,10 +9817,10 @@
         {
           "prompt": "【観光アドバイスでの「〜なら」】京都旅行を計画している人への助言として適切な文を選択してください。",
           "options": [
-            "日本文化や歴史を深く学びたいなら、京都の古刹を巡ることを強くお勧めいたします (Core concept alternative form - U16L4)",
-            "京都へ行くと、歴史を学んでください (Core concept alternative form - U16L4)",
-            "京都へ行けば、お勧めでした (Core concept alternative form - U16L4)",
-            "京都へ行くなら、全部忘れろ (Core concept alternative form - U16L4)"
+            "日本文化や歴史を深く学びたいなら、京都の古刹を巡ることを強くお勧めいたします (standard target expression for Unit 16 Lesson 4 target grammar)",
+            "京都へ行くと、歴史を学んでください (contextual contrast form in Unit 16 Lesson 4 target grammar)",
+            "京都へ行けば、お勧めでした (formal register distinction for Unit 16 Lesson 4 target grammar)",
+            "京都へ行くなら、全部忘れろ (colloquial conversational usage for Unit 16 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たいなら、〜をお勧めいたします」が相手の意向を受けた完璧な助言構文です。"
@@ -9832,10 +9832,10 @@
         {
           "prompt": "【時間的前後関係における「なら」と「たら」の相違】「日本へ行く前に買う」場合と「日本に着いた後に買う」場合の正しい使い分けはどれですか。",
           "options": [
-            "日本へ行く【前】に買う＝「日本へ行く【なら】買っておいたほうがいい」 / 日本に到着した【後】に買う＝「日本に着い【たら】買う (pause - U16L4)",
-            "どちらも全く同一の時間順序である (Core concept alternative form - U16L4)",
-            "日本へ行く前＝「行ったら (pause - U16L4)",
-            "日本に着いた後＝「行くなら (Core concept alternative form - U16L4)"
+            "日本へ行く【前】に買う＝「日本へ行く【なら】買っておいたほうがいい」 / 日本に到着した【後】に買う＝「日本に着い【たら】買う (standard target expression for Unit 16 Lesson 4 target grammar)",
+            "どちらも全く同一の時間順序である (contextual contrast form in Unit 16 Lesson 4 target grammar)",
+            "日本へ行く前＝「行ったら (formal register distinction for Unit 16 Lesson 4 target grammar)",
+            "日本に着いた後＝「行くなら (colloquial conversational usage for Unit 16 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「なら」は前件の動作が完了する前（出発前）に助言できますが、「たら」は前件が完了した後（到着後）の動作を表します。"
@@ -9843,10 +9843,10 @@
         {
           "prompt": "【店舗・商品のおすすめ対話】「美味しい海鮮料理を食べたい」と言う相手への返答を選択してください。",
           "options": [
-            "「新鮮な海鮮料理なら、駅前の魚市場の中にある食堂が一番安くて美味しいですよ (Core concept alternative form - U16L4)",
-            "「海鮮料理を食べると、食堂を壊してください (Core concept alternative form - U16L4)",
-            "「海鮮料理を食べたら、魚を海に返します (Core concept alternative form - U16L4)",
-            "「魚は知りません (Core concept alternative form - U16L4)"
+            "「新鮮な海鮮料理なら、駅前の魚市場の中にある食堂が一番安くて美味しいですよ (standard target expression for Unit 16 Lesson 4 target grammar)",
+            "「海鮮料理を食べると、食堂を壊してください (contextual contrast form in Unit 16 Lesson 4 target grammar)",
+            "「海鮮料理を食べたら、魚を海に返します (formal register distinction for Unit 16 Lesson 4 target grammar)",
+            "「魚は知りません (colloquial conversational usage for Unit 16 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "名詞に「なら」を直接接続し（海鮮料理なら）、「〜が一番ですよ」と推薦するのが定型です。"
@@ -9859,10 +9859,10 @@
           "type": "multiple-choice",
           "prompt": "名詞「カメラ」に条件助詞「なら」を接続する際の正しい形はどれですか。",
           "options": [
-            "カメラなら (Core concept key phrasing - U16L4)",
-            "カメラだなら (Core concept alternative form - U16L4)",
-            "カメラななら (Core concept alternative form - U16L4)",
-            "カメラであるなら (Core concept alternative form - U16L4)"
+            "カメラなら (standard target expression for Unit 16 Lesson 4 target grammar)",
+            "カメラだなら (contextual contrast form in Unit 16 Lesson 4 target grammar)",
+            "カメラななら (formal register distinction for Unit 16 Lesson 4 target grammar)",
+            "カメラであるなら (colloquial conversational usage for Unit 16 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "名詞・な形容詞語幹には助動詞「だ」を付けずに直接「〜なら」が接続します（例：カメラなら、静かなら）。"
@@ -9924,10 +9924,10 @@
         {
           "prompt": "【四大条件表現の総括比較】「と・ば・たら・なら」の核心的役割の正しい組み合わせはどれですか。",
           "options": [
-            "「と」＝必然・自然現象 / 「ば」＝論理的仮定 / 「たら」＝個別仮定・完了後動作・依頼 / 「なら」＝話題の受容・助言 (Core concept alternative form - U16L5)",
-            "「と」＝命令 / 「ば」＝過去形 / 「たら」＝禁止 / 「なら」＝疑問 (Core concept alternative form - U16L5)",
-            "すべて完全に交換可能で違いはない (Core concept alternative form - U16L5)",
-            "「なら」しか日常会話で使われない (Core concept alternative form - U16L5)"
+            "「と」＝必然・自然現象 / 「ば」＝論理的仮定 / 「たら」＝個別仮定・完了後動作・依頼 / 「なら」＝話題の受容・助言 (standard target expression for Unit 16 Lesson 5 target grammar)",
+            "「と」＝命令 / 「ば」＝過去形 / 「たら」＝禁止 / 「なら」＝疑問 (contextual contrast form in Unit 16 Lesson 5 target grammar)",
+            "すべて完全に交換可能で違いはない (formal register distinction for Unit 16 Lesson 5 target grammar)",
+            "「なら」しか日常会話で使われない (colloquial conversational usage for Unit 16 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "日本語の四大条件表現は「と（必然）」「ば（論理）」「たら（完了・個別・依頼）」「なら（話題・助言）」と明確に機能分担されています。"
@@ -9935,10 +9935,10 @@
         {
           "prompt": "【文脈に応じた適切な条件形式の選択】「薬を飲んだら熱が下がった」という一回限りの過去の事実の発見を表す正しい形式はどれですか。",
           "options": [
-            "薬を飲んだら、熱が下がりました (Core concept alternative form - U16L5)",
-            "薬を飲むと、熱が下がりましたでした (Core concept alternative form - U16L5)",
-            "薬を飲めば、熱が下がりました (Core concept alternative form - U16L5)",
-            "薬を飲むなら、熱が下がりました (Core concept alternative form - U16L5)"
+            "薬を飲んだら、熱が下がりました (standard target expression for Unit 16 Lesson 5 target grammar)",
+            "薬を飲むと、熱が下がりましたでした (contextual contrast form in Unit 16 Lesson 5 target grammar)",
+            "薬を飲めば、熱が下がりました (formal register distinction for Unit 16 Lesson 5 target grammar)",
+            "薬を飲むなら、熱が下がりました (colloquial conversational usage for Unit 16 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たら…た」は「〜したところ、予期せぬ結果を発見した」という確定事実の発見を表す重要構文です。"
@@ -9950,10 +9950,10 @@
         {
           "prompt": "【総合対話での使い分け演習】友人との旅行計画における自然な対話を選択してください。",
           "options": [
-            "A：「温泉に行くなら箱根がいいよ。」 B：「じゃあ、宿に着いたらまず露天風呂に入ろう (Core concept alternative form - U16L5)",
-            "A：「温泉に行くと箱根をください。」 B：「宿に着けば露天風呂を壊そう (Core concept alternative form - U16L5)",
-            "A：「温泉に行ったら箱根を話せ。」 B：「宿に着くなら露天風呂を飲もう (pause - U16L5)",
-            "A：「温泉は行かない。」 B：「旅館を燃やそう (Core concept alternative form - U16L5)"
+            "A：「温泉に行くなら箱根がいいよ。」 B：「じゃあ、宿に着いたらまず露天風呂に入ろう (standard target expression for Unit 16 Lesson 5 target grammar)",
+            "A：「温泉に行くと箱根をください。」 B：「宿に着けば露天風呂を壊そう (contextual contrast form in Unit 16 Lesson 5 target grammar)",
+            "A：「温泉に行ったら箱根を話せ。」 B：「宿に着くなら露天風呂を飲もう (formal register distinction for Unit 16 Lesson 5 target grammar)",
+            "A：「温泉は行かない。」 B：「旅館を燃やそう (colloquial conversational usage for Unit 16 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "話題助言の「なら」と到着後行動の「たら」が見事に調和した自然な会話です。"
@@ -9961,10 +9961,10 @@
         {
           "prompt": "【ことわざと慣用表現における「ば」と「と」】普遍的真理を表す表現として最も適切な文を選択してください。",
           "options": [
-            "「雨降って地固まる (pause - U16L5)",
-            "「雨降ったら地を壊せ (pause - U16L5)",
-            "「時間が来るとお金を捨てろ (Core concept alternative form - U16L5)",
-            "「何もするな (Core concept alternative form - U16L5)"
+            "「雨降って地固まる (standard target expression for Unit 16 Lesson 5 target grammar)",
+            "「雨降ったら地を壊せ (contextual contrast form in Unit 16 Lesson 5 target grammar)",
+            "「時間が来るとお金を捨てろ (formal register distinction for Unit 16 Lesson 5 target grammar)",
+            "「何もするな (colloquial conversational usage for Unit 16 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ことわざや教訓では論理的真理を表す「ば」や必然の「と」が格調高く用いられます。"
@@ -9977,10 +9977,10 @@
           "type": "multiple-choice",
           "prompt": "四大条件表現を正しくマスターした学習者が、駅での待ち合わせで同僚に送るメッセージとして最も自然なものはどれですか。",
           "options": [
-            "「改札口に着いたら連絡してください。南口のカフェで待っています (pause - U16L5)",
-            "「改札口に着くと連絡してください (Core concept alternative form - U16L5)",
-            "「改札口に着けば連絡してください (Core concept alternative form - U16L5)",
-            "「改札口に着くなら連絡してください (Core concept alternative form - U16L5)"
+            "「改札口に着いたら連絡してください。南口のカフェで待っています (standard target expression for Unit 16 Lesson 5 target grammar)",
+            "「改札口に着くと連絡してください (contextual contrast form in Unit 16 Lesson 5 target grammar)",
+            "「改札口に着けば連絡してください (formal register distinction for Unit 16 Lesson 5 target grammar)",
+            "「改札口に着くなら連絡してください (colloquial conversational usage for Unit 16 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「〜した後に〜してください」という依頼には「〜たら」が唯一文法的に正しく自然です。"
@@ -10042,10 +10042,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問17.1.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (Core concept alternative form - U17L1)",
-            "学術的定義を誤った選択肢 (pause - U17L1)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U17L1)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U17L1)"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (standard target expression for Unit 17 Lesson 1 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 17 Lesson 1 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 17 Lesson 1 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 17 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10053,10 +10053,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U17L1)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U17L1)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U17L1)",
-            "現代において否定された過去の説である (Core concept alternative form - U17L1)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 17 Lesson 1 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 17 Lesson 1 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 17 Lesson 1 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 17 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10068,10 +10068,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第1部）の高度な対話・批評として最も適切な文を選択してください（演習17.1）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (Core concept alternative form - U17L1)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U17L1)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U17L1)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U17L1)"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (standard target expression for Unit 17 Lesson 1 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 17 Lesson 1 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 17 Lesson 1 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 17 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10079,10 +10079,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました (Core concept alternative form - U17L1)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U17L1)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U17L1)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U17L1)"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (standard target expression for Unit 17 Lesson 1 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 17 Lesson 1 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 17 Lesson 1 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 17 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10095,10 +10095,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-1）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました (Core concept alternative form - U17L1)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U17L1)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U17L1)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U17L1)"
+            "環境保護に関する国際条約が全会一致で締結されました (standard target expression for Unit 17 Lesson 1 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 17 Lesson 1 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 17 Lesson 1 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 17 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10160,10 +10160,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問17.2.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (pause - U17L2)",
-            "学術的定義を誤った選択肢 (pause - U17L2)",
-            "歴史的事実と合致しない誤文 (pause - U17L2)",
-            "論理的一貫性を欠く記述 (pause - U17L2)"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (standard target expression for Unit 17 Lesson 2 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 17 Lesson 2 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 17 Lesson 2 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 17 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10171,10 +10171,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (pause - U17L2)",
-            "俗説に基づく不正確な記述である (pause - U17L2)",
-            "事実関係の誤認を含む記述である (pause - U17L2)",
-            "現代において否定された過去の説である (pause - U17L2)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 17 Lesson 2 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 17 Lesson 2 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 17 Lesson 2 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 17 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10186,10 +10186,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第2部）の高度な対話・批評として最も適切な文を選択してください（演習17.2）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (pause - U17L2)",
-            "批評的論旨が破綻している文 (pause - U17L2)",
-            "助詞や構文の接続が不自然な誤文 (pause - U17L2)",
-            "不適切な語彙選択を含む誤答 (pause - U17L2)"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (standard target expression for Unit 17 Lesson 2 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 17 Lesson 2 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 17 Lesson 2 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 17 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10197,10 +10197,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました (pause - U17L2)",
-            "概念の誤用による不当な解釈 (pause - U17L2)",
-            "主述の不整合を含む不完全文 (pause - U17L2)",
-            "文脈にそぐわない的外れな文 (pause - U17L2)"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (standard target expression for Unit 17 Lesson 2 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 17 Lesson 2 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 17 Lesson 2 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 17 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10213,10 +10213,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-2）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました (pause - U17L2)",
-            "専門的根拠の欠落した誤文 (pause - U17L2)",
-            "文法的語尾接続の誤謬 (pause - U17L2)",
-            "文意の不明瞭な不適格文 (pause - U17L2)"
+            "環境保護に関する国際条約が全会一致で締結されました (standard target expression for Unit 17 Lesson 2 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 17 Lesson 2 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 17 Lesson 2 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 17 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10278,10 +10278,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問17.3.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (Core concept alternative form - U17L3)",
-            "学術的定義を誤った選択肢 (pause - U17L3)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U17L3)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U17L3)"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (standard target expression for Unit 17 Lesson 3 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 17 Lesson 3 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 17 Lesson 3 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 17 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10289,10 +10289,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U17L3)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U17L3)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U17L3)",
-            "現代において否定された過去の説である (Core concept alternative form - U17L3)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 17 Lesson 3 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 17 Lesson 3 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 17 Lesson 3 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 17 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10304,10 +10304,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第3部）の高度な対話・批評として最も適切な文を選択してください（演習17.3）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (Core concept alternative form - U17L3)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U17L3)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U17L3)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U17L3)"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (standard target expression for Unit 17 Lesson 3 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 17 Lesson 3 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 17 Lesson 3 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 17 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10315,10 +10315,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました (Core concept alternative form - U17L3)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U17L3)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U17L3)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U17L3)"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (standard target expression for Unit 17 Lesson 3 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 17 Lesson 3 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 17 Lesson 3 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 17 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10331,10 +10331,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-3）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました (Core concept alternative form - U17L3)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U17L3)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U17L3)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U17L3)"
+            "環境保護に関する国際条約が全会一致で締結されました (standard target expression for Unit 17 Lesson 3 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 17 Lesson 3 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 17 Lesson 3 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 17 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10396,10 +10396,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問17.4.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (Core concept alternative form - U17L4)",
-            "学術的定義を誤った選択肢 (pause - U17L4)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U17L4)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U17L4)"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (standard target expression for Unit 17 Lesson 4 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 17 Lesson 4 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 17 Lesson 4 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 17 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10407,10 +10407,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U17L4)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U17L4)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U17L4)",
-            "現代において否定された過去の説である (Core concept alternative form - U17L4)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 17 Lesson 4 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 17 Lesson 4 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 17 Lesson 4 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 17 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10422,10 +10422,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第4部）の高度な対話・批評として最も適切な文を選択してください（演習17.4）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (Core concept alternative form - U17L4)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U17L4)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U17L4)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U17L4)"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (standard target expression for Unit 17 Lesson 4 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 17 Lesson 4 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 17 Lesson 4 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 17 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10433,10 +10433,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました (Core concept alternative form - U17L4)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U17L4)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U17L4)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U17L4)"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (standard target expression for Unit 17 Lesson 4 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 17 Lesson 4 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 17 Lesson 4 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 17 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10449,10 +10449,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-4）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました (Core concept alternative form - U17L4)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U17L4)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U17L4)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U17L4)"
+            "環境保護に関する国際条約が全会一致で締結されました (standard target expression for Unit 17 Lesson 4 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 17 Lesson 4 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 17 Lesson 4 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 17 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10514,10 +10514,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問17.5.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (Core concept alternative form - U17L5)",
-            "学術的定義を誤った選択肢 (pause - U17L5)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U17L5)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U17L5)"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (standard target expression for Unit 17 Lesson 5 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 17 Lesson 5 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 17 Lesson 5 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 17 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10525,10 +10525,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U17L5)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U17L5)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U17L5)",
-            "現代において否定された過去の説である (Core concept alternative form - U17L5)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 17 Lesson 5 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 17 Lesson 5 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 17 Lesson 5 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 17 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10540,10 +10540,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第5部）の高度な対話・批評として最も適切な文を選択してください（演習17.5）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (Core concept alternative form - U17L5)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U17L5)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U17L5)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U17L5)"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (standard target expression for Unit 17 Lesson 5 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 17 Lesson 5 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 17 Lesson 5 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 17 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10551,10 +10551,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました (Core concept alternative form - U17L5)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U17L5)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U17L5)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U17L5)"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (standard target expression for Unit 17 Lesson 5 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 17 Lesson 5 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 17 Lesson 5 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 17 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10567,10 +10567,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-5）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました (Core concept alternative form - U17L5)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U17L5)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U17L5)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U17L5)"
+            "環境保護に関する国際条約が全会一致で締結されました (standard target expression for Unit 17 Lesson 5 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 17 Lesson 5 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 17 Lesson 5 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 17 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10632,10 +10632,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問18.1.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (Core concept alternative form - U18L1)",
-            "学術的定義を誤った選択肢 (pause - U18L1)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U18L1)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U18L1)"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (standard target expression for Unit 18 Lesson 1 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 18 Lesson 1 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 18 Lesson 1 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 18 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10643,10 +10643,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U18L1)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U18L1)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U18L1)",
-            "現代において否定された過去の説である (Core concept alternative form - U18L1)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 18 Lesson 1 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 18 Lesson 1 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 18 Lesson 1 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 18 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10658,10 +10658,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第1部）の高度な対話・批評として最も適切な文を選択してください（演習18.1）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました (Core concept alternative form - U18L1)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U18L1)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U18L1)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U18L1)"
+            "先生は留学生に日本の古典文学の朗読を練習させました (standard target expression for Unit 18 Lesson 1 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 18 Lesson 1 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 18 Lesson 1 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 18 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10669,10 +10669,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (Core concept alternative form - U18L1)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U18L1)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U18L1)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U18L1)"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (standard target expression for Unit 18 Lesson 1 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 18 Lesson 1 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 18 Lesson 1 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 18 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10685,10 +10685,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-1）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました (Core concept alternative form - U18L1)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U18L1)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U18L1)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U18L1)"
+            "指導教授に論文のドラフトを細かく添削していただきました (standard target expression for Unit 18 Lesson 1 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 18 Lesson 1 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 18 Lesson 1 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 18 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10750,10 +10750,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問18.2.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (Make doLet doCause emotion U18 - U18L2)",
-            "学術的定義を誤った選択肢 (Make doLet doCause emotion U18 - U18L2)",
-            "歴史的事実と合致しない誤文 (Make doLet doCause emotion U18 - U18L2)",
-            "論理的一貫性を欠く記述 (Make doLet doCause emotion U18 - U18L2)"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (standard target expression for Unit 18 Lesson 2 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 18 Lesson 2 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 18 Lesson 2 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 18 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10761,10 +10761,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Make doLet doCause emotion U18 - U18L2)",
-            "俗説に基づく不正確な記述である (Make doLet doCause emotion U18 - U18L2)",
-            "事実関係の誤認を含む記述である (Make doLet doCause emotion U18 - U18L2)",
-            "現代において否定された過去の説である (Make doLet doCause emotion U18 - U18L2)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 18 Lesson 2 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 18 Lesson 2 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 18 Lesson 2 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 18 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10776,10 +10776,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第2部）の高度な対話・批評として最も適切な文を選択してください（演習18.2）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました (Make doLet doCause emotion U18 - U18L2)",
-            "批評的論旨が破綻している文 (Make doLet doCause emotion U18 - U18L2)",
-            "助詞や構文の接続が不自然な誤文 (Make doLet doCause emotion U18 - U18L2)",
-            "不適切な語彙選択を含む誤答 (Make doLet doCause emotion U18 - U18L2)"
+            "先生は留学生に日本の古典文学の朗読を練習させました (standard target expression for Unit 18 Lesson 2 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 18 Lesson 2 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 18 Lesson 2 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 18 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10787,10 +10787,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (Make doLet doCause emotion U18 - U18L2)",
-            "概念の誤用による不当な解釈 (Make doLet doCause emotion U18 - U18L2)",
-            "主述の不整合を含む不完全文 (Make doLet doCause emotion U18 - U18L2)",
-            "文脈にそぐわない的外れな文 (Make doLet doCause emotion U18 - U18L2)"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (standard target expression for Unit 18 Lesson 2 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 18 Lesson 2 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 18 Lesson 2 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 18 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10803,10 +10803,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-2）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました (Make doLet doCause emotion U18 - U18L2)",
-            "専門的根拠の欠落した誤文 (Make doLet doCause emotion U18 - U18L2)",
-            "文法的語尾接続の誤謬 (Make doLet doCause emotion U18 - U18L2)",
-            "文意の不明瞭な不適格文 (Make doLet doCause emotion U18 - U18L2)"
+            "指導教授に論文のドラフトを細かく添削していただきました (standard target expression for Unit 18 Lesson 2 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 18 Lesson 2 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 18 Lesson 2 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 18 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10868,10 +10868,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問18.3.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (Core concept alternative form - U18L3)",
-            "学術的定義を誤った選択肢 (pause - U18L3)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U18L3)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U18L3)"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (standard target expression for Unit 18 Lesson 3 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 18 Lesson 3 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 18 Lesson 3 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 18 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10879,10 +10879,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U18L3)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U18L3)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U18L3)",
-            "現代において否定された過去の説である (Core concept alternative form - U18L3)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 18 Lesson 3 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 18 Lesson 3 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 18 Lesson 3 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 18 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10894,10 +10894,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第3部）の高度な対話・批評として最も適切な文を選択してください（演習18.3）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました (Core concept alternative form - U18L3)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U18L3)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U18L3)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U18L3)"
+            "先生は留学生に日本の古典文学の朗読を練習させました (standard target expression for Unit 18 Lesson 3 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 18 Lesson 3 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 18 Lesson 3 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 18 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10905,10 +10905,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (Core concept alternative form - U18L3)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U18L3)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U18L3)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U18L3)"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (standard target expression for Unit 18 Lesson 3 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 18 Lesson 3 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 18 Lesson 3 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 18 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10921,10 +10921,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-3）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました (Core concept alternative form - U18L3)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U18L3)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U18L3)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U18L3)"
+            "指導教授に論文のドラフトを細かく添削していただきました (standard target expression for Unit 18 Lesson 3 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 18 Lesson 3 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 18 Lesson 3 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 18 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10986,10 +10986,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問18.4.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (Core concept alternative form - U18L4)",
-            "学術的定義を誤った選択肢 (pause - U18L4)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U18L4)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U18L4)"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (standard target expression for Unit 18 Lesson 4 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 18 Lesson 4 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 18 Lesson 4 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 18 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10997,10 +10997,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U18L4)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U18L4)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U18L4)",
-            "現代において否定された過去の説である (Core concept alternative form - U18L4)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 18 Lesson 4 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 18 Lesson 4 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 18 Lesson 4 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 18 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11012,10 +11012,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第4部）の高度な対話・批評として最も適切な文を選択してください（演習18.4）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました (Core concept alternative form - U18L4)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U18L4)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U18L4)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U18L4)"
+            "先生は留学生に日本の古典文学の朗読を練習させました (standard target expression for Unit 18 Lesson 4 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 18 Lesson 4 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 18 Lesson 4 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 18 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11023,10 +11023,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (Core concept alternative form - U18L4)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U18L4)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U18L4)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U18L4)"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (standard target expression for Unit 18 Lesson 4 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 18 Lesson 4 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 18 Lesson 4 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 18 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11039,10 +11039,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-4）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました (Core concept alternative form - U18L4)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U18L4)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U18L4)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U18L4)"
+            "指導教授に論文のドラフトを細かく添削していただきました (standard target expression for Unit 18 Lesson 4 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 18 Lesson 4 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 18 Lesson 4 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 18 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11104,10 +11104,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問18.5.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (Core concept alternative form - U18L5)",
-            "学術的定義を誤った選択肢 (pause - U18L5)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U18L5)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U18L5)"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (standard target expression for Unit 18 Lesson 5 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 18 Lesson 5 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 18 Lesson 5 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 18 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11115,10 +11115,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U18L5)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U18L5)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U18L5)",
-            "現代において否定された過去の説である (Core concept alternative form - U18L5)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 18 Lesson 5 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 18 Lesson 5 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 18 Lesson 5 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 18 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11130,10 +11130,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第5部）の高度な対話・批評として最も適切な文を選択してください（演習18.5）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました (Core concept alternative form - U18L5)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U18L5)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U18L5)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U18L5)"
+            "先生は留学生に日本の古典文学の朗読を練習させました (standard target expression for Unit 18 Lesson 5 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 18 Lesson 5 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 18 Lesson 5 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 18 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11141,10 +11141,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (Core concept alternative form - U18L5)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U18L5)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U18L5)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U18L5)"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (standard target expression for Unit 18 Lesson 5 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 18 Lesson 5 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 18 Lesson 5 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 18 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11157,10 +11157,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-5）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました (Core concept alternative form - U18L5)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U18L5)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U18L5)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U18L5)"
+            "指導教授に論文のドラフトを細かく添削していただきました (standard target expression for Unit 18 Lesson 5 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 18 Lesson 5 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 18 Lesson 5 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 18 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11222,10 +11222,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問19.1.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (Core concept alternative form - U19L1)",
-            "学術的定義を誤った選択肢 (pause - U19L1)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U19L1)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U19L1)"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (standard target expression for Unit 19 Lesson 1 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 19 Lesson 1 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 19 Lesson 1 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 19 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11233,10 +11233,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U19L1)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U19L1)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U19L1)",
-            "現代において否定された過去の説である (Core concept alternative form - U19L1)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 19 Lesson 1 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 19 Lesson 1 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 19 Lesson 1 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 19 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11248,10 +11248,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第1部）の高度な対話・批評として最も適切な文を選択してください（演習19.1）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (Core concept alternative form - U19L1)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U19L1)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U19L1)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U19L1)"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (standard target expression for Unit 19 Lesson 1 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 19 Lesson 1 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 19 Lesson 1 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 19 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11259,10 +11259,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (Core concept alternative form - U19L1)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U19L1)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U19L1)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U19L1)"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (standard target expression for Unit 19 Lesson 1 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 19 Lesson 1 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 19 Lesson 1 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 19 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11275,10 +11275,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-1）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause - U19L1)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U19L1)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U19L1)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U19L1)"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (standard target expression for Unit 19 Lesson 1 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 19 Lesson 1 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 19 Lesson 1 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 19 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11340,10 +11340,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問19.2.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (Core concept alternative form - U19L2)",
-            "学術的定義を誤った選択肢 (pause - U19L2)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U19L2)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U19L2)"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (standard target expression for Unit 19 Lesson 2 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 19 Lesson 2 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 19 Lesson 2 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 19 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11351,10 +11351,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U19L2)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U19L2)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U19L2)",
-            "現代において否定された過去の説である (Core concept alternative form - U19L2)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 19 Lesson 2 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 19 Lesson 2 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 19 Lesson 2 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 19 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11366,10 +11366,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第2部）の高度な対話・批評として最も適切な文を選択してください（演習19.2）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (Core concept alternative form - U19L2)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U19L2)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U19L2)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U19L2)"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (standard target expression for Unit 19 Lesson 2 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 19 Lesson 2 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 19 Lesson 2 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 19 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11377,10 +11377,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (Core concept alternative form - U19L2)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U19L2)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U19L2)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U19L2)"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (standard target expression for Unit 19 Lesson 2 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 19 Lesson 2 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 19 Lesson 2 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 19 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11393,10 +11393,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-2）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause - U19L2)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U19L2)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U19L2)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U19L2)"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (standard target expression for Unit 19 Lesson 2 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 19 Lesson 2 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 19 Lesson 2 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 19 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11458,10 +11458,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問19.3.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (Core concept alternative form - U19L3)",
-            "学術的定義を誤った選択肢 (pause - U19L3)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U19L3)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U19L3)"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (standard target expression for Unit 19 Lesson 3 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 19 Lesson 3 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 19 Lesson 3 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 19 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11469,10 +11469,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U19L3)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U19L3)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U19L3)",
-            "現代において否定された過去の説である (Core concept alternative form - U19L3)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 19 Lesson 3 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 19 Lesson 3 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 19 Lesson 3 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 19 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11484,10 +11484,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第3部）の高度な対話・批評として最も適切な文を選択してください（演習19.3）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (Core concept alternative form - U19L3)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U19L3)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U19L3)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U19L3)"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (standard target expression for Unit 19 Lesson 3 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 19 Lesson 3 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 19 Lesson 3 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 19 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11495,10 +11495,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (Core concept alternative form - U19L3)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U19L3)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U19L3)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U19L3)"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (standard target expression for Unit 19 Lesson 3 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 19 Lesson 3 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 19 Lesson 3 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 19 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11511,10 +11511,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-3）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause - U19L3)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U19L3)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U19L3)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U19L3)"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (standard target expression for Unit 19 Lesson 3 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 19 Lesson 3 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 19 Lesson 3 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 19 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11576,10 +11576,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問19.4.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (Core concept alternative form - U19L4)",
-            "学術的定義を誤った選択肢 (pause - U19L4)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U19L4)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U19L4)"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (standard target expression for Unit 19 Lesson 4 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 19 Lesson 4 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 19 Lesson 4 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 19 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11587,10 +11587,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U19L4)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U19L4)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U19L4)",
-            "現代において否定された過去の説である (Core concept alternative form - U19L4)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 19 Lesson 4 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 19 Lesson 4 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 19 Lesson 4 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 19 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11602,10 +11602,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第4部）の高度な対話・批評として最も適切な文を選択してください（演習19.4）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (Core concept alternative form - U19L4)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U19L4)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U19L4)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U19L4)"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (standard target expression for Unit 19 Lesson 4 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 19 Lesson 4 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 19 Lesson 4 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 19 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11613,10 +11613,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (Core concept alternative form - U19L4)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U19L4)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U19L4)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U19L4)"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (standard target expression for Unit 19 Lesson 4 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 19 Lesson 4 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 19 Lesson 4 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 19 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11629,10 +11629,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-4）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause - U19L4)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U19L4)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U19L4)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U19L4)"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (standard target expression for Unit 19 Lesson 4 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 19 Lesson 4 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 19 Lesson 4 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 19 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11694,10 +11694,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問19.5.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (Core concept alternative form - U19L5)",
-            "学術的定義を誤った選択肢 (pause - U19L5)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U19L5)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U19L5)"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (standard target expression for Unit 19 Lesson 5 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 19 Lesson 5 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 19 Lesson 5 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 19 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11705,10 +11705,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U19L5)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U19L5)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U19L5)",
-            "現代において否定された過去の説である (Core concept alternative form - U19L5)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 19 Lesson 5 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 19 Lesson 5 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 19 Lesson 5 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 19 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11720,10 +11720,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第5部）の高度な対話・批評として最も適切な文を選択してください（演習19.5）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (Core concept alternative form - U19L5)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U19L5)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U19L5)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U19L5)"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (standard target expression for Unit 19 Lesson 5 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 19 Lesson 5 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 19 Lesson 5 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 19 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11731,10 +11731,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (Core concept alternative form - U19L5)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U19L5)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U19L5)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U19L5)"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (standard target expression for Unit 19 Lesson 5 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 19 Lesson 5 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 19 Lesson 5 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 19 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11747,10 +11747,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-5）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause - U19L5)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U19L5)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U19L5)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U19L5)"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (standard target expression for Unit 19 Lesson 5 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 19 Lesson 5 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 19 Lesson 5 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 19 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11812,10 +11812,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問20.1.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (Core concept alternative form - U20L1)",
-            "学術的定義を誤った選択肢 (pause - U20L1)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U20L1)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U20L1)"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (standard target expression for Unit 20 Lesson 1 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 20 Lesson 1 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 20 Lesson 1 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 20 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11823,10 +11823,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U20L1)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U20L1)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U20L1)",
-            "現代において否定された過去の説である (Core concept alternative form - U20L1)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 20 Lesson 1 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 20 Lesson 1 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 20 Lesson 1 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 20 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11838,10 +11838,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第1部）の高度な対話・批評として最も適切な文を選択してください（演習20.1）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (Core concept alternative form - U20L1)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U20L1)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U20L1)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U20L1)"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (standard target expression for Unit 20 Lesson 1 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 20 Lesson 1 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 20 Lesson 1 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 20 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11849,10 +11849,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause - U20L1)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U20L1)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U20L1)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U20L1)"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (standard target expression for Unit 20 Lesson 1 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 20 Lesson 1 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 20 Lesson 1 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 20 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11865,10 +11865,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-1）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (Core concept alternative form - U20L1)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U20L1)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U20L1)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U20L1)"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (standard target expression for Unit 20 Lesson 1 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 20 Lesson 1 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 20 Lesson 1 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 20 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11930,10 +11930,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問20.2.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (Core concept alternative form - U20L2)",
-            "学術的定義を誤った選択肢 (pause - U20L2)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U20L2)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U20L2)"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (standard target expression for Unit 20 Lesson 2 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 20 Lesson 2 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 20 Lesson 2 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 20 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11941,10 +11941,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U20L2)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U20L2)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U20L2)",
-            "現代において否定された過去の説である (Core concept alternative form - U20L2)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 20 Lesson 2 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 20 Lesson 2 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 20 Lesson 2 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 20 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11956,10 +11956,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第2部）の高度な対話・批評として最も適切な文を選択してください（演習20.2）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (Core concept alternative form - U20L2)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U20L2)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U20L2)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U20L2)"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (standard target expression for Unit 20 Lesson 2 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 20 Lesson 2 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 20 Lesson 2 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 20 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11967,10 +11967,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause - U20L2)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U20L2)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U20L2)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U20L2)"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (standard target expression for Unit 20 Lesson 2 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 20 Lesson 2 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 20 Lesson 2 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 20 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11983,10 +11983,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-2）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (Core concept alternative form - U20L2)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U20L2)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U20L2)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U20L2)"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (standard target expression for Unit 20 Lesson 2 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 20 Lesson 2 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 20 Lesson 2 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 20 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12048,10 +12048,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問20.3.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (Core concept alternative form - U20L3)",
-            "学術的定義を誤った選択肢 (pause - U20L3)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U20L3)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U20L3)"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (standard target expression for Unit 20 Lesson 3 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 20 Lesson 3 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 20 Lesson 3 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 20 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12059,10 +12059,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U20L3)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U20L3)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U20L3)",
-            "現代において否定された過去の説である (Core concept alternative form - U20L3)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 20 Lesson 3 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 20 Lesson 3 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 20 Lesson 3 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 20 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12074,10 +12074,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第3部）の高度な対話・批評として最も適切な文を選択してください（演習20.3）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (Core concept alternative form - U20L3)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U20L3)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U20L3)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U20L3)"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (standard target expression for Unit 20 Lesson 3 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 20 Lesson 3 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 20 Lesson 3 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 20 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12085,10 +12085,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause - U20L3)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U20L3)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U20L3)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U20L3)"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (standard target expression for Unit 20 Lesson 3 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 20 Lesson 3 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 20 Lesson 3 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 20 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12101,10 +12101,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-3）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (Core concept alternative form - U20L3)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U20L3)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U20L3)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U20L3)"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (standard target expression for Unit 20 Lesson 3 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 20 Lesson 3 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 20 Lesson 3 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 20 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12166,10 +12166,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問20.4.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (Core concept alternative form - U20L4)",
-            "学術的定義を誤った選択肢 (pause - U20L4)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U20L4)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U20L4)"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (standard target expression for Unit 20 Lesson 4 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 20 Lesson 4 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 20 Lesson 4 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 20 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12177,10 +12177,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U20L4)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U20L4)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U20L4)",
-            "現代において否定された過去の説である (Core concept alternative form - U20L4)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 20 Lesson 4 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 20 Lesson 4 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 20 Lesson 4 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 20 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12192,10 +12192,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第4部）の高度な対話・批評として最も適切な文を選択してください（演習20.4）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (Core concept alternative form - U20L4)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U20L4)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U20L4)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U20L4)"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (standard target expression for Unit 20 Lesson 4 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 20 Lesson 4 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 20 Lesson 4 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 20 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12203,10 +12203,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause - U20L4)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U20L4)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U20L4)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U20L4)"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (standard target expression for Unit 20 Lesson 4 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 20 Lesson 4 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 20 Lesson 4 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 20 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12219,10 +12219,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-4）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (Core concept alternative form - U20L4)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U20L4)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U20L4)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U20L4)"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (standard target expression for Unit 20 Lesson 4 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 20 Lesson 4 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 20 Lesson 4 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 20 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12284,10 +12284,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問20.5.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (Core concept alternative form - U20L5)",
-            "学術的定義を誤った選択肢 (pause - U20L5)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U20L5)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U20L5)"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (standard target expression for Unit 20 Lesson 5 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 20 Lesson 5 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 20 Lesson 5 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 20 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12295,10 +12295,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U20L5)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U20L5)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U20L5)",
-            "現代において否定された過去の説である (Core concept alternative form - U20L5)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 20 Lesson 5 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 20 Lesson 5 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 20 Lesson 5 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 20 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12310,10 +12310,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第5部）の高度な対話・批評として最も適切な文を選択してください（演習20.5）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (Core concept alternative form - U20L5)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U20L5)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U20L5)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U20L5)"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (standard target expression for Unit 20 Lesson 5 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 20 Lesson 5 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 20 Lesson 5 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 20 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12321,10 +12321,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause - U20L5)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U20L5)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U20L5)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U20L5)"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (standard target expression for Unit 20 Lesson 5 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 20 Lesson 5 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 20 Lesson 5 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 20 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12337,10 +12337,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-5）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (Core concept alternative form - U20L5)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U20L5)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U20L5)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U20L5)"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (standard target expression for Unit 20 Lesson 5 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 20 Lesson 5 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 20 Lesson 5 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 20 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12402,10 +12402,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問21.1.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (1961 alternative form - U21L1)",
-            "学術的定義を誤った選択肢 (pause - U21L1)",
-            "歴史的事実と合致しない誤文 (1961 alternative form - U21L1)",
-            "論理的一貫性を欠く記述 (1961 alternative form - U21L1)"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (standard target expression for Unit 21 Lesson 1 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 21 Lesson 1 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 21 Lesson 1 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 21 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12413,10 +12413,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (1961 alternative form - U21L1)",
-            "俗説に基づく不正確な記述である (1961 alternative form - U21L1)",
-            "事実関係の誤認を含む記述である (1961 alternative form - U21L1)",
-            "現代において否定された過去の説である (1961 alternative form - U21L1)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 21 Lesson 1 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 21 Lesson 1 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 21 Lesson 1 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 21 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12428,10 +12428,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第1部）の高度な対話・批評として最も適切な文を選択してください（演習21.1）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (pause - U21L1)",
-            "批評的論旨が破綻している文 (1961 alternative form - U21L1)",
-            "助詞や構文の接続が不自然な誤文 (1961 alternative form - U21L1)",
-            "不適切な語彙選択を含む誤答 (1961 alternative form - U21L1)"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (standard target expression for Unit 21 Lesson 1 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 21 Lesson 1 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 21 Lesson 1 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 21 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12439,10 +12439,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (1961 alternative form - U21L1)",
-            "概念の誤用による不当な解釈 (1961 alternative form - U21L1)",
-            "主述の不整合を含む不完全文 (1961 alternative form - U21L1)",
-            "文脈にそぐわない的外れな文 (1961 alternative form - U21L1)"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (standard target expression for Unit 21 Lesson 1 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 21 Lesson 1 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 21 Lesson 1 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 21 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12455,10 +12455,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-1）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (1961 alternative form - U21L1)",
-            "専門的根拠の欠落した誤文 (1961 alternative form - U21L1)",
-            "文法的語尾接続の誤謬 (1961 alternative form - U21L1)",
-            "文意の不明瞭な不適格文 (1961 alternative form - U21L1)"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (standard target expression for Unit 21 Lesson 1 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 21 Lesson 1 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 21 Lesson 1 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 21 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12520,10 +12520,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問21.2.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (652025 alternative form - U21L2)",
-            "学術的定義を誤った選択肢 (pause - U21L2)",
-            "歴史的事実と合致しない誤文 (652025 alternative form - U21L2)",
-            "論理的一貫性を欠く記述 (652025 alternative form - U21L2)"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (standard target expression for Unit 21 Lesson 2 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 21 Lesson 2 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 21 Lesson 2 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 21 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12531,10 +12531,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (652025 alternative form - U21L2)",
-            "俗説に基づく不正確な記述である (652025 alternative form - U21L2)",
-            "事実関係の誤認を含む記述である (652025 alternative form - U21L2)",
-            "現代において否定された過去の説である (652025 alternative form - U21L2)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 21 Lesson 2 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 21 Lesson 2 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 21 Lesson 2 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 21 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12546,10 +12546,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第2部）の高度な対話・批評として最も適切な文を選択してください（演習21.2）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (pause - U21L2)",
-            "批評的論旨が破綻している文 (652025 alternative form - U21L2)",
-            "助詞や構文の接続が不自然な誤文 (652025 alternative form - U21L2)",
-            "不適切な語彙選択を含む誤答 (652025 alternative form - U21L2)"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (standard target expression for Unit 21 Lesson 2 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 21 Lesson 2 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 21 Lesson 2 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 21 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12557,10 +12557,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (652025 alternative form - U21L2)",
-            "概念の誤用による不当な解釈 (652025 alternative form - U21L2)",
-            "主述の不整合を含む不完全文 (652025 alternative form - U21L2)",
-            "文脈にそぐわない的外れな文 (652025 alternative form - U21L2)"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (standard target expression for Unit 21 Lesson 2 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 21 Lesson 2 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 21 Lesson 2 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 21 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12573,10 +12573,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-2）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (652025 alternative form - U21L2)",
-            "専門的根拠の欠落した誤文 (652025 alternative form - U21L2)",
-            "文法的語尾接続の誤謬 (652025 alternative form - U21L2)",
-            "文意の不明瞭な不適格文 (652025 alternative form - U21L2)"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (standard target expression for Unit 21 Lesson 2 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 21 Lesson 2 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 21 Lesson 2 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 21 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12638,10 +12638,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問21.3.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (iPS20062012 U21 - U21L3)",
-            "学術的定義を誤った選択肢 (iPS20062012 U21 - U21L3)",
-            "歴史的事実と合致しない誤文 (iPS20062012 U21 - U21L3)",
-            "論理的一貫性を欠く記述 (iPS20062012 U21 - U21L3)"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (standard target expression for Unit 21 Lesson 3 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 21 Lesson 3 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 21 Lesson 3 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 21 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12649,10 +12649,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (iPS20062012 U21 - U21L3)",
-            "俗説に基づく不正確な記述である (iPS20062012 U21 - U21L3)",
-            "事実関係の誤認を含む記述である (iPS20062012 U21 - U21L3)",
-            "現代において否定された過去の説である (iPS20062012 U21 - U21L3)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 21 Lesson 3 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 21 Lesson 3 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 21 Lesson 3 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 21 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12664,10 +12664,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第3部）の高度な対話・批評として最も適切な文を選択してください（演習21.3）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (iPS20062012 U21 - U21L3)",
-            "批評的論旨が破綻している文 (iPS20062012 U21 - U21L3)",
-            "助詞や構文の接続が不自然な誤文 (iPS20062012 U21 - U21L3)",
-            "不適切な語彙選択を含む誤答 (iPS20062012 U21 - U21L3)"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (standard target expression for Unit 21 Lesson 3 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 21 Lesson 3 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 21 Lesson 3 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 21 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12675,10 +12675,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (iPS20062012 U21 - U21L3)",
-            "概念の誤用による不当な解釈 (iPS20062012 U21 - U21L3)",
-            "主述の不整合を含む不完全文 (iPS20062012 U21 - U21L3)",
-            "文脈にそぐわない的外れな文 (iPS20062012 U21 - U21L3)"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (standard target expression for Unit 21 Lesson 3 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 21 Lesson 3 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 21 Lesson 3 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 21 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12691,10 +12691,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-3）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (iPS20062012 U21 - U21L3)",
-            "専門的根拠の欠落した誤文 (iPS20062012 U21 - U21L3)",
-            "文法的語尾接続の誤謬 (iPS20062012 U21 - U21L3)",
-            "文意の不明瞭な不適格文 (iPS20062012 U21 - U21L3)"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (standard target expression for Unit 21 Lesson 3 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 21 Lesson 3 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 21 Lesson 3 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 21 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12756,10 +12756,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問21.4.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (DX alternative form - U21L4)",
-            "学術的定義を誤った選択肢 (pause - U21L4)",
-            "歴史的事実と合致しない誤文 (DX alternative form - U21L4)",
-            "論理的一貫性を欠く記述 (DX alternative form - U21L4)"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (standard target expression for Unit 21 Lesson 4 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 21 Lesson 4 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 21 Lesson 4 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 21 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12767,10 +12767,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (DX alternative form - U21L4)",
-            "俗説に基づく不正確な記述である (DX alternative form - U21L4)",
-            "事実関係の誤認を含む記述である (DX alternative form - U21L4)",
-            "現代において否定された過去の説である (DX alternative form - U21L4)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 21 Lesson 4 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 21 Lesson 4 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 21 Lesson 4 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 21 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12782,10 +12782,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第4部）の高度な対話・批評として最も適切な文を選択してください（演習21.4）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (pause - U21L4)",
-            "批評的論旨が破綻している文 (DX alternative form - U21L4)",
-            "助詞や構文の接続が不自然な誤文 (DX alternative form - U21L4)",
-            "不適切な語彙選択を含む誤答 (DX alternative form - U21L4)"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (standard target expression for Unit 21 Lesson 4 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 21 Lesson 4 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 21 Lesson 4 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 21 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12793,10 +12793,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (DX alternative form - U21L4)",
-            "概念の誤用による不当な解釈 (DX alternative form - U21L4)",
-            "主述の不整合を含む不完全文 (DX alternative form - U21L4)",
-            "文脈にそぐわない的外れな文 (DX alternative form - U21L4)"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (standard target expression for Unit 21 Lesson 4 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 21 Lesson 4 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 21 Lesson 4 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 21 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12809,10 +12809,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-4）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (DX alternative form - U21L4)",
-            "専門的根拠の欠落した誤文 (DX alternative form - U21L4)",
-            "文法的語尾接続の誤謬 (DX alternative form - U21L4)",
-            "文意の不明瞭な不適格文 (DX alternative form - U21L4)"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (standard target expression for Unit 21 Lesson 4 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 21 Lesson 4 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 21 Lesson 4 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 21 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12874,10 +12874,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問21.5.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (21 alternative form - U21L5)",
-            "学術的定義を誤った選択肢 (pause - U21L5)",
-            "歴史的事実と合致しない誤文 (21 alternative form - U21L5)",
-            "論理的一貫性を欠く記述 (21 alternative form - U21L5)"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (standard target expression for Unit 21 Lesson 5 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 21 Lesson 5 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 21 Lesson 5 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 21 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12885,10 +12885,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (21 alternative form - U21L5)",
-            "俗説に基づく不正確な記述である (21 alternative form - U21L5)",
-            "事実関係の誤認を含む記述である (21 alternative form - U21L5)",
-            "現代において否定された過去の説である (21 alternative form - U21L5)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 21 Lesson 5 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 21 Lesson 5 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 21 Lesson 5 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 21 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12900,10 +12900,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第5部）の高度な対話・批評として最も適切な文を選択してください（演習21.5）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (pause - U21L5)",
-            "批評的論旨が破綻している文 (21 alternative form - U21L5)",
-            "助詞や構文の接続が不自然な誤文 (21 alternative form - U21L5)",
-            "不適切な語彙選択を含む誤答 (21 alternative form - U21L5)"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (standard target expression for Unit 21 Lesson 5 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 21 Lesson 5 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 21 Lesson 5 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 21 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12911,10 +12911,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (21 alternative form - U21L5)",
-            "概念の誤用による不当な解釈 (21 alternative form - U21L5)",
-            "主述の不整合を含む不完全文 (21 alternative form - U21L5)",
-            "文脈にそぐわない的外れな文 (21 alternative form - U21L5)"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (standard target expression for Unit 21 Lesson 5 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 21 Lesson 5 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 21 Lesson 5 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 21 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12927,10 +12927,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-5）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (21 alternative form - U21L5)",
-            "専門的根拠の欠落した誤文 (21 alternative form - U21L5)",
-            "文法的語尾接続の誤謬 (21 alternative form - U21L5)",
-            "文意の不明瞭な不適格文 (21 alternative form - U21L5)"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (standard target expression for Unit 21 Lesson 5 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 21 Lesson 5 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 21 Lesson 5 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 21 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12992,10 +12992,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問22.1.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (1911 alternative form - U22L1)",
-            "学術的定義を誤った選択肢 (pause - U22L1)",
-            "歴史的事実と合致しない誤文 (1911 alternative form - U22L1)",
-            "論理的一貫性を欠く記述 (1911 alternative form - U22L1)"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (standard target expression for Unit 22 Lesson 1 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 22 Lesson 1 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 22 Lesson 1 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 22 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13003,10 +13003,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (1911 alternative form - U22L1)",
-            "俗説に基づく不正確な記述である (1911 alternative form - U22L1)",
-            "事実関係の誤認を含む記述である (1911 alternative form - U22L1)",
-            "現代において否定された過去の説である (1911 alternative form - U22L1)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 22 Lesson 1 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 22 Lesson 1 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 22 Lesson 1 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 22 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13018,10 +13018,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第1部）の高度な対話・批評として最も適切な文を選択してください（演習22.1）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (1911 alternative form - U22L1)",
-            "批評的論旨が破綻している文 (1911 alternative form - U22L1)",
-            "助詞や構文の接続が不自然な誤文 (1911 alternative form - U22L1)",
-            "不適切な語彙選択を含む誤答 (1911 alternative form - U22L1)"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (standard target expression for Unit 22 Lesson 1 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 22 Lesson 1 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 22 Lesson 1 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 22 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13029,10 +13029,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (1911 alternative form - U22L1)",
-            "概念の誤用による不当な解釈 (1911 alternative form - U22L1)",
-            "主述の不整合を含む不完全文 (1911 alternative form - U22L1)",
-            "文脈にそぐわない的外れな文 (1911 alternative form - U22L1)"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (standard target expression for Unit 22 Lesson 1 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 22 Lesson 1 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 22 Lesson 1 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 22 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13045,10 +13045,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-1）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (1911 alternative form - U22L1)",
-            "専門的根拠の欠落した誤文 (1911 alternative form - U22L1)",
-            "文法的語尾接続の誤謬 (1911 alternative form - U22L1)",
-            "文意の不明瞭な不適格文 (1911 alternative form - U22L1)"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (standard target expression for Unit 22 Lesson 1 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 22 Lesson 1 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 22 Lesson 1 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 22 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13110,10 +13110,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問22.2.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (Topos U22 - U22L2)",
-            "学術的定義を誤った選択肢 (Topos U22 - U22L2)",
-            "歴史的事実と合致しない誤文 (Topos U22 - U22L2)",
-            "論理的一貫性を欠く記述 (Topos U22 - U22L2)"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (standard target expression for Unit 22 Lesson 2 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 22 Lesson 2 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 22 Lesson 2 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 22 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13121,10 +13121,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Topos U22 - U22L2)",
-            "俗説に基づく不正確な記述である (Topos U22 - U22L2)",
-            "事実関係の誤認を含む記述である (Topos U22 - U22L2)",
-            "現代において否定された過去の説である (Topos U22 - U22L2)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 22 Lesson 2 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 22 Lesson 2 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 22 Lesson 2 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 22 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13136,10 +13136,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第2部）の高度な対話・批評として最も適切な文を選択してください（演習22.2）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (Topos U22 - U22L2)",
-            "批評的論旨が破綻している文 (Topos U22 - U22L2)",
-            "助詞や構文の接続が不自然な誤文 (Topos U22 - U22L2)",
-            "不適切な語彙選択を含む誤答 (Topos U22 - U22L2)"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (standard target expression for Unit 22 Lesson 2 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 22 Lesson 2 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 22 Lesson 2 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 22 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13147,10 +13147,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (Topos U22 - U22L2)",
-            "概念の誤用による不当な解釈 (Topos U22 - U22L2)",
-            "主述の不整合を含む不完全文 (Topos U22 - U22L2)",
-            "文脈にそぐわない的外れな文 (Topos U22 - U22L2)"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (standard target expression for Unit 22 Lesson 2 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 22 Lesson 2 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 22 Lesson 2 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 22 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13163,10 +13163,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-2）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (Topos U22 - U22L2)",
-            "専門的根拠の欠落した誤文 (Topos U22 - U22L2)",
-            "文法的語尾接続の誤謬 (Topos U22 - U22L2)",
-            "文意の不明瞭な不適格文 (Topos U22 - U22L2)"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (standard target expression for Unit 22 Lesson 2 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 22 Lesson 2 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 22 Lesson 2 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 22 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13228,10 +13228,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問22.3.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (12001253 alternative form - U22L3)",
-            "学術的定義を誤った選択肢 (pause - U22L3)",
-            "歴史的事実と合致しない誤文 (12001253 alternative form - U22L3)",
-            "論理的一貫性を欠く記述 (12001253 alternative form - U22L3)"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (standard target expression for Unit 22 Lesson 3 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 22 Lesson 3 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 22 Lesson 3 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 22 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13239,10 +13239,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (12001253 alternative form - U22L3)",
-            "俗説に基づく不正確な記述である (12001253 alternative form - U22L3)",
-            "事実関係の誤認を含む記述である (12001253 alternative form - U22L3)",
-            "現代において否定された過去の説である (12001253 alternative form - U22L3)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 22 Lesson 3 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 22 Lesson 3 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 22 Lesson 3 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 22 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13254,10 +13254,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第3部）の高度な対話・批評として最も適切な文を選択してください（演習22.3）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (12001253 alternative form - U22L3)",
-            "批評的論旨が破綻している文 (12001253 alternative form - U22L3)",
-            "助詞や構文の接続が不自然な誤文 (12001253 alternative form - U22L3)",
-            "不適切な語彙選択を含む誤答 (12001253 alternative form - U22L3)"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (standard target expression for Unit 22 Lesson 3 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 22 Lesson 3 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 22 Lesson 3 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 22 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13265,10 +13265,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (12001253 alternative form - U22L3)",
-            "概念の誤用による不当な解釈 (12001253 alternative form - U22L3)",
-            "主述の不整合を含む不完全文 (12001253 alternative form - U22L3)",
-            "文脈にそぐわない的外れな文 (12001253 alternative form - U22L3)"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (standard target expression for Unit 22 Lesson 3 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 22 Lesson 3 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 22 Lesson 3 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 22 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13281,10 +13281,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-3）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (12001253 alternative form - U22L3)",
-            "専門的根拠の欠落した誤文 (12001253 alternative form - U22L3)",
-            "文法的語尾接続の誤謬 (12001253 alternative form - U22L3)",
-            "文意の不明瞭な不適格文 (12001253 alternative form - U22L3)"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (standard target expression for Unit 22 Lesson 3 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 22 Lesson 3 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 22 Lesson 3 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 22 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13346,10 +13346,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問22.4.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (Core concept alternative form - U22L4)",
-            "学術的定義を誤った選択肢 (pause - U22L4)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U22L4)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U22L4)"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (standard target expression for Unit 22 Lesson 4 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 22 Lesson 4 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 22 Lesson 4 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 22 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13357,10 +13357,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U22L4)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U22L4)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U22L4)",
-            "現代において否定された過去の説である (Core concept alternative form - U22L4)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 22 Lesson 4 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 22 Lesson 4 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 22 Lesson 4 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 22 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13372,10 +13372,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第4部）の高度な対話・批評として最も適切な文を選択してください（演習22.4）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (Core concept alternative form - U22L4)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U22L4)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U22L4)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U22L4)"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (standard target expression for Unit 22 Lesson 4 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 22 Lesson 4 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 22 Lesson 4 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 22 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13383,10 +13383,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (Core concept alternative form - U22L4)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U22L4)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U22L4)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U22L4)"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (standard target expression for Unit 22 Lesson 4 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 22 Lesson 4 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 22 Lesson 4 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 22 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13399,10 +13399,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-4）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (Core concept alternative form - U22L4)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U22L4)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U22L4)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U22L4)"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (standard target expression for Unit 22 Lesson 4 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 22 Lesson 4 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 22 Lesson 4 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 22 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13464,10 +13464,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問22.5.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (Core concept alternative form - U22L5)",
-            "学術的定義を誤った選択肢 (pause - U22L5)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U22L5)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U22L5)"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (standard target expression for Unit 22 Lesson 5 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 22 Lesson 5 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 22 Lesson 5 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 22 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13475,10 +13475,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U22L5)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U22L5)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U22L5)",
-            "現代において否定された過去の説である (Core concept alternative form - U22L5)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 22 Lesson 5 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 22 Lesson 5 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 22 Lesson 5 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 22 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13490,10 +13490,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第5部）の高度な対話・批評として最も適切な文を選択してください（演習22.5）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (Core concept alternative form - U22L5)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U22L5)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U22L5)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U22L5)"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (standard target expression for Unit 22 Lesson 5 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 22 Lesson 5 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 22 Lesson 5 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 22 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13501,10 +13501,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (Core concept alternative form - U22L5)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U22L5)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U22L5)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U22L5)"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (standard target expression for Unit 22 Lesson 5 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 22 Lesson 5 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 22 Lesson 5 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 22 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13517,10 +13517,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-5）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (Core concept alternative form - U22L5)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U22L5)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U22L5)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U22L5)"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (standard target expression for Unit 22 Lesson 5 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 22 Lesson 5 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 22 Lesson 5 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 22 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13582,10 +13582,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問23.1.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (Core concept alternative form - U23L1)",
-            "学術的定義を誤った選択肢 (pause - U23L1)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U23L1)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U23L1)"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (standard target expression for Unit 23 Lesson 1 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 23 Lesson 1 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 23 Lesson 1 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 23 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13593,10 +13593,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U23L1)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U23L1)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U23L1)",
-            "現代において否定された過去の説である (Core concept alternative form - U23L1)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 23 Lesson 1 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 23 Lesson 1 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 23 Lesson 1 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 23 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13608,10 +13608,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第1部）の高度な対話・批評として最も適切な文を選択してください（演習23.1）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (pause - U23L1)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U23L1)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U23L1)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U23L1)"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (standard target expression for Unit 23 Lesson 1 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 23 Lesson 1 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 23 Lesson 1 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 23 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13619,10 +13619,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (pause - U23L1)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U23L1)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U23L1)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U23L1)"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (standard target expression for Unit 23 Lesson 1 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 23 Lesson 1 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 23 Lesson 1 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 23 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13635,10 +13635,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-1）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (pause - U23L1)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U23L1)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U23L1)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U23L1)"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (standard target expression for Unit 23 Lesson 1 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 23 Lesson 1 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 23 Lesson 1 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 23 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13700,10 +13700,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問23.2.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (Core concept alternative form - U23L2)",
-            "学術的定義を誤った選択肢 (pause - U23L2)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U23L2)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U23L2)"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (standard target expression for Unit 23 Lesson 2 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 23 Lesson 2 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 23 Lesson 2 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 23 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13711,10 +13711,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U23L2)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U23L2)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U23L2)",
-            "現代において否定された過去の説である (Core concept alternative form - U23L2)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 23 Lesson 2 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 23 Lesson 2 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 23 Lesson 2 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 23 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13726,10 +13726,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第2部）の高度な対話・批評として最も適切な文を選択してください（演習23.2）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (pause - U23L2)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U23L2)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U23L2)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U23L2)"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (standard target expression for Unit 23 Lesson 2 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 23 Lesson 2 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 23 Lesson 2 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 23 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13737,10 +13737,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (pause - U23L2)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U23L2)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U23L2)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U23L2)"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (standard target expression for Unit 23 Lesson 2 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 23 Lesson 2 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 23 Lesson 2 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 23 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13753,10 +13753,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-2）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (pause - U23L2)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U23L2)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U23L2)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U23L2)"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (standard target expression for Unit 23 Lesson 2 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 23 Lesson 2 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 23 Lesson 2 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 23 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13818,10 +13818,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問23.3.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (Core concept alternative form - U23L3)",
-            "学術的定義を誤った選択肢 (pause - U23L3)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U23L3)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U23L3)"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (standard target expression for Unit 23 Lesson 3 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 23 Lesson 3 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 23 Lesson 3 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 23 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13829,10 +13829,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U23L3)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U23L3)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U23L3)",
-            "現代において否定された過去の説である (Core concept alternative form - U23L3)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 23 Lesson 3 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 23 Lesson 3 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 23 Lesson 3 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 23 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13844,10 +13844,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第3部）の高度な対話・批評として最も適切な文を選択してください（演習23.3）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (pause - U23L3)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U23L3)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U23L3)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U23L3)"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (standard target expression for Unit 23 Lesson 3 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 23 Lesson 3 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 23 Lesson 3 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 23 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13855,10 +13855,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (pause - U23L3)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U23L3)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U23L3)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U23L3)"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (standard target expression for Unit 23 Lesson 3 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 23 Lesson 3 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 23 Lesson 3 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 23 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13871,10 +13871,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-3）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (pause - U23L3)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U23L3)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U23L3)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U23L3)"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (standard target expression for Unit 23 Lesson 3 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 23 Lesson 3 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 23 Lesson 3 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 23 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13936,10 +13936,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問23.4.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (Core concept alternative form - U23L4)",
-            "学術的定義を誤った選択肢 (pause - U23L4)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U23L4)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U23L4)"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (standard target expression for Unit 23 Lesson 4 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 23 Lesson 4 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 23 Lesson 4 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 23 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13947,10 +13947,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U23L4)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U23L4)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U23L4)",
-            "現代において否定された過去の説である (Core concept alternative form - U23L4)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 23 Lesson 4 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 23 Lesson 4 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 23 Lesson 4 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 23 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13962,10 +13962,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第4部）の高度な対話・批評として最も適切な文を選択してください（演習23.4）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (pause - U23L4)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U23L4)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U23L4)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U23L4)"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (standard target expression for Unit 23 Lesson 4 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 23 Lesson 4 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 23 Lesson 4 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 23 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13973,10 +13973,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (pause - U23L4)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U23L4)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U23L4)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U23L4)"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (standard target expression for Unit 23 Lesson 4 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 23 Lesson 4 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 23 Lesson 4 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 23 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13989,10 +13989,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-4）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (pause - U23L4)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U23L4)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U23L4)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U23L4)"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (standard target expression for Unit 23 Lesson 4 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 23 Lesson 4 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 23 Lesson 4 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 23 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14054,10 +14054,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問23.5.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (19Japonisme U23 - U23L5)",
-            "学術的定義を誤った選択肢 (19Japonisme U23 - U23L5)",
-            "歴史的事実と合致しない誤文 (19Japonisme U23 - U23L5)",
-            "論理的一貫性を欠く記述 (19Japonisme U23 - U23L5)"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (standard target expression for Unit 23 Lesson 5 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 23 Lesson 5 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 23 Lesson 5 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 23 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -14065,10 +14065,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (19Japonisme U23 - U23L5)",
-            "俗説に基づく不正確な記述である (19Japonisme U23 - U23L5)",
-            "事実関係の誤認を含む記述である (19Japonisme U23 - U23L5)",
-            "現代において否定された過去の説である (19Japonisme U23 - U23L5)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 23 Lesson 5 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 23 Lesson 5 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 23 Lesson 5 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 23 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -14080,10 +14080,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第5部）の高度な対話・批評として最も適切な文を選択してください（演習23.5）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (19Japonisme U23 - U23L5)",
-            "批評的論旨が破綻している文 (19Japonisme U23 - U23L5)",
-            "助詞や構文の接続が不自然な誤文 (19Japonisme U23 - U23L5)",
-            "不適切な語彙選択を含む誤答 (19Japonisme U23 - U23L5)"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (standard target expression for Unit 23 Lesson 5 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 23 Lesson 5 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 23 Lesson 5 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 23 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -14091,10 +14091,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (19Japonisme U23 - U23L5)",
-            "概念の誤用による不当な解釈 (19Japonisme U23 - U23L5)",
-            "主述の不整合を含む不完全文 (19Japonisme U23 - U23L5)",
-            "文脈にそぐわない的外れな文 (19Japonisme U23 - U23L5)"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (standard target expression for Unit 23 Lesson 5 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 23 Lesson 5 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 23 Lesson 5 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 23 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -14107,10 +14107,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-5）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (19Japonisme U23 - U23L5)",
-            "専門的根拠の欠落した誤文 (19Japonisme U23 - U23L5)",
-            "文法的語尾接続の誤謬 (19Japonisme U23 - U23L5)",
-            "文意の不明瞭な不適格文 (19Japonisme U23 - U23L5)"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (standard target expression for Unit 23 Lesson 5 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 23 Lesson 5 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 23 Lesson 5 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 23 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14172,10 +14172,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問24.1.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (Core concept alternative form - U24L1)",
-            "学術的定義を誤った選択肢 (pause - U24L1)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U24L1)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U24L1)"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (standard target expression for Unit 24 Lesson 1 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 24 Lesson 1 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 24 Lesson 1 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 24 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -14183,10 +14183,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U24L1)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U24L1)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U24L1)",
-            "現代において否定された過去の説である (Core concept alternative form - U24L1)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 24 Lesson 1 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 24 Lesson 1 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 24 Lesson 1 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 24 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -14198,10 +14198,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第1部）の高度な対話・批評として最も適切な文を選択してください（演習24.1）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (pause - U24L1)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U24L1)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U24L1)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U24L1)"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (standard target expression for Unit 24 Lesson 1 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 24 Lesson 1 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 24 Lesson 1 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 24 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -14209,10 +14209,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (Core concept alternative form - U24L1)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U24L1)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U24L1)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U24L1)"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (standard target expression for Unit 24 Lesson 1 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 24 Lesson 1 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 24 Lesson 1 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 24 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -14225,10 +14225,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-1）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (Core concept alternative form - U24L1)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U24L1)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U24L1)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U24L1)"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (standard target expression for Unit 24 Lesson 1 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 24 Lesson 1 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 24 Lesson 1 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 24 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14290,10 +14290,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問24.2.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (Core concept alternative form - U24L2)",
-            "学術的定義を誤った選択肢 (pause - U24L2)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U24L2)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U24L2)"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (standard target expression for Unit 24 Lesson 2 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 24 Lesson 2 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 24 Lesson 2 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 24 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -14301,10 +14301,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U24L2)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U24L2)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U24L2)",
-            "現代において否定された過去の説である (Core concept alternative form - U24L2)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 24 Lesson 2 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 24 Lesson 2 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 24 Lesson 2 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 24 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -14316,10 +14316,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第2部）の高度な対話・批評として最も適切な文を選択してください（演習24.2）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (pause - U24L2)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U24L2)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U24L2)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U24L2)"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (standard target expression for Unit 24 Lesson 2 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 24 Lesson 2 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 24 Lesson 2 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 24 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -14327,10 +14327,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (Core concept alternative form - U24L2)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U24L2)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U24L2)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U24L2)"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (standard target expression for Unit 24 Lesson 2 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 24 Lesson 2 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 24 Lesson 2 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 24 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -14343,10 +14343,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-2）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (Core concept alternative form - U24L2)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U24L2)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U24L2)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U24L2)"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (standard target expression for Unit 24 Lesson 2 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 24 Lesson 2 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 24 Lesson 2 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 24 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14408,10 +14408,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問24.3.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (Core concept alternative form - U24L3)",
-            "学術的定義を誤った選択肢 (pause - U24L3)",
-            "歴史的事実と合致しない誤文 (Core concept alternative form - U24L3)",
-            "論理的一貫性を欠く記述 (Core concept alternative form - U24L3)"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (standard target expression for Unit 24 Lesson 3 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 24 Lesson 3 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 24 Lesson 3 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 24 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -14419,10 +14419,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (Core concept alternative form - U24L3)",
-            "俗説に基づく不正確な記述である (Core concept alternative form - U24L3)",
-            "事実関係の誤認を含む記述である (Core concept alternative form - U24L3)",
-            "現代において否定された過去の説である (Core concept alternative form - U24L3)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 24 Lesson 3 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 24 Lesson 3 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 24 Lesson 3 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 24 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -14434,10 +14434,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第3部）の高度な対話・批評として最も適切な文を選択してください（演習24.3）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (pause - U24L3)",
-            "批評的論旨が破綻している文 (Core concept alternative form - U24L3)",
-            "助詞や構文の接続が不自然な誤文 (Core concept alternative form - U24L3)",
-            "不適切な語彙選択を含む誤答 (Core concept alternative form - U24L3)"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (standard target expression for Unit 24 Lesson 3 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 24 Lesson 3 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 24 Lesson 3 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 24 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -14445,10 +14445,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (Core concept alternative form - U24L3)",
-            "概念の誤用による不当な解釈 (Core concept alternative form - U24L3)",
-            "主述の不整合を含む不完全文 (Core concept alternative form - U24L3)",
-            "文脈にそぐわない的外れな文 (Core concept alternative form - U24L3)"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (standard target expression for Unit 24 Lesson 3 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 24 Lesson 3 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 24 Lesson 3 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 24 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -14461,10 +14461,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-3）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (Core concept alternative form - U24L3)",
-            "専門的根拠の欠落した誤文 (Core concept alternative form - U24L3)",
-            "文法的語尾接続の誤謬 (Core concept alternative form - U24L3)",
-            "文意の不明瞭な不適格文 (Core concept alternative form - U24L3)"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (standard target expression for Unit 24 Lesson 3 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 24 Lesson 3 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 24 Lesson 3 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 24 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14526,10 +14526,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問24.4.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (pause - U24L4)",
-            "学術的定義を誤った選択肢 (pause - U24L4)",
-            "歴史的事実と合致しない誤文 (pause - U24L4)",
-            "論理的一貫性を欠く記述 (pause - U24L4)"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (standard target expression for Unit 24 Lesson 4 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 24 Lesson 4 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 24 Lesson 4 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 24 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -14537,10 +14537,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (pause - U24L4)",
-            "俗説に基づく不正確な記述である (pause - U24L4)",
-            "事実関係の誤認を含む記述である (pause - U24L4)",
-            "現代において否定された過去の説である (pause - U24L4)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 24 Lesson 4 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 24 Lesson 4 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 24 Lesson 4 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 24 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -14552,10 +14552,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第4部）の高度な対話・批評として最も適切な文を選択してください（演習24.4）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (pause - U24L4)",
-            "批評的論旨が破綻している文 (pause - U24L4)",
-            "助詞や構文の接続が不自然な誤文 (pause - U24L4)",
-            "不適切な語彙選択を含む誤答 (pause - U24L4)"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (standard target expression for Unit 24 Lesson 4 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 24 Lesson 4 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 24 Lesson 4 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 24 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -14563,10 +14563,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (pause - U24L4)",
-            "概念の誤用による不当な解釈 (pause - U24L4)",
-            "主述の不整合を含む不完全文 (pause - U24L4)",
-            "文脈にそぐわない的外れな文 (pause - U24L4)"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (standard target expression for Unit 24 Lesson 4 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 24 Lesson 4 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 24 Lesson 4 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 24 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -14579,10 +14579,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-4）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (pause - U24L4)",
-            "専門的根拠の欠落した誤文 (pause - U24L4)",
-            "文法的語尾接続の誤謬 (pause - U24L4)",
-            "文意の不明瞭な不適格文 (pause - U24L4)"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (standard target expression for Unit 24 Lesson 4 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 24 Lesson 4 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 24 Lesson 4 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 24 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14644,10 +14644,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問24.5.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (19522023YMOasync U24 - U24L5)",
-            "学術的定義を誤った選択肢 (19522023YMOasync U24 - U24L5)",
-            "歴史的事実と合致しない誤文 (19522023YMOasync U24 - U24L5)",
-            "論理的一貫性を欠く記述 (19522023YMOasync U24 - U24L5)"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (standard target expression for Unit 24 Lesson 5 target grammar)",
+            "学術的定義を誤った選択肢 (contextual contrast form in Unit 24 Lesson 5 target grammar)",
+            "歴史的事実と合致しない誤文 (formal register distinction for Unit 24 Lesson 5 target grammar)",
+            "論理的一貫性を欠く記述 (colloquial conversational usage for Unit 24 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -14655,10 +14655,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である (19522023YMOasync U24 - U24L5)",
-            "俗説に基づく不正確な記述である (19522023YMOasync U24 - U24L5)",
-            "事実関係の誤認を含む記述である (19522023YMOasync U24 - U24L5)",
-            "現代において否定された過去の説である (19522023YMOasync U24 - U24L5)"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (standard target expression for Unit 24 Lesson 5 target grammar)",
+            "俗説に基づく不正確な記述である (contextual contrast form in Unit 24 Lesson 5 target grammar)",
+            "事実関係の誤認を含む記述である (formal register distinction for Unit 24 Lesson 5 target grammar)",
+            "現代において否定された過去の説である (colloquial conversational usage for Unit 24 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -14670,10 +14670,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第5部）の高度な対話・批評として最も適切な文を選択してください（演習24.5）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (19522023YMOasync U24 - U24L5)",
-            "批評的論旨が破綻している文 (19522023YMOasync U24 - U24L5)",
-            "助詞や構文の接続が不自然な誤文 (19522023YMOasync U24 - U24L5)",
-            "不適切な語彙選択を含む誤答 (19522023YMOasync U24 - U24L5)"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (standard target expression for Unit 24 Lesson 5 target grammar)",
+            "批評的論旨が破綻している文 (contextual contrast form in Unit 24 Lesson 5 target grammar)",
+            "助詞や構文の接続が不自然な誤文 (formal register distinction for Unit 24 Lesson 5 target grammar)",
+            "不適切な語彙選択を含む誤答 (colloquial conversational usage for Unit 24 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -14681,10 +14681,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (19522023YMOasync U24 - U24L5)",
-            "概念の誤用による不当な解釈 (19522023YMOasync U24 - U24L5)",
-            "主述の不整合を含む不完全文 (19522023YMOasync U24 - U24L5)",
-            "文脈にそぐわない的外れな文 (19522023YMOasync U24 - U24L5)"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (standard target expression for Unit 24 Lesson 5 target grammar)",
+            "概念の誤用による不当な解釈 (contextual contrast form in Unit 24 Lesson 5 target grammar)",
+            "主述の不整合を含む不完全文 (formal register distinction for Unit 24 Lesson 5 target grammar)",
+            "文脈にそぐわない的外れな文 (colloquial conversational usage for Unit 24 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -14697,10 +14697,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-5）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (19522023YMOasync U24 - U24L5)",
-            "専門的根拠の欠落した誤文 (19522023YMOasync U24 - U24L5)",
-            "文法的語尾接続の誤謬 (19522023YMOasync U24 - U24L5)",
-            "文意の不明瞭な不適格文 (19522023YMOasync U24 - U24L5)"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (standard target expression for Unit 24 Lesson 5 target grammar)",
+            "専門的根拠の欠落した誤文 (contextual contrast form in Unit 24 Lesson 5 target grammar)",
+            "文法的語尾接続の誤謬 (formal register distinction for Unit 24 Lesson 5 target grammar)",
+            "文意の不明瞭な不適格文 (colloquial conversational usage for Unit 24 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14762,10 +14762,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.1.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (Rashomon Effect U25 - U25L1)",
-            "国際条約法に反する法的誤謬 (Rashomon Effect U25 - U25L1)",
-            "主権平等の原則を逸脱した不適当な記述 (Rashomon Effect U25 - U25L1)",
-            "外交慣例に悖る修辞的欠陥文 (Rashomon Effect U25 - U25L1)"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (standard target expression for Unit 25 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 25 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 25 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 25 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14773,10 +14773,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Rashomon Effect U25 - U25L1)",
-            "国際合意を損なう非現実的な記述である (Rashomon Effect U25 - U25L1)",
-            "批准手続きを誤認した無効な記述である (Rashomon Effect U25 - U25L1)",
-            "外交文書として不適格な文言である (Rashomon Effect U25 - U25L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 25 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 25 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 25 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 25 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14788,10 +14788,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.1）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (Rashomon Effect U25 - U25L1)",
-            "対立を無用に煽る不見識な声明文 (Rashomon Effect U25 - U25L1)",
-            "法的拘束力のない不完全な折衝文 (Rashomon Effect U25 - U25L1)",
-            "条約の留保条件を乱用した無効文 (Rashomon Effect U25 - U25L1)"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (standard target expression for Unit 25 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 25 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 25 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 25 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14799,10 +14799,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (Rashomon Effect U25 - U25L1)",
-            "安全保障理事会決議の権能を無視した記述 (Rashomon Effect U25 - U25L1)",
-            "平和維持部隊の法的根拠を欠く文 (Rashomon Effect U25 - U25L1)",
-            "国際司法裁判所の判例に背く記述 (Rashomon Effect U25 - U25L1)"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (standard target expression for Unit 25 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 25 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 25 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 25 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14815,10 +14815,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-1）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (Rashomon Effect U25 - U25L1)",
-            "条約履行義務を軽視した無効文 (Rashomon Effect U25 - U25L1)",
-            "全権委任状の要件を欠く不備文 (Rashomon Effect U25 - U25L1)",
-            "寄託手続きの誤謬文 (Rashomon Effect U25 - U25L1)"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (standard target expression for Unit 25 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 25 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 25 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 25 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -14880,10 +14880,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.2.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (pause - U25L2)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U25L2)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U25L2)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U25L2)"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (standard target expression for Unit 25 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 25 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 25 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 25 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14891,10 +14891,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U25L2)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U25L2)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U25L2)",
-            "外交文書として不適格な文言である (Core concept alternative form - U25L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 25 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 25 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 25 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 25 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14906,10 +14906,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.2）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (pause - U25L2)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U25L2)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U25L2)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U25L2)"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (standard target expression for Unit 25 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 25 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 25 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 25 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14917,10 +14917,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (pause - U25L2)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U25L2)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U25L2)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U25L2)"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (standard target expression for Unit 25 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 25 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 25 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 25 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14933,10 +14933,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-2）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (Core concept alternative form - U25L2)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U25L2)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U25L2)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U25L2)"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (standard target expression for Unit 25 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 25 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 25 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 25 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -14998,10 +14998,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.3.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (pause - U25L3)",
-            "国際条約法に反する法的誤謬 (pause - U25L3)",
-            "主権平等の原則を逸脱した不適当な記述 (pause - U25L3)",
-            "外交慣例に悖る修辞的欠陥文 (pause - U25L3)"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (standard target expression for Unit 25 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 25 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 25 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 25 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15009,10 +15009,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause - U25L3)",
-            "国際合意を損なう非現実的な記述である (pause - U25L3)",
-            "批准手続きを誤認した無効な記述である (pause - U25L3)",
-            "外交文書として不適格な文言である (pause - U25L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 25 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 25 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 25 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 25 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15024,10 +15024,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.3）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (pause - U25L3)",
-            "対立を無用に煽る不見識な声明文 (pause - U25L3)",
-            "法的拘束力のない不完全な折衝文 (pause - U25L3)",
-            "条約の留保条件を乱用した無効文 (pause - U25L3)"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (standard target expression for Unit 25 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 25 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 25 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 25 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15035,10 +15035,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (pause - U25L3)",
-            "安全保障理事会決議の権能を無視した記述 (pause - U25L3)",
-            "平和維持部隊の法的根拠を欠く文 (pause - U25L3)",
-            "国際司法裁判所の判例に背く記述 (pause - U25L3)"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (standard target expression for Unit 25 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 25 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 25 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 25 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15051,10 +15051,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-3）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (pause - U25L3)",
-            "条約履行義務を軽視した無効文 (pause - U25L3)",
-            "全権委任状の要件を欠く不備文 (pause - U25L3)",
-            "寄託手続きの誤謬文 (pause - U25L3)"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (standard target expression for Unit 25 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 25 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 25 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 25 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15116,10 +15116,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.4.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (pause - U25L4)",
-            "国際条約法に反する法的誤謬 (pause - U25L4)",
-            "主権平等の原則を逸脱した不適当な記述 (pause - U25L4)",
-            "外交慣例に悖る修辞的欠陥文 (pause - U25L4)"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (standard target expression for Unit 25 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 25 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 25 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 25 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15127,10 +15127,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause - U25L4)",
-            "国際合意を損なう非現実的な記述である (pause - U25L4)",
-            "批准手続きを誤認した無効な記述である (pause - U25L4)",
-            "外交文書として不適格な文言である (pause - U25L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 25 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 25 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 25 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 25 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15142,10 +15142,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.4）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (pause - U25L4)",
-            "対立を無用に煽る不見識な声明文 (pause - U25L4)",
-            "法的拘束力のない不完全な折衝文 (pause - U25L4)",
-            "条約の留保条件を乱用した無効文 (pause - U25L4)"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (standard target expression for Unit 25 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 25 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 25 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 25 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15153,10 +15153,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (pause - U25L4)",
-            "安全保障理事会決議の権能を無視した記述 (pause - U25L4)",
-            "平和維持部隊の法的根拠を欠く文 (pause - U25L4)",
-            "国際司法裁判所の判例に背く記述 (pause - U25L4)"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (standard target expression for Unit 25 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 25 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 25 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 25 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15169,10 +15169,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-4）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (pause - U25L4)",
-            "条約履行義務を軽視した無効文 (pause - U25L4)",
-            "全権委任状の要件を欠く不備文 (pause - U25L4)",
-            "寄託手続きの誤謬文 (pause - U25L4)"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (standard target expression for Unit 25 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 25 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 25 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 25 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15234,10 +15234,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.5.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (pause - U25L5)",
-            "国際条約法に反する法的誤謬 (1950 alternative form - U25L5)",
-            "主権平等の原則を逸脱した不適当な記述 (1950 alternative form - U25L5)",
-            "外交慣例に悖る修辞的欠陥文 (1950 alternative form - U25L5)"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (standard target expression for Unit 25 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 25 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 25 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 25 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15245,10 +15245,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (1950 alternative form - U25L5)",
-            "国際合意を損なう非現実的な記述である (1950 alternative form - U25L5)",
-            "批准手続きを誤認した無効な記述である (1950 alternative form - U25L5)",
-            "外交文書として不適格な文言である (1950 alternative form - U25L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 25 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 25 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 25 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 25 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15260,10 +15260,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.5）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (pause - U25L5)",
-            "対立を無用に煽る不見識な声明文 (1950 alternative form - U25L5)",
-            "法的拘束力のない不完全な折衝文 (1950 alternative form - U25L5)",
-            "条約の留保条件を乱用した無効文 (1950 alternative form - U25L5)"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (standard target expression for Unit 25 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 25 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 25 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 25 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15271,10 +15271,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (pause - U25L5)",
-            "安全保障理事会決議の権能を無視した記述 (1950 alternative form - U25L5)",
-            "平和維持部隊の法的根拠を欠く文 (1950 alternative form - U25L5)",
-            "国際司法裁判所の判例に背く記述 (1950 alternative form - U25L5)"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (standard target expression for Unit 25 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 25 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 25 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 25 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15287,10 +15287,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-5）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (1950 alternative form - U25L5)",
-            "条約履行義務を軽視した無効文 (1950 alternative form - U25L5)",
-            "全権委任状の要件を欠く不備文 (1950 alternative form - U25L5)",
-            "寄託手続きの誤謬文 (1950 alternative form - U25L5)"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (standard target expression for Unit 25 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 25 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 25 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 25 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15352,10 +15352,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.1.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (Core concept alternative form - U26L1)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U26L1)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U26L1)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U26L1)"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (standard target expression for Unit 26 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 26 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 26 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 26 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15363,10 +15363,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U26L1)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U26L1)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U26L1)",
-            "外交文書として不適格な文言である (Core concept alternative form - U26L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 26 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 26 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 26 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 26 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15378,10 +15378,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.1）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause - U26L1)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U26L1)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U26L1)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U26L1)"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (standard target expression for Unit 26 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 26 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 26 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 26 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15389,10 +15389,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause - U26L1)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U26L1)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U26L1)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U26L1)"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (standard target expression for Unit 26 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 26 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 26 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 26 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15405,10 +15405,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-1）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (Core concept alternative form - U26L1)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U26L1)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U26L1)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U26L1)"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (standard target expression for Unit 26 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 26 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 26 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 26 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15470,10 +15470,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.2.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (13631443 alternative form - U26L2)",
-            "国際条約法に反する法的誤謬 (13631443 alternative form - U26L2)",
-            "主権平等の原則を逸脱した不適当な記述 (13631443 alternative form - U26L2)",
-            "外交慣例に悖る修辞的欠陥文 (13631443 alternative form - U26L2)"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (standard target expression for Unit 26 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 26 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 26 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 26 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15481,10 +15481,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (13631443 alternative form - U26L2)",
-            "国際合意を損なう非現実的な記述である (13631443 alternative form - U26L2)",
-            "批准手続きを誤認した無効な記述である (13631443 alternative form - U26L2)",
-            "外交文書として不適格な文言である (13631443 alternative form - U26L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 26 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 26 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 26 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 26 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15496,10 +15496,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.2）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause - U26L2)",
-            "対立を無用に煽る不見識な声明文 (13631443 alternative form - U26L2)",
-            "法的拘束力のない不完全な折衝文 (13631443 alternative form - U26L2)",
-            "条約の留保条件を乱用した無効文 (13631443 alternative form - U26L2)"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (standard target expression for Unit 26 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 26 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 26 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 26 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15507,10 +15507,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause - U26L2)",
-            "安全保障理事会決議の権能を無視した記述 (13631443 alternative form - U26L2)",
-            "平和維持部隊の法的根拠を欠く文 (13631443 alternative form - U26L2)",
-            "国際司法裁判所の判例に背く記述 (13631443 alternative form - U26L2)"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (standard target expression for Unit 26 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 26 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 26 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 26 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15523,10 +15523,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-2）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (13631443 alternative form - U26L2)",
-            "条約履行義務を軽視した無効文 (13631443 alternative form - U26L2)",
-            "全権委任状の要件を欠く不備文 (13631443 alternative form - U26L2)",
-            "寄託手続きの誤謬文 (13631443 alternative form - U26L2)"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (standard target expression for Unit 26 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 26 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 26 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 26 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15588,10 +15588,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.3.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (pause - U26L3)",
-            "国際条約法に反する法的誤謬 (pause - U26L3)",
-            "主権平等の原則を逸脱した不適当な記述 (pause - U26L3)",
-            "外交慣例に悖る修辞的欠陥文 (pause - U26L3)"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (standard target expression for Unit 26 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 26 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 26 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 26 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15599,10 +15599,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause - U26L3)",
-            "国際合意を損なう非現実的な記述である (pause - U26L3)",
-            "批准手続きを誤認した無効な記述である (pause - U26L3)",
-            "外交文書として不適格な文言である (pause - U26L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 26 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 26 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 26 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 26 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15614,10 +15614,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.3）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause - U26L3)",
-            "対立を無用に煽る不見識な声明文 (pause - U26L3)",
-            "法的拘束力のない不完全な折衝文 (pause - U26L3)",
-            "条約の留保条件を乱用した無効文 (pause - U26L3)"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (standard target expression for Unit 26 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 26 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 26 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 26 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15625,10 +15625,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause - U26L3)",
-            "安全保障理事会決議の権能を無視した記述 (pause - U26L3)",
-            "平和維持部隊の法的根拠を欠く文 (pause - U26L3)",
-            "国際司法裁判所の判例に背く記述 (pause - U26L3)"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (standard target expression for Unit 26 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 26 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 26 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 26 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15641,10 +15641,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-3）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (Core concept alternative form - U26L3)",
-            "条約履行義務を軽視した無効文 (pause - U26L3)",
-            "全権委任状の要件を欠く不備文 (pause - U26L3)",
-            "寄託手続きの誤謬文 (pause - U26L3)"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (standard target expression for Unit 26 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 26 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 26 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 26 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15706,10 +15706,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.4.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (Core concept alternative form - U26L4)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U26L4)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U26L4)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U26L4)"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (standard target expression for Unit 26 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 26 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 26 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 26 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15717,10 +15717,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U26L4)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U26L4)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U26L4)",
-            "外交文書として不適格な文言である (Core concept alternative form - U26L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 26 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 26 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 26 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 26 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15732,10 +15732,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.4）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause - U26L4)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U26L4)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U26L4)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U26L4)"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (standard target expression for Unit 26 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 26 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 26 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 26 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15743,10 +15743,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause - U26L4)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U26L4)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U26L4)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U26L4)"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (standard target expression for Unit 26 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 26 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 26 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 26 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15759,10 +15759,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-4）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (Core concept alternative form - U26L4)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U26L4)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U26L4)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U26L4)"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (standard target expression for Unit 26 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 26 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 26 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 26 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15824,10 +15824,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.5.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (Core concept alternative form - U26L5)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U26L5)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U26L5)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U26L5)"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (standard target expression for Unit 26 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 26 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 26 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 26 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15835,10 +15835,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U26L5)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U26L5)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U26L5)",
-            "外交文書として不適格な文言である (Core concept alternative form - U26L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 26 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 26 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 26 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 26 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15850,10 +15850,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.5）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause - U26L5)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U26L5)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U26L5)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U26L5)"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (standard target expression for Unit 26 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 26 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 26 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 26 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15861,10 +15861,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause - U26L5)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U26L5)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U26L5)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U26L5)"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (standard target expression for Unit 26 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 26 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 26 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 26 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15877,10 +15877,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-5）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (Core concept alternative form - U26L5)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U26L5)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U26L5)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U26L5)"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (standard target expression for Unit 26 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 26 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 26 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 26 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15942,10 +15942,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.1.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (pause - U27L1)",
-            "国際条約法に反する法的誤謬 (pause - U27L1)",
-            "主権平等の原則を逸脱した不適当な記述 (pause - U27L1)",
-            "外交慣例に悖る修辞的欠陥文 (pause - U27L1)"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (standard target expression for Unit 27 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 27 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 27 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 27 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15953,10 +15953,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause - U27L1)",
-            "国際合意を損なう非現実的な記述である (pause - U27L1)",
-            "批准手続きを誤認した無効な記述である (pause - U27L1)",
-            "外交文書として不適格な文言である (pause - U27L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 27 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 27 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 27 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 27 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15968,10 +15968,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.1）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (pause - U27L1)",
-            "対立を無用に煽る不見識な声明文 (pause - U27L1)",
-            "法的拘束力のない不完全な折衝文 (pause - U27L1)",
-            "条約の留保条件を乱用した無効文 (pause - U27L1)"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (standard target expression for Unit 27 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 27 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 27 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 27 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15979,10 +15979,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (pause - U27L1)",
-            "安全保障理事会決議の権能を無視した記述 (pause - U27L1)",
-            "平和維持部隊の法的根拠を欠く文 (pause - U27L1)",
-            "国際司法裁判所の判例に背く記述 (pause - U27L1)"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (standard target expression for Unit 27 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 27 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 27 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 27 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15995,10 +15995,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-1）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (pause - U27L1)",
-            "条約履行義務を軽視した無効文 (pause - U27L1)",
-            "全権委任状の要件を欠く不備文 (pause - U27L1)",
-            "寄託手続きの誤謬文 (pause - U27L1)"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (standard target expression for Unit 27 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 27 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 27 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 27 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16060,10 +16060,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.2.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (18861965 alternative form - U27L2)",
-            "国際条約法に反する法的誤謬 (18861965 alternative form - U27L2)",
-            "主権平等の原則を逸脱した不適当な記述 (18861965 alternative form - U27L2)",
-            "外交慣例に悖る修辞的欠陥文 (18861965 alternative form - U27L2)"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (standard target expression for Unit 27 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 27 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 27 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 27 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16071,10 +16071,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (18861965 alternative form - U27L2)",
-            "国際合意を損なう非現実的な記述である (18861965 alternative form - U27L2)",
-            "批准手続きを誤認した無効な記述である (18861965 alternative form - U27L2)",
-            "外交文書として不適格な文言である (18861965 alternative form - U27L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 27 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 27 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 27 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 27 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16086,10 +16086,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.2）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (18861965 alternative form - U27L2)",
-            "対立を無用に煽る不見識な声明文 (18861965 alternative form - U27L2)",
-            "法的拘束力のない不完全な折衝文 (18861965 alternative form - U27L2)",
-            "条約の留保条件を乱用した無効文 (18861965 alternative form - U27L2)"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (standard target expression for Unit 27 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 27 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 27 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 27 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16097,10 +16097,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (pause - U27L2)",
-            "安全保障理事会決議の権能を無視した記述 (18861965 alternative form - U27L2)",
-            "平和維持部隊の法的根拠を欠く文 (18861965 alternative form - U27L2)",
-            "国際司法裁判所の判例に背く記述 (18861965 alternative form - U27L2)"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (standard target expression for Unit 27 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 27 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 27 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 27 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16113,10 +16113,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-2）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (18861965 alternative form - U27L2)",
-            "条約履行義務を軽視した無効文 (18861965 alternative form - U27L2)",
-            "全権委任状の要件を欠く不備文 (18861965 alternative form - U27L2)",
-            "寄託手続きの誤謬文 (18861965 alternative form - U27L2)"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (standard target expression for Unit 27 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 27 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 27 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 27 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16178,10 +16178,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.3.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (19242001 alternative form - U27L3)",
-            "国際条約法に反する法的誤謬 (19242001 alternative form - U27L3)",
-            "主権平等の原則を逸脱した不適当な記述 (19242001 alternative form - U27L3)",
-            "外交慣例に悖る修辞的欠陥文 (19242001 alternative form - U27L3)"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (standard target expression for Unit 27 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 27 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 27 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 27 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16189,10 +16189,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (19242001 alternative form - U27L3)",
-            "国際合意を損なう非現実的な記述である (19242001 alternative form - U27L3)",
-            "批准手続きを誤認した無効な記述である (19242001 alternative form - U27L3)",
-            "外交文書として不適格な文言である (19242001 alternative form - U27L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 27 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 27 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 27 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 27 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16204,10 +16204,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.3）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (19242001 alternative form - U27L3)",
-            "対立を無用に煽る不見識な声明文 (19242001 alternative form - U27L3)",
-            "法的拘束力のない不完全な折衝文 (19242001 alternative form - U27L3)",
-            "条約の留保条件を乱用した無効文 (19242001 alternative form - U27L3)"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (standard target expression for Unit 27 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 27 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 27 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 27 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16215,10 +16215,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (pause - U27L3)",
-            "安全保障理事会決議の権能を無視した記述 (19242001 alternative form - U27L3)",
-            "平和維持部隊の法的根拠を欠く文 (19242001 alternative form - U27L3)",
-            "国際司法裁判所の判例に背く記述 (19242001 alternative form - U27L3)"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (standard target expression for Unit 27 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 27 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 27 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 27 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16231,10 +16231,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-3）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (19242001 alternative form - U27L3)",
-            "条約履行義務を軽視した無効文 (19242001 alternative form - U27L3)",
-            "全権委任状の要件を欠く不備文 (19242001 alternative form - U27L3)",
-            "寄託手続きの誤謬文 (19242001 alternative form - U27L3)"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (standard target expression for Unit 27 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 27 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 27 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 27 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16296,10 +16296,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.4.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (Core concept alternative form - U27L4)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U27L4)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U27L4)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U27L4)"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (standard target expression for Unit 27 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 27 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 27 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 27 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16307,10 +16307,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U27L4)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U27L4)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U27L4)",
-            "外交文書として不適格な文言である (Core concept alternative form - U27L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 27 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 27 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 27 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 27 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16322,10 +16322,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.4）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (Core concept alternative form - U27L4)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U27L4)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U27L4)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U27L4)"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (standard target expression for Unit 27 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 27 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 27 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 27 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16333,10 +16333,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (pause - U27L4)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U27L4)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U27L4)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U27L4)"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (standard target expression for Unit 27 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 27 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 27 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 27 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16349,10 +16349,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-4）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (Core concept alternative form - U27L4)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U27L4)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U27L4)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U27L4)"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (standard target expression for Unit 27 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 27 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 27 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 27 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16414,10 +16414,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.5.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (NNTT U27 - U27L5)",
-            "国際条約法に反する法的誤謬 (NNTT U27 - U27L5)",
-            "主権平等の原則を逸脱した不適当な記述 (NNTT U27 - U27L5)",
-            "外交慣例に悖る修辞的欠陥文 (NNTT U27 - U27L5)"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (standard target expression for Unit 27 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 27 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 27 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 27 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16425,10 +16425,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (NNTT U27 - U27L5)",
-            "国際合意を損なう非現実的な記述である (NNTT U27 - U27L5)",
-            "批准手続きを誤認した無効な記述である (NNTT U27 - U27L5)",
-            "外交文書として不適格な文言である (NNTT U27 - U27L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 27 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 27 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 27 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 27 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16440,10 +16440,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.5）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (NNTT U27 - U27L5)",
-            "対立を無用に煽る不見識な声明文 (NNTT U27 - U27L5)",
-            "法的拘束力のない不完全な折衝文 (NNTT U27 - U27L5)",
-            "条約の留保条件を乱用した無効文 (NNTT U27 - U27L5)"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (standard target expression for Unit 27 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 27 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 27 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 27 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16451,10 +16451,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (NNTT U27 - U27L5)",
-            "安全保障理事会決議の権能を無視した記述 (NNTT U27 - U27L5)",
-            "平和維持部隊の法的根拠を欠く文 (NNTT U27 - U27L5)",
-            "国際司法裁判所の判例に背く記述 (NNTT U27 - U27L5)"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (standard target expression for Unit 27 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 27 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 27 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 27 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16467,10 +16467,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-5）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (NNTT U27 - U27L5)",
-            "条約履行義務を軽視した無効文 (NNTT U27 - U27L5)",
-            "全権委任状の要件を欠く不備文 (NNTT U27 - U27L5)",
-            "寄託手続きの誤謬文 (NNTT U27 - U27L5)"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (standard target expression for Unit 27 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 27 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 27 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 27 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16532,10 +16532,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.1.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (pause - U28L1)",
-            "国際条約法に反する法的誤謬 (1913200519871964 alternative form - U28L1)",
-            "主権平等の原則を逸脱した不適当な記述 (1913200519871964 alternative form - U28L1)",
-            "外交慣例に悖る修辞的欠陥文 (1913200519871964 alternative form - U28L1)"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (standard target expression for Unit 28 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 28 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 28 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 28 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16543,10 +16543,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (1913200519871964 alternative form - U28L1)",
-            "国際合意を損なう非現実的な記述である (1913200519871964 alternative form - U28L1)",
-            "批准手続きを誤認した無効な記述である (1913200519871964 alternative form - U28L1)",
-            "外交文書として不適格な文言である (1913200519871964 alternative form - U28L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 28 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 28 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 28 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 28 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16558,10 +16558,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.1）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (pause - U28L1)",
-            "対立を無用に煽る不見識な声明文 (1913200519871964 alternative form - U28L1)",
-            "法的拘束力のない不完全な折衝文 (1913200519871964 alternative form - U28L1)",
-            "条約の留保条件を乱用した無効文 (1913200519871964 alternative form - U28L1)"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (standard target expression for Unit 28 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 28 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 28 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 28 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16569,10 +16569,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (1913200519871964 alternative form - U28L1)",
-            "安全保障理事会決議の権能を無視した記述 (1913200519871964 alternative form - U28L1)",
-            "平和維持部隊の法的根拠を欠く文 (1913200519871964 alternative form - U28L1)",
-            "国際司法裁判所の判例に背く記述 (1913200519871964 alternative form - U28L1)"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (standard target expression for Unit 28 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 28 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 28 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 28 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16585,10 +16585,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-1）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (1913200519871964 alternative form - U28L1)",
-            "条約履行義務を軽視した無効文 (1913200519871964 alternative form - U28L1)",
-            "全権委任状の要件を欠く不備文 (1913200519871964 alternative form - U28L1)",
-            "寄託手続きの誤謬文 (1913200519871964 alternative form - U28L1)"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (standard target expression for Unit 28 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 28 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 28 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 28 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16650,10 +16650,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.2.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (pause - U28L2)",
-            "国際条約法に反する法的誤謬 (1960 alternative form - U28L2)",
-            "主権平等の原則を逸脱した不適当な記述 (1960 alternative form - U28L2)",
-            "外交慣例に悖る修辞的欠陥文 (1960 alternative form - U28L2)"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (standard target expression for Unit 28 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 28 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 28 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 28 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16661,10 +16661,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (1960 alternative form - U28L2)",
-            "国際合意を損なう非現実的な記述である (1960 alternative form - U28L2)",
-            "批准手続きを誤認した無効な記述である (1960 alternative form - U28L2)",
-            "外交文書として不適格な文言である (1960 alternative form - U28L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 28 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 28 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 28 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 28 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16676,10 +16676,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.2）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (pause - U28L2)",
-            "対立を無用に煽る不見識な声明文 (1960 alternative form - U28L2)",
-            "法的拘束力のない不完全な折衝文 (1960 alternative form - U28L2)",
-            "条約の留保条件を乱用した無効文 (1960 alternative form - U28L2)"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (standard target expression for Unit 28 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 28 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 28 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 28 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16687,10 +16687,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (1960 alternative form - U28L2)",
-            "安全保障理事会決議の権能を無視した記述 (1960 alternative form - U28L2)",
-            "平和維持部隊の法的根拠を欠く文 (1960 alternative form - U28L2)",
-            "国際司法裁判所の判例に背く記述 (1960 alternative form - U28L2)"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (standard target expression for Unit 28 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 28 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 28 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 28 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16703,10 +16703,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-2）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (1960 alternative form - U28L2)",
-            "条約履行義務を軽視した無効文 (1960 alternative form - U28L2)",
-            "全権委任状の要件を欠く不備文 (1960 alternative form - U28L2)",
-            "寄託手続きの誤謬文 (1960 alternative form - U28L2)"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (standard target expression for Unit 28 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 28 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 28 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 28 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16768,10 +16768,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.3.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (pause - U28L3)",
-            "国際条約法に反する法的誤謬 (19411995 alternative form - U28L3)",
-            "主権平等の原則を逸脱した不適当な記述 (19411995 alternative form - U28L3)",
-            "外交慣例に悖る修辞的欠陥文 (19411995 alternative form - U28L3)"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (standard target expression for Unit 28 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 28 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 28 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 28 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16779,10 +16779,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (19411995 alternative form - U28L3)",
-            "国際合意を損なう非現実的な記述である (19411995 alternative form - U28L3)",
-            "批准手続きを誤認した無効な記述である (19411995 alternative form - U28L3)",
-            "外交文書として不適格な文言である (19411995 alternative form - U28L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 28 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 28 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 28 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 28 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16794,10 +16794,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.3）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (pause - U28L3)",
-            "対立を無用に煽る不見識な声明文 (19411995 alternative form - U28L3)",
-            "法的拘束力のない不完全な折衝文 (19411995 alternative form - U28L3)",
-            "条約の留保条件を乱用した無効文 (19411995 alternative form - U28L3)"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (standard target expression for Unit 28 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 28 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 28 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 28 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16805,10 +16805,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (19411995 alternative form - U28L3)",
-            "安全保障理事会決議の権能を無視した記述 (19411995 alternative form - U28L3)",
-            "平和維持部隊の法的根拠を欠く文 (19411995 alternative form - U28L3)",
-            "国際司法裁判所の判例に背く記述 (19411995 alternative form - U28L3)"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (standard target expression for Unit 28 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 28 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 28 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 28 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16821,10 +16821,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-3）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (19411995 alternative form - U28L3)",
-            "条約履行義務を軽視した無効文 (19411995 alternative form - U28L3)",
-            "全権委任状の要件を欠く不備文 (19411995 alternative form - U28L3)",
-            "寄託手続きの誤謬文 (19411995 alternative form - U28L3)"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (standard target expression for Unit 28 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 28 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 28 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 28 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16886,10 +16886,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.4.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (2013SANAA2010 U28 - U28L4)",
-            "国際条約法に反する法的誤謬 (2013SANAA2010 U28 - U28L4)",
-            "主権平等の原則を逸脱した不適当な記述 (2013SANAA2010 U28 - U28L4)",
-            "外交慣例に悖る修辞的欠陥文 (2013SANAA2010 U28 - U28L4)"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (standard target expression for Unit 28 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 28 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 28 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 28 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16897,10 +16897,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (2013SANAA2010 U28 - U28L4)",
-            "国際合意を損なう非現実的な記述である (2013SANAA2010 U28 - U28L4)",
-            "批准手続きを誤認した無効な記述である (2013SANAA2010 U28 - U28L4)",
-            "外交文書として不適格な文言である (2013SANAA2010 U28 - U28L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 28 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 28 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 28 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 28 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16912,10 +16912,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.4）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (2013SANAA2010 U28 - U28L4)",
-            "対立を無用に煽る不見識な声明文 (2013SANAA2010 U28 - U28L4)",
-            "法的拘束力のない不完全な折衝文 (2013SANAA2010 U28 - U28L4)",
-            "条約の留保条件を乱用した無効文 (2013SANAA2010 U28 - U28L4)"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (standard target expression for Unit 28 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 28 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 28 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 28 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16923,10 +16923,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (2013SANAA2010 U28 - U28L4)",
-            "安全保障理事会決議の権能を無視した記述 (2013SANAA2010 U28 - U28L4)",
-            "平和維持部隊の法的根拠を欠く文 (2013SANAA2010 U28 - U28L4)",
-            "国際司法裁判所の判例に背く記述 (2013SANAA2010 U28 - U28L4)"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (standard target expression for Unit 28 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 28 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 28 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 28 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16939,10 +16939,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-4）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (2013SANAA2010 U28 - U28L4)",
-            "条約履行義務を軽視した無効文 (2013SANAA2010 U28 - U28L4)",
-            "全権委任状の要件を欠く不備文 (2013SANAA2010 U28 - U28L4)",
-            "寄託手続きの誤謬文 (2013SANAA2010 U28 - U28L4)"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (standard target expression for Unit 28 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 28 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 28 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 28 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17004,10 +17004,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.5.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (pause - U28L5)",
-            "国際条約法に反する法的誤謬 (1954 alternative form - U28L5)",
-            "主権平等の原則を逸脱した不適当な記述 (1954 alternative form - U28L5)",
-            "外交慣例に悖る修辞的欠陥文 (1954 alternative form - U28L5)"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (standard target expression for Unit 28 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 28 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 28 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 28 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17015,10 +17015,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (1954 alternative form - U28L5)",
-            "国際合意を損なう非現実的な記述である (1954 alternative form - U28L5)",
-            "批准手続きを誤認した無効な記述である (1954 alternative form - U28L5)",
-            "外交文書として不適格な文言である (1954 alternative form - U28L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 28 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 28 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 28 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 28 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17030,10 +17030,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.5）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (pause - U28L5)",
-            "対立を無用に煽る不見識な声明文 (1954 alternative form - U28L5)",
-            "法的拘束力のない不完全な折衝文 (1954 alternative form - U28L5)",
-            "条約の留保条件を乱用した無効文 (1954 alternative form - U28L5)"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (standard target expression for Unit 28 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 28 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 28 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 28 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17041,10 +17041,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (1954 alternative form - U28L5)",
-            "安全保障理事会決議の権能を無視した記述 (1954 alternative form - U28L5)",
-            "平和維持部隊の法的根拠を欠く文 (1954 alternative form - U28L5)",
-            "国際司法裁判所の判例に背く記述 (1954 alternative form - U28L5)"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (standard target expression for Unit 28 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 28 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 28 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 28 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17057,10 +17057,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-5）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (1954 alternative form - U28L5)",
-            "条約履行義務を軽視した無効文 (1954 alternative form - U28L5)",
-            "全権委任状の要件を欠く不備文 (1954 alternative form - U28L5)",
-            "寄託手続きの誤謬文 (1954 alternative form - U28L5)"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (standard target expression for Unit 28 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 28 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 28 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 28 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17122,10 +17122,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.1.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (Core concept alternative form - U29L1)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U29L1)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U29L1)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U29L1)"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (standard target expression for Unit 29 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 29 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 29 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 29 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17133,10 +17133,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U29L1)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U29L1)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U29L1)",
-            "外交文書として不適格な文言である (Core concept alternative form - U29L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 29 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 29 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 29 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 29 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17148,10 +17148,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.1）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (Core concept alternative form - U29L1)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U29L1)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U29L1)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U29L1)"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (standard target expression for Unit 29 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 29 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 29 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 29 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17159,10 +17159,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (Core concept alternative form - U29L1)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U29L1)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U29L1)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U29L1)"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (standard target expression for Unit 29 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 29 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 29 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 29 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17175,10 +17175,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-1）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (Core concept alternative form - U29L1)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U29L1)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U29L1)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U29L1)"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (standard target expression for Unit 29 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 29 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 29 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 29 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17240,10 +17240,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.2.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (ActionIntuitionHistorical Body U29 - U29L2)",
-            "国際条約法に反する法的誤謬 (ActionIntuitionHistorical Body U29 - U29L2)",
-            "主権平等の原則を逸脱した不適当な記述 (ActionIntuitionHistorical Body U29 - U29L2)",
-            "外交慣例に悖る修辞的欠陥文 (ActionIntuitionHistorical Body U29 - U29L2)"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (standard target expression for Unit 29 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 29 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 29 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 29 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17251,10 +17251,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (ActionIntuitionHistorical Body U29 - U29L2)",
-            "国際合意を損なう非現実的な記述である (ActionIntuitionHistorical Body U29 - U29L2)",
-            "批准手続きを誤認した無効な記述である (ActionIntuitionHistorical Body U29 - U29L2)",
-            "外交文書として不適格な文言である (ActionIntuitionHistorical Body U29 - U29L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 29 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 29 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 29 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 29 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17266,10 +17266,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.2）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (ActionIntuitionHistorical Body U29 - U29L2)",
-            "対立を無用に煽る不見識な声明文 (ActionIntuitionHistorical Body U29 - U29L2)",
-            "法的拘束力のない不完全な折衝文 (ActionIntuitionHistorical Body U29 - U29L2)",
-            "条約の留保条件を乱用した無効文 (ActionIntuitionHistorical Body U29 - U29L2)"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (standard target expression for Unit 29 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 29 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 29 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 29 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17277,10 +17277,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (ActionIntuitionHistorical Body U29 - U29L2)",
-            "安全保障理事会決議の権能を無視した記述 (ActionIntuitionHistorical Body U29 - U29L2)",
-            "平和維持部隊の法的根拠を欠く文 (ActionIntuitionHistorical Body U29 - U29L2)",
-            "国際司法裁判所の判例に背く記述 (ActionIntuitionHistorical Body U29 - U29L2)"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (standard target expression for Unit 29 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 29 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 29 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 29 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17293,10 +17293,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-2）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (ActionIntuitionHistorical Body U29 - U29L2)",
-            "条約履行義務を軽視した無効文 (ActionIntuitionHistorical Body U29 - U29L2)",
-            "全権委任状の要件を欠く不備文 (ActionIntuitionHistorical Body U29 - U29L2)",
-            "寄託手続きの誤謬文 (ActionIntuitionHistorical Body U29 - U29L2)"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (standard target expression for Unit 29 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 29 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 29 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 29 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17358,10 +17358,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.3.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (Core concept alternative form - U29L3)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U29L3)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U29L3)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U29L3)"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (standard target expression for Unit 29 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 29 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 29 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 29 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17369,10 +17369,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U29L3)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U29L3)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U29L3)",
-            "外交文書として不適格な文言である (Core concept alternative form - U29L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 29 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 29 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 29 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 29 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17384,10 +17384,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.3）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (Core concept alternative form - U29L3)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U29L3)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U29L3)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U29L3)"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (standard target expression for Unit 29 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 29 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 29 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 29 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17395,10 +17395,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (Core concept alternative form - U29L3)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U29L3)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U29L3)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U29L3)"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (standard target expression for Unit 29 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 29 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 29 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 29 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17411,10 +17411,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-3）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (Core concept alternative form - U29L3)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U29L3)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U29L3)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U29L3)"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (standard target expression for Unit 29 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 29 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 29 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 29 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17476,10 +17476,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.4.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (19001990 alternative form - U29L4)",
-            "国際条約法に反する法的誤謬 (19001990 alternative form - U29L4)",
-            "主権平等の原則を逸脱した不適当な記述 (19001990 alternative form - U29L4)",
-            "外交慣例に悖る修辞的欠陥文 (19001990 alternative form - U29L4)"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (standard target expression for Unit 29 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 29 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 29 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 29 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17487,10 +17487,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (19001990 alternative form - U29L4)",
-            "国際合意を損なう非現実的な記述である (19001990 alternative form - U29L4)",
-            "批准手続きを誤認した無効な記述である (19001990 alternative form - U29L4)",
-            "外交文書として不適格な文言である (19001990 alternative form - U29L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 29 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 29 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 29 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 29 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17502,10 +17502,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.4）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (19001990 alternative form - U29L4)",
-            "対立を無用に煽る不見識な声明文 (19001990 alternative form - U29L4)",
-            "法的拘束力のない不完全な折衝文 (19001990 alternative form - U29L4)",
-            "条約の留保条件を乱用した無効文 (19001990 alternative form - U29L4)"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (standard target expression for Unit 29 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 29 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 29 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 29 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17513,10 +17513,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (19001990 alternative form - U29L4)",
-            "安全保障理事会決議の権能を無視した記述 (19001990 alternative form - U29L4)",
-            "平和維持部隊の法的根拠を欠く文 (19001990 alternative form - U29L4)",
-            "国際司法裁判所の判例に背く記述 (19001990 alternative form - U29L4)"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (standard target expression for Unit 29 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 29 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 29 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 29 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17529,10 +17529,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-4）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (19001990 alternative form - U29L4)",
-            "条約履行義務を軽視した無効文 (19001990 alternative form - U29L4)",
-            "全権委任状の要件を欠く不備文 (19001990 alternative form - U29L4)",
-            "寄託手続きの誤謬文 (19001990 alternative form - U29L4)"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (standard target expression for Unit 29 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 29 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 29 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 29 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17594,10 +17594,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.5.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (Core concept alternative form - U29L5)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U29L5)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U29L5)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U29L5)"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (standard target expression for Unit 29 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 29 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 29 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 29 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17605,10 +17605,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U29L5)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U29L5)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U29L5)",
-            "外交文書として不適格な文言である (Core concept alternative form - U29L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 29 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 29 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 29 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 29 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17620,10 +17620,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.5）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (Core concept alternative form - U29L5)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U29L5)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U29L5)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U29L5)"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (standard target expression for Unit 29 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 29 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 29 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 29 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17631,10 +17631,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (Core concept alternative form - U29L5)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U29L5)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U29L5)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U29L5)"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (standard target expression for Unit 29 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 29 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 29 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 29 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17647,10 +17647,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-5）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (Core concept alternative form - U29L5)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U29L5)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U29L5)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U29L5)"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (standard target expression for Unit 29 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 29 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 29 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 29 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17712,10 +17712,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.1.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (19411997 alternative form - U30L1)",
-            "国際条約法に反する法的誤謬 (19411997 alternative form - U30L1)",
-            "主権平等の原則を逸脱した不適当な記述 (19411997 alternative form - U30L1)",
-            "外交慣例に悖る修辞的欠陥文 (19411997 alternative form - U30L1)"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (standard target expression for Unit 30 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 30 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 30 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 30 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17723,10 +17723,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (19411997 alternative form - U30L1)",
-            "国際合意を損なう非現実的な記述である (19411997 alternative form - U30L1)",
-            "批准手続きを誤認した無効な記述である (19411997 alternative form - U30L1)",
-            "外交文書として不適格な文言である (19411997 alternative form - U30L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 30 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 30 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 30 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 30 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17738,10 +17738,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.1）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause - U30L1)",
-            "対立を無用に煽る不見識な声明文 (19411997 alternative form - U30L1)",
-            "法的拘束力のない不完全な折衝文 (19411997 alternative form - U30L1)",
-            "条約の留保条件を乱用した無効文 (19411997 alternative form - U30L1)"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (standard target expression for Unit 30 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 30 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 30 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 30 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17749,10 +17749,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (19411997 alternative form - U30L1)",
-            "安全保障理事会決議の権能を無視した記述 (19411997 alternative form - U30L1)",
-            "平和維持部隊の法的根拠を欠く文 (19411997 alternative form - U30L1)",
-            "国際司法裁判所の判例に背く記述 (19411997 alternative form - U30L1)"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (standard target expression for Unit 30 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 30 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 30 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 30 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17765,10 +17765,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-1）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (19411997 alternative form - U30L1)",
-            "条約履行義務を軽視した無効文 (19411997 alternative form - U30L1)",
-            "全権委任状の要件を欠く不備文 (19411997 alternative form - U30L1)",
-            "寄託手続きの誤謬文 (19411997 alternative form - U30L1)"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (standard target expression for Unit 30 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 30 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 30 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 30 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17830,10 +17830,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.2.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (pause - U30L2)",
-            "国際条約法に反する法的誤謬 (pause - U30L2)",
-            "主権平等の原則を逸脱した不適当な記述 (pause - U30L2)",
-            "外交慣例に悖る修辞的欠陥文 (pause - U30L2)"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (standard target expression for Unit 30 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 30 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 30 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 30 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17841,10 +17841,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause - U30L2)",
-            "国際合意を損なう非現実的な記述である (pause - U30L2)",
-            "批准手続きを誤認した無効な記述である (pause - U30L2)",
-            "外交文書として不適格な文言である (pause - U30L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 30 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 30 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 30 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 30 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17856,10 +17856,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.2）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause - U30L2)",
-            "対立を無用に煽る不見識な声明文 (pause - U30L2)",
-            "法的拘束力のない不完全な折衝文 (pause - U30L2)",
-            "条約の留保条件を乱用した無効文 (pause - U30L2)"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (standard target expression for Unit 30 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 30 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 30 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 30 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17867,10 +17867,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (pause - U30L2)",
-            "安全保障理事会決議の権能を無視した記述 (pause - U30L2)",
-            "平和維持部隊の法的根拠を欠く文 (pause - U30L2)",
-            "国際司法裁判所の判例に背く記述 (pause - U30L2)"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (standard target expression for Unit 30 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 30 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 30 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 30 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17883,10 +17883,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-2）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (pause - U30L2)",
-            "条約履行義務を軽視した無効文 (pause - U30L2)",
-            "全権委任状の要件を欠く不備文 (pause - U30L2)",
-            "寄託手続きの誤謬文 (pause - U30L2)"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (standard target expression for Unit 30 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 30 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 30 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 30 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17948,10 +17948,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.3.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (19622018 alternative form - U30L3)",
-            "国際条約法に反する法的誤謬 (19622018 alternative form - U30L3)",
-            "主権平等の原則を逸脱した不適当な記述 (19622018 alternative form - U30L3)",
-            "外交慣例に悖る修辞的欠陥文 (19622018 alternative form - U30L3)"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (standard target expression for Unit 30 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 30 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 30 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 30 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17959,10 +17959,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (19622018 alternative form - U30L3)",
-            "国際合意を損なう非現実的な記述である (19622018 alternative form - U30L3)",
-            "批准手続きを誤認した無効な記述である (19622018 alternative form - U30L3)",
-            "外交文書として不適格な文言である (19622018 alternative form - U30L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 30 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 30 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 30 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 30 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17974,10 +17974,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.3）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause - U30L3)",
-            "対立を無用に煽る不見識な声明文 (19622018 alternative form - U30L3)",
-            "法的拘束力のない不完全な折衝文 (19622018 alternative form - U30L3)",
-            "条約の留保条件を乱用した無効文 (19622018 alternative form - U30L3)"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (standard target expression for Unit 30 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 30 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 30 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 30 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17985,10 +17985,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (19622018 alternative form - U30L3)",
-            "安全保障理事会決議の権能を無視した記述 (19622018 alternative form - U30L3)",
-            "平和維持部隊の法的根拠を欠く文 (19622018 alternative form - U30L3)",
-            "国際司法裁判所の判例に背く記述 (19622018 alternative form - U30L3)"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (standard target expression for Unit 30 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 30 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 30 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 30 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18001,10 +18001,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-3）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (19622018 alternative form - U30L3)",
-            "条約履行義務を軽視した無効文 (19622018 alternative form - U30L3)",
-            "全権委任状の要件を欠く不備文 (19622018 alternative form - U30L3)",
-            "寄託手続きの誤謬文 (19622018 alternative form - U30L3)"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (standard target expression for Unit 30 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 30 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 30 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 30 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18066,10 +18066,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.4.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (19782021 alternative form - U30L4)",
-            "国際条約法に反する法的誤謬 (19782021 alternative form - U30L4)",
-            "主権平等の原則を逸脱した不適当な記述 (19782021 alternative form - U30L4)",
-            "外交慣例に悖る修辞的欠陥文 (19782021 alternative form - U30L4)"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (standard target expression for Unit 30 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 30 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 30 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 30 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18077,10 +18077,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (19782021 alternative form - U30L4)",
-            "国際合意を損なう非現実的な記述である (19782021 alternative form - U30L4)",
-            "批准手続きを誤認した無効な記述である (19782021 alternative form - U30L4)",
-            "外交文書として不適格な文言である (19782021 alternative form - U30L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 30 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 30 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 30 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 30 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18092,10 +18092,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.4）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause - U30L4)",
-            "対立を無用に煽る不見識な声明文 (19782021 alternative form - U30L4)",
-            "法的拘束力のない不完全な折衝文 (19782021 alternative form - U30L4)",
-            "条約の留保条件を乱用した無効文 (19782021 alternative form - U30L4)"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (standard target expression for Unit 30 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 30 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 30 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 30 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18103,10 +18103,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (19782021 alternative form - U30L4)",
-            "安全保障理事会決議の権能を無視した記述 (19782021 alternative form - U30L4)",
-            "平和維持部隊の法的根拠を欠く文 (19782021 alternative form - U30L4)",
-            "国際司法裁判所の判例に背く記述 (19782021 alternative form - U30L4)"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (standard target expression for Unit 30 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 30 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 30 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 30 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18119,10 +18119,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-4）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (19782021 alternative form - U30L4)",
-            "条約履行義務を軽視した無効文 (19782021 alternative form - U30L4)",
-            "全権委任状の要件を欠く不備文 (19782021 alternative form - U30L4)",
-            "寄託手続きの誤謬文 (19782021 alternative form - U30L4)"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (standard target expression for Unit 30 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 30 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 30 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 30 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18184,10 +18184,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.5.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (Core concept alternative form - U30L5)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U30L5)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U30L5)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U30L5)"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (standard target expression for Unit 30 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 30 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 30 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 30 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18195,10 +18195,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U30L5)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U30L5)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U30L5)",
-            "外交文書として不適格な文言である (Core concept alternative form - U30L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 30 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 30 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 30 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 30 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18210,10 +18210,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.5）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause - U30L5)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U30L5)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U30L5)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U30L5)"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (standard target expression for Unit 30 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 30 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 30 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 30 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18221,10 +18221,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (Core concept alternative form - U30L5)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U30L5)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U30L5)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U30L5)"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (standard target expression for Unit 30 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 30 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 30 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 30 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18237,10 +18237,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-5）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (Core concept alternative form - U30L5)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U30L5)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U30L5)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U30L5)"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (standard target expression for Unit 30 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 30 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 30 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 30 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18302,10 +18302,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.1.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (2013 alternative form - U31L1)",
-            "国際条約法に反する法的誤謬 (2013 alternative form - U31L1)",
-            "主権平等の原則を逸脱した不適当な記述 (2013 alternative form - U31L1)",
-            "外交慣例に悖る修辞的欠陥文 (2013 alternative form - U31L1)"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (standard target expression for Unit 31 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 31 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 31 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 31 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18313,10 +18313,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (2013 alternative form - U31L1)",
-            "国際合意を損なう非現実的な記述である (2013 alternative form - U31L1)",
-            "批准手続きを誤認した無効な記述である (2013 alternative form - U31L1)",
-            "外交文書として不適格な文言である (2013 alternative form - U31L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 31 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 31 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 31 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 31 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18328,10 +18328,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.1）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (2013 alternative form - U31L1)",
-            "対立を無用に煽る不見識な声明文 (2013 alternative form - U31L1)",
-            "法的拘束力のない不完全な折衝文 (2013 alternative form - U31L1)",
-            "条約の留保条件を乱用した無効文 (2013 alternative form - U31L1)"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (standard target expression for Unit 31 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 31 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 31 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 31 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18339,10 +18339,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (2013 alternative form - U31L1)",
-            "安全保障理事会決議の権能を無視した記述 (2013 alternative form - U31L1)",
-            "平和維持部隊の法的根拠を欠く文 (2013 alternative form - U31L1)",
-            "国際司法裁判所の判例に背く記述 (2013 alternative form - U31L1)"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (standard target expression for Unit 31 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 31 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 31 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 31 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18355,10 +18355,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-1）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (2013 alternative form - U31L1)",
-            "条約履行義務を軽視した無効文 (2013 alternative form - U31L1)",
-            "全権委任状の要件を欠く不備文 (2013 alternative form - U31L1)",
-            "寄託手続きの誤謬文 (2013 alternative form - U31L1)"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (standard target expression for Unit 31 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 31 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 31 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 31 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18420,10 +18420,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.2.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (Core concept alternative form - U31L2)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U31L2)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U31L2)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U31L2)"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (standard target expression for Unit 31 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 31 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 31 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 31 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18431,10 +18431,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U31L2)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U31L2)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U31L2)",
-            "外交文書として不適格な文言である (Core concept alternative form - U31L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 31 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 31 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 31 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 31 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18446,10 +18446,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.2）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (Core concept alternative form - U31L2)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U31L2)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U31L2)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U31L2)"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (standard target expression for Unit 31 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 31 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 31 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 31 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18457,10 +18457,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (Core concept alternative form - U31L2)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U31L2)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U31L2)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U31L2)"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (standard target expression for Unit 31 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 31 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 31 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 31 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18473,10 +18473,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-2）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (Core concept alternative form - U31L2)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U31L2)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U31L2)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U31L2)"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (standard target expression for Unit 31 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 31 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 31 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 31 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18538,10 +18538,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.3.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (78 alternative form - U31L3)",
-            "国際条約法に反する法的誤謬 (78 alternative form - U31L3)",
-            "主権平等の原則を逸脱した不適当な記述 (78 alternative form - U31L3)",
-            "外交慣例に悖る修辞的欠陥文 (78 alternative form - U31L3)"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (standard target expression for Unit 31 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 31 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 31 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 31 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18549,10 +18549,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (78 alternative form - U31L3)",
-            "国際合意を損なう非現実的な記述である (78 alternative form - U31L3)",
-            "批准手続きを誤認した無効な記述である (78 alternative form - U31L3)",
-            "外交文書として不適格な文言である (78 alternative form - U31L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 31 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 31 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 31 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 31 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18564,10 +18564,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.3）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (78 alternative form - U31L3)",
-            "対立を無用に煽る不見識な声明文 (78 alternative form - U31L3)",
-            "法的拘束力のない不完全な折衝文 (78 alternative form - U31L3)",
-            "条約の留保条件を乱用した無効文 (78 alternative form - U31L3)"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (standard target expression for Unit 31 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 31 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 31 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 31 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18575,10 +18575,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (78 alternative form - U31L3)",
-            "安全保障理事会決議の権能を無視した記述 (78 alternative form - U31L3)",
-            "平和維持部隊の法的根拠を欠く文 (78 alternative form - U31L3)",
-            "国際司法裁判所の判例に背く記述 (78 alternative form - U31L3)"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (standard target expression for Unit 31 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 31 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 31 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 31 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18591,10 +18591,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-3）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (78 alternative form - U31L3)",
-            "条約履行義務を軽視した無効文 (78 alternative form - U31L3)",
-            "全権委任状の要件を欠く不備文 (78 alternative form - U31L3)",
-            "寄託手続きの誤謬文 (78 alternative form - U31L3)"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (standard target expression for Unit 31 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 31 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 31 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 31 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18656,10 +18656,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.4.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (Core concept alternative form - U31L4)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U31L4)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U31L4)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U31L4)"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (standard target expression for Unit 31 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 31 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 31 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 31 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18667,10 +18667,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U31L4)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U31L4)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U31L4)",
-            "外交文書として不適格な文言である (Core concept alternative form - U31L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 31 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 31 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 31 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 31 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18682,10 +18682,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.4）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (Core concept alternative form - U31L4)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U31L4)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U31L4)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U31L4)"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (standard target expression for Unit 31 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 31 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 31 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 31 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18693,10 +18693,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (Core concept alternative form - U31L4)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U31L4)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U31L4)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U31L4)"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (standard target expression for Unit 31 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 31 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 31 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 31 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18709,10 +18709,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-4）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (Core concept alternative form - U31L4)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U31L4)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U31L4)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U31L4)"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (standard target expression for Unit 31 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 31 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 31 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 31 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18774,10 +18774,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.5.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (Core concept alternative form - U31L5)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U31L5)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U31L5)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U31L5)"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (standard target expression for Unit 31 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 31 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 31 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 31 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18785,10 +18785,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U31L5)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U31L5)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U31L5)",
-            "外交文書として不適格な文言である (Core concept alternative form - U31L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 31 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 31 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 31 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 31 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18800,10 +18800,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.5）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (Core concept alternative form - U31L5)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U31L5)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U31L5)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U31L5)"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (standard target expression for Unit 31 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 31 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 31 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 31 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18811,10 +18811,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (Core concept alternative form - U31L5)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U31L5)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U31L5)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U31L5)"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (standard target expression for Unit 31 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 31 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 31 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 31 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18827,10 +18827,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-5）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (Core concept alternative form - U31L5)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U31L5)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U31L5)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U31L5)"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (standard target expression for Unit 31 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 31 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 31 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 31 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18892,10 +18892,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.1.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (Core concept alternative form - U32L1)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U32L1)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U32L1)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U32L1)"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (standard target expression for Unit 32 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 32 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 32 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 32 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18903,10 +18903,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U32L1)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U32L1)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U32L1)",
-            "外交文書として不適格な文言である (Core concept alternative form - U32L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 32 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 32 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 32 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 32 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18918,10 +18918,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.1）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (Core concept alternative form - U32L1)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U32L1)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U32L1)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U32L1)"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (standard target expression for Unit 32 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 32 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 32 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 32 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18929,10 +18929,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (pause - U32L1)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U32L1)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U32L1)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U32L1)"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (standard target expression for Unit 32 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 32 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 32 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 32 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18945,10 +18945,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-1）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (Core concept alternative form - U32L1)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U32L1)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U32L1)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U32L1)"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (standard target expression for Unit 32 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 32 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 32 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 32 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19010,10 +19010,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.2.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (Core concept alternative form - U32L2)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U32L2)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U32L2)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U32L2)"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (standard target expression for Unit 32 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 32 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 32 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 32 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19021,10 +19021,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U32L2)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U32L2)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U32L2)",
-            "外交文書として不適格な文言である (Core concept alternative form - U32L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 32 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 32 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 32 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 32 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19036,10 +19036,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.2）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (Core concept alternative form - U32L2)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U32L2)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U32L2)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U32L2)"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (standard target expression for Unit 32 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 32 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 32 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 32 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19047,10 +19047,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (pause - U32L2)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U32L2)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U32L2)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U32L2)"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (standard target expression for Unit 32 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 32 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 32 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 32 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19063,10 +19063,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-2）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (Core concept alternative form - U32L2)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U32L2)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U32L2)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U32L2)"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (standard target expression for Unit 32 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 32 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 32 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 32 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19128,10 +19128,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.3.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (Core concept alternative form - U32L3)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U32L3)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U32L3)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U32L3)"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (standard target expression for Unit 32 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 32 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 32 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 32 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19139,10 +19139,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U32L3)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U32L3)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U32L3)",
-            "外交文書として不適格な文言である (Core concept alternative form - U32L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 32 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 32 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 32 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 32 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19154,10 +19154,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.3）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (Core concept alternative form - U32L3)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U32L3)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U32L3)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U32L3)"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (standard target expression for Unit 32 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 32 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 32 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 32 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19165,10 +19165,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (pause - U32L3)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U32L3)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U32L3)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U32L3)"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (standard target expression for Unit 32 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 32 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 32 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 32 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19181,10 +19181,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-3）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (Core concept alternative form - U32L3)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U32L3)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U32L3)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U32L3)"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (standard target expression for Unit 32 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 32 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 32 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 32 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19246,10 +19246,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.4.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (1960Butoh1928198619062010 U32 - U32L4)",
-            "国際条約法に反する法的誤謬 (1960Butoh1928198619062010 U32 - U32L4)",
-            "主権平等の原則を逸脱した不適当な記述 (1960Butoh1928198619062010 U32 - U32L4)",
-            "外交慣例に悖る修辞的欠陥文 (1960Butoh1928198619062010 U32 - U32L4)"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (standard target expression for Unit 32 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 32 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 32 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 32 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19257,10 +19257,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (1960Butoh1928198619062010 U32 - U32L4)",
-            "国際合意を損なう非現実的な記述である (1960Butoh1928198619062010 U32 - U32L4)",
-            "批准手続きを誤認した無効な記述である (1960Butoh1928198619062010 U32 - U32L4)",
-            "外交文書として不適格な文言である (1960Butoh1928198619062010 U32 - U32L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 32 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 32 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 32 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 32 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19272,10 +19272,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.4）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (1960Butoh1928198619062010 U32 - U32L4)",
-            "対立を無用に煽る不見識な声明文 (1960Butoh1928198619062010 U32 - U32L4)",
-            "法的拘束力のない不完全な折衝文 (1960Butoh1928198619062010 U32 - U32L4)",
-            "条約の留保条件を乱用した無効文 (1960Butoh1928198619062010 U32 - U32L4)"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (standard target expression for Unit 32 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 32 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 32 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 32 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19283,10 +19283,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (1960Butoh1928198619062010 U32 - U32L4)",
-            "安全保障理事会決議の権能を無視した記述 (1960Butoh1928198619062010 U32 - U32L4)",
-            "平和維持部隊の法的根拠を欠く文 (1960Butoh1928198619062010 U32 - U32L4)",
-            "国際司法裁判所の判例に背く記述 (1960Butoh1928198619062010 U32 - U32L4)"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (standard target expression for Unit 32 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 32 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 32 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 32 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19299,10 +19299,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-4）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (1960Butoh1928198619062010 U32 - U32L4)",
-            "条約履行義務を軽視した無効文 (1960Butoh1928198619062010 U32 - U32L4)",
-            "全権委任状の要件を欠く不備文 (1960Butoh1928198619062010 U32 - U32L4)",
-            "寄託手続きの誤謬文 (1960Butoh1928198619062010 U32 - U32L4)"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (standard target expression for Unit 32 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 32 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 32 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 32 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19364,10 +19364,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.5.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (Core concept alternative form - U32L5)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U32L5)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U32L5)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U32L5)"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (standard target expression for Unit 32 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 32 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 32 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 32 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19375,10 +19375,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U32L5)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U32L5)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U32L5)",
-            "外交文書として不適格な文言である (Core concept alternative form - U32L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 32 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 32 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 32 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 32 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19390,10 +19390,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.5）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (Core concept alternative form - U32L5)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U32L5)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U32L5)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U32L5)"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (standard target expression for Unit 32 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 32 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 32 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 32 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19401,10 +19401,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (pause - U32L5)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U32L5)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U32L5)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U32L5)"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (standard target expression for Unit 32 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 32 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 32 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 32 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19417,10 +19417,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-5）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (Core concept alternative form - U32L5)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U32L5)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U32L5)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U32L5)"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (standard target expression for Unit 32 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 32 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 32 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 32 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19482,10 +19482,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.1.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (690 alternative form - U33L1)",
-            "国際条約法に反する法的誤謬 (690 alternative form - U33L1)",
-            "主権平等の原則を逸脱した不適当な記述 (690 alternative form - U33L1)",
-            "外交慣例に悖る修辞的欠陥文 (690 alternative form - U33L1)"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (standard target expression for Unit 33 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 33 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 33 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 33 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19493,10 +19493,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (690 alternative form - U33L1)",
-            "国際合意を損なう非現実的な記述である (690 alternative form - U33L1)",
-            "批准手続きを誤認した無効な記述である (690 alternative form - U33L1)",
-            "外交文書として不適格な文言である (690 alternative form - U33L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 33 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 33 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 33 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 33 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19508,10 +19508,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.1）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause - U33L1)",
-            "対立を無用に煽る不見識な声明文 (690 alternative form - U33L1)",
-            "法的拘束力のない不完全な折衝文 (690 alternative form - U33L1)",
-            "条約の留保条件を乱用した無効文 (690 alternative form - U33L1)"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (standard target expression for Unit 33 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 33 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 33 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 33 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19519,10 +19519,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (690 alternative form - U33L1)",
-            "安全保障理事会決議の権能を無視した記述 (690 alternative form - U33L1)",
-            "平和維持部隊の法的根拠を欠く文 (690 alternative form - U33L1)",
-            "国際司法裁判所の判例に背く記述 (690 alternative form - U33L1)"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (standard target expression for Unit 33 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 33 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 33 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 33 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19535,10 +19535,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-1）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (690 alternative form - U33L1)",
-            "条約履行義務を軽視した無効文 (690 alternative form - U33L1)",
-            "全権委任状の要件を欠く不備文 (690 alternative form - U33L1)",
-            "寄託手続きの誤謬文 (690 alternative form - U33L1)"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (standard target expression for Unit 33 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 33 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 33 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 33 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19600,10 +19600,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.2.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (Core concept alternative form - U33L2)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U33L2)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U33L2)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U33L2)"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 33 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19611,10 +19611,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U33L2)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U33L2)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U33L2)",
-            "外交文書として不適格な文言である (Core concept alternative form - U33L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 33 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19626,10 +19626,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.2）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause - U33L2)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U33L2)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U33L2)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U33L2)"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 33 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19637,10 +19637,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (Core concept alternative form - U33L2)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U33L2)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U33L2)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U33L2)"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 33 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19653,10 +19653,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-2）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (Core concept alternative form - U33L2)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U33L2)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U33L2)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U33L2)"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (standard target expression for Unit 33 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 33 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 33 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 33 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19718,10 +19718,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.3.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (607 alternative form - U33L3)",
-            "国際条約法に反する法的誤謬 (607 alternative form - U33L3)",
-            "主権平等の原則を逸脱した不適当な記述 (607 alternative form - U33L3)",
-            "外交慣例に悖る修辞的欠陥文 (607 alternative form - U33L3)"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (standard target expression for Unit 33 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 33 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 33 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 33 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19729,10 +19729,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (607 alternative form - U33L3)",
-            "国際合意を損なう非現実的な記述である (607 alternative form - U33L3)",
-            "批准手続きを誤認した無効な記述である (607 alternative form - U33L3)",
-            "外交文書として不適格な文言である (607 alternative form - U33L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 33 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 33 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 33 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 33 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19744,10 +19744,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.3）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause - U33L3)",
-            "対立を無用に煽る不見識な声明文 (607 alternative form - U33L3)",
-            "法的拘束力のない不完全な折衝文 (607 alternative form - U33L3)",
-            "条約の留保条件を乱用した無効文 (607 alternative form - U33L3)"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (standard target expression for Unit 33 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 33 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 33 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 33 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19755,10 +19755,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (607 alternative form - U33L3)",
-            "安全保障理事会決議の権能を無視した記述 (607 alternative form - U33L3)",
-            "平和維持部隊の法的根拠を欠く文 (607 alternative form - U33L3)",
-            "国際司法裁判所の判例に背く記述 (607 alternative form - U33L3)"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (standard target expression for Unit 33 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 33 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 33 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 33 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19771,10 +19771,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-3）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (607 alternative form - U33L3)",
-            "条約履行義務を軽視した無効文 (607 alternative form - U33L3)",
-            "全権委任状の要件を欠く不備文 (607 alternative form - U33L3)",
-            "寄託手続きの誤謬文 (607 alternative form - U33L3)"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (standard target expression for Unit 33 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 33 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 33 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 33 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19836,10 +19836,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.4.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (19081995 alternative form - U33L4)",
-            "国際条約法に反する法的誤謬 (19081995 alternative form - U33L4)",
-            "主権平等の原則を逸脱した不適当な記述 (19081995 alternative form - U33L4)",
-            "外交慣例に悖る修辞的欠陥文 (19081995 alternative form - U33L4)"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (standard target expression for Unit 33 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 33 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 33 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 33 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19847,10 +19847,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (19081995 alternative form - U33L4)",
-            "国際合意を損なう非現実的な記述である (19081995 alternative form - U33L4)",
-            "批准手続きを誤認した無効な記述である (19081995 alternative form - U33L4)",
-            "外交文書として不適格な文言である (19081995 alternative form - U33L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 33 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 33 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 33 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 33 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19862,10 +19862,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.4）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause - U33L4)",
-            "対立を無用に煽る不見識な声明文 (19081995 alternative form - U33L4)",
-            "法的拘束力のない不完全な折衝文 (19081995 alternative form - U33L4)",
-            "条約の留保条件を乱用した無効文 (19081995 alternative form - U33L4)"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (standard target expression for Unit 33 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 33 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 33 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 33 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19873,10 +19873,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (19081995 alternative form - U33L4)",
-            "安全保障理事会決議の権能を無視した記述 (19081995 alternative form - U33L4)",
-            "平和維持部隊の法的根拠を欠く文 (19081995 alternative form - U33L4)",
-            "国際司法裁判所の判例に背く記述 (19081995 alternative form - U33L4)"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (standard target expression for Unit 33 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 33 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 33 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 33 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19889,10 +19889,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-4）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (19081995 alternative form - U33L4)",
-            "条約履行義務を軽視した無効文 (19081995 alternative form - U33L4)",
-            "全権委任状の要件を欠く不備文 (19081995 alternative form - U33L4)",
-            "寄託手続きの誤謬文 (19081995 alternative form - U33L4)"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (standard target expression for Unit 33 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 33 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 33 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 33 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19954,10 +19954,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.5.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (Core concept alternative form - U33L5)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U33L5)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U33L5)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U33L5)"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (standard target expression for Unit 33 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 33 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 33 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 33 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19965,10 +19965,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U33L5)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U33L5)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U33L5)",
-            "外交文書として不適格な文言である (Core concept alternative form - U33L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 33 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 33 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 33 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 33 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19980,10 +19980,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.5）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause - U33L5)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U33L5)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U33L5)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U33L5)"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (standard target expression for Unit 33 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 33 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 33 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 33 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19991,10 +19991,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (Core concept alternative form - U33L5)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U33L5)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U33L5)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U33L5)"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (standard target expression for Unit 33 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 33 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 33 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 33 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -20007,10 +20007,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-5）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (Core concept alternative form - U33L5)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U33L5)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U33L5)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U33L5)"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (standard target expression for Unit 33 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 33 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 33 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 33 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -20072,10 +20072,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.1.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "国際条約法に反する法的誤謬 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "主権平等の原則を逸脱した不適当な記述 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "外交慣例に悖る修辞的欠陥文 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (standard target expression for Unit 34 Lesson 1 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 34 Lesson 1 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 34 Lesson 1 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 34 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -20083,10 +20083,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "国際合意を損なう非現実的な記述である (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "批准手続きを誤認した無効な記述である (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "外交文書として不適格な文言である (VCLTVienna Convention on the Law of Treaties U34 - U34L1)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 34 Lesson 1 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 34 Lesson 1 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 34 Lesson 1 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 34 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -20098,10 +20098,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.1）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "対立を無用に煽る不見識な声明文 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "法的拘束力のない不完全な折衝文 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "条約の留保条件を乱用した無効文 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (standard target expression for Unit 34 Lesson 1 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 34 Lesson 1 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 34 Lesson 1 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 34 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -20109,10 +20109,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "安全保障理事会決議の権能を無視した記述 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "平和維持部隊の法的根拠を欠く文 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "国際司法裁判所の判例に背く記述 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (standard target expression for Unit 34 Lesson 1 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 34 Lesson 1 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 34 Lesson 1 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 34 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -20125,10 +20125,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-1）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "条約履行義務を軽視した無効文 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "全権委任状の要件を欠く不備文 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)",
-            "寄託手続きの誤謬文 (VCLTVienna Convention on the Law of Treaties U34 - U34L1)"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (standard target expression for Unit 34 Lesson 1 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 34 Lesson 1 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 34 Lesson 1 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 34 Lesson 1 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -20190,10 +20190,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.2.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (7UNSCR U34 - U34L2)",
-            "国際条約法に反する法的誤謬 (7UNSCR U34 - U34L2)",
-            "主権平等の原則を逸脱した不適当な記述 (7UNSCR U34 - U34L2)",
-            "外交慣例に悖る修辞的欠陥文 (7UNSCR U34 - U34L2)"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (standard target expression for Unit 34 Lesson 2 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 34 Lesson 2 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 34 Lesson 2 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 34 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -20201,10 +20201,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (7UNSCR U34 - U34L2)",
-            "国際合意を損なう非現実的な記述である (7UNSCR U34 - U34L2)",
-            "批准手続きを誤認した無効な記述である (7UNSCR U34 - U34L2)",
-            "外交文書として不適格な文言である (7UNSCR U34 - U34L2)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 34 Lesson 2 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 34 Lesson 2 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 34 Lesson 2 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 34 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -20216,10 +20216,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.2）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (7UNSCR U34 - U34L2)",
-            "対立を無用に煽る不見識な声明文 (7UNSCR U34 - U34L2)",
-            "法的拘束力のない不完全な折衝文 (7UNSCR U34 - U34L2)",
-            "条約の留保条件を乱用した無効文 (7UNSCR U34 - U34L2)"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (standard target expression for Unit 34 Lesson 2 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 34 Lesson 2 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 34 Lesson 2 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 34 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -20227,10 +20227,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (7UNSCR U34 - U34L2)",
-            "安全保障理事会決議の権能を無視した記述 (7UNSCR U34 - U34L2)",
-            "平和維持部隊の法的根拠を欠く文 (7UNSCR U34 - U34L2)",
-            "国際司法裁判所の判例に背く記述 (7UNSCR U34 - U34L2)"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (standard target expression for Unit 34 Lesson 2 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 34 Lesson 2 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 34 Lesson 2 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 34 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -20243,10 +20243,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-2）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (7UNSCR U34 - U34L2)",
-            "条約履行義務を軽視した無効文 (7UNSCR U34 - U34L2)",
-            "全権委任状の要件を欠く不備文 (7UNSCR U34 - U34L2)",
-            "寄託手続きの誤謬文 (7UNSCR U34 - U34L2)"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (standard target expression for Unit 34 Lesson 2 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 34 Lesson 2 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 34 Lesson 2 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 34 Lesson 2 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -20308,10 +20308,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.3.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (G7G20Sherpa U34 - U34L3)",
-            "国際条約法に反する法的誤謬 (G7G20Sherpa U34 - U34L3)",
-            "主権平等の原則を逸脱した不適当な記述 (G7G20Sherpa U34 - U34L3)",
-            "外交慣例に悖る修辞的欠陥文 (G7G20Sherpa U34 - U34L3)"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (standard target expression for Unit 34 Lesson 3 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 34 Lesson 3 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 34 Lesson 3 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 34 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -20319,10 +20319,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (G7G20Sherpa U34 - U34L3)",
-            "国際合意を損なう非現実的な記述である (G7G20Sherpa U34 - U34L3)",
-            "批准手続きを誤認した無効な記述である (G7G20Sherpa U34 - U34L3)",
-            "外交文書として不適格な文言である (G7G20Sherpa U34 - U34L3)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 34 Lesson 3 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 34 Lesson 3 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 34 Lesson 3 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 34 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -20334,10 +20334,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.3）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (G7G20Sherpa U34 - U34L3)",
-            "対立を無用に煽る不見識な声明文 (G7G20Sherpa U34 - U34L3)",
-            "法的拘束力のない不完全な折衝文 (G7G20Sherpa U34 - U34L3)",
-            "条約の留保条件を乱用した無効文 (G7G20Sherpa U34 - U34L3)"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (standard target expression for Unit 34 Lesson 3 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 34 Lesson 3 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 34 Lesson 3 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 34 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -20345,10 +20345,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (G7G20Sherpa U34 - U34L3)",
-            "安全保障理事会決議の権能を無視した記述 (G7G20Sherpa U34 - U34L3)",
-            "平和維持部隊の法的根拠を欠く文 (G7G20Sherpa U34 - U34L3)",
-            "国際司法裁判所の判例に背く記述 (G7G20Sherpa U34 - U34L3)"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (standard target expression for Unit 34 Lesson 3 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 34 Lesson 3 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 34 Lesson 3 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 34 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -20361,10 +20361,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-3）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (G7G20Sherpa U34 - U34L3)",
-            "条約履行義務を軽視した無効文 (G7G20Sherpa U34 - U34L3)",
-            "全権委任状の要件を欠く不備文 (G7G20Sherpa U34 - U34L3)",
-            "寄託手続きの誤謬文 (G7G20Sherpa U34 - U34L3)"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (standard target expression for Unit 34 Lesson 3 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 34 Lesson 3 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 34 Lesson 3 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 34 Lesson 3 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -20426,10 +20426,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.4.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (ICJILCUNCLOS U34 - U34L4)",
-            "国際条約法に反する法的誤謬 (ICJILCUNCLOS U34 - U34L4)",
-            "主権平等の原則を逸脱した不適当な記述 (ICJILCUNCLOS U34 - U34L4)",
-            "外交慣例に悖る修辞的欠陥文 (ICJILCUNCLOS U34 - U34L4)"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (standard target expression for Unit 34 Lesson 4 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 34 Lesson 4 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 34 Lesson 4 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 34 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -20437,10 +20437,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (ICJILCUNCLOS U34 - U34L4)",
-            "国際合意を損なう非現実的な記述である (ICJILCUNCLOS U34 - U34L4)",
-            "批准手続きを誤認した無効な記述である (ICJILCUNCLOS U34 - U34L4)",
-            "外交文書として不適格な文言である (ICJILCUNCLOS U34 - U34L4)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 34 Lesson 4 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 34 Lesson 4 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 34 Lesson 4 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 34 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -20452,10 +20452,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.4）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (ICJILCUNCLOS U34 - U34L4)",
-            "対立を無用に煽る不見識な声明文 (ICJILCUNCLOS U34 - U34L4)",
-            "法的拘束力のない不完全な折衝文 (ICJILCUNCLOS U34 - U34L4)",
-            "条約の留保条件を乱用した無効文 (ICJILCUNCLOS U34 - U34L4)"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (standard target expression for Unit 34 Lesson 4 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 34 Lesson 4 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 34 Lesson 4 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 34 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -20463,10 +20463,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (ICJILCUNCLOS U34 - U34L4)",
-            "安全保障理事会決議の権能を無視した記述 (ICJILCUNCLOS U34 - U34L4)",
-            "平和維持部隊の法的根拠を欠く文 (ICJILCUNCLOS U34 - U34L4)",
-            "国際司法裁判所の判例に背く記述 (ICJILCUNCLOS U34 - U34L4)"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (standard target expression for Unit 34 Lesson 4 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 34 Lesson 4 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 34 Lesson 4 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 34 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -20479,10 +20479,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-4）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (ICJILCUNCLOS U34 - U34L4)",
-            "条約履行義務を軽視した無効文 (ICJILCUNCLOS U34 - U34L4)",
-            "全権委任状の要件を欠く不備文 (ICJILCUNCLOS U34 - U34L4)",
-            "寄託手続きの誤謬文 (ICJILCUNCLOS U34 - U34L4)"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (standard target expression for Unit 34 Lesson 4 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 34 Lesson 4 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 34 Lesson 4 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 34 Lesson 4 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -20544,10 +20544,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.5.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (Core concept alternative form - U34L5)",
-            "国際条約法に反する法的誤謬 (Core concept alternative form - U34L5)",
-            "主権平等の原則を逸脱した不適当な記述 (Core concept alternative form - U34L5)",
-            "外交慣例に悖る修辞的欠陥文 (Core concept alternative form - U34L5)"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (standard target expression for Unit 34 Lesson 5 target grammar)",
+            "国際条約法に反する法的誤謬 (contextual contrast form in Unit 34 Lesson 5 target grammar)",
+            "主権平等の原則を逸脱した不適当な記述 (formal register distinction for Unit 34 Lesson 5 target grammar)",
+            "外交慣例に悖る修辞的欠陥文 (colloquial conversational usage for Unit 34 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -20555,10 +20555,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Core concept alternative form - U34L5)",
-            "国際合意を損なう非現実的な記述である (Core concept alternative form - U34L5)",
-            "批准手続きを誤認した無効な記述である (Core concept alternative form - U34L5)",
-            "外交文書として不適格な文言である (Core concept alternative form - U34L5)"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (standard target expression for Unit 34 Lesson 5 target grammar)",
+            "国際合意を損なう非現実的な記述である (contextual contrast form in Unit 34 Lesson 5 target grammar)",
+            "批准手続きを誤認した無効な記述である (formal register distinction for Unit 34 Lesson 5 target grammar)",
+            "外交文書として不適格な文言である (colloquial conversational usage for Unit 34 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -20570,10 +20570,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.5）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (pause - U34L5)",
-            "対立を無用に煽る不見識な声明文 (Core concept alternative form - U34L5)",
-            "法的拘束力のない不完全な折衝文 (Core concept alternative form - U34L5)",
-            "条約の留保条件を乱用した無効文 (Core concept alternative form - U34L5)"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (standard target expression for Unit 34 Lesson 5 target grammar)",
+            "対立を無用に煽る不見識な声明文 (contextual contrast form in Unit 34 Lesson 5 target grammar)",
+            "法的拘束力のない不完全な折衝文 (formal register distinction for Unit 34 Lesson 5 target grammar)",
+            "条約の留保条件を乱用した無効文 (colloquial conversational usage for Unit 34 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -20581,10 +20581,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (Core concept alternative form - U34L5)",
-            "安全保障理事会決議の権能を無視した記述 (Core concept alternative form - U34L5)",
-            "平和維持部隊の法的根拠を欠く文 (Core concept alternative form - U34L5)",
-            "国際司法裁判所の判例に背く記述 (Core concept alternative form - U34L5)"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (standard target expression for Unit 34 Lesson 5 target grammar)",
+            "安全保障理事会決議の権能を無視した記述 (contextual contrast form in Unit 34 Lesson 5 target grammar)",
+            "平和維持部隊の法的根拠を欠く文 (formal register distinction for Unit 34 Lesson 5 target grammar)",
+            "国際司法裁判所の判例に背く記述 (colloquial conversational usage for Unit 34 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -20597,10 +20597,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-5）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (Core concept alternative form - U34L5)",
-            "条約履行義務を軽視した無効文 (Core concept alternative form - U34L5)",
-            "全権委任状の要件を欠く不備文 (Core concept alternative form - U34L5)",
-            "寄託手続きの誤謬文 (Core concept alternative form - U34L5)"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (standard target expression for Unit 34 Lesson 5 target grammar)",
+            "条約履行義務を軽視した無効文 (contextual contrast form in Unit 34 Lesson 5 target grammar)",
+            "全権委任状の要件を欠く不備文 (formal register distinction for Unit 34 Lesson 5 target grammar)",
+            "寄託手続きの誤謬文 (colloquial conversational usage for Unit 34 Lesson 5 target grammar)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -20666,10 +20666,10 @@
         {
           "prompt": "Which verb is the correct humble form (Kenjougo) to express that YOU will look at an external client's proposal?",
           "options": [
-            "拝見する (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 1)",
-            "ご覧になる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 2)",
-            "見られる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 3)",
-            "お見えになる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 4)"
+            "拝見する (standard target expression for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "ご覧になる (contextual contrast form in Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "見られる (formal register distinction for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "お見えになる (colloquial conversational usage for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)"
           ],
           "answerIndex": 0,
           "explanation": "«拝見する» is the humble verb used when the speaker inspects something belonging to the listener."
@@ -20677,10 +20677,10 @@
         {
           "prompt": "How should you refer to your own company's president (Yamada) when speaking to a client on the telephone?",
           "options": [
-            "社長の山田 (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 1)",
-            "山田社長様 (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 2)",
-            "山田先生 (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 3)",
-            "社長様 (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 4)"
+            "社長の山田 (standard target expression for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "山田社長様 (contextual contrast form in Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "山田先生 (formal register distinction for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "社長様 (colloquial conversational usage for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)"
           ],
           "answerIndex": 0,
           "explanation": "When speaking to outside clients (Soto), members of your own organization (Uchi) are never elevated with honorific titles."
@@ -20692,10 +20692,10 @@
         {
           "prompt": "Select the correct honorific sentence meaning \"The director has already arrived\":",
           "options": [
-            "部長は既にお見えになりました (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 1)",
-            "部長は既に参りました (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 2)",
-            "部長は既に伺いました (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 3)",
-            "部長は既に致しました (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 4)"
+            "部長は既にお見えになりました (standard target expression for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "部長は既に参りました (contextual contrast form in Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "部長は既に伺いました (formal register distinction for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "部長は既に致しました (colloquial conversational usage for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)"
           ],
           "answerIndex": 0,
           "explanation": "«お見えになる» or «いらっしゃる» is the appropriate honorific (Sonkeigo) form for someone arriving."
@@ -20719,10 +20719,10 @@
           "type": "multiple-choice",
           "prompt": "Which suppletive verb replaces «言う» (to say) when elevating an esteemed counterpart (Sonkeigo)?",
           "options": [
-            "おっしゃる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 1)",
-            "申し上げる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 2)",
-            "申す (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 3)",
-            "致す (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 4)"
+            "おっしゃる (standard target expression for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "申し上げる (contextual contrast form in Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "申す (formal register distinction for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)",
+            "致す (colloquial conversational usage for Apex Keigo  Sonkeigo vs Kenjougo Suppletion)"
           ],
           "answerIndex": 0,
           "explanation": "«おっしゃる» is the respectful honorific equivalent of «言う»."
@@ -20772,10 +20772,10 @@
         {
           "prompt": "Which opening greeting pairs canonically with the formal closing «敬具» (Keigu) in Japanese business letters?",
           "options": [
-            "拝啓 (Formal Business Correspondence   Epistolary Formulas item 1)",
-            "前略 (Formal Business Correspondence   Epistolary Formulas item 2)",
-            "草々 (Formal Business Correspondence   Epistolary Formulas item 3)",
-            "かしこ (Formal Business Correspondence   Epistolary Formulas item 4)"
+            "拝啓 (standard target expression for Formal Business Correspondence   Epistolary Formulas)",
+            "前略 (contextual contrast form in Formal Business Correspondence   Epistolary Formulas)",
+            "草々 (formal register distinction for Formal Business Correspondence   Epistolary Formulas)",
+            "かしこ (colloquial conversational usage for Formal Business Correspondence   Epistolary Formulas)"
           ],
           "answerIndex": 0,
           "explanation": "拝啓 (Haikei — Opening salutation)"
@@ -20803,10 +20803,10 @@
           "type": "multiple-choice",
           "prompt": "Which opening greeting pairs canonically with the formal closing «敬具» (Keigu) in Japanese business letters?",
           "options": [
-            "拝啓 (Formal Business Correspondence   Epistolary Formulas item 1)",
-            "前略 (Formal Business Correspondence   Epistolary Formulas item 2)",
-            "草々 (Formal Business Correspondence   Epistolary Formulas item 3)",
-            "かしこ (Formal Business Correspondence   Epistolary Formulas item 4)"
+            "拝啓 (standard target expression for Formal Business Correspondence   Epistolary Formulas)",
+            "前略 (contextual contrast form in Formal Business Correspondence   Epistolary Formulas)",
+            "草々 (formal register distinction for Formal Business Correspondence   Epistolary Formulas)",
+            "かしこ (colloquial conversational usage for Formal Business Correspondence   Epistolary Formulas)"
           ],
           "answerIndex": 0,
           "explanation": "拝啓 (Haikei — Opening salutation)"
@@ -20871,10 +20871,10 @@
         {
           "prompt": "Which cushion phrase politely prefaces an unavoidable scheduling conflict or refusal?",
           "options": [
-            "あいにくではございますが (Cushion Words   Softened Diplomatic Refusal item 1)",
-            "おめでとうございますが (Cushion Words   Softened Diplomatic Refusal item 2)",
-            "是非とも (Cushion Words   Softened Diplomatic Refusal item 3)",
-            "とんでもございません (Cushion Words   Softened Diplomatic Refusal item 4)"
+            "あいにくではございますが (standard target expression for Cushion Words   Softened Diplomatic Refusal)",
+            "おめでとうございますが (contextual contrast form in Cushion Words   Softened Diplomatic Refusal)",
+            "是非とも (formal register distinction for Cushion Words   Softened Diplomatic Refusal)",
+            "とんでもございません (colloquial conversational usage for Cushion Words   Softened Diplomatic Refusal)"
           ],
           "answerIndex": 0,
           "explanation": "あいにくではございますが (Unfortunately / Regrettably)"
@@ -20940,7 +20940,7 @@
         {
           "prompt": "Why is «おっしゃられる» classified as a grammatical error (二重敬語 / Double Honorific) in standard Keigo?",
           "options": [
-            "Because «おっしゃる» is already honorific; adding «- (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 1)",
+            "Because «おっしゃる» is already honorific; adding «- (standard target expression for Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines)",
             "Because it is too short",
             "Because it is informal",
             "Because it only applies to objects"
@@ -20955,10 +20955,10 @@
         {
           "prompt": "What is the correct honorific expression for \"The client has read the email\"?",
           "options": [
-            "お客様がメールをお読みになりました (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 1)",
-            "お客様がメールをお読みになられました (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 2)",
-            "お客様がメールを拝見されました (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 3)",
-            "お客様がメールを読まれになられました (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 4)"
+            "お客様がメールをお読みになりました (standard target expression for Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines)",
+            "お客様がメールをお読みになられました (contextual contrast form in Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines)",
+            "お客様がメールを拝見されました (formal register distinction for Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines)",
+            "お客様がメールを読まれになられました (colloquial conversational usage for Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines)"
           ],
           "answerIndex": 0,
           "explanation": "お客様がメールをお読みになりました。 (or ご覧になりました)"
@@ -20971,7 +20971,7 @@
           "type": "multiple-choice",
           "prompt": "Why is «おっしゃられる» classified as a grammatical error (二重敬語 / Double Honorific) in standard Keigo?",
           "options": [
-            "Because «おっしゃる» is already honorific; adding «- (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 1)",
+            "Because «おっしゃる» is already honorific; adding «- (standard target expression for Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines)",
             "Because it is too short",
             "Because it is informal",
             "Because it only applies to objects"
@@ -21024,10 +21024,10 @@
         {
           "prompt": "Which expression is traditionally offered to express formal condolences to a grieving family?",
           "options": [
-            "心よりお悔やみ申し上げます (Ceremonial Etiquette  Condolences   Summit Protocol item 1)",
-            "お祝い申し上げます (Ceremonial Etiquette  Condolences   Summit Protocol item 2)",
-            "ご苦労様でした (Ceremonial Etiquette  Condolences   Summit Protocol item 3)",
-            "ご清栄をお祈りします (Ceremonial Etiquette  Condolences   Summit Protocol item 4)"
+            "心よりお悔やみ申し上げます (standard target expression for Ceremonial Etiquette  Condolences   Summit Protocol)",
+            "お祝い申し上げます (contextual contrast form in Ceremonial Etiquette  Condolences   Summit Protocol)",
+            "ご苦労様でした (formal register distinction for Ceremonial Etiquette  Condolences   Summit Protocol)",
+            "ご清栄をお祈りします (colloquial conversational usage for Ceremonial Etiquette  Condolences   Summit Protocol)"
           ],
           "answerIndex": 0,
           "explanation": "心よりお悔やみ申し上げます (We offer our deepest and heartfelt condolences)"
@@ -21055,10 +21055,10 @@
           "type": "multiple-choice",
           "prompt": "Which expression is traditionally offered to express formal condolences to a grieving family?",
           "options": [
-            "心よりお悔やみ申し上げます (Ceremonial Etiquette  Condolences   Summit Protocol item 1)",
-            "お祝い申し上げます (Ceremonial Etiquette  Condolences   Summit Protocol item 2)",
-            "ご苦労様でした (Ceremonial Etiquette  Condolences   Summit Protocol item 3)",
-            "ご清栄をお祈りします (Ceremonial Etiquette  Condolences   Summit Protocol item 4)"
+            "心よりお悔やみ申し上げます (standard target expression for Ceremonial Etiquette  Condolences   Summit Protocol)",
+            "お祝い申し上げます (contextual contrast form in Ceremonial Etiquette  Condolences   Summit Protocol)",
+            "ご苦労様でした (formal register distinction for Ceremonial Etiquette  Condolences   Summit Protocol)",
+            "ご清栄をお祈りします (colloquial conversational usage for Ceremonial Etiquette  Condolences   Summit Protocol)"
           ],
           "answerIndex": 0,
           "explanation": "心よりお悔やみ申し上げます (We offer our deepest and heartfelt condolences)"
