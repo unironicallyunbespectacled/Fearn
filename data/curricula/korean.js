@@ -714,63 +714,83 @@
         "lessonNumber": 3,
         "title": "기본 인사와 만남·작별 표현 (Greetings, Gratitude & Parting Expressions)",
         "level": "A1",
-        "objective": "한국어의 존댓말 체계에 맞추어 만남의 인사(안녕하세요), 작별의 인사(안녕히 가세요/계세요), 감사(감사합니다), 사과(죄송합니다)를 적절한 상황에서 구사한다.",
+        "objective": "Master standard Korean polite greetings (안녕하세요), clear farewell distinctions (안녕히 가세요 vs 안녕히 계세요), gratitude (감사합니다), and apologies (죄송합니다).",
         "presentation": {
-            "explanation": "한국어 인사는 화자와 청자의 나이, 사회적 관계, 상황(남는 사람 vs 떠나는 사람)에 따라 명확히 구분되는 존댓말(Polite/Honorific register) 체계를 갖습니다.\n\n1. 만남의 기본 인사:\n- 안녕하세요? [An-nyeong-ha-se-yo?]: 시간대(아침, 점심, 저녁)에 관계없이 사용하는 표준 공손체(해요체) 만남 인사입니다. 어원상 '안녕(安寧: 편안하고 탈이 없음)'을 기원합니다.\n- 만나서 반갑습니다 [Man-na-seo ban-gap-seum-ni-da]: 처음 만나거나 반가움을 표할 때 격식체로 건네는 표현입니다.\n\n2. 작별 인사의 명확한 구분:\n- 안녕히 가세요 [An-nyeong-hi ga-se-yo]: 내가 머물고 상대방이 떠날 때 ('Go in peace')\n- 안녕히 계세요 [An-nyeong-hi gye-se-yo]: 상대방이 머물고 내가 떠날 때 ('Stay in peace')\n둘 다 떠나는 상황에서는 서로에게 '안녕히 가세요'를 나눕니다.\n\n3. 감사와 사과:\n- 감사합니다 [Gam-sa-ham-ni-da] / 고맙습니다 [Go-map-seum-ni-da]: 격식 있고 공손한 감사 표현\n- 죄송합니다 [Joe-song-ham-ni-da] / 미안합니다 [Mi-an-ham-ni-da]: 실수나 결례에 대한 정중한 사과 표현",
+            "explanation": "Korean interpersonal communication is built on politeness registers (존댓말 - Jondaetmal). Greetings adapt depending on the social setting and whether someone is staying or leaving.\n\n### 1. Meeting Greetings\n- **안녕하세요?** [An-nyeong-ha-se-yo?] — **\"Hello / How are you?\"**: The universal polite greeting used at any time of day (morning, afternoon, or evening). Derived from '안녕' (安寧 - peace/wellness).\n- **만나서 반갑습니다** [Man-na-seo ban-gap-seum-ni-da] — **\"Nice to meet you\"**: Polite/formal greeting upon meeting someone for the first time.\n\n### 2. The Crucial Farewell Distinction\nKorean has two distinct ways to say goodbye depending on who is moving:\n- **안녕히 가세요** [An-nyeong-hi ga-se-yo] — **\"Goodbye\" (literally: 'Go in peace')**: Said by the person *staying* to the person who is *leaving* (from 가다 = to go).\n- **안녕히 계세요** [An-nyeong-hi gye-se-yo] — **\"Goodbye\" (literally: 'Stay in peace')**: Said by the person *leaving* to the person who is *staying* (from 계시다 = honorific to stay/remain).\n*(If both people are parting and leaving, both say '안녕히 가세요' to each other!)*\n\n### 3. Gratitude and Apologies\n- **감사합니다** [Gam-sa-ham-ni-da] — **\"Thank you\"** (Formal polite gratitude, from 感謝).\n- **고맙습니다** [Go-map-seum-ni-da] — **\"Thank you\"** (Native Korean formal gratitude).\n- **죄송합니다** [Joe-song-ham-ni-da] — **\"I am sorry / Excuse me\"** (Formal polite apology for an inconvenience or mistake).\n- **미안합니다** [Mi-an-ham-ni-da] — **\"I am sorry\"** (Polite apology between peers or to someone younger).",
             "examples": [
                 {
                     "target": "안녕하세요? 반갑습니다.",
                     "reading": "Annyeonghaseyo? Bangapseumnida.",
-                    "translation": "Hello? Nice to meet you."
+                    "translation": "Hello! Nice to meet you."
                 },
                 {
                     "target": "안녕히 가세요.",
                     "reading": "Annyeonghi gaseyo.",
-                    "translation": "Goodbye (to someone leaving)."
+                    "translation": "Goodbye (said to someone leaving: 'Go in peace')."
                 },
                 {
                     "target": "안녕히 계세요.",
                     "reading": "Annyeonghi gyeseyo.",
-                    "translation": "Goodbye (to someone staying)."
+                    "translation": "Goodbye (said to someone staying: 'Stay in peace')."
                 },
                 {
-                    "target": "도와주셔서 대단히 감사합니다.",
-                    "reading": "Dowajusyeoseo daedanhi gamsahamnida.",
-                    "translation": "Thank you very much for your help."
+                    "target": "대단히 감사합니다.",
+                    "reading": "Daedanhi gamsahamnida.",
+                    "translation": "Thank you very much."
                 }
             ],
             "mnemonics": [
-                "작별 인사 구분 꿀팁: 떠나는 사람에게는 '가다(Go)'의 '가세요!', 남아있는 사람에게는 계시다(Stay)'의 '계세요!'를 씁니다."
+                "Memory trick for goodbyes: '가세요' comes from '가다' (GA = GO, for someone leaving). '계세요' comes from '계시다' (GYE = STAY, for someone staying behind)!"
             ],
             "culturalNotes": [
-                "한국에서는 인사를 나눌 때 고개를 숙이는 절(Bowing) 문화를 동반합니다. 일상적인 인사에서는 상체를 15~30도 정도 숙이고, 정중한 사과나 큰 감사에는 45도 각도로 정중히 숙입니다."
+                "In Korea, greetings are accompanied by a respectful bow. A slight 15° to 30° bow is standard for daily greetings, while a deeper 45° bow expresses formal gratitude or sincere apologies."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "식당이나 사무실에서 내가 먼저 밖으로 나가면서, 실내에 남아있는 동료나 점원에게 건네는 올바른 작별 인사는 무엇입니까?",
+                    "prompt": "You are leaving a coffee shop or classroom while the barista or your classmate stays inside. Which farewell should you say as you exit?",
                     "options": [
-                        "안녕히 계세요.",
-                        "안녕히 가세요.",
-                        "죄송합니다."
+                        "안녕히 계세요 (Annyeonghi gyeseyo - Stay in peace)",
+                        "안녕히 가세요 (Annyeonghi gaseyo - Go in peace)",
+                        "죄송합니다 (Joesonghamnida - I am sorry)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "남아있는 사람에게는 '계시다'의 존칭인 '안녕히 계세요'를 써야 합니다. 떠나는 사람에게 건네는 인사는 '안녕히 가세요'입니다."
+                    "explanation": "When you are leaving and the other person is staying behind, say '안녕히 계세요' ('Stay in peace'). '안녕히 가세요' is said to the person who is walking away."
+                },
+                {
+                    "prompt": "Which expression is the universal polite daytime/evening greeting meaning \"Hello / How are you?\" in Korean?",
+                    "options": [
+                        "안녕하세요? (Annyeonghaseyo? - Hello)",
+                        "안녕히 가세요 (Annyeonghi gaseyo - Goodbye)",
+                        "감사합니다 (Gamsahamnida - Thank you)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "'안녕하세요?' [Annyeonghaseyo?] is the standard polite meeting greeting used across all hours of the day in Korea."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "처음 만난 상대방에게 '반갑습니다(Nice to meet you)'와 함께 건네는 가장 보편적인 한국어 만남 인사는 무엇입니까?",
+                    "prompt": "A colleague helped you carry heavy boxes to your office. Which polite expression should you use to express sincere thanks?",
                     "options": [
-                        "안녕하세요?",
-                        "안녕히 가세요.",
-                        "어디에 가요?"
+                        "감사합니다 (Gamsahamnida - Thank you)",
+                        "죄송합니다 (Joesonghamnida - I am sorry)",
+                        "안녕히 계세요 (Annyeonghi gyeseyo - Goodbye)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'안녕하세요?'는 하루 중 언제든 정중하고 다정하게 안부를 묻는 표준 만남 인사말입니다."
+                    "explanation": "'감사합니다' [Gamsahamnida] is the standard formal polite phrase for expressing gratitude."
+                },
+                {
+                    "prompt": "You accidentally bumped into someone on the Seoul subway. Which polite phrase should you immediately say to apologize?",
+                    "options": [
+                        "죄송합니다 (Joesonghamnida - I am sorry)",
+                        "반갑습니다 (Bangapseumnida - Nice to meet you)",
+                        "안녕하세요 (Annyeonghaseyo - Hello)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "'죄송합니다' [Joesonghamnida] is the standard formal apology for mistakes, accidental bumps, or courtesies."
                 }
             ]
         },
@@ -778,23 +798,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "상대방의 호의와 도움에 대해 공손하게 감사를 표하는 한국어 격식체 표현은 무엇입니까?",
+                    "prompt": "If your Korean host is waving goodbye to you as YOU depart their home, what will the host say to YOU as you walk away?",
                     "options": [
-                        "죄송합니다.",
-                        "감사합니다.",
-                        "안녕히 계세요."
+                        "안녕히 가세요 (Annyeonghi gaseyo - Go in peace)",
+                        "안녕히 계세요 (Annyeonghi gyeseyo - Stay in peace)",
+                        "반갑습니다 (Bangapseumnida - Nice to meet you)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "'감사합니다[gamsahamnida]'는 깊은 고마움을 나타내는 표준 격식체 감사 표현입니다."
+                    "answerIndex": 0,
+                    "explanation": "Because you are the one leaving, the host who remains will say '안녕히 가세요' ('Go in peace')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "한국어로 표준 만남 인사말인 '안녕하세요'(Hello)를 정확히 입력하십시오.",
+                    "prompt": "Type the standard polite Korean word for \"Hello\" in Hangul (안녕하세요):",
                     "acceptedAnswers": [
                         "안녕하세요",
                         "안녕하세요?"
                     ],
-                    "explanation": "'안녕(安寧) + 하시다 + 어요 = 안녕하세요'입니다."
+                    "explanation": "'안 + 녕 + 하 + 세 + 요 = 안녕하세요' [An-nyeong-ha-se-yo] (Hello)."
                 }
             ]
         }
@@ -806,9 +826,9 @@
         "lessonNumber": 4,
         "title": "자기소개와 서술격 조사 -입니다/-입니까? (Self-Introductions & The Copula -입니다)",
         "level": "A1",
-        "objective": "서술격 조사 '이다'의 격식체 평서형('-입니다')과 의문형('-입니까?')을 사용하여 이름, 국적, 직업을 정확히 묻고 소개한다.",
+        "objective": "Master the formal polite copula -입니다 (am/is/are) and question ending -입니까? (is it?) to state and ask about names, nationalities, and occupations.",
         "presentation": {
-            "explanation": "한국어에서 명사를 서술어로 만들어 주는 문법 요소를 서술격 조사 '이다(to be)'라고 합니다. 격식체 하십시오체에서는 평서형 '-입니다'와 의문형 '-입니까?'로 활용됩니다.\n\n1. 형태 결합 규칙:\n서술격 조사 '-입니다'는 앞 명사의 받침 유무와 상관없이 명사 바로 뒤에 붙여 씁니다.\n- 받침 있는 명사 + 입니다: 학생 + 입니다 → 학생입니다 (I am a student)\n- 받침 없는 명사 + 입니다: 의사 + 입니다 → 의사입니다 (I am a doctor)\n\n2. 1인칭 공손 대명사 '저(I/Me)':\n어른이나 처음 만난 사람에게 자신을 낮추어 예의를 갖출 때는 '나' 대신 공손 대명사 '저'와 주제격 조사 '는'을 결합하여 '저는(As for me...)'으로 시작합니다.\n\n3. 국적과 직업 소개 공식:\n- 저는 [이름]입니다. (예: 저는 김민수입니다.)\n- 저는 [나라 이름] 사람입니다. (예: 저는 한국 사람입니다. / 저는 미국 사람입니다.)\n- 어느 나라 사람입니까? (Which country's person are you?)\n- 저는 [직업]입니다. (예: 저는 회사원입니다. / 저는 선생님입니다.)",
+            "explanation": "In Korean, the verb meaning \"to be\" (am, is, are) attached directly to nouns is the copula **이다**. In formal polite style (하십시오체 - Hasipsio-che), it takes two forms:\n\n### 1. The Declarative Form: [Noun] + 입니다 (im-ni-da)\n- Attached directly to any noun without a space, regardless of whether the noun ends in a vowel or a consonant:\n  - **학생** (student) + **입니다** → **학생입니다** [hak-saeng-im-ni-da] = *(I am / is) a student.*\n  - **의사** (doctor) + **입니다** → **의사입니다** [ui-sa-im-ni-da] = *(I am / is) a doctor.*\n  - **선생님** (teacher) + **입니다** → **선생님입니다** [seon-saeng-nim-im-ni-da] = *(I am / is) a teacher.*\n\n### 2. The Interrogative (Question) Form: [Noun] + 입니까? (im-ni-kka?)\n- To ask \"Are you [Noun]?\" or \"Is it [Noun]?\", replace -입니다 with **-입니까?**:\n  - **학생입니까?** [Hak-saeng-im-ni-kka?] = *Are you a student?*\n  - **어느 나라 사람입니까?** [Eo-neu na-ra sa-ram-im-ni-kka?] = *Which country's person (nationality) are you?*\n\n### 3. Polite First-Person Pronoun: 저는 (Jeo-neun)\n- When introducing yourself politely, use the humble pronoun **저** (I/me) combined with the topic particle **는** (as for):\n  - **저는 김민수입니다.** [Jeo-neun Kim Min-su-im-ni-da.] = *I am Minsu Kim.*\n  - **저는 한국 사람입니다.** [Jeo-neun Han-guk sa-ram-im-ni-da.] = *I am Korean.*\n  - **저는 미국 사람입니다.** [Jeo-neun Mi-guk sa-ram-im-ni-da.] = *I am American.*",
             "examples": [
                 {
                     "target": "저는 김민수입니다.",
@@ -823,46 +843,66 @@
                 {
                     "target": "저는 한국 사람입니다.",
                     "reading": "Jeo-neun Hanguk saram-imnida.",
-                    "translation": "I am Korean."
+                    "translation": "I am Korean (literally: Korea person)."
                 },
                 {
-                    "target": "저는 대학교 학생입니다.",
-                    "reading": "Jeo-neun daehakgyo haksaeng-imnida.",
-                    "translation": "I am a university student."
+                    "target": "저는 학생입니다.",
+                    "reading": "Jeo-neun haksaeng-imnida.",
+                    "translation": "I am a student."
                 }
             ],
             "mnemonics": [
-                "평서문 마침표는 '-입니다(마침표 느낌)', 질문 물음표는 '-입니까?(까마귀 소리처럼 묻는 까?)'로 외우세요!"
+                "Statement ends in '다' (-입니다 = period / statement). Question ends in '까?' (-입니까? = question mark / inquiry)!"
             ],
             "culturalNotes": [
-                "한국인의 성명은 '성(Family Name) + 이름(Given Name)' 순서로 쓰며 성과 이름 사이에 띄어쓰기를 하지 않습니다 (예: 김민수, 이지은). 대부분의 한국 성씨는 김(Kim), 이(Lee), 박(Park), 최(Choi), 정(Jung) 등 한 글자입니다."
+                "Korean names place the Family Name (성 - Seong) first, followed by the Given Name (이름 - Ireum), written without a space (e.g. 김민수 = Kim Minsu, 이지은 = Lee Jieun). The most common family names in Korea are Kim (김), Lee (이), and Park (박)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "상대방의 직업이나 신분을 정중하게 물어보는 격식체 의문문으로 올바른 표현은 무엇입니까?",
+                    "prompt": "How do you form the polite formal question asking someone: \"Are you a teacher?\" (선생님 = teacher):",
                     "options": [
-                        "선생님입니까?",
-                        "선생님입니다.",
-                        "선생님이에요."
+                        "선생님입니까? (Seonsaengnim-imnikka? - Are you a teacher?)",
+                        "선생님입니다 (Seonsaengnim-imnida - I am a teacher)",
+                        "선생님가요? (Seonsaengnim-gayo? - Incorrect structure)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "격식체 질문 의문형 종결어미는 '-입니까?'입니다. '-입니다'는 서술 평서문입니다."
+                    "explanation": "To ask a formal question with a noun, attach '-입니까?' [im-ni-kka?] to the noun: '선생님입니까?' (Are you a teacher?)."
+                },
+                {
+                    "prompt": "Select the correct Korean sentence stating: \"I am a student\" (저 = I, 학생 = student):",
+                    "options": [
+                        "저는 학생입니다 (Jeo-neun haksaeng-imnida)",
+                        "저는 학생입니까 (Jeo-neun haksaeng-imnikka)",
+                        "저는 학생사람 (Jeo-neun haksaeng-saram)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "'저 + 는' (As for me) + '학생' (student) + '입니다' (am) forms '저는 학생입니다'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "'저는 미국 사람입니다(I am American)'에서 국적을 나타내는 단어 '사람' 뒤에 결합된 올바른 서술격 어미는 무엇입니까?",
+                    "prompt": "In the self-introduction \"저는 미국 사람입니다\" (I am American), which word specifically means \"person / nationality\"?",
                     "options": [
-                        "사람입니다",
-                        "사람입니까",
-                        "사람아닙니다"
+                        "사람 (saram - person / people)",
+                        "미국 (miguk - United States / America)",
+                        "입니다 (imnida - am/is/are)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "자신의 국적을 단정적으로 소개하는 평서문이므로 '사람입니다'가 올바릅니다."
+                    "explanation": "'사람' [saram] means person. Placing it after a country name (e.g. 미국 사람, 한국 사람) expresses nationality."
+                },
+                {
+                    "prompt": "Which ending converts the noun '의사' (doctor) into the statement \"I am a doctor\"?",
+                    "options": [
+                        "의사입니다 (uisa-imnida - I am a doctor)",
+                        "의사입니까 (uisa-imnikka - Are you a doctor?)",
+                        "의사안녕 (uisa-annyeong - Doctor hello)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Attaching the formal copula '-입니다' creates the declarative statement '의사입니다' (I am a doctor)."
                 }
             ]
         },
@@ -870,23 +910,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "'A: 어느 나라 사람입니까? B: 저는 _____ 사람입니다.' 빈칸에 들어갈 올바른 국가 명칭은 무엇입니까?",
+                    "prompt": "Complete the dialogue: A asks \"어느 나라 사람입니까?\" (Which nationality are you?). B responds: \"저는 _____ 사람입니다.\"",
                     "options": [
-                        "한국",
-                        "학교",
-                        "의사"
+                        "한국 (Hanguk - Korea)",
+                        "학생 (Haksaeng - student)",
+                        "의사 (Uisa - doctor)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'어느 나라 사람입니까?'라는 질문에는 국가 명칭인 '한국(Korea)'이 들어가 '한국 사람입니다'가 되어야 자연스럽습니다."
+                    "explanation": "The question asks for nationality/country, so the country name '한국' (Korea) correctly fills the blank to say '저는 한국 사람입니다' (I am Korean)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "'저는 학생입니다'(I am a student)를 한글로 완벽한 문장으로 입력하십시오.",
+                    "prompt": "Type the formal Korean sentence for \"I am a student\" in Hangul (저는 학생입니다):",
                     "acceptedAnswers": [
                         "저는 학생입니다.",
                         "저는 학생입니다"
                     ],
-                    "explanation": "저(1인칭 공손) + 는(주제격) + 학생(명사) + 입니다(서술격) = 저는 학생입니다."
+                    "explanation": "'저(I) + 는(topic) + 학생(student) + 입니다(am) = 저는 학생입니다.'."
                 }
             ]
         }
@@ -898,9 +938,9 @@
         "lessonNumber": 5,
         "title": "긍정·부정 응답과 부정 서술 -이/가 아닙니다 (Affirmation, Negation & -이/가 아닙니다)",
         "level": "A1",
-        "objective": "질문에 대해 긍정('네')과 부정('아니요')으로 명확히 답하고, 부정 서술격 구조인 '[명사]이/가 아닙니다'를 활용하여 신분이나 사실을 정정한다.",
+        "objective": "Answer questions using Yes (네) and No (아니요), and state negative noun identities using the structure [Noun] + 이/가 아닙니다 (is not [Noun]).",
         "presentation": {
-            "explanation": "판정 의문문에 답할 때 사용하는 긍정·부정 감탄사와 '명사가 아님'을 나타내는 부정 서술 표현을 학습합니다.\n\n1. 긍정과 부정의 기본 응답:\n- 네 [Ne] (또는 '예 [Ye]'): 'Yes' (상대방의 말에 긍정하거나 동의함)\n- 아니요 [A-ni-yo]: 'No' (상대방의 질문이나 진술을 부인함)\n\n2. 부정 서술문: [명사] + 이/가 아닙니다 (Is not [Noun]):\n'이다'의 부정형은 형용사 '아니다(to not be)'를 사용하며, 앞 명사에 주격 조사 '이/가'가 결합합니다.\n- 받침 있는 명사 + 이 아닙니다: 학생 + 이 아닙니다 → 학생이 아닙니다 (I am not a student)\n- 받침 없는 명사 + 가 아닙니다: 의사 + 가 아닙니다 → 의사가 아닙니다 (I am not a doctor)\n\n3. 대화 문답 패턴:\n- 질문: 한국 사람입니까?\n- 긍정 응답: 네, 한국 사람입니다. (Yes, I am Korean.)\n- 부정 응답: 아니요, 한국 사람이 아닙니다. 일본 사람입니다. (No, I am not Korean. I am Japanese.)\n- 질문: 의사입니까?\n- 부정 응답: 아니요, 의사가 아닙니다. 회사원입니다. (No, I am not a doctor. I am an office worker.)",
+            "explanation": "Now you learn how to answer yes/no questions and express that someone or something is **not** a particular noun.\n\n### 1. Basic Yes and No in Korean\n- **네** [Ne] (or formal **예** [Ye]) — **\"Yes\"**: Expresses agreement or affirmative confirmation.\n- **아니요** [A-ni-yo] — **\"No\"**: Expresses polite disagreement or negation.\n\n### 2. Negative Identity Copula: [Noun] + 이/가 아닙니다 (is not [Noun])\nThe negative counterpart of -입니다 is formed using the adjective **아니다** (to not be), combined with the Subject Particle **이/가**:\n- **If Noun ends with a Batchim consonant** → attach **이 아닙니다** [i a-nim-ni-da]:\n  - **학생** (ends with ㅇ) + **이 아닙니다** → **학생이 아닙니다** [hak-saeng-i a-nim-ni-da] = *(I am) not a student.*\n  - **선생님** (ends with ㅁ) + **이 아닙니다** → **선생님이 아닙니다** [seon-saeng-nim-i a-nim-ni-da] = *(I am) not a teacher.*\n  - **한국 사람** (ends with ㅁ) + **이 아닙니다** → **한국 사람이 아닙니다** [Han-guk sa-ram-i a-nim-ni-da] = *(I am) not Korean.*\n\n- **If Noun ends with a Vowel (no Batchim)** → attach **가 아닙니다** [ga a-nim-ni-da]:\n  - **의사** (ends with ㅏ) + **가 아닙니다** → **의사가 아닙니다** [ui-sa-ga a-nim-ni-da] = *(I am) not a doctor.*\n  - **가수** (ends with ㅜ) + **가 아닙니다** → **가수가 아닙니다** [ga-su-ga a-nim-ni-da] = *(I am) not a singer.*\n\n### 3. Sample Conversational Question & Answer Patterns\n- Q: **한국 사람입니까?** (Are you Korean?)\n  - Affirmative: **네, 한국 사람입니다.** (Yes, I am Korean.)\n  - Negative: **아니요, 한국 사람이 아닙니다. 미국 사람입니다.** (No, I am not Korean. I am American.)\n- Q: **의사입니까?** (Are you a doctor?)\n  - Negative: **아니요, 의사가 아닙니다. 학생입니다.** (No, I am not a doctor. I am a student.)",
             "examples": [
                 {
                     "target": "한국 사람입니까? 네, 한국 사람입니다.",
@@ -924,37 +964,57 @@
                 }
             ],
             "mnemonics": [
-                "받침 있으면 '이', 받침 없으면 '가'! 학생(ㅇ 받침 있음)이 아닙니다 vs 의사(받침 없음)가 아닙니다."
+                "Particle rule: Batchim consonant gets '이' (학생이 아닙니다). Vowel ending gets '가' (의사가 아닙니다)!"
             ],
             "culturalNotes": [
-                "한국어의 '네'는 단순한 'Yes'뿐 아니라 대화 중 상대방의 말을 경청하고 있다는 신호(Backchanneling/맞장구)로 매우 자주 쓰입니다. 고개를 끄덕이며 '네, 네' 하는 것은 깊은 집중을 나타냅니다."
+                "In conversational Korean, saying '네' with a slight nod is also used for active listening (backchanneling / 맞장구), showing the speaker that you are engaged and following along."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "'선생님(받침 ㅁ 있음)' 명사에 부정 서술 '아닙니다'를 결합할 때 올바른 형태는 무엇입니까?",
+                    "prompt": "The noun '선생님' (teacher) ends in a final Batchim consonant ('ㅁ'). Which negative ending correctly forms \"I am not a teacher\"?",
                     "options": [
-                        "선생님이 아닙니다.",
-                        "선생님가 아닙니다.",
-                        "선생님은 아닙니다."
+                        "선생님이 아닙니다 (Seonsaengnim-i animnida)",
+                        "선생님가 아닙니다 (Seonsaengnim-ga animnida - Incorrect particle)",
+                        "선생님은 아닙니다 (Seonsaengnim-eun animnida - Topic contrast only)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'선생님'은 받침 'ㅁ'이 있으므로 주격 조사 '이'가 결합하여 '선생님이 아닙니다'가 됩니다."
+                    "explanation": "Because '선생님' ends in a consonant (ㅁ), it takes the subject particle '이', creating '선생님이 아닙니다'."
+                },
+                {
+                    "prompt": "The noun '의사' (doctor) ends in a vowel ('ㅏ', no Batchim). Which negative form correctly says \"I am not a doctor\"?",
+                    "options": [
+                        "의사가 아닙니다 (Uisa-ga animnida)",
+                        "의사이 아닙니다 (Uisa-i animnida - Incorrect particle)",
+                        "의사를 아닙니다 (Uisa-reul animnida - Incorrect particle)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Because '의사' ends in a vowel, it takes the particle '가', creating '의사가 아닙니다'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "'A: 회사원입니까? B: 아니요, _____ 아닙니다. 학생입니다.' 빈칸에 들어갈 올바른 표현은 무엇입니까?",
+                    "prompt": "How do you say \"No, I am not Korean\" in polite Korean? (한국 사람 = Korean person):",
                     "options": [
-                        "회사원이",
-                        "회사원가",
-                        "회사원을"
+                        "아니요, 한국 사람이 아닙니다 (Aniyo, Hanguk saram-i animnida)",
+                        "네, 한국 사람입니다 (Ne, Hanguk saram-imnida - Yes, I am Korean)",
+                        "아니요, 한국 사람입니다 (Aniyo, Hanguk saram-imnida - Contradictory)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'회사원'은 받침 'ㄴ'이 있으므로 '이 아닙니다'와 결합하여 '회사원이 아닙니다'가 됩니다."
+                    "explanation": "'아니요' (No) + '한국 사람이 아닙니다' (I am not Korean) correctly conveys the negative response."
+                },
+                {
+                    "prompt": "Which particle correctly completes the sentence: \"가방__ 아닙니다. 책입니다.\" (It is not a bag [가방 ends in ㅇ]. It is a book.)?",
+                    "options": [
+                        "이 (i - consonant ending particle)",
+                        "가 (ga - vowel ending particle)",
+                        "를 (reul - object particle)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "'가방' ends with the Batchim nasal consonant 'ㅇ', so it takes '이', forming '가방이 아닙니다'."
                 }
             ]
         },
@@ -962,23 +1022,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "다음 중 문법적으로 올바른 부정 문장은 어느 것입니까?",
+                    "prompt": "Which of the following sentences is grammatically correct for \"I am not a doctor\"?",
                     "options": [
-                        "의사가 아닙니다.",
-                        "의사이 아닙니다.",
-                        "의사를 아닙니다."
+                        "의사가 아닙니다. (Uisa-ga animnida.)",
+                        "의사이 아닙니다. (Uisa-i animnida.)",
+                        "의사를 아닙니다. (Uisa-reul animnida.)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'의사'는 받침이 없는 모음 종결 명사이므로 조사 '가'가 결합하여 '의사가 아닙니다'가 올바릅니다."
+                    "explanation": "'의사' ends in a vowel, so the correct particle is '가', giving '의사가 아닙니다.'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "'의사가 아닙니다'(I am not a doctor)를 한글로 정확히 입력하십시오.",
+                    "prompt": "Type the Korean sentence for \"I am not a doctor\" in Hangul (의사가 아닙니다):",
                     "acceptedAnswers": [
                         "의사가 아닙니다.",
                         "의사가 아닙니다"
                     ],
-                    "explanation": "의사(받침 없음) + 가(조사) + 아닙니다(부정 서술) = 의사가 아닙니다."
+                    "explanation": "'의사(doctor) + 가(particle) + 아닙니다(is not) = 의사가 아닙니다.'."
                 }
             ]
         }
@@ -16170,7 +16230,12 @@
         }
     }
 };
-  var CURRICULUM = { id: 'korean', name: 'Korean', units: UNITS, lessons: LESSONS };
+  var CURRICULUM = {
+    id: 'korean',
+    name: 'Korean',
+    units: UNITS,
+    lessons: LESSONS
+  };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['korean'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

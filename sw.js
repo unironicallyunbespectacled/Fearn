@@ -1,5 +1,5 @@
-// FEARN Service Worker — Offline Flight Ready & Live Sync (v4.0)
-const CACHE_NAME = 'fearn-v4.0-omni-fitness-pedagogy-20260901';
+// FEARN Service Worker — Offline Flight Ready & Live Sync (v4.5)
+const CACHE_NAME = 'fearn-v4.5-fsrs-master-suite-pedagogy-20260901';
 
 
 const ASSETS_TO_CACHE = [

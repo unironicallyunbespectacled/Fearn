@@ -8879,6 +8879,87 @@
       "definition": "Systematic vertex exploration strategies using queues (Breadth-First) vs stacks/recursion (Depth-First)",
       "category": "Data Structures",
       "level": "Core"
+    },
+    {
+      "term": "Asymptotic Upper Bound (Big-O / O(n))",
+      "pronunciation": "O(f(n)) [ˈbɪɡ ˈoʊ]",
+      "partOfSpeech": "Mathematical / Algorithmic Concept",
+      "definition": "Formal mathematical notation describing an upper limit on the execution time or space complexity of an algorithm as the input size n tends toward infinity: f(n) = O(g(n)) iff ∃ c > 0, n0 > 0 such that ∀ n ≥ n0, |f(n)| ≤ c|g(n)|.",
+      "category": "Complexity Theory",
+      "level": "Core Academic",
+      "examples": [
+        {
+          "target": "Binary search on a sorted array of length n exhibits O(log n) time complexity, whereas nested iteration yields O(n²).",
+          "translation": "二分探索は要素数nのソート済み配列に対してO(log n)の計算量を持ち、ネストしたループはO(n²)を生み出します。"
+        }
+      ],
+      "synonyms": [
+        "Worst-Case Time Complexity",
+        "Growth Rate Upper Bound"
+      ],
+      "register": "Formal Academic / Systems Engineering",
+      "notes": "Strictly defines an upper bound; saying an algorithm is O(n³) is mathematically correct even if it runs in O(n), though Big-Theta (Θ) is used when the bound is tight."
+    },
+    {
+      "term": "Divide-and-Conquer Master Theorem",
+      "pronunciation": "T(n) = aT(n/b) + f(n)",
+      "partOfSpeech": "Mathematical Theorem",
+      "definition": "Cookbook recurrence relation solver providing asymptotic bounds for divide-and-conquer recurrences partitioning a problem of size n into 'a' subproblems of size 'n/b' with O(n^d) partitioning/combining overhead.",
+      "category": "Algorithms",
+      "level": "Advanced",
+      "examples": [
+        {
+          "target": "For Merge Sort: T(n) = 2T(n/2) + Θ(n). Since log_b(a) = log_2(2) = 1 = d, Case 2 applies, proving T(n) = Θ(n log n).",
+          "translation": "マージソートの場合：a=2, b=2, d=1。log_2(2)=1=dとなるためケース2が適用され、Θ(n log n)の計算量が証明されます。"
+        }
+      ],
+      "synonyms": [
+        "Master Method",
+        "Akra-Bazzi Theorem (Generalized)"
+      ],
+      "register": "Theoretical Computer Science",
+      "notes": "Breaks into three fundamental cases comparing the watershed exponent log_b(a) against the polynomial exponent of the recombination cost f(n)."
+    },
+    {
+      "term": "Cache Locality & False Sharing",
+      "pronunciation": "/kæʃ loʊˈkæləti/",
+      "partOfSpeech": "Systems Architecture Concept",
+      "definition": "Temporal locality (re-referencing recently accessed memory) and spatial locality (referencing contiguous memory within the same 64-byte cache line). False sharing occurs in multi-threaded systems when independent threads modify distinct variables residing on the same cache line, triggering expensive cache invalidations across CPU cores.",
+      "category": "Computer Systems & Hardware",
+      "level": "Advanced Systems",
+      "examples": [
+        {
+          "target": "Row-major traversal in C matrix arithmetic leverages L1/L2 hardware prefetchers, whereas column-major traversal degrades throughput due to constant cache misses.",
+          "translation": "C言語の行優先走査はハードウェアプリフェッチャを活用しますが、列優先走査はキャッシュミスの頻発によりスループットを激減させます。"
+        }
+      ],
+      "synonyms": [
+        "Spatial/Temporal Locality",
+        "Cache Coherence Invalidation"
+      ],
+      "register": "Systems & High-Performance Computing",
+      "notes": "Aligning multi-threaded variables with alignas(64) eliminates false sharing performance penalties."
+    },
+    {
+      "term": "Deadlock & Coffman Conditions",
+      "pronunciation": "/ˈdɛdˌlɑk/ [ˈkɔfmən kənˈdɪʃənz]",
+      "partOfSpeech": "Operating Systems Concept",
+      "definition": "A system state where a set of concurrent processes are permanently blocked because each holds resources while waiting for resources held by others. Occurs if and only if four simultaneous conditions hold: Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.",
+      "category": "Concurrency & Distributed Systems",
+      "level": "Core Systems",
+      "examples": [
+        {
+          "target": "Enforcing a global strict resource acquisition ordering (Hierarchy of Locks) breaks the Circular Wait condition, mathematically preventing deadlock.",
+          "translation": "リソース獲得の厳格な大域的順序付け（ロック階層）を強制することで、循環待機条件が崩れ、デッドロックが数学的に防止されます。"
+        }
+      ],
+      "synonyms": [
+        "Livelock",
+        "Dining Philosophers Dilemma",
+        "Resource Starvation"
+      ],
+      "register": "Operating Systems / Kernel Engineering",
+      "notes": "Banker's Algorithm (Dijkstra) uses resource allocation state vectors to guarantee safe states and avoid deadlock dynamically."
     }
   ],
   "b110": [
@@ -9055,6 +9136,47 @@
       "definition": "Survey-based statistical technique to determine how customers value different product attributes and trade-offs",
       "category": "Market Research",
       "level": "Advanced"
+    },
+    {
+      "term": "Chemiosmotic ATP Synthase Coupling",
+      "pronunciation": "/ˌkiːmi.ɒzˈmɒtɪk eɪ.tiːˈpiː ˈsɪn.θeɪs/",
+      "partOfSpeech": "Biochemical Mechanism",
+      "definition": "Peter Mitchell's chemiosmotic hypothesis: the generation of ATP by the movement of hydrogen ions (H+) down an electrochemical proton motive force across a cristae membrane during cellular respiration or thylakoid membrane during photosynthesis, mechanically rotating the F0 rotor and F1 catalytic head of ATP synthase.",
+      "category": "Cellular Bioenergetics",
+      "level": "University Core",
+      "examples": [
+        {
+          "target": "Complexes I, III, and IV pump protons into the mitochondrial intermembrane space, establishing an electrochemical gradient (ΔpH and ΔΨ) that drives ATP synthesis via rotational catalysis.",
+          "translation": "複合体I、III、IVがプロトンをミトコンドリア膜間腔に汲み上げ、電気化学的勾配を形成して回転触媒によるATP合成を駆動します。"
+        }
+      ],
+      "synonyms": [
+        "Proton-Motive Force (PMF)",
+        "Oxidative Phosphorylation Coupling"
+      ],
+      "register": "Biochemistry & Molecular Physiology",
+      "notes": "Yields approximately 2.5 ATP per NADH oxidized and 1.5 ATP per FADH2 oxidized."
+    },
+    {
+      "term": "Allosteric Enzyme Cooperativity (Hill Coefficient)",
+      "pronunciation": "/ˌæləˈstɛrɪk hɪl koʊ.əˈfɪʃ.ənt/",
+      "partOfSpeech": "Enzymology Concept",
+      "definition": "Regulation of enzymatic catalytic activity or protein ligand binding via conformational changes induced at a distant non-active regulatory site. Positive cooperativity (e.g. Hemoglobin O2 binding) is characterized by a sigmoidal binding curve and a Hill coefficient n_H > 1.",
+      "category": "Enzymology & Protein Structure",
+      "level": "University Core",
+      "examples": [
+        {
+          "target": "Binding of oxygen to one subunit of the hemoglobin tetramer triggers a T-to-R state transition, exponentially increasing the affinity of adjacent subunits for subsequent O2 molecules.",
+          "translation": "ヘモグロビン四量体の1つのサブユニットに酸素が結合するとT状態からR状態への遷移が誘発され、残りのサブユニットの酸素親和性が飛躍的に高まります。"
+        }
+      ],
+      "synonyms": [
+        "Concerted MWC Model",
+        "Sequential KNF Model",
+        "Sigmoidal Kinetics"
+      ],
+      "register": "Biophysical Chemistry",
+      "notes": "The Bohr effect and 2,3-BPG binding allosterically shift the hemoglobin dissociation curve rightward, promoting oxygen offloading in hypoxic tissues."
     }
   ],
   "b111": [
@@ -9225,6 +9347,46 @@
       "definition": "Theory stating that financial asset prices reflect all available information across weak, semi-strong, and strong forms",
       "category": "Market Microstructure",
       "level": "Core"
+    },
+    {
+      "term": "CRISPR-Cas9 & RNA-Guided Endonuclease Cleavage",
+      "pronunciation": "/ˈkrɪspər kæs naɪn/",
+      "partOfSpeech": "Molecular Genetics Mechanism",
+      "definition": "Clustered Regularly Interspaced Short Palindromic Repeats adaptive bacterial immunity system adapted for targeted genome editing. Cas9 endonuclease is guided by a single guide RNA (sgRNA) complementary to a 20-nucleotide genomic target sequence immediately upstream of a 5'-NGG Protospacer Adjacent Motif (PAM), introducing a double-strand break (DSB).",
+      "category": "Genome Engineering & Molecular Genetics",
+      "level": "University Advanced",
+      "examples": [
+        {
+          "target": "Upon Cas9-mediated double-strand cleavage, cells repair the lesion via Non-Homologous End Joining (NHEJ, causing gene knockout indels) or Homology-Directed Repair (HDR, enabling precision knock-in edits).",
+          "translation": "Cas9切断後、細胞は非相同末端結合（NHEJ：遺伝子ノックアウト）または相同組換え修復（HDR：精密遺伝子挿入）によってDNAを修復します。"
+        }
+      ],
+      "synonyms": [
+        "RNA-Guided Gene Editing",
+        "Cas9 Endonuclease Nuclease Target"
+      ],
+      "register": "Molecular Biology & Biotechnology",
+      "notes": "Requires the mandatory PAM sequence (5'-NGG for SpCas9) for initial DNA interrogation and melting."
+    },
+    {
+      "term": "Epigenetic DNA Methylation & Histone Acetylation",
+      "pronunciation": "/ˌɛpɪdʒəˈnɛtɪk ˌmɛθəˈleɪʃən/",
+      "partOfSpeech": "Epigenetics Concept",
+      "definition": "Heritable changes in gene expression occurring without alterations to the underlying primary nucleotide sequence. DNA methyltransferases (DNMTs) add methyl groups to 5-cytosine in CpG islands (silencing transcription), while Histone Acetyltransferases (HATs) neutralize positive lysine charges on histone tails, decondensing chromatin into transcriptionally active euchromatin.",
+      "category": "Chromatin Dynamics & Gene Regulation",
+      "level": "University Core",
+      "examples": [
+        {
+          "target": "Hypermethylation of tumor suppressor gene promoter regions results in transcriptional silencing, a hallmark epigenetic driver of oncogenesis.",
+          "translation": "がん抑制遺伝子のプロモーター領域の過剰メチル化は転写の抑制を引き起こし、発がんの主要なエピジェネティック要因となります。"
+        }
+      ],
+      "synonyms": [
+        "Chromatin Remodeling",
+        "Histone Post-Translational Modification"
+      ],
+      "register": "Molecular Genetics",
+      "notes": "Histone Deacetylases (HDACs) reverse acetylation, restoring heterochromatin condensation."
     }
   ],
   "chess": [
@@ -9241,10 +9403,24 @@
       "level": "Beginner"
     },
     {
-      "term": "Zugzwang",
-      "definition": "Compulsion to move: a game state where any legal move a player makes will worsen their position",
-      "category": "Endgame & Positional",
-      "level": "Advanced"
+      "term": "Zugzwang & Triangulation",
+      "definition": "Zugzwang (German for 'compulsion to move'): A position where every available legal move strictly deteriorates the player's position. Triangulation is a geometrical king maneuver (taking three moves to traverse a triangle of squares) used to lose a tempo and hand the move back to the opponent, plunging them into fatal Zugzwang.",
+      "category": "Endgame Mastery",
+      "level": "Master / Advanced",
+      "pronunciation": "/ˈtsuːktsvaŋ/ [tɹaɪˌæŋɡjəˈleɪʃən]",
+      "partOfSpeech": "Endgame & Positional Concept",
+      "examples": [
+        {
+          "target": "In king-and-pawn endgames, White uses Ke4-d4-e5 triangulation to forfeit a tempo, forcing Black's defending king off the critical opposition square.",
+          "translation": "キング・ポーンの終盤戦では、白はKe4-d4-e5の三角形移動で1手を消費し、黒のキングに対抗マスからの後退を強要します。"
+        }
+      ],
+      "synonyms": [
+        "Tempo Loss Maneuver",
+        "Mutual Opposition Constraint"
+      ],
+      "register": "Classical Chess Theory / FIDE Master",
+      "notes": "Prominent in endgame studies by Dvoretsky and Capablanca."
     },
     {
       "term": "Fianchetto",
@@ -9325,10 +9501,24 @@
       "level": "Advanced"
     },
     {
-      "term": "Lucena Position (Bridge Building)",
-      "definition": "Fundamental rook endgame winning technique using the rook to build a bridge shield against vertical checks",
-      "category": "Endgame",
-      "level": "Advanced"
+      "term": "Lucena Position & Building a Bridge",
+      "definition": "The essential winning endgame setup in Rook and Pawn vs Rook endings where the attacker's pawn has reached the 7th rank and their king shields it. Winning technique requires 'building a bridge' with the rook to the 4th rank (e.g. Rf4!) to cut off enemy rook checks and facilitate safe pawn promotion.",
+      "category": "Rook Endgames",
+      "level": "Tournament Standard",
+      "pronunciation": "/luːˈseɪnə pəˈzɪʃən/",
+      "partOfSpeech": "Rook Endgame Technique",
+      "examples": [
+        {
+          "target": "With the white king on e8 and pawn on e7, White plays 1. Rf4! followed by checking the black king and interposing the rook on e4 to shield the king and promote the pawn to Queen.",
+          "translation": "白キングがe8、ポーンがe7にある時、白は1. Rf4!と指し、黒キングに王手をかけてからルークをe4に挟み込んで王手を遮断し昇格を達成します。"
+        }
+      ],
+      "synonyms": [
+        "Bridge-Building Technique",
+        "7th Rank Rook Decisive Technique"
+      ],
+      "register": "Endgame Praxis",
+      "notes": "Discovered by Luis Ramírez de Lucena in 1497; contrasted with the defensive Philidor drawing setup."
     },
     {
       "term": "Philidor Position (Third Rank Defense)",
@@ -9553,6 +9743,26 @@
       "definition": "Visual signaling using shuttered signal lamps to communicate between naval vessels under radio silence",
       "category": "Visual Signaling",
       "level": "Beginner"
+    },
+    {
+      "term": "Standard CW Q-Codes (QTH, QRM, QSL, QRZ)",
+      "pronunciation": "/kjuː koʊdz/",
+      "partOfSpeech": "Operational Telegraphic Shorthand",
+      "definition": "Three-letter international operating codes beginning with 'Q' used in radio telegraphy to communicate complex operational messages instantaneously without language barriers. QTH = 'What is your location? / My location is...', QRM = 'I am experiencing human interference', QSL = 'I acknowledge receipt', QRZ = 'Who is calling me?'.",
+      "category": "Operating Protocol",
+      "level": "Core Operational",
+      "examples": [
+        {
+          "target": "Operator transmits: 'QTH TOKYO? — QTH TOKYO QSL 73' (What is your location? — Location is Tokyo, I acknowledge receipt, Best regards).",
+          "translation": "オペレーターの通信：「あなたの現在地は？ — 東京です。確認しました。敬具（73）」"
+        }
+      ],
+      "synonyms": [
+        "International Radio Shorthand",
+        "Aeronautical/Maritime Q-Signals"
+      ],
+      "register": "Aviation, Maritime & Ham Radio",
+      "notes": "Adding a question mark (? or ..--..) converts any Q-code into a direct query."
     }
   ],
   "typing": [
@@ -9705,14 +9915,68 @@
       "definition": "Modal text editing navigation paradigm keeping fingers firmly anchored on the home row",
       "category": "Productivity",
       "level": "Advanced"
+    },
+    {
+      "term": "Homing Keys Calibration & Muscle Memory Anchoring",
+      "pronunciation": "/ˈhoʊmɪŋ kiːz/",
+      "partOfSpeech": "Typing Ergonomics & Kinesthetics",
+      "definition": "Tactile orientation positioning of the index fingers upon the physical locator nibs on the 'F' and 'J' keys of standard QWERTY/Colemak keyboards, establishing zero-look baseline spatial geometry across the entire matrix.",
+      "category": "Kinesthetic Foundations",
+      "level": "Beginner",
+      "examples": [
+        {
+          "target": "By anchoring left index on F and right index on J, fingers traverse home, top, and bottom rows with minimal hand displacement, maximizing burst cadence.",
+          "translation": "左手人差し指をF、右手人差し指をJの突起に置くことで、指が最小限の移動で全行をカバーし、タイピング速度を最大化します。"
+        }
+      ],
+      "synonyms": [
+        "Home Row Anchoring",
+        "Tactile Index Orientation"
+      ],
+      "register": "Ergonomics / Touch Typing",
+      "notes": "Prevents 'hunting and pecking' and eliminates visual dependence."
+    },
+    {
+      "term": "Alternate-Hand Rolling & Bigram Latency",
+      "pronunciation": "/ɔːlˈtɜːrnət hænd ˈroʊlɪŋ/",
+      "partOfSpeech": "Typing Biomechanics",
+      "definition": "Biomechanical phenomenon where keystrokes alternating between left and right hands (e.g. 'th', 'en', 'al') exhibit sub-40ms inter-key latency compared to single-finger repetitions. Colemak and Dvorak layouts optimize hand alternation and inward rolls over QWERTY's high same-finger-utilization (SFU) penalty.",
+      "category": "Advanced Speed Mechanics",
+      "level": "Advanced (100+ WPM)",
+      "examples": [
+        {
+          "target": "Typing words with natural inward rolls like 'star' or 'tion' allows finger firing sequences to overlap in the motor cortex, generating speeds exceeding 160 WPM.",
+          "translation": "「star」や「tion」のような内向きロールを伴う単語は運動皮質での指動作シーケンスを重複させ、160 WPMを超える超高速入力を可能にします。"
+        }
+      ],
+      "synonyms": [
+        "Inward Finger Rolls",
+        "Hand Alternation Cadence"
+      ],
+      "register": "Competitive Stenography & Speed Typing",
+      "notes": "Same-finger bigrams (like 'ed' on QWERTY using middle finger twice) create mechanical bottlenecks."
     }
   ],
   "scrabble": [
     {
-      "term": "Bingo (50-Point Bonus)",
-      "definition": "Playing all 7 tiles from the rack in a single turn, awarding a 50-point bonus added to the regular score",
-      "category": "Scoring & Rules",
-      "level": "Beginner"
+      "term": "Bingo Rack Management & The 'RETAIN' Stems",
+      "definition": "The strategic practice of sacrificing short-term points to maintain a high-probability seven-letter 'Bingo' rack (using all 7 tiles for a 50-point bonus). The elite stems (TISANE, RETINA, SATIRE) combine with almost any single eighth tile to form valid 7- or 8-letter bingos.",
+      "category": "Strategic Rack Balancing",
+      "level": "Tournament Expert",
+      "pronunciation": "/ˈbɪŋɡoʊ ræk ˈmænɪdʒmənt/",
+      "partOfSpeech": "Tournament Scrabble Strategy",
+      "examples": [
+        {
+          "target": "Holding the stem 'RETINA?' (with a blank) guarantees a 100% mathematical probability of playing a 50-point bingo on the subsequent turn regardless of the drawn consonant.",
+          "translation": "「RETINA?」（ブランク付き）のステムを保持することで、次に引いた文字に関係なく次ターンで50点ボーナスのビンゴを打てる確率がほぼ100%になります。"
+        }
+      ],
+      "synonyms": [
+        "7-Letter Bonus Stems",
+        "Tile Turnover Optimization"
+      ],
+      "register": "WESPA / NASPA Tournament Play",
+      "notes": "Vowel-to-consonant parity (ideally 3 vowels to 4 consonants or 2V/5C) is the governing metric of rack balance."
     },
     {
       "term": "Hook (Front Hook & Back Hook)",
@@ -9757,10 +10021,24 @@
       "level": "Beginner"
     },
     {
-      "term": "Q-Without-U Words",
-      "definition": "Critical legal tournament words containing Q without U (e.g. QI, QAT, QAID, QANAT, TRANQ, SHEQEL)",
-      "category": "Vocabulary",
-      "level": "Intermediate"
+      "term": "Q-Without-U Lexicon & Premium Tile Hooks",
+      "definition": "Mastery of the official CSW21/NWL20 tournament words containing Q without requiring a U (QI, QAT, QAID, TRANQ, QANAT, QINDAR, SHEQEL, FAQIR, SUQ), combined with parallel front/back hooks on Triple Letter and Triple Word scores.",
+      "category": "Lexicon Mastery",
+      "level": "Core Tournament",
+      "pronunciation": "/kjuː wɪðˈaʊt juː/",
+      "partOfSpeech": "Lexical & Board Geometry Strategy",
+      "examples": [
+        {
+          "target": "Playing 'QI' horizontally across a Triple Letter score while hooking 'IF' vertically scores 62 points using just two tiles.",
+          "translation": "「QI」をトリプルレタースコア上に横向きに配置し、縦向きに「IF」をフックさせることで、わずか2文字で62点を獲得できます。"
+        }
+      ],
+      "synonyms": [
+        "High-Value Tile Dumping",
+        "Perpendicular Hook Scoring"
+      ],
+      "register": "Scrabble Lexicon Mastery",
+      "notes": "Dumping difficult tiles (Q, V, J, Z) on high multiplier hotspots avoids catastrophic endgame tile penalties."
     },
     {
       "term": "J, Q, X, Z (Power Tiles)",
@@ -9975,10 +10253,25 @@
       "level": "Beginner"
     },
     {
-      "term": "Modal Mixture & Borrowed Chords",
-      "definition": "Borrowing chords from the parallel minor/major key (e.g. iv minor in a major key) to evoke emotional bittersweetness",
-      "category": "Harmony",
-      "level": "Advanced"
+      "term": "Modal Interchange & The Minor Plagal Cadence (iv - I)",
+      "definition": "Borrowing chords from the parallel minor mode into a major key to inject profound emotional nostalgia and yearning. The most famous application is the Minor Plagal Cadence: transitioning from IV (Major) to iv (Minor) before resolving to the tonic I (e.g. F -> Fm -> C in C Major).",
+      "category": "Harmonic Color & Emotion",
+      "level": "Advanced Songwriting",
+      "pronunciation": "/ˈmoʊdəl ˌɪntərˈtʃeɪndʒ/",
+      "partOfSpeech": "Harmonic Theory & Songwriting",
+      "examples": [
+        {
+          "target": "In the Beatles' 'In My Life' and Radiohead's 'Creep', moving from the IV to the minor iv chord creates an immediate, bittersweet emotional pull.",
+          "translation": "ビートルズの『In My Life』やレディオヘッドの『Creep』では、IVから短調のivコードへ移行することで、切なく胸を打つエモーショナルな響きを生み出します。"
+        }
+      ],
+      "synonyms": [
+        "Borrowed Chords",
+        "Subdominant Minor Resolution",
+        "Bittersweet Cadence"
+      ],
+      "register": "Commercial Pop & Film Scoring Theory",
+      "notes": "The emotional magic stems from the descending chromatic half-step voice leading (6th scale degree -> flat 6th -> 5th)."
     },
     {
       "term": "Topical Metaphor & Central Thesis",
@@ -10009,14 +10302,48 @@
       "definition": "Production technique assembling the best vocal phrases from multiple takes into a master performance and layering doubles",
       "category": "Production & Vocals",
       "level": "Intermediate"
+    },
+    {
+      "term": "Prosodic Alignment & Melodic Tension-Resolution",
+      "pronunciation": "/prəˈzɑːdɪk əˈlaɪnmənt/",
+      "partOfSpeech": "Songwriting Architecture",
+      "definition": "Pat Pattison's law of lyrical prosody: ensuring that the natural linguistic stress, emotional intensity, and grammatical pacing of lyric syllables align perfectly with the melodic accents, pitch contours, and rhythmic downbeats of the musical accompaniment.",
+      "category": "Lyric & Melody Integration",
+      "level": "Professional Standard",
+      "examples": [
+        {
+          "target": "Stressing the unstressed syllable in 'be-CAUSE' on a downbeat causes unstable prosody; placing 'CAUSE' on the beat matches natural speech rhythm.",
+          "translation": "「be-CAUSE」のアクセントのない第1音節を強拍に置くと不自然なプロソディになりますが、第2音節を拍に合わせることで自然な発話リズムと一致します。"
+        }
+      ],
+      "synonyms": [
+        "Lyric-Melody Congruence",
+        "Stress-Beat Meter Alignment"
+      ],
+      "register": "Berklee Songwriting Standard",
+      "notes": "Unstable emotions can intentionally leverage unstable prosody (e.g. unresolved deceptive cadence) to mirror lyrical vulnerability."
     }
   ],
   "mentalmath": [
     {
-      "term": "Vedic Sutra: Nikhilam Navatashcaramam Dashatah",
-      "definition": "\"All from 9 and the last from 10\" — rapid subtraction and base multiplication near powers of 10",
-      "category": "Vedic Mathematics",
-      "level": "Intermediate"
+      "term": "Vedic Vertically and Crosswise (Urdhva Tiryagbhyam)",
+      "definition": "Universal mental multiplication algorithm multiplying any two numbers of arbitrary length in a single horizontal line from right to left using cross-multiplied and vertically multiplied partial product sums with immediate mental carry propagation.",
+      "category": "Mental Arithmetic Systems",
+      "level": "Core Mental Engine",
+      "pronunciation": "/ˈvɛdɪk ˈvɜːrtɪkli ænd ˈkrɔːswaɪz/",
+      "partOfSpeech": "Mental Arithmetic Algorithm",
+      "examples": [
+        {
+          "target": "To multiply 43 × 21: (3×1)=3; (4×1 + 3×2)=10 (write 0, carry 1); (4×2)+1=9 → Result: 903.",
+          "translation": "43×21の暗算：(3×1)=3、(4×1 + 3×2)=10（0を書き1繰り上げ）、(4×2)+1=9 → 答え：903。"
+        }
+      ],
+      "synonyms": [
+        "Cross-Multiplication Engine",
+        "Single-Line Matrix Arithmetic"
+      ],
+      "register": "Vedic Mathematics & High-Speed Calculation",
+      "notes": "Eliminates intermediate paper scratchpads, enabling instant left-to-right or right-to-left mental projection."
     },
     {
       "term": "Vedic Sutra: Ekadhikena Purvena",
@@ -10109,10 +10436,24 @@
       "level": "Beginner"
     },
     {
-      "term": "Anzan (Mental Soroban Abacus)",
-      "definition": "Visualizing a Japanese soroban abacus internally in the mind’s eye to compute multi-digit calculations at lightning speed",
-      "category": "Abacus & Visualization",
-      "level": "Master"
+      "term": "Anzan Visual Soroban Mentalization",
+      "definition": "The cognitive practice of performing ultra-high-speed arithmetic calculations by visualizing an internal mental Soroban (Japanese 1:4 bead abacus) and moving the virtual beads in the mind's eye using spatial motor memory.",
+      "category": "Neuro-Cognitive Arithmetic",
+      "level": "World Champion Standard",
+      "pronunciation": "/ˈæn.zæn/ [暗算 あんざん]",
+      "partOfSpeech": "Cognitive Mental Calculation Method",
+      "examples": [
+        {
+          "target": "Flash Anzan champions sum fifteen 3-digit numbers flashed on a screen in 1.6 seconds by manipulating imaginary beads on their internal mental soroban.",
+          "translation": "フラッシュ暗算の達人は、画面に1.6秒間で次々と表示される15個の3桁の数値を、頭の中のそろばんの珠を直感的に動かして合計します。"
+        }
+      ],
+      "synonyms": [
+        "Mental Abacus Projection",
+        "Spatial Soroban Calculation"
+      ],
+      "register": "Japanese Soroban / World Mental Calculation",
+      "notes": "Activates the right hemispheric visuospatial parietal cortex rather than linguistic processing centers."
     },
     {
       "term": "Doomsday Algorithm (John Conway)",
@@ -10327,10 +10668,24 @@
       "level": "Core"
     },
     {
-      "term": "Post-Activation Potentiation (PAP)",
-      "definition": "Enhanced neuromuscular performance in an explosive movement achieved immediately following a maximal isometric pre-load",
-      "category": "Neuro-Muscular Power",
-      "level": "Advanced"
+      "term": "Post-Activation Potentiation (PAP) & Contrast Training",
+      "definition": "Acute enhancement of muscle power and rate of force development (RFD) in an explosive movement achieved immediately following a heavy isometric or near-maximal voluntary contraction (e.g. heavy squat followed by maximum vertical leap), driven by myosin light-chain phosphorylation and increased alpha-motor neuron recruitment.",
+      "category": "Neuromuscular Power & Apex Stride",
+      "level": "Elite Performance",
+      "pronunciation": "/poʊst ˌæktɪˈveɪʃən poʊˌtɛnʃiˈeɪʃən/",
+      "partOfSpeech": "Neuro-Physiological Phenomenon",
+      "examples": [
+        {
+          "target": "Performing a 5-second maximal isometric wall-drive sprint hold immediately potentiates peak stride velocity in subsequent unconstrained sprints.",
+          "translation": "5秒間の全力等尺性壁押しスプリントホールドを行うことで、直後のスプリントにおける最高歩行速度と爆発力が神経生理学的に強化されます。"
+        }
+      ],
+      "synonyms": [
+        "Myosin Phosphorylation Potentiation",
+        "Complex Contrast Training"
+      ],
+      "register": "Strength & Conditioning / Sprint Science",
+      "notes": "Rest intervals between the heavy primer and explosive movement must be calibrated (2-4 minutes) to let metabolic fatigue subside while neural potentiation persists."
     },
     {
       "term": "Scapulohumeral Rhythm & Centration",
@@ -10343,6 +10698,26 @@
       "definition": "Deep diaphragmatic expansion and transverse abdominis co-contraction creating rigid hydraulic spinal stability",
       "category": "Spinal Mechanics",
       "level": "Core"
+    },
+    {
+      "term": "Lengthened-State Hypertrophy & Stretch-Mediated Tension",
+      "pronunciation": "/ˈlɛŋkθənd steɪt haɪˈpɜːrtrəfi/",
+      "partOfSpeech": "Biomechanics & Hypertrophy Principle",
+      "definition": "Maximal muscle protein synthesis and sarcomerogenesis stimulated by loading a muscle under high passive and active mechanical tension at its fully stretched joint position (e.g. deep Romanian deadlift, overhead triceps extension, deep deficit push-up), activating titin kinase mechanosensors.",
+      "category": "Muscle Biomechanics",
+      "level": "Evidence-Based Hypertrophy",
+      "examples": [
+        {
+          "target": "Pausing for 2 seconds at the deep stretch position of a dumbbell Romanian deadlift maximizes mechanical tension on the distal hamstrings and gluteal fibers.",
+          "translation": "ダンベル・ルーマニアンデッドリフトの最深ストレッチ位置で2秒間静止することで、ハムストリングスと大臀筋の筋線維に最大の伸張性機械的張力が加わります。"
+        }
+      ],
+      "synonyms": [
+        "Stretch-Mediated Hypertrophy",
+        "Deep-Range Mechanical Tension"
+      ],
+      "register": "Biomechanics & Exercise Physiology",
+      "notes": "Produces greater distal and overall hypertrophy compared to contractions confined exclusively to shortened positions."
     }
   ]
 };

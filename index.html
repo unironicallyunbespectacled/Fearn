@@ -101,6 +101,7 @@
         <button id="telemetry-dossier-btn" class="fearn-btn" type="button" title="View nanosecond activity timeline & export PDF">📊 Daily Journal</button>
         <button id="fearn-home-btn" class="fearn-home-nav-btn" type="button" title="Return to Dashboard (Home)">🏠</button>
         <button id="journey-mode-btn" class="fearn-btn" type="button">🧭 Journey Mode</button>
+        <button id="fearn-flashcards-btn" class="fearn-btn" type="button" onclick="window.FEARN && window.FEARN.openSRSFlashcardDeck && window.FEARN.openSRSFlashcardDeck()" title="Anki / FSRS Spaced Repetition Flashcard Decks (Alt+F)">🎴 <span>Flashcards</span></button>
         <button id="library-btn" class="fearn-btn" type="button" title="Dictionary & Glossary Search">📖 <span>Library / Search</span></button>
       </div>
     </header>
@@ -2131,6 +2132,13 @@
         e.preventDefault();
         var hBtn = document.getElementById('fearn-home-btn') || document.getElementById('fearn-brand-home');
         if (hBtn) hBtn.click();
+        return;
+      }
+      if (e.altKey && (e.key === 'f' || e.key === 'F')) {
+        e.preventDefault();
+        var fBtn = document.getElementById('fearn-flashcards-btn');
+        if (fBtn) fBtn.click();
+        else if (window.FEARN && window.FEARN.openSRSFlashcardDeck) window.FEARN.openSRSFlashcardDeck();
         return;
       }
 

@@ -238,21 +238,23 @@
     return formatInterval(intDays);
   }
 
-  // Harvest cards from all curricula sorted by subject
+  // Harvest cards from all curricula and master lexicon sorted by subject
   function getCardsBySubject() {
     var subjectDecks = {};
     var now = Date.now();
 
-    if (global.FEARN_CURRICULA) {
-      Object.keys(global.FEARN_CURRICULA).forEach(function (subjKey) {
-        var cur = global.FEARN_CURRICULA[subjKey];
+    // 1. Harvest from Curricula
+    var curricula = global.FEARN_CURRICULA || (typeof window !== 'undefined' ? window.FEARN_CURRICULA : null);
+    if (curricula) {
+      Object.keys(curricula).forEach(function (subjKey) {
+        var cur = curricula[subjKey];
         if (!cur || !cur.lessons) return;
 
-        var deckName = (cur.name || subjKey).toUpperCase();
         if (!subjectDecks[subjKey]) {
           subjectDecks[subjKey] = {
             id: subjKey,
             name: cur.name || subjKey,
+            description: (cur.description || cur.goal || 'Complete mastery curriculum & spaced repetition lexicon.') + ' (A1-C2+ / University Standard)',
             cards: [],
             newCount: 0,
             learningCount: 0,
@@ -283,7 +285,7 @@
                   target: ex.target,
                   reading: ex.reading || ex.pronunciation || '',
                   translation: ex.translation || '',
-                  explanation: les.presentation.explanation ? les.presentation.explanation.slice(0, 220) + '...' : '',
+                  explanation: les.presentation.explanation ? les.presentation.explanation.slice(0, 260) + '...' : '',
                   mnemonic: (les.presentation.mnemonics && les.presentation.mnemonics[0]) || '',
                   reps: reps,
                   stability: stability,
@@ -299,6 +301,72 @@
                 else subjectDecks[subjKey].learningCount++;
               }
             });
+          }
+        });
+      });
+    }
+
+    // 2. Harvest from Master Omni Dictionary
+    var dict = global.FEARN_DICTIONARY || (typeof window !== 'undefined' ? window.FEARN_DICTIONARY : null);
+    if (dict) {
+      Object.keys(dict).forEach(function (subjKey) {
+        var entries = dict[subjKey];
+        if (!Array.isArray(entries)) return;
+
+        if (!subjectDecks[subjKey]) {
+          var formalName = subjKey.charAt(0).toUpperCase() + subjKey.slice(1).replace(/-/g, ' ');
+          subjectDecks[subjKey] = {
+            id: subjKey,
+            name: formalName,
+            description: 'Master Spaced Repetition Lexicon & Comprehensive Dictionary.',
+            cards: [],
+            newCount: 0,
+            learningCount: 0,
+            reviewCount: 0
+          };
+        }
+
+        entries.forEach(function (entry, idx) {
+          if (entry && entry.term) {
+            var dictSrsKey = subjKey + ':dict:' + idx;
+            var srsState = getCardState(dictSrsKey);
+
+            var isDue = srsState ? (srsState.nextReview <= now) : false;
+            var reps = srsState ? (srsState.reps || 0) : 0;
+            var stability = srsState ? srsState.stability : 0;
+            var difficulty = srsState ? srsState.difficulty : 0;
+            var r = srsState ? calculateRetrievability((now - srsState.lastReview) / 86400000, stability) : 1.0;
+
+            var exStr = '';
+            if (entry.examples && Array.isArray(entry.examples) && entry.examples[0]) {
+              exStr = entry.examples[0].target + (entry.examples[0].translation ? ' — ' + entry.examples[0].translation : '');
+            } else if (entry.ex) {
+              exStr = entry.ex;
+            }
+
+            var card = {
+              id: dictSrsKey,
+              subject: subjKey,
+              subjectName: subjectDecks[subjKey].name,
+              lessonId: 'Dictionary • ' + (entry.category || entry.level || 'Master Lexicon'),
+              lessonTitle: entry.category || entry.level || 'Master Lexicon',
+              target: entry.term,
+              reading: entry.pronunciation || entry.pron || '',
+              translation: entry.definition + (entry.partOfSpeech ? ' [' + entry.partOfSpeech + ']' : ''),
+              explanation: exStr,
+              mnemonic: entry.notes || (entry.synonyms ? 'Synonyms: ' + entry.synonyms.join(', ') : '') || entry.etym || '',
+              reps: reps,
+              stability: stability,
+              difficulty: difficulty,
+              retrievability: r,
+              isDue: isDue,
+              isNew: reps === 0
+            };
+
+            subjectDecks[subjKey].cards.push(card);
+            if (reps === 0) subjectDecks[subjKey].newCount++;
+            else if (isDue) subjectDecks[subjKey].reviewCount++;
+            else subjectDecks[subjKey].learningCount++;
           }
         });
       });
@@ -390,8 +458,50 @@
       if (closeBtn) {
         closeBtn.onclick = function () {
           if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
+          if (typeof window !== 'undefined') window.removeEventListener('keydown', handleGlobalSRSKey);
         };
       }
+    }
+
+    function handleGlobalSRSKey(e) {
+      if (!overlay.parentNode) {
+        if (typeof window !== 'undefined') window.removeEventListener('keydown', handleGlobalSRSKey);
+        return;
+      }
+      if (e.key === 'Escape') {
+        e.preventDefault();
+        if (currentView === 'study' || currentView === 'options' || currentView === 'custom_study') {
+          currentView = 'overview';
+          renderView();
+        } else {
+          if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
+          if (typeof window !== 'undefined') window.removeEventListener('keydown', handleGlobalSRSKey);
+        }
+        return;
+      }
+      if (currentView === 'study') {
+        if (e.key === ' ' || e.key === 'Enter') {
+          if (!isCardFlipped) {
+            e.preventDefault();
+            isCardFlipped = true;
+            renderView();
+          }
+        } else if (isCardFlipped && ['1', '2', '3', '4'].indexOf(e.key) !== -1) {
+          e.preventDefault();
+          var grade = parseInt(e.key, 10);
+          var card = activeStudyCards[currentCardIndex];
+          if (card) {
+            recordReview(card.id, grade);
+            currentCardIndex++;
+            isCardFlipped = false;
+            renderView();
+          }
+        }
+      }
+    }
+
+    if (typeof window !== 'undefined') {
+      window.addEventListener('keydown', handleGlobalSRSKey);
     }
 
     function renderOverview(deck) {
@@ -405,6 +515,7 @@
         <div style="display:flex; flex-direction:column; gap:6px;">
           <div style="font-size:1.45rem; font-weight:800; color:#f8fafc;">\${escapeHtml(deck.name)} Mastery Deck</div>
           <div style="font-size:0.85rem; color:#64748b;">DSR Dynamic Memory Model &bull; Free Spaced Repetition Scheduler</div>
+          <div style="font-size:0.8rem; color:#94a3b8; max-width:500px; margin-top:2px;">\${escapeHtml(deck.description || 'Comprehensive curriculum & spaced repetition vocabulary.')}</div>
         </div>
 
         <div style="display:flex; justify-content:center; gap:20px; width:100%; max-width:440px; background:rgba(15,23,42,0.55); padding:16px; border-radius:14px; border:1px solid rgba(255,255,255,0.06);">
