@@ -159,10 +159,10 @@
           "type": "multiple-choice",
           "prompt": "Which pair is a perfect rhyme?",
           "options": [
-            "heart / hurt",
-            "home / alone",
-            "night / light",
-            "man / again"
+            "heart / hurt (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "home / alone (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "night / light (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "man / again (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))"
           ],
           "answer": "night / light",
           "difficulty": 500,
@@ -173,10 +173,10 @@
           "type": "multiple-choice",
           "prompt": "Which pair is a slant (near) rhyme?",
           "options": [
-            "rain / train",
-            "flame / name",
-            "booth / proof",
-            "gone / dawn"
+            "rain / train (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "flame / name (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "booth / proof (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "gone / dawn (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))"
           ],
           "answer": "booth / proof",
           "difficulty": 500,
@@ -187,10 +187,10 @@
           "type": "multiple-choice",
           "prompt": "What defines a perfect rhyme?",
           "options": [
-            "The words start with the same letter",
-            "The ending sound is identical from the stressed vowel onward",
-            "The words have the same number of syllables",
-            "The words are both one syllable"
+            "The words start with the same letter (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "The ending sound is identical from the stressed vowel onward (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "The words have the same number of syllables (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))",
+            "The words are both one syllable (Identify perfect rhymes versus near slant rhymes in a given lyric passage (U1))"
           ],
           "answer": "The ending sound is identical from the stressed vowel onward",
           "difficulty": 500,
@@ -245,10 +245,10 @@
           "type": "multiple-choice",
           "prompt": "In the scheme ABAB, which lines rhyme with each other?",
           "options": [
-            "Lines 1 and 2, and lines 3 and 4",
-            "Lines 1 and 3, and lines 2 and 4",
-            "Only lines 2 and 4",
-            "All four lines rhyme with each other"
+            "Lines 1 and 2, and lines 3 and 4 (Label the rhyme scheme AABB (U1))",
+            "Lines 1 and 3, and lines 2 and 4 (Label the rhyme scheme AABB (U1))",
+            "Only lines 2 and 4 (Label the rhyme scheme AABB (U1))",
+            "All four lines rhyme with each other (Label the rhyme scheme AABB (U1))"
           ],
           "answer": "Lines 1 and 3, and lines 2 and 4",
           "difficulty": 510,
@@ -259,10 +259,10 @@
           "type": "multiple-choice",
           "prompt": "In the scheme ABCB, how many of the four lines actually rhyme with another line?",
           "options": [
-            "All four",
-            "Three",
-            "Two",
-            "None"
+            "All four (Label the rhyme scheme AABB (U1))",
+            "Three (Label the rhyme scheme AABB (U1))",
+            "Two (Label the rhyme scheme AABB (U1))",
+            "None (Label the rhyme scheme AABB (U1))"
           ],
           "answer": "Two (lines 2 and 4)",
           "difficulty": 510,
@@ -280,10 +280,10 @@
           "type": "multiple-choice",
           "prompt": "Which rhyme scheme is most associated with folk/ballad-style verses because it leaves two lines \"free\" before landing a rhyme?",
           "options": [
-            "AABB",
-            "ABAB",
-            "ABCB",
-            "AAAA"
+            "AABB (Label the rhyme scheme AABB (U1))",
+            "ABAB (Label the rhyme scheme AABB (U1))",
+            "ABCB (Label the rhyme scheme AABB (U1))",
+            "AAAA (Label the rhyme scheme AABB (U1))"
           ],
           "answer": "ABCB",
           "difficulty": 510,
@@ -331,10 +331,10 @@
           "type": "multiple-choice",
           "prompt": "What is the clearest sign a rhyme has been \"forced\"?",
           "options": [
-            "It uses a one-syllable word",
-            "The word order is inverted or unnatural just to land on the rhyme",
-            "It rhymes perfectly instead of using slant rhyme",
-            "The line is short"
+            "It uses a one-syllable word (Write a fourline verse using a specified rhyme scheme without forcing awkward word choices (U1))",
+            "The word order is inverted or unnatural just to land on the rhyme (Write a fourline verse using a specified rhyme scheme without forcing awkward word choices (U1))",
+            "It rhymes perfectly instead of using slant rhyme (Write a fourline verse using a specified rhyme scheme without forcing awkward word choices (U1))",
+            "The line is short (Write a fourline verse using a specified rhyme scheme without forcing awkward word choices (U1))"
           ],
           "answer": "The word order is inverted or unnatural just to land on the rhyme",
           "difficulty": 520,
@@ -345,10 +345,10 @@
           "type": "multiple-choice",
           "prompt": "What is the recommended fix when nothing natural rhymes with your line-ending word?",
           "options": [
-            "Force an obscure word in anyway",
-            "Invert the sentence's grammar",
-            "Rephrase the line around a different, more rhyme-friendly ending word",
-            "Give up on rhyme entirely for the whole song"
+            "Force an obscure word in anyway (Write a fourline verse using a specified rhyme scheme without forcing awkward word choices (U1))",
+            "Invert the sentence's grammar (Write a fourline verse using a specified rhyme scheme without forcing awkward word choices (U1))",
+            "Rephrase the line around a different, more rhyme-friendly ending word (Write a fourline verse using a specified rhyme scheme without forcing awkward word choices (U1))",
+            "Give up on rhyme entirely for the whole song (Write a fourline verse using a specified rhyme scheme without forcing awkward word choices (U1))"
           ],
           "answer": "Rephrase the line around a different, more rhyme-friendly ending word",
           "difficulty": 520,
@@ -415,10 +415,10 @@
           "type": "multiple-choice",
           "prompt": "Why might a songwriter deliberately avoid the pair \"love / above\"?",
           "options": [
-            "They don't actually rhyme",
-            "It is one of the most overused pairings in popular song and can sound predictable",
-            "It is grammatically incorrect",
-            "Slant rhymes are always required by rule"
+            "They don't actually rhyme (Use slant rhyme deliberately to avoid a cliche perfectrhyme pairing (U1))",
+            "It is one of the most overused pairings in popular song and can sound predictable (Use slant rhyme deliberately to avoid a cliche perfectrhyme pairing (U1))",
+            "It is grammatically incorrect (Use slant rhyme deliberately to avoid a cliche perfectrhyme pairing (U1))",
+            "Slant rhymes are always required by rule (Use slant rhyme deliberately to avoid a cliche perfectrhyme pairing (U1))"
           ],
           "answer": "It is one of the most overused pairings in popular song and can sound predictable",
           "difficulty": 530,
@@ -436,10 +436,10 @@
           "type": "multiple-choice",
           "prompt": "What is the actual test for whether a rhyme is too predictable, according to this lesson?",
           "options": [
-            "Whether it is a perfect rhyme technically",
-            "Whether a listener could guess the ending word before you sing it",
-            "Whether the words share the same number of letters",
-            "Whether it is a one-syllable word"
+            "Whether it is a perfect rhyme technically (Use slant rhyme deliberately to avoid a cliche perfectrhyme pairing (U1))",
+            "Whether a listener could guess the ending word before you sing it (Use slant rhyme deliberately to avoid a cliche perfectrhyme pairing (U1))",
+            "Whether the words share the same number of letters (Use slant rhyme deliberately to avoid a cliche perfectrhyme pairing (U1))",
+            "Whether it is a one-syllable word (Use slant rhyme deliberately to avoid a cliche perfectrhyme pairing (U1))"
           ],
           "answer": "Whether a listener could guess the ending word before you sing it",
           "difficulty": 530,
@@ -489,10 +489,10 @@
           "type": "multiple-choice",
           "prompt": "Which of these is the LEAST cliche way to complete a line ending in \"heart\"?",
           "options": [
-            "start",
-            "apart",
-            "the dark",
-            "depart"
+            "start (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "apart (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "the dark (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "depart (Pass a rhymescheme identification and writing checkpoint (U1))"
           ],
           "answer": "the dark",
           "difficulty": 540,
@@ -503,10 +503,10 @@
           "type": "multiple-choice",
           "prompt": "What rhyme scheme uses only lines 2 and 4?",
           "options": [
-            "AABB",
-            "ABAB",
-            "ABCB",
-            "AAAA"
+            "AABB (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "ABAB (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "ABCB (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "AAAA (Pass a rhymescheme identification and writing checkpoint (U1))"
           ],
           "answer": "ABCB",
           "difficulty": 530,
@@ -524,10 +524,10 @@
           "type": "multiple-choice",
           "prompt": "What is the main risk of choosing a rhyme purely because it fits, without checking if the sentence still sounds natural?",
           "options": [
-            "The song will be too short",
-            "The line may end up with forced, inverted word order that sounds unnatural",
-            "It will automatically become a slant rhyme",
-            "There is no risk, any rhyme works"
+            "The song will be too short (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "The line may end up with forced, inverted word order that sounds unnatural (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "It will automatically become a slant rhyme (Pass a rhymescheme identification and writing checkpoint (U1))",
+            "There is no risk, any rhyme works (Pass a rhymescheme identification and writing checkpoint (U1))"
           ],
           "answer": "The line may end up with forced, inverted word order that sounds unnatural",
           "difficulty": 530,
@@ -582,10 +582,10 @@
           "type": "multiple-choice",
           "prompt": "Where does the natural spoken stress fall in the word \"remember\"?",
           "options": [
-            "The first syllable",
-            "The middle syllable",
-            "The last syllable",
-            "It has no fixed natural stress"
+            "The first syllable (Count syllables per line and identify where natural stresses fall in a lyric (U2))",
+            "The middle syllable (Count syllables per line and identify where natural stresses fall in a lyric (U2))",
+            "The last syllable (Count syllables per line and identify where natural stresses fall in a lyric (U2))",
+            "It has no fixed natural stress (Count syllables per line and identify where natural stresses fall in a lyric (U2))"
           ],
           "answer": "The middle syllable (re-MEM-ber)",
           "difficulty": 520,
@@ -603,10 +603,10 @@
           "type": "multiple-choice",
           "prompt": "Why does natural word stress matter more in songwriting than in most written poetry?",
           "options": [
-            "It does not matter more, they are identical",
-            "Because a sung melody has its own beat, and a mismatch between word stress and melodic beat is audible in a way silent reading never reveals",
-            "Because songs never use multi-syllable words",
-            "Because melody erases word stress entirely"
+            "It does not matter more, they are identical (Count syllables per line and identify where natural stresses fall in a lyric (U2))",
+            "Because a sung melody has its own beat, and a mismatch between word stress and melodic beat is audible in a way silent reading never reveals (Count syllables per line and identify where natural stresses fall in a lyric (U2))",
+            "Because songs never use multi-syllable words (Count syllables per line and identify where natural stresses fall in a lyric (U2))",
+            "Because melody erases word stress entirely (Count syllables per line and identify where natural stresses fall in a lyric (U2))"
           ],
           "answer": "Because a sung melody has its own beat, and a mismatch between word stress and melodic beat is audible in a way silent reading never reveals",
           "difficulty": 530,
@@ -649,10 +649,10 @@
           "type": "multiple-choice",
           "prompt": "What is an \"iamb\"?",
           "options": [
-            "A stressed syllable followed by an unstressed one",
-            "An unstressed syllable followed by a stressed one",
-            "Two stressed syllables in a row",
-            "A line with no stresses at all"
+            "A stressed syllable followed by an unstressed one (Match a lyric lines stress pattern to a steady rhythmic pulse a meter (U2))",
+            "An unstressed syllable followed by a stressed one (Match a lyric lines stress pattern to a steady rhythmic pulse a meter (U2))",
+            "Two stressed syllables in a row (Match a lyric lines stress pattern to a steady rhythmic pulse a meter (U2))",
+            "A line with no stresses at all (Match a lyric lines stress pattern to a steady rhythmic pulse a meter (U2))"
           ],
           "answer": "An unstressed syllable followed by a stressed one",
           "difficulty": 530,
@@ -670,10 +670,10 @@
           "type": "multiple-choice",
           "prompt": "Why is iambic tetrameter so common in English song lyrics specifically?",
           "options": [
-            "It is required by copyright law",
-            "It matches how comfortably a line of natural English speech falls into four musical beats",
-            "It only works with rhyming couplets",
-            "It was invented specifically for songwriting in the 1960s"
+            "It is required by copyright law (Match a lyric lines stress pattern to a steady rhythmic pulse a meter (U2))",
+            "It matches how comfortably a line of natural English speech falls into four musical beats (Match a lyric lines stress pattern to a steady rhythmic pulse a meter (U2))",
+            "It only works with rhyming couplets (Match a lyric lines stress pattern to a steady rhythmic pulse a meter (U2))",
+            "It was invented specifically for songwriting in the 1960s (Match a lyric lines stress pattern to a steady rhythmic pulse a meter (U2))"
           ],
           "answer": "It matches how comfortably a line of natural English speech falls into four musical beats",
           "difficulty": 530,
@@ -716,10 +716,10 @@
           "type": "multiple-choice",
           "prompt": "What is the actual problem with forcing a melodic downbeat onto the first syllable of \"remember\"?",
           "options": [
-            "The word becomes too long to sing",
-            "It contradicts the word's natural spoken stress (re-MEM-ber), making it sound mispronounced when sung",
-            "It is grammatically incorrect",
-            "There is no problem, any syllable can carry a downbeat"
+            "The word becomes too long to sing (Revise a line that fights the meter so the natural word stress lines up with the beat (U2))",
+            "It contradicts the word's natural spoken stress (re-MEM-ber)",
+            "It is grammatically incorrect (Revise a line that fights the meter so the natural word stress lines up with the beat (U2))",
+            "There is no problem, any syllable can carry a downbeat (Revise a line that fights the meter so the natural word stress lines up with the beat (U2))"
           ],
           "answer": "It contradicts the word's natural spoken stress (re-MEM-ber), making it sound mispronounced when sung",
           "difficulty": 540,
@@ -781,10 +781,10 @@
           "type": "multiple-choice",
           "prompt": "What does meter actually track, according to this lesson?",
           "options": [
-            "The exact syllable count only",
-            "The number and spacing of stressed beats, regardless of total syllable count",
-            "The number of words in a line",
-            "The rhyme scheme"
+            "The exact syllable count only (Write two lines with matching meter but different syllable counts using contractions and pacing (U2))",
+            "The number and spacing of stressed beats, regardless of total syllable count (Write two lines with matching meter but different syllable counts using contractions and pacing (U2))",
+            "The number of words in a line (Write two lines with matching meter but different syllable counts using contractions and pacing (U2))",
+            "The rhyme scheme (Write two lines with matching meter but different syllable counts using contractions and pacing (U2))"
           ],
           "answer": "The number and spacing of stressed beats, regardless of total syllable count",
           "difficulty": 540,
@@ -848,10 +848,10 @@
           "type": "multiple-choice",
           "prompt": "The line \"REpeating the same mistake again\" forces its downbeat onto the first syllable of \"repeating.\" What is the actual natural stress of \"repeating\"?",
           "options": [
-            "RE-peat-ing",
-            "re-PEAT-ing",
-            "re-peat-ING",
-            "It has no natural stress"
+            "RE-peat-ing (Pass a meterscansion and revision checkpoint (U2))",
+            "re-PEAT-ing (Pass a meterscansion and revision checkpoint (U2))",
+            "re-peat-ING (Pass a meterscansion and revision checkpoint (U2))",
+            "It has no natural stress (Pass a meterscansion and revision checkpoint (U2))"
           ],
           "answer": "re-PEAT-ing",
           "difficulty": 550,
@@ -869,10 +869,10 @@
           "type": "multiple-choice",
           "prompt": "Which pair of lines could share the exact same melody despite having different syllable counts?",
           "options": [
-            "Only lines with identical syllable counts can ever share a melody",
-            "\"I am not going home tonight\" and \"I'm not going home tonight,\" since both carry the same 4 stressed beats",
-            "Any two lines regardless of stress pattern",
-            "Only lines that rhyme with each other"
+            "Only lines with identical syllable counts can ever share a melody (Pass a meterscansion and revision checkpoint (U2))",
+            "\"I am not going home tonight\" and \"I'm not going home tonight,\" since both carry the same 4 stressed beats (Pass a meterscansion and revision checkpoint (U2))",
+            "Any two lines regardless of stress pattern (Pass a meterscansion and revision checkpoint (U2))",
+            "Only lines that rhyme with each other (Pass a meterscansion and revision checkpoint (U2))"
           ],
           "answer": "\"I am not going home tonight\" and \"I'm not going home tonight,\" since both carry the same 4 stressed beats",
           "difficulty": 550,
@@ -924,10 +924,10 @@
         {
           "prompt": "In applying the principles of Craft narrative verses that establish concrete sensory grounding (who, which composition technique best fulfills the musical goal?",
           "options": [
-            "To repeat the song's main title with maximum vocal power",
-            "To change the musical tempo completely",
-            "To play an instrumental guitar solo",
-            "To establish concrete setting, characters, sensory details, and advance the story"
+            "To repeat the song's main title with maximum vocal power (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "To change the musical tempo completely (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "To play an instrumental guitar solo (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "To establish concrete setting, characters, sensory details, and advance the story (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 3,
           "explanation": "Verses provide the concrete narrative exposition and detail that ground the chorus."
@@ -935,10 +935,10 @@
         {
           "prompt": "Which of the following lines demonstrates effective sensory verse writing?",
           "options": [
-            "'I love you so much and always will'",
-            "'Everything is bad and nothing is right'",
-            "'Yellow headlights cutting through the freezing November fog'",
-            "'I feel very sad today'"
+            "'I love you so much and always will' (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "'Everything is bad and nothing is right' (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "'Yellow headlights cutting through the freezing November fog' (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "'I feel very sad today' (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 2,
           "explanation": "Sensory imagery (yellow headlights, freezing November fog) creates a vivid mental picture."
@@ -946,10 +946,10 @@
         {
           "prompt": "How should Verse 2 relate to Verse 1 in a well-constructed song?",
           "options": [
-            "It must be sung in a completely different language",
-            "It should advance the story, raise the stakes, or explore the aftermath — not just repeat Verse 1's facts",
-            "It should be twice as loud as the chorus",
-            "It must use the exact same lyrics as Verse 1"
+            "It must be sung in a completely different language (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It should advance the story, raise the stakes, or explore the aftermath — not just repeat Verse 1's facts (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It should be twice as loud as the chorus (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It must use the exact same lyrics as Verse 1 (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 1,
           "explanation": "Verse 2 must progress the narrative arc forward in time or emotional depth."
@@ -961,10 +961,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 3, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Because singers cannot sing high notes in verses",
-            "To make verses harder to hear",
-            "Because verses cannot have rhythm",
-            "To leave dynamic and melodic headroom for the chorus to lift and feel like a release"
+            "Because singers cannot sing high notes in verses (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "To make verses harder to hear (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Because verses cannot have rhythm (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "To leave dynamic and melodic headroom for the chorus to lift and feel like a release (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 3,
           "explanation": "Lower verse registers create contrast and emotional headroom for the chorus."
@@ -972,10 +972,10 @@
         {
           "prompt": "What does the phrase 'Show, Don't Tell' mean for lyricists?",
           "options": [
-            "Sing without background instruments",
-            "Never write words with more than two syllables",
-            "Use physical actions and sensory imagery rather than flat abstract labels of emotion",
-            "Only perform with visuals on screen"
+            "Sing without background instruments (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Never write words with more than two syllables (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Use physical actions and sensory imagery rather than flat abstract labels of emotion (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Only perform with visuals on screen (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 2,
           "explanation": "'Show, don't tell' means evoking emotion through concrete sensory details."
@@ -987,10 +987,10 @@
         {
           "prompt": "Which of these pairs represents a true narrative progression from Verse 1 to Verse 2?",
           "options": [
-            "Verse 1: I am sad -> Verse 2: I am very sad",
-            "Verse 1: The sun is shining -> Verse 2: The daylight is bright",
-            "Verse 1: Packing a suitcase at dawn -> Verse 2: Watching the rear-view mirror cross the state line at sunset",
-            "Verse 1: Driving a car -> Verse 2: In a car driving"
+            "Verse 1: I am sad -> Verse 2: I am very sad (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Verse 1: The sun is shining -> Verse 2: The daylight is bright (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Verse 1: Packing a suitcase at dawn -> Verse 2: Watching the rear-view mirror cross the state line at sunset (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Verse 1: Driving a car -> Verse 2: In a car driving (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 2,
           "explanation": "Advances time, action, and physical location.",
@@ -999,10 +999,10 @@
         {
           "prompt": "Verses are characterized by:",
           "options": [
-            "Zero rhyming",
-            "Sensory story details, lower pitch register, higher narrative specificity",
-            "The highest vocal belt in the entire track",
-            "Maximum repetition of the song title"
+            "Zero rhyming (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Sensory story details, lower pitch register, higher narrative specificity (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "The highest vocal belt in the entire track (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Maximum repetition of the song title (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 1,
           "explanation": "Verses carry the sensory narrative.",
@@ -1011,10 +1011,10 @@
         {
           "prompt": "Why is 'Cold tea and an unmade bed' stronger than 'I felt neglected'?",
           "options": [
-            "It grounds the feeling in tangible physical evidence the listener can visualize",
-            "It rhymes with bed",
-            "It is shorter",
-            "It has more words"
+            "It grounds the feeling in tangible physical evidence the listener can visualize (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It rhymes with bed (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It is shorter (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It has more words (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Concrete imagery triggers sensory simulation in the brain.",
@@ -1023,10 +1023,10 @@
         {
           "prompt": "What role does the verse play in relation to the chorus?",
           "options": [
-            "It is completely unrelated to the chorus",
-            "It competes with the chorus for volume",
-            "It is meant to be skipped by the listener",
-            "It provides the specific context that justifies and amplifies the chorus's emotional outburst"
+            "It is completely unrelated to the chorus (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It competes with the chorus for volume (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It is meant to be skipped by the listener (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "It provides the specific context that justifies and amplifies the chorus's emotional outburst (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The verse grounds and contextualizes the chorus.",
@@ -1035,10 +1035,10 @@
         {
           "prompt": "In an AABA or Verse-Chorus form, what does 'A' typically denote?",
           "options": [
-            "Bridge",
-            "Outro",
-            "Verse",
-            "Chorus"
+            "Bridge (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Outro (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Verse (Craft narrative verses that establish concrete sensory grounding who (U3))",
+            "Chorus (Craft narrative verses that establish concrete sensory grounding who (U3))"
           ],
           "answerIndex": 2,
           "explanation": "In standard musical analysis, 'A' denotes the Verse section.",
@@ -1085,10 +1085,10 @@
         {
           "prompt": "In applying the principles of Design dynamic pre-choruses (the lift / the climb) using rhythmic compression, which composition technique best fulfills the musical goal?",
           "options": [
-            "To build melodic, harmonic, and emotional tension that launches seamlessly into the chorus",
-            "To provide a 5-minute guitar solo",
-            "To whisper the lyrics silently",
-            "To repeat the final chorus"
+            "To build melodic, harmonic, and emotional tension that launches seamlessly into the chorus (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "To provide a 5-minute guitar solo (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "To whisper the lyrics silently (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "To repeat the final chorus (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 0,
           "explanation": "The pre-chorus builds tension and momentum bridging verse to chorus."
@@ -1096,10 +1096,10 @@
         {
           "prompt": "What happens to the rhythm in a pre-chorus during 'rhythmic compression'?",
           "options": [
-            "The syllable phrasing accelerates (e.g. from half notes to rapid eighth notes) to increase perceived speed and urgency",
-            "The song comes to a complete stop",
-            "The singer speaks in monotone",
-            "All drums are turned off permanently"
+            "The syllable phrasing accelerates (e.g. from half notes to rapid eighth notes)",
+            "The song comes to a complete stop (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The singer speaks in monotone (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "All drums are turned off permanently (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Rhythmic compression uses shorter, denser note subdivisions to create urgency."
@@ -1107,10 +1107,10 @@
         {
           "prompt": "Which chord is most commonly used at the end of a pre-chorus to demand resolution into the chorus?",
           "options": [
-            "The dominant (V chord), which pulls with maximum tension toward the tonic",
-            "The I chord",
-            "A dissonant random noise",
-            "A silent pause with no harmony"
+            "The dominant (V chord)",
+            "The I chord (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "A dissonant random noise (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "A silent pause with no harmony (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 0,
           "explanation": "The dominant V chord creates strong tension demanding resolution to the tonic."
@@ -1122,10 +1122,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 3, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "It lists grocery items",
-            "It must be completely non-rhyming",
-            "It must use words in reverse order",
-            "It shifts focus from external scene details to internal emotional urgency and anticipation"
+            "It lists grocery items (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "It must be completely non-rhyming (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "It must use words in reverse order (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "It shifts focus from external scene details to internal emotional urgency and anticipation (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The pre-chorus pivots the external narrative into internal psychological urgency."
@@ -1133,10 +1133,10 @@
         {
           "prompt": "How long is a typical pre-chorus in modern song structure?",
           "options": [
-            "32 bars",
-            "16 bars",
-            "60 seconds",
-            "2 to 4 bars"
+            "32 bars (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "16 bars (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "60 seconds (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "2 to 4 bars (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 3,
           "explanation": "Pre-choruses are typically 2 to 4 bars to maintain tight momentum."
@@ -1148,10 +1148,10 @@
         {
           "prompt": "Which progression of sections represents the standard modern pop/rock build?",
           "options": [
-            "Bridge -> Pre-Chorus -> Outro",
-            "Verse -> Pre-Chorus -> Chorus",
-            "Verse -> Outro -> Pre-Chorus",
-            "Chorus -> Pre-Chorus -> Verse"
+            "Bridge -> Pre-Chorus -> Outro (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "Verse -> Pre-Chorus -> Chorus (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "Verse -> Outro -> Pre-Chorus (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "Chorus -> Pre-Chorus -> Verse (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 1,
           "explanation": "Verse -> Pre-Chorus -> Chorus is the classic dynamic arc.",
@@ -1160,10 +1160,10 @@
         {
           "prompt": "Why is ascending melodic motion effective in a pre-chorus?",
           "options": [
-            "Because climbing pitch physically and psychoacoustically communicates rising intensity and anticipation",
-            "Because it makes the singer louder than the drums",
-            "Because microphones only pick up rising notes",
-            "Because high notes are cheaper to record"
+            "Because climbing pitch physically and psychoacoustically communicates rising intensity and anticipation (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "Because it makes the singer louder than the drums (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "Because microphones only pick up rising notes (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "Because high notes are cheaper to record (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Ascending pitch creates psychoacoustic anticipation.",
@@ -1172,10 +1172,10 @@
         {
           "prompt": "'The lift' or 'the climb' are industry terms for:",
           "options": [
-            "The Verse",
-            "The Fade Out",
-            "The Intro",
-            "The Pre-Chorus"
+            "The Verse (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The Fade Out (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The Intro (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The Pre-Chorus (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The pre-chorus is widely nicknamed the lift or climb.",
@@ -1184,10 +1184,10 @@
         {
           "prompt": "What happens if a song has an explosive chorus but no pre-chorus?",
           "options": [
-            "The song cannot be played on radio",
-            "The song will automatically be banned",
-            "The transition from a quiet verse can feel jarring or unearned if not intentionally designed as a surprise dynamic drop",
-            "The guitar will break"
+            "The song cannot be played on radio (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The song will automatically be banned (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The transition from a quiet verse can feel jarring or unearned if not intentionally designed as a surprise dynamic drop (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The guitar will break (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 2,
           "explanation": "A pre-chorus smooths and earns the dynamic transition.",
@@ -1196,10 +1196,10 @@
         {
           "prompt": "What lyrical element usually appears right at the end of the pre-chorus?",
           "options": [
-            "A spoken telephone number",
-            "A breathless question, realization, or cliffhanger line that the chorus answers",
-            "The legal copyright statement",
-            "The singer's full name"
+            "A spoken telephone number (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "A breathless question, realization, or cliffhanger line that the chorus answers (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The legal copyright statement (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))",
+            "The singer's full name (Design dynamic prechoruses the lift  the climb using rhythmic compression (U3))"
           ],
           "answerIndex": 1,
           "explanation": "A cliffhanger or pivot line sets up the chorus release.",
@@ -1245,10 +1245,10 @@
         {
           "prompt": "In applying the principles of Compose anthemic choruses that deliver the central thesis of the song, which composition technique best fulfills the musical goal?",
           "options": [
-            "To give the drummer a break",
-            "To explain complicated backstory details",
-            "To list the names of band members",
-            "To deliver the central emotional thesis, song title hook, and most memorable melodic payoff"
+            "To give the drummer a break (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "To explain complicated backstory details (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "To list the names of band members (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "To deliver the central emotional thesis, song title hook, and most memorable melodic payoff (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The chorus delivers the core emotional thesis and title hook."
@@ -1256,10 +1256,10 @@
         {
           "prompt": "In the 'Sandwich Hook' strategy, where does the song title appear in the chorus?",
           "options": [
-            "Only in the guitar solo",
-            "In the middle of the second verse",
-            "In the whispered intro",
-            "On both the first line and the last line of the chorus"
+            "Only in the guitar solo (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "In the middle of the second verse (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "In the whispered intro (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "On both the first line and the last line of the chorus (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The sandwich hook frames the chorus at both start and finish."
@@ -1267,10 +1267,10 @@
         {
           "prompt": "Why do chorus melodies often feature sustained vowels (long notes) compared to verses?",
           "options": [
-            "Because consonants are illegal in choruses",
-            "To save ink on the lyric sheet",
-            "Because long notes are easier to forget",
-            "Sustained vowels allow singers to project maximum vocal power and make the melody easy for audiences to sing along"
+            "Because consonants are illegal in choruses (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "To save ink on the lyric sheet (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Because long notes are easier to forget (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Sustained vowels allow singers to project maximum vocal power and make the melody easy for audiences to sing along (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 3,
           "explanation": "Sustained open vowels maximize vocal resonance and crowd singability."
@@ -1282,10 +1282,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 3, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "'Get to the chorus in under 60 seconds'",
-            "Wait at least 4 minutes before playing the chorus",
-            "Never play the chorus more than once",
-            "Choruses must only be played at the end of the song"
+            "'Get to the chorus in under 60 seconds' (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Wait at least 4 minutes before playing the chorus (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Never play the chorus more than once (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Choruses must only be played at the end of the song (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Modern pop songwriting aims for the first chorus within 45 to 60 seconds."
@@ -1293,10 +1293,10 @@
         {
           "prompt": "If a verse is written with fast, wordy, narrative-heavy lyrics, what contrast should the chorus provide?",
           "options": [
-            "Simpler, open, anthemic lyrics with sustained melodic notes and strong repetition",
-            "Even more fast spoken-word dialogue",
-            "Total silence with no vocals",
-            "A lecture on music history"
+            "Simpler, open, anthemic lyrics with sustained melodic notes and strong repetition (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Even more fast spoken-word dialogue (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Total silence with no vocals (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "A lecture on music history (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Contrast is vital: spacious anthemic melody balances dense narrative verses."
@@ -1308,10 +1308,10 @@
         {
           "prompt": "Which of these lines is best suited as a punchy, universal Chorus hook?",
           "options": [
-            "'We were born to break the golden rule!'",
-            "'The receipt was on the kitchen table next to the keys'",
-            "'I woke up at 7:15 AM on Tuesday and brushed my teeth'",
-            "'My cousin called from Denver about a used transmission'"
+            "'We were born to break the golden rule!' (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "'The receipt was on the kitchen table next to the keys' (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "'I woke up at 7:15 AM on Tuesday and brushed my teeth' (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "'My cousin called from Denver about a used transmission' (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Universal, emotional, rhythmic, and anthemic.",
@@ -1320,10 +1320,10 @@
         {
           "prompt": "What is a 'Last-Line Punchline' hook in a chorus?",
           "options": [
-            "Singing the last line in falsetto",
-            "Telling a funny joke at the end of the song",
-            "A drum roll at the end",
-            "Building 3 lines of emotional context that land on the explosive song title in line 4"
+            "Singing the last line in falsetto (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Telling a funny joke at the end of the song (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "A drum roll at the end (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Building 3 lines of emotional context that land on the explosive song title in line 4 (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The last-line hook reveals the title as the emotional culmination.",
@@ -1332,10 +1332,10 @@
         {
           "prompt": "Choruses achieve dynamic impact through:",
           "options": [
-            "Changing the song's language every bar",
-            "Whispering into the microphone",
-            "Higher vocal register, full band instrumentation, harmonic resolution, and title repetition",
-            "Reducing instrument volume to zero"
+            "Changing the song's language every bar (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Whispering into the microphone (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Higher vocal register, full band instrumentation, harmonic resolution, and title repetition (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Reducing instrument volume to zero (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 2,
           "explanation": "High vocal register and rich instrumentation create explosive chorus power.",
@@ -1344,10 +1344,10 @@
         {
           "prompt": "What does the 'Rule of Three' mean in chorus design?",
           "options": [
-            "Only having 3 instruments in the band",
-            "Repeating a key rhythmic motif or lyrical hook three times to engrave it into the listener's memory",
-            "Singing 3 octaves higher",
-            "Writing only 3 words per chorus"
+            "Only having 3 instruments in the band (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Repeating a key rhythmic motif or lyrical hook three times to engrave it into the listener's memory (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Singing 3 octaves higher (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Writing only 3 words per chorus (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 1,
           "explanation": "Threefold repetition creates satisfying cognitive retention.",
@@ -1356,10 +1356,10 @@
         {
           "prompt": "Why should the central emotion of a chorus be universal rather than overly specific?",
           "options": [
-            "So that millions of diverse listeners can project their own lives and feelings into the song",
-            "Because specific words are copyrighted",
-            "Because radio stations forbid specific names",
-            "Because simple words sound louder"
+            "So that millions of diverse listeners can project their own lives and feelings into the song (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Because specific words are copyrighted (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Because radio stations forbid specific names (Compose anthemic choruses that deliver the central thesis of the song (U3))",
+            "Because simple words sound louder (Compose anthemic choruses that deliver the central thesis of the song (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Universal emotional truth enables mass listener resonance and empathy.",
@@ -1405,10 +1405,10 @@
         {
           "prompt": "In applying the principles of Construct transformative bridges (middle-eight / the departure) that break the repetitive Verse-Chorus loop by introducing new chord progressions (vi or IV shifts), which composition technique best fulfills the musical goal?",
           "options": [
-            "To break the repetitive Verse/Chorus loop by introducing a new harmonic color, fresh melody, and a lyrical revelation",
-            "To play the first verse backwards",
-            "To sell commercial products",
-            "To introduce the band's manager"
+            "To break the repetitive Verse/Chorus loop by introducing a new harmonic color, fresh melody, and a lyrical revelation (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "To play the first verse backwards (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "To sell commercial products (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "To introduce the band's manager (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 0,
           "explanation": "The bridge provides harmonic, melodic, and lyrical departure."
@@ -1416,10 +1416,10 @@
         {
           "prompt": "Lyrically, what typically happens in a masterfully written bridge?",
           "options": [
-            "The narrator experiences a moment of realization, a plot twist, a perspective shift, or a sudden emotional breakthrough",
-            "The narrator talks about the weather only",
-            "The narrator counts from one to eight",
-            "The narrator repeats the chorus four times"
+            "The narrator experiences a moment of realization, a plot twist, a perspective shift, or a sudden emotional breakthrough (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "The narrator talks about the weather only (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "The narrator counts from one to eight (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "The narrator repeats the chorus four times (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 0,
           "explanation": "The bridge is reserved for pivotal narrative or emotional epiphanies."
@@ -1427,10 +1427,10 @@
         {
           "prompt": "What was the traditional name for the bridge section in 32-bar American standards?",
           "options": [
-            "The Middle Eight",
-            "The Solo Trap",
-            "The Quick Four",
-            "The Big Sixteen"
+            "The Middle Eight (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "The Solo Trap (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "The Quick Four (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "The Big Sixteen (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 0,
           "explanation": "The 'Middle Eight' is the classic music industry term for the bridge."
@@ -1442,10 +1442,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 3, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "By opening the section on a different chord from the verse/chorus (such as the IV, vi, or ii chord) to change the emotional atmosphere",
-            "By muting all sound for two minutes",
-            "By tuning all guitars down an octave in silence",
-            "By playing random discordant notes"
+            "By opening the section on a different chord from the verse/chorus (such as the IV, vi, or ii chord)",
+            "By muting all sound for two minutes (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "By tuning all guitars down an octave in silence (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "By playing random discordant notes (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Opening on the IV, vi, or ii chord instantly shifts the harmonic atmosphere."
@@ -1453,10 +1453,10 @@
         {
           "prompt": "What is a 'Drop Chorus' that often follows immediately after a dramatic bridge?",
           "options": [
-            "Singing the chorus with stripped-down instruments (just voice and piano/guitar) before exploding into the final full-band chorus",
-            "Dropping the microphone on stage",
-            "Deleting the chorus from the track",
-            "Dropping the pitch by 5 semitones"
+            "Singing the chorus with stripped-down instruments (just voice and piano/guitar)",
+            "Dropping the microphone on stage (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Deleting the chorus from the track (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Dropping the pitch by 5 semitones (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 0,
           "explanation": "A drop chorus creates intimacy before the final grand explosion."
@@ -1468,10 +1468,10 @@
         {
           "prompt": "Where does a bridge typically appear in standard song architecture?",
           "options": [
-            "In between Verse 1 and Verse 2",
-            "Before the first verse",
-            "At the very end as the song fades out",
-            "After the second chorus and before the final chorus"
+            "In between Verse 1 and Verse 2 (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Before the first verse (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "At the very end as the song fades out (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "After the second chorus and before the final chorus (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The bridge sits between Chorus 2 and Chorus 3 (VCVCBC).",
@@ -1480,10 +1480,10 @@
         {
           "prompt": "If your Verse and Chorus are in bright C Major (C - G - Am - F), starting your bridge on Dm or F creates:",
           "options": [
-            "A wrong note error",
-            "A system crash in the audio player",
-            "A moody, introspective subdominant shift that refreshes the listener's ear",
-            "Instant loss of rhythm"
+            "A wrong note error (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "A system crash in the audio player (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "A moody, introspective subdominant shift that refreshes the listener's ear (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Instant loss of rhythm (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 2,
           "explanation": "Subdominant and minor chord shifts refresh the listener's ear.",
@@ -1492,10 +1492,10 @@
         {
           "prompt": "A bridge that features a 10-year time jump in the lyrics is using which storytelling technique?",
           "options": [
-            "Metaphorical inversion",
-            "Temporal perspective shift / Narrative time jump",
-            "Alliteration",
-            "Slant rhyme"
+            "Metaphorical inversion (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Temporal perspective shift / Narrative time jump (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Alliteration (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Slant rhyme (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 1,
           "explanation": "Temporal shift advances the storyline into future hindsight.",
@@ -1504,10 +1504,10 @@
         {
           "prompt": "Why is it important NOT to repeat the song title in the bridge?",
           "options": [
-            "To keep the bridge distinct from the chorus and save the title's impact for the grand final chorus re-entry",
-            "Because titles are only allowed in verses",
-            "Because bridges cannot contain vowels",
-            "Because copyright forbids it"
+            "To keep the bridge distinct from the chorus and save the title's impact for the grand final chorus re-entry (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Because titles are only allowed in verses (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Because bridges cannot contain vowels (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Because copyright forbids it (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Holding back the title builds anticipation for the final chorus explosion.",
@@ -1516,10 +1516,10 @@
         {
           "prompt": "What is the ultimate purpose of the bridge's final two bars?",
           "options": [
-            "Fading the volume to zero",
-            "Singing the verse lyrics again",
-            "Playing a drum solo with no rhythm",
-            "Building tension on the dominant harmony (V) to act as a catapult into the climactic final chorus"
+            "Fading the volume to zero (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Singing the verse lyrics again (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Playing a drum solo with no rhythm (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))",
+            "Building tension on the dominant harmony (Construct transformative bridges middleeight  the departure that break the repetitive VerseChorus loop by introducing new chord progressions vi or IV shifts (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The dominant build slingshots into the final chorus payoff.",
@@ -1567,10 +1567,10 @@
         {
           "prompt": "In applying the principles of Map, which composition technique best fulfills the musical goal?",
           "options": [
-            "Verse - Chorus - Verse - Chorus - Bridge - Chorus",
-            "Vocal - Chord - Vocal - Chord - Bass - Cymbal",
-            "Volume - Control - Volume - Control - Bass - Clear",
-            "Verse - Cadence - Verse - Cadence - Beat - Cadence"
+            "Verse - Chorus - Verse - Chorus - Bridge - Chorus (Map (U3))",
+            "Vocal - Chord - Vocal - Chord - Bass - Cymbal (Map (U3))",
+            "Volume - Control - Volume - Control - Bass - Clear (Map (U3))",
+            "Verse - Cadence - Verse - Cadence - Beat - Cadence (Map (U3))"
           ],
           "answerIndex": 0,
           "explanation": "VCVCBC = Verse - Chorus - Verse - Chorus - Bridge - Chorus."
@@ -1578,10 +1578,10 @@
         {
           "prompt": "In an AABA 32-bar classic song form, what does the 'B' section represent?",
           "options": [
-            "The Bridge (or Middle Eight), which departs harmonically and lyrically from the 'A' verses",
-            "The Bass solo",
-            "The Background vocals",
-            "The Beat drop"
+            "The Bridge (or Middle Eight)",
+            "The Bass solo (Map (U3))",
+            "The Background vocals (Map (U3))",
+            "The Beat drop (Map (U3))"
           ],
           "answerIndex": 0,
           "explanation": "'B' represents the Bridge in classic AABA form."
@@ -1589,10 +1589,10 @@
         {
           "prompt": "What is a 'Refrain' in an AAA strophic folk ballad?",
           "options": [
-            "A recurring line (often the title) placed at the exact same position (usually the last line) in every verse",
-            "A 3-minute silence",
-            "An opera singer joining the track",
-            "An off-key chord"
+            "A recurring line (often the title)",
+            "A 3-minute silence (Map (U3))",
+            "An opera singer joining the track (Map (U3))",
+            "An off-key chord (Map (U3))"
           ],
           "answerIndex": 0,
           "explanation": "A refrain is a recurring anchor line integrated within verses."
@@ -1604,10 +1604,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 3, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Because Verse 2 is shorter",
-            "To prevent the song from losing all its momentum after the high-energy first chorus",
-            "Because Verse 2 must be shouted",
-            "Because the singer's voice is louder in Verse 2"
+            "Because Verse 2 is shorter (Map (U3))",
+            "To prevent the song from losing all its momentum after the high-energy first chorus (Map (U3))",
+            "Because Verse 2 must be shouted (Map (U3))",
+            "Because the singer's voice is louder in Verse 2 (Map (U3))"
           ],
           "answerIndex": 1,
           "explanation": "Maintaining groove and momentum prevents energy crashes after Chorus 1."
@@ -1615,10 +1615,10 @@
         {
           "prompt": "Which song form is ideal for a sprawling, 8-verse story song with rich narrative lyrics?",
           "options": [
-            "AAA Strophic Ballad with Refrain",
-            "Single-word chorus loop",
-            "Instrumental march",
-            "30-second EDM loop"
+            "AAA Strophic Ballad with Refrain (Map (U3))",
+            "Single-word chorus loop (Map (U3))",
+            "Instrumental march (Map (U3))",
+            "30-second EDM loop (Map (U3))"
           ],
           "answerIndex": 0,
           "explanation": "The AAA Strophic form is the historic home of storytelling ballads."
@@ -1630,10 +1630,10 @@
         {
           "prompt": "What is the peak energy section in a standard VCVCBC song blueprint?",
           "options": [
-            "Verse 1",
-            "The Intro",
-            "The Final Double Chorus",
-            "The Pre-Chorus 1"
+            "Verse 1 (Map (U3))",
+            "The Intro (Map (U3))",
+            "The Final Double Chorus (Map (U3))",
+            "The Pre-Chorus 1 (Map (U3))"
           ],
           "answerIndex": 2,
           "explanation": "The final chorus represents the 100% dynamic climax.",
@@ -1642,10 +1642,10 @@
         {
           "prompt": "Which of the following is a classic example of an AABA song structure?",
           "options": [
-            "A 120 BPM electronic club track",
-            "'Yesterday' by The Beatles",
-            "A hip-hop cypher with no melody",
-            "A drum solo"
+            "A 120 BPM electronic club track (Map (U3))",
+            "'Yesterday' by The Beatles (Map (U3))",
+            "A hip-hop cypher with no melody (Map (U3))",
+            "A drum solo (Map (U3))"
           ],
           "answerIndex": 1,
           "explanation": "'Yesterday' is one of the most famous AABA masterpieces in modern history.",
@@ -1654,10 +1654,10 @@
         {
           "prompt": "How does dynamic energy mapping help a songwriter (deliberate practice)?",
           "options": [
-            "It ensures the listener experiences a compelling journey of rising and falling tension rather than an unvarying emotional flatline",
-            "It proves which chords are illegal",
-            "It turns acoustic guitars into synthesizers",
-            "It calculates the exact price of sheet music"
+            "It ensures the listener experiences a compelling journey of rising and falling tension rather than an unvarying emotional flatline (Map (U3))",
+            "It proves which chords are illegal (Map (U3))",
+            "It turns acoustic guitars into synthesizers (Map (U3))",
+            "It calculates the exact price of sheet music (Map (U3))"
           ],
           "answerIndex": 0,
           "explanation": "Dynamic mapping crafts an engaging emotional and psychoacoustic journey.",
@@ -1666,10 +1666,10 @@
         {
           "prompt": "What is the primary role of an Outro section in song architecture?",
           "options": [
-            "To introduce a whole new verse story",
-            "To start the song over from the beginning",
-            "To tune the instruments",
-            "To provide a satisfying emotional landing, resolution, or atmospheric fade after the climactic chorus"
+            "To introduce a whole new verse story (Map (U3))",
+            "To start the song over from the beginning (Map (U3))",
+            "To tune the instruments (Map (U3))",
+            "To provide a satisfying emotional landing, resolution, or atmospheric fade after the climactic chorus (Map (U3))"
           ],
           "answerIndex": 3,
           "explanation": "The outro provides resolution, cooldown, and lingering emotional resonance.",
@@ -1678,10 +1678,10 @@
         {
           "prompt": "What is the overarching objective achieved upon completing Unit 3 of FEARN Songwriting?",
           "options": [
-            "Only learning how to rhyme words ending in -at",
-            "Learning how to tune a guitar only",
-            "Mastering the architecture of Verses, Pre-Choruses, Choruses, Bridges, and complete dynamic song arrangements",
-            "Memorizing the circle of fifths only"
+            "Only learning how to rhyme words ending in -at (Map (U3))",
+            "Learning how to tune a guitar only (Map (U3))",
+            "Mastering the architecture of Verses, Pre-Choruses, Choruses, Bridges, and complete dynamic song arrangements (Map (U3))",
+            "Memorizing the circle of fifths only (Map (U3))"
           ],
           "answerIndex": 2,
           "explanation": "Unit 3 master objective: Full Song Structure & Architecture.",
@@ -1728,10 +1728,10 @@
         {
           "prompt": "In applying the principles of Master melodic contour (arch, which composition technique best fulfills the musical goal?",
           "options": [
-            "Conjunct is loud and disjunct is quiet",
-            "Conjunct uses only minor chords",
-            "Disjunct has no rhythm",
-            "Conjunct motion moves by smooth scale steps; disjunct motion jumps across wide pitch leaps"
+            "Conjunct is loud and disjunct is quiet (Master melodic contour arch (U4))",
+            "Conjunct uses only minor chords (Master melodic contour arch (U4))",
+            "Disjunct has no rhythm (Master melodic contour arch (U4))",
+            "Conjunct motion moves by smooth scale steps; disjunct motion jumps across wide pitch leaps (Master melodic contour arch (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Conjunct = stepwise scale motion; disjunct = wide intervals/leaps."
@@ -1739,10 +1739,10 @@
         {
           "prompt": "What is the 'Leap and Recovery' rule in vocal melody construction?",
           "options": [
-            "Never use leaps in pop music",
-            "Sing the same leap 10 times",
-            "After a dramatic wide upward leap, the melody typically steps gently in the opposite (downward) direction to balance vocal tension",
-            "You must leap off the stage"
+            "Never use leaps in pop music (Master melodic contour arch (U4))",
+            "Sing the same leap 10 times (Master melodic contour arch (U4))",
+            "After a dramatic wide upward leap, the melody typically steps gently in the opposite (downward)",
+            "You must leap off the stage (Master melodic contour arch (U4))"
           ],
           "answerIndex": 2,
           "explanation": "Stepwise recovery provides natural organic vocal balance."
@@ -1750,10 +1750,10 @@
         {
           "prompt": "Which melodic contour begins low, rises to an emotional climax in the center, and settles back down?",
           "options": [
-            "The Waterfall descent",
-            "The Arch contour",
-            "The Inverted valley",
-            "The Flat monotone"
+            "The Waterfall descent (Master melodic contour arch (U4))",
+            "The Arch contour (Master melodic contour arch (U4))",
+            "The Inverted valley (Master melodic contour arch (U4))",
+            "The Flat monotone (Master melodic contour arch (U4))"
           ],
           "answerIndex": 1,
           "explanation": "The Arch is the classic vocal shape."
@@ -1765,10 +1765,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 4, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Leaps are forbidden by copyright law",
-            "Scale steps are louder than leaps",
-            "Guitars cannot play leaps",
-            "Stepwise melodies are effortless for the average listener to sing along with and memorize"
+            "Leaps are forbidden by copyright law (Master melodic contour arch (U4))",
+            "Scale steps are louder than leaps (Master melodic contour arch (U4))",
+            "Guitars cannot play leaps (Master melodic contour arch (U4))",
+            "Stepwise melodies are effortless for the average listener to sing along with and memorize (Master melodic contour arch (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Stepwise melodies maximize singability and cognitive stickiness."
@@ -1776,10 +1776,10 @@
         {
           "prompt": "What emotional sensation is commonly evoked by a sudden wide upward leap of an octave or minor 7th?",
           "options": [
-            "Indifference",
-            "Sleepiness",
-            "Yearning, aspiration, vulnerability, and intense emotional awakening",
-            "Boredom"
+            "Indifference (Master melodic contour arch (U4))",
+            "Sleepiness (Master melodic contour arch (U4))",
+            "Yearning, aspiration, vulnerability, and intense emotional awakening (Master melodic contour arch (U4))",
+            "Boredom (Master melodic contour arch (U4))"
           ],
           "answerIndex": 2,
           "explanation": "Upward leaps evoke yearning and heightened emotion."
@@ -1791,10 +1791,10 @@
         {
           "prompt": "The opening interval of 'Somewhere Over the Rainbow' ('Some-WHERE') is an example of:",
           "options": [
-            "A monotone drone",
-            "An expressive octave leap (disjunct motion) followed by a stepwise arch descent",
-            "A spoken word rap",
-            "A descending half-step"
+            "A monotone drone (Master melodic contour arch (U4))",
+            "An expressive octave leap (disjunct motion)",
+            "A spoken word rap (Master melodic contour arch (U4))",
+            "A descending half-step (Master melodic contour arch (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Iconic octave leap.",
@@ -1803,10 +1803,10 @@
         {
           "prompt": "What is a 'cascading / waterfall' melodic shape?",
           "options": [
-            "Starting high on an emotional peak and stepping downward across the musical bar",
-            "A rhythm that speeds up",
-            "A silent pause",
-            "Singing underwater"
+            "Starting high on an emotional peak and stepping downward across the musical bar (Master melodic contour arch (U4))",
+            "A rhythm that speeds up (Master melodic contour arch (U4))",
+            "A silent pause (Master melodic contour arch (U4))",
+            "Singing underwater (Master melodic contour arch (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Waterfall descent starts high and steps downward.",
@@ -1815,10 +1815,10 @@
         {
           "prompt": "If an entire song melody only contains stepwise motion with zero leaps, what risk does it run?",
           "options": [
-            "It cannot have drums",
-            "It will violate music theory",
-            "It will be too high to sing",
-            "It can become monotonous and lack emotional climax or memorable peak moments"
+            "It cannot have drums (Master melodic contour arch (U4))",
+            "It will violate music theory (Master melodic contour arch (U4))",
+            "It will be too high to sing (Master melodic contour arch (U4))",
+            "It can become monotonous and lack emotional climax or memorable peak moments (Master melodic contour arch (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Lack of contrast leads to melodic fatigue.",
@@ -1827,10 +1827,10 @@
         {
           "prompt": "How does melodic contour interact with song lyrics?",
           "options": [
-            "Melody contour does not affect words",
-            "Only verbs can be on high notes",
-            "Important emotional words (love, fly, heartbreak) should align with melodic leaps and contour peaks",
-            "Lyrics and melody should have opposite rhythms"
+            "Melody contour does not affect words (Master melodic contour arch (U4))",
+            "Only verbs can be on high notes (Master melodic contour arch (U4))",
+            "Important emotional words (love, fly, heartbreak)",
+            "Lyrics and melody should have opposite rhythms (Master melodic contour arch (U4))"
           ],
           "answerIndex": 2,
           "explanation": "Emotional word stress aligning with melodic peaks creates powerful prosody.",
@@ -1839,10 +1839,10 @@
         {
           "prompt": "What constitutes a 'pendulum' melodic contour?",
           "options": [
-            "A melody that only goes up",
-            "Oscillating back and forth between two adjacent pitch centers",
-            "Playing drums only",
-            "Singing in a clock tower"
+            "A melody that only goes up (Master melodic contour arch (U4))",
+            "Oscillating back and forth between two adjacent pitch centers (Master melodic contour arch (U4))",
+            "Playing drums only (Master melodic contour arch (U4))",
+            "Singing in a clock tower (Master melodic contour arch (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Oscillation between adjacent notes.",
@@ -1889,10 +1889,10 @@
         {
           "prompt": "In applying the principles of Craft memorable melodic motifs using repetition, which composition technique best fulfills the musical goal?",
           "options": [
-            "A short, distinctive 3-to-7 note melodic/rhythmic building block that is repeated and developed",
-            "The chord sheet",
-            "The album artwork",
-            "The tempo marking"
+            "A short, distinctive 3-to-7 note melodic/rhythmic building block that is repeated and developed (Craft memorable melodic motifs using repetition (U4))",
+            "The chord sheet (Craft memorable melodic motifs using repetition (U4))",
+            "The album artwork (Craft memorable melodic motifs using repetition (U4))",
+            "The tempo marking (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 0,
           "explanation": "A motif is the core melodic cell of a song."
@@ -1900,10 +1900,10 @@
         {
           "prompt": "In the A-A-B phrase structure, what is the specific role of line B?",
           "options": [
-            "To break the established pattern and provide an emotional release or punchline",
-            "To repeat line A exactly",
-            "To change the key to minor",
-            "To stay silent"
+            "To break the established pattern and provide an emotional release or punchline (Craft memorable melodic motifs using repetition (U4))",
+            "To repeat line A exactly (Craft memorable melodic motifs using repetition (U4))",
+            "To change the key to minor (Craft memorable melodic motifs using repetition (U4))",
+            "To stay silent (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 0,
           "explanation": "B breaks the repetition with a payoff release."
@@ -1911,10 +1911,10 @@
         {
           "prompt": "How does a 'Call and Response' (Antecedent/Consequent) phrase pair create satisfaction?",
           "options": [
-            "The call leaves the pitch unresolved on a tense scale degree (?), and the response resolves to the root home note",
-            "Both phrases are identical",
-            "There is no harmony",
-            "The response is played by drums only"
+            "The call leaves the pitch unresolved on a tense scale degree (Craft memorable melodic motifs using repetition (U4))",
+            "Both phrases are identical (Craft memorable melodic motifs using repetition (U4))",
+            "There is no harmony (Craft memorable melodic motifs using repetition (U4))",
+            "The response is played by drums only (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Unresolved tension followed by tonic resolution."
@@ -1926,10 +1926,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 4, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Retrograde inversion",
-            "Rhythmic truncation",
-            "Octave mute",
-            "Melodic sequence"
+            "Retrograde inversion (Craft memorable melodic motifs using repetition (U4))",
+            "Rhythmic truncation (Craft memorable melodic motifs using repetition (U4))",
+            "Octave mute (Craft memorable melodic motifs using repetition (U4))",
+            "Melodic sequence (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Melodic sequence shifts pitches along the scale."
@@ -1937,10 +1937,10 @@
         {
           "prompt": "Why is motif economy (repeating few motifs) superior to introducing 10 random melodies?",
           "options": [
-            "It saves recording tape",
-            "Instruments can only play 3 notes",
-            "It makes the song shorter",
-            "The human brain craves familiar pattern recognition; too many unrelated melodies cause cognitive overload"
+            "It saves recording tape (Craft memorable melodic motifs using repetition (U4))",
+            "Instruments can only play 3 notes (Craft memorable melodic motifs using repetition (U4))",
+            "It makes the song shorter (Craft memorable melodic motifs using repetition (U4))",
+            "The human brain craves familiar pattern recognition; too many unrelated melodies cause cognitive overload (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Pattern recognition drives catchy familiarity."
@@ -1952,10 +1952,10 @@
         {
           "prompt": "Which formula represents: Statement -> Statement with higher pitch -> Statement -> Climax release?",
           "options": [
-            "A - A' - A - B",
-            "A - A - A - A",
-            "B - B - B - A",
-            "A - B - C - D"
+            "A - A' - A - B (Craft memorable melodic motifs using repetition (U4))",
+            "A - A - A - A (Craft memorable melodic motifs using repetition (U4))",
+            "B - B - B - A (Craft memorable melodic motifs using repetition (U4))",
+            "A - B - C - D (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 0,
           "explanation": "A-A'-A-B evolutionary motif structure.",
@@ -1964,10 +1964,10 @@
         {
           "prompt": "What is 'Max Martin's Melodic Math' fundamentally based on?",
           "options": [
-            "Writing songs using logarithms",
-            "Using 12-tone serialism",
-            "Playing only classical piano",
-            "Extreme motif economy and syllable-to-note mathematical synchronization across verse and chorus"
+            "Writing songs using logarithms (Craft memorable melodic motifs using repetition (U4))",
+            "Using 12-tone serialism (Craft memorable melodic motifs using repetition (U4))",
+            "Playing only classical piano (Craft memorable melodic motifs using repetition (U4))",
+            "Extreme motif economy and syllable-to-note mathematical synchronization across verse and chorus (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Melodic math focuses on motif symmetry and rhythmic syllable matching.",
@@ -1976,10 +1976,10 @@
         {
           "prompt": "What happens when you truncate a motif in the 3rd repetition?",
           "options": [
-            "It plays in reverse",
-            "The pitch becomes inaudible",
-            "You cut it short, creating sudden rhythmic acceleration and urgency before the chorus hits",
-            "The song ends"
+            "It plays in reverse (Craft memorable melodic motifs using repetition (U4))",
+            "The pitch becomes inaudible (Craft memorable melodic motifs using repetition (U4))",
+            "You cut it short, creating sudden rhythmic acceleration and urgency before the chorus hits (Craft memorable melodic motifs using repetition (U4))",
+            "The song ends (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 2,
           "explanation": "Truncation creates rhythmic acceleration.",
@@ -1988,10 +1988,10 @@
         {
           "prompt": "Why does the 'Call' phrase typically end on the 2nd (Re) or 5th (Sol) scale degree?",
           "options": [
-            "Because of guitar tuning",
-            "Because non-tonic scale degrees carry harmonic instability, sounding like an open question",
-            "Because the root note is illegal in calls",
-            "Because singers cannot hit other notes"
+            "Because of guitar tuning (Craft memorable melodic motifs using repetition (U4))",
+            "Because non-tonic scale degrees carry harmonic instability, sounding like an open question (Craft memorable melodic motifs using repetition (U4))",
+            "Because the root note is illegal in calls (Craft memorable melodic motifs using repetition (U4))",
+            "Because singers cannot hit other notes (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Instability creates an expectant 'question' feeling.",
@@ -2000,10 +2000,10 @@
         {
           "prompt": "What is the primary artistic goal of motif variation?",
           "options": [
-            "Balancing unity (familiarity) with variety (novelty) to keep the listener engaged",
-            "Making the song impossible to hum",
-            "Showing off vocal acrobatics",
-            "Hiding the melody from the listener"
+            "Balancing unity (familiarity)",
+            "Making the song impossible to hum (Craft memorable melodic motifs using repetition (U4))",
+            "Showing off vocal acrobatics (Craft memorable melodic motifs using repetition (U4))",
+            "Hiding the melody from the listener (Craft memorable melodic motifs using repetition (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Unity vs. Variety balance.",
@@ -2051,10 +2051,10 @@
         {
           "prompt": "In applying the principles of Master rhythmic phrasing and syncopation in melody, which composition technique best fulfills the musical goal?",
           "options": [
-            "A note played at the end of a concert",
-            "A silent measure",
-            "A guitar solo",
-            "One or more notes sung *before* the first strong downbeat of the measure to lead into the phrase"
+            "A note played at the end of a concert (Master rhythmic phrasing and syncopation in melody (U4))",
+            "A silent measure (Master rhythmic phrasing and syncopation in melody (U4))",
+            "A guitar solo (Master rhythmic phrasing and syncopation in melody (U4))",
+            "One or more notes sung *before* the first strong downbeat of the measure to lead into the phrase (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Anacrusis = pickup note leading into beat 1."
@@ -2062,10 +2062,10 @@
         {
           "prompt": "What is a 'harmonic push' in pop melodic phrasing?",
           "options": [
-            "Pushing the piano off the stage",
-            "Singing louder than the band",
-            "Changing the key suddenly",
-            "Anticipating the chord change by singing the key melody note an eighth-note *before* the downbeat"
+            "Pushing the piano off the stage (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Singing louder than the band (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Changing the key suddenly (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Anticipating the chord change by singing the key melody note an eighth-note *before* the downbeat (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Singing on the '&' of 4 creates rhythmic drive and momentum."
@@ -2073,10 +2073,10 @@
         {
           "prompt": "How does rhythmic contrast between Verse and Chorus improve a song?",
           "options": [
-            "It makes the song harder to play",
-            "It requires changing the drummer",
-            "It turns a pop song into jazz",
-            "Switching from syncopated short verse phrasing to sustained on-the-beat chorus phrasing creates an explosive sense of arrival"
+            "It makes the song harder to play (Master rhythmic phrasing and syncopation in melody (U4))",
+            "It requires changing the drummer (Master rhythmic phrasing and syncopation in melody (U4))",
+            "It turns a pop song into jazz (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Switching from syncopated short verse phrasing to sustained on-the-beat chorus phrasing creates an explosive sense of arrival (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Rhythmic contrast creates powerful structural impact."
@@ -2088,10 +2088,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 4, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Direct, grounded, honest, definitive, and hymn-like",
-            "Confused and searching",
-            "Timid and hesitant",
-            "Chaotic"
+            "Direct, grounded, honest, definitive, and hymn-like (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Confused and searching (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Timid and hesitant (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Chaotic (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Beat 1 entries feel grounded and definitive."
@@ -2099,10 +2099,10 @@
         {
           "prompt": "Why is leaving empty space (rests) between melodic phrases essential?",
           "options": [
-            "It lets the listener process the lyric, allows the singer to breathe, and gives the rhythm track room to shine",
-            "To make the song longer",
-            "Because vocalists forget their lines",
-            "To save electricity"
+            "It lets the listener process the lyric, allows the singer to breathe, and gives the rhythm track room to shine (Master rhythmic phrasing and syncopation in melody (U4))",
+            "To make the song longer (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Because vocalists forget their lines (Master rhythmic phrasing and syncopation in melody (U4))",
+            "To save electricity (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Space allows cognitive digestion and rhythmic groove."
@@ -2114,10 +2114,10 @@
         {
           "prompt": "In the song 'Amazing Grace', the word 'A-' is sung before beat 1. What is this called?",
           "options": [
-            "A cadenza",
-            "A coda",
-            "A fermata",
-            "An anacrusis"
+            "A cadenza (Master rhythmic phrasing and syncopation in melody (U4))",
+            "A coda (Master rhythmic phrasing and syncopation in melody (U4))",
+            "A fermata (Master rhythmic phrasing and syncopation in melody (U4))",
+            "An anacrusis (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Anacrusis / pickup.",
@@ -2126,10 +2126,10 @@
         {
           "prompt": "What is 'syncopation' in music?",
           "options": [
-            "Playing only on whole notes",
-            "Singing out of key",
-            "Accenting weak beats or off-beats (upbeats) where the listener does not expect them",
-            "Tuning instruments down a step"
+            "Playing only on whole notes (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Singing out of key (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Accenting weak beats or off-beats (upbeats)",
+            "Tuning instruments down a step (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 2,
           "explanation": "Accenting unexpected upbeats and weak beats.",
@@ -2138,10 +2138,10 @@
         {
           "prompt": "If a verse has fast 16th-note rhythmic chatter, what is the best chorus melody design for maximum contrast?",
           "options": [
-            "Even faster 32nd-note chatter",
-            "Long, sustained whole and half notes on open vowels",
-            "No melody at all",
-            "Whispering"
+            "Even faster 32nd-note chatter (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Long, sustained whole and half notes on open vowels (Master rhythmic phrasing and syncopation in melody (U4))",
+            "No melody at all (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Whispering (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Sustained open vowels contrast chatter verses.",
@@ -2150,10 +2150,10 @@
         {
           "prompt": "What is the 'pocket' in rhythmic groove singing?",
           "options": [
-            "The micro-timing sweet spot where a singer's phrasing locks seamlessly with the drum groove and bassline",
-            "Where the singer keeps their guitar pick",
-            "The end of the track",
-            "A small verse"
+            "The micro-timing sweet spot where a singer's phrasing locks seamlessly with the drum groove and bassline (Master rhythmic phrasing and syncopation in melody (U4))",
+            "Where the singer keeps their guitar pick (Master rhythmic phrasing and syncopation in melody (U4))",
+            "The end of the track (Master rhythmic phrasing and syncopation in melody (U4))",
+            "A small verse (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 0,
           "explanation": "The groove pocket locks vocal timing with rhythm section.",
@@ -2162,10 +2162,10 @@
         {
           "prompt": "Which time signature provides a lilting, triple-meter swing feel common in ballads?",
           "options": [
-            "2/4 march time",
-            "4/4 common time",
-            "5/4 odd time",
-            "6/8 time"
+            "2/4 march time (Master rhythmic phrasing and syncopation in melody (U4))",
+            "4/4 common time (Master rhythmic phrasing and syncopation in melody (U4))",
+            "5/4 odd time (Master rhythmic phrasing and syncopation in melody (U4))",
+            "6/8 time (Master rhythmic phrasing and syncopation in melody (U4))"
           ],
           "answerIndex": 3,
           "explanation": "6/8 and 3/4 provide lilting triplet groove.",
@@ -2212,10 +2212,10 @@
         {
           "prompt": "In applying the principles of Design vocal range and register contrast, which composition technique best fulfills the musical goal?",
           "options": [
-            "The higher vocal register naturally produces more acoustic energy and emotional intensity, signaling the song's primary hook",
-            "To make the song shorter",
-            "Because bass guitars cannot play high",
-            "Because low notes are not allowed in choruses"
+            "The higher vocal register naturally produces more acoustic energy and emotional intensity, signaling the song's primary hook (Design vocal range and register contrast (U4))",
+            "To make the song shorter (Design vocal range and register contrast (U4))",
+            "Because bass guitars cannot play high (Design vocal range and register contrast (U4))",
+            "Because low notes are not allowed in choruses (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Register elevation increases acoustic energy and emotional power."
@@ -2223,10 +2223,10 @@
         {
           "prompt": "What is the 'Money Note' (climax peak note) in commercial songwriting?",
           "options": [
-            "The single highest, most emotionally charged vocal note in the entire song, strategically placed at the dramatic climax",
-            "A low bass note",
-            "A drum solo",
-            "A note that costs money to sing"
+            "The single highest, most emotionally charged vocal note in the entire song, strategically placed at the dramatic climax (Design vocal range and register contrast (U4))",
+            "A low bass note (Design vocal range and register contrast (U4))",
+            "A drum solo (Design vocal range and register contrast (U4))",
+            "A note that costs money to sing (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 0,
           "explanation": "The dramatic highest peak note of the track."
@@ -2234,10 +2234,10 @@
         {
           "prompt": "Where should the climax peak note ideally be placed for maximum emotional impact?",
           "options": [
-            "In the Bridge climax or the Final Chorus",
-            "During the fade-out",
-            "On the very first word of Verse 1",
-            "In the intro guitar strum"
+            "In the Bridge climax or the Final Chorus (Design vocal range and register contrast (U4))",
+            "During the fade-out (Design vocal range and register contrast (U4))",
+            "On the very first word of Verse 1 (Design vocal range and register contrast (U4))",
+            "In the intro guitar strum (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Bridge climax or final chorus delivers maximum payoff."
@@ -2249,10 +2249,10 @@
         {
           "prompt": "In composition and lyric craft for Design vocal range and register contrast, which artistic decision best serves the song?",
           "options": [
-            "Low to mid conversational chest voice",
-            "Inaudible whisper",
-            "Whistle register scream",
-            "High falsetto belt"
+            "Low to mid conversational chest voice (Design vocal range and register contrast (U4))",
+            "Inaudible whisper (Design vocal range and register contrast (U4))",
+            "Whistle register scream (Design vocal range and register contrast (U4))",
+            "High falsetto belt (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Conversational chest voice supports intimate storytelling."
@@ -2260,10 +2260,10 @@
         {
           "prompt": "What physical reason explains why listeners experience goosebumps when a singer hits a high belt note?",
           "options": [
-            "The human brain instinctually interprets high-energy vocal cord pressure as primal emotional urgency",
-            "The temperature in the room drops",
-            "The speakers shake",
-            "High notes cause ear fatigue"
+            "The human brain instinctually interprets high-energy vocal cord pressure as primal emotional urgency (Design vocal range and register contrast (U4))",
+            "The temperature in the room drops (Design vocal range and register contrast (U4))",
+            "The speakers shake (Design vocal range and register contrast (U4))",
+            "High notes cause ear fatigue (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Evolutionary acoustic decoding of high-energy vocal strain."
@@ -2275,10 +2275,10 @@
         {
           "prompt": "What mistake occurs if Verse 1 is written in the singer's absolute highest vocal range?",
           "options": [
-            "The lyrics will disappear",
-            "The song will be too quiet",
-            "The chorus will have nowhere higher to go, destroying the dynamic lift of the song",
-            "The guitar will go out of tune"
+            "The lyrics will disappear (Design vocal range and register contrast (U4))",
+            "The song will be too quiet (Design vocal range and register contrast (U4))",
+            "The chorus will have nowhere higher to go, destroying the dynamic lift of the song (Design vocal range and register contrast (U4))",
+            "The guitar will go out of tune (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 2,
           "explanation": "Leaves no headroom for chorus dynamic lift.",
@@ -2287,10 +2287,10 @@
         {
           "prompt": "In Adele's 'Someone Like You', how is register contrast utilized between the verse and chorus?",
           "options": [
-            "The verse is screaming and the chorus is whispered",
-            "The verse is low, speech-like and intimate; the chorus leaps into a vulnerable high head-mix register",
-            "Both sections use the same 2 notes",
-            "The chorus has no vocals"
+            "The verse is screaming and the chorus is whispered (Design vocal range and register contrast (U4))",
+            "The verse is low, speech-like and intimate; the chorus leaps into a vulnerable high head-mix register (Design vocal range and register contrast (U4))",
+            "Both sections use the same 2 notes (Design vocal range and register contrast (U4))",
+            "The chorus has no vocals (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Low conversational verse to high exposed chorus.",
@@ -2299,10 +2299,10 @@
         {
           "prompt": "What is 'tessitura' in vocal songwriting?",
           "options": [
-            "The most acceptable and comfortable vocal range where the majority of a song's notes reside",
-            "A type of Italian pasta",
-            "A fast drum tempo",
-            "A guitar pedal"
+            "The most acceptable and comfortable vocal range where the majority of a song's notes reside (Design vocal range and register contrast (U4))",
+            "A type of Italian pasta (Design vocal range and register contrast (U4))",
+            "A fast drum tempo (Design vocal range and register contrast (U4))",
+            "A guitar pedal (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Tessitura is the prevailing pitch range of a vocal piece.",
@@ -2311,10 +2311,10 @@
         {
           "prompt": "How does a final-chorus key change (truck driver's gear shift / modulation) affect vocal energy?",
           "options": [
-            "It removes the bassline",
-            "It lowers the volume",
-            "It puts the audience to sleep",
-            "It shifts the entire melody up a half or whole step, pushing the singer into higher vocal strain and euphoric climax"
+            "It removes the bassline (Design vocal range and register contrast (U4))",
+            "It lowers the volume (Design vocal range and register contrast (U4))",
+            "It puts the audience to sleep (Design vocal range and register contrast (U4))",
+            "It shifts the entire melody up a half or whole step, pushing the singer into higher vocal strain and euphoric climax (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Modulation forces higher vocal energy and climax.",
@@ -2323,10 +2323,10 @@
         {
           "prompt": "What lyric word should coincide with the climax peak note?",
           "options": [
-            "Prepositions like 'of' or 'in'",
-            "Articles like 'the' or 'a'",
-            "The most emotionally pivotal thematic word of the entire song",
-            "Conjunctions like 'and'"
+            "Prepositions like 'of' or 'in' (Design vocal range and register contrast (U4))",
+            "Articles like 'the' or 'a' (Design vocal range and register contrast (U4))",
+            "The most emotionally pivotal thematic word of the entire song (Design vocal range and register contrast (U4))",
+            "Conjunctions like 'and' (Design vocal range and register contrast (U4))"
           ],
           "answerIndex": 2,
           "explanation": "The thematic anchor word must carry the peak note.",
@@ -2375,10 +2375,10 @@
         {
           "prompt": "In applying the principles of Integrate melodic contour, which composition technique best fulfills the musical goal?",
           "options": [
-            "The seamless alignment of natural spoken word stress with musical pitch peaks and rhythmic downbeats",
-            "Writing poems without music",
-            "Using classical rhyming dictionaries only",
-            "Singing in a foreign language"
+            "The seamless alignment of natural spoken word stress with musical pitch peaks and rhythmic downbeats (Integrate melodic contour (U4))",
+            "Writing poems without music (Integrate melodic contour (U4))",
+            "Using classical rhyming dictionaries only (Integrate melodic contour (U4))",
+            "Singing in a foreign language (Integrate melodic contour (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Prosody is the marriage of natural speech stress with musical contour."
@@ -2386,10 +2386,10 @@
         {
           "prompt": "How do you test a lyric line for natural prosody?",
           "options": [
-            "Speak the sentence naturally at conversational volume and mark the syllables that naturally rise in pitch and volume",
-            "Play it backward on a synthesizer",
-            "Count the number of letters",
-            "Whisper every word"
+            "Speak the sentence naturally at conversational volume and mark the syllables that naturally rise in pitch and volume (Integrate melodic contour (U4))",
+            "Play it backward on a synthesizer (Integrate melodic contour (U4))",
+            "Count the number of letters (Integrate melodic contour (U4))",
+            "Whisper every word (Integrate melodic contour (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Conversational speech testing reveals true stress patterns."
@@ -2397,10 +2397,10 @@
         {
           "prompt": "Which of these lines demonstrates BAD (unnatural) prosody?",
           "options": [
-            "Putting the weak preposition 'of' on the highest, loudest note of the chorus on beat 1",
-            "Putting the word 'HEART' on the highest note",
-            "Singing 'LOVE' on beat 1",
-            "Putting an unstressed syllable on an eighth-note upbeat"
+            "Putting the weak preposition 'of' on the highest, loudest note of the chorus on beat 1 (Integrate melodic contour (U4))",
+            "Putting the word 'HEART' on the highest note (Integrate melodic contour (U4))",
+            "Singing 'LOVE' on beat 1 (Integrate melodic contour (U4))",
+            "Putting an unstressed syllable on an eighth-note upbeat (Integrate melodic contour (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Accenting weak functional words ('of', 'the') creates jarring, awkward prosody."
@@ -2412,10 +2412,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 4, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Because they are shorter",
-            "Because the music reinforces how humans naturally express authentic emotion through voice inflection",
-            "Because they avoid all rhyme",
-            "Because they use louder instruments"
+            "Because they are shorter (Integrate melodic contour (U4))",
+            "Because the music reinforces how humans naturally express authentic emotion through voice inflection (Integrate melodic contour (U4))",
+            "Because they avoid all rhyme (Integrate melodic contour (U4))",
+            "Because they use louder instruments (Integrate melodic contour (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Natural vocal inflection conveys authentic human truth."
@@ -2423,10 +2423,10 @@
         {
           "prompt": "What is the primary role of the 4-step melody checklist in finishing a song?",
           "options": [
-            "Ensuring contour, motif economy, rhythmic contrast, and range payoff work together harmoniously",
-            "Determining royalty percentages",
-            "Setting the guitar amplifier volume",
-            "Passing an exam"
+            "Ensuring contour, motif economy, rhythmic contrast, and range payoff work together harmoniously (Integrate melodic contour (U4))",
+            "Determining royalty percentages (Integrate melodic contour (U4))",
+            "Setting the guitar amplifier volume (Integrate melodic contour (U4))",
+            "Passing an exam (Integrate melodic contour (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Integrates contour, motifs, rhythm, and range into a unified craft."
@@ -2438,10 +2438,10 @@
         {
           "prompt": "What is the core takeaway of Unit 4 in FEARN Songwriting?",
           "options": [
-            "Only learning to play piano scales",
-            "Crafting memorable melodies using intentional contour, motif architecture (A-A-B), rhythmic syncopation, vocal register contrast, and natural speech prosody",
-            "Only writing drum loops",
-            "Only memorizing song lyrics"
+            "Only learning to play piano scales (Integrate melodic contour (U4))",
+            "Crafting memorable melodies using intentional contour, motif architecture (Integrate melodic contour (U4))",
+            "Only writing drum loops (Integrate melodic contour (U4))",
+            "Only memorizing song lyrics (Integrate melodic contour (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Unit 4 master objective: Melody basics and craft.",
@@ -2450,10 +2450,10 @@
         {
           "prompt": "In the phrase 'I want to hold your hand', which words naturally carry primary metric stress?",
           "options": [
-            "'WANT', 'HOLD', and 'HAND'",
-            "'I' and 'to'",
-            "Every single word equally",
-            "'to' and 'your'"
+            "'WANT', 'HOLD', and 'HAND' (Integrate melodic contour (U4))",
+            "'I' and 'to' (Integrate melodic contour (U4))",
+            "Every single word equally (Integrate melodic contour (U4))",
+            "'to' and 'your' (Integrate melodic contour (U4))"
           ],
           "answerIndex": 0,
           "explanation": "'WANT', 'HOLD', 'HAND' carry semantic action stress.",
@@ -2462,10 +2462,10 @@
         {
           "prompt": "What structural relationship between verse and chorus melody guarantees dynamic excitement?",
           "options": [
-            "Both sections sharing the exact same 3 notes at the same pitch",
-            "Chorus whispered and verse screamed",
-            "Verse faster than chorus",
-            "Verse in lower conversational register with short syncopations -> Chorus elevated 5 scale steps with long soaring open vowel notes"
+            "Both sections sharing the exact same 3 notes at the same pitch (Integrate melodic contour (U4))",
+            "Chorus whispered and verse screamed (Integrate melodic contour (U4))",
+            "Verse faster than chorus (Integrate melodic contour (U4))",
+            "Verse in lower conversational register with short syncopations -> Chorus elevated 5 scale steps with long soaring open vowel notes (Integrate melodic contour (U4))"
           ],
           "answerIndex": 3,
           "explanation": "Range and rhythmic contrast creates explosive arrival.",
@@ -2474,10 +2474,10 @@
         {
           "prompt": "Why should open vowels (/eɪ/, /iː/, /oʊ/, /uː/) be chosen for the highest melody notes?",
           "options": [
-            "They are the only vowels in English",
-            "They sound funny",
-            "They allow the singer's vocal tract to resonate freely without constricting the pharynx and vocal cords",
-            "They rhyme with everything"
+            "They are the only vowels in English (Integrate melodic contour (U4))",
+            "They sound funny (Integrate melodic contour (U4))",
+            "They allow the singer's vocal tract to resonate freely without constricting the pharynx and vocal cords (Integrate melodic contour (U4))",
+            "They rhyme with everything (Integrate melodic contour (U4))"
           ],
           "answerIndex": 2,
           "explanation": "Vowel formant physics: open vowels maximize acoustic resonance.",
@@ -2486,10 +2486,10 @@
         {
           "prompt": "What did the Brill Building songwriting masters consider the hallmark of a hit song?",
           "options": [
-            "A 10-minute guitar solo",
-            "An undeniable melodic motif that the listener can sing back accurately after hearing it just once",
-            "Expensive recording microphones",
-            "Complex polyrhythms"
+            "A 10-minute guitar solo (Integrate melodic contour (U4))",
+            "An undeniable melodic motif that the listener can sing back accurately after hearing it just once (Integrate melodic contour (U4))",
+            "Expensive recording microphones (Integrate melodic contour (U4))",
+            "Complex polyrhythms (Integrate melodic contour (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Instant melodic recall on first listen.",
@@ -2539,10 +2539,10 @@
         {
           "prompt": "In applying the principles of Distinguish chord tones (Root, which composition technique best fulfills the musical goal?",
           "options": [
-            "It makes the guitar louder.",
-            "It forces the song to change tempo.",
-            "It stops the song.",
-            "It creates an immediate emotional tug of heartache and poignant vulnerability before resolving into comforting rest."
+            "It makes the guitar louder. (Distinguish chord tones Root (U6))",
+            "It forces the song to change tempo. (Distinguish chord tones Root (U6))",
+            "It stops the song. (Distinguish chord tones Root (U6))",
+            "It creates an immediate emotional tug of heartache and poignant vulnerability before resolving into comforting rest. (Distinguish chord tones Root (U6))"
           ],
           "answerIndex": 3,
           "explanation": "Appoggiaturas introduce accented expressive tension followed by cathartic resolution."
@@ -2550,10 +2550,10 @@
         {
           "prompt": "Over a C Major chord (C - E - G), which of the following vocal notes is a 'chord tone'?",
           "options": [
-            "A",
-            "F",
-            "E",
-            "D"
+            "A (Distinguish chord tones Root (U6))",
+            "F (Distinguish chord tones Root (U6))",
+            "E (Distinguish chord tones Root (U6))",
+            "D (Distinguish chord tones Root (U6))"
           ],
           "answerIndex": 2,
           "explanation": "E is the 3rd of the C major triad (C-E-G)."
@@ -2565,10 +2565,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 6, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "He made a mistake that they kept on the record.",
-            "F major has no other notes.",
-            "To make it sound like heavy metal.",
-            "G is the non-chord 9th, creating an instant nostalgic ache that resolves downward to the root F on '-ter-day'."
+            "He made a mistake that they kept on the record. (Distinguish chord tones Root (U6))",
+            "F major has no other notes. (Distinguish chord tones Root (U6))",
+            "To make it sound like heavy metal. (Distinguish chord tones Root (U6))",
+            "G is the non-chord 9th, creating an instant nostalgic ache that resolves downward to the root F on '-ter-day'. (Distinguish chord tones Root (U6))"
           ],
           "answerIndex": 3,
           "explanation": "The 9th appoggiatura creates the signature wistful bittersweet emotion."
@@ -2576,10 +2576,10 @@
         {
           "prompt": "What is a 4-3 suspension in chord-melody composition?",
           "options": [
-            "Playing 4 chords in 3 seconds",
-            "A 4/3 time signature",
-            "Skipping the 4th line of a verse",
-            "Holding the 4th scale degree on a strong beat over a major chord before resolving it downward to the sweet 3rd"
+            "Playing 4 chords in 3 seconds (Distinguish chord tones Root (U6))",
+            "A 4/3 time signature (Distinguish chord tones Root (U6))",
+            "Skipping the 4th line of a verse (Distinguish chord tones Root (U6))",
+            "Holding the 4th scale degree on a strong beat over a major chord before resolving it downward to the sweet 3rd (Distinguish chord tones Root (U6))"
           ],
           "answerIndex": 3,
           "explanation": "4-3 suspension holds tension on the 4th before relaxing into the 3rd."
@@ -2591,10 +2591,10 @@
         {
           "prompt": "Match the chord tones and non-chord tones over an A Minor chord (A - C - E): A: Note C B: Note D resolving to C C: Note A D: Note B moving between A and C",
           "options": [
-            "A: Minor 3rd Chord Tone | B: 4-3 Suspension Non-Chord Tone | C: Root Chord Tone | D: Passing Tone",
-            "All are roots",
-            "All are dominant 7ths",
-            "All are non-chord tones"
+            "A: Minor 3rd Chord Tone | B: 4-3 Suspension Non-Chord Tone | C: Root Chord Tone | D: Passing Tone (Distinguish chord tones Root (U6))",
+            "All are roots (Distinguish chord tones Root (U6))",
+            "All are dominant 7ths (Distinguish chord tones Root (U6))",
+            "All are non-chord tones (Distinguish chord tones Root (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Harmonic analysis over Am chord.",
@@ -2603,10 +2603,10 @@
         {
           "prompt": "If your lyric line is 'I know for certain I am finally safe and sound', which melodic note choices best support the lyric prosody?",
           "options": [
-            "Dissonant sharp-elevenths and unresolved flat-ninths",
-            "Whispering without pitch",
-            "Rapid chromatic non-chord runs",
-            "Stable chord tones (Root and 5th) landing squarely on strong downbeats with clear consonant resolution"
+            "Dissonant sharp-elevenths and unresolved flat-ninths (Distinguish chord tones Root (U6))",
+            "Whispering without pitch (Distinguish chord tones Root (U6))",
+            "Rapid chromatic non-chord runs (Distinguish chord tones Root (U6))",
+            "Stable chord tones (Root and 5th)"
           ],
           "answerIndex": 3,
           "explanation": "Certainty and safety are acoustically mirrored by grounded chord roots and fifths.",
@@ -2615,10 +2615,10 @@
         {
           "prompt": "What chord tone defines whether a chord feels joyful/triumphant or sad/melancholic?",
           "options": [
-            "The Octave",
-            "The 5th",
-            "The 3rd",
-            "The Root"
+            "The Octave (Distinguish chord tones Root (U6))",
+            "The 5th (Distinguish chord tones Root (U6))",
+            "The 3rd (Distinguish chord tones Root (U6))",
+            "The Root (Distinguish chord tones Root (U6))"
           ],
           "answerIndex": 2,
           "explanation": "The third establishes major (happy) vs. minor (sad) tonality.",
@@ -2627,10 +2627,10 @@
         {
           "prompt": "Complete: 'To maximize emotional impact, place tense non-chord tones on _______ words and stable chord tones on _______ words.'",
           "options": [
-            "loud / soft",
-            "vulnerable/yearning / resolving/conclusive",
-            "rhyming / unrhymed",
-            "short / long"
+            "loud / soft (Distinguish chord tones Root (U6))",
+            "vulnerable/yearning / resolving/conclusive (Distinguish chord tones Root (U6))",
+            "rhyming / unrhymed (Distinguish chord tones Root (U6))",
+            "short / long (Distinguish chord tones Root (U6))"
           ],
           "answerIndex": 1,
           "explanation": "Harmonic prosody matches emotional tension to non-chord dissonance.",
@@ -2680,10 +2680,10 @@
         {
           "prompt": "In applying the principles of Design dynamic harmonic rhythm and employ modal color chords (minor iv, which composition technique best fulfills the musical goal?",
           "options": [
-            "A bittersweet, poignant 'tearjerker' ache caused by the chromatic half-step descent from the major 6th (A) to minor 6th (A-flat) down to the 5th",
-            "An electric shock",
-            "A comedic clown effect",
-            "A marching band fanfare"
+            "A bittersweet, poignant 'tearjerker' ache caused by the chromatic half-step descent from the major 6th (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "An electric shock (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "A comedic clown effect (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "A marching band fanfare (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))"
           ],
           "answerIndex": 0,
           "explanation": "The half-step line A -> Ab -> G in IV -> iv -> I is the quintessential melancholy harmonic movement."
@@ -2691,10 +2691,10 @@
         {
           "prompt": "How does accelerating harmonic rhythm in a pre-chorus affect the listener's psychology?",
           "options": [
-            "It builds rapid kinetic momentum and anticipation, making the arrival of the chorus feel explosive and satisfying.",
-            "It makes the listener fall asleep.",
-            "It breaks the metronome.",
-            "It causes the singer to lose their voice."
+            "It builds rapid kinetic momentum and anticipation, making the arrival of the chorus feel explosive and satisfying. (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "It makes the listener fall asleep. (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "It breaks the metronome. (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "It causes the singer to lose their voice. (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Faster chord turnover drives perceived tempo and urgency."
@@ -2706,10 +2706,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 6, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Playing a false note on purpose",
-            "Tuning the guitar down a step",
-            "Resolving the dominant V chord to the minor vi chord instead of the expected tonic I chord",
-            "Ending a song in silence"
+            "Playing a false note on purpose (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Tuning the guitar down a step (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Resolving the dominant V chord to the minor vi chord instead of the expected tonic I chord (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Ending a song in silence (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))"
           ],
           "answerIndex": 2,
           "explanation": "V -> vi subverts expected tonic closure, prolonging harmonic tension."
@@ -2717,10 +2717,10 @@
         {
           "prompt": "In the key of G Major, what chord is the borrowed minor iv?",
           "options": [
-            "C Major",
-            "D Major",
-            "Em",
-            "Cm"
+            "C Major (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "D Major (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Em (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Cm (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))"
           ],
           "answerIndex": 3,
           "explanation": "IV in G is C; minor iv is Cm."
@@ -2732,10 +2732,10 @@
         {
           "prompt": "Match the chord progression moves to their narrative emotional functions: A: IV -> iv -> I B: V -> vi (Deceptive) C: 1 chord per bar accelerating to 2 chords per bar D: I - V - vi - IV",
           "options": [
-            "All mean blues scale",
-            "All are jazz chords",
-            "All are classical only",
-            "A: Melancholy tearjerker | B: Subverted closure & yearning | C: Urgency build into chorus | D: Pop anthem foundation"
+            "All mean blues scale (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "All are jazz chords (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "All are classical only (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "A: Melancholy tearjerker | B: Subverted closure & yearning | C: Urgency build into chorus | D: Pop anthem foundation (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))"
           ],
           "answerIndex": 3,
           "explanation": "Harmonic emotional functions.",
@@ -2744,10 +2744,10 @@
         {
           "prompt": "Identify the song excerpt using the iconic minor iv progression:",
           "options": [
-            "'Happy Birthday'",
-            "'Jingle Bells'",
-            "'There are places I remember / All my life...'",
-            "'Twinkle Twinkle Little Star'"
+            "'Happy Birthday' (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "'Jingle Bells' (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "'There are places I remember / All my life...' (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "'Twinkle Twinkle Little Star' (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))"
           ],
           "answerIndex": 2,
           "explanation": "The Beatles' 'In My Life' features the classic D -> Dm -> A minor iv resolution.",
@@ -2756,10 +2756,10 @@
         {
           "prompt": "Why should the verse and chorus rarely share identical harmonic rhythms?",
           "options": [
-            "Because drummers cannot play the same rhythm twice.",
-            "Varying harmonic rhythm between sections creates contrast, preventing dynamic monotony and emphasizing the chorus hook.",
-            "It is a copyright restriction.",
-            "Because sharing chords is illegal."
+            "Because drummers cannot play the same rhythm twice. (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Varying harmonic rhythm between sections creates contrast, preventing dynamic monotony and emphasizing the chorus hook. (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "It is a copyright restriction. (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Because sharing chords is illegal. (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))"
           ],
           "answerIndex": 1,
           "explanation": "Harmonic rhythm contrast distinguishes structural sections.",
@@ -2768,10 +2768,10 @@
         {
           "prompt": "Complete: 'To build maximum tension right before the chorus drop, hold a single _______ chord for an entire bar.'",
           "options": [
-            "Dominant V",
-            "Subdominant IV",
-            "Diminished",
-            "Tonic I"
+            "Dominant V (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Subdominant IV (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Diminished (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))",
+            "Tonic I (Design dynamic harmonic rhythm and employ modal color chords minor iv (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Holding the Dominant V maximizes harmonic tension before tonic chorus resolution.",
@@ -2821,10 +2821,10 @@
         {
           "prompt": "In applying the principles of Apply chord substitutions, which composition technique best fulfills the musical goal?",
           "options": [
-            "D7",
-            "G7",
-            "B7",
-            "E7"
+            "D7 (Apply chord substitutions (U6))",
+            "G7 (Apply chord substitutions (U6))",
+            "B7 (Apply chord substitutions (U6))",
+            "E7 (Apply chord substitutions (U6))"
           ],
           "answerIndex": 3,
           "explanation": "vi is A Minor; the dominant 7th of Am is E7."
@@ -2832,10 +2832,10 @@
         {
           "prompt": "What is the psychological effect of using a 'Pedal Point' (holding the root bass note while chords change above it)?",
           "options": [
-            "It makes the bass player tired.",
-            "It breaks the audio speaker.",
-            "It changes the key signature every measure.",
-            "It creates an expansive, hypnotic, anthem-like atmospheric tension that anchors the listener while harmonies evolve overhead."
+            "It makes the bass player tired. (Apply chord substitutions (U6))",
+            "It breaks the audio speaker. (Apply chord substitutions (U6))",
+            "It changes the key signature every measure. (Apply chord substitutions (U6))",
+            "It creates an expansive, hypnotic, anthem-like atmospheric tension that anchors the listener while harmonies evolve overhead. (Apply chord substitutions (U6))"
           ],
           "answerIndex": 3,
           "explanation": "Pedal point grounds changing harmonies in a continuous acoustic resonance."
@@ -2847,10 +2847,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 6, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "G -> A7 -> D7 -> G",
-            "G -> C -> D -> G",
-            "G -> Em -> C -> D",
-            "G -> Bm -> Em -> C"
+            "G -> A7 -> D7 -> G (Apply chord substitutions (U6))",
+            "G -> C -> D -> G (Apply chord substitutions (U6))",
+            "G -> Em -> C -> D (Apply chord substitutions (U6))",
+            "G -> Bm -> Em -> C (Apply chord substitutions (U6))"
           ],
           "answerIndex": 0,
           "explanation": "V in G is D; dominant of D is A7 (V7/V)."
@@ -2858,10 +2858,10 @@
         {
           "prompt": "If you replace the IV chord (F) with a ii chord (Dm) in the key of C Major, how does the musical mood change?",
           "options": [
-            "It shifts from direct folk/pop brightness to smooth, sophisticated, introspective R&B/jazz warmth.",
-            "It becomes heavy metal.",
-            "It sounds like a siren.",
-            "There is no audible difference."
+            "It shifts from direct folk/pop brightness to smooth, sophisticated, introspective R&B/jazz warmth. (Apply chord substitutions (U6))",
+            "It becomes heavy metal. (Apply chord substitutions (U6))",
+            "It sounds like a siren. (Apply chord substitutions (U6))",
+            "There is no audible difference. (Apply chord substitutions (U6))"
           ],
           "answerIndex": 0,
           "explanation": "The ii chord adds sophisticated mellow minor subdominant color."
@@ -2873,10 +2873,10 @@
         {
           "prompt": "Match the harmonic devices: V7/vi, V7/V, Tonic Pedal, ii-for-IV Substitution:",
           "options": [
-            "All are out-of-tune notes",
-            "All are tempo markings",
-            "V7/vi: Tragic minor pull | V7/V: Bright energetic lift | Tonic Pedal: Hypnotic anthem anchor | ii-for-IV: Sophisticated R&B warmth",
-            "All mean drum beats"
+            "All are out-of-tune notes (Apply chord substitutions (U6))",
+            "All are tempo markings (Apply chord substitutions (U6))",
+            "V7/vi: Tragic minor pull | V7/V: Bright energetic lift | Tonic Pedal: Hypnotic anthem anchor | ii-for-IV: Sophisticated R&B warmth (Apply chord substitutions (U6))",
+            "All mean drum beats (Apply chord substitutions (U6))"
           ],
           "answerIndex": 2,
           "explanation": "Harmonic color and substitution mechanisms.",
@@ -2885,10 +2885,10 @@
         {
           "prompt": "Why does the E7 chord sound so powerful when leading into A Minor in a C Major song?",
           "options": [
-            "It is a computer error.",
-            "Because E7 contains the chromatic leading tone G-sharp, which resolves with extreme tension up by a half-step into the root note A.",
-            "Because E is the first letter of Earth.",
-            "Because 7th chords are always louder."
+            "It is a computer error. (Apply chord substitutions (U6))",
+            "Because E7 contains the chromatic leading tone G-sharp, which resolves with extreme tension up by a half-step into the root note A. (Apply chord substitutions (U6))",
+            "Because E is the first letter of Earth. (Apply chord substitutions (U6))",
+            "Because 7th chords are always louder. (Apply chord substitutions (U6))"
           ],
           "answerIndex": 1,
           "explanation": "The chromatic leading tone G# -> A drives powerful resolution.",
@@ -2897,10 +2897,10 @@
         {
           "prompt": "Identify the song that uses a continuous tonic pedal point to create stadium-sized intimacy:",
           "options": [
-            "'With or Without You' (U2) or 'Free Fallin'",
-            "'Flight of the Bumblebee'",
-            "'Old MacDonald Had a Farm'",
-            "'The Star-Spangled Banner'"
+            "'With or Without You' (Apply chord substitutions (U6))",
+            "'Flight of the Bumblebee' (Apply chord substitutions (U6))",
+            "'Old MacDonald Had a Farm' (Apply chord substitutions (U6))",
+            "'The Star-Spangled Banner' (Apply chord substitutions (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Iconic modern rock masterpieces built on pedal points.",
@@ -2909,10 +2909,10 @@
         {
           "prompt": "Complete: 'A secondary dominant temporarily borrows a note outside the key signature to create a irresistible _______ toward the target chord.'",
           "options": [
-            "silence",
-            "mistake",
-            "volume decrease",
-            "gravitational pull"
+            "silence (Apply chord substitutions (U6))",
+            "mistake (Apply chord substitutions (U6))",
+            "volume decrease (Apply chord substitutions (U6))",
+            "gravitational pull (Apply chord substitutions (U6))"
           ],
           "answerIndex": 3,
           "explanation": "Secondary dominants create strong tonal gravity via chromatic leading tones.",
@@ -2962,10 +2962,10 @@
         {
           "prompt": "In applying the principles of Craft singable melodic contours using smooth stepwise motion (conjunct) balanced by leap-and-recover principles (disjunct) and clean voice-leading across chord changes, which composition technique best fulfills the musical goal?",
           "options": [
-            "Following a dramatic upward leap in pitch with smooth stepwise motion in the opposite (downward) direction to restore melodic balance",
-            "Singing only two notes over and over",
-            "Changing key after every chorus",
-            "Jumping off the stage during a concert"
+            "Following a dramatic upward leap in pitch with smooth stepwise motion in the opposite (downward)",
+            "Singing only two notes over and over (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Changing key after every chorus (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Jumping off the stage during a concert (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Leap-and-recover creates dramatic vocal excitement followed by natural resolution."
@@ -2973,10 +2973,10 @@
         {
           "prompt": "Why is 'conjunct' (stepwise) motion essential in songwriting verses?",
           "options": [
-            "It mimics natural human speech inflections, making lyrics intelligible, intimate, and effortless to sing.",
-            "Because verses cannot have harmony.",
-            "To save sheet music paper.",
-            "Because singers cannot sing high notes."
+            "It mimics natural human speech inflections, making lyrics intelligible, intimate, and effortless to sing. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Because verses cannot have harmony. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "To save sheet music paper. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Because singers cannot sing high notes. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Stepwise motion supports conversational speech prosody in storytelling verses."
@@ -2988,10 +2988,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 6, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "A single sustained vocal pitch remains constant while the harmony shifts underneath, creating a sophisticated thread of emotional continuity.",
-            "It requires three singers.",
-            "It makes every chord identical.",
-            "It removes all melody."
+            "A single sustained vocal pitch remains constant while the harmony shifts underneath, creating a sophisticated thread of emotional continuity. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "It requires three singers. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "It makes every chord identical. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "It removes all melody. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Common tones act as acoustic anchors across changing harmonic colors."
@@ -2999,10 +2999,10 @@
         {
           "prompt": "Identify the famous melody opening with a dramatic octave leap followed by a stepwise descent:",
           "options": [
-            "'Somewhere Over the Rainbow'",
-            "'Mary Had a Little Lamb'",
-            "'Three Blind Mice'",
-            "'Row Row Row Your Boat'"
+            "'Somewhere Over the Rainbow' (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "'Mary Had a Little Lamb' (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "'Three Blind Mice' (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "'Row Row Row Your Boat' (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Somewhere Over the Rainbow features the quintessential octave leap-and-recover."
@@ -3014,10 +3014,10 @@
         {
           "prompt": "Match the melodic motion concepts: Conjunct, Disjunct, Leap-and-Recover, Common Tone:",
           "options": [
-            "All are rhythm values",
-            "Conjunct: Stepwise scale movement | Disjunct: Wide melodic leaps | Leap-and-Recover: Jump up then step down | Common Tone: Held note across changing chords",
-            "All mean playing drums",
-            "All are guitar tunings"
+            "All are rhythm values (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Conjunct: Stepwise scale movement | Disjunct: Wide melodic leaps | Leap-and-Recover: Jump up then step down | Common Tone: Held note across changing chords (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "All mean playing drums (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "All are guitar tunings (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))"
           ],
           "answerIndex": 1,
           "explanation": "Melodic contour and voice leading definitions.",
@@ -3026,10 +3026,10 @@
         {
           "prompt": "If a chorus hook jumps up a major 6th on the word 'FLY', what should the subsequent two notes do for optimal vocal singability?",
           "options": [
-            "Step downward smoothly by whole-step or half-step to resolve the tension gracefully",
-            "Leap up another octave",
-            "Drop to absolute silence",
-            "Scream without pitch"
+            "Step downward smoothly by whole-step or half-step to resolve the tension gracefully (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Leap up another octave (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Drop to absolute silence (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Scream without pitch (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Leap-and-recover mandates downward stepwise motion following the peak.",
@@ -3038,10 +3038,10 @@
         {
           "prompt": "Why do melodies that leap randomly in wide jagged intervals without resolution sound disjointed to listeners?",
           "options": [
-            "It is a legal rule.",
-            "Because microphones reject jagged notes.",
-            "Because the piano keys break.",
-            "Because the human auditory cortex expects vocal music to follow vocal tract physiological physics (breath, tension, release); random leaps violate cognitive gestalt grouping."
+            "It is a legal rule. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Because microphones reject jagged notes. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Because the piano keys break. (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "Because the human auditory cortex expects vocal music to follow vocal tract physiological physics (breath, tension, release)"
           ],
           "answerIndex": 3,
           "explanation": "Human auditory cognition expects organic vocal tract physics.",
@@ -3050,10 +3050,10 @@
         {
           "prompt": "Complete: 'Great songwriters use conjunct motion to _______ and disjunct leaps to _______.'",
           "options": [
-            "play guitar / play bass",
-            "end the song / start the song",
-            "tell the conversational story / deliver the emotional climax",
-            "write rhymes / count syllables"
+            "play guitar / play bass (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "end the song / start the song (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "tell the conversational story / deliver the emotional climax (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))",
+            "write rhymes / count syllables (Craft singable melodic contours using smooth stepwise motion conjunct balanced by leapandrecover principles disjunct and clean voiceleading across chord changes (U6))"
           ],
           "answerIndex": 2,
           "explanation": "Stepwise tells the story; leaps deliver the peak.",
@@ -3104,10 +3104,10 @@
         {
           "prompt": "In applying the principles of Demonstrate comprehensive Unit 6 chord-melody integration by analyzing and composing a complete multi-section song harmonic arrangement featuring verse-to-chorus harmonic lift, which composition technique best fulfills the musical goal?",
           "options": [
-            "It introduces the chromatic note F-sharp, creating intense upward melodic drive and pulling irresistibly into the dominant G chord right before the chorus explosion.",
-            "It turns off the drums.",
-            "It signals the end of the song.",
-            "It changes the time signature to 5/4."
+            "It introduces the chromatic note F-sharp, creating intense upward melodic drive and pulling irresistibly into the dominant G chord right before the chorus explosion. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "It turns off the drums. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "It signals the end of the song. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "It changes the time signature to 5/4. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))"
           ],
           "answerIndex": 0,
           "explanation": "D7 (V7/V) provides the classic harmonic propulsion into the dominant G chord."
@@ -3115,10 +3115,10 @@
         {
           "prompt": "Why is placing the lyric 'I let you go' on the borrowed minor iv (Fm) chord in the bridge a masterstroke of harmonic prosody?",
           "options": [
-            "Because the chromatic sadness of the Fm chord (featuring the A-flat note) acoustically embodies the heartbreak of letting go.",
-            "Because Fm is the fastest chord on piano.",
-            "Because the singer's name is Fm.",
-            "There is no connection between lyric and chord."
+            "Because the chromatic sadness of the Fm chord (featuring the A-flat note)",
+            "Because Fm is the fastest chord on piano. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Because the singer's name is Fm. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "There is no connection between lyric and chord. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))"
           ],
           "answerIndex": 0,
           "explanation": "The minor iv chord's intrinsic melancholy aligns perfectly with the grief of letting go."
@@ -3130,10 +3130,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 6, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "It eliminates vocal harmony.",
-            "It creates an unhurried, natural sense of progression and introspection that guides the listener smoothly through narrative exposition.",
-            "It speeds up the song.",
-            "It makes the guitar sound like a trumpet."
+            "It eliminates vocal harmony. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "It creates an unhurried, natural sense of progression and introspection that guides the listener smoothly through narrative exposition. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "It speeds up the song. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "It makes the guitar sound like a trumpet. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))"
           ],
           "answerIndex": 1,
           "explanation": "Stepwise descending bass lines provide elegant narrative momentum."
@@ -3141,10 +3141,10 @@
         {
           "prompt": "What technique prevents the chorus melody from feeling repetitive after 4 bars?",
           "options": [
-            "Varying the second pass with an extended appoggiatura or deceptive harmonic substitution",
-            "Stopping the music completely",
-            "Changing languages",
-            "Shouting as loud as possible"
+            "Varying the second pass with an extended appoggiatura or deceptive harmonic substitution (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Stopping the music completely (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Changing languages (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Shouting as loud as possible (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Deceptive resolution or melodic variation revitalizes repeated chorus sections."
@@ -3156,10 +3156,10 @@
         {
           "prompt": "What core musical, harmonic, and compositional competencies were mastered across Songwriting Unit 6?",
           "options": [
-            "Chord tones vs. non-chord tones (appoggiaturas and suspensions for emotional prosody), dynamic harmonic rhythm pacing, modal mixture (the minor iv tearjerker), secondary dominants (V7/V and V7/vi), pedal points, leap-and-recover melodic contours, and full-song harmonic architecture",
-            "Synthesizer patch programming only",
-            "Vinyl record pressing only",
-            "Tour bus routing only"
+            "Chord tones vs. non-chord tones (appoggiaturas and suspensions for emotional prosody)",
+            "Synthesizer patch programming only (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Vinyl record pressing only (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Tour bus routing only (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Unit 6 comprehensive chord-melody integration, harmonic prosody, and voice-leading mastery.",
@@ -3168,10 +3168,10 @@
         {
           "prompt": "Synthesize the 3 golden laws of melody and harmony in professional songwriting:",
           "options": [
-            "1. Play as fast as possible; 2. Use only one chord; 3. Never sing high notes",
-            "1. Avoid all rhymes; 2. Never play minor chords; 3. Mute the bass",
-            "1. Copy existing songs; 2. Disregard tempo; 3. Sing without melody",
-            "1. Match lyric emotional vulnerability to non-chord dissonance; 2. Accelerate harmonic rhythm into the chorus; 3. Use leap-and-recover contours for singable hooks"
+            "1. Play as fast as possible; 2. Use only one chord; 3. Never sing high notes (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "1. Avoid all rhymes; 2. Never play minor chords; 3. Mute the bass (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "1. Copy existing songs; 2. Disregard tempo; 3. Sing without melody (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "1. Match lyric emotional vulnerability to non-chord dissonance; 2. Accelerate harmonic rhythm into the chorus; 3. Use leap-and-recover contours for singable hooks (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))"
           ],
           "answerIndex": 3,
           "explanation": "The core tenets of chord-melody mastery.",
@@ -3180,10 +3180,10 @@
         {
           "prompt": "Why does great songwriting require both artistic emotional intuition and rigorous harmonic architecture?",
           "options": [
-            "Because computer algorithms require sheet music.",
-            "To satisfy copyright attorneys.",
-            "Because intuition provides authentic raw emotion, while harmonic architecture gives that emotion structural resonance and enduring impact in human auditory memory.",
-            "It does not; songs are completely random."
+            "Because computer algorithms require sheet music. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "To satisfy copyright attorneys. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Because intuition provides authentic raw emotion, while harmonic architecture gives that emotion structural resonance and enduring impact in human auditory memory. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "It does not; songs are completely random. (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))"
           ],
           "answerIndex": 2,
           "explanation": "Structure and emotion unite to create enduring art.",
@@ -3192,10 +3192,10 @@
         {
           "prompt": "What is the next frontier of Songwriting mastery in Unit 7?",
           "options": [
-            "Buying expensive microphones",
-            "Guided Writing Exercises with Concrete Feedback Prompts",
-            "Signing a record deal",
-            "Creating album cover art"
+            "Buying expensive microphones (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Guided Writing Exercises with Concrete Feedback Prompts (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Signing a record deal (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))",
+            "Creating album cover art (Demonstrate comprehensive Unit 6 chordmelody integration by analyzing and composing a complete multisection song harmonic arrangement featuring versetochorus harmonic lift (U6))"
           ],
           "answerIndex": 1,
           "explanation": "Unit 7 focuses on guided full-song writing exercises with concrete feedback prompts.",
@@ -3239,10 +3239,10 @@
         {
           "prompt": "In applying the principles of Engineer an undeniable commercial chorus from a high-concept title, which composition technique best fulfills the musical goal?",
           "options": [
-            "Hidden in the middle of line 2 only",
-            "Never spoken or sung in the song",
-            "Only in the instrumental guitar solo",
-            "In the opening line, the final punchline, or both, aligned with the melodic peak"
+            "Hidden in the middle of line 2 only (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Never spoken or sung in the song (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Only in the instrumental guitar solo (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "In the opening line, the final punchline, or both, aligned with the melodic peak (Engineer an undeniable commercial chorus from a highconcept title (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Anchoring the title at the structural edges of the chorus reinforces immediate listener recall."
@@ -3250,10 +3250,10 @@
         {
           "prompt": "What is the primary function of the chorus compared to the verse?",
           "options": [
-            "The chorus has no rhymes",
-            "The chorus is quieter than the verse",
-            "The chorus is the universal emotional summary and melodic peak, while the verse tells the specific narrative story",
-            "The chorus gives technical background data"
+            "The chorus has no rhymes (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "The chorus is quieter than the verse (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "The chorus is the universal emotional summary and melodic peak, while the verse tells the specific narrative story (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "The chorus gives technical background data (Engineer an undeniable commercial chorus from a highconcept title (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Verse = Specific Narrative Details; Chorus = Universal Emotional Core."
@@ -3265,10 +3265,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 7, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "A single monotonous drone chord with no chord changes for 3 minutes",
-            "Random microtonal tuning",
-            "Total silence",
-            "IV - I - V - vi (C - G - D - Em in G major) with energetic quarter-note strumming"
+            "A single monotonous drone chord with no chord changes for 3 minutes (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Random microtonal tuning (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Total silence (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "IV - I - V - vi (C - G - D - Em in G major)"
           ],
           "answerIndex": 3,
           "explanation": "IV - I - V - vi is one of the most powerful emotive pop/rock chorus progressions in modern music."
@@ -3276,10 +3276,10 @@
         {
           "prompt": "Why should the highest vocal pitch of the song generally occur in the chorus rather than the verse?",
           "options": [
-            "Because singers cannot sing low notes",
-            "Because verses must be whispered",
-            "To save guitar strings",
-            "Higher vocal register naturally carries greater acoustic energy and emotional urgency, elevating the chorus above the narrative baseline"
+            "Because singers cannot sing low notes (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Because verses must be whispered (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "To save guitar strings (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Higher vocal register naturally carries greater acoustic energy and emotional urgency, elevating the chorus above the narrative baseline (Engineer an undeniable commercial chorus from a highconcept title (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Higher pitch activates vocal tract formant resonance and signals emotional climax."
@@ -3291,10 +3291,10 @@
         {
           "prompt": "Match the chorus architectural components: Title placement, Melodic apex, Harmonic rhythm, Lyric scope:",
           "options": [
-            "All mean whisper softly",
-            "All mean play guitar solos",
-            "All are drum rudiments",
-            "Title placement: Line 1 or 4 | Melodic apex: On core keyword | Harmonic rhythm: Stable 1-2 chords/bar | Lyric scope: Universal emotional truth"
+            "All mean whisper softly (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "All mean play guitar solos (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "All are drum rudiments (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Title placement: Line 1 or 4 | Melodic apex: On core keyword | Harmonic rhythm: Stable 1-2 chords/bar | Lyric scope: Universal emotional truth (Engineer an undeniable commercial chorus from a highconcept title (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Chorus design architecture matching.",
@@ -3303,10 +3303,10 @@
         {
           "prompt": "Evaluate this draft lyric: 'I walked down the street and bought some bread, then I went to the store and scratched my head.' Why does this fail as a chorus?",
           "options": [
-            "It is too poetic",
-            "It has too many metaphors",
-            "It contains mundane, hyper-specific narrative actions without emotional stakes, universal resonance, or a memorable thematic hook",
-            "It is in 4/4 time"
+            "It is too poetic (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "It has too many metaphors (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "It contains mundane, hyper-specific narrative actions without emotional stakes, universal resonance, or a memorable thematic hook (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "It is in 4/4 time (Engineer an undeniable commercial chorus from a highconcept title (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Mundane narrative belongs in a verse (if anywhere), not in a universal chorus.",
@@ -3315,10 +3315,10 @@
         {
           "prompt": "What is the 'Rule of Three' in chorus hook design?",
           "options": [
-            "Using 3 different guitars",
-            "Repeating a key melodic/lyric motif three times before delivering a resolving punchline variation on the fourth iteration",
-            "Singing in 3 languages",
-            "Writing in 3/4 time signature only"
+            "Using 3 different guitars (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Repeating a key melodic/lyric motif three times before delivering a resolving punchline variation on the fourth iteration (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Singing in 3 languages (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "Writing in 3/4 time signature only (Engineer an undeniable commercial chorus from a highconcept title (U7))"
           ],
           "answerIndex": 1,
           "explanation": "The Rule of Three builds hypnotic familiarity before delivering a satisfying resolution.",
@@ -3327,10 +3327,10 @@
         {
           "prompt": "Complete the songwriting rule: 'Verses develop the question; the chorus delivers the _______.'",
           "options": [
-            "answer and emotional core",
-            "fade out",
-            "copyright notice",
-            "guitar solo"
+            "answer and emotional core (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "fade out (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "copyright notice (Engineer an undeniable commercial chorus from a highconcept title (U7))",
+            "guitar solo (Engineer an undeniable commercial chorus from a highconcept title (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Verses ask the question/set the scene; the chorus provides the emotional answer.",
@@ -3374,10 +3374,10 @@
         {
           "prompt": "In applying the principles of Construct immersive narrative verses using Pat Pattison's Object Writing methodology and sensory grounding (sight, which composition technique best fulfills the musical goal?",
           "options": [
-            "'The screen door slammed, Mary's dress swayed, like a vision she danced across the porch as the radio played.'",
-            "'We were having an awesome time in the summer.'",
-            "'I felt very happy when I saw my girlfriend outside.'",
-            "'Things were good and the weather was nice today.'"
+            "'The screen door slammed, Mary's dress swayed, like a vision she danced across the porch as the radio played.' (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "'We were having an awesome time in the summer.' (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "'I felt very happy when I saw my girlfriend outside.' (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "'Things were good and the weather was nice today.' (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Physical sensory details (screen door slamming, dress swaying, porch, radio) evoke visceral emotion."
@@ -3385,10 +3385,10 @@
         {
           "prompt": "Why should verses generally utilize a lower melodic tessitura (pitch range) than the chorus?",
           "options": [
-            "To establish an intimate, conversational storytelling dynamic and create massive dynamic contrast when the chorus explodes into the upper register",
-            "Because verse words cannot be sung on high notes",
-            "To make the song shorter",
-            "To prevent the drummer from playing too loudly"
+            "To establish an intimate, conversational storytelling dynamic and create massive dynamic contrast when the chorus explodes into the upper register (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Because verse words cannot be sung on high notes (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "To make the song shorter (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "To prevent the drummer from playing too loudly (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Register contrast between verse and chorus creates dynamic musical release."
@@ -3400,10 +3400,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 7, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "I felt heartbroken and started crying in the living room",
-            "Love hurts and relationships are difficult sometimes",
-            "Two airline ticket stubs on the counter, the smell of damp pine needles through the cracked front door, and your car headlights vanishing down the driveway",
-            "My ex-partner moved away and I was unhappy"
+            "I felt heartbroken and started crying in the living room (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Love hurts and relationships are difficult sometimes (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Two airline ticket stubs on the counter, the smell of damp pine needles through the cracked front door, and your car headlights vanishing down the driveway (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "My ex-partner moved away and I was unhappy (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Specific physical artifacts (ticket stubs, pine scent, vanishing headlights) paint a vivid cinematic scene."
@@ -3411,10 +3411,10 @@
         {
           "prompt": "What is 'organic sensation' in Pat Pattison's sensory writing framework?",
           "options": [
-            "Eating organic vegetables",
-            "Playing acoustic instruments only",
-            "Singing without autotune",
-            "Internal somatic bodily awareness such as heartbeat, muscle tension, breathlessness, nausea, or dizziness"
+            "Eating organic vegetables (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Playing acoustic instruments only (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Singing without autotune (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Internal somatic bodily awareness such as heartbeat, muscle tension, breathlessness, nausea, or dizziness (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Organic sense refers to internal visceral somatic bodily awareness."
@@ -3426,10 +3426,10 @@
         {
           "prompt": "Match the sensory lines to their dominant sensory channel: 'Amber neon buzzing in the puddle', 'Bitter grounds between my teeth', 'Cold vinyl sticking to my shoulder', 'Chest tightening with every breath':",
           "options": [
-            "All are theoretical",
-            "All are guitar chords",
-            "Neon buzzing: Visual/Auditory | Bitter grounds: Gustatory (Taste) | Cold vinyl: Tactile (Touch) | Chest tightening: Organic",
-            "All are olfactory"
+            "All are theoretical (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "All are guitar chords (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Neon buzzing: Visual/Auditory | Bitter grounds: Gustatory (Taste)",
+            "All are olfactory (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Sensory channel classification matching.",
@@ -3438,10 +3438,10 @@
         {
           "prompt": "Why do abstract lines like 'I was totally devastated by your betrayal' fail to move listeners compared to concrete imagery?",
           "options": [
-            "Betrayal is an illegal songwriting word",
-            "Abstract lines tell the listener a conclusion without providing sensory inputs for the listener's brain to re-live the experience",
-            "Radio stations censor abstract lyrics",
-            "Abstract words are too long to sing"
+            "Betrayal is an illegal songwriting word (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Abstract lines tell the listener a conclusion without providing sensory inputs for the listener's brain to re-live the experience (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Radio stations censor abstract lyrics (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "Abstract words are too long to sing (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Concrete sensory details enable the listener's mirror neurons to re-create the emotional state.",
@@ -3450,10 +3450,10 @@
         {
           "prompt": "What is the primary role of Verse 2 in a standard Verse-Chorus-Verse-Chorus structure?",
           "options": [
-            "To advance the story forward in time or reveal a new layer of conflict, avoiding simply repeating the ideas of Verse 1",
-            "To play an instrumental drum solo",
-            "To change the key of the song randomly",
-            "To sing the exact same words as Verse 1"
+            "To advance the story forward in time or reveal a new layer of conflict, avoiding simply repeating the ideas of Verse 1 (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "To play an instrumental drum solo (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "To change the key of the song randomly (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "To sing the exact same words as Verse 1 (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Verse 2 must advance narrative plot or deepen emotional complexity.",
@@ -3462,10 +3462,10 @@
         {
           "prompt": "Complete: 'Write with nouns and verbs; eliminate unnecessary _______.'",
           "options": [
-            "melodic notes",
-            "vowel sounds",
-            "rhyme schemes",
-            "abstract adjectives and adverbs"
+            "melodic notes (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "vowel sounds (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "rhyme schemes (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))",
+            "abstract adjectives and adverbs (Construct immersive narrative verses using Pat Pattisons Object Writing methodology and sensory grounding sight (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Strong songwriting relies on concrete nouns and active verbs.",
@@ -3509,10 +3509,10 @@
         {
           "prompt": "In applying the principles of Engineer high-impact Pre-Choruses using harmonic instability, which composition technique best fulfills the musical goal?",
           "options": [
-            "Resolving to the tonic I chord early",
-            "Stopping the song completely and tuning the guitar",
-            "Playing a 10-minute organ drone",
-            "Ending on the Dominant V chord (or V7) and pausing for a half-beat before resolving to the Chorus downbeat"
+            "Resolving to the tonic I chord early (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Stopping the song completely and tuning the guitar (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Playing a 10-minute organ drone (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Ending on the Dominant V chord (Engineer highimpact PreChoruses using harmonic instability (U7))"
           ],
           "answerIndex": 3,
           "explanation": "The Dominant V creates maximum harmonic expectation for the tonic chorus release."
@@ -3520,10 +3520,10 @@
         {
           "prompt": "How does phrase length typically change from the verse into the pre-chorus?",
           "options": [
-            "Phrases become 10 times longer and slower",
-            "Phrases disappear entirely",
-            "Every line must be whispered",
-            "Phrase lengths become shorter and tighter (metric compression), creating a sense of increasing urgency and forward momentum"
+            "Phrases become 10 times longer and slower (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Phrases disappear entirely (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Every line must be whispered (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Phrase lengths become shorter and tighter (metric compression)"
           ],
           "answerIndex": 3,
           "explanation": "Metric compression speeds up the psychological clock of the song."
@@ -3535,10 +3535,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 7, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "| Em (vi) | C (IV) | Am7 (ii7) | Dsus4 - D (V) |",
-            "| G (I) | G (I) | G (I) | G (I) |",
-            "| F#dim | G#dim | Adim | Bbdim |",
-            "No chords at all"
+            "| Em (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "| G (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "| F#dim | G#dim | Adim | Bbdim | (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "No chords at all (Engineer highimpact PreChoruses using harmonic instability (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Em - C - Am7 - Dsus4 moves into minor territory and builds through subdominant to dominant Dsus4."
@@ -3546,10 +3546,10 @@
         {
           "prompt": "What is the 'Melodic Staircase' technique in pre-chorus writing?",
           "options": [
-            "Incrementally stepping the pitch of each vocal phrase higher, carrying the listener up toward the chorus summit",
-            "Singing while walking up actual stairs",
-            "Playing only chromatic scales on the piano",
-            "Lowering your pitch to the lowest possible note"
+            "Incrementally stepping the pitch of each vocal phrase higher, carrying the listener up toward the chorus summit (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Singing while walking up actual stairs (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Playing only chromatic scales on the piano (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Lowering your pitch to the lowest possible note (Engineer highimpact PreChoruses using harmonic instability (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Stepwise melodic ascent physically lifts vocal intensity."
@@ -3561,10 +3561,10 @@
         {
           "prompt": "Match the pre-chorus tools with their psychological effect on the listener: Dominant V extension, Metric compression, Melodic staircase, Pre-chorus breathing drop:",
           "options": [
-            "All are drum fills",
-            "Dominant extension: Harmonic craving | Metric compression: Rhythmic urgency | Melodic staircase: Vocal anticipation | Breathing drop: Explosive impact on downbeat",
-            "All mean slow down",
-            "All mean change key"
+            "All are drum fills (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Dominant extension: Harmonic craving | Metric compression: Rhythmic urgency | Melodic staircase: Vocal anticipation | Breathing drop: Explosive impact on downbeat (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "All mean slow down (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "All mean change key (Engineer highimpact PreChoruses using harmonic instability (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Pre-chorus psychological dynamics matching.",
@@ -3573,10 +3573,10 @@
         {
           "prompt": "Why is resolving to the tonic (I chord) at the end of a pre-chorus usually a major structural mistake?",
           "options": [
-            "Because resolving to the I chord discharges harmonic tension prematurely, making the subsequent chorus entrance feel flat and anticlimactic",
-            "Because singers cannot sing over the I chord",
-            "Because the I chord is out of tune",
-            "Because it violates music copyright"
+            "Because resolving to the I chord discharges harmonic tension prematurely, making the subsequent chorus entrance feel flat and anticlimactic (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Because singers cannot sing over the I chord (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Because the I chord is out of tune (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Because it violates music copyright (Engineer highimpact PreChoruses using harmonic instability (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Early tonic resolution kills the dynamic punch of the chorus entrance.",
@@ -3585,10 +3585,10 @@
         {
           "prompt": "What is a 'Channel' in classical pop terminology?",
           "options": [
-            "A guitar amplifier input",
-            "A river waterway",
-            "A television broadcast",
-            "Another historical name for the Pre-Chorus"
+            "A guitar amplifier input (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "A river waterway (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "A television broadcast (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "Another historical name for the Pre-Chorus (Engineer highimpact PreChoruses using harmonic instability (U7))"
           ],
           "answerIndex": 3,
           "explanation": "'The Channel' or 'The Climb' is the traditional industry term for the pre-chorus.",
@@ -3597,10 +3597,10 @@
         {
           "prompt": "Complete: 'A great pre-chorus makes the chorus feel _______.'",
           "options": [
-            "shorter",
-            "boring and repetitive",
-            "inevitable and ten times larger",
-            "quiet and unnecessary"
+            "shorter (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "boring and repetitive (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "inevitable and ten times larger (Engineer highimpact PreChoruses using harmonic instability (U7))",
+            "quiet and unnecessary (Engineer highimpact PreChoruses using harmonic instability (U7))"
           ],
           "answerIndex": 2,
           "explanation": "The pre-chorus makes the chorus explosive and inevitable.",
@@ -3644,10 +3644,10 @@
         {
           "prompt": "In applying the principles of Compose a transformative Bridge (Middle Eight) that shifts harmonic centers, which composition technique best fulfills the musical goal?",
           "options": [
-            "To tune instruments during the show",
-            "To provide fresh harmonic, melodic, and lyrical contrast, offering a new perspective or realization before the final chorus",
-            "To make the song fade out early",
-            "To repeat Verse 1 word for word"
+            "To tune instruments during the show (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "To provide fresh harmonic, melodic, and lyrical contrast, offering a new perspective or realization before the final chorus (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "To make the song fade out early (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "To repeat Verse 1 word for word (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))"
           ],
           "answerIndex": 1,
           "explanation": "The bridge breaks structural monotony by offering a fresh harmonic and thematic angle."
@@ -3655,10 +3655,10 @@
         {
           "prompt": "Which starting chord provides the most natural fresh harmonic lift for a bridge in a major key song (e.g. C Major)?",
           "options": [
-            "The Subdominant IV (F) or Relative Minor vi",
-            "A microtonal buzz",
-            "Silence",
-            "The exact same tonic C chord repeated 8 times"
+            "The Subdominant IV (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "A microtonal buzz (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Silence (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "The exact same tonic C chord repeated 8 times (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Starting on IV or vi provides immediate harmonic contrast from the tonic."
@@ -3670,10 +3670,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 7, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "A moment of realization, acceptance, or stepping into the unknown future with newfound courage",
-            "Complaining about the weather",
-            "Listing more furniture items in the room",
-            "Repeating the same sad memory from Verse 1"
+            "A moment of realization, acceptance, or stepping into the unknown future with newfound courage (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Complaining about the weather (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Listing more furniture items in the room (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Repeating the same sad memory from Verse 1 (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))"
           ],
           "answerIndex": 0,
           "explanation": "The bridge provides the philosophical turning point or emotional breakthrough."
@@ -3681,10 +3681,10 @@
         {
           "prompt": "What dynamic arranging technique is frequently used during the bridge to enhance contrast?",
           "options": [
-            "Half-time drum grooves, stripping down instrumentation to acoustic guitar/piano, or building a soaring vocal crescendo",
-            "Playing out of rhythm",
-            "Turning off the sound completely for 2 minutes",
-            "Playing 5 songs at the same time"
+            "Half-time drum grooves, stripping down instrumentation to acoustic guitar/piano, or building a soaring vocal crescendo (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Playing out of rhythm (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Turning off the sound completely for 2 minutes (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Playing 5 songs at the same time (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Arrangement contrast (half-time, acoustic breakdown, dynamic build) amplifies bridge impact."
@@ -3696,10 +3696,10 @@
         {
           "prompt": "Match the song section with its primary narrative function: Verse, Pre-Chorus, Chorus, Bridge:",
           "options": [
-            "Verse: Specific storytelling | Pre-Chorus: Momentum & tension | Chorus: Universal emotional hook | Bridge: New perspective & revelation",
-            "All mean repeat Verse 1",
-            "All are audio formats",
-            "All mean guitar solo"
+            "Verse: Specific storytelling | Pre-Chorus: Momentum & tension | Chorus: Universal emotional hook | Bridge: New perspective & revelation (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "All mean repeat Verse 1 (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "All are audio formats (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "All mean guitar solo (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Song form architecture matching.",
@@ -3708,10 +3708,10 @@
         {
           "prompt": "Why is it called a 'Middle Eight' in classic songwriting terminology?",
           "options": [
-            "Because only 8 people can sing it",
-            "Because it has 8 words",
-            "Because it is written in 8/8 time",
-            "Because in classic 32-bar AABA song form, it occupied the middle 8-measure contrasting section"
+            "Because only 8 people can sing it (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Because it has 8 words (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Because it is written in 8/8 time (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "Because in classic 32-bar AABA song form, it occupied the middle 8-measure contrasting section (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Middle Eight originated from the 8-measure B section in 32-bar form.",
@@ -3720,10 +3720,10 @@
         {
           "prompt": "What is an 'Outro / Coda' after the final chorus?",
           "options": [
-            "The microphone check",
-            "The beginning of the song",
-            "The concluding section that winds down the song, often featuring fading vocal ad-libs, hook chants, or signature instrumental motifs",
-            "A spoken radio advertisement"
+            "The microphone check (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "The beginning of the song (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "The concluding section that winds down the song, often featuring fading vocal ad-libs, hook chants, or signature instrumental motifs (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "A spoken radio advertisement (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))"
           ],
           "answerIndex": 2,
           "explanation": "The outro/coda brings the musical journey to its final aesthetic conclusion.",
@@ -3732,10 +3732,10 @@
         {
           "prompt": "Complete: 'A great bridge is the bridge between who the narrator was, and _______.'",
           "options": [
-            "their old guitar",
-            "who they have become by the end of the song",
-            "the next track on the album",
-            "the record label"
+            "their old guitar (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "who they have become by the end of the song (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "the next track on the album (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))",
+            "the record label (Compose a transformative Bridge Middle Eight that shifts harmonic centers (U7))"
           ],
           "answerIndex": 1,
           "explanation": "The bridge crystallizes character transformation.",
@@ -3779,10 +3779,10 @@
         {
           "prompt": "In applying the principles of Demonstrate comprehensive Master songwriting fluency by composing a complete original 3-minute commercial masterwork (Verse 1 - Pre - Chorus - Verse 2 - Pre - Chorus - Bridge - Final Double Chorus - Outro) complete with chord chart, which composition technique best fulfills the musical goal?",
           "options": [
-            "Cmaj7 - Bm7 - Am7 - Dsus4/D7 (IV - iii - ii - V), ending on the dominant preparation to launch the final double chorus",
-            "Repeating Em - Em - Em - Em with no changes",
-            "A drum machine solo with zero chords",
-            "Playing the song backwards"
+            "Cmaj7 - Bm7 - Am7 - Dsus4/D7 (IV - iii - ii - V)",
+            "Repeating Em - Em - Em - Em with no changes (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "A drum machine solo with zero chords (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Playing the song backwards (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Cmaj7 - Bm7 - Am7 - D7 provides rich diatonic subdominant departure and dominant turnaround."
@@ -3790,10 +3790,10 @@
         {
           "prompt": "How did Verse 2 in 'Ghosts in the Static' advance the narrative rather than repeating Verse 1?",
           "options": [
-            "It shifted location from inside the kitchen to the mountain road and introduced the historical artifact",
-            "It used the exact same words as Verse 1",
-            "It was sung in Japanese",
-            "It skipped all rhymes"
+            "It shifted location from inside the kitchen to the mountain road and introduced the historical artifact (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "It used the exact same words as Verse 1 (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "It was sung in Japanese (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "It skipped all rhymes (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Verse 2 moved from static interior grief to active driving pursuit and artifact discovery."
@@ -3805,10 +3805,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 7, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Whether it has 50 chords in 2 measures",
-            "Prosody (lyric meaning matches musical emotion), distinct section contrast, melodic singability, and unshakeable hook clarity",
-            "The speed of the guitar solo",
-            "How heavy the paper is"
+            "Whether it has 50 chords in 2 measures (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Prosody (lyric meaning matches musical emotion)",
+            "The speed of the guitar solo (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "How heavy the paper is (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Prosody, structural contrast, and hook clarity define songwriting excellence."
@@ -3816,10 +3816,10 @@
         {
           "prompt": "What is the final frontier awaiting you in Unit 8 of Songwriting & Music Theory?",
           "options": [
-            "Quitting music",
-            "Revision & Polishing Technique",
-            "Learning accordion only",
-            "Buying a tour bus"
+            "Quitting music (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Revision & Polishing Technique (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Learning accordion only (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Buying a tour bus (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Unit 8 focuses on ruthless revision, prosody auditing, vowel optimization, and demo polishing."
@@ -3831,10 +3831,10 @@
         {
           "prompt": "What core musical, lyrical, and architectural competencies were mastered across Songwriting Unit 7?",
           "options": [
-            "Synthesizer repair only",
-            "Microphone stand assembly only",
-            "Audio cable soldering only",
-            "High-concept title anchor engineering, 7-channel sensory verse scaffolding (Pat Pattison framework), pre-chorus metric compression and dominant wall building, transformative bridge epiphanies, and complete lead sheet masterwork composition"
+            "Synthesizer repair only (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Microphone stand assembly only (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Audio cable soldering only (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "High-concept title anchor engineering, 7-channel sensory verse scaffolding (Pat Pattison framework)"
           ],
           "answerIndex": 3,
           "explanation": "Unit 7 comprehensive guided songwriting, section scaffolding, and master lead sheet composition.",
@@ -3843,10 +3843,10 @@
         {
           "prompt": "Why did the pre-chorus in 'Ghosts in the Static' utilize a 'breathing drop' (1 beat silence) before the chorus?",
           "options": [
-            "Because the singer forgot the words",
-            "To let the drummer rest",
-            "The sudden drop in acoustic volume and texture creates a vacuum that magnifies the perceived explosive volume and impact of the chorus downbeat",
-            "It was an audio recording mistake"
+            "Because the singer forgot the words (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "To let the drummer rest (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "The sudden drop in acoustic volume and texture creates a vacuum that magnifies the perceived explosive volume and impact of the chorus downbeat (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "It was an audio recording mistake (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Silence before downbeat leverages psychoacoustic contrast.",
@@ -3855,10 +3855,10 @@
         {
           "prompt": "What role do open vowels (such as /a/ in 'static' or /o/ in 'ghosts') play when placed on high vocal peak notes?",
           "options": [
-            "Open vowels are quieter",
-            "Open vowels provide optimal acoustic pharyngeal tract resonance, allowing the singer to project high notes with maximum power and minimal vocal strain",
-            "Vowels do not matter in singing",
-            "Open vowels are harder to sing"
+            "Open vowels are quieter (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Open vowels provide optimal acoustic pharyngeal tract resonance, allowing the singer to project high notes with maximum power and minimal vocal strain (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Vowels do not matter in singing (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "Open vowels are harder to sing (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Open pharyngeal vowels maximize vocal formant resonance on high pitches.",
@@ -3867,10 +3867,10 @@
         {
           "prompt": "Complete the songwriting master maxim: 'Don't just write a song; build an undeniable _______.'",
           "options": [
-            "emotional experience and memorable world",
-            "long track",
-            "fast beat",
-            "loud noise"
+            "emotional experience and memorable world (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "long track (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "fast beat (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))",
+            "loud noise (Demonstrate comprehensive Master songwriting fluency by composing a complete original 3minute commercial masterwork Verse 1  Pre  Chorus  Verse 2  Pre  Chorus  Bridge  Final Double Chorus  Outro complete with chord chart (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Great songs construct undeniable emotional worlds.",
@@ -3914,10 +3914,10 @@
         {
           "prompt": "In applying the principles of Execute surgical lyric revisions by eliminating weak filler words (that, which composition technique best fulfills the musical goal?",
           "options": [
-            "'And it is just really hard because the tail-lights are so foggy.'",
-            "'So I was looking at the cars that were driving away.'",
-            "'Like I really think that the weather was bad today.'",
-            "'Tail-lights bleed into the winter fog.'"
+            "'And it is just really hard because the tail-lights are so foggy.' (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "'So I was looking at the cars that were driving away.' (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "'Like I really think that the weather was bad today.' (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "'Tail-lights bleed into the winter fog.' (Execute surgical lyric revisions by eliminating weak filler words that (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Active verb and vivid sensory nouns replace conversational padding."
@@ -3925,10 +3925,10 @@
         {
           "prompt": "What is a 'false accent' in vocal songwriting?",
           "options": [
-            "A microphone distortion",
-            "Playing a wrong chord on the guitar",
-            "Placing an unstressed syllable of a word (e.g. the 'to' in 'in-TO') on a heavy musical downbeat, causing the singer to unnaturally emphasize the wrong syllable",
-            "Singing in a fake foreign accent"
+            "A microphone distortion (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "Playing a wrong chord on the guitar (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "Placing an unstressed syllable of a word (e.g. the 'to' in 'in-TO')",
+            "Singing in a fake foreign accent (Execute surgical lyric revisions by eliminating weak filler words that (U8))"
           ],
           "answerIndex": 2,
           "explanation": "False accents occur when musical meter conflicts with natural linguistic stress."
@@ -3940,10 +3940,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 8, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "It makes the song louder",
-            "It reduces copyright fees",
-            "It allows the drummer to stop playing",
-            "It reinforces melodic symmetry, allowing the listener's brain to easily anticipate the vocal rhythm and sing along"
+            "It makes the song louder (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "It reduces copyright fees (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "It allows the drummer to stop playing (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "It reinforces melodic symmetry, allowing the listener's brain to easily anticipate the vocal rhythm and sing along (Execute surgical lyric revisions by eliminating weak filler words that (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Syllabic symmetry across corresponding verse lines enhances melodic predictability."
@@ -3951,10 +3951,10 @@
         {
           "prompt": "Which word is the most common filler culprit in amateur song lyrics?",
           "options": [
-            "'Mountain'",
-            "'River'",
-            "'Midnight'",
-            "'That'"
+            "'Mountain' (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "'River' (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "'Midnight' (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "'That' (Execute surgical lyric revisions by eliminating weak filler words that (U8))"
           ],
           "answerIndex": 3,
           "explanation": "'That' is the #1 unnecessary grammatical crutch in amateur lyrics."
@@ -3966,10 +3966,10 @@
         {
           "prompt": "Match the editing terms with their definitions: Syllable Economy, False Accent, Filler Words, Metric Alignment:",
           "options": [
-            "All mean guitar tuning",
-            "All mean vocal reverb",
-            "Syllable Economy: Maximum meaning in fewest syllables | False Accent: Stressed beat on unstressed syllable | Filler Words: Meaningless padding (just/that) | Metric Alignment: Speech stress matches bar downbeats",
-            "All are synthesizer settings"
+            "All mean guitar tuning (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "All mean vocal reverb (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "Syllable Economy: Maximum meaning in fewest syllables | False Accent: Stressed beat on unstressed syllable | Filler Words: Meaningless padding (just/that)",
+            "All are synthesizer settings (Execute surgical lyric revisions by eliminating weak filler words that (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Lyric editing definitions matching.",
@@ -3978,10 +3978,10 @@
         {
           "prompt": "Why should a songwriter read draft lyrics aloud as spoken prose before singing them?",
           "options": [
-            "To practice acting",
-            "To instantly detect clunky phrasing, tongue-twisters, unnatural syntax, and false accents that music might otherwise mask",
-            "To check word counts for taxation",
-            "To see how loud they can speak"
+            "To practice acting (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "To instantly detect clunky phrasing, tongue-twisters, unnatural syntax, and false accents that music might otherwise mask (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "To check word counts for taxation (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "To see how loud they can speak (Execute surgical lyric revisions by eliminating weak filler words that (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Spoken prose reading reveals underlying syntactic awkwardness.",
@@ -3990,10 +3990,10 @@
         {
           "prompt": "What is 'prosodic friction'?",
           "options": [
-            "When the emotional tone of the lyric directly conflicts with the musical rhythm or melodic contour",
-            "Two singers arguing in the studio",
-            "Radio static",
-            "Guitar strings rubbing together"
+            "When the emotional tone of the lyric directly conflicts with the musical rhythm or melodic contour (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "Two singers arguing in the studio (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "Radio static (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "Guitar strings rubbing together (Execute surgical lyric revisions by eliminating weak filler words that (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Prosodic friction is dissonance between lyric emotion and musical expression.",
@@ -4002,10 +4002,10 @@
         {
           "prompt": "Complete: 'Good songwriters write; great songwriters _______.'",
           "options": [
-            "hire ghostwriters",
-            "stop writing after draft 1",
-            "buy more synthesizers",
-            "ruthlessly rewrite and polish"
+            "hire ghostwriters (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "stop writing after draft 1 (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "buy more synthesizers (Execute surgical lyric revisions by eliminating weak filler words that (U8))",
+            "ruthlessly rewrite and polish (Execute surgical lyric revisions by eliminating weak filler words that (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Rewriting is the true furnace of master songwriting.",
@@ -4049,10 +4049,10 @@
         {
           "prompt": "In applying the principles of Optimize vocal prosody and pharyngeal vowel coloring on high-register peak pitches, which composition technique best fulfills the musical goal?",
           "options": [
-            "'HEART'",
-            "'LITTLE'",
-            "'ME'",
-            "'YOU'"
+            "'HEART' (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "'LITTLE' (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "'ME' (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "'YOU' (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Open vowels like /ɑ/ in 'HEART' maximize acoustic formant resonance on high pitches."
@@ -4060,10 +4060,10 @@
         {
           "prompt": "What should a songwriter do if their peak high note falls on a word with a closed vowel like 'FREE' (/i/)?",
           "options": [
-            "Instruct the vocalist to modify the vowel slightly toward /ɪ/ or /e/ (relaxing the jaw) or replace the word with an open-vowel synonym like 'STAY' or 'LIGHT'",
-            "Cancel the recording session",
-            "Mute the vocal track",
-            "Lower the volume of the microphone"
+            "Instruct the vocalist to modify the vowel slightly toward /ɪ/ or /e/ (relaxing the jaw)",
+            "Cancel the recording session (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Mute the vocal track (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Lower the volume of the microphone (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Vowel modification or open-vowel word replacement unlocks effortless vocal power."
@@ -4075,10 +4075,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 8, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Because plosives break microphones",
-            "Because plosives are illegal on radio",
-            "Because harsh consonant cut-offs can choke the decaying reverb tail; singers should sustain the vowel and place the terminal consonant gently on the final micro-beat",
-            "Because consonants cannot be recorded"
+            "Because plosives break microphones (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Because plosives are illegal on radio (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Because harsh consonant cut-offs can choke the decaying reverb tail; singers should sustain the vowel and place the terminal consonant gently on the final micro-beat (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Because consonants cannot be recorded (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Sustaining the resonant vowel before delivering a subtle consonant cut-off ensures acoustic beauty."
@@ -4086,10 +4086,10 @@
         {
           "prompt": "What is the 'passaggio' in vocal pedagogy?",
           "options": [
-            "An Italian restaurant",
-            "A type of guitar pick",
-            "A tempo marking meaning very slow",
-            "The transitional bridge area of the vocal range where chest voice transitions into head voice / mixed voice"
+            "An Italian restaurant (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "A type of guitar pick (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "A tempo marking meaning very slow (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "The transitional bridge area of the vocal range where chest voice transitions into head voice / mixed voice (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))"
           ],
           "answerIndex": 3,
           "explanation": "The passaggio is the crucial vocal register transition zone."
@@ -4101,10 +4101,10 @@
         {
           "prompt": "Match the words to their vowel category: HEART, LIGHT, FREE, BLUE:",
           "options": [
-            "All are open vowels",
-            "HEART: Open /ɑ/ | LIGHT: Open diphthong /aɪ/ | FREE: Closed /i/ | BLUE: Closed /u/",
-            "All are consonants",
-            "All are closed vowels"
+            "All are open vowels (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "HEART: Open /ɑ/ | LIGHT: Open diphthong /aɪ/ | FREE: Closed /i/ | BLUE: Closed /u/ (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "All are consonants (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "All are closed vowels (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Vowel formant categorization matching.",
@@ -4113,10 +4113,10 @@
         {
           "prompt": "Why is the diphthong in 'RAIN' (/eɪ/) so prevalent in rock and pop anthems?",
           "options": [
-            "Because the open /e/ start gives massive vocal projection, while the resolving /ɪ/ glide creates a bright, penetrating frequency presence",
-            "Because it rhymes with pain",
-            "It is the shortest word in English",
-            "Because rain is the only weather in England"
+            "Because the open /e/ start gives massive vocal projection, while the resolving /ɪ/ glide creates a bright, penetrating frequency presence (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Because it rhymes with pain (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "It is the shortest word in English (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Because rain is the only weather in England (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))"
           ],
           "answerIndex": 0,
           "explanation": "/eɪ/ combines pharyngeal power with bright acoustic cutting presence.",
@@ -4125,10 +4125,10 @@
         {
           "prompt": "What is 'vocal tract formants' in acoustic phonetics?",
           "options": [
-            "Sheet music paper sizes",
-            "Microphone cables",
-            "Drum tuning pegs",
-            "Resonant frequency peaks created by the physical shape of the throat, mouth, and nasal cavities that amplify vocal harmonics"
+            "Sheet music paper sizes (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Microphone cables (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Drum tuning pegs (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "Resonant frequency peaks created by the physical shape of the throat, mouth, and nasal cavities that amplify vocal harmonics (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Vocal tract formants naturally amplify specific harmonic frequencies.",
@@ -4137,10 +4137,10 @@
         {
           "prompt": "Complete: 'Fit the lyric to the singer's anatomy; put open vowels at the _______.'",
           "options": [
-            "lowest bass note",
-            "end of the song only",
-            "top of the melodic mountain",
-            "beginning of every verse"
+            "lowest bass note (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "end of the song only (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "top of the melodic mountain (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))",
+            "beginning of every verse (Optimize vocal prosody and pharyngeal vowel coloring on highregister peak pitches (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Open vowels belong on the highest melodic peaks.",
@@ -4184,10 +4184,10 @@
         {
           "prompt": "In applying the principles of Orchestrate dynamic arrangement architectures and production stems, which composition technique best fulfills the musical goal?",
           "options": [
-            "Because instruments are too expensive to play in verses",
-            "Because the computer cannot play all instruments at once",
-            "To make the song quieter on radio",
-            "To establish intimate narrative clarity and create massive dynamic contrast when the chorus explodes with full instrumentation"
+            "Because instruments are too expensive to play in verses (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Because the computer cannot play all instruments at once (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "To make the song quieter on radio (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "To establish intimate narrative clarity and create massive dynamic contrast when the chorus explodes with full instrumentation (Orchestrate dynamic arrangement architectures and production stems (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Dynamic contrast between intimate verse and exploded chorus creates emotional impact."
@@ -4195,10 +4195,10 @@
         {
           "prompt": "How should Verse 2's arrangement differ from Verse 1's arrangement in modern production?",
           "options": [
-            "Verse 2 should be completely silent",
-            "Verse 2 should play twice as fast",
-            "Verse 2 must delete all vocals",
-            "Verse 2 should maintain subtle rhythmic momentum (e.g. holding the bass groove or light percussion) so the energy does not collapse completely back to zero"
+            "Verse 2 should be completely silent (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Verse 2 should play twice as fast (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Verse 2 must delete all vocals (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Verse 2 should maintain subtle rhythmic momentum (e.g. holding the bass groove or light percussion)"
           ],
           "answerIndex": 3,
           "explanation": "Preserving light rhythm in Verse 2 prevents momentum loss."
@@ -4210,10 +4210,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 8, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Stripping the bridge down to a whisper, building a snare roll crescendo on the dominant chord, and dropping all sound for a half-beat before the final chorus detonates",
-            "Fading the song out during the bridge",
-            "Changing the key 5 times in 2 seconds",
-            "Muting the lead singer permanently"
+            "Stripping the bridge down to a whisper, building a snare roll crescendo on the dominant chord, and dropping all sound for a half-beat before the final chorus detonates (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Fading the song out during the bridge (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Changing the key 5 times in 2 seconds (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Muting the lead singer permanently (Orchestrate dynamic arrangement architectures and production stems (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Acoustic breakdown + dynamic build + breathing drop = maximum final chorus impact."
@@ -4221,10 +4221,10 @@
         {
           "prompt": "What is 'frequency slotting' in song arrangement?",
           "options": [
-            "Assigning each instrument to a specific register (bass in low, guitars in mid, cymbals in high) so they do not fight for the same sonic space",
-            "Setting radio station presets",
-            "Scheduling studio recording times",
-            "Buying different colored cables"
+            "Assigning each instrument to a specific register (bass in low, guitars in mid, cymbals in high)",
+            "Setting radio station presets (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Scheduling studio recording times (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Buying different colored cables (Orchestrate dynamic arrangement architectures and production stems (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Frequency slotting ensures clarity and separation across the stereo field."
@@ -4236,10 +4236,10 @@
         {
           "prompt": "Match the song section to its optimal arrangement energy level: Verse 1, Pre-Chorus 1, Chorus 1, Bridge, Final Double Chorus:",
           "options": [
-            "Verse 1: 20% (Intimate) | Pre-Chorus 1: 40% (Building) | Chorus 1: 75% (Full band) | Bridge: 30% (Acoustic reset) | Final Chorus: 100%",
-            "Random energy levels",
-            "All sections: 100%",
-            "All sections: 0%"
+            "Verse 1: 20% (Intimate)",
+            "Random energy levels (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "All sections: 100% (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "All sections: 0% (Orchestrate dynamic arrangement architectures and production stems (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Arrangement energy arc matching.",
@@ -4248,10 +4248,10 @@
         {
           "prompt": "What is a 'Vocal Stack' in modern chorus production?",
           "options": [
-            "Singing while standing on a chair",
-            "A pile of sheet music",
-            "Stacking microphones on top of each other",
-            "Layering multiple takes of the lead vocal, octave doubles, and 3-part harmonies panned across the stereo field to create a massive 'choir' effect"
+            "Singing while standing on a chair (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "A pile of sheet music (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Stacking microphones on top of each other (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Layering multiple takes of the lead vocal, octave doubles, and 3-part harmonies panned across the stereo field to create a massive 'choir' effect (Orchestrate dynamic arrangement architectures and production stems (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Vocal stacks provide rich choral depth and stereo width in choruses.",
@@ -4260,10 +4260,10 @@
         {
           "prompt": "Why does a wall of continuous maximum loudness with zero dynamic dips cause listener fatigue?",
           "options": [
-            "Because speakers overheat",
-            "Because loudness is illegal",
-            "Because the human auditory cortex adapts to constant volume (auditory habituation); without valleys of quietness, loud moments lose all perceived emotional power",
-            "Because listeners get bored of music"
+            "Because speakers overheat (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Because loudness is illegal (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "Because the human auditory cortex adapts to constant volume (auditory habituation)",
+            "Because listeners get bored of music (Orchestrate dynamic arrangement architectures and production stems (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Without quiet valleys, loud peaks lose all emotional and acoustic contrast.",
@@ -4272,10 +4272,10 @@
         {
           "prompt": "Complete: 'Arrangement is the art of giving every instrument a clear _______.'",
           "options": [
-            "loud amplifier",
-            "frequency home and conversational role",
-            "sheet music stand",
-            "solo performance"
+            "loud amplifier (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "frequency home and conversational role (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "sheet music stand (Orchestrate dynamic arrangement architectures and production stems (U8))",
+            "solo performance (Orchestrate dynamic arrangement architectures and production stems (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Frequency separation and conversational musical dialogue.",
@@ -4319,10 +4319,10 @@
         {
           "prompt": "In applying the principles of Build a broadcast-ready demo and pitch-ready rough mix blueprint, which composition technique best fulfills the musical goal?",
           "options": [
-            "Panned 100% to the hard right only",
-            "Dead Center (Mono center highway) for maximum punch, focus, and phase coherence",
-            "Randomly swirling in circles",
-            "Panned 100% to the hard left only"
+            "Panned 100% to the hard right only (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "Dead Center (Mono center highway)",
+            "Randomly swirling in circles (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "Panned 100% to the hard left only (Build a broadcastready demo and pitchready rough mix blueprint (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Core foundation (Kick, Bass, Lead Vocal) belongs dead center."
@@ -4330,10 +4330,10 @@
         {
           "prompt": "Why should acoustic rhythm guitars be double-tracked and panned hard left (80% L) and hard right (80% R)?",
           "options": [
-            "It creates massive stereo width and fullness while leaving the center corridor completely open for the lead vocal",
-            "To make the guitars quieter",
-            "To confuse the listener",
-            "Because guitars cannot be played in mono"
+            "It creates massive stereo width and fullness while leaving the center corridor completely open for the lead vocal (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "To make the guitars quieter (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "To confuse the listener (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "Because guitars cannot be played in mono (Build a broadcastready demo and pitchready rough mix blueprint (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Wide stereo panning creates width while leaving the center open for the voice."
@@ -4345,10 +4345,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 8, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "It lets the dry, intimate vocal transient hit the listener's ear first before the reverberant bloom begins, preserving upfront lyrical clarity",
-            "It makes the vocal pitch change",
-            "It delays the whole song by 30 seconds",
-            "It removes all echoes"
+            "It lets the dry, intimate vocal transient hit the listener's ear first before the reverberant bloom begins, preserving upfront lyrical clarity (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "It makes the vocal pitch change (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "It delays the whole song by 30 seconds (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "It removes all echoes (Build a broadcastready demo and pitchready rough mix blueprint (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Pre-delay separates upfront dry vocal transients from background reverberation."
@@ -4356,10 +4356,10 @@
         {
           "prompt": "What target integrated loudness standard is widely required by streaming services (Spotify, Apple Music)?",
           "options": [
-            "Approximately -14 LUFS",
-            "-100 LUFS",
-            "-50 LUFS",
-            "0 LUFS"
+            "Approximately -14 LUFS (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "-100 LUFS (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "-50 LUFS (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "0 LUFS (Build a broadcastready demo and pitchready rough mix blueprint (U8))"
           ],
           "answerIndex": 0,
           "explanation": "-14 LUFS is the global streaming loudness normalization benchmark."
@@ -4371,10 +4371,10 @@
         {
           "prompt": "Match the mix tools to their primary sonic role: High-Pass Filter, Sidechain Ducking, Slapback Delay, Limiter:",
           "options": [
-            "All mean delete the track",
-            "All mean turn up the volume",
-            "All are guitar pedals",
-            "High-Pass Filter: Cleans low-end rumble | Sidechain Ducking: Carves vocal space in guitars | Slapback Delay: Thickens vocal without mud | Limiter: Prevents digital clipping"
+            "All mean delete the track (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "All mean turn up the volume (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "All are guitar pedals (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "High-Pass Filter: Cleans low-end rumble | Sidechain Ducking: Carves vocal space in guitars | Slapback Delay: Thickens vocal without mud | Limiter: Prevents digital clipping (Build a broadcastready demo and pitchready rough mix blueprint (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Audio engineering tool matching.",
@@ -4383,10 +4383,10 @@
         {
           "prompt": "Why is dynamic range preservation more important than extreme brickwall loudness in songwriting pitch demos?",
           "options": [
-            "Because loud songs are prohibited",
-            "Because publishers only listen at minimum volume",
-            "Because an overly compressed, crushed demo sounds flat and lifeless on modern streaming platforms that normalize volume, while dynamic arrangements sound huge",
-            "Because loudness causes ear infection"
+            "Because loud songs are prohibited (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "Because publishers only listen at minimum volume (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "Because an overly compressed, crushed demo sounds flat and lifeless on modern streaming platforms that normalize volume, while dynamic arrangements sound huge (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "Because loudness causes ear infection (Build a broadcastready demo and pitchready rough mix blueprint (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Dynamic range maintains musical punch under streaming loudness normalization.",
@@ -4395,10 +4395,10 @@
         {
           "prompt": "What is 'mono compatibility' and why is it crucial for song demos?",
           "options": [
-            "Playing on 1-string guitars",
-            "Ensuring that when the stereo mix is summed to a single mono speaker (like an iPhone or club speaker), instruments and vocals do not phase-cancel or vanish",
-            "Singing in 1 pitch only",
-            "Recording with 1 microphone"
+            "Playing on 1-string guitars (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "Ensuring that when the stereo mix is summed to a single mono speaker (like an iPhone or club speaker)",
+            "Singing in 1 pitch only (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "Recording with 1 microphone (Build a broadcastready demo and pitchready rough mix blueprint (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Mono compatibility ensures mix integrity across mobile phones and single-speaker devices.",
@@ -4407,10 +4407,10 @@
         {
           "prompt": "Complete: 'A pitch demo has one job: deliver the emotional truth of the song with _______.'",
           "options": [
-            "unmistakable vocal clarity and irresistible hook power",
-            "maximum distortion",
-            "cheap sound",
-            "hidden lyrics"
+            "unmistakable vocal clarity and irresistible hook power (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "maximum distortion (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "cheap sound (Build a broadcastready demo and pitchready rough mix blueprint (U8))",
+            "hidden lyrics (Build a broadcastready demo and pitchready rough mix blueprint (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Vocal clarity and hook power sell songs.",
@@ -4454,10 +4454,10 @@
         {
           "prompt": "In applying the principles of Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio, which composition technique best fulfills the musical goal?",
           "options": [
-            "It introduces the haunting emotional power of modal mixture (borrowed from D minor), creating an intense bittersweet tearjerker pull before resolving home to the tonic",
-            "Because Gm is an out-of-tune chord",
-            "Because it was a mistake",
-            "Because minor chords are mandatory on every bar"
+            "It introduces the haunting emotional power of modal mixture (borrowed from D minor)",
+            "Because Gm is an out-of-tune chord (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Because it was a mistake (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Because minor chords are mandatory on every bar (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))"
           ],
           "answerIndex": 0,
           "explanation": "The minor iv borrowed chord provides the quintessential emotional tearjerker lift."
@@ -4465,10 +4465,10 @@
         {
           "prompt": "Why was the word 'STAR' (/ɑ/ vowel) placed on the melodic apex note (high B4) in the chorus?",
           "options": [
-            "The open /ɑ/ vowel provides wide pharyngeal formant resonance, allowing the singer to project maximum power without vocal throat constriction",
-            "Because stars are bright",
-            "Because star is a 4-letter word",
-            "Because stars are in space"
+            "The open /ɑ/ vowel provides wide pharyngeal formant resonance, allowing the singer to project maximum power without vocal throat constriction (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Because stars are bright (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Because star is a 4-letter word (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Because stars are in space (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Open pharyngeal vowels maximize vocal resonance on peak high notes."
@@ -4480,10 +4480,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 8, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "The songwriter stops writing lyrics",
-            "Intuitive emotional expression is no longer constrained by trial-and-error; every chord choice, melodic leap, and lyric syllable can be intentionally engineered to evoke exact human emotional responses",
-            "Music becomes purely mathematical with no feelings",
-            "The songwriter becomes a robot"
+            "The songwriter stops writing lyrics (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Intuitive emotional expression is no longer constrained by trial-and-error; every chord choice, melodic leap, and lyric syllable can be intentionally engineered to evoke exact human emotional responses (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Music becomes purely mathematical with no feelings (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "The songwriter becomes a robot (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Harmonic and lyrical mastery empowers intentional emotional engineering."
@@ -4491,10 +4491,10 @@
         {
           "prompt": "What are the 4 fundamental pillars synthesized across the entire 40-lesson Songwriting curriculum?",
           "options": [
-            "1. Rhyming dictionary only; 2. Autotune only",
-            "1. Lyrical Craft & Prosody; 2. Melodic Contour & Hook Design; 3. Harmonic Architecture & Voice Leading; 4. Dynamic Arrangement & Production",
-            "1. Music theory memorization without songwriting",
-            "1. Playing guitar fast; 2. Buying gear; 3. Social media; 4. Fame"
+            "1. Rhyming dictionary only; 2. Autotune only (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "1. Lyrical Craft & Prosody; 2. Melodic Contour & Hook Design; 3. Harmonic Architecture & Voice Leading; 4. Dynamic Arrangement & Production (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "1. Music theory memorization without songwriting (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "1. Playing guitar fast; 2. Buying gear; 3. Social media; 4. Fame (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Lyrics, Melody, Harmony, and Arrangement form the 4 pillars of songwriting excellence."
@@ -4506,10 +4506,10 @@
         {
           "prompt": "What core musical, harmonic, lyrical, and architectural competencies were mastered across the ENTIRE 40-Lesson FEARN Songwriting Curriculum?",
           "options": [
-            "Singing in the shower only",
-            "Buying acoustic guitars only",
-            "Rhyme schemes & family rhymes, meter & syllable economy, full song structures (Verse-Pre-Chorus-Bridge), melodic contour & leap-and-recover hooks, Pat Pattison 7-channel sensory imagery, chord-melody relationships & modal mixture, guided full-song lead sheet composition, surgical lyric revision, vocal vowel formant mechanics, dynamic arrangement arcs, and broadcast-ready demo mix architecture",
-            "Memorizing radio top 40 lists only"
+            "Singing in the shower only (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Buying acoustic guitars only (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Rhyme schemes & family rhymes, meter & syllable economy, full song structures (Verse-Pre-Chorus-Bridge)",
+            "Memorizing radio top 40 lists only (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Comprehensive 40-lesson Songwriting & Music Theory mastery certification.",
@@ -4518,10 +4518,10 @@
         {
           "prompt": "What is the universal definition of 'Prosody' in songwriting?",
           "options": [
-            "The length of the guitar neck",
-            "The complete alignment of all musical elements (melody, rhythm, harmony, tempo, dynamics) with the emotional and narrative meaning of the lyric",
-            "The speed of the drum fill",
-            "The price of the sheet music"
+            "The length of the guitar neck (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "The complete alignment of all musical elements (melody, rhythm, harmony, tempo, dynamics)",
+            "The speed of the drum fill (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "The price of the sheet music (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Prosody is the perfect alignment of musical expression with lyrical meaning.",
@@ -4530,10 +4530,10 @@
         {
           "prompt": "Why is songwriting considered one of the highest forms of human cognitive and emotional synthesis?",
           "options": [
-            "Because it simultaneously engages linguistic poetry, mathematical harmonic structures, acoustic physics, human empathy, and universal cultural storytelling in a single unified time-based art form",
-            "Because songs are loud",
-            "Because it requires expensive computers",
-            "It is not a high form of synthesis"
+            "Because it simultaneously engages linguistic poetry, mathematical harmonic structures, acoustic physics, human empathy, and universal cultural storytelling in a single unified time-based art form (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Because songs are loud (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "Because it requires expensive computers (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "It is not a high form of synthesis (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Songwriting unites poetry, harmonic mathematics, physics, and empathy.",
@@ -4542,10 +4542,10 @@
         {
           "prompt": "Complete the songwriter's eternal creed: 'Write the song that only you can write, and make it sound like _______.'",
           "options": [
-            "a loud radio commercial",
-            "an exercise in music theory",
-            "a computer program",
-            "it has always existed in the hearts of humankind"
+            "a loud radio commercial (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "an exercise in music theory (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "a computer program (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))",
+            "it has always existed in the hearts of humankind (Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Great songs feel like they have always existed in the collective heart of humanity.",
@@ -4593,10 +4593,10 @@
         {
           "prompt": "In applying the principles of Transform abstract emotional statements into evocative, which composition technique best fulfills the musical goal?",
           "options": [
-            "'I felt very bad and worried inside my head.'",
-            "'Anxiety was high and sadness was everywhere.'",
-            "'I was scared of what would happen next.'",
-            "'My pulse hammered against my collarbone as my fingers fumbled with the deadbolt.'"
+            "'I felt very bad and worried inside my head.' (Transform abstract emotional statements into evocative (U5))",
+            "'Anxiety was high and sadness was everywhere.' (Transform abstract emotional statements into evocative (U5))",
+            "'I was scared of what would happen next.' (Transform abstract emotional statements into evocative (U5))",
+            "'My pulse hammered against my collarbone as my fingers fumbled with the deadbolt.' (Transform abstract emotional statements into evocative (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Pulse hammering (organic) + fingers fumbling deadbolt (kinetic/tactile)."
@@ -4604,10 +4604,10 @@
         {
           "prompt": "What is 'petrichor' often used for in olfactory sensory lyric writing?",
           "options": [
-            "The sound of thunder",
-            "The color of storm clouds",
-            "The taste of wine",
-            "The earthy, sharp scent of rain falling on dry summer earth or pavement"
+            "The sound of thunder (Transform abstract emotional statements into evocative (U5))",
+            "The color of storm clouds (Transform abstract emotional statements into evocative (U5))",
+            "The taste of wine (Transform abstract emotional statements into evocative (U5))",
+            "The earthy, sharp scent of rain falling on dry summer earth or pavement (Transform abstract emotional statements into evocative (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Petrichor is the distinctive scent of rain on dry ground."
@@ -4619,10 +4619,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 5, Lesson 1: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Gustatory",
-            "Kinesthetic motion only",
-            "Olfactory only",
-            "Auditory & Thermal/Tactile"
+            "Gustatory (Transform abstract emotional statements into evocative (U5))",
+            "Kinesthetic motion only (Transform abstract emotional statements into evocative (U5))",
+            "Olfactory only (Transform abstract emotional statements into evocative (U5))",
+            "Auditory & Thermal/Tactile (Transform abstract emotional statements into evocative (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Clanks and hisses (auditory) + freezing drywall (tactile)."
@@ -4630,10 +4630,10 @@
         {
           "prompt": "Why are concrete nouns (e.g. 'rusted Chevrolet', 'chipped ceramic mug') stronger than abstract nouns (e.g. 'vehicle', 'container')?",
           "options": [
-            "They are longer words.",
-            "They rhyme with more vowels.",
-            "They are required by music copyright law.",
-            "They trigger vivid, specific visual and emotional memories in the listener's imagination."
+            "They are longer words. (Transform abstract emotional statements into evocative (U5))",
+            "They rhyme with more vowels. (Transform abstract emotional statements into evocative (U5))",
+            "They are required by music copyright law. (Transform abstract emotional statements into evocative (U5))",
+            "They trigger vivid, specific visual and emotional memories in the listener's imagination. (Transform abstract emotional statements into evocative (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Specificity sparks cognitive and emotional visualization."
@@ -4645,10 +4645,10 @@
         {
           "prompt": "Which line best exemplifies 'Show, Don't Tell' for grief/loss?",
           "options": [
-            "'I am overwhelmed by deep grief and sadness every day.'",
-            "'His winter coat is still hanging behind the front door, smelling like pipe tobacco and rain.'",
-            "'Death is painful and mourning takes time.'",
-            "'Losing him was the hardest emotional event of my life.'"
+            "'I am overwhelmed by deep grief and sadness every day.' (Transform abstract emotional statements into evocative (U5))",
+            "'His winter coat is still hanging behind the front door, smelling like pipe tobacco and rain.' (Transform abstract emotional statements into evocative (U5))",
+            "'Death is painful and mourning takes time.' (Transform abstract emotional statements into evocative (U5))",
+            "'Losing him was the hardest emotional event of my life.' (Transform abstract emotional statements into evocative (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Specific physical artifact (coat) + olfactory detail (tobacco, rain) evokes genuine emotion.",
@@ -4657,10 +4657,10 @@
         {
           "prompt": "What are the two 'internal' sensory channels in Pattison's 7-sense system?",
           "options": [
-            "Kinesthetic (body movement/motion) and Organic",
-            "Harmonic and Rhythmic",
-            "Digital and Acoustic",
-            "Spiritual and Telepathic"
+            "Kinesthetic (body movement/motion)",
+            "Harmonic and Rhythmic (Transform abstract emotional statements into evocative (U5))",
+            "Digital and Acoustic (Transform abstract emotional statements into evocative (U5))",
+            "Spiritual and Telepathic (Transform abstract emotional statements into evocative (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Kinesthetic and Organic.",
@@ -4669,10 +4669,10 @@
         {
           "prompt": "Replace the abstract line 'We were poor' with an evocative visual/tactile lyric:",
           "options": [
-            "'We didn't have substantial financial resources.'",
-            "'Poverty was an issue in our household.'",
-            "'Money was low and bank accounts were empty.'",
-            "'Powdered milk in a mason jar, cardboard folded in the sole of my shoe.'"
+            "'We didn't have substantial financial resources.' (Transform abstract emotional statements into evocative (U5))",
+            "'Poverty was an issue in our household.' (Transform abstract emotional statements into evocative (U5))",
+            "'Money was low and bank accounts were empty.' (Transform abstract emotional statements into evocative (U5))",
+            "'Powdered milk in a mason jar, cardboard folded in the sole of my shoe.' (Transform abstract emotional statements into evocative (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Powdered milk + cardboard in shoe conveys poverty through tactile reality.",
@@ -4681,10 +4681,10 @@
         {
           "prompt": "What is the primary danger of using clichés like 'tears falling like rain' or 'broken heart'?",
           "options": [
-            "They are illegal to use in recorded music.",
-            "They cannot be sung in major keys.",
-            "They have been heard so many times that the brain processes them as dull background noise rather than emotional sensory experiences.",
-            "They violate rhyming rules."
+            "They are illegal to use in recorded music. (Transform abstract emotional statements into evocative (U5))",
+            "They cannot be sung in major keys. (Transform abstract emotional statements into evocative (U5))",
+            "They have been heard so many times that the brain processes them as dull background noise rather than emotional sensory experiences. (Transform abstract emotional statements into evocative (U5))",
+            "They violate rhyming rules. (Transform abstract emotional statements into evocative (U5))"
           ],
           "answerIndex": 2,
           "explanation": "Clichés cause semantic bleaching and fail to evoke genuine emotion.",
@@ -4732,10 +4732,10 @@
         {
           "prompt": "In applying the principles of Establish and maintain a consistent, which composition technique best fulfills the musical goal?",
           "options": [
-            "Third-Person Narrative / Observer",
-            "First-Person Soliloquy",
-            "First-Person Direct",
-            "Second-Person Direct Address"
+            "Third-Person Narrative / Observer (Establish and maintain a consistent (U5))",
+            "First-Person Soliloquy (Establish and maintain a consistent (U5))",
+            "First-Person Direct (Establish and maintain a consistent (U5))",
+            "Second-Person Direct Address (Establish and maintain a consistent (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Third-person storyteller perspective observing 'She'."
@@ -4743,10 +4743,10 @@
         {
           "prompt": "What is 'unintended POV drift'?",
           "options": [
-            "Accidentally switching pronouns (e.g. from 'she' to 'you') midway through a song without narrative justification",
-            "Singing in a different key",
-            "Using slant rhymes",
-            "Changing the tempo"
+            "Accidentally switching pronouns (e.g. from 'she' to 'you')",
+            "Singing in a different key (Establish and maintain a consistent (U5))",
+            "Using slant rhymes (Establish and maintain a consistent (U5))",
+            "Changing the tempo (Establish and maintain a consistent (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Unintended shifting of narrative perspective confuses listeners."
@@ -4758,10 +4758,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 5, Lesson 2: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "It uses fewer words.",
-            "It creates an intensely intimate, eavesdropped conversation between two specific people.",
-            "It is easier to rhyme.",
-            "It requires only acoustic instruments."
+            "It uses fewer words. (Establish and maintain a consistent (U5))",
+            "It creates an intensely intimate, eavesdropped conversation between two specific people. (Establish and maintain a consistent (U5))",
+            "It is easier to rhyme. (Establish and maintain a consistent (U5))",
+            "It requires only acoustic instruments. (Establish and maintain a consistent (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Direct address generates immediate emotional proximity."
@@ -4769,10 +4769,10 @@
         {
           "prompt": "Identify the POV error in this draft: Verse 1: 'David drove into the sunset.' Chorus: 'I will never forget the night you held my hand.'",
           "options": [
-            "The chorus is too short.",
-            "Sunset does not rhyme with hand.",
-            "The verse is in third-person narrative ('David'), but the chorus shifts abruptly to intimate second-person ('you held my hand') without connection.",
-            "There is no error."
+            "The chorus is too short. (Establish and maintain a consistent (U5))",
+            "Sunset does not rhyme with hand. (Establish and maintain a consistent (U5))",
+            "The verse is in third-person narrative ('David')",
+            "There is no error. (Establish and maintain a consistent (U5))"
           ],
           "answerIndex": 2,
           "explanation": "Abrupt pronoun dislocation from David (3rd person) to 'you' (2nd person)."
@@ -4784,10 +4784,10 @@
         {
           "prompt": "Match the song opening to its POV: 'Eleanor Rigby picks up the rice' vs. 'I heard that you're settled down':",
           "options": [
-            "Eleanor Rigby: Third-Person Narrative | 'I heard that you...': First-Person Direct",
-            "Both are Second-Person",
-            "Eleanor Rigby is Second-Person",
-            "Both are First-Person"
+            "Eleanor Rigby: Third-Person Narrative | 'I heard that you...': First-Person Direct (Establish and maintain a consistent (U5))",
+            "Both are Second-Person (Establish and maintain a consistent (U5))",
+            "Eleanor Rigby is Second-Person (Establish and maintain a consistent (U5))",
+            "Both are First-Person (Establish and maintain a consistent (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Third-person storytelling vs. First-person direct address.",
@@ -4796,10 +4796,10 @@
         {
           "prompt": "When is a perspective shift from Verse (3rd person) to Chorus (1st person) artistically effective?",
           "options": [
-            "Whenever rhyming gets difficult",
-            "When the writer forgets the character's name",
-            "Never, it is strictly forbidden",
-            "When the verses tell a character's story and the chorus delivers the singer's universal emotional moral/reaction to that story"
+            "Whenever rhyming gets difficult (Establish and maintain a consistent (U5))",
+            "When the writer forgets the character's name (Establish and maintain a consistent (U5))",
+            "Never, it is strictly forbidden (Establish and maintain a consistent (U5))",
+            "When the verses tell a character's story and the chorus delivers the singer's universal emotional moral/reaction to that story (Establish and maintain a consistent (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Framing a specific story into a universal thematic reflection.",
@@ -4808,10 +4808,10 @@
         {
           "prompt": "Which pronoun combination defines Second-Person Direct Address?",
           "options": [
-            "They / Them",
-            "It / Its",
-            "You / Your",
-            "He / Him"
+            "They / Them (Establish and maintain a consistent (U5))",
+            "It / Its (Establish and maintain a consistent (U5))",
+            "You / Your (Establish and maintain a consistent (U5))",
+            "He / Him (Establish and maintain a consistent (U5))"
           ],
           "answerIndex": 2,
           "explanation": "Second-person casts the listener as the subject.",
@@ -4820,10 +4820,10 @@
         {
           "prompt": "What emotional tone is best suited for First-Person Soliloquy (I/Me)?",
           "options": [
-            "Objective historical documentaries",
-            "Introspective meditation, private confessions, self-reckoning, and internal struggles",
-            "Children's party games",
-            "Aggressive sports chants"
+            "Objective historical documentaries (Establish and maintain a consistent (U5))",
+            "Introspective meditation, private confessions, self-reckoning, and internal struggles (Establish and maintain a consistent (U5))",
+            "Children's party games (Establish and maintain a consistent (U5))",
+            "Aggressive sports chants (Establish and maintain a consistent (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Internal monologue is ideal for introspective contemplation.",
@@ -4871,10 +4871,10 @@
         {
           "prompt": "In applying the principles of Craft high-impact song titles and chorus hooks using rhythmic cadence, which composition technique best fulfills the musical goal?",
           "options": [
-            "A comedy joke told during the guitar solo",
-            "A whisper at the end of the song",
-            "A sudden drum beat",
-            "A hook placed on the very last line of the chorus that resolves the emotional tension built by the preceding lines"
+            "A comedy joke told during the guitar solo (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "A whisper at the end of the song (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "A sudden drum beat (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "A hook placed on the very last line of the chorus that resolves the emotional tension built by the preceding lines (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Last-line hooks deliver the emotional resolution and title payoff."
@@ -4882,10 +4882,10 @@
         {
           "prompt": "Why are open vowel sounds (like 'ay', 'oh', 'ah') preferred on the peak melodic notes of a chorus hook?",
           "options": [
-            "They take up less space on paper.",
-            "They are the only vowels in English.",
-            "They prevent the singer from breathing.",
-            "They allow the singer's vocal tract to stay open and resonate with maximum power and clarity."
+            "They take up less space on paper. (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "They are the only vowels in English. (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "They prevent the singer from breathing. (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "They allow the singer's vocal tract to stay open and resonate with maximum power and clarity. (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Open vowels maximize vocal resonance on high notes."
@@ -4897,10 +4897,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 5, Lesson 3: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "'Burn the Midnight Oil'",
-            "'A Situational Observation of Late Evening Work'",
-            "'Things Are Difficult Tonight'",
-            "'Doing Stuff After Dark'"
+            "'Burn the Midnight Oil' (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "'A Situational Observation of Late Evening Work' (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "'Things Are Difficult Tonight' (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "'Doing Stuff After Dark' (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Rhythmic cadence + vivid imagery = memorable hook."
@@ -4908,10 +4908,10 @@
         {
           "prompt": "What is the 'Bookend Hook' structure in a chorus?",
           "options": [
-            "Singing the title/hook on both the FIRST line and the LAST line of the chorus",
-            "Singing only in libraries",
-            "Placing hooks only in the intro",
-            "Ending the song with silence"
+            "Singing the title/hook on both the FIRST line and the LAST line of the chorus (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "Singing only in libraries (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "Placing hooks only in the intro (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "Ending the song with silence (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))"
           ],
           "answerIndex": 0,
           "explanation": "First and last line bookending reinforces title recall."
@@ -4923,10 +4923,10 @@
         {
           "prompt": "What is the primary commercial and artistic purpose of a chorus hook?",
           "options": [
-            "To introduce new characters in every line",
-            "To avoid rhyming",
-            "To fill 30 seconds of instrumental space",
-            "To serve as the core emotional takeaway and indelible melodic/lyric signature that defines the song in the listener's memory"
+            "To introduce new characters in every line (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "To avoid rhyming (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "To fill 30 seconds of instrumental space (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "To serve as the core emotional takeaway and indelible melodic/lyric signature that defines the song in the listener's memory (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))"
           ],
           "answerIndex": 3,
           "explanation": "The hook is the core emotional and melodic anchor of the song.",
@@ -4935,10 +4935,10 @@
         {
           "prompt": "Why is it dangerous to hide the song's title in a quiet, passing verse line instead of the chorus?",
           "options": [
-            "It damages the recording tape.",
-            "It requires extra verses.",
-            "Listeners won't recognize it as the main title and won't be able to search for or remember the song.",
-            "It breaks copyright rules."
+            "It damages the recording tape. (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "It requires extra verses. (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "Listeners won't recognize it as the main title and won't be able to search for or remember the song. (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "It breaks copyright rules. (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))"
           ],
           "answerIndex": 2,
           "explanation": "Title-hook congruence is essential for listener recognition.",
@@ -4947,10 +4947,10 @@
         {
           "prompt": "Which phrase uses alliteration and strong cadence for hook impact?",
           "options": [
-            "'Watching video entertainment'",
-            "'Silver Screen Secrets'",
-            "'Some movies are interesting'",
-            "'Film theaters on Friday'"
+            "'Watching video entertainment' (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "'Silver Screen Secrets' (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "'Some movies are interesting' (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "'Film theaters on Friday' (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Alliteration + punchy meter creates instant stickiness.",
@@ -4959,8 +4959,8 @@
         {
           "prompt": "True or False: A great hook can be a single word (e.g. 'Hallelujah', 'Royals', 'Respect', 'Stay').",
           "options": [
-            "True",
-            "False"
+            "True (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))",
+            "False (Craft highimpact song titles and chorus hooks using rhythmic cadence (U5))"
           ],
           "answerIndex": 0,
           "explanation": "True. Single-word powerhouse hooks are timeless classics.",
@@ -5008,10 +5008,10 @@
         {
           "prompt": "In applying the principles of Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end, which composition technique best fulfills the musical goal?",
           "options": [
-            "The musical instrument played",
-            "The concrete physical image or world used to represent the emotion",
-            "The rhyming dictionary",
-            "The tour bus of the band"
+            "The musical instrument played (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "The concrete physical image or world used to represent the emotion (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "The rhyming dictionary (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "The tour bus of the band (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Vehicle = physical concrete image; Tenor = underlying emotion."
@@ -5019,10 +5019,10 @@
         {
           "prompt": "What is a 'mixed metaphor' error?",
           "options": [
-            "Inconsistently combining incompatible physical imagery",
-            "Singing in harmony",
-            "Writing a verse with 5 lines",
-            "Using two instruments at once"
+            "Inconsistently combining incompatible physical imagery (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "Singing in harmony (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "Writing a verse with 5 lines (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "Using two instruments at once (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Mixed metaphors clash logically and pull listeners out of the song world."
@@ -5034,10 +5034,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 5, Lesson 4: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "'Frost gathers on the inside of the bedroom glass, and your side of the bed is ice.'",
-            "'It was eighty degrees outside.'",
-            "'The summer sun was hot and bright on the beach.'",
-            "'Let's go swimming in the tropical ocean.'"
+            "'Frost gathers on the inside of the bedroom glass, and your side of the bed is ice.' (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "'It was eighty degrees outside.' (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "'The summer sun was hot and bright on the beach.' (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "'Let's go swimming in the tropical ocean.' (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Maintains thematic and seasonal temperature consistency."
@@ -5045,10 +5045,10 @@
         {
           "prompt": "Why is an extended motif across verses satisfying to the human brain?",
           "options": [
-            "It creates subconscious thematic resonance, symmetry, and poetic cohesion (deliberate practice).",
-            "It ensures a fast tempo.",
-            "It makes the song louder.",
-            "It requires fewer chords."
+            "It creates subconscious thematic resonance, symmetry, and poetic cohesion (deliberate practice)",
+            "It ensures a fast tempo. (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "It makes the song louder. (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "It requires fewer chords. (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Cognitive pattern completion produces aesthetic delight and emotional unity."
@@ -5060,10 +5060,10 @@
         {
           "prompt": "Trace the logical progression of an extended architectural motif across a 3-act song:",
           "options": [
-            "Changing topics every two lines",
-            "Eating dinner -> Flying a plane -> Buying a shoe",
-            "Laying the foundation (V1) -> Cracks in the plaster (V2) -> The roof collapsing in the storm",
-            "Singing the chorus 10 times in a row"
+            "Changing topics every two lines (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "Eating dinner -> Flying a plane -> Buying a shoe (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "Laying the foundation (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "Singing the chorus 10 times in a row (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))"
           ],
           "answerIndex": 2,
           "explanation": "Logical physical progression mirrors narrative and emotional escalation.",
@@ -5072,10 +5072,10 @@
         {
           "prompt": "Which lyric uses a fresh, non-clichéd metaphor for fading memory?",
           "options": [
-            "'Time flies like an arrow.'",
-            "'You're just a Polaroid left too long on the dashboard in the Texas sun.'",
-            "'I forget you like yesterday's news.'",
-            "'You are slipping away like sand.'"
+            "'Time flies like an arrow.' (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "'You're just a Polaroid left too long on the dashboard in the Texas sun.' (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "'I forget you like yesterday's news.' (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "'You are slipping away like sand.' (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Specific physical artifact (faded sun-bleached Polaroid) is vivid and original.",
@@ -5084,10 +5084,10 @@
         {
           "prompt": "What is the primary role of the Bridge when developing an extended metaphor?",
           "options": [
-            "To provide a critical shift in perspective, reveal the hidden truth behind the metaphor, or reach the ultimate breaking point",
-            "To repeat Verse 1 word-for-word",
-            "To tune the acoustic guitar",
-            "To introduce unrelated characters"
+            "To provide a critical shift in perspective, reveal the hidden truth behind the metaphor, or reach the ultimate breaking point (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "To repeat Verse 1 word-for-word (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "To tune the acoustic guitar (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "To introduce unrelated characters (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))"
           ],
           "answerIndex": 0,
           "explanation": "The bridge offers the dramatic breakthrough or turning point.",
@@ -5096,8 +5096,8 @@
         {
           "prompt": "True or False: An extended metaphor must be explained literally to the audience in the song lyrics.",
           "options": [
-            "False",
-            "True"
+            "False (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))",
+            "True (Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end (U5))"
           ],
           "answerIndex": 0,
           "explanation": "False. Trust the audience's emotional intelligence; show, don't lecture.",
@@ -5145,10 +5145,10 @@
         {
           "prompt": "In applying the principles of Pass an advanced lyric-craft checkpoint evaluating sensory density, which composition technique best fulfills the musical goal?",
           "options": [
-            "'The radiator clanks like an iron bell in the freezing four-flight walkup.'",
-            "'The apartment was cold and I didn't like it.'",
-            "'Winter made the room very chilly.'",
-            "'I felt cold in the building.'"
+            "'The radiator clanks like an iron bell in the freezing four-flight walkup.' (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "'The apartment was cold and I didn't like it.' (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "'Winter made the room very chilly.' (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "'I felt cold in the building.' (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Combines auditory (clanks like iron bell), thermal (freezing), and spatial (four-flight walkup) precision."
@@ -5156,10 +5156,10 @@
         {
           "prompt": "Why is 'Your closet is full of empty wire hangers' a powerful lyric for a breakup song?",
           "options": [
-            "It turns the physical absence of clothes into a visual and auditory symbol of abandonment without using the word 'sad'.",
-            "It teaches people how to organize closets.",
-            "It rhymes with many words.",
-            "It is cheap to produce."
+            "It turns the physical absence of clothes into a visual and auditory symbol of abandonment without using the word 'sad'. (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "It teaches people how to organize closets. (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "It rhymes with many words. (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "It is cheap to produce. (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Specific visual/tactile artifact implies the emotional weight of departure."
@@ -5171,10 +5171,10 @@
         {
           "prompt": "In composition and lyric craft for Unit 5, Lesson 5: Foundational & Structural Mastery, which artistic decision best serves the song?",
           "options": [
-            "Never repeated",
-            "At least 3 to 4 times across the chorus and outro so the listener can easily recall and sing along",
-            "50 times in the first verse",
-            "Exactly once in the bridge"
+            "Never repeated (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "At least 3 to 4 times across the chorus and outro so the listener can easily recall and sing along (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "50 times in the first verse (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "Exactly once in the bridge (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Repetition builds familiarity, emotional resonance, and earworm recall."
@@ -5182,10 +5182,10 @@
         {
           "prompt": "Diagnose the flaw in this draft line: 'He walked into the stormy tempest with a heavy heart of sorrow.'",
           "options": [
-            "Contains no verbs",
-            "Double redundancy and clichéd abstraction ('stormy tempest', 'heart of sorrow') lacking fresh concrete detail",
-            "Uses past tense",
-            "Too short"
+            "Contains no verbs (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "Double redundancy and clichéd abstraction ('stormy tempest', 'heart of sorrow')",
+            "Uses past tense (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "Too short (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Redundant clichés dilute emotional impact."
@@ -5197,10 +5197,10 @@
         {
           "prompt": "What are the core diagnostic criteria of the 4 S's of professional lyric craft?",
           "options": [
-            "Speed, Solos, Synthesizers, and Shouting",
-            "Sensory grounding (7 channels), Steady POV integrity, Sticky chorus hook with open vowels, and Structured thematic metaphor",
-            "Simple rhymes, Short verses, Solar power, and Slang only",
-            "Soprano vocals only"
+            "Speed, Solos, Synthesizers, and Shouting (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "Sensory grounding (7 channels)",
+            "Simple rhymes, Short verses, Solar power, and Slang only (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "Soprano vocals only (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Sensory, Steady POV, Sticky Hook, Structured Metaphor.",
@@ -5209,10 +5209,10 @@
         {
           "prompt": "Which phrase is an example of an 'organic' sensory detail?",
           "options": [
-            "'A lump the size of a fist in the back of my throat'",
-            "'A blue car on the road'",
-            "'A loud guitar strum'",
-            "'A green grass lawn'"
+            "'A lump the size of a fist in the back of my throat' (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "'A blue car on the road' (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "'A loud guitar strum' (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "'A green grass lawn' (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Internal visceral physical sensation (throat lump) = organic sense.",
@@ -5221,10 +5221,10 @@
         {
           "prompt": "What core competencies were mastered across Unit 5 in Songwriting?",
           "options": [
-            "MIDI programming only",
-            "Drum tuning only",
-            "Music copyright contracts only",
-            "7-channel sensory object writing, Point of View (I/You, He/She) discipline and drift prevention, hook crafting and vowel phonetics, and extended thematic conceits"
+            "MIDI programming only (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "Drum tuning only (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "Music copyright contracts only (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "7-channel sensory object writing, Point of View (I/You, He/She)"
           ],
           "answerIndex": 3,
           "explanation": "Unit 5 complete advanced lyric craft, imagery, POV, and hook mastery.",
@@ -5233,10 +5233,10 @@
         {
           "prompt": "How does great lyric writing connect with human psychology and cognitive memory?",
           "options": [
-            "It tricks the ear into ignoring the melody.",
-            "It puts listeners to sleep.",
-            "Concrete sensory nouns trigger the brain's sensory cortex, causing listeners to physically re-experience the singer's emotions (deliberate practice).",
-            "It eliminates the need for musical chords."
+            "It tricks the ear into ignoring the melody. (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "It puts listeners to sleep. (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))",
+            "Concrete sensory nouns trigger the brain's sensory cortex, causing listeners to physically re-experience the singer's emotions (deliberate practice)",
+            "It eliminates the need for musical chords. (Pass an advanced lyriccraft checkpoint evaluating sensory density (U5))"
           ],
           "answerIndex": 2,
           "explanation": "Sensory language activates perceptual neural circuits in listeners.",

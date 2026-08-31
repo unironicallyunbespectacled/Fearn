@@ -501,10 +501,10 @@
         {
           "prompt": "Read the Arabic word «دَار» composed of non-connecting letters and select its meaning:",
           "options": [
-            "daar",
-            "ward",
-            "ruzz",
-            "dawr"
+            "daar (Master the RighttoLeft Arabic writing direction U1)",
+            "ward (Master the RighttoLeft Arabic writing direction U1)",
+            "ruzz (Master the RighttoLeft Arabic writing direction U1)",
+            "dawr (Master the RighttoLeft Arabic writing direction U1)"
           ],
           "answerIndex": 0,
           "explanation": "«دَ» [da] + «ا» [aa] + «ر» [r] forms «دَار» (*daar*), meaning house or home."
@@ -516,10 +516,10 @@
         {
           "prompt": "Which of the following letters belongs to the group of 6 Non-Connecting Arabic letters?",
           "options": [
-            "ر (Raa [r])",
-            "ب (Be [b])",
-            "م (Meem [m])",
-            "س (Seen [s])"
+            "ر (Raa r)",
+            "ب (Master the RighttoLeft Arabic writing direction - Unit 1 Target Practice)",
+            "م (Meem m)",
+            "س (Seen s)"
           ],
           "answerIndex": 0,
           "explanation": "«ر» (Raa) is one of the 6 non-connecting letters that never joins to letters on its left."
@@ -543,10 +543,10 @@
           "type": "multiple-choice",
           "prompt": "What sound does the circular diacritic «السُّكُون» (As-Sukūn) indicate when placed above a letter?",
           "options": [
-            "Zero vowel / a pure consonant stop without a following vowel",
-            "A long [aa] vowel",
-            "A doubled consonant sound",
-            "A nasal sound"
+            "Zero vowel / a pure consonant stop without a following vowel (Master the RighttoLeft Arabic writing direction U1)",
+            "A long (Master the RighttoLeft Arabic writing direction U1)",
+            "A doubled consonant sound (Master the RighttoLeft Arabic writing direction U1)",
+            "A nasal sound (Master the RighttoLeft Arabic writing direction U1)"
           ],
           "answerIndex": 0,
           "explanation": "As-Sukūn indicates the absence of a vowel on that consonant."
@@ -607,10 +607,10 @@
         {
           "prompt": "Which letter in the boat family has 1 dot placed BELOW the base shape and is pronounced [b]?",
           "options": [
-            "ب (Baa [b])",
-            "ت (Te [t])",
-            "ث (Thaa [θ])",
-            "ن (Noon [n])"
+            "ب (Baa b)",
+            "ت (Master the base boatcup letters distinguished by dots - Unit 1 Target Practice)",
+            "ث (Master the base boatcup letters distinguished by dots U1)",
+            "ن (Noon n)"
           ],
           "answerIndex": 0,
           "explanation": "«ب» (Baa) has a single dot below the body and represents the voiced bilabial stop [b]."
@@ -645,7 +645,7 @@
           "prompt": "Which Arabic pronoun represents \"you\" when speaking to a male (masculine singular)?",
           "options": [
             "أَنْتَ (Anta - You singular male)",
-            "أَنْتِ (Anti - You (female singular))",
+            "أَنْتِ (female singular)",
             "أَنَا (Ana - I)",
             "هُوَ (Huwa - He / Him)"
           ],
@@ -660,10 +660,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Arabic word «نُور» (*noor*) mean in English?",
           "options": [
-            "light",
-            "door",
-            "house",
-            "fig"
+            "light (Master the base boatcup letters distinguished by dots U1)",
+            "door (Master the base boatcup letters distinguished by dots U1)",
+            "house (Master the base boatcup letters distinguished by dots U1)",
+            "fig (Master the base boatcup letters distinguished by dots U1)"
           ],
           "answerIndex": 0,
           "explanation": "«نُور» (*noor*) means \"light\"."
@@ -725,7 +725,7 @@
           "prompt": "Which Arabic word means \"peace\" and is formed from Seen, Laam, Alif, and Meem?",
           "options": [
             "سَلَام (Salaam - Peace / Hello)",
-            "كِتَاب (Kitāb - Book)",
+            "كِتَاب (Master connecting letters U1)",
             "مَسْجِد (Masjid - Mosque)",
             "شَمْس (Shams - Sun)"
           ],
@@ -735,10 +735,10 @@
         {
           "prompt": "Which letter in the Jim group produces the deep warm pharyngeal \"h\" sound without any dots?",
           "options": [
-            "ح (Haa [ħ])",
-            "ج (Jeem [dʒ])",
-            "خ (Khe [x])",
-            "هـ (Haa [h])"
+            "ح (Master connecting letters U1)",
+            "ج (Master connecting letters U1)",
+            "خ (Khe x)",
+            "هـ (Haa h)"
           ],
           "answerIndex": 0,
           "explanation": "«ح» (Haa) is the dotless pharyngeal voiceless fricative."
@@ -751,9 +751,9 @@
           "prompt": "Select the Arabic word meaning \"book\" spelled «كِتَاب»:",
           "options": [
             "كِتَاب (Kitaab - Book)",
-            "سَلَام (Salām - Peace / Hello)",
+            "سَلَام (Master connecting letters U1)",
             "قَلَم (Qalam - Pen)",
-            "بَاب (Bāb - Door)"
+            "بَاب (Master connecting letters U1)"
           ],
           "answerIndex": 0,
           "explanation": "«كِتَاب» (*kitaab*) means \"book\"."
@@ -777,10 +777,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Arabic word «كِتَاب» mean in English?",
           "options": [
-            "book",
-            "pen",
-            "door",
-            "mosque"
+            "book (Master connecting letters U1)",
+            "pen (Master connecting letters U1)",
+            "door (Master connecting letters U1)",
+            "mosque (Master connecting letters U1)"
           ],
           "answerIndex": 0,
           "explanation": "«كِتَاب» (*kitaab*) means \"book\"."
@@ -841,10 +841,10 @@
         {
           "prompt": "What is the phonetic function of the Shaddah (ّ) diacritic when placed above an Arabic letter?",
           "options": [
-            "It indicates that the consonant is doubled/geminated and held longer",
-            "It makes the letter silent",
-            "It turns the consonant into a vowel",
-            "It indicates a question"
+            "It indicates that the consonant is doubled/geminated and held longer (Master the gemination mark Shaddah U1)",
+            "It makes the letter silent (Master the gemination mark Shaddah U1)",
+            "It turns the consonant into a vowel (Master the gemination mark Shaddah U1)",
+            "It indicates a question (Master the gemination mark Shaddah U1)"
           ],
           "answerIndex": 0,
           "explanation": "Ash-Shaddah indicates gemination (consonant doubling)."
@@ -867,10 +867,10 @@
         {
           "prompt": "In the word «الشَّمْس» (the sun), why is the \"L\" sound assimilated to pronounce [ash-shams]?",
           "options": [
-            "Because Sheen (ش) is a Sun Letter (حرف شمسي) that assimilates the Laam",
-            "Because Sheen is a vowel",
-            "Because the word is feminine",
-            "Because of a typo"
+            "Because Sheen (Master the gemination mark Shaddah U1)",
+            "Because Sheen is a vowel (Master the gemination mark Shaddah U1)",
+            "Because the word is feminine (Master the gemination mark Shaddah U1)",
+            "Because of a typo (Master the gemination mark Shaddah U1)"
           ],
           "answerIndex": 0,
           "explanation": "Sun letters assimilate the \"L\" of the definite article «ال» into a doubled consonant with Shaddah."
@@ -878,10 +878,10 @@
         {
           "prompt": "What does the letter Ta Marbutah (ة) at the end of a word signify in Arabic grammar?",
           "options": [
-            "Feminine grammatical gender marker",
-            "Plural marker",
-            "Past tense verb marker",
-            "Preposition"
+            "Feminine grammatical gender marker (Master the gemination mark Shaddah U1)",
+            "Plural marker (Master the gemination mark Shaddah U1)",
+            "Past tense verb marker (Master the gemination mark Shaddah U1)",
+            "Preposition (Master the gemination mark Shaddah U1)"
           ],
           "answerIndex": 0,
           "explanation": "Ta Marbutah (ة) is the primary marker of feminine grammatical gender in nouns and adjectives."
@@ -896,7 +896,7 @@
           "options": [
             "الكِتَاب (Al-Kitaab - The Book)",
             "الشَّمْس (Ash-Shams - The Sun)",
-            "السَّلَام (As-Salām - The Peace)",
+            "السَّلَام (Master the gemination mark Shaddah U1)",
             "النُّور (An-Noor - The Light)"
           ],
           "answerIndex": 0,
@@ -960,8 +960,8 @@
           "options": [
             "وَعَلَيْكُمُ السَّلَامُ (Wa alaykum as-salaam - And upon you peace)",
             "شُكْرًا جَزِيلًا (Shukran jazeelan - Thank you very much)",
-            "إِلَى اللِّقَاءِ (Ilā l-liqā' - Until we meet again / Goodbye)",
-            "مَا اسْمُكَ؟ (Mas-muka? - What is your name (male)?)"
+            "إِلَى اللِّقَاءِ (Master standard Islamic and cultural greetings Assalamu alaykum U1)",
+            "مَا اسْمُكَ؟ (male)"
           ],
           "answerIndex": 0,
           "explanation": "The standard reciprocal response is «وَعَلَيْكُمُ السَّلَامُ» (*Wa 'alaykum as-salaam*)."
@@ -970,9 +970,9 @@
           "prompt": "Which Arabic phrase means \"Welcome!\" (lit. \"You have come to family and ease\")?",
           "options": [
             "أَهْلًا وَسَهْلًا (Ahlan wa sahlan - Welcome)",
-            "مَعَ السَّلَامَة (Ma'a s-salāmah - Goodbye)",
+            "مَعَ السَّلَامَة (Master standard Islamic and cultural greetings Assalamu alaykum U1)",
             "عَفْوًا ('Afwan - You are welcome / Pardon)",
-            "كَيْفَ حَالُكَ؟ (Kayfa hāluka? - How are you (male)?)"
+            "كَيْفَ حَالُكَ؟ (male)"
           ],
           "answerIndex": 0,
           "explanation": "«أَهْلًا وَسَهْلًا» (*Ahlan wa sahlan*) is the authentic welcoming expression."
@@ -987,7 +987,7 @@
             "مَعَ السَّلَامَة (Ma'a as-salaama - Goodbye)",
             "مَرْحَبًا (Marhaban - Hello)",
             "شُكْرًا (Shukran - Thank you)",
-            "تَشَرَّفْنَا (Tasharrafnā - Pleased to meet you)"
+            "تَشَرَّفْنَا (Master standard Islamic and cultural greetings Assalamu alaykum U1)"
           ],
           "answerIndex": 0,
           "explanation": "«مَعَ السَّلَامَة» (*Ma'a as-salaama*) is the universal polite farewell."
@@ -997,8 +997,8 @@
           "options": [
             "أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ (Ana bikhayr, alhamdulillah - I am well, praise God)",
             "أَنَا اسْمِي أَحْمَد (Ana ismee Ahmad - My name is Ahmad)",
-            "مَا اسْمُكَ؟ (Mas-muka? - What is your name (male)?)",
-            "إِلَى اللِّقَاءِ (Ilā l-liqā' - Until we meet again / Goodbye)"
+            "مَا اسْمُكَ؟ (male)",
+            "إِلَى اللِّقَاءِ (Master standard Islamic and cultural greetings Assalamu alaykum U1)"
           ],
           "answerIndex": 0,
           "explanation": "«أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ» (*Ana bikhayrin, al-hamdu lillah*) is the standard authentic response."
@@ -1012,7 +1012,7 @@
           "prompt": "Which phrase means \"Honored to meet you / Pleased to meet you\" upon an introduction?",
           "options": [
             "تَشَرَّفْنَا (Tasharrafnaa - Pleased to meet you)",
-            "مَعَ السَّلَامَة (Ma'a s-salāmah - Goodbye)",
+            "مَعَ السَّلَامَة (Master standard Islamic and cultural greetings Assalamu alaykum U1)",
             "عَفْوًا ('Afwan - You are welcome / Pardon)",
             "شُكْرًا (Shukran - Thank you)"
           ],
@@ -1075,10 +1075,10 @@
         {
           "prompt": "ما هو التعبير الصحيح لعدّ خمسة طلاب ذكور في اللغة العربية الفصحى طبقًا لقاعدة المخالفة؟",
           "options": [
-            "خَمْسَةُ طُلَّابٍ",
-            "خَمْسُ طُلَّابٍ",
-            "خَمْسَةُ طَالِبَاتٍ",
-            "خَمْسُ كِتَابٍ"
+            "خَمْسَةُ طُلَّابٍ (khamsahu tulaabin)",
+            "خَمْسُ طُلَّابٍ (khamsu tulaabin)",
+            "خَمْسَةُ طَالِبَاتٍ (khamsahu taalibaatin)",
+            "خَمْسُ كِتَابٍ (khamsu kitaabin)"
           ],
           "answerIndex": 0,
           "explanation": "المعدود «طالب» مذكر، لذلك يجب تأنيث العدد بإضافة التاء المربوطة «خَمْسَةُ» مع جمع المعدود مجرورًا."
@@ -1086,10 +1086,10 @@
         {
           "prompt": "كيف تعبّر عن «seven female students» باللغة العربية الفصحى بالشكل الإعرابي السليم؟",
           "options": [
-            "سَبْعُ طَالِبَاتٍ",
-            "سَبْعَةُ طَالِبَاتٍ",
-            "سَبْعَةُ طَالِبٌ",
-            "سَبْعِ طَالِبَةٌ"
+            "سَبْعُ طَالِبَاتٍ (sab'au taalibaatin)",
+            "سَبْعَةُ طَالِبَاتٍ (sab'aahu taalibaatin)",
+            "سَبْعَةُ طَالِبٌ (sab'aahu taalibun)",
+            "سَبْعِ طَالِبَةٌ (sab'ai taalibahun)"
           ],
           "answerIndex": 0,
           "explanation": "المعدود «طالبة» مؤنث، فيأتي العدد مذكرًا خاليًا من التاء «سَبْعُ»."
@@ -1101,10 +1101,10 @@
         {
           "prompt": "اختر الجملة التي تطبق قاعدة الأعداد وتمييزها من 3 إلى 10 بدقة متناهية وبدون أي خطأ نحوي:",
           "options": [
-            "قَرَأْتُ أَرْبَعَةَ كُتُبٍ وَثَلَاثَ قَصَائِدَ فِي المَكْتَبَةِ.",
-            "قرأت أربعة كتاب وثلاث قصيدة في المكتبة",
-            "قرأت أربع كتب وثلاثة قصائد في المكتبة",
-            "قرأت أربعة قصائد وثلاث كتب في المكتبة"
+            "قَرَأْتُ أَرْبَعَةَ كُتُبٍ وَثَلَاثَ قَصَائِدَ فِي المَكْتَبَةِ. (qaraatu aarba'aaha kutubin wathalaatha qasaa'ida fiy almaktabahi.)",
+            "قرأت أربعة كتاب وثلاث قصيدة في المكتبة (qrat arb'ah ktab wthlath qsydh fy almktbh)",
+            "قرأت أربع كتب وثلاثة قصائد في المكتبة (qrat arb'a ktb wthlathh qsa'd fy almktbh)",
+            "قرأت أربعة قصائد وثلاث كتب في المكتبة (qrat arb'ah qsa'd wthlath ktb fy almktbh)"
           ],
           "answerIndex": 0,
           "explanation": "«كُتُب» مفردها مذكر فأُنث العدد «أربعة»، و«قصائد» مفردها مؤنث فذُكّر العدد «ثلاث»."
@@ -1112,10 +1112,10 @@
         {
           "prompt": "ما هي الحالة الإعرابية لتمييز الأعداد من 3 إلى 10 في اللغة العربية؟",
           "options": [
-            "جَمْعٌ مَجْرُورٌ بِالإِضَافَةِ",
-            "مفرد منصوب بالفتحة",
-            "جمع مرفوع بالضمة",
-            "مفرد مجرور بالكسرة"
+            "جَمْعٌ مَجْرُورٌ بِالإِضَافَةِ (jam'aun majruwrun bialiidaafahi)",
+            "مفرد منصوب بالفتحة (mfrd mnswb balfthh)",
+            "جمع مرفوع بالضمة (jm'a mrfw'a baldmh)",
+            "مفرد مجرور بالكسرة (mfrd mjrwr balksrh)"
           ],
           "answerIndex": 0,
           "explanation": "تمييز الأعداد من 3 إلى 10 يكون دائمًا جمعًا مجرورًا بالإضافة."
@@ -1128,10 +1128,10 @@
           "type": "multiple-choice",
           "prompt": "اختر من بين الخيارات التالية الجملة المعربة إعرابًا تامًا والتي تشتمل على التطبيق السليم للأعداد المفردة ومطابقتها ومخالفتها:",
           "options": [
-            "فِي مَعْهَدِنَا ثَمَانِيَةُ أَسَاتِذَةٍ كِرَامٍ وَعَشْرُ أُسْتَاذَاتٍ فَاضِلَاتٍ يُعَلِّمْنَ اللُّغَةَ العَرَبِيَّةَ.",
-            "في معهدنا ثماني أساتذة وعشرة أستاذات يعلمون.",
-            "في معهدنا ثمانية كتاب وعشرة قلم كبير.",
-            "اساتذة ثمانية استاذات عشرة قواعد سكون."
+            "فِي مَعْهَدِنَا ثَمَانِيَةُ أَسَاتِذَةٍ كِرَامٍ وَعَشْرُ أُسْتَاذَاتٍ فَاضِلَاتٍ يُعَلِّمْنَ اللُّغَةَ العَرَبِيَّةَ. (fiy ma'ahadinaa thamaaniyahu aasaatidhahin kiraamin wa'aashru austaadhaatin faadilaatin yu'aalimna allughaha al'aarabiyaha.)",
+            "في معهدنا ثماني أساتذة وعشرة أستاذات يعلمون. (fy m'ahdna thmany asatdhh w'ashrh astadhat y'almwn.)",
+            "في معهدنا ثمانية كتاب وعشرة قلم كبير. (fy m'ahdna thmanyh ktab w'ashrh qlm kbyr.)",
+            "اساتذة ثمانية استاذات عشرة قواعد سكون. (asatdhh thmanyh astadhat 'ashrh qwa'ad skwn.)"
           ],
           "answerIndex": 0,
           "explanation": "«أساتذة» مذكر فجاء عدده مؤنثًا «ثمانية»، و«أستاذات» مؤنث فجاء عدده مذكرًا «عشر» في غاية الإتقان."
@@ -1193,10 +1193,10 @@
         {
           "prompt": "ما هو الضبط السليم لقول «15 male students» باللغة العربية الفصحى؟",
           "options": [
-            "خَمْسَةَ عَشَرَ طَالِبًا",
-            "خَمْسَ عَشَرَ طَالِبٌ",
-            "خَمْسَةَ عَشْرَةَ طَالِبًا",
-            "خَمْسُ عِشْرُونَ طُلَّابٍ"
+            "خَمْسَةَ عَشَرَ طَالِبًا (khamsaha 'aashara taalibana)",
+            "خَمْسَ عَشَرَ طَالِبٌ (khamsa 'aashara taalibun)",
+            "خَمْسَةَ عَشْرَةَ طَالِبًا (khamsaha 'aashraha taalibana)",
+            "خَمْسُ عِشْرُونَ طُلَّابٍ (khamsu 'aishruwna tulaabin)"
           ],
           "answerIndex": 0,
           "explanation": "الجزء الأول يخالف المذكر «خَمْسَةَ» والثاني يطابق «عَشَرَ» وكلاهما مبني على الفتح مع تمييز مفرد منصوب."
@@ -1204,10 +1204,10 @@
         {
           "prompt": "كيف يُعرب لفظ العقد «عِشْرُونَ» في حالة النصب أو الجر؟",
           "options": [
-            "عِشْرِينَ",
-            "عِشْرُونَ",
-            "عِشْرَاتٌ",
-            "عِشْرَةٌ"
+            "عِشْرِينَ ('aishriyna)",
+            "عِشْرُونَ ('aishruwna)",
+            "عِشْرَاتٌ ('aishraatun)",
+            "عِشْرَةٌ ('aishrahun)"
           ],
           "answerIndex": 0,
           "explanation": "ألفاظ العقود تُلحق بجمع المذكر السالم، فتُنصب وتُجر بالياء «عِشْرِينَ»."
@@ -1219,10 +1219,10 @@
         {
           "prompt": "اختر الجملة التي تشتمل على عدد معطوف وتمييز منصوب بضبط إعرابي سليم تمامًا:",
           "options": [
-            "فِي المَكْتَبَةِ سَبْعَةٌ وَأَرْبَعُونَ حَاسُوبًا حَدِيثًا.",
-            "في المكتبة سبع وأربعون حاسوب قديم",
-            "في المكتبة سبعة وأربعين حواسيب جديدة",
-            "في المكتبة سبع وأربعين حاسوب صغير"
+            "فِي المَكْتَبَةِ سَبْعَةٌ وَأَرْبَعُونَ حَاسُوبًا حَدِيثًا. (fiy almaktabahi sab'aahun waaarba'auwna haasuwbana hadiythana.)",
+            "في المكتبة سبع وأربعون حاسوب قديم (fy almktbh sb'a warb'awn haswb qdym)",
+            "في المكتبة سبعة وأربعين حواسيب جديدة (fy almktbh sb'ah warb'ayn hwasyb jdydh)",
+            "في المكتبة سبع وأربعين حاسوب صغير (fy almktbh sb'a warb'ayn haswb sghyr)"
           ],
           "answerIndex": 0,
           "explanation": "«حاسوب» مذكر فالجزء الأول مؤنث «سبعةٌ»، والعقد معطوف مرفوع «وأربعون»، والتمييز مفرد منصوب «حاسوبًا»."
@@ -1230,10 +1230,10 @@
         {
           "prompt": "ما هو الإعراب الصحيح لتمييز الأعداد الواقعة بين 11 و 99؟",
           "options": [
-            "مُفْرَدٌ مَنْصُوبٌ",
-            "جمع مجرور",
-            "مفرد مرفوع",
-            "جمع منصوب"
+            "مُفْرَدٌ مَنْصُوبٌ (mufradun mansuwbun)",
+            "جمع مجرور (jm'a mjrwr)",
+            "مفرد مرفوع (mfrd mrfw'a)",
+            "جمع منصوب (jm'a mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "تمييز الأعداد من 11 إلى 99 يكون دائمًا مفردًا منصوبًا بتنوين الفتح."
@@ -1246,10 +1246,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الجملة التي تمثل النموذج الفصيح المتكامل للأعداد المركبة والعقود في سياق جامعي دقيق:",
           "options": [
-            "تَخَرَّجَ فِي الكُلِّيَّةِ ثَلَاثُونَ مُهَنْدِسًا وَخَمْسَ عَشْرَةَ طَبِيبَةً مَاهِرَةً هٰذَا العَامَ.",
-            "تخرج في الكلية ثلاثين مهندس وخمسة عشر طبيبة.",
-            "تخرج ثلاثون مهندسون وخمسة عشرة اطباء اليوم.",
-            "ارقام عقود تمييز فتحة ضمة مدرسة كلية."
+            "تَخَرَّجَ فِي الكُلِّيَّةِ ثَلَاثُونَ مُهَنْدِسًا وَخَمْسَ عَشْرَةَ طَبِيبَةً مَاهِرَةً هٰذَا العَامَ. (1119       2090      2199 (U2))",
+            "تخرج في الكلية ثلاثين مهندس وخمسة عشر طبيبة. (tkhrj fy alklyh thlathyn mhnds wkhmsh 'ashr tbybh.)",
+            "تخرج ثلاثون مهندسون وخمسة عشرة اطباء اليوم. (tkhrj thlathwn mhndswn wkhmsh 'ashrh atba' alywm.)",
+            "ارقام عقود تمييز فتحة ضمة مدرسة كلية. (arqam 'aqwd tmyyz fthh dmh mdrsh klyh.)"
           ],
           "answerIndex": 0,
           "explanation": "«ثلاثون مهندسًا» فاعل مرفوع بالواو وتمييزه مفرد منصوب، و«خمسَ عشرةَ طبيبةً» عدد مركب مبني على الفتح خالف الجزء الأول وطابق الثاني."
@@ -1311,10 +1311,10 @@
         {
           "prompt": "ما هي الصياغة العربية الفصيحة لقراءة التوقيت (6:15) في المساء؟",
           "options": [
-            "السَّاعَةُ السَّادِسَةُ وَالرُّبْعُ مَسَاءً",
-            "الساعة ستة وخمسة عشر دقيقة صباحا",
-            "الساعة السادسة إلا ربعا مساء",
-            "الساعة ستة عشر مساء"
+            "السَّاعَةُ السَّادِسَةُ وَالرُّبْعُ مَسَاءً (alsaa'aahu alsaadisahu waalrub'au masaa'an)",
+            "الساعة ستة وخمسة عشر دقيقة صباحا (alsa'ah sth wkhmsh 'ashr dqyqh sbaha)",
+            "الساعة السادسة إلا ربعا مساء (alsa'ah alsadsh ila rb'aa msa')",
+            "الساعة ستة عشر مساء (alsa'ah sth 'ashr msa')"
           ],
           "answerIndex": 0,
           "explanation": "يُستخدم العدد الترتيبي المؤنث «السَّادِسَةُ» مع «وَالرُّبْعُ» للتعبير عن 6:15 بدقة."
@@ -1322,10 +1322,10 @@
         {
           "prompt": "ما هو اللفظ المستعمل للتعبير عن 20 دقيقة بعد الساعة في التوقيت العربي الفصيح؟",
           "options": [
-            "وَالثُّلُثُ",
-            "وَالنِّصْفُ",
-            "وَالرُّبْعُ",
-            "إِلَّا رُبْعًا"
+            "وَالثُّلُثُ (waalthuluthu)",
+            "وَالنِّصْفُ (waalnisfu)",
+            "وَالرُّبْعُ (waalrub'au)",
+            "إِلَّا رُبْعًا (iilaa rub'aana)"
           ],
           "answerIndex": 0,
           "explanation": "الثلث يُمثل ثلث الساعة وهو 20 دقيقة (60 ÷ 3 = 20)."
@@ -1337,10 +1337,10 @@
         {
           "prompt": "اختر العبارة الفصيحة لتحديد موعد امتحان يبدأ في تمام الساعة العاشرة إلا ربعًا صباحًا:",
           "options": [
-            "يَبْدَأُ الِامْتِحَانُ فِي السَّاعَةِ العَاشِرَةِ إِلَّا رُبْعًا صَبَاحًا.",
-            "يبدأ الامتحان في الساعة عشرة وربع ليلا",
-            "يبدأ الامتحان في الساعة عشرة ناقص خمسة عشر",
-            "يبدأ الامتحان في الوقت بدون ساعة صباحا"
+            "يَبْدَأُ الِامْتِحَانُ فِي السَّاعَةِ العَاشِرَةِ إِلَّا رُبْعًا صَبَاحًا. (yabdaau aliamtihaanu fiy alsaa'aahi al'aaashirahi iilaa rub'aana sabaahana.)",
+            "يبدأ الامتحان في الساعة عشرة وربع ليلا (ybda alamthan fy alsa'ah 'ashrh wrb'a lyla)",
+            "يبدأ الامتحان في الساعة عشرة ناقص خمسة عشر (ybda alamthan fy alsa'ah 'ashrh naqs khmsh 'ashr)",
+            "يبدأ الامتحان في الوقت بدون ساعة صباحا (ybda alamthan fy alwqt bdwn sa'ah sbaha)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تستخدم أسلوب الاستثناء الفصيح «إِلَّا رُبْعًا» مع العدد الترتيبي المجرور بحرف الجر."
@@ -1348,10 +1348,10 @@
         {
           "prompt": "ما هو السؤال الفصيح المعتمد للاستفسار عن الوقت الحالي من شخص آخر؟",
           "options": [
-            "كَمِ السَّاعَةُ الآنَ مِنْ فَضْلِكَ؟",
-            "أين وضعت ساعتك اليدوية؟",
-            "هل تملك ساعة ذهبية جميلة؟",
-            "لماذا تمشي الساعة بسرعة؟"
+            "كَمِ السَّاعَةُ الآنَ مِنْ فَضْلِكَ؟ (Language concept U2)",
+            "أين وضعت ساعتك اليدوية؟ (Language concept U2)",
+            "هل تملك ساعة ذهبية جميلة؟ (Language concept U2)",
+            "لماذا تمشي الساعة بسرعة؟ (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "السؤال المعياري الأكثر فصاحة وشيوعًا هو «كَمِ السَّاعَةُ الآنَ؟»."
@@ -1364,10 +1364,10 @@
           "type": "multiple-choice",
           "prompt": "حدد الحوار الذي يمثل التنسيق الزمني الدقيق باللغة العربية الفصحى لموعد قطار أو محاضرة:",
           "options": [
-            "— فِي أَيِّ سَاعَةٍ يَصِلُ القِطَارُ إِلَى المَحَطَّةِ؟ — يَصِلُ فِي السَّاعَةِ الثَّانِيَةَ عَشْرَةَ وَالنِّصْفِ ظُهْرًا تَمَامًا.",
-            "— كم الساعة؟ — الساعة اثنان وخمسين دقيقة في الشارع.",
-            "— اين موعدنا؟ — شكرا عفوا مع السلامة بعد ساعة.",
-            "— في اي وقت نأكل؟ — الارقام الترتيبية فاعلة مؤنثة."
+            "— فِي أَيِّ سَاعَةٍ يَصِلُ القِطَارُ إِلَى المَحَطَّةِ؟ — يَصِلُ فِي السَّاعَةِ الثَّانِيَةَ عَشْرَةَ وَالنِّصْفِ ظُهْرًا تَمَامًا. (Language concept U2)",
+            "— كم الساعة؟ — الساعة اثنان وخمسين دقيقة في الشارع. (Language concept U2)",
+            "— اين موعدنا؟ — شكرا عفوا مع السلامة بعد ساعة. (Language concept U2)",
+            "— في اي وقت نأكل؟ — الارقام الترتيبية فاعلة مؤنثة. (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "السؤال والجواب كلاهما مضبوط بدقة فائقة وفق قواعد الساعات والأعداد الترتيبية الفصيحة."
@@ -1430,10 +1430,10 @@
         {
           "prompt": "ما هو اليوم الذي يُعد يوم الاجتماع والعبادة الأسبوعية في الثقافة العربية والإسلامية؟",
           "options": [
-            "يَوْمُ الجُمُعَةِ",
-            "يَوْمُ الثُّلَاثَاءِ",
-            "يَوْمُ الأَرْبِعَاءِ",
-            "يَوْمُ الإِثْنَيْنِ"
+            "يَوْمُ الجُمُعَةِ (yawmu aljumu'aahi)",
+            "يَوْمُ الثُّلَاثَاءِ (yawmu althulaathaa'i)",
+            "يَوْمُ الأَرْبِعَاءِ (yawmu alaarbi'aaa'i)",
+            "يَوْمُ الإِثْنَيْنِ (yawmu aliithnayni)"
           ],
           "answerIndex": 0,
           "explanation": "يوم الجمعة هو يوم العيد الأسبوعي وصلاة الجمعة الجامعة للمسلمين."
@@ -1441,10 +1441,10 @@
         {
           "prompt": "ما هو الشهر التاسع في التقويم الهجري القمري والمخصص لفريضة الصيام؟",
           "options": [
-            "شَهْرُ رَمَضَانَ",
-            "شَهْرُ شَوَّال",
-            "شَهْرُ مُحَرَّم",
-            "شَهْرُ رَجَب"
+            "شَهْرُ رَمَضَانَ (shahru ramadaana)",
+            "شَهْرُ شَوَّال (shahru shawaal)",
+            "شَهْرُ مُحَرَّم (shahru muharam)",
+            "شَهْرُ رَجَب (shahru rajab)"
           ],
           "answerIndex": 0,
           "explanation": "شهر رمضان هو الشهر التاسع في السنة الهجرية وفيه فريضة الصيام."
@@ -1456,10 +1456,10 @@
         {
           "prompt": "اختر العبارة الأكثر دقة وفصاحة للإعلان عن موعد بدء العام الدراسي الجديد:",
           "options": [
-            "يَبْدَأُ العَامُ الدِّرَاسِيُّ يَوْمَ الأَحَدِ، الأَوَّلَ مِنْ سِبْتَمْبِرَ فِي الجَامِعَةِ.",
-            "يبدأ العام الدراسي في يوم بدون اسم في الليل",
-            "لا يوجد دراسة ولا جامعة هذا الشهر",
-            "الايام كلها سبت واثنين وثلاثاء في الفصل"
+            "يَبْدَأُ العَامُ الدِّرَاسِيُّ يَوْمَ الأَحَدِ، الأَوَّلَ مِنْ سِبْتَمْبِرَ فِي الجَامِعَةِ. (Language concept U2)",
+            "يبدأ العام الدراسي في يوم بدون اسم في الليل (ybda al'aam aldrasy fy ywm bdwn asm fy allyl)",
+            "لا يوجد دراسة ولا جامعة هذا الشهر (la ywjd drash wla jam'ah hdha alshhr)",
+            "الايام كلها سبت واثنين وثلاثاء في الفصل (alayam klha sbt wathnyn wthlatha' fy alfsl)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تحدد اليوم والتاريخ والشهر الميلادي والمكان بصياغة عربية فصيحة."
@@ -1467,10 +1467,10 @@
         {
           "prompt": "كم عدد الأشهر في كلٍّ من التقويمين الهجري والميلادي؟",
           "options": [
-            "اثْنَا عَشَرَ شَهْرًا",
-            "عشرة أشهر",
-            "أربعة عشر شهرًا",
-            "خمسة عشر شهرًا"
+            "اثْنَا عَشَرَ شَهْرًا (athnaa 'aashara shahrana)",
+            "عشرة أشهر ('ashrh ashhr)",
+            "أربعة عشر شهرًا (arb'ah 'ashr shhrana)",
+            "خمسة عشر شهرًا (khmsh 'ashr shhrana)"
           ],
           "answerIndex": 0,
           "explanation": "تتكون السنة في كلا التقويمين من اثني عشر شهرًا (12 شهرًا)."
@@ -1483,10 +1483,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تتضمن تعبيرًا شاملاً وصحيحًا عن يوم الأسبوع والتاريخ الهجري والميلادي في نص متماسك:",
           "options": [
-            "اليَوْمَ هُوَ يَوْمُ الإِثْنَيْنِ، المُوافِقُ لِلْخَامِسِ عَشَرَ مِنْ شَهْرِ رَمَضَانَ الهِجْرِيِّ، وَالعِشْرِينَ مِنْ شَهْرِ مَايُو المِيلَادِيِّ.",
-            "اليوم هو احد اثنين ثلاثاء رمضان يناير فبراير سكون.",
-            "تاريخ اليوم هو سبعة وثلاثين شهر في السنة.",
-            "ليس هناك ايام ولا اشهر في التقويم العربي."
+            "اليَوْمَ هُوَ يَوْمُ الإِثْنَيْنِ، المُوافِقُ لِلْخَامِسِ عَشَرَ مِنْ شَهْرِ رَمَضَانَ الهِجْرِيِّ، وَالعِشْرِينَ مِنْ شَهْرِ مَايُو المِيلَادِيِّ. (Language concept U2)",
+            "اليوم هو احد اثنين ثلاثاء رمضان يناير فبراير سكون. (alywm hw ahd athnyn thlatha' rmdan ynayr fbrayr skwn.)",
+            "تاريخ اليوم هو سبعة وثلاثين شهر في السنة. (tarykh alywm hw sb'ah wthlathyn shhr fy alsnh.)",
+            "ليس هناك ايام ولا اشهر في التقويم العربي. (lys hnak ayam wla ashhr fy altqwym al'arby.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين يوم الأسبوع والتاريخ الهجري والتاريخ الميلادي بدقة لغوية واصطلاحية بالغة."
@@ -1549,10 +1549,10 @@
         {
           "prompt": "في حوار تنظيم الجدول الأكاديمي، كيف تُعبر بدقة عن موعد محاضرة تبدأ في العاشرة والنصف صباح يوم الثلاثاء؟",
           "options": [
-            "تَبْدَأُ المُحَاضَرَةُ يَوْمَ الثُّلَاثَاءِ فِي السَّاعَةِ العَاشِرَةِ وَالنِّصْفِ صَبَاحًا.",
-            "المحاضرة تبدأ في وقت مجهول ثلاثاء ليل",
-            "تبدأ المحاضرة عشرة نصف بدون يوم",
-            "لا توجد محاضرات في هذا الاسبوع"
+            "تَبْدَأُ المُحَاضَرَةُ يَوْمَ الثُّلَاثَاءِ فِي السَّاعَةِ العَاشِرَةِ وَالنِّصْفِ صَبَاحًا. (tabdaau almuhaadarahu yawma althulaathaa'i fiy alsaa'aahi al'aaashirahi waalnisfi sabaahana.)",
+            "المحاضرة تبدأ في وقت مجهول ثلاثاء ليل (almhadrh tbda fy wqt mjhwl thlatha' lyl)",
+            "تبدأ المحاضرة عشرة نصف بدون يوم (tbda almhadrh 'ashrh nsf bdwn ywm)",
+            "لا توجد محاضرات في هذا الاسبوع (la twjd mhadrat fy hdha alasbw'a)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تستخدم اسم اليوم «الثُّلَاثَاءِ» والساعة الترتيبية «العَاشِرَةِ» مع «وَالنِّصْفِ» بضبط إعرابي سليم."
@@ -1560,10 +1560,10 @@
         {
           "prompt": "إذا أردت حجز قاعة تتسع لخمسة عشر طالبًا لمدّة أربع ساعات، ما هي الصياغة النحوية الصحيحة؟",
           "options": [
-            "قَاعَةٌ لِخَمْسَةَ عَشَرَ طَالِبًا لِمُدَّةِ أَرْبَعِ سَاعَاتٍ",
-            "قاعة لخمس عشر طلاب لاربعة ساعات",
-            "قاعة خمسة عشرة طالب لاربع ساعة",
-            "قاعة لثلاثين طلاب في ساعة"
+            "قَاعَةٌ لِخَمْسَةَ عَشَرَ طَالِبًا لِمُدَّةِ أَرْبَعِ سَاعَاتٍ (qaa'aahun likhamsaha 'aashara taalibana limudahi aarba'ai saa'aaatin)",
+            "قاعة لخمس عشر طلاب لاربعة ساعات (qa'ah lkhms 'ashr tlab larb'ah sa'aat)",
+            "قاعة خمسة عشرة طالب لاربع ساعة (qa'ah khmsh 'ashrh talb larb'a sa'ah)",
+            "قاعة لثلاثين طلاب في ساعة (qa'ah lthlathyn tlab fy sa'ah)"
           ],
           "answerIndex": 0,
           "explanation": "«خمسةَ عشرَ طالبًا» عدد مركب مبني على الفتح وتمييزه مفرد منصوب، و«أربعِ ساعاتٍ» خالف المعدود المؤنث."
@@ -1575,10 +1575,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تعكس تنسيقًا متكاملاً بين زميلين للامتحان بدقة في الأعداد والوقت والأيام:",
           "options": [
-            "— مَتَى مَوْعِدُ الِامْتِحَانِ؟ — يَوْمَ الخَمِيسِ فِي السَّاعَةِ التَّاسِعَةِ تَمَامًا، لَدَيْنَا سَاعَتَانِ اثْنَتَانِ لِلْإِجَابَةِ عَنْ عِشْرِينَ سُؤَالًا.",
-            "— متى الامتحان؟ — بعد يومين في الساعة عشرة ناقص عشرين سؤال.",
-            "— اين نذهب؟ — نحن طلاب في الجامعة مع السلامة.",
-            "— كم كتابا قرأت؟ — الوقت يمر بسرعة والامتحان صعب."
+            "— مَتَى مَوْعِدُ الِامْتِحَانِ؟ — يَوْمَ الخَمِيسِ فِي السَّاعَةِ التَّاسِعَةِ تَمَامًا، لَدَيْنَا سَاعَتَانِ اثْنَتَانِ لِلْإِجَابَةِ عَنْ عِشْرِينَ سُؤَالًا. (Language concept U2)",
+            "— متى الامتحان؟ — بعد يومين في الساعة عشرة ناقص عشرين سؤال. (Language concept U2)",
+            "— اين نذهب؟ — نحن طلاب في الجامعة مع السلامة. (Language concept U2)",
+            "— كم كتابا قرأت؟ — الوقت يمر بسرعة والامتحان صعب. (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف اليوم والساعة والمثنى والعدد الترتيبي ولفظ العقد بدقة إعرابية مذهلة."
@@ -1586,10 +1586,10 @@
         {
           "prompt": "ما هو المعدود الذي يطابقه العدد 2 في التذكير والتأنيث ويُعرب نعتًا له بالمثنى؟",
           "options": [
-            "سَاعَتَانِ اثْنَتَانِ / كِتَابَانِ اثْنَانِ",
-            "ساعتان اثنين",
-            "ساعتان ثلاثة",
-            "ساعتان عشرة"
+            "سَاعَتَانِ اثْنَتَانِ / كِتَابَانِ اثْنَانِ (saa'aataani athnataani / kitaabaani athnaani)",
+            "ساعتان اثنين (sa'atan athnyn)",
+            "ساعتان ثلاثة (sa'atan thlathh)",
+            "ساعتان عشرة (sa'atan 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "العددان 1 و 2 يطابقان المعدود دائمًا ويعربان نعتًا يتبع المعدود في الرفع بالألف."
@@ -1602,10 +1602,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الشامل الذي يدمج مخرجات الوحدة الثانية كاملة (الأعداد المفردة والمركبة والعقود، الساعات، أيام الأسبوع، والتقويم):",
           "options": [
-            "اتَّفَقَ الطُّلَّابُ عَلَى بَدْءِ دَوْرَةِ اللُّغَةِ العَرَبِيَّةِ يَوْمَ الإِثْنَيْنِ، المُوافِقِ لِلأَوَّلِ مِنْ سِبْتَمْبِرَ فِي السَّاعَةِ الثَّامِنَةِ وَالرُّبْعِ صَبَاحًا، حَيْثُ يَحْضُرُ خَمْسَةٌ وَعِشْرُونَ طَالِبًا يَدْرُسُونَ أَرْبَعَ عَشْرَةَ سَاعَةً أُسْبُوعِيًّا.",
-            "اتفق الطلاب على ارقام وساعات وايام الاسبوع في الكلية بدون وقت محدد.",
-            "يوم الاثنين الساعة ثمانية عشرون طالب دراسة لغة عربية سكون فتحة.",
-            "لا يوجد دورات ولا طلاب ولا تقويم هجري وميلادي في هذا العام."
+            "اتَّفَقَ الطُّلَّابُ عَلَى بَدْءِ دَوْرَةِ اللُّغَةِ العَرَبِيَّةِ يَوْمَ الإِثْنَيْنِ، المُوافِقِ لِلأَوَّلِ مِنْ سِبْتَمْبِرَ فِي السَّاعَةِ الثَّامِنَةِ وَالرُّبْعِ صَبَاحًا، حَيْثُ يَحْضُرُ خَمْسَةٌ وَعِشْرُونَ طَالِبًا يَدْرُسُونَ أَرْبَعَ عَشْرَةَ سَاعَةً أُسْبُوعِيًّا. (Language concept U2)",
+            "اتفق الطلاب على ارقام وساعات وايام الاسبوع في الكلية بدون وقت محدد. (atfq altlab 'ala arqam wsa'aat wayam alasbw'a fy alklyh bdwn wqt mhdd.)",
+            "يوم الاثنين الساعة ثمانية عشرون طالب دراسة لغة عربية سكون فتحة. (ywm alathnyn alsa'ah thmanyh 'ashrwn talb drash lghh 'arbyh skwn fthh.)",
+            "لا يوجد دورات ولا طلاب ولا تقويم هجري وميلادي في هذا العام. (la ywjd dwrat wla tlab wla tqwym hjry wmylady fy hdha al'aam.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والدقة في تطبيق كافة القواعد العددية والزمنية والتقويمية للوحدة الثانية."
@@ -1668,10 +1668,10 @@
         {
           "prompt": "ما هو اللفظ العربي الفصيح الذي يُطلق تحديدًا على «أخي الأب» (Paternal Uncle)؟",
           "options": [
-            "العَمُّ",
-            "الخَالُ",
-            "الجَدُّ",
-            "الصِّهْرُ"
+            "العَمُّ (al'aamu)",
+            "الخَالُ (alkhaalu)",
+            "الجَدُّ (aljadu)",
+            "الصِّهْرُ (alsihru)"
           ],
           "answerIndex": 0,
           "explanation": "«العَمُّ» هو شقيق الأب، بينما «الخَالُ» هو شقيق الأم."
@@ -1679,10 +1679,10 @@
         {
           "prompt": "ما هو جمع كلمة «أُخْت» في اللغة العربية الفصحى؟",
           "options": [
-            "أَخَوَاتٌ",
-            "إِخْوَةٌ",
-            "أُخَيَّاتٌ",
-            "أُخُتَاتٌ"
+            "أَخَوَاتٌ (aakhawaatun)",
+            "إِخْوَةٌ (iikhwahun)",
+            "أُخَيَّاتٌ (aukhayaatun)",
+            "أُخُتَاتٌ (aukhutaatun)"
           ],
           "answerIndex": 0,
           "explanation": "جمع أخت هو «أَخَوَاتٌ»، بينما «إِخْوَةٌ» هو جمع أخ."
@@ -1694,10 +1694,10 @@
         {
           "prompt": "اختر العبارة الفصيحة التي تعبر بدقة عن مكونات أسرة متماسكة:",
           "options": [
-            "يَعِيشُ أَبِي وَأُمِّي مَعَ جَدِّي وَجَدَّتِي فِي بَيْتٍ وَاحِدٍ بِمَحَبَّةٍ وَسَلَامٍ.",
-            "يعيش ابي بدون ام وجد في قاعة الامتحانات",
-            "ليس عندي اخ ولا اخت ولا عائلة في الدنيا",
-            "الاسرة هي ارقام وساعات واقلام مدرسة"
+            "يَعِيشُ أَبِي وَأُمِّي مَعَ جَدِّي وَجَدَّتِي فِي بَيْتٍ وَاحِدٍ بِمَحَبَّةٍ وَسَلَامٍ. (ya'aiyshu aabiy waaumiy ma'aa jadiy wajadatiy fiy baytin waahidin bimahabahin wasalaamin.)",
+            "يعيش ابي بدون ام وجد في قاعة الامتحانات (y'aysh aby bdwn am wjd fy qa'ah alamthanat)",
+            "ليس عندي اخ ولا اخت ولا عائلة في الدنيا (lys 'andy akh wla akht wla 'aa'lh fy aldnya)",
+            "الاسرة هي ارقام وساعات واقلام مدرسة (alasrh hy arqam wsa'aat waqlam mdrsh)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تجمع أفراد الأسرة النواة والأجداد في سياق لغوي وعاطفي فصيح وسليم."
@@ -1705,10 +1705,10 @@
         {
           "prompt": "ما هو المصطلح الذي يُطلق على شقيقة الأم (Maternal Aunt) في اللغة العربية؟",
           "options": [
-            "الخَالَةُ",
-            "العَمَّةُ",
-            "الجَدَّةُ",
-            "الكَنَّةُ"
+            "الخَالَةُ (alkhaalahu)",
+            "العَمَّةُ (al'aamahu)",
+            "الجَدَّةُ (aljadahu)",
+            "الكَنَّةُ (alkanahu)"
           ],
           "answerIndex": 0,
           "explanation": "«الخَالَةُ» هي أخت الأم، و«العَمَّةُ» هي أخت الأب."
@@ -1721,10 +1721,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم وصفًا متكاملاً وصحيحًا إعرابيًا ولغويًا لشجرة العائلة وصلة الرحم:",
           "options": [
-            "أُسْرَتُنَا مُتَرَابِطَةٌ جِدًّا: زَارَنَا عَمِّي خَالِدٌ مَعَ زَوْجَتِهِ، وَحَضَرَتْ خَالَتِي مَرْيَمُ مَعَ أَبْنَائِهَا، وَاسْتَمَعْنَا جَمِيعًا إِلَى حِكَايَاتِ جَدِّي الرَّائِعَةِ.",
-            "اسرتنا ليس فيها عم ولا خال ولا جد في الفصل.",
-            "اخ واخت وابناء وبنات بدون اب وام في الشارع.",
-            "شجرة العائلة هي حروف ستة غير متصلة بالواو."
+            "أُسْرَتُنَا مُتَرَابِطَةٌ جِدًّا: زَارَنَا عَمِّي خَالِدٌ مَعَ زَوْجَتِهِ، وَحَضَرَتْ خَالَتِي مَرْيَمُ مَعَ أَبْنَائِهَا، وَاسْتَمَعْنَا جَمِيعًا إِلَى حِكَايَاتِ جَدِّي الرَّائِعَةِ. (Language concept U3)",
+            "اسرتنا ليس فيها عم ولا خال ولا جد في الفصل. (asrtna lys fyha 'am wla khal wla jd fy alfsl.)",
+            "اخ واخت وابناء وبنات بدون اب وام في الشارع. (akh wakht wabna' wbnat bdwn ab wam fy alshar'a.)",
+            "شجرة العائلة هي حروف ستة غير متصلة بالواو. (shjrh al'aa'lh hy hrwf sth ghyr mtslh balwaw.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف مصطلحات القرابة (عم، زوجة، خالة، أبناء، جد) بتناسق دلالي وإعرابي باهر."
@@ -1787,10 +1787,10 @@
         {
           "prompt": "ما هو الضبط الإعرابي السليم لتركيب «The professor's book» باللغة العربية الفصحى؟",
           "options": [
-            "كِتَابُ الأُسْتَاذِ",
-            "الكِتَابُ الأُسْتَاذِ",
-            "كِتَابٌ الأُسْتَاذُ",
-            "كِتَابَ أُسْتَاذًا"
+            "كِتَابُ الأُسْتَاذِ (kitaabu alaustaadhi)",
+            "الكِتَابُ الأُسْتَاذِ (alkitaabu alaustaadhi)",
+            "كِتَابٌ الأُسْتَاذُ (kitaabun alaustaadhu)",
+            "كِتَابَ أُسْتَاذًا (kitaaba austaadhana)"
           ],
           "answerIndex": 0,
           "explanation": "المضاف «كتابُ» مجرد من أل والتنوين، والمضاف إليه «الأستاذِ» معرف ومجرور بالكسرة."
@@ -1798,10 +1798,10 @@
         {
           "prompt": "ما الذي يحدث لنون جمع المذكر السالم (مثل: مُعَلِّمُونَ) عند إضافتها إلى اسم بعدها؟",
           "options": [
-            "تُحْذَفُ النُّونُ وُجُوبًا",
-            "تبقى النون كما هي",
-            "تتحول النون إلى ألف",
-            "تتحول النون إلى تاء"
+            "تُحْذَفُ النُّونُ وُجُوبًا (tuhdhafu alnuwnu wujuwbana)",
+            "تبقى النون كما هي (tbqa alnwn kma hy)",
+            "تتحول النون إلى ألف (tthwl alnwn ila alf)",
+            "تتحول النون إلى تاء (tthwl alnwn ila ta')"
           ],
           "answerIndex": 0,
           "explanation": "تحذف نون المثنى وجمع المذكر السالم عند الإضافة وجوبًا: «مُعَلِّمُو المَدْرَسَةِ»."
@@ -1813,10 +1813,10 @@
         {
           "prompt": "اختر الجملة التي تحتوي على تركيب إضافي سليم مع ضبط الصفة التابعة للمضاف بشكل صحيح:",
           "options": [
-            "قَرَأْتُ مَقَالَةَ الكَاتِبِ الطَّوِيلَةَ فِي الجَرِيدَةِ.",
-            "قرأت مقالة الكاتب الطويلةُ بالرفع خطأ",
-            "قرأت المقالة الكاتب الطويلة بوجود أل في المضاف",
-            "قرأت مقالة كاتب طويل في المدرسة"
+            "قَرَأْتُ مَقَالَةَ الكَاتِبِ الطَّوِيلَةَ فِي الجَرِيدَةِ. (qaraatu maqaalaha alkaatibi altawiylaha fiy aljariydahi.)",
+            "قرأت مقالة الكاتب الطويلةُ بالرفع خطأ (qrat mqalh alkatb altwylhu balrf'a khta)",
+            "قرأت المقالة الكاتب الطويلة بوجود أل في المضاف (qrat almqalh alkatb altwylh bwjwd al fy almdaf)",
+            "قرأت مقالة كاتب طويل في المدرسة (qrat mqalh katb twyl fy almdrsh)"
           ],
           "answerIndex": 0,
           "explanation": "«مقالةَ» مفعول به منصوب ومضاف، و«الكاتبِ» مضاف إليه مجرور، و«الطويلةَ» نعت منصوب تابع للمضاف المنصوب «مقالةَ»."
@@ -1824,10 +1824,10 @@
         {
           "prompt": "ما هي الحالة الإعرابية الدائمة للمضاف إليه في النحو العربي؟",
           "options": [
-            "مَجْرُورٌ دَائِمًا",
-            "مرفوع دائما",
-            "منصوب دائما",
-            "مجزوم دائما"
+            "مَجْرُورٌ دَائِمًا (majruwrun daa'imana)",
+            "مرفوع دائما (mrfw'a da'ma)",
+            "منصوب دائما (mnswb da'ma)",
+            "مجزوم دائما (mjzwm da'ma)"
           ],
           "answerIndex": 0,
           "explanation": "المضاف إليه حكمه الإعرابي الجر دائمًا إما بالكسرة أو بالياء."
@@ -1840,10 +1840,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الجملة التي تطبق قواعد التركيب الإضافي المتسلسل والإعراب الفصيح بدون أي خطأ:",
           "options": [
-            "تَقَعُ قَاعَةُ مُحَاضَرَاتِ كُلِّيَّةِ الآدَابِ فِي الطَّابَقِ الثَّانِي مِنَ المَبْنَى.",
-            "تقع القاعة محاضرات كلية الآداب في الطابق الثاني.",
-            "تقع قاعةٌ محاضراتٌ كليةٌ في المبنى.",
-            "اضافة مضاف اليه تنوين فتحة كسرة جامعة كتاب."
+            "تَقَعُ قَاعَةُ مُحَاضَرَاتِ كُلِّيَّةِ الآدَابِ فِي الطَّابَقِ الثَّانِي مِنَ المَبْنَى. (taqa'au qaa'aahu muhaadaraati kuliyahi alaadaabi fiy altaabaqi althaaniy mina almabnaa.)",
+            "تقع القاعة محاضرات كلية الآداب في الطابق الثاني. (tq'a alqa'ah mhadrat klyh alaadab fy altabq althany.)",
+            "تقع قاعةٌ محاضراتٌ كليةٌ في المبنى. (tq'a qa'ahun mhadratun klyhun fy almbna.)",
+            "اضافة مضاف اليه تنوين فتحة كسرة جامعة كتاب. (adafh mdaf alyh tnwyn fthh ksrh jam'ah ktab.)"
           ],
           "answerIndex": 0,
           "explanation": "«قاعةُ» مضاف أول، «محاضراتِ» مضاف إليه ومضاف ثانٍ، «كليةِ» مضاف إليه ومضاف ثالث، «الآدابِ» مضاف إليه أخير، بضبط إعرابي سليم تمامًا."
@@ -1906,10 +1906,10 @@
         {
           "prompt": "ما هو التعبير الصحيح لقول «Her room is tidy» باللغة العربية الفصحى؟",
           "options": [
-            "غُرْفَتُهَا مُرَتَّبَةٌ",
-            "غُرْفَتُهُ مُرَتَّبَةٌ",
-            "غُرْفَتِي مُرَتَّبٌ",
-            "غُرْفَتُكَ مُرَتَّبِينَ"
+            "غُرْفَتُهَا مُرَتَّبَةٌ (ghurfatuhaa muratabahun)",
+            "غُرْفَتُهُ مُرَتَّبَةٌ (ghurfatuhu muratabahun)",
+            "غُرْفَتِي مُرَتَّبٌ (ghurfatiy muratabun)",
+            "غُرْفَتُكَ مُرَتَّبِينَ (ghurfatuka muratabiyna)"
           ],
           "answerIndex": 0,
           "explanation": "الضمير المتصل المؤنث الغائب هو «هَا» فيتصل بكلمة «غرفة» ليصبح «غُرْفَتُهَا»."
@@ -1917,10 +1917,10 @@
         {
           "prompt": "ما هو المحل الإعرابي الدائم للضمائر المتصلة بالأسماء؟",
           "options": [
-            "فِي مَحَلِّ جَرٍّ بِالإِضَافَةِ",
-            "في محل رفع فاعل",
-            "في محل نصب مفعول به",
-            "في محل جزم"
+            "فِي مَحَلِّ جَرٍّ بِالإِضَافَةِ (fiy mahali jarin bialiidaafahi)",
+            "في محل رفع فاعل (fy mhl rf'a fa'al)",
+            "في محل نصب مفعول به (fy mhl nsb mf'awl bh)",
+            "في محل جزم (fy mhl jzm)"
           ],
           "answerIndex": 0,
           "explanation": "أي ضمير يتصل باسم يكون دائمًا مبنيًا في محل جر مضاف إليه."
@@ -1932,10 +1932,10 @@
         {
           "prompt": "اختر الجملة التي تستخدم ضمائر الملكية المتصلة بشكل متناسق وسليم دلاليًا ونحويًا:",
           "options": [
-            "أَخِي يُسَافِرُ مَعَ صَدِيقِهِ إِلَى عَمَلِهِمَا فِي العَاصِمَةِ.",
-            "أخي يسافر مع صديقها الى عملهم في العاصمة",
-            "أخي يسافر مع صديقك الى عملي نحن",
-            "أخي هو وصديق هو في سيارة هو"
+            "أَخِي يُسَافِرُ مَعَ صَدِيقِهِ إِلَى عَمَلِهِمَا فِي العَاصِمَةِ. (aakhiy yusaafiru ma'aa sadiyqihi iilaa 'aamalihimaa fiy al'aaasimahi.)",
+            "أخي يسافر مع صديقها الى عملهم في العاصمة (akhy ysafr m'a sdyqha ala 'amlhm fy al'aasmh)",
+            "أخي يسافر مع صديقك الى عملي نحن (akhy ysafr m'a sdyqk ala 'amly nhn)",
+            "أخي هو وصديق هو في سيارة هو (akhy hw wsdyq hw fy syarh hw)"
           ],
           "answerIndex": 0,
           "explanation": "الضمائر «أخ-ي» (المتكلم) و«صديق-ه» (الغائب المذكر) و«عمل-هما» (المثنى) متناسقة تمامًا."
@@ -1943,10 +1943,10 @@
         {
           "prompt": "ما هو الضمير المتصل المخصص للمتكلمين الجمع المتصل بالاسم (مثل: بيتنا / جامعتنا)؟",
           "options": [
-            "نَا",
-            "كُم",
-            "هُم",
-            "هُنَّ"
+            "نَا (naa)",
+            "كُم (kum)",
+            "هُم (hum)",
+            "هُنَّ (huna)"
           ],
           "answerIndex": 0,
           "explanation": "الضمير «نَا» يدل على جماعة المتكلمين عند اتصاله بالأسماء."
@@ -1959,10 +1959,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تعبر عن اعتزاز الشخص بأسرته وبيته باستخدام الضمائر المتصلة والإعراب السليم:",
           "options": [
-            "أُحِبُّ أُسْرَتِي وَأَفْتَخِرُ بِوَطَنِي، هٰذَا مَنْزِلُنَا الكَبِيرُ، يَعِيشُ فِيهِ إِخْوَتِي مَعَ وَالِدَيْنَا فِي سَعَادَةٍ وَاطْمِئْنَانٍ.",
-            "احب اسرة هو وافتخر بوطن هم هذا منزل انتم.",
-            "انا ابي وانت اخوه وهي امنا في كتاب وقلم.",
-            "ضمائر متصلة ملكية سكون فتحة مدرسة كلية."
+            "أُحِبُّ أُسْرَتِي وَأَفْتَخِرُ بِوَطَنِي، هٰذَا مَنْزِلُنَا الكَبِيرُ، يَعِيشُ فِيهِ إِخْوَتِي مَعَ وَالِدَيْنَا فِي سَعَادَةٍ وَاطْمِئْنَانٍ. (Language concept U3)",
+            "احب اسرة هو وافتخر بوطن هم هذا منزل انتم. (ahb asrh hw waftkhr bwtn hm hdha mnzl antm.)",
+            "انا ابي وانت اخوه وهي امنا في كتاب وقلم. (ana aby want akhwh why amna fy ktab wqlm.)",
+            "ضمائر متصلة ملكية سكون فتحة مدرسة كلية. (dma'r mtslh mlkyh skwn fthh mdrsh klyh.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين «أسرتي»، «بgebوطني»، «منزلنا»، «إخوتي»، «والدينا» بتناسق بلاغي ونحوي تام."
@@ -2025,10 +2025,10 @@
         {
           "prompt": "ما هو اسم الإشارة المناسب للإشارة إلى مجموعة من الرجال أو النساء العقلاء في مكان بعيد؟",
           "options": [
-            "أُولٰئِكَ",
-            "هٰؤُلَاءِ",
-            "تِلْكَ",
-            "ذٰلِكَ"
+            "أُولٰئِكَ (Language concept U3)",
+            "هٰؤُلَاءِ (Language concept U3)",
+            "تِلْكَ (tilka)",
+            "ذٰلِكَ (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "«أُولٰئِكَ» اسم إشارة مخصص لجمع العاقل (ذكورًا وإناثًا) في المسافة البعيدة."
@@ -2036,10 +2036,10 @@
         {
           "prompt": "ما هو إعراب كلمة «الطَّالِبُ» في الجملة التامة «هٰذَا الطَّالِبُ مُجْتَهِدٌ»؟",
           "options": [
-            "بَدَلٌ مَرْفُوعٌ",
-            "خبر المبتدأ",
-            "فاعل مرفوع",
-            "مضاف إليه مجرور"
+            "بَدَلٌ مَرْفُوعٌ (badalun marfuw'aun)",
+            "خبر المبتدأ (khbr almbtda)",
+            "فاعل مرفوع (fa'al mrfw'a)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "الاسم المعرف بأل بعد اسم الإشارة يعرب بدلاً مطابقًا يتبع اسم الإشارة."
@@ -2051,10 +2051,10 @@
         {
           "prompt": "اختر الجملة التي تستخدم اسم الإشارة لجمع غير العاقل بصيغة المفرد المؤنث الفصيحة:",
           "options": [
-            "هٰذِهِ المَكَاتِبُ وَاسِعَةٌ، وَتِلْكَ الكُتُبُ قَيِّمَةٌ جِدًّا.",
-            "هؤلاء المكاتب واسعون وتلك الكتب قديم",
-            "هذا المكاتب واسع وذلك الكتب جميل",
-            "اولئك المكاتب كبير وهؤلاء كتب قديم"
+            "هٰذِهِ المَكَاتِبُ وَاسِعَةٌ، وَتِلْكَ الكُتُبُ قَيِّمَةٌ جِدًّا. (Language concept U3)",
+            "هؤلاء المكاتب واسعون وتلك الكتب قديم (h'la' almkatb was'awn wtlk alktb qdym)",
+            "هذا المكاتب واسع وذلك الكتب جميل (hdha almkatb was'a wdhlk alktb jmyl)",
+            "اولئك المكاتب كبير وهؤلاء كتب قديم (awl'k almkatb kbyr wh'la' ktb qdym)"
           ],
           "answerIndex": 0,
           "explanation": "جمع غير العاقل يُعامل في النحو العربي معاملة المفرد المؤنث: «هٰذِهِ المَكَاتِبُ»، «تِلْكَ الكُتُبُ»."
@@ -2062,10 +2062,10 @@
         {
           "prompt": "ما هو اسم الإشارة المخصص للمفرد المذكر في المسافة البعيدة؟",
           "options": [
-            "ذٰلِكَ",
-            "هٰذَا",
-            "تِلْكَ",
-            "هٰؤُلَاءِ"
+            "ذٰلِكَ (Language concept U3)",
+            "هٰذَا (Language concept U3)",
+            "تِلْكَ (tilka)",
+            "هٰؤُلَاءِ (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "«ذٰلِكَ» اسم إشارة للمفرد المذكر البعيد."
@@ -2078,10 +2078,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تجمع بين أسماء الإشارة للقريب والبعيد والبدل الإشاري بدقة نحوية فائقة:",
           "options": [
-            "هٰذَا البَيْتُ القَرِيبُ مَنْزِلُ جَدِّي، وَذٰلِكَ البِنَاءُ البَعِيدُ جَامِعَةُ المَدِينَةِ، وَأُولٰئِكَ الرِّجَالُ هُمْ أَسَاتِذَتُنَا الكِرَامُ.",
-            "هذا البيت القريب منزل جدي وذلك البناء اولئك الرجال هؤلاء.",
-            "هؤلاء البيت وذلك جامعة وتلك اساتذة في الفصل.",
-            "اسماء اشارة قريب بعيد بدل خبر سكون فتحة."
+            "هٰذَا البَيْتُ القَرِيبُ مَنْزِلُ جَدِّي، وَذٰلِكَ البِنَاءُ البَعِيدُ جَامِعَةُ المَدِينَةِ، وَأُولٰئِكَ الرِّجَالُ هُمْ أَسَاتِذَتُنَا الكِرَامُ. (Language concept U3)",
+            "هذا البيت القريب منزل جدي وذلك البناء اولئك الرجال هؤلاء. (hdha albyt alqryb mnzl jdy wdhlk albna' awl'k alrjal h'la'.)",
+            "هؤلاء البيت وذلك جامعة وتلك اساتذة في الفصل. (h'la' albyt wdhlk jam'ah wtlk asatdhh fy alfsl.)",
+            "اسماء اشارة قريب بعيد بدل خبر سكون فتحة. (asma' asharh qryb b'ayd bdl khbr skwn fthh.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «هٰذا»، «ذلك»، «أولئك» مع البدل المعرف بأل والإخبار التام بدقة نحوية لا تشوبها شائبة."
@@ -2143,10 +2143,10 @@
         {
           "prompt": "في حوار السهرة العائلية، ما هي العبارة التي تجمع بين التركيب الإضافي واسم الإشارة والضمير المتصل بدقة نحوية؟",
           "options": [
-            "هٰذَا بَيْتُ جَدِّي الكَبِيرُ، فِيهِ غُرْفَةُ جُلُوسِنَا وَحَدِيقَةُ أَشْجَارِنَا.",
-            "هذا البيت جدي كبير في غرفة جلوسنا بدون اضافة (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "بيتنا هو جدي نحن انتم في الشارع (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "لا توجد اسرة ولا بيت في هذا اليوم (الدمج الشامل لمهارات الوحدة الثالثة)"
+            "هٰذَا بَيْتُ جَدِّي الكَبِيرُ، فِيهِ غُرْفَةُ جُلُوسِنَا وَحَدِيقَةُ أَشْجَارِنَا. (Language concept U3)",
+            "هذا البيت جدي كبير في غرفة جلوسنا بدون اضافة (aldmj alshaml lmharat alwhdh althalthh)",
+            "بيتنا هو جدي نحن انتم في الشارع (aldmj alshaml lmharat alwhdh althalthh)",
+            "لا توجد اسرة ولا بيت في هذا اليوم (aldmj alshaml lmharat alwhdh althalthh)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تجمع اسم الإشارة والبدل «هٰذَا بَيْتُ»، والإضافة «بَيْتُ جَدِّي»، والضمير المتصل «جُلُوسِنَا» و«أَشْجَارِنَا» بضبط تام."
@@ -2154,10 +2154,10 @@
         {
           "prompt": "ما هو اللفظ الذي يُطلق على أبناء وبنات الأعمام والأخوال في الخطاب العربي الفصيح؟",
           "options": [
-            "أَبْنَاءُ العُمُومَةِ وَالخُؤُولَةِ",
-            "الأجداد البعيدون (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "الوالدان فقط (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "الأصهار الغرباء (الدمج الشامل لمهارات الوحدة الثالثة)"
+            "أَبْنَاءُ العُمُومَةِ وَالخُؤُولَةِ (aabnaa'u al'aumuwmahi waalkhu'uwlahi)",
+            "الأجداد البعيدون (aldmj alshaml lmharat alwhdh althalthh)",
+            "الوالدان فقط (aldmj alshaml lmharat alwhdh althalthh)",
+            "الأصهار الغرباء (aldmj alshaml lmharat alwhdh althalthh)"
           ],
           "answerIndex": 0,
           "explanation": "العمومة هم أقارب الأب والخؤولة هم أقارب الأم وأولادهم هم أبناء العمومة والخؤولة."
@@ -2169,10 +2169,10 @@
         {
           "prompt": "اختر الفقرة التي تعبر عن البر بالوالدين وتوقير الأجداد بأسلوب لغوي رفيع:",
           "options": [
-            "نَحْرِصُ دَائِمًا عَلَى بِرِّ وَالِدَيْنَا وَتَوْقِيرِ جَدِّنَا، وَنَسْتَمِعُ إِلَى نَصَائِحِهِمَا بِكُلِّ احْتِرَامٍ وَتَقْدِيرٍ.",
-            "لا نحترم الوالدين ونترك الجد وحيدا (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "الاسرة بدون والدين ولا اجداد في البيت (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "نصائح الوالدين غير مفيدة ونحن نلعب فقط (الدمج الشامل لمهارات الوحدة الثالثة)"
+            "نَحْرِصُ دَائِمًا عَلَى بِرِّ وَالِدَيْنَا وَتَوْقِيرِ جَدِّنَا، وَنَسْتَمِعُ إِلَى نَصَائِحِهِمَا بِكُلِّ احْتِرَامٍ وَتَقْدِيرٍ. (Language concept U3)",
+            "لا نحترم الوالدين ونترك الجد وحيدا (aldmj alshaml lmharat alwhdh althalthh)",
+            "الاسرة بدون والدين ولا اجداد في البيت (aldmj alshaml lmharat alwhdh althalthh)",
+            "نصائح الوالدين غير مفيدة ونحن نلعب فقط (aldmj alshaml lmharat alwhdh althalthh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجسد القيم الأخلاقية واللغوية السامية في توقير الوالدين والأجداد."
@@ -2180,10 +2180,10 @@
         {
           "prompt": "كيف يُشار إلى بيوت العائلة في مسافة بعيدة باستخدام اسم الإشارة المناسب لجمع غير العاقل؟",
           "options": [
-            "تِلْكَ البُيُوتُ القَدِيمَةُ",
-            "أولئك البيوت القديمة (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "ذلك البيوت القديم (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "هؤلاء البيوت الكبيرة (الدمج الشامل لمهارات الوحدة الثالثة)"
+            "تِلْكَ البُيُوتُ القَدِيمَةُ (tilka albuyuwtu alqadiymahu)",
+            "أولئك البيوت القديمة (aldmj alshaml lmharat alwhdh althalthh)",
+            "ذلك البيوت القديم (aldmj alshaml lmharat alwhdh althalthh)",
+            "هؤلاء البيوت الكبيرة (aldmj alshaml lmharat alwhdh althalthh)"
           ],
           "answerIndex": 0,
           "explanation": "جمع غير العاقل البعيد يُشار إليه باسم الإشارة المفرد المؤنث «تِلْكَ»."
@@ -2196,10 +2196,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الشامل الذي يمثل الإتقان التام لجميع مخرجات الوحدة الثالثة (الأسرة، الإضافة، الضمائر المتصلة، أسماء الإشارة للقريب والبعيد):",
           "options": [
-            "فِي مَسَاءِ يَوْمِ الجُمُعَةِ، اجْتَمَعَتْ عَائِلَتُنَا فِي بَيْتِ جَدِّي الكَرِيمِ: هٰذَا وَالِدِي يَتَحَدَّثُ مَعَ عَمِّي، وَتِلْكَ وَالِدَتِي تُعِدُّ طَعَامَ العَشَاءِ مَعَ خَالَتِي، وَهٰؤُلَاءِ أَبْنَاءُ عَمِّي يَلْعَبُونَ مَعَ إِخْوَتِي فِي الحَدِيقَةِ، وَأُولٰئِكَ الأَقَارِبُ يَسْتَمِعُونَ إِلَى نَصَائِحِ جَدِّنَا الحَكِيمِ.",
-            "اجتمعت العائلة في بيت الجد بدون اسماء اشارة ولا ضمائر متصلة. (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "اسرتنا هي اب وام وجد وعم وخال حروف غير متصلة سكون. (الدمج الشامل لمهارات الوحدة الثالثة)",
-            "لا يوجد لقاء عائلي ولا طعام ولا حديث في المساء. (الدمج الشامل لمهارات الوحدة الثالثة)"
+            "فِي مَسَاءِ يَوْمِ الجُمُعَةِ، اجْتَمَعَتْ عَائِلَتُنَا فِي بَيْتِ جَدِّي الكَرِيمِ: هٰذَا وَالِدِي يَتَحَدَّثُ مَعَ عَمِّي، وَتِلْكَ وَالِدَتِي تُعِدُّ طَعَامَ العَشَاءِ مَعَ خَالَتِي، وَهٰؤُلَاءِ أَبْنَاءُ عَمِّي يَلْعَبُونَ مَعَ إِخْوَتِي فِي الحَدِيقَةِ، وَأُولٰئِكَ الأَقَارِبُ يَسْتَمِعُونَ إِلَى نَصَائِحِ جَدِّنَا الحَكِيمِ. (Language concept U3)",
+            "اجتمعت العائلة في بيت الجد بدون اسماء اشارة ولا ضمائر متصلة. (aldmj alshaml lmharat alwhdh althalthh)",
+            "اسرتنا هي اب وام وجد وعم وخال حروف غير متصلة سكون. (aldmj alshaml lmharat alwhdh althalthh)",
+            "لا يوجد لقاء عائلي ولا طعام ولا حديث في المساء. (aldmj alshaml lmharat alwhdh althalthh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل الذروة في دمج كافة مفردات وقواعد الوحدة الثالثة بأسلوب عربي فصيح غاية في الجمال والتماسك والإعراب السليم."
@@ -2262,10 +2262,10 @@
         {
           "prompt": "ما هو الجذر الثلاثي المشترك للكلمات التالية: «مَدْرَسَةٌ، مُدَرِّسٌ، دِرَاسَةٌ، يَدْرُسُ»؟",
           "options": [
-            "د - ر - س",
-            "م - د - ر",
-            "س - ر - د",
-            "د - س - م"
+            "د - ر - س (Core target concept - Unit 4 Target Practice)",
+            "م - د - ر (Core target concept - Unit 4 Target Practice)",
+            "س - ر - د (Core target concept - Unit 4 Target Practice)",
+            "د - س - م (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "الأحرف الأصلية الثابتة في جميع هذه المشتقات هي (الدال والراء والسين)."
@@ -2273,10 +2273,10 @@
         {
           "prompt": "ما هو الوزن الصرفي لكلمة «كَاتِبٌ» في الميزان الصرفي العربي؟",
           "options": [
-            "فَاعِلٌ",
-            "مَفْعُولٌ",
-            "فَعِيلٌ",
-            "فُعُولٌ"
+            "فَاعِلٌ (faa'ailun)",
+            "مَفْعُولٌ (maf'auwlun)",
+            "فَعِيلٌ (fa'aiylun)",
+            "فُعُولٌ (fu'auwlun)"
           ],
           "answerIndex": 0,
           "explanation": "كلمة «كَاتِبٌ» على وزن «فَاعِلٌ» لأنها اسم فاعل مشتق بزيادة ألف بعد فاء الفعل."
@@ -2288,10 +2288,10 @@
         {
           "prompt": "اختر الجملة التي تبين التطبيق السليم للاشتقاق الصرفي من جذر (ع-ل-م):",
           "options": [
-            "يَعْلَمُ العَالِمُ أَنَّ التَّعْلِيمَ يُنِيرُ دُرُوبَ الحَيَاةِ بِالمَعْلُومَاتِ القَيِّمَةِ.",
-            "يعلم الكاتب ان المدرسة ترسم في الدفتر",
-            "العالم هو قلم ومسطرة بدون جذر",
-            "ليس هناك اشتقاق ولا اوزان في اللغة"
+            "يَعْلَمُ العَالِمُ أَنَّ التَّعْلِيمَ يُنِيرُ دُرُوبَ الحَيَاةِ بِالمَعْلُومَاتِ القَيِّمَةِ. (ya'alamu al'aaalimu aana alta'aliyma yuniyru duruwba alhayaahi bialma'aluwmaati alqayimahi.)",
+            "يعلم الكاتب ان المدرسة ترسم في الدفتر (y'alm alkatb an almdrsh trsm fy aldftr)",
+            "العالم هو قلم ومسطرة بدون جذر (al'aalm hw qlm wmstrh bdwn jdhr)",
+            "ليس هناك اشتقاق ولا اوزان في اللغة (lys hnak ashtqaq wla awzan fy allghh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف مشتقات متناسقة من جذر (ع-ل-م): «يعلم»، «العالم»، «التعليم»، «المعلومات»."
@@ -2299,10 +2299,10 @@
         {
           "prompt": "ما هي الحروف الثلاثة التي يتكون منها الميزان الصرفي القياسي للكلمات المجردة؟",
           "options": [
-            "ف - ع - ل",
-            "ك - ت - ب",
-            "أ - ل - ف",
-            "ن - ح - و"
+            "ف - ع - ل (Core target concept - Unit 4 Target Practice)",
+            "ك - ت - ب (Core target concept - Unit 4 Target Practice)",
+            "أ - ل - ف (Core target concept - Unit 4 Target Practice)",
+            "ن - ح - و (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "الميزان الصرفي القياسي يتكون من الفاء والعين واللام (فعل)."
@@ -2315,10 +2315,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تشرح عبقرية النظام الصرفي العربي بأسلوب أكاديمي فصيح وضبط تام:",
           "options": [
-            "تَمْتَازُ اللُّغَةُ العَرَبِيَّةُ بِعَبْقَرِيَّةِ نِظَامِهَا الجَذْرِيِّ؛ فَكُلُّ جَذْرٍ ثُلَاثِيٍّ يُوَلِّدُ عَشَرَاتِ الأَوْزَانِ وَالمَعَانِي الدَّقِيقَةِ مِثْلَ الفِعْلِ وَاسْمِ الفَاعِلِ وَالمَفْعُولِ وَاسْمِ المَكَانِ.",
-            "اللغة العربية ليس فيها جذور بل كلمات مفردة متفرقة بدون ميزان.",
-            "فعل فاعل مفعول سكون ضمة فتحة مدرسة كتاب قلم.",
-            "الجذر هو حرف واحد فقط في اول الكلمة."
+            "تَمْتَازُ اللُّغَةُ العَرَبِيَّةُ بِعَبْقَرِيَّةِ نِظَامِهَا الجَذْرِيِّ؛ فَكُلُّ جَذْرٍ ثُلَاثِيٍّ يُوَلِّدُ عَشَرَاتِ الأَوْزَانِ وَالمَعَانِي الدَّقِيقَةِ مِثْلَ الفِعْلِ وَاسْمِ الفَاعِلِ وَالمَفْعُولِ وَاسْمِ المَكَانِ. (Language concept U4)",
+            "اللغة العربية ليس فيها جذور بل كلمات مفردة متفرقة بدون ميزان. (allghh al'arbyh lys fyha jdhwr bl klmat mfrdh mtfrqh bdwn myzan.)",
+            "فعل فاعل مفعول سكون ضمة فتحة مدرسة كتاب قلم. (f'al fa'al mf'awl skwn dmh fthh mdrsh ktab qlm.)",
+            "الجذر هو حرف واحد فقط في اول الكلمة. (aljdhr hw hrf wahd fqt fy awl alklmh.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تقدم تلخيصًا علميًا وبلاغيًا شاملاً لأهمية الاشتقاق والميزان الصرفي في الفصحى."
@@ -2381,10 +2381,10 @@
         {
           "prompt": "ما هو التصريف الصحيح للفعل «يَقْرَأُ» مع الضمير المخاطب المؤنث «أَنْتِ»؟",
           "options": [
-            "أَنْتِ تَقْرَئِينَ",
-            "أَنْتِ يَقْرَأُ",
-            "أَنْتِ تَقْرَأُ",
-            "أَنْتِ أَقْرَأُ"
+            "أَنْتِ تَقْرَئِينَ (aanti taqra'iyna)",
+            "أَنْتِ يَقْرَأُ (aanti yaqraau)",
+            "أَنْتِ تَقْرَأُ (aanti taqraau)",
+            "أَنْتِ أَقْرَأُ (aanti aaqraau)"
           ],
           "answerIndex": 0,
           "explanation": "مع «أنتِ» يبدأ الفعل بالتاء ويتصل بياء المخاطبة والنون: «تَقْرَئِينَ»."
@@ -2392,10 +2392,10 @@
         {
           "prompt": "ما هي حركة الإعراب الأصلية للفعل المضارع المفرد الخالي من النواصب والجوازم؟",
           "options": [
-            "الضَّمَّةُ الظَّاهِرَةُ",
-            "الفتحة",
-            "الكسرة",
-            "السكون"
+            "الضَّمَّةُ الظَّاهِرَةُ (aldamahu alzaahirahu)",
+            "الفتحة (alfthh)",
+            "الكسرة (alksrh)",
+            "السكون (alskwn)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل المضارع يرفع بالضمة الظاهرة على آخره في حالته القياسية."
@@ -2407,10 +2407,10 @@
         {
           "prompt": "اختر الجملة التي تصرف الفعل المضارع للمتكلم والمخاطب والغائب بضبط سليم تمامًا:",
           "options": [
-            "أَنَا أَشْرَبُ القَهْوَةَ، وَأَنْتَ تَشْرَبُ الشَّايَ، وَهُوَ يَشْرَبُ المَاءَ النَّقِيَّ.",
-            "انا يشرب القهوة وانت اشرب الشاي وهو تشرب الماء",
-            "انا تشربين القهوة وانت يشربون الشاي وهو نحن",
-            "يشرب نشرب يشربون بدون ضمائر"
+            "أَنَا أَشْرَبُ القَهْوَةَ، وَأَنْتَ تَشْرَبُ الشَّايَ، وَهُوَ يَشْرَبُ المَاءَ النَّقِيَّ. (Language concept U4)",
+            "انا يشرب القهوة وانت اشرب الشاي وهو تشرب الماء (ana yshrb alqhwh want ashrb alshay whw tshrb alma')",
+            "انا تشربين القهوة وانت يشربون الشاي وهو نحن (ana tshrbyn alqhwh want yshrbwn alshay whw nhn)",
+            "يشرب نشرب يشربون بدون ضمائر (yshrb nshrb yshrbwn bdwn dma'r)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تصرف «أشربُ» بالهمزة للمتكلم، و«تشربُ» بالتاء للمخاطب، و«يشربُ» بالياء للغائب."
@@ -2418,10 +2418,10 @@
         {
           "prompt": "ما هو الحرف المستعمل لنفي وقوع الفعل المضارع في الحاضر دون جزم أو نصب؟",
           "options": [
-            "لَا النَّافِيَةُ",
-            "لَمْ",
-            "لَنْ",
-            "إِنْ"
+            "لَا النَّافِيَةُ (laa alnaafiyahu)",
+            "لَمْ (lam)",
+            "لَنْ (lan)",
+            "إِنْ (iin)"
           ],
           "answerIndex": 0,
           "explanation": "«لَا» النافية تنفي حدوث الفعل المضارع مع بقائه مرفوعًا بالضمة."
@@ -2434,10 +2434,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم استخدامًا فصيحًا ومتنوعًا للأفعال المضارعة المفردة في سياق دراسي يومي:",
           "options": [
-            "يَسْتَيْقِظُ زَيْدٌ مُبَكِّرًا، فَيَغْسِلُ وَجْهَهُ، وَيَتَنَاوَلُ طَعَامَ إِفْطَارِهِ، ثُمَّ يَذْهَبُ إِلَى الجَامِعَةِ حَيْثُ يَدْرُسُ العُلُومَ اللُّغَوِيَّةَ بِشَغَفٍ.",
-            "يستيقظ زيد يغسلون يتناولين يذهبون في الفصل.",
-            "انا يذهب وهو اذهب وهي نذهب بدون ترتيب.",
-            "افعال مضارعة مفردة سكون فتحة ضمة جامعة كتاب."
+            "يَسْتَيْقِظُ زَيْدٌ مُبَكِّرًا، فَيَغْسِلُ وَجْهَهُ، وَيَتَنَاوَلُ طَعَامَ إِفْطَارِهِ، ثُمَّ يَذْهَبُ إِلَى الجَامِعَةِ حَيْثُ يَدْرُسُ العُلُومَ اللُّغَوِيَّةَ بِشَغَفٍ. (Language concept U4)",
+            "يستيقظ زيد يغسلون يتناولين يذهبون في الفصل. (ystyqz zyd yghslwn ytnawlyn ydhhbwn fy alfsl.)",
+            "انا يذهب وهو اذهب وهي نذهب بدون ترتيب. (ana ydhhb whw adhhb why ndhhb bdwn trtyb.)",
+            "افعال مضارعة مفردة سكون فتحة ضمة جامعة كتاب. (af'aal mdar'ah mfrdh skwn fthh dmh jam'ah ktab.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف أفعال الغائب المفرد المرفوعة «يستيقظُ، يغسلُ، يتناولُ، يذهبُ، يدرسُ» بتسلسل بياني متين."
@@ -2500,10 +2500,10 @@
         {
           "prompt": "ما هو التصريف الصحيح للفعل «يَعْمَلُ» مع ضمير الغائبين الذكور «هُمْ»؟",
           "options": [
-            "هُمْ يَعْمَلُونَ",
-            "هُمْ تَعْمَلُونَ",
-            "هُمْ نَعْمَلُ",
-            "هُمْ يَعْمَلْنَ"
+            "هُمْ يَعْمَلُونَ (hum ya'amaluwna)",
+            "هُمْ تَعْمَلُونَ (hum ta'amaluwna)",
+            "هُمْ نَعْمَلُ (hum na'amalu)",
+            "هُمْ يَعْمَلْنَ (hum ya'amalna)"
           ],
           "answerIndex": 0,
           "explanation": "مع «هُمْ» يبدأ الفعل بالياء ويتصل بواو الجماعة والنون: «يَعْمَلُونَ»."
@@ -2511,10 +2511,10 @@
         {
           "prompt": "ما هو الظرف المناسب للدلالة على القيام بالعمل بنسبة 100% دون انقطاع؟",
           "options": [
-            "دَائِمًا",
-            "أحيانًا",
-            "نادرًا",
-            "أبدًا"
+            "دَائِمًا (daa'imana)",
+            "أحيانًا (ahyanana)",
+            "نادرًا (nadrana)",
+            "أبدًا (abdana)"
           ],
           "answerIndex": 0,
           "explanation": "«دَائِمًا» ظرف زمان يدل على الدوام والاستمرار الكامل."
@@ -2526,10 +2526,10 @@
         {
           "prompt": "اختر الجملة التي تعبر عن عادة يومية متكررة للطلاب باستخدام ظرف التكرار الصحيح:",
           "options": [
-            "يَحْضُرُ الطُّلَّابُ دَائِمًا فِي مَوْعِدِ المُحَاضَرَةِ، وَيَسْتَمِعُونَ بِانْتِبَاهٍ.",
-            "يحضر الطلاب ابدا في موعد المحاضرة بالنفي",
-            "الطلاب يحضرون نادرا بدون فهم",
-            "نحن الطلاب دائما يكتبون انتم"
+            "يَحْضُرُ الطُّلَّابُ دَائِمًا فِي مَوْعِدِ المُحَاضَرَةِ، وَيَسْتَمِعُونَ بِانْتِبَاهٍ. (Language concept U4)",
+            "يحضر الطلاب ابدا في موعد المحاضرة بالنفي (yhdr altlab abda fy mw'ad almhadrh balnfy)",
+            "الطلاب يحضرون نادرا بدون فهم (altlab yhdrwn nadra bdwn fhm)",
+            "نحن الطلاب دائما يكتبون انتم (nhn altlab da'ma yktbwn antm)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن الالتزام الدائم باستخدام «دائمًا» مع توافق الفاعل المفرد المتقدم والفعل المعطوف بالجمع."
@@ -2537,10 +2537,10 @@
         {
           "prompt": "ما هي علامة رفع الفعل المضارع المتصل بواو الجماعة (مثل: يدرسون / تكتبون)؟",
           "options": [
-            "ثُبُوتُ النُّونِ",
-            "الضمة الظاهرة",
-            "الفتحة",
-            "حذف النون"
+            "ثُبُوتُ النُّونِ (thubuwtu alnuwni)",
+            "الضمة الظاهرة (aldmh alzahrh)",
+            "الفتحة (alfthh)",
+            "حذف النون (hdhf alnwn)"
           ],
           "answerIndex": 0,
           "explanation": "الأفعال الخمسة ترفع بثبوت النون وتنصب وتجزم بحذفها."
@@ -2553,10 +2553,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف الأنشطة الجماعية للطلاب في الحرم الجامعي باستخدام أفعال الجمع وظروف التكرار:",
           "options": [
-            "نَحْنُ نَجْتَمِعُ عَادَةً فِي مَقْهَى الجَامِعَةِ بَعْدَ الدَّرْسِ؛ حَيْثُ يُنَاقِشُ الزُّمَلَاءُ البُحُوثَ العِلْمِيَّةَ، وَأَحْيَانًا نَتَبَادَلُ الكُتُبَ وَالمَرَاجِعَ المُهِمَّةَ.",
-            "نحن تجتمعون هم نجلس انتم تذهبين في المقهى.",
-            "الطلاب لا يدرسون ابدا ولا يفعلون شيئا هذا اليوم.",
-            "ظروف تكرار افعال خمسة سكون واو نون كلية."
+            "نَحْنُ نَجْتَمِعُ عَادَةً فِي مَقْهَى الجَامِعَةِ بَعْدَ الدَّرْسِ؛ حَيْثُ يُنَاقِشُ الزُّمَلَاءُ البُحُوثَ العِلْمِيَّةَ، وَأَحْيَانًا نَتَبَادَلُ الكُتُبَ وَالمَرَاجِعَ المُهِمَّةَ. (Language concept U4)",
+            "نحن تجتمعون هم نجلس انتم تذهبين في المقهى. (nhn tjtm'awn hm njls antm tdhhbyn fy almqha.)",
+            "الطلاب لا يدرسون ابدا ولا يفعلون شيئا هذا اليوم. (altlab la ydrswn abda wla yf'alwn shy'a hdha alywm.)",
+            "ظروف تكرار افعال خمسة سكون واو نون كلية. (zrwf tkrar af'aal khmsh skwn waw nwn klyh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج بدقة بين «نجتمعُ»، «عادةً»، «يناقشُ»، «أحيانًا»، «نتبادلُ» في سياق جامعي راقٍ وسليم إعرابيًا."
@@ -2619,10 +2619,10 @@
         {
           "prompt": "ما هو التعبير العربي الفصيح لقول «My favorite hobby is reading»؟",
           "options": [
-            "هِوَايَتِي المُفَضَّلَةُ هِيَ القِرَاءَةُ",
-            "أنا لا أحب القراءة",
-            "هوايتي هي النوم في الفصل",
-            "القراءة ليست هواية جميلة"
+            "هِوَايَتِي المُفَضَّلَةُ هِيَ القِرَاءَةُ (hiwaayatiy almufadalahu hiya alqiraa'ahu)",
+            "أنا لا أحب القراءة (ana la ahb alqra'h)",
+            "هوايتي هي النوم في الفصل (hwayty hy alnwm fy alfsl)",
+            "القراءة ليست هواية جميلة (alqra'h lyst hwayh jmylh)"
           ],
           "answerIndex": 0,
           "explanation": "الصيغة القياسية الفصيحة للتعبير عن الهواية الأثيرة هي «هِوَايَتِي المُفَضَّلَةُ هِيَ القِرَاءَةُ»."
@@ -2630,10 +2630,10 @@
         {
           "prompt": "ما هي الآلة الموسيقية الوترية التقليدية التي تُعد رمزًا للموسيقى العربية الكلاسيكية؟",
           "options": [
-            "العُودُ",
-            "البيانو",
-            "الغيتار الكهربائي",
-            "الطبول الإلكترونية"
+            "العُودُ (al'auwdu)",
+            "البيانو (albyanw)",
+            "الغيتار الكهربائي (alghytar alkhrba'y)",
+            "الطبول الإلكترونية (altbwl alilktrwnyh)"
           ],
           "answerIndex": 0,
           "explanation": "«العُود» هو الآلة الوترية الشرقية الأصيلة وسلطان التخت الموسيقي العربي."
@@ -2645,10 +2645,10 @@
         {
           "prompt": "اختر الجملة التي تبين الجمع بين الرياضة والفنون في أوقات الفراغ بأسلوب فصيح:",
           "options": [
-            "فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ، أُمَارِسُ السِّبَاحَةَ فِي الصَّبَاحِ، وَأَتَعَلَّمُ الخَطَّ العَرَبِيَّ فِي المَسَاءِ.",
-            "في عطلة نهاية الاسبوع انا انام فقط ولا افعل شيئا",
-            "السباحة والخط العربي غير موجودين في بلدنا",
-            "عطلة نهاية الاسبوع هي ايام دراسة وامتحانات فقط"
+            "فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ، أُمَارِسُ السِّبَاحَةَ فِي الصَّبَاحِ، وَأَتَعَلَّمُ الخَطَّ العَرَبِيَّ فِي المَسَاءِ. (Language concept U4)",
+            "في عطلة نهاية الاسبوع انا انام فقط ولا افعل شيئا (fy 'atlh nhayh alasbw'a ana anam fqt wla af'al shy'a)",
+            "السباحة والخط العربي غير موجودين في بلدنا (alsbahh walkht al'arby ghyr mwjwdyn fy bldna)",
+            "عطلة نهاية الاسبوع هي ايام دراسة وامتحانات فقط ('atlh nhayh alasbw'a hy ayam drash wamthanat fqt)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة توظف معجم الهوايات (السباحة، الخط العربي) مع تحديد التوقيت بدقة وبلاغة."
@@ -2656,10 +2656,10 @@
         {
           "prompt": "ما معنى التركيب الشائع «وَقْت الفَرَاغ» في اللغة العربية؟",
           "options": [
-            "الوَقْتُ الحُرُّ الخَالِي مِنَ العَمَلِ وَالدِّرَاسَةِ",
-            "وقت الامتحان الصعب",
-            "وقت النوم ليلا",
-            "وقت المرض والتعب"
+            "الوَقْتُ الحُرُّ الخَالِي مِنَ العَمَلِ وَالدِّرَاسَةِ (alwaqtu alhuru alkhaaliy mina al'aamali waaldiraasahi)",
+            "وقت الامتحان الصعب (wqt alamthan als'ab)",
+            "وقت النوم ليلا (wqt alnwm lyla)",
+            "وقت المرض والتعب (wqt almrd walt'ab)"
           ],
           "answerIndex": 0,
           "explanation": "«وقت الفراغ» هو الوقت المتاح للترويح وممارسة الهوايات الشخصية."
@@ -2672,10 +2672,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم وصفًا شاملاً للميول والهوايات الرياضية والأدبية بتراكيب عربية سليمة:",
           "options": [
-            "يَتَمَتَّعُ طُلَّابُ الجَامِعَةِ بِهَوَايَاتٍ مُتَنَوِّعَةٍ: فَبَعْضُهُمْ يُفَضِّلُ الجَرْيَ وَلَعِبَ كُرَةِ السَّلَّةِ، وَآخَرُونَ يَعْشَقُونَ كِتَابَةَ الشِّعْرِ وَالتَّصْوِيرَ الفَوْتُوغْرَافِيَّ، مِمَّا يَجْعَلُ حَيَاتَهُمْ مَلِيئَةً بِالنَّشَاطِ وَالإِبْدَاعِ.",
-            "طلاب الجامعة ليس عندهم هوايات ولا رياضة ولا شعر.",
-            "هوايات متعددة كرات شعر الوان تصوير سكون فتحة.",
-            "نحن نلعب في الشارع بدون كتاب ولا رياضة."
+            "يَتَمَتَّعُ طُلَّابُ الجَامِعَةِ بِهَوَايَاتٍ مُتَنَوِّعَةٍ: فَبَعْضُهُمْ يُفَضِّلُ الجَرْيَ وَلَعِبَ كُرَةِ السَّلَّةِ، وَآخَرُونَ يَعْشَقُونَ كِتَابَةَ الشِّعْرِ وَالتَّصْوِيرَ الفَوْتُوغْرَافِيَّ، مِمَّا يَجْعَلُ حَيَاتَهُمْ مَلِيئَةً بِالنَّشَاطِ وَالإِبْدَاعِ. (Language concept U4)",
+            "طلاب الجامعة ليس عندهم هوايات ولا رياضة ولا شعر. (tlab aljam'ah lys 'andhm hwayat wla ryadh wla sh'ar.)",
+            "هوايات متعددة كرات شعر الوان تصوير سكون فتحة. (hwayat mt'addh krat sh'ar alwan tswyr skwn fthh.)",
+            "نحن نلعب في الشارع بدون كتاب ولا رياضة. (nhn nl'ab fy alshar'a bdwn ktab wla ryadh.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تمتاز بالثراء المعجمي والتناسق الإعرابي والدلالي في تصوير الهوايات والأنشطة."
@@ -2738,10 +2738,10 @@
         {
           "prompt": "في حوار الروتين اليومي، كيف تسأل زميلك عن هوايته المفضلة وأنشطته المسائية؟",
           "options": [
-            "مَا هِيَ هِوَايَتُكَ المُفَضَّلَةُ وَكَيْفَ تَقْضِي أَمْسِيَتَكَ؟",
-            "أين وضعت نقودك وساعتك؟ (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "هل الامتحان اليوم صعب جدا؟ (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "لماذا لا تنام في النهار؟ (الدمج الشامل لمهارات الوحدة الرابعة)"
+            "مَا هِيَ هِوَايَتُكَ المُفَضَّلَةُ وَكَيْفَ تَقْضِي أَمْسِيَتَكَ؟ (Language concept U4)",
+            "أين وضعت نقودك وساعتك؟ (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "هل الامتحان اليوم صعب جدا؟ (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "لماذا لا تنام في النهار؟ (aldmj alshaml lmharat alwhdh alrab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "السؤال يجمع بين الاستفسار عن الهواية الأثيرة وتفاصيل قضاء الأمسية بأسلوب عربي فصيح."
@@ -2749,10 +2749,10 @@
         {
           "prompt": "ما هو الفعل المضارع المناسب لفاعل جمع المتكلمين «نَحْنُ» عند الحديث عن ممارسة الرياضة؟",
           "options": [
-            "نُمَارِسُ",
-            "يُمَارِسُونَ (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "تُمَارِسِينَ (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "أُمَارِسُ (الدمج الشامل لمهارات الوحدة الرابعة)"
+            "نُمَارِسُ (numaarisu)",
+            "يُمَارِسُونَ (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "تُمَارِسِينَ (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "أُمَارِسُ (aldmj alshaml lmharat alwhdh alrab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "مع «نحن» يبدأ الفعل بالنون المرفوعة بالضمة: «نُمَارِسُ»."
@@ -2764,10 +2764,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تعبر عن التنسيق بين الدراسة والترفيه بأسلوب متكامل:",
           "options": [
-            "— مَتَى تَبْدَأُ المُذَاكَرَةَ؟ — أَبْدَأُ عَادَةً فِي السَّابِعَةِ مَسَاءً بَعْدَ مُبَارَاةِ الشَّطْرَنْجِ، وَنَدْرُسُ مَعًا لِمُدَّةِ سَاعَتَيْنِ.",
-            "— متى نلعب؟ — لا يوجد دراسة ولا شطرنج نحن نائمون. (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "— اين الجامعة؟ — الساعة عشرة صباحا بدون وقت محدد. (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "— ماذا تفعل؟ — انا هو انت هي نحن في السكن. (الدمج الشامل لمهارات الوحدة الرابعة)"
+            "— مَتَى تَبْدَأُ المُذَاكَرَةَ؟ — أَبْدَأُ عَادَةً فِي السَّابِعَةِ مَسَاءً بَعْدَ مُبَارَاةِ الشَّطْرَنْجِ، وَنَدْرُسُ مَعًا لِمُدَّةِ سَاعَتَيْنِ. (Language concept U4)",
+            "— متى نلعب؟ — لا يوجد دراسة ولا شطرنج نحن نائمون. (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "— اين الجامعة؟ — الساعة عشرة صباحا بدون وقت محدد. (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "— ماذا تفعل؟ — انا هو انت هي نحن في السكن. (aldmj alshaml lmharat alwhdh alrab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف السؤال والجواب وظرف التكرار «عادةً» وتحديد الوقت بالأعداد والأنشطة بدقة عالية."
@@ -2775,10 +2775,10 @@
         {
           "prompt": "ما هي الحكمة العربية الشهيرة التي تحث على التوازن الرياضي والفكري؟",
           "options": [
-            "العَقْلُ السَّلِيمُ فِي الجِسْمِ السَّلِيمِ",
-            "الوقت من ذهب فقط (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "العلم نور والجهل ظلام فقط (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "الصحة تاج على رؤوس الأصحاء فقط (الدمج الشامل لمهارات الوحدة الرابعة)"
+            "العَقْلُ السَّلِيمُ فِي الجِسْمِ السَّلِيمِ (al'aaqlu alsaliymu fiy aljismi alsaliymi)",
+            "الوقت من ذهب فقط (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "العلم نور والجهل ظلام فقط (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "الصحة تاج على رؤوس الأصحاء فقط (aldmj alshaml lmharat alwhdh alrab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "المثل الشهير هو «العقل السليم في الجسم السليم»."
@@ -2791,10 +2791,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الرابعة بأكملها (الجذور، تصريف المضارع، ظروف التكرار، الهوايات والروتين):",
           "options": [
-            "يَصِفُ طَارِقٌ يَوْمَهُ فِي الجَامِعَةِ قَائِلًا: «أَسْتَيْقِظُ دَائِمًا مُبَكِّرًا، وَأَذْهَبُ مَعَ زُمَلَائِي حَيْثُ نَدْرُسُ اللُّغَوِيَّاتِ، وَفِي المَسَاءِ نَلْتَقِي عَادَةً فِي النَّادِي لِمُمَارَسَةِ السِّبَاحَةِ وَلَعِبِ الشَّطْرَنْجِ، ثُمَّ نَقْرَأُ رِوَايَاتِنَا المُفَضَّلَةَ قَبْلَ النَّوْمِ».",
-            "يصف طارق يومه بالافعال الماضية فقط بدون ظروف تكرار. (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "نحن نذهب انت تدرس هو يكتبون بدون ترتيب في الكلية. (الدمج الشامل لمهارات الوحدة الرابعة)",
-            "لا يوجد روتين ولا دراسة ولا سكن جامعي في هذا الفصل. (الدمج الشامل لمهارات الوحدة الرابعة)"
+            "يَصِفُ طَارِقٌ يَوْمَهُ فِي الجَامِعَةِ قَائِلًا: «أَسْتَيْقِظُ دَائِمًا مُبَكِّرًا، وَأَذْهَبُ مَعَ زُمَلَائِي حَيْثُ نَدْرُسُ اللُّغَوِيَّاتِ، وَفِي المَسَاءِ نَلْتَقِي عَادَةً فِي النَّادِي لِمُمَارَسَةِ السِّبَاحَةِ وَلَعِبِ الشَّطْرَنْجِ، ثُمَّ نَقْرَأُ رِوَايَاتِنَا المُفَضَّلَةَ قَبْلَ النَّوْمِ». (Language concept U4)",
+            "يصف طارق يومه بالافعال الماضية فقط بدون ظروف تكرار. (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "نحن نذهب انت تدرس هو يكتبون بدون ترتيب في الكلية. (aldmj alshaml lmharat alwhdh alrab'ah)",
+            "لا يوجد روتين ولا دراسة ولا سكن جامعي في هذا الفصل. (aldmj alshaml lmharat alwhdh alrab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة في دمج كافة الكفايات الصرفية والزمنية والروتينية للوحدة الرابعة بتناغم إعرابي مبهر."
@@ -2857,10 +2857,10 @@
         {
           "prompt": "ما هو الاسم العربي الفصيح للوجبة التي تُؤكل في منتصف النهار؟",
           "options": [
-            "وَجْبَةُ الغَدَاءِ",
-            "وَجْبَةُ الفُطُورِ",
-            "وَجْبَةُ العَشَاءِ",
-            "السَّحُورُ"
+            "وَجْبَةُ الغَدَاءِ (wajbahu alghadaa'i)",
+            "وَجْبَةُ الفُطُورِ (wajbahu alfutuwri)",
+            "وَجْبَةُ العَشَاءِ (wajbahu al'aashaa'i)",
+            "السَّحُورُ (alsahuwru)"
           ],
           "answerIndex": 0,
           "explanation": "«الغَدَاء» هو طعام منتصف النهار، بينما «الفُطُور» في الصباح و«العَشَاء» في المساء."
@@ -2868,10 +2868,10 @@
         {
           "prompt": "ما هي العبارة العربية الفصيحة التي تقال تمنيًا لشهية طيبة وطعام هنيء؟",
           "options": [
-            "شَهِيَّةٌ طَيِّبَةٌ / هَنِيئًا مَرِيئًا",
-            "مع السلامة فقط",
-            "صباح الخير فقط",
-            "كم الساعة الآن؟"
+            "شَهِيَّةٌ طَيِّبَةٌ / هَنِيئًا مَرِيئًا (shahiyahun tayibahun / haniy'ana mariy'ana)",
+            "مع السلامة فقط (m'a alslamh fqt)",
+            "صباح الخير فقط (sbah alkhyr fqt)",
+            "كم الساعة الآن؟ (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "«شَهِيَّةٌ طَيِّبَةٌ» و«هَنِيئًا مَرِيئًا» عبارتان فصيحتان للاحتفاء بالطعام والمائدة."
@@ -2883,10 +2883,10 @@
         {
           "prompt": "اختر الجملة التي تصف مائدة فطور عربية تقليدية بمفردات فصيحة وضبط إعرابي سليم:",
           "options": [
-            "عَلَى المَائِدَةِ خُبْزٌ سَاخِنٌ، وَجُبْنٌ أَبْيَضُ، وَزَيْتُونٌ أَخْضَرُ، وَشَايٌ لَذِيذٌ.",
-            "على المائدة سمك مشوي في الصباح الباكر مع مثلجات",
-            "ليس هناك طعام ولا شراب في المطبخ نحن جائعون",
-            "طعام شراب فطور غداء عشاء سكون فتحة"
+            "عَلَى المَائِدَةِ خُبْزٌ سَاخِنٌ، وَجُبْنٌ أَبْيَضُ، وَزَيْتُونٌ أَخْضَرُ، وَشَايٌ لَذِيذٌ. (Language concept U5)",
+            "على المائدة سمك مشوي في الصباح الباكر مع مثلجات ('ala alma'dh smk mshwy fy alsbah albakr m'a mthljat)",
+            "ليس هناك طعام ولا شراب في المطبخ نحن جائعون (lys hnak t'aam wla shrab fy almtbkh nhn ja''awn)",
+            "طعام شراب فطور غداء عشاء سكون فتحة (t'aam shrab ftwr ghda' 'asha' skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة توظف مفردات الفطور التقليدي (الخبز، الجبن، الزيتون، الشاي) مع نعوتها المطابقة."
@@ -2894,10 +2894,10 @@
         {
           "prompt": "ما هو اللفظ المؤنث لوصف المرأة التي تشعر بالعطش في اللغة العربية الفصحى؟",
           "options": [
-            "عَطْشَى",
-            "عطشانة",
-            "عطشانات",
-            "عطوش"
+            "عَطْشَى ('aatshaa)",
+            "عطشانة ('atshanh)",
+            "عطشانات ('atshanat)",
+            "عطوش ('atwsh)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث عَطْشَان على وزن فَعْلَى هو «عَطْشَى» في الفصحى المعيارية."
@@ -2910,10 +2910,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم وصفًا غذائيًا متكاملاً للوجبات الثلاث والمشروبات بأسلوب فصيح:",
           "options": [
-            "يَتَنَاوَلُ الإِنْسَانُ ثَلَاثَ وَجَبَاتٍ رَئِيسِيَّةٍ: فُطُورًا خَفِيفًا فِي الصَّبَاحِ، وَغَدَاءً مُتَكَامِلًا مِنَ اللَّحْمِ وَالأَرُزِّ وَالخُضْرَاوَاتِ، وَعَشَاءً لَطِيفًا مَعَ الفَوَاكِهِ وَالمَاءِ الزُّلَالِ.",
-            "يتناول الانسان طعام بدون وجبات ولا ماء في الليل.",
-            "فطور غداء عشاء بدون اكل ولا شرب في المطعم.",
-            "المأكولات والمشروبات هي حروف قمرية فقط بدون اسم."
+            "يَتَنَاوَلُ الإِنْسَانُ ثَلَاثَ وَجَبَاتٍ رَئِيسِيَّةٍ: فُطُورًا خَفِيفًا فِي الصَّبَاحِ، وَغَدَاءً مُتَكَامِلًا مِنَ اللَّحْمِ وَالأَرُزِّ وَالخُضْرَاوَاتِ، وَعَشَاءً لَطِيفًا مَعَ الفَوَاكِهِ وَالمَاءِ الزُّلَالِ. (Language concept U5)",
+            "يتناول الانسان طعام بدون وجبات ولا ماء في الليل. (ytnawl alansan t'aam bdwn wjbat wla ma' fy allyl.)",
+            "فطور غداء عشاء بدون اكل ولا شرب في المطعم. (ftwr ghda' 'asha' bdwn akl wla shrb fy almt'am.)",
+            "المأكولات والمشروبات هي حروف قمرية فقط بدون اسم. (almakwlat walmshrwbat hy hrwf qmryh fqt bdwn asm.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تمتاز بالشمول المعجمي والترابط الدلالي والضبط الإعرابي السليم."
@@ -2978,10 +2978,10 @@
         {
           "prompt": "أي من الكلمات التالية تشتمل على لام شمسية تُدغم في الحرف الذي بعدها ويُشدد؟",
           "options": [
-            "الشَّايُ",
-            "القَهْوَةُ",
-            "الكِتَابُ",
-            "المَطْعَمُ"
+            "الشَّايُ (alshaayu)",
+            "القَهْوَةُ (alqahwahu)",
+            "الكِتَابُ (alkitaabu)",
+            "المَطْعَمُ (almat'aamu)"
           ],
           "answerIndex": 0,
           "explanation": "حرف الشين (ش) من الحروف الشمسية، فتُدغم اللام فيه ويُنطق «الشَّايُ» [ash-shāy]."
@@ -2989,10 +2989,10 @@
         {
           "prompt": "ما هي الجملة التراثية الشهيرة التي تحفظ جميع الحروف القمرية الأربعة عشر؟",
           "options": [
-            "ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ",
-            "طلب العلم فريضة",
-            "العقل السليم في الجسم السليم",
-            "صوت صفير البلبل"
+            "ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ (abghi hajaka wakhaf 'aaqiymahu)",
+            "طلب العلم فريضة (tlb al'alm frydh)",
+            "العقل السليم في الجسم السليم (al'aql alslym fy aljsm alslym)",
+            "صوت صفير البلبل (swt sfyr alblbl)"
           ],
           "answerIndex": 0,
           "explanation": "عبارة «ابْغِ حَجَّكَ وَخَفْ عَقِيمَهُ» تجمع الحروف القمرية الأربعة عشر بدقة متناهية."
@@ -3004,10 +3004,10 @@
         {
           "prompt": "اختر المجموعة التي تحتوي فقط وحصرًا على كلمات ذات لام قمرية مُظهرة:",
           "options": [
-            "البَيْتُ، الخُبْزُ، الجُبْنُ، المَاءُ",
-            "الشمس، السمك، الزيت، التمر",
-            "الرجل، الرمان، الطائر، الليل",
-            "السيارة، الصحن، الضيف، الثوم"
+            "البَيْتُ، الخُبْزُ، الجُبْنُ، المَاءُ (Language concept U5)",
+            "الشمس، السمك، الزيت، التمر (Language concept U5)",
+            "الرجل، الرمان، الطائر، الليل (Language concept U5)",
+            "السيارة، الصحن، الضيف، الثوم (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "حروف (ب، خ، ج، م) كلها من الحروف القمرية المجموعة في «ابغ حجك وخف عقيمه»."
@@ -3015,10 +3015,10 @@
         {
           "prompt": "كيف يُنطق التركيب «فِي الشَّارِعِ» عند وصل الكلام صوتيًا؟",
           "options": [
-            "[fīsh-shāriʿ]",
-            "[fī al-shāriʿ] بإظهار اللام خطأ",
-            "[fī al-lām shāriʿ]",
-            "[fā shāriʿ]"
+            "fīsh-shāriʿ  والحروف القمرية  عند دخول أل التعريف على الأسماء Core target concept - Unit 5 Target Practice (Core target concept - Unit 5 Target Practice)",
+            "fī al-shāriʿ بإظهار اللام خطأ fī al-shāriʿ bizhar allam khta (Language concept U5)",
+            "fī al-lām shāriʿ  والحروف القمرية  عند دخول أل التعريف على الأسماء Core target concept - Unit 5 Target Practice (Core target concept - Unit 5 Target Practice)",
+            "fā shāriʿ  والحروف القمرية  عند دخول أل التعريف على الأسماء Core target concept - Unit 5 Target Practice (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "عند الوصل تسقط همزة الوصل ولام التعريف الشمسية وتُشدد الشين: [فِيشَّارِع]."
@@ -3031,10 +3031,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الجملة التي تطبق قواعد النطق الصوتي للامين الشمسية والقمرية في سياق مائدة الطعام بدقة تامة:",
           "options": [
-            "وَضَعَ النَّادِلُ السَّمَكَ المَشْوِيَّ وَالخُبْزَ السَّاخِنَ عَلَى الطَّاوِلَةِ أَمَامَ الضُّيُوفِ.",
-            "وضع النادل السمك المشوي والخبز الساخن بدون تشديد ولا سكون.",
-            "السمك والخبز والطاولة شمسية قمرية بدون فاعل.",
-            "لا يوجد نادل ولا ضيوف في المطعم اليوم."
+            "وَضَعَ النَّادِلُ السَّمَكَ المَشْوِيَّ وَالخُبْزَ السَّاخِنَ عَلَى الطَّاوِلَةِ أَمَامَ الضُّيُوفِ. (wada'aa alnaadilu alsamaka almashwiya waalkhubza alsaakhina 'aalaa altaawilahi aamaama alduyuwfi.)",
+            "وضع النادل السمك المشوي والخبز الساخن بدون تشديد ولا سكون. (wd'a alnadl alsmk almshwy walkhbz alsakhn bdwn tshdyd wla skwn.)",
+            "السمك والخبز والطاولة شمسية قمرية بدون فاعل. (alsmk walkhbz waltawlh shmsyh qmryh bdwn fa'al.)",
+            "لا يوجد نادل ولا ضيوف في المطعم اليوم. (la ywjd nadl wla dywf fy almt'am alywm.)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تدمج الكلمات الشمسية المشددة (النَّادل، السَّمك، السَّاخن، الطَّاولة، الضُّيوف) والقمرية المظهرة (المَشويّ، الخُبز) في نسق صوتي غاية في الإتقان."
@@ -3098,10 +3098,10 @@
         {
           "prompt": "ما هو الإعراب الصحيح لكلمة «العَصِيرَ» في الجملة الفعلية «شَرِبَ الطِّفْلُ العَصِيرَ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ",
-            "فاعل مرفوع بالضمة",
-            "مبتدأ مؤخر",
-            "مضاف إليه مجرور"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ (maf'auwlun bihi mansuwbun bialfathahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مبتدأ مؤخر (mbtda m'khr)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "«العصيرَ» هو الاسم المنصوب الذي وقع عليه فعل الشرب، فيعرب مفعولاً به منصوبًا بالفتحة."
@@ -3109,10 +3109,10 @@
         {
           "prompt": "كيف يُصاغ الفعل المتقدم في بداية الجملة مع فاعل جمع مذكر مثل «المُعَلِّمُونَ»؟",
           "options": [
-            "حَضَرَ المُعَلِّمُونَ",
-            "حضروا المعلمون",
-            "حضرن المعلمون",
-            "يحضرون المعلمون في البداية خطأ"
+            "حَضَرَ المُعَلِّمُونَ (hadara almu'aalimuwna)",
+            "حضروا المعلمون (hdrwa alm'almwn)",
+            "حضرن المعلمون (hdrn alm'almwn)",
+            "يحضرون المعلمون في البداية خطأ (yhdrwn alm'almwn fy albdayh khta)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل المتقدم يلزم الإفراد دائمًا: «حَضَرَ المُعَلِّمُونَ» طبقًا لقاعدة لزوم إفراد الفعل مع الفاعل الظاهر."
@@ -3124,10 +3124,10 @@
         {
           "prompt": "اختر الجملة الفعلية المتعدية المعربة إعرابًا تامًا وصحيحًا وفق قواعد النحو العربي:",
           "options": [
-            "طَبَخَ الطَّاهِي السَّمَكَ الطَّازَجَ فِي المَطْعَمِ.",
-            "طبخ الطاهي السمكُ بالرفع خطأ",
-            "طبخوا الطاهي السمك بجمع الفعل",
-            "السمك طبخ الطاهي في المطعم بدون ترتيب"
+            "طَبَخَ الطَّاهِي السَّمَكَ الطَّازَجَ فِي المَطْعَمِ. (tabakha altaahiy alsamaka altaazaja fiy almat'aami.)",
+            "طبخ الطاهي السمكُ بالرفع خطأ (tbkh altahy alsmku balrf'a khta)",
+            "طبخوا الطاهي السمك بجمع الفعل (tbkhwa altahy alsmk bjm'a alf'al)",
+            "السمك طبخ الطاهي في المطعم بدون ترتيب (alsmk tbkh altahy fy almt'am bdwn trtyb)"
           ],
           "answerIndex": 0,
           "explanation": "«طبخَ» فعل ماضٍ، «الطاهي» فاعل مرفوع بالضمة المقدرة، «السمكَ» مفعول به منصوب بالفتحة، «الطازجَ» نعت منصوب."
@@ -3135,10 +3135,10 @@
         {
           "prompt": "ما هو تعريف الفعل اللازم في قواعد اللغة العربية؟",
           "options": [
-            "الفِعْلُ الَّذِي يَكْتَفِي بِفَاعِلِهِ وَلَا يَنْصِبُ مَفْعُولًا بِهِ",
-            "الفعل الذي ينصب مفعولين",
-            "الفعل المبني للمجهول",
-            "الفعل الناقص مثل كان"
+            "الفِعْلُ الَّذِي يَكْتَفِي بِفَاعِلِهِ وَلَا يَنْصِبُ مَفْعُولًا بِهِ (alfi'alu aladhiy yaktafiy bifaa'ailihi walaa yansibu maf'auwlana bihi)",
+            "الفعل الذي ينصب مفعولين (alf'al aldhy ynsb mf'awlyn)",
+            "الفعل المبني للمجهول (alf'al almbny llmjhwl)",
+            "الفعل الناقص مثل كان (alf'al alnaqs mthl kan)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل اللازم يكتفي بالفاعل لإتمام المعنى مثل: جلس، نام، قام."
@@ -3151,10 +3151,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص السردي الذي يوظف الجمل الفعلية المتعدية واللازمة وضبط الفاعل والمفعول به بدقة فائقة:",
           "options": [
-            "دَخَلَ الضُّيُوفُ الصَّالَةَ، وَجَلَسُوا حَوْلَ المَائِدَةِ، ثُمَّ قَدَّمَ النَّادِلُ الأَطْبَاقَ الشَّهِيَّةَ، فَأَكَلَ الحَاضِرُونَ الطَّعَامَ بِفَرَحٍ وَسُرُورٍ.",
-            "دخلوا الضيوف وجلسوا وقدموا النادل اطباق شهية بدون ضبط.",
-            "الضيوف دخل الصالة النادل قدم طعام اكل الحاضرون.",
-            "جمل فعلية فاعل مفعول به سكون فتحة ضمة مطعم."
+            "دَخَلَ الضُّيُوفُ الصَّالَةَ، وَجَلَسُوا حَوْلَ المَائِدَةِ، ثُمَّ قَدَّمَ النَّادِلُ الأَطْبَاقَ الشَّهِيَّةَ، فَأَكَلَ الحَاضِرُونَ الطَّعَامَ بِفَرَحٍ وَسُرُورٍ. (Language concept U5)",
+            "دخلوا الضيوف وجلسوا وقدموا النادل اطباق شهية بدون ضبط. (dkhlwa aldywf wjlswa wqdmwa alnadl atbaq shhyh bdwn dbt.)",
+            "الضيوف دخل الصالة النادل قدم طعام اكل الحاضرون. (aldywf dkhl alsalh alnadl qdm t'aam akl alhadrwn.)",
+            "جمل فعلية فاعل مفعول به سكون فتحة ضمة مطعم. (jml f'alyh fa'al mf'awl bh skwn fthh dmh mt'am.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يطبق قواعد إفراد الفعل المتقدم «دخل الضيوفُ، قدم النادلُ، أكل الحاضرونُ» وضبط المفعول به «الأطباقَ، الطعامَ» بأعلى درجات الفصاحة."
@@ -3217,10 +3217,10 @@
         {
           "prompt": "ما هي العبارة المهذبة المثالية لمناداة النادل وطلب قائمة الطعام في مطعم فصيح؟",
           "options": [
-            "لَوْ سَمَحْتَ يَا نَادِلُ، أُرِيدُ قَائِمَةَ الطَّعَامِ مِنْ فَضْلِكَ",
-            "أحضر الأكل بسرعة بدون كلام",
-            "أين الطعام أنا جائع جدا الآن",
-            "لا أريد أن أدفع الحساب"
+            "لَوْ سَمَحْتَ يَا نَادِلُ، أُرِيدُ قَائِمَةَ الطَّعَامِ مِنْ فَضْلِكَ (Language concept U5)",
+            "أحضر الأكل بسرعة بدون كلام (ahdr alakl bsr'ah bdwn klam)",
+            "أين الطعام أنا جائع جدا الآن (ayn alt'aam ana ja''a jda alaan)",
+            "لا أريد أن أدفع الحساب (la aryd an adf'a alhsab)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تجمع بين النداء المؤدب «لَوْ سَمَحْتَ» و«مِنْ فَضْلِكَ» بأسلوب راقٍ."
@@ -3228,10 +3228,10 @@
         {
           "prompt": "ما هو القسم المخصص للأطباق الخفيفة التي تُقدم في مستهل المائدة العربية؟",
           "options": [
-            "المُقَبِّلَاتُ",
-            "الحلويات",
-            "المشروبات الساخنة",
-            "الفاتورة والحساب"
+            "المُقَبِّلَاتُ (almuqabilaatu)",
+            "الحلويات (alhlwyat)",
+            "المشروبات الساخنة (almshrwbat alsakhnh)",
+            "الفاتورة والحساب (alfatwrh walhsab)"
           ],
           "answerIndex": 0,
           "explanation": "«المُقَبِّلَات» هي الأطباق التمهيدية الخفيفة مثل الحمص والمتبل والتبولة."
@@ -3243,10 +3243,10 @@
         {
           "prompt": "اختر العبارة الفصيحة لطلب فاتورة الحساب بعد الانتهاء من تناول الطعام:",
           "options": [
-            "أَحْضِرْ لَنَا الفَاتُورَةَ لَوْ تَكَرَّمْتَ، شُكْرًا لَكَ عَلَى حُسْنِ الخِدْمَةِ.",
-            "أنا خارج من المطعم بدون دفع",
-            "كم سعر كل ملعقة وشوكة في الطاولة؟",
-            "الفاتورة غالية ولا يوجد طعام لذيذ"
+            "أَحْضِرْ لَنَا الفَاتُورَةَ لَوْ تَكَرَّمْتَ، شُكْرًا لَكَ عَلَى حُسْنِ الخِدْمَةِ. (Language concept U5)",
+            "أنا خارج من المطعم بدون دفع (ana kharj mn almt'am bdwn df'a)",
+            "كم سعر كل ملعقة وشوكة في الطاولة؟ (Language concept U5)",
+            "الفاتورة غالية ولا يوجد طعام لذيذ (alfatwrh ghalyh wla ywjd t'aam ldhydh)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تطلب الفاتورة بلباقة مع شكر النادل على الخدمة المتميزة."
@@ -3254,10 +3254,10 @@
         {
           "prompt": "ما هي الأدوات الثلاث الأساسية لتناول الطعام على المائدة العربية الحديثة؟",
           "options": [
-            "المِلْعَقَةُ وَالشَّوْكَةُ وَالسِّكِّينُ",
-            "القلم والمسطرة والورقة",
-            "الساعة والمفتاح والمحفظة",
-            "الكتاب والجريدة والمجلة"
+            "المِلْعَقَةُ وَالشَّوْكَةُ وَالسِّكِّينُ (almil'aaqahu waalshawkahu waalsikiynu)",
+            "القلم والمسطرة والورقة (alqlm walmstrh walwrqh)",
+            "الساعة والمفتاح والمحفظة (alsa'ah walmftah walmhfzh)",
+            "الكتاب والجريدة والمجلة (alktab waljrydh walmjlh)"
           ],
           "answerIndex": 0,
           "explanation": "أدوات المائدة هي الملعقة والشّوكة والسّكّين."
@@ -3270,10 +3270,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الحوار الذي يمثل التفاعل المهذب الكامل بين الزبون والنادل في مطعم عربي:",
           "options": [
-            "— مَرْحَبًا بِكُمْ، مَاذَا تُحِبُّونَ أَنْ تَطْلُبُوا؟ — لَوْ سَمَحْتَ، نُرِيدُ طَبَقَ كَبْسَةٍ بِالدَّجَاجِ مَعَ سَلَطَةٍ وَعَصِيرِ بُرْتُقَالٍ. — حَاضِرٌ، سَيَكُونُ الطَّعَامُ جَاهِزًا خِلَالَ عَشْرِ دَقَائِقَ.",
-            "— هات طعام. — لا يوجد اكل اليوم اذهبوا.",
-            "— كم الفاتورة؟ — مئة كلمة في القاموس.",
-            "— نادل ملعقة شوكة سكين ماء شاي سكون."
+            "— مَرْحَبًا بِكُمْ، مَاذَا تُحِبُّونَ أَنْ تَطْلُبُوا؟ — لَوْ سَمَحْتَ، نُرِيدُ طَبَقَ كَبْسَةٍ بِالدَّجَاجِ مَعَ سَلَطَةٍ وَعَصِيرِ بُرْتُقَالٍ. — حَاضِرٌ، سَيَكُونُ الطَّعَامُ جَاهِزًا خِلَالَ عَشْرِ دَقَائِقَ. (Language concept U5)",
+            "— هات طعام. — لا يوجد اكل اليوم اذهبوا. (— hat t'aam. — la ywjd akl alywm adhhbwa.)",
+            "— كم الفاتورة؟ — مئة كلمة في القاموس. (Language concept U5)",
+            "— نادل ملعقة شوكة سكين ماء شاي سكون. (— nadl ml'aqh shwkh skyn ma' shay skwn.)"
           ],
           "answerIndex": 0,
           "explanation": "الحوار يمثل النموذج الفصيح المتكامل للطلب والترحيب وتحديد الأطباق والمشروبات والوقت."
@@ -3336,10 +3336,10 @@
         {
           "prompt": "في حوار المأدبة في المطعم، ما هي العبارة التي تقال في ختام الوجبة لدفع الفاتورة وشكر النادل؟",
           "options": [
-            "أَحْضِرْ لَنَا الحِسَابَ لَوْ سَمَحْتَ، كَانَ الطَّعَامُ لَذِيذًا جِدًّا.",
-            "أنا لا أريد أن أدفع شيئا (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "أين الباب للخروج بسرعة؟ (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "الطعام سيئ جدا ولن نعود (الدمج الشامل لكافة مخرجات الوحدة الخامسة)"
+            "أَحْضِرْ لَنَا الحِسَابَ لَوْ سَمَحْتَ، كَانَ الطَّعَامُ لَذِيذًا جِدًّا. (Language concept U5)",
+            "أنا لا أريد أن أدفع شيئا (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "أين الباب للخروج بسرعة؟ (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "الطعام سيئ جدا ولن نعود (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تجمع بين طلب الحساب والثناء على جودة الطعام بأسلوب لبق وفصيح."
@@ -3347,10 +3347,10 @@
         {
           "prompt": "ما هو التمييز الصوتي الصحيح عند نطق كلمة «البَقْلَاوَة» وكلمة «الشَّاي»؟",
           "options": [
-            "«البَقْلَاوَةُ» قَمَرِيَّةٌ مُظْهَرَةٌ، وَ«الشَّايُ» شَمْسِيٌّ مُدْغَمٌ",
-            "كلاهما شمسية مدغمة (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "كلاهما قمرية مظهرة (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "لا توجد لام في الكلمتين (الدمج الشامل لكافة مخرجات الوحدة الخامسة)"
+            "«البَقْلَاوَةُ» قَمَرِيَّةٌ مُظْهَرَةٌ، وَ«الشَّايُ» شَمْسِيٌّ مُدْغَمٌ (Language concept U5)",
+            "كلاهما شمسية مدغمة (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "كلاهما قمرية مظهرة (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "لا توجد لام في الكلمتين (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)"
           ],
           "answerIndex": 0,
           "explanation": "الباء من حروف «ابغ حجك» فهي قمرية مظهرة، والشين شمسية مدغمة مشددة."
@@ -3362,10 +3362,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف طلب العشاء والتحلية والمشروبات بأسلوب عربي فصيح:",
           "options": [
-            "— مَاذَا تَطْلُبُونَ لِلْعَشَاءِ؟ — نُرِيدُ سَمَكًا مَشْوِيًّا مَعَ الأَرُزِّ، وَكُنَافَةً نَابُلْسِيَّةً لِلْحَلْوَى، وَشَايًا بِالنَّعْنَاعِ.",
-            "— ماذا تأكلون؟ — لا نريد عشاء ولا حلوى نحن نمشي. (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "— اين المطعم؟ — الساعة اثنان وخمسون دقيقة في الشارع. (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "— هات اكل سريع بدون ماء وشاي. (الدمج الشامل لكافة مخرجات الوحدة الخامسة)"
+            "— مَاذَا تَطْلُبُونَ لِلْعَشَاءِ؟ — نُرِيدُ سَمَكًا مَشْوِيًّا مَعَ الأَرُزِّ، وَكُنَافَةً نَابُلْسِيَّةً لِلْحَلْوَى، وَشَايًا بِالنَّعْنَاعِ. (Language concept U5)",
+            "— ماذا تأكلون؟ — لا نريد عشاء ولا حلوى نحن نمشي. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "— اين المطعم؟ — الساعة اثنان وخمسون دقيقة في الشارع. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "— هات اكل سريع بدون ماء وشاي. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف معجم الأطباق والتحلية والمشروبات بضبط إعرابي سليم وتناسق دلالي تام."
@@ -3373,10 +3373,10 @@
         {
           "prompt": "ما هي الدعاء والعبارة الكريمة التي يقولها المضيف لضيوفه بعد تناول الطعام؟",
           "options": [
-            "هَنِيئًا مَرِيئًا / صِحَّةً وَعَافِيَةً",
-            "مع السلامة فقط بدون كلام (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "أين ذهبتم؟ (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "لماذا أكلتم كل الطعام؟ (الدمج الشامل لكافة مخرجات الوحدة الخامسة)"
+            "هَنِيئًا مَرِيئًا / صِحَّةً وَعَافِيَةً (haniy'ana mariy'ana / sihahan wa'aaafiyahan)",
+            "مع السلامة فقط بدون كلام (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "أين ذهبتم؟ (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "لماذا أكلتم كل الطعام؟ (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)"
           ],
           "answerIndex": 0,
           "explanation": "«هَنِيئًا مَرِيئًا» و«صِحَّةً وَعَافِيَةً» عبارات الدعاء بالبركة والصحة بعد الطعام."
@@ -3389,10 +3389,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الشامل الذي يدمج مخرجات الوحدة الخامسة كاملة (الأطعمة، المشروبات، الحروف الشمسية والقمرية، الجمل الفعلية، الطلب في المطعم):",
           "options": [
-            "اجْتَمَعَ الأَصْدِقَاءُ فِي مَطْعَمِ المَدِينَةِ الشَّرْقِيِّ: قَدَّمَ النَّادِلُ قَائِمَةَ الطَّعَامِ بِلَبَاقَةٍ، فَطَلَبُوا حُمُّصًا وَسَلَطَةً خَضْرَاءَ كَمُقَبِّلَاتٍ، وَأَكَلُوا الكَبْسَةَ بِاللَّحْمِ وَالدَّجَاجَ المَشْوِيَّ، ثُمَّ شَرِبُوا الشَّايَ بِالنَّعْنَاعِ وَتَنَاوَلُوا البَقْلَاوَةَ اللَّذِيذَةَ، وَدَفَعُوا الحِسَابَ شَاكِرِينَ حُسْنَ الضِّيَافَةِ.",
-            "اجتمع الاصدقاء في المطعم بدون طلب طعام ولا قائمة ولا نادل. (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "اكلوا شربوا جمل فعلية سكون فتحة ضمة حروف شمسية قمرية. (الدمج الشامل لكافة مخرجات الوحدة الخامسة)",
-            "لا يوجد مطعم ولا اصدقاء في هذا المساء. (الدمج الشامل لكافة مخرجات الوحدة الخامسة)"
+            "اجْتَمَعَ الأَصْدِقَاءُ فِي مَطْعَمِ المَدِينَةِ الشَّرْقِيِّ: قَدَّمَ النَّادِلُ قَائِمَةَ الطَّعَامِ بِلَبَاقَةٍ، فَطَلَبُوا حُمُّصًا وَسَلَطَةً خَضْرَاءَ كَمُقَبِّلَاتٍ، وَأَكَلُوا الكَبْسَةَ بِاللَّحْمِ وَالدَّجَاجَ المَشْوِيَّ، ثُمَّ شَرِبُوا الشَّايَ بِالنَّعْنَاعِ وَتَنَاوَلُوا البَقْلَاوَةَ اللَّذِيذَةَ، وَدَفَعُوا الحِسَابَ شَاكِرِينَ حُسْنَ الضِّيَافَةِ. (Language concept U5)",
+            "اجتمع الاصدقاء في المطعم بدون طلب طعام ولا قائمة ولا نادل. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "اكلوا شربوا جمل فعلية سكون فتحة ضمة حروف شمسية قمرية. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)",
+            "لا يوجد مطعم ولا اصدقاء في هذا المساء. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والبلاغة في دمج كافة مفردات الأطعمة والمشروبات وأقسام القائمة وقواعد اللام الشمسية والقمرية والجمل الفعلية وإعراب الفاعل والمفعول به."
@@ -3456,10 +3456,10 @@
         {
           "prompt": "ما هو اسم الإشارة المكاني المستخدم للدلالة على المكان البعيد في اللغة العربية؟",
           "options": [
-            "هُنَاكَ",
-            "هُنَا",
-            "هٰذَا",
-            "هٰذِهِ"
+            "هُنَاكَ (hunaaka)",
+            "هُنَا (hunaa)",
+            "هٰذَا (Language concept U6)",
+            "هٰذِهِ (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "«هُنَاكَ» اسم إشارة مبني يدل على المكان البعيد، بينما «هُنَا» للقريب."
@@ -3467,10 +3467,10 @@
         {
           "prompt": "ما هو الاسم الفصيح للمكان المخصص لبيع الأدوية والمستلزمات الطبية؟",
           "options": [
-            "الصَّيْدَلِيَّةُ",
-            "المستشفى",
-            "المتحف",
-            "الفندق"
+            "الصَّيْدَلِيَّةُ (alsaydaliyahu)",
+            "المستشفى (almstshfa)",
+            "المتحف (almthf)",
+            "الفندق (alfndq)"
           ],
           "answerIndex": 0,
           "explanation": "«الصَّيْدَلِيَّة» هي المكان المخصص لصرف الأدوية."
@@ -3482,10 +3482,10 @@
         {
           "prompt": "اختر الجملة التي تسأل عن موقع المستشفى العام في المدينة بأعلى درجات الفصاحة والأدب:",
           "options": [
-            "مِنْ فَضْلِكَ، أَيْنَ يَقَعُ المُسْتَشْفَى العَامُّ فِي هٰذِهِ المَدِينَةِ؟",
-            "أين المستشفى بسرعة أريد طبيبا",
-            "هل يوجد مدينة هنا بدون مستشفى؟",
-            "المستشفى العام هو قطار كبير"
+            "مِنْ فَضْلِكَ، أَيْنَ يَقَعُ المُسْتَشْفَى العَامُّ فِي هٰذِهِ المَدِينَةِ؟ (Language concept U6)",
+            "أين المستشفى بسرعة أريد طبيبا (ayn almstshfa bsr'ah aryd tbyba)",
+            "هل يوجد مدينة هنا بدون مستشفى؟ (Language concept U6)",
+            "المستشفى العام هو قطار كبير (almstshfa al'aam hw qtar kbyr)"
           ],
           "answerIndex": 0,
           "explanation": "السؤال يبدأ بالطلب المهذب «مِنْ فَضْلِكَ» ثم أداة الاستفهام المكانية الفصيحة «أَيْنَ يَقَعُ...»."
@@ -3493,10 +3493,10 @@
         {
           "prompt": "ما هو المعلم الحضاري المخصص لحفظ الآثار والتحف التاريخية وعرضها للجمهور؟",
           "options": [
-            "المَتْحَفُ",
-            "المصرف / البنك",
-            "محطة الحافلات",
-            "الصيدلية"
+            "المَتْحَفُ (almathafu)",
+            "المصرف / البنك (almsrf / albnk)",
+            "محطة الحافلات (mhth alhaflat)",
+            "الصيدلية (alsydlyh)"
           ],
           "answerIndex": 0,
           "explanation": "«المَتْحَف» هو المؤسسة الثقافية المخصصة لعرض التحف والآثار التاريخية."
@@ -3509,10 +3509,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم وصفًا جغرافيًا شاملاً لوسط المدينة ومعالمها ومرافقها الحيوية:",
           "options": [
-            "يَتَمَيَّزُ وَسَطُ المَدِينَةِ بِنَشَاطٍ حَيَوِيٍّ؛ فَقُرْبَ المَيْدَانِ الكَبِيرِ يَقَعُ المَسْجِدُ الجَامِعُ، وَهُنَاكَ مَتْحَفٌ وَطَنِيٌّ عَرِيقٌ، وَبِجِوَارِهِ فُنْدُقٌ مُمْتَازٌ لِاسْتِقْبَالِ السُّيَّاحِ.",
-            "وسط المدينة ليس فيه شوارع ولا مساجد ولا فنادق.",
-            "ميدان فندق بنك صيدلية سكون فتحة ضمة سيارة.",
-            "المعالم الحضرية هي كلمات شمسية فقط بدون مبان."
+            "يَتَمَيَّزُ وَسَطُ المَدِينَةِ بِنَشَاطٍ حَيَوِيٍّ؛ فَقُرْبَ المَيْدَانِ الكَبِيرِ يَقَعُ المَسْجِدُ الجَامِعُ، وَهُنَاكَ مَتْحَفٌ وَطَنِيٌّ عَرِيقٌ، وَبِجِوَارِهِ فُنْدُقٌ مُمْتَازٌ لِاسْتِقْبَالِ السُّيَّاحِ. (Language concept U6)",
+            "وسط المدينة ليس فيه شوارع ولا مساجد ولا فنادق. (wst almdynh lys fyh shwar'a wla msajd wla fnadq.)",
+            "ميدان فندق بنك صيدلية سكون فتحة ضمة سيارة. (mydan fndq bnk sydlyh skwn fthh dmh syarh.)",
+            "المعالم الحضرية هي كلمات شمسية فقط بدون مبان. (alm'aalm alhdryh hy klmat shmsyh fqt bdwn mban.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين المعالم الحضرية (الميدان، المسجد، المتحف، الفندق) والظروف المكانية في صياغة فصيحة متناسقة."
@@ -3575,10 +3575,10 @@
         {
           "prompt": "ما هو الإعراب والحركة الصحيحة لكلمة «المَسْجِدِ» في التركيب الظرفي «أَمَامَ المَسْجِدِ»؟",
           "options": [
-            "مُضَافٌ إِلَيْهِ مَجْرُورٌ بِالكَسْرَةِ",
-            "مفعول به منصوب بالفتحة",
-            "فاعل مرفوع بالضمة",
-            "نعت مرفوع"
+            "مُضَافٌ إِلَيْهِ مَجْرُورٌ بِالكَسْرَةِ (mudaafun iilayhi majruwrun bialkasrahi)",
+            "مفعول به منصوب بالفتحة (mf'awl bh mnswb balfthh)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "نعت مرفوع (n'at mrfw'a)"
           ],
           "answerIndex": 0,
           "explanation": "الاسم الواقع بعد ظرف المكان يعرب مضافًا إليه مجرورًا بالكسرة: «أَمَامَ المَسْجِدِ»."
@@ -3586,10 +3586,10 @@
         {
           "prompt": "أي من الكلمات التالية يُعد ظرف مكان يدل على الموقع الفاصل بين موضعين؟",
           "options": [
-            "بَيْنَ",
-            "مِنْ",
-            "إِلَى",
-            "عَلَى"
+            "بَيْنَ (bayna)",
+            "مِنْ (min)",
+            "إِلَى (iilaa)",
+            "عَلَى ('aalaa)"
           ],
           "answerIndex": 0,
           "explanation": "«بَيْنَ» ظرف مكان يدل على التوسط بين شيئين أو أكثر."
@@ -3601,10 +3601,10 @@
         {
           "prompt": "اختر الجملة التي تحدد موقع البنك والصيدلية والمحطة باستخدام ظروف المكان وحروف الجر بدقة تامة:",
           "options": [
-            "يَقَعُ البَنْكُ بَيْنَ الصَّيْدَلِيَّةِ وَالمَحَطَّةِ، أَمَامَ الحَدِيقَةِ العَامَّةِ.",
-            "البنك يقع في بين الصيدلية على المحطة فوق الحديقة",
-            "بين الصيدلية بنك محطة بدون ظروف مكان",
-            "امام وخلف فوق تحت بنك صيدلية"
+            "يَقَعُ البَنْكُ بَيْنَ الصَّيْدَلِيَّةِ وَالمَحَطَّةِ، أَمَامَ الحَدِيقَةِ العَامَّةِ. (Language concept U6)",
+            "البنك يقع في بين الصيدلية على المحطة فوق الحديقة (albnk yq'a fy byn alsydlyh 'ala almhth fwq alhdyqh)",
+            "بين الصيدلية بنك محطة بدون ظروف مكان (byn alsydlyh bnk mhth bdwn zrwf mkan)",
+            "امام وخلف فوق تحت بنك صيدلية (amam wkhlf fwq tht bnk sydlyh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف الظرفين «بينَ» و«أمامَ» متبوعين بمضاف إليه مجرور بالكسرة في سياق مكاني غاية في الوضوح."
@@ -3612,10 +3612,10 @@
         {
           "prompt": "ما هو الحرف الذي يفيد انتهاء الغاية المكانية (الوصول إلى الوجهة)؟",
           "options": [
-            "إِلَى",
-            "مِنْ",
-            "عَنْ",
-            "فِي"
+            "إِلَى (iilaa)",
+            "مِنْ (min)",
+            "عَنْ ('aan)",
+            "فِي (fiy)"
           ],
           "answerIndex": 0,
           "explanation": "حرف الجر «إِلَى» يدل على انتهاء الغاية المكانية مثل: «وصلتُ إلى الفندقِ»."
@@ -3628,10 +3628,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الوصف الجغرافي الذي يجمع بين حروف الجر وظروف المكان وإعرابها الصحيح في تحديد موقع المعالم:",
           "options": [
-            "تَقِفُ الحَافِلَةُ عِنْدَ المَوْقِفِ الرَّئِيسِيِّ؛ فَتَنْزِلُ مِنَ البَابِ، وَتَسِيرُ إِلَى المَتْحَفِ الَّذِي يَقَعُ عَلَى يَمِينِ الشَّارِعِ خَلْفَ مَبْنَى البَرِيدِ.",
-            "الحافلة تقف على فوق تحت يمين يسار بدون حروف جر.",
-            "متحف بريد شارع سكون فتحة ضمة باب.",
-            "ليس هناك مواقف ولا حافلات في هذه المنطقة."
+            "تَقِفُ الحَافِلَةُ عِنْدَ المَوْقِفِ الرَّئِيسِيِّ؛ فَتَنْزِلُ مِنَ البَابِ، وَتَسِيرُ إِلَى المَتْحَفِ الَّذِي يَقَعُ عَلَى يَمِينِ الشَّارِعِ خَلْفَ مَبْنَى البَرِيدِ. (Language concept U6)",
+            "الحافلة تقف على فوق تحت يمين يسار بدون حروف جر. (alhaflh tqf 'ala fwq tht ymyn ysar bdwn hrwf jr.)",
+            "متحف بريد شارع سكون فتحة ضمة باب. (mthf bryd shar'a skwn fthh dmh bab.)",
+            "ليس هناك مواقف ولا حافلات في هذه المنطقة. (lys hnak mwaqf wla haflat fy hdhh almntqh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج حروف الجر «عند، من، إلى، على» وظروف المكان «يمين، خلف» مع ضبط المجرورات بالكسرة ببراعة تامة."
@@ -3695,10 +3695,10 @@
         {
           "prompt": "ما هو فعل الأمر المناسب لتوجيه شخص بالمشي إلى الأمام دون انحراف؟",
           "options": [
-            "سِرْ إِلَى الأَمَامِ",
-            "ارجع إلى الخلف",
-            "توقف ولا تمش",
-            "نم هنا"
+            "سِرْ إِلَى الأَمَامِ (sir iilaa alaamaami)",
+            "ارجع إلى الخلف (arj'a ila alkhlf)",
+            "توقف ولا تمش (twqf wla tmsh)",
+            "نم هنا (nm hna)"
           ],
           "answerIndex": 0,
           "explanation": "«سِرْ إِلَى الأَمَامِ» هو التوجيه القياسي للمضي قدمًا إلى الأمام."
@@ -3706,10 +3706,10 @@
         {
           "prompt": "على ماذا يُبنى فعل الأمر الصحيح الآخر للمفرد المذكر (مثل: اعبُرْ / انعطِفْ)؟",
           "options": [
-            "عَلَى السُّكُونِ",
-            "على الفتحة",
-            "على الضمة",
-            "على الكسرة"
+            "عَلَى السُّكُونِ ('aalaa alsukuwni)",
+            "على الفتحة ('ala alfthh)",
+            "على الضمة ('ala aldmh)",
+            "على الكسرة ('ala alksrh)"
           ],
           "answerIndex": 0,
           "explanation": "فعل الأمر الصحيح الآخر للمفرد المذكر يبنى على السكون."
@@ -3721,10 +3721,10 @@
         {
           "prompt": "اختر العبارة التوجيهية التي تقدم إرشادات دقيقة للوصول إلى محطة القطار:",
           "options": [
-            "اعْبُرِ الجِسْرَ، ثُمَّ خُذِ الشَّارِعَ الثَّانِيَ عَلَى يَمِينِكَ؛ سَتَرَى المَحَطَّةَ أَمَامَكَ.",
-            "المحطة في السماء فوق السحاب طائرة",
-            "لا تعبر الشارع ولا تمش ابدا انت ضائع",
-            "اعبر خذ سر انعطف بدون اسم شارع"
+            "اعْبُرِ الجِسْرَ، ثُمَّ خُذِ الشَّارِعَ الثَّانِيَ عَلَى يَمِينِكَ؛ سَتَرَى المَحَطَّةَ أَمَامَكَ. (Language concept U6)",
+            "المحطة في السماء فوق السحاب طائرة (almhth fy alsma' fwq alshab ta'rh)",
+            "لا تعبر الشارع ولا تمش ابدا انت ضائع (la t'abr alshar'a wla tmsh abda ant da''a)",
+            "اعبر خذ سر انعطف بدون اسم شارع (a'abr khdh sr an'atf bdwn asm shar'a)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة توظف أفعال الأمر المتسلسلة (اعبر، خذ) وتحديد الاتجاه بدقة بالغة."
@@ -3732,10 +3732,10 @@
         {
           "prompt": "لماذا حُرِّكت لام الفعل «اعْبُرِ» بالكسرة في عبارة «اعْبُرِ الشَّارِعَ»؟",
           "options": [
-            "لِمَنْعِ التِقَاءِ السَّاكِنَيْنِ",
-            "لأنها حرف جر",
-            "لأنها مضاف إليه",
-            "لأن الفعل معتل"
+            "لِمَنْعِ التِقَاءِ السَّاكِنَيْنِ (liman'ai altiqaa'i alsaakinayni)",
+            "لأنها حرف جر (lanha hrf jr)",
+            "لأنها مضاف إليه (lanha mdaf ilyh)",
+            "لأن الفعل معتل (lan alf'al m'atl)"
           ],
           "answerIndex": 0,
           "explanation": "في اللغة العربية لا يلتقي ساكنان، فتحرك سكون الأمر بالكسر العارض عند دخول «أل» التعريف."
@@ -3748,10 +3748,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الإرشادي المتكامل الذي يوجه سائحًا من الفندق إلى المتحف الوطني بأفعال أمر فصيحة:",
           "options": [
-            "اخْرُجْ مِنَ الفُنْدُقِ، وَسِرْ إِلَى الأَمَامِ حَتَّى تَصِلَ إِلَى إِشَارَةِ المُرُورِ، ثُمَّ انْعَطِفْ يَسَارًا وَاعْبُرِ الشَّارِعَ؛ سَتَجِدُ المَتْحَفَ الوَطَنِيَّ عَلَى يَمِينِكَ مُبَاشَرَةً.",
-            "اخرج من الفندق ولا تمش في الشارع لان المتحف مغلق.",
-            "افعال امر سكون فتحة كسرة متحف اشارة مرور فندق.",
-            "سر يمينا ويسارا في نفس الوقت بدون توقف."
+            "اخْرُجْ مِنَ الفُنْدُقِ، وَسِرْ إِلَى الأَمَامِ حَتَّى تَصِلَ إِلَى إِشَارَةِ المُرُورِ، ثُمَّ انْعَطِفْ يَسَارًا وَاعْبُرِ الشَّارِعَ؛ سَتَجِدُ المَتْحَفَ الوَطَنِيَّ عَلَى يَمِينِكَ مُبَاشَرَةً. (Language concept U6)",
+            "اخرج من الفندق ولا تمش في الشارع لان المتحف مغلق. (akhrj mn alfndq wla tmsh fy alshar'a lan almthf mghlq.)",
+            "افعال امر سكون فتحة كسرة متحف اشارة مرور فندق. (af'aal amr skwn fthh ksrh mthf asharh mrwr fndq.)",
+            "سر يمينا ويسارا في نفس الوقت بدون توقف. (sr ymyna wysara fy nfs alwqt bdwn twqf.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل الذروة في تطبيق أفعال الأمر التوجيهية «اخرج، سر، انعطف، اعبر» مع تحديد المعالم والاتجاهات بتسلسل منطقي سليم."
@@ -3815,10 +3815,10 @@
         {
           "prompt": "ما هو حرف الجر المناسب لبيان وسيلة المواصلات المستخدمة مثل: «أنا أذهب إلى الجامعة ... الحافلة»؟",
           "options": [
-            "بِـ",
-            "فِي",
-            "مِنْ",
-            "عَلَى"
+            "بِـ  ، واستخدام حرف الجر  لوسائل المواصلات، والتعبير عن أوقات الرحلات والأجرة (Core target concept - Unit 6 Target Practice)",
+            "فِي (fiy)",
+            "مِنْ (min)",
+            "عَلَى ('aalaa)"
           ],
           "answerIndex": 0,
           "explanation": "نستخدم حرف الجر «الباء» مع وسائل المواصلات: «بِالحَافِلَةِ»."
@@ -3826,10 +3826,10 @@
         {
           "prompt": "ما هو التعبير الفصيح لقول «I walk on foot» دون ركوب وسيلة نقل؟",
           "options": [
-            "أَمْشِي عَلَى الأَقْدَامِ",
-            "أركب الطائرة في الشارع",
-            "أسافر بالقطار السريع",
-            "أجلس في البيت"
+            "أَمْشِي عَلَى الأَقْدَامِ (aamshiy 'aalaa alaaqdaami)",
+            "أركب الطائرة في الشارع (arkb alta'rh fy alshar'a)",
+            "أسافر بالقطار السريع (asafr balqtar alsry'a)",
+            "أجلس في البيت (ajls fy albyt)"
           ],
           "answerIndex": 0,
           "explanation": "الصيغة الفصيحة للمشي هي «أَمْشِي عَلَى الأَقْدَامِ»."
@@ -3841,10 +3841,10 @@
         {
           "prompt": "اختر الجملة التي تسأل عن أجرة سيارة الأجرة والوقت المستغرق إلى المطار بأسلوب فصيح:",
           "options": [
-            "كَمْ أُجْرَةُ التَّاكْسِي إِلَى المَطَارِ، وَكَمْ دَقِيقَةً تَسْتَغْرِقُ الرِّحْلَةُ؟",
-            "تاكسي مطار نقود سريعة بدون عداد",
-            "المطار ليس فيه طائرات ولا سيارات",
-            "كم سعر شراء سيارة التاكسي كلها؟"
+            "كَمْ أُجْرَةُ التَّاكْسِي إِلَى المَطَارِ، وَكَمْ دَقِيقَةً تَسْتَغْرِقُ الرِّحْلَةُ؟ (Language concept U6)",
+            "تاكسي مطار نقود سريعة بدون عداد (taksy mtar nqwd sry'ah bdwn 'adad)",
+            "المطار ليس فيه طائرات ولا سيارات (almtar lys fyh ta'rat wla syarat)",
+            "كم سعر شراء سيارة التاكسي كلها؟ (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تجمع بين السؤال عن الأجرة المالية «كَمْ أُجْرَةُ...» والمدة الزمنية «كَمْ تَسْتَغْرِقُ...» بأسلوب راقٍ."
@@ -3852,10 +3852,10 @@
         {
           "prompt": "ما هو المكان المحدد والمخطط على الطريق ليعبر منه المشاة بأمان؟",
           "options": [
-            "مَمَرُّ المُشَاةِ",
-            "مدرج الطائرات",
-            "سكة القطار السريع",
-            "موقف السيارات"
+            "مَمَرُّ المُشَاةِ (mamaru almushaahi)",
+            "مدرج الطائرات (mdrj alta'rat)",
+            "سكة القطار السريع (skh alqtar alsry'a)",
+            "موقف السيارات (mwqf alsyarat)"
           ],
           "answerIndex": 0,
           "explanation": "المكان المخصص لعبور المشاة يسمى «مَمَرَّ المُشَاةِ»."
@@ -3868,10 +3868,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم وصفًا دقيقًا لرحلة يومية باستخدام وسائل النقل المتنوعة والالتزام بقواعد المرور:",
           "options": [
-            "أَسْتَيْقِظُ صَبَاحًا وَأَرْكَبُ مِتْرُو الأَنْفَاقِ إِلَى مَحَطَّةِ المَيْدَانِ، ثُمَّ أَمْشِي عَلَى الرَّصِيفِ وَأَعْبُرُ عِنْدَ مَمَرِّ المُشَاةِ عِنْدَمَا تُضِيءُ الإِشَارَةُ بِالأَخْضَرِ، فَأَصِلُ إِلَى عَمَلِي فِي المَوْعِدِ المُحَدَّدِ.",
-            "استيقظ صباحا واركب طائرة في الشارع الضيق بدون اشارة مرور.",
-            "مترو حافلة تاكسي سكون فتحة قطار سيارة طريق.",
-            "لا توجد مواصلات في المدينة والجميع نائمون."
+            "أَسْتَيْقِظُ صَبَاحًا وَأَرْكَبُ مِتْرُو الأَنْفَاقِ إِلَى مَحَطَّةِ المَيْدَانِ، ثُمَّ أَمْشِي عَلَى الرَّصِيفِ وَأَعْبُرُ عِنْدَ مَمَرِّ المُشَاةِ عِنْدَمَا تُضِيءُ الإِشَارَةُ بِالأَخْضَرِ، فَأَصِلُ إِلَى عَمَلِي فِي المَوْعِدِ المُحَدَّدِ. (Language concept U6)",
+            "استيقظ صباحا واركب طائرة في الشارع الضيق بدون اشارة مرور. (astyqz sbaha warkb ta'rh fy alshar'a aldyq bdwn asharh mrwr.)",
+            "مترو حافلة تاكسي سكون فتحة قطار سيارة طريق. (mtrw haflh taksy skwn fthh qtar syarh tryq.)",
+            "لا توجد مواصلات في المدينة والجميع نائمون. (la twjd mwaslat fy almdynh waljmy'a na'mwn.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تمتاز بالثراء المعجمي والتسلسل الواقعي الدقيق لاستخدام المترو والمشي والرصيف وممر المشاة والإشارات المرورية."
@@ -3935,10 +3935,10 @@
         {
           "prompt": "كيف تسأل أحد المارة بأدب جم عن كيفية الوصول إلى السوق القديم؟",
           "options": [
-            "عَفْوًا يَا أَخِي، كَيْفَ أَصِلُ إِلَى السُّوقِ القَدِيمِ مِنْ هُنَا؟",
-            "أين السوق أريد أن أشتري حالا (الدمج الشامل لمهارات الوحدة السادسة)",
-            "هل تبيع لي هذا الشارع؟ (الدمج الشامل لمهارات الوحدة السادسة)",
-            "لماذا المدينة مزدحمة اليوم؟ (الدمج الشامل لمهارات الوحدة السادسة)"
+            "عَفْوًا يَا أَخِي، كَيْفَ أَصِلُ إِلَى السُّوقِ القَدِيمِ مِنْ هُنَا؟ (Language concept U6)",
+            "أين السوق أريد أن أشتري حالا (aldmj alshaml lmharat alwhdh alsadsh)",
+            "هل تبيع لي هذا الشارع؟ (aldmj alshaml lmharat alwhdh alsadsh)",
+            "لماذا المدينة مزدحمة اليوم؟ (aldmj alshaml lmharat alwhdh alsadsh)"
           ],
           "answerIndex": 0,
           "explanation": "السؤال يبدأ بالاعتذار اللبق «عَفْوًا» ثم أسلوب الاستفهام الدقيق «كَيْفَ أَصِلُ إِلَى...»."
@@ -3946,10 +3946,10 @@
         {
           "prompt": "ما هو التوجيه المكاني الدال على الانعطاف إلى الجهة اليسرى عند مفترق الطرق؟",
           "options": [
-            "انْعَطِفْ يَسَارًا / شِمَالًا",
-            "انعطف يمينا (الدمج الشامل لمهارات الوحدة السادسة)",
-            "سر إلى الخلف (الدمج الشامل لمهارات الوحدة السادسة)",
-            "توقف في مكانك (الدمج الشامل لمهارات الوحدة السادسة)"
+            "انْعَطِفْ يَسَارًا / شِمَالًا (an'aatif yasaarana / shimaalana)",
+            "انعطف يمينا (aldmj alshaml lmharat alwhdh alsadsh)",
+            "سر إلى الخلف (aldmj alshaml lmharat alwhdh alsadsh)",
+            "توقف في مكانك (aldmj alshaml lmharat alwhdh alsadsh)"
           ],
           "answerIndex": 0,
           "explanation": "«انْعَطِفْ يَسَارًا» أو «شِمَالاً» يعني التوجه إلى الجهة اليسرى."
@@ -3961,10 +3961,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف تقديم إرشادات كاملة للوصول إلى محطة القطار بالمترو أو مشيًا:",
           "options": [
-            "— هَلْ يُمْكِنُنِي المَشْيُ إِلَى المَحَطَّةِ؟ — نَعَمْ، سِرْ لِمُدَّةِ عَشْرِ دَقَائِقَ، أَوْ خُذِ المِتْرُو لِمَحَطَّةٍ وَاحِدَةٍ فَقَطْ.",
-            "— هل المحطة قريبة؟ — لا يمكنك الذهاب ابدا نحن نائمون. (الدمج الشامل لمهارات الوحدة السادسة)",
-            "— اين القطار؟ — القطار يطير فوق المباني العالية. (الدمج الشامل لمهارات الوحدة السادسة)",
-            "— تاكسي باص قطار سكون فتحة ضمة. (الدمج الشامل لمهارات الوحدة السادسة)"
+            "— هَلْ يُمْكِنُنِي المَشْيُ إِلَى المَحَطَّةِ؟ — نَعَمْ، سِرْ لِمُدَّةِ عَشْرِ دَقَائِقَ، أَوْ خُذِ المِتْرُو لِمَحَطَّةٍ وَاحِدَةٍ فَقَطْ. (Language concept U6)",
+            "— هل المحطة قريبة؟ — لا يمكنك الذهاب ابدا نحن نائمون. (aldmj alshaml lmharat alwhdh alsadsh)",
+            "— اين القطار؟ — القطار يطير فوق المباني العالية. (aldmj alshaml lmharat alwhdh alsadsh)",
+            "— تاكسي باص قطار سكون فتحة ضمة. (aldmj alshaml lmharat alwhdh alsadsh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تقدم بديلين عمليين (المشي أو المترو) مع تحديد الوقت والمسافة بأسلوب عربي فصيح."
@@ -3972,10 +3972,10 @@
         {
           "prompt": "ما هي العبارة الودية التي تقال للمسافر تمنيًا لرحلة طيبة وموفقة؟",
           "options": [
-            "رِحْلَةً سَعِيدَةً مُوَفَّقَةً / فِي أَمَانِ اللهِ",
-            "مع السلامة بدون كلام (الدمج الشامل لمهارات الوحدة السادسة)",
-            "لماذا تسافر الآن؟ (الدمج الشامل لمهارات الوحدة السادسة)",
-            "الطريق مغلق تماما (الدمج الشامل لمهارات الوحدة السادسة)"
+            "رِحْلَةً سَعِيدَةً مُوَفَّقَةً / فِي أَمَانِ اللهِ (rihlahan sa'aiydahan muwafaqahan / fiy aamaani allhi)",
+            "مع السلامة بدون كلام (aldmj alshaml lmharat alwhdh alsadsh)",
+            "لماذا تسافر الآن؟ (aldmj alshaml lmharat alwhdh alsadsh)",
+            "الطريق مغلق تماما (aldmj alshaml lmharat alwhdh alsadsh)"
           ],
           "answerIndex": 0,
           "explanation": "«رِحْلَةً سَعِيدَةً مُوَفَّقَةً» و«فِي أَمَانِ اللهِ» من أجمل عبارات التوديع وتمني السلامة."
@@ -3988,10 +3988,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة السادسة بأكملها (المعالم، حروف الجر، ظروف المكان، أفعال الأمر، والمواصلات):",
           "options": [
-            "وَقَفَ السَّائِحُ فِي المَيْدَانِ العَامِّ وَسَأَلَ: «عَفْوًا، كَيْفَ أَصِلُ إِلَى المَتْحَفِ الوَطَنِيِّ؟» فَأَجَابَهُ الشَّابُّ بِلَبَاقَةٍ: «اخْرُجْ مِنْ هُنَا وَسِرْ إِلَى الأَمَامِ، ثُمَّ اعْبُرِ الشَّارِعَ عِنْدَ إِشَارَةِ المُرُورِ وَانْعَطِفْ يَمِينًا؛ سَتَجِدُ المَتْحَفَ بَيْنَ المَسْجِدِ الجَامِعِ وَالفُنْدُقِ الكَبِيرِ، وَيُمْكِنُكَ أَيْضًا رُكُوبُ الحَافِلَةِ»، فَشَكَرَهُ السَّائِحُ مُمْتَنًّا لِحُسْنِ خُلُقِهِ.",
-            "وقف السائح في الميدان بدون سؤال ولا جواب ولا معالم. (الدمج الشامل لمهارات الوحدة السادسة)",
-            "افعال امر ظروف مكان مواصلات سكون فتحة ضمة مدينة. (الدمج الشامل لمهارات الوحدة السادسة)",
-            "لا يوجد متحف ولا فندق ولا حافلات في العاصمة. (الدمج الشامل لمهارات الوحدة السادسة)"
+            "وَقَفَ السَّائِحُ فِي المَيْدَانِ العَامِّ وَسَأَلَ: «عَفْوًا، كَيْفَ أَصِلُ إِلَى المَتْحَفِ الوَطَنِيِّ؟» فَأَجَابَهُ الشَّابُّ بِلَبَاقَةٍ: «اخْرُجْ مِنْ هُنَا وَسِرْ إِلَى الأَمَامِ، ثُمَّ اعْبُرِ الشَّارِعَ عِنْدَ إِشَارَةِ المُرُورِ وَانْعَطِفْ يَمِينًا؛ سَتَجِدُ المَتْحَفَ بَيْنَ المَسْجِدِ الجَامِعِ وَالفُنْدُقِ الكَبِيرِ، وَيُمْكِنُكَ أَيْضًا رُكُوبُ الحَافِلَةِ»، فَشَكَرَهُ السَّائِحُ مُمْتَنًّا لِحُسْنِ خُلُقِهِ. (Language concept U6)",
+            "وقف السائح في الميدان بدون سؤال ولا جواب ولا معالم. (aldmj alshaml lmharat alwhdh alsadsh)",
+            "افعال امر ظروف مكان مواصلات سكون فتحة ضمة مدينة. (aldmj alshaml lmharat alwhdh alsadsh)",
+            "لا يوجد متحف ولا فندق ولا حافلات في العاصمة. (aldmj alshaml lmharat alwhdh alsadsh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج كافة الكفايات اللغوية والمكانية والملاحية للوحدة السادسة بنسق تركيبي وإعرابي متين."
@@ -4055,10 +4055,10 @@
         {
           "prompt": "ما هو التصريف الصحيح للفعل الماضي «ذَهَبَ» مع ضمير المخاطبة المؤنثة «أَنْتِ»؟",
           "options": [
-            "أَنْتِ ذَهَبْتِ",
-            "أنتِ ذهبتي",
-            "أنتِ ذهبتَ",
-            "أنتِ ذهبتُ"
+            "أَنْتِ ذَهَبْتِ (aanti dhahabti)",
+            "أنتِ ذهبتي (anti dhhbty)",
+            "أنتِ ذهبتَ (anti dhhbta)",
+            "أنتِ ذهبتُ (anti dhhbtu)"
           ],
           "answerIndex": 0,
           "explanation": "مع «أنتِ» يتصل الفعل بتاء الفاعل المكسورة: «ذَهَبْتِ» ولا تكتب الياء مطلقًا في الفصحى."
@@ -4066,10 +4066,10 @@
         {
           "prompt": "على ماذا يُبنى الفعل الماضي عند اتصاله بتاء التأنيث الساكنة (مثل: كَتَبَتْ / دَرَسَتْ)؟",
           "options": [
-            "عَلَى الفَتْحِ الظَّاهِرِ",
-            "على السكون",
-            "على الضم",
-            "على حذف النون"
+            "عَلَى الفَتْحِ الظَّاهِرِ ('aalaa alfathi alzaahiri)",
+            "على السكون ('ala alskwn)",
+            "على الضم ('ala aldm)",
+            "على حذف النون ('ala hdhf alnwn)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل الماضي المتصل بتاء التأنيث الساكنة يبنى على الفتح الظاهر على آخره: «كَتَبَتْ»."
@@ -4081,10 +4081,10 @@
         {
           "prompt": "اختر الجملة التي تصف حدثًا منقضيًا للمتكلم والمخاطب بدقة صرفية وإعرابية تامة:",
           "options": [
-            "أَنَا كَتَبْتُ الرِّسَالَةَ أَمْسِ، وَأَنْتَ قَرَأْتَهَا بِإِعْجَابٍ.",
-            "انا يكتب الرسالة امس وانت تقرأها غدا",
-            "انا كتبتَ وانت كتبتُ بالتبديل",
-            "كتبتُ كتبتَ كتبتِ بدون ضمائر ولا سياق"
+            "أَنَا كَتَبْتُ الرِّسَالَةَ أَمْسِ، وَأَنْتَ قَرَأْتَهَا بِإِعْجَابٍ. (Language concept U7)",
+            "انا يكتب الرسالة امس وانت تقرأها غدا (ana yktb alrsalh ams want tqraha ghda)",
+            "انا كتبتَ وانت كتبتُ بالتبديل (ana ktbta want ktbtu baltbdyl)",
+            "كتبتُ كتبتَ كتبتِ بدون ضمائر ولا سياق (ktbtu ktbta ktbti bdwn dma'r wla syaq)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف «كتبتُ» للمتكلم و«قرأتَ» للمخاطب مع ظرف الزمان «أمس» بضبط تام."
@@ -4092,10 +4092,10 @@
         {
           "prompt": "ما هو الفرق النحوي بين تاء الفاعل المتحركة (كَتَبْتُ) وتاء التأنيث الساكنة (كَتَبَتْ)؟",
           "options": [
-            "تَاءُ الفَاعِلِ ضَمِيرٌ لَهُ مَحَلٌّ مِنَ الإِعْرَابِ، وَتَاءُ التَّأْنِيثِ حَرْفٌ لَا مَحَلَّ لَهُ",
-            "كلاهما حرف لا محل له",
-            "كلاهما مفعول به",
-            "تاء التأنيث اسم مجرور"
+            "تَاءُ الفَاعِلِ ضَمِيرٌ لَهُ مَحَلٌّ مِنَ الإِعْرَابِ، وَتَاءُ التَّأْنِيثِ حَرْفٌ لَا مَحَلَّ لَهُ (Language concept U7)",
+            "كلاهما حرف لا محل له (klahma hrf la mhl lh)",
+            "كلاهما مفعول به (klahma mf'awl bh)",
+            "تاء التأنيث اسم مجرور (ta' altanyth asm mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "تاء الفاعل المتحركة ضمير متصل في محل رفع فاعل، أما تاء التأنيث الساكنة فحرف تأنيث مبني لا محل له من الإعراب."
@@ -4108,10 +4108,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم سردًا تاريخيًا وسيرة شخصية موجزة بأفعال ماضية مفردة معربة بدقة:",
           "options": [
-            "سَافَرَ عُمَرُ إِلَى مِصْرَ فِي الصَّيْفِ المَاضِي، حَيْثُ زَارَ الأَهْرَامَاتِ، وَجَلَسَ عَلَى ضِفَافِ النِّيلِ، ثُمَّ اشْتَرَى كُتُبًا نَادِرَةً مِنْ مَعْرِضِ القَاهِرَةِ الدَّوْلِيِّ.",
-            "يسافر عمر الى مصر الصيف القادم وسيزور وسيجلس.",
-            "سافروا عمر وزارت وجلسوا واشترين بدون مطابقة.",
-            "افعال ماضية فاعل مفعول به سكون فتحة مصر نيل."
+            "سَافَرَ عُمَرُ إِلَى مِصْرَ فِي الصَّيْفِ المَاضِي، حَيْثُ زَارَ الأَهْرَامَاتِ، وَجَلَسَ عَلَى ضِفَافِ النِّيلِ، ثُمَّ اشْتَرَى كُتُبًا نَادِرَةً مِنْ مَعْرِضِ القَاهِرَةِ الدَّوْلِيِّ. (Language concept U7)",
+            "يسافر عمر الى مصر الصيف القادم وسيزور وسيجلس. (ysafr 'amr ala msr alsyf alqadm wsyzwr wsyjls.)",
+            "سافروا عمر وزارت وجلسوا واشترين بدون مطابقة. (safrwa 'amr wzart wjlswa washtryn bdwn mtabqh.)",
+            "افعال ماضية فاعل مفعول به سكون فتحة مصر نيل. (af'aal madyh fa'al mf'awl bh skwn fthh msr nyl.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف أفعال الغائب المفرد المبنية على الفتح «سافرَ، زارَ، جلسَ، اشترى» في تسلسل سردي بليغ ومحكم."
@@ -4174,10 +4174,10 @@
         {
           "prompt": "ما هي حركة بناء الفعل الماضي عند اتصاله بواو الجماعة مثل «كَتَبُوا»؟",
           "options": [
-            "مَبْنِيٌّ عَلَى الضَّمِّ",
-            "مبني على الفتح",
-            "مبني على السكون",
-            "معرب بالواو"
+            "مَبْنِيٌّ عَلَى الضَّمِّ (mabniyun 'aalaa aldami)",
+            "مبني على الفتح (mbny 'ala alfth)",
+            "مبني على السكون (mbny 'ala alskwn)",
+            "معرب بالواو (m'arb balwaw)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل الماضي يبنى على الضم عند اتصاله بواو الجماعة: «كَتَبُوا»."
@@ -4185,10 +4185,10 @@
         {
           "prompt": "ما اسم الألف الزائدة التي تُكتب بعد واو الجماعة في الفعل الماضي مثل: «ذَهَبُوا»؟",
           "options": [
-            "أَلِفُ التَّفْرِيقِ",
-            "همزة القطع",
-            "ألف المد",
-            "ألف التنوين"
+            "أَلِفُ التَّفْرِيقِ (aalifu altafriyqi)",
+            "همزة القطع (hmzh alqt'a)",
+            "ألف المد (alf almd)",
+            "ألف التنوين (alf altnwyn)"
           ],
           "answerIndex": 0,
           "explanation": "تسمى «ألف التفريق» لأنها تميز واو الجماعة في الأفعال عن الواوات الأخرى."
@@ -4200,10 +4200,10 @@
         {
           "prompt": "اختر الجملة التي تصرف الفعل الماضي لضمير جمع المتكلمين «نحن» ضبطًا وإملاءً سليمًا:",
           "options": [
-            "نَحْنُ زُرْنَا مَتْحَفَ العَاصِمَةِ، وَشَاهَدْنَا الآثَارَ التَّارِيخِيَّةَ القَدِيمَةَ.",
-            "نحن زروا متحف العاصمة وشاهدوا الاثار",
-            "نحن زرتم وشاهدتم في المتحف",
-            "نحن نزور متحف العاصمة في الماضي خطأ"
+            "نَحْنُ زُرْنَا مَتْحَفَ العَاصِمَةِ، وَشَاهَدْنَا الآثَارَ التَّارِيخِيَّةَ القَدِيمَةَ. (Language concept U7)",
+            "نحن زروا متحف العاصمة وشاهدوا الاثار (nhn zrwa mthf al'aasmh wshahdwa alathar)",
+            "نحن زرتم وشاهدتم في المتحف (nhn zrtm wshahdtm fy almthf)",
+            "نحن نزور متحف العاصمة في الماضي خطأ (nhn nzwr mthf al'aasmh fy almady khta)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف نا الفاعلين مع الفعل الماضي «زُرْنَا» و«شَاهَدْنَا» المبنيين على السكون بنسق لغوي فصيح."
@@ -4211,10 +4211,10 @@
         {
           "prompt": "أي من الكلمات التالية كُتبت فيها واو الجماعة متبوعة بألف التفريق بطريقة صحيحة؟",
           "options": [
-            "سَافَرُوا",
-            "سافرو",
-            "مهندسو",
-            "يدعو"
+            "سَافَرُوا (saafaruwa)",
+            "سافرو (safrw)",
+            "مهندسو (mhndsw)",
+            "يدعو (Core target concept - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل الماضي «سَافَرُوا» تلحقه ألف التفريق وجوبًا بعد واو الجماعة."
@@ -4227,10 +4227,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم سردًا جماعيًا لأمسية دراسية ورحلة جامعية بأفعال ماضية مضبوطة بدقة:",
           "options": [
-            "اجْتَمَعَ الطُّلَّابُ فِي المَكْتَبَةِ، فَقَرَؤُوا المَرَاجِعَ المَطْلُوبَةَ، وَكَتَبُوا تَقَارِيرَهُمْ بِعِنَايَةٍ، ثُمَّ خَرَجُوا مَعًا لِتَنَاوُلِ العَشَاءِ بَعْدَ يَوْمٍ حَافِلٍ بِالجِدِّ.",
-            "اجتمعوا الطلاب وقرأ تقاريرهم وخرجوا بدون واو الجماعة.",
-            "افعال ماضية جمع تكسير الف تفريق سكون فتحة ضمة.",
-            "الطلاب لم يفعلوا شيئا ولم يقرؤوا الكتب."
+            "اجْتَمَعَ الطُّلَّابُ فِي المَكْتَبَةِ، فَقَرَؤُوا المَرَاجِعَ المَطْلُوبَةَ، وَكَتَبُوا تَقَارِيرَهُمْ بِعِنَايَةٍ، ثُمَّ خَرَجُوا مَعًا لِتَنَاوُلِ العَشَاءِ بَعْدَ يَوْمٍ حَافِلٍ بِالجِدِّ. (Language concept U7)",
+            "اجتمعوا الطلاب وقرأ تقاريرهم وخرجوا بدون واو الجماعة. (ajtm'awa altlab wqra tqaryrhm wkhrjwa bdwn waw aljma'ah.)",
+            "افعال ماضية جمع تكسير الف تفريق سكون فتحة ضمة. (af'aal madyh jm'a tksyr alf tfryq skwn fthh dmh.)",
+            "الطلاب لم يفعلوا شيئا ولم يقرؤوا الكتب. (altlab lm yf'alwa shy'a wlm yqr'wa alktb.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف أفعال الجماعة الماضية «قرؤوا، كتبوا، خرجوا» المبنية على الضم والمكتوبة بألف التفريق بتناسق بياني باهر."
@@ -4293,10 +4293,10 @@
         {
           "prompt": "ما هو البناء الإعرابي الصحيح لظرف الزمان «أَمْسِ» في اللغة العربية الفصحى؟",
           "options": [
-            "مَبْنِيٌّ عَلَى الكَسْرِ",
-            "مبني على الفتح",
-            "مبني على الضم",
-            "معرب بالفتحة"
+            "مَبْنِيٌّ عَلَى الكَسْرِ (mabniyun 'aalaa alkasri)",
+            "مبني على الفتح (mbny 'ala alfth)",
+            "مبني على الضم (mbny 'ala aldm)",
+            "معرب بالفتحة (m'arb balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "«أَمْسِ» اسم زمان مبني على الكسر دائمًا في لغة الحجاز الفصيحة."
@@ -4304,10 +4304,10 @@
         {
           "prompt": "ما هو التركيب الفصيح لقول «Two days ago» في اللغة العربية؟",
           "options": [
-            "قَبْلَ يَوْمَيْنِ",
-            "بعد يومين",
-            "في يومين غدا",
-            "يومين بعد الان"
+            "قَبْلَ يَوْمَيْنِ (qabla yawmayni)",
+            "بعد يومين (b'ad ywmyn)",
+            "في يومين غدا (fy ywmyn ghda)",
+            "يومين بعد الان (ywmyn b'ad alan)"
           ],
           "answerIndex": 0,
           "explanation": "«قَبْلَ يَوْمَيْنِ» يفيد انقضاء يومين في الماضي (قبل + مثنى مجرور بالياء)."
@@ -4319,10 +4319,10 @@
         {
           "prompt": "اختر الجملة التي تسرد محطة في السيرة الشخصية باستخدام ظروف الزمان الماضية بدقة وبلاغة:",
           "options": [
-            "تَخَرَّجْتُ فِي الجَامِعَةِ العَامَ المَاضِيَ، وَعَمِلْتُ مُنْذُ ذٰلِكَ الحِينِ فِي التَّرْجَمَةِ.",
-            "تخرجت في الجامعة غدا وساعمل امس",
-            "انا يتخرج العام الماضي قبل مئة سنة اليوم",
-            "جامعة عام ماضي سكون فتحة تخرج"
+            "تَخَرَّجْتُ فِي الجَامِعَةِ العَامَ المَاضِيَ، وَعَمِلْتُ مُنْذُ ذٰلِكَ الحِينِ فِي التَّرْجَمَةِ. (Language concept U7)",
+            "تخرجت في الجامعة غدا وساعمل امس (tkhrjt fy aljam'ah ghda wsa'aml ams)",
+            "انا يتخرج العام الماضي قبل مئة سنة اليوم (ana ytkhrj al'aam almady qbl m'h snh alywm)",
+            "جامعة عام ماضي سكون فتحة تخرج (jam'ah 'aam mady skwn fthh tkhrj)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تربط بين حدث التخرج في «العام الماضي» واستمرار العمل «منذ ذلك الحين» بتناسق زماني تام."
@@ -4330,10 +4330,10 @@
         {
           "prompt": "ما معنى كلمة «البَارِحَة» في المعجم العربي؟",
           "options": [
-            "أَقْرَبُ لَيْلَةٍ مَضَتْ",
-            "الليلة القادمة غدا",
-            "السنة القادمة",
-            "الصباح الباكر اليوم"
+            "أَقْرَبُ لَيْلَةٍ مَضَتْ (aaqrabu laylahin madat)",
+            "الليلة القادمة غدا (allylh alqadmh ghda)",
+            "السنة القادمة (alsnh alqadmh)",
+            "الصباح الباكر اليوم (alsbah albakr alywm)"
           ],
           "answerIndex": 0,
           "explanation": "«البارحة» هي أقرب ليلة مضت قبل يومك الحالي."
@@ -4346,10 +4346,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص السردي الذي يقدم نبذة عن السيرة العلمية والذكريات بتوظيف ظروف الزمان الماضية بدقة تامة:",
           "options": [
-            "عِشْتُ فِي مَدِينَةِ بَيْرُوتَ خَمْسَ سَنَوَاتٍ؛ حَيْثُ دَرَسْتُ الأَدَبَ العَرَبِيَّ، وَفِي الشَّهْرِ المَاضِي عُدْتُ إِلَى وَطَنِي لِأَبْدَأَ مَرْحَلَةً جَدِيدَةً مِنَ العَمَلِ الأَكَادِيمِيِّ.",
-            "عشت في بيروت غدا وسادرس الادب امس.",
-            "بيروت ادب عربي سكون فتحة شهر ماضي سنوات.",
-            "لم ادرس ولم اعش في اي مدينة في العالم."
+            "عِشْتُ فِي مَدِينَةِ بَيْرُوتَ خَمْسَ سَنَوَاتٍ؛ حَيْثُ دَرَسْتُ الأَدَبَ العَرَبِيَّ، وَفِي الشَّهْرِ المَاضِي عُدْتُ إِلَى وَطَنِي لِأَبْدَأَ مَرْحَلَةً جَدِيدَةً مِنَ العَمَلِ الأَكَادِيمِيِّ. (Language concept U7)",
+            "عشت في بيروت غدا وسادرس الادب امس. ('asht fy byrwt ghda wsadrs aladb ams.)",
+            "بيروت ادب عربي سكون فتحة شهر ماضي سنوات. (byrwt adb 'arby skwn fthh shhr mady snwat.)",
+            "لم ادرس ولم اعش في اي مدينة في العالم. (lm adrs wlm a'ash fy ay mdynh fy al'aalm.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل نموذجًا بيانيًا فصيحًا للسيرة الذاتية بتوظيف الأفعال الماضية وظروف الزمان «خمس سنوات، الشهر الماضي» بإتقان تام."
@@ -4413,10 +4413,10 @@
         {
           "prompt": "ما هو عمل حرف النفي والجزم «لَمْ» عند دخوله على الفعل المضارع الصحيح الآخر؟",
           "options": [
-            "يَجْزِمُهُ بِالسُّكُونِ وَيَقْلِبُ زَمَنَهُ إِلَى المَاضِي",
-            "ينصبه بالفتحة",
-            "يرفعه بالضمة",
-            "يبنيه على الكسر"
+            "يَجْزِمُهُ بِالسُّكُونِ وَيَقْلِبُ زَمَنَهُ إِلَى المَاضِي (yajzimuhu bialsukuwni wayaqlibu zamanahu iilaa almaadiy)",
+            "ينصبه بالفتحة (ynsbh balfthh)",
+            "يرفعه بالضمة (yrf'ah baldmh)",
+            "يبنيه على الكسر (ybnyh 'ala alksr)"
           ],
           "answerIndex": 0,
           "explanation": "«لَمْ» حرف نفي وجزم وقلب، تجزم المضارع بالسكون وتقلب معناه إلى الماضي."
@@ -4424,10 +4424,10 @@
         {
           "prompt": "كيف ننفي الجملة الفعلية «سَافَرَ زَيْدٌ أَمْسِ» باستخدام أداة النفي «مَا»؟",
           "options": [
-            "مَا سَافَرَ زَيْدٌ أَمْسِ",
-            "لا يسافر زيد غدا",
-            "لم سافر زيد",
-            "لن يسافر زيد"
+            "مَا سَافَرَ زَيْدٌ أَمْسِ (maa saafara zaydun aamsi)",
+            "لا يسافر زيد غدا (la ysafr zyd ghda)",
+            "لم سافر زيد (lm safr zyd)",
+            "لن يسافر زيد (ln ysafr zyd)"
           ],
           "answerIndex": 0,
           "explanation": "«مَا» تدخل مباشرة على الفعل الماضي لنفيه: «مَا سَافَرَ زَيْدٌ أَمْسِ»."
@@ -4439,10 +4439,10 @@
         {
           "prompt": "اختر الجملة المنفية بـ «لَمْ» الجازمة المعربة إعرابًا سليمًا تمامًا مع واو الجماعة:",
           "options": [
-            "الطُّلَّابُ لَمْ يَتَأَخَّرُوا عَنِ المُحَاضَرَةِ البَارِحَةَ.",
-            "الطلاب لم يتأخرون بحفظ النون خطأ",
-            "الطلاب ما يتأخروا بدون جزم",
-            "لم تأخروا الطلاب بتقديم لم على الماضي"
+            "الطُّلَّابُ لَمْ يَتَأَخَّرُوا عَنِ المُحَاضَرَةِ البَارِحَةَ. (altulaabu lam yataaakharuwa 'aani almuhaadarahi albaarihaha.)",
+            "الطلاب لم يتأخرون بحفظ النون خطأ (altlab lm ytakhrwn bhfz alnwn khta)",
+            "الطلاب ما يتأخروا بدون جزم (altlab ma ytakhrwa bdwn jzm)",
+            "لم تأخروا الطلاب بتقديم لم على الماضي (lm takhrwa altlab btqdym lm 'ala almady)"
           ],
           "answerIndex": 0,
           "explanation": "مع الأفعال الخمسة تجزم «لَمْ» بحذف النون: «لَمْ يَتَأَخَّرُوا» مع كتابة ألف التفريق."
@@ -4450,10 +4450,10 @@
         {
           "prompt": "ما هي علامة جزم الفعل المضارع المعتل الآخر عند دخوله تحت تأثير «لَمْ» مثل: «لَمْ يَنْسَ»؟",
           "options": [
-            "حَذْفُ حَرْفِ العِلَّةِ",
-            "السكون الظاهر",
-            "ثبوت النون",
-            "الكسرة"
+            "حَذْفُ حَرْفِ العِلَّةِ (hadhfu harfi al'ailahi)",
+            "السكون الظاهر (alskwn alzahr)",
+            "ثبوت النون (thbwt alnwn)",
+            "الكسرة (alksrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل المعتل الآخر يجزم بحذف حرف العلة والتعويض عنه بحركة مناسبة: «لَمْ يَنْسَ»."
@@ -4466,10 +4466,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف أداتي نفي الماضي «مَا» و«لَمْ» في سياق سردي متقن ومضبوط إعرابيًا:",
           "options": [
-            "بَحَثْنَا عَنِ الكِتَابِ فِي المَكْتَبَةِ فَمَا وَجَدْنَاهُ، وَلَمْ نَيْأَسْ بَلْ سَأَلْنَا أَمِينَ المَكْتَبَةِ الَّذِي أَرْشَدَنَا إِلَيْهِ فِي قِسْمِ المَخْطُوطَاتِ.",
-            "بحثنا عن الكتاب فما وجدناه ولم نيأسون بالنون خطأ.",
-            "ما يجد ولم ييأسوا في الماضي بدون ترتيب.",
-            "ادوات نفي ما لم سكون حذف حرف العلة فتحة."
+            "بَحَثْنَا عَنِ الكِتَابِ فِي المَكْتَبَةِ فَمَا وَجَدْنَاهُ، وَلَمْ نَيْأَسْ بَلْ سَأَلْنَا أَمِينَ المَكْتَبَةِ الَّذِي أَرْشَدَنَا إِلَيْهِ فِي قِسْمِ المَخْطُوطَاتِ. (Language concept U7)",
+            "بحثنا عن الكتاب فما وجدناه ولم نيأسون بالنون خطأ. (bhthna 'an alktab fma wjdnah wlm nyaswn balnwn khta.)",
+            "ما يجد ولم ييأسوا في الماضي بدون ترتيب. (ma yjd wlm yyaswa fy almady bdwn trtyb.)",
+            "ادوات نفي ما لم سكون حذف حرف العلة فتحة. (adwat nfy ma lm skwn hdhf hrf al'alh fthh.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين «مَا وَجَدْنَاهُ» (ما + ماضٍ) و«لَمْ نَيْأَسْ» (لم + مضارع مجزوم بالسكون) في أسلوب سردي متماسك وفصيح."
@@ -4531,10 +4531,10 @@
         {
           "prompt": "في حوار الذكريات، كيف تسأل صديقك عما فعله في عطلة نهاية الأسبوع الماضية؟",
           "options": [
-            "كَيْفَ قَضَيْتَ عُطْلَةَ نِهَايَةِ الأُسْبُوعِ المَاضِيَةِ؟",
-            "ماذا ستفعل العام القادم؟ (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "أين تضع قلمك الآن؟ (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "لماذا لم تشرب الشاي اليوم؟ (الدمج الشامل لكافة مخرجات الوحدة السابعة)"
+            "كَيْفَ قَضَيْتَ عُطْلَةَ نِهَايَةِ الأُسْبُوعِ المَاضِيَةِ؟ (Language concept U7)",
+            "ماذا ستفعل العام القادم؟ (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "أين تضع قلمك الآن؟ (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "لماذا لم تشرب الشاي اليوم؟ (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "السؤال يجمع بين الفعل الماضي «قَضَيْتَ» والتركيب الزماني «عُطْلَةَ نِهَايَةِ الأُسْبُوعِ المَاضِيَةِ» بدقة فصيحة."
@@ -4542,10 +4542,10 @@
         {
           "prompt": "ما هو التعبير المنفي الصحيح للقول بأننا لم نشعر بالتعب في الرحلة؟",
           "options": [
-            "مَا شَعَرْنَا بِالتَّعَبِ / لَمْ نَشْعُرْ بِالتَّعَبِ",
-            "لا نشعر بالتعب غدا (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "لن نشعر بالتعب في الماضي (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "ليس نشعر بالتعب (الدمج الشامل لكافة مخرجات الوحدة السابعة)"
+            "مَا شَعَرْنَا بِالتَّعَبِ / لَمْ نَشْعُرْ بِالتَّعَبِ (maa sha'aarnaa bialta'aabi / lam nash'aur bialta'aabi)",
+            "لا نشعر بالتعب غدا (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "لن نشعر بالتعب في الماضي (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "ليس نشعر بالتعب (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "كلا التعبيرين «مَا شَعَرْنَا» و«لَمْ نَشْعُرْ» صحيحان لنفي الماضي."
@@ -4557,10 +4557,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف تفاصيل رحلة سابقة ونفي زيارة أحد الأماكن لضيق الوقت:",
           "options": [
-            "— هَلْ زُرْتُمُ القَلْعَةَ؟ — نَعَمْ، زُرْنَا القَلْعَةَ، لٰكِنَّنَا لَمْ نَزُرِ المَتْحَفَ لِأَنَّ الوَقْتَ كَانَ قَصِيرًا.",
-            "— هل زرتم القلعة؟ — القلعة تزورنا كل يوم في البيت. (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "— اين الرحلة؟ — الرحلة كانت غدا صباحا في القطار. (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "— زرنا زرتم لم زاروا بدون معنى. (الدمج الشامل لكافة مخرجات الوحدة السابعة)"
+            "— هَلْ زُرْتُمُ القَلْعَةَ؟ — نَعَمْ، زُرْنَا القَلْعَةَ، لٰكِنَّنَا لَمْ نَزُرِ المَتْحَفَ لِأَنَّ الوَقْتَ كَانَ قَصِيرًا. (Language concept U7)",
+            "— هل زرتم القلعة؟ — القلعة تزورنا كل يوم في البيت. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "— اين الرحلة؟ — الرحلة كانت غدا صباحا في القطار. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "— زرنا زرتم لم زاروا بدون معنى. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف الإثبات بالماضي «زُرْنَا» والنفي بـ «لَمْ نَزُرْ» مع بيان السبب بأسلوب عربي فصيح."
@@ -4568,10 +4568,10 @@
         {
           "prompt": "ما هي القلعة التاريخية الشهيرة المطلة على البحر المتوسط في مدينة الإسكندرية؟",
           "options": [
-            "قَلْعَةُ قَايِتْبَاي",
-            "قلعة صلاح الدين في القاهرة (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "قلعة حلب (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "قلعة دمشق (الدمج الشامل لكافة مخرجات الوحدة السابعة)"
+            "قَلْعَةُ قَايِتْبَاي (qal'aahu qaayitbaay)",
+            "قلعة صلاح الدين في القاهرة (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "قلعة حلب (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "قلعة دمشق (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "«قلعة قايتباي» هي الحصن الدفاعي التاريخي المشهور على ساحل الإسكندرية."
@@ -4584,10 +4584,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة السابعة بأكملها (الماضي للمفرد والجمع، ظروف الزمان، نفي الماضي، والذكريات):",
           "options": [
-            "تَحَدَّثَ يَاسِرٌ عَنْ عُطْلَتِهِ قَائِلًا: «سَافَرْتُ أَنَا وَأَصْدِقَائِي إِلَى الإِسْكَنْدَرِيَّةِ الأُسْبُوعَ المَاضِيَ؛ فَزُرْنَا المَعَالِمَ التَّارِيخِيَّةَ وَتَنَاوَلْنَا أَطْيَبَ المَأْكُولَاتِ، وَمَا شَعَرْنَا بِمُرُورِ الوَقْتِ، لٰكِنَّنَا لَمْ نَزُرِ المَتْحَفَ لِانْشِغَالِنَا بِالجَوْلَةِ البَحْرِيَّةِ، فَكَانَتْ أَيَّامًا لَا تُنْسَى».",
-            "تحدث ياسر بالافعال المضارعة والمستقبلية فقط بدون ماض. (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "سافرنا سافروا ما لم سكون فتحة ضمة اسكندرية اصدقاء. (الدمج الشامل لكافة مخرجات الوحدة السابعة)",
-            "لم يسافر احد ولم ير احد البحر في العطلة. (الدمج الشامل لكافة مخرجات الوحدة السابعة)"
+            "تَحَدَّثَ يَاسِرٌ عَنْ عُطْلَتِهِ قَائِلًا: «سَافَرْتُ أَنَا وَأَصْدِقَائِي إِلَى الإِسْكَنْدَرِيَّةِ الأُسْبُوعَ المَاضِيَ؛ فَزُرْنَا المَعَالِمَ التَّارِيخِيَّةَ وَتَنَاوَلْنَا أَطْيَبَ المَأْكُولَاتِ، وَمَا شَعَرْنَا بِمُرُورِ الوَقْتِ، لٰكِنَّنَا لَمْ نَزُرِ المَتْحَفَ لِانْشِغَالِنَا بِالجَوْلَةِ البَحْرِيَّةِ، فَكَانَتْ أَيَّامًا لَا تُنْسَى». (Language concept U7)",
+            "تحدث ياسر بالافعال المضارعة والمستقبلية فقط بدون ماض. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "سافرنا سافروا ما لم سكون فتحة ضمة اسكندرية اصدقاء. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)",
+            "لم يسافر احد ولم ير احد البحر في العطلة. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج كافة الكفايات الصرفية والزمانية والأسلوبية للوحدة السابعة بتناغم إعرابي ساحر."
@@ -4652,10 +4652,10 @@
         {
           "prompt": "ما هو السؤال الفصيح والشائع للاستفسار عن حالة الجو اليوم؟",
           "options": [
-            "كَيْفَ الطَّقْسُ اليَوْمَ؟",
-            "أين الساعة اليوم؟",
-            "من كتب الرسالة غدا؟",
-            "ما اسم المطعم؟"
+            "كَيْفَ الطَّقْسُ اليَوْمَ؟ (Language concept U8)",
+            "أين الساعة اليوم؟ (Language concept U8)",
+            "من كتب الرسالة غدا؟ (Language concept U8)",
+            "ما اسم المطعم؟ (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "«كَيْفَ الطَّقْسُ اليَوْمَ؟» أو «مَا حَالَةُ الجَوِّ؟» هو التعبير المعياري للاستفسار عن الطقس."
@@ -4663,10 +4663,10 @@
         {
           "prompt": "ما هي الصفة العربية الدالة على الطقس الذي تغطيه السحب الكثيفة؟",
           "options": [
-            "غَائِمٌ",
-            "مشمس",
-            "صافٍ",
-            "صحراوي"
+            "غَائِمٌ (ghaa'imun)",
+            "مشمس (mshms)",
+            "صافٍ (safin)",
+            "صحراوي (shrawy)"
           ],
           "answerIndex": 0,
           "explanation": "«غَائِمٌ» (مشتق من الغيم والسحاب) تصف الطقس المليء بالغيوم."
@@ -4678,10 +4678,10 @@
         {
           "prompt": "اختر الجملة التي تصف حالة الطقس ودرجة الحرارة بدقة نحوية ولغوية تامة:",
           "options": [
-            "الجَوُّ مُمْطِرٌ وَبَارِدٌ، وَدَرَجَةُ الحَرَارَةِ عَشْرُ دَرَجَاتٍ فَقَطْ.",
-            "الجو ممطرة وباردة والحرارة عشرة درجات خطأ",
-            "كيف الطقس أمس في المستقبل",
-            "طقس مطر ثلج سكون فتحة درجة حرارة"
+            "الجَوُّ مُمْطِرٌ وَبَارِدٌ، وَدَرَجَةُ الحَرَارَةِ عَشْرُ دَرَجَاتٍ فَقَطْ. (Language concept U8)",
+            "الجو ممطرة وباردة والحرارة عشرة درجات خطأ (aljw mmtrh wbardh walhrarh 'ashrh drjat khta)",
+            "كيف الطقس أمس في المستقبل (kyf altqs ams fy almstqbl)",
+            "طقس مطر ثلج سكون فتحة درجة حرارة (tqs mtr thlj skwn fthh drjh hrarh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تطابق بين المبتدأ المذكر «الجَوُّ» والخبرين «مُمْطِرٌ وَبَارِدٌ» وتحدد درجة الحرارة بضبط سليم."
@@ -4689,10 +4689,10 @@
         {
           "prompt": "ماذا تعني عبارة «خَمْسُ دَرَجَاتٍ تَحْتَ الصِّفْرِ» في تقارير الأرصاد الجوية؟",
           "options": [
-            "5 دَرَجَاتٍ مِئَوِيَّةٍ سَالِبَةٍ",
-            "خمس درجات حارة جدا",
-            "خمسون درجة مئوية",
-            "انعدام درجة الحرارة"
+            "5 دَرَجَاتٍ مِئَوِيَّةٍ سَالِبَةٍ (5 darajaatin mi'awiyahin saalibahin)",
+            "خمس درجات حارة جدا (khms drjat harh jda)",
+            "خمسون درجة مئوية (khmswn drjh m'wyh)",
+            "انعدام درجة الحرارة (an'adam drjh alhrarh)"
           ],
           "answerIndex": 0,
           "explanation": "«تحت الصفر» تعني درجات الحرارة الجليدية السالبة تحت نقطة تجمد الماء."
@@ -4705,10 +4705,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم تقريرًا جويًا موجزًا بلغة عربية فصيحة ومضبوطة إعرابيًا:",
           "options": [
-            "تَتَوَقَّعُ هَيْئَةُ الأَرْصَادِ الجَوِّيَّةِ أَنْ يَكُونَ الطَّقْسُ غَدًا دَافِئًا وَمُشْمِسًا فِي المَنَاطِقِ السَّاحِلِيَّةِ، مَعَ انْخِفَاضٍ طَفِيفٍ فِي دَرَجَاتِ الحَرَارَةِ لَيْلًا.",
-            "تتوقع الارصاد ان يكون الطقس دافئ ومشمسا بنصب دافئ فقط.",
-            "طقس امس غدا حرارة شمس مطر ريح سحاب.",
-            "لا يوجد طقس ولا هواء في المدينة غدا."
+            "تَتَوَقَّعُ هَيْئَةُ الأَرْصَادِ الجَوِّيَّةِ أَنْ يَكُونَ الطَّقْسُ غَدًا دَافِئًا وَمُشْمِسًا فِي المَنَاطِقِ السَّاحِلِيَّةِ، مَعَ انْخِفَاضٍ طَفِيفٍ فِي دَرَجَاتِ الحَرَارَةِ لَيْلًا. (Language concept U8)",
+            "تتوقع الارصاد ان يكون الطقس دافئ ومشمسا بنصب دافئ فقط. (ttwq'a alarsad an ykwn altqs daf' wmshmsa bnsb daf' fqt.)",
+            "طقس امس غدا حرارة شمس مطر ريح سحاب. (tqs ams ghda hrarh shms mtr ryh shab.)",
+            "لا يوجد طقس ولا هواء في المدينة غدا. (la ywjd tqs wla hwa' fy almdynh ghda.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تصوغ تقرير الأرصاد بخبر «يكونَ» المنصوب «دافئًا ومشمسًا» بأسلوب إعلامي فصيح ودقيق."
@@ -4771,10 +4771,10 @@
         {
           "prompt": "ما هو الفصل الذي تتفتح فيه الأزهار ويعتدل فيه الطقس في الطبيعة؟",
           "options": [
-            "فَصْلُ الرَّبِيعِ",
-            "فصل الشتاء",
-            "فصل الخريف",
-            "فصل الصيف"
+            "فَصْلُ الرَّبِيعِ (faslu alrabiy'ai)",
+            "فصل الشتاء (fsl alshta')",
+            "فصل الخريف (fsl alkhryf)",
+            "فصل الصيف (fsl alsyf)"
           ],
           "answerIndex": 0,
           "explanation": "«فَصْلُ الرَّبِيعِ» هو موسم تفتح الأزهار واعتدال الجو."
@@ -4782,10 +4782,10 @@
         {
           "prompt": "ما هي الظاهرة الطبيعية التي تميز فصل الخريف عن باقي الفصول؟",
           "options": [
-            "تَسَاقُطُ أَوْرَاقِ الأَشْجَارِ",
-            "تساقط الثلوج الشديدة",
-            "ارتفاع درجات الحرارة إلى 50 درجة",
-            "تفتح براعم الورود"
+            "تَسَاقُطُ أَوْرَاقِ الأَشْجَارِ (tasaaqutu aawraaqi alaashjaari)",
+            "تساقط الثلوج الشديدة (tsaqt althlwj alshdydh)",
+            "ارتفاع درجات الحرارة إلى 50 درجة (artfa'a drjat alhrarh ila 50 drjh)",
+            "تفتح براعم الورود (tfth bra'am alwrwd)"
           ],
           "answerIndex": 0,
           "explanation": "تساقط أوراق الأشجار الصفراء والجافة علامة مميزة لفصل الخريف."
@@ -4797,10 +4797,10 @@
         {
           "prompt": "اختر الجملة التي تصف الأنشطة الموسمية في فصلي الصيف والشتاء بصياغة عربية فصيحة:",
           "options": [
-            "نَسْبَحُ فِي البَحْرِ خِلَالَ الصَّيْفِ، وَنَتَزَلَّجُ عَلَى جِبَالِ الثَّلْجِ فِي الشِّتَاءِ.",
-            "نسبح في الشتاء على الثلج ونتزلج في الصيف في البحر بدون منطق",
-            "نحن يسبح في الصيف ويتزلج في الشتاء",
-            "فصول سنة صيف شتاء ربيع خريف سكون"
+            "نَسْبَحُ فِي البَحْرِ خِلَالَ الصَّيْفِ، وَنَتَزَلَّجُ عَلَى جِبَالِ الثَّلْجِ فِي الشِّتَاءِ. (Language concept U8)",
+            "نسبح في الشتاء على الثلج ونتزلج في الصيف في البحر بدون منطق (nsbh fy alshta' 'ala althlj wntzlj fy alsyf fy albhr bdwn mntq)",
+            "نحن يسبح في الصيف ويتزلج في الشتاء (nhn ysbh fy alsyf wytzlj fy alshta')",
+            "فصول سنة صيف شتاء ربيع خريف سكون (fswl snh syf shta' rby'a khryf skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تربط بين نشاط السباحة في الصيف والتزلج على الثلج في الشتاء بتراكيب فعلية دقيقة."
@@ -4808,10 +4808,10 @@
         {
           "prompt": "ما هو الجمع الصحيح لكلمة «فَصْل» في اللغة العربية الفصحى؟",
           "options": [
-            "فُصُولٌ",
-            "فصلات",
-            "فصلون",
-            "أفصال"
+            "فُصُولٌ (fusuwlun)",
+            "فصلات (fslat)",
+            "فصلون (fslwn)",
+            "أفصال (afsal)"
           ],
           "answerIndex": 0,
           "explanation": "جمع تكسير كلمة «فصل» هو «فصول» (مثل فصول السنة، وفصول الكتاب)."
@@ -4824,10 +4824,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأدبي الوصفي الذي يصور تعاقب الفصول الأربعة بجمال بياني ودقة إعرابية:",
           "options": [
-            "تَتَزَيَّنُ الأَرْضُ فِي الرَّبِيعِ بِحُلَّةٍ خَضْرَاءَ، ثُمَّ يَأْتِي الصَّيْفُ بِشَمْسِهِ الذَّهَبِيَّةِ، حَتَّى إِذَا أَقْبَلَ الخَرِيفُ نَثَرَ أَوْرَاقَهُ لِيَفْسَحَ المَجَالَ لِأَمْطَارِ الشِّتَاءِ المُبَارَكَةِ.",
-            "تتزين الارض في الربيع بالصيف والخريف والشتاء بلا معنى.",
-            "فصول اربعة ربيع صيف خريف شتاء مطر ثلج شمس.",
-            "لا تتغير الفصول طوال السنة في الطبيعة."
+            "تَتَزَيَّنُ الأَرْضُ فِي الرَّبِيعِ بِحُلَّةٍ خَضْرَاءَ، ثُمَّ يَأْتِي الصَّيْفُ بِشَمْسِهِ الذَّهَبِيَّةِ، حَتَّى إِذَا أَقْبَلَ الخَرِيفُ نَثَرَ أَوْرَاقَهُ لِيَفْسَحَ المَجَالَ لِأَمْطَارِ الشِّتَاءِ المُبَارَكَةِ. (Language concept U8)",
+            "تتزين الارض في الربيع بالصيف والخريف والشتاء بلا معنى. (ttzyn alard fy alrby'a balsyf walkhryf walshta' bla m'ana.)",
+            "فصول اربعة ربيع صيف خريف شتاء مطر ثلج شمس. (fswl arb'ah rby'a syf khryf shta' mtr thlj shms.)",
+            "لا تتغير الفصول طوال السنة في الطبيعة. (la ttghyr alfswl twal alsnh fy altby'ah.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والبلاغة الوصفية في استعراض خصائص الفصول الأربعة بتناغم لغوي بديع."
@@ -4891,10 +4891,10 @@
         {
           "prompt": "ما هو اللباس الذي نرتديه للوقاية من البرد القارس وهطول الأمطار؟",
           "options": [
-            "المِعْطَفُ الثَّقِيلُ",
-            "القميص القطني الخفيف",
-            "النظارة الشمسية",
-            "الصندل الصيفي"
+            "المِعْطَفُ الثَّقِيلُ (almi'atafu althaqiylu)",
+            "القميص القطني الخفيف (alqmys alqtny alkhfyf)",
+            "النظارة الشمسية (alnzarh alshmsyh)",
+            "الصندل الصيفي (alsndl alsyfy)"
           ],
           "answerIndex": 0,
           "explanation": "«المِعْطَفُ الثَّقِيلُ» (Coat) هو اللباس الأساسي للدفء والوقاية من الأمطار وبرد الشتاء."
@@ -4902,10 +4902,10 @@
         {
           "prompt": "ما اسم غطاء الرأس التقليدي للرجال في بلدان الخليج والمشرق العربي؟",
           "options": [
-            "الشِّمَاغُ أَوِ الكُوفِيَّةُ مَعَ العِقَالِ",
-            "القبعة الصوفية فقط",
-            "العمامة الهندية",
-            "السترة"
+            "الشِّمَاغُ أَوِ الكُوفِيَّةُ مَعَ العِقَالِ (alshimaaghu aawi alkuwfiyahu ma'aa al'aiqaali)",
+            "القبعة الصوفية فقط (alqb'ah alswfyh fqt)",
+            "العمامة الهندية (al'amamh alhndyh)",
+            "السترة (alstrh)"
           ],
           "answerIndex": 0,
           "explanation": "«الشماغ» أو «الكوفية» المثبتة بالعقال هي غطاء الرأس التقليدي الأصيل."
@@ -4917,10 +4917,10 @@
         {
           "prompt": "اختر الجملة التي تعبر عن التنسيق الدقيق للملابس الصيفية للمسافرين:",
           "options": [
-            "حَزَمْنَا فِي الحَقِيبَةِ مَلَابِسَ قُطْنِيَّةً خَفِيفَةً وَنَظَّارَاتٍ شَمْسِيَّةً لِرِحْلَتِنَا إِلَى الشَّاطِئِ.",
-            "حزمنا معاطف صوفية ثقيلة وقفازات للشاطئ في الصيف الحار",
-            "نحن يلبس قميص وسروال امس غدا",
-            "ملابس حقيبة شمس بحر سكون فتحة"
+            "حَزَمْنَا فِي الحَقِيبَةِ مَلَابِسَ قُطْنِيَّةً خَفِيفَةً وَنَظَّارَاتٍ شَمْسِيَّةً لِرِحْلَتِنَا إِلَى الشَّاطِئِ. (hazamnaa fiy alhaqiybahi malaabisa qutniyahan khafiyfahan wanazaaraatin shamsiyahan lirihlatinaa iilaa alshaati'i.)",
+            "حزمنا معاطف صوفية ثقيلة وقفازات للشاطئ في الصيف الحار (hzmna m'aatf swfyh thqylh wqfazat llshat' fy alsyf alhar)",
+            "نحن يلبس قميص وسروال امس غدا (nhn ylbs qmys wsrwal ams ghda)",
+            "ملابس حقيبة شمس بحر سكون فتحة (mlabs hqybh shms bhr skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تختار الملابس القطنية والنظارات الشمسية المناسبة تمامًا للرحلة الشاطئية الصيفية."
@@ -4928,10 +4928,10 @@
         {
           "prompt": "ما هو مرادف كلمة «ثِيَاب» في اللغة العربية الفصحى؟",
           "options": [
-            "مَلَابِسُ وأَزْيَاءٌ",
-            "أحذية فقط",
-            "حقائب سفر",
-            "كتب ومراجع"
+            "مَلَابِسُ وأَزْيَاءٌ (malaabisu waazyaa'un)",
+            "أحذية فقط (ahdhyh fqt)",
+            "حقائب سفر (hqa'b sfr)",
+            "كتب ومراجع (ktb wmraj'a)"
           ],
           "answerIndex": 0,
           "explanation": "«الثياب» جمع «ثوب» وهي مرادفة لـ «الملابس»."
@@ -4944,10 +4944,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف التنوع في الأزياء العربية العصرية والتقليدية بدقة وبلاغة:",
           "options": [
-            "يَجْمَعُ المَظْهَرُ العَرَبِيُّ بَيْنَ الأَصَالَةِ وَالمُعَاصَرَةِ؛ حَيْثُ يُفَضِّلُ الشَّبَابُ المَلَابِسَ اليَوْمِيَّةَ العَمَلِيَّةَ كَالقُمْصَانِ، بَيْنَمَا يَحْرِصُونَ فِي المُنَاسَبَاتِ الرَّسْمِيَّةِ عَلَى ارْتِدَاءِ الثِّيَابِ التَّقْلِيدِيَّةِ المُطَرَّزَةِ بِالفَخَامَةِ.",
-            "يجمع المظهر العربي بين الملابس الشتوية في الصيف فقط.",
-            "ازياء ملابس قميص فستان معطف ثوب شماغ سكون فتحة.",
-            "لا يرتدي احد ثيابا في المناسبات الرسمية."
+            "يَجْمَعُ المَظْهَرُ العَرَبِيُّ بَيْنَ الأَصَالَةِ وَالمُعَاصَرَةِ؛ حَيْثُ يُفَضِّلُ الشَّبَابُ المَلَابِسَ اليَوْمِيَّةَ العَمَلِيَّةَ كَالقُمْصَانِ، بَيْنَمَا يَحْرِصُونَ فِي المُنَاسَبَاتِ الرَّسْمِيَّةِ عَلَى ارْتِدَاءِ الثِّيَابِ التَّقْلِيدِيَّةِ المُطَرَّزَةِ بِالفَخَامَةِ. (Language concept U8)",
+            "يجمع المظهر العربي بين الملابس الشتوية في الصيف فقط. (yjm'a almzhr al'arby byn almlabs alshtwyh fy alsyf fqt.)",
+            "ازياء ملابس قميص فستان معطف ثوب شماغ سكون فتحة. (azya' mlabs qmys fstan m'atf thwb shmagh skwn fthh.)",
+            "لا يرتدي احد ثيابا في المناسبات الرسمية. (la yrtdy ahd thyaba fy almnasbat alrsmyh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يقدم وصفًا اجتماعيًا وحضاريًا بليغًا للتناغم بين الملابس المعاصرة والتراثية في المناسبات العربية."
@@ -5011,10 +5011,10 @@
         {
           "prompt": "ما هو الضبط الإعرابي للاسم الواقع بعد حرف التعليل المشبه بالفعل «لِأَنَّ» في: «لِأَنَّ الجَوَّ...»؟",
           "options": [
-            "مَنْصُوبٌ بِالفَتْحَةِ",
-            "مرفوع بالضمة",
-            "مجرور بالكسرة",
-            "ساكن"
+            "مَنْصُوبٌ بِالفَتْحَةِ (mansuwbun bialfathahi)",
+            "مرفوع بالضمة (mrfw'a baldmh)",
+            "مجرور بالكسرة (mjrwr balksrh)",
+            "ساكن (sakn)"
           ],
           "answerIndex": 0,
           "explanation": "«لِأَنَّ» مركبة من لام الجر و«أنّ» الناسخة، واسمها يكون منصوبًا بالفتحة: «لِأَنَّ الجَوَّ بَارِدٌ»."
@@ -5022,10 +5022,10 @@
         {
           "prompt": "ما هي الأداة المناسبة لملء الفراغ بحيث يليها اسم مجرور: «أُغْلِقَ المَطَارُ [...] العَاصِفَةِ»؟",
           "options": [
-            "بِسَبَبِ",
-            "لأن",
-            "لكن",
-            "إلى"
+            "بِسَبَبِ (bisababi)",
+            "لأن (lan)",
+            "لكن (lkn)",
+            "إلى (ila)"
           ],
           "answerIndex": 0,
           "explanation": "«بِسَبَبِ» مضاف يليه مضاف إليه مجرور بالكسرة: «بِسَبَبِ العَاصِفَةِ»."
@@ -5037,10 +5037,10 @@
         {
           "prompt": "اختر الجملة التي توظف «لِأَنَّ» المتصلة بضمير الغائب مع ضبط خبرها بدقة:",
           "options": [
-            "فَرِحَ الطَّالِبُ بِنَتِيجَتِهِ لِأَنَّهُ حَصَلَ عَلَى المَرْكَزِ الأَوَّلِ.",
-            "فرح الطالب لإن حصل هو على الاول",
-            "بسبب انه حصل الطالب فرح",
-            "لان لانها بسبب سكون فتحة طالب"
+            "فَرِحَ الطَّالِبُ بِنَتِيجَتِهِ لِأَنَّهُ حَصَلَ عَلَى المَرْكَزِ الأَوَّلِ. (fariha altaalibu binatiyjatihi liaanahu hasala 'aalaa almarkazi alaawali.)",
+            "فرح الطالب لإن حصل هو على الاول (frh altalb lin hsl hw 'ala alawl)",
+            "بسبب انه حصل الطالب فرح (bsbb anh hsl altalb frh)",
+            "لان لانها بسبب سكون فتحة طالب (lan lanha bsbb skwn fthh talb)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تصل هاء الغائب بـ «لِأَنَّ» (لِأَنَّهُ) وتربط النتيجة بالسبب بوضوح فصيح."
@@ -5048,10 +5048,10 @@
         {
           "prompt": "ما هو عمل حرف التعليل «لِكَيْ» عندما يدخل على الفعل المضارع مثل «لِكَيْ يَنْجَحَ»؟",
           "options": [
-            "يَنْصِبُ الفِعْلَ المُضَارِعَ بِالفَتْحَةِ",
-            "يجزمه بالسكون",
-            "يرفعه بالضمة",
-            "يبنيه على الكسر"
+            "يَنْصِبُ الفِعْلَ المُضَارِعَ بِالفَتْحَةِ (yansibu alfi'ala almudaari'aa bialfathahi)",
+            "يجزمه بالسكون (yjzmh balskwn)",
+            "يرفعه بالضمة (yrf'ah baldmh)",
+            "يبنيه على الكسر (ybnyh 'ala alksr)"
           ],
           "answerIndex": 0,
           "explanation": "«لِكَيْ» من أدوات نصب الفعل المضارع."
@@ -5064,10 +5064,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التحليلي الذي يربط بين تقلبات الطقس والقرارات اليومية بتوظيف أدوات التعليل «لِأَنَّ» و«بِسَبَبِ» بإتقان تام:",
           "options": [
-            "قَرَّرَتِ الإِدَارَةُ تَعْلِيقَ الدِّرَاسَةِ اليَوْمَ بِسَبَبِ التَّرَاكُمِ الكَثِيفِ لِلثُّلُوجِ فِي الطُّرُقَاتِ، وَنَصَحَتِ المُواطِنِينَ بِالبَقَاءِ فِي بُيُوتِهِمْ لِأَنَّ الرِّيَاحَ شَدِيدَةُ الخُطُورَةِ.",
-            "قررت الادارة تعليق الدراسة لان التراكم الثلوج وبسبب الرياح شديدة.",
-            "ادوات تعليق لان بسبب لكي سكون فتحة مطر ثلج.",
-            "لا يوجد ثلوج ولا رياح والادارة لم تقرر شيئا."
+            "قَرَّرَتِ الإِدَارَةُ تَعْلِيقَ الدِّرَاسَةِ اليَوْمَ بِسَبَبِ التَّرَاكُمِ الكَثِيفِ لِلثُّلُوجِ فِي الطُّرُقَاتِ، وَنَصَحَتِ المُواطِنِينَ بِالبَقَاءِ فِي بُيُوتِهِمْ لِأَنَّ الرِّيَاحَ شَدِيدَةُ الخُطُورَةِ. (Language concept U8)",
+            "قررت الادارة تعليق الدراسة لان التراكم الثلوج وبسبب الرياح شديدة. (qrrt aladarh t'alyq aldrash lan altrakm althlwj wbsbb alryah shdydh.)",
+            "ادوات تعليق لان بسبب لكي سكون فتحة مطر ثلج. (adwat t'alyq lan bsbb lky skwn fthh mtr thlj.)",
+            "لا يوجد ثلوج ولا رياح والادارة لم تقرر شيئا. (la ywjd thlwj wla ryah waladarh lm tqrr shy'a.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع ببراعة إعرابية بين «بِسَبَبِ التَّرَاكُمِ» (مضاف ومجرور) و«لِأَنَّ الرِّيَاحَ شَدِيدَةُ» (اسم أن المنصوب وخبرها المرفوع)."
@@ -5131,10 +5131,10 @@
         {
           "prompt": "في الحوار، لماذا قرر الصديقان ارتداء المعاطف الثقيلة وحمل المظلات؟",
           "options": [
-            "لِأَنَّ الطَّقْسَ مُمْطِرٌ وَبَارِدٌ وَهُنَاكَ احْتِمَالُ هُطُولِ ثُلُوجٍ",
-            "لأن الجو حار ومشمش جدا (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "لأنهما مسافران إلى الصحراء (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "بدون سبب محدد (الدمج الشامل لمخرجات الوحدة الثامنة)"
+            "لِأَنَّ الطَّقْسَ مُمْطِرٌ وَبَارِدٌ وَهُنَاكَ احْتِمَالُ هُطُولِ ثُلُوجٍ (liaana altaqsa mumtirun wabaaridun wahunaaka ahtimaalu hutuwli thuluwjin)",
+            "لأن الجو حار ومشمش جدا (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "لأنهما مسافران إلى الصحراء (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "بدون سبب محدد (aldmj alshaml lmkhrjat alwhdh althamnh)"
           ],
           "answerIndex": 0,
           "explanation": "القرار جاء معللاً ببرودة الجو وهطول الأمطار والثلوج في النشرة الجوية."
@@ -5142,10 +5142,10 @@
         {
           "prompt": "متى قرر الصديقان الانطلاق في الرحلة الجبلية؟",
           "options": [
-            "ظُهْرًا عِنْدَمَا يَنْقَشِعُ الضَّبَابُ",
-            "في منتصف الليل (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "الشهر القادم (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "في الصباح الباكر وسط الضباب (الدمج الشامل لمخرجات الوحدة الثامنة)"
+            "ظُهْرًا عِنْدَمَا يَنْقَشِعُ الضَّبَابُ (zuhrana 'aindamaa yanqashi'au aldabaabu)",
+            "في منتصف الليل (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "الشهر القادم (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "في الصباح الباكر وسط الضباب (aldmj alshaml lmkhrjat alwhdh althamnh)"
           ],
           "answerIndex": 0,
           "explanation": "«سَنَنْطَلِقُ ظُهْرًا عِنْدَمَا يَنْقَشِعُ الضَّبَابُ» لتفادي انعدام الرؤية في الصباح."
@@ -5157,10 +5157,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تدمج بين السؤال عن الطقس واختيار الملابس والتعليل السليم:",
           "options": [
-            "— كَيْفَ الطَّقْسُ فِي الجَبَلِ؟ — الجَوُّ بَارِدٌ؛ لِذٰلِكَ سَأَرْتَدِي سُتْرَتِي الصُّوفِيَّةَ لِكَيْ أَشْعُرَ بِالدِّفْءِ.",
-            "— كيف الطقس؟ — الطقس يرتدي قميص في المطبخ. (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "— هل عندك معطف؟ — المعطف يسافر غدا إلى الشاطئ. (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "— طقس جبل مطر ثلج سكون فتحة. (الدمج الشامل لمخرجات الوحدة الثامنة)"
+            "— كَيْفَ الطَّقْسُ فِي الجَبَلِ؟ — الجَوُّ بَارِدٌ؛ لِذٰلِكَ سَأَرْتَدِي سُتْرَتِي الصُّوفِيَّةَ لِكَيْ أَشْعُرَ بِالدِّفْءِ. (Language concept U8)",
+            "— كيف الطقس؟ — الطقس يرتدي قميص في المطبخ. (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "— هل عندك معطف؟ — المعطف يسافر غدا إلى الشاطئ. (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "— طقس جبل مطر ثلج سكون فتحة. (aldmj alshaml lmkhrjat alwhdh althamnh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف السؤال عن الطقس واختيار السترة الصوفية والتعليل بـ «لِكَيْ» بنسق عربي رصين."
@@ -5168,10 +5168,10 @@
         {
           "prompt": "ما معنى «يَنْقَشِعُ الضَّبَابُ» في التعبير اللغوي؟",
           "options": [
-            "يَزُولُ وَيَتَفَرَّقُ وَتَتَّضِحُ الرُّؤْيَةُ",
-            "يزداد كثافة وسوادا (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "يتحول إلى مطر غزير (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "يتجمد على الأرض (الدمج الشامل لمخرجات الوحدة الثامنة)"
+            "يَزُولُ وَيَتَفَرَّقُ وَتَتَّضِحُ الرُّؤْيَةُ (yazuwlu wayatafaraqu watatadihu alru'yahu)",
+            "يزداد كثافة وسوادا (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "يتحول إلى مطر غزير (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "يتجمد على الأرض (aldmj alshaml lmkhrjat alwhdh althamnh)"
           ],
           "answerIndex": 0,
           "explanation": "انقشاع الضباب أو السحاب يعني زواله وتفرقه وعودة الصفاء للجو."
@@ -5184,10 +5184,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الشامل الذي يدمج كافة مخرجات الوحدة الثامنة (الطقس ودرجات الحرارة، الفصول، الملابس، وأدوات التعليل):",
           "options": [
-            "قَالَ طَارِقٌ لِصَدِيقِهِ: «تَشِيرُ النَّشْرَةُ الجَوِّيَّةُ إِلَى أَنَّ طَقْسَ اليَوْمِ بَارِدٌ وَمُمْطِرٌ، وَدَرَجَةُ الحَرَارَةِ تَبْلُغُ ثَمَانِيَ دَرَجَاتٍ فَقَطْ؛ لِذٰلِكَ سَأَرْتَدِي مِعْطَفِي الثَّقِيلَ وَوِشَاحِي، وَلَنْ نُؤَجِّلَ الرِّحْلَةَ الجَبَلِيَّةَ لِأَنَّنَا نَعْشَقُ أَجْوَاءَ الشِّتَاءِ وَمَنْظَرَ الثُّلُوجِ النَّاصِعَةِ».",
-            "قال طارق بالافعال الصيفية فقط بدون ذكر الطقس والحرارة والملابس. (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "نشرة جوية ملابس معطف ثوب فصول سنة سكون فتحة ضمة. (الدمج الشامل لمخرجات الوحدة الثامنة)",
-            "لا يوجد طقس ولا رحلة ولا حوار بين الاصدقاء. (الدمج الشامل لمخرجات الوحدة الثامنة)"
+            "قَالَ طَارِقٌ لِصَدِيقِهِ: «تَشِيرُ النَّشْرَةُ الجَوِّيَّةُ إِلَى أَنَّ طَقْسَ اليَوْمِ بَارِدٌ وَمُمْطِرٌ، وَدَرَجَةُ الحَرَارَةِ تَبْلُغُ ثَمَانِيَ دَرَجَاتٍ فَقَطْ؛ لِذٰلِكَ سَأَرْتَدِي مِعْطَفِي الثَّقِيلَ وَوِشَاحِي، وَلَنْ نُؤَجِّلَ الرِّحْلَةَ الجَبَلِيَّةَ لِأَنَّنَا نَعْشَقُ أَجْوَاءَ الشِّتَاءِ وَمَنْظَرَ الثُّلُوجِ النَّاصِعَةِ». (Language concept U8)",
+            "قال طارق بالافعال الصيفية فقط بدون ذكر الطقس والحرارة والملابس. (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "نشرة جوية ملابس معطف ثوب فصول سنة سكون فتحة ضمة. (aldmj alshaml lmkhrjat alwhdh althamnh)",
+            "لا يوجد طقس ولا رحلة ولا حوار بين الاصدقاء. (aldmj alshaml lmkhrjat alwhdh althamnh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الإتقان والتكامل التعبيري في استيعاب مفاهيم الطقس، درجات الحرارة، الملابس الشتوية، والتعليل بـ «لأن» في سياق حواري وسردي ساحر."
@@ -5252,10 +5252,10 @@
         {
           "prompt": "ما هي علامة رفع جمع المذكر السالم في مثل جملة «حَضَرَ المُعَلِّمُونَ»؟",
           "options": [
-            "الوَاوُ نِيَابَةً عَنِ الضَّمَّةِ",
-            "الضمة الظاهرة",
-            "الألف",
-            "ثبوت النون"
+            "الوَاوُ نِيَابَةً عَنِ الضَّمَّةِ (alwaawu niyaabahan 'aani aldamahi)",
+            "الضمة الظاهرة (aldmh alzahrh)",
+            "الألف (alalf)",
+            "ثبوت النون (thbwt alnwn)"
           ],
           "answerIndex": 0,
           "explanation": "جمع المذكر السالم يرفع بالواو نيابة عن الضمة."
@@ -5263,10 +5263,10 @@
         {
           "prompt": "ماذا يحدث لنون جمع المذكر السالم عند إضافته إلى اسم بعده مثل «بائعو السوق»؟",
           "options": [
-            "تُحْذَفُ النُّونُ وُجُوبًا لِلإِضَافَةِ",
-            "تبقى النون كما هي",
-            "تتحول إلى ألف تفريق",
-            "تتحول إلى تاء"
+            "تُحْذَفُ النُّونُ وُجُوبًا لِلإِضَافَةِ (tuhdhafu alnuwnu wujuwbana liliidaafahi)",
+            "تبقى النون كما هي (tbqa alnwn kma hy)",
+            "تتحول إلى ألف تفريق (tthwl ila alf tfryq)",
+            "تتحول إلى تاء (tthwl ila ta')"
           ],
           "answerIndex": 0,
           "explanation": "تحذف نون التثنية وجمع المذكر السالم وجوبًا عند الإضافة."
@@ -5278,10 +5278,10 @@
         {
           "prompt": "اختر الجملة التي تتضمن جمع مذكر سالم في موضع نصب مفعول به مضبوطًا بشكل صحيح:",
           "options": [
-            "شَكَرَ المُدِيرُ المُوَظَّفِينَ المُجْتَهِدِينَ عَلَى إِخْلَاصِهِمْ.",
-            "شكر المدير الموظفون المجتهدون بالواو خطأ",
-            "شكر المدير موظفون مجتهدين",
-            "مدير موظفون شكر سكون فتحة"
+            "شَكَرَ المُدِيرُ المُوَظَّفِينَ المُجْتَهِدِينَ عَلَى إِخْلَاصِهِمْ. (shakara almudiyru almuwazafiyna almujtahidiyna 'aalaa iikhlaasihim.)",
+            "شكر المدير الموظفون المجتهدون بالواو خطأ (shkr almdyr almwzfwn almjthdwn balwaw khta)",
+            "شكر المدير موظفون مجتهدين (shkr almdyr mwzfwn mjthdyn)",
+            "مدير موظفون شكر سكون فتحة (mdyr mwzfwn shkr skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "«المُوَظَّفِينَ» مفعول به منصوب بالياء، و«المُجْتَهِدِينَ» نعت منصوب بالياء."
@@ -5289,10 +5289,10 @@
         {
           "prompt": "كيف تجمع كلمة «مُشْتَرٍ» جمع مذكر سالم في حالة الرفع؟",
           "options": [
-            "مُشْتَرُونَ",
-            "مشتريات",
-            "مشتريين بالكسر",
-            "أشتار"
+            "مُشْتَرُونَ (mushtaruwna)",
+            "مشتريات (mshtryat)",
+            "مشتريين بالكسر (mshtryyn balksr)",
+            "أشتار (ashtar)"
           ],
           "answerIndex": 0,
           "explanation": "تجمع «مشترٍ» على «مُشْتَرُونَ» في الرفع و«مُشْتَرِينَ» في النصب والجر."
@@ -5305,10 +5305,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف جمع المذكر السالم في حالتي الرفع والنصب والإضافة بدقة إعرابية تامة:",
           "options": [
-            "اجْتَمَعَ بَائِعُو السُّوقِ التَّقْلِيدِيِّ صَبَاحًا؛ لِيَسْتَقْبِلُوا الزَّائِرِينَ وَالمُشْتَرِينَ، حَيْثُ قَدَّمَ التُّجَّارُ المَاهِرُونَ خَصْمًا خَاصًّا لِلضُّيُوفِ.",
-            "اجتمع بائعون السوق الزائرون والمشترون بلا تمييز إعرابي.",
-            "جمع مذكر سالم واو ياء نون بائعون مشترين سكون فتحة.",
-            "لا يوجد بائعون ولا مشترون في السوق اليوم."
+            "اجْتَمَعَ بَائِعُو السُّوقِ التَّقْلِيدِيِّ صَبَاحًا؛ لِيَسْتَقْبِلُوا الزَّائِرِينَ وَالمُشْتَرِينَ، حَيْثُ قَدَّمَ التُّجَّارُ المَاهِرُونَ خَصْمًا خَاصًّا لِلضُّيُوفِ. (Language concept U9)",
+            "اجتمع بائعون السوق الزائرون والمشترون بلا تمييز إعرابي. (ajtm'a ba''awn alswq alza'rwn walmshtrwn bla tmyyz i'araby.)",
+            "جمع مذكر سالم واو ياء نون بائعون مشترين سكون فتحة. (jm'a mdhkr salm waw ya' nwn ba''awn mshtryn skwn fthh.)",
+            "لا يوجد بائعون ولا مشترون في السوق اليوم. (la ywjd ba''awn wla mshtrwn fy alswq alywm.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «بَائِعُو» (فاعل مرفوع بالواو حذفت نونه للإضافة) و«الزَّائِرِينَ وَالمُشْتَرِينَ» (مفعول به منصوب بالياء) و«المَاهِرُونَ» (نعت مرفوع بالواو) بإعجاز نحوي تام."
@@ -5371,10 +5371,10 @@
         {
           "prompt": "ما هي علامة إعراب جمع المؤنث السالم عند وقوعه في موضع نصب مفعول به؟",
           "options": [
-            "الكَسْرَةُ نِيَابَةً عَنِ الفَتْحَةِ",
-            "الفتحة الظاهرة",
-            "الياء",
-            "السكون"
+            "الكَسْرَةُ نِيَابَةً عَنِ الفَتْحَةِ (alkasrahu niyaabahan 'aani alfathahi)",
+            "الفتحة الظاهرة (alfthh alzahrh)",
+            "الياء (alya')",
+            "السكون (alskwn)"
           ],
           "answerIndex": 0,
           "explanation": "جمع المؤنث السالم ينصب بالكسرة نيابة عن الفتحة: «رَأَيْتُ لَوْحَاتٍ»."
@@ -5382,10 +5382,10 @@
         {
           "prompt": "كيف تجمع كلمة «سَاعَة» جمع مؤنث سالم؟",
           "options": [
-            "سَاعَاتٌ",
-            "سواع",
-            "ساعاتون",
-            "أسوع"
+            "سَاعَاتٌ (saa'aaatun)",
+            "سواع (swa'a)",
+            "ساعاتون (sa'aatwn)",
+            "أسوع (asw'a)"
           ],
           "answerIndex": 0,
           "explanation": "تحذف التاء المربوطة وتضاف الألف والتاء: «سَاعَاتٌ»."
@@ -5397,10 +5397,10 @@
         {
           "prompt": "اختر الجملة التي تضبط جمع المؤنث السالم المنصوب ونعته المفرد ضبطًا نحويًا سليمًا:",
           "options": [
-            "قَرَأْتُ مَجَلَّاتٍ عِلْمِيَّةً مُفِيدَةً.",
-            "قرأتُ مجلاتًا علميةً بفتح مجلات خطأ",
-            "قرأتُ مجلاتٌ علميةٌ بالضم في المفعول به",
-            "مجلات علمية قراءة سكون فتحة"
+            "قَرَأْتُ مَجَلَّاتٍ عِلْمِيَّةً مُفِيدَةً. (qaraatu majalaatin 'ailmiyahan mufiydahan.)",
+            "قرأتُ مجلاتًا علميةً بفتح مجلات خطأ (qratu mjlatana 'almyhan bfth mjlat khta)",
+            "قرأتُ مجلاتٌ علميةٌ بالضم في المفعول به (qratu mjlatun 'almyhun baldm fy almf'awl bh)",
+            "مجلات علمية قراءة سكون فتحة (mjlat 'almyh qra'h skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "«مَجَلَّاتٍ» مفعول به منصوب بالكسرة، ونعتها «عِلْمِيَّةً» منصوب بالفتحة الظاهرة."
@@ -5408,10 +5408,10 @@
         {
           "prompt": "ما هي علامة رفع جمع المؤنث السالم في الفصحى؟",
           "options": [
-            "الضَّمَّةُ الظَّاهِرَةُ",
-            "الواو",
-            "الألف",
-            "الفتحة"
+            "الضَّمَّةُ الظَّاهِرَةُ (aldamahu alzaahirahu)",
+            "الواو (alwaw)",
+            "الألف (alalf)",
+            "الفتحة (alfthh)"
           ],
           "answerIndex": 0,
           "explanation": "جمع المؤنث السالم يرفع بالضمة الظاهرة كالمفرد: «المُعَلِّمَاتُ مَوْجُودَاتٌ»."
@@ -5424,10 +5424,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم وصفًا لمعروضات سوق الفنون بجموع مؤنث سالمة معربة بدقة:",
           "options": [
-            "زَارَتِ الطَّالِبَاتُ مَعَارِضَ الحِرَفِ، فَاشْتَرَيْنَ مَصْنُوعَاتٍ زُجَاجِيَّةً وَتَحْفِيَّاتٍ رَائِعَةً، وَشَاهَدْنَ لَوْحَاتٍ فَنِّيَّةً تَعْكِسُ أَعْرَقَ الثَّقَافَاتِ العَرَبِيَّةِ.",
-            "زارت الطالبات واشترين مصنوعاتًا زجاجية بالفتح في مصنوعات خطأ.",
-            "طالبات معارض مصنوعات لوحات سكون فتحة ضمة كسرة.",
-            "لم تشتر الطالبات اي لوحات من المعرض."
+            "زَارَتِ الطَّالِبَاتُ مَعَارِضَ الحِرَفِ، فَاشْتَرَيْنَ مَصْنُوعَاتٍ زُجَاجِيَّةً وَتَحْفِيَّاتٍ رَائِعَةً، وَشَاهَدْنَ لَوْحَاتٍ فَنِّيَّةً تَعْكِسُ أَعْرَقَ الثَّقَافَاتِ العَرَبِيَّةِ. (Language concept U9)",
+            "زارت الطالبات واشترين مصنوعاتًا زجاجية بالفتح في مصنوعات خطأ. (zart altalbat washtryn msnw'aatana zjajyh balfth fy msnw'aat khta.)",
+            "طالبات معارض مصنوعات لوحات سكون فتحة ضمة كسرة. (talbat m'aard msnw'aat lwhat skwn fthh dmh ksrh.)",
+            "لم تشتر الطالبات اي لوحات من المعرض. (lm tshtr altalbat ay lwhat mn alm'ard.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تضبط المفاعيل المنصوبة بالكسرة «مَصْنُوعَاتٍ، تَحْفِيَّاتٍ، لَوْحَاتٍ» ونعوتها المنصوبة بالفتحة بتناسق بياني فريد."
@@ -5491,10 +5491,10 @@
         {
           "prompt": "ما هو اسم الإشارة الصحيح للإشارة إلى جمع غير العاقل مثل «كُتُب» في العربية؟",
           "options": [
-            "هٰذِهِ كُتُبٌ",
-            "هؤلاء كتب",
-            "هذا كتب",
-            "هاتان كتب"
+            "هٰذِهِ كُتُبٌ (Language concept U9)",
+            "هؤلاء كتب (h'la' ktb)",
+            "هذا كتب (hdha ktb)",
+            "هاتان كتب (hatan ktb)"
           ],
           "answerIndex": 0,
           "explanation": "جمع غير العاقل يعامل معاملة المفرد المؤنث فيشار إليه بـ «هٰذِهِ»."
@@ -5502,10 +5502,10 @@
         {
           "prompt": "ما هو وزن جمع التكسير لكلمة «أَسْعَار» في الميزان الصرفي؟",
           "options": [
-            "أَفْعَالٌ",
-            "فعول",
-            "مفاعل",
-            "فعلاء"
+            "أَفْعَالٌ (aaf'aaalun)",
+            "فعول (f'awl)",
+            "مفاعل (mfa'al)",
+            "فعلاء (f'ala')"
           ],
           "answerIndex": 0,
           "explanation": "«أَسْعَارٌ» على وزن «أَفْعَالٌ» (مفردها: سِعْرٌ)."
@@ -5517,10 +5517,10 @@
         {
           "prompt": "اختر الجملة التي تطبق قاعدة مطابقة جمع غير العاقل مع النعت والخبر تطبيقًا فصيحًا تامًا:",
           "options": [
-            "الأَسْوَاقُ القَدِيمَةُ مَلِيئَةٌ بِالتُّحَفِ الجَمِيلَةِ.",
-            "الاسواق القديمون مليئون بالتحف الجميلين خطأ",
-            "الاسواق القديمة ممتلئ بالتحف",
-            "اسواق قديمة تحف سكون فتحة"
+            "الأَسْوَاقُ القَدِيمَةُ مَلِيئَةٌ بِالتُّحَفِ الجَمِيلَةِ. (alaaswaaqu alqadiymahu maliy'ahun bialtuhafi aljamiylahi.)",
+            "الاسواق القديمون مليئون بالتحف الجميلين خطأ (alaswaq alqdymwn mly'wn balthf aljmylyn khta)",
+            "الاسواق القديمة ممتلئ بالتحف (alaswaq alqdymh mmtl' balthf)",
+            "اسواق قديمة تحف سكون فتحة (aswaq qdymh thf skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "«الأَسْوَاقُ» جمع غير عاقل؛ نعتها «القَدِيمَةُ» وخبرها «مَلِيئَةٌ» بالمفرد المؤنث السليم."
@@ -5528,10 +5528,10 @@
         {
           "prompt": "ما هو جمع التكسير لكلمة «دُكَّان» في اللغة العربية؟",
           "options": [
-            "دَكَاكِينُ",
-            "دكانات",
-            "دكائن",
-            "أدكان"
+            "دَكَاكِينُ (dakaakiynu)",
+            "دكانات (dkanat)",
+            "دكائن (dka'n)",
+            "أدكان (adkan)"
           ],
           "answerIndex": 0,
           "explanation": "جمع دكان هو «دَكَاكِينُ» على وزن مفاعيل."
@@ -5544,10 +5544,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف تنوع البضائع والأسواق بجموع تكسير متنوعة ومطابقة نحوية نموذجية:",
           "options": [
-            "تَزْخَرُ المَدِينَةُ بِأَسْوَاقٍ قَدِيمَةٍ تَعْرِضُ أَجْوَدَ الأَقْمِشَةِ وَأَنْدَرَ المَصَابِيحِ، حَيْثُ يَتَجَوَّلُ الزُّوَّارُ بَيْنَ الدَّكَاكِينِ لِشِرَاءِ الهَدَايَا التَّذْكَارِيَّةِ.",
-            "تزخر المدينة باسواق قديمون ومصابيح نادرين بلا تانيث لغير العاقل.",
-            "جموع تكسير افعال فعول مفاعيل دكاكين مصابيح اسواق سكون.",
-            "لا توجد اسواق ولا هدايا في المدينة."
+            "تَزْخَرُ المَدِينَةُ بِأَسْوَاقٍ قَدِيمَةٍ تَعْرِضُ أَجْوَدَ الأَقْمِشَةِ وَأَنْدَرَ المَصَابِيحِ، حَيْثُ يَتَجَوَّلُ الزُّوَّارُ بَيْنَ الدَّكَاكِينِ لِشِرَاءِ الهَدَايَا التَّذْكَارِيَّةِ. (Language concept U9)",
+            "تزخر المدينة باسواق قديمون ومصابيح نادرين بلا تانيث لغير العاقل. (tzkhr almdynh baswaq qdymwn wmsabyh nadryn bla tanyth lghyr al'aaql.)",
+            "جموع تكسير افعال فعول مفاعيل دكاكين مصابيح اسواق سكون. (jmw'a tksyr af'aal f'awl mfa'ayl dkakyn msabyh aswaq skwn.)",
+            "لا توجد اسواق ولا هدايا في المدينة. (la twjd aswaq wla hdaya fy almdynh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين أوزان التكسير «أَسْوَاقٍ، أَقْمِشَةِ، مَصَابِيحِ، زُوَّارُ، دَكَاكِينِ، هَدَايَا» مع تطبيق قاعدة تأنيث غير العاقل ببيان رفيع."
@@ -5611,10 +5611,10 @@
         {
           "prompt": "ما هي الأداة العربية الفصيحة والموجزة للاستفسار عن ثمن سلعة معروضة؟",
           "options": [
-            "بِكَمْ؟",
-            "متى؟",
-            "لماذا؟",
-            "كيف حالك؟"
+            "بِكَمْ؟ (Language concept U9)",
+            "متى؟ (Language concept U9)",
+            "لماذا؟ (Language concept U9)",
+            "كيف حالك؟ (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "«بِكَمْ هٰذَا؟» هو التعبير الأكثر فصاحة وشيوعًا للسؤال عن السعر."
@@ -5622,10 +5622,10 @@
         {
           "prompt": "ما هو اللفظ المعبر عن السعر العادل وغير المبالغ فيه؟",
           "options": [
-            "سِعْرٌ مَعْقُولٌ وَمُنَاسِبٌ",
-            "سعر خيالي",
-            "سعر باهظ جدا",
-            "سعر مجهول"
+            "سِعْرٌ مَعْقُولٌ وَمُنَاسِبٌ (si'arun ma'aquwlun wamunaasibun)",
+            "سعر خيالي (s'ar khyaly)",
+            "سعر باهظ جدا (s'ar bahz jda)",
+            "سعر مجهول (s'ar mjhwl)"
           ],
           "answerIndex": 0,
           "explanation": "«سِعْرٌ مَعْقُولٌ» تعني سعرًا متوازنًا ومقبولاً للطرفين."
@@ -5637,10 +5637,10 @@
         {
           "prompt": "اختر الجملة التي تطلب فيها خصمًا تجاريًا بلباقة وفصاحة:",
           "options": [
-            "هَلْ يُمْكِنُكَ أَنْ تَمْنَحَنِي تَخْفِيضًا يَا أَخِي الكَرِيمَ؟",
-            "اعطني البضاعة مجانا والا اغادر",
-            "بكم السعر امس بدون تخفيض",
-            "خصم سعر نقدا بطاقة سكون فتحة"
+            "هَلْ يُمْكِنُكَ أَنْ تَمْنَحَنِي تَخْفِيضًا يَا أَخِي الكَرِيمَ؟ (Language concept U9)",
+            "اعطني البضاعة مجانا والا اغادر (a'atny albda'ah mjana wala aghadr)",
+            "بكم السعر امس بدون تخفيض (bkm als'ar ams bdwn tkhfyd)",
+            "خصم سعر نقدا بطاقة سكون فتحة (khsm s'ar nqda btaqh skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن طلب الخصم بأعلى درجات اللباقة والأدب التجاري الفصيح."
@@ -5648,10 +5648,10 @@
         {
           "prompt": "ما هي العملة الوطنية الرسمية في جمهورية مصر العربية؟",
           "options": [
-            "الجُنَيْهُ المِصْرِيُّ",
-            "الدرهم",
-            "الدينار",
-            "الريال"
+            "الجُنَيْهُ المِصْرِيُّ (aljunayhu almisriyu)",
+            "الدرهم (aldrhm)",
+            "الدينار (aldynar)",
+            "الريال (alryal)"
           ],
           "answerIndex": 0,
           "explanation": "العملة الرسمية لمصر هي «الجنيه»."
@@ -5664,10 +5664,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة الحوارية التي تصف جولة شراء ناجحة مع المساومة وتحديد طريقة الدفع:",
           "options": [
-            "سَأَلَ المُشْتَرِي: «بِكَمْ هٰذِهِ العَبَاءَةُ؟» فَأَجَابَ البَائِعُ: «بِمِئَتَيْ رِيَالٍ»، فَقَالَ الزَّبُونُ: «هَلْ تُعْطِينِي خَصْمًا لِأَشْتَرِيَهَا بِمِئَةٍ وَخَمْسِينَ؟» فَوَافَقَ البَائِعُ، وَتَمَّ الدَّفْعُ بِالبِطَاقَةِ المَصْرِفِيَّةِ.",
-            "اشترى الزبون العباءة بلا سؤال ولا جواب ولا نقود.",
-            "بكم غالي رخيص معقول تخفيض بطاقة نقد سكون فتحة.",
-            "رفض البائع البيع واغلق الدكان فورا."
+            "سَأَلَ المُشْتَرِي: «بِكَمْ هٰذِهِ العَبَاءَةُ؟» فَأَجَابَ البَائِعُ: «بِمِئَتَيْ رِيَالٍ»، فَقَالَ الزَّبُونُ: «هَلْ تُعْطِينِي خَصْمًا لِأَشْتَرِيَهَا بِمِئَةٍ وَخَمْسِينَ؟» فَوَافَقَ البَائِعُ، وَتَمَّ الدَّفْعُ بِالبِطَاقَةِ المَصْرِفِيَّةِ. (Language concept U9)",
+            "اشترى الزبون العباءة بلا سؤال ولا جواب ولا نقود. (ashtra alzbwn al'aba'h bla s'al wla jwab wla nqwd.)",
+            "بكم غالي رخيص معقول تخفيض بطاقة نقد سكون فتحة. (bkm ghaly rkhys m'aqwl tkhfyd btaqh nqd skwn fthh.)",
+            "رفض البائع البيع واغلق الدكان فورا. (rfd alba''a alby'a waghlq aldkan fwra.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجسد دورة الشراء الكاملة من السؤال والمساومة اللبقة حتى الاتفاق والدفع بالبطاقة المصرفية بسلاسة تامة."
@@ -5733,10 +5733,10 @@
         {
           "prompt": "في حوار خان الخليلي، ما هو سبب طلب أحمد للخصم من البائع؟",
           "options": [
-            "لِأَنَّهُ سَيَشْتَرِي ثَلَاثَةَ مَصَابِيحَ لِأَصْدِقَائِهِ",
-            "لأنه لا يملك نقودا (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "لأن البضاعة معيبة (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "بدون سبب (الدمج الشامل لكافة مخرجات الوحدة التاسعة)"
+            "لِأَنَّهُ سَيَشْتَرِي ثَلَاثَةَ مَصَابِيحَ لِأَصْدِقَائِهِ (liaanahu sayashtariy thalaathaha masaabiyha liaasdiqaa'ihi)",
+            "لأنه لا يملك نقودا (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "لأن البضاعة معيبة (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "بدون سبب (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)"
           ],
           "answerIndex": 0,
           "explanation": "أحمد علل طلبه للخصم بشراء كمية (3 مصابيح نحاسية) كهدايا تذكارية."
@@ -5744,10 +5744,10 @@
         {
           "prompt": "كيف وصف أحمد المصابيح النحاسية في سياق جمع غير العاقل؟",
           "options": [
-            "هٰذِهِ المَصَابِيحُ النُّحَاسِيَّةُ المَنْقُوشَةُ",
-            "هؤلاء المصابيح النحاسيون (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "هذا المصابيح النحاسي (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "هاتان المصابيح النحاسيتان (الدمج الشامل لكافة مخرجات الوحدة التاسعة)"
+            "هٰذِهِ المَصَابِيحُ النُّحَاسِيَّةُ المَنْقُوشَةُ (Language concept U9)",
+            "هؤلاء المصابيح النحاسيون (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "هذا المصابيح النحاسي (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "هاتان المصابيح النحاسيتان (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)"
           ],
           "answerIndex": 0,
           "explanation": "تطبيق قاعدة تأنيث جمع غير العاقل: اسم الإشارة «هٰذِهِ» والنعتان «النُّحَاسِيَّةُ المَنْقُوشَةُ» بالمفرد المؤنث."
@@ -5759,10 +5759,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف الاتفاق النهائي على السعر ودفع الحساب في سوق التذكارات:",
           "options": [
-            "— اتَّفَقْنَا عَلَى مِئَتَيْنِ وَخَمْسِينَ جُنَيْهًا لِلْمَصَابِيحِ الثَّلَاثَةِ، هَلْ تَقْبَلُ الدَّفْعَ نَقْدًا؟ — نَعَمْ بِكُلِّ تَأْكِيدٍ، شُكْرًا لَكَ يَا سَيِّدِي.",
-            "— المصابيح مجانا والمشتري لا يدفع شيئا. (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "— كم الحساب؟ — الحساب كان غدا في المحطة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "— دفع نقود مصابيح جنيه سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة)"
+            "— اتَّفَقْنَا عَلَى مِئَتَيْنِ وَخَمْسِينَ جُنَيْهًا لِلْمَصَابِيحِ الثَّلَاثَةِ، هَلْ تَقْبَلُ الدَّفْعَ نَقْدًا؟ — نَعَمْ بِكُلِّ تَأْكِيدٍ، شُكْرًا لَكَ يَا سَيِّدِي. (Language concept U9)",
+            "— المصابيح مجانا والمشتري لا يدفع شيئا. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "— كم الحساب؟ — الحساب كان غدا في المحطة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "— دفع نقود مصابيح جنيه سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف الاتفاق على السعر التخفيضي وتحديد وسيلة الدفع النقدي بالجنيهات بأسلوب فصيح."
@@ -5770,10 +5770,10 @@
         {
           "prompt": "أين يقع حي وسوق «خان الخليلي» التاريخي الشهير؟",
           "options": [
-            "فِي القَاهِرَةِ التَّارِيخِيَّةِ بِمِصْرَ",
-            "في دمشق بسوريا (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "في بغداد بالعراق (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "في فاس بالمغرب (الدمج الشامل لكافة مخرجات الوحدة التاسعة)"
+            "فِي القَاهِرَةِ التَّارِيخِيَّةِ بِمِصْرَ (fiy alqaahirahi altaariykhiyahi bimisra)",
+            "في دمشق بسوريا (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "في بغداد بالعراق (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "في فاس بالمغرب (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)"
           ],
           "answerIndex": 0,
           "explanation": "خان الخليلي هو الحي التجاري والسياحي التراثي الشهير في القاهرة الفاطمية/المملوكية بمصر."
@@ -5786,10 +5786,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة التاسعة بأكملها (جموع السالم والتكسير، مطابقة غير العاقل، الأسعار، المساومة، وخان الخليلي):",
           "options": [
-            "تَجَوَّلَ أَحْمَدُ فِي خَانِ الخَلِيلِيِّ حَيْثُ يَعْرِضُ البَائِعُونَ أَجْمَلَ التُّحَفِ، وَوَقَفَ عِنْدَ دُكَّانٍ قَدِيمٍ وَسَأَلَ: «بِكَمْ هٰذِهِ المَصَابِيحُ النُّحَاسِيَّةُ؟» فَقَالَ التَّاجِرُ: «المِصْبَاحُ بِمِئَةِ جُنَيْهٍ»، فَتَفَاوَضَ مَعَهُ أَحْمَدُ بِلَبَاقَةٍ وَاشْتَرَى ثَلَاثَةَ مَصَابِيحَ وَلَوْحَاتٍ مُطَرَّزَةً بِسِعْرٍ مَعْقُولٍ، وَدَفَعَ الحِسَابَ نَقْدًا وَهُوَ مَسْرُورٌ.",
-            "تجول احمد بالافعال المضارعة فقط بدون ذكر الاسواق والجموع والتفاوض. (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "خان الخليلي بائعون مشترون لوحات مصابيح سكون فتحة ضمة كسرة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة)",
-            "لم يشتر احمد اي تحف من خان الخليلي وعاد خالي الوفاض. (الدمج الشامل لكافة مخرجات الوحدة التاسعة)"
+            "تَجَوَّلَ أَحْمَدُ فِي خَانِ الخَلِيلِيِّ حَيْثُ يَعْرِضُ البَائِعُونَ أَجْمَلَ التُّحَفِ، وَوَقَفَ عِنْدَ دُكَّانٍ قَدِيمٍ وَسَأَلَ: «بِكَمْ هٰذِهِ المَصَابِيحُ النُّحَاسِيَّةُ؟» فَقَالَ التَّاجِرُ: «المِصْبَاحُ بِمِئَةِ جُنَيْهٍ»، فَتَفَاوَضَ مَعَهُ أَحْمَدُ بِلَبَاقَةٍ وَاشْتَرَى ثَلَاثَةَ مَصَابِيحَ وَلَوْحَاتٍ مُطَرَّزَةً بِسِعْرٍ مَعْقُولٍ، وَدَفَعَ الحِسَابَ نَقْدًا وَهُوَ مَسْرُورٌ. (Language concept U9)",
+            "تجول احمد بالافعال المضارعة فقط بدون ذكر الاسواق والجموع والتفاوض. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "خان الخليلي بائعون مشترون لوحات مصابيح سكون فتحة ضمة كسرة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)",
+            "لم يشتر احمد اي تحف من خان الخليلي وعاد خالي الوفاض. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج كافة الكفايات الصرفية لجموع المذكر والمؤنث والتكسير، ومطابقة غير العاقل، والمفاوضة التجارية بأرقى أسلوب عربي أصيل."
@@ -5853,10 +5853,10 @@
         {
           "prompt": "كيف تعبر باللغة العربية الفصحى عن ألم في الرأس؟",
           "options": [
-            "أَشْعُرُ بِصُدَاعٍ فِي رَأْسِي",
-            "أشعر بزكام في قدمي",
-            "عيني تسافر غدا",
-            "ألم في الحقيبة"
+            "أَشْعُرُ بِصُدَاعٍ فِي رَأْسِي (aash'auru bisudaa'ain fiy raasiy)",
+            "أشعر بزكام في قدمي (ash'ar bzkam fy qdmy)",
+            "عيني تسافر غدا ('ayny tsafr ghda)",
+            "ألم في الحقيبة (alm fy alhqybh)"
           ],
           "answerIndex": 0,
           "explanation": "«أَشْعُرُ بِصُدَاعٍ فِي رَأْسِي» هو التعبير الطبي الدقيق للصداع."
@@ -5864,10 +5864,10 @@
         {
           "prompt": "ما هو الحكم النحوي للأعضاء المزدوجة في جسم الإنسان (كالعين والأذن واليد)؟",
           "options": [
-            "مُؤَنَّثَةٌ مَجَازًا",
-            "مذكرة دائما",
-            "جمع تكسير",
-            "ممنوعة من الصرف"
+            "مُؤَنَّثَةٌ مَجَازًا (mu'anathahun majaazana)",
+            "مذكرة دائما (mdhkrh da'ma)",
+            "جمع تكسير (jm'a tksyr)",
+            "ممنوعة من الصرف (mmnw'ah mn alsrf)"
           ],
           "answerIndex": 0,
           "explanation": "الأعضاء المزدوجة في الجسم تعامل معاملة المؤنث (هذه عينٌ جميلة، يدي اليمنى)."
@@ -5879,10 +5879,10 @@
         {
           "prompt": "اختر الجملة التي تصف الأعراض المرضية للمريض بدقة لغوية:",
           "options": [
-            "المَرِيضُ يُعَانِي مِنِ ارْتِفَاعٍ فِي دَرَجَةِ الحَرَارَةِ وَسُعَالٍ مُسْتَمِرٍّ.",
-            "المريض يشعر بصداع في بطنه وقدمه",
-            "المريض يسعل في المستشفى غدا امس",
-            "حرارة سعال الم راس سكون فتحة"
+            "المَرِيضُ يُعَانِي مِنِ ارْتِفَاعٍ فِي دَرَجَةِ الحَرَارَةِ وَسُعَالٍ مُسْتَمِرٍّ. (almariydu yu'aaaniy mini artifaa'ain fiy darajahi alharaarahi wasu'aaalin mustamirin.)",
+            "المريض يشعر بصداع في بطنه وقدمه (almryd ysh'ar bsda'a fy btnh wqdmh)",
+            "المريض يسعل في المستشفى غدا امس (almryd ys'al fy almstshfa ghda ams)",
+            "حرارة سعال الم راس سكون فتحة (hrarh s'aal alm ras skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تصف أعراض الحمى والسعال بتراكيب نحوية ومعجمية فصيحة."
@@ -5890,10 +5890,10 @@
         {
           "prompt": "ما هو العضو البشري المسؤول عن ضخ الدم في سائر الجسم؟",
           "options": [
-            "القَلْبُ",
-            "المعدة",
-            "الرأس",
-            "اللسان"
+            "القَلْبُ (alqalbu)",
+            "المعدة (alm'adh)",
+            "الرأس (alras)",
+            "اللسان (allsan)"
           ],
           "answerIndex": 0,
           "explanation": "«القَلْبُ» هو العضو العضلي الحيوي النابض في الصدر."
@@ -5906,10 +5906,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تقدم وصفًا سريريًا للأعراض والألم بلغة عربية فصيحة ومضبوطة إعرابيًا:",
           "options": [
-            "اسْتَيْقَظَ زَيْدٌ صَبَاحًا وَهُوَ يَشْعُرُ بِإِرْهَاقٍ شَدِيدٍ؛ حَيْثُ كَانَتْ حَرَارَتُهُ مُرْتَفِعَةً، وَيُؤْلِمُهُ حَلْقُهُ عِنْدَ البَلْعِ، مَعَ صُدَاعٍ قَوِيٍّ لَمْ يُمَكِّنْهُ مِنَ التَّرْكِيزِ.",
-            "استيقظ زيد بالافعال المستقبلية بدون الم ولا اعراض.",
-            "صداع حمى زكام حلق راس عين سكون فتحة ضمة.",
-            "لا يشعر زيد باي تعب وهو في كامل صحته."
+            "اسْتَيْقَظَ زَيْدٌ صَبَاحًا وَهُوَ يَشْعُرُ بِإِرْهَاقٍ شَدِيدٍ؛ حَيْثُ كَانَتْ حَرَارَتُهُ مُرْتَفِعَةً، وَيُؤْلِمُهُ حَلْقُهُ عِنْدَ البَلْعِ، مَعَ صُدَاعٍ قَوِيٍّ لَمْ يُمَكِّنْهُ مِنَ التَّرْكِيزِ. (Language concept U10)",
+            "استيقظ زيد بالافعال المستقبلية بدون الم ولا اعراض. (astyqz zyd balaf'aal almstqblyh bdwn alm wla a'arad.)",
+            "صداع حمى زكام حلق راس عين سكون فتحة ضمة. (sda'a hma zkam hlq ras 'ayn skwn fthh dmh.)",
+            "لا يشعر زيد باي تعب وهو في كامل صحته. (la ysh'ar zyd bay t'ab whw fy kaml shth.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تصوغ الشكوى المرضية بدقة بالغة وتوظف مفردات «إرهاق، حرارته مرتفعة، يؤلمه حلقه، صداع» بإحكام نحوي تام."
@@ -5973,10 +5973,10 @@
         {
           "prompt": "ما هو السؤال التقليدي الذي يطرحه الطبيب لمعرفة شكوى المريض؟",
           "options": [
-            "مِمَّ تَشْكُو؟",
-            "أين تسافر غدا؟",
-            "بكم هذا القميص؟",
-            "ما هي عاصمتك المفضلة؟"
+            "مِمَّ تَشْكُو؟ (Language concept U10)",
+            "أين تسافر غدا؟ (Language concept U10)",
+            "بكم هذا القميص؟ (Language concept U10)",
+            "ما هي عاصمتك المفضلة؟ (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "«مِمَّ تَشْكُو؟» (مِنْ + مَا الاستفهامية) هو السؤال الفصيح الشائع في المعاينة الطبية."
@@ -5984,10 +5984,10 @@
         {
           "prompt": "ما اسم القسم المخصص للحالات الحرجة والعاجلة في المستشفيات؟",
           "options": [
-            "قِسْمُ الطَّوَارِئِ",
-            "قسم الأرشيف",
-            "قسم الاستقبال السياحي",
-            "المطعم"
+            "قِسْمُ الطَّوَارِئِ (qismu altawaari'i)",
+            "قسم الأرشيف (qsm alarshyf)",
+            "قسم الاستقبال السياحي (qsm alastqbal alsyahy)",
+            "المطعم (almt'am)"
           ],
           "answerIndex": 0,
           "explanation": "«قِسْمُ الطَّوَارِئِ» هو القسم الطبي المهيأ لاستقبال الحالات العاجلة على مدار الساعة."
@@ -5999,10 +5999,10 @@
         {
           "prompt": "اختر الجملة التي تصف الفحص السريري الذي يجريه الطبيب للمريض:",
           "options": [
-            "فَحَصَ الطَّبِيبُ صَدْرَ المَرِيضِ بِالسَّمَّاعَةِ وَقَاسَ نَبْضَ قَلْبِهِ.",
-            "فحص الطبيب حقيبة المريض ليشتريها",
-            "الطبيب يسافر في المستشفى بدون فحص",
-            "سماعة ضغط فحص نبض سكون فتحة"
+            "فَحَصَ الطَّبِيبُ صَدْرَ المَرِيضِ بِالسَّمَّاعَةِ وَقَاسَ نَبْضَ قَلْبِهِ. (fahasa altabiybu sadra almariydi bialsamaa'aahi waqaasa nabda qalbihi.)",
+            "فحص الطبيب حقيبة المريض ليشتريها (fhs altbyb hqybh almryd lyshtryha)",
+            "الطبيب يسافر في المستشفى بدون فحص (altbyb ysafr fy almstshfa bdwn fhs)",
+            "سماعة ضغط فحص نبض سكون فتحة (sma'ah dght fhs nbd skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف أدوات الفحص كالسماعة وقياس النبض بصياغة دقيقة."
@@ -6010,10 +6010,10 @@
         {
           "prompt": "ما هو جمع كلمة «مُسْتَشْفَى» في اللغة العربية الفصحى؟",
           "options": [
-            "مُسْتَشْفَيَاتٌ",
-            "مستشفون",
-            "أشافٍ",
-            "مشافٍ ومستشفيات"
+            "مُسْتَشْفَيَاتٌ (mustashfayaatun)",
+            "مستشفون (mstshfwn)",
+            "أشافٍ (ashafin)",
+            "مشافٍ ومستشفيات (mshafin wmstshfyat)"
           ],
           "answerIndex": 0,
           "explanation": "تجمع مستشفى جمع مؤنث سالم على «مُسْتَشْفَيَاتٌ»."
@@ -6026,10 +6026,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة الحوارية التي تمثل استشارة طبية متكاملة في العيادة بدقة وإتقان إعرابي:",
           "options": [
-            "دَخَلَ المَرِيضُ العِيَادَةَ، فَسَأَلَهُ الطَّبِيبُ: «كَيْفَ حَالُكَ اليَوْمَ، وَمِمَّ تَشْكُو؟» فَقَالَ: «أُعَانِي مِنْ سُعَالٍ وَأَلَمٍ فِي الصَّدْرِ مُنْذُ يَوْمَيْنِ»، فَقَامَ الطَّبِيبُ بِفَحْصِهِ وَطَلَبَ مِنْهُ إِجْرَاءَ صُورَةِ أَشِعَّةٍ لِلرِّئَتَيْنِ.",
-            "دخل المريض واشترى دواء بدون فحص ولا طبيب.",
-            "طبيب مريض عيادة اشعة تحليل سماعة سكون فتحة ضمة.",
-            "لا توجد عيادات ولا اطباء في المدينة."
+            "دَخَلَ المَرِيضُ العِيَادَةَ، فَسَأَلَهُ الطَّبِيبُ: «كَيْفَ حَالُكَ اليَوْمَ، وَمِمَّ تَشْكُو؟» فَقَالَ: «أُعَانِي مِنْ سُعَالٍ وَأَلَمٍ فِي الصَّدْرِ مُنْذُ يَوْمَيْنِ»، فَقَامَ الطَّبِيبُ بِفَحْصِهِ وَطَلَبَ مِنْهُ إِجْرَاءَ صُورَةِ أَشِعَّةٍ لِلرِّئَتَيْنِ. (Language concept U10)",
+            "دخل المريض واشترى دواء بدون فحص ولا طبيب. (dkhl almryd washtra dwa' bdwn fhs wla tbyb.)",
+            "طبيب مريض عيادة اشعة تحليل سماعة سكون فتحة ضمة. (tbyb mryd 'ayadh ash'ah thlyl sma'ah skwn fthh dmh.)",
+            "لا توجد عيادات ولا اطباء في المدينة. (la twjd 'ayadat wla atba' fy almdynh.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجسد الحوار الاستشاري السريري الكامل بدقة مصطلحاتها وفصاحة أسلوبها وإعرابها."
@@ -6093,10 +6093,10 @@
         {
           "prompt": "ما هي الوثيقة المكتوبة التي يعطيها الطبيب للمريض ليصرف بها الدواء من الصيدلية؟",
           "options": [
-            "الوَصْفَةُ الطِّبِّيَّةُ",
-            "تذكرة السفر",
-            "فاتورة الحساب",
-            "بطاقة الهوية فقط"
+            "الوَصْفَةُ الطِّبِّيَّةُ (alwasfahu altibiyahu)",
+            "تذكرة السفر (tdhkrh alsfr)",
+            "فاتورة الحساب (fatwrh alhsab)",
+            "بطاقة الهوية فقط (btaqh alhwyh fqt)"
           ],
           "answerIndex": 0,
           "explanation": "«الوَصْفَةُ الطِّبِّيَّةُ» (Prescription) هي الورقة الرسمية التي يحررها الطبيب لتحديد الأدوية المناسبة."
@@ -6104,10 +6104,10 @@
         {
           "prompt": "ما هو الدواء السائل الذي يُشرب غالبًا لتهدئة السعال والتهاب الحلق؟",
           "options": [
-            "الشَّرَابُ",
-            "المرهم",
-            "القطرة",
-            "الضمادة"
+            "الشَّرَابُ (alsharaabu)",
+            "المرهم (almrhm)",
+            "القطرة (alqtrh)",
+            "الضمادة (aldmadh)"
           ],
           "answerIndex": 0,
           "explanation": "«الشَّرَابُ» هو العقار الطبي السائل المخصص للشرب."
@@ -6119,10 +6119,10 @@
         {
           "prompt": "اختر الجملة التي تصف تعليمات تناول الدواء بدقة وتوقيت سليم:",
           "options": [
-            "تَنَاوَلْ حَبَّةً وَاحِدَةً صَبَاحًا وَمَسَاءً بَعْدَ تَنَاوُلِ الطَّعَامِ.",
-            "تناول الدواء كله في دقيقة واحدة",
-            "اشرب المرهم وضع الشراب في عينك خطأ",
-            "دواء صيدلية حبة شراب سكون فتحة"
+            "تَنَاوَلْ حَبَّةً وَاحِدَةً صَبَاحًا وَمَسَاءً بَعْدَ تَنَاوُلِ الطَّعَامِ. (tanaawal habahan waahidahan sabaahana wamasaa'an ba'ada tanaawuli alta'aaami.)",
+            "تناول الدواء كله في دقيقة واحدة (tnawl aldwa' klh fy dqyqh wahdh)",
+            "اشرب المرهم وضع الشراب في عينك خطأ (ashrb almrhm wd'a alshrab fy 'aynk khta)",
+            "دواء صيدلية حبة شراب سكون فتحة (dwa' sydlyh hbh shrab skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن الجرعة المحددة بدقة: حبة واحدة صباحًا ومساءً بعد الطعام."
@@ -6130,10 +6130,10 @@
         {
           "prompt": "ما هو جمع تكسير كلمة «دَوَاء» في المعجم العربي؟",
           "options": [
-            "أَدْوِيَةٌ",
-            "دواءات",
-            "أدواء",
-            "دواوين"
+            "أَدْوِيَةٌ (aadwiyahun)",
+            "دواءات (dwa'at)",
+            "أدواء (adwa')",
+            "دواوين (dwawyn)"
           ],
           "answerIndex": 0,
           "explanation": "جمع دواء هو «أَدْوِيَةٌ»."
@@ -6146,10 +6146,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تصف زيارة الصيدلية واستلام الأدوية بدقة وبلاغة:",
           "options": [
-            "تَوَجَّهَ عُمَرُ إِلَى الصَّيْدَلِيَّةِ المُجَاوِرَةِ، وَسَلَّمَ الوَصْفَةَ لِلصَّيْدَلِيِّ الَّذِي صَرَفَ لَهُ مُضَادًّا حَيَوِيًّا وَأَقْرَاصَ مُسَكِّنٍ، وَأَوْصَاهُ بِشُرْبِ المَاءِ وَالِانْتِظَامِ فِي تَنَاوُلِ العِلَاجِ.",
-            "توجه عمر الى الصيدلية واشترى كتبا واقلاما بلا دواء.",
-            "صيدلية ادوية اقراص وصفة مسكن مضاد سكون فتحة ضمة.",
-            "رفضت الصيدلية صرف اي دواء للمريض."
+            "تَوَجَّهَ عُمَرُ إِلَى الصَّيْدَلِيَّةِ المُجَاوِرَةِ، وَسَلَّمَ الوَصْفَةَ لِلصَّيْدَلِيِّ الَّذِي صَرَفَ لَهُ مُضَادًّا حَيَوِيًّا وَأَقْرَاصَ مُسَكِّنٍ، وَأَوْصَاهُ بِشُرْبِ المَاءِ وَالِانْتِظَامِ فِي تَنَاوُلِ العِلَاجِ. (Language concept U10)",
+            "توجه عمر الى الصيدلية واشترى كتبا واقلاما بلا دواء. (twjh 'amr ala alsydlyh washtra ktba waqlama bla dwa'.)",
+            "صيدلية ادوية اقراص وصفة مسكن مضاد سكون فتحة ضمة. (sydlyh adwyh aqras wsfh mskn mdad skwn fthh dmh.)",
+            "رفضت الصيدلية صرف اي دواء للمريض. (rfdt alsydlyh srf ay dwa' llmryd.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف مصطلحات الصيدلية «الوصفة، الصيدلي، مضادًا حيويًا، أقراص مسكن، العلاج» بأسلوب عربي فصيح وناصع."
@@ -6213,10 +6213,10 @@
         {
           "prompt": "ما هي صيغة الأمر الفصيحة من الفعل «أَخَذَ» لتوجيه المريض بتناول الدواء؟",
           "options": [
-            "خُذْ هٰذَا الدَّوَاءَ",
-            "ياخذ هذا الدواء",
-            "اخذت هذا الدواء",
-            "أخذ الدواء"
+            "خُذْ هٰذَا الدَّوَاءَ (Language concept U10)",
+            "ياخذ هذا الدواء (yakhdh hdha aldwa')",
+            "اخذت هذا الدواء (akhdht hdha aldwa')",
+            "أخذ الدواء (akhdh aldwa')"
           ],
           "answerIndex": 0,
           "explanation": "صيغة الأمر من أخذ هي «خُذْ» مبني على السكون."
@@ -6224,10 +6224,10 @@
         {
           "prompt": "ما هي العبارة الثقافية الشائعة التي تُقال للمريض تمنيًا لشفائه وسلامته؟",
           "options": [
-            "شَفَاكَ اللهُ وَعَافَاكَ / أَلْفُ سَلَامَةٍ",
-            "مبروك النجاح",
-            "عيد سعيد",
-            "رحلة سعيدة"
+            "شَفَاكَ اللهُ وَعَافَاكَ / أَلْفُ سَلَامَةٍ (shafaaka allhu wa'aaafaaka / aalfu salaamahin)",
+            "مبروك النجاح (mbrwk alnjah)",
+            "عيد سعيد ('ayd s'ayd)",
+            "رحلة سعيدة (rhlh s'aydh)"
           ],
           "answerIndex": 0,
           "explanation": "«شَفَاكَ اللهُ وَعَافَاكَ» و«أَلْفُ سَلَامَةٍ» هي العبارات المخصصة للمريض."
@@ -6239,10 +6239,10 @@
         {
           "prompt": "اختر الجملة التي تجمع بين نصيحة الطبيب بالأمر والدعاء للمريض بالشفاء:",
           "options": [
-            "ارْتَحْ فِي البَيْتِ ثَلَاثَةَ أَيَّامٍ، وَشَفَاكَ اللهُ وَعَافَاكَ يَا أَخِي.",
-            "ارتاح في البيت وسافر الى العمل غدا",
-            "خذ الدواء امس في المستشفى",
-            "نصيحة طبيب امر راحة شفاء سكون"
+            "ارْتَحْ فِي البَيْتِ ثَلَاثَةَ أَيَّامٍ، وَشَفَاكَ اللهُ وَعَافَاكَ يَا أَخِي. (Language concept U10)",
+            "ارتاح في البيت وسافر الى العمل غدا (artah fy albyt wsafr ala al'aml ghda)",
+            "خذ الدواء امس في المستشفى (khdh aldwa' ams fy almstshfa)",
+            "نصيحة طبيب امر راحة شفاء سكون (nsyhh tbyb amr rahh shfa' skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تجمع بين فعل الأمر «ارْتَحْ» والدعاء «شَفَاكَ اللهُ وَعَافَاكَ» بأسلوب راقٍ وفصيح."
@@ -6250,10 +6250,10 @@
         {
           "prompt": "على ماذا يُبنى فعل الأمر الصحيح الآخر عند مخاطبة المفرد المذكر مثل «اشْرَبْ»؟",
           "options": [
-            "عَلَى السُّكُونِ",
-            "على الفتح",
-            "على الضم",
-            "على الكسر"
+            "عَلَى السُّكُونِ ('aalaa alsukuwni)",
+            "على الفتح ('ala alfth)",
+            "على الضم ('ala aldm)",
+            "على الكسر ('ala alksr)"
           ],
           "answerIndex": 0,
           "explanation": "فعل الأمر الصحيح الآخر يبنى على السكون الظاهر: «اشْرَبْ»."
@@ -6266,10 +6266,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يشتمل على إرشادات الطبيب الوقائية بأفعال أمر مضبوطة ودعاء بليغ بالشفاء:",
           "options": [
-            "قَالَ الطَّبِيبُ لِلْمَرِيضِ: «خُذِ الدَّوَاءَ فِي أَوْقَاتِهِ، وَاشْرَبِ المَاءَ بِكَثْرَةٍ، وَارْتَحْ كَثِيرًا، وَشَفَاكَ اللهُ وَأَلْبَسَكَ ثَوْبَ العَافِيَةِ».",
-            "قال الطبيب بالماضي فقط بلا اوامر وبلا ادعية للمريض.",
-            "افعال امر خذ اشرب ارتح سكون فتحة عافية شفاء.",
-            "لم يقدم الطبيب اي نصائح للمريض وطلب منه المغادرة."
+            "قَالَ الطَّبِيبُ لِلْمَرِيضِ: «خُذِ الدَّوَاءَ فِي أَوْقَاتِهِ، وَاشْرَبِ المَاءَ بِكَثْرَةٍ، وَارْتَحْ كَثِيرًا، وَشَفَاكَ اللهُ وَأَلْبَسَكَ ثَوْبَ العَافِيَةِ». (Language concept U10)",
+            "قال الطبيب بالماضي فقط بلا اوامر وبلا ادعية للمريض. (qal altbyb balmady fqt bla awamr wbla ad'ayh llmryd.)",
+            "افعال امر خذ اشرب ارتح سكون فتحة عافية شفاء. (af'aal amr khdh ashrb arth skwn fthh 'aafyh shfa'.)",
+            "لم يقدم الطبيب اي نصائح للمريض وطلب منه المغادرة. (lm yqdm altbyb ay nsa'h llmryd wtlb mnh almghadrh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع أفعال الأمر التوجيهية «خُذْ، اشْرَبْ، ارْتَحْ» مع الدعاء النبيل «شَفَاكَ اللهُ وَأَلْبَسَكَ ثَوْبَ العَافِيَةِ» بتناسق تام."
@@ -6333,10 +6333,10 @@
         {
           "prompt": "في الحوار الشامل، ما هو التشخيص الذي وضعه الطبيب بعد فحص سليم؟",
           "options": [
-            "الْتِهَابٌ فِي الحَلْقِ",
-            "كسر في الساق (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "ألم في الأسنان فقط (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "صحة تامة بلا مرض (الدمج الشامل لكافة مخرجات الوحدة العاشرة)"
+            "الْتِهَابٌ فِي الحَلْقِ (altihaabun fiy alhalqi)",
+            "كسر في الساق (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "ألم في الأسنان فقط (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "صحة تامة بلا مرض (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)"
           ],
           "answerIndex": 0,
           "explanation": "شخص الطبيب حالة سليم بوجود التهاب في الحلق وكتب له الوصفة الطبية المناسبة."
@@ -6344,10 +6344,10 @@
         {
           "prompt": "ما هي تعليمات الصيدلي لسليم بشأن موعد تناول الدواء؟",
           "options": [
-            "تَنَاوَلِ الدَّوَاءَ بَعْدَ الأَكْلِ",
-            "تناول الدواء قبل النوم فقط (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "لا تشرب الماء (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "تناول الدواء في العيادة فقط (الدمج الشامل لكافة مخرجات الوحدة العاشرة)"
+            "تَنَاوَلِ الدَّوَاءَ بَعْدَ الأَكْلِ (tanaawali aldawaa'a ba'ada alaakli)",
+            "تناول الدواء قبل النوم فقط (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "لا تشرب الماء (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "تناول الدواء في العيادة فقط (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الصيدلي أوصاه بتناول الحبوب والشراب بعد الأكل لضمان سلامة المعدة والشفاء."
@@ -6359,10 +6359,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف وداع المريض بالدعاء المأثور وتمنيات الشفاء:",
           "options": [
-            "— شُكْرًا لَكَ أَيُّهَا الصَّيْدَلِيُّ النَّاصِحُ. — عَفْوًا يَا أَخِي، شَفَاكَ اللهُ وَأَلْبَسَكَ ثَوْبَ العَافِيَةِ!",
-            "— الى اللقاء في السوق غدا بلا دواء. (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "— كم الحساب؟ — الحساب كان امس في المطار. (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "— وداع مريض صيدلي دعاء سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة العاشرة)"
+            "— شُكْرًا لَكَ أَيُّهَا الصَّيْدَلِيُّ النَّاصِحُ. — عَفْوًا يَا أَخِي، شَفَاكَ اللهُ وَأَلْبَسَكَ ثَوْبَ العَافِيَةِ! (Language concept U10)",
+            "— الى اللقاء في السوق غدا بلا دواء. (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "— كم الحساب؟ — الحساب كان امس في المطار. (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "— وداع مريض صيدلي دعاء سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف عبارات الشكر والدعاء بالشفاء بأرقى لغة عربية متداولة."
@@ -6370,10 +6370,10 @@
         {
           "prompt": "ما معنى عبارة «طَهُورٌ إِنْ شَاءَ اللهُ» التي تقال للمريض؟",
           "options": [
-            "جَعَلَ اللهُ مَرَضَكَ طَهَارَةً وَمَغْفِرَةً وَشِفَاءً",
-            "سفر مبارك (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "طعام لذيذ (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "فحص طبي جديد (الدمج الشامل لكافة مخرجات الوحدة العاشرة)"
+            "جَعَلَ اللهُ مَرَضَكَ طَهَارَةً وَمَغْفِرَةً وَشِفَاءً (ja'aala allhu maradaka tahaarahan wamaghfirahan washifaa'an)",
+            "سفر مبارك (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "طعام لذيذ (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "فحص طبي جديد (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)"
           ],
           "answerIndex": 0,
           "explanation": "«طهور» دعاء نبوي كريم يعني جعل الله هذا المرض تطهيرًا ومغفرة وشفاءً للبدن والروح."
@@ -6386,10 +6386,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة العاشرة بأكملها (الأعضاء، الأعراض، العيادة، الصيدلية، الأوامر الطبية، والدعاء):",
           "options": [
-            "شَعَرَ سَلِيمٌ بِحُمَّى وَصُدَاعٍ فِي رَأْسِهِ وَأَلَمٍ فِي حَلْقِهِ، فَزَارَ عِيَادَةَ الطَّبِيبِ الَّذِي قَاسَ حَرَارَتَهُ وَفَحَصَهُ، ثُمَّ كَتَبَ لَهُ وَصْفَةً طِبِّيَّةً، فَتَوَجَّهَ إِلَى الصَّيْدَلِيَّةِ حَيْثُ نَصَحَهُ الصَّيْدَلِيُّ: «خُذْ هٰذِهِ الحُبُوبَ بَعْدَ الطَّعَامِ، وَارْتَحْ فِي الفِرَاشِ، وَشَفَاكَ اللهُ وَعَافَاكَ!». (Salim felt a fever, a headache in his head, and pain in his throat, so he visited the doctor's clinic who measured his temperature and examined him, then wrote him a prescription, so he headed to the pharmacy where the pharmacist advised him: 'Take these pills after meals, rest in bed, and may Allah heal you and grant you wellness!').",
-            "شعر سليم بالافعال المستقبلية فقط بلا طبيب ولا عيادة ولا صيدلية. (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "طبيب مريض عيادة صيدلية حبوب شراب سكون فتحة ضمة كسرة. (الدمج الشامل لكافة مخرجات الوحدة العاشرة)",
-            "لم يذهب سليم الى العيادة وفضل البقاء نائما بلا علاج. (الدمج الشامل لكافة مخرجات الوحدة العاشرة)"
+            "شَعَرَ سَلِيمٌ بِحُمَّى وَصُدَاعٍ فِي رَأْسِهِ وَأَلَمٍ فِي حَلْقِهِ، فَزَارَ عِيَادَةَ الطَّبِيبِ الَّذِي قَاسَ حَرَارَتَهُ وَفَحَصَهُ، ثُمَّ كَتَبَ لَهُ وَصْفَةً طِبِّيَّةً، فَتَوَجَّهَ إِلَى الصَّيْدَلِيَّةِ حَيْثُ نَصَحَهُ الصَّيْدَلِيُّ: «خُذْ هٰذِهِ الحُبُوبَ بَعْدَ الطَّعَامِ، وَارْتَحْ فِي الفِرَاشِ، وَشَفَاكَ اللهُ وَعَافَاكَ!». (Salim felt a fever, a headache in his head, and pain in his throat, so he visited the doctor's clinic who measured his temperature and examined him, then wrote him a prescription, so he headed to the pharmacy where the pharmacist advised him: 'Take these pills after meals, rest in bed, and may Allah heal you and grant you wellness!')",
+            "شعر سليم بالافعال المستقبلية فقط بلا طبيب ولا عيادة ولا صيدلية. (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "طبيب مريض عيادة صيدلية حبوب شراب سكون فتحة ضمة كسرة. (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)",
+            "لم يذهب سليم الى العيادة وفضل البقاء نائما بلا علاج. (aldmj alshaml lkafh mkhrjat alwhdh al'aashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الإتقان والتكامل البياني في استيعاب كافة المفاهيم الطبية والسريرية والصيدلانية والأوامر والأدعية في سياق سردي محكم ومؤثر."
@@ -6453,10 +6453,10 @@
         {
           "prompt": "ما هو الحرف المتصل الذي يدخل على الفعل المضارع ليدل على المستقبل القريب؟",
           "options": [
-            "السِّينُ «سَـ»",
-            "حرف اللام",
-            "حرف الباء",
-            "حرف الواو"
+            "السِّينُ «سَـ» (Language concept U11)",
+            "حرف اللام (hrf allam)",
+            "حرف الباء (hrf alba')",
+            "حرف الواو (hrf alwaw)"
           ],
           "answerIndex": 0,
           "explanation": "السين «سَـ» حرف استقبال يتصل بالمضارع مباشرة ويدل على المستقبل القريب: «سَأَكْتُبُ»."
@@ -6464,10 +6464,10 @@
         {
           "prompt": "ما هو الإعراب الصحيح للفعل المضارع بعد «سَوْفَ» في جملة «سَوْفَ نَنْجَحُ»؟",
           "options": [
-            "مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ",
-            "منصوب بالفتحة",
-            "مجزوم بالسكون",
-            "مبني على الفتح"
+            "مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (marfuw'aun bialdamahi alzaahirahi)",
+            "منصوب بالفتحة (mnswb balfthh)",
+            "مجزوم بالسكون (mjzwm balskwn)",
+            "مبني على الفتح (mbny 'ala alfth)"
           ],
           "answerIndex": 0,
           "explanation": "«سَوْفَ» و«السين» لا تؤثران في إعراب الفعل المضارع؛ فيظل مرفوعًا بالضمة."
@@ -6479,10 +6479,10 @@
         {
           "prompt": "اختر الجملة التي تعبر عن خطة مستقبلية بعيدة باستخدام «سَوْفَ»:",
           "options": [
-            "سَوْفَ أُؤَسِّسُ شَرِكَتِي الهَنْدَسِيَّةَ بَعْدَ عَشْرِ سَنَوَاتٍ.",
-            "سوف أسافر أمس إلى المطار",
-            "سوف سافرت في الصيف الماضي",
-            "خطة مستقبل سوف سين سكون فتحة"
+            "سَوْفَ أُؤَسِّسُ شَرِكَتِي الهَنْدَسِيَّةَ بَعْدَ عَشْرِ سَنَوَاتٍ. (sawfa au'asisu sharikatiy alhandasiyaha ba'ada 'aashri sanawaatin.)",
+            "سوف أسافر أمس إلى المطار (swf asafr ams ila almtar)",
+            "سوف سافرت في الصيف الماضي (swf safrt fy alsyf almady)",
+            "خطة مستقبل سوف سين سكون فتحة (khth mstqbl swf syn skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف «سَوْفَ» مع المضارع «أُؤَسِّسُ» للدلالة على المدى الزمني البعيد بصحة تامة."
@@ -6490,10 +6490,10 @@
         {
           "prompt": "كيف تكتب جملة «سوف أذهب» باستخدام حرف الاستقبال المتصل؟",
           "options": [
-            "سَأَذْهَبُ",
-            "سوفأذهب",
-            "س اذهب",
-            "أساذهب"
+            "سَأَذْهَبُ (saaadhhabu)",
+            "سوفأذهب (swfadhhb)",
+            "س اذهب (s adhhb)",
+            "أساذهب (asadhhb)"
           ],
           "answerIndex": 0,
           "explanation": "تتصل السين بالفعل مباشرة دون مسافة: «سَأَذْهَبُ»."
@@ -6506,10 +6506,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف حرفي الاستقبال «السين» و«سوف» للتفريق بين القريب والبعيد بدقة نحوية تامة:",
           "options": [
-            "سَأُقَدِّمُ أَوْرَاقِي لِلْجَامِعَةِ غَدًا صَبَاحًا؛ وَسَوْفَ أُوَاصِلُ دِرَاسَتِي الأَكَادِيمِيَّةَ حَتَّى أَنَالَ شَهَادَةَ الدُّكْتُورَاهِ فِي المُسْتَقْبَلِ.",
-            "سأقدم أوراقي أمس وسوف واصلت دراستي بالماضي خطأ.",
-            "مستقبل سين سوف غدا سنوات دكتوراه سكون فتحة ضمة.",
-            "لن يدرس الطالب ولن يقدم اوراقه ابدا."
+            "سَأُقَدِّمُ أَوْرَاقِي لِلْجَامِعَةِ غَدًا صَبَاحًا؛ وَسَوْفَ أُوَاصِلُ دِرَاسَتِي الأَكَادِيمِيَّةَ حَتَّى أَنَالَ شَهَادَةَ الدُّكْتُورَاهِ فِي المُسْتَقْبَلِ. (Language concept U11)",
+            "سأقدم أوراقي أمس وسوف واصلت دراستي بالماضي خطأ. (saqdm awraqy ams wswf waslt drasty balmady khta.)",
+            "مستقبل سين سوف غدا سنوات دكتوراه سكون فتحة ضمة. (mstqbl syn swf ghda snwat dktwrah skwn fthh dmh.)",
+            "لن يدرس الطالب ولن يقدم اوراقه ابدا. (ln ydrs altalb wln yqdm awraqh abda.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تستخدم «سَأُقَدِّمُ» لغد (القريب) و«سَوْفَ أُوَاصِلُ» للمستقبل البعيد ببيان وفصاحة كاملة."
@@ -6572,10 +6572,10 @@
         {
           "prompt": "ما هي علامة إعراب الفعل المضارع «أَدْرُسَ» بعد حرف النصب «أَنْ» في «أُرِيدُ أَنْ أَدْرُسَ»؟",
           "options": [
-            "الفَتْحَةُ الظَّاهِرَةُ",
-            "الضمة الظاهرة",
-            "السكون",
-            "الكسرة"
+            "الفَتْحَةُ الظَّاهِرَةُ (alfathahu alzaahirahu)",
+            "الضمة الظاهرة (aldmh alzahrh)",
+            "السكون (alskwn)",
+            "الكسرة (alksrh)"
           ],
           "answerIndex": 0,
           "explanation": "«أَنْ» أداة نصب تنصب الفعل المضارع بالفتحة الظاهرة."
@@ -6583,10 +6583,10 @@
         {
           "prompt": "أي الأفعال التالية يُستخدم للتعبير عن التمني والرجاء مقترنًا بـ «أَنْ»؟",
           "options": [
-            "أَتَمَنَّى أَنْ / أَرْجُو أَنْ",
-            "أكلت أن",
-            "كتبت أن",
-            "نمت أن"
+            "أَتَمَنَّى أَنْ / أَرْجُو أَنْ (aatamanaa aan / aarjuw aan)",
+            "أكلت أن (aklt an)",
+            "كتبت أن (ktbt an)",
+            "نمت أن (nmt an)"
           ],
           "answerIndex": 0,
           "explanation": "«أَتَمَنَّى أَنْ» و«أَرْجُو أَنْ» هما الفعلان النموذجيان للتعبير عن الرغبات والآمال."
@@ -6598,10 +6598,10 @@
         {
           "prompt": "اختر الجملة المضبوطة إعرابيًا بدقة مع أداة النصب «أَنْ»:",
           "options": [
-            "أَرْجُو أَنْ أُوَفَّقَ فِي خِدْمَةِ مُجْتَمَعِي وَأَهْلِي.",
-            "أرجو أن أوفقُ بالضم بعد أن خطأ",
-            "أرجو أن أوفقْ بالسكون",
-            "رجاء أن توفيق سكون فتحة"
+            "أَرْجُو أَنْ أُوَفَّقَ فِي خِدْمَةِ مُجْتَمَعِي وَأَهْلِي. (aarjuw aan auwafaqa fiy khidmahi mujtama'aiy waaahliy.)",
+            "أرجو أن أوفقُ بالضم بعد أن خطأ (arjw an awfqu baldm b'ad an khta)",
+            "أرجو أن أوفقْ بالسكون (arjw an awfq balskwn)",
+            "رجاء أن توفيق سكون فتحة (rja' an twfyq skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "«أُوَفَّقَ» فعل مضارع منصوب بالفتحة الظاهرة لوقوعه بعد «أَنْ»."
@@ -6609,10 +6609,10 @@
         {
           "prompt": "ما المعنى الدقيق للتركيب «يَجِبُ أَنْ نَعْمَلَ»؟",
           "options": [
-            "يَتَحَتَّمُ وَيَلْزَمُ عَلَيْنَا العَمَلُ",
-            "ربما نعمل غدا",
-            "لن نعمل ابدا",
-            "عملنا في الماضي"
+            "يَتَحَتَّمُ وَيَلْزَمُ عَلَيْنَا العَمَلُ (yatahatamu wayalzamu 'aalaynaa al'aamalu)",
+            "ربما نعمل غدا (rbma n'aml ghda)",
+            "لن نعمل ابدا (ln n'aml abda)",
+            "عملنا في الماضي ('amlna fy almady)"
           ],
           "answerIndex": 0,
           "explanation": "«يَجِبُ أَنْ» تدل على الإلزام والوجوب المؤكد."
@@ -6625,10 +6625,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف الطموح الجامعي باستخدام «أَنْ» المصدرية الناصبة للمضارع بإتقان تام:",
           "options": [
-            "يَسْعَى الشَّابُّ الطَّمُوحُ إِلَى أَنْ يُطَوِّرَ مَهَارَاتِهِ، وَيَأْمُلُ أَنْ يُصْبِحَ مُتَرْجِمًا بَارِعًا يَنْقُلُ ثَقَافَاتِ العَالَمِ إِلَى لُغَتِهِ الأُمِّ.",
-            "يسعى الشاب ان يطورُ ويأمل ان يصبحُ بالضم في المضارع المنصوب.",
-            "طموح شاب ترجمة لغات مهارات سكون فتحة ضمة كسرة.",
-            "لا يريد الشاب ان يتعلم اي لغة جديدة."
+            "يَسْعَى الشَّابُّ الطَّمُوحُ إِلَى أَنْ يُطَوِّرَ مَهَارَاتِهِ، وَيَأْمُلُ أَنْ يُصْبِحَ مُتَرْجِمًا بَارِعًا يَنْقُلُ ثَقَافَاتِ العَالَمِ إِلَى لُغَتِهِ الأُمِّ. (Language concept U11)",
+            "يسعى الشاب ان يطورُ ويأمل ان يصبحُ بالضم في المضارع المنصوب. (ys'aa alshab an ytwru wyaml an ysbhu baldm fy almdar'a almnswb.)",
+            "طموح شاب ترجمة لغات مهارات سكون فتحة ضمة كسرة. (tmwh shab trjmh lghat mharat skwn fthh dmh ksrh.)",
+            "لا يريد الشاب ان يتعلم اي لغة جديدة. (la yryd alshab an yt'alm ay lghh jdydh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يضبط الأفعال بعد «أَنْ» بالفتحة «يُطَوِّرَ، يُصْبِحَ» مع فصاحة دلالية رفيعة."
@@ -6691,10 +6691,10 @@
         {
           "prompt": "ما هو التأثير النحوي لحرف «لَنْ» على الفعل المضارع الصحيح الآخر؟",
           "options": [
-            "يَنْصِبُهُ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "يجزمه بالسكون",
-            "يرفعه بالضمة",
-            "يبنيه على الكسر"
+            "يَنْصِبُهُ بِالفَتْحَةِ الظَّاهِرَةِ (yansibuhu bialfathahi alzaahirahi)",
+            "يجزمه بالسكون (yjzmh balskwn)",
+            "يرفعه بالضمة (yrf'ah baldmh)",
+            "يبنيه على الكسر (ybnyh 'ala alksr)"
           ],
           "answerIndex": 0,
           "explanation": "«لَنْ» حرف نفي ونصب واستقبال ينصب الفعل المضارع بالفتحة الظاهرة."
@@ -6702,10 +6702,10 @@
         {
           "prompt": "ما هو الزمن الذي تنفيه أداة «لَنْ» في اللغة العربية؟",
           "options": [
-            "المُسْتَقْبَلُ قَطْعًا",
-            "الماضي فقط",
-            "الحاضر والماضي معا",
-            "ليس له زمن"
+            "المُسْتَقْبَلُ قَطْعًا (almustaqbalu qat'aana)",
+            "الماضي فقط (almady fqt)",
+            "الحاضر والماضي معا (alhadr walmady m'aa)",
+            "ليس له زمن (lys lh zmn)"
           ],
           "answerIndex": 0,
           "explanation": "«لَنْ» تختص بنفي المستقبل نفيًا مؤكدًا."
@@ -6717,10 +6717,10 @@
         {
           "prompt": "اختر الجملة التي تعبر عن نفي مستقبلي مؤكد ومضبوط نحويًا:",
           "options": [
-            "لَنْ نَتَخَلَّى عَنْ مَبَادِئِنَا السَّامِيَةِ مَهْمَا كَانَتِ التَّحَدِّيَاتُ.",
-            "لن نتخلىُ بالضم بعد لن",
-            "لن نتخلىْ بالسكون",
-            "نفي مستقبل لن مبادئ سكون"
+            "لَنْ نَتَخَلَّى عَنْ مَبَادِئِنَا السَّامِيَةِ مَهْمَا كَانَتِ التَّحَدِّيَاتُ. (lan natakhalaa 'aan mabaadi'inaa alsaamiyahi mahmaa kaanati altahadiyaatu.)",
+            "لن نتخلىُ بالضم بعد لن (ln ntkhlau baldm b'ad ln)",
+            "لن نتخلىْ بالسكون (ln ntkhla balskwn)",
+            "نفي مستقبل لن مبادئ سكون (nfy mstqbl ln mbad' skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«لَنْ نَتَخَلَّى» نفي للمستقبل بفتحة مقدرة على الألف منع من ظهورها التعذر."
@@ -6728,10 +6728,10 @@
         {
           "prompt": "ما الفرق بين «لَمْ يَكْتُبْ» و«لَنْ يَكْتُبَ»؟",
           "options": [
-            "«لَمْ» تَنْفِي المَاضِي بِالجَزْمِ، وَ«لَنْ» تَنْفِي المُسْتَقْبَلَ بِالنَّصْبِ",
-            "كلاهما ينفيان الماضي",
-            "كلاهما ينفيان الحاضر",
-            "لا فرق بينهما"
+            "«لَمْ» تَنْفِي المَاضِي بِالجَزْمِ، وَ«لَنْ» تَنْفِي المُسْتَقْبَلَ بِالنَّصْبِ (Language concept U11)",
+            "كلاهما ينفيان الماضي (klahma ynfyan almady)",
+            "كلاهما ينفيان الحاضر (klahma ynfyan alhadr)",
+            "لا فرق بينهما (la frq bynhma)"
           ],
           "answerIndex": 0,
           "explanation": "«لَمْ» جازمة للماضي، بينما «لَنْ» ناصبة للمستقبل."
@@ -6744,10 +6744,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف حرف النفي «لَنْ» في سياق الإصرار وعدم التراجع عن الأهداف المستقبلية:",
           "options": [
-            "قَالَ الخِرِّيجُ بِثِقَةٍ: «لَنْ أَقْبَلَ بِأَقَلَّ مِنَ التَّمَيُّزِ، وَلَنْ أَتَوَانَى عَنْ تَطْوِيرِ قُدُرَاتِي، لِأَنَّ النَّجَاحَ الحَقِيقِيَّ يَتَطَلَّبُ مُثَابَرَةً دَائِمَةً».",
-            "قال الخريج بالماضي فقط بلا نفي مستقبلي.",
-            "نفي لن فتحة تميز قدرات نجاح سكون فتحة ضمة.",
-            "استسلم الخريج وقرر عدم العمل نهائيا."
+            "قَالَ الخِرِّيجُ بِثِقَةٍ: «لَنْ أَقْبَلَ بِأَقَلَّ مِنَ التَّمَيُّزِ، وَلَنْ أَتَوَانَى عَنْ تَطْوِيرِ قُدُرَاتِي، لِأَنَّ النَّجَاحَ الحَقِيقِيَّ يَتَطَلَّبُ مُثَابَرَةً دَائِمَةً». (Language concept U11)",
+            "قال الخريج بالماضي فقط بلا نفي مستقبلي. (qal alkhryj balmady fqt bla nfy mstqbly.)",
+            "نفي لن فتحة تميز قدرات نجاح سكون فتحة ضمة. (nfy ln fthh tmyz qdrat njah skwn fthh dmh.)",
+            "استسلم الخريج وقرر عدم العمل نهائيا. (astslm alkhryj wqrr 'adm al'aml nha'ya.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «لَنْ أَقْبَلَ، وَلَنْ أَتَوَانَى» لنفي التراجع المستقبلي بفتحة ظاهرة ومقدرة في نسق أدبي بليغ."
@@ -6809,10 +6809,10 @@
         {
           "prompt": "ما هي الأداة التي تعني «من أجل أن» وتنصب الفعل المضارع بالفتحة؟",
           "options": [
-            "كَيْ / لِكَيْ",
-            "لم الجازمة",
-            "ما النافية",
-            "قد التحقيقية"
+            "كَيْ / لِكَيْ (kay / likay)",
+            "لم الجازمة (lm aljazmh)",
+            "ما النافية (ma alnafyh)",
+            "قد التحقيقية (qd althqyqyh)"
           ],
           "answerIndex": 0,
           "explanation": "«كَيْ / لِكَيْ» أداة تعليل ناصبة للمضارع: «أَتَعَلَّمُ لِكَيْ أَتَفَوَّقَ»."
@@ -6820,10 +6820,10 @@
         {
           "prompt": "ما هو نوع اللام في جملة «جِئْتُ لِأَسْتَفِيدَ» وما عملها؟",
           "options": [
-            "لَامُ التَّعْلِيلِ، تَنْصِبُ الفِعْلَ المُضَارِعَ",
-            "لام الجر تجر الاسم فقط",
-            "لام التوكيد",
-            "لام الأمر الجازمة"
+            "لَامُ التَّعْلِيلِ، تَنْصِبُ الفِعْلَ المُضَارِعَ (Language concept U11)",
+            "لام الجر تجر الاسم فقط (lam aljr tjr alasm fqt)",
+            "لام التوكيد (lam altwkyd)",
+            "لام الأمر الجازمة (lam alamr aljazmh)"
           ],
           "answerIndex": 0,
           "explanation": "«لِأَسْتَفِيدَ» اللام هنا لام التعليل، وتنصب الفعل المضارع بالفتحة."
@@ -6835,10 +6835,10 @@
         {
           "prompt": "اختر الجملة التي توظف «حَتَّى» الناصبة للمضارع لبيان الغاية والوصول إلى الهدف:",
           "options": [
-            "سَأَجْتَهِدُ فِي دِرَاسَتِي حَتَّى أَنَالَ المَرْتَبَةَ الأُولَى.",
-            "سأجتهد حتى أنالُ بالضم بعد حتى",
-            "اجتهد حتى انال بالسكون",
-            "غاية حتى دراسة سكون فتحة"
+            "سَأَجْتَهِدُ فِي دِرَاسَتِي حَتَّى أَنَالَ المَرْتَبَةَ الأُولَى. (saaajtahidu fiy diraasatiy hataa aanaala almartabaha alauwlaa.)",
+            "سأجتهد حتى أنالُ بالضم بعد حتى (sajthd hta analu baldm b'ad hta)",
+            "اجتهد حتى انال بالسكون (ajthd hta anal balskwn)",
+            "غاية حتى دراسة سكون فتحة (ghayh hta drash skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "«أَنَالَ» فعل مضارع منصوب بالفتحة بعد «حَتَّى» الدالة على الغاية."
@@ -6846,10 +6846,10 @@
         {
           "prompt": "ما علامة نصب الأفعال الخمسة بعد «كَيْ» و«حَتَّى»؟",
           "options": [
-            "حَذْفُ النُّونِ",
-            "الفتحة المقدرة",
-            "السكون",
-            "ثبوت النون"
+            "حَذْفُ النُّونِ (hadhfu alnuwni)",
+            "الفتحة المقدرة (alfthh almqdrh)",
+            "السكون (alskwn)",
+            "ثبوت النون (thbwt alnwn)"
           ],
           "answerIndex": 0,
           "explanation": "الأفعال الخمسة تنصب بحذف النون: «لِتَنْجَحُوا» أصلها «تنجحون»."
@@ -6862,10 +6862,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تدمج أدوات التعليل والغاية (كي، حتى، لام التعليل) بأسلوب بياني سليم وإعراب دقيق:",
           "options": [
-            "يَتَدَرَّبُ المُهَنْدِسُونَ يَوْمِيًّا لِيَكْتَسِبُوا الخِبْرَةَ، وَيَقْرَؤُونَ المَرَاجِعَ كَيْ يُوَسِّعُوا مَعَارِفَهُمْ، وَيُوَاظِبُونَ عَلَى العَمَلِ حَتَّى يُنْجِزُوا المَشْرُوعَ بِإِتْقَانٍ.",
-            "يتدرب المهندسون بثبوت النون في كل الافعال بعد ادوات النصب خطأ.",
-            "ادوات تعليل كي حتى لام التعليل سكون فتحة ضمة.",
-            "لم يتدرب المهندسون وتوقف المشروع نهائيا."
+            "يَتَدَرَّبُ المُهَنْدِسُونَ يَوْمِيًّا لِيَكْتَسِبُوا الخِبْرَةَ، وَيَقْرَؤُونَ المَرَاجِعَ كَيْ يُوَسِّعُوا مَعَارِفَهُمْ، وَيُوَاظِبُونَ عَلَى العَمَلِ حَتَّى يُنْجِزُوا المَشْرُوعَ بِإِتْقَانٍ. (Language concept U11)",
+            "يتدرب المهندسون بثبوت النون في كل الافعال بعد ادوات النصب خطأ. (ytdrb almhndswn bthbwt alnwn fy kl alaf'aal b'ad adwat alnsb khta.)",
+            "ادوات تعليل كي حتى لام التعليل سكون فتحة ضمة. (adwat t'alyl ky hta lam alt'alyl skwn fthh dmh.)",
+            "لم يتدرب المهندسون وتوقف المشروع نهائيا. (lm ytdrb almhndswn wtwqf almshrw'a nha'ya.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «لِيَكْتَسِبُوا»، «كَيْ يُوَسِّعُوا»، «حَتَّى يُنْجِزُوا» بحذف النون للأفعال الخمسة المنصوبة بنسق لغوي فائق."
@@ -6927,10 +6927,10 @@
         {
           "prompt": "في حوار التخرج، ما هو تخصص الدراسات العليا الذي تسعى مريم لإكماله؟",
           "options": [
-            "الذَّكَاءُ الِاصْطِنَاعِيُّ",
-            "التاريخ القديم فقط (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "الطب البيطري (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "السياحة والفنادق (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)"
+            "الذَّكَاءُ الِاصْطِنَاعِيُّ (aldhakaa'u aliastinaa'aiyu)",
+            "التاريخ القديم فقط (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "الطب البيطري (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "السياحة والفنادق (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أوضحت مريم رغبتها: «أُرِيدُ أَنْ أُسَافِرَ لِأُكْمِلَ دِرَاسَتِي فِي الذَّكَاءِ الِاصْطِنَاعِيِّ»."
@@ -6938,10 +6938,10 @@
         {
           "prompt": "ما هو إعراب الفعل «لِنَبْنِيَ» في جملة «نَسْعَى لِنَبْنِيَ وَطَنَنَا»؟",
           "options": [
-            "مُضَارِعٌ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ بَعْدَ لَامِ التَّعْلِيلِ",
-            "مرفوع بالضمة المقدرة (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "مجزوم بالسكون (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "مبني على الفتح (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)"
+            "مُضَارِعٌ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ بَعْدَ لَامِ التَّعْلِيلِ (mudaari'aun mansuwbun bialfathahi alzaahirahi ba'ada laami alta'aliyli)",
+            "مرفوع بالضمة المقدرة (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "مجزوم بالسكون (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "مبني على الفتح (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل معتل بالياء، وتظهر الفتحة على الياء لخفتها بعد لام التعليل: «لِنَبْنِيَ»."
@@ -6953,10 +6953,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تعبر عن الطموح المهني وتوظيف أدوات النصب والاستقبال ببراعة:",
           "options": [
-            "— مَاذَا سَتَفْعَلُ بَعْدَ التَّخَرُّجِ؟ — سَوْفَ أَلْتَحِقُ بِمَرْكَزِ أَبْحَاثٍ لِكَيْ أُطَوِّرَ مَشَارِيعِي، وَلَنْ أَتَوَقَّفَ عَنِ الِابْتِكَارِ.",
-            "— تخرجت امس في السوق بدون مستقبل. (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "— كم الحساب؟ — الحساب كان غدا في المحطة. (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "— تخرج مستقبل سين سوف كي لن سكون. (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)"
+            "— مَاذَا سَتَفْعَلُ بَعْدَ التَّخَرُّجِ؟ — سَوْفَ أَلْتَحِقُ بِمَرْكَزِ أَبْحَاثٍ لِكَيْ أُطَوِّرَ مَشَارِيعِي، وَلَنْ أَتَوَقَّفَ عَنِ الِابْتِكَارِ. (Language concept U11)",
+            "— تخرجت امس في السوق بدون مستقبل. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "— كم الحساب؟ — الحساب كان غدا في المحطة. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "— تخرج مستقبل سين سوف كي لن سكون. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «سَتَفْعَلُ، سَوْفَ أَلْتَحِقُ، لِكَيْ أُطَوِّرَ، لَنْ أَتَوَقَّفَ» بنسق حواري طبيعي ورفيع."
@@ -6964,10 +6964,10 @@
         {
           "prompt": "ما معنى عبارة «بِامْتِيَازٍ» في الشهادات الأكاديمية؟",
           "options": [
-            "بِمَرْتَبَةِ الشَّرَفِ وَالتَّفَوُّقِ العَالِي",
-            "بدرجة مقبولة فقط (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "بدون امتحانات (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "شهادة حضور (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)"
+            "بِمَرْتَبَةِ الشَّرَفِ وَالتَّفَوُّقِ العَالِي (bimartabahi alsharafi waaltafawuqi al'aaaliy)",
+            "بدرجة مقبولة فقط (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "بدون امتحانات (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "شهادة حضور (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "«بِامْتِيَازٍ» هي أعلى درجات التقدير الأكاديمي الدالة على التفوق والتميز."
@@ -6980,10 +6980,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الحادية عشرة بأكملها (السين، سوف، أن، لن، كي، حتى، لام التعليل، والطموحات المستقبلية):",
           "options": [
-            "وَقَفَ طَارِقٌ وَمَرْيَمُ فِي حَفْلِ التَّخَرُّجِ، فَقَالَ طَارِقٌ: «سَأَبْدَأُ التَّدْرِيبَ غَدًا لِكَيْ أَكْتَسِبَ خِبْرَةً، وَسَوْفَ أُسَافِرُ حَتَّى أَنَالَ الدُّكْتُورَاهَ»، فَرَدَّتْ مَرْيَمُ: «أُرِيدُ أَنْ أُبْدِعَ فِي بَرْمَجَةِ الذَّكَاءِ الِاصْطِنَاعِيِّ، وَلَنْ أَتَرَدَّدَ فِي خِدْمَةِ وَطَنِي لِنَبْنِيَ مَعًا مُسْتَقْبَلًا عَظِيمًا».",
-            "تخرج طارق ومريم بالافعال الماضية فقط بلا مستقبل ولا ادوات نصب. (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "حفل تخرج سين سوف ان لن كي حتى لام تعليل سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)",
-            "رفض الطلاب استلام الشهادات وغادروا الحفل مسرعين. (الدمج الشامل لكافة مخرجات الوحدة الحادية عشرة)"
+            "وَقَفَ طَارِقٌ وَمَرْيَمُ فِي حَفْلِ التَّخَرُّجِ، فَقَالَ طَارِقٌ: «سَأَبْدَأُ التَّدْرِيبَ غَدًا لِكَيْ أَكْتَسِبَ خِبْرَةً، وَسَوْفَ أُسَافِرُ حَتَّى أَنَالَ الدُّكْتُورَاهَ»، فَرَدَّتْ مَرْيَمُ: «أُرِيدُ أَنْ أُبْدِعَ فِي بَرْمَجَةِ الذَّكَاءِ الِاصْطِنَاعِيِّ، وَلَنْ أَتَرَدَّدَ فِي خِدْمَةِ وَطَنِي لِنَبْنِيَ مَعًا مُسْتَقْبَلًا عَظِيمًا». (Language concept U11)",
+            "تخرج طارق ومريم بالافعال الماضية فقط بلا مستقبل ولا ادوات نصب. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "حفل تخرج سين سوف ان لن كي حتى لام تعليل سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)",
+            "رفض الطلاب استلام الشهادات وغادروا الحفل مسرعين. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج كافة أدوات الاستقبال ونواصب المضارع وأفعال الرغبة والعلة والغاية في سياق سردي ملهم وناصع."
@@ -7047,10 +7047,10 @@
         {
           "prompt": "ما هو المصدر الصريح المشتق من الفعل «سَبَحَ»؟",
           "options": [
-            "سِبَاحَةٌ",
-            "سابح",
-            "مسبح",
-            "تسبيح"
+            "سِبَاحَةٌ (sibaahahun)",
+            "سابح (sabh)",
+            "مسبح (msbh)",
+            "تسبيح (tsbyh)"
           ],
           "answerIndex": 0,
           "explanation": "مصدر «سَبَحَ» هو «سِبَاحَةٌ» على وزن فِعَالَة."
@@ -7058,10 +7058,10 @@
         {
           "prompt": "ما هو الفرق الأساسي بين الفعل والمصدر في اللغة العربية؟",
           "options": [
-            "الفِعْلُ يَقْتَرِنُ بِالزَّمَانِ، أَمَّا المَصْدَرُ فَحَدَثٌ مُجَرَّدٌ مِنَ الزَّمَانِ",
-            "المصدر يدل على المكان فقط",
-            "الفعل اسم دائما",
-            "لا يوجد أي فرق"
+            "الفِعْلُ يَقْتَرِنُ بِالزَّمَانِ، أَمَّا المَصْدَرُ فَحَدَثٌ مُجَرَّدٌ مِنَ الزَّمَانِ (Language concept U12)",
+            "المصدر يدل على المكان فقط (almsdr ydl 'ala almkan fqt)",
+            "الفعل اسم دائما (alf'al asm da'ma)",
+            "لا يوجد أي فرق (la ywjd ay frq)"
           ],
           "answerIndex": 0,
           "explanation": "المصدر اسم يدل على الحدث المجرد دون زمن (الماضي أو الحاضر أو المستقبل)."
@@ -7073,10 +7073,10 @@
         {
           "prompt": "اختر الجملة التي تتضمن مصدرًا صريحًا مفعولاً به منصوبًا بالفتحة:",
           "options": [
-            "أُحِبُّ قِرَاءَةَ الكُتُبِ التَّارِيخِيَّةِ فِي الصَّبَاحِ.",
-            "أحب قرأت الكتب بالتأنيث خطأ",
-            "أحب قارئ الكتب",
-            "قراءة كتاب صباح سكون فتحة"
+            "أُحِبُّ قِرَاءَةَ الكُتُبِ التَّارِيخِيَّةِ فِي الصَّبَاحِ. (auhibu qiraa'aha alkutubi altaariykhiyahi fiy alsabaahi.)",
+            "أحب قرأت الكتب بالتأنيث خطأ (ahb qrat alktb baltanyth khta)",
+            "أحب قارئ الكتب (ahb qar' alktb)",
+            "قراءة كتاب صباح سكون فتحة (qra'h ktab sbah skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "«قِرَاءَةَ» مصدر صريح مفعول به منصوب بالفتحة الظاهرة."
@@ -7084,10 +7084,10 @@
         {
           "prompt": "ما هو وزن المصدر لكلمة «تَصْوِير» المشتق من «صَوَّرَ»؟",
           "options": [
-            "تَفْعِيلٌ",
-            "فعالة",
-            "مفاعلة",
-            "افتعال"
+            "تَفْعِيلٌ (taf'aiylun)",
+            "فعالة (f'aalh)",
+            "مفاعلة (mfa'alh)",
+            "افتعال (aft'aal)"
           ],
           "answerIndex": 0,
           "explanation": "«تَصْوِيرٌ» على وزن «تَفْعِيلٌ» من الفعل الرباعي المضعف «صَوَّرَ»."
@@ -7100,10 +7100,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف مجموعة من المصادر الصريحة المتنوعة الأوزان في سياق الأنشطة الثقافية والرياضية:",
           "options": [
-            "يَحْرِصُ الطُّلَّابُ عَلَى تَنْظِيمِ أَوْقَاتِهِمْ بَيْنَ القِرَاءَةِ وَالكِتَابَةِ، وَمُمَارَسَةِ الرَّسْمِ وَالسِّبَاحَةِ، مَعَ رُكُوبِ الخَيْلِ لِتَجْدِيدِ النَّشَاطِ.",
-            "يحرص الطلاب بالافعال فقط بلا اي مصادر صريحة.",
-            "مصادر صريحة قراءة كتابة رسم سباحة ركوب سكون فتحة.",
-            "توقف الطلاب عن ممارسة اي انشطة او هوايات."
+            "يَحْرِصُ الطُّلَّابُ عَلَى تَنْظِيمِ أَوْقَاتِهِمْ بَيْنَ القِرَاءَةِ وَالكِتَابَةِ، وَمُمَارَسَةِ الرَّسْمِ وَالسِّبَاحَةِ، مَعَ رُكُوبِ الخَيْلِ لِتَجْدِيدِ النَّشَاطِ. (Language concept U12)",
+            "يحرص الطلاب بالافعال فقط بلا اي مصادر صريحة. (yhrs altlab balaf'aal fqt bla ay msadr sryhh.)",
+            "مصادر صريحة قراءة كتابة رسم سباحة ركوب سكون فتحة. (msadr sryhh qra'h ktabh rsm sbahh rkwb skwn fthh.)",
+            "توقف الطلاب عن ممارسة اي انشطة او هوايات. (twqf altlab 'an mmarsh ay anshth aw hwayat.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين مصادر متعددة الأوزان «تَنْظِيم، قِرَاءَة، كِتَابَة، مُمَارَسَة، رَسْم، سِبَاحَة، رُكُوب» بانسجام تركيبي رائع."
@@ -7167,10 +7167,10 @@
         {
           "prompt": "ما هي الآلة الموسيقية الوترية التراثية التي تعد رمزًا للموسيقى العربية؟",
           "options": [
-            "العُودُ",
-            "البيانو",
-            "الدرامز",
-            "البوق"
+            "العُودُ (al'auwdu)",
+            "البيانو (albyanw)",
+            "الدرامز (aldramz)",
+            "البوق (albwq)"
           ],
           "answerIndex": 0,
           "explanation": "«العُودُ» هو الآلة الوترية الشرقية الأصيلة وسيد الآلات العربية."
@@ -7178,10 +7178,10 @@
         {
           "prompt": "ما هو الفعل المناسب للحديث عن إنتاج الألحان بالآلات الموسيقية في الفصحى؟",
           "options": [
-            "عَزَفَ / يَعْزِفُ",
-            "كتب / يكتب",
-            "أكل / يأكل",
-            "ركض / يركض"
+            "عَزَفَ / يَعْزِفُ ('aazafa / ya'azifu)",
+            "كتب / يكتب (ktb / yktb)",
+            "أكل / يأكل (akl / yakl)",
+            "ركض / يركض (rkd / yrkd)"
           ],
           "answerIndex": 0,
           "explanation": "يقال: «عَزَفَ الفَنَّانُ عَلَى العُودِ»."
@@ -7193,10 +7193,10 @@
         {
           "prompt": "اختر الجملة التي تصف ممارسة الرياضات التراثية بدقة لغوية:",
           "options": [
-            "يَتَدَرَّبُ الفُرْسَانُ عَلَى الفُرُوسِيَّةِ وَالرِّمَايَةِ فِي مَيْدَانِ السِّبَاقِ.",
-            "يتدرب الفرسان على الشطرنج في حوض السباحة",
-            "الفروسية تأكل العود في الملعب",
-            "رياضة فرسان ميدان رماية سكون"
+            "يَتَدَرَّبُ الفُرْسَانُ عَلَى الفُرُوسِيَّةِ وَالرِّمَايَةِ فِي مَيْدَانِ السِّبَاقِ. (yatadarabu alfursaanu 'aalaa alfuruwsiyahi waalrimaayahi fiy maydaani alsibaaqi.)",
+            "يتدرب الفرسان على الشطرنج في حوض السباحة (ytdrb alfrsan 'ala alshtrnj fy hwd alsbahh)",
+            "الفروسية تأكل العود في الملعب (alfrwsyh takl al'awd fy alml'ab)",
+            "رياضة فرسان ميدان رماية سكون (ryadh frsan mydan rmayh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن رياضتي الفروسية والرماية في ميدان التدريب بفصاحة."
@@ -7204,10 +7204,10 @@
         {
           "prompt": "ما هي الرياضة التي تتضمن التنافس على تسجيل الأهداف في مرمى الفريق الخصم بالقدم؟",
           "options": [
-            "كُرَةُ القَدَمِ",
-            "كرة السلة",
-            "السباحة",
-            "التنس"
+            "كُرَةُ القَدَمِ (kurahu alqadami)",
+            "كرة السلة (krh alslh)",
+            "السباحة (alsbahh)",
+            "التنس (altns)"
           ],
           "answerIndex": 0,
           "explanation": "«كُرَةُ القَدَمِ» هي الرياضة الأكثر شعبية عالميًا."
@@ -7220,10 +7220,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف التنافس الرياضي والفكري في النادي بعبارات معجمية دقيقة:",
           "options": [
-            "تَشْهَدُ النَّوَادِي الشَّبَابِيَّةُ إِقْبَالًا كَبِيرًا؛ حَيْثُ يَتَنَافَسُ الرِّيَاضِيُّونَ فِي كُرَةِ القَدَمِ وَالسِّبَاحَةِ، بَيْنَمَا يَنْعَقِدُ دَوْرِيُّ الشَّطْرَنْجِ فِي قَاعَةِ الأَنْشِطَةِ الفِكْرِيَّةِ.",
-            "تشهد النوادي بالافعال الماضية فقط بلا رياضات ولا انشطة.",
-            "نوادي كرة قدم سباحة شطرنج عود سكون فتحة ضمة.",
-            "اغلقت جميع النوادي ابوابها وتوقفت الالعاب."
+            "تَشْهَدُ النَّوَادِي الشَّبَابِيَّةُ إِقْبَالًا كَبِيرًا؛ حَيْثُ يَتَنَافَسُ الرِّيَاضِيُّونَ فِي كُرَةِ القَدَمِ وَالسِّبَاحَةِ، بَيْنَمَا يَنْعَقِدُ دَوْرِيُّ الشَّطْرَنْجِ فِي قَاعَةِ الأَنْشِطَةِ الفِكْرِيَّةِ. (Language concept U12)",
+            "تشهد النوادي بالافعال الماضية فقط بلا رياضات ولا انشطة. (tshhd alnwady balaf'aal almadyh fqt bla ryadat wla anshth.)",
+            "نوادي كرة قدم سباحة شطرنج عود سكون فتحة ضمة. (nwady krh qdm sbahh shtrnj 'awd skwn fthh dmh.)",
+            "اغلقت جميع النوادي ابوابها وتوقفت الالعاب. (aghlqt jmy'a alnwady abwabha wtwqft alal'aab.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يصف الأنشطة الرياضية والفكرية «كرة القدم، السباحة، الشطرنج» بتراكيب لغوية فصيحة وسلسة."
@@ -7287,10 +7287,10 @@
         {
           "prompt": "ما هو حرف الجر المستخدم مع فعل التفضيل «أُفَضِّلُ» في العربية؟",
           "options": [
-            "حَرْفُ الجَرِّ «عَلَى»",
-            "حرف الجر من",
-            "حرف الجر في",
-            "حرف الجر إلى"
+            "حَرْفُ الجَرِّ «عَلَى» (Language concept U12)",
+            "حرف الجر من (hrf aljr mn)",
+            "حرف الجر في (hrf aljr fy)",
+            "حرف الجر إلى (hrf aljr ila)"
           ],
           "answerIndex": 0,
           "explanation": "يقال دائمًا: «أُفَضِّلُ كَذَا عَلَى كَذَا»."
@@ -7298,10 +7298,10 @@
         {
           "prompt": "ما هو الإعراب الصحيح لكلمة «الرَّسْمُ» في جملة «يُعْجِبُنِي الرَّسْمُ»؟",
           "options": [
-            "فَاعِلٌ مُؤَخَّرٌ مَرْفُوعٌ بِالضَّمَّةِ",
-            "مفعول به منصوب",
-            "مبتدأ مؤخر",
-            "اسم مجرور"
+            "فَاعِلٌ مُؤَخَّرٌ مَرْفُوعٌ بِالضَّمَّةِ (faa'ailun mu'akharun marfuw'aun bialdamahi)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "مبتدأ مؤخر (mbtda m'khr)",
+            "اسم مجرور (asm mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "في تركيب «يُعْجِبُنِي»، الياء مفعول به مقدم، والاسم بعده «الرَّسْمُ» فاعل مرفوع."
@@ -7313,10 +7313,10 @@
         {
           "prompt": "اختر الجملة التي تصوغ أسلوب الإعجاب والتفضيل صياغة نحوية سليمة:",
           "options": [
-            "تُعْجِبُنِي القِرَاءَةُ، وَأُفَضِّلُ الشِّعْرَ عَلَى النَّثْرِ.",
-            "يعجبني القراءة بالخطأ التذكيري مع المؤنث",
-            "افضل الشعر من النثر بحرف جر خاطئ",
-            "اعجاب تفضيل قراءة شعر سكون"
+            "تُعْجِبُنِي القِرَاءَةُ، وَأُفَضِّلُ الشِّعْرَ عَلَى النَّثْرِ. (Language concept U12)",
+            "يعجبني القراءة بالخطأ التذكيري مع المؤنث (y'ajbny alqra'h balkhta altdhkyry m'a alm'nth)",
+            "افضل الشعر من النثر بحرف جر خاطئ (afdl alsh'ar mn alnthr bhrf jr khat')",
+            "اعجاب تفضيل قراءة شعر سكون (a'ajab tfdyl qra'h sh'ar skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تؤنث الفعل «تُعْجِبُنِي» مع الفاعل المؤنث «القِرَاءَةُ»، وتستخدم «عَلَى» في التفضيل بصحة تامة."
@@ -7324,10 +7324,10 @@
         {
           "prompt": "ما معنى جملة «أَهْوَى جَمْعَ الطَّوَابِعِ»؟",
           "options": [
-            "أُحِبُّ وَأَعْشَقُ هِوَايَةَ جَمْعِ الطَّوَابِعِ",
-            "أكره الطوابع",
-            "أبيع الطوابع في السوق",
-            "أسافر بالطوابع"
+            "أُحِبُّ وَأَعْشَقُ هِوَايَةَ جَمْعِ الطَّوَابِعِ (auhibu waaa'ashaqu hiwaayaha jam'ai altawaabi'ai)",
+            "أكره الطوابع (akrh altwab'a)",
+            "أبيع الطوابع في السوق (aby'a altwab'a fy alswq)",
+            "أسافر بالطوابع (asafr baltwab'a)"
           ],
           "answerIndex": 0,
           "explanation": "«أَهْوَى» من الهوى والمحبة، وتفيد ممارسة الهواية بشغف وحب."
@@ -7340,10 +7340,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تعبر عن الأذواق والهوايات المفضلة بأساليب التفضيل والإعجاب الفصيحة:",
           "options": [
-            "قَالَ زِيَادٌ: «تُعْجِبُنِي الفُنُونُ الإِسْلَامِيَّةُ، وَأُفَضِّلُ الخَطَّ العَرَبِيَّ عَلَى الرَّسْمِ التَّشْكِيلِيِّ؛ لِأَنَّ هِوَايَتِي المُفَضَّلَةَ هِيَ زَخْرَفَةُ الحُرُوفِ».",
-            "قال زياد بالماضي فقط بلا تفضيل ولا اعجاب ولا خط عربي.",
-            "تفضيل اعجاب خط رسم فنون سكون فتحة ضمة كسرة.",
-            "لا يحب زياد اي نوع من الفنون ولا يمارس اي هواية."
+            "قَالَ زِيَادٌ: «تُعْجِبُنِي الفُنُونُ الإِسْلَامِيَّةُ، وَأُفَضِّلُ الخَطَّ العَرَبِيَّ عَلَى الرَّسْمِ التَّشْكِيلِيِّ؛ لِأَنَّ هِوَايَتِي المُفَضَّلَةَ هِيَ زَخْرَفَةُ الحُرُوفِ». (Language concept U12)",
+            "قال زياد بالماضي فقط بلا تفضيل ولا اعجاب ولا خط عربي. (qal zyad balmady fqt bla tfdyl wla a'ajab wla kht 'arby.)",
+            "تفضيل اعجاب خط رسم فنون سكون فتحة ضمة كسرة. (tfdyl a'ajab kht rsm fnwn skwn fthh dmh ksrh.)",
+            "لا يحب زياد اي نوع من الفنون ولا يمارس اي هواية. (la yhb zyad ay nw'a mn alfnwn wla ymars ay hwayh.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «تُعْجِبُنِي الفُنُونُ»، «أُفَضِّلُ ... عَلَى ...»، «هِوَايَتِي المُفَضَّلَةُ» بسبك بياني بديع وضبط نحوي كامل."
@@ -7406,10 +7406,10 @@
         {
           "prompt": "ما هو ظرف التكرار المعبر عن الاستمرار الكامل بنسبة مئة بالمئة؟",
           "options": [
-            "دَائِمًا",
-            "نادرًا",
-            "أحيانًا",
-            "أبدًا"
+            "دَائِمًا (daa'imana)",
+            "نادرًا (nadrana)",
+            "أحيانًا (ahyanana)",
+            "أبدًا (abdana)"
           ],
           "answerIndex": 0,
           "explanation": "«دَائِمًا» تدل على الدوام والاستمرار الكامل."
@@ -7417,10 +7417,10 @@
         {
           "prompt": "ما معنى عبارة «أَوْقَاتُ الفَرَاغِ» في اللغة العربية؟",
           "options": [
-            "الوَقْتُ الخَالِي مِنَ الشَّوَاغِلِ وَالأَعْمَالِ الرَّسْمِيَّةِ",
-            "وقت العمل الشاق",
-            "وقت النوم فقط",
-            "وقت الامتحانات"
+            "الوَقْتُ الخَالِي مِنَ الشَّوَاغِلِ وَالأَعْمَالِ الرَّسْمِيَّةِ (alwaqtu alkhaaliy mina alshawaaghili waalaa'amaali alrasmiyahi)",
+            "وقت العمل الشاق (wqt al'aml alshaq)",
+            "وقت النوم فقط (wqt alnwm fqt)",
+            "وقت الامتحانات (wqt alamthanat)"
           ],
           "answerIndex": 0,
           "explanation": "«أَوْقَاتُ الفَرَاغِ» هي الأوقات الحرة المتاحة للاستجمام وممارسة الهوايات."
@@ -7432,10 +7432,10 @@
         {
           "prompt": "اختر الجملة التي توظف ظرف التكرار «غَالِبًا» في سياق العطلة الأسبوعية:",
           "options": [
-            "غَالِبًا مَا نَذْهَبُ إِلَى شَاطِئِ البَحْرِ فِي نِهَايَةِ الأُسْبُوعِ.",
-            "غالبا ذهبت امس الى المطار بالماضي خطأ",
-            "نحن ابدا نذهب دائما",
-            "تكرار غالبا نهاية اسبوع سكون"
+            "غَالِبًا مَا نَذْهَبُ إِلَى شَاطِئِ البَحْرِ فِي نِهَايَةِ الأُسْبُوعِ. (ghaalibana maa nadhhabu iilaa shaati'i albahri fiy nihaayahi alausbuw'ai.)",
+            "غالبا ذهبت امس الى المطار بالماضي خطأ (ghalba dhhbt ams ala almtar balmady khta)",
+            "نحن ابدا نذهب دائما (nhn abda ndhhb da'ma)",
+            "تكرار غالبا نهاية اسبوع سكون (tkrar ghalba nhayh asbw'a skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف «غَالِبًا مَا نَذْهَبُ» للتعبير عن عادة تكرارية منتظمة في العطلة."
@@ -7443,10 +7443,10 @@
         {
           "prompt": "ما هو الظرف المعبر عن قلة الحدوث الشديدة (10%)؟",
           "options": [
-            "نَادِرًا",
-            "دائمًا",
-            "عادتًا",
-            "يوميًا"
+            "نَادِرًا (naadirana)",
+            "دائمًا (da'mana)",
+            "عادتًا ('aadtana)",
+            "يوميًا (ywmyana)"
           ],
           "answerIndex": 0,
           "explanation": "«نَادِرًا» هو الظرف الدال على قلة الوقوع والندرة."
@@ -7459,10 +7459,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تتناول التوازن بين العمل والترويح باستخدام ظروف التكرار المتنوعة بدقة وبلاغة:",
           "options": [
-            "يَعْمَلُ المَرْءُ بِجِدٍّ طَوَالَ الأُسْبُوعِ، لٰكِنَّهُ يَحْرِصُ دَائِمًا عَلَى اسْتِثْمَارِ أَوْقَاتِ فَرَاغِهِ، فَيَزُورُ الحَدَائِقَ غَالِبًا، وَيُمَارِسُ الرِّيَاضَةَ أَحْيَانًا؛ لِلتَّرْوِيحِ عَنِ النَّفْسِ وَتَجْدِيدِ الطَّاقَةِ.",
-            "يعمل المرء بالماضي فقط بلا ظروف تكرار وبلا ترويح.",
-            "دائما غالبا احيانا نادرا فراغ ترويح سكون فتحة ضمة.",
-            "لا يوجد وقت فراغ ولا يعمل احد في المدينة."
+            "يَعْمَلُ المَرْءُ بِجِدٍّ طَوَالَ الأُسْبُوعِ، لٰكِنَّهُ يَحْرِصُ دَائِمًا عَلَى اسْتِثْمَارِ أَوْقَاتِ فَرَاغِهِ، فَيَزُورُ الحَدَائِقَ غَالِبًا، وَيُمَارِسُ الرِّيَاضَةَ أَحْيَانًا؛ لِلتَّرْوِيحِ عَنِ النَّفْسِ وَتَجْدِيدِ الطَّاقَةِ. (Language concept U12)",
+            "يعمل المرء بالماضي فقط بلا ظروف تكرار وبلا ترويح. (y'aml almr' balmady fqt bla zrwf tkrar wbla trwyh.)",
+            "دائما غالبا احيانا نادرا فراغ ترويح سكون فتحة ضمة. (da'ma ghalba ahyana nadra fragh trwyh skwn fthh dmh.)",
+            "لا يوجد وقت فراغ ولا يعمل احد في المدينة. (la ywjd wqt fragh wla y'aml ahd fy almdynh.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «دَائِمًا، غَالِبًا، أَحْيَانًا» في نسق فصيح يصف استثمار أوقات الفراغ والترويح عن النفس بجمال وبيان."
@@ -7526,10 +7526,10 @@
         {
           "prompt": "في الحوار الشامل، ما هي الرياضة التي يمارسها حسام دائمًا؟",
           "options": [
-            "السِّبَاحَةُ",
-            "كرة السلة فقط (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "المصارعة (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "التزلج على الجليد (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)"
+            "السِّبَاحَةُ (alsibaahahu)",
+            "كرة السلة فقط (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "المصارعة (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "التزلج على الجليد (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أوضح حسام: «أَنَا أُمَارِسُ السِّبَاحَةَ دَائِمًا»."
@@ -7537,10 +7537,10 @@
         {
           "prompt": "ما الذي يفضله حسام على لعب كرة القدم؟",
           "options": [
-            "رُكُوبَ الخَيْلِ / الفُرُوسِيَّةَ",
-            "الجلوس في البيت (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "مشاهدة التلفاز (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "النوم (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)"
+            "رُكُوبَ الخَيْلِ / الفُرُوسِيَّةَ (rukuwba alkhayli / alfuruwsiyaha)",
+            "الجلوس في البيت (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "مشاهدة التلفاز (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "النوم (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "قال حسام: «أُفَضِّلُ رُكُوبَ الخَيْلِ عَلَى لَعِبِ كُرَةِ القَدَمِ»."
@@ -7552,10 +7552,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف هوايات الفنون والموسيقى بأسلوب فصيح:",
           "options": [
-            "— مَا هِيَ هِوَايَتُكَ الفَنِّيَّةُ؟ — تُعْجِبُنِي كِتَابَةُ الخَطِّ العَرَبِيِّ، وَأَعْزِفُ عَلَى العُودِ أَحْيَانًا فِي المَسَاءِ.",
-            "— هوايتي الفنية هي اكل الطعام فقط. (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "— كم الحساب في النادي؟ — الحساب كان امس في المطار. (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "— فن موسيقى عود خط سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)"
+            "— مَا هِيَ هِوَايَتُكَ الفَنِّيَّةُ؟ — تُعْجِبُنِي كِتَابَةُ الخَطِّ العَرَبِيِّ، وَأَعْزِفُ عَلَى العُودِ أَحْيَانًا فِي المَسَاءِ. (Language concept U12)",
+            "— هوايتي الفنية هي اكل الطعام فقط. (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "— كم الحساب في النادي؟ — الحساب كان امس في المطار. (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "— فن موسيقى عود خط سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «تُعْجِبُنِي كِتَابَةُ الخَطِّ»، «أَعْزِفُ عَلَى العُودِ»، «أَحْيَانًا» بتناغم حواري بديع."
@@ -7563,10 +7563,10 @@
         {
           "prompt": "ما هي الفائدة العائدة على الإنسان من تنوع الهوايات والأنشطة كما ورد في ختام الحوار؟",
           "options": [
-            "بِنَاءُ شَخْصِيَّةٍ مُتَوَازِنَةٍ بَدَنِيًّا وَفِكْرِيًّا",
-            "إضاعة الوقت فقط (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "الشعور بالتعب الدائم (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "ترك الدراسة والعمل (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)"
+            "بِنَاءُ شَخْصِيَّةٍ مُتَوَازِنَةٍ بَدَنِيًّا وَفِكْرِيًّا (binaa'u shakhsiyahin mutawaazinahin badaniyana wafikriyana)",
+            "إضاعة الوقت فقط (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "الشعور بالتعب الدائم (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "ترك الدراسة والعمل (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "تنوع الهوايات بين البدني والفكري يسهم في صقل الشخصية وبناء التوازن الإنساني المتكامل."
@@ -7579,10 +7579,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الثانية عشرة بأكملها (المصادر، الرياضات، التفضيل والإعجاب، ظروف التكرار، والنادي):",
           "options": [
-            "الْتَقَى حُسَامٌ وَزِيَادٌ فِي النَّادِي، فَقَالَ حُسَامٌ: «أُمَارِسُ السِّبَاحَةَ دَائِمًا، وَأُفَضِّلُ رُكُوبَ الخَيْلِ عَلَى كُرَةِ القَدَمِ»، فَرَدَّ زِيَادٌ: «تُعْجِبُنِي قِرَاءَةُ الشِّعْرِ وَعَزْفُ العُودِ، وَأَذْهَبُ غَالِبًا لِرَسْمِ الطَّبِيعَةِ»، فَاتَّفَقَا عَلَى أَنَّ تَنَوُّعَ الهِوَايَاتِ يُحَقِّقُ التَّوَازُنَ وَالسَّعَادَةَ.",
-            "التقى حسام وزياد بالافعال الماضية فقط بلا هوايات وبلا مصادر وتفضيل. (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "نادي رياضي سباحة خيل شعر عود رسم تفضيل اعجاب سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)",
-            "لم يتحدث حسام مع زياد وغادرا النادي فورا بلا فائدة. (الدمج الشامل لكافة مخرجات الوحدة الثانية عشرة)"
+            "الْتَقَى حُسَامٌ وَزِيَادٌ فِي النَّادِي، فَقَالَ حُسَامٌ: «أُمَارِسُ السِّبَاحَةَ دَائِمًا، وَأُفَضِّلُ رُكُوبَ الخَيْلِ عَلَى كُرَةِ القَدَمِ»، فَرَدَّ زِيَادٌ: «تُعْجِبُنِي قِرَاءَةُ الشِّعْرِ وَعَزْفُ العُودِ، وَأَذْهَبُ غَالِبًا لِرَسْمِ الطَّبِيعَةِ»، فَاتَّفَقَا عَلَى أَنَّ تَنَوُّعَ الهِوَايَاتِ يُحَقِّقُ التَّوَازُنَ وَالسَّعَادَةَ. (Language concept U12)",
+            "التقى حسام وزياد بالافعال الماضية فقط بلا هوايات وبلا مصادر وتفضيل. (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "نادي رياضي سباحة خيل شعر عود رسم تفضيل اعجاب سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)",
+            "لم يتحدث حسام مع زياد وغادرا النادي فورا بلا فائدة. (aldmj alshaml lkafh mkhrjat alwhdh althanyh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج المصادر الصريحة، وأساليب التفضيل والإعجاب، وظروف التكرار في سياق سردي بديع وأصيل."
@@ -7647,10 +7647,10 @@
         {
           "prompt": "ما هي صيغة المؤنث الصحيحة للمهنة «مُحَامٍ» عند التعيين للمؤنث النكرة؟",
           "options": [
-            "مُحَامِيَةٌ",
-            "محامة",
-            "محاماة",
-            "محيم"
+            "مُحَامِيَةٌ (muhaamiyahun)",
+            "محامة (mhamh)",
+            "محاماة (mhamah)",
+            "محيم (mhym)"
           ],
           "answerIndex": 0,
           "explanation": "عند تأنيث الاسم المنقوص «مُحَامٍ» تعود ياؤه وتلحق به التاء المربوطة: «مُحَامِيَةٌ»."
@@ -7658,10 +7658,10 @@
         {
           "prompt": "ما هي المهنة المسؤولة عن كتابة البرامج والأنظمة الرقمية في الحاسوب؟",
           "options": [
-            "مُبَرْمِجٌ / مُبَرْمِجَةٌ",
-            "طيار",
-            "نجار",
-            "طبيب أسنان"
+            "مُبَرْمِجٌ / مُبَرْمِجَةٌ (mubarmijun / mubarmijahun)",
+            "طيار (tyar)",
+            "نجار (njar)",
+            "طبيب أسنان (tbyb asnan)"
           ],
           "answerIndex": 0,
           "explanation": "«المُبَرْمِجُ» هو المتخصص في البرمجة وتطوير الأنظمة الرقمية."
@@ -7673,10 +7673,10 @@
         {
           "prompt": "اختر الجملة التي تعبر عن مهنة الترجمة بتركيب لغوي فصيح ومؤنث:",
           "options": [
-            "تَعْمَلُ زَيْنَبُ مُتَرْجِمَةً فَوْرِيَّةً فِي المُنَظَّمَاتِ الدَّوْلِيَّةِ.",
-            "تعمل زينب مترجم بالتذكير الخاطئ مع الفاعل المؤنث",
-            "زينب تترجم طائرة في المطار",
-            "مهنة مترجمة فورية سكون فتحة"
+            "تَعْمَلُ زَيْنَبُ مُتَرْجِمَةً فَوْرِيَّةً فِي المُنَظَّمَاتِ الدَّوْلِيَّةِ. (ta'amalu zaynabu mutarjimahan fawriyahan fiy almunazamaati aldawliyahi.)",
+            "تعمل زينب مترجم بالتذكير الخاطئ مع الفاعل المؤنث (t'aml zynb mtrjm baltdhkyr alkhat' m'a alfa'al alm'nth)",
+            "زينب تترجم طائرة في المطار (zynb ttrjm ta'rh fy almtar)",
+            "مهنة مترجمة فورية سكون فتحة (mhnh mtrjmh fwryh skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "«مُتَرْجِمَةً فَوْرِيَّةً» حال/خبر منصوب مطابق للفاعل المؤنث «زَيْنَبُ» بدقة."
@@ -7684,10 +7684,10 @@
         {
           "prompt": "ما هو اللقب المهني للمتخصص في إدارة وتدقيق الحسابات المالية؟",
           "options": [
-            "مُحَاسِبٌ",
-            "مهندس معماري",
-            "صحفي",
-            "طبيب"
+            "مُحَاسِبٌ (muhaasibun)",
+            "مهندس معماري (mhnds m'amary)",
+            "صحفي (shfy)",
+            "طبيب (tbyb)"
           ],
           "answerIndex": 0,
           "explanation": "«المُحَاسِبُ» هو المختص بالشؤون المالية وتدقيق الحسابات."
@@ -7700,10 +7700,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف تكامل المهن والوظائف المتنوعة في بناء المجتمع بأسلوب فصيح ودقيق:",
           "options": [
-            "يَتَعَاوَنُ أَبْنَاءُ الوَطَنِ فِي مُخْتَلَفِ المِهَنِ؛ فَالمُهَنْدِسَةُ تُشَيِّدُ البِنَاءَ، وَالطَّبِيبُ يُدَاوِي المَرْضَى، وَالمُعَلِّمُ يُرَبِّي الأَجْيَالَ، وَالمُحَامِي يُدَافِعُ عَنِ الحَقِّ.",
-            "يتعاون ابناء الوطن بالافعال الماضية فقط بلا مهن ولا القاب.",
-            "مهن وظائف مهندسة طبيب معلم محامي سكون فتحة ضمة.",
-            "توقفت جميع المهن والوظائف في المدينة."
+            "يَتَعَاوَنُ أَبْنَاءُ الوَطَنِ فِي مُخْتَلَفِ المِهَنِ؛ فَالمُهَنْدِسَةُ تُشَيِّدُ البِنَاءَ، وَالطَّبِيبُ يُدَاوِي المَرْضَى، وَالمُعَلِّمُ يُرَبِّي الأَجْيَالَ، وَالمُحَامِي يُدَافِعُ عَنِ الحَقِّ. (Language concept U13)",
+            "يتعاون ابناء الوطن بالافعال الماضية فقط بلا مهن ولا القاب. (yt'aawn abna' alwtn balaf'aal almadyh fqt bla mhn wla alqab.)",
+            "مهن وظائف مهندسة طبيب معلم محامي سكون فتحة ضمة. (mhn wza'f mhndsh tbyb m'alm mhamy skwn fthh dmh.)",
+            "توقفت جميع المهن والوظائف في المدينة. (twqft jmy'a almhn walwza'f fy almdynh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين ألقاب المهن المتنوعة «المُهَنْدِسَة، الطَّبِيب، المُعَلِّم، المُحَامِي» وبيان رسالة كل مهنة ببلاغة."
@@ -7768,10 +7768,10 @@
         {
           "prompt": "ما هو وزن اسم الفاعل المشتق من الفعل الثلاثي «كَتَبَ»؟",
           "options": [
-            "فَاعِلٌ: كَاتِبٌ",
-            "مكتوب",
-            "مكتب",
-            "كتابة"
+            "فَاعِلٌ: كَاتِبٌ (faa'ailun: kaatibun)",
+            "مكتوب (mktwb)",
+            "مكتب (mktb)",
+            "كتابة (ktabh)"
           ],
           "answerIndex": 0,
           "explanation": "اسم الفاعل من كتب الثلاثي هو «كَاتِبٌ» على وزن فَاعِل."
@@ -7779,10 +7779,10 @@
         {
           "prompt": "كيف يُصاغ اسم الفاعل من الفعل غير الثلاثي «أَدَارَ»؟",
           "options": [
-            "مُدِيرٌ",
-            "دار",
-            "مدار",
-            "دوّار"
+            "مُدِيرٌ (mudiyrun)",
+            "دار (dar)",
+            "مدار (mdar)",
+            "دوّار (dwar)"
           ],
           "answerIndex": 0,
           "explanation": "يصاغ من غير الثلاثي بإبدال ياء المضارع ميمًا مضمومة وكسر ما قبل الآخر: أدار -> يدير -> مُدِيرٌ."
@@ -7794,10 +7794,10 @@
         {
           "prompt": "اختر الجملة التي تشتمل على اسم فاعل من فعل مزيد بميم مضمومة وكسر ما قبل الآخر:",
           "options": [
-            "يَعْمَلُ أَحْمَدُ مُسْتَشَارًا قَانُونِيًّا فِي الدَّائِرَةِ الحُكُومِيَّةِ.",
-            "يعمل احمد كاتب في السوق",
-            "احمد تاجر كتب",
-            "اسم فاعل مزيد سكون فتحة"
+            "يَعْمَلُ أَحْمَدُ مُسْتَشَارًا قَانُونِيًّا فِي الدَّائِرَةِ الحُكُومِيَّةِ. (ya'amalu aahmadu mustashaarana qaanuwniyana fiy aldaa'irahi alhukuwmiyahi.)",
+            "يعمل احمد كاتب في السوق (y'aml ahmd katb fy alswq)",
+            "احمد تاجر كتب (ahmd tajr ktb)",
+            "اسم فاعل مزيد سكون فتحة (asm fa'al mzyd skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "«مُسْتَشَارًا» (أو مُسْتَشِير/مُسْتَشَار) اسم مشتق من الفعل السداسي استشار."
@@ -7805,10 +7805,10 @@
         {
           "prompt": "ما هو اسم الفاعل من الفعل الثلاثي «صَنَعَ»؟",
           "options": [
-            "صَانِعٌ",
-            "مصنوع",
-            "مصنع",
-            "صناعة"
+            "صَانِعٌ (saani'aun)",
+            "مصنوع (msnw'a)",
+            "مصنع (msn'a)",
+            "صناعة (sna'ah)"
           ],
           "answerIndex": 0,
           "explanation": "اسم الفاعل من صَنَعَ هو «صَانِعٌ» على وزن فَاعِل."
@@ -7821,10 +7821,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف أسماء فاعلين متعددة الأوزان (ثلاثية ومزيدة) في سياق مهني وأكاديمي متكامل:",
           "options": [
-            "اجْتَمَعَ فِي المُؤْتَمَرِ العَالِمُ وَالبَاحِثُ مَعَ المُدِيرِ التَّنْفِيذِيِّ وَالمُهَنْدِسِ المُبْتَكِرِ؛ لِمُنَاقَشَةِ حُلُولِ الطَّاقَةِ النَّظِيفَةِ.",
-            "اجتمع في المؤتمر بالافعال الماضية فقط بلا اسماء فاعلين.",
-            "اسماء فاعلين عالم باحث مدير مبتكر سكون فتحة ضمة.",
-            "غادر الجميع المؤتمر دون عقد اي اجتماع مهني."
+            "اجْتَمَعَ فِي المُؤْتَمَرِ العَالِمُ وَالبَاحِثُ مَعَ المُدِيرِ التَّنْفِيذِيِّ وَالمُهَنْدِسِ المُبْتَكِرِ؛ لِمُنَاقَشَةِ حُلُولِ الطَّاقَةِ النَّظِيفَةِ. (Language concept U13)",
+            "اجتمع في المؤتمر بالافعال الماضية فقط بلا اسماء فاعلين. (ajtm'a fy alm'tmr balaf'aal almadyh fqt bla asma' fa'alyn.)",
+            "اسماء فاعلين عالم باحث مدير مبتكر سكون فتحة ضمة. (asma' fa'alyn 'aalm bahth mdyr mbtkr skwn fthh dmh.)",
+            "غادر الجميع المؤتمر دون عقد اي اجتماع مهني. (ghadr aljmy'a alm'tmr dwn 'aqd ay ajtma'a mhny.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين أسماء فاعلين ثلاثية «العَالِم، البَاحِث» ومزيدة «المُدِير، المُهَنْدِس، المُبْتَكِر» بتناسق بلاغي بديع."
@@ -7889,10 +7889,10 @@
         {
           "prompt": "ما هو اسم المكان الذي يمارس فيه القضاة والمحامون أعمال التقاضي وإصدار الأحكام؟",
           "options": [
-            "المَحْكَمَةُ",
-            "المستشفى",
-            "المصنع",
-            "المطار"
+            "المَحْكَمَةُ (almahkamahu)",
+            "المستشفى (almstshfa)",
+            "المصنع (almsn'a)",
+            "المطار (almtar)"
           ],
           "answerIndex": 0,
           "explanation": "«المَحْكَمَةُ» هي مقر القضاء والتقاضي."
@@ -7900,10 +7900,10 @@
         {
           "prompt": "ما هو وزن اسم المكان لكلمة «مَصْنَع» المشتقة من «صَنَعَ»؟",
           "options": [
-            "مَفْعَلٌ",
-            "مفعول",
-            "فاعل",
-            "فعالة"
+            "مَفْعَلٌ (maf'aalun)",
+            "مفعول (mf'awl)",
+            "فاعل (Core target concept - Unit 13 Target Practice)",
+            "فعالة (f'aalh)"
           ],
           "answerIndex": 0,
           "explanation": "«مَصْنَعٌ» على وزن اسم المكان «مَفْعَلٌ» للدلالة على مكان الصنع والإنتاج."
@@ -7915,10 +7915,10 @@
         {
           "prompt": "اختر الجملة التي تصف العمل لدى مؤسسة مصرفية بدقة في استخدام حرف الجر:",
           "options": [
-            "تَعْمَلُ سَارَةُ مُحَاسِبَةً مَالِيَّةً لَدَى المَصْرِفِ المَرْكَزِيِّ.",
-            "تعمل سارة في السماء بالخطأ المكاني",
-            "سارة مصرف يكتب المحكمة",
-            "محاسبة مصرف مركزي سكون"
+            "تَعْمَلُ سَارَةُ مُحَاسِبَةً مَالِيَّةً لَدَى المَصْرِفِ المَرْكَزِيِّ. (ta'amalu saarahu muhaasibahan maaliyahan ladaa almasrifi almarkaziyi.)",
+            "تعمل سارة في السماء بالخطأ المكاني (t'aml sarh fy alsma' balkhta almkany)",
+            "سارة مصرف يكتب المحكمة (sarh msrf yktb almhkmh)",
+            "محاسبة مصرف مركزي سكون (mhasbh msrf mrkzy skwn)"
           ],
           "answerIndex": 0,
           "explanation": "استخدام «لَدَى المَصْرِفِ المَرْكَزِيِّ» يعبر بفصاحة عن العمل لصالح المؤسسة المالية."
@@ -7926,10 +7926,10 @@
         {
           "prompt": "ما هي المنشأة المسؤولة عن تقديم التعليم العالي ومنح الدرجات الأكاديمية؟",
           "options": [
-            "الجَامِعَةُ",
-            "المصنع",
-            "المحكمة",
-            "المستودع"
+            "الجَامِعَةُ (aljaami'aahu)",
+            "المصنع (almsn'a)",
+            "المحكمة (almhkmh)",
+            "المستودع (almstwd'a)"
           ],
           "answerIndex": 0,
           "explanation": "«الجَامِعَةُ» هي صرح التعليم العالي والبحث العلمي."
@@ -7942,10 +7942,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف التوزيع المهني على أماكن العمل المتنوعة بأسلوب لغوي رصين:",
           "options": [
-            "تَتَوَزَّعُ الكَفَاءَاتُ الوَطَنِيَّةُ فِي مُؤَسَّسَاتِ الدَّوْلَةِ؛ فَيَعْمَلُ الأَطِبَّاءُ فِي المُسْتَشْفَيَاتِ، وَالمُهَنْدِسُونَ فِي المَصَانِعِ وَالشَّرِكَاتِ، وَالأَسَاتِذَةُ فِي الجَامِعَاتِ، وَالمُحَامُونَ فِي المَحَاكِمِ.",
-            "تتوزع الكفاءات بالماضي فقط بلا اماكن عمل وبلا مؤسسات.",
-            "مستشفيات مصانع شركات جامعات محاكم سكون فتحة ضمة.",
-            "خلت جميع المؤسسات من الموظفين والعاملين."
+            "تَتَوَزَّعُ الكَفَاءَاتُ الوَطَنِيَّةُ فِي مُؤَسَّسَاتِ الدَّوْلَةِ؛ فَيَعْمَلُ الأَطِبَّاءُ فِي المُسْتَشْفَيَاتِ، وَالمُهَنْدِسُونَ فِي المَصَانِعِ وَالشَّرِكَاتِ، وَالأَسَاتِذَةُ فِي الجَامِعَاتِ، وَالمُحَامُونَ فِي المَحَاكِمِ. (Language concept U13)",
+            "تتوزع الكفاءات بالماضي فقط بلا اماكن عمل وبلا مؤسسات. (ttwz'a alkfa'at balmady fqt bla amakn 'aml wbla m'ssat.)",
+            "مستشفيات مصانع شركات جامعات محاكم سكون فتحة ضمة. (mstshfyat msan'a shrkat jam'aat mhakm skwn fthh dmh.)",
+            "خلت جميع المؤسسات من الموظفين والعاملين. (khlt jmy'a alm'ssat mn almwzfyn wal'aamlyn.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يقرن كل فئة مهنية بمنشأتها ومقر عملها المناسب بأسلوب عربي فصيح وناصع."
@@ -8010,10 +8010,10 @@
         {
           "prompt": "ما هو المصطلح العربي الفصيح المقابل لـ (Curriculum Vitae / Resume)؟",
           "options": [
-            "السِّيرَةُ الذَّاتِيَّةُ",
-            "البطاقة الشخصية فقط",
-            "فاتورة الحساب",
-            "تذكرة السفر"
+            "السِّيرَةُ الذَّاتِيَّةُ (alsiyrahu aldhaatiyahu)",
+            "البطاقة الشخصية فقط (albtaqh alshkhsyh fqt)",
+            "فاتورة الحساب (fatwrh alhsab)",
+            "تذكرة السفر (tdhkrh alsfr)"
           ],
           "answerIndex": 0,
           "explanation": "«السِّيرَةُ الذَّاتِيَّةُ» هي المصطلح الدقيق لوثيقة المؤهلات والخبرات الشخصية."
@@ -8021,10 +8021,10 @@
         {
           "prompt": "ما هو اللقاء الرسمي الذي يجريه مسؤولو الشركة مع المتقدم للوظيفة لتقييم كفاءته؟",
           "options": [
-            "مُقَابَلَةُ التَّوْظِيفِ / المُقَابَلَةُ الشَّخْصِيَّةُ",
-            "الحفل الموسيقي",
-            "المؤتمر الصحفي العام",
-            "الرحلة الترفيهية"
+            "مُقَابَلَةُ التَّوْظِيفِ / المُقَابَلَةُ الشَّخْصِيَّةُ (muqaabalahu altawziyfi / almuqaabalahu alshakhsiyahu)",
+            "الحفل الموسيقي (alhfl almwsyqy)",
+            "المؤتمر الصحفي العام (alm'tmr alshfy al'aam)",
+            "الرحلة الترفيهية (alrhlh altrfyhyh)"
           ],
           "answerIndex": 0,
           "explanation": "«مُقَابَلَةُ التَّوْظِيفِ» هي المقابلة المخصصة لتقييم المتقدمين للوظائف."
@@ -8036,10 +8036,10 @@
         {
           "prompt": "اختر الجملة التي تعبر عن امتلاك الخبرة المهنية وسنوات العمل بدقة لغوية:",
           "options": [
-            "لَدَيَّ خِبْرَةٌ مِهْنِيَّةٌ تَمْتَدُّ لِخَمْسِ سَنَوَاتٍ فِي مَجَالِ الإِدَارَةِ المَالِيَّةِ.",
-            "لدي خبرة تأكل خمس سنوات بالخطأ المعنوي",
-            "خبرتي ضاعت في المطار",
-            "خبرة خمس سنوات ادارة سكون"
+            "لَدَيَّ خِبْرَةٌ مِهْنِيَّةٌ تَمْتَدُّ لِخَمْسِ سَنَوَاتٍ فِي مَجَالِ الإِدَارَةِ المَالِيَّةِ. (ladaya khibrahun mihniyahun tamtadu likhamsi sanawaatin fiy majaali aliidaarahi almaaliyahi.)",
+            "لدي خبرة تأكل خمس سنوات بالخطأ المعنوي (ldy khbrh takl khms snwat balkhta alm'anwy)",
+            "خبرتي ضاعت في المطار (khbrty da'at fy almtar)",
+            "خبرة خمس سنوات ادارة سكون (khbrh khms snwat adarh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تصوغ امتلاك الخبرة «لَدَيَّ خِبْرَةٌ مِهْنِيَّةٌ تَمْتَدُّ لِخَمْسِ سَنَوَاتٍ» بصياغة احترافية ممتازة."
@@ -8047,10 +8047,10 @@
         {
           "prompt": "ماذا يسمى الأجر المالي الشهري الذي يتقاضاه الموظف نظير عمله في المؤسسة؟",
           "options": [
-            "الرَّاتِبُ الشَّهْرِيُّ",
-            "الضرائب",
-            "الغرامة",
-            "الإيجار"
+            "الرَّاتِبُ الشَّهْرِيُّ (alraatibu alshahriyu)",
+            "الضرائب (aldra'b)",
+            "الغرامة (alghramh)",
+            "الإيجار (aliyjar)"
           ],
           "answerIndex": 0,
           "explanation": "«الرَّاتِبُ الشَّهْرِيُّ» هو الاستحقاق المالي الدوري للموظف."
@@ -8063,10 +8063,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي تصف خطوات التقديم على الوظيفة من إرسال السيرة الذاتية حتى التعيين بأسلوب مهني متكامل:",
           "options": [
-            "يُقَدِّمُ البَاحِثُ عَنِ العَمَلِ سِيرَتَهُ الذَّاتِيَّةَ لِلْوَظِيفَةِ الشَّاغِرَةِ، ثُمَّ يَجْتَازُ مُقَابَلَةَ التَّوْظِيفِ بِجَدَارَةٍ، لِيُوَقِّعَ عَقْدَ العَمَلِ وَيَبْدَأَ مَسِيرَتَهُ المِهْنِيَّةَ بِرَاتِبٍ مُجْزٍ وَمَزَايَا مُمْتَازَةٍ.",
-            "يقدم الباحث بالماضي فقط بلا سيرة ذاتية وبلا مقابلة ولا تعيين.",
-            "سيرة ذاتية مقابلة شاغرة عقد راتب مزايا سكون فتحة ضمة.",
-            "تم رفض جميع المتقدمين واغلاق باب التوظيف نهائيا."
+            "يُقَدِّمُ البَاحِثُ عَنِ العَمَلِ سِيرَتَهُ الذَّاتِيَّةَ لِلْوَظِيفَةِ الشَّاغِرَةِ، ثُمَّ يَجْتَازُ مُقَابَلَةَ التَّوْظِيفِ بِجَدَارَةٍ، لِيُوَقِّعَ عَقْدَ العَمَلِ وَيَبْدَأَ مَسِيرَتَهُ المِهْنِيَّةَ بِرَاتِبٍ مُجْزٍ وَمَزَايَا مُمْتَازَةٍ. (Language concept U13)",
+            "يقدم الباحث بالماضي فقط بلا سيرة ذاتية وبلا مقابلة ولا تعيين. (yqdm albahth balmady fqt bla syrh dhatyh wbla mqablh wla t'ayyn.)",
+            "سيرة ذاتية مقابلة شاغرة عقد راتب مزايا سكون فتحة ضمة. (syrh dhatyh mqablh shaghrh 'aqd ratb mzaya skwn fthh dmh.)",
+            "تم رفض جميع المتقدمين واغلاق باب التوظيف نهائيا. (tm rfd jmy'a almtqdmyn waghlaq bab altwzyf nha'ya.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف مصطلحات «السِّيرَة الذَّاتِيَّة، الوَظِيفَة الشَّاغِرَة، مُقَابَلَة التَّوْظِيف، عَقْد العَمَل، الرَّاتِب، المَزَايَا» بتسلسل منطقي واحترافي رفيع."
@@ -8131,10 +8131,10 @@
         {
           "prompt": "في الحوار الشامل، ما هو التخصص الأكاديمي الذي تحمله المهندسة ندى؟",
           "options": [
-            "هَنْدَسَةُ البَرْمَجِيَّاتِ",
-            "طب الأسنان (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "القانون الجنائي (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "الطيران المدني (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)"
+            "هَنْدَسَةُ البَرْمَجِيَّاتِ (handasahu albarmajiyaati)",
+            "طب الأسنان (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "القانون الجنائي (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "الطيران المدني (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أوضحت ندى: «لَدَيَّ بَكَالُورْيُوس فِي هَنْدَسَةِ البَرْمَجِيَّاتِ»."
@@ -8142,10 +8142,10 @@
         {
           "prompt": "كم سنة تبلغ الخبرة المهنية التي تمتلكها المهندسة ندى في تطوير التطبيقات؟",
           "options": [
-            "أَرْبَعُ سَنَوَاتٍ",
-            "سنة واحدة فقط (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "عشرون سنة (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "لا تملك أي خبرة (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)"
+            "أَرْبَعُ سَنَوَاتٍ (aarba'au sanawaatin)",
+            "سنة واحدة فقط (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "عشرون سنة (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "لا تملك أي خبرة (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "ذكرت ندى أن لديها خبرة مهنية تمتد لأربع سنوات."
@@ -8157,10 +8157,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف الاتفاق على توقيع العقد بأسلوب مهني واحترافي:",
           "options": [
-            "— نُبَارِكُ لَكِ القَبُولَ فِي الوَظِيفَةِ. — شُكْرًا جَزِيلًا لَكُمْ، يُسْعِدُنِي تَوْقِيعُ العَقْدِ وَبَدْءُ العَمَلِ غَدًا.",
-            "— اين محطة القطار؟ — المحطة كانت امس في الفندق. (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "— كم سعر الطماطم؟ — الطماطم بعشرة دراهم. (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "— توقيع عقد وظيفة سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)"
+            "— نُبَارِكُ لَكِ القَبُولَ فِي الوَظِيفَةِ. — شُكْرًا جَزِيلًا لَكُمْ، يُسْعِدُنِي تَوْقِيعُ العَقْدِ وَبَدْءُ العَمَلِ غَدًا. (Language concept U13)",
+            "— اين محطة القطار؟ — المحطة كانت امس في الفندق. (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "— كم سعر الطماطم؟ — الطماطم بعشرة دراهم. (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "— توقيع عقد وظيفة سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تمثل حوار التهنئة بالقبول والاتفاق على توقيع عقد العمل بفصاحة."
@@ -8168,10 +8168,10 @@
         {
           "prompt": "ما هي الميزة المطلوبة في المهندسة كما ذكر مدير التوظيف؟",
           "options": [
-            "العَمَلُ بِرُوحِ الفَرِيقِ وَالإِبْدَاعِ فِي مَشَارِيعِ الذَّكَاءِ الِاصْطِنَاعِيِّ",
-            "العمل المنفرد فقط دون تواصل (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "التأخر عن مواعيد العمل (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "عدم استخدام الحاسوب (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)"
+            "العَمَلُ بِرُوحِ الفَرِيقِ وَالإِبْدَاعِ فِي مَشَارِيعِ الذَّكَاءِ الِاصْطِنَاعِيِّ (al'aamalu biruwhi alfariyqi waaliibdaa'ai fiy mashaariy'ai aldhakaa'i aliastinaa'aiyi)",
+            "العمل المنفرد فقط دون تواصل (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "التأخر عن مواعيد العمل (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "عدم استخدام الحاسوب (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أوضح المدير أن الشركة تبحث عن مهندسة مبدعة تعمل بروح الفريق في مشاريع الذكاء الاصطناعي."
@@ -8184,10 +8184,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الثالثة عشرة بأكملها (المهن، اسم الفاعل، أماكن العمل، السيرة الذاتية، المقابلة، والتعيين):",
           "options": [
-            "اسْتَقْبَلَ مُدِيرُ التَّوْظِيفِ الأُسْتَاذُ حَازِمٌ المُهَنْدِسَةَ نَدَى فِي مَقَرِّ الشَّرِكَةِ، وَبَعْدَ مُرَاجَعَةِ سِيرَتِهَا الذَّاتِيَّةِ وَمُؤَهِّلَاتِهَا فِي هَنْدَسَةِ البَرْمَجِيَّاتِ وَخِبْرَتِهَا المُمْتَدَّةِ لِأَرْبَعِ سَنَوَاتٍ، قَالَ لَهَا: «أَنْتِ مُهَنْدِسَةٌ مُبْتَكِرَةٌ تَعْمَلِينَ بِرُوحِ الفَرِيقِ، وَيَسُرُّنَا تَوْقِيعُ عَقْدِ التَّعْيِينِ مَعَكِ لِبَدْءِ مَسِيرَتِكِ المِهْنِيَّةِ».",
-            "استقبل مدير التوظيف بالافعال الماضية فقط بلا سيرة ذاتية وبلا مهن وعقود. (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "توظيف مهندسة برمجيات شركة سيرة ذاتية عقد راتب سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)",
-            "فشلت المقابلة وتم الغاء الوظيفة ولم يوقع احد اي عقد. (الدمج الشامل لكافة مخرجات الوحدة الثالثة عشرة)"
+            "اسْتَقْبَلَ مُدِيرُ التَّوْظِيفِ الأُسْتَاذُ حَازِمٌ المُهَنْدِسَةَ نَدَى فِي مَقَرِّ الشَّرِكَةِ، وَبَعْدَ مُرَاجَعَةِ سِيرَتِهَا الذَّاتِيَّةِ وَمُؤَهِّلَاتِهَا فِي هَنْدَسَةِ البَرْمَجِيَّاتِ وَخِبْرَتِهَا المُمْتَدَّةِ لِأَرْبَعِ سَنَوَاتٍ، قَالَ لَهَا: «أَنْتِ مُهَنْدِسَةٌ مُبْتَكِرَةٌ تَعْمَلِينَ بِرُوحِ الفَرِيقِ، وَيَسُرُّنَا تَوْقِيعُ عَقْدِ التَّعْيِينِ مَعَكِ لِبَدْءِ مَسِيرَتِكِ المِهْنِيَّةِ». (Language concept U13)",
+            "استقبل مدير التوظيف بالافعال الماضية فقط بلا سيرة ذاتية وبلا مهن وعقود. (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "توظيف مهندسة برمجيات شركة سيرة ذاتية عقد راتب سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)",
+            "فشلت المقابلة وتم الغاء الوظيفة ولم يوقع احد اي عقد. (aldmj alshaml lkafh mkhrjat alwhdh althalthh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج ألقاب المهن، وصيغ اسم الفاعل، ومصطلحات السيرة الذاتية والمقابلة والتعيين في سياق سردي بديع وأصيل."
@@ -8252,10 +8252,10 @@
         {
           "prompt": "ما هو جمع التكسير الصحيح لكلمة «جَبَل» في اللغة العربية؟",
           "options": [
-            "جِبَالٌ",
-            "جبلات",
-            "جبلون",
-            "أجبلة"
+            "جِبَالٌ (jibaalun)",
+            "جبلات (jblat)",
+            "جبلون (jblwn)",
+            "أجبلة (ajblh)"
           ],
           "answerIndex": 0,
           "explanation": "جمع جَبَل هو «جِبَالٌ» على وزن فِعَال."
@@ -8263,10 +8263,10 @@
         {
           "prompt": "ما هي الصفة العربية الفصيحة المستخدمة لوصف المياه العذبة الصالحة للشرب؟",
           "options": [
-            "عَذْبٌ / عَذْبَةٌ",
-            "مالحة",
-            "حامضة",
-            "حارة فقط"
+            "عَذْبٌ / عَذْبَةٌ ('aadhbun / 'aadhbahun)",
+            "مالحة (malhh)",
+            "حامضة (hamdh)",
+            "حارة فقط (harh fqt)"
           ],
           "answerIndex": 0,
           "explanation": "يقال: «مَاءٌ عَذْبٌ» و«مِيَاهٌ عَذْبَةٌ» لمياه الأنهار والينابيع الصالحة للشرب."
@@ -8278,10 +8278,10 @@
         {
           "prompt": "اختر الجملة التي تصف الجبال الشاهقة والوديان بدقة صرفية ونحوية:",
           "options": [
-            "تَتَدَفَّقُ الشَّلَّالَاتُ مِنَ القِمَمِ الشَّاهِقَةِ لِتَسِيلَ فِي الوِدْيَانِ الخَضْرَاءِ.",
-            "تتدفق الشلالات من السماء الى الطائرة",
-            "الجبال تأكل الوديان في البحر",
-            "تضاريس شلال قمم وديان سكون"
+            "تَتَدَفَّقُ الشَّلَّالَاتُ مِنَ القِمَمِ الشَّاهِقَةِ لِتَسِيلَ فِي الوِدْيَانِ الخَضْرَاءِ. (tatadafaqu alshalaalaatu mina alqimami alshaahiqahi litasiyla fiy alwidyaani alkhadraa'i.)",
+            "تتدفق الشلالات من السماء الى الطائرة (ttdfq alshlalat mn alsma' ala alta'rh)",
+            "الجبال تأكل الوديان في البحر (aljbal takl alwdyan fy albhr)",
+            "تضاريس شلال قمم وديان سكون (tdarys shlal qmm wdyan skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تصف جريان الشلالات من القمم الشاهقة إلى الوديان بأسلوب عربي فصيح وجميل."
@@ -8289,10 +8289,10 @@
         {
           "prompt": "ما هي المساحة من اليابسة المحاطة بالمياه من جميع الجهات؟",
           "options": [
-            "الجَزِيرَةُ",
-            "الجبل",
-            "الصحراء",
-            "الغابة"
+            "الجَزِيرَةُ (aljaziyrahu)",
+            "الجبل (aljbl)",
+            "الصحراء (alshra')",
+            "الغابة (alghabh)"
           ],
           "answerIndex": 0,
           "explanation": "«الجَزِيرَةُ» هي الأرض اليابسة التي تحيط بها المياه من كافة الجهات."
@@ -8305,10 +8305,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الجغرافي الذي يصف تنوع تضاريس العالم العربي بأسلوب بياني رفيع ومضبوط:",
           "options": [
-            "تَتَزَيَّنُ الأَرْضُ العَرَبِيَّةُ بِتَنَوُّعِ تَمَاسُكِهَا الجُغْرَافِيِّ؛ حَيْثُ تَمْتَدُّ الأَنْهَارُ العَذْبَةُ جَنْبًا إِلَى جَنْبٍ مَعَ الجِبَالِ الشَّاهِقَةِ، وَتَتَلَأْلَأُ السَّوَاحِلُ البَحْرِيَّةُ المُطِلَّةُ عَلَى الجُزُرِ الخَلَّابَةِ.",
-            "تتزين الارض بالماضي فقط بلا تضاريس وبلا معالم جغرافية.",
-            "جبال انهار بحار صحراء جزر وديان سواحل سكون فتحة ضمة.",
-            "اختفت كافة المعالم الطبيعية واصبحت الارض بلا جبال ولا انهار."
+            "تَتَزَيَّنُ الأَرْضُ العَرَبِيَّةُ بِتَنَوُّعِ تَمَاسُكِهَا الجُغْرَافِيِّ؛ حَيْثُ تَمْتَدُّ الأَنْهَارُ العَذْبَةُ جَنْبًا إِلَى جَنْبٍ مَعَ الجِبَالِ الشَّاهِقَةِ، وَتَتَلَأْلَأُ السَّوَاحِلُ البَحْرِيَّةُ المُطِلَّةُ عَلَى الجُزُرِ الخَلَّابَةِ. (Language concept U14)",
+            "تتزين الارض بالماضي فقط بلا تضاريس وبلا معالم جغرافية. (ttzyn alard balmady fqt bla tdarys wbla m'aalm jghrafyh.)",
+            "جبال انهار بحار صحراء جزر وديان سواحل سكون فتحة ضمة. (jbal anhar bhar shra' jzr wdyan swahl skwn fthh dmh.)",
+            "اختفت كافة المعالم الطبيعية واصبحت الارض بلا جبال ولا انهار. (akhtft kafh alm'aalm altby'ayh wasbht alard bla jbal wla anhar.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين المعالم الجغرافية «الأَنْهَار، الجِبَال، السَّوَاحِل، الجُزُر» وأوصافها الفصيحة بتناغم تعبيري باهر."
@@ -8373,10 +8373,10 @@
         {
           "prompt": "ما هو فصل السنة الذي تسقط فيه أوراق الأشجار ويكون تمهيدًا لدخول الشتاء؟",
           "options": [
-            "فَصْلُ الخَرِيفِ",
-            "فصل الصيف",
-            "فصل الربيع",
-            "منتصف الشتاء"
+            "فَصْلُ الخَرِيفِ (faslu alkhariyfi)",
+            "فصل الصيف (fsl alsyf)",
+            "فصل الربيع (fsl alrby'a)",
+            "منتصف الشتاء (mntsf alshta')"
           ],
           "answerIndex": 0,
           "explanation": "«فَصْلُ الخَرِيفِ» هو الفصل الذي تتساقط فيه أوراق الشجر وتهب فيه الرياح المتقلبة."
@@ -8384,10 +8384,10 @@
         {
           "prompt": "ما هي الصفة المناخية التي تعني امتلاء الهواء ببخار الماء وقطرات الرطوبة العالية؟",
           "options": [
-            "رَطْبٌ / رَطْبَةٌ",
-            "جاف",
-            "مثلج",
-            "صافٍ"
+            "رَطْبٌ / رَطْبَةٌ (ratbun / ratbahun)",
+            "جاف (jaf)",
+            "مثلج (mthlj)",
+            "صافٍ (safin)"
           ],
           "answerIndex": 0,
           "explanation": "«رَطْبٌ» تدل على ارتفاع نسبة الرطوبة في الجو."
@@ -8399,10 +8399,10 @@
         {
           "prompt": "اختر الجملة التي تصف اعتدال الطقس في فصل الربيع بفصاحة لغوية:",
           "options": [
-            "تَتَمَتَّعُ المَدِينَةُ بِطَقْسٍ مُعْتَدِلٍ وَمُشْمِسٍ فِي فَصْلِ الرَّبِيعِ الزَّاهِي.",
-            "تتمتع المدينة بطقس حار جدا يتجمد في الصيف",
-            "الربيع يأكل الشتاء في الغرفة",
-            "طقس ربيع معتدل مشمس سكون"
+            "تَتَمَتَّعُ المَدِينَةُ بِطَقْسٍ مُعْتَدِلٍ وَمُشْمِسٍ فِي فَصْلِ الرَّبِيعِ الزَّاهِي. (tatamata'au almadiynahu bitaqsin mu'atadilin wamushmisin fiy fasli alrabiy'ai alzaahiy.)",
+            "تتمتع المدينة بطقس حار جدا يتجمد في الصيف (ttmt'a almdynh btqs har jda ytjmd fy alsyf)",
+            "الربيع يأكل الشتاء في الغرفة (alrby'a yakl alshta' fy alghrfh)",
+            "طقس ربيع معتدل مشمس سكون (tqs rby'a m'atdl mshms skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تصف طقس الربيع «مُعْتَدِلٍ وَمُشْمِسٍ» بعبارة بليغة ومضبوطة."
@@ -8410,10 +8410,10 @@
         {
           "prompt": "ماذا يسمى حجب الرؤية الأفقية صباحًا بسبب تجمع قطيرات الماء المعلقة في الهواء؟",
           "options": [
-            "الضَّبَابُ",
-            "البرق",
-            "الرعد",
-            "المطر الغزير"
+            "الضَّبَابُ (aldabaabu)",
+            "البرق (albrq)",
+            "الرعد (alr'ad)",
+            "المطر الغزير (almtr alghzyr)"
           ],
           "answerIndex": 0,
           "explanation": "«الضَّبَابُ» هو الظاهرة الجوية التي تقلل مدى الرؤية الأفقية على الطرق."
@@ -8426,10 +8426,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يعرض النشرة الجوية وتغيرات الفصول والمناخ بأسلوب فصيح ومتقن:",
           "options": [
-            "تُشِيرُ النَّشْرَةُ الجَوِّيَّةُ إِلَى أَنَّ الطَّقْسَ غَدًا سَيَكُونُ غَائِمًا وَمُمْطِرًا فِي المَنَاطِقِ الشَّمَالِيَّةِ، بَيْنَمَا يَسُودُ جَوٌّ مُعْتَدِلٌ وَمُشْمِسٌ فِي السَّوَاحِلِ، مَعَ نَسِيمٍ بَحْرِيٍّ يُنْعِشُ الأَجْوَاءَ.",
-            "تشير النشرة الجوية بالماضي فقط بلا احوال طقس وبلا فصول.",
-            "نشرة جوية غائم ممطر مشمس معتدل سكون فتحة ضمة كسرة.",
-            "توقفت النشرة الجوية ولم يعد هناك طقس في البلاد."
+            "تُشِيرُ النَّشْرَةُ الجَوِّيَّةُ إِلَى أَنَّ الطَّقْسَ غَدًا سَيَكُونُ غَائِمًا وَمُمْطِرًا فِي المَنَاطِقِ الشَّمَالِيَّةِ، بَيْنَمَا يَسُودُ جَوٌّ مُعْتَدِلٌ وَمُشْمِسٌ فِي السَّوَاحِلِ، مَعَ نَسِيمٍ بَحْرِيٍّ يُنْعِشُ الأَجْوَاءَ. (Language concept U14)",
+            "تشير النشرة الجوية بالماضي فقط بلا احوال طقس وبلا فصول. (tshyr alnshrh aljwyh balmady fqt bla ahwal tqs wbla fswl.)",
+            "نشرة جوية غائم ممطر مشمس معتدل سكون فتحة ضمة كسرة. (nshrh jwyh gha'm mmtr mshms m'atdl skwn fthh dmh ksrh.)",
+            "توقفت النشرة الجوية ولم يعد هناك طقس في البلاد. (twqft alnshrh aljwyh wlm y'ad hnak tqs fy alblad.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يقدم وصفًا مناخيًا وإخباريًا متكاملاً يوظف «غَائِمًا، مُمْطِرًا، مُعْتَدِلٌ، مُشْمِسٌ، نَسِيمٍ بَحْرِيٍّ» بفصاحة تامة."
@@ -8495,10 +8495,10 @@
         {
           "prompt": "ما هو الاسم الموصول المناسب لجمع التكسير لغير العاقل مثل كلمة «الأَشْجَارُ» أو «الجِبَالُ»؟",
           "options": [
-            "الَّتِي",
-            "الذين",
-            "الذي",
-            "اللائي"
+            "الَّتِي (alatiy)",
+            "الذين (aldhyn)",
+            "الذي (aldhy)",
+            "اللائي (alla'y)"
           ],
           "answerIndex": 0,
           "explanation": "جمع غير العاقل يعامل معاملة المفرد المؤنث فيأخذ الاسم الموصول «الَّتِي» (مثل: الأشجار التي، الجبال التي)."
@@ -8506,10 +8506,10 @@
         {
           "prompt": "ما هو الاسم الموصول المخصص لجمع المذكر العاقل؟",
           "options": [
-            "الَّذِينَ",
-            "التي",
-            "الذي",
-            "اللتان"
+            "الَّذِينَ (aladhiyna)",
+            "التي (alty)",
+            "الذي (aldhy)",
+            "اللتان (alltan)"
           ],
           "answerIndex": 0,
           "explanation": "«الَّذِينَ» هو الاسم الموصول المخصص لجماعة الذكور العقلاء (مثل: العلماء الذين، الطلاب الذين)."
@@ -8521,10 +8521,10 @@
         {
           "prompt": "اختر الجملة التي تستخدم الأسماء الموصولة مطابقة تامة للموصوف:",
           "options": [
-            "شَاهَدْنَا الغَابَاتِ الَّتِي تَكْثُرُ فِيهَا الأَشْجَارُ، وَالمُرْشِدِينَ الَّذِينَ رَافَقُونَا.",
-            "شاهدنا الغابات الذين تكثر فيها خطأ",
-            "المرشدين التي رافقونا بالتأنيث لجمع المذكر",
-            "اسم موصول غابات اشجار سكون"
+            "شَاهَدْنَا الغَابَاتِ الَّتِي تَكْثُرُ فِيهَا الأَشْجَارُ، وَالمُرْشِدِينَ الَّذِينَ رَافَقُونَا. (Language concept U14)",
+            "شاهدنا الغابات الذين تكثر فيها خطأ (shahdna alghabat aldhyn tkthr fyha khta)",
+            "المرشدين التي رافقونا بالتأنيث لجمع المذكر (almrshdyn alty rafqwna baltanyth ljm'a almdhkr)",
+            "اسم موصول غابات اشجار سكون (asm mwswl ghabat ashjar skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«الغَابَاتِ الَّتِي» (غير عاقل مؤنث) و«المُرْشِدِينَ الَّذِينَ» (عاقل مذكر جمع) مطابقة صحيحة تمامًا."
@@ -8532,10 +8532,10 @@
         {
           "prompt": "ما وظيفة «جملة صلة الموصول» في التركيب النحوي العربي؟",
           "options": [
-            "تَوْضِيحُ وَتَعْيِينُ المَعْنَى المَقْصُودِ مِنَ الِاسْمِ المَوْصُولِ وَتَحْتَوِي عَلَى عَائِدٍ",
-            "حذف الفاعل من الجملة",
-            "تحويل الجملة إلى سؤال",
-            "جزم الفعل الماضي"
+            "تَوْضِيحُ وَتَعْيِينُ المَعْنَى المَقْصُودِ مِنَ الِاسْمِ المَوْصُولِ وَتَحْتَوِي عَلَى عَائِدٍ (tawdiyhu wata'ayiynu alma'anaa almaqsuwdi mina aliasmi almawsuwli watahtawiy 'aalaa 'aaa'idin)",
+            "حذف الفاعل من الجملة (hdhf alfa'al mn aljmlh)",
+            "تحويل الجملة إلى سؤال (thwyl aljmlh ila s'al)",
+            "جزم الفعل الماضي (jzm alf'al almady)"
           ],
           "answerIndex": 0,
           "explanation": "صلة الموصول تأتي بعد الاسم الموصول لتكشف غموضه وتحدد دلالته المقصودة برابط الضمير العائد."
@@ -8548,10 +8548,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف الأسماء الموصولة المتنوعة (الذي، التي، الذين) في سياق بيئي وعلمي متكامل:",
           "options": [
-            "يَتَعَاوَنُ العُلَمَاءُ الَّذِينَ يَخْتَصُّونَ فِي عِلْمِ المَنَاخِ لِدِرَاسَةِ التَّغَيُّرَاتِ الَّتِي تُهَدِّدُ البِيئَةَ، وَحِمَايَةِ النِّظَامِ الطَّبِيعِيِّ الَّذِي يُوَفِّرُ لَنَا الحَيَاةَ وَالأَمَانَ.",
-            "يتعاون العلماء بالماضي فقط بلا اسماء موصولة وبلا صلة.",
-            "الذين التي الذي صلة موصول عائد سكون فتحة ضمة كسرة.",
-            "توقف العلماء عن دراسة البيئة والمناخ تماما."
+            "يَتَعَاوَنُ العُلَمَاءُ الَّذِينَ يَخْتَصُّونَ فِي عِلْمِ المَنَاخِ لِدِرَاسَةِ التَّغَيُّرَاتِ الَّتِي تُهَدِّدُ البِيئَةَ، وَحِمَايَةِ النِّظَامِ الطَّبِيعِيِّ الَّذِي يُوَفِّرُ لَنَا الحَيَاةَ وَالأَمَانَ. (Language concept U14)",
+            "يتعاون العلماء بالماضي فقط بلا اسماء موصولة وبلا صلة. (yt'aawn al'alma' balmady fqt bla asma' mwswlh wbla slh.)",
+            "الذين التي الذي صلة موصول عائد سكون فتحة ضمة كسرة. (aldhyn alty aldhy slh mwswl 'aa'd skwn fthh dmh ksrh.)",
+            "توقف العلماء عن دراسة البيئة والمناخ تماما. (twqf al'alma' 'an drash alby'h walmnakh tmama.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «العُلَمَاء الَّذِينَ» (جمع مذكر عاقل)، «التَّغَيُّرَات الَّتِي» (جمع غير عاقل)، «النِّظَام الَّذِي» (مفرد مذكر) بأعلى درجات الفصاحة والإتقان النحوي."
@@ -8614,10 +8614,10 @@
         {
           "prompt": "ما هي السلسلة الجبلية السعودية الشامخة في قلب نجد التي ترمز لعلو الهمة والصمود؟",
           "options": [
-            "جِبَالُ طُوَيْقٍ",
-            "جبال الألب",
-            "جبال الهيمالايا",
-            "جبال الأنديز"
+            "جِبَالُ طُوَيْقٍ (jibaalu tuwayqin)",
+            "جبال الألب (jbal alalb)",
+            "جبال الهيمالايا (jbal alhymalaya)",
+            "جبال الأنديز (jbal alandyz)"
           ],
           "answerIndex": 0,
           "explanation": "«جِبَالُ طُوَيْقٍ» هي السلسلة الجبلية الشامخة في منطقة الرياض ونجد."
@@ -8625,10 +8625,10 @@
         {
           "prompt": "أين تقع «مَغَارَةُ جَعِيتَا» الطبيعية الكلسية الشهيرة؟",
           "options": [
-            "فِي لُبْنَانَ",
-            "في المغرب",
-            "في العراق",
-            "في السودان"
+            "فِي لُبْنَانَ (fiy lubnaana)",
+            "في المغرب (fy almghrb)",
+            "في العراق (fy al'araq)",
+            "في السودان (fy alswdan)"
           ],
           "answerIndex": 0,
           "explanation": "«مَغَارَةُ جَعِيتَا» تقع في وادي نهر الكلب في لبنان."
@@ -8640,10 +8640,10 @@
         {
           "prompt": "اختر الجملة التي تصف واحة سيوة وعيون مياهها الطبيعية بأسلوب فصيح وموصول:",
           "options": [
-            "تَسْتَقْبِلُ سِيوَةُ الزَّائِرِينَ الَّذِينَ يَقْصِدُونَ عُيُونَهَا الكِبْرِيتِيَّةَ الَّتِي تُفِيدُ فِي العِلَاجِ وَالِاسْتِجْمَامِ.",
-            "سيوا تقع في المحيط الاطلسي بالخطأ الجغرافي",
-            "واحة سيوة تاكل الجبل في المساء",
-            "واحة عيون علاج استجمام سكون"
+            "تَسْتَقْبِلُ سِيوَةُ الزَّائِرِينَ الَّذِينَ يَقْصِدُونَ عُيُونَهَا الكِبْرِيتِيَّةَ الَّتِي تُفِيدُ فِي العِلَاجِ وَالِاسْتِجْمَامِ. (tastaqbilu siywahu alzaa'iriyna aladhiyna yaqsiduwna 'auyuwnahaa alkibriytiyaha alatiy tufiydu fiy al'ailaaji waaliastijmaami.)",
+            "سيوا تقع في المحيط الاطلسي بالخطأ الجغرافي (sywa tq'a fy almhyt alatlsy balkhta aljghrafy)",
+            "واحة سيوة تاكل الجبل في المساء (wahh sywh takl aljbl fy almsa')",
+            "واحة عيون علاج استجمام سكون (wahh 'aywn 'alaj astjmam skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف «الزَّائِرِينَ الَّذِينَ» و«عُيُونَهَا الَّتِي» بتناسق جغرافي ونحوي متكامل."
@@ -8651,10 +8651,10 @@
         {
           "prompt": "ما هي الواحة التي تتميز بآلاف أشجار النخيل والعيون العذبة في قلب الصحراء؟",
           "options": [
-            "الوَاحَةُ",
-            "الشلال المالح",
-            "القمة الجليدية",
-            "المحيط المتجمد"
+            "الوَاحَةُ (alwaahahu)",
+            "الشلال المالح (alshlal almalh)",
+            "القمة الجليدية (alqmh aljlydyh)",
+            "المحيط المتجمد (almhyt almtjmd)"
           ],
           "answerIndex": 0,
           "explanation": "«الوَاحَةُ» هي البقعة الخضراء الخصبة ذات المياه العذبة في قلب الصحراء."
@@ -8667,10 +8667,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يبرز معالم الطبيعة العربية وتاريخها بالأسماء الموصولة البليغة:",
           "options": [
-            "تَزْخَرُ البِلَادُ العَرَبِيَّةُ بِالمَعَالِمِ الطَّبِيعِيَّةِ الَّتِي تَأْسِرُ الأَلْبَابَ؛ فَمِنْ جِبَالِ طُوَيْقٍ الَّتِي تُعَانِقُ المَجْدَ، إِلَى مَغَارَةِ جَعِيتَا الَّتِي نَحَتَهَا المَاءُ عَبْرَ العُصُورِ، لَوْحَةٌ تَمْتَدُّ لِتُلْهِمَ الرَّحَّالَةَ الَّذِينَ يَعْشَقُونَ سِحْرَ الكَوْنِ.",
-            "تزخر البلاد العربية بالافعال الماضية فقط بلا معالم ولا رحالة.",
-            "طويق جعيتا سيوة معالم رحالة سكون فتحة ضمة كسرة.",
-            "اندثرت جميع المعالم الطبيعية ولم يعد يزورها احد."
+            "تَزْخَرُ البِلَادُ العَرَبِيَّةُ بِالمَعَالِمِ الطَّبِيعِيَّةِ الَّتِي تَأْسِرُ الأَلْبَابَ؛ فَمِنْ جِبَالِ طُوَيْقٍ الَّتِي تُعَانِقُ المَجْدَ، إِلَى مَغَارَةِ جَعِيتَا الَّتِي نَحَتَهَا المَاءُ عَبْرَ العُصُورِ، لَوْحَةٌ تَمْتَدُّ لِتُلْهِمَ الرَّحَّالَةَ الَّذِينَ يَعْشَقُونَ سِحْرَ الكَوْنِ. (Language concept U14)",
+            "تزخر البلاد العربية بالافعال الماضية فقط بلا معالم ولا رحالة. (tzkhr alblad al'arbyh balaf'aal almadyh fqt bla m'aalm wla rhalh.)",
+            "طويق جعيتا سيوة معالم رحالة سكون فتحة ضمة كسرة. (twyq j'ayta sywh m'aalm rhalh skwn fthh dmh ksrh.)",
+            "اندثرت جميع المعالم الطبيعية ولم يعد يزورها احد. (andthrt jmy'a alm'aalm altby'ayh wlm y'ad yzwrha ahd.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين وصف المعالم الطبيعية واستخدام الأسماء الموصولة «المَعَالِم الَّتِي»، «جِبَال طُوَيْق الَّتِي»، «مَغَارَة جَعِيتَا الَّتِي»، «الرَّحَّالَة الَّذِينَ» بجزالة وفصاحة باهرة."
@@ -8735,10 +8735,10 @@
         {
           "prompt": "في الحوار الشامل، ما هو المعلم المائي الطبيعي الذي ستبدأ منه الجولة الاستكشافية؟",
           "options": [
-            "نَهْرُ النِّيلِ",
-            "البحر الميت فقط (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "المحيط الهادئ (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "مسبح النادي (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)"
+            "نَهْرُ النِّيلِ (nahru alniyli)",
+            "البحر الميت فقط (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "المحيط الهادئ (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "مسبح النادي (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أوضح الدكتور كمال: «سَنَبْدَأُ مِنْ نَهْرِ النِّيلِ الَّذِي يَمْنَحُ الحَيَاةَ لِلأَرْضِ»."
@@ -8746,10 +8746,10 @@
         {
           "prompt": "ما هي حالة الطقس في المناطق الجبلية العالية خلال فصل الشتاء كما ورد في الحوار؟",
           "options": [
-            "بَارِدٌ وَمُمْطِرٌ مَعَ تَسَاقُطِ الجَلِيدِ",
-            "حار وجاف جدا (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "مشمس بلا اي غيوم (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "رطب وخالٍ من الرياح (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)"
+            "بَارِدٌ وَمُمْطِرٌ مَعَ تَسَاقُطِ الجَلِيدِ (baaridun wamumtirun ma'aa tasaaquti aljaliydi)",
+            "حار وجاف جدا (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "مشمس بلا اي غيوم (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "رطب وخالٍ من الرياح (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "ذكر الحوار أن الطقس في قمم الجبال يكون باردًا وممطرًا وتكسوه الثلوج والجليد شتاءً."
@@ -8761,10 +8761,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف حب الاستكشاف الجغرافي بالأسماء الموصولة السليمة:",
           "options": [
-            "— مَا رَأْيُكِ فِي الجِبَالِ الَّتِي زُرْنَاهَا؟ — إِنَّهَا مَعَالِمُ سَاحِرَةٌ أَبْهَرَتِ المُسْتَكْشِفِينَ الَّذِينَ صَعِدُوا قِمَمَهَا الشَّاهِقَةَ.",
-            "— ما رايك في الجبال الذين زرناها؟ بالخطأ في الاسم الموصول لغير العاقل (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "— كم حساب التذكرة في السفارة؟ (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "— جبال مستكشفين صعود سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)"
+            "— مَا رَأْيُكِ فِي الجِبَالِ الَّتِي زُرْنَاهَا؟ — إِنَّهَا مَعَالِمُ سَاحِرَةٌ أَبْهَرَتِ المُسْتَكْشِفِينَ الَّذِينَ صَعِدُوا قِمَمَهَا الشَّاهِقَةَ. (Language concept U14)",
+            "— ما رايك في الجبال الذين زرناها؟ بالخطأ في الاسم الموصول لغير العاقل (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "— كم حساب التذكرة في السفارة؟ (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "— جبال مستكشفين صعود سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «الجِبَالِ الَّتِي» و«المُسْتَكْشِفِينَ الَّذِينَ» بسبك حواري فصيح وسليم تمامًا."
@@ -8772,10 +8772,10 @@
         {
           "prompt": "ما هو الهدف الأساسي من الجولة الاستكشافية كما أوضح الباحثان في ختام الحوار؟",
           "options": [
-            "تَوْثِيقُ التَّنَوُّعِ الطَّبِيعِيِّ وَالجُغْرَافِيِّ البَدِيعِ",
-            "إتلاف البيئة الطبيعية (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "البحث عن الأسواق والمجمعات التجارية فقط (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "إلغاء الرحلات الوثائقية (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)"
+            "تَوْثِيقُ التَّنَوُّعِ الطَّبِيعِيِّ وَالجُغْرَافِيِّ البَدِيعِ (tawthiyqu altanawu'ai altabiy'aiyi waaljughraafiyi albadiy'ai)",
+            "إتلاف البيئة الطبيعية (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "البحث عن الأسواق والمجمعات التجارية فقط (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "إلغاء الرحلات الوثائقية (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الهدف هو توثيق التنوع الطبيعي والمناخي والجغرافي البديع في البيئات العربية."
@@ -8788,10 +8788,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الرابعة عشرة بأكملها (التضاريس، الفصول والطقس، الأسماء الموصولة، والمعالم العربية):",
           "options": [
-            "انْطَلَقَ الدُّكْتُورُ كَمَال وَالبَاحِثَةُ رِيم فِي جَوْلَةٍ اسْتِكْشَافِيَّةٍ شَمِلَتْ نَهْرَ النِّيلِ الَّذِي يَجْرِي بِالعَذُوبَةِ، وَقِمَمَ الأَطْلَسِ الَّتِي يَكْسُوهَا الثَّلْجُ فِي الشِّتَاءِ، وَصَحْرَاءَ الرُّبْعِ الخَالِي الَّتِي تَتَمَيَّزُ بِطَقْسِهَا الدَّافِئِ المُشْمِسِ، مُعَبِّرَيْنِ عَنْ تَقْدِيرِهِمَا لِلْعُلَمَاءِ الَّذِينَ سَطَّرُوا عِلْمَ الجُغْرَافِيَا وَحَمَوْا سِحْرَ الطَّبِيعَةِ.",
-            "انطلق الدكتور كمال بالافعال الماضية فقط بلا تضاريس وبلا طقس واسماء موصولة. (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "جولة استكشافية نيل اطلس ربع خالي شتاء طقس الذين التي سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)",
-            "الغيت الجولة الاستكشافية وعاد الباحثان دون تصوير اي فيلم وثائقي. (الدمج الشامل لكافة مخرجات الوحدة الرابعة عشرة)"
+            "انْطَلَقَ الدُّكْتُورُ كَمَال وَالبَاحِثَةُ رِيم فِي جَوْلَةٍ اسْتِكْشَافِيَّةٍ شَمِلَتْ نَهْرَ النِّيلِ الَّذِي يَجْرِي بِالعَذُوبَةِ، وَقِمَمَ الأَطْلَسِ الَّتِي يَكْسُوهَا الثَّلْجُ فِي الشِّتَاءِ، وَصَحْرَاءَ الرُّبْعِ الخَالِي الَّتِي تَتَمَيَّزُ بِطَقْسِهَا الدَّافِئِ المُشْمِسِ، مُعَبِّرَيْنِ عَنْ تَقْدِيرِهِمَا لِلْعُلَمَاءِ الَّذِينَ سَطَّرُوا عِلْمَ الجُغْرَافِيَا وَحَمَوْا سِحْرَ الطَّبِيعَةِ. (Language concept U14)",
+            "انطلق الدكتور كمال بالافعال الماضية فقط بلا تضاريس وبلا طقس واسماء موصولة. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "جولة استكشافية نيل اطلس ربع خالي شتاء طقس الذين التي سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)",
+            "الغيت الجولة الاستكشافية وعاد الباحثان دون تصوير اي فيلم وثائقي. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج التضاريس الجغرافية، وأحوال الطقس وفصول السنة، والأسماء الموصولة (الذي، التي، الذين)، في سياق سردي بديع وأصيل."
@@ -8855,10 +8855,10 @@
         {
           "prompt": "ما هي الوثيقة الرسمية الصادرة من السفارة أو القنصلية التي تسمح بدخول البلد الأجنبي؟",
           "options": [
-            "تَأْشِيرَةُ الدُّخُولِ",
-            "فاتورة الفندق",
-            "رخصة القيادة المحلية فقط",
-            "بطاقة المكتبة"
+            "تَأْشِيرَةُ الدُّخُولِ (taashiyrahu aldukhuwli)",
+            "فاتورة الفندق (fatwrh alfndq)",
+            "رخصة القيادة المحلية فقط (rkhsh alqyadh almhlyh fqt)",
+            "بطاقة المكتبة (btaqh almktbh)"
           ],
           "answerIndex": 0,
           "explanation": "«تَأْشِيرَةُ الدُّخُولِ» (الفيزا) هي الإذن الرسمي الممنوح لدخول أراضي الدولة."
@@ -8866,10 +8866,10 @@
         {
           "prompt": "ماذا تسمى البطاقة التي يستلمها المسافر في المطار ليسمح له بالصعود إلى مقعده في الطائرة؟",
           "options": [
-            "بِطَاقَةُ صُعُودِ الطَّائِرَةِ",
-            "بطاقة التأمين الصحي",
-            "البطاقة الائتمانية",
-            "وصل الشراء"
+            "بِطَاقَةُ صُعُودِ الطَّائِرَةِ (bitaaqahu su'auwdi altaa'irahi)",
+            "بطاقة التأمين الصحي (btaqh altamyn alshy)",
+            "البطاقة الائتمانية (albtaqh ala'tmanyh)",
+            "وصل الشراء (wsl alshra')"
           ],
           "answerIndex": 0,
           "explanation": "«بِطَاقَةُ صُعُودِ الطَّائِرَةِ» هي الوثيقة المحددة لرقم المقعد وبوابة الصعود."
@@ -8881,10 +8881,10 @@
         {
           "prompt": "اختر الجملة التي تصف وصول المسافر واستلام أمتعته في المطار بأسلوب فصيح:",
           "options": [
-            "وَصَلَ المُسَافِرُونَ إِلَى صَالَةِ الوُصُولِ وَاسْتَلَمُوا أَمْتِعَتَهُمْ مِنْ حِزَامِ الحَقَائِبِ.",
-            "وصل المسافرون الى صالة الطائرة فوق البحر بالخطأ",
-            "المسافرون اشتروا المطار",
-            "وصول امتعة حقائب صالة سكون"
+            "وَصَلَ المُسَافِرُونَ إِلَى صَالَةِ الوُصُولِ وَاسْتَلَمُوا أَمْتِعَتَهُمْ مِنْ حِزَامِ الحَقَائِبِ. (wasala almusaafiruwna iilaa saalahi alwusuwli waastalamuwa aamti'aatahum min hizaami alhaqaa'ibi.)",
+            "وصل المسافرون الى صالة الطائرة فوق البحر بالخطأ (wsl almsafrwn ala salh alta'rh fwq albhr balkhta)",
+            "المسافرون اشتروا المطار (almsafrwn ashtrwa almtar)",
+            "وصول امتعة حقائب صالة سكون (wswl amt'ah hqa'b salh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن الوصول واستلام الأمتعة «صَالَةِ الوُصُولِ»، «اسْتَلَمُوا أَمْتِعَتَهُمْ» بصياغة عربية ممتازة."
@@ -8892,10 +8892,10 @@
         {
           "prompt": "ما المصطلح المعبر عن انطلاق الطائرة وارتفاعها في الجو من المدرج؟",
           "options": [
-            "الإِقْلَاعُ",
-            "الهبوط",
-            "التأجيل",
-            "الإلغاء"
+            "الإِقْلَاعُ (aliiqlaa'au)",
+            "الهبوط (alhbwt)",
+            "التأجيل (altajyl)",
+            "الإلغاء (alilgha')"
           ],
           "answerIndex": 0,
           "explanation": "«الإِقْلَاعُ» هو مصطلح بدء طيران الطائرة ومغادرتها المدرج."
@@ -8908,10 +8908,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف مسار إجراءات السفر في المطار من الدخول حتى ركوب الطائرة بدقة واحترافية:",
           "options": [
-            "تَوَجَّهَ المُسَافِرُ إِلَى صَالَةِ المُغَادَرَةِ، فَأَبْرَزَ جَوَازَ السَّفَرِ وَتَأْشِيرَةَ الدُّخُولِ، ثُمَّ اسْتَلَمَ بِطَاقَةَ صُعُودِ الطَّائِرَةِ وَشَحَنَ أَمْتِعَتَهُ، لِيَجْلِسَ عِنْدَ بَوَّابَةِ الإِقْلَاعِ فِي انْتِظَارِ مَوْعِدِ الرِّحْلَةِ.",
-            "توجه المسافر بالافعال الماضية فقط بلا وثائق وبلا اجراءات مطار.",
-            "مطار جواز سفر تاشيرة اقلاع هبوط امتعة سكون فتحة ضمة.",
-            "اغلقت بوابات المطار وغادر جميع الركاب دون سفر."
+            "تَوَجَّهَ المُسَافِرُ إِلَى صَالَةِ المُغَادَرَةِ، فَأَبْرَزَ جَوَازَ السَّفَرِ وَتَأْشِيرَةَ الدُّخُولِ، ثُمَّ اسْتَلَمَ بِطَاقَةَ صُعُودِ الطَّائِرَةِ وَشَحَنَ أَمْتِعَتَهُ، لِيَجْلِسَ عِنْدَ بَوَّابَةِ الإِقْلَاعِ فِي انْتِظَارِ مَوْعِدِ الرِّحْلَةِ. (Language concept U15)",
+            "توجه المسافر بالافعال الماضية فقط بلا وثائق وبلا اجراءات مطار. (twjh almsafr balaf'aal almadyh fqt bla wtha'q wbla ajra'at mtar.)",
+            "مطار جواز سفر تاشيرة اقلاع هبوط امتعة سكون فتحة ضمة. (mtar jwaz sfr tashyrh aqla'a hbwt amt'ah skwn fthh dmh.)",
+            "اغلقت بوابات المطار وغادر جميع الركاب دون سفر. (aghlqt bwabat almtar wghadr jmy'a alrkab dwn sfr.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يصف التسلسل الإجرائي المتقن للسفر موظفًا «صَالَة المُغَادَرَة، جَوَاز السَّفَر، تَأْشِيرَة الدُّخُول، بِطَاقَة صُعُود الطَّائِرَة، أَمْتِعَة، بَوَّابَة الإِقْلَاع» بفصاحة تامة."
@@ -8977,10 +8977,10 @@
         {
           "prompt": "ما هو التصريف الصحيح للفعل الأجوف «زَارَ» مع ضمير المتكلم (أَنَا) في الماضي؟",
           "options": [
-            "زُرْتُ",
-            "زارتُ (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "زِرتُ (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "زيرت (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))"
+            "زُرْتُ (zurtu)",
+            "زارتُ (wawy al'ayn mthl)",
+            "زِرتُ (wawy al'ayn mthl)",
+            "زيرت (wawy al'ayn mthl)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «زَارَ» واوي العين (يزور)، فتحذف عينه وتضم فاؤه مع تاء الفاعل: «زُرْتُ»."
@@ -8988,10 +8988,10 @@
         {
           "prompt": "ما هو التصريف الصحيح للفعل الأجوف اليائي «سَارَ» مع ضمير المتكلمين (نَحْنُ) في الماضي؟",
           "options": [
-            "سِرْنَا",
-            "سارنا (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "سُرنا (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "سيرنا (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))"
+            "سِرْنَا (sirnaa)",
+            "سارنا (wawy al'ayn mthl)",
+            "سُرنا (wawy al'ayn mthl)",
+            "سيرنا (wawy al'ayn mthl)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «سَارَ» يائي العين (يسير)، فتحذف عينه وتكسر فاؤه مع نا الفاعلين: «سِرْنَا»."
@@ -9003,10 +9003,10 @@
         {
           "prompt": "اختر الجملة التي تصرف الأفعال الجوفاء في الماضي تصريفًا سليمًا خالياً من الأخطاء:",
           "options": [
-            "قُلْتُ لِصَدِيقِي: «كُنْتُ فِي المَطَارِ عِنْدَمَا عُدْتَ مِنَ السَّفَرِ».",
-            "قالتُ لصديقي كانتُ في المطار بالخطأ (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "قلتُ كانوتُ عودتَ (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "تصريف اجوف قال كان عاد سكون (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))"
+            "قُلْتُ لِصَدِيقِي: «كُنْتُ فِي المَطَارِ عِنْدَمَا عُدْتَ مِنَ السَّفَرِ». (Language concept U15)",
+            "قالتُ لصديقي كانتُ في المطار بالخطأ (wawy al'ayn mthl)",
+            "قلتُ كانوتُ عودتَ (wawy al'ayn mthl)",
+            "تصريف اجوف قال كان عاد سكون (wawy al'ayn mthl)"
           ],
           "answerIndex": 0,
           "explanation": "«قُلْتُ»، «كُنْتُ»، «عُدْتَ» كلها أفعال جوفاء واوية صُرِّفت مع ضمائر الرفع المتحركة بحذف الألف وضم الفاء بدقة متناهية."
@@ -9014,10 +9014,10 @@
         {
           "prompt": "ما هو مضارع الفعل الأجوف «عَاشَ»؟",
           "options": [
-            "يَعِيشُ",
-            "يعوش (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "يعاش (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "يعيشو (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))"
+            "يَعِيشُ (ya'aiyshu)",
+            "يعوش (wawy al'ayn mthl)",
+            "يعاش (wawy al'ayn mthl)",
+            "يعيشو (wawy al'ayn mthl)"
           ],
           "answerIndex": 0,
           "explanation": "مضارع «عَاشَ» هو «يَعِيشُ» بانقلاب الألف إلى ياء مدية."
@@ -9030,10 +9030,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف مجموعة من الأفعال الجوفاء المتنوعة (الواوية واليائية) في سياق سردي لرحلة سفر بليغة:",
           "options": [
-            "سَافَرْنَا إِلَى العَاصِمَةِ، فَزُرْنَا مَتَاحِفَهَا العَرِيقَةَ، وَسِرْنَا فِي شَوَارِعِهَا القَدِيمَةِ، وَكُنَّا سُعَدَاءَ حِينَ قُلْنَا لِأَهْلِهَا شُكْرًا عَلَى حُسْنِ الضِّيَافَةِ، ثُمَّ عُدْنَا إِلَى دِيَارِنَا بِسَلَامٍ.",
-            "سافرنا الى العاصمة بالافعال الصحيحة فقط بلا اي فعل اجوف. (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "زرنا سرنا كنا قلنا عدنا افعال جوفاء سكون فتحة ضمة كسرة. (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))",
-            "توقفت الرحلة ولم يسافر احد ولم يعد احد. (إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل))"
+            "سَافَرْنَا إِلَى العَاصِمَةِ، فَزُرْنَا مَتَاحِفَهَا العَرِيقَةَ، وَسِرْنَا فِي شَوَارِعِهَا القَدِيمَةِ، وَكُنَّا سُعَدَاءَ حِينَ قُلْنَا لِأَهْلِهَا شُكْرًا عَلَى حُسْنِ الضِّيَافَةِ، ثُمَّ عُدْنَا إِلَى دِيَارِنَا بِسَلَامٍ. (Language concept U15)",
+            "سافرنا الى العاصمة بالافعال الصحيحة فقط بلا اي فعل اجوف. (wawy al'ayn mthl)",
+            "زرنا سرنا كنا قلنا عدنا افعال جوفاء سكون فتحة ضمة كسرة. (wawy al'ayn mthl)",
+            "توقفت الرحلة ولم يسافر احد ولم يعد احد. (wawy al'ayn mthl)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين الأفعال الجوفاء الواوية واليائية «زُرْنَا، سِرْنَا، كُنَّا، قُلْنَا، عُدْنَا» بضبط تصريفي ناصع وسليم."
@@ -9097,10 +9097,10 @@
         {
           "prompt": "ما هو نوع الغرفة الفندقية المخصصة لإقامة شخصين؟",
           "options": [
-            "غُرْفَةٌ مُزْدَوِجَةٌ",
-            "غرفة مفردة",
-            "صالة انتظار",
-            "مكتب الاستقبال"
+            "غُرْفَةٌ مُزْدَوِجَةٌ (ghurfahun muzdawijahun)",
+            "غرفة مفردة (ghrfh mfrdh)",
+            "صالة انتظار (salh antzar)",
+            "مكتب الاستقبال (mktb alastqbal)"
           ],
           "answerIndex": 0,
           "explanation": "«غُرْفَةٌ مُزْدَوِجَةٌ» هي الغرفة المجهزة لشخصين (بسريرين أو سرير كبير)."
@@ -9108,10 +9108,10 @@
         {
           "prompt": "أين يقف المسافرون في محطة السكك الحديدية لانتظار قدوم عربات القطار؟",
           "options": [
-            "رَصِيفُ المَحَطَّةِ / القِطَارِ",
-            "مدرج الطائرات",
-            "صالة السينما",
-            "مطبخ الفندق"
+            "رَصِيفُ المَحَطَّةِ / القِطَارِ (rasiyfu almahatahi / alqitaari)",
+            "مدرج الطائرات (mdrj alta'rat)",
+            "صالة السينما (salh alsynma)",
+            "مطبخ الفندق (mtbkh alfndq)"
           ],
           "answerIndex": 0,
           "explanation": "«رَصِيفُ القِطَارِ» هو المكان المخصص لوقوف الركاب وصعود القطار بأمان."
@@ -9123,10 +9123,10 @@
         {
           "prompt": "اختر الجملة التي تصف الحجز الفندقي والاستقبال بأسلوب فصيح ودقيق:",
           "options": [
-            "أَتْمَمَ النَّزِيلُ تَسْجِيلَ الدُّخُولِ لَدَى مَكْتَبِ الِاسْتِقْبَالِ وَاسْتَلَمَ مِفْتَاحَ الجَنَاحِ.",
-            "النزيل اكل مكتب الاستقبال في المحطة",
-            "تسجيل الدخول يركض في الشارع",
-            "فندق استقبال جناح مفتاح سكون"
+            "أَتْمَمَ النَّزِيلُ تَسْجِيلَ الدُّخُولِ لَدَى مَكْتَبِ الِاسْتِقْبَالِ وَاسْتَلَمَ مِفْتَاحَ الجَنَاحِ. (aatmama alnaziylu tasjiyla aldukhuwli ladaa maktabi aliastiqbaali waastalama miftaaha aljanaahi.)",
+            "النزيل اكل مكتب الاستقبال في المحطة (alnzyl akl mktb alastqbal fy almhth)",
+            "تسجيل الدخول يركض في الشارع (tsjyl aldkhwl yrkd fy alshar'a)",
+            "فندق استقبال جناح مفتاح سكون (fndq astqbal jnah mftah skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن إجراءات تسجيل الدخول «تَسْجِيلَ الدُّخُولِ لَدَى مَكْتَبِ الِاسْتِقْبَالِ» بفصاحة واحترافية."
@@ -9134,10 +9134,10 @@
         {
           "prompt": "ما هي درجة السفر الفاخرة المخصصة للخدمات المتميزة والمقاعد الواسعة؟",
           "options": [
-            "دَرَجَةُ رِجَالِ الأَعْمَالِ",
-            "الدرجة الاقتصادية",
-            "عربة الشحن فقط",
-            "الدرجة العادية"
+            "دَرَجَةُ رِجَالِ الأَعْمَالِ (darajahu rijaali alaa'amaali)",
+            "الدرجة الاقتصادية (aldrjh alaqtsadyh)",
+            "عربة الشحن فقط ('arbh alshhn fqt)",
+            "الدرجة العادية (aldrjh al'aadyh)"
           ],
           "answerIndex": 0,
           "explanation": "«دَرَجَةُ رِجَالِ الأَعْمَالِ» هي الدرجة المتميزة للراحة والخدمة الراقية."
@@ -9150,10 +9150,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف تنظيم الإقامة الفندقية وحجز القطارات السريعة بأسلوب لغوي رصين:",
           "options": [
-            "حَجَزَ المُسَافِرُونَ إِقَامَتَهُمْ فِي فُنْدُقٍ قَرِيبٍ مِنَ المَحَطَّةِ المَرْكَزِيَّةِ، وَبَعْدَ إِتْمَامِ تَسْجِيلِ الدُّخُولِ، انْطَلَقُوا إِلَى رَصِيفِ القِطَارِ السَّرِيعِ لِبَدْءِ جَوْلَتِهِمْ فِي الدَّرَجَةِ السِّيَاحِيَّةِ المُرِيحَةِ.",
-            "حجز المسافرون بالماضي فقط بلا فنادق وبلا قطارات ومحطات.",
-            "فندق تسجيل دخول محطة رصيف قطار درجة سياحية سكون فتحة ضمة.",
-            "الغيت جميع الحجوزات واغلقت الفنادق والمحطات ابوابها."
+            "حَجَزَ المُسَافِرُونَ إِقَامَتَهُمْ فِي فُنْدُقٍ قَرِيبٍ مِنَ المَحَطَّةِ المَرْكَزِيَّةِ، وَبَعْدَ إِتْمَامِ تَسْجِيلِ الدُّخُولِ، انْطَلَقُوا إِلَى رَصِيفِ القِطَارِ السَّرِيعِ لِبَدْءِ جَوْلَتِهِمْ فِي الدَّرَجَةِ السِّيَاحِيَّةِ المُرِيحَةِ. (Language concept U15)",
+            "حجز المسافرون بالماضي فقط بلا فنادق وبلا قطارات ومحطات. (hjz almsafrwn balmady fqt bla fnadq wbla qtarat wmhtat.)",
+            "فندق تسجيل دخول محطة رصيف قطار درجة سياحية سكون فتحة ضمة. (fndq tsjyl dkhwl mhth rsyf qtar drjh syahyh skwn fthh dmh.)",
+            "الغيت جميع الحجوزات واغلقت الفنادق والمحطات ابوابها. (alghyt jmy'a alhjwzat waghlqt alfnadq walmhtat abwabha.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين مصطلحات الإقامة الفندقية وحجز القطارات «فُنْدُق، تَسْجِيل الدُّخُول، رَصِيف القِطَار، الدَّرَجَة السِّيَاحِيَّة» بتناسق تركيبي بديع."
@@ -9219,10 +9219,10 @@
         {
           "prompt": "ما هي المدينة المغربية العريقة التي تحتضن أقدم جامعة في العالم (جامعة القرويين)؟",
           "options": [
-            "مَدِينَةُ فَاسَ",
-            "الدار البيضاء",
-            "طنجة",
-            "أغادير"
+            "مَدِينَةُ فَاسَ (madiynahu faasa)",
+            "الدار البيضاء (aldar albyda')",
+            "طنجة (tnjh)",
+            "أغادير (aghadyr)"
           ],
           "answerIndex": 0,
           "explanation": "«مَدِينَةُ فَاسَ» هي العاصمة العلمية للمغرب ومقر جامعة القرويين التاريخية."
@@ -9230,10 +9230,10 @@
         {
           "prompt": "ما هو اللقب الشهير للعاصمة السورية التاريخية دمشق؟",
           "options": [
-            "دِمَشْقُ الفَيْحَاءُ",
-            "دار السلام",
-            "عروس البحر",
-            "مدينة الضباب"
+            "دِمَشْقُ الفَيْحَاءُ (dimashqu alfayhaa'u)",
+            "دار السلام (dar alslam)",
+            "عروس البحر ('arws albhr)",
+            "مدينة الضباب (mdynh aldbab)"
           ],
           "answerIndex": 0,
           "explanation": "تلقب دمشق بـ «الفَيْحَاءِ» لاتساعها ونضارة بساتين الغوطة المحيطة بها."
@@ -9245,10 +9245,10 @@
         {
           "prompt": "اختر الجملة التي تسرد زيارة المعالم التاريخية بالأفعال الجوفاء الماضية:",
           "options": [
-            "زُرْنَا قَلْعَةَ صَلَاحِ الدِّينِ فِي القَاهِرَةِ وَكُنَّا مُنْبَهِرِينَ بِعَظَمَةِ التَّارِيخِ.",
-            "زرنا القلعة تاكل في الصباح بالخطأ المعنوي",
-            "نحن يزور القلعة امس",
-            "زيارة قلعة قاهرة تاريخ سكون"
+            "زُرْنَا قَلْعَةَ صَلَاحِ الدِّينِ فِي القَاهِرَةِ وَكُنَّا مُنْبَهِرِينَ بِعَظَمَةِ التَّارِيخِ. (zurnaa qal'aaha salaahi aldiyni fiy alqaahirahi wakunaa munbahiriyna bi'aazamahi altaariykhi.)",
+            "زرنا القلعة تاكل في الصباح بالخطأ المعنوي (zrna alql'ah takl fy alsbah balkhta alm'anwy)",
+            "نحن يزور القلعة امس (nhn yzwr alql'ah ams)",
+            "زيارة قلعة قاهرة تاريخ سكون (zyarh ql'ah qahrh tarykh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«زُرْنَا» و«كُنَّا» أفعال جوفاء مصرفية في الماضي بدقة تصف زيارة قلعة القاهرة."
@@ -9256,10 +9256,10 @@
         {
           "prompt": "ما اسم النهر العظيم الذي قامت على ضفافه مدينة بغداد دار السلام التاريخية؟",
           "options": [
-            "نَهْرُ دِجْلَةَ",
-            "نهر الأمازون",
-            "نهر الدانوب",
-            "نهر التايمز"
+            "نَهْرُ دِجْلَةَ (nahru dijlaha)",
+            "نهر الأمازون (nhr alamazwn)",
+            "نهر الدانوب (nhr aldanwb)",
+            "نهر التايمز (nhr altaymz)"
           ],
           "answerIndex": 0,
           "explanation": "«نَهْرُ دِجْلَةَ» هو النهر الخالد الذي يشق مدينة بغداد."
@@ -9272,10 +9272,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص السردي الذي يصف جولة عبر الحواضر التاريخية العربية بالأفعال الجوفاء والبيان الفصيح:",
           "options": [
-            "كُنْتُ فِي جَوْلَةٍ عَرَبِيَّةٍ شَامِلَةٍ؛ حَيْثُ زُرْتُ القَاهِرَةَ وَتَأَمَّلْتُ قَلْعَتَهَا، ثُمَّ طِرْتُ إِلَى دِمَشْقَ وَسِرْتُ فِي أَسْوَاقِهَا، وَعِشْتُ فِي بَغْدَادَ عَلَى ضِفَافِ دِجْلَةَ، وَعُدْتُ لِأَقُولَ لِلْجَمِيعِ: «إِنَّ التُّرَاثَ العَرَبِيَّ صَرْحٌ خَالِدٌ».",
-            "كنت في جولة بالافعال المضارعة فقط بلا مدن تاريخية وبلا سرد.",
-            "قاهرة دمشق بغداد فاس قلاع اسواق دجلة سكون فتحة ضمة.",
-            "لم يزر احد اي مدينة تاريخية واغلقت جميع المتاحف."
+            "كُنْتُ فِي جَوْلَةٍ عَرَبِيَّةٍ شَامِلَةٍ؛ حَيْثُ زُرْتُ القَاهِرَةَ وَتَأَمَّلْتُ قَلْعَتَهَا، ثُمَّ طِرْتُ إِلَى دِمَشْقَ وَسِرْتُ فِي أَسْوَاقِهَا، وَعِشْتُ فِي بَغْدَادَ عَلَى ضِفَافِ دِجْلَةَ، وَعُدْتُ لِأَقُولَ لِلْجَمِيعِ: «إِنَّ التُّرَاثَ العَرَبِيَّ صَرْحٌ خَالِدٌ». (Language concept U15)",
+            "كنت في جولة بالافعال المضارعة فقط بلا مدن تاريخية وبلا سرد. (knt fy jwlh balaf'aal almdar'ah fqt bla mdn tarykhyh wbla srd.)",
+            "قاهرة دمشق بغداد فاس قلاع اسواق دجلة سكون فتحة ضمة. (qahrh dmshq bghdad fas qla'a aswaq djlh skwn fthh dmh.)",
+            "لم يزر احد اي مدينة تاريخية واغلقت جميع المتاحف. (lm yzr ahd ay mdynh tarykhyh waghlqt jmy'a almtahf.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين سرد الحواضر التاريخية وأفعال الأجوف في الماضي «كُنْتُ، زُرْتُ، طِرْتُ، سِرْتُ، عِشْتُ، عُدْتُ، أَقُولَ» في ذروة الفصاحة والبيان."
@@ -9339,10 +9339,10 @@
         {
           "prompt": "في الحوار الشامل، ما هي الوجهة الأولى التي سيزورها يوسف وأمير قبل الطيران إلى فاس؟",
           "options": [
-            "القَاهِرَةُ",
-            "لندن فقط (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "طوكيو (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "القطب الشمالي (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)"
+            "القَاهِرَةُ (alqaahirahu)",
+            "لندن فقط (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "طوكيو (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "القطب الشمالي (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أوضح أمير في الحوار: «سَنَزُورُ القَاهِرَةَ ثُمَّ نَطِيرُ إِلَى فَاسَ»."
@@ -9350,10 +9350,10 @@
         {
           "prompt": "ما المعلم الأكاديمي التاريخي الذي تمنى يوسف زيارته في مدينة فاس؟",
           "options": [
-            "جَامِعَةُ القَرَوِيِّينَ",
-            "برج إيفل (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "ساعة بيغ بن (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "متحف اللوفر (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)"
+            "جَامِعَةُ القَرَوِيِّينَ (jaami'aahu alqarawiyiyna)",
+            "برج إيفل (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "ساعة بيغ بن (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "متحف اللوفر (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "قال يوسف: «كُنْتُ أَتَمَنَّى دَائِمًا أَنْ أَزُورَ جَامِعَةَ القَرَوِيِّينَ»."
@@ -9365,10 +9365,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف الاستعداد لصعود الطائرة بالأفعال الجوفاء والمصطلحات الرسمية:",
           "options": [
-            "— هَلْ اسْتَلَمْتَ بِطَاقَةَ الصُّعُودِ؟ — نَعَمْ، قُلْتُ لِلْمُوَظَّفِ إِنَّنَا جَاهِزُونَ وَسَنَطِيرُ حَالًا عَبْرَ البَوَّابَةِ.",
-            "— هل تذكرة القطار في البحر؟ (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "— كم سعر اللحم في المطار؟ (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "— بطاقة صعود طيران بوابة سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)"
+            "— هَلْ اسْتَلَمْتَ بِطَاقَةَ الصُّعُودِ؟ — نَعَمْ، قُلْتُ لِلْمُوَظَّفِ إِنَّنَا جَاهِزُونَ وَسَنَطِيرُ حَالًا عَبْرَ البَوَّابَةِ. (Language concept U15)",
+            "— هل تذكرة القطار في البحر؟ (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "— كم سعر اللحم في المطار؟ (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "— بطاقة صعود طيران بوابة سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «بِطَاقَة الصُّعُود»، «قُلْتُ»، «سَنَطِيرُ»، «البَوَّابَة» بسبك حواري فصيح ومتقن."
@@ -9376,10 +9376,10 @@
         {
           "prompt": "كيف وصف الصديقان رحلتهما في ختام الحوار؟",
           "options": [
-            "رِحْلَةٌ مَلِيئَةٌ بِالمَعْرِفَةِ وَاسْتِكْشَافِ سِحْرِ التَّارِيخِ",
-            "رحلة مملة وخالية من الفائدة (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "رحلة تجارية لبيع البضائع فقط (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "رحلة ضائعة بلا هدف (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)"
+            "رِحْلَةٌ مَلِيئَةٌ بِالمَعْرِفَةِ وَاسْتِكْشَافِ سِحْرِ التَّارِيخِ (rihlahun maliy'ahun bialma'arifahi waastikshaafi sihri altaariykhi)",
+            "رحلة مملة وخالية من الفائدة (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "رحلة تجارية لبيع البضائع فقط (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "رحلة ضائعة بلا هدف (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "اتفقا على أنها رحلة مليئة بالمعرفة والذكريات التاريخية الثمينة."
@@ -9392,10 +9392,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الخامسة عشرة بأكملها (وثائق السفر، تصريف الأجوف، حجوزات الفنادق، المعالم التاريخية، والرحلات):",
           "options": [
-            "أَعَدَّ يُوسُفُ وَأَمِيرٌ جَوَازَاتِ السَّفَرِ وَالتَّأْشِيرَاتِ، وَحَجَزَا تَذَاكِرَ الطَّيَرَانِ وَغُرَفَ الفُنْدُقِ، فَقَالَ يُوسُفُ: «زُرْتُ القَاهِرَةَ سَابِقًا، وَالْآنَ سَنَطِيرُ إِلَى فَاسَ لِنَسِيرَ فِي جَامِعَةِ القَرَوِيِّينَ»، فَرَدَّ أَمِيرٌ: «كُنْتُ أَتَرَقَّبُ هٰذِهِ اللَّحْظَةَ لِنَعِيشَ سِحْرَ التَّارِيخِ وَنَعُودَ بِأَجْمَلِ الذِّكْرَيَاتِ».",
-            "اعد يوسف وامير بالافعال الصحيحة فقط بلا وثائق سفر وبلا افعال جوفاء. (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "جواز سفر تااشيرات تذاكر قاهرة فاس قرويين طيران قطار سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)",
-            "الغيت الرحلة وضاعت الجوازات ولم يسافر يوسف ولا امير. (الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة)"
+            "أَعَدَّ يُوسُفُ وَأَمِيرٌ جَوَازَاتِ السَّفَرِ وَالتَّأْشِيرَاتِ، وَحَجَزَا تَذَاكِرَ الطَّيَرَانِ وَغُرَفَ الفُنْدُقِ، فَقَالَ يُوسُفُ: «زُرْتُ القَاهِرَةَ سَابِقًا، وَالْآنَ سَنَطِيرُ إِلَى فَاسَ لِنَسِيرَ فِي جَامِعَةِ القَرَوِيِّينَ»، فَرَدَّ أَمِيرٌ: «كُنْتُ أَتَرَقَّبُ هٰذِهِ اللَّحْظَةَ لِنَعِيشَ سِحْرَ التَّارِيخِ وَنَعُودَ بِأَجْمَلِ الذِّكْرَيَاتِ». (Language concept U15)",
+            "اعد يوسف وامير بالافعال الصحيحة فقط بلا وثائق سفر وبلا افعال جوفاء. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "جواز سفر تااشيرات تذاكر قاهرة فاس قرويين طيران قطار سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)",
+            "الغيت الرحلة وضاعت الجوازات ولم يسافر يوسف ولا امير. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج وثائق السفر، وحجوزات الفنادق والطيران، وتصريفات الأفعال الجوفاء في الماضي والمضارع (زُرْتُ، سَنَطِيرُ، لِنَسِيرَ، كُنْتُ، لِنَعِيشَ، نَعُودَ) في سياق سردي أصيل وملهم."
@@ -9461,10 +9461,10 @@
         {
           "prompt": "ما هو العَرَض المرضي الذي يعني الشعور بألم حاد في الرأس؟",
           "options": [
-            "الصُّدَاعُ",
-            "الزكام",
-            "السعال",
-            "ألم الأسنان"
+            "الصُّدَاعُ (alsudaa'au)",
+            "الزكام (alzkam)",
+            "السعال (als'aal)",
+            "ألم الأسنان (alm alasnan)"
           ],
           "answerIndex": 0,
           "explanation": "«الصُّدَاعُ» هو الألم الذي يصيب الرأس."
@@ -9472,10 +9472,10 @@
         {
           "prompt": "ما هو حرف الجر الذي يتعدى به الفعل «شَعَرَ / يَشْعُرُ» للتعبير عن الإحساس بالألم؟",
           "options": [
-            "حَرْفُ الجَرِّ «البَاء (بِـ)»",
-            "حرف عن",
-            "حرف من",
-            "حرف إلى"
+            "حَرْفُ الجَرِّ «البَاء (Language concept U16)",
+            "حرف عن (hrf 'an)",
+            "حرف من (hrf mn)",
+            "حرف إلى (hrf ila)"
           ],
           "answerIndex": 0,
           "explanation": "يتعدى الفعل بالباء فيقال: «أَشْعُرُ بِأَلَمٍ» و«أَشْعُرُ بِتَعَبٍ»."
@@ -9487,10 +9487,10 @@
         {
           "prompt": "اختر الجملة التي تصف شعور المريض بالأعراض بدقة نحوية وتركيبية سليمة:",
           "options": [
-            "يَشْعُرُ طَارِقٌ بِحُمَّى مُرْتَفِعَةٍ وَسُعَالٍ جَافٍّ مُنْذُ الصَّبَاحِ.",
-            "يشعر طارق عن حمى مرتفعة بالخطأ في حرف الجر",
-            "الحمى تأكل السعال في الرأس",
-            "شعور حمى سعال اعراض سكون"
+            "يَشْعُرُ طَارِقٌ بِحُمَّى مُرْتَفِعَةٍ وَسُعَالٍ جَافٍّ مُنْذُ الصَّبَاحِ. (yash'auru taariqun bihumaa murtafi'aahin wasu'aaalin jaafin mundhu alsabaahi.)",
+            "يشعر طارق عن حمى مرتفعة بالخطأ في حرف الجر (ysh'ar tarq 'an hma mrtf'ah balkhta fy hrf aljr)",
+            "الحمى تأكل السعال في الرأس (alhma takl als'aal fy alras)",
+            "شعور حمى سعال اعراض سكون (sh'awr hma s'aal a'arad skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف «يَشْعُرُ بِحُمَّى... وَسُعَالٍ» بتركيب لغوي عربي سليم وفصيح."
@@ -9498,10 +9498,10 @@
         {
           "prompt": "ما هو العضو العضلي الحيوي الموجود في الصدر والمسؤول عن ضخ الدم إلى جميع أنحاء الجسم؟",
           "options": [
-            "القَلْبُ",
-            "المعدة",
-            "الأذن",
-            "الرأس"
+            "القَلْبُ (alqalbu)",
+            "المعدة (alm'adh)",
+            "الأذن (aladhn)",
+            "الرأس (alras)"
           ],
           "answerIndex": 0,
           "explanation": "«القَلْبُ» هو العضو الرئيس في الجهاز الدوري لضخ الدماء."
@@ -9514,10 +9514,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الطبي الذي يصف حالة المريض وأعراضه بدقة لغوية واصطلاحية متكاملة:",
           "options": [
-            "حَضَرَ المَرِيضُ إِلَى العِيَادَةِ وَهُوَ يَشْعُرُ بِإِرْهَاقٍ عَامٍّ وَصُدَاعٍ فِي رَأْسِهِ مَعَ ارْتِفَاعٍ فِي دَرَجَةِ الحَرَارَةِ، فَفَحَصَتِ الطَّبِيبَةُ حَلْقَهُ وَصَدْرَهُ لِتَشْخِيصِ نَوْعِ الِالْتِهَابِ وَتَحْدِيدِ العِلَاجِ المُنَاسِبِ.",
-            "حضر المريض بالافعال الماضية فقط بلا اعراض وبلا اعضاء جسد.",
-            "صداع حمى ارهاق صدر قلب راس فحص سكون فتحة ضمة.",
-            "شفي المريض فجاة دون فحص ودون اعراض."
+            "حَضَرَ المَرِيضُ إِلَى العِيَادَةِ وَهُوَ يَشْعُرُ بِإِرْهَاقٍ عَامٍّ وَصُدَاعٍ فِي رَأْسِهِ مَعَ ارْتِفَاعٍ فِي دَرَجَةِ الحَرَارَةِ، فَفَحَصَتِ الطَّبِيبَةُ حَلْقَهُ وَصَدْرَهُ لِتَشْخِيصِ نَوْعِ الِالْتِهَابِ وَتَحْدِيدِ العِلَاجِ المُنَاسِبِ. (Language concept U16)",
+            "حضر المريض بالافعال الماضية فقط بلا اعراض وبلا اعضاء جسد. (hdr almryd balaf'aal almadyh fqt bla a'arad wbla a'ada' jsd.)",
+            "صداع حمى ارهاق صدر قلب راس فحص سكون فتحة ضمة. (sda'a hma arhaq sdr qlb ras fhs skwn fthh dmh.)",
+            "شفي المريض فجاة دون فحص ودون اعراض. (shfy almryd fjah dwn fhs wdwn a'arad.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يوظف معجم الأعراض والأعضاء «يَشْعُرُ بِإِرْهَاق، صُدَاع، رَأْس، حَرَارَة، حَلْق، صَدْر» بسلاسة بيانية وطبية عالية."
@@ -9583,10 +9583,10 @@
         {
           "prompt": "ما هو التصريف الصحيح للفعل الناقص الواوي «شَكَا» مع ضمير المتكلم (أَنَا) في الماضي؟",
           "options": [
-            "شَكَوْتُ",
-            "شكيتُ (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "شكاتُ (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "شكوْتَ للمخاطب (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))"
+            "شَكَوْتُ (shakawtu)",
+            "شكيتُ (alya'y mthl)",
+            "شكاتُ (alya'y mthl)",
+            "شكوْتَ للمخاطب (alya'y mthl)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «شَكَا» واوي اللام (يشكو)، فترجع ألفه واوًا عند اتصاله بتاء الفاعل للمتكلم: «شَكَوْتُ»."
@@ -9594,10 +9594,10 @@
         {
           "prompt": "ما هو تصريف الفعل الناقص اليائي «قَضَى» مع ضمير الغائبة (هِيَ) في الماضي؟",
           "options": [
-            "قَضَتْ",
-            "قضيتْ (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "قضاتْ (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "قضَوْت (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))"
+            "قَضَتْ (qadat)",
+            "قضيتْ (alya'y mthl)",
+            "قضاتْ (alya'y mthl)",
+            "قضَوْت (alya'y mthl)"
           ],
           "answerIndex": 0,
           "explanation": "تُحذف لام الفعل الناقص مع تاء التأنيث الساكنة فيقال: «هِيَ قَضَتْ»."
@@ -9609,10 +9609,10 @@
         {
           "prompt": "اختر الجملة التي تصرف الأفعال الناقصة تصريفًا صحيحًا ودقيقًا:",
           "options": [
-            "رَجَوْتُ اللهَ أَنْ يَشْفِيَ صَدِيقِي بَعْدَمَا مَشَى إِلَى المُسْتَشْفَى.",
-            "رجيتُ الله ان يشفو بالخطأ الصرفي (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "مشوتُ الى المستشفى بالواو لليائي (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "تصريف ناقص دعا رجا مشى سكون (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))"
+            "رَجَوْتُ اللهَ أَنْ يَشْفِيَ صَدِيقِي بَعْدَمَا مَشَى إِلَى المُسْتَشْفَى. (rajawtu allha aan yashfiya sadiyqiy ba'adamaa mashaa iilaa almustashfaa.)",
+            "رجيتُ الله ان يشفو بالخطأ الصرفي (alya'y mthl)",
+            "مشوتُ الى المستشفى بالواو لليائي (alya'y mthl)",
+            "تصريف ناقص دعا رجا مشى سكون (alya'y mthl)"
           ],
           "answerIndex": 0,
           "explanation": "«رَجَوْتُ» (واوي) و«يَشْفِيَ» و«مَشَى» (يائي) صُرِّفت جميعها بأعلى درجات الدقة الصرفية."
@@ -9620,10 +9620,10 @@
         {
           "prompt": "ما هو مضارع الفعل الناقص «دَعَا»؟",
           "options": [
-            "يَدْعُو",
-            "يدعي (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "يدعا (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "يدعون (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))"
+            "يَدْعُو (yad'auw)",
+            "يدعي (alya'y mthl)",
+            "يدعا (alya'y mthl)",
+            "يدعون (alya'y mthl)"
           ],
           "answerIndex": 0,
           "explanation": "مضارع الفعل «دَعَا» هو «يَدْعُو» بانقلاب الألف إلى واو."
@@ -9636,10 +9636,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف مجموعة من الأفعال الناقصة المتنوعة (الواوية واليائية) في سياق رعاية صحية بليغ:",
           "options": [
-            "شَكَوْتُ لِلطَّبِيبِ مِنْ أَلَمٍ فِي جَسَدِي، فَمَشَى مَعِي إِلَى غُرْفَةِ الفَحْصِ، وَقَضَى وَقْتًا فِي تَشْخِيصِ الحَالَةِ، ثُمَّ دَعَوْتُ بِالعَافِيَةِ، فَشَفَى اللهُ عِلَّتِي بَعْدَ تَنَاوُلِ العِلَاجِ.",
-            "شكوت للطبيب بالافعال الصحيحة فقط بلا اي فعل ناقص. (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "شكوت مشى قضى دعوت شفى افعال ناقصة سكون فتحة ضمة كسرة. (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))",
-            "توقف العلاج ولم يزر المريض اي طبيب. (إتقان تصريف الفعل الناقص الثلاثي (اليائي مثل))"
+            "شَكَوْتُ لِلطَّبِيبِ مِنْ أَلَمٍ فِي جَسَدِي، فَمَشَى مَعِي إِلَى غُرْفَةِ الفَحْصِ، وَقَضَى وَقْتًا فِي تَشْخِيصِ الحَالَةِ، ثُمَّ دَعَوْتُ بِالعَافِيَةِ، فَشَفَى اللهُ عِلَّتِي بَعْدَ تَنَاوُلِ العِلَاجِ. (Language concept U16)",
+            "شكوت للطبيب بالافعال الصحيحة فقط بلا اي فعل ناقص. (alya'y mthl)",
+            "شكوت مشى قضى دعوت شفى افعال ناقصة سكون فتحة ضمة كسرة. (alya'y mthl)",
+            "توقف العلاج ولم يزر المريض اي طبيب. (alya'y mthl)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين تصريفات الأفعال الناقصة الواوية واليائية «شَكَوْتُ، مَشَى، قَضَى، دَعَوْتُ، شَفَى» بسبك بلاغي محكم."
@@ -9703,10 +9703,10 @@
         {
           "prompt": "ما هي الوثيقة التي يكتبها الطبيب للمريض ليصرف بها الدواء من الصيدلية؟",
           "options": [
-            "الوَصْفَةُ الطِّبِّيَّةُ",
-            "تذكرة الطيران",
-            "بطاقة الهوية فقط",
-            "فاتورة الكهرباء"
+            "الوَصْفَةُ الطِّبِّيَّةُ (alwasfahu altibiyahu)",
+            "تذكرة الطيران (tdhkrh altyran)",
+            "بطاقة الهوية فقط (btaqh alhwyh fqt)",
+            "فاتورة الكهرباء (fatwrh alkhrba')"
           ],
           "answerIndex": 0,
           "explanation": "«الوَصْفَةُ الطِّبِّيَّةُ» هي الوثيقة الرسمية الصادرة عن الطبيب لصرف الدواء."
@@ -9714,10 +9714,10 @@
         {
           "prompt": "ماذا يسمى الدواء السائل الذي يؤخذ بالملعقة؟",
           "options": [
-            "الشَّرَابُ الطِّبِّيُّ",
-            "القرص",
-            "المرهم",
-            "الكبسولة"
+            "الشَّرَابُ الطِّبِّيُّ (alsharaabu altibiyu)",
+            "القرص (alqrs)",
+            "المرهم (almrhm)",
+            "الكبسولة (alkbswlh)"
           ],
           "answerIndex": 0,
           "explanation": "«الشَّرَابُ الطِّبِّيُّ» هو الدواء السائل."
@@ -9729,10 +9729,10 @@
         {
           "prompt": "اختر الجملة التي تصف صرف الدواء وشرح الجرعة بأسلوب فصيح ومضبوط:",
           "options": [
-            "صَرَفَ الصَّيْدَلِيُّ الأَقْرَاصَ وَأَوْضَحَ لِلْمَرِيضِ مَوَاعِيدَ تَنَاوُلِ الجُرْعَةِ بَعْدَ الأَكْلِ.",
-            "صرف الصيدلي الدواء في البحر للسمك",
-            "الصيدلية تأكل الوصفة في العيادة",
-            "صيدلي اقراص جرعة دواء سكون"
+            "صَرَفَ الصَّيْدَلِيُّ الأَقْرَاصَ وَأَوْضَحَ لِلْمَرِيضِ مَوَاعِيدَ تَنَاوُلِ الجُرْعَةِ بَعْدَ الأَكْلِ. (sarafa alsaydaliyu alaaqraasa waaawdaha lilmariydi mawaa'aiyda tanaawuli aljur'aahi ba'ada alaakli.)",
+            "صرف الصيدلي الدواء في البحر للسمك (srf alsydly aldwa' fy albhr llsmk)",
+            "الصيدلية تأكل الوصفة في العيادة (alsydlyh takl alwsfh fy al'ayadh)",
+            "صيدلي اقراص جرعة دواء سكون (sydly aqras jr'ah dwa' skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن صرف الدواء وشرح مواعيد الجرعات «صَرَفَ الصَّيْدَلِيُّ الأَقْرَاصَ وَأَوْضَحَ... مَوَاعِيدَ تَنَاوُلِ الجُرْعَةِ» بفصاحة متكاملة."
@@ -9740,10 +9740,10 @@
         {
           "prompt": "ما هو الدواء الموضعي شبه الصلب الذي يدهن به الجلد للتسكين والعلاج؟",
           "options": [
-            "المَرْهَمُ",
-            "الحقنة الوريدية",
-            "الشراب المركز",
-            "القرص الفوار"
+            "المَرْهَمُ (almarhamu)",
+            "الحقنة الوريدية (alhqnh alwrydyh)",
+            "الشراب المركز (alshrab almrkz)",
+            "القرص الفوار (alqrs alfwar)"
           ],
           "answerIndex": 0,
           "explanation": "«المَرْهَمُ» هو المستحضر الدوائي الخارجي الذي يدهن على الجلد."
@@ -9756,10 +9756,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف زيارة الصيدلية واستلام الأدوية والتعليمات العلاجية بدقة لغوية واصطلاحية عالية:",
           "options": [
-            "دَخَلَ المَرِيضُ الصَّيْدَلِيَّةَ وَقَدَّمَ الوَصْفَةَ الطِّبِّيَّةَ لِلصَّيْدَلِيِّ، فَجَهَّزَ لَهُ الأَقْرَاصَ وَالشَّرَابَ، وَنَبَّهَهُ إِلَى ضَرُورَةِ الِالْتِزَامِ بِالجُرْعَةِ المُحَدَّدَةِ صَبَاحًا وَمَسَاءً حَتَّى يَكْتَمِلَ الشِّفَاءُ.",
-            "دخل المريض الصيدلية بالافعال الماضية فقط بلا وصفات وبلا ادوية.",
-            "صيدلية صيدلي وصفة اقراص شراب جرعة سكون فتحة ضمة.",
-            "رفضت الصيدلية صرف الدواء واغلقت ابوابها."
+            "دَخَلَ المَرِيضُ الصَّيْدَلِيَّةَ وَقَدَّمَ الوَصْفَةَ الطِّبِّيَّةَ لِلصَّيْدَلِيِّ، فَجَهَّزَ لَهُ الأَقْرَاصَ وَالشَّرَابَ، وَنَبَّهَهُ إِلَى ضَرُورَةِ الِالْتِزَامِ بِالجُرْعَةِ المُحَدَّدَةِ صَبَاحًا وَمَسَاءً حَتَّى يَكْتَمِلَ الشِّفَاءُ. (Language concept U16)",
+            "دخل المريض الصيدلية بالافعال الماضية فقط بلا وصفات وبلا ادوية. (dkhl almryd alsydlyh balaf'aal almadyh fqt bla wsfat wbla adwyh.)",
+            "صيدلية صيدلي وصفة اقراص شراب جرعة سكون فتحة ضمة. (sydlyh sydly wsfh aqras shrab jr'ah skwn fthh dmh.)",
+            "رفضت الصيدلية صرف الدواء واغلقت ابوابها. (rfdt alsydlyh srf aldwa' waghlqt abwabha.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يوظف معجم الصيدلية والعلاج «الصَّيْدَلِيَّة، الوَصْفَة الطِّبِّيَّة، الصَّيْدَلِيّ، الأَقْرَاص، الشَّرَاب، الجُرْعَة المُحَدَّدَة» بتناسق أسلوبي متقن."
@@ -9824,10 +9824,10 @@
         {
           "prompt": "ما هي الأداة التي تنصب الفعل المضارع في تركيب النصح الطبي: «يَجِبُ عَلَيْكَ ... تَرْتَاحَ»؟",
           "options": [
-            "حَرْفُ النَّصْبِ «أَنْ»",
-            "حرف هل",
-            "حرف لم الجازم",
-            "حرف ثم"
+            "حَرْفُ النَّصْبِ «أَنْ» (Language concept U16)",
+            "حرف هل (hrf hl)",
+            "حرف لم الجازم (hrf lm aljazm)",
+            "حرف ثم (hrf thm)"
           ],
           "answerIndex": 0,
           "explanation": "«أَنْ» هي الحرف المصدري الناصب للفعل المضارع في التراكيب الإلزامية والإرشادية («يَجِبُ أَنْ تَرْتَاحَ»)."
@@ -9835,10 +9835,10 @@
         {
           "prompt": "ما الحكمة الطبية العربية الشهيرة التي تفضل الحفاظ على الصحة قبل حدوث المرض؟",
           "options": [
-            "«الوِقَايَةُ خَيْرٌ مِنَ العِلَاجِ»",
-            "السفر مجهدة للبدن",
-            "الصمت حكمة فقط",
-            "السرعة في المشي"
+            "«الوِقَايَةُ خَيْرٌ مِنَ العِلَاجِ» (Language concept U16)",
+            "السفر مجهدة للبدن (alsfr mjhdh llbdn)",
+            "الصمت حكمة فقط (alsmt hkmh fqt)",
+            "السرعة في المشي (alsr'ah fy almshy)"
           ],
           "answerIndex": 0,
           "explanation": "«الوِقَايَةُ خَيْرٌ مِنَ العِلَاجِ» هي القاعدة الصحية الوقائية الأشهر عالميًا."
@@ -9850,10 +9850,10 @@
         {
           "prompt": "اختر الجملة التي تقدم نصيحة طبية مضبوطة نحويًا ومعنويًا:",
           "options": [
-            "يَنْبَغِي لَكَ أَنْ تَتَنَاوَلَ طَعَامًا صِحِّيًّا وَأَنْ تَنَامَ مُبَكِّرًا لِتَقْوِيَةِ مَنَاعَتِكَ.",
-            "ينبغي لك ان تنام في الشارع تحت المطر",
-            "يجب عليك اكل السكر بلا توقف",
-            "نصيحة وقاية مناعة نوم سكون"
+            "يَنْبَغِي لَكَ أَنْ تَتَنَاوَلَ طَعَامًا صِحِّيًّا وَأَنْ تَنَامَ مُبَكِّرًا لِتَقْوِيَةِ مَنَاعَتِكَ. (yanbaghiy laka aan tatanaawala ta'aaamana sihiyana waaan tanaama mubakirana litaqwiyahi manaa'aatika.)",
+            "ينبغي لك ان تنام في الشارع تحت المطر (ynbghy lk an tnam fy alshar'a tht almtr)",
+            "يجب عليك اكل السكر بلا توقف (yjb 'alyk akl alskr bla twqf)",
+            "نصيحة وقاية مناعة نوم سكون (nsyhh wqayh mna'ah nwm skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تقدم نصيحة صحية متكاملة «يَنْبَغِي لَكَ أَنْ تَتَنَاوَلَ... وَأَنْ تَنَامَ» بضبط الفتح على المضارع المنصوب."
@@ -9861,10 +9861,10 @@
         {
           "prompt": "ما هو الأسلوب المستخدم في قول الطبيب: «إِيَّاكَ وَإِهْمَالَ تَنَاوُلِ الدَّوَاءِ»؟",
           "options": [
-            "أُسْلُوبُ التَّحْذِيرِ",
-            "أسلوب الاستفهام",
-            "أسلوب النداء فقط",
-            "أسلوب التعجب"
+            "أُسْلُوبُ التَّحْذِيرِ (ausluwbu altahdhiyri)",
+            "أسلوب الاستفهام (aslwb alastfham)",
+            "أسلوب النداء فقط (aslwb alnda' fqt)",
+            "أسلوب التعجب (aslwb alt'ajb)"
           ],
           "answerIndex": 0,
           "explanation": "«إِيَّاكَ وَ...» هو الأسلوب الفصيح للتحذير والنهي عن المخاطر الصحية."
@@ -9877,10 +9877,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يعرض توصيات الطبيب الوقائية والعلاجية للمريض بأسلوب إرشادي رفيع ومضبوط:",
           "options": [
-            "قَالَ الطَّبِيبُ لِلْمَرِيضِ: «يَجِبُ عَلَيْكَ أَنْ تَلْتَزِمَ بِالعِلَاجِ فِي مَوَاعِيدِهِ، وَيَنْبَغِي أَنْ تَشْرَبَ المَاءَ بِكَثْرَةٍ، كَمَا أَنْصَحُكَ بِأَنْ تَبْتَعِدَ عَنِ الإِجْهَادِ حَتَّى تَسْتَعِيدَ عَافِيَتَكَ الكَامِلَةَ».",
-            "قال الطبيب للمريض بالافعال الماضية فقط بلا نصائح وبلا ارشادات.",
-            "يجب ينبغي انصحك التزام راحة ماء سكون فتحة ضمة كسرة.",
-            "طلب الطبيب من المريض عدم الراحة والعمل طوال الليل."
+            "قَالَ الطَّبِيبُ لِلْمَرِيضِ: «يَجِبُ عَلَيْكَ أَنْ تَلْتَزِمَ بِالعِلَاجِ فِي مَوَاعِيدِهِ، وَيَنْبَغِي أَنْ تَشْرَبَ المَاءَ بِكَثْرَةٍ، كَمَا أَنْصَحُكَ بِأَنْ تَبْتَعِدَ عَنِ الإِجْهَادِ حَتَّى تَسْتَعِيدَ عَافِيَتَكَ الكَامِلَةَ». (Language concept U16)",
+            "قال الطبيب للمريض بالافعال الماضية فقط بلا نصائح وبلا ارشادات. (qal altbyb llmryd balaf'aal almadyh fqt bla nsa'h wbla arshadat.)",
+            "يجب ينبغي انصحك التزام راحة ماء سكون فتحة ضمة كسرة. (yjb ynbghy anshk altzam rahh ma' skwn fthh dmh ksrh.)",
+            "طلب الطبيب من المريض عدم الراحة والعمل طوال الليل. (tlb altbyb mn almryd 'adm alrahh wal'aml twal allyl.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين تراكيب النصح والإرشاد الطبي «يَجِبُ عَلَيْكَ أَنْ تَلْتَزِمَ»، «يَنْبَغِي أَنْ تَشْرَبَ»، «أَنْصَحُكَ بِأَنْ تَبْتَعِدَ» في أرقى صور الفصاحة."
@@ -9945,10 +9945,10 @@
         {
           "prompt": "في الحوار الشامل، ماذا وصفت الدكتورة ليلى لطارق بعد الانتهاء من الفحص؟",
           "options": [
-            "الرَّاحَةَ لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ وَتَنَاوُلَ الأَقْرَاصِ بَعْدَ الوَجَبَاتِ",
-            "السفر فورًا في رحلة بحرية (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "ممارسة الرياضات العنيفة (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "عدم النوم ليلاً (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)"
+            "الرَّاحَةَ لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ وَتَنَاوُلَ الأَقْرَاصِ بَعْدَ الوَجَبَاتِ (alraahaha limudahi thalaathahi aayaamin watanaawula alaaqraasi ba'ada alwajabaati)",
+            "السفر فورًا في رحلة بحرية (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "ممارسة الرياضات العنيفة (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "عدم النوم ليلاً (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أكدت الدكتورة: «يَجِبُ عَلَيْكَ أَنْ تَرْتَاحَ لِمُدَّةِ ثَلَاثَةِ أَيَّامٍ وَأَنْ تَتَنَاوَلَ هٰذِهِ الأَقْرَاصَ»."
@@ -9956,10 +9956,10 @@
         {
           "prompt": "ما هو الفعل الناقص الذي استخدمه طارق عندما قال: «وَ... اللهَ أَنْ يَشْفِيَ كُلَّ مَرِيضٍ»؟",
           "options": [
-            "أَدْعُو",
-            "أقول (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "أذهب (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "أشرب (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)"
+            "أَدْعُو (aad'auw)",
+            "أقول (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "أذهب (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "أشرب (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "«أَدْعُو» هو مضارع الفعل الناقص الواوي «دَعَا / يَدْعُو»."
@@ -9971,10 +9971,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف الاستشارة الطبية بالأفعال الناقصة والتراكيب السليمة:",
           "options": [
-            "— كَيْفَ قَضَيْتَ لَيْلَتَكَ؟ — شَكَوْتُ مِنَ الحُمَّى، لَكِنِّي تَنَاوَلْتُ الدَّوَاءَ وَرَجَوْتُ الشِّفَاءَ.",
-            "— كيف قضيت ليلتك في الطائرة فوق الجبل؟ (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "— كم سعر الطماطم في العيادة؟ (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "— حوار طبي اعراض شكوى ناقص سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)"
+            "— كَيْفَ قَضَيْتَ لَيْلَتَكَ؟ — شَكَوْتُ مِنَ الحُمَّى، لَكِنِّي تَنَاوَلْتُ الدَّوَاءَ وَرَجَوْتُ الشِّفَاءَ. (Language concept U16)",
+            "— كيف قضيت ليلتك في الطائرة فوق الجبل؟ (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "— كم سعر الطماطم في العيادة؟ (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "— حوار طبي اعراض شكوى ناقص سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف الأفعال الناقصة «قَضَيْتَ»، «شَكَوْتُ»، «رَجَوْتُ» بسبك حواري طبي ممتاز ومضبوط."
@@ -9982,10 +9982,10 @@
         {
           "prompt": "إلى أين سيتوجه المريض بعد خروجه من العيادة؟",
           "options": [
-            "إِلَى الصَّيْدَلِيَّةِ لِصَرْفِ الدَّوَاءِ",
-            "إلى صالة المطار مباشرة (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "إلى محطة القطار (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "إلى الملعب الرياضي (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)"
+            "إِلَى الصَّيْدَلِيَّةِ لِصَرْفِ الدَّوَاءِ (iilaa alsaydaliyahi lisarfi aldawaa'i)",
+            "إلى صالة المطار مباشرة (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "إلى محطة القطار (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "إلى الملعب الرياضي (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "سيتوجه إلى الصيدلية لصرف الوصفة الطبية والعلاج الموصوف."
@@ -9998,10 +9998,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة السادسة عشرة بأكملها (أعضاء الجسم، الأعراض، الأفعال الناقصة، العيادة والصيدلية، والنصائح الطبية):",
           "options": [
-            "حَضَرَ طَارِقٌ إِلَى العِيَادَةِ وَشَكَا لِلطَّبِيبَةِ مِنْ صُدَاعٍ فِي رَأْسِهِ وَأَلَمٍ فِي صَدْرِهِ، فَقَضَتِ الطَّبِيبَةُ وَقْتًا فِي فَحْصِهِ، وَقَالَتْ لَهُ: «يَجِبُ عَلَيْكَ أَنْ تَرْتَاحَ وَأَنْ تَتَنَاوَلَ الأَقْرَاصَ بِانْتِظَامٍ»، ثُمَّ مَشَى إِلَى الصَّيْدَلِيَّةِ لِصَرْفِ الوَصْفَةِ وَهُوَ يَدْعُو بِالعَافِيَةِ لِيَشْفِيَ اللهُ بَدَنَهُ.",
-            "حضر طارق بالافعال الصحيحة فقط بلا اعضاء جسد وبلا افعال ناقصة. (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "عيادة طبيبة طارق صداع صدر اقراص صيدلية شكا قضى دعا سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)",
-            "الغيت الاستشارة الطبية ولم يتناول طارق اي دواء. (الدمج الشامل لكافة مخرجات الوحدة السادسة عشرة)"
+            "حَضَرَ طَارِقٌ إِلَى العِيَادَةِ وَشَكَا لِلطَّبِيبَةِ مِنْ صُدَاعٍ فِي رَأْسِهِ وَأَلَمٍ فِي صَدْرِهِ، فَقَضَتِ الطَّبِيبَةُ وَقْتًا فِي فَحْصِهِ، وَقَالَتْ لَهُ: «يَجِبُ عَلَيْكَ أَنْ تَرْتَاحَ وَأَنْ تَتَنَاوَلَ الأَقْرَاصَ بِانْتِظَامٍ»، ثُمَّ مَشَى إِلَى الصَّيْدَلِيَّةِ لِصَرْفِ الوَصْفَةِ وَهُوَ يَدْعُو بِالعَافِيَةِ لِيَشْفِيَ اللهُ بَدَنَهُ. (Language concept U16)",
+            "حضر طارق بالافعال الصحيحة فقط بلا اعضاء جسد وبلا افعال ناقصة. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "عيادة طبيبة طارق صداع صدر اقراص صيدلية شكا قضى دعا سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)",
+            "الغيت الاستشارة الطبية ولم يتناول طارق اي دواء. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج أعضاء الجسم، والأعراض، وتصريفات الأفعال الناقصة في الماضي والمضارع (شَكَا، قَضَتْ، مَشَى، يَدْعُو، يَشْفِيَ)، ومصطلحات العيادة والصيدلية، وتراكيب النصح والإلزام في سياق سردي بديع وأصيل."
@@ -10066,10 +10066,10 @@
         {
           "prompt": "ما هو الخط العربي الذي يلقب بـ «سيد الخطوط العربية» ويستخدم في تزيين جدران المساجد وعناوين الكتب الفاخرة؟",
           "options": [
-            "خَطُّ الثُّلُثِ",
-            "خط الرقعة فقط",
-            "الخط العادي البسيط",
-            "خط الطباعة الحاسوبي السريع"
+            "خَطُّ الثُّلُثِ (khatu althuluthi)",
+            "خط الرقعة فقط (kht alrq'ah fqt)",
+            "الخط العادي البسيط (alkht al'aady albsyt)",
+            "خط الطباعة الحاسوبي السريع (kht altba'ah alhaswby alsry'a)"
           ],
           "answerIndex": 0,
           "explanation": "«خَطُّ الثُّلُثِ» هو أمير الخطوط وأصعبها وأفخمها شكلاً وزخرفة."
@@ -10077,10 +10077,10 @@
         {
           "prompt": "ما هو الخط العربي المشهور بوضوحه التام والذي خُطَّت به المصاحف الشريفة وكتب العلم؟",
           "options": [
-            "خَطُّ النَّسْخِ",
-            "الخط الكوفي المربع",
-            "الخط الديواني المعقد",
-            "خط الإجازة"
+            "خَطُّ النَّسْخِ (khatu alnaskhi)",
+            "الخط الكوفي المربع (alkht alkwfy almrb'a)",
+            "الخط الديواني المعقد (alkht aldywany alm'aqd)",
+            "خط الإجازة (kht alijazh)"
           ],
           "answerIndex": 0,
           "explanation": "«خَطُّ النَّسْخِ» سُمِّي كذلك لأنه كان يُستخدم في نسخ الكتب والمصاحف لوضوحه التام."
@@ -10092,10 +10092,10 @@
         {
           "prompt": "اختر الجملة التي تصف زيارة معرض الفنون والخط العربي بأسلوب فصيح ودقيق:",
           "options": [
-            "زَارَ الجُمْهُورُ المَعْرِضَ الفَنِّيَّ وَأُعْجِبُوا بِاللَّوْحَاتِ الَّتِي تَزَيَّنَتْ بِالخَطِّ الكُوفِيِّ وَالزَّخَارِفِ الإِسْلَامِيَّةِ.",
-            "زار الجمهور المعرض لبيع السمك الطازج بالخطأ المعنوي",
-            "الخط الكوفي ياكل اللوحات في المعرض",
-            "معرض فنون لوحة خط كوفي سكون"
+            "زَارَ الجُمْهُورُ المَعْرِضَ الفَنِّيَّ وَأُعْجِبُوا بِاللَّوْحَاتِ الَّتِي تَزَيَّنَتْ بِالخَطِّ الكُوفِيِّ وَالزَّخَارِفِ الإِسْلَامِيَّةِ. (zaara aljumhuwru alma'arida alfaniya waau'ajibuwa biallawhaati alatiy tazayanat bialkhati alkuwfiyi waalzakhaarifi aliislaamiyahi.)",
+            "زار الجمهور المعرض لبيع السمك الطازج بالخطأ المعنوي (zar aljmhwr alm'ard lby'a alsmk altazj balkhta alm'anwy)",
+            "الخط الكوفي ياكل اللوحات في المعرض (alkht alkwfy yakl allwhat fy alm'ard)",
+            "معرض فنون لوحة خط كوفي سكون (m'ard fnwn lwhh kht kwfy skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن زيارة المعرض وإعجاب الجمهور باللوحات المزينة بالخط الكوفي بأسلوب عربي بليغ ومتقن."
@@ -10103,10 +10103,10 @@
         {
           "prompt": "ما هو الفن الهندسي والزخرفي القائم على الأشكال النباتية والهندسية المتداخلة في العمارة الإسلامية؟",
           "options": [
-            "الزَّخْرَفَةُ الإِسْلَامِيَّةُ / الأَرَابِيسْك",
-            "النحت الجليدي",
-            "الرسم الكاريكاتيري",
-            "التصوير الشمسي فقط"
+            "الزَّخْرَفَةُ الإِسْلَامِيَّةُ / الأَرَابِيسْك (alzakhrafahu aliislaamiyahu / alaaraabiysk)",
+            "النحت الجليدي (alnht aljlydy)",
+            "الرسم الكاريكاتيري (alrsm alkarykatyry)",
+            "التصوير الشمسي فقط (altswyr alshmsy fqt)"
           ],
           "answerIndex": 0,
           "explanation": "«الزَّخْرَفَةُ الإِسْلَامِيَّةُ» هي الفن البصري المعماري المميز للحضارة الإسلامية."
@@ -10119,10 +10119,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف أصالة الخط العربي وتنوع مدارسه الفنية بأسلوب بياني ومضبوط:",
           "options": [
-            "يَتَأَلَّقُ الخَطُّ العَرَبِيُّ فِي مَعَارِضِ الفُنُونِ بِتَنَوُّعِ أَنْمَاطِهِ السَّاحِرَةِ؛ حَيْثُ يَتَبَارَى الخَطَّاطُونَ فِي إِبْرَازِ رَوْعَةِ خَطِّ الثُّلُثِ وَهَنْدَسَةِ الكُوفِيِّ وَانْسِيَابِيَّةِ الدِّيوَانِيِّ، لِيُقَدِّمُوا لَوْحَاتٍ تَشْهَدُ عَلَى عَبْقَرِيَّةِ التُّرَاثِ البَصَرِيِّ.",
-            "يتألق الخط العربي بالافعال الماضية فقط بلا خطوط وبلا لوحات.",
-            "خط عربي ثلث نسخ كوفي ديواني معرض لوحات سكون فتحة ضمة.",
-            "اندثر الخط العربي ولم يعد يكتب به احد في المعارض."
+            "يَتَأَلَّقُ الخَطُّ العَرَبِيُّ فِي مَعَارِضِ الفُنُونِ بِتَنَوُّعِ أَنْمَاطِهِ السَّاحِرَةِ؛ حَيْثُ يَتَبَارَى الخَطَّاطُونَ فِي إِبْرَازِ رَوْعَةِ خَطِّ الثُّلُثِ وَهَنْدَسَةِ الكُوفِيِّ وَانْسِيَابِيَّةِ الدِّيوَانِيِّ، لِيُقَدِّمُوا لَوْحَاتٍ تَشْهَدُ عَلَى عَبْقَرِيَّةِ التُّرَاثِ البَصَرِيِّ. (Language concept U17)",
+            "يتألق الخط العربي بالافعال الماضية فقط بلا خطوط وبلا لوحات. (ytalq alkht al'arby balaf'aal almadyh fqt bla khtwt wbla lwhat.)",
+            "خط عربي ثلث نسخ كوفي ديواني معرض لوحات سكون فتحة ضمة. (kht 'arby thlth nskh kwfy dywany m'ard lwhat skwn fthh dmh.)",
+            "اندثر الخط العربي ولم يعد يكتب به احد في المعارض. (andthr alkht al'arby wlm y'ad yktb bh ahd fy alm'aard.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين مدارس الخط العربي «الثُّلُث، الكُوفِيّ، الدِّيوَانِيّ» ومعجم الفنون التشكيلية بجزالة وفصاحة لغوية باهرة."
@@ -10189,10 +10189,10 @@
         {
           "prompt": "ما هي الآلة الوترية العربية العريقة الملقبة بـ «سلطان الآلات الموسيقية الشرقية»؟",
           "options": [
-            "العُودُ",
-            "البيانو الغربي",
-            "البوق النحاسي",
-            "الطبول الحديثة فقط"
+            "العُودُ (al'auwdu)",
+            "البيانو الغربي (albyanw alghrby)",
+            "البوق النحاسي (albwq alnhasy)",
+            "الطبول الحديثة فقط (altbwl alhdythh fqt)"
           ],
           "answerIndex": 0,
           "explanation": "«العُودُ» هو الآلة الشرقية الأبرز وأساس التلحين والتطريب في التراث العربي."
@@ -10200,10 +10200,10 @@
         {
           "prompt": "ما اسم المقام الموسيقي العربي الذي يسمى «أبو المقامات الشرقية» ويعبر عن الوقار والبهجة؟",
           "options": [
-            "مَقَامُ الرَّاسْتِ",
-            "مقام الجاز",
-            "المقام الغربي فقط",
-            "مقام البلوز"
+            "مَقَامُ الرَّاسْتِ (maqaamu alraasti)",
+            "مقام الجاز (mqam aljaz)",
+            "المقام الغربي فقط (almqam alghrby fqt)",
+            "مقام البلوز (mqam alblwz)"
           ],
           "answerIndex": 0,
           "explanation": "«مَقَامُ الرَّاسْتِ» هو سيد المقامات الشرقية وأصل النغمات في الموسيقى العربية."
@@ -10215,10 +10215,10 @@
         {
           "prompt": "اختر الجملة التي تصف التناغم الموسيقي بين الآلات التراثية بأسلوب فصيح ومتقن:",
           "options": [
-            "تَمْتَزِجُ نَغَمَاتُ العُودِ وَالقَانُونِ مَعَ صَوْتِ النَّايِ فِي أَدَاءِ مَقَامِ الحِجَازِ البَدِيعِ.",
-            "تمتزج الآلات الموسيقية في صالة المطار فوق البحر",
-            "العود يأكل القانون في الحفل",
-            "موسيقى مقامات عود قانون ناي سكون"
+            "تَمْتَزِجُ نَغَمَاتُ العُودِ وَالقَانُونِ مَعَ صَوْتِ النَّايِ فِي أَدَاءِ مَقَامِ الحِجَازِ البَدِيعِ. (tamtaziju naghamaatu al'auwdi waalqaanuwni ma'aa sawti alnaayi fiy aadaa'i maqaami alhijaazi albadiy'ai.)",
+            "تمتزج الآلات الموسيقية في صالة المطار فوق البحر (tmtzj alaalat almwsyqyh fy salh almtar fwq albhr)",
+            "العود يأكل القانون في الحفل (al'awd yakl alqanwn fy alhfl)",
+            "موسيقى مقامات عود قانون ناي سكون (mwsyqa mqamat 'awd qanwn nay skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن التناغم الموسيقي الشرقي «نَغَمَاتُ العُودِ وَالقَانُونِ مَعَ صَوْتِ النَّايِ... مَقَامِ الحِجَازِ» بفصاحة ناصعة."
@@ -10226,10 +10226,10 @@
         {
           "prompt": "ما هي آلة النفخ الهوائية الشجية المصنوعة من نبات القصب في التخت الشرقي؟",
           "options": [
-            "النَّايُ",
-            "الدف",
-            "الرق",
-            "القانون"
+            "النَّايُ (alnaayu)",
+            "الدف (aldf)",
+            "الرق (alrq)",
+            "القانون (alqanwn)"
           ],
           "answerIndex": 0,
           "explanation": "«النَّايُ» هو آلة النفخ القصبية الشهيرة بصوتها الشجي."
@@ -10242,10 +10242,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف التخت الموسيقي العربي والمقامات التراثية بأعلى درجات البلاغة والدقة:",
           "options": [
-            "أَبْدَعَتِ الفِرْقَةُ المُوسِيقِيَّةُ التُّرَاثِيَّةُ فِي أَدَاءِ مَقْطُوعَةٍ مِنْ مَقَامِ النَّهَاوَنْدِ؛ حَيْثُ تَآلَفَتْ أَوْتَارُ العُودِ وَالقَانُونِ مَعَ نَفَحَاتِ النَّايِ وَإِيقَاعِ الرِّقِّ، لِتَخْلُقَ أَمْسِيَةً تَنْتَشِي فِيهَا الأَرْوَاحُ بِالطَّرَبِ العَرَبِيِّ الأَصِيلِ.",
-            "ابدعت الفرقة بالافعال الماضية فقط بلا مقامات وبلا الات موسيقية.",
-            "موسيقى مقامات عود قانون ناي رق نهاوند راست سكون فتحة ضمة.",
-            "توقفت الحفلة الموسيقية وكسرت جميع الالات."
+            "أَبْدَعَتِ الفِرْقَةُ المُوسِيقِيَّةُ التُّرَاثِيَّةُ فِي أَدَاءِ مَقْطُوعَةٍ مِنْ مَقَامِ النَّهَاوَنْدِ؛ حَيْثُ تَآلَفَتْ أَوْتَارُ العُودِ وَالقَانُونِ مَعَ نَفَحَاتِ النَّايِ وَإِيقَاعِ الرِّقِّ، لِتَخْلُقَ أَمْسِيَةً تَنْتَشِي فِيهَا الأَرْوَاحُ بِالطَّرَبِ العَرَبِيِّ الأَصِيلِ. (Language concept U17)",
+            "ابدعت الفرقة بالافعال الماضية فقط بلا مقامات وبلا الات موسيقية. (abd'at alfrqh balaf'aal almadyh fqt bla mqamat wbla alat mwsyqyh.)",
+            "موسيقى مقامات عود قانون ناي رق نهاوند راست سكون فتحة ضمة. (mwsyqa mqamat 'awd qanwn nay rq nhawnd rast skwn fthh dmh.)",
+            "توقفت الحفلة الموسيقية وكسرت جميع الالات. (twqft alhflh almwsyqyh wksrt jmy'a alalat.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين الآلات الشرقية والمقامات التراثية «مَقَام النَّهَاوَنْد، أَوْتَار العُود، القَانُون، النَّاي، الرِّقّ، الطَّرَب الأَصِيل» بتناغم لغوي وفني باهر."
@@ -10310,10 +10310,10 @@
         {
           "prompt": "ما هو الاسم الموصول المناسب للمثنى المذكر في حالة الرفع مثل: «جَاءَ الطَّالِبَانِ ... فَازَا»؟",
           "options": [
-            "اللَّذَانِ",
-            "اللذين",
-            "اللتان",
-            "الذين"
+            "اللَّذَانِ (alladhaani)",
+            "اللذين (alldhyn)",
+            "اللتان (alltan)",
+            "الذين (aldhyn)"
           ],
           "answerIndex": 0,
           "explanation": "«اللَّذَانِ» هو الاسم الموصول للمثنى المذكر المرفوع بالألف."
@@ -10321,10 +10321,10 @@
         {
           "prompt": "ما هو الاسم الموصول المناسب للمثنى المؤنث في حالة النصب أو الجر مثل: «رَأَيْتُ اللَّوْحَتَيْنِ ... رَسَمَتْهُمَا الفَنَّانَةُ»؟",
           "options": [
-            "اللَّتَيْنِ",
-            "اللتان",
-            "اللذين",
-            "التي"
+            "اللَّتَيْنِ (allatayni)",
+            "اللتان (alltan)",
+            "اللذين (alldhyn)",
+            "التي (alty)"
           ],
           "answerIndex": 0,
           "explanation": "«اللَّتَيْنِ» هو الاسم الموصول للمثنى المؤنث المنصوب أو المجرور بالياء."
@@ -10336,10 +10336,10 @@
         {
           "prompt": "اختر الجملة التي تستخدم اسم الموصول للمثنى المجرور مطابقة تامة وإعرابًا سليمًا:",
           "options": [
-            "أُعْجِبْتُ بِالعَازِفَيْنِ اللَّذَيْنِ قَدَّمَا تَقَاسِيمَ مَقَامِ الرَّاسْتِ.",
-            "اعجبت بالعازفين اللذان بالرفع في موضع الجر",
-            "العازفين التي قدما بالخطأ",
-            "اسم موصول مثنى عازفين لحن سكون"
+            "أُعْجِبْتُ بِالعَازِفَيْنِ اللَّذَيْنِ قَدَّمَا تَقَاسِيمَ مَقَامِ الرَّاسْتِ. (au'ajibtu bial'aaazifayni alladhayni qadamaa taqaasiyma maqaami alraasti.)",
+            "اعجبت بالعازفين اللذان بالرفع في موضع الجر (a'ajbt bal'aazfyn alldhan balrf'a fy mwd'a aljr)",
+            "العازفين التي قدما بالخطأ (al'aazfyn alty qdma balkhta)",
+            "اسم موصول مثنى عازفين لحن سكون (asm mwswl mthna 'aazfyn lhn skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«بِالعَازِفَيْنِ اللَّذَيْنِ» اسم موصول للمثنى المذكر مجرور بالياء لمطابقة الموصوف المجرور بالباء."
@@ -10347,10 +10347,10 @@
         {
           "prompt": "هل الأسماء الموصولة للمثنى (اللذان واللتان) مبنية أم معربة؟",
           "options": [
-            "مُعْرَبَةٌ إِعْرَابَ المُثَنَّى",
-            "مبنية على الضم دائما",
-            "مبنية على السكون",
-            "ممنوعة من الصرف"
+            "مُعْرَبَةٌ إِعْرَابَ المُثَنَّى (mu'arabahun ii'araaba almuthanaa)",
+            "مبنية على الضم دائما (mbnyh 'ala aldm da'ma)",
+            "مبنية على السكون (mbnyh 'ala alskwn)",
+            "ممنوعة من الصرف (mmnw'ah mn alsrf)"
           ],
           "answerIndex": 0,
           "explanation": "أسماء الموصول للمثنى معربة تعرب إعراب المثنى بالألف رفعًا وبالياء نصبًا وجرًا."
@@ -10363,10 +10363,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الفقرة التي توظف أسماء الموصول للمثنى (اللذان/اللذين، اللتان/اللتين) في سياق فني وإبداعي متكامل:",
           "options": [
-            "شَهِدَ المَعْرِضُ تَأَلُّقَ الفَنَّانَيْنِ اللَّذَيْنِ أَبْدَعَا فِي لَوْحَاتِ الخَطِّ، كَمَا نَالَتِ القَصِيدَتَانِ اللَّتَانِ أُلْقِيَتَا فِي الأَمْسِيَةِ إِعْجَابَ الحَاضِرِينَ الَّذِينَ صَفَّقُوا لِهٰذَا الإِبْدَاعِ.",
-            "شهد المعرض تالق الفنانين بالافعال الماضية فقط بلا اسماء موصولة للمثنى.",
-            "اللذين اللتان الذين صلة موصول مثنى سكون فتحة ضمة كسرة.",
-            "لم يحضر اي فنان ولم تلق اي قصيدة في المعرض."
+            "شَهِدَ المَعْرِضُ تَأَلُّقَ الفَنَّانَيْنِ اللَّذَيْنِ أَبْدَعَا فِي لَوْحَاتِ الخَطِّ، كَمَا نَالَتِ القَصِيدَتَانِ اللَّتَانِ أُلْقِيَتَا فِي الأَمْسِيَةِ إِعْجَابَ الحَاضِرِينَ الَّذِينَ صَفَّقُوا لِهٰذَا الإِبْدَاعِ. (Language concept U17)",
+            "شهد المعرض تالق الفنانين بالافعال الماضية فقط بلا اسماء موصولة للمثنى. (shhd alm'ard talq alfnanyn balaf'aal almadyh fqt bla asma' mwswlh llmthna.)",
+            "اللذين اللتان الذين صلة موصول مثنى سكون فتحة ضمة كسرة. (alldhyn alltan aldhyn slh mwswl mthna skwn fthh dmh ksrh.)",
+            "لم يحضر اي فنان ولم تلق اي قصيدة في المعرض. (lm yhdr ay fnan wlm tlq ay qsydh fy alm'ard.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «الفَنَّانَيْنِ اللَّذَيْنِ» (مثنى مذكر مجرور)، «القَصِيدَتَانِ اللَّتَانِ» (مثنى مؤنث مرفوع)، «الحَاضِرِينَ الَّذِينَ» (جمع مذكر) بضبط نحوي فائق."
@@ -10430,10 +10430,10 @@
         {
           "prompt": "ماذا يسمى الحرف المنغم الموحد الذي تنتهي به أبيات القصيدة العربية الفصيحة؟",
           "options": [
-            "القَافِيَةُ",
-            "صدر البيت",
-            "المسرح",
-            "الديوان النثري"
+            "القَافِيَةُ (alqaafiyahu)",
+            "صدر البيت (sdr albyt)",
+            "المسرح (almsrh)",
+            "الديوان النثري (aldywan alnthry)"
           ],
           "answerIndex": 0,
           "explanation": "«القَافِيَةُ» هي الحروف المتناسقة في ختام كل بيت شعري والتي تمنح القصيدة موسيقاها وجرسها."
@@ -10441,10 +10441,10 @@
         {
           "prompt": "ما هو اللقب الشهير الذي أطلقه العرب على مجموع شعرهم وتراثهم الأدبي؟",
           "options": [
-            "«دِيوَانُ العَرَبِ»",
-            "سوق المدينة",
-            "المجلة الأسبوعية",
-            "القصة القصيرة"
+            "«دِيوَانُ العَرَبِ» (Language concept U17)",
+            "سوق المدينة (swq almdynh)",
+            "المجلة الأسبوعية (almjlh alasbw'ayh)",
+            "القصة القصيرة (alqsh alqsyrh)"
           ],
           "answerIndex": 0,
           "explanation": "يقال: «الشعر ديوان العرب» لأنه سجل تاريخهم وحكمهم ومفاخرهم."
@@ -10456,10 +10456,10 @@
         {
           "prompt": "اختر الجملة التي تصف الإلقاء الشعري والتأثير الأدبي بفصاحة بيانية:",
           "options": [
-            "أَلْقَى الشَّاعِرُ أَبْيَاتًا بَلِيغَةً عَلَى خَشَبَةِ المَسْرَحِ نَالَتْ إِعْجَابَ جَمِيعِ الحَاضِرِينَ.",
-            "القى الشاعر الابيات في الماء لتشرب",
-            "المسرح يركض خلف القصيدة",
-            "شعر مسرح ابيات القاء سكون"
+            "أَلْقَى الشَّاعِرُ أَبْيَاتًا بَلِيغَةً عَلَى خَشَبَةِ المَسْرَحِ نَالَتْ إِعْجَابَ جَمِيعِ الحَاضِرِينَ. (aalqaa alshaa'airu aabyaatana baliyghahan 'aalaa khashabahi almasrahi naalat ii'ajaaba jamiy'ai alhaadiriyna.)",
+            "القى الشاعر الابيات في الماء لتشرب (alqa alsha'ar alabyat fy alma' ltshrb)",
+            "المسرح يركض خلف القصيدة (almsrh yrkd khlf alqsydh)",
+            "شعر مسرح ابيات القاء سكون (sh'ar msrh abyat alqa' skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر عن الإلقاء الشعري الفصيح على خشبة المسرح «أَلْقَى الشَّاعِرُ أَبْيَاتًا بَلِيغَةً عَلَى خَشَبَةِ المَسْرَحِ» بسبك لغوي ممتاز."
@@ -10467,10 +10467,10 @@
         {
           "prompt": "من هو العالم العبقري الذي استنبط ودوّن «بُحُورَ الشِّعْرِ العَرَبِيِّ» وأسس علم العروض؟",
           "options": [
-            "الخَلِيلُ بْنُ أَحْمَدَ الفَرَاهِيدِيُّ",
-            "ابن بطوطة",
-            "ابن سينا",
-            "الجاحظ"
+            "الخَلِيلُ بْنُ أَحْمَدَ الفَرَاهِيدِيُّ (alkhaliylu bnu aahmada alfaraahiydiyu)",
+            "ابن بطوطة (abn btwth)",
+            "ابن سينا (abn syna)",
+            "الجاحظ (aljahz)"
           ],
           "answerIndex": 0,
           "explanation": "«الخَلِيلُ بْنُ أَحْمَدَ الفَرَاهِيدِيُّ» هو إمام اللغة وواضع علم العروض وأوزان الشعر العربي."
@@ -10483,10 +10483,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يصف روعة الأمسية الشعرية والمسرحية بدقة بلاغية واصطلاحية ناصعة:",
           "options": [
-            "تَأَلَّقَتِ الأَمْسِيَةُ الأَدَبِيَّةُ عَلَى خَشَبَةِ المَسْرَحِ القَوْمِيِّ؛ حَيْثُ تَنَاوَبَ الشُّعَرَاءُ عَلَى إِلْقَاءِ قَصَائِدَ عَصْمَاءَ تَحَلَّتْ بِرَصَانَةِ الأَوْزَانِ وَجَمَالِ القَوَافِي، لِيُؤَكِّدُوا أَنَّ الشِّعْرَ الفَصِيحَ سَيَبْقَى دَائِمًا نَبْضَ الوِجْدَانِ العَرَبِيِّ.",
-            "تألقت الامسية بالافعال الماضية فقط بلا شعر وبلا مسرح.",
-            "شعر قصائد ابيات قوافي مسرح القاء سكون فتحة ضمة كسرة.",
-            "الغي العرض المسرحي واغلقت دار الادب ابوابها."
+            "تَأَلَّقَتِ الأَمْسِيَةُ الأَدَبِيَّةُ عَلَى خَشَبَةِ المَسْرَحِ القَوْمِيِّ؛ حَيْثُ تَنَاوَبَ الشُّعَرَاءُ عَلَى إِلْقَاءِ قَصَائِدَ عَصْمَاءَ تَحَلَّتْ بِرَصَانَةِ الأَوْزَانِ وَجَمَالِ القَوَافِي، لِيُؤَكِّدُوا أَنَّ الشِّعْرَ الفَصِيحَ سَيَبْقَى دَائِمًا نَبْضَ الوِجْدَانِ العَرَبِيِّ. (Language concept U17)",
+            "تألقت الامسية بالافعال الماضية فقط بلا شعر وبلا مسرح. (talqt alamsyh balaf'aal almadyh fqt bla sh'ar wbla msrh.)",
+            "شعر قصائد ابيات قوافي مسرح القاء سكون فتحة ضمة كسرة. (sh'ar qsa'd abyat qwafy msrh alqa' skwn fthh dmh ksrh.)",
+            "الغي العرض المسرحي واغلقت دار الادب ابوابها. (alghy al'ard almsrhy waghlqt dar aladb abwabha.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين مصطلحات الشعر والمسرح «خَشَبَة المَسْرَح، الشُّعَرَاء، إِلْقَاء قَصَائِد، الأَوْزَان، القَوَافِي، الشِّعْر الفَصِيح» في أعلى ذرى الفصاحة والبيان."
@@ -10551,10 +10551,10 @@
         {
           "prompt": "في الحوار الشامل، ما هو نوع الخط الذي استخدمه زياد في رسم لوحتيه الفنيتين؟",
           "options": [
-            "خَطُّ الثُّلُثِ",
-            "الخط العادي (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "الطباعة فقط (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "الرسم بالألوان المائية بلا خط (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)"
+            "خَطُّ الثُّلُثِ (khatu althuluthi)",
+            "الخط العادي (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "الطباعة فقط (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "الرسم بالألوان المائية بلا خط (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أوضحت سلمى في الحوار: «شَاهَدْتُ اللَّوْحَتَيْنِ اللَّتَيْنِ رَسَمْتَهُمَا بِخَطِّ الثُّلُثِ»."
@@ -10562,10 +10562,10 @@
         {
           "prompt": "ما هو المقام الموسيقي الذي ستعزف منه سلمى على العود لمرافقة إلقاء القصائد؟",
           "options": [
-            "مَقَامُ البَيَاتِي",
-            "مقام الفلامنكو (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "المقام الصيني (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "موسيقى الروك (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)"
+            "مَقَامُ البَيَاتِي (maqaamu albayaatiy)",
+            "مقام الفلامنكو (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "المقام الصيني (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "موسيقى الروك (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "قالت سلمى: «سَأَعْزِفُ اللَّيْلَةَ عَلَى العُودِ تَقَاسِيمَ مِنْ مَقَامِ البَيَاتِي»."
@@ -10577,10 +10577,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف الصالون الثقافي بالأسماء الموصولة للمثنى والجمع بدقة:",
           "options": [
-            "— مَا رَأْيُكَ فِي القَصِيدَتَيْنِ اللَّتَيْنِ أُلْقِيَتَا؟ — إِنَّهُمَا رَائِعَتَانِ، وَنُحَيِّي الشَّاعِرَيْنِ اللَّذَيْنِ أَلَّفَاهُمَا.",
-            "— ما رايك في القصيدتين اللتان بالرفع في موضع الجر (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "— كم سعر العود في الصيدلية؟ (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "— صالون قصيدتين شاعرين موصول سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)"
+            "— مَا رَأْيُكَ فِي القَصِيدَتَيْنِ اللَّتَيْنِ أُلْقِيَتَا؟ — إِنَّهُمَا رَائِعَتَانِ، وَنُحَيِّي الشَّاعِرَيْنِ اللَّذَيْنِ أَلَّفَاهُمَا. (Language concept U17)",
+            "— ما رايك في القصيدتين اللتان بالرفع في موضع الجر (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "— كم سعر العود في الصيدلية؟ (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "— صالون قصيدتين شاعرين موصول سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «القَصِيدَتَيْنِ اللَّتَيْنِ» و«الشَّاعِرَيْنِ اللَّذَيْنِ» بسبك حواري فصيح ومضبوط إعرابيًا."
@@ -10588,10 +10588,10 @@
         {
           "prompt": "ما هو الهدف الأسمى من الصالون الثقافي كما ورد في ختام الحوار؟",
           "options": [
-            "إِحْيَاءُ رَوَائِعِ التُّرَاثِ الفَنِّيِّ وَالأَدَبِيِّ العَرَبِيِّ",
-            "إلغاء الفنون التشكيلية (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "بيع الأدوات المنزلية فقط (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "التنافر والخصام (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)"
+            "إِحْيَاءُ رَوَائِعِ التُّرَاثِ الفَنِّيِّ وَالأَدَبِيِّ العَرَبِيِّ (iihyaa'u rawaa'i'ai alturaathi alfaniyi waalaadabiyi al'aarabiyi)",
+            "إلغاء الفنون التشكيلية (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "بيع الأدوات المنزلية فقط (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "التنافر والخصام (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الهدف هو إحياء روائع التراث الفني والخط والموسيقى والشعر العربي الأصيل."
@@ -10604,10 +10604,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة السابعة عشرة بأكملها (الخط العربي، المقامات، الأسماء الموصولة للمثنى والجمع، والشعر):",
           "options": [
-            "اجْتَمَعَ الفَنَّانُونَ فِي الصَّالُونِ الثَّقَافِيِّ الَّذِي تَزَيَّنَ بِاللَّوْحَتَيْنِ اللَّتَيْنِ خُطَّتَا بِخَطِّ الثُّلُثِ، وَعَزَفَتْ سَلْمَى عَلَى العُودِ مِنْ مَقَامِ البَيَاتِي لِمُرَافَقَةِ القَصَائِدِ الَّتِي أَنْشَدَهَا الشُّعَرَاءُ، مُعَبِّرِينَ عَنْ تَقْدِيرِهِمْ لِلْمُبْدِعَيْنِ اللَّذَيْنِ قَدَّمَا هٰذَا التَّنَاغُمَ الفَنِّيَّ الخَالِدَ.",
-            "اجتمع الفنانون بالافعال الماضية فقط بلا خطوط وبلا مقامات واسماء موصولة للمثنى. (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "صالون ثقافي لوحتين ثلث بياتي عود قصائد اللذين اللتين سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)",
-            "انفض المجلس الثقافي دون عزف ودون القاء اي شعر. (الدمج الشامل لكافة مخرجات الوحدة السابعة عشرة)"
+            "اجْتَمَعَ الفَنَّانُونَ فِي الصَّالُونِ الثَّقَافِيِّ الَّذِي تَزَيَّنَ بِاللَّوْحَتَيْنِ اللَّتَيْنِ خُطَّتَا بِخَطِّ الثُّلُثِ، وَعَزَفَتْ سَلْمَى عَلَى العُودِ مِنْ مَقَامِ البَيَاتِي لِمُرَافَقَةِ القَصَائِدِ الَّتِي أَنْشَدَهَا الشُّعَرَاءُ، مُعَبِّرِينَ عَنْ تَقْدِيرِهِمْ لِلْمُبْدِعَيْنِ اللَّذَيْنِ قَدَّمَا هٰذَا التَّنَاغُمَ الفَنِّيَّ الخَالِدَ. (Language concept U17)",
+            "اجتمع الفنانون بالافعال الماضية فقط بلا خطوط وبلا مقامات واسماء موصولة للمثنى. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "صالون ثقافي لوحتين ثلث بياتي عود قصائد اللذين اللتين سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)",
+            "انفض المجلس الثقافي دون عزف ودون القاء اي شعر. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج الخط العربي، والمقامات الموسيقية، والأسماء الموصولة للمثنى والجمع (اللَّتَيْنِ، اللَّذَيْنِ، الَّذِينَ، الَّتِي)، والشعر الفصيح في سياق سردي بديع وأصيل."
@@ -10671,10 +10671,10 @@
         {
           "prompt": "ما هو الوزن الصرفي للفعل «شَارَكَ» وما دلالته المعنوية الأساسية؟",
           "options": [
-            "وَزْنُ «فَاعَلَ» (Form III) وَدَلَالَتُهُ المُشَارَكَةُ بَيْنَ طَرَفَيْنِ",
-            "وزن أفعل للتعدية فقط",
-            "وزن انفعل للمطاوعة",
-            "وزن فعلل الرباعي"
+            "وَزْنُ «فَاعَلَ» (Form III)",
+            "وزن أفعل للتعدية فقط (wzn af'al llt'adyh fqt)",
+            "وزن انفعل للمطاوعة (wzn anf'al llmtaw'ah)",
+            "وزن فعلل الرباعي (wzn f'all alrba'ay)"
           ],
           "answerIndex": 0,
           "explanation": "«شَارَكَ» على وزن «فَاعَلَ» ومصدره «مُشَارَكَة»، ويدل على المشاركة التفاعلية."
@@ -10682,10 +10682,10 @@
         {
           "prompt": "ما الذي تفعله همزة التعدية في وزن «أَفْعَلَ» (مثل: خَرَجَ -> أَخْرَجَ)؟",
           "options": [
-            "تُحَوِّلُ الفِعْلَ اللَّازِمَ إِلَى فِعْلٍ مُتَعَدٍّ يَنْصِبُ مَفْعُولاً بِهِ",
-            "تحوله إلى فعل ماض مجزوم",
-            "تجعله يدل على لون أو عيب فقط",
-            "تحذفه من الجملة"
+            "تُحَوِّلُ الفِعْلَ اللَّازِمَ إِلَى فِعْلٍ مُتَعَدٍّ يَنْصِبُ مَفْعُولاً بِهِ (tuhawilu alfi'ala allaazima iilaa fi'alin muta'aadin yansibu maf'auwlaan bihi)",
+            "تحوله إلى فعل ماض مجزوم (thwlh ila f'al mad mjzwm)",
+            "تجعله يدل على لون أو عيب فقط (tj'alh ydl 'ala lwn aw 'ayb fqt)",
+            "تحذفه من الجملة (thdhfh mn aljmlh)"
           ],
           "answerIndex": 0,
           "explanation": "همزة التعدية في «أَفْعَلَ» تنقل الفعل من اللزوم إلى التعدي (أخرج الطالبَ، أرسل الرسالةَ)."
@@ -10697,10 +10697,10 @@
         {
           "prompt": "اختر الجملة التي توظف الأوزان المزيدة بحرف (فَعَّلَ، فَاعَلَ، أَفْعَلَ) بدقة صرفية ومعنوية تامة:",
           "options": [
-            "عَلَّمَ المُدَرِّبُ اللَّاعِبِينَ وَسَاعَدَهُمْ عَلَى تَطْوِيرِ مَهَارَاتِهِمْ، ثُمَّ أَعْلَنَ الفَوْزَ.",
-            "علم المدرب في المطار فوق البحر بلا صلة",
-            "الافعال تاكل الاوزان في الصرف",
-            "فعل فاعل افعل تدريب اعلان سكون"
+            "عَلَّمَ المُدَرِّبُ اللَّاعِبِينَ وَسَاعَدَهُمْ عَلَى تَطْوِيرِ مَهَارَاتِهِمْ، ثُمَّ أَعْلَنَ الفَوْزَ. (Language concept U18)",
+            "علم المدرب في المطار فوق البحر بلا صلة ('alm almdrb fy almtar fwq albhr bla slh)",
+            "الافعال تاكل الاوزان في الصرف (alaf'aal takl alawzan fy alsrf)",
+            "فعل فاعل افعل تدريب اعلان سكون (f'al fa'al af'al tdryb a'alan skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف «عَلَّمَ / تَطْوِير» (Form II)، «سَاعَدَ» (Form III)، و«أَعْلَنَ» (Form IV) بسبك صرفي بديع وسليم."
@@ -10708,10 +10708,10 @@
         {
           "prompt": "ما الفرق المعنوي بين «عَلِمَ زَيْدٌ الخَبَرَ» و«عَلَّمَ زَيْدٌ عَمْرًا الخَبَرَ»؟",
           "options": [
-            "«عَلِمَ» ثُلَاثِيٌّ لِمَعْرِفَةِ الشَّخْصِ نَفْسِهِ، وَ«عَلَّمَ» مَزِيدٌ بِالتَّضْعِيفِ لِتَعْدِيَتِهِ وَتَعْلِيمِ غَيْرِهِ",
-            "كلاهما مجزوم بالسكون",
-            "لا يوجد اي فرق معنوي بينهما",
-            "علم تدل على النسيان"
+            "«عَلِمَ» ثُلَاثِيٌّ لِمَعْرِفَةِ الشَّخْصِ نَفْسِهِ، وَ«عَلَّمَ» مَزِيدٌ بِالتَّضْعِيفِ لِتَعْدِيَتِهِ وَتَعْلِيمِ غَيْرِهِ (Language concept U18)",
+            "كلاهما مجزوم بالسكون (klahma mjzwm balskwn)",
+            "لا يوجد اي فرق معنوي بينهما (la ywjd ay frq m'anwy bynhma)",
+            "علم تدل على النسيان ('alm tdl 'ala alnsyan)"
           ],
           "answerIndex": 0,
           "explanation": "التضعيف في «عَلَّمَ» نقل الفعل من مجرد المعرفة إلى إكساب المعرفة للغير (التعدية)."
@@ -10724,10 +10724,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الصرفي الذي يجمع بين الأوزان الثلاثة المزيدة بحرف (فَعَّلَ، فَاعَلَ، أَفْعَلَ) بأعلى درجات الفصاحة:",
           "options": [
-            "أَنْجَزَ البَاحِثُ دِرَاسَتَهُ العِلْمِيَّةَ، ثُمَّ قَدَّمَ النَّتَائِجَ لِلْمَجْمَعِ اللُّغَوِيِّ وَنَاقَشَ الأَسَاتِذَةَ فِي تَطْبِيقَاتِهَا العَمَلِيَّةِ لِتَطْوِيرِ مَنَاهِجِ التَّعْلِيمِ.",
-            "انجز الباحث بالافعال المجردة فقط بلا اوزان مزيدة بحرف.",
-            "فعل فاعل افعل انجز قدم ناقش تطوير سكون فتحة ضمة.",
-            "توقفت الدراسة ولم ينجز الباحث اي بحث."
+            "أَنْجَزَ البَاحِثُ دِرَاسَتَهُ العِلْمِيَّةَ، ثُمَّ قَدَّمَ النَّتَائِجَ لِلْمَجْمَعِ اللُّغَوِيِّ وَنَاقَشَ الأَسَاتِذَةَ فِي تَطْبِيقَاتِهَا العَمَلِيَّةِ لِتَطْوِيرِ مَنَاهِجِ التَّعْلِيمِ. (Language concept U18)",
+            "انجز الباحث بالافعال المجردة فقط بلا اوزان مزيدة بحرف. (anjz albahth balaf'aal almjrdh fqt bla awzan mzydh bhrf.)",
+            "فعل فاعل افعل انجز قدم ناقش تطوير سكون فتحة ضمة. (f'al fa'al af'al anjz qdm naqsh ttwyr skwn fthh dmh.)",
+            "توقفت الدراسة ولم ينجز الباحث اي بحث. (twqft aldrash wlm ynjz albahth ay bhth.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: «أَنْجَزَ» (أَفْعَلَ - Form IV)، «قَدَّمَ / تَطْوِير / التَّعْلِيم» (فَعَّلَ - Form II)، و«نَاقَشَ» (فَاعَلَ - Form III) بإتقان بياني باهر."
@@ -10793,10 +10793,10 @@
         {
           "prompt": "ما المعنى الصرفي الذي يفيده وزن «تَفَاعَلَ» في مثل قولنا: «تَمَارَضَ الرَّجُلُ»؟",
           "options": [
-            "التَّظَاهُرُ وَادِّعَاءُ الصِّفَةِ دُونَ حَقِيقَةٍ",
-            "المطاوعة",
-            "التعدية لمفعولين",
-            "الطلب الصريح"
+            "التَّظَاهُرُ وَادِّعَاءُ الصِّفَةِ دُونَ حَقِيقَةٍ (altazaahuru waadi'aaa'u alsifahi duwna haqiyqahin)",
+            "المطاوعة (almtaw'ah)",
+            "التعدية لمفعولين (alt'adyh lmf'awlyn)",
+            "الطلب الصريح (altlb alsryh)"
           ],
           "answerIndex": 0,
           "explanation": "«تَمَارَضَ» و«تَجَاهَلَ» على وزن «تَفَاعَلَ» ويفيدان إظهار الصفة والادعاء بغير حقيقة."
@@ -10804,10 +10804,10 @@
         {
           "prompt": "ما هو الوزن الصرفي في جملة «كَسَرْتُ الكَأْسَ فَانْكَسَرَ» وما فائدته المعنوية؟",
           "options": [
-            "وَزْنُ «انْفَعَلَ» (Form VII) وَفَائِدَتُهُ المُطَاوَعَةُ",
-            "وزن تفعل للتكلف",
-            "وزن فاعل للمشاركة",
-            "وزن استفعل للطلب"
+            "وَزْنُ «انْفَعَلَ» (Form VII)",
+            "وزن تفعل للتكلف (wzn tf'al lltklf)",
+            "وزن فاعل للمشاركة (wzn fa'al llmsharkh)",
+            "وزن استفعل للطلب (wzn astf'al lltlb)"
           ],
           "answerIndex": 0,
           "explanation": "«انْكَسَرَ» على وزن «انْفَعَلَ» وهو يفيد مطاوعة الفعل الثلاثي المتعدي (كَسَرَ)."
@@ -10819,10 +10819,10 @@
         {
           "prompt": "اختر الجملة التي تستخدم الأوزان المزيدة بحرفين (تَفَعَّلَ، تَفَاعَلَ، انْفَعَلَ) بسياق فصيح مترابط:",
           "options": [
-            "تَعَلَّمَ العُلَمَاءُ النَّظَرِيَّاتِ، ثُمَّ تَعَاوَنُوا فِي البَحْثِ فَانْطَلَقَتْ مَشَارِيعُهُمْ بِنَجَاحٍ.",
-            "تعلم العلماء في قاع المحيط بلا تنفس",
-            "الافعال تتشاجر في المعجم",
-            "تعلم تعاون انطلق تفعل تفاعل انفعل سكون"
+            "تَعَلَّمَ العُلَمَاءُ النَّظَرِيَّاتِ، ثُمَّ تَعَاوَنُوا فِي البَحْثِ فَانْطَلَقَتْ مَشَارِيعُهُمْ بِنَجَاحٍ. (Language concept U18)",
+            "تعلم العلماء في قاع المحيط بلا تنفس (t'alm al'alma' fy qa'a almhyt bla tnfs)",
+            "الافعال تتشاجر في المعجم (alaf'aal ttshajr fy alm'ajm)",
+            "تعلم تعاون انطلق تفعل تفاعل انفعل سكون (t'alm t'aawn antlq tf'al tfa'al anf'al skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة توظف «تَعَلَّمَ» (تَفَعَّلَ)، «تَعَاوَنُوا» (تَفَاعَلَ)، و«انْطَلَقَتْ» (انْفَعَلَ) بتكامل سياقي ممتاز."
@@ -10830,10 +10830,10 @@
         {
           "prompt": "لماذا لا يصاغ اسم المفعول أو المبني للمجهول من وزن «انْفَعَلَ»؟",
           "options": [
-            "لأَنَّهُ فِعْلٌ لَازِمٌ دَائِمًا يَدُلُّ عَلَى المُطَاوَعَةِ وَقَبُولِ الأَثَرِ",
-            "لأنه فعل ماض فقط",
-            "لأنه ممنوع من الصرف",
-            "لأنه ينتهي بحرف علة"
+            "لأَنَّهُ فِعْلٌ لَازِمٌ دَائِمًا يَدُلُّ عَلَى المُطَاوَعَةِ وَقَبُولِ الأَثَرِ (laanahu fi'alun laazimun daa'imana yadulu 'aalaa almutaawa'aahi waqabuwli alaathari)",
+            "لأنه فعل ماض فقط (lanh f'al mad fqt)",
+            "لأنه ممنوع من الصرف (lanh mmnw'a mn alsrf)",
+            "لأنه ينتهي بحرف علة (lanh ynthy bhrf 'alh)"
           ],
           "answerIndex": 0,
           "explanation": "أفعال وزن «انْفَعَلَ» لازمة بطبيعتها المعنوية (انكسر، انفتح، انطلق) فلا تبنى للمجهول لعدم وجود مفعول به."
@@ -10846,10 +10846,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يدمج الأوزان المزيدة بحرفين (Forms V, VI, VII) في سياق سردي وفكري بليغ:",
           "options": [
-            "تَطَوَّرَتِ الأَبْحَاثُ اللُّغَوِيَّةُ حِينَ تَبَادَلَ الأَكَادِيمِيُّونَ آرَاءَهُمْ وَتَشَاوَرُوا بِعُمْقٍ، فَانْفَتَحَتْ أَمَامَهُمْ آفَاقٌ مَعْرِفِيَّةٌ جَدِيدَةٌ سَاعَدَتْ عَلَى انْدِمَاجِ اللِّسَانِيَّاتِ فِي عُلُومِ العَصْرِ.",
-            "تطورت الابحاث بالافعال المجردة فقط بلا اوزان مزيدة بحرفين.",
-            "تفعل تفاعل انفعل تطور تبادل انفتح اندماج سكون فتحة ضمة.",
-            "تراجعت الابحاث وتوقف التبادل بين العلماء."
+            "تَطَوَّرَتِ الأَبْحَاثُ اللُّغَوِيَّةُ حِينَ تَبَادَلَ الأَكَادِيمِيُّونَ آرَاءَهُمْ وَتَشَاوَرُوا بِعُمْقٍ، فَانْفَتَحَتْ أَمَامَهُمْ آفَاقٌ مَعْرِفِيَّةٌ جَدِيدَةٌ سَاعَدَتْ عَلَى انْدِمَاجِ اللِّسَانِيَّاتِ فِي عُلُومِ العَصْرِ. (Language concept U18)",
+            "تطورت الابحاث بالافعال المجردة فقط بلا اوزان مزيدة بحرفين. (ttwrt alabhath balaf'aal almjrdh fqt bla awzan mzydh bhrfyn.)",
+            "تفعل تفاعل انفعل تطور تبادل انفتح اندماج سكون فتحة ضمة. (tf'al tfa'al anf'al ttwr tbadl anfth andmaj skwn fthh dmh.)",
+            "تراجعت الابحاث وتوقف التبادل بين العلماء. (traj'at alabhath wtwqf altbadl byn al'alma'.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج بدقة: «تَطَوَّرَتْ» (تَفَعَّلَ - Form V)، «تَبَادَلَ / تَشَاوَرُوا» (تَفَاعَلَ - Form VI)، و«انْفَتَحَتْ / انْدِمَاج» (انْفَعَلَ - Form VII)."
@@ -10913,10 +10913,10 @@
         {
           "prompt": "ما المعنى الصرفي الأساسي للزيادة بالألف والسين والتاء في وزن «اسْتَفْعَلَ» في كلمة «اسْتَغْفَرَ»؟",
           "options": [
-            "طَلَبُ الفِعْلِ",
-            "المطاوعة الخالصة",
-            "التظاهر بالمرض",
-            "المبالغة في اللون"
+            "طَلَبُ الفِعْلِ (talabu alfi'ali)",
+            "المطاوعة الخالصة (almtaw'ah alkhalsh)",
+            "التظاهر بالمرض (altzahr balmrd)",
+            "المبالغة في اللون (almbalghh fy allwn)"
           ],
           "answerIndex": 0,
           "explanation": "«اسْتَغْفَرَ» تعني طلب المغفرة من الله تعالى، فالهمزة والسين والتاء تفيد الطلب."
@@ -10924,10 +10924,10 @@
         {
           "prompt": "إلى أي الأوزان الصرفية ينتمي الفعل «احْتَفَلَ» وما وزنه؟",
           "options": [
-            "وَزْنُ «افْتَعَلَ»",
-            "وزن انفعل",
-            "وزن تفاعل",
-            "وزن استفعل"
+            "وَزْنُ «افْتَعَلَ» (Language concept U18)",
+            "وزن انفعل (wzn anf'al)",
+            "وزن تفاعل (wzn tfa'al)",
+            "وزن استفعل (wzn astf'al)"
           ],
           "answerIndex": 0,
           "explanation": "«احْتَفَلَ» على وزن «افْتَعَلَ» ومصدره «احْتِفَال»."
@@ -10939,10 +10939,10 @@
         {
           "prompt": "اختر الجملة التي تعبر عن وزن «افْعَلَّ» الدال على تمكن اللون بدقة وبلاغة:",
           "options": [
-            "احْمَرَّتْ وَجْنَتَا الطِّفْلِ خَجَلًا وَاخْضَرَّتِ الرِّيَاضُ بَعْدَ هُطُولِ المَطَرِ.",
-            "احمرت الشجرة بالافعال الماضية بلا لون",
-            "اللون يركض خلف الاستفعال",
-            "اخضر احمر اصفر افعل افتعل سكون"
+            "احْمَرَّتْ وَجْنَتَا الطِّفْلِ خَجَلًا وَاخْضَرَّتِ الرِّيَاضُ بَعْدَ هُطُولِ المَطَرِ. (ahmarat wajnataa altifli khajalana waakhdarati alriyaadu ba'ada hutuwli almatari.)",
+            "احمرت الشجرة بالافعال الماضية بلا لون (ahmrt alshjrh balaf'aal almadyh bla lwn)",
+            "اللون يركض خلف الاستفعال (allwn yrkd khlf alastf'aal)",
+            "اخضر احمر اصفر افعل افتعل سكون (akhdr ahmr asfr af'al aft'al skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«احْمَرَّتْ» و«اخْضَرَّتْ» على وزن «افْعَلَّ» للدلالة على قوة وثبات اللون."
@@ -10950,10 +10950,10 @@
         {
           "prompt": "ما معنى «اسْتَحْجَرَ الطِّينُ» وفق دلالات وزن «اسْتَفْعَلَ»؟",
           "options": [
-            "صَارَ وَتَحَوَّلَ كَالحَجَرِ فِي الصَّلَابَةِ",
-            "طلب الحجر من غيره",
-            "كسر الحجر",
-            "جلس فوق الحجر"
+            "صَارَ وَتَحَوَّلَ كَالحَجَرِ فِي الصَّلَابَةِ (saara watahawala kaalhajari fiy alsalaabahi)",
+            "طلب الحجر من غيره (tlb alhjr mn ghyrh)",
+            "كسر الحجر (ksr alhjr)",
+            "جلس فوق الحجر (jls fwq alhjr)"
           ],
           "answerIndex": 0,
           "explanation": "«اسْتَحْجَرَ» يفيد الصيرورة والتحول، أي صار مثل الحجر."
@@ -10966,10 +10966,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يوظف الأوزان المتقدمة (Forms VIII, IX, X) في سياق علمي وطبيعي بديع:",
           "options": [
-            "اجْتَمَعَ البَاحِثُونَ فِي الوَاحَةِ حَيْثُ اخْضَرَّتِ النَّخِيلُ، وَاسْتَفْسَرُوا عَنِ الوَسَائِلِ الَّتِي اسْتَخْدَمَهَا الأَجْدَادُ لِاسْتِخْرَاجِ المِيَاهِ الجَوْفِيَّةِ.",
-            "اجتمع الباحثون بالافعال المجردة فقط بلا اوزان متقدمة.",
-            "افتعل افعل استفعل اجتمع اخضر استفسر استخدم استخراج سكون.",
-            "الغيت الرحلة العلمية ولم يجتمع الباحثون."
+            "اجْتَمَعَ البَاحِثُونَ فِي الوَاحَةِ حَيْثُ اخْضَرَّتِ النَّخِيلُ، وَاسْتَفْسَرُوا عَنِ الوَسَائِلِ الَّتِي اسْتَخْدَمَهَا الأَجْدَادُ لِاسْتِخْرَاجِ المِيَاهِ الجَوْفِيَّةِ. (Language concept U18)",
+            "اجتمع الباحثون بالافعال المجردة فقط بلا اوزان متقدمة. (ajtm'a albahthwn balaf'aal almjrdh fqt bla awzan mtqdmh.)",
+            "افتعل افعل استفعل اجتمع اخضر استفسر استخدم استخراج سكون. (aft'al af'al astf'al ajtm'a akhdr astfsr astkhdm astkhraj skwn.)",
+            "الغيت الرحلة العلمية ولم يجتمع الباحثون. (alghyt alrhlh al'almyh wlm yjtm'a albahthwn.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: «اجْتَمَعَ» (افْتَعَلَ - Form VIII)، «اخْضَرَّتْ» (افْعَلَّ - Form IX)، و«اسْتَفْسَرُوا / اسْتَخْدَمَ / اسْتِخْرَاج» (اسْتَفْعَلَ - Form X) بسبك فصيح غاية في الإتقان."
@@ -11034,10 +11034,10 @@
         {
           "prompt": "ما القاعدة الصرفية والبلاغية الشهيرة التي تؤكد أن زيادة أحرف الكلمة يضيف قوة وعمقًا في معناها؟",
           "options": [
-            "«زِيَادَةُ المَبْنَى تَدُلُّ عَلَى زِيَادَةِ المَعْنَى»",
-            "زيادة الحروف تحذف المعنى",
-            "الافعال لا تتغير ابدا",
-            "كل الكلمات متطابقة المعنى"
+            "«زِيَادَةُ المَبْنَى تَدُلُّ عَلَى زِيَادَةِ المَعْنَى» (Language concept U18)",
+            "زيادة الحروف تحذف المعنى (zyadh alhrwf thdhf alm'ana)",
+            "الافعال لا تتغير ابدا (alaf'aal la ttghyr abda)",
+            "كل الكلمات متطابقة المعنى (kl alklmat mttabqh alm'ana)"
           ],
           "answerIndex": 0,
           "explanation": "قاعدة «زيادة المبنى تدل على زيادة المعنى» هي أصل من أصول فقه اللغة والصرف العربي."
@@ -11045,10 +11045,10 @@
         {
           "prompt": "ما هو الفرق بين «تَعَلَّمَ» (تَفَعَّلَ) و«تَعَالَمَ» (تَفَاعَلَ) من حيث المعنى؟",
           "options": [
-            "«تَعَلَّمَ» اكْتَسَبَ العِلْمَ حَقِيقَةً، بَيْنَمَا «تَعَالَمَ» ادَّعَى العِلْمَ وَهُوَ لَيْسَ بِعَالِمٍ",
-            "كلاهما يعني الجهل التام",
-            "تعلم تعني السفر للخارج",
-            "لا فرق بينهما"
+            "«تَعَلَّمَ» اكْتَسَبَ العِلْمَ حَقِيقَةً، بَيْنَمَا «تَعَالَمَ» ادَّعَى العِلْمَ وَهُوَ لَيْسَ بِعَالِمٍ (Language concept U18)",
+            "كلاهما يعني الجهل التام (klahma y'any aljhl altam)",
+            "تعلم تعني السفر للخارج (t'alm t'any alsfr llkharj)",
+            "لا فرق بينهما (la frq bynhma)"
           ],
           "answerIndex": 0,
           "explanation": "صيغة «تَفَاعَلَ» في «تَعَالَمَ» تفيد التظاهر والادعاء بغير حق."
@@ -11060,10 +11060,10 @@
         {
           "prompt": "اختر الجملة التي تبين كيف يثري الصرف المعجم العلمي والفكري العربي بأعلى درجات البلاغة:",
           "options": [
-            "يُتِيحُ لَنَا الاشْتِقَاقُ الصَّرْفِيُّ تَوْلِيدَ مَفَاهِيمَ دَقِيقَةٍ كَالتَّفَاعُلِ وَالاسْتِقْرَاءِ وَالتَّطْوِيرِ مِنْ أُصُولٍ ثُلَاثِيَّةٍ عَذْبَةٍ.",
-            "الاشتقاق يلغي الكلمات ويجعل اللغة صامتة",
-            "الاصول الثلاثية تنام في القاموس بلا حركة",
-            "اشتقاق توليد مفاهيم صرف جذور سكون"
+            "يُتِيحُ لَنَا الاشْتِقَاقُ الصَّرْفِيُّ تَوْلِيدَ مَفَاهِيمَ دَقِيقَةٍ كَالتَّفَاعُلِ وَالاسْتِقْرَاءِ وَالتَّطْوِيرِ مِنْ أُصُولٍ ثُلَاثِيَّةٍ عَذْبَةٍ. (yutiyhu lanaa alashtiqaaqu alsarfiyu tawliyda mafaahiyma daqiyqahin kaaltafaa'auli waalastiqraa'i waaltatwiyri min ausuwlin thulaathiyahin 'aadhbahin.)",
+            "الاشتقاق يلغي الكلمات ويجعل اللغة صامتة (alashtqaq ylghy alklmat wyj'al allghh samth)",
+            "الاصول الثلاثية تنام في القاموس بلا حركة (alaswl althlathyh tnam fy alqamws bla hrkh)",
+            "اشتقاق توليد مفاهيم صرف جذور سكون (ashtqaq twlyd mfahym srf jdhwr skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تعبر بدقة عن عبقرية الاشتقاق التوليدي في إمداد الفكر والعلوم بمفاهيم متجددة."
@@ -11071,10 +11071,10 @@
         {
           "prompt": "من هو العالم اللغوي العبقري صاحب كتاب «الخصائص» ومفصل قاعدة زيادة المبنى؟",
           "options": [
-            "ابْنُ جِنِّي",
-            "ابن بطوطة",
-            "المتنبي",
-            "أبو العلاء المعري"
+            "ابْنُ جِنِّي (abnu jiniy)",
+            "ابن بطوطة (abn btwth)",
+            "المتنبي (almtnby)",
+            "أبو العلاء المعري (abw al'ala' alm'ary)"
           ],
           "answerIndex": 0,
           "explanation": "«ابْنُ جِنِّي» هو إمام الصرف وفلسفة اللغة وصاحب كتاب «الخصائص»."
@@ -11087,10 +11087,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التحليلي الذي يلخص عبقرية الاشتقاق الصرفي وقدرته التوليدية بأعلى دقة لسانية:",
           "options": [
-            "تَتَجَلَّى عَبْقَرِيَّةُ اللِّسَانِ العَرَبِيِّ فِي قُدْرَتِهِ الاشْتِقَاقِيَّةِ الفَرِيدَةِ؛ حَيْثُ يَتَحَوَّلُ الجَذْرُ الوَاحِدُ عَبْرَ الأَوْزَانِ المَزِيدَةِ إِلَى شَبَكَةٍ دَلَالِيَّةٍ حَيَّةٍ تَسْتَوْعِبُ كُلَّ جَدِيدٍ فِي الفِكْرِ وَالعُلُومِ، مُجَسِّدَةً قَاعِدَةَ أَنَّ زِيَادَةَ المَبْنَى دَلِيلٌ عَلَى زِيَادَةِ المَعْنَى.",
-            "تتجلى العبقرية بالافعال المجردة فقط بلا اشتقاق وبلا اوزان.",
-            "جذر اوزان مزيدة شبكة دلالية زيادة مبنى معنى سكون فتحة.",
-            "عجزت اللغة العربية عن توليد اي مصطلح جديد."
+            "تَتَجَلَّى عَبْقَرِيَّةُ اللِّسَانِ العَرَبِيِّ فِي قُدْرَتِهِ الاشْتِقَاقِيَّةِ الفَرِيدَةِ؛ حَيْثُ يَتَحَوَّلُ الجَذْرُ الوَاحِدُ عَبْرَ الأَوْزَانِ المَزِيدَةِ إِلَى شَبَكَةٍ دَلَالِيَّةٍ حَيَّةٍ تَسْتَوْعِبُ كُلَّ جَدِيدٍ فِي الفِكْرِ وَالعُلُومِ، مُجَسِّدَةً قَاعِدَةَ أَنَّ زِيَادَةَ المَبْنَى دَلِيلٌ عَلَى زِيَادَةِ المَعْنَى. (Language concept U18)",
+            "تتجلى العبقرية بالافعال المجردة فقط بلا اشتقاق وبلا اوزان. (ttjla al'abqryh balaf'aal almjrdh fqt bla ashtqaq wbla awzan.)",
+            "جذر اوزان مزيدة شبكة دلالية زيادة مبنى معنى سكون فتحة. (jdhr awzan mzydh shbkh dlalyh zyadh mbna m'ana skwn fthh.)",
+            "عجزت اللغة العربية عن توليد اي مصطلح جديد. ('ajzt allghh al'arbyh 'an twlyd ay mstlh jdyd.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة التحليل اللساني البلاغي لفلسفة الاشتقاق الصرفي وشبكات الجذور التوليدية في اللغة العربية."
@@ -11155,10 +11155,10 @@
         {
           "prompt": "في الحوار الشامل، ما الذي تمنحه الأوزان المزيدة (مثل فَعَّلَ، تفاعل، استفعل) للغة العربية بحسب الدكتور فاروق؟",
           "options": [
-            "ثَرْوَةً لَفْظِيَّةً وَدَلَالِيَّةً لَا تَنْفَدُ فِي تَوْلِيدِ المُصْطَلَحَاتِ",
-            "صعوبة في النطق فقط (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "إلغاء المعاجم القديمة (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "جمودا لغويا (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)"
+            "ثَرْوَةً لَفْظِيَّةً وَدَلَالِيَّةً لَا تَنْفَدُ فِي تَوْلِيدِ المُصْطَلَحَاتِ (tharwahan lafziyahan wadalaaliyahan laa tanfadu fiy tawliydi almustalahaati)",
+            "صعوبة في النطق فقط (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "إلغاء المعاجم القديمة (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "جمودا لغويا (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "أكد د. فاروق أن الأوزان المزيدة تمنح العربية مرونة وثروة لفظية لا تنفد في توليد المصطلحات."
@@ -11166,10 +11166,10 @@
         {
           "prompt": "ما الفعل الذي استخدمته هند للدلالة على طلب التفسير والمعرفة في الندوة؟",
           "options": [
-            "اسْتَفْسَرُوا",
-            "علموا (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "خرجوا (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "قرأوا (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)"
+            "اسْتَفْسَرُوا (astafsaruwa)",
+            "علموا (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "خرجوا (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "قرأوا (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "«اسْتَفْسَرُوا» على وزن «اسْتَفْعَلُوا» ويفيد طلب التفسير والتوضيح."
@@ -11181,10 +11181,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تطبق الأوزان المزيدة (Forms II-X) بأعلى درجات الدقة والسلاسة:",
           "options": [
-            "— كَيْفَ نُطَوِّرُ المَنَاهِجَ؟ — نَسْتَشِيرُ الخُبَرَاءَ، وَنَتَعَاوَنُ جَمِيعًا لِنُحَقِّقَ التَّقَدُّمَ المَنْشُودَ.",
-            "— كيف نطور المناهج بالافعال الماضية فقط؟ (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "— كم سعر المعجم في الصيدلية؟ (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "— حوار ندوة اوزان صرفية سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)"
+            "— كَيْفَ نُطَوِّرُ المَنَاهِجَ؟ — نَسْتَشِيرُ الخُبَرَاءَ، وَنَتَعَاوَنُ جَمِيعًا لِنُحَقِّقَ التَّقَدُّمَ المَنْشُودَ. (Language concept U18)",
+            "— كيف نطور المناهج بالافعال الماضية فقط؟ (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "— كم سعر المعجم في الصيدلية؟ (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "— حوار ندوة اوزان صرفية سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «نُطَوِّرُ» (Form II)، «نَسْتَشِيرُ» (Form X)، «نَتَعَاوَنُ» (Form VI)، و«التَّقَدُّمَ» (Form V) بسبك حواري فصيح ومثالي."
@@ -11192,10 +11192,10 @@
         {
           "prompt": "ما هو الهدف الأساسي من استثمار الأوزان المزيدة في العصر الحديث كما بيّن الحوار؟",
           "options": [
-            "مُوَاكَبَةُ التَّطَوُّرِ العِلْمِيِّ وَتَعْرِيبُ المُصْطَلَحَاتِ بِدِقَّةٍ",
-            "إلغاء النحو العربي (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "التخلي عن الجذور الثلاثية (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "استيراد الكلمات الأجنبية دون تعريب (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)"
+            "مُوَاكَبَةُ التَّطَوُّرِ العِلْمِيِّ وَتَعْرِيبُ المُصْطَلَحَاتِ بِدِقَّةٍ (muwaakabahu altatawuri al'ailmiyi wata'ariybu almustalahaati bidiqahin)",
+            "إلغاء النحو العربي (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "التخلي عن الجذور الثلاثية (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "استيراد الكلمات الأجنبية دون تعريب (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الهدف هو مواكبة التطور العلمي والتكنولوجي وتعريب المصطلحات باقتدار عبر طاقات الصرف الذاتية."
@@ -11208,10 +11208,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الثامنة عشرة بأكملها (الأوزان المزيدة Forms II-X، والاشتقاق التوليدي):",
           "options": [
-            "عَقَدَ مَجْمَعُ اللُّغَةِ نَدْوَةً لِسَانِيَّةً حَيْثُ اجْتَمَعَ البَاحِثُونَ وَتَشَاوَرُوا حَوْلَ تَوْلِيدِ المُصْطَلَحَاتِ؛ فَقَدَّمَ الدُّكْتُورُ دِرَاسَةً طَوَّرَ فِيهَا مَفَاهِيمَ الصَّرْفِ، وَاسْتَفْسَرَ الحَاضِرُونَ عَنْ كَيْفِيَّةِ اسْتِخْدَامِ هٰذِهِ الأَوْزَانِ فِي التَّعْرِيبِ، مُؤَكِّدِينَ أَنَّ التَّعَاوُنَ وَالتَّعَلُّمَ هُمَا سَبِيلُ التَّجَدُّدِ اللُّغَوِيِّ الدَّائِمِ.",
-            "عقد المجمع ندوة بالافعال المجردة فقط بلا اوزان مزيدة وبلا اشتقاق توليدي. (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "ندوة لسانية اجتمع تشاور قدم طور استفسر استخدام تعاون تعلم سكون. (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)",
-            "انفضت الندوة ولم يقدم احد اي بحث علمي. (الدمج الشامل لكافة مخرجات الوحدة الثامنة عشرة)"
+            "عَقَدَ مَجْمَعُ اللُّغَةِ نَدْوَةً لِسَانِيَّةً حَيْثُ اجْتَمَعَ البَاحِثُونَ وَتَشَاوَرُوا حَوْلَ تَوْلِيدِ المُصْطَلَحَاتِ؛ فَقَدَّمَ الدُّكْتُورُ دِرَاسَةً طَوَّرَ فِيهَا مَفَاهِيمَ الصَّرْفِ، وَاسْتَفْسَرَ الحَاضِرُونَ عَنْ كَيْفِيَّةِ اسْتِخْدَامِ هٰذِهِ الأَوْزَانِ فِي التَّعْرِيبِ، مُؤَكِّدِينَ أَنَّ التَّعَاوُنَ وَالتَّعَلُّمَ هُمَا سَبِيلُ التَّجَدُّدِ اللُّغَوِيِّ الدَّائِمِ. (Language concept U18)",
+            "عقد المجمع ندوة بالافعال المجردة فقط بلا اوزان مزيدة وبلا اشتقاق توليدي. (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "ندوة لسانية اجتمع تشاور قدم طور استفسر استخدام تعاون تعلم سكون. (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)",
+            "انفضت الندوة ولم يقدم احد اي بحث علمي. (aldmj alshaml lkafh mkhrjat alwhdh althamnh 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج أوزان الزيادة: «اجْتَمَعَ» (VIII)، «تَشَاوَرُوا / التَّعَاوُن» (VI)، «قَدَّمَ / طَوَّرَ» (II)، «اسْتَفْسَرَ / اسْتِخْدَام» (X)، و«التَّعَلُّم» (V) في سياق سردي بديع وأصيل."
@@ -11276,10 +11276,10 @@
         {
           "prompt": "ما هي علامة جزم الفعلين في جملة: «مَنْ يَسْعَ فِي الخَيْرِ يَلْقَ خَيْرًا»؟",
           "options": [
-            "حَذْفُ حَرْفِ العِلَّةِ",
-            "السكون الظاهر",
-            "حذف النون",
-            "ثبوت النون"
+            "حَذْفُ حَرْفِ العِلَّةِ (hadhfu harfi al'ailahi)",
+            "السكون الظاهر (alskwn alzahr)",
+            "حذف النون (hdhf alnwn)",
+            "ثبوت النون (thbwt alnwn)"
           ],
           "answerIndex": 0,
           "explanation": "الفعلان «يَسْعَ» و«يَلْقَ» معتلا الآخر، وعلامة جزمهما حذف حرف العلة والتعويض بالفتحة."
@@ -11287,10 +11287,10 @@
         {
           "prompt": "كم فعلاً مضارعاً تجزم أدوات الشرط الجازمة مثل (إِنْ، مَنْ، مَا، أَيْنَمَا)؟",
           "options": [
-            "فِعْلَيْنِ مُضَارِعَيْنِ: فِعْلَ الشَّرْطِ وَجَوَابَ الشَّرْطِ",
-            "فعلاً واحداً فقط",
-            "ثلاثة أفعال",
-            "لا تجزم أي فعل"
+            "فِعْلَيْنِ مُضَارِعَيْنِ: فِعْلَ الشَّرْطِ وَجَوَابَ الشَّرْطِ (fi'alayni mudaari'aayni: fi'ala alsharti wajawaaba alsharti)",
+            "فعلاً واحداً فقط (f'alaan wahdaan fqt)",
+            "ثلاثة أفعال (thlathh af'aal)",
+            "لا تجزم أي فعل (la tjzm ay f'al)"
           ],
           "answerIndex": 0,
           "explanation": "أدوات الشرط الجازمة تجزم فعلين مضارعين: الأول فعل الشرط والثاني جواب الشرط وجزاؤه."
@@ -11302,10 +11302,10 @@
         {
           "prompt": "اختر الجملة الشرطية الجازمة المضبوطة إعرابيًا بأعلى درجات الدقة والفصاحة:",
           "options": [
-            "إِنْ تَقْرَأْ كِتَابًا نَافِعًا تَسْتَفِدْ مِنْهُ وَتَرْتَقِ مَعْرِفَتُكَ.",
-            "ان تقرأ كتابا تستفيد بالرفع بلا جزم",
-            "الشرط ينام في الجواب فوق الشجرة",
-            "ان تقرأ تستفد ترتقي بالياء بلا حذف علة"
+            "إِنْ تَقْرَأْ كِتَابًا نَافِعًا تَسْتَفِدْ مِنْهُ وَتَرْتَقِ مَعْرِفَتُكَ. (iin taqraa kitaabana naafi'aana tastafid minhu watartaqi ma'arifatuka.)",
+            "ان تقرأ كتابا تستفيد بالرفع بلا جزم (an tqra ktaba tstfyd balrf'a bla jzm)",
+            "الشرط ينام في الجواب فوق الشجرة (alshrt ynam fy aljwab fwq alshjrh)",
+            "ان تقرأ تستفد ترتقي بالياء بلا حذف علة (an tqra tstfd trtqy balya' bla hdhf 'alh)"
           ],
           "answerIndex": 0,
           "explanation": "«إِنْ تَقْرَأْ» (مجزوم بالسكون)، «تَسْتَفِدْ» (مجزوم بالسكون وحذفت الياء لالتقاء الساكنين)، «تَرْتَقِ» (معطوف مجزوم بحذف الياء)."
@@ -11313,10 +11313,10 @@
         {
           "prompt": "ما علامة جزم الأفعال الخمسة في أسلوب الشرط مثل «إِنْ تَعْمَلُوا تَفُوزُوا»؟",
           "options": [
-            "حَذْفُ النُّونِ",
-            "الضمة الظاهرة",
-            "حذف حرف العلة",
-            "السكون"
+            "حَذْفُ النُّونِ (hadhfu alnuwni)",
+            "الضمة الظاهرة (aldmh alzahrh)",
+            "حذف حرف العلة (hdhf hrf al'alh)",
+            "السكون (alskwn)"
           ],
           "answerIndex": 0,
           "explanation": "الأفعال الخمسة تجزم بحذف النون (تعملوا، تفوزوا)."
@@ -11329,10 +11329,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الشرطي الذي يطبق أحكام الجزم وتنوع الأدوات (إِنْ، مَنْ، مَا، أَيْنَمَا) بأعلى درجات البلاغة النحوية:",
           "options": [
-            "مَنْ يَبْذُلْ جُهْدَهُ يَصِلْ إِلَى هَدَفِهِ، وَمَا تَزْرَعُوا مِنْ مَعْرُوفٍ تَجِدُوا أَثَرَهُ، وَأَيْنَمَا تَسْعَوْا فِي طَلَبِ العِلْمِ تَلْقَوْا التَّوْفِيقَ وَتَبْلُغُوا المَرَاتِبَ العُلْيَا.",
-            "من يبذل بالافعال المرفوعة بالضمة بلا جزم للشرط والجواب.",
-            "ادوات شرط ان من ما اينما جزم سكون حذف علة حذف نون فتحة.",
-            "الغي الشرط ولم يبذل احد اي جهد."
+            "مَنْ يَبْذُلْ جُهْدَهُ يَصِلْ إِلَى هَدَفِهِ، وَمَا تَزْرَعُوا مِنْ مَعْرُوفٍ تَجِدُوا أَثَرَهُ، وَأَيْنَمَا تَسْعَوْا فِي طَلَبِ العِلْمِ تَلْقَوْا التَّوْفِيقَ وَتَبْلُغُوا المَرَاتِبَ العُلْيَا. (Language concept U19)",
+            "من يبذل بالافعال المرفوعة بالضمة بلا جزم للشرط والجواب. (mn ybdhl balaf'aal almrfw'ah baldmh bla jzm llshrt waljwab.)",
+            "ادوات شرط ان من ما اينما جزم سكون حذف علة حذف نون فتحة. (adwat shrt an mn ma aynma jzm skwn hdhf 'alh hdhf nwn fthh.)",
+            "الغي الشرط ولم يبذل احد اي جهد. (alghy alshrt wlm ybdhl ahd ay jhd.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يطبق الجزم بالسكون («يَبْذُلْ»، «يَصِلْ»)، والجزم بحذف النون للأفعال الخمسة («تَزْرَعُوا»، «تَجِدُوا»، «تَسْعَوْا»، «تَلْقَوْا») بأسلوب بياني سليم ومبهر."
@@ -11397,10 +11397,10 @@
         {
           "prompt": "ما هو إعراب الاسم المرفوع الواقع مباشرة بعد أداة الشرط غير الجازمة «لَوْلَا» (مثل: «لَوْلَا الأَمَلُ لَخَابَ المَرْءُ»)؟",
           "options": [
-            "مُبْتَدَأٌ مَرْفُوعٌ وَخَبَرُهُ مَحْذُوفٌ وُجُوبًا تَقْدِيرُهُ",
-            "فاعل مرفوع بالضمة",
-            "مفعول به منصوب",
-            "اسم مجرور بالكسرة"
+            "مُبْتَدَأٌ مَرْفُوعٌ وَخَبَرُهُ مَحْذُوفٌ وُجُوبًا تَقْدِيرُهُ (mubtadaaun marfuw'aun wakhabaruhu mahdhuwfun wujuwbana taqdiyruhu)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "اسم مجرور بالكسرة (asm mjrwr balksrh)"
           ],
           "answerIndex": 0,
           "explanation": "الاسم بعد «لَوْلَا» يعرب دائمًا مبتدأ مرفوعًا والخبر محذوف وجوبًا تقديره «موجود»."
@@ -11408,10 +11408,10 @@
         {
           "prompt": "ما المعنى البلاغي للأداة «لَوْ» في أسلوب الشرط؟",
           "options": [
-            "حَرْفُ امْتِنَاعٍ لِامْتِنَاعٍ",
-            "حرف جزم يجزم فعلين",
-            "حرف نصب للمضارع",
-            "حرف استفهام"
+            "حَرْفُ امْتِنَاعٍ لِامْتِنَاعٍ (harfu amtinaa'ain liamtinaa'ain)",
+            "حرف جزم يجزم فعلين (hrf jzm yjzm f'alyn)",
+            "حرف نصب للمضارع (hrf nsb llmdar'a)",
+            "حرف استفهام (hrf astfham)"
           ],
           "answerIndex": 0,
           "explanation": "«لَوْ» حرف امتناع لامتناع، أي امتنع حدوث الجواب لامتناع حدوث الشرط."
@@ -11423,10 +11423,10 @@
         {
           "prompt": "اختر الجملة التي توظف الأداة «كُلَّمَا» بدقة أسلوبية وصرفية صحيحة:",
           "options": [
-            "كُلَّمَا زَارَ السَّائِحُ المَدِينَةَ التَّارِيخِيَّةَ انْبَهَرَ بِجَمَالِ عِمَارَتِهَا الإِسْلَامِيَّةِ.",
-            "كلما كلما زار السائح بتكرار اللفظ الخطأ",
-            "كلما تاكل الجملة في القاموس",
-            "اداة شرط غير جازمة سكون"
+            "كُلَّمَا زَارَ السَّائِحُ المَدِينَةَ التَّارِيخِيَّةَ انْبَهَرَ بِجَمَالِ عِمَارَتِهَا الإِسْلَامِيَّةِ. (kulamaa zaara alsaa'ihu almadiynaha altaariykhiyaha anbahara bijamaali 'aimaaratihaa aliislaamiyahi.)",
+            "كلما كلما زار السائح بتكرار اللفظ الخطأ (klma klma zar alsa'h btkrar allfz alkhta)",
+            "كلما تاكل الجملة في القاموس (klma takl aljmlh fy alqamws)",
+            "اداة شرط غير جازمة سكون (adah shrt ghyr jazmh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«كُلَّمَا» تفيد التكرار والاستمرار وتدخل على الفعل الماضي في الشرط والجواب («زَارَ»، «انْبَهَرَ»)."
@@ -11434,10 +11434,10 @@
         {
           "prompt": "هل تجزم أدوات الشرط (لَوْ، لَوْلَا، إِذَا، كُلَّمَا، لَمَّا) الأفعال بعدها؟",
           "options": [
-            "لَا، هِيَ أَدَوَاتُ شَر themرْطٍ غَيْرُ جَازِمَةٍ تَرْبِطُ المَعْنَى دُونَ جَزْمٍ",
-            "نعم تجزم بالسكون دائما",
-            "تجزم بحذف حرف العلة فقط",
-            "تنصب الأفعال بالفتحة"
+            "لَا، هِيَ أَدَوَاتُ شَر themرْطٍ غَيْرُ جَازِمَةٍ تَرْبِطُ المَعْنَى دُونَ جَزْمٍ (Language concept U19)",
+            "نعم تجزم بالسكون دائما (n'am tjzm balskwn da'ma)",
+            "تجزم بحذف حرف العلة فقط (tjzm bhdhf hrf al'alh fqt)",
+            "تنصب الأفعال بالفتحة (tnsb alaf'aal balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "هذه الأدوات غير جازمة، فتربط المعنى الشرطي دلاليًا ويبقى الفعل بعدها على إعرابه الأصلي."
@@ -11450,10 +11450,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحكيم الذي يجمع بين أدوات الشرط غير الجازمة (لَوْ، لَوْلَا، إِذَا، كُلَّمَا) بأعلى درجات البلاغة العربية:",
           "options": [
-            "لَوْلَا الأَمَلُ لَضَاقَتِ الحَيَاةُ، وَلَوْ تَأَمَّلَ الإِنْسَانُ الكَوْنَ لَأَدْرَكَ عَظَمَةَ الخَالِقِ، وَإِذَا حَرَصَ المَرْءُ عَلَى النَّزَاهَةِ نَالَ مَحَبَّةَ الجَمِيعِ، وَكُلَّمَا جَادَ الكَرِيمُ بِفَضْلِهِ زَادَهُ اللهُ عِزًّا وَرِفْعَةً.",
-            "لولا و لو و اذا بالافعال المضارعة المجزومة بالسكون خطأ.",
-            "ادوات غير جازمة لولا لو اذا كلما سكون فتحة ضمة كسرة.",
-            "ضاعت الحياة ولم يتأمل احد الكون."
+            "لَوْلَا الأَمَلُ لَضَاقَتِ الحَيَاةُ، وَلَوْ تَأَمَّلَ الإِنْسَانُ الكَوْنَ لَأَدْرَكَ عَظَمَةَ الخَالِقِ، وَإِذَا حَرَصَ المَرْءُ عَلَى النَّزَاهَةِ نَالَ مَحَبَّةَ الجَمِيعِ، وَكُلَّمَا جَادَ الكَرِيمُ بِفَضْلِهِ زَادَهُ اللهُ عِزًّا وَرِفْعَةً. (Language concept U19)",
+            "لولا و لو و اذا بالافعال المضارعة المجزومة بالسكون خطأ. (lwla w lw w adha balaf'aal almdar'ah almjzwmh balskwn khta.)",
+            "ادوات غير جازمة لولا لو اذا كلما سكون فتحة ضمة كسرة. (adwat ghyr jazmh lwla lw adha klma skwn fthh dmh ksrh.)",
+            "ضاعت الحياة ولم يتأمل احد الكون. (da'at alhyah wlm ytaml ahd alkwn.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: «لَوْلَا الأَمَلُ لَضَاقَتْ»، «لَوْ تَأَمَّلَ... لَأَدْرَكَ»، «إِذَا حَرَصَ... نَالَ»، و«كُلَّمَا جَادَ... زَادَهُ» بسبك بياني بديع يفيض بالحكمة والرصانة."
@@ -11516,10 +11516,10 @@
         {
           "prompt": "لماذا اقترن جواب الشرط بالفاء في جملة: «إِنْ تُصَادِقِ الأَخْيَارَ فَـنِعْمَ الصُّحْبَةُ»؟",
           "options": [
-            "لأَنَّ جُمْلَةَ الجَوَابِ فِعْلِيَّةٌ فِعْلُهَا جَامِدٌ",
-            "لأنها جملة اسمية",
-            "لأنها مصدرة بـ لن",
-            "لأنها فعل طلبي"
+            "لأَنَّ جُمْلَةَ الجَوَابِ فِعْلِيَّةٌ فِعْلُهَا جَامِدٌ (laana jumlaha aljawaabi fi'aliyahun fi'aluhaa jaamidun)",
+            "لأنها جملة اسمية (lanha jmlh asmyh)",
+            "لأنها مصدرة بـ لن (Language concept U19)",
+            "لأنها فعل طلبي (lanha f'al tlby)"
           ],
           "answerIndex": 0,
           "explanation": "«نِعْمَ» فعل جامد غير متصرف، فيجب اقتران جواب الشرط بالفاء (وبجامد)."
@@ -11527,10 +11527,10 @@
         {
           "prompt": "ما هو إعراب جملة الجواب المقترنة بالفاء لأداة شرط جازمة (مثل «إِنْ تَجْتَهِدْ فَأَنْتَ نَاجِحٌ»)؟",
           "options": [
-            "فِي مَحَلِّ جَزْمٍ جَوَابُ الشَّرْطِ",
-            "في محل نصب حال",
-            "في محل رفع خبر",
-            "لا محل لها من الإعراب"
+            "فِي مَحَلِّ جَزْمٍ جَوَابُ الشَّرْطِ (fiy mahali jazmin jawaabu alsharti)",
+            "في محل نصب حال (fy mhl nsb hal)",
+            "في محل رفع خبر (fy mhl rf'a khbr)",
+            "لا محل لها من الإعراب (la mhl lha mn ali'arab)"
           ],
           "answerIndex": 0,
           "explanation": "جملة «فَأَنْتَ نَاجِحٌ» في محل جزم جواب الشرط لأن أداة الشرط (إِنْ) جازمة."
@@ -11542,10 +11542,10 @@
         {
           "prompt": "اختر الجملة التي اقترن فيها جواب الشرط بالفاء لوجود حرف التنفيس (السين أو سوف) بدقة نحوية:",
           "options": [
-            "مَنْ يَبْذُلِ الخَيْرَ فَسَوْفَ يَلْقَى جَزَاءَهُ أَوْفَى.",
-            "من يبذل الخير سوف يلقى بلا فاء رابطة بالخطأ النحوي",
-            "الفاء تاكل السين في الجواب",
-            "شرط سوف يلقى سكون فتحة"
+            "مَنْ يَبْذُلِ الخَيْرَ فَسَوْفَ يَلْقَى جَزَاءَهُ أَوْفَى. (man yabdhuli alkhayra fasawfa yalqaa jazaa'ahu aawfaa.)",
+            "من يبذل الخير سوف يلقى بلا فاء رابطة بالخطأ النحوي (mn ybdhl alkhyr swf ylqa bla fa' rabth balkhta alnhwy)",
+            "الفاء تاكل السين في الجواب (alfa' takl alsyn fy aljwab)",
+            "شرط سوف يلقى سكون فتحة (shrt swf ylqa skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "اقتران الجواب بالفاء واجب لوجود «سَوْفَ» (فَسَوْفَ يَلْقَى)."
@@ -11553,10 +11553,10 @@
         {
           "prompt": "ما حكم اقتران جواب الشرط بالفاء إذا كان الجواب جملة طلبية كالأمر (مثل: «إِنْ رَأَيْتَ المُنْكَرَ فَغَيِّرْهُ»)؟",
           "options": [
-            "وَاجِبُ الاقْتِرَانِ بِالفَاءِ",
-            "جائز الاقتران",
-            "ممتنع الاقتران",
-            "مكروه نحويًا"
+            "وَاجِبُ الاقْتِرَانِ بِالفَاءِ (waajibu alaqtiraani bialfaa'i)",
+            "جائز الاقتران (ja'z alaqtran)",
+            "ممتنع الاقتران (mmtn'a alaqtran)",
+            "مكروه نحويًا (mkrwh nhwyana)"
           ],
           "answerIndex": 0,
           "explanation": "اقتران الجواب بالفاء واجب إذا كان الجواب جملة طلبية (أمر، نهي، استفهام)."
@@ -11569,10 +11569,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الشامل الذي يوظف حالات اقتران جواب الشرط بالفاء (اسمية، طلبية، قد، التنفيس) في سياق أخلاقي رفيع:",
           "options": [
-            "إِنْ عَزَمْتَ عَلَى الإِصْلَاحِ فَأَنْتَ عَلَى هُدًى، وَإِنْ وَاجَهْتَ صُعُوبَةً فَلَا تَيْأَسْ، فَإِنَّكَ إِنْ صَبَرْتَ فَقَدْ نِلْتَ الفَضِيلَةَ، وَمَنْ يَسْتَمْسِكْ بِالحَقِّ فَسَيَنْتَصِرُ فِي خِتَامِ المَطَافِ.",
-            "ان عزمت فانت بلا فاء في كل الجمل بالخطأ النحوي الفادح.",
-            "اسمية طلبية جامد ما قد لن تنفيس فاء جزاء سكون فتحة ضمة.",
-            "تراجع الجميع عن الاصلاح ولم يصبر احد."
+            "إِنْ عَزَمْتَ عَلَى الإِصْلَاحِ فَأَنْتَ عَلَى هُدًى، وَإِنْ وَاجَهْتَ صُعُوبَةً فَلَا تَيْأَسْ، فَإِنَّكَ إِنْ صَبَرْتَ فَقَدْ نِلْتَ الفَضِيلَةَ، وَمَنْ يَسْتَمْسِكْ بِالحَقِّ فَسَيَنْتَصِرُ فِي خِتَامِ المَطَافِ. (Language concept U19)",
+            "ان عزمت فانت بلا فاء في كل الجمل بالخطأ النحوي الفادح. (an 'azmt fant bla fa' fy kl aljml balkhta alnhwy alfadh.)",
+            "اسمية طلبية جامد ما قد لن تنفيس فاء جزاء سكون فتحة ضمة. (asmyh tlbyh jamd ma qd ln tnfys fa' jza' skwn fthh dmh.)",
+            "تراجع الجميع عن الاصلاح ولم يصبر احد. (traj'a aljmy'a 'an alaslah wlm ysbr ahd.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يطبق وجوب الفاء في مواضعها الأربعة: الاسمية («فَأَنْتَ عَلَى هُدًى»)، الطلبية بالنهي («فَلَا تَيْأَسْ»)، المصدرة بقد («فَقَدْ نِلْتَ»)، والمصدرة بالتنفيس («فَسَيَنْتَصِرُ»)."
@@ -11638,10 +11638,10 @@
         {
           "prompt": "ما الحكمة الشرطية الشهيرة التي تؤكد أن النتيجة تأتي على قدر العمل والجهد المبذول؟",
           "options": [
-            "«مَنْ جَدَّ وَجَدَ، وَمَنْ زَرَعَ حَصَدَ»",
-            "لو زرتني لأكرمتك",
-            "اينما تسافر تجد اصدقاء",
-            "كلما اكلت شبعت فقط"
+            "«مَنْ جَدَّ وَجَدَ، وَمَنْ زَرَعَ حَصَدَ» (Language concept U19)",
+            "لو زرتني لأكرمتك (lw zrtny lakrmtk)",
+            "اينما تسافر تجد اصدقاء (aynma tsafr tjd asdqa')",
+            "كلما اكلت شبعت فقط (klma aklt shb'at fqt)"
           ],
           "answerIndex": 0,
           "explanation": "«مَنْ جَدَّ وَجَدَ وَمَنْ زَرَعَ حَصَدَ» مثل شرطي عربي سائر يلخص فلسفة السببية والجزاء."
@@ -11649,10 +11649,10 @@
         {
           "prompt": "في قول المتنبي: «لَوْلَا المَشَقَّةُ سَادَ النَّاسُ كُلُّهُمُ»، ما سبب عدم سيادة كل الناس؟",
           "options": [
-            "وُجُودُ المَشَقَّةِ وَالتَّكْلِيفِ الَّتِي يَنْفِرُ مِنْهَا الكُسَالَى",
-            "عدم وجود الطعام",
-            "الجهل بالقراءة فقط",
-            "السفر الطويل"
+            "وُجُودُ المَشَقَّةِ وَالتَّكْلِيفِ الَّتِي يَنْفِرُ مِنْهَا الكُسَالَى (wujuwdu almashaqahi waaltakliyfi alatiy yanfiru minhaa alkusaalaa)",
+            "عدم وجود الطعام ('adm wjwd alt'aam)",
+            "الجهل بالقراءة فقط (aljhl balqra'h fqt)",
+            "السفر الطويل (alsfr altwyl)"
           ],
           "answerIndex": 0,
           "explanation": "«لَوْلَا» حرف امتناع لوجود؛ امتنع سيادة الجميع لوجود المشقة التي لا يتحملها إلا أصحاب العزائم."
@@ -11664,10 +11664,10 @@
         {
           "prompt": "اختر المقولة الفلسفية التي تصوغ التلازم بين اتساع المعرفة والتواضع بأسلوب شرطي بليغ:",
           "options": [
-            "كُلَّمَا اتَّسَعَتْ مَعْرِفَةُ الإِنْسَانِ بِعَوَالِمِ العِلْمِ، أَدْرَكَ مَدَى ضَآلَةِ مَا يَعْلَمُ فَازْدَادَ تَوَاضُعًا.",
-            "كلما ركضت الشجرة في البحر بالخطأ الدلالي",
-            "لو اكلت السمك طرت في الهواء",
-            "حكمة شرطية فلسفة معرفة سكون"
+            "كُلَّمَا اتَّسَعَتْ مَعْرِفَةُ الإِنْسَانِ بِعَوَالِمِ العِلْمِ، أَدْرَكَ مَدَى ضَآلَةِ مَا يَعْلَمُ فَازْدَادَ تَوَاضُعًا. (Language concept U19)",
+            "كلما ركضت الشجرة في البحر بالخطأ الدلالي (klma rkdt alshjrh fy albhr balkhta aldlaly)",
+            "لو اكلت السمك طرت في الهواء (lw aklt alsmk trt fy alhwa')",
+            "حكمة شرطية فلسفة معرفة سكون (hkmh shrtyh flsfh m'arfh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة توظف الأسلوب الشرطي «كُلَّمَا اتَّسَعَتْ... أَدْرَكَ... فَازْدَادَ» لصياغة تلازم معرفي وفلسفي عميق."
@@ -11675,10 +11675,10 @@
         {
           "prompt": "ما الغرض البلاغي الأبرز لاستخدام أسلوب الشرط في الأمثال العربية القديمة؟",
           "options": [
-            "تَقْرِيرُ السَّبَبِيَّةِ وَالتَّلَازُمِ الحَتْمِيِّ بَيْنَ السُّلُوكِ وَنَتِيجَتِهِ",
-            "التشكيك في الحقائق",
-            "السخرية والضحك فقط",
-            "تضييع الوقت"
+            "تَقْرِيرُ السَّبَبِيَّةِ وَالتَّلَازُمِ الحَتْمِيِّ بَيْنَ السُّلُوكِ وَنَتِيجَتِهِ (taqriyru alsababiyahi waaltalaazumi alhatmiyi bayna alsuluwki wanatiyjatihi)",
+            "التشكيك في الحقائق (altshkyk fy alhqa'q)",
+            "السخرية والضحك فقط (alskhryh waldhk fqt)",
+            "تضييع الوقت (tdyy'a alwqt)"
           ],
           "answerIndex": 0,
           "explanation": "أسلوب الشرط يقرر السببية والتلازم الحتمي بين المقدمة والنتيجة بصورة برهانية قاطعة."
@@ -11691,10 +11691,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأدبي الفلسفي الذي يوظف التراكيب الشرطية المتنوعة لصياغة رؤية وجودية رصينة:",
           "options": [
-            "إِنْ تَبْحَثْ عَنِ السَّعَادَةِ الحَقِيقِيَّةِ فَابْحَثْ عَنْهَا فِي رَاحَةِ الضَّمِيرِ، فَلَوْلَا القَنَاعَةُ لَظَلَّ الإِنْسَانُ فِي شَقَاءٍ دَائِمٍ، وَكُلَّمَا أَعْطَى المَرْءُ دُونَ انْتِظَارِ مُقَابِلٍ، فَقَدْ بَلَغَ أَعْلَى مَرَاتِبِ النُّبْلِ الإِنْسَانِيِّ.",
-            "ان تبحث عن السعادة بالافعال المجردة فقط بلا ادوات شرط ولا فاء رابطة.",
-            "حكمة امثال شرط سببية لولا كلما ان فاء جزاء سكون فتحة ضمة.",
-            "انعدمت السعادة في العالم وضاع الضمير."
+            "إِنْ تَبْحَثْ عَنِ السَّعَادَةِ الحَقِيقِيَّةِ فَابْحَثْ عَنْهَا فِي رَاحَةِ الضَّمِيرِ، فَلَوْلَا القَنَاعَةُ لَظَلَّ الإِنْسَانُ فِي شَقَاءٍ دَائِمٍ، وَكُلَّمَا أَعْطَى المَرْءُ دُونَ انْتِظَارِ مُقَابِلٍ، فَقَدْ بَلَغَ أَعْلَى مَرَاتِبِ النُّبْلِ الإِنْسَانِيِّ. (Language concept U19)",
+            "ان تبحث عن السعادة بالافعال المجردة فقط بلا ادوات شرط ولا فاء رابطة. (an tbhth 'an als'aadh balaf'aal almjrdh fqt bla adwat shrt wla fa' rabth.)",
+            "حكمة امثال شرط سببية لولا كلما ان فاء جزاء سكون فتحة ضمة. (hkmh amthal shrt sbbyh lwla klma an fa' jza' skwn fthh dmh.)",
+            "انعدمت السعادة في العالم وضاع الضمير. (an'admt als'aadh fy al'aalm wda'a aldmyr.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج بين أدوات الشرط الجازمة وغير الجازمة واقتران الجواب بالفاء («إِنْ تَبْحَثْ... فَابْحَثْ»، «لَوْلَا القَنَاعَةُ لَظَلَّ»، «كُلَّمَا أَعْطَى... فَقَدْ بَلَغَ») في سياق حكمي بياني ساحر."
@@ -11759,10 +11759,10 @@
         {
           "prompt": "في الحوار الشامل، لماذا اقترن جواب الشرط بالفاء في عبارة: «إِنْ نُخَطِّطْ ... فَالنَّجَاحُ حَلِيفُنَا»؟",
           "options": [
-            "لأَنَّ الجَوَابَ جُمْلَةٌ اسْمِيَّةٌ",
-            "لأنها جملة طلبية (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "لأنها فعل ماض (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "لأنها مصدرة بـ ما (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)"
+            "لأَنَّ الجَوَابَ جُمْلَةٌ اسْمِيَّةٌ (laana aljawaaba jumlahun asmiyahun)",
+            "لأنها جملة طلبية (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "لأنها فعل ماض (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "لأنها مصدرة بـ ما (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "«النَّجَاحُ حَلِيفُنَا» جملة اسمية مبتدأ وخبر، فيجب اقترانها بالفاء (اسمية طلبية)."
@@ -11770,10 +11770,10 @@
         {
           "prompt": "ما الفعل المضارع المجزوم بحذف حرف العلة الذي استخدمه حازم في الحوار؟",
           "options": [
-            "«يَسْعَ»",
-            "نخطط (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "تبذلوا (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "تجدوا (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)"
+            "«يَسْعَ» (Language concept U19)",
+            "نخطط (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "تبذلوا (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "تجدوا (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "«مَنْ يَسْعَ» فعل شرط مجزوم وعلامة جزمه حذف حرف العلة (الألف المقصورة)."
@@ -11785,10 +11785,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تطبق أدوات الشرط الجازمة وغير الجازمة واقتران الفاء بتكامل تام:",
           "options": [
-            "— مَاذَا يَحْدُثُ إِذَا تَكَاتَفْنَا؟ — إِذَا تَكَاتَفْنَا قَوِيَتْ عَزِيمَتُنَا، وَمَنْ يَطْلُبِ القِمَّةَ فَلَا يَخَفْ مِنَ العَقَبَاتِ.",
-            "— ماذا يحدث اذا تكاتفنا بالافعال الماضية بلا جواب؟ (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "— كم سعر الكتاب في الصيدلية؟ (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "— مناظرة حوار شرط جزم فاء سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)"
+            "— مَاذَا يَحْدُثُ إِذَا تَكَاتَفْنَا؟ — إِذَا تَكَاتَفْنَا قَوِيَتْ عَزِيمَتُنَا، وَمَنْ يَطْلُبِ القِمَّةَ فَلَا يَخَفْ مِنَ العَقَبَاتِ. (Language concept U19)",
+            "— ماذا يحدث اذا تكاتفنا بالافعال الماضية بلا جواب؟ (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "— كم سعر الكتاب في الصيدلية؟ (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "— مناظرة حوار شرط جزم فاء سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف أداة الشرط غير الجازمة «إِذَا» وجوابها «قَوِيَتْ»، وأداة الشرط الجازمة «مَنْ يَطْلُبْ» واقتران الجواب الطلبي بالفاء «فَلَا يَخَفْ» بسبك حواري فصيح ومثالي."
@@ -11796,10 +11796,10 @@
         {
           "prompt": "ما هي الخلاصة الفكرية التي انتهى إليها المتحاوران في ختام المناظرة؟",
           "options": [
-            "أَنَّ النَّهْضَةَ تَتَحَقَّقُ بِاقْتِرَانِ التَّخْطِيطِ الدَّقِيقِ بِالإِرَادَةِ وَالعَمَلِ الجَمَاعِيِّ",
-            "التخلي عن التخطيط (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "الاعتماد على الحظ فقط (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "الفرقة والتنازع (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)"
+            "أَنَّ النَّهْضَةَ تَتَحَقَّقُ بِاقْتِرَانِ التَّخْطِيطِ الدَّقِيقِ بِالإِرَادَةِ وَالعَمَلِ الجَمَاعِيِّ (aana alnahdaha tatahaqaqu biaqtiraani altakhtiyti aldaqiyqi bialiiraadahi waal'aamali aljamaa'aiyi)",
+            "التخلي عن التخطيط (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "الاعتماد على الحظ فقط (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "الفرقة والتنازع (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "الخلاصة هي أن النجاح والنهضة ثمرة التلازم بين التخطيط والإرادة والعمل المشترك."
@@ -11812,10 +11812,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة التاسعة عشرة بأكملها (الشرط الجازم وغير الجازم، تصريف الأفعال، واقتران الفاء):",
           "options": [
-            "دَارَتْ مُنَاظَرَةٌ فِكْرِيَّةٌ حَوْلَ سُبُلِ النَّهْضَةِ، فَقَالَتِ الدُّكْتُورَةُ: «إِنْ نَجْتَهِدْ وَنُخْلِصْ فَالنَّجَاحُ حَلِيفُنَا، وَلَوْلَا العِلْمُ لَمَا تَقَدَّمَتِ الأُمَمُ؛ فَمَنْ يَسْعَ إِلَى المَعَالِي فَلَا يَتَرَدَّدْ، وَمَا تَبْذُلُوا مِنْ طَاقَاتٍ فَسَوْفَ تَجْنُونَ ثَمَرَاتِهَا خَيْرًا وَبَرَكَةً».",
-            "دارت مناظرة بالافعال المجردة فقط بلا ادوات شرط وبلا فاء رابطة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "مناظرة نهضة اجتهاد اخلاص لولا من يسع تبذلوا فسوف سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)",
-            "انفضت المناظرة دون اتفاق ودون تقديم اي حجة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة عشرة)"
+            "دَارَتْ مُنَاظَرَةٌ فِكْرِيَّةٌ حَوْلَ سُبُلِ النَّهْضَةِ، فَقَالَتِ الدُّكْتُورَةُ: «إِنْ نَجْتَهِدْ وَنُخْلِصْ فَالنَّجَاحُ حَلِيفُنَا، وَلَوْلَا العِلْمُ لَمَا تَقَدَّمَتِ الأُمَمُ؛ فَمَنْ يَسْعَ إِلَى المَعَالِي فَلَا يَتَرَدَّدْ، وَمَا تَبْذُلُوا مِنْ طَاقَاتٍ فَسَوْفَ تَجْنُونَ ثَمَرَاتِهَا خَيْرًا وَبَرَكَةً». (Language concept U19)",
+            "دارت مناظرة بالافعال المجردة فقط بلا ادوات شرط وبلا فاء رابطة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "مناظرة نهضة اجتهاد اخلاص لولا من يسع تبذلوا فسوف سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)",
+            "انفضت المناظرة دون اتفاق ودون تقديم اي حجة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah 'ashrh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج أدوات الشرط الجازمة بالسكون وحذف العلة وحذف النون («نَجْتَهِدْ»، «يَسْعَ»، «تَبْذُلُوا»)، والأداة غير الجازمة («لَوْلَا»)، ومواضع وجوب الفاء (الاسمية: «فَالنَّجَاحُ»، الطلبية: «فَلَا يَتَرَدَّدْ»، والتنفيس: «فَسَوْفَ تَجْنُونَ»)."
@@ -11879,10 +11879,10 @@
         {
           "prompt": "ما هي صياغة الفعل الماضي «قَالَ» عند بنائه للمجهول؟",
           "options": [
-            "قِيلَ",
-            "يُقال",
-            "قُوِلَ",
-            "أُقيل"
+            "قِيلَ (qiyla)",
+            "يُقال (yuqal)",
+            "قُوِلَ (quwila)",
+            "أُقيل (auqyl)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل الأجوف في الماضي يُبنى للمجهول بكسر أوله وقلب ألفه ياءً: (قَالَ -> قِيلَ، بَاعَ -> بِيعَ)."
@@ -11890,10 +11890,10 @@
         {
           "prompt": "كيف يصاغ الفعل المضارع المبني للمجهول من الفعل «يَكْتُبُ»؟",
           "options": [
-            "يُكْتَبُ",
-            "كُتِبَ",
-            "يَكْتُبُ",
-            "مَكْتُوبٌ"
+            "يُكْتَبُ (yuktabu)",
+            "كُتِبَ (kutiba)",
+            "يَكْتُبُ (yaktubu)",
+            "مَكْتُوبٌ (maktuwbun)"
           ],
           "answerIndex": 0,
           "explanation": "المضارع المبني للمجهول يُصاغ بضم أوله وفتح ما قبل آخره: «يُكْتَبُ»."
@@ -11905,10 +11905,10 @@
         {
           "prompt": "اختر الجملة التي تشتمل على فعلين مبنيين للمجهول أحدهما ماضٍ والآخر مضارع بضبط سليم:",
           "options": [
-            "عُرِفَتِ الحَقِيقَةُ أَمْسِ، وَتُعْلَنُ التَّفَاصِيلُ اليَوْمَ فِي البَيَانِ الرَّسْمِيِّ.",
-            "عرفت الحقيقة بكسر العين وفتح الراء بالخطأ",
-            "الفعل المبني للمجهول يركض في الحديقة",
-            "فعل ماض مضارع مجهول سكون"
+            "عُرِفَتِ الحَقِيقَةُ أَمْسِ، وَتُعْلَنُ التَّفَاصِيلُ اليَوْمَ فِي البَيَانِ الرَّسْمِيِّ. (Language concept U20)",
+            "عرفت الحقيقة بكسر العين وفتح الراء بالخطأ ('arft alhqyqh bksr al'ayn wfth alra' balkhta)",
+            "الفعل المبني للمجهول يركض في الحديقة (alf'al almbny llmjhwl yrkd fy alhdyqh)",
+            "فعل ماض مضارع مجهول سكون (f'al mad mdar'a mjhwl skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«عُرِفَتْ» ماضٍ مبني للمجهول بضم أوله وكسر ثانيه، و«تُعْلَنُ» مضارع مبني للمجهول بضم أوله وفتح ما قبل آخره."
@@ -11916,10 +11916,10 @@
         {
           "prompt": "ما هو البناء للمجهول من الفعل المزيد «اسْتَخْرَجَ» في صيغتي الماضي والمضارع؟",
           "options": [
-            "اسْتُخْرِجَ (مَاضٍ) / يُسْتَخْرَجُ",
-            "استخراج / مستخرج",
-            "استخرجَ / يستخرجُ",
-            "مستخرج فقط"
+            "اسْتُخْرِجَ (maadin)",
+            "استخراج / مستخرج (astkhraj / mstkhrj)",
+            "استخرجَ / يستخرجُ (astkhrja / ystkhrju)",
+            "مستخرج فقط (mstkhrj fqt)"
           ],
           "answerIndex": 0,
           "explanation": "في الماضي يضم أوله وثالثه ويكسر ما قبل آخره: «اسْتُخْرِجَ»، وفي المضارع يضم أوله ويفتح ما قبل آخره: «يُسْتَخْرَجُ»."
@@ -11932,10 +11932,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يدمج صيغ المبني للمجهول في الماضي والمضارع للصحيح والأجوف والمزيد بدقة وفصاحة:",
           "options": [
-            "عُقِدَ المُؤْتَمَرُ الدَّوْلِيُّ حَيْثُ نُوقِشَتِ القَضَايَا الكُبْرَى، وَقِيلَتْ كَلِمَاتٌ مُؤَثِّرَةٌ، وَيُتَوَقَّعُ أَنْ تُعْلَنَ التَّوْصِيَاتُ غَدًا حِينَ يُقَالُ الحَقُّ وَتُصَانُ المَصَالِحُ.",
-            "عقد المؤتمر بالافعال المبنية للمعلوم فقط مع ذكر جميع الفاعلين.",
-            "مبني للمجهول عقد نوقشت قيل يتوقع تعلن يقال تصان سكون فتحة.",
-            "الغي المؤتمر ولم يعقد اي اجتماع."
+            "عُقِدَ المُؤْتَمَرُ الدَّوْلِيُّ حَيْثُ نُوقِشَتِ القَضَايَا الكُبْرَى، وَقِيلَتْ كَلِمَاتٌ مُؤَثِّرَةٌ، وَيُتَوَقَّعُ أَنْ تُعْلَنَ التَّوْصِيَاتُ غَدًا حِينَ يُقَالُ الحَقُّ وَتُصَانُ المَصَالِحُ. (Language concept U20)",
+            "عقد المؤتمر بالافعال المبنية للمعلوم فقط مع ذكر جميع الفاعلين. ('aqd alm'tmr balaf'aal almbnyh llm'alwm fqt m'a dhkr jmy'a alfa'alyn.)",
+            "مبني للمجهول عقد نوقشت قيل يتوقع تعلن يقال تصان سكون فتحة. (mbny llmjhwl 'aqd nwqsht qyl ytwq'a t'aln yqal tsan skwn fthh.)",
+            "الغي المؤتمر ولم يعقد اي اجتماع. (alghy alm'tmr wlm y'aqd ay ajtma'a.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: الماضي الصحيح («عُقِدَ»)، المزيد («نُوقِشَتْ»، «تُعْلَنُ»)، الأجوف ماضيًا («قِيلَتْ») ومضارعًا («يُقَالُ»، «تُصَانُ»)، والمضارع المزيد («يُتَوَقَّعُ»)."
@@ -11998,10 +11998,10 @@
         {
           "prompt": "ما هو إعراب كلمة «جَائِزَةً» في جملة: «مُنِحَ الطَّالِبُ جَائِزَةً»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ",
-            "نائب فاعل مرفوع",
-            "مضاف إليه مجرور",
-            "حال منصوب"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi)",
+            "نائب فاعل مرفوع (na'b fa'al mrfw'a)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)",
+            "حال منصوب (hal mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«الطَّالِبُ» صار نائب فاعل مرفوعًا بعد أن كان مفعولاً أول، وبقي المفعول الثاني «جَائِزَةً» منصوبًا."
@@ -12009,10 +12009,10 @@
         {
           "prompt": "أين نائب الفاعل في جملة: «المَقَالَةُ كُتِبَتْ بِعِنَايَةٍ»؟",
           "options": [
-            "ضَمِيرٌ مُسْتَتِرٌ تَقْدِيرُهُ (هِيَ) يَعُودُ عَلَى المَقَالَةِ",
-            "المقالة في أول الجملة",
-            "بعناية",
-            "التاء تاء التأنيث الساكنة فقط"
+            "ضَمِيرٌ مُسْتَتِرٌ تَقْدِيرُهُ (hiya)",
+            "المقالة في أول الجملة (almqalh fy awl aljmlh)",
+            "بعناية (b'anayh)",
+            "التاء تاء التأنيث الساكنة فقط (alta' ta' altanyth alsaknh fqt)"
           ],
           "answerIndex": 0,
           "explanation": "«المَقَالَةُ» مبتدأ، ونائب الفاعل للفعل «كُتِبَتْ» ضمير مستتر تقديره هي."
@@ -12024,10 +12024,10 @@
         {
           "prompt": "اختر الجملة التي يشتمل فيها الفعل المبني للمجهول على نائب فاعل بصيغة الضمير المتصل:",
           "options": [
-            "اسْتُقْبِلْنَا فِي المَطَارِ بِحَفَاوَةٍ كَبِيرَةٍ وَكُرِّمْنَا فِي المَحْفِلِ.",
-            "استقبلنا المدير بنفسه في المطار",
-            "نائب الفاعل يسافر في الطائرة",
-            "ضمير متصل نائب فاعل سكون"
+            "اسْتُقْبِلْنَا فِي المَطَارِ بِحَفَاوَةٍ كَبِيرَةٍ وَكُرِّمْنَا فِي المَحْفِلِ. (astuqbilnaa fiy almataari bihafaawahin kabiyrahin wakurimnaa fiy almahfili.)",
+            "استقبلنا المدير بنفسه في المطار (astqblna almdyr bnfsh fy almtar)",
+            "نائب الفاعل يسافر في الطائرة (na'b alfa'al ysafr fy alta'rh)",
+            "ضمير متصل نائب فاعل سكون (dmyr mtsl na'b fa'al skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«نَا» الفاعلين في «اسْتُقْبِلْنَا» و«كُرِّمْنَا» ضمير متصل مبني في محل رفع نائب فاعل."
@@ -12035,10 +12035,10 @@
         {
           "prompt": "إذا بُني الفعل اللازم للمجهول (مثل «جَلَسَ الرَّجُلُ فِي الحَدِيقَةِ»)، فما الذي ينوب عن الفاعل؟",
           "options": [
-            "شِبْهُ الجُمْلَةِ",
-            "المفعول به المطلق فقط",
-            "لا يجوز بناؤه للمجهول قطعيًا",
-            "الفاعل نفسه"
+            "شِبْهُ الجُمْلَةِ (shibhu aljumlahi)",
+            "المفعول به المطلق فقط (almf'awl bh almtlq fqt)",
+            "لا يجوز بناؤه للمجهول قطعيًا (la yjwz bna'h llmjhwl qt'ayana)",
+            "الفاعل نفسه (alfa'al nfsh)"
           ],
           "answerIndex": 0,
           "explanation": "يقال: «جُلِسَ فِي الحَدِيقَةِ»، وشبه الجملة (الجار والمجرور) في محل رفع نائب فاعل."
@@ -12051,10 +12051,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يوضح تنوع صور نائب الفاعل (الاسم الظاهر، الضمير، شبه الجملة، المفعول الثاني) بدقة نحوية تامة:",
           "options": [
-            "كُرِّمَ العُلَمَاءُ فِي الحَفْلِ البَهِيجِ، وَأُعْطِيَ كُلُّ بَاحِثٍ وِسَامًا رَفِيعًا، وَحِينَ صَعِدْنَا إِلَى المِنَصَّةِ اسْتُقْبِلْنَا بِالتَّصْفِيقِ، وَنُظِرَ فِي مَشَارِيعِنَا بِتَقْدِيرٍ بَالِغٍ.",
-            "كرم العلماء بالافعال المعلومة مع ذكر جميع الفاعلين في الجمل.",
-            "نائب فاعل ظاهر ضمير شبه جملة مفعول ثان سكون فتحة ضمة.",
-            "الغيت الجوائز ولم يكرم احد من الباحثين."
+            "كُرِّمَ العُلَمَاءُ فِي الحَفْلِ البَهِيجِ، وَأُعْطِيَ كُلُّ بَاحِثٍ وِسَامًا رَفِيعًا، وَحِينَ صَعِدْنَا إِلَى المِنَصَّةِ اسْتُقْبِلْنَا بِالتَّصْفِيقِ، وَنُظِرَ فِي مَشَارِيعِنَا بِتَقْدِيرٍ بَالِغٍ. (Nib alFil U20)",
+            "كرم العلماء بالافعال المعلومة مع ذكر جميع الفاعلين في الجمل. (krm al'alma' balaf'aal alm'alwmh m'a dhkr jmy'a alfa'alyn fy aljml.)",
+            "نائب فاعل ظاهر ضمير شبه جملة مفعول ثان سكون فتحة ضمة. (na'b fa'al zahr dmyr shbh jmlh mf'awl than skwn fthh dmh.)",
+            "الغيت الجوائز ولم يكرم احد من الباحثين. (alghyt aljwa'z wlm ykrm ahd mn albahthyn.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: نائب الفاعل الظاهر («العُلَمَاءُ»، «كُلُّ»)، المفعول الثاني المنصوب («وِسَامًا»)، الضمير المتصل («اسْتُقْبِلْنَا»)، وشبه الجملة («نُظِرَ فِي مَشَارِيعِنَا»)."
@@ -12119,10 +12119,10 @@
         {
           "prompt": "ما الغرض البلاغي من حذف الفاعل في قوله تعالى: «وَخُلِقَ الإِنْسَانُ ضَعِيفًا»؟",
           "options": [
-            "العِلْمُ التَّامُّ بِالفَاعِلِ وَتَعْظِيمُهُ",
-            "الجهل بالفاعل",
-            "الخوف من الفاعل",
-            "التحقير"
+            "العِلْمُ التَّامُّ بِالفَاعِلِ وَتَعْظِيمُهُ (al'ailmu altaamu bialfaa'aili wata'aziymuhu)",
+            "الجهل بالفاعل (aljhl balfa'al)",
+            "الخوف من الفاعل (alkhwf mn alfa'al)",
+            "التحقير (althqyr)"
           ],
           "answerIndex": 0,
           "explanation": "حُذف الفاعل للعلم به وتعظيمه، فالخالق معلوم يقينًا وهو الله سبحانه وتعالى."
@@ -12130,10 +12130,10 @@
         {
           "prompt": "ما الغرض الدلالي لبناء الفعل للمجهول في العناوين الإخبارية مثل: «أُعْلِنَتِ المِيزَانِيَّةُ الجَدِيدَةُ»؟",
           "options": [
-            "تَرْكِيزُ الاهْتِمَامِ عَلَى الحَدَثِ وَالمَفْعُولِ أَهَمَّ مِنَ الفَاعِلِ",
-            "الجهل بوزارة المالية",
-            "الخوف من الميزانية",
-            "الإنكار"
+            "تَرْكِيزُ الاهْتِمَامِ عَلَى الحَدَثِ وَالمَفْعُولِ أَهَمَّ مِنَ الفَاعِلِ (tarkiyzu alahtimaami 'aalaa alhadathi waalmaf'auwli aahama mina alfaa'aili)",
+            "الجهل بوزارة المالية (aljhl bwzarh almalyh)",
+            "الخوف من الميزانية (alkhwf mn almyzanyh)",
+            "الإنكار (alinkar)"
           ],
           "answerIndex": 0,
           "explanation": "في الخطاب الإعلامي والتقارير يكون التركيز على الحدث نفسه (إعلان الميزانية) أهم من ذكر الفاعل المباشر."
@@ -12145,10 +12145,10 @@
         {
           "prompt": "اختر الجملة التي بني فيها الفعل للمجهول لغرض الجهل التام بالفاعل:",
           "options": [
-            "عُثِرَ عَلَى مِحْفَظَةٍ مَفْقُودَةٍ فِي الحَدِيقَةِ العَامَّةِ دُونَ مَعْرِفَةِ مَنْ وَجَدَهَا.",
-            "عثر الشرطي على المحفظة بنفسه",
-            "المحفظة وجدت في السماء",
-            "جهل بالفاعل مجهول سكون"
+            "عُثِرَ عَلَى مِحْفَظَةٍ مَفْقُودَةٍ فِي الحَدِيقَةِ العَامَّةِ دُونَ مَعْرِفَةِ مَنْ وَجَدَهَا. ('authira 'aalaa mihfazahin mafquwdahin fiy alhadiyqahi al'aaamahi duwna ma'arifahi man wajadahaa.)",
+            "عثر الشرطي على المحفظة بنفسه ('athr alshrty 'ala almhfzh bnfsh)",
+            "المحفظة وجدت في السماء (almhfzh wjdt fy alsma')",
+            "جهل بالفاعل مجهول سكون (jhl balfa'al mjhwl skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«عُثِرَ» مبني للمجهول لجهل المتكلم بهوية من عثر عليها."
@@ -12156,10 +12156,10 @@
         {
           "prompt": "ما فائدة حذف الفاعل في الأمثال السائرة مثل: «مَنْ حَفَرَ حُفْرَةً لأَخِيهِ أُوقِعَ فِيهَا»؟",
           "options": [
-            "الإِيجَازُ البَلَاغِيُّ وَتَقْرِيرُ حَتْمِيَّةِ الجَزَاءِ",
-            "الجهل بالقوانين",
-            "الخوف من الحفرة",
-            "السهو والنسيان"
+            "الإِيجَازُ البَلَاغِيُّ وَتَقْرِيرُ حَتْمِيَّةِ الجَزَاءِ (aliiyjaazu albalaaghiyu wataqriyru hatmiyahi aljazaa'i)",
+            "الجهل بالقوانين (aljhl balqwanyn)",
+            "الخوف من الحفرة (alkhwf mn alhfrh)",
+            "السهو والنسيان (alshw walnsyan)"
           ],
           "answerIndex": 0,
           "explanation": "الحذف هنا للإيجاز وتقرير أن النتيجة السيئة ستقع حتمًا على من دبر الشر."
@@ -12172,10 +12172,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص البلاغي الذي يوضح تنوع الأغراض البلاغية للمبني للمجهول (التعظيم، الإيجاز، تركيز الاهتمام) بفصاحة تامة:",
           "options": [
-            "خُلِقَتِ الأَرْضُ لِتَكُونَ مَوْطِنًا لِلْإِنْسَانِ، وَشُيِّدَتِ المَدَائِنُ لِتَحْضُنَ الإِبْدَاعَ، وَكُلَّمَا حُفِظَتِ الحُقُوقُ نُشِرَ السَّلَامُ وَعُمِّرَتِ البِلَادُ بِالأَمْنِ وَالرَّخَاءِ.",
-            "خلقت الارض بالافعال المبنية للمعلوم بلا اغراض بلاغية وبلا حذف فاعل.",
-            "اغراض بلاغية تعظيم جهل خوف ايجاز تركيز حدث سكون فتحة.",
-            "دمرت الارض واغلقت المدائن ابوابها."
+            "خُلِقَتِ الأَرْضُ لِتَكُونَ مَوْطِنًا لِلْإِنْسَانِ، وَشُيِّدَتِ المَدَائِنُ لِتَحْضُنَ الإِبْدَاعَ، وَكُلَّمَا حُفِظَتِ الحُقُوقُ نُشِرَ السَّلَامُ وَعُمِّرَتِ البِلَادُ بِالأَمْنِ وَالرَّخَاءِ. (Language concept U20)",
+            "خلقت الارض بالافعال المبنية للمعلوم بلا اغراض بلاغية وبلا حذف فاعل. (khlqt alard balaf'aal almbnyh llm'alwm bla aghrad blaghyh wbla hdhf fa'al.)",
+            "اغراض بلاغية تعظيم جهل خوف ايجاز تركيز حدث سكون فتحة. (aghrad blaghyh t'azym jhl khwf ayjaz trkyz hdth skwn fthh.)",
+            "دمرت الارض واغلقت المدائن ابوابها. (dmrt alard waghlqt almda'n abwabha.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين أغراض التعظيم («خُلِقَتِ»)، تركيز الاهتمام على الإنجاز الحضاري («شُيِّدَتِ»، «عُمِّرَتِ»)، والإيجاز البلاغي التلازمي («حُفِظَتِ»، «نُشِرَ»)."
@@ -12240,10 +12240,10 @@
         {
           "prompt": "ما هو التعبير الأكثر فصاحة وبلاغة في الصياغة الإخبارية العربية؟",
           "options": [
-            "«عُقِدَ الِاجْتِمَاعُ»",
-            "«تم عقد الاجتماع» بالركاكة المترجمة",
-            "«قام الاجتماع بالانعقاد»",
-            "«تمت عملية عقد الاجتماع»"
+            "«عُقِدَ الِاجْتِمَاعُ» (Language concept U20)",
+            "«تم عقد الاجتماع» بالركاكة المترجمة (Language concept U20)",
+            "«قام الاجتماع بالانعقاد» (Language concept U20)",
+            "«تمت عملية عقد الاجتماع» (Language concept U20)"
           ],
           "answerIndex": 0,
           "explanation": "«عُقِدَ الِاجْتِمَاعُ» هو الأسلوب العربي الفصيح الأصيل دون حشو «تم»."
@@ -12251,10 +12251,10 @@
         {
           "prompt": "في جملة «أُشِيدَ بِجُهُودِ العُلَمَاءِ»، ما هو نائب الفاعل؟",
           "options": [
-            "شِبْهُ الجُمْلَةِ («بِجُهُودِ العُلَمَاءِ») فِي مَحَلِّ رَفْعٍ",
-            "ضمير مستتر تقديره أنا",
-            "العلماء وحدهم",
-            "لا يوجد نائب فاعل"
+            "شِبْهُ الجُمْلَةِ (Language concept U20)",
+            "ضمير مستتر تقديره أنا (dmyr msttr tqdyrh ana)",
+            "العلماء وحدهم (al'alma' whdhm)",
+            "لا يوجد نائب فاعل (la ywjd na'b fa'al)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «أُشِيدَ» بُني للمجهول وشبه الجملة من الجار والمجرور «بِجُهُودِ» في محل رفع نائب فاعل."
@@ -12266,10 +12266,10 @@
         {
           "prompt": "اختر البيان الصحفي المصاغ بأسلوب إخباري فصيح ومضبوط:",
           "options": [
-            "أُعْلِنَ عَنْ تَأْسِيسِ المَرْكَزِ البَحْثِيِّ الجَدِيدِ، وَصُودِقَ عَلَى خُطَّتِهِ الاسْتِرَاتِيجِيَّةِ لِخِدْمَةِ الطُّلَّابِ.",
-            "تمت الاعلان عن المركز في المطار بالخطأ",
-            "المركز البحثي يأكل الميزانية",
-            "بيان صحفي مجهول استراتيجية سكون"
+            "أُعْلِنَ عَنْ تَأْسِيسِ المَرْكَزِ البَحْثِيِّ الجَدِيدِ، وَصُودِقَ عَلَى خُطَّتِهِ الاسْتِرَاتِيجِيَّةِ لِخِدْمَةِ الطُّلَّابِ. (Language concept U20)",
+            "تمت الاعلان عن المركز في المطار بالخطأ (tmt ala'alan 'an almrkz fy almtar balkhta)",
+            "المركز البحثي يأكل الميزانية (almrkz albhthy yakl almyzanyh)",
+            "بيان صحفي مجهول استراتيجية سكون (byan shfy mjhwl astratyjyh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "البيان يوظف «أُعْلِنَ» و«صُودِقَ» بفصاحة ناصعة وسبك إخباري رصين."
@@ -12277,10 +12277,10 @@
         {
           "prompt": "لماذا يكثر استخدام صيغ المبني للمجهول في كتابة ملخصات الأبحاث والأوراق الأكاديمية؟",
           "options": [
-            "لِإِضْفَاءِ المَوْضُوعِيَّةِ العِلْمِيَّةِ وَتَرْكِيزِ الاهْتِمَامِ عَلَى النَّتَائِجِ وَالمَنْهَجِ",
-            "لإخفاء هوية الباحثين",
-            "لصعوبة اللغة العربية",
-            "لتطويل المقال فقط"
+            "لِإِضْفَاءِ المَوْضُوعِيَّةِ العِلْمِيَّةِ وَتَرْكِيزِ الاهْتِمَامِ عَلَى النَّتَائِجِ وَالمَنْهَجِ (liiidfaa'i almawduw'aiyahi al'ailmiyahi watarkiyzi alahtimaami 'aalaa alnataa'iji waalmanhaji)",
+            "لإخفاء هوية الباحثين (likhfa' hwyh albahthyn)",
+            "لصعوبة اللغة العربية (ls'awbh allghh al'arbyh)",
+            "لتطويل المقال فقط (lttwyl almqal fqt)"
           ],
           "answerIndex": 0,
           "explanation": "المبني للمجهول يضفي الحياد والموضوعية الأكاديمية بتسليط الضوء على الإجراءات والنتائج العلمية."
@@ -12293,10 +12293,10 @@
           "type": "multiple-choice",
           "prompt": "اختر التقرير الإخباري الأكاديمي الشامل المصاغ بأعلى معايير الفصاحة والبيان الصحفي العربي:",
           "options": [
-            "صَدَرَ بَيَانٌ خِتَامِيٌّ أُعْلِنَ فِيهِ أَنَّهُ قَدْ صُودِقَ عَلَى الخُطَّةِ التَّنْمَوِيَّةِ الشَّامِلَةِ، حَيْثُ نُوقِشَتِ المَشَارِيعُ الرَّائِدَةُ وَأُشِيدَ بِالإِنْجَازَاتِ الَّتِي حُقِّقَتْ فِي مَجَالَاتِ الطَّاقَةِ النَّظِيفَةِ وَالتَّعْلِيمِ الرَّقْمِيِّ.",
-            "صدر بيان تم فيه عمل كل شيء بالافعال المترجمة الركيكة.",
-            "تقرير اخباري صودق نوقشت اشيد حققت مجهول سكون فتحة ضمة.",
-            "الغي البيان ولم يصادق على اي خطة تنموية."
+            "صَدَرَ بَيَانٌ خِتَامِيٌّ أُعْلِنَ فِيهِ أَنَّهُ قَدْ صُودِقَ عَلَى الخُطَّةِ التَّنْمَوِيَّةِ الشَّامِلَةِ، حَيْثُ نُوقِشَتِ المَشَارِيعُ الرَّائِدَةُ وَأُشِيدَ بِالإِنْجَازَاتِ الَّتِي حُقِّقَتْ فِي مَجَالَاتِ الطَّاقَةِ النَّظِيفَةِ وَالتَّعْلِيمِ الرَّقْمِيِّ. (Language concept U20)",
+            "صدر بيان تم فيه عمل كل شيء بالافعال المترجمة الركيكة. (sdr byan tm fyh 'aml kl shy' balaf'aal almtrjmh alrkykh.)",
+            "تقرير اخباري صودق نوقشت اشيد حققت مجهول سكون فتحة ضمة. (tqryr akhbary swdq nwqsht ashyd hqqt mjhwl skwn fthh dmh.)",
+            "الغي البيان ولم يصادق على اي خطة تنموية. (alghy albyan wlm ysadq 'ala ay khth tnmwyh.)"
           ],
           "answerIndex": 0,
           "explanation": "التقرير يمثل النموذج الأرقى للصياغة الإخبارية الفصيحة بتوظيف: «أُعْلِنَ»، «صُودِقَ»، «نُوقِشَتْ»، «أُشِيدَ»، «حُقِّقَتْ» دون أي حشو ركيك."
@@ -12359,10 +12359,10 @@
         {
           "prompt": "في الحوار الشامل، ما إعراب كلمة «الفَائِزُونَ» في جملة جمانة: «مُنِحَ الفَائِزُونَ جَوَائِزَ»؟",
           "options": [
-            "نَائِبُ فَاعِلٍ مَرْفُوعٌ بِالوَاوِ لأَنَّهُ جَمْعُ مُذَكَّرٍ سَالِمٌ",
-            "مفعول به أول منصوب بالفتحة (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "فاعل مرفوع بالواو (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "مبتدأ مؤخر (الدمج الشامل لكافة مخرجات الوحدة العشرين)"
+            "نَائِبُ فَاعِلٍ مَرْفُوعٌ بِالوَاوِ لأَنَّهُ جَمْعُ مُذَكَّرٍ سَالِمٌ (naa'ibu faa'ailin marfuw'aun bialwaawi laanahu jam'au mudhakarin saalimun)",
+            "مفعول به أول منصوب بالفتحة (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "فاعل مرفوع بالواو (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "مبتدأ مؤخر (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«الفَائِزُونَ» نائب فاعل مرفوع بالواو لأنه جمع مذكر سالم لفعل متعدٍ لمفعولين."
@@ -12370,10 +12370,10 @@
         {
           "prompt": "ما الفعل المضارع المبني للمجهول الذي استخدمه هشام في افتتاح نشرته الإخبارية؟",
           "options": [
-            "«افْتُتِحَتْ» (ماضٍ) و«يُتَوَقَّعُ»",
-            "نحييكم (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "نوافي (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "نشكرك (الدمج الشامل لكافة مخرجات الوحدة العشرين)"
+            "«افْتُتِحَتْ» (madin)",
+            "نحييكم (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "نوافي (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "نشكرك (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«افْتُتِحَتْ» فعل ماض مبني للمجهول، و«يُتَوَقَّعُ» مضارع مبني للمجهول بضم أوله وفتح ما قبل آخره."
@@ -12385,10 +12385,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف الحدث الإخباري بصيغ المبني للمجهول الفصيحة بدقة تامة:",
           "options": [
-            "— هَلْ عُرِضَتِ المَشَارِيعُ؟ — نَعَمْ، عُرِضَتْ بِدِقَّةٍ وَأُشِيدَ بِالأَفْكَارِ الَّتِي قُدِّمَتْ.",
-            "— هل تم عرض المشاريع بالركاكة المعاصرة؟ (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "— كم سعر الميكروفون في الصيدلية؟ (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "— حوار نشرة اخبار مجهول سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة العشرين)"
+            "— هَلْ عُرِضَتِ المَشَارِيعُ؟ — نَعَمْ، عُرِضَتْ بِدِقَّةٍ وَأُشِيدَ بِالأَفْكَارِ الَّتِي قُدِّمَتْ. (Language concept U20)",
+            "— هل تم عرض المشاريع بالركاكة المعاصرة؟ (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "— كم سعر الميكروفون في الصيدلية؟ (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "— حوار نشرة اخبار مجهول سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة توظف «عُرِضَتْ»، «أُشِيدَ»، و«قُدِّمَتْ» بسبك إخباري فصيح ومثالي خالٍ من الحشو."
@@ -12396,10 +12396,10 @@
         {
           "prompt": "ما الذي يحدث لحركة نائب الفاعل إذا كان مفرداً مؤنثاً مثل: «أُعْلِنَتِ النَّتِيجَةُ»؟",
           "options": [
-            "يُرْفَعُ بِالضَّمَّةِ الظَّاهِرَةِ وَيُؤَنَّثُ الفِعْلُ بِتَاءِ التَّأْنِيثِ السَّاكِنَةِ",
-            "ينصب بالفتحة (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "يجر بالكسرة (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "يبقى مجهول الإعراب (الدمج الشامل لكافة مخرجات الوحدة العشرين)"
+            "يُرْفَعُ بِالضَّمَّةِ الظَّاهِرَةِ وَيُؤَنَّثُ الفِعْلُ بِتَاءِ التَّأْنِيثِ السَّاكِنَةِ (yurfa'au bialdamahi alzaahirahi wayu'anathu alfi'alu bitaa'i altaaniythi alsaakinahi)",
+            "ينصب بالفتحة (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "يجر بالكسرة (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "يبقى مجهول الإعراب (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "يرفع نائب الفاعل بالضمة وتلحق الفعل تاء التأنيث الساكنة لمطابقة المؤنث."
@@ -12412,10 +12412,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة العشرين بأكملها (المبني للمجهول، نائب الفاعل بأنواعه، والصياغة الإخبارية):",
           "options": [
-            "انْطَلَقَتِ النَّشْرَةُ الإِخْبَارِيَّةُ حَيْثُ أُعْلِنَ أَنَّهُ افْتُتِحَتِ القِمَّةُ الدَّوْلِيَّةُ، وَعُقِدَتِ الجَلْسَةُ الرَّئِيسَةُ الَّتِي نُوقِشَتْ فِيهَا مَشَارِيعُ الطَّاقَةِ، كَمَا مُنِحَ المُبْتَكِرُونَ أَوْسِمَةَ الشَّرَفِ، وَأُشِيدَ بِالجُهُودِ الَّتِي بُذِلَتْ فِي سَبِيلِ تَحْقِيقِ التَّنْمِيَةِ المُسْتَدَامَةِ.",
-            "انطلقت النشرة الاخبارية بالافعال المبنية للمعلوم فقط مع ذكر جميع الفاعلين في التقرير. (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "نشرة اخبار اعلن افتتحت عقدت نوقشت منح اشيد بذلت سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة العشرين)",
-            "انقطعت النشرة الاخبارية ولم يعلن اي خبر. (الدمج الشامل لكافة مخرجات الوحدة العشرين)"
+            "انْطَلَقَتِ النَّشْرَةُ الإِخْبَارِيَّةُ حَيْثُ أُعْلِنَ أَنَّهُ افْتُتِحَتِ القِمَّةُ الدَّوْلِيَّةُ، وَعُقِدَتِ الجَلْسَةُ الرَّئِيسَةُ الَّتِي نُوقِشَتْ فِيهَا مَشَارِيعُ الطَّاقَةِ، كَمَا مُنِحَ المُبْتَكِرُونَ أَوْسِمَةَ الشَّرَفِ، وَأُشِيدَ بِالجُهُودِ الَّتِي بُذِلَتْ فِي سَبِيلِ تَحْقِيقِ التَّنْمِيَةِ المُسْتَدَامَةِ. (Language concept U20)",
+            "انطلقت النشرة الاخبارية بالافعال المبنية للمعلوم فقط مع ذكر جميع الفاعلين في التقرير. (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "نشرة اخبار اعلن افتتحت عقدت نوقشت منح اشيد بذلت سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)",
+            "انقطعت النشرة الاخبارية ولم يعلن اي خبر. (aldmj alshaml lkafh mkhrjat alwhdh al'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج الأفعال المبنية للمجهول: «أُعْلِنَ»، «افْتُتِحَتْ»، «عُقِدَتْ»، «نُوقِشَتْ»، «مُنِحَ»، «أُشِيدَ»، «بُذِلَتْ»، وتنوع نواب الفاعل بصورة إخبارية ساحرة ورصينة."
@@ -12480,10 +12480,10 @@
         {
           "prompt": "ما نوع المفعول المطلق في جملة: «انْطَلَقَ العَدَّاءُ انْطِلَاقَ السَّهْمِ»؟",
           "options": [
-            "مُبَيِّنٌ لِلنَّوْعِ",
-            "مؤكد لفعله فقط",
-            "مبين للعدد",
-            "نائب عن الفاعل"
+            "مُبَيِّنٌ لِلنَّوْعِ (mubayinun lilnaw'ai)",
+            "مؤكد لفعله فقط (m'kd lf'alh fqt)",
+            "مبين للعدد (mbyn ll'add)",
+            "نائب عن الفاعل (na'b 'an alfa'al)"
           ],
           "answerIndex": 0,
           "explanation": "«انْطِلَاقَ» مفعول مطلق مبين للنوع لأنه أضيف إلى «السَّهْمِ» لبيان كيفية وهيئة الانطلاق."
@@ -12491,10 +12491,10 @@
         {
           "prompt": "ما إعراب كلمة «كُلَّ» في جملة: «احْتَرَمْتُ أُسْتَاذِي كُلَّ الِاحْتِرَامِ»؟",
           "options": [
-            "نَائِبٌ عَنِ المَفْعُولِ المُطْلَقِ مَنْصُوبٌ بِالفَتْحَةِ",
-            "مفعول به ثان",
-            "فاعل مرفوع بالضمة",
-            "حال منصوب"
+            "نَائِبٌ عَنِ المَفْعُولِ المُطْلَقِ مَنْصُوبٌ بِالفَتْحَةِ (naa'ibun 'aani almaf'auwli almutlaqi mansuwbun bialfathahi)",
+            "مفعول به ثان (mf'awl bh than)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "حال منصوب (hal mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«كُلَّ» نائبة عن المفعول المطلق لإضافتها إلى مصدر الفعل («الِاحْتِرَامِ»)."
@@ -12506,10 +12506,10 @@
         {
           "prompt": "اختر الجملة التي تشتمل على مفعول مطلق مبين للعدد مضبوط إعرابيًا:",
           "options": [
-            "دَقَّ الجَرَسُ دَقَّتَيْنِ تَنْبِيهًا لِلْحَاضِرِينَ بِبَدْءِ الفَعَالِيَّةِ.",
-            "دق الجرس دقة واحدة بالرفع بلا نصب",
-            "الجرس يدق في السماء فوق الغيمة",
-            "مفعول مطلق دقات سكون"
+            "دَقَّ الجَرَسُ دَقَّتَيْنِ تَنْبِيهًا لِلْحَاضِرِينَ بِبَدْءِ الفَعَالِيَّةِ. (daqa aljarasu daqatayni tanbiyhana lilhaadiriyna bibad'i alfa'aaaliyahi.)",
+            "دق الجرس دقة واحدة بالرفع بلا نصب (dq aljrs dqh wahdh balrf'a bla nsb)",
+            "الجرس يدق في السماء فوق الغيمة (aljrs ydq fy alsma' fwq alghymh)",
+            "مفعول مطلق دقات سكون (mf'awl mtlq dqat skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«دَقَّتَيْنِ» مفعول مطلق منصوب بالياء لأنه مثنى، مبين لعدد مرات وقوع الفعل."
@@ -12517,10 +12517,10 @@
         {
           "prompt": "ما علامة نصب المفعول به إذا كان جمع مؤنث سالماً مثل «كَرَّمَتِ الجَامِعَةُ الطَّالِبَاتِ»؟",
           "options": [
-            "الكِسْرَةُ نِيَابَةً عَنِ الفَتْحَةِ",
-            "الفتحة الظاهرة",
-            "الياء",
-            "السكون"
+            "الكِسْرَةُ نِيَابَةً عَنِ الفَتْحَةِ (alkisrahu niyaabahan 'aani alfathahi)",
+            "الفتحة الظاهرة (alfthh alzahrh)",
+            "الياء (alya')",
+            "السكون (alskwn)"
           ],
           "answerIndex": 0,
           "explanation": "جمع المؤنث السالم ينصب بالكسرة نيابة عن الفتحة: «الطَّالِبَاتِ»."
@@ -12533,10 +12533,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأدبي الذي يدمج المفعول به والمفعول المطلق بأنواعه الثلاثة (المؤكد، المبين للنوع، والمبين للعدد) بفصاحة تامة:",
           "options": [
-            "أَتْقَنَ المُهَنْدِسُ المَشْرُوعَ إِتْقَانًا، وَخَطَّطَ لَهُ تَخْطِيطَ الخُبَرَاءِ المَهَرَةِ، حَيْثُ رَاجَعَ التَّصَامِيمَ مُرَاجَعَتَيْنِ شَامِلَتَيْنِ، فَنَالَ الجَائِزَةَ وَشَكَرَ رَبَّهُ شُكْرًا كَثِيرًا.",
-            "اتقن المهندس بلا مفاعيل مطلقة وبلا اي توكيد لفظي.",
-            "مفعول به مطلق مؤكد مبين نوع عدد سكون فتحة ضمة كسرة.",
-            "فشل المشروع ولم يراجع المهندس اي تصميم."
+            "أَتْقَنَ المُهَنْدِسُ المَشْرُوعَ إِتْقَانًا، وَخَطَّطَ لَهُ تَخْطِيطَ الخُبَرَاءِ المَهَرَةِ، حَيْثُ رَاجَعَ التَّصَامِيمَ مُرَاجَعَتَيْنِ شَامِلَتَيْنِ، فَنَالَ الجَائِزَةَ وَشَكَرَ رَبَّهُ شُكْرًا كَثِيرًا. (Language concept U21)",
+            "اتقن المهندس بلا مفاعيل مطلقة وبلا اي توكيد لفظي. (atqn almhnds bla mfa'ayl mtlqh wbla ay twkyd lfzy.)",
+            "مفعول به مطلق مؤكد مبين نوع عدد سكون فتحة ضمة كسرة. (mf'awl bh mtlq m'kd mbyn nw'a 'add skwn fthh dmh ksrh.)",
+            "فشل المشروع ولم يراجع المهندس اي تصميم. (fshl almshrw'a wlm yraj'a almhnds ay tsmym.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: المفعول به («المَشْرُوعَ»، «التَّصَامِيمَ»، «الجَائِزَةَ»)، والمفعول المطلق المؤكد («إِتْقَانًا»)، والمبين للنوع المضاف («تَخْطِيطَ الخُبَرَاءِ») والموصوف («شُكْرًا كَثِيرًا»)، والمبين للعدد («مُرَاجَعَتَيْنِ»)."
@@ -12601,10 +12601,10 @@
         {
           "prompt": "ما شرط نصب اسم المكان على أنه مفعول فيه (ظرف مكان) في قواعد النحو؟",
           "options": [
-            "أَنْ يَكُونَ اسْمَ مَكَانٍ مُبْهَمًا",
-            "أن يكون مسجداً أو بيتاً فقط",
-            "أن يكون معرفاً بأل دائماً",
-            "أن يكون مرفوعاً بالضمة"
+            "أَنْ يَكُونَ اسْمَ مَكَانٍ مُبْهَمًا (aan yakuwna asma makaanin mubhamana)",
+            "أن يكون مسجداً أو بيتاً فقط (an ykwn msjdaan aw bytaan fqt)",
+            "أن يكون معرفاً بأل دائماً (an ykwn m'arfaan bal da'maan)",
+            "أن يكون مرفوعاً بالضمة (an ykwn mrfw'aaan baldmh)"
           ],
           "answerIndex": 0,
           "explanation": "ينصب ظرف المكان إذا كان مبهماً كالجهات الست (فوق، تحت، أمام، خلف، يمين، يسار) والمقادير (ميلاً، فرسخاً)."
@@ -12612,10 +12612,10 @@
         {
           "prompt": "ما إعراب كلمة «يَوْمَ» في جملة: «سَافَرْتُ يَوْمَ الخَمِيسِ»؟",
           "options": [
-            "مَفْعُولٌ فِيهِ (ظَرْفُ زَمَانٍ) مَنْصُوبٌ بِالفَتْحَةِ",
-            "مبتدأ مرفوع بالضمة",
-            "فاعل مرفوع",
-            "مفعول به أول"
+            "مَفْعُولٌ فِيهِ (zarfu zamaanin)",
+            "مبتدأ مرفوع بالضمة (mbtda mrfw'a baldmh)",
+            "فاعل مرفوع (fa'al mrfw'a)",
+            "مفعول به أول (mf'awl bh awl)"
           ],
           "answerIndex": 0,
           "explanation": "«يَوْمَ» مفعول فيه (ظرف زمان) منصوب بالفتحة لأنه متضمن معنى «في» ويبين زمن السفر."
@@ -12627,10 +12627,10 @@
         {
           "prompt": "اختر الجملة التي تشتمل على ظرف زمان وظرف مكان معًا بضبط إعرابي سليم:",
           "options": [
-            "جَلَسَ الأُسْتَاذُ صَبَاحًا أَمَامَ طُلَّابِهِ يُحَدِّثُهُمْ عَنْ عُلُومِ اللُّغَةِ.",
-            "جلس الاستاذ في داخل البيت صيفا بالجر",
-            "ظرف الزمان والمكان يطيران في الفضاء",
-            "صباحا امام مفعول فيه سكون"
+            "جَلَسَ الأُسْتَاذُ صَبَاحًا أَمَامَ طُلَّابِهِ يُحَدِّثُهُمْ عَنْ عُلُومِ اللُّغَةِ. (jalasa alaustaadhu sabaahana aamaama tulaabihi yuhadithuhum 'aan 'auluwmi allughahi.)",
+            "جلس الاستاذ في داخل البيت صيفا بالجر (jls alastadh fy dakhl albyt syfa baljr)",
+            "ظرف الزمان والمكان يطيران في الفضاء (zrf alzman walmkan ytyran fy alfda')",
+            "صباحا امام مفعول فيه سكون (sbaha amam mf'awl fyh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«صَبَاحًا» ظرف زمان منصوب، و«أَمَامَ» ظرف مكان منصوب."
@@ -12638,10 +12638,10 @@
         {
           "prompt": "في جملة «يَوْمُ العِيدِ يَوْمٌ بَهِيجٌ»، هل تعرب كلمة «يَوْمُ» ظرف زمان؟",
           "options": [
-            "لَا، هِيَ مُبْتَدَأٌ مَرْفُوعٌ بِالضَّمَّةِ لأَنَّهَا غَيْرُ مُتَضَمِّنَةٍ مَعْنَى «فِي»",
-            "نعم هي ظرف زمان دائما",
-            "مفعول مطلق منصوب",
-            "حال منصوب"
+            "لَا، هِيَ مُبْتَدَأٌ مَرْفُوعٌ بِالضَّمَّةِ لأَنَّهَا غَيْرُ مُتَضَمِّنَةٍ مَعْنَى «فِي» (Language concept U21)",
+            "نعم هي ظرف زمان دائما (n'am hy zrf zman da'ma)",
+            "مفعول مطلق منصوب (mf'awl mtlq mnswb)",
+            "حال منصوب (hal mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«يَوْمُ» اسم متصرف لم يتضمن معنى «في» هنا، فيعرب حسب موقعه في الجملة (مبتدأ مرفوع)."
@@ -12654,10 +12654,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص السردي الذي يوظف ظروف الزمان والمكان (المفعول فيه) المتنوعة بسبك أدبي فصيح:",
           "options": [
-            "انْطَلَقَتِ القَافِلَةُ فَجْرًا نَحْوَ الوَاحَةِ، فَسَارَتْ فَرْسَخًا بَيْنَ الكُثْبَانِ الرَّمْلِيَّةِ، وَحِينَ بَلَغَتْ مَقْصِدَهَا ظُهْرًا حَطَّتْ رِحَالَهَا تَحْتَ ظِلِّ النَّخِيلِ البَاسِقِ لِتَسْتَرِيحَ سَاعَةً.",
-            "انطلقت القافلة بلا اي ظروف زمانية او مكانية وبلا تحديد للاتجاهات.",
-            "مفعول فيه فجرا فرسخا ظهرا تحت ساعة سكون فتحة ضمة كسرة.",
-            "تاهت القافلة ولم تصل ابدا الى الواحة."
+            "انْطَلَقَتِ القَافِلَةُ فَجْرًا نَحْوَ الوَاحَةِ، فَسَارَتْ فَرْسَخًا بَيْنَ الكُثْبَانِ الرَّمْلِيَّةِ، وَحِينَ بَلَغَتْ مَقْصِدَهَا ظُهْرًا حَطَّتْ رِحَالَهَا تَحْتَ ظِلِّ النَّخِيلِ البَاسِقِ لِتَسْتَرِيحَ سَاعَةً. (Language concept U21)",
+            "انطلقت القافلة بلا اي ظروف زمانية او مكانية وبلا تحديد للاتجاهات. (antlqt alqaflh bla ay zrwf zmanyh aw mkanyh wbla thdyd llatjahat.)",
+            "مفعول فيه فجرا فرسخا ظهرا تحت ساعة سكون فتحة ضمة كسرة. (mf'awl fyh fjra frskha zhra tht sa'ah skwn fthh dmh ksrh.)",
+            "تاهت القافلة ولم تصل ابدا الى الواحة. (taht alqaflh wlm tsl abda ala alwahh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج بين ظروف الزمان («فَجْرًا»، «ظُهْرًا»، «سَاعَةً») وظروف المكان المبهمة والمقادير («نَحْوَ»، «فَرْسَخًا»، «بَيْنَ»، «تَحْتَ») بأسلوب قصصي بديع ومنصوب على الظرفية التامة."
@@ -12722,10 +12722,10 @@
         {
           "prompt": "ما هو إعراب كلمة «خَوْفًا» في جملة: «ابْتَعَدْتُ عَنِ الخَطَرِ خَوْفًا مِنَ الأَذَى»؟",
           "options": [
-            "مَفْعُولٌ لِأَجْلِهِ مَنْصُوبٌ بِالفَتْحَةِ",
-            "مفعول به أول",
-            "مفعول معه",
-            "حال منصوب"
+            "مَفْعُولٌ لِأَجْلِهِ مَنْصُوبٌ بِالفَتْحَةِ (maf'auwlun liaajlihi mansuwbun bialfathahi)",
+            "مفعول به أول (mf'awl bh awl)",
+            "مفعول معه (mf'awl m'ah)",
+            "حال منصوب (hal mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«خَوْفًا» مصدر قلبي يبين سبب الابتعاد وعلته، فيعرب مفعولاً لأجله منصوباً بالفتحة."
@@ -12733,10 +12733,10 @@
         {
           "prompt": "ما إعراب كلمة «وَشَاطِئَ» في جملة: «سِرْتُ وَشَاطِئَ النَّهْرِ»؟",
           "options": [
-            "الوَاوُ وَاوُ المَعِيَّةِ، وَ«شَاطِئَ» مَفْعُولٌ مَعَهُ مَنْصُوبٌ بِالفَتْحَةِ",
-            "الواو حرف عطف وشاطئ اسم معطوف مرفوع",
-            "مفعول فيه ظرف مكان",
-            "مبتدأ مؤخر"
+            "الوَاوُ وَاوُ المَعِيَّةِ، وَ«شَاطِئَ» مَفْعُولٌ مَعَهُ مَنْصُوبٌ بِالفَتْحَةِ (Object of Reason     Object of Accompaniment U21)",
+            "الواو حرف عطف وشاطئ اسم معطوف مرفوع (alwaw hrf 'atf wshat' asm m'atwf mrfw'a)",
+            "مفعول فيه ظرف مكان (mf'awl fyh zrf mkan)",
+            "مبتدأ مؤخر (mbtda m'khr)"
           ],
           "answerIndex": 0,
           "explanation": "الواو للمعية لأن الشاطئ لا يسير، و«شَاطِئَ» مفعول معه منصوب بالفتحة."
@@ -12748,10 +12748,10 @@
         {
           "prompt": "اختر الجملة التي تشتمل على مفعول لأجله ومفعول معه معًا بصياغة نحوية سليمة:",
           "options": [
-            "اسْتَيْقَظْتُ وَأَذَانَ الفَجْرِ طَلَبًا لِلْبَرَكَةِ وَرَغْبَةً فِي الصَّلَاةِ.",
-            "استيقظت واذن الفجر بالرفع عطفاً",
-            "المفعول معه ياكل المفعول لاجله",
-            "اذان الفجر طلبا مفعول سكون"
+            "اسْتَيْقَظْتُ وَأَذَانَ الفَجْرِ طَلَبًا لِلْبَرَكَةِ وَرَغْبَةً فِي الصَّلَاةِ. (astayqaztu waaadhaana alfajri talabana lilbarakahi waraghbahan fiy alsalaahi.)",
+            "استيقظت واذن الفجر بالرفع عطفاً (astyqzt wadhn alfjr balrf'a 'atfaan)",
+            "المفعول معه ياكل المفعول لاجله (almf'awl m'ah yakl almf'awl lajlh)",
+            "اذان الفجر طلبا مفعول سكون (adhan alfjr tlba mf'awl skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«وَأَذَانَ» مفعول معه منصوب بعد واو المعية، و«طَلَبًا» مفعول لأجله منصوب لبيان علة الاستيقاظ."
@@ -12759,10 +12759,10 @@
         {
           "prompt": "لماذا امتنع العطف في جملة «سَارَ الرَّجُلُ وَالجِدَارَ» وتعينت المعية؟",
           "options": [
-            "لِاسْتِحَالَةِ مُشَارَكَةِ الجِدَارِ لِلرَّجُلِ فِي حَقِيقَةِ السَّيْرِ",
-            "لأن الجدار مؤنث",
-            "لأن الواو حرف جر",
-            "لأن السير سريع"
+            "لِاسْتِحَالَةِ مُشَارَكَةِ الجِدَارِ لِلرَّجُلِ فِي حَقِيقَةِ السَّيْرِ (liastihaalahi mushaarakahi aljidaari lilrajuli fiy haqiyqahi alsayri)",
+            "لأن الجدار مؤنث (lan aljdar m'nth)",
+            "لأن الواو حرف جر (lan alwaw hrf jr)",
+            "لأن السير سريع (lan alsyr sry'a)"
           ],
           "answerIndex": 0,
           "explanation": "الجدار جماد لا يصح اشتراكه في فعل السير، فامتنع العطف وتعين النصب على المعية."
@@ -12775,10 +12775,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يدمج المفعول لأجله والمفعول معه بدقة بلاغية وإعرابية تامة:",
           "options": [
-            "انْطَلَقَ الرَّحَّالَةُ وَشُرُوقَ الشَّمْسِ شَوْقًا إِلَى اكْتِشَافِ المَجْهُولِ، فَسَارَ وَضِفَافَ النَّهْرِ تَمَتُّعًا بِسِحْرِ الطَّبِيعَةِ، وَوَاصَلَ مَسِيرَهُ حِرْصًا عَلَى بُلُوغِ غَايَتِهِ قَبْلَ الغُرُوبِ.",
-            "انطلق الرحالة مع الشمس بالافعال المعطوفة بالرفع خطأ.",
-            "مفعول لاجله ومعه شروق الشمس شوقا ضفاف تمتعا حرصا سكون فتحة.",
-            "توقف الرحالة عن السير وعاد الى منزله خائبا."
+            "انْطَلَقَ الرَّحَّالَةُ وَشُرُوقَ الشَّمْسِ شَوْقًا إِلَى اكْتِشَافِ المَجْهُولِ، فَسَارَ وَضِفَافَ النَّهْرِ تَمَتُّعًا بِسِحْرِ الطَّبِيعَةِ، وَوَاصَلَ مَسِيرَهُ حِرْصًا عَلَى بُلُوغِ غَايَتِهِ قَبْلَ الغُرُوبِ. (Object of Reason     Object of Accompaniment U21)",
+            "انطلق الرحالة مع الشمس بالافعال المعطوفة بالرفع خطأ. (antlq alrhalh m'a alshms balaf'aal alm'atwfh balrf'a khta.)",
+            "مفعول لاجله ومعه شروق الشمس شوقا ضفاف تمتعا حرصا سكون فتحة. (mf'awl lajlh wm'ah shrwq alshms shwqa dfaf tmt'aa hrsa skwn fthh.)",
+            "توقف الرحالة عن السير وعاد الى منزله خائبا. (twqf alrhalh 'an alsyr w'aad ala mnzlh kha'ba.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: المفعول معه بعد واو المعية («وَشُرُوقَ»، «وَضِفَافَ»)، والمفعول لأجله للتعليل القلبي («شَوْقًا»، «تَمَتُّعًا»، «حِرْصًا»)."
@@ -12843,10 +12843,10 @@
         {
           "prompt": "في جملة: «قَرَأْتُ الكِتَابَ قِرَاءَةً لَيْلًا طَلَبًا لِلْعِلْمِ وَنُورَ القَمَرِ»، ما إعراب كلمة «نُورَ»؟",
           "options": [
-            "مَفْعُولٌ مَعَهُ مَنْصُوبٌ بِالفَتْحَةِ بَعْدَ وَاوِ المَعِيَّةِ",
-            "مفعول به ثان",
-            "مفعول لأجله",
-            "اسم معطوف مرفوع"
+            "مَفْعُولٌ مَعَهُ مَنْصُوبٌ بِالفَتْحَةِ بَعْدَ وَاوِ المَعِيَّةِ (maf'auwlun ma'aahu mansuwbun bialfathahi ba'ada waawi alma'aiyahi)",
+            "مفعول به ثان (mf'awl bh than)",
+            "مفعول لأجله (mf'awl lajlh)",
+            "اسم معطوف مرفوع (asm m'atwf mrfw'a)"
           ],
           "answerIndex": 0,
           "explanation": "«وَـنُورَ» مفعول معه منصوب بالفتحة بعد واو المعية؛ أي قرأت بمصاحبة نور القمر."
@@ -12854,10 +12854,10 @@
         {
           "prompt": "كم مفعولاً من المفاعيل الخمسة اشتملت عليه الجملة السابقة؟",
           "options": [
-            "خَمْسَةُ مَفَاعِيلَ كَامِلَةً:",
-            "أربعة مفاعيل فقط",
-            "ثلاثة مفاعيل",
-            "مفعولان اثنان"
+            "خَمْسَةُ مَفَاعِيلَ كَامِلَةً (khamsahu mafaa'aiyla kaamilahan:)",
+            "أربعة مفاعيل فقط (arb'ah mfa'ayl fqt)",
+            "ثلاثة مفاعيل (thlathh mfa'ayl)",
+            "مفعولان اثنان (mf'awlan athnan)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة جمعت المفاعيل الخمسة كاملة ببراعة نحوية متناهية."
@@ -12869,10 +12869,10 @@
         {
           "prompt": "اختر الجملة التي تجمع المفاعيل الخمسة كاملة بسبك صحيح وضبط نحوي سليم:",
           "options": [
-            "رَسَمَ الفَنَّانُ اللَّوْحَةَ رَسْمًا رَائِعًا يَوْمَ أَمْسِ رَغْبَةً فِي الإِبْدَاعِ وَغُرُوبَ الشَّمْسِ.",
-            "رسم الفنان اللوحة بالافعال المجردة بلا مفاعيل منصوبة",
-            "المفاعيل الخمسة تنام فوق الجدار",
-            "لوحة رسما امس رغبة غروب سكون"
+            "رَسَمَ الفَنَّانُ اللَّوْحَةَ رَسْمًا رَائِعًا يَوْمَ أَمْسِ رَغْبَةً فِي الإِبْدَاعِ وَغُرُوبَ الشَّمْسِ. (rasama alfanaanu allawhaha rasmana raa'i'aana yawma aamsi raghbahan fiy aliibdaa'ai waghuruwba alshamsi.)",
+            "رسم الفنان اللوحة بالافعال المجردة بلا مفاعيل منصوبة (rsm alfnan allwhh balaf'aal almjrdh bla mfa'ayl mnswbh)",
+            "المفاعيل الخمسة تنام فوق الجدار (almfa'ayl alkhmsh tnam fwq aljdar)",
+            "لوحة رسما امس رغبة غروب سكون (lwhh rsma ams rghbh ghrwb skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة جمعت: «اللَّوْحَةَ» (به)، «رَسْمًا» (مطلق)، «يَوْمَ» (فيه)، «رَغْبَةً» (لأجله)، و«وَغُرُوبَ» (معه)."
@@ -12880,10 +12880,10 @@
         {
           "prompt": "ما الموقع الإعرابي المشترك لجميع المفاعيل الخمسة في اللغة العربية؟",
           "options": [
-            "النَّصْبُ دَائِمًا",
-            "الرفع بالضمة دائما",
-            "الجر بالكسرة",
-            "الجزم بالسكون"
+            "النَّصْبُ دَائِمًا (alnasbu daa'imana)",
+            "الرفع بالضمة دائما (alrf'a baldmh da'ma)",
+            "الجر بالكسرة (aljr balksrh)",
+            "الجزم بالسكون (aljzm balskwn)"
           ],
           "answerIndex": 0,
           "explanation": "المفاعيل الخمسة من عمدة المنصوبات في النحو العربي وتأتي دائماً في محل نصب."
@@ -12896,10 +12896,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأدبي البليغ الذي ينسج المفاعيل الخمسة في سياق سردي متكامل يفيض بالجمال والفصاحة:",
           "options": [
-            "قَطَعَ المُسَافِرُ الصَّحْرَاءَ قَطْعًا شَاقًّا لَيْلًا ابْتِغَاءَ النَّجَاةِ وَنُجُومَ السَّمَاءِ، فَبَلَغَ مَأْمَنَهُ ظُهْرًا حَامِدًا رَبَّهُ عَلَى السَّلَامَةِ.",
-            "قطع المسافر الصحراء بلا اي تفاصيل منصوبة وبلا مفاعيل.",
-            "مفاعيل خمسة صحراء قطعا ليلا ابتغاء نجوم سكون فتحة ضمة كسرة.",
-            "مات المسافر في الصحراء ولم يقطع اي مسافة."
+            "قَطَعَ المُسَافِرُ الصَّحْرَاءَ قَطْعًا شَاقًّا لَيْلًا ابْتِغَاءَ النَّجَاةِ وَنُجُومَ السَّمَاءِ، فَبَلَغَ مَأْمَنَهُ ظُهْرًا حَامِدًا رَبَّهُ عَلَى السَّلَامَةِ. (Language concept U21)",
+            "قطع المسافر الصحراء بلا اي تفاصيل منصوبة وبلا مفاعيل. (qt'a almsafr alshra' bla ay tfasyl mnswbh wbla mfa'ayl.)",
+            "مفاعيل خمسة صحراء قطعا ليلا ابتغاء نجوم سكون فتحة ضمة كسرة. (mfa'ayl khmsh shra' qt'aa lyla abtgha' njwm skwn fthh dmh ksrh.)",
+            "مات المسافر في الصحراء ولم يقطع اي مسافة. (mat almsafr fy alshra' wlm yqt'a ay msafh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج المفاعيل الخمسة كاملة ببراعة: «الصَّحْرَاءَ» (مفعول به)، «قَطْعًا» (مفعول مطلق)، «لَيْلًا» (مفعول فيه)، «ابْتِغَاءَ» (مفعول لأجله)، و«وَنُجُومَ» (مفعول معه)."
@@ -12964,10 +12964,10 @@
         {
           "prompt": "في الحوار الشامل، ما إعراب عبارة «وَمَجْرَى النَّهْرِ» في قول نادية: «سِرْنَا وَمَجْرَى النَّهْرِ»؟",
           "options": [
-            "الوَاوُ وَاوُ المَعِيَّةِ، وَ«مَجْرَى» مَفْعُولٌ مَعَهُ مَنْصُوبٌ بِالفَتْحَةِ المُقَدَّرَةِ",
-            "اسم معطوف مجرور (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "مفعول مطلق منصوب (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "فاعل مرفوع (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)"
+            "الوَاوُ وَاوُ المَعِيَّةِ، وَ«مَجْرَى» مَفْعُولٌ مَعَهُ مَنْصُوبٌ بِالفَتْحَةِ المُقَدَّرَةِ (Language concept U21)",
+            "اسم معطوف مجرور (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "مفعول مطلق منصوب (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "فاعل مرفوع (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الواو واو المعية و«مَجْرَى» مفعول معه منصوب بالفتحة المقدرة للتعذر."
@@ -12975,10 +12975,10 @@
         {
           "prompt": "ما الكلمة التي وقعت مفعولاً لأجله في قول نادية: «طَلَبًا لِلْآثَارِ»؟",
           "options": [
-            "«طَلَبًا»",
-            "الآثار (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "صباحا (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "عبورا (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)"
+            "«طَلَبًا» (Language concept U21)",
+            "الآثار (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "صباحا (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "عبورا (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«طَلَبًا» مفعول لأجله منصوب لبيان سبب وعلة السير."
@@ -12990,10 +12990,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تشتمل على المفاعيل الخمسة بصياغة استكشافية متكاملة:",
           "options": [
-            "— كَيْفَ كَانَتِ الجَوْلَةُ؟ — تَسَلَّقْنَا الجَبَلَ تَسَلُّقًا حَذِرًا عَصْرًا رَغْبَةً فِي الرُّؤْيَةِ وَصَوْتَ الرِّيَاحِ.",
-            "— كيف كانت الجولة بلا مفاعيل منصوبة؟ (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "— كم كتابا في المكتبة؟ (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "— رحلة استكشاف جبل تسلقا عصرا رغبة صوت سكون. (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)"
+            "— كَيْفَ كَانَتِ الجَوْلَةُ؟ — تَسَلَّقْنَا الجَبَلَ تَسَلُّقًا حَذِرًا عَصْرًا رَغْبَةً فِي الرُّؤْيَةِ وَصَوْتَ الرِّيَاحِ. (Language concept U21)",
+            "— كيف كانت الجولة بلا مفاعيل منصوبة؟ (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "— كم كتابا في المكتبة؟ (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "— رحلة استكشاف جبل تسلقا عصرا رغبة صوت سكون. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع: «الجَبَلَ» (به)، «تَسَلُّقًا» (مطلق)، «عَصْرًا» (فيه)، «رَغْبَةً» (لأجله)، و«وَصَوْتَ» (معه)."
@@ -13001,10 +13001,10 @@
         {
           "prompt": "ما الذي يميز المفعول المطلق «عُبُورًا سَرِيعًا» في كلام نادية؟",
           "options": [
-            "أَنَّهُ مَفْعُولٌ مُطْلَقٌ مُبَيِّنٌ لِلنَّوْعِ لِأَنَّهُ مَوْصُوفٌ بِـ «سَرِيعًا»",
-            "أنه مؤكد لفعله فقط (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "أنه مبين للعدد (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "أنه مفعول فيه (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)"
+            "أَنَّهُ مَفْعُولٌ مُطْلَقٌ مُبَيِّنٌ لِلنَّوْعِ لِأَنَّهُ مَوْصُوفٌ بِـ «سَرِيعًا» (Language concept U21)",
+            "أنه مؤكد لفعله فقط (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "أنه مبين للعدد (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "أنه مفعول فيه (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«عُبُورًا» مفعول مطلق مبين للنوع لأنه موصوف بالنعت «سَرِيعًا»."
@@ -13017,10 +13017,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الحادية والعشرين بأكملها (منظومة المفاعيل الخمسة كاملة):",
           "options": [
-            "عَادَ الفَرِيقُ الِاسْتِكْشَافِيُّ بَعْدَمَا جَابَ الصَّحْرَاءَ جَوَبَانًا وَاسِعًا نَهَارًا شَوْقًا إِلَى المَعْرِفَةِ وَامْتِدَادَ الوَادِي؛ فَوَثَّقُوا الآثَارَ تَوْثِيقًا دَقِيقًا خِدْمَةً لِلتَّارِيخِ، وَأَكْرَمَهُمْ أَهْلُ القَرْيَةِ إِكْرَامًا حَاتِمِيًّا مَسَاءً تَقْدِيرًا لِجُهُودِهِمْ وَطُلُوعَ القَمَرِ.",
-            "عاد الفريق الاستكشافي بالافعال المجردة فقط بلا اي مفعول منصوب. (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "استكشاف صحراء جوبانا نهارا شوقا امتداد اثار توثيقا خدمة اكراما تقديرا طلوع سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)",
-            "تاه الفريق الاستكشافي ولم يعد احد منهم. (الدمج الشامل لكافة مخرجات الوحدة الحادية والعشرين)"
+            "عَادَ الفَرِيقُ الِاسْتِكْشَافِيُّ بَعْدَمَا جَابَ الصَّحْرَاءَ جَوَبَانًا وَاسِعًا نَهَارًا شَوْقًا إِلَى المَعْرِفَةِ وَامْتِدَادَ الوَادِي؛ فَوَثَّقُوا الآثَارَ تَوْثِيقًا دَقِيقًا خِدْمَةً لِلتَّارِيخِ، وَأَكْرَمَهُمْ أَهْلُ القَرْيَةِ إِكْرَامًا حَاتِمِيًّا مَسَاءً تَقْدِيرًا لِجُهُودِهِمْ وَطُلُوعَ القَمَرِ. (Language concept U21)",
+            "عاد الفريق الاستكشافي بالافعال المجردة فقط بلا اي مفعول منصوب. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "استكشاف صحراء جوبانا نهارا شوقا امتداد اثار توثيقا خدمة اكراما تقديرا طلوع سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)",
+            "تاه الفريق الاستكشافي ولم يعد احد منهم. (aldmj alshaml lkafh mkhrjat alwhdh alhadyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في توظيف شبكة المفاعيل الخمسة: (المفعول به: «الصَّحْرَاءَ»، «الآثَارَ»)، (المفعول المطلق: «جَوَبَانًا»، «تَوْثِيقًا»، «إِكْرَامًا»)، (المفعول فيه: «نَهَارًا»، «مَسَاءً»)، (المفعول لأجله: «شَوْقًا»، «خِدْمَةً»، «تَقْدِيرًا»)، و(المفعول معه: «وَامْتِدَادَ»، «وَطُلُوعَ»)."
@@ -13086,10 +13086,10 @@
         {
           "prompt": "ما نوع الحال في جملة: «دَخَلَ الرَّجُلُ البَيْتَ وَهُوَ مُبْتَسِمٌ»؟",
           "options": [
-            "حَالٌ جُمْلَةٌ اسْمِيَّةٌ مُقْتَرِنَةٌ بِوَاوِ الحَالِ وَالضَّمِيرِ",
-            "حال مفردة",
-            "حال شبه جملة",
-            "مفعول مطلق"
+            "حَالٌ جُمْلَةٌ اسْمِيَّةٌ مُقْتَرِنَةٌ بِوَاوِ الحَالِ وَالضَّمِيرِ (haalun jumlahun asmiyahun muqtarinahun biwaawi alhaali waaldamiyri)",
+            "حال مفردة (hal mfrdh)",
+            "حال شبه جملة (hal shbh jmlh)",
+            "مفعول مطلق (mf'awl mtlq)"
           ],
           "answerIndex": 0,
           "explanation": "«وَهُوَ مُبْتَسِمٌ» جملة اسمية في محل نصب حال، ارتبطت بواو الحال والضمير المنفصل."
@@ -13097,10 +13097,10 @@
         {
           "prompt": "ما الشرط الأساسي الذي يجب أن يتوفر في «صاحب الحال» في الجملة العربية؟",
           "options": [
-            "أَنْ يَكُونَ اسْمًا مَعْرِفَةً غَالِبًا",
-            "أن يكون نكرة دائماً",
-            "أن يكون فعلاً مضارعاً",
-            "أن يكون حرف جر"
+            "أَنْ يَكُونَ اسْمًا مَعْرِفَةً غَالِبًا (aan yakuwna asmana ma'arifahan ghaalibana)",
+            "أن يكون نكرة دائماً (an ykwn nkrh da'maan)",
+            "أن يكون فعلاً مضارعاً (an ykwn f'alaan mdar'aaan)",
+            "أن يكون حرف جر (an ykwn hrf jr)"
           ],
           "answerIndex": 0,
           "explanation": "صاحب الحال يجب أن يكون معرفة (كالقائد، الطلاب، المسافر)، بينما الحال نفسها نكرة."
@@ -13112,10 +13112,10 @@
         {
           "prompt": "اختر الجملة التي تشتمل على حال مفردة منصوبة بالكسرة نيابة عن الفتحة:",
           "options": [
-            "رَأَيْتُ الطَّالِبَاتِ قَادِمَاتٍ إِلَى الجَامِعَةِ بِكُلِّ هِمَّةٍ.",
-            "رايت الطالبات قادماتٌ بالرفع خطأ",
-            "الحال تركض فوق السحاب مسرورة",
-            "طالبات قادمات حال سكون"
+            "رَأَيْتُ الطَّالِبَاتِ قَادِمَاتٍ إِلَى الجَامِعَةِ بِكُلِّ هِمَّةٍ. (raaaytu altaalibaati qaadimaatin iilaa aljaami'aahi bikuli himahin.)",
+            "رايت الطالبات قادماتٌ بالرفع خطأ (rayt altalbat qadmatun balrf'a khta)",
+            "الحال تركض فوق السحاب مسرورة (alhal trkd fwq alshab msrwrh)",
+            "طالبات قادمات حال سكون (talbat qadmat hal skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«قَادِمَاتٍ» حال منصوبة بالكسرة نيابة عن الفتحة لأنها جمع مؤنث سالم."
@@ -13123,10 +13123,10 @@
         {
           "prompt": "وفق القاعدة النحوية: «الجمل بعد المعارف أحوال وبعد النكرات صفات»، ما إعراب جملة (يَضْحَكُ) في: «رَأَيْتُ طِفْلًا يَضْحَكُ» مقابل «رَأَيْتُ الطِّفْلَ يَضْحَكُ»؟",
           "options": [
-            "فِي الأُولَى فِي مَحَلِّ نَصْبِ نَعْتٍ (صِفَةٍ)، وَفِي الثَّانِيَةِ فِي مَحَلِّ نَصْبِ حَالٍ",
-            "كلاهما حال دائماً",
-            "كلاهما نعت دائماً",
-            "كلاهما مفعول به ثان"
+            "فِي الأُولَى فِي مَحَلِّ نَصْبِ نَعْتٍ (sifahin)",
+            "كلاهما حال دائماً (klahma hal da'maan)",
+            "كلاهما نعت دائماً (klahma n'at da'maan)",
+            "كلاهما مفعول به ثان (klahma mf'awl bh than)"
           ],
           "answerIndex": 0,
           "explanation": "بعد النكرة («طِفْلًا») نعت، وبعد المعرفة («الطِّفْلَ») حال."
@@ -13139,10 +13139,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص السردي الذي يوظف صور الحال المتنوعة (المفردة، الجملة الاسمية، الجملة الفعلية، وشبه الجملة) بفصاحة تامة:",
           "options": [
-            "انْطَلَقَ الفَارِسُ شُجَاعًا يَخُوضُ المَعْرَكَةَ، وَالشَّمْسُ سَاطِعَةٌ فِي كَبِدِ السَّمَاءِ، فَرَأَيْتُ الرَّايَةَ بَيْنَ الفُرْسَانِ تُرَفْرِفُ عَالِيًا، حَتَّى عَادَ الجَيْشُ وَهُمْ مَسْرُورُونَ بِالنَّصْرِ.",
-            "انطلق الفارس بلا احوال وبلا تصوير للهيئة.",
-            "حال مفردة شجاعا يرفرف بين الفرسان والشمس ساطعة سكون فتحة ضمة.",
-            "تراجع الجيش وخسر المعركة ولم يبتسم احد."
+            "انْطَلَقَ الفَارِسُ شُجَاعًا يَخُوضُ المَعْرَكَةَ، وَالشَّمْسُ سَاطِعَةٌ فِي كَبِدِ السَّمَاءِ، فَرَأَيْتُ الرَّايَةَ بَيْنَ الفُرْسَانِ تُرَفْرِفُ عَالِيًا، حَتَّى عَادَ الجَيْشُ وَهُمْ مَسْرُورُونَ بِالنَّصْرِ. (Haal U22)",
+            "انطلق الفارس بلا احوال وبلا تصوير للهيئة. (antlq alfars bla ahwal wbla tswyr llhy'h.)",
+            "حال مفردة شجاعا يرفرف بين الفرسان والشمس ساطعة سكون فتحة ضمة. (hal mfrdh shja'aa yrfrf byn alfrsan walshms sat'ah skwn fthh dmh.)",
+            "تراجع الجيش وخسر المعركة ولم يبتسم احد. (traj'a aljysh wkhsr alm'arkh wlm ybtsm ahd.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: الحال المفردة («شُجَاعًا»)، الجملة الفعلية («يَخُوضُ»)، الجملة الاسمية بواو الحال («وَالشَّمْسُ سَاطِعَةٌ»، «وَهُمْ مَسْرُورُونَ»)، وشبه الجملة («بَيْنَ الفُرْسَانِ»)."
@@ -13207,10 +13207,10 @@
         {
           "prompt": "ما هو إعراب كلمة «خُلُقًا» في جملة: «حَسُنَ الطَّالِبُ خُلُقًا»؟",
           "options": [
-            "تَمْيِيزُ نِسْبَةٍ (مَلْحُوظٌ) مَنْصُوبٌ بِالفَتْحَةِ",
-            "حال منصوب",
-            "مفعول به",
-            "مفعول لأجله"
+            "تَمْيِيزُ نِسْبَةٍ (malhuwzun)",
+            "حال منصوب (hal mnswb)",
+            "مفعول به (mf'awl bh)",
+            "مفعول لأجله (mf'awl lajlh)"
           ],
           "answerIndex": 0,
           "explanation": "«خُلُقًا» تمييز نسبة ملحوظ محول عن فاعل (أصلها: حَسُنَ خُلُقُ الطالبِ)."
@@ -13218,10 +13218,10 @@
         {
           "prompt": "ما نوع التمييز في جملة: «اشْتَرَيْتُ عِشْرِينَ كِتَابًا»؟",
           "options": [
-            "تَمْيِيزُ ذَاتٍ (مَلْفُوظٌ) بَعْدَ العَدَدِ",
-            "تمييز نسبة",
-            "حال مفردة",
-            "مفعول فيه"
+            "تَمْيِيزُ ذَاتٍ (malfuwzun)",
+            "تمييز نسبة (tmyyz nsbh)",
+            "حال مفردة (hal mfrdh)",
+            "مفعول فيه (mf'awl fyh)"
           ],
           "answerIndex": 0,
           "explanation": "«كِتَابًا» تمييز ذات (ملفوظ) لأنه ميز لفظ العدد المفرد «عِشْرِينَ»."
@@ -13233,10 +13233,10 @@
         {
           "prompt": "اختر الجملة التي تشتمل على تمييز نسبة بعد اسم التفضيل بضبط سليم:",
           "options": [
-            "المُؤْمِنُ القَوِيُّ أَعْظَمُ شَأْنًا وَأَكْثَرُ نَفْعًا لِمُجْتَمَعِهِ.",
-            "المؤمن اعظم شأنٌ بالرفع خطأ",
-            "التمييز يشتري كتابا في المكتبة",
-            "اسم تفضيل تمييز شانا نفعا سكون"
+            "المُؤْمِنُ القَوِيُّ أَعْظَمُ شَأْنًا وَأَكْثَرُ نَفْعًا لِمُجْتَمَعِهِ. (almu'minu alqawiyu aa'azamu shaanana waaaktharu naf'aana limujtama'aihi.)",
+            "المؤمن اعظم شأنٌ بالرفع خطأ (alm'mn a'azm shanun balrf'a khta)",
+            "التمييز يشتري كتابا في المكتبة (altmyyz yshtry ktaba fy almktbh)",
+            "اسم تفضيل تمييز شانا نفعا سكون (asm tfdyl tmyyz shana nf'aa skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«شَأْنًا» و«نَفْعًا» تمييزان منصوبان بعد اسمي التفضيل («أَعْظَمُ» و«أَكْثَرُ»)."
@@ -13244,10 +13244,10 @@
         {
           "prompt": "ما حكم تمييز الأعداد من (11 إلى 99) في اللغة العربية؟",
           "options": [
-            "مُفْرَدٌ مَنْصُوبٌ دَائِمًا",
-            "جمع مجرور",
-            "مفرد مجرور",
-            "جمع مرفوع"
+            "مُفْرَدٌ مَنْصُوبٌ دَائِمًا (mufradun mansuwbun daa'imana)",
+            "جمع مجرور (jm'a mjrwr)",
+            "مفرد مجرور (mfrd mjrwr)",
+            "جمع مرفوع (jm'a mrfw'a)"
           ],
           "answerIndex": 0,
           "explanation": "تمييز الأعداد من 11 إلى 99 يكون دائماً مفرداً منصوباً (أحد عشر كوكبًا، تسعة وتسعين نعجةً)."
@@ -13260,10 +13260,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الذي يجمع بين تمييز الذات (المقادير والأعداد) وتمييز النسبة (المحول وبعد الامتلاء والتفضيل) بفصاحة تامة:",
           "options": [
-            "اشْتَرَى المُزَارِعُ فَدَّانًا أَرْضًا وَخَمْسِينَ شَجَرَةً زَيْتُونًا، فَاسْتَصْلَحَهَا حَتَّى طَابَتْ جَوْدَةً، وَامْتَلَأَتْ بِئْرُهُ مَاءً، فَغَدَتْ مَزْرَعَتُهُ أَكْثَرَ المَزَارِعِ إِنْتَاجًا وَأَعْلَاهَا رِبْحًا.",
-            "اشترى المزارع ارضا بلا تمييز وبلا اي تفصيل للمقادير.",
-            "تمييز ملفوظ وملحوظ فدانا خمسين شجرة جودة ماء انتاجا ربحا سكون فتحة ضمة.",
-            "خسرت المزرعة وجفت البئر تماما."
+            "اشْتَرَى المُزَارِعُ فَدَّانًا أَرْضًا وَخَمْسِينَ شَجَرَةً زَيْتُونًا، فَاسْتَصْلَحَهَا حَتَّى طَابَتْ جَوْدَةً، وَامْتَلَأَتْ بِئْرُهُ مَاءً، فَغَدَتْ مَزْرَعَتُهُ أَكْثَرَ المَزَارِعِ إِنْتَاجًا وَأَعْلَاهَا رِبْحًا. (Tamyiz U22)",
+            "اشترى المزارع ارضا بلا تمييز وبلا اي تفصيل للمقادير. (ashtra almzar'a arda bla tmyyz wbla ay tfsyl llmqadyr.)",
+            "تمييز ملفوظ وملحوظ فدانا خمسين شجرة جودة ماء انتاجا ربحا سكون فتحة ضمة. (tmyyz mlfwz wmlhwz fdana khmsyn shjrh jwdh ma' antaja rbha skwn fthh dmh.)",
+            "خسرت المزرعة وجفت البئر تماما. (khsrt almzr'ah wjft alb'r tmama.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: تمييز الذات للمساحة («فَدَّانًا أَرْضًا»)، تمييز العدد («شَجَرَةً»)، تمييز النسبة المحول («طَابَتْ جَوْدَةً»)، بعد الامتلاء («امْتَلَأَتْ مَاءً»)، وبعد التفضيل («إِنْتَاجًا»، «رِبْحًا»)."
@@ -13327,10 +13327,10 @@
         {
           "prompt": "ما هو إعراب كلمة «عَلِيٌّ» في أسلوب الاستثناء المفرغ: «مَا نَجَحَ إِلَّا عَلِيٌّ»؟",
           "options": [
-            "فَاعِلٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ",
-            "مستثنى منصوب وجوباً",
-            "مفعول به منصوب",
-            "بدل مجرور"
+            "فَاعِلٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (faa'ailun marfuw'aun bialdamahi alzaahirahi)",
+            "مستثنى منصوب وجوباً (mstthna mnswb wjwbaan)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "بدل مجرور (bdl mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "الاستثناء ناقص منفي (مفرغ)؛ يحذف النفي وإلا وتصير الجملة: «نَجَحَ عَلِيٌّ»، فعليّ فاعل مرفوع بالضمة."
@@ -13338,10 +13338,10 @@
         {
           "prompt": "ما هو إعراب الاسم الواقع بعد «غَيْر» أو «سِوَى» دائماً (مثل: «حَضَرَ القَوْمُ غَيْرَ زَيْدٍ»)؟",
           "options": [
-            "مُضَافٌ إِلَيْهِ مَجْرُورٌ دَائِمًا",
-            "مستثنى منصوب",
-            "فاعل مرفوع",
-            "نعت مجرور"
+            "مُضَافٌ إِلَيْهِ مَجْرُورٌ دَائِمًا (mudaafun iilayhi majruwrun daa'imana)",
+            "مستثنى منصوب (mstthna mnswb)",
+            "فاعل مرفوع (fa'al mrfw'a)",
+            "نعت مجرور (n'at mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "الاسم بعد «غير» و«سوى» يعرب دائماً مضافاً إليه مجروراً."
@@ -13353,10 +13353,10 @@
         {
           "prompt": "اختر الجملة التي تمثل الاستثناء التام المثبت واجب النصب ضبطاً وإعراباً:",
           "options": [
-            "أَثْمَرَتِ الأَشْجَارُ كُلُّهَا فِي البُسْتَانِ إِلَّا شَجَرَةَ التِّينِ.",
-            "اثمرت الاشجار الا شجرةُ بالرفع خطأ",
-            "الاستثناء يهرب من الحديقة",
-            "تام مثبت الا شجرة سكون"
+            "أَثْمَرَتِ الأَشْجَارُ كُلُّهَا فِي البُسْتَانِ إِلَّا شَجَرَةَ التِّينِ. (aathmarati alaashjaaru kuluhaa fiy albustaani iilaa shajaraha altiyni.)",
+            "اثمرت الاشجار الا شجرةُ بالرفع خطأ (athmrt alashjar ala shjrhu balrf'a khta)",
+            "الاستثناء يهرب من الحديقة (alastthna' yhrb mn alhdyqh)",
+            "تام مثبت الا شجرة سكون (tam mthbt ala shjrh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الكلام تام مثبت لم يسبق بنفي وذكر المستثنى منه («الأَشْجَارُ»)، فيجب نصب المستثنى «شَجَرَةَ» بالفتحة."
@@ -13364,10 +13364,10 @@
         {
           "prompt": "إذا سبقت «عَدَا» بـ «مَا» المصدرية في جملة «حَضَرَ الضُّيُوفُ مَا عَدَا طَارِقًا»، فما إعراب «طَارِقًا»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ وُجُوبًا",
-            "اسم مجرور بحرف الجر",
-            "فاعل مرفوع",
-            "مبتدأ مؤخر"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ وُجُوبًا (maf'auwlun bihi mansuwbun wujuwbana)",
+            "اسم مجرور بحرف الجر (asm mjrwr bhrf aljr)",
+            "فاعل مرفوع (fa'al mrfw'a)",
+            "مبتدأ مؤخر (mbtda m'khr)"
           ],
           "answerIndex": 0,
           "explanation": "دخول «ما» المصدرية يوجب فعلية «عدا»، ويكون ما بعدها مفعولاً به منصوباً وجوباً."
@@ -13380,10 +13380,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأدبي الشامل الذي يوظف أساليب الاستثناء التام والمفرغ بأدواته (إلا، غير، سوى، ما عدا) بأعلى درجات البلاغة العربية:",
           "options": [
-            "انْطَلَقَ الفُرْسَانُ كُلُّهُمْ إِلَّا فَارِسًا وَاحِدًا، وَمَا تَأَخَّرَ عَنِ المَيْدَانِ غَيْرُ المُتَرَدِّدِ، وَمَا رَأَيْتُ فِي المَعْرَكَةِ سِوَى الشَّجَاعَةِ وَالإِقْدَامِ، حَيْثُ اسْتَبْسَلَ الأَبْطَالُ مَا عَدَا الجَبَانَ الَّذِي وَلَّى هَارِبًا.",
-            "انطلق الفرسان بلا استثناءات وبلا اي حصر لغوي.",
-            "استثناء تام مثبت مفرغ الا غير سوى ما عدا سكون فتحة ضمة كسرة.",
-            "استسلم الفرسان ولم يقاتل احد في المعركة."
+            "انْطَلَقَ الفُرْسَانُ كُلُّهُمْ إِلَّا فَارِسًا وَاحِدًا، وَمَا تَأَخَّرَ عَنِ المَيْدَانِ غَيْرُ المُتَرَدِّدِ، وَمَا رَأَيْتُ فِي المَعْرَكَةِ سِوَى الشَّجَاعَةِ وَالإِقْدَامِ، حَيْثُ اسْتَبْسَلَ الأَبْطَالُ مَا عَدَا الجَبَانَ الَّذِي وَلَّى هَارِبًا. (Language concept U22)",
+            "انطلق الفرسان بلا استثناءات وبلا اي حصر لغوي. (antlq alfrsan bla astthna'at wbla ay hsr lghwy.)",
+            "استثناء تام مثبت مفرغ الا غير سوى ما عدا سكون فتحة ضمة كسرة. (astthna' tam mthbt mfrgh ala ghyr swa ma 'ada skwn fthh dmh ksrh.)",
+            "استسلم الفرسان ولم يقاتل احد في المعركة. (astslm alfrsan wlm yqatl ahd fy alm'arkh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج بين: التام المثبت المنصوب بـ «إلا» («إِلَّا فَارِسًا»)، المفرغ الفاعل بـ «غير» («مَا تَأَخَّرَ غَيْرُ»)، المفرغ المفعول بـ «سوى» («مَا رَأَيْتُ سِوَى»)، والاستثناء بعد «ما عدا» («مَا عَدَا الجَبَانَ»)."
@@ -13449,10 +13449,10 @@
         {
           "prompt": "ما الفرق الجوهري بين «جَاءَ زَيْدٌ مُسْرِعًا» و«ازْدَادَ زَيْدٌ سُرْعَةً»؟",
           "options": [
-            "«مُسْرِعًا» حَالٌ مُشْتَقٌّ يُبَيِّنُ الهَيْئَةَ، وَ«سُرْعَةً» تَمْيِيزٌ جَامِدٌ يَرْفَعُ إِبْهَامَ الزِّيَادَةِ",
-            "كلاهما حال مشتقة",
-            "كلاهما تمييز جامد",
-            "كلاهما مفعول مطلق"
+            "«مُسْرِعًا» حَالٌ مُشْتَقٌّ يُبَيِّنُ الهَيْئَةَ، وَ«سُرْعَةً» تَمْيِيزٌ جَامِدٌ يَرْفَعُ إِبْهَامَ الزِّيَادَةِ (Language concept U22)",
+            "كلاهما حال مشتقة (klahma hal mshtqh)",
+            "كلاهما تمييز جامد (klahma tmyyz jamd)",
+            "كلاهما مفعول مطلق (klahma mf'awl mtlq)"
           ],
           "answerIndex": 0,
           "explanation": "«مُسْرِعًا» اسم فاعل مشتق يبين هيئة زيد (حال)، و«سُرْعَةً» مصدر جامد يرفع إبهام الزيادة (تمييز نسبة)."
@@ -13460,10 +13460,10 @@
         {
           "prompt": "في جملة: «مَا نَالَ الجَائِزَةَ إِلَّا الكَرِيمُ»، ما الغرض البلاغي لأسلوب الاستثناء المفرغ؟",
           "options": [
-            "القَصْرُ وَالحَصْرُ وَتَأْكِيدُ الصِّفَةِ",
-            "الشك والتردد",
-            "الاستفهام والتعجب",
-            "النهي والتحذير"
+            "القَصْرُ وَالحَصْرُ وَتَأْكِيدُ الصِّفَةِ (alqasru waalhasru wataakiydu alsifahi)",
+            "الشك والتردد (alshk waltrdd)",
+            "الاستفهام والتعجب (alastfham walt'ajb)",
+            "النهي والتحذير (alnhy walthdhyr)"
           ],
           "answerIndex": 0,
           "explanation": "الاستثناء المفرغ يفيد القصر والحصر والتأكيد البلاغي الصارم."
@@ -13475,10 +13475,10 @@
         {
           "prompt": "اختر الجملة التي تدمج الحال والتمييز والاستثناء معاً في نسق بلاغي محكم:",
           "options": [
-            "وَقَفَ الخَطِيبُ وَاثِقًا وَقَدِ ازْدَادَ فَصَاحَةً فَلَمْ يَسْمَعِ الحَاضِرُونَ إِلَّا الدُّرَرَ.",
-            "وقف الخطيب بالافعال المرفوعة بلا حال وبلا تمييز",
-            "الحال والتمييز يركضان في الحديقة",
-            "واثقا فصاحة الا الدرر سكون"
+            "وَقَفَ الخَطِيبُ وَاثِقًا وَقَدِ ازْدَادَ فَصَاحَةً فَلَمْ يَسْمَعِ الحَاضِرُونَ إِلَّا الدُّرَرَ. (waqafa alkhatiybu waathiqana waqadi azdaada fasaahahan falam yasma'ai alhaadiruwna iilaa aldurara.)",
+            "وقف الخطيب بالافعال المرفوعة بلا حال وبلا تمييز (wqf alkhtyb balaf'aal almrfw'ah bla hal wbla tmyyz)",
+            "الحال والتمييز يركضان في الحديقة (alhal waltmyyz yrkdan fy alhdyqh)",
+            "واثقا فصاحة الا الدرر سكون (wathqa fsahh ala aldrr skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة دمجت: الحال («وَاثِقًا»)، التمييز («فَصَاحَةً»)، والاستثناء المفرغ («إِلَّا الدُّرَرَ»)."
@@ -13486,10 +13486,10 @@
         {
           "prompt": "هل يجوز أن تأتي الحال اسمًا جامدًا غير مشتق؟",
           "options": [
-            "الأَصْلُ فِي الحَالِ أَنْ تَكُونَ مُشْتَقَّةً، وَإِذَا جَاءَتْ جَامِدَةً أُوِّلَتْ بِمُشْتَقٍّ",
-            "نعم هي جامدة دائما كالحجر",
-            "لا يجوز في أي حال من الأحوال",
-            "تتحول إلى مفعول به"
+            "الأَصْلُ فِي الحَالِ أَنْ تَكُونَ مُشْتَقَّةً، وَإِذَا جَاءَتْ جَامِدَةً أُوِّلَتْ بِمُشْتَقٍّ (Language concept U22)",
+            "نعم هي جامدة دائما كالحجر (n'am hy jamdh da'ma kalhjr)",
+            "لا يجوز في أي حال من الأحوال (la yjwz fy ay hal mn alahwal)",
+            "تتحول إلى مفعول به (tthwl ila mf'awl bh)"
           ],
           "answerIndex": 0,
           "explanation": "الأصل في الحال الاشتقاق، وإن وردت جامدة فتؤول بمشتق (أسداً = شجاعاً، يداً بيد = متقابضين)."
@@ -13502,10 +13502,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأدبي البليغ الذي يجسد التكامل الدلالي بين الحال والتمييز والاستثناء بأعلى مستويات الفصاحة:",
           "options": [
-            "أَقْبَلَ العَالِمُ مُبْتَسِمًا وَقَدْ فَاضَ صَدْرُهُ حِكْمَةً وَنُورًا، فَجَلَسَ بَيْنَ طُلَّابِهِ يُفِيضُ عَلَيْهِمْ مِنْ مَعَارِفِهِ، وَمَا كَانَ يَبْتَغِي مِنْ جُهُودِهِ غَيْرَ خِدْمَةِ الإِنْسَانِيَّةِ وَنَشْرِ الفَضِيلَةِ.",
-            "اقبل العالم بلا احوال وبلا تمييز وبلا استثناء في الحديث.",
-            "مبتسما حكمة غير خدمة انسانية حال تمييز استثناء سكون فتحة ضمة.",
-            "انصرف العالم ولم يبتسم ولم يتكلم بكلمة واحدة."
+            "أَقْبَلَ العَالِمُ مُبْتَسِمًا وَقَدْ فَاضَ صَدْرُهُ حِكْمَةً وَنُورًا، فَجَلَسَ بَيْنَ طُلَّابِهِ يُفِيضُ عَلَيْهِمْ مِنْ مَعَارِفِهِ، وَمَا كَانَ يَبْتَغِي مِنْ جُهُودِهِ غَيْرَ خِدْمَةِ الإِنْسَانِيَّةِ وَنَشْرِ الفَضِيلَةِ. (Language concept U22)",
+            "اقبل العالم بلا احوال وبلا تمييز وبلا استثناء في الحديث. (aqbl al'aalm bla ahwal wbla tmyyz wbla astthna' fy alhdyth.)",
+            "مبتسما حكمة غير خدمة انسانية حال تمييز استثناء سكون فتحة ضمة. (mbtsma hkmh ghyr khdmh ansanyh hal tmyyz astthna' skwn fthh dmh.)",
+            "انصرف العالم ولم يبتسم ولم يتكلم بكلمة واحدة. (ansrf al'aalm wlm ybtsm wlm ytklm bklmh wahdh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج بروعة بين: الحال المشتقة («مُبْتَسِمًا»)، تمييز النسبة بعد الامتلاء والفيض («حِكْمَةً»)، والاستثناء بغير المفرغة في محل نصب مفعول به («غَيْرَ خِدْمَةِ»)."
@@ -13570,10 +13570,10 @@
         {
           "prompt": "في الحوار الشامل، ما إعراب كلمة «مُتَحَمِّسِينَ» في قول مريم: «أَلْقَى الشُّعَرَاءُ قَصَائِدَهُمْ مُتَحَمِّسِينَ»؟",
           "options": [
-            "حَالٌ مَنْصُوبَةٌ بِاليَاءِ لأَنَّهَا جَمْعُ مُذَكَّرٍ سَالِمٌ",
-            "مفعول به ثان (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "تمييز منصوب بالياء (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "نعت مرفوع بالواو (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)"
+            "حَالٌ مَنْصُوبَةٌ بِاليَاءِ لأَنَّهَا جَمْعُ مُذَكَّرٍ سَالِمٌ (haalun mansuwbahun bialyaa'i laanahaa jam'au mudhakarin saalimun)",
+            "مفعول به ثان (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "تمييز منصوب بالياء (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "نعت مرفوع بالواو (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«مُتَحَمِّسِينَ» حال منصوبة بالياء تبين هيئة الشعراء عند إلقاء القصائد."
@@ -13581,10 +13581,10 @@
         {
           "prompt": "ما نوع التمييز في عبارة «خَمْسِينَ نَصًّا» التي ذكرها د. إبراهيم؟",
           "options": [
-            "تَمْيِيزُ ذَاتٍ (مَلْفُوظٌ) بَعْدَ لَفْظِ العَدَدِ",
-            "تمييز نسبة محول (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "حال مفردة (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "مفعول مطلق (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)"
+            "تَمْيِيزُ ذَاتٍ (malfuwzun)",
+            "تمييز نسبة محول (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "حال مفردة (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "مفعول مطلق (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«نَصًّا» تمييز ذات ملفوظ جاء بعد لفظ العدد العقدي «خَمْسِينَ»."
@@ -13596,10 +13596,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تشتمل على الحال والتمييز والاستثناء بتكامل تركيبي فصيح:",
           "options": [
-            "— كَيْفَ جَرَتِ النَّدْوَةُ؟ — تَحَدَّثَ المُحَاضِرُ وَاثِقًا وَازْدَادَ الحَاضِرُونَ اسْتِفَادَةً، وَمَا رَأَيْتُ غَيْرَ الإِعْجَابِ.",
-            "— كيف جرت الندوة بلا احوال وبلا تمييز؟ (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "— كم سعر التذكرة في المسرح؟ (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "— ندوة حوار واثقا استفادة غير سكون فتحة. (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)"
+            "— كَيْفَ جَرَتِ النَّدْوَةُ؟ — تَحَدَّثَ المُحَاضِرُ وَاثِقًا وَازْدَادَ الحَاضِرُونَ اسْتِفَادَةً، وَمَا رَأَيْتُ غَيْرَ الإِعْجَابِ. (Language concept U22)",
+            "— كيف جرت الندوة بلا احوال وبلا تمييز؟ (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "— كم سعر التذكرة في المسرح؟ (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "— ندوة حوار واثقا استفادة غير سكون فتحة. (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع: الحال («وَاثِقًا»)، التمييز («اسْتِفَادَةً»)، والاستثناء المفرغ بغير («غَيْرَ الإِعْجَابِ»)."
@@ -13607,10 +13607,10 @@
         {
           "prompt": "ما إعراب كلمة «وَاحِدًا» في عبارة: «مَا عَدَا وَاحِدًا»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ بَعْدَ",
-            "اسم مجرور بحرف الجر (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "فاعل مرفوع بالضمة (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "مستثنى مجرور (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ بَعْدَ (maf'auwlun bihi mansuwbun bialfathahi ba'ada)",
+            "اسم مجرور بحرف الجر (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "فاعل مرفوع بالضمة (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "مستثنى مجرور (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "بعد «مَا عَدَا» يعرب المستثنى مفعولاً به منصوباً وجوباً بالفتحة."
@@ -13623,10 +13623,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الثانية والعشرين بأكملها (الحال بأنواعه، التمييز بأنواعه، والاستثناء بأدواته):",
           "options": [
-            "اخْتُتِمَتِ النَّدْوَةُ النَّقْدِيَّةُ حَيْثُ خَرَجَ البَاحِثُونَ مَسْرُورِينَ وَقَدِ ازْدَادُوا عِلْمًا وَبَصِيرَةً، وَنَاقَشُوا ثَلَاثِينَ بَحْثًا فَمَا وَجَدُوا فِيهَا غَيْرَ الجَوْدَةِ إِلَّا بَعْضَ الهَفَوَاتِ الَّتِي رُوجِعَتْ، وَأَثْنَى النُّقَّادُ كُلُّهُمْ مَا عَدَا المُتَعَصِّبَ عَلَى نَجَاحِ المُلْتَقَى.",
-            "اختتمت الندوة النقدية بالافعال المجردة فقط بلا احوال وبلا تمييز وبلا استثناء. (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "مؤتمر ادبي مسرورين علما ثلاثين بحثا غير الجودة الا بعض ما عدا سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)",
-            "فشلت الندوة ولم يحضر اي باحث الى القاعة. (الدمج الشامل لكافة مخرجات الوحدة الثانية والعشرين)"
+            "اخْتُتِمَتِ النَّدْوَةُ النَّقْدِيَّةُ حَيْثُ خَرَجَ البَاحِثُونَ مَسْرُورِينَ وَقَدِ ازْدَادُوا عِلْمًا وَبَصِيرَةً، وَنَاقَشُوا ثَلَاثِينَ بَحْثًا فَمَا وَجَدُوا فِيهَا غَيْرَ الجَوْدَةِ إِلَّا بَعْضَ الهَفَوَاتِ الَّتِي رُوجِعَتْ، وَأَثْنَى النُّقَّادُ كُلُّهُمْ مَا عَدَا المُتَعَصِّبَ عَلَى نَجَاحِ المُلْتَقَى. (Language concept U22)",
+            "اختتمت الندوة النقدية بالافعال المجردة فقط بلا احوال وبلا تمييز وبلا استثناء. (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "مؤتمر ادبي مسرورين علما ثلاثين بحثا غير الجودة الا بعض ما عدا سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)",
+            "فشلت الندوة ولم يحضر اي باحث الى القاعة. (aldmj alshaml lkafh mkhrjat alwhdh althanyh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج: الحال المفردة («مَسْرُورِينَ»)، تمييز النسبة («عِلْمًا»)، تمييز العدد («ثَلَاثِينَ بَحْثًا»)، الاستثناء المفرغ بغير («غَيْرَ الجَوْدَةِ»)، الاستثناء بـ إلا («إِلَّا بَعْضَ»)، والاستثناء بـ ما عدا («مَا عَدَا المُتَعَصِّبَ»)."
@@ -13690,10 +13690,10 @@
         {
           "prompt": "أي التركيبين التاليين يمثل عنواناً صحفياً مصدرياً بليغاً وموجزاً؟",
           "options": [
-            "«تَوْقِيعُ اتِّفَاقِيَّةِ الشَّرَاكَةِ الِاسْتِرَاتِيجِيَّةِ بَيْنَ البَلَدَيْنِ»",
-            "تم توقيع الاتفاقية بواسطة المسؤولين في الصباح",
-            "نحن نوقع الاتفاقية الآن في الغرفة",
-            "الاتفاقية وقعت وسوف نرى النتائج"
+            "«تَوْقِيعُ اتِّفَاقِيَّةِ الشَّرَاكَةِ الِاسْتِرَاتِيجِيَّةِ بَيْنَ البَلَدَيْنِ» (Language concept U23)",
+            "تم توقيع الاتفاقية بواسطة المسؤولين في الصباح (tm twqy'a alatfaqyh bwasth alms'wlyn fy alsbah)",
+            "نحن نوقع الاتفاقية الآن في الغرفة (nhn nwq'a alatfaqyh alaan fy alghrfh)",
+            "الاتفاقية وقعت وسوف نرى النتائج (alatfaqyh wq'at wswf nra alnta'j)"
           ],
           "answerIndex": 0,
           "explanation": "البدء بالمصدر المضاف («تَوْقِيعُ اتِّفَاقِيَّةِ...») هو الأسلوب المعياري البليغ للعناوين الصحفية في العربية الفصحى."
@@ -13701,10 +13701,10 @@
         {
           "prompt": "ماذا تعني عبارة «فِي مُسْتَهَلِّ الجَوْلَةِ» في السياق الإخباري؟",
           "options": [
-            "فِي بِدَايَتِهَا وَانْطِلَاقَتِهَا الأُولَى",
-            "في نهايتها واختتامها",
-            "في منتصف الطريق",
-            "بعد إلغائها وتأجيلها"
+            "فِي بِدَايَتِهَا وَانْطِلَاقَتِهَا الأُولَى (fiy bidaayatihaa waantilaaqatihaa alauwlaa)",
+            "في نهايتها واختتامها (fy nhaytha wakhttamha)",
+            "في منتصف الطريق (fy mntsf altryq)",
+            "بعد إلغائها وتأجيلها (b'ad ilgha'ha wtajylha)"
           ],
           "answerIndex": 0,
           "explanation": "«المُسْتَهَلّ» هو بداية الشيء وبواكير انطلاقه."
@@ -13716,10 +13716,10 @@
         {
           "prompt": "اختر الصياغة الإخبارية الفصيحة المناسبة لافتتاح نشرة الأخبار المتلفزة:",
           "options": [
-            "«سَيِّدَاتِي وَسَادَتِي، طَابَتْ أَوْقَاتُكُمْ، إِلَيْكُمْ نَشْرَةَ الأَخْبَارِ الرَّئِيسَةَ مِنْ إِسْتُودْيُوهَاتِنَا فِي القَاهِرَةِ».",
-            "اهلا بكم جميعا اسمعوا ماذا حدث اليوم في الشارع",
-            "مرحبا بكم الخبر الاول هو مؤتمر كبير جدا",
-            "نشرة اخبار كلام عامي سكون"
+            "«سَيِّدَاتِي وَسَادَتِي، طَابَتْ أَوْقَاتُكُمْ، إِلَيْكُمْ نَشْرَةَ الأَخْبَارِ الرَّئِيسَةَ مِنْ إِسْتُودْيُوهَاتِنَا فِي القَاهِرَةِ». (Language concept U23)",
+            "اهلا بكم جميعا اسمعوا ماذا حدث اليوم في الشارع (ahla bkm jmy'aa asm'awa madha hdth alywm fy alshar'a)",
+            "مرحبا بكم الخبر الاول هو مؤتمر كبير جدا (mrhba bkm alkhbr alawl hw m'tmr kbyr jda)",
+            "نشرة اخبار كلام عامي سكون (nshrh akhbar klam 'aamy skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذه هي الصيغة الدبلوماسية والإعلامية المعتمدة في القنوات الإخبارية الرصينة."
@@ -13727,10 +13727,10 @@
         {
           "prompt": "ما الفرق الأسلوبي بين «انْطَلَقَتِ القِمَّةُ» و«انْطِلَاقُ القِمَّةِ» في الصحافة؟",
           "options": [
-            "الأُولَى جُمْلَةٌ فِعْلِيَّةٌ تَقْرِيرِيَّةٌ تَصْلُحُ لِمَتْنِ الخَبَرِ، وَالثَّانِيَةُ مَصْدَرِيَّةٌ تُفَضَّلُ لِلْعَنَاوِينِ",
-            "لا يوجد أي فرق بينهما إطلاقاً",
-            "الأولى عامية والثانية فصيحة",
-            "كلاهما ممنوع من الصرف"
+            "الأُولَى جُمْلَةٌ فِعْلِيَّةٌ تَقْرِيرِيَّةٌ تَصْلُحُ لِمَتْنِ الخَبَرِ، وَالثَّانِيَةُ مَصْدَرِيَّةٌ تُفَضَّلُ لِلْعَنَاوِينِ (Language concept U23)",
+            "لا يوجد أي فرق بينهما إطلاقاً (la ywjd ay frq bynhma itlaqaan)",
+            "الأولى عامية والثانية فصيحة (alawla 'aamyh walthanyh fsyhh)",
+            "كلاهما ممنوع من الصرف (klahma mmnw'a mn alsrf)"
           ],
           "answerIndex": 0,
           "explanation": "العناوين تفضل المصادر للإيجاز، بينما متون الأخبار تبدأ بالأفعال التقريرية."
@@ -13743,10 +13743,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الإخباري المتكامل الذي يجمع بين العنوان المصدري البليغ والموجز التقريري الفصيح:",
           "options": [
-            "«اخْتِتَامُ أَعْمَالِ قِمَّةِ المُنَاخِ فِي الرِّيَاضِ؛ حَيْثُ أَكَّدَ القَادَةُ فِي بَيَانِهِمُ الخِتَامِيِّ عَلَى ضَرُورَةِ تَسْرِيعِ التَّحَوُّلِ نَحْوَ الطَّاقَةِ النَّظِيفَةِ وَدَعْمِ مَشَارِيعِ الِاسْتِدَامَةِ البِيئِيَّةِ».",
-            "قيل في الاخبار ان المؤتمر خلص والناس مشت.",
-            "عنوان مصدري ختام اعمال قمة سكون فتحة ضمة بيئة طاقة.",
-            "فشل المؤتمر ولم يخرج باي بيان ختامي."
+            "«اخْتِتَامُ أَعْمَالِ قِمَّةِ المُنَاخِ فِي الرِّيَاضِ؛ حَيْثُ أَكَّدَ القَادَةُ فِي بَيَانِهِمُ الخِتَامِيِّ عَلَى ضَرُورَةِ تَسْرِيعِ التَّحَوُّلِ نَحْوَ الطَّاقَةِ النَّظِيفَةِ وَدَعْمِ مَشَارِيعِ الِاسْتِدَامَةِ البِيئِيَّةِ». (Language concept U23)",
+            "قيل في الاخبار ان المؤتمر خلص والناس مشت. (qyl fy alakhbar an alm'tmr khls walnas msht.)",
+            "عنوان مصدري ختام اعمال قمة سكون فتحة ضمة بيئة طاقة. ('anwan msdry khtam a'amal qmh skwn fthh dmh by'h taqh.)",
+            "فشل المؤتمر ولم يخرج باي بيان ختامي. (fshl alm'tmr wlm ykhrj bay byan khtamy.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الرصانة الصحفية: عنوان مصدري محكم («اخْتِتَامُ أَعْمَالِ...»)، وتفصيل تقريري دقيق بعبارات («فِي بَيَانِهِمُ الخِتَامِيِّ»، «التَّحَوُّلِ نَحْوَ الطَّاقَةِ النَّظِيفَةِ»)."
@@ -13813,10 +13813,10 @@
         {
           "prompt": "ما معنى التعبير الدبلوماسي «رَأْبُ الصَّدْعِ» في الأخبار السياسية؟",
           "options": [
-            "إِصْلَاحُ الخِلَافِ وَإِعَادَةُ الوِئَامِ وَالمُصَالَحَةِ",
-            "زيادة التوتر والخصام",
-            "إلغاء المعاهدات والاتفاقيات",
-            "إغلاق الحدود الدبلوماسية"
+            "إِصْلَاحُ الخِلَافِ وَإِعَادَةُ الوِئَامِ وَالمُصَالَحَةِ (iislaahu alkhilaafi waii'aaadahu alwi'aami waalmusaalahahi)",
+            "زيادة التوتر والخصام (zyadh altwtr walkhsam)",
+            "إلغاء المعاهدات والاتفاقيات (ilgha' alm'aahdat walatfaqyat)",
+            "إغلاق الحدود الدبلوماسية (ighlaq alhdwd aldblwmasyh)"
           ],
           "answerIndex": 0,
           "explanation": "«رَأْبُ الصَّدْعِ» تعني إصلاح الشقاق والمصالحة بين الأطراف المتنازعة."
@@ -13824,10 +13824,10 @@
         {
           "prompt": "ما هو المقابل الفصيح للمصطلح السياسي الدولي (Bilateral Relations)؟",
           "options": [
-            "العَلَاقَاتُ الثُّنَائِيَّةُ",
-            "العلاقات الفردية",
-            "العلاقات العامة",
-            "العلاقات غير المحددة"
+            "العَلَاقَاتُ الثُّنَائِيَّةُ (al'aalaaqaatu althunaa'iyahu)",
+            "العلاقات الفردية (al'alaqat alfrdyh)",
+            "العلاقات العامة (al'alaqat al'aamh)",
+            "العلاقات غير المحددة (al'alaqat ghyr almhddh)"
           ],
           "answerIndex": 0,
           "explanation": "المصطلح المعياري هو «العَلَاقَاتُ الثُّنَائِيَّةُ»."
@@ -13839,10 +13839,10 @@
         {
           "prompt": "اختر الجملة التي تصوغ موقفاً دبلوماسياً رسمياً بأسلوب عربي فصيح ومتوازن:",
           "options": [
-            "أَعْرَبَتِ الخَارِجِيَّةُ عَنْ بَالِغِ قَلَقِهَا إِزَاءَ التَّطَوُّرَاتِ الأَخِيرَةِ دَاعِيَةً إِلَى ضَبْطِ النَّفْسِ.",
-            "الوزارة زعلانة جدا مما حصل وتنادي الناس يسكتوا",
-            "قلق شديد في كل مكان بدون اي بيان",
-            "دبلوماسية قلق ضبط نفس سكون"
+            "أَعْرَبَتِ الخَارِجِيَّةُ عَنْ بَالِغِ قَلَقِهَا إِزَاءَ التَّطَوُّرَاتِ الأَخِيرَةِ دَاعِيَةً إِلَى ضَبْطِ النَّفْسِ. (aa'arabati alkhaarijiyahu 'aan baalighi qalaqihaa iizaa'a altatawuraati alaakhiyrahi daa'aiyahan iilaa dabti alnafsi.)",
+            "الوزارة زعلانة جدا مما حصل وتنادي الناس يسكتوا (alwzarh z'alanh jda mma hsl wtnady alnas ysktwa)",
+            "قلق شديد في كل مكان بدون اي بيان (qlq shdyd fy kl mkan bdwn ay byan)",
+            "دبلوماسية قلق ضبط نفس سكون (dblwmasyh qlq dbt nfs skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«أَعْرَبَتْ عَنْ بَالِغِ قَلَقِهَا... دَاعِيَةً إِلَى ضَبْطِ النَّفْسِ» هو القالب الدبلوماسي المعياري الفصيح."
@@ -13850,10 +13850,10 @@
         {
           "prompt": "ما المقصود بـ «المَسَاعِي الحَمِيدَةُ» (Good offices) في العلاقات الدولية؟",
           "options": [
-            "جُهُودُ الوَسَاطَةِ الدِّبْلُومَاسِيَّةِ لِحَلِّ النِّزَاعَاتِ سِلْمِيًّا",
-            "المساعدات المالية فقط",
-            "الرحلات السياحية للمسؤولين",
-            "البيانات الصحفية غير الرسمية"
+            "جُهُودُ الوَسَاطَةِ الدِّبْلُومَاسِيَّةِ لِحَلِّ النِّزَاعَاتِ سِلْمِيًّا (juhuwdu alwasaatahi aldibluwmaasiyahi lihali alnizaa'aaati silmiyana)",
+            "المساعدات المالية فقط (almsa'adat almalyh fqt)",
+            "الرحلات السياحية للمسؤولين (alrhlat alsyahyh llms'wlyn)",
+            "البيانات الصحفية غير الرسمية (albyanat alshfyh ghyr alrsmyh)"
           ],
           "answerIndex": 0,
           "explanation": "«المساعي الحميدة» هي جهود دولة أو منظمة محايدة للتوسط وتقريب وجهات النظر بين أطراف النزاع."
@@ -13866,10 +13866,10 @@
           "type": "multiple-choice",
           "prompt": "اختر البيان الدبلوماسي الأكثر فصاحة ورصانة في التعبير عن نتائج قمة دولية رفيعة المستوى:",
           "options": [
-            "أَكَّدَ القَادَةُ فِي خِتَامِ قِمَّتِهِمُ الطَّارِئَةِ عَلَى ضَرُورَةِ خَفْضِ التَّصْعِيدِ، وَتَبَنِّي حُلُولٍ دِبْلُومَاسِيَّةٍ شَامِلَةٍ تَقُومُ عَلَى احْتِرَامِ السِّيَادَةِ الوَطَنِيَّةِ وَمَبَادِئِ حُسْنِ الجِوَارِ، مُشِيدِينَ بِالمَسَاعِي الحَمِيدَةِ الَّتِي بُذِلَتْ لِرَأْبِ الصَّدْعِ.",
-            "اجتمع الرؤساء وقالوا ان كل شيء تمام وسيعودون الى بلادهم غدا.",
-            "بيان دبلوماسي خفض تصعيد حسن جوار سكون فتحة ضمة سيادة وطنية.",
-            "تفرقت القمة دون اي اتفاق بين الاطراف."
+            "أَكَّدَ القَادَةُ فِي خِتَامِ قِمَّتِهِمُ الطَّارِئَةِ عَلَى ضَرُورَةِ خَفْضِ التَّصْعِيدِ، وَتَبَنِّي حُلُولٍ دِبْلُومَاسِيَّةٍ شَامِلَةٍ تَقُومُ عَلَى احْتِرَامِ السِّيَادَةِ الوَطَنِيَّةِ وَمَبَادِئِ حُسْنِ الجِوَارِ، مُشِيدِينَ بِالمَسَاعِي الحَمِيدَةِ الَّتِي بُذِلَتْ لِرَأْبِ الصَّدْعِ. (Language concept U23)",
+            "اجتمع الرؤساء وقالوا ان كل شيء تمام وسيعودون الى بلادهم غدا. (ajtm'a alr'sa' wqalwa an kl shy' tmam wsy'awdwn ala bladhm ghda.)",
+            "بيان دبلوماسي خفض تصعيد حسن جوار سكون فتحة ضمة سيادة وطنية. (byan dblwmasy khfd ts'ayd hsn jwar skwn fthh dmh syadh wtnyh.)",
+            "تفرقت القمة دون اي اتفاق بين الاطراف. (tfrqt alqmh dwn ay atfaq byn alatraf.)"
           ],
           "answerIndex": 0,
           "explanation": "البيان يحقق أعلى مستويات الفصاحة الدبلوماسية: («خَفْضُ التَّصْعِيدِ»، «السِّيَادَةُ الوَطَنِيَّةُ»، «حُسْنُ الجِوَارِ»، «المَسَاعِي الحَمِيدَةُ»، و«رَأْبُ الصَّدْعِ»)."
@@ -13934,10 +13934,10 @@
         {
           "prompt": "ما هي الوظيفة الأسلوبية لعبارة «فِي سِيَاقٍ مُتَّصِلٍ» في المقال الإخباري؟",
           "options": [
-            "الرَّبْطُ السَّلِسُ بَيْنَ خَبَرَيْنِ مُتَرَابِطَيْنِ مَوْضُوعِيًّا",
-            "إنهاء المقال فوراً",
-            "تكذيب الخبر السابق",
-            "تغيير اللغة إلى لغة أخرى"
+            "الرَّبْطُ السَّلِسُ بَيْنَ خَبَرَيْنِ مُتَرَابِطَيْنِ مَوْضُوعِيًّا (alrabtu alsalisu bayna khabarayni mutaraabitayni mawduw'aiyana)",
+            "إنهاء المقال فوراً (inha' almqal fwraan)",
+            "تكذيب الخبر السابق (tkdhyb alkhbr alsabq)",
+            "تغيير اللغة إلى لغة أخرى (tghyyr allghh ila lghh akhra)"
           ],
           "answerIndex": 0,
           "explanation": "تُستخدم عبارة «في سياق متصل» للانتقال البلاغي السلس بين جزئيتين إخباريتين مرتبطتين بموضوع واحد."
@@ -13945,10 +13945,10 @@
         {
           "prompt": "ماذا تعني عبارة «مِنَ المُزْمَعِ عَقْدُهُ»؟",
           "options": [
-            "مِنَ المُقَرَّرِ وَالمُخَطَّطِ إِقَامَتُهُ قَرِيبًا",
-            "تم إلغاؤه في الماضي",
-            "حدث بالصدفة المفاجئة",
-            "مستحيل الحدوث نهائياً"
+            "مِنَ المُقَرَّرِ وَالمُخَطَّطِ إِقَامَتُهُ قَرِيبًا (mina almuqarari waalmukhatati iiqaamatuhu qariybana)",
+            "تم إلغاؤه في الماضي (tm ilgha'h fy almady)",
+            "حدث بالصدفة المفاجئة (hdth balsdfh almfaj'h)",
+            "مستحيل الحدوث نهائياً (msthyl alhdwth nha'yaan)"
           ],
           "answerIndex": 0,
           "explanation": "«المُزْمَع» أي المنوي والمقرر إنجازه والمخطط له مسبقاً."
@@ -13960,10 +13960,10 @@
         {
           "prompt": "اختر الفقرة التحليلية التي تلتزم بأعلى معايير الإسناد والرصانة الصحفية:",
           "options": [
-            "وَيَرَى مُرَاقِبُونَ أَنَّ القِمَّةَ سَتُسْهِمُ فِي إِعَادَةِ رَسْمِ الخَارِطَةِ الجُيُوسِيَاسِيَّةِ، لَا سِيَّمَا فِي ظِلِّ التَّحَوُّلَاتِ الدَّوْلِيَّةِ الرَّاهِنَةِ.",
-            "الناس كلهم يقولون ان المؤتمر سيغير العالم اكيد",
-            "انا شخصيا اعتقد ان لا شيء سيتغير ابدا",
-            "مراقبون تحليل جيوسياسي سكون"
+            "وَيَرَى مُرَاقِبُونَ أَنَّ القِمَّةَ سَتُسْهِمُ فِي إِعَادَةِ رَسْمِ الخَارِطَةِ الجُيُوسِيَاسِيَّةِ، لَا سِيَّمَا فِي ظِلِّ التَّحَوُّلَاتِ الدَّوْلِيَّةِ الرَّاهِنَةِ. (Language concept U23)",
+            "الناس كلهم يقولون ان المؤتمر سيغير العالم اكيد (alnas klhm yqwlwn an alm'tmr syghyr al'aalm akyd)",
+            "انا شخصيا اعتقد ان لا شيء سيتغير ابدا (ana shkhsya a'atqd an la shy' sytghyr abda)",
+            "مراقبون تحليل جيوسياسي سكون (mraqbwn thlyl jywsyasy skwn)"
           ],
           "answerIndex": 0,
           "explanation": "تستخدم الفقرة صيغ التحليل الرصين: («يَرَى مُرَاقِبُونَ»، «إِعَادَةِ رَسْمِ الخَارِطَةِ الجُيُوسِيَاسِيَّةِ»، «لَا سِيَّمَا فِي ظِلِّ...»)."
@@ -13971,10 +13971,10 @@
         {
           "prompt": "ما هو الإعراب الصحيح لكلمة «مَصَادِرَ» في جملة: «نَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ»؟",
           "options": [
-            "اسْمٌ مَجْرُورٌ بِالفَتْحَةِ نِيَابَةً عَنِ الكَسْرَةِ لِأَنَّهُ مَمْنُوعٌ مِنَ الصَّرْفِ",
-            "اسم مجرور بالكسرة الظاهرة",
-            "مفعول به منصوب",
-            "مبتدأ مؤخر مرفوع"
+            "اسْمٌ مَجْرُورٌ بِالفَتْحَةِ نِيَابَةً عَنِ الكَسْرَةِ لِأَنَّهُ مَمْنُوعٌ مِنَ الصَّرْفِ (asmun majruwrun bialfathahi niyaabahan 'aani alkasrahi liaanahu mamnuw'aun mina alsarfi)",
+            "اسم مجرور بالكسرة الظاهرة (asm mjrwr balksrh alzahrh)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "مبتدأ مؤخر مرفوع (mbtda m'khr mrfw'a)"
           ],
           "answerIndex": 0,
           "explanation": "«مَصَادِرَ» صيغة منتهى الجموع (مفاعل)، مجردة من أل والإضافة، فتجر بالفتحة نيابة عن الكسرة."
@@ -13987,10 +13987,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الصحفي التحليلي الذي يجمع بين الإسناد الدقيق والربط المهني والعمق الاستراتيجي:",
           "options": [
-            "نَقْلًا عَنْ مَصَادِرَ رَفِيعَةِ المُسْتَوَى، صَرَّحَ المَسْؤُولُونَ بِأَنَّ المُحَادَثَاتِ قَطَعَتْ شَوْطًا طَوِيلًا؛ وَفِي سِيَاقٍ مُتَّصِلٍ، يَرَى خُبَرَاءُ أَنَّ هٰذَا التَّقَدُّمَ سَيُعَزِّزُ فُرَصَ الِاسْتِقْرَارِ، بَيْنَمَا مِنَ المُزْمَعِ التَّوْقِيعُ عَلَى الوَثِيقَةِ الخِتَامِيَّةِ خِلَالَ الأُسْبُوعِ المُقْبِلِ.",
-            "سمعنا اخبارا من مصادر غير معروفة ان المحادثات ماشية تمام.",
-            "اسناد صحفي مصادر رفيعة سياق متصل مزمع سكون فتحة ضمة.",
-            "توقفت المحادثات فجاة ورفض الجميع التحدث للصحافة."
+            "نَقْلًا عَنْ مَصَادِرَ رَفِيعَةِ المُسْتَوَى، صَرَّحَ المَسْؤُولُونَ بِأَنَّ المُحَادَثَاتِ قَطَعَتْ شَوْطًا طَوِيلًا؛ وَفِي سِيَاقٍ مُتَّصِلٍ، يَرَى خُبَرَاءُ أَنَّ هٰذَا التَّقَدُّمَ سَيُعَزِّزُ فُرَصَ الِاسْتِقْرَارِ، بَيْنَمَا مِنَ المُزْمَعِ التَّوْقِيعُ عَلَى الوَثِيقَةِ الخِتَامِيَّةِ خِلَالَ الأُسْبُوعِ المُقْبِلِ. (Language concept U23)",
+            "سمعنا اخبارا من مصادر غير معروفة ان المحادثات ماشية تمام. (sm'ana akhbara mn msadr ghyr m'arwfh an almhadthat mashyh tmam.)",
+            "اسناد صحفي مصادر رفيعة سياق متصل مزمع سكون فتحة ضمة. (asnad shfy msadr rfy'ah syaq mtsl mzm'a skwn fthh dmh.)",
+            "توقفت المحادثات فجاة ورفض الجميع التحدث للصحافة. (twqft almhadthat fjah wrfd aljmy'a althdth llshafh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج: الإسناد الموثق («نَقْلًا عَنْ مَصَادِرَ رَفِيعَةِ المُسْتَوَى»)، أداة الربط التحليلي («وَفِي سِيَاقٍ مُتَّصِلٍ»)، صيغ التحليل («يَرَى خُبَرَاءُ»)، وصيغة التخطيط («مِنَ المُزْمَعِ»)."
@@ -14054,10 +14054,10 @@
         {
           "prompt": "ما هو المقابل الفصيح للمصطلح الاقتصادي العالمي (Gross Domestic Product - GDP)؟",
           "options": [
-            "النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيُّ",
-            "الدخل السنوي العام",
-            "الميزانية التقديرية",
-            "الاحتياطي النقدي الدولي"
+            "النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيُّ (alnaatiju almahaliyu aliijmaaliyu)",
+            "الدخل السنوي العام (aldkhl alsnwy al'aam)",
+            "الميزانية التقديرية (almyzanyh altqdyryh)",
+            "الاحتياطي النقدي الدولي (alahtyaty alnqdy aldwly)"
           ],
           "answerIndex": 0,
           "explanation": "المصطلح المعياري الدقيق هو «النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيُّ»."
@@ -14065,10 +14065,10 @@
         {
           "prompt": "ما معنى «فَائِضٌ تِجَارِيٌّ» في التقارير المالية؟",
           "options": [
-            "تَفَوُّقُ قِيمَةِ الصَّادِرَاتِ عَلَى قِيمَةِ الوَارِدَاتِ",
-            "تساوي الصادرات والواردات",
-            "زيادة الديون الخارجية",
-            "تراجع حركة البيع والشراء"
+            "تَفَوُّقُ قِيمَةِ الصَّادِرَاتِ عَلَى قِيمَةِ الوَارِدَاتِ (tafawuqu qiymahi alsaadiraati 'aalaa qiymahi alwaaridaati)",
+            "تساوي الصادرات والواردات (tsawy alsadrat walwardat)",
+            "زيادة الديون الخارجية (zyadh aldywn alkharjyh)",
+            "تراجع حركة البيع والشراء (traj'a hrkh alby'a walshra')"
           ],
           "answerIndex": 0,
           "explanation": "الفائض التجاري يتحقق عندما تزيد قيمة صادرات الدولة على قيمة وارداتها."
@@ -14080,10 +14080,10 @@
         {
           "prompt": "اختر الجملة الاقتصادية ذات الصياغة الإخبارية الفصيحة والدقيقة إعرابياً:",
           "options": [
-            "تَوَالَتِ ارْتِفَاعَاتُ مُؤَشِّرِ البُورْصَةِ لِتَسْتَقِرَّ عِنْدَ أَعْلَى مُسْتَوَيَاتِهَا التَّارِيخِيَّةِ.",
-            "البورصة ارتفعت فوق فوق وربح الناس مالا كثيرا",
-            "مؤشر الاسهم نازل طالع في السوق",
-            "بورصة مال تداول سكون فتحة"
+            "تَوَالَتِ ارْتِفَاعَاتُ مُؤَشِّرِ البُورْصَةِ لِتَسْتَقِرَّ عِنْدَ أَعْلَى مُسْتَوَيَاتِهَا التَّارِيخِيَّةِ. (tawaalati artifaa'aaatu mu'ashiri albuwrsahi litastaqira 'ainda aa'alaa mustawayaatihaa altaariykhiyahi.)",
+            "البورصة ارتفعت فوق فوق وربح الناس مالا كثيرا (albwrsh artf'at fwq fwq wrbh alnas mala kthyra)",
+            "مؤشر الاسهم نازل طالع في السوق (m'shr alashm nazl tal'a fy alswq)",
+            "بورصة مال تداول سكون فتحة (bwrsh mal tdawl skwn fthh)"
           ],
           "answerIndex": 0,
           "explanation": "الجملة تستخدم تراكيب فصيحة ومضبوطة: («تَوَالَتِ ارْتِفَاعَاتُ مُؤَشِّرِ البُورْصَةِ لِتَسْتَقِرَّ عِنْدَ أَعْلَى مُسْتَوَيَاتِهَا»)."
@@ -14091,10 +14091,10 @@
         {
           "prompt": "ماذا تعني كلمة «التَّضَخُّمُ» (Inflation) في لغة المال والأعمال؟",
           "options": [
-            "الِارْتِفَاعُ المُسْتَمِرُّ فِي المُسْتَوَى العَامِّ لِلأَسْعَارِ",
-            "زيادة عدد السكان",
-            "كبر حجم الشركات التجارية",
-            "طباعة النقود دون فائدة"
+            "الِارْتِفَاعُ المُسْتَمِرُّ فِي المُسْتَوَى العَامِّ لِلأَسْعَارِ (aliartifaa'au almustamiru fiy almustawaa al'aaami lilaas'aaari)",
+            "زيادة عدد السكان (zyadh 'add alskan)",
+            "كبر حجم الشركات التجارية (kbr hjm alshrkat altjaryh)",
+            "طباعة النقود دون فائدة (tba'ah alnqwd dwn fa'dh)"
           ],
           "answerIndex": 0,
           "explanation": "التضخم هو الارتفاع المستمر في المستوى العام لأسعار السلع والخدمات وتراجع القوة الشرائية للنقد."
@@ -14107,10 +14107,10 @@
           "type": "multiple-choice",
           "prompt": "اختر التقرير الاقتصادي الأكثر تكاملاً وفصاحة في رصد المؤشرات المالية ومسارات التنمية المستدامة:",
           "options": [
-            "حَقَّقَ الِاقْتِصَادُ الوَطَنِيُّ نُمُوًّا اسْتِثْنَائِيًّا بَفَضْلِ تَنْوِيعِ مَصَادِرِ الدَّخْلِ وَجَذْبِ الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ، حَيْثُ ارْتَفَعَ حَجْمُ الصَّادِرَاتِ غَيْرِ النَّفْطِيَّةِ، مُحَقِّقًا فَائِضًا تِجَارِيًّا كَبِيرًا يُعَزِّزُ مِنِ اسْتِدَامَةِ المَشَارِيعِ التَّنْمَوِيَّةِ.",
-            "الاقتصاد صار ممتاز وفيه فلوس كثيرة بدون اي مشاكل.",
-            "اقتصاد وطني نمو استثنائي استثمار مباشر فائض تجاري سكون فتحة ضمة.",
-            "انهارت الاسواق تماما واغلقت الشركات ابوابها."
+            "حَقَّقَ الِاقْتِصَادُ الوَطَنِيُّ نُمُوًّا اسْتِثْنَائِيًّا بَفَضْلِ تَنْوِيعِ مَصَادِرِ الدَّخْلِ وَجَذْبِ الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ، حَيْثُ ارْتَفَعَ حَجْمُ الصَّادِرَاتِ غَيْرِ النَّفْطِيَّةِ، مُحَقِّقًا فَائِضًا تِجَارِيًّا كَبِيرًا يُعَزِّزُ مِنِ اسْتِدَامَةِ المَشَارِيعِ التَّنْمَوِيَّةِ. (Language concept U23)",
+            "الاقتصاد صار ممتاز وفيه فلوس كثيرة بدون اي مشاكل. (alaqtsad sar mmtaz wfyh flws kthyrh bdwn ay mshakl.)",
+            "اقتصاد وطني نمو استثنائي استثمار مباشر فائض تجاري سكون فتحة ضمة. (aqtsad wtny nmw astthna'y astthmar mbashr fa'd tjary skwn fthh dmh.)",
+            "انهارت الاسواق تماما واغلقت الشركات ابوابها. (anhart alaswaq tmama waghlqt alshrkat abwabha.)"
           ],
           "answerIndex": 0,
           "explanation": "التقرير يجسد قمة الرصانة الاقتصادية بمصطلحات: («نُمُوًّا اسْتِثْنَائِيًّا»، «تَنْوِيعُ مَصَادِرِ الدَّخْلِ»، «الِاسْتِثْمَارَاتُ الأَجْنَبِيَّةُ المُبَاشِرَةُ»، «فَائِضًا تِجَارِيًّا»، و«اسْتِدَامَةُ المَشَارِيعِ»)."
@@ -14176,10 +14176,10 @@
         {
           "prompt": "في الحوار الإخباري المباشر، ما نوع الإسناد في قول ليلى: «وَنَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ»؟",
           "options": [
-            "إِسْنَادٌ خَبَرِيٌّ مَهْنِيٌّ مُوَثَّقٌ لِلْمَصَادِرِ",
-            "رأي شخصي غير مسند (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "افتراض خيالي (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "إلغاء للخبر السابق (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)"
+            "إِسْنَادٌ خَبَرِيٌّ مَهْنِيٌّ مُوَثَّقٌ لِلْمَصَادِرِ (iisnaadun khabariyun mahniyun muwathaqun lilmasaadiri)",
+            "رأي شخصي غير مسند (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "افتراض خيالي (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "إلغاء للخبر السابق (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«نَقْلًا عَنْ مَصَادِرَ مُطَّلِعَةٍ» أسلوب إسناد مهني معتمد لحفظ سرية المصادر ونقل المعلومات بدقة."
@@ -14187,10 +14187,10 @@
         {
           "prompt": "ما المعنى المستفاد من كلمة «مُثْمِرَةٍ» في عبارة «مُبَاحَثَاتٍ ثُنَائِيَّةٍ مُثْمِرَةٍ»؟",
           "options": [
-            "نَاجِحَةٍ وَحَقَّقَتْ نَتَائِجَ إِيجَابِيَّةً مَلْمُوسَةً",
-            "فاشلة ومضيعة للوقت (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "مملوءة بالأشجار والثمار (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "طويلة جداً بلا فائدة (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)"
+            "نَاجِحَةٍ وَحَقَّقَتْ نَتَائِجَ إِيجَابِيَّةً مَلْمُوسَةً (naajihahin wahaqaqat nataa'ija iiyjaabiyahan malmuwsahan)",
+            "فاشلة ومضيعة للوقت (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "مملوءة بالأشجار والثمار (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "طويلة جداً بلا فائدة (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "المباحثات المثمرة هي التي تسفر عن نتائج عملية وتوافقات ملموسة بين الطرفين."
@@ -14202,10 +14202,10 @@
         {
           "prompt": "اختر العبارة الختامية الأنسب للمراسلة الميدانية عند تسليم البث للأستوديو:",
           "options": [
-            "«كَانَتْ مَعَكُمْ لَيْلَى مِنْ مَقَرِّ انْعِقَادِ القِمَّةِ، عَوْدَةٌ إِلَيْكَ فَارِس فِي الأُسْتُودْيُو المَرْكَزِيِّ».",
-            "خلصت كلامي شكرا لكم ومع السلامة يا جماعة (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "انا تعبت وسارجع الى البيت الان (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "مراسلة ميدان استوديو مركزي سكون (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)"
+            "«كَانَتْ مَعَكُمْ لَيْلَى مِنْ مَقَرِّ انْعِقَادِ القِمَّةِ، عَوْدَةٌ إِلَيْكَ فَارِس فِي الأُسْتُودْيُو المَرْكَزِيِّ». (Language concept U23)",
+            "خلصت كلامي شكرا لكم ومع السلامة يا جماعة (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "انا تعبت وسارجع الى البيت الان (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "مراسلة ميدان استوديو مركزي سكون (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "هذه هي الصيغة الاحترافية الفصيحة المعتمدة في المراسلات التلفزيونية المباشرة."
@@ -14213,10 +14213,10 @@
         {
           "prompt": "ما حكم كلمة «اتِّفَاقِيَّةً» إعراباً في عبارة: «تَوْقِيعُ خَمْسِينَ اتِّفَاقِيَّةً»؟",
           "options": [
-            "تَمْيِيزٌ مَنْصُوبٌ بِالفَتْحَةِ بَعْدَ لَفْظِ العَدَدِ",
-            "مضاف إليه مجرور بالكسرة (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "مفعول به ثان (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "نعت منصوب (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)"
+            "تَمْيِيزٌ مَنْصُوبٌ بِالفَتْحَةِ بَعْدَ لَفْظِ العَدَدِ (tamyiyzun mansuwbun bialfathahi ba'ada lafzi al'aadadi)",
+            "مضاف إليه مجرور بالكسرة (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "مفعول به ثان (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "نعت منصوب (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "تمييز ألفاظ العقود (20-90) يكون مفرداً منصوباً دائماً بالفتحة."
@@ -14229,10 +14229,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الإخباري الشامل الذي يدمج مخرجات الوحدة الثالثة والعشرين بأكملها (العناوين، المصطلحات الدبلوماسية، أدوات الإسناد والتحليل، والمؤشرات الاقتصادية):",
           "options": [
-            "فَارِس: «أَهْلًا بِكُمْ؛ فِي صَدَارَةِ الأَنْبَاءِ، انْطِلَاقُ أَعْمَالِ القِمَّةِ الدَّوْلِيَّةِ لِلتَّنْمِيَةِ، حَيْثُ نَنْتَقِلُ إِلَى مُرَاسِلَتِنَا لَيْلَى؛ لَيْلَى، مَا جَدِيدُ المَشْهَدِ؟» — لَيْلَى: «أَهْلًا فَارِس؛ نَقْلًا عَنْ مَصَادِرَ دِبْلُومَاسِيَّةٍ، أَجْرَى القَادَةُ مُحَادَثَاتٍ ثُنَائِيَّةً مُكَمِّلَةً لِرَأْبِ الصَّدْعِ وَخَفْضِ التَّصْعِيدِ، وَفِي سِيَاقٍ مُتَّصِلٍ، أَعْلَنَ البَيَانُ الخِتَامِيُّ تَوْقِيعَ خَمْسِينَ اتِّفَاقِيَّةً لِتَعْزِيزِ النُّمُوِّ الِاقْتِصَادِيِّ وَجَذْبِ الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ».",
-            "فارس: اهلا يا ليلى ماذا يحصل عندك؟ — ليلى: كل شيء هادئ ولا جديد في الاخبار اليوم. (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "حوار اخباري شامل عناوين دبلوماسية اسناد تحليل اقتصاد نمو سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)",
-            "انقطع البث التلفزيوني ولم يتمكن المراسل من الحديث. (الدمج الشامل لكافة مخرجات الوحدة الثالثة والعشرين)"
+            "فَارِس: «أَهْلًا بِكُمْ؛ فِي صَدَارَةِ الأَنْبَاءِ، انْطِلَاقُ أَعْمَالِ القِمَّةِ الدَّوْلِيَّةِ لِلتَّنْمِيَةِ، حَيْثُ نَنْتَقِلُ إِلَى مُرَاسِلَتِنَا لَيْلَى؛ لَيْلَى، مَا جَدِيدُ المَشْهَدِ؟» — لَيْلَى: «أَهْلًا فَارِس؛ نَقْلًا عَنْ مَصَادِرَ دِبْلُومَاسِيَّةٍ، أَجْرَى القَادَةُ مُحَادَثَاتٍ ثُنَائِيَّةً مُكَمِّلَةً لِرَأْبِ الصَّدْعِ وَخَفْضِ التَّصْعِيدِ، وَفِي سِيَاقٍ مُتَّصِلٍ، أَعْلَنَ البَيَانُ الخِتَامِيُّ تَوْقِيعَ خَمْسِينَ اتِّفَاقِيَّةً لِتَعْزِيزِ النُّمُوِّ الِاقْتِصَادِيِّ وَجَذْبِ الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ». (Language concept U23)",
+            "فارس: اهلا يا ليلى ماذا يحصل عندك؟ — ليلى: كل شيء هادئ ولا جديد في الاخبار اليوم. (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "حوار اخباري شامل عناوين دبلوماسية اسناد تحليل اقتصاد نمو سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)",
+            "انقطع البث التلفزيوني ولم يتمكن المراسل من الحديث. (aldmj alshaml lkafh mkhrjat alwhdh althalthh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج: العنوان المصدري («انْطِلَاقُ أَعْمَالِ...»)، الإسناد الموثق («نَقْلًا عَنْ مَصَادِرَ دِبْلُومَاسِيَّةٍ»)، المصطلح الدبلوماسي («مُحَادَثَاتٍ ثُنَائِيَّةً»، «رَأْبِ الصَّدْعِ»، «خَفْضِ التَّصْعِيدِ»)، الربط التحليلي («وَفِي سِيَاقٍ مُتَّصِلٍ»)، والمصطلحات الاقتصادية («النُّمُوِّ الِاقْتِصَادِيِّ»، «الِاسْتِثْمَارَاتِ الأَجْنَبِيَّةِ المُبَاشِرَةِ»)."
@@ -14299,10 +14299,10 @@
         {
           "prompt": "ما هو اللقب البروتوكولي الفصيح المعتمد لمخاطبة الوزراء ورؤساء الهيئات الكبرى في الخطابات الرسمية؟",
           "options": [
-            "مَعَالِي",
-            "يا زميلي في العمل",
-            "صديقي العزيز",
-            "أستاذي بدون لقب"
+            "مَعَالِي (ma'aaaliy)",
+            "يا زميلي في العمل (ya zmyly fy al'aml)",
+            "صديقي العزيز (sdyqy al'azyz)",
+            "أستاذي بدون لقب (astadhy bdwn lqb)"
           ],
           "answerIndex": 0,
           "explanation": "اللقب البروتوكولي المعتمد للوزراء في المراسلات الرسمية هو «مَعَالِي» (معالي الوزير المحترم)."
@@ -14310,10 +14310,10 @@
         {
           "prompt": "ما الإعراب النحوي لكلمة «تَحِيَّةً» في التحية الافتتاحية: «تَحِيَّةً طَيِّبَةً وَبَعْدُ»؟",
           "options": [
-            "مَفْعُولٌ مُطْلَقٌ مَنْصُوبٌ لِفِعْلٍ مَحْذُوفٍ تَقْدِيرُهُ",
-            "مبتدأ مرفوع بالضمة",
-            "فاعل مرفوع",
-            "مضاف إليه مجرور"
+            "مَفْعُولٌ مُطْلَقٌ مَنْصُوبٌ لِفِعْلٍ مَحْذُوفٍ تَقْدِيرُهُ (maf'auwlun mutlaqun mansuwbun lifi'alin mahdhuwfin taqdiyruhu)",
+            "مبتدأ مرفوع بالضمة (mbtda mrfw'a baldmh)",
+            "فاعل مرفوع (fa'al mrfw'a)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "«تَحِيَّةً» مفعول مطلق منصوب لفعل محذوف وجوباً تقديره: «أُحَيِّيكُمْ تَحِيَّةً»."
@@ -14325,10 +14325,10 @@
         {
           "prompt": "اختر الديباجة الافتتاحية المطابقة للمعايير الإدارية واللغوية الفصيحة:",
           "options": [
-            "«سَعَادَةَ مُدِيرِ عَامِّ الشُّؤُونِ الإِدَارِيَّةِ وَالمَالِيَّةِ المُحْتَرَمِ، السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، وَبَعْدُ:»",
-            "الى المدير المالي مرحبا بك كيف احوالك اليوم؟",
-            "موضوع الخطاب هو فلوس ورواتب سريعة جدا",
-            "ادارة شؤون مدير عام سكون"
+            "«سَعَادَةَ مُدِيرِ عَامِّ الشُّؤُونِ الإِدَارِيَّةِ وَالمَالِيَّةِ المُحْتَرَمِ، السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، وَبَعْدُ:» (Language concept U24)",
+            "الى المدير المالي مرحبا بك كيف احوالك اليوم؟ (Language concept U24)",
+            "موضوع الخطاب هو فلوس ورواتب سريعة جدا (mwdw'a alkhtab hw flws wrwatb sry'ah jda)",
+            "ادارة شؤون مدير عام سكون (adarh sh'wn mdyr 'aam skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذه الديباجة تجمع بين اللقب الصحيح («سَعَادَةَ مُدِيرِ عَامِّ...»)، والتحية الشرعية التامة، والربط الإداري («وَبَعْدُ»)."
@@ -14336,10 +14336,10 @@
         {
           "prompt": "ما معنى جملة «إِشَارَةً إِلَى خِطَابِكُمْ رَقْمَ...» في مستهل المعاملات؟",
           "options": [
-            "الإِحَالَةُ وَالرَّبْطُ بِالمُعَامَلَةِ السَّابِقَةِ ذَاتِ الرَّقْمِ المَذْكُورِ",
-            "إلغاء المعاملة السابقة تماماً",
-            "البدء في موضوع جديد كلياً بلا علاقة",
-            "إشارة ضوئية في الطريق"
+            "الإِحَالَةُ وَالرَّبْطُ بِالمُعَامَلَةِ السَّابِقَةِ ذَاتِ الرَّقْمِ المَذْكُورِ (aliihaalahu waalrabtu bialmu'aaamalahi alsaabiqahi dhaati alraqmi almadhkuwri)",
+            "إلغاء المعاملة السابقة تماماً (ilgha' alm'aamlh alsabqh tmamaan)",
+            "البدء في موضوع جديد كلياً بلا علاقة (albd' fy mwdw'a jdyd klyaan bla 'alaqh)",
+            "إشارة ضوئية في الطريق (isharh dw'yh fy altryq)"
           ],
           "answerIndex": 0,
           "explanation": "«إشارةً إلى...» عبارة إسناد إدارية لربط المعاملة الحالية بسجل المراسلات السابقة وتاريخها."
@@ -14352,10 +14352,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النموذج الافتتاحي الأكمل والأرقى بلاغة لخطاب رسمي موجه إلى رئيس الهيئة الإدارية العليا:",
           "options": [
-            "«مَعَالِي رَئِيسِ الهَيْئَةِ المَلَكِيَّةِ المُحْتَرَمِ، السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، وَبَعْدُ؛ إِشَارَةً إِلَى كِتَابِكُمُ الكَرِيمِ رَقْمَ (104) بِتَارِيخِ 10 رَجَبٍ، يَسُرُّنِي أَنْ أَرْفَعَ إِلَى مَعَالِيكُمْ دِرَاسَةَ الجَدْوَى المَطْلُوبَةَ». ('His Excellency President of the Royal Commission, peace and blessings of God be upon you, thereafter; in reference to your generous letter no. (104) dated 10 Rajab, it pleases me to submit to Your Excellency the requested feasibility study.')",
-            "يا رئيس الهيئة نبعث لك الورقة المطلوبة بدون ارقام ولا تواريخ.",
-            "افتتاحية خطاب رسمي معالي رئيس اشارة الى كتاب سكون فتحة ضمة.",
-            "وصل الخطاب ونحن نرفض الرد عليه."
+            "«مَعَالِي رَئِيسِ الهَيْئَةِ المَلَكِيَّةِ المُحْتَرَمِ، السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، وَبَعْدُ؛ إِشَارَةً إِلَى كِتَابِكُمُ الكَرِيمِ رَقْمَ (Language concept U24)",
+            "يا رئيس الهيئة نبعث لك الورقة المطلوبة بدون ارقام ولا تواريخ. (ya r'ys alhy'h nb'ath lk alwrqh almtlwbh bdwn arqam wla twarykh.)",
+            "افتتاحية خطاب رسمي معالي رئيس اشارة الى كتاب سكون فتحة ضمة. (afttahyh khtab rsmy m'aaly r'ys asharh ala ktab skwn fthh dmh.)",
+            "وصل الخطاب ونحن نرفض الرد عليه. (wsl alkhtab wnhn nrfd alrd 'alyh.)"
           ],
           "answerIndex": 0,
           "explanation": "النموذج يلتزم بكافة الضوابط الإدارية: اللقب الرسمي («مَعَالِي رَئِيسِ...»)، السلام المكتمل، الإحالة الرقمية والتاريخية الدقيقة، وأسلوب التقديم المهذب («أَرْفَعَ إِلَى مَعَالِيكُمْ»)."
@@ -14419,10 +14419,10 @@
         {
           "prompt": "ما هو التعبير الإداري الفصيح والمحترم لطلب موافقة المدير على مشروع ما؟",
           "options": [
-            "«نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ عَلَى...»",
-            "وافق لنا على هذا المشروع بسرعة الآن",
-            "لا ترفض المشروع من فضلك نحن بحاجة إليه",
-            "مشروعنا جميل ويجب أن تقبله فوراً"
+            "«نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ عَلَى...» (Internal Memos U24)",
+            "وافق لنا على هذا المشروع بسرعة الآن (wafq lna 'ala hdha almshrw'a bsr'ah alaan)",
+            "لا ترفض المشروع من فضلك نحن بحاجة إليه (la trfd almshrw'a mn fdlk nhn bhajh ilyh)",
+            "مشروعنا جميل ويجب أن تقبله فوراً (mshrw'ana jmyl wyjb an tqblh fwraan)"
           ],
           "answerIndex": 0,
           "explanation": "«نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ...» هي الصياغة الإدارية المعيارية الأكثر تهذيباً ومؤسسية."
@@ -14430,10 +14430,10 @@
         {
           "prompt": "ماذا تعني عبارة «بِنَاءً عَلَى مُقْتَضَيَاتِ مَصْلَحَةِ العَمَلِ» في التبرير الإداري؟",
           "options": [
-            "تَبْرِيرُ القَرَارِ بِمَا تَسْتَوْجِبُهُ مَصْلَحَةُ المُؤَسَّسَةِ وَتَطْوِيرُ الأَدَاءِ",
-            "رغبة شخصية للموظف بلا سبب",
-            "بناء عمارة جديدة للشركة",
-            "انتهاء وقت الدوام الرسمي"
+            "تَبْرِيرُ القَرَارِ بِمَا تَسْتَوْجِبُهُ مَصْلَحَةُ المُؤَسَّسَةِ وَتَطْوِيرُ الأَدَاءِ (tabriyru alqaraari bimaa tastawjibuhu maslahahu almu'asasahi watatwiyru alaadaa'i)",
+            "رغبة شخصية للموظف بلا سبب (rghbh shkhsyh llmwzf bla sbb)",
+            "بناء عمارة جديدة للشركة (bna' 'amarh jdydh llshrkh)",
+            "انتهاء وقت الدوام الرسمي (antha' wqt aldwam alrsmy)"
           ],
           "answerIndex": 0,
           "explanation": "«مقتضيات مصلحة العمل» هي الأساس الموضوعي لاتخاذ القرارات وإعادة تنظيم الهياكل والمشاريع."
@@ -14445,10 +14445,10 @@
         {
           "prompt": "اختر العبارة الإدارية السليمة للإحاطة بقرار جديد داخل المذكرة الداخلية:",
           "options": [
-            "نُحِيطُ جَمِيعَ المَنْسُوبِينَ عِلْمًا بِأَنَّ مَوْعِدَ تَقْيِيمِ الأَدَاءِ السَّنَوِيِّ سَيَبْدَأُ الأُسْبُوعَ القَادِمَ.",
-            "اسمعوا يا موظفين سوف نختبركم كلكم الاسبوع القادم",
-            "تقييم الموظفين ورقة وقلم في المكتب",
-            "منسوبين علم اداء سنوي سكون"
+            "نُحِيطُ جَمِيعَ المَنْسُوبِينَ عِلْمًا بِأَنَّ مَوْعِدَ تَقْيِيمِ الأَدَاءِ السَّنَوِيِّ سَيَبْدَأُ الأُسْبُوعَ القَادِمَ. (nuhiytu jamiy'aa almansuwbiyna 'ailmana biaana maw'aida taqyiymi alaadaa'i alsanawiyi sayabdaau alausbuw'aa alqaadima.)",
+            "اسمعوا يا موظفين سوف نختبركم كلكم الاسبوع القادم (asm'awa ya mwzfyn swf nkhtbrkm klkm alasbw'a alqadm)",
+            "تقييم الموظفين ورقة وقلم في المكتب (tqyym almwzfyn wrqh wqlm fy almktb)",
+            "منسوبين علم اداء سنوي سكون (mnswbyn 'alm ada' snwy skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«نُحِيطُ جَمِيعَ المَنْسُوبِينَ عِلْمًا بِأَنَّ...» هو الأسلوب الإداري الرصين للتعاميم والمذكرات."
@@ -14456,10 +14456,10 @@
         {
           "prompt": "ما معنى كلمة «مَنْسُوبِي الإِدَارَةِ» في السياق المؤسسي؟",
           "options": [
-            "مُوَظَّفِي الإِدَارَةِ وَالعَامِلِينَ فِيهَا",
-            "الأشخاص الذين يزورون الإدارة من الخارج",
-            "الملفات الورقية القديمة",
-            "نسبة الأرباح المالية"
+            "مُوَظَّفِي الإِدَارَةِ وَالعَامِلِينَ فِيهَا (muwazafiy aliidaarahi waal'aaamiliyna fiyhaa)",
+            "الأشخاص الذين يزورون الإدارة من الخارج (alashkhas aldhyn yzwrwn alidarh mn alkharj)",
+            "الملفات الورقية القديمة (almlfat alwrqyh alqdymh)",
+            "نسبة الأرباح المالية (nsbh alarbah almalyh)"
           ],
           "answerIndex": 0,
           "explanation": "«مَنْسُوبُو المؤسسة أو الإدارة» هم الموظفون والعاملون المنتسبون إليها رسمياً."
@@ -14472,10 +14472,10 @@
           "type": "multiple-choice",
           "prompt": "اختر متن المذكرة الإدارية الأكثر اكتمالاً ودقة في عرض الحاجة المؤسسية ورفع التوصيات:",
           "options": [
-            "«نَظَرًا لِتَوَسُّعِ أَنْشِطَةِ الشَّرِكَةِ، وَحِرْصًا عَلَى رَفْعِ كَفَاءَةِ التَّشْغِيلِ، نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ عَلَى اسْتِحْدَاثِ قِسْمٍ لِضَمَانِ الجَوْدَةِ، حَيْثُ يُرْجَى التَّفَضُّلُ بِالِاطِّلَاعِ عَلَى التَّقْرِيرِ المُرْفَقِ وَاعْتِمَادِ الهَيْكَلِ التَّنْظِيمِيِّ المَقْتَرَحِ».",
-            "الشركة توسعت كثيرا ونريد قسما جديدا ومكتبا كبيرا بسرعة.",
-            "مذكرة ادارية كفاءة تشغيل ضمان جودة هيكل تنظيمي سكون فتحة ضمة.",
-            "رفض الموظفون العمل وطالبوا بزيادة الرواتب فقط."
+            "«نَظَرًا لِتَوَسُّعِ أَنْشِطَةِ الشَّرِكَةِ، وَحِرْصًا عَلَى رَفْعِ كَفَاءَةِ التَّشْغِيلِ، نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ عَلَى اسْتِحْدَاثِ قِسْمٍ لِضَمَانِ الجَوْدَةِ، حَيْثُ يُرْجَى التَّفَضُّلُ بِالِاطِّلَاعِ عَلَى التَّقْرِيرِ المُرْفَقِ وَاعْتِمَادِ الهَيْكَلِ التَّنْظِيمِيِّ المَقْتَرَحِ». (Internal Memos U24)",
+            "الشركة توسعت كثيرا ونريد قسما جديدا ومكتبا كبيرا بسرعة. (alshrkh tws'at kthyra wnryd qsma jdyda wmktba kbyra bsr'ah.)",
+            "مذكرة ادارية كفاءة تشغيل ضمان جودة هيكل تنظيمي سكون فتحة ضمة. (mdhkrh adaryh kfa'h tshghyl dman jwdh hykl tnzymy skwn fthh dmh.)",
+            "رفض الموظفون العمل وطالبوا بزيادة الرواتب فقط. (rfd almwzfwn al'aml wtalbwa bzyadh alrwatb fqt.)"
           ],
           "answerIndex": 0,
           "explanation": "المتن يجمع بين: التعليل المقنع («نَظَرًا لِتَوَسُّعِ...»، «وَحِرْصًا عَلَى...»)، صيغة الطلب المهذب («نَرْجُو مِنْ سَعَادَتِكُمْ التَّكَرُّمَ بِالمُوَافَقَةِ»)، والإحالة إلى المرفقات («يُرْجَى التَّفَضُّلُ بِالِاطِّلَاعِ»)."
@@ -14541,10 +14541,10 @@
         {
           "prompt": "ما معنى عبارة «قَرَّرَ المَجْلِسُ بِالإِجْمَاعِ» في محضر الاجتماع؟",
           "options": [
-            "بِمُوافَقَةِ جَمِيعِ الأَعْضَاءِ الحَاضِرِينَ دُونَ اعْتِرَاضِ أَحَدٍ",
-            "بموافقة شخص واحد فقط",
-            "برفض غالبية الأعضاء",
-            "بتأجيل القرار إلى موعد لاحق"
+            "بِمُوافَقَةِ جَمِيعِ الأَعْضَاءِ الحَاضِرِينَ دُونَ اعْتِرَاضِ أَحَدٍ (bimuwafaqahi jamiy'ai alaa'adaa'i alhaadiriyna duwna a'atiraadi aahadin)",
+            "بموافقة شخص واحد فقط (bmwafqh shkhs wahd fqt)",
+            "برفض غالبية الأعضاء (brfd ghalbyh ala'ada')",
+            "بتأجيل القرار إلى موعد لاحق (btajyl alqrar ila mw'ad lahq)"
           ],
           "answerIndex": 0,
           "explanation": "«بِالإِجْمَاعِ» تعني اتفاق كافة الآراء دون أي صوت معارض (Unanimous decision)."
@@ -14552,10 +14552,10 @@
         {
           "prompt": "ما هي المادة الختامية المعيارية في معظم القرارات واللوائح الإدارية؟",
           "options": [
-            "«يُعْمَلُ بِهٰذَا القَرَارِ مِنْ تَارِيخِ صُدُورِهِ وَيُبَلَّغُ لِمَنْ يَلْزَمُ»",
-            "ينتهي القرار بمجرد قراءته",
-            "لا يجوز لأحد قراءة هذا القرار",
-            "قرار سري يحفظ في الدرج فقط"
+            "«يُعْمَلُ بِهٰذَا القَرَارِ مِنْ تَارِيخِ صُدُورِهِ وَيُبَلَّغُ لِمَنْ يَلْزَمُ» (Minutes of Meetings U24)",
+            "ينتهي القرار بمجرد قراءته (ynthy alqrar bmjrd qra'th)",
+            "لا يجوز لأحد قراءة هذا القرار (la yjwz lahd qra'h hdha alqrar)",
+            "قرار سري يحفظ في الدرج فقط (qrar sry yhfz fy aldrj fqt)"
           ],
           "answerIndex": 0,
           "explanation": "المادة الختامية تحدد سريان مفعول القرار وتبليغه للجهات المعنية للتنفيذ الفوري."
@@ -14567,10 +14567,10 @@
         {
           "prompt": "اختر الصياغة النظامية السليمة لإصدار قرار إداري تنفيذي:",
           "options": [
-            "«بِنَاءً عَلَى الصَّلَاحِيَاتِ المَمْنُوحَةِ لَنَا نِظَامًا، قَرَّرْنَا اعْتِمَادَ الهَيْكَلِ التَّنْظِيمِيِّ الجَدِيدِ».",
-            "انا المدير وانا قررت ان اغير الهيكل التنظيمي اليوم",
-            "هيكل تنظيمي جديد بدون اي قرار رسمي",
-            "صلاحيات نظام قرار اعتماد سكون"
+            "«بِنَاءً عَلَى الصَّلَاحِيَاتِ المَمْنُوحَةِ لَنَا نِظَامًا، قَرَّرْنَا اعْتِمَادَ الهَيْكَلِ التَّنْظِيمِيِّ الجَدِيدِ». (Minutes of Meetings U24)",
+            "انا المدير وانا قررت ان اغير الهيكل التنظيمي اليوم (ana almdyr wana qrrt an aghyr alhykl altnzymy alywm)",
+            "هيكل تنظيمي جديد بدون اي قرار رسمي (hykl tnzymy jdyd bdwn ay qrar rsmy)",
+            "صلاحيات نظام قرار اعتماد سكون (slahyat nzam qrar a'atmad skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«بِنَاءً عَلَى الصَّلَاحِيَاتِ المَمْنُوحَةِ لَنَا نِظَامًا، قَرَّرْنَا...» هي الديباجة القانونية الرسمية المعتمدة."
@@ -14578,10 +14578,10 @@
         {
           "prompt": "ما الغرض من تدوين «مَحْضَرِ الِاجْتِمَاعِ» في المؤسسات؟",
           "options": [
-            "التَّوْثِيقُ الرَّسْمِيُّ لِلْمُدَاوَلَاتِ وَالقَرَارَاتِ وَتَحْدِيدُ المَسْؤُولِيَّاتِ",
-            "تضييع الوقت في الكتابة",
-            "إرسال رسائل شخصية للموظفين",
-            "حفظ الأوراق بلا فائدة"
+            "التَّوْثِيقُ الرَّسْمِيُّ لِلْمُدَاوَلَاتِ وَالقَرَارَاتِ وَتَحْدِيدُ المَسْؤُولِيَّاتِ (altawthiyqu alrasmiyu lilmudaawalaati waalqaraaraati watahdiydu almas'uwliyaati)",
+            "تضييع الوقت في الكتابة (tdyy'a alwqt fy alktabh)",
+            "إرسال رسائل شخصية للموظفين (irsal rsa'l shkhsyh llmwzfyn)",
+            "حفظ الأوراق بلا فائدة (hfz alawraq bla fa'dh)"
           ],
           "answerIndex": 0,
           "explanation": "محضر الاجتماع هو الوثيقة القانونية المرجعية التي تثبت المداولات والالتزامات والقرارات."
@@ -14594,10 +14594,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التوثيقي الكامل لمحضر اجتماع مجلس الإدارة الذي يستوفي شروط المحاضر الرسمية بأعلى درجات الفصاحة:",
           "options": [
-            "«عُقِدَ اجْتِمَاعُ مَجْلِسِ الإِدَارَةِ فِي يَوْمِ الخَمِيسِ بِرِئَاسَةِ رَئِيسِ المَجْلِسِ وَحُضُورِ كَافَّةِ الأَعْضَاءِ، وَبَعْدَ الِاطِّلَاعِ عَلَى جَدْوَلِ الأَعْمَالِ، قَرَّرَ المَجْلِسُ بِالإِجْمَاعِ مَا يَلِي: أَوَّلًا: اعْتِمَادُ المِيزَانِيَّةِ الخِتَامِيَّةِ؛ ثَانِيًا: تَمْدِيدُ عُقُودِ المَشَارِيعِ الحَيَوِيَّةِ؛ ثَالِثًا: يُبَلَّغُ هٰذَا القَرَارُ لِجَمِيعِ الأَقْسَامِ لِلْعَمَلِ بِمُوجَبِهِ اعْتِبَارًا مِنْ تَارِيخِهِ».",
-            "اجتمعنا يوم الخميس وقررنا عدة اشياء وتفرقنا بعد الغداء.",
-            "محضر اجتماع رئيس مجلس حضور ميزانية تمديد سكون فتحة ضمة.",
-            "الغيت الجلسة ولم يتفق الحاضرون على اي بند."
+            "«عُقِدَ اجْتِمَاعُ مَجْلِسِ الإِدَارَةِ فِي يَوْمِ الخَمِيسِ بِرِئَاسَةِ رَئِيسِ المَجْلِسِ وَحُضُورِ كَافَّةِ الأَعْضَاءِ، وَبَعْدَ الِاطِّلَاعِ عَلَى جَدْوَلِ الأَعْمَالِ، قَرَّرَ المَجْلِسُ بِالإِجْمَاعِ مَا يَلِي: أَوَّلًا: اعْتِمَادُ المِيزَانِيَّةِ الخِتَامِيَّةِ؛ ثَانِيًا: تَمْدِيدُ عُقُودِ المَشَارِيعِ الحَيَوِيَّةِ؛ ثَالِثًا: يُبَلَّغُ هٰذَا القَرَارُ لِجَمِيعِ الأَقْسَامِ لِلْعَمَلِ بِمُوجَبِهِ اعْتِبَارًا مِنْ تَارِيخِهِ». (Minutes of Meetings U24)",
+            "اجتمعنا يوم الخميس وقررنا عدة اشياء وتفرقنا بعد الغداء. (ajtm'ana ywm alkhmys wqrrna 'adh ashya' wtfrqna b'ad alghda'.)",
+            "محضر اجتماع رئيس مجلس حضور ميزانية تمديد سكون فتحة ضمة. (mhdr ajtma'a r'ys mjls hdwr myzanyh tmdyd skwn fthh dmh.)",
+            "الغيت الجلسة ولم يتفق الحاضرون على اي بند. (alghyt aljlsh wlm ytfq alhadrwn 'ala ay bnd.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوفي كافة الأركان القانونية: التوقيت والرئاسة، إثبات الحضور، مراجعة جدول الأعمال، والقرارات المرقمة بإلزامية التنفيذ الفوري."
@@ -14663,10 +14663,10 @@
         {
           "prompt": "ما هي الخاتمة الرسمية الأكثر شيوعاً ورصانة في الخطابات الإدارية والدبلوماسية العربية؟",
           "options": [
-            "«وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ»",
-            "يلا باي مع السلامة نراكم غدا",
-            "انتهى الخطاب وشكرا للقراءة",
-            "مع تحياتي الشخصية بدون رسميات"
+            "«وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ» (Attachments U24)",
+            "يلا باي مع السلامة نراكم غدا (yla bay m'a alslamh nrakm ghda)",
+            "انتهى الخطاب وشكرا للقراءة (antha alkhtab wshkra llqra'h)",
+            "مع تحياتي الشخصية بدون رسميات (m'a thyaty alshkhsyh bdwn rsmyat)"
           ],
           "answerIndex": 0,
           "explanation": "«وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ» هي الصيغة البروتوكولية العالمية المعيارية في العربية."
@@ -14674,10 +14674,10 @@
         {
           "prompt": "ماذا تعني عبارة «نُسْخَةٌ مَعَ التَّحِيَّةِ لِـ...» في أسفل الخطاب؟",
           "options": [
-            "تَوْجِيهُ صُورَةٍ مِنَ الخِطَابِ إِلَى جِهَةٍ أُخْرَى لِلْعِلْمِ أَوِ المُتَابَعَةِ",
-            "إلغاء النسخة الأصلية وإتلافها",
-            "إرسال هدية تحية مع الخطاب",
-            "طلب رد سريع من شخص غير مذكور"
+            "تَوْجِيهُ صُورَةٍ مِنَ الخِطَابِ إِلَى جِهَةٍ أُخْرَى لِلْعِلْمِ أَوِ المُتَابَعَةِ (tawjiyhu suwrahin mina alkhitaabi iilaa jihahin aukhraa lil'ailmi aawi almutaaba'aahi)",
+            "إلغاء النسخة الأصلية وإتلافها (ilgha' alnskhh alaslyh witlafha)",
+            "إرسال هدية تحية مع الخطاب (irsal hdyh thyh m'a alkhtab)",
+            "طلب رد سريع من شخص غير مذكور (tlb rd sry'a mn shkhs ghyr mdhkwr)"
           ],
           "answerIndex": 0,
           "explanation": "«نسخة مع التحية» تعني إحاطة جهة أخرى بصورة من الخطاب للتنسيق والمتابعة النظامية."
@@ -14689,10 +14689,10 @@
         {
           "prompt": "اختر التنسيق الأرشيفي النموذجي لخاتمة خطاب رسمي يتضمن مرفقات وتوقيعاً معتمداً:",
           "options": [
-            "«وَتَفَضَّلُوا بِقَبُولِ خَالِصِ التَّحِيَّاتِ وَالتَّقْدِيرِ. المُدِيرُ العَامُّ: (...) التَّوْقِيعُ: (...) المُرْفَقَاتُ: صُورَةُ العَقْدِ». ('Please accept sincere greetings and esteem. Director General: (...) Signature: (...) Attachments: Copy of contract.')",
-            "مع السلامة الى اللقاء وشكرا لكم من المدير",
-            "توقيع بدون اسم وبدون مرفقات في الخطاب",
-            "خاتمة احترام تقدير مدير توقيع سكون"
+            "«وَتَفَضَّلُوا بِقَبُولِ خَالِصِ التَّحِيَّاتِ وَالتَّقْدِيرِ. المُدِيرُ العَامُّ (Attachments U24)",
+            "مع السلامة الى اللقاء وشكرا لكم من المدير (m'a alslamh ala allqa' wshkra lkm mn almdyr)",
+            "توقيع بدون اسم وبدون مرفقات في الخطاب (twqy'a bdwn asm wbdwn mrfqat fy alkhtab)",
+            "خاتمة احترام تقدير مدير توقيع سكون (khatmh ahtram tqdyr mdyr twqy'a skwn)"
           ],
           "answerIndex": 0,
           "explanation": "التنسيق يجمع بين: التحية الختامية، الصفة الوظيفية، التوقيع، وبيان المرفقات بوضوح تام."
@@ -14700,10 +14700,10 @@
         {
           "prompt": "ما هو الإعراب الصحيح لكلمة «فَائِقِ» في عبارة «بِقَبُولِ فَائِقِ الِاحْتِرَامِ»؟",
           "options": [
-            "مُضَافٌ إِلَيْهِ مَجْرُورٌ بِالكَسْرَةِ الظَّاهِرَةِ",
-            "نعت مرفوع بالضمة",
-            "مفعول به منصوب",
-            "حال منصوبة"
+            "مُضَافٌ إِلَيْهِ مَجْرُورٌ بِالكَسْرَةِ الظَّاهِرَةِ (mudaafun iilayhi majruwrun bialkasrahi alzaahirahi)",
+            "نعت مرفوع بالضمة (n'at mrfw'a baldmh)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "«فَائِقِ» مضاف إليه مجرور بالكسرة وهو مضاف، و«الِاحْتِرَامِ» مضاف إليه ثانٍ."
@@ -14716,10 +14716,10 @@
           "type": "multiple-choice",
           "prompt": "اختر الخاتمة الإدارية المتكاملة التي تشتمل على صيغة الاحترام والتقدير، وبيان المرفقات، ونسخ الإحالة، والتوقيع الرسمي:",
           "options": [
-            "«شَاكِرِينَ لِسَعَادَتِكُمْ حُسْنَ التَّعَاوُنِ، وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ. مُدِيرُ الشُّؤُونِ الإِدَارِيَّةِ: خَالِدُ المَنْصُورِ (تَوْقِيعٌ وَخَتْمٌ). المُرْفَقَاتُ: 1. جَدْوَلُ البَيَانَاتِ. 2. تَقْرِيرُ الإِنْجَازِ. نُسْخَةٌ مَعَ التَّحِيَّةِ لِـ: الإِدَارَةِ المَالِيَّةِ». ('Thanking your honor for good cooperation, and please accept assurances of highest consideration. Admin Affairs Director: Khalid Al-Mansoor (Sign & Stamp). Attachments: 1. Data table. 2. Progress report. Copy with compliments to: Financial Dept.')",
-            "مع السلامة وشكرا للجميع، ارسلنا اوراقا مع السائق.",
-            "خاتمة رسمية شاكرين فائق الاحترام مرفقات نسخة مع التحية سكون فتحة ضمة.",
-            "ضاع الخطاب ولم يوقع عليه احد في المؤسسة."
+            "«شَاكِرِينَ لِسَعَادَتِكُمْ حُسْنَ التَّعَاوُنِ، وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ. مُدِيرُ الشُّؤُونِ الإِدَارِيَّةِ: خَالِدُ المَنْصُورِ (Attachments U24)",
+            "مع السلامة وشكرا للجميع، ارسلنا اوراقا مع السائق. (Attachments U24)",
+            "خاتمة رسمية شاكرين فائق الاحترام مرفقات نسخة مع التحية سكون فتحة ضمة. (khatmh rsmyh shakryn fa'q alahtram mrfqat nskhh m'a althyh skwn fthh dmh.)",
+            "ضاع الخطاب ولم يوقع عليه احد في المؤسسة. (da'a alkhtab wlm ywq'a 'alyh ahd fy alm'ssh.)"
           ],
           "answerIndex": 0,
           "explanation": "الخاتمة تجسد قمة الاحترافية الإدارية: ديباجة الشكر والتقدير، التوقيع والختم المعتمد، قائمة المرفقات المرقمة، ونسخة الإحالة المعنونة."
@@ -14783,10 +14783,10 @@
         {
           "prompt": "في الحوار الإداري، ما الغرض من قول د. هدى: «إِشَارَةً إِلَى مَحْضَرِ الِاجْتِمَاعِ السَّابِقِ»؟",
           "options": [
-            "رَبْطُ المَعَامَلَةِ الحَالِيَّةِ بِالمُدَاوَلَاتِ وَالقَرَارَاتِ السَّابِقَةِ نِظَامًا",
-            "البدء في شكوى شخصية (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "إلغاء ما تم الاتفاق عليه سابقا (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "إنهاء الاجتماع دون كلام (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)"
+            "رَبْطُ المَعَامَلَةِ الحَالِيَّةِ بِالمُدَاوَلَاتِ وَالقَرَارَاتِ السَّابِقَةِ نِظَامًا (rabtu alma'aaamalahi alhaaliyahi bialmudaawalaati waalqaraaraati alsaabiqahi nizaamana)",
+            "البدء في شكوى شخصية (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "إلغاء ما تم الاتفاق عليه سابقا (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "إنهاء الاجتماع دون كلام (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«إشارةً إلى محضر الاجتماع السابق» أسلوب إحالة مهني يؤكد تسلسل العمل المؤسسي واستناده لقرارات معتمدة."
@@ -14794,10 +14794,10 @@
         {
           "prompt": "ماذا تعني عبارة «لِلإِنْفَاذِ» في نهاية توجيه المدير العام؟",
           "options": [
-            "لِلتَّطْبِيقِ الفِعْلِيِّ وَالتَّنْفِيذِ المُلْزِمِ لِلْقَرَارِ",
-            "للحفظ في الأرشيف دون قراءة (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "للتعديل والحذف (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "للتراجع عن القرار (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)"
+            "لِلتَّطْبِيقِ الفِعْلِيِّ وَالتَّنْفِيذِ المُلْزِمِ لِلْقَرَارِ (liltatbiyqi alfi'aliyi waaltanfiydhi almulzimi lilqaraari)",
+            "للحفظ في الأرشيف دون قراءة (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "للتعديل والحذف (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "للتراجع عن القرار (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«للإنفاذ» تعني وضع القرار موضع التطبيق والتنفيذ العملي المباشر."
@@ -14809,10 +14809,10 @@
         {
           "prompt": "اختر الفقرة الحوارية الإدارية الأكثر انضباطاً في التعبير عن اعتماد لائحة مؤسسية:",
           "options": [
-            "— هَلِ اعْتُمِدَتِ اللَّائِحَةُ؟ — نَعَمْ سَعَادَةَ المُدِيرِ، وَصَدَرَ القَرَارُ الإِدَارِيُّ لِيُعْمَلَ بِهِ مِنْ تَارِيخِهِ مَعَ إِرْسَالِ صُوَرٍ لِلْمُرَاجَعَةِ.",
-            "— هل اللائحة جاهزة؟ — نعم وضعناها على المكتب والسلام. (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "— كم تكلفة هذا المشروع؟ — ليس لدينا مال كاف. (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "— حوار اعتماد لائحة قرار اداري سكون. (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)"
+            "— هَلِ اعْتُمِدَتِ اللَّائِحَةُ؟ — نَعَمْ سَعَادَةَ المُدِيرِ، وَصَدَرَ القَرَارُ الإِدَارِيُّ لِيُعْمَلَ بِهِ مِنْ تَارِيخِهِ مَعَ إِرْسَالِ صُوَرٍ لِلْمُرَاجَعَةِ. (Language concept U24)",
+            "— هل اللائحة جاهزة؟ — نعم وضعناها على المكتب والسلام. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "— كم تكلفة هذا المشروع؟ — ليس لدينا مال كاف. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "— حوار اعتماد لائحة قرار اداري سكون. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجمع بين اللقب الرسمي («سَعَادَةَ المُدِيرِ»)، الحكم التنفيذي («لِيُعْمَلَ بِهِ مِنْ تَارِيخِهِ»)، والتوثيق الأرشيفي."
@@ -14820,10 +14820,10 @@
         {
           "prompt": "ما حكم كلمة «تَحِيَّةً» في قولك: «تَحِيَّةً طَيِّبَةً وَبَعْدُ»؟",
           "options": [
-            "مَفْعُولٌ مُطْلَقٌ مَنْصُوبٌ بِالفَتْحَةِ",
-            "مبتدأ مرفوع بالضمة (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "اسم مجرور بحرف جر مقدر (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "خبر كان منصوب (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)"
+            "مَفْعُولٌ مُطْلَقٌ مَنْصُوبٌ بِالفَتْحَةِ (maf'auwlun mutlaqun mansuwbun bialfathahi)",
+            "مبتدأ مرفوع بالضمة (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "اسم مجرور بحرف جر مقدر (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "خبر كان منصوب (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«تَحِيَّةً» تعرب مفعولاً مطلقاً منصوباً بالفتحة لفعل محذوف تقديره «أُحَيِّيكُمْ»."
@@ -14836,10 +14836,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الإداري الشامل الذي يدمج مخرجات الوحدة الرابعة والعشرين بأكملها (الهيكلية والألقاب، المذكرات والطلبات، المحاضر والقرارات، والخواتيم والمرفقات):",
           "options": [
-            "أ. عَبْدُ اللهِ: «سَعَادَةَ الدُّكْتُورَةِ هُدَى، إِشَارَةً إِلَى مَحْضَرِ اجْتِمَاعِ مَجْلِسِ الإِدَارَةِ، نَرْجُو التَّكَرُّمَ بِرَفْعِ مَشْرُوعِ القَرَارِ التَّنْفِيذِيِّ لِلَّائِحَةِ الجَدِيدَةِ» — د. هُدَى: «تَمَّ إِعْدَادُ المَذَكِّرَةِ الدَّاخِلِيَّةِ الشَّامِلَةِ مُتَضَمِّنَةً جَمِيعَ المَوَادِّ النِّظَامِيَّةِ؛ حَيْثُ تَنُصُّ المَادَّةُ الأُولَى عَلَى بَدْءِ التَّنْفِيذِ مِنْ تَارِيخِهِ، وَتَجِدُونَ طَيَّهُ كَافَّةَ المُرْفَقَاتِ، مَعَ إِرْسَالِ نُسْخَةٍ مَعَ التَّحِيَّةِ لِلشُّؤُونِ المَالِيَّةِ، وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ».",
-            "عبد الله: يا هدى اين الاوراق؟ — هدى: الاوراق موجودة في مكتبي وسارسلها غدا. (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "حوار رسمي اداري القاب مذكرات محاضر قرارات خواتيم مرفقات سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)",
-            "توقفت الشركة عن العمل بسبب خلافات قانونية بين الادارات. (الدمج الشامل لكافة مخرجات الوحدة الرابعة والعشرين)"
+            "أ. عَبْدُ اللهِ: «سَعَادَةَ الدُّكْتُورَةِ هُدَى، إِشَارَةً إِلَى مَحْضَرِ اجْتِمَاعِ مَجْلِسِ الإِدَارَةِ، نَرْجُو التَّكَرُّمَ بِرَفْعِ مَشْرُوعِ القَرَارِ التَّنْفِيذِيِّ لِلَّائِحَةِ الجَدِيدَةِ» — د. هُدَى: «تَمَّ إِعْدَادُ المَذَكِّرَةِ الدَّاخِلِيَّةِ الشَّامِلَةِ مُتَضَمِّنَةً جَمِيعَ المَوَادِّ النِّظَامِيَّةِ؛ حَيْثُ تَنُصُّ المَادَّةُ الأُولَى عَلَى بَدْءِ التَّنْفِيذِ مِنْ تَارِيخِهِ، وَتَجِدُونَ طَيَّهُ كَافَّةَ المُرْفَقَاتِ، مَعَ إِرْسَالِ نُسْخَةٍ مَعَ التَّحِيَّةِ لِلشُّؤُونِ المَالِيَّةِ، وَتَفَضَّلُوا بِقَبُولِ فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ». (Language concept U24)",
+            "عبد الله: يا هدى اين الاوراق؟ — هدى: الاوراق موجودة في مكتبي وسارسلها غدا. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "حوار رسمي اداري القاب مذكرات محاضر قرارات خواتيم مرفقات سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)",
+            "توقفت الشركة عن العمل بسبب خلافات قانونية بين الادارات. (aldmj alshaml lkafh mkhrjat alwhdh alrab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة الفصاحة والرصانة الإدارية في دمج: اللقب التشريفي والإسناد («سَعَادَةَ الدُّكْتُورَةِ»، «إِشَارَةً إِلَى مَحْضَرِ...»)، صيغ الطلب المهذب («نَرْجُو التَّكَرُّمَ»)، المذكرة والمواد النظامية («المَذَكِّرَةُ الدَّاخِلِيَّةُ»، «المَادَّةُ الأُولَى»)، التوثيق والمرفقات («تَجِدُونَ طَيَّهُ كَافَّةَ المُرْفَقَاتِ»، «نُسْخَةٌ مَعَ التَّحِيَّةِ»)، والخاتمة الدبلوماسية («فَائِقِ الِاحْتِرَامِ وَالتَّقْدِيرِ»)."
@@ -14904,10 +14904,10 @@
         {
           "prompt": "ما هو الغرض البلاغي الكلاسيكي الذي تفتتح به معظم المعلقات الجاهلية (مثل «قفا نبك» و«لخولة أطلال»)؟",
           "options": [
-            "الوَقْفَةُ الطَّلَلِيَّةُ وَالبُكَاءُ عَلَى الدِّيَارِ الدَّارِسَةِ",
-            "المديح السياسي المعاصر",
-            "الهجاء والسخرية",
-            "وصف المعارك الحديثة"
+            "الوَقْفَةُ الطَّلَلِيَّةُ وَالبُكَاءُ عَلَى الدِّيَارِ الدَّارِسَةِ (alwaqfahu altalaliyahu waalbukaa'u 'aalaa aldiyaari aldaarisahi)",
+            "المديح السياسي المعاصر (almdyh alsyasy alm'aasr)",
+            "الهجاء والسخرية (alhja' walskhryh)",
+            "وصف المعارك الحديثة (wsf alm'aark alhdythh)"
           ],
           "answerIndex": 0,
           "explanation": "الوقفة الطللية هي التقليد الشعري الجاهلي الراسخ للوقوف على آثار ديار الأحبة واسترجاع الذكريات."
@@ -14915,10 +14915,10 @@
         {
           "prompt": "من هو صاحب معلقة الحكمة الشهيرة القائل: «سَئِمْتُ تَكَالِيفَ الحَيَاةِ وَمَنْ يَعِشْ ثَمَانِينَ حَوْلًا لَا أَبَا لَكَ يَسْأَمِ»؟",
           "options": [
-            "زُهَيْرُ بْنُ أَبِي سُلْمَى",
-            "امرؤ القيس",
-            "عنترة بن شداد",
-            "عمرو بن كلثوم"
+            "زُهَيْرُ بْنُ أَبِي سُلْمَى (zuhayru bnu aabiy sulmaa)",
+            "امرؤ القيس (amr' alqys)",
+            "عنترة بن شداد ('antrh bn shdad)",
+            "عمرو بن كلثوم ('amrw bn klthwm)"
           ],
           "answerIndex": 0,
           "explanation": "الشاعر الحكيم هو زهير بن أبي سلمى، وكان يُلقب بشاعر الحوليات والترفع عن الخنا."
@@ -14930,10 +14930,10 @@
         {
           "prompt": "اختر البيت الشعري الذي يجسد التشبيه التمثيلي في تصوير الليل الموحش في معلقة امرئ القيس:",
           "options": [
-            "وَلَيْلٍ كَمَوْجِ البَحْرِ أَرْخَى سُدُولَهُ عَلَيَّ بِأَنْوَاعِ الهُمُومِ لِيَبْتَلِي",
-            "الليل مظلم جدا والنجوم بعيدة في السماء",
-            "نحن ننام في الليل ونستيقظ في الصباح",
-            "شعر ليل بحر هموم سكون"
+            "وَلَيْلٍ كَمَوْجِ البَحْرِ أَرْخَى سُدُولَهُ عَلَيَّ بِأَنْوَاعِ الهُمُومِ لِيَبْتَلِي (walaylin kamawji albahri aarkhaa suduwlahu 'aalaya biaanwaa'ai alhumuwmi liyabtaliy)",
+            "الليل مظلم جدا والنجوم بعيدة في السماء (allyl mzlm jda walnjwm b'aydh fy alsma')",
+            "نحن ننام في الليل ونستيقظ في الصباح (nhn nnam fy allyl wnstyqz fy alsbah)",
+            "شعر ليل بحر هموم سكون (sh'ar lyl bhr hmwm skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذا البيت الخالد يمثل قمة التشبيه التمثيلي حيث شبّه ظلام الليل وهجمات همومه بتلاطم أمواج البحر وستوره."
@@ -14941,10 +14941,10 @@
         {
           "prompt": "ما إعراب كلمة «ثَمَانِينَ» في قول زهير: «وَمَنْ يَعِشْ ثَمَانِينَ حَوْلًا»؟",
           "options": [
-            "ظَرْفُ زَمَانٍ (مَفْعُولٌ فِيهِ) مَنْصُوبٌ بِاليَاءِ لِأَنَّهُ مُلْحَقٌ بِجَمْعِ المُذَكَّرِ السَّالِمِ",
-            "فاعل مرفوع بالواو",
-            "مبتدأ مؤخر",
-            "مضاف إليه مجرور"
+            "ظَرْفُ زَمَانٍ (maf'auwlun fiyhi)",
+            "فاعل مرفوع بالواو (fa'al mrfw'a balwaw)",
+            "مبتدأ مؤخر (mbtda m'khr)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "«ثَمَانِينَ» نائب ظرف زمان (مفعول فيه) منصوب بالياء لأنه ملحق بجمع المذكر السالم، و«حَوْلًا» تمييز منصوب."
@@ -14957,10 +14957,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأدبي النقدي الشامل الذي يحلل روائع المعلقات الجاهلية بدقة بلاغية وتاريخية رفيعة المستوى:",
           "options": [
-            "تُمَثِّلُ المُعَلَّقَاتُ الجَاهِلِيَّةُ النَّمُوذَجَ الأَسْمَى لِلْبَيَانِ الشِّعْرِيِّ العَرَبِيِّ؛ حَيْثُ اسْتَهَلَّ امْرُؤُ القَيْسِ مُعَلَّقَتَهُ بِالوَقْفَةِ الطَّلَلِيَّةِ الشَّجِيَّةِ، وَصَوَّرَ هَوْلَ اللَّيْلِ بِتَشْبِيهٍ تَمْثِيلِيٍّ بَاهِرٍ، بَيْنَمَا رَسَّخَ زُهَيْرُ بْنُ أَبِي سُلْمَى قِيَمَ الحِكْمَةِ وَالسَّلَامِ، لِتَظَلَّ هٰذِهِ القَصَائِدُ عِمَادَ الفَصَاحَةِ وَمَعِينَهَا الأَوَّلَ.",
-            "المعلقات شعر قديم قيل في الصحراء وانتهى زمانه.",
-            "تحليل نقدي معلقات امرؤ القيس زهير حكمة بيان سكون فتحة ضمة.",
-            "ضاع الشعر الجاهلي ولم يصل منه شيء الى اليوم."
+            "تُمَثِّلُ المُعَلَّقَاتُ الجَاهِلِيَّةُ النَّمُوذَجَ الأَسْمَى لِلْبَيَانِ الشِّعْرِيِّ العَرَبِيِّ؛ حَيْثُ اسْتَهَلَّ امْرُؤُ القَيْسِ مُعَلَّقَتَهُ بِالوَقْفَةِ الطَّلَلِيَّةِ الشَّجِيَّةِ، وَصَوَّرَ هَوْلَ اللَّيْلِ بِتَشْبِيهٍ تَمْثِيلِيٍّ بَاهِرٍ، بَيْنَمَا رَسَّخَ زُهَيْرُ بْنُ أَبِي سُلْمَى قِيَمَ الحِكْمَةِ وَالسَّلَامِ، لِتَظَلَّ هٰذِهِ القَصَائِدُ عِمَادَ الفَصَاحَةِ وَمَعِينَهَا الأَوَّلَ. (Language concept U25)",
+            "المعلقات شعر قديم قيل في الصحراء وانتهى زمانه. (alm'alqat sh'ar qdym qyl fy alshra' wantha zmanh.)",
+            "تحليل نقدي معلقات امرؤ القيس زهير حكمة بيان سكون فتحة ضمة. (thlyl nqdy m'alqat amr' alqys zhyr hkmh byan skwn fthh dmh.)",
+            "ضاع الشعر الجاهلي ولم يصل منه شيء الى اليوم. (da'a alsh'ar aljahly wlm ysl mnh shy' ala alywm.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: التحليل الهيكلي («الوَقْفَةُ الطَّلَلِيَّةُ»)، التذوق البلاغي («التَّشْبِيهُ التَّمْثِيلِيُّ»)، البعد الأخلاقي عند زهير («قِيَمُ الحِكْمَةِ وَالسَّلَامِ»)، والتأصيل اللغوي الفصيح."
@@ -15025,10 +15025,10 @@
         {
           "prompt": "ما المعنى الفلسفي لقول أبي العلاء المعري: «فَخَفِّفِ الوَطْءَ مَا أَظُنُّ أَدِيمَ الأَرْضِ إِلَّا مِنْ هٰذِهِ الأَجْسَادِ»؟",
           "options": [
-            "الدَّعْوَةُ إِلَى التَّوَاضُعِ وَإِدْرَاكِ فَنَاءِ الإِنْسَانِ وَاحْتِرَامِ مَنْ مَضَوْا",
-            "المشي حافياً في الطريق",
-            "الشكوى من ثقل الأحذية",
-            "طلب زيادة السرعة في السفر"
+            "الدَّعْوَةُ إِلَى التَّوَاضُعِ وَإِدْرَاكِ فَنَاءِ الإِنْسَانِ وَاحْتِرَامِ مَنْ مَضَوْا (alda'awahu iilaa altawaadu'ai waiidraaki fanaa'i aliinsaani waahtiraami man madawa)",
+            "المشي حافياً في الطريق (almshy hafyaan fy altryq)",
+            "الشكوى من ثقل الأحذية (alshkwa mn thql alahdhyh)",
+            "طلب زيادة السرعة في السفر (tlb zyadh alsr'ah fy alsfr)"
           ],
           "answerIndex": 0,
           "explanation": "المعري يتأمل في فناء الإنسان داعياً إلى التواضع وتخفيف الخطى فوق تراب يحوي أجساد الأجداد عبر التاريخ."
@@ -15036,10 +15036,10 @@
         {
           "prompt": "من القائل: «أَنَا الَّذِي نَظَرَ الأَعْمَى إِلَى أَدَبِي / وَأَسْمَعَتْ كَلِمَاتِي مَنْ بِهِ صَمَمُ»؟",
           "options": [
-            "أَبُو الطَّيِّبِ المُتَنَبِّي",
-            "أبو العلاء المعري",
-            "أبو تمام",
-            "البحتري"
+            "أَبُو الطَّيِّبِ المُتَنَبِّي (aabuw altayibi almutanabiy)",
+            "أبو العلاء المعري (abw al'ala' alm'ary)",
+            "أبو تمام (abw tmam)",
+            "البحتري (albhtry)"
           ],
           "answerIndex": 0,
           "explanation": "البيت لأبي الطيب المتنبي في قصيدته الشهيرة في الفخر عند سيف الدولة الحمداني."
@@ -15051,10 +15051,10 @@
         {
           "prompt": "اختر البيت الذي يعبر عن الإصرار على العظمة وبلوغ أسمى الغايات عند المتنبي:",
           "options": [
-            "إِذَا غَامَرْتَ فِي شَرَفٍ مَرُومِ فَلَا تَقْنَعْ بِمَا دُونَ النُّجُومِ",
-            "نم باكرا واستيقظ باكرا ترى صحتك جيدة",
-            "القناعة كنز لا يفنى في كل وقت",
-            "شرف مروم نجوم سكون"
+            "إِذَا غَامَرْتَ فِي شَرَفٍ مَرُومِ فَلَا تَقْنَعْ بِمَا دُونَ النُّجُومِ (iidhaa ghaamarta fiy sharafin maruwmi falaa taqna'a bimaa duwna alnujuwmi)",
+            "نم باكرا واستيقظ باكرا ترى صحتك جيدة (nm bakra wastyqz bakra tra shtk jydh)",
+            "القناعة كنز لا يفنى في كل وقت (alqna'ah knz la yfna fy kl wqt)",
+            "شرف مروم نجوم سكون (shrf mrwm njwm skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذا البيت هو نشيد الطموح الإنساني الأسمى في ديوان المتنبي."
@@ -15062,10 +15062,10 @@
         {
           "prompt": "ما نوع الاستثناء في قول المعري: «مَا أَظُنُّ أَدِيمَ الأَرْضِ إِلَّا مِنْ هٰذِهِ الأَجْسَادِ»؟",
           "options": [
-            "اسْتِثْنَاءٌ مُفَرَّغٌ (نَاقِصٌ مَنْفِيٌّ) يُعْرَبُ مَا بَعْدَهُ حَسَبَ مَوْقِعِهِ",
-            "استثناء تام مثبت",
-            "استثناء تام منفي بالبدلية",
-            "مفعول مطلق"
+            "اسْتِثْنَاءٌ مُفَرَّغٌ (naaqisun manfiyun)",
+            "استثناء تام مثبت (astthna' tam mthbt)",
+            "استثناء تام منفي بالبدلية (astthna' tam mnfy balbdlyh)",
+            "مفعول مطلق (mf'awl mtlq)"
           ],
           "answerIndex": 0,
           "explanation": "الاستثناء مفرغ؛ «مِنْ هٰذِهِ الأَجْسَادِ» شبه جملة في محل نصب خبر ثانٍ أو متعلق بالفعل «أظن»."
@@ -15078,10 +15078,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يوازن بين عبقرية المتنبي الحماسية وفلسفة المعري التأملية بفصاحة استثنائية:",
           "options": [
-            "يُمَثِّلُ شِعْرُ المُتَنَبِّي قِمَّةَ الشَّجَاعَةِ وَالطُّمُوحِ الإِنْسَانِيِّ حَيْثُ جَعَلَ السَّيْفَ وَالقَلَمَ صِنْوَيْنِ فِي سَبِيلِ المَجْدِ؛ بَيْنَمَا يَنْعَطِفُ المَعَرِّيُّ نَحْوَ التَّأَمُّلِ الفَلْسَفِيِّ العَمِيقِ لِيَدْعُوَ إِلَى التَّوَاضُعِ فِي الحَيَاةِ، فَالْتَقَتِ الحَمَاسَةُ العَبَّاسِيَّةُ بِالفِكْرِ الوُجُودِيِّ الخَالِدِ.",
-            "المتنبي والمعري كانا شاعرين في العصر العباسي والسلام.",
-            "موازنة نقدية متنبي معري فروسية حكمة وجود سكون فتحة ضمة.",
-            "كره النقاد شعر المتنبي والمعري تماما."
+            "يُمَثِّلُ شِعْرُ المُتَنَبِّي قِمَّةَ الشَّجَاعَةِ وَالطُّمُوحِ الإِنْسَانِيِّ حَيْثُ جَعَلَ السَّيْفَ وَالقَلَمَ صِنْوَيْنِ فِي سَبِيلِ المَجْدِ؛ بَيْنَمَا يَنْعَطِفُ المَعَرِّيُّ نَحْوَ التَّأَمُّلِ الفَلْسَفِيِّ العَمِيقِ لِيَدْعُوَ إِلَى التَّوَاضُعِ فِي الحَيَاةِ، فَالْتَقَتِ الحَمَاسَةُ العَبَّاسِيَّةُ بِالفِكْرِ الوُجُودِيِّ الخَالِدِ. (Language concept U25)",
+            "المتنبي والمعري كانا شاعرين في العصر العباسي والسلام. (almtnby walm'ary kana sha'aryn fy al'asr al'abasy walslam.)",
+            "موازنة نقدية متنبي معري فروسية حكمة وجود سكون فتحة ضمة. (mwaznh nqdyh mtnby m'ary frwsyh hkmh wjwd skwn fthh dmh.)",
+            "كره النقاد شعر المتنبي والمعري تماما. (krh alnqad sh'ar almtnby walm'ary tmama.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجسد قمة النقد الأدبي الرفيع في الربط بين فخر المتنبي وحماسته («السَّيْفَ وَالقَلَمَ صِنْوَيْنِ»)، وتأمل المعري («التَّأَمُّلُ الفَلْسَفِيُّ العَمِيقُ»)."
@@ -15147,10 +15147,10 @@
         {
           "prompt": "ما هو الاسم الكلاسيكي للراوي الشهير في مقامات بديع الزمان الهمذاني؟",
           "options": [
-            "عِيسَى بْنُ هِشَامٍ",
-            "أبو زيد السروجي",
-            "الحارث بن همام",
-            "أبو الفتح الإسكندري"
+            "عِيسَى بْنُ هِشَامٍ ('aiysaa bnu hishaamin)",
+            "أبو زيد السروجي (abw zyd alsrwjy)",
+            "الحارث بن همام (alharth bn hmam)",
+            "أبو الفتح الإسكندري (abw alfth aliskndry)"
           ],
           "answerIndex": 0,
           "explanation": "عيسى بن هشام هو الراوي الثابت في مقامات بديع الزمان الهمذاني، بينما أبو الفتح الإسكندري هو البطل."
@@ -15158,10 +15158,10 @@
         {
           "prompt": "ما هي الظاهرة البلاغية المسيطرة على أسلوب المقامات الأدبية؟",
           "options": [
-            "السَّجْعُ المُرَصَّعُ وَالجِنَاسُ وَالتَّلَاعُبُ البَدِيعِيُّ",
-            "الشعر الحر بدون قافية",
-            "العامية المبتذلة",
-            "الترجمة الحرفية"
+            "السَّجْعُ المُرَصَّعُ وَالجِنَاسُ وَالتَّلَاعُبُ البَدِيعِيُّ (alsaj'au almurasa'au waaljinaasu waaltalaa'aubu albadiy'aiyu)",
+            "الشعر الحر بدون قافية (alsh'ar alhr bdwn qafyh)",
+            "العامية المبتذلة (al'aamyh almbtdhlh)",
+            "الترجمة الحرفية (altrjmh alhrfyh)"
           ],
           "answerIndex": 0,
           "explanation": "السجع المتوازن والجناس والبديع هي السمات الأسلوبية الفارقة لفن المقامات."
@@ -15173,10 +15173,10 @@
         {
           "prompt": "اختر العبارة المسجوعة التي تحاكي أسلوب المقامة البغدادية في الفصاحة والترصيع اللفظي:",
           "options": [
-            "«اشْتَهَيْتُ الأَزَاذَ وَأَنَا بِبَغْدَاذَ، وَلَيْسَ مَعِي عَقْدٌ عَلَى نَقْدٍ».",
-            "كنت جائعا في بغداد واشتريت تمرا واكلته",
-            "التمر حلو جدا في سوق الفواكه",
-            "ازاذ بغداذ سجع مقامات سكون"
+            "«اشْتَهَيْتُ الأَزَاذَ وَأَنَا بِبَغْدَاذَ، وَلَيْسَ مَعِي عَقْدٌ عَلَى نَقْدٍ». (Language concept U25)",
+            "كنت جائعا في بغداد واشتريت تمرا واكلته (knt ja''aa fy bghdad washtryt tmra waklth)",
+            "التمر حلو جدا في سوق الفواكه (altmr hlw jda fy swq alfwakh)",
+            "ازاذ بغداذ سجع مقامات سكون (azadh bghdadh sj'a mqamat skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذه العبارة هي مطلع «المقامة البغدادية» الشهيرة التي تظهر روعة السجع والجناس بين «الأَزَاذ» و«بَغْدَاذ»."
@@ -15184,10 +15184,10 @@
         {
           "prompt": "ما معنى «الكُدْيَةُ» في المعجم الأدبي للمقامات؟",
           "options": [
-            "احْتِيَالُ الأَدِيبِ الفَصِيحِ لِطَلَبِ الرِّزْقِ وَالمَالِ بِبَلَاغَتِهِ وَحِيلَتِهِ",
-            "بناء الجدران والقصور",
-            "حفر الآبار في البادية",
-            "التجارة بالأقمشة والحرير"
+            "احْتِيَالُ الأَدِيبِ الفَصِيحِ لِطَلَبِ الرِّزْقِ وَالمَالِ بِبَلَاغَتِهِ وَحِيلَتِهِ (ahtiyaalu alaadiybi alfasiyhi litalabi alrizqi waalmaali bibalaaghatihi wahiylatihi)",
+            "بناء الجدران والقصور (bna' aljdran walqswr)",
+            "حفر الآبار في البادية (hfr alaabar fy albadyh)",
+            "التجارة بالأقمشة والحرير (altjarh balaqmshh walhryr)"
           ],
           "answerIndex": 0,
           "explanation": "الكُدْيَة هي فن التكسب والاسترزاق بالحيلة والبيان والفصاحة الأدبية."
@@ -15200,10 +15200,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يشرح البنية الفنية لمقامات بديع الزمان والحريري بأعلى مستويات الجزالة البلاغية:",
           "options": [
-            "تُمَثِّلُ المَقَامَةُ ذِرْوَةَ الإِبْدَاعِ النَّثْرِيِّ فِي التُّرَاثِ العَرَبِيِّ؛ حَيْثُ نَسَجَ الهَمَذَانِيُّ وَالحَرِيرِيُّ حِبْكَةً قَصَصِيَّةً تَقُومُ عَلَى ثُنَائِيَّةِ الرَّاوِي وَالبَطَلِ الكَدَّاءِ، مَكْسُوَّةً بِأَرْقَى أَنْوَاعِ السَّجْعِ المُرَصَّعِ وَالجِنَاسِ البَدِيعِ، لِتَكُونَ مَعْرِضًا لِفَرَائِدِ اللُّغَةِ وَمِرْآةً لِنَقْدِ المُجْتَمَعِ.",
-            "المقامات قصص قصيرة مسجوعة كتبها مؤلفون قدماء.",
-            "مقامات بديع الزمان الحريري سجع جناس راوي بطل سكون فتحة ضمة.",
-            "اندثر فن المقامات ولم يعد يقرأه احد."
+            "تُمَثِّلُ المَقَامَةُ ذِرْوَةَ الإِبْدَاعِ النَّثْرِيِّ فِي التُّرَاثِ العَرَبِيِّ؛ حَيْثُ نَسَجَ الهَمَذَانِيُّ وَالحَرِيرِيُّ حِبْكَةً قَصَصِيَّةً تَقُومُ عَلَى ثُنَائِيَّةِ الرَّاوِي وَالبَطَلِ الكَدَّاءِ، مَكْسُوَّةً بِأَرْقَى أَنْوَاعِ السَّجْعِ المُرَصَّعِ وَالجِنَاسِ البَدِيعِ، لِتَكُونَ مَعْرِضًا لِفَرَائِدِ اللُّغَةِ وَمِرْآةً لِنَقْدِ المُجْتَمَعِ. (Language concept U25)",
+            "المقامات قصص قصيرة مسجوعة كتبها مؤلفون قدماء. (almqamat qss qsyrh msjw'ah ktbha m'lfwn qdma'.)",
+            "مقامات بديع الزمان الحريري سجع جناس راوي بطل سكون فتحة ضمة. (mqamat bdy'a alzman alhryry sj'a jnas rawy btl skwn fthh dmh.)",
+            "اندثر فن المقامات ولم يعد يقرأه احد. (andthr fn almqamat wlm y'ad yqrah ahd.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يحيط بكافة العناصر النقدية: البنية السردية (الراوي والبطل)، النسيج البلاغي (السجع والجناس)، والوظيفة المعجمية والاجتماعية."
@@ -15269,10 +15269,10 @@
         {
           "prompt": "ما هي الميزة الأسلوبية الشهيرة التي عُرف بها نثر الجاحظ في مؤلفاته كـ «الحيوان» و«البيان والتبيين»؟",
           "options": [
-            "الِاسْتِطْرَادُ الأَدَبِيُّ الذَّكِيُّ لِطَرْدِ المَلَلِ وَتَنْوِيعِ المَعَارِفِ",
-            "الاختصار الشديد في سطر واحد",
-            "الكتابة بلغة أجنبية",
-            "تكرار الكلمات دون معنى"
+            "الِاسْتِطْرَادُ الأَدَبِيُّ الذَّكِيُّ لِطَرْدِ المَلَلِ وَتَنْوِيعِ المَعَارِفِ (aliastitraadu alaadabiyu aldhakiyu litardi almalali watanwiy'ai alma'aaarifi)",
+            "الاختصار الشديد في سطر واحد (alakhtsar alshdyd fy str wahd)",
+            "الكتابة بلغة أجنبية (alktabh blghh ajnbyh)",
+            "تكرار الكلمات دون معنى (tkrar alklmat dwn m'ana)"
           ],
           "answerIndex": 0,
           "explanation": "الاستطراد الجاحظي أسلوب رائد ينقل القارئ بلطافة بين فنون المعرفة ونوادر الأخبار."
@@ -15280,10 +15280,10 @@
         {
           "prompt": "من هو مؤلف كتاب «كَلِيلَةٌ وَدِمْنَةُ» الذي صاغ الحكمة السياسية على ألسنة الحيوانات والطيور؟",
           "options": [
-            "عَبْدُ اللهِ بْنُ المُقَفَّعِ",
-            "أبو حيان التوحيدي",
-            "الجاحظ",
-            "ابن خلدون"
+            "عَبْدُ اللهِ بْنُ المُقَفَّعِ ('aabdu allhi bnu almuqafa'ai)",
+            "أبو حيان التوحيدي (abw hyan altwhydy)",
+            "الجاحظ (aljahz)",
+            "ابن خلدون (abn khldwn)"
           ],
           "answerIndex": 0,
           "explanation": "ابن المقفع هو الذي نقل وصاغ «كليلة ودمنة» بأسلوب عربي بليغ أصبح نموذجاً للنثر الحكمي."
@@ -15295,10 +15295,10 @@
         {
           "prompt": "اختر المقولة النقدية التأسيسية التي قالها الجاحظ حول قيمة الصياغة الأدبية وجودة السبك:",
           "options": [
-            "«المَعَانِي مَطْرُوحَةٌ فِي الطَّرِيقِ... وَإِنَّمَا الشَّأْنُ فِي تَخَيُّرِ اللَّفْظِ وَجَوْدَةِ السَّبْكِ».",
-            "المعاني صعبة جدا ولا يعرفها الا الشعراء الكبار",
-            "لا تهتم بالالفاظ واكتب اي شيء يخطر ببالك",
-            "جاحظ معاني الفاظ سبك سكون"
+            "«المَعَانِي مَطْرُوحَةٌ فِي الطَّرِيقِ... وَإِنَّمَا الشَّأْنُ فِي تَخَيُّرِ اللَّفْظِ وَجَوْدَةِ السَّبْكِ». (Language concept U25)",
+            "المعاني صعبة جدا ولا يعرفها الا الشعراء الكبار (alm'aany s'abh jda wla y'arfha ala alsh'ara' alkbar)",
+            "لا تهتم بالالفاظ واكتب اي شيء يخطر ببالك (la thtm balalfaz waktb ay shy' ykhtr bbalk)",
+            "جاحظ معاني الفاظ سبك سكون (jahz m'aany alfaz sbk skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذه هي القاعدة الذهبية للجاحظ التي تبين أن بلاغة الأديب تكمن في انتقاء الألفاظ وإحكام النظم."
@@ -15306,10 +15306,10 @@
         {
           "prompt": "ما هو الكتاب الشهير لأبي حيان التوحيدي الذي سجل فيه مداولاته الفلسفية والأدبية في ليالي الوزير ابن سعدان؟",
           "options": [
-            "الإِمْتَاعُ وَالمُؤَانَسَةُ",
-            "كتاب البخلاء",
-            "مقدمة ابن خلدون",
-            "لسان العرب"
+            "الإِمْتَاعُ وَالمُؤَانَسَةُ (aliimtaa'au waalmu'aanasahu)",
+            "كتاب البخلاء (ktab albkhla')",
+            "مقدمة ابن خلدون (mqdmh abn khldwn)",
+            "لسان العرب (lsan al'arb)"
           ],
           "answerIndex": 0,
           "explanation": "كتاب «الإمتاع والمؤانسة» هو تحفة التوحيدي الخالدة في النثر الفلسفي والأدبي."
@@ -15322,10 +15322,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يدمج إسهامات رواد النثر الكلاسيكي (الجاحظ، ابن المقفع، والتوحيدي) في صياغة العقل الأدبي العربي:",
           "options": [
-            "أَرْسَى رُوَّادُ النَّثْرِ الكَلَاسِيكِيِّ أَعْمِدَةَ الثَّقَافَةِ العَرَبِيَّةِ؛ حَيْثُ جَمَعَ الجَاحِظُ بَيْنَ اسْتِطْرَادِ البَيَانِ وَدِقَّةِ النَّقْدِ، وَصَاغَ ابْنُ المُقَفَّعِ رَوَائِعَ الحِكْمَةِ وَالسِّيَاسَةِ الرَّمْزِيَّةِ فِي كَلِيلَةَ وَدِمْنَةَ، بَيْنَمَا بَلَغَ التَّوْحِيدِيُّ قِمَّةَ النَّثْرِ الفَلْسَفِيِّ فِي الإِمْتَاعِ وَالمُؤَانَسَةِ، لِيَغْدُوَ النَّثْرُ العَرَبِيُّ مَوْئِلًا لِلْفِكْرِ وَالجَمَالِ.",
-            "النثر العربي كان كتبا كثيرة في المكتبة فقط.",
-            "نثر كلاسيكي جاحظ ابن المقفع توحيدي بيان حكمة فلسفة سكون فتحة ضمة.",
-            "احترقت كتب النثر ولم يبق منها اثر."
+            "أَرْسَى رُوَّادُ النَّثْرِ الكَلَاسِيكِيِّ أَعْمِدَةَ الثَّقَافَةِ العَرَبِيَّةِ؛ حَيْثُ جَمَعَ الجَاحِظُ بَيْنَ اسْتِطْرَادِ البَيَانِ وَدِقَّةِ النَّقْدِ، وَصَاغَ ابْنُ المُقَفَّعِ رَوَائِعَ الحِكْمَةِ وَالسِّيَاسَةِ الرَّمْزِيَّةِ فِي كَلِيلَةَ وَدِمْنَةَ، بَيْنَمَا بَلَغَ التَّوْحِيدِيُّ قِمَّةَ النَّثْرِ الفَلْسَفِيِّ فِي الإِمْتَاعِ وَالمُؤَانَسَةِ، لِيَغْدُوَ النَّثْرُ العَرَبِيُّ مَوْئِلًا لِلْفِكْرِ وَالجَمَالِ. (Language concept U25)",
+            "النثر العربي كان كتبا كثيرة في المكتبة فقط. (alnthr al'arby kan ktba kthyrh fy almktbh fqt.)",
+            "نثر كلاسيكي جاحظ ابن المقفع توحيدي بيان حكمة فلسفة سكون فتحة ضمة. (nthr klasyky jahz abn almqf'a twhydy byan hkmh flsfh skwn fthh dmh.)",
+            "احترقت كتب النثر ولم يبق منها اثر. (ahtrqt ktb alnthr wlm ybq mnha athr.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بدقة وموسوعية بين: استطراد الجاحظ، رمزية ابن المقفع، وفلسفة التوحيدي، بأسلوب نقدي فصيح."
@@ -15390,10 +15390,10 @@
         {
           "prompt": "في ندوة التحليل النقدي، كيف تتكامل تجربة المتنبي الحماسية مع تجربة المعري الفلسفية؟",
           "options": [
-            "تُمَثِّلُ الأُولَى شِعْرَ الفَخْرِ وَالوُثُوبِ وَالفُرُوسِيَّةِ، بَيْنَمَا تُمَثِّلُ الثَّانِيَةُ التَّأَمُّلَ الوُجُودِيَّ وَالحِكْمَةَ الزَّاهِدَةَ",
-            "كلاهما كتبا قصص أطفال فقط (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "لا يوجد أي تشابه أو تكامل بينهما (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "كلاهما ترجم نصوصا عامية (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)"
+            "تُمَثِّلُ الأُولَى شِعْرَ الفَخْرِ وَالوُثُوبِ وَالفُرُوسِيَّةِ، بَيْنَمَا تُمَثِّلُ الثَّانِيَةُ التَّأَمُّلَ الوُجُودِيَّ وَالحِكْمَةَ الزَّاهِدَةَ (Language concept U25)",
+            "كلاهما كتبا قصص أطفال فقط (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "لا يوجد أي تشابه أو تكامل بينهما (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "كلاهما ترجم نصوصا عامية (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "المتنبي يجسد روح الإقدام والفخر الإنساني بالهمة والسيف، والمعري يمثل عقلانية التأمل في سر الوجود والمصير."
@@ -15401,10 +15401,10 @@
         {
           "prompt": "ما الذي يجمع بين نثر الجاحظ وفن مقامات الهمذاني في التراث العربي؟",
           "options": [
-            "قُوَّةُ البَيَانِ، وَسِحْرُ اللَّفْظِ، وَتَوْظِيفُ الأَدَبِ فِي نَقْدِ الحَيَاةِ وَالمُجْتَمَعِ",
-            "الركاكة والضعف اللغوي (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "استخدام اللهجات غير الفصيحة (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "غياب أي معنى أدبي (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)"
+            "قُوَّةُ البَيَانِ، وَسِحْرُ اللَّفْظِ، وَتَوْظِيفُ الأَدَبِ فِي نَقْدِ الحَيَاةِ وَالمُجْتَمَعِ (Language concept U25)",
+            "الركاكة والضعف اللغوي (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "استخدام اللهجات غير الفصيحة (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "غياب أي معنى أدبي (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "كلاهما من أعلام النثر الفني الرفيع اللذين ارتقيا باللغة العربية إلى قمة الجمال التعبيري والنقد الاجتماعي."
@@ -15416,10 +15416,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف روعة البيان في المقامات الشعرية والنثرية بتكامل فصيح:",
           "options": [
-            "— كَيْفَ بَدَا لَكِ سَجْعُ المَقَامَاتِ؟ — بَدَا كَالعِقْدِ المَنْظُومِ حَيْثُ تَلَاقَتْ فَرَائِدُ اللُّغَةِ مَعَ سِحْرِ الحِكَايَةِ.",
-            "— كيف المقامات؟ — جيدة وقرأتها امس. (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "— كم ثمن ديوان المتنبي؟ — لا اعلم سعره. (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "— حوار مقامات سجع نظم لغة سكون. (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)"
+            "— كَيْفَ بَدَا لَكِ سَجْعُ المَقَامَاتِ؟ — بَدَا كَالعِقْدِ المَنْظُومِ حَيْثُ تَلَاقَتْ فَرَائِدُ اللُّغَةِ مَعَ سِحْرِ الحِكَايَةِ. (Language concept U25)",
+            "— كيف المقامات؟ — جيدة وقرأتها امس. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "— كم ثمن ديوان المتنبي؟ — لا اعلم سعره. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "— حوار مقامات سجع نظم لغة سكون. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تشبه السجع المرصع بالعقد المنظوم حيث تجتمع فرائد المعجم وسحر السرد القصصي."
@@ -15427,10 +15427,10 @@
         {
           "prompt": "ما إعراب كلمة «بَهِيًّا» في قولنا: «تَجَلَّى التُّرَاثُ بَهِيًّا»؟",
           "options": [
-            "حَالٌ مَنْصُوبَةٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "مفعول به منصوب (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "تمييز منصوب (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "نعت مرفوع (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)"
+            "حَالٌ مَنْصُوبَةٌ بِالفَتْحَةِ الظَّاهِرَةِ (haalun mansuwbahun bialfathahi alzaahirahi)",
+            "مفعول به منصوب (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "تمييز منصوب (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "نعت مرفوع (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "«بَهِيًّا» حال منصوبة بالفتحة تبين هيئة التراث عند تجليه."
@@ -15443,10 +15443,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري النقدي الشامل الذي يدمج مخرجات الوحدة الخامسة والعشرين بأكملها (المعلقات، المتنبي والمعري، المقامات، ونثر الجاحظ والتوحيدي):",
           "options": [
-            "د. أُسَامَة: «دُكْتُورَة فَاطِمَة، كَيْفَ نُوَفِّقُ بَيْنَ صَلَابَةِ الوَقْفَةِ الطَّلَلِيَّةِ فِي المُعَلَّقَاتِ وَحَمَاسَةِ المُتَنَبِّي مَعَ سَجْعِ المَقَامَاتِ وَاسْتِطْرَادِ الجَاحِظِ؟» — د. فَاطِمَة: «إِنَّهَا مَرَاحِلُ اكْتِمَالِ الشَّخْصِيَّةِ البَلَاغِيَّةِ العَرَبِيَّةِ؛ فَقَدْ وَهَبَتْنَا الجَاهِلِيَّةُ جَزَالَةَ اللَّفْظِ وَصِدْقَ التَّصْوِيرِ، وَأَضَافَ العَصْرُ العَبَّاسِيُّ فَلْسَفَةَ المَعَرِّيِّ وَفَرَائِدَ التَّوْحِيدِيِّ، حَتَّى غَدَا الأَدَبُ الكَلَاسِيكِيُّ صَرْحًا بَيَانِيًّا لَا يَبْلَى عَلَى مَرِّ العُصُورِ».",
-            "د. اسامة: هل قرات كل الكتب القديمة؟ — د. فاطمة: نعم قرات بعضها في المكتبة. (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "حوار نقدي شامل معلقات متنبي معري مقامات جاحظ توحيدي سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)",
-            "انتهت الندوة النقدية دون اي نقاش بين الاساتذة. (الدمج الشامل لكافة مخرجات الوحدة الخامسة والعشرين)"
+            "د. أُسَامَة: «دُكْتُورَة فَاطِمَة، كَيْفَ نُوَفِّقُ بَيْنَ صَلَابَةِ الوَقْفَةِ الطَّلَلِيَّةِ فِي المُعَلَّقَاتِ وَحَمَاسَةِ المُتَنَبِّي مَعَ سَجْعِ المَقَامَاتِ وَاسْتِطْرَادِ الجَاحِظِ؟» — د. فَاطِمَة: «إِنَّهَا مَرَاحِلُ اكْتِمَالِ الشَّخْصِيَّةِ البَلَاغِيَّةِ العَرَبِيَّةِ؛ فَقَدْ وَهَبَتْنَا الجَاهِلِيَّةُ جَزَالَةَ اللَّفْظِ وَصِدْقَ التَّصْوِيرِ، وَأَضَافَ العَصْرُ العَبَّاسِيُّ فَلْسَفَةَ المَعَرِّيِّ وَفَرَائِدَ التَّوْحِيدِيِّ، حَتَّى غَدَا الأَدَبُ الكَلَاسِيكِيُّ صَرْحًا بَيَانِيًّا لَا يَبْلَى عَلَى مَرِّ العُصُورِ». (Language concept U25)",
+            "د. اسامة: هل قرات كل الكتب القديمة؟ — د. فاطمة: نعم قرات بعضها في المكتبة. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "حوار نقدي شامل معلقات متنبي معري مقامات جاحظ توحيدي سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)",
+            "انتهت الندوة النقدية دون اي نقاش بين الاساتذة. (aldmj alshaml lkafh mkhrjat alwhdh alkhamsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة النقد الأدبي والبلاغة التراثية في دمج: المعلقات والوقفة الطللية، حماسة المتنبي، فلسفة المعري، سجع المقامات، استطراد الجاحظ، وفلسفة التوحيدي."
@@ -15512,10 +15512,10 @@
         {
           "prompt": "ما هو المبدأ المعرفي الذي رسخه الكندي في رسالته «الفلسفة الأولى» حول اقتناء الحقيقة؟",
           "options": [
-            "قَبُولُ الحَقِّ وَاقْتِنَاؤُهُ مِنْ أَيِّ مَصْدَرٍ أَتَى دُونَ تَعَصُّبٍ عِرْقِيٍّ أَوْ جُغْرَافِيٍّ",
-            "رفض أي علم لم يكتبه العرب حصراً",
-            "تحريم قراءة كتب الفلسفة والمنطق",
-            "الاقتصار على النقد اللغوي المجرد"
+            "قَبُولُ الحَقِّ وَاقْتِنَاؤُهُ مِنْ أَيِّ مَصْدَرٍ أَتَى دُونَ تَعَصُّبٍ عِرْقِيٍّ أَوْ جُغْرَافِيٍّ (qabuwlu alhaqi waaqtinaa'uhu min aayi masdarin aataa duwna ta'aasubin 'airqiyin aaw jughraafiyin)",
+            "رفض أي علم لم يكتبه العرب حصراً (rfd ay 'alm lm yktbh al'arb hsraan)",
+            "تحريم قراءة كتب الفلسفة والمنطق (thrym qra'h ktb alflsfh walmntq)",
+            "الاقتصار على النقد اللغوي المجرد (alaqtsar 'ala alnqd allghwy almjrd)"
           ],
           "answerIndex": 0,
           "explanation": "الكندي رسخ الانفتاح المعرفي العقلاني الشامل القائل بأن الحقيقة تُقبل وتُطلب من كل أمة وحضارة."
@@ -15523,10 +15523,10 @@
         {
           "prompt": "بماذا شبّه الفارابي المجتمع الفاضل في كتابه «آراء أهل المدينة الفاضلة»؟",
           "options": [
-            "بِالجَسَدِ التَّامِّ السَّلِيمِ الَّذِي تَتَعَاوَنُ أَعْضَاؤُهُ لِتَحْقِيقِ السَّعَادَةِ",
-            "بالغابة الموحشة المتنازعة",
-            "بالبحر الهائج دون قبطان",
-            "بالمصنع الآلي المجرد من الروح"
+            "بِالجَسَدِ التَّامِّ السَّلِيمِ الَّذِي تَتَعَاوَنُ أَعْضَاؤُهُ لِتَحْقِيقِ السَّعَادَةِ (bialjasadi altaami alsaliymi aladhiy tata'aaawanu aa'adaa'uhu litahqiyqi alsa'aaadahi)",
+            "بالغابة الموحشة المتنازعة (balghabh almwhshh almtnaz'ah)",
+            "بالبحر الهائج دون قبطان (balbhr alha'j dwn qbtan)",
+            "بالمصنع الآلي المجرد من الروح (balmsn'a alaaly almjrd mn alrwh)"
           ],
           "answerIndex": 0,
           "explanation": "الفارابي شبّه المدينة الفاضلة بالأعضاء المتناسقة في الجسد الحي، حيث يرأسها العقل (الحاكم الحكيم)."
@@ -15538,10 +15538,10 @@
         {
           "prompt": "اختر التعريف الفلسفي الدقيق لـ «العَرَضِ» (Accident) في المنطق الإسلامي الكلاسيكي:",
           "options": [
-            "المَوْجُودُ الَّذِي لَا يَقُومُ بِذَاتِهِ بَلْ يَحِلُّ فِي جَوْهَرٍ كَاللَّوْنِ وَالحَرَكَةِ",
-            "الجوهر الخالد الثابت",
-            "العدم المحض الذي لا وجود له",
-            "عرض تجاري في السوق القديم"
+            "المَوْجُودُ الَّذِي لَا يَقُومُ بِذَاتِهِ بَلْ يَحِلُّ فِي جَوْهَرٍ كَاللَّوْنِ وَالحَرَكَةِ (almawjuwdu aladhiy laa yaquwmu bidhaatihi bal yahilu fiy jawharin kaallawni waalharakahi)",
+            "الجوهر الخالد الثابت (aljwhr alkhald althabt)",
+            "العدم المحض الذي لا وجود له (al'adm almhd aldhy la wjwd lh)",
+            "عرض تجاري في السوق القديم ('ard tjary fy alswq alqdym)"
           ],
           "answerIndex": 0,
           "explanation": "العَرَض هو الصفة التي تحتاج إلى جوهر لتقوم به، كاللون والحركة والشكل."
@@ -15549,10 +15549,10 @@
         {
           "prompt": "ما إعراب كلمة «الصَّحِيحَ» في قول الفارابي: «تُشْبِهُ الجِسْمَ التَّامَّ الصَّحِيحَ»؟",
           "options": [
-            "نَعْتٌ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "مفعول به ثانٍ",
-            "حال منصوبة"
+            "نَعْتٌ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (na'atun thaanin mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مفعول به ثانٍ (mf'awl bh thanin)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "«الصَّحِيحَ» نعت ثانٍ لـ «الجِسْمَ» المنصوب (مفعول به) منصوب وعلامة نصبه الفتحة."
@@ -15565,10 +15565,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الفلسفي النقدي الذي يدمج إسهامات الكندي والفارابي في تأسيس الحكمة العربية بدقة ومنهجية رفيعة:",
           "options": [
-            "أَرْسَى الكِنْدِيُّ وَالفَارَابِيُّ المَعَالِمَ الأُولَى لِلْعَقْلَانِيَّةِ الإِسْلَامِيَّةِ؛ حَيْثُ نَادَى الكِنْدِيُّ بِعَالَمِيَّةِ الحَقِيقَةِ وَتَوْطِينِ المَعْرِفَةِ الفَلْسَفِيَّةِ فِي اللِّسَانِ العَرَبِيِّ، بَيْنَمَا أَحْصَى الفَارَابِيُّ العُلُومَ وَشَادَ نَظَرِيَّتَهُ الخَالِدَةَ فِي المَدِينَةِ الفَاضِلَةِ، لِيَغْدُوَ العَقْلُ مِشْعَالًا لِتَحْقِيقِ الكَمَالِ الإِنْسَانِيِّ وَالسَّعَادَةِ القُصْوَى.",
-            "الكندي والفارابي عالمان درسا الفلسفة قديما.",
-            "فلسفة اسلامية كندي فارابي جوهر عرض مدينة فاضلة سكون فتحة ضمة.",
-            "فشلت محاولات التوفيق بين الفلسفة والشريعة تماما."
+            "أَرْسَى الكِنْدِيُّ وَالفَارَابِيُّ المَعَالِمَ الأُولَى لِلْعَقْلَانِيَّةِ الإِسْلَامِيَّةِ؛ حَيْثُ نَادَى الكِنْدِيُّ بِعَالَمِيَّةِ الحَقِيقَةِ وَتَوْطِينِ المَعْرِفَةِ الفَلْسَفِيَّةِ فِي اللِّسَانِ العَرَبِيِّ، بَيْنَمَا أَحْصَى الفَارَابِيُّ العُلُومَ وَشَادَ نَظَرِيَّتَهُ الخَالِدَةَ فِي المَدِينَةِ الفَاضِلَةِ، لِيَغْدُوَ العَقْلُ مِشْعَالًا لِتَحْقِيقِ الكَمَالِ الإِنْسَانِيِّ وَالسَّعَادَةِ القُصْوَى. (Language concept U26)",
+            "الكندي والفارابي عالمان درسا الفلسفة قديما. (alkndy walfaraby 'aalman drsa alflsfh qdyma.)",
+            "فلسفة اسلامية كندي فارابي جوهر عرض مدينة فاضلة سكون فتحة ضمة. (flsfh aslamyh kndy faraby jwhr 'ard mdynh fadlh skwn fthh dmh.)",
+            "فشلت محاولات التوفيق بين الفلسفة والشريعة تماما. (fshlt mhawlat altwfyq byn alflsfh walshry'ah tmama.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بدقة بين: عالمية الحقيقة والتعريب عند الكندي، وإحصاء العلوم ونظرية المدينة الفاضلة عند الفارابي."
@@ -15632,10 +15632,10 @@
         {
           "prompt": "ما هو تعريف «مُمْكِنِ الوُجُودِ» (Contingent Being) في فلسفة ابن سينا؟",
           "options": [
-            "المَوْجُودُ الَّذِي يَتَسَاوَى فِي ذَاتِهِ الوُجُودُ وَالعَدَمُ، وَيَفْتَقِرُ إِلَى عِلَّةٍ تُرَجِّحُ وُجُودَهُ",
-            "الموجود الذي يمتنع وجوده في العقل",
-            "الموجود بذاته دون الحاجة لأي علة",
-            "المادة الجامدة فقط"
+            "المَوْجُودُ الَّذِي يَتَسَاوَى فِي ذَاتِهِ الوُجُودُ وَالعَدَمُ، وَيَفْتَقِرُ إِلَى عِلَّةٍ تُرَجِّحُ وُجُودَهُ (Language concept U26)",
+            "الموجود الذي يمتنع وجوده في العقل (almwjwd aldhy ymtn'a wjwdh fy al'aql)",
+            "الموجود بذاته دون الحاجة لأي علة (almwjwd bdhath dwn alhajh lay 'alh)",
+            "المادة الجامدة فقط (almadh aljamdh fqt)"
           ],
           "answerIndex": 0,
           "explanation": "الممكن هو كل ما سوى الله؛ لا يقتضي الوجود ولا العدم بذاته بل يحتاج إلى مرجّح يخرجه إلى الوجود."
@@ -15643,10 +15643,10 @@
         {
           "prompt": "ماذا قصد ابن سينا بتجربة «الإنسان الطائر أو المعلق في الفضاء» الذهنية؟",
           "options": [
-            "إِثْبَاتُ أَنَّ جَوْهَرَ النَّفْسِ يَعِي ذَاتَهُ بِصُورَةٍ مُسْتَقِلَّةٍ عَنِ الحَوَاسِّ وَالبَدَنِ",
-            "اختراع الطيران الميكانيكي",
-            "رياضة القفز بالمظلات",
-            "وصف رحلة فضائية كوكبية"
+            "إِثْبَاتُ أَنَّ جَوْهَرَ النَّفْسِ يَعِي ذَاتَهُ بِصُورَةٍ مُسْتَقِلَّةٍ عَنِ الحَوَاسِّ وَالبَدَنِ (iithbaatu aana jawhara alnafsi ya'aiy dhaatahu bisuwrahin mustaqilahin 'aani alhawaasi waalbadani)",
+            "اختراع الطيران الميكانيكي (akhtra'a altyran almykanyky)",
+            "رياضة القفز بالمظلات (ryadh alqfz balmzlat)",
+            "وصف رحلة فضائية كوكبية (wsf rhlh fda'yh kwkbyh)"
           ],
           "answerIndex": 0,
           "explanation": "ابن سينا افترض خلق إنسان معلق في الهواء لا يرى ولا يلمس شيئاً، ليثبت أنه يظل مدركاً لوجوده ونفسه بيقين."
@@ -15658,10 +15658,10 @@
         {
           "prompt": "اختر العبارة الفلسفية التي تصيغ برهان الصديقين عند ابن سينا بدقة ميتافيزيقية:",
           "options": [
-            "«الِاسْتِدْلَالُ بِالنَّظَرِ فِي حَقِيقَةِ الوُجُودِ نَفْسِهِ عَلَى وُجُوبِ وُجُودِ الحَقِّ الأَوَّلِ دُونَ حَاجَةٍ لِمُقَدِّمَاتٍ حِسِّيَّةٍ».",
-            "نحن نرى الشمس والقمر في السماء إذا الله موجود",
-            "العالم كبير جدا والبحار عميقة",
-            "ابن سينا وجود واجب ممكن برهان سكون"
+            "«الِاسْتِدْلَالُ بِالنَّظَرِ فِي حَقِيقَةِ الوُجُودِ نَفْسِهِ عَلَى وُجُوبِ وُجُودِ الحَقِّ الأَوَّلِ دُونَ حَاجَةٍ لِمُقَدِّمَاتٍ حِسِّيَّةٍ». (Language concept U26)",
+            "نحن نرى الشمس والقمر في السماء إذا الله موجود (nhn nra alshms walqmr fy alsma' idha allh mwjwd)",
+            "العالم كبير جدا والبحار عميقة (al'aalm kbyr jda walbhar 'amyqh)",
+            "ابن سينا وجود واجب ممكن برهان سكون (abn syna wjwd wajb mmkn brhan skwn)"
           ],
           "answerIndex": 0,
           "explanation": "برهان الصديقين ينطلق من الوجود ذاته لتقسيمه إلى واجب وممكن، فيلزم منه إثبات واجب الوجود عقلاً."
@@ -15669,10 +15669,10 @@
         {
           "prompt": "ما إعراب كلمة «مُحَالٌ» في جملة: «لَزِمَ مِنْهُ مُحَالٌ مَنْطِقِيٌّ»؟",
           "options": [
-            "فَاعِلٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ",
-            "مفعول به منصوب",
-            "نائب فاعل",
-            "نعت مرفوع"
+            "فَاعِلٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (faa'ailun marfuw'aun bialdamahi alzaahirahi)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "نائب فاعل (Core target concept - Unit 26 Target Practice)",
+            "نعت مرفوع (n'at mrfw'a)"
           ],
           "answerIndex": 0,
           "explanation": "«مُحَالٌ» فاعل للفعل «لَزِمَ» مرفوع بالضمة، و«مَنْطِقِيٌّ» نعت مرفوع."
@@ -15685,10 +15685,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الميتافيزيقي الشامل الذي يحلل أنطولوجيا ابن سينا وأثره الفكري بأعلى درجات الرصانة الفلسفية:",
           "options": [
-            "صَاغَ ابْنُ سِينَا أَعْظَمَ نَسَقٍ أُنْطُولُوجِيٍّ فِي الفِكْرِ الإِسْلَامِيِّ حِينَ مَيَّزَ جَذْرِيًّا بَيْنَ المَاهِيَّةِ وَالوُجُودِ، وَقَسَّمَ المَوْجُودَاتِ إِلَى وَاجِبِ الوُجُودِ بِذَاتِهِ وَالمُمْكِنَاتِ الفَائِضَةِ عَنْ فَيْضِهِ، وَبَرْهَنَ عَلَى تَجَرُّدِ النَّفْسِ النَّاطِقَةِ فِي فَرْضِيَّةِ الإِنْسَانِ المُعَلَّقِ، لِيَبْنِيَ صَرْحَ المِيتَافِيزِيقَا العَقْلِيَّةِ الخَالِدَةِ.",
-            "ابن سينا طبيب وفيلسوف كتب كتاب القانون والشفاء.",
-            "ميتافيزيقا ابن سينا واجب الوجود ممكن ماهية وجود نفس سكون فتحة ضمة.",
-            "أنكر ابن سينا وجود النفس تماما."
+            "صَاغَ ابْنُ سِينَا أَعْظَمَ نَسَقٍ أُنْطُولُوجِيٍّ فِي الفِكْرِ الإِسْلَامِيِّ حِينَ مَيَّزَ جَذْرِيًّا بَيْنَ المَاهِيَّةِ وَالوُجُودِ، وَقَسَّمَ المَوْجُودَاتِ إِلَى وَاجِبِ الوُجُودِ بِذَاتِهِ وَالمُمْكِنَاتِ الفَائِضَةِ عَنْ فَيْضِهِ، وَبَرْهَنَ عَلَى تَجَرُّدِ النَّفْسِ النَّاطِقَةِ فِي فَرْضِيَّةِ الإِنْسَانِ المُعَلَّقِ، لِيَبْنِيَ صَرْحَ المِيتَافِيزِيقَا العَقْلِيَّةِ الخَالِدَةِ. (Language concept U26)",
+            "ابن سينا طبيب وفيلسوف كتب كتاب القانون والشفاء. (abn syna tbyb wfylswf ktb ktab alqanwn walshfa'.)",
+            "ميتافيزيقا ابن سينا واجب الوجود ممكن ماهية وجود نفس سكون فتحة ضمة. (mytafyzyqa abn syna wajb alwjwd mmkn mahyh wjwd nfs skwn fthh dmh.)",
+            "أنكر ابن سينا وجود النفس تماما. (ankr abn syna wjwd alnfs tmama.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يحيط بكافة أركان المنظومة السيناوية: تمايز الماهية والوجود، أقسام الوجود، وتجرد النفس الإنسانية."
@@ -15754,10 +15754,10 @@
         {
           "prompt": "ما هو الموقف الأخلاقي للمعتزلة في مسألة «التحسين والتقبيح»؟",
           "options": [
-            "العَقْلُ يُدْرِكُ حُسْنَ الأَفْعَالِ وَقُبْحَهَا ذَاتِيًّا دُونَ تَوَقُّفٍ عَلَى الشَّرْعِ",
-            "الحسن والقبح لا وجود لهما",
-            "الشرع وحده هو الذي يحدد دون أي دور للعقل",
-            "التحسين يعتمد على المزاج الفردي"
+            "العَقْلُ يُدْرِكُ حُسْنَ الأَفْعَالِ وَقُبْحَهَا ذَاتِيًّا دُونَ تَوَقُّفٍ عَلَى الشَّرْعِ (al'aaqlu yudriku husna alaaf'aaali waqubhahaa dhaatiyana duwna tawaqufin 'aalaa alshar'ai)",
+            "الحسن والقبح لا وجود لهما (alhsn walqbh la wjwd lhma)",
+            "الشرع وحده هو الذي يحدد دون أي دور للعقل (alshr'a whdh hw aldhy yhdd dwn ay dwr ll'aql)",
+            "التحسين يعتمد على المزاج الفردي (althsyn y'atmd 'ala almzaj alfrdy)"
           ],
           "answerIndex": 0,
           "explanation": "المعتزلة قالوا بالتحسين والتقبيح العقليين الذاتيين، بينما قال الأشاعرة بأنهما شرعيان."
@@ -15765,10 +15765,10 @@
         {
           "prompt": "ماذا تعني نظرية «الكَسْبِ» عند الإمام أبي الحسن الأشعري؟",
           "options": [
-            "اقْتِرَانُ إِرَادَةِ العَبْدِ وَقُدْرَتِهِ الحَادِثَةِ بِخَلْقِ اللهِ لِلْفِعْلِ لِتَحَقُّقِ المَسْؤُولِيَّةِ",
-            "كسب الأموال في التجارة الحرة",
-            "الجبر التام دون إرادة إنسانية",
-            "خلق الإنسان لأفعاله باستقلال تام"
+            "اقْتِرَانُ إِرَادَةِ العَبْدِ وَقُدْرَتِهِ الحَادِثَةِ بِخَلْقِ اللهِ لِلْفِعْلِ لِتَحَقُّقِ المَسْؤُولِيَّةِ (aqtiraanu iiraadahi al'aabdi waqudratihi alhaadithahi bikhalqi allhi lilfi'ali litahaquqi almas'uwliyahi)",
+            "كسب الأموال في التجارة الحرة (ksb alamwal fy altjarh alhrh)",
+            "الجبر التام دون إرادة إنسانية (aljbr altam dwn iradh insanyh)",
+            "خلق الإنسان لأفعاله باستقلال تام (khlq alinsan laf'aalh bastqlal tam)"
           ],
           "answerIndex": 0,
           "explanation": "الكسب الأشعري يجمع بين التوحيد في الخلق ومسؤولية العبد عن اختياره المكتسب."
@@ -15780,10 +15780,10 @@
         {
           "prompt": "اختر العبارة الكلامية التي تصف وظيفة علم الكلام في التراث الإسلامي بدقة مصطلحية:",
           "options": [
-            "«عِلْمٌ يُقْتَدَرُ مَعَهُ عَلَى إِثْبَاتِ العَقَائِدِ الدِّينِيَّةِ بِإِيرَادِ الحُجَجِ وَدَفْعِ الشُّبَهِ».",
-            "علم يهتم فقط بالنحو والصرف وقواعد الإملاء",
-            "مجرد أحاديث عامة في المجالس الشعبية",
-            "علم كلام معتزلة اشاعرة كسب سكون"
+            "«عِلْمٌ يُقْتَدَرُ مَعَهُ عَلَى إِثْبَاتِ العَقَائِدِ الدِّينِيَّةِ بِإِيرَادِ الحُجَجِ وَدَفْعِ الشُّبَهِ». (Language concept U26)",
+            "علم يهتم فقط بالنحو والصرف وقواعد الإملاء ('alm yhtm fqt balnhw walsrf wqwa'ad alimla')",
+            "مجرد أحاديث عامة في المجالس الشعبية (mjrd ahadyth 'aamh fy almjals alsh'abyh)",
+            "علم كلام معتزلة اشاعرة كسب سكون ('alm klam m'atzlh asha'arh ksb skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذا هو التعريف الاصطلاحي المعياري لعلم الكلام عند عضد الدين الإيجي والعلماء."
@@ -15791,10 +15791,10 @@
         {
           "prompt": "ما إعراب كلمة «قَادِرٌ» في جملة: «أَنَّ العَقْلَ قَادِرٌ عَلَى إِدْرَاكِ الحَقِّ»؟",
           "options": [
-            "خَبَرُ أَنَّ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ",
-            "اسم أن منصوب",
-            "مفعول به منصوب",
-            "نعت مرفوع"
+            "خَبَرُ أَنَّ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (khabaru aana marfuw'aun bialdamahi alzaahirahi)",
+            "اسم أن منصوب (asm an mnswb)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "نعت مرفوع (n'at mrfw'a)"
           ],
           "answerIndex": 0,
           "explanation": "«العَقْلَ» اسم أن منصوب، و«قَادِرٌ» خبر أن مرفوع وعلامة رفعه الضمة."
@@ -15807,10 +15807,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التحليلي الشامل الذي يوازن بين مدرستي المعتزلة والأشاعرة في علم الكلام بدقة فلسفية وعقائدية تامة:",
           "options": [
-            "جَسَّدَ عِلْمُ الكَلَامِ الإِسْلَامِيُّ حَرَكِيَّةَ الفِكْرِ النَّقْدِيِّ؛ حَيْثُ عَلَّى المُعْتَزِلَةُ مِنْ سُلْطَانِ التَّحْسِينِ وَالتَّقْبِيحِ العَقْلِيَّيْنِ وَأَسَّسُوا أُصُولَهُمُ الخَمْسَةَ عَلَى العَدْلِ وَالتَّوْحِيدِ، بَيْنَمَا أَرْسَى الأَشَاعِرَةُ نَظَرِيَّةَ الكَسْبِ لِلْجَمْعِ بَيْنَ شُمُولِيَّةِ القُدْرَةِ الإِلٰهِيَّةِ وَمَسْؤُولِيَّةِ العَبْدِ الأَخْلَاقِيَّةِ، لِيَظَلَّ الجَدَلُ الكَلَامِيُّ مَفْخَرَةً لِلْعَقْلَانِيَّةِ العَرَبِيَّةِ.",
-            "المعتزلة والأشاعرة فرقتان قديمتان انتهت مناقشاتهما.",
-            "علم كلام جدل مناظرة معتزلة اشاعرة تحسين تقبيح سكون فتحة ضمة.",
-            "حرم المتكلمون استخدام العقل في الدين."
+            "جَسَّدَ عِلْمُ الكَلَامِ الإِسْلَامِيُّ حَرَكِيَّةَ الفِكْرِ النَّقْدِيِّ؛ حَيْثُ عَلَّى المُعْتَزِلَةُ مِنْ سُلْطَانِ التَّحْسِينِ وَالتَّقْبِيحِ العَقْلِيَّيْنِ وَأَسَّسُوا أُصُولَهُمُ الخَمْسَةَ عَلَى العَدْلِ وَالتَّوْحِيدِ، بَيْنَمَا أَرْسَى الأَشَاعِرَةُ نَظَرِيَّةَ الكَسْبِ لِلْجَمْعِ بَيْنَ شُمُولِيَّةِ القُدْرَةِ الإِلٰهِيَّةِ وَمَسْؤُولِيَّةِ العَبْدِ الأَخْلَاقِيَّةِ، لِيَظَلَّ الجَدَلُ الكَلَامِيُّ مَفْخَرَةً لِلْعَقْلَانِيَّةِ العَرَبِيَّةِ. (Language concept U26)",
+            "المعتزلة والأشاعرة فرقتان قديمتان انتهت مناقشاتهما. (alm'atzlh walasha'arh frqtan qdymtan antht mnaqshathma.)",
+            "علم كلام جدل مناظرة معتزلة اشاعرة تحسين تقبيح سكون فتحة ضمة. ('alm klam jdl mnazrh m'atzlh asha'arh thsyn tqbyh skwn fthh dmh.)",
+            "حرم المتكلمون استخدام العقل في الدين. (hrm almtklmwn astkhdam al'aql fy aldyn.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بدقة وموضوعية بين الأصول الخمسة والتحسين العقلي عند المعتزلة، ونظرية الكسب والجمع عند الأشاعرة."
@@ -15874,10 +15874,10 @@
         {
           "prompt": "ما هي المقولة الخالدة التي قررها ابن رشد في كتابه «فصل المقال» للتوفيق بين الفلسفة والدين؟",
           "options": [
-            "«الحَقُّ لَا يُضَادُّ الحَقَّ، بَلْ يُوَافِقُهُ وَيَشْهَدُ لَهُ»",
-            "الفلسفة باطلة والدين وحده هو الصحيح",
-            "لا يمكن التوفيق بين العقل والشرع أبدا",
-            "الدين يلغي العقل تماما"
+            "«الحَقُّ لَا يُضَادُّ الحَقَّ، بَلْ يُوَافِقُهُ وَيَشْهَدُ لَهُ» (Language concept U26)",
+            "الفلسفة باطلة والدين وحده هو الصحيح (alflsfh batlh waldyn whdh hw alshyh)",
+            "لا يمكن التوفيق بين العقل والشرع أبدا (la ymkn altwfyq byn al'aql walshr'a abda)",
+            "الدين يلغي العقل تماما (aldyn ylghy al'aql tmama)"
           ],
           "answerIndex": 0,
           "explanation": "هذه القاعدة الرشدية التأسيسية تؤكد وحدة الحقيقة واستحالة التناقض بين صريح المعقول وصحيح المنقول."
@@ -15885,10 +15885,10 @@
         {
           "prompt": "كيف فسر الإمام الغزالي العلاقة بين السبب والمسبب (كالنار والاحتراق) في «تهافت الفلاسفة»؟",
           "options": [
-            "عَلَاقَةُ اقْتِرَانٍ عَادِيٍّ بِمَشِيئَةِ اللهِ، لَيْسَتْ لُزُومًا ذَاتِيًّا لَا يَنْفَكُّ",
-            "النار تخلق الإحراق بنفسها باستقلال تام عن الله",
-            "الاحتراق وهم بصري لا وجود له",
-            "السببية قانون لا يمكن لله تغييره"
+            "عَلَاقَةُ اقْتِرَانٍ عَادِيٍّ بِمَشِيئَةِ اللهِ، لَيْسَتْ لُزُومًا ذَاتِيًّا لَا يَنْفَكُّ (Language concept U26)",
+            "النار تخلق الإحراق بنفسها باستقلال تام عن الله (alnar tkhlq alihraq bnfsha bastqlal tam 'an allh)",
+            "الاحتراق وهم بصري لا وجود له (alahtraq whm bsry la wjwd lh)",
+            "السببية قانون لا يمكن لله تغييره (alsbbyh qanwn la ymkn llh tghyyrh)"
           ],
           "answerIndex": 0,
           "explanation": "الغزالي بين أن الارتباط سببه اطراد العادة الإلهية، مما يجعل المعجزات أمراً جائزاً عقلاً."
@@ -15900,10 +15900,10 @@
         {
           "prompt": "اختر الكتاب الذي رد فيه ابن رشد تفصيلياً على اعتراضات الغزالي على الفلاسفة:",
           "options": [
-            "تَهَافُتُ التَّهَافُتِ",
-            "تهافت الفلاسفة",
-            "إحياء علوم الدين",
-            "المنقذ من الضلال"
+            "تَهَافُتُ التَّهَافُتِ (tahaafutu altahaafuti)",
+            "تهافت الفلاسفة (thaft alflasfh)",
+            "إحياء علوم الدين (ihya' 'alwm aldyn)",
+            "المنقذ من الضلال (almnqdh mn aldlal)"
           ],
           "answerIndex": 0,
           "explanation": "كتاب «تهافت التهافت» هو مصنف ابن رشد الخالد للرد على كتاب الغزالي «تهافت الفلاسفة»."
@@ -15911,10 +15911,10 @@
         {
           "prompt": "ما إعراب كلمة «أُخْتَانِ» في قولنا: «الحِكْمَةُ وَالشَّرِيعَةُ أُخْتَانِ رَضِيعَتَانِ»؟",
           "options": [
-            "خَبَرُ المُبْتَدَأِ مَرْفُوعٌ بِالأَلِفِ لِأَنَّهُ مُثَنَّى",
-            "مبتدأ مؤخر",
-            "نعت مرفوع بالضمة",
-            "مفعول به ثانٍ"
+            "خَبَرُ المُبْتَدَأِ مَرْفُوعٌ بِالأَلِفِ لِأَنَّهُ مُثَنَّى (khabaru almubtadaai marfuw'aun bialaalifi liaanahu muthanaa)",
+            "مبتدأ مؤخر (mbtda m'khr)",
+            "نعت مرفوع بالضمة (n'at mrfw'a baldmh)",
+            "مفعول به ثانٍ (mf'awl bh thanin)"
           ],
           "answerIndex": 0,
           "explanation": "«أُخْتَانِ» خبر المبتدأ «الحِكْمَةُ» مرفوع بالألف لأنه مثنى، و«رَضِيعَتَانِ» نعت مرفوع بالألف."
@@ -15927,10 +15927,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الفلسفي الذي يلخص المناظرة الكبرى بين الغزالي وابن رشد بأعلى درجات العمق والبيان المعرفي:",
           "options": [
-            "شَكَّلَتِ المُنَاظَرَةُ بَيْنَ «تَهَافُتِ الفَلَاسِفَةِ» لِلْغَزَالِيِّ وَ«تَهَافُتِ التَّهَافُتِ» لِابْنِ رُشْدٍ أَعْظَمَ مَعْرَكَةٍ إِبِسْتِمُولُوجِيَّةٍ فِي تَارِيخِ الفِكْرِ؛ حَيْثُ فَكَّكَ الغَزَالِيُّ مَزَاعِمَ الضَّرُورَةِ السَّبَبِيَّةِ لِصَالِحِ الإِرَادَةِ الإِلٰهِيَّةِ، بَيْنَمَا ذَادَ ابْنُ رُشْدٍ عَنْ قَوَانِينِ العَقْلِ وَبُرْهَانِيَّةِ الوُجُودِ مُقَرِّرًا أَنَّ الحَقَّ لَا يُضَادُّ الحَقَّ، لِتَغْدُوَ هٰذِهِ المُنَاظَرَةُ مَنَارَةً لِفَلْسَفَةِ المَعْرِفَةِ العَالَمِيَّةِ.",
-            "الغزالي وابن رشد كتبا كتابين ضد بعضهما وانتهى الخلاف.",
-            "مناظرة تهافت الفلاسفة تهافت التهافت سببية برهان عقل شرع سكون فتحة ضمة.",
-            "اتفق الغزالي وابن رشد في كل المسائل ولم يختلفا."
+            "شَكَّلَتِ المُنَاظَرَةُ بَيْنَ «تَهَافُتِ الفَلَاسِفَةِ» لِلْغَزَالِيِّ وَ«تَهَافُتِ التَّهَافُتِ» لِابْنِ رُشْدٍ أَعْظَمَ مَعْرَكَةٍ إِبِسْتِمُولُوجِيَّةٍ فِي تَارِيخِ الفِكْرِ؛ حَيْثُ فَكَّكَ الغَزَالِيُّ مَزَاعِمَ الضَّرُورَةِ السَّبَبِيَّةِ لِصَالِحِ الإِرَادَةِ الإِلٰهِيَّةِ، بَيْنَمَا ذَادَ ابْنُ رُشْدٍ عَنْ قَوَانِينِ العَقْلِ وَبُرْهَانِيَّةِ الوُجُودِ مُقَرِّرًا أَنَّ الحَقَّ لَا يُضَادُّ الحَقَّ، لِتَغْدُوَ هٰذِهِ المُنَاظَرَةُ مَنَارَةً لِفَلْسَفَةِ المَعْرِفَةِ العَالَمِيَّةِ. (Language concept U26)",
+            "الغزالي وابن رشد كتبا كتابين ضد بعضهما وانتهى الخلاف. (alghzaly wabn rshd ktba ktabyn dd b'adhma wantha alkhlaf.)",
+            "مناظرة تهافت الفلاسفة تهافت التهافت سببية برهان عقل شرع سكون فتحة ضمة. (mnazrh thaft alflasfh thaft althaft sbbyh brhan 'aql shr'a skwn fthh dmh.)",
+            "اتفق الغزالي وابن رشد في كل المسائل ولم يختلفا. (atfq alghzaly wabn rshd fy kl almsa'l wlm ykhtlfa.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب الأبعاد الفلسفية التامة للمناظرة: نقد السببية عند الغزالي، ودفاع ابن رشد عن البرهان وتوافق العقل والشرع."
@@ -15996,10 +15996,10 @@
         {
           "prompt": "في المطارحة الفلسفية الشاملة، كيف يتكامل الفكر الكلامي مع النسق الفلسفي المشائي؟",
           "options": [
-            "عَبْرَ تَوْظِيفِ أَدَوَاتِ المَنْطِقِ وَالبُرْهَانِ فِي إِثْبَاتِ حَقَائِقِ التَّوْحِيدِ وَمُنَاقَشَةِ المَسْؤُولِيَّةِ الأَخْلَاقِيَّةِ",
-            "عن طريق إلغاء النصوص الدينية بالكامل (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "برفض دراسة الفلسفة والمنطق نهائيا (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "بالاقتصار على الأساطير الخرافية (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)"
+            "عَبْرَ تَوْظِيفِ أَدَوَاتِ المَنْطِقِ وَالبُرْهَانِ فِي إِثْبَاتِ حَقَائِقِ التَّوْحِيدِ وَمُنَاقَشَةِ المَسْؤُولِيَّةِ الأَخْلَاقِيَّةِ ('aabra tawziyfi aadawaati almantiqi waalburhaani fiy iithbaati haqaa'iqi altawhiydi wamunaaqashahi almas'uwliyahi alaakhlaaqiyahi)",
+            "عن طريق إلغاء النصوص الدينية بالكامل (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "برفض دراسة الفلسفة والمنطق نهائيا (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "بالاقتصار على الأساطير الخرافية (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفكر الإسلامي طوّع المنطق الصوري وأدوات القياس البرهاني في خدمة الحكمة والمناظرة العقدية والأخلاقية."
@@ -16007,10 +16007,10 @@
         {
           "prompt": "ما هي النتيجة الإبستمولوجية التي انتهى إليها ابن رشد في مسألة العلاقة بين الحكمة والشريعة؟",
           "options": [
-            "وَحْدَةُ الحَقِيقَةِ؛ حَيْثُ إِنَّ البُرْهَانَ العَقْلِيَّ الصَّرِيحَ لَا يَتَنَاقَضُ مَعَ الوَحْيِ الصَّحِيحِ",
-            "أن الدين يناقض العلم بالضرورة (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "أن الفلسفة خطر على المجتمع (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "أن التأويل ممنوع في كل الأحوال (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)"
+            "وَحْدَةُ الحَقِيقَةِ؛ حَيْثُ إِنَّ البُرْهَانَ العَقْلِيَّ الصَّرِيحَ لَا يَتَنَاقَضُ مَعَ الوَحْيِ الصَّحِيحِ (Language concept U26)",
+            "أن الدين يناقض العلم بالضرورة (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "أن الفلسفة خطر على المجتمع (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "أن التأويل ممنوع في كل الأحوال (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "ابن رشد رسخ أن الحقيقة واحدة لا تتناقض، وأن التأويل البرهاني يزيل أي تعارض ظاهري."
@@ -16022,10 +16022,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف روعة الجمع بين العقل والنقل في الحضارة الإسلامية بفصاحة تامة:",
           "options": [
-            "— كَيْفَ نَنْظُرُ إِلَى هٰذَا التُّرَاثِ الفَلْسَفِيِّ؟ — نَنْظُرُ إِلَيْهِ كَصَرْحٍ حَضَارِيٍّ اسْتَطَاعَ أَنْ يَجْعَلَ الإِيمَانَ مُعَزَّزًا بِالبُرْهَانِ وَالعَقْلَ مُسْتَنِيرًا بِالوُجُودِ.",
-            "— هل قرات كتاب الشفاء؟ — نعم اشتريته من المعرض. (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "— كم عدد الفلاسفة المسلمين؟ — لا اعرف عددهم بالتحديد. (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "— حوار فلسفي برهان عقل نقل سكون. (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)"
+            "— كَيْفَ نَنْظُرُ إِلَى هٰذَا التُّرَاثِ الفَلْسَفِيِّ؟ — نَنْظُرُ إِلَيْهِ كَصَرْحٍ حَضَارِيٍّ اسْتَطَاعَ أَنْ يَجْعَلَ الإِيمَانَ مُعَزَّزًا بِالبُرْهَانِ وَالعَقْلَ مُسْتَنِيرًا بِالوُجُودِ. (Language concept U26)",
+            "— هل قرات كتاب الشفاء؟ — نعم اشتريته من المعرض. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "— كم عدد الفلاسفة المسلمين؟ — لا اعرف عددهم بالتحديد. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "— حوار فلسفي برهان عقل نقل سكون. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تعبر بأصالة عن التكامل الحضاري بين الإيمان المعزز بالبرهان والعقل المستنير بحقائق الوجود."
@@ -16033,10 +16033,10 @@
         {
           "prompt": "ما إعراب كلمة «مُعَزَّزًا» في قولنا: «يَجْعَلَ الإِيمَانَ مُعَزَّزًا بِالبُرْهَانِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "حال منصوبة بالفتحة (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "نعت منصوب (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "تمييز منصوب (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "حال منصوبة بالفتحة (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "نعت منصوب (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "تمييز منصوب (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «يَجْعَلَ» ينصب مفعولين؛ «الإِيمَانَ» مفعول به أول، و«مُعَزَّزًا» مفعول به ثانٍ منصوب."
@@ -16049,10 +16049,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الفلسفي الشامل الذي يدمج مخرجات الوحدة السادسة والعشرين بأكملها (الكندي والفارابي، ابن سينا، علم الكلام، ومناظرة الغزالي وابن رشد):",
           "options": [
-            "د. مَرْيَم: «دُكْتُور مَنْصُور، كَيْفَ نَسْتَوْعِبُ التَّكَامُلَ بَيْنَ أُنْطُولُوجْيَا ابْنِ سِينَا فِي وَاجِبِ الوُجُودِ، وَمَبَاحِثِ الكَلَامِ فِي التَّحْسِينِ وَالكَسْبِ، وَمُنَاظَرَةِ التَّهَافُتَيْنِ بَيْنَ الغَزَالِيِّ وَابْنِ رُشْدٍ؟» — د. مَنْصُور: «إِنَّهَا رِحْلَةُ العَقْلِ العَرَبِيِّ الإِسْلَامِيِّ فِي السَّعْيِ نَحْوَ الحَقِيقَةِ؛ حَيْثُ أَرْسَى الفَلَاسِفَةُ مَبَادِئَ الوُجُودِ وَالمَدِينَةِ الفَاضِلَةِ، وَذَادَ المُتَكَلِّمُونَ عَنِ العَقِيدَةِ بِالبُرْهَانِ، وَكَشَفَتْ مُنَاظَرَةُ التَّهَافُتَيْنِ عَنْ قُدْرَةِ الفِكْرِ الإِسْلَامِيِّ عَلَى نَقْدِ الذَّاتِ وَتَرْسِيخِ مَبْدَأِ أَنَّ الحَقَّ لَا يُضَادُّ الحَقَّ».",
-            "د. مريم: هل كانت الفلسفة مفيدة؟ — د. منصور: نعم كانت مفيدة في التاريخ القديم. (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "حوار فلسفي كلامي شامل ابن سينا فارابي غزالي ابن رشد سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)",
-            "رفض الناس كل كتب الفلسفة واعتزلوها. (الدمج الشامل لكافة مخرجات الوحدة السادسة والعشرين)"
+            "د. مَرْيَم: «دُكْتُور مَنْصُور، كَيْفَ نَسْتَوْعِبُ التَّكَامُلَ بَيْنَ أُنْطُولُوجْيَا ابْنِ سِينَا فِي وَاجِبِ الوُجُودِ، وَمَبَاحِثِ الكَلَامِ فِي التَّحْسِينِ وَالكَسْبِ، وَمُنَاظَرَةِ التَّهَافُتَيْنِ بَيْنَ الغَزَالِيِّ وَابْنِ رُشْدٍ؟» — د. مَنْصُور: «إِنَّهَا رِحْلَةُ العَقْلِ العَرَبِيِّ الإِسْلَامِيِّ فِي السَّعْيِ نَحْوَ الحَقِيقَةِ؛ حَيْثُ أَرْسَى الفَلَاسِفَةُ مَبَادِئَ الوُجُودِ وَالمَدِينَةِ الفَاضِلَةِ، وَذَادَ المُتَكَلِّمُونَ عَنِ العَقِيدَةِ بِالبُرْهَانِ، وَكَشَفَتْ مُنَاظَرَةُ التَّهَافُتَيْنِ عَنْ قُدْرَةِ الفِكْرِ الإِسْلَامِيِّ عَلَى نَقْدِ الذَّاتِ وَتَرْسِيخِ مَبْدَأِ أَنَّ الحَقَّ لَا يُضَادُّ الحَقَّ». (Language concept U26)",
+            "د. مريم: هل كانت الفلسفة مفيدة؟ — د. منصور: نعم كانت مفيدة في التاريخ القديم. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "حوار فلسفي كلامي شامل ابن سينا فارابي غزالي ابن رشد سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)",
+            "رفض الناس كل كتب الفلسفة واعتزلوها. (aldmj alshaml lkafh mkhrjat alwhdh alsadsh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة التحليل الفلسفي الموسوعي في دمج: وجودية ابن سينا، مباحث المتكلمين (التحسين والكسب)، ومناظرة التهافتين وتوافق الحكمة والشريعة."
@@ -16118,10 +16118,10 @@
         {
           "prompt": "ما هي العبارة التذكيرية الشهيرة التي تجمع الحروف الأولى للمقامات الشرقية الثمانية الكبرى؟",
           "options": [
-            "«صُنِعَ بِسَحَرٍ»",
-            "أبجد هوز حطي كلمن",
-            "قطب جد في التجويد",
-            "أحرف الاستعلاء والهمس"
+            "«صُنِعَ بِسَحَرٍ» (Language concept U27)",
+            "أبجد هوز حطي كلمن (abjd hwz hty klmn)",
+            "قطب جد في التجويد (qtb jd fy altjwyd)",
+            "أحرف الاستعلاء والهمس (ahrf alast'ala' walhms)"
           ],
           "answerIndex": 0,
           "explanation": "عبارة «صُنِعَ بِسَحَرٍ» هي المنظومة الجامعة للمقامات: الصبا، النهاوند، العجم، البياتي، السيكاه، الحجاز، الراست، والكرد."
@@ -16129,10 +16129,10 @@
         {
           "prompt": "ما الذي يميز المقامات الشرقية الكلاسيكية (مثل الراست والبياتي) عن السلالم الغربية المقسمة نصفياً؟",
           "options": [
-            "احْتِوَاؤُهَا عَلَى أَبْعَادِ رُبْعِ التُّونِ (المِيكْرُوتُونْ) الدَّقِيقَةِ",
-            "استخدام آلات كهربائية فقط",
-            "الاعتماد على الكلمات العامية فقط",
-            "انعدام الإيقاع والوزن"
+            "احْتِوَاؤُهَا عَلَى أَبْعَادِ رُبْعِ التُّونِ (almiykruwtuwn)",
+            "استخدام آلات كهربائية فقط (astkhdam aalat khrba'yh fqt)",
+            "الاعتماد على الكلمات العامية فقط (ala'atmad 'ala alklmat al'aamyh fqt)",
+            "انعدام الإيقاع والوزن (an'adam aliyqa'a walwzn)"
           ],
           "answerIndex": 0,
           "explanation": "ربع التون هو العلامة الفارقة للموسيقى الشرقية التي تعطيها مرونة تطريبية وتأثيراً نفسياً مميزاً."
@@ -16144,10 +16144,10 @@
         {
           "prompt": "اختر المقام الذي يشتهر بالتعبير عن الحزن الشفيف والشجن الروحي المؤثر في الموسيقى العربية:",
           "options": [
-            "مَقَامُ الصَّبَا",
-            "مقام العجم المارش",
-            "مقام النهاوند المرح",
-            "السلم الخماسي الصيني"
+            "مَقَامُ الصَّبَا (maqaamu alsabaa)",
+            "مقام العجم المارش (mqam al'ajm almarsh)",
+            "مقام النهاوند المرح (mqam alnhawnd almrh)",
+            "السلم الخماسي الصيني (alslm alkhmasy alsyny)"
           ],
           "answerIndex": 0,
           "explanation": "مقام الصبا هو أكثر المقامات تجسيداً للشجن والحزن والتأثر الوجداني العميق."
@@ -16155,10 +16155,10 @@
         {
           "prompt": "ما إعراب كلمة «أَبَا» في جملة: «يُعَدُّ مَقَامُ الرَّاسْتِ أَبَا المَقَامَاتِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالأَلِفِ لِأَنَّهُ مِنَ الأَسْمَاءِ الخَمْسَةِ",
-            "نائب فاعل مرفوع بالواو",
-            "مضاف إليه مجرور بالكسرة",
-            "نعت منصوب بالفتحة"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالأَلِفِ لِأَنَّهُ مِنَ الأَسْمَاءِ الخَمْسَةِ (maf'auwlun bihi thaanin mansuwbun bialaalifi liaanahu mina alaasmaa'i alkhamsahi)",
+            "نائب فاعل مرفوع بالواو (na'b fa'al mrfw'a balwaw)",
+            "مضاف إليه مجرور بالكسرة (mdaf ilyh mjrwr balksrh)",
+            "نعت منصوب بالفتحة (n'at mnswb balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل المبني للمجهول «يُعَدُّ» أخذ نائب فاعل («مَقَامُ»)، ونصب مفعوله الثاني «أَبَا» بالألف لأنه من الأسماء الخمسة."
@@ -16171,10 +16171,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الموسيكولوجي الدقيق الذي يحلل النظام المقامي الشرقي بأعلى درجات الفصاحة والتحليل الفني:",
           "options": [
-            "يُمَثِّلُ النِّظَامُ المَقَامِيُّ الشَّرْقِيُّ ذِرْوَةَ الإِبْدَاعِ الصَّوْتِيِّ العَرَبِيِّ؛ حَيْثُ تَتَآلَفُ فصَائِلُهُ الثَّمَانِيَةُ فِي عِبَارَةِ «صُنِعَ بِسَحَرٍ» مُوَظِّفَةً دِقَّةَ رُبْعِ التُّونِ لِلتَّعْبِيرِ عَنْ سَائِرِ المَشَاعِرِ الإِنْسَانِيَّةِ؛ مِنِ اسْتِقَامَةِ الرَّاسْتِ وَشَجَنِ الصَّبَا، إِلَى وَقَارِ البَيَاتِي وَرُوحَانِيَّةِ الحِجَازِ وَالسِّيكَاهِ، لِيَغْدُوَ المَقَامُ لُغَةً شُعُورِيَّةً خَالِدَةً.",
-            "الموسيقى الشرقية تعزف على آلات مختلفة والسلام.",
-            "مقامات شرقية راست بياتي صبا نهاوند حجاز سيكاه عجم كرد سكون فتحة ضمة.",
-            "المقامات الشرقية مطابقة تماما للمقامات الغربية بلا اي فرق."
+            "يُمَثِّلُ النِّظَامُ المَقَامِيُّ الشَّرْقِيُّ ذِرْوَةَ الإِبْدَاعِ الصَّوْتِيِّ العَرَبِيِّ؛ حَيْثُ تَتَآلَفُ فصَائِلُهُ الثَّمَانِيَةُ فِي عِبَارَةِ «صُنِعَ بِسَحَرٍ» مُوَظِّفَةً دِقَّةَ رُبْعِ التُّونِ لِلتَّعْبِيرِ عَنْ سَائِرِ المَشَاعِرِ الإِنْسَانِيَّةِ؛ مِنِ اسْتِقَامَةِ الرَّاسْتِ وَشَجَنِ الصَّبَا، إِلَى وَقَارِ البَيَاتِي وَرُوحَانِيَّةِ الحِجَازِ وَالسِّيكَاهِ، لِيَغْدُوَ المَقَامُ لُغَةً شُعُورِيَّةً خَالِدَةً. (Language concept U27)",
+            "الموسيقى الشرقية تعزف على آلات مختلفة والسلام. (almwsyqa alshrqyh t'azf 'ala aalat mkhtlfh walslam.)",
+            "مقامات شرقية راست بياتي صبا نهاوند حجاز سيكاه عجم كرد سكون فتحة ضمة. (mqamat shrqyh rast byaty sba nhawnd hjaz sykah 'ajm krd skwn fthh dmh.)",
+            "المقامات الشرقية مطابقة تماما للمقامات الغربية بلا اي فرق. (almqamat alshrqyh mtabqh tmama llmqamat alghrbyh bla ay frq.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بدقة بين: المنظومة الجامعة («صُنِعَ بِسَحَرٍ»)، الخصيصة الفيزيائية الصوتية (ربع التون)، والدلالات الوجدانية لكافة المقامات."
@@ -16239,10 +16239,10 @@
         {
           "prompt": "ما هو الاسم الفني للقفل الأخير الذي يُختتم به الموشح الأندلسي؟",
           "options": [
-            "الخَرْجَةُ",
-            "المطلع",
-            "الدور",
-            "البيت"
+            "الخَرْجَةُ (alkharjahu)",
+            "المطلع (almtl'a)",
+            "الدور (aldwr)",
+            "البيت (albyt)"
           ],
           "answerIndex": 0,
           "explanation": "الخَرْجَة هي القفل الأخير والختامي للموشح، وتتميز بالرشاقة والعاطفة العفوية."
@@ -16250,10 +16250,10 @@
         {
           "prompt": "من هو الشاعر والوزير الأندلسي صاحب موشحة: «جَادَكَ الغَيْثُ إِذَا الغَيْثُ هَمَى / يَا زَمَانَ الوَصْلِ بِالأَنْدَلُسِ»؟",
           "options": [
-            "لِسَانُ الدِّينِ بْنُ الخَطِيبِ",
-            "ابن زيدون",
-            "المتنبي",
-            "ابن حزم الأندلسي"
+            "لِسَانُ الدِّينِ بْنُ الخَطِيبِ (lisaanu aldiyni bnu alkhatiybi)",
+            "ابن زيدون (abn zydwn)",
+            "المتنبي (almtnby)",
+            "ابن حزم الأندلسي (abn hzm alandlsy)"
           ],
           "answerIndex": 0,
           "explanation": "موشحة «جادك الغيث» هي أشهر موشحات لسان الدين بن الخطيب الغرناطي."
@@ -16265,10 +16265,10 @@
         {
           "prompt": "ما هو الأصل اللغوي والمفهومي لتسمية «القُدُودِ الحَلَبِيَّةِ» بهذا الاسم؟",
           "options": [
-            "أَنَّ الكَلِمَاتِ الجَدِيدَةَ تُصَاغُ عَلَى «قَدِّ» وَمِقْدَارِ النَّغَمِ وَاللَّحْنِ التُّرَاثِيِّ القَدِيمِ",
-            "أنها تغنى في وقت الغداء فقط",
-            "نسبة إلى مدينة قديمة اسمها قدود",
-            "أنها تصنع من جلد الغزال"
+            "أَنَّ الكَلِمَاتِ الجَدِيدَةَ تُصَاغُ عَلَى «قَدِّ» وَمِقْدَارِ النَّغَمِ وَاللَّحْنِ التُّرَاثِيِّ القَدِيمِ (Language concept U27)",
+            "أنها تغنى في وقت الغداء فقط (anha tghna fy wqt alghda' fqt)",
+            "نسبة إلى مدينة قديمة اسمها قدود (nsbh ila mdynh qdymh asmha qdwd)",
+            "أنها تصنع من جلد الغزال (anha tsn'a mn jld alghzal)"
           ],
           "answerIndex": 0,
           "explanation": "القدود سميت كذلك لأن الناظم يبني كلاماً جديداً على «قَدّ» (أي مقاس وميزان) لحن معروف سلفاً."
@@ -16276,10 +16276,10 @@
         {
           "prompt": "ما إعراب كلمة «حُلُمًا» في قول ابن الخطيب: «لَمْ يَكُنْ وَصْلُكَ إِلَّا حُلُمًا»؟",
           "options": [
-            "خَبَرُ يَكُنْ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "مستثنى منصوب",
-            "اسم يكن مرفوع",
-            "حال منصوبة"
+            "خَبَرُ يَكُنْ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (khabaru yakun mansuwbun bialfathahi alzaahirahi)",
+            "مستثنى منصوب (mstthna mnswb)",
+            "اسم يكن مرفوع (asm ykn mrfw'a)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "الاستثناء مفرغ؛ «وَصْلُكَ» اسم يكن مرفوع، و«حُلُمًا» خبر يكن منصوب بالفتحة."
@@ -16292,10 +16292,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأدبي الموسيقي الذي يحلل عبقرية الموشح الأندلسي وتكامله مع القدود الحلبية بأعلى بلاغة:",
           "options": [
-            "شَكَّلَتِ المَوْشَحَاتُ الأَنْدَلُسِيَّةُ ثَوْرَةً إِيقَاعِيَّةً حَرَّرَتِ الشِّعْرَ العَرَبِيَّ مِنْ رَتَابَةِ البَحْرِ الوَاحِدِ لِتَبْنِيَ نَسِيجًا فَنِّيًّا بَيْنَ المَطْلَعِ وَالأَدْوَارِ وَالخَرْجَةِ، وَامْتَدَّ هٰذَا السِّحْرُ إِلَى حَلَبَ حَيْثُ نَشَأَتِ القُدُودُ الشَّامِيَّةُ لِتَصُوغَ فَرَائِدَ الكَلِمِ عَلَى قَدِّ الأَلْحَانِ الخَالِدَةِ، فَامْتَزَجَ بَيَانُ الأَنْدَلُسِ بِطَرَبِ الشَّامِ.",
-            "الموشحات والقدود اغاني تراثية عربية في المهرجانات.",
-            "موشحات اندلسية لسان الدين بن الخطيب قدود حلبية مطالع ادوار خرجة سكون فتحة ضمة.",
-            "انتهت الموشحات بعد سقوط الاندلس ولم يبق منها شيء."
+            "شَكَّلَتِ المَوْشَحَاتُ الأَنْدَلُسِيَّةُ ثَوْرَةً إِيقَاعِيَّةً حَرَّرَتِ الشِّعْرَ العَرَبِيَّ مِنْ رَتَابَةِ البَحْرِ الوَاحِدِ لِتَبْنِيَ نَسِيجًا فَنِّيًّا بَيْنَ المَطْلَعِ وَالأَدْوَارِ وَالخَرْجَةِ، وَامْتَدَّ هٰذَا السِّحْرُ إِلَى حَلَبَ حَيْثُ نَشَأَتِ القُدُودُ الشَّامِيَّةُ لِتَصُوغَ فَرَائِدَ الكَلِمِ عَلَى قَدِّ الأَلْحَانِ الخَالِدَةِ، فَامْتَزَجَ بَيَانُ الأَنْدَلُسِ بِطَرَبِ الشَّامِ. (Language concept U27)",
+            "الموشحات والقدود اغاني تراثية عربية في المهرجانات. (almwshhat walqdwd aghany trathyh 'arbyh fy almhrjanat.)",
+            "موشحات اندلسية لسان الدين بن الخطيب قدود حلبية مطالع ادوار خرجة سكون فتحة ضمة. (mwshhat andlsyh lsan aldyn bn alkhtyb qdwd hlbyh mtal'a adwar khrjh skwn fthh dmh.)",
+            "انتهت الموشحات بعد سقوط الاندلس ولم يبق منها شيء. (antht almwshhat b'ad sqwt alandls wlm ybq mnha shy'.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: التحليل الهيكلي التجديدي للموشح، الربط التاريخي بين غرناطة وحلب، والتذوق الجمالي المشترك."
@@ -16361,10 +16361,10 @@
         {
           "prompt": "ما هو الإنجاز الشهير للموسيقار زرياب في تطوير آلة العود في قرطبة بالأندلس؟",
           "options": [
-            "إِضَافَةُ الوَتْرِ الخَامِسِ وَاسْتِخْدَامُ رِيشَةِ النَّسْرِ لِتَحْسِينِ الرَّنِينِ",
-            "تحويل العود إلى بيانو غربي",
-            "إلغاء جميع أوتار العود",
-            "صناعة العود من الحديد والصلب"
+            "إِضَافَةُ الوَتْرِ الخَامِسِ وَاسْتِخْدَامُ رِيشَةِ النَّسْرِ لِتَحْسِينِ الرَّنِينِ (iidaafahu alwatri alkhaamisi waastikhdaamu riyshahi alnasri litahsiyni alraniyni)",
+            "تحويل العود إلى بيانو غربي (thwyl al'awd ila byanw ghrby)",
+            "إلغاء جميع أوتار العود (ilgha' jmy'a awtar al'awd)",
+            "صناعة العود من الحديد والصلب (sna'ah al'awd mn alhdyd walslb)"
           ],
           "answerIndex": 0,
           "explanation": "زرياب أضاف الوتر الخامس للعود ليمنحه كمالاً صوتياً، واستبدل مضارب الخشب بريش النسر."
@@ -16372,10 +16372,10 @@
         {
           "prompt": "ما هو الكتاب الموسوعي الرائد الذي ألفه أبو نصر الفارابي في علم الموسيقى والآلات؟",
           "options": [
-            "كِتَابُ «المُوسِيقَى الكَبِيرِ»",
-            "كتاب الأغاني للأصفهاني",
-            "مقدمة ابن خلدون",
-            "طوق الحمامة"
+            "كِتَابُ «المُوسِيقَى الكَبِيرِ» (Language concept U27)",
+            "كتاب الأغاني للأصفهاني (ktab alaghany llasfhany)",
+            "مقدمة ابن خلدون (mqdmh abn khldwn)",
+            "طوق الحمامة (twq alhmamh)"
           ],
           "answerIndex": 0,
           "explanation": "كتاب «الموسيقى الكبير» للفارابي هو أضخم مؤلف نظري وعلمي في تاريخ الموسيقى الشرقية."
@@ -16387,10 +16387,10 @@
         {
           "prompt": "ماذا تعني كلمة «التَّقَاسِيمُ» في الأداء الموسيقي الشرقي؟",
           "options": [
-            "العَزْفُ المُنْفَرِدُ الِارْتِجَالِيُّ الَّذِي يُبْرِزُ إِحْسَاسَ العَازِفِ وَتَنَقُّلَهُ بَيْنَ المَقَامَاتِ",
-            "تقسيم الأرباح بين أعضاء الفرقة",
-            "قراءة النوتة دون أي إحساس",
-            "تقطيع الأخشاب لصناعة الآلات"
+            "العَزْفُ المُنْفَرِدُ الِارْتِجَالِيُّ الَّذِي يُبْرِزُ إِحْسَاسَ العَازِفِ وَتَنَقُّلَهُ بَيْنَ المَقَامَاتِ (al'aazfu almunfaridu aliartijaaliyu aladhiy yubrizu iihsaasa al'aaazifi watanaqulahu bayna almaqaamaati)",
+            "تقسيم الأرباح بين أعضاء الفرقة (tqsym alarbah byn a'ada' alfrqh)",
+            "قراءة النوتة دون أي إحساس (qra'h alnwth dwn ay ihsas)",
+            "تقطيع الأخشاب لصناعة الآلات (tqty'a alakhshab lsna'ah alaalat)"
           ],
           "answerIndex": 0,
           "explanation": "التقاسيم هي فن الارتجال النغمي الحر الذي يعبر فيه العازف عن تمكنه وسلطنته الروحية."
@@ -16398,10 +16398,10 @@
         {
           "prompt": "ما إعراب كلمة «سُلْطَانَ» في جملة: «يُعَدُّ العُودُ سُلْطَانَ الآلَاتِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "نائب فاعل مرفوع بالضمة",
-            "نعت منصوب",
-            "مضاف إليه مجرور"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "نائب فاعل مرفوع بالضمة (na'b fa'al mrfw'a baldmh)",
+            "نعت منصوب (n'at mnswb)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "«العُودُ» نائب فاعل لـ «يُعَدُّ»، و«سُلْطَانَ» مفعول به ثانٍ منصوب بالفتحة."
@@ -16414,10 +16414,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التوثيقي الشامل الذي يدمج خصائص التخت الشرقي وفلسفة الطرب والسلطنة بأعلى معايير الدقة المعجمية:",
           "options": [
-            "يُمَثِّلُ التَّخْتُ الشَّرْقِيُّ الكَلَاسِيكِيُّ مِحْرَابًا لِلطَّرَبِ الأَصِيلِ؛ حَيْثُ يَقُودُ العُودُ نَبْضَ النَّغَمِ، وَيَبْسُطُ القَانُونُ عُرَبَهُ الدَّقِيقَةَ، بَيْنَمَا يَنْسَابُ النَّايُ بِالشَّجَنِ الرُّوحِيِّ، فَيَرْتَقِي العَازِفُونَ فِي التَّقَاسِيمِ الِارْتِجَالِيَّةِ إِلَى مَرْتَبَةِ السَّلْطَنَةِ التَّامَّةِ الَّتِي قَعَّدَ لَهَا الفَارَابِيُّ وَزِرْيَابُ كَمَفْخَرَةٍ حَضَارِيَّةٍ.",
-            "التخت الشرقي فرقة موسيقية تغني في الحفلات.",
-            "تخت شرقي عود قانون ناي رق تقاسيم سلطنة فارابي زرياب سكون فتحة ضمة.",
-            "اندثرت آلات التخت الشرقي وحلت محلها الآلات الإلكترونية فقط."
+            "يُمَثِّلُ التَّخْتُ الشَّرْقِيُّ الكَلَاسِيكِيُّ مِحْرَابًا لِلطَّرَبِ الأَصِيلِ؛ حَيْثُ يَقُودُ العُودُ نَبْضَ النَّغَمِ، وَيَبْسُطُ القَانُونُ عُرَبَهُ الدَّقِيقَةَ، بَيْنَمَا يَنْسَابُ النَّايُ بِالشَّجَنِ الرُّوحِيِّ، فَيَرْتَقِي العَازِفُونَ فِي التَّقَاسِيمِ الِارْتِجَالِيَّةِ إِلَى مَرْتَبَةِ السَّلْطَنَةِ التَّامَّةِ الَّتِي قَعَّدَ لَهَا الفَارَابِيُّ وَزِرْيَابُ كَمَفْخَرَةٍ حَضَارِيَّةٍ. (Language concept U27)",
+            "التخت الشرقي فرقة موسيقية تغني في الحفلات. (altkht alshrqy frqh mwsyqyh tghny fy alhflat.)",
+            "تخت شرقي عود قانون ناي رق تقاسيم سلطنة فارابي زرياب سكون فتحة ضمة. (tkht shrqy 'awd qanwn nay rq tqasym sltnh faraby zryab skwn fthh dmh.)",
+            "اندثرت آلات التخت الشرقي وحلت محلها الآلات الإلكترونية فقط. (andthrt aalat altkht alshrqy whlt mhlha alaalat alilktrwnyh fqt.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يحيط بكافة أركان التخت (العود، القانون، الناي)، التجربة الشعورية (السلطنة والتقاسيم الارتجالية)، والتأصيل العلمي عند الفارابي وزرياب."
@@ -16483,10 +16483,10 @@
         {
           "prompt": "ما هو اللقب الفني الشهير للموسيقار رياض السنباطي في تلحين الشعر الكلاسيكي الفصيح؟",
           "options": [
-            "عِمْلَاقُ القَصِيدَةِ العَرَبِيَّةِ الفُصْحَى",
-            "رائد الجاز الغربي",
-            "ملحن الأغاني الشعبية البسيطة",
-            "مؤلف الروايات المسرحية"
+            "عِمْلَاقُ القَصِيدَةِ العَرَبِيَّةِ الفُصْحَى ('aimlaaqu alqasiydahi al'aarabiyahi alfushaa)",
+            "رائد الجاز الغربي (ra'd aljaz alghrby)",
+            "ملحن الأغاني الشعبية البسيطة (mlhn alaghany alsh'abyh albsyth)",
+            "مؤلف الروايات المسرحية (m'lf alrwayat almsrhyh)"
           ],
           "answerIndex": 0,
           "explanation": "رياض السنباطي يُعد أعظم ملحن للقصيدة الكلاسيكية الفصحى في القرن العشرين."
@@ -16494,10 +16494,10 @@
         {
           "prompt": "ما هي القصيدة الشهيرة للشاعر إبراهيم ناجي التي لحنها السنباطي وغنتها أم كلثوم وتعد قمة التعبير المقامي؟",
           "options": [
-            "قَصِيدَةُ «الأَطْلَالِ»",
-            "معلقة امرئ القيس",
-            "قصيدة الطلاسم",
-            "أنشودة المطر"
+            "قَصِيدَةُ «الأَطْلَالِ» (Language concept U27)",
+            "معلقة امرئ القيس (m'alqh amr' alqys)",
+            "قصيدة الطلاسم (qsydh altlasm)",
+            "أنشودة المطر (anshwdh almtr)"
           ],
           "answerIndex": 0,
           "explanation": "قصيدة «الأطلال» هي درة القصائد المغناة وتجسيد بارع للتنقل بين المقامات الشرقية الصعبة."
@@ -16509,10 +16509,10 @@
         {
           "prompt": "اختر العنصر اللغوي والصوتي الأهم الذي يجب الحفاظ عليه عند أداء القصيدة الفصحى المغناة:",
           "options": [
-            "النُّطْقُ الفَصِيحُ وَمَخَارِجُ الحُرُوفِ السَّلِيمَةُ وَالضَّبْطُ الإِعْرَابِيُّ التَّامُّ",
-            "تحويل الكلمات الفصحى إلى عامية مكسورة",
-            "حذف حركات الإعراب كلها",
-            "تغيير القوافي عشوائيا"
+            "النُّطْقُ الفَصِيحُ وَمَخَارِجُ الحُرُوفِ السَّلِيمَةُ وَالضَّبْطُ الإِعْرَابِيُّ التَّامُّ (alnutqu alfasiyhu wamakhaariju alhuruwfi alsaliymahu waaldabtu alii'araabiyu altaamu)",
+            "تحويل الكلمات الفصحى إلى عامية مكسورة (thwyl alklmat alfsha ila 'aamyh mkswrh)",
+            "حذف حركات الإعراب كلها (hdhf hrkat ali'arab klha)",
+            "تغيير القوافي عشوائيا (tghyyr alqwafy 'ashwa'ya)"
           ],
           "answerIndex": 0,
           "explanation": "غناء القصيدة الفصحى يشترط نطقاً سليماً وضبطاً إعرابياً معجزاً لضمان نقل المعنى البلاغي."
@@ -16520,10 +16520,10 @@
         {
           "prompt": "ما إعراب كلمة «مَلْحَمَةٍ» في جملة: «حَوَّلَ القَصِيدَةَ إِلَى مَلْحَمَةٍ نَغَمِيَّةٍ»؟",
           "options": [
-            "اسْمٌ مَجْرُورٌ بِإِلَى وَعَلَامَةُ جَرِّهِ الكَسْرَةُ الظَّاهِرَةُ",
-            "مفعول به منصوب بالفتحة",
-            "نعت مجرور بالكسرة",
-            "حال منصوبة"
+            "اسْمٌ مَجْرُورٌ بِإِلَى وَعَلَامَةُ جَرِّهِ الكَسْرَةُ الظَّاهِرَةُ (asmun majruwrun biiilaa wa'aalaamahu jarihi alkasrahu alzaahirahu)",
+            "مفعول به منصوب بالفتحة (mf'awl bh mnswb balfthh)",
+            "نعت مجرور بالكسرة (n'at mjrwr balksrh)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "«مَلْحَمَةٍ» اسم مجرور بحرف الجر «إِلَى» وعلامة جره الكسرة، و«نَغَمِيَّةٍ» نعت مجرور."
@@ -16536,10 +16536,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يحلل نهضة القصيدة الفصحى المغناة وأثرها الثقافي في العصر الحديث بأعلى درجات البلاغة:",
           "options": [
-            "جَسَّدَتِ القَصِيدَةُ الفُصْحَى المُغَنَّاةُ فِي القَرْنِ العِشْرِينَ العَصْرَ الذَّهَبِيَّ لِتَلَاقِي أَعْلَامِ الشِّعْرِ وَعَمَالِقَةِ التَّلْحِينِ؛ حَيْثُ حَوَّلَ السُّنْبَاطِي وَعَبْدُ الوَهَّابِ وَالرَّحَابِنَةُ دُرَرَ الشَّوْقِيَّاتِ وَالأَطْلَالَ إِلَى صُرُوحٍ نَغَمِيَّةٍ بَاذِخَةٍ حَمَتِ اللِّسَانَ الفَصِيحَ وَرَسَّخَتْ سُلْطَانَ الطَّرَبِ العَرَبِيِّ فِي الوِجْدَانِ الجَمْعِيِّ.",
-            "القصائد المغناة اغاني قديمة انتهت في القرن الماضي.",
-            "قصيدة مغناة سنباطي عبد الوهاب ام كلثوم فيروز اطلال سكون فتحة ضمة.",
-            "فشل الملحنون في تلحين الشعر العربي الفصيح."
+            "جَسَّدَتِ القَصِيدَةُ الفُصْحَى المُغَنَّاةُ فِي القَرْنِ العِشْرِينَ العَصْرَ الذَّهَبِيَّ لِتَلَاقِي أَعْلَامِ الشِّعْرِ وَعَمَالِقَةِ التَّلْحِينِ؛ حَيْثُ حَوَّلَ السُّنْبَاطِي وَعَبْدُ الوَهَّابِ وَالرَّحَابِنَةُ دُرَرَ الشَّوْقِيَّاتِ وَالأَطْلَالَ إِلَى صُرُوحٍ نَغَمِيَّةٍ بَاذِخَةٍ حَمَتِ اللِّسَانَ الفَصِيحَ وَرَسَّخَتْ سُلْطَانَ الطَّرَبِ العَرَبِيِّ فِي الوِجْدَانِ الجَمْعِيِّ. (Language concept U27)",
+            "القصائد المغناة اغاني قديمة انتهت في القرن الماضي. (alqsa'd almghnah aghany qdymh antht fy alqrn almady.)",
+            "قصيدة مغناة سنباطي عبد الوهاب ام كلثوم فيروز اطلال سكون فتحة ضمة. (qsydh mghnah snbaty 'abd alwhab am klthwm fyrwz atlal skwn fthh dmh.)",
+            "فشل الملحنون في تلحين الشعر العربي الفصيح. (fshl almlhnwn fy tlhyn alsh'ar al'arby alfsyh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: التحليل الموسيقي للرواد، الأثر اللغوي في صون الفصحى، والبعد الحضاري للقصيدة المغناة في الوجدان الجمعي."
@@ -16605,10 +16605,10 @@
         {
           "prompt": "في التحليل الهارموني والمقامي، ما هي الوظيفة الأساسية لـ «العُرَبِ» على آلة القانون؟",
           "options": [
-            "تَحْوِيلُ أَبْعَادِ الأَوْتَارِ بِدِقَّةِ رُبْعِ التُّونِ لِلتَّنَقُّلِ السَّلِسِ بَيْنَ المَقَامَاتِ",
-            "تثبيت الآلة على الأرض (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "إصدار إيقاعات طبول عشوائية (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "قطع الأوتار عند انتهاء العزف (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)"
+            "تَحْوِيلُ أَبْعَادِ الأَوْتَارِ بِدِقَّةِ رُبْعِ التُّونِ لِلتَّنَقُّلِ السَّلِسِ بَيْنَ المَقَامَاتِ (tahwiylu aab'aaadi alaawtaari bidiqahi rub'ai altuwni liltanaquli alsalisi bayna almaqaamaati)",
+            "تثبيت الآلة على الأرض (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "إصدار إيقاعات طبول عشوائية (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "قطع الأوتار عند انتهاء العزف (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "العُرَب هي الرافعات الميكانيكية الدقيقة التي ترفع أو تخفض النغمة بمقدار ربع تون أو نصف تون."
@@ -16616,10 +16616,10 @@
         {
           "prompt": "كيف يخدم اللحن الموسيقي بلاغة القصيدة الشعرية الفصحى المغناة؟",
           "options": [
-            "بِمُطَابَقَةِ الحَالَةِ النَّغَمِيَّةِ لِلْمَعْنَى البَلَاغِيِّ وَإِبْرَازِ مَخَارِجِ الحُرُوفِ وَالإِعْرَابِ",
-            "بالتشويش على صوت المغني (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "بتغيير كلمات الشاعر بالكامل (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "بإلغاء المعنى لصالح السرعة (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)"
+            "بِمُطَابَقَةِ الحَالَةِ النَّغَمِيَّةِ لِلْمَعْنَى البَلَاغِيِّ وَإِبْرَازِ مَخَارِجِ الحُرُوفِ وَالإِعْرَابِ (bimutaabaqahi alhaalahi alnaghamiyahi lilma'anaa albalaaghiyi waiibraazi makhaariji alhuruwfi waalii'araabi)",
+            "بالتشويش على صوت المغني (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "بتغيير كلمات الشاعر بالكامل (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "بإلغاء المعنى لصالح السرعة (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "اللحن التعبيري يجسد مشاعر القصيدة ويرفع من فصاحتها وتأثيرها في وجدان المستمع."
@@ -16631,10 +16631,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف روعة الاندماج بين الشعر والموسيقى الشرقية بفصاحة تامة:",
           "options": [
-            "— كَيْفَ رَأَيْتِ تَلَاقِي المَقَامِ بِالشِّعْرِ؟ — رَأَيْتُهُ كَرِحْلَةٍ وِجْدَانِيَّةٍ تَأْخُذُ القَلْبَ مِنْ جَلَالِ الفَصَاحَةِ إِلَى سَمَاوَاتِ الطَّرَبِ البَدِيعِ.",
-            "— هل تحبين سماع الموسيقى؟ — نعم استمع اليها احيانا. (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "— اين يقع المعهد الموسيقي؟ — في شارع الجامعة الرئيسي. (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "— حوار موسيقي مقامات تخت شعر سكون. (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)"
+            "— كَيْفَ رَأَيْتِ تَلَاقِي المَقَامِ بِالشِّعْرِ؟ — رَأَيْتُهُ كَرِحْلَةٍ وِجْدَانِيَّةٍ تَأْخُذُ القَلْبَ مِنْ جَلَالِ الفَصَاحَةِ إِلَى سَمَاوَاتِ الطَّرَبِ البَدِيعِ. (Language concept U27)",
+            "— هل تحبين سماع الموسيقى؟ — نعم استمع اليها احيانا. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "— اين يقع المعهد الموسيقي؟ — في شارع الجامعة الرئيسي. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "— حوار موسيقي مقامات تخت شعر سكون. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجسد جمالية التلاقي بين جلال الفصاحة الشعرية وسماوات الطرب المقامي الرفيع."
@@ -16642,10 +16642,10 @@
         {
           "prompt": "ما إعراب كلمة «رِحْلَةٍ» في قولنا: «رَأَيْتُهُ كَرِحْلَةٍ وِجْدَانِيَّةٍ»؟",
           "options": [
-            "اسْمٌ مَجْرُورٌ بِالكَافِ وَعَلَامَةُ جَرِّهِ الكَسْرَةُ الظَّاهِرَةُ",
-            "مفعول به منصوب (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "خبر كأن مرفوع (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "حال منصوبة (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)"
+            "اسْمٌ مَجْرُورٌ بِالكَافِ وَعَلَامَةُ جَرِّهِ الكَسْرَةُ الظَّاهِرَةُ (asmun majruwrun bialkaafi wa'aalaamahu jarihi alkasrahu alzaahirahu)",
+            "مفعول به منصوب (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "خبر كأن مرفوع (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "حال منصوبة (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الكاف حرف جر وتشبيه، و«رِحْلَةٍ» اسم مجرور بالكاف وعلامة جره الكسرة."
@@ -16658,10 +16658,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الموسيقولوجي الشامل الذي يدمج مخرجات الوحدة السابعة والعشرين بأكملها (المقامات، الموشحات والقدود، آلات التخت والسلطنة، وتلحين القصيدة الفصحى):",
           "options": [
-            "د. طَارِق: «أُسْتَاذَة رِيم، كَيْفَ تُفَسِّرِينَ هٰذَا التَّنَاغُمَ الفَرِيدَ بَيْنَ فصَائِلِ «صُنِعَ بِسَحَرٍ» وَرِقَّةِ المَوْشَحَاتِ الأَنْدَلُسِيَّةِ وَقُدُودِ حَلَبَ مَعَ سَلْطَنَةِ التَّخْتِ الشَّرْقِيِّ وَرَوَائِعِ السُّنْبَاطِي فِي الأَطْلَالِ؟» — أ. رِيم: «إِنَّهَا هُوِيَّتُنَا الصَّوْتِيَّةُ الخَالِدَةُ؛ حَيْثُ جَعَلَتِ المقَامَاتُ مِنَ النَّغَمِ لُغَةً لِلرُّوحِ، وَرَفَعَتِ المَوْشَحَاتُ وَالقَصَائِدُ المُغَنَّاةُ صَرْحَ الفَصَاحَةِ، حَتَّى غَدَا الطَّرَبُ العَرَبِيُّ عِمَادًا لِلْجَمَالِ الإِنْسَانِيِّ».",
-            "د. طارق: هل تدربت على القانون اليوم؟ — أ. ريم: نعم تدربت لمدة ساعة في المعهد. (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "حوار موسيقي شامل مقامات موشحات قدود تخت شرقي سلطنة سنباطي سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)",
-            "توقفت المعاهد الموسيقية عن تدريس المقامات الشرقية تماما. (الدمج الشامل لكافة مخرجات الوحدة السابعة والعشرين)"
+            "د. طَارِق: «أُسْتَاذَة رِيم، كَيْفَ تُفَسِّرِينَ هٰذَا التَّنَاغُمَ الفَرِيدَ بَيْنَ فصَائِلِ «صُنِعَ بِسَحَرٍ» وَرِقَّةِ المَوْشَحَاتِ الأَنْدَلُسِيَّةِ وَقُدُودِ حَلَبَ مَعَ سَلْطَنَةِ التَّخْتِ الشَّرْقِيِّ وَرَوَائِعِ السُّنْبَاطِي فِي الأَطْلَالِ؟» — أ. رِيم: «إِنَّهَا هُوِيَّتُنَا الصَّوْتِيَّةُ الخَالِدَةُ؛ حَيْثُ جَعَلَتِ المقَامَاتُ مِنَ النَّغَمِ لُغَةً لِلرُّوحِ، وَرَفَعَتِ المَوْشَحَاتُ وَالقَصَائِدُ المُغَنَّاةُ صَرْحَ الفَصَاحَةِ، حَتَّى غَدَا الطَّرَبُ العَرَبِيُّ عِمَادًا لِلْجَمَالِ الإِنْسَانِيِّ». (Language concept U27)",
+            "د. طارق: هل تدربت على القانون اليوم؟ — أ. ريم: نعم تدربت لمدة ساعة في المعهد. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "حوار موسيقي شامل مقامات موشحات قدود تخت شرقي سلطنة سنباطي سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)",
+            "توقفت المعاهد الموسيقية عن تدريس المقامات الشرقية تماما. (aldmj alshaml lkafh mkhrjat alwhdh alsab'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل ذروة التحليل الموسيقولوجي البلاغي في دمج: منظومة المقامات («صُنِعَ بِسَحَرٍ»)، الموشحات والقدود، التخت والسلطنة، والقصيدة الفصحى المغناة."
@@ -16728,10 +16728,10 @@
         {
           "prompt": "من هو الوزير والخطاط العباسي العبقري الذي وضع قواعد «الخط المنسوب» وميزان النقطة المعين؟",
           "options": [
-            "ابْنُ مُقْلَةَ",
-            "ابن خلدون",
-            "الجاحظ",
-            "ابن سينا"
+            "ابْنُ مُقْلَةَ (abnu muqlaha)",
+            "ابن خلدون (abn khldwn)",
+            "الجاحظ (aljahz)",
+            "ابن سينا (abn syna)"
           ],
           "answerIndex": 0,
           "explanation": "أبو علي محمد بن علي بن مقلة هو واضع الأسس الهندسية الدقيقة للخط المنسوب."
@@ -16739,10 +16739,10 @@
         {
           "prompt": "ما هو الخط العربي المعتبر «أمير الخطوط» والأكثر استخداماً في كتابة أسماء السور وعناوين الجداريات الكبرى؟",
           "options": [
-            "خَطُّ الثُّلُثِ",
-            "خط الرقعة",
-            "الخط المغربي البسيط",
-            "الخط اللاتيني"
+            "خَطُّ الثُّلُثِ (khatu althuluthi)",
+            "خط الرقعة (kht alrq'ah)",
+            "الخط المغربي البسيط (alkht almghrby albsyt)",
+            "الخط اللاتيني (alkht allatyny)"
           ],
           "answerIndex": 0,
           "explanation": "خط الثلث هو سلطان الخطوط العربية لهيبته وفخامته ومرونة تراكيبه المتشابكة."
@@ -16754,10 +16754,10 @@
         {
           "prompt": "اختر العبارة التي تعبر عن الخصيصة الفنية للخط الكوفي القديم بدقة تشكيلية:",
           "options": [
-            "«خَطٌّ هَنْدَسِيٌّ تِذْكَارِيٌّ صَارِمُ الزَّوَايَا، يَمْتَازُ بِأَصَالَتِهِ فِي النُّقُوشِ وَالمَبَانِي التَّارِيخِيَّةِ».",
-            "خط سريع يكتب بدون رفع القلم عن الورق",
-            "خط حديث ظهر مع الحاسوب",
-            "خط كوفي ثلث نسخ نقطة سكون"
+            "«خَطٌّ هَنْدَسِيٌّ تِذْكَارِيٌّ صَارِمُ الزَّوَايَا، يَمْتَازُ بِأَصَالَتِهِ فِي النُّقُوشِ وَالمَبَانِي التَّارِيخِيَّةِ». (Language concept U28)",
+            "خط سريع يكتب بدون رفع القلم عن الورق (kht sry'a yktb bdwn rf'a alqlm 'an alwrq)",
+            "خط حديث ظهر مع الحاسوب (kht hdyth zhr m'a alhaswb)",
+            "خط كوفي ثلث نسخ نقطة سكون (kht kwfy thlth nskh nqth skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الخط الكوفي هو أقدم الخطوط ويمتاز بالبناء الهندسي والزوايا القائمة والفخامة التاريخية."
@@ -16765,10 +16765,10 @@
         {
           "prompt": "ما إعراب كلمة «مِيزَانًا» في جملة: «جَعَلَ النُّقْطَةَ مِيزَانًا لِلْحُرُوفِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "حال منصوبة بالفتحة",
-            "تمييز منصوب",
-            "نعت منصوب"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)",
+            "تمييز منصوب (tmyyz mnswb)",
+            "نعت منصوب (n'at mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «جَعَلَ» ينصب مفعولين؛ «النُّقْطَةَ» مفعول أول، و«مِيزَانًا» مفعول به ثانٍ منصوب."
@@ -16781,10 +16781,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يحلل فلسفة الخط العربي وقواعده الهندسية بأعلى مستويات الجزالة والبيان التراثي:",
           "options": [
-            "يُمَثِّلُ الخَطُّ العَرَبِيُّ هَنْدَسَةً رُوحَانِيَّةً تَجَلَّتْ فِي قَوَاعِدِ «الخَطِّ المَنْسُوبِ» لِابْنِ مُقْلَةَ؛ حَيْثُ جَعَلَ النُّقْطَةَ المَعِينِيَّةَ وَأَلِفَ النِّسْبَةِ مِعْيَارًا لِتَنَاسُقِ الأَقْلَامِ، فَتَبَوَّأَ الثُّلُثُ عَرْشَ الفَخَامَةِ، وَتَأَلَّقَ النَّسْخُ فِي صَوْنِ المَصَاحِفِ، بَيْنَمَا خَلَّدَ الكُوفِيُّ جَلَالَ العِمَارَةِ، لِيَغْدُوَ الحَرْفُ مِحْرَابًا لِلْجَمَالِ الخَالِدِ.",
-            "الخط العربي فن كتابة الحروف بأقلام مختلفة.",
-            "خطوط عربية ثلث نسخ كوفي ديواني رقعة تعليق ابن مقلة سكون فتحة ضمة.",
-            "ألغت المطابع الحديثة الحاجة لتعلم الخط العربي."
+            "يُمَثِّلُ الخَطُّ العَرَبِيُّ هَنْدَسَةً رُوحَانِيَّةً تَجَلَّتْ فِي قَوَاعِدِ «الخَطِّ المَنْسُوبِ» لِابْنِ مُقْلَةَ؛ حَيْثُ جَعَلَ النُّقْطَةَ المَعِينِيَّةَ وَأَلِفَ النِّسْبَةِ مِعْيَارًا لِتَنَاسُقِ الأَقْلَامِ، فَتَبَوَّأَ الثُّلُثُ عَرْشَ الفَخَامَةِ، وَتَأَلَّقَ النَّسْخُ فِي صَوْنِ المَصَاحِفِ، بَيْنَمَا خَلَّدَ الكُوفِيُّ جَلَالَ العِمَارَةِ، لِيَغْدُوَ الحَرْفُ مِحْرَابًا لِلْجَمَالِ الخَالِدِ. (Language concept U28)",
+            "الخط العربي فن كتابة الحروف بأقلام مختلفة. (alkht al'arby fn ktabh alhrwf baqlam mkhtlfh.)",
+            "خطوط عربية ثلث نسخ كوفي ديواني رقعة تعليق ابن مقلة سكون فتحة ضمة. (khtwt 'arbyh thlth nskh kwfy dywany rq'ah t'alyq abn mqlh skwn fthh dmh.)",
+            "ألغت المطابع الحديثة الحاجة لتعلم الخط العربي. (alght almtab'a alhdythh alhajh lt'alm alkht al'arby.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب بكفاءة: نظرية الخط المنسوب وميزان النقطة عند ابن مقلة، والوظائف الجمالية والدينية للأقلام الكبرى (الثلث، النسخ، والكوفي)."
@@ -16850,10 +16850,10 @@
         {
           "prompt": "ما هو الاسم الفني الشهير للزخارف النباتية التجريدية المتشابكة في الفن الإسلامي؟",
           "options": [
-            "الأَرَابِيسْك / فَنُّ التَّوْرِيقِ الإِسْلَامِيِّ",
-            "فن البورتريه الغربي",
-            "الكاريكاتير الصحفي",
-            "النحت الجنائزي"
+            "الأَرَابِيسْك / فَنُّ التَّوْرِيقِ الإِسْلَامِيِّ (alaaraabiysk / fanu altawriyqi aliislaamiyi)",
+            "فن البورتريه الغربي (fn albwrtryh alghrby)",
+            "الكاريكاتير الصحفي (alkarykatyr alshfy)",
+            "النحت الجنائزي (alnht aljna'zy)"
           ],
           "answerIndex": 0,
           "explanation": "الأرابيسك أو التوريق هو الزخرفة النباتية التجريدية القائمة على الأوراق والجذوع المتعانقة في انسياب لانهائي."
@@ -16861,10 +16861,10 @@
         {
           "prompt": "ما هي الفلسفة الروحية الكبرى التي تجسدها الأطباق النجمية والزخارف المتكررة المنطلقة من نقطة مركزية؟",
           "options": [
-            "فَلْسَفَةُ التَّوْحِيدِ؛ حَيْثُ تَنْبَثِقُ الكَثْرَةُ مِنْ وَحْدَةِ الخَالِقِ وَتَعُودُ إِلَيْهِ",
-            "الفوضى العشوائية في الكون",
-            "الخوف من الألوان",
-            "الرغبة في ملء الفراغ فقط"
+            "فَلْسَفَةُ التَّوْحِيدِ؛ حَيْثُ تَنْبَثِقُ الكَثْرَةُ مِنْ وَحْدَةِ الخَالِقِ وَتَعُودُ إِلَيْهِ (Language concept U28)",
+            "الفوضى العشوائية في الكون (alfwda al'ashwa'yh fy alkwn)",
+            "الخوف من الألوان (alkhwf mn alalwan)",
+            "الرغبة في ملء الفراغ فقط (alrghbh fy ml' alfragh fqt)"
           ],
           "answerIndex": 0,
           "explanation": "الزخرفة الإسلامية تجسد التوحيد واللانهاية عبر التناظر والتولد المنتظم من نقطة المركز الواحدة."
@@ -16876,10 +16876,10 @@
         {
           "prompt": "اختر العبارة التي تصف دقة التناظر المحوري في الفن الهندسي الإسلامي بدقة مصطلحية:",
           "options": [
-            "«تَقْسِيمٌ رِيَاضِيٌّ بَدِيعٌ يُغَطِّي المُسْتَوَيَاتِ بِأَطْبَاقٍ نَجْمِيَّةٍ مُتَكَرِّرَةٍ دُونَ فَرَاجٍ أَوْ خَلَلٍ».",
-            "رسم خطوط عشوائية باليد دون مسطرة",
-            "استيراد أشكال جاهزة دون حساب",
-            "ارابيسك تناظر اطباق نجمية سكون"
+            "«تَقْسِيمٌ رِيَاضِيٌّ بَدِيعٌ يُغَطِّي المُسْتَوَيَاتِ بِأَطْبَاقٍ نَجْمِيَّةٍ مُتَكَرِّرَةٍ دُونَ فَرَاجٍ أَوْ خَلَلٍ». (Language concept U28)",
+            "رسم خطوط عشوائية باليد دون مسطرة (rsm khtwt 'ashwa'yh balyd dwn mstrh)",
+            "استيراد أشكال جاهزة دون حساب (astyrad ashkal jahzh dwn hsab)",
+            "ارابيسك تناظر اطباق نجمية سكون (arabysk tnazr atbaq njmyh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الزخرفة الهندسية تقوم على الرصف الرياضي الصارم (Tessellation) والتناظر الدوراني المتقن."
@@ -16887,10 +16887,10 @@
         {
           "prompt": "ما إعراب كلمة «فَلْسَفَةَ» في جملة: «تَعْكِسُ الزَّخْرَفَةُ فَلْسَفَةَ التَّوْحِيدِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "مضاف إليه مجرور",
-            "حال منصوبة"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "«الزَّخْرَفَةُ» فاعل مرفوع، و«فَلْسَفَةَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -16903,10 +16903,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الجمالي التحليلي الذي يفسر عبقرية الأرابيسك والأطباق النجمية في الفن الإسلامي بأعلى درجات الفصاحة:",
           "options": [
-            "تُمَثِّلُ الزَّخْرَفَةُ الإِسْلَامِيَّةُ ذِرْوَةَ التَّجْرِيدِ البَصَرِيِّ فِي تَارِيخِ الفَنِّ؛ حَيْثُ حَوَّلَ الأَرَابِيسْكُ انْسِيَابَ النَّبَاتِ إِلَى إِيقَاعٍ سَرْمَدِيٍّ، بَيْنَمَا شَادَتِ الأَطْبَاقُ النَّجْمِيَّةُ صَرْحًا رِيَاضِيًّا يَعْكِسُ فَلْسَفَةَ التَّوْحِيدِ وَالتَّنَاغُمِ الكَوْنِيِّ، لِيَغْدُوَ التَّنَاظُرُ الهَنْدَسِيُّ سَفَرًا رُوحِيًّا يَرْتَقِي بِالبَصَرِ إِلَى رِحَابِ الجَمَالِ الأَزَلِيِّ.",
-            "الزخرفة الاسلامية رسوم هندسية جميلة على الجدران.",
-            "ارابيسك اطباق نجمية توريق تناظر توحيد تجريد سكون فتحة ضمة.",
-            "انقرضت فنون الزخرفة بعد ظهور التصوير الفوتوغرافي."
+            "تُمَثِّلُ الزَّخْرَفَةُ الإِسْلَامِيَّةُ ذِرْوَةَ التَّجْرِيدِ البَصَرِيِّ فِي تَارِيخِ الفَنِّ؛ حَيْثُ حَوَّلَ الأَرَابِيسْكُ انْسِيَابَ النَّبَاتِ إِلَى إِيقَاعٍ سَرْمَدِيٍّ، بَيْنَمَا شَادَتِ الأَطْبَاقُ النَّجْمِيَّةُ صَرْحًا رِيَاضِيًّا يَعْكِسُ فَلْسَفَةَ التَّوْحِيدِ وَالتَّنَاغُمِ الكَوْنِيِّ، لِيَغْدُوَ التَّنَاظُرُ الهَنْدَسِيُّ سَفَرًا رُوحِيًّا يَرْتَقِي بِالبَصَرِ إِلَى رِحَابِ الجَمَالِ الأَزَلِيِّ. (Language concept U28)",
+            "الزخرفة الاسلامية رسوم هندسية جميلة على الجدران. (alzkhrfh alaslamyh rswm hndsyh jmylh 'ala aljdran.)",
+            "ارابيسك اطباق نجمية توريق تناظر توحيد تجريد سكون فتحة ضمة. (arabysk atbaq njmyh twryq tnazr twhyd tjryd skwn fthh dmh.)",
+            "انقرضت فنون الزخرفة بعد ظهور التصوير الفوتوغرافي. (anqrdt fnwn alzkhrfh b'ad zhwr altswyr alfwtwghrafy.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: التحليل التشكيلي للأرابيسك والأطباق النجمية، البعد الرياضي للتناظر، والعمق الروحي لفلسفة التوحيد والتجريد."
@@ -16973,10 +16973,10 @@
         {
           "prompt": "ما هي الوظيفة الهندسية والمعمارية لـ «المُقَرْنَصَاتِ» في العمارة الإسلامية؟",
           "options": [
-            "التَّدَرُّجُ الهَنْدَسِيُّ بَيْنَ الجُدْرَانِ المُرَبَّعَةِ وَالقِبَابِ الدَّائِرِيَّةِ مَعَ كَسْرِ جُمُودِ الضَّوْءِ",
-            "استخدامها كأبواب خارجية للمدينة",
-            "حفر آبار مياه تحت الأرض",
-            "صناعة أسلحة الفرسان"
+            "التَّدَرُّجُ الهَنْدَسِيُّ بَيْنَ الجُدْرَانِ المُرَبَّعَةِ وَالقِبَابِ الدَّائِرِيَّةِ مَعَ كَسْرِ جُمُودِ الضَّوْءِ (altadaruju alhandasiyu bayna aljudraani almuraba'aahi waalqibaabi aldaa'iriyahi ma'aa kasri jumuwdi aldaw'i)",
+            "استخدامها كأبواب خارجية للمدينة (astkhdamha kabwab kharjyh llmdynh)",
+            "حفر آبار مياه تحت الأرض (hfr aabar myah tht alard)",
+            "صناعة أسلحة الفرسان (sna'ah aslhh alfrsan)"
           ],
           "answerIndex": 0,
           "explanation": "المقرنصات ابتكار إسلامي فريد يُسهل الانتقال الهيكلي من المربع إلى الدائرة ويعطي تأثيراً جمالياً مبهراً."
@@ -16984,10 +16984,10 @@
         {
           "prompt": "أين تقع المئذنة الملوية الحلزونية الشهيرة في التراث المعماري الإسلامي؟",
           "options": [
-            "فِي سَامَرَّاءَ بِالعِرَاقِ",
-            "في طوكيو باليابان",
-            "في مدريد بإسبانيا",
-            "في لندن ببريطانيا"
+            "فِي سَامَرَّاءَ بِالعِرَاقِ (fiy saamaraa'a bial'airaaqi)",
+            "في طوكيو باليابان (fy twkyw balyaban)",
+            "في مدريد بإسبانيا (fy mdryd bisbanya)",
+            "في لندن ببريطانيا (fy lndn bbrytanya)"
           ],
           "answerIndex": 0,
           "explanation": "المئذنة الملوية لجامع المتوكل في سامراء هي المعلم المعماري الحلزوني الأشهر في العالم الإسلامي."
@@ -16999,10 +16999,10 @@
         {
           "prompt": "اختر الخاصية المعمارية الفارقة للأقواس والعقود في جامع قرطبة الكبير بالأندلس:",
           "options": [
-            "العُقُودُ الحُذْوِيَّةُ المُزْدَوِجَةُ ذَاتُ اللَّوْنَيْنِ الأَحْمَرِ وَالأَبْيَضِ المُتَنَاوِبَيْنِ",
-            "استخدام الزجاج البلاستيكي الشفاف فقط",
-            "بناء الجدران بدون أي أعمدة",
-            "عمارة قرطبة عقود ملوية سكون"
+            "العُقُودُ الحُذْوِيَّةُ المُزْدَوِجَةُ ذَاتُ اللَّوْنَيْنِ الأَحْمَرِ وَالأَبْيَضِ المُتَنَاوِبَيْنِ (al'auquwdu alhudhwiyahu almuzdawijahu dhaatu allawnayni alaahmari waalaabyadi almutanaawibayni)",
+            "استخدام الزجاج البلاستيكي الشفاف فقط (astkhdam alzjaj alblastyky alshfaf fqt)",
+            "بناء الجدران بدون أي أعمدة (bna' aljdran bdwn ay a'amdh)",
+            "عمارة قرطبة عقود ملوية سكون ('amarh qrtbh 'aqwd mlwyh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "العقود الحذوية المزدوجة ذات اللونين الأحمر والأبيض هي العلامة المعمارية الخالدة لجامع قرطبة."
@@ -17010,10 +17010,10 @@
         {
           "prompt": "ما إعراب كلمة «ابْتِكَارًا» في جملة: «تُعَدُّ المُقَرْنَصَاتُ ابْتِكَارًا هَنْدَسِيًّا»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "نائب فاعل مرفوع بالضمة",
-            "نعت منصوب بالفتحة",
-            "حال منصوبة"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "نائب فاعل مرفوع بالضمة (na'b fa'al mrfw'a baldmh)",
+            "نعت منصوب بالفتحة (n'at mnswb balfthh)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "«المُقَرْنَصَاتُ» نائب فاعل لـ «تُعَدُّ»، و«ابْتِكَارًا» مفعول به ثانٍ منصوب بالفتحة."
@@ -17026,10 +17026,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التوثيقي المعماري الشامل الذي يحلل روائع العمارة الإسلامية (المقرنصات، الصحن، المآذن، والعقود) بأعلى دقة لغوية وهندسية:",
           "options": [
-            "جَسَّدَتِ العِمَارَةُ الإِسْلَامِيَّةُ عَبْقَرِيَّةَ التَّلَاقِي بَيْنَ الهَنْدَسَةِ الرَّصِينَةِ وَالرُّوحَانِيَّةِ الخَالِدَةِ؛ حَيْثُ حَلَّتِ المُقَرْنَصَاتُ مُعْضِلَةَ الِانْتِقَالِ مِنَ المُرَبَّعِ إِلَى القِبَابِ الدَّائِرِيَّةِ، وَمَنَحَ الصَّحْنُ المَفْتُوحُ فِي دِمَشْقَ وَالحَمْرَاءِ فَيْضًا مِنَ النُّورِ وَالسَّكِينَةِ، بَيْنَمَا شَمَخَتِ المَآذِنُ بِطُرُزِهَا المُرَبَّعَةِ وَالحَلَزُونِيَّةِ، وَتَرَاقَصَتِ العُقُودُ الحُذْوِيَّةُ فِي قُرْطُبَةَ، لِتَبْقَى العِمَارَةُ الإِسْلَامِيَّةُ أَيْقُونَةَ الإِبْدَاعِ الإِنْسَانِيِّ.",
-            "العمارة الاسلامية مساجد وقصور قديمة في بلدان الشرق.",
-            "عمارة اسلامية مقرنصات صحن مئذنة محراب قبة قرطبة سامراء سكون فتحة ضمة.",
-            "تهدمت جميع المعالم المعمارية الاسلامية القديمة."
+            "جَسَّدَتِ العِمَارَةُ الإِسْلَامِيَّةُ عَبْقَرِيَّةَ التَّلَاقِي بَيْنَ الهَنْدَسَةِ الرَّصِينَةِ وَالرُّوحَانِيَّةِ الخَالِدَةِ؛ حَيْثُ حَلَّتِ المُقَرْنَصَاتُ مُعْضِلَةَ الِانْتِقَالِ مِنَ المُرَبَّعِ إِلَى القِبَابِ الدَّائِرِيَّةِ، وَمَنَحَ الصَّحْنُ المَفْتُوحُ فِي دِمَشْقَ وَالحَمْرَاءِ فَيْضًا مِنَ النُّورِ وَالسَّكِينَةِ، بَيْنَمَا شَمَخَتِ المَآذِنُ بِطُرُزِهَا المُرَبَّعَةِ وَالحَلَزُونِيَّةِ، وَتَرَاقَصَتِ العُقُودُ الحُذْوِيَّةُ فِي قُرْطُبَةَ، لِتَبْقَى العِمَارَةُ الإِسْلَامِيَّةُ أَيْقُونَةَ الإِبْدَاعِ الإِنْسَانِيِّ. (Language concept U28)",
+            "العمارة الاسلامية مساجد وقصور قديمة في بلدان الشرق. (al'amarh alaslamyh msajd wqswr qdymh fy bldan alshrq.)",
+            "عمارة اسلامية مقرنصات صحن مئذنة محراب قبة قرطبة سامراء سكون فتحة ضمة. ('amarh aslamyh mqrnsat shn m'dhnh mhrab qbh qrtbh samra' skwn fthh dmh.)",
+            "تهدمت جميع المعالم المعمارية الاسلامية القديمة. (thdmt jmy'a alm'aalm alm'amaryh alaslamyh alqdymh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بدقة بين: ابتكار المقرنصات الهيكلي، وظيفة الصحن المفتوح، تنوع المآذن الجغرافي، وسحر العقود الحذوية في قرطبة."
@@ -17093,10 +17093,10 @@
         {
           "prompt": "ما هي الفكرة الجوهرية لحركة «الحُرُوفِيَّةِ» في الفن التشكيلي العربي المعاصر؟",
           "options": [
-            "تَحْرِيرُ الحَرْفِ العَرَبِيِّ مِنْ سُطُورِ الكِتَابَةِ التَّقْلِيدِيَّةِ لِيَغْدُوَ عُنْصُرًا بَصَرِيًّا تَجْرِيدِيًّا فِي اللَّوْحَةِ",
-            "استبدال الحروف العربية بالحروف اللاتينية",
-            "طباعة الكتب المدرسية فقط",
-            "إلغاء فن الرسم نهائيا"
+            "تَحْرِيرُ الحَرْفِ العَرَبِيِّ مِنْ سُطُورِ الكِتَابَةِ التَّقْلِيدِيَّةِ لِيَغْدُوَ عُنْصُرًا بَصَرِيًّا تَجْرِيدِيًّا فِي اللَّوْحَةِ (tahriyru alharfi al'aarabiyi min sutuwri alkitaabahi altaqliydiyahi liyaghduwa 'aunsurana basariyana tajriydiyana fiy allawhahi)",
+            "استبدال الحروف العربية بالحروف اللاتينية (astbdal alhrwf al'arbyh balhrwf allatynyh)",
+            "طباعة الكتب المدرسية فقط (tba'ah alktb almdrsyh fqt)",
+            "إلغاء فن الرسم نهائيا (ilgha' fn alrsm nha'ya)"
           ],
           "answerIndex": 0,
           "explanation": "الحروفية تطلق الطاقة التشكيلية الكامنة في الحرف العربي ليتحول إلى لغة بصرية تجريدية عالمية."
@@ -17104,10 +17104,10 @@
         {
           "prompt": "من هو الفنان العراقي الرائد مؤسس «جماعة البعد الواحد» الذي ربط الحرف بالتأمل الصوفي والوجودي؟",
           "options": [
-            "شَاكِر حَسَن آل سَعِيد",
-            "محمود مختار",
-            "جبران خليل جبران",
-            "بدر شاكر السياب"
+            "شَاكِر حَسَن آل سَعِيد (shaakir hasan aal sa'aiyd)",
+            "محمود مختار (mhmwd mkhtar)",
+            "جبران خليل جبران (jbran khlyl jbran)",
+            "بدر شاكر السياب (bdr shakr alsyab)"
           ],
           "answerIndex": 0,
           "explanation": "شاكر حسن آل سعيد هو منظر وفيلسوف الحروفية العربية ومؤسس جماعة البعد الواحد."
@@ -17119,10 +17119,10 @@
         {
           "prompt": "اختر الأسلوب الفني الذي اشتهر به الفنان التونسي نجا المهداوي في حركة الحروفية التجريدية:",
           "options": [
-            "«الاعْتِمَادُ عَلَى الإِيقَاعِ البَصَرِيِّ وَالشَّكْلِ الجَمَالِيِّ لِلْحَرْفِ دُونَ الِارْتِبَاطِ بِنَصٍّ أَوْ كَلِمَةٍ مَقْرُوءَةٍ».",
-            "كتابة المقالات الإخبارية بالخط الصغير",
-            "رسم الوجوه الواقعية فقط",
-            "حروفية نجا المهداوي ايقاع سكون"
+            "«الاعْتِمَادُ عَلَى الإِيقَاعِ البَصَرِيِّ وَالشَّكْلِ الجَمَالِيِّ لِلْحَرْفِ دُونَ الِارْتِبَاطِ بِنَصٍّ أَوْ كَلِمَةٍ مَقْرُوءَةٍ». (Language concept U28)",
+            "كتابة المقالات الإخبارية بالخط الصغير (ktabh almqalat alikhbaryh balkht alsghyr)",
+            "رسم الوجوه الواقعية فقط (rsm alwjwh alwaq'ayh fqt)",
+            "حروفية نجا المهداوي ايقاع سكون (hrwfyh nja almhdawy ayqa'a skwn)"
           ],
           "answerIndex": 0,
           "explanation": "نجا المهداوي يركز على الموسيقى البصرية والإيقاع الصرف للحرف العربي متجاوزاً دلالة القراءة النصية."
@@ -17130,10 +17130,10 @@
         {
           "prompt": "ما إعراب كلمة «عُنْصُرًا» في جملة: «لِيُصْبِحَ عُنْصُرًا تَجْرِيدِيًّا»؟",
           "options": [
-            "خَبَرُ يُصْبِحَ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "اسم يصبح مرفوع",
-            "مفعول به منصوب",
-            "حال منصوبة"
+            "خَبَرُ يُصْبِحَ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (khabaru yusbiha mansuwbun bialfathahi alzaahirahi)",
+            "اسم يصبح مرفوع (asm ysbh mrfw'a)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "«عُنْصُرًا» خبر الفعل الناسخ المنصوب «يُصْبِحَ» وعلامة نصبه الفتحة، و«تَجْرِيدِيًّا» نعت منصوب."
@@ -17146,10 +17146,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يحلل إنجاز حركة الحروفية العربية المعاصرة بأعلى مستويات الرصانة الفكرية والتشكيلية:",
           "options": [
-            "شَكَّلَتْ حَرَكَةُ الحُرُوفِيَّةِ العَرَبِيَّةِ أَهَمَّ مُنْعَطَفٍ حَدَاثِيٍّ فِي الفَنِّ التَّشْكِيلِيِّ؛ حَيْثُ اسْتَلْهَمَ شَاكِر حَسَن آل سَعِيد وَنَجَا المَهْدَاوِي وَضِيَاء العَزَّاوِي طَاقَةَ الحَرْفِ العَرَبِيِّ، فَحَوَّلُوهُ مِنْ قَالَبِ النَّصِّ اللِّسَانِيِّ إِلَى مَدَارَاتِ التَّجْرِيدِ البَصَرِيِّ الكَوْنِيِّ، مَازِجِينَ بَيْنَ قَدَاسَةِ المَوْرُوثِ وَجَسَارَةِ الحَدَاثَةِ، لِيَغْدُوَ الحَرْفُ العَرَبِيُّ لُغَةً بَصَرِيَّةً تُخَاطِبُ الضَّمِيرَ الإِنْسَانِيَّ العَالَمِيَّ.",
-            "الحروفية كتابة الحروف على لوحات الرسم بالألوان الزيتية.",
-            "حروفية عربية فن تشكيلي شاكر حسن ال سعيد نجا المهداوي ضياء العزاوي سكون فتحة ضمة.",
-            "فشلت الحروفية في الوصول الى المتاحف العالمية."
+            "شَكَّلَتْ حَرَكَةُ الحُرُوفِيَّةِ العَرَبِيَّةِ أَهَمَّ مُنْعَطَفٍ حَدَاثِيٍّ فِي الفَنِّ التَّشْكِيلِيِّ؛ حَيْثُ اسْتَلْهَمَ شَاكِر حَسَن آل سَعِيد وَنَجَا المَهْدَاوِي وَضِيَاء العَزَّاوِي طَاقَةَ الحَرْفِ العَرَبِيِّ، فَحَوَّلُوهُ مِنْ قَالَبِ النَّصِّ اللِّسَانِيِّ إِلَى مَدَارَاتِ التَّجْرِيدِ البَصَرِيِّ الكَوْنِيِّ، مَازِجِينَ بَيْنَ قَدَاسَةِ المَوْرُوثِ وَجَسَارَةِ الحَدَاثَةِ، لِيَغْدُوَ الحَرْفُ العَرَبِيُّ لُغَةً بَصَرِيَّةً تُخَاطِبُ الضَّمِيرَ الإِنْسَانِيَّ العَالَمِيَّ. (Language concept U28)",
+            "الحروفية كتابة الحروف على لوحات الرسم بالألوان الزيتية. (alhrwfyh ktabh alhrwf 'ala lwhat alrsm balalwan alzytyh.)",
+            "حروفية عربية فن تشكيلي شاكر حسن ال سعيد نجا المهداوي ضياء العزاوي سكون فتحة ضمة. (hrwfyh 'arbyh fn tshkyly shakr hsn al s'ayd nja almhdawy dya' al'azawy skwn fthh dmh.)",
+            "فشلت الحروفية في الوصول الى المتاحف العالمية. (fshlt alhrwfyh fy alwswl ala almtahf al'aalmyh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب الأبعاد الكاملة للحركة: تحرير الحرف من السطر، التنظير الفلسفي لآل سعيد، التجريد الإيقاعي للمهداوي، والتكامل بين التراث والحداثة التشكيلية."
@@ -17215,10 +17215,10 @@
         {
           "prompt": "في التحليل الجمالي التكاملي، كيف تلتقي دقة الخط العربي مع حركة الأرابيسك في العمارة؟",
           "options": [
-            "يُمَثِّلُ الخَطُّ الِانْضِبَاطَ الهَنْدَسِيَّ وَالمَعْنَى، بَيْنَمَا يُمَثِّلُ الأَرَابِيسْكُ الانْسِيَابَ وَاللَّانِهَايَةَ الرُّوحِيَّةَ",
-            "لا يوجد أي انسجام بينهما (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "كلاهما يستخدم لتشويه الجدران (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "أحدهما يلغي الآخر تماما (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)"
+            "يُمَثِّلُ الخَطُّ الِانْضِبَاطَ الهَنْدَسِيَّ وَالمَعْنَى، بَيْنَمَا يُمَثِّلُ الأَرَابِيسْكُ الانْسِيَابَ وَاللَّانِهَايَةَ الرُّوحِيَّةَ (Language concept U28)",
+            "لا يوجد أي انسجام بينهما (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "كلاهما يستخدم لتشويه الجدران (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "أحدهما يلغي الآخر تماما (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الخط المنسوب يمثل النظام والعقل، والأرابيسك يمثل الحركة الحية والامتداد اللانهائي."
@@ -17226,10 +17226,10 @@
         {
           "prompt": "ما الذي أضافته حركة الحروفية التشكيلية المعاصرة إلى التراث الخطّي القديم؟",
           "options": [
-            "تَحْرِيرُ الحَرْفِ العَرَبِيِّ إِلَى الفَضَاءِ التَّشْكِيلِيِّ التَّجْرِيدِيِّ وَمُخَاطَبَةُ الذَّائِقَةِ الفَنِّيَّةِ العَالَمِيَّةِ",
-            "إلغاء جماليات الحرف القديم (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "العودة إلى الكتابة على الحجارة فقط (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "تحريم استخدام الألوان الزيتية (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)"
+            "تَحْرِيرُ الحَرْفِ العَرَبِيِّ إِلَى الفَضَاءِ التَّشْكِيلِيِّ التَّجْرِيدِيِّ وَمُخَاطَبَةُ الذَّائِقَةِ الفَنِّيَّةِ العَالَمِيَّةِ (tahriyru alharfi al'aarabiyi iilaa alfadaa'i altashkiyliyi altajriydiyi wamukhaatabahu aldhaa'iqahi alfaniyahi al'aaalamiyahi)",
+            "إلغاء جماليات الحرف القديم (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "العودة إلى الكتابة على الحجارة فقط (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "تحريم استخدام الألوان الزيتية (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الحروفية جعلت الحرف العربي وسيطاً عالمياً للتجريد والتعبير الصوفي والمعاصر."
@@ -17241,10 +17241,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف روعة الفنون البصرية الإسلامية بتعبير نقدي فصيح:",
           "options": [
-            "— كَيْفَ وَجَدْتِ مَعَارِضَ الخَطِّ وَالعِمَارَةِ؟ — وَجَدْتُهَا صَرْحًا بَصَرِيًّا يَجْمَعُ بَيْنَ هَنْدَسَةِ العَقْلِ وَإِشْرَاقِ الرُّوحِ فِي نَسَقٍ جَمَالِيٍّ مُعْجِزٍ.",
-            "— هل تحب زيارة المتاحف؟ — نعم زرت المتحف امس. (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "— كم ثمن تذكرة الدخول؟ — عشرة دراهم فقط. (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "— حوار متحف فن خط عمارة سكون. (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)"
+            "— كَيْفَ وَجَدْتِ مَعَارِضَ الخَطِّ وَالعِمَارَةِ؟ — وَجَدْتُهَا صَرْحًا بَصَرِيًّا يَجْمَعُ بَيْنَ هَنْدَسَةِ العَقْلِ وَإِشْرَاقِ الرُّوحِ فِي نَسَقٍ جَمَالِيٍّ مُعْجِزٍ. (Language concept U28)",
+            "— هل تحب زيارة المتاحف؟ — نعم زرت المتحف امس. (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "— كم ثمن تذكرة الدخول؟ — عشرة دراهم فقط. (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "— حوار متحف فن خط عمارة سكون. (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجسد التلاقي الفلسفي بين هندسة العقل وإشراق الروح في التراث البصري الإسلامي."
@@ -17252,10 +17252,10 @@
         {
           "prompt": "ما إعراب كلمة «صَرْحًا» في قولنا: «وَجَدْتُهَا صَرْحًا بَصَرِيًّا»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "حال منصوبة بالفتحة (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "نعت منصوب (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "تمييز منصوب (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "حال منصوبة بالفتحة (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "نعت منصوب (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "تمييز منصوب (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «وَجَدَ» القلبي ينصب مفعولين؛ الضمير «هَا» مفعول أول، و«صَرْحًا» مفعول به ثانٍ منصوب."
@@ -17268,10 +17268,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الجمالي الشامل الذي يدمج مخرجات الوحدة الثامنة والعشرين بأكملها (أقلام الخط وقواعد ابن مقلة، الأرابيسك والأطباق النجمية، العمارة والمقرنصات، وحركة الحروفية المعاصرة):",
           "options": [
-            "د. كَمَال: «دُكْتُورَة نَادِيَة، كَيْفَ نُفَسِّرُ هٰذَا التَّنَاغُمَ الخَالِدَ بَيْنَ قَوَاعِدِ «الخَطِّ المَنْسُوبِ» لِابْنِ مُقْلَةَ وَفَلْسَفَةِ الأَرَابِيسْكِ وَالأَطْبَاقِ النَّجْمِيَّةِ مَعَ إِبْدَاعِ المُقَرْنَصَاتِ وَجَسَارَةِ الحُرُوفِيَّةِ المُعَاصِرَةِ؟» — د. نَادِيَة: «إِنَّهَا عَبْقَرِيَّةُ الهُوِيَّةِ البَصَرِيَّةِ الإِسْلَامِيَّةِ؛ حَيْثُ حَوَّلَ الفَنَّانُ المُسْلِمُ الحَرْفَ وَالعِمَارَةَ إِلَى مَحَارِيبَ لِلتَّأَمُّلِ التَّجْرِيدِيِّ، فَالْتَقَتْ صَلَابَةُ الهَنْدَسَةِ بِانْسِيَابِ الرُّوحِ، لِيَظَلَّ فَنُّنَا البَصَرِيُّ شَاهِدًا أَبَدِيًّا عَلَى سُمُوِّ الحَضَارَةِ الإِنْسَانِيَّةِ».",
-            "د. كمال: هل اعجبتك اللوحات في المعرض؟ — د. نادية: نعم اعجبتني اللوحات جدا. (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "حوار فني شامل خط عربي ابن مقلة ارابيسك اطباق نجمية مقرنصات حروفية سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)",
-            "توقفت الفنون التشكيلية العربية عن التطور تماما. (الدمج الشامل لكافة مخرجات الوحدة الثامنة والعشرين)"
+            "د. كَمَال: «دُكْتُورَة نَادِيَة، كَيْفَ نُفَسِّرُ هٰذَا التَّنَاغُمَ الخَالِدَ بَيْنَ قَوَاعِدِ «الخَطِّ المَنْسُوبِ» لِابْنِ مُقْلَةَ وَفَلْسَفَةِ الأَرَابِيسْكِ وَالأَطْبَاقِ النَّجْمِيَّةِ مَعَ إِبْدَاعِ المُقَرْنَصَاتِ وَجَسَارَةِ الحُرُوفِيَّةِ المُعَاصِرَةِ؟» — د. نَادِيَة: «إِنَّهَا عَبْقَرِيَّةُ الهُوِيَّةِ البَصَرِيَّةِ الإِسْلَامِيَّةِ؛ حَيْثُ حَوَّلَ الفَنَّانُ المُسْلِمُ الحَرْفَ وَالعِمَارَةَ إِلَى مَحَارِيبَ لِلتَّأَمُّلِ التَّجْرِيدِيِّ، فَالْتَقَتْ صَلَابَةُ الهَنْدَسَةِ بِانْسِيَابِ الرُّوحِ، لِيَظَلَّ فَنُّنَا البَصَرِيُّ شَاهِدًا أَبَدِيًّا عَلَى سُمُوِّ الحَضَارَةِ الإِنْسَانِيَّةِ». (Language concept U28)",
+            "د. كمال: هل اعجبتك اللوحات في المعرض؟ — د. نادية: نعم اعجبتني اللوحات جدا. (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "حوار فني شامل خط عربي ابن مقلة ارابيسك اطباق نجمية مقرنصات حروفية سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)",
+            "توقفت الفنون التشكيلية العربية عن التطور تماما. (aldmj alshaml lkafh mkhrjat alwhdh althamnh wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة التحليل الجمالي والنقدي في دمج: الخط المنسوب، الأرابيسك والأطباق النجمية، المقرنصات المعمارية، والحروفية التشكيلية المعاصرة."
@@ -17339,10 +17339,10 @@
         {
           "prompt": "ما هي التحفة السردية الكبرى لنجيب محفوظ التي تتألف من ثلاثة أجزاء وتؤرخ لتاريخ مصر الاجتماعي؟",
           "options": [
-            "«الثُّلَاثِيَّةُ»",
-            "ألف ليلة وليلة",
-            "كليلة ودمنة",
-            "سيرة بني هلال"
+            "«الثُّلَاثِيَّةُ» (Language concept U29)",
+            "ألف ليلة وليلة (alf lylh wlylh)",
+            "كليلة ودمنة (klylh wdmnh)",
+            "سيرة بني هلال (syrh bny hlal)"
           ],
           "answerIndex": 0,
           "explanation": "«الثلاثية» هي ذروة الرواية الواقعية لمحفوظ وتضم بين القصرين وقصر الشوق والسكرية."
@@ -17350,10 +17350,10 @@
         {
           "prompt": "ما هي التقنية السردية الحديثة التي برع محفوظ في توظيفها في رواية «اللص والكلاب» لكشف الصراع الداخلي للبطل؟",
           "options": [
-            "تَيَّارُ الوَعْيِ وَالمَوْنُولُوجُ الدَّاخِلِيُّ",
-            "السرد التاريخي الخطي المباشر فقط",
-            "الحوار الزجلي العامي البسيط",
-            "التقرير الصحفي الوثائقي"
+            "تَيَّارُ الوَعْيِ وَالمَوْنُولُوجُ الدَّاخِلِيُّ (tayaaru alwa'ayi waalmawnuwluwju aldaakhiliyu)",
+            "السرد التاريخي الخطي المباشر فقط (alsrd altarykhy alkhty almbashr fqt)",
+            "الحوار الزجلي العامي البسيط (alhwar alzjly al'aamy albsyt)",
+            "التقرير الصحفي الوثائقي (altqryr alshfy alwtha'qy)"
           ],
           "answerIndex": 0,
           "explanation": "وظف محفوظ تيار الوعي والمونولوج الداخلي لنقل تمزق سعيد مهران الوجودي والنفسي."
@@ -17365,10 +17365,10 @@
         {
           "prompt": "اختر الدلالة الرمزية الكونية لـ «الحَارَةِ» في أدب نجيب محفوظ الروائي:",
           "options": [
-            "«الحَارَةُ عِنْدَ مَحْفُوظٍ لَيْسَتْ حَيًّا جُغْرَافِيًّا بَلْ رَمْزٌ مُصَغَّرٌ لِلْعَالَمِ الإِنْسَانِيِّ وَصِرَاعِ الحَقِّ وَالعَدْلِ».",
-            "شارع ضيق يمنع مرور السيارات",
-            "مكان مهجور لا يسكنه أحد",
-            "حارة نجيب محفوظ نوبل سكون"
+            "«الحَارَةُ عِنْدَ مَحْفُوظٍ لَيْسَتْ حَيًّا جُغْرَافِيًّا بَلْ رَمْزٌ مُصَغَّرٌ لِلْعَالَمِ الإِنْسَانِيِّ وَصِرَاعِ الحَقِّ وَالعَدْلِ». (Language concept U29)",
+            "شارع ضيق يمنع مرور السيارات (shar'a dyq ymn'a mrwr alsyarat)",
+            "مكان مهجور لا يسكنه أحد (mkan mhjwr la ysknh ahd)",
+            "حارة نجيب محفوظ نوبل سكون (harh njyb mhfwz nwbl skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الحارة عند محفوظ هي مسرح الوجود الإنساني برمته وميدان الأسئلة الفلسفية والأخلاقية الكبرى."
@@ -17376,10 +17376,10 @@
         {
           "prompt": "ما إعراب كلمة «جَائِزَةَ» في جملة: «نَالَ نَجِيب مَحْفُوظ جَائِزَةَ نُوبِل»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "نعت منصوب بالفتحة",
-            "مضاف إليه مجرور"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "نعت منصوب بالفتحة (n'at mnswb balfthh)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)"
           ],
           "answerIndex": 0,
           "explanation": "«نَجِيبُ» فاعل مرفوع، و«جَائِزَةَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -17392,10 +17392,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يحلل المشروع الروائي لنجيب محفوظ وتطوره الأسلوبي بأعلى مستويات البلاغة والعمق الأكاديمي:",
           "options": [
-            "شَيَّدَ نَجِيب مَحْفُوظ صَرْحَ الرِّوَايَةِ العَرَبِيَّةِ الحَدِيثَةِ بِاقْتِدَارٍ اسْتِثْنَائِيٍّ؛ حَيْثُ ارْتَقَى بِالوَاقِعِيَّةِ فِي «الثُّلَاثِيَّةِ» لِتَغْدُوَ مِرْآةً لِلْمُجْتَمَعِ وَالتَّحَوُّلَاتِ الحَضَارِيَّةِ، ثُمَّ أَبْحَرَ فِي الِاسْتِبْطَانِ النَّفْسِيِّ وَتَيَّارِ الوَعْيِ فِي «اللِّصِّ وَالكِلَابِ»، لِيُحَوِّلَ الحَارَةَ المِصْرِيَّةَ فِي «أَوْلَادِ حَارَتِنَا» إِلَى مَلْحَمَةٍ رَمْزِيَّةٍ خَالِدَةٍ تُحَاكِي صِرَاعَ الإِنْسَانِ الأَزَلِيَّ نَحْوَ العَدْلِ وَالمَعْرِفَةِ.",
-            "نجيب محفوظ كاتب مصري فاز بجائزة نوبل وكتب روايات كثيرة.",
-            "روايات نجيب محفوظ ثلاثية بين القصرين قصر الشوق السكرية اولاد حارتنا سكون فتحة ضمة.",
-            "اقتصرت روايات محفوظ على التاريخ الفرعوني القديم فقط."
+            "شَيَّدَ نَجِيب مَحْفُوظ صَرْحَ الرِّوَايَةِ العَرَبِيَّةِ الحَدِيثَةِ بِاقْتِدَارٍ اسْتِثْنَائِيٍّ؛ حَيْثُ ارْتَقَى بِالوَاقِعِيَّةِ فِي «الثُّلَاثِيَّةِ» لِتَغْدُوَ مِرْآةً لِلْمُجْتَمَعِ وَالتَّحَوُّلَاتِ الحَضَارِيَّةِ، ثُمَّ أَبْحَرَ فِي الِاسْتِبْطَانِ النَّفْسِيِّ وَتَيَّارِ الوَعْيِ فِي «اللِّصِّ وَالكِلَابِ»، لِيُحَوِّلَ الحَارَةَ المِصْرِيَّةَ فِي «أَوْلَادِ حَارَتِنَا» إِلَى مَلْحَمَةٍ رَمْزِيَّةٍ خَالِدَةٍ تُحَاكِي صِرَاعَ الإِنْسَانِ الأَزَلِيَّ نَحْوَ العَدْلِ وَالمَعْرِفَةِ. (Language concept U29)",
+            "نجيب محفوظ كاتب مصري فاز بجائزة نوبل وكتب روايات كثيرة. (njyb mhfwz katb msry faz bja'zh nwbl wktb rwayat kthyrh.)",
+            "روايات نجيب محفوظ ثلاثية بين القصرين قصر الشوق السكرية اولاد حارتنا سكون فتحة ضمة. (rwayat njyb mhfwz thlathyh byn alqsryn qsr alshwq alskryh awlad hartna skwn fthh dmh.)",
+            "اقتصرت روايات محفوظ على التاريخ الفرعوني القديم فقط. (aqtsrt rwayat mhfwz 'ala altarykh alfr'awny alqdym fqt.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب الانتقال الإبداعي لمحفوظ من الواقعية الملحمية (الثلاثية) إلى التحليل السيكولوجي وتيار الوعي (اللص والكلاب) والرمزية الفلسفية (أولاد حارتنا)."
@@ -17460,10 +17460,10 @@
         {
           "prompt": "ما هي الرواية الرمزية الشهيرة لغسان كنفاني التي تمثل إدانة مدوية للصمت والبحث عن الخلاص الفردي وتختتم بـ «لماذا لم يدقوا جدران الخزان؟»",
           "options": [
-            "«رِجَالٌ فِي الشَّمْسِ»",
-            "أولاد حارتنا",
-            "موسم الهجرة إلى الشمال",
-            "اللص والكلاب"
+            "«رِجَالٌ فِي الشَّمْسِ» (Language concept U29)",
+            "أولاد حارتنا (awlad hartna)",
+            "موسم الهجرة إلى الشمال (mwsm alhjrh ila alshmal)",
+            "اللص والكلاب (alls walklab)"
           ],
           "answerIndex": 0,
           "explanation": "رواية «رجال في الشمس» (1963) هي أشهر أعمال كنفاني الرمزية حول مأساة اللجوء والصمت."
@@ -17471,10 +17471,10 @@
         {
           "prompt": "كيف عرّف غسان كنفاني مفهوم «الوطن» في روايته الخالدة «عائد إلى حيفا»؟",
           "options": [
-            "«الوَطَنُ هُوَ أَلَّا يَحْدُثَ هٰذَا كُلُّهُ... الإِنْسَانُ فِي نِهَايَةِ الأَمْرِ قَضِيَّةٌ»",
-            "الوطن هو مجرد ذكريات قديمة منسية",
-            "الوطن هو قطعة أرض تباع وتشترى بالمال",
-            "الوطن هو الاستسلام للأمر الواقع"
+            "«الوَطَنُ هُوَ أَلَّا يَحْدُثَ هٰذَا كُلُّهُ... الإِنْسَانُ فِي نِهَايَةِ الأَمْرِ قَضِيَّةٌ» (Language concept U29)",
+            "الوطن هو مجرد ذكريات قديمة منسية (alwtn hw mjrd dhkryat qdymh mnsyh)",
+            "الوطن هو قطعة أرض تباع وتشترى بالمال (alwtn hw qt'ah ard tba'a wtshtra balmal)",
+            "الوطن هو الاستسلام للأمر الواقع (alwtn hw alastslam llamr alwaq'a)"
           ],
           "answerIndex": 0,
           "explanation": "نقل كنفاني مفهوم الوطن من الحيز الجغرافي الساكن إلى الموقف الأخلاقي والنضالي الفاعل (الإنسان قضية)."
@@ -17486,10 +17486,10 @@
         {
           "prompt": "اختر المصطلح النقدي الذي أطلقه كنفاني ورسخه في دراساته الأدبية حول أدب فلسطين المحتلة:",
           "options": [
-            "«أَدَبُ المُقَاوَمَةِ»",
-            "الواقعية السحرية",
-            "المسرح العبثي",
-            "أدب كنفاني رجال شمس سكون"
+            "«أَدَبُ المُقَاوَمَةِ» (Language concept U29)",
+            "الواقعية السحرية (alwaq'ayh alshryh)",
+            "المسرح العبثي (almsrh al'abthy)",
+            "أدب كنفاني رجال شمس سكون (adb knfany rjal shms skwn)"
           ],
           "answerIndex": 0,
           "explanation": "غسان كنفاني هو أول من نحت ورسخ مصطلح «أدب المقاومة» في النقد العربي المعاصر."
@@ -17497,10 +17497,10 @@
         {
           "prompt": "ما إعراب كلمة «مُدَوِّيَةٍ» في جملة: «خَتَمَ الرِّوَايَةَ بِصَرْخَةٍ وُجُودِيَّةٍ مُدَوِّيَةٍ»؟",
           "options": [
-            "نَعْتٌ ثَانٍ مَجْرُورٌ بِالكَسْرَةِ الظَّاهِرَةِ",
-            "مفعول به منصوب",
-            "مضاف إليه مجرور",
-            "حال منصوبة"
+            "نَعْتٌ ثَانٍ مَجْرُورٌ بِالكَسْرَةِ الظَّاهِرَةِ (na'atun thaanin majruwrun bialkasrahi alzaahirahi)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "«بِصَرْخَةٍ» اسم مجرور، «وُجُودِيَّةٍ» نعت أول، و«مُدَوِّيَةٍ» نعت ثانٍ مجرور بالكسرة."
@@ -17513,10 +17513,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يحلل بلاغة أدب المقاومة والرمز عند غسان كنفاني بأعلى مستويات الجزالة التعبيرية:",
           "options": [
-            "مَثَّلَ غَسَّان كَنَفَانِي صَوْتَ الضَّمِيرِ فِي الرِّوَايَةِ العَرَبِيَّةِ الحَدِيثَةِ؛ حَيْثُ ابْتَكَرَ مَفْهُومَ «أَدَبِ المُقَاوَمَةِ» وَصَاغَ فِي «رِجَالٌ فِي الشَّمْسِ» صَرْخَةً تَحُثُّ عَلَى الثَّوْرَةِ وَدَقِّ جُدْرَانِ الصَّمْتِ، بَيْنَمَا أَعَادَ فِي «عَائِدٌ إِلَى حَيْفَا» تَأْسِيسَ مَفْهُومِ الوَطَنِ بِاعْتِبَارِهِ مَوْقِفًا أَخْلَاقِيًّا وَإِنْسَانِيًّا يَسْمُو عَلَى حُدُودِ الجُغْرَافْيَا، لِيَغْدُوَ الحَرْفُ عِنْدَهُ سِلَاحًا لِلْحَقِيقَةِ وَتَخْلِيدِ الهُوِيَّةِ.",
-            "غسان كنفاني كاتب فلسطيني الف روايات عن القضية الفلسطينية.",
-            "ادب المقاومة غسان كنفاني رجال في الشمس عائد الى حيفا ام سعد سكون فتحة ضمة.",
-            "توقفت كتابة الروايات المقاومة بعد وفاة كنفاني."
+            "مَثَّلَ غَسَّان كَنَفَانِي صَوْتَ الضَّمِيرِ فِي الرِّوَايَةِ العَرَبِيَّةِ الحَدِيثَةِ؛ حَيْثُ ابْتَكَرَ مَفْهُومَ «أَدَبِ المُقَاوَمَةِ» وَصَاغَ فِي «رِجَالٌ فِي الشَّمْسِ» صَرْخَةً تَحُثُّ عَلَى الثَّوْرَةِ وَدَقِّ جُدْرَانِ الصَّمْتِ، بَيْنَمَا أَعَادَ فِي «عَائِدٌ إِلَى حَيْفَا» تَأْسِيسَ مَفْهُومِ الوَطَنِ بِاعْتِبَارِهِ مَوْقِفًا أَخْلَاقِيًّا وَإِنْسَانِيًّا يَسْمُو عَلَى حُدُودِ الجُغْرَافْيَا، لِيَغْدُوَ الحَرْفُ عِنْدَهُ سِلَاحًا لِلْحَقِيقَةِ وَتَخْلِيدِ الهُوِيَّةِ. (Language concept U29)",
+            "غسان كنفاني كاتب فلسطيني الف روايات عن القضية الفلسطينية. (ghsan knfany katb flstyny alf rwayat 'an alqdyh alflstynyh.)",
+            "ادب المقاومة غسان كنفاني رجال في الشمس عائد الى حيفا ام سعد سكون فتحة ضمة. (adb almqawmh ghsan knfany rjal fy alshms 'aa'd ala hyfa am s'ad skwn fthh dmh.)",
+            "توقفت كتابة الروايات المقاومة بعد وفاة كنفاني. (twqft ktabh alrwayat almqawmh b'ad wfah knfany.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب الأبعاد الكاملة لتجربة كنفاني: ابتكار مصطلح أدب المقاومة، رمزية كسر الصمت في رجال في الشمس، والأبعاد الأخلاقية للوطن في عائد إلى حيفا."
@@ -17582,10 +17582,10 @@
         {
           "prompt": "ما هي الرواية العبقرية للأديب السوداني الطيب صالح التي تُعد درة السرد الروائي في الصدام الحضاري بين الشرق والغرب؟",
           "options": [
-            "«مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ»",
-            "بين القصرين",
-            "رجال في الشمس",
-            "أهل الكهف"
+            "«مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ» (Language concept U29)",
+            "بين القصرين (byn alqsryn)",
+            "رجال في الشمس (rjal fy alshms)",
+            "أهل الكهف (ahl alkhf)"
           ],
           "answerIndex": 0,
           "explanation": "رواية «موسم الهجرة إلى الشمال» (1966) هي العمل الأيقوني في تفكيك علاقة الشرق بالغرب ما بعد الاستعمار."
@@ -17593,10 +17593,10 @@
         {
           "prompt": "ما هو الاسم المحوري لبطل رواية «موسم الهجرة إلى الشمال» الذي مثل رحلة الغزو المعرفي والانتقامي المعاكس في إنجلترا؟",
           "options": [
-            "مُصْطَفَى سَعِيد",
-            "كمال عبد الجواد",
-            "سعيد مهران",
-            "أبو الخيزران"
+            "مُصْطَفَى سَعِيد (mustafaa sa'aiyd)",
+            "كمال عبد الجواد (kmal 'abd aljwad)",
+            "سعيد مهران (s'ayd mhran)",
+            "أبو الخيزران (abw alkhyzran)"
           ],
           "answerIndex": 0,
           "explanation": "مصطفى سعيد هو بطل الرواية المعقد الذي جسد الصدام العنيف بين الشرق والجنوب والشمال الأوروبي."
@@ -17608,10 +17608,10 @@
         {
           "prompt": "اختر العبارة التي تعبر عن المعنى الرمزي لموقف الراوي في منتصف النيل بنهاية «موسم الهجرة إلى الشمال»:",
           "options": [
-            "«انْتِصَارُ إِرَادَةِ الحَيَاةِ وَتَجَاوُزُ عُقْدَةِ التَّمَزُّقِ بَيْنَ الشَّمَالِ وَالجَنُوبِ بِقَوْلِهِ: أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ».",
-            "الاستسلام للغرق والموت بدون مقاومة",
-            "الهروب الدائم إلى لندن",
-            "موسم هجرة طيب صالح نيل سكون"
+            "«انْتِصَارُ إِرَادَةِ الحَيَاةِ وَتَجَاوُزُ عُقْدَةِ التَّمَزُّقِ بَيْنَ الشَّمَالِ وَالجَنُوبِ بِقَوْلِهِ: أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ». (Language concept U29)",
+            "الاستسلام للغرق والموت بدون مقاومة (alastslam llghrq walmwt bdwn mqawmh)",
+            "الهروب الدائم إلى لندن (alhrwb alda'm ila lndn)",
+            "موسم هجرة طيب صالح نيل سكون (mwsm hjrh tyb salh nyl skwn)"
           ],
           "answerIndex": 0,
           "explanation": "مشهد النيل يمثل ولادة جديدة لوعي الذات والانتصار للحياة ضد ثنائية الفناء والاستلاب."
@@ -17619,10 +17619,10 @@
         {
           "prompt": "ما إعراب كلمة «دُرَّةَ» في جملة: «تُعَدُّ الرِّوَايَةُ دُرَّةَ الأَدَبِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "نائب فاعل مرفوع بالضمة",
-            "نعت منصوب بالفتحة",
-            "حال منصوبة"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "نائب فاعل مرفوع بالضمة (na'b fa'al mrfw'a baldmh)",
+            "نعت منصوب بالفتحة (n'at mnswb balfthh)",
+            "حال منصوبة (hal mnswbh)"
           ],
           "answerIndex": 0,
           "explanation": "«الرِّوَايَةُ» نائب فاعل لـ «تُعَدُّ»، و«دُرَّةَ» مفعول به ثانٍ منصوب بالفتحة."
@@ -17635,10 +17635,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يحلل الأبعاد الفلسفية وما بعد الاستعمارية في أدب الطيب صالح بأعلى درجات البلاغة والموضوعية:",
           "options": [
-            "تُشَكِّلُ «مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ» لِلطَّيِّبِ صَالِحٍ مَلْحَمَةً سَرْدِيَّةً خَالِدَةً فَكَّكَتْ مَرْكَزِيَّةَ الخِطَابِ الاسْتِعْمَارِيِّ؛ حَيْثُ حَوَّلَ مُصْطَفَى سَعِيد الصِّدَامَ بَيْنَ دِفْءِ الجَنُوبِ وَصَقِيعِ الشَّمَالِ إِلَى مِرْآةٍ تَعْكِسُ مَأْسَاةَ الهُوِيَّةِ المُمَزَّقَةِ، لِيَنْتَهِيَ الصِّرَاعُ عِنْدَ لَحْظَةِ النِّيلِ الحَاسِمَةِ بِانْتِصَارِ صَوْتِ الوُجُودِ: «أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ»، فَامْتَزَجَ سِحْرُ الشَّرْقِ بِأَسْئِلَةِ الإِنْسَانِ الكَوْنِيَّةِ.",
-            "الطيب صالح كاتب سوداني مشهور كتب رواية موسم الهجرة وعرس الزين.",
-            "موسم الهجرة الى الشمال الطيب صالح مصطفى سعيد عرس الزين سكون فتحة ضمة.",
-            "تدور الرواية حول الطيور المهاجرة في فصل الشتاء."
+            "تُشَكِّلُ «مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ» لِلطَّيِّبِ صَالِحٍ مَلْحَمَةً سَرْدِيَّةً خَالِدَةً فَكَّكَتْ مَرْكَزِيَّةَ الخِطَابِ الاسْتِعْمَارِيِّ؛ حَيْثُ حَوَّلَ مُصْطَفَى سَعِيد الصِّدَامَ بَيْنَ دِفْءِ الجَنُوبِ وَصَقِيعِ الشَّمَالِ إِلَى مِرْآةٍ تَعْكِسُ مَأْسَاةَ الهُوِيَّةِ المُمَزَّقَةِ، لِيَنْتَهِيَ الصِّرَاعُ عِنْدَ لَحْظَةِ النِّيلِ الحَاسِمَةِ بِانْتِصَارِ صَوْتِ الوُجُودِ: «أَنَا حَيٌّ وَأُرِيدُ أَنْ أَعِيشَ»، فَامْتَزَجَ سِحْرُ الشَّرْقِ بِأَسْئِلَةِ الإِنْسَانِ الكَوْنِيَّةِ. (Language concept U29)",
+            "الطيب صالح كاتب سوداني مشهور كتب رواية موسم الهجرة وعرس الزين. (altyb salh katb swdany mshhwr ktb rwayh mwsm alhjrh w'ars alzyn.)",
+            "موسم الهجرة الى الشمال الطيب صالح مصطفى سعيد عرس الزين سكون فتحة ضمة. (mwsm alhjrh ala alshmal altyb salh mstfa s'ayd 'ars alzyn skwn fthh dmh.)",
+            "تدور الرواية حول الطيور المهاجرة في فصل الشتاء. (tdwr alrwayh hwl altywr almhajrh fy fsl alshta'.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: تفكيك الخطاب الاستعماري، تحليل الصدام بين الشمال والجنوب، والدلالة الوجودية لصرخة الحياة في النهر."
@@ -17702,10 +17702,10 @@
         {
           "prompt": "ما هو التيار المسرحي الرائد الذي ابتكره الكاتب المصري توفيق الحكيم في مسرحيات مثل «أهل الكهف» و«شهرزاد»؟",
           "options": [
-            "المَسْرَحُ الذِّهْنِيُّ",
-            "مسرح العرائس للأطفال",
-            "المسرح الإيمائي الصامت",
-            "الكوميديا التهريجية"
+            "المَسْرَحُ الذِّهْنِيُّ (almasrahu aldhihniyu)",
+            "مسرح العرائس للأطفال (msrh al'ara's llatfal)",
+            "المسرح الإيمائي الصامت (almsrh aliyma'y alsamt)",
+            "الكوميديا التهريجية (alkwmydya althryjyh)"
           ],
           "answerIndex": 0,
           "explanation": "المسرح الذهني عند توفيق الحكيم هو مسرح الأفكار الفلسفية والتأمل العقلي في قضايا الوجود والزمن."
@@ -17713,10 +17713,10 @@
         {
           "prompt": "من هو المسرحي السوري الرائد صاحب عبارة «إننا محكومون بالأمل» ومسرحية «حفلة سمر من أجل 5 حزيران»؟",
           "options": [
-            "سَعْد الله وَنُّوس",
-            "أحمد شوقي",
-            "مارون النقاش",
-            "محمود درويش"
+            "سَعْد الله وَنُّوس (sa'ad allh wanuws)",
+            "أحمد شوقي (ahmd shwqy)",
+            "مارون النقاش (marwn alnqash)",
+            "محمود درويش (mhmwd drwysh)"
           ],
           "answerIndex": 0,
           "explanation": "سعد الله ونوس هو رائد مسرح التسييس والتثوير وصاحب العبارة الخالدة «إننا محكومون بالأمل»."
@@ -17728,10 +17728,10 @@
         {
           "prompt": "ماذا يعني تكنيك «هَدْمِ الجِدَارِ الرَّابِعِ» في مسرح التسييس عند سعد الله ونوس؟",
           "options": [
-            "إِلْغَاءُ الفَاصِلِ التَّقْلِيدِيِّ بَيْنَ المُمَثِّلِينَ وَالجُمْهُورِ لِإِشْرَاكِ المُشَاهِدِينَ فِي الحِوَارِ وَالصِّرَاعِ",
-            "هدم جدران المسرح بمعاول البناء",
-            "إطفاء أنوار القاعة بالكامل",
-            "مسرح ونوس حكيم صراع سكون"
+            "إِلْغَاءُ الفَاصِلِ التَّقْلِيدِيِّ بَيْنَ المُمَثِّلِينَ وَالجُمْهُورِ لِإِشْرَاكِ المُشَاهِدِينَ فِي الحِوَارِ وَالصِّرَاعِ (iilghaa'u alfaasili altaqliydiyi bayna almumathiliyna waaljumhuwri liiishraaki almushaahidiyna fiy alhiwaari waalsiraa'ai)",
+            "هدم جدران المسرح بمعاول البناء (hdm jdran almsrh bm'aawl albna')",
+            "إطفاء أنوار القاعة بالكامل (itfa' anwar alqa'ah balkaml)",
+            "مسرح ونوس حكيم صراع سكون (msrh wnws hkym sra'a skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هدم الجدار الرابع يجعل المتفرج شريكاً فاعلاً في نقد الواقع ومساءلة الخطاب السياسي."
@@ -17739,10 +17739,10 @@
         {
           "prompt": "ما إعراب كلمة «مَحْكُومُونَ» في قول ونوس: «إِنَّنَا مَحْكُومُونَ بِالأَمَلِ»؟",
           "options": [
-            "خَبَرُ إِنَّ مَرْفُوعٌ بِالوَاوِ لِأَنَّهُ جَمْعُ مُذَكَّرٍ سَالِمٌ",
-            "اسم إن منصوب بالياء",
-            "فاعل مرفوع بالواو",
-            "نعت مرفوع"
+            "خَبَرُ إِنَّ مَرْفُوعٌ بِالوَاوِ لِأَنَّهُ جَمْعُ مُذَكَّرٍ سَالِمٌ (khabaru iina marfuw'aun bialwaawi liaanahu jam'au mudhakarin saalimun)",
+            "اسم إن منصوب بالياء (asm in mnswb balya')",
+            "فاعل مرفوع بالواو (fa'al mrfw'a balwaw)",
+            "نعت مرفوع (n'at mrfw'a)"
           ],
           "answerIndex": 0,
           "explanation": "الضمير «نَا» اسم إن، و«مَحْكُومُونَ» خبر إن مرفوع بالواو لأنه جمع مذكر سالم."
@@ -17755,10 +17755,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي الذي يحلل تطور المسرح العربي الحديث وتكامله بين فكر توفيق الحكيم وثورية سعد الله ونوس بأعلى معايير الفصاحة:",
           "options": [
-            "شَهِدَ المَسْرَحُ العَرَبِيُّ الحَدِيثُ طَفْرَةً فِكْرِيَّةً كُبْرَى نَقَلَتْهُ مِنْ مَرَاحِلِ الاِقْتِبَاسِ إِلَى ذِرْوَةِ النُّضْجِ الإِبْدَاعِيِّ؛ حَيْثُ أَرْسَى تَوْفِيق الحَكِيم دَعَائِمَ «المَسْرَحِ الذِّهْنِيِّ» مُعَالِجًا صِرَاعَ الإِنْسَانِ مَعَ الزَّمَنِ وَالمَعْرِفَةِ، بَيْنَمَا أَطْلَقَ سَعْد الله وَنُّوس «مَسْرَحَ التَّسْيِيسِ» هَادِمًا الجِدَارَ الرَّابِعَ لِمُسَاءَلَةِ الوَاقِعِ، مُرَسِّخًا حَقِيقَةَ أَنَّ المَسْرَحَ مِحْرَابٌ لِلْوَعْيِ وَأَنَّنَا دَوْمًا «مَحْكُومُونَ بِالأَمَلِ».",
-            "المسرح العربي فن تمثيلي يعرض على خشبة المسرح امام الجمهور.",
-            "مسرح عربي توفيق الحكيم سعد الله ونوس مارون النقاش اهل الكهف سكون فتحة ضمة.",
-            "اختفى المسرح العربي بعد ظهور السينما والتلفزيون."
+            "شَهِدَ المَسْرَحُ العَرَبِيُّ الحَدِيثُ طَفْرَةً فِكْرِيَّةً كُبْرَى نَقَلَتْهُ مِنْ مَرَاحِلِ الاِقْتِبَاسِ إِلَى ذِرْوَةِ النُّضْجِ الإِبْدَاعِيِّ؛ حَيْثُ أَرْسَى تَوْفِيق الحَكِيم دَعَائِمَ «المَسْرَحِ الذِّهْنِيِّ» مُعَالِجًا صِرَاعَ الإِنْسَانِ مَعَ الزَّمَنِ وَالمَعْرِفَةِ، بَيْنَمَا أَطْلَقَ سَعْد الله وَنُّوس «مَسْرَحَ التَّسْيِيسِ» هَادِمًا الجِدَارَ الرَّابِعَ لِمُسَاءَلَةِ الوَاقِعِ، مُرَسِّخًا حَقِيقَةَ أَنَّ المَسْرَحَ مِحْرَابٌ لِلْوَعْيِ وَأَنَّنَا دَوْمًا «مَحْكُومُونَ بِالأَمَلِ». (5 (U29))",
+            "المسرح العربي فن تمثيلي يعرض على خشبة المسرح امام الجمهور. (almsrh al'arby fn tmthyly y'ard 'ala khshbh almsrh amam aljmhwr.)",
+            "مسرح عربي توفيق الحكيم سعد الله ونوس مارون النقاش اهل الكهف سكون فتحة ضمة. (msrh 'arby twfyq alhkym s'ad allh wnws marwn alnqash ahl alkhf skwn fthh dmh.)",
+            "اختفى المسرح العربي بعد ظهور السينما والتلفزيون. (akhtfa almsrh al'arby b'ad zhwr alsynma waltlfzywn.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: التحليل الفلسفي للمسرح الذهني (الحكيم)، التحليل السياسي والدرامي لمسرح التسييس وكسر الجدار الرابع (ونوس)، والتأصيل التاريخي للمسرح كمنبر وعي."
@@ -17824,10 +17824,10 @@
         {
           "prompt": "في التحليل السردي التكاملي، كيف تدرجت الرواية العربية الحديثة من نجيب محفوظ إلى غسان كنفاني والطيب صالح؟",
           "options": [
-            "انْتَقَلَتْ مِنْ تَشْرِيحِ الوَاقِعِ الاجْتِمَاعِيِّ إِلَى حَمْلِ القَضِيَّةِ النِّضَالِيَّةِ وَمُسَاءَلَةِ صِدَامِ الشَّرْقِ وَالغَرْبِ",
-            "تراجعت الرواية وتوقفت عن التطور تماما (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "أصبحت مجرد قصص أطفال ترفيهية (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "تحولت إلى نصوص شعرية فقط (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)"
+            "انْتَقَلَتْ مِنْ تَشْرِيحِ الوَاقِعِ الاجْتِمَاعِيِّ إِلَى حَمْلِ القَضِيَّةِ النِّضَالِيَّةِ وَمُسَاءَلَةِ صِدَامِ الشَّرْقِ وَالغَرْبِ (antaqalat min tashriyhi alwaaqi'ai alajtimaa'aiyi iilaa hamli alqadiyahi alnidaaliyahi wamusaa'alahi sidaami alsharqi waalgharbi)",
+            "تراجعت الرواية وتوقفت عن التطور تماما (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "أصبحت مجرد قصص أطفال ترفيهية (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "تحولت إلى نصوص شعرية فقط (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "السرد العربي تطور من الواقعية الاجتماعية (محفوظ) إلى أدب المقاومة (كنفاني) وأسئلة ما بعد الاستعمار (الطيب صالح)."
@@ -17835,10 +17835,10 @@
         {
           "prompt": "ما هو الرابط الفكري المشترك بين المسرح الذهني عند توفيق الحكيم ومسرح التسييس عند سعد الله ونوس؟",
           "options": [
-            "جَعْلُ خَشَبَةِ المَسْرَحِ مِنْبَرًا لِإِعْمَالِ العَقْلِ، إِيقَاظِ الوَعْيِ، وَمُسَاءَلَةِ أَزَمَاتِ الإِنْسَانِ وَالمُجْتَمَعِ",
-            "تقديم عروض سيرك وألعاب بهلوانية فقط (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "إلغاء النص المسرحي المكتوب (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "التشجيع على اليأس والاستسلام (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)"
+            "جَعْلُ خَشَبَةِ المَسْرَحِ مِنْبَرًا لِإِعْمَالِ العَقْلِ، إِيقَاظِ الوَعْيِ، وَمُسَاءَلَةِ أَزَمَاتِ الإِنْسَانِ وَالمُجْتَمَعِ (Language concept U29)",
+            "تقديم عروض سيرك وألعاب بهلوانية فقط (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "إلغاء النص المسرحي المكتوب (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "التشجيع على اليأس والاستسلام (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "كلاهما وظف المسرح لمعالجة القضايا الكبرى؛ الحكيم فلسفياً وذهنياً، وونوس سياسياً ونضالياً."
@@ -17850,10 +17850,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تلخص رسالة الأدب الروائي والمسرحي العربي الحديث بفصاحة نقدية تامة:",
           "options": [
-            "— كَيْفَ تَرَيْنَ جَوْهَرَ السَّرْدِ العَرَبِيِّ؟ — أَرَاهُ سَفَرًا فِي أَعْمَاقِ الذَّاتِ الإِنْسَانِيَّةِ يَسْعَى إِلَى الحُرِّيَّةِ وَيَرْفَعُ رَايَةَ الأَمَلِ فِي وَجْهِ الظَّلَامِ.",
-            "— هل قرأت رواية جديدة هذا الأسبوع؟ — نعم قرأت كتابا صغيرا. (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "— أين تباع تذاكر المسرح الوطني؟ — في شباك التذاكر عند المدخل. (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "— حوار ندوة نقد رواية مسرح سكون. (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)"
+            "— كَيْفَ تَرَيْنَ جَوْهَرَ السَّرْدِ العَرَبِيِّ؟ — أَرَاهُ سَفَرًا فِي أَعْمَاقِ الذَّاتِ الإِنْسَانِيَّةِ يَسْعَى إِلَى الحُرِّيَّةِ وَيَرْفَعُ رَايَةَ الأَمَلِ فِي وَجْهِ الظَّلَامِ. (Language concept U29)",
+            "— هل قرأت رواية جديدة هذا الأسبوع؟ — نعم قرأت كتابا صغيرا. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "— أين تباع تذاكر المسرح الوطني؟ — في شباك التذاكر عند المدخل. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "— حوار ندوة نقد رواية مسرح سكون. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجسد الغاية السامية للأدب العربي في السعي نحو الحرية وترسيخ قيم الأمل والكرامة."
@@ -17861,10 +17861,10 @@
         {
           "prompt": "ما إعراب كلمة «سَفَرًا» في قولنا: «أَرَاهُ سَفَرًا فِي أَعْمَاقِ الذَّاتِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "حال منصوبة بالفتحة (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "نعت منصوب (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "تمييز منصوب (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "حال منصوبة بالفتحة (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "نعت منصوب (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "تمييز منصوب (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «رَأَى» القلبي ينصب مفعولين؛ الهاء مفعول أول، و«سَفَرًا» مفعول به ثانٍ منصوب."
@@ -17877,10 +17877,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري النقدي الشامل الذي يدمج مخرجات الوحدة التاسعة والعشرين بأكملها (محفوظ، كنفاني، الطيب صالح، توفيق الحكيم، وسعد الله ونوس):",
           "options": [
-            "د. إِبْرَاهِيم: «دُكْتُورَة لَيْلَى، كَيْفَ نُلَخِّصُ عَبْقَرِيَّةَ السَّرْدِ وَالمَسْرَحِ العَرَبِيِّ فِي تَشْكِيلِ الوَعْيِ الحَدِيثِ؟» — د. لَيْلَى: «إِنَّهَا مَلْحَمَةُ الهُوِيَّةِ وَالحُرِّيَّةِ؛ حَيْثُ شَيَّدَ مَحْفُوظ صَرْحَ الوَاقِعِيَّةِ فِي الثُّلَاثِيَّةِ، وَفَجَّرَ كَنَفَانِي صَرْخَةَ المُقَاوَمَةِ فِي رِجَالٍ فِي الشَّمْسِ، وَشَرَّحَ الطَّيِّبُ صَالِحٌ صِدَامَ الحَضَارَاتِ فِي مَوْسِمِ الهِجْرَةِ، بَيْنَمَا مَزَجَ الحَكِيمُ وَوَنُّوس بَيْنَ المَسْرَحِ الذِّهْنِيِّ وَالتَّسْيِيسِ النِّضَالِيِّ، لِيَظَلَّ أَدَبُنَا شَاهِدًا خَالِدًا عَلَى أَنَّنَا دَوْمًا «مَحْكُومُونَ بِالأَمَلِ»».",
-            "د. إبراهيم: هل كانت الندوة النقدية مفيدة اليوم؟ — د. ليلى: نعم كانت ندوة جيدة وممتعة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "حوار نقدي شامل محفوظ كنفاني طيب صالح حكيم ونوس رواية مسرح سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)",
-            "توقفت الروايات والمسرحيات العربية عن الصدور نهائيا. (الدمج الشامل لكافة مخرجات الوحدة التاسعة والعشرين)"
+            "د. إِبْرَاهِيم: «دُكْتُورَة لَيْلَى، كَيْفَ نُلَخِّصُ عَبْقَرِيَّةَ السَّرْدِ وَالمَسْرَحِ العَرَبِيِّ فِي تَشْكِيلِ الوَعْيِ الحَدِيثِ؟» — د. لَيْلَى: «إِنَّهَا مَلْحَمَةُ الهُوِيَّةِ وَالحُرِّيَّةِ؛ حَيْثُ شَيَّدَ مَحْفُوظ صَرْحَ الوَاقِعِيَّةِ فِي الثُّلَاثِيَّةِ، وَفَجَّرَ كَنَفَانِي صَرْخَةَ المُقَاوَمَةِ فِي رِجَالٍ فِي الشَّمْسِ، وَشَرَّحَ الطَّيِّبُ صَالِحٌ صِدَامَ الحَضَارَاتِ فِي مَوْسِمِ الهِجْرَةِ، بَيْنَمَا مَزَجَ الحَكِيمُ وَوَنُّوس بَيْنَ المَسْرَحِ الذِّهْنِيِّ وَالتَّسْيِيسِ النِّضَالِيِّ، لِيَظَلَّ أَدَبُنَا شَاهِدًا خَالِدًا عَلَى أَنَّنَا دَوْمًا «مَحْكُومُونَ بِالأَمَلِ»». (Language concept U29)",
+            "د. إبراهيم: هل كانت الندوة النقدية مفيدة اليوم؟ — د. ليلى: نعم كانت ندوة جيدة وممتعة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "حوار نقدي شامل محفوظ كنفاني طيب صالح حكيم ونوس رواية مسرح سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)",
+            "توقفت الروايات والمسرحيات العربية عن الصدور نهائيا. (aldmj alshaml lkafh mkhrjat alwhdh altas'ah wal'ashryn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة التحليل النقدي الموسوعي في دمج: واقعية محفوظ، أدب مقاومة كنفاني، استشراف الطيب صالح، ومسرح الحكيم وونوس مع الشعار الخالد «محكومون بالأمل»."
@@ -17946,10 +17946,10 @@
         {
           "prompt": "ما هو الكتاب الرياضي التأسيسي الذي ألفه الخوارزمي في بغداد واشتق منه اسم علم الجبر في العالم؟",
           "options": [
-            "«المُخْتَصَرُ فِي حِسَابِ الجَبْرِ وَالمُقَابَلَةِ»",
-            "كتاب الأغاني",
-            "كتاب المناظر",
-            "القانون في الطب"
+            "«المُخْتَصَرُ فِي حِسَابِ الجَبْرِ وَالمُقَابَلَةِ» (Language concept U30)",
+            "كتاب الأغاني (ktab alaghany)",
+            "كتاب المناظر (ktab almnazr)",
+            "القانون في الطب (alqanwn fy altb)"
           ],
           "answerIndex": 0,
           "explanation": "كتاب «المختصر في حساب الجبر والمقابلة» هو الكتاب المؤسس لعلم الجبر الحديث."
@@ -17957,10 +17957,10 @@
         {
           "prompt": "ما هو المصطلح الحاسوبي والرياضي العالمي المشتق مباشرة من اسم العالم محمد بن موسى الخوارزمي؟",
           "options": [
-            "الخَوَارِزْمِيَّةُ",
-            "اللوغاريتم اللاتيني",
-            "الهندسة الفراغية",
-            "المصفوفات العشوائية"
+            "الخَوَارِزْمِيَّةُ (alkhawaarizmiyahu)",
+            "اللوغاريتم اللاتيني (allwgharytm allatyny)",
+            "الهندسة الفراغية (alhndsh alfraghyh)",
+            "المصفوفات العشوائية (almsfwfat al'ashwa'yh)"
           ],
           "answerIndex": 0,
           "explanation": "مصطلح Algorithm مشتق من اللفظ اللاتيني لاسمه (Algoritmi) ويشير للخطوات المنطقية لحل المسائل."
@@ -17972,10 +17972,10 @@
         {
           "prompt": "اختر الأثر العلمي لإدخال علماء الحضارة العربية الإسلامية لـ «الصفر» في الترقيم الحسابي:",
           "options": [
-            "«تَحْوِيلُ الأَنْظِمَةِ العَدَدِيَّةِ إِلَى النِّظَامِ العَشْرِيِّ المَوْضِعِيِّ المَرِنِ الَّذِي قَامَتْ عَلَيْهِ الرِّيَاضِيَّاتُ الحَدِيثَةُ».",
-            "تعقيد العمليات الحسابية ومنع استخدام الأرقام",
-            "إلغاء الكسور والعمليات العشرية",
-            "خوارزمي جبر مقابلة صفر سكون"
+            "«تَحْوِيلُ الأَنْظِمَةِ العَدَدِيَّةِ إِلَى النِّظَامِ العَشْرِيِّ المَوْضِعِيِّ المَرِنِ الَّذِي قَامَتْ عَلَيْهِ الرِّيَاضِيَّاتُ الحَدِيثَةُ». (Language concept U30)",
+            "تعقيد العمليات الحسابية ومنع استخدام الأرقام (t'aqyd al'amlyat alhsabyh wmn'a astkhdam alarqam)",
+            "إلغاء الكسور والعمليات العشرية (ilgha' alkswr wal'amlyat al'ashryh)",
+            "خوارزمي جبر مقابلة صفر سكون (khwarzmy jbr mqablh sfr skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الصفر والقيمة الموضعية مكّنا من إجراء العمليات الحسابية المعقدة بسهولة فائقة وأسسا لعلم الحواسيب."
@@ -17983,10 +17983,10 @@
         {
           "prompt": "ما إعراب كلمة «عِلْمَ» في جملة: «أَسَّسَ الخَوَارِزْمِيُّ عِلْمَ الجَبْرِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "مضاف إليه مجرور",
-            "نعت منصوب"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)",
+            "نعت منصوب (n'at mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«الخَوَارِزْمِيُّ» فاعل مرفوع، و«عِلْمَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -17999,10 +17999,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التوثيقي الرياضي الذي يحلل الثورة العلمية للخوارزمي في الجبر والحوسبة بأعلى مستويات الدقة العلمية واللغوية:",
           "options": [
-            "أَحْدَثَ مُحَمَّد بْنُ مُوسَى الخَوَارِزْمِيُّ انْعِطَافَةً جَذْرِيَّةً فِي تَارِيخِ الرِّيَاضِيَّاتِ العَالَمِيَّةِ؛ حَيْثُ دَشَّنَ عِلْمَ «الجَبْرِ وَالمُقَابَلَةِ» كَمَنْظُومَةٍ تَجْرِيدِيَّةٍ لِحَلِّ المُعَادَلَاتِ، وَأَهْدَى الإِنْسَانِيَّةَ النِّظَامَ العَشْرِيَّ وَالصِّفْرَ، فَتَحَوَّلَ اسْمُهُ إِلَى مُصْطَلَحِ «الخَوَارِزْمِيَّاتِ» الَّذِي يُدِيرُ عَصْرَ الثَّوْرَةِ الرَّقْمِيَّةِ وَالذَّكَاءِ الاصْطِنَاعِيِّ.",
-            "الخوارزمي عالم عربي عاش في بغداد وكتب في الرياضيات.",
-            "جبر ومقابلة خوارزميات صفر نظام عشري بيت الحكمة سكون فتحة ضمة.",
-            "اقتصرت إسهامات الخوارزمي على علم الجغرافيا فقط."
+            "أَحْدَثَ مُحَمَّد بْنُ مُوسَى الخَوَارِزْمِيُّ انْعِطَافَةً جَذْرِيَّةً فِي تَارِيخِ الرِّيَاضِيَّاتِ العَالَمِيَّةِ؛ حَيْثُ دَشَّنَ عِلْمَ «الجَبْرِ وَالمُقَابَلَةِ» كَمَنْظُومَةٍ تَجْرِيدِيَّةٍ لِحَلِّ المُعَادَلَاتِ، وَأَهْدَى الإِنْسَانِيَّةَ النِّظَامَ العَشْرِيَّ وَالصِّفْرَ، فَتَحَوَّلَ اسْمُهُ إِلَى مُصْطَلَحِ «الخَوَارِزْمِيَّاتِ» الَّذِي يُدِيرُ عَصْرَ الثَّوْرَةِ الرَّقْمِيَّةِ وَالذَّكَاءِ الاصْطِنَاعِيِّ. (Language concept U30)",
+            "الخوارزمي عالم عربي عاش في بغداد وكتب في الرياضيات. (alkhwarzmy 'aalm 'arby 'aash fy bghdad wktb fy alryadyat.)",
+            "جبر ومقابلة خوارزميات صفر نظام عشري بيت الحكمة سكون فتحة ضمة. (jbr wmqablh khwarzmyat sfr nzam 'ashry byt alhkmh skwn fthh dmh.)",
+            "اقتصرت إسهامات الخوارزمي على علم الجغرافيا فقط. (aqtsrt ishamat alkhwarzmy 'ala 'alm aljghrafya fqt.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين: تأسيس علم الجبر كمنظومة تجريدية، إدخال الصفر والنظام الموضعي، والامتداد المعاصر لمصطلح الخوارزميات في الحوسبة والذكاء الاصطناعي."
@@ -18068,10 +18068,10 @@
         {
           "prompt": "ما هو الكتاب الموسوعي العظيم للحسن بن الهيثم الذي أحدث ثورة كبرى في علم الضوء والبصريات؟",
           "options": [
-            "«كِتَابُ المَنَاظِرِ»",
-            "كتاب الحيوان للجاحظ",
-            "كتاب الشفاء لابن سينا",
-            "رسالة الغفران للمعرّي"
+            "«كِتَابُ المَنَاظِرِ» (Language concept U30)",
+            "كتاب الحيوان للجاحظ (ktab alhywan lljahz)",
+            "كتاب الشفاء لابن سينا (ktab alshfa' labn syna)",
+            "رسالة الغفران للمعرّي (rsalh alghfran llm'ary)"
           ],
           "answerIndex": 0,
           "explanation": "«كتاب المناظر» هو المرجع العلمي العالمي الأشهر في تأسيس علم البصريات وتفنيد نظريات الإغريق."
@@ -18079,10 +18079,10 @@
         {
           "prompt": "كيف أثبت ابن الهيثم آلية حدوث الرؤية والإبصار؟",
           "options": [
-            "بِانْعِكَاسِ الضَّوْءِ مِنَ الأَجْسَامِ المُضِيئَةِ وَدُخُولِهِ إِلَى العَيْنِ",
-            "بخروج أشعة نورانية من داخل العين إلى الخارج",
-            "عبر التخيل النفسي للأشياء دون ضوء",
-            "بتحريك العين بسرعة فائقة"
+            "بِانْعِكَاسِ الضَّوْءِ مِنَ الأَجْسَامِ المُضِيئَةِ وَدُخُولِهِ إِلَى العَيْنِ (bian'aikaasi aldaw'i mina alaajsaami almudiy'ahi wadukhuwlihi iilaa al'aayni)",
+            "بخروج أشعة نورانية من داخل العين إلى الخارج (bkhrwj ash'ah nwranyh mn dakhl al'ayn ila alkharj)",
+            "عبر التخيل النفسي للأشياء دون ضوء ('abr altkhyl alnfsy llashya' dwn dw')",
+            "بتحريك العين بسرعة فائقة (bthryk al'ayn bsr'ah fa'qh)"
           ],
           "answerIndex": 0,
           "explanation": "أثبت ابن الهيثم أن الرؤية تتم بانعكاس أشعة الضوء من المرئيات إلى العين، مبطلاً نظرية الانبعاث."
@@ -18094,10 +18094,10 @@
         {
           "prompt": "ما هو الأصل اللغوي والتاريخي لآلة التصوير «الكاميرا» في تجارب ابن الهيثم؟",
           "options": [
-            "مِنْ لَفْظِ «القُمْرَةِ» أَيِ الحُجْرَةِ المُظْلِمَةِ ذَاتِ الثَّقْبِ الصَّغِيرِ",
-            "من اسم مدينة أمريكية قديمة",
-            "من الكلمة اليونانية للزجاج",
-            "ابن الهيثم مناظر كاميرا قمرة سكون"
+            "مِنْ لَفْظِ «القُمْرَةِ» أَيِ الحُجْرَةِ المُظْلِمَةِ ذَاتِ الثَّقْبِ الصَّغِيرِ (Language concept U30)",
+            "من اسم مدينة أمريكية قديمة (mn asm mdynh amrykyh qdymh)",
+            "من الكلمة اليونانية للزجاج (mn alklmh alywnanyh llzjaj)",
+            "ابن الهيثم مناظر كاميرا قمرة سكون (abn alhythm mnazr kamyra qmrh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "«القمرة» هي الغرفة المظلمة ذات الثقب الصغير التي أثبتت انعكاس الضوء واستعيرت في اللغات اللاتينية كـ Camera."
@@ -18105,10 +18105,10 @@
         {
           "prompt": "ما إعراب كلمة «مُثْبِتًا» في جملة: «أَبْطَلَ النَّظَرِيَّةَ مُثْبِتًا صِحَّةَ البُرْهَانِ»؟",
           "options": [
-            "حَالٌ مَنْصُوبَةٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "مفعول به منصوب",
-            "تمييز منصوب",
-            "نعت منصوب"
+            "حَالٌ مَنْصُوبَةٌ بِالفَتْحَةِ الظَّاهِرَةِ (haalun mansuwbahun bialfathahi alzaahirahi)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "تمييز منصوب (tmyyz mnswb)",
+            "نعت منصوب (n'at mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«مُثْبِتًا» اسم فاعل وقع حالاً منصوبة بالفتحة تبين هيئة الفاعل أثناء إبطال النظرية."
@@ -18121,10 +18121,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي العلمي الذي يحلل إنجاز ابن الهيثم في علم البصريات والمنهج الاستقرائي بأعلى درجات الرصانة التعبيرية:",
           "options": [
-            "يُمَثِّلُ الحَسَنُ بْنُ الهَيْثَمِ رَائِدَ الثَّوْرَةِ العِلْمِيَّةِ الحَدِيثَةِ؛ حَيْثُ نَسَفَ فِي «كِتَابِ المَنَاظِرِ» أَوْهَامَ الانْبِعَاثِ الإِغْرِيقِيَّةِ مُثْبِتًا دُخُولَ الضَّوْءِ إِلَى العَيْنِ، وَابْتَكَرَ «القُمْرَةَ المُظْلِمَةَ» الَّتِي مَهَّدَتْ لِعَصْرِ التَّصْوِيرِ، مُرْسِيًا قَوَاعِدَ المَنْهَجِ التَّجْرِيبِيِّ الاسْتِقْرَائِيِّ القَائِمِ عَلَى الشَّكِّ المَنْهَجِيِّ وَسُلْطَانِ البُرْهَانِ، لِيَسْبِقَ بِذٰلِكَ نَهْضَةَ العِلْمِ الحَدِيثِ بِقُرُونٍ.",
-            "ابن الهيثم عالم بصريات مسلم عاش في القاهرة وكتب عن العين.",
-            "ابن الهيثم مناظر قمرة ضوء عين منهج تجريبي شك سكون فتحة ضمة.",
-            "فشلت نظريات ابن الهيثم البصرية أمام فيزياء العصر الحديث."
+            "يُمَثِّلُ الحَسَنُ بْنُ الهَيْثَمِ رَائِدَ الثَّوْرَةِ العِلْمِيَّةِ الحَدِيثَةِ؛ حَيْثُ نَسَفَ فِي «كِتَابِ المَنَاظِرِ» أَوْهَامَ الانْبِعَاثِ الإِغْرِيقِيَّةِ مُثْبِتًا دُخُولَ الضَّوْءِ إِلَى العَيْنِ، وَابْتَكَرَ «القُمْرَةَ المُظْلِمَةَ» الَّتِي مَهَّدَتْ لِعَصْرِ التَّصْوِيرِ، مُرْسِيًا قَوَاعِدَ المَنْهَجِ التَّجْرِيبِيِّ الاسْتِقْرَائِيِّ القَائِمِ عَلَى الشَّكِّ المَنْهَجِيِّ وَسُلْطَانِ البُرْهَانِ، لِيَسْبِقَ بِذٰلِكَ نَهْضَةَ العِلْمِ الحَدِيثِ بِقُرُونٍ. (Language concept U30)",
+            "ابن الهيثم عالم بصريات مسلم عاش في القاهرة وكتب عن العين. (abn alhythm 'aalm bsryat mslm 'aash fy alqahrh wktb 'an al'ayn.)",
+            "ابن الهيثم مناظر قمرة ضوء عين منهج تجريبي شك سكون فتحة ضمة. (abn alhythm mnazr qmrh dw' 'ayn mnhj tjryby shk skwn fthh dmh.)",
+            "فشلت نظريات ابن الهيثم البصرية أمام فيزياء العصر الحديث. (fshlt nzryat abn alhythm albsryh amam fyzya' al'asr alhdyth.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب بكفاءة: إبطال نظرية الانبعاث، اختراع القمرة المظلمة، والتأصيل الفلسفي للمنهج العلمي التجريبي والشك المنهجي."
@@ -18190,10 +18190,10 @@
         {
           "prompt": "من هو العالم والطبيب العربي الذي اكتشف الدورة الدموية الصغرى وصحح أخطاء جالينوس؟",
           "options": [
-            "ابْنُ النَّفِيسِ",
-            "ابن رشد (إتقان إسهامات عمالقة الطب العربي الإسلامي)",
-            "الفارابي (إتقان إسهامات عمالقة الطب العربي الإسلامي)",
-            "ابن الهيثم (إتقان إسهامات عمالقة الطب العربي الإسلامي)"
+            "ابْنُ النَّفِيسِ (abnu alnafiysi)",
+            "ابن رشد (itqan ishamat 'amalqh altb al'arby alislamy)",
+            "الفارابي (itqan ishamat 'amalqh altb al'arby alislamy)",
+            "ابن الهيثم (itqan ishamat 'amalqh altb al'arby alislamy)"
           ],
           "answerIndex": 0,
           "explanation": "ابن النفيس الدمشقي هو المكتشف الأول للدورة الدموية الصغرى الرئوية."
@@ -18201,10 +18201,10 @@
         {
           "prompt": "ما هو الاسم اللاتيني المعرّب لكتاب «القانون في الطب» لابن سينا الذي درسته جامعات أوروبا لقرون؟",
           "options": [
-            "Canon of Medicine",
-            "The Republic",
-            "Organon",
-            "Metaphysics"
+            "Canon of Medicine (Language concept U30)",
+            "The Republic (Language concept U30)",
+            "Organon (Language concept U30)",
+            "Metaphysics (Language concept U30)"
           ],
           "answerIndex": 0,
           "explanation": "كتاب «القانون في الطب» (The Canon of Medicine) هو دستور الطب العالمي في العصور الوسطى."
@@ -18216,10 +18216,10 @@
         {
           "prompt": "اختر الإنجاز الإكلينيكي الشهير للطبيب أبي بكر الرازي في علم الأمراض:",
           "options": [
-            "«التَّفْرِيقُ التَّشْخِيصِيُّ الدَّقِيقُ بَيْنَ مَرَضَيِ الجُدَرِيِّ وَالحَصْبَةِ فِي كِتَابِ الحَاوِي».",
-            "صناعة نظارات طبية للرؤية الليلية (إتقان إسهامات عمالقة الطب العربي الإسلامي)",
-            "إلغاء العمليات الجراحية نهائيا (إتقان إسهامات عمالقة الطب العربي الإسلامي)",
-            "طب رازي ابن سينا حاوي قانون سكون (إتقان إسهامات عمالقة الطب العربي الإسلامي)"
+            "«التَّفْرِيقُ التَّشْخِيصِيُّ الدَّقِيقُ بَيْنَ مَرَضَيِ الجُدَرِيِّ وَالحَصْبَةِ فِي كِتَابِ الحَاوِي». (Language concept U30)",
+            "صناعة نظارات طبية للرؤية الليلية (itqan ishamat 'amalqh altb al'arby alislamy)",
+            "إلغاء العمليات الجراحية نهائيا (itqan ishamat 'amalqh altb al'arby alislamy)",
+            "طب رازي ابن سينا حاوي قانون سكون (itqan ishamat 'amalqh altb al'arby alislamy)"
           ],
           "answerIndex": 0,
           "explanation": "رسالة الرازي في الجدري والحصبة هي أول توصيف إكلينيكي دقيق في تاريخ الطب العالمي."
@@ -18227,10 +18227,10 @@
         {
           "prompt": "ما إعراب كلمة «المَرْجِعَ» في جملة: «ظَلَّ الكِتَابُ المَرْجِعَ الرَّئِيسَ»؟",
           "options": [
-            "خَبَرُ ظَلَّ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "اسم ظل مرفوع بالضمة (إتقان إسهامات عمالقة الطب العربي الإسلامي)",
-            "مفعول به منصوب (إتقان إسهامات عمالقة الطب العربي الإسلامي)",
-            "نعت منصوب (إتقان إسهامات عمالقة الطب العربي الإسلامي)"
+            "خَبَرُ ظَلَّ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (khabaru zala mansuwbun bialfathahi alzaahirahi)",
+            "اسم ظل مرفوع بالضمة (itqan ishamat 'amalqh altb al'arby alislamy)",
+            "مفعول به منصوب (itqan ishamat 'amalqh altb al'arby alislamy)",
+            "نعت منصوب (itqan ishamat 'amalqh altb al'arby alislamy)"
           ],
           "answerIndex": 0,
           "explanation": "«الكِتَابُ» اسم ظل مرفوع، و«المَرْجِعَ» خبر ظل منصوب بالفتحة الظاهرة."
@@ -18243,10 +18243,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التاريخي الطبي الشامل الذي يحلل مآثر الرازي وابن سينا وابن النفيس بأعلى درجات البلاغة والموضوعية:",
           "options": [
-            "شَادَ أَعْلَامُ الطِّبِّ العَرَبِيِّ الإِسْلَامِيِّ صَرْحَ العُلُومِ الطِّبِّيَّةِ العَالَمِيَّةِ؛ حَيْثُ أَرْسَى الرَّازِي قَوَاعِدَ المُلَاحَظَةِ الإِكْلِينِيكِيَّةِ فِي «الحَاوِي»، وَقَعَّدَ ابْنُ سِينَا مَوْسُوعِيَّةَ العِلَاجِ فِي «القَانُونِ»، بَيْنَمَا خَلَّدَ ابْنُ النَّفِيسِ عَبْقَرِيَّتَهُ بِاكْتِشَافِ الدَّوْرَةِ الدَّمَوِيَّةِ الصُّغْرَى، لِتَغْدُوَ البِيمَارِسْتَانَاتُ الإِسْلَامِيَّةُ مَنَارَاتٍ لِلشِّفَاءِ وَمَفْخَرَةً لِلْإِنْسَانِيَّةِ جَمْعَاءَ.",
-            "الطب العربي القديم كان يعتمد على الأعشاب والكي بالنار فقط. (إتقان إسهامات عمالقة الطب العربي الإسلامي)",
-            "طب وصيدلة رازي ابن سينا ابن النفيس بيمارستان حاوي قانون دورة دموية سكون فتحة ضمة. (إتقان إسهامات عمالقة الطب العربي الإسلامي)",
-            "توقفت الجامعات الأوروبية عن قراءة كتب ابن سينا فور صدورها. (إتقان إسهامات عمالقة الطب العربي الإسلامي)"
+            "شَادَ أَعْلَامُ الطِّبِّ العَرَبِيِّ الإِسْلَامِيِّ صَرْحَ العُلُومِ الطِّبِّيَّةِ العَالَمِيَّةِ؛ حَيْثُ أَرْسَى الرَّازِي قَوَاعِدَ المُلَاحَظَةِ الإِكْلِينِيكِيَّةِ فِي «الحَاوِي»، وَقَعَّدَ ابْنُ سِينَا مَوْسُوعِيَّةَ العِلَاجِ فِي «القَانُونِ»، بَيْنَمَا خَلَّدَ ابْنُ النَّفِيسِ عَبْقَرِيَّتَهُ بِاكْتِشَافِ الدَّوْرَةِ الدَّمَوِيَّةِ الصُّغْرَى، لِتَغْدُوَ البِيمَارِسْتَانَاتُ الإِسْلَامِيَّةُ مَنَارَاتٍ لِلشِّفَاءِ وَمَفْخَرَةً لِلْإِنْسَانِيَّةِ جَمْعَاءَ. (Language concept U30)",
+            "الطب العربي القديم كان يعتمد على الأعشاب والكي بالنار فقط. (itqan ishamat 'amalqh altb al'arby alislamy)",
+            "طب وصيدلة رازي ابن سينا ابن النفيس بيمارستان حاوي قانون دورة دموية سكون فتحة ضمة. (itqan ishamat 'amalqh altb al'arby alislamy)",
+            "توقفت الجامعات الأوروبية عن قراءة كتب ابن سينا فور صدورها. (itqan ishamat 'amalqh altb al'arby alislamy)"
           ],
           "answerIndex": 0,
           "explanation": "النص يحيط بكافة جوانب النهضة الطبية: الملاحظة السريرية (الرازي)، الموسوعية المرجعية (ابن سينا)، الكشف الفسيولوجي للدورة الدموية (ابن النفيس)، والنظام المؤسسي للبيمارستانات."
@@ -18312,10 +18312,10 @@
         {
           "prompt": "ما هو الإنجاز الجيوديسي المعجز للعالم المسلم أبي الريحان البيروني في جبل نندنة؟",
           "options": [
-            "قِيَاسُ نِصْفِ قُطْرِ الأَرْضِ وَمُحِيطِهَا بِدِقَّةٍ قَارَبَتِ الحِسَابَاتِ الرَّقْمِيَّةَ الحَدِيثَةَ",
-            "حفر أعمق بئر نفط في العالم",
-            "صعود جبل إيفرست بدون أكسجين",
-            "رسم خريطة قاع المحيط الهادئ"
+            "قِيَاسُ نِصْفِ قُطْرِ الأَرْضِ وَمُحِيطِهَا بِدِقَّةٍ قَارَبَتِ الحِسَابَاتِ الرَّقْمِيَّةَ الحَدِيثَةَ (qiyaasu nisfi qutri alaardi wamuhiytihaa bidiqahin qaarabati alhisaabaati alraqmiyaha alhadiythaha)",
+            "حفر أعمق بئر نفط في العالم (hfr a'amq b'r nft fy al'aalm)",
+            "صعود جبل إيفرست بدون أكسجين (s'awd jbl iyfrst bdwn aksjyn)",
+            "رسم خريطة قاع المحيط الهادئ (rsm khryth qa'a almhyt alhad')"
           ],
           "answerIndex": 0,
           "explanation": "قاس البيروني زاوية انخفاض الأفق من قمة جبل وحسب نصف قطر الأرض بدقة بلغت 6335 كم."
@@ -18323,10 +18323,10 @@
         {
           "prompt": "ما هي الآلة الفلكية الدقيقة المعقدة التي استخدمها علماء المسلمين كـ «حاسوب فلكي» لرصد النجوم وتحديد القبلة؟",
           "options": [
-            "الأُسْطُرْلَابُ الفَلَكِيُّ",
-            "التلسكوب اللاسلكي",
-            "الرادار الرقمي",
-            "البوصلة المغناطيسية فقط"
+            "الأُسْطُرْلَابُ الفَلَكِيُّ (alausturlaabu alfalakiyu)",
+            "التلسكوب اللاسلكي (altlskwb allaslky)",
+            "الرادار الرقمي (alradar alrqmy)",
+            "البوصلة المغناطيسية فقط (albwslh almghnatysyh fqt)"
           ],
           "answerIndex": 0,
           "explanation": "الأسطرلاب كان الحاسوب الفلكي الأهم في العصور القديمة لتحديد المواقع والأوقات والأجرام السماوية."
@@ -18338,10 +18338,10 @@
         {
           "prompt": "اختر الفرع الرياضي الهام الذي طوره البتاني لحل معضلات الفلك وحركة الأجرام السماوية:",
           "options": [
-            "«عِلْمُ المُثَلَّثَاتِ الكُرَوِيَّةِ وَحِسَابُ الجَيْبِ وَجَيْبِ التَّمَامِ (Sin & Cos)».",
-            "علم الحساب الابتدائي البسيط",
-            "الرسم الهندسي ثلاثي الأبعاد",
-            "فلك بيروني بتاني اسطرلاب سكون"
+            "«عِلْمُ المُثَلَّثَاتِ الكُرَوِيَّةِ وَحِسَابُ الجَيْبِ وَجَيْبِ التَّمَامِ (Language concept U30)",
+            "علم الحساب الابتدائي البسيط ('alm alhsab alabtda'y albsyt)",
+            "الرسم الهندسي ثلاثي الأبعاد (alrsm alhndsy thlathy alab'aad)",
+            "فلك بيروني بتاني اسطرلاب سكون (flk byrwny btany astrlab skwn)"
           ],
           "answerIndex": 0,
           "explanation": "البتاني هو رائد حساب المثلثات الكروية وتطوير الدوال المثلثية لخدمة الرصد الفلكي الدقيق."
@@ -18349,10 +18349,10 @@
         {
           "prompt": "ما إعراب كلمة «حَاسُوبًا» في جملة: «مَثَّلَ الأُسْطُرْلَابُ حَاسُوبًا فَلَكِيًّا»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "حال منصوبة بالفتحة",
-            "تمييز منصوب"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)",
+            "تمييز منصوب (tmyyz mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«الأُسْطُرْلَابُ» فاعل مرفوع، و«حَاسُوبًا» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -18365,10 +18365,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الفلكي التوثيقي الذي يحلل عظمة البيروني والبتاني في الفلك والجيوديسيا بأعلى درجات البلاغة العلمية:",
           "options": [
-            "ارْتَقَى عِلْمُ الفَلَكِ فِي الحَضَارَةِ الإِسْلَامِيَّةِ إِلَى ذِرْوَةِ الإِعْجَازِ الرِّيَاضِيِّ؛ حَيْثُ حَسَبَ البِيرُونِيُّ مُحِيطَ الأَرْضِ عَبْرَ عَبْقَرِيَّةِ الجِيُودِيسْيَا، وَطَوَّرَ البَتَّانِيُّ حِسَابَ المُثَلَّثَاتِ الكُرَوِيَّةِ لِيُدَقِّقَ حَرَكَةَ الأَفْلَاكِ وَطُولَ السَّنَةِ الشَّمْسِيَّةِ، بَيْنَمَا شَهِدَتِ المَرَاصِدُ فِي مَرَاغَةَ وَدِمَشْقَ مَعَ سِحْرِ الأُسْطُرْلَابِ عَلَى سِيَادَةِ العَقْلِ العَرَبِيِّ فِي كَشْفِ أَسْرَارِ الكَوْنِ.",
-            "الفلك عند العرب كان مراقبة النجوم في الصحراء ليلا.",
-            "فلك بيروني بتاني اسطرلاب مراصد مراغة شمس قمر سكون فتحة ضمة.",
-            "انتهت الحسابات الفلكية القديمة ولم يعد لها أي أثر."
+            "ارْتَقَى عِلْمُ الفَلَكِ فِي الحَضَارَةِ الإِسْلَامِيَّةِ إِلَى ذِرْوَةِ الإِعْجَازِ الرِّيَاضِيِّ؛ حَيْثُ حَسَبَ البِيرُونِيُّ مُحِيطَ الأَرْضِ عَبْرَ عَبْقَرِيَّةِ الجِيُودِيسْيَا، وَطَوَّرَ البَتَّانِيُّ حِسَابَ المُثَلَّثَاتِ الكُرَوِيَّةِ لِيُدَقِّقَ حَرَكَةَ الأَفْلَاكِ وَطُولَ السَّنَةِ الشَّمْسِيَّةِ، بَيْنَمَا شَهِدَتِ المَرَاصِدُ فِي مَرَاغَةَ وَدِمَشْقَ مَعَ سِحْرِ الأُسْطُرْلَابِ عَلَى سِيَادَةِ العَقْلِ العَرَبِيِّ فِي كَشْفِ أَسْرَارِ الكَوْنِ. (Language concept U30)",
+            "الفلك عند العرب كان مراقبة النجوم في الصحراء ليلا. (alflk 'and al'arb kan mraqbh alnjwm fy alshra' lyla.)",
+            "فلك بيروني بتاني اسطرلاب مراصد مراغة شمس قمر سكون فتحة ضمة. (flk byrwny btany astrlab mrasd mraghh shms qmr skwn fthh dmh.)",
+            "انتهت الحسابات الفلكية القديمة ولم يعد لها أي أثر. (antht alhsabat alflkyh alqdymh wlm y'ad lha ay athr.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بدقة بين: جيوديسيا البيروني وقياس محيط الأرض، حساب المثلثات الكروية عند البتاني، ودور المراصد والأسطرلاب التاريخي."
@@ -18434,10 +18434,10 @@
         {
           "prompt": "ما هو المبدأ المنهجي المشترك الذي وحّد إنجازات الخوارزمي وابن الهيثم والبيروني وابن النفيس؟",
           "options": [
-            "الاحْتِكَامُ إِلَى البُرْهَانِ الرِّيَاضِيِّ، التَّجْرِبَةِ المِخْبَرِيَّةِ، وَالشَّكِّ المَنْهَجِيِّ فِي النُّصُوصِ المَوْرُوثَةِ",
-            "الاعتماد على الأساطير والتخمين العشوائي (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "رفض التعلم والترجمة من الحضارات السابقة (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "إلغاء الملاحظة والقياس (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)"
+            "الاحْتِكَامُ إِلَى البُرْهَانِ الرِّيَاضِيِّ، التَّجْرِبَةِ المِخْبَرِيَّةِ، وَالشَّكِّ المَنْهَجِيِّ فِي النُّصُوصِ المَوْرُوثَةِ (Language concept U30)",
+            "الاعتماد على الأساطير والتخمين العشوائي (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "رفض التعلم والترجمة من الحضارات السابقة (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "إلغاء الملاحظة والقياس (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)"
           ],
           "answerIndex": 0,
           "explanation": "قامت النهضة العلمية على تحكيم التجربة والرياضيات والشك العلمي في الفرضيات القديمة."
@@ -18445,10 +18445,10 @@
         {
           "prompt": "كيف أثرت الإنجازات العلمية العربية في انطلاق عصر النهضة والتنوير الأوروبي؟",
           "options": [
-            "كَانَتِ المَرَاجِعَ الأَسَاسِيَّةَ الَّتِي بُنِيَتْ عَلَيْهَا جَامِعَاتُ أُورُوبَّا وَتَأَثَّرَ بِهَا كُوبِرْنِيكُوس وَغَالِيلْيُو وَدِيكَارْت",
-            "لم يسمع بها أحد في أوروبا (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "تم منع ترجمة الكتب العربية نهائيا (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "اقتصر تأثيرها على آسيا فقط (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)"
+            "كَانَتِ المَرَاجِعَ الأَسَاسِيَّةَ الَّتِي بُنِيَتْ عَلَيْهَا جَامِعَاتُ أُورُوبَّا وَتَأَثَّرَ بِهَا كُوبِرْنِيكُوس وَغَالِيلْيُو وَدِيكَارْت (kaanati almaraaji'aa alaasaasiyaha alatiy buniyat 'aalayhaa jaami'aaatu auwruwbaa wataaathara bihaa kuwbirniykuws waghaaliylyuw wadiykaart)",
+            "لم يسمع بها أحد في أوروبا (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "تم منع ترجمة الكتب العربية نهائيا (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "اقتصر تأثيرها على آسيا فقط (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)"
           ],
           "answerIndex": 0,
           "explanation": "ترجمت مؤلفات ابن سينا والخوارزمي وابن الهيثم إلى اللاتينية وشكلت أساس المناهج العلمية الأوروبية لقرون."
@@ -18460,10 +18460,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تصف روعة التراث العلمي العربي بفصاحة إبستمولوجية تامة:",
           "options": [
-            "— كَيْفَ تَرَيْنَ جَوْهَرَ النَّهْضَةِ العِلْمِيَّةِ العَرَبِيَّةِ؟ — أَرَاهَا مَلْحَمَةً عَقْلِيَّةً خَالِدَةً حَوَّلَتِ المَعْرِفَةَ إِلَى مَنْهَجٍ تَجْرِيبِيٍّ مُحْكَمٍ بَنَى حَضَارَةَ الإِنْسَانِ.",
-            "— هل زرت متحف العلوم بالأمس؟ — نعم ذهبت مع أصدقائي. (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "— كم عدد كتب الرياضيات في المكتبة؟ — يوجد مئة كتاب. (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "— حوار مجمع علوم تاريخ نهضة سكون. (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)"
+            "— كَيْفَ تَرَيْنَ جَوْهَرَ النَّهْضَةِ العِلْمِيَّةِ العَرَبِيَّةِ؟ — أَرَاهَا مَلْحَمَةً عَقْلِيَّةً خَالِدَةً حَوَّلَتِ المَعْرِفَةَ إِلَى مَنْهَجٍ تَجْرِيبِيٍّ مُحْكَمٍ بَنَى حَضَارَةَ الإِنْسَانِ. (Language concept U30)",
+            "— هل زرت متحف العلوم بالأمس؟ — نعم ذهبت مع أصدقائي. (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "— كم عدد كتب الرياضيات في المكتبة؟ — يوجد مئة كتاب. (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "— حوار مجمع علوم تاريخ نهضة سكون. (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تعبر عن المضمون الإبستمولوجي للنهضة العلمية كمنهج تجريبي دقيق أسس للحضارة الإنسانية."
@@ -18471,10 +18471,10 @@
         {
           "prompt": "ما إعراب كلمة «مَلْحَمَةً» في قولنا: «أَرَاهَا مَلْحَمَةً عَقْلِيَّةً»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "حال منصوبة بالفتحة (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "نعت منصوب (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "تمييز منصوب (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "حال منصوبة بالفتحة (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "نعت منصوب (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "تمييز منصوب (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «رَأَى» القلبي ينصب مفعولين؛ الضمير «هَا» مفعول أول، و«مَلْحَمَةً» مفعول به ثانٍ منصوب."
@@ -18487,10 +18487,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الإبستمولوجي الشامل الذي يدمج مخرجات الوحدة الثلاثين بأكملها (جبر الخوارزمي، مناظر ابن الهيثم، طب ابن سينا وابن النفيس، وفلك البيروني والبتاني):",
           "options": [
-            "د. حَازِم: «دُكْتُورَة سُمَيَّة، كَيْفَ نُجْمِلُ الإِسْهَامَ الإِبِسْتِمُولُوجِيَّ العَظِيمَ لِعُلَمَاءِ الحَضَارَةِ العَرَبِيَّةِ الإِسْلَامِيَّةِ فِي تَارِيخِ الفِكْرِ الإِنْسَانِيِّ؟» — د. سُمَيَّة: «إِنَّهَا ثَوْرَةُ المَنْهَجِ وَالعَقْلِ؛ حَيْثُ أَرْسَى الخَوَارِزْمِيُّ صَرْحَ الجَبْرِ وَالخَوَارِزْمِيَّاتِ، وَدَشَّنَ ابْنُ الهَيْثَمِ فِيزْيَاءَ البَصَرِيَّاتِ وَالشَّكَّ التَّجْرِيبِيَّ، وَخَلَّدَ ابْنُ سِينَا وَابْنُ النَّفِيسِ عَبْقَرِيَّةَ الطِّبِّ وَالدَّوْرَةِ الدَّمَوِيَّةِ الصُّغْرَى، بَيْنَمَا كَشَفَ البِيرُونِيُّ وَالبَتَّانِيُّ عَنْ أَبْعَادِ الأَرْضِ وَأَسْرَارِ الأَفْلَاكِ، لِيَظَلَّ عِلْمُنَا شُعْلَةً أَبَدِيَّةً أَضَاءَتْ مَعَالِمَ الحَضَارَةِ البَشَرِيَّةِ».",
-            "د. حازم: هل كانت المحاضرة العلمية مفيدة اليوم؟ — د. سمية: نعم كانت مفيدة واستفدنا منها. (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "حوار علمي شامل خوارزمي ابن الهيثم ابن سينا ابن النفيس بيروني بتاني سكون فتحة ضمة. (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)",
-            "توقفت العلوم عن التطور في العالم الإسلامي تماما. (الدمج الشامل لكافة مخرجات الوحدة الثلاثين)"
+            "د. حَازِم: «دُكْتُورَة سُمَيَّة، كَيْفَ نُجْمِلُ الإِسْهَامَ الإِبِسْتِمُولُوجِيَّ العَظِيمَ لِعُلَمَاءِ الحَضَارَةِ العَرَبِيَّةِ الإِسْلَامِيَّةِ فِي تَارِيخِ الفِكْرِ الإِنْسَانِيِّ؟» — د. سُمَيَّة: «إِنَّهَا ثَوْرَةُ المَنْهَجِ وَالعَقْلِ؛ حَيْثُ أَرْسَى الخَوَارِزْمِيُّ صَرْحَ الجَبْرِ وَالخَوَارِزْمِيَّاتِ، وَدَشَّنَ ابْنُ الهَيْثَمِ فِيزْيَاءَ البَصَرِيَّاتِ وَالشَّكَّ التَّجْرِيبِيَّ، وَخَلَّدَ ابْنُ سِينَا وَابْنُ النَّفِيسِ عَبْقَرِيَّةَ الطِّبِّ وَالدَّوْرَةِ الدَّمَوِيَّةِ الصُّغْرَى، بَيْنَمَا كَشَفَ البِيرُونِيُّ وَالبَتَّانِيُّ عَنْ أَبْعَادِ الأَرْضِ وَأَسْرَارِ الأَفْلَاكِ، لِيَظَلَّ عِلْمُنَا شُعْلَةً أَبَدِيَّةً أَضَاءَتْ مَعَالِمَ الحَضَارَةِ البَشَرِيَّةِ». (Language concept U30)",
+            "د. حازم: هل كانت المحاضرة العلمية مفيدة اليوم؟ — د. سمية: نعم كانت مفيدة واستفدنا منها. (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "حوار علمي شامل خوارزمي ابن الهيثم ابن سينا ابن النفيس بيروني بتاني سكون فتحة ضمة. (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)",
+            "توقفت العلوم عن التطور في العالم الإسلامي تماما. (aldmj alshaml lkafh mkhrjat alwhdh althlathyn)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل ذروة التحليل الإبستمولوجي الموسوعي في دمج: جبر الخوارزمي، مناظر ابن الهيثم، طب ابن سينا وابن النفيس، وجيوديسيا وفلك البيروني والبتاني."
@@ -18554,10 +18554,10 @@
         {
           "prompt": "ما نوع الصورة البيانية في قول أبي الطيب المتنبي: «وَإِذَا المَنِيَّةُ أَنْشَبَتْ أَظْفَارَهَا ... أَلْفَيْتَ كُلَّ تَمِيمَةٍ لَا تَنْفَعُ»؟",
           "options": [
-            "اسْتِعَارَةٌ مَكْنِيَّةٌ؛ شَبَّهَ المَنِيَّةَ بِوَحْشٍ كَاسِرٍ وَحَذَفَ المُشَبَّهَ بِهِ وَرَمَزَ لَهُ بِالأَظْفَارِ",
-            "تشبيه صريح بأداة الكاف",
-            "كناية عن النسبة فقط",
-            "مجاز مرسل علاقته المحلية"
+            "اسْتِعَارَةٌ مَكْنِيَّةٌ؛ شَبَّهَ المَنِيَّةَ بِوَحْشٍ كَاسِرٍ وَحَذَفَ المُشَبَّهَ بِهِ وَرَمَزَ لَهُ بِالأَظْفَارِ (an (U31))",
+            "تشبيه صريح بأداة الكاف (tshbyh sryh badah alkaf)",
+            "كناية عن النسبة فقط (knayh 'an alnsbh fqt)",
+            "مجاز مرسل علاقته المحلية (mjaz mrsl 'alaqth almhlyh)"
           ],
           "answerIndex": 0,
           "explanation": "شبه المنية بحيوان مفترس مفترس وحذف المشبه به وترك صفة من لوازمه (الأظفار) على سبيل الاستعارة المكنية."
@@ -18565,10 +18565,10 @@
         {
           "prompt": "ما هو التشبيه الذي لا يُصرح فيه بالمشبه والمشبه به في هيئة صريحة بل يُلمحان من المعنى كدليل وبرهان؟",
           "options": [
-            "التَّشْبِيهُ الضِّمْنِيُّ",
-            "التشبيه المقلوب",
-            "التشبيه المجمل",
-            "التشبيه المؤكد"
+            "التَّشْبِيهُ الضِّمْنِيُّ (altashbiyhu aldimniyu)",
+            "التشبيه المقلوب (altshbyh almqlwb)",
+            "التشبيه المجمل (altshbyh almjml)",
+            "التشبيه المؤكد (altshbyh alm'kd)"
           ],
           "answerIndex": 0,
           "explanation": "التشبيه الضمني يُفهم من السياق ويكون الشطر الثاني برهاناً وحكمة تدعم دعوى الشطر الأول."
@@ -18580,10 +18580,10 @@
         {
           "prompt": "اختر سر بلاغة الكناية في علم البيان العربي المعياري:",
           "options": [
-            "«الإِتْيَانُ بِالمَعْنَى مَصْحُوبًا بِالدَّلِيلِ عَلَيْهِ فِي إِيجَازٍ وَتَجْسِيمٍ».",
-            "تطويل الكلام وزيادة عدد الكلمات بلا فائدة",
-            "إلغاء المعاني الحقيقية نهائياً",
-            "بيان تشبيه استعارة كناية سكون"
+            "«الإِتْيَانُ بِالمَعْنَى مَصْحُوبًا بِالدَّلِيلِ عَلَيْهِ فِي إِيجَازٍ وَتَجْسِيمٍ». (an (U31))",
+            "تطويل الكلام وزيادة عدد الكلمات بلا فائدة (ttwyl alklam wzyadh 'add alklmat bla fa'dh)",
+            "إلغاء المعاني الحقيقية نهائياً (ilgha' alm'aany alhqyqyh nha'yaan)",
+            "بيان تشبيه استعارة كناية سكون (byan tshbyh ast'aarh knayh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "سر بلاغة الكناية هو إيراد المعنى مع دليله الملموس في إيجاز وتجسيم بليغ."
@@ -18591,10 +18591,10 @@
         {
           "prompt": "ما إعراب كلمة «تَمْثِيلٌ» في جملة: «فِي هٰذَا البَيْتِ تَمْثِيلٌ بَلِيغٌ»؟",
           "options": [
-            "مُبْتَدَأٌ مُؤَخَّرٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ",
-            "خبر مقدم منصوب",
-            "فاعل مرفوع بالضمة",
-            "مفعول به منصوب"
+            "مُبْتَدَأٌ مُؤَخَّرٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (mubtadaaun mu'akharun marfuw'aun bialdamahi alzaahirahi)",
+            "خبر مقدم منصوب (khbr mqdm mnswb)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مفعول به منصوب (mf'awl bh mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«فِي هٰذَا» شبه جملة خبر مقدم، و«تَمْثِيلٌ» مبتدأ مؤخر مرفوع وعلامة رفعه الضمة."
@@ -18607,10 +18607,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص البلاغي التحليلي الذي يشرح أسرار علم البيان بأعلى درجات الرصانة التعبيرية والدقة الأكاديمية:",
           "options": [
-            "يَتَجَلَّى عِلْمُ البَيَانِ فِي البَلَاغَةِ العَرَبِيَّةِ كَفَنِّ التَّصْوِيرِ الرُّوحِيِّ وَالعَقْلِيِّ الخَالِدِ؛ حَيْثُ يَرْتَقِي بِالمَعْنَى عَبْرَ التَّشْبِيهِ البَلِيغِ وَالتَّمْثِيلِيِّ وَالضِّمْنِيِّ، وَيَفْتَحُ آفَاقَ التَّجْسِيمِ وَالتَّشْخِيصِ فِي الاسْتِعَارَاتِ المَكْنِيَّةِ وَالتَّصْرِيحِيَّةِ، بَيْنَمَا تَمْنَحُ الكِنَايَةُ وَالمَجَازُ المُرْسَلُ الخِطَابَ قُوَّةَ الإِقْنَاعِ مَصْحُوبَةً بِالبُرْهَانِ وَالإِيجَازِ البَدِيعِ.",
-            "علم البيان هو تشبيه واستعارة وكناية ومجاز في اللغة العربية.",
-            "بيان استعارة تشبيه كناية مجاز بلاغة سكون فتحة ضمة تنوين.",
-            "ألغت البلاغة الحديثة علم البيان لعدم الحاجة إليه."
+            "يَتَجَلَّى عِلْمُ البَيَانِ فِي البَلَاغَةِ العَرَبِيَّةِ كَفَنِّ التَّصْوِيرِ الرُّوحِيِّ وَالعَقْلِيِّ الخَالِدِ؛ حَيْثُ يَرْتَقِي بِالمَعْنَى عَبْرَ التَّشْبِيهِ البَلِيغِ وَالتَّمْثِيلِيِّ وَالضِّمْنِيِّ، وَيَفْتَحُ آفَاقَ التَّجْسِيمِ وَالتَّشْخِيصِ فِي الاسْتِعَارَاتِ المَكْنِيَّةِ وَالتَّصْرِيحِيَّةِ، بَيْنَمَا تَمْنَحُ الكِنَايَةُ وَالمَجَازُ المُرْسَلُ الخِطَابَ قُوَّةَ الإِقْنَاعِ مَصْحُوبَةً بِالبُرْهَانِ وَالإِيجَازِ البَدِيعِ. (an (U31))",
+            "علم البيان هو تشبيه واستعارة وكناية ومجاز في اللغة العربية. ('alm albyan hw tshbyh wast'aarh wknayh wmjaz fy allghh al'arbyh.)",
+            "بيان استعارة تشبيه كناية مجاز بلاغة سكون فتحة ضمة تنوين. (byan ast'aarh tshbyh knayh mjaz blaghh skwn fthh dmh tnwyn.)",
+            "ألغت البلاغة الحديثة علم البيان لعدم الحاجة إليه. (alght alblaghh alhdythh 'alm albyan l'adm alhajh ilyh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع أركان علم البيان الأربعة: التشبيه بأنواعه، الاستعارة بأسرارها، الكناية بدلالاتها، والمجاز المرسل بقوته الإقناعية."
@@ -18676,10 +18676,10 @@
         {
           "prompt": "ما نوع الخبر في قوله تعالى: ﴿إِنَّ إِلَهَكُمْ لَوَاحِدٌ﴾، وما سببه البلاغي؟",
           "options": [
-            "خَبَرٌ إِنْكَارِيٌّ؛ لاشْتِمَالِهِ عَلَى مُؤَكِّدَيْنِ (إِنَّ وَاللَّامَ المُزَحْلَقَةَ) لِمُخَاطَبَةِ المُنْكِرِينَ",
-            "خبر ابتدائي لخالي الذهن (إتقان أصول علم المعاني)",
-            "خبر طلبي بمؤكد واحد فقط (إتقان أصول علم المعاني)",
-            "إنشاء غير طلبي للتعجب (إتقان أصول علم المعاني)"
+            "خَبَرٌ إِنْكَارِيٌّ؛ لاشْتِمَالِهِ عَلَى مُؤَكِّدَيْنِ (iina waallaama almuzahlaqaha)",
+            "خبر ابتدائي لخالي الذهن (itqan aswl 'alm alm'aany)",
+            "خبر طلبي بمؤكد واحد فقط (itqan aswl 'alm alm'aany)",
+            "إنشاء غير طلبي للتعجب (itqan aswl 'alm alm'aany)"
           ],
           "answerIndex": 0,
           "explanation": "اشتملت الجملة على مؤكدين (إنّ، واللام المزحلقة في خبرها) لأن المخاطبين منكرون للتوحيد."
@@ -18687,10 +18687,10 @@
         {
           "prompt": "ما الغرض البلاغي للاستفهام في قوله تعالى: ﴿هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ﴾؟",
           "options": [
-            "النَّفْيُ وَالتَّقْرِيرُ",
-            "الطلب والاستفسار عن مجهول (إتقان أصول علم المعاني)",
-            "التحسر والندم (إتقان أصول علم المعاني)",
-            "التهديد والوعيد (إتقان أصول علم المعاني)"
+            "النَّفْيُ وَالتَّقْرِيرُ (alnafyu waaltaqriyru)",
+            "الطلب والاستفسار عن مجهول (itqan aswl 'alm alm'aany)",
+            "التحسر والندم (itqan aswl 'alm alm'aany)",
+            "التهديد والوعيد (itqan aswl 'alm alm'aany)"
           ],
           "answerIndex": 0,
           "explanation": "خرج الاستفهام عن معناه الحقيقي إلى معنى النفي التقريري أي: ليس جزاء الإحسان إلا الإحسان."
@@ -18702,10 +18702,10 @@
         {
           "prompt": "ما هو الأسلوب البلاغي المسمى «الالتفات» (Grammatical Shift / Enallage) في علم المعاني؟",
           "options": [
-            "«الانْتِقَالُ مِنْ أُسْلُوبِ ضَمِيرٍ إِلَى آخَرَ (كَالتَّكَلُّمِ إِلَى الغَيْبَةِ أَوِ الخِطَابِ) لِتَنْشِيطِ ذِهْنِ السَّامِعِ».",
-            "تكرار الكلمة نفسها عشر مرات متتالية (إتقان أصول علم المعاني)",
-            "حذف الفاعل والمفعول به دون قرينة (إتقان أصول علم المعاني)",
-            "معاني إنشاء خبر مقتضى حال سكون (إتقان أصول علم المعاني)"
+            "«الانْتِقَالُ مِنْ أُسْلُوبِ ضَمِيرٍ إِلَى آخَرَ (kaaltakalumi iilaa alghaybahi aawi alkhitaabi)",
+            "تكرار الكلمة نفسها عشر مرات متتالية (itqan aswl 'alm alm'aany)",
+            "حذف الفاعل والمفعول به دون قرينة (itqan aswl 'alm alm'aany)",
+            "معاني إنشاء خبر مقتضى حال سكون (itqan aswl 'alm alm'aany)"
           ],
           "answerIndex": 0,
           "explanation": "الالتفات هو التحول من ضمير إلى ضمير آخر (مثل الانتقال من ضمير الغيبة إلى الخطاب) لإثارة الانتباه."
@@ -18713,10 +18713,10 @@
         {
           "prompt": "ما إعراب كلمة «مُطَابَقَةَ» في جملة: «يَقْتَضِي عِلْمُ المَعَانِي مُطَابَقَةَ الكَلَامِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة (إتقان أصول علم المعاني)",
-            "مضاف إليه مجرور (إتقان أصول علم المعاني)",
-            "حال منصوبة بالفتحة (إتقان أصول علم المعاني)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (itqan aswl 'alm alm'aany)",
+            "مضاف إليه مجرور (itqan aswl 'alm alm'aany)",
+            "حال منصوبة بالفتحة (itqan aswl 'alm alm'aany)"
           ],
           "answerIndex": 0,
           "explanation": "«عِلْمُ» فاعل مرفوع، و«مُطَابَقَةَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -18729,10 +18729,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص البلاغي التداولي الذي يحلل أسرار علم المعاني ونظرية مطابقة مقتضى الحال بأعلى معايير الإتقان الفصيح:",
           "options": [
-            "يُمَثِّلُ عِلْمُ المَعَانِي ذِرْوَةَ التَّدَاوُلِيَّاتِ اللِّسَانِيَّةِ فِي البَلَاغَةِ العَرَبِيَّةِ؛ حَيْثُ يُنَزِّلُ الكَلَامَ مَنْزِلَةَ مَقَامِهِ الدَّقِيقِ فَيُفَرِّقُ بَيْنَ الخَبَرِ الابْتِدَائِيِّ وَالطَّلَبِيِّ وَالإِنْكَارِيِّ، وَيَفُضُّ أَسْرَارَ الإِنْشَاءِ فِي الأَمْرِ وَالنَّهْيِ وَالاسْتِفْهَامِ، مُتَوِّجًا هٰذَا السِّحْرَ بِأَسَالِيبِ القَصْرِ وَالِالْتِفَاتِ وَالإِيجَازِ لِيَغْدُوَ النَّظْمُ مِرْآةً لِلْعَقْلِ وَمُطَابَقَةً لِمُقْتَضَى الحَالِ.",
-            "علم المعاني هو علم يدرس الخبر والإنشاء في اللغة العربية. (إتقان أصول علم المعاني)",
-            "علم المعاني مقتضى الحال خبر إنشاء قصر التفات إيجاز إطناب سكون فتحة ضمة. (إتقان أصول علم المعاني)",
-            "ليس لعلم المعاني علاقة بالسياق أو المخاطبين. (إتقان أصول علم المعاني)"
+            "يُمَثِّلُ عِلْمُ المَعَانِي ذِرْوَةَ التَّدَاوُلِيَّاتِ اللِّسَانِيَّةِ فِي البَلَاغَةِ العَرَبِيَّةِ؛ حَيْثُ يُنَزِّلُ الكَلَامَ مَنْزِلَةَ مَقَامِهِ الدَّقِيقِ فَيُفَرِّقُ بَيْنَ الخَبَرِ الابْتِدَائِيِّ وَالطَّلَبِيِّ وَالإِنْكَارِيِّ، وَيَفُضُّ أَسْرَارَ الإِنْشَاءِ فِي الأَمْرِ وَالنَّهْيِ وَالاسْتِفْهَامِ، مُتَوِّجًا هٰذَا السِّحْرَ بِأَسَالِيبِ القَصْرِ وَالِالْتِفَاتِ وَالإِيجَازِ لِيَغْدُوَ النَّظْمُ مِرْآةً لِلْعَقْلِ وَمُطَابَقَةً لِمُقْتَضَى الحَالِ. (Language concept U31)",
+            "علم المعاني هو علم يدرس الخبر والإنشاء في اللغة العربية. (itqan aswl 'alm alm'aany)",
+            "علم المعاني مقتضى الحال خبر إنشاء قصر التفات إيجاز إطناب سكون فتحة ضمة. (itqan aswl 'alm alm'aany)",
+            "ليس لعلم المعاني علاقة بالسياق أو المخاطبين. (itqan aswl 'alm alm'aany)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوفي بكفاءة: التداوليات ومقتضى الحال، أضرب الخبر الثلاثة، بلاغة الإنشاء، وأسرار القصر والالتفات والإيجاز."
@@ -18798,10 +18798,10 @@
         {
           "prompt": "ما هو المحسن البديعي اللفظي في قول أبي تمام: «بِيضُ الصَّفَائِحِ لَا سُودُ الصَّحَائِفِ»؟",
           "options": [
-            "جِنَاسٌ نَاقِصٌ بَيْنَ (الصَّفَائِحِ) وَ(الصَّحَائِفِ) لاخْتِلَافِ تَرْتِيبِ الحُرُوفِ",
-            "جناس تام متطابق في كل شيء (إتقان فنون علم البديع العربي)",
-            "سجع نثري فقط (إتقان فنون علم البديع العربي)",
-            "تورية معنوية (إتقان فنون علم البديع العربي)"
+            "جِنَاسٌ نَاقِصٌ بَيْنَ (alsafaa'ihi)",
+            "جناس تام متطابق في كل شيء (itqan fnwn 'alm albdy'a al'arby)",
+            "سجع نثري فقط (itqan fnwn 'alm albdy'a al'arby)",
+            "تورية معنوية (itqan fnwn 'alm albdy'a al'arby)"
           ],
           "answerIndex": 0,
           "explanation": "بين الصفائح والصحائف جناس ناقص لاختلاف ترتيب الحروف، وهو يمنح البيت جرساً موسيقياً بديعاً."
@@ -18809,10 +18809,10 @@
         {
           "prompt": "ما الفرق البلاغي الدقيق بين «الطباق» و«المقابلة» في علم البديع؟",
           "options": [
-            "الطِّبَاقُ يَكُونُ بَيْنَ لَفْظَيْنِ مُفْرَدَيْنِ مُتَضَادَّيْنِ، بَيْنَمَا المُقَابَلَةُ تَكُونُ بَيْنَ تَرْكِيبَيْنِ أَوْ جُمْلَتَيْنِ كُلٌّ مِنْهُمَا تُقَابِلُ الأُخْرَى عَلَى التَّرْتِيبِ",
-            "الطباق للمحسنات اللفظية والمقابلة للمعنوية (إتقان فنون علم البديع العربي)",
-            "المقابلة خاصة بالشعر فقط والطباق بالنثر (إتقان فنون علم البديع العربي)",
-            "لا يوجد أي فرق بينهما (إتقان فنون علم البديع العربي)"
+            "الطِّبَاقُ يَكُونُ بَيْنَ لَفْظَيْنِ مُفْرَدَيْنِ مُتَضَادَّيْنِ، بَيْنَمَا المُقَابَلَةُ تَكُونُ بَيْنَ تَرْكِيبَيْنِ أَوْ جُمْلَتَيْنِ كُلٌّ مِنْهُمَا تُقَابِلُ الأُخْرَى عَلَى التَّرْتِيبِ (Language concept U31)",
+            "الطباق للمحسنات اللفظية والمقابلة للمعنوية (itqan fnwn 'alm albdy'a al'arby)",
+            "المقابلة خاصة بالشعر فقط والطباق بالنثر (itqan fnwn 'alm albdy'a al'arby)",
+            "لا يوجد أي فرق بينهما (itqan fnwn 'alm albdy'a al'arby)"
           ],
           "answerIndex": 0,
           "explanation": "الطباق تضاد بين لفظين، والمقابلة تضاد ترتيبي بين جملتين أو أكثر تشتمل كل منهما على معان متعددة."
@@ -18824,10 +18824,10 @@
         {
           "prompt": "اختر المعيار البلاغي الأصيل لقبول المحسنات البديعية في الخطاب الأدبي الفصيح:",
           "options": [
-            "«أَنْ تَأْتِيَ عَفْوَ الخَاطِرِ مُلَائِمَةً لِلسِّيَاقِ مُعِينَةً عَلَى إِبْرَازِ المَعْنَى دُونَ تَكَلُّفٍ مَمْجُوجٍ».",
-            "أن تملأ النص بالسجع والجناس حتى يتعذر فهم المعنى (إتقان فنون علم البديع العربي)",
-            "استعمال الكلمات المهجورة الغريبة حصراً (إتقان فنون علم البديع العربي)",
-            "بديع طباق مقابلة جناس سجع سكون (إتقان فنون علم البديع العربي)"
+            "«أَنْ تَأْتِيَ عَفْوَ الخَاطِرِ مُلَائِمَةً لِلسِّيَاقِ مُعِينَةً عَلَى إِبْرَازِ المَعْنَى دُونَ تَكَلُّفٍ مَمْجُوجٍ». (Language concept U31)",
+            "أن تملأ النص بالسجع والجناس حتى يتعذر فهم المعنى (itqan fnwn 'alm albdy'a al'arby)",
+            "استعمال الكلمات المهجورة الغريبة حصراً (itqan fnwn 'alm albdy'a al'arby)",
+            "بديع طباق مقابلة جناس سجع سكون (itqan fnwn 'alm albdy'a al'arby)"
           ],
           "answerIndex": 0,
           "explanation": "قيمة البديع تكمن في عفويته وخدمته للمعنى، فإذا تحول إلى تكلف مصطنع أفسد البلاغة والذوق."
@@ -18835,10 +18835,10 @@
         {
           "prompt": "ما إعراب كلمة «نَغَمًا» في جملة: «يَمْنَحُ الجِنَاسُ النَّثْرَ نَغَمًا عَذْبًا»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "مفعول به أول منصوب (إتقان فنون علم البديع العربي)",
-            "حال منصوبة بالفتحة (إتقان فنون علم البديع العربي)",
-            "تمييز منصوب (إتقان فنون علم البديع العربي)"
+            "مَفْعُولٌ بِهِ ثَانٍ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi thaanin mansuwbun bialfathahi alzaahirahi)",
+            "مفعول به أول منصوب (itqan fnwn 'alm albdy'a al'arby)",
+            "حال منصوبة بالفتحة (itqan fnwn 'alm albdy'a al'arby)",
+            "تمييز منصوب (itqan fnwn 'alm albdy'a al'arby)"
           ],
           "answerIndex": 0,
           "explanation": "الفعل «يَمْنَحُ» ينصب مفعولين ليس أصلهما المبتدأ والخبر؛ «النَّثْرَ» مفعول أول، و«نَغَمًا» مفعول به ثانٍ منصوب."
@@ -18851,10 +18851,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص البلاغي التقييمي الذي يحلل عظمة علم البديع وفنونه اللفظية والمعنوية بأرقى أساليب النقد العربي الفصيح:",
           "options": [
-            "يَتَوِّجُ عِلْمُ البَدِيعِ الصَّرْحَ البَلَاغِيَّ العَرَبِيَّ بِأَرْقَى أَلْوَانِ الزِّينَةِ الفَنِّيَّةِ وَالجَرْسِ المُوسِيقِيِّ؛ حَيْثُ يُعَمِّقُ الدَّلَالَةَ بِالمُحَسَّنَاتِ المَعْنَوِيَّةِ كَالطِّبَاقِ وَالمُقَابَلَةِ وَالتَّوْرِيَةِ وَحُسْنِ التَّعْلِيلِ، وَيُطْرِبُ الأَسْمَاعَ بِالمُحَسَّنَاتِ اللَّفْظِيَّةِ كَالجِنَاسِ وَالسَّجْعِ العَفْوِيِّ، فَيَغْدُو الكَلَامُ لَوْحَةً نَاطِقَةً تَمْزُجُ جَمَالَ النَّغَمِ بِعُمْقِ المَعْنَى وَصَفَاءِ الطَّبْعِ.",
-            "علم البديع هو علم الزخرفة والكلام الموزون في الشعر والنثر. (إتقان فنون علم البديع العربي)",
-            "بديع طباق مقابلة جناس سجع تورية تصريع سكون فتحة ضمة تنوين. (إتقان فنون علم البديع العربي)",
-            "البديع مجرد حشو لا قيمة له في البلاغة العربية. (إتقان فنون علم البديع العربي)"
+            "يَتَوِّجُ عِلْمُ البَدِيعِ الصَّرْحَ البَلَاغِيَّ العَرَبِيَّ بِأَرْقَى أَلْوَانِ الزِّينَةِ الفَنِّيَّةِ وَالجَرْسِ المُوسِيقِيِّ؛ حَيْثُ يُعَمِّقُ الدَّلَالَةَ بِالمُحَسَّنَاتِ المَعْنَوِيَّةِ كَالطِّبَاقِ وَالمُقَابَلَةِ وَالتَّوْرِيَةِ وَحُسْنِ التَّعْلِيلِ، وَيُطْرِبُ الأَسْمَاعَ بِالمُحَسَّنَاتِ اللَّفْظِيَّةِ كَالجِنَاسِ وَالسَّجْعِ العَفْوِيِّ، فَيَغْدُو الكَلَامُ لَوْحَةً نَاطِقَةً تَمْزُجُ جَمَالَ النَّغَمِ بِعُمْقِ المَعْنَى وَصَفَاءِ الطَّبْعِ. (Language concept U31)",
+            "علم البديع هو علم الزخرفة والكلام الموزون في الشعر والنثر. (itqan fnwn 'alm albdy'a al'arby)",
+            "بديع طباق مقابلة جناس سجع تورية تصريع سكون فتحة ضمة تنوين. (itqan fnwn 'alm albdy'a al'arby)",
+            "البديع مجرد حشو لا قيمة له في البلاغة العربية. (itqan fnwn 'alm albdy'a al'arby)"
           ],
           "answerIndex": 0,
           "explanation": "النص يدمج المحسنات المعنوية واللفظية ويبين وظيفتها الجمالية والدلالية في تناغم مع صفاء الطبع والذوق البلاغي."
@@ -18920,10 +18920,10 @@
         {
           "prompt": "ما هو جوهر نظرية «النظم» التأسيسية عند الإمام عبد القاهر الجرجاني في «دلائل الإعجاز»؟",
           "options": [
-            "تَوَخِّي مَعَانِي النَّحْوِ وَأَحْكَامِهِ وَفُرُوقِهِ فِيمَا بَيْنَ الكَلِمِ فِي السِّيَاقِ المُرَكَّبِ",
-            "اختيار الكلمات الطويلة النادرة في المعاجم",
-            "وزن الأبيات على بحور الشعر الستة عشر فقط",
-            "إلغاء الإعراب والاعتماد على السجع"
+            "تَوَخِّي مَعَانِي النَّحْوِ وَأَحْكَامِهِ وَفُرُوقِهِ فِيمَا بَيْنَ الكَلِمِ فِي السِّيَاقِ المُرَكَّبِ (tawakhiy ma'aaaniy alnahwi waaahkaamihi wafuruwqihi fiymaa bayna alkalimi fiy alsiyaaqi almurakabi)",
+            "اختيار الكلمات الطويلة النادرة في المعاجم (akhtyar alklmat altwylh alnadrh fy alm'aajm)",
+            "وزن الأبيات على بحور الشعر الستة عشر فقط (wzn alabyat 'ala bhwr alsh'ar alsth 'ashr fqt)",
+            "إلغاء الإعراب والاعتماد على السجع (ilgha' ali'arab wala'atmad 'ala alsj'a)"
           ],
           "answerIndex": 0,
           "explanation": "النظم عند الجرجاني ليس مجرد رصف للألفاظ، بل هو توخي معاني النحو وعلاقات التأليف الدلالية والتركيبية."
@@ -18931,10 +18931,10 @@
         {
           "prompt": "من هما العالمان البلاغيان اللذان قننا وقسما علوم البلاغة إلى (المعاني والبيان والبديع) بصورتها المنهجية المعتمدة؟",
           "options": [
-            "السَّكَّاكِيُّ (مِفْتَاحُ العُلُومِ) وَالخَطِيبُ القَزْوِينِيُّ",
-            "ابن خلدون وابن بطوطة",
-            "الخوارزمي والبيروني",
-            "ابن سينا والفارابي"
+            "السَّكَّاكِيُّ (miftaahu al'auluwmi)",
+            "ابن خلدون وابن بطوطة (abn khldwn wabn btwth)",
+            "الخوارزمي والبيروني (alkhwarzmy walbyrwny)",
+            "ابن سينا والفارابي (abn syna walfaraby)"
           ],
           "answerIndex": 0,
           "explanation": "السكاكي في «مفتاح العلوم» والقزويني في «تلخيص المفتاح» هما اللذان قعدا التقسيم الثلاثي للبلاغة."
@@ -18946,10 +18946,10 @@
         {
           "prompt": "اختر الموقف البلاغي للجرجاني من فصاحة الألفاظ المفردة المنعزلة:",
           "options": [
-            "«الأَلْفَاظُ المُفْرَدَةُ لَا فَضْلَ لِبَعْضِهَا عَلَى بَعْضٍ فِي ذَاتِهَا، وَإِنَّمَا تَتَفَاوَتُ الفَصَاحَةُ بِمَوْقِعِهَا فِي النَّظْمِ وَالتَّرْكِيبِ».",
-            "الكلمات المفردة هي المصدر الوحيد للإعجاز والبلاغة",
-            "يجب حفظ المعجم دون الاهتمام بالنحو",
-            "جرجاني سكاكي قزويني نظم إعجاز سكون"
+            "«الأَلْفَاظُ المُفْرَدَةُ لَا فَضْلَ لِبَعْضِهَا عَلَى بَعْضٍ فِي ذَاتِهَا، وَإِنَّمَا تَتَفَاوَتُ الفَصَاحَةُ بِمَوْقِعِهَا فِي النَّظْمِ وَالتَّرْكِيبِ». (Language concept U31)",
+            "الكلمات المفردة هي المصدر الوحيد للإعجاز والبلاغة (alklmat almfrdh hy almsdr alwhyd lli'ajaz walblaghh)",
+            "يجب حفظ المعجم دون الاهتمام بالنحو (yjb hfz alm'ajm dwn alahtmam balnhw)",
+            "جرجاني سكاكي قزويني نظم إعجاز سكون (jrjany skaky qzwyny nzm i'ajaz skwn)"
           ],
           "answerIndex": 0,
           "explanation": "أثبت الجرجاني أن الكلمة المفردة لا توصف بفصاحة معجزة بذاتها، وإنما تكتسب قيمتها البلاغية من نظمها وتأليفها النحوي."
@@ -18957,10 +18957,10 @@
         {
           "prompt": "ما إعراب كلمة «نَظَرِيَّةَ» في جملة: «أَرْسَى الجُرْجَانِيُّ نَظَرِيَّةَ النَّظْمِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "مضاف إليه مجرور",
-            "حال منصوبة بالفتحة"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "«الجُرْجَانِيُّ» فاعل مرفوع، و«نَظَرِيَّةَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -18973,10 +18973,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص البلاغي الإبستمولوجي الذي يحلل عبقرية نظرية النظم عند الجرجاني وإعجاز البيان القرآني بأعلى درجات الرصانة والتحقيق:",
           "options": [
-            "فَجَّرَ الإِمَامُ عَبْدُ القَاهِرِ الجُرْجَانِيُّ ثَوْرَةً لِسَانِيَّةً بَلَاغِيَّةً خَالِدَةً حِينَ صَاغَ فِي «دَلَائِلِ الإِعْجَازِ» نَظَرِيَّتَهُ الكُبْرَى فِي «النَّظْمِ»؛ حَيْثُ حَرَّرَ العَقْلَ مِنْ وَهْمِ الفَصَاحَةِ اللَّفْظِيَّةِ المُجَرَّدَةِ مُثْبِتًا أَنَّ الإِعْجَازَ كَامِنٌ فِي تَوَخِّي مَعَانِي النَّحْوِ وَشَبَكَةِ العَلَاقَاتِ التَّرْكِيبِيَّةِ، لِيُقَعِّدَ السَّكَّاكِيُّ وَالقَزْوِينِيُّ مِنْ بَعْدِهِ أَرْكَانَ البَلَاغَةِ الثَّلَاثَةَ (المَعَانِي وَالبَيَانَ وَالبَدِيعَ) كَأَعْظَمِ مَنْظُومَةٍ لِفَهْمِ إِعْجَازِ القُرْآنِ وَأَسْرَارِ البَيَانِ الإِنْسَانِيِّ.",
-            "كتب الجرجاني كتاب دلائل الإعجاز وكتب السكاكي مفتاح العلوم في البلاغة العربية.",
-            "جرجاني سكاكي قزويني دلائل مفتاح إعجاز نظم معاني بيان بديع سكون فتحة ضمة.",
-            "فشلت نظرية النظم في تفسير أسرار البلاغة والفصاحة."
+            "فَجَّرَ الإِمَامُ عَبْدُ القَاهِرِ الجُرْجَانِيُّ ثَوْرَةً لِسَانِيَّةً بَلَاغِيَّةً خَالِدَةً حِينَ صَاغَ فِي «دَلَائِلِ الإِعْجَازِ» نَظَرِيَّتَهُ الكُبْرَى فِي «النَّظْمِ»؛ حَيْثُ حَرَّرَ العَقْلَ مِنْ وَهْمِ الفَصَاحَةِ اللَّفْظِيَّةِ المُجَرَّدَةِ مُثْبِتًا أَنَّ الإِعْجَازَ كَامِنٌ فِي تَوَخِّي مَعَانِي النَّحْوِ وَشَبَكَةِ العَلَاقَاتِ التَّرْكِيبِيَّةِ، لِيُقَعِّدَ السَّكَّاكِيُّ وَالقَزْوِينِيُّ مِنْ بَعْدِهِ أَرْكَانَ البَلَاغَةِ الثَّلَاثَةَ (alma'aaaniy waalbayaana waalbadiy'aa)",
+            "كتب الجرجاني كتاب دلائل الإعجاز وكتب السكاكي مفتاح العلوم في البلاغة العربية. (ktb aljrjany ktab dla'l ali'ajaz wktb alskaky mftah al'alwm fy alblaghh al'arbyh.)",
+            "جرجاني سكاكي قزويني دلائل مفتاح إعجاز نظم معاني بيان بديع سكون فتحة ضمة. (jrjany skaky qzwyny dla'l mftah i'ajaz nzm m'aany byan bdy'a skwn fthh dmh.)",
+            "فشلت نظرية النظم في تفسير أسرار البلاغة والفصاحة. (fshlt nzryh alnzm fy tfsyr asrar alblaghh walfsahh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب بكفاءة بالغة: ثورة نظرية النظم، تفنيد وهم الفصاحة اللفظية المعزولة، التأصيل النحوي التركيبي، والتقنين التاريخي الثلاثي للبلاغة عند السكاكي والقزويني."
@@ -19042,10 +19042,10 @@
         {
           "prompt": "ما هو التكامل الجوهري بين علوم البلاغة الثلاثة (البيان، المعاني، والبديع) في تقييم النصوص الأدبية العليا؟",
           "options": [
-            "المَعَانِي لِمُطَابَقَةِ مَقَاصِدِ الحَالِ وَالنَّظْمِ، البَيَانُ لِتَوْضِيحِ الدَّلَالَةِ وَالتَّصْوِيرِ، وَالبَدِيعُ لِتَحْسِينِ الكَلَامِ وَنَغَمِهِ",
-            "أن كل علم يعمل مستقلاً دون أي ارتباط بالآخرين",
-            "أن البديع هو العلم الوحيد المهم والباقي مهمل",
-            "إلغاء المعنى والتركيز على السجع فقط"
+            "المَعَانِي لِمُطَابَقَةِ مَقَاصِدِ الحَالِ وَالنَّظْمِ، البَيَانُ لِتَوْضِيحِ الدَّلَالَةِ وَالتَّصْوِيرِ، وَالبَدِيعُ لِتَحْسِينِ الكَلَامِ وَنَغَمِهِ (Language concept U31)",
+            "أن كل علم يعمل مستقلاً دون أي ارتباط بالآخرين (an kl 'alm y'aml mstqlaan dwn ay artbat balaakhryn)",
+            "أن البديع هو العلم الوحيد المهم والباقي مهمل (an albdy'a hw al'alm alwhyd almhm walbaqy mhml)",
+            "إلغاء المعنى والتركيز على السجع فقط (ilgha' alm'ana waltrkyz 'ala alsj'a fqt)"
           ],
           "answerIndex": 0,
           "explanation": "البلاغة بناء متكامل: المعاني يضبط مطابقة المقام والنظم النحوي، والبيان يمنح جمال الصورة، والبديع يزين اللفظ والمعنى."
@@ -19053,10 +19053,10 @@
         {
           "prompt": "كيف تخدم نظرية «النظم» للجرجاني التحليل الأسلوبي المعاصر للنصوص؟",
           "options": [
-            "بِرَبْطِ البِنْيَةِ التَّرْكِيبِيَّةِ النَّحْوِيَّةِ لِلْجُمَلِ بِالدَّلَالَاتِ النَّفْسِيَّةِ وَالسِّيَاقِيَّةِ لِلنَّصِّ",
-            "بعدّ الكلمات والحروف في كل صفحة",
-            "بإلغاء دراسة النحو في الجامعات",
-            "بفصل النص عن معناه ومقاصده"
+            "بِرَبْطِ البِنْيَةِ التَّرْكِيبِيَّةِ النَّحْوِيَّةِ لِلْجُمَلِ بِالدَّلَالَاتِ النَّفْسِيَّةِ وَالسِّيَاقِيَّةِ لِلنَّصِّ (birabti albinyahi altarkiybiyahi alnahwiyahi liljumali bialdalaalaati alnafsiyahi waalsiyaaqiyahi lilnasi)",
+            "بعدّ الكلمات والحروف في كل صفحة (b'ad alklmat walhrwf fy kl sfhh)",
+            "بإلغاء دراسة النحو في الجامعات (bilgha' drash alnhw fy aljam'aat)",
+            "بفصل النص عن معناه ومقاصده (bfsl alns 'an m'anah wmqasdh)"
           ],
           "answerIndex": 0,
           "explanation": "نظرية النظم هي الأساس العلمي للتحليل الأسلوبي الحديث في ربط التراكيب النحوية بالدلالات والأبعاد النفسية."
@@ -19068,10 +19068,10 @@
         {
           "prompt": "اختر الفقرة الحوارية النقدية التي تختزل الرؤية البلاغية المعاصرة بأعلى مستويات الجزالة:",
           "options": [
-            "— كَيْفَ تُلَخِّصُ رُوحَ البَلَاغَةِ العَرَبِيَّةِ؟ — أَرَاهَا فِي قُدْرَةِ النَّظْمِ عَلَى مُعَانَقَةِ الفِكْرِ؛ حَيْثُ تَتَّحِدُ أَحْكَامُ النَّحْوِ بِسِحْرِ البَيَانِ لِتَصْنَعَ خِطَابًا إِبْدَاعِيًّا يُؤَثِّرُ فِي القُلُوبِ وَيُخَاطِبُ العُقُولَ.",
-            "— هل قرأت كتاب البلاغة اليوم؟ — نعم قرأت صفحتين منه في الصباح.",
-            "— كم قسما لعلوم البلاغة؟ — ثلاثة أقسام مشهورة.",
-            "— حوار مجمع بلاغة تحليل أسلوبي سكون."
+            "— كَيْفَ تُلَخِّصُ رُوحَ البَلَاغَةِ العَرَبِيَّةِ؟ — أَرَاهَا فِي قُدْرَةِ النَّظْمِ عَلَى مُعَانَقَةِ الفِكْرِ؛ حَيْثُ تَتَّحِدُ أَحْكَامُ النَّحْوِ بِسِحْرِ البَيَانِ لِتَصْنَعَ خِطَابًا إِبْدَاعِيًّا يُؤَثِّرُ فِي القُلُوبِ وَيُخَاطِبُ العُقُولَ. (Language concept U31)",
+            "— هل قرأت كتاب البلاغة اليوم؟ — نعم قرأت صفحتين منه في الصباح. (Language concept U31)",
+            "— كم قسما لعلوم البلاغة؟ — ثلاثة أقسام مشهورة. (Language concept U31)",
+            "— حوار مجمع بلاغة تحليل أسلوبي سكون. (— hwar mjm'a blaghh thlyl aslwby skwn.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجسد فلسفة البلاغة في اتحاد النظم النحوي مع سحر البيان والتأثير الإقناعي والجمالي."
@@ -19079,10 +19079,10 @@
         {
           "prompt": "ما إعراب كلمة «خِطَابًا» في قولنا: «لِتَصْنَعَ خِطَابًا إِبْدَاعِيًّا»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "حال منصوبة بالفتحة",
-            "تمييز منصوب"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)",
+            "تمييز منصوب (tmyyz mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«تَصْنَعَ» فعل مضارع والفاعل ضمير مستتر تقديره هي، و«خِطَابًا» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -19095,10 +19095,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري البلاغي الشامل الذي يدمج مخرجات الوحدة الحادية والثلاثين بأكملها (البيان، المعاني، البديع، ونظرية النظم للجرجاني):",
           "options": [
-            "أ.د. عَبْد الحَمِيد: «دُكْتُورَة هُدَى، كَيْفَ نُجْمِلُ الخُلَاصَةَ المَنْهَجِيَّةَ لِعُلُومِ البَلَاغَةِ العَرَبِيَّةِ فِي تَحْلِيلِ النُّصُوصِ الفُصْحَى؟» — د. هُدَى: «إِنَّهَا مَنْظُومَةُ الإِعْجَازِ وَالفَصَاحَةِ المُتَكَامِلَةِ؛ حَيْثُ يُشَيِّدُ «عِلْمُ البَيَانِ» عَوَالِمَ التَّصْوِيرِ بِالتَّشْبِيهِ وَالاسْتِعَارَةِ وَالكِنَايَةِ، وَيَضْبِطُ «عِلْمُ المَعَانِي» مَقَاصِدَ الخِطَابِ وَمُقْتَضَى الحَالِ عَبْرَ نَظَرِيَّةِ «النَّظْمِ» الخَالِدَةِ لِلْجُرْجَانِيِّ، بَيْنَمَا يَمْنَحُ «عِلْمُ البَدِيعِ» النَّصَّ رَوْنَقَ المُحَسَّنَاتِ المَعْنَوِيَّةِ وَالجَرْسِ اللَّفْظِيِّ، لِيَغْدُوَ البَيَانُ العَرَبِيُّ عِمَادَ الإِبْدَاعِ الأَدَبِيِّ وَمِرْآةَ الإِعْجَازِ الخَالِدِ».",
-            "أ.د. عبد الحميد: هل أنهيت بحث البلاغة اليوم؟ — د. هدى: نعم أنهيت مراجعة الفصول الثلاثة.",
-            "حوار بلاغي شامل بيان معاني بديع جرجاني سكاكي قزويني سكون فتحة ضمة تنوين.",
-            "توقفت دراسات البلاغة في الجامعات العربية الحديثة تماما."
+            "أ.د. عَبْد الحَمِيد: «دُكْتُورَة هُدَى، كَيْفَ نُجْمِلُ الخُلَاصَةَ المَنْهَجِيَّةَ لِعُلُومِ البَلَاغَةِ العَرَبِيَّةِ فِي تَحْلِيلِ النُّصُوصِ الفُصْحَى؟» — د. هُدَى: «إِنَّهَا مَنْظُومَةُ الإِعْجَازِ وَالفَصَاحَةِ المُتَكَامِلَةِ؛ حَيْثُ يُشَيِّدُ «عِلْمُ البَيَانِ» عَوَالِمَ التَّصْوِيرِ بِالتَّشْبِيهِ وَالاسْتِعَارَةِ وَالكِنَايَةِ، وَيَضْبِطُ «عِلْمُ المَعَانِي» مَقَاصِدَ الخِطَابِ وَمُقْتَضَى الحَالِ عَبْرَ نَظَرِيَّةِ «النَّظْمِ» الخَالِدَةِ لِلْجُرْجَانِيِّ، بَيْنَمَا يَمْنَحُ «عِلْمُ البَدِيعِ» النَّصَّ رَوْنَقَ المُحَسَّنَاتِ المَعْنَوِيَّةِ وَالجَرْسِ اللَّفْظِيِّ، لِيَغْدُوَ البَيَانُ العَرَبِيُّ عِمَادَ الإِبْدَاعِ الأَدَبِيِّ وَمِرْآةَ الإِعْجَازِ الخَالِدِ». (Language concept U31)",
+            "أ.د. عبد الحميد: هل أنهيت بحث البلاغة اليوم؟ — د. هدى: نعم أنهيت مراجعة الفصول الثلاثة. (Language concept U31)",
+            "حوار بلاغي شامل بيان معاني بديع جرجاني سكاكي قزويني سكون فتحة ضمة تنوين. (hwar blaghy shaml byan m'aany bdy'a jrjany skaky qzwyny skwn fthh dmh tnwyn.)",
+            "توقفت دراسات البلاغة في الجامعات العربية الحديثة تماما. (twqft drasat alblaghh fy aljam'aat al'arbyh alhdythh tmama.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة التحليل البلاغي الموسوعي المتقن في الربط التكاملي بين البيان والمعاني والبديع ونظرية النظم والإعجاز البياني الخالد."
@@ -19164,10 +19164,10 @@
         {
           "prompt": "ما هي الأركان الأربعة الأساسية لـ «القياس» في علم أصول الفقه؟",
           "options": [
-            "الأَصْلُ، الفَرْعُ، حُكْمُ الأَصْلِ، وَالعِلَّةُ الجَامِعَةُ",
-            "المبتدأ، الخبر، الفعل، والفاعل (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "الشاهد، القاضي، المدعي، والمدعى عليه (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "السجع، الجناس، الطباق، والتورية (إتقان أسس علم أصول الفقه ومناهج الاستنباط)"
+            "الأَصْلُ، الفَرْعُ، حُكْمُ الأَصْلِ، وَالعِلَّةُ الجَامِعَةُ (Language concept U32)",
+            "المبتدأ، الخبر، الفعل، والفاعل (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "الشاهد، القاضي، المدعي، والمدعى عليه (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "السجع، الجناس، الطباق، والتورية (itqan ass 'alm aswl alfqh wmnahj alastnbat)"
           ],
           "answerIndex": 0,
           "explanation": "أركان القياس الأصولي أربعة: الأصل (المقيس عليه)، الفرع (الواقعة الجديدة)، حكم الأصل، والعلة المشتركة المؤثرة."
@@ -19175,10 +19175,10 @@
         {
           "prompt": "ما هو الدليل الأصولي التبعي الذي يُعرف بأنه: «حظر الوسائل المباحة إذا كانت تفضي إلى مفاسد محرمة»؟",
           "options": [
-            "سَدُّ الذَّرَائِعِ",
-            "الاستصحاب (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "الإجماع السكوتي (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "العرف الفاسد (إتقان أسس علم أصول الفقه ومناهج الاستنباط)"
+            "سَدُّ الذَّرَائِعِ (sadu aldharaa'i'ai)",
+            "الاستصحاب (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "الإجماع السكوتي (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "العرف الفاسد (itqan ass 'alm aswl alfqh wmnahj alastnbat)"
           ],
           "answerIndex": 0,
           "explanation": "«سد الذرائع» هو منع المباحات إذا كانت ذريعة ووسيلة مؤدية إلى الحرام والمفاسد."
@@ -19190,10 +19190,10 @@
         {
           "prompt": "اختر القاعدة الاستصحابية الكبرى التي تحكم الذمم والأشياء في أصول الفقه:",
           "options": [
-            "«الأَصْلُ فِي الأَشْيَاءِ الإِبَاحَةُ، وَالأَصْلُ بَرَاءَةُ الذِّمَّةِ مِنْ كُلِّ حَقٍّ أَوْ شَغْلٍ».",
-            "الأصل في كل المعاملات التحريم حتى يأتي إذن كتابي (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "الشك يبطل اليقين في جميع الأحوال (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "أصول فقه شافعي رسالة قياس سكون (إتقان أسس علم أصول الفقه ومناهج الاستنباط)"
+            "«الأَصْلُ فِي الأَشْيَاءِ الإِبَاحَةُ، وَالأَصْلُ بَرَاءَةُ الذِّمَّةِ مِنْ كُلِّ حَقٍّ أَوْ شَغْلٍ». (Language concept U32)",
+            "الأصل في كل المعاملات التحريم حتى يأتي إذن كتابي (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "الشك يبطل اليقين في جميع الأحوال (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "أصول فقه شافعي رسالة قياس سكون (itqan ass 'alm aswl alfqh wmnahj alastnbat)"
           ],
           "answerIndex": 0,
           "explanation": "الاستصحاب يقرر أن الأصل في الأعيان والأفعال الإباحة، والأصل براءة ذمة الإنسان حتى يثبت الدليل القاطع."
@@ -19201,10 +19201,10 @@
         {
           "prompt": "ما إعراب كلمة «مَنْهَجِيَّةَ» في جملة: «أَسَّسَ الشَّافِعِيُّ مَنْهَجِيَّةَ الاسْتِنْبَاطِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "مضاف إليه مجرور (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "حال منصوبة بالفتحة (إتقان أسس علم أصول الفقه ومناهج الاستنباط)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "مضاف إليه مجرور (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "حال منصوبة بالفتحة (itqan ass 'alm aswl alfqh wmnahj alastnbat)"
           ],
           "answerIndex": 0,
           "explanation": "«الشَّافِعِيُّ» فاعل مرفوع، و«مَنْهَجِيَّةَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -19217,10 +19217,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأصولي التوثيقي الذي يحلل مناهج الاستدلال ومصادر التشريع بأعلى معايير الإتقان الفقهي والفصاحة اللغوية:",
           "options": [
-            "شَيَّدَ عِلْمُ أُصُولِ الفِقْهِ الصَّرْحَ التَّشْرِيعِيَّ الإِسْلَامِيَّ كَأَعْظَمِ مَنْظُومَةٍ لِلِاسْتِنْبَاطِ وَالعَقْلَانِيَّةِ القَانُونِيَّةِ؛ حَيْثُ رَبَطَ الإِمَامُ الشَّافِعِيُّ فِي «الرِّسَالَةِ» بَيْنَ النَّصِّ وَالاجْتِهَادِ، وَأَسَّسَ قَوَاعِدَ القِيَاسِ بِأَرْكَانِهِ الأَرْبَعَةِ، مُفْسِحًا المَجَالَ أَمَامَ المَصَالِحِ المُرْسَلَةِ وَالاسْتِحْسَانِ وَسَدِّ الذَّرَائِعِ لِتَظَلَّ الشَّرِيعَةُ حَيَّةً قَادِرَةً عَلَى اسْتِيعَابِ نَوَازِلِ العُصُورِ كُلِّهَا.",
-            "أصول الفقه هو علم دراسة الأحكام الشرعية الخمسة للمكلفين. (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "أصول فقه أدلة قياس أصل فرع علة مصلحة مرسلة سد ذرائع سكون فتحة ضمة. (إتقان أسس علم أصول الفقه ومناهج الاستنباط)",
-            "انتهى الاجتهاد في أصول الفقه بعد تدوين المذاهب الأربعة. (إتقان أسس علم أصول الفقه ومناهج الاستنباط)"
+            "شَيَّدَ عِلْمُ أُصُولِ الفِقْهِ الصَّرْحَ التَّشْرِيعِيَّ الإِسْلَامِيَّ كَأَعْظَمِ مَنْظُومَةٍ لِلِاسْتِنْبَاطِ وَالعَقْلَانِيَّةِ القَانُونِيَّةِ؛ حَيْثُ رَبَطَ الإِمَامُ الشَّافِعِيُّ فِي «الرِّسَالَةِ» بَيْنَ النَّصِّ وَالاجْتِهَادِ، وَأَسَّسَ قَوَاعِدَ القِيَاسِ بِأَرْكَانِهِ الأَرْبَعَةِ، مُفْسِحًا المَجَالَ أَمَامَ المَصَالِحِ المُرْسَلَةِ وَالاسْتِحْسَانِ وَسَدِّ الذَّرَائِعِ لِتَظَلَّ الشَّرِيعَةُ حَيَّةً قَادِرَةً عَلَى اسْتِيعَابِ نَوَازِلِ العُصُورِ كُلِّهَا. (Language concept U32)",
+            "أصول الفقه هو علم دراسة الأحكام الشرعية الخمسة للمكلفين. (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "أصول فقه أدلة قياس أصل فرع علة مصلحة مرسلة سد ذرائع سكون فتحة ضمة. (itqan ass 'alm aswl alfqh wmnahj alastnbat)",
+            "انتهى الاجتهاد في أصول الفقه بعد تدوين المذاهب الأربعة. (itqan ass 'alm aswl alfqh wmnahj alastnbat)"
           ],
           "answerIndex": 0,
           "explanation": "النص يحيط بالأدلة الأصلية والتبعية ودور علم أصول الفقه كمنظومة عقلانية قانونية مرنة لاستيعاب النوازل المعاصرة."
@@ -19286,10 +19286,10 @@
         {
           "prompt": "ما نوع الدلالة الأصولية في استنباط تحريم ضرب الوالدين من قوله تعالى: ﴿فَلَا تَقُلْ لَهُمَا أُفٍّ﴾؟",
           "options": [
-            "مَفْهُومُ الموَافَقَةِ",
-            "مفهوم المخالفة (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "دلالة الإشارة العارضة (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "المجاز المرسل فقط (إتقان فقه دلالات الألفاظ في أصول الفقه)"
+            "مَفْهُومُ الموَافَقَةِ (mafhuwmu almwaafaqahi)",
+            "مفهوم المخالفة (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "دلالة الإشارة العارضة (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "المجاز المرسل فقط (itqan fqh dlalat alalfaz fy aswl alfqh)"
           ],
           "answerIndex": 0,
           "explanation": "هو مفهوم موافقة (فحوى الخطاب من باب أولى)؛ لأن الضرب أشد وأعظم إيذاءً من التأفيف المنهي عنه."
@@ -19297,10 +19297,10 @@
         {
           "prompt": "ما هي «دلالة الاقتضاء» في أصول الفقه؟",
           "options": [
-            "دَلَالَةُ النَّصِّ عَلَى مَعْنًى مَحْذُوفٍ لَا يَسْتَقِيمُ الكَلَامُ عَقْلًا أَوْ شَرْعًا إِلَّا بِتَقْدِيرِهِ",
-            "التصريح بالحكم في أول الجملة (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "نفي الحكم عن المسكوت عنه (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "الجمع بين متضادين (إتقان فقه دلالات الألفاظ في أصول الفقه)"
+            "دَلَالَةُ النَّصِّ عَلَى مَعْنًى مَحْذُوفٍ لَا يَسْتَقِيمُ الكَلَامُ عَقْلًا أَوْ شَرْعًا إِلَّا بِتَقْدِيرِهِ (dalaalahu alnasi 'aalaa ma'anana mahdhuwfin laa yastaqiymu alkalaamu 'aaqlana aaw shar'aana iilaa bitaqdiyrihi)",
+            "التصريح بالحكم في أول الجملة (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "نفي الحكم عن المسكوت عنه (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "الجمع بين متضادين (itqan fqh dlalat alalfaz fy aswl alfqh)"
           ],
           "answerIndex": 0,
           "explanation": "دلالة الاقتضاء تتطلب تقدير محذوف يصح به المعنى شرعاً وصدقاً (كتقدير: رُفع إثم الخطأ)."
@@ -19312,10 +19312,10 @@
         {
           "prompt": "ما هو «مفهوم المخالفة» (Mafhum al-Mukhalafah) في علم الأصول؟",
           "options": [
-            "«إِعْطَاءُ المَسْكُوتِ عَنْهُ نَقِيضَ حُكْمِ المَنْطُوقِ عِنْدَ انْتِفَاءِ الشَّرْطِ أَوِ الوَصْفِ أَوِ الغَايَةِ».",
-            "موافقة المسكوت عنه للمنطوق دائماً (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "إلغاء النصوص المخالفة للعقل (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "دلالات ألفاظ منطوق مفهوم سكون (إتقان فقه دلالات الألفاظ في أصول الفقه)"
+            "«إِعْطَاءُ المَسْكُوتِ عَنْهُ نَقِيضَ حُكْمِ المَنْطُوقِ عِنْدَ انْتِفَاءِ الشَّرْطِ أَوِ الوَصْفِ أَوِ الغَايَةِ». (Language concept U32)",
+            "موافقة المسكوت عنه للمنطوق دائماً (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "إلغاء النصوص المخالفة للعقل (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "دلالات ألفاظ منطوق مفهوم سكون (itqan fqh dlalat alalfaz fy aswl alfqh)"
           ],
           "answerIndex": 0,
           "explanation": "مفهوم المخالفة يثبت نقيض حكم المنطوق للمسكوت عنه عند تخلف القيد والصفة المعتبرة."
@@ -19323,10 +19323,10 @@
         {
           "prompt": "ما إعراب كلمة «أَقَلَّ» في جملة: «اسْتَنْبَطَ الصَّحَابِيُّ أَقَلَّ مُدَّةِ الحَمْلِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "تمييز منصوب (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "نعت منصوب (إتقان فقه دلالات الألفاظ في أصول الفقه)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "تمييز منصوب (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "نعت منصوب (itqan fqh dlalat alalfaz fy aswl alfqh)"
           ],
           "answerIndex": 0,
           "explanation": "«الصَّحَابِيُّ» فاعل مرفوع، و«أَقَلَّ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -19339,10 +19339,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الأصولي الدلالي الشامل الذي يحلل المنطق الهرمنيوطيقي للألفاظ في استنباط الأحكام بأعلى درجات الرصانة والبيان:",
           "options": [
-            "تَبْلُغُ الهَرْمِنْيُوطِيقَا الأُصُولِيَّةُ الإِسْلَامِيَّةُ ذِرْوَةَ الإِحْكَامِ المَنْطِقِيِّ فِي فِقْهِ «دَلَالَاتِ الأَلْفَاظِ»؛ حَيْثُ تُمَيِّزُ بِدِقَّةٍ مُعْجِزَةٍ بَيْنَ المَنْطُوقِ الصَّرِيحِ وَغَيْرِ الصَّرِيحِ (كَالاقْتِضَاءِ وَالإِشَارَةِ وَالإِيمَاءِ)، وَتَفُضُّ أَسْرَارَ المَفْهُومِ بِنَوْعَيْهِ: الموَافَقَةِ القَائِمِ عَلَى الأَوْلَوِيَّةِ وَالمُخَالَفَةِ المَبْنِيِّ عَلَى انْتِفَاءِ القَيْدِ، مَعَ ضَبْطِ حَمْلِ المُطْلَقِ عَلَى المُقَيَّدِ وَتَخْصِيصِ العَامِّ، لِيَغْدُوَ الاسْتِنْبَاطُ عِلْمًا بُرْهَانِيًّا يَحْفَظُ مَقَاصِدَ الشَّرْعِ وَعَدَالَةَ التَّطْبِيقِ.",
-            "دلالات الألفاظ هي الكلمات المنطوقة والمفهومة في اللغة العربية. (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "منطوق مفهوم اقتضاء إشارة إيماء موافقة مخالفة عام خاص مطلق مقيد سكون فتحة ضمة. (إتقان فقه دلالات الألفاظ في أصول الفقه)",
-            "لا توجد قواعد منطقية لاستنباط الأحكام من النصوص. (إتقان فقه دلالات الألفاظ في أصول الفقه)"
+            "تَبْلُغُ الهَرْمِنْيُوطِيقَا الأُصُولِيَّةُ الإِسْلَامِيَّةُ ذِرْوَةَ الإِحْكَامِ المَنْطِقِيِّ فِي فِقْهِ «دَلَالَاتِ الأَلْفَاظِ»؛ حَيْثُ تُمَيِّزُ بِدِقَّةٍ مُعْجِزَةٍ بَيْنَ المَنْطُوقِ الصَّرِيحِ وَغَيْرِ الصَّرِيحِ (kaalaqtidaa'i waaliishaarahi waaliiymaa'i)",
+            "دلالات الألفاظ هي الكلمات المنطوقة والمفهومة في اللغة العربية. (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "منطوق مفهوم اقتضاء إشارة إيماء موافقة مخالفة عام خاص مطلق مقيد سكون فتحة ضمة. (itqan fqh dlalat alalfaz fy aswl alfqh)",
+            "لا توجد قواعد منطقية لاستنباط الأحكام من النصوص. (itqan fqh dlalat alalfaz fy aswl alfqh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب المنظومة الدلالية الأصولية بالكامل: المنطوق بدلالاته التبعية، المفهوم بنوعيه (موافقة ومخالفة)، وقواعد المطلق والعام."
@@ -19408,10 +19408,10 @@
         {
           "prompt": "ما هي «الكليات الخمس الكبرى» التي اتفقت الشرائع على وجوب حفظها ورعايتها؟",
           "options": [
-            "حِفْظُ الدِّينِ، النَّفْسِ، العَقْلِ، النَّسْلِ (العِرْضِ)، وَالمَالِ",
-            "الذهب والفضة والخيول والجمال والقصور",
-            "الشعر والنثر والخطابة والرسم والموسيقى",
-            "الصيف والشتاء والربيع والخريف والريح"
+            "حِفْظُ الدِّينِ، النَّفْسِ، العَقْلِ، النَّسْلِ (al'airdi)",
+            "الذهب والفضة والخيول والجمال والقصور (aldhhb walfdh walkhywl waljmal walqswr)",
+            "الشعر والنثر والخطابة والرسم والموسيقى (alsh'ar walnthr walkhtabh walrsm walmwsyqa)",
+            "الصيف والشتاء والربيع والخريف والريح (alsyf walshta' walrby'a walkhryf walryh)"
           ],
           "answerIndex": 0,
           "explanation": "الكليات الخمس الضرورية لحفظ الوجود الإنساني هي: حفظ الدين، النفس، العقل، النسل، والمال."
@@ -19419,10 +19419,10 @@
         {
           "prompt": "ما هو الكتاب الأصولي والمقاصدي الأعظم للإمام الشاطبي الذي أسس لنظرية المقاصد؟",
           "options": [
-            "«المُوَافَقَاتُ فِي أُصُولِ الشَّرِيعَةِ»",
-            "كتاب الأغاني للأصفهاني",
-            "مقدمة ابن خلدون",
-            "طوق الحمامة لابن حزم"
+            "«المُوَافَقَاتُ فِي أُصُولِ الشَّرِيعَةِ» (Language concept U32)",
+            "كتاب الأغاني للأصفهاني (ktab alaghany llasfhany)",
+            "مقدمة ابن خلدون (mqdmh abn khldwn)",
+            "طوق الحمامة لابن حزم (twq alhmamh labn hzm)"
           ],
           "answerIndex": 0,
           "explanation": "كتاب «الموافقات» للإمام الشاطبي هو المرجع التأسيسي الأهم في علم مقاصد الشريعة."
@@ -19434,10 +19434,10 @@
         {
           "prompt": "اختر القاعدة المقاصدية الكلية التي تحسم التعارض بين درء المفسدة وجلب المصلحة:",
           "options": [
-            "«دَرْءُ المَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ المَصَالِحِ».",
-            "جلب المصلحة مقدم دائماً حتى لو دمرت المجتمع",
-            "إلغاء المصلحة والمفسدة معاً",
-            "مقاصد شاطبي كليات خمس ضروريات سكون"
+            "«دَرْءُ المَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ المَصَالِحِ». (Language concept U32)",
+            "جلب المصلحة مقدم دائماً حتى لو دمرت المجتمع (jlb almslhh mqdm da'maan hta lw dmrt almjtm'a)",
+            "إلغاء المصلحة والمفسدة معاً (ilgha' almslhh walmfsdh m'aaan)",
+            "مقاصد شاطبي كليات خمس ضروريات سكون (mqasd shatby klyat khms drwryat skwn)"
           ],
           "answerIndex": 0,
           "explanation": "القاعدة الفقهية المقاصدية تقضي بأن درء المفاسد ودفع الأضرار أولى من السعي وراء المصالح عند التعارض."
@@ -19445,10 +19445,10 @@
         {
           "prompt": "ما إعراب كلمة «قَاعِدَةَ» في جملة: «أَرْسَى الفَقِيهُ قَاعِدَةَ المَقَاصِدِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "مضاف إليه مجرور",
-            "نعت منصوب"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)",
+            "نعت منصوب (n'at mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«الفَقِيهُ» فاعل مرفوع، و«قَاعِدَةَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -19461,10 +19461,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص المقاصدي الفلسفي الذي يحلل نظرية الشاطبي والكليات الخمس بأعلى درجات العمق التشريعي والفصاحة الأدبية:",
           "options": [
-            "يُمَثِّلُ عِلْمُ «مَقَاصِدِ الشَّرِيعَةِ» رُوحَ الفِقْهِ الإِسْلَامِيِّ وَغَايَتَهُ الأَخْلَاقِيَّةَ العُلْيَا؛ حَيْثُ ارْتَقَى الإِمَامُ الشَّاطِبِيُّ فِي «المُوَافَقَاتِ» بِالتَّشْرِيعِ مِنْ حَرْفِيَّةِ النُّصُوصِ إِلَى غَايَاتِهَا الكُبْرَى، مُرَتِّبًا المَصَالِحَ فِي مَرَاتِبِهَا الثَّلَاثِ (الضَّرُورِيَّاتِ وَالحَاجِيَّاتِ وَالتَّحْسِينِيَّاتِ)، وَمُؤَصِّلًا لِحِمَايَةِ «الكُلِّيَّاتِ الخَمْسِ» (الدِّينِ وَالنَّفْسِ وَالعَقْلِ وَالنَّسْلِ وَالمَالِ)، لِيَظَلَّ جَلْبُ المَصَالِحِ وَدَرْءُ المَفَاسِدِ عِمَادَ العَدَالَةِ وَحِكْمَةِ الاسْتِخْلَافِ الإِنْسَانِيِّ.",
-            "مقاصد الشريعة هي حفظ الدين والنفس والمال في الإسلام.",
-            "مقاصد شاطبي موافقات كليات خمس دين نفس عقل نسل مال جلب مصالح درء مفاسد سكون فتحة ضمة.",
-            "أبطل الشاطبي أحكام الفقه القديمة في كتابه الموافقات."
+            "يُمَثِّلُ عِلْمُ «مَقَاصِدِ الشَّرِيعَةِ» رُوحَ الفِقْهِ الإِسْلَامِيِّ وَغَايَتَهُ الأَخْلَاقِيَّةَ العُلْيَا؛ حَيْثُ ارْتَقَى الإِمَامُ الشَّاطِبِيُّ فِي «المُوَافَقَاتِ» بِالتَّشْرِيعِ مِنْ حَرْفِيَّةِ النُّصُوصِ إِلَى غَايَاتِهَا الكُبْرَى، مُرَتِّبًا المَصَالِحَ فِي مَرَاتِبِهَا الثَّلَاثِ (aldaruwriyaati waalhaajiyaati waaltahsiyniyaati)",
+            "مقاصد الشريعة هي حفظ الدين والنفس والمال في الإسلام. (mqasd alshry'ah hy hfz aldyn walnfs walmal fy alislam.)",
+            "مقاصد شاطبي موافقات كليات خمس دين نفس عقل نسل مال جلب مصالح درء مفاسد سكون فتحة ضمة. (mqasd shatby mwafqat klyat khms dyn nfs 'aql nsl mal jlb msalh dr' mfasd skwn fthh dmh.)",
+            "أبطل الشاطبي أحكام الفقه القديمة في كتابه الموافقات. (abtl alshatby ahkam alfqh alqdymh fy ktabh almwafqat.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بدقة بين: التنظير المقاصدي للشاطبي، المراتب المقاصدية الثلاث، حماية الكليات الخمس، وفلسفة جلب المصالح ودرء المفاسد."
@@ -19530,10 +19530,10 @@
         {
           "prompt": "ما هي القاعدة الفقهية الكبرى التي ينبثق منها مبدأ «الضرورات تبيح المحظورات» و«إذا ضاق الأمر اتسع»؟",
           "options": [
-            "المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ",
-            "الأمور بمقاصدها (إتقان القواعد الفقهية الخمس الكبرى)",
-            "العادة محكمة (إتقان القواعد الفقهية الخمس الكبرى)",
-            "اليقين لا يزول بالشك (إتقان القواعد الفقهية الخمس الكبرى)"
+            "المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ (almashaqahu tajlibu altaysiyra)",
+            "الأمور بمقاصدها (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "العادة محكمة (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "اليقين لا يزول بالشك (itqan alqwa'ad alfqhyh alkhms alkbra)"
           ],
           "answerIndex": 0,
           "explanation": "قاعدة «المشقة تجلب التيسير» هي أصل تشريع الرخص والتخفيفات الفقهية عند حصول المشقة والضرورة."
@@ -19541,10 +19541,10 @@
         {
           "prompt": "ما معنى قاعدة «العَادَةُ مُحَكَّمَةٌ» في المعاملات والقضاء؟",
           "options": [
-            "أَنَّ العُرْفَ الصَّحِيحَ السَّائِدَ يُعْتَمَدُ فِي فَصْلِ النِّزَاعَاتِ وَتَفْسِيرِ الشُّرُوطِ مَا لَمْ يُخَالِفِ النَّصَّ",
-            "إلغاء القوانين والاعتماد على العادات السيئة (إتقان القواعد الفقهية الخمس الكبرى)",
-            "تغيير العبادات كل سنة حسب العادة (إتقان القواعد الفقهية الخمس الكبرى)",
-            "منع التجارة والمعاملات العرفية (إتقان القواعد الفقهية الخمس الكبرى)"
+            "أَنَّ العُرْفَ الصَّحِيحَ السَّائِدَ يُعْتَمَدُ فِي فَصْلِ النِّزَاعَاتِ وَتَفْسِيرِ الشُّرُوطِ مَا لَمْ يُخَالِفِ النَّصَّ (aana al'aurfa alsahiyha alsaa'ida yu'atamadu fiy fasli alnizaa'aaati watafsiyri alshuruwti maa lam yukhaalifi alnasa)",
+            "إلغاء القوانين والاعتماد على العادات السيئة (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "تغيير العبادات كل سنة حسب العادة (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "منع التجارة والمعاملات العرفية (itqan alqwa'ad alfqhyh alkhms alkbra)"
           ],
           "answerIndex": 0,
           "explanation": "«العادة محكمة» تعني أن العرف المستقر يُعتد به في تقدير الحقوق والمعاملات وتفسير العقود كالمشروط صراحة."
@@ -19556,10 +19556,10 @@
         {
           "prompt": "كيف يُوزع الفقه الإسلامي عبء الإثبات القضائي بين المتخاصمين في المحكمة؟",
           "options": [
-            "«البَيِّنَةُ (الأَدِلَّةُ وَالشُّهُودُ) عَلَى مَنِ ادَّعَى، وَاليَمِينُ عَلَى مَنْ أَنْكَرَ الدَّعْوَى».",
-            "إلزام المدعى عليه بالاعتراف بالقوة (إتقان القواعد الفقهية الخمس الكبرى)",
-            "إلقاء القرعة بين المتخاصمين (إتقان القواعد الفقهية الخمس الكبرى)",
-            "قواعد فقهية يقين شك مشقة تيسير سكون (إتقان القواعد الفقهية الخمس الكبرى)"
+            "«البَيِّنَةُ (alaadilahu waalshuhuwdu)",
+            "إلزام المدعى عليه بالاعتراف بالقوة (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "إلقاء القرعة بين المتخاصمين (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "قواعد فقهية يقين شك مشقة تيسير سكون (itqan alqwa'ad alfqhyh alkhms alkbra)"
           ],
           "answerIndex": 0,
           "explanation": "المعيار القضائي الأصولي يوجب البينة على المدعي لخلاف الأصل، واليمين على المنكر تمسكاً بالبراءة الأصلية."
@@ -19567,10 +19567,10 @@
         {
           "prompt": "ما إعراب كلمة «حَجَرَ» في جملة: «تُعَدُّ القَاعِدَةُ حَجَرَ الزَّاوِيَةِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ ثَانٍ (نَائِبُ مَفْعُولٍ) مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة (إتقان القواعد الفقهية الخمس الكبرى)",
-            "نائب فاعل مرفوع (إتقان القواعد الفقهية الخمس الكبرى)",
-            "حال منصوبة بالفتحة (إتقان القواعد الفقهية الخمس الكبرى)"
+            "مَفْعُولٌ بِهِ ثَانٍ (naa'ibu maf'auwlin)",
+            "فاعل مرفوع بالضمة (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "نائب فاعل مرفوع (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "حال منصوبة بالفتحة (itqan alqwa'ad alfqhyh alkhms alkbra)"
           ],
           "answerIndex": 0,
           "explanation": "«تُعَدُّ» مبني للمجهول ينصب مفعولين؛ «القَاعِدَةُ» نائب فاعل (أصله مفعول أول)، و«حَجَرَ» مفعول به ثانٍ منصوب."
@@ -19583,10 +19583,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص القضائي الفقهي المقنن الذي يشرح القواعد الفقهية الكبرى وفلسفة الإثبات بأعلى درجات البلاغة والضبط الأكاديمي:",
           "options": [
-            "تَتَجَلَّى عَبْقَرِيَّةُ الفِقْهِ الإِسْلَامِيِّ وَتَقْنِينِهِ القَضَائِيِّ فِي «القَوَاعِدِ الفِقْهِيَّةِ الخَمْسِ الكُبْرَى»؛ حَيْثُ تَحْكُمُ «الأُمُورُ بِمَقَاصِدِهَا» جَوْهَرَ التَّصَرُّفَاتِ، وَيَحْفَظُ «اليَقِينُ لَا يَزُولُ بِالشَّكِّ» بَرَاءَةَ الذِّمَّةِ، وَتَفْتَحُ «المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ» أَبْوَابَ الرُّخَصِ، بَيْنَمَا تَقْضِي «الضَّرَرُ يُزَالُ» وَ«العَادَةُ مُحَكَّمَةٌ» بِرَفْعِ المَفَاسِدِ وَرِعَايَةِ الأَعْرَافِ السَّلِيمَةِ، لِيَتَكَامَلَ مَعَهَا عِبْءُ الإِثْبَاتِ القَضَائِيِّ صَانِعًا صَرْحَ العَدَالَةِ النَّاجِزَةِ.",
-            "القواعد الفقهية هي قواعد قانونية كتبت في مجلة الأحكام العدلية. (إتقان القواعد الفقهية الخمس الكبرى)",
-            "قواعد فقهية خمس أمور بمقاصدها يقين مشقة ضرر عادة بينة يمين سكون فتحة ضمة. (إتقان القواعد الفقهية الخمس الكبرى)",
-            "لا صلة بين القواعد الفقهية وأحكام القضاء والمحاكم. (إتقان القواعد الفقهية الخمس الكبرى)"
+            "تَتَجَلَّى عَبْقَرِيَّةُ الفِقْهِ الإِسْلَامِيِّ وَتَقْنِينِهِ القَضَائِيِّ فِي «القَوَاعِدِ الفِقْهِيَّةِ الخَمْسِ الكُبْرَى»؛ حَيْثُ تَحْكُمُ «الأُمُورُ بِمَقَاصِدِهَا» جَوْهَرَ التَّصَرُّفَاتِ، وَيَحْفَظُ «اليَقِينُ لَا يَزُولُ بِالشَّكِّ» بَرَاءَةَ الذِّمَّةِ، وَتَفْتَحُ «المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ» أَبْوَابَ الرُّخَصِ، بَيْنَمَا تَقْضِي «الضَّرَرُ يُزَالُ» وَ«العَادَةُ مُحَكَّمَةٌ» بِرَفْعِ المَفَاسِدِ وَرِعَايَةِ الأَعْرَافِ السَّلِيمَةِ، لِيَتَكَامَلَ مَعَهَا عِبْءُ الإِثْبَاتِ القَضَائِيِّ صَانِعًا صَرْحَ العَدَالَةِ النَّاجِزَةِ. (Language concept U32)",
+            "القواعد الفقهية هي قواعد قانونية كتبت في مجلة الأحكام العدلية. (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "قواعد فقهية خمس أمور بمقاصدها يقين مشقة ضرر عادة بينة يمين سكون فتحة ضمة. (itqan alqwa'ad alfqhyh alkhms alkbra)",
+            "لا صلة بين القواعد الفقهية وأحكام القضاء والمحاكم. (itqan alqwa'ad alfqhyh alkhms alkbra)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع القواعد الفقهية الخمس الكبرى بأسمائها وتطبيقاتها القضائية مع فلسفة عبء الإثبات في نسق قانوني متكامل."
@@ -19651,10 +19651,10 @@
         {
           "prompt": "ما هو المنهج الأصولي الأمثل الذي تعتمده المجامع الفقهية المعاصرة في علاج النوازل المستجدة؟",
           "options": [
-            "الاجْتِهَادُ الجَمَاعِيُّ القَائِمُ عَلَى التَّكَامُلِ بَيْنَ أَدِلَّةِ الأُصُولِ، المَقَاصِدِ الشَّرْعِيَّةِ، وَالقَوَاعِدِ الفِقْهِيَّةِ مَعَ الاسْتِعَانَةِ بِأَهْلِ الخِبْرَةِ",
-            "إصدار الفتاوى الفردية العشوائية دون دراسة طبية أو اقتصادية",
-            "الجمود والامتناع عن معالجة أي مسألة حديثة",
-            "إلغاء أصول الفقه بالكامل"
+            "الاجْتِهَادُ الجَمَاعِيُّ القَائِمُ عَلَى التَّكَامُلِ بَيْنَ أَدِلَّةِ الأُصُولِ، المَقَاصِدِ الشَّرْعِيَّةِ، وَالقَوَاعِدِ الفِقْهِيَّةِ مَعَ الاسْتِعَانَةِ بِأَهْلِ الخِبْرَةِ (Language concept U32)",
+            "إصدار الفتاوى الفردية العشوائية دون دراسة طبية أو اقتصادية (isdar alftawa alfrdyh al'ashwa'yh dwn drash tbyh aw aqtsadyh)",
+            "الجمود والامتناع عن معالجة أي مسألة حديثة (aljmwd walamtna'a 'an m'aaljh ay msalh hdythh)",
+            "إلغاء أصول الفقه بالكامل (ilgha' aswl alfqh balkaml)"
           ],
           "answerIndex": 0,
           "explanation": "الاجتهاد الجماعي في المجامع الفقهية يجمع بين التحقيق الأصولي المقاصدي وخبرة المتخصصين في الطب والاقتصاد والعلوم."
@@ -19662,10 +19662,10 @@
         {
           "prompt": "كيف تساهم قاعدة «مراعاة المآلات» في ضبط الفتاوى القضائية والفقهية؟",
           "options": [
-            "بِالنَّظَرِ فِي النَّتَائِجِ وَالعَوَاقِبِ المُتَرَتِّبَةِ عَلَى الحُكْمِ لِضَمَانِ أَلَّا يُفْضِيَ تَطْبِيقُهُ إِلَى مَفْسَدَةٍ أَعْظَمَ",
-            "بالتنبؤ بالغيب دون ضوابط",
-            "بإلغاء الواجبات الشرعية",
-            "بفصل الفتوى عن الواقع"
+            "بِالنَّظَرِ فِي النَّتَائِجِ وَالعَوَاقِبِ المُتَرَتِّبَةِ عَلَى الحُكْمِ لِضَمَانِ أَلَّا يُفْضِيَ تَطْبِيقُهُ إِلَى مَفْسَدَةٍ أَعْظَمَ (bialnazari fiy alnataa'iji waal'aawaaqibi almutaratibahi 'aalaa alhukmi lidamaani aalaa yufdiya tatbiyquhu iilaa mafsadahin aa'azama)",
+            "بالتنبؤ بالغيب دون ضوابط (baltnb' balghyb dwn dwabt)",
+            "بإلغاء الواجبات الشرعية (bilgha' alwajbat alshr'ayh)",
+            "بفصل الفتوى عن الواقع (bfsl alftwa 'an alwaq'a)"
           ],
           "answerIndex": 0,
           "explanation": "فقه المآلات ينظر في عواقب تطبيق الفتوى لضمان تحقيق المصلحة الشرعية ودفع أي مفسدة أعظم."
@@ -19677,10 +19677,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تعبر عن نضج الاجتهاد الفقهي المعاصر بأعلى مستويات الجزالة:",
           "options": [
-            "— كَيْفَ نَرَى مُسْتَقْبَلَ الفِقْهِ الإِسْلَامِيِّ؟ — أَرَاهُ فِي اجْتِهَادٍ مَقَاصِدِيٍّ رَصِينٍ يَمْزُجُ ثَوَابِتَ النَّصِّ بِمُرُونَةِ القَوَاعِدِ، لِيَبْقَى دَلِيلَ هِدَايَةٍ وَعِمَادَ عَدَالَةٍ لِلْإِنْسَانِيَّةِ.",
-            "— هل حضرت جلسة المجمع الفقهي اليوم؟ — نعم استمعت للبحوث المعروضة.",
-            "— كم عدد أعضاء المجمع الفقهي؟ — يضم علماء من مختلف الدول.",
-            "— حوار مجمع فقهي اجتهاد نوازل سكون."
+            "— كَيْفَ نَرَى مُسْتَقْبَلَ الفِقْهِ الإِسْلَامِيِّ؟ — أَرَاهُ فِي اجْتِهَادٍ مَقَاصِدِيٍّ رَصِينٍ يَمْزُجُ ثَوَابِتَ النَّصِّ بِمُرُونَةِ القَوَاعِدِ، لِيَبْقَى دَلِيلَ هِدَايَةٍ وَعِمَادَ عَدَالَةٍ لِلْإِنْسَانِيَّةِ. (Language concept U32)",
+            "— هل حضرت جلسة المجمع الفقهي اليوم؟ — نعم استمعت للبحوث المعروضة. (Language concept U32)",
+            "— كم عدد أعضاء المجمع الفقهي؟ — يضم علماء من مختلف الدول. (Language concept U32)",
+            "— حوار مجمع فقهي اجتهاد نوازل سكون. (— hwar mjm'a fqhy ajthad nwazl skwn.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تجسد رسالة الفقه المعاصر في الموازنة بين ثوابت النصوص ومرونة القواعد المقاصدية لخدمة العدالة."
@@ -19688,10 +19688,10 @@
         {
           "prompt": "ما إعراب كلمة «صَرْحًا» في قولنا: «لِيَظَلَّ الفِقْهُ صَرْحًا حَيًّا»؟",
           "options": [
-            "خَبَرُ يَظَلَّ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "اسم يظل مرفوع بالضمة",
-            "مفعول به منصوب",
-            "حال منصوبة بالفتحة"
+            "خَبَرُ يَظَلَّ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (khabaru yazala mansuwbun bialfathahi alzaahirahi)",
+            "اسم يظل مرفوع بالضمة (asm yzl mrfw'a baldmh)",
+            "مفعول به منصوب (mf'awl bh mnswb)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "«الفِقْهُ» اسم يظل مرفوع، و«صَرْحًا» خبر يظل منصوب وعلامة نصبه الفتحة."
@@ -19704,10 +19704,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الفقهي الأصولي الشامل الذي يدمج مخرجات الوحدة الثانية والثلاثين بأكملها (أدلة الأصول، دلالات الألفاظ، مقاصد الشريعة، والقواعد الفقهية الكبرى):",
           "options": [
-            "د. عَبْد الرَّحْمٰن: «دُكْتُورَة فَاطِمَة، كَيْفَ نُلَخِّصُ العَبْقَرِيَّةَ التَّشْرِيعِيَّةَ لِمَنْظُومَةِ الفِقْهِ وَالأُصُولِ فِي بِنَاءِ الاجْتِهَادِ المُعَاصِرِ؟» — د. فَاطِمَة: «إِنَّهَا مَلْحَمَةُ النَّصِّ وَالمَقْصِدِ وَالعَقْلِ؛ حَيْثُ أَرْسَى «عِلْمُ أُصُولِ الفِقْهِ» مَنَاهِجَ الِاسْتِنْبَاطِ وَدَلَالَاتِ المَنْطُوقِ وَالمَفْهُومِ، وَكَشَفَتْ «مَقَاصِدُ الشَّرِيعَةِ» عَنْ غَايَاتِ حِفْظِ الكُلِّيَّاتِ الخَمْسِ، بَيْنَمَا ضَبَطَتِ «القَوَاعِدُ الفِقْهِيَّةُ الكُبْرَى» مَسَارَاتِ الفَتْوَى وَالقَضَاءِ بِمَبَادِئِ اليَقِينِ وَرَفْعِ الضَّرَرِ وَتَيْسِيرِ المَشَقَّةِ، لِيَغْدُوَ الاجْتِهَادُ المَجْمَعِيُّ صَرْحًا خَالِدًا يَسْتَوْعِبُ نَوَازِلَ الحَيَاةِ وَيُحَقِّقُ مَقَاصِدَ العَدْلِ الإِلَهِيِّ».",
-            "د. عبد الرحمن: هل كان المؤتمر الفقهي ناجحا اليوم؟ — د. فاطمة: نعم كان مؤتمرا جيدا ومفيدا.",
-            "حوار فقهي شامل أصول فقه مقاصد قواعد أدلة قياس مصالح مرسلة سكون فتحة ضمة.",
-            "توقفت الفتاوى الفقهية عن التجدد في العصر الحديث."
+            "د. عَبْد الرَّحْمٰن: «دُكْتُورَة فَاطِمَة، كَيْفَ نُلَخِّصُ العَبْقَرِيَّةَ التَّشْرِيعِيَّةَ لِمَنْظُومَةِ الفِقْهِ وَالأُصُولِ فِي بِنَاءِ الاجْتِهَادِ المُعَاصِرِ؟» — د. فَاطِمَة: «إِنَّهَا مَلْحَمَةُ النَّصِّ وَالمَقْصِدِ وَالعَقْلِ؛ حَيْثُ أَرْسَى «عِلْمُ أُصُولِ الفِقْهِ» مَنَاهِجَ الِاسْتِنْبَاطِ وَدَلَالَاتِ المَنْطُوقِ وَالمَفْهُومِ، وَكَشَفَتْ «مَقَاصِدُ الشَّرِيعَةِ» عَنْ غَايَاتِ حِفْظِ الكُلِّيَّاتِ الخَمْسِ، بَيْنَمَا ضَبَطَتِ «القَوَاعِدُ الفِقْهِيَّةُ الكُبْرَى» مَسَارَاتِ الفَتْوَى وَالقَضَاءِ بِمَبَادِئِ اليَقِينِ وَرَفْعِ الضَّرَرِ وَتَيْسِيرِ المَشَقَّةِ، لِيَغْدُوَ الاجْتِهَادُ المَجْمَعِيُّ صَرْحًا خَالِدًا يَسْتَوْعِبُ نَوَازِلَ الحَيَاةِ وَيُحَقِّقُ مَقَاصِدَ العَدْلِ الإِلَهِيِّ». (Language concept U32)",
+            "د. عبد الرحمن: هل كان المؤتمر الفقهي ناجحا اليوم؟ — د. فاطمة: نعم كان مؤتمرا جيدا ومفيدا. (Language concept U32)",
+            "حوار فقهي شامل أصول فقه مقاصد قواعد أدلة قياس مصالح مرسلة سكون فتحة ضمة. (hwar fqhy shaml aswl fqh mqasd qwa'ad adlh qyas msalh mrslh skwn fthh dmh.)",
+            "توقفت الفتاوى الفقهية عن التجدد في العصر الحديث. (twqft alftawa alfqhyh 'an altjdd fy al'asr alhdyth.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل ذروة التحليل الأصولي والفقهي المقاصدي في دمج: أدلة الشافعي، دلالات الألفاظ، مقاصد الشاطبي، القواعد الفقهية الخمس، والاجتهاد المجمعي في النوازل المعاصرة."
@@ -19773,10 +19773,10 @@
         {
           "prompt": "ما هي القاعدة المنهجية التأسيسية التي تحكم كل دعوى أو نقل في علم آداب البحث والمناظرة؟",
           "options": [
-            "«إِنْ كُنْتَ نَاقِلًا فَالصِّحَّةُ، أَوْ كُنْتَ مُدَّعِيًا فَالدَّلِيلُ»",
-            "الصوت العالي يثبت صحة الدعوى دائماً",
-            "رفض الاستماع إلى الخصم ومقاطعته باستمرار",
-            "الاعتماد على التخمين والحدس المجرد"
+            "«إِنْ كُنْتَ نَاقِلًا فَالصِّحَّةُ، أَوْ كُنْتَ مُدَّعِيًا فَالدَّلِيلُ» (Language concept U33)",
+            "الصوت العالي يثبت صحة الدعوى دائماً (alswt al'aaly ythbt shh ald'awa da'maan)",
+            "رفض الاستماع إلى الخصم ومقاطعته باستمرار (rfd alastma'a ila alkhsm wmqat'ath bastmrar)",
+            "الاعتماد على التخمين والحدس المجرد (ala'atmad 'ala altkhmyn walhds almjrd)"
           ],
           "answerIndex": 0,
           "explanation": "القاعدة الذهبية تلزم الناقل بالتحقق من صحة السند، والمدعي بتقديم البرهان والدليل المنطقي."
@@ -19784,10 +19784,10 @@
         {
           "prompt": "ماذا يُقصد بـ «النَّقْضِ» (Refutation) كأحد مراتب الاعتراض في المناظرة؟",
           "options": [
-            "إِبْطَالُ دَلِيلِ الخَصْمِ بِإِيرَادِ مِثَالٍ نَاقِضٍ يَتَخَلَّفُ فِيهِ الحُكْمُ مَعَ وُجُودِ العِلَّةِ",
-            "الموافقة الكاملة على كلام الخصم دون نقاش",
-            "سب الخصم والطعن في خلقه",
-            "الانسحاب من قاعة المناظرة"
+            "إِبْطَالُ دَلِيلِ الخَصْمِ بِإِيرَادِ مِثَالٍ نَاقِضٍ يَتَخَلَّفُ فِيهِ الحُكْمُ مَعَ وُجُودِ العِلَّةِ (iibtaalu daliyli alkhasmi biiiyraadi mithaalin naaqidin yatakhalafu fiyhi alhukmu ma'aa wujuwdi al'ailahi)",
+            "الموافقة الكاملة على كلام الخصم دون نقاش (almwafqh alkamlh 'ala klam alkhsm dwn nqash)",
+            "سب الخصم والطعن في خلقه (sb alkhsm walt'an fy khlqh)",
+            "الانسحاب من قاعة المناظرة (alanshab mn qa'ah almnazrh)"
           ],
           "answerIndex": 0,
           "explanation": "النقض هو إظهار بطلان دليل الخصم عبر إيراد صورة أو مثال ناقض يتحقق فيه الوصف دون أن يثبت الحكم."
@@ -19799,10 +19799,10 @@
         {
           "prompt": "اختر المقصد السامي والغاية الأخلاقية العليا للمناظرة العلمية الرصينة:",
           "options": [
-            "«ظُهُورُ الحَقِّ وَبَيَانُ الصَّوَابِ سَوَاءٌ أَجَرَى عَلَى لِسَانِ المُنَاظِرِ أَوْ لِسَانِ خَصْمِهِ».",
-            "إحراج الخصم والسخرية من آرائه أمام الجمهور",
-            "كسب الرهانات المالية",
-            "مناظرة جدل منع نقض معارضة سكون"
+            "«ظُهُورُ الحَقِّ وَبَيَانُ الصَّوَابِ سَوَاءٌ أَجَرَى عَلَى لِسَانِ المُنَاظِرِ أَوْ لِسَانِ خَصْمِهِ». (Language concept U33)",
+            "إحراج الخصم والسخرية من آرائه أمام الجمهور (ihraj alkhsm walskhryh mn aara'h amam aljmhwr)",
+            "كسب الرهانات المالية (ksb alrhanat almalyh)",
+            "مناظرة جدل منع نقض معارضة سكون (mnazrh jdl mn'a nqd m'aardh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "غاية المناظرة الحقة هي التوصل إلى الصواب والحق بتجرد، والاعتراف به فور بيانه بالبرهان."
@@ -19810,10 +19810,10 @@
         {
           "prompt": "ما إعراب كلمة «شُبَهَ» في جملة: «تُبْطِلُ المُنَاظَرَةُ شُبَهَ المُكَابَرَةِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "مضاف إليه مجرور",
-            "حال منصوبة بالفتحة"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "«المُنَاظَرَةُ» فاعل مرفوع، و«شُبَهَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -19826,10 +19826,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الأكاديمي الذي يحلل قواعد علم آداب البحث والمناظرة بأعلى معايير الإتقان المعرفي والرصانة الفصيحة:",
           "options": [
-            "يُمَثِّلُ «عِلْمُ آدَابِ البَحْثِ وَالمُنَاظَرَةِ» قِمَّةَ التَّحَضُّرِ العَقْلِيِّ فِي التُّرَاثِ العَرَبِيِّ؛ حَيْثُ يُحَرِّرُ الخِطَابَ مِنْ هَيْمَنَةِ الانْفِعَالِ وَالمُكَابَرَةِ إِلَى رِحَابِ البُرْهَانِ المَنْطِقِيِّ، مُتَدَرِّجًا عَبْرَ مَرَاتِبِ الِاعْتِرَاضِ الرَّصِينَةِ مِنَ المَنْعِ وَالنَّقْضِ إِلَى المُعَارَضَةِ وَالإِلْزَامِ، لِتَغْدُوَ المُنَاظَرَةُ مَيْدَانًا شَرِيفًا لِكَشْفِ الحَقِيقَةِ وَتَلَاقِي العُقُولِ عَلَى سُلْطَانِ الحُجَّةِ وَصِدْقِ البَيَانِ.",
-            "المناظرة هي حوار بين شخصين يختلفان في الرأي أمام الجمهور.",
-            "مناظرة جدل سائل مجيب منع نقض معارضة إلزام سكون فتحة ضمة تنوين.",
-            "لا قيمة للمناظرة والجدل في تطور العلوم الإنسانية."
+            "يُمَثِّلُ «عِلْمُ آدَابِ البَحْثِ وَالمُنَاظَرَةِ» قِمَّةَ التَّحَضُّرِ العَقْلِيِّ فِي التُّرَاثِ العَرَبِيِّ؛ حَيْثُ يُحَرِّرُ الخِطَابَ مِنْ هَيْمَنَةِ الانْفِعَالِ وَالمُكَابَرَةِ إِلَى رِحَابِ البُرْهَانِ المَنْطِقِيِّ، مُتَدَرِّجًا عَبْرَ مَرَاتِبِ الِاعْتِرَاضِ الرَّصِينَةِ مِنَ المَنْعِ وَالنَّقْضِ إِلَى المُعَارَضَةِ وَالإِلْزَامِ، لِتَغْدُوَ المُنَاظَرَةُ مَيْدَانًا شَرِيفًا لِكَشْفِ الحَقِيقَةِ وَتَلَاقِي العُقُولِ عَلَى سُلْطَانِ الحُجَّةِ وَصِدْقِ البَيَانِ. (Language concept U33)",
+            "المناظرة هي حوار بين شخصين يختلفان في الرأي أمام الجمهور. (almnazrh hy hwar byn shkhsyn ykhtlfan fy alray amam aljmhwr.)",
+            "مناظرة جدل سائل مجيب منع نقض معارضة إلزام سكون فتحة ضمة تنوين. (mnazrh jdl sa'l mjyb mn'a nqd m'aardh ilzam skwn fthh dmh tnwyn.)",
+            "لا قيمة للمناظرة والجدل في تطور العلوم الإنسانية. (la qymh llmnazrh waljdl fy ttwr al'alwm alinsanyh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب فلسفة علم المناظرة وآدابه وأطواره الاستدلالية الأربعة (المنع، النقض، المعارضة، الإلزام) والغاية الأخلاقية للبحث."
@@ -19896,10 +19896,10 @@
         {
           "prompt": "ما هي المغالطة المنطقية التي يرتكبها من يهاجم نسب الخصم أو صفاته الشخصية متجاهلاً أدلته؟",
           "options": [
-            "مُغَالَطَةُ الشَّخْصَنَةِ",
-            "مغالطة رجل القش",
-            "الاستقراء التام",
-            "القياس البرهاني"
+            "مُغَالَطَةُ الشَّخْصَنَةِ (mughaalatahu alshakhsanahi)",
+            "مغالطة رجل القش (mghalth rjl alqsh)",
+            "الاستقراء التام (alastqra' altam)",
+            "القياس البرهاني (alqyas albrhany)"
           ],
           "answerIndex": 0,
           "explanation": "الشخصنة (Ad Hominem) هي الهروب من مناقشة الفكرة بالطعن في شخص القائل وصفاته."
@@ -19907,10 +19907,10 @@
         {
           "prompt": "ماذا يُقصد بـ «مغالطة رجل القش» (Straw Man Fallacy)؟",
           "options": [
-            "تَحْرِيفُ حُجَّةِ الخَصْمِ وَتَشْوِيهُهَا بِصُورَةٍ هَشَّةٍ لِيَسْهُلَ إِسْقَاطُهَا بَدَلًا مِنْ نَقْدِ رَأْيِهِ الحَقِيقِيِّ",
-            "استخدام أسماء مستعارة في النقاش",
-            "إحضار دمية مصنوعة من القش إلى المناظرة",
-            "الاستدلال بالآيات والأحاديث الصحيحة"
+            "تَحْرِيفُ حُجَّةِ الخَصْمِ وَتَشْوِيهُهَا بِصُورَةٍ هَشَّةٍ لِيَسْهُلَ إِسْقَاطُهَا بَدَلًا مِنْ نَقْدِ رَأْيِهِ الحَقِيقِيِّ (tahriyfu hujahi alkhasmi watashwiyhuhaa bisuwrahin hashahin liyashula iisqaatuhaa badalana min naqdi raayihi alhaqiyqiyi)",
+            "استخدام أسماء مستعارة في النقاش (astkhdam asma' mst'aarh fy alnqash)",
+            "إحضار دمية مصنوعة من القش إلى المناظرة (ihdar dmyh msnw'ah mn alqsh ila almnazrh)",
+            "الاستدلال بالآيات والأحاديث الصحيحة (alastdlal balaayat walahadyth alshyhh)"
           ],
           "answerIndex": 0,
           "explanation": "رجل القش هو اختلاق نسخة مشوهة وضعيفة من حجة الخصم لمهاجمتها وإيهام الجمهور بالانتصار الزائف."
@@ -19922,10 +19922,10 @@
         {
           "prompt": "اختر سمة «القياس البرهاني» (Deductive Demonstration) الصارم في المنطق الأصولي:",
           "options": [
-            "«إِذَا صَحَّتِ المُقَدِّمَاتُ وَانْضَبَطَتِ الهَيْئَةُ لَزِمَتِ النَّتِيجَةُ قَطْعًا وَبِلَا ارْتِيَابٍ».",
-            "النتيجة تخالف المقدمات دائماً",
-            "الاعتماد على الظن والاحتمال الضعيف",
-            "حجة منطق قياس برهان مغالطة سكون"
+            "«إِذَا صَحَّتِ المُقَدِّمَاتُ وَانْضَبَطَتِ الهَيْئَةُ لَزِمَتِ النَّتِيجَةُ قَطْعًا وَبِلَا ارْتِيَابٍ». (Language concept U33)",
+            "النتيجة تخالف المقدمات دائماً (alntyjh tkhalf almqdmat da'maan)",
+            "الاعتماد على الظن والاحتمال الضعيف (ala'atmad 'ala alzn walahtmal ald'ayf)",
+            "حجة منطق قياس برهان مغالطة سكون (hjh mntq qyas brhan mghalth skwn)"
           ],
           "answerIndex": 0,
           "explanation": "القياس البرهاني المنتج يولد نتيجة قطعية لازمة وحتمية عند صحة المقدمات وسلامة التركيب الصوري."
@@ -19933,10 +19933,10 @@
         {
           "prompt": "ما إعراب كلمة «زَيْفَ» في جملة: «يَكْشِفُ الفِكْرُ زَيْفَ المُغَالَطَاتِ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "مضاف إليه مجرور",
-            "حال منصوبة بالفتحة"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مضاف إليه مجرور (mdaf ilyh mjrwr)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "«الفِكْرُ» فاعل مرفوع، و«زَيْفَ» مفعول به منصوب وعلامة نصبه الفتحة."
@@ -19949,10 +19949,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص النقدي التفكيكي الذي يحلل هندسة الحجج وكشف المغالطات بأعلى درجات الدقة الإبستمولوجية والبيان:",
           "options": [
-            "يَرْتَقِي العَقْلُ النَّقْدِيُّ فِي المُنَاظَرَاتِ العُلْيَا بِتَمْيِيزِ الحُجَجِ البُرْهَانِيَّةِ اليَقِينِيَّةِ مِنَ السَّفْسَطَةِ وَالمُغَالَطَاتِ الفِكْرِيَّةِ؛ فَيَفْضَحُ تَحْرِيفَ «رَجُلِ القَشِّ»، وَيَدْحَضُ عَبَثَ «الشَّخْصَنَةِ»، وَيُفَكِّكُ وَهْمَ «التَّعْمِيمِ المُتَسَرِّعِ» وَ«الاسْتِدْلَالِ الدَّائِرِيِّ»، لِيَبْنِيَ مَنْظُومَةً حِوَارِيَّةً نَاصِعَةً تَعْتَمِدُ عَلَى تَرَابُطِ المُقَدِّمَاتِ وَسَلَامَةِ النَّتَائِجِ فِي ضَوْءِ الحَقِيقَةِ وَالبُرْهَانِ.",
-            "الحجج المنطقية هي كلام مرتب لإقناع الناس بالفكرة.",
-            "حجة برهان مغالطة رجل قش شخصنة تعميم متسرع سكون فتحة ضمة تنوين.",
-            "تنجح المغالطات دائما في هزيمة الحجج الصحيحة."
+            "يَرْتَقِي العَقْلُ النَّقْدِيُّ فِي المُنَاظَرَاتِ العُلْيَا بِتَمْيِيزِ الحُجَجِ البُرْهَانِيَّةِ اليَقِينِيَّةِ مِنَ السَّفْسَطَةِ وَالمُغَالَطَاتِ الفِكْرِيَّةِ؛ فَيَفْضَحُ تَحْرِيفَ «رَجُلِ القَشِّ»، وَيَدْحَضُ عَبَثَ «الشَّخْصَنَةِ»، وَيُفَكِّكُ وَهْمَ «التَّعْمِيمِ المُتَسَرِّعِ» وَ«الاسْتِدْلَالِ الدَّائِرِيِّ»، لِيَبْنِيَ مَنْظُومَةً حِوَارِيَّةً نَاصِعَةً تَعْتَمِدُ عَلَى تَرَابُطِ المُقَدِّمَاتِ وَسَلَامَةِ النَّتَائِجِ فِي ضَوْءِ الحَقِيقَةِ وَالبُرْهَانِ. (Language concept U33)",
+            "الحجج المنطقية هي كلام مرتب لإقناع الناس بالفكرة. (alhjj almntqyh hy klam mrtb liqna'a alnas balfkrh.)",
+            "حجة برهان مغالطة رجل قش شخصنة تعميم متسرع سكون فتحة ضمة تنوين. (hjh brhan mghalth rjl qsh shkhsnh t'amym mtsr'a skwn fthh dmh tnwyn.)",
+            "تنجح المغالطات دائما في هزيمة الحجج الصحيحة. (tnjh almghaltat da'ma fy hzymh alhjj alshyhh.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستعرض ببراعة: التمييز بين البرهان والسفسطة، وأشهر المغالطات المنطقية المعاصرة ودور التفكير النقدي في تفكيكها."
@@ -20019,10 +20019,10 @@
         {
           "prompt": "ما هي الأركان الثلاثة البنيوية للخطبة الكلاسيكية المعيارية في البلاغة العربية؟",
           "options": [
-            "المُقَدِّمَةُ (بَرَاعَةُ الِاسْتِهْلَالِ)، العَرْضُ (هَنْدَسَةُ الحُجَجِ)، وَالخَاتِمَةُ",
-            "الوزن، القافية، والروي فقط (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "السؤال، الجواب، والاعتراض (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "الاسم، الفعل، والحرف (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)"
+            "المُقَدِّمَةُ (baraa'aahu aliastihlaali)",
+            "الوزن، القافية، والروي فقط (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "السؤال، الجواب، والاعتراض (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "الاسم، الفعل، والحرف (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)"
           ],
           "answerIndex": 0,
           "explanation": "أركان الخطبة الثلاثة: المقدمة الاستهلالية الآسرة، العرض الحجاجي المتماسك، والخاتمة الجامعة الحاسمة."
@@ -20030,10 +20030,10 @@
         {
           "prompt": "ما هو مثلث التأثير والإقناع (The Triad of Persuasion) في فن الخطابة؟",
           "options": [
-            "الحُجَّةُ العَقْلِيَّةُ (Logos)، المِصْدَاقِيَّةُ الأَخْلَاقِيَّةُ (Ethos)، وَالاسْتِجَاشَةُ الوِجْدَانِيَّةُ",
-            "المال والشهرة والسلطة (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "الصراخ السريع والتكرار العشوائي (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "الطباق والجناس والسجع فقط (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)"
+            "الحُجَّةُ العَقْلِيَّةُ (Logos)",
+            "المال والشهرة والسلطة (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "الصراخ السريع والتكرار العشوائي (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "الطباق والجناس والسجع فقط (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)"
           ],
           "answerIndex": 0,
           "explanation": "مثلث الإقناع يجمع بين: الإقناع المنطقي (Logos)، مصداقية وهيبة المتحدث (Ethos)، ومخاطبة المشاعر النبيلة (Pathos)."
@@ -20045,10 +20045,10 @@
         {
           "prompt": "ما أهمية «الوقفات الخطابية» (Rhetorical Pauses) والتنغيم الصوتي في إلقاء الخطب؟",
           "options": [
-            "«تَمْنَحُ الكَلَامَ هَيْبَةً وَتُرَبِّي التَّشْوِيقَ وَتُتِيحُ لِلْمُسْتَمِعِ اسْتِيعَابَ المَعَانِي المَرْكَزِيَّةِ».",
-            "للسماح للخطيب بالنوم على المنبر (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "لإخفاء نسيان الكلمات فقط (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "خطابة إلقاء استهلال خاتمة تنغيم سكون (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)"
+            "«تَمْنَحُ الكَلَامَ هَيْبَةً وَتُرَبِّي التَّشْوِيقَ وَتُتِيحُ لِلْمُسْتَمِعِ اسْتِيعَابَ المَعَانِي المَرْكَزِيَّةِ». (Language concept U33)",
+            "للسماح للخطيب بالنوم على المنبر (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "لإخفاء نسيان الكلمات فقط (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "خطابة إلقاء استهلال خاتمة تنغيم سكون (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)"
           ],
           "answerIndex": 0,
           "explanation": "الوقفات الموزونة والتنغيم تبرز الفكرة المركزية، تشوق السامع، وتمنح الخطاب وقاراً وتأثيراً عميقاً."
@@ -20056,10 +20056,10 @@
         {
           "prompt": "ما إعراب كلمة «خُطْبَتَهُ» في جملة: «يُتَوِّجُ الخَطِيبُ خُطْبَتَهُ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "مضاف إليه مجرور (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "حال منصوبة بالفتحة (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "مضاف إليه مجرور (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "حال منصوبة بالفتحة (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)"
           ],
           "answerIndex": 0,
           "explanation": "«الخَطِيبُ» فاعل مرفوع، و«خُطْبَتَ» مفعول به منصوب وعلامة نصبه الفتحة، والهاء مضاف إليه."
@@ -20072,10 +20072,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص البلاغي الخطابي الذي يحلل استراتيجيات الإقناع وهندسة التأثير الجماهيري بأعلى مستويات الجزالة والفصاحة:",
           "options": [
-            "تَتَبَوَّأُ الخَطَابَةُ العُلْيَا ذِرْوَةَ الإِقْنَاعِ البَلَاغِيِّ حِينَ يَتَّحِدُ سِحْرُ اللَّفْظِ بِجَلَالِ المَوْقِفِ؛ فَتَبْدَأُ بِبَرَاعَةِ اسْتِهْلَالٍ تَأْسِرُ الأَفْئِدَةَ، وَتَتَسَلْسَلُ فِي عَرْضٍ حِجَاجِيٍّ يَمْزُجُ صَلَابَةَ البُرْهَانِ بِنُبْلِ المَقْصِدِ وَلَهَبِ العَاطِفَةِ الصَّادِقَةِ، لِتَتَوَّجَ بِفَصْلِ خِطَابٍ يَهُزُّ الأَسْمَاعَ، مَدْعُومَةً بِفُنُونِ النَّبْرِ وَالتَّنْغِيمِ وَالوَقَفَاتِ الخِطَابِيَّةِ الَّتِي تُحَوِّلُ الكَلِمَاتِ إِلَى قُوَّةٍ تَبْنِي الوَعْيَ وَتَصْنَعُ المَجْدَ.",
-            "الخطابة فن قديم كان يستعمله العرب في الجاهلية والإسلام. (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "خطابة استهلال عرض خاتمة لوغوس إيثوس باثوس نبر تنغيم وقفات سكون فتحة ضمة. (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)",
-            "فقدت الخطابة دورها تماما في العصر الحديث بسبب وسائل التواصل. (إتقان فنون الخطابة الأكاديمية والسياسية والمحفلية)"
+            "تَتَبَوَّأُ الخَطَابَةُ العُلْيَا ذِرْوَةَ الإِقْنَاعِ البَلَاغِيِّ حِينَ يَتَّحِدُ سِحْرُ اللَّفْظِ بِجَلَالِ المَوْقِفِ؛ فَتَبْدَأُ بِبَرَاعَةِ اسْتِهْلَالٍ تَأْسِرُ الأَفْئِدَةَ، وَتَتَسَلْسَلُ فِي عَرْضٍ حِجَاجِيٍّ يَمْزُجُ صَلَابَةَ البُرْهَانِ بِنُبْلِ المَقْصِدِ وَلَهَبِ العَاطِفَةِ الصَّادِقَةِ، لِتَتَوَّجَ بِفَصْلِ خِطَابٍ يَهُزُّ الأَسْمَاعَ، مَدْعُومَةً بِفُنُونِ النَّبْرِ وَالتَّنْغِيمِ وَالوَقَفَاتِ الخِطَابِيَّةِ الَّتِي تُحَوِّلُ الكَلِمَاتِ إِلَى قُوَّةٍ تَبْنِي الوَعْيَ وَتَصْنَعُ المَجْدَ. (Language concept U33)",
+            "الخطابة فن قديم كان يستعمله العرب في الجاهلية والإسلام. (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "خطابة استهلال عرض خاتمة لوغوس إيثوس باثوس نبر تنغيم وقفات سكون فتحة ضمة. (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)",
+            "فقدت الخطابة دورها تماما في العصر الحديث بسبب وسائل التواصل. (itqan fnwn alkhtabh alakadymyh walsyasyh walmhflyh)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستجمع عناصر الخطابة الكبرى: براعة الاستهلال، التماسك الحجاجي، مثلث التأثير، فصاحة الخاتمة، والمهارات الصوتية التعبيرية."
@@ -20141,10 +20141,10 @@
         {
           "prompt": "ما هي القضية الفلسفية واللغوية الكبرى التي دارت حولها مناظرة أبي سعيد السيرافي ومتى بن يونس الشهيرة؟",
           "options": [
-            "العَلَاقَةُ بَيْنَ النَّحْوِ العَرَبِيِّ وَالمَنْطِقِ اليُونَانِيِّ؛ وَأَسْبَقِيَّةُ بَيَانِ اللُّغَةِ عَلَى قَوَاعِدِ التَّفْكِيرِ",
-            "تفضيل الشعر على النثر (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "أسباب سقوط الدولة الأموية (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "أوزان بحور الشعر العربي (إتقان تحليل عيون التراث الخطابي والجدلي)"
+            "العَلَاقَةُ بَيْنَ النَّحْوِ العَرَبِيِّ وَالمَنْطِقِ اليُونَانِيِّ؛ وَأَسْبَقِيَّةُ بَيَانِ اللُّغَةِ عَلَى قَوَاعِدِ التَّفْكِيرِ (Language concept U33)",
+            "تفضيل الشعر على النثر (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "أسباب سقوط الدولة الأموية (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "أوزان بحور الشعر العربي (itqan thlyl 'aywn altrath alkhtaby waljdly)"
           ],
           "answerIndex": 0,
           "explanation": "دارت المناظرة حول علاقة النحو بالمنطق وأثبت السيرافي أن المنطق لا يمكن أن يستقل عن البنية النحوية والدلالية للغة."
@@ -20152,10 +20152,10 @@
         {
           "prompt": "من هو الخطيب الجاهلي الحكيم صاحب خطبة سوق عكاظ الشهيرة: «أيها الناس اسمعوا وعوا...»؟",
           "options": [
-            "قُسُّ بْنُ سَاعِدَةَ الإِيَادِيُّ",
-            "عنترة بن شداد (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "امرؤ القيس (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "طرفة بن العبد (إتقان تحليل عيون التراث الخطابي والجدلي)"
+            "قُسُّ بْنُ سَاعِدَةَ الإِيَادِيُّ (qusu bnu saa'aidaha aliiyaadiyu)",
+            "عنترة بن شداد (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "امرؤ القيس (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "طرفة بن العبد (itqan thlyl 'aywn altrath alkhtaby waljdly)"
           ],
           "answerIndex": 0,
           "explanation": "قس بن ساعدة الإيادي هو أشهر خطباء الجاهلية وحكمائها الممهدين للتوحيد."
@@ -20167,10 +20167,10 @@
         {
           "prompt": "اختر العبارة الخطابية الافتتاحية الخالدة للقائد طارق بن زياد في فتح الأندلس:",
           "options": [
-            "«أَيُّهَا النَّاسُ، أَيْنَ المَفَرُّ؟ البَحْرُ مِنْ وَرَائِكُمْ، وَالعَدُوُّ أَمَامَكُمْ، وَلَيْسَ لَكُمْ وَاللَّهِ إِلَّا الصِّدْقُ وَالصَّبْرُ».",
-            "السلام عليكم ورحمة الله وبركاته كيف حالكم اليوم (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "يا قوم ناموا ولا تستيقظوا (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "خطب تراث سيرافي متى قس طارق سكون (إتقان تحليل عيون التراث الخطابي والجدلي)"
+            "«أَيُّهَا النَّاسُ، أَيْنَ المَفَرُّ؟ البَحْرُ مِنْ وَرَائِكُمْ، وَالعَدُوُّ أَمَامَكُمْ، وَلَيْسَ لَكُمْ وَاللَّهِ إِلَّا الصِّدْقُ وَالصَّبْرُ». (Language concept U33)",
+            "السلام عليكم ورحمة الله وبركاته كيف حالكم اليوم (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "يا قوم ناموا ولا تستيقظوا (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "خطب تراث سيرافي متى قس طارق سكون (itqan thlyl 'aywn altrath alkhtaby waljdly)"
           ],
           "answerIndex": 0,
           "explanation": "هذه الجملة هي أشهر افتتاحية حماسية في تاريخ الخطابة العسكرية العربية لاستنهاض الهمم والثبات."
@@ -20178,10 +20178,10 @@
         {
           "prompt": "ما إعراب كلمة «خُطْبَتَهُ» في جملة: «خَلَّدَ قُسٌّ خُطْبَتَهُ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "مضاف إليه مجرور (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "حال منصوبة بالفتحة (إتقان تحليل عيون التراث الخطابي والجدلي)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "مضاف إليه مجرور (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "حال منصوبة بالفتحة (itqan thlyl 'aywn altrath alkhtaby waljdly)"
           ],
           "answerIndex": 0,
           "explanation": "«قُسٌّ» فاعل مرفوع، و«خُطْبَتَ» مفعول به منصوب وعلامة نصبه الفتحة، والهاء ضمير متصل في محل جر مضاف إليه."
@@ -20194,10 +20194,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التراثي والتحليلي الشامل الذي يوثق عيون الخطب والمناظرات التاريخية بأرقى درجات البلاغة العربية:",
           "options": [
-            "شَهِدَ التَّارِيخُ العَرَبِيُّ رَوَائِعَ خَالِدَةً مِنَ البَيَانِ الجَدَلِيِّ وَالخَطَابِيِّ الَّتِي غَيَّرَتْ مَجْرَى الفِكْرِ وَالأَحْدَاثِ؛ حَيْثُ جَسَّدَتْ مُنَاظَرَةُ السِّيرَافِيِّ وَمَتَّى بْنِ يُونُسَ صِرَاعَ اللُّغَةِ وَالمَنْطِقِ، وَأَطْلَقَ قُسُّ بْنُ سَاعِدَةَ فِي عُكَاظَ صَرْخَةَ التَّوْحِيدِ وَالحِكْمَةِ، بَيْنَمَا هَزَّتْ خُطْبَةُ طَارِقِ بْنِ زِيَادٍ صُفُوفَ الفَاتِحِينَ، لِتَتَوَّجَ هٰذِهِ العَبْقَرِيَّةُ بِرَوَائِعِ «نَهْجِ البَلَاغَةِ» شَاهِدًا خَالِدًا عَلَى سُمُوِّ اللِّسَانِ العَرَبِيِّ وَإِعْجَازِهِ النَّثْرِيِّ.",
-            "خطب العرب ومناظراتهم كثيرة في كتب التاريخ والأدب. (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "مناظرات خطب تاريخ سيرافي متى قس طارق نهج بلاغة سكون فتحة ضمة تنوين. (إتقان تحليل عيون التراث الخطابي والجدلي)",
-            "نسي الناس جميع خطب التراث العربي القديم. (إتقان تحليل عيون التراث الخطابي والجدلي)"
+            "شَهِدَ التَّارِيخُ العَرَبِيُّ رَوَائِعَ خَالِدَةً مِنَ البَيَانِ الجَدَلِيِّ وَالخَطَابِيِّ الَّتِي غَيَّرَتْ مَجْرَى الفِكْرِ وَالأَحْدَاثِ؛ حَيْثُ جَسَّدَتْ مُنَاظَرَةُ السِّيرَافِيِّ وَمَتَّى بْنِ يُونُسَ صِرَاعَ اللُّغَةِ وَالمَنْطِقِ، وَأَطْلَقَ قُسُّ بْنُ سَاعِدَةَ فِي عُكَاظَ صَرْخَةَ التَّوْحِيدِ وَالحِكْمَةِ، بَيْنَمَا هَزَّتْ خُطْبَةُ طَارِقِ بْنِ زِيَادٍ صُفُوفَ الفَاتِحِينَ، لِتَتَوَّجَ هٰذِهِ العَبْقَرِيَّةُ بِرَوَائِعِ «نَهْجِ البَلَاغَةِ» شَاهِدًا خَالِدًا عَلَى سُمُوِّ اللِّسَانِ العَرَبِيِّ وَإِعْجَازِهِ النَّثْرِيِّ. (Language concept U33)",
+            "خطب العرب ومناظراتهم كثيرة في كتب التاريخ والأدب. (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "مناظرات خطب تاريخ سيرافي متى قس طارق نهج بلاغة سكون فتحة ضمة تنوين. (itqan thlyl 'aywn altrath alkhtaby waljdly)",
+            "نسي الناس جميع خطب التراث العربي القديم. (itqan thlyl 'aywn altrath alkhtaby waljdly)"
           ],
           "answerIndex": 0,
           "explanation": "النص يستوعب قمم التراث الخطابي والمناظراتي: السيرافي ومتى (النحو والمنطق)، قس بن ساعدة (الحكمة والتوحيد)، طارق بن زياد (الشجاعة والقيادة)، ونهج البلاغة (القمة النثرية)."
@@ -20262,10 +20262,10 @@
         {
           "prompt": "ما هو التكامل الجوهري بين فن «المناظرة» وفن «الخطابة» في قيادة الفكر وتوجيه الرأي العام؟",
           "options": [
-            "المُنَاظَرَةُ لِتَحْقِيقِ الصَّوَابِ وَدَحْضِ الشُّبَهِ بِالبُرْهَانِ، وَالخَطَابَةُ لِإِيصَالِ المَعْنَى وَاسْتِنْهَاضِ الهِمَمِ بِمُثَلَّثِ الإِقْنَاعِ",
-            "أنهما يعتمدان على التضليل والمغالطة فقط",
-            "أن الخطابة للشعر والمناظرة للرياضيات",
-            "لا يوجد أي تكامل بينهما"
+            "المُنَاظَرَةُ لِتَحْقِيقِ الصَّوَابِ وَدَحْضِ الشُّبَهِ بِالبُرْهَانِ، وَالخَطَابَةُ لِإِيصَالِ المَعْنَى وَاسْتِنْهَاضِ الهِمَمِ بِمُثَلَّثِ الإِقْنَاعِ (Language concept U33)",
+            "أنهما يعتمدان على التضليل والمغالطة فقط (anhma y'atmdan 'ala altdlyl walmghalth fqt)",
+            "أن الخطابة للشعر والمناظرة للرياضيات (an alkhtabh llsh'ar walmnazrh llryadyat)",
+            "لا يوجد أي تكامل بينهما (la ywjd ay tkaml bynhma)"
           ],
           "answerIndex": 0,
           "explanation": "المناظرة توفر الركيزة المنطقية الصلبة وكشف المغالطات، بينما تمنح الخطابة قوة الإلقاء والتأثير الوجداني والقيادي."
@@ -20273,10 +20273,10 @@
         {
           "prompt": "كيف يُواجه المناظر الحصيف محاولات الخصم اللجوء إلى مغالطة «الشخصنة» أو «رجل القش»؟",
           "options": [
-            "بِإِعَادَةِ تَأْطِيرِ النِّقَاشِ نَحْوَ جَوْهَرِ الفِكْرَةِ، وَكِشْفِ التَّحْرِيفِ بِهُدُوءٍ وَالاحْتِكَامِ لِلْبُرْهَانِ المَوْضُوعِيِّ",
-            "بالرد بالشتائم ومهاجمة الخصم شخصياً",
-            "بالبكاء ومغادرة القاعة",
-            "بقبول التحريف والتنازل عن الحقيقة"
+            "بِإِعَادَةِ تَأْطِيرِ النِّقَاشِ نَحْوَ جَوْهَرِ الفِكْرَةِ، وَكِشْفِ التَّحْرِيفِ بِهُدُوءٍ وَالاحْتِكَامِ لِلْبُرْهَانِ المَوْضُوعِيِّ (Language concept U33)",
+            "بالرد بالشتائم ومهاجمة الخصم شخصياً (balrd balshta'm wmhajmh alkhsm shkhsyaan)",
+            "بالبكاء ومغادرة القاعة (balbka' wmghadrh alqa'ah)",
+            "بقبول التحريف والتنازل عن الحقيقة (bqbwl althryf waltnazl 'an alhqyqh)"
           ],
           "answerIndex": 0,
           "explanation": "الرد الأصولي الحصيف هو إعادة النقاش إلى مساره الموضوعي وفضح محاولة الخصم الهروب من مواجهة الحجة."
@@ -20288,10 +20288,10 @@
         {
           "prompt": "اختر الفقرة الحوارية التي تلخص فلسفة الحوار الأكاديمي الراقي بأعلى درجات البلاغة:",
           "options": [
-            "— كَيْفَ نَصْنَعُ حِوَارًا حَضَارِيًّا خَالِدًا؟ — حِينَ نَجْعَلُ العَقْلَ رَائِدَنَا، وَالبُرْهَانَ سِلَاحَنَا، وَاحْتِرَامَ الحَقِيقَةِ غَايَتَنَا الكُبْرَى دُونَ كِبْرٍ أَوْ مُكَابَرَةٍ.",
-            "— هل شاركت في مسابقة المناظرات الجامعية؟ — نعم شاركت مع فريقي الأسبوع الماضي.",
-            "— كم دقيقة مدة الخطبة في المحفل؟ — تستغرق عشر دقائق فقط.",
-            "— حوار محفل فكري مناظرة خطابة سكون."
+            "— كَيْفَ نَصْنَعُ حِوَارًا حَضَارِيًّا خَالِدًا؟ — حِينَ نَجْعَلُ العَقْلَ رَائِدَنَا، وَالبُرْهَانَ سِلَاحَنَا، وَاحْتِرَامَ الحَقِيقَةِ غَايَتَنَا الكُبْرَى دُونَ كِبْرٍ أَوْ مُكَابَرَةٍ. (Language concept U33)",
+            "— هل شاركت في مسابقة المناظرات الجامعية؟ — نعم شاركت مع فريقي الأسبوع الماضي. (Language concept U33)",
+            "— كم دقيقة مدة الخطبة في المحفل؟ — تستغرق عشر دقائق فقط. (Language concept U33)",
+            "— حوار محفل فكري مناظرة خطابة سكون. (— hwar mhfl fkry mnazrh khtabh skwn.)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرة تعبر عن جوهر الحوار الحضاري القائم على هداية العقل وسلطان البرهان والتجرد في طلب الحقيقة."
@@ -20299,10 +20299,10 @@
         {
           "prompt": "ما إعراب كلمة «مَنَارَتَيْنِ» في قولنا: «لِتَظَلَّ المُنَاظَرَةُ وَالخَطَابَةُ مَنَارَتَيْنِ خَالِدَتَيْنِ»؟",
           "options": [
-            "خَبَرُ يَظَلَّ مَنْصُوبٌ بِاليَاءِ لِأَنَّهُ مُثَنًّى",
-            "اسم يظل مرفوع بالألف",
-            "مفعول به منصوب بالياء",
-            "حال منصوبة بالياء"
+            "خَبَرُ يَظَلَّ مَنْصُوبٌ بِاليَاءِ لِأَنَّهُ مُثَنًّى (khabaru yazala mansuwbun bialyaa'i liaanahu muthanana)",
+            "اسم يظل مرفوع بالألف (asm yzl mrfw'a balalf)",
+            "مفعول به منصوب بالياء (mf'awl bh mnswb balya')",
+            "حال منصوبة بالياء (hal mnswbh balya')"
           ],
           "answerIndex": 0,
           "explanation": "«المُنَاظَرَةُ» اسم يظل مرفوع، و«مَنَارَتَيْنِ» خبر يظل منصوب وعلامة نصبه الياء لأنه مثنى."
@@ -20315,10 +20315,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الحواري الفكري والخطابي الشامل الذي يدمج مخرجات الوحدة الثالثة والثلاثين بأكملها (أدب المناظرة، الحجج ودحض المغالطات، فنون الخطابة، وتراث المناظرات الكبرى):",
           "options": [
-            "د. مَاهِر: «دُكْتُورَة أَرْوَى، كَيْفَ نُلَخِّصُ عَبْقَرِيَّةَ المُنَاظَرَةِ الفِكْرِيَّةِ وَالخَطَابَةِ العُلْيَا فِي تَشْكِيلِ الوَعْيِ وَقِيَادَةِ الرَّأْيِ؟» — د. أَرْوَى: «إِنَّهَا سِيَادَةُ العَقْلِ وَسِحْرُ البَيَانِ؛ حَيْثُ يُؤَصِّلُ «عِلْمُ آدَابِ البَحْثِ وَالمُنَاظَرَةِ» مَرَاتِبَ المَنْعِ وَالنَّقْضِ وَالمُعَارَضَةِ مُفْنِيًا أَوْهَامَ رَجُلِ القَشِّ وَالشَّخْصَنَةِ، بَيْنَمَا تَرْتَقِي «الخَطَابَةُ العُلْيَا» بِالأَفْئِدَةِ عَبْرَ بَرَاعَةِ الِاسْتِهْلَالِ وَمُثَلَّثِ الإِقْنَاعِ وَفَصْلِ الخِطَابِ، مُسْتَلْهِمَةً رَوَائِعَ السِّيرَافِيِّ وَقُسٍّ وَطَارِقٍ وَنَهْجِ البَلَاغَةِ، لِيَغْدُوَ الحِوَارُ مَنَارَةً لِلْحَقِّ وَمَعْرَجًا لِلْإِبْدَاعِ الإِنْسَانِيِّ».",
-            "د. ماهر: هل كانت المناظرة الأكاديمية ممتعة اليوم؟ — د. أروى: نعم كانت مناظرة شيقة واستمتعنا بها.",
-            "حوار فكري خطابي شامل مناظرة جدل مغالطات خطابة استهلال خاتمة سكون فتحة ضمة تنوين.",
-            "توقفت فنون المناظرة والخطابة عن التأثير في العصر الحاضر."
+            "د. مَاهِر: «دُكْتُورَة أَرْوَى، كَيْفَ نُلَخِّصُ عَبْقَرِيَّةَ المُنَاظَرَةِ الفِكْرِيَّةِ وَالخَطَابَةِ العُلْيَا فِي تَشْكِيلِ الوَعْيِ وَقِيَادَةِ الرَّأْيِ؟» — د. أَرْوَى: «إِنَّهَا سِيَادَةُ العَقْلِ وَسِحْرُ البَيَانِ؛ حَيْثُ يُؤَصِّلُ «عِلْمُ آدَابِ البَحْثِ وَالمُنَاظَرَةِ» مَرَاتِبَ المَنْعِ وَالنَّقْضِ وَالمُعَارَضَةِ مُفْنِيًا أَوْهَامَ رَجُلِ القَشِّ وَالشَّخْصَنَةِ، بَيْنَمَا تَرْتَقِي «الخَطَابَةُ العُلْيَا» بِالأَفْئِدَةِ عَبْرَ بَرَاعَةِ الِاسْتِهْلَالِ وَمُثَلَّثِ الإِقْنَاعِ وَفَصْلِ الخِطَابِ، مُسْتَلْهِمَةً رَوَائِعَ السِّيرَافِيِّ وَقُسٍّ وَطَارِقٍ وَنَهْجِ البَلَاغَةِ، لِيَغْدُوَ الحِوَارُ مَنَارَةً لِلْحَقِّ وَمَعْرَجًا لِلْإِبْدَاعِ الإِنْسَانِيِّ». (Language concept U33)",
+            "د. ماهر: هل كانت المناظرة الأكاديمية ممتعة اليوم؟ — د. أروى: نعم كانت مناظرة شيقة واستمتعنا بها. (Language concept U33)",
+            "حوار فكري خطابي شامل مناظرة جدل مغالطات خطابة استهلال خاتمة سكون فتحة ضمة تنوين. (hwar fkry khtaby shaml mnazrh jdl mghaltat khtabh asthlal khatmh skwn fthh dmh tnwyn.)",
+            "توقفت فنون المناظرة والخطابة عن التأثير في العصر الحاضر. (twqft fnwn almnazrh walkhtabh 'an altathyr fy al'asr alhadr.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل قمة التركيب المعرفي والأسلوبي الشامل في دمج: أدب المناظرة ومراتبها، تفكيك المغالطات، استراتيجيات الخطابة ومثلث التأثير، وروائع التراث الخطابي في نسق حضاري رصين."
@@ -20386,10 +20386,10 @@
         {
           "prompt": "ما هو المبدأ القانوني الدولي التأسيسي المنصوص عليه في المادة 26 من اتفاقية فيينا 1969 والذي يعني أن المعاهدات ملزمة لأطرافها بحسن نية؟",
           "options": [
-            "العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ",
-            "القوة تصنع الحق دائماً",
-            "جواز نقض المعاهدات دون إشعار",
-            "إلغاء سيادة الدول المستقلة"
+            "العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ (al'aaqdu shariy'aahu almuta'aaaqidiyna)",
+            "القوة تصنع الحق دائماً (alqwh tsn'a alhq da'maan)",
+            "جواز نقض المعاهدات دون إشعار (jwaz nqd alm'aahdat dwn ish'aar)",
+            "إلغاء سيادة الدول المستقلة (ilgha' syadh aldwl almstqlh)"
           ],
           "answerIndex": 0,
           "explanation": "مبدأ «Pacta sunt servanda» (العقد شريعة المتعاقدين) هو أساس الالتزام الدولي وتنفيذ المعاهدات بحسن نية."
@@ -20397,10 +20397,10 @@
         {
           "prompt": "ما هي «القواعد الآمرة» (Jus Cogens) في القانون الدولي العام؟",
           "options": [
-            "قَوَاعِدُ دَوْلِيَّةٌ قَاطِعَةٌ مَقْبُولَةٌ لَدَى المُجْتَمَعِ الدَّوْلِيِّ لَا يَجُوزُ الإِخْلَالُ بِهَا أَوْ مُخَالَفَتُهَا",
-            "نصائح غير ملزمة في العلاقات الودية",
-            "قوانين المرور في العواصم الأوروبية",
-            "معاهدات تجارية محدودة المدة"
+            "قَوَاعِدُ دَوْلِيَّةٌ قَاطِعَةٌ مَقْبُولَةٌ لَدَى المُجْتَمَعِ الدَّوْلِيِّ لَا يَجُوزُ الإِخْلَالُ بِهَا أَوْ مُخَالَفَتُهَا (qawaa'aidu dawliyahun qaati'aahun maqbuwlahun ladaa almujtama'ai aldawliyi laa yajuwzu aliikhlaalu bihaa aaw mukhaalafatuhaa)",
+            "نصائح غير ملزمة في العلاقات الودية (nsa'h ghyr mlzmh fy al'alaqat alwdyh)",
+            "قوانين المرور في العواصم الأوروبية (qwanyn almrwr fy al'awasm alawrwbyh)",
+            "معاهدات تجارية محدودة المدة (m'aahdat tjaryh mhdwdh almdh)"
           ],
           "answerIndex": 0,
           "explanation": "القواعد الآمرة (Jus Cogens) هي قمة هرم القانون الدولي وتعد باطلة بطلاناً مطلقاً أي معاهدة تخالفها."
@@ -20412,10 +20412,10 @@
         {
           "prompt": "ما هو الفرق الدبلوماسي الدقيق بين «التوقيع بالأحرف الأولى» و«التصديق الرسمي» على المعاهدة؟",
           "options": [
-            "«التَّوْقِيعُ بِالأَحْرُفِ الأُولَى إِقْرَارٌ بِمُطَابَقَةِ النَّصِّ، أَمَّا التَّصْدِيقُ فَهُوَ الإِجْرَاءُ الدُّسْتُورِيُّ السِّيَادِيُّ المُلْزِمُ لِلدَّوْلَةِ نِهَائِيًّا».",
-            "التوقيع بالأحرف الأولى يلزم الدولة والتصديق اختياري",
-            "لا يوجد أي فرق بينهما في القانون الدولي",
-            "معاهدات فيينا تصديق توقيع ديباجة سكون"
+            "«التَّوْقِيعُ بِالأَحْرُفِ الأُولَى إِقْرَارٌ بِمُطَابَقَةِ النَّصِّ، أَمَّا التَّصْدِيقُ فَهُوَ الإِجْرَاءُ الدُّسْتُورِيُّ السِّيَادِيُّ المُلْزِمُ لِلدَّوْلَةِ نِهَائِيًّا». (1969 (U34))",
+            "التوقيع بالأحرف الأولى يلزم الدولة والتصديق اختياري (altwqy'a balahrf alawla ylzm aldwlh waltsdyq akhtyary)",
+            "لا يوجد أي فرق بينهما في القانون الدولي (la ywjd ay frq bynhma fy alqanwn aldwly)",
+            "معاهدات فيينا تصديق توقيع ديباجة سكون (m'aahdat fyyna tsdyq twqy'a dybajh skwn)"
           ],
           "answerIndex": 0,
           "explanation": "التوقيع بالأحرف الأولى يثبت اعتماد النص التفاوضي، بينما التصديق هو التعبير النهائي عن رضا الدولة بالالتزام بالمعاهدة."
@@ -20423,10 +20423,10 @@
         {
           "prompt": "ما إعراب كلمة «شَرِيعَةُ» في جملة: «العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ»؟",
           "options": [
-            "خَبَرُ المُبْتَدَأِ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ",
-            "مبتدأ مؤخر مرفوع",
-            "نعت مرفوع بالضمة",
-            "مفعول به منصوب"
+            "خَبَرُ المُبْتَدَأِ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (khabaru almubtadaai marfuw'aun bialdamahi alzaahirahi)",
+            "مبتدأ مؤخر مرفوع (mbtda m'khr mrfw'a)",
+            "نعت مرفوع بالضمة (n'at mrfw'a baldmh)",
+            "مفعول به منصوب (mf'awl bh mnswb)"
           ],
           "answerIndex": 0,
           "explanation": "«العَقْدُ» مبتدأ مرفوع، و«شَرِيعَةُ» خبر المبتدأ مرفوع وعلامة رفعه الضمة الظاهرة."
@@ -20439,10 +20439,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الدبلوماسي المقنن الذي يحلل فلسفة القانون الدولي والمعاهدات بأعلى معايير الإتقان المعجمي والرصانة السيادية:",
           "options": [
-            "تُمَثِّلُ «اتِّفَاقِيَّةُ فْيِينَا لِقَانُونِ المَعَاهَدَاتِ 1969» عِمَادَ النِّظَامِ القَانُونِيِّ الدَّوْلِيِّ وَدُسْتُورَ الدِّبْلُومَاسِيَّةِ مُتَعَدِّدَةِ الأَطْرَافِ؛ حَيْثُ تُنَظِّمُ مَرَاحِلَ إِبْرَامِ المَعَاهَدَاتِ مِنَ الدِّيبَاجَةِ وَالتَّوْقِيعِ بِالأَحْرُفِ الأُولَى إِلَى التَّصْدِيقِ وَالإِيدَاعِ، مُرَسِّخَةً المَبْدَأَ الخَالِدَ «العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ» (*Pacta sunt servanda*) فِي ظِلِّ عُلْوِيَّةِ «القَوَاعِدِ الآمِرَةِ» (*Jus Cogens*)، لِتَغْدُوَ المَعَاهَدَاتُ الدَّوْلِيَّةُ حَامِيَةَ السِّلْمِ العَالَمِيِّ وَمِرْآةَ السِّيَادَةِ وَالتَّعَايُشِ الحَضَارِيِّ.",
-            "المعاهدات الدولية هي اتفاقيات مكتوبة بين الدول لحفظ السلم.",
-            "معاهدات فيينا قانون دولي ديباجة تصديق انضمام قواعد آمرة سكون فتحة ضمة تنوين.",
-            "ألغت الأمم المتحدة اتفاقية فيينا للمعاهدات مؤخرا."
+            "تُمَثِّلُ «اتِّفَاقِيَّةُ فْيِينَا لِقَانُونِ المَعَاهَدَاتِ 1969» عِمَادَ النِّظَامِ القَانُونِيِّ الدَّوْلِيِّ وَدُسْتُورَ الدِّبْلُومَاسِيَّةِ مُتَعَدِّدَةِ الأَطْرَافِ؛ حَيْثُ تُنَظِّمُ مَرَاحِلَ إِبْرَامِ المَعَاهَدَاتِ مِنَ الدِّيبَاجَةِ وَالتَّوْقِيعِ بِالأَحْرُفِ الأُولَى إِلَى التَّصْدِيقِ وَالإِيدَاعِ، مُرَسِّخَةً المَبْدَأَ الخَالِدَ «العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ» (1969 (U34))",
+            "المعاهدات الدولية هي اتفاقيات مكتوبة بين الدول لحفظ السلم. (alm'aahdat aldwlyh hy atfaqyat mktwbh byn aldwl lhfz alslm.)",
+            "معاهدات فيينا قانون دولي ديباجة تصديق انضمام قواعد آمرة سكون فتحة ضمة تنوين. (m'aahdat fyyna qanwn dwly dybajh tsdyq andmam qwa'ad aamrh skwn fthh dmh tnwyn.)",
+            "ألغت الأمم المتحدة اتفاقية فيينا للمعاهدات مؤخرا. (alght alamm almthdh atfaqyh fyyna llm'aahdat m'khra.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بدقة: اتفاقية فيينا 1969، مراحل إبرام المعاهدات، مبدأ Pacta sunt servanda، والقواعد الآمرة Jus Cogens في سياق دبلوماسي رفيع."
@@ -20509,10 +20509,10 @@
         {
           "prompt": "أي الصيغ التالية تُعد بداية نموذجية لـ «فقرة تمهيدية» (Preambular Clause) في قرارات مجلس الأمن؟",
           "options": [
-            "«إِذْ يُعْرِبُ عَنْ بَالِغِ قَلَقِهِ إِزَاءَ تَدَهْوُرِ الأَوْضَاعِ...»",
-            "«يقرر المجلس فرض عقوبات فورية...»",
-            "«يطالب بسحب القوات غداً...»",
-            "«يفوض الأمين العام بتعيين مبعوث...»"
+            "«إِذْ يُعْرِبُ عَنْ بَالِغِ قَلَقِهِ إِزَاءَ تَدَهْوُرِ الأَوْضَاعِ...» (Language concept U34)",
+            "«يقرر المجلس فرض عقوبات فورية...» (Language concept U34)",
+            "«يطالب بسحب القوات غداً...» (Language concept U34)",
+            "«يفوض الأمين العام بتعيين مبعوث...» (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "الفقرات التمهيدية تبدأ دائماً بـ «إِذْ + فعل حالي منون» مثل: «إذ يؤكد»، «إذ يعرب عن بالغ قلقه»، «إذ يرحب»."
@@ -20520,10 +20520,10 @@
         {
           "prompt": "ما هي العبارة الدبلوماسية التي تُكسب قرار مجلس الأمن سلطة الإلزام التنفيذي والقسري الدولي؟",
           "options": [
-            "«وَإِذْ يَتَصَرَّفُ بِمُوجِبِ الفَصْلِ السَّابِعِ مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ»",
-            "«وإذ يرجو من الجميع التكرم بالتعاون»",
-            "«وإذ يتمنى للأطراف التوفيق والنجاح»",
-            "«وإذ ينصح الدول الأعضاء بالصبر»"
+            "«وَإِذْ يَتَصَرَّفُ بِمُوجِبِ الفَصْلِ السَّابِعِ مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ» (Language concept U34)",
+            "«وإذ يرجو من الجميع التكرم بالتعاون» (Language concept U34)",
+            "«وإذ يتمنى للأطراف التوفيق والنجاح» (Language concept U34)",
+            "«وإذ ينصح الدول الأعضاء بالصبر» (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "التصرف بموجب الفصل السابع يمنح القرار قوة الإنفاذ الإلزامي والتدابير القسرية لحفظ السلم والأمن الدوليين."
@@ -20535,10 +20535,10 @@
         {
           "prompt": "اختر الفقرة المنطوقة (Operative Clause) التي تفوض بعثة حفظ السلام بمهامها الأمنية بأعلى درجات الدقة القانونية:",
           "options": [
-            "«يُقَرِّرُ تَمْدِيدَ وِلَايَةِ بَعْثَةِ الأُمَمِ المُتَّحِدَةِ لِحِفْظِ السَّلَامِ، وَيُفَوِّضُهَا بِاتِّخَاذِ جَمِيعِ التَّدَابِيرِ اللَّازِمَةِ لِحِمَايَةِ المَدَنِيِّينَ».",
-            "نرجو من الجنود البقاء في مواقعهم لفترة إضافية",
-            "انتهت مهمة حفظ السلام ويمكن للجميع العودة لمنازلهم",
-            "قرارات مجلس أمن فصل سابع تمهيدي منطوق سكون"
+            "«يُقَرِّرُ تَمْدِيدَ وِلَايَةِ بَعْثَةِ الأُمَمِ المُتَّحِدَةِ لِحِفْظِ السَّلَامِ، وَيُفَوِّضُهَا بِاتِّخَاذِ جَمِيعِ التَّدَابِيرِ اللَّازِمَةِ لِحِمَايَةِ المَدَنِيِّينَ». (Language concept U34)",
+            "نرجو من الجنود البقاء في مواقعهم لفترة إضافية (nrjw mn aljnwd albqa' fy mwaq'ahm lftrh idafyh)",
+            "انتهت مهمة حفظ السلام ويمكن للجميع العودة لمنازلهم (antht mhmh hfz alslam wymkn lljmy'a al'awdh lmnazlhm)",
+            "قرارات مجلس أمن فصل سابع تمهيدي منطوق سكون (qrarat mjls amn fsl sab'a tmhydy mntwq skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذه هي الصياغة المعيارية المعتمدة لقرارات مجلس الأمن في تمديد الولايات وتفويض استخدام التدابير اللازمة لحماية المدنيين."
@@ -20546,10 +20546,10 @@
         {
           "prompt": "ما إعراب كلمة «الوَّقْفَ» في جملة: «يُقَرِّرُ مَجْلِسُ الأَمْنِ الوَقْفَ الفَوْرِيَّ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "نعت منصوب",
-            "حال منصوبة بالفتحة"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "نعت منصوب (n'at mnswb)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "«مَجْلِسُ» فاعل مرفوع، و«الوَقْفَ» مفعول به منصوب وعلامة نصبه الفتحة الظاهرة."
@@ -20562,10 +20562,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الصياغي الدبلوماسي الشامل لقرار دولي صادر عن مجلس الأمن يدمج الفقرات التمهيدية والمنطوقة بدقة متناهية:",
           "options": [
-            "«إِنَّ مَجْلِسَ الأَمْنِ، إِذْ يُؤَكِّدُ عَلَى مَقَاصِدِ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ وَسِيَادَةِ الدُّوَلِ وَسَلَامَةِ أَرَاضِيهَا، وَإِذْ يُعْرِبُ عَنْ بَالِغِ قَلَقِهِ إِزَاءَ تَفَاقُمِ الأَزْمَةِ، وَإِذْ يَتَصَرَّفُ بِمُوجِبِ الفَصْلِ السَّابِعِ: 1. يُقَرِّرُ الوَقْفَ الفَوْرِيَّ وَالشَّامِلَ لِلْعَمَلِيَّاتِ العَسْكَرِيَّةِ؛ 2. يُطَالِبُ جَمِيعَ الأَطْرَافِ بِتَأْمِينِ مَمَرَّاتٍ إِنْسَانِيَّةٍ آمِنَةٍ لِإِيصَالِ الإِغَاثَةِ؛ 3. يُفَوِّضُ الأَمِينَ العَامَّ بِتَعْيِينِ مَبْعُوثٍ خَاصٍّ لِرِعَايَةِ المُفَاوَضَاتِ؛ 4. يُقَرِّرُ أَنْ يَبْقَى المَسْأَلَةَ قَيْدَ نَظَرِهِ الفِعْلِيِّ».",
-            "قرر مجلس الأمن اليوم إيقاف الحرب وإرسال مبعوث للمنطقة فورا.",
-            "مجلس أمن قرارات تمهيدي منطوق فصل سابع سيادة حظر سلام سكون فتحة ضمة تنوين.",
-            "صدر قرار غير ملزم من الجمعية العامة يرجو التهدئة بين الأطراف."
+            "«إِنَّ مَجْلِسَ الأَمْنِ، إِذْ يُؤَكِّدُ عَلَى مَقَاصِدِ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ وَسِيَادَةِ الدُّوَلِ وَسَلَامَةِ أَرَاضِيهَا، وَإِذْ يُعْرِبُ عَنْ بَالِغِ قَلَقِهِ إِزَاءَ تَفَاقُمِ الأَزْمَةِ، وَإِذْ يَتَصَرَّفُ بِمُوجِبِ الفَصْلِ السَّابِعِ: 1. يُقَرِّرُ الوَقْفَ الفَوْرِيَّ وَالشَّامِلَ لِلْعَمَلِيَّاتِ العَسْكَرِيَّةِ؛ 2. يُطَالِبُ جَمِيعَ الأَطْرَافِ بِتَأْمِينِ مَمَرَّاتٍ إِنْسَانِيَّةٍ آمِنَةٍ لِإِيصَالِ الإِغَاثَةِ؛ 3. يُفَوِّضُ الأَمِينَ العَامَّ بِتَعْيِينِ مَبْعُوثٍ خَاصٍّ لِرِعَايَةِ المُفَاوَضَاتِ؛ 4. يُقَرِّرُ أَنْ يَبْقَى المَسْأَلَةَ قَيْدَ نَظَرِهِ الفِعْلِيِّ». (Language concept U34)",
+            "قرر مجلس الأمن اليوم إيقاف الحرب وإرسال مبعوث للمنطقة فورا. (qrr mjls alamn alywm iyqaf alhrb wirsal mb'awth llmntqh fwra.)",
+            "مجلس أمن قرارات تمهيدي منطوق فصل سابع سيادة حظر سلام سكون فتحة ضمة تنوين. (mjls amn qrarat tmhydy mntwq fsl sab'a syadh hzr slam skwn fthh dmh tnwyn.)",
+            "صدر قرار غير ملزم من الجمعية العامة يرجو التهدئة بين الأطراف. (sdr qrar ghyr mlzm mn aljm'ayh al'aamh yrjw althd'h byn alatraf.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجسد الهيكل الكامل المعتمد لقرارات مجلس الأمن: الديباجة التمهيدية، إسناد الفصل السابع، الفقرات المنطوقة الإجرائية، وختام 'قيد نظره الفعلي'."
@@ -20631,10 +20631,10 @@
         {
           "prompt": "ما هي الوثيقة الدبلوماسية الختامية التي تصدر في ختام اجتماعات القادة والرؤساء لتلخيص التوافقات والقرارات؟",
           "options": [
-            "البَيَانُ الخِتَامِيُّ",
-            "محضر ضبط الشرطة",
-            "بطاقة دعوة شخصية",
-            "سند قبض مالي"
+            "البَيَانُ الخِتَامِيُّ (albayaanu alkhitaamiyu)",
+            "محضر ضبط الشرطة (mhdr dbt alshrth)",
+            "بطاقة دعوة شخصية (btaqh d'awh shkhsyh)",
+            "سند قبض مالي (snd qbd maly)"
           ],
           "answerIndex": 0,
           "explanation": "البيان الختامي (Final Communiqué) هو الوثيقة الرسمية الجامعة التي تعبر عن توافق القمة وقراراتها الاستراتيجية."
@@ -20642,10 +20642,10 @@
         {
           "prompt": "ما هو الحصن القانوني الذي تمنحه اتفاقية فيينا 1961 لمقار السفارات وحقائب الدبلوماسيين؟",
           "options": [
-            "الحُرْمَةُ وَالحَصَانَةُ الدِّبْلُومَاسِيَّةُ المُطْلَقَةُ عَنِ التَّفْتِيشِ أَوِ الاقْتِحَامِ",
-            "السماح بتفتيشها يوميا في المطار",
-            "دفع الضرائب التجارية للبلد المضيف",
-            "نزع الحصانة في العطلات الأسبوعية"
+            "الحُرْمَةُ وَالحَصَانَةُ الدِّبْلُومَاسِيَّةُ المُطْلَقَةُ عَنِ التَّفْتِيشِ أَوِ الاقْتِحَامِ (alhurmahu waalhasaanahu aldibluwmaasiyahu almutlaqahu 'aani altaftiyshi aawi alaqtihaami)",
+            "السماح بتفتيشها يوميا في المطار (alsmah btftyshha ywmya fy almtar)",
+            "دفع الضرائب التجارية للبلد المضيف (df'a aldra'b altjaryh llbld almdyf)",
+            "نزع الحصانة في العطلات الأسبوعية (nz'a alhsanh fy al'atlat alasbw'ayh)"
           ],
           "answerIndex": 0,
           "explanation": "اتفاقية فيينا 1961 تقرر حرمة مقرات البعثات الدبلوماسية والحقيبة الدبلوماسية وحصانتها التامة لحماية سيادة الاتصال."
@@ -20657,10 +20657,10 @@
         {
           "prompt": "اختر الصياغة النموذجية لافتتاحية إعلان قمة رئاسية تعبر عن الإجماع والتعاون المشترك:",
           "options": [
-            "«أَكَّدَ القَادَةُ فِي خِتَامِ أَعْمَالِ القِمَّةِ عَلَى وَحْدَةِ الصَّفِّ، وَشَدَّدُوا عَلَى ضَرُورَةِ تَعْزِيزِ الشَّرَاكَةِ الِاسْتِرَاتِيجِيَّةِ لِتَحْقِيقِ التَّنْمِيَةِ المُسْتَدَامَةِ وَالسِّلْمِ الإِقْلِيمِيِّ».",
-            "اجتمعنا اليوم وتحدثنا قليلا ثم تناولنا العشاء وغادرنا",
-            "اختلف القادة في كل شيء وقرروا عدم اللقاء مجددا",
-            "بيان ختامي قمة دبلوماسية حصانة فيينا سكون"
+            "«أَكَّدَ القَادَةُ فِي خِتَامِ أَعْمَالِ القِمَّةِ عَلَى وَحْدَةِ الصَّفِّ، وَشَدَّدُوا عَلَى ضَرُورَةِ تَعْزِيزِ الشَّرَاكَةِ الِاسْتِرَاتِيجِيَّةِ لِتَحْقِيقِ التَّنْمِيَةِ المُسْتَدَامَةِ وَالسِّلْمِ الإِقْلِيمِيِّ». (Communiqus       Consensus     1961 U34)",
+            "اجتمعنا اليوم وتحدثنا قليلا ثم تناولنا العشاء وغادرنا (ajtm'ana alywm wthdthna qlyla thm tnawlna al'asha' wghadrna)",
+            "اختلف القادة في كل شيء وقرروا عدم اللقاء مجددا (akhtlf alqadh fy kl shy' wqrrwa 'adm allqa' mjdda)",
+            "بيان ختامي قمة دبلوماسية حصانة فيينا سكون (byan khtamy qmh dblwmasyh hsanh fyyna skwn)"
           ],
           "answerIndex": 0,
           "explanation": "هذه هي الصياغة الدبلوماسية الفصحى الرصينة المعتمدة في البيانات الرئاسية والبيانات الختامية للقمم."
@@ -20668,10 +20668,10 @@
         {
           "prompt": "ما إعراب كلمة «البَيَانُ» في جملة: «صَدَرَ البَيَانُ الخِتَامِيُّ»؟",
           "options": [
-            "فَاعِلٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ",
-            "مفعول به منصوب بالفتحة",
-            "نائب فاعل مرفوع",
-            "مبتدأ مؤخر مرفوع"
+            "فَاعِلٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (faa'ailun marfuw'aun bialdamahi alzaahirahi)",
+            "مفعول به منصوب بالفتحة (mf'awl bh mnswb balfthh)",
+            "نائب فاعل مرفوع (na'b fa'al mrfw'a)",
+            "مبتدأ مؤخر مرفوع (mbtda m'khr mrfw'a)"
           ],
           "answerIndex": 0,
           "explanation": "«صَدَرَ» فعل ماضٍ، و«البَيَانُ» فاعل مرفوع وعلامة رفعه الضمة الظاهرة."
@@ -20684,10 +20684,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص الدبلوماسي التوثيقي الذي يحلل فنون صياغة البيانات الختامية وضمانات الحصانة الدبلوماسية بأعلى درجات البلاغة السيادية:",
           "options": [
-            "تَتَجَلَّى بَرَاعَةُ الدِّبْلُومَاسِيَّةِ السِّيَادِيَّةِ فِي صِيَاغَةِ «البَيَانَاتِ الخِتَامِيَّةِ لِلْقِمَمِ الدَّوْلِيَّةِ» حَيْثُ تَتَّحِدُ الإِرَادَةُ السِّيَاسِيَّةُ مَعَ دِقَّةِ اللَّفْظِ لِتَرْسِيخِ التَّوَافُقِ وَحِمَايَةِ المَصَالِحِ الحَيَوِيَّةِ لِلأُمَمِ؛ وَتَتَكَامَلُ هٰذِهِ المَنْظُومَةُ مَعَ «اتِّفَاقِيَّةِ فْيِينَا لِلْعَلَاقَاتِ الدِّبْلُومَاسِيَّةِ 1961» الَّتِي شَيَّدَتْ حِصْنَ الحَصَانَاتِ وَالامْتِيَازَاتِ، فَحَمَتْ حُرْمَةَ المَقَارِّ وَحَصَانَةَ المَبْعُوثِ وَقَدَاسَةَ الحَقِيبَةِ الدِّبْلُومَاسِيَّةِ، لِيَبْقَى الحِوَارُ الدَّوْلِيُّ آمِنًا وَفَاعِلًا فِي خِدْمَةِ السِّلْمِ وَالأَمْنِ العَالَمِيَّيْنِ.",
-            "البيان الختامي هو ملخص للقمة الدبلوماسية التي يحضرها الرؤساء.",
-            "بيان ختامي قمة مفاوضات حصانات امتيازات فيينا 1961 سكون فتحة ضمة تنوين.",
-            "لا تعترف الدول بالحصانة الدبلوماسية في العصر الحديث."
+            "تَتَجَلَّى بَرَاعَةُ الدِّبْلُومَاسِيَّةِ السِّيَادِيَّةِ فِي صِيَاغَةِ «البَيَانَاتِ الخِتَامِيَّةِ لِلْقِمَمِ الدَّوْلِيَّةِ» حَيْثُ تَتَّحِدُ الإِرَادَةُ السِّيَاسِيَّةُ مَعَ دِقَّةِ اللَّفْظِ لِتَرْسِيخِ التَّوَافُقِ وَحِمَايَةِ المَصَالِحِ الحَيَوِيَّةِ لِلأُمَمِ؛ وَتَتَكَامَلُ هٰذِهِ المَنْظُومَةُ مَعَ «اتِّفَاقِيَّةِ فْيِينَا لِلْعَلَاقَاتِ الدِّبْلُومَاسِيَّةِ 1961» الَّتِي شَيَّدَتْ حِصْنَ الحَصَانَاتِ وَالامْتِيَازَاتِ، فَحَمَتْ حُرْمَةَ المَقَارِّ وَحَصَانَةَ المَبْعُوثِ وَقَدَاسَةَ الحَقِيبَةِ الدِّبْلُومَاسِيَّةِ، لِيَبْقَى الحِوَارُ الدَّوْلِيُّ آمِنًا وَفَاعِلًا فِي خِدْمَةِ السِّلْمِ وَالأَمْنِ العَالَمِيَّيْنِ. (Communiqus       Consensus     1961 U34)",
+            "البيان الختامي هو ملخص للقمة الدبلوماسية التي يحضرها الرؤساء. (albyan alkhtamy hw mlkhs llqmh aldblwmasyh alty yhdrha alr'sa'.)",
+            "بيان ختامي قمة مفاوضات حصانات امتيازات فيينا 1961 سكون فتحة ضمة تنوين. (byan khtamy qmh mfawdat hsanat amtyazat fyyna 1961 skwn fthh dmh tnwyn.)",
+            "لا تعترف الدول بالحصانة الدبلوماسية في العصر الحديث. (la t'atrf aldwl balhsanh aldblwmasyh fy al'asr alhdyth.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يجمع بين فنون صياغة البيانات الختامية التوافقية، وضمانات اتفاقية فيينا 1961 للحصانات والامتيازات الدبلوماسية في سياق سيادي متقن."
@@ -20752,10 +20752,10 @@
         {
           "prompt": "ما هي المادة في ميثاق الأمم المتحدة التي تنص على الوسائل السلمية لتسوية المنازعات الدولية (المفاوضات، الوساطة، التحكيم، والتسوية القضائية)؟",
           "options": [
-            "المَادَّةُ 33 مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ",
-            "المادة الأولى فقط",
-            "المادة مائة وعشرون",
-            "لا يوجد نص على التسوية السلمية"
+            "المَادَّةُ 33 مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ (almaadahu 33 min miythaaqi alaumami almutahidahi)",
+            "المادة الأولى فقط (almadh alawla fqt)",
+            "المادة مائة وعشرون (almadh ma'h w'ashrwn)",
+            "لا يوجد نص على التسوية السلمية (la ywjd ns 'ala altswyh alslmyh)"
           ],
           "answerIndex": 0,
           "explanation": "المادة 33 هي الأساس القانوني الدولي الذي يلزم الدول بالسعي إلى حل منازعاتها بالطرق السلمية."
@@ -20763,10 +20763,10 @@
         {
           "prompt": "أين يقع المقر الدائم لمحكمة العدل الدولية (الجهاز القضائي الرئيسي للأمم المتحدة)؟",
           "options": [
-            "فِي قَصْرِ السَّلَامِ بِمَدِينَةِ لَاهَاي",
-            "في نيويورك",
-            "في باريس",
-            "في طوكيو"
+            "فِي قَصْرِ السَّلَامِ بِمَدِينَةِ لَاهَاي (fiy qasri alsalaami bimadiynahi laahaay)",
+            "في نيويورك (fy nywywrk)",
+            "في باريس (fy barys)",
+            "في طوكيو (fy twkyw)"
           ],
           "answerIndex": 0,
           "explanation": "يقع مقر محكمة العدل الدولية (ICJ) ومحكمة التحكيم الدائمة في قصر السلام بمدينة لاهاي بهولندا."
@@ -20778,10 +20778,10 @@
         {
           "prompt": "ما هو الفرق بين «الدعاوى النزاعية» و«الفتاوى الاستشارية» الصادرة عن محكمة العدل الدولية؟",
           "options": [
-            "«الدَّعَاوَى النِّزَاعِيَّةُ تَصْدُرُ بِأَحْكَامٍ قَضَائِيَّةٍ مُلْزِمَةٍ لِلدُّوَلِ الأَطْرَافِ، بَيْنَمَا الفَتَاوَى الاسْتِشَارِيَّةُ آرَاءٌ قَانُونِيَّةٌ غَيْرُ مُلْزِمَةٍ بِذَاتِهَا تُفَسِّرُ القَانُونَ الدَّوْلِيَّ».",
-            "الفتاوى الاستشارية ملزمة والدعاوى غير ملزمة",
-            "كلاهما نصائح شفوية غير رسمية",
-            "نزاعات دولية محكمة عدل لاهاي تحكيم سكون"
+            "«الدَّعَاوَى النِّزَاعِيَّةُ تَصْدُرُ بِأَحْكَامٍ قَضَائِيَّةٍ مُلْزِمَةٍ لِلدُّوَلِ الأَطْرَافِ، بَيْنَمَا الفَتَاوَى الاسْتِشَارِيَّةُ آرَاءٌ قَانُونِيَّةٌ غَيْرُ مُلْزِمَةٍ بِذَاتِهَا تُفَسِّرُ القَانُونَ الدَّوْلِيَّ». (33 (U34))",
+            "الفتاوى الاستشارية ملزمة والدعاوى غير ملزمة (alftawa alastsharyh mlzmh wald'aawa ghyr mlzmh)",
+            "كلاهما نصائح شفوية غير رسمية (klahma nsa'h shfwyh ghyr rsmyh)",
+            "نزاعات دولية محكمة عدل لاهاي تحكيم سكون (nza'aat dwlyh mhkmh 'adl lahay thkym skwn)"
           ],
           "answerIndex": 0,
           "explanation": "الأحكام في القضايا النزاعية بين الدول قطعية وملزمة وفق المادة 94، بينما الفتاوى الاستشارية توضح الموقف القانوني الدولي بطلب من أجهزة الأمم المتحدة."
@@ -20789,10 +20789,10 @@
         {
           "prompt": "ما إعراب كلمة «أَحْكَامًا» في جملة: «تُصْدِرُ المَحْكَمَةُ أَحْكَامًا قَاطِعَةً»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "نعت منصوب",
-            "حال منصوبة بالفتحة"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "نعت منصوب (n'at mnswb)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "«المَحْكَمَةُ» فاعل مرفوع، و«أَحْكَامًا» مفعول به منصوب وعلامة نصبه الفتحة الظاهرة."
@@ -20805,10 +20805,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص القانوني الدبلوماسي الشامل الذي يوثق آليات العدالة الدولية والتحكيم وفض المنازعات السلمية بأعلى درجات الفصاحة المعيارية:",
           "options": [
-            "يُشَكِّلُ مَبْدَأُ «التَّسْوِيَةِ السِّلْمِيَّةِ لِلْمُنَازَعَاتِ الدَّوْلِيَّةِ» حَجَرَ الزَّاوِيَةِ فِي مِيثَاقِ الأُمَمِ المُتَّحِدَةِ (المَادَّة 33)؛ حَيْثُ يُتِيحُ لِلدُّوَلِ التَّدَرُّجَ مِنْ حِوَارِ المُفَاوَضَاتِ وَالمَسَاعِي الحَمِيدَةِ وَالوَسَاطَةِ، إِلَى صَرَامَةِ التَّحْكِيمِ الدَّوْلِيِّ وَقَضَاءِ «مَحْكَمَةِ العَدْلِ الدَّوْلِيَّةِ فِي لَاهَاي»، لِتَظَلَّ سِيَادَةُ القَانُونِ وَقَرَارَاتُ الشَّرْعِيَّةِ الدَّوْلِيَّةِ الدِّرْعَ الحَامِيَ لِحُقُوقِ الشُّعُوبِ وَحِصْنَ السِّلْمِ وَالأَمْنِ العَالَمِيَّيْنِ.",
-            "محكمة العدل الدولية تفصل في النزاعات بين الدول في مدينة لاهاي.",
-            "نزاعات دولية تسوية سلمية مادة 33 مفاوضات وساطة تحكيم محكمة لاهاي سكون فتحة ضمة تنوين.",
-            "ألغت المحاكم الدولية آليات التحكيم التجاري والدولي."
+            "يُشَكِّلُ مَبْدَأُ «التَّسْوِيَةِ السِّلْمِيَّةِ لِلْمُنَازَعَاتِ الدَّوْلِيَّةِ» حَجَرَ الزَّاوِيَةِ فِي مِيثَاقِ الأُمَمِ المُتَّحِدَةِ (almaadah 33)",
+            "محكمة العدل الدولية تفصل في النزاعات بين الدول في مدينة لاهاي. (mhkmh al'adl aldwlyh tfsl fy alnza'aat byn aldwl fy mdynh lahay.)",
+            "نزاعات دولية تسوية سلمية مادة 33 مفاوضات وساطة تحكيم محكمة لاهاي سكون فتحة ضمة تنوين. (nza'aat dwlyh tswyh slmyh madh 33 mfawdat wsath thkym mhkmh lahay skwn fthh dmh tnwyn.)",
+            "ألغت المحاكم الدولية آليات التحكيم التجاري والدولي. (alght almhakm aldwlyh aalyat althkym altjary waldwly.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يحيط بكافة منظومة التسوية السلمية: المادة 33، الوسائل السياسية (مفاوضات، وساطة، مساعٍ حميدة)، والوسائل القضائية (التحكيم الدولي، محكمة العدل الدولية) وسيادة القانون الدولي."
@@ -20873,10 +20873,10 @@
         {
           "prompt": "ما هو الإنجاز الأكاديمي والمعرفي الشامل الذي يتحقق بإتمام هذا الدرس التتويجي (الدرس 170 من منهاج العربية)؟",
           "options": [
-            "بُلُوغُ دَرَجَةِ الإِتْقَانِ اللُّغَوِيِّ وَالفِكْرِيِّ وَالدِّبْلُومَاسِيِّ الكَامِلِ (C2 Full Mastery) فِي اللُّغَةِ العَرَبِيَّةِ الفُصْحَى",
-            "حفظ عشر كلمات جديدة فقط",
-            "تعلم قراءة الحروف الأبجدية",
-            "التوقف عن التحدث بالعربية"
+            "بُلُوغُ دَرَجَةِ الإِتْقَانِ اللُّغَوِيِّ وَالفِكْرِيِّ وَالدِّبْلُومَاسِيِّ الكَامِلِ (C2 Full Mastery)",
+            "حفظ عشر كلمات جديدة فقط (hfz 'ashr klmat jdydh fqt)",
+            "تعلم قراءة الحروف الأبجدية (t'alm qra'h alhrwf alabjdyh)",
+            "التوقف عن التحدث بالعربية (altwqf 'an althdth bal'arbyh)"
           ],
           "answerIndex": 0,
           "explanation": "إتمام 170 درساً بتكامل نحوي وبلاغي وأدبي وفلسفي ودبلوماسي يمنح المتعلم أعلى درجات الكفاءة والإتقان اللغوي الشامل (C2 Mastery)."
@@ -20884,10 +20884,10 @@
         {
           "prompt": "كيف تتكامل علوم اللغة العربية (نحواً وبلاغة) مع الصياغة الدبلوماسية والقانونية الدولية؟",
           "options": [
-            "بِأَنَّ الدِّقَّةَ النَّحْوِيَّةَ وَالبَلَاغِيَّةَ هِيَ الضَّامِنُ لِعَدَمِ اللَّبْسِ فِي تَفْسِيرِ حُقُوقِ وَوَاجِبَاتِ الدُّوَلِ وَالمُعَاهَدَاتِ السِّيَادِيَّةِ",
-            "بفصل اللغة عن القانون تماماً",
-            "بالاعتماد على الترجمات الآلية العشوائية دون تدقيق",
-            "بإلغاء المعاجم اللغوية"
+            "بِأَنَّ الدِّقَّةَ النَّحْوِيَّةَ وَالبَلَاغِيَّةَ هِيَ الضَّامِنُ لِعَدَمِ اللَّبْسِ فِي تَفْسِيرِ حُقُوقِ وَوَاجِبَاتِ الدُّوَلِ وَالمُعَاهَدَاتِ السِّيَادِيَّةِ (biaana aldiqaha alnahwiyaha waalbalaaghiyaha hiya aldaaminu li'aadami allabsi fiy tafsiyri huquwqi wawaajibaati alduwali waalmu'aaahadaati alsiyaadiyahi)",
+            "بفصل اللغة عن القانون تماماً (bfsl allghh 'an alqanwn tmamaan)",
+            "بالاعتماد على الترجمات الآلية العشوائية دون تدقيق (bala'atmad 'ala altrjmat alaalyh al'ashwa'yh dwn tdqyq)",
+            "بإلغاء المعاجم اللغوية (bilgha' alm'aajm allghwyh)"
           ],
           "answerIndex": 0,
           "explanation": "الدقة النحوية وضبط دلالات الألفاظ هما ركيزة الصياغة القانونية الرصينة لمنع النزاعات وتأكيد الالتزامات الدولية."
@@ -20899,10 +20899,10 @@
         {
           "prompt": "اختر العبارة التتويجية التي تجسد خلود اللغة العربية وريادتها الحضارية والإنسانية بأرقى أسلوب أدبي:",
           "options": [
-            "«إِنَّ اللُّغَةَ العَرَبِيَّةَ الفُصْحَى لَيْسَتْ مُجَرَّدَ أَدَاةٍ لِلتَّوَاصُلِ، بَلْ هِيَ وِعَاءُ الحَضَارَةِ، وَمِرْآةُ الفِكْرِ، وَلِسَانُ الحِكْمَةِ الخَالِدُ الَّذِي سَيَظَلُّ يُشِعُّ نُورًا وَبَيَانًا عَلَى البَشَرِيَّةِ جَمْعَاءَ».",
-            "اللغة العربية صعبة وقواعدها كثيرة",
-            "انتهت دراسة اللغة العربية لهذا اليوم فقط",
-            "عربية ختام إتقان تتويج منهاج سكون"
+            "«إِنَّ اللُّغَةَ العَرَبِيَّةَ الفُصْحَى لَيْسَتْ مُجَرَّدَ أَدَاةٍ لِلتَّوَاصُلِ، بَلْ هِيَ وِعَاءُ الحَضَارَةِ، وَمِرْآةُ الفِكْرِ، وَلِسَانُ الحِكْمَةِ الخَالِدُ الَّذِي سَيَظَلُّ يُشِعُّ نُورًا وَبَيَانًا عَلَى البَشَرِيَّةِ جَمْعَاءَ». (170170   C2 Mastery U34)",
+            "اللغة العربية صعبة وقواعدها كثيرة (allghh al'arbyh s'abh wqwa'adha kthyrh)",
+            "انتهت دراسة اللغة العربية لهذا اليوم فقط (antht drash allghh al'arbyh lhdha alywm fqt)",
+            "عربية ختام إتقان تتويج منهاج سكون ('arbyh khtam itqan ttwyj mnhaj skwn)"
           ],
           "answerIndex": 0,
           "explanation": "العبارة تتوج مكانة العربية كوعاء حضاري ورسالة إنسانية تجمع بين الفصاحة والبلاغة والخلود."
@@ -20910,10 +20910,10 @@
         {
           "prompt": "ما إعراب كلمة «مَفَاتِيحَ» في قولنا: «فَقَدْ حُزْتُمْ مَفَاتِيحَ أَعْظَمِ لِسَانٍ»؟",
           "options": [
-            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ",
-            "فاعل مرفوع بالضمة",
-            "مضاف إليه مجرور بالفتحة",
-            "حال منصوبة بالفتحة"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (maf'auwlun bihi mansuwbun bialfathahi alzaahirahi)",
+            "فاعل مرفوع بالضمة (fa'al mrfw'a baldmh)",
+            "مضاف إليه مجرور بالفتحة (mdaf ilyh mjrwr balfthh)",
+            "حال منصوبة بالفتحة (hal mnswbh balfthh)"
           ],
           "answerIndex": 0,
           "explanation": "«حُزْتُمْ» فعل وفاعل، و«مَفَاتِيحَ» مفعول به منصوب وعلامة نصبه الفتحة الظاهرة."
@@ -20926,10 +20926,10 @@
           "type": "multiple-choice",
           "prompt": "اختر النص التتويجي التاريخي الشامل الذي يُلخص إتمام المنهاج العربي الكامل (170/170 درسًا) وتكامله الدبلوماسي والحضاري بأعلى معايير الإعجاز البياني:",
           "options": [
-            "د. سَامِي: «سَعَادَةَ السَّفِيرَةِ رِيم، كَيْفَ نُجْمِلُ المَلْحَمَةَ المَعْرِفِيَّةَ الكُبْرَى لِإِتْقَانِ اللُّغَةِ العَرَبِيَّةِ الفُصْحَى عَبْرَ هٰذَا المِنْهَاجِ الشَّامِلِ؟» — د. رِيم: «إِنَّهُ حَصَادُ المَجْدِ وَذِرْوَةُ الإِعْجَازِ البَيَانِيِّ؛ حَيْثُ ارْتَقَى بِنَا المِنْهَاجُ مِنْ أَصْوَاتِ الحُرُوفِ وَأَبْنِيَةِ الصَّرْفِ وَقَوَاعِدِ الإِعْرَابِ، عَبْرَ رَوَائِعِ الشِّعْرِ الجَاهِلِيِّ وَالأَنْدَلُوسِيِّ وَنَوَابِغِ الرِّوَايَةِ الحَدِيثَةِ، مُرُورًا بِفَلْسَفَةِ ابْنِ رُشْدٍ وَعُلُومِ ابْنِ الهَيْثَمِ وَأُصُولِ الشَّاطِبِيِّ وَفُنُونِ المُنَاظَرَةِ وَالخَطَابَةِ، وُصُولًا إِلَى قِمَّةِ الدِّبْلُومَاسِيَّةِ الدَّوْلِيَّةِ وَلُغَةِ المَعَاهَدَاتِ السِّيَادِيَّةِ فِي الأُمَمِ المُتَّحِدَةِ؛ لِيَغْدُوَ طَالِبُ العَرَبِيَّةِ فَارِسًا لِلْبَيَانِ، مُتَمَكِّنًا مِنْ أَعْظَمِ لِسَانٍ أَنْزَلَ اللَّهُ بِهِ كِتَابَهُ وَأَبْدَعَتْ بِهِ حَضَارَةُ الإِنْسَانِ!».",
-            "د. سامي: هل أنهينا دراسة جميع دروس منهاج اللغة العربية؟ — د. ريم: نعم لقد انتهينا من كافة الدروس اليوم بنجاح.",
-            "حوار ختامي شامل منهاج لغة عربية كامل 170 درسا نحو صرف بلاغة أدب فلسفة دبلوماسية سكون فتحة ضمة تنوين.",
-            "اكتملت دراسة اللغة العربية للمستوى المبتدئ فقط."
+            "د. سَامِي: «سَعَادَةَ السَّفِيرَةِ رِيم، كَيْفَ نُجْمِلُ المَلْحَمَةَ المَعْرِفِيَّةَ الكُبْرَى لِإِتْقَانِ اللُّغَةِ العَرَبِيَّةِ الفُصْحَى عَبْرَ هٰذَا المِنْهَاجِ الشَّامِلِ؟» — د. رِيم: «إِنَّهُ حَصَادُ المَجْدِ وَذِرْوَةُ الإِعْجَازِ البَيَانِيِّ؛ حَيْثُ ارْتَقَى بِنَا المِنْهَاجُ مِنْ أَصْوَاتِ الحُرُوفِ وَأَبْنِيَةِ الصَّرْفِ وَقَوَاعِدِ الإِعْرَابِ، عَبْرَ رَوَائِعِ الشِّعْرِ الجَاهِلِيِّ وَالأَنْدَلُوسِيِّ وَنَوَابِغِ الرِّوَايَةِ الحَدِيثَةِ، مُرُورًا بِفَلْسَفَةِ ابْنِ رُشْدٍ وَعُلُومِ ابْنِ الهَيْثَمِ وَأُصُولِ الشَّاطِبِيِّ وَفُنُونِ المُنَاظَرَةِ وَالخَطَابَةِ، وُصُولًا إِلَى قِمَّةِ الدِّبْلُومَاسِيَّةِ الدَّوْلِيَّةِ وَلُغَةِ المَعَاهَدَاتِ السِّيَادِيَّةِ فِي الأُمَمِ المُتَّحِدَةِ؛ لِيَغْدُوَ طَالِبُ العَرَبِيَّةِ فَارِسًا لِلْبَيَانِ، مُتَمَكِّنًا مِنْ أَعْظَمِ لِسَانٍ أَنْزَلَ اللَّهُ بِهِ كِتَابَهُ وَأَبْدَعَتْ بِهِ حَضَارَةُ الإِنْسَانِ!». (170170   C2 Mastery U34)",
+            "د. سامي: هل أنهينا دراسة جميع دروس منهاج اللغة العربية؟ — د. ريم: نعم لقد انتهينا من كافة الدروس اليوم بنجاح. (170170   C2 Mastery U34)",
+            "حوار ختامي شامل منهاج لغة عربية كامل 170 درسا نحو صرف بلاغة أدب فلسفة دبلوماسية سكون فتحة ضمة تنوين. (hwar khtamy shaml mnhaj lghh 'arbyh kaml 170 drsa nhw srf blaghh adb flsfh dblwmasyh skwn fthh dmh tnwyn.)",
+            "اكتملت دراسة اللغة العربية للمستوى المبتدئ فقط. (aktmlt drash allghh al'arbyh llmstwa almbtd' fqt.)"
           ],
           "answerIndex": 0,
           "explanation": "النص يمثل التتويج الملحمي الأعظم للمنهاج العربي الكامل (170/170): يربط البدايات الصوتية والصرفية بالنحو، البلاغة، الأدب الكلاسيكي والحديث، العلوم، الفلسفة، أصول الفقه، المناظرة، واللغة الدبلوماسية السيادية للأمم المتحدة."

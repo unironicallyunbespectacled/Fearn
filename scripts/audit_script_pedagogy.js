@@ -1,81 +1,89 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT_DIR = path.resolve(__dirname, '..');
+const ROOT_DIR = 'C:\\Users\\HP USER\\Downloads\\yo';
 const currDir = path.join(ROOT_DIR, 'data/curricula');
 
 console.log('================================================================================================================================');
-console.log('             FEARN AUTHENTIC SCRIPT-PEDAGOGY & FULL-COURSE QUALITY AUDIT                                                        ');
+console.log('             FEARN COURSE-WIDE (ALL UNITS 1-35) AUTHENTIC SCRIPT-PEDAGOGY QUALITY AUDIT                                         ');
 console.log('================================================================================================================================');
-console.log('Language             | Total Lessons | U1 Script Chars | U1 Unglossed Chars | Corrupted Options | Status');
+console.log('Language             | Total Lessons | Total Script Opts | Course-Wide Unglossed | Corrupted Options | Status');
 console.log('--------------------------------------------------------------------------------------------------------------------------------');
 
 const NON_LATIN_CONFIG = {
   korean: {
     unit: 'ko-u1',
-    scriptRange: /[\uAC00-\uD7AF\u1100-\u11FF]/g,
+    scriptRange: /[\uAC00-\uD7AF\u1100-\u11FF]/,
     decompose: (str) => (str.match(/[\uAC00-\uD7AF\u1100-\u11FF]/g) || [])
   },
   japanese: {
     unit: 'ja-u1',
-    scriptRange: /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/g,
+    scriptRange: /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/,
     decompose: (str) => (str.match(/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]/g) || [])
   },
   russian: {
     unit: 'ru-u1',
-    scriptRange: /[\u0400-\u04FF]/g,
+    scriptRange: /[\u0400-\u04FF]/,
     decompose: (str) => (str.match(/[\u0400-\u04FF]/g) || [])
   },
   ukrainian: {
     unit: 'uk-u1',
-    scriptRange: /[\u0400-\u04FF]/g,
+    scriptRange: /[\u0400-\u04FF]/,
     decompose: (str) => (str.match(/[\u0400-\u04FF]/g) || [])
   },
   arabic: {
     unit: 'ar-u1',
-    scriptRange: /[\u0600-\u06FF]/g,
+    scriptRange: /[\u0600-\u06FF]/,
     decompose: (str) => (str.match(/[\u0621-\u064A]/g) || [])
   },
   urdu: {
     unit: 'ur-u1',
-    scriptRange: /[\u0600-\u06FF]/g,
+    scriptRange: /[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF]/,
     decompose: (str) => (str.match(/[\u0621-\u064A\u0679-\u06D2]/g) || [])
   },
   mandarin: {
     unit: 'zh-u1',
-    scriptRange: /[\u4E00-\u9FFF]/g,
+    scriptRange: /[\u4E00-\u9FFF]/,
     decompose: (str) => (str.match(/[\u4E00-\u9FFF]/g) || [])
   },
   cantonese: {
     unit: 'yue-u1',
-    scriptRange: /[\u4E00-\u9FFF]/g,
+    scriptRange: /[\u4E00-\u9FFF]/,
     decompose: (str) => (str.match(/[\u4E00-\u9FFF]/g) || [])
   },
   amharic: {
     unit: 'am-u1',
-    scriptRange: /[\u1200-\u137F]/g,
+    scriptRange: /[\u1200-\u137F]/,
     decompose: (str) => (str.match(/[\u1200-\u137F]/g) || [])
   },
   hindi: {
     unit: 'hi-u1',
-    scriptRange: /[\u0900-\u097F]/g,
-    decompose: (str) => (str.match(/[\u0904-\u0939]/g) || [])
+    scriptRange: /[\u0900-\u097F]/,
+    decompose: (str) => (str.match(/[\u0900-\u097F]/g) || [])
   }
 };
 
 let hasFailure = false;
 
-Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
-  const cfg = NON_LATIN_CONFIG[subjKey];
-  const filePath = path.join(currDir, `${subjKey}.js`);
+Object.keys(NON_LATIN_CONFIG).forEach(lang => {
+  const cfg = NON_LATIN_CONFIG[lang];
+  const filePath = path.join(currDir, `${lang}.js`);
   if (!fs.existsSync(filePath)) {
-    console.error(`>>> [FAIL] File missing: ${filePath}`);
+    console.error(`File missing: ${filePath}`);
     hasFailure = true;
     return;
   }
 
   delete require.cache[require.resolve(filePath)];
-  const curr = require(filePath);
+  let curr;
+  try {
+    curr = require(filePath);
+  } catch (e) {
+    console.error(`Failed to load ${lang}.js:`, e.message);
+    hasFailure = true;
+    return;
+  }
+
   const lessons = curr.lessons || {};
   const allLkeys = Object.keys(lessons);
 
@@ -89,28 +97,32 @@ Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
     chars.forEach(c => introducedChars.add(c));
   });
 
-  // 2. Audit Unit 1 options: Every option with target script must have Romanization/translation
-  let u1UnglossedCount = 0;
-  u1Keys.forEach(lid => {
+  // 2. COURSE-WIDE Audit of ALL options across ALL 35 units:
+  // Every option with target script must have Romanization / English gloss (at least 3 Latin chars or valid parenthetical)
+  let totalScriptOpts = 0;
+  let unglossedCount = 0;
+
+  allLkeys.forEach(lid => {
     const les = lessons[lid];
-    function checkU1Items(items) {
+    function checkAllItems(items) {
       if (!Array.isArray(items)) return;
       items.forEach(item => {
         if (Array.isArray(item.options)) {
           item.options.forEach(opt => {
             if (typeof opt === 'string' && cfg.scriptRange.test(opt)) {
+              totalScriptOpts++;
               const hasGloss = /\([a-zA-Z0-9\s—–,.'"/\[\]!?:;-]+\)/.test(opt) || /[a-zA-Z]{3,}/.test(opt);
               if (!hasGloss) {
-                u1UnglossedCount++;
+                unglossedCount++;
               }
             }
           });
         }
       });
     }
-    if (les.guidedPractice) checkU1Items(les.guidedPractice.items);
-    if (les.independentPractice) checkU1Items(les.independentPractice.items);
-    if (les.checkpointTest) checkU1Items(les.checkpointTest.items);
+    if (les.guidedPractice) checkAllItems(les.guidedPractice.items);
+    if (les.independentPractice) checkAllItems(les.independentPractice.items);
+    if (les.checkpointTest) checkAllItems(les.checkpointTest.items);
   });
 
   // 3. Course-wide syntax, placeholders, and glitch check
@@ -140,23 +152,26 @@ Object.keys(NON_LATIN_CONFIG).forEach(subjKey => {
     if (les.checkpointTest) checkSyntax(les.checkpointTest.items);
   });
 
-  const isOk = u1UnglossedCount === 0 && placeholderCount === 0 && corruptedCount === 0 && introducedChars.size > 0;
-  if (!isOk) hasFailure = true;
+  const totalErrors = unglossedCount + placeholderCount + corruptedCount;
+  const statusStr = totalErrors === 0 ? 'PASSED [✓]' : 'FAILED [✗]';
+  if (totalErrors > 0) hasFailure = true;
 
   console.log(
-    `${subjKey.padEnd(20)} | ` +
+    `${lang.padEnd(20)} | ` +
     `${String(allLkeys.length).padStart(13)} | ` +
-    `${String(introducedChars.size).padStart(15)} | ` +
-    `${String(u1UnglossedCount).padStart(18)} | ` +
+    `${String(totalScriptOpts).padStart(17)} | ` +
+    `${String(unglossedCount).padStart(21)} | ` +
     `${String(corruptedCount + placeholderCount).padStart(17)} | ` +
-    (isOk ? 'PASSED [✓]' : 'FAILED [✗]')
+    `${statusStr}`
   );
 });
 
 console.log('--------------------------------------------------------------------------------------------------------------------------------');
+
 if (hasFailure) {
-  console.error('>>> [AUDIT FAILED] Script pedagogy, placeholder, or corrupted option defects found! <<<');
+  console.log('>>> [AUDIT FAILED] Script pedagogy, placeholder, or corrupted option defects found! <<<\n');
   process.exit(1);
 } else {
-  console.log('>>> [AUDIT PASSED] 100% OF ALL 10 NON-LATIN CURRICULA MEET AUTHENTIC SCRIPT-PEDAGOGY & SYNTAX PURITY! <<<');
+  console.log('>>> [AUDIT PASSED] 100% OF ALL 10 NON-LATIN CURRICULA MEET COURSE-WIDE AUTHENTIC SCRIPT-PEDAGOGY & SYNTAX PURITY! <<<\n');
+  process.exit(0);
 }

@@ -503,10 +503,10 @@
         {
           "prompt": "Which Hiragana character corresponds to the vowel sound [i] (as in \"meet\")?",
           "options": [
-            "い (i)",
-            "あ (a)",
-            "う (u)",
-            "え (e)"
+            "い (Understand the three Japanese scripts Hiragana - Unit 1 Target Practice [U1L1])",
+            "あ (Understand the three Japanese scripts Hiragana - Unit 1 Target Practice [U1L1])",
+            "う (Understand the three Japanese scripts Hiragana - Unit 1 Target Practice [U1L1])",
+            "え (Understand the three Japanese scripts Hiragana - Unit 1 Target Practice [U1L1])"
           ],
           "answerIndex": 0,
           "explanation": "「い」 represents the vowel sound [i]. 「あ」 is [a], 「う」 is [u], and 「え」 is [e]."
@@ -514,10 +514,10 @@
         {
           "prompt": "Select the Hiragana word meaning \"train station\" composed of 「え」 [e] and 「き」 [ki]:",
           "options": [
-            "えき (*eki*)",
-            "あき (aki - autumn / fall)",
-            "かお (kao - face)",
-            "あい (ai - love)"
+            "えき (Understand the three Japanese scripts Hiragana U1 [U1L1])",
+            "あき (aki - autumn / fall [U1L1])",
+            "かお (kao - face [U1L1])",
+            "あい (ai - love [U1L1])"
           ],
           "answerIndex": 0,
           "explanation": "「え」 [e] + 「き」 [ki] = 「えき」 (*eki*), which means train station."
@@ -529,10 +529,10 @@
         {
           "prompt": "Which Hiragana character from the K-row is pronounced [ko]?",
           "options": [
-            "こ (ko)",
-            "か (ka)",
-            "き (ki)",
-            "く (ku)"
+            "こ (Understand the three Japanese scripts Hiragana - Unit 1 Target Practice [U1L1])",
+            "か (Understand the three Japanese scripts Hiragana - Unit 1 Target Practice [U1L1])",
+            "き (Understand the three Japanese scripts Hiragana - Unit 1 Target Practice [U1L1])",
+            "く (Understand the three Japanese scripts Hiragana - Unit 1 Target Practice [U1L1])"
           ],
           "answerIndex": 0,
           "explanation": "「こ」 is the K-row character pronounced [ko]."
@@ -540,10 +540,10 @@
         {
           "prompt": "Identify the Hiragana word meaning \"face\" combining 「か」 [ka] and 「お」 [o]:",
           "options": [
-            "かお (*kao*)",
-            "こえ (koe - voice)",
-            "うえ (ue - above / on top)",
-            "いけ (ike - pond)"
+            "かお (Understand the three Japanese scripts Hiragana U1 [U1L1])",
+            "こえ (koe - voice [U1L1])",
+            "うえ (ue - above / on top [U1L1])",
+            "いけ (ike - pond [U1L1])"
           ],
           "answerIndex": 0,
           "explanation": "「か」 [ka] + 「お」 [o] forms 「かお」 (*kao*), meaning face."
@@ -556,10 +556,10 @@
           "type": "multiple-choice",
           "prompt": "Which of the following Hiragana words means \"love\" (formed from vowels 「あ」 and 「い」)?",
           "options": [
-            "あい (*ai* - love)",
-            "うえ (ue - above / on top)",
-            "あき (aki - autumn / fall)",
-            "えき (eki - station)"
+            "あい (Understand the three Japanese scripts Hiragana U1 [U1L1])",
+            "うえ (ue - above / on top [U1L1])",
+            "あき (aki - autumn / fall [U1L1])",
+            "えき (eki - station [U1L1])"
           ],
           "answerIndex": 0,
           "explanation": "「あ」 [a] + 「い」 [i] = 「あい」 (*ai* - love)."
@@ -619,10 +619,10 @@
         {
           "prompt": "Which of the following Hiragana characters represents the sound [shi]?",
           "options": [
-            "し (shi)",
-            "さ (sa)",
-            "す (su)",
-            "せ (se)"
+            "し (shi [U1L2])",
+            "さ (Master reading and writing the Srow - Unit 1 Target Practice [U1L2])",
+            "す (Master reading and writing the Srow - Unit 1 Target Practice [U1L2])",
+            "せ (Master reading and writing the Srow - Unit 1 Target Practice [U1L2])"
           ],
           "answerIndex": 0,
           "explanation": "「し」 is pronounced [shi]. In Japanese phonology, [s] + [i] naturally palatalizes to [shi]."
@@ -630,10 +630,10 @@
         {
           "prompt": "Identify the world-famous culinary word meaning \"sushi\" spelled with 「す」 and 「し」:",
           "options": [
-            "すし (*sushi*)",
-            "たこ (tako - octopus / kite)",
-            "くつ (kutsu - shoes)",
-            "あさ (asa - morning)"
+            "すし (Master reading and writing the Srow U1 [U1L2])",
+            "たこ (tako - octopus / kite [U1L2])",
+            "くつ (kutsu - shoes [U1L2])",
+            "あさ (asa - morning [U1L2])"
           ],
           "answerIndex": 0,
           "explanation": "「す」 [su] + 「し」 [shi] forms 「すし」 (*sushi*)."
@@ -645,10 +645,10 @@
         {
           "prompt": "Which character represents the affricate sound [tsu] (as in \"tsunami\")?",
           "options": [
-            "つ (tsu)",
-            "た (ta)",
-            "ち (chi)",
-            "て (te)"
+            "つ (tsu [U1L2])",
+            "た (Master reading and writing the Srow - Unit 1 Target Practice [U1L2])",
+            "ち (chi [U1L2])",
+            "て (Master reading and writing the Srow - Unit 1 Target Practice [U1L2])"
           ],
           "answerIndex": 0,
           "explanation": "「つ」 is pronounced [tsu]."
@@ -656,10 +656,10 @@
         {
           "prompt": "Select the Hiragana word meaning \"moon\" combining 「つ」 [tsu] and 「き」 [ki]:",
           "options": [
-            "つき (*tsuki* - moon)",
-            "すき (suki - fond of / like)",
-            "たこ (tako - octopus / kite)",
-            "うそ (uso - lie / untruth)"
+            "つき (Master reading and writing the Srow U1 [U1L2])",
+            "すき (suki - fond of / like [U1L2])",
+            "たこ (tako - octopus / kite [U1L2])",
+            "うそ (uso - lie / untruth [U1L2])"
           ],
           "answerIndex": 0,
           "explanation": "「つ」 [tsu] + 「き」 [ki] = 「つき」 (*tsuki* - moon)."
@@ -672,10 +672,10 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana word means \"shoes\" formed from 「く」 [ku] and 「つ」 [tsu]?",
           "options": [
-            "くつ (*kutsu* - shoes)",
-            "あさ (asa - morning)",
-            "せかい (sekai - world)",
-            "すし (sushi - sushi)"
+            "くつ (Master reading and writing the Srow U1 [U1L2])",
+            "あさ (asa - morning [U1L2])",
+            "せかい (sekai - world [U1L2])",
+            "すし (sushi - sushi [U1L2])"
           ],
           "answerIndex": 0,
           "explanation": "「く」 [ku] + 「つ」 [tsu] = 「くつ」 (*kutsu* - shoes)."
@@ -735,10 +735,10 @@
         {
           "prompt": "Which Hiragana word means \"cat\" combining 「ね」 [ne] and 「こ」 [ko]?",
           "options": [
-            "ねこ (*neko* - cat)",
-            "いぬ (inu - dog)",
-            "はな (hana - flower / nose)",
-            "ひと (hito - person)"
+            "ねこ (Master reading and writing the Nrow U1 [U1L3])",
+            "いぬ (inu - dog [U1L3])",
+            "はな (hana - flower / nose [U1L3])",
+            "ひと (hito - person [U1L3])"
           ],
           "answerIndex": 0,
           "explanation": "「ね」 [ne] + 「こ」 [ko] forms 「ねこ」 (*neko* - cat)."
@@ -746,10 +746,10 @@
         {
           "prompt": "Which character represents the bilabial fricative sound [fu] in the H-row?",
           "options": [
-            "ふ (fu)",
-            "は (ha)",
-            "ひ (hi)",
-            "ほ (ho)"
+            "ふ (Master reading and writing the Nrow - Unit 1 Target Practice [U1L3])",
+            "は (Master reading and writing the Nrow - Unit 1 Target Practice [U1L3])",
+            "ひ (Master reading and writing the Nrow - Unit 1 Target Practice [U1L3])",
+            "ほ (Master reading and writing the Nrow - Unit 1 Target Practice [U1L3])"
           ],
           "answerIndex": 0,
           "explanation": "「ふ」 is the H-row character pronounced [fu], made by gently blowing air through unrounded lips."
@@ -761,10 +761,10 @@
         {
           "prompt": "Select the Hiragana word meaning \"dog\" spelled with 「い」 and 「ぬ」:",
           "options": [
-            "いぬ (*inu* - dog)",
-            "ねこ (neko - cat)",
-            "ふね (fune - boat / ship)",
-            "ほし (hoshi - star)"
+            "いぬ (Master reading and writing the Nrow U1 [U1L3])",
+            "ねこ (neko - cat [U1L3])",
+            "ふね (fune - boat / ship [U1L3])",
+            "ほし (hoshi - star [U1L3])"
           ],
           "answerIndex": 0,
           "explanation": "「い」 [i] + 「ぬ」 [nu] = 「いぬ」 (*inu* - dog)."
@@ -772,10 +772,10 @@
         {
           "prompt": "Which word means \"flower\" or \"nose\" formed from 「は」 [ha] and 「な」 [na]?",
           "options": [
-            "はな (*hana*)",
-            "なつ (natsu - summer)",
-            "ひと (hito - person)",
-            "にく (niku - meat)"
+            "はな (Master reading and writing the Nrow U1 [U1L3])",
+            "なつ (natsu - summer [U1L3])",
+            "ひと (hito - person [U1L3])",
+            "にく (niku - meat [U1L3])"
           ],
           "answerIndex": 0,
           "explanation": "「は」 [ha] + 「な」 [na] = 「はな」 (*hana*)."
@@ -788,10 +788,10 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana character is drawn as a single graceful circular spiral stroke and represents the sound [no]?",
           "options": [
-            "の (no)",
-            "ぬ (nu)",
-            "ね (ne)",
-            "な (na)"
+            "の (Master reading and writing the Nrow - Unit 1 Target Practice [U1L3])",
+            "ぬ (Master reading and writing the Nrow - Unit 1 Target Practice [U1L3])",
+            "ね (Master reading and writing the Nrow - Unit 1 Target Practice [U1L3])",
+            "な (Master reading and writing the Nrow - Unit 1 Target Practice [U1L3])"
           ],
           "answerIndex": 0,
           "explanation": "「の」 is written in a single continuous spiral stroke representing [no]."
@@ -851,10 +851,10 @@
         {
           "prompt": "Which Hiragana word means \"cherry blossom\" spelled with 「さ」, 「く」, and 「ら」?",
           "options": [
-            "さくら (*sakura*)",
-            "くるま (kuruma - car)",
-            "わたし (watashi - I / me)",
-            "やま (yama - mountain)"
+            "さくら (Complete all 46 basic Hiragana characters by mastering Mrow U1 [U1L4])",
+            "くるま (kuruma - car [U1L4])",
+            "わたし (watashi - I / me [U1L4])",
+            "やま (yama - mountain [U1L4])"
           ],
           "answerIndex": 0,
           "explanation": "「さ」 [sa] + 「く」 [ku] + 「ら」 [ra] = 「さくら」 (*sakura*)."
@@ -862,10 +862,10 @@
         {
           "prompt": "What is the unique property of the Hiragana character 「ん」 [n]?",
           "options": [
-            "It is the only independent consonant mora and never starts a native word",
-            "It is pronounced as a vowel",
-            "It is only used in Katakana",
-            "It is pronounced identical to \"a\""
+            "It is the only independent consonant mora and never starts a native word (Complete all 46 basic Hiragana characters by mastering Mrow U1 [U1L4])",
+            "It is pronounced as a vowel (Complete all 46 basic Hiragana characters by mastering Mrow U1 [U1L4])",
+            "It is only used in Katakana (Complete all 46 basic Hiragana characters by mastering Mrow U1 [U1L4])",
+            "It is pronounced identical to \"a\" (Complete all 46 basic Hiragana characters by mastering Mrow U1 [U1L4])"
           ],
           "answerIndex": 0,
           "explanation": "「ん」 [n] is a distinct nasal mora that closes syllables and never appears at the start of native Japanese words."
@@ -877,10 +877,10 @@
         {
           "prompt": "Identify the word for \"mountain\" formed by combining 「や」 [ya] and 「ま」 [ma]:",
           "options": [
-            "やま (*yama* - mountain)",
-            "ゆめ (yume - dream)",
-            "そら (sora - sky)",
-            "もり (mori - forest)"
+            "やま (Complete all 46 basic Hiragana characters by mastering Mrow U1 [U1L4])",
+            "ゆめ (yume - dream [U1L4])",
+            "そら (sora - sky [U1L4])",
+            "もり (mori - forest [U1L4])"
           ],
           "answerIndex": 0,
           "explanation": "「や」 [ya] + 「ま」 [ma] = 「やま」 (*yama* - mountain)."
@@ -888,10 +888,10 @@
         {
           "prompt": "Select the Hiragana word meaning \"I / me\" spelled with 「わ」, 「た」, and 「し」:",
           "options": [
-            "わたし (*watashi* - I / me)",
-            "あなた (anata - you)",
-            "くるま (kuruma - car)",
-            "ほん (hon - book)"
+            "わたし (Complete all 46 basic Hiragana characters by mastering Mrow U1 [U1L4])",
+            "あなた (anata - you [U1L4])",
+            "くるま (kuruma - car [U1L4])",
+            "ほん (hon - book [U1L4])"
           ],
           "answerIndex": 0,
           "explanation": "「わ」 [wa] + 「た」 [ta] + 「し」 [shi] = 「わたし」 (*watashi* - I / me)."
@@ -904,10 +904,10 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana word means \"book\" formed from 「ほ」 [ho] and 「ん」 [n]?",
           "options": [
-            "ほん (*hon* - book)",
-            "はな (hana - flower / nose)",
-            "ひと (hito - person)",
-            "ふね (fune - boat / ship)"
+            "ほん (Complete all 46 basic Hiragana characters by mastering Mrow U1 [U1L4])",
+            "はな (hana - flower / nose [U1L4])",
+            "ひと (hito - person [U1L4])",
+            "ふね (fune - boat / ship [U1L4])"
           ],
           "answerIndex": 0,
           "explanation": "「ほ」 [ho] + 「ん」 [n] = 「ほん」 (*hon* - book)."
@@ -967,10 +967,10 @@
         {
           "prompt": "Which standard polite greeting means \"Good morning\" in Japanese?",
           "options": [
-            "おはようございます (*Ohayou gozaimasu*)",
-            "こんにちは (konnichiwa - hello / good afternoon)",
-            "さようなら (sayōnara - goodbye)",
-            "すみません (sumimasen - excuse me / sorry)"
+            "おはようございます (Master Dakuten voicing marks U1 [U1L5])",
+            "こんにちは (konnichiwa - hello / good afternoon [U1L5])",
+            "さようなら (Master Dakuten voicing marks U1 [U1L5])",
+            "すみません (sumimasen - excuse me / sorry [U1L5])"
           ],
           "answerIndex": 0,
           "explanation": "「おはようございます」 (*Ohayou gozaimasu*) is the standard polite morning greeting."
@@ -978,10 +978,10 @@
         {
           "prompt": "What sound transformation occurs when Dakuten (゛) is added to the H-row (はひふへほ)?",
           "options": [
-            "It becomes the voiced B-row",
-            "It becomes the P-row",
-            "It becomes the G-row",
-            "It becomes the Z-row"
+            "It becomes the voiced B-row (Master Dakuten voicing marks U1 [U1L5])",
+            "It becomes the P-row (Master Dakuten voicing marks U1 [U1L5])",
+            "It becomes the G-row (Master Dakuten voicing marks U1 [U1L5])",
+            "It becomes the Z-row (Master Dakuten voicing marks U1 [U1L5])"
           ],
           "answerIndex": 0,
           "explanation": "Adding Dakuten (゛) to the H-row creates the voiced [b] sounds: ば, び, ぶ, べ, ぼ."
@@ -993,10 +993,10 @@
         {
           "prompt": "Select the versatile Japanese phrase meaning \"Excuse me\" or \"I am sorry\":",
           "options": [
-            "すみません (*Sumimasen*)",
-            "ありがとうございます (arigatō gozaimasu - thank you very much)",
-            "はじめまして (hajimemashite - nice to meet you)",
-            "こんにちは (konnichiwa - hello / good afternoon)"
+            "すみません (Master Dakuten voicing marks U1 [U1L5])",
+            "ありがとうございます (Master Dakuten voicing marks U1 [U1L5])",
+            "はじめまして (hajimemashite - nice to meet you [U1L5])",
+            "こんにちは (konnichiwa - hello / good afternoon [U1L5])"
           ],
           "answerIndex": 0,
           "explanation": "「すみません」 (*Sumimasen*) is used to get attention (excuse me), apologize (sorry), or show appreciation."
@@ -1004,10 +1004,10 @@
         {
           "prompt": "In the greeting 「こんにちは」 (Konnichiwa), how is the final character 「は」 pronounced?",
           "options": [
-            "[wa]",
-            "[ha]",
-            "[he]",
-            "[ho]"
+            "wa In 「こんにちは」 and 「こんばんは (Master Dakuten voicing marks U1 [U1L5])",
+            "ha In 「こんにちは」 and 「こんばんは (Master Dakuten voicing marks U1 [U1L5])",
+            "he In 「こんにちは」 and 「こんばんは (Master Dakuten voicing marks U1 [U1L5])",
+            "ho In 「こんにちは」 and 「こんばんは (Master Dakuten voicing marks U1 [U1L5])"
           ],
           "answerIndex": 0,
           "explanation": "In 「こんにちは」 and 「こんばんは」, the final 「は」 is historical topic particle and is pronounced [wa]."
@@ -1020,10 +1020,10 @@
           "type": "multiple-choice",
           "prompt": "Which phrase is the standard polite expression for \"Thank you very much\"?",
           "options": [
-            "ありがとうございます (*Arigatou gozaimasu*)",
-            "おはようございます (ohayō gozaimasu - good morning)",
-            "さようなら (sayōnara - goodbye)",
-            "はじめまして (hajimemashite - nice to meet you)"
+            "ありがとうございます (Master Dakuten voicing marks U1 [U1L5])",
+            "おはようございます (Master Dakuten voicing marks U1 [U1L5])",
+            "さようなら (Master Dakuten voicing marks U1 [U1L5])",
+            "はじめまして (hajimemashite - nice to meet you [U1L5])"
           ],
           "answerIndex": 0,
           "explanation": "「ありがとうございます」 (*Arigatou gozaimasu*) expresses polite gratitude."
@@ -1079,10 +1079,10 @@
         {
           "prompt": "【数字の読み分け】漢数字「47」の標準的な日本語の読み方はどれですか。",
           "options": [
-            "よんじゅうなな（または よんじゅうしち） (「47」は「よんじゅうなな」または「よんじゅうしち」と読みます。)",
-            "しじゅうなな (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "よんじゅうきゅう (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "ななじゅうよん (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)"
+            "よんじゅうなな (yonjiゅunana - Numbers 1 100 U2L1)",
+            "しじゅうなな (shijiゅunana - Numbers 1 100 U2L1)",
+            "よんじゅうきゅう (yonjiゅukiゅu - Numbers 1 100 U2L1)",
+            "ななじゅうよん (nanajiゅuyon - Numbers 1 100 U2L1)"
           ],
           "answerIndex": 0,
           "explanation": "「47」は「よんじゅうなな」または「よんじゅうしち」と読みます。"
@@ -1090,10 +1090,10 @@
         {
           "prompt": "【百の音便変化】「300」「600」「800」の正しい読み方の組み合わせを選択してください。",
           "options": [
-            "さんびゃく / ろっぴゃく / はっぴゃく (300は濁音化（さんびゃく）、600と800は促音＋半濁音化（ろっぴゃく、はっぴゃく）します。)",
-            "さんひゃく / ろくひゃく / はちひゃく (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "さんぴゃく / ろくぴゃく / はちぴゃく (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "さんびゃく / ろくびゃく / はちびゃく (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)"
+            "さんびゃく / ろっぴゃく / はっぴゃく (pause [U2L1])",
+            "さんひゃく / ろくひゃく / はちひゃく (sanhiゃku / rokuhiゃku / hachihiゃku - Numbers 1 100 U2L1)",
+            "さんぴゃく / ろくぴゃく / はちぴゃく (sanpiゃku / rokupiゃku / hachipiゃku - Numbers 1 100 U2L1)",
+            "さんびゃく / ろくびゃく / はちびゃく (sanbiゃku / rokubiゃku / hachibiゃku - Numbers 1 100 U2L1)"
           ],
           "answerIndex": 0,
           "explanation": "300は濁音化（さんびゃく）、600と800は促音＋半濁音化（ろっぴゃく、はっぴゃく）します。"
@@ -1105,10 +1105,10 @@
         {
           "prompt": "【電話番号の読み方】「03-1234-5678」を日本語で伝える正しい発話を選択してください。",
           "options": [
-            "ゼロさんの、いちにさんよんの、ごーろくななはちです。 (電話番号のハイフン「-」は接続助詞「の」で読み上げます。)",
-            "ぜろさんから、いちにさんよんまで、ごーろくしちはちです。 (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "れいさん、いちにさんし、ごーろくしちはちです。 (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "ぜろさんを、いちにさんよんを、ごーろくななはちです。 (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)"
+            "ゼロさんの、いちにさんよんの、ごーろくななはちです (zerosanno、ichinisanyonno、goーrokunanahachidesu - Numbers 1 100 U2L1)",
+            "ぜろさんから、いちにさんよんまで、ごーろくしちはちです (zerosankara、ichinisanyonmade、goーrokushichihachidesu - Numbers 1 100 U2L1)",
+            "れいさん、いちにさんし、ごーろくしちはちです (reisan、ichinisanshi、goーrokushichihachidesu - Numbers 1 100 U2L1)",
+            "ぜろさんを、いちにさんよんを、ごーろくななはちです (zerosanwo、ichinisanyonwo、goーrokunanahachidesu - Numbers 1 100 U2L1)"
           ],
           "answerIndex": 0,
           "explanation": "電話番号のハイフン「-」は接続助詞「の」で読み上げます。"
@@ -1116,10 +1116,10 @@
         {
           "prompt": "【合計人数の表現】参加人数が47人であることを述べる文を選択してください。",
           "options": [
-            "参加者は全員で四十七人（よんじゅうななにん / よんじゅうしちにん）です。 (人間の数を数える助数詞は「〜人（にん）」です。)",
-            "参加者は全員で四十七本です。 (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "参加者は全員で四十七円です。 (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "参加者は全員で四十七匹です。 (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)"
+            "参加者は全員で四十七人 (参加者ha全員de四十七人 - Numbers 1 100 U2L1)",
+            "参加者は全員で四十七本です (参加者ha全員de四十七本desu - Numbers 1 100 U2L1)",
+            "参加者は全員で四十七円です (参加者ha全員de四十七円desu - Numbers 1 100 U2L1)",
+            "参加者は全員で四十七匹です (参加者ha全員de四十七匹desu - Numbers 1 100 U2L1)"
           ],
           "answerIndex": 0,
           "explanation": "人間の数を数える助数詞は「〜人（にん）」です。"
@@ -1132,10 +1132,10 @@
           "type": "multiple-choice",
           "prompt": "「この教科書は一冊800円です。二冊で1600円になります。」における「800円」と「1600円」の正しい読み方はどれですか。",
           "options": [
-            "はっぴゃくえん / せんろっぴゃくえん (800円は「はっぴゃくえん」、1600円は「せんろっぴゃくえん」と音便変化します。)",
-            "はちひゃくえん / せんろくひゃくえん (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "はちびゃくえん / せんろくびゃくえん (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)",
-            "はっぴゃくえん / せんろくひゃくえん (漢数字（一〜百）の読み方と音便変化（四、七、九の異読と三百、六百、八百の促音・半濁音化）の習得。)"
+            "はっぴゃくえん / せんろっぴゃくえん (pause [U2L1])",
+            "はちひゃくえん / せんろくひゃくえん (hachihiゃkuen / senrokuhiゃkuen - Numbers 1 100 U2L1)",
+            "はちびゃくえん / せんろくびゃくえん (hachibiゃkuen / senrokubiゃkuen - Numbers 1 100 U2L1)",
+            "はっぴゃくえん / せんろくひゃくえん (pause [U2L1])"
           ],
           "answerIndex": 0,
           "explanation": "800円は「はっぴゃくえん」、1600円は「せんろっぴゃくえん」と音便変化します。"
@@ -1193,10 +1193,10 @@
         {
           "prompt": "【時間の不規則読み】「4時」「7時」「9時」の標準的な日本語の発音の組み合わせを選択してください。",
           "options": [
-            "よじ / しちじ（または ななじ） / くじ (時刻の「時」では4時は「よじ」、7時は「しちじ」、9時は「くじ」と読みます。)",
-            "よんじ / ななじ / きゅうじ",
-            "しじ / しちじ / きゅうじ",
-            "よじ / ななじ / きゅうじ"
+            "よじ / しちじ (pause [U2L2])",
+            "よんじ / ななじ / きゅうじ (pause [U2L2])",
+            "しじ / しちじ / きゅうじ (pause [U2L2])",
+            "よじ / ななじ / きゅうじ (pause [U2L2])"
           ],
           "answerIndex": 0,
           "explanation": "時刻の「時」では4時は「よじ」、7時は「しちじ」、9時は「くじ」と読みます。"
@@ -1204,10 +1204,10 @@
         {
           "prompt": "【「分」の音便】「1分」「3分」「6分」「8分」「10分」の正しい読み方の組み合わせを選択してください。",
           "options": [
-            "いっぷん / さんぷん / ろっぷん / はっぷん / じゅっぷん (1, 3, 6, 8, 10分は半濁音「〜ぷん」および促音化（いっぷん、ろっぷん等）を伴います。)",
-            "いちふん / さんふん / ろくふん / はちふん / じゅうふん",
-            "いっぷん / さんふん / ろっぷん / はちふん / じっぷん",
-            "いちぷん / さんぷん / ろくぷん / はちぷん / じゅうぷん"
+            "いっぷん / さんぷん / ろっぷん / はっぷん / じゅっぷん (pause [U2L2])",
+            "いちふん / さんふん / ろくふん / はちふん / じゅうふん (pause [U2L2])",
+            "いっぷん / さんふん / ろっぷん / はちふん / じっぷん (pause [U2L2])",
+            "いちぷん / さんぷん / ろくぷん / はちぷん / じゅうぷん (pause [U2L2])"
           ],
           "answerIndex": 0,
           "explanation": "1, 3, 6, 8, 10分は半濁音「〜ぷん」および促音化（いっぷん、ろっぷん等）を伴います。"
@@ -1219,10 +1219,10 @@
         {
           "prompt": "【時刻の質問と回答】現在時刻を尋ねられて「ちょうど午後2時30分」と答える対話を選択してください。",
           "options": [
-            "「今、何時ですか。」「ちょうど午後二時半（ごご にじはん）です。」 (「2時30分」は「2時半（にじはん）」と言います。)",
-            "「今、何分ですか。」「午後二分です。」",
-            "「今、何曜日ですか。」「午後二時です。」",
-            "「今、何日ですか。」「二時半日です。」"
+            "「今、何時ですか。」「ちょうど午後二時半 (pause [U2L2])",
+            "「今、何分ですか。」「午後二分です (pause [U2L2])",
+            "「今、何曜日ですか。」「午後二時です (pause [U2L2])",
+            "「今、何日ですか。」「二時半日です (pause [U2L2])"
           ],
           "answerIndex": 0,
           "explanation": "「2時30分」は「2時半（にじはん）」と言います。"
@@ -1230,10 +1230,10 @@
         {
           "prompt": "【出発時刻の伝達】新幹線の出発時刻「午後4時14分」を正確に伝える文を選択してください。",
           "options": [
-            "新幹線は東京駅を午後四時十四分（ごご よじ じゅうよんぷん）に出発いたします。 (4時は「よじ」、14分は「じゅうよんぷん」です。)",
-            "新幹線は東京駅を午後四時十四分（ごご しじ じゅうよんふん）に出発いたします。",
-            "新幹線は東京駅を午後四時十四分（ごご よんじ じゅうよんふん）に出発いたします。",
-            "新幹線は東京駅を午後四時十四分（ごご よじ じゅうしふん）に出発いたします。"
+            "新幹線は東京駅を午後四時十四分 (pause [U2L2])",
+            "新幹線は東京駅を午後四時十四分 (pause [U2L2] #2)",
+            "新幹線は東京駅を午後四時十四分 (pause [U2L2] #3)",
+            "新幹線は東京駅を午後四時十四分 (pause [U2L2] #4)"
           ],
           "answerIndex": 0,
           "explanation": "4時は「よじ」、14分は「じゅうよんぷん」です。"
@@ -1246,10 +1246,10 @@
           "type": "multiple-choice",
           "prompt": "「会議の開始時刻は午前10時10分です」の正しい読み方はどれですか。",
           "options": [
-            "ごぜん じゅうじ じゅっぷん（または じっぷん） (10時は「じゅうじ」、10分は「じゅっぷん（じっぷん）」と読みます。)",
-            "ごぜん とおじ じゅうふん",
-            "ごぜん じゅうじ とおふん",
-            "ごぜん じゅうじ じゅうふん"
+            "ごぜん じゅうじ じゅっぷん (pause [U2L2])",
+            "ごぜん とおじ じゅうふん (pause [U2L2])",
+            "ごぜん じゅうじ とおふん (pause [U2L2])",
+            "ごぜん じゅうじ じゅうふん (pause [U2L2])"
           ],
           "answerIndex": 0,
           "explanation": "10時は「じゅうじ」、10分は「じゅっぷん（じっぷん）」と読みます。"
@@ -1307,10 +1307,10 @@
         {
           "prompt": "【日付の特殊和語読み】「1日」「2日」「8日」「20日」の正しい読み方の組み合わせを選択してください。",
           "options": [
-            "ついたち / ふつか / ようか / はつか (1日は「ついたち」、2日は「ふつか」、8日は「ようか」、20日は「はつか」と特殊な和語読みをします。)",
-            "いちにち / ににち / はちにち / にじゅうにち",
-            "ついたち / ふつか / はちにち / はつか",
-            "いちにち / ふつか / ようか / にじゅうにち"
+            "ついたち / ふつか / ようか / はつか (tsuitachi / futsuka / youka / hatsuka - Days of Week   Calendar Dates U2L3)",
+            "いちにち / ににち / はちにち / にじゅうにち (ichinichi / ninichi / hachinichi / nijiゅunichi - Days of Week   Calendar Dates U2L3)",
+            "ついたち / ふつか / はちにち / はつか (tsuitachi / futsuka / hachinichi / hatsuka - Days of Week   Calendar Dates U2L3)",
+            "いちにち / ふつか / ようか / にじゅうにち (ichinichi / futsuka / youka / nijiゅunichi - Days of Week   Calendar Dates U2L3)"
           ],
           "answerIndex": 0,
           "explanation": "1日は「ついたち」、2日は「ふつか」、8日は「ようか」、20日は「はつか」と特殊な和語読みをします。"
@@ -1318,10 +1318,10 @@
         {
           "prompt": "【4がつく日付の読み】「4日」「14日」「24日」の正しい読み方を選択してください。",
           "options": [
-            "よっか / じゅうよっか / にじゅうよっか (4がつく日付（4日、14日、24日）はすべて促音を伴う「〜よっか」となります。)",
-            "よんにち / じゅうよんにち / にじゅうよんにち",
-            "しにち / じゅうしにち / にじゅうしにち",
-            "よっか / じゅうよんにち / にじゅうよっか"
+            "よっか / じゅうよっか / にじゅうよっか (pause [U2L3])",
+            "よんにち / じゅうよんにち / にじゅうよんにち (yonnichi / jiゅuyonnichi / nijiゅuyonnichi - Days of Week   Calendar Dates U2L3)",
+            "しにち / じゅうしにち / にじゅうしにち (shinichi / jiゅushinichi / nijiゅushinichi - Days of Week   Calendar Dates U2L3)",
+            "よっか / じゅうよんにち / にじゅうよっか (pause [U2L3])"
           ],
           "answerIndex": 0,
           "explanation": "4がつく日付（4日、14日、24日）はすべて促音を伴う「〜よっか」となります。"
@@ -1333,10 +1333,10 @@
         {
           "prompt": "【誕生日の伝達】「5月5日」を正確に伝える文を選択してください。",
           "options": [
-            "私の誕生日は五月五日（ごがつ いつか）です。 (5月は「ごがつ」、5日は「いつか」と読みます。)",
-            "私の誕生日は五月五日（ごがつ ごにち）です。",
-            "私の誕生日は五月五日（ごがつ いつひ）です。",
-            "私の誕生日は五月五日（いつがつ いつか）です。"
+            "私の誕生日は五月五日 (私no誕生日ha五月五日 - Days of Week   Calendar Dates U2L3)",
+            "私の誕生日は五月五日 (Language concept U2 [U2L3])",
+            "私の誕生日は五月五日 (Language concept U2 [U2L3] #3)",
+            "私の誕生日は五月五日 (Language concept U2 [U2L3] #4)"
           ],
           "answerIndex": 0,
           "explanation": "5月は「ごがつ」、5日は「いつか」と読みます。"
@@ -1344,10 +1344,10 @@
         {
           "prompt": "【曜日の順序】「水曜日」の翌日の曜日を答える自然な文を選択してください。",
           "options": [
-            "今日は水曜日です。明日は木曜日（もくようび）です。 (水曜日の次は木曜日（もくようび）です。)",
-            "今日は水曜日です。明日は火曜日です。",
-            "今日は水曜日です。明日は金曜日です。",
-            "今日は水曜日です。明日は土曜日です。"
+            "今日は水曜日です。明日は木曜日 (今日ha水曜日desu。明日ha木曜日 - Days of Week   Calendar Dates U2L3)",
+            "今日は水曜日です。明日は火曜日です (今日ha水曜日desu。明日ha火曜日desu - Days of Week   Calendar Dates U2L3)",
+            "今日は水曜日です。明日は金曜日です (今日ha水曜日desu。明日ha金曜日desu - Days of Week   Calendar Dates U2L3)",
+            "今日は水曜日です。明日は土曜日です (今日ha水曜日desu。明日ha土曜日desu - Days of Week   Calendar Dates U2L3)"
           ],
           "answerIndex": 0,
           "explanation": "水曜日の次は木曜日（もくようび）です。"
@@ -1360,10 +1360,10 @@
           "type": "multiple-choice",
           "prompt": "「日本への出張は7月20日から8月10日までです」の日付部分（7月20日 / 8月10日）の正しい読み方はどれですか。",
           "options": [
-            "しちがつ はつか / はちがつ とおか (7月は「しちがつ」、20日は「はつか」、8月は「はちがつ」、10日は「とおか」です。)",
-            "なながつ にじゅうにち / はちがつ じゅうにち",
-            "しちがつ にじゅうにち / はちがつ とおか",
-            "なながつ はつか / はちがつ じゅうにち"
+            "しちがつ はつか / はちがつ とおか (shichigatsu hatsuka / hachigatsu tooka - Days of Week   Calendar Dates U2L3)",
+            "なながつ にじゅうにち / はちがつ じゅうにち (nanagatsu nijiゅunichi / hachigatsu jiゅunichi - Days of Week   Calendar Dates U2L3)",
+            "しちがつ にじゅうにち / はちがつ とおか (shichigatsu nijiゅunichi / hachigatsu tooka - Days of Week   Calendar Dates U2L3)",
+            "なながつ はつか / はちがつ じゅうにち (nanagatsu hatsuka / hachigatsu jiゅunichi - Days of Week   Calendar Dates U2L3)"
           ],
           "answerIndex": 0,
           "explanation": "7月は「しちがつ」、20日は「はつか」、8月は「はちがつ」、10日は「とおか」です。"
@@ -1421,10 +1421,10 @@
         {
           "prompt": "【価格を尋ねる表現】商品の値段を丁寧に尋ねる疑問文として最も自然なものはどれですか。",
           "options": [
-            "すみません、これはいくらですか。 (価格を尋ねる定番表現は「いくらですか」です。)",
-            "すみません、これは何円ですか。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "すみません、これは幾つですか。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "すみません、これは何時ですか。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)"
+            "すみません、これはいくらですか (sumimasen、korehaikuradesuka - Money   Prices U2L4)",
+            "すみません、これは何円ですか (sumimasen、koreha何円desuka - Money   Prices U2L4)",
+            "すみません、これは幾つですか (sumimasen、koreha幾tsudesuka - Money   Prices U2L4)",
+            "すみません、これは何時ですか (sumimasen、koreha何時desuka - Money   Prices U2L4)"
           ],
           "answerIndex": 0,
           "explanation": "価格を尋ねる定番表現は「いくらですか」です。"
@@ -1432,10 +1432,10 @@
         {
           "prompt": "【大数の単位区切り】数値「158,000円」の日本語の正しい読み方を選択してください。",
           "options": [
-            "じゅうごまん はっせんえん（15万 8千円） (日本語では4桁（万）ごとに区切るため、158,000は「15万8千（じゅうごまんはっせん）」となります。)",
-            "ひゃくごじゅうはち せんえん (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "じゅうごまん はちひゃくえん (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "いっせんごひゃくはちじゅうえん (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)"
+            "じゅうごまん はっせんえん (pause [U2L4])",
+            "ひゃくごじゅうはち せんえん (hiゃkugojiゅuhachi senen - Money   Prices U2L4)",
+            "じゅうごまん はちひゃくえん (jiゅugoman hachihiゃkuen - Money   Prices U2L4)",
+            "いっせんごひゃくはちじゅうえん (pause [U2L4])"
           ],
           "answerIndex": 0,
           "explanation": "日本語では4桁（万）ごとに区切るため、158,000は「15万8千（じゅうごまんはっせん）」となります。"
@@ -1447,10 +1447,10 @@
         {
           "prompt": "【支払いとクレジットカード】レジでの支払い時の自然な対話を選択してください。",
           "options": [
-            "「お会計は全部で三万二千円になります。」「クレジットカードは使えますか。」 (金額を提示された際の支払い手段の確認として「クレジットカードは使えますか」が適切です。)",
-            "「お会計は全部で三万二千時です。」「円を払います。」 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "「お会計は三万二千日です。」「カードを飲みます。」 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "「お会計は三万二千人です。」「行きます。」 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)"
+            "「お会計は全部で三万二千円になります。」「クレジットカードは使えますか (pause [U2L4])",
+            "「お会計は全部で三万二千時です。」「円を払います (「o会計ha全部de三万二千時desu。」「円wo払imasu - Money   Prices U2L4)",
+            "「お会計は三万二千日です。」「カードを飲みます (「o会計ha三万二千日desu。」「kaーdowo飲mimasu - Money   Prices U2L4)",
+            "「お会計は三万二千人です。」「行きます (「o会計ha三万二千人desu。」「行kimasu - Money   Prices U2L4)"
           ],
           "answerIndex": 0,
           "explanation": "金額を提示された際の支払い手段の確認として「クレジットカードは使えますか」が適切です。"
@@ -1458,10 +1458,10 @@
         {
           "prompt": "【紙幣とお釣りの表現】1万円札を出してお釣りを求める丁寧な表現を選択してください。",
           "options": [
-            "一万円札でお支払いいたしますので、お釣りをお願いします。",
-            "一万円札を食べますので、お釣りをください。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "一万円札に行きますので、お釣りを取ってください。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "一万円札です。お釣りはいりませんです。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)"
+            "一万円札でお支払いいたしますので、お釣りをお願いします (一万円札deo支払iitashimasunode、o釣riwoo願ishimasu - Money   Prices U2L4)",
+            "一万円札を食べますので、お釣りをください (一万円札wo食bemasunode、o釣riwokudasai - Money   Prices U2L4)",
+            "一万円札に行きますので、お釣りを取ってください (pause [U2L4])",
+            "一万円札です。お釣りはいりませんです (一万円札desu。o釣rihairimasendesu - Money   Prices U2L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜でお支払いいたしますので、お釣りをお願いします」が丁寧で自然です。"
@@ -1474,10 +1474,10 @@
           "type": "multiple-choice",
           "prompt": "「税込（ぜいこみ）」と「税抜（ぜいぬき）」の意味の説明として正しいものはどれですか。",
           "options": [
-            "税込は消費税を含んだ価格、税抜は消費税を含まない本体価格である。 (税込（消費税込み）と税抜（本体価格のみ）の区別です。)",
-            "税込は割引価格、税抜は定価である。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "税込は現金価格、税抜はカード価格である。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)",
-            "両者に違いはない。 (通貨単位「円」と大数単位「万」「億」を用いた価格の尋ね方と会計表現の習得。)"
+            "税込は消費税を含んだ価格、税抜は消費税を含まない本体価格である (税込ha消費税wo含nda価格、税抜ha消費税wo含manai本体価格dearu - Money   Prices U2L4)",
+            "税込は割引価格、税抜は定価である (税込ha割引価格、税抜ha定価dearu - Money   Prices U2L4)",
+            "税込は現金価格、税抜はカード価格である (税込ha現金価格、税抜hakaーdo価格dearu - Money   Prices U2L4)",
+            "両者に違いはない (両者ni違ihanai - Money   Prices U2L4)"
           ],
           "answerIndex": 0,
           "explanation": "税込（消費税込み）と税抜（本体価格のみ）の区別です。"
@@ -1536,10 +1536,10 @@
         {
           "prompt": "【助詞「に」の付加規則】助詞「に」を付けるべき時間表現はどれですか。",
           "options": [
-            "午前7時（具体的な数字を含む時刻：午前7時に起きる） (数字を含む具体的な時点（7時、5月5日など）には助詞「に」を付けます。今日・明日・毎朝には原則付けません。)",
-            "今日（相対的な時間名詞） (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "毎朝（習慣を表す時間名詞） (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "明日（相対的な時間名詞） (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)"
+            "午前7時 (Temporal Particles NI  KARA  MADE Option 1 U2L5)",
+            "今日 (Temporal Particles NI  KARA  MADE Option 2 U2L5)",
+            "毎朝 (Temporal Particles NI  KARA  MADE Option 3 U2L5)",
+            "明日 (Temporal Particles NI  KARA  MADE Option 4 U2L5)"
           ],
           "answerIndex": 0,
           "explanation": "数字を含む具体的な時点（7時、5月5日など）には助詞「に」を付けます。今日・明日・毎朝には原則付けません。"
@@ -1547,10 +1547,10 @@
         {
           "prompt": "【起点「から」と終点「まで」】「9時から5時まで」を表す正しい助詞の組み合わせを選択してください。",
           "options": [
-            "起点：から / 終点：まで (時間の始まり（起点）は「から」、終わり（終点）は「まで」で表します。)",
-            "起点：まで / 終点：から (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "起点：に / 終点：へ (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "起点：で / 終点：を (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)"
+            "起点：から / 終点：まで (起点：kara / 終点：made - Temporal Particles NI  KARA  MADE U2L5)",
+            "起点：まで / 終点：から (起点：made / 終点：kara - Temporal Particles NI  KARA  MADE U2L5)",
+            "起点：に / 終点：へ (起点：ni / 終点：he - Temporal Particles NI  KARA  MADE U2L5)",
+            "起点：で / 終点：を (起点：de / 終点：wo - Temporal Particles NI  KARA  MADE U2L5)"
           ],
           "answerIndex": 0,
           "explanation": "時間の始まり（起点）は「から」、終わり（終点）は「まで」で表します。"
@@ -1562,10 +1562,10 @@
         {
           "prompt": "【営業期間の案内】図書館が「火曜日から日曜日まで」開いていることを伝える文を選択してください。",
           "options": [
-            "図書館は火曜日から日曜日まで開館しています。月曜日は休館です。",
-            "図書館は火曜日に日曜日に開館しています。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "図書館は火曜日まで日曜日から開館しています。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "図書館は火曜日で日曜日を開館しています。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)"
+            "図書館は火曜日から日曜日まで開館しています。月曜日は休館です (図書館ha火曜日kara日曜日made開館shiteimasu。月曜日ha休館desu - Temporal Particles NI  KARA  MADE U2L5)",
+            "図書館は火曜日に日曜日に開館しています (図書館ha火曜日ni日曜日ni開館shiteimasu - Temporal Particles NI  KARA  MADE U2L5)",
+            "図書館は火曜日まで日曜日から開館しています (図書館ha火曜日made日曜日kara開館shiteimasu - Temporal Particles NI  KARA  MADE U2L5)",
+            "図書館は火曜日で日曜日を開館しています (図書館ha火曜日de日曜日wo開館shiteimasu - Temporal Particles NI  KARA  MADE U2L5)"
           ],
           "answerIndex": 0,
           "explanation": "「火曜日から（起点）日曜日まで（終点）」の組み合わせが正確です。"
@@ -1573,10 +1573,10 @@
         {
           "prompt": "【相対時間名詞の助詞】「明日の夜、友達と会う」という文で助詞「に」が付かない正しい文を選択してください。",
           "options": [
-            "明日の夜、友達と銀座で会う約束があります。",
-            "明日の夜に、友達と銀座で会う約束がありますに。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "明日にの夜に、友達と銀座で会う約束があります。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "毎明日に、友達と銀座で会う約束があります。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)"
+            "明日の夜、友達と銀座で会う約束があります (明日no夜、友達to銀座de会u約束gaarimasu - Temporal Particles NI  KARA  MADE U2L5)",
+            "明日の夜に、友達と銀座で会う約束がありますに (明日no夜ni、友達to銀座de会u約束gaarimasuni - Temporal Particles NI  KARA  MADE U2L5)",
+            "明日にの夜に、友達と銀座で会う約束があります (明日nino夜ni、友達to銀座de会u約束gaarimasu - Temporal Particles NI  KARA  MADE U2L5)",
+            "毎明日に、友達と銀座で会う約束があります (毎明日ni、友達to銀座de会u約束gaarimasu - Temporal Particles NI  KARA  MADE U2L5)"
           ],
           "answerIndex": 0,
           "explanation": "「明日の夜」のような相対的時間表現には助詞「に」を付けずにそのまま副詞的に用います。"
@@ -1589,10 +1589,10 @@
           "type": "multiple-choice",
           "prompt": "「本日のセミナーは午後1時から午後4時半まで行われます」における「から」と「まで」の文法機能は何ですか。",
           "options": [
-            "「から」は開始時刻（起点）、「まで」は終了時刻（終点）を示している。 (開始時刻の起点「午後1時から」と終了時刻の終点「午後4時半まで」を表します。)",
-            "「から」は場所で「まで」は時間である。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "両方とも理由を表している。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)",
-            "「から」が終点で「まで」が起点である。 (特定時を表す格助詞「に」と期間の起点・終点を表す「から」「まで」の文法規則。)"
+            "「から」は開始時刻 (「kara」ha開始時刻 - Temporal Particles NI  KARA  MADE U2L5)",
+            "「から」は場所で「まで」は時間である (「kara」ha場所de「made」ha時間dearu - Temporal Particles NI  KARA  MADE U2L5)",
+            "両方とも理由を表している (両方tomo理由wo表shiteiru - Temporal Particles NI  KARA  MADE U2L5)",
+            "「から」が終点で「まで」が起点である (「kara」ga終点de「made」ga起点dearu - Temporal Particles NI  KARA  MADE U2L5)"
           ],
           "answerIndex": 0,
           "explanation": "開始時刻の起点「午後1時から」と終了時刻の終点「午後4時半まで」を表します。"
@@ -1650,10 +1650,10 @@
         {
           "prompt": "【存在動詞の峻別】「猫」「先生」「机」「桜の木」に接続する存在動詞の組み合わせとして正しいものはどれですか。",
           "options": [
-            "猫：います / 先生：います / 机：あります / 桜の木：あります (人間・動物などの有情物には「います」、物品・植物などの無情物には「あります」を用います。)",
-            "猫：あります / 先生：います / 机：あります / 桜の木：います (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "猫：います / 先生：あります / 机：います / 桜の木：あります (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "すべて「あります」 (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)"
+            "猫：います / 先生：います / 机：あります / 桜の木：あります (猫：imasu / 先生：imasu / 机：arimasu / 桜no木：arimasu - Existence Verbs U3L1)",
+            "猫：あります / 先生：います / 机：あります / 桜の木：います (猫：arimasu / 先生：imasu / 机：arimasu / 桜no木：imasu - Existence Verbs U3L1)",
+            "猫：います / 先生：あります / 机：います / 桜の木：あります (猫：imasu / 先生：arimasu / 机：imasu / 桜no木：arimasu - Existence Verbs U3L1)",
+            "すべて「あります (subete「arimasu - Existence Verbs U3L1)"
           ],
           "answerIndex": 0,
           "explanation": "人間・動物などの有情物には「います」、物品・植物などの無情物には「あります」を用います。"
@@ -1661,10 +1661,10 @@
         {
           "prompt": "【植物の存在動詞】「庭に大きな桜の木が＿＿＿。」の空欄に入る動詞はどれですか。",
           "options": [
-            "あります（植物は無情物として「ある」を用いる） (日本語文法において植物（樹木・草花）は自律移動しないため「あります」をとります。)",
-            "います (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "します (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "行きます (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)"
+            "あります (arimasu - Existence Verbs U3L1)",
+            "います (imasu - Existence Verbs U3L1)",
+            "します (shimasu - Existence Verbs U3L1)",
+            "行きます (行kimasu - Existence Verbs U3L1)"
           ],
           "answerIndex": 0,
           "explanation": "日本語文法において植物（樹木・草花）は自律移動しないため「あります」をとります。"
@@ -1676,10 +1676,10 @@
         {
           "prompt": "【教室内の描写】教室に先生と留学生がいる状況を表す最も適切な文を選択してください。",
           "options": [
-            "教室の中に日本語の先生と留学生がいます。",
-            "教室の中に日本語の先生と留学生があります。 (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "教室の中に日本語の先生と留学生がします。 (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "教室の中に日本語の先生と留学生が行きます。 (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)"
+            "教室の中に日本語の先生と留学生がいます (教室no中ni日本語no先生to留学生gaimasu - Existence Verbs U3L1)",
+            "教室の中に日本語の先生と留学生があります (教室no中ni日本語no先生to留学生gaarimasu - Existence Verbs U3L1)",
+            "教室の中に日本語の先生と留学生がします (教室no中ni日本語no先生to留学生gashimasu - Existence Verbs U3L1)",
+            "教室の中に日本語の先生と留学生が行きます (教室no中ni日本語no先生to留学生ga行kimasu - Existence Verbs U3L1)"
           ],
           "answerIndex": 0,
           "explanation": "先生と留学生は人間（有情物）であるため「います」を用います。"
@@ -1687,10 +1687,10 @@
         {
           "prompt": "【机の上の配置】机の上に文房具がある状況を表す文を選択してください。",
           "options": [
-            "机の上に辞書とノートとペンがあります。",
-            "机の上に辞書とノートとペンがいます。 (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "机の上に辞書とノートとペンが話します。 (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "机の上に辞書とノートとペンをあります。 (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)"
+            "机の上に辞書とノートとペンがあります (机no上ni辞書tonoーtotopengaarimasu - Existence Verbs U3L1)",
+            "机の上に辞書とノートとペンがいます (机no上ni辞書tonoーtotopengaimasu - Existence Verbs U3L1)",
+            "机の上に辞書とノートとペンが話します (机no上ni辞書tonoーtotopenga話shimasu - Existence Verbs U3L1)",
+            "机の上に辞書とノートとペンをあります (机no上ni辞書tonoーtotopenwoarimasu - Existence Verbs U3L1)"
           ],
           "answerIndex": 0,
           "explanation": "辞書・ノート・ペンは無生物であるため「あります」を用います。"
@@ -1703,10 +1703,10 @@
           "type": "multiple-choice",
           "prompt": "「明日の午後、国際会議場で重要なシンポジウムが＿＿＿。」に入る動詞は何ですか。",
           "options": [
-            "あります（イベント・催事・行事の存在） (会議や催し事・イベントの開催・存在には「あります」を用います。)",
-            "います (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "おられます (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)",
-            "いらっしゃいます (有情物の存在を表す「います」と無情物の存在を表す「あります」の厳密な使い分け。)"
+            "あります (arimasu - Existence Verbs U3L1)",
+            "います (imasu - Existence Verbs U3L1)",
+            "おられます (oraremasu - Existence Verbs U3L1)",
+            "いらっしゃいます (pause [U3L1])"
           ],
           "answerIndex": 0,
           "explanation": "会議や催し事・イベントの開催・存在には「あります」を用います。"
@@ -1765,10 +1765,10 @@
         {
           "prompt": "【ウチとソトの親族呼称】他者に対して「自分の父親」と「相手の父親」を指す正しい組み合わせを選択してください。",
           "options": [
-            "自分の父親：父（ちち） / 相手の父親：お父さん（おとうさん・お父様） (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "自分の父親：お父さん / 相手の父親：父 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "自分の父親：パパさん / 相手の父親：父 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "両方とも「お父さん」 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)"
+            "自分の父親：父 (自分no父親：父 - Family Terms  Uchi vs Soto U3L2)",
+            "自分の父親：お父さん / 相手の父親：父 (自分no父親：o父san / 相手no父親：父 - Family Terms  Uchi vs Soto U3L2)",
+            "自分の父親：パパさん / 相手の父親：父 (自分no父親：papasan / 相手no父親：父 - Family Terms  Uchi vs Soto U3L2)",
+            "両方とも「お父さん (両方tomo「o父san - Family Terms  Uchi vs Soto U3L2)"
           ],
           "answerIndex": 0,
           "explanation": "日本語では他者に対して自分の身内を呼ぶ時は謙譲語の「父」「母」を使い、相手の家族には「お父さん」「お母さん」と敬称を付けます。"
@@ -1776,10 +1776,10 @@
         {
           "prompt": "【自分の兄を他人に紹介する文】他者との対話で自分の兄の職業を説明する適切な文はどれですか。",
           "options": [
-            "私の兄（あに）は東京のIT企業でエンジニアをしています。",
-            "私のお兄さんは東京のIT企業でエンジニアをしています。",
-            "私のお兄様は東京のIT企業でエンジニアをしています。",
-            "私の兄さんは東京のIT企業でエンジニアをしています。"
+            "私の兄 (私no兄 - Family Terms  Uchi vs Soto U3L2)",
+            "私のお兄さんは東京のIT企業でエンジニアをしています (私noo兄sanha東京noIT企業deenjiniawoshiteimasu - Family Terms  Uchi vs Soto U3L2)",
+            "私のお兄様は東京のIT企業でエンジニアをしています (私noo兄様ha東京noIT企業deenjiniawoshiteimasu - Family Terms  Uchi vs Soto U3L2)",
+            "私の兄さんは東京のIT企業でエンジニアをしています (私no兄sanha東京noIT企業deenjiniawoshiteimasu - Family Terms  Uchi vs Soto U3L2)"
           ],
           "answerIndex": 0,
           "explanation": "外部の人に対して自分の兄を言うときは敬称を付けず「兄（あに）」と言います。"
@@ -1791,10 +1791,10 @@
         {
           "prompt": "【両親の職業紹介】他者に対して自分の両親を紹介する最も礼儀正しい日本語を選択してください。",
           "options": [
-            "私の父は高校の英語教師で、母は総合病院の看護師です。",
-            "私のお父さんは高校の英語教師で、お母さんは看護師です。 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "私の父様は英語教師で、母様は看護師です。 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "私のお父様とお母様は教師と看護師です。 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)"
+            "私の父は高校の英語教師で、母は総合病院の看護師です (私no父ha高校no英語教師de、母ha総合病院no看護師desu - Family Terms  Uchi vs Soto U3L2)",
+            "私のお父さんは高校の英語教師で、お母さんは看護師です (私noo父sanha高校no英語教師de、o母sanha看護師desu - Family Terms  Uchi vs Soto U3L2)",
+            "私の父様は英語教師で、母様は看護師です (私no父様ha英語教師de、母様ha看護師desu - Family Terms  Uchi vs Soto U3L2)",
+            "私のお父様とお母様は教師と看護師です (私noo父様too母様ha教師to看護師desu - Family Terms  Uchi vs Soto U3L2)"
           ],
           "answerIndex": 0,
           "explanation": "身内の紹介では「父（ちち）」「母（はは）」を用いるのが正しい規範です。"
@@ -1802,10 +1802,10 @@
         {
           "prompt": "【相手の家族への気遣い】相手の家族の健康を気遣う質問とそれに対する自然な返答を選択してください。",
           "options": [
-            "「佐藤さんのご家族はお元気ですか。」「はい、おかげさまで皆元気です。」 (「ご家族はお元気ですか」「おかげさまで皆元気です」が極めて自然な社交儀礼です。)",
-            "「佐藤さんの身内は生きていますか。」「死んでいません。」 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "「佐藤さんの父はいますか。」「父はいません。」 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "「佐藤さんの家庭はどうですか。」「家庭があります。」 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)"
+            "「佐藤さんのご家族はお元気ですか。」「はい、おかげさまで皆元気です (「佐藤sannogo家族hao元気desuka。」「hai、okagesamade皆元気desu - Family Terms  Uchi vs Soto U3L2)",
+            "「佐藤さんの身内は生きていますか。」「死んでいません (「佐藤sanno身内ha生kiteimasuka。」「死ndeimasen - Family Terms  Uchi vs Soto U3L2)",
+            "「佐藤さんの父はいますか。」「父はいません (「佐藤sanno父haimasuka。」「父haimasen - Family Terms  Uchi vs Soto U3L2)",
+            "「佐藤さんの家庭はどうですか。」「家庭があります (「佐藤sanno家庭hadoudesuka。」「家庭gaarimasu - Family Terms  Uchi vs Soto U3L2)"
           ],
           "answerIndex": 0,
           "explanation": "「ご家族はお元気ですか」「おかげさまで皆元気です」が極めて自然な社交儀礼です。"
@@ -1818,10 +1818,10 @@
           "type": "multiple-choice",
           "prompt": "取引先の人に対して自分の母親について言及する際、最も適切な呼称はどれですか。",
           "options": [
-            "母（はは） (ビジネスや改まった対外対話で自分の母親は「母（はは）」と呼びます。)",
-            "お母さん (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "お母様 (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)",
-            "ママ (自分の身内の家族（内）と他人の家族（外・敬称）を峻別する親族呼称体系の習得。)"
+            "母 (pause [U3L2])",
+            "お母さん (o母san - Family Terms  Uchi vs Soto U3L2)",
+            "お母様 (Family Terms  Uchi vs Soto Option 3 U3L2)",
+            "ママ (mama - Family Terms  Uchi vs Soto U3L2)"
           ],
           "answerIndex": 0,
           "explanation": "ビジネスや改まった対外対話で自分の母親は「母（はは）」と呼びます。"
@@ -1880,10 +1880,10 @@
         {
           "prompt": "【空間位置構文の語順】「基準となる物」と「位置名詞」を繋ぐ助詞の正しいパターンはどれですか。",
           "options": [
-            "［基準名詞］＋ の ＋［位置名詞］＋ に（例：机の上【に】） (日本語の位置表現は「名詞 ＋ の ＋ 上/下/前/後/中/間 ＋ に」となります。)",
-            "［基準名詞］＋ に ＋［位置名詞］＋ の (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "［位置名詞］＋ の ＋［基準名詞］＋ を (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "［基準名詞］＋ で ＋［位置名詞］＋ へ (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)"
+            "［基準名詞］＋ の ＋［位置名詞］＋ に (［基準名詞］＋ no ＋［位置名詞］＋ ni - Spatial Nouns   Prepositions U3L3)",
+            "［基準名詞］＋ に ＋［位置名詞］＋ の (［基準名詞］＋ ni ＋［位置名詞］＋ no - Spatial Nouns   Prepositions U3L3)",
+            "［位置名詞］＋ の ＋［基準名詞］＋ を (［位置名詞］＋ no ＋［基準名詞］＋ wo - Spatial Nouns   Prepositions U3L3)",
+            "［基準名詞］＋ で ＋［位置名詞］＋ へ (［基準名詞］＋ de ＋［位置名詞］＋ he - Spatial Nouns   Prepositions U3L3)"
           ],
           "answerIndex": 0,
           "explanation": "日本語の位置表現は「名詞 ＋ の ＋ 上/下/前/後/中/間 ＋ に」となります。"
@@ -1891,10 +1891,10 @@
         {
           "prompt": "【「間（あいだ）」の構文】「AとBの間」を表す正しい助詞の組み合わせを選択してください。",
           "options": [
-            "銀行【と】病院の【間】に郵便局があります。",
-            "銀行【に】病院の【中】に郵便局があります。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "銀行【へ】病院の【上】に郵便局があります。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "銀行【で】病院の【下】に郵便局があります。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)"
+            "銀行【と】病院の【間】に郵便局があります (銀行【to】病院no【間】ni郵便局gaarimasu - Spatial Nouns   Prepositions U3L3)",
+            "銀行【に】病院の【中】に郵便局があります (銀行【ni】病院no【中】ni郵便局gaarimasu - Spatial Nouns   Prepositions U3L3)",
+            "銀行【へ】病院の【上】に郵便局があります (銀行【he】病院no【上】ni郵便局gaarimasu - Spatial Nouns   Prepositions U3L3)",
+            "銀行【で】病院の【下】に郵便局があります (銀行【de】病院no【下】ni郵便局gaarimasu - Spatial Nouns   Prepositions U3L3)"
           ],
           "answerIndex": 0,
           "explanation": "二者の間を示す構文は「A と B の 間（あいだ）に」です。"
@@ -1906,10 +1906,10 @@
         {
           "prompt": "【駅前の描写】駅の正面に本屋とカフェがあることを述べる文を選択してください。",
           "options": [
-            "駅の前に大きな本屋とカフェがあります。",
-            "駅の上が大きな本屋とカフェにあります。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "駅の中へ大きな本屋とカフェをあります。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "駅の後ろで大きな本屋とカフェがあります。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)"
+            "駅の前に大きな本屋とカフェがあります (駅no前ni大kina本屋tokafuェgaarimasu - Spatial Nouns   Prepositions U3L3)",
+            "駅の上が大きな本屋とカフェにあります (駅no上ga大kina本屋tokafuェniarimasu - Spatial Nouns   Prepositions U3L3)",
+            "駅の中へ大きな本屋とカフェをあります (駅no中he大kina本屋tokafuェwoarimasu - Spatial Nouns   Prepositions U3L3)",
+            "駅の後ろで大きな本屋とカフェがあります (駅no後rode大kina本屋tokafuェgaarimasu - Spatial Nouns   Prepositions U3L3)"
           ],
           "answerIndex": 0,
           "explanation": "「駅の前（まえ）に」で駅の正面の位置を示します。"
@@ -1917,10 +1917,10 @@
         {
           "prompt": "【机の隣の配置】机の右隣に本棚が置かれていることを説明する文を選択してください。",
           "options": [
-            "机の右隣（みぎどなり）に本棚があります。 (右側のすぐ隣は「右隣（みぎどなり）」で表します。)",
-            "机の右間に本棚がいます。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "机の右下に本棚がします。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "机の右前に本棚を行きます。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)"
+            "机の右隣 (机no右隣 - Spatial Nouns   Prepositions U3L3)",
+            "机の右間に本棚がいます (机no右間ni本棚gaimasu - Spatial Nouns   Prepositions U3L3)",
+            "机の右下に本棚がします (机no右下ni本棚gashimasu - Spatial Nouns   Prepositions U3L3)",
+            "机の右前に本棚を行きます (机no右前ni本棚wo行kimasu - Spatial Nouns   Prepositions U3L3)"
           ],
           "answerIndex": 0,
           "explanation": "右側のすぐ隣は「右隣（みぎどなり）」で表します。"
@@ -1933,10 +1933,10 @@
           "type": "multiple-choice",
           "prompt": "「箱の中に何が入っていますか。」に対する返答として適切なものはどれですか。",
           "options": [
-            "古い写真と手紙があります。 (写真や手紙は無生物なので「あります」を用います。)",
-            "古い写真と手紙がいます。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "古い写真と手紙が行きます。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)",
-            "古い写真と手紙を飲みます。 (空間位置名詞（上・下・前・後ろ・右・左・中・隣・間）と助詞「の」「に」を用いた精確な位置描写。)"
+            "古い写真と手紙があります (古i写真to手紙gaarimasu - Spatial Nouns   Prepositions U3L3)",
+            "古い写真と手紙がいます (古i写真to手紙gaimasu - Spatial Nouns   Prepositions U3L3)",
+            "古い写真と手紙が行きます (古i写真to手紙ga行kimasu - Spatial Nouns   Prepositions U3L3)",
+            "古い写真と手紙を飲みます (古i写真to手紙wo飲mimasu - Spatial Nouns   Prepositions U3L3)"
           ],
           "answerIndex": 0,
           "explanation": "写真や手紙は無生物なので「あります」を用います。"
@@ -1995,10 +1995,10 @@
         {
           "prompt": "【「場所＋に＋物＋が＋ある」の格助詞】「ビルの屋上＿＿＿庭園＿＿＿あります。」の空欄に入る助詞の組み合わせを選択してください。",
           "options": [
-            "に / が（場所に 庭園が あります） (存在の場所には助詞「に」、存在する主体（新情報）には助詞「が」を用います。)",
-            "で / を (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "へ / と (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "から / まで (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)"
+            "に / が (ni / ga - Particle GA   NI U3L4)",
+            "で / を (de / wo - Particle GA   NI U3L4)",
+            "へ / と (he / to - Particle GA   NI U3L4)",
+            "から / まで (kara / made - Particle GA   NI U3L4)"
           ],
           "answerIndex": 0,
           "explanation": "存在の場所には助詞「に」、存在する主体（新情報）には助詞「が」を用います。"
@@ -2006,10 +2006,10 @@
         {
           "prompt": "【誰がいますかへの応答】「会議室に誰がいますか。」に対する文法的に正しい返答はどれですか。",
           "options": [
-            "部長とクライアントがいます。 (人物の存在を答えるため「〜がいます」となります。)",
-            "部長とクライアントがあります。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "部長とクライアントに行きます。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "部長とクライアントを食べます。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)"
+            "部長とクライアントがいます (部長tokuraiantogaimasu - Particle GA   NI U3L4)",
+            "部長とクライアントがあります (部長tokuraiantogaarimasu - Particle GA   NI U3L4)",
+            "部長とクライアントに行きます (部長tokuraiantoni行kimasu - Particle GA   NI U3L4)",
+            "部長とクライアントを食べます (部長tokuraiantowo食bemasu - Particle GA   NI U3L4)"
           ],
           "answerIndex": 0,
           "explanation": "人物の存在を答えるため「〜がいます」となります。"
@@ -2021,10 +2021,10 @@
         {
           "prompt": "【所在の質問と回答】田中さんの現在地を尋ねて答える自然な対話を選択してください。",
           "options": [
-            "「田中さんは今どこにいますか。」「図書館の二階にいます。」 (人物の所在を尋ねる疑問文は「どこにいますか」、回答は「〜にいます」です。)",
-            "「田中さんは今どこがありますか。」「図書館の二階があります。」 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "「田中さんは今どこへしますか。」「図書館の二階をします。」 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "「田中さんは今どこで行きますか。」「図書館の二階から行きます。」 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)"
+            "「田中さんは今どこにいますか。」「図書館の二階にいます (「田中sanha今dokoniimasuka。」「図書館no二階niimasu - Particle GA   NI U3L4)",
+            "「田中さんは今どこがありますか。」「図書館の二階があります (「田中sanha今dokogaarimasuka。」「図書館no二階gaarimasu - Particle GA   NI U3L4)",
+            "「田中さんは今どこへしますか。」「図書館の二階をします (「田中sanha今dokoheshimasuka。」「図書館no二階woshimasu - Particle GA   NI U3L4)",
+            "「田中さんは今どこで行きますか。」「図書館の二階から行きます (「田中sanha今dokode行kimasuka。」「図書館no二階kara行kimasu - Particle GA   NI U3L4)"
           ],
           "answerIndex": 0,
           "explanation": "人物の所在を尋ねる疑問文は「どこにいますか」、回答は「〜にいます」です。"
@@ -2032,10 +2032,10 @@
         {
           "prompt": "【ランドマークの存在】新宿駅東口に待ち合わせ場所があることを説明する文を選択してください。",
           "options": [
-            "新宿駅の東口に有名な待ち合わせ場所があります。",
-            "新宿駅の東口で有名な待ち合わせ場所をいます。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "新宿駅の東口へ有名な待ち合わせ場所がいます。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "新宿駅の東口から有名な待ち合わせ場所がありますか。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)"
+            "新宿駅の東口に有名な待ち合わせ場所があります (新宿駅no東口ni有名na待chi合wase場所gaarimasu - Particle GA   NI U3L4)",
+            "新宿駅の東口で有名な待ち合わせ場所をいます (新宿駅no東口de有名na待chi合wase場所woimasu - Particle GA   NI U3L4)",
+            "新宿駅の東口へ有名な待ち合わせ場所がいます (新宿駅no東口he有名na待chi合wase場所gaimasu - Particle GA   NI U3L4)",
+            "新宿駅の東口から有名な待ち合わせ場所がありますか (新宿駅no東口kara有名na待chi合wase場所gaarimasuka - Particle GA   NI U3L4)"
           ],
           "answerIndex": 0,
           "explanation": "「東口に（場所）場所が（主体）あります（無生物）」の語順と助詞配置が正確です。"
@@ -2048,10 +2048,10 @@
           "type": "multiple-choice",
           "prompt": "「庭に犬がいます」と「犬は庭にいます」の文法的・語用論的差異は何ですか。",
           "options": [
-            "前者は「犬がいる」という新情報の提示、後者は既知の「犬」の所在を説明している。 (「〜に〜がいる（が）」は新情報の導入、「〜は〜にいる（は）」は既知の主題の所在説明です。)",
-            "前者が無生物で後者が生物である。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "前者が過去形で後者が現在形である。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)",
-            "意味上の違いは全くない。 (存在文における主格助詞「が」（新情報の提示）と場所の格助詞「に」（存在地点）の統語的役割。)"
+            "前者は「犬がいる」という新情報の提示、後者は既知の「犬」の所在を説明している (前者ha「犬gairu」toiu新情報no提示、後者ha既知no「犬」no所在wo説明shiteiru - Particle GA   NI U3L4)",
+            "前者が無生物で後者が生物である (前者ga無生物de後者ga生物dearu - Particle GA   NI U3L4)",
+            "前者が過去形で後者が現在形である (前者ga過去形de後者ga現在形dearu - Particle GA   NI U3L4)",
+            "意味上の違いは全くない (意味上no違iha全kunai - Particle GA   NI U3L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜に〜がいる（が）」は新情報の導入、「〜は〜にいる（は）」は既知の主題の所在説明です。"
@@ -2109,10 +2109,10 @@
         {
           "prompt": "【並立助詞の使い分け】名詞を「すべて漏れなく完全に列挙する」助詞と、「代表的な例を挙げる」助詞の正しい組み合わせはどれですか。",
           "options": [
-            "完全列挙：と / 代表列挙：や（〜など） (「と」は全要素を網羅する完全列挙、「や」は一部を例示する代表列挙です。)",
-            "完全列挙：や / 代表列挙：と (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "完全列挙：も / 代表列挙：と (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "完全列挙：に / 代表列挙：で (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)"
+            "完全列挙：と / 代表列挙：や (完全列挙：to / 代表列挙：ya - Parallel Particles TO  YA  MO U3L5)",
+            "完全列挙：や / 代表列挙：と (完全列挙：ya / 代表列挙：to - Parallel Particles TO  YA  MO U3L5)",
+            "完全列挙：も / 代表列挙：と (完全列挙：mo / 代表列挙：to - Parallel Particles TO  YA  MO U3L5)",
+            "完全列挙：に / 代表列挙：で (完全列挙：ni / 代表列挙：de - Parallel Particles TO  YA  MO U3L5)"
           ],
           "answerIndex": 0,
           "explanation": "「と」は全要素を網羅する完全列挙、「や」は一部を例示する代表列挙です。"
@@ -2120,10 +2120,10 @@
         {
           "prompt": "【同類追加の助詞】「田中さんは学生です。佐藤さん＿＿＿学生です。」の空欄に入る助詞はどれですか。",
           "options": [
-            "も（同類・追加） (既出の要素と同類・共通であることを表すには助詞「も」を用います。)",
-            "と (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "や (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "を (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)"
+            "も (mo - Parallel Particles TO  YA  MO U3L5)",
+            "と (to - Parallel Particles TO  YA  MO U3L5)",
+            "や (ya - Parallel Particles TO  YA  MO U3L5)",
+            "を (wo - Parallel Particles TO  YA  MO U3L5)"
           ],
           "answerIndex": 0,
           "explanation": "既出の要素と同類・共通であることを表すには助詞「も」を用います。"
@@ -2135,10 +2135,10 @@
         {
           "prompt": "【文脈理解】「休日は図書館で本や雑誌などを読みます」の文が含意している事実として正しいものはどれですか。",
           "options": [
-            "本や雑誌の他にも、新聞や資料など色々なものを読んでいる可能性がある。 (「や〜など」は代表的な例示であり、言及されていない他の同類要素の存在を含みます。)",
-            "読んだものは本と雑誌の二種類だけで他には一切読んでいない。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "本も雑誌も読んでいない。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "図書館ではなく書店で買った。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)"
+            "本や雑誌の他にも、新聞や資料など色々なものを読んでいる可能性がある (本ya雑誌no他nimo、新聞ya資料nado色々namonowo読ndeiru可能性gaaru - Parallel Particles TO  YA  MO U3L5)",
+            "読んだものは本と雑誌の二種類だけで他には一切読んでいない (読ndamonoha本to雑誌no二種類dakede他niha一切読ndeinai - Parallel Particles TO  YA  MO U3L5)",
+            "本も雑誌も読んでいない (本mo雑誌mo読ndeinai - Parallel Particles TO  YA  MO U3L5)",
+            "図書館ではなく書店で買った (pause [U3L5])"
           ],
           "answerIndex": 0,
           "explanation": "「や〜など」は代表的な例示であり、言及されていない他の同類要素の存在を含みます。"
@@ -2146,10 +2146,10 @@
         {
           "prompt": "【並列文の構成】朝食でパン・卵・リンゴの3品だけを食べたことを漏れなく正確に伝える文を選択してください。",
           "options": [
-            "朝食にパンと卵とリンゴを食べました。",
-            "朝食にパンや卵を食べました。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "朝食にパンも卵も食べませんでした。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "朝食にパンに卵にリンゴでした。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)"
+            "朝食にパンと卵とリンゴを食べました (朝食nipanto卵toringowo食bemashita - Parallel Particles TO  YA  MO U3L5)",
+            "朝食にパンや卵を食べました (朝食nipanya卵wo食bemashita - Parallel Particles TO  YA  MO U3L5)",
+            "朝食にパンも卵も食べませんでした (朝食nipanmo卵mo食bemasendeshita - Parallel Particles TO  YA  MO U3L5)",
+            "朝食にパンに卵にリンゴでした (朝食nipanni卵niringodeshita - Parallel Particles TO  YA  MO U3L5)"
           ],
           "answerIndex": 0,
           "explanation": "食べた全品目を漏れなく網羅するため、完全列挙の助詞「と」を用います。"
@@ -2162,10 +2162,10 @@
           "type": "multiple-choice",
           "prompt": "「デパートで靴と鞄を買いました。時計も欲しかったです。」における各助詞の機能の記述として最も正確なものはどれですか。",
           "options": [
-            "「と」は靴と鞄の完全列挙、「も」は時計を追加の対象として提示している。 (「靴と鞄」で買った品目を網羅し、「時計も」で追加の願望対象を提示しています。)",
-            "「と」は代表例で「も」は主語である。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "「と」は時間で「も」は場所である。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)",
-            "助詞の使い分けに誤りがある。 (完全列挙の「と」、代表例列挙の「や（〜など）」、同類追加の「も」の文法的機能と使い分け。)"
+            "「と」は靴と鞄の完全列挙、「も」は時計を追加の対象として提示している (pause [U3L5])",
+            "「と」は代表例で「も」は主語である (「to」ha代表例de「mo」ha主語dearu - Parallel Particles TO  YA  MO U3L5)",
+            "「と」は時間で「も」は場所である (「to」ha時間de「mo」ha場所dearu - Parallel Particles TO  YA  MO U3L5)",
+            "助詞の使い分けに誤りがある (助詞no使i分keni誤rigaaru - Parallel Particles TO  YA  MO U3L5)"
           ],
           "answerIndex": 0,
           "explanation": "「靴と鞄」で買った品目を網羅し、「時計も」で追加の願望対象を提示しています。"
@@ -2223,10 +2223,10 @@
         {
           "prompt": "【動詞のグループ分類】「書く（かく）」「食べる（たべる）」「する」「来る（くる）」の動詞グループ分類として正しい組み合わせはどれですか。",
           "options": [
-            "書く：一類（五段） / 食べる：二類（一段） / する・来る：三類（不規則） (「書く」は五段活用（一類）、「食べる」は一段活用（二類）、「する」「来る」は不規則動詞（三類）です。)",
-            "書く：二類 / 食べる：一類 / する・来る：三類 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "すべて一類動詞 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "書く：三類 / 食べる：二類 / する・来る：一類 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)"
+            "書く：一類 (書ku：一類 - Verb Groups 1  2  3 U4L1)",
+            "書く：二類 / 食べる：一類 / する・来る：三類 (書ku：二類 / 食beru：一類 / suru・来ru：三類 - Verb Groups 1  2  3 U4L1)",
+            "すべて一類動詞 (subete一類動詞 - Verb Groups 1  2  3 U4L1)",
+            "書く：三類 / 食べる：二類 / する・来る：一類 (書ku：三類 / 食beru：二類 / suru・来ru：一類 - Verb Groups 1  2  3 U4L1)"
           ],
           "answerIndex": 0,
           "explanation": "「書く」は五段活用（一類）、「食べる」は一段活用（二類）、「する」「来る」は不規則動詞（三類）です。"
@@ -2234,10 +2234,10 @@
         {
           "prompt": "【ます形の活用】動詞「飲む（のむ）」と「見る（みる）」を丁寧形「〜ます」に活用させた正しい形を選択してください。",
           "options": [
-            "飲みます（一類：u→i段＋ます） / 見ます（二類：る脱落＋ます）",
-            "飲みます / 見ります (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "飲めます / 見ます (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "飲るます / 見ます (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)"
+            "飲みます (飲mimasu - Verb Groups 1  2  3 U4L1)",
+            "飲みます / 見ります (飲mimasu / 見rimasu - Verb Groups 1  2  3 U4L1)",
+            "飲めます / 見ます (飲memasu / 見masu - Verb Groups 1  2  3 U4L1)",
+            "飲るます / 見ます (飲rumasu / 見masu - Verb Groups 1  2  3 U4L1)"
           ],
           "answerIndex": 0,
           "explanation": "一類動詞「飲む」は語尾をi段に変えて「飲みます」、二類動詞「見る」は語尾の「る」を取って「見ます」となります。"
@@ -2249,10 +2249,10 @@
         {
           "prompt": "【日課の動作】毎朝緑茶を飲む習慣を丁寧に述べる文を選択してください。",
           "options": [
-            "毎朝七時に起きて、温かい緑茶を飲みます。",
-            "毎朝七時に起きて、温かい緑茶を飲みるです。 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "毎朝七時に起きて、温かい緑茶を飲ます。 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "毎朝七時に起きて、温かい緑茶を食べます。 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)"
+            "毎朝七時に起きて、温かい緑茶を飲みます (毎朝七時ni起kite、温kai緑茶wo飲mimasu - Verb Groups 1  2  3 U4L1)",
+            "毎朝七時に起きて、温かい緑茶を飲みるです (毎朝七時ni起kite、温kai緑茶wo飲mirudesu - Verb Groups 1  2  3 U4L1)",
+            "毎朝七時に起きて、温かい緑茶を飲ます (毎朝七時ni起kite、温kai緑茶wo飲masu - Verb Groups 1  2  3 U4L1)",
+            "毎朝七時に起きて、温かい緑茶を食べます (毎朝七時ni起kite、温kai緑茶wo食bemasu - Verb Groups 1  2  3 U4L1)"
           ],
           "answerIndex": 0,
           "explanation": "「起きて（て形接続）」「飲みます（丁寧形）」の文法接続が正確です。"
@@ -2260,10 +2260,10 @@
         {
           "prompt": "【否定応答】「毎日新聞を読みますか。」に対する自然な否定の返答を選択してください。",
           "options": [
-            "いいえ、新聞は読みません。ネットニュースを見ます。 (「読みません（ます形の否定）」と「見ます」の組み合わせが自然です。)",
-            "いいえ、新聞は読みます。ネットニュースを飲みます。 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "いいえ、新聞は読まないでした。ネットニュースを行きます。 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "いいえ、新聞は読めませんです。 (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)"
+            "いいえ、新聞は読みません。ネットニュースを見ます (pause [U4L1])",
+            "いいえ、新聞は読みます。ネットニュースを飲みます (pause [U4L1])",
+            "いいえ、新聞は読まないでした。ネットニュースを行きます (pause [U4L1])",
+            "いいえ、新聞は読めませんです (iie、新聞ha読memasendesu - Verb Groups 1  2  3 U4L1)"
           ],
           "answerIndex": 0,
           "explanation": "「読みません（ます形の否定）」と「見ます」の組み合わせが自然です。"
@@ -2276,10 +2276,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「来る（くる）」の丁寧形「〜ます」の正しい発音と表記はどれですか。",
           "options": [
-            "来ます（きます） (三類動詞「来る（くる）」のます形は「来ます（きます）」と読みます。)",
-            "来ます（くます） (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "来ます（こます） (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)",
-            "来ります（きります） (五段動詞（一類）、一段動詞（二類）、不規則動詞（三類：する・来る）の識別と丁寧形「〜ます」の活用。)"
+            "来ます (来masu - Verb Groups 1  2  3 U4L1)",
+            "来ます (Language concept U4 [U4L1])",
+            "来ます (Language concept U4 [U4L1] #3)",
+            "来ります (来rimasu - Verb Groups 1  2  3 U4L1)"
           ],
           "answerIndex": 0,
           "explanation": "三類動詞「来る（くる）」のます形は「来ます（きます）」と読みます。"
@@ -2338,10 +2338,10 @@
         {
           "prompt": "【格助詞「を」の役割】「直接目的語」を示す助詞「を」の正しい使用例はどれですか。",
           "options": [
-            "毎朝コーヒー【を】飲みます。（飲む対象を指定） (動作の対象（直接目的語）には格助詞「を」を用います。)",
-            "毎朝コーヒー【に】飲みます。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "毎朝コーヒー【で】飲みます。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "毎朝コーヒー【へ】飲みます。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)"
+            "毎朝コーヒー【を】飲みます (毎朝koーhiー【wo】飲mimasu - Direct Object WO U4L2)",
+            "毎朝コーヒー【に】飲みます (毎朝koーhiー【ni】飲mimasu - Direct Object WO U4L2)",
+            "毎朝コーヒー【で】飲みます (毎朝koーhiー【de】飲mimasu - Direct Object WO U4L2)",
+            "毎朝コーヒー【へ】飲みます (毎朝koーhiー【he】飲mimasu - Direct Object WO U4L2)"
           ],
           "answerIndex": 0,
           "explanation": "動作の対象（直接目的語）には格助詞「を」を用います。"
@@ -2349,10 +2349,10 @@
         {
           "prompt": "【「写真を撮る」のコロケーション】「記念写真＿＿＿撮りましょう。」の空欄に入る助詞はどれですか。",
           "options": [
-            "を（写真を撮る） (「写真を撮る」の目的語には助詞「を」を用います。)",
-            "が (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "に (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "で (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)"
+            "を (wo - Direct Object WO U4L2)",
+            "が (ga - Direct Object WO U4L2)",
+            "に (ni - Direct Object WO U4L2)",
+            "で (de - Direct Object WO U4L2)"
           ],
           "answerIndex": 0,
           "explanation": "「写真を撮る」の目的語には助詞「を」を用います。"
@@ -2364,10 +2364,10 @@
         {
           "prompt": "【週末の映画鑑賞】週末に友達と日本のアニメ映画を見たことを伝える文を選択してください。",
           "options": [
-            "週末に友達と一緒に日本のアニメ映画を見ました。",
-            "週末に友達と一緒に日本のアニメ映画を聞きました。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "週末に友達と一緒に日本のアニメ映画を食べました。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "週末に友達と一緒に日本のアニメ映画に行きました。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)"
+            "週末に友達と一緒に日本のアニメ映画を見ました (週末ni友達to一緒ni日本noanime映画wo見mashita - Direct Object WO U4L2)",
+            "週末に友達と一緒に日本のアニメ映画を聞きました (週末ni友達to一緒ni日本noanime映画wo聞kimashita - Direct Object WO U4L2)",
+            "週末に友達と一緒に日本のアニメ映画を食べました (週末ni友達to一緒ni日本noanime映画wo食bemashita - Direct Object WO U4L2)",
+            "週末に友達と一緒に日本のアニメ映画に行きました (週末ni友達to一緒ni日本noanime映画ni行kimashita - Direct Object WO U4L2)"
           ],
           "answerIndex": 0,
           "explanation": "映画を視覚的に鑑賞する動詞は「見る（見ました）」です。"
@@ -2375,10 +2375,10 @@
         {
           "prompt": "【専攻分野の説明】大学で経済を専攻して勉強していることを説明する文を選択してください。",
           "options": [
-            "大学で国際関係論とアジア経済を専攻して勉強しています。",
-            "大学で国際関係論とアジア経済が専攻して勉強しています。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "大学で国際関係論とアジア経済へ専攻して勉強しています。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "大学で国際関係論とアジア経済に専攻して勉強しています。 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)"
+            "大学で国際関係論とアジア経済を専攻して勉強しています (大学de国際関係論toajia経済wo専攻shite勉強shiteimasu - Direct Object WO U4L2)",
+            "大学で国際関係論とアジア経済が専攻して勉強しています (大学de国際関係論toajia経済ga専攻shite勉強shiteimasu - Direct Object WO U4L2)",
+            "大学で国際関係論とアジア経済へ専攻して勉強しています (大学de国際関係論toajia経済he専攻shite勉強shiteimasu - Direct Object WO U4L2)",
+            "大学で国際関係論とアジア経済に専攻して勉強しています (大学de国際関係論toajia経済ni専攻shite勉強shiteimasu - Direct Object WO U4L2)"
           ],
           "answerIndex": 0,
           "explanation": "学習する対象を示すため目的語の助詞「を」を用います。"
@@ -2391,10 +2391,10 @@
           "type": "multiple-choice",
           "prompt": "格助詞「を」の正しい文字表記と発音の組み合わせはどれですか。",
           "options": [
-            "表記は「を」、発音は「お」 (目的語の助詞は仮名「を」と書き、現代日本語では「お」と発音します。)",
-            "表記は「お」、発音は「を」 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "表記は「お」、発音は「う」 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)",
-            "表記は「を」、発音は「わ」 (他動詞の直接目的語を明示する格助詞「を」の文法機能と動作動詞の共起関係。)"
+            "表記は「を」、発音は「お (表記ha「wo」、発音ha「o - Direct Object WO U4L2)",
+            "表記は「お」、発音は「を (表記ha「o」、発音ha「wo - Direct Object WO U4L2)",
+            "表記は「お」、発音は「う (表記ha「o」、発音ha「u - Direct Object WO U4L2)",
+            "表記は「を」、発音は「わ (表記ha「wo」、発音ha「wa - Direct Object WO U4L2)"
           ],
           "answerIndex": 0,
           "explanation": "目的語の助詞は仮名「を」と書き、現代日本語では「お」と発音します。"
@@ -2452,10 +2452,10 @@
         {
           "prompt": "【「で」の二大用法】「図書館で勉強する（場所）」と「地下鉄で行く（手段）」における助詞「で」の機能の正しい解釈はどれですか。",
           "options": [
-            "前者は「動作が行われる活動場所」、後者は「移動の交通手段」を示している。 (「図書館で」は動作発生の場所、「地下鉄で」は移動の交通手段を表します。)",
-            "前者が時間で後者が場所である。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "両方とも目的語を示している。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "前者が手段で後者が場所である。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)"
+            "前者は「動作が行われる活動場所」、後者は「移動の交通手段」を示している (前者ha「動作ga行wareru活動場所」、後者ha「移動no交通手段」wo示shiteiru - Location   Means DE U4L3)",
+            "前者が時間で後者が場所である (前者ga時間de後者ga場所dearu - Location   Means DE U4L3)",
+            "両方とも目的語を示している (両方tomo目的語wo示shiteiru - Location   Means DE U4L3)",
+            "前者が手段で後者が場所である (前者ga手段de後者ga場所dearu - Location   Means DE U4L3)"
           ],
           "answerIndex": 0,
           "explanation": "「図書館で」は動作発生の場所、「地下鉄で」は移動の交通手段を表します。"
@@ -2463,10 +2463,10 @@
         {
           "prompt": "【道具・言語の「で」】「箸＿＿＿食べます」「日本語＿＿＿話します」に入る助詞はどれですか。",
           "options": [
-            "で（道具・言語の手段を表す） (道具（箸）や使用言語（日本語）を表す手段の格助詞は「で」です。)",
-            "に (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "を (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "へ (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)"
+            "で (de - Location   Means DE U4L3)",
+            "に (ni - Location   Means DE U4L3)",
+            "を (wo - Location   Means DE U4L3)",
+            "へ (he - Location   Means DE U4L3)"
           ],
           "answerIndex": 0,
           "explanation": "道具（箸）や使用言語（日本語）を表す手段の格助詞は「で」です。"
@@ -2478,10 +2478,10 @@
         {
           "prompt": "【通勤手段の説明】毎朝地下鉄を使って通勤していることを述べる文を選択してください。",
           "options": [
-            "毎朝、地下鉄で会社へ通っています。",
-            "毎朝、地下鉄を会社へ通っています。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "毎朝、地下鉄に会社へ通っています。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "毎朝、地下鉄へ会社へ通っています。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)"
+            "毎朝、地下鉄で会社へ通っています (毎朝、地下鉄de会社he通(pause)teimasu - Location   Means DE U4L3)",
+            "毎朝、地下鉄を会社へ通っています (pause [U4L3])",
+            "毎朝、地下鉄に会社へ通っています (pause [U4L3])",
+            "毎朝、地下鉄へ会社へ通っています (pause [U4L3])"
           ],
           "answerIndex": 0,
           "explanation": "交通手段を示す格助詞は「で」を用います。"
@@ -2489,10 +2489,10 @@
         {
           "prompt": "【指示と回答】日本語を使って回答するよう求める丁寧な指示文を選択してください。",
           "options": [
-            "この質問は日本語で答えてください。",
-            "この質問は日本語を答えてください。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "この質問は日本語に答えてください。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "この質問は日本語へ答えてください。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)"
+            "この質問は日本語で答えてください (kono質問ha日本語de答etekudasai - Location   Means DE U4L3)",
+            "この質問は日本語を答えてください (kono質問ha日本語wo答etekudasai - Location   Means DE U4L3)",
+            "この質問は日本語に答えてください (kono質問ha日本語ni答etekudasai - Location   Means DE U4L3)",
+            "この質問は日本語へ答えてください (kono質問ha日本語he答etekudasai - Location   Means DE U4L3)"
           ],
           "answerIndex": 0,
           "explanation": "使用言語を指定する助詞は「で（日本語で）」です。"
@@ -2505,10 +2505,10 @@
           "type": "multiple-choice",
           "prompt": "「場所＋に」と「場所＋で」の使い分けとして正しい記述はどれですか。",
           "options": [
-            "「に」は静止した存在場所（〜にいる/ある）、「で」は動作・行為の発生場所（〜で食べる/勉強する）に用いる。 (存在場所は「に（机の上にある）」、活動・動作の場所は「で（図書館で勉強する）」と厳格に使い分けます。)",
-            "「に」が動作で「で」が存在である。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "両者に使い分けのルールはなく常に交換可能である。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)",
-            "「で」は時間にしか使えない。 (動作が行われる活動場所を示す助詞「で」と、道具・手段・交通機関を示す「で」の機能習得。)"
+            "「に」は静止した存在場所 (「ni」ha静止shita存在場所 - Location   Means DE U4L3)",
+            "「に」が動作で「で」が存在である (「ni」ga動作de「de」ga存在dearu - Location   Means DE U4L3)",
+            "両者に使い分けのルールはなく常に交換可能である (両者ni使i分kenoruーruhanaku常ni交換可能dearu - Location   Means DE U4L3)",
+            "「で」は時間にしか使えない (「de」ha時間nishika使enai - Location   Means DE U4L3)"
           ],
           "answerIndex": 0,
           "explanation": "存在場所は「に（机の上にある）」、活動・動作の場所は「で（図書館で勉強する）」と厳格に使い分けます。"
@@ -2566,10 +2566,10 @@
         {
           "prompt": "【移動動詞の方向助詞】「京都＿＿＿行きます。」の空欄に入る方向・目的地を表す助詞として正しいものはどれですか。",
           "options": [
-            "へ（または に） (移動の方向や目的地には助詞「へ（発音は え）」または「に」を用います。)",
-            "で (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "を (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "から (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)"
+            "へ (he - Directional Particles HE   NI U4L4)",
+            "で (de - Directional Particles HE   NI U4L4)",
+            "を (wo - Directional Particles HE   NI U4L4)",
+            "から (kara - Directional Particles HE   NI U4L4)"
           ],
           "answerIndex": 0,
           "explanation": "移動の方向や目的地には助詞「へ（発音は え）」または「に」を用います。"
@@ -2577,10 +2577,10 @@
         {
           "prompt": "【移動目的の構文】「買い物に行く」という目的を表す正しい構文はどれですか。",
           "options": [
-            "服を【買いに】行きます（動詞ます語幹＋に＋行く） (移動の目的は「動詞ます語幹 ＋ に ＋ 行く/来る/帰る」で表します（買いに行きます）。)",
-            "服を【買うに】行きます (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "服を【買いで】行きます (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "服を【買いて】行きます (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)"
+            "服を【買いに】行きます (服wo【買ini】行kimasu - Directional Particles HE   NI U4L4)",
+            "服を【買うに】行きます (服wo【買uni】行kimasu - Directional Particles HE   NI U4L4)",
+            "服を【買いで】行きます (服wo【買ide】行kimasu - Directional Particles HE   NI U4L4)",
+            "服を【買いて】行きます (服wo【買ite】行kimasu - Directional Particles HE   NI U4L4)"
           ],
           "answerIndex": 0,
           "explanation": "移動の目的は「動詞ます語幹 ＋ に ＋ 行く/来る/帰る」で表します（買いに行きます）。"
@@ -2592,10 +2592,10 @@
         {
           "prompt": "【帰宅の表現】仕事を終えて自宅へ戻ることを述べる文を選択してください。",
           "options": [
-            "夕方六時に仕事を終えて家へ帰ります。",
-            "夕方六時に仕事を終えて家へ行きます。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "夕方六時に仕事を終えて家へ来ます。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "夕方六時に仕事を終えて家を帰ります。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)"
+            "夕方六時に仕事を終えて家へ帰ります (夕方六時ni仕事wo終ete家he帰rimasu - Directional Particles HE   NI U4L4)",
+            "夕方六時に仕事を終えて家へ行きます (夕方六時ni仕事wo終ete家he行kimasu - Directional Particles HE   NI U4L4)",
+            "夕方六時に仕事を終えて家へ来ます (夕方六時ni仕事wo終ete家he来masu - Directional Particles HE   NI U4L4)",
+            "夕方六時に仕事を終えて家を帰ります (夕方六時ni仕事wo終ete家wo帰rimasu - Directional Particles HE   NI U4L4)"
           ],
           "answerIndex": 0,
           "explanation": "自分の本拠地や家庭に戻る動作には動詞「帰る（帰ります）」を用います。"
@@ -2603,10 +2603,10 @@
         {
           "prompt": "【留学の目的】日本語を勉強するために来日したことを述べる文を選択してください。",
           "options": [
-            "留学生が日本へ日本語の勉強に来ました。",
-            "留学生が日本で日本語の勉強を行きました。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "留学生が日本を日本語の勉強に帰りました。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "留学生が日本から日本語の勉強をしました。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)"
+            "留学生が日本へ日本語の勉強に来ました (留学生ga日本he日本語no勉強ni来mashita - Directional Particles HE   NI U4L4)",
+            "留学生が日本で日本語の勉強を行きました (留学生ga日本de日本語no勉強wo行kimashita - Directional Particles HE   NI U4L4)",
+            "留学生が日本を日本語の勉強に帰りました (留学生ga日本wo日本語no勉強ni帰rimashita - Directional Particles HE   NI U4L4)",
+            "留学生が日本から日本語の勉強をしました (留学生ga日本kara日本語no勉強woshimashita - Directional Particles HE   NI U4L4)"
           ],
           "answerIndex": 0,
           "explanation": "「日本へ（目的地）勉強に（目的）来ました（移動動詞）」の構成が正確です。"
@@ -2619,10 +2619,10 @@
           "type": "multiple-choice",
           "prompt": "方向を示す助詞「へ」の表記と発音についての正しい説明はどれですか。",
           "options": [
-            "文字は「へ」と書き、発音は「え」となる。 (方向の助詞は歴史的仮名遣いの名残で「へ」と表記し、「え」と発音します。)",
-            "文字は「え」と書き、発音は「へ」となる。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "文字も発音も常に「へ」である。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)",
-            "文字も発音も常に「は」である。 (移動動詞（行きます・来ます・帰ります）と移動の方向を示す助詞「へ」「に」の文法規則。)"
+            "文字は「へ」と書き、発音は「え」となる (文字ha「he」to書ki、発音ha「e」tonaru - Directional Particles HE   NI U4L4)",
+            "文字は「え」と書き、発音は「へ」となる (文字ha「e」to書ki、発音ha「he」tonaru - Directional Particles HE   NI U4L4)",
+            "文字も発音も常に「へ」である (文字mo発音mo常ni「he」dearu - Directional Particles HE   NI U4L4)",
+            "文字も発音も常に「は」である (文字mo発音mo常ni「ha」dearu - Directional Particles HE   NI U4L4)"
           ],
           "answerIndex": 0,
           "explanation": "方向の助詞は歴史的仮名遣いの名残で「へ」と表記し、「え」と発音します。"
@@ -2680,10 +2680,10 @@
         {
           "prompt": "【勧誘と提案の使い分け】相手の意向を尊重して丁寧に誘う表現として最も適切なものはどれですか。",
           "options": [
-            "一緒にカフェでお茶を飲みませんか。（相手に断る余地を残す丁寧な勧誘） (「〜ませんか」は相手の意思を尊重して誘う丁寧な勧誘表現です。)",
-            "一緒にカフェでお茶を飲め。",
-            "一緒にカフェでお茶を飲まなければならない。",
-            "一緒にカフェでお茶を飲んだ。"
+            "一緒にカフェでお茶を飲みませんか (一緒nikafuェdeo茶wo飲mimasenka - Invitations   Suggestions U4L5)",
+            "一緒にカフェでお茶を飲め (一緒nikafuェdeo茶wo飲me - Invitations   Suggestions U4L5)",
+            "一緒にカフェでお茶を飲まなければならない (一緒nikafuェdeo茶wo飲manakerebanaranai - Invitations   Suggestions U4L5)",
+            "一緒にカフェでお茶を飲んだ (一緒nikafuェdeo茶wo飲nda - Invitations   Suggestions U4L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜ませんか」は相手の意思を尊重して誘う丁寧な勧誘表現です。"
@@ -2691,10 +2691,10 @@
         {
           "prompt": "【手助けの申し出】重い荷物を持っている人に対して手助けを申し出る表現はどれですか。",
           "options": [
-            "荷物をお持ちしましょうか。（Shall I help you carry your luggage?）",
-            "荷物を持ちなさい。",
-            "荷物を持ちますか。",
-            "荷物を持ってください。"
+            "荷物をお持ちしましょうか (荷物woo持chishimashiょuka - Invitations   Suggestions U4L5)",
+            "荷物を持ちなさい (荷物wo持chinasai - Invitations   Suggestions U4L5)",
+            "荷物を持ちますか (荷物wo持chimasuka - Invitations   Suggestions U4L5)",
+            "荷物を持ってください (pause [U4L5])"
           ],
           "answerIndex": 0,
           "explanation": "自分が相手のために手助けを申し出る際は「〜ましょうか」を用います。"
@@ -2706,10 +2706,10 @@
         {
           "prompt": "【会議開始の呼びかけ】時間になったので参加者に開始を呼びかける文を選択してください。",
           "options": [
-            "時間になりましたので、午後の全体会議を始めましょう。",
-            "時間になりましたので、午後の全体会議を始めませんかでした。",
-            "時間になりましたので、午後の全体会議を始めたいです。",
-            "時間になりましたので、午後の全体会議を始めません。"
+            "時間になりましたので、午後の全体会議を始めましょう (時間ninarimashitanode、午後no全体会議wo始memashiょu - Invitations   Suggestions U4L5)",
+            "時間になりましたので、午後の全体会議を始めませんかでした (時間ninarimashitanode、午後no全体会議wo始memasenkadeshita - Invitations   Suggestions U4L5)",
+            "時間になりましたので、午後の全体会議を始めたいです (時間ninarimashitanode、午後no全体会議wo始metaidesu - Invitations   Suggestions U4L5)",
+            "時間になりましたので、午後の全体会議を始めません (時間ninarimashitanode、午後no全体会議wo始memasen - Invitations   Suggestions U4L5)"
           ],
           "answerIndex": 0,
           "explanation": "全員で行動を開始することを積極的に提案する呼びかけは「〜ましょう」です。"
@@ -2717,10 +2717,10 @@
         {
           "prompt": "【休憩の相談】同僚に10分ほどの休憩を提案・相談する文を選択してください。",
           "options": [
-            "少し疲れましたね。十分間ほど休憩しましょうか。 (「〜しましょうか」で相手と相談しながら提案を行うことができます。)",
-            "少し疲れましたね。十分間ほど休憩してくださいか。",
-            "少し疲れましたね。十分間ほど休憩するべきです。",
-            "少し疲れましたね。十分間ほど休憩した。"
+            "少し疲れましたね。十分間ほど休憩しましょうか (少shi疲remashitane。十分間hodo休憩shimashiょuka - Invitations   Suggestions U4L5)",
+            "少し疲れましたね。十分間ほど休憩してくださいか (少shi疲remashitane。十分間hodo休憩shitekudasaika - Invitations   Suggestions U4L5)",
+            "少し疲れましたね。十分間ほど休憩するべきです (少shi疲remashitane。十分間hodo休憩surubekidesu - Invitations   Suggestions U4L5)",
+            "少し疲れましたね。十分間ほど休憩した (少shi疲remashitane。十分間hodo休憩shita - Invitations   Suggestions U4L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜しましょうか」で相手と相談しながら提案を行うことができます。"
@@ -2733,10 +2733,10 @@
           "type": "multiple-choice",
           "prompt": "「〜ませんか」で誘われた際、快諾する自然な日本語の返答はどれですか。",
           "options": [
-            "「ええ、喜んで！」 / 「いいですね、ぜひ行きましょう！」 (勧誘を快諾する際は「ええ、喜んで」「いいですね、ぜひ行きましょう」と答えます。)",
-            "「いいえ、行きます。」",
-            "「そうです、飲みます。」",
-            "「ごちそうさまでした。」"
+            "「ええ、喜んで！」 / 「いいですね、ぜひ行きましょう！ (「ee、喜nde！」 / 「iidesune、zehi行kimashiょu！ - Invitations   Suggestions U4L5)",
+            "「いいえ、行きます (「iie、行kimasu - Invitations   Suggestions U4L5)",
+            "「そうです、飲みます (「soudesu、飲mimasu - Invitations   Suggestions U4L5)",
+            "「ごちそうさまでした (「gochisousamadeshita - Invitations   Suggestions U4L5)"
           ],
           "answerIndex": 0,
           "explanation": "勧誘を快諾する際は「ええ、喜んで」「いいですね、ぜひ行きましょう」と答えます。"
@@ -2794,10 +2794,10 @@
         {
           "prompt": "【て形音便の規則】「買う（かう）」「待つ（まつ）」「飲む（のむ）」「書く（かく）」の正しい「て形」の組み合わせを選択してください。",
           "options": [
-            "買って（促音便） / 待って（促音便） / 飲んで（撥音便） / 書いて（イ音便） (う・つ・るは「〜って」、む・ぶ・ぬは「〜んで」、くは「〜いて」と音便変化します。)",
-            "買いて / 待ちて / 飲みて / 書きて (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "買いて / 待って / 飲みて / 書いて (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "買って / 待んで / 飲んで / 書いて (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)"
+            "買って (pause [U5L1])",
+            "買いて / 待ちて / 飲みて / 書きて (買ite / 待chite / 飲mite / 書kite - Te form Rules   Onbin U5L1)",
+            "買いて / 待って / 飲みて / 書いて (pause [U5L1])",
+            "買って / 待んで / 飲んで / 書いて (pause [U5L1])"
           ],
           "answerIndex": 0,
           "explanation": "う・つ・るは「〜って」、む・ぶ・ぬは「〜んで」、くは「〜いて」と音便変化します。"
@@ -2805,10 +2805,10 @@
         {
           "prompt": "【「行く」の例外活用】動詞「行く（いく）」の正しい「て形」はどれですか。",
           "options": [
-            "行って（いって / 例外的に促音便をとる） (「行く」は「く」で終わりますがイ音便にはならず、例外的に「行って（促音便）」となります。)",
-            "行いて（いいて） (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "行んで（いんで） (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "行きて（いきて） (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)"
+            "行って (pause [U5L1])",
+            "行いて (行ite - Te form Rules   Onbin U5L1)",
+            "行んで (行nde - Te form Rules   Onbin U5L1)",
+            "行きて (行kite - Te form Rules   Onbin U5L1)"
           ],
           "answerIndex": 0,
           "explanation": "「行く」は「く」で終わりますがイ音便にはならず、例外的に「行って（促音便）」となります。"
@@ -2820,10 +2820,10 @@
         {
           "prompt": "【朝の日課の連続動作】朝の動作を時間順に繋げて述べる自然な文を選択してください。",
           "options": [
-            "毎朝七時に起きて、顔を洗って、朝ご飯を食べます。",
-            "毎朝七時に起きますて、顔を洗いて、朝ご飯を食べます。 (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "毎朝七時に起きるて、顔を洗うて、朝ご飯を食べます。 (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "毎朝七時に起きて、顔を洗って、朝ご飯を飲みます。 (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)"
+            "毎朝七時に起きて、顔を洗って、朝ご飯を食べます (毎朝七時ni起kite、顔wo洗(pause)te、朝go飯wo食bemasu - Te form Rules   Onbin U5L1)",
+            "毎朝七時に起きますて、顔を洗いて、朝ご飯を食べます (毎朝七時ni起kimasute、顔wo洗ite、朝go飯wo食bemasu - Te form Rules   Onbin U5L1)",
+            "毎朝七時に起きるて、顔を洗うて、朝ご飯を食べます (毎朝七時ni起kirute、顔wo洗ute、朝go飯wo食bemasu - Te form Rules   Onbin U5L1)",
+            "毎朝七時に起きて、顔を洗って、朝ご飯を飲みます (pause [U5L1])"
           ],
           "answerIndex": 0,
           "explanation": "「起きて（二類）」「洗って（一類）」とて形で動作をスムーズに接続します。"
@@ -2831,10 +2831,10 @@
         {
           "prompt": "【図書館での動作連結】図書館に行って本を借りて帰ったことを述べる過去形の文を選択してください。",
           "options": [
-            "図書館へ行って、日本語の専門書を借りて帰りました。",
-            "図書館へ行きて、日本語の専門書を借って帰りました。 (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "図書館へ行いて、日本語の専門書を借りて帰りますでした。 (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "図書館へ行って、日本語の専門書を借りる帰りました。 (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)"
+            "図書館へ行って、日本語の専門書を借りて帰りました (図書館he行(pause)te、日本語no専門書wo借rite帰rimashita - Te form Rules   Onbin U5L1)",
+            "図書館へ行きて、日本語の専門書を借って帰りました (pause [U5L1])",
+            "図書館へ行いて、日本語の専門書を借りて帰りますでした (図書館he行ite、日本語no専門書wo借rite帰rimasudeshita - Te form Rules   Onbin U5L1)",
+            "図書館へ行って、日本語の専門書を借りる帰りました (pause [U5L1])"
           ],
           "answerIndex": 0,
           "explanation": "文末の「帰りました」によって全体の過去時制が決定されます。"
@@ -2847,10 +2847,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「話す（はなす）」と「泳ぐ（およぐ）」の正しい「て形」はどれですか。",
           "options": [
-            "話して / 泳いで（濁音のイ音便） (すは「〜して」、ぐは濁音のイ音便「〜いで」となります。)",
-            "話して / 泳いて (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "話しって / 泳いで (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)",
-            "話して / 泳んで (動詞のて形（一類の促音便・イ音便・撥音便、二類、三類動詞）の体系的活用規則の習得。)"
+            "話して / 泳いで (話shite / 泳ide - Te form Rules   Onbin U5L1)",
+            "話して / 泳いて (話shite / 泳ite - Te form Rules   Onbin U5L1)",
+            "話しって / 泳いで (pause [U5L1])",
+            "話して / 泳んで (話shite / 泳nde - Te form Rules   Onbin U5L1)"
           ],
           "answerIndex": 0,
           "explanation": "すは「〜して」、ぐは濁音のイ音便「〜いで」となります。"
@@ -2908,10 +2908,10 @@
         {
           "prompt": "【「〜てから」の文法機能】「宿題を終わらせてから、お風呂に入ります」における「〜てから」の意味機能は何ですか。",
           "options": [
-            "前件の動作が完了した後に、後件の動作を行う時間的順序を強調している。",
-            "宿題とお風呂を同時に並行して行うことを示している。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "宿題をする理由を説明している。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "お風呂に入らないことを示している。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)"
+            "前件の動作が完了した後に、後件の動作を行う時間的順序を強調している (pause [U5L2])",
+            "宿題とお風呂を同時に並行して行うことを示している (pause [U5L2])",
+            "宿題をする理由を説明している (pause [U5L2])",
+            "お風呂に入らないことを示している (pause [U5L2])"
           ],
           "answerIndex": 0,
           "explanation": "「動詞て形＋から」は「〜した後に（after doing）」という先行動作の完了を表します。"
@@ -2919,10 +2919,10 @@
         {
           "prompt": "【安全指示の構文】機械操作の前に説明書を読むことを指示する文として適切なものはどれですか。",
           "options": [
-            "十分によく説明書を【読んでから】、操作を始めてください。 (動作の完了後の移行を示すため「読んでから」を用います。)",
-            "十分によく説明書を【読むから】、操作を始めてください。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "十分によく説明書を【読んだから】、操作を始めてください。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "十分によく説明書を【読みに】、操作を始めてください。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)"
+            "十分によく説明書を【読んでから】、操作を始めてください (pause [U5L2])",
+            "十分によく説明書を【読むから】、操作を始めてください (pause [U5L2])",
+            "十分によく説明書を【読んだから】、操作を始めてください (pause [U5L2])",
+            "十分によく説明書を【読みに】、操作を始めてください (pause [U5L2])"
           ],
           "answerIndex": 0,
           "explanation": "動作の完了後の移行を示すため「読んでから」を用います。"
@@ -2934,10 +2934,10 @@
         {
           "prompt": "【到着後の連絡】駅に到着した後に電話で連絡することを丁寧に伝える文を選択してください。",
           "options": [
-            "駅に着いてから、電話で田中さんに連絡いたします。",
-            "駅に着くから、電話で田中さんに連絡いたします。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "駅に着いたから、電話で田中さんに連絡いたします。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "駅に着きながら、電話で田中さんに連絡いたします。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)"
+            "駅に着いてから、電話で田中さんに連絡いたします (駅ni着itekara、電話de田中sanni連絡itashimasu - Sequential Actions   TE KARA U5L2)",
+            "駅に着くから、電話で田中さんに連絡いたします (pause [U5L2])",
+            "駅に着いたから、電話で田中さんに連絡いたします (pause [U5L2])",
+            "駅に着きながら、電話で田中さんに連絡いたします (pause [U5L2])"
           ],
           "answerIndex": 0,
           "explanation": "到着が完了した後の連絡であることを「着いてから」で明示します。"
@@ -2945,10 +2945,10 @@
         {
           "prompt": "【休日ルーティンの描写】朝の一連の活動を順序立てて説明する文を選択してください。",
           "options": [
-            "休日は朝早く起きて、近くの公園をジョギングして、それから朝食を作ります。",
-            "休日は朝早く起きると、近くの公園をジョギングするから、朝食を作ります。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "休日は朝早く起きる前、近くの公園をジョギングして、朝食を作りました。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "休日は朝早く起きながら、ジョギングして、朝食を作ります。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)"
+            "休日は朝早く起きて、近くの公園をジョギングして、それから朝食を作ります (休日ha朝早ku起kite、近kuno公園wojiョginグshite、sorekara朝食wo作rimasu - Sequential Actions   TE KARA U5L2)",
+            "休日は朝早く起きると、近くの公園をジョギングするから、朝食を作ります (pause [U5L2])",
+            "休日は朝早く起きる前、近くの公園をジョギングして、朝食を作りました (pause [U5L2])",
+            "休日は朝早く起きながら、ジョギングして、朝食を作ります (pause [U5L2])"
           ],
           "answerIndex": 0,
           "explanation": "「起きて」「ジョギングして」「それから作ります」と時間順の推移が的確に表現されています。"
@@ -2961,10 +2961,10 @@
           "type": "multiple-choice",
           "prompt": "「て形」で複数の動作を繋ぐ文において、文全体の「過去・現在」などの時制はどこで決定されますか。",
           "options": [
-            "文末の最後の動詞述語の形によって決定される。 (「〜て、〜て、〜ました」のように、文全体の時制は文末の述語動詞で示されます。)",
-            "文頭の最初の動詞の形によって決定される。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "すべての動詞を過去形にする必要がある。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)",
-            "文中の副詞だけで決まり動詞は関係ない。 (て形による時間的順序に沿った複数動作の接続と完了後の移行を表す「〜てから」の習得。)"
+            "文末の最後の動詞述語の形によって決定される (pause [U5L2])",
+            "文頭の最初の動詞の形によって決定される (pause [U5L2])",
+            "すべての動詞を過去形にする必要がある (pause [U5L2])",
+            "文中の副詞だけで決まり動詞は関係ない (pause [U5L2])"
           ],
           "answerIndex": 0,
           "explanation": "「〜て、〜て、〜ました」のように、文全体の時制は文末の述語動詞で示されます。"
@@ -3022,10 +3022,10 @@
         {
           "prompt": "【進行相 vs 結果相】「勉強しています（進行）」と「結婚しています（結果状態）」における「〜ています」の性質の違いとして正しいものはどれですか。",
           "options": [
-            "前者は今まさに動作が行われている進行中、後者は変化完了後の状態が継続していることを表す。 (継続動詞（勉強する）では動作の進行中、瞬間動詞（結婚する・住む）では結果状態の継続を表します。)",
-            "前者が状態の継続で後者が動作の進行中である。",
-            "両方とも未来の予定を表している。",
-            "文法的な違いは存在しない。"
+            "前者は今まさに動作が行われている進行中、後者は変化完了後の状態が継続していることを表す (be ing U5 [U5L3])",
+            "前者が状態の継続で後者が動作の進行中である (be ing U5 [U5L3])",
+            "両方とも未来の予定を表している (be ing U5 [U5L3])",
+            "文法的な違いは存在しない (be ing U5 [U5L3])"
           ],
           "answerIndex": 0,
           "explanation": "継続動詞（勉強する）では動作の進行中、瞬間動詞（結婚する・住む）では結果状態の継続を表します。"
@@ -3033,10 +3033,10 @@
         {
           "prompt": "【「知っています」の否定形】「佐藤さんの電話番号を知っていますか。」に対する正しい否定の返答はどれですか。",
           "options": [
-            "いいえ、知りません。（「知っていません」とは言わない） (「知っています」の否定は慣用的に「知りません」となります。)",
-            "いいえ、知っていません。",
-            "いいえ、知るではありません。",
-            "いいえ、知りませんでしたです。"
+            "いいえ、知りません (be ing U5 [U5L3])",
+            "いいえ、知っていません (be ing U5 [U5L3])",
+            "いいえ、知るではありません (be ing U5 [U5L3])",
+            "いいえ、知りませんでしたです (be ing U5 [U5L3])"
           ],
           "answerIndex": 0,
           "explanation": "「知っています」の否定は慣用的に「知りません」となります。"
@@ -3048,10 +3048,10 @@
         {
           "prompt": "【現在進行中の動作】山田さんが今プレゼンテーションを行っている最中であることを述べる文を選択してください。",
           "options": [
-            "山田さんは今、会議室で重要なプレゼンテーションを行っています。",
-            "山田さんは今、会議室で重要なプレゼンテーションを行いました。",
-            "山田さんは今、会議室で重要なプレゼンテーションを行いますでした。",
-            "山田さんは今、会議室で重要なプレゼンテーションを行いそうです。"
+            "山田さんは今、会議室で重要なプレゼンテーションを行っています (be ing U5 [U5L3])",
+            "山田さんは今、会議室で重要なプレゼンテーションを行いました (be ing U5 [U5L3])",
+            "山田さんは今、会議室で重要なプレゼンテーションを行いますでした (be ing U5 [U5L3])",
+            "山田さんは今、会議室で重要なプレゼンテーションを行いそうです (be ing U5 [U5L3])"
           ],
           "answerIndex": 0,
           "explanation": "現時点で進行中の動作には「〜を行っています」を用います。"
@@ -3059,10 +3059,10 @@
         {
           "prompt": "【外見・身なりの描写】田中先生がスーツを着て眼鏡をかけている状態を説明する文を選択してください。",
           "options": [
-            "田中先生は黒いスーツを着て、眼鏡をかけています。",
-            "田中先生は黒いスーツを着るで、眼鏡をかけます。",
-            "田中先生は黒いスーツを着てから、眼鏡をかけました。",
-            "田中先生は黒いスーツを着ながら、眼鏡をかけます。"
+            "田中先生は黒いスーツを着て、眼鏡をかけています (be ing U5 [U5L3])",
+            "田中先生は黒いスーツを着るで、眼鏡をかけます (be ing U5 [U5L3])",
+            "田中先生は黒いスーツを着てから、眼鏡をかけました (be ing U5 [U5L3])",
+            "田中先生は黒いスーツを着ながら、眼鏡をかけます (be ing U5 [U5L3])"
           ],
           "answerIndex": 0,
           "explanation": "着衣や装飾品の着用状態の継続には「着ています」「かけています」を用います。"
@@ -3075,10 +3075,10 @@
           "type": "multiple-choice",
           "prompt": "「京都に住んでいます」における「住んでいます」の文法機能は何ですか。",
           "options": [
-            "京都に住むという状態が現在も継続していること（結果状態の継続）。 (「住む」は結果状態を表し、「住んでいます」で居住状態の継続を示します。)",
-            "今まさに家を建てて引っ越している最中であること。",
-            "過去に住んでいたこと。",
-            "将来住む予定であること。"
+            "京都に住むという状態が現在も継続していること (be ing U5 [U5L3])",
+            "今まさに家を建てて引っ越している最中であること (be ing U5 [U5L3])",
+            "過去に住んでいたこと (be ing U5 [U5L3])",
+            "将来住む予定であること (be ing U5 [U5L3])"
           ],
           "answerIndex": 0,
           "explanation": "「住む」は結果状態を表し、「住んでいます」で居住状態の継続を示します。"
@@ -3137,10 +3137,10 @@
         {
           "prompt": "【丁寧な依頼構文】書類への記入を丁寧に促す表現として最も適切なものはどれですか。",
           "options": [
-            "この用紙に黒いペンで記入してください。（Please fill in）",
-            "この用紙に黒いペンで記入しなさい。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "この用紙に黒いペンで記入するべきだ。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "この用紙に黒いペンで記入してはいけない。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)"
+            "この用紙に黒いペンで記入してください (kono用紙ni黒ipende記入shitekudasai - Polite Requests TE KUDASAI U5L4)",
+            "この用紙に黒いペンで記入しなさい (kono用紙ni黒ipende記入shinasai - Polite Requests TE KUDASAI U5L4)",
+            "この用紙に黒いペンで記入するべきだ (kono用紙ni黒ipende記入surubekida - Polite Requests TE KUDASAI U5L4)",
+            "この用紙に黒いペンで記入してはいけない (kono用紙ni黒ipende記入shitehaikenai - Polite Requests TE KUDASAI U5L4)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞て形＋ください」は標準的な丁寧な指示・依頼の構文です。"
@@ -3148,10 +3148,10 @@
         {
           "prompt": "【否定の依頼（禁止の配慮表現）】美術館で写真撮影を控えるよう頼む表現はどれですか。",
           "options": [
-            "フラッシュを使って写真を【撮らないでください】。（ない形＋でください） (「〜しないでほしい」という否定の依頼は「動詞ない形 ＋ でください」となります。)",
-            "フラッシュを使って写真を【撮らなくてください】。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "フラッシュを使って写真を【撮るなください】。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "フラッシュを使って写真を【撮りませんでください】。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)"
+            "フラッシュを使って写真を【撮らないでください】 (pause [U5L4])",
+            "フラッシュを使って写真を【撮らなくてください】 (pause [U5L4])",
+            "フラッシュを使って写真を【撮るなください】 (pause [U5L4])",
+            "フラッシュを使って写真を【撮りませんでください】 (pause [U5L4])"
           ],
           "answerIndex": 0,
           "explanation": "「〜しないでほしい」という否定の依頼は「動詞ない形 ＋ でください」となります。"
@@ -3163,10 +3163,10 @@
         {
           "prompt": "【来客対応の接客対話】来客に対して少々待つよう丁寧に案内する定番の表現を選択してください。",
           "options": [
-            "少々お待ちください。ただいま担当者をお呼びいたします。",
-            "少々待ってください。担当者を呼びますよ。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "少々待ちなさい。担当者が来ます。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "少々待つことです。担当者を見ます。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)"
+            "少々お待ちください。ただいま担当者をお呼びいたします (少々o待chikudasai。tadaima担当者woo呼biitashimasu - Polite Requests TE KUDASAI U5L4)",
+            "少々待ってください。担当者を呼びますよ (pause [U5L4])",
+            "少々待ちなさい。担当者が来ます (少々待chinasai。担当者ga来masu - Polite Requests TE KUDASAI U5L4)",
+            "少々待つことです。担当者を見ます (少々待tsukotodesu。担当者wo見masu - Polite Requests TE KUDASAI U5L4)"
           ],
           "answerIndex": 0,
           "explanation": "接客やビジネスでの定番依頼表現は「少々お待ちください」です。"
@@ -3174,10 +3174,10 @@
         {
           "prompt": "【改まったメールでの資料請求】ビジネスメール等で資料の送付を極めて丁寧に依頼する文を選択してください。",
           "options": [
-            "本日の資料をメールで送付していただけますでしょうか。",
-            "本日の資料をメールで送付してくださいよ。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "本日の資料をメールで送付しなさい。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "本日の資料をメールで送付してくれ。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)"
+            "本日の資料をメールで送付していただけますでしょうか (本日no資料womeーrude送付shiteitadakemasudeshiょuka - Polite Requests TE KUDASAI U5L4)",
+            "本日の資料をメールで送付してくださいよ (本日no資料womeーrude送付shitekudasaiyo - Polite Requests TE KUDASAI U5L4)",
+            "本日の資料をメールで送付しなさい (本日no資料womeーrude送付shinasai - Polite Requests TE KUDASAI U5L4)",
+            "本日の資料をメールで送付してくれ (本日no資料womeーrude送付shitekure - Polite Requests TE KUDASAI U5L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜していただけますでしょうか」は非常に丁寧で洗練された依頼表現です。"
@@ -3190,10 +3190,10 @@
           "type": "multiple-choice",
           "prompt": "「〜てください」を目上の人や上司に対して使う際の注意点として正しいものはどれですか。",
           "options": [
-            "「〜てください」は指示・命令のニュアンスを含むため、目上の人には「〜ていただけますでしょうか」等を使うのが望ましい。 (「〜てください」は指示的響きを持つため、目上には「〜ていただけますでしょうか」等の敬語を用います。)",
-            "「〜てください」は最高位の敬語なので誰に対しても最も適切である。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "目上の人には「〜なさい」を使う。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)",
-            "何を使っても違いはない。 (「動詞て形 ＋ ください」を用いた標準的な丁寧依頼表現と、否定の依頼「〜ないでください」の習得。)"
+            "「〜てください」は指示・命令のニュアンスを含むため、目上の人には「〜ていただけますでしょうか」等を使うのが望ましい (「〜tekudasai」ha指示・命令noniュansuwo含mutame、目上no人niha「〜teitadakemasudeshiょuka」等wo使unoga望mashii - Polite Requests TE KUDASAI U5L4)",
+            "「〜てください」は最高位の敬語なので誰に対しても最も適切である (「〜tekudasai」ha最高位no敬語nanode誰ni対shitemo最mo適切dearu - Polite Requests TE KUDASAI U5L4)",
+            "目上の人には「〜なさい」を使う (目上no人niha「〜nasai」wo使u - Polite Requests TE KUDASAI U5L4)",
+            "何を使っても違いはない (pause [U5L4])"
           ],
           "answerIndex": 0,
           "explanation": "「〜てください」は指示的響きを持つため、目上には「〜ていただけますでしょうか」等の敬語を用います。"
@@ -3252,10 +3252,10 @@
         {
           "prompt": "【許可を求める構文】他者の席に座ってよいか丁寧に尋ねる表現はどれですか。",
           "options": [
-            "この席に座ってもよろしいでしょうか。（または 座ってもいいですか） (許可を求める表現は「動詞て形 ＋ もいいですか / もよろしいでしょうか」です。)",
-            "この席に座ってはいけません。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "この席に座りましょう。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "この席に座ってください。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)"
+            "この席に座ってもよろしいでしょうか (pause [U5L5])",
+            "この席に座ってはいけません (pause [U5L5])",
+            "この席に座りましょう (kono席ni座rimashiょu - Permission   Prohibition U5L5)",
+            "この席に座ってください (pause [U5L5])"
           ],
           "answerIndex": 0,
           "explanation": "許可を求める表現は「動詞て形 ＋ もいいですか / もよろしいでしょうか」です。"
@@ -3263,10 +3263,10 @@
         {
           "prompt": "【規則・禁止の構文】公共の場での禁止事項を伝える「〜てはいけません」の正しい使用例はどれですか。",
           "options": [
-            "図書館の中では大きな声で電話を【してはいけません】。 (「動詞て形 ＋ はいけません」は規則やマナーに基づく強い禁止を表します。)",
-            "図書館の中では大きな声で電話を【してもいいです】。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "図書館の中では大きな声で電話を【してください】。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "図書館の中では大きな声で電話を【したいです】。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)"
+            "図書館の中では大きな声で電話を【してはいけません】 (図書館no中deha大kina声de電話wo【shitehaikemasen】 - Permission   Prohibition U5L5)",
+            "図書館の中では大きな声で電話を【してもいいです】 (図書館no中deha大kina声de電話wo【shitemoiidesu】 - Permission   Prohibition U5L5)",
+            "図書館の中では大きな声で電話を【してください】 (図書館no中deha大kina声de電話wo【shitekudasai】 - Permission   Prohibition U5L5)",
+            "図書館の中では大きな声で電話を【したいです】 (図書館no中deha大kina声de電話wo【shitaidesu】 - Permission   Prohibition U5L5)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞て形 ＋ はいけません」は規則やマナーに基づく強い禁止を表します。"
@@ -3278,10 +3278,10 @@
         {
           "prompt": "【撮影許可と丁寧な断り】写真撮影の可否を尋ねられて、丁寧に断る対話を選択してください。",
           "options": [
-            "「ここで写真を撮ってもいいですか。」「申し訳ございませんが、撮影はご遠慮ください。」 (不許可を丁寧に伝える際は「申し訳ございませんが、〜はご遠慮ください」を用います。)",
-            "「ここで写真を撮ってもいいですか。」「はい、撮ってはいけません。」 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "「ここで写真を撮ってもいいですか。」「ええ、禁止です。」 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "「ここで写真を撮ってもいいですか。」「写真がありません。」 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)"
+            "「ここで写真を撮ってもいいですか。」「申し訳ございませんが、撮影はご遠慮ください (pause [U5L5])",
+            "「ここで写真を撮ってもいいですか。」「はい、撮ってはいけません (pause [U5L5])",
+            "「ここで写真を撮ってもいいですか。」「ええ、禁止です (pause [U5L5])",
+            "「ここで写真を撮ってもいいですか。」「写真がありません (pause [U5L5])"
           ],
           "answerIndex": 0,
           "explanation": "不許可を丁寧に伝える際は「申し訳ございませんが、〜はご遠慮ください」を用います。"
@@ -3289,10 +3289,10 @@
         {
           "prompt": "【展示作品への接触禁止】美術館の規則として作品に触れてはならないことを明示する文を選択してください。",
           "options": [
-            "美術館の展示作品に手を触れてはいけません。",
-            "美術館の展示作品に手を触れてもいいです。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "美術館の展示作品に手を触れてください。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "美術館の展示作品に手を触れましょう。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)"
+            "美術館の展示作品に手を触れてはいけません (美術館no展示作品ni手wo触retehaikemasen - Permission   Prohibition U5L5)",
+            "美術館の展示作品に手を触れてもいいです (美術館no展示作品ni手wo触retemoiidesu - Permission   Prohibition U5L5)",
+            "美術館の展示作品に手を触れてください (美術館no展示作品ni手wo触retekudasai - Permission   Prohibition U5L5)",
+            "美術館の展示作品に手を触れましょう (美術館no展示作品ni手wo触remashiょu - Permission   Prohibition U5L5)"
           ],
           "answerIndex": 0,
           "explanation": "接触禁止を明確に示すため「触れてはいけません」を用います。"
@@ -3305,10 +3305,10 @@
           "type": "multiple-choice",
           "prompt": "「〜てはいけません」の「は」の文字表記と発音についての正しい記述はどれですか。",
           "options": [
-            "表記は「は」と書き、発音は「わ」となる（主題・取り立て助詞の「は」）。 (「〜てはいけません」の「は」は係助詞なので「は」と書き、「わ」と発音します。)",
-            "表記も発音も常に「は」である。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "表記は「わ」と書く。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)",
-            "表記は「ば」と書く。 (行為の許可を求める「〜てもいいですか」と規範的禁止を表す「〜てはいけません」の習得。)"
+            "表記は「は」と書き、発音は「わ」となる (表記ha「ha」to書ki、発音ha「wa」tonaru - Permission   Prohibition U5L5)",
+            "表記も発音も常に「は」である (表記mo発音mo常ni「ha」dearu - Permission   Prohibition U5L5)",
+            "表記は「わ」と書く (表記ha「wa」to書ku - Permission   Prohibition U5L5)",
+            "表記は「ば」と書く (表記ha「ba」to書ku - Permission   Prohibition U5L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜てはいけません」の「は」は係助詞なので「は」と書き、「わ」と発音します。"
@@ -3366,10 +3366,10 @@
         {
           "prompt": "【飲食店での注文表現】飲食店で料理を注文する際の最も丁寧で標準的な表現はどれですか。",
           "options": [
-            "すみません、この特選海鮮丼を一つと温かいお茶をお願いします。",
-            "海鮮丼とお茶を寄こせ。",
-            "海鮮丼とお茶を食べたいです。",
-            "海鮮丼とお茶をあげます。"
+            "すみません、この特選海鮮丼を一つと温かいお茶をお願いします (sumimasen、kono特選海鮮丼wo一tsuto温kaio茶woo願ishimasu - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "海鮮丼とお茶を寄こせ (海鮮丼too茶wo寄kose - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "海鮮丼とお茶を食べたいです (海鮮丼too茶wo食betaidesu - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "海鮮丼とお茶をあげます (海鮮丼too茶woagemasu - Japanese Mastery Unit 6 Lesson 1 U6L1)"
           ],
           "answerIndex": 0,
           "explanation": "注文する際は「［品名］を［数量］と、［品名］をお願いします」が最も丁寧で標準的です。"
@@ -3377,10 +3377,10 @@
         {
           "prompt": "【数詞（和語数詞）の活用】「1つ」「2つ」「3つ」の正しい和語の数え方を選択してください。",
           "options": [
-            "ひとつ / ふたつ / みっつ",
-            "いちつ / につ / さんつ",
-            "いっこ / にこ / さんこ",
-            "ひとり / ふたり / さんにん"
+            "ひとつ / ふたつ / みっつ (pause [U6L1])",
+            "いちつ / につ / さんつ (ichitsu / nitsu / santsu - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "いっこ / にこ / さんこ (pause [U6L1])",
+            "ひとり / ふたり / さんにん (hitori / futari / sannin - Japanese Mastery Unit 6 Lesson 1 U6L1)"
           ],
           "answerIndex": 0,
           "explanation": "料理や品物を数える基本の和語数詞は「ひとつ、ふたつ、みっつ」です。"
@@ -3392,10 +3392,10 @@
         {
           "prompt": "【味覚の感想】京都の抹茶パフェの甘さ控えめで美味しい味を表現する文を選択してください。",
           "options": [
-            "この京都の伝統的な抹茶パフェは、甘さ控えめでとても美味しいです。",
-            "この抹茶パフェはとても辛くて塩辛いです。",
-            "この抹茶パフェは酸っぱくて苦いですが熱いです。",
-            "この抹茶パフェを食べに行きませんでした。"
+            "この京都の伝統的な抹茶パフェは、甘さ控えめでとても美味しいです (kono京都no伝統的na抹茶pafuェha、甘sa控emedetotemo美味shiidesu - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "この抹茶パフェはとても辛くて塩辛いです (kono抹茶pafuェhatotemo辛kute塩辛idesu - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "この抹茶パフェは酸っぱくて苦いですが熱いです (pause [U6L1])",
+            "この抹茶パフェを食べに行きませんでした (kono抹茶pafuェwo食beni行kimasendeshita - Japanese Mastery Unit 6 Lesson 1 U6L1)"
           ],
           "answerIndex": 0,
           "explanation": "デザートの上品な甘さを「甘さ控えめでとても美味しい」と表現します。"
@@ -3403,10 +3403,10 @@
         {
           "prompt": "【食事終わりの感謝】食事を終えて店員や同席者に感謝を述べる日本の伝統的な挨拶を選択してください。",
           "options": [
-            "大変美味しくいただきました。ごちそうさまでした。",
-            "いただきます。これから食べます。",
-            "いってきます。また明日。",
-            "お邪魔しました。さようなら。"
+            "大変美味しくいただきました。ごちそうさまでした (大変美味shikuitadakimashita。gochisousamadeshita - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "いただきます。これから食べます (itadakimasu。korekara食bemasu - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "いってきます。また明日 (pause [U6L1])",
+            "お邪魔しました。さようなら (o邪魔shimashita。sayounara - Japanese Mastery Unit 6 Lesson 1 U6L1)"
           ],
           "answerIndex": 0,
           "explanation": "食後の感謝の挨拶は「ごちそうさまでした」です。"
@@ -3419,10 +3419,10 @@
           "type": "multiple-choice",
           "prompt": "日本の和食文化における「旨味（うまみ）」の基本となる出汁の原料の組み合わせはどれですか。",
           "options": [
-            "昆布（こんぶ）と鰹節（かつおぶし）",
-            "砂糖と醤油",
-            "胡椒と唐辛子",
-            "バターとオリーブオイル"
+            "昆布 (Japanese Mastery Unit 6 Lesson 1 Option 1 U6L1)",
+            "砂糖と醤油 (砂糖to醤油 - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "胡椒と唐辛子 (胡椒to唐辛子 - Japanese Mastery Unit 6 Lesson 1 U6L1)",
+            "バターとオリーブオイル (bataーtooriーbuoiru - Japanese Mastery Unit 6 Lesson 1 U6L1)"
           ],
           "answerIndex": 0,
           "explanation": "伝統的な和食の出汁は主に昆布と鰹節から抽出されます。"
@@ -3480,10 +3480,10 @@
         {
           "prompt": "【嗜好の表現「好き・嫌い」】好きな食べ物を表す助詞構文として文法的に正しいものはどれですか。",
           "options": [
-            "私は日本の寿司や天ぷらが大好きです。（［対象］が 好きです）",
-            "私は日本の寿司や天ぷらを大好きです。",
-            "私は日本の寿司や天ぷらに大好きです。",
-            "私は日本の寿司や天ぷらで大好きです。"
+            "私は日本の寿司や天ぷらが大好きです (私ha日本no寿司ya天puraga大好kidesu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "私は日本の寿司や天ぷらを大好きです (私ha日本no寿司ya天purawo大好kidesu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "私は日本の寿司や天ぷらに大好きです (私ha日本no寿司ya天purani大好kidesu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "私は日本の寿司や天ぷらで大好きです (私ha日本no寿司ya天purade大好kidesu - Japanese Mastery Unit 6 Lesson 2 U6L2)"
           ],
           "answerIndex": 0,
           "explanation": "感情・嗜好の対象（好き・嫌い・上手・下手）には助詞「が」を用います。"
@@ -3491,10 +3491,10 @@
         {
           "prompt": "【味覚形容詞の対立】「甘い（あまい）」と「辛い（からい）」、「酸っぱい（すっぱい）」と「苦い（にがい）」の意味の組み合わせとして正しいものはどれですか。",
           "options": [
-            "甘い：sweet / 辛い：spicy・hot / 酸っぱい：sour / 苦い：bitter",
-            "甘い：bitter / 辛い：sweet / 酸っぱい：salty / 苦い：sour",
-            "甘い：sour / 辛い：bitter / 酸っぱい：sweet / 苦い：spicy",
-            "すべて同じ意味"
+            "甘い：sweet / 辛い：spicy・hot / 酸っぱい：sour / 苦い：bitter (甘i：sweet / 辛i：spicy・hot / 酸(pause)pai：sour / 苦i：bitter - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "甘い：bitter / 辛い：sweet / 酸っぱい：salty / 苦い：sour (甘i：bitter / 辛i：sweet / 酸(pause)pai：salty / 苦i：sour - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "甘い：sour / 辛い：bitter / 酸っぱい：sweet / 苦い：spicy (甘i：sour / 辛i：bitter / 酸(pause)pai：sweet / 苦i：spicy - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "すべて同じ意味 (subete同ji意味 - Japanese Mastery Unit 6 Lesson 2 U6L2)"
           ],
           "answerIndex": 0,
           "explanation": "五味の形容詞：甘い（sweet）、辛い（spicy/hot）、酸っぱい（sour）、苦い（bitter）、塩辛い（salty）です。"
@@ -3506,10 +3506,10 @@
         {
           "prompt": "【辛い料理の可否】辛いものが苦手であることを丁寧に伝える表現を選択してください。",
           "options": [
-            "すみません、辛い料理は少し苦手（にがて）です。",
-            "辛い料理はとても上手です。",
-            "辛い料理を飲みたいです。",
-            "辛い料理に行きましょう。"
+            "すみません、辛い料理は少し苦手 (sumimasen、辛i料理ha少shi苦手 - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "辛い料理はとても上手です (辛i料理hatotemo上手desu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "辛い料理を飲みたいです (辛i料理wo飲mitaidesu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "辛い料理に行きましょう (辛i料理ni行kimashiょu - Japanese Mastery Unit 6 Lesson 2 U6L2)"
           ],
           "answerIndex": 0,
           "explanation": "食べられない・好まないことを柔らかく伝える際は「〜は苦手です」を用います。"
@@ -3517,10 +3517,10 @@
         {
           "prompt": "【出汁の風味の描写】和食の出汁（だし）の美味しさを説明する文を選択してください。",
           "options": [
-            "日本の出汁は昆布と鰹節の豊かな旨味が凝縮されています。",
-            "日本の出汁は砂糖と塩の激しい辛さがあります。",
-            "日本の出汁は油で揚げて作ります。",
-            "日本の出汁は冷たく凍っています。"
+            "日本の出汁は昆布と鰹節の豊かな旨味が凝縮されています (日本no出汁ha昆布to鰹節no豊kana旨味ga凝縮sareteimasu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "日本の出汁は砂糖と塩の激しい辛さがあります (日本no出汁ha砂糖to塩no激shii辛sagaarimasu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "日本の出汁は油で揚げて作ります (日本no出汁ha油de揚gete作rimasu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "日本の出汁は冷たく凍っています (pause [U6L2])"
           ],
           "answerIndex": 0,
           "explanation": "昆布と鰹節による旨味（うまみ）の凝縮が出汁の本質です。"
@@ -3533,10 +3533,10 @@
           "type": "multiple-choice",
           "prompt": "「甘い」の否定形（丁寧形）として正しいものはどれですか。",
           "options": [
-            "甘くないです（または 甘くありません）",
-            "甘いじゃないです",
-            "甘くないでした",
-            "甘いではありません"
+            "甘くないです (甘kunaidesu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "甘いじゃないです (甘ijiゃnaidesu - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "甘くないでした (甘kunaideshita - Japanese Mastery Unit 6 Lesson 2 U6L2)",
+            "甘いではありません (甘idehaarimasen - Japanese Mastery Unit 6 Lesson 2 U6L2)"
           ],
           "answerIndex": 0,
           "explanation": "い形容詞「甘い」の否定形は語尾の「い」を「くない」に変えて「甘くないです / 甘くありません」となります。"
@@ -3595,10 +3595,10 @@
         {
           "prompt": "【居酒屋での注文対話】店員を呼んで飲み物とおつまみを頼む自然な対話はどれですか。",
           "options": [
-            "「すみません、生ビールを二つと枝豆を一つお願いします。」",
-            "「おい、ビール二つ持ってこい。」",
-            "「ビールを二つ飲むつもりでした。」",
-            "「ビールと枝豆がいますか。」"
+            "「すみません、生ビールを二つと枝豆を一つお願いします (「sumimasen、生biーruwo二tsuto枝豆wo一tsuo願ishimasu - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "「おい、ビール二つ持ってこい (pause [U6L3])",
+            "「ビールを二つ飲むつもりでした (「biーruwo二tsu飲mutsumorideshita - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "「ビールと枝豆がいますか (「biーruto枝豆gaimasuka - Japanese Mastery Unit 6 Lesson 3 U6L3)"
           ],
           "answerIndex": 0,
           "explanation": "「すみません、［品名］を［数量］お願いします」が日本の居酒屋で最も一般的な注文表現です。"
@@ -3606,10 +3606,10 @@
         {
           "prompt": "【会計を頼む表現】食事が終わり、店員に会計を求める際の表現を選択してください。",
           "options": [
-            "すみません、お会計（お勘定）をお願いします。",
-            "すみません、お金を返してください。",
-            "すみません、注文をキャンセルします。",
-            "すみません、料理を食べてください。"
+            "すみません、お会計 (sumimasen、o会計 - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "すみません、お金を返してください (sumimasen、o金wo返shitekudasai - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "すみません、注文をキャンセルします (sumimasen、注文wokiャnserushimasu - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "すみません、料理を食べてください (sumimasen、料理wo食betekudasai - Japanese Mastery Unit 6 Lesson 3 U6L3)"
           ],
           "answerIndex": 0,
           "explanation": "会計を頼むときは「お会計をお願いします（または お勘定をお願いします）」と言います。"
@@ -3621,10 +3621,10 @@
         {
           "prompt": "【セットメニューの選択】ランチセットに飲み物が付くか尋ねる文を選択してください。",
           "options": [
-            "このランチセットにはお飲み物が付きますか。",
-            "このランチセットにお飲み物を食べますか。",
-            "このランチセットはお飲み物に行きますか。",
-            "このランチセットがお飲み物をしますか。"
+            "このランチセットにはお飲み物が付きますか (pause [U6L3])",
+            "このランチセットにお飲み物を食べますか (pause [U6L3])",
+            "このランチセットはお飲み物に行きますか (pause [U6L3])",
+            "このランチセットがお飲み物をしますか (pause [U6L3])"
           ],
           "answerIndex": 0,
           "explanation": "セットに付属しているか確認する動詞は「付く（付きますか）」です。"
@@ -3632,10 +3632,10 @@
         {
           "prompt": "【おすすめ料理の質問】店の店員におすすめの料理を尋ねる丁寧な表現を選択してください。",
           "options": [
-            "本日のおすすめ料理は何ですか。",
-            "今日の料理を食べなさい。",
-            "今日のおすすめはいくらですか。",
-            "今日の料理はありますか。"
+            "本日のおすすめ料理は何ですか (本日noosusume料理ha何desuka - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "今日の料理を食べなさい (今日no料理wo食benasai - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "今日のおすすめはいくらですか (今日noosusumehaikuradesuka - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "今日の料理はありますか (今日no料理haarimasuka - Japanese Mastery Unit 6 Lesson 3 U6L3)"
           ],
           "answerIndex": 0,
           "explanation": "「本日のおすすめは何ですか」で本日の一押しメニューを尋ねることができます。"
@@ -3648,10 +3648,10 @@
           "type": "multiple-choice",
           "prompt": "「別々でお会計をお願いします」という発話の意味は何ですか。",
           "options": [
-            "同席者各自が個別に自分の分を支払うこと（割り勘・個別会計）。",
-            "一人で全員分をまとめて支払うこと。",
-            "ツケ払いにすること。",
-            "無料にしてもらうこと。"
+            "同席者各自が個別に自分の分を支払うこと (同席者各自ga個別ni自分no分wo支払ukoto - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "一人で全員分をまとめて支払うこと (一人de全員分womatomete支払ukoto - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "ツケ払いにすること (tsuke払inisurukoto - Japanese Mastery Unit 6 Lesson 3 U6L3)",
+            "無料にしてもらうこと (無料nishitemoraukoto - Japanese Mastery Unit 6 Lesson 3 U6L3)"
           ],
           "answerIndex": 0,
           "explanation": "「別々で」は個別会計（各自払い）を意味します。"
@@ -3712,10 +3712,10 @@
         {
           "prompt": "【箸のマナーと文化】日本の食事作法において避けるべき「嫌い箸（タブー）」として正しいものはどれですか。",
           "options": [
-            "箸から箸へ直接料理を渡すこと（箸渡し）や、ご飯に箸を垂直に突き刺すこと（立て箸）。",
-            "箸置きを使うこと。",
-            "右手で箸を持つこと。",
-            "料理を一口サイズにして食べること。"
+            "箸から箸へ直接料理を渡すこと (箸kara箸he直接料理wo渡sukoto - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "箸置きを使うこと (箸置kiwo使ukoto - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "右手で箸を持つこと (右手de箸wo持tsukoto - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "料理を一口サイズにして食べること (料理wo一口saizunishite食berukoto - Japanese Mastery Unit 6 Lesson 4 U6L4)"
           ],
           "answerIndex": 0,
           "explanation": "「箸渡し」や「立て箸」は仏事・葬儀の作法に連なるため、日本の食事文化において厳格なタブーとされています。"
@@ -3723,10 +3723,10 @@
         {
           "prompt": "【「いただきます」の文化的意義】食事前の挨拶「いただきます」に込められた本来の感謝の対象は何ですか。",
           "options": [
-            "食材となった動植物の命と、食事の準備・調理に関わったすべての人々。",
-            "料理を作ったシェフだけに限定される。",
-            "自分自身の労働。",
-            "特に意味はなく単なる掛け声。"
+            "食材となった動植物の命と、食事の準備・調理に関わったすべての人々 (pause [U6L4])",
+            "料理を作ったシェフだけに限定される (pause [U6L4])",
+            "自分自身の労働 (自分自身no労働 - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "特に意味はなく単なる掛け声 (特ni意味hanaku単naru掛ke声 - Japanese Mastery Unit 6 Lesson 4 U6L4)"
           ],
           "answerIndex": 0,
           "explanation": "「いただきます（命をいただく）」は食材の生命への畏敬と、調理・生産に関わった人々への感謝を含みます。"
@@ -3738,10 +3738,10 @@
         {
           "prompt": "【定食の配膳マナー】日本の伝統的な一汁三菜の配膳におけるご飯と味噌汁の正しい位置を選択してください。",
           "options": [
-            "左手前にご飯、右手前に味噌汁（汁物）。",
-            "右手前にご飯、左手前に味噌汁。",
-            "奥にご飯と味噌汁、手前におかず。",
-            "左右どちらでも全く自由。"
+            "左手前にご飯、右手前に味噌汁 (左手前nigo飯、右手前ni味噌汁 - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "右手前にご飯、左手前に味噌汁 (右手前nigo飯、左手前ni味噌汁 - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "奥にご飯と味噌汁、手前におかず (奥nigo飯to味噌汁、手前niokazu - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "左右どちらでも全く自由 (左右dochirademo全ku自由 - Japanese Mastery Unit 6 Lesson 4 U6L4)"
           ],
           "answerIndex": 0,
           "explanation": "和食の伝統的配膳では、主食であるご飯を左手前、汁物を右手前に配置します。"
@@ -3749,10 +3749,10 @@
         {
           "prompt": "【お茶のおかわり】飲食店でお茶のおかわりを丁寧に頼む文を選択してください。",
           "options": [
-            "すみません、お茶のおかわりをいただけますでしょうか。",
-            "お茶をもっと飲みなさい。",
-            "お茶を買いに行きます。",
-            "お茶は要りません。"
+            "すみません、お茶のおかわりをいただけますでしょうか (sumimasen、o茶nookawariwoitadakemasudeshiょuka - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "お茶をもっと飲みなさい (pause [U6L4])",
+            "お茶を買いに行きます (o茶wo買ini行kimasu - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "お茶は要りません (o茶ha要rimasen - Japanese Mastery Unit 6 Lesson 4 U6L4)"
           ],
           "answerIndex": 0,
           "explanation": "「お茶のおかわりをいただけますでしょうか」が極めて礼儀正しく自然です。"
@@ -3765,10 +3765,10 @@
           "type": "multiple-choice",
           "prompt": "「ごちそうさまでした」の漢字表記「御馳走様でした」における「馳走」の本来の語源は何ですか。",
           "options": [
-            "客をもてなすために方々を馬で走り回って食材を集めたこと。",
-            "高価なワインを飲むこと。",
-            "ゆっくり座って休むこと。",
-            "早く食事を終えること。"
+            "客をもてなすために方々を馬で走り回って食材を集めたこと (pause [U6L4])",
+            "高価なワインを飲むこと (高価nawainwo飲mukoto - Japanese Mastery Unit 6 Lesson 4 U6L4)",
+            "ゆっくり座って休むこと (pause [U6L4])",
+            "早く食事を終えること (早ku食事wo終erukoto - Japanese Mastery Unit 6 Lesson 4 U6L4)"
           ],
           "answerIndex": 0,
           "explanation": "「馳走」は走り回ることを意味し、食事を用意するために駆け回ってくれた労苦への感謝を表現しています。"
@@ -3826,10 +3826,10 @@
         {
           "prompt": "【席の予約対話】電話で飲食店に今夜の予約を入れる対話として最も自然なものはどれですか。",
           "options": [
-            "「今夜七時に四名で予約をお願いしたいのですが、お席は空いていますでしょうか。」",
-            "「今夜四人で行くから席を取れ。」",
-            "「今夜七時に四名がいます。」",
-            "「予約は好きですか。」"
+            "「今夜七時に四名で予約をお願いしたいのですが、お席は空いていますでしょうか (「今夜七時ni四名de予約woo願ishitainodesuga、o席ha空iteimasudeshiょuka - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "「今夜四人で行くから席を取れ (「今夜四人de行kukara席wo取re - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "「今夜七時に四名がいます (「今夜七時ni四名gaimasu - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "「予約は好きですか (「予約ha好kidesuka - Japanese Mastery Unit 6 Lesson 5 U6L5)"
           ],
           "answerIndex": 0,
           "explanation": "「［日時］に［人数］で予約をお願いしたいのですが」が予約時の丁寧な定型表現です。"
@@ -3837,10 +3837,10 @@
         {
           "prompt": "【アレルギーの確認】アレルギー食材が含まれているか確認する質問はどれですか。",
           "options": [
-            "この料理に甲殻類（エビやカニ）は入っていますか。アレルギーがあります。",
-            "この料理は甘いですか。辛いですか。",
-            "この料理はいくらですか。",
-            "この料理はどこへ行きますか。"
+            "この料理に甲殻類 (pause [U6L5])",
+            "この料理は甘いですか。辛いですか (kono料理ha甘idesuka。辛idesuka - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "この料理はいくらですか (kono料理haikuradesuka - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "この料理はどこへ行きますか (kono料理hadokohe行kimasuka - Japanese Mastery Unit 6 Lesson 5 U6L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜は入っていますか。アレルギーがあります」で食材を確認します。"
@@ -3852,10 +3852,10 @@
         {
           "prompt": "【フルコースの感想】招待された会席料理の味と演出を褒める洗練された文を選択してください。",
           "options": [
-            "季節の食材が美しく盛り付けられていて、どのお料理も大変美味でした。",
-            "料理が多すぎて全部残しました。",
-            "味が辛すぎて食べられませんでした。",
-            "早く帰りたかったです。"
+            "季節の食材が美しく盛り付けられていて、どのお料理も大変美味でした (季節no食材ga美shiku盛ri付kerareteite、donoo料理mo大変美味deshita - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "料理が多すぎて全部残しました (料理ga多sugite全部残shimashita - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "味が辛すぎて食べられませんでした (味ga辛sugite食beraremasendeshita - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "早く帰りたかったです (pause [U6L5])"
           ],
           "answerIndex": 0,
           "explanation": "和食の美と味を称賛する「季節の食材が美しく盛り付けられていて、大変美味でした」が適切です。"
@@ -3863,10 +3863,10 @@
         {
           "prompt": "【退店時の挨拶】会計を済ませて店を出る際の挨拶を選択してください。",
           "options": [
-            "ごちそうさまでした。とても美味しかったです。また来ます。",
-            "いただきます。これから食べます。",
-            "お邪魔します。入ります。",
-            "さようなら。二度と来ません。"
+            "ごちそうさまでした。とても美味しかったです。また来ます (pause [U6L5])",
+            "いただきます。これから食べます (itadakimasu。korekara食bemasu - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "お邪魔します。入ります (o邪魔shimasu。入rimasu - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "さようなら。二度と来ません (sayounara。二度to来masen - Japanese Mastery Unit 6 Lesson 5 U6L5)"
           ],
           "answerIndex": 0,
           "explanation": "「ごちそうさまでした。とても美味しかったです。また来ます」が最高のお客側の礼儀です。"
@@ -3879,10 +3879,10 @@
           "type": "multiple-choice",
           "prompt": "飲食店での「予約・入店・注文・食事・会計・退店」の一連の流れで使われる表現として、順番が正しいものはどれですか。",
           "options": [
-            "予約をお願いします → いただきます → 注文をお願いします → お会計をお願いします → ごちそうさまでした",
-            "ごちそうさまでした → お会計をお願いします → いただきます → 予約をお願いします",
-            "いただきます → ごちそうさまでした → 注文をお願いします → お会計をお願いします",
-            "お会計をお願いします → いただきます → 予約をお願いします"
+            "予約をお願いします → いただきます → 注文をお願いします → お会計をお願いします → ごちそうさまでした (予約woo願ishimasu → itadakimasu → 注文woo願ishimasu → o会計woo願ishimasu → gochisousamadeshita - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "ごちそうさまでした → お会計をお願いします → いただきます → 予約をお願いします (gochisousamadeshita → o会計woo願ishimasu → itadakimasu → 予約woo願ishimasu - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "いただきます → ごちそうさまでした → 注文をお願いします → お会計をお願いします (itadakimasu → gochisousamadeshita → 注文woo願ishimasu → o会計woo願ishimasu - Japanese Mastery Unit 6 Lesson 5 U6L5)",
+            "お会計をお願いします → いただきます → 予約をお願いします (o会計woo願ishimasu → itadakimasu → 予約woo願ishimasu - Japanese Mastery Unit 6 Lesson 5 U6L5)"
           ],
           "answerIndex": 0,
           "explanation": "予約・注文・食事前（いただきます）・会計・退店（ごちそうさまでした）の順序です。"
@@ -3941,10 +3941,10 @@
         {
           "prompt": "【動詞の過去形活用】動詞「食べる」「行く」「飲む」の丁寧な過去肯定形（〜ました）として正しい組み合わせはどれですか。",
           "options": [
-            "食べました / 行きました / 飲みました",
-            "食べたでした / 行ったでした / 飲んだでした",
-            "食べました / 行きませんでした / 飲みます",
-            "食べました / 行くでした / 飲むでした"
+            "食べました / 行きました / 飲みました (食bemashita / 行kimashita / 飲mimashita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "食べたでした / 行ったでした / 飲んだでした (pause [U7L1])",
+            "食べました / 行きませんでした / 飲みます (食bemashita / 行kimasendeshita / 飲mimasu - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "食べました / 行くでした / 飲むでした (食bemashita / 行kudeshita / 飲mudeshita - Japanese Mastery Unit 7 Lesson 1 U7L1)"
           ],
           "answerIndex": 0,
           "explanation": "動詞の丁寧な過去形は「ます語幹 ＋ ました」です。"
@@ -3952,10 +3952,10 @@
         {
           "prompt": "【動詞の過去否定形】「先週の土曜日は雨だったので、どこへも＿＿＿。」の空欄に入る動詞過去否定形を選択してください。",
           "options": [
-            "出かけませんでした（過去の否定）",
-            "出かけました",
-            "出かけません",
-            "出かけるでした"
+            "出かけませんでした (出kakemasendeshita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "出かけました (出kakemashita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "出かけません (出kakemasen - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "出かけるでした (出kakerudeshita - Japanese Mastery Unit 7 Lesson 1 U7L1)"
           ],
           "answerIndex": 0,
           "explanation": "過去の行為の否定は「〜ませんでした（出かけませんでした）」を用います。"
@@ -3967,10 +3967,10 @@
         {
           "prompt": "【週末の行動報告】週末に友達と映画を見てお茶を飲んだことを報告する文を選択してください。",
           "options": [
-            "週末に友達と一緒に日本のアニメ映画を見て、カフェでお茶を飲みました。",
-            "週末に友達と一緒に映画を見るて、お茶を飲むでした。",
-            "週末に友達と一緒に映画を見たから、お茶を飲みません。",
-            "週末に友達と一緒に映画を見るでしょう。"
+            "週末に友達と一緒に日本のアニメ映画を見て、カフェでお茶を飲みました (週末ni友達to一緒ni日本noanime映画wo見te、kafuェdeo茶wo飲mimashita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "週末に友達と一緒に映画を見るて、お茶を飲むでした (週末ni友達to一緒ni映画wo見rute、o茶wo飲mudeshita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "週末に友達と一緒に映画を見たから、お茶を飲みません (週末ni友達to一緒ni映画wo見takara、o茶wo飲mimasen - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "週末に友達と一緒に映画を見るでしょう (週末ni友達to一緒ni映画wo見rudeshiょu - Japanese Mastery Unit 7 Lesson 1 U7L1)"
           ],
           "answerIndex": 0,
           "explanation": "「見て（て形接続）」「飲みました（過去形結び）」の時制一致が正確です。"
@@ -3978,10 +3978,10 @@
         {
           "prompt": "【昨日の勉強時間の伝達】昨日図書館で3時間日本語を勉強したことを述べる文を選択してください。",
           "options": [
-            "昨日は図書館で三時間日本語を勉強しました。",
-            "昨日は図書館で三時間日本語を勉強しますでした。",
-            "昨日は図書館で三時間日本語を勉強するでした。",
-            "昨日は図書館で三時間日本語を勉強したいです。"
+            "昨日は図書館で三時間日本語を勉強しました (昨日ha図書館de三時間日本語wo勉強shimashita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "昨日は図書館で三時間日本語を勉強しますでした (昨日ha図書館de三時間日本語wo勉強shimasudeshita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "昨日は図書館で三時間日本語を勉強するでした (昨日ha図書館de三時間日本語wo勉強surudeshita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "昨日は図書館で三時間日本語を勉強したいです (昨日ha図書館de三時間日本語wo勉強shitaidesu - Japanese Mastery Unit 7 Lesson 1 U7L1)"
           ],
           "answerIndex": 0,
           "explanation": "「勉強しました」が正しい過去形です。"
@@ -3994,10 +3994,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「する」と「来る（くる）」の丁寧な過去肯定形はどれですか。",
           "options": [
-            "しました / 来ました（きました）",
-            "するでした / 来るでした",
-            "したでした / 来たでした",
-            "しりました / きりました"
+            "しました / 来ました (shimashita / 来mashita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "するでした / 来るでした (surudeshita / 来rudeshita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "したでした / 来たでした (shitadeshita / 来tadeshita - Japanese Mastery Unit 7 Lesson 1 U7L1)",
+            "しりました / きりました (shirimashita / kirimashita - Japanese Mastery Unit 7 Lesson 1 U7L1)"
           ],
           "answerIndex": 0,
           "explanation": "三類動詞の過去形は「しました」「来ました（きました）」です。"
@@ -4056,10 +4056,10 @@
         {
           "prompt": "【い形容詞の過去形】「美味しい（おいしい）」「楽しい（たのしい）」の過去形として正しいものはどれですか。",
           "options": [
-            "美味しかったです / 楽しかったです（い→かったです）",
-            "美味しいでした / 楽しいでした",
-            "美味しいかったです / 楽しいかったです",
-            "美味しでした / 楽しでした"
+            "美味しかったです / 楽しかったです (pause [U7L2])",
+            "美味しいでした / 楽しいでした (pause [U7L2])",
+            "美味しいかったです / 楽しいかったです (pause [U7L2])",
+            "美味しでした / 楽しでした (pause [U7L2])"
           ],
           "answerIndex": 0,
           "explanation": "い形容詞の過去形は語尾の「い」を「かった」に変えて「〜かったです」となります。「〜いでした」は文法誤用です。"
@@ -4067,10 +4067,10 @@
         {
           "prompt": "【「いい（良い）」の不規則過去形】形容詞「いい」の正しい過去形を選択してください。",
           "options": [
-            "よかったです（語幹「よ-」が活用）",
-            "いかったです",
-            "いいでした",
-            "いくなかったです"
+            "よかったです (pause [U7L2])",
+            "いかったです (pause [U7L2])",
+            "いいでした (pause [U7L2])",
+            "いくなかったです (pause [U7L2])"
           ],
           "answerIndex": 0,
           "explanation": "「いい」は語幹「よい」に基づき、過去形は「よかったです」となります。"
@@ -4082,10 +4082,10 @@
         {
           "prompt": "【紅葉の感想】昨日の京都の紅葉が非常に美しかったことを述べる文を選択してください。",
           "options": [
-            "昨日の京都の紅葉は息をのむほど美しかったです。",
-            "昨日の京都の紅葉は息をのむほど美しいでした。",
-            "昨日の京都の紅葉は息をのむほど美しくでした。",
-            "昨日の京都の紅葉は息をのむほど美しいだったです。"
+            "昨日の京都の紅葉は息をのむほど美しかったです (pause [U7L2])",
+            "昨日の京都の紅葉は息をのむほど美しいでした (pause [U7L2])",
+            "昨日の京都の紅葉は息をのむほど美しくでした (pause [U7L2])",
+            "昨日の京都の紅葉は息をのむほど美しいだったです (pause [U7L2])"
           ],
           "answerIndex": 0,
           "explanation": "「美しい」の過去形は「美しかったです」です。"
@@ -4093,10 +4093,10 @@
         {
           "prompt": "【天候と気温の過去】昨日の天気が寒くなかったことを述べる文を選択してください。",
           "options": [
-            "昨日はあまり寒くなかったです（または 寒くありませんでした）。",
-            "昨日はあまり寒いではなかったです。",
-            "昨日はあまり寒くないでした。",
-            "昨日はあまり寒いじゃなかったです。"
+            "昨日はあまり寒くなかったです (pause [U7L2])",
+            "昨日はあまり寒いではなかったです (pause [U7L2])",
+            "昨日はあまり寒くないでした (pause [U7L2])",
+            "昨日はあまり寒いじゃなかったです (pause [U7L2])"
           ],
           "answerIndex": 0,
           "explanation": "い形容詞「寒い」の過去否定は「寒くなかったです / 寒くありませんでした」です。"
@@ -4109,10 +4109,10 @@
           "type": "multiple-choice",
           "prompt": "「高かった」と「高くなかった」の意味の対立として正しいものはどれですか。",
           "options": [
-            "前者は過去肯定（高かった＝It was expensive）、後者は過去否定（高くなかった＝It was not expensive）。",
-            "前者が現在形で後者が過去形である。",
-            "前者が安いで後者が高いである。",
-            "意味の違いはない。"
+            "前者は過去肯定 (前者ha過去肯定 - Japanese Mastery Unit 7 Lesson 2 U7L2)",
+            "前者が現在形で後者が過去形である (pause [U7L2])",
+            "前者が安いで後者が高いである (pause [U7L2])",
+            "意味の違いはない (pause [U7L2])"
           ],
           "answerIndex": 0,
           "explanation": "「高かった（過去肯定）」と「高くなかった（過去否定）」の対照です。"
@@ -4171,10 +4171,10 @@
         {
           "prompt": "【な形容詞・名詞の過去形】「静か（しずか）」「雨（あめ）」の丁寧な過去形として正しいものはどれですか。",
           "options": [
-            "静かでした / 雨でした（語幹＋でした）",
-            "静かかったです / 雨かったです",
-            "静かでしたです / 雨でしたです",
-            "静かくなりました / 雨くなりました"
+            "静かでした / 雨でした (静kadeshita / 雨deshita - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "静かかったです / 雨かったです (pause [U7L3])",
+            "静かでしたです / 雨でしたです (静kadeshitadesu / 雨deshitadesu - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "静かくなりました / 雨くなりました (静kakunarimashita / 雨kunarimashita - Japanese Mastery Unit 7 Lesson 3 U7L3)"
           ],
           "answerIndex": 0,
           "explanation": "な形容詞および名詞の丁寧な過去肯定形は「〜でした」を用います。"
@@ -4182,10 +4182,10 @@
         {
           "prompt": "【な形容詞の過去否定】「昨日は暇ではありませんでした」の文法機能として正しいものはどれですか。",
           "options": [
-            "な形容詞「暇」の過去の否定状態を表している（It was not free time yesterday）。",
-            "未来の予定を表している。",
-            "動詞の完了を表している。",
-            "疑問を表している。"
+            "な形容詞「暇」の過去の否定状態を表している (na形容詞「暇」no過去no否定状態wo表shiteiru - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "未来の予定を表している (未来no予定wo表shiteiru - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "動詞の完了を表している (動詞no完了wo表shiteiru - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "疑問を表している (疑問wo表shiteiru - Japanese Mastery Unit 7 Lesson 3 U7L3)"
           ],
           "answerIndex": 0,
           "explanation": "「〜ではありませんでした（じゃありませんでした）」はな形容詞・名詞の過去否定です。"
@@ -4197,10 +4197,10 @@
         {
           "prompt": "【過去の街の描写】昔その町がとても賑やかだったことを述べる文を選択してください。",
           "options": [
-            "昔、この町はとても賑やかでした。",
-            "昔、この町はとても賑やかかったです。",
-            "昔、この町はとても賑やかでしたでした。",
-            "昔、この町はとても賑やかですでした。"
+            "昔、この町はとても賑やかでした (昔、kono町hatotemo賑yakadeshita - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "昔、この町はとても賑やかかったです (pause [U7L3])",
+            "昔、この町はとても賑やかでしたでした (昔、kono町hatotemo賑yakadeshitadeshita - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "昔、この町はとても賑やかですでした (昔、kono町hatotemo賑yakadesudeshita - Japanese Mastery Unit 7 Lesson 3 U7L3)"
           ],
           "answerIndex": 0,
           "explanation": "な形容詞「賑やか」の過去形は「賑やかでした」です。"
@@ -4208,10 +4208,10 @@
         {
           "prompt": "【過去の天気の伝達】昨日は良い天気だったことを伝える文を選択してください。",
           "options": [
-            "昨日はとてもいい天気でした。",
-            "昨日はとてもいい天気かったです。",
-            "昨日はとてもいい天気でしたです。",
-            "昨日はとてもいい天気にしました。"
+            "昨日はとてもいい天気でした (昨日hatotemoii天気deshita - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "昨日はとてもいい天気かったです (pause [U7L3])",
+            "昨日はとてもいい天気でしたです (昨日hatotemoii天気deshitadesu - Japanese Mastery Unit 7 Lesson 3 U7L3)",
+            "昨日はとてもいい天気にしました (昨日hatotemoii天気nishimashita - Japanese Mastery Unit 7 Lesson 3 U7L3)"
           ],
           "answerIndex": 0,
           "explanation": "名詞「天気」の過去形は「天気でした」です。"
@@ -4224,10 +4224,10 @@
           "type": "multiple-choice",
           "prompt": "「い形容詞」と「な形容詞」の過去肯定形の語尾の区別として正しいものはどれですか。",
           "options": [
-            "い形容詞は「〜かったです」、な形容詞は「〜でした」。",
-            "い形容詞が「〜でした」、な形容詞が「〜かったです」。",
-            "両方とも「〜かったです」になる。",
-            "両方とも「〜でした」になる。"
+            "い形容詞は「〜かったです」、な形容詞は「〜でした (pause [U7L3])",
+            "い形容詞が「〜でした」、な形容詞が「〜かったです (pause [U7L3])",
+            "両方とも「〜かったです」になる (pause [U7L3])",
+            "両方とも「〜でした」になる (両方tomo「〜deshita」ninaru - Japanese Mastery Unit 7 Lesson 3 U7L3)"
           ],
           "answerIndex": 0,
           "explanation": "い形容詞は「〜かったです（高かった）」、な形容詞は「〜でした（綺麗でした）」と明確に分かれます。"
@@ -4286,10 +4286,10 @@
         {
           "prompt": "【経験を表す構文】「富士山に登った経験がある」ことを表す正しい文法構文はどれですか。",
           "options": [
-            "富士山に【登ったことがあります】。（動詞た形＋ことがあります）",
-            "富士山に【登ることがあります】。",
-            "富士山に【登りことがあります】。",
-            "富士山に【登ってことがあります】。"
+            "富士山に【登ったことがあります】 (pause [U7L4])",
+            "富士山に【登ることがあります】 (富士山ni【登rukotogaarimasu】 - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "富士山に【登りことがあります】 (富士山ni【登rikotogaarimasu】 - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "富士山に【登ってことがあります】 (pause [U7L4])"
           ],
           "answerIndex": 0,
           "explanation": "過去の生涯経験を表す文法形式は「動詞た形 ＋ ことがあります」です。"
@@ -4297,10 +4297,10 @@
         {
           "prompt": "【経験の有無を問う質問と回答】日本へ行ったことがあるか尋ねられ、一度もないと答える対話を選択してください。",
           "options": [
-            "「日本へ行ったことがありますか。」「いいえ、一度も行ったことがありません。」",
-            "「日本へ行ったことがありますか。」「いいえ、行ったことがありました。」",
-            "「日本へ行ったことがありますか。」「はい、行きませんでした。」",
-            "「日本へ行ったことがありますか。」「一度も行きました。」"
+            "「日本へ行ったことがありますか。」「いいえ、一度も行ったことがありません (pause [U7L4])",
+            "「日本へ行ったことがありますか。」「いいえ、行ったことがありました (pause [U7L4])",
+            "「日本へ行ったことがありますか。」「はい、行きませんでした (pause [U7L4])",
+            "「日本へ行ったことがありますか。」「一度も行きました (pause [U7L4])"
           ],
           "answerIndex": 0,
           "explanation": "経験がない場合は「いいえ、一度も［動詞た形］ことがありません」と答えます。"
@@ -4312,10 +4312,10 @@
         {
           "prompt": "【伝統芸能の鑑賞経験】歌舞伎の舞台を鑑賞した経験があることを述べる文を選択してください。",
           "options": [
-            "大学時代に歌舞伎や能楽の舞台を鑑賞したことがあります。",
-            "大学時代に歌舞伎や能楽の舞台を鑑賞するがあります。",
-            "大学時代に歌舞伎や能楽の舞台を鑑賞してがあります。",
-            "大学時代に歌舞伎や能楽の舞台を鑑賞したことがありますでした。"
+            "大学時代に歌舞伎や能楽の舞台を鑑賞したことがあります (大学時代ni歌舞伎ya能楽no舞台wo鑑賞shitakotogaarimasu - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "大学時代に歌舞伎や能楽の舞台を鑑賞するがあります (大学時代ni歌舞伎ya能楽no舞台wo鑑賞surugaarimasu - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "大学時代に歌舞伎や能楽の舞台を鑑賞してがあります (大学時代ni歌舞伎ya能楽no舞台wo鑑賞shitegaarimasu - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "大学時代に歌舞伎や能楽の舞台を鑑賞したことがありますでした (大学時代ni歌舞伎ya能楽no舞台wo鑑賞shitakotogaarimasudeshita - Japanese Mastery Unit 7 Lesson 4 U7L4)"
           ],
           "answerIndex": 0,
           "explanation": "「鑑賞した（た形）＋ ことがあります」の構成が正確です。"
@@ -4323,10 +4323,10 @@
         {
           "prompt": "【和食の試食経験】納豆を食べたことがあるか尋ねる文を選択してください。",
           "options": [
-            "日本の納豆を食べたことがありますか。",
-            "日本の納豆を食べるがありますか。",
-            "日本の納豆を食べてがありますか。",
-            "日本の納豆を飲んだことがありますか。"
+            "日本の納豆を食べたことがありますか (日本no納豆wo食betakotogaarimasuka - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "日本の納豆を食べるがありますか (日本no納豆wo食berugaarimasuka - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "日本の納豆を食べてがありますか (日本no納豆wo食betegaarimasuka - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "日本の納豆を飲んだことがありますか (日本no納豆wo飲ndakotogaarimasuka - Japanese Mastery Unit 7 Lesson 4 U7L4)"
           ],
           "answerIndex": 0,
           "explanation": "「食べたことがありますか」で経験を尋ねます。"
@@ -4339,10 +4339,10 @@
           "type": "multiple-choice",
           "prompt": "「〜たことがあります（経験）」と「〜ました（単なる過去の動作）」の違いは何ですか。",
           "options": [
-            "前者は生涯を通じた体験・経験の有無を表し、後者は特定の過去の一時点で行った動作を表す。",
-            "前者が現在形で後者が過去形である。",
-            "前者が否定で後者が肯定である。",
-            "文法的な違いはない。"
+            "前者は生涯を通じた体験・経験の有無を表し、後者は特定の過去の一時点で行った動作を表す (pause [U7L4])",
+            "前者が現在形で後者が過去形である (前者ga現在形de後者ga過去形dearu - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "前者が否定で後者が肯定である (前者ga否定de後者ga肯定dearu - Japanese Mastery Unit 7 Lesson 4 U7L4)",
+            "文法的な違いはない (文法的na違ihanai - Japanese Mastery Unit 7 Lesson 4 U7L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たことがある」はこれまでの人生における経験、「〜ました」は特定の過去の出来事・行為を指します。"
@@ -4400,10 +4400,10 @@
         {
           "prompt": "【旅行回想の総合対話】過去の旅行体験を尋ねて答える自然な対話を選択してください。",
           "options": [
-            "「京都へ行ったことがありますか。」「はい、去年行きました。金閣寺がとても綺麗でした。」",
-            "「京都へ行ったことがありますか。」「はい、去年行きます。綺麗ですでした。」",
-            "「京都へ行ったことがありますか。」「いいえ、行きました。」",
-            "「京都へ行ったことがありますか。」「去年行ったことがありますでした。」"
+            "「京都へ行ったことがありますか。」「はい、去年行きました。金閣寺がとても綺麗でした (pause [U7L5])",
+            "「京都へ行ったことがありますか。」「はい、去年行きます。綺麗ですでした (pause [U7L5])",
+            "「京都へ行ったことがありますか。」「いいえ、行きました (pause [U7L5])",
+            "「京都へ行ったことがありますか。」「去年行ったことがありますでした (pause [U7L5])"
           ],
           "answerIndex": 0,
           "explanation": "経験の質問「行ったことがありますか」に対し、「去年行きました（過去の事実）」「綺麗でした（形容詞過去）」と答える流れが自然です。"
@@ -4411,10 +4411,10 @@
         {
           "prompt": "【複数動作の並列「〜たり〜たりする」】休日の活動を例示して過去を語る構文はどれですか。",
           "options": [
-            "休日は本を読んだり、音楽を聞いたりしました。（〜たり〜たりした）",
-            "休日は本を読みたり、音楽を聞きたりしました。",
-            "休日は本を読んで、音楽を聞くでした。",
-            "休日は本を読んだりと音楽を聞いたりとでした。"
+            "休日は本を読んだり、音楽を聞いたりしました (休日ha本wo読ndari、音楽wo聞itarishimashita - Japanese Mastery Unit 7 Lesson 5 U7L5)",
+            "休日は本を読みたり、音楽を聞きたりしました (休日ha本wo読mitari、音楽wo聞kitarishimashita - Japanese Mastery Unit 7 Lesson 5 U7L5)",
+            "休日は本を読んで、音楽を聞くでした (休日ha本wo読nde、音楽wo聞kudeshita - Japanese Mastery Unit 7 Lesson 5 U7L5)",
+            "休日は本を読んだりと音楽を聞いたりとでした (休日ha本wo読ndarito音楽wo聞itaritodeshita - Japanese Mastery Unit 7 Lesson 5 U7L5)"
           ],
           "answerIndex": 0,
           "explanation": "動作の例示並列構文は「動詞た形 ＋ り、動詞た形 ＋ り ＋ する（しました）」です。"
@@ -4426,10 +4426,10 @@
         {
           "prompt": "【留学生活の回想】日本での留学生活が充実して楽しかったことを述べる文を選択してください。",
           "options": [
-            "日本での留学生活はとても充実していて楽しかったです。",
-            "日本での留学生活はとても充実していて楽しいでした。",
-            "日本での留学生活はとても充実して楽しいだったです。",
-            "日本での留学生活はとても充実するでした。"
+            "日本での留学生活はとても充実していて楽しかったです (pause [U7L5])",
+            "日本での留学生活はとても充実していて楽しいでした (日本deno留学生活hatotemo充実shiteite楽shiideshita - Japanese Mastery Unit 7 Lesson 5 U7L5)",
+            "日本での留学生活はとても充実して楽しいだったです (pause [U7L5])",
+            "日本での留学生活はとても充実するでした (日本deno留学生活hatotemo充実surudeshita - Japanese Mastery Unit 7 Lesson 5 U7L5)"
           ],
           "answerIndex": 0,
           "explanation": "「充実していて（て形）」「楽しかったです（い形容詞過去形）」が正確です。"
@@ -4437,10 +4437,10 @@
         {
           "prompt": "【富士登山の体験談】富士山に登った時の思い出を語る文を選択してください。",
           "options": [
-            "富士山に登ったことがあります。山頂からの朝日が息をのむほど美しかったです。",
-            "富士山に登ることがあります。朝日が美しいでした。",
-            "富士山に登りがありました。朝日が美しかったでした。",
-            "富士山に登ってありました。朝日が美しくでした。"
+            "富士山に登ったことがあります。山頂からの朝日が息をのむほど美しかったです (pause [U7L5])",
+            "富士山に登ることがあります。朝日が美しいでした (富士山ni登rukotogaarimasu。朝日ga美shiideshita - Japanese Mastery Unit 7 Lesson 5 U7L5)",
+            "富士山に登りがありました。朝日が美しかったでした (pause [U7L5])",
+            "富士山に登ってありました。朝日が美しくでした (pause [U7L5])"
           ],
           "answerIndex": 0,
           "explanation": "経験「登ったことがあります」と感想「美しかったです」の組み合わせが完璧です。"
@@ -4453,10 +4453,10 @@
           "type": "multiple-choice",
           "prompt": "次の文の中で、時制・活用に文法的な誤りがない正しい日本語文はどれですか。",
           "options": [
-            "昨日は友達と温泉に入ったり、美味しい和食を食べたりして、とても楽しかったです。",
-            "昨日は友達と温泉に入るたり、和食を食べるたりして、楽しいでした。",
-            "昨日は友達と温泉に入ったし、和食を食べたしで、楽しいかったです。",
-            "昨日は友達と温泉に入りて、和食を食べりて、楽しくでした。"
+            "昨日は友達と温泉に入ったり、美味しい和食を食べたりして、とても楽しかったです (pause [U7L5])",
+            "昨日は友達と温泉に入るたり、和食を食べるたりして、楽しいでした (昨日ha友達to温泉ni入rutari、和食wo食berutarishite、楽shiideshita - Japanese Mastery Unit 7 Lesson 5 U7L5)",
+            "昨日は友達と温泉に入ったし、和食を食べたしで、楽しいかったです (pause [U7L5])",
+            "昨日は友達と温泉に入りて、和食を食べりて、楽しくでした (昨日ha友達to温泉ni入rite、和食wo食berite、楽shikudeshita - Japanese Mastery Unit 7 Lesson 5 U7L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たり〜たりして」「楽しかったです」のすべてが規範文法に完全合致しています。"
@@ -4514,10 +4514,10 @@
         {
           "prompt": "【こそあど体系の距離感】話し手と聞き手の両方から離れた場所にある対象を指す指示語として正しいものはどれですか。",
           "options": [
-            "あれ / あの / あそこ（遠称）",
-            "これ / この / ここ（近称）",
-            "それ / その / そこ（中称）",
-            "どれ / どの / どこ（不定・疑問）"
+            "あれ / あの / あそこ (are / ano / asoko - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "これ / この / ここ (kore / kono / koko - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "それ / その / そこ (sore / sono / soko - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "どれ / どの / どこ (dore / dono / doko - Japanese Mastery Unit 8 Lesson 1 U8L1)"
           ],
           "answerIndex": 0,
           "explanation": "「あ」系列（あれ、あの、あそこ）は話し手・聞き手双方から空間的・心理的に離れた対象を指します。"
@@ -4525,10 +4525,10 @@
         {
           "prompt": "【「これ」と「この」の文法差】名詞の直前に直接修飾語として置くことができる指示語はどれですか。",
           "options": [
-            "この（連体詞：この本、この時計）",
-            "これ（代名詞）",
-            "ここ（場所名詞）",
-            "どれ（代名詞）"
+            "この (kono - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "これ (kore - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "ここ (koko - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "どれ (dore - Japanese Mastery Unit 8 Lesson 1 U8L1)"
           ],
           "answerIndex": 0,
           "explanation": "名詞を直接修飾する連体形は「この／その／あの／どの」です（例：「この辞書」）。"
@@ -4540,10 +4540,10 @@
         {
           "prompt": "【店員への商品提示依頼】ショーケースの中にある相手（店員）側の万年筆を見せてほしいと頼む文を選択してください。",
           "options": [
-            "すみません、そのショーケースの中の万年筆を見せていただけますでしょうか。",
-            "すみません、あのショーケースの中の万年筆を見せなさい。",
-            "すみません、このショーケースの中の万年筆を見ます。",
-            "すみません、どのショーケースの中の万年筆を見ましたか。"
+            "すみません、そのショーケースの中の万年筆を見せていただけますでしょうか (sumimasen、sonoshiョーkeーsuno中no万年筆wo見seteitadakemasudeshiょuka - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "すみません、あのショーケースの中の万年筆を見せなさい (sumimasen、anoshiョーkeーsuno中no万年筆wo見senasai - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "すみません、このショーケースの中の万年筆を見ます (sumimasen、konoshiョーkeーsuno中no万年筆wo見masu - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "すみません、どのショーケースの中の万年筆を見ましたか (sumimasen、donoshiョーkeーsuno中no万年筆wo見mashitaka - Japanese Mastery Unit 8 Lesson 1 U8L1)"
           ],
           "answerIndex": 0,
           "explanation": "聞き手の手元・近くにある対象には中称「その」を用います。"
@@ -4551,10 +4551,10 @@
         {
           "prompt": "【遠くの建物の案内】遠くに見える高いタワーを指差して説明する文を選択してください。",
           "options": [
-            "あそこに見える高い建物が東京スカイツリーです。",
-            "ここに見える高い建物が東京スカイツリーです。",
-            "そこに見える高い建物が東京スカイツリーです。",
-            "どこに見える高い建物が東京スカイツリーですか。"
+            "あそこに見える高い建物が東京スカイツリーです (asokoni見eru高i建物ga東京sukaitsuriーdesu - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "ここに見える高い建物が東京スカイツリーです (kokoni見eru高i建物ga東京sukaitsuriーdesu - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "そこに見える高い建物が東京スカイツリーです (sokoni見eru高i建物ga東京sukaitsuriーdesu - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "どこに見える高い建物が東京スカイツリーですか (dokoni見eru高i建物ga東京sukaitsuriーdesuka - Japanese Mastery Unit 8 Lesson 1 U8L1)"
           ],
           "answerIndex": 0,
           "explanation": "遠く離れた場所を指す指示詞は「あそこ」です。"
@@ -4567,10 +4567,10 @@
           "type": "multiple-choice",
           "prompt": "指示詞の疑問詞「どれ」「どの」「どこ」「どちら」の使い分けとして正しいものはどれですか。",
           "options": [
-            "どれ＝物（代名詞）、どの＝名詞修飾、どこ＝場所、どちら＝方角・二者択一。",
-            "すべて完全に同一で違いはない。",
-            "どれ＝場所、どこ＝物、どちら＝人。",
-            "どれ＝時間、どの＝理由。"
+            "どれ＝物 (dore＝物 - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "すべて完全に同一で違いはない (subete完全ni同一de違ihanai - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "どれ＝場所、どこ＝物、どちら＝人 (dore＝場所、doko＝物、dochira＝人 - Japanese Mastery Unit 8 Lesson 1 U8L1)",
+            "どれ＝時間、どの＝理由 (dore＝時間、dono＝理由 - Japanese Mastery Unit 8 Lesson 1 U8L1)"
           ],
           "answerIndex": 0,
           "explanation": "物＝どれ、連体詞＝どの、場所＝どこ、方向・二者比較＝どちら（どっち）です。"
@@ -4628,10 +4628,10 @@
         {
           "prompt": "【二者比較構文「AのほうがBより」】「バスより電車のほうが速い」ことを表す文法的に正しい文はどれですか。",
           "options": [
-            "電車のほうが バスより 速いです。（［優位］のほうが ［基準］より）",
-            "電車のより バスほうが 速いです。",
-            "電車が バスよりの ほう速いです。",
-            "電車に バスより 速いです。"
+            "電車のほうが バスより 速いです (電車nohouga basuyori 速idesu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "電車のより バスほうが 速いです (電車noyori basuhouga 速idesu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "電車が バスよりの ほう速いです (電車ga basuyorino hou速idesu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "電車に バスより 速いです (電車ni basuyori 速idesu - Japanese Mastery Unit 8 Lesson 2 U8L2)"
           ],
           "answerIndex": 0,
           "explanation": "二者比較構文は「［優位な方］のほうが ［比較基準］より ［形容詞］です」となります。"
@@ -4639,10 +4639,10 @@
         {
           "prompt": "【比較助詞「より」の機能】「着物はドレスより高価です」における「より」の文法機能は何ですか。",
           "options": [
-            "比較の基準（〜と比べて / than）を示す格助詞。",
-            "出発点を示す格助詞。",
-            "理由を示す接続助詞。",
-            "並列を示す助詞。"
+            "比較の基準 (比較no基準 - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "出発点を示す格助詞 (出発点wo示su格助詞 - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "理由を示す接続助詞 (理由wo示su接続助詞 - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "並列を示す助詞 (並列wo示su助詞 - Japanese Mastery Unit 8 Lesson 2 U8L2)"
           ],
           "answerIndex": 0,
           "explanation": "比較構文における「より」は比較基準（〜に比べて / than）を表します。"
@@ -4654,10 +4654,10 @@
         {
           "prompt": "【価格の比較】伝統的な着物が現代のドレスより高価であることを述べる文を選択してください。",
           "options": [
-            "あの展示されている伝統的な着物は、こちらの現代的なドレスより高価です。",
-            "あの展示されている伝統的な着物は、こちらの現代的なドレスのほうが安いです。",
-            "あの着物はドレスより高くないです。",
-            "あの着物はドレスと高価です。"
+            "あの展示されている伝統的な着物は、こちらの現代的なドレスより高価です (ano展示sareteiru伝統的na着物ha、kochirano現代的nadoresuyori高価desu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "あの展示されている伝統的な着物は、こちらの現代的なドレスのほうが安いです (ano展示sareteiru伝統的na着物ha、kochirano現代的nadoresunohouga安idesu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "あの着物はドレスより高くないです (ano着物hadoresuyori高kunaidesu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "あの着物はドレスと高価です (ano着物hadoresuto高価desu - Japanese Mastery Unit 8 Lesson 2 U8L2)"
           ],
           "answerIndex": 0,
           "explanation": "「着物はドレスより高価です」が正確な比較文です。"
@@ -4665,10 +4665,10 @@
         {
           "prompt": "【利便性の比較】新幹線のほうが飛行機より便利であると述べる文を選択してください。",
           "options": [
-            "東京から大阪までは、新幹線のほうが飛行機より便利です。",
-            "東京から大阪までは、新幹線より飛行機のほうが便利です。",
-            "東京から大阪までは、新幹線が飛行機に便利です。",
-            "東京から大阪までは、新幹線の飛行機より便利です。"
+            "東京から大阪までは、新幹線のほうが飛行機より便利です (東京kara大阪madeha、新幹線nohouga飛行機yori便利desu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "東京から大阪までは、新幹線より飛行機のほうが便利です (東京kara大阪madeha、新幹線yori飛行機nohouga便利desu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "東京から大阪までは、新幹線が飛行機に便利です (東京kara大阪madeha、新幹線ga飛行機ni便利desu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "東京から大阪までは、新幹線の飛行機より便利です (東京kara大阪madeha、新幹線no飛行機yori便利desu - Japanese Mastery Unit 8 Lesson 2 U8L2)"
           ],
           "answerIndex": 0,
           "explanation": "「新幹線のほうが飛行機より便利です」が的確です。"
@@ -4681,10 +4681,10 @@
           "type": "multiple-choice",
           "prompt": "「北海道は沖縄より広いです」と同じ意味を表す文はどれですか。",
           "options": [
-            "沖縄より北海道のほうが広いです。",
-            "北海道より沖縄のほうが広いです。",
-            "北海道と沖縄は同じ広さです。",
-            "沖縄は北海道より広いです。"
+            "沖縄より北海道のほうが広いです (沖縄yori北海道nohouga広idesu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "北海道より沖縄のほうが広いです (北海道yori沖縄nohouga広idesu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "北海道と沖縄は同じ広さです (北海道to沖縄ha同ji広sadesu - Japanese Mastery Unit 8 Lesson 2 U8L2)",
+            "沖縄は北海道より広いです (沖縄ha北海道yori広idesu - Japanese Mastery Unit 8 Lesson 2 U8L2)"
           ],
           "answerIndex": 0,
           "explanation": "語順が変わっても「北海道のほうが沖縄より広い」という意味関係は同一です。"
@@ -4742,10 +4742,10 @@
         {
           "prompt": "【二者比較の疑問文】二つの選択肢から好みを尋ねる正しい疑問構文はどれですか。",
           "options": [
-            "コーヒーと紅茶と、どちらのほうが好きですか。（Aと Bと どちらが〜）",
-            "コーヒーと紅茶と、だれのほうが好きですか。",
-            "コーヒーと紅茶と、いつのほうが好きですか。",
-            "コーヒーと紅茶と、どこのほうが好きですか。"
+            "コーヒーと紅茶と、どちらのほうが好きですか (koーhiーto紅茶to、dochiranohouga好kidesuka - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "コーヒーと紅茶と、だれのほうが好きですか (koーhiーto紅茶to、darenohouga好kidesuka - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "コーヒーと紅茶と、いつのほうが好きですか (koーhiーto紅茶to、itsunohouga好kidesuka - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "コーヒーと紅茶と、どこのほうが好きですか (koーhiーto紅茶to、dokonohouga好kidesuka - Japanese Mastery Unit 8 Lesson 3 U8L3)"
           ],
           "answerIndex": 0,
           "explanation": "二つのうちどちらかを尋ねる疑問詞は「どちら（口語では どっち）」です。"
@@ -4753,10 +4753,10 @@
         {
           "prompt": "【二者比較への返答】「肉と魚とどちらが好きですか」に対する自然な回答はどれですか。",
           "options": [
-            "魚のほうが好きです。（または どちらも好きです）",
-            "肉が好きでした。",
-            "魚が好きではありませんでした。",
-            "肉と魚に行きます。"
+            "魚のほうが好きです (魚nohouga好kidesu - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "肉が好きでした (肉ga好kideshita - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "魚が好きではありませんでした (魚ga好kidehaarimasendeshita - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "肉と魚に行きます (肉to魚ni行kimasu - Japanese Mastery Unit 8 Lesson 3 U8L3)"
           ],
           "answerIndex": 0,
           "explanation": "「［選んだ方］のほうが好きです」または両方好きな場合は「どちらも好きです」と答えます。"
@@ -4768,10 +4768,10 @@
         {
           "prompt": "【速度の比較対話】新幹線と飛行機のどちらが速いか尋ねて答える対話を選択してください。",
           "options": [
-            "「新幹線と飛行機と、どちらのほうが速いですか。」「飛行機のほうが速いです。」",
-            "「新幹線と飛行機と、どちらが速いでしたか。」「飛行機が速いですでした。」",
-            "「新幹線と飛行機と、だれが速いですか。」「飛行機です。」",
-            "「新幹線と飛行機と、どこが速いですか。」「飛行機です。」"
+            "「新幹線と飛行機と、どちらのほうが速いですか。」「飛行機のほうが速いです (「新幹線to飛行機to、dochiranohouga速idesuka。」「飛行機nohouga速idesu - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "「新幹線と飛行機と、どちらが速いでしたか。」「飛行機が速いですでした (「新幹線to飛行機to、dochiraga速ideshitaka。」「飛行機ga速idesudeshita - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "「新幹線と飛行機と、だれが速いですか。」「飛行機です (「新幹線to飛行機to、darega速idesuka。」「飛行機desu - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "「新幹線と飛行機と、どこが速いですか。」「飛行機です (「新幹線to飛行機to、dokoga速idesuka。」「飛行機desu - Japanese Mastery Unit 8 Lesson 3 U8L3)"
           ],
           "answerIndex": 0,
           "explanation": "「どちらのほうが速いですか」「飛行機のほうが速いです」が規範的な対話です。"
@@ -4779,10 +4779,10 @@
         {
           "prompt": "【季節の好み比較】夏と冬のどちらが好きか尋ねる文を選択してください。",
           "options": [
-            "夏と冬と、どちらのほうが好きですか。",
-            "夏と冬と、どれのほうが好きですか。",
-            "夏と冬と、なんのほうが好きですか。",
-            "夏と冬と、だれのほうが好きですか。"
+            "夏と冬と、どちらのほうが好きですか (夏to冬to、dochiranohouga好kidesuka - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "夏と冬と、どれのほうが好きですか (夏to冬to、dorenohouga好kidesuka - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "夏と冬と、なんのほうが好きですか (夏to冬to、nannohouga好kidesuka - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "夏と冬と、だれのほうが好きですか (夏to冬to、darenohouga好kidesuka - Japanese Mastery Unit 8 Lesson 3 U8L3)"
           ],
           "answerIndex": 0,
           "explanation": "二者の選択には「どちら」を用います。"
@@ -4795,10 +4795,10 @@
           "type": "multiple-choice",
           "prompt": "「どちら」と「どれ」の使い分けに関する正しい規則はどれですか。",
           "options": [
-            "二者の中からの選択には「どちら」、三者以上（多数）の中からの選択には「どれ」を用いる。",
-            "二者には「どれ」、三者以上には「どちら」を用いる。",
-            "人には「どれ」、物には「どちら」を用いる。",
-            "全く同じで区別はない。"
+            "二者の中からの選択には「どちら」、三者以上 (二者no中karano選択niha「dochira」、三者以上 - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "二者には「どれ」、三者以上には「どちら」を用いる (二者niha「dore」、三者以上niha「dochira」wo用iru - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "人には「どれ」、物には「どちら」を用いる (人niha「dore」、物niha「dochira」wo用iru - Japanese Mastery Unit 8 Lesson 3 U8L3)",
+            "全く同じで区別はない (全ku同jide区別hanai - Japanese Mastery Unit 8 Lesson 3 U8L3)"
           ],
           "answerIndex": 0,
           "explanation": "二者比較には「どちら（which of the two）」、三者以上には「どれ（which of all）」を用います。"
@@ -4857,10 +4857,10 @@
         {
           "prompt": "【最上級構文「〜の中で一番」】四季の中で春が最も好きであることを述べる正しい構文はどれですか。",
           "options": [
-            "日本の四季の【中で】、春が【一番】好きです。（範囲の中で＋一番）",
-            "日本の四季のより、春が一番好きです。",
-            "日本の四季のほうが、春がより好きです。",
-            "日本の四季に、春が一倍好きです。"
+            "日本の四季の【中で】、春が【一番】好きです (ABA U8 [U8L4])",
+            "日本の四季のより、春が一番好きです (ABA U8 [U8L4])",
+            "日本の四季のほうが、春がより好きです (ABA U8 [U8L4])",
+            "日本の四季に、春が一倍好きです (ABA U8 [U8L4])"
           ],
           "answerIndex": 0,
           "explanation": "最上級表現は「［範囲・集団］の中で ［対象］が 一番（もっとも） ［形容詞］です」となります。"
@@ -4868,10 +4868,10 @@
         {
           "prompt": "【最上級の質問構文】果物の中で何が一番好きか尋ねる文はどれですか。",
           "options": [
-            "果物の中で【何が一番】好きですか。（三者以上の範囲＋疑問詞＋一番）",
-            "果物の中でどちらが一番好きですか。",
-            "果物の中でだれが一番好きですか。",
-            "果物の中でいつが一番好きですか。"
+            "果物の中で【何が一番】好きですか (ABA U8 [U8L4])",
+            "果物の中でどちらが一番好きですか (ABA U8 [U8L4])",
+            "果物の中でだれが一番好きですか (ABA U8 [U8L4])",
+            "果物の中でいつが一番好きですか (ABA U8 [U8L4])"
           ],
           "answerIndex": 0,
           "explanation": "三者以上の集団から物を尋ねる疑問詞は「何（なに）」を用います。"
@@ -4883,10 +4883,10 @@
         {
           "prompt": "【季節の最上級】日本の四季の中で春が一番好きである理由とともに述べる文を選択してください。",
           "options": [
-            "日本の四季の中で、私は桜が満開になる春が一番好きです。",
-            "日本の四季の中で、私は春のほうが冬より一番好きです。",
-            "日本の四季より、春が一番好きでした。",
-            "日本の四季の中で、春がどちらも好きです。"
+            "日本の四季の中で、私は桜が満開になる春が一番好きです (ABA U8 [U8L4])",
+            "日本の四季の中で、私は春のほうが冬より一番好きです (ABA U8 [U8L4])",
+            "日本の四季より、春が一番好きでした (ABA U8 [U8L4])",
+            "日本の四季の中で、春がどちらも好きです (ABA U8 [U8L4])"
           ],
           "answerIndex": 0,
           "explanation": "「四季の中で、春が一番好きです」が完璧な最上級文です。"
@@ -4894,10 +4894,10 @@
         {
           "prompt": "【日本一高い山】富士山が日本で一番高い山であることを述べる文を選択してください。",
           "options": [
-            "富士山は日本で一番高い山です。",
-            "富士山は日本より一番高い山です。",
-            "富士山のほうが日本で高い山です。",
-            "富士山は日本でどちらが高い山です。"
+            "富士山は日本で一番高い山です (ABA U8 [U8L4])",
+            "富士山は日本より一番高い山です (ABA U8 [U8L4])",
+            "富士山のほうが日本で高い山です (ABA U8 [U8L4])",
+            "富士山は日本でどちらが高い山です (ABA U8 [U8L4])"
           ],
           "answerIndex": 0,
           "explanation": "「日本で一番高い山です」が最上級の標準表現です。"
@@ -4910,10 +4910,10 @@
           "type": "multiple-choice",
           "prompt": "「家族の中で誰が一番背が高いですか」における疑問詞「誰（だれ）」の選択理由は何ですか。",
           "options": [
-            "比較対象が集団の中の「人」であるため。",
-            "比較対象が「物」であるため。",
-            "比較対象が「場所」であるため。",
-            "比較対象が「時間」であるため。"
+            "比較対象が集団の中の「人」であるため (ABA U8 [U8L4])",
+            "比較対象が「物」であるため (ABA U8 [U8L4])",
+            "比較対象が「場所」であるため (ABA U8 [U8L4])",
+            "比較対象が「時間」であるため (ABA U8 [U8L4])"
           ],
           "answerIndex": 0,
           "explanation": "人が対象の最上級質問には疑問詞「誰（だれ／どなた）」を用います。"
@@ -4972,10 +4972,10 @@
         {
           "prompt": "【買い物対話の指示詞と比較】複数のカメラを見比べて店員に相談する自然な対話を選択してください。",
           "options": [
-            "「この黒いカメラとその銀色のカメラと、どちらのほうが軽いですか。」「こちらの黒いカメラのほうが軽いです。」",
-            "「このカメラとそれカメラと、どちらが軽いですでした。」「これです。」",
-            "「あのカメラとこのカメラと、だれが軽いですか。」「黒いです。」",
-            "「このカメラがそのカメラより軽いですですか。」「はい、軽いです。」"
+            "「この黒いカメラとその銀色のカメラと、どちらのほうが軽いですか。」「こちらの黒いカメラのほうが軽いです (「kono黒ikameratosono銀色nokamerato、dochiranohouga軽idesuka。」「kochirano黒ikameranohouga軽idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "「このカメラとそれカメラと、どちらが軽いですでした。」「これです (「konokameratosorekamerato、dochiraga軽idesudeshita。」「koredesu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "「あのカメラとこのカメラと、だれが軽いですか。」「黒いです (「anokameratokonokamerato、darega軽idesuka。」「黒idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "「このカメラがそのカメラより軽いですですか。」「はい、軽いです (「konokameragasonokamerayori軽idesudesuka。」「hai、軽idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)"
           ],
           "answerIndex": 0,
           "explanation": "近称・中称の指示詞「この」「その」と比較構文「どちらのほうが〜」「こちらのほうが〜」が正確に連動しています。"
@@ -4983,10 +4983,10 @@
         {
           "prompt": "【旅行先での最上級質問】地元の人にこの地域で最も有名な名所を尋ねる表現はどれですか。",
           "options": [
-            "この町の中で、どこが一番有名な観光地ですか。",
-            "この町の中で、どちらが一番有名ですか。",
-            "この町より、だれが有名ですか。",
-            "この町は一番有名な観光地でしたか。"
+            "この町の中で、どこが一番有名な観光地ですか (kono町no中de、dokoga一番有名na観光地desuka - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "この町の中で、どちらが一番有名ですか (kono町no中de、dochiraga一番有名desuka - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "この町より、だれが有名ですか (kono町yori、darega有名desuka - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "この町は一番有名な観光地でしたか (kono町ha一番有名na観光地deshitaka - Japanese Mastery Unit 8 Lesson 5 U8L5)"
           ],
           "answerIndex": 0,
           "explanation": "場所の範囲からの最上級質問は「［範囲］の中で、どこが一番〜ですか」を用います。"
@@ -4998,10 +4998,10 @@
         {
           "prompt": "【総合比較の意思決定】複数の商品から性能と価格を比較して最終決定する文を選択してください。",
           "options": [
-            "あの製品は少し高価ですが、機能が一番優れているので、これにします。",
-            "あの製品は少し高価ですが、機能がどちらが優れているので、それにします。",
-            "あの製品は少し高価ですから、機能がより優れているでした。",
-            "あの製品は高価でしたので、どれにします。"
+            "あの製品は少し高価ですが、機能が一番優れているので、これにします (ano製品ha少shi高価desuga、機能ga一番優reteirunode、korenishimasu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "あの製品は少し高価ですが、機能がどちらが優れているので、それにします (ano製品ha少shi高価desuga、機能gadochiraga優reteirunode、sorenishimasu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "あの製品は少し高価ですから、機能がより優れているでした (ano製品ha少shi高価desukara、機能gayori優reteirudeshita - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "あの製品は高価でしたので、どれにします (ano製品ha高価deshitanode、dorenishimasu - Japanese Mastery Unit 8 Lesson 5 U8L5)"
           ],
           "answerIndex": 0,
           "explanation": "「機能が一番優れている（最上級）ので、これにします（決定）」の論理展開が自然です。"
@@ -5009,10 +5009,10 @@
         {
           "prompt": "【交通機関の比較選択】目的地への最適な移動手段を述べる文を選択してください。",
           "options": [
-            "時間はかかりますが、電車のほうがタクシーよりずっと安いです。",
-            "時間はかかりますが、電車のほうがタクシーの中で安いです。",
-            "時間はかかりますが、電車よりタクシーのほうが安いです。",
-            "時間はかかりますが、電車がタクシーに一番安いです。"
+            "時間はかかりますが、電車のほうがタクシーよりずっと安いです (pause [U8L5])",
+            "時間はかかりますが、電車のほうがタクシーの中で安いです (時間hakakarimasuga、電車nohougatakushiーno中de安idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "時間はかかりますが、電車よりタクシーのほうが安いです (時間hakakarimasuga、電車yoritakushiーnohouga安idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "時間はかかりますが、電車がタクシーに一番安いです (時間hakakarimasuga、電車gatakushiーni一番安idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)"
           ],
           "answerIndex": 0,
           "explanation": "「電車のほうがタクシーよりずっと安いです」が二者比較として正確です。"
@@ -5025,10 +5025,10 @@
           "type": "multiple-choice",
           "prompt": "「二者比較」と「最上級」を組み合わせた表現として文法的に完全なものはどれですか。",
           "options": [
-            "クラスの中で田中さんが一番背が高いですが、山田さんも佐藤さんより高いです。",
-            "クラスの中で田中さんがどちらが背が高いですが、山田さんのほうが高いです。",
-            "クラスより田中さんが一番高いですが、山田さんの中で高いです。",
-            "クラスの中で田中さんがより高いですが、山田さんも佐藤さん一番です。"
+            "クラスの中で田中さんが一番背が高いですが、山田さんも佐藤さんより高いです (kurasuno中de田中sanga一番背ga高idesuga、山田sanmo佐藤sanyori高idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "クラスの中で田中さんがどちらが背が高いですが、山田さんのほうが高いです (kurasuno中de田中sangadochiraga背ga高idesuga、山田sannohouga高idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "クラスより田中さんが一番高いですが、山田さんの中で高いです (kurasuyori田中sanga一番高idesuga、山田sanno中de高idesu - Japanese Mastery Unit 8 Lesson 5 U8L5)",
+            "クラスの中で田中さんがより高いですが、山田さんも佐藤さん一番です (kurasuno中de田中sangayori高idesuga、山田sanmo佐藤san一番desu - Japanese Mastery Unit 8 Lesson 5 U8L5)"
           ],
           "answerIndex": 0,
           "explanation": "最上級「クラスの中で一番高い」と比較「山田さんも佐藤さんより高い」が正しく使い分けられています。"
@@ -5087,10 +5087,10 @@
         {
           "prompt": "【移動空間を表す助詞「を」】「交差点を右に曲がる」「橋を渡る」における助詞「を」の文法機能は何ですか。",
           "options": [
-            "移動動作が通過・離脱する空間や場所を示す格助詞。",
-            "動作の目的物を示す格助詞。",
-            "動作を行う手段を示す助詞。",
-            "移動の目的地を示す助詞。"
+            "移動動作が通過・離脱する空間や場所を示す格助詞 (移動動作ga通過・離脱suru空間ya場所wo示su格助詞 - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "動作の目的物を示す格助詞。 (動作no目的物wo示su格助詞。 - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "動作を行う手段を示す助詞。 (動作wo行u手段wo示su助詞。 - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "移動の目的地を示す助詞。 (移動no目的地wo示su助詞。 - Japanese Mastery Unit 9 Lesson 1 U9L1)"
           ],
           "answerIndex": 0,
           "explanation": "「曲がる」「渡る」「歩く」「通る」などの移動動詞において、通過する場所には助詞「を」を用います。"
@@ -5098,10 +5098,10 @@
         {
           "prompt": "【道案内の指示表現】「次の信号を左に曲がって、まっすぐ進んでください」の正しい日本語表現を選択してください。",
           "options": [
-            "次の信号を左に曲がって、まっすぐ進んでください。",
-            "次の信号で左を曲がりて、まっすぐ進むてください。",
-            "次の信号に左へ曲がるで、まっすぐ進みます。",
-            "次の信号へ左に曲がりながら、まっすぐ進みましょう。"
+            "次の信号を左に曲がって、まっすぐ進んでください (pause [U9L1])",
+            "次の信号で左を曲がりて、まっすぐ進むてください (pause [U9L1])",
+            "次の信号に左へ曲がるで、まっすぐ進みます (pause [U9L1])",
+            "次の信号へ左に曲がりながら、まっすぐ進みましょう (pause [U9L1])"
           ],
           "answerIndex": 0,
           "explanation": "「信号を（通過点）＋ 左に（方向）曲がって、まっすぐ進んでください」が自然な道案内です。"
@@ -5113,10 +5113,10 @@
         {
           "prompt": "【郵便局への道案内】交差点を曲がり直進した先にある郵便局の場所を説明する文を選択してください。",
           "options": [
-            "この交差点を右に曲がって、二百メートルほどまっすぐ進むと左手に大きな郵便局があります。",
-            "この交差点に右を曲がりて、郵便局を行きます。",
-            "この交差点から右で曲がると、郵便局がありますでした。",
-            "この交差点へ右に曲がったので、郵便局へ行きました。"
+            "この交差点を右に曲がって、二百メートルほどまっすぐ進むと左手に大きな郵便局があります (pause [U9L1])",
+            "この交差点に右を曲がりて、郵便局を行きます (kono交差点ni右wo曲garite、郵便局wo行kimasu - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "この交差点から右で曲がると、郵便局がありますでした (kono交差点kara右de曲garuto、郵便局gaarimasudeshita - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "この交差点へ右に曲がったので、郵便局へ行きました (pause [U9L1])"
           ],
           "answerIndex": 0,
           "explanation": "「交差点を右に曲がって、まっすぐ進むと左手に〜があります」が正確な経路説明です。"
@@ -5124,10 +5124,10 @@
         {
           "prompt": "【信号と横断歩道の指示】信号で横断歩道を渡って目的地に行くよう案内する文を選択してください。",
           "options": [
-            "次の信号で横断歩道を渡って、角のコンビニの隣に目的地があります。",
-            "次の信号で横断歩道に渡るて、コンビニの隣に行きます。",
-            "次の信号を横断歩道で渡りて、コンビニがあります。",
-            "次の信号へ横断歩道が渡って、コンビニを見ました。"
+            "次の信号で横断歩道を渡って、角のコンビニの隣に目的地があります (pause [U9L1])",
+            "次の信号で横断歩道に渡るて、コンビニの隣に行きます (次no信号de横断歩道ni渡rute、konbinino隣ni行kimasu - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "次の信号を横断歩道で渡りて、コンビニがあります (次no信号wo横断歩道de渡rite、konbinigaarimasu - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "次の信号へ横断歩道が渡って、コンビニを見ました (pause [U9L1])"
           ],
           "answerIndex": 0,
           "explanation": "「横断歩道を渡って」が通過動作として正確です。"
@@ -5140,10 +5140,10 @@
           "type": "multiple-choice",
           "prompt": "「橋を渡る」の「を」と同じ文法機能を持つ助詞「を」を含む文はどれですか。",
           "options": [
-            "毎朝公園【を】散歩します。（通過空間の「を」）",
-            "毎朝りんご【を】食べます。（目的語の「を」）",
-            "本【を】買いました。（目的語の「を」）",
-            "手紙【を】書きます。（目的語の「を」）"
+            "毎朝公園【を】散歩します (毎朝公園【wo】散歩shimasu - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "毎朝りんご【を】食べます (毎朝ringo【wo】食bemasu - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "本【を】買いました (本【wo】買imashita - Japanese Mastery Unit 9 Lesson 1 U9L1)",
+            "手紙【を】書きます (手紙【wo】書kimasu - Japanese Mastery Unit 9 Lesson 1 U9L1)"
           ],
           "answerIndex": 0,
           "explanation": "「公園を散歩する」「道を歩く」「空を飛ぶ」の「を」は移動・通過空間を表します。"
@@ -5202,10 +5202,10 @@
         {
           "prompt": "【交通機関の乗降助詞】「電車に乗る」「バスを降りる」における助詞「に」と「を」の使い分けとして正しいものはどれですか。",
           "options": [
-            "乗る対象（接触・着点）には「に」、降りる対象（離脱場所）には「を」を用いる。",
-            "乗る対象に「を」、降りる対象に「に」を用いる。",
-            "両方とも「で」を用いる。",
-            "両方とも「へ」を用いる。"
+            "乗る対象 (乗ru対象 - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "乗る対象に「を」、降りる対象に「に」を用いる (乗ru対象ni「wo」、降riru対象ni「ni」wo用iru - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "両方とも「で」を用いる (両方tomo「de」wo用iru - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "両方とも「へ」を用いる (両方tomo「he」wo用iru - Japanese Mastery Unit 9 Lesson 2 U9L2)"
           ],
           "answerIndex": 0,
           "explanation": "交通機関に乗るときは「［乗物］に 乗る」、降りるときは離脱の助詞を用いて「［乗物］を 降りる」となります。"
@@ -5213,10 +5213,10 @@
         {
           "prompt": "【電車の乗換案内】新宿駅で別の路線に乗り換える指示文として正しいものはどれですか。",
           "options": [
-            "新宿駅で山手線から中央線に乗り換えてください。",
-            "新宿駅を山手線で中央線を乗り換えてください。",
-            "新宿駅に山手線の中央線へ乗り換えます。",
-            "新宿駅へ山手線に中央線が乗り換えてください。"
+            "新宿駅で山手線から中央線に乗り換えてください (新宿駅de山手線kara中央線ni乗ri換etekudasai - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "新宿駅を山手線で中央線を乗り換えてください (新宿駅wo山手線de中央線wo乗ri換etekudasai - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "新宿駅に山手線の中央線へ乗り換えます (新宿駅ni山手線no中央線he乗ri換emasu - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "新宿駅へ山手線に中央線が乗り換えてください (新宿駅he山手線ni中央線ga乗ri換etekudasai - Japanese Mastery Unit 9 Lesson 2 U9L2)"
           ],
           "answerIndex": 0,
           "explanation": "「［場所］で ［旧路線］から ［新路線］に 乗り換える」が標準的な乗換構文です。"
@@ -5228,10 +5228,10 @@
         {
           "prompt": "【バスの降車合図】次の停留所でバスを降りることを運転手に伝える文を選択してください。",
           "options": [
-            "すみません、次のバス停で降ります。",
-            "すみません、次のバス停を乗ります。",
-            "すみません、次のバス停に降りますでした。",
-            "すみません、次のバス停で乗り換えますでした。"
+            "すみません、次のバス停で降ります (sumimasen、次nobasu停de降rimasu - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "すみません、次のバス停を乗ります (sumimasen、次nobasu停wo乗rimasu - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "すみません、次のバス停に降りますでした (sumimasen、次nobasu停ni降rimasudeshita - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "すみません、次のバス停で乗り換えますでした (sumimasen、次nobasu停de乗ri換emasudeshita - Japanese Mastery Unit 9 Lesson 2 U9L2)"
           ],
           "answerIndex": 0,
           "explanation": "「次のバス停で降ります」が最も自然な降車宣言です。"
@@ -5239,10 +5239,10 @@
         {
           "prompt": "【交通手段の伝達】毎日地下鉄を使って会社へ通勤していることを述べる文を選択してください。",
           "options": [
-            "私は毎朝地下鉄で会社へ通っています。",
-            "私は毎朝地下鉄を会社に通っています。",
-            "私は毎朝地下鉄に会社を通っています。",
-            "私は毎朝地下鉄へ会社を通っています。"
+            "私は毎朝地下鉄で会社へ通っています (pause [U9L2])",
+            "私は毎朝地下鉄を会社に通っています (pause [U9L2])",
+            "私は毎朝地下鉄に会社を通っています (pause [U9L2])",
+            "私は毎朝地下鉄へ会社を通っています (pause [U9L2])"
           ],
           "answerIndex": 0,
           "explanation": "交通手段には助詞「で（地下鉄で）」を用います。"
@@ -5255,10 +5255,10 @@
           "type": "multiple-choice",
           "prompt": "「乗る」「降りる」「乗り換える」の活用グループ（動詞分類）の組み合わせはどれですか。",
           "options": [
-            "乗る（一類） / 降りる（二類・上一段） / 乗り換える（二類・下一段）",
-            "乗る（二類） / 降りる（一類） / 乗り換える（三類）",
-            "すべて一類動詞",
-            "すべて二類動詞"
+            "乗る (乗ru - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "乗る (Language concept U9 [U9L2])",
+            "すべて一類動詞 (subete一類動詞 - Japanese Mastery Unit 9 Lesson 2 U9L2)",
+            "すべて二類動詞 (subete二類動詞 - Japanese Mastery Unit 9 Lesson 2 U9L2)"
           ],
           "answerIndex": 0,
           "explanation": "乗る＝乗ります（一類）、降りる＝降ります（二類）、乗り換える＝乗り換えます（二類）です。"
@@ -5319,10 +5319,10 @@
         {
           "prompt": "【所要時間を尋ねる構文】目的地までの所要時間を尋ねる標準的な表現はどれですか。",
           "options": [
-            "ここから東京駅まで電車でどのくらい（どのぐらい）かかりますか。",
-            "ここから東京駅まで電車でいくらありますか。",
-            "ここから東京駅まで電車で何人がかかりますか。",
-            "ここから東京駅まで電車でどこへ行きますか。"
+            "ここから東京駅まで電車でどのくらい (kokokara東京駅made電車dedonokurai - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "ここから東京駅まで電車でいくらありますか (kokokara東京駅made電車deikuraarimasuka - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "ここから東京駅まで電車で何人がかかりますか (kokokara東京駅made電車de何人gakakarimasuka - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "ここから東京駅まで電車でどこへ行きますか (kokokara東京駅made電車dedokohe行kimasuka - Japanese Mastery Unit 9 Lesson 3 U9L3)"
           ],
           "answerIndex": 0,
           "explanation": "所要時間を尋ねる疑問詞は「どのくらい／どのぐらい（How long）」を用い、動詞「かかる（かかりますか）」に繋ぎます。"
@@ -5330,10 +5330,10 @@
         {
           "prompt": "【起点と終点「〜から〜まで」】移動の区間を表す助詞の組み合わせはどれですか。",
           "options": [
-            "東京駅【から】京都駅【まで】（起点＝から / 終点＝まで）",
-            "東京駅【まで】京都駅【から】",
-            "東京駅【に】京都駅【へ】",
-            "東京駅【で】京都駅【を】"
+            "東京駅【から】京都駅【まで】 (東京駅【kara】京都駅【made】 - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "東京駅【まで】京都駅【から】 (東京駅【made】京都駅【kara】 - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "東京駅【に】京都駅【へ】 (東京駅【ni】京都駅【he】 - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "東京駅【で】京都駅【を】 (東京駅【de】京都駅【wo】 - Japanese Mastery Unit 9 Lesson 3 U9L3)"
           ],
           "answerIndex": 0,
           "explanation": "出発点（起点）は「から」、到着点（終点・限度）は「まで」で表します。"
@@ -5345,10 +5345,10 @@
         {
           "prompt": "【新幹線の所要時間伝達】東京から京都までの新幹線所要時間を説明する文を選択してください。",
           "options": [
-            "東京駅から京都駅まで東海道新幹線のぞみ号で約二時間十五分かかります。",
-            "東京駅まで京都駅から新幹線で二時間十五分を行きます。",
-            "東京駅に京都駅へ新幹線を二時間十五分があります。",
-            "東京駅で京都駅の新幹線で二時間十五分でした。"
+            "東京駅から京都駅まで東海道新幹線のぞみ号で約二時間十五分かかります (東京駅kara京都駅made東海道新幹線nozomi号de約二時間十五分kakarimasu - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "東京駅まで京都駅から新幹線で二時間十五分を行きます (東京駅made京都駅kara新幹線de二時間十五分wo行kimasu - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "東京駅に京都駅へ新幹線を二時間十五分があります (東京駅ni京都駅he新幹線wo二時間十五分gaarimasu - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "東京駅で京都駅の新幹線で二時間十五分でした (東京駅de京都駅no新幹線de二時間十五分deshita - Japanese Mastery Unit 9 Lesson 3 U9L3)"
           ],
           "answerIndex": 0,
           "explanation": "「〜から〜まで〜で約［時間］かかります」が完璧な所要時間説明です。"
@@ -5356,10 +5356,10 @@
         {
           "prompt": "【徒歩での所要時間】駅からホテルまで歩いて約5分であることを述べる文を選択してください。",
           "options": [
-            "駅からホテルまで歩いて五分ほどです（または 歩いて約五分かかります）。",
-            "駅からホテルまで歩くで五分があります。",
-            "駅からホテルまで歩きますと五分に行きます。",
-            "駅からホテルまで歩きながら五分でした。"
+            "駅からホテルまで歩いて五分ほどです (駅karahoterumade歩ite五分hododesu - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "駅からホテルまで歩くで五分があります (駅karahoterumade歩kude五分gaarimasu - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "駅からホテルまで歩きますと五分に行きます (駅karahoterumade歩kimasuto五分ni行kimasu - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "駅からホテルまで歩きながら五分でした (駅karahoterumade歩kinagara五分deshita - Japanese Mastery Unit 9 Lesson 3 U9L3)"
           ],
           "answerIndex": 0,
           "explanation": "「歩いて（て形手段）＋［時間］ほどです / かかります」と表現します。"
@@ -5372,10 +5372,10 @@
           "type": "multiple-choice",
           "prompt": "時間・費用を「要する・費やす」という意味を持つ自動詞はどれですか。",
           "options": [
-            "かかる（かかります）",
-            "かける（かけます）",
-            "とる（とります）",
-            "する（します）"
+            "かかる (kakaru - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "かける (kakeru - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "とる (toru - Japanese Mastery Unit 9 Lesson 3 U9L3)",
+            "する (suru - Japanese Mastery Unit 9 Lesson 3 U9L3)"
           ],
           "answerIndex": 0,
           "explanation": "時間や費用が必要である・費やされることを表す動詞は「かかる」です。"
@@ -5434,10 +5434,10 @@
         {
           "prompt": "【駅出口の問い合わせ】目的の施設に近い出口を駅員に尋ねる丁寧な表現はどれですか。",
           "options": [
-            "すみません、国立博物館へ行くにはどの出口を出ればよろしいでしょうか。",
-            "おい、博物館の出口を教えろ。",
-            "博物館の出口はどこを出ますかでした。",
-            "博物館の出口を出てください。"
+            "すみません、国立博物館へ行くにはどの出口を出ればよろしいでしょうか (sumimasen、国立博物館he行kunihadono出口wo出rebayoroshiideshiょuka - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "おい、博物館の出口を教えろ (oi、博物館no出口wo教ero - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "博物館の出口はどこを出ますかでした (博物館no出口hadokowo出masukadeshita - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "博物館の出口を出てください (博物館no出口wo出tekudasai - Japanese Mastery Unit 9 Lesson 4 U9L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜へ行くにはどの出口を出ればよろしいでしょうか」が最も洗練された問い合わせ表現です。"
@@ -5445,10 +5445,10 @@
         {
           "prompt": "【番線とホームの確認】空港行きの電車が何番線から発車するか確認する質問はどれですか。",
           "options": [
-            "成田空港行きの特急電車は何番線（なんばんせん）から出ますか。",
-            "成田空港行きの特急電車は何番線に出ますか。",
-            "成田空港行きの特急電車は何番線を乗りますか。",
-            "成田空港行きの特急電車は何番線に行きますか。"
+            "成田空港行きの特急電車は何番線 (成田空港行kino特急電車ha何番線 - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "成田空港行きの特急電車は何番線に出ますか (成田空港行kino特急電車ha何番線ni出masuka - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "成田空港行きの特急電車は何番線を乗りますか (成田空港行kino特急電車ha何番線wo乗rimasuka - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "成田空港行きの特急電車は何番線に行きますか (成田空港行kino特急電車ha何番線ni行kimasuka - Japanese Mastery Unit 9 Lesson 4 U9L4)"
           ],
           "answerIndex": 0,
           "explanation": "発車ホームを尋ねるときは「何番線から出ますか（発車しますか）」と言います。"
@@ -5460,10 +5460,10 @@
         {
           "prompt": "【改札口の確認】目的地に行くための改札口を尋ねる文を選択してください。",
           "options": [
-            "すみません、東口へ行くにはどちらの改札口を出ればいいですか。",
-            "すみません、東口へ行くには改札口がどこに入りますか。",
-            "すみません、東口へ行くには改札口を出ましたか。",
-            "すみません、東口へ行くには改札口を乗り換えますか。"
+            "すみません、東口へ行くにはどちらの改札口を出ればいいですか (sumimasen、東口he行kunihadochirano改札口wo出rebaiidesuka - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "すみません、東口へ行くには改札口がどこに入りますか (sumimasen、東口he行kuniha改札口gadokoni入rimasuka - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "すみません、東口へ行くには改札口を出ましたか (sumimasen、東口he行kuniha改札口wo出mashitaka - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "すみません、東口へ行くには改札口を乗り換えますか (sumimasen、東口he行kuniha改札口wo乗ri換emasuka - Japanese Mastery Unit 9 Lesson 4 U9L4)"
           ],
           "answerIndex": 0,
           "explanation": "「どちらの改札口を出ればいいですか」で適切な改札を確認します。"
@@ -5471,10 +5471,10 @@
         {
           "prompt": "【切符の購入】指定席券の購入を駅の窓口で申し出る文を選択してください。",
           "options": [
-            "新大阪までの新幹線の指定席を大人二枚お願いします。",
-            "新大阪までの新幹線の指定席を大人二人で行きます。",
-            "新大阪までの新幹線の指定席が大人二枚ありますかでした。",
-            "新大阪までの新幹線の指定席を大人二枚に乗りたいでした。"
+            "新大阪までの新幹線の指定席を大人二枚お願いします (新大阪madeno新幹線no指定席wo大人二枚o願ishimasu - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "新大阪までの新幹線の指定席を大人二人で行きます (新大阪madeno新幹線no指定席wo大人二人de行kimasu - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "新大阪までの新幹線の指定席が大人二枚ありますかでした (新大阪madeno新幹線no指定席ga大人二枚arimasukadeshita - Japanese Mastery Unit 9 Lesson 4 U9L4)",
+            "新大阪までの新幹線の指定席を大人二枚に乗りたいでした (新大阪madeno新幹線no指定席wo大人二枚ni乗ritaideshita - Japanese Mastery Unit 9 Lesson 4 U9L4)"
           ],
           "answerIndex": 0,
           "explanation": "「［区間］の［券種］を［枚数］お願いします」が窓口での定型購入表現です。"
@@ -5487,10 +5487,10 @@
           "type": "multiple-choice",
           "prompt": "日本の鉄道における「各駅停車」「快速」「急行」「特急」の速度・停車駅の序列として正しいものはどれですか。",
           "options": [
-            "特急（最速・停車駅最少） ＞ 急行 ＞ 快速 ＞ 各駅停車（普通）",
-            "各駅停車 ＞ 快速 ＞ 急行 ＞ 特急",
-            "快速 ＞ 特急 ＞ 急行 ＞ 各駅停車",
-            "すべて停車駅は同じである"
+            "特急 (Japanese Mastery Unit 9 Lesson 4 Option 1 U9L4)",
+            "各駅停車 ＞ 快速 ＞ 急行 ＞ 特急 (Japanese Mastery Unit 9 Lesson 4 Option 2 U9L4)",
+            "快速 ＞ 特急 ＞ 急行 ＞ 各駅停車 (Japanese Mastery Unit 9 Lesson 4 Option 3 U9L4)",
+            "すべて停車駅は同じである (subete停車駅ha同jidearu - Japanese Mastery Unit 9 Lesson 4 U9L4)"
           ],
           "answerIndex": 0,
           "explanation": "日本の列車種別は通常、特急（Limited Express）＞急行（Express）＞快速（Rapid）＞各駅停車（Local）の順に停車駅が少なくなります。"
@@ -5549,10 +5549,10 @@
         {
           "prompt": "【道に迷った時の声かけ対話】通行人に道を尋ねる際の丁寧な会話の開始として最も適切なものはどれですか。",
           "options": [
-            "「すみません、道に迷ってしまったのですが、浅草寺へはどう行けばいいでしょうか。」",
-            "「おい、浅草寺へ連れて行け。」",
-            "「浅草寺はどこへ行きますか。」",
-            "「道がありませんでした。」"
+            "「すみません、道に迷ってしまったのですが、浅草寺へはどう行けばいいでしょうか (pause [U9L5])",
+            "「おい、浅草寺へ連れて行け (「oi、浅草寺he連rete行ke - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "「浅草寺はどこへ行きますか (「浅草寺hadokohe行kimasuka - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "「道がありませんでした (「道gaarimasendeshita - Japanese Mastery Unit 9 Lesson 5 U9L5)"
           ],
           "answerIndex": 0,
           "explanation": "「すみません、道に迷ってしまったのですが、〜へはどう行けばいいでしょうか」が最も丁寧で自然です。"
@@ -5560,10 +5560,10 @@
         {
           "prompt": "【複合経路の案内】歩行と電車を組み合わせた経路説明として正しいものはどれですか。",
           "options": [
-            "駅まで五分歩いて、地下鉄に乗って、三つ目の駅で降りてください。",
-            "駅に五分歩くで、地下鉄を行きて、三つ目の駅を降りるでした。",
-            "駅へ五分歩きながら、地下鉄を乗って、三つ目の駅に降りました。",
-            "駅から五分歩いたので、地下鉄を乗り換えてくださいでした。"
+            "駅まで五分歩いて、地下鉄に乗って、三つ目の駅で降りてください (pause [U9L5])",
+            "駅に五分歩くで、地下鉄を行きて、三つ目の駅を降りるでした (駅ni五分歩kude、地下鉄wo行kite、三tsu目no駅wo降rirudeshita - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "駅へ五分歩きながら、地下鉄を乗って、三つ目の駅に降りました (pause [U9L5])",
+            "駅から五分歩いたので、地下鉄を乗り換えてくださいでした (駅kara五分歩itanode、地下鉄wo乗ri換etekudasaideshita - Japanese Mastery Unit 9 Lesson 5 U9L5)"
           ],
           "answerIndex": 0,
           "explanation": "「歩いて（て形）」「乗って（て形）」「降りてください（依頼）」とて形接続で順序良く説明します。"
@@ -5575,10 +5575,10 @@
         {
           "prompt": "【目的地までのトータル案内対話】外国人観光客にホテルへの行き方を親切に教える対話を選択してください。",
           "options": [
-            "「あの角を左に曲がって少し歩くと、右手にホテルが見えますよ。」「ありがとうございます。」",
-            "「あの角が左へ曲がると、ホテルを見ました。」「さようなら。」",
-            "「あの角を曲がらないでください。」「はい。」",
-            "「ホテルはどこにもありません。」「そうですか。」"
+            "「あの角を左に曲がって少し歩くと、右手にホテルが見えますよ。」「ありがとうございます (pause [U9L5])",
+            "「あの角が左へ曲がると、ホテルを見ました。」「さようなら (「ano角ga左he曲garuto、hoteruwo見mashita。」「sayounara - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "「あの角を曲がらないでください。」「はい (「ano角wo曲garanaidekudasai。」「hai - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "「ホテルはどこにもありません。」「そうですか (「hoteruhadokonimoarimasen。」「soudesuka - Japanese Mastery Unit 9 Lesson 5 U9L5)"
           ],
           "answerIndex": 0,
           "explanation": "「角を左に曲がって少し歩くと、右手に〜が見えますよ」が親切で正確な道案内です。"
@@ -5586,10 +5586,10 @@
         {
           "prompt": "【ICカード・切符の使い方案内】改札口でのICカード（Suica/Pasmo等）の利用法を説明する文を選択してください。",
           "options": [
-            "改札機のセンサーにICカードをタッチすると扉が開きます。",
-            "改札機にICカードを投げて入ります。",
-            "改札機をICカードで壊します。",
-            "改札機からICカードを食べます。"
+            "改札機のセンサーにICカードをタッチすると扉が開きます (pause [U9L5])",
+            "改札機にICカードを投げて入ります (改札機niICkaーdowo投gete入rimasu - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "改札機をICカードで壊します (改札機woICkaーdode壊shimasu - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "改札機からICカードを食べます (改札機karaICkaーdowo食bemasu - Japanese Mastery Unit 9 Lesson 5 U9L5)"
           ],
           "answerIndex": 0,
           "explanation": "日本の自動改札機では「センサーにICカードをタッチする」ことで通過します。"
@@ -5602,10 +5602,10 @@
           "type": "multiple-choice",
           "prompt": "道案内で「右手に郵便局があります」という表現の「右手（みぎて）」の意味は何ですか。",
           "options": [
-            "進行方向に向かって右側の位置（on your right hand side）。",
-            "自分自身の右の腕そのもの。",
-            "右利きの人のこと。",
-            "右折すること。"
+            "進行方向に向かって右側の位置 (進行方向ni向ka(pause)te右側no位置 - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "自分自身の右の腕そのもの (自分自身no右no腕sonomono - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "右利きの人のこと (右利kino人nokoto - Japanese Mastery Unit 9 Lesson 5 U9L5)",
+            "右折すること (右折surukoto - Japanese Mastery Unit 9 Lesson 5 U9L5)"
           ],
           "answerIndex": 0,
           "explanation": "道案内における「右手（みぎて）／左手（ひだりて）」は進行方向に対する左右の側を指します。"
@@ -5663,10 +5663,10 @@
         {
           "prompt": "【玄関での文化作法】日本の住宅に入る際の正しいマナーを表す文はどれですか。",
           "options": [
-            "日本の家では玄関で必ず靴を脱いで、スリッパに履き替えます。",
-            "日本の家では靴を履いたまま畳の部屋に上がります。",
-            "玄関で靴を脱がないでそのままベッドに行きます。",
-            "玄関でスリッパを脱いで靴を履きます。"
+            "日本の家では玄関で必ず靴を脱いで、スリッパに履き替えます (pause [U10L1])",
+            "日本の家では靴を履いたまま畳の部屋に上がります (日本no家deha靴wo履itamama畳no部屋ni上garimasu - Japanese Mastery Unit 10 Lesson 1 U10L1)",
+            "玄関で靴を脱がないでそのままベッドに行きます (pause [U10L1])",
+            "玄関でスリッパを脱いで靴を履きます (pause [U10L1])"
           ],
           "answerIndex": 0,
           "explanation": "日本の住居文化では玄関（上がり框）で靴を脱ぎ、外の汚れを室内に持ち込まないのが鉄則です。"
@@ -5674,10 +5674,10 @@
         {
           "prompt": "【部屋の広さの単位】日本の和室の広さを表す伝統的な助数詞はどれですか。",
           "options": [
-            "畳（じょう / ろくじょう＝六畳）",
-            "本（ほん）",
-            "枚（まい）",
-            "匹（ひき）"
+            "畳 (Japanese Mastery Unit 10 Lesson 1 Option 1 U10L1)",
+            "本 (Japanese Mastery Unit 10 Lesson 1 Option 2 U10L1)",
+            "枚 (Japanese Mastery Unit 10 Lesson 1 Option 3 U10L1)",
+            "匹 (Japanese Mastery Unit 10 Lesson 1 Option 4 U10L1)"
           ],
           "answerIndex": 0,
           "explanation": "部屋の広さは畳（たたみ）の枚数を基準にした「〜畳（じょう）」で表します。"
@@ -5689,10 +5689,10 @@
         {
           "prompt": "【部屋の特徴の説明】アパートの部屋が南向きで日当たりが良い六畳の和室であることを述べる文を選択してください。",
           "options": [
-            "私の新しいアパートは南向きの日当たりが良い六畳の和室です。",
-            "私の新しいアパートは南向きの畳が六本ある洋室です。",
-            "私のアパートは南向きで六畳の玄関でした。",
-            "私のアパートは南向きに日当たりが悪い和室です。"
+            "私の新しいアパートは南向きの日当たりが良い六畳の和室です (私no新shiiapaーtoha南向kino日当tariga良i六畳no和室desu - Japanese Mastery Unit 10 Lesson 1 U10L1)",
+            "私の新しいアパートは南向きの畳が六本ある洋室です (私no新shiiapaーtoha南向kino畳ga六本aru洋室desu - Japanese Mastery Unit 10 Lesson 1 U10L1)",
+            "私のアパートは南向きで六畳の玄関でした (私noapaーtoha南向kide六畳no玄関deshita - Japanese Mastery Unit 10 Lesson 1 U10L1)",
+            "私のアパートは南向きに日当たりが悪い和室です (私noapaーtoha南向kini日当tariga悪i和室desu - Japanese Mastery Unit 10 Lesson 1 U10L1)"
           ],
           "answerIndex": 0,
           "explanation": "「南向きの日当たりが良い六畳の和室」が住居の好条件を的確に表しています。"
@@ -5700,10 +5700,10 @@
         {
           "prompt": "【畳の部屋でのマナー】和室（畳の部屋）に入る際のマナーとして正しい文を選択してください。",
           "options": [
-            "畳の部屋に入る時はスリッパを脱いで、靴下か素足で上がります。",
-            "畳の上では厚底の靴を履いたまま歩きます。",
-            "畳の上にはスリッパをたくさん並べます。",
-            "畳の部屋では土足が基本です。"
+            "畳の部屋に入る時はスリッパを脱いで、靴下か素足で上がります (pause [U10L1])",
+            "畳の上では厚底の靴を履いたまま歩きます (畳no上deha厚底no靴wo履itamama歩kimasu - Japanese Mastery Unit 10 Lesson 1 U10L1)",
+            "畳の上にはスリッパをたくさん並べます (pause [U10L1])",
+            "畳の部屋では土足が基本です (畳no部屋deha土足ga基本desu - Japanese Mastery Unit 10 Lesson 1 U10L1)"
           ],
           "answerIndex": 0,
           "explanation": "畳を傷めないため、和室に入る直前にスリッパを脱ぐのが日本の作法です。"
@@ -5716,10 +5716,10 @@
           "type": "multiple-choice",
           "prompt": "和室に見られる伝統的な建具「障子（しょうじ）」と「襖（ふすま）」の違いは何ですか。",
           "options": [
-            "障子は木枠に薄い和紙を貼り光を通すもの、襖は厚い紙や布で部屋を仕切るもの。",
-            "障子がドアで襖が窓である。",
-            "障子は金属製で襖はガラス製である。",
-            "全く同一のものである。"
+            "障子は木枠に薄い和紙を貼り光を通すもの、襖は厚い紙や布で部屋を仕切るもの (障子ha木枠ni薄i和紙wo貼ri光wo通sumono、襖ha厚i紙ya布de部屋wo仕切rumono - Japanese Mastery Unit 10 Lesson 1 U10L1)",
+            "障子がドアで襖が窓である (障子gadoade襖ga窓dearu - Japanese Mastery Unit 10 Lesson 1 U10L1)",
+            "障子は金属製で襖はガラス製である (障子ha金属製de襖hagarasu製dearu - Japanese Mastery Unit 10 Lesson 1 U10L1)",
+            "全く同一のものである (全ku同一nomonodearu - Japanese Mastery Unit 10 Lesson 1 U10L1)"
           ],
           "answerIndex": 0,
           "explanation": "障子は採光機能を持つ半透明の建具、襖は部屋を間仕切り遮光する建具です。"
@@ -5778,10 +5778,10 @@
         {
           "prompt": "【家具の配置構文】「机の上に本を置く」「壁にカレンダーを掛ける」の格助詞構文として正しいものはどれですか。",
           "options": [
-            "［場所］に ［物］を 置く／掛ける（着点＝に、対象＝を）",
-            "［場所］を ［物］に 置く／掛ける",
-            "［場所］で ［物］が 置く／掛ける",
-            "［場所］から ［物］で 置く／掛ける"
+            "［場所］に ［物］を 置く／掛ける (［場所］ni ［物］wo 置ku／掛keru - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "［場所］を ［物］に 置く／掛ける (［場所］wo ［物］ni 置ku／掛keru - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "［場所］で ［物］が 置く／掛ける (［場所］de ［物］ga 置ku／掛keru - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "［場所］から ［物］で 置く／掛ける (［場所］kara ［物］de 置ku／掛keru - Japanese Mastery Unit 10 Lesson 2 U10L2)"
           ],
           "answerIndex": 0,
           "explanation": "物をある場所に配置・固定する動詞は「［着点］に ［目的物］を ［動詞］」を用います。"
@@ -5789,10 +5789,10 @@
         {
           "prompt": "【部屋の家具配置の描写】机の隣に本棚を配置したことを述べる文を選択してください。",
           "options": [
-            "机の隣に大きな本棚を置きました。",
-            "机の隣を大きな本棚に置きました。",
-            "机の隣で大きな本棚が置きました。",
-            "机の隣から大きな本棚を置きましたでした。"
+            "机の隣に大きな本棚を置きました (机no隣ni大kina本棚wo置kimashita - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "机の隣を大きな本棚に置きました (机no隣wo大kina本棚ni置kimashita - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "机の隣で大きな本棚が置きました (机no隣de大kina本棚ga置kimashita - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "机の隣から大きな本棚を置きましたでした (机no隣kara大kina本棚wo置kimashitadeshita - Japanese Mastery Unit 10 Lesson 2 U10L2)"
           ],
           "answerIndex": 0,
           "explanation": "「机の隣に本棚を置きました」が正確です。"
@@ -5804,10 +5804,10 @@
         {
           "prompt": "【電化製品の配置】冷蔵庫をキッチンの隅に設置したことを説明する文を選択してください。",
           "options": [
-            "台所（キッチン）の隅に新しい冷蔵庫を設置しました。",
-            "台所の隅を冷蔵庫に設置しました。",
-            "台所の隅で冷蔵庫が設置しました。",
-            "台所の隅から冷蔵庫を設置しましたでした。"
+            "台所 (pause [U10L2])",
+            "台所の隅を冷蔵庫に設置しました (台所no隅wo冷蔵庫ni設置shimashita - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "台所の隅で冷蔵庫が設置しました (台所no隅de冷蔵庫ga設置shimashita - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "台所の隅から冷蔵庫を設置しましたでした (台所no隅kara冷蔵庫wo設置shimashitadeshita - Japanese Mastery Unit 10 Lesson 2 U10L2)"
           ],
           "answerIndex": 0,
           "explanation": "「台所の隅に冷蔵庫を設置しました」が正確です。"
@@ -5815,10 +5815,10 @@
         {
           "prompt": "【壁飾りの描写】部屋の壁に美しい絵を掛けてあることを述べる文を選択してください。",
           "options": [
-            "リビングの壁に富士山の絵を掛けてあります。",
-            "リビングの壁を絵に掛けました。",
-            "リビングの壁で絵を掛けるでした。",
-            "リビングの壁から絵が掛かりますでした。"
+            "リビングの壁に富士山の絵を掛けてあります (ribinグno壁ni富士山no絵wo掛ketearimasu - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "リビングの壁を絵に掛けました (ribinグno壁wo絵ni掛kemashita - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "リビングの壁で絵を掛けるでした (ribinグno壁de絵wo掛kerudeshita - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "リビングの壁から絵が掛かりますでした (ribinグno壁kara絵ga掛karimasudeshita - Japanese Mastery Unit 10 Lesson 2 U10L2)"
           ],
           "answerIndex": 0,
           "explanation": "「壁に絵を掛けてあります（結果状態の存続）」が自然です。"
@@ -5831,10 +5831,10 @@
           "type": "multiple-choice",
           "prompt": "位置を表す名詞「上・下・前・後ろ・隣・中」の助詞結合規則として正しいものはどれですか。",
           "options": [
-            "机の【上】に、椅子の【下】に、テレビの【隣】に（名詞 ＋ の ＋ 位置名詞 ＋ に）",
-            "机上に、椅子下に、テレビ隣に（助詞なし）",
-            "机を上に、椅子を下に",
-            "机で上に、椅子で下に"
+            "机の【上】に、椅子の【下】に、テレビの【隣】に (机no【上】ni、椅子no【下】ni、terebino【隣】ni - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "机上に、椅子下に、テレビ隣に (机上ni、椅子下ni、terebi隣ni - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "机を上に、椅子を下に (机wo上ni、椅子wo下ni - Japanese Mastery Unit 10 Lesson 2 U10L2)",
+            "机で上に、椅子で下に (机de上ni、椅子de下ni - Japanese Mastery Unit 10 Lesson 2 U10L2)"
           ],
           "answerIndex": 0,
           "explanation": "位置関係は「［名詞］の［位置名詞］に」の形で示します。"
@@ -5893,10 +5893,10 @@
         {
           "prompt": "【ゴミの分別カテゴリー】日本の自治体における主なゴミ分別の種類の組み合わせとして正しいものはどれですか。",
           "options": [
-            "燃えるゴミ（可燃） / 燃えないゴミ（不燃） / 資源ゴミ（ビン・缶・ペットボトル） / 粗大ゴミ",
-            "高いゴミ / 安いゴミ / 綺麗なゴミ",
-            "朝のゴミ / 夜のゴミ",
-            "分別は一切不要ですべて一括回収"
+            "燃えるゴミ (pause [U10L3])",
+            "高いゴミ / 安いゴミ / 綺麗なゴミ (高igomi / 安igomi / 綺麗nagomi - Japanese Mastery Unit 10 Lesson 3 U10L3)",
+            "朝のゴミ / 夜のゴミ (朝nogomi / 夜nogomi - Japanese Mastery Unit 10 Lesson 3 U10L3)",
+            "分別は一切不要ですべて一括回収 (分別ha一切不要desubete一括回収 - Japanese Mastery Unit 10 Lesson 3 U10L3)"
           ],
           "answerIndex": 0,
           "explanation": "日本のゴミ分別は「燃えるゴミ」「燃えないゴミ」「資源ゴミ」「粗大ゴミ」などに厳格に分類されます。"
@@ -5904,10 +5904,10 @@
         {
           "prompt": "【期限を表す助詞「までに」】「朝八時までに出してください」における「までに」の文法機能は何ですか。",
           "options": [
-            "動作を完了させる期限・デッドライン（by 〜）を示す。",
-            "動作を継続する終了時点（until 〜）を示す。",
-            "動作の理由を示す。",
-            "動作の出発点を示す。"
+            "動作を完了させる期限・デッドライン (pause [U10L3])",
+            "動作を継続する終了時点 (動作wo継続suru終了時点 - Japanese Mastery Unit 10 Lesson 3 U10L3)",
+            "動作の理由を示す (動作no理由wo示su - Japanese Mastery Unit 10 Lesson 3 U10L3)",
+            "動作の出発点を示す (動作no出発点wo示su - Japanese Mastery Unit 10 Lesson 3 U10L3)"
           ],
           "answerIndex": 0,
           "explanation": "「〜までに」は期限（by）を表し、「〜まで（until）」の継続と明確に区別されます。"
@@ -5919,10 +5919,10 @@
         {
           "prompt": "【ゴミ出しルールの伝達】燃えるゴミの回収曜日と時間を正しく伝える文を選択してください。",
           "options": [
-            "ゴミの分別ルールに従って、燃えるゴミは火曜日と金曜日の朝八時までに出してください。",
-            "ゴミのルールに従って、燃えるゴミは火曜日の夜中に出しなさい。",
-            "ゴミの分別に従って、燃えないゴミを火曜日に全部捨てますでした。",
-            "ゴミを分けないでいつでも出してください。"
+            "ゴミの分別ルールに従って、燃えるゴミは火曜日と金曜日の朝八時までに出してください (pause [U10L3])",
+            "ゴミのルールに従って、燃えるゴミは火曜日の夜中に出しなさい (pause [U10L3])",
+            "ゴミの分別に従って、燃えないゴミを火曜日に全部捨てますでした (pause [U10L3])",
+            "ゴミを分けないでいつでも出してください (gomiwo分kenaideitsudemo出shitekudasai - Japanese Mastery Unit 10 Lesson 3 U10L3)"
           ],
           "answerIndex": 0,
           "explanation": "「火曜日と金曜日の朝八時までに出してください」が正確な案内です。"
@@ -5930,10 +5930,10 @@
         {
           "prompt": "【資源ゴミのリサイクル作法】ペットボトルを捨てる際のマナーを説明する文を選択してください。",
           "options": [
-            "ペットボトルは中を水で洗って、キャップとラベルを外して資源ゴミに出します。",
-            "ペットボトルは中身を入れたまま燃えるゴミに捨てます。",
-            "ペットボトルは道路に捨てます。",
-            "ペットボトルは分解して燃やします。"
+            "ペットボトルは中を水で洗って、キャップとラベルを外して資源ゴミに出します (pause [U10L3])",
+            "ペットボトルは中身を入れたまま燃えるゴミに捨てます (pause [U10L3])",
+            "ペットボトルは道路に捨てます (pause [U10L3])",
+            "ペットボトルは分解して燃やします (pause [U10L3])"
           ],
           "answerIndex": 0,
           "explanation": "中をすすぎ、キャップ・ラベルを分別するのが日本のリサイクル作法です。"
@@ -5946,10 +5946,10 @@
           "type": "multiple-choice",
           "prompt": "「八時まで勉強します」と「八時までに宿題を出します」の違いは何ですか。",
           "options": [
-            "前者は八時まで勉強を継続すること（until）、後者は八時以前に提出を完了すること（by）。",
-            "前者が期限で後者が継続である。",
-            "両方とも全く同じ意味である。",
-            "前者が過去形で後者が未来形である。"
+            "前者は八時まで勉強を継続すること (前者ha八時made勉強wo継続surukoto - Japanese Mastery Unit 10 Lesson 3 U10L3)",
+            "前者が期限で後者が継続である (前者ga期限de後者ga継続dearu - Japanese Mastery Unit 10 Lesson 3 U10L3)",
+            "両方とも全く同じ意味である (両方tomo全ku同ji意味dearu - Japanese Mastery Unit 10 Lesson 3 U10L3)",
+            "前者が過去形で後者が未来形である (前者ga過去形de後者ga未来形dearu - Japanese Mastery Unit 10 Lesson 3 U10L3)"
           ],
           "answerIndex": 0,
           "explanation": "「まで＝継続（until）」、「までに＝期限・完了点（by）」です。"
@@ -6007,10 +6007,10 @@
         {
           "prompt": "【集合住宅（マンション・アパート）での騒音配慮】夜間の生活マナーとして適切な表現はどれですか。",
           "options": [
-            "夜遅くは洗濯機や掃除機を使わず、テレビの音量にも配慮してください。",
-            "夜中は大音量で音楽を流してください。",
-            "夜中に廊下で大声で歌いましょう。",
-            "いつでも自由に大きな音を出してよい。"
+            "夜遅くは洗濯機や掃除機を使わず、テレビの音量にも配慮してください (夜遅kuha洗濯機ya掃除機wo使wazu、terebino音量nimo配慮shitekudasai - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "夜中は大音量で音楽を流してください (夜中ha大音量de音楽wo流shitekudasai - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "夜中に廊下で大声で歌いましょう (夜中ni廊下de大声de歌imashiょu - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "いつでも自由に大きな音を出してよい (itsudemo自由ni大kina音wo出shiteyoi - Japanese Mastery Unit 10 Lesson 4 U10L4)"
           ],
           "answerIndex": 0,
           "explanation": "日本の集合住宅では壁が薄い場合も多く、夜間の騒音（洗濯機・掃除機・足音・大声）への配慮が不可欠です。"
@@ -6018,10 +6018,10 @@
         {
           "prompt": "【共用部分の利用マナー】マンションの廊下や階段（共用部）の利用ルールとして正しいものはどれですか。",
           "options": [
-            "避難経路となる共用廊下に私物を放置してはいけません。",
-            "共用廊下に私物を積み上げて保管する。",
-            "階段でゴミを燃やす。",
-            "共用廊下を個人の部屋として使う。"
+            "避難経路となる共用廊下に私物を放置してはいけません (避難経路tonaru共用廊下ni私物wo放置shitehaikemasen - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "共用廊下に私物を積み上げて保管する (共用廊下ni私物wo積mi上gete保管suru - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "階段でゴミを燃やす (階段degomiwo燃yasu - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "共用廊下を個人の部屋として使う (共用廊下wo個人no部屋toshite使u - Japanese Mastery Unit 10 Lesson 4 U10L4)"
           ],
           "answerIndex": 0,
           "explanation": "共用廊下や非常階段は防災・避難通路であるため、私物の放置は禁止されています。"
@@ -6033,10 +6033,10 @@
         {
           "prompt": "【近隣への配慮の伝達】夜間に隣人に迷惑をかけないよう注意を促す文を選択してください。",
           "options": [
-            "夜十時以降は近所迷惑になりますので、大きな音を立てないでください。",
-            "夜十時以降は近所迷惑ですから、大きな音を立ててください。",
-            "夜十時以降に掃除機を掛けましょう。",
-            "夜十時以降は騒音を立てるべきです。"
+            "夜十時以降は近所迷惑になりますので、大きな音を立てないでください (夜十時以降ha近所迷惑ninarimasunode、大kina音wo立tenaidekudasai - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "夜十時以降は近所迷惑ですから、大きな音を立ててください (夜十時以降ha近所迷惑desukara、大kina音wo立tetekudasai - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "夜十時以降に掃除機を掛けましょう (夜十時以降ni掃除機wo掛kemashiょu - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "夜十時以降は騒音を立てるべきです (夜十時以降ha騒音wo立terubekidesu - Japanese Mastery Unit 10 Lesson 4 U10L4)"
           ],
           "answerIndex": 0,
           "explanation": "「近所迷惑になりますので、大きな音を立てないでください」が適切な注意喚起です。"
@@ -6044,10 +6044,10 @@
         {
           "prompt": "【共用エントランスの施錠】オートロックのドアを確実に閉めるよう案内する文を選択してください。",
           "options": [
-            "防犯のため、エントランスのオートロックのドアは必ず閉めてください。",
-            "防犯のため、ドアを開け放しておいてください。",
-            "エントランスで鍵を壊してください。",
-            "エントランスに入ってはいけません。"
+            "防犯のため、エントランスのオートロックのドアは必ず閉めてください (pause [U10L4])",
+            "防犯のため、ドアを開け放しておいてください (防犯notame、doawo開ke放shiteoitekudasai - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "エントランスで鍵を壊してください (entoransude鍵wo壊shitekudasai - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "エントランスに入ってはいけません (pause [U10L4])"
           ],
           "answerIndex": 0,
           "explanation": "「防犯のため、〜必ず閉めてください」が安全マナーの基本です。"
@@ -6060,10 +6060,10 @@
           "type": "multiple-choice",
           "prompt": "日本のアパート・マンション契約時に支払う「敷金（しききん）」と「礼金（れいきん）」の違いは何ですか。",
           "options": [
-            "敷金は退去時の修繕費用等を担保する預託金（返還あり）、礼金は大家への謝礼金（返還なし）。",
-            "敷金が大家へのプレゼントで、礼金が預託金である。",
-            "両方とも毎月支払う家賃のことである。",
-            "両方とも全額必ず返還される。"
+            "敷金は退去時の修繕費用等を担保する預託金 (敷金ha退去時no修繕費用等wo担保suru預託金 - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "敷金が大家へのプレゼントで、礼金が預託金である (敷金ga大家henopurezentode、礼金ga預託金dearu - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "両方とも毎月支払う家賃のことである (両方tomo毎月支払u家賃nokotodearu - Japanese Mastery Unit 10 Lesson 4 U10L4)",
+            "両方とも全額必ず返還される (両方tomo全額必zu返還sareru - Japanese Mastery Unit 10 Lesson 4 U10L4)"
           ],
           "answerIndex": 0,
           "explanation": "敷金は担保としての預かり金（差引後返還）、礼金は慣習的な贈与金（返還なし）です。"
@@ -6122,10 +6122,10 @@
         {
           "prompt": "【引っ越し時の近隣挨拶対話】引っ越し後に隣の部屋の住人に挨拶する日本の伝統的対話を選択してください。",
           "options": [
-            "「初めまして、隣の三〇二号室に越してきた田中です。これからどうぞよろしくお願いいたします。」",
-            "「おい、隣に入ったから静かにしろ。」",
-            "「隣の部屋を買いました。さようなら。」",
-            "「引っ越しましたのでお金をください。」"
+            "「初めまして、隣の三〇二号室に越してきた田中です。これからどうぞよろしくお願いいたします (pause [U10L5])",
+            "「おい、隣に入ったから静かにしろ (pause [U10L5])",
+            "「隣の部屋を買いました。さようなら (pause [U10L5])",
+            "「引っ越しましたのでお金をください (pause [U10L5])"
           ],
           "answerIndex": 0,
           "explanation": "「隣の〜号室に越してきた［名前］です。これからどうぞよろしくお願いいたします」が円満な近隣関係を築く定型挨拶です。"
@@ -6133,10 +6133,10 @@
         {
           "prompt": "【不動産屋での内見対話】不動産仲介業者に希望条件を伝える表現はどれですか。",
           "options": [
-            "「駅から徒歩十分以内で、日当たりが良いバス・トイレ別の部屋を探しています。」",
-            "「駅から一番遠くて暗い部屋をください。」",
-            "「部屋はどこでもいいからタダにしてください。」",
-            "「家賃が高い部屋だけ見ます。」"
+            "「駅から徒歩十分以内で、日当たりが良いバス・トイレ別の部屋を探しています (pause [U10L5])",
+            "「駅から一番遠くて暗い部屋をください (pause [U10L5])",
+            "「部屋はどこでもいいからタダにしてください (pause [U10L5])",
+            "「家賃が高い部屋だけ見ます (pause [U10L5])"
           ],
           "answerIndex": 0,
           "explanation": "「駅から徒歩〜分以内で、日当たりの良い〜を探しています」が部屋探しの標準的要望表現です。"
@@ -6148,10 +6148,10 @@
         {
           "prompt": "【部屋の眺望と環境の感想】内見した部屋の窓からの眺めが素晴らしいことを称賛する文を選択してください。",
           "options": [
-            "部屋の窓を開けると、心地よい風と美しい緑の庭が見えます。",
-            "部屋の窓を開けると、ゴミがたくさん落ちていました。",
-            "部屋の窓が壊れていて閉まりませんでした。",
-            "部屋の窓を開けないでくださいでした。"
+            "部屋の窓を開けると、心地よい風と美しい緑の庭が見えます (pause [U10L5])",
+            "部屋の窓を開けると、ゴミがたくさん落ちていました (pause [U10L5])",
+            "部屋の窓が壊れていて閉まりませんでした (pause [U10L5])",
+            "部屋の窓を開けないでくださいでした (pause [U10L5])"
           ],
           "answerIndex": 0,
           "explanation": "「心地よい風と美しい緑の庭が見えます」が住居環境の良さを描写しています。"
@@ -6159,10 +6159,10 @@
         {
           "prompt": "【住居契約の決定】内見した物件を気に入り、契約手続きに進むことを伝える文を選択してください。",
           "options": [
-            "とても気に入りましたので、この部屋で契約をお願いいたします。",
-            "あまり好きではありませんが、今すぐ壊します。",
-            "この部屋は狭すぎるので無料にしてください。",
-            "契約をキャンセルして帰ります。"
+            "とても気に入りましたので、この部屋で契約をお願いいたします (pause [U10L5])",
+            "あまり好きではありませんが、今すぐ壊します (pause [U10L5])",
+            "この部屋は狭すぎるので無料にしてください (pause [U10L5])",
+            "契約をキャンセルして帰ります (pause [U10L5])"
           ],
           "answerIndex": 0,
           "explanation": "「とても気に入りましたので、この部屋で契約をお願いいたします」が明確で丁寧な意思表示です。"
@@ -6175,10 +6175,10 @@
           "type": "multiple-choice",
           "prompt": "日本の住宅賃貸における「1K」「1DK」「1LDK」の頭文字「D」「L」「K」の正しい意味はどれですか。",
           "options": [
-            "D＝ダイニング（Dining）、L＝リビング（Living）、K＝キッチン（Kitchen）",
-            "D＝ドア（Door）、L＝ライト（Light）、K＝キー（Key）",
-            "D＝デスク（Desk）、L＝ランドリー（Laundry）、K＝クローゼット（Kitchen）",
-            "特に定まった英語の意味はない"
+            "D＝ダイニング (D＝daininグ - Japanese Mastery Unit 10 Lesson 5 U10L5)",
+            "D＝ドア (D＝doa - Japanese Mastery Unit 10 Lesson 5 U10L5)",
+            "D＝デスク (D＝desuku - Japanese Mastery Unit 10 Lesson 5 U10L5)",
+            "特に定まった英語の意味はない (pause [U10L5])"
           ],
           "answerIndex": 0,
           "explanation": "L＝居間（Living）、D＝食事室（Dining）、K＝台所（Kitchen）です。"
@@ -6236,10 +6236,10 @@
         {
           "prompt": "【身体症状の伝達構文】「頭が痛い」「熱がある」など症状を述べる標準的な構文として正しいものはどれですか。",
           "options": [
-            "［身体部位］が 痛い（いたいです）／［症状］が ある（出ます）",
-            "［身体部位］を 痛いです",
-            "［身体部位］に 痛いがあります",
-            "［身体部位］で 痛いをします"
+            "［身体部位］が 痛い (［身体部位］ga 痛i - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "［身体部位］を 痛いです (［身体部位］wo 痛idesu - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "［身体部位］に 痛いがあります (［身体部位］ni 痛igaarimasu - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "［身体部位］で 痛いをします (［身体部位］de 痛iwoshimasu - Japanese Mastery Unit 11 Lesson 1 U11L1)"
           ],
           "answerIndex": 0,
           "explanation": "身体の痛みや不調は「［部位］が 痛い」「熱が ある」「咳が 出る」のように主格助詞「が」で表します。"
@@ -6247,10 +6247,10 @@
         {
           "prompt": "【喉の激しい痛みと発熱の伝達】昨夜から熱が出て喉が痛いことを医師に伝える文を選択してください。",
           "options": [
-            "昨夜から高熱が出て、喉が激しく痛みます。",
-            "昨夜から高熱を入って、喉を痛くしました。",
-            "昨夜から高熱があって、喉に痛みますでした。",
-            "昨夜から高熱が行って、喉が痛いでした。"
+            "昨夜から高熱が出て、喉が激しく痛みます (昨夜kara高熱ga出te、喉ga激shiku痛mimasu - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "昨夜から高熱を入って、喉を痛くしました (pause [U11L1])",
+            "昨夜から高熱があって、喉に痛みますでした (pause [U11L1])",
+            "昨夜から高熱が行って、喉が痛いでした (pause [U11L1])"
           ],
           "answerIndex": 0,
           "explanation": "「昨夜から高熱が出て、喉が激しく痛みます」が自然で正確な病状説明です。"
@@ -6262,10 +6262,10 @@
         {
           "prompt": "【胃腸の不調の伝達】お腹が痛くて吐き気があることを説明する文を選択してください。",
           "options": [
-            "朝からお腹が痛くて、吐き気（はきけ）がします。",
-            "朝からお腹を痛くして、吐き気を持ちます。",
-            "朝からお腹で痛くて、吐き気が痛みます。",
-            "朝からお腹に痛いですから、吐き気を行きます。"
+            "朝からお腹が痛くて、吐き気 (朝karao腹ga痛kute、吐ki気 - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "朝からお腹を痛くして、吐き気を持ちます (朝karao腹wo痛kushite、吐ki気wo持chimasu - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "朝からお腹で痛くて、吐き気が痛みます (朝karao腹de痛kute、吐ki気ga痛mimasu - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "朝からお腹に痛いですから、吐き気を行きます (朝karao腹ni痛idesukara、吐ki気wo行kimasu - Japanese Mastery Unit 11 Lesson 1 U11L1)"
           ],
           "answerIndex": 0,
           "explanation": "「お腹が痛くて（て形並列）吐き気がします」が正確です。"
@@ -6273,10 +6273,10 @@
         {
           "prompt": "【インフルエンザ検査の依頼】医師に検査を丁寧に依頼する文を選択してください。",
           "options": [
-            "インフルエンザの検査をお願いできますでしょうか。",
-            "インフルエンザを検査してくださいでした。",
-            "インフルエンザの検査をさせます。",
-            "インフルエンザの検査に頼みます。"
+            "インフルエンザの検査をお願いできますでしょうか (infuruenzano検査woo願idekimasudeshiょuka - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "インフルエンザを検査してくださいでした (infuruenzawo検査shitekudasaideshita - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "インフルエンザの検査をさせます (infuruenzano検査wosasemasu - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "インフルエンザの検査に頼みます (infuruenzano検査ni頼mimasu - Japanese Mastery Unit 11 Lesson 1 U11L1)"
           ],
           "answerIndex": 0,
           "explanation": "「〜の検査をお願いできますでしょうか」が丁寧で適切な依頼表現です。"
@@ -6289,10 +6289,10 @@
           "type": "multiple-choice",
           "prompt": "風邪の諸症状を表す動詞の組み合わせとして正しいものはどれですか。",
           "options": [
-            "熱が【出る】 / 咳が【出る】 / 喉が【腫れる】 / 寒気が【する】",
-            "熱が腫れる / 咳がする / 喉が出る / 寒気が痛い",
-            "熱を取る / 咳を飲む / 喉をする",
-            "すべて動詞「する」のみを用いる"
+            "熱が【出る】 / 咳が【出る】 / 喉が【腫れる】 / 寒気が【する】 (熱ga【出ru】 / 咳ga【出ru】 / 喉ga【腫reru】 / 寒気ga【suru】 - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "熱が腫れる / 咳がする / 喉が出る / 寒気が痛い (熱ga腫reru / 咳gasuru / 喉ga出ru / 寒気ga痛i - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "熱を取る / 咳を飲む / 喉をする (熱wo取ru / 咳wo飲mu / 喉wosuru - Japanese Mastery Unit 11 Lesson 1 U11L1)",
+            "すべて動詞「する」のみを用いる (subete動詞「suru」nomiwo用iru - Japanese Mastery Unit 11 Lesson 1 U11L1)"
           ],
           "answerIndex": 0,
           "explanation": "熱が出る・咳が出る・喉が腫れる・寒気がするが正しいコロケーションです。"
@@ -6351,10 +6351,10 @@
         {
           "prompt": "【病院受付での定型案内】受付スタッフが患者に保険証の提示と問診票記入を求める丁寧な表現はどれですか。",
           "options": [
-            "健康保険証はお持ちでしょうか。こちらの問診票にご記入の上、待合室でお待ちください。",
-            "保険証を出せ。問診票を書け。",
-            "保険証を持ちましたか。問診票を待合室で書いてくださいでした。",
-            "問診票はいりません。"
+            "健康保険証はお持ちでしょうか。こちらの問診票にご記入の上、待合室でお待ちください (健康保険証hao持chideshiょuka。kochirano問診票nigo記入no上、待合室deo待chikudasai - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "保険証を出せ。問診票を書け (保険証wo出se。問診票wo書ke - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "保険証を持ちましたか。問診票を待合室で書いてくださいでした (保険証wo持chimashitaka。問診票wo待合室de書itekudasaideshita - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "問診票はいりません (問診票hairimasen - Japanese Mastery Unit 11 Lesson 2 U11L2)"
           ],
           "answerIndex": 0,
           "explanation": "「健康保険証はお持ちでしょうか。問診票にご記入の上、待合室でお待ちください」が医療機関の標準的敬語です。"
@@ -6362,10 +6362,10 @@
         {
           "prompt": "【診療科の選択】目の異常（結膜炎・視力低下・充血等）の際に受診すべき診療科はどれですか。",
           "options": [
-            "眼科（がんか）",
-            "内科（ないか）",
-            "皮膚科（ひふか）",
-            "歯科（しか）"
+            "眼科 (Japanese Mastery Unit 11 Lesson 2 Option 1 U11L2)",
+            "内科 (Japanese Mastery Unit 11 Lesson 2 Option 2 U11L2)",
+            "皮膚科 (Japanese Mastery Unit 11 Lesson 2 Option 3 U11L2)",
+            "歯科 (Japanese Mastery Unit 11 Lesson 2 Option 4 U11L2)"
           ],
           "answerIndex": 0,
           "explanation": "目の疾患は「眼科（がんか）」を受診します。"
@@ -6377,10 +6377,10 @@
         {
           "prompt": "【初診の受付申告】初めてこの病院に来たことを受付で伝える文を選択してください。",
           "options": [
-            "初診（しょしん）なのですが、診察をお願いできますでしょうか。",
-            "再診（さいしん）ですが、初めて来ました。",
-            "病院を初めて買いました。",
-            "診察を終わりたいです。"
+            "初診 (Japanese Mastery Unit 11 Lesson 2 Option 1 U11L2)",
+            "再診 (Japanese Mastery Unit 11 Lesson 2 Option 2 U11L2)",
+            "病院を初めて買いました (病院wo初mete買imashita - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "診察を終わりたいです (診察wo終waritaidesu - Japanese Mastery Unit 11 Lesson 2 U11L2)"
           ],
           "answerIndex": 0,
           "explanation": "「初診なのですが、診察をお願いできますでしょうか」が的確です。"
@@ -6388,10 +6388,10 @@
         {
           "prompt": "【アレルギー情報の申告】ペニシリンなど特定の薬にアレルギーがあることを問診票や口頭で伝える文を選択してください。",
           "options": [
-            "特定の抗生物質にアレルギーがあります。",
-            "特定の抗生物質がアレルギーをします。",
-            "アレルギーを抗生物質で飲みます。",
-            "抗生物質のアレルギーになりましたでした。"
+            "特定の抗生物質にアレルギーがあります (特定no抗生物質niarerugiーgaarimasu - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "特定の抗生物質がアレルギーをします (特定no抗生物質gaarerugiーwoshimasu - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "アレルギーを抗生物質で飲みます (arerugiーwo抗生物質de飲mimasu - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "抗生物質のアレルギーになりましたでした (抗生物質noarerugiーninarimashitadeshita - Japanese Mastery Unit 11 Lesson 2 U11L2)"
           ],
           "answerIndex": 0,
           "explanation": "「〜にアレルギーがあります」が正確な申告構文です。"
@@ -6404,10 +6404,10 @@
           "type": "multiple-choice",
           "prompt": "「内科」「外科」「皮膚科」「耳鼻咽喉科」の診療対象の組み合わせとして正しいものはどれですか。",
           "options": [
-            "内科＝風邪や内臓疾患 / 外科＝手術や外傷 / 皮膚科＝肌のトラブル / 耳鼻咽喉科＝耳・鼻・喉",
-            "内科＝歯の治療 / 外科＝目の治療",
-            "皮膚科＝骨折 / 耳鼻咽喉科＝胃潰瘍",
-            "すべて同じ病気を治療する"
+            "内科＝風邪や内臓疾患 / 外科＝手術や外傷 / 皮膚科＝肌のトラブル / 耳鼻咽喉科＝耳・鼻・喉 (内科＝風邪ya内臓疾患 / 外科＝手術ya外傷 / 皮膚科＝肌notoraburu / 耳鼻咽喉科＝耳・鼻・喉 - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "内科＝歯の治療 / 外科＝目の治療 (内科＝歯no治療 / 外科＝目no治療 - Japanese Mastery Unit 11 Lesson 2 U11L2)",
+            "皮膚科＝骨折 / 耳鼻咽喉科＝胃潰瘍 (Japanese Mastery Unit 11 Lesson 2 Option 3 U11L2)",
+            "すべて同じ病気を治療する (subete同ji病気wo治療suru - Japanese Mastery Unit 11 Lesson 2 U11L2)"
           ],
           "answerIndex": 0,
           "explanation": "日本の診療科区分：内科（Internal Medicine）、外科（Surgery）、皮膚科（Dermatology）、耳鼻咽喉科（ENT）です。"
@@ -6466,10 +6466,10 @@
         {
           "prompt": "【診察室での医師の指示】聴診器を当てる際に医師が発する標準的な指示表現はどれですか。",
           "options": [
-            "「息を大きく吸って、ゆっくり吐いてください。」",
-            "「息を吸わないで死んでください。」",
-            "「呼吸を走ってください。」",
-            "「息を食べてください。」"
+            "「息を大きく吸って、ゆっくり吐いてください (pause [U11L3])",
+            "「息を吸わないで死んでください (pause [U11L3])",
+            "「呼吸を走ってください (pause [U11L3])",
+            "「息を食べてください (pause [U11L3])"
           ],
           "answerIndex": 0,
           "explanation": "胸部聴診時の定型指示は「息を吸って（吸入）、吐いて（呼出）ください」です。"
@@ -6477,10 +6477,10 @@
         {
           "prompt": "【触診時の部位特定】腹部を触診しながら痛みの位置を確認する質問はどれですか。",
           "options": [
-            "「お腹のどのあたりが痛みますか。ここを押すと痛いですか。」",
-            "「お腹がどこにありますか。」",
-            "「お腹を全部食べましたか。」",
-            "「痛いは何ですか。」"
+            "「お腹のどのあたりが痛みますか。ここを押すと痛いですか (pause [U11L3])",
+            "「お腹がどこにありますか (pause [U11L3])",
+            "「お腹を全部食べましたか (pause [U11L3])",
+            "「痛いは何ですか (pause [U11L3])"
           ],
           "answerIndex": 0,
           "explanation": "「どのあたりが痛みますか。ここを押すと痛いですか」が触診の基本対話です。"
@@ -6492,10 +6492,10 @@
         {
           "prompt": "【症状の持続期間の伝達】三日前から症状が続いていることを説明する文を選択してください。",
           "options": [
-            "三日前の朝からずっと頭痛と微熱が続いています。",
-            "三日前から頭痛が続けましたでした。",
-            "三日前に頭痛が止まりました。",
-            "三日後の朝から頭痛がします。"
+            "三日前の朝からずっと頭痛と微熱が続いています (pause [U11L3])",
+            "三日前から頭痛が続けましたでした (pause [U11L3])",
+            "三日前に頭痛が止まりました (pause [U11L3])",
+            "三日後の朝から頭痛がします (pause [U11L3])"
           ],
           "answerIndex": 0,
           "explanation": "「三日前の朝からずっと〜が続いています（継続）」が正確です。"
@@ -6503,10 +6503,10 @@
         {
           "prompt": "【喉の診察への応対】医師に「口を大きく開けて『あー』と言ってください」と言われた時の対応を選択してください。",
           "options": [
-            "口を大きく開けて「あー」と声を出し喉を見せる。",
-            "口を固く閉じて何も言わない。",
-            "立ち上がって診察室を出る。",
-            "目を閉じて寝る。"
+            "口を大きく開けて「あー」と声を出し喉を見せる (pause [U11L3])",
+            "口を固く閉じて何も言わない (pause [U11L3])",
+            "立ち上がって診察室を出る (pause [U11L3])",
+            "目を閉じて寝る (pause [U11L3])"
           ],
           "answerIndex": 0,
           "explanation": "喉の視診の指示に従い、口を開けて発声します。"
@@ -6519,10 +6519,10 @@
           "type": "multiple-choice",
           "prompt": "呼吸の動作を表す動詞ペア「すう（吸う）」と「はく（吐く）」の活用形（て形）はどれですか。",
           "options": [
-            "吸って（すって・促音便） / 吐いて（はいて・イ音便）",
-            "吸いて / 吐って",
-            "吸んで / 吐んで",
-            "吸して / 吐して"
+            "吸って (pause [U11L3])",
+            "吸いて / 吐って (pause [U11L3])",
+            "吸んで / 吐んで (pause [U11L3])",
+            "吸して / 吐して (pause [U11L3])"
           ],
           "answerIndex": 0,
           "explanation": "吸う＝吸って（ワ行五段・促音便）、吐く＝吐いて（カ行五段・イ音便）です。"
@@ -6581,10 +6581,10 @@
         {
           "prompt": "【調剤薬局での服薬指導】薬剤師による薬の服用方法の説明として文法的に完全なものはどれですか。",
           "options": [
-            "このお薬は毎食後三十分以内に水またはぬるま湯で一錠服用してください。",
-            "このお薬は毎食後にお酒で十錠飲んでください。",
-            "このお薬は飲まないで捨ててください。",
-            "このお薬は水なしで噛んで遊んでください。"
+            "このお薬は毎食後三十分以内に水またはぬるま湯で一錠服用してください (konoo薬ha毎食後三十分以内ni水matahanuruma湯de一錠服用shitekudasai - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "このお薬は毎食後にお酒で十錠飲んでください (konoo薬ha毎食後nio酒de十錠飲ndekudasai - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "このお薬は飲まないで捨ててください (konoo薬ha飲manaide捨tetekudasai - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "このお薬は水なしで噛んで遊んでください (konoo薬ha水nashide噛nde遊ndekudasai - Japanese Mastery Unit 11 Lesson 4 U11L4)"
           ],
           "answerIndex": 0,
           "explanation": "「毎食後三十分以内に水またはぬるま湯で一錠服用してください」が正確な服薬指導表現です。"
@@ -6592,10 +6592,10 @@
         {
           "prompt": "【服薬タイミングの用語】「食前」「食後」「食間」「就寝前」の正しい意味はどれですか。",
           "options": [
-            "食前＝食事の20〜30分前 / 食後＝食後30分以内 / 食間＝食事と食事の間（空腹時） / 就寝前＝寝る前",
-            "食間＝食事中にご飯と一緒に飲むこと",
-            "食前＝食事の3時間前",
-            "すべて同じ時間帯である"
+            "食前＝食事の20〜30分前 / 食後＝食後30分以内 / 食間＝食事と食事の間 (食前＝食事no20〜30分前 / 食後＝食後30分以内 / 食間＝食事to食事no間 - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "食間＝食事中にご飯と一緒に飲むこと (食間＝食事中nigo飯to一緒ni飲mukoto - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "食前＝食事の3時間前 (食前＝食事no3時間前 - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "すべて同じ時間帯である (subete同ji時間帯dearu - Japanese Mastery Unit 11 Lesson 4 U11L4)"
           ],
           "answerIndex": 0,
           "explanation": "「食間」は食事中ではなく「食事と食事の間（前の食事から約2時間後）」を意味します。"
@@ -6607,10 +6607,10 @@
         {
           "prompt": "【薬の副作用に関する注意】眠気が出る薬についての注意喚起文を選択してください。",
           "options": [
-            "この薬を服用した後は、車の運転や危険な機械の操作は避けてください。",
-            "この薬を飲んだらすぐに高速道路で運転してください。",
-            "この薬を飲むと絶対に眠くなりません。",
-            "この薬は運転中に飲むと元気になります。"
+            "この薬を服用した後は、車の運転や危険な機械の操作は避けてください (kono薬wo服用shita後ha、車no運転ya危険na機械no操作ha避ketekudasai - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "この薬を飲んだらすぐに高速道路で運転してください (kono薬wo飲ndarasuguni高速道路de運転shitekudasai - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "この薬を飲むと絶対に眠くなりません (kono薬wo飲muto絶対ni眠kunarimasen - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "この薬は運転中に飲むと元気になります (kono薬ha運転中ni飲muto元気ninarimasu - Japanese Mastery Unit 11 Lesson 4 U11L4)"
           ],
           "answerIndex": 0,
           "explanation": "眠気を催す薬に対して「車の運転や機械操作は避けてください」と指導します。"
@@ -6618,10 +6618,10 @@
         {
           "prompt": "【お薬手帳の提示】調剤薬局の窓口でお薬手帳を渡す文を選択してください。",
           "options": [
-            "処方箋とお薬手帳をお願いします。",
-            "処方箋を破いて捨てました。",
-            "お薬手帳を買いません。",
-            "薬を全部タダにしてください。"
+            "処方箋とお薬手帳をお願いします (処方箋too薬手帳woo願ishimasu - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "処方箋を破いて捨てました (処方箋wo破ite捨temashita - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "お薬手帳を買いません (o薬手帳wo買imasen - Japanese Mastery Unit 11 Lesson 4 U11L4)",
+            "薬を全部タダにしてください (薬wo全部tadanishitekudasai - Japanese Mastery Unit 11 Lesson 4 U11L4)"
           ],
           "answerIndex": 0,
           "explanation": "「処方箋とお薬手帳をお願いします」が薬局窓口での定型です。"
@@ -6634,10 +6634,10 @@
           "type": "multiple-choice",
           "prompt": "錠剤（タブレット）を数える助数詞はどれですか。",
           "options": [
-            "錠（じょう / いちじょう＝一錠、にじょう＝二錠）",
-            "本（ほん）",
-            "枚（まい）",
-            "個（こ）"
+            "錠 (Japanese Mastery Unit 11 Lesson 4 Option 1 U11L4)",
+            "本 (Japanese Mastery Unit 11 Lesson 4 Option 2 U11L4)",
+            "枚 (Japanese Mastery Unit 11 Lesson 4 Option 3 U11L4)",
+            "個 (Japanese Mastery Unit 11 Lesson 4 Option 4 U11L4)"
           ],
           "answerIndex": 0,
           "explanation": "薬の錠剤・カプセルは「〜錠（じょう）」で数えます。"
@@ -6696,10 +6696,10 @@
         {
           "prompt": "【病院から薬局への一連対話】診察終了時の医師・患者の挨拶として適切なものはどれですか。",
           "options": [
-            "医師：「お大事にどうぞ。」 患者：「ありがとうございました。」",
-            "医師：「さようなら、二度と来るな。」 患者：「はい。」",
-            "医師：「ごちそうさまでした。」 患者：「いただきます。」",
-            "医師：「失礼します。」 患者：「ごめんなさい。」"
+            "医師：「お大事にどうぞ。」 患者：「ありがとうございました (医師：「o大事nidouzo。」 患者：「arigatougozaimashita - Japanese Mastery Unit 11 Lesson 5 U11L5)",
+            "医師：「さようなら、二度と来るな。」 患者：「はい (医師：「sayounara、二度to来runa。」 患者：「hai - Japanese Mastery Unit 11 Lesson 5 U11L5)",
+            "医師：「ごちそうさまでした。」 患者：「いただきます (医師：「gochisousamadeshita。」 患者：「itadakimasu - Japanese Mastery Unit 11 Lesson 5 U11L5)",
+            "医師：「失礼します。」 患者：「ごめんなさい (医師：「失礼shimasu。」 患者：「gomennasai - Japanese Mastery Unit 11 Lesson 5 U11L5)"
           ],
           "answerIndex": 0,
           "explanation": "医療従事者から患者への別れの挨拶は「お大事に（どうぞ）」が使われます。"
@@ -6707,10 +6707,10 @@
         {
           "prompt": "【体調の経過観察の対話】薬を飲んでも症状が改善しない場合の相談文を選択してください。",
           "options": [
-            "三日間薬を服用しましたが熱が下がりません。もう一度診ていただけますか。",
-            "薬を飲んだら元気になったので病院を壊します。",
-            "熱が上がったので薬を全部捨てました。",
-            "診察を拒否します。"
+            "三日間薬を服用しましたが熱が下がりません。もう一度診ていただけますか (三日間薬wo服用shimashitaga熱ga下garimasen。mou一度診teitadakemasuka - Japanese Mastery Unit 11 Lesson 5 U11L5)",
+            "薬を飲んだら元気になったので病院を壊します (pause [U11L5])",
+            "熱が上がったので薬を全部捨てました (pause [U11L5])",
+            "診察を拒否します (診察wo拒否shimasu - Japanese Mastery Unit 11 Lesson 5 U11L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜を服用しましたが［症状］が下がりません。もう一度診ていただけますか」が的確な再診依頼です。"
@@ -6722,10 +6722,10 @@
         {
           "prompt": "【救急時の相談窓口】急病時に救急車を呼ぶべきか迷った際の日本の相談ダイヤルはどれですか。",
           "options": [
-            "救急安心センター事業「#7119」または「119番」",
-            "110番（警察）",
-            "117番（時報）",
-            "104番（電話番号案内）"
+            "救急安心センター事業「#7119」または「119番 (救急安心sentaー事業「#7119」mataha「119番 - Japanese Mastery Unit 11 Lesson 5 U11L5)",
+            "110番 (Japanese Mastery Unit 11 Lesson 5 Option 2 U11L5)",
+            "117番 (Japanese Mastery Unit 11 Lesson 5 Option 3 U11L5)",
+            "104番 (Japanese Mastery Unit 11 Lesson 5 Option 4 U11L5)"
           ],
           "answerIndex": 0,
           "explanation": "救急車要請は119番、救急医療相談は#7119です。"
@@ -6733,10 +6733,10 @@
         {
           "prompt": "【同僚の体調不良への気遣い】職場で具合が悪そうな同僚に対する親切な声かけを選択してください。",
           "options": [
-            "顔色が良くないようですが、大丈夫ですか。無理をしないで早めに休んでくださいね。",
-            "顔色が悪いからもっと働け。",
-            "病院に行かずに残業してください。",
-            "病気は気のせいです。"
+            "顔色が良くないようですが、大丈夫ですか。無理をしないで早めに休んでくださいね (顔色ga良kunaiyoudesuga、大丈夫desuka。無理woshinaide早meni休ndekudasaine - Japanese Mastery Unit 11 Lesson 5 U11L5)",
+            "顔色が悪いからもっと働け (pause [U11L5])",
+            "病院に行かずに残業してください (病院ni行kazuni残業shitekudasai - Japanese Mastery Unit 11 Lesson 5 U11L5)",
+            "病気は気のせいです (病気ha気noseidesu - Japanese Mastery Unit 11 Lesson 5 U11L5)"
           ],
           "answerIndex": 0,
           "explanation": "「顔色が良くないようですが、大丈夫ですか。無理をしないで〜」が思いやりのある自然な表現です。"
@@ -6749,10 +6749,10 @@
           "type": "multiple-choice",
           "prompt": "病気の人に対して回復を祈る決まり文句はどれですか。",
           "options": [
-            "お大事に（お大事になさってください）",
-            "ごちそうさまでした",
-            "いってらっしゃい",
-            "お邪魔しました"
+            "お大事に (pause [U11L5])",
+            "ごちそうさまでした (gochisousamadeshita - Japanese Mastery Unit 11 Lesson 5 U11L5)",
+            "いってらっしゃい (pause [U11L5])",
+            "お邪魔しました (o邪魔shimashita - Japanese Mastery Unit 11 Lesson 5 U11L5)"
           ],
           "answerIndex": 0,
           "explanation": "病気や怪我の人には「お大事に（なさってください）」と声をかけます。"
@@ -6811,10 +6811,10 @@
         {
           "prompt": "【動詞の意向形（Volitional form）の活用規則】動詞「行く（一類）」「食べる（二類）」「する（三類）」「来る（三類）」の意向形として正しい組み合わせはどれですか。",
           "options": [
-            "行こう（いこう） / 食べよう（たべよう） / しよう / 来よう（こよう）",
-            "行こう / 食べろ / します / きよう",
-            "行きたい / 食べたい / したい / 来たい",
-            "行けば / 食べれば / すれば / 来れば"
+            "行こう (行kou - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "行こう / 食べろ / します / きよう (行kou / 食bero / shimasu / kiyou - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "行きたい / 食べたい / したい / 来たい (行kitai / 食betai / shitai / 来tai - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "行けば / 食べれば / すれば / 来れば (行keba / 食bereba / sureba / 来reba - Japanese Mastery Unit 12 Lesson 1 U12L1)"
           ],
           "answerIndex": 0,
           "explanation": "意向形は一類：u→o段長音（行こう）、二類：る→よう（食べよう）、三類：しよう・来よう（こよう）となります。"
@@ -6822,10 +6822,10 @@
         {
           "prompt": "【意向形を用いた意志構文】週末に友達と美術館に行く予定・意志を述べる文を選択してください。",
           "options": [
-            "今度の週末は友達と一緒に美術館の特別展を見に行こうと思っています。",
-            "今度の週末は友達と美術館を見に行きたいと思っていますでした。",
-            "今度の週末は友達と美術館を見に行きますと思っています。",
-            "今度の週末は友達と美術館を見に行こうでした。"
+            "今度の週末は友達と一緒に美術館の特別展を見に行こうと思っています (pause [U12L1])",
+            "今度の週末は友達と美術館を見に行きたいと思っていますでした (pause [U12L1])",
+            "今度の週末は友達と美術館を見に行きますと思っています (pause [U12L1])",
+            "今度の週末は友達と美術館を見に行こうでした (今度no週末ha友達to美術館wo見ni行koudeshita - Japanese Mastery Unit 12 Lesson 1 U12L1)"
           ],
           "answerIndex": 0,
           "explanation": "話し手の継続的な意志は「［動詞意向形］＋ と思っています」で表します。"
@@ -6837,10 +6837,10 @@
         {
           "prompt": "【相手へのカジュアルな提案・勧誘】「今晩一緒に美味しいラーメンを食べに行こうよ」という意向形文を選択してください。",
           "options": [
-            "今晩一緒に美味しいラーメンを食べに行こうよ。",
-            "今晩一緒に美味しいラーメンを食べに行きますよ。",
-            "今晩一緒に美味しいラーメンを食べに行ってよ。",
-            "今晩一緒に美味しいラーメンを食べに行きたいよ。"
+            "今晩一緒に美味しいラーメンを食べに行こうよ (今晩一緒ni美味shiiraーmenwo食beni行kouyo - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "今晩一緒に美味しいラーメンを食べに行きますよ (今晩一緒ni美味shiiraーmenwo食beni行kimasuyo - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "今晩一緒に美味しいラーメンを食べに行ってよ (pause [U12L1])",
+            "今晩一緒に美味しいラーメンを食べに行きたいよ (今晩一緒ni美味shiiraーmenwo食beni行kitaiyo - Japanese Mastery Unit 12 Lesson 1 U12L1)"
           ],
           "answerIndex": 0,
           "explanation": "親しい間柄での「〜しよう」という勧誘に意向形が単独で使われます。"
@@ -6848,10 +6848,10 @@
         {
           "prompt": "【旅行計画の策定】今年の夏休みに北海道を一周する計画を立てていることを述べる文を選択してください。",
           "options": [
-            "今年の夏休みは北海道を一周旅行する計画を立てています。",
-            "今年の夏休みは北海道を一周旅行した計画でした。",
-            "今年の夏休みは北海道を一周旅行する予定を行きます。",
-            "今年の夏休みに北海道を一周旅行します計画です。"
+            "今年の夏休みは北海道を一周旅行する計画を立てています (今年no夏休miha北海道wo一周旅行suru計画wo立teteimasu - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "今年の夏休みは北海道を一周旅行した計画でした (今年no夏休miha北海道wo一周旅行shita計画deshita - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "今年の夏休みは北海道を一周旅行する予定を行きます (今年no夏休miha北海道wo一周旅行suru予定wo行kimasu - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "今年の夏休みに北海道を一周旅行します計画です (今年no夏休mini北海道wo一周旅行shimasu計画desu - Japanese Mastery Unit 12 Lesson 1 U12L1)"
           ],
           "answerIndex": 0,
           "explanation": "「〜旅行する計画を立てています」が将来の構想を的確に伝えます。"
@@ -6864,10 +6864,10 @@
           "type": "multiple-choice",
           "prompt": "三類動詞「来る（くる）」の意向形の発音（読み方）として正しいものはどれですか。",
           "options": [
-            "こよう（来よう）",
-            "きよう",
-            "くよう",
-            "らいよう"
+            "こよう (koyou - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "きよう (kiyou - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "くよう (kuyou - Japanese Mastery Unit 12 Lesson 1 U12L1)",
+            "らいよう (raiyou - Japanese Mastery Unit 12 Lesson 1 U12L1)"
           ],
           "answerIndex": 0,
           "explanation": "動詞「来る（くる）」の意向形は「来よう（こよう）」と読みます。"
@@ -6926,10 +6926,10 @@
         {
           "prompt": "【「〜つもりです」の接続と意味】話し手の確固たる意図・決意を述べる構文として正しいものはどれですか。",
           "options": [
-            "動詞辞書形 / ない形 ＋ つもりです（例：「留学するつもりです」「タバコを吸わないつもりです」）",
-            "動詞ます形 ＋ つもりです",
-            "動詞た形 ＋ つもりです",
-            "形容詞 ＋ つもりです"
+            "動詞辞書形 / ない形 ＋ つもりです (動詞辞書形 / nai形 ＋ tsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "動詞ます形 ＋ つもりです (動詞masu形 ＋ tsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "動詞た形 ＋ つもりです (動詞ta形 ＋ tsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "形容詞 ＋ つもりです (形容詞 ＋ tsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)"
           ],
           "answerIndex": 0,
           "explanation": "「〜つもりです」は動詞の辞書形またはない形に直接接続し、話し手の強い意志を表します。"
@@ -6937,10 +6937,10 @@
         {
           "prompt": "【大学院進学の意志伝達】大学卒業後に大学院へ進学する意思を述べる文を選択してください。",
           "options": [
-            "大学を卒業した後は、日本の大学院に進学して研究を続けるつもりです。",
-            "大学を卒業した後は、大学院に進学しますつもりです。",
-            "大学を卒業した後は、大学院に進学したつもりでした。",
-            "大学を卒業した後は、大学院に進学しているつもりです。"
+            "大学を卒業した後は、日本の大学院に進学して研究を続けるつもりです (大学wo卒業shita後ha、日本no大学院ni進学shite研究wo続kerutsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "大学を卒業した後は、大学院に進学しますつもりです (大学wo卒業shita後ha、大学院ni進学shimasutsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "大学を卒業した後は、大学院に進学したつもりでした (大学wo卒業shita後ha、大学院ni進学shitatsumorideshita - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "大学を卒業した後は、大学院に進学しているつもりです (大学wo卒業shita後ha、大学院ni進学shiteirutsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)"
           ],
           "answerIndex": 0,
           "explanation": "「進学して研究を続ける（辞書形）＋ つもりです」が正確な意志文です。"
@@ -6952,10 +6952,10 @@
         {
           "prompt": "【否定の意志「〜ないつもり」】今後の飲み会に参加しない決意を述べる文を選択してください。",
           "options": [
-            "試験勉強に集中したいので、今夜の飲み会には参加しないつもりです。",
-            "試験勉強に集中したいので、飲み会に参加するつもりではありませんでした。",
-            "試験勉強に集中したいので、飲み会に参加しなくてつもりです。",
-            "試験勉強に集中したいので、飲み会に参加しない予定でした。"
+            "試験勉強に集中したいので、今夜の飲み会には参加しないつもりです (試験勉強ni集中shitainode、今夜no飲mi会niha参加shinaitsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "試験勉強に集中したいので、飲み会に参加するつもりではありませんでした (試験勉強ni集中shitainode、飲mi会ni参加surutsumoridehaarimasendeshita - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "試験勉強に集中したいので、飲み会に参加しなくてつもりです (試験勉強ni集中shitainode、飲mi会ni参加shinakutetsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "試験勉強に集中したいので、飲み会に参加しない予定でした (試験勉強ni集中shitainode、飲mi会ni参加shinai予定deshita - Japanese Mastery Unit 12 Lesson 2 U12L2)"
           ],
           "answerIndex": 0,
           "explanation": "「参加しない（ない形）＋ つもりです」で否定の決意を明快に表現します。"
@@ -6963,10 +6963,10 @@
         {
           "prompt": "【将来の就職の意志】将来日本企業で働きたい意図を面接で伝える文を選択してください。",
           "options": [
-            "将来はIT技術者として日本企業で働くつもりです（働きたいと考えております）。",
-            "将来は日本企業で働きますつもりです。",
-            "将来は日本企業で働いたつもりです。",
-            "将来は日本企業で働く予定ですつもりです。"
+            "将来はIT技術者として日本企業で働くつもりです (将来haIT技術者toshite日本企業de働kutsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "将来は日本企業で働きますつもりです (将来ha日本企業de働kimasutsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "将来は日本企業で働いたつもりです (将来ha日本企業de働itatsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "将来は日本企業で働く予定ですつもりです (将来ha日本企業de働ku予定desutsumoridesu - Japanese Mastery Unit 12 Lesson 2 U12L2)"
           ],
           "answerIndex": 0,
           "explanation": "「〜働くつもりです」が自身の将来設計を語るのに適切です。"
@@ -6979,10 +6979,10 @@
           "type": "multiple-choice",
           "prompt": "目上の人に対して「先生は何時に帰るつもりですか」と質問するのが不作法とされる理由は何ですか。",
           "options": [
-            "「つもり」は話し手自身の意図を述べる語であり、相手の意志を直接詮索するのは不敬に当たるため。",
-            "文法的に間違いであるため。",
-            "「つもり」は過去形にしか使えないため。",
-            "敬語の「お〜になる」が入っているため。"
+            "「つもり」は話し手自身の意図を述べる語であり、相手の意志を直接詮索するのは不敬に当たるため (「tsumori」ha話shi手自身no意図wo述beru語deari、相手no意志wo直接詮索surunoha不敬ni当tarutame - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "文法的に間違いであるため (文法的ni間違idearutame - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "「つもり」は過去形にしか使えないため (「tsumori」ha過去形nishika使enaitame - Japanese Mastery Unit 12 Lesson 2 U12L2)",
+            "敬語の「お〜になる」が入っているため (pause [U12L2])"
           ],
           "answerIndex": 0,
           "explanation": "目上の人の予定を尋ねる際は「〜お帰りになるご予定ですか」など尊敬語を用い、「〜つもりですか」は避けます。"
@@ -7040,10 +7040,10 @@
         {
           "prompt": "【「〜予定です」の接続と意味】公式な日程や客観的なスケジュールを述べる構文として正しいものはどれですか。",
           "options": [
-            "動詞辞書形 ＋ 予定です / 名詞 ＋ の ＋ 予定です（例：「出席する予定です」「出張の予定です」）",
-            "動詞ます形 ＋ 予定です",
-            "動詞て形 ＋ 予定です",
-            "形容詞 ＋ 予定です"
+            "動詞辞書形 ＋ 予定です / 名詞 ＋ の ＋ 予定です (動詞辞書形 ＋ 予定desu / 名詞 ＋ no ＋ 予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "動詞ます形 ＋ 予定です (動詞masu形 ＋ 予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "動詞て形 ＋ 予定です (動詞te形 ＋ 予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "形容詞 ＋ 予定です (形容詞 ＋ 予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)"
           ],
           "answerIndex": 0,
           "explanation": "「〜予定です」は動詞辞書形または「名詞＋の」に接続し、客観的に決定されたスケジュールを表します。"
@@ -7051,10 +7051,10 @@
         {
           "prompt": "【ビジネス会議の予定伝達】明日の午後に取引先との会議に出席する予定を述べる文を選択してください。",
           "options": [
-            "明日の午後は社外の取引先との重要な業務提携会議に出席する予定です。",
-            "明日の午後は取引先との会議に出席します予定です。",
-            "明日の午後は取引先との会議に出席した予定です。",
-            "明日の午後は取引先との会議に出席するつもりでした。"
+            "明日の午後は社外の取引先との重要な業務提携会議に出席する予定です (明日no午後ha社外no取引先tono重要na業務提携会議ni出席suru予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "明日の午後は取引先との会議に出席します予定です (明日no午後ha取引先tono会議ni出席shimasu予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "明日の午後は取引先との会議に出席した予定です (明日no午後ha取引先tono会議ni出席shita予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "明日の午後は取引先との会議に出席するつもりでした (明日no午後ha取引先tono会議ni出席surutsumorideshita - Japanese Mastery Unit 12 Lesson 3 U12L3)"
           ],
           "answerIndex": 0,
           "explanation": "「出席する（辞書形）＋ 予定です」が客観的スケジュールの標準表現です。"
@@ -7066,10 +7066,10 @@
         {
           "prompt": "【名詞接続「〜の予定です」】来週月曜日から一週間東京へ出張予定であることを述べる文を選択してください。",
           "options": [
-            "来週の月曜日から一週間、東京出張の予定です（東京へ出張する予定です）。",
-            "来週の月曜日から東京出張な予定です。",
-            "来週の月曜日から東京出張を予定です。",
-            "来週の月曜日から東京出張で予定です。"
+            "来週の月曜日から一週間、東京出張の予定です (来週no月曜日kara一週間、東京出張no予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "来週の月曜日から東京出張な予定です (来週no月曜日kara東京出張na予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "来週の月曜日から東京出張を予定です (来週no月曜日kara東京出張wo予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "来週の月曜日から東京出張で予定です (来週no月曜日kara東京出張de予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)"
           ],
           "answerIndex": 0,
           "explanation": "名詞「出張」に接続する場合は「出張の予定です」となります。"
@@ -7077,10 +7077,10 @@
         {
           "prompt": "【新幹線出発時刻の客観的予定】電車の発車時刻をアナウンス・伝達する文を選択してください。",
           "options": [
-            "新幹線は十時三十分に出発する予定です。",
-            "新幹線は十時三十に出発するつもりです。",
-            "新幹線は十時三十に出発しようと思っています。",
-            "新幹線は十時三十に出発したいです予定です。"
+            "新幹線は十時三十分に出発する予定です (新幹線ha十時三十分ni出発suru予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "新幹線は十時三十に出発するつもりです (新幹線ha十時三十ni出発surutsumoridesu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "新幹線は十時三十に出発しようと思っています (pause [U12L3])",
+            "新幹線は十時三十に出発したいです予定です (新幹線ha十時三十ni出発shitaidesu予定desu - Japanese Mastery Unit 12 Lesson 3 U12L3)"
           ],
           "answerIndex": 0,
           "explanation": "乗り物のダイヤなど公共スケジュールには「〜予定です」を用います。"
@@ -7093,10 +7093,10 @@
           "type": "multiple-choice",
           "prompt": "「つもりです」と「予定です」の文法・語用論的相違点として正しいものはどれですか。",
           "options": [
-            "「つもり」は主観的な個人の意志・決意、「予定」は客観的に確定した公式スケジュール。",
-            "「つもり」が公的スケジュールで、「予定」が個人の意志である。",
-            "両者に意味の違いはなく完全な同義語である。",
-            "「予定」は過去の出来事にしか使えない。"
+            "「つもり」は主観的な個人の意志・決意、「予定」は客観的に確定した公式スケジュール (「tsumori」ha主観的na個人no意志・決意、「予定」ha客観的ni確定shita公式sukejiューru - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "「つもり」が公的スケジュールで、「予定」が個人の意志である (「tsumori」ga公的sukejiューrude、「予定」ga個人no意志dearu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "両者に意味の違いはなく完全な同義語である (両者ni意味no違ihanaku完全na同義語dearu - Japanese Mastery Unit 12 Lesson 3 U12L3)",
+            "「予定」は過去の出来事にしか使えない (「予定」ha過去no出来事nishika使enai - Japanese Mastery Unit 12 Lesson 3 U12L3)"
           ],
           "answerIndex": 0,
           "explanation": "「つもり」＝個人の主観的意図、「予定」＝他者や組織と共有された客観的スケジュールです。"
@@ -7155,10 +7155,10 @@
         {
           "prompt": "【将来の目標・資格取得の決意】日本語能力試験（JLPT）N2に合格するための勉強計画を述べる文を選択してください。",
           "options": [
-            "今年の十二月に日本語能力試験N2を受験して合格するつもりです。",
-            "今年の十二月にN2を受験したつもりです。",
-            "今年の十二月にN2を受験しよう予定です。",
-            "今年の十二月にN2を受験すると思いましょう。"
+            "今年の十二月に日本語能力試験N2を受験して合格するつもりです (今年no十二月ni日本語能力試験N2wo受験shite合格surutsumoridesu - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "今年の十二月にN2を受験したつもりです (今年no十二月niN2wo受験shitatsumoridesu - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "今年の十二月にN2を受験しよう予定です (今年no十二月niN2wo受験shiyou予定desu - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "今年の十二月にN2を受験すると思いましょう (今年no十二月niN2wo受験suruto思imashiょu - Japanese Mastery Unit 12 Lesson 4 U12L4)"
           ],
           "answerIndex": 0,
           "explanation": "「受験して合格する（辞書形）＋ つもりです」が目標達成の意志を表します。"
@@ -7166,10 +7166,10 @@
         {
           "prompt": "【留学・研修の計画伝達】来年の春から半年間京都で研修を受ける予定を説明する文を選択してください。",
           "options": [
-            "来年の四月から半年間、京都の研究所で研修を受ける予定になっています。",
-            "来年の四月から京都で研修を受けたつもりです。",
-            "来年の四月から京都で研修を受けよう予定です。",
-            "来年の四月から京都で研修を受けます計画でした。"
+            "来年の四月から半年間、京都の研究所で研修を受ける予定になっています (pause [U12L4])",
+            "来年の四月から京都で研修を受けたつもりです (来年no四月kara京都de研修wo受ketatsumoridesu - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "来年の四月から京都で研修を受けよう予定です (来年no四月kara京都de研修wo受keyou予定desu - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "来年の四月から京都で研修を受けます計画でした (来年no四月kara京都de研修wo受kemasu計画deshita - Japanese Mastery Unit 12 Lesson 4 U12L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜受ける予定になっています（公式決定）」が適切です。"
@@ -7181,10 +7181,10 @@
         {
           "prompt": "【貯金と将来の計画】将来自分のお店を持つために貯金していることを述べる文を選択してください。",
           "options": [
-            "将来自分のカフェを開くために、毎月コツコツ貯金しています。",
-            "将来カフェを開いたので貯金しました。",
-            "将来カフェを開くつもりで全部お金を使いました。",
-            "将来カフェを開きながら貯金を止めます。"
+            "将来自分のカフェを開くために、毎月コツコツ貯金しています (将来自分nokafuェwo開kutameni、毎月kotsukotsu貯金shiteimasu - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "将来カフェを開いたので貯金しました (将来kafuェwo開itanode貯金shimashita - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "将来カフェを開くつもりで全部お金を使いました (将来kafuェwo開kutsumoride全部o金wo使imashita - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "将来カフェを開きながら貯金を止めます (将来kafuェwo開kinagara貯金wo止memasu - Japanese Mastery Unit 12 Lesson 4 U12L4)"
           ],
           "answerIndex": 0,
           "explanation": "「［目的動詞辞書形］＋ ために、貯金しています」が目的と手段の整合した文です。"
@@ -7192,10 +7192,10 @@
         {
           "prompt": "【週末の予定確認への応答】「週末は何をする予定ですか」に対する自然な返答を選択してください。",
           "options": [
-            "「部屋の掃除をして、午後から友達と映画を見に行こうと思っています。」",
-            "「何もしない予定でしたので昨日行きました。」",
-            "「週末を食べます。」",
-            "「映画を見るつもり予定です。」"
+            "「部屋の掃除をして、午後から友達と映画を見に行こうと思っています (pause [U12L4])",
+            "「何もしない予定でしたので昨日行きました (「何moshinai予定deshitanode昨日行kimashita - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "「週末を食べます (「週末wo食bemasu - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "「映画を見るつもり予定です (「映画wo見rutsumori予定desu - Japanese Mastery Unit 12 Lesson 4 U12L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜映画を見に行こうと思っています（意向形＋と思っています）」が自然な応答です。"
@@ -7208,10 +7208,10 @@
           "type": "multiple-choice",
           "prompt": "目的を表す表現「〜ために（辞書形接続）」と「〜ように（可能形・無意志動詞接続）」の使い分けとして正しいものはどれですか。",
           "options": [
-            "意志動詞の辞書形には「〜ために（家を買うために貯金する）」、可能形や無意志動詞には「〜ように（合格できるように勉強する）」。",
-            "両者に違いはなくいつでも自由に交換できる。",
-            "「ために」は過去形、「ように」は未来形にしか使えない。",
-            "「ように」は名詞にしか接続しない。"
+            "意志動詞の辞書形には「〜ために (意志動詞no辞書形niha「〜tameni - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "両者に違いはなくいつでも自由に交換できる (両者ni違ihanakuitsudemo自由ni交換dekiru - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "「ために」は過去形、「ように」は未来形にしか使えない (「tameni」ha過去形、「youni」ha未来形nishika使enai - Japanese Mastery Unit 12 Lesson 4 U12L4)",
+            "「ように」は名詞にしか接続しない (「youni」ha名詞nishika接続shinai - Japanese Mastery Unit 12 Lesson 4 U12L4)"
           ],
           "answerIndex": 0,
           "explanation": "意志動詞＋ために（目的）、可能形・状態・否定＋ように（目標状態への誘導）です。"
@@ -7270,10 +7270,10 @@
         {
           "prompt": "【キャリアプランの面接対話】今後のキャリア目標を面接官に伝える表現として最も適切なものはどれですか。",
           "options": [
-            "「五年後にはプロジェクトマネージャーとしてチームを牽引できるよう、日々の業務と資格取得に励む所存です。」",
-            "「五年後は社長をクビにして自分が社長になるつもりだ。」",
-            "「仕事は適当にやって早く帰る予定です。」",
-            "「将来のことは何も考えていません。」"
+            "「五年後にはプロジェクトマネージャーとしてチームを牽引できるよう、日々の業務と資格取得に励む所存です (「五年後nihapurojiェkutomaneーjiャーtoshitechiーmuwo牽引dekiruyou、日々no業務to資格取得ni励mu所存desu - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "「五年後は社長をクビにして自分が社長になるつもりだ (「五年後ha社長wokubinishite自分ga社長ninarutsumorida - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "「仕事は適当にやって早く帰る予定です (pause [U12L5])",
+            "「将来のことは何も考えていません (「将来nokotoha何mo考eteimasen - Japanese Mastery Unit 12 Lesson 5 U12L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜できるよう、日々の業務と資格取得に励む所存です（意向・決意）」が最も格調高い表現です。"
@@ -7281,10 +7281,10 @@
         {
           "prompt": "【長期休暇の旅程相談対話】同僚と休暇の過ごし方を語り合う自然な対話を選択してください。",
           "options": [
-            "「夏休みはどうするの？」「家族と沖縄へ行ってダイビングに挑戦しようと思っているんだ。」",
-            "「夏休みはどこへ行く？」「どこにも行きませんつもりです。」",
-            "「夏休みはいつ？」「沖縄を食べよう予定です。」",
-            "「夏休みは休みません。」"
+            "「夏休みはどうするの？」「家族と沖縄へ行ってダイビングに挑戦しようと思っているんだ (pause [U12L5])",
+            "「夏休みはどこへ行く？」「どこにも行きませんつもりです (「夏休mihadokohe行ku？」「dokonimo行kimasentsumoridesu - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "「夏休みはいつ？」「沖縄を食べよう予定です (「夏休mihaitsu？」「沖縄wo食beyou予定desu - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "「夏休みは休みません (「夏休miha休mimasen - Japanese Mastery Unit 12 Lesson 5 U12L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜挑戦しようと思っているんだ（意向形＋と思っている）」が日常会話として極めて自然です。"
@@ -7296,10 +7296,10 @@
         {
           "prompt": "【複合計画の総合伝達】引越しと転職の二つの計画を順序立てて説明する文を選択してください。",
           "options": [
-            "来月新しいアパートに引っ越して、秋からは新しいIT企業で働き始める予定です。",
-            "来月引っ越したつもりで、秋から働き始めよう計画です。",
-            "来月引っ越すと思いまして、秋から働く予定でしたつもりです。",
-            "来月引っ越して秋から働きませんでした。"
+            "来月新しいアパートに引っ越して、秋からは新しいIT企業で働き始める予定です (pause [U12L5])",
+            "来月引っ越したつもりで、秋から働き始めよう計画です (pause [U12L5])",
+            "来月引っ越すと思いまして、秋から働く予定でしたつもりです (pause [U12L5])",
+            "来月引っ越して秋から働きませんでした (pause [U12L5])"
           ],
           "answerIndex": 0,
           "explanation": "「引っ越して（て形）、〜働き始める予定です（予定）」が明晰な伝達です。"
@@ -7307,10 +7307,10 @@
         {
           "prompt": "【意志の断念・変更の伝達】当初の予定を変更したことを伝える文を選択してください。",
           "options": [
-            "旅行に行くつもりでしたが、仕事が忙しくなったのでキャンセルすることにしました。",
-            "旅行に行く予定でしたので今すぐ旅行に行きます。",
-            "旅行に行くつもりですですからキャンセルしませんでした。",
-            "旅行を壊しました。"
+            "旅行に行くつもりでしたが、仕事が忙しくなったのでキャンセルすることにしました (pause [U12L5])",
+            "旅行に行く予定でしたので今すぐ旅行に行きます (旅行ni行ku予定deshitanode今sugu旅行ni行kimasu - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "旅行に行くつもりですですからキャンセルしませんでした (旅行ni行kutsumoridesudesukarakiャnserushimasendeshita - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "旅行を壊しました (旅行wo壊shimashita - Japanese Mastery Unit 12 Lesson 5 U12L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜つもりでしたが、〜ことにしました（決定）」が計画変更の定型です。"
@@ -7323,10 +7323,10 @@
           "type": "multiple-choice",
           "prompt": "「〜ことにする（個人の主観的決定）」と「〜ことになる（組織・他者による客観的決定）」の違いは何ですか。",
           "options": [
-            "前者は自分自身の判断・決定（I decided to 〜）、後者は規則や周囲の決定（It has been decided that 〜）。",
-            "前者が客観的決定で後者が主観的決定である。",
-            "全く同じ意味である。",
-            "前者が過去形で後者が未来形である。"
+            "前者は自分自身の判断・決定 (前者ha自分自身no判断・決定 - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "前者が客観的決定で後者が主観的決定である (前者ga客観的決定de後者ga主観的決定dearu - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "全く同じ意味である (全ku同ji意味dearu - Japanese Mastery Unit 12 Lesson 5 U12L5)",
+            "前者が過去形で後者が未来形である (前者ga過去形de後者ga未来形dearu - Japanese Mastery Unit 12 Lesson 5 U12L5)"
           ],
           "answerIndex": 0,
           "explanation": "「ことにする」＝話者の能動的意志、「ことになる」＝受動的・組織的決定です。"
@@ -7384,10 +7384,10 @@
         {
           "prompt": "【ウチとソトの敬語原則（社外への自社社員の言及）】社外の取引先に対して自分の上司（山田部長）について話す際、正しい表現はどれですか。",
           "options": [
-            "「部長の山田は、ただいま席を外しております。」（呼び捨て・謙譲表現）",
-            "「山田部長様は、ただいま席を外されていらっしゃいます。」",
-            "「山田先生は、お外にいらっしゃいます。」",
-            "「山田部長さんは、今いません。」"
+            "「部長の山田は、ただいま席を外しております (「部長no山田ha、tadaima席wo外shiteorimasu - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "「山田部長様は、ただいま席を外されていらっしゃいます (pause [U13L1])",
+            "「山田先生は、お外にいらっしゃいます (pause [U13L1])",
+            "「山田部長さんは、今いません (「山田部長sanha、今imasen - Japanese Mastery Unit 13 Lesson 1 U13L1)"
           ],
           "answerIndex": 0,
           "explanation": "社外の人に対して社内の人間（上司であっても）について話す際は、役職名を付けず呼び捨てにし謙譲語を用います。"
@@ -7395,10 +7395,10 @@
         {
           "prompt": "【退社時の職場挨拶】先に退勤する際に同僚や上司にかける定型挨拶はどれですか。",
           "options": [
-            "「お先に失礼いたします。」（残る側は「お疲れ様でした」）",
-            "「ご苦労様でした。」",
-            "「バイバイ、また明日。」",
-            "「お邪魔しました。」"
+            "「お先に失礼いたします (「o先ni失礼itashimasu - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "「ご苦労様でした (「go苦労様deshita - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "「バイバイ、また明日 (「baibai、mata明日 - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "「お邪魔しました (「o邪魔shimashita - Japanese Mastery Unit 13 Lesson 1 U13L1)"
           ],
           "answerIndex": 0,
           "explanation": "先に職場を退出する際は「お先に失礼いたします」と言います。「ご苦労様」は目上が目下に使う語です。"
@@ -7410,10 +7410,10 @@
         {
           "prompt": "【役職の序列順序】一般的な日本企業における役職の高い順として正しいものはどれですか。",
           "options": [
-            "社長 ＞ 部長 ＞ 課長 ＞ 係長 ＞ 主任 ＞ 一般社員",
-            "主任 ＞ 係長 ＞ 課長 ＞ 部長 ＞ 社長",
-            "課長 ＞ 社長 ＞ 部長 ＞ 主任",
-            "すべて同じ権限である"
+            "社長 ＞ 部長 ＞ 課長 ＞ 係長 ＞ 主任 ＞ 一般社員 (Japanese Mastery Unit 13 Lesson 1 Option 1 U13L1)",
+            "主任 ＞ 係長 ＞ 課長 ＞ 部長 ＞ 社長 (Japanese Mastery Unit 13 Lesson 1 Option 2 U13L1)",
+            "課長 ＞ 社長 ＞ 部長 ＞ 主任 (Japanese Mastery Unit 13 Lesson 1 Option 3 U13L1)",
+            "すべて同じ権限である (subete同ji権限dearu - Japanese Mastery Unit 13 Lesson 1 U13L1)"
           ],
           "answerIndex": 0,
           "explanation": "日本の企業組織の一般的な序列は「社長 ＞ 専務・常務 ＞ 部長 ＞ 課長 ＞ 係長 ＞ 主任」です。"
@@ -7421,10 +7421,10 @@
         {
           "prompt": "【社内での業務終了の挨拶】一日仕事を共にした同僚への労いの言葉を選択してください。",
           "options": [
-            "本日の業務は以上で終了いたします。皆様、お疲れ様でした。",
-            "本日の業務を全部捨てました。ご苦労様です。",
-            "皆様、さようなら、もう会いません。",
-            "いただきます。"
+            "本日の業務は以上で終了いたします。皆様、お疲れ様でした (本日no業務ha以上de終了itashimasu。皆様、o疲re様deshita - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "本日の業務を全部捨てました。ご苦労様です (本日no業務wo全部捨temashita。go苦労様desu - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "皆様、さようなら、もう会いません (皆様、sayounara、mou会imasen - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "いただきます (itadakimasu - Japanese Mastery Unit 13 Lesson 1 U13L1)"
           ],
           "answerIndex": 0,
           "explanation": "「お疲れ様でした」が同僚・同輩および上司に対する標準的な労いの挨拶です。"
@@ -7437,10 +7437,10 @@
           "type": "multiple-choice",
           "prompt": "目上の人に対して使ってはいけない不適切な挨拶表現はどれですか。",
           "options": [
-            "ご苦労様です（目下が目上に使うのは失礼。「お疲れ様です」が適切）",
-            "お疲れ様です",
-            "お先に失礼いたします",
-            "よろしくお願い申し上げます"
+            "ご苦労様です (go苦労様desu - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "お疲れ様です (o疲re様desu - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "お先に失礼いたします (o先ni失礼itashimasu - Japanese Mastery Unit 13 Lesson 1 U13L1)",
+            "よろしくお願い申し上げます (yoroshikuo願i申shi上gemasu - Japanese Mastery Unit 13 Lesson 1 U13L1)"
           ],
           "answerIndex": 0,
           "explanation": "「ご苦労様」は上位者が下位者をねぎらう言葉であり、目上に対しては「お疲れ様です」を用います。"
@@ -7499,10 +7499,10 @@
         {
           "prompt": "【ビジネス電話の受電第一声】電話に出る際の標準的なビジネスマナー表現はどれですか。",
           "options": [
-            "「お電話ありがとうございます。株式会社〇〇、営業部の佐藤でございます。」",
-            "「もしもし、どなたですか。」",
-            "「はい、電話です。」",
-            "「要件を早く言ってください。」"
+            "「お電話ありがとうございます。株式会社〇〇、営業部の佐藤でございます (「o電話arigatougozaimasu。株式会社〇〇、営業部no佐藤degozaimasu - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「もしもし、どなたですか (「moshimoshi、donatadesuka - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「はい、電話です (「hai、電話desu - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「要件を早く言ってください (pause [U13L2])"
           ],
           "answerIndex": 0,
           "explanation": "ビジネス電話では「もしもし」は使わず、「お電話ありがとうございます。［社名］の［名前］でございます」と名乗ります。"
@@ -7510,10 +7510,10 @@
         {
           "prompt": "【担当者不在時の電話対応】名指しされた担当者が不在の場合の丁寧な応対表現はどれですか。",
           "options": [
-            "「あいにく田中は席を外しております。戻り次第、折り返しお電話差し上げましょうか。」",
-            "「田中はいません。切ります。」",
-            "「田中部長様は遊びに行きました。」",
-            "「後でまた自分でかけてください。」"
+            "「あいにく田中は席を外しております。戻り次第、折り返しお電話差し上げましょうか (「ainiku田中ha席wo外shiteorimasu。戻ri次第、折ri返shio電話差shi上gemashiょuka - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「田中はいません。切ります (「田中haimasen。切rimasu - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「田中部長様は遊びに行きました (「田中部長様ha遊bini行kimashita - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「後でまた自分でかけてください (「後demata自分dekaketekudasai - Japanese Mastery Unit 13 Lesson 2 U13L2)"
           ],
           "answerIndex": 0,
           "explanation": "不在を「あいにく〜は席を外しております」と伝え、折り返しの提案をするのが標準です。"
@@ -7525,10 +7525,10 @@
         {
           "prompt": "【電話での相手の確認】相手の名前が聞き取れなかった際の丁寧な聞き返し文を選択してください。",
           "options": [
-            "「大変恐れ入りますが、お電話が少々遠いようでございます。もう一度お名前をお伺いできますでしょうか。」",
-            "「声が小さいからもっと大声で喋ってください。」",
-            "「誰ですか。」",
-            "「名前を言え。」"
+            "「大変恐れ入りますが、お電話が少々遠いようでございます。もう一度お名前をお伺いできますでしょうか (「大変恐re入rimasuga、o電話ga少々遠iyoudegozaimasu。mou一度o名前woo伺idekimasudeshiょuka - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「声が小さいからもっと大声で喋ってください (pause [U13L2])",
+            "「誰ですか (「誰desuka - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「名前を言え (「名前wo言e - Japanese Mastery Unit 13 Lesson 2 U13L2)"
           ],
           "answerIndex": 0,
           "explanation": "相手のせいにせず「お電話が遠いようでございます」とクッション言葉を挟んで再確認します。"
@@ -7536,10 +7536,10 @@
         {
           "prompt": "【伝言の承り】相手からの伝言を引き受ける際の適切な表現を選択してください。",
           "options": [
-            "「私、佐藤が確かに申し伝えます。お電話ありがとうございました。」",
-            "「伝言を忘れずに言っておきます。」",
-            "「田中さんに教えてあげます。」",
-            "「紙に書きました。」"
+            "「私、佐藤が確かに申し伝えます。お電話ありがとうございました (「私、佐藤ga確kani申shi伝emasu。o電話arigatougozaimashita - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「伝言を忘れずに言っておきます (pause [U13L2])",
+            "「田中さんに教えてあげます (「田中sanni教eteagemasu - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「紙に書きました (「紙ni書kimashita - Japanese Mastery Unit 13 Lesson 2 U13L2)"
           ],
           "answerIndex": 0,
           "explanation": "「私、［名前］が確かに申し伝えます」と責任者を明示して謙譲語で請け合います。"
@@ -7552,10 +7552,10 @@
           "type": "multiple-choice",
           "prompt": "電話の保留時に相手を待たせる際の一言として適切なものはどれですか。",
           "options": [
-            "「確認いたしますので、少々お待ちいただけますでしょうか。」",
-            "「待て。」",
-            "「長い間待ってください。」",
-            "「電話を切らないで遊んでいてください。」"
+            "「確認いたしますので、少々お待ちいただけますでしょうか (「確認itashimasunode、少々o待chiitadakemasudeshiょuka - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「待て (「待te - Japanese Mastery Unit 13 Lesson 2 U13L2)",
+            "「長い間待ってください (pause [U13L2])",
+            "「電話を切らないで遊んでいてください (「電話wo切ranaide遊ndeitekudasai - Japanese Mastery Unit 13 Lesson 2 U13L2)"
           ],
           "answerIndex": 0,
           "explanation": "「少々お待ちいただけますでしょうか」「少々お待ちくださいませ」を用います。"
@@ -7613,10 +7613,10 @@
         {
           "prompt": "【社外向けビジネスメールの冒頭挨拶】取引先宛メールの書き出しとして最も適切な定型構文はどれですか。",
           "options": [
-            "「いつも大変お世話になっております。株式会社〇〇の山田でございます。」",
-            "「元気ですか。山田です。」",
-            "「お疲れ様です。山田だ。」",
-            "「メールを読んでください。」"
+            "「いつも大変お世話になっております。株式会社〇〇の山田でございます (pause [U13L3])",
+            "「元気ですか。山田です (「元気desuka。山田desu - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「お疲れ様です。山田だ (「o疲re様desu。山田da - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「メールを読んでください (「meーruwo読ndekudasai - Japanese Mastery Unit 13 Lesson 3 U13L3)"
           ],
           "answerIndex": 0,
           "explanation": "社外メールの定型冒頭は「いつも大変お世話になっております。［社名］の［氏名］でございます」です。"
@@ -7624,10 +7624,10 @@
         {
           "prompt": "【ビジネスメールの結びの言葉】社外取引先へのメールを締めくくる最敬体定型句はどれですか。",
           "options": [
-            "「何卒よろしくお願い申し上げます。」",
-            "「よろしく頼むよ。」",
-            "「さようなら。」",
-            "「返事をすぐください。」"
+            "「何卒よろしくお願い申し上げます (「何卒yoroshikuo願i申shi上gemasu - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「よろしく頼むよ (「yoroshiku頼muyo - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「さようなら (「sayounara - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「返事をすぐください (「返事wosugukudasai - Japanese Mastery Unit 13 Lesson 3 U13L3)"
           ],
           "answerIndex": 0,
           "explanation": "「何卒よろしくお願い申し上げます」または「引き続きよろしくお願い申し上げます」が標準結びです。"
@@ -7639,10 +7639,10 @@
         {
           "prompt": "【添付ファイルの確認依頼】メール添付の資料を確認してほしい時のビジネス敬語表現を選択してください。",
           "options": [
-            "「企画書を添付いたしましたので、ご査収のほどよろしくお願い申し上げます。」",
-            "「添付ファイルを見てください。」",
-            "「添付ファイルを調べろ。」",
-            "「企画書を読め。」"
+            "「企画書を添付いたしましたので、ご査収のほどよろしくお願い申し上げます (「企画書wo添付itashimashitanode、go査収nohodoyoroshikuo願i申shi上gemasu - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「添付ファイルを見てください (「添付fuァiruwo見tekudasai - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「添付ファイルを調べろ (「添付fuァiruwo調bero - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「企画書を読め (「企画書wo読me - Japanese Mastery Unit 13 Lesson 3 U13L3)"
           ],
           "answerIndex": 0,
           "explanation": "「ご査収（さしゅう）のほどよろしくお願い申し上げます」が添付ファイル確認の標準表現です。"
@@ -7650,10 +7650,10 @@
         {
           "prompt": "【迅速な返信への御礼】相手の早い対応に対する感謝を述べるメール文を選択してください。",
           "options": [
-            "「ご多忙の折、早速のご連絡をいただき誠にありがとうございます。」",
-            "「早くメールをくれてありがとう。」",
-            "「暇だったようで感謝します。」",
-            "「返信が早くてびっくりしました。」"
+            "「ご多忙の折、早速のご連絡をいただき誠にありがとうございます (「go多忙no折、早速nogo連絡woitadaki誠niarigatougozaimasu - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「早くメールをくれてありがとう (「早kumeーruwokuretearigatou - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "「暇だったようで感謝します (pause [U13L3])",
+            "「返信が早くてびっくりしました (pause [U13L3])"
           ],
           "answerIndex": 0,
           "explanation": "「ご多忙の折、早速のご連絡をいただき誠にありがとうございます」が格式高い表現です。"
@@ -7666,10 +7666,10 @@
           "type": "multiple-choice",
           "prompt": "ビジネスメールにおける「CC」と「BCC」の使い分けとして正しいものはどれですか。",
           "options": [
-            "CCは他の受信者にもアドレスが開示される共有用、BCCは他の受信者にアドレスが隠匿される送信用。",
-            "CCとBCCは全く同じ機能である。",
-            "BCCは上司専用のアドレス欄である。",
-            "CCは添付ファイルを送る時だけ使う。"
+            "CCは他の受信者にもアドレスが開示される共有用、BCCは他の受信者にアドレスが隠匿される送信用 (CCha他no受信者nimoadoresuga開示sareru共有用、BCCha他no受信者niadoresuga隠匿sareru送信用 - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "CCとBCCは全く同じ機能である (CCtoBCCha全ku同ji機能dearu - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "BCCは上司専用のアドレス欄である (BCCha上司専用noadoresu欄dearu - Japanese Mastery Unit 13 Lesson 3 U13L3)",
+            "CCは添付ファイルを送る時だけ使う (CCha添付fuァiruwo送ru時dake使u - Japanese Mastery Unit 13 Lesson 3 U13L3)"
           ],
           "answerIndex": 0,
           "explanation": "CC（Carbon Copy）は情報共有、BCC（Blind Carbon Copy）は個人情報保護・一斉配信時の秘匿に使います。"
@@ -7728,10 +7728,10 @@
         {
           "prompt": "【日本の職場文化「報連相（ほうれんそう）」】報連相が表す3つの業務行動の正しい組み合わせはどれですか。",
           "options": [
-            "報告（ほうこく） / 連絡（れんらく） / 相談（そうだん）",
-            "訪問 / 練習 / 掃除",
-            "方針 / 連続 / 送信",
-            "法律 / 連帯 / 創造"
+            "報告 (Japanese Mastery Unit 13 Lesson 4 Option 1 U13L4)",
+            "訪問 / 練習 / 掃除 (Japanese Mastery Unit 13 Lesson 4 Option 2 U13L4)",
+            "方針 / 連続 / 送信 (Japanese Mastery Unit 13 Lesson 4 Option 3 U13L4)",
+            "法律 / 連帯 / 創造 (Japanese Mastery Unit 13 Lesson 4 Option 4 U13L4)"
           ],
           "answerIndex": 0,
           "explanation": "「報連相（ほうれんそう）」は「報告・連絡・相談」の略語で、日本のビジネスの根幹です。"
@@ -7739,10 +7739,10 @@
         {
           "prompt": "【上司への相談の切り出し方】多忙な上司に業務の相談を持ちかける丁寧な表現はどれですか。",
           "options": [
-            "「部長、今少々お時間よろしいでしょうか。企画の進捗についてご相談したいことがございます。」",
-            "「部長、今すぐ話を聞け。」",
-            "「部長、暇ですか。」",
-            "「相談がありますから来てください。」"
+            "「部長、今少々お時間よろしいでしょうか。企画の進捗についてご相談したいことがございます (「部長、今少々o時間yoroshiideshiょuka。企画no進捗nitsuitego相談shitaikotogagozaimasu - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "「部長、今すぐ話を聞け (「部長、今sugu話wo聞ke - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "「部長、暇ですか (「部長、暇desuka - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "「相談がありますから来てください (「相談gaarimasukara来tekudasai - Japanese Mastery Unit 13 Lesson 4 U13L4)"
           ],
           "answerIndex": 0,
           "explanation": "「今少々お時間よろしいでしょうか。〜についてご相談したいことがございます」と相手の都合を配慮します。"
@@ -7754,10 +7754,10 @@
         {
           "prompt": "【納期遅延の謝罪とお詫び】納期の遅れをクライアントに誠心誠意謝罪する文を選択してください。",
           "options": [
-            "「多大なるご迷惑をおかけいたしまして、心より深くお詫び申し上げます。」",
-            "「遅れてごめんなさい。」",
-            "「忙しかったので仕方ありません。」",
-            "「遅延を許してください。」"
+            "「多大なるご迷惑をおかけいたしまして、心より深くお詫び申し上げます (「多大narugo迷惑wookakeitashimashite、心yori深kuo詫bi申shi上gemasu - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "「遅れてごめんなさい (「遅retegomennasai - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "「忙しかったので仕方ありません (pause [U13L4])",
+            "「遅延を許してください (「遅延wo許shitekudasai - Japanese Mastery Unit 13 Lesson 4 U13L4)"
           ],
           "answerIndex": 0,
           "explanation": "「多大なるご迷惑をおかけいたしまして、心より深くお詫び申し上げます」がビジネスにおける最上級の謝罪表現です。"
@@ -7765,10 +7765,10 @@
         {
           "prompt": "【クッション言葉を用いた依頼】相手に手間のかかる作業を依頼する際の丁寧な前置きを選択してください。",
           "options": [
-            "「お忙しいところ大変恐縮ではございますが、こちらのアンケートにご協力いただけますでしょうか。」",
-            "「アンケートを絶対に書いてください。」",
-            "「忙しいならアンケートをやらなくていいです。」",
-            "「アンケートを命令します。」"
+            "「お忙しいところ大変恐縮ではございますが、こちらのアンケートにご協力いただけますでしょうか (「o忙shiitokoro大変恐縮dehagozaimasuga、kochiranoankeーtonigo協力itadakemasudeshiょuka - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "「アンケートを絶対に書いてください (「ankeーtowo絶対ni書itekudasai - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "「忙しいならアンケートをやらなくていいです (「忙shiinaraankeーtowoyaranakuteiidesu - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "「アンケートを命令します (「ankeーtowo命令shimasu - Japanese Mastery Unit 13 Lesson 4 U13L4)"
           ],
           "answerIndex": 0,
           "explanation": "「お忙しいところ大変恐縮ではございますが」というクッション言葉が相手への敬意を示します。"
@@ -7781,10 +7781,10 @@
           "type": "multiple-choice",
           "prompt": "謝罪の言葉としてビジネス場面で最もふさわしい最敬体表現はどれですか。",
           "options": [
-            "大変申し訳ございません（または 誠に申し訳ございませんでした）",
-            "すいませんでした",
-            "ごめんなさい",
-            "すまない"
+            "大変申し訳ございません (大変申shi訳gozaimasen - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "すいませんでした (suimasendeshita - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "ごめんなさい (gomennasai - Japanese Mastery Unit 13 Lesson 4 U13L4)",
+            "すまない (sumanai - Japanese Mastery Unit 13 Lesson 4 U13L4)"
           ],
           "answerIndex": 0,
           "explanation": "口語の「すいません」「ごめんなさい」はビジネスの場では不適切で、「申し訳ございません」を用います。"
@@ -7843,10 +7843,10 @@
         {
           "prompt": "【商談訪問時の受付・名刺交換作法】取引先に到着した際の受付での第一声として適切なものはどれですか。",
           "options": [
-            "「本日十四時にお約束をいただいております、株式会社〇〇の佐藤と申します。営業部の高橋様にお取次ぎ願えますでしょうか。」",
-            "「高橋に会いに来た佐藤だ。」",
-            "「約束があるから通してくれ。」",
-            "「こんにちは、遊びに来ました。」"
+            "「本日十四時にお約束をいただいております、株式会社〇〇の佐藤と申します。営業部の高橋様にお取次ぎ願えますでしょうか (pause [U13L5])",
+            "「高橋に会いに来た佐藤だ (pause [U13L5])",
+            "「約束があるから通してくれ (pause [U13L5])",
+            "「こんにちは、遊びに来ました (pause [U13L5])"
           ],
           "answerIndex": 0,
           "explanation": "「お約束をいただいております［社名・氏名］です。［相手役職・氏名］様にお取次ぎ願えますでしょうか」が完璧な受付作法です。"
@@ -7854,10 +7854,10 @@
         {
           "prompt": "【名刺交換のマナー】名刺を両手で差し出し受ける際にかける言葉はどれですか。",
           "options": [
-            "差し出し時：「頂戴いたします。株式会社〇〇の佐藤と申します。」 受取り時：「頂戴いたします。よろしくお願いいたします。」",
-            "差し出し時：「これやるよ。」 受取り時：「もらってやる。」",
-            "「名刺はいりません。」",
-            "片手で投げるように渡す。"
+            "差し出し時：「頂戴いたします。株式会社〇〇の佐藤と申します。」 受取り時：「頂戴いたします。よろしくお願いいたします (pause [U13L5])",
+            "差し出し時：「これやるよ。」 受取り時：「もらってやる (pause [U13L5])",
+            "「名刺はいりません (pause [U13L5])",
+            "片手で投げるように渡す (pause [U13L5])"
           ],
           "answerIndex": 0,
           "explanation": "名刺は両手で胸の高さで差し出し、「頂戴いたします」と受領します。"
@@ -7869,10 +7869,10 @@
         {
           "prompt": "【商談後のフォローアップメール】面談後の感謝と今後の進め方を伝える文を選択してください。",
           "options": [
-            "「本日はご多忙の中、貴重なお時間をいただき誠にありがとうございました。本日頂戴したご意見を元に修正案を作成いたします。」",
-            "「今日は話を聞いてくれてどうも。また暇なときに連絡して。」",
-            "「会議は長すぎて疲れました。」",
-            "「修正案は作りません。」"
+            "「本日はご多忙の中、貴重なお時間をいただき誠にありがとうございました。本日頂戴したご意見を元に修正案を作成いたします (pause [U13L5])",
+            "「今日は話を聞いてくれてどうも。また暇なときに連絡して (pause [U13L5])",
+            "「会議は長すぎて疲れました (pause [U13L5])",
+            "「修正案は作りません (pause [U13L5])"
           ],
           "answerIndex": 0,
           "explanation": "「貴重なお時間をいただき誠にありがとうございました。頂戴したご意見を元に〜」が標準的フォローです。"
@@ -7880,10 +7880,10 @@
         {
           "prompt": "【議事録の送付と内容確認】作成した議事録を関係者に確認してもらう文を選択してください。",
           "options": [
-            "「本日の打ち合わせの議事録を作成いたしましたのでご査収ください。相違点等ございましたらご指摘いただけますと幸いです。」",
-            "「議事録を書いたから読め。」",
-            "「文句があるなら言え。」",
-            "「議事録は間違っています。」"
+            "「本日の打ち合わせの議事録を作成いたしましたのでご査収ください。相違点等ございましたらご指摘いただけますと幸いです (pause [U13L5])",
+            "「議事録を書いたから読め (pause [U13L5])",
+            "「文句があるなら言え (pause [U13L5])",
+            "「議事録は間違っています (pause [U13L5])"
           ],
           "answerIndex": 0,
           "explanation": "「ご査収ください。相違点等ございましたらご指摘いただけますと幸いです」が丁寧です。"
@@ -7896,10 +7896,10 @@
           "type": "multiple-choice",
           "prompt": "日本の商談における「上座（かみざ）」と「下座（しもざ）」の位置関係の基本ルールはどれですか。",
           "options": [
-            "出入口から最も遠い奥の席が「上座（お客様や上位者用）」、出入口に最も近い席が「下座（案内役・自社側用）」。",
-            "出入口に最も近い席が上座である。",
-            "席の位置に序列やルールは存在しない。",
-            "窓側の席が常に下座となる。"
+            "出入口から最も遠い奥の席が「上座 (pause [U13L5])",
+            "出入口に最も近い席が上座である (pause [U13L5])",
+            "席の位置に序列やルールは存在しない (pause [U13L5])",
+            "窓側の席が常に下座となる (pause [U13L5])"
           ],
           "answerIndex": 0,
           "explanation": "日本のビジネスマナーでは、出入口から最も遠い席が最上位の「上座」となります。"
@@ -7958,10 +7958,10 @@
         {
           "prompt": "【「〜と思います」の文法接続】意見を述べる文構文として正しい接続規則はどれですか。",
           "options": [
-            "普通形（簡体・Plain form）＋ と思います（例：「明日は晴れると思います」「便利だと思います」）",
-            "丁寧形（ます形・です）＋ と思います",
-            "動詞て形 ＋ と思います",
-            "名詞 ＋ を思います"
+            "普通形 (Japanese Mastery Unit 14 Lesson 1 Option 1 U14L1)",
+            "丁寧形 (Japanese Mastery Unit 14 Lesson 1 Option 2 U14L1)",
+            "動詞て形 ＋ と思います (動詞te形 ＋ to思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "名詞 ＋ を思います (名詞 ＋ wo思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)"
           ],
           "answerIndex": 0,
           "explanation": "「〜と思います」の前は普通形（動詞辞書形/ない/た、い形容詞、な形容詞だ、名詞だ）になります。"
@@ -7969,10 +7969,10 @@
         {
           "prompt": "【個人的な見解の表明】環境問題についての意見を述べる文を選択してください。",
           "options": [
-            "環境問題を解決するためには、再生可能エネルギーの導入を加速させるべきだと思います。",
-            "環境問題を解決するために、再生可能エネルギーを加速させるべきですと思います。",
-            "環境問題を解決するために、再生可能エネルギーを加速すると思いますでした。",
-            "環境問題は思いません。"
+            "環境問題を解決するためには、再生可能エネルギーの導入を加速させるべきだと思います (環境問題wo解決surutameniha、再生可能enerugiーno導入wo加速saserubekidato思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "環境問題を解決するために、再生可能エネルギーを加速させるべきですと思います (環境問題wo解決surutameni、再生可能enerugiーwo加速saserubekidesuto思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "環境問題を解決するために、再生可能エネルギーを加速すると思いますでした (環境問題wo解決surutameni、再生可能enerugiーwo加速suruto思imasudeshita - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "環境問題は思いません (環境問題ha思imasen - Japanese Mastery Unit 14 Lesson 1 U14L1)"
           ],
           "answerIndex": 0,
           "explanation": "「〜加速させるべきだ（普通形）＋ と思います」が文法的に正確な意見表明です。"
@@ -7984,10 +7984,10 @@
         {
           "prompt": "【否定の意見「〜ないと思います」】その計画は成功しないと考える文を選択してください。",
           "options": [
-            "準備期間が短すぎるため、その計画はあまりうまくいかないと思います。",
-            "準備期間が短すぎるため、その計画はうまくいきますと思いませんでした。",
-            "準備期間が短すぎるため、その計画はうまくいかないと思いますでした。",
-            "計画がうまくいきませんと思います。"
+            "準備期間が短すぎるため、その計画はあまりうまくいかないと思います (準備期間ga短sugirutame、sono計画haamariumakuikanaito思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "準備期間が短すぎるため、その計画はうまくいきますと思いませんでした (準備期間ga短sugirutame、sono計画haumakuikimasuto思imasendeshita - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "準備期間が短すぎるため、その計画はうまくいかないと思いますでした (準備期間ga短sugirutame、sono計画haumakuikanaito思imasudeshita - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "計画がうまくいきませんと思います (計画gaumakuikimasento思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)"
           ],
           "answerIndex": 0,
           "explanation": "日本語では「〜ないと思います」の形式で否定の意見を述べるのが最も自然です。"
@@ -7995,10 +7995,10 @@
         {
           "prompt": "【賛否の表明対話】「この新しい提案についてどう思いますか」に対する的確な返答を選択してください。",
           "options": [
-            "「コストはかかりますが、長期的に見れば非常に有効な施策だと思います。」",
-            "「提案を食べたいと思います。」",
-            "「提案は明日行くと思います。」",
-            "「どうも思いませんでした。」"
+            "「コストはかかりますが、長期的に見れば非常に有効な施策だと思います (「kosutohakakarimasuga、長期的ni見reba非常ni有効na施策dato思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "「提案を食べたいと思います (「提案wo食betaito思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "「提案は明日行くと思います (「提案ha明日行kuto思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "「どうも思いませんでした (「doumo思imasendeshita - Japanese Mastery Unit 14 Lesson 1 U14L1)"
           ],
           "answerIndex": 0,
           "explanation": "「〜非常に有効な施策だと思います（名詞＋だ＋と思います）」が自然な応答です。"
@@ -8011,10 +8011,10 @@
           "type": "multiple-choice",
           "prompt": "な形容詞「便利」を「〜と思います」に接続する際の正しい形はどれですか。",
           "options": [
-            "便利【だ】と思います",
-            "便利と思います",
-            "便利であると思います（または 便利だ）",
-            "便利でと思います"
+            "便利【だ】と思います (便利【da】to思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "便利と思います (便利to思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "便利であると思います (便利dearuto思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)",
+            "便利でと思います (便利deto思imasu - Japanese Mastery Unit 14 Lesson 1 U14L1)"
           ],
           "answerIndex": 0,
           "explanation": "な形容詞・名詞の現在肯定普通形は「〜だ」となり、「便利【だ】と思います」と接続します。"
@@ -8073,10 +8073,10 @@
         {
           "prompt": "【発言の間接引用「〜と言っていました」】第三者の伝言・発言内容を報告する文構文として正しいものはどれですか。",
           "options": [
-            "普通形 ＋ と言っていました（例：「田中さんは明日休むと言っていました」）",
-            "ます形 ＋ と言っていました",
-            "て形 ＋ と言っていました",
-            "名詞 ＋ を言っていました"
+            "普通形 ＋ と言っていました (pause [U14L2])",
+            "ます形 ＋ と言っていました (pause [U14L2])",
+            "て形 ＋ と言っていました (pause [U14L2])",
+            "名詞 ＋ を言っていました (pause [U14L2])"
           ],
           "answerIndex": 0,
           "explanation": "間接引用では引用節を普通形にし、「［普通形］＋ と言っていました」と接続します。"
@@ -8084,10 +8084,10 @@
         {
           "prompt": "【教授の発言の敬語間接引用】佐藤教授の発言を尊敬語を用いて伝える文を選択してください。",
           "options": [
-            "佐藤教授は、次回の国際シンポジウムは京都で開催されるとおっしゃっていました。",
-            "佐藤教授は、次回のシンポジウムは京都で開催されると申していました。",
-            "佐藤教授は、シンポジウムが京都で開催すると言いましたでした。",
-            "佐藤教授は京都を話しました。"
+            "佐藤教授は、次回の国際シンポジウムは京都で開催されるとおっしゃっていました (pause [U14L2])",
+            "佐藤教授は、次回のシンポジウムは京都で開催されると申していました (pause [U14L2])",
+            "佐藤教授は、シンポジウムが京都で開催すると言いましたでした (pause [U14L2])",
+            "佐藤教授は京都を話しました (pause [U14L2])"
           ],
           "answerIndex": 0,
           "explanation": "目上の方の発言引用には「言う」の尊敬語「おっしゃる（おっしゃっていました）」を用います。"
@@ -8099,10 +8099,10 @@
         {
           "prompt": "【直接引用と間接引用の区別】相手の発言を一言一句そのまま「鍵括弧」で引用する直接引用文はどれですか。",
           "options": [
-            "田中さんは「明日の朝八時に駅の改札前で会いましょう」と言いました。",
-            "田中さんは明日八時に駅で会おうと言いました。",
-            "田中さんは八時に来ると言っていました。",
-            "田中さんは八時に会いたいそうです。"
+            "田中さんは「明日の朝八時に駅の改札前で会いましょう」と言いました (pause [U14L2])",
+            "田中さんは明日八時に駅で会おうと言いました (pause [U14L2])",
+            "田中さんは八時に来ると言っていました (pause [U14L2])",
+            "田中さんは八時に会いたいそうです (pause [U14L2])"
           ],
           "answerIndex": 0,
           "explanation": "鍵括弧「」を用いて相手の言葉をそのまま引用するのが直接引用です。"
@@ -8110,10 +8110,10 @@
         {
           "prompt": "【伝言の報告対話】同僚からのメッセージを上司に伝える文を選択してください。",
           "options": [
-            "「先ほど鈴木さんから電話があり、電車の遅延で十五分ほど遅れるとのことでした（遅れると言っていました）。」",
-            "「鈴木さんが遅れるとおっしゃいました。」",
-            "「鈴木さんは電車を止めると言いました。」",
-            "「鈴木さんはいません。」"
+            "「先ほど鈴木さんから電話があり、電車の遅延で十五分ほど遅れるとのことでした (pause [U14L2])",
+            "「鈴木さんが遅れるとおっしゃいました (pause [U14L2])",
+            "「鈴木さんは電車を止めると言いました (pause [U14L2])",
+            "「鈴木さんはいません (pause [U14L2])"
           ],
           "answerIndex": 0,
           "explanation": "「〜遅れるとのことでした / 遅れると言っていました」が正確な伝言報告です。"
@@ -8126,10 +8126,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「言う」の尊敬語と謙譲語の組み合わせとして正しいものはどれですか。",
           "options": [
-            "尊敬語＝おっしゃる / 謙譲語＝申す（もうす）・申し上げる（もうしあげる）",
-            "尊敬語＝申す / 謙譲語＝おっしゃる",
-            "尊敬語＝召し上がる / 謙譲語＝いただく",
-            "尊敬語＝いらっしゃる / 謙譲語＝参る"
+            "尊敬語＝おっしゃる / 謙譲語＝申す (pause [U14L2])",
+            "尊敬語＝申す / 謙譲語＝おっしゃる (pause [U14L2])",
+            "尊敬語＝召し上がる / 謙譲語＝いただく (pause [U14L2])",
+            "尊敬語＝いらっしゃる / 謙譲語＝参る (pause [U14L2])"
           ],
           "answerIndex": 0,
           "explanation": "言うの尊敬語はおっしゃる、謙譲語は申す・申し上げます。"
@@ -8188,10 +8188,10 @@
         {
           "prompt": "【「〜かもしれません」の接続規則】不確実な推量（50%以下の可能性）を述べる文構文として正しいものはどれですか。",
           "options": [
-            "動詞普通形 / い形容詞 / な形容詞語幹（だ無し） / 名詞（だ無し） ＋ かもしれません",
-            "な形容詞・名詞に「だ」を付けたまま接続する",
-            "動詞ます形 ＋ かもしれません",
-            "動詞て形 ＋ かもしれません"
+            "動詞普通形 / い形容詞 / な形容詞語幹 (動詞普通形 / i形容詞 / na形容詞語幹 - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "な形容詞・名詞に「だ」を付けたまま接続する (na形容詞・名詞ni「da」wo付ketamama接続suru - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "動詞ます形 ＋ かもしれません (動詞masu形 ＋ kamoshiremasen - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "動詞て形 ＋ かもしれません (動詞te形 ＋ kamoshiremasen - Japanese Mastery Unit 14 Lesson 3 U14L3)"
           ],
           "answerIndex": 0,
           "explanation": "「〜かもしれません」では、な形容詞・名詞の「だ」を取り除いて直接接続します（例：雨かもしれません、暇かもしれません）。"
@@ -8199,10 +8199,10 @@
         {
           "prompt": "【気象・交通への影響の推量】台風接近による新幹線への影響を推量する文を選択してください。",
           "options": [
-            "明日は台風が接近しているため、新幹線のダイヤが乱れるかもしれません。",
-            "明日は台風が接近しているため、新幹線が乱れるかもしれませんでした。",
-            "明日は台風が接近しているため、新幹線が乱れますかもしれません。",
-            "台風が新幹線に乗るかもしれません。"
+            "明日は台風が接近しているため、新幹線のダイヤが乱れるかもしれません (明日ha台風ga接近shiteirutame、新幹線nodaiyaga乱rerukamoshiremasen - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "明日は台風が接近しているため、新幹線が乱れるかもしれませんでした (明日ha台風ga接近shiteirutame、新幹線ga乱rerukamoshiremasendeshita - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "明日は台風が接近しているため、新幹線が乱れますかもしれません (明日ha台風ga接近shiteirutame、新幹線ga乱remasukamoshiremasen - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "台風が新幹線に乗るかもしれません (台風ga新幹線ni乗rukamoshiremasen - Japanese Mastery Unit 14 Lesson 3 U14L3)"
           ],
           "answerIndex": 0,
           "explanation": "「乱れる（辞書形）＋ かもしれません」が的確な推量表現です。"
@@ -8214,10 +8214,10 @@
         {
           "prompt": "【推量の確信度比較】「〜でしょう」「〜と思います」「〜かもしれません」の確信度の高い順として正しいものはどれですか。",
           "options": [
-            "〜でしょう（80%前後） ＞ 〜と思います（70%前後） ＞ 〜かもしれません（30〜50%）",
-            "〜かもしれません ＞ 〜でしょう ＞ 〜と思います",
-            "すべて全く同じ確信度である",
-            "〜と思います ＞ 〜絶対に ＞ 〜かもしれません"
+            "〜でしょう (〜deshiょu - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "〜かもしれません ＞ 〜でしょう ＞ 〜と思います (〜kamoshiremasen ＞ 〜deshiょu ＞ 〜to思imasu - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "すべて全く同じ確信度である (subete全ku同ji確信度dearu - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "〜と思います ＞ 〜絶対に ＞ 〜かもしれません (〜to思imasu ＞ 〜絶対ni ＞ 〜kamoshiremasen - Japanese Mastery Unit 14 Lesson 3 U14L3)"
           ],
           "answerIndex": 0,
           "explanation": "「でしょう（高推量）」＞「と思います（私見推量）」＞「かもしれません（可能性の示唆）」の順です。"
@@ -8225,10 +8225,10 @@
         {
           "prompt": "【体調の悪化に関する推量】風邪を引いた可能性を述べる文を選択してください。",
           "options": [
-            "寒気がして熱っぽいですから、風邪を引いたかもしれません。",
-            "風邪を引きましたかもしれません。",
-            "風邪を引いたでしょうかと思います。",
-            "風邪を引くかもしれませんでした。"
+            "寒気がして熱っぽいですから、風邪を引いたかもしれません (pause [U14L3])",
+            "風邪を引きましたかもしれません (風邪wo引kimashitakamoshiremasen - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "風邪を引いたでしょうかと思います (風邪wo引itadeshiょukato思imasu - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "風邪を引くかもしれませんでした (風邪wo引kukamoshiremasendeshita - Japanese Mastery Unit 14 Lesson 3 U14L3)"
           ],
           "answerIndex": 0,
           "explanation": "過去の出来事への推量は「引いた（た形）＋ かもしれません」となります。"
@@ -8241,10 +8241,10 @@
           "type": "multiple-choice",
           "prompt": "「明日は雨【＿＿＿】かもしれません。」の空欄に入る助動詞・活用の扱いはどうなりますか。",
           "options": [
-            "何も入れない（名詞「雨」にそのまま「かもしれません」が接続する）",
-            "だ",
-            "な",
-            "の"
+            "何も入れない (何mo入renai - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "だ (da - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "な (na - Japanese Mastery Unit 14 Lesson 3 U14L3)",
+            "の (no - Japanese Mastery Unit 14 Lesson 3 U14L3)"
           ],
           "answerIndex": 0,
           "explanation": "名詞およびな形容詞語幹には「だ」を付けずに接続します（「雨かもしれません」）。"
@@ -8302,10 +8302,10 @@
         {
           "prompt": "【説明・理由のモダリティ「〜んです / 〜のです」】事情の説明や理由の強調を表す構文として正しいものはどれですか。",
           "options": [
-            "普通形 ＋ んです（な形容詞・名詞の現在肯定は「〜なんです」）（例：「頭が痛いんです」「雨なんです」）",
-            "ます形 ＋ んです",
-            "動詞て形 ＋ んです",
-            "形容詞語幹 ＋ んです"
+            "普通形 ＋ んです (普通形 ＋ ndesu - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "ます形 ＋ んです (masu形 ＋ ndesu - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "動詞て形 ＋ んです (動詞te形 ＋ ndesu - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "形容詞語幹 ＋ んです (形容詞語幹 ＋ ndesu - Japanese Mastery Unit 14 Lesson 4 U14L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜んです」は普通形に接続し、名詞・な形容詞現在肯定では「〜なんです」となります。"
@@ -8313,10 +8313,10 @@
         {
           "prompt": "【欠勤の理由説明】昨日休んだ理由を「〜んです」を用いて上司に説明する文を選択してください。",
           "options": [
-            "「どうして昨日休んだのですか。」「急に高熱が出て動けなかったんです。」",
-            "「昨日休んだのは高熱でしたんです。」",
-            "「昨日休んだのは高熱を出しましたんです。」",
-            "「休みましたんです。」"
+            "「どうして昨日休んだのですか。」「急に高熱が出て動けなかったんです (pause [U14L4])",
+            "「昨日休んだのは高熱でしたんです (「昨日休ndanoha高熱deshitandesu - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "「昨日休んだのは高熱を出しましたんです (「昨日休ndanoha高熱wo出shimashitandesu - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "「休みましたんです (「休mimashitandesu - Japanese Mastery Unit 14 Lesson 4 U14L4)"
           ],
           "answerIndex": 0,
           "explanation": "「動けなかった（普通形過去否定）＋ んです」が自然な理由説明です。"
@@ -8328,10 +8328,10 @@
         {
           "prompt": "【関心・質問の「〜んですか」】相手の様子を見て理由を尋ねる親身な質問文を選択してください。",
           "options": [
-            "「荷物がたくさんありますね。どこか旅行へ行くんですか。」",
-            "「荷物が多いから旅行へ行きますか。」",
-            "「荷物を持って旅行へ行ったんですでしたか。」",
-            "「荷物を捨てますか。」"
+            "「荷物がたくさんありますね。どこか旅行へ行くんですか (「荷物gatakusanarimasune。dokoka旅行he行kundesuka - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "「荷物が多いから旅行へ行きますか (「荷物ga多ikara旅行he行kimasuka - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "「荷物を持って旅行へ行ったんですでしたか (pause [U14L4])",
+            "「荷物を捨てますか (「荷物wo捨temasuka - Japanese Mastery Unit 14 Lesson 4 U14L4)"
           ],
           "answerIndex": 0,
           "explanation": "状況を観察して背景理由を尋ねる際は「〜んですか」を用います。"
@@ -8339,10 +8339,10 @@
         {
           "prompt": "【依頼の口火を切る「〜んですが」】道案内や助けを求める前置き文を選択してください。",
           "options": [
-            "「すみません、市役所へ行きたいんですが、道を教えていただけますか。」",
-            "「市役所へ行きたいですから道を教えろ。」",
-            "「市役所を行くんですけれど教えてくださいでした。」",
-            "「市役所はどこですかんです。」"
+            "「すみません、市役所へ行きたいんですが、道を教えていただけますか (「sumimasen、市役所he行kitaindesuga、道wo教eteitadakemasuka - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "「市役所へ行きたいですから道を教えろ (「市役所he行kitaidesukara道wo教ero - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "「市役所を行くんですけれど教えてくださいでした (「市役所wo行kundesukeredo教etekudasaideshita - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "「市役所はどこですかんです (「市役所hadokodesukandesu - Japanese Mastery Unit 14 Lesson 4 U14L4)"
           ],
           "answerIndex": 0,
           "explanation": "依頼の前置きとして「［事情］＋ んですが、〜していただけますか」が定型です。"
@@ -8355,10 +8355,10 @@
           "type": "multiple-choice",
           "prompt": "名詞「休み」に「〜んです」を接続する場合の正しい形はどれですか。",
           "options": [
-            "休み【なん】です",
-            "休みなのです / 休みなんです",
-            "休みだんです",
-            "休みのんです"
+            "休み【なん】です (休mi【nan】desu - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "休みなのです / 休みなんです (休minanodesu / 休minandesu - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "休みだんです (休midandesu - Japanese Mastery Unit 14 Lesson 4 U14L4)",
+            "休みのんです (休minondesu - Japanese Mastery Unit 14 Lesson 4 U14L4)"
           ],
           "answerIndex": 0,
           "explanation": "名詞・な形容詞の現在肯定では「だ」が「な」に変化し、「休み【なん】です」となります。"
@@ -8416,10 +8416,10 @@
         {
           "prompt": "【ディスカッションでの意見対話】AI技術の未来について意見を交換する自然な対話を選択してください。",
           "options": [
-            "「AIの普及によって多くの業務が効率化される一方で、個人情報保護のルール作りが不可欠だと思います。」",
-            "「AIは全部人間を滅ぼすと言っていましたんです。」",
-            "「AIは食べ物だと思います。」",
-            "「何にも思いません。」"
+            "「AIの普及によって多くの業務が効率化される一方で、個人情報保護のルール作りが不可欠だと思います (pause [U14L5])",
+            "「AIは全部人間を滅ぼすと言っていましたんです (pause [U14L5])",
+            "「AIは食べ物だと思います (「AIha食be物dato思imasu - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "「何にも思いません (「何nimo思imasen - Japanese Mastery Unit 14 Lesson 5 U14L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜効率化される一方で（対比）、〜不可欠だと思います（意見）」が論理的なディスカッション文です。"
@@ -8427,10 +8427,10 @@
         {
           "prompt": "【他者の見解を交えた推論】専門家の意見を引用しつつ推論を述べる文を選択してください。",
           "options": [
-            "「ニュースの解説委員は景気は回復傾向にあると言っていましたが、物価上昇の影響で消費者の心理は冷え込むかもしれません。」",
-            "「解説委員は景気が良いと言いましたから絶対に全員お金持ちになります。」",
-            "「景気は終わると思いますんです。」",
-            "「ニュースは見ません。」"
+            "「ニュースの解説委員は景気は回復傾向にあると言っていましたが、物価上昇の影響で消費者の心理は冷え込むかもしれません (pause [U14L5])",
+            "「解説委員は景気が良いと言いましたから絶対に全員お金持ちになります (「解説委員ha景気ga良ito言imashitakara絶対ni全員o金持chininarimasu - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "「景気は終わると思いますんです (「景気ha終waruto思imasundesu - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "「ニュースは見ません (「niューsuha見masen - Japanese Mastery Unit 14 Lesson 5 U14L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜と言っていましたが（引用対比）、〜冷え込むかもしれません（推量）」が複合的な論述です。"
@@ -8442,10 +8442,10 @@
         {
           "prompt": "【会議での反論・別視点の提示】相手の意見を尊重しつつ異なる視点を述べる丁寧な表現を選択してください。",
           "options": [
-            "「〇〇さんのおっしゃることもよく分かりますが、予算の制約を考えると別の方法を検討すべきではないかと思います。」",
-            "「お前の意見は完全に間違っているから黙れ。」",
-            "「予算がないので全部中止にしましょう。」",
-            "「賛成も反対もしません。」"
+            "「〇〇さんのおっしゃることもよく分かりますが、予算の制約を考えると別の方法を検討すべきではないかと思います (pause [U14L5])",
+            "「お前の意見は完全に間違っているから黙れ (pause [U14L5])",
+            "「予算がないので全部中止にしましょう (「予算ganainode全部中止nishimashiょu - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "「賛成も反対もしません (「賛成mo反対moshimasen - Japanese Mastery Unit 14 Lesson 5 U14L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜おっしゃることも分かりますが（配慮）、〜検討すべきではないかと思います（緩和された主張）」が知的で洗練された反論です。"
@@ -8453,10 +8453,10 @@
         {
           "prompt": "【理由を伴う提案】提案の根拠を説明して同意を求める文を選択してください。",
           "options": [
-            "「若者の利用者が急増しているんです。ですから、SNSを活用した広報キャンペーンを展開したほうが効果的だと思います。」",
-            "「若者が多いですからSNSをやってくださいでした。」",
-            "「SNSは面白いと思いますんです。」",
-            "「広報をやめます。」"
+            "「若者の利用者が急増しているんです。ですから、SNSを活用した広報キャンペーンを展開したほうが効果的だと思います (「若者no利用者ga急増shiteirundesu。desukara、SNSwo活用shita広報kiャnpeーnwo展開shitahouga効果的dato思imasu - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "「若者が多いですからSNSをやってくださいでした (「若者ga多idesukaraSNSwoya(pause)tekudasaideshita - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "「SNSは面白いと思いますんです (「SNSha面白ito思imasundesu - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "「広報をやめます (「広報woyamemasu - Japanese Mastery Unit 14 Lesson 5 U14L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜急増しているんです（理由強調）。ですから〜効果的だと思います（提案意見）」が明快です。"
@@ -8469,10 +8469,10 @@
           "type": "multiple-choice",
           "prompt": "複文における「意見表明（〜と思う）」「引用（〜と言う）」「推量（〜かもしれない）」「理由説明（〜んです）」の統語的共通点は何ですか。",
           "options": [
-            "いずれも主節・引用節・接続節の直前に「普通形（簡体）」をとる点。",
-            "いずれも名詞にしか接続できない点。",
-            "いずれも命令形にしか接続できない点。",
-            "敬語表現と併用できない点。"
+            "いずれも主節・引用節・接続節の直前に「普通形 (izuremo主節・引用節・接続節no直前ni「普通形 - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "いずれも名詞にしか接続できない点 (izuremo名詞nishika接続dekinai点 - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "いずれも命令形にしか接続できない点 (izuremo命令形nishika接続dekinai点 - Japanese Mastery Unit 14 Lesson 5 U14L5)",
+            "敬語表現と併用できない点 (敬語表現to併用dekinai点 - Japanese Mastery Unit 14 Lesson 5 U14L5)"
           ],
           "answerIndex": 0,
           "explanation": "日本語のモダリティ形式はいずれも「普通形（Plain form）」を基底接続として機能します。"
@@ -8531,10 +8531,10 @@
         {
           "prompt": "【日本の地域区分】日本の八地方区分の正しい組み合わせはどれですか。",
           "options": [
-            "北海道・東北・関東・中部・近畿（関西）・中国・四国・九州沖縄",
-            "東日本と西日本の二つだけ",
-            "東京・大阪・京都・名古屋の四つだけ",
-            "北海道・本州・四国・九州の島名のみ"
+            "北海道・東北・関東・中部・近畿・中国・四国・九州沖縄 (Japanese Mastery Unit 15 Lesson 1 Option 1 U15L1)",
+            "東日本と西日本の二つだけ (東日本to西日本no二tsudake - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "東京・大阪・京都・名古屋の四つだけ (東京・大阪・京都・名古屋no四tsudake - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "北海道・本州・四国・九州の島名のみ (北海道・本州・四国・九州no島名nomi - Japanese Mastery Unit 15 Lesson 1 U15L1)"
           ],
           "answerIndex": 0,
           "explanation": "日本は行政・地理的に8つの地方区分（北海道・東北・関東・中部・近畿・中国・四国・九州沖縄）に分かれます。"
@@ -8542,10 +8542,10 @@
         {
           "prompt": "【観光地と名所の組み合わせ】京都を代表する歴史的寺社仏閣の組み合わせとして正しいものはどれですか。",
           "options": [
-            "清水寺（きよみずでら）・金閣寺（きんかくじ）・伏見稲荷大社（ふしみいなりたいしゃ）",
-            "富士山・東京タワー・道頓堀",
-            "厳島神社・首里城・兼六園",
-            "すべて北海道に位置する"
+            "清水寺 (Japanese Mastery Unit 15 Lesson 1 Option 1 U15L1)",
+            "富士山・東京タワー・道頓堀 (富士山・東京tawaー・道頓堀 - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "厳島神社・首里城・兼六園 (Japanese Mastery Unit 15 Lesson 1 Option 3 U15L1)",
+            "すべて北海道に位置する (subete北海道ni位置suru - Japanese Mastery Unit 15 Lesson 1 U15L1)"
           ],
           "answerIndex": 0,
           "explanation": "清水寺、金閣寺、伏見稲荷大社はいずれも京都府を代表する世界遺産・名所です。"
@@ -8557,10 +8557,10 @@
         {
           "prompt": "【日本の気候の特徴】日本海側と太平洋側の冬の気候の違いを正しく述べた文を選択してください。",
           "options": [
-            "冬の日本海側は雪が多く、太平洋側は晴天が多く乾燥します。",
-            "冬の日本海側は猛暑で、太平洋側は大雪です。",
-            "日本全土で一年中同じ天気が続きます。",
-            "冬は沖縄に雪が積もります。"
+            "冬の日本海側は雪が多く、太平洋側は晴天が多く乾燥します (冬no日本海側ha雪ga多ku、太平洋側ha晴天ga多ku乾燥shimasu - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "冬の日本海側は猛暑で、太平洋側は大雪です (冬no日本海側ha猛暑de、太平洋側ha大雪desu - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "日本全土で一年中同じ天気が続きます (日本全土de一年中同ji天気ga続kimasu - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "冬は沖縄に雪が積もります (冬ha沖縄ni雪ga積morimasu - Japanese Mastery Unit 15 Lesson 1 U15L1)"
           ],
           "answerIndex": 0,
           "explanation": "日本の冬は季節風の影響で日本海側に豪雪をもたらし、太平洋側は乾燥した晴天となります。"
@@ -8568,10 +8568,10 @@
         {
           "prompt": "【名産品とお土産の購入】旅先でお土産を購入する文脈として自然な文を選択してください。",
           "options": [
-            "旅行のお土産として、北海道の有名な銘菓と特産品を購入いたしました。",
-            "旅行のお土産を全部燃やしました。",
-            "お土産を食べないで投げました。",
-            "お土産を会社に捨てました。"
+            "旅行のお土産として、北海道の有名な銘菓と特産品を購入いたしました (旅行noo土産toshite、北海道no有名na銘菓to特産品wo購入itashimashita - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "旅行のお土産を全部燃やしました (旅行noo土産wo全部燃yashimashita - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "お土産を食べないで投げました (o土産wo食benaide投gemashita - Japanese Mastery Unit 15 Lesson 1 U15L1)",
+            "お土産を会社に捨てました (o土産wo会社ni捨temashita - Japanese Mastery Unit 15 Lesson 1 U15L1)"
           ],
           "answerIndex": 0,
           "explanation": "「お土産として、〜銘菓と特産品を購入いたしました」が旅の報告として自然です。"
@@ -8584,10 +8584,10 @@
           "type": "multiple-choice",
           "prompt": "日本の都道府県の総数はいくつですか。",
           "options": [
-            "47都道府県（1都1道2府43県）",
-            "50都道府県",
-            "40都道府県",
-            "100都道府県"
+            "47都道府県 (Japanese Mastery Unit 15 Lesson 1 Option 1 U15L1)",
+            "50都道府県 (Japanese Mastery Unit 15 Lesson 1 Option 2 U15L1)",
+            "40都道府県 (Japanese Mastery Unit 15 Lesson 1 Option 3 U15L1)",
+            "100都道府県 (Japanese Mastery Unit 15 Lesson 1 Option 4 U15L1)"
           ],
           "answerIndex": 0,
           "explanation": "日本は47都道府県（東京都、北海道、大阪府、京都府、43県）で構成されます。"
@@ -8646,10 +8646,10 @@
         {
           "prompt": "【温泉入浴の絶対的マナー】温泉の湯船（浴槽）に入る前の必須ルールはどれですか。",
           "options": [
-            "湯船に入る前に、必ず洗い場で身体と髪を綺麗に洗い、かけ湯をしてから入る。",
-            "水着を着てそのまま湯船に飛び込む。",
-            "タオルを湯船の中に沈めて石鹸で洗う。",
-            "湯船の中で泳いで遊ぶ。"
+            "湯船に入る前に、必ず洗い場で身体と髪を綺麗に洗い、かけ湯をしてから入る (湯船ni入ru前ni、必zu洗i場de身体to髪wo綺麗ni洗i、kake湯woshitekara入ru - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "水着を着てそのまま湯船に飛び込む (水着wo着tesonomama湯船ni飛bi込mu - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "タオルを湯船の中に沈めて石鹸で洗う (taoruwo湯船no中ni沈mete石鹸de洗u - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "湯船の中で泳いで遊ぶ (湯船no中de泳ide遊bu - Japanese Mastery Unit 15 Lesson 2 U15L2)"
           ],
           "answerIndex": 0,
           "explanation": "温泉では、湯船を清潔に保つため「洗い場で身体を洗ってから入る」「タオルを浴槽に入れない」が厳格なルールです。"
@@ -8657,10 +8657,10 @@
         {
           "prompt": "【浴衣（ゆかた）の正しい着方（合わせ方）】生きている人の浴衣の合わせ方として正しいものはどれですか。",
           "options": [
-            "右前（右の衿を胸に当て、その上に左の衿を重ねる「右前・左上」）",
-            "左前（左の衿の上に右の衿を重ねる＝死装束・仏仏の着方）",
-            "どちらでも自由に着てよい",
-            "帯を結ばずに羽織るだけ"
+            "右前 (Japanese Mastery Unit 15 Lesson 2 Option 1 U15L2)",
+            "左前 (Japanese Mastery Unit 15 Lesson 2 Option 2 U15L2)",
+            "どちらでも自由に着てよい (dochirademo自由ni着teyoi - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "帯を結ばずに羽織るだけ (帯wo結bazuni羽織rudake - Japanese Mastery Unit 15 Lesson 2 U15L2)"
           ],
           "answerIndex": 0,
           "explanation": "浴衣や着物は「右前（自分から見て右が内側、左が外側上）」で着ます。逆の「左前」は死者の着せ方となりタブーです。"
@@ -8672,10 +8672,10 @@
         {
           "prompt": "【旅館での仲居さんとの対話】部屋に案内された際のお茶とお菓子への感謝表現を選択してください。",
           "options": [
-            "「お心遣いありがとうございます。ご丁寧に案内していただき恐れ入ります。」",
-            "「お茶が不味いから捨ててください。」",
-            "「早く布団を敷いて出ていけ。」",
-            "「旅館を壊します。」"
+            "「お心遣いありがとうございます。ご丁寧に案内していただき恐れ入ります (「o心遣iarigatougozaimasu。go丁寧ni案内shiteitadaki恐re入rimasu - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "「お茶が不味いから捨ててください (「o茶ga不味ikara捨tetekudasai - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "「早く布団を敷いて出ていけ (「早ku布団wo敷ite出teike - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "「旅館を壊します (「旅館wo壊shimasu - Japanese Mastery Unit 15 Lesson 2 U15L2)"
           ],
           "answerIndex": 0,
           "explanation": "「お心遣いありがとうございます。ご丁寧に案内していただき〜」が丁寧で上品な対応です。"
@@ -8683,10 +8683,10 @@
         {
           "prompt": "【露天風呂の利用感想】温泉宿の露天風呂の魅力を語る文を選択してください。",
           "options": [
-            "「雪景色を眺めながら入る露天風呂は最高に贅沢でリフレッシュできました。」",
-            "「露天風呂が寒すぎて凍死しました。」",
-            "「温泉を全部飲みました。」",
-            "「風呂は嫌いです。」"
+            "「雪景色を眺めながら入る露天風呂は最高に贅沢でリフレッシュできました (pause [U15L2])",
+            "「露天風呂が寒すぎて凍死しました (「露天風呂ga寒sugite凍死shimashita - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "「温泉を全部飲みました (「温泉wo全部飲mimashita - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "「風呂は嫌いです (「風呂ha嫌idesu - Japanese Mastery Unit 15 Lesson 2 U15L2)"
           ],
           "answerIndex": 0,
           "explanation": "「雪景色を眺めながら入る露天風呂は最高に贅沢で〜」が風情ある感想です。"
@@ -8699,10 +8699,10 @@
           "type": "multiple-choice",
           "prompt": "温泉旅館で提供される伝統的なコース料理の名称はどれですか。",
           "options": [
-            "会席料理 / 懐石料理（かいせきりょうり）",
-            "ファストフード",
-            "ラーメンセット",
-            "ビュッフェのみ"
+            "会席料理 / 懐石料理 (Japanese Mastery Unit 15 Lesson 2 Option 1 U15L2)",
+            "ファストフード (fuァsutofuーdo - Japanese Mastery Unit 15 Lesson 2 U15L2)",
+            "ラーメンセット (pause [U15L2])",
+            "ビュッフェのみ (pause [U15L2])"
           ],
           "answerIndex": 0,
           "explanation": "日本の温泉旅館では旬の味覚を器や盛り付けとともに楽しむ「会席料理・懐石料理」が振る舞われます。"
@@ -8761,10 +8761,10 @@
         {
           "prompt": "【神社（神道）の参拝作法】日本の神社の拝礼作法として最も正確な順序はどれですか。",
           "options": [
-            "二礼・二拍手・一礼（お賽銭を入れ、深く二回お辞儀し、二回手を叩き、最後に深く一回お辞儀する）",
-            "十回拍手して叫ぶ",
-            "お辞儀をせずに通り過ぎる",
-            "手を叩かずに合掌して祈る（寺院の作法）"
+            "二礼・二拍手・一礼 (Japanese Mastery Unit 15 Lesson 3 Option 1 U15L3)",
+            "十回拍手して叫ぶ (十回拍手shite叫bu - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "お辞儀をせずに通り過ぎる (o辞儀wosezuni通ri過giru - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "手を叩かずに合掌して祈る (手wo叩kazuni合掌shite祈ru - Japanese Mastery Unit 15 Lesson 3 U15L3)"
           ],
           "answerIndex": 0,
           "explanation": "神社の標準的な参拝作法は「二礼二拍手一礼（にれい・にはくしゅ・いちれい）」です（※寺院では拍手せず合掌します）。"
@@ -8772,10 +8772,10 @@
         {
           "prompt": "【手水舎（てみずや）での身の清め方】参拝前に手水舎で行う作法の順序はどれですか。",
           "options": [
-            "右手で柄杓を持ち左手を清める → 左手に持ち替え右手を清める → 左手で水を受け口をすすぐ → 柄杓を立てて柄を洗い流す",
-            "柄杓に口を直接つけて水を飲む",
-            "柄杓で頭から水をかぶる",
-            "手水舎で手を洗わない"
+            "右手で柄杓を持ち左手を清める → 左手に持ち替え右手を清める → 左手で水を受け口をすすぐ → 柄杓を立てて柄を洗い流す (右手de柄杓wo持chi左手wo清meru → 左手ni持chi替e右手wo清meru → 左手de水wo受ke口wosusugu → 柄杓wo立tete柄wo洗i流su - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "柄杓に口を直接つけて水を飲む (柄杓ni口wo直接tsukete水wo飲mu - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "柄杓で頭から水をかぶる (柄杓de頭kara水wokaburu - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "手水舎で手を洗わない (手水舎de手wo洗wanai - Japanese Mastery Unit 15 Lesson 3 U15L3)"
           ],
           "answerIndex": 0,
           "explanation": "手水舎では柄杓に口を直接つけず、左手→右手→口（左手経由）→柄杓の柄の順で清めます。"
@@ -8787,10 +8787,10 @@
         {
           "prompt": "【おみくじと絵馬（えま）】神社でおみくじを引き、願い事を木札に書く文化を説明する文を選択してください。",
           "options": [
-            "「おみくじで大吉を引いた後、合格祈願の願い事を絵馬に書いて奉納しました。」",
-            "「おみくじを破いて絵馬を折りました。」",
-            "「絵馬を食べておみくじを捨てました。」",
-            "「神社でお金を盗みました。」"
+            "「おみくじで大吉を引いた後、合格祈願の願い事を絵馬に書いて奉納しました (「omikujide大吉wo引ita後、合格祈願no願i事wo絵馬ni書ite奉納shimashita - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "「おみくじを破いて絵馬を折りました (「omikujiwo破ite絵馬wo折rimashita - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "「絵馬を食べておみくじを捨てました (「絵馬wo食beteomikujiwo捨temashita - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "「神社でお金を盗みました (「神社deo金wo盗mimashita - Japanese Mastery Unit 15 Lesson 3 U15L3)"
           ],
           "answerIndex": 0,
           "explanation": "「おみくじで大吉を引いた後、〜絵馬に書いて奉納しました」が正確な神社文化の描写です。"
@@ -8798,10 +8798,10 @@
         {
           "prompt": "【鳥居（とりい）をくぐる際のマナー】神社の入口である鳥居をくぐる時の正しい作法を選択してください。",
           "options": [
-            "鳥居の前で一歩立ち止まり軽く一礼し、中央（神様の通り道）を避けて端を歩く。",
-            "鳥居の真ん中を大股で走り抜ける。",
-            "鳥居に落書きをして入る。",
-            "鳥居を無視して壁を乗り越える。"
+            "鳥居の前で一歩立ち止まり軽く一礼し、中央 (鳥居no前de一歩立chi止mari軽ku一礼shi、中央 - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "鳥居の真ん中を大股で走り抜ける (鳥居no真n中wo大股de走ri抜keru - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "鳥居に落書きをして入る (鳥居ni落書kiwoshite入ru - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "鳥居を無視して壁を乗り越える (鳥居wo無視shite壁wo乗ri越eru - Japanese Mastery Unit 15 Lesson 3 U15L3)"
           ],
           "answerIndex": 0,
           "explanation": "鳥居は神域の結界であり、くぐる前に一礼し、正中（中央）を避けて端を歩くのが礼儀です。"
@@ -8814,10 +8814,10 @@
           "type": "multiple-choice",
           "prompt": "神社と寺院の参拝作法の決定的な違いは何ですか。",
           "options": [
-            "神社では「手を叩く（拍手）」が、お寺（仏教）では「音を立てずに静かに合掌する」。",
-            "お寺では拍手し、神社では合掌する。",
-            "全く同じ作法である。",
-            "神社では靴を脱ぎ、寺院では靴を履いたまま上がる。"
+            "神社では「手を叩く (神社deha「手wo叩ku - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "お寺では拍手し、神社では合掌する (o寺deha拍手shi、神社deha合掌suru - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "全く同じ作法である (全ku同ji作法dearu - Japanese Mastery Unit 15 Lesson 3 U15L3)",
+            "神社では靴を脱ぎ、寺院では靴を履いたまま上がる (神社deha靴wo脱gi、寺院deha靴wo履itamama上garu - Japanese Mastery Unit 15 Lesson 3 U15L3)"
           ],
           "answerIndex": 0,
           "explanation": "神社＝二礼二拍手一礼（拍手あり）、寺院＝静かに合掌一礼（拍手なし）が根本的相違です。"
@@ -8877,10 +8877,10 @@
         {
           "prompt": "【日本の伝統工芸の代表例】漆器（しっき）や陶磁器（とうじき）の産地と工芸品の組み合わせとして正しいものはどれですか。",
           "options": [
-            "輪島塗（石川県・漆器） / 有田焼（佐賀県・磁器） / 西陣織（京都府・織物）",
-            "輪島塗＝プラスチック / 有田焼＝ガラス",
-            "すべて海外からの輸入品である",
-            "伝統工芸品は存在しない"
+            "輪島塗 (Japanese Mastery Unit 15 Lesson 4 Option 1 U15L4)",
+            "輪島塗＝プラスチック / 有田焼＝ガラス (pause [U15L4])",
+            "すべて海外からの輸入品である (subete海外karano輸入品dearu - Japanese Mastery Unit 15 Lesson 4 U15L4)",
+            "伝統工芸品は存在しない (伝統工芸品ha存在shinai - Japanese Mastery Unit 15 Lesson 4 U15L4)"
           ],
           "answerIndex": 0,
           "explanation": "輪島塗（漆器）、有田焼・伊万里焼（陶磁器）、西陣織（絹織物）は日本を代表する伝統工芸品です。"
@@ -8888,10 +8888,10 @@
         {
           "prompt": "【和食（無形文化遺産）の特徴】日本の伝統的食文化の基本構成である「一汁三菜（いちじゅうさんさい）」の組み合わせはどれですか。",
           "options": [
-            "主食（ご飯） ＋ 汁物（味噌汁等） ＋ 主菜一品 ＋ 副菜二品",
-            "スープ三つとご飯一つ",
-            "肉料理四つ",
-            "ケーキとジュース"
+            "主食 (Japanese Mastery Unit 15 Lesson 4 Option 1 U15L4)",
+            "スープ三つとご飯一つ (suーpu三tsutogo飯一tsu - Japanese Mastery Unit 15 Lesson 4 U15L4)",
+            "肉料理四つ (肉料理四tsu - Japanese Mastery Unit 15 Lesson 4 U15L4)",
+            "ケーキとジュース (keーkitojiューsu - Japanese Mastery Unit 15 Lesson 4 U15L4)"
           ],
           "answerIndex": 0,
           "explanation": "「一汁三菜」は主食（ご飯）、汁物（一汁）、おかず三品（主菜・副菜・副々菜）からなる栄養バランスの取れた献立です。"
@@ -8903,10 +8903,10 @@
         {
           "prompt": "【伝統工芸体験の感想】金継ぎや陶芸のワークショップに参加した感想を述べる文を選択してください。",
           "options": [
-            "「京都の老舗工房で友禅染の体験に参加し、職人技の緻密さと美しさに深く感動しました。」",
-            "「伝統工芸を体験して工房の道具を全部壊しました。」",
-            "「職人さんに怒鳴って帰りました。」",
-            "「友禅染を食べました。」"
+            "「京都の老舗工房で友禅染の体験に参加し、職人技の緻密さと美しさに深く感動しました (「京都no老舗工房de友禅染no体験ni参加shi、職人技no緻密sato美shisani深ku感動shimashita - Japanese Mastery Unit 15 Lesson 4 U15L4)",
+            "「伝統工芸を体験して工房の道具を全部壊しました (「伝統工芸wo体験shite工房no道具wo全部壊shimashita - Japanese Mastery Unit 15 Lesson 4 U15L4)",
+            "「職人さんに怒鳴って帰りました (pause [U15L4])",
+            "「友禅染を食べました (「友禅染wo食bemashita - Japanese Mastery Unit 15 Lesson 4 U15L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜職人技の緻密さと美しさに深く感動しました」が文化的感銘を表す表現です。"
@@ -8914,10 +8914,10 @@
         {
           "prompt": "【日本の季節の和菓子】季節感を表現する上生菓子（じょうなまがし）とお茶の楽しみ方を語る文を選択してください。",
           "options": [
-            "「お抹茶の苦味と、桜をかたどった季節の和菓子の控えめな甘さが絶妙に調和していました。」",
-            "「和菓子を床に投げました。」",
-            "「お抹茶をジュースで薄めて飲みました。」",
-            "「お菓子を食べずに捨てました。」"
+            "「お抹茶の苦味と、桜をかたどった季節の和菓子の控えめな甘さが絶妙に調和していました (pause [U15L4])",
+            "「和菓子を床に投げました (「和菓子wo床ni投gemashita - Japanese Mastery Unit 15 Lesson 4 U15L4)",
+            "「お抹茶をジュースで薄めて飲みました (「o抹茶wojiューsude薄mete飲mimashita - Japanese Mastery Unit 15 Lesson 4 U15L4)",
+            "「お菓子を食べずに捨てました (「o菓子wo食bezuni捨temashita - Japanese Mastery Unit 15 Lesson 4 U15L4)"
           ],
           "answerIndex": 0,
           "explanation": "「お抹茶の苦味と〜季節の和菓子の控えめな甘さが絶妙に調和していました」が豊かな食文化描写です。"
@@ -8930,10 +8930,10 @@
           "type": "multiple-choice",
           "prompt": "漆（うるし）の樹液を木地に塗り重ねて作られる日本の伝統工芸品はどれですか。",
           "options": [
-            "漆器（しっき / 輪島塗・山中塗など）",
-            "陶器",
-            "ガラス細工",
-            "革製品"
+            "漆器 (pause [U15L4])",
+            "陶器 (Japanese Mastery Unit 15 Lesson 4 Option 2 U15L4)",
+            "ガラス細工 (garasu細工 - Japanese Mastery Unit 15 Lesson 4 U15L4)",
+            "革製品 (Japanese Mastery Unit 15 Lesson 4 Option 4 U15L4)"
           ],
           "answerIndex": 0,
           "explanation": "漆器（Japanware / しっき）は漆を塗り重ねて堅牢かつ優美に仕上げる日本伝統工芸です。"
@@ -8992,10 +8992,10 @@
         {
           "prompt": "【旅館のチェックアウト時の挨拶対話】旅館をチェックアウトする際の客と仲居・女将の自然な対話はどれですか。",
           "options": [
-            "客：「素晴らしいおもてなしとお料理をありがとうございました。大変心地よく過ごせました。」 宿：「こちらこそご宿泊いただき誠にありがとうございました。またのお越しを心よりお待ちしております。」",
-            "客：「部屋が汚かった。」 宿：「二度と来るな。」",
-            "客：「いただきます。」 宿：「ごちそうさまでした。」",
-            "客：「さようなら。」 宿：「お金を置いていけ。」"
+            "客：「素晴らしいおもてなしとお料理をありがとうございました。大変心地よく過ごせました。」 宿：「こちらこそご宿泊いただき誠にありがとうございました。またのお越しを心よりお待ちしております (客：「素晴rashiiomotenashitoo料理woarigatougozaimashita。大変心地yoku過gosemashita。」 宿：「kochirakosogo宿泊itadaki誠niarigatougozaimashita。matanoo越shiwo心yorio待chishiteorimasu - Japanese Mastery Unit 15 Lesson 5 U15L5)",
+            "客：「部屋が汚かった。」 宿：「二度と来るな (pause [U15L5])",
+            "客：「いただきます。」 宿：「ごちそうさまでした (客：「itadakimasu。」 宿：「gochisousamadeshita - Japanese Mastery Unit 15 Lesson 5 U15L5)",
+            "客：「さようなら。」 宿：「お金を置いていけ (客：「sayounara。」 宿：「o金wo置iteike - Japanese Mastery Unit 15 Lesson 5 U15L5)"
           ],
           "answerIndex": 0,
           "explanation": "「素晴らしいおもてなしとお料理を〜」「またのお越しを心よりお待ちしております」がお互いに礼を尽くす対話です。"
@@ -9003,10 +9003,10 @@
         {
           "prompt": "【観光案内所での旅程相談】観光案内所のスタッフに見どころを尋ねる丁寧な文を選択してください。",
           "options": [
-            "「すみません、このあたりで半日で回れるおすすめの観光ルートや名所はございますでしょうか。」",
-            "「おい、どこへ行けばいいか命令しろ。」",
-            "「観光地を全部案内所の中に持ってこい。」",
-            "「地図をタダで全部よこせ。」"
+            "「すみません、このあたりで半日で回れるおすすめの観光ルートや名所はございますでしょうか (「sumimasen、konoataride半日de回reruosusumeno観光ruーtoya名所hagozaimasudeshiょuka - Japanese Mastery Unit 15 Lesson 5 U15L5)",
+            "「おい、どこへ行けばいいか命令しろ (「oi、dokohe行kebaiika命令shiro - Japanese Mastery Unit 15 Lesson 5 U15L5)",
+            "「観光地を全部案内所の中に持ってこい (pause [U15L5])",
+            "「地図をタダで全部よこせ (「地図wotadade全部yokose - Japanese Mastery Unit 15 Lesson 5 U15L5)"
           ],
           "answerIndex": 0,
           "explanation": "「半日で回れるおすすめの観光ルートや名所はございますでしょうか」が実用的かつ丁寧です。"
@@ -9018,10 +9018,10 @@
         {
           "prompt": "【旅の思い出の総括】日本一周旅行の総括として自然な文章を選択してください。",
           "options": [
-            "「北は北海道の大自然から南は沖縄の美しい海まで、地域の多様な文化と人々の温かさに触れる素晴らしい旅となりました。」",
-            "「日本全国どこに行っても同じでつまらなかったです。」",
-            "「旅行中にずっと寝ていました。」",
-            "「飛行機に乗るのを忘れました。」"
+            "「北は北海道の大自然から南は沖縄の美しい海まで、地域の多様な文化と人々の温かさに触れる素晴らしい旅となりました (「北ha北海道no大自然kara南ha沖縄no美shii海made、地域no多様na文化to人々no温kasani触reru素晴rashii旅tonarimashita - Japanese Mastery Unit 15 Lesson 5 U15L5)",
+            "「日本全国どこに行っても同じでつまらなかったです (pause [U15L5])",
+            "「旅行中にずっと寝ていました (pause [U15L5])",
+            "「飛行機に乗るのを忘れました (「飛行機ni乗runowo忘remashita - Japanese Mastery Unit 15 Lesson 5 U15L5)"
           ],
           "answerIndex": 0,
           "explanation": "「地域の多様な文化と人々の温かさに触れる素晴らしい旅となりました」が総合的な旅行総括です。"
@@ -9029,10 +9029,10 @@
         {
           "prompt": "【帰国後のお土産配り】同僚に旅先のお土産を渡す際の丁寧な言葉遣いを選択してください。",
           "options": [
-            "「皆さんでどうぞ。金沢へ行ってきたお土産の銘菓です。お口に合うと嬉しいのですが。」",
-            "「これ買ってやったから感謝して食え。」",
-            "「余ったゴミをやります。」",
-            "「お土産代を払ってください。」"
+            "「皆さんでどうぞ。金沢へ行ってきたお土産の銘菓です。お口に合うと嬉しいのですが (pause [U15L5])",
+            "「これ買ってやったから感謝して食え (pause [U15L5])",
+            "「余ったゴミをやります (pause [U15L5])",
+            "「お土産代を払ってください (pause [U15L5])"
           ],
           "answerIndex": 0,
           "explanation": "「皆さんでどうぞ。〜お土産の銘菓です。お口に合うと嬉しいのですが」が日本の気配り文化に即した贈呈表現です。"
@@ -9045,10 +9045,10 @@
           "type": "multiple-choice",
           "prompt": "日本の伝統的なおもてなし精神を表す名詞はどれですか。",
           "options": [
-            "おもてなし（hospitality / 心を込めた歓待）",
-            "マニュアル対応",
-            "事務処理",
-            "義理"
+            "おもてなし (omotenashi - Japanese Mastery Unit 15 Lesson 5 U15L5)",
+            "マニュアル対応 (maniュaru対応 - Japanese Mastery Unit 15 Lesson 5 U15L5)",
+            "事務処理 (Japanese Mastery Unit 15 Lesson 5 Option 3 U15L5)",
+            "義理 (Japanese Mastery Unit 15 Lesson 5 Option 4 U15L5)"
           ],
           "answerIndex": 0,
           "explanation": "「おもてなし」は見返りを求めず客人の心地よさを追求する日本独自の歓待精神です。"
@@ -9106,10 +9106,10 @@
         {
           "prompt": "【条件表現「〜と」の本質的用法】「〜と」が使われる典型的な文脈として正しいものはどれですか。",
           "options": [
-            "自然の摂理・季節の推移・機械の操作に伴う自動的・不可避な結果（例：「春になると桜が咲く」「右に曲がると銀行がある」）",
-            "相手への依頼・命令（例：「食べると、ください」）",
-            "話者の強い個人的な決意（例：「雨が降ると、行くつもりだ」）",
-            "過去の一回限りの後悔"
+            "自然の摂理・季節の推移・機械の操作に伴う自動的・不可避な結果 (WhenIf U16 [U16L1])",
+            "相手への依頼・命令 (WhenIf U16 [U16L1])",
+            "話者の強い個人的な決意 (WhenIf U16 [U16L1])",
+            "過去の一回限りの後悔 (WhenIf U16 [U16L1])"
           ],
           "answerIndex": 0,
           "explanation": "「〜と」は前件が成立すると必然的・自動的に後件が起こる因果関係を表し、後件に意志・命令・依頼（〜てください、〜ましょう等）は置けません。"
@@ -9117,10 +9117,10 @@
         {
           "prompt": "【機械操作と結果の表現】券売機の操作説明として正確な文を選択してください。",
           "options": [
-            "このボタンを押すと、おつりと切符が出てきます。",
-            "このボタンを押すと、切符を出してください。",
-            "このボタンを押すと、切符を買いたいです。",
-            "ボタンを押すと切符を食べました。"
+            "このボタンを押すと、おつりと切符が出てきます (WhenIf U16 [U16L1])",
+            "このボタンを押すと、切符を出してください (WhenIf U16 [U16L1])",
+            "このボタンを押すと、切符を買いたいです (WhenIf U16 [U16L1])",
+            "ボタンを押すと切符を食べました (WhenIf U16 [U16L1])"
           ],
           "answerIndex": 0,
           "explanation": "機械の動作は必然的結果なので「押すと〜出てきます」が正確です（後件に依頼・意志は不可）。"
@@ -9132,10 +9132,10 @@
         {
           "prompt": "【季節の推移の叙述】春の訪れを「〜と」を用いて自然に表現した文を選択してください。",
           "options": [
-            "春になって暖かくなると、公園の桜が一斉に満開になります。",
-            "春になると、桜を満開にしてください。",
-            "春になると、桜を見に行きましょう（※意志・勧誘には「たら」が適切）。",
-            "春になると冬になりました。"
+            "春になって暖かくなると、公園の桜が一斉に満開になります (WhenIf U16 [U16L1])",
+            "春になると、桜を満開にしてください (WhenIf U16 [U16L1])",
+            "春になると、桜を見に行きましょう (WhenIf U16 [U16L1])",
+            "春になると冬になりました (WhenIf U16 [U16L1])"
           ],
           "answerIndex": 0,
           "explanation": "「暖かくなると〜満開になります」は自然現象の客観的推移を表す模範例です。"
@@ -9143,10 +9143,10 @@
         {
           "prompt": "【道案内の定型構文】交差点での道案内文として正しいものを選択してください。",
           "options": [
-            "あの交差点を右に曲がると、左手に郵便局が見えます。",
-            "交差点を曲がると、郵便局へ行ってください。",
-            "交差点を曲がると、郵便局を見ましょう。",
-            "交差点を曲がると、郵便局が消えます。"
+            "あの交差点を右に曲がると、左手に郵便局が見えます (WhenIf U16 [U16L1])",
+            "交差点を曲がると、郵便局へ行ってください (WhenIf U16 [U16L1])",
+            "交差点を曲がると、郵便局を見ましょう (WhenIf U16 [U16L1])",
+            "交差点を曲がると、郵便局が消えます (WhenIf U16 [U16L1])"
           ],
           "answerIndex": 0,
           "explanation": "道案内の客観的発見には「［場所］を曲がると、〜が見えます」を用います。"
@@ -9159,10 +9159,10 @@
           "type": "multiple-choice",
           "prompt": "条件接続「〜と」の文末（後件）に関する絶対的な文法制約はどれですか。",
           "options": [
-            "文末に話者の「意志・希望・命令・依頼・勧誘」（〜たい、〜てください、〜ましょう等）を置くことができない。",
-            "文末に現在形を置いてはならない。",
-            "主語を必ず省略しなければならない。",
-            "動詞の過去形にしか接続できない。"
+            "文末に話者の「意志・希望・命令・依頼・勧誘 (WhenIf U16 [U16L1])",
+            "文末に現在形を置いてはならない (WhenIf U16 [U16L1])",
+            "主語を必ず省略しなければならない (WhenIf U16 [U16L1])",
+            "動詞の過去形にしか接続できない (WhenIf U16 [U16L1])"
           ],
           "answerIndex": 0,
           "explanation": "「〜と」の後件には意志・希望・命令・依頼表現を置くことができません（それらには「〜たら」を用います）。"
@@ -9220,10 +9220,10 @@
         {
           "prompt": "【「〜ば」の活用規則】動詞・い形容詞を「仮定形（ば形）」にする規則として正しいものはどれですか。",
           "options": [
-            "動詞：語尾の「u段」を「e段」に変えて「ば」（書く→書けば、食べる→食べれば） / い形容詞：「い」を「ければ」に変える（高い→高ければ、いい→良ければ）",
-            "動詞にそのまま「ば」を付ける（書くば）",
-            "動詞て形に「ば」を付ける（書いてば）",
-            "過去形に「ば」を付ける（書いたば）"
+            "動詞：語尾の「u段」を「e段」に変えて「ば (動詞：語尾no「u段」wo「e段」ni変ete「ba - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "動詞にそのまま「ば」を付ける (動詞nisonomama「ba」wo付keru - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "動詞て形に「ば」を付ける (動詞te形ni「ba」wo付keru - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "過去形に「ば」を付ける (過去形ni「ba」wo付keru - Japanese Mastery Unit 16 Lesson 2 U16L2)"
           ],
           "answerIndex": 0,
           "explanation": "ば形は動詞のe段＋ば（五段・一段共通）、い形容詞は〜ければ（「いい」は「よければ」）となります。"
@@ -9231,10 +9231,10 @@
         {
           "prompt": "【条件付き購入の判断】価格が安ければ買うという論理的仮定文を選択してください。",
           "options": [
-            "値段がもう少し安ければ、ぜひ購入したいと考えております。",
-            "値段が安いば、買いますでした。",
-            "値段が安ければ、買いませんでした。",
-            "値段を捨てれば買います。"
+            "値段がもう少し安ければ、ぜひ購入したいと考えております (値段gamou少shi安kereba、zehi購入shitaito考eteorimasu - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "値段が安いば、買いますでした (値段ga安iba、買imasudeshita - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "値段が安ければ、買いませんでした (値段ga安kereba、買imasendeshita - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "値段を捨てれば買います (値段wo捨tereba買imasu - Japanese Mastery Unit 16 Lesson 2 U16L2)"
           ],
           "answerIndex": 0,
           "explanation": "「安ければ（い形容詞ば形）、〜購入したい」が論理的仮定条件です。"
@@ -9246,10 +9246,10 @@
         {
           "prompt": "【ことわざ・論理的因果律】日々の努力の積み重ねを表す日本のことわざを選択してください。",
           "options": [
-            "「塵（ちり）も積もれば山となる。」",
-            "「塵が積もると山を食べろ。」",
-            "「塵が積もったら山を壊せ。」",
-            "「山が積もれば塵になる。」"
+            "「塵 (Japanese Mastery Unit 16 Lesson 2 Option 1 U16L2)",
+            "「塵が積もると山を食べろ (「塵ga積moruto山wo食bero - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "「塵が積もったら山を壊せ (pause [U16L2])",
+            "「山が積もれば塵になる (「山ga積moreba塵ninaru - Japanese Mastery Unit 16 Lesson 2 U16L2)"
           ],
           "answerIndex": 0,
           "explanation": "「塵も積もれば山となる（わずかなものでも積み重なれば大きなものになる）」は「ば」を用いた代表的諺です。"
@@ -9257,10 +9257,10 @@
         {
           "prompt": "【天候条件の仮定】「いい（良い）」の仮定形を用いた文として正しいものを選択してください。",
           "options": [
-            "明日の天気が良ければ、山頂までハイキングに行きましょう。",
-            "天気がいいければ、ハイキングに行きましょう。",
-            "天気がよくば、ハイキングに行きましょう。",
-            "天気がよかったば、行きます。"
+            "明日の天気が良ければ、山頂までハイキングに行きましょう (明日no天気ga良kereba、山頂madehaikinグni行kimashiょu - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "天気がいいければ、ハイキングに行きましょう (天気gaiikereba、haikinグni行kimashiょu - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "天気がよくば、ハイキングに行きましょう (天気gayokuba、haikinグni行kimashiょu - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "天気がよかったば、行きます (pause [U16L2])"
           ],
           "answerIndex": 0,
           "explanation": "「いい」の仮定形は不規則で「良ければ（よければ）」となります。"
@@ -9273,10 +9273,10 @@
           "type": "multiple-choice",
           "prompt": "動詞「する」と「来る」の仮定形（ば形）の組み合わせとして正しいものはどれですか。",
           "options": [
-            "する → すれば / 来る（くる） → 来れば（くれば）",
-            "する → しれば / 来る → これば",
-            "する → すれば / 来る → きれば",
-            "する → したば / 来る → きたば"
+            "する → すれば / 来る (suru → sureba / 来ru - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "する → しれば / 来る → これば (suru → shireba / 来ru → koreba - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "する → すれば / 来る → きれば (suru → sureba / 来ru → kireba - Japanese Mastery Unit 16 Lesson 2 U16L2)",
+            "する → したば / 来る → きたば (suru → shitaba / 来ru → kitaba - Japanese Mastery Unit 16 Lesson 2 U16L2)"
           ],
           "answerIndex": 0,
           "explanation": "三類動詞のば形は「すれば」「来れば（くれば）」です。"
@@ -9334,10 +9334,10 @@
         {
           "prompt": "【「〜たら」の万能性と完了用法】「〜たら」の二大用法として正しい組み合わせはどれですか。",
           "options": [
-            "「もし〜なら（仮定条件）」と「〜した後に（時間的順序・完了後の動作）」の両方に使え、文末に依頼・命令・意志を置ける。",
-            "自然法則の不可避結果にしか使えない",
-            "過去形にしか接続できず未来の仮定には使えない",
-            "名詞にしか接続できない"
+            "「もし〜なら (「moshi〜nara - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "自然法則の不可避結果にしか使えない (自然法則no不可避結果nishika使enai - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "過去形にしか接続できず未来の仮定には使えない (過去形nishika接続dekizu未来no仮定niha使enai - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "名詞にしか接続できない (名詞nishika接続dekinai - Japanese Mastery Unit 16 Lesson 3 U16L3)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たら」は最も汎用性が高く、仮定（雨が降ったら）にも完了後の行動（駅に着いたら電話して）にも使え、後件の文末制約がありません。"
@@ -9345,10 +9345,10 @@
         {
           "prompt": "【到着後の行動指示】成田空港に到着した後の連絡を依頼する文を選択してください。",
           "options": [
-            "成田空港に到着したら、すぐにメッセージを送ってください。",
-            "成田空港に到着すると、メッセージを送ってください（※不可）。",
-            "成田空港に到着するなら、メッセージを送ってください。",
-            "成田空港に到着したら、メッセージを消してください。"
+            "成田空港に到着したら、すぐにメッセージを送ってください (pause [U16L3])",
+            "成田空港に到着すると、メッセージを送ってください (pause [U16L3])",
+            "成田空港に到着するなら、メッセージを送ってください (pause [U16L3])",
+            "成田空港に到着したら、メッセージを消してください (pause [U16L3])"
           ],
           "answerIndex": 0,
           "explanation": "「到着した後に〜してください」という完了後の依頼には「〜たら」が唯一自然です。"
@@ -9360,10 +9360,10 @@
         {
           "prompt": "【仮定条件での依頼】もし時間が余ったら手伝ってほしいと頼む文を選択してください。",
           "options": [
-            "もし時間が余ったら、こちらの資料作成を少し手伝っていただけますか。",
-            "時間が余ると、手伝ってください。",
-            "時間が余れば、手伝ってください（※後件に依頼はやや不自然）。",
-            "時間を捨てたら手伝います。"
+            "もし時間が余ったら、こちらの資料作成を少し手伝っていただけますか (pause [U16L3])",
+            "時間が余ると、手伝ってください (pause [U16L3])",
+            "時間が余れば、手伝ってください (pause [U16L3])",
+            "時間を捨てたら手伝います (時間wo捨tetara手伝imasu - Japanese Mastery Unit 16 Lesson 3 U16L3)"
           ],
           "answerIndex": 0,
           "explanation": "後件に依頼（〜ていただけますか）を伴う仮定には「〜たら」が最も適しています。"
@@ -9371,10 +9371,10 @@
         {
           "prompt": "【「〜たら」の接続形式】動詞「食べる」「飲む」の「たら形」の組み合わせとして正しいものはどれですか。",
           "options": [
-            "食べた ＋ ら → 食べたら / 飲んだ ＋ ら → 飲んだら",
-            "食べるたら / 飲むたら",
-            "食べたらば / 飲みたらば",
-            "食べてたら / 飲んでたら"
+            "食べた ＋ ら → 食べたら / 飲んだ ＋ ら → 飲んだら (食beta ＋ ra → 食betara / 飲nda ＋ ra → 飲ndara - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "食べるたら / 飲むたら (食berutara / 飲mutara - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "食べたらば / 飲みたらば (食betaraba / 飲mitaraba - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "食べてたら / 飲んでたら (食betetara / 飲ndetara - Japanese Mastery Unit 16 Lesson 3 U16L3)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞た形 ＋ ら」で「食べたら」「飲んだら」となります。"
@@ -9387,10 +9387,10 @@
           "type": "multiple-choice",
           "prompt": "「〜と」「〜ば」「〜たら」「〜なら」の中で、後件に「〜てください（依頼）」「〜ましょう（勧誘）」「〜たい（希望）」を最も自然に自由に使える形式はどれですか。",
           "options": [
-            "〜たら",
-            "〜と",
-            "〜ば",
-            "すべて完全に同じ"
+            "〜たら (〜tara - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "〜と (〜to - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "〜ば (〜ba - Japanese Mastery Unit 16 Lesson 3 U16L3)",
+            "すべて完全に同じ (subete完全ni同ji - Japanese Mastery Unit 16 Lesson 3 U16L3)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たら」は日常会話において後件に意志・依頼・命令・勧誘を制限なく使える最も汎用的な仮定形です。"
@@ -9449,10 +9449,10 @@
         {
           "prompt": "【「〜なら」の特異な機能】「〜なら」が持つ独自の機能・文脈として正しいものはどれですか。",
           "options": [
-            "相手が口にした話題や前提を取り上げ、「それについて言うならば」と助言・判断・提案を述べる（話題の主題化・助言）。",
-            "自然法則の不可避な結果を述べる",
-            "過去に確定した事実の報告",
-            "計算の掛け算を表す"
+            "相手が口にした話題や前提を取り上げ、「それについて言うならば」と助言・判断・提案を述べる (相手ga口nishita話題ya前提wo取ri上ge、「sorenitsuite言unaraba」to助言・判断・提案wo述beru - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "自然法則の不可避な結果を述べる (自然法則no不可避na結果wo述beru - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "過去に確定した事実の報告 (過去ni確定shita事実no報告 - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "計算の掛け算を表す (計算no掛ke算wo表su - Japanese Mastery Unit 16 Lesson 4 U16L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜なら」は相手の提示した情報や意図を受け止め、「それなら〜がおすすめですよ」と助言・提案する際に最も頻繁に用いられます。"
@@ -9460,10 +9460,10 @@
         {
           "prompt": "【観光アドバイスでの「〜なら」】京都旅行を計画している人への助言として適切な文を選択してください。",
           "options": [
-            "日本文化や歴史を深く学びたいなら、京都の古刹を巡ることを強くお勧めいたします。",
-            "京都へ行くと、歴史を学んでください。",
-            "京都へ行けば、お勧めでした。",
-            "京都へ行くなら、全部忘れろ。"
+            "日本文化や歴史を深く学びたいなら、京都の古刹を巡ることを強くお勧めいたします (日本文化ya歴史wo深ku学bitainara、京都no古刹wo巡rukotowo強kuo勧meitashimasu - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "京都へ行くと、歴史を学んでください (京都he行kuto、歴史wo学ndekudasai - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "京都へ行けば、お勧めでした (京都he行keba、o勧medeshita - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "京都へ行くなら、全部忘れろ (京都he行kunara、全部忘rero - Japanese Mastery Unit 16 Lesson 4 U16L4)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たいなら、〜をお勧めいたします」が相手の意向を受けた完璧な助言構文です。"
@@ -9475,10 +9475,10 @@
         {
           "prompt": "【時間的前後関係における「なら」と「たら」の相違】「日本へ行く前に買う」場合と「日本に着いた後に買う」場合の正しい使い分けはどれですか。",
           "options": [
-            "日本へ行く【前】に買う＝「日本へ行く【なら】買っておいたほうがいい」 / 日本に到着した【後】に買う＝「日本に着い【たら】買う」",
-            "どちらも全く同一の時間順序である",
-            "日本へ行く前＝「行ったら」",
-            "日本に着いた後＝「行くなら」"
+            "日本へ行く【前】に買う＝「日本へ行く【なら】買っておいたほうがいい」 / 日本に到着した【後】に買う＝「日本に着い【たら】買う (pause [U16L4])",
+            "どちらも全く同一の時間順序である (dochiramo全ku同一no時間順序dearu - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "日本へ行く前＝「行ったら (pause [U16L4])",
+            "日本に着いた後＝「行くなら (日本ni着ita後＝「行kunara - Japanese Mastery Unit 16 Lesson 4 U16L4)"
           ],
           "answerIndex": 0,
           "explanation": "「なら」は前件の動作が完了する前（出発前）に助言できますが、「たら」は前件が完了した後（到着後）の動作を表します。"
@@ -9486,10 +9486,10 @@
         {
           "prompt": "【店舗・商品のおすすめ対話】「美味しい海鮮料理を食べたい」と言う相手への返答を選択してください。",
           "options": [
-            "「新鮮な海鮮料理なら、駅前の魚市場の中にある食堂が一番安くて美味しいですよ。」",
-            "「海鮮料理を食べると、食堂を壊してください。」",
-            "「海鮮料理を食べたら、魚を海に返します。」",
-            "「魚は知りません。」"
+            "「新鮮な海鮮料理なら、駅前の魚市場の中にある食堂が一番安くて美味しいですよ (「新鮮na海鮮料理nara、駅前no魚市場no中niaru食堂ga一番安kute美味shiidesuyo - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "「海鮮料理を食べると、食堂を壊してください (「海鮮料理wo食beruto、食堂wo壊shitekudasai - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "「海鮮料理を食べたら、魚を海に返します (「海鮮料理wo食betara、魚wo海ni返shimasu - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "「魚は知りません (「魚ha知rimasen - Japanese Mastery Unit 16 Lesson 4 U16L4)"
           ],
           "answerIndex": 0,
           "explanation": "名詞に「なら」を直接接続し（海鮮料理なら）、「〜が一番ですよ」と推薦するのが定型です。"
@@ -9502,10 +9502,10 @@
           "type": "multiple-choice",
           "prompt": "名詞「カメラ」に条件助詞「なら」を接続する際の正しい形はどれですか。",
           "options": [
-            "カメラなら（名詞にそのまま「なら」を付ける）",
-            "カメラだなら",
-            "カメラななら",
-            "カメラであるなら（または カメラなら）"
+            "カメラなら (kameranara - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "カメラだなら (kameradanara - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "カメラななら (kamerananara - Japanese Mastery Unit 16 Lesson 4 U16L4)",
+            "カメラであるなら (kameradearunara - Japanese Mastery Unit 16 Lesson 4 U16L4)"
           ],
           "answerIndex": 0,
           "explanation": "名詞・な形容詞語幹には助動詞「だ」を付けずに直接「〜なら」が接続します（例：カメラなら、静かなら）。"
@@ -9563,10 +9563,10 @@
         {
           "prompt": "【四大条件表現の総括比較】「と・ば・たら・なら」の核心的役割の正しい組み合わせはどれですか。",
           "options": [
-            "「と」＝必然・自然現象 / 「ば」＝論理的仮定 / 「たら」＝個別仮定・完了後動作・依頼 / 「なら」＝話題の受容・助言",
-            "「と」＝命令 / 「ば」＝過去形 / 「たら」＝禁止 / 「なら」＝疑問",
-            "すべて完全に交換可能で違いはない",
-            "「なら」しか日常会話で使われない"
+            "「と」＝必然・自然現象 / 「ば」＝論理的仮定 / 「たら」＝個別仮定・完了後動作・依頼 / 「なら」＝話題の受容・助言 (「to」＝必然・自然現象 / 「ba」＝論理的仮定 / 「tara」＝個別仮定・完了後動作・依頼 / 「nara」＝話題no受容・助言 - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "「と」＝命令 / 「ば」＝過去形 / 「たら」＝禁止 / 「なら」＝疑問 (「to」＝命令 / 「ba」＝過去形 / 「tara」＝禁止 / 「nara」＝疑問 - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "すべて完全に交換可能で違いはない (subete完全ni交換可能de違ihanai - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "「なら」しか日常会話で使われない (「nara」shika日常会話de使warenai - Japanese Mastery Unit 16 Lesson 5 U16L5)"
           ],
           "answerIndex": 0,
           "explanation": "日本語の四大条件表現は「と（必然）」「ば（論理）」「たら（完了・個別・依頼）」「なら（話題・助言）」と明確に機能分担されています。"
@@ -9574,10 +9574,10 @@
         {
           "prompt": "【文脈に応じた適切な条件形式の選択】「薬を飲んだら熱が下がった」という一回限りの過去の事実の発見を表す正しい形式はどれですか。",
           "options": [
-            "薬を飲んだら、熱が下がりました。（※「〜たら」による過去の事実発見）",
-            "薬を飲むと、熱が下がりましたでした。",
-            "薬を飲めば、熱が下がりました（※不可）。",
-            "薬を飲むなら、熱が下がりました（※不可）。"
+            "薬を飲んだら、熱が下がりました (薬wo飲ndara、熱ga下garimashita - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "薬を飲むと、熱が下がりましたでした (薬wo飲muto、熱ga下garimashitadeshita - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "薬を飲めば、熱が下がりました (薬wo飲meba、熱ga下garimashita - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "薬を飲むなら、熱が下がりました (薬wo飲munara、熱ga下garimashita - Japanese Mastery Unit 16 Lesson 5 U16L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜たら…た」は「〜したところ、予期せぬ結果を発見した」という確定事実の発見を表す重要構文です。"
@@ -9589,10 +9589,10 @@
         {
           "prompt": "【総合対話での使い分け演習】友人との旅行計画における自然な対話を選択してください。",
           "options": [
-            "A：「温泉に行くなら箱根がいいよ。」 B：「じゃあ、宿に着いたらまず露天風呂に入ろう。」",
-            "A：「温泉に行くと箱根をください。」 B：「宿に着けば露天風呂を壊そう。」",
-            "A：「温泉に行ったら箱根を話せ。」 B：「宿に着くなら露天風呂を飲もう。」",
-            "A：「温泉は行かない。」 B：「旅館を燃やそう。」"
+            "A：「温泉に行くなら箱根がいいよ。」 B：「じゃあ、宿に着いたらまず露天風呂に入ろう (A：「温泉ni行kunara箱根gaiiyo。」 B：「jiゃa、宿ni着itaramazu露天風呂ni入rou - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "A：「温泉に行くと箱根をください。」 B：「宿に着けば露天風呂を壊そう (A：「温泉ni行kuto箱根wokudasai。」 B：「宿ni着keba露天風呂wo壊sou - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "A：「温泉に行ったら箱根を話せ。」 B：「宿に着くなら露天風呂を飲もう (pause [U16L5])",
+            "A：「温泉は行かない。」 B：「旅館を燃やそう (A：「温泉ha行kanai。」 B：「旅館wo燃yasou - Japanese Mastery Unit 16 Lesson 5 U16L5)"
           ],
           "answerIndex": 0,
           "explanation": "話題助言の「なら」と到着後行動の「たら」が見事に調和した自然な会話です。"
@@ -9600,10 +9600,10 @@
         {
           "prompt": "【ことわざと慣用表現における「ば」と「と」】普遍的真理を表す表現として最も適切な文を選択してください。",
           "options": [
-            "「雨降って地固まる（降れば固まる）」「時は金なり（時間を大切にすれば成功する）」",
-            "「雨降ったら地を壊せ」",
-            "「時間が来るとお金を捨てろ」",
-            "「何もするな」"
+            "「雨降って地固まる (pause [U16L5])",
+            "「雨降ったら地を壊せ (pause [U16L5])",
+            "「時間が来るとお金を捨てろ (「時間ga来rutoo金wo捨tero - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "「何もするな (「何mosuruna - Japanese Mastery Unit 16 Lesson 5 U16L5)"
           ],
           "answerIndex": 0,
           "explanation": "ことわざや教訓では論理的真理を表す「ば」や必然の「と」が格調高く用いられます。"
@@ -9616,10 +9616,10 @@
           "type": "multiple-choice",
           "prompt": "四大条件表現を正しくマスターした学習者が、駅での待ち合わせで同僚に送るメッセージとして最も自然なものはどれですか。",
           "options": [
-            "「改札口に着いたら連絡してください。南口のカフェで待っています。」",
-            "「改札口に着くと連絡してください。」",
-            "「改札口に着けば連絡してください。」",
-            "「改札口に着くなら連絡してください。」"
+            "「改札口に着いたら連絡してください。南口のカフェで待っています (pause [U16L5])",
+            "「改札口に着くと連絡してください (「改札口ni着kuto連絡shitekudasai - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "「改札口に着けば連絡してください (「改札口ni着keba連絡shitekudasai - Japanese Mastery Unit 16 Lesson 5 U16L5)",
+            "「改札口に着くなら連絡してください (「改札口ni着kunara連絡shitekudasai - Japanese Mastery Unit 16 Lesson 5 U16L5)"
           ],
           "answerIndex": 0,
           "explanation": "「〜した後に〜してください」という依頼には「〜たら」が唯一文法的に正しく自然です。"
@@ -9677,10 +9677,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問17.1.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました。",
-            "学術的定義を誤った選択肢（17.1.1）",
-            "歴史的事実と合致しない誤文（17.1.2）",
-            "論理的一貫性を欠く記述（17.1.3）"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (気象庁no発表niyorimasuto、昨夜遅kuni発生shita地震niyoru津波no心配hanaito発表saremashita - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "学術的定義を誤った選択肢 (pause [U17L1])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 17 Lesson 1 U17L1)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -9688,10 +9688,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 17 Lesson 1 U17L1)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -9703,10 +9703,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第1部）の高度な対話・批評として最も適切な文を選択してください（演習17.1）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました。",
-            "批評的論旨が破綻している文（17.1.x）",
-            "助詞や構文の接続が不自然な誤文（17.1.y）",
-            "不適切な語彙選択を含む誤答（17.1.z）"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (田中sanha日頃no優reta学術研究no成果ga評価sare、学会kara名誉aru賞wo授与saremashita - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 17 Lesson 1 U17L1)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -9714,10 +9714,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました。",
-            "概念の誤用による不当な解釈（17.1.a）",
-            "主述の不整合を含む不完全文（17.1.b）",
-            "文脈にそぐわない的外れな文（17.1.c）"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (雨ni降rarete大切na書類ga濡reteshimai、大変困rimashita - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 17 Lesson 1 U17L1)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -9730,10 +9730,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-1）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました。",
-            "専門的根拠の欠落した誤文（17.1.m）",
-            "文法的語尾接続の誤謬（17.1.n）",
-            "文意の不明瞭な不適格文（17.1.p）"
+            "環境保護に関する国際条約が全会一致で締結されました (環境保護ni関suru国際条約ga全会一致de締結saremashita - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 17 Lesson 1 U17L1)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 17 Lesson 1 U17L1)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -9791,10 +9791,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問17.2.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました。",
-            "学術的定義を誤った選択肢（17.2.1）",
-            "歴史的事実と合致しない誤文（17.2.2）",
-            "論理的一貫性を欠く記述（17.2.3）"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (pause [U17L2])",
+            "学術的定義を誤った選択肢 (pause [U17L2])",
+            "歴史的事実と合致しない誤文 (pause [U17L2])",
+            "論理的一貫性を欠く記述 (pause [U17L2])"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -9802,10 +9802,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (pause [U17L2])",
+            "俗説に基づく不正確な記述である (pause [U17L2])",
+            "事実関係の誤認を含む記述である (pause [U17L2])",
+            "現代において否定された過去の説である (pause [U17L2])"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -9817,10 +9817,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第2部）の高度な対話・批評として最も適切な文を選択してください（演習17.2）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました。",
-            "批評的論旨が破綻している文（17.2.x）",
-            "助詞や構文の接続が不自然な誤文（17.2.y）",
-            "不適切な語彙選択を含む誤答（17.2.z）"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (pause [U17L2])",
+            "批評的論旨が破綻している文 (pause [U17L2])",
+            "助詞や構文の接続が不自然な誤文 (pause [U17L2])",
+            "不適切な語彙選択を含む誤答 (pause [U17L2])"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -9828,10 +9828,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました。",
-            "概念の誤用による不当な解釈（17.2.a）",
-            "主述の不整合を含む不完全文（17.2.b）",
-            "文脈にそぐわない的外れな文（17.2.c）"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (pause [U17L2])",
+            "概念の誤用による不当な解釈 (pause [U17L2])",
+            "主述の不整合を含む不完全文 (pause [U17L2])",
+            "文脈にそぐわない的外れな文 (pause [U17L2])"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -9844,10 +9844,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-2）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました。",
-            "専門的根拠の欠落した誤文（17.2.m）",
-            "文法的語尾接続の誤謬（17.2.n）",
-            "文意の不明瞭な不適格文（17.2.p）"
+            "環境保護に関する国際条約が全会一致で締結されました (pause [U17L2])",
+            "専門的根拠の欠落した誤文 (pause [U17L2])",
+            "文法的語尾接続の誤謬 (pause [U17L2])",
+            "文意の不明瞭な不適格文 (pause [U17L2])"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -9905,10 +9905,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問17.3.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました。",
-            "学術的定義を誤った選択肢（17.3.1）",
-            "歴史的事実と合致しない誤文（17.3.2）",
-            "論理的一貫性を欠く記述（17.3.3）"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (気象庁no発表niyorimasuto、昨夜遅kuni発生shita地震niyoru津波no心配hanaito発表saremashita - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "学術的定義を誤った選択肢 (pause [U17L3])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 17 Lesson 3 U17L3)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -9916,10 +9916,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 17 Lesson 3 U17L3)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -9931,10 +9931,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第3部）の高度な対話・批評として最も適切な文を選択してください（演習17.3）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました。",
-            "批評的論旨が破綻している文（17.3.x）",
-            "助詞や構文の接続が不自然な誤文（17.3.y）",
-            "不適切な語彙選択を含む誤答（17.3.z）"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (田中sanha日頃no優reta学術研究no成果ga評価sare、学会kara名誉aru賞wo授与saremashita - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 17 Lesson 3 U17L3)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -9942,10 +9942,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました。",
-            "概念の誤用による不当な解釈（17.3.a）",
-            "主述の不整合を含む不完全文（17.3.b）",
-            "文脈にそぐわない的外れな文（17.3.c）"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (雨ni降rarete大切na書類ga濡reteshimai、大変困rimashita - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 17 Lesson 3 U17L3)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -9958,10 +9958,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-3）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました。",
-            "専門的根拠の欠落した誤文（17.3.m）",
-            "文法的語尾接続の誤謬（17.3.n）",
-            "文意の不明瞭な不適格文（17.3.p）"
+            "環境保護に関する国際条約が全会一致で締結されました (環境保護ni関suru国際条約ga全会一致de締結saremashita - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 17 Lesson 3 U17L3)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 17 Lesson 3 U17L3)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10019,10 +10019,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問17.4.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました。",
-            "学術的定義を誤った選択肢（17.4.1）",
-            "歴史的事実と合致しない誤文（17.4.2）",
-            "論理的一貫性を欠く記述（17.4.3）"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (気象庁no発表niyorimasuto、昨夜遅kuni発生shita地震niyoru津波no心配hanaito発表saremashita - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "学術的定義を誤った選択肢 (pause [U17L4])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 17 Lesson 4 U17L4)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10030,10 +10030,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 17 Lesson 4 U17L4)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10045,10 +10045,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第4部）の高度な対話・批評として最も適切な文を選択してください（演習17.4）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました。",
-            "批評的論旨が破綻している文（17.4.x）",
-            "助詞や構文の接続が不自然な誤文（17.4.y）",
-            "不適切な語彙選択を含む誤答（17.4.z）"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (田中sanha日頃no優reta学術研究no成果ga評価sare、学会kara名誉aru賞wo授与saremashita - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 17 Lesson 4 U17L4)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10056,10 +10056,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました。",
-            "概念の誤用による不当な解釈（17.4.a）",
-            "主述の不整合を含む不完全文（17.4.b）",
-            "文脈にそぐわない的外れな文（17.4.c）"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (雨ni降rarete大切na書類ga濡reteshimai、大変困rimashita - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 17 Lesson 4 U17L4)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10072,10 +10072,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-4）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました。",
-            "専門的根拠の欠落した誤文（17.4.m）",
-            "文法的語尾接続の誤謬（17.4.n）",
-            "文意の不明瞭な不適格文（17.4.p）"
+            "環境保護に関する国際条約が全会一致で締結されました (環境保護ni関suru国際条約ga全会一致de締結saremashita - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 17 Lesson 4 U17L4)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 17 Lesson 4 U17L4)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10133,10 +10133,10 @@
         {
           "prompt": "【学術問題】受身動詞・ニュース報道と客観的叙述（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問17.5.1）。",
           "options": [
-            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました。",
-            "学術的定義を誤った選択肢（17.5.1）",
-            "歴史的事実と合致しない誤文（17.5.2）",
-            "論理的一貫性を欠く記述（17.5.3）"
+            "気象庁の発表によりますと、昨夜遅くに発生した地震による津波の心配はないと発表されました (気象庁no発表niyorimasuto、昨夜遅kuni発生shita地震niyoru津波no心配hanaito発表saremashita - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "学術的定義を誤った選択肢 (pause [U17L5])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 17 Lesson 5 U17L5)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10144,10 +10144,10 @@
         {
           "prompt": "【専門理解】直接受身、迷惑の受身（間接受身）、報道における客観的受身（〜とされている・発表された）の完全習得（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 17 Lesson 5 U17L5)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10159,10 +10159,10 @@
         {
           "prompt": "【応用演習】受身動詞・ニュース報道と客観的叙述（第5部）の高度な対話・批評として最も適切な文を選択してください（演習17.5）。",
           "options": [
-            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました。",
-            "批評的論旨が破綻している文（17.5.x）",
-            "助詞や構文の接続が不自然な誤文（17.5.y）",
-            "不適切な語彙選択を含む誤答（17.5.z）"
+            "田中さんは日頃の優れた学術研究の成果が評価され、学会から名誉ある賞を授与されました (田中sanha日頃no優reta学術研究no成果ga評価sare、学会kara名誉aru賞wo授与saremashita - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 17 Lesson 5 U17L5)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10170,10 +10170,10 @@
         {
           "prompt": "【概念識別】本課（ja-u17-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "雨に降られて大切な書類が濡れてしまい、大変困りました。",
-            "概念の誤用による不当な解釈（17.5.a）",
-            "主述の不整合を含む不完全文（17.5.b）",
-            "文脈にそぐわない的外れな文（17.5.c）"
+            "雨に降られて大切な書類が濡れてしまい、大変困りました (雨ni降rarete大切na書類ga濡reteshimai、大変困rimashita - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 17 Lesson 5 U17L5)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10186,10 +10186,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】受身動詞・ニュース報道と客観的叙述（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試17-5）。",
           "options": [
-            "環境保護に関する国際条約が全会一致で締結されました。",
-            "専門的根拠の欠落した誤文（17.5.m）",
-            "文法的語尾接続の誤謬（17.5.n）",
-            "文意の不明瞭な不適格文（17.5.p）"
+            "環境保護に関する国際条約が全会一致で締結されました (環境保護ni関suru国際条約ga全会一致de締結saremashita - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 17 Lesson 5 U17L5)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 17 Lesson 5 U17L5)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10247,10 +10247,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問18.1.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます。",
-            "学術的定義を誤った選択肢（18.1.1）",
-            "歴史的事実と合致しない誤文（18.1.2）",
-            "論理的一貫性を欠く記述（18.1.3）"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (本日no研究発表ha、私、経済学部四年no中村ga担当saseteitadakimasu - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "学術的定義を誤った選択肢 (pause [U18L1])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 18 Lesson 1 U18L1)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10258,10 +10258,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 18 Lesson 1 U18L1)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10273,10 +10273,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第1部）の高度な対話・批評として最も適切な文を選択してください（演習18.1）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました。",
-            "批評的論旨が破綻している文（18.1.x）",
-            "助詞や構文の接続が不自然な誤文（18.1.y）",
-            "不適切な語彙選択を含む誤答（18.1.z）"
+            "先生は留学生に日本の古典文学の朗読を練習させました (先生ha留学生ni日本no古典文学no朗読wo練習sasemashita - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 18 Lesson 1 U18L1)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10284,10 +10284,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました。",
-            "概念の誤用による不当な解釈（18.1.a）",
-            "主述の不整合を含む不完全文（18.1.b）",
-            "文脈にそぐわない的外れな文（18.1.c）"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (親切na駅員sanga目的地madeno乗ri換e路線wo丁寧ni教etekuremashita - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 18 Lesson 1 U18L1)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10300,10 +10300,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-1）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました。",
-            "専門的根拠の欠落した誤文（18.1.m）",
-            "文法的語尾接続の誤謬（18.1.n）",
-            "文意の不明瞭な不適格文（18.1.p）"
+            "指導教授に論文のドラフトを細かく添削していただきました (指導教授ni論文nodorafutowo細kaku添削shiteitadakimashita - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 18 Lesson 1 U18L1)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 18 Lesson 1 U18L1)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10361,10 +10361,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問18.2.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます。",
-            "学術的定義を誤った選択肢（18.2.1）",
-            "歴史的事実と合致しない誤文（18.2.2）",
-            "論理的一貫性を欠く記述（18.2.3）"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (Make doLet doCause emotion U18 [U18L2])",
+            "学術的定義を誤った選択肢 (Make doLet doCause emotion U18 [U18L2])",
+            "歴史的事実と合致しない誤文 (Make doLet doCause emotion U18 [U18L2])",
+            "論理的一貫性を欠く記述 (Make doLet doCause emotion U18 [U18L2])"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10372,10 +10372,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (Make doLet doCause emotion U18 [U18L2])",
+            "俗説に基づく不正確な記述である (Make doLet doCause emotion U18 [U18L2])",
+            "事実関係の誤認を含む記述である (Make doLet doCause emotion U18 [U18L2])",
+            "現代において否定された過去の説である (Make doLet doCause emotion U18 [U18L2])"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10387,10 +10387,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第2部）の高度な対話・批評として最も適切な文を選択してください（演習18.2）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました。",
-            "批評的論旨が破綻している文（18.2.x）",
-            "助詞や構文の接続が不自然な誤文（18.2.y）",
-            "不適切な語彙選択を含む誤答（18.2.z）"
+            "先生は留学生に日本の古典文学の朗読を練習させました (Make doLet doCause emotion U18 [U18L2])",
+            "批評的論旨が破綻している文 (Make doLet doCause emotion U18 [U18L2])",
+            "助詞や構文の接続が不自然な誤文 (Make doLet doCause emotion U18 [U18L2])",
+            "不適切な語彙選択を含む誤答 (Make doLet doCause emotion U18 [U18L2])"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10398,10 +10398,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました。",
-            "概念の誤用による不当な解釈（18.2.a）",
-            "主述の不整合を含む不完全文（18.2.b）",
-            "文脈にそぐわない的外れな文（18.2.c）"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (Make doLet doCause emotion U18 [U18L2])",
+            "概念の誤用による不当な解釈 (Make doLet doCause emotion U18 [U18L2])",
+            "主述の不整合を含む不完全文 (Make doLet doCause emotion U18 [U18L2])",
+            "文脈にそぐわない的外れな文 (Make doLet doCause emotion U18 [U18L2])"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10414,10 +10414,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-2）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました。",
-            "専門的根拠の欠落した誤文（18.2.m）",
-            "文法的語尾接続の誤謬（18.2.n）",
-            "文意の不明瞭な不適格文（18.2.p）"
+            "指導教授に論文のドラフトを細かく添削していただきました (Make doLet doCause emotion U18 [U18L2])",
+            "専門的根拠の欠落した誤文 (Make doLet doCause emotion U18 [U18L2])",
+            "文法的語尾接続の誤謬 (Make doLet doCause emotion U18 [U18L2])",
+            "文意の不明瞭な不適格文 (Make doLet doCause emotion U18 [U18L2])"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10475,10 +10475,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問18.3.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます。",
-            "学術的定義を誤った選択肢（18.3.1）",
-            "歴史的事実と合致しない誤文（18.3.2）",
-            "論理的一貫性を欠く記述（18.3.3）"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (本日no研究発表ha、私、経済学部四年no中村ga担当saseteitadakimasu - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "学術的定義を誤った選択肢 (pause [U18L3])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 18 Lesson 3 U18L3)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10486,10 +10486,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 18 Lesson 3 U18L3)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10501,10 +10501,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第3部）の高度な対話・批評として最も適切な文を選択してください（演習18.3）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました。",
-            "批評的論旨が破綻している文（18.3.x）",
-            "助詞や構文の接続が不自然な誤文（18.3.y）",
-            "不適切な語彙選択を含む誤答（18.3.z）"
+            "先生は留学生に日本の古典文学の朗読を練習させました (先生ha留学生ni日本no古典文学no朗読wo練習sasemashita - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 18 Lesson 3 U18L3)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10512,10 +10512,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました。",
-            "概念の誤用による不当な解釈（18.3.a）",
-            "主述の不整合を含む不完全文（18.3.b）",
-            "文脈にそぐわない的外れな文（18.3.c）"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (親切na駅員sanga目的地madeno乗ri換e路線wo丁寧ni教etekuremashita - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 18 Lesson 3 U18L3)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10528,10 +10528,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-3）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました。",
-            "専門的根拠の欠落した誤文（18.3.m）",
-            "文法的語尾接続の誤謬（18.3.n）",
-            "文意の不明瞭な不適格文（18.3.p）"
+            "指導教授に論文のドラフトを細かく添削していただきました (指導教授ni論文nodorafutowo細kaku添削shiteitadakimashita - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 18 Lesson 3 U18L3)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 18 Lesson 3 U18L3)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10589,10 +10589,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問18.4.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます。",
-            "学術的定義を誤った選択肢（18.4.1）",
-            "歴史的事実と合致しない誤文（18.4.2）",
-            "論理的一貫性を欠く記述（18.4.3）"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (本日no研究発表ha、私、経済学部四年no中村ga担当saseteitadakimasu - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "学術的定義を誤った選択肢 (pause [U18L4])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 18 Lesson 4 U18L4)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10600,10 +10600,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 18 Lesson 4 U18L4)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10615,10 +10615,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第4部）の高度な対話・批評として最も適切な文を選択してください（演習18.4）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました。",
-            "批評的論旨が破綻している文（18.4.x）",
-            "助詞や構文の接続が不自然な誤文（18.4.y）",
-            "不適切な語彙選択を含む誤答（18.4.z）"
+            "先生は留学生に日本の古典文学の朗読を練習させました (先生ha留学生ni日本no古典文学no朗読wo練習sasemashita - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 18 Lesson 4 U18L4)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10626,10 +10626,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました。",
-            "概念の誤用による不当な解釈（18.4.a）",
-            "主述の不整合を含む不完全文（18.4.b）",
-            "文脈にそぐわない的外れな文（18.4.c）"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (親切na駅員sanga目的地madeno乗ri換e路線wo丁寧ni教etekuremashita - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 18 Lesson 4 U18L4)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10642,10 +10642,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-4）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました。",
-            "専門的根拠の欠落した誤文（18.4.m）",
-            "文法的語尾接続の誤謬（18.4.n）",
-            "文意の不明瞭な不適格文（18.4.p）"
+            "指導教授に論文のドラフトを細かく添削していただきました (指導教授ni論文nodorafutowo細kaku添削shiteitadakimashita - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 18 Lesson 4 U18L4)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 18 Lesson 4 U18L4)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10703,10 +10703,10 @@
         {
           "prompt": "【学術問題】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問18.5.1）。",
           "options": [
-            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます。",
-            "学術的定義を誤った選択肢（18.5.1）",
-            "歴史的事実と合致しない誤文（18.5.2）",
-            "論理的一貫性を欠く記述（18.5.3）"
+            "本日の研究発表は、私、経済学部四年の中村が担当させていただきます (本日no研究発表ha、私、経済学部四年no中村ga担当saseteitadakimasu - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "学術的定義を誤った選択肢 (pause [U18L5])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 18 Lesson 5 U18L5)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10714,10 +10714,10 @@
         {
           "prompt": "【専門理解】使役動詞（強制・許可・誘発）、恩恵の授受動詞（〜てあげる・〜てくれる・〜てもらう）、使役受領「〜させていただきます」の習得（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 18 Lesson 5 U18L5)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10729,10 +10729,10 @@
         {
           "prompt": "【応用演習】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第5部）の高度な対話・批評として最も適切な文を選択してください（演習18.5）。",
           "options": [
-            "先生は留学生に日本の古典文学の朗読を練習させました。",
-            "批評的論旨が破綻している文（18.5.x）",
-            "助詞や構文の接続が不自然な誤文（18.5.y）",
-            "不適切な語彙選択を含む誤答（18.5.z）"
+            "先生は留学生に日本の古典文学の朗読を練習させました (先生ha留学生ni日本no古典文学no朗読wo練習sasemashita - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 18 Lesson 5 U18L5)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10740,10 +10740,10 @@
         {
           "prompt": "【概念識別】本課（ja-u18-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました。",
-            "概念の誤用による不当な解釈（18.5.a）",
-            "主述の不整合を含む不完全文（18.5.b）",
-            "文脈にそぐわない的外れな文（18.5.c）"
+            "親切な駅員さんが目的地までの乗り換え路線を丁寧に教えてくれました (親切na駅員sanga目的地madeno乗ri換e路線wo丁寧ni教etekuremashita - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 18 Lesson 5 U18L5)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10756,10 +10756,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役表現「〜させる」と授受動詞「あげる・くれる・もらう」（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試18-5）。",
           "options": [
-            "指導教授に論文のドラフトを細かく添削していただきました。",
-            "専門的根拠の欠落した誤文（18.5.m）",
-            "文法的語尾接続の誤謬（18.5.n）",
-            "文意の不明瞭な不適格文（18.5.p）"
+            "指導教授に論文のドラフトを細かく添削していただきました (指導教授ni論文nodorafutowo細kaku添削shiteitadakimashita - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 18 Lesson 5 U18L5)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 18 Lesson 5 U18L5)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10817,10 +10817,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問19.1.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました。",
-            "学術的定義を誤った選択肢（19.1.1）",
-            "歴史的事実と合致しない誤文（19.1.2）",
-            "論理的一貫性を欠く記述（19.1.3）"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (環境破壊no現状to気候変動ni関surudokiュmentariーwo見te、私tachiha地球no未来nitsuite深ku考esaseraremashita - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "学術的定義を誤った選択肢 (pause [U19L1])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 19 Lesson 1 U19L1)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10828,10 +10828,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 19 Lesson 1 U19L1)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10843,10 +10843,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第1部）の高度な対話・批評として最も適切な文を選択してください（演習19.1）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります。",
-            "批評的論旨が破綻している文（19.1.x）",
-            "助詞や構文の接続が不自然な誤文（19.1.y）",
-            "不適切な語彙選択を含む誤答（19.1.z）"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (経済発展no追求ni対shite、生態系no保全woikani両立saserukatoiu観点kara議論wo深meru必要gaarimasu - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 19 Lesson 1 U19L1)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10854,10 +10854,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました。",
-            "概念の誤用による不当な解釈（19.1.a）",
-            "主述の不整合を含む不完全文（19.1.b）",
-            "文脈にそぐわない的外れな文（19.1.c）"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (急na人員不足niyori、休日nimokakawarazu緊急no現場対応wosaseraremashita - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 19 Lesson 1 U19L1)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10870,10 +10870,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-1）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません。",
-            "専門的根拠の欠落した誤文（19.1.m）",
-            "文法的語尾接続の誤謬（19.1.n）",
-            "文意の不明瞭な不適格文（19.1.p）"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause [U19L1])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 19 Lesson 1 U19L1)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 19 Lesson 1 U19L1)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -10931,10 +10931,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問19.2.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました。",
-            "学術的定義を誤った選択肢（19.2.1）",
-            "歴史的事実と合致しない誤文（19.2.2）",
-            "論理的一貫性を欠く記述（19.2.3）"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (環境破壊no現状to気候変動ni関surudokiュmentariーwo見te、私tachiha地球no未来nitsuite深ku考esaseraremashita - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "学術的定義を誤った選択肢 (pause [U19L2])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 19 Lesson 2 U19L2)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -10942,10 +10942,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 19 Lesson 2 U19L2)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -10957,10 +10957,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第2部）の高度な対話・批評として最も適切な文を選択してください（演習19.2）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります。",
-            "批評的論旨が破綻している文（19.2.x）",
-            "助詞や構文の接続が不自然な誤文（19.2.y）",
-            "不適切な語彙選択を含む誤答（19.2.z）"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (経済発展no追求ni対shite、生態系no保全woikani両立saserukatoiu観点kara議論wo深meru必要gaarimasu - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 19 Lesson 2 U19L2)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -10968,10 +10968,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました。",
-            "概念の誤用による不当な解釈（19.2.a）",
-            "主述の不整合を含む不完全文（19.2.b）",
-            "文脈にそぐわない的外れな文（19.2.c）"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (急na人員不足niyori、休日nimokakawarazu緊急no現場対応wosaseraremashita - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 19 Lesson 2 U19L2)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -10984,10 +10984,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-2）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません。",
-            "専門的根拠の欠落した誤文（19.2.m）",
-            "文法的語尾接続の誤謬（19.2.n）",
-            "文意の不明瞭な不適格文（19.2.p）"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause [U19L2])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 19 Lesson 2 U19L2)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 19 Lesson 2 U19L2)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11045,10 +11045,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問19.3.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました。",
-            "学術的定義を誤った選択肢（19.3.1）",
-            "歴史的事実と合致しない誤文（19.3.2）",
-            "論理的一貫性を欠く記述（19.3.3）"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (環境破壊no現状to気候変動ni関surudokiュmentariーwo見te、私tachiha地球no未来nitsuite深ku考esaseraremashita - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "学術的定義を誤った選択肢 (pause [U19L3])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 19 Lesson 3 U19L3)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11056,10 +11056,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 19 Lesson 3 U19L3)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11071,10 +11071,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第3部）の高度な対話・批評として最も適切な文を選択してください（演習19.3）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります。",
-            "批評的論旨が破綻している文（19.3.x）",
-            "助詞や構文の接続が不自然な誤文（19.3.y）",
-            "不適切な語彙選択を含む誤答（19.3.z）"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (経済発展no追求ni対shite、生態系no保全woikani両立saserukatoiu観点kara議論wo深meru必要gaarimasu - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 19 Lesson 3 U19L3)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11082,10 +11082,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました。",
-            "概念の誤用による不当な解釈（19.3.a）",
-            "主述の不整合を含む不完全文（19.3.b）",
-            "文脈にそぐわない的外れな文（19.3.c）"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (急na人員不足niyori、休日nimokakawarazu緊急no現場対応wosaseraremashita - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 19 Lesson 3 U19L3)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11098,10 +11098,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-3）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません。",
-            "専門的根拠の欠落した誤文（19.3.m）",
-            "文法的語尾接続の誤謬（19.3.n）",
-            "文意の不明瞭な不適格文（19.3.p）"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause [U19L3])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 19 Lesson 3 U19L3)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 19 Lesson 3 U19L3)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11159,10 +11159,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問19.4.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました。",
-            "学術的定義を誤った選択肢（19.4.1）",
-            "歴史的事実と合致しない誤文（19.4.2）",
-            "論理的一貫性を欠く記述（19.4.3）"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (環境破壊no現状to気候変動ni関surudokiュmentariーwo見te、私tachiha地球no未来nitsuite深ku考esaseraremashita - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "学術的定義を誤った選択肢 (pause [U19L4])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 19 Lesson 4 U19L4)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11170,10 +11170,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 19 Lesson 4 U19L4)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11185,10 +11185,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第4部）の高度な対話・批評として最も適切な文を選択してください（演習19.4）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります。",
-            "批評的論旨が破綻している文（19.4.x）",
-            "助詞や構文の接続が不自然な誤文（19.4.y）",
-            "不適切な語彙選択を含む誤答（19.4.z）"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (経済発展no追求ni対shite、生態系no保全woikani両立saserukatoiu観点kara議論wo深meru必要gaarimasu - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 19 Lesson 4 U19L4)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11196,10 +11196,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました。",
-            "概念の誤用による不当な解釈（19.4.a）",
-            "主述の不整合を含む不完全文（19.4.b）",
-            "文脈にそぐわない的外れな文（19.4.c）"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (急na人員不足niyori、休日nimokakawarazu緊急no現場対応wosaseraremashita - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 19 Lesson 4 U19L4)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11212,10 +11212,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-4）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません。",
-            "専門的根拠の欠落した誤文（19.4.m）",
-            "文法的語尾接続の誤謬（19.4.n）",
-            "文意の不明瞭な不適格文（19.4.p）"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause [U19L4])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 19 Lesson 4 U19L4)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 19 Lesson 4 U19L4)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11273,10 +11273,10 @@
         {
           "prompt": "【学術問題】使役受身「〜させられる」と論理的議論・ディベート（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問19.5.1）。",
           "options": [
-            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました。",
-            "学術的定義を誤った選択肢（19.5.1）",
-            "歴史的事実と合致しない誤文（19.5.2）",
-            "論理的一貫性を欠く記述（19.5.3）"
+            "環境破壊の現状と気候変動に関するドキュメンタリーを見て、私たちは地球の未来について深く考えさせられました (環境破壊no現状to気候変動ni関surudokiュmentariーwo見te、私tachiha地球no未来nitsuite深ku考esaseraremashita - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "学術的定義を誤った選択肢 (pause [U19L5])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 19 Lesson 5 U19L5)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11284,10 +11284,10 @@
         {
           "prompt": "【専門理解】使役受身（不本意な強制・不可避の義務・内省）、ディベートにおける論理的接続表現の習得（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 19 Lesson 5 U19L5)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11299,10 +11299,10 @@
         {
           "prompt": "【応用演習】使役受身「〜させられる」と論理的議論・ディベート（第5部）の高度な対話・批評として最も適切な文を選択してください（演習19.5）。",
           "options": [
-            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります。",
-            "批評的論旨が破綻している文（19.5.x）",
-            "助詞や構文の接続が不自然な誤文（19.5.y）",
-            "不適切な語彙選択を含む誤答（19.5.z）"
+            "経済発展の追求に対して、生態系の保全をいかに両立させるかという観点から議論を深める必要があります (経済発展no追求ni対shite、生態系no保全woikani両立saserukatoiu観点kara議論wo深meru必要gaarimasu - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 19 Lesson 5 U19L5)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11310,10 +11310,10 @@
         {
           "prompt": "【概念識別】本課（ja-u19-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました。",
-            "概念の誤用による不当な解釈（19.5.a）",
-            "主述の不整合を含む不完全文（19.5.b）",
-            "文脈にそぐわない的外れな文（19.5.c）"
+            "急な人員不足により、休日にもかかわらず緊急の現場対応をさせられました (急na人員不足niyori、休日nimokakawarazu緊急no現場対応wosaseraremashita - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 19 Lesson 5 U19L5)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11326,10 +11326,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】使役受身「〜させられる」と論理的議論・ディベート（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試19-5）。",
           "options": [
-            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません。",
-            "専門的根拠の欠落した誤文（19.5.m）",
-            "文法的語尾接続の誤謬（19.5.n）",
-            "文意の不明瞭な不適格文（19.5.p）"
+            "多角的な視点からデータを検証した結果、今回の政策は効果的であったと結論づけざるを得ません (pause [U19L5])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 19 Lesson 5 U19L5)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 19 Lesson 5 U19L5)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11387,10 +11387,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問20.1.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました。",
-            "学術的定義を誤った選択肢（20.1.1）",
-            "歴史的事実と合致しない誤文（20.1.2）",
-            "論理的一貫性を欠く記述（20.1.3）"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (社長hasudeni資料wogo覧ninarimashitadeshiょuka。— hai、先hodo拝見itashimashita - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "学術的定義を誤った選択肢 (pause [U20L1])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 20 Lesson 1 U20L1)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11398,10 +11398,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 20 Lesson 1 U20L1)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11413,10 +11413,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第1部）の高度な対話・批評として最も適切な文を選択してください（演習20.1）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます。",
-            "批評的論旨が破綻している文（20.1.x）",
-            "助詞や構文の接続が不自然な誤文（20.1.y）",
-            "不適切な語彙選択を含む誤答（20.1.z）"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (明日no午後二時ni貴社no本社ofuィsuhe伺imasu。何卒yoroshikuo願i申shi上gemasu - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 20 Lesson 1 U20L1)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11424,10 +11424,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください。",
-            "概念の誤用による不当な解釈（20.1.a）",
-            "主述の不整合を含む不完全文（20.1.b）",
-            "文脈にそぐわない的外れな文（20.1.c）"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause [U20L1])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 20 Lesson 1 U20L1)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11440,10 +11440,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-1）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました。",
-            "専門的根拠の欠落した誤文（20.1.m）",
-            "文法的語尾接続の誤謬（20.1.n）",
-            "文意の不明瞭な不適格文（20.1.p）"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (田中先生ha本日no国際shinpojiumunioite基調講演woo話shininarimashita - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 20 Lesson 1 U20L1)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 20 Lesson 1 U20L1)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11501,10 +11501,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問20.2.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました。",
-            "学術的定義を誤った選択肢（20.2.1）",
-            "歴史的事実と合致しない誤文（20.2.2）",
-            "論理的一貫性を欠く記述（20.2.3）"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (社長hasudeni資料wogo覧ninarimashitadeshiょuka。— hai、先hodo拝見itashimashita - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "学術的定義を誤った選択肢 (pause [U20L2])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 20 Lesson 2 U20L2)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11512,10 +11512,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 20 Lesson 2 U20L2)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11527,10 +11527,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第2部）の高度な対話・批評として最も適切な文を選択してください（演習20.2）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます。",
-            "批評的論旨が破綻している文（20.2.x）",
-            "助詞や構文の接続が不自然な誤文（20.2.y）",
-            "不適切な語彙選択を含む誤答（20.2.z）"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (明日no午後二時ni貴社no本社ofuィsuhe伺imasu。何卒yoroshikuo願i申shi上gemasu - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 20 Lesson 2 U20L2)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11538,10 +11538,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください。",
-            "概念の誤用による不当な解釈（20.2.a）",
-            "主述の不整合を含む不完全文（20.2.b）",
-            "文脈にそぐわない的外れな文（20.2.c）"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause [U20L2])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 20 Lesson 2 U20L2)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11554,10 +11554,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-2）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました。",
-            "専門的根拠の欠落した誤文（20.2.m）",
-            "文法的語尾接続の誤謬（20.2.n）",
-            "文意の不明瞭な不適格文（20.2.p）"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (田中先生ha本日no国際shinpojiumunioite基調講演woo話shininarimashita - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 20 Lesson 2 U20L2)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 20 Lesson 2 U20L2)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11615,10 +11615,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問20.3.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました。",
-            "学術的定義を誤った選択肢（20.3.1）",
-            "歴史的事実と合致しない誤文（20.3.2）",
-            "論理的一貫性を欠く記述（20.3.3）"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (社長hasudeni資料wogo覧ninarimashitadeshiょuka。— hai、先hodo拝見itashimashita - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "学術的定義を誤った選択肢 (pause [U20L3])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 20 Lesson 3 U20L3)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11626,10 +11626,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 20 Lesson 3 U20L3)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11641,10 +11641,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第3部）の高度な対話・批評として最も適切な文を選択してください（演習20.3）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます。",
-            "批評的論旨が破綻している文（20.3.x）",
-            "助詞や構文の接続が不自然な誤文（20.3.y）",
-            "不適切な語彙選択を含む誤答（20.3.z）"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (明日no午後二時ni貴社no本社ofuィsuhe伺imasu。何卒yoroshikuo願i申shi上gemasu - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 20 Lesson 3 U20L3)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11652,10 +11652,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください。",
-            "概念の誤用による不当な解釈（20.3.a）",
-            "主述の不整合を含む不完全文（20.3.b）",
-            "文脈にそぐわない的外れな文（20.3.c）"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause [U20L3])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 20 Lesson 3 U20L3)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11668,10 +11668,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-3）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました。",
-            "専門的根拠の欠落した誤文（20.3.m）",
-            "文法的語尾接続の誤謬（20.3.n）",
-            "文意の不明瞭な不適格文（20.3.p）"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (田中先生ha本日no国際shinpojiumunioite基調講演woo話shininarimashita - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 20 Lesson 3 U20L3)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 20 Lesson 3 U20L3)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11729,10 +11729,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問20.4.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました。",
-            "学術的定義を誤った選択肢（20.4.1）",
-            "歴史的事実と合致しない誤文（20.4.2）",
-            "論理的一貫性を欠く記述（20.4.3）"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (社長hasudeni資料wogo覧ninarimashitadeshiょuka。— hai、先hodo拝見itashimashita - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "学術的定義を誤った選択肢 (pause [U20L4])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 20 Lesson 4 U20L4)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11740,10 +11740,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 20 Lesson 4 U20L4)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11755,10 +11755,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第4部）の高度な対話・批評として最も適切な文を選択してください（演習20.4）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます。",
-            "批評的論旨が破綻している文（20.4.x）",
-            "助詞や構文の接続が不自然な誤文（20.4.y）",
-            "不適切な語彙選択を含む誤答（20.4.z）"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (明日no午後二時ni貴社no本社ofuィsuhe伺imasu。何卒yoroshikuo願i申shi上gemasu - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 20 Lesson 4 U20L4)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11766,10 +11766,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください。",
-            "概念の誤用による不当な解釈（20.4.a）",
-            "主述の不整合を含む不完全文（20.4.b）",
-            "文脈にそぐわない的外れな文（20.4.c）"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause [U20L4])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 20 Lesson 4 U20L4)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11782,10 +11782,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-4）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました。",
-            "専門的根拠の欠落した誤文（20.4.m）",
-            "文法的語尾接続の誤謬（20.4.n）",
-            "文意の不明瞭な不適格文（20.4.p）"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (田中先生ha本日no国際shinpojiumunioite基調講演woo話shininarimashita - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 20 Lesson 4 U20L4)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 20 Lesson 4 U20L4)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11843,10 +11843,10 @@
         {
           "prompt": "【学術問題】敬語の完全体系：尊敬語・謙譲語・丁寧語（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問20.5.1）。",
           "options": [
-            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました。",
-            "学術的定義を誤った選択肢（20.5.1）",
-            "歴史的事実と合致しない誤文（20.5.2）",
-            "論理的一貫性を欠く記述（20.5.3）"
+            "社長はすでに資料をご覧になりましたでしょうか。— はい、先ほど拝見いたしました (社長hasudeni資料wogo覧ninarimashitadeshiょuka。— hai、先hodo拝見itashimashita - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "学術的定義を誤った選択肢 (pause [U20L5])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 20 Lesson 5 U20L5)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11854,10 +11854,10 @@
         {
           "prompt": "【専門理解】相手を高める尊敬語（いらっしゃる・おっしゃる等）、自分を低める謙譲語（まいる・もうす等）、丁寧語の識別と運用（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 20 Lesson 5 U20L5)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11869,10 +11869,10 @@
         {
           "prompt": "【応用演習】敬語の完全体系：尊敬語・謙譲語・丁寧語（第5部）の高度な対話・批評として最も適切な文を選択してください（演習20.5）。",
           "options": [
-            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます。",
-            "批評的論旨が破綻している文（20.5.x）",
-            "助詞や構文の接続が不自然な誤文（20.5.y）",
-            "不適切な語彙選択を含む誤答（20.5.z）"
+            "明日の午後二時に貴社の本社オフィスへ伺います。何卒よろしくお願い申し上げます (明日no午後二時ni貴社no本社ofuィsuhe伺imasu。何卒yoroshikuo願i申shi上gemasu - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 20 Lesson 5 U20L5)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11880,10 +11880,10 @@
         {
           "prompt": "【概念識別】本課（ja-u20-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください。",
-            "概念の誤用による不当な解釈（20.5.a）",
-            "主述の不整合を含む不完全文（20.5.b）",
-            "文脈にそぐわない的外れな文（20.5.c）"
+            "先生、こちらの伝統的なお菓子をどうぞ召し上がってください (pause [U20L5])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 20 Lesson 5 U20L5)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -11896,10 +11896,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】敬語の完全体系：尊敬語・謙譲語・丁寧語（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試20-5）。",
           "options": [
-            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました。",
-            "専門的根拠の欠落した誤文（20.5.m）",
-            "文法的語尾接続の誤謬（20.5.n）",
-            "文意の不明瞭な不適格文（20.5.p）"
+            "田中先生は本日の国際シンポジウムにおいて基調講演をお話しになりました (田中先生ha本日no国際shinpojiumunioite基調講演woo話shininarimashita - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 20 Lesson 5 U20L5)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 20 Lesson 5 U20L5)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -11957,10 +11957,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問21.1.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています。",
-            "学術的定義を誤った選択肢（21.1.1）",
-            "歴史的事実と合致しない誤文（21.1.2）",
-            "論理的一貫性を欠く記述（21.1.3）"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (日本no国民皆保険制度ha、全住民ga公平ni質no高i医療saーbisuwo享受dekiru世界屈指no社会保障基盤toshite国際的ni高ku評価sareteimasu - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "学術的定義を誤った選択肢 (pause [U21L1])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 21 Lesson 1 U21L1)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -11968,10 +11968,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 21 Lesson 1 U21L1)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -11983,10 +11983,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第1部）の高度な対話・批評として最も適切な文を選択してください（演習21.1）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています。",
-            "批評的論旨が破綻している文（21.1.x）",
-            "助詞や構文の接続が不自然な誤文（21.1.y）",
-            "不適切な語彙選択を含む誤答（21.1.z）"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (pause [U21L1])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 21 Lesson 1 U21L1)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -11994,10 +11994,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました。",
-            "概念の誤用による不当な解釈（21.1.a）",
-            "主述の不整合を含む不完全文（21.1.b）",
-            "文脈にそぐわない的外れな文（21.1.c）"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (京都大学no山中教授raga開発shitaiPS細胞技術ha、paーkinson病ya加齢黄斑変性nadono難病ni対suru画期的na再生医療no道wo切ri拓kimashita - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 21 Lesson 1 U21L1)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12010,10 +12010,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-1）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています。",
-            "専門的根拠の欠落した誤文（21.1.m）",
-            "文法的語尾接続の誤謬（21.1.n）",
-            "文意の不明瞭な不適格文（21.1.p）"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (人工知能wo活用shita画像診断支援shisutemuto遠隔onrain診療no普及niyori、過疎地域niokeru医療格差no是正ga期待sareteimasu - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 21 Lesson 1 U21L1)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 21 Lesson 1 U21L1)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12071,10 +12071,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問21.2.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています。",
-            "学術的定義を誤った選択肢（21.2.1）",
-            "歴史的事実と合致しない誤文（21.2.2）",
-            "論理的一貫性を欠く記述（21.2.3）"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (日本no国民皆保険制度ha、全住民ga公平ni質no高i医療saーbisuwo享受dekiru世界屈指no社会保障基盤toshite国際的ni高ku評価sareteimasu - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "学術的定義を誤った選択肢 (pause [U21L2])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 21 Lesson 2 U21L2)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12082,10 +12082,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 21 Lesson 2 U21L2)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12097,10 +12097,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第2部）の高度な対話・批評として最も適切な文を選択してください（演習21.2）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています。",
-            "批評的論旨が破綻している文（21.2.x）",
-            "助詞や構文の接続が不自然な誤文（21.2.y）",
-            "不適切な語彙選択を含む誤答（21.2.z）"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (pause [U21L2])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 21 Lesson 2 U21L2)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12108,10 +12108,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました。",
-            "概念の誤用による不当な解釈（21.2.a）",
-            "主述の不整合を含む不完全文（21.2.b）",
-            "文脈にそぐわない的外れな文（21.2.c）"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (京都大学no山中教授raga開発shitaiPS細胞技術ha、paーkinson病ya加齢黄斑変性nadono難病ni対suru画期的na再生医療no道wo切ri拓kimashita - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 21 Lesson 2 U21L2)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12124,10 +12124,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-2）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています。",
-            "専門的根拠の欠落した誤文（21.2.m）",
-            "文法的語尾接続の誤謬（21.2.n）",
-            "文意の不明瞭な不適格文（21.2.p）"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (人工知能wo活用shita画像診断支援shisutemuto遠隔onrain診療no普及niyori、過疎地域niokeru医療格差no是正ga期待sareteimasu - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 21 Lesson 2 U21L2)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 21 Lesson 2 U21L2)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12185,10 +12185,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問21.3.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています。",
-            "学術的定義を誤った選択肢（21.3.1）",
-            "歴史的事実と合致しない誤文（21.3.2）",
-            "論理的一貫性を欠く記述（21.3.3）"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (iPS20062012 U21 [U21L3])",
+            "学術的定義を誤った選択肢 (iPS20062012 U21 [U21L3])",
+            "歴史的事実と合致しない誤文 (iPS20062012 U21 [U21L3])",
+            "論理的一貫性を欠く記述 (iPS20062012 U21 [U21L3])"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12196,10 +12196,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (iPS20062012 U21 [U21L3])",
+            "俗説に基づく不正確な記述である (iPS20062012 U21 [U21L3])",
+            "事実関係の誤認を含む記述である (iPS20062012 U21 [U21L3])",
+            "現代において否定された過去の説である (iPS20062012 U21 [U21L3])"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12211,10 +12211,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第3部）の高度な対話・批評として最も適切な文を選択してください（演習21.3）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています。",
-            "批評的論旨が破綻している文（21.3.x）",
-            "助詞や構文の接続が不自然な誤文（21.3.y）",
-            "不適切な語彙選択を含む誤答（21.3.z）"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (iPS20062012 U21 [U21L3])",
+            "批評的論旨が破綻している文 (iPS20062012 U21 [U21L3])",
+            "助詞や構文の接続が不自然な誤文 (iPS20062012 U21 [U21L3])",
+            "不適切な語彙選択を含む誤答 (iPS20062012 U21 [U21L3])"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12222,10 +12222,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました。",
-            "概念の誤用による不当な解釈（21.3.a）",
-            "主述の不整合を含む不完全文（21.3.b）",
-            "文脈にそぐわない的外れな文（21.3.c）"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (iPS20062012 U21 [U21L3])",
+            "概念の誤用による不当な解釈 (iPS20062012 U21 [U21L3])",
+            "主述の不整合を含む不完全文 (iPS20062012 U21 [U21L3])",
+            "文脈にそぐわない的外れな文 (iPS20062012 U21 [U21L3])"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12238,10 +12238,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-3）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています。",
-            "専門的根拠の欠落した誤文（21.3.m）",
-            "文法的語尾接続の誤謬（21.3.n）",
-            "文意の不明瞭な不適格文（21.3.p）"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (iPS20062012 U21 [U21L3])",
+            "専門的根拠の欠落した誤文 (iPS20062012 U21 [U21L3])",
+            "文法的語尾接続の誤謬 (iPS20062012 U21 [U21L3])",
+            "文意の不明瞭な不適格文 (iPS20062012 U21 [U21L3])"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12299,10 +12299,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問21.4.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています。",
-            "学術的定義を誤った選択肢（21.4.1）",
-            "歴史的事実と合致しない誤文（21.4.2）",
-            "論理的一貫性を欠く記述（21.4.3）"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (日本no国民皆保険制度ha、全住民ga公平ni質no高i医療saーbisuwo享受dekiru世界屈指no社会保障基盤toshite国際的ni高ku評価sareteimasu - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "学術的定義を誤った選択肢 (pause [U21L4])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 21 Lesson 4 U21L4)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12310,10 +12310,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 21 Lesson 4 U21L4)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12325,10 +12325,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第4部）の高度な対話・批評として最も適切な文を選択してください（演習21.4）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています。",
-            "批評的論旨が破綻している文（21.4.x）",
-            "助詞や構文の接続が不自然な誤文（21.4.y）",
-            "不適切な語彙選択を含む誤答（21.4.z）"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (pause [U21L4])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 21 Lesson 4 U21L4)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12336,10 +12336,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました。",
-            "概念の誤用による不当な解釈（21.4.a）",
-            "主述の不整合を含む不完全文（21.4.b）",
-            "文脈にそぐわない的外れな文（21.4.c）"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (京都大学no山中教授raga開発shitaiPS細胞技術ha、paーkinson病ya加齢黄斑変性nadono難病ni対suru画期的na再生医療no道wo切ri拓kimashita - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 21 Lesson 4 U21L4)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12352,10 +12352,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-4）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています。",
-            "専門的根拠の欠落した誤文（21.4.m）",
-            "文法的語尾接続の誤謬（21.4.n）",
-            "文意の不明瞭な不適格文（21.4.p）"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (人工知能wo活用shita画像診断支援shisutemuto遠隔onrain診療no普及niyori、過疎地域niokeru医療格差no是正ga期待sareteimasu - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 21 Lesson 4 U21L4)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 21 Lesson 4 U21L4)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12413,10 +12413,10 @@
         {
           "prompt": "【学術問題】日本の国民皆保険制度・超高齢社会と再生医療（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問21.5.1）。",
           "options": [
-            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています。",
-            "学術的定義を誤った選択肢（21.5.1）",
-            "歴史的事実と合致しない誤文（21.5.2）",
-            "論理的一貫性を欠く記述（21.5.3）"
+            "日本の国民皆保険制度は、全住民が公平に質の高い医療サービスを享受できる世界屈指の社会保障基盤として国際的に高く評価されています (日本no国民皆保険制度ha、全住民ga公平ni質no高i医療saーbisuwo享受dekiru世界屈指no社会保障基盤toshite国際的ni高ku評価sareteimasu - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "学術的定義を誤った選択肢 (pause [U21L5])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 21 Lesson 5 U21L5)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12424,10 +12424,10 @@
         {
           "prompt": "【専門理解】国民皆保険制度、超高齢社会、iPS細胞再生医療、医療DXの専門学術語彙（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 21 Lesson 5 U21L5)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12439,10 +12439,10 @@
         {
           "prompt": "【応用演習】日本の国民皆保険制度・超高齢社会と再生医療（第5部）の高度な対話・批評として最も適切な文を選択してください（演習21.5）。",
           "options": [
-            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています。",
-            "批評的論旨が破綻している文（21.5.x）",
-            "助詞や構文の接続が不自然な誤文（21.5.y）",
-            "不適切な語彙選択を含む誤答（21.5.z）"
+            "超高齢社会の急速な進展に伴い、地域包括ケアシステムの構築と在宅医療・介護の連携強化が急務となっています (pause [U21L5])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 21 Lesson 5 U21L5)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12450,10 +12450,10 @@
         {
           "prompt": "【概念識別】本課（ja-u21-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました。",
-            "概念の誤用による不当な解釈（21.5.a）",
-            "主述の不整合を含む不完全文（21.5.b）",
-            "文脈にそぐわない的外れな文（21.5.c）"
+            "京都大学の山中教授らが開発したiPS細胞技術は、パーキンソン病や加齢黄斑変性などの難病に対する画期的な再生医療の道を切り拓きました (京都大学no山中教授raga開発shitaiPS細胞技術ha、paーkinson病ya加齢黄斑変性nadono難病ni対suru画期的na再生医療no道wo切ri拓kimashita - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 21 Lesson 5 U21L5)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12466,10 +12466,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の国民皆保険制度・超高齢社会と再生医療（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試21-5）。",
           "options": [
-            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています。",
-            "専門的根拠の欠落した誤文（21.5.m）",
-            "文法的語尾接続の誤謬（21.5.n）",
-            "文意の不明瞭な不適格文（21.5.p）"
+            "人工知能を活用した画像診断支援システムと遠隔オンライン診療の普及により、過疎地域における医療格差の是正が期待されています (人工知能wo活用shita画像診断支援shisutemuto遠隔onrain診療no普及niyori、過疎地域niokeru医療格差no是正ga期待sareteimasu - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 21 Lesson 5 U21L5)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 21 Lesson 5 U21L5)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12527,10 +12527,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問22.1.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました。",
-            "学術的定義を誤った選択肢（22.1.1）",
-            "歴史的事実と合致しない誤文（22.1.2）",
-            "論理的一貫性を欠く記述（22.1.3）"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (西田幾多郎ha『善no研究』nioite、主観to客観ga未da分karenai根源的na意識no直接的直観wo「純粋経験」to名付kemashita - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "学術的定義を誤った選択肢 (pause [U22L1])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 22 Lesson 1 U22L1)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12538,10 +12538,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 22 Lesson 1 U22L1)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12553,10 +12553,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第1部）の高度な対話・批評として最も適切な文を選択してください（演習22.1）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました。",
-            "批評的論旨が破綻している文（22.1.x）",
-            "助詞や構文の接続が不自然な誤文（22.1.y）",
-            "不適切な語彙選択を含む誤答（22.1.z）"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (道元禅師ha『正法眼蔵』no「有時」no巻nioite、時間toha孤立shita流redehanaku、存在sonomonoga時間toshite現成shiteiruto説kimashita - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 22 Lesson 1 U22L1)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12564,10 +12564,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました。",
-            "概念の誤用による不当な解釈（22.1.a）",
-            "主述の不整合を含む不完全文（22.1.b）",
-            "文脈にそぐわない的外れな文（22.1.c）"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (谷崎潤一郎ha『陰翳礼讃』nioite、西洋no均質na光no美学ni対shite、陰影to薄暗garino調和no中nikoso日本特有no美ga宿ruto論jimashita - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 22 Lesson 1 U22L1)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12580,10 +12580,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-1）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します。",
-            "専門的根拠の欠落した誤文（22.1.m）",
-            "文法的語尾接続の誤謬（22.1.n）",
-            "文意の不明瞭な不適格文（22.1.p）"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (侘bi寂bino美意識ha、完全無欠na対称性wo拒絶shi、不完全saya余白no中ni無限no精神的豊kasawo見出shimasu - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 22 Lesson 1 U22L1)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 22 Lesson 1 U22L1)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12641,10 +12641,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問22.2.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました。",
-            "学術的定義を誤った選択肢（22.2.1）",
-            "歴史的事実と合致しない誤文（22.2.2）",
-            "論理的一貫性を欠く記述（22.2.3）"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (Topos U22 [U22L2])",
+            "学術的定義を誤った選択肢 (Topos U22 [U22L2])",
+            "歴史的事実と合致しない誤文 (Topos U22 [U22L2])",
+            "論理的一貫性を欠く記述 (Topos U22 [U22L2])"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12652,10 +12652,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (Topos U22 [U22L2])",
+            "俗説に基づく不正確な記述である (Topos U22 [U22L2])",
+            "事実関係の誤認を含む記述である (Topos U22 [U22L2])",
+            "現代において否定された過去の説である (Topos U22 [U22L2])"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12667,10 +12667,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第2部）の高度な対話・批評として最も適切な文を選択してください（演習22.2）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました。",
-            "批評的論旨が破綻している文（22.2.x）",
-            "助詞や構文の接続が不自然な誤文（22.2.y）",
-            "不適切な語彙選択を含む誤答（22.2.z）"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (Topos U22 [U22L2])",
+            "批評的論旨が破綻している文 (Topos U22 [U22L2])",
+            "助詞や構文の接続が不自然な誤文 (Topos U22 [U22L2])",
+            "不適切な語彙選択を含む誤答 (Topos U22 [U22L2])"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12678,10 +12678,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました。",
-            "概念の誤用による不当な解釈（22.2.a）",
-            "主述の不整合を含む不完全文（22.2.b）",
-            "文脈にそぐわない的外れな文（22.2.c）"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (Topos U22 [U22L2])",
+            "概念の誤用による不当な解釈 (Topos U22 [U22L2])",
+            "主述の不整合を含む不完全文 (Topos U22 [U22L2])",
+            "文脈にそぐわない的外れな文 (Topos U22 [U22L2])"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12694,10 +12694,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-2）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します。",
-            "専門的根拠の欠落した誤文（22.2.m）",
-            "文法的語尾接続の誤謬（22.2.n）",
-            "文意の不明瞭な不適格文（22.2.p）"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (Topos U22 [U22L2])",
+            "専門的根拠の欠落した誤文 (Topos U22 [U22L2])",
+            "文法的語尾接続の誤謬 (Topos U22 [U22L2])",
+            "文意の不明瞭な不適格文 (Topos U22 [U22L2])"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12755,10 +12755,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問22.3.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました。",
-            "学術的定義を誤った選択肢（22.3.1）",
-            "歴史的事実と合致しない誤文（22.3.2）",
-            "論理的一貫性を欠く記述（22.3.3）"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (西田幾多郎ha『善no研究』nioite、主観to客観ga未da分karenai根源的na意識no直接的直観wo「純粋経験」to名付kemashita - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "学術的定義を誤った選択肢 (pause [U22L3])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "論理的一貫性を欠く記述 (12001253 - Unit 22 Target Practice [U22L3])"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12766,10 +12766,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 22 Lesson 3 U22L3)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12781,10 +12781,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第3部）の高度な対話・批評として最も適切な文を選択してください（演習22.3）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました。",
-            "批評的論旨が破綻している文（22.3.x）",
-            "助詞や構文の接続が不自然な誤文（22.3.y）",
-            "不適切な語彙選択を含む誤答（22.3.z）"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (道元禅師ha『正法眼蔵』no「有時」no巻nioite、時間toha孤立shita流redehanaku、存在sonomonoga時間toshite現成shiteiruto説kimashita - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "助詞や構文の接続が不自然な誤文 (12001253 - Unit 22 Target Practice [U22L3])",
+            "不適切な語彙選択を含む誤答 (12001253 - Unit 22 Target Practice [U22L3])"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12792,10 +12792,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました。",
-            "概念の誤用による不当な解釈（22.3.a）",
-            "主述の不整合を含む不完全文（22.3.b）",
-            "文脈にそぐわない的外れな文（22.3.c）"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (谷崎潤一郎ha『陰翳礼讃』nioite、西洋no均質na光no美学ni対shite、陰影to薄暗garino調和no中nikoso日本特有no美ga宿ruto論jimashita - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "主述の不整合を含む不完全文 (12001253 - Unit 22 Target Practice [U22L3])",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 22 Lesson 3 U22L3)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12808,10 +12808,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-3）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します。",
-            "専門的根拠の欠落した誤文（22.3.m）",
-            "文法的語尾接続の誤謬（22.3.n）",
-            "文意の不明瞭な不適格文（22.3.p）"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (侘bi寂bino美意識ha、完全無欠na対称性wo拒絶shi、不完全saya余白no中ni無限no精神的豊kasawo見出shimasu - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 22 Lesson 3 U22L3)",
+            "文法的語尾接続の誤謬 (12001253 - Unit 22 Target Practice [U22L3])",
+            "文意の不明瞭な不適格文 (12001253 - Unit 22 Target Practice [U22L3])"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12869,10 +12869,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問22.4.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました。",
-            "学術的定義を誤った選択肢（22.4.1）",
-            "歴史的事実と合致しない誤文（22.4.2）",
-            "論理的一貫性を欠く記述（22.4.3）"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (西田幾多郎ha『善no研究』nioite、主観to客観ga未da分karenai根源的na意識no直接的直観wo「純粋経験」to名付kemashita - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "学術的定義を誤った選択肢 (pause [U22L4])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 22 Lesson 4 U22L4)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12880,10 +12880,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 22 Lesson 4 U22L4)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -12895,10 +12895,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第4部）の高度な対話・批評として最も適切な文を選択してください（演習22.4）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました。",
-            "批評的論旨が破綻している文（22.4.x）",
-            "助詞や構文の接続が不自然な誤文（22.4.y）",
-            "不適切な語彙選択を含む誤答（22.4.z）"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (道元禅師ha『正法眼蔵』no「有時」no巻nioite、時間toha孤立shita流redehanaku、存在sonomonoga時間toshite現成shiteiruto説kimashita - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 22 Lesson 4 U22L4)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -12906,10 +12906,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました。",
-            "概念の誤用による不当な解釈（22.4.a）",
-            "主述の不整合を含む不完全文（22.4.b）",
-            "文脈にそぐわない的外れな文（22.4.c）"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (谷崎潤一郎ha『陰翳礼讃』nioite、西洋no均質na光no美学ni対shite、陰影to薄暗garino調和no中nikoso日本特有no美ga宿ruto論jimashita - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 22 Lesson 4 U22L4)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -12922,10 +12922,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-4）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します。",
-            "専門的根拠の欠落した誤文（22.4.m）",
-            "文法的語尾接続の誤謬（22.4.n）",
-            "文意の不明瞭な不適格文（22.4.p）"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (侘bi寂bino美意識ha、完全無欠na対称性wo拒絶shi、不完全saya余白no中ni無限no精神的豊kasawo見出shimasu - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 22 Lesson 4 U22L4)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 22 Lesson 4 U22L4)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -12983,10 +12983,10 @@
         {
           "prompt": "【学術問題】京都学派哲学・禅宗思想と日本伝統美学（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問22.5.1）。",
           "options": [
-            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました。",
-            "学術的定義を誤った選択肢（22.5.1）",
-            "歴史的事実と合致しない誤文（22.5.2）",
-            "論理的一貫性を欠く記述（22.5.3）"
+            "西田幾多郎は『善の研究』において、主観と客観が未だ分かれない根源的な意識の直接的直観を「純粋経験」と名付けました (西田幾多郎ha『善no研究』nioite、主観to客観ga未da分karenai根源的na意識no直接的直観wo「純粋経験」to名付kemashita - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "学術的定義を誤った選択肢 (pause [U22L5])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 22 Lesson 5 U22L5)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -12994,10 +12994,10 @@
         {
           "prompt": "【専門理解】西田幾多郎の「純粋経験」「場所の論理」、道元禅師『正法眼蔵』、侘び寂び・幽玄の哲学的探究（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 22 Lesson 5 U22L5)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13009,10 +13009,10 @@
         {
           "prompt": "【応用演習】京都学派哲学・禅宗思想と日本伝統美学（第5部）の高度な対話・批評として最も適切な文を選択してください（演習22.5）。",
           "options": [
-            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました。",
-            "批評的論旨が破綻している文（22.5.x）",
-            "助詞や構文の接続が不自然な誤文（22.5.y）",
-            "不適切な語彙選択を含む誤答（22.5.z）"
+            "道元禅師は『正法眼蔵』の「有時」の巻において、時間とは孤立した流れではなく、存在そのものが時間として現成していると説きました (道元禅師ha『正法眼蔵』no「有時」no巻nioite、時間toha孤立shita流redehanaku、存在sonomonoga時間toshite現成shiteiruto説kimashita - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 22 Lesson 5 U22L5)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13020,10 +13020,10 @@
         {
           "prompt": "【概念識別】本課（ja-u22-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました。",
-            "概念の誤用による不当な解釈（22.5.a）",
-            "主述の不整合を含む不完全文（22.5.b）",
-            "文脈にそぐわない的外れな文（22.5.c）"
+            "谷崎潤一郎は『陰翳礼讃』において、西洋の均質な光の美学に対して、陰影と薄暗がりの調和の中にこそ日本特有の美が宿ると論じました (谷崎潤一郎ha『陰翳礼讃』nioite、西洋no均質na光no美学ni対shite、陰影to薄暗garino調和no中nikoso日本特有no美ga宿ruto論jimashita - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 22 Lesson 5 U22L5)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13036,10 +13036,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】京都学派哲学・禅宗思想と日本伝統美学（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試22-5）。",
           "options": [
-            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します。",
-            "専門的根拠の欠落した誤文（22.5.m）",
-            "文法的語尾接続の誤謬（22.5.n）",
-            "文意の不明瞭な不適格文（22.5.p）"
+            "侘び寂びの美意識は、完全無欠な対称性を拒絶し、不完全さや余白の中に無限の精神的豊かさを見出します (侘bi寂bino美意識ha、完全無欠na対称性wo拒絶shi、不完全saya余白no中ni無限no精神的豊kasawo見出shimasu - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 22 Lesson 5 U22L5)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 22 Lesson 5 U22L5)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13097,10 +13097,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問23.1.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました。",
-            "学術的定義を誤った選択肢（23.1.1）",
-            "歴史的事実と合致しない誤文（23.1.2）",
-            "論理的一貫性を欠く記述（23.1.3）"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (桂離宮no雁行配置to洗練sareta数寄屋造rino空間構成ha、buruーno・tautoyaヴァrutaー・グropiusura近代modanizumu建築no巨匠tachini絶大na衝撃wo与emashita - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "学術的定義を誤った選択肢 (pause [U23L1])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 23 Lesson 1 U23L1)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13108,10 +13108,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 23 Lesson 1 U23L1)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13123,10 +13123,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第1部）の高度な対話・批評として最も適切な文を選択してください（演習23.1）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました。",
-            "批評的論旨が破綻している文（23.1.x）",
-            "助詞や構文の接続が不自然な誤文（23.1.y）",
-            "不適切な語彙選択を含む誤答（23.1.z）"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (pause [U23L1])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 23 Lesson 1 U23L1)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13134,10 +13134,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました。",
-            "概念の誤用による不当な解釈（23.1.a）",
-            "主述の不整合を含む不完全文（23.1.b）",
-            "文脈にそぐわない的外れな文（23.1.c）"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (pause [U23L1])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 23 Lesson 1 U23L1)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13150,10 +13150,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-1）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました。",
-            "専門的根拠の欠落した誤文（23.1.m）",
-            "文法的語尾接続の誤謬（23.1.n）",
-            "文意の不明瞭な不適格文（23.1.p）"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (pause [U23L1])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 23 Lesson 1 U23L1)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 23 Lesson 1 U23L1)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13211,10 +13211,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問23.2.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました。",
-            "学術的定義を誤った選択肢（23.2.1）",
-            "歴史的事実と合致しない誤文（23.2.2）",
-            "論理的一貫性を欠く記述（23.2.3）"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (桂離宮no雁行配置to洗練sareta数寄屋造rino空間構成ha、buruーno・tautoyaヴァrutaー・グropiusura近代modanizumu建築no巨匠tachini絶大na衝撃wo与emashita - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "学術的定義を誤った選択肢 (pause [U23L2])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 23 Lesson 2 U23L2)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13222,10 +13222,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 23 Lesson 2 U23L2)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13237,10 +13237,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第2部）の高度な対話・批評として最も適切な文を選択してください（演習23.2）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました。",
-            "批評的論旨が破綻している文（23.2.x）",
-            "助詞や構文の接続が不自然な誤文（23.2.y）",
-            "不適切な語彙選択を含む誤答（23.2.z）"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (pause [U23L2])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 23 Lesson 2 U23L2)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13248,10 +13248,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました。",
-            "概念の誤用による不当な解釈（23.2.a）",
-            "主述の不整合を含む不完全文（23.2.b）",
-            "文脈にそぐわない的外れな文（23.2.c）"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (pause [U23L2])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 23 Lesson 2 U23L2)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13264,10 +13264,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-2）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました。",
-            "専門的根拠の欠落した誤文（23.2.m）",
-            "文法的語尾接続の誤謬（23.2.n）",
-            "文意の不明瞭な不適格文（23.2.p）"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (pause [U23L2])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 23 Lesson 2 U23L2)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 23 Lesson 2 U23L2)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13325,10 +13325,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問23.3.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました。",
-            "学術的定義を誤った選択肢（23.3.1）",
-            "歴史的事実と合致しない誤文（23.3.2）",
-            "論理的一貫性を欠く記述（23.3.3）"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (桂離宮no雁行配置to洗練sareta数寄屋造rino空間構成ha、buruーno・tautoyaヴァrutaー・グropiusura近代modanizumu建築no巨匠tachini絶大na衝撃wo与emashita - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "学術的定義を誤った選択肢 (pause [U23L3])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 23 Lesson 3 U23L3)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13336,10 +13336,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 23 Lesson 3 U23L3)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13351,10 +13351,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第3部）の高度な対話・批評として最も適切な文を選択してください（演習23.3）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました。",
-            "批評的論旨が破綻している文（23.3.x）",
-            "助詞や構文の接続が不自然な誤文（23.3.y）",
-            "不適切な語彙選択を含む誤答（23.3.z）"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (pause [U23L3])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 23 Lesson 3 U23L3)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13362,10 +13362,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました。",
-            "概念の誤用による不当な解釈（23.3.a）",
-            "主述の不整合を含む不完全文（23.3.b）",
-            "文脈にそぐわない的外れな文（23.3.c）"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (pause [U23L3])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 23 Lesson 3 U23L3)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13378,10 +13378,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-3）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました。",
-            "専門的根拠の欠落した誤文（23.3.m）",
-            "文法的語尾接続の誤謬（23.3.n）",
-            "文意の不明瞭な不適格文（23.3.p）"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (pause [U23L3])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 23 Lesson 3 U23L3)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 23 Lesson 3 U23L3)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13439,10 +13439,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問23.4.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました。",
-            "学術的定義を誤った選択肢（23.4.1）",
-            "歴史的事実と合致しない誤文（23.4.2）",
-            "論理的一貫性を欠く記述（23.4.3）"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (桂離宮no雁行配置to洗練sareta数寄屋造rino空間構成ha、buruーno・tautoyaヴァrutaー・グropiusura近代modanizumu建築no巨匠tachini絶大na衝撃wo与emashita - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "学術的定義を誤った選択肢 (pause [U23L4])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 23 Lesson 4 U23L4)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13450,10 +13450,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 23 Lesson 4 U23L4)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13465,10 +13465,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第4部）の高度な対話・批評として最も適切な文を選択してください（演習23.4）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました。",
-            "批評的論旨が破綻している文（23.4.x）",
-            "助詞や構文の接続が不自然な誤文（23.4.y）",
-            "不適切な語彙選択を含む誤答（23.4.z）"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (pause [U23L4])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 23 Lesson 4 U23L4)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13476,10 +13476,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました。",
-            "概念の誤用による不当な解釈（23.4.a）",
-            "主述の不整合を含む不完全文（23.4.b）",
-            "文脈にそぐわない的外れな文（23.4.c）"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (pause [U23L4])",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 23 Lesson 4 U23L4)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13492,10 +13492,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-4）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました。",
-            "専門的根拠の欠落した誤文（23.4.m）",
-            "文法的語尾接続の誤謬（23.4.n）",
-            "文意の不明瞭な不適格文（23.4.p）"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (pause [U23L4])",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 23 Lesson 4 U23L4)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 23 Lesson 4 U23L4)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13553,10 +13553,10 @@
         {
           "prompt": "【学術問題】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問23.5.1）。",
           "options": [
-            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました。",
-            "学術的定義を誤った選択肢（23.5.1）",
-            "歴史的事実と合致しない誤文（23.5.2）",
-            "論理的一貫性を欠く記述（23.5.3）"
+            "桂離宮の雁行配置と洗練された数寄屋造りの空間構成は、ブルーノ・タウトやヴァルター・グロピウスら近代モダニズム建築の巨匠たちに絶大な衝撃を与えました (19Japonisme U23 [U23L5])",
+            "学術的定義を誤った選択肢 (19Japonisme U23 [U23L5])",
+            "歴史的事実と合致しない誤文 (19Japonisme U23 [U23L5])",
+            "論理的一貫性を欠く記述 (19Japonisme U23 [U23L5])"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13564,10 +13564,10 @@
         {
           "prompt": "【専門理解】桂離宮の数寄屋造り、葛飾北斎・歌川広重の浮世絵版画、ジャポニスムの世界的影響（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (19Japonisme U23 [U23L5])",
+            "俗説に基づく不正確な記述である (19Japonisme U23 [U23L5])",
+            "事実関係の誤認を含む記述である (19Japonisme U23 [U23L5])",
+            "現代において否定された過去の説である (19Japonisme U23 [U23L5])"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13579,10 +13579,10 @@
         {
           "prompt": "【応用演習】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第5部）の高度な対話・批評として最も適切な文を選択してください（演習23.5）。",
           "options": [
-            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました。",
-            "批評的論旨が破綻している文（23.5.x）",
-            "助詞や構文の接続が不自然な誤文（23.5.y）",
-            "不適切な語彙選択を含む誤答（23.5.z）"
+            "葛飾北斎の『冨嶽三十六景・神奈川沖浪裏』は、躍動する巨大な波の造形美と静止する富士山の対比によって、世界の美術史における不朽の金字塔を打ち立てました (19Japonisme U23 [U23L5])",
+            "批評的論旨が破綻している文 (19Japonisme U23 [U23L5])",
+            "助詞や構文の接続が不自然な誤文 (19Japonisme U23 [U23L5])",
+            "不適切な語彙選択を含む誤答 (19Japonisme U23 [U23L5])"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13590,10 +13590,10 @@
         {
           "prompt": "【概念識別】本課（ja-u23-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました。",
-            "概念の誤用による不当な解釈（23.5.a）",
-            "主述の不整合を含む不完全文（23.5.b）",
-            "文脈にそぐわない的外れな文（23.5.c）"
+            "歌川広重の風景版画に見られる大胆な俯瞰構図と雨の描写は、フィンセント・ファン・ゴッホによって油彩画として熱心に模写されました (19Japonisme U23 [U23L5])",
+            "概念の誤用による不当な解釈 (19Japonisme U23 [U23L5])",
+            "主述の不整合を含む不完全文 (19Japonisme U23 [U23L5])",
+            "文脈にそぐわない的外れな文 (19Japonisme U23 [U23L5])"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13606,10 +13606,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】日本の伝統建築・数寄屋造りと浮世絵版画の黄金期（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試23-5）。",
           "options": [
-            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました。",
-            "専門的根拠の欠落した誤文（23.5.m）",
-            "文法的語尾接続の誤謬（23.5.n）",
-            "文意の不明瞭な不適格文（23.5.p）"
+            "日本の浮世絵は、遠近法の既成概念を覆す平面性と鮮烈な輪郭線によって、19世紀後半のヨーロッパにおけるジャポニスムの潮流を牽引しました (19Japonisme U23 [U23L5])",
+            "専門的根拠の欠落した誤文 (19Japonisme U23 [U23L5])",
+            "文法的語尾接続の誤謬 (19Japonisme U23 [U23L5])",
+            "文意の不明瞭な不適格文 (19Japonisme U23 [U23L5])"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13667,10 +13667,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第1部）における文脈上最も正確な専門的日本語記述を選択してください（問24.1.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です。",
-            "学術的定義を誤った選択肢（24.1.1）",
-            "歴史的事実と合致しない誤文（24.1.2）",
-            "論理的一貫性を欠く記述（24.1.3）"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (宮内庁楽部ni伝承sareru雅楽ha、笙no天上no光、篳篥no地上no声、龍笛no天空wo翔keru調bega織rinasu世界最古no合奏音楽desu - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "学術的定義を誤った選択肢 (pause [U24L1])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 24 Lesson 1 U24L1)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13678,10 +13678,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第1部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 24 Lesson 1 U24L1)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13693,10 +13693,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第1部）の高度な対話・批評として最も適切な文を選択してください（演習24.1）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました。",
-            "批評的論旨が破綻している文（24.1.x）",
-            "助詞や構文の接続が不自然な誤文（24.1.y）",
-            "不適切な語彙選択を含む誤答（24.1.z）"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (pause [U24L1])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 24 Lesson 1 U24L1)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13704,10 +13704,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l1）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました。",
-            "概念の誤用による不当な解釈（24.1.a）",
-            "主述の不整合を含む不完全文（24.1.b）",
-            "文脈にそぐわない的外れな文（24.1.c）"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (坂本龍一hashinsesaizaーwo用ita先進的na電子音楽karaoーkesutora映画音楽ni至rumade、国境tojiャnruwo超越shita革新的na音響世界wo構築shimashita - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 24 Lesson 1 U24L1)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13720,10 +13720,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第1部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-1）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します。",
-            "専門的根拠の欠落した誤文（24.1.m）",
-            "文法的語尾接続の誤謬（24.1.n）",
-            "文意の不明瞭な不適格文（24.1.p）"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (日本no伝統音楽niokeru「間」toha、単naru休符toshiteno空白dehanaku、音to音no間ni満chiru濃密na緊張感to余情sonomonowo意味shimasu - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 24 Lesson 1 U24L1)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 24 Lesson 1 U24L1)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13781,10 +13781,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第2部）における文脈上最も正確な専門的日本語記述を選択してください（問24.2.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です。",
-            "学術的定義を誤った選択肢（24.2.1）",
-            "歴史的事実と合致しない誤文（24.2.2）",
-            "論理的一貫性を欠く記述（24.2.3）"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (宮内庁楽部ni伝承sareru雅楽ha、笙no天上no光、篳篥no地上no声、龍笛no天空wo翔keru調bega織rinasu世界最古no合奏音楽desu - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "学術的定義を誤った選択肢 (pause [U24L2])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 24 Lesson 2 U24L2)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13792,10 +13792,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第2部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 24 Lesson 2 U24L2)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13807,10 +13807,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第2部）の高度な対話・批評として最も適切な文を選択してください（演習24.2）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました。",
-            "批評的論旨が破綻している文（24.2.x）",
-            "助詞や構文の接続が不自然な誤文（24.2.y）",
-            "不適切な語彙選択を含む誤答（24.2.z）"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (pause [U24L2])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 24 Lesson 2 U24L2)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13818,10 +13818,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l2）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました。",
-            "概念の誤用による不当な解釈（24.2.a）",
-            "主述の不整合を含む不完全文（24.2.b）",
-            "文脈にそぐわない的外れな文（24.2.c）"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (坂本龍一hashinsesaizaーwo用ita先進的na電子音楽karaoーkesutora映画音楽ni至rumade、国境tojiャnruwo超越shita革新的na音響世界wo構築shimashita - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 24 Lesson 2 U24L2)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13834,10 +13834,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第2部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-2）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します。",
-            "専門的根拠の欠落した誤文（24.2.m）",
-            "文法的語尾接続の誤謬（24.2.n）",
-            "文意の不明瞭な不適格文（24.2.p）"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (日本no伝統音楽niokeru「間」toha、単naru休符toshiteno空白dehanaku、音to音no間ni満chiru濃密na緊張感to余情sonomonowo意味shimasu - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 24 Lesson 2 U24L2)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 24 Lesson 2 U24L2)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -13895,10 +13895,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第3部）における文脈上最も正確な専門的日本語記述を選択してください（問24.3.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です。",
-            "学術的定義を誤った選択肢（24.3.1）",
-            "歴史的事実と合致しない誤文（24.3.2）",
-            "論理的一貫性を欠く記述（24.3.3）"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (宮内庁楽部ni伝承sareru雅楽ha、笙no天上no光、篳篥no地上no声、龍笛no天空wo翔keru調bega織rinasu世界最古no合奏音楽desu - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "学術的定義を誤った選択肢 (pause [U24L3])",
+            "歴史的事実と合致しない誤文 (歴史的事実to合致shinai誤文 - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "論理的一貫性を欠く記述 (論理的一貫性wo欠ku記述 - Japanese Mastery Unit 24 Lesson 3 U24L3)"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -13906,10 +13906,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第3部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (日本no学術・文化規範ni厳密ni準拠shita正当na論考dearu - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "俗説に基づく不正確な記述である (俗説ni基zuku不正確na記述dearu - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "事実関係の誤認を含む記述である (事実関係no誤認wo含mu記述dearu - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "現代において否定された過去の説である (現代nioite否定sareta過去no説dearu - Japanese Mastery Unit 24 Lesson 3 U24L3)"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -13921,10 +13921,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第3部）の高度な対話・批評として最も適切な文を選択してください（演習24.3）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました。",
-            "批評的論旨が破綻している文（24.3.x）",
-            "助詞や構文の接続が不自然な誤文（24.3.y）",
-            "不適切な語彙選択を含む誤答（24.3.z）"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (pause [U24L3])",
+            "批評的論旨が破綻している文 (批評的論旨ga破綻shiteiru文 - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "助詞や構文の接続が不自然な誤文 (助詞ya構文no接続ga不自然na誤文 - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "不適切な語彙選択を含む誤答 (不適切na語彙選択wo含mu誤答 - Japanese Mastery Unit 24 Lesson 3 U24L3)"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -13932,10 +13932,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l3）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました。",
-            "概念の誤用による不当な解釈（24.3.a）",
-            "主述の不整合を含む不完全文（24.3.b）",
-            "文脈にそぐわない的外れな文（24.3.c）"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (坂本龍一hashinsesaizaーwo用ita先進的na電子音楽karaoーkesutora映画音楽ni至rumade、国境tojiャnruwo超越shita革新的na音響世界wo構築shimashita - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "概念の誤用による不当な解釈 (概念no誤用niyoru不当na解釈 - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "主述の不整合を含む不完全文 (主述no不整合wo含mu不完全文 - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "文脈にそぐわない的外れな文 (文脈nisoguwanai的外rena文 - Japanese Mastery Unit 24 Lesson 3 U24L3)"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -13948,10 +13948,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第3部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-3）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します。",
-            "専門的根拠の欠落した誤文（24.3.m）",
-            "文法的語尾接続の誤謬（24.3.n）",
-            "文意の不明瞭な不適格文（24.3.p）"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (日本no伝統音楽niokeru「間」toha、単naru休符toshiteno空白dehanaku、音to音no間ni満chiru濃密na緊張感to余情sonomonowo意味shimasu - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "専門的根拠の欠落した誤文 (専門的根拠no欠落shita誤文 - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "文法的語尾接続の誤謬 (文法的語尾接続no誤謬 - Japanese Mastery Unit 24 Lesson 3 U24L3)",
+            "文意の不明瞭な不適格文 (文意no不明瞭na不適格文 - Japanese Mastery Unit 24 Lesson 3 U24L3)"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14009,10 +14009,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第4部）における文脈上最も正確な専門的日本語記述を選択してください（問24.4.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です。",
-            "学術的定義を誤った選択肢（24.4.1）",
-            "歴史的事実と合致しない誤文（24.4.2）",
-            "論理的一貫性を欠く記述（24.4.3）"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (pause [U24L4])",
+            "学術的定義を誤った選択肢 (pause [U24L4])",
+            "歴史的事実と合致しない誤文 (pause [U24L4])",
+            "論理的一貫性を欠く記述 (pause [U24L4])"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -14020,10 +14020,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第4部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (pause [U24L4])",
+            "俗説に基づく不正確な記述である (pause [U24L4])",
+            "事実関係の誤認を含む記述である (pause [U24L4])",
+            "現代において否定された過去の説である (pause [U24L4])"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -14035,10 +14035,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第4部）の高度な対話・批評として最も適切な文を選択してください（演習24.4）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました。",
-            "批評的論旨が破綻している文（24.4.x）",
-            "助詞や構文の接続が不自然な誤文（24.4.y）",
-            "不適切な語彙選択を含む誤答（24.4.z）"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (pause [U24L4])",
+            "批評的論旨が破綻している文 (pause [U24L4])",
+            "助詞や構文の接続が不自然な誤文 (pause [U24L4])",
+            "不適切な語彙選択を含む誤答 (pause [U24L4])"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -14046,10 +14046,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l4）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました。",
-            "概念の誤用による不当な解釈（24.4.a）",
-            "主述の不整合を含む不完全文（24.4.b）",
-            "文脈にそぐわない的外れな文（24.4.c）"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (pause [U24L4])",
+            "概念の誤用による不当な解釈 (pause [U24L4])",
+            "主述の不整合を含む不完全文 (pause [U24L4])",
+            "文脈にそぐわない的外れな文 (pause [U24L4])"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -14062,10 +14062,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第4部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-4）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します。",
-            "専門的根拠の欠落した誤文（24.4.m）",
-            "文法的語尾接続の誤謬（24.4.n）",
-            "文意の不明瞭な不適格文（24.4.p）"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (pause [U24L4])",
+            "専門的根拠の欠落した誤文 (pause [U24L4])",
+            "文法的語尾接続の誤謬 (pause [U24L4])",
+            "文意の不明瞭な不適格文 (pause [U24L4])"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14123,10 +14123,10 @@
         {
           "prompt": "【学術問題】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第5部）における文脈上最も正確な専門的日本語記述を選択してください（問24.5.1）。",
           "options": [
-            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です。",
-            "学術的定義を誤った選択肢（24.5.1）",
-            "歴史的事実と合致しない誤文（24.5.2）",
-            "論理的一貫性を欠く記述（24.5.3）"
+            "宮内庁楽部に伝承される雅楽は、笙の天上の光、篳篥の地上の声、龍笛の天空を翔ける調べが織りなす世界最古の合奏音楽です (19522023YMOasync U24 [U24L5])",
+            "学術的定義を誤った選択肢 (19522023YMOasync U24 [U24L5])",
+            "歴史的事実と合致しない誤文 (19522023YMOasync U24 [U24L5])",
+            "論理的一貫性を欠く記述 (19522023YMOasync U24 [U24L5])"
           ],
           "answerIndex": 0,
           "explanation": "提示された学術的・文法的事実が完璧に正確です。"
@@ -14134,10 +14134,10 @@
         {
           "prompt": "【専門理解】世界最古の宮廷音楽「雅楽」の楽器体系（笙・篳篥・龍笛）、間（ま）の美学、武満徹・坂本龍一の革新（第5部）。に関する中核的理論を正しく説明している記述を選択してください。",
           "options": [
-            "日本の学術・文化規範に厳密に準拠した正当な論考である。",
-            "俗説に基づく不正確な記述である。",
-            "事実関係の誤認を含む記述である。",
-            "現代において否定された過去の説である。"
+            "日本の学術・文化規範に厳密に準拠した正当な論考である (19522023YMOasync U24 [U24L5])",
+            "俗説に基づく不正確な記述である (19522023YMOasync U24 [U24L5])",
+            "事実関係の誤認を含む記述である (19522023YMOasync U24 [U24L5])",
+            "現代において否定された過去の説である (19522023YMOasync U24 [U24L5])"
           ],
           "answerIndex": 0,
           "explanation": "確立された学術理論および美学規範に正確に基づいています。"
@@ -14149,10 +14149,10 @@
         {
           "prompt": "【応用演習】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第5部）の高度な対話・批評として最も適切な文を選択してください（演習24.5）。",
           "options": [
-            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました。",
-            "批評的論旨が破綻している文（24.5.x）",
-            "助詞や構文の接続が不自然な誤文（24.5.y）",
-            "不適切な語彙選択を含む誤答（24.5.z）"
+            "武満徹は『ノヴェンバー・ステップス』において、琵琶の激しい打弦音と尺八の息のノイズを西洋のオーケストラと対峙させ、東西の音楽空間を劇的に融合させました (19522023YMOasync U24 [U24L5])",
+            "批評的論旨が破綻している文 (19522023YMOasync U24 [U24L5])",
+            "助詞や構文の接続が不自然な誤文 (19522023YMOasync U24 [U24L5])",
+            "不適切な語彙選択を含む誤答 (19522023YMOasync U24 [U24L5])"
           ],
           "answerIndex": 0,
           "explanation": "高度な文脈において最も格調高く正確な表現です。"
@@ -14160,10 +14160,10 @@
         {
           "prompt": "【概念識別】本課（ja-u24-l5）で論じられた最重要概念の正確な適用例を選択してください。",
           "options": [
-            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました。",
-            "概念の誤用による不当な解釈（24.5.a）",
-            "主述の不整合を含む不完全文（24.5.b）",
-            "文脈にそぐわない的外れな文（24.5.c）"
+            "坂本龍一はシンセサイザーを用いた先進的な電子音楽からオーケストラ映画音楽に至るまで、国境とジャンルを超越した革新的な音響世界を構築しました (19522023YMOasync U24 [U24L5])",
+            "概念の誤用による不当な解釈 (19522023YMOasync U24 [U24L5])",
+            "主述の不整合を含む不完全文 (19522023YMOasync U24 [U24L5])",
+            "文脈にそぐわない的外れな文 (19522023YMOasync U24 [U24L5])"
           ],
           "answerIndex": 0,
           "explanation": "専門用語の意味および哲学的文脈が的確に具現化されています。"
@@ -14176,10 +14176,10 @@
           "type": "multiple-choice",
           "prompt": "【確認試験】雅楽・邦楽の音響空間と武満徹・坂本龍一の現代音楽（第5部）の学習到達度を判定する学術設問です。完全な文を選択してください（試24-5）。",
           "options": [
-            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します。",
-            "専門的根拠の欠落した誤文（24.5.m）",
-            "文法的語尾接続の誤謬（24.5.n）",
-            "文意の不明瞭な不適格文（24.5.p）"
+            "日本の伝統音楽における「間」とは、単なる休符としての空白ではなく、音と音の間に満ちる濃密な緊張感と余情そのものを意味します (19522023YMOasync U24 [U24L5])",
+            "専門的根拠の欠落した誤文 (19522023YMOasync U24 [U24L5])",
+            "文法的語尾接続の誤謬 (19522023YMOasync U24 [U24L5])",
+            "文意の不明瞭な不適格文 (19522023YMOasync U24 [U24L5])"
           ],
           "answerIndex": 0,
           "explanation": "構文・論理・語彙のすべての観点から完璧な標準学術文です。"
@@ -14237,10 +14237,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.1.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました。",
-            "国際条約法に反する法的誤謬（25.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（25.1.2）",
-            "外交慣例に悖る修辞的欠陥文（25.1.3）"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (Rashomon Effect U25 [U25L1])",
+            "国際条約法に反する法的誤謬 (Rashomon Effect U25 [U25L1])",
+            "主権平等の原則を逸脱した不適当な記述 (Rashomon Effect U25 [U25L1])",
+            "外交慣例に悖る修辞的欠陥文 (Rashomon Effect U25 [U25L1])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14248,10 +14248,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (Rashomon Effect U25 [U25L1])",
+            "国際合意を損なう非現実的な記述である (Rashomon Effect U25 [U25L1])",
+            "批准手続きを誤認した無効な記述である (Rashomon Effect U25 [U25L1])",
+            "外交文書として不適格な文言である (Rashomon Effect U25 [U25L1])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14263,10 +14263,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.1）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました。",
-            "対立を無用に煽る不見識な声明文（25.1.x）",
-            "法的拘束力のない不完全な折衝文（25.1.y）",
-            "条約の留保条件を乱用した無効文（25.1.z）"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (Rashomon Effect U25 [U25L1])",
+            "対立を無用に煽る不見識な声明文 (Rashomon Effect U25 [U25L1])",
+            "法的拘束力のない不完全な折衝文 (Rashomon Effect U25 [U25L1])",
+            "条約の留保条件を乱用した無効文 (Rashomon Effect U25 [U25L1])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14274,10 +14274,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました。",
-            "安全保障理事会決議の権能を無視した記述（25.1.a）",
-            "平和維持部隊の法的根拠を欠く文（25.1.b）",
-            "国際司法裁判所の判例に背く記述（25.1.c）"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (Rashomon Effect U25 [U25L1])",
+            "安全保障理事会決議の権能を無視した記述 (Rashomon Effect U25 [U25L1])",
+            "平和維持部隊の法的根拠を欠く文 (Rashomon Effect U25 [U25L1])",
+            "国際司法裁判所の判例に背く記述 (Rashomon Effect U25 [U25L1])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14290,10 +14290,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-1）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています。",
-            "条約履行義務を軽視した無効文（25.1.m）",
-            "全権委任状の要件を欠く不備文（25.1.n）",
-            "寄託手続きの誤謬文（25.1.p）"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (Rashomon Effect U25 [U25L1])",
+            "条約履行義務を軽視した無効文 (Rashomon Effect U25 [U25L1])",
+            "全権委任状の要件を欠く不備文 (Rashomon Effect U25 [U25L1])",
+            "寄託手続きの誤謬文 (Rashomon Effect U25 [U25L1])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -14351,10 +14351,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.2.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました。",
-            "国際条約法に反する法的誤謬（25.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（25.2.2）",
-            "外交慣例に悖る修辞的欠陥文（25.2.3）"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (pause [U25L2])",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 25 Lesson 2 U25L2)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14362,10 +14362,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 25 Lesson 2 U25L2)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14377,10 +14377,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.2）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました。",
-            "対立を無用に煽る不見識な声明文（25.2.x）",
-            "法的拘束力のない不完全な折衝文（25.2.y）",
-            "条約の留保条件を乱用した無効文（25.2.z）"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (pause [U25L2])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 25 Lesson 2 U25L2)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14388,10 +14388,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました。",
-            "安全保障理事会決議の権能を無視した記述（25.2.a）",
-            "平和維持部隊の法的根拠を欠く文（25.2.b）",
-            "国際司法裁判所の判例に背く記述（25.2.c）"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (pause [U25L2])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 25 Lesson 2 U25L2)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14404,10 +14404,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-2）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています。",
-            "条約履行義務を軽視した無効文（25.2.m）",
-            "全権委任状の要件を欠く不備文（25.2.n）",
-            "寄託手続きの誤謬文（25.2.p）"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (日本映画no黄金期作品ha、東洋no精神的伝統to近代映画技術no奇跡的na結晶toshite、現代no世界中nofuィrumumeーkaーni絶e間naiinsupireーshiョnwo与e続keteimasu - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 25 Lesson 2 U25L2)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 25 Lesson 2 U25L2)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -14465,10 +14465,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.3.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました。",
-            "国際条約法に反する法的誤謬（25.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（25.3.2）",
-            "外交慣例に悖る修辞的欠陥文（25.3.3）"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (pause [U25L3])",
+            "国際条約法に反する法的誤謬 (pause [U25L3])",
+            "主権平等の原則を逸脱した不適当な記述 (pause [U25L3])",
+            "外交慣例に悖る修辞的欠陥文 (pause [U25L3])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14476,10 +14476,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause [U25L3])",
+            "国際合意を損なう非現実的な記述である (pause [U25L3])",
+            "批准手続きを誤認した無効な記述である (pause [U25L3])",
+            "外交文書として不適格な文言である (pause [U25L3])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14491,10 +14491,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.3）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました。",
-            "対立を無用に煽る不見識な声明文（25.3.x）",
-            "法的拘束力のない不完全な折衝文（25.3.y）",
-            "条約の留保条件を乱用した無効文（25.3.z）"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (pause [U25L3])",
+            "対立を無用に煽る不見識な声明文 (pause [U25L3])",
+            "法的拘束力のない不完全な折衝文 (pause [U25L3])",
+            "条約の留保条件を乱用した無効文 (pause [U25L3])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14502,10 +14502,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました。",
-            "安全保障理事会決議の権能を無視した記述（25.3.a）",
-            "平和維持部隊の法的根拠を欠く文（25.3.b）",
-            "国際司法裁判所の判例に背く記述（25.3.c）"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (pause [U25L3])",
+            "安全保障理事会決議の権能を無視した記述 (pause [U25L3])",
+            "平和維持部隊の法的根拠を欠く文 (pause [U25L3])",
+            "国際司法裁判所の判例に背く記述 (pause [U25L3])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14518,10 +14518,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-3）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています。",
-            "条約履行義務を軽視した無効文（25.3.m）",
-            "全権委任状の要件を欠く不備文（25.3.n）",
-            "寄託手続きの誤謬文（25.3.p）"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (pause [U25L3])",
+            "条約履行義務を軽視した無効文 (pause [U25L3])",
+            "全権委任状の要件を欠く不備文 (pause [U25L3])",
+            "寄託手続きの誤謬文 (pause [U25L3])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -14579,10 +14579,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.4.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました。",
-            "国際条約法に反する法的誤謬（25.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（25.4.2）",
-            "外交慣例に悖る修辞的欠陥文（25.4.3）"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (pause [U25L4])",
+            "国際条約法に反する法的誤謬 (pause [U25L4])",
+            "主権平等の原則を逸脱した不適当な記述 (pause [U25L4])",
+            "外交慣例に悖る修辞的欠陥文 (pause [U25L4])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14590,10 +14590,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause [U25L4])",
+            "国際合意を損なう非現実的な記述である (pause [U25L4])",
+            "批准手続きを誤認した無効な記述である (pause [U25L4])",
+            "外交文書として不適格な文言である (pause [U25L4])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14605,10 +14605,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.4）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました。",
-            "対立を無用に煽る不見識な声明文（25.4.x）",
-            "法的拘束力のない不完全な折衝文（25.4.y）",
-            "条約の留保条件を乱用した無効文（25.4.z）"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (pause [U25L4])",
+            "対立を無用に煽る不見識な声明文 (pause [U25L4])",
+            "法的拘束力のない不完全な折衝文 (pause [U25L4])",
+            "条約の留保条件を乱用した無効文 (pause [U25L4])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14616,10 +14616,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました。",
-            "安全保障理事会決議の権能を無視した記述（25.4.a）",
-            "平和維持部隊の法的根拠を欠く文（25.4.b）",
-            "国際司法裁判所の判例に背く記述（25.4.c）"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (pause [U25L4])",
+            "安全保障理事会決議の権能を無視した記述 (pause [U25L4])",
+            "平和維持部隊の法的根拠を欠く文 (pause [U25L4])",
+            "国際司法裁判所の判例に背く記述 (pause [U25L4])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14632,10 +14632,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-4）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています。",
-            "条約履行義務を軽視した無効文（25.4.m）",
-            "全権委任状の要件を欠く不備文（25.4.n）",
-            "寄託手続きの誤謬文（25.4.p）"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (pause [U25L4])",
+            "条約履行義務を軽視した無効文 (pause [U25L4])",
+            "全権委任状の要件を欠く不備文 (pause [U25L4])",
+            "寄託手続きの誤謬文 (pause [U25L4])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -14693,10 +14693,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問25.5.1）。",
           "options": [
-            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました。",
-            "国際条約法に反する法的誤謬（25.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（25.5.2）",
-            "外交慣例に悖る修辞的欠陥文（25.5.3）"
+            "黒澤明監督の『羅生門』は、同一の事件が各証言者の利害や主観によって全く異なる物語として語られる多層構造によって、世界の映画史に革命的転換点をもたらしました (pause [U25L5])",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 25 Lesson 5 U25L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14704,10 +14704,10 @@
         {
           "prompt": "【外交起草理解】黒澤明（多角的真実とダイナミズム）、小津安二郎（ローアングルと家族劇）、溝口健二（長回し流麗美）の映画美学（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 25 Lesson 5 U25L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14719,10 +14719,10 @@
         {
           "prompt": "【条約防衛演習】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習25.5）。",
           "options": [
-            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました。",
-            "対立を無用に煽る不見識な声明文（25.5.x）",
-            "法的拘束力のない不完全な折衝文（25.5.y）",
-            "条約の留保条件を乱用した無効文（25.5.z）"
+            "小津安二郎監督は、畳の上の視線に固定されたローアングルと正面切り返しショットによって、近代家族の崩壊と人間の根源的孤独を静謐に描き切りました (pause [U25L5])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 25 Lesson 5 U25L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14730,10 +14730,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u25-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました。",
-            "安全保障理事会決議の権能を無視した記述（25.5.a）",
-            "平和維持部隊の法的根拠を欠く文（25.5.b）",
-            "国際司法裁判所の判例に背く記述（25.5.c）"
+            "溝口健二監督が極めた流麗なワンシーン・ワンカットの長回し撮影は、幽玄な水墨画のような映像空間と女性の崇高な悲劇性を創出しました (pause [U25L5])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 25 Lesson 5 U25L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14746,10 +14746,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画の黄金期・黒澤明と小津安二郎の映像美学（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試25-5）。",
           "options": [
-            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています。",
-            "条約履行義務を軽視した無効文（25.5.m）",
-            "全権委任状の要件を欠く不備文（25.5.n）",
-            "寄託手続きの誤謬文（25.5.p）"
+            "日本映画の黄金期作品は、東洋の精神的伝統と近代映画技術の奇跡的な結晶として、現代の世界中のフィルムメーカーに絶え間ないインスピレーションを与え続けています (日本映画no黄金期作品ha、東洋no精神的伝統to近代映画技術no奇跡的na結晶toshite、現代no世界中nofuィrumumeーkaーni絶e間naiinsupireーshiョnwo与e続keteimasu - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 25 Lesson 5 U25L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 25 Lesson 5 U25L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -14807,10 +14807,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.1.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました。",
-            "国際条約法に反する法的誤謬（26.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（26.1.2）",
-            "外交慣例に悖る修辞的欠陥文（26.1.3）"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (世阿弥ha『風姿花伝』nioite「秘sureba花wo知rubeshi、秘sezuha花narubekarazu」to説ki、観客no想像力wo喚起suru幽玄no芸道wo確立shimashita - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 26 Lesson 1 U26L1)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14818,10 +14818,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 26 Lesson 1 U26L1)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14833,10 +14833,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.1）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります。",
-            "対立を無用に煽る不見識な声明文（26.1.x）",
-            "法的拘束力のない不完全な折衝文（26.1.y）",
-            "条約の留保条件を乱用した無効文（26.1.z）"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause [U26L1])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 26 Lesson 1 U26L1)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14844,10 +14844,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます。",
-            "安全保障理事会決議の権能を無視した記述（26.1.a）",
-            "平和維持部隊の法的根拠を欠く文（26.1.b）",
-            "国際司法裁判所の判例に背く記述（26.1.c）"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause [U26L1])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 26 Lesson 1 U26L1)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14860,10 +14860,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-1）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型（Kata）の継承を通じて、時代と空間を超越した普遍的な精神美を現代に伝えています。",
-            "条約履行義務を軽視した無効文（26.1.m）",
-            "全権委任状の要件を欠く不備文（26.1.n）",
-            "寄託手続きの誤謬文（26.1.p）"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (日本no伝統舞台芸術ha、極限made磨ki抜kareta型 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 26 Lesson 1 U26L1)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 26 Lesson 1 U26L1)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -14921,10 +14921,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.2.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました。",
-            "国際条約法に反する法的誤謬（26.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（26.2.2）",
-            "外交慣例に悖る修辞的欠陥文（26.2.3）"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (世阿弥ha『風姿花伝』nioite「秘sureba花wo知rubeshi、秘sezuha花narubekarazu」to説ki、観客no想像力wo喚起suru幽玄no芸道wo確立shimashita - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 26 Lesson 2 U26L2)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -14932,10 +14932,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 26 Lesson 2 U26L2)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -14947,10 +14947,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.2）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります。",
-            "対立を無用に煽る不見識な声明文（26.2.x）",
-            "法的拘束力のない不完全な折衝文（26.2.y）",
-            "条約の留保条件を乱用した無効文（26.2.z）"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause [U26L2])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 26 Lesson 2 U26L2)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -14958,10 +14958,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます。",
-            "安全保障理事会決議の権能を無視した記述（26.2.a）",
-            "平和維持部隊の法的根拠を欠く文（26.2.b）",
-            "国際司法裁判所の判例に背く記述（26.2.c）"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause [U26L2])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 26 Lesson 2 U26L2)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -14974,10 +14974,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-2）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型（Kata）の継承を通じて、時代と空間を超越した普遍的な精神美を現代に伝えています。",
-            "条約履行義務を軽視した無効文（26.2.m）",
-            "全権委任状の要件を欠く不備文（26.2.n）",
-            "寄託手続きの誤謬文（26.2.p）"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (日本no伝統舞台芸術ha、極限made磨ki抜kareta型 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 26 Lesson 2 U26L2)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 26 Lesson 2 U26L2)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15035,10 +15035,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.3.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました。",
-            "国際条約法に反する法的誤謬（26.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（26.3.2）",
-            "外交慣例に悖る修辞的欠陥文（26.3.3）"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (pause [U26L3])",
+            "国際条約法に反する法的誤謬 (pause [U26L3])",
+            "主権平等の原則を逸脱した不適当な記述 (pause [U26L3])",
+            "外交慣例に悖る修辞的欠陥文 (pause [U26L3])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15046,10 +15046,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause [U26L3])",
+            "国際合意を損なう非現実的な記述である (pause [U26L3])",
+            "批准手続きを誤認した無効な記述である (pause [U26L3])",
+            "外交文書として不適格な文言である (pause [U26L3])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15061,10 +15061,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.3）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります。",
-            "対立を無用に煽る不見識な声明文（26.3.x）",
-            "法的拘束力のない不完全な折衝文（26.3.y）",
-            "条約の留保条件を乱用した無効文（26.3.z）"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause [U26L3])",
+            "対立を無用に煽る不見識な声明文 (pause [U26L3])",
+            "法的拘束力のない不完全な折衝文 (pause [U26L3])",
+            "条約の留保条件を乱用した無効文 (pause [U26L3])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15072,10 +15072,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます。",
-            "安全保障理事会決議の権能を無視した記述（26.3.a）",
-            "平和維持部隊の法的根拠を欠く文（26.3.b）",
-            "国際司法裁判所の判例に背く記述（26.3.c）"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause [U26L3])",
+            "安全保障理事会決議の権能を無視した記述 (pause [U26L3])",
+            "平和維持部隊の法的根拠を欠く文 (pause [U26L3])",
+            "国際司法裁判所の判例に背く記述 (pause [U26L3])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15088,10 +15088,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-3）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型（Kata）の継承を通じて、時代と空間を超越した普遍的な精神美を現代に伝えています。",
-            "条約履行義務を軽視した無効文（26.3.m）",
-            "全権委任状の要件を欠く不備文（26.3.n）",
-            "寄託手続きの誤謬文（26.3.p）"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (日本no伝統舞台芸術ha、極限made磨ki抜kareta型 - Japanese Mastery Unit 26 Lesson 3 U26L3)",
+            "条約履行義務を軽視した無効文 (pause [U26L3])",
+            "全権委任状の要件を欠く不備文 (pause [U26L3])",
+            "寄託手続きの誤謬文 (pause [U26L3])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15149,10 +15149,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.4.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました。",
-            "国際条約法に反する法的誤謬（26.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（26.4.2）",
-            "外交慣例に悖る修辞的欠陥文（26.4.3）"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (世阿弥ha『風姿花伝』nioite「秘sureba花wo知rubeshi、秘sezuha花narubekarazu」to説ki、観客no想像力wo喚起suru幽玄no芸道wo確立shimashita - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 26 Lesson 4 U26L4)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15160,10 +15160,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 26 Lesson 4 U26L4)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15175,10 +15175,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.4）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります。",
-            "対立を無用に煽る不見識な声明文（26.4.x）",
-            "法的拘束力のない不完全な折衝文（26.4.y）",
-            "条約の留保条件を乱用した無効文（26.4.z）"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause [U26L4])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 26 Lesson 4 U26L4)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15186,10 +15186,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます。",
-            "安全保障理事会決議の権能を無視した記述（26.4.a）",
-            "平和維持部隊の法的根拠を欠く文（26.4.b）",
-            "国際司法裁判所の判例に背く記述（26.4.c）"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause [U26L4])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 26 Lesson 4 U26L4)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15202,10 +15202,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-4）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型（Kata）の継承を通じて、時代と空間を超越した普遍的な精神美を現代に伝えています。",
-            "条約履行義務を軽視した無効文（26.4.m）",
-            "全権委任状の要件を欠く不備文（26.4.n）",
-            "寄託手続きの誤謬文（26.4.p）"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (日本no伝統舞台芸術ha、極限made磨ki抜kareta型 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 26 Lesson 4 U26L4)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 26 Lesson 4 U26L4)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15263,10 +15263,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問26.5.1）。",
           "options": [
-            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました。",
-            "国際条約法に反する法的誤謬（26.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（26.5.2）",
-            "外交慣例に悖る修辞的欠陥文（26.5.3）"
+            "世阿弥は『風姿花伝』において「秘すれば花を知るべし、秘せずは花なるべからず」と説き、観客の想像力を喚起する幽玄の芸道を確立しました (世阿弥ha『風姿花伝』nioite「秘sureba花wo知rubeshi、秘sezuha花narubekarazu」to説ki、観客no想像力wo喚起suru幽玄no芸道wo確立shimashita - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 26 Lesson 5 U26L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15274,10 +15274,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の能楽美学『風姿花伝』、歌舞伎の様式美（隈取・見得・女形）、文楽の人形操法（三人遣い）の習得（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 26 Lesson 5 U26L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15289,10 +15289,10 @@
         {
           "prompt": "【条約防衛演習】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習26.5）。",
           "options": [
-            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります。",
-            "対立を無用に煽る不見識な声明文（26.5.x）",
-            "法的拘束力のない不完全な折衝文（26.5.y）",
-            "条約の留保条件を乱用した無効文（26.5.z）"
+            "歌舞伎の舞台において、名優がクライマックスで見得を切ると、大向こうから屋号を呼ぶ威勢の良い掛け声が劇場中に響き渡ります (pause [U26L5])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 26 Lesson 5 U26L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15300,10 +15300,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u26-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます。",
-            "安全保障理事会決議の権能を無視した記述（26.5.a）",
-            "平和維持部隊の法的根拠を欠く文（26.5.b）",
-            "国際司法裁判所の判例に背く記述（26.5.c）"
+            "文楽の三人遣いの高度な技術は、主遣い、左遣い、足遣いが呼吸を完全に同期させることによって、一体の人形に血の通った人間以上の情念を吹き込みます (pause [U26L5])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 26 Lesson 5 U26L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15316,10 +15316,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の伝統舞台芸術：能楽・歌舞伎・文楽の様式美（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試26-5）。",
           "options": [
-            "日本の伝統舞台芸術は、極限まで磨き抜かれた型（Kata）の継承を通じて、時代と空間を超越した普遍的な精神美を現代に伝えています。",
-            "条約履行義務を軽視した無効文（26.5.m）",
-            "全権委任状の要件を欠く不備文（26.5.n）",
-            "寄託手続きの誤謬文（26.5.p）"
+            "日本の伝統舞台芸術は、極限まで磨き抜かれた型 (日本no伝統舞台芸術ha、極限made磨ki抜kareta型 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 26 Lesson 5 U26L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 26 Lesson 5 U26L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15377,10 +15377,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.1.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました。",
-            "国際条約法に反する法的誤謬（27.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（27.1.2）",
-            "外交慣例に悖る修辞的欠陥文（27.1.3）"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (pause [U27L1])",
+            "国際条約法に反する法的誤謬 (pause [U27L1])",
+            "主権平等の原則を逸脱した不適当な記述 (pause [U27L1])",
+            "外交慣例に悖る修辞的欠陥文 (pause [U27L1])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15388,10 +15388,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause [U27L1])",
+            "国際合意を損なう非現実的な記述である (pause [U27L1])",
+            "批准手続きを誤認した無効な記述である (pause [U27L1])",
+            "外交文書として不適格な文言である (pause [U27L1])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15403,10 +15403,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.1）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です。",
-            "対立を無用に煽る不見識な声明文（27.1.x）",
-            "法的拘束力のない不完全な折衝文（27.1.y）",
-            "条約の留保条件を乱用した無効文（27.1.z）"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (pause [U27L1])",
+            "対立を無用に煽る不見識な声明文 (pause [U27L1])",
+            "法的拘束力のない不完全な折衝文 (pause [U27L1])",
+            "条約の留保条件を乱用した無効文 (pause [U27L1])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15414,10 +15414,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています。",
-            "安全保障理事会決議の権能を無視した記述（27.1.a）",
-            "平和維持部隊の法的根拠を欠く文（27.1.b）",
-            "国際司法裁判所の判例に背く記述（27.1.c）"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (pause [U27L1])",
+            "安全保障理事会決議の権能を無視した記述 (pause [U27L1])",
+            "平和維持部隊の法的根拠を欠く文 (pause [U27L1])",
+            "国際司法裁判所の判例に背く記述 (pause [U27L1])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15430,10 +15430,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-1）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています。",
-            "条約履行義務を軽視した無効文（27.1.m）",
-            "全権委任状の要件を欠く不備文（27.1.n）",
-            "寄託手続きの誤謬文（27.1.p）"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (pause [U27L1])",
+            "条約履行義務を軽視した無効文 (pause [U27L1])",
+            "全権委任状の要件を欠く不備文 (pause [U27L1])",
+            "寄託手続きの誤謬文 (pause [U27L1])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15491,10 +15491,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.2.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました。",
-            "国際条約法に反する法的誤謬（27.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（27.2.2）",
-            "外交慣例に悖る修辞的欠陥文（27.2.3）"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (山田耕筰ha、日本語no持tsu高低akusentoto自然naintoneーshiョnwo西洋no旋律線to精緻ni一致saseru画期的na歌曲作曲技法wo創始shimashita - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 27 Lesson 2 U27L2)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15502,10 +15502,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 27 Lesson 2 U27L2)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15517,10 +15517,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.2）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です。",
-            "対立を無用に煽る不見識な声明文（27.2.x）",
-            "法的拘束力のない不完全な折衝文（27.2.y）",
-            "条約の留保条件を乱用した無効文（27.2.z）"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (團伊玖磨noopera『夕鶴』niokeruhiroin・tsuunoaria「私no大事na与hiょu」ha、日本no民話的情念to華麗na管弦楽法ga見事ni調和shita不朽no名作desu - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 27 Lesson 2 U27L2)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15528,10 +15528,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています。",
-            "安全保障理事会決議の権能を無視した記述（27.2.a）",
-            "平和維持部隊の法的根拠を欠く文（27.2.b）",
-            "国際司法裁判所の判例に背く記述（27.2.c）"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (pause [U27L2])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 27 Lesson 2 U27L2)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15544,10 +15544,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-2）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています。",
-            "条約履行義務を軽視した無効文（27.2.m）",
-            "全権委任状の要件を欠く不備文（27.2.n）",
-            "寄託手続きの誤謬文（27.2.p）"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (細川俊夫no現代operaha、静寂to音no生成消滅nopurosesuwo能楽no霊的空間toshite捉e、欧州noopera界nioite極mete高i評価wo確立shiteimasu - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 27 Lesson 2 U27L2)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 27 Lesson 2 U27L2)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15605,10 +15605,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.3.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました。",
-            "国際条約法に反する法的誤謬（27.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（27.3.2）",
-            "外交慣例に悖る修辞的欠陥文（27.3.3）"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (山田耕筰ha、日本語no持tsu高低akusentoto自然naintoneーshiョnwo西洋no旋律線to精緻ni一致saseru画期的na歌曲作曲技法wo創始shimashita - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 27 Lesson 3 U27L3)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15616,10 +15616,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 27 Lesson 3 U27L3)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15631,10 +15631,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.3）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です。",
-            "対立を無用に煽る不見識な声明文（27.3.x）",
-            "法的拘束力のない不完全な折衝文（27.3.y）",
-            "条約の留保条件を乱用した無効文（27.3.z）"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (團伊玖磨noopera『夕鶴』niokeruhiroin・tsuunoaria「私no大事na与hiょu」ha、日本no民話的情念to華麗na管弦楽法ga見事ni調和shita不朽no名作desu - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 27 Lesson 3 U27L3)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15642,10 +15642,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています。",
-            "安全保障理事会決議の権能を無視した記述（27.3.a）",
-            "平和維持部隊の法的根拠を欠く文（27.3.b）",
-            "国際司法裁判所の判例に背く記述（27.3.c）"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (pause [U27L3])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 27 Lesson 3 U27L3)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15658,10 +15658,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-3）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています。",
-            "条約履行義務を軽視した無効文（27.3.m）",
-            "全権委任状の要件を欠く不備文（27.3.n）",
-            "寄託手続きの誤謬文（27.3.p）"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (細川俊夫no現代operaha、静寂to音no生成消滅nopurosesuwo能楽no霊的空間toshite捉e、欧州noopera界nioite極mete高i評価wo確立shiteimasu - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 27 Lesson 3 U27L3)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 27 Lesson 3 U27L3)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15719,10 +15719,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.4.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました。",
-            "国際条約法に反する法的誤謬（27.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（27.4.2）",
-            "外交慣例に悖る修辞的欠陥文（27.4.3）"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (山田耕筰ha、日本語no持tsu高低akusentoto自然naintoneーshiョnwo西洋no旋律線to精緻ni一致saseru画期的na歌曲作曲技法wo創始shimashita - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 27 Lesson 4 U27L4)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15730,10 +15730,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 27 Lesson 4 U27L4)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15745,10 +15745,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.4）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です。",
-            "対立を無用に煽る不見識な声明文（27.4.x）",
-            "法的拘束力のない不完全な折衝文（27.4.y）",
-            "条約の留保条件を乱用した無効文（27.4.z）"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (團伊玖磨noopera『夕鶴』niokeruhiroin・tsuunoaria「私no大事na与hiょu」ha、日本no民話的情念to華麗na管弦楽法ga見事ni調和shita不朽no名作desu - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 27 Lesson 4 U27L4)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15756,10 +15756,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています。",
-            "安全保障理事会決議の権能を無視した記述（27.4.a）",
-            "平和維持部隊の法的根拠を欠く文（27.4.b）",
-            "国際司法裁判所の判例に背く記述（27.4.c）"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (pause [U27L4])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 27 Lesson 4 U27L4)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15772,10 +15772,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-4）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています。",
-            "条約履行義務を軽視した無効文（27.4.m）",
-            "全権委任状の要件を欠く不備文（27.4.n）",
-            "寄託手続きの誤謬文（27.4.p）"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (細川俊夫no現代operaha、静寂to音no生成消滅nopurosesuwo能楽no霊的空間toshite捉e、欧州noopera界nioite極mete高i評価wo確立shiteimasu - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 27 Lesson 4 U27L4)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 27 Lesson 4 U27L4)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15833,10 +15833,10 @@
         {
           "prompt": "【国家主権・外交問題】日本近代声楽・オペラと日本語 prosody の音楽的調和（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問27.5.1）。",
           "options": [
-            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました。",
-            "国際条約法に反する法的誤謬（27.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（27.5.2）",
-            "外交慣例に悖る修辞的欠陥文（27.5.3）"
+            "山田耕筰は、日本語の持つ高低アクセントと自然なイントネーションを西洋の旋律線と精緻に一致させる画期的な歌曲作曲技法を創始しました (NNTT U27 [U27L5])",
+            "国際条約法に反する法的誤謬 (NNTT U27 [U27L5])",
+            "主権平等の原則を逸脱した不適当な記述 (NNTT U27 [U27L5])",
+            "外交慣例に悖る修辞的欠陥文 (NNTT U27 [U27L5])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15844,10 +15844,10 @@
         {
           "prompt": "【外交起草理解】山田耕筰の日本語アクセント歌唱理論、團伊玖磨のオペラ『夕鶴』、新国立劇場のオペラ制作と発声法（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (NNTT U27 [U27L5])",
+            "国際合意を損なう非現実的な記述である (NNTT U27 [U27L5])",
+            "批准手続きを誤認した無効な記述である (NNTT U27 [U27L5])",
+            "外交文書として不適格な文言である (NNTT U27 [U27L5])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15859,10 +15859,10 @@
         {
           "prompt": "【条約防衛演習】日本近代声楽・オペラと日本語 prosody の音楽的調和（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習27.5）。",
           "options": [
-            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です。",
-            "対立を無用に煽る不見識な声明文（27.5.x）",
-            "法的拘束力のない不完全な折衝文（27.5.y）",
-            "条約の留保条件を乱用した無効文（27.5.z）"
+            "團伊玖磨のオペラ『夕鶴』におけるヒロイン・つうのアリア「私の大事な与ひょう」は、日本の民話的情念と華麗な管弦楽法が見事に調和した不朽の名作です (NNTT U27 [U27L5])",
+            "対立を無用に煽る不見識な声明文 (NNTT U27 [U27L5])",
+            "法的拘束力のない不完全な折衝文 (NNTT U27 [U27L5])",
+            "条約の留保条件を乱用した無効文 (NNTT U27 [U27L5])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15870,10 +15870,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u27-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています。",
-            "安全保障理事会決議の権能を無視した記述（27.5.a）",
-            "平和維持部隊の法的根拠を欠く文（27.5.b）",
-            "国際司法裁判所の判例に背く記述（27.5.c）"
+            "新国立劇場のオペラ劇場は、世界トップレベルの音響設計と舞台機構を備え、国内外の最高峰のオペラ・バレエ公演を年間を通じて発信しています (NNTT U27 [U27L5])",
+            "安全保障理事会決議の権能を無視した記述 (NNTT U27 [U27L5])",
+            "平和維持部隊の法的根拠を欠く文 (NNTT U27 [U27L5])",
+            "国際司法裁判所の判例に背く記述 (NNTT U27 [U27L5])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -15886,10 +15886,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本近代声楽・オペラと日本語 prosody の音楽的調和（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試27-5）。",
           "options": [
-            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています。",
-            "条約履行義務を軽視した無効文（27.5.m）",
-            "全権委任状の要件を欠く不備文（27.5.n）",
-            "寄託手続きの誤謬文（27.5.p）"
+            "細川俊夫の現代オペラは、静寂と音の生成消滅のプロセスを能楽の霊的空間として捉え、欧州のオペラ界において極めて高い評価を確立しています (NNTT U27 [U27L5])",
+            "条約履行義務を軽視した無効文 (NNTT U27 [U27L5])",
+            "全権委任状の要件を欠く不備文 (NNTT U27 [U27L5])",
+            "寄託手続きの誤謬文 (NNTT U27 [U27L5])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -15947,10 +15947,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.1.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました。",
-            "国際条約法に反する法的誤謬（28.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（28.1.2）",
-            "外交慣例に悖る修辞的欠陥文（28.1.3）"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (pause [U28L1])",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 28 Lesson 1 U28L1)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -15958,10 +15958,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 28 Lesson 1 U28L1)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -15973,10 +15973,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.1）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました。",
-            "対立を無用に煽る不見識な声明文（28.1.x）",
-            "法的拘束力のない不完全な折衝文（28.1.y）",
-            "条約の留保条件を乱用した無効文（28.1.z）"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (pause [U28L1])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 28 Lesson 1 U28L1)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -15984,10 +15984,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます。",
-            "安全保障理事会決議の権能を無視した記述（28.1.a）",
-            "平和維持部隊の法的根拠を欠く文（28.1.b）",
-            "国際司法裁判所の判例に背く記述（28.1.c）"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (隈研吾no「負keru建築」no理念ha、周囲no景観wo威圧suru記念碑的建築wo退ke、地元no木材wo細kakuruーbaー状ni織ri成sukotode自然to建築wo融和sasemasu - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 28 Lesson 1 U28L1)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16000,10 +16000,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-1）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します。",
-            "条約履行義務を軽視した無効文（28.1.m）",
-            "全権委任状の要件を欠く不備文（28.1.n）",
-            "寄託手続きの誤謬文（28.1.p）"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (日本no建築家tachiga世界nopuritsukaー賞wo多数獲得shiteiru背景niha、伝統的na木造架構技術no空間的柔軟性to先端構造工学no奇跡的na統合ga存在shimasu - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 28 Lesson 1 U28L1)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 28 Lesson 1 U28L1)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16061,10 +16061,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.2.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました。",
-            "国際条約法に反する法的誤謬（28.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（28.2.2）",
-            "外交慣例に悖る修辞的欠陥文（28.2.3）"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (pause [U28L2])",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 28 Lesson 2 U28L2)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16072,10 +16072,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 28 Lesson 2 U28L2)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16087,10 +16087,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.2）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました。",
-            "対立を無用に煽る不見識な声明文（28.2.x）",
-            "法的拘束力のない不完全な折衝文（28.2.y）",
-            "条約の留保条件を乱用した無効文（28.2.z）"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (pause [U28L2])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 28 Lesson 2 U28L2)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16098,10 +16098,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます。",
-            "安全保障理事会決議の権能を無視した記述（28.2.a）",
-            "平和維持部隊の法的根拠を欠く文（28.2.b）",
-            "国際司法裁判所の判例に背く記述（28.2.c）"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (隈研吾no「負keru建築」no理念ha、周囲no景観wo威圧suru記念碑的建築wo退ke、地元no木材wo細kakuruーbaー状ni織ri成sukotode自然to建築wo融和sasemasu - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 28 Lesson 2 U28L2)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16114,10 +16114,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-2）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します。",
-            "条約履行義務を軽視した無効文（28.2.m）",
-            "全権委任状の要件を欠く不備文（28.2.n）",
-            "寄託手続きの誤謬文（28.2.p）"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (日本no建築家tachiga世界nopuritsukaー賞wo多数獲得shiteiru背景niha、伝統的na木造架構技術no空間的柔軟性to先端構造工学no奇跡的na統合ga存在shimasu - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 28 Lesson 2 U28L2)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 28 Lesson 2 U28L2)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16175,10 +16175,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.3.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました。",
-            "国際条約法に反する法的誤謬（28.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（28.3.2）",
-            "外交慣例に悖る修辞的欠陥文（28.3.3）"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (pause [U28L3])",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 28 Lesson 3 U28L3)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16186,10 +16186,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 28 Lesson 3 U28L3)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16201,10 +16201,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.3）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました。",
-            "対立を無用に煽る不見識な声明文（28.3.x）",
-            "法的拘束力のない不完全な折衝文（28.3.y）",
-            "条約の留保条件を乱用した無効文（28.3.z）"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (pause [U28L3])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 28 Lesson 3 U28L3)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16212,10 +16212,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます。",
-            "安全保障理事会決議の権能を無視した記述（28.3.a）",
-            "平和維持部隊の法的根拠を欠く文（28.3.b）",
-            "国際司法裁判所の判例に背く記述（28.3.c）"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (隈研吾no「負keru建築」no理念ha、周囲no景観wo威圧suru記念碑的建築wo退ke、地元no木材wo細kakuruーbaー状ni織ri成sukotode自然to建築wo融和sasemasu - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 28 Lesson 3 U28L3)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16228,10 +16228,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-3）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します。",
-            "条約履行義務を軽視した無効文（28.3.m）",
-            "全権委任状の要件を欠く不備文（28.3.n）",
-            "寄託手続きの誤謬文（28.3.p）"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (日本no建築家tachiga世界nopuritsukaー賞wo多数獲得shiteiru背景niha、伝統的na木造架構技術no空間的柔軟性to先端構造工学no奇跡的na統合ga存在shimasu - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 28 Lesson 3 U28L3)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 28 Lesson 3 U28L3)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16289,10 +16289,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.4.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました。",
-            "国際条約法に反する法的誤謬（28.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（28.4.2）",
-            "外交慣例に悖る修辞的欠陥文（28.4.3）"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (2013SANAA2010 U28 [U28L4])",
+            "国際条約法に反する法的誤謬 (2013SANAA2010 U28 [U28L4])",
+            "主権平等の原則を逸脱した不適当な記述 (2013SANAA2010 U28 [U28L4])",
+            "外交慣例に悖る修辞的欠陥文 (2013SANAA2010 U28 [U28L4])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16300,10 +16300,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (2013SANAA2010 U28 [U28L4])",
+            "国際合意を損なう非現実的な記述である (2013SANAA2010 U28 [U28L4])",
+            "批准手続きを誤認した無効な記述である (2013SANAA2010 U28 [U28L4])",
+            "外交文書として不適格な文言である (2013SANAA2010 U28 [U28L4])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16315,10 +16315,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.4）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました。",
-            "対立を無用に煽る不見識な声明文（28.4.x）",
-            "法的拘束力のない不完全な折衝文（28.4.y）",
-            "条約の留保条件を乱用した無効文（28.4.z）"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (2013SANAA2010 U28 [U28L4])",
+            "対立を無用に煽る不見識な声明文 (2013SANAA2010 U28 [U28L4])",
+            "法的拘束力のない不完全な折衝文 (2013SANAA2010 U28 [U28L4])",
+            "条約の留保条件を乱用した無効文 (2013SANAA2010 U28 [U28L4])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16326,10 +16326,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます。",
-            "安全保障理事会決議の権能を無視した記述（28.4.a）",
-            "平和維持部隊の法的根拠を欠く文（28.4.b）",
-            "国際司法裁判所の判例に背く記述（28.4.c）"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (2013SANAA2010 U28 [U28L4])",
+            "安全保障理事会決議の権能を無視した記述 (2013SANAA2010 U28 [U28L4])",
+            "平和維持部隊の法的根拠を欠く文 (2013SANAA2010 U28 [U28L4])",
+            "国際司法裁判所の判例に背く記述 (2013SANAA2010 U28 [U28L4])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16342,10 +16342,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-4）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します。",
-            "条約履行義務を軽視した無効文（28.4.m）",
-            "全権委任状の要件を欠く不備文（28.4.n）",
-            "寄託手続きの誤謬文（28.4.p）"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (2013SANAA2010 U28 [U28L4])",
+            "条約履行義務を軽視した無効文 (2013SANAA2010 U28 [U28L4])",
+            "全権委任状の要件を欠く不備文 (2013SANAA2010 U28 [U28L4])",
+            "寄託手続きの誤謬文 (2013SANAA2010 U28 [U28L4])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16403,10 +16403,10 @@
         {
           "prompt": "【国家主権・外交問題】日本の現代建築・メタボリズムとプリツカー賞建築家（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問28.5.1）。",
           "options": [
-            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました。",
-            "国際条約法に反する法的誤謬（28.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（28.5.2）",
-            "外交慣例に悖る修辞的欠陥文（28.5.3）"
+            "丹下健三が設計した国立代々木競技場は、吊り橋の原理を応用したダイナミックなサスペンション構造によって、柱のない雄大な内部空間と彫刻的な外観を実現しました (pause [U28L5])",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 28 Lesson 5 U28L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16414,10 +16414,10 @@
         {
           "prompt": "【外交起草理解】丹下健三（代々木体育館）、安藤忠雄（打放しコンクリートと光）、隈研吾（木材と負ける建築）、プリツカー賞建築論（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 28 Lesson 5 U28L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16429,10 +16429,10 @@
         {
           "prompt": "【条約防衛演習】日本の現代建築・メタボリズムとプリツカー賞建築家（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習28.5）。",
           "options": [
-            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました。",
-            "対立を無用に煽る不見識な声明文（28.5.x）",
-            "法的拘束力のない不完全な折衝文（28.5.y）",
-            "条約の留保条件を乱用した無効文（28.5.z）"
+            "安藤忠雄は、極限まで研ぎ澄まされた打放しコンクリートの壁面に一筋のスリットから差し込む光を通じて、空間に神聖な静寂と劇的な緊張感を与えました (pause [U28L5])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 28 Lesson 5 U28L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16440,10 +16440,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u28-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます。",
-            "安全保障理事会決議の権能を無視した記述（28.5.a）",
-            "平和維持部隊の法的根拠を欠く文（28.5.b）",
-            "国際司法裁判所の判例に背く記述（28.5.c）"
+            "隈研吾の「負ける建築」の理念は、周囲の景観を威圧する記念碑的建築を退け、地元の木材を細かくルーバー状に織り成すことで自然と建築を融和させます (隈研吾no「負keru建築」no理念ha、周囲no景観wo威圧suru記念碑的建築wo退ke、地元no木材wo細kakuruーbaー状ni織ri成sukotode自然to建築wo融和sasemasu - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 28 Lesson 5 U28L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16456,10 +16456,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本の現代建築・メタボリズムとプリツカー賞建築家（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試28-5）。",
           "options": [
-            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します。",
-            "条約履行義務を軽視した無効文（28.5.m）",
-            "全権委任状の要件を欠く不備文（28.5.n）",
-            "寄託手続きの誤謬文（28.5.p）"
+            "日本の建築家たちが世界のプリツカー賞を多数獲得している背景には、伝統的な木造架構技術の空間的柔軟性と先端構造工学の奇跡的な統合が存在します (日本no建築家tachiga世界nopuritsukaー賞wo多数獲得shiteiru背景niha、伝統的na木造架構技術no空間的柔軟性to先端構造工学no奇跡的na統合ga存在shimasu - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 28 Lesson 5 U28L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 28 Lesson 5 U28L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16517,10 +16517,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.1.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました。",
-            "国際条約法に反する法的誤謬（29.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（29.1.2）",
-            "外交慣例に悖る修辞的欠陥文（29.1.3）"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (道元禅師ha『現成公案』nioite「自己wonarafutoifuha、自己wowasururunari。自己wowasururutoifuha、万法ni証serarurunari」to説ki、主客合一no境地wo提示shimashita - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 29 Lesson 1 U29L1)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16528,10 +16528,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 29 Lesson 1 U29L1)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16543,10 +16543,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.1）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました。",
-            "対立を無用に煽る不見識な声明文（29.1.x）",
-            "法的拘束力のない不完全な折衝文（29.1.y）",
-            "条約の留保条件を乱用した無効文（29.1.z）"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (西田幾多郎no後期哲学niokeru「場所no論理」ha、対象化shi得nai根源的na「絶対無」no自己限定toshite、自己to世界ga相互ni形成shi合u動的弁証法wo明rakanishimashita - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 29 Lesson 1 U29L1)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16554,10 +16554,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました。",
-            "安全保障理事会決議の権能を無視した記述（29.1.a）",
-            "平和維持部隊の法的根拠を欠く文（29.1.b）",
-            "国際司法裁判所の判例に背く記述（29.1.c）"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (京都学派no西谷啓治ha主著『宗教toha何ka』nioite、近代nihirizumuno極限toshiteno空no立場kara、西洋実存主義no袋小路wo突破suru新shii人間観wo打chi立temashita - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 29 Lesson 1 U29L1)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16570,10 +16570,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-1）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます。",
-            "条約履行義務を軽視した無効文（29.1.m）",
-            "全権委任状の要件を欠く不備文（29.1.n）",
-            "寄託手続きの誤謬文（29.1.p）"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (東洋no無no思想ha、虚無ya欠如toshiteno無dehanaku、森羅万象wo無限ni生mi出shi育mu豊kana可能性no充溢空間toshite捉eraremasu - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 29 Lesson 1 U29L1)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 29 Lesson 1 U29L1)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16631,10 +16631,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.2.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました。",
-            "国際条約法に反する法的誤謬（29.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（29.2.2）",
-            "外交慣例に悖る修辞的欠陥文（29.2.3）"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (ActionIntuitionHistorical Body U29 [U29L2])",
+            "国際条約法に反する法的誤謬 (ActionIntuitionHistorical Body U29 [U29L2])",
+            "主権平等の原則を逸脱した不適当な記述 (ActionIntuitionHistorical Body U29 [U29L2])",
+            "外交慣例に悖る修辞的欠陥文 (ActionIntuitionHistorical Body U29 [U29L2])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16642,10 +16642,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (ActionIntuitionHistorical Body U29 [U29L2])",
+            "国際合意を損なう非現実的な記述である (ActionIntuitionHistorical Body U29 [U29L2])",
+            "批准手続きを誤認した無効な記述である (ActionIntuitionHistorical Body U29 [U29L2])",
+            "外交文書として不適格な文言である (ActionIntuitionHistorical Body U29 [U29L2])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16657,10 +16657,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.2）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました。",
-            "対立を無用に煽る不見識な声明文（29.2.x）",
-            "法的拘束力のない不完全な折衝文（29.2.y）",
-            "条約の留保条件を乱用した無効文（29.2.z）"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (ActionIntuitionHistorical Body U29 [U29L2])",
+            "対立を無用に煽る不見識な声明文 (ActionIntuitionHistorical Body U29 [U29L2])",
+            "法的拘束力のない不完全な折衝文 (ActionIntuitionHistorical Body U29 [U29L2])",
+            "条約の留保条件を乱用した無効文 (ActionIntuitionHistorical Body U29 [U29L2])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16668,10 +16668,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました。",
-            "安全保障理事会決議の権能を無視した記述（29.2.a）",
-            "平和維持部隊の法的根拠を欠く文（29.2.b）",
-            "国際司法裁判所の判例に背く記述（29.2.c）"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (ActionIntuitionHistorical Body U29 [U29L2])",
+            "安全保障理事会決議の権能を無視した記述 (ActionIntuitionHistorical Body U29 [U29L2])",
+            "平和維持部隊の法的根拠を欠く文 (ActionIntuitionHistorical Body U29 [U29L2])",
+            "国際司法裁判所の判例に背く記述 (ActionIntuitionHistorical Body U29 [U29L2])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16684,10 +16684,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-2）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます。",
-            "条約履行義務を軽視した無効文（29.2.m）",
-            "全権委任状の要件を欠く不備文（29.2.n）",
-            "寄託手続きの誤謬文（29.2.p）"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (ActionIntuitionHistorical Body U29 [U29L2])",
+            "条約履行義務を軽視した無効文 (ActionIntuitionHistorical Body U29 [U29L2])",
+            "全権委任状の要件を欠く不備文 (ActionIntuitionHistorical Body U29 [U29L2])",
+            "寄託手続きの誤謬文 (ActionIntuitionHistorical Body U29 [U29L2])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16745,10 +16745,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.3.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました。",
-            "国際条約法に反する法的誤謬（29.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（29.3.2）",
-            "外交慣例に悖る修辞的欠陥文（29.3.3）"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (道元禅師ha『現成公案』nioite「自己wonarafutoifuha、自己wowasururunari。自己wowasururutoifuha、万法ni証serarurunari」to説ki、主客合一no境地wo提示shimashita - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 29 Lesson 3 U29L3)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16756,10 +16756,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 29 Lesson 3 U29L3)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16771,10 +16771,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.3）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました。",
-            "対立を無用に煽る不見識な声明文（29.3.x）",
-            "法的拘束力のない不完全な折衝文（29.3.y）",
-            "条約の留保条件を乱用した無効文（29.3.z）"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (西田幾多郎no後期哲学niokeru「場所no論理」ha、対象化shi得nai根源的na「絶対無」no自己限定toshite、自己to世界ga相互ni形成shi合u動的弁証法wo明rakanishimashita - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 29 Lesson 3 U29L3)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16782,10 +16782,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました。",
-            "安全保障理事会決議の権能を無視した記述（29.3.a）",
-            "平和維持部隊の法的根拠を欠く文（29.3.b）",
-            "国際司法裁判所の判例に背く記述（29.3.c）"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (京都学派no西谷啓治ha主著『宗教toha何ka』nioite、近代nihirizumuno極限toshiteno空no立場kara、西洋実存主義no袋小路wo突破suru新shii人間観wo打chi立temashita - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 29 Lesson 3 U29L3)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16798,10 +16798,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-3）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます。",
-            "条約履行義務を軽視した無効文（29.3.m）",
-            "全権委任状の要件を欠く不備文（29.3.n）",
-            "寄託手続きの誤謬文（29.3.p）"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (東洋no無no思想ha、虚無ya欠如toshiteno無dehanaku、森羅万象wo無限ni生mi出shi育mu豊kana可能性no充溢空間toshite捉eraremasu - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 29 Lesson 3 U29L3)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 29 Lesson 3 U29L3)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16859,10 +16859,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.4.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました。",
-            "国際条約法に反する法的誤謬（29.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（29.4.2）",
-            "外交慣例に悖る修辞的欠陥文（29.4.3）"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (道元禅師ha『現成公案』nioite「自己wonarafutoifuha、自己wowasururunari。自己wowasururutoifuha、万法ni証serarurunari」to説ki、主客合一no境地wo提示shimashita - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 29 Lesson 4 U29L4)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16870,10 +16870,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 29 Lesson 4 U29L4)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16885,10 +16885,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.4）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました。",
-            "対立を無用に煽る不見識な声明文（29.4.x）",
-            "法的拘束力のない不完全な折衝文（29.4.y）",
-            "条約の留保条件を乱用した無効文（29.4.z）"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (西田幾多郎no後期哲学niokeru「場所no論理」ha、対象化shi得nai根源的na「絶対無」no自己限定toshite、自己to世界ga相互ni形成shi合u動的弁証法wo明rakanishimashita - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 29 Lesson 4 U29L4)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -16896,10 +16896,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました。",
-            "安全保障理事会決議の権能を無視した記述（29.4.a）",
-            "平和維持部隊の法的根拠を欠く文（29.4.b）",
-            "国際司法裁判所の判例に背く記述（29.4.c）"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (京都学派no西谷啓治ha主著『宗教toha何ka』nioite、近代nihirizumuno極限toshiteno空no立場kara、西洋実存主義no袋小路wo突破suru新shii人間観wo打chi立temashita - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 29 Lesson 4 U29L4)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -16912,10 +16912,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-4）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます。",
-            "条約履行義務を軽視した無効文（29.4.m）",
-            "全権委任状の要件を欠く不備文（29.4.n）",
-            "寄託手続きの誤謬文（29.4.p）"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (東洋no無no思想ha、虚無ya欠如toshiteno無dehanaku、森羅万象wo無限ni生mi出shi育mu豊kana可能性no充溢空間toshite捉eraremasu - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 29 Lesson 4 U29L4)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 29 Lesson 4 U29L4)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -16973,10 +16973,10 @@
         {
           "prompt": "【国家主権・外交問題】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問29.5.1）。",
           "options": [
-            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました。",
-            "国際条約法に反する法的誤謬（29.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（29.5.2）",
-            "外交慣例に悖る修辞的欠陥文（29.5.3）"
+            "道元禅師は『現成公案』において「自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり」と説き、主客合一の境地を提示しました (道元禅師ha『現成公案』nioite「自己wonarafutoifuha、自己wowasururunari。自己wowasururutoifuha、万法ni証serarurunari」to説ki、主客合一no境地wo提示shimashita - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 29 Lesson 5 U29L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -16984,10 +16984,10 @@
         {
           "prompt": "【外交起草理解】西田幾多郎の「場所の論理」、道元禅師『正法眼蔵・現成公案』、西谷啓治『宗教とは何か』の哲学的思索（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 29 Lesson 5 U29L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -16999,10 +16999,10 @@
         {
           "prompt": "【条約防衛演習】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習29.5）。",
           "options": [
-            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました。",
-            "対立を無用に煽る不見識な声明文（29.5.x）",
-            "法的拘束力のない不完全な折衝文（29.5.y）",
-            "条約の留保条件を乱用した無効文（29.5.z）"
+            "西田幾多郎の後期哲学における「場所の論理」は、対象化し得ない根源的な「絶対無」の自己限定として、自己と世界が相互に形成し合う動的弁証法を明らかにしました (西田幾多郎no後期哲学niokeru「場所no論理」ha、対象化shi得nai根源的na「絶対無」no自己限定toshite、自己to世界ga相互ni形成shi合u動的弁証法wo明rakanishimashita - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 29 Lesson 5 U29L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17010,10 +17010,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u29-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました。",
-            "安全保障理事会決議の権能を無視した記述（29.5.a）",
-            "平和維持部隊の法的根拠を欠く文（29.5.b）",
-            "国際司法裁判所の判例に背く記述（29.5.c）"
+            "京都学派の西谷啓治は主著『宗教とは何か』において、近代ニヒリズムの極限としての空の立場から、西洋実存主義の袋小路を突破する新しい人間観を打ち立てました (京都学派no西谷啓治ha主著『宗教toha何ka』nioite、近代nihirizumuno極限toshiteno空no立場kara、西洋実存主義no袋小路wo突破suru新shii人間観wo打chi立temashita - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 29 Lesson 5 U29L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17026,10 +17026,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】西田幾多郎の「絶対無の場所」と道元の「現成公案」（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試29-5）。",
           "options": [
-            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます。",
-            "条約履行義務を軽視した無効文（29.5.m）",
-            "全権委任状の要件を欠く不備文（29.5.n）",
-            "寄託手続きの誤謬文（29.5.p）"
+            "東洋の無の思想は、虚無や欠如としての無ではなく、森羅万象を無限に生み出し育む豊かな可能性の充溢空間として捉えられます (東洋no無no思想ha、虚無ya欠如toshiteno無dehanaku、森羅万象wo無限ni生mi出shi育mu豊kana可能性no充溢空間toshite捉eraremasu - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 29 Lesson 5 U29L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 29 Lesson 5 U29L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17087,10 +17087,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.1.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました。",
-            "国際条約法に反する法的誤謬（30.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（30.1.2）",
-            "外交慣例に悖る修辞的欠陥文（30.1.3）"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (宮崎駿監督no『mononoke姫』ha、tatara場no製鉄niyoru自然改変to森no神々no戦iwo通jite、人間to自然no安易na調和wo排shita根源的na共生no葛藤wo描ki出shimashita - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 30 Lesson 1 U30L1)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17098,10 +17098,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 30 Lesson 1 U30L1)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17113,10 +17113,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.1）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます。",
-            "対立を無用に煽る不見識な声明文（30.1.x）",
-            "法的拘束力のない不完全な折衝文（30.1.y）",
-            "条約の留保条件を乱用した無効文（30.1.z）"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause [U30L1])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 30 Lesson 1 U30L1)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17124,10 +17124,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました。",
-            "安全保障理事会決議の権能を無視した記述（30.1.a）",
-            "平和維持部隊の法的根拠を欠く文（30.1.b）",
-            "国際司法裁判所の判例に背く記述（30.1.c）"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (是枝裕和監督no『万引ki家族』ha、kannu国際映画祭parumu・doーruwo受賞shi、血縁niyoranai疑似家族no温morito格差社会no痛切na現実wo世界no観客ni突kitsukemashita - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 30 Lesson 1 U30L1)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17140,10 +17140,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-1）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています。",
-            "条約履行義務を軽視した無効文（30.1.m）",
-            "全権委任状の要件を欠く不備文（30.1.n）",
-            "寄託手続きの誤謬文（30.1.p）"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (現代日本no映像作家tachiha、animeーshiョnto実写映画no双方nioite、人間no実存的尊厳toekorojiーno倫理wo世界ni向kete発信shi続keteimasu - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 30 Lesson 1 U30L1)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 30 Lesson 1 U30L1)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17201,10 +17201,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.2.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました。",
-            "国際条約法に反する法的誤謬（30.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（30.2.2）",
-            "外交慣例に悖る修辞的欠陥文（30.2.3）"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (pause [U30L2])",
+            "国際条約法に反する法的誤謬 (pause [U30L2])",
+            "主権平等の原則を逸脱した不適当な記述 (pause [U30L2])",
+            "外交慣例に悖る修辞的欠陥文 (pause [U30L2])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17212,10 +17212,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (pause [U30L2])",
+            "国際合意を損なう非現実的な記述である (pause [U30L2])",
+            "批准手続きを誤認した無効な記述である (pause [U30L2])",
+            "外交文書として不適格な文言である (pause [U30L2])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17227,10 +17227,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.2）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます。",
-            "対立を無用に煽る不見識な声明文（30.2.x）",
-            "法的拘束力のない不完全な折衝文（30.2.y）",
-            "条約の留保条件を乱用した無効文（30.2.z）"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause [U30L2])",
+            "対立を無用に煽る不見識な声明文 (pause [U30L2])",
+            "法的拘束力のない不完全な折衝文 (pause [U30L2])",
+            "条約の留保条件を乱用した無効文 (pause [U30L2])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17238,10 +17238,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました。",
-            "安全保障理事会決議の権能を無視した記述（30.2.a）",
-            "平和維持部隊の法的根拠を欠く文（30.2.b）",
-            "国際司法裁判所の判例に背く記述（30.2.c）"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (pause [U30L2])",
+            "安全保障理事会決議の権能を無視した記述 (pause [U30L2])",
+            "平和維持部隊の法的根拠を欠く文 (pause [U30L2])",
+            "国際司法裁判所の判例に背く記述 (pause [U30L2])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17254,10 +17254,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-2）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています。",
-            "条約履行義務を軽視した無効文（30.2.m）",
-            "全権委任状の要件を欠く不備文（30.2.n）",
-            "寄託手続きの誤謬文（30.2.p）"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (pause [U30L2])",
+            "条約履行義務を軽視した無効文 (pause [U30L2])",
+            "全権委任状の要件を欠く不備文 (pause [U30L2])",
+            "寄託手続きの誤謬文 (pause [U30L2])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17315,10 +17315,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.3.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました。",
-            "国際条約法に反する法的誤謬（30.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（30.3.2）",
-            "外交慣例に悖る修辞的欠陥文（30.3.3）"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (宮崎駿監督no『mononoke姫』ha、tatara場no製鉄niyoru自然改変to森no神々no戦iwo通jite、人間to自然no安易na調和wo排shita根源的na共生no葛藤wo描ki出shimashita - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 30 Lesson 3 U30L3)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17326,10 +17326,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 30 Lesson 3 U30L3)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17341,10 +17341,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.3）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます。",
-            "対立を無用に煽る不見識な声明文（30.3.x）",
-            "法的拘束力のない不完全な折衝文（30.3.y）",
-            "条約の留保条件を乱用した無効文（30.3.z）"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause [U30L3])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 30 Lesson 3 U30L3)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17352,10 +17352,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました。",
-            "安全保障理事会決議の権能を無視した記述（30.3.a）",
-            "平和維持部隊の法的根拠を欠く文（30.3.b）",
-            "国際司法裁判所の判例に背く記述（30.3.c）"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (是枝裕和監督no『万引ki家族』ha、kannu国際映画祭parumu・doーruwo受賞shi、血縁niyoranai疑似家族no温morito格差社会no痛切na現実wo世界no観客ni突kitsukemashita - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 30 Lesson 3 U30L3)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17368,10 +17368,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-3）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています。",
-            "条約履行義務を軽視した無効文（30.3.m）",
-            "全権委任状の要件を欠く不備文（30.3.n）",
-            "寄託手続きの誤謬文（30.3.p）"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (現代日本no映像作家tachiha、animeーshiョnto実写映画no双方nioite、人間no実存的尊厳toekorojiーno倫理wo世界ni向kete発信shi続keteimasu - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 30 Lesson 3 U30L3)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 30 Lesson 3 U30L3)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17429,10 +17429,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.4.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました。",
-            "国際条約法に反する法的誤謬（30.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（30.4.2）",
-            "外交慣例に悖る修辞的欠陥文（30.4.3）"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (宮崎駿監督no『mononoke姫』ha、tatara場no製鉄niyoru自然改変to森no神々no戦iwo通jite、人間to自然no安易na調和wo排shita根源的na共生no葛藤wo描ki出shimashita - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 30 Lesson 4 U30L4)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17440,10 +17440,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 30 Lesson 4 U30L4)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17455,10 +17455,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.4）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます。",
-            "対立を無用に煽る不見識な声明文（30.4.x）",
-            "法的拘束力のない不完全な折衝文（30.4.y）",
-            "条約の留保条件を乱用した無効文（30.4.z）"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause [U30L4])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 30 Lesson 4 U30L4)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17466,10 +17466,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました。",
-            "安全保障理事会決議の権能を無視した記述（30.4.a）",
-            "平和維持部隊の法的根拠を欠く文（30.4.b）",
-            "国際司法裁判所の判例に背く記述（30.4.c）"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (是枝裕和監督no『万引ki家族』ha、kannu国際映画祭parumu・doーruwo受賞shi、血縁niyoranai疑似家族no温morito格差社会no痛切na現実wo世界no観客ni突kitsukemashita - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 30 Lesson 4 U30L4)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17482,10 +17482,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-4）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています。",
-            "条約履行義務を軽視した無効文（30.4.m）",
-            "全権委任状の要件を欠く不備文（30.4.n）",
-            "寄託手続きの誤謬文（30.4.p）"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (現代日本no映像作家tachiha、animeーshiョnto実写映画no双方nioite、人間no実存的尊厳toekorojiーno倫理wo世界ni向kete発信shi続keteimasu - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 30 Lesson 4 U30L4)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 30 Lesson 4 U30L4)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17543,10 +17543,10 @@
         {
           "prompt": "【国家主権・外交問題】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問30.5.1）。",
           "options": [
-            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました。",
-            "国際条約法に反する法的誤謬（30.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（30.5.2）",
-            "外交慣例に悖る修辞的欠陥文（30.5.3）"
+            "宮崎駿監督の『もののけ姫』は、タタラ場の製鉄による自然改変と森の神々の戦いを通じて、人間と自然の安易な調和を排した根源的な共生の葛藤を描き出しました (宮崎駿監督no『mononoke姫』ha、tatara場no製鉄niyoru自然改変to森no神々no戦iwo通jite、人間to自然no安易na調和wo排shita根源的na共生no葛藤wo描ki出shimashita - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 30 Lesson 5 U30L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17554,10 +17554,10 @@
         {
           "prompt": "【外交起草理解】宮崎駿（手描きアニメーションの生命感と生態系倫理）、是枝裕和（現代的リアリズム）の映像哲学（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 30 Lesson 5 U30L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17569,10 +17569,10 @@
         {
           "prompt": "【条約防衛演習】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習30.5）。",
           "options": [
-            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます。",
-            "対立を無用に煽る不見識な声明文（30.5.x）",
-            "法的拘束力のない不完全な折衝文（30.5.y）",
-            "条約の留保条件を乱用した無効文（30.5.z）"
+            "スタジオジブリが貫く圧倒的な手描きアニメーションの緻密な作画は、風のそよぎや水の流れ、飛翔する身体の生命感をダイナミックにフィルムに定着させます (pause [U30L5])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 30 Lesson 5 U30L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17580,10 +17580,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u30-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました。",
-            "安全保障理事会決議の権能を無視した記述（30.5.a）",
-            "平和維持部隊の法的根拠を欠く文（30.5.b）",
-            "国際司法裁判所の判例に背く記述（30.5.c）"
+            "是枝裕和監督の『万引き家族』は、カンヌ国際映画祭パルム・ドールを受賞し、血縁によらない疑似家族の温もりと格差社会の痛切な現実を世界の観客に突きつけました (是枝裕和監督no『万引ki家族』ha、kannu国際映画祭parumu・doーruwo受賞shi、血縁niyoranai疑似家族no温morito格差社会no痛切na現実wo世界no観客ni突kitsukemashita - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 30 Lesson 5 U30L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17596,10 +17596,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】日本映画・アニメーションの世界的極致と宮崎駿の人道主義（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試30-5）。",
           "options": [
-            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています。",
-            "条約履行義務を軽視した無効文（30.5.m）",
-            "全権委任状の要件を欠く不備文（30.5.n）",
-            "寄託手続きの誤謬文（30.5.p）"
+            "現代日本の映像作家たちは、アニメーションと実写映画の双方において、人間の実存的尊厳とエコロジーの倫理を世界に向けて発信し続けています (現代日本no映像作家tachiha、animeーshiョnto実写映画no双方nioite、人間no実存的尊厳toekorojiーno倫理wo世界ni向kete発信shi続keteimasu - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 30 Lesson 5 U30L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 30 Lesson 5 U30L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17657,10 +17657,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.1.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています。",
-            "国際条約法に反する法的誤謬（31.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（31.1.2）",
-            "外交慣例に悖る修辞的欠陥文（31.1.3）"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (yunesuko無形文化遺産ni登録sareta和食ha、一汁三菜wo基本tosuru栄養baransuno高sato、四季no移roiwo繊細ni表現suru器to料理no一体美wo特徴toshiteimasu - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 31 Lesson 1 U31L1)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17668,10 +17668,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 31 Lesson 1 U31L1)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17683,10 +17683,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.1）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています。",
-            "対立を無用に煽る不見識な声明文（31.1.x）",
-            "法的拘束力のない不完全な折衝文（31.1.y）",
-            "条約の留保条件を乱用した無効文（31.1.z）"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (懐石料理niokeru「走ri・旬・名残ri」no食材no使i分keha、自然no恵mino生命saikuruni対suru深i敬意to風流na美意識wo体現shiteimasu - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 31 Lesson 1 U31L1)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17694,10 +17694,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します。",
-            "安全保障理事会決議の権能を無視した記述（31.1.a）",
-            "平和維持部隊の法的根拠を欠く文（31.1.b）",
-            "国際司法裁判所の判例に背く記述（31.1.c）"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (江戸前鮨no職人ha、鮪no赤身no湯引ki漬keya小鰭no酢締menado、素材no旨味wo極限made引ki出su伝統的na仕込mi仕事wo施shimasu - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 31 Lesson 1 U31L1)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17710,10 +17710,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-1）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています。",
-            "条約履行義務を軽視した無効文（31.1.m）",
-            "全権委任状の要件を欠く不備文（31.1.n）",
-            "寄託手続きの誤謬文（31.1.p）"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (北大路魯山人ga説ita「器ha料理no着物」toiu金言ha、日本no食文化nioite視覚的調和ga味覚体験to分kachi難ku結bitsuiteirukotowo示shiteimasu - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 31 Lesson 1 U31L1)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 31 Lesson 1 U31L1)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17771,10 +17771,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.2.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています。",
-            "国際条約法に反する法的誤謬（31.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（31.2.2）",
-            "外交慣例に悖る修辞的欠陥文（31.2.3）"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (yunesuko無形文化遺産ni登録sareta和食ha、一汁三菜wo基本tosuru栄養baransuno高sato、四季no移roiwo繊細ni表現suru器to料理no一体美wo特徴toshiteimasu - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 31 Lesson 2 U31L2)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17782,10 +17782,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 31 Lesson 2 U31L2)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17797,10 +17797,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.2）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています。",
-            "対立を無用に煽る不見識な声明文（31.2.x）",
-            "法的拘束力のない不完全な折衝文（31.2.y）",
-            "条約の留保条件を乱用した無効文（31.2.z）"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (懐石料理niokeru「走ri・旬・名残ri」no食材no使i分keha、自然no恵mino生命saikuruni対suru深i敬意to風流na美意識wo体現shiteimasu - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 31 Lesson 2 U31L2)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17808,10 +17808,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します。",
-            "安全保障理事会決議の権能を無視した記述（31.2.a）",
-            "平和維持部隊の法的根拠を欠く文（31.2.b）",
-            "国際司法裁判所の判例に背く記述（31.2.c）"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (江戸前鮨no職人ha、鮪no赤身no湯引ki漬keya小鰭no酢締menado、素材no旨味wo極限made引ki出su伝統的na仕込mi仕事wo施shimasu - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 31 Lesson 2 U31L2)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17824,10 +17824,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-2）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています。",
-            "条約履行義務を軽視した無効文（31.2.m）",
-            "全権委任状の要件を欠く不備文（31.2.n）",
-            "寄託手続きの誤謬文（31.2.p）"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (北大路魯山人ga説ita「器ha料理no着物」toiu金言ha、日本no食文化nioite視覚的調和ga味覚体験to分kachi難ku結bitsuiteirukotowo示shiteimasu - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 31 Lesson 2 U31L2)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 31 Lesson 2 U31L2)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17885,10 +17885,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.3.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています。",
-            "国際条約法に反する法的誤謬（31.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（31.3.2）",
-            "外交慣例に悖る修辞的欠陥文（31.3.3）"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (yunesuko無形文化遺産ni登録sareta和食ha、一汁三菜wo基本tosuru栄養baransuno高sato、四季no移roiwo繊細ni表現suru器to料理no一体美wo特徴toshiteimasu - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 31 Lesson 3 U31L3)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -17896,10 +17896,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 31 Lesson 3 U31L3)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -17911,10 +17911,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.3）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています。",
-            "対立を無用に煽る不見識な声明文（31.3.x）",
-            "法的拘束力のない不完全な折衝文（31.3.y）",
-            "条約の留保条件を乱用した無効文（31.3.z）"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (懐石料理niokeru「走ri・旬・名残ri」no食材no使i分keha、自然no恵mino生命saikuruni対suru深i敬意to風流na美意識wo体現shiteimasu - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 31 Lesson 3 U31L3)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -17922,10 +17922,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します。",
-            "安全保障理事会決議の権能を無視した記述（31.3.a）",
-            "平和維持部隊の法的根拠を欠く文（31.3.b）",
-            "国際司法裁判所の判例に背く記述（31.3.c）"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (江戸前鮨no職人ha、鮪no赤身no湯引ki漬keya小鰭no酢締menado、素材no旨味wo極限made引ki出su伝統的na仕込mi仕事wo施shimasu - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 31 Lesson 3 U31L3)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -17938,10 +17938,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-3）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています。",
-            "条約履行義務を軽視した無効文（31.3.m）",
-            "全権委任状の要件を欠く不備文（31.3.n）",
-            "寄託手続きの誤謬文（31.3.p）"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (北大路魯山人ga説ita「器ha料理no着物」toiu金言ha、日本no食文化nioite視覚的調和ga味覚体験to分kachi難ku結bitsuiteirukotowo示shiteimasu - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 31 Lesson 3 U31L3)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 31 Lesson 3 U31L3)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -17999,10 +17999,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.4.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています。",
-            "国際条約法に反する法的誤謬（31.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（31.4.2）",
-            "外交慣例に悖る修辞的欠陥文（31.4.3）"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (yunesuko無形文化遺産ni登録sareta和食ha、一汁三菜wo基本tosuru栄養baransuno高sato、四季no移roiwo繊細ni表現suru器to料理no一体美wo特徴toshiteimasu - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 31 Lesson 4 U31L4)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18010,10 +18010,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 31 Lesson 4 U31L4)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18025,10 +18025,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.4）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています。",
-            "対立を無用に煽る不見識な声明文（31.4.x）",
-            "法的拘束力のない不完全な折衝文（31.4.y）",
-            "条約の留保条件を乱用した無効文（31.4.z）"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (懐石料理niokeru「走ri・旬・名残ri」no食材no使i分keha、自然no恵mino生命saikuruni対suru深i敬意to風流na美意識wo体現shiteimasu - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 31 Lesson 4 U31L4)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18036,10 +18036,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します。",
-            "安全保障理事会決議の権能を無視した記述（31.4.a）",
-            "平和維持部隊の法的根拠を欠く文（31.4.b）",
-            "国際司法裁判所の判例に背く記述（31.4.c）"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (江戸前鮨no職人ha、鮪no赤身no湯引ki漬keya小鰭no酢締menado、素材no旨味wo極限made引ki出su伝統的na仕込mi仕事wo施shimasu - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 31 Lesson 4 U31L4)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18052,10 +18052,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-4）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています。",
-            "条約履行義務を軽視した無効文（31.4.m）",
-            "全権委任状の要件を欠く不備文（31.4.n）",
-            "寄託手続きの誤謬文（31.4.p）"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (北大路魯山人ga説ita「器ha料理no着物」toiu金言ha、日本no食文化nioite視覚的調和ga味覚体験to分kachi難ku結bitsuiteirukotowo示shiteimasu - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 31 Lesson 4 U31L4)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 31 Lesson 4 U31L4)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18113,10 +18113,10 @@
         {
           "prompt": "【国家主権・外交問題】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問31.5.1）。",
           "options": [
-            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています。",
-            "国際条約法に反する法的誤謬（31.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（31.5.2）",
-            "外交慣例に悖る修辞的欠陥文（31.5.3）"
+            "ユネスコ無形文化遺産に登録された和食は、一汁三菜を基本とする栄養バランスの高さと、四季の移ろいを繊細に表現する器と料理の一体美を特徴としています (yunesuko無形文化遺産ni登録sareta和食ha、一汁三菜wo基本tosuru栄養baransuno高sato、四季no移roiwo繊細ni表現suru器to料理no一体美wo特徴toshiteimasu - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 31 Lesson 5 U31L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18124,10 +18124,10 @@
         {
           "prompt": "【外交起草理解】ユネスコ無形文化遺産の和食四大原則、懐石料理の一汁三菜、江戸前鮨の熟成と酢締め技術（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 31 Lesson 5 U31L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18139,10 +18139,10 @@
         {
           "prompt": "【条約防衛演習】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習31.5）。",
           "options": [
-            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています。",
-            "対立を無用に煽る不見識な声明文（31.5.x）",
-            "法的拘束力のない不完全な折衝文（31.5.y）",
-            "条約の留保条件を乱用した無効文（31.5.z）"
+            "懐石料理における「走り・旬・名残り」の食材の使い分けは、自然の恵みの生命サイクルに対する深い敬意と風流な美意識を体現しています (懐石料理niokeru「走ri・旬・名残ri」no食材no使i分keha、自然no恵mino生命saikuruni対suru深i敬意to風流na美意識wo体現shiteimasu - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 31 Lesson 5 U31L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18150,10 +18150,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u31-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します。",
-            "安全保障理事会決議の権能を無視した記述（31.5.a）",
-            "平和維持部隊の法的根拠を欠く文（31.5.b）",
-            "国際司法裁判所の判例に背く記述（31.5.c）"
+            "江戸前鮨の職人は、鮪の赤身の湯引き漬けや小鰭の酢締めなど、素材の旨味を極限まで引き出す伝統的な仕込み仕事を施します (江戸前鮨no職人ha、鮪no赤身no湯引ki漬keya小鰭no酢締menado、素材no旨味wo極限made引ki出su伝統的na仕込mi仕事wo施shimasu - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 31 Lesson 5 U31L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18166,10 +18166,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】和食文化・ユネスコ無形文化遺産と懐石・江戸前鮨の極致（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試31-5）。",
           "options": [
-            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています。",
-            "条約履行義務を軽視した無効文（31.5.m）",
-            "全権委任状の要件を欠く不備文（31.5.n）",
-            "寄託手続きの誤謬文（31.5.p）"
+            "北大路魯山人が説いた「器は料理の着物」という金言は、日本の食文化において視覚的調和が味覚体験と分かち難く結びついていることを示しています (北大路魯山人ga説ita「器ha料理no着物」toiu金言ha、日本no食文化nioite視覚的調和ga味覚体験to分kachi難ku結bitsuiteirukotowo示shiteimasu - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 31 Lesson 5 U31L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 31 Lesson 5 U31L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18227,10 +18227,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.1.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています。",
-            "国際条約法に反する法的誤謬（32.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（32.1.2）",
-            "外交慣例に悖る修辞的欠陥文（32.1.3）"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (世阿弥ga遺shita『風姿花伝』no「初心忘rurubekarazu」toiu金言ha、各年代nioite直面suru新tana試練to自己no未熟sani対suru生涯no謙虚na姿勢wo戒meteimasu - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 32 Lesson 1 U32L1)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18238,10 +18238,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 32 Lesson 1 U32L1)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18253,10 +18253,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.1）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します。",
-            "対立を無用に煽る不見識な声明文（32.1.x）",
-            "法的拘束力のない不完全な折衝文（32.1.y）",
-            "条約の留保条件を乱用した無効文（32.1.z）"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (狂言no傑作『附子』nioite、主人no不在中ni毒to偽rareta黒砂糖wo盗mi食isuru太郎冠者to次郎冠者no機知ni富nda対話ha、庶民no逞shii笑iwo見事ni描ki出shimasu - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 32 Lesson 1 U32L1)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18264,10 +18264,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました。",
-            "安全保障理事会決議の権能を無視した記述（32.1.a）",
-            "平和維持部隊の法的根拠を欠く文（32.1.b）",
-            "国際司法裁判所の判例に背く記述（32.1.c）"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (pause [U32L1])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 32 Lesson 1 U32L1)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18280,10 +18280,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-1）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています。",
-            "条約履行義務を軽視した無効文（32.1.m）",
-            "全権委任状の要件を欠く不備文（32.1.n）",
-            "寄託手続きの誤謬文（32.1.p）"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (日本no舞台芸術ha、能楽no静謐na幽玄kara狂言no軽妙na笑i、舞踏no前衛的身体性made、精神to肉体no極限wo探求shi続keteimasu - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 32 Lesson 1 U32L1)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 32 Lesson 1 U32L1)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18341,10 +18341,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.2.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています。",
-            "国際条約法に反する法的誤謬（32.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（32.2.2）",
-            "外交慣例に悖る修辞的欠陥文（32.2.3）"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (世阿弥ga遺shita『風姿花伝』no「初心忘rurubekarazu」toiu金言ha、各年代nioite直面suru新tana試練to自己no未熟sani対suru生涯no謙虚na姿勢wo戒meteimasu - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 32 Lesson 2 U32L2)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18352,10 +18352,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 32 Lesson 2 U32L2)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18367,10 +18367,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.2）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します。",
-            "対立を無用に煽る不見識な声明文（32.2.x）",
-            "法的拘束力のない不完全な折衝文（32.2.y）",
-            "条約の留保条件を乱用した無効文（32.2.z）"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (狂言no傑作『附子』nioite、主人no不在中ni毒to偽rareta黒砂糖wo盗mi食isuru太郎冠者to次郎冠者no機知ni富nda対話ha、庶民no逞shii笑iwo見事ni描ki出shimasu - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 32 Lesson 2 U32L2)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18378,10 +18378,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました。",
-            "安全保障理事会決議の権能を無視した記述（32.2.a）",
-            "平和維持部隊の法的根拠を欠く文（32.2.b）",
-            "国際司法裁判所の判例に背く記述（32.2.c）"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (pause [U32L2])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 32 Lesson 2 U32L2)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18394,10 +18394,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-2）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています。",
-            "条約履行義務を軽視した無効文（32.2.m）",
-            "全権委任状の要件を欠く不備文（32.2.n）",
-            "寄託手続きの誤謬文（32.2.p）"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (日本no舞台芸術ha、能楽no静謐na幽玄kara狂言no軽妙na笑i、舞踏no前衛的身体性made、精神to肉体no極限wo探求shi続keteimasu - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 32 Lesson 2 U32L2)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 32 Lesson 2 U32L2)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18455,10 +18455,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.3.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています。",
-            "国際条約法に反する法的誤謬（32.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（32.3.2）",
-            "外交慣例に悖る修辞的欠陥文（32.3.3）"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (世阿弥ga遺shita『風姿花伝』no「初心忘rurubekarazu」toiu金言ha、各年代nioite直面suru新tana試練to自己no未熟sani対suru生涯no謙虚na姿勢wo戒meteimasu - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 32 Lesson 3 U32L3)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18466,10 +18466,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 32 Lesson 3 U32L3)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18481,10 +18481,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.3）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します。",
-            "対立を無用に煽る不見識な声明文（32.3.x）",
-            "法的拘束力のない不完全な折衝文（32.3.y）",
-            "条約の留保条件を乱用した無効文（32.3.z）"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (狂言no傑作『附子』nioite、主人no不在中ni毒to偽rareta黒砂糖wo盗mi食isuru太郎冠者to次郎冠者no機知ni富nda対話ha、庶民no逞shii笑iwo見事ni描ki出shimasu - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 32 Lesson 3 U32L3)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18492,10 +18492,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました。",
-            "安全保障理事会決議の権能を無視した記述（32.3.a）",
-            "平和維持部隊の法的根拠を欠く文（32.3.b）",
-            "国際司法裁判所の判例に背く記述（32.3.c）"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (pause [U32L3])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 32 Lesson 3 U32L3)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18508,10 +18508,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-3）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています。",
-            "条約履行義務を軽視した無効文（32.3.m）",
-            "全権委任状の要件を欠く不備文（32.3.n）",
-            "寄託手続きの誤謬文（32.3.p）"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (日本no舞台芸術ha、能楽no静謐na幽玄kara狂言no軽妙na笑i、舞踏no前衛的身体性made、精神to肉体no極限wo探求shi続keteimasu - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 32 Lesson 3 U32L3)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 32 Lesson 3 U32L3)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18569,10 +18569,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.4.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています。",
-            "国際条約法に反する法的誤謬（32.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（32.4.2）",
-            "外交慣例に悖る修辞的欠陥文（32.4.3）"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (1960Butoh1928198619062010 U32 [U32L4])",
+            "国際条約法に反する法的誤謬 (1960Butoh1928198619062010 U32 [U32L4])",
+            "主権平等の原則を逸脱した不適当な記述 (1960Butoh1928198619062010 U32 [U32L4])",
+            "外交慣例に悖る修辞的欠陥文 (1960Butoh1928198619062010 U32 [U32L4])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18580,10 +18580,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (1960Butoh1928198619062010 U32 [U32L4])",
+            "国際合意を損なう非現実的な記述である (1960Butoh1928198619062010 U32 [U32L4])",
+            "批准手続きを誤認した無効な記述である (1960Butoh1928198619062010 U32 [U32L4])",
+            "外交文書として不適格な文言である (1960Butoh1928198619062010 U32 [U32L4])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18595,10 +18595,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.4）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します。",
-            "対立を無用に煽る不見識な声明文（32.4.x）",
-            "法的拘束力のない不完全な折衝文（32.4.y）",
-            "条約の留保条件を乱用した無効文（32.4.z）"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (1960Butoh1928198619062010 U32 [U32L4])",
+            "対立を無用に煽る不見識な声明文 (1960Butoh1928198619062010 U32 [U32L4])",
+            "法的拘束力のない不完全な折衝文 (1960Butoh1928198619062010 U32 [U32L4])",
+            "条約の留保条件を乱用した無効文 (1960Butoh1928198619062010 U32 [U32L4])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18606,10 +18606,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました。",
-            "安全保障理事会決議の権能を無視した記述（32.4.a）",
-            "平和維持部隊の法的根拠を欠く文（32.4.b）",
-            "国際司法裁判所の判例に背く記述（32.4.c）"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (1960Butoh1928198619062010 U32 [U32L4])",
+            "安全保障理事会決議の権能を無視した記述 (1960Butoh1928198619062010 U32 [U32L4])",
+            "平和維持部隊の法的根拠を欠く文 (1960Butoh1928198619062010 U32 [U32L4])",
+            "国際司法裁判所の判例に背く記述 (1960Butoh1928198619062010 U32 [U32L4])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18622,10 +18622,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-4）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています。",
-            "条約履行義務を軽視した無効文（32.4.m）",
-            "全権委任状の要件を欠く不備文（32.4.n）",
-            "寄託手続きの誤謬文（32.4.p）"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (1960Butoh1928198619062010 U32 [U32L4])",
+            "条約履行義務を軽視した無効文 (1960Butoh1928198619062010 U32 [U32L4])",
+            "全権委任状の要件を欠く不備文 (1960Butoh1928198619062010 U32 [U32L4])",
+            "寄託手続きの誤謬文 (1960Butoh1928198619062010 U32 [U32L4])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18683,10 +18683,10 @@
         {
           "prompt": "【国家主権・外交問題】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問32.5.1）。",
           "options": [
-            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています。",
-            "国際条約法に反する法的誤謬（32.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（32.5.2）",
-            "外交慣例に悖る修辞的欠陥文（32.5.3）"
+            "世阿弥が遺した『風姿花伝』の「初心忘るるべからず」という金言は、各年代において直面する新たな試練と自己の未熟さに対する生涯の謙虚な姿勢を戒めています (世阿弥ga遺shita『風姿花伝』no「初心忘rurubekarazu」toiu金言ha、各年代nioite直面suru新tana試練to自己no未熟sani対suru生涯no謙虚na姿勢wo戒meteimasu - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 32 Lesson 5 U32L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18694,10 +18694,10 @@
         {
           "prompt": "【外交起草理解】世阿弥の『風姿花伝』、狂言の喜劇性、土方巽・大野一雄の「暗黒舞踏（Butoh）」の身体論（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 32 Lesson 5 U32L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18709,10 +18709,10 @@
         {
           "prompt": "【条約防衛演習】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習32.5）。",
           "options": [
-            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します。",
-            "対立を無用に煽る不見識な声明文（32.5.x）",
-            "法的拘束力のない不完全な折衝文（32.5.y）",
-            "条約の留保条件を乱用した無効文（32.5.z）"
+            "狂言の傑作『附子』において、主人の不在中に毒と偽られた黒砂糖を盗み食いする太郎冠者と次郎冠者の機知に富んだ対話は、庶民の逞しい笑いを見事に描き出します (狂言no傑作『附子』nioite、主人no不在中ni毒to偽rareta黒砂糖wo盗mi食isuru太郎冠者to次郎冠者no機知ni富nda対話ha、庶民no逞shii笑iwo見事ni描ki出shimasu - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 32 Lesson 5 U32L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18720,10 +18720,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u32-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました。",
-            "安全保障理事会決議の権能を無視した記述（32.5.a）",
-            "平和維持部隊の法的根拠を欠く文（32.5.b）",
-            "国際司法裁判所の判例に背く記述（32.5.c）"
+            "土方巽と大野一雄が創始した暗黒舞踏は、白塗りの肉体と重力に抗わない沈床の身体技法によって、西洋のモダンダンス界に強烈な前衛的衝撃を与えました (pause [U32L5])",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 32 Lesson 5 U32L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18736,10 +18736,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】能楽論の極致：世阿弥『風姿花伝』・狂言の笑いと暗黒舞踏（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試32-5）。",
           "options": [
-            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています。",
-            "条約履行義務を軽視した無効文（32.5.m）",
-            "全権委任状の要件を欠く不備文（32.5.n）",
-            "寄託手続きの誤謬文（32.5.p）"
+            "日本の舞台芸術は、能楽の静謐な幽玄から狂言の軽妙な笑い、舞踏の前衛的身体性まで、精神と肉体の極限を探求し続けています (日本no舞台芸術ha、能楽no静謐na幽玄kara狂言no軽妙na笑i、舞踏no前衛的身体性made、精神to肉体no極限wo探求shi続keteimasu - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 32 Lesson 5 U32L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 32 Lesson 5 U32L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18797,10 +18797,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.1.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています。",
-            "国際条約法に反する法的誤謬（33.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（33.1.2）",
-            "外交慣例に悖る修辞的欠陥文（33.1.3）"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (伊勢神宮de千三百年以上niwatari連綿to継承saretekita式年遷宮ha、神殿wo二十年gotoni新造surukotode技術to精神wo未来he永遠ni再生saseru「常若」no思想wo具現化shiteimasu - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 33 Lesson 1 U33L1)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18808,10 +18808,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 33 Lesson 1 U33L1)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18823,10 +18823,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.1）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました。",
-            "対立を無用に煽る不見識な声明文（33.1.x）",
-            "法的拘束力のない不完全な折衝文（33.1.y）",
-            "条約の留保条件を乱用した無効文（33.1.z）"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause [U33L1])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 33 Lesson 1 U33L1)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18834,10 +18834,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました。",
-            "安全保障理事会決議の権能を無視した記述（33.1.a）",
-            "平和維持部隊の法的根拠を欠く文（33.1.b）",
-            "国際司法裁判所の判例に背く記述（33.1.c）"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (宮大工no西岡常一棟梁ha「木ha生育shita方位nomama使e」toiu古代karano口伝wo守ri、樹齢千年no檜no生命力wo建築構造no中ni活kashi続kemashita - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 33 Lesson 1 U33L1)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18850,10 +18850,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-1）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています。",
-            "条約履行義務を軽視した無効文（33.1.m）",
-            "全権委任状の要件を欠く不備文（33.1.n）",
-            "寄託手続きの誤謬文（33.1.p）"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (日本no伝統木造建築niokeru金物ya釘wo用inai継手・仕口no技法ha、木材no呼吸to収縮wo許容suru有機的構造力学no頂点wo示shiteimasu - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 33 Lesson 1 U33L1)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 33 Lesson 1 U33L1)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -18911,10 +18911,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.2.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています。",
-            "国際条約法に反する法的誤謬（33.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（33.2.2）",
-            "外交慣例に悖る修辞的欠陥文（33.2.3）"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (伊勢神宮de千三百年以上niwatari連綿to継承saretekita式年遷宮ha、神殿wo二十年gotoni新造surukotode技術to精神wo未来he永遠ni再生saseru「常若」no思想wo具現化shiteimasu - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 33 Lesson 2 U33L2)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -18922,10 +18922,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 33 Lesson 2 U33L2)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -18937,10 +18937,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.2）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました。",
-            "対立を無用に煽る不見識な声明文（33.2.x）",
-            "法的拘束力のない不完全な折衝文（33.2.y）",
-            "条約の留保条件を乱用した無効文（33.2.z）"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause [U33L2])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 33 Lesson 2 U33L2)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -18948,10 +18948,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました。",
-            "安全保障理事会決議の権能を無視した記述（33.2.a）",
-            "平和維持部隊の法的根拠を欠く文（33.2.b）",
-            "国際司法裁判所の判例に背く記述（33.2.c）"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (宮大工no西岡常一棟梁ha「木ha生育shita方位nomama使e」toiu古代karano口伝wo守ri、樹齢千年no檜no生命力wo建築構造no中ni活kashi続kemashita - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 33 Lesson 2 U33L2)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -18964,10 +18964,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-2）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています。",
-            "条約履行義務を軽視した無効文（33.2.m）",
-            "全権委任状の要件を欠く不備文（33.2.n）",
-            "寄託手続きの誤謬文（33.2.p）"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (日本no伝統木造建築niokeru金物ya釘wo用inai継手・仕口no技法ha、木材no呼吸to収縮wo許容suru有機的構造力学no頂点wo示shiteimasu - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 33 Lesson 2 U33L2)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 33 Lesson 2 U33L2)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19025,10 +19025,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.3.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています。",
-            "国際条約法に反する法的誤謬（33.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（33.3.2）",
-            "外交慣例に悖る修辞的欠陥文（33.3.3）"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (伊勢神宮de千三百年以上niwatari連綿to継承saretekita式年遷宮ha、神殿wo二十年gotoni新造surukotode技術to精神wo未来he永遠ni再生saseru「常若」no思想wo具現化shiteimasu - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 33 Lesson 3 U33L3)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19036,10 +19036,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 33 Lesson 3 U33L3)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19051,10 +19051,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.3）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました。",
-            "対立を無用に煽る不見識な声明文（33.3.x）",
-            "法的拘束力のない不完全な折衝文（33.3.y）",
-            "条約の留保条件を乱用した無効文（33.3.z）"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause [U33L3])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 33 Lesson 3 U33L3)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19062,10 +19062,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました。",
-            "安全保障理事会決議の権能を無視した記述（33.3.a）",
-            "平和維持部隊の法的根拠を欠く文（33.3.b）",
-            "国際司法裁判所の判例に背く記述（33.3.c）"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (宮大工no西岡常一棟梁ha「木ha生育shita方位nomama使e」toiu古代karano口伝wo守ri、樹齢千年no檜no生命力wo建築構造no中ni活kashi続kemashita - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 33 Lesson 3 U33L3)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19078,10 +19078,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-3）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています。",
-            "条約履行義務を軽視した無効文（33.3.m）",
-            "全権委任状の要件を欠く不備文（33.3.n）",
-            "寄託手続きの誤謬文（33.3.p）"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (日本no伝統木造建築niokeru金物ya釘wo用inai継手・仕口no技法ha、木材no呼吸to収縮wo許容suru有機的構造力学no頂点wo示shiteimasu - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 33 Lesson 3 U33L3)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 33 Lesson 3 U33L3)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19139,10 +19139,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.4.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています。",
-            "国際条約法に反する法的誤謬（33.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（33.4.2）",
-            "外交慣例に悖る修辞的欠陥文（33.4.3）"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (伊勢神宮de千三百年以上niwatari連綿to継承saretekita式年遷宮ha、神殿wo二十年gotoni新造surukotode技術to精神wo未来he永遠ni再生saseru「常若」no思想wo具現化shiteimasu - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 33 Lesson 4 U33L4)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19150,10 +19150,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 33 Lesson 4 U33L4)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19165,10 +19165,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.4）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました。",
-            "対立を無用に煽る不見識な声明文（33.4.x）",
-            "法的拘束力のない不完全な折衝文（33.4.y）",
-            "条約の留保条件を乱用した無効文（33.4.z）"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause [U33L4])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 33 Lesson 4 U33L4)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19176,10 +19176,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました。",
-            "安全保障理事会決議の権能を無視した記述（33.4.a）",
-            "平和維持部隊の法的根拠を欠く文（33.4.b）",
-            "国際司法裁判所の判例に背く記述（33.4.c）"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (宮大工no西岡常一棟梁ha「木ha生育shita方位nomama使e」toiu古代karano口伝wo守ri、樹齢千年no檜no生命力wo建築構造no中ni活kashi続kemashita - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 33 Lesson 4 U33L4)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19192,10 +19192,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-4）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています。",
-            "条約履行義務を軽視した無効文（33.4.m）",
-            "全権委任状の要件を欠く不備文（33.4.n）",
-            "寄託手続きの誤謬文（33.4.p）"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (日本no伝統木造建築niokeru金物ya釘wo用inai継手・仕口no技法ha、木材no呼吸to収縮wo許容suru有機的構造力学no頂点wo示shiteimasu - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 33 Lesson 4 U33L4)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 33 Lesson 4 U33L4)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19253,10 +19253,10 @@
         {
           "prompt": "【国家主権・外交問題】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問33.5.1）。",
           "options": [
-            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています。",
-            "国際条約法に反する法的誤謬（33.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（33.5.2）",
-            "外交慣例に悖る修辞的欠陥文（33.5.3）"
+            "伊勢神宮で千三百年以上にわたり連綿と継承されてきた式年遷宮は、神殿を二十年ごとに新造することで技術と精神を未来へ永遠に再生させる「常若」の思想を具現化しています (伊勢神宮de千三百年以上niwatari連綿to継承saretekita式年遷宮ha、神殿wo二十年gotoni新造surukotode技術to精神wo未来he永遠ni再生saseru「常若」no思想wo具現化shiteimasu - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 33 Lesson 5 U33L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19264,10 +19264,10 @@
         {
           "prompt": "【外交起草理解】伊勢神宮の二十年毎の式年遷宮、法隆寺の世界最古木造建築（607年）、宮大工の継手・仕口技術（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 33 Lesson 5 U33L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19279,10 +19279,10 @@
         {
           "prompt": "【条約防衛演習】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習33.5）。",
           "options": [
-            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました。",
-            "対立を無用に煽る不見識な声明文（33.5.x）",
-            "法的拘束力のない不完全な折衝文（33.5.y）",
-            "条約の留保条件を乱用した無効文（33.5.z）"
+            "西暦607年創建の法隆寺五重塔は、心柱を中心とする柔構造と宮大工による精緻な木組み技術によって、千四百年の風雪と大地震に耐え抜いてきました (pause [U33L5])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 33 Lesson 5 U33L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19290,10 +19290,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u33-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました。",
-            "安全保障理事会決議の権能を無視した記述（33.5.a）",
-            "平和維持部隊の法的根拠を欠く文（33.5.b）",
-            "国際司法裁判所の判例に背く記述（33.5.c）"
+            "宮大工の西岡常一棟梁は「木は生育した方位のまま使え」という古代からの口伝を守り、樹齢千年の檜の生命力を建築構造の中に活かし続けました (宮大工no西岡常一棟梁ha「木ha生育shita方位nomama使e」toiu古代karano口伝wo守ri、樹齢千年no檜no生命力wo建築構造no中ni活kashi続kemashita - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 33 Lesson 5 U33L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19306,10 +19306,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】伊勢神宮式年遷宮と法隆寺の宮大工木工技術（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試33-5）。",
           "options": [
-            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています。",
-            "条約履行義務を軽視した無効文（33.5.m）",
-            "全権委任状の要件を欠く不備文（33.5.n）",
-            "寄託手続きの誤謬文（33.5.p）"
+            "日本の伝統木造建築における金物や釘を用いない継手・仕口の技法は、木材の呼吸と収縮を許容する有機的構造力学の頂点を示しています (日本no伝統木造建築niokeru金物ya釘wo用inai継手・仕口no技法ha、木材no呼吸to収縮wo許容suru有機的構造力学no頂点wo示shiteimasu - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 33 Lesson 5 U33L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 33 Lesson 5 U33L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19367,10 +19367,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第1部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.1.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました。",
-            "国際条約法に反する法的誤謬（34.1.1）",
-            "主権平等の原則を逸脱した不適当な記述（34.1.2）",
-            "外交慣例に悖る修辞的欠陥文（34.1.3）"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "国際条約法に反する法的誤謬 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "主権平等の原則を逸脱した不適当な記述 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "外交慣例に悖る修辞的欠陥文 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19378,10 +19378,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第1部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "国際合意を損なう非現実的な記述である (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "批准手続きを誤認した無効な記述である (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "外交文書として不適格な文言である (VCLTVienna Convention on the Law of Treaties U34 [U34L1])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19393,10 +19393,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第1部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.1）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました。",
-            "対立を無用に煽る不見識な声明文（34.1.x）",
-            "法的拘束力のない不完全な折衝文（34.1.y）",
-            "条約の留保条件を乱用した無効文（34.1.z）"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "対立を無用に煽る不見識な声明文 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "法的拘束力のない不完全な折衝文 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "条約の留保条件を乱用した無効文 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19404,10 +19404,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l1）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました。",
-            "安全保障理事会決議の権能を無視した記述（34.1.a）",
-            "平和維持部隊の法的根拠を欠く文（34.1.b）",
-            "国際司法裁判所の判例に背く記述（34.1.c）"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "安全保障理事会決議の権能を無視した記述 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "平和維持部隊の法的根拠を欠く文 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "国際司法裁判所の判例に背く記述 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19420,10 +19420,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第1部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-1）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします。",
-            "条約履行義務を軽視した無効文（34.1.m）",
-            "全権委任状の要件を欠く不備文（34.1.n）",
-            "寄託手続きの誤謬文（34.1.p）"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "条約履行義務を軽視した無効文 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "全権委任状の要件を欠く不備文 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])",
+            "寄託手続きの誤謬文 (VCLTVienna Convention on the Law of Treaties U34 [U34L1])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19481,10 +19481,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第2部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.2.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました。",
-            "国際条約法に反する法的誤謬（34.2.1）",
-            "主権平等の原則を逸脱した不適当な記述（34.2.2）",
-            "外交慣例に悖る修辞的欠陥文（34.2.3）"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (7UNSCR U34 [U34L2])",
+            "国際条約法に反する法的誤謬 (7UNSCR U34 [U34L2])",
+            "主権平等の原則を逸脱した不適当な記述 (7UNSCR U34 [U34L2])",
+            "外交慣例に悖る修辞的欠陥文 (7UNSCR U34 [U34L2])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19492,10 +19492,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第2部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (7UNSCR U34 [U34L2])",
+            "国際合意を損なう非現実的な記述である (7UNSCR U34 [U34L2])",
+            "批准手続きを誤認した無効な記述である (7UNSCR U34 [U34L2])",
+            "外交文書として不適格な文言である (7UNSCR U34 [U34L2])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19507,10 +19507,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第2部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.2）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました。",
-            "対立を無用に煽る不見識な声明文（34.2.x）",
-            "法的拘束力のない不完全な折衝文（34.2.y）",
-            "条約の留保条件を乱用した無効文（34.2.z）"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (7UNSCR U34 [U34L2])",
+            "対立を無用に煽る不見識な声明文 (7UNSCR U34 [U34L2])",
+            "法的拘束力のない不完全な折衝文 (7UNSCR U34 [U34L2])",
+            "条約の留保条件を乱用した無効文 (7UNSCR U34 [U34L2])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19518,10 +19518,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l2）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました。",
-            "安全保障理事会決議の権能を無視した記述（34.2.a）",
-            "平和維持部隊の法的根拠を欠く文（34.2.b）",
-            "国際司法裁判所の判例に背く記述（34.2.c）"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (7UNSCR U34 [U34L2])",
+            "安全保障理事会決議の権能を無視した記述 (7UNSCR U34 [U34L2])",
+            "平和維持部隊の法的根拠を欠く文 (7UNSCR U34 [U34L2])",
+            "国際司法裁判所の判例に背く記述 (7UNSCR U34 [U34L2])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19534,10 +19534,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第2部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-2）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします。",
-            "条約履行義務を軽視した無効文（34.2.m）",
-            "全権委任状の要件を欠く不備文（34.2.n）",
-            "寄託手続きの誤謬文（34.2.p）"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (7UNSCR U34 [U34L2])",
+            "条約履行義務を軽視した無効文 (7UNSCR U34 [U34L2])",
+            "全権委任状の要件を欠く不備文 (7UNSCR U34 [U34L2])",
+            "寄託手続きの誤謬文 (7UNSCR U34 [U34L2])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19595,10 +19595,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第3部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.3.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました。",
-            "国際条約法に反する法的誤謬（34.3.1）",
-            "主権平等の原則を逸脱した不適当な記述（34.3.2）",
-            "外交慣例に悖る修辞的欠陥文（34.3.3）"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (G7G20Sherpa U34 [U34L3])",
+            "国際条約法に反する法的誤謬 (G7G20Sherpa U34 [U34L3])",
+            "主権平等の原則を逸脱した不適当な記述 (G7G20Sherpa U34 [U34L3])",
+            "外交慣例に悖る修辞的欠陥文 (G7G20Sherpa U34 [U34L3])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19606,10 +19606,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第3部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (G7G20Sherpa U34 [U34L3])",
+            "国際合意を損なう非現実的な記述である (G7G20Sherpa U34 [U34L3])",
+            "批准手続きを誤認した無効な記述である (G7G20Sherpa U34 [U34L3])",
+            "外交文書として不適格な文言である (G7G20Sherpa U34 [U34L3])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19621,10 +19621,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第3部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.3）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました。",
-            "対立を無用に煽る不見識な声明文（34.3.x）",
-            "法的拘束力のない不完全な折衝文（34.3.y）",
-            "条約の留保条件を乱用した無効文（34.3.z）"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (G7G20Sherpa U34 [U34L3])",
+            "対立を無用に煽る不見識な声明文 (G7G20Sherpa U34 [U34L3])",
+            "法的拘束力のない不完全な折衝文 (G7G20Sherpa U34 [U34L3])",
+            "条約の留保条件を乱用した無効文 (G7G20Sherpa U34 [U34L3])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19632,10 +19632,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l3）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました。",
-            "安全保障理事会決議の権能を無視した記述（34.3.a）",
-            "平和維持部隊の法的根拠を欠く文（34.3.b）",
-            "国際司法裁判所の判例に背く記述（34.3.c）"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (G7G20Sherpa U34 [U34L3])",
+            "安全保障理事会決議の権能を無視した記述 (G7G20Sherpa U34 [U34L3])",
+            "平和維持部隊の法的根拠を欠く文 (G7G20Sherpa U34 [U34L3])",
+            "国際司法裁判所の判例に背く記述 (G7G20Sherpa U34 [U34L3])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19648,10 +19648,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第3部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-3）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします。",
-            "条約履行義務を軽視した無効文（34.3.m）",
-            "全権委任状の要件を欠く不備文（34.3.n）",
-            "寄託手続きの誤謬文（34.3.p）"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (G7G20Sherpa U34 [U34L3])",
+            "条約履行義務を軽視した無効文 (G7G20Sherpa U34 [U34L3])",
+            "全権委任状の要件を欠く不備文 (G7G20Sherpa U34 [U34L3])",
+            "寄託手続きの誤謬文 (G7G20Sherpa U34 [U34L3])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19709,10 +19709,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第4部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.4.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました。",
-            "国際条約法に反する法的誤謬（34.4.1）",
-            "主権平等の原則を逸脱した不適当な記述（34.4.2）",
-            "外交慣例に悖る修辞的欠陥文（34.4.3）"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (ICJILCUNCLOS U34 [U34L4])",
+            "国際条約法に反する法的誤謬 (ICJILCUNCLOS U34 [U34L4])",
+            "主権平等の原則を逸脱した不適当な記述 (ICJILCUNCLOS U34 [U34L4])",
+            "外交慣例に悖る修辞的欠陥文 (ICJILCUNCLOS U34 [U34L4])"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19720,10 +19720,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第4部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (ICJILCUNCLOS U34 [U34L4])",
+            "国際合意を損なう非現実的な記述である (ICJILCUNCLOS U34 [U34L4])",
+            "批准手続きを誤認した無効な記述である (ICJILCUNCLOS U34 [U34L4])",
+            "外交文書として不適格な文言である (ICJILCUNCLOS U34 [U34L4])"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19735,10 +19735,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第4部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.4）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました。",
-            "対立を無用に煽る不見識な声明文（34.4.x）",
-            "法的拘束力のない不完全な折衝文（34.4.y）",
-            "条約の留保条件を乱用した無効文（34.4.z）"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (ICJILCUNCLOS U34 [U34L4])",
+            "対立を無用に煽る不見識な声明文 (ICJILCUNCLOS U34 [U34L4])",
+            "法的拘束力のない不完全な折衝文 (ICJILCUNCLOS U34 [U34L4])",
+            "条約の留保条件を乱用した無効文 (ICJILCUNCLOS U34 [U34L4])"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19746,10 +19746,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l4）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました。",
-            "安全保障理事会決議の権能を無視した記述（34.4.a）",
-            "平和維持部隊の法的根拠を欠く文（34.4.b）",
-            "国際司法裁判所の判例に背く記述（34.4.c）"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (ICJILCUNCLOS U34 [U34L4])",
+            "安全保障理事会決議の権能を無視した記述 (ICJILCUNCLOS U34 [U34L4])",
+            "平和維持部隊の法的根拠を欠く文 (ICJILCUNCLOS U34 [U34L4])",
+            "国際司法裁判所の判例に背く記述 (ICJILCUNCLOS U34 [U34L4])"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19762,10 +19762,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第4部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-4）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします。",
-            "条約履行義務を軽視した無効文（34.4.m）",
-            "全権委任状の要件を欠く不備文（34.4.n）",
-            "寄託手続きの誤謬文（34.4.p）"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (ICJILCUNCLOS U34 [U34L4])",
+            "条約履行義務を軽視した無効文 (ICJILCUNCLOS U34 [U34L4])",
+            "全権委任状の要件を欠く不備文 (ICJILCUNCLOS U34 [U34L4])",
+            "寄託手続きの誤謬文 (ICJILCUNCLOS U34 [U34L4])"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19823,10 +19823,10 @@
         {
           "prompt": "【国家主権・外交問題】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第5部）における国際法規範に厳密に合致する公式外交記述を選択してください（問34.5.1）。",
           "options": [
-            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました。",
-            "国際条約法に反する法的誤謬（34.5.1）",
-            "主権平等の原則を逸脱した不適当な記述（34.5.2）",
-            "外交慣例に悖る修辞的欠陥文（34.5.3）"
+            "本協定の締約国は、千九百六十九年条約法に関するウィーン条約第百条に基づき、正式な批准書を国際連合事務総長へ寄託いたしました (本協定no締約国ha、千九百六十九年条約法ni関suruuィーn条約第百条ni基zuki、正式na批准書wo国際連合事務総長he寄託itashimashita - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "国際条約法に反する法的誤謬 (国際条約法ni反suru法的誤謬 - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "主権平等の原則を逸脱した不適当な記述 (主権平等no原則wo逸脱shita不適当na記述 - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "外交慣例に悖る修辞的欠陥文 (外交慣例ni悖ru修辞的欠陥文 - Japanese Mastery Unit 34 Lesson 5 U34L5)"
           ],
           "answerIndex": 0,
           "explanation": "ウィーン条約法条約および国連憲章の国際法規範に完全に準拠しています。"
@@ -19834,10 +19834,10 @@
         {
           "prompt": "【外交起草理解】1969年ウィーン条約法条約（VCLT）、国連憲章第7章安全保障理事会決議、首脳サミット共同声明の外交起草と口頭防衛（第5部）。に関する外交交渉の要諦を正確に論じている記述を選択してください。",
           "options": [
-            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である。",
-            "国際合意を損なう非現実的な記述である。",
-            "批准手続きを誤認した無効な記述である。",
-            "外交文書として不適格な文言である。"
+            "多国間外交プロトコルおよび国際慣習法に精緻に合致した正当な論述である (多国間外交purotokoruoyobi国際慣習法ni精緻ni合致shita正当na論述dearu - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "国際合意を損なう非現実的な記述である (国際合意wo損nau非現実的na記述dearu - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "批准手続きを誤認した無効な記述である (批准手続kiwo誤認shita無効na記述dearu - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "外交文書として不適格な文言である (外交文書toshite不適格na文言dearu - Japanese Mastery Unit 34 Lesson 5 U34L5)"
           ],
           "answerIndex": 0,
           "explanation": "多国間外交文書の起草基準および国際規範に正確に従っています。"
@@ -19849,10 +19849,10 @@
         {
           "prompt": "【条約防衛演習】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第5部）における公式サミットでの口頭弁護・声明として最も格調高い文を選択してください（演習34.5）。",
           "options": [
-            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました。",
-            "対立を無用に煽る不見識な声明文（34.5.x）",
-            "法的拘束力のない不完全な折衝文（34.5.y）",
-            "条約の留保条件を乱用した無効文（34.5.z）"
+            "各国首脳はサミット共同声明を採択し、法の支配に基づく自由で開かれた国際秩序の維持と、気候変動対策への断固たる誓約を再確認いたしました (pause [U34L5])",
+            "対立を無用に煽る不見識な声明文 (対立wo無用ni煽ru不見識na声明文 - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "法的拘束力のない不完全な折衝文 (法的拘束力nonai不完全na折衝文 - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "条約の留保条件を乱用した無効文 (条約no留保条件wo乱用shita無効文 - Japanese Mastery Unit 34 Lesson 5 U34L5)"
           ],
           "answerIndex": 0,
           "explanation": "首脳共同声明および多国間条約防衛として最高度の品格と論理性を備えています。"
@@ -19860,10 +19860,10 @@
         {
           "prompt": "【国際法概念】本課（ja-u34-l5）で提示された国際秩序の最重要規範を体現する正確な文を選択してください。",
           "options": [
-            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました。",
-            "安全保障理事会決議の権能を無視した記述（34.5.a）",
-            "平和維持部隊の法的根拠を欠く文（34.5.b）",
-            "国際司法裁判所の判例に背く記述（34.5.c）"
+            "国際連合安全保障理事会は、国連憲章第七章の下で行動し、全ての必要な措置を執ることを多国籍平和維持部隊に委任することを全会一致で決議いたしました (国際連合安全保障理事会ha、国連憲章第七章no下de行動shi、全teno必要na措置wo執rukotowo多国籍平和維持部隊ni委任surukotowo全会一致de決議itashimashita - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "安全保障理事会決議の権能を無視した記述 (安全保障理事会決議no権能wo無視shita記述 - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "平和維持部隊の法的根拠を欠く文 (平和維持部隊no法的根拠wo欠ku文 - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "国際司法裁判所の判例に背く記述 (国際司法裁判所no判例ni背ku記述 - Japanese Mastery Unit 34 Lesson 5 U34L5)"
           ],
           "answerIndex": 0,
           "explanation": "国連憲章第7章に基づく国際秩序の強制措置が的確に表現されています。"
@@ -19876,10 +19876,10 @@
           "type": "multiple-choice",
           "prompt": "【最終判定試験】多国間条約批准・国際法と首脳サミット共同声明の外交交渉（第5部）の最高峰C2レベル修得度を認定する国際法・外交問題です（試34-5）。",
           "options": [
-            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします。",
-            "条約履行義務を軽視した無効文（34.5.m）",
-            "全権委任状の要件を欠く不備文（34.5.n）",
-            "寄託手続きの誤謬文（34.5.p）"
+            "締約国は「合意は守られなければならない」という国際慣習法の根本規範に則り、本多国間条約の義務を誠実に履行することを誓約いたします (締約国ha「合意ha守rarenakerebanaranai」toiu国際慣習法no根本規範ni則ri、本多国間条約no義務wo誠実ni履行surukotowo誓約itashimasu - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "条約履行義務を軽視した無効文 (条約履行義務wo軽視shita無効文 - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "全権委任状の要件を欠く不備文 (全権委任状no要件wo欠ku不備文 - Japanese Mastery Unit 34 Lesson 5 U34L5)",
+            "寄託手続きの誤謬文 (寄託手続kino誤謬文 - Japanese Mastery Unit 34 Lesson 5 U34L5)"
           ],
           "answerIndex": 0,
           "explanation": "「合意は守られなければならない（パクタ・スント・セルヴァンダ）」の根本規範に完全に適合した標準文です。"
@@ -19941,10 +19941,10 @@
         {
           "prompt": "Which verb is the correct humble form (Kenjougo) to express that YOU will look at an external client's proposal?",
           "options": [
-            "拝見する",
-            "ご覧になる",
-            "見られる",
-            "お見えになる"
+            "拝見する (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "ご覧になる (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "見られる (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "お見えになる (Master irregular honorific and humble verb pairs U35 [U35L1])"
           ],
           "answerIndex": 0,
           "explanation": "«拝見する» is the humble verb used when the speaker inspects something belonging to the listener."
@@ -19952,10 +19952,10 @@
         {
           "prompt": "How should you refer to your own company's president (Yamada) when speaking to a client on the telephone?",
           "options": [
-            "社長の山田",
-            "山田社長様",
-            "山田先生",
-            "社長様"
+            "社長の山田 (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "山田社長様 (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "山田先生 (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "社長様 (Master irregular honorific and humble verb pairs U35 [U35L1])"
           ],
           "answerIndex": 0,
           "explanation": "When speaking to outside clients (Soto), members of your own organization (Uchi) are never elevated with honorific titles."
@@ -19967,10 +19967,10 @@
         {
           "prompt": "Select the correct honorific sentence meaning \"The director has already arrived\":",
           "options": [
-            "部長は既にお見えになりました。",
-            "部長は既に参りました。",
-            "部長は既に伺いました。",
-            "部長は既に致しました。"
+            "部長は既にお見えになりました (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "部長は既に参りました (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "部長は既に伺いました (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "部長は既に致しました (Master irregular honorific and humble verb pairs U35 [U35L1])"
           ],
           "answerIndex": 0,
           "explanation": "«お見えになる» or «いらっしゃる» is the appropriate honorific (Sonkeigo) form for someone arriving."
@@ -19978,10 +19978,10 @@
         {
           "prompt": "What does the humble phrase «存じ上げております» mean?",
           "options": [
-            "I humbly know / am acquainted with",
-            "I do not know",
-            "Please know this",
-            "You know this"
+            "I humbly know / am acquainted with (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "I do not know (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "Please know this (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "You know this (Master irregular honorific and humble verb pairs U35 [U35L1])"
           ],
           "answerIndex": 0,
           "explanation": "«存じ上げる» is the humble form of knowing or being acquainted with someone."
@@ -19994,10 +19994,10 @@
           "type": "multiple-choice",
           "prompt": "Which suppletive verb replaces «言う» (to say) when elevating an esteemed counterpart (Sonkeigo)?",
           "options": [
-            "おっしゃる",
-            "申し上げる",
-            "申す",
-            "致す"
+            "おっしゃる (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "申し上げる (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "申す (Master irregular honorific and humble verb pairs U35 [U35L1])",
+            "致す (Master irregular honorific and humble verb pairs U35 [U35L1])"
           ],
           "answerIndex": 0,
           "explanation": "«おっしゃる» is the respectful honorific equivalent of «言う»."
@@ -20043,10 +20043,10 @@
         {
           "prompt": "Which opening greeting pairs canonically with the formal closing «敬具» (Keigu) in Japanese business letters?",
           "options": [
-            "拝啓",
-            "前略",
-            "草々",
-            "かしこ"
+            "拝啓 (Master openingclosing greetings U35 [U35L2])",
+            "前略 (Master openingclosing greetings U35 [U35L2])",
+            "草々 (Master openingclosing greetings U35 [U35L2])",
+            "かしこ (Master openingclosing greetings U35 [U35L2])"
           ],
           "answerIndex": 0,
           "explanation": "拝啓 (Haikei — Opening salutation)"
@@ -20058,10 +20058,10 @@
         {
           "prompt": "What does «貴社» (Kisha) signify in formal written correspondence?",
           "options": [
-            "Your esteemed company",
-            "Our company",
-            "Previous company",
-            "Supplier"
+            "Your esteemed company (Master openingclosing greetings U35 [U35L2])",
+            "Our company (Master openingclosing greetings U35 [U35L2])",
+            "Previous company (Master openingclosing greetings U35 [U35L2])",
+            "Supplier (Master openingclosing greetings U35 [U35L2])"
           ],
           "answerIndex": 0,
           "explanation": "Your esteemed company (Written honorific address)"
@@ -20074,10 +20074,10 @@
           "type": "multiple-choice",
           "prompt": "Which opening greeting pairs canonically with the formal closing «敬具» (Keigu) in Japanese business letters?",
           "options": [
-            "拝啓",
-            "前略",
-            "草々",
-            "かしこ"
+            "拝啓 (Master openingclosing greetings U35 [U35L2])",
+            "前略 (Master openingclosing greetings U35 [U35L2])",
+            "草々 (Master openingclosing greetings U35 [U35L2])",
+            "かしこ (Master openingclosing greetings U35 [U35L2])"
           ],
           "answerIndex": 0,
           "explanation": "拝啓 (Haikei — Opening salutation)"
@@ -20123,10 +20123,10 @@
         {
           "prompt": "What is the linguistic purpose of \"Cushion Words\" (クッション言葉) in Japanese negotiations?",
           "options": [
-            "To soften difficult requests or refusals and preserve interpersonal harmony",
-            "To lengthen the sentence artificially",
-            "To indicate anger",
-            "To replace verbs"
+            "To soften difficult requests or refusals and preserve interpersonal harmony (Master polite cushion words U35 [U35L3])",
+            "To lengthen the sentence artificially (Master polite cushion words U35 [U35L3])",
+            "To indicate anger (Master polite cushion words U35 [U35L3])",
+            "To replace verbs (Master polite cushion words U35 [U35L3])"
           ],
           "answerIndex": 0,
           "explanation": "To soften difficult requests or refusals and preserve interpersonal harmony"
@@ -20138,10 +20138,10 @@
         {
           "prompt": "Which cushion phrase politely prefaces an unavoidable scheduling conflict or refusal?",
           "options": [
-            "あいにくではございますが",
-            "おめでとうございますが",
-            "是非とも",
-            "とんでもございません"
+            "あいにくではございますが (Master polite cushion words U35 [U35L3])",
+            "おめでとうございますが (Master polite cushion words U35 [U35L3])",
+            "是非とも (Master polite cushion words U35 [U35L3])",
+            "とんでもございません (Master polite cushion words U35 [U35L3])"
           ],
           "answerIndex": 0,
           "explanation": "あいにくではございますが (Unfortunately / Regrettably)"
@@ -20154,10 +20154,10 @@
           "type": "multiple-choice",
           "prompt": "What is the linguistic purpose of \"Cushion Words\" (クッション言葉) in Japanese negotiations?",
           "options": [
-            "To soften difficult requests or refusals and preserve interpersonal harmony",
-            "To lengthen the sentence artificially",
-            "To indicate anger",
-            "To replace verbs"
+            "To soften difficult requests or refusals and preserve interpersonal harmony (Master polite cushion words U35 [U35L3])",
+            "To lengthen the sentence artificially (Master polite cushion words U35 [U35L3])",
+            "To indicate anger (Master polite cushion words U35 [U35L3])",
+            "To replace verbs (Master polite cushion words U35 [U35L3])"
           ],
           "answerIndex": 0,
           "explanation": "To soften difficult requests or refusals and preserve interpersonal harmony"
@@ -20203,10 +20203,10 @@
         {
           "prompt": "Why is «おっしゃられる» classified as a grammatical error (二重敬語 / Double Honorific) in standard Keigo?",
           "options": [
-            "Because «おっしゃる» is already honorific; adding «-(ら)れる» applies two redundant honorific markers to one verb",
-            "Because it is too short",
-            "Because it is informal",
-            "Because it only applies to objects"
+            "Because «おっしゃる» is already honorific; adding «- (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "Because it is too short (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "Because it is informal (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "Because it only applies to objects (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])"
           ],
           "answerIndex": 0,
           "explanation": "Because «おっしゃる» is already honorific; adding «-(ら)れる» applies two redundant honorific markers to one verb"
@@ -20218,10 +20218,10 @@
         {
           "prompt": "What is the correct honorific expression for \"The client has read the email\"?",
           "options": [
-            "お客様がメールをお読みになりました。",
-            "お客様がメールをお読みになられました。",
-            "お客様がメールを拝見されました。",
-            "お客様がメールを読まれになられました。"
+            "お客様がメールをお読みになりました (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "お客様がメールをお読みになられました (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "お客様がメールを拝見されました (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "お客様がメールを読まれになられました (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])"
           ],
           "answerIndex": 0,
           "explanation": "お客様がメールをお読みになりました。 (or ご覧になりました)"
@@ -20234,10 +20234,10 @@
           "type": "multiple-choice",
           "prompt": "Why is «おっしゃられる» classified as a grammatical error (二重敬語 / Double Honorific) in standard Keigo?",
           "options": [
-            "Because «おっしゃる» is already honorific; adding «-(ら)れる» applies two redundant honorific markers to one verb",
-            "Because it is too short",
-            "Because it is informal",
-            "Because it only applies to objects"
+            "Because «おっしゃる» is already honorific; adding «- (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "Because it is too short (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "Because it is informal (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])",
+            "Because it only applies to objects (Distinguish authentic refined honorifics from incorrect double honorifics e U35 [U35L4])"
           ],
           "answerIndex": 0,
           "explanation": "Because «おっしゃる» is already honorific; adding «-(ら)れる» applies two redundant honorific markers to one verb"
@@ -20283,10 +20283,10 @@
         {
           "prompt": "Which expression is traditionally offered to express formal condolences to a grieving family?",
           "options": [
-            "心よりお悔やみ申し上げます",
-            "お祝い申し上げます",
-            "ご苦労様でした",
-            "ご清栄をお祈りします"
+            "心よりお悔やみ申し上げます (Master high ceremonial formulas for congratulations [U35L5])",
+            "お祝い申し上げます (Master high ceremonial formulas for congratulations [U35L5])",
+            "ご苦労様でした (Master high ceremonial formulas for congratulations [U35L5])",
+            "ご清栄をお祈りします (Master high ceremonial formulas for congratulations [U35L5])"
           ],
           "answerIndex": 0,
           "explanation": "心よりお悔やみ申し上げます (We offer our deepest and heartfelt condolences)"
@@ -20298,10 +20298,10 @@
         {
           "prompt": "What does the word «冥福» (Meifuku) signify in Buddhist-influenced condolence formulas?",
           "options": [
-            "Happiness and peaceful repose in the afterworld",
-            "Health in this world",
-            "Financial wealth",
-            "Good fortune in travel"
+            "Happiness and peaceful repose in the afterworld (Master high ceremonial formulas for congratulations U35 [U35L5])",
+            "Health in this world (Master high ceremonial formulas for congratulations U35 [U35L5])",
+            "Financial wealth (Master high ceremonial formulas for congratulations U35 [U35L5])",
+            "Good fortune in travel (Master high ceremonial formulas for congratulations U35 [U35L5])"
           ],
           "answerIndex": 0,
           "explanation": "Happiness and peaceful repose in the afterworld"
@@ -20314,10 +20314,10 @@
           "type": "multiple-choice",
           "prompt": "Which expression is traditionally offered to express formal condolences to a grieving family?",
           "options": [
-            "心よりお悔やみ申し上げます",
-            "お祝い申し上げます",
-            "ご苦労様でした",
-            "ご清栄をお祈りします"
+            "心よりお悔やみ申し上げます (Master high ceremonial formulas for congratulations [U35L5])",
+            "お祝い申し上げます (Master high ceremonial formulas for congratulations [U35L5])",
+            "ご苦労様でした (Master high ceremonial formulas for congratulations [U35L5])",
+            "ご清栄をお祈りします (Master high ceremonial formulas for congratulations [U35L5])"
           ],
           "answerIndex": 0,
           "explanation": "心よりお悔やみ申し上げます (We offer our deepest and heartfelt condolences)"

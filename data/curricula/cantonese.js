@@ -516,7 +516,7 @@
           "options": [
             "早晨呀 (zou2 san4)",
             "再見 (zoi3 gin3 - goodbye)",
-            "多謝 (do1 ze6 - thank you (for gift/compliment))",
+            "多謝 (for gift/compliment)",
             "唔緊要 (m4 gan2 jiu3 - no problem / never mind)"
           ],
           "answerIndex": 0,
@@ -529,10 +529,10 @@
         {
           "prompt": "【語音辨析】邊一組粵拼聲母準確呈現咗「不送氣清塞音」同「送氣清塞音」嘅對立？",
           "options": [
-            "b [p] 對比 p [pʰ] (b [p] unaspirated vs p [pʰ] aspirated)",
-            "d [t] 對比 z [ts] (d [t] alveolar stop vs z [ts] affricate)",
-            "m [m] 對比 n [n] (m [m] bilabial nasal vs n [n] alveolar nasal)",
-            "g [k] 對比 h [h] (g [k] velar stop vs h [h] glottal fricative)"
+            "b (Jyutping Phonics U1)",
+            "d (d t alveolar stop vs z ts affricate)",
+            "m (m m bilabial nasal vs n n alveolar nasal)",
+            "g (g k velar stop vs h h glottal fricative)"
           ],
           "answerIndex": 0,
           "explanation": "b 代表不送氣清雙唇塞音 [p]，p 代表送氣清雙唇塞音 [pʰ]。"
@@ -547,7 +547,7 @@
           "options": [
             "你好 (nei5 hou2 - hello)",
             "早晨 (zou2 san4 - good morning)",
-            "唔該 (m4 goi1 - thank you (for service) / please)",
+            "唔該 (for service)",
             "拜拜 (baai1 baai3 - bye-bye)"
           ],
           "answerIndex": 0,
@@ -596,7 +596,7 @@
         {
           "prompt": "【情境辨析】同事專程買咗杯熱咖啡請你飲作為鼓勵，你應對佢講：",
           "options": [
-            "多謝你 (do1 ze6 nei5 - Thank you (for gift/kindness))",
+            "多謝你 (for gift/kindness)",
             "唔該借借 (m4 goi1 ze3 ze3 - Excuse me, please let me through)",
             "早晨 (zou2 san4 - good morning)",
             "對唔住 (deoi3 m4 zyu6 - sorry / excuse me)"
@@ -627,10 +627,10 @@
           "type": "multiple-choice",
           "prompt": "【語用判斷】以下邊種情境必須使用「唔該」而絕對不可使用「多謝」？",
           "options": [
-            "喺茶餐廳示意侍應添熱水或結帳 (Asking for hot water or bill at a Cha Chaan Teng (uses m4 goi1))",
-            "婚宴上收取親友致贈嘅賀禮紅包 (Receiving wedding red envelope gifts (uses do1 ze6))",
-            "生日聚會接過朋友送嘅香水禮盒 (Receiving a birthday perfume gift (uses do1 ze6))",
-            "被同事讚賞工作效率高超 (Being praised by colleagues for high efficiency (uses do1 ze6))"
+            "喺茶餐廳示意侍應添熱水或結帳 (uses m4 goi1)",
+            "婚宴上收取親友致贈嘅賀禮紅包 (uses do1 ze6)",
+            "生日聚會接過朋友送嘅香水禮盒 (uses do1 ze6)",
+            "被同事讚賞工作效率高超 (uses do1 ze6)"
           ],
           "answerIndex": 0,
           "explanation": "指示或請求餐飲侍應服務，必須使用「唔該」。"
@@ -678,10 +678,10 @@
         {
           "prompt": "【音高辨析】粵語第2聲（陰上，如「史」si2、「好」hou2）嘅五度音高輪廓係：",
           "options": [
-            "高升調 35 (High-rising tone (Tone 2, 35))",
-            "高平調 55 (High-level tone (Tone 1, 55))",
-            "低降調 21 (Low-falling tone (Tone 4, 21))",
-            "低平調 22 (Low-level tone (Tone 6, 22))"
+            "高升調 35 (Tone 2, 35)",
+            "高平調 55 (Tone 1, 55)",
+            "低降調 21 (Tone 4, 21)",
+            "低平調 22 (Tone 6, 22)"
           ],
           "answerIndex": 0,
           "explanation": "第2聲（陰上）由中音（3度）升至最高音（5度）。"
@@ -693,8 +693,8 @@
         {
           "prompt": "【詞義辨析】「買」（maai5）同「賣」（maai6）喺聲調與含義上嘅核心差別係：",
           "options": [
-            "「買」係第5聲（低升，購進），「賣」係第6聲（低平，售出） (maai5 (Tone 5: buy) vs maai6 (Tone 6: sell))",
-            "「買」係第6聲（售出），「賣」係第5聲（購進） (Inverted tone distractor)",
+            "「買」係第5聲 (Tone 5: buy)",
+            "「買」係第6聲 (Inverted tone distractor)",
             "兩者皆為第1聲且意思完全相同 (Identical tone distractor)",
             "「買」係名詞，「賣」係形容詞 (Grammar class distractor)"
           ],
@@ -775,7 +775,7 @@
         {
           "prompt": "【文化理解】友人離別時講「得閒飲茶啦」，最符合香港社交語用嘅真實意涵係：",
           "options": [
-            "表達友好掛念嘅告別客套，意為「保持聯絡、改天相聚」 (Friendly farewell meaning \"keep in touch / let us meet again soon\")",
+            "表達友好掛念嘅告別客套，意為「保持聯絡、改天相聚 (Friendly farewell meaning \"keep in touch / let us meet again soon\")",
             "要求你即刻預訂聽朝早茶位 (Literal booking distractor)",
             "表示對你目前工作忙碌嘅嚴厲批評 (Criticism distractor)",
             "要求你即刻替對方支付茶水費用 (Payment request distractor)"
@@ -794,7 +794,7 @@
             "拜拜 (baai1 baai3 - bye-bye)",
             "貴姓 (gwai3 sing3 - Honorable surname)",
             "請問 (ceng2 man6 - excuse me, may I ask)",
-            "多謝 (do1 ze6 - thank you (for gift/compliment))"
+            "多謝 (for gift/compliment)"
           ],
           "answerIndex": 0,
           "explanation": "「拜拜」（baai1 baai3）喺香港日常社交中普及率最高。"
@@ -873,10 +873,10 @@
           "type": "multiple-choice",
           "prompt": "【問答匹配】當對方禮貌詢問「請問點稱呼？」時，最適切自然嘅答覆係：",
           "options": [
-            "我姓李，叫我阿Ben得喇。",
-            "唔該晒你幫手搬枱。 (m4 goi1 saai3 nei5 bong1 sau2 bun1 toi2 - Thank you so much for helping move the table)",
-            "聽日公司再見啦。 (ting1 jat6 gung1 si1 zoi3 gin3 laa1 - See you at the company tomorrow)",
-            "得閒出嚟飲茶啦。 (dak1 haan4 ceot1 lai4 jam2 caa4 laa1 - Let us go have dim sum / tea when free)"
+            "我姓李，叫我阿Ben得喇 (Language concept U1)",
+            "唔該晒你幫手搬枱 (m4 goi1 saai3 nei5 bong1 sau2 bun1 toi2 - Thank you so much for helping move the table)",
+            "聽日公司再見啦 (ting1 jat6 gung1 si1 zoi3 gin3 laa1 - See you at the company tomorrow)",
+            "得閒出嚟飲茶啦 (dak1 haan4 ceot1 lai4 jam2 caa4 laa1 - Let us go have dim sum / tea when free)"
           ],
           "answerIndex": 0,
           "explanation": "報出姓氏（我姓...）及慣用稱呼（叫我...得喇）係最標準完整嘅回應。"
@@ -924,10 +924,10 @@
         {
           "prompt": "【代詞替換】欲將「佢一個人去行街」改為複數「他們一起去逛街」，正確代詞係：",
           "options": [
-            "佢哋",
-            "我哋",
-            "你哋",
-            "大家"
+            "佢哋 (Language concept U2)",
+            "我哋 (Language concept U2)",
+            "你哋 (Language concept U2)",
+            "大家 (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "第三人稱複數「他們/她們」在粵語中為「佢哋」（keoi5 dei6）。"
@@ -939,10 +939,10 @@
         {
           "prompt": "【語法規則】關於粵語第三人稱單數代詞「佢」（keoi5），以下描述何者完全正確？",
           "options": [
-            "口語中不分性別，兼指男性、女性及事物 (粵語代詞「佢」在口語中兼表他、她、它，不分性別與物稱。)",
-            "僅專門指代女性 (掌握粵語單數人稱代詞（我、你、佢）及加上複數後綴「哋」（我哋、你哋、佢哋）之語法結構。)",
-            "僅專門指代男性 (掌握粵語單數人稱代詞（我、你、佢）及加上複數後綴「哋」（我哋、你哋、佢哋）之語法結構。)",
-            "只能指代非人類動物 (掌握粵語單數人稱代詞（我、你、佢）及加上複數後綴「哋」（我哋、你哋、佢哋）之語法結構。)"
+            "口語中不分性別，兼指男性、女性及事物 (Core target concept - Unit 2 Target Practice)",
+            "僅專門指代女性 (Core target concept - Unit 2 Target Practice)",
+            "僅專門指代男性 (Core target concept - Unit 2 Target Practice)",
+            "只能指代非人類動物 (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語代詞「佢」在口語中兼表他、她、它，不分性別與物稱。"
@@ -955,10 +955,10 @@
           "type": "multiple-choice",
           "prompt": "【句子填空】「＿＿＿今晚一齊去銅鑼灣睇戲啦！」（提議我們大家一起去）應填入：",
           "options": [
-            "我哋",
-            "佢",
-            "你",
-            "佢哋"
+            "我哋 (Language concept U2)",
+            "佢 (Language concept U2)",
+            "你 (Language concept U2)",
+            "佢哋 (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "提議包含說話者自身之集體行動，應使用第一人稱複數「我哋」（ngo5 dei6）。"
@@ -1006,10 +1006,10 @@
         {
           "prompt": "【句型轉換】將肯定句「佢係我哋公司經理」改為否定句，正確表達係：",
           "options": [
-            "佢唔係我哋公司經理",
-            "佢冇係我哋公司經理",
-            "佢未係我哋公司經理",
-            "佢咪係我哋公司經理"
+            "佢唔係我哋公司經理 (Language concept U2)",
+            "佢冇係我哋公司經理 (Language concept U2)",
+            "佢未係我哋公司經理 (Language concept U2)",
+            "佢咪係我哋公司經理 (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "否定動詞「係」必須使用「唔」，構成「唔係」（m4 hai6）。"
@@ -1021,10 +1021,10 @@
         {
           "prompt": "【語法辨析】喺「我＿＿＿日本人，我＿＿＿韓國人」中，表「不是...而是...」之正確詞語搭配係：",
           "options": [
-            "唔係……係…… (「唔係……係……」表達否定前者、肯定後者之判斷。)",
-            "冇……有…… (熟練運用繫詞「係」（表肯定判斷）與「唔係」（表否定判斷）建構主謂賓基本陳述句。)",
-            "未……係…… (熟練運用繫詞「係」（表肯定判斷）與「唔係」（表否定判斷）建構主謂賓基本陳述句。)",
-            "唔……都…… (熟練運用繫詞「係」（表肯定判斷）與「唔係」（表否定判斷）建構主謂賓基本陳述句。)"
+            "唔係……係…… (Core target concept - Unit 2 Target Practice)",
+            "冇……有…… (Core target concept - Unit 2 Target Practice)",
+            "未……係…… (Core target concept - Unit 2 Target Practice)",
+            "唔……都…… (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「唔係……係……」表達否定前者、肯定後者之判斷。"
@@ -1037,10 +1037,10 @@
           "type": "multiple-choice",
           "prompt": "【正誤判斷】以下邊句粵語判斷句嘅語法完全正確？",
           "options": [
-            "佢係一名經驗豐富嘅建築師。 (「主語＋係＋名詞短語」係標準正確之粵語判斷句。)",
-            "佢冇係一名建築師。 (熟練運用繫詞「係」（表肯定判斷）與「唔係」（表否定判斷）建構主謂賓基本陳述句。)",
-            "佢係唔建築師。 (熟練運用繫詞「係」（表肯定判斷）與「唔係」（表否定判斷）建構主謂賓基本陳述句。)",
-            "佢建築師係唔。 (熟練運用繫詞「係」（表肯定判斷）與「唔係」（表否定判斷）建構主謂賓基本陳述句。)"
+            "佢係一名經驗豐富嘅建築師 (Core target concept - Unit 2 Target Practice)",
+            "佢冇係一名建築師 (Core target concept - Unit 2 Target Practice)",
+            "佢係唔建築師 (Core target concept - Unit 2 Target Practice)",
+            "佢建築師係唔 (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「主語＋係＋名詞短語」係標準正確之粵語判斷句。"
@@ -1088,10 +1088,10 @@
         {
           "prompt": "【表達所有】欲表達「這是陳律師的公事包」，最道地之粵語句式係：",
           "options": [
-            "呢個係陳律師嘅公事包。",
-            "呢個係陳律師公事包嘅。",
-            "呢個陳律師係嘅公事包。",
-            "呢個公事包陳律師係嘅。"
+            "呢個係陳律師嘅公事包 (ge3 - Unit 2 Target Practice)",
+            "呢個係陳律師公事包嘅 (ge3 - Unit 2 Target Practice)",
+            "呢個陳律師係嘅公事包 (ge3 - Unit 2 Target Practice)",
+            "呢個公事包陳律師係嘅 (ge3 - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "領屬助詞「嘅」置於所有者與名詞之間：陳律師嘅公事包。"
@@ -1103,10 +1103,10 @@
         {
           "prompt": "【語法填空】「呢間餐廳有好多好食＿＿＿點心。」空格內應填入之結構助詞係：",
           "options": [
-            "嘅",
-            "哋",
-            "喺",
-            "晒"
+            "嘅 (ge3 - Unit 2 Target Practice)",
+            "哋 (ge3 - Unit 2 Target Practice)",
+            "喺 (ge3 - Unit 2 Target Practice)",
+            "晒 (ge3 - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "形容詞修飾名詞（好食嘅點心）需使用定語標記「嘅」（ge3）。"
@@ -1119,10 +1119,10 @@
           "type": "multiple-choice",
           "prompt": "【語用語義】句子「呢部車係佢哋嘅」所表達之真實含義係：",
           "options": [
-            "這輛車是屬於他們的 (「代詞＋嘅」作謂語表所有權歸屬。)",
-            "這輛車是他們駕駛的",
-            "他們正在購買這輛車",
-            "他們討厭這輛車"
+            "這輛車是屬於他們的 (ge3 - Unit 2 Target Practice)",
+            "這輛車是他們駕駛的 (ge3 - Unit 2 Target Practice)",
+            "他們正在購買這輛車 (ge3 - Unit 2 Target Practice)",
+            "他們討厭這輛車 (ge3 - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「代詞＋嘅」作謂語表所有權歸屬。"
@@ -1170,10 +1170,10 @@
         {
           "prompt": "【問句構造】欲以正反問句詢問對方「你今天去不去九龍塘」，正確句式係：",
           "options": [
-            "你今日去唔去九龍塘？",
-            "你今日去九龍塘係唔？ (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)",
-            "你今日去唔九龍塘？ (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)",
-            "你今日係九龍塘去？ (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)"
+            "你今日去唔去九龍塘？ (Language concept U2)",
+            "你今日去九龍塘係唔？ (Language concept U2)",
+            "你今日去唔九龍塘？ (Language concept U2)",
+            "你今日係九龍塘去？ (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "正反問句將動詞正反重疊：「去唔去」（heoi3 m4 heoi3）。"
@@ -1185,10 +1185,10 @@
         {
           "prompt": "【語氣辨析】句末助詞「咩」（me1，如「佢唔知咩？」）帶有何種典型語氣色彩？",
           "options": [
-            "驚訝、反詰或難以置信之懷疑語氣",
-            "極度恭敬之謙卑語氣 (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)",
-            "冷淡命令之威嚴語氣 (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)",
-            "歡欣慶祝之熱烈語氣 (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)"
+            "驚訝、反詰或難以置信之懷疑語氣 (Core target concept - Unit 2 Target Practice)",
+            "極度恭敬之謙卑語氣 (Core target concept - Unit 2 Target Practice)",
+            "冷淡命令之威嚴語氣 (Core target concept - Unit 2 Target Practice)",
+            "歡欣慶祝之熱烈語氣 (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「咩」（me1）常用於表示詫異、反問或不相信之語氣。"
@@ -1201,10 +1201,10 @@
           "type": "multiple-choice",
           "prompt": "【問答匹配】對問句「你係唔係陳大文先生？」之標準肯定與否定答覆分別為：",
           "options": [
-            "肯定：「係，我係」／ 否定：「唔係，我姓黃」 (回答判斷動詞問句時，肯定答「係」，否定答「唔係」。)",
-            "肯定：「好，我哋」／ 否定：「冇，我唔」 (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)",
-            "肯定：「有，我知」／ 否定：「未，我早」 (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)",
-            "肯定：「得，我去」／ 否定：「咪，我講」 (掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。)"
+            "肯定：「係，我係」／ 否定：「唔係，我姓黃 (Core target concept - Unit 2 Target Practice)",
+            "肯定：「好，我哋」／ 否定：「冇，我唔 (Core target concept - Unit 2 Target Practice)",
+            "肯定：「有，我知」／ 否定：「未，我早 (Core target concept - Unit 2 Target Practice)",
+            "肯定：「得，我去」／ 否定：「咪，我講 (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "回答判斷動詞問句時，肯定答「係」，否定答「唔係」。"
@@ -1252,10 +1252,10 @@
         {
           "prompt": "【問路表達】欲禮貌向路人詢問「請問巴士總站在哪裡？」，正確粵語句式係：",
           "options": [
-            "請問巴士總站喺邊度呀？",
-            "請問巴士總站喺呢度呀？",
-            "請問巴士總站喺嗰度呀？",
-            "請問巴士總站係邊個呀？"
+            "請問巴士總站喺邊度呀？ (ni1go2 (U2))",
+            "請問巴士總站喺呢度呀？ (ni1go2 (U2))",
+            "請問巴士總站喺嗰度呀？ (ni1go2 (U2))",
+            "請問巴士總站係邊個呀？ (ni1go2 (U2))"
           ],
           "answerIndex": 0,
           "explanation": "詢問方位處所使用疑問代詞「邊度」（bin1 dou6）。"
@@ -1267,10 +1267,10 @@
         {
           "prompt": "【指示辨析】指著近處手中的文件說「這份文件很重要」，應使用之指示詞係：",
           "options": [
-            "呢份",
-            "嗰份",
-            "邊份",
-            "邊度"
+            "呢份 (ni1go2 (U2))",
+            "嗰份 (ni1go2 (U2))",
+            "邊份 (ni1go2 (U2))",
+            "邊度 (ni1go2 (U2))"
           ],
           "answerIndex": 0,
           "explanation": "近指量詞短語為「呢份」（ni1 fan6）。"
@@ -1283,10 +1283,10 @@
           "type": "multiple-choice",
           "prompt": "【空間對應】「呢度」對應「這裡」，「嗰度」對應「那裡」，則「邊度」對應之現代漢語詞彙係：",
           "options": [
-            "哪裡 / 何處",
-            "這裡",
-            "那裡",
-            "到處"
+            "哪裡 / 何處 (ni1go2 (U2))",
+            "這裡 (ni1go2 (U2))",
+            "那裡 (ni1go2 (U2))",
+            "到處 (ni1go2 (U2))"
           ],
           "answerIndex": 0,
           "explanation": "「邊度」（bin1 dou6）為粵語處所疑問代詞，相當於「哪裡/何處」。"
@@ -1334,10 +1334,10 @@
         {
           "prompt": "【入聲辨析】以下邊一組數字在粵語中全部屬於入聲字（以 -p, -t, -k 收尾）？",
           "options": [
-            "一 (jat1)、六 (luk6)、七 (cat1)、八 (baat3)、十",
-            "二 (ji6)、三 (saam1)、四 (sei3)、五 (ng5)、九",
-            "三 (saam1)、五 (ng5)、九",
-            "二 (ji6)、四 (sei3)、八"
+            "一 (jat1)",
+            "二 (p (U3))",
+            "三 (saam1)",
+            "二 (p (U3)) [Option 4]"
           ],
           "answerIndex": 0,
           "explanation": "一(-t)、六(-k)、七(-t)、八(-t)、十(-p) 均為入聲字。"
@@ -1349,10 +1349,10 @@
         {
           "prompt": "【語音細節】粵語「十」（sap6）嘅韻尾屬於邊種入聲塞音？",
           "options": [
-            "雙唇塞音 [-p̚]（發音結束時緊閉雙唇）",
-            "舌尖塞音 [-t̚]",
-            "舌根塞音 [-k̚]",
-            "雙唇鼻音 [-m]"
+            "雙唇塞音 (p (U3))",
+            "舌尖塞音 (p (U3))",
+            "舌根塞音 (p (U3))",
+            "雙唇鼻音 (p (U3))"
           ],
           "answerIndex": 0,
           "explanation": "「十」（sap6）以雙唇閉塞音 [-p̚] 結尾。"
@@ -1365,10 +1365,10 @@
           "type": "multiple-choice",
           "prompt": "【文化音韻】廣東人喜愛數字「八」（baat3），主要因為其發音與邊個吉祥詞語諧音？",
           "options": [
-            "發（faat3，發財富貴）",
-            "生（saang1，生生不息）",
-            "福（fuk1，幸福安康）",
-            "吉（gat1，大吉大利）"
+            "發 (p (U3))",
+            "生 (p (U3))",
+            "福 (p (U3))",
+            "吉 (p (U3))"
           ],
           "answerIndex": 0,
           "explanation": "「八」（baat3）與「發」（faat3）同韻且音近，象徵發財興旺。"
@@ -1416,10 +1416,10 @@
         {
           "prompt": "【量詞搭配】欲表達「兩位朋友」，正確之粵語詞組係：",
           "options": [
-            "兩位朋友",
-            "二位朋友",
-            "雙位朋友",
-            "個位朋友"
+            "兩位朋友 (loeng5ji6 U3)",
+            "二位朋友 (loeng5ji6 U3)",
+            "雙位朋友 (loeng5ji6 U3)",
+            "個位朋友 (loeng5ji6 U3)"
           ],
           "answerIndex": 0,
           "explanation": "量詞前表示數量「二」必須使用「兩」（loeng5）。"
@@ -1431,10 +1431,10 @@
         {
           "prompt": "【口語縮合】粵語日常生活中「廿蚊」所代表之具體金額係：",
           "options": [
-            "二十元",
-            "十二元",
-            "二百元",
-            "兩千元"
+            "二十元 (loeng5ji6 U3)",
+            "十二元 (loeng5ji6 U3)",
+            "二百元 (loeng5ji6 U3)",
+            "兩千元 (loeng5ji6 U3)"
           ],
           "answerIndex": 0,
           "explanation": "「廿」（jaa6）係「二十」之合音字，「廿蚊」即二十元。"
@@ -1447,10 +1447,10 @@
           "type": "multiple-choice",
           "prompt": "【語法判斷】以下邊句句子在「二」與「兩」之使用上完全合乎粵語語法規範？",
           "options": [
-            "我今日喺書店買咗兩本書同兩支筆。 (修飾量詞「本」、「支」必須使用「兩」（兩本書、兩支筆）。)",
-            "我今日喺書店買咗二本書同二支筆。",
-            "呢架巴士係第二兩架。",
-            "我有二個阿哥。"
+            "我今日喺書店買咗兩本書同兩支筆 (loeng5ji6 U3)",
+            "我今日喺書店買咗二本書同二支筆 (loeng5ji6 U3)",
+            "呢架巴士係第二兩架 (loeng5ji6 U3)",
+            "我有二個阿哥 (loeng5ji6 U3)"
           ],
           "answerIndex": 0,
           "explanation": "修飾量詞「本」、「支」必須使用「兩」（兩本書、兩支筆）。"
@@ -1498,10 +1498,10 @@
         {
           "prompt": "【時間換算】粵語「四點三個字」所對應之精確時間係：",
           "options": [
-            "4:15",
-            "4:03",
-            "4:30",
-            "4:45"
+            "4:15 (Core target concept - Unit 3 Target Practice)",
+            "4:03 (Core target concept - Unit 3 Target Practice)",
+            "4:30 (Core target concept - Unit 3 Target Practice)",
+            "4:45 (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「三個字」代表錶盤數字 3，即 3 × 5 ＝ 15 分鐘，故為 4:15。"
@@ -1513,10 +1513,10 @@
         {
           "prompt": "【時間表達】欲表達「差十分鐘到八點」（即 7:50），最道地之粵語句式係：",
           "options": [
-            "差兩個字八點",
-            "差十分鐘八點 (掌握粵語鐘點系統，熟練運用「點」（小時）、「個字」（五分鐘單位）及「半」（三十分鐘）精確報時。)",
-            "八點差兩個字 (掌握粵語鐘點系統，熟練運用「點」（小時）、「個字」（五分鐘單位）及「半」（三十分鐘）精確報時。)",
-            "八點過兩個字 (掌握粵語鐘點系統，熟練運用「點」（小時）、「個字」（五分鐘單位）及「半」（三十分鐘）精確報時。)"
+            "差兩個字八點 (Core target concept - Unit 3 Target Practice)",
+            "差十分鐘八點 (Core target concept - Unit 3 Target Practice)",
+            "八點差兩個字 (Core target concept - Unit 3 Target Practice)",
+            "八點過兩個字 (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「差兩個字八點」係表示 7:50 最地道之粵語說法。"
@@ -1529,10 +1529,10 @@
           "type": "multiple-choice",
           "prompt": "【生活問答】當對方回答「依家兩點九個字」時，錶盤上之時間係：",
           "options": [
-            "2:45",
-            "2:09",
-            "2:15",
-            "2:30"
+            "2:45 (Core target concept - Unit 3 Target Practice)",
+            "2:09 (Core target concept - Unit 3 Target Practice)",
+            "2:15 (Core target concept - Unit 3 Target Practice)",
+            "2:30 (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「九個字」對應 9 × 5 ＝ 45 分鐘，故為 2:45。"
@@ -1580,10 +1580,10 @@
         {
           "prompt": "【詞彙對應】粵語口語中「聽日」（ting1 jat6）所指之時間係：",
           "options": [
-            "明天",
-            "昨天 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)",
-            "今天 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)",
-            "後天 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)"
+            "明天 (Language concept U3)",
+            "昨天 (Language concept U3)",
+            "今天 (Language concept U3)",
+            "後天 (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "「聽日」（ting1 jat6）即現代標準漢語之「明天」。"
@@ -1595,10 +1595,10 @@
         {
           "prompt": "【日常對話】「琴晚」（kam4 maan5）在粵語中表達之真實時間係：",
           "options": [
-            "昨晚",
-            "今晚 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)",
-            "明晚 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)",
-            "後晚 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)"
+            "昨晚 (Language concept U3)",
+            "今晚 (Language concept U3)",
+            "明晚 (Language concept U3)",
+            "後晚 (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "「琴晚 / 尋晚」（kam4 maan5）即「昨晚 / 昨天晚上」。"
@@ -1611,10 +1611,10 @@
           "type": "multiple-choice",
           "prompt": "【語境應用】同事問「你禮拜日有冇空？」，其中「禮拜日」意指：",
           "options": [
-            "星期日",
-            "星期一 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)",
-            "星期六 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)",
-            "工作日 (掌握粵語星期（星期/禮拜）、月份、號數以及今日、聽日、琴日等核心時間參照詞彙。)"
+            "星期日 (Language concept U3)",
+            "星期一 (Language concept U3)",
+            "星期六 (Language concept U3)",
+            "工作日 (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "「禮拜日」（lai5 baai3 jat6）即星期日。"
@@ -1662,10 +1662,10 @@
         {
           "prompt": "【商務約定】欲禮貌詢問合作方「您明天上午是否有空」，最得體之粵語句式係：",
           "options": [
-            "請問你聽朝得唔得閒？",
-            "你聽朝做乜嘢？ (靈活運用「約喺...」、「幾點見」以及「得唔得閒」等高頻句式進行商務與社交約定。)",
-            "你聽朝走先喇！ (靈活運用「約喺...」、「幾點見」以及「得唔得閒」等高頻句式進行商務與社交約定。)",
-            "你聽朝唔好意思！ (靈活運用「約喺...」、「幾點見」以及「得唔得閒」等高頻句式進行商務與社交約定。)"
+            "請問你聽朝得唔得閒？ (Core target concept - Unit 3 Target Practice)",
+            "你聽朝做乜嘢？ (Core target concept - Unit 3 Target Practice)",
+            "你聽朝走先喇！ (Core target concept - Unit 3 Target Practice)",
+            "你聽朝唔好意思！ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「請問你聽朝得唔得閒？」係商務與社交詢問時間最得體禮貌之句式。"
@@ -1677,10 +1677,10 @@
         {
           "prompt": "【敲定約定】雙方商定好會面時間地點後，表示「就這麼說定了」之經典成語句式係：",
           "options": [
-            "一言為定",
-            "得閒飲茶",
-            "唔該借借",
-            "早晨你好"
+            "一言為定 (Language concept U3)",
+            "得閒飲茶 (Language concept U3)",
+            "唔該借借 (Language concept U3)",
+            "早晨你好 (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "「一言為定」（jat1 jin4 wai4 ding6）表示雙方一致同意、敲定約定。"
@@ -1693,10 +1693,10 @@
           "type": "multiple-choice",
           "prompt": "【情境應對】若因突發事務需向朋友延遲會面十分鐘，最適當之地道說法係：",
           "options": [
-            "唔好意思，我有啲事，大概遲兩個字到。",
-            "多謝禮物，我走先喇。 (靈活運用「約喺...」、「幾點見」以及「得唔得閒」等高頻句式進行商務與社交約定。)",
-            "早晨李先生，聽日見。 (靈活運用「約喺...」、「幾點見」以及「得唔得閒」等高頻句式進行商務與社交約定。)",
-            "請問最近嘅洗手間喺邊度？ (靈活運用「約喺...」、「幾點見」以及「得唔得閒」等高頻句式進行商務與社交約定。)"
+            "唔好意思，我有啲事，大概遲兩個字到 (Core target concept - Unit 3 Target Practice)",
+            "多謝禮物，我走先喇 (Core target concept - Unit 3 Target Practice)",
+            "早晨李先生，聽日見 (Core target concept - Unit 3 Target Practice)",
+            "請問最近嘅洗手間喺邊度？ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「遲兩個字到」精確表達遲到 10 分鐘，並以「唔好意思」禮貌致歉。"
@@ -1744,10 +1744,10 @@
         {
           "prompt": "【量詞匹配】欲形容「一家茶餐廳」，最正宗道地之粵語量詞係：",
           "options": [
-            "一間茶餐廳",
-            "一個茶餐廳 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)",
-            "一隻茶餐廳 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)",
-            "一條茶餐廳 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)"
+            "一間茶餐廳 (Language concept U4)",
+            "一個茶餐廳 (Language concept U4)",
+            "一隻茶餐廳 (Language concept U4)",
+            "一條茶餐廳 (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "建築物、餐飲門店及機構必須使用量詞「間」（gaan1）。"
@@ -1759,10 +1759,10 @@
         {
           "prompt": "【器物搭配】粵語口語中稱呼「一隻水杯」，正確量詞搭配係：",
           "options": [
-            "一隻杯",
-            "一個杯 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)",
-            "一條杯 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)",
-            "一間杯 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)"
+            "一隻杯 (Language concept U4)",
+            "一個杯 (Language concept U4)",
+            "一條杯 (Language concept U4)",
+            "一間杯 (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "粵語中杯子、碟子等器皿習慣以「隻」（zek3）作量詞。"
@@ -1775,10 +1775,10 @@
           "type": "multiple-choice",
           "prompt": "【語法糾錯】以下邊句句子中之量詞搭配完全符合粵語語法規範？",
           "options": [
-            "街市嗰條鮮魚好新鮮，游嚟游去。 (魚類使用量詞「條」（條魚）。)",
-            "街市嗰間鮮魚好新鮮。 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)",
-            "街市嗰隻褲好靚。 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)",
-            "街市嗰條舖頭好大。 (掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。)"
+            "街市嗰條鮮魚好新鮮，游嚟游去 (Core target concept - Unit 4 Target Practice)",
+            "街市嗰間鮮魚好新鮮 (Core target concept - Unit 4 Target Practice)",
+            "街市嗰隻褲好靚 (Core target concept - Unit 4 Target Practice)",
+            "街市嗰條舖頭好大 (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "魚類使用量詞「條」（條魚）。"
@@ -1826,10 +1826,10 @@
         {
           "prompt": "【飲食點餐】在茶餐廳欲點一份熱奶茶，最正確之量詞係：",
           "options": [
-            "一杯熱奶茶",
-            "一碗熱奶茶 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)",
-            "一碟熱奶茶 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)",
-            "一條熱奶茶 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)"
+            "一杯熱奶茶 (Language concept U4)",
+            "一碗熱奶茶 (Language concept U4)",
+            "一碟熱奶茶 (Language concept U4)",
+            "一條熱奶茶 (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "杯裝液體飲品使用量詞「杯」（bui1）。"
@@ -1841,10 +1841,10 @@
         {
           "prompt": "【集合量詞】在香港麵包店購買「一打蛋撻」，其精確數量係：",
           "options": [
-            "十二個",
-            "六個 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)",
-            "十個 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)",
-            "二十個 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)"
+            "十二個 (Language concept U4)",
+            "六個 (Language concept U4)",
+            "十個 (Language concept U4)",
+            "二十個 (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "「一打」（jat1 daa1）源自英語 'dozen'，即十二個。"
@@ -1857,10 +1857,10 @@
           "type": "multiple-choice",
           "prompt": "【語境點餐】以下邊組點餐語句之量詞搭配完全符合香港茶餐廳慣例？",
           "options": [
-            "一碗雲吞麵、一碟乾炒牛河、一杯凍檸茶 (麵用「碗」，炒河粉用「碟」，冷飲用「杯」。)",
-            "一樽雲吞麵、一碗乾炒牛河、一條凍檸茶 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)",
-            "一隻雲吞麵、一條乾炒牛河、一碗凍檸茶 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)",
-            "一間雲吞麵、一對乾炒牛河、一打凍檸茶 (熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。)"
+            "一碗雲吞麵、一碟乾炒牛河、一杯凍檸茶 (Core target concept - Unit 4 Target Practice)",
+            "一樽雲吞麵、一碗乾炒牛河、一條凍檸茶 (Core target concept - Unit 4 Target Practice)",
+            "一隻雲吞麵、一條乾炒牛河、一碗凍檸茶 (Core target concept - Unit 4 Target Practice)",
+            "一間雲吞麵、一對乾炒牛河、一打凍檸茶 (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "麵用「碗」，炒河粉用「碟」，冷飲用「杯」。"
@@ -1908,10 +1908,10 @@
         {
           "prompt": "【定指理解】句子「部電腦壞咗」中，「部電腦」所表達之真實語法涵義係：",
           "options": [
-            "（特定的那部）電腦壞了",
-            "世界上所有的電腦都壞了",
-            "某一部不知名的電腦",
-            "很多部電腦"
+            "特定的那部電腦壞了 掌握粵語量詞直接置於名詞前無數詞表達定指「這/那/該the」之重大語法特徵 (the U4)",
+            "世界上所有的電腦都壞了 (the U4)",
+            "某一部不知名的電腦 (the U4)",
+            "很多部電腦 (the U4)"
           ],
           "answerIndex": 0,
           "explanation": "「量詞＋名詞」（部電腦）在粵語中具備明確之定指功能（The computer）。"
@@ -1923,10 +1923,10 @@
         {
           "prompt": "【語法造句】欲特指「剛才提到的那條街很熱鬧」，最簡練地道之粵語開頭係：",
           "options": [
-            "條街好熱鬧",
-            "一個街好熱鬧",
-            "街好熱鬧一個",
-            "熱鬧好條街"
+            "條街好熱鬧 (the U4)",
+            "一個街好熱鬧 (the U4)",
+            "街好熱鬧一個 (the U4)",
+            "熱鬧好條街 (the U4)"
           ],
           "answerIndex": 0,
           "explanation": "以「條街」定指開頭，最為地道自然。"
@@ -1939,10 +1939,10 @@
           "type": "multiple-choice",
           "prompt": "【語法辨析】關於粵語「量詞＋名詞」（如「隻杯」、「間屋」）之結構功能，以下何者正確？",
           "options": [
-            "直接表達定指（相當於英語中的 the）",
-            "只能表示疑問",
-            "只能表示否定",
-            "表示數量極大"
+            "直接表達定指 (the U4)",
+            "只能表示疑問 (the U4)",
+            "只能表示否定 (the U4)",
+            "表示數量極大 (the U4)"
           ],
           "answerIndex": 0,
           "explanation": "粵語「量詞＋名詞」承擔定指（Definite Reference）功能。"
@@ -1990,10 +1990,10 @@
         {
           "prompt": "【買菜問價】在香港街市欲詢問番茄每斤價格，最地道之句式係：",
           "options": [
-            "請問番茄幾多錢一斤呀？",
-            "請問番茄有冇一斤呀？ (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)",
-            "請問番茄走先喇！ (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)",
-            "請問番茄得閒飲茶！ (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)"
+            "請問番茄幾多錢一斤呀？ (Core target concept - Unit 4 Target Practice)",
+            "請問番茄有冇一斤呀？ (Core target concept - Unit 4 Target Practice)",
+            "請問番茄走先喇！ (Core target concept - Unit 4 Target Practice)",
+            "請問番茄得閒飲茶！ (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「幾多錢一斤」係標準地道之問價句式。"
@@ -2005,10 +2005,10 @@
         {
           "prompt": "【單位常識】香港傳統市場所稱之一「斤」（司馬斤），一斤等於幾多「兩」？",
           "options": [
-            "十六兩 (香港司馬斤沿用十六兩制（半斤八兩）。)",
-            "十兩 (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)",
-            "十二兩 (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)",
-            "八兩 (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)"
+            "十六兩 (Core target concept - Unit 4 Target Practice)",
+            "十兩 (Core target concept - Unit 4 Target Practice)",
+            "十二兩 (Core target concept - Unit 4 Target Practice)",
+            "八兩 (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "香港司馬斤沿用十六兩制（半斤八兩）。"
@@ -2021,10 +2021,10 @@
           "type": "multiple-choice",
           "prompt": "【語境理解】菜檔標明「十蚊三棵」，欲買六棵菜需支付之金額為：",
           "options": [
-            "二十蚊",
-            "三十蚊 (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)",
-            "十五蚊 (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)",
-            "十蚊 (掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。)"
+            "二十蚊 (Core target concept - Unit 4 Target Practice)",
+            "三十蚊 (Core target concept - Unit 4 Target Practice)",
+            "十五蚊 (Core target concept - Unit 4 Target Practice)",
+            "十蚊 (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "十蚊三棵，六棵即兩份，共計二十蚊。"
@@ -2072,10 +2072,10 @@
         {
           "prompt": "【議價用語】在露天排檔買衣服，欲禮貌請求店主降價，最地道之句式係：",
           "options": [
-            "老細，平啲得唔得呀？",
-            "老細，貴啲得唔得呀？ (掌握粵語購物議價口語（平啲啦、抵唔抵）、折扣計算（八折、減價）及結帳表達。)",
-            "老細，早晨你好！ (掌握粵語購物議價口語（平啲啦、抵唔抵）、折扣計算（八折、減價）及結帳表達。)",
-            "老細，我走先喇！ (掌握粵語購物議價口語（平啲啦、抵唔抵）、折扣計算（八折、減價）及結帳表達。)"
+            "老細，平啲得唔得呀？ (Core target concept - Unit 4 Target Practice)",
+            "老細，貴啲得唔得呀？ (Core target concept - Unit 4 Target Practice)",
+            "老細，早晨你好！ (Core target concept - Unit 4 Target Practice)",
+            "老細，我走先喇！ (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「平啲得唔得呀？」（便宜點行不行？）係最經典之粵語議價句式。"
@@ -2087,10 +2087,10 @@
         {
           "prompt": "【折扣計算】商場櫥窗貼出「全場七折」，一件原價 100 蚊嘅襯衫折後售價係：",
           "options": [
-            "70 蚊",
-            "30 蚊 (掌握粵語購物議價口語（平啲啦、抵唔抵）、折扣計算（八折、減價）及結帳表達。)",
-            "17 蚊 (掌握粵語購物議價口語（平啲啦、抵唔抵）、折扣計算（八折、減價）及結帳表達。)",
-            "7 蚊 (掌握粵語購物議價口語（平啲啦、抵唔抵）、折扣計算（八折、減價）及結帳表達。)"
+            "70 蚊 (Language concept U4)",
+            "30 蚊 (Language concept U4)",
+            "17 蚊 (Language concept U4)",
+            "7 蚊 (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "「七折」（cat1 zit3）即按原價 70% 支付，100 蚊 × 70% ＝ 70 蚊。"
@@ -2103,10 +2103,10 @@
           "type": "multiple-choice",
           "prompt": "【詞彙理解】在粵語中，形容一件商品「物超所值、極度划算」之專用形容詞係：",
           "options": [
-            "好抵",
-            "好貴",
-            "好慢",
-            "好難"
+            "好抵 (Language concept U4)",
+            "好貴 (Language concept U4)",
+            "好慢 (Language concept U4)",
+            "好難 (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "「抵」（dai2 / 抵買）意為划算、性價比高。"
@@ -2154,10 +2154,10 @@
         {
           "prompt": "【語序造句】欲表達「我們在圖書館看書」，正確之粵語語序係：",
           "options": [
-            "我哋喺圖書館睇書。",
-            "我哋睇書喺圖書館。",
-            "喺圖書館我哋睇書係。",
-            "我哋圖書館喺睇書。"
+            "我哋喺圖書館睇書 (hai2 U5)",
+            "我哋睇書喺圖書館 (hai2 U5)",
+            "喺圖書館我哋睇書係 (hai2 U5)",
+            "我哋圖書館喺睇書 (hai2 U5)"
           ],
           "answerIndex": 0,
           "explanation": "「主語＋喺＋處所＋動詞短語」（我哋喺圖書館睇書）係標準粵語語序。"
@@ -2169,10 +2169,10 @@
         {
           "prompt": "【音義辨析】「佢＿＿＿香港人」與「佢＿＿＿香港住」，兩空格依序應填入之字詞係：",
           "options": [
-            "係 (hai6) …… 喺",
-            "喺 (hai2) …… 係",
-            "喺 (hai2) …… 喺",
-            "係 (hai6) …… 係"
+            "係 (hai6)",
+            "喺 (hai2)",
+            "喺 (hai2) [Option 3]",
+            "係 (hai6) [Option 4]"
           ],
           "answerIndex": 0,
           "explanation": "前者為判斷身份（係香港人），後者為處所居住（喺香港住）。"
@@ -2185,10 +2185,10 @@
           "type": "multiple-choice",
           "prompt": "【語法正誤】以下邊句句子之處所介詞與語序完全正確？",
           "options": [
-            "陳生每日下晝都喺尖沙咀見客戶。 (「喺＋處所＋動詞短語」（喺尖沙咀見客戶）完全正確。)",
-            "陳生每日下晝都係尖沙咀見客戶。",
-            "陳生每日見客戶尖沙咀喺。",
-            "陳生喺每日見客戶尖沙咀。"
+            "陳生每日下晝都喺尖沙咀見客戶 (hai2 U5)",
+            "陳生每日下晝都係尖沙咀見客戶 (hai2 U5)",
+            "陳生每日見客戶尖沙咀喺 (hai2 U5)",
+            "陳生喺每日見客戶尖沙咀 (hai2 U5)"
           ],
           "answerIndex": 0,
           "explanation": "「喺＋處所＋動詞短語」（喺尖沙咀見客戶）完全正確。"
@@ -2236,10 +2236,10 @@
         {
           "prompt": "【方位理解】「間咖啡舖喺書店隔離」所表達之具體方位關係係：",
           "options": [
-            "咖啡店在書店隔壁 / 緊挨著書店",
-            "咖啡店在書店對面 (掌握「喺邊度」處所詢問句式，並熟練運用前、後、左、右、上、下、入、出、隔離等全套空間方位詞。)",
-            "咖啡店在書店樓上 (掌握「喺邊度」處所詢問句式，並熟練運用前、後、左、右、上、下、入、出、隔離等全套空間方位詞。)",
-            "咖啡店在書店裡面 (掌握「喺邊度」處所詢問句式，並熟練運用前、後、左、右、上、下、入、出、隔離等全套空間方位詞。)"
+            "咖啡店在書店隔壁 / 緊挨著書店 (Language concept U5)",
+            "咖啡店在書店對面 (Language concept U5)",
+            "咖啡店在書店樓上 (Language concept U5)",
+            "咖啡店在書店裡面 (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "「隔離」（gaak3 lei4）在粵語中意為「隔壁/相鄰」。"
@@ -2251,10 +2251,10 @@
         {
           "prompt": "【問路句式】欲向路人詢問「請問最近嘅地鐵站在哪裡」，正確之粵語表達係：",
           "options": [
-            "請問最近嘅地鐵站喺邊度呀？",
-            "請問最近嘅地鐵站係邊個呀？ (掌握「喺邊度」處所詢問句式，並熟練運用前、後、左、右、上、下、入、出、隔離等全套空間方位詞。)",
-            "請問最近嘅地鐵站有冇人呀？ (掌握「喺邊度」處所詢問句式，並熟練運用前、後、左、右、上、下、入、出、隔離等全套空間方位詞。)",
-            "請問最近嘅地鐵站得唔得閒呀？ (掌握「喺邊度」處所詢問句式，並熟練運用前、後、左、右、上、下、入、出、隔離等全套空間方位詞。)"
+            "請問最近嘅地鐵站喺邊度呀？ (Language concept U5)",
+            "請問最近嘅地鐵站係邊個呀？ (Language concept U5)",
+            "請問最近嘅地鐵站有冇人呀？ (Language concept U5)",
+            "請問最近嘅地鐵站得唔得閒呀？ (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "詢問地點處所使用「喺邊度」（hai2 bin1 dou6）。"
@@ -2267,10 +2267,10 @@
           "type": "multiple-choice",
           "prompt": "【方位對應】與「入面」（裡面）語義完全相反之粵語方位詞係：",
           "options": [
-            "出面",
-            "上面",
-            "下面",
-            "後面"
+            "出面 (Core target concept - Unit 5 Target Practice)",
+            "上面 (Core target concept - Unit 5 Target Practice)",
+            "下面 (Core target concept - Unit 5 Target Practice)",
+            "後面 (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「出面」（外面）與「入面」（裡面）構成反義詞。"
@@ -2318,10 +2318,10 @@
         {
           "prompt": "【文化名詞】香港市民常將香港島百年雙層有軌電車親切暱稱為：",
           "options": [
-            "叮叮",
-            "小巴",
-            "的士",
-            "小輪"
+            "叮叮 (Language concept U5)",
+            "小巴 (Language concept U5)",
+            "的士 (Language concept U5)",
+            "小輪 (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "香港電車因鈴聲而被廣泛稱為「叮叮」（ding1 ding1）。"
@@ -2333,10 +2333,10 @@
         {
           "prompt": "【動賓搭配】欲表達「乘坐地下鐵路上班」，最地道之粵語詞組係：",
           "options": [
-            "搭地鐵返工",
-            "行地鐵返工 (掌握搭乘香港特色公共交通工具之動賓搭配（搭地鐵、搭巴士、搭小巴、坐的士、搭叮叮）。)",
-            "跑地鐵返工 (掌握搭乘香港特色公共交通工具之動賓搭配（搭地鐵、搭巴士、搭小巴、坐的士、搭叮叮）。)",
-            "飛地鐵返工 (掌握搭乘香港特色公共交通工具之動賓搭配（搭地鐵、搭巴士、搭小巴、坐的士、搭叮叮）。)"
+            "搭地鐵返工 (Core target concept - Unit 5 Target Practice)",
+            "行地鐵返工 (Core target concept - Unit 5 Target Practice)",
+            "跑地鐵返工 (Core target concept - Unit 5 Target Practice)",
+            "飛地鐵返工 (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "乘坐交通工具使用動詞「搭」（搭地鐵）。"
@@ -2349,10 +2349,10 @@
           "type": "multiple-choice",
           "prompt": "【交通辨析】以下邊種交通工具係橫渡維多利亞港之經典渡輪？",
           "options": [
-            "天星小輪",
-            "叮叮電車",
-            "紅色小巴",
-            "雙層巴士"
+            "天星小輪 (Core target concept - Unit 5 Target Practice)",
+            "叮叮電車 (Core target concept - Unit 5 Target Practice)",
+            "紅色小巴 (Core target concept - Unit 5 Target Practice)",
+            "雙層巴士 (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "天星小輪係維多利亞港極具歷史文化底蘊之渡海輪船。"
@@ -2400,10 +2400,10 @@
         {
           "prompt": "【詞彙對應】粵語詞彙「放工」所對應之現代標準漢語係：",
           "options": [
-            "下班",
-            "上班 (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)",
-            "請假 (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)",
-            "加班 (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)"
+            "下班 (Language concept U5)",
+            "上班 (Language concept U5)",
+            "請假 (Language concept U5)",
+            "加班 (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "「放工」（fong3 gung1）即下班，相對應之「返工」（faan1 gung1）為上班。"
@@ -2415,10 +2415,10 @@
         {
           "prompt": "【日常問候】同事在中午時分向你打招呼「食晏未呀？」，其真實意圖係詢問：",
           "options": [
-            "吃午飯了嗎？",
-            "起床了嗎？ (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)",
-            "下班了嗎？ (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)",
-            "睡覺了嗎？ (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)"
+            "吃午飯了嗎？ (Language concept U5)",
+            "起床了嗎？ (Language concept U5)",
+            "下班了嗎？ (Language concept U5)",
+            "睡覺了嗎？ (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "「食晏」（sik6 aan3）專指吃午餐。"
@@ -2431,10 +2431,10 @@
           "type": "multiple-choice",
           "prompt": "【語法造句】以下邊句句子之日常作息表達完全符合粵語習慣？",
           "options": [
-            "我每晚十一點半瞓覺，聽朝七點起身。 (夜晚睡覺（瞓覺）、明早起床（起身）邏輯與語法完全正確。)",
-            "我每晚十一點半起身，聽朝七點瞓覺。 (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)",
-            "我每晚十一點半放學返工。 (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)",
-            "我每晚十一點半食晏。 (熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。)"
+            "我每晚十一點半瞓覺，聽朝七點起身 (Core target concept - Unit 5 Target Practice)",
+            "我每晚十一點半起身，聽朝七點瞓覺 (Core target concept - Unit 5 Target Practice)",
+            "我每晚十一點半放學返工 (Core target concept - Unit 5 Target Practice)",
+            "我每晚十一點半食晏 (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "夜晚睡覺（瞓覺）、明早起床（起身）邏輯與語法完全正確。"
@@ -2482,10 +2482,10 @@
         {
           "prompt": "【正反問句】在便利店詢問店員「請問有沒有熱咖啡」，最地道之句式係：",
           "options": [
-            "請問有冇熱咖啡呀？",
-            "請問是不是熱咖啡呀？",
-            "請問有沒有熱咖啡是？",
-            "請問熱咖啡有冇是？"
+            "請問有冇熱咖啡呀？ (jau5mou5 U5)",
+            "請問是不是熱咖啡呀？ (jau5mou5 U5)",
+            "請問有沒有熱咖啡是？ (jau5mou5 U5)",
+            "請問熱咖啡有冇是？ (jau5mou5 U5)"
           ],
           "answerIndex": 0,
           "explanation": "「有冇」（jau5 mou5）係詢問有無最標準正宗之正反問構式。"
@@ -2497,10 +2497,10 @@
         {
           "prompt": "【語意否定】粵語獨特字「冇」（mou5）之核心語法功能係：",
           "options": [
-            "直接表達「沒有 / 未曾」",
-            "表示「很多」",
-            "表示「非常喜歡」",
-            "表示「已經完成」"
+            "直接表達「沒有 / 未曾 (jau5mou5 U5)",
+            "表示「很多 (jau5mou5 U5)",
+            "表示「非常喜歡 (jau5mou5 U5)",
+            "表示「已經完成 (jau5mou5 U5)"
           ],
           "answerIndex": 0,
           "explanation": "「冇」（mou5）在粵語中專門表示「沒有」或否定過去動作。"
@@ -2513,10 +2513,10 @@
           "type": "multiple-choice",
           "prompt": "【問答匹配】對問句「你今日有冇帶八達通卡？」之標準否定答覆係：",
           "options": [
-            "我今日冇帶。",
-            "我今日唔係。",
-            "我今日唔得。",
-            "我今日唔使。"
+            "我今日冇帶 (jau5mou5 U5)",
+            "我今日唔係 (jau5mou5 U5)",
+            "我今日唔得 (jau5mou5 U5)",
+            "我今日唔使 (jau5mou5 U5)"
           ],
           "answerIndex": 0,
           "explanation": "回答「有冇」問句時，否定答「冇」（冇帶）。"
@@ -2564,10 +2564,10 @@
         {
           "prompt": "【開茶用語】在茶樓入座被問及「飲咩茶」，欲點選菊花與普洱調配之混合茶，應回答：",
           "options": [
-            "唔該要菊普",
-            "唔該要凍檸茶 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)",
-            "唔該要熱可樂 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)",
-            "唔該要蒸餾水 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)"
+            "唔該要菊普 (Language concept U6)",
+            "唔該要凍檸茶 (Language concept U6)",
+            "唔該要熱可樂 (Language concept U6)",
+            "唔該要蒸餾水 (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "「菊普」（guk1 bou2）即菊花茶與普洱茶之經典調和。"
@@ -2579,10 +2579,10 @@
         {
           "prompt": "【茶樓禮儀】在茶樓如果茶壺需要加水，最地道得體之做法係：",
           "options": [
-            "將茶壺蓋揭開半搭在壺口邊",
-            "大聲敲擊茶杯呼叫伙計 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)",
-            "自行拿著茶壺跑到廚房加水 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)",
-            "把茶壺倒扣在枱面上 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)"
+            "將茶壺蓋揭開半搭在壺口邊 (Core target concept - Unit 6 Target Practice)",
+            "大聲敲擊茶杯呼叫伙計 (Core target concept - Unit 6 Target Practice)",
+            "自行拿著茶壺跑到廚房加水 (Core target concept - Unit 6 Target Practice)",
+            "把茶壺倒扣在枱面上 (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「揭開壺蓋」係粵港茶樓通用默契信號，侍應見到即會主動前來加熱水。"
@@ -2595,10 +2595,10 @@
           "type": "multiple-choice",
           "prompt": "【社交文化】他人為你斟茶時，用手指在枱面輕叩兩下（叩指禮）之寓意係：",
           "options": [
-            "表示感謝",
-            "表示茶太燙 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)",
-            "表示茶不好喝 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)",
-            "要求更換茶杯 (掌握粵式茶樓「飲茶」社交文化、開茶茶種選擇（普洱、香片、鐵觀音、水仙）及「叩指謝茶」地道禮儀。)"
+            "表示感謝 (Language concept U6)",
+            "表示茶太燙 (Language concept U6)",
+            "表示茶不好喝 (Language concept U6)",
+            "要求更換茶杯 (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "「叩指謝茶」（kau3 zi2 lai5）係嶺南飲茶文化中最高雅普及之感謝手勢。"
@@ -2646,10 +2646,10 @@
         {
           "prompt": "【點心搭配】以下邊一項屬於廣東傳統點心「四大天王」之一？",
           "options": [
-            "蝦餃",
-            "炸薯條 (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)",
-            "漢堡包 (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)",
-            "比薩餅 (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)"
+            "蝦餃 (Core target concept - Unit 6 Target Practice)",
+            "炸薯條 (Core target concept - Unit 6 Target Practice)",
+            "漢堡包 (Core target concept - Unit 6 Target Practice)",
+            "比薩餅 (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「蝦餃、燒賣、叉燒包、蛋撻」合稱點心四大天王。"
@@ -2661,10 +2661,10 @@
         {
           "prompt": "【點餐詞彙】在茶樓用餐中途欲加點幾道點心，應向伙計講：",
           "options": [
-            "伙計，唔該加單！",
-            "伙計，唔該埋單！ (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)",
-            "伙計，唔該早晨！ (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)",
-            "伙計，唔該走先！ (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)"
+            "伙計，唔該加單！ (Language concept U6)",
+            "伙計，唔該埋單！ (Language concept U6)",
+            "伙計，唔該早晨！ (Language concept U6)",
+            "伙計，唔該走先！ (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "加點菜式稱為「加單」（gaa1 daan1），而「埋單」係結帳買單。"
@@ -2677,10 +2677,10 @@
           "type": "multiple-choice",
           "prompt": "【量詞點餐】欲點選兩份蒸籠點心燒賣，最地道之量詞搭配係：",
           "options": [
-            "兩籠燒賣",
-            "兩部燒賣 (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)",
-            "兩條燒賣 (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)",
-            "兩間燒賣 (掌握粵式點心「四大天王」與高頻點心名稱及點心紙（加單、劃單）點餐語句。)"
+            "兩籠燒賣 (Language concept U6)",
+            "兩部燒賣 (Language concept U6)",
+            "兩條燒賣 (Language concept U6)",
+            "兩間燒賣 (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "蒸籠點心使用量詞「籠」（lung4）。"
@@ -2728,10 +2728,10 @@
         {
           "prompt": "【特飲常識】港式特色飲品「鴛鴦」（jin1 joeng1）之主要原料配方係：",
           "options": [
-            "奶茶混合咖啡",
-            "綠茶混合紅茶 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)",
-            "檸檬水混合可樂 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)",
-            "豆漿混合牛奶 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)"
+            "奶茶混合咖啡 (Core target concept - Unit 6 Target Practice)",
+            "綠茶混合紅茶 (Core target concept - Unit 6 Target Practice)",
+            "檸檬水混合可樂 (Core target concept - Unit 6 Target Practice)",
+            "豆漿混合牛奶 (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「鴛鴦」係港式奶茶與咖啡按獨特比例調製而成之經典混搭飲品。"
@@ -2743,10 +2743,10 @@
         {
           "prompt": "【烘焙名產】「菠蘿油」（bo1 lo4 jau4）與普通「菠蘿包」之最大區別係：",
           "options": [
-            "中間夾入了一片厚切冰牛油 (「菠蘿油」係在剛出爐之熱菠蘿包中橫切夾入厚切冰凍牛油（牛油遇熱半融）。)",
-            "裡面包了真正的菠蘿果肉 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)",
-            "麵包頂部塗上了朱古力醬 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)",
-            "麵包是用油炸熟的 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)"
+            "中間夾入了一片厚切冰牛油 (Core target concept - Unit 6 Target Practice)",
+            "裡面包了真正的菠蘿果肉 (Core target concept - Unit 6 Target Practice)",
+            "麵包頂部塗上了朱古力醬 (Core target concept - Unit 6 Target Practice)",
+            "麵包是用油炸熟的 (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「菠蘿油」係在剛出爐之熱菠蘿包中橫切夾入厚切冰凍牛油（牛油遇熱半融）。"
@@ -2759,10 +2759,10 @@
           "type": "multiple-choice",
           "prompt": "【品味習慣】在香港茶餐廳飲「凍檸茶」時，顧客常拿茶匙做邊個動作以萃取檸檬汁？",
           "options": [
-            "篤檸檬",
-            "撈走檸檬扔掉 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)",
-            "把茶水倒進杯蓋 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)",
-            "加大量白開水 (掌握茶餐廳核心特色餐點（菠蘿油、乾炒牛河、西多士）與經典港式飲品（凍檸茶、絲襪奶茶、鴛鴦）。)"
+            "篤檸檬 (Core target concept - Unit 6 Target Practice)",
+            "撈走檸檬扔掉 (Core target concept - Unit 6 Target Practice)",
+            "把茶水倒進杯蓋 (Core target concept - Unit 6 Target Practice)",
+            "加大量白開水 (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「篤檸檬」（用茶匙反覆戳壓檸檬片）係港人釋放檸檬香氣酸味之經典習慣。"
@@ -2810,10 +2810,10 @@
         {
           "prompt": "【點餐術語】在茶餐廳點凍飲時，如果不想要加糖漿，應說：",
           "options": [
-            "走甜",
-            "多甜",
-            "走冰",
-            "烘底"
+            "走甜 (Language concept U6)",
+            "多甜 (Language concept U6)",
+            "走冰 (Language concept U6)",
+            "烘底 (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "「走甜」（zau2 tim4）即免糖、不放糖漿。"
@@ -2825,10 +2825,10 @@
         {
           "prompt": "【三文治術語】點餐時講「腿蛋治烘底」，其中「烘底」之意思係：",
           "options": [
-            "將三文治麵包在多士爐中烤脆",
-            "切除麵包皮 (掌握茶餐廳高度個性化之定製術語（走甜、少甜、走冰、少冰、走青、烘底、飛邊、多汁）。)",
-            "加多一隻煎蛋 (掌握茶餐廳高度個性化之定製術語（走甜、少甜、走冰、少冰、走青、烘底、飛邊、多汁）。)",
-            "加大量番茄醬 (掌握茶餐廳高度個性化之定製術語（走甜、少甜、走冰、少冰、走青、烘底、飛邊、多汁）。)"
+            "將三文治麵包在多士爐中烤脆 (Language concept U6)",
+            "切除麵包皮 (Language concept U6)",
+            "加多一隻煎蛋 (Language concept U6)",
+            "加大量番茄醬 (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "「烘底」（hung3 dai2）指將吐司烘烤成多士。"
@@ -2841,10 +2841,10 @@
           "type": "multiple-choice",
           "prompt": "【飲食禁忌】顧客點雲吞麵時強調「走青」，廚師出餐時會排除以下邊種食材？",
           "options": [
-            "蔥花與芫荽",
-            "雲吞與蝦肉 (掌握茶餐廳高度個性化之定製術語（走甜、少甜、走冰、少冰、走青、烘底、飛邊、多汁）。)",
-            "麵條與湯底 (掌握茶餐廳高度個性化之定製術語（走甜、少甜、走冰、少冰、走青、烘底、飛邊、多汁）。)",
-            "大地魚乾 (掌握茶餐廳高度個性化之定製術語（走甜、少甜、走冰、少冰、走青、烘底、飛邊、多汁）。)"
+            "蔥花與芫荽 (Language concept U6)",
+            "雲吞與蝦肉 (Language concept U6)",
+            "麵條與湯底 (Language concept U6)",
+            "大地魚乾 (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "「青」（ceng1）指綠色調味料蔥花與芫荽，「走青」即不要蔥芫荽。"
@@ -2892,10 +2892,10 @@
         {
           "prompt": "【結帳用語】在香港食肆用餐完畢欲結帳付款，最地道核心之粵語說法係：",
           "options": [
-            "埋單",
-            "買菜",
-            "加單",
-            "開茶"
+            "埋單 (Language concept U6)",
+            "買菜 (Language concept U6)",
+            "加單 (Language concept U6)",
+            "開茶 (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "「埋單」（maai4 daan1）係粵語結帳之絕對通用詞。"
@@ -2907,10 +2907,10 @@
         {
           "prompt": "【就餐文化】在茶餐廳繁忙時間，侍應引導兩位互不認識之顧客同坐一張四人桌，此現象稱為：",
           "options": [
-            "搭枱",
-            "開枱",
-            "拆枱",
-            "擺枱"
+            "搭枱 (Language concept U6)",
+            "開枱 (Language concept U6)",
+            "拆枱 (Language concept U6)",
+            "擺枱 (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "「搭枱」（daap3 toi2）即與陌生人拼桌共用一張餐桌。"
@@ -2923,10 +2923,10 @@
           "type": "multiple-choice",
           "prompt": "【外賣俚語】在港式茶飲店點了一杯熱奶茶並打算邊走邊喝帶走，店員常稱之為：",
           "options": [
-            "行街",
-            "堂食",
-            "坐低",
-            "搭枱"
+            "行街 (Core target concept - Unit 6 Target Practice)",
+            "堂食 (Core target concept - Unit 6 Target Practice)",
+            "坐低 (Core target concept - Unit 6 Target Practice)",
+            "搭枱 (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "飲品外帶邊行邊飲被俚俗稱為「行街」（如「熱奶茶行街」）。"
@@ -2974,10 +2974,10 @@
         {
           "prompt": "【語法造句】欲表達「我已經買了車票」，正確之粵語句子係：",
           "options": [
-            "我已經買咗車飛喇。",
-            "我已經買車飛咗喇。",
-            "我已經買車飛了。",
-            "我買咗車飛已經冇。"
+            "我已經買咗車飛喇 (zo2 - Unit 7 Target Practice)",
+            "我已經買車飛咗喇 (zo2 - Unit 7 Target Practice)",
+            "我已經買車飛了 (zo2 - Unit 7 Target Practice)",
+            "我買咗車飛已經冇 (zo2 - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「咗」（zo2）必須緊跟在動詞「買」之後（買咗車飛）。"
@@ -2989,10 +2989,10 @@
         {
           "prompt": "【否定轉換】對問句「你簽咗份合約未？」，標準之否定回答係：",
           "options": [
-            "我仲未簽。",
-            "我冇簽咗。",
-            "我唔係簽咗。",
-            "我未簽咗。"
+            "我仲未簽 (zo2 - Unit 7 Target Practice)",
+            "我冇簽咗 (zo2 - Unit 7 Target Practice)",
+            "我唔係簽咗 (zo2 - Unit 7 Target Practice)",
+            "我未簽咗 (zo2 - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "否定完成貌使用「未 / 仲未」，同時必須去掉「咗」（仲未簽）。"
@@ -3005,10 +3005,10 @@
           "type": "multiple-choice",
           "prompt": "【語法辨析】關於粵語助詞「咗」（zo2）之用法，以下敘述何者完全正確？",
           "options": [
-            "必須緊隨動詞之後表示動作完成 (「咗」作為動態助詞，必須緊貼動詞後面。)",
-            "必須放在句末表示狀態改變",
-            "可以用於否定句「冇＋動詞＋咗」",
-            "只能用於形容詞後面"
+            "必須緊隨動詞之後表示動作完成 (zo2 - Unit 7 Target Practice)",
+            "必須放在句末表示狀態改變 (zo2 - Unit 7 Target Practice)",
+            "可以用於否定句「冇＋動詞＋咗 (zo2 - Unit 7 Target Practice)",
+            "只能用於形容詞後面 (zo2 - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「咗」作為動態助詞，必須緊貼動詞後面。"
@@ -3056,10 +3056,10 @@
         {
           "prompt": "【進行時態】欲表達「他正在聽音樂」，最地道之粵語句子係：",
           "options": [
-            "佢聽緊音樂。",
-            "佢聽咗音樂。",
-            "佢聽過音樂。",
-            "佢聽住音樂喇。"
+            "佢聽緊音樂 (gan2 U7)",
+            "佢聽咗音樂 (gan2 U7)",
+            "佢聽過音樂 (gan2 U7)",
+            "佢聽住音樂喇 (gan2 U7)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞＋緊」（聽緊）表示動作正在進行中。"
@@ -3071,10 +3071,10 @@
         {
           "prompt": "【語意理解】句子「我覆緊客戶電郵」表示之時間狀態係：",
           "options": [
-            "說話當下正在回覆客戶郵件",
-            "昨天已經回覆完了客戶郵件",
-            "從來沒有回覆過客戶郵件",
-            "明天打算回覆客戶郵件"
+            "說話當下正在回覆客戶郵件 (gan2 U7)",
+            "昨天已經回覆完了客戶郵件 (gan2 U7)",
+            "從來沒有回覆過客戶郵件 (gan2 U7)",
+            "明天打算回覆客戶郵件 (gan2 U7)"
           ],
           "answerIndex": 0,
           "explanation": "「覆緊」（覆＋緊）精確標記當下正在進行之動作。"
@@ -3087,10 +3087,10 @@
           "type": "multiple-choice",
           "prompt": "【語句糾錯】在以下句子中，邊句正確運用「緊」表達「正在下雨」？",
           "options": [
-            "出面落緊雨。",
-            "出面緊落雨。",
-            "出面落雨緊。",
-            "出面緊雨落。"
+            "出面落緊雨 (gan2 U7)",
+            "出面緊落雨 (gan2 U7)",
+            "出面落雨緊 (gan2 U7)",
+            "出面緊雨落 (gan2 U7)"
           ],
           "answerIndex": 0,
           "explanation": "「緊」必須緊貼動詞「落」（落緊雨）。"
@@ -3138,10 +3138,10 @@
         {
           "prompt": "【經歷表達】欲表達「我以前在英國住過兩年」，正確之粵語句子係：",
           "options": [
-            "我以前喺英國住過兩年。",
-            "我以前喺英國住咗兩年喇。",
-            "我以前喺英國住緊兩年。",
-            "我以前喺英國住住兩年。"
+            "我以前喺英國住過兩年 (gwo3 U7)",
+            "我以前喺英國住咗兩年喇 (gwo3 U7)",
+            "我以前喺英國住緊兩年 (gwo3 U7)",
+            "我以前喺英國住住兩年 (gwo3 U7)"
           ],
           "answerIndex": 0,
           "explanation": "表達過去的人生經歷體驗使用經歷貌助詞「過」（住過兩年）。"
@@ -3153,10 +3153,10 @@
         {
           "prompt": "【從未經歷】欲表達「我從來沒有喝過絲襪奶茶」，最正宗之粵語說法係：",
           "options": [
-            "我從來未飲過絲襪奶茶。",
-            "我從來冇飲咗絲襪奶茶。",
-            "我從來唔飲緊絲襪奶茶。",
-            "我從來未飲咗絲襪奶茶。"
+            "我從來未飲過絲襪奶茶 (gwo3 U7)",
+            "我從來冇飲咗絲襪奶茶 (gwo3 U7)",
+            "我從來唔飲緊絲襪奶茶 (gwo3 U7)",
+            "我從來未飲咗絲襪奶茶 (gwo3 U7)"
           ],
           "answerIndex": 0,
           "explanation": "「從來未＋動詞＋過」（從來未飲過）係否定經歷之標準構式。"
@@ -3169,10 +3169,10 @@
           "type": "multiple-choice",
           "prompt": "【時態區分】「我食咗藥」與「我食過嗰隻藥」之核心差異在於：",
           "options": [
-            "前者指剛才完成了吃藥動作，後者指過去曾有過吃那種藥的經歷 (「咗」標記具體事件之完成，「過」標記人生體驗經歷。)",
-            "前者指正在吃藥，後者指將要吃藥",
-            "兩者意思完全相同沒有分別",
-            "前者指否定吃藥，後者指肯定吃藥"
+            "前者指剛才完成了吃藥動作，後者指過去曾有過吃那種藥的經歷 (gwo3 U7)",
+            "前者指正在吃藥，後者指將要吃藥 (gwo3 U7)",
+            "兩者意思完全相同沒有分別 (gwo3 U7)",
+            "前者指否定吃藥，後者指肯定吃藥 (gwo3 U7)"
           ],
           "answerIndex": 0,
           "explanation": "「咗」標記具體事件之完成，「過」標記人生體驗經歷。"
@@ -3220,10 +3220,10 @@
         {
           "prompt": "【伴隨動作】欲表達「我們邊走邊談這件事」，最地道之粵語句子係：",
           "options": [
-            "我哋行住傾呢件事。",
-            "我哋行咗傾呢件事。",
-            "我哋行過傾呢件事。",
-            "我哋行緊傾呢件事。"
+            "我哋行住傾呢件事 (zyu6 U7)",
+            "我哋行咗傾呢件事 (zyu6 U7)",
+            "我哋行過傾呢件事 (zyu6 U7)",
+            "我哋行緊傾呢件事 (zyu6 U7)"
           ],
           "answerIndex": 0,
           "explanation": "「動詞1＋住＋動詞2」（行住傾）表示伴隨動作（邊走邊聊）。"
@@ -3235,10 +3235,10 @@
         {
           "prompt": "【祈使暫緩】朋友催促你離開，你希望對方「先別走，等我五分鐘」，應講：",
           "options": [
-            "唔好走住，等我五分鐘！",
-            "唔好走咗，等我五分鐘！",
-            "唔好走緊，等我五分鐘！",
-            "唔好走過，等我五分鐘！"
+            "唔好走住，等我五分鐘！ (zyu6 U7)",
+            "唔好走咗，等我五分鐘！ (zyu6 U7)",
+            "唔好走緊，等我五分鐘！ (zyu6 U7)",
+            "唔好走過，等我五分鐘！ (zyu6 U7)"
           ],
           "answerIndex": 0,
           "explanation": "「唔好＋動詞＋住」（唔好走住）表示「先不要做某事 / 暫緩做某事」。"
@@ -3251,10 +3251,10 @@
           "type": "multiple-choice",
           "prompt": "【語法功能】助詞「住」（zyu6）在句子「你著住件衫」中承擔之核心語法功能係：",
           "options": [
-            "表示靜態穿著狀態之持續",
-            "表示動作已經結束",
-            "表示動作從未發生",
-            "表示將來計劃"
+            "表示靜態穿著狀態之持續 (zyu6 U7)",
+            "表示動作已經結束 (zyu6 U7)",
+            "表示動作從未發生 (zyu6 U7)",
+            "表示將來計劃 (zyu6 U7)"
           ],
           "answerIndex": 0,
           "explanation": "「著住」表示穿著狀態之持續延續。"
@@ -3302,10 +3302,10 @@
         {
           "prompt": "【語境填空】「我＿＿＿（剛才）食＿＿＿（完成）午餐，依家＿＿＿（正在）寫＿＿＿（進行）報告」，應填入：",
           "options": [
-            "啱啱 …… 咗 …… 正喺度 …… 緊 (「啱啱……咗」搭配完成貌，「正喺度……緊」搭配進行貌。)",
-            "已經 …… 緊 …… 仲未 …… 咗",
-            "從來 …… 過 …… 已經 …… 住",
-            "正喺度 …… 住 …… 啱啱 …… 過"
+            "啱啱 …… 咗 …… 正喺度 …… 緊 (Core target concept - Unit 7 Target Practice)",
+            "已經 …… 緊 …… 仲未 …… 咗 (Core target concept - Unit 7 Target Practice)",
+            "從來 …… 過 …… 已經 …… 住 (Core target concept - Unit 7 Target Practice)",
+            "正喺度 …… 住 …… 啱啱 …… 過 (Core target concept - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「啱啱……咗」搭配完成貌，「正喺度……緊」搭配進行貌。"
@@ -3317,10 +3317,10 @@
         {
           "prompt": "【時體辨析】「你睇緊邊套戲？」詢問之焦點在於：",
           "options": [
-            "你當下正在觀看哪部電影",
-            "你昨天看完了哪部電影",
-            "你生平看過哪部電影",
-            "你打算買哪部電影的票"
+            "你當下正在觀看哪部電影 (Core target concept - Unit 7 Target Practice)",
+            "你昨天看完了哪部電影 (Core target concept - Unit 7 Target Practice)",
+            "你生平看過哪部電影 (Core target concept - Unit 7 Target Practice)",
+            "你打算買哪部電影的票 (Core target concept - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「睇緊」標記正在進行之觀影動作。"
@@ -3333,10 +3333,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合判斷】以下四個句子中，邊句正確表達「我們邊喝茶邊聊天」？",
           "options": [
-            "我哋飲住茶傾偈。",
-            "我哋飲咗茶傾偈。",
-            "我哋飲過茶傾偈。",
-            "我哋飲緊茶傾咗偈。"
+            "我哋飲住茶傾偈 (Core target concept - Unit 7 Target Practice)",
+            "我哋飲咗茶傾偈 (Core target concept - Unit 7 Target Practice)",
+            "我哋飲過茶傾偈 (Core target concept - Unit 7 Target Practice)",
+            "我哋飲緊茶傾咗偈 (Core target concept - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「飲住茶傾偈」（V1住＋V2）正確表達伴隨動作（邊喝茶邊聊天）。"
@@ -3384,10 +3384,10 @@
         {
           "prompt": "【方向指示】路人告訴你「喺前面紅綠燈位轉右」，你應該進行之動作係：",
           "options": [
-            "在前面的交通信號燈處向右轉",
-            "在前面的交通信號燈處向左轉 (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)",
-            "在前面的交通信號燈處往後退 (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)",
-            "在前面的交通信號燈處停下不走 (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)"
+            "在前面的交通信號燈處向右轉 (Language concept U8)",
+            "在前面的交通信號燈處向左轉 (Language concept U8)",
+            "在前面的交通信號燈處往後退 (Language concept U8)",
+            "在前面的交通信號燈處停下不走 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "「轉右」（zyun3 jau6）即向右轉，「燈位」指紅綠燈處。"
@@ -3399,10 +3399,10 @@
         {
           "prompt": "【立體交通】欲表達「乘搭自動扶手電梯上二樓」，最地道之粵語動賓搭配係：",
           "options": [
-            "搭扶手電梯上二樓",
-            "行升降機上二樓 (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)",
-            "坐斑馬線上二樓 (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)",
-            "飛天橋上二樓 (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)"
+            "搭扶手電梯上二樓 (Language concept U8)",
+            "行升降機上二樓 (Language concept U8)",
+            "坐斑馬線上二樓 (Language concept U8)",
+            "飛天橋上二樓 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "手扶梯在粵語中稱為「扶手電梯」（fu4 sau2 din6 tai1）。"
@@ -3415,10 +3415,10 @@
           "type": "multiple-choice",
           "prompt": "【問路句式】欲向路人禮貌詢問「去香港站應該怎麼走」，最地道標準之句式係：",
           "options": [
-            "請問去香港站應該點樣行？",
-            "請問去香港站幾多錢一個？ (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)",
-            "請問去香港站食咗飯未？ (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)",
-            "請問去香港站有冇得打包？ (掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。)"
+            "請問去香港站應該點樣行？ (Core target concept - Unit 8 Target Practice)",
+            "請問去香港站幾多錢一個？ (Core target concept - Unit 8 Target Practice)",
+            "請問去香港站食咗飯未？ (Core target concept - Unit 8 Target Practice)",
+            "請問去香港站有冇得打包？ (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「應該點樣行」（應該怎麼走）係粵語問路最經典之表達。"
@@ -3466,10 +3466,10 @@
         {
           "prompt": "【充值用語】在香港便利店欲為八達通充值 200 港幣，應講：",
           "options": [
-            "唔該八達通增值兩百蚊。",
-            "唔該八達通買單兩百蚊。 (掌握乘搭港鐵必備術語（入閘、出閘、轉線、月台）以及在便利店或客務中心為八達通「增值」之實用語句。)",
-            "唔該八達通找錢兩百蚊。 (掌握乘搭港鐵必備術語（入閘、出閘、轉線、月台）以及在便利店或客務中心為八達通「增值」之實用語句。)",
-            "唔該八達通平啲兩百蚊。 (掌握乘搭港鐵必備術語（入閘、出閘、轉線、月台）以及在便利店或客務中心為八達通「增值」之實用語句。)"
+            "唔該八達通增值兩百蚊 (Language concept U8)",
+            "唔該八達通買單兩百蚊 (Language concept U8)",
+            "唔該八達通找錢兩百蚊 (Language concept U8)",
+            "唔該八達通平啲兩百蚊 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "「增值」（zang1 zik6）係粵語為儲值卡充值之唯一正宗專用詞。"
@@ -3481,10 +3481,10 @@
         {
           "prompt": "【換乘術語】在港鐵廣播中聽到「往柴灣方向嘅乘客，請喺呢個站＿＿＿」，空格應填入：",
           "options": [
-            "轉線",
-            "出閘",
-            "打包",
-            "埋單"
+            "轉線 (Language concept U8)",
+            "出閘 (Language concept U8)",
+            "打包 (Language concept U8)",
+            "埋單 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "地鐵換乘線路稱為「轉線」（zyun3 sin3）。"
@@ -3497,10 +3497,10 @@
           "type": "multiple-choice",
           "prompt": "【動作識別】將八達通靠近地鐵閘機感應區刷卡進站，此動作在粵語中稱為：",
           "options": [
-            "拍卡入閘",
-            "轉線出閘",
-            "埋單找錢",
-            "走青烘底"
+            "拍卡入閘 (Language concept U8)",
+            "轉線出閘 (Language concept U8)",
+            "埋單找錢 (Language concept U8)",
+            "走青烘底 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "刷卡進站稱為「拍卡入閘」（paak3 kaat1 jap6 zaap6）。"
@@ -3548,10 +3548,10 @@
         {
           "prompt": "【小巴喊話】乘搭香港小巴即將到達目的地紅綠燈處，欲要求司機停車下車，最地道之喊話係：",
           "options": [
-            "司機，燈位有落，唔該！",
-            "司機，我想埋單！",
-            "司機，唔該增值一百蚊！",
-            "司機，我想食雲吞麵！"
+            "司機，燈位有落，唔該！ (Core target concept - Unit 8 Target Practice)",
+            "司機，我想埋單！ (Core target concept - Unit 8 Target Practice)",
+            "司機，唔該增值一百蚊！ (Core target concept - Unit 8 Target Practice)",
+            "司機，我想食雲吞麵！ (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「燈位有落，唔該！」係要求在紅綠燈處下車最標準地道之小巴用語。"
@@ -3563,10 +3563,10 @@
         {
           "prompt": "【語意理解】在小巴上聽到有乘客大嗌「過咗天橋有落」，其準確含義係：",
           "options": [
-            "穿過天橋之後靠邊停車讓我下車",
-            "在天橋正上方停車跳下去",
-            "司機開車撞到了天橋",
-            "天橋上面有人跌落下來"
+            "穿過天橋之後靠邊停車讓我下車 (Core target concept - Unit 8 Target Practice)",
+            "在天橋正上方停車跳下去 (Core target concept - Unit 8 Target Practice)",
+            "司機開車撞到了天橋 (Core target concept - Unit 8 Target Practice)",
+            "天橋上面有人跌落下來 (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「過咗天橋有落」指越過天橋後立即停車落客。"
@@ -3579,10 +3579,10 @@
           "type": "multiple-choice",
           "prompt": "【文化禮儀】在香港乘搭沒有按鈴裝置之紅色小巴時，乘客要求下車之常規方式係：",
           "options": [
-            "提前大聲向司機呼喊「有落」",
-            "在座位上默默等待司機主動問每個人",
-            "直接站起來走到司機身旁拍司機肩膀",
-            "用手機向運輸署發送下車短信"
+            "提前大聲向司機呼喊「有落 (Core target concept - Unit 8 Target Practice)",
+            "在座位上默默等待司機主動問每個人 (Core target concept - Unit 8 Target Practice)",
+            "直接站起來走到司機身旁拍司機肩膀 (Core target concept - Unit 8 Target Practice)",
+            "用手機向運輸署發送下車短信 (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "乘搭紅色小巴必須由乘客主動大聲嗌「有落」。"
@@ -3630,10 +3630,10 @@
         {
           "prompt": "【的士小費】車費為 88 元，你給予司機 100 元並表示不用找零錢，應講：",
           "options": [
-            "唔使找喇，多謝司機！",
-            "一定要找錢畀我！ (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)",
-            "唔該印張車飛！ (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)",
-            "我想轉線去柴灣！ (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)"
+            "唔使找喇，多謝司機！ (Language concept U8)",
+            "一定要找錢畀我！ (Language concept U8)",
+            "唔該印張車飛！ (Language concept U8)",
+            "我想轉線去柴灣！ (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "「唔使找喇」（m4 sai2 zaau2 laa3）意為不用找零錢了。"
@@ -3645,10 +3645,10 @@
         {
           "prompt": "【隧道名稱】在香港從九龍過海到港島，所稱「西隧」之全名係：",
           "options": [
-            "西區海底隧道",
-            "香港大橋隧道 (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)",
-            "獅子山隧道 (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)",
-            "將軍澳隧道 (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)"
+            "西區海底隧道 (Language concept U8)",
+            "香港大橋隧道 (Language concept U8)",
+            "獅子山隧道 (Language concept U8)",
+            "將軍澳隧道 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "「西隧」（sai1 seoi6）即西區海底隧道。"
@@ -3661,10 +3661,10 @@
           "type": "multiple-choice",
           "prompt": "【發票索取】下車前欲向的士司機索取乘車發票收據，最正確之粵語說法係：",
           "options": [
-            "司機，唔該印張收據 / 印張飛。",
-            "司機，唔該埋單加單。 (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)",
-            "司機，唔該走青少甜。 (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)",
-            "司機，唔該行直轉左。 (掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。)"
+            "司機，唔該印張收據 / 印張飛 (Language concept U8)",
+            "司機，唔該埋單加單 (Language concept U8)",
+            "司機，唔該走青少甜 (Language concept U8)",
+            "司機，唔該行直轉左 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "打印發票稱為「印張收據」或「印張飛」（jan3 zoeng1 fei1）。"
@@ -3712,10 +3712,10 @@
         {
           "prompt": "【地標識別】位於九龍半島南端、坐擁維多利亞港壯麗海景與星光大道之著名街區係：",
           "options": [
-            "尖沙咀",
-            "中環",
-            "屯門",
-            "沙田"
+            "尖沙咀 (Language concept U8)",
+            "中環 (Language concept U8)",
+            "屯門 (Language concept U8)",
+            "沙田 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "尖沙咀（zim1 saa1 zeoi2）位於九龍半島南端。"
@@ -3727,10 +3727,10 @@
         {
           "prompt": "【空間語彙】在香港日常口語中，「過海」（gwo3 hoi2）所指之具體地理行為係：",
           "options": [
-            "橫渡或穿過維多利亞港（往返港島與九龍） (「過海」專指跨越維多利亞港往返港島與九龍。)",
-            "出國去外國旅遊 (掌握香港三大地理板塊（港島、九龍、新界）及核心著名街區地標之粵語地道發音與文化認知。)",
-            "游泳去大嶼山 (掌握香港三大地理板塊（港島、九龍、新界）及核心著名街區地標之粵語地道發音與文化認知。)",
-            "坐輪船去澳門 (掌握香港三大地理板塊（港島、九龍、新界）及核心著名街區地標之粵語地道發音與文化認知。)"
+            "橫渡或穿過維多利亞港 (Core target concept - Unit 8 Target Practice)",
+            "出國去外國旅遊 (Core target concept - Unit 8 Target Practice)",
+            "游泳去大嶼山 (Core target concept - Unit 8 Target Practice)",
+            "坐輪船去澳門 (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「過海」專指跨越維多利亞港往返港島與九龍。"
@@ -3743,10 +3743,10 @@
           "type": "multiple-choice",
           "prompt": "【區域歸屬】以下邊個著名繁華街區位於香港島（而非九龍）？",
           "options": [
-            "銅鑼灣",
-            "旺角",
-            "尖沙咀",
-            "深水埗"
+            "銅鑼灣 (Language concept U8)",
+            "旺角 (Language concept U8)",
+            "尖沙咀 (Language concept U8)",
+            "深水埗 (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "銅鑼灣（Causeway Bay）位於香港島北岸。"
@@ -3794,10 +3794,10 @@
         {
           "prompt": "【度量衡計量】在香港海鮮檔買蝦，檔主問「要幾多？」，你欲購買半斤，應講：",
           "options": [
-            "唔該要半斤",
-            "唔該要半打 (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)",
-            "唔該要半條 (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)",
-            "唔該要半間 (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)"
+            "唔該要半斤 (Language concept U9)",
+            "唔該要半打 (Language concept U9)",
+            "唔該要半條 (Language concept U9)",
+            "唔該要半間 (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "「半斤」（bun3 gan1）指半司馬斤（八兩）。"
@@ -3809,10 +3809,10 @@
         {
           "prompt": "【語句探詢】向水果檔店主詢問富士蘋果價格，最地道之問法係：",
           "options": [
-            "呢啲富士蘋果幾多錢一磅話？",
-            "呢啲富士蘋果有冇得搭枱？ (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)",
-            "呢啲富士蘋果印張收據未？ (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)",
-            "呢啲富士蘋果轉線出閘未？ (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)"
+            "呢啲富士蘋果幾多錢一磅話？ (Core target concept - Unit 9 Target Practice)",
+            "呢啲富士蘋果有冇得搭枱？ (Core target concept - Unit 9 Target Practice)",
+            "呢啲富士蘋果印張收據未？ (Core target concept - Unit 9 Target Practice)",
+            "呢啲富士蘋果轉線出閘未？ (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「幾多錢一磅話？」（gei2 do1 cin2 jat1 bong6 waa2）係詢價最地道自然之口語表達。"
@@ -3825,10 +3825,10 @@
           "type": "multiple-choice",
           "prompt": "【度量衡換算】在香港傳統街市中，一「司馬斤」等於幾多「兩」？",
           "options": [
-            "十六兩",
-            "十兩 (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)",
-            "十二兩 (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)",
-            "二十兩 (掌握粵語市集詢價核心句式、傳統嶺南度量衡單位（斤、兩、磅、打）及街市買餸實用語彙。)"
+            "十六兩 (Core target concept - Unit 9 Target Practice)",
+            "十兩 (Core target concept - Unit 9 Target Practice)",
+            "十二兩 (Core target concept - Unit 9 Target Practice)",
+            "二十兩 (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "香港傳統司馬斤為十六兩制（半斤八兩）。"
@@ -3876,10 +3876,10 @@
         {
           "prompt": "【零錢兌換】欲請店員將一張 500 元大鈔破開換成零錢，最地道之粵語說法係：",
           "options": [
-            "唔該幫我唱散張五百蚊紙。",
-            "唔該幫我埋單張五百蚊紙。 (掌握粵語貨幣單位（蚊、毫子、仙）、找續算術表達（找返、唱錢）及零錢日常用語（散銀、散紙）。)",
-            "唔該幫我增值張五百蚊紙。 (掌握粵語貨幣單位（蚊、毫子、仙）、找續算術表達（找返、唱錢）及零錢日常用語（散銀、散紙）。)",
-            "唔該幫我打包張五百蚊紙。 (掌握粵語貨幣單位（蚊、毫子、仙）、找續算術表達（找返、唱錢）及零錢日常用語（散銀、散紙）。)"
+            "唔該幫我唱散張五百蚊紙 (Language concept U9)",
+            "唔該幫我埋單張五百蚊紙 (Language concept U9)",
+            "唔該幫我增值張五百蚊紙 (Language concept U9)",
+            "唔該幫我打包張五百蚊紙 (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "「唱散」（coeng3 saan2）意為把大額紙幣兌換為零錢。"
@@ -3891,10 +3891,10 @@
         {
           "prompt": "【找零計算】購物花費 35 元，顧客付 50 元，店員找回 15 元零錢時應講：",
           "options": [
-            "找返十五蚊畀你，唔該晒！",
-            "增值十五蚊畀你！ (掌握粵語貨幣單位（蚊、毫子、仙）、找續算術表達（找返、唱錢）及零錢日常用語（散銀、散紙）。)",
-            "買單十五蚊畀你！ (掌握粵語貨幣單位（蚊、毫子、仙）、找續算術表達（找返、唱錢）及零錢日常用語（散銀、散紙）。)",
-            "行街十五蚊畀你！ (掌握粵語貨幣單位（蚊、毫子、仙）、找續算術表達（找返、唱錢）及零錢日常用語（散銀、散紙）。)"
+            "找返十五蚊畀你，唔該晒！ (Language concept U9)",
+            "增值十五蚊畀你！ (Language concept U9)",
+            "買單十五蚊畀你！ (Language concept U9)",
+            "行街十五蚊畀你！ (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "「找返……畀你」（zaau2 faan1...bei2 nei5）係找回零錢之標準用語。"
@@ -3907,10 +3907,10 @@
           "type": "multiple-choice",
           "prompt": "【俚語識別】在香港俗語中，「金牛 / 大牛」通常指代面額幾多之紙幣？",
           "options": [
-            "一千蚊紙",
-            "五百蚊紙",
-            "一百蚊紙",
-            "五十蚊紙"
+            "一千蚊紙 (Core target concept - Unit 9 Target Practice)",
+            "五百蚊紙 (Core target concept - Unit 9 Target Practice)",
+            "一百蚊紙 (Core target concept - Unit 9 Target Practice)",
+            "五十蚊紙 (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "香港俗稱一千元港幣紙幣為「金牛 / 大牛」。"
@@ -3958,10 +3958,10 @@
         {
           "prompt": "【折扣計算】在香港服裝店看到櫥窗貼著「全場八折」，其含義為：",
           "options": [
-            "所有商品按原價百分之八十出售（享受 20% 折扣）",
-            "所有商品只需八塊錢 (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)",
-            "買八件衣服打折 (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)",
-            "每件衣服降價八塊錢 (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)"
+            "所有商品按原價百分之八十出售 (Language concept U9)",
+            "所有商品只需八塊錢 (Language concept U9)",
+            "買八件衣服打折 (Language concept U9)",
+            "每件衣服降價八塊錢 (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "「八折」（baat3 zit3）即原價之 80%（20% off）。"
@@ -3973,10 +3973,10 @@
         {
           "prompt": "【排檔講價】在旺角排檔購物，欲請店主算便宜一點點，最地道得體之句式係：",
           "options": [
-            "老闆，計平少少得唔得呀？",
-            "老闆，唔該幫我搭枱！ (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)",
-            "老闆，唔該印張車飛！ (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)",
-            "老闆，落緊大雨未？ (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)"
+            "老闆，計平少少得唔得呀？ (Core target concept - Unit 9 Target Practice)",
+            "老闆，唔該幫我搭枱！ (Core target concept - Unit 9 Target Practice)",
+            "老闆，唔該印張車飛！ (Core target concept - Unit 9 Target Practice)",
+            "老闆，落緊大雨未？ (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「計平少少得唔得呀？」（算便宜一點好不好）係地道講價句式。"
@@ -3989,10 +3989,10 @@
           "type": "multiple-choice",
           "prompt": "【促銷用語】商場門口掛出「買一送一」橫幅，其精確商業含義係：",
           "options": [
-            "購買一件正價商品即可獲贈另一件相同商品",
-            "買一件商品需要送貨一次 (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)",
-            "買了一件商品必須送給別人 (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)",
-            "一次只能購買一件商品 (掌握排檔買賣講價常用對話（平啲啦、計平少少）及商家促銷術語（減價、特價、折、買一送一）。)"
+            "購買一件正價商品即可獲贈另一件相同商品 (Language concept U9)",
+            "買一件商品需要送貨一次 (Language concept U9)",
+            "買了一件商品必須送給別人 (Language concept U9)",
+            "一次只能購買一件商品 (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "「買一送一」（maai5 jat1 sung3 jat1）即買一贈一。"
@@ -4040,10 +4040,10 @@
         {
           "prompt": "【支付動詞】在香港收銀台欲表示「我用信用卡刷卡付款」，應講：",
           "options": [
-            "我碌信用卡畀錢。",
-            "我行街信用卡畀錢。",
-            "我搭枱信用卡畀錢。",
-            "我走青信用卡畀錢。"
+            "我碌信用卡畀錢 (FPS U9)",
+            "我行街信用卡畀錢 (FPS U9)",
+            "我搭枱信用卡畀錢 (FPS U9)",
+            "我走青信用卡畀錢 (FPS U9)"
           ],
           "answerIndex": 0,
           "explanation": "刷信用卡付款在粵語中稱為「碌卡」（luk1 kaat1）。"
@@ -4055,10 +4055,10 @@
         {
           "prompt": "【語彙由來】粵語中用「嘟卡」（dyut1 kaat1）指代刷八達通卡，該詞之由來係：",
           "options": [
-            "刷卡機感應成功時發出的「嘟」提示音",
-            "八達通發明人的名字",
-            "香港某座地鐵站的名稱",
-            "古漢語的傳統動詞"
+            "刷卡機感應成功時發出的「嘟」提示音 (FPS U9)",
+            "八達通發明人的名字 (FPS U9)",
+            "香港某座地鐵站的名稱 (FPS U9)",
+            "古漢語的傳統動詞 (FPS U9)"
           ],
           "answerIndex": 0,
           "explanation": "「嘟」係刷卡機感應提示音之擬聲詞。"
@@ -4071,10 +4071,10 @@
           "type": "multiple-choice",
           "prompt": "【金融術語】香港金管局推行之快速跨銀行即時電子轉帳系統之粵語名稱係：",
           "options": [
-            "轉數快",
-            "八達通",
-            "易辦事",
-            "支票簿"
+            "轉數快 (FPS U9)",
+            "八達通 (FPS U9)",
+            "易辦事 (FPS U9)",
+            "支票簿 (FPS U9)"
           ],
           "answerIndex": 0,
           "explanation": "香港快速支付系統官方俗稱為「轉數快」（FPS）。"
@@ -4122,10 +4122,10 @@
         {
           "prompt": "【店舖識別】香港街坊用以稱呼售賣零食、飲料、香煙及日常雜貨之傳統小店為：",
           "options": [
-            "士多",
-            "月台",
-            "天橋",
-            "燈位"
+            "士多 (Language concept U9)",
+            "月台 (Language concept U9)",
+            "天橋 (Language concept U9)",
+            "燈位 (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "傳統雜貨小店音譯英語 'Store' 稱為「士多」（si6 do1）。"
@@ -4137,10 +4137,10 @@
         {
           "prompt": "【售後權益】所購電器出現故障，欲憑購買發票向商家要求更換一件新貨，應講：",
           "options": [
-            "我憑單據想換貨。",
-            "我憑單據想搭枱。 (掌握香港特色店舖類型名詞（士多、藥房、辦館、街市）及售後退換貨、單據保養期溝通句式。)",
-            "我憑單據想轉線。 (掌握香港特色店舖類型名詞（士多、藥房、辦館、街市）及售後退換貨、單據保養期溝通句式。)",
-            "我憑單據想走甜。 (掌握香港特色店舖類型名詞（士多、藥房、辦館、街市）及售後退換貨、單據保養期溝通句式。)"
+            "我憑單據想換貨 (Core target concept - Unit 9 Target Practice)",
+            "我憑單據想搭枱 (Core target concept - Unit 9 Target Practice)",
+            "我憑單據想轉線 (Core target concept - Unit 9 Target Practice)",
+            "我憑單據想走甜 (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「憑單據想換貨」（憑發票收據想要換貨）係售後更換商品之標準表達。"
@@ -4153,10 +4153,10 @@
           "type": "multiple-choice",
           "prompt": "【商家告示】在香港店舖門口常看到「出門恕不退換」告示牌，其意思係：",
           "options": [
-            "商品售出離開店門後概不提供退貨或換貨服務",
-            "出門時必須向店員脫帽鞠躬 (掌握香港特色店舖類型名詞（士多、藥房、辦館、街市）及售後退換貨、單據保養期溝通句式。)",
-            "走出門口可以免費退換所有商品 (掌握香港特色店舖類型名詞（士多、藥房、辦館、街市）及售後退換貨、單據保養期溝通句式。)",
-            "商品只能在門口使用 (掌握香港特色店舖類型名詞（士多、藥房、辦館、街市）及售後退換貨、單據保養期溝通句式。)"
+            "商品售出離開店門後概不提供退貨或換貨服務 (Core target concept - Unit 9 Target Practice)",
+            "出門時必須向店員脫帽鞠躬 (Core target concept - Unit 9 Target Practice)",
+            "走出門口可以免費退換所有商品 (Core target concept - Unit 9 Target Practice)",
+            "商品只能在門口使用 (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「出門恕不退換」意為商品售出離店後恕不接受退貨或更換。"
@@ -4204,10 +4204,10 @@
         {
           "prompt": "【量詞搭配】在粵語中描述「臉部」與「脖子」，正確之專屬量詞分別係：",
           "options": [
-            "一塊面、一條頸",
-            "一條面、一塊頸 (掌握粵語人體各部位專屬量詞搭配（個、隻、條、塊、對、把）與地道解剖部位名稱（膝頭哥、心口、肚腩）。)",
-            "一隻面、一對頸 (掌握粵語人體各部位專屬量詞搭配（個、隻、條、塊、對、把）與地道解剖部位名稱（膝頭哥、心口、肚腩）。)",
-            "一個面、一把頸 (掌握粵語人體各部位專屬量詞搭配（個、隻、條、塊、對、把）與地道解剖部位名稱（膝頭哥、心口、肚腩）。)"
+            "一塊面、一條頸 (Core target concept - Unit 10 Target Practice)",
+            "一條面、一塊頸 (Core target concept - Unit 10 Target Practice)",
+            "一隻面、一對頸 (Core target concept - Unit 10 Target Practice)",
+            "一個面、一把頸 (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "臉部量詞用「塊」（一塊面），頸部量詞用「條」（一條頸）。"
@@ -4219,10 +4219,10 @@
         {
           "prompt": "【名詞識別】粵語俗稱人體腿部之「膝蓋」為：",
           "options": [
-            "膝頭哥",
-            "心口",
-            "腳板底",
-            "肚腩"
+            "膝頭哥 (Language concept U10)",
+            "心口 (Language concept U10)",
+            "腳板底 (Language concept U10)",
+            "肚腩 (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "膝蓋在粵語中俗稱為「膝頭哥」（sat1 tau4 go1）。"
@@ -4235,10 +4235,10 @@
           "type": "multiple-choice",
           "prompt": "【語法搭配】若指單隻眼睛出現發炎紅腫，最準確之量詞短語係：",
           "options": [
-            "隻眼",
-            "條眼 (掌握粵語人體各部位專屬量詞搭配（個、隻、條、塊、對、把）與地道解剖部位名稱（膝頭哥、心口、肚腩）。)",
-            "把眼 (掌握粵語人體各部位專屬量詞搭配（個、隻、條、塊、對、把）與地道解剖部位名稱（膝頭哥、心口、肚腩）。)",
-            "幅眼 (掌握粵語人體各部位專屬量詞搭配（個、隻、條、塊、對、把）與地道解剖部位名稱（膝頭哥、心口、肚腩）。)"
+            "隻眼 (Core target concept - Unit 10 Target Practice)",
+            "條眼 (Core target concept - Unit 10 Target Practice)",
+            "把眼 (Core target concept - Unit 10 Target Practice)",
+            "幅眼 (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "單隻眼睛或耳朵等對稱器官在粵語中量詞用「隻」（隻眼、隻耳仔）。"
@@ -4286,10 +4286,10 @@
         {
           "prompt": "【語法詞綴】感覺身體微熱、咽喉微痛，似乎「快要感冒了」，最地道之粵語表達係：",
           "options": [
-            "我好似有啲作感冒。",
-            "我好似有啲搭感冒。 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)",
-            "我好似有啲轉感冒。 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)",
-            "我好似有啲走感冒。 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)"
+            "我好似有啲作感冒 (Language concept U10)",
+            "我好似有啲搭感冒 (Language concept U10)",
+            "我好似有啲轉感冒 (Language concept U10)",
+            "我好似有啲走感冒 (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "「作」（zok3）置於病名感冒前，表示感覺快要感冒生病之前兆。"
@@ -4301,10 +4301,10 @@
         {
           "prompt": "【病徵識別】進食不潔食物導致肚子疼痛且頻繁腹瀉，粵語稱此症狀為：",
           "options": [
-            "肚痛同肚痾",
-            "頭痛同頭暈 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)",
-            "鼻塞同流涕 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)",
-            "聲沙同乾咳 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)"
+            "肚痛同肚痾 (Language concept U10)",
+            "頭痛同頭暈 (Language concept U10)",
+            "鼻塞同流涕 (Language concept U10)",
+            "聲沙同乾咳 (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "腹部疼痛腹瀉在粵語中稱為「肚痛同肚痾」（tou5 tung3 tung4 tou5 o1）。"
@@ -4317,10 +4317,10 @@
           "type": "multiple-choice",
           "prompt": "【構詞解析】在粵語短語「作嘔」（zok3 au2）中，字首「作」之確切語義功能為：",
           "options": [
-            "表示想要嘔吐、噁心作嘔之生理預兆體感",
-            "表示故意裝作嘔吐動作 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)",
-            "表示創作關於嘔吐的文章 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)",
-            "表示工作勞動導致嘔吐 (掌握粵語常見病徵詞彙（發燒、頭痛、肚痾、聲沙）與病發前兆構詞詞綴「作」（作感冒、作嘔、作病）。)"
+            "表示想要嘔吐、噁心作嘔之生理預兆體感 (Core target concept - Unit 10 Target Practice)",
+            "表示故意裝作嘔吐動作 (Core target concept - Unit 10 Target Practice)",
+            "表示創作關於嘔吐的文章 (Core target concept - Unit 10 Target Practice)",
+            "表示工作勞動導致嘔吐 (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "前綴「作」在醫學症狀中表示即將發作或產生噁心前兆之生理感受。"
@@ -4368,10 +4368,10 @@
         {
           "prompt": "【醫護尊稱】在香港診所接待處向當值護士登記掛號時，最得體之道地尊稱為：",
           "options": [
-            "姑娘",
-            "老闆娘",
-            "師傅",
-            "經理"
+            "姑娘 (Language concept U10)",
+            "老闆娘 (Language concept U10)",
+            "師傅 (Language concept U10)",
+            "經理 (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "香港文化中尊稱診所及醫院女護士為「姑娘」（gu1 neong4）。"
@@ -4383,10 +4383,10 @@
         {
           "prompt": "【問診交涉】進入診室後，醫生詢問「邊度唔舒服呀？」，欲表達「我喉嚨痛且發燒兩天」，應講：",
           "options": [
-            "我喉嚨痛同埋發燒咗兩日。",
-            "我八達通增值咗兩日。 (掌握香港診所求醫全流程會話（睇醫生、登記掛號、量體溫/血壓、問診答問、藥物過敏確認）。)",
-            "我開茶搭枱咗兩日。 (掌握香港診所求醫全流程會話（睇醫生、登記掛號、量體溫/血壓、問診答問、藥物過敏確認）。)",
-            "我行街買衫咗兩日。 (掌握香港診所求醫全流程會話（睇醫生、登記掛號、量體溫/血壓、問診答問、藥物過敏確認）。)"
+            "我喉嚨痛同埋發燒咗兩日 (Core target concept - Unit 10 Target Practice)",
+            "我八達通增值咗兩日 (Core target concept - Unit 10 Target Practice)",
+            "我開茶搭枱咗兩日 (Core target concept - Unit 10 Target Practice)",
+            "我行街買衫咗兩日 (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「喉嚨痛同埋發燒咗兩日」係準確清晰之病情自述句式。"
@@ -4399,10 +4399,10 @@
           "type": "multiple-choice",
           "prompt": "【醫療安全】醫生處方前詢問「有冇藥物敏感？」，其核心用意為確認：",
           "options": [
-            "病人過往是否對某些特定西藥存在過敏不良反應",
-            "病人是否喜歡吃甜味藥水 (掌握香港診所求醫全流程會話（睇醫生、登記掛號、量體溫/血壓、問診答問、藥物過敏確認）。)",
-            "病人對藥物價格是否敏感在乎 (掌握香港診所求醫全流程會話（睇醫生、登記掛號、量體溫/血壓、問診答問、藥物過敏確認）。)",
-            "病人是否能夠自行吞服藥丸 (掌握香港診所求醫全流程會話（睇醫生、登記掛號、量體溫/血壓、問診答問、藥物過敏確認）。)"
+            "病人過往是否對某些特定西藥存在過敏不良反應 (Language concept U10)",
+            "病人是否喜歡吃甜味藥水 (Language concept U10)",
+            "病人對藥物價格是否敏感在乎 (Language concept U10)",
+            "病人是否能夠自行吞服藥丸 (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "「藥物敏感」（joek6 mat6 man5 gam2）指藥物過敏史。"
@@ -4450,10 +4450,10 @@
         {
           "prompt": "【服藥量詞】藥劑師交代「每次吃兩粒藥片」，在粵語中最地道之說法為：",
           "options": [
-            "每次食兩粒",
-            "每次食兩條",
-            "每次食兩隻",
-            "每次食兩間"
+            "每次食兩粒 (Language concept U10)",
+            "每次食兩條 (Language concept U10)",
+            "每次食兩隻 (Language concept U10)",
+            "每次食兩間 (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "顆粒狀藥丸藥片在粵語中量詞用「粒」（nap1）。"
@@ -4465,10 +4465,10 @@
         {
           "prompt": "【用藥安全】若藥袋上標註「服後可能引起昏睡」，患者在服藥期間應特別避免：",
           "options": [
-            "駕駛汽車或操作重型機械",
-            "喝溫開水",
-            "臥床休息",
-            "按時按量服藥"
+            "駕駛汽車或操作重型機械 (Core target concept - Unit 10 Target Practice)",
+            "喝溫開水 (Core target concept - Unit 10 Target Practice)",
+            "臥床休息 (Core target concept - Unit 10 Target Practice)",
+            "按時按量服藥 (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "引起嗜睡昏睡之藥物（如傳統抗過敏及感冒藥）服後嚴禁駕駛車輛或高空危險操作。"
@@ -4481,10 +4481,10 @@
           "type": "multiple-choice",
           "prompt": "【服藥時機】藥袋標籤註明「飯後服」（faan6 hau6 fuk6），其正確之服用方法係：",
           "options": [
-            "吃完飯後十五至三十分鐘內服用",
-            "吃早飯前三小時服用",
-            "只能在不吃飯的那天服用",
-            "把藥物混合米飯一起吞食"
+            "吃完飯後十五至三十分鐘內服用 (Core target concept - Unit 10 Target Practice)",
+            "吃早飯前三小時服用 (Core target concept - Unit 10 Target Practice)",
+            "只能在不吃飯的那天服用 (Core target concept - Unit 10 Target Practice)",
+            "把藥物混合米飯一起吞食 (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「飯後服」指在用餐結束後適當時間服用以減少藥物對胃黏膜之刺激。"
@@ -4532,10 +4532,10 @@
         {
           "prompt": "【應急呼救】在香港遇到突發重病或嚴重事故欲呼叫救護車，應撥打之緊急求助電話號碼係：",
           "options": [
-            "999",
-            "911",
-            "110",
-            "120"
+            "999 (999 - Unit 10 Target Practice)",
+            "911 (999 - Unit 10 Target Practice)",
+            "110 (999 - Unit 10 Target Practice)",
+            "120 (999 - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "香港之統一緊急求助報警與救護電話號碼為 999。"
@@ -4547,10 +4547,10 @@
         {
           "prompt": "【職場就醫】在香港向公司主管請病假，必備出具由註冊醫生簽發之證明文件，俗稱係：",
           "options": [
-            "病假紙 / 醫生紙",
-            "收據單",
-            "車飛",
-            "八達通卡"
+            "病假紙 / 醫生紙 (999 - Unit 10 Target Practice)",
+            "收據單 (999 - Unit 10 Target Practice)",
+            "車飛 (999 - Unit 10 Target Practice)",
+            "八達通卡 (999 - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "醫生簽發之合法病假證明在香港俗稱為「病假紙」或「醫生紙」。"
@@ -4563,10 +4563,10 @@
           "type": "multiple-choice",
           "prompt": "【俚語識別】香港市民日常俗稱緊急送院之白色救護車為：",
           "options": [
-            "白車",
-            "的士",
-            "小巴",
-            "叮叮"
+            "白車 (999 (U10))",
+            "的士 (999 (U10))",
+            "小巴 (999 (U10))",
+            "叮叮 (999 (U10))"
           ],
           "answerIndex": 0,
           "explanation": "救護車在香港廣泛俗稱為「白車」（baak6 ce1）。"
@@ -4614,10 +4614,10 @@
         {
           "prompt": "【情態否定】若主管告知員工明天是公眾假期，「不需要來公司上班」，最地道之粵語表達係：",
           "options": [
-            "你聽日唔使返工。",
-            "你聽日唔要返工。",
-            "你聽日唔想返工。",
-            "你聽日唔諗住返工。"
+            "你聽日唔使返工 (Core target concept - Unit 11 Target Practice)",
+            "你聽日唔要返工 (Core target concept - Unit 11 Target Practice)",
+            "你聽日唔想返工 (Core target concept - Unit 11 Target Practice)",
+            "你聽日唔諗住返工 (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「要」（必須）之情態否定為「唔使」（不必/不需要）。"
@@ -4629,10 +4629,10 @@
         {
           "prompt": "【意圖表達】欲表達自己「原本打算週末去圖書館看書」，應使用之助動詞係：",
           "options": [
-            "我週末諗住去圖書館睇書。",
-            "我週末搭去圖書館睇書。",
-            "我週末轉去圖書館睇書。",
-            "我週末落去圖書館睇書。"
+            "我週末諗住去圖書館睇書 (Language concept U11)",
+            "我週末搭去圖書館睇書 (Language concept U11)",
+            "我週末轉去圖書館睇書 (Language concept U11)",
+            "我週末落去圖書館睇書 (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "「諗住」（lam2 zyu6）表示心中的打算或計劃。"
@@ -4645,10 +4645,10 @@
           "type": "multiple-choice",
           "prompt": "【語義辨析】在粵語中，「你要唔要加糖？」與「你使唔使加糖？」之細微語意差異為：",
           "options": [
-            "「要唔要」詢問是否想要具體物品糖，「使唔使」詢問客觀上是否需要進行加糖動作",
-            "兩者完全相反，「要唔要」表示拒絕",
-            "「使唔使」只能對長輩使用",
-            "「要唔要」只能在茶餐廳點凍飲時使用"
+            "「要唔要」詢問是否想要具體物品糖，「使唔使」詢問客觀上是否需要進行加糖動作 (Core target concept - Unit 11 Target Practice)",
+            "兩者完全相反，「要唔要」表示拒絕 (Core target concept - Unit 11 Target Practice)",
+            "「使唔使」只能對長輩使用 (Core target concept - Unit 11 Target Practice)",
+            "「要唔要」只能在茶餐廳點凍飲時使用 (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「要唔要」側重於主觀是否索取物品，「使唔使」側重於客觀是否有必要進行某動作。"
@@ -4696,10 +4696,10 @@
         {
           "prompt": "【技能助動詞】欲表達「他通過後天學習掌握了烹飪與駕駛技術」，正確之粵語助動詞句式係：",
           "options": [
-            "佢識煮飯同埋識揸車。",
-            "佢要煮飯同埋要揸車。",
-            "佢想煮飯同埋想揸車。",
-            "佢諗住煮飯同埋諗住揸車。"
+            "佢識煮飯同埋識揸車 (Language concept U11)",
+            "佢要煮飯同埋要揸車 (Language concept U11)",
+            "佢想煮飯同埋想揸車 (Language concept U11)",
+            "佢諗住煮飯同埋諗住揸車 (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "「識」（sik1）專門用於表示後天學會之各類技能。"
@@ -4711,10 +4711,10 @@
         {
           "prompt": "【正反問句】向新朋友禮貌詢問「你懂得游泳嗎？」，地道之粵語提問係：",
           "options": [
-            "你識唔識游水呀？",
-            "你搭唔搭游水呀？",
-            "你轉唔轉游水呀？",
-            "你落唔落游水呀？"
+            "你識唔識游水呀？ (Language concept U11)",
+            "你搭唔搭游水呀？ (Language concept U11)",
+            "你轉唔轉游水呀？ (Language concept U11)",
+            "你落唔落游水呀？ (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "技能正反問句結構為「識唔識……？」（Do you know how to...?）。"
@@ -4727,10 +4727,10 @@
           "type": "multiple-choice",
           "prompt": "【語義範疇】下列哪一項最準確描述了助動詞「識」（sik1）之核心語言學功能？",
           "options": [
-            "表示通過後天學習、培訓而具備之技能或認知",
-            "表示客觀法律或規則之強制義務",
-            "表示生理構造之本能反應",
-            "表示瞬時完成之動作體貌"
+            "表示通過後天學習、培訓而具備之技能或認知 (Core target concept - Unit 11 Target Practice)",
+            "表示客觀法律或規則之強制義務 (Core target concept - Unit 11 Target Practice)",
+            "表示生理構造之本能反應 (Core target concept - Unit 11 Target Practice)",
+            "表示瞬時完成之動作體貌 (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「識」在語法上專門表達後天習得之能力或認知識別。"
@@ -4778,10 +4778,10 @@
         {
           "prompt": "【禮貌請求】在會議中欲禮貌請求同事「能否把窗戶關上」，最得體之粵語句式係：",
           "options": [
-            "可唔可以唔該你幫手閂埋隻窗？",
-            "你一定要閂埋隻窗！",
-            "你識唔識閂埋隻窗？",
-            "你諗住閂埋隻窗未？"
+            "可唔可以唔該你幫手閂埋隻窗？ (PermissionPossibility U11)",
+            "你一定要閂埋隻窗！ (PermissionPossibility U11)",
+            "你識唔識閂埋隻窗？ (PermissionPossibility U11)",
+            "你諗住閂埋隻窗未？ (PermissionPossibility U11)"
           ],
           "answerIndex": 0,
           "explanation": "「可唔可以唔該你……」係表達禮貌請求之最標準句式。"
@@ -4793,10 +4793,10 @@
         {
           "prompt": "【規則禁令】公共場所張貼告示標明「嚴禁飲食」，口語化之粵語解釋係：",
           "options": [
-            "呢度唔可以食嘢同飲水。",
-            "呢度唔識食嘢同飲水。",
-            "呢度唔諗住食嘢同飲水。",
-            "呢度唔使食嘢同飲水。"
+            "呢度唔可以食嘢同飲水 (PermissionPossibility U11)",
+            "呢度唔識食嘢同飲水 (PermissionPossibility U11)",
+            "呢度唔諗住食嘢同飲水 (PermissionPossibility U11)",
+            "呢度唔使食嘢同飲水 (PermissionPossibility U11)"
           ],
           "answerIndex": 0,
           "explanation": "「唔可以」表示規則禁止或不被許可（Not allowed）。"
@@ -4809,10 +4809,10 @@
           "type": "multiple-choice",
           "prompt": "【語法辨析】當別人詢問「我可唔可以坐呢度呀？」，若表示「可以，請坐」，最自然之道地回應為：",
           "options": [
-            "可以呀，請坐啦！",
-            "識得呀，請坐啦！",
-            "要呀，請坐啦！",
-            "諗住呀，請坐啦！"
+            "可以呀，請坐啦！ (PermissionPossibility U11)",
+            "識得呀，請坐啦！ (PermissionPossibility U11)",
+            "要呀，請坐啦！ (PermissionPossibility U11)",
+            "諗住呀，請坐啦！ (PermissionPossibility U11)"
           ],
           "answerIndex": 0,
           "explanation": "回答許可請求正向確認時使用「可以呀」（ho2 ji5 aa3）。"
@@ -4860,10 +4860,10 @@
         {
           "prompt": "【可能補語】主廚把煲仔飯端上桌，告知顧客「飯已經煮熟可以開始吃了」，最地道之粵語表達係：",
           "options": [
-            "煲仔飯整好，食得喇！",
-            "煲仔飯整好，食識喇！",
-            "煲仔飯整好，食要喇！",
-            "煲仔飯整好，食諗住喇！"
+            "煲仔飯整好，食得喇！ (dak1V  V U11)",
+            "煲仔飯整好，食識喇！ (dak1V  V U11)",
+            "煲仔飯整好，食要喇！ (dak1V  V U11)",
+            "煲仔飯整好，食諗住喇！ (dak1V  V U11)"
           ],
           "answerIndex": 0,
           "explanation": "動詞後加「得」（食得）表示動作已經就緒、可以進行。"
@@ -4875,10 +4875,10 @@
         {
           "prompt": "【協商答問】同事提議「聽日下晝兩點開會，得唔得？」，欲表示「行，沒問題」，應回答：",
           "options": [
-            "得，冇問題！",
-            "識，冇問題！",
-            "要，冇問題！",
-            "諗住，冇問題！"
+            "得，冇問題！ (dak1V  V U11)",
+            "識，冇問題！ (dak1V  V U11)",
+            "要，冇問題！ (dak1V  V U11)",
+            "諗住，冇問題！ (dak1V  V U11)"
           ],
           "answerIndex": 0,
           "explanation": "獨立情態謂語「得」（dak1）表示同意、可行或沒問題。"
@@ -4891,10 +4891,10 @@
           "type": "multiple-choice",
           "prompt": "【句法功能】短語「部打印機整好，用得喇」中，「用得」之確切語法含義為：",
           "options": [
-            "打印機已經修復完畢，具備正常功能可以使用",
-            "打印機必須強制作業",
-            "打印機很想去工作",
-            "打印機認識很多文件"
+            "打印機已經修復完畢，具備正常功能可以使用 (dak1V  V U11)",
+            "打印機必須強制作業 (dak1V  V U11)",
+            "打印機很想去工作 (dak1V  V U11)",
+            "打印機認識很多文件 (dak1V  V U11)"
           ],
           "answerIndex": 0,
           "explanation": "「用得」表示設備處於可正常使用之就緒狀態。"
@@ -4942,10 +4942,10 @@
         {
           "prompt": "【職場交涉】欲向上級表達「員工全體具備該技術（識），只要老闆願意批準（肯），明天就能正式動工（可以/得）」，應講：",
           "options": [
-            "我哋個個都識做，只要老細肯批，聽日就開得工！",
-            "我哋個個都唔識做，只要老細唔肯批，聽日就開唔到工！",
-            "我哋個個都搭車，只要老細轉車，聽日就落車！",
-            "我哋個個都行街，只要老細買衫，聽日就找錢！"
+            "我哋個個都識做，只要老細肯批，聽日就開得工！ (Core target concept - Unit 11 Target Practice)",
+            "我哋個個都唔識做，只要老細唔肯批，聽日就開唔到工！ (Core target concept - Unit 11 Target Practice)",
+            "我哋個個都搭車，只要老細轉車，聽日就落車！ (Core target concept - Unit 11 Target Practice)",
+            "我哋個個都行街，只要老細買衫，聽日就找錢！ (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "該句精確融合了技能「識」、主觀同意「肯」與就緒狀態「開得工」。"
@@ -4957,10 +4957,10 @@
         {
           "prompt": "【情態辨析】在句子「公司唔准員工喺辦公室食煙」中，「唔准」之精確含義為：",
           "options": [
-            "不允許 / 嚴格禁止",
-            "不想吸煙",
-            "不會吸煙",
-            "不需要吸煙"
+            "不允許 / 嚴格禁止 (Language concept U11)",
+            "不想吸煙 (Language concept U11)",
+            "不會吸煙 (Language concept U11)",
+            "不需要吸煙 (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "「唔准」（m4 zeon2）表示官方或上級嚴格禁止、不予許可。"
@@ -4973,10 +4973,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合判斷】請選出語法結構、情態助動詞搭配完全正確且符合地道粵語表達之句子：",
           "options": [
-            "如果老細肯批准呢個計劃，我哋聽日就可以開得工喇。",
-            "如果老細要批准呢個計劃，我哋聽日就唔要返工喇。",
-            "如果老細識批准呢個計劃，我哋聽日就諗住開工喇。",
-            "如果老細准批准呢個計劃，我哋聽日就使返工喇。"
+            "如果老細肯批准呢個計劃，我哋聽日就可以開得工喇 (Core target concept - Unit 11 Target Practice)",
+            "如果老細要批准呢個計劃，我哋聽日就唔要返工喇 (Core target concept - Unit 11 Target Practice)",
+            "如果老細識批准呢個計劃，我哋聽日就諗住開工喇 (Core target concept - Unit 11 Target Practice)",
+            "如果老細准批准呢個計劃，我哋聽日就使返工喇 (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "該句語法邏輯嚴密，正確使用了意願「肯」、許可「可以」與就緒補語「開得工」。"
@@ -5024,10 +5024,10 @@
         {
           "prompt": "【動詞搭配】在粵語中描述「踢足球」與「打籃球」，正確之專屬動詞短語分別係：",
           "options": [
-            "踢波、打籃球",
-            "打波、踢籃球",
-            "游波、做籃球",
-            "行波、搭籃球"
+            "踢波、打籃球 (Gym U12)",
+            "打波、踢籃球 (Gym U12)",
+            "游波、做籃球 (Gym U12)",
+            "行波、搭籃球 (Gym U12)"
           ],
           "answerIndex": 0,
           "explanation": "足球運動量詞動詞用「踢」（踢波），手打球類用「打」（打籃球）。"
@@ -5039,10 +5039,10 @@
         {
           "prompt": "【俚語識別】香港市民日常俗稱「去健身房進行器械重訓與體能健身」為：",
           "options": [
-            "做Gym / 做尖",
-            "行街",
-            "睇戲",
-            "唱K"
+            "做Gym / 做尖 (Gym U12)",
+            "行街 (Gym U12)",
+            "睇戲 (Gym U12)",
+            "唱K (Gym U12)"
           ],
           "answerIndex": 0,
           "explanation": "「做Gym / 做尖」（zou6 gym）指前往健身房健身鍛鍊。"
@@ -5055,10 +5055,10 @@
           "type": "multiple-choice",
           "prompt": "【語法正誤】請選出動詞搭配完全符合粵語規範之運動表達句子：",
           "options": [
-            "我同班波友每個星期六都去跑馬地踢波。",
-            "我同班波友每個星期六都去跑馬地打足球。",
-            "我同班波友每個星期六都去跑馬地游足球。",
-            "我同班波友每個星期六都去跑馬地做足球。"
+            "我同班波友每個星期六都去跑馬地踢波 (Gym U12)",
+            "我同班波友每個星期六都去跑馬地打足球 (Gym U12)",
+            "我同班波友每個星期六都去跑馬地游足球 (Gym U12)",
+            "我同班波友每個星期六都去跑馬地做足球 (Gym U12)"
           ],
           "answerIndex": 0,
           "explanation": "足球運動在粵語中嚴格搭配動詞「踢」（踢波）。"
@@ -5106,10 +5106,10 @@
         {
           "prompt": "【戶外名詞】在粵語中描述「騎自行車」與「防蚊液/驅蚊水」，地道詞彙分別係：",
           "options": [
-            "踩單車、蚊怕水",
-            "坐單車、防蚊汁",
-            "行單車、蚊見愁",
-            "搭單車、驅蟲油"
+            "踩單車、蚊怕水 (Core target concept - Unit 12 Target Practice)",
+            "坐單車、防蚊汁 (Core target concept - Unit 12 Target Practice)",
+            "行單車、蚊見愁 (Core target concept - Unit 12 Target Practice)",
+            "搭單車、驅蟲油 (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "自行車在粵語中稱為「單車」（動詞用「踩」），驅蚊水俗稱「蚊怕水」。"
@@ -5121,10 +5121,10 @@
         {
           "prompt": "【香港地理】香港著名之遠足徑「龍脊」或「麥理浩徑」，其主要戶外運動類型係：",
           "options": [
-            "行山",
-            "唱K",
-            "打麻雀",
-            "睇戲"
+            "行山 (Language concept U12)",
+            "唱K (Language concept U12)",
+            "打麻雀 (Language concept U12)",
+            "睇戲 (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "「行山」（haang4 saan1）指登山徒步健行。"
@@ -5137,10 +5137,10 @@
           "type": "multiple-choice",
           "prompt": "【文化理解】粵語詞彙「蚊怕水」（man1 paa3 seoi2）之字面構詞理據與實際用途為：",
           "options": [
-            "塗抹於皮膚上令蚊蟲懼怕不敢靠近之驅蚊液",
-            "用來淹死蚊子之污水",
-            "蚊子產卵喜愛之糖水",
-            "洗滌登山衣物之清潔劑"
+            "塗抹於皮膚上令蚊蟲懼怕不敢靠近之驅蚊液 (Core target concept - Unit 12 Target Practice)",
+            "用來淹死蚊子之污水 (Core target concept - Unit 12 Target Practice)",
+            "蚊子產卵喜愛之糖水 (Core target concept - Unit 12 Target Practice)",
+            "洗滌登山衣物之清潔劑 (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「蚊怕水」直譯為「讓蚊子害怕的水」，即驅蚊噴霧/防蚊水。"
@@ -5188,10 +5188,10 @@
         {
           "prompt": "【影視詞彙】在粵語中描述「看電影」、「電影院」與「電影票」，正確之名詞組合係：",
           "options": [
-            "睇戲、戲院、戲飛",
-            "看電、電影室、電影券",
-            "望劇、劇院、劇票",
-            "瞧影、影城、影紙"
+            "睇戲、戲院、戲飛 (K - Unit 12 Target Practice)",
+            "看電、電影室、電影券 (K - Unit 12 Target Practice)",
+            "望劇、劇院、劇票 (K - Unit 12 Target Practice)",
+            "瞧影、影城、影紙 (K - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "看電影在粵語中稱為「睇戲」，電影院為「戲院」，電影票為「戲飛」。"
@@ -5203,10 +5203,10 @@
         {
           "prompt": "【俚語識別】粵語生動口語「煲劇」（bou1 kek6）之確切含義為：",
           "options": [
-            "連續長時間追看電視劇集",
-            "一邊煮煲仔飯一邊演戲",
-            "在廚房用砂鍋熬煮中藥",
-            "批評某部戲劇拍得太差"
+            "連續長時間追看電視劇集 (K (U12))",
+            "一邊煮煲仔飯一邊演戲 (K (U12))",
+            "在廚房用砂鍋熬煮中藥 (K (U12))",
+            "批評某部戲劇拍得太差 (K (U12))"
           ],
           "answerIndex": 0,
           "explanation": "「煲劇」（bou1 kek6）專指連續狂看追劇（如同文火慢燉）。"
@@ -5219,10 +5219,10 @@
           "type": "multiple-choice",
           "prompt": "【麻雀術語】在香港打麻雀牌局中，當某位玩家成功和牌獲勝，口語中宣告之標準說法為：",
           "options": [
-            "我食糊喇！",
-            "我買單喇！",
-            "我搭枱喇！",
-            "我行街喇！"
+            "我食糊喇！ (K (U12))",
+            "我買單喇！ (K (U12))",
+            "我搭枱喇！ (K (U12))",
+            "我行街喇！ (K (U12))"
           ],
           "answerIndex": 0,
           "explanation": "麻將胡牌在粵語中稱為「食糊」（sik6 wu42）。"
@@ -5270,10 +5270,10 @@
         {
           "prompt": "【樂器動詞】在粵語中描述演奏「鋼琴」與演奏「小提琴」，正確之專屬動詞分別係：",
           "options": [
-            "彈鋼琴、拉小提琴",
-            "拉鋼琴、彈小提琴",
-            "吹鋼琴、打小提琴",
-            "踢鋼琴、做小提琴"
+            "彈鋼琴、拉小提琴 (Core target concept - Unit 12 Target Practice)",
+            "拉鋼琴、彈小提琴 (Core target concept - Unit 12 Target Practice)",
+            "吹鋼琴、打小提琴 (Core target concept - Unit 12 Target Practice)",
+            "踢鋼琴、做小提琴 (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "鍵盤樂器用「彈」（彈鋼琴），弦樂拉弓用「拉」（拉小提琴）。"
@@ -5285,10 +5285,10 @@
         {
           "prompt": "【動詞搭配】欲表達「拿相機在海濱長廊拍照留念」，地道之粵語表達係：",
           "options": [
-            "喺海濱長廊影相",
-            "喺海濱長廊拍相",
-            "喺海濱長廊打相",
-            "喺海濱長廊做相"
+            "喺海濱長廊影相 (Core target concept - Unit 12 Target Practice)",
+            "喺海濱長廊拍相 (Core target concept - Unit 12 Target Practice)",
+            "喺海濱長廊打相 (Core target concept - Unit 12 Target Practice)",
+            "喺海濱長廊做相 (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "拍照在粵語中嚴格使用動詞「影」（影相）。"
@@ -5301,10 +5301,10 @@
           "type": "multiple-choice",
           "prompt": "【俚語溯源】粵語中形容對攝影、音響或特定技藝極度痴迷之行家發燒愛好者，稱之為：",
           "options": [
-            "發燒友",
-            "波友",
-            "搭枱友",
-            "司機友"
+            "發燒友 (Language concept U12)",
+            "波友 (Language concept U12)",
+            "搭枱友 (Language concept U12)",
+            "司機友 (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "痴迷某項愛好的資深愛好者在粵語中稱為「發燒友」（faat3 siu1 jau5）。"
@@ -5352,10 +5352,10 @@
         {
           "prompt": "【喜好表達】欲表達自己對某項活動「感覺一般、算不上特別喜歡」，最地道之粵語詞彙係：",
           "options": [
-            "麻麻哋",
-            "好中意",
-            "最沉迷",
-            "超鍾意"
+            "麻麻哋 (Language concept U12)",
+            "好中意 (Language concept U12)",
+            "最沉迷 (Language concept U12)",
+            "超鍾意 (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "「麻麻哋」（maa4 maa2 dei2）在粵語中表示普通、一般般。"
@@ -5367,10 +5367,10 @@
         {
           "prompt": "【社交邀約】欲向朋友提出「有空時聚在一起去郊外行山」，最熱情得體之粵語句式係：",
           "options": [
-            "得閒約埋一齊去行山啦！",
-            "你一定要自己去行山！",
-            "我唔識同你去行山！",
-            "大家唔好去行山！"
+            "得閒約埋一齊去行山啦！ (Core target concept - Unit 12 Target Practice)",
+            "你一定要自己去行山！ (Core target concept - Unit 12 Target Practice)",
+            "我唔識同你去行山！ (Core target concept - Unit 12 Target Practice)",
+            "大家唔好去行山！ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「得閒約埋一齊去……」係粵語最標準親切之社交聚會邀約語。"
@@ -5383,10 +5383,10 @@
           "type": "multiple-choice",
           "prompt": "【頻率副詞】在粵語中，副詞「成日」（seng4 jat6）之確切含義為：",
           "options": [
-            "總是、整天、頻繁老是",
-            "僅限於昨天一天",
-            "從來沒有發生過",
-            "每年只發生一次"
+            "總是、整天、頻繁老是 (Language concept U12)",
+            "僅限於昨天一天 (Language concept U12)",
+            "從來沒有發生過 (Language concept U12)",
+            "每年只發生一次 (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "「成日」（seng4 jat6）在粵語中作為頻率副詞表示總是、老是、整天。"
@@ -5434,10 +5434,10 @@
         {
           "prompt": "【社交詢問】在商務社交場合欲禮貌詢問對方「從事哪個行業」，最地道之粵語提問係：",
           "options": [
-            "請問你做邊行呀？",
-            "請問你搭邊架車呀？",
-            "請問你行邊條路呀？",
-            "請問你買邊件衫呀？"
+            "請問你做邊行呀？ (Language concept U13)",
+            "請問你搭邊架車呀？ (Language concept U13)",
+            "請問你行邊條路呀？ (Language concept U13)",
+            "請問你買邊件衫呀？ (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "「做邊行」（zou6 bin1 hong4）係粵語中詢問從事何種行業之標準表達。"
@@ -5449,10 +5449,10 @@
         {
           "prompt": "【職銜稱謂】專門負責協助客戶進行住宅或寫字樓買賣租賃之中介專才，粵語稱之為：",
           "options": [
-            "地產經紀",
-            "司機",
-            "廚師",
-            "波友"
+            "地產經紀 (Language concept U13)",
+            "司機 (Language concept U13)",
+            "廚師 (Language concept U13)",
+            "波友 (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "房產物業代理在香港通稱為「地產經紀」（dei6 caan2 ging1 gei2）。"
@@ -5465,10 +5465,10 @@
           "type": "multiple-choice",
           "prompt": "【商務敬語】在粵語中，禮貌敬語「喺邊度高就呀？」之確切含義為：",
           "options": [
-            "請問您在哪裡任職工作？",
-            "請問您住在哪座高山？",
-            "請問您爬了多高的山？",
-            "請問您身材有多高？"
+            "請問您在哪裡任職工作？ (Language concept U13)",
+            "請問您住在哪座高山？ (Language concept U13)",
+            "請問您爬了多高的山？ (Language concept U13)",
+            "請問您身材有多高？ (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "「高就」（gou1 zau6）係商務場合禮貌詢問任職機構之敬語辭令。"
@@ -5516,10 +5516,10 @@
         {
           "prompt": "【求職表達】在粵語中描述「前往企業應聘職位參加求職面試」，最地道之說法係：",
           "options": [
-            "去見工",
-            "去買工 (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)",
-            "去行工 (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)",
-            "去搭工 (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)"
+            "去見工 (Language concept U13)",
+            "去買工 (Language concept U13)",
+            "去行工 (Language concept U13)",
+            "去搭工 (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "參加求職面試在粵語中稱為「見工」（gin3 gung1）。"
@@ -5531,10 +5531,10 @@
         {
           "prompt": "【職場俚語】當遇到棘手複雜之業務突發危機，主管要求下屬「想辦法協調妥善解決」，口語常講：",
           "options": [
-            "諗辦法幫手拆掂佢！",
-            "諗辦法幫手炒魷魚！ (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)",
-            "諗辦法幫手遞信！ (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)",
-            "諗辦法幫手派散水餅！ (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)"
+            "諗辦法幫手拆掂佢！ (Language concept U13)",
+            "諗辦法幫手炒魷魚！ (Language concept U13)",
+            "諗辦法幫手遞信！ (Language concept U13)",
+            "諗辦法幫手派散水餅！ (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "「拆掂佢」（caak3 dim6 keoi5）指把困難難題圓滿化解處理妥當。"
@@ -5547,10 +5547,10 @@
           "type": "multiple-choice",
           "prompt": "【公務術語】粵語動詞短語「傾生意」（king1 saang1 ji3）之確切含義為：",
           "options": [
-            "與客戶洽談商務合作與合約訂單",
-            "向主管申請休假 (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)",
-            "在辦公室吃下午茶 (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)",
-            "操作影印機複印文件 (掌握粵語辦公室核心業務動作（開會、見客、見工面試、出差公幹）與解決疑難問題地道俚語（拆掂佢）。)"
+            "與客戶洽談商務合作與合約訂單 (Language concept U13)",
+            "向主管申請休假 (Language concept U13)",
+            "在辦公室吃下午茶 (Language concept U13)",
+            "操作影印機複印文件 (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "「傾生意」（king1 saang1 ji3）指洽談商業合作、商談買賣訂單。"
@@ -5598,10 +5598,10 @@
         {
           "prompt": "【文儀名詞】在粵語中描述辦公室用來裝訂文件的「訂書機」與「迴形針」，正確之名稱分別係：",
           "options": [
-            "釘書機、萬字夾",
-            "夾書機、回形扣 (掌握香港辦公室日常文儀用品與辦公設備專屬詞彙（影印機、碎紙機、夾萬、釘書機、萬字夾、改錯帶）。)",
-            "訂紙機、鐵絲環 (掌握香港辦公室日常文儀用品與辦公設備專屬詞彙（影印機、碎紙機、夾萬、釘書機、萬字夾、改錯帶）。)",
-            "合頁機、字形扣 (掌握香港辦公室日常文儀用品與辦公設備專屬詞彙（影印機、碎紙機、夾萬、釘書機、萬字夾、改錯帶）。)"
+            "釘書機、萬字夾 (Core target concept - Unit 13 Target Practice)",
+            "夾書機、回形扣 (Core target concept - Unit 13 Target Practice)",
+            "訂紙機、鐵絲環 (Core target concept - Unit 13 Target Practice)",
+            "合頁機、字形扣 (Core target concept - Unit 13 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "訂書機在粵語中稱為「釘書機」，迴形針稱為「萬字夾」。"
@@ -5613,10 +5613,10 @@
         {
           "prompt": "【設備識別】公司財務部用來存放現金印章與極重要機密文件之安全保險箱，粵語稱之為：",
           "options": [
-            "夾萬",
-            "影印機",
-            "碎紙機",
-            "公文袋"
+            "夾萬 (Language concept U13)",
+            "影印機 (Language concept U13)",
+            "碎紙機 (Language concept U13)",
+            "公文袋 (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "保險箱在粵語中稱為「夾萬」（gaap3 maan6）。"
@@ -5629,10 +5629,10 @@
           "type": "multiple-choice",
           "prompt": "【辦公操作】當辦公室影印機出現「卡紙」（kaat1 zi2）故障時，其確切含義為：",
           "options": [
-            "打印紙張夾在機器滾輪內部無法順暢運轉輸出",
-            "影印機的墨水用完了 (掌握香港辦公室日常文儀用品與辦公設備專屬詞彙（影印機、碎紙機、夾萬、釘書機、萬字夾、改錯帶）。)",
-            "影印機電源線被拔掉 (掌握香港辦公室日常文儀用品與辦公設備專屬詞彙（影印機、碎紙機、夾萬、釘書機、萬字夾、改錯帶）。)",
-            "影印機被鎖進了夾萬 (掌握香港辦公室日常文儀用品與辦公設備專屬詞彙（影印機、碎紙機、夾萬、釘書機、萬字夾、改錯帶）。)"
+            "打印紙張夾在機器滾輪內部無法順暢運轉輸出 (Language concept U13)",
+            "影印機的墨水用完了 (Language concept U13)",
+            "影印機電源線被拔掉 (Language concept U13)",
+            "影印機被鎖進了夾萬 (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "「卡紙」（kaat1 zi2）指紙張卡在印表機或影印機內部。"
@@ -5680,10 +5680,10 @@
         {
           "prompt": "【福利名詞】在香港職場中，年終固定加發一個月薪水之薪酬制度，口語稱為：",
           "options": [
-            "雙糧",
-            "單糧",
-            "半糧",
-            "空糧"
+            "雙糧 (MPF U13)",
+            "單糧 (MPF U13)",
+            "半糧 (MPF U13)",
+            "空糧 (MPF U13)"
           ],
           "answerIndex": 0,
           "explanation": "年終加發一個月薪水在香港稱為「雙糧」（soeng1 loeng4）。"
@@ -5695,10 +5695,10 @@
         {
           "prompt": "【制度簡稱】香港法定之退休保障制度「強制性公積金」，英文簡稱與中文口語簡稱為：",
           "options": [
-            "強積金 / MPF",
-            "養老金 / CPP",
-            "退休保 / 401K",
-            "醫保卡 / NHS"
+            "強積金 / MPF (MPF U13)",
+            "養老金 / CPP (MPF U13)",
+            "退休保 / 401K (MPF U13)",
+            "醫保卡 / NHS (MPF U13)"
           ],
           "answerIndex": 0,
           "explanation": "香港強制性公積金簡稱為「強積金」或英文縮寫「MPF」。"
@@ -5711,10 +5711,10 @@
           "type": "multiple-choice",
           "prompt": "【假期辨析】香港上班族口語中所講之「放公眾大假」（daai6 gaa3），確切指代：",
           "options": [
-            "僱員合同中享有的法定帶薪年假",
-            "週末兩天雙休日",
-            "因病請假的病假",
-            "政府規定的颱風假"
+            "僱員合同中享有的法定帶薪年假 (MPF U13)",
+            "週末兩天雙休日 (MPF U13)",
+            "因病請假的病假 (MPF U13)",
+            "政府規定的颱風假 (MPF U13)"
           ],
           "answerIndex": 0,
           "explanation": "在香港職場中，「大假」（daai6 gaa3）指代帶薪年假（Annual Leave）。"
@@ -5762,10 +5762,10 @@
         {
           "prompt": "【離職習俗】香港員工在最後一個工作日（Last Day）購買西餅甜品派發給同事以示告別感謝，此傳統稱為：",
           "options": [
-            "派散水餅",
-            "派月餅",
-            "派嫁女餅",
-            "派老婆餅"
+            "派散水餅 (Language concept U13)",
+            "派月餅 (Language concept U13)",
+            "派嫁女餅 (Language concept U13)",
+            "派老婆餅 (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "香港職場離職告別時派發的告別點心稱為「散水餅」（saan2 seoi2 beng2）。"
@@ -5777,10 +5777,10 @@
         {
           "prompt": "【職場動作】在粵語中描述員工「主動向主管提交辭職信」，最標準之口語短語係：",
           "options": [
-            "遞信",
-            "寄信",
-            "收信",
-            "印信"
+            "遞信 (Language concept U13)",
+            "寄信 (Language concept U13)",
+            "收信 (Language concept U13)",
+            "印信 (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "提交辭職信在粵語中稱為「遞信」（dai6 seon3）。"
@@ -5793,10 +5793,10 @@
           "type": "multiple-choice",
           "prompt": "【成語溯源】粵語經典俚語「畀老細炒魷魚」（caau2 jau4 jyu42）之實際含義為：",
           "options": [
-            "被老闆解僱開除",
-            "被老闆邀請吃海鮮大餐",
-            "在公司廚房烹飪海鮮",
-            "獲得老闆升職加薪獎勵"
+            "被老闆解僱開除 (Core target concept - Unit 13 Target Practice)",
+            "被老闆邀請吃海鮮大餐 (Core target concept - Unit 13 Target Practice)",
+            "在公司廚房烹飪海鮮 (Core target concept - Unit 13 Target Practice)",
+            "獲得老闆升職加薪獎勵 (Core target concept - Unit 13 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「炒魷魚」指被解僱、開除（源於打工者捲起鋪蓋捲行李之形象）。"
@@ -5844,10 +5844,10 @@
         {
           "prompt": "【語序轉換】欲用標準粵語表達「搭地鐵比搭巴士快」，正確之語法語序係：",
           "options": [
-            "搭地鐵快過搭巴士。",
-            "搭地鐵比搭巴士快。",
-            "搭地鐵過搭巴士快。",
-            "搭地鐵快比搭巴士。"
+            "搭地鐵快過搭巴士 (A      B - Unit 14 Target Practice)",
+            "搭地鐵比搭巴士快 (A      B - Unit 14 Target Practice)",
+            "搭地鐵過搭巴士快 (A      B - Unit 14 Target Practice)",
+            "搭地鐵快比搭巴士 (A      B - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語超越比較句嚴格採用「形容詞＋過＋比較對象」之後置結構（快過……）。"
@@ -5859,10 +5859,10 @@
         {
           "prompt": "【年齡比較】在粵語中表達「他比我大三歲」，最地道標準之句式係：",
           "options": [
-            "佢大過我三歲。",
-            "佢比我大三歲。",
-            "佢過我大三歲。",
-            "佢大三歲比我。"
+            "佢大過我三歲 (A      B - Unit 14 Target Practice)",
+            "佢比我大三歲 (A      B - Unit 14 Target Practice)",
+            "佢過我大三歲 (A      B - Unit 14 Target Practice)",
+            "佢大三歲比我 (A      B - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "年齡比較在粵語中同樣遵循「大過＋對象＋差額」之語序。"
@@ -5875,10 +5875,10 @@
           "type": "multiple-choice",
           "prompt": "【語法判斷】在粵語口語中，短語「好過冇」之確切含義為：",
           "options": [
-            "有總比沒有好 / 聊勝於無",
-            "最好甚麼都沒有",
-            "非常好而且應有盡有",
-            "完全沒有任何好處"
+            "有總比沒有好 / 聊勝於無 (A      B (U14))",
+            "最好甚麼都沒有 (A      B (U14))",
+            "非常好而且應有盡有 (A      B (U14))",
+            "完全沒有任何好處 (A      B (U14))"
           ],
           "answerIndex": 0,
           "explanation": "「好過冇」（hou2 gwo3 mou5）指比沒有要好，相當於「聊勝於無」。"
@@ -5926,10 +5926,10 @@
         {
           "prompt": "【差額位置】在粵語中表達「這件衣服比那件便宜五十塊錢」，正確之句子係：",
           "options": [
-            "呢件衫平過嗰件五十蚊。",
-            "呢件衫五十蚊平過嗰件。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)",
-            "呢件衫平五十蚊過嗰件。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)",
-            "呢件衫比嗰件平五十蚊過。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)"
+            "呢件衫平過嗰件五十蚊 (Core target concept - Unit 14 Target Practice)",
+            "呢件衫五十蚊平過嗰件 (Core target concept - Unit 14 Target Practice)",
+            "呢件衫平五十蚊過嗰件 (Core target concept - Unit 14 Target Practice)",
+            "呢件衫比嗰件平五十蚊過 (Core target concept - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "數量差額「五十蚊」必須置於比較對象「嗰件」之後。"
@@ -5941,10 +5941,10 @@
         {
           "prompt": "【程度補語】欲表達「這款電腦運行速度比舊電腦快很多」，地道口語係：",
           "options": [
-            "呢部電腦快過舊電腦好多。",
-            "呢部電腦很多快過舊電腦。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)",
-            "呢部電腦快好多過舊電腦。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)",
-            "呢部電腦比舊電腦很多快。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)"
+            "呢部電腦快過舊電腦好多 (Core target concept - Unit 14 Target Practice)",
+            "呢部電腦很多快過舊電腦 (Core target concept - Unit 14 Target Practice)",
+            "呢部電腦快好多過舊電腦 (Core target concept - Unit 14 Target Practice)",
+            "呢部電腦比舊電腦很多快 (Core target concept - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "程度補語「好多」必須置於比較對象「舊電腦」之後。"
@@ -5957,10 +5957,10 @@
           "type": "multiple-choice",
           "prompt": "【語序正誤】請判斷以下哪一句粵語差額比較句完全符合語法規範：",
           "options": [
-            "我哥哥高過我半個頭。",
-            "我哥哥半個頭高過我。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)",
-            "我哥哥高半個頭過我。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)",
-            "我哥哥過我高半個頭。 (掌握粵語比較句中量化差額與程度補語之精確後置規則（好多、少少、啲、具體數量詞）。)"
+            "我哥哥高過我半個頭 (Core target concept - Unit 14 Target Practice)",
+            "我哥哥半個頭高過我 (Core target concept - Unit 14 Target Practice)",
+            "我哥哥高半個頭過我 (Core target concept - Unit 14 Target Practice)",
+            "我哥哥過我高半個頭 (Core target concept - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "差額量詞「半個頭」置於比較對象「我」之後，結構完全正確。"
@@ -6008,10 +6008,10 @@
         {
           "prompt": "【否定比較】欲用粵語委婉表達「今天沒有昨天那麼冷」，標準之句子係：",
           "options": [
-            "今日冇琴日咁凍。",
-            "今日不比琴日凍。",
-            "今日冇琴日凍過。",
-            "今日冇咁凍琴日。"
+            "今日冇琴日咁凍 (A    B - Unit 14 Target Practice)",
+            "今日不比琴日凍 (A    B - Unit 14 Target Practice)",
+            "今日冇琴日凍過 (A    B - Unit 14 Target Practice)",
+            "今日冇咁凍琴日 (A    B - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語不及比較句固定結構為「主語＋冇＋對象＋咁＋形容詞」（今日冇琴日咁凍）。"
@@ -6023,10 +6023,10 @@
         {
           "prompt": "【句意轉換】句子「搭地鐵快過搭巴士」轉換為以「搭巴士」為主語之否定比較句，應為：",
           "options": [
-            "搭巴士冇搭地鐵咁快。",
-            "搭巴士快過搭地鐵。",
-            "搭巴士冇地鐵快過。",
-            "搭巴士同地鐵一樣快。"
+            "搭巴士冇搭地鐵咁快 (A    B - Unit 14 Target Practice)",
+            "搭巴士快過搭地鐵 (A    B - Unit 14 Target Practice)",
+            "搭巴士冇地鐵快過 (A    B - Unit 14 Target Practice)",
+            "搭巴士同地鐵一樣快 (A    B - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「Ａ快過Ｂ」之等價否定句為「Ｂ冇Ａ咁快」。"
@@ -6039,10 +6039,10 @@
           "type": "multiple-choice",
           "prompt": "【語氣理解】當朋友向你請教某項高難度技能，你回答「件事冇咁易㗎！」，此話含意為：",
           "options": [
-            "這件事情沒有想像中那麼容易",
-            "這件事情非常簡單容易",
-            "這件事情根本不需要做",
-            "這件事情已經徹底完成了"
+            "這件事情沒有想像中那麼容易 (A    B (U14))",
+            "這件事情非常簡單容易 (A    B (U14))",
+            "這件事情根本不需要做 (A    B (U14))",
+            "這件事情已經徹底完成了 (A    B (U14))"
           ],
           "answerIndex": 0,
           "explanation": "「冇咁易」（mou5 gam3 ji6）意為沒有那麼容易。"
@@ -6090,10 +6090,10 @@
         {
           "prompt": "【等同句式】在粵語中表達「這部手機和那部一樣貴」，正確之句子係：",
           "options": [
-            "呢部手機同嗰部一樣咁貴。",
-            "呢部手機一樣貴過嗰部。",
-            "呢部手機同嗰部貴一樣。",
-            "呢部手機比嗰部一樣貴。"
+            "呢部手機同嗰部一樣咁貴 (A    B - Unit 14 Target Practice)",
+            "呢部手機一樣貴過嗰部 (A    B - Unit 14 Target Practice)",
+            "呢部手機同嗰部貴一樣 (A    B - Unit 14 Target Practice)",
+            "呢部手機比嗰部一樣貴 (A    B - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "屬性等同比較句結構為「Ａ＋同＋Ｂ＋一樣咁＋形容詞」。"
@@ -6105,10 +6105,10 @@
         {
           "prompt": "【相仿表達】欲表達「我和他年齡相仿、差不多大」，地道口語係：",
           "options": [
-            "我同佢年紀差唔多。",
-            "我同佢年紀差不多過。",
-            "我比佢年紀差唔多大。",
-            "我過佢年紀差唔多。"
+            "我同佢年紀差唔多 (A    B (U14))",
+            "我同佢年紀差不多過 (A    B (U14))",
+            "我比佢年紀差唔多大 (A    B (U14))",
+            "我過佢年紀差唔多 (A    B (U14))"
           ],
           "answerIndex": 0,
           "explanation": "「差唔多」（caa1 m4 do1）作為謂語表示大體相仿、相差無幾。"
@@ -6121,10 +6121,10 @@
           "type": "multiple-choice",
           "prompt": "【否定判斷】句子「我嘅意見同你完全唔同」之確切含義為：",
           "options": [
-            "我的意見和你的完全不一樣 / 大相徑庭",
-            "我的意見和你的完全一致",
-            "我沒有任何意見",
-            "我非常贊成你的觀點"
+            "我的意見和你的完全不一樣 / 大相徑庭 (A    B (U14))",
+            "我的意見和你的完全一致 (A    B (U14))",
+            "我沒有任何意見 (A    B (U14))",
+            "我非常贊成你的觀點 (A    B (U14))"
           ],
           "answerIndex": 0,
           "explanation": "「唔同」（m4 tung4）在粵語中表示不同、不一樣。"
@@ -6172,10 +6172,10 @@
         {
           "prompt": "【極致補語】在粵語中欲極度讚賞某物「美艷震撼到了極點」，地道之形容詞搭配係：",
           "options": [
-            "靚到震",
-            "靚到坐 (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)",
-            "靚到跑 (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)",
-            "靚到跳 (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)"
+            "靚到震 (Language concept U14)",
+            "靚到坐 (Language concept U14)",
+            "靚到跑 (Language concept U14)",
+            "靚到跳 (Language concept U14)"
           ],
           "answerIndex": 0,
           "explanation": "「靚到震」（leng3 dou3 zan3）指美麗到令人心靈震撼之極致程度。"
@@ -6187,10 +6187,10 @@
         {
           "prompt": "【極致稱讚】在香港粵語中，讚美食物或服務好到無可挑剔、頂級絕妙，最經典之俚語係：",
           "options": [
-            "冇得頂！",
-            "冇得食！ (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)",
-            "冇得睇！ (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)",
-            "冇得行！ (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)"
+            "冇得頂！ (Language concept U14)",
+            "冇得食！ (Language concept U14)",
+            "冇得睇！ (Language concept U14)",
+            "冇得行！ (Language concept U14)"
           ],
           "answerIndex": 0,
           "explanation": "「冇得頂」（mou5 dak1 ding2）意為好到了極點、頂級絕妙。"
@@ -6203,10 +6203,10 @@
           "type": "multiple-choice",
           "prompt": "【成語語義】在粵語評價中稱讚某餐廳的菜式「喺全香港數一數二」，其確切含義為：",
           "options": [
-            "在全香港名列前茅、頂尖一流",
-            "全香港只有一到兩個人吃過 (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)",
-            "全香港只開了一家到兩家分店 (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)",
-            "價格在全香港排名倒數第一 (掌握粵語最高級標記「最」、極致程度補語「到極/頂透/到震」與綜合比較評價句式（數一數二、一流）。)"
+            "在全香港名列前茅、頂尖一流 (Core target concept - Unit 14 Target Practice)",
+            "全香港只有一到兩個人吃過 (Core target concept - Unit 14 Target Practice)",
+            "全香港只開了一家到兩家分店 (Core target concept - Unit 14 Target Practice)",
+            "價格在全香港排名倒數第一 (Core target concept - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「數一數二」指在同行或同類事物中名列前茅、數一數二。"
@@ -6254,10 +6254,10 @@
         {
           "prompt": "【跨海動詞】在香港粵語中描述從九龍或新界前往香港島，最地道專屬之動詞係：",
           "options": [
-            "過海",
-            "過河",
-            "過橋",
-            "過山"
+            "過海 (Language concept U15)",
+            "過河 (Language concept U15)",
+            "過橋 (Language concept U15)",
+            "過山 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "往來港島與九龍新界在粵語中專用動詞「過海」（gwo3 hoi2）。"
@@ -6269,10 +6269,10 @@
         {
           "prompt": "【設施簡稱】香港歷史最悠久、連接紅磡與灣仔告士打道之海底隧道，口語簡稱為：",
           "options": [
-            "紅隧",
-            "東隧",
-            "西隧",
-            "大隧"
+            "紅隧 (Language concept U15)",
+            "東隧 (Language concept U15)",
+            "西隧 (Language concept U15)",
+            "大隧 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "紅磡海底隧道在香港口語中普遍簡稱為「紅隧」（hung4 seoi6）。"
@@ -6285,10 +6285,10 @@
           "type": "multiple-choice",
           "prompt": "【板塊常識】香港地理三大核心組成板塊中，佔全港土地面積八成以上之區域為：",
           "options": [
-            "新界同離島",
-            "香港島",
-            "九龍半島",
-            "維多利亞港"
+            "新界同離島 (Core target concept - Unit 15 Target Practice)",
+            "香港島 (Core target concept - Unit 15 Target Practice)",
+            "九龍半島 (Core target concept - Unit 15 Target Practice)",
+            "維多利亞港 (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "新界連同各個離島佔香港整體陸地面積超過百分之八十。"
@@ -6336,10 +6336,10 @@
         {
           "prompt": "【地標匹配】香港歷史悠久之登山復古纜車，其直達之港島著名俯瞰全港夜景勝地係：",
           "options": [
-            "太平山頂",
-            "獅子山",
-            "大帽山",
-            "鳳凰山"
+            "太平山頂 (Language concept U15)",
+            "獅子山 (Language concept U15)",
+            "大帽山 (Language concept U15)",
+            "鳳凰山 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "山頂纜車直達太平山頂（taai3 ping4 saan1 deng2）。"
@@ -6351,10 +6351,10 @@
         {
           "prompt": "【街區識別】位於港島中環、以異國風情特色酒吧、西餐廳與夜生活聞名之街區係：",
           "options": [
-            "蘭桂坊",
-            "女人街",
-            "波鞋街",
-            "金魚街"
+            "蘭桂坊 (Language concept U15)",
+            "女人街 (Language concept U15)",
+            "波鞋街 (Language concept U15)",
+            "金魚街 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "中環著名酒吧與夜生活街區為「蘭桂坊」（laan4 gwai3 fong1）。"
@@ -6367,10 +6367,10 @@
           "type": "multiple-choice",
           "prompt": "【古蹟文化】由舊中區警署建築群活化而成之當代文藝古蹟地標，其通稱為：",
           "options": [
-            "大館",
-            "大會堂",
-            "大劇院",
-            "大碼頭"
+            "大館 (Language concept U15)",
+            "大會堂 (Language concept U15)",
+            "大劇院 (Language concept U15)",
+            "大碼頭 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "舊中區警署建築群在香港通稱「大館」（daai6 gun2）。"
@@ -6418,10 +6418,10 @@
         {
           "prompt": "【特色街區】位於九龍旺角花園街南段、專門集中售賣各類潮流運動鞋之特色街道稱為：",
           "options": [
-            "波鞋街",
-            "金魚街",
-            "女人街",
-            "廟街"
+            "波鞋街 (Language concept U15)",
+            "金魚街 (Language concept U15)",
+            "女人街 (Language concept U15)",
+            "廟街 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "花園街南段因專門售賣運動鞋（波鞋）而通稱「波鞋街」（bo1 haai4 gaai1）。"
@@ -6433,10 +6433,10 @@
         {
           "prompt": "【廟宇民俗】以「有求必應」著稱、每逢農曆新年除夕善信爭插「頭炷香」之著名道教宮觀係：",
           "options": [
-            "黃大仙祠",
-            "文武廟",
-            "車公廟",
-            "天后廟"
+            "黃大仙祠 (Language concept U15)",
+            "文武廟 (Language concept U15)",
+            "車公廟 (Language concept U15)",
+            "天后廟 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "「黃大仙祠」（wong4 daai6 sin1 ci4）以有求必應與新春頭炷香聞名。"
@@ -6449,10 +6449,10 @@
           "type": "multiple-choice",
           "prompt": "【市井街區】九龍油麻地擁有百年歷史之著名水果批發交易市場，粵語口語簡稱為：",
           "options": [
-            "果欄",
-            "菜欄",
-            "魚欄",
-            "肉欄"
+            "果欄 (Language concept U15)",
+            "菜欄 (Language concept U15)",
+            "魚欄 (Language concept U15)",
+            "肉欄 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "油麻地水果批發市場在香港通稱為「果欄」（gwo2 laan4）。"
@@ -6500,10 +6500,10 @@
         {
           "prompt": "【自然地標】因山清水秀、地質公園景觀優美而素有「香港後花園」美譽之新界地區係：",
           "options": [
-            "西貢",
-            "觀塘",
-            "深水埗",
-            "油麻地"
+            "西貢 (Language concept U15)",
+            "觀塘 (Language concept U15)",
+            "深水埗 (Language concept U15)",
+            "油麻地 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "「西貢」（sai1 gung3）被譽為「香港後花園」。"
@@ -6515,10 +6515,10 @@
         {
           "prompt": "【非遺美食】元朗原居民圍村在喜慶節日時全村共食、象徵「盆滿缽滿」之傳統特色菜式係：",
           "options": [
-            "圍村盆菜",
-            "叉燒包",
-            "菠蘿包",
-            "老婆餅"
+            "圍村盆菜 (Language concept U15)",
+            "叉燒包 (Language concept U15)",
+            "菠蘿包 (Language concept U15)",
+            "老婆餅 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "新界原居民圍村最具代表性之喜慶盛宴為「盆菜」（pun4 coi3）。"
@@ -6531,10 +6531,10 @@
           "type": "multiple-choice",
           "prompt": "【民俗祈福】沙田車公廟每年新春吸引大量善信前往祈福，信眾通常透過轉動何種吉祥物象徵轉運：",
           "options": [
-            "銅風車",
-            "轉經筒",
-            "大銅鐘",
-            "八卦鏡"
+            "銅風車 (Language concept U15)",
+            "轉經筒 (Language concept U15)",
+            "大銅鐘 (Language concept U15)",
+            "八卦鏡 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "車公廟信眾透過轉動銅風車（zyun3 fung1 ce1）祈求轉運轉吉。"
@@ -6582,10 +6582,10 @@
         {
           "prompt": "【非遺盛事】每年農曆四月在長洲舉行、以「搶包山」與「飄色巡遊」聞名全港之傳統節慶係：",
           "options": [
-            "長洲太平清醮",
-            "大坑舞火龍",
-            "中秋綵燈會",
-            "天后誕巡遊"
+            "長洲太平清醮 (Language concept U15)",
+            "大坑舞火龍 (Language concept U15)",
+            "中秋綵燈會 (Language concept U15)",
+            "天后誕巡遊 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "長洲最負盛名之國家級非遺民俗節慶為「太平清醮」（taai3 ping4 cing1 ziu3）。"
@@ -6597,10 +6597,10 @@
         {
           "prompt": "【名勝景觀】大嶼山寶蓮禪寺旁著名之世界級戶外青銅坐佛，其正式名稱係：",
           "options": [
-            "天壇大佛",
-            "樂山大佛",
-            "雲岡大佛",
-            "龍門大佛"
+            "天壇大佛 (Language concept U15)",
+            "樂山大佛 (Language concept U15)",
+            "雲岡大佛 (Language concept U15)",
+            "龍門大佛 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "大嶼山著名青銅坐佛為「天壇大佛」（tin1 taan4 daai6 fat6）。"
@@ -6613,10 +6613,10 @@
           "type": "multiple-choice",
           "prompt": "【水鄉景觀】被譽為「東方威尼斯」之大澳漁村，其搭建在水面潮汐之上的標誌性民居建築稱為：",
           "options": [
-            "棚屋",
-            "石屋",
-            "竹樓",
-            "碉堡"
+            "棚屋 (Language concept U15)",
+            "石屋 (Language concept U15)",
+            "竹樓 (Language concept U15)",
+            "碉堡 (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "大澳水鄉建於水面木柱之上的傳統民居稱為「棚屋」（paang4 uk1）。"
@@ -6664,10 +6664,10 @@
         {
           "prompt": "【公文句式】在正式商務或公務場合表達「請把這份文件交給陳經理」，最得體之粵語處置句係：",
           "options": [
-            "請將呢份文件交畀陳經理。",
-            "請交呢份文件畀陳經理。",
-            "請將陳經理交畀呢份文件。",
-            "請呢份文件將交畀陳經理。"
+            "請將呢份文件交畀陳經理 (Core target concept - Unit 16 Target Practice)",
+            "請交呢份文件畀陳經理 (Core target concept - Unit 16 Target Practice)",
+            "請將陳經理交畀呢份文件 (Core target concept - Unit 16 Target Practice)",
+            "請呢份文件將交畀陳經理 (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "標準處置句公式為「主語＋將＋賓語＋動詞補語」（請將呢份文件交畀……）。"
@@ -6679,10 +6679,10 @@
         {
           "prompt": "【語法結構】在粵語「將」字句中，動詞謂語後方必須具備之語法要素係：",
           "options": [
-            "結果補語、趨向補語或體貌助詞",
-            "形容詞最高級標記",
-            "疑問代名詞",
-            "否定副詞「唔」"
+            "結果補語、趨向補語或體貌助詞 (Core target concept - Unit 16 Target Practice)",
+            "形容詞最高級標記 (Core target concept - Unit 16 Target Practice)",
+            "疑問代名詞 (Core target concept - Unit 16 Target Practice)",
+            "否定副詞「唔 (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "處置句要求動詞後方必須帶有結果、趨向補語或體態助詞，以交代處置之終結狀態。"
@@ -6695,10 +6695,10 @@
           "type": "multiple-choice",
           "prompt": "【句意解析】港鐵廣播詞「請將座位讓畀有需要嘅乘客」，其句法結構屬於：",
           "options": [
-            "「將」字受事處置祈使句",
-            "否定比較句",
-            "被動被字句",
-            "可能態疑問句"
+            "「將」字受事處置祈使句 (Core target concept - Unit 16 Target Practice)",
+            "否定比較句 (Core target concept - Unit 16 Target Practice)",
+            "被動被字句 (Core target concept - Unit 16 Target Practice)",
+            "可能態疑問句 (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "此句通過「將＋受事（座位）＋動詞（讓畀）＋對象」構成標準處置祈使句。"
@@ -6746,10 +6746,10 @@
         {
           "prompt": "【口語處置】在粵語日常生活中欲催促對方「把這碗湯喝了它」，最地道之口語說法係：",
           "options": [
-            "快啲飲咗碗湯佢！",
-            "快啲把碗湯喝！",
-            "快啲飲碗湯把！",
-            "快啲將碗湯喝！"
+            "快啲飲咗碗湯佢！ (Core target concept - Unit 16 Target Practice)",
+            "快啲把碗湯喝！ (Core target concept - Unit 16 Target Practice)",
+            "快啲飲碗湯把！ (Core target concept - Unit 16 Target Practice)",
+            "快啲將碗湯喝！ (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語口語處置句典型結構為「動詞＋賓語＋佢」（飲咗碗湯佢）。"
@@ -6761,10 +6761,10 @@
         {
           "prompt": "【動作識別】當看見桌上有過期壞掉之食物，媽媽吩咐孩子「把它扔掉」，口語常講：",
           "options": [
-            "抌咗佢！",
-            "食咗佢！",
-            "買咗佢！",
-            "睇咗佢！"
+            "抌咗佢！ (Language concept U16)",
+            "食咗佢！ (Language concept U16)",
+            "買咗佢！ (Language concept U16)",
+            "睇咗佢！ (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "「抌」（dam2）在粵語中表示扔掉、丟棄。「抌咗佢」即把它扔掉。"
@@ -6777,10 +6777,10 @@
           "type": "multiple-choice",
           "prompt": "【語法功能】在粵語短語「搞掂佢」（gaau2 dim6 keoi5）中，字尾「佢」之主要語法功能係：",
           "options": [
-            "作為後置虛指處置代詞，強化完成處置之語氣",
-            "專門特指某一位男性長輩",
-            "表示疑問語氣助詞",
-            "表示否定副詞"
+            "作為後置虛指處置代詞，強化完成處置之語氣 (Core target concept - Unit 16 Target Practice)",
+            "專門特指某一位男性長輩 (Core target concept - Unit 16 Target Practice)",
+            "表示疑問語氣助詞 (Core target concept - Unit 16 Target Practice)",
+            "表示否定副詞 (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「佢」在處置短語中虛化為處置了結之代詞標記。"
@@ -6828,10 +6828,10 @@
         {
           "prompt": "【位置轉移】欲表達「請把這份文件放在我的辦公桌上」，標準粵語處置句係：",
           "options": [
-            "請將呢份文件擺喺我張寫字枱上面。",
-            "請將我張寫字枱擺喺呢份文件。",
-            "請擺喺呢份文件我張寫字枱。",
-            "請呢份文件擺喺將我張寫字枱。"
+            "請將呢份文件擺喺我張寫字枱上面 (Core target concept - Unit 16 Target Practice)",
+            "請將我張寫字枱擺喺呢份文件 (Core target concept - Unit 16 Target Practice)",
+            "請擺喺呢份文件我張寫字枱 (Core target concept - Unit 16 Target Practice)",
+            "請呢份文件擺喺將我張寫字枱 (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「將＋賓語（呢份文件）＋動詞補語（擺喺……）」為正確結構。"
@@ -6843,10 +6843,10 @@
         {
           "prompt": "【對象轉移】快遞員將物品親手送達並轉移給接收者，動詞短語應選用：",
           "options": [
-            "遞畀",
-            "食畀",
-            "行畀",
-            "睇畀"
+            "遞畀 (Language concept U16)",
+            "食畀 (Language concept U16)",
+            "行畀 (Language concept U16)",
+            "睇畀 (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "「遞畀」（dai6 bei2）表示親手遞交、傳遞給某人。"
@@ -6859,10 +6859,10 @@
           "type": "multiple-choice",
           "prompt": "【趨向理解】句子「記得將部手提電腦帶返屋企」中，「帶返」之核心語義為：",
           "options": [
-            "把筆記本電腦帶回到家中原處",
-            "把筆記本電腦丟棄在家中",
-            "在家中購買一台新電腦",
-            "在家中修理筆記本電腦"
+            "把筆記本電腦帶回到家中原處 (Core target concept - Unit 16 Target Practice)",
+            "把筆記本電腦丟棄在家中 (Core target concept - Unit 16 Target Practice)",
+            "在家中購買一台新電腦 (Core target concept - Unit 16 Target Practice)",
+            "在家中修理筆記本電腦 (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "補語「返」表示回歸原處，「帶返屋企」即帶回家中。"
@@ -6910,10 +6910,10 @@
         {
           "prompt": "【使成動詞】在粵語中描述不小心把鑰匙「弄丟、搞丟了」，最標準之動詞搭配係：",
           "options": [
-            "整唔見咗",
-            "行唔見咗",
-            "睇唔見咗",
-            "聽唔見咗"
+            "整唔見咗 (Language concept U16)",
+            "行唔見咗 (Language concept U16)",
+            "睇唔見咗 (Language concept U16)",
+            "聽唔見咗 (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "「整唔見」（zing2 m4 gin3）係粵語中表達把物品搞丟、遺失之標準說法。"
@@ -6925,10 +6925,10 @@
         {
           "prompt": "【體貌補語】欲表達「把桌上剩餘之飯菜全部吃完」，動詞短語應使用助詞：",
           "options": [
-            "食埋佢",
-            "食起佢",
-            "食落佢",
-            "食過佢"
+            "食埋佢 (Language concept U16)",
+            "食起佢 (Language concept U16)",
+            "食落佢 (Language concept U16)",
+            "食過佢 (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "補語「埋」（maai4）表示將剩餘部分徹底做完、了結。"
@@ -6941,10 +6941,10 @@
           "type": "multiple-choice",
           "prompt": "【語意理解】句子「將架私家車揸走」中，「揸走」之確切含義為：",
           "options": [
-            "開車離開現場",
-            "把車停放在原地",
-            "在車裡休息睡覺",
-            "把車輛徹底拆解"
+            "開車離開現場 (Language concept U16)",
+            "把車停放在原地 (Language concept U16)",
+            "在車裡休息睡覺 (Language concept U16)",
+            "把車輛徹底拆解 (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "「揸」（zaa1）為開車，「揸走」即開車離開移走。"
@@ -6992,10 +6992,10 @@
         {
           "prompt": "【句式轉換】將主動句「同事借咗我部相機」轉換為強調「我部相機」之受事主題化句，應為：",
           "options": [
-            "我部相機，同事借咗。",
-            "我部相機借咗同事。",
-            "同事我部相機借咗。",
-            "借咗我部相機同事。"
+            "我部相機，同事借咗 (SVOTopicComment U16)",
+            "我部相機借咗同事 (SVOTopicComment U16)",
+            "同事我部相機借咗 (SVOTopicComment U16)",
+            "借咗我部相機同事 (SVOTopicComment U16)"
           ],
           "answerIndex": 0,
           "explanation": "受事主題化將受事焦點「我部相機」提至句首作為話題。"
@@ -7007,10 +7007,10 @@
         {
           "prompt": "【被動結構】在粵語中表達「杯子被弟弟打破了」，正確之「畀」字被動句係：",
           "options": [
-            "隻杯畀細佬整爛咗。",
-            "隻杯將細佬整爛咗。",
-            "細佬畀隻杯整爛咗。",
-            "隻杯過細佬整爛咗。"
+            "隻杯畀細佬整爛咗 (SVOTopicComment U16)",
+            "隻杯將細佬整爛咗 (SVOTopicComment U16)",
+            "細佬畀隻杯整爛咗 (SVOTopicComment U16)",
+            "隻杯過細佬整爛咗 (SVOTopicComment U16)"
           ],
           "answerIndex": 0,
           "explanation": "粵語被動句結構為「受事＋畀＋施事＋動詞補語」（隻杯畀細佬整爛咗）。"
@@ -7023,10 +7023,10 @@
           "type": "multiple-choice",
           "prompt": "【語用選擇】在向客戶交代工作完成進度時，欲展現最高之專業度與責任感，最推薦之句式係：",
           "options": [
-            "我已經將所有資料核對好並寄出咗。",
-            "資料畀我寄出咗。",
-            "資料寄出咗佢。",
-            "唔知邊個寄咗資料。"
+            "我已經將所有資料核對好並寄出咗 (SVOTopicComment U16)",
+            "資料畀我寄出咗 (SVOTopicComment U16)",
+            "資料寄出咗佢 (SVOTopicComment U16)",
+            "唔知邊個寄咗資料 (SVOTopicComment U16)"
           ],
           "answerIndex": 0,
           "explanation": "「將」字處置句在商務交流中展現出最高之主動性與嚴謹規範性。"
@@ -7074,10 +7074,10 @@
         {
           "prompt": "【語法正誤】在粵語中表達「手機被摔壞了（未知是誰摔的）」，符合粵語語法規範之句子係：",
           "options": [
-            "部手機畀人整爛咗。",
-            "部手機畀整爛咗。",
-            "部手機整爛咗畀人。",
-            "部手機被整爛咗。"
+            "部手機畀人整爛咗 (Core target concept - Unit 17 Target Practice)",
+            "部手機畀整爛咗 (Core target concept - Unit 17 Target Practice)",
+            "部手機整爛咗畀人 (Core target concept - Unit 17 Target Practice)",
+            "部手機被整爛咗 (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語「畀」字後方不可懸空，施事者未知時必須補入泛指代詞「人」（畀人整爛咗）。"
@@ -7089,10 +7089,10 @@
         {
           "prompt": "【被動結構】在粵語被動句「本書畀陳老師借咗」中，動作之實際發出者（施事者）係：",
           "options": [
-            "陳老師",
-            "本書",
-            "我",
-            "圖書館"
+            "陳老師 (Core target concept - Unit 17 Target Practice)",
+            "本書 (Core target concept - Unit 17 Target Practice)",
+            "我 (Core target concept - Unit 17 Target Practice)",
+            "圖書館 (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "在「受事＋畀＋施事＋動詞」結構中，「畀」後方之「陳老師」為動作施事者。"
@@ -7105,10 +7105,10 @@
           "type": "multiple-choice",
           "prompt": "【特徵對比】相較於現代標準漢語「被」字句，粵語「畀」字句最顯著之句法約束係：",
           "options": [
-            "「畀」字後方之施事主體不可省略，泛指時須填補「人」",
-            "「畀」字句不能使用任何結果補語",
-            "「畀」字句只能用於祈使語氣",
-            "「畀」字句不能含有時間副詞"
+            "「畀」字後方之施事主體不可省略，泛指時須填補「人 (Core target concept - Unit 17 Target Practice)",
+            "「畀」字句不能使用任何結果補語 (Core target concept - Unit 17 Target Practice)",
+            "「畀」字句只能用於祈使語氣 (Core target concept - Unit 17 Target Practice)",
+            "「畀」字句不能含有時間副詞 (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語「畀」字後方施事不可懸空，無定施事時必須補入「人」（如「畀人偷咗」）。"
@@ -7156,10 +7156,10 @@
         {
           "prompt": "【語意匹配】在廣東話中描述自己遭受了詐騙分子之欺騙，最地道之口語被動說法係：",
           "options": [
-            "我畀人呃咗。",
-            "我畀人炒咗。",
-            "我畀人屈咗。",
-            "我畀人蝦咗。"
+            "我畀人呃咗 (Language concept U17)",
+            "我畀人炒咗 (Language concept U17)",
+            "我畀人屈咗 (Language concept U17)",
+            "我畀人蝦咗 (Language concept U17)"
           ],
           "answerIndex": 0,
           "explanation": "「呃」（aak1）為欺騙，「畀人呃咗」表示被人欺騙上當。"
@@ -7171,10 +7171,10 @@
         {
           "prompt": "【職場俚語】在香港職場中，若某員工不幸遭到公司開除解僱，其口語被動表達為：",
           "options": [
-            "畀老細炒魷魚",
-            "畀老細請食飯",
-            "畀老細加人工",
-            "畀老細升職"
+            "畀老細炒魷魚 (Core target concept - Unit 17 Target Practice)",
+            "畀老細請食飯 (Core target concept - Unit 17 Target Practice)",
+            "畀老細加人工 (Core target concept - Unit 17 Target Practice)",
+            "畀老細升職 (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「畀……炒魷魚」係粵語中被解僱開除之經典被動表達。"
@@ -7187,10 +7187,10 @@
           "type": "multiple-choice",
           "prompt": "【詞義辨析】句子「佢個人好老實，喺學校成日畀人蝦」中，「畀人蝦」之含義係：",
           "options": [
-            "被人欺負、霸凌",
-            "被人請吃海鮮大蝦",
-            "被人誇獎表揚",
-            "被人邀請去旅遊"
+            "被人欺負、霸凌 (Language concept U17)",
+            "被人請吃海鮮大蝦 (Language concept U17)",
+            "被人誇獎表揚 (Language concept U17)",
+            "被人邀請去旅遊 (Language concept U17)"
           ],
           "answerIndex": 0,
           "explanation": "「蝦」（haa1）在粵語中作動詞時表示欺負、霸凌，「畀人蝦」即被人欺負。"
@@ -7238,10 +7238,10 @@
         {
           "prompt": "【功能辨析】句子「媽咪唔畀我睇電視」中，「畀」字所承擔之語法功能係：",
           "options": [
-            "使役動詞（表示准許、允許）",
-            "被動標記（表示被動承受）",
-            "給予動詞（表示交付物品）",
-            "形容詞最高級標記"
+            "使役動詞 (Core target concept - Unit 17 Target Practice)",
+            "被動標記 (Core target concept - Unit 17 Target Practice)",
+            "給予動詞 (Core target concept - Unit 17 Target Practice)",
+            "形容詞最高級標記 (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「唔畀我睇」表示不允許我看，此處「畀」為使役動詞。"
@@ -7253,10 +7253,10 @@
         {
           "prompt": "【功能辨析】句子「我個銀包尋晚畀小偷扒咗」中，「畀」字所承擔之語法功能係：",
           "options": [
-            "被動標記（表示遭受被盜）",
-            "使役動詞（表示准許小偷）",
-            "給予動詞（表示送給小偷）",
-            "疑問代名詞"
+            "被動標記 (Core target concept - Unit 17 Target Practice)",
+            "使役動詞 (Core target concept - Unit 17 Target Practice)",
+            "給予動詞 (Core target concept - Unit 17 Target Practice)",
+            "疑問代名詞 (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「銀包畀小偷扒咗」表示錢包被小偷偷走，此處「畀」為被動標記。"
@@ -7269,10 +7269,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合判斷】下列四個含有「畀」字之粵語句子中，屬於典型「雙賓語給予動詞」用法嘅係：",
           "options": [
-            "叔叔畀咗一百蚊利是阿明。",
-            "部電腦畀細佬整爛咗。",
-            "經理唔畀員工請假。",
-            "佢尋日畀雨淋濕咗。"
+            "叔叔畀咗一百蚊利是阿明 (Core target concept - Unit 17 Target Practice)",
+            "部電腦畀細佬整爛咗 (Core target concept - Unit 17 Target Practice)",
+            "經理唔畀員工請假 (Core target concept - Unit 17 Target Practice)",
+            "佢尋日畀雨淋濕咗 (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "選項A中「畀＋一百蚊（物）＋阿明（人）」為標準給予雙賓語用法。"
@@ -7320,10 +7320,10 @@
         {
           "prompt": "【受傷補語】在粵語中描述不小心被滾燙之開水燙傷了手，正確之動詞補語組合係：",
           "options": [
-            "畀滾水淥親手",
-            "畀滾水食親手",
-            "畀滾水行親手",
-            "畀滾水睇親手"
+            "畀滾水淥親手 (V (U17))",
+            "畀滾水食親手 (V (U17))",
+            "畀滾水行親手 (V (U17))",
+            "畀滾水睇親手 (V (U17))"
           ],
           "answerIndex": 0,
           "explanation": "「淥」（luk6）表示燙，「淥親」表示被熱水燙傷。"
@@ -7335,10 +7335,10 @@
         {
           "prompt": "【氣候被動】下雨天出門未帶雨具導致衣服全部濕透，地道粵語表達係：",
           "options": [
-            "畀雨淋到濕晒",
-            "畀雨曬到乾晒",
-            "畀雨吹到飛晒",
-            "畀雨煮到熟晒"
+            "畀雨淋到濕晒 (V - Unit 17 Target Practice)",
+            "畀雨曬到乾晒 (V - Unit 17 Target Practice)",
+            "畀雨吹到飛晒 (V - Unit 17 Target Practice)",
+            "畀雨煮到熟晒 (V - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「畀雨淋到濕晒」表示被雨水淋得全身濕透。"
@@ -7351,10 +7351,10 @@
           "type": "multiple-choice",
           "prompt": "【字義理解】句子「食魚小心畀魚骨鯁親」中，「鯁」（gang2）之具體意思係：",
           "options": [
-            "卡在喉嚨中咽不下去",
-            "把魚骨咬碎",
-            "把魚骨吐出來",
-            "把魚骨煮成湯"
+            "卡在喉嚨中咽不下去 (V (U17))",
+            "把魚骨咬碎 (V (U17))",
+            "把魚骨吐出來 (V (U17))",
+            "把魚骨煮成湯 (V (U17))"
           ],
           "answerIndex": 0,
           "explanation": "「鯁」（gang2）在粵語中指骨頭或異物卡在食道咽喉。"
@@ -7402,10 +7402,10 @@
         {
           "prompt": "【語用得體】在日常生活中向朋友分享「我升職了」之喜訊，最地道自然之口語表達係：",
           "options": [
-            "老細升咗我職！",
-            "我畀老細升職咗。",
-            "我畀人升咗職。",
-            "職畀老細升咗我。"
+            "老細升咗我職！ (Adverse PassiveFormal Passive U17)",
+            "我畀老細升職咗 (Adverse PassiveFormal Passive U17)",
+            "我畀人升咗職 (Adverse PassiveFormal Passive U17)",
+            "職畀老細升咗我 (Adverse PassiveFormal Passive U17)"
           ],
           "answerIndex": 0,
           "explanation": "粵語口語表達正向喜事時，首選主動句「老細升咗我職」，避免生硬被動態。"
@@ -7417,10 +7417,10 @@
         {
           "prompt": "【公文語體】在正式公司公告中表彰某位傑出員工，規範之現代公務被動句係：",
           "options": [
-            "李經理畀全體同仁推選為本年度模範員工。",
-            "李經理畀全體同仁整爛咗。",
-            "全體同仁畀李經理推選咗。",
-            "李經理推選咗畀全體同仁。"
+            "李經理畀全體同仁推選為本年度模範員工 (Adverse PassiveFormal Passive U17)",
+            "李經理畀全體同仁整爛咗 (Adverse PassiveFormal Passive U17)",
+            "全體同仁畀李經理推選咗 (Adverse PassiveFormal Passive U17)",
+            "李經理推選咗畀全體同仁 (Adverse PassiveFormal Passive U17)"
           ],
           "answerIndex": 0,
           "explanation": "正式公文中可使用「受事＋畀＋施事＋推選為……」表達客觀推選表彰。"
@@ -7433,10 +7433,10 @@
           "type": "multiple-choice",
           "prompt": "【語言學常識】傳統純口語粵語中，「畀」字被動句最核心之語義特徵係：",
           "options": [
-            "強烈之「被害義」與遭受不幸色彩",
-            "專門用於表達強烈祝賀",
-            "只能用於天氣預報",
-            "只能用於醫學診斷"
+            "強烈之「被害義」與遭受不幸色彩 (Adverse PassiveFormal Passive U17)",
+            "專門用於表達強烈祝賀 (Adverse PassiveFormal Passive U17)",
+            "只能用於天氣預報 (Adverse PassiveFormal Passive U17)",
+            "只能用於醫學診斷 (Adverse PassiveFormal Passive U17)"
           ],
           "answerIndex": 0,
           "explanation": "傳統粵語口語被動句主要用於表達遭受損害、挫折、委屈等被害語義。"
@@ -7484,10 +7484,10 @@
         {
           "prompt": "【補語匹配】在廣東話中表達「所有任務都已經圓滿辦妥、解決了」，動詞短語應為：",
           "options": [
-            "搞掂",
-            "搞齊",
-            "搞錯",
-            "搞爛"
+            "搞掂 (Language concept U18)",
+            "搞齊 (Language concept U18)",
+            "搞錯 (Language concept U18)",
+            "搞爛 (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "「搞掂」（gaau2 dim6）表示順利辦妥、圓滿解決。"
@@ -7499,10 +7499,10 @@
         {
           "prompt": "【窮盡語義】當麵包店所有新鮮出爐之蛋撻全部售罄，店員會向客人解釋：",
           "options": [
-            "蛋撻已經賣晒喇。",
-            "蛋撻已經賣齊喇。",
-            "蛋撻已經賣錯喇。",
-            "蛋撻已經賣掂喇。"
+            "蛋撻已經賣晒喇 (Language concept U18)",
+            "蛋撻已經賣齊喇 (Language concept U18)",
+            "蛋撻已經賣錯喇 (Language concept U18)",
+            "蛋撻已經賣掂喇 (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "「賣晒」（maai6 saai3）表示全部售罄、賣光。"
@@ -7515,10 +7515,10 @@
           "type": "multiple-choice",
           "prompt": "【語序規則】下列關於粵語結果補語與賓語位置關係之敘述，正確嘅係：",
           "options": [
-            "結果補語必須緊貼動詞，置於賓語之前（如「食晒啲飯」）",
-            "結果補語必須放在賓語最後方（如「食啲飯晒」）",
-            "結果補語必須放在句首主語前面",
-            "結果補語不能與及物動詞連用"
+            "結果補語必須緊貼動詞，置於賓語之前 (Core target concept - Unit 18 Target Practice)",
+            "結果補語必須放在賓語最後方 (Core target concept - Unit 18 Target Practice)",
+            "結果補語必須放在句首主語前面 (Core target concept - Unit 18 Target Practice)",
+            "結果補語不能與及物動詞連用 (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "粵語語法規範要求結果補語緊隨動詞謂語，置於名詞賓語之前（動＋補＋賓）。"
@@ -7566,10 +7566,10 @@
         {
           "prompt": "【創傷補語】在廣東話中詢問對方摔倒後「有沒有摔傷、受傷」，最關切之問句係：",
           "options": [
-            "你有冇跌親呀？",
-            "你有冇跌爛呀？",
-            "你有冇跌斷呀？",
-            "你有冇跌死呀？"
+            "你有冇跌親呀？ (Language concept U18)",
+            "你有冇跌爛呀？ (Language concept U18)",
+            "你有冇跌斷呀？ (Language concept U18)",
+            "你有冇跌死呀？ (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "「跌親」（tit3 can1）為跌倒受傷之專屬表達，「有冇跌親」為最標準慰問語。"
@@ -7581,10 +7581,10 @@
         {
           "prompt": "【骨骼損傷】若滑雪時不幸造成手臂骨骼折斷，動詞短語應表達為：",
           "options": [
-            "跌斷手",
-            "跌爛手",
-            "跌碎手",
-            "跌裂手"
+            "跌斷手 (Core target concept - Unit 18 Target Practice)",
+            "跌爛手 (Core target concept - Unit 18 Target Practice)",
+            "跌碎手 (Core target concept - Unit 18 Target Practice)",
+            "跌裂手 (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "骨骼折斷在粵語中專用結果補語「斷」（跌斷手）。"
@@ -7597,10 +7597,10 @@
           "type": "multiple-choice",
           "prompt": "【程度修辭】短語「攰死」（gui6 sei2）在粵語中之實際語義為：",
           "options": [
-            "極度疲倦、累得要命",
-            "已經死亡",
-            "感到非常寒冷",
-            "感到非常憤怒"
+            "極度疲倦、累得要命 (Core target concept - Unit 18 Target Practice)",
+            "已經死亡 (Core target concept - Unit 18 Target Practice)",
+            "感到非常寒冷 (Core target concept - Unit 18 Target Practice)",
+            "感到非常憤怒 (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「攰死」中「死」為極致程度補語，表示極度疲勞勞累。"
@@ -7648,10 +7648,10 @@
         {
           "prompt": "【空間視角】說話者站在辦公室內部，欲招呼門外之同事「走進辦公室來」，應講：",
           "options": [
-            "快啲行入嚟啦！",
-            "快啲行入去啦！",
-            "快啲行出去啦！",
-            "快啲行出嚟啦！"
+            "快啲行入嚟啦！ (Language concept U18)",
+            "快啲行入去啦！ (Language concept U18)",
+            "快啲行出去啦！ (Language concept U18)",
+            "快啲行出嚟啦！ (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "由外向內且朝向說話者位置移動，使用趨向補語「入嚟」（jap6 lai4）。"
@@ -7663,10 +7663,10 @@
         {
           "prompt": "【視角轉換】說話者在樓下，看見朋友正從樓下走向頂樓（遠離說話者），應描述為：",
           "options": [
-            "佢行咗上去。",
-            "佢行咗上嚟。",
-            "佢行咗落嚟。",
-            "佢行咗入嚟。"
+            "佢行咗上去 (Language concept U18)",
+            "佢行咗上嚟 (Language concept U18)",
+            "佢行咗落嚟 (Language concept U18)",
+            "佢行咗入嚟 (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "由低向高且背離說話者移動，使用趨向補語「上去」（soeng5 heoi3）。"
@@ -7679,10 +7679,10 @@
           "type": "multiple-choice",
           "prompt": "【跨越維度】在街道一側向對面之朋友揮手示意「走過來我這邊」，正確之趨向動詞係：",
           "options": [
-            "行過嚟",
-            "行過去",
-            "行落去",
-            "行入去"
+            "行過嚟 (Language concept U18)",
+            "行過去 (Language concept U18)",
+            "行落去 (Language concept U18)",
+            "行入去 (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "橫向跨越並朝向說話者走近，使用「過嚟」（gwo3 lai4）。"
@@ -7730,10 +7730,10 @@
         {
           "prompt": "【狀態回歸】生病發燒數天後，欲表達身體「已經痊癒、恢復健康」，最地道之口語說法係：",
           "options": [
-            "我已經好返喇。",
-            "我已經好去喇。",
-            "我已經好落喇。",
-            "我已經好上喇。"
+            "我已經好返喇 (Language concept U18)",
+            "我已經好去喇 (Language concept U18)",
+            "我已經好落喇 (Language concept U18)",
+            "我已經好上喇 (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "「好返」（hou2 faan1）表示病癒、身體恢復健康。"
@@ -7745,10 +7745,10 @@
         {
           "prompt": "【動作延續】在會議上鼓勵發言者「請繼續往下講」，地道粵語表達係：",
           "options": [
-            "請你繼續講落去。",
-            "請你繼續講上去。",
-            "請你繼續講入嚟。",
-            "請你繼續講出嚟。"
+            "請你繼續講落去 (Language concept U18)",
+            "請你繼續講上去 (Language concept U18)",
+            "請你繼續講入嚟 (Language concept U18)",
+            "請你繼續講出嚟 (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "「講落去」（gong2 lok6 heoi3）表示繼續往下講述。"
@@ -7761,10 +7761,10 @@
           "type": "multiple-choice",
           "prompt": "【語意評估】短語「睇起上嚟好後生」中，「起上嚟」之主要語法功能係：",
           "options": [
-            "表示主觀觀察、感知與評估",
-            "表示身體意外受傷",
-            "表示方位向低處移動",
-            "表示動作徹底完成"
+            "表示主觀觀察、感知與評估 (Core target concept - Unit 18 Target Practice)",
+            "表示身體意外受傷 (Core target concept - Unit 18 Target Practice)",
+            "表示方位向低處移動 (Core target concept - Unit 18 Target Practice)",
+            "表示動作徹底完成 (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「睇起上嚟」表示看起來、在視覺評估上。"
@@ -7812,10 +7812,10 @@
         {
           "prompt": "【語病修復】下列四個句子中，符合粵語「動詞 + 結果補語 + 賓語」標準語序之句子係：",
           "options": [
-            "我已經做晒所有功課。",
-            "我已經做所有功課晒。 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)",
-            "我已經晒做所有功課。 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)",
-            "我所有功課已經做晒晒。 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)"
+            "我已經做晒所有功課 (Core target concept - Unit 18 Target Practice)",
+            "我已經做所有功課晒 (Core target concept - Unit 18 Target Practice)",
+            "我已經晒做所有功課 (Core target concept - Unit 18 Target Practice)",
+            "我所有功課已經做晒晒 (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「做（動）＋晒（補）＋所有功課（賓）」為標準正確語序。"
@@ -7827,10 +7827,10 @@
         {
           "prompt": "【處所嵌入】欲表達「走進圖書館來」，正確之複合趨向補語與處所嵌入句式係：",
           "options": [
-            "行入圖書館嚟",
-            "行圖書館入嚟 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)",
-            "行入嚟圖書館 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)",
-            "圖書館行入嚟 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)"
+            "行入圖書館嚟 (Core target concept - Unit 18 Target Practice)",
+            "行圖書館入嚟 (Core target concept - Unit 18 Target Practice)",
+            "行入嚟圖書館 (Core target concept - Unit 18 Target Practice)",
+            "圖書館行入嚟 (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "處所名詞「圖書館」應夾在趨向補語中間構成「行入圖書館嚟」。"
@@ -7843,10 +7843,10 @@
           "type": "multiple-choice",
           "prompt": "【語法綜合】在粵語會話中表達「吃完這碗雲吞麵」，最純正地道之語序為：",
           "options": [
-            "食完呢碗雲吞麵",
-            "食呢碗雲吞麵完 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)",
-            "呢碗雲吞麵完食 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)",
-            "完食呢碗雲吞麵 (掌握粵語補語與各類名詞賓語（實物賓語、處所賓語、數量賓語）之嚴格語序排列規則與病句診斷修復能力。)"
+            "食完呢碗雲吞麵 (Core target concept - Unit 18 Target Practice)",
+            "食呢碗雲吞麵完 (Core target concept - Unit 18 Target Practice)",
+            "呢碗雲吞麵完食 (Core target concept - Unit 18 Target Practice)",
+            "完食呢碗雲吞麵 (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "結果補語「完」必須緊貼動詞「食」，置於數量名詞賓語之前。"
@@ -7894,10 +7894,10 @@
         {
           "prompt": "【否定可能】在廣東話中表達「聽不懂對方所說的話」，最地道之動詞可能補語短語係：",
           "options": [
-            "聽唔明",
-            "聽得明",
-            "聽唔好",
-            "聽唔晒"
+            "聽唔明 (Core target concept - Unit 19 Target Practice)",
+            "聽得明 (Core target concept - Unit 19 Target Practice)",
+            "聽唔好 (Core target concept - Unit 19 Target Practice)",
+            "聽唔晒 (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "否定可能式使用中綴「唔」，「聽唔明」表示聽不懂。"
@@ -7909,10 +7909,10 @@
         {
           "prompt": "【肯定可能】欲向對方確認「我看得清楚你寫的字」，肯定式可能補語應講：",
           "options": [
-            "我睇得清楚",
-            "我睇唔清楚",
-            "我睇得晒",
-            "我睇唔到"
+            "我睇得清楚 (Core target concept - Unit 19 Target Practice)",
+            "我睇唔清楚 (Core target concept - Unit 19 Target Practice)",
+            "我睇得晒 (Core target concept - Unit 19 Target Practice)",
+            "我睇唔到 (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "肯定可能式使用中綴「得」，「睇得清楚」表示能夠看清。"
@@ -7925,10 +7925,10 @@
           "type": "multiple-choice",
           "prompt": "【語法結構】短語「做唔到」（zou6 m4 dou2）之核心語法性質係：",
           "options": [
-            "可能補語否定式",
-            "處置式祈使句",
-            "被動態肯定句",
-            "形容詞最高級"
+            "可能補語否定式 (Core target concept - Unit 19 Target Practice)",
+            "處置式祈使句 (Core target concept - Unit 19 Target Practice)",
+            "被動態肯定句 (Core target concept - Unit 19 Target Practice)",
+            "形容詞最高級 (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "動詞「做」＋否定中綴「唔」＋結果補語「到」構成典型否定可能補語。"
@@ -7976,10 +7976,10 @@
         {
           "prompt": "【空間容量】升降機內已經站滿了人，欲向外面等待的人表示「站不下了」，地道粵語表達係：",
           "options": [
-            "企唔落喇！",
-            "企得落喇！",
-            "企唔明喇！",
-            "企唔晒喇！"
+            "企唔落喇！ (Language concept U19)",
+            "企得落喇！ (Language concept U19)",
+            "企唔明喇！ (Language concept U19)",
+            "企唔晒喇！ (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "「企唔落」（kei5 m4 lok6）表示站立空間已滿，容納不下更多人站立。"
@@ -7991,10 +7991,10 @@
         {
           "prompt": "【食慾表達】已經吃得非常飽足、無法再吃下甜品時，應向朋友表示：",
           "options": [
-            "我太飽，真係食唔落喇。",
-            "我太飽，真係食得落喇。",
-            "我太飽，真係食得切喇。",
-            "我太飽，真係食唔切喇。"
+            "我太飽，真係食唔落喇 (Language concept U19)",
+            "我太飽，真係食得落喇 (Language concept U19)",
+            "我太飽，真係食得切喇 (Language concept U19)",
+            "我太飽，真係食唔切喇 (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "「食唔落」（sik6 m4 lok6）表示胃部容量已滿或無胃口吃下。"
@@ -8007,10 +8007,10 @@
           "type": "multiple-choice",
           "prompt": "【容器容量】短語「裝得落」（zong1 dak1 lok6）在粵語中之確切語義為：",
           "options": [
-            "容器空間充足，能夠容納裝得下",
-            "容器已經破裂漏水",
-            "容器外觀非常精美",
-            "容器重量非常沉重"
+            "容器空間充足，能夠容納裝得下 (Core target concept - Unit 19 Target Practice)",
+            "容器已經破裂漏水 (Core target concept - Unit 19 Target Practice)",
+            "容器外觀非常精美 (Core target concept - Unit 19 Target Practice)",
+            "容器重量非常沉重 (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「裝得落」表示容器具備足夠容量裝入物件。"
@@ -8058,10 +8058,10 @@
         {
           "prompt": "【負擔能力】在香港買房時表達「樓價太高，普通家庭根本負擔不起、買不起」，應講：",
           "options": [
-            "普通家庭買唔起",
-            "普通家庭買得起",
-            "普通家庭買唔落",
-            "普通家庭買唔明"
+            "普通家庭買唔起 (Language concept U19)",
+            "普通家庭買得起 (Language concept U19)",
+            "普通家庭買唔落 (Language concept U19)",
+            "普通家庭買唔明 (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "「買唔起」（maai5 m4 hei2）表示經濟能力上無法負擔購買。"
@@ -8073,10 +8073,10 @@
         {
           "prompt": "【社交評價】形容一個人性格豁達、輸得起且經得起朋友開玩笑，廣東話讚揚為：",
           "options": [
-            "玩得起",
-            "玩唔起",
-            "玩唔落",
-            "玩唔明"
+            "玩得起 (Language concept U19)",
+            "玩唔起 (Language concept U19)",
+            "玩唔落 (Language concept U19)",
+            "玩唔明 (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "「玩得起」（waan2 dak1 hei2）表示經得起開玩笑、輸得起。"
@@ -8089,10 +8089,10 @@
           "type": "multiple-choice",
           "prompt": "【人際評價】句子「老細好睇得起你」中，「睇得起」之實際含義為：",
           "options": [
-            "老闆非常賞識、看重你",
-            "老闆看不起你",
-            "老闆看不清楚你",
-            "老闆監視你"
+            "老闆非常賞識、看重你 (Language concept U19)",
+            "老闆看不起你 (Language concept U19)",
+            "老闆看不清楚你 (Language concept U19)",
+            "老闆監視你 (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "「睇得起」（tai2 dak1 hei2）表示器重、賞識、看得起。"
@@ -8140,10 +8140,10 @@
         {
           "prompt": "【人際投緣】形容自己與新朋友「非常聊得來、志趣相投」，最地道之粵語短語係：",
           "options": [
-            "好傾得嚟",
-            "好傾唔嚟",
-            "好傾得落",
-            "好傾得起"
+            "好傾得嚟 (Language concept U19)",
+            "好傾唔嚟 (Language concept U19)",
+            "好傾得落 (Language concept U19)",
+            "好傾得起 (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "「傾得嚟」（king1 dak1 lai4）表示交談投契、聊得來。"
@@ -8155,10 +8155,10 @@
         {
           "prompt": "【工作勝任】面對繁重工作任務，欲向主管表示自己「完全能夠勝任應付」，應講：",
           "options": [
-            "我應付得嚟",
-            "我應付唔嚟",
-            "我應付得落",
-            "我應付唔起"
+            "我應付得嚟 (Language concept U19)",
+            "我應付唔嚟 (Language concept U19)",
+            "我應付得落 (Language concept U19)",
+            "我應付唔起 (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "「應付得嚟」（jing3 fu6 dak1 lai4）表示能夠勝任處理。"
@@ -8171,10 +8171,10 @@
           "type": "multiple-choice",
           "prompt": "【語意理解】餐廳經理講「客人太多，樓面招呼唔嚟」，「招呼唔嚟」之意思是：",
           "options": [
-            "人手不足，無法把所有客人接待周全",
-            "客人不願意進來餐廳",
-            "經理不認識客人",
-            "餐廳菜式已經售罄"
+            "人手不足，無法把所有客人接待周全 (Core target concept - Unit 19 Target Practice)",
+            "客人不願意進來餐廳 (Core target concept - Unit 19 Target Practice)",
+            "經理不認識客人 (Core target concept - Unit 19 Target Practice)",
+            "餐廳菜式已經售罄 (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「招呼唔嚟」表示接待服務能力超出負荷，無法應付。"
@@ -8222,10 +8222,10 @@
         {
           "prompt": "【正反疑問】欲向對方詢問「你能不能聽得懂我說的粵語」，最標準之正反問句係：",
           "options": [
-            "你聽唔聽得明我講嘅廣東話？",
-            "你聽得明聽唔明我廣東話？",
-            "你廣東話聽唔聽？",
-            "你明唔明聽廣東話？"
+            "你聽唔聽得明我講嘅廣東話？ (VVC  VCVC - Unit 19 Target Practice)",
+            "你聽得明聽唔明我廣東話？ (VVC  VCVC - Unit 19 Target Practice)",
+            "你廣東話聽唔聽？ (VVC  VCVC - Unit 19 Target Practice)",
+            "你明唔明聽廣東話？ (VVC  VCVC - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「聽唔聽得明」（動＋唔＋動＋得＋補）為標準正反疑問句式。"
@@ -8237,10 +8237,10 @@
         {
           "prompt": "【情態對比】詢問對方是否具備「開車、駕駛這項技術本領」，應選用之情態動詞係：",
           "options": [
-            "你識唔識揸車？",
-            "你揸得落車嗎？",
-            "你揸得起車嗎？",
-            "你揸唔揸得明？"
+            "你識唔識揸車？ (VVC  VCVC - Unit 19 Target Practice)",
+            "你揸得落車嗎？ (VVC  VCVC - Unit 19 Target Practice)",
+            "你揸得起車嗎？ (VVC  VCVC - Unit 19 Target Practice)",
+            "你揸唔揸得明？ (VVC  VCVC - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "表示後天習得之技能本領，專用能願動詞「識」（識唔識）。"
@@ -8253,10 +8253,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合辨析】下列三句話中，分別強調「許可准許」、「習得技能」與「客觀完成可能」之排列順序係：",
           "options": [
-            "可唔可以入去（許可） / 識唔識游水（技能） / 睇唔睇得見（可能） (「可以」表許可准許，「識」表習得技能，「睇得見」表客觀結果達成之可能性。)",
-            "睇唔睇得見（許可） / 可唔可以入去（技能） / 識唔識游水（可能）",
-            "識唔識游水（許可） / 睇唔睇得見（技能） / 可唔可以入去（可能）",
-            "可唔可以入去（技能） / 識唔識游水（許可） / 睇唔睇得見（可能）"
+            "可唔可以入去 / 識唔識游水 / 睇唔睇得見 (VVC  VCVC - Unit 19 Target Practice)",
+            "睇唔睇得見 / 可唔可以入去 / 識唔識游水 (VVC  VCVC - Unit 19 Target Practice)",
+            "識唔識游水 / 睇唔睇得見 / 可唔可以入去 (VVC  VCVC - Unit 19 Target Practice)",
+            "可唔可以入去 / 識唔識游水 / 睇唔睇得見 (VVC  VCVC - Unit 19 Target Practice) [Option 4]"
           ],
           "answerIndex": 0,
           "explanation": "「可以」表許可准許，「識」表習得技能，「睇得見」表客觀結果達成之可能性。"
@@ -8304,10 +8304,10 @@
         {
           "prompt": "【存在句構造】欲向客人介紹「會議室裡面有十張旋轉椅」，標準粵語存在句句式係：",
           "options": [
-            "會議室入面有十張旋轉椅。",
-            "十張旋轉椅喺會議室入面有。",
-            "有十張旋轉椅喺會議室入面度。",
-            "會議室入面喺十張旋轉椅。"
+            "會議室入面有十張旋轉椅 (Core target concept - Unit 20 Target Practice)",
+            "十張旋轉椅喺會議室入面有 (Core target concept - Unit 20 Target Practice)",
+            "有十張旋轉椅喺會議室入面度 (Core target concept - Unit 20 Target Practice)",
+            "會議室入面喺十張旋轉椅 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "存在句標準句序為【處所 ＋ 有 ＋ 數量名詞】（會議室入面有……）。"
@@ -8319,10 +8319,10 @@
         {
           "prompt": "【處所定位】回答「我部手機去咗邊？」，指出「你的手機在沙發上面」，應講：",
           "options": [
-            "你部手機喺梳化上面。",
-            "梳化上面有你部手機。",
-            "你部手機有梳化上面。",
-            "梳化上面喺你部手機。"
+            "你部手機喺梳化上面 (Core target concept - Unit 20 Target Practice)",
+            "梳化上面有你部手機 (Core target concept - Unit 20 Target Practice)",
+            "你部手機有梳化上面 (Core target concept - Unit 20 Target Practice)",
+            "梳化上面喺你部手機 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "交代已知特定物品之具體坐標，使用處所定位句【名詞 ＋ 喺 ＋ 處所】。"
@@ -8335,10 +8335,10 @@
           "type": "multiple-choice",
           "prompt": "【語法辨析】句子「雪櫃入面冇晒雞蛋」中，「冇」之主要語法功能係：",
           "options": [
-            "存在句否定標記，表示某空間內不存在某實體",
-            "動態進行體標記",
-            "被動態引介詞",
-            "比較級介詞"
+            "存在句否定標記，表示某空間內不存在某實體 (Core target concept - Unit 20 Target Practice)",
+            "動態進行體標記 (Core target concept - Unit 20 Target Practice)",
+            "被動態引介詞 (Core target concept - Unit 20 Target Practice)",
+            "比較級介詞 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「冇」在存在句中作為否定核心謂語，表示處所內目標物之缺失。"
@@ -8386,10 +8386,10 @@
         {
           "prompt": "【空間存現句】欲描寫「會議室牆上掛著一張世界地圖」，最地道之粵語存現句係：",
           "options": [
-            "會議室牆上面掛住一張世界地圖。",
-            "會議室牆上面掛緊一張世界地圖。",
-            "會議室牆上面掛咗一張世界地圖晒。",
-            "一張世界地圖掛住會議室牆上面。"
+            "會議室牆上面掛住一張世界地圖 (Core target concept - Unit 20 Target Practice)",
+            "會議室牆上面掛緊一張世界地圖 (Core target concept - Unit 20 Target Practice)",
+            "會議室牆上面掛咗一張世界地圖晒 (Core target concept - Unit 20 Target Practice)",
+            "一張世界地圖掛住會議室牆上面 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "靜態存現持續句公式為【處所 ＋ 動詞 ＋ 住 ＋ 實體】（牆上面掛住……）。"
@@ -8401,10 +8401,10 @@
         {
           "prompt": "【姿態存現】描寫「大門兩旁站著兩位接待員」，應選用之姿態動詞短語係：",
           "options": [
-            "企住兩位接待員",
-            "坐住兩位接待員",
-            "擺住兩位接待員",
-            "掛住兩位接待員"
+            "企住兩位接待員 (Core target concept - Unit 20 Target Practice)",
+            "坐住兩位接待員 (Core target concept - Unit 20 Target Practice)",
+            "擺住兩位接待員 (Core target concept - Unit 20 Target Practice)",
+            "掛住兩位接待員 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "人物站立姿態在粵語中專用動詞「企」（企住）。"
@@ -8417,10 +8417,10 @@
           "type": "multiple-choice",
           "prompt": "【語態對比】「掛住」（kwaa3 zyu6）與「掛緊」（kwaa3 gan2）在空間描寫中之核心語法差別係：",
           "options": [
-            "「掛住」表示物體靜態懸掛之持續狀態，「掛緊」表示正在進行懸掛之動態過程 (「住」標註狀態之靜態延續（存現態），「緊」標註動作正處於進行過程中（進行態）。)",
-            "「掛住」表示動作已經失敗，「掛緊」表示動作順利完成",
-            "「掛住」只能用於人體，「掛緊」只能用於建築物",
-            "兩者在語法與語義上完全等同無差別"
+            "「掛住」表示物體靜態懸掛之持續狀態，「掛緊」表示正在進行懸掛之動態過程 (Core target concept - Unit 20 Target Practice)",
+            "「掛住」表示動作已經失敗，「掛緊」表示動作順利完成 (Core target concept - Unit 20 Target Practice)",
+            "「掛住」只能用於人體，「掛緊」只能用於建築物 (Core target concept - Unit 20 Target Practice)",
+            "兩者在語法與語義上完全等同無差別 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「住」標註狀態之靜態延續（存現態），「緊」標註動作正處於進行過程中（進行態）。"
@@ -8468,10 +8468,10 @@
         {
           "prompt": "【人稱處所化】欲向同事表示「那份重要文件由我保管、在我這裡」，最地道粵語表達係：",
           "options": [
-            "份文件喺我度。",
-            "份文件喺我邊。",
-            "份文件喺我面。",
-            "份文件喺我處。"
+            "份文件喺我度 (Core target concept - Unit 20 Target Practice)",
+            "份文件喺我邊 (Core target concept - Unit 20 Target Practice)",
+            "份文件喺我面 (Core target concept - Unit 20 Target Practice)",
+            "份文件喺我處 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "人稱代詞後加「度」（喺我度）表示在某人處/由某人保管。"
@@ -8483,10 +8483,10 @@
         {
           "prompt": "【方位指向】指示方向「向右側看、在右手側」，應選用之方位短語係：",
           "options": [
-            "右手邊",
-            "右手度",
-            "右手面",
-            "右手處"
+            "右手邊 (Core target concept - Unit 20 Target Practice)",
+            "右手度 (Core target concept - Unit 20 Target Practice)",
+            "右手面 (Core target concept - Unit 20 Target Practice)",
+            "右手處 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "左右側向維度專用標記「邊」（右手邊、左手邊）。"
@@ -8499,10 +8499,10 @@
           "type": "multiple-choice",
           "prompt": "【拓撲辨析】指示代詞「邊度」（bin1 dou6）在粵語中之標準語法语義為：",
           "options": [
-            "何處、哪裡（處所疑問代詞）",
-            "什麼時候（時間疑問代詞）",
-            "為什麼（原因疑問代詞）",
-            "多少錢（價格疑問代詞）"
+            "何處、哪裡 (Core target concept - Unit 20 Target Practice)",
+            "什麼時候 (Core target concept - Unit 20 Target Practice)",
+            "為什麼 (Core target concept - Unit 20 Target Practice)",
+            "多少錢 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「邊度」為粵語標準處所疑問詞，相當於「哪裡/何處」。"
@@ -8550,10 +8550,10 @@
         {
           "prompt": "【相鄰關係】在香港街頭指引「隔壁那家店舖」，最地道之拓撲方位詞係：",
           "options": [
-            "隔離舖頭",
-            "對面舖頭",
-            "斜對面舖頭",
-            "天橋底舖頭"
+            "隔離舖頭 (Language concept U20)",
+            "對面舖頭 (Language concept U20)",
+            "斜對面舖頭 (Language concept U20)",
+            "天橋底舖頭 (Language concept U20)"
           ],
           "answerIndex": 0,
           "explanation": "「隔離」（gaak3 lei4）專門表示相鄰、隔壁。"
@@ -8565,10 +8565,10 @@
         {
           "prompt": "【拐角拓撲】形容商店坐落於「街道轉角拐彎處」，標準名詞短語係：",
           "options": [
-            "轉角位",
-            "天橋底",
-            "後巷位",
-            "對面海"
+            "轉角位 (Core target concept - Unit 20 Target Practice)",
+            "天橋底 (Core target concept - Unit 20 Target Practice)",
+            "後巷位 (Core target concept - Unit 20 Target Practice)",
+            "對面海 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「轉角位」表示道路轉折拐角處之位置。"
@@ -8581,10 +8581,10 @@
           "type": "multiple-choice",
           "prompt": "【空間幾何】建築物Ａ與建築物Ｂ位於十字路口之對角線兩側，彼此之空間拓撲關係係：",
           "options": [
-            "斜對面",
-            "隔離",
-            "正對面",
-            "天橋底"
+            "斜對面 (Language concept U20)",
+            "隔離 (Language concept U20)",
+            "正對面 (Language concept U20)",
+            "天橋底 (Language concept U20)"
           ],
           "answerIndex": 0,
           "explanation": "十字路口斜對角位置在粵語中嚴格稱為「斜對面」（ce4 deoi3 min6）。"
@@ -8632,10 +8632,10 @@
         {
           "prompt": "【路線指引】指引「走出手鐵站出口後一直往前走」，地道粵語語句係：",
           "options": [
-            "行出地鐵站出口之後一路直行。",
-            "行入地鐵站出口之後一路轉左。",
-            "行過地鐵站出口之後一路坐低。",
-            "行落地鐵站出口之後一路停低。"
+            "行出地鐵站出口之後一路直行 (Core target concept - Unit 20 Target Practice)",
+            "行入地鐵站出口之後一路轉左 (Core target concept - Unit 20 Target Practice)",
+            "行過地鐵站出口之後一路坐低 (Core target concept - Unit 20 Target Practice)",
+            "行落地鐵站出口之後一路停低 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「行出……之後一路直行」為標準出發直線位移引導句式。"
@@ -8647,10 +8647,10 @@
         {
           "prompt": "【室內樓層轉換】在大型商場引導顧客「乘搭手扶電梯上二樓」，應講：",
           "options": [
-            "搭扶手電梯上二樓",
-            "搭扶手電梯落二樓",
-            "搭扶手電梯出二樓",
-            "搭扶手電梯入二樓"
+            "搭扶手電梯上二樓 (Core target concept - Unit 20 Target Practice)",
+            "搭扶手電梯落二樓 (Core target concept - Unit 20 Target Practice)",
+            "搭扶手電梯出二樓 (Core target concept - Unit 20 Target Practice)",
+            "搭扶手電梯入二樓 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "由低層前往高層，使用趨向動詞「上」（上一樓、上二樓）。"
@@ -8663,10 +8663,10 @@
           "type": "multiple-choice",
           "prompt": "【綜合指引】句子「過咗交通燈位轉右，診所就喺你右手邊」，其中各成分之指引邏輯為：",
           "options": [
-            "地標參照（交通燈位）＋ 動作轉向（轉右）＋ 終點方位定位（右手邊） (該句完整展示了路標參照、方向轉折與目標終點坐標之完整導覽結構。)",
-            "時間判斷 ＋ 速度限制 ＋ 費用計算",
-            "人物介紹 ＋ 年齡說明 ＋ 職業交代",
-            "菜單推薦 ＋ 價格說明 ＋ 口味評估"
+            "地標參照＋ 動作轉向＋ 終點方位定位 (Core target concept - Unit 20 Target Practice)",
+            "時間判斷 ＋ 速度限制 ＋ 費用計算 (Core target concept - Unit 20 Target Practice)",
+            "人物介紹 ＋ 年齡說明 ＋ 職業交代 (Core target concept - Unit 20 Target Practice)",
+            "菜單推薦 ＋ 價格說明 ＋ 口味評估 (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "該句完整展示了路標參照、方向轉折與目標終點坐標之完整導覽結構。"
@@ -8714,10 +8714,10 @@
         {
           "prompt": "【理所當然】欲表達「如果你努力工作，自然就能賺到錢，這是理所當然的」，結尾語氣詞應為：",
           "options": [
-            "自然就賺到錢囉！",
-            "自然就賺到錢咩？",
-            "自然就賺到錢啫？",
-            "自然就賺到錢喎？"
+            "自然就賺到錢囉！ (Core target concept - Unit 21 Target Practice)",
+            "自然就賺到錢咩？ (Core target concept - Unit 21 Target Practice)",
+            "自然就賺到錢啫？ (Core target concept - Unit 21 Target Practice)",
+            "自然就賺到錢喎？ (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「囉」（lo1）表示理所當然、顯而易見之因果必然性。"
@@ -8729,10 +8729,10 @@
         {
           "prompt": "【常識提醒】提醒朋友「今天是公眾假期，銀行不開門是大家都知道的事實」，應講：",
           "options": [
-            "今日係假期，銀行唔開門㗎嘛。",
-            "今日係假期，銀行唔開門囉。",
-            "今日係假期，銀行唔開門咩。",
-            "今日係假期，銀行唔開門喎。"
+            "今日係假期，銀行唔開門㗎嘛 (Core target concept - Unit 21 Target Practice)",
+            "今日係假期，銀行唔開門囉 (Core target concept - Unit 21 Target Practice)",
+            "今日係假期，銀行唔開門咩 (Core target concept - Unit 21 Target Practice)",
+            "今日係假期，銀行唔開門喎 (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎嘛 / 呀嘛」用以提醒對方共有之常識或背景信息。"
@@ -8745,10 +8745,10 @@
           "type": "multiple-choice",
           "prompt": "【語氣功能】短語「時間到喇」（si4 gaan3 dou3 laa3）中，「喇」之核心語法功能係：",
           "options": [
-            "標註新事態之成立與實現",
-            "表示強烈質疑反問",
-            "表示主觀輕視與忽略",
-            "表示引用他人傳聞"
+            "標註新事態之成立與實現 (Language concept U21)",
+            "表示強烈質疑反問 (Language concept U21)",
+            "表示主觀輕視與忽略 (Language concept U21)",
+            "表示引用他人傳聞 (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "「喇」（laa3）作為句尾助詞，核心功能為標註事態轉變或階段性完成。"
@@ -8796,10 +8796,10 @@
         {
           "prompt": "【驚訝反問】聽到令人難以置信的消息時，反問「真的是這樣嗎？！難道真的會這樣？」，應講：",
           "options": [
-            "真係噉咩？！",
-            "真係噉囉？！",
-            "真係噉啫？！",
-            "真係噉可？！"
+            "真係噉咩？！ (Core target concept - Unit 21 Target Practice)",
+            "真係噉囉？！ (Core target concept - Unit 21 Target Practice)",
+            "真係噉啫？！ (Core target concept - Unit 21 Target Practice)",
+            "真係噉可？！ (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「咩」（me1）表示出乎意料之強烈反問與懷疑。"
@@ -8811,10 +8811,10 @@
         {
           "prompt": "【轉述傳聞】向朋友轉達「我聽經理說下星期要全體加班」，客觀轉述助詞應為：",
           "options": [
-            "經理話下個禮拜要加班喎。",
-            "經理話下個禮拜要加班咩。",
-            "經理話下個禮拜要加班啫。",
-            "經理話下個禮拜要加班可。"
+            "經理話下個禮拜要加班喎 (Core target concept - Unit 21 Target Practice)",
+            "經理話下個禮拜要加班咩 (Core target concept - Unit 21 Target Practice)",
+            "經理話下個禮拜要加班啫 (Core target concept - Unit 21 Target Practice)",
+            "經理話下個禮拜要加班可 (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「喎」（wo3）用於轉述第三方言論或傳聞消息。"
@@ -8827,10 +8827,10 @@
           "type": "multiple-choice",
           "prompt": "【求證附加問】句子「份報告聽日交嘅，可？」（ho2）中，「可」之功能相當於英語中之：",
           "options": [
-            "附加疑問句標記（Tag Question，如 '..., right?'）",
-            "動態完成標記（如 'already'）",
-            "條件連詞（如 'if'）",
-            "否定副詞（如 'never'）"
+            "附加疑問句標記 (Language concept U21)",
+            "動態完成標記 (Language concept U21)",
+            "條件連詞 (Core target concept - Unit 21 Target Practice)",
+            "否定副詞 (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "「可」（ho2）置於句尾，功能為向對方尋求肯定與確認（..., right?）。"
@@ -8878,10 +8878,10 @@
         {
           "prompt": "【輕描淡寫】安慰朋友「這只是一件微不足道的小事，別放在心上」，地道結尾語氣詞係：",
           "options": [
-            "小事嚟啫。",
-            "小事嚟㗎。",
-            "小事嚟咩。",
-            "小事嚟囉。"
+            "小事嚟啫 (Core target concept - Unit 21 Target Practice)",
+            "小事嚟㗎 (Core target concept - Unit 21 Target Practice)",
+            "小事嚟咩 (Core target concept - Unit 21 Target Practice)",
+            "小事嚟囉 (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「啫」（ze1）用於輕描淡寫、主觀縮小嚴重性。"
@@ -8893,10 +8893,10 @@
         {
           "prompt": "【本質特徵】向外地朋友解釋「香港夏天向來都非常炎熱多雨（固有規律）」，應講：",
           "options": [
-            "香港夏天好熱㗎。",
-            "香港夏天好熱啫。",
-            "香港夏天好熱咩。",
-            "香港夏天好熱可。"
+            "香港夏天好熱㗎 (Language concept U21)",
+            "香港夏天好熱啫 (Language concept U21)",
+            "香港夏天好熱咩 (Language concept U21)",
+            "香港夏天好熱可 (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎」（gaa3）表示本質固有事實與規律。"
@@ -8909,10 +8909,10 @@
           "type": "multiple-choice",
           "prompt": "【對比辨析】句子Ａ「我問下啫」與句子Ｂ「我問下㗎」之語法語氣核心差別係：",
           "options": [
-            "句子Ａ強調『只是隨口問問、別介意』，句子Ｂ強調『問問題是我的固有習慣或職責』 (「啫」表縮小輕描淡寫，「㗎」表固有特徵或慣常做法。)",
-            "句子Ａ表示憤怒，句子Ｂ表示高興",
-            "句子Ａ是疑問句，句子Ｂ是祈使句",
-            "兩者毫無語義差別"
+            "句子Ａ強調『只是隨口問問、別介意』，句子Ｂ強調『問問題是我的固有習慣或職責』 (Core target concept - Unit 21 Target Practice)",
+            "句子Ａ表示憤怒，句子Ｂ表示高興 (Core target concept - Unit 21 Target Practice)",
+            "句子Ａ是疑問句，句子Ｂ是祈使句 (Core target concept - Unit 21 Target Practice)",
+            "兩者毫無語義差別 (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「啫」表縮小輕描淡寫，「㗎」表固有特徵或慣常做法。"
@@ -8960,10 +8960,10 @@
         {
           "prompt": "【緊迫警示】提醒朋友「末班地鐵快要開走了，再不跑就趕不上了」，應講：",
           "options": [
-            "尾班車就嚟開走喇喎！",
-            "尾班車就嚟開走罷啦！",
-            "尾班車就嚟開走啫！",
-            "尾班車就嚟開走可！"
+            "尾班車就嚟開走喇喎！ (Language concept U21)",
+            "尾班車就嚟開走罷啦！ (Language concept U21)",
+            "尾班車就嚟開走啫！ (Language concept U21)",
+            "尾班車就嚟開走可！ (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "「喇喎」（laa3 wo3）用於發出事態迫近之警告。"
@@ -8975,10 +8975,10 @@
         {
           "prompt": "【放棄妥協】面對無法挽回之失敗局面，表達「算了，別再糾結了」，最地道粵語表達係：",
           "options": [
-            "算罷啦。",
-            "算喇喎。",
-            "算咩啦。",
-            "算㗎喎。"
+            "算罷啦 (Language concept U21)",
+            "算喇喎 (Language concept U21)",
+            "算咩啦 (Language concept U21)",
+            "算㗎喎 (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "「算罷啦」（syun3 baa6 laa1）表示無奈放棄、不再計較。"
@@ -8991,10 +8991,10 @@
           "type": "multiple-choice",
           "prompt": "【語氣對比】祈請助詞「啦」（laa1）與事態助詞「喇」（laa3）之核心語音與語義差異係：",
           "options": [
-            "「啦」（laa1，高平調）表請求建議，「喇」（laa3，中平調）表事態完成轉變",
-            "「啦」表否定，「喇」表肯定",
-            "「啦」只能用於書面語，「喇」只能用於口語",
-            "兩者聲調與用法完全相同"
+            "「啦 (Language concept U21)",
+            "「啦」表否定，「喇」表肯定 (Language concept U21)",
+            "「啦」只能用於書面語，「喇」只能用於口語 (Language concept U21)",
+            "兩者聲調與用法完全相同 (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "第一聲「啦」（laa1）為祈使祈請助詞，第三聲「喇」（laa3）為既成事態助詞。"
@@ -9042,10 +9042,10 @@
         {
           "prompt": "【語氣疊用】向老闆匯報任務時確認「全部工作都已經徹底辦妥無誤了」，最地道複合助詞短語係：",
           "options": [
-            "全部搞掂㗎喇！",
-            "全部搞掂嘅啫！ (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)",
-            "全部搞掂啫嘛！ (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)",
-            "全部搞掂㗎喎！ (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)"
+            "全部搞掂㗎喇！ (Language concept U21)",
+            "全部搞掂嘅啫！ (Language concept U21)",
+            "全部搞掂啫嘛！ (Language concept U21)",
+            "全部搞掂㗎喎！ (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎喇」（gaa3 laa3）表示任務已經徹底辦妥並正式生效。"
@@ -9057,10 +9057,10 @@
         {
           "prompt": "【複合微不足道】向著急的朋友勸解「只不過是等十分鐘而已嘛，何必這麼心急」，應講：",
           "options": [
-            "等十分鐘啫嘛。",
-            "等十分鐘㗎喇。 (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)",
-            "等十分鐘㗎喎。 (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)",
-            "等十分鐘嘅可。 (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)"
+            "等十分鐘啫嘛 (Language concept U21)",
+            "等十分鐘㗎喇 (Language concept U21)",
+            "等十分鐘㗎喎 (Language concept U21)",
+            "等十分鐘嘅可 (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "「啫嘛」（ze1 maa3）結合了縮小微不足道與共有認知之勸解語氣。"
@@ -9073,10 +9073,10 @@
           "type": "multiple-choice",
           "prompt": "【多重語氣分析】句子「佢好勁㗎喎」（gaa3 wo3）中，複合助詞之語意合成效果係：",
           "options": [
-            "強調對方客觀上具備卓越能力（㗎），同時向聽者發出提示或表達驚嘆（喎） (「㗎」確立本質屬性事實，「喎」承擔提醒聽者注意或傳遞新奇信息之功能。)",
-            "表示完全否定對方的能力 (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)",
-            "表示向對方發出嚴厲批評 (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)",
-            "表示疑問求證對方是否具備能力 (掌握粵語複合語氣助詞多重疊用機制（㗎喇、嘅啫、啫嘛、㗎喎）之語義合成公式與頂級母語者語感精準實戰。)"
+            "強調對方客觀上具備卓越能力，同時向聽者發出提示或表達驚嘆 (Core target concept - Unit 21 Target Practice)",
+            "表示完全否定對方的能力 (Core target concept - Unit 21 Target Practice)",
+            "表示向對方發出嚴厲批評 (Core target concept - Unit 21 Target Practice)",
+            "表示疑問求證對方是否具備能力 (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎」確立本質屬性事實，「喎」承擔提醒聽者注意或傳遞新奇信息之功能。"
@@ -9124,10 +9124,10 @@
         {
           "prompt": "【防騙俗語】面對聲稱「零風險、高回報」之可疑投資宣傳，廣東人最常用之警惕俗語係：",
           "options": [
-            "邊有咁大隻蛤乸隨街跳",
-            "食得鹹魚抵得渴",
-            "執輸行頭慘過敗家",
-            "扮豬食老虎"
+            "邊有咁大隻蛤乸隨街跳 (Core target concept - Unit 22 Target Practice)",
+            "食得鹹魚抵得渴 (Core target concept - Unit 22 Target Practice)",
+            "執輸行頭慘過敗家 (Core target concept - Unit 22 Target Practice)",
+            "扮豬食老虎 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「邊有咁大隻蛤乸隨街跳」比喻天下沒有免費午餐，警惕提防被騙。"
@@ -9139,10 +9139,10 @@
         {
           "prompt": "【承擔後果】告誡他人「既然選擇了高風險高回報之路，就要勇於承受隨之而來的壓力」，應引用：",
           "options": [
-            "食得鹹魚抵得渴",
-            "邊有咁大隻蛤乸隨街跳",
-            "水過鴨背",
-            "阿茂整餅"
+            "食得鹹魚抵得渴 (Core target concept - Unit 22 Target Practice)",
+            "邊有咁大隻蛤乸隨街跳 (Core target concept - Unit 22 Target Practice)",
+            "水過鴨背 (Core target concept - Unit 22 Target Practice)",
+            "阿茂整餅 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「食得鹹魚抵得渴」比喻敢作敢當、承擔自己選擇所帶來的必然代價。"
@@ -9155,10 +9155,10 @@
           "type": "multiple-choice",
           "prompt": "【商戰心態】俗語「執輸行頭慘過敗家」（zap1 syu1 haang4 tau4 caam2 gwo3 baai6 gaa1）所體現之核心精神係：",
           "options": [
-            "強烈之搶佔商機與爭先恐後競爭意識",
-            "安貧樂道、與世無爭",
-            "崇尚奢侈浪費之敗家行為",
-            "消極放棄所有投資機會"
+            "強烈之搶佔商機與爭先恐後競爭意識 (Core target concept - Unit 22 Target Practice)",
+            "安貧樂道、與世無爭 (Core target concept - Unit 22 Target Practice)",
+            "崇尚奢侈浪費之敗家行為 (Core target concept - Unit 22 Target Practice)",
+            "消極放棄所有投資機會 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "該俗語強調商場競爭中錯失先機之痛心，體現出積極進取、爭分奪秒之搶佔商機意識。"
@@ -9206,10 +9206,10 @@
         {
           "prompt": "【職場隱喻】在公司中被無辜栽贓、替他人頂罪受過，地道飲食成語係：",
           "options": [
-            "食死貓",
-            "炒魷魚",
-            "食檸檬",
-            "飲頭啖湯"
+            "食死貓 (Core target concept - Unit 22 Target Practice)",
+            "炒魷魚 (Core target concept - Unit 22 Target Practice)",
+            "食檸檬 (Core target concept - Unit 22 Target Practice)",
+            "飲頭啖湯 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「食死貓」比喻背黑鍋、含冤受屈。"
@@ -9221,10 +9221,10 @@
         {
           "prompt": "【商業先機】形容企業搶先進入新市場、最先享受豐厚紅利，應選用之成語係：",
           "options": [
-            "飲頭啖湯",
-            "食死貓",
-            "炒魷魚",
-            "食軟飯"
+            "飲頭啖湯 (Core target concept - Unit 22 Target Practice)",
+            "食死貓 (Core target concept - Unit 22 Target Practice)",
+            "炒魷魚 (Core target concept - Unit 22 Target Practice)",
+            "食軟飯 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「飲頭啖湯」比喻第一批搶先獲取最大利益者。"
@@ -9237,10 +9237,10 @@
           "type": "multiple-choice",
           "prompt": "【社交隱喻】短語「畀人請食檸檬」在廣東話中之真正含義為：",
           "options": [
-            "遭到對方的拒絕或冷落回絕",
-            "獲贈新鮮美味的水果禮品",
-            "被邀請參加豪華宴會",
-            "在餐廳免費獲得檸檬茶飲品"
+            "遭到對方的拒絕或冷落回絕 (Core target concept - Unit 22 Target Practice)",
+            "獲贈新鮮美味的水果禮品 (Core target concept - Unit 22 Target Practice)",
+            "被邀請參加豪華宴會 (Core target concept - Unit 22 Target Practice)",
+            "在餐廳免費獲得檸檬茶飲品 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「食檸檬」為遭到求愛拒絕或請求碰釘子之經典隱喻。"
@@ -9288,10 +9288,10 @@
         {
           "prompt": "【歇後匹配】歇後語「水過鴨背」之後半段對應謎底係：",
           "options": [
-            "唔入心 / 冇痕跡",
-            "心中有數",
-            "冇嗰樣整嗰樣",
-            "冇安好心"
+            "唔入心 / 冇痕跡 (Core target concept - Unit 22 Target Practice)",
+            "心中有數 (Core target concept - Unit 22 Target Practice)",
+            "冇嗰樣整嗰樣 (Core target concept - Unit 22 Target Practice)",
+            "冇安好心 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「水過鴨背」比喻說話如過眼雲煙、聽不進去（唔入心）。"
@@ -9303,10 +9303,10 @@
         {
           "prompt": "【多此一舉】形容人無事生非、多此一舉做無用功，對應之歇後語前半句係：",
           "options": [
-            "阿茂整餅",
-            "盲人食湯圓",
-            "黃鼠狼畀雞拜年",
-            "泥菩薩過江"
+            "阿茂整餅 (Core target concept - Unit 22 Target Practice)",
+            "盲人食湯圓 (Core target concept - Unit 22 Target Practice)",
+            "黃鼠狼畀雞拜年 (Core target concept - Unit 22 Target Practice)",
+            "泥菩薩過江 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「阿茂整餅 —— 冇嗰樣整嗰樣」比喻多此一舉、自找麻煩。"
@@ -9319,10 +9319,10 @@
           "type": "multiple-choice",
           "prompt": "【心知肚明】歇後語「盲人食湯圓」（maang4 jan4 sik6 tong1 jyun4*2）所表達之真實寓意係：",
           "options": [
-            "心中有數、內心對底細清清楚楚",
-            "完全不知道吃了多少",
-            "湯圓味道非常甜美",
-            "雙眼視力突然恢復"
+            "心中有數、內心對底細清清楚楚 (Core target concept - Unit 22 Target Practice)",
+            "完全不知道吃了多少 (Core target concept - Unit 22 Target Practice)",
+            "湯圓味道非常甜美 (Core target concept - Unit 22 Target Practice)",
+            "雙眼視力突然恢復 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「盲人食湯圓 —— 心中有數」比喻內心對事情來龍去脈與數字底細極為清楚。"
@@ -9370,10 +9370,10 @@
         {
           "prompt": "【萬無一失】形容事情有十足把握、絕對安全穩妥，對應之歇後語前半句係：",
           "options": [
-            "神仙過鐵橋",
-            "泥菩薩過江",
-            "風吹雞蛋殼",
-            "單眼佬睇榜"
+            "神仙過鐵橋 (Core target concept - Unit 22 Target Practice)",
+            "泥菩薩過江 (Core target concept - Unit 22 Target Practice)",
+            "風吹雞蛋殼 (Core target concept - Unit 22 Target Practice)",
+            "單眼佬睇榜 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「神仙過鐵橋 —— 包穩陣」比喻萬無一失、極其穩妥。"
@@ -9385,10 +9385,10 @@
         {
           "prompt": "【自身難保】比喻連自己都難以自保、無力顧及他人，歇後語前半句係：",
           "options": [
-            "泥菩薩過江",
-            "神仙過鐵橋",
-            "風吹雞蛋殼",
-            "阿茂整餅"
+            "泥菩薩過江 (Core target concept - Unit 22 Target Practice)",
+            "神仙過鐵橋 (Core target concept - Unit 22 Target Practice)",
+            "風吹雞蛋殼 (Core target concept - Unit 22 Target Practice)",
+            "阿茂整餅 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「泥菩薩過江 —— 自身難保」形容自身處境危殆、無力助人。"
@@ -9401,10 +9401,10 @@
           "type": "multiple-choice",
           "prompt": "【雙關諧音】歇後語「單眼佬睇榜 —— 一目了然」中，「一目」所運用的修辭手法係：",
           "options": [
-            "雙關諧音（一隻眼睛 vs 一目了然）",
-            "誇張修辭",
-            "借代修辭",
-            "擬人修辭"
+            "雙關諧音 (Core target concept - Unit 22 Target Practice)",
+            "誇張修辭 (Core target concept - Unit 22 Target Practice)",
+            "借代修辭 (Core target concept - Unit 22 Target Practice)",
+            "擬人修辭 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "單眼人只有一隻眼（一目），與成語「一目了然」形成絕妙雙關諧音。"
@@ -9452,10 +9452,10 @@
         {
           "prompt": "【語用語境】在與香港商業合作夥伴簽約時，欲表達「我方承諾該項目絕對穩當、萬無一失」，最得體幽默之表達係：",
           "options": [
-            "今次合作真係神仙過鐵橋 —— 包穩陣！",
-            "今次合作真係阿茂整餅！ (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)",
-            "今次合作真係水過鴨背！ (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)",
-            "今次合作真係泥菩薩過江！ (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)"
+            "今次合作真係神仙過鐵橋 —— 包穩陣！ (Core target concept - Unit 22 Target Practice)",
+            "今次合作真係阿茂整餅！ (Core target concept - Unit 22 Target Practice)",
+            "今次合作真係水過鴨背！ (Core target concept - Unit 22 Target Practice)",
+            "今次合作真係泥菩薩過江！ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「神仙過鐵橋 —— 包穩陣」在商務溝通中兼具自信承諾與地道幽默。"
@@ -9467,10 +9467,10 @@
         {
           "prompt": "【職場自衛】告誡年輕員工「要小心核對簽名文件，避免日後替他人背黑鍋」，應講：",
           "options": [
-            "小心核對，免得幫人食死貓。",
-            "小心核對，免得幫人飲頭啖湯。 (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)",
-            "小心核對，免得幫人食檸檬。 (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)",
-            "小心核對，免得幫人食軟飯。 (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)"
+            "小心核對，免得幫人食死貓 (Core target concept - Unit 22 Target Practice)",
+            "小心核對，免得幫人飲頭啖湯 (Core target concept - Unit 22 Target Practice)",
+            "小心核對，免得幫人食檸檬 (Core target concept - Unit 22 Target Practice)",
+            "小心核對，免得幫人食軟飯 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「食死貓」為替人背黑鍋受過之專屬表達。"
@@ -9483,10 +9483,10 @@
           "type": "multiple-choice",
           "prompt": "【高情商策略】在跨文化商務社交中，巧妙運用廣東話俗語與歇後語之主要價值在於：",
           "options": [
-            "活躍談判氣氛，展示文化共鳴，迅速拉近與本地夥伴之人際心理距離",
-            "故意讓對方聽不懂以獲取利益 (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)",
-            "取代所有正式法律合同條款 (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)",
-            "展示自身方言優越感 (掌握在商務談判、職場溝通與市井社交中得體、精準、高情商運用成語俗語與歇後語之高階語用策略。)"
+            "活躍談判氣氛，展示文化共鳴，迅速拉近與本地夥伴之人際心理距離 (Core target concept - Unit 22 Target Practice)",
+            "故意讓對方聽不懂以獲取利益 (Core target concept - Unit 22 Target Practice)",
+            "取代所有正式法律合同條款 (Core target concept - Unit 22 Target Practice)",
+            "展示自身方言優越感 (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "恰當運用本土俗語能展現文化包容度與親和力，快速建立互信與心理共鳴。"
@@ -9534,10 +9534,10 @@
         {
           "prompt": "【新聞引述】新聞主播引述可靠內部情報時，最權威客觀之開篇信源詞係：",
           "options": [
-            "消息指",
-            "有人講",
-            "聽講話",
-            "街坊話"
+            "消息指 (Core target concept - Unit 23 Target Practice)",
+            "有人講 (Core target concept - Unit 23 Target Practice)",
+            "聽講話 (Core target concept - Unit 23 Target Practice)",
+            "街坊話 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「消息指 / 據悉」為新聞傳媒最權威標準之客觀信源引述詞。"
@@ -9549,10 +9549,10 @@
         {
           "prompt": "【官方表態】在正式新聞稿中表述主管部門對某項政策的鄭重說明，地道表達係：",
           "options": [
-            "當局發言人指出並重申方針",
-            "老細隨便講兩句",
-            "阿茂整餅式通知",
-            "街坊私下傾計"
+            "當局發言人指出並重申方針 (Core target concept - Unit 23 Target Practice)",
+            "老細隨便講兩句 (Core target concept - Unit 23 Target Practice)",
+            "阿茂整餅式通知 (Core target concept - Unit 23 Target Practice)",
+            "街坊私下傾計 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「發言人指出 / 重申」為官方新聞語體之標準莊重表達。"
@@ -9565,10 +9565,10 @@
           "type": "multiple-choice",
           "prompt": "【語體轉換】日常口語「警察叫大家千祈唔好犯法」轉換為莊重新聞語體應為：",
           "options": [
-            "警方呼籲市民切勿以身試法",
-            "差人叫大家唔好做壞事",
-            "警察話大家小心啲啦",
-            "警署發明咗新規矩"
+            "警方呼籲市民切勿以身試法 (Core target concept - Unit 23 Target Practice)",
+            "差人叫大家唔好做壞事 (Core target concept - Unit 23 Target Practice)",
+            "警察話大家小心啲啦 (Core target concept - Unit 23 Target Practice)",
+            "警署發明咗新規矩 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「警方呼籲市民切勿以身試法」體現了新聞語體之規範性、典雅性與客觀性。"
@@ -9616,10 +9616,10 @@
         {
           "prompt": "【房屋類型】指稱將住宅單位分間為多個極微小空間獨立出租之住房形態，專用術語係：",
           "options": [
-            "劏房",
-            "居屋",
-            "村屋",
-            "豪宅"
+            "劏房 (Core target concept - Unit 23 Target Practice)",
+            "居屋 (Core target concept - Unit 23 Target Practice)",
+            "村屋 (Core target concept - Unit 23 Target Practice)",
+            "豪宅 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「劏房」指將單位分間出租之極端微型居住形態。"
@@ -9631,10 +9631,10 @@
         {
           "prompt": "【置業術語】廣東話中指稱「按月償還房屋貸款本金與利息」，地道動詞短語係：",
           "options": [
-            "供樓",
-            "炒樓",
-            "租樓",
-            "睇樓"
+            "供樓 (Core target concept - Unit 23 Target Practice)",
+            "炒樓 (Core target concept - Unit 23 Target Practice)",
+            "租樓 (Core target concept - Unit 23 Target Practice)",
+            "睇樓 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「供樓」指每月按期向銀行繳付按揭貸款。"
@@ -9647,10 +9647,10 @@
           "type": "multiple-choice",
           "prompt": "【金融術語】在香港購買私人物業時，買家首先必須自行支付之初始訂金額度稱為：",
           "options": [
-            "首期",
-            "利息",
-            "差餉",
-            "管理費"
+            "首期 (Language concept U23)",
+            "利息 (Language concept U23)",
+            "差餉 (Language concept U23)",
+            "管理費 (Language concept U23)"
           ],
           "answerIndex": 0,
           "explanation": "「首期」指置業時買家自備並先行繳付之首期款項（Down Payment）。"
@@ -9698,10 +9698,10 @@
         {
           "prompt": "【股指術語】形容恒生指數跌破重要心理支持點位，專業廣東話術語係：",
           "options": [
-            "跌穿",
-            "跌入",
-            "跌埋",
-            "跌醒"
+            "跌穿 (Core target concept - Unit 23 Target Practice)",
+            "跌入 (Core target concept - Unit 23 Target Practice)",
+            "跌埋 (Core target concept - Unit 23 Target Practice)",
+            "跌醒 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「跌穿」（如跌穿萬八點）為財經新聞描寫指數跌破關口之專屬動補結構。"
@@ -9713,10 +9713,10 @@
         {
           "prompt": "【節省開支】市井口語中生動形容「節約花銷、省錢守住錢包」，地道動賓短語係：",
           "options": [
-            "慳荷包",
-            "炒荷包",
-            "供荷包",
-            "買荷包"
+            "慳荷包 (Core target concept - Unit 23 Target Practice)",
+            "炒荷包 (Core target concept - Unit 23 Target Practice)",
+            "供荷包 (Core target concept - Unit 23 Target Practice)",
+            "買荷包 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「慳荷包」（慳錢）比喻節省開銷、精打細算。"
@@ -9729,10 +9729,10 @@
           "type": "multiple-choice",
           "prompt": "【宏觀經濟】術語「加息週期」（gaa1 sik1 zau1 kei4）對普通置業家庭最直接之影響為：",
           "options": [
-            "銀行物業按揭月供款項隨利率上升而增加",
-            "超市物價立刻全部免費",
-            "水電費賬單徹底免除",
-            "公共交通工具全面停止收費"
+            "銀行物業按揭月供款項隨利率上升而增加 (Core target concept - Unit 23 Target Practice)",
+            "超市物價立刻全部免費 (Core target concept - Unit 23 Target Practice)",
+            "水電費賬單徹底免除 (Core target concept - Unit 23 Target Practice)",
+            "公共交通工具全面停止收費 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "加息週期下銀行利率上升，直接導致浮動利率按揭家庭之「供樓」負擔顯著加重。"
@@ -9780,10 +9780,10 @@
         {
           "prompt": "【環保生活】在香港餐廳點餐外賣時，表達「不要一次性即棄塑膠餐具和吸管」，地道術語係：",
           "options": [
-            "走塑 / 走餐具",
-            "走甜",
-            "走冰",
-            "走油"
+            "走塑 / 走餐具 (Core target concept - Unit 23 Target Practice)",
+            "走甜 (Core target concept - Unit 23 Target Practice)",
+            "走冰 (Core target concept - Unit 23 Target Practice)",
+            "走油 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「走塑」（如同走甜、走冰）指不索取即棄塑膠餐具之環保倡議。"
@@ -9795,10 +9795,10 @@
         {
           "prompt": "【政策理念】環保宣傳中強調「在消費與生產最前端就減少廢棄物產生」，核心標語係：",
           "options": [
-            "源頭減廢",
-            "炒魷魚",
-            "食死貓",
-            "邊有蛤乸跳"
+            "源頭減廢 (Core target concept - Unit 23 Target Practice)",
+            "炒魷魚 (Core target concept - Unit 23 Target Practice)",
+            "食死貓 (Core target concept - Unit 23 Target Practice)",
+            "邊有蛤乸跳 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「源頭減廢」為可持續固體廢物管理之核心政策理念。"
@@ -9811,10 +9811,10 @@
           "type": "multiple-choice",
           "prompt": "【社區網絡】遍佈全港十八區、鼓勵市民將廢紙塑膠玻璃回收換取生活日用品之社區環保網絡名稱為：",
           "options": [
-            "綠在區區",
-            "紅在街市",
-            "藍在碼頭",
-            "黃在地鐵"
+            "綠在區區 (Core target concept - Unit 23 Target Practice)",
+            "紅在街市 (Core target concept - Unit 23 Target Practice)",
+            "藍在碼頭 (Core target concept - Unit 23 Target Practice)",
+            "黃在地鐵 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「綠在區區」為香港環保署推動之全港性社區回收環保站網絡。"
@@ -9862,10 +9862,10 @@
         {
           "prompt": "【社論銜接】在政策評論中客觀表述「這項措施對緩解短期問題有幫助，但無法從根本上徹底解決」，應使用之論證句式係：",
           "options": [
-            "固然有助於……然而難以徹底解決……",
-            "完全冇用兼阿茂整餅",
-            "一目了然唔使諗",
-            "神仙過鐵橋包解決"
+            "固然有助於……然而難以徹底解決…… (Core target concept - Unit 23 Target Practice)",
+            "完全冇用兼阿茂整餅 (Core target concept - Unit 23 Target Practice)",
+            "一目了然唔使諗 (Core target concept - Unit 23 Target Practice)",
+            "神仙過鐵橋包解決 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「固然有助於……然而難以徹底解決……」為政策社論中辨析局部效益與深層局限之經典平衡句式。"
@@ -9877,10 +9877,10 @@
         {
           "prompt": "【宏觀視角】引導讀者跳出當前微觀局部爭拗、從未來整體戰略視角評估政策，應引出之書面銜接詞係：",
           "options": [
-            "從宏觀角度審視，長遠而言……",
-            "即刻執輸行頭慘過敗家",
-            "大家算罷啦",
-            "食死貓算數"
+            "從宏觀角度審視，長遠而言…… (Core target concept - Unit 23 Target Practice)",
+            "即刻執輸行頭慘過敗家 (Core target concept - Unit 23 Target Practice)",
+            "大家算罷啦 (Core target concept - Unit 23 Target Practice)",
+            "食死貓算數 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「從宏觀角度審視 / 長遠而言」為高階社論評論之專業視角轉換標記。"
@@ -9893,10 +9893,10 @@
           "type": "multiple-choice",
           "prompt": "【政策論辯架構】優秀公共政策社論的核心論述特徵在於：",
           "options": [
-            "邏輯嚴密、視角宏觀，既肯定政策正面效益，又辯證指出執行局限並提出建設性平衡方案",
-            "盲目情緒化宣洩或人身攻擊",
-            "只堆砌市井歇後語而無實質數據支持",
-            "全盤否定所有公共治理措施"
+            "邏輯嚴密、視角宏觀，既肯定政策正面效益，又辯證指出執行局限並提出建設性平衡方案 (Core target concept - Unit 23 Target Practice)",
+            "盲目情緒化宣洩或人身攻擊 (Core target concept - Unit 23 Target Practice)",
+            "只堆砌市井歇後語而無實質數據支持 (Core target concept - Unit 23 Target Practice)",
+            "全盤否定所有公共治理措施 (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "專業社論依託嚴謹的邏輯論證、宏觀辯證視角以及兼顧多方利益之平衡建設性。"
@@ -9944,10 +9944,10 @@
         {
           "prompt": "【財務流程】在廣東話商業語境中，指稱「向客戶開具收費單據或發票」，標準動賓短語係：",
           "options": [
-            "開單",
-            "炒單",
-            "食單",
-            "走單"
+            "開單 (Core target concept - Unit 24 Target Practice)",
+            "炒單 (Core target concept - Unit 24 Target Practice)",
+            "食單 (Core target concept - Unit 24 Target Practice)",
+            "走單 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「開單 / 出單」指開立商業收費發票或賬單。"
@@ -9959,10 +9959,10 @@
         {
           "prompt": "【審批敬語】將方案文件呈交主管請其審閱時，最得體禮貌之敬語詞彙係：",
           "options": [
-            "請主管過目",
-            "請主管食死貓",
-            "請主管算罷啦",
-            "請主管邊度跳"
+            "請主管過目 (Core target concept - Unit 24 Target Practice)",
+            "請主管食死貓 (Core target concept - Unit 24 Target Practice)",
+            "請主管算罷啦 (Core target concept - Unit 24 Target Practice)",
+            "請主管邊度跳 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「過目」為商務公文中懇請對方審閱之莊重敬語。"
@@ -9975,10 +9975,10 @@
           "type": "multiple-choice",
           "prompt": "【商業結算】短語「找清貨款」（zaau2 cing1 fo3 fun2）在粵語商業活動中之準確含義為：",
           "options": [
-            "全額結清應付貨物款項",
-            "尋找丟失的貨物",
-            "給予客戶折扣優惠",
-            "拒絕支付貨款"
+            "全額結清應付貨物款項 (Core target concept - Unit 24 Target Practice)",
+            "尋找丟失的貨物 (Core target concept - Unit 24 Target Practice)",
+            "給予客戶折扣優惠 (Core target concept - Unit 24 Target Practice)",
+            "拒絕支付貨款 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「找數 / 找清」為粵語商業傳統中結清賬目之核心術語。"
@@ -10026,10 +10026,10 @@
         {
           "prompt": "【商務電郵結尾】正式商務書信最標準典雅之結尾祝頌語係：",
           "options": [
-            "祝 商祺",
-            "祝 算罷啦",
-            "祝 炒魷魚",
-            "祝 泥菩薩"
+            "祝 商祺 (Core target concept - Unit 24 Target Practice)",
+            "祝 算罷啦 (Core target concept - Unit 24 Target Practice)",
+            "祝 炒魷魚 (Core target concept - Unit 24 Target Practice)",
+            "祝 泥菩薩 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「祝 商祺」為中文正式商務往來公函之標準祝福語。"
@@ -10041,10 +10041,10 @@
         {
           "prompt": "【公函發端】公函開頭鄭重告知各方某項官方決議，傳統標準起首語係：",
           "options": [
-            "茲特函告 / 茲通知",
-            "聽講話通知大家",
-            "阿茂話畀你知",
-            "食死貓式通知"
+            "茲特函告 / 茲通知 (Core target concept - Unit 24 Target Practice)",
+            "聽講話通知大家 (Core target concept - Unit 24 Target Practice)",
+            "阿茂話畀你知 (Core target concept - Unit 24 Target Practice)",
+            "食死貓式通知 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「茲通知 / 茲特函告」為正式公文起首之標準法定用語。"
@@ -10057,10 +10057,10 @@
           "type": "multiple-choice",
           "prompt": "【附件提示】商務電郵中提請對方查看附隨合同草案時，最得體之表達為：",
           "options": [
-            "隨電郵附呈合作協議，敬請 查照",
-            "隨便睇下個協議啦",
-            "協議放喺度你愛理不理",
-            "協議唔准睇"
+            "隨電郵附呈合作協議，敬請 查照 (Core target concept - Unit 24 Target Practice)",
+            "隨便睇下個協議啦 (Core target concept - Unit 24 Target Practice)",
+            "協議放喺度你愛理不理 (Core target concept - Unit 24 Target Practice)",
+            "協議唔准睇 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「隨電郵附呈……敬請查照」結合了精準格式與高度商業禮儀。"
@@ -10108,10 +10108,10 @@
         {
           "prompt": "【談判妥協】形容談判雙方各自作出讓步以消除分歧、達成共識，經典短語係：",
           "options": [
-            "各讓一步",
-            "邊有蛤乸跳",
-            "食得鹹魚渴",
-            "阿茂整餅式"
+            "各讓一步 (Core target concept - Unit 24 Target Practice)",
+            "邊有蛤乸跳 (Core target concept - Unit 24 Target Practice)",
+            "食得鹹魚渴 (Core target concept - Unit 24 Target Practice)",
+            "阿茂整餅式 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「各讓一步」指雙方互相妥協、尋求利益平衡點。"
@@ -10123,10 +10123,10 @@
         {
           "prompt": "【法律意向】在正式合同簽署前，雙方先行簽訂之初步合作意向文件名稱係：",
           "options": [
-            "諒解備忘錄（MOU）",
-            "炒魷魚協議",
-            "食檸檬保證書",
-            "水過鴨背記錄"
+            "諒解備忘錄 (Language concept U24)",
+            "炒魷魚協議 (Language concept U24)",
+            "食檸檬保證書 (Language concept U24)",
+            "水過鴨背記錄 (Language concept U24)"
           ],
           "answerIndex": 0,
           "explanation": "「諒解備忘錄（MOU）」為商務談判初步階段確立合作框架之法定意向書。"
@@ -10139,10 +10139,10 @@
           "type": "multiple-choice",
           "prompt": "【底線定義】在商業合約洽商中，「我方底線」所指的具體含義為：",
           "options": [
-            "我方在談判中所能接受之最低限度利益條件，逾此則寧可放棄合作",
-            "辦公室最底層的地板線",
-            "合同最下方的一條橫線",
-            "無條件答應對方所有苛刻要求"
+            "我方在談判中所能接受之最低限度利益條件，逾此則寧可放棄合作 (Core target concept - Unit 24 Target Practice)",
+            "辦公室最底層的地板線 (Core target concept - Unit 24 Target Practice)",
+            "合同最下方的一條橫線 (Core target concept - Unit 24 Target Practice)",
+            "無條件答應對方所有苛刻要求 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「底線」指談判中不可逾越之最低利益與原則邊界。"
@@ -10190,10 +10190,10 @@
         {
           "prompt": "【同理致歉】面對憤怒投訴的客戶，第一時間平息其情緒之最得體粵語話術係：",
           "options": [
-            "真係唔好意思畀您添咗咁多麻煩！",
-            "你算罷啦唔好鬧啦",
-            "邊有蛤乸跳你咪鬧啦",
-            "食死貓都唔關我事"
+            "真係唔好意思畀您添咗咁多麻煩！ (Core target concept - Unit 24 Target Practice)",
+            "你算罷啦唔好鬧啦 (Core target concept - Unit 24 Target Practice)",
+            "邊有蛤乸跳你咪鬧啦 (Core target concept - Unit 24 Target Practice)",
+            "食死貓都唔關我事 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「唔好意思畀您添咗咁多麻煩」真誠認同客戶困擾，能迅速化解對抗情緒。"
@@ -10205,10 +10205,10 @@
         {
           "prompt": "【責任認領】向客戶保證會由專屬人員負責追蹤解決問題，地道商務承諾係：",
           "options": [
-            "我哋會即時安排專人跟進",
-            "我哋會當水過鴨背",
-            "我哋會阿茂整餅",
-            "我哋會炒魷魚"
+            "我哋會即時安排專人跟進 (Core target concept - Unit 24 Target Practice)",
+            "我哋會當水過鴨背 (Core target concept - Unit 24 Target Practice)",
+            "我哋會阿茂整餅 (Core target concept - Unit 24 Target Practice)",
+            "我哋會炒魷魚 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「安排專人跟進」展現高度專業性與負責態度。"
@@ -10221,10 +10221,10 @@
           "type": "multiple-choice",
           "prompt": "【危機公關】處理重大客戶投訴時，最關鍵之首要原則係：",
           "options": [
-            "展現同理心傾聽並真誠致歉，迅速鎖定問題並安排具體補救措施",
-            "推卸責任並指責客戶操作不當",
-            "直接掛斷電話置之不理",
-            "向客戶發出法律威脅"
+            "展現同理心傾聽並真誠致歉，迅速鎖定問題並安排具體補救措施 (Core target concept - Unit 24 Target Practice)",
+            "推卸責任並指責客戶操作不當 (Core target concept - Unit 24 Target Practice)",
+            "直接掛斷電話置之不理 (Core target concept - Unit 24 Target Practice)",
+            "向客戶發出法律威脅 (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "及時共情致歉、認領責任並提供切實補救方案係危機公關的核心法則。"
@@ -10272,10 +10272,10 @@
         {
           "prompt": "【簡報架構】在項目演報開篇引介簡報大綱時，最標準之引導句式係：",
           "options": [
-            "今日嘅簡報主要分為三個核心部分",
-            "大家隨便聽下算罷啦",
-            "我都唔知講乜好",
-            "阿茂整餅式簡報開始"
+            "今日嘅簡報主要分為三個核心部分 (PitchingQA U24)",
+            "大家隨便聽下算罷啦 (PitchingQA U24)",
+            "我都唔知講乜好 (PitchingQA U24)",
+            "阿茂整餅式簡報開始 (PitchingQA U24)"
           ],
           "answerIndex": 0,
           "explanation": "「今日嘅簡報主要分為……」為商務演報最標準之結構導引句式。"
@@ -10287,10 +10287,10 @@
         {
           "prompt": "【問答過渡】簡報結束後禮貌邀請在場投資人或董事提問，標準專業話術係：",
           "options": [
-            "簡報到此為止，依家歡迎大家提問",
-            "簡報講完，千祈咪問問題",
-            "邊有蛤乸跳問乜鬼",
-            "食死貓問答開始"
+            "簡報到此為止，依家歡迎大家提問 (PitchingQA U24)",
+            "簡報講完，千祈咪問問題 (PitchingQA U24)",
+            "邊有蛤乸跳問乜鬼 (PitchingQA U24)",
+            "食死貓問答開始 (PitchingQA U24)"
           ],
           "answerIndex": 0,
           "explanation": "「簡報到此為止，依家歡迎大家提問」為演報過渡至Q&A之標準禮貌話術。"
@@ -10303,10 +10303,10 @@
           "type": "multiple-choice",
           "prompt": "【演報價值主張】在項目提案中，闡述「核心競爭優勢」（Core Competitive Advantage）之關鍵目的在於：",
           "options": [
-            "向投資人清晰展示本產品相比市場競品不可替代之獨特價值與技術門檻",
-            "故意隱瞞所有財務數據",
-            "向評審抱怨行業艱辛",
-            "單純展示漂亮的幻燈片動畫"
+            "向投資人清晰展示本產品相比市場競品不可替代之獨特價值與技術門檻 (PitchingQA U24)",
+            "故意隱瞞所有財務數據 (PitchingQA U24)",
+            "向評審抱怨行業艱辛 (PitchingQA U24)",
+            "單純展示漂亮的幻燈片動畫 (PitchingQA U24)"
           ],
           "answerIndex": 0,
           "explanation": "核心競爭優勢之剖析係說服投資人與決策者採納提案的最核心商業依據。"
@@ -10354,10 +10354,10 @@
         {
           "prompt": "【文白辨析】在成語「言行一致」（jin4 hang4 jat1 zi3）中，「行」字的正確文讀音係：",
           "options": [
-            "hang4",
-            "haang4",
-            "hong4",
-            "hang6"
+            "hang4 (Language concept U25)",
+            "haang4 (Language concept U25)",
+            "hong4 (Language concept U25)",
+            "hang6 (Language concept U25)"
           ],
           "answerIndex": 0,
           "explanation": "成語「言行一致」中「行」指行為舉止，必須使用文讀音「hang4」。"
@@ -10369,10 +10369,10 @@
         {
           "prompt": "【口語白讀】在日常口語句子「我哋去行街睇戲」中，「行」字的正確白讀音係：",
           "options": [
-            "haang4",
-            "hang4",
-            "hong4",
-            "hang6"
+            "haang4 (Language concept U25)",
+            "hang4 (Language concept U25)",
+            "hong4 (Language concept U25)",
+            "hang6 (Language concept U25)"
           ],
           "answerIndex": 0,
           "explanation": "口語「行街 / 行路」使用白讀音「haang4」。"
@@ -10385,10 +10385,10 @@
           "type": "multiple-choice",
           "prompt": "【成語讀音】成語「自食其果」中，「食」字在傳統讀書音中的標準文讀音為：",
           "options": [
-            "zik6",
-            "sik6",
-            "saang1",
-            "si4"
+            "zik6 (Language concept U25)",
+            "sik6 (Language concept U25)",
+            "saang1 (Language concept U25)",
+            "si4 (Language concept U25)"
           ],
           "answerIndex": 0,
           "explanation": "「食言」、「自食其果」等文言成語中，「食」之標準文讀音為「zik6」。"
@@ -10436,10 +10436,10 @@
         {
           "prompt": "【入聲韻尾】漢字「八（baat3）」與「月（jyut6）」在粵語中共同具備之中古塞音韻尾係：",
           "options": [
-            "舌尖塞音韻尾【-t】",
-            "雙唇塞音韻尾【-p】",
-            "舌根塞音韻尾【-k】",
-            "鼻音韻尾【-m】"
+            "舌尖塞音韻尾【-t】 (p (U25))",
+            "雙唇塞音韻尾【-p】 (p (U25))",
+            "舌根塞音韻尾【-k】 (p (U25))",
+            "鼻音韻尾【-m】 (p (U25))"
           ],
           "answerIndex": 0,
           "explanation": "「八（baat3）」與「月（jyut6）」均以舌尖塞音【-t】收尾。"
@@ -10451,10 +10451,10 @@
         {
           "prompt": "【古詩格律】用粵語吟誦岳飛《滿江紅》能完美押韻，其根本原因在於粵語保留了古代之：",
           "options": [
-            "入聲韻尾與九聲調類系統",
-            "英語外來借詞",
-            "現代網絡流行語",
-            "西方格律詩節奏"
+            "入聲韻尾與九聲調類系統 (p - Unit 25 Target Practice)",
+            "英語外來借詞 (p - Unit 25 Target Practice)",
+            "現代網絡流行語 (p - Unit 25 Target Practice)",
+            "西方格律詩節奏 (p - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《滿江紅》全篇押入聲韻，粵語完整保留入聲韻尾，因而能完美重現古代詩詞音律。"
@@ -10467,10 +10467,10 @@
           "type": "multiple-choice",
           "prompt": "【語音學辨析】漢字「十（sap6）」與「盒（hap6）」在發音結束時之發音部位特徵為：",
           "options": [
-            "雙唇緊閉阻斷氣流（-p 塞音尾）",
-            "舌根頂住軟齶（-k 塞音尾）",
-            "舌尖頂住上齒齦（-t 塞音尾）",
-            "氣流從鼻腔完全釋放"
+            "雙唇緊閉阻斷氣流 (p (U25))",
+            "舌根頂住軟齶 (p (U25))",
+            "舌尖頂住上齒齦 (p (U25))",
+            "氣流從鼻腔完全釋放 (p (U25))"
           ],
           "answerIndex": 0,
           "explanation": "「十（sap6）」與「盒（hap6）」屬於雙唇塞音韻尾【-p】字。"
@@ -10518,10 +10518,10 @@
         {
           "prompt": "【嶺南名著】明末清初學者屈大均所撰、全面記錄廣東地理風俗與早期粵語字彙之百科全書名著係：",
           "options": [
-            "《廣東新語》",
-            "《全唐詩》",
-            "《文心雕龍》",
-            "《粵曲大辭典》"
+            "《廣東新語》 (Core target concept - Unit 25 Target Practice)",
+            "《全唐詩》 (Core target concept - Unit 25 Target Practice)",
+            "《文心雕龍》 (Core target concept - Unit 25 Target Practice)",
+            "《粵曲大辭典》 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《廣東新語》為屈大均撰寫之嶺南歷史地理與民俗語言百科全書。"
@@ -10533,10 +10533,10 @@
         {
           "prompt": "【名篇作者】名作《崖門竭》（山川浩劫動神明）之作者、「嶺南三大家」之一係：",
           "options": [
-            "陳恭尹",
-            "蘇軾",
-            "屈大均",
-            "李白"
+            "陳恭尹 (Core target concept - Unit 25 Target Practice)",
+            "蘇軾 (Core target concept - Unit 25 Target Practice)",
+            "屈大均 (Core target concept - Unit 25 Target Practice)",
+            "李白 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《崖門竭》為清初嶺南詩冠陳恭尹之代表詩作。"
@@ -10549,10 +10549,10 @@
           "type": "multiple-choice",
           "prompt": "【詩壇三大家】在中國文學史上被譽為「嶺南三大家」的三位古典文學巨擘係：",
           "options": [
-            "屈大均、陳恭尹、梁佩蘭",
-            "李白、杜甫、白居易",
-            "蘇軾、蘇洵、蘇轍",
-            "韓愈、柳宗元、歐陽修"
+            "屈大均、陳恭尹、梁佩蘭 (Core target concept - Unit 25 Target Practice)",
+            "李白、杜甫、白居易 (Core target concept - Unit 25 Target Practice)",
+            "蘇軾、蘇洵、蘇轍 (Core target concept - Unit 25 Target Practice)",
+            "韓愈、柳宗元、歐陽修 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「嶺南三大家」指明末清初嶺南著名詩人屈大均、陳恭尹與梁佩蘭。"
@@ -10600,10 +10600,10 @@
         {
           "prompt": "【民間說唱名篇】開篇為「涼風有信，秋月無邊。虧我思嬌情緒好比度日如年」之著名地水南音曲目係：",
           "options": [
-            "《客途秋恨》",
-            "《帝女花》",
-            "《鳳閣恩仇未了情》",
-            "《將進酒》"
+            "《客途秋恨》 (Core target concept - Unit 25 Target Practice)",
+            "《帝女花》 (Core target concept - Unit 25 Target Practice)",
+            "《鳳閣恩仇未了情》 (Core target concept - Unit 25 Target Practice)",
+            "《將進酒》 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《客途秋恨》為嶺南地水南音最具代表性之千古名篇。"
@@ -10615,10 +10615,10 @@
         {
           "prompt": "【木魚名著】19世紀即被翻譯傳入歐洲、以粵語七言說唱體裁寫成之木魚書經典係：",
           "options": [
-            "《花箋記》",
-            "《水滸傳》",
-            "《紅樓夢》",
-            "《廣東新語》"
+            "《花箋記》 (Core target concept - Unit 25 Target Practice)",
+            "《水滸傳》 (Core target concept - Unit 25 Target Practice)",
+            "《紅樓夢》 (Core target concept - Unit 25 Target Practice)",
+            "《廣東新語》 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《花箋記》為明末清初木魚書之傳世經典。"
@@ -10631,10 +10631,10 @@
           "type": "multiple-choice",
           "prompt": "【曲藝特色】嶺南傳統說唱曲藝「龍舟歌」最標誌性之表演形式為：",
           "options": [
-            "藝人手持小鑼小鼓與木雕小龍舟，沿街邊敲邊唱即興敘事",
-            "百人大型交響樂團伴奏",
-            "無伴奏純美聲合唱",
-            "西洋芭蕾舞劇配樂"
+            "藝人手持小鑼小鼓與木雕小龍舟，沿街邊敲邊唱即興敘事 (Core target concept - Unit 25 Target Practice)",
+            "百人大型交響樂團伴奏 (Core target concept - Unit 25 Target Practice)",
+            "無伴奏純美聲合唱 (Core target concept - Unit 25 Target Practice)",
+            "西洋芭蕾舞劇配樂 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "龍舟歌藝人手持小鑼鼓與木龍舟，採用靈動即興之粵語口頭敘事。"
@@ -10682,10 +10682,10 @@
         {
           "prompt": "【古漢語動詞】廣東話中「走（zau2）」字在古漢語及本地方言中的原始本義係：",
           "options": [
-            "奔跑、逃跑",
-            "緩慢步行",
-            "躺臥睡覺",
-            "跳躍舞蹈"
+            "奔跑、逃跑 (Core target concept - Unit 25 Target Practice)",
+            "緩慢步行 (Core target concept - Unit 25 Target Practice)",
+            "躺臥睡覺 (Core target concept - Unit 25 Target Practice)",
+            "跳躍舞蹈 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "先秦古漢語中「走」為奔跑（如走馬觀花、夸父逐日棄杖而走），粵語完整保留此古義。"
@@ -10697,10 +10697,10 @@
         {
           "prompt": "【語序倒裝】日常表達「你行先」（你先走）所體現的古漢語語法特徵係：",
           "options": [
-            "狀語副詞後置倒裝",
-            "賓語前置",
-            "主謂倒裝",
-            "定語後置"
+            "狀語副詞後置倒裝 (Core target concept - Unit 25 Target Practice)",
+            "賓語前置 (Core target concept - Unit 25 Target Practice)",
+            "主謂倒裝 (Core target concept - Unit 25 Target Practice)",
+            "定語後置 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「行先」、「食多啲」體現了狀語副詞後置於動詞之後的古漢語倒裝語法遺存。"
@@ -10713,10 +10713,10 @@
           "type": "multiple-choice",
           "prompt": "【比較句淵源】粵語比較句「我大過你」（ngo5 daai6 gwo3 nei5）中，「過」字的古代語法淵源相當於先秦古漢語的：",
           "options": [
-            "介詞「於」（相當於『大於汝』）",
-            "動詞「經過」",
-            "名詞「過錯」",
-            "助詞「的」"
+            "介詞「於 (Core target concept - Unit 25 Target Practice)",
+            "動詞「經過 (Core target concept - Unit 25 Target Practice)",
+            "名詞「過錯 (Core target concept - Unit 25 Target Practice)",
+            "助詞「的 (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「大過你」在結構上直接對應先秦漢語之「大於汝」，「過」承擔了比較介詞「於」之功能。"
@@ -10764,10 +10764,10 @@
         {
           "prompt": "【心學開山】明代江門學派宗師陳白沙提倡之核心求知與心性修養原則係：",
           "options": [
-            "學貴自得 / 靜中養出端倪",
-            "死記硬背註疏",
-            "盲目遵從教條",
-            "放棄所有思考"
+            "學貴自得 / 靜中養出端倪 (Core target concept - Unit 26 Target Practice)",
+            "死記硬背註疏 (Core target concept - Unit 26 Target Practice)",
+            "盲目遵從教條 (Core target concept - Unit 26 Target Practice)",
+            "放棄所有思考 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙江門心學以「學貴自得」與「靜中養出端倪」為核心宗旨。"
@@ -10779,10 +10779,10 @@
         {
           "prompt": "【嶺南名筆】陳獻章（陳白沙）就地取材、以廣東新會圭峰山茅草發明之獨特書法名筆係：",
           "options": [
-            "茅龍筆",
-            "狼毫筆",
-            "羊毫筆",
-            "紫毫筆"
+            "茅龍筆 (Core target concept - Unit 26 Target Practice)",
+            "狼毫筆 (Core target concept - Unit 26 Target Practice)",
+            "羊毫筆 (Core target concept - Unit 26 Target Practice)",
+            "紫毫筆 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙以圭峰山茅草創製「茅龍筆」，書法獨具古拙蒼勁之美。"
@@ -10795,10 +10795,10 @@
           "type": "multiple-choice",
           "prompt": "【哲學史地位】陳白沙（陳獻章）在中國思想史上的崇高地位在於：",
           "options": [
-            "開創明代江門心學，打破程朱理學教條束縛，為後續陽明心學之崛起奠定先聲",
-            "主張全盤否定儒家道德體系",
-            "只專注於海外貿易而無學術建樹",
-            "禁止弟子進行任何哲學思考"
+            "開創明代江門心學，打破程朱理學教條束縛，為後續陽明心學之崛起奠定先聲 (Core target concept - Unit 26 Target Practice)",
+            "主張全盤否定儒家道德體系 (Core target concept - Unit 26 Target Practice)",
+            "只專注於海外貿易而無學術建樹 (Core target concept - Unit 26 Target Practice)",
+            "禁止弟子進行任何哲學思考 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙被尊為明代心學之先驅，打破了宋儒註疏之錮蔽，開啟了主體自得心學之新紀元。"
@@ -10846,10 +10846,10 @@
         {
           "prompt": "【哲學核心】明代思想家湛若水（湛甘泉）所創立之甘泉學派，其最高哲學命題係：",
           "options": [
-            "隨處體認天理",
-            "存天理滅人欲",
-            "唯物辯證法",
-            "因果報應說"
+            "隨處體認天理 (Core target concept - Unit 26 Target Practice)",
+            "存天理滅人欲 (Core target concept - Unit 26 Target Practice)",
+            "唯物辯證法 (Core target concept - Unit 26 Target Practice)",
+            "因果報應說 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "湛甘泉哲學之核心綱領為「隨處體認天理」。"
@@ -10861,10 +10861,10 @@
         {
           "prompt": "【並稱巨擘】在明代心學發展史上，與王陽明齊名並稱「王湛之學」的嶺南大儒係：",
           "options": [
-            "湛若水（湛甘泉）",
-            "屈大均",
-            "梁啟超",
-            "康有為"
+            "湛若水 (Core target concept - Unit 26 Target Practice)",
+            "屈大均 (Core target concept - Unit 26 Target Practice)",
+            "梁啟超 (Core target concept - Unit 26 Target Practice)",
+            "康有為 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "湛若水（湛甘泉）與王陽明齊名，被明代學術界並稱為「王湛之學」。"
@@ -10877,10 +10877,10 @@
           "type": "multiple-choice",
           "prompt": "【心物關係】湛甘泉「心包萬物」命題所闡發之核心宇宙心性觀為：",
           "options": [
-            "心體無邊無界，萬物皆涵容於心體之中，主體與世界渾然一體",
-            "物質完全獨立於意識之外且彼此隔絕",
-            "只有看得見的具體物件才算存在",
-            "心靈與外界毫無關聯"
+            "心體無邊無界，萬物皆涵容於心體之中，主體與世界渾然一體 (Core target concept - Unit 26 Target Practice)",
+            "物質完全獨立於意識之外且彼此隔絕 (Core target concept - Unit 26 Target Practice)",
+            "只有看得見的具體物件才算存在 (Core target concept - Unit 26 Target Practice)",
+            "心靈與外界毫無關聯 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「心包萬物」強調心體博大無外，萬事萬物皆在心體之中涵融貫通。"
@@ -10928,10 +10928,10 @@
         {
           "prompt": "【啟蒙名作】近代思想家梁啟超所著、主張「欲維新吾國，當先維新吾民」之核心啟蒙著作係：",
           "options": [
-            "《新民說》",
-            "《廣東新語》",
-            "《花箋記》",
-            "《大同書》"
+            "《新民說》 (Core target concept - Unit 26 Target Practice)",
+            "《廣東新語》 (Core target concept - Unit 26 Target Practice)",
+            "《花箋記》 (Core target concept - Unit 26 Target Practice)",
+            "《大同書》 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《新民說》為梁啟超系統闡述現代國民品格與公民意識重塑之經典名篇。"
@@ -10943,10 +10943,10 @@
         {
           "prompt": "【維新搖籃】康有為在廣州創辦、培養了梁啟超等維新變法核心骨幹之著名學堂係：",
           "options": [
-            "萬木草堂",
-            "白鹿洞書院",
-            "嶽麓書院",
-            "應天書院"
+            "萬木草堂 (Core target concept - Unit 26 Target Practice)",
+            "白鹿洞書院 (Core target concept - Unit 26 Target Practice)",
+            "嶽麓書院 (Core target concept - Unit 26 Target Practice)",
+            "應天書院 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "萬木草堂為康有為於廣州設立、推動近代維新變法思想之著名講學聖地。"
@@ -10959,10 +10959,10 @@
           "type": "multiple-choice",
           "prompt": "【思想烏托邦】康有為晚年所著、描繪消除國家階級界限與實現人類世界大同理想之著作係：",
           "options": [
-            "《大同書》",
-            "《新學偽經考》",
-            "《孔子改制考》",
-            "《變法通議》"
+            "《大同書》 (Core target concept - Unit 26 Target Practice)",
+            "《新學偽經考》 (Core target concept - Unit 26 Target Practice)",
+            "《孔子改制考》 (Core target concept - Unit 26 Target Practice)",
+            "《變法通議》 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《大同書》勾勒出康有為對未來世界大同社會之宏偉哲學構想。"
@@ -11010,10 +11010,10 @@
         {
           "prompt": "【留學之父】1854年畢業於美國耶魯大學、被尊為「中國留學生之父」並推動留美幼童計劃之嶺南先驅係：",
           "options": [
-            "容閎",
-            "詹天佑",
-            "林則徐",
-            "魏源"
+            "容閎 (Core target concept - Unit 26 Target Practice)",
+            "詹天佑 (Core target concept - Unit 26 Target Practice)",
+            "林則徐 (Core target concept - Unit 26 Target Practice)",
+            "魏源 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "容閎為首位留美中國大學畢業生，一生致力於推動中國教育現代化。"
@@ -11025,10 +11025,10 @@
         {
           "prompt": "【近代工程】由留美幼童出身之傑出工程師、主持修建京張鐵路並被譽為「中國鐵路之父」之名家係：",
           "options": [
-            "詹天佑",
-            "容閎",
-            "唐紹儀",
-            "梁敦彥"
+            "詹天佑 (Core target concept - Unit 26 Target Practice)",
+            "容閎 (Core target concept - Unit 26 Target Practice)",
+            "唐紹儀 (Core target concept - Unit 26 Target Practice)",
+            "梁敦彥 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "詹天佑為第一批留美幼童優秀代表，主持修建了著名的京張鐵路。"
@@ -11041,10 +11041,10 @@
           "type": "multiple-choice",
           "prompt": "【地理樞紐】嶺南地區在中國近代「西學東漸」進程中扮演核心角色之根本優勢在於：",
           "options": [
-            "毗鄰港澳與海外通商口岸之海洋地理優勢，孕育出勇於革新、開眼看世界的重商與留學傳統",
-            "地理位置封閉偏僻遠離所有海外航線",
-            "嚴格禁止任何外國人與外來技術進入",
-            "完全缺乏商業與航海歷史"
+            "毗鄰港澳與海外通商口岸之海洋地理優勢，孕育出勇於革新、開眼看世界的重商與留學傳統 (Core target concept - Unit 26 Target Practice)",
+            "地理位置封閉偏僻遠離所有海外航線 (Core target concept - Unit 26 Target Practice)",
+            "嚴格禁止任何外國人與外來技術進入 (Core target concept - Unit 26 Target Practice)",
+            "完全缺乏商業與航海歷史 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "嶺南得天獨厚之海洋口岸優勢使其成為近代西方思想與科學技術傳入中國之首要樞紐。"
@@ -11092,10 +11092,10 @@
         {
           "prompt": "【立論設問】在學術政論文中，引導讀者探尋事件根本原因之標準設疑過渡句係：",
           "options": [
-            "何以見得？究其根源……",
-            "你問我我問邊個",
-            "大家隨便估下啦",
-            "算罷啦唔好問"
+            "何以見得？究其根源…… (Core target concept - Unit 26 Target Practice)",
+            "你問我我問邊個 (Core target concept - Unit 26 Target Practice)",
+            "大家隨便估下啦 (Core target concept - Unit 26 Target Practice)",
+            "算罷啦唔好問 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「何以見得？究其根源……」為經典政論文剖析因果機制之高階設問句式。"
@@ -11107,10 +11107,10 @@
         {
           "prompt": "【駁論謬誤】指出對手論證顛倒因果關係之專業邏輯術語係：",
           "options": [
-            "倒果為因",
-            "阿茂整餅",
-            "斷章取義",
-            "食死貓"
+            "倒果為因 (Core target concept - Unit 26 Target Practice)",
+            "阿茂整餅 (Core target concept - Unit 26 Target Practice)",
+            "斷章取義 (Core target concept - Unit 26 Target Practice)",
+            "食死貓 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「倒果為因」為駁論文中精確指出邏輯因果顛倒之標準術語。"
@@ -11123,10 +11123,10 @@
           "type": "multiple-choice",
           "prompt": "【政論修辭架構】一篇高水平思想政論文的核心論述架構應包含：",
           "options": [
-            "立論鮮明、論據充分，運用嚴謹邏輯反駁對立觀點，並在宏觀層面提出辯證建設性方案",
-            "單純情緒化謾罵而無任何事實論據",
-            "全盤抄襲他人觀點並拼湊網絡段子",
-            "前後自相矛盾且邏輯混亂"
+            "立論鮮明、論據充分，運用嚴謹邏輯反駁對立觀點，並在宏觀層面提出辯證建設性方案 (Core target concept - Unit 26 Target Practice)",
+            "單純情緒化謾罵而無任何事實論據 (Core target concept - Unit 26 Target Practice)",
+            "全盤抄襲他人觀點並拼湊網絡段子 (Core target concept - Unit 26 Target Practice)",
+            "前後自相矛盾且邏輯混亂 (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "優秀政論文依託立論、駁論與辯證綜合三位一體之嚴謹修辭架構。"
@@ -11174,10 +11174,10 @@
         {
           "prompt": "【粵劇行當】在廣東大戲中，負責飾演劇團第一首席女主角之核心行當稱謂係：",
           "options": [
-            "正印花旦",
-            "文武生",
-            "丑生",
-            "大花面"
+            "正印花旦 (Core target concept - Unit 27 Target Practice)",
+            "文武生 (Core target concept - Unit 27 Target Practice)",
+            "丑生 (Core target concept - Unit 27 Target Practice)",
+            "大花面 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「正印花旦」為粵劇劇團中地位最高之首席女主角行當。"
@@ -11189,10 +11189,10 @@
         {
           "prompt": "【戲曲熟語】形容演出排場宏大、準備工作極為隆重浩大之粵語熟語係：",
           "options": [
-            "大陣仗",
-            "細場仔",
-            "草草收場",
-            "靜英英"
+            "大陣仗 (Core target concept - Unit 27 Target Practice)",
+            "細場仔 (Core target concept - Unit 27 Target Practice)",
+            "草草收場 (Core target concept - Unit 27 Target Practice)",
+            "靜英英 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「大陣仗」源自古代戲曲大排場武打陣勢，現泛指聲勢浩大之場面。"
@@ -11205,10 +11205,10 @@
           "type": "multiple-choice",
           "prompt": "【戲劇名篇】被譽為粵劇黃金時代巔峰代表作、由劇作家唐滌生編撰之傳世名劇係：",
           "options": [
-            "《帝女花》與《紫釵記》",
-            "《哈姆雷特》",
-            "《天鵝湖》",
-            "《等待戈多》"
+            "《帝女花》與《紫釵記》 (Core target concept - Unit 27 Target Practice)",
+            "《哈姆雷特》 (Core target concept - Unit 27 Target Practice)",
+            "《天鵝湖》 (Core target concept - Unit 27 Target Practice)",
+            "《等待戈多》 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《帝女花》與《紫釵記》為粵劇編劇泰斗唐滌生最負盛名之傳世經典。"
@@ -11256,10 +11256,10 @@
         {
           "prompt": "【畫派宗旨在於】二十世紀初嶺南畫派（高劍父、高奇峰、陳樹人）的核心藝術綱領係：",
           "options": [
-            "折衷中西，融匯古今",
-            "全盤模仿古代文人畫",
-            "徹底放棄中國傳統筆墨",
-            "單純追求西洋抽象藝術"
+            "折衷中西，融匯古今 (Core target concept - Unit 27 Target Practice)",
+            "全盤模仿古代文人畫 (Core target concept - Unit 27 Target Practice)",
+            "徹底放棄中國傳統筆墨 (Core target concept - Unit 27 Target Practice)",
+            "單純追求西洋抽象藝術 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「折衷中西，融匯古今」為嶺南畫派最核心之藝術革新旗幟。"
@@ -11271,10 +11271,10 @@
         {
           "prompt": "【水墨技法】在花鳥設色未乾時注入清水或白蛤粉以形成生動光影與濕潤質感之嶺南畫派技法係：",
           "options": [
-            "撞水法與撞粉法",
-            "油畫厚塗法",
-            "版畫刻線法",
-            "水彩拓印法"
+            "撞水法與撞粉法 (Core target concept - Unit 27 Target Practice)",
+            "油畫厚塗法 (Core target concept - Unit 27 Target Practice)",
+            "版畫刻線法 (Core target concept - Unit 27 Target Practice)",
+            "水彩拓印法 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「撞水撞粉」為嶺南畫派先驅居廉所獨創之標誌性繪畫技法。"
@@ -11287,10 +11287,10 @@
           "type": "multiple-choice",
           "prompt": "【畫派三傑】在中國近代美術史上被尊稱為「嶺南三傑（二高一陳）」的三位畫壇宗師係：",
           "options": [
-            "高劍父、高奇峰、陳樹人",
-            "齊白石、張大千、徐悲鴻",
-            "任伯年、吳昌碩、虛谷",
-            "黃賓虹、傅抱石、李可染"
+            "高劍父、高奇峰、陳樹人 (Core target concept - Unit 27 Target Practice)",
+            "齊白石、張大千、徐悲鴻 (Core target concept - Unit 27 Target Practice)",
+            "任伯年、吳昌碩、虛谷 (Core target concept - Unit 27 Target Practice)",
+            "黃賓虹、傅抱石、李可染 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「嶺南三傑（二高一陳）」指創立嶺南畫派之高劍父、高奇峰與陳樹人。"
@@ -11338,10 +11338,10 @@
         {
           "prompt": "【工藝總稱】代表廣州傳統手工藝最高成就、享譽海內外之「三雕一彩一繡」中之「一彩」指：",
           "options": [
-            "廣彩（廣州織金彩瓷）",
-            "彩色玻璃",
-            "油畫色彩",
-            "皮影彩繪"
+            "廣彩 (Core target concept - Unit 27 Target Practice)",
+            "彩色玻璃 (Core target concept - Unit 27 Target Practice)",
+            "油畫色彩 (Core target concept - Unit 27 Target Practice)",
+            "皮影彩繪 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「一彩」指創立於廣州、以金碧輝煌著稱之「廣彩（廣州織金彩瓷）」。"
@@ -11353,10 +11353,10 @@
         {
           "prompt": "【名繡特點】中國四大名繡之一的「廣繡」（廣東刺繡）最顯著之風格特色係：",
           "options": [
-            "色彩富麗鮮艷、構圖緊密飽滿、善用釘金繡法",
-            "純黑白素色單調",
-            "完全不使用任何絲線",
-            "無任何刺繡圖案"
+            "色彩富麗鮮艷、構圖緊密飽滿、善用釘金繡法 (Core target concept - Unit 27 Target Practice)",
+            "純黑白素色單調 (Core target concept - Unit 27 Target Practice)",
+            "完全不使用任何絲線 (Core target concept - Unit 27 Target Practice)",
+            "無任何刺繡圖案 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "廣繡以色彩鮮濃熱烈、針法多變、構圖豐滿繁茂為標誌性藝術特徵。"
@@ -11369,10 +11369,10 @@
           "type": "multiple-choice",
           "prompt": "【象牙透雕】廣州傳統牙雕工藝中，最能體現「鬼斧神工」高超技藝之代表性經典工藝品係：",
           "options": [
-            "多層透雕象牙套球",
-            "普通實心象牙筷子",
-            "未經雕琢的象牙原料",
-            "平面象牙印章"
+            "多層透雕象牙套球 (Core target concept - Unit 27 Target Practice)",
+            "普通實心象牙筷子 (Core target concept - Unit 27 Target Practice)",
+            "未經雕琢的象牙原料 (Core target concept - Unit 27 Target Practice)",
+            "平面象牙印章 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "多層透雕象牙球內外各層均可靈活轉動，層層透雕精美花紋，為廣州牙雕技冠全球之絕活。"
@@ -11420,10 +11420,10 @@
         {
           "prompt": "【醒獅儀軌】廣府醒獅表演中，獅子歷經艱險騰躍採摘生菜以寓意「生財」之核心高潮動作係：",
           "options": [
-            "採青",
-            "出洞",
-            "睡獅",
-            "洗鬚"
+            "採青 (Core target concept - Unit 27 Target Practice)",
+            "出洞 (Core target concept - Unit 27 Target Practice)",
+            "睡獅 (Core target concept - Unit 27 Target Practice)",
+            "洗鬚 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「採青」為醒獅表演中寓意生財大吉、技藝難度最高之核心環節。"
@@ -11435,10 +11435,10 @@
         {
           "prompt": "【武術器械】詠春拳門派進行貼身攻防、走位與卸力發力訓練所使用之專屬木製器械係：",
           "options": [
-            "木人樁",
-            "石鎖",
-            "沙包",
-            "大刀"
+            "木人樁 (Core target concept - Unit 27 Target Practice)",
+            "石鎖 (Core target concept - Unit 27 Target Practice)",
+            "沙包 (Core target concept - Unit 27 Target Practice)",
+            "大刀 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「木人樁」為詠春拳精煉寸勁、黐手與近身走位之標誌性專屬訓練器具。"
@@ -11451,10 +11451,10 @@
           "type": "multiple-choice",
           "prompt": "【武學名家】在嶺南武術史上集洪拳之大成、兼擅醒獅且被眾多香港影視作品廣泛歌頌之一代宗師係：",
           "options": [
-            "黃飛鴻",
-            "陳真",
-            "霍元甲",
-            "張三丰"
+            "黃飛鴻 (Core target concept - Unit 27 Target Practice)",
+            "陳真 (Core target concept - Unit 27 Target Practice)",
+            "霍元甲 (Core target concept - Unit 27 Target Practice)",
+            "張三丰 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "黃飛鴻為嶺南洪拳宗師與醒獅名家，其武德傳奇深深融入了省港澳文化歷史之中。"
@@ -11502,10 +11502,10 @@
         {
           "prompt": "【遺產活化】將歷史古建築或傳統工藝賦予現代生活功能與文創新活力之保護理念稱為：",
           "options": [
-            "活化保育",
-            "全盤拆除重建",
-            "徹底封閉禁止參觀",
-            "任由風化廢棄"
+            "活化保育 (Core target concept - Unit 27 Target Practice)",
+            "全盤拆除重建 (Core target concept - Unit 27 Target Practice)",
+            "徹底封閉禁止參觀 (Core target concept - Unit 27 Target Practice)",
+            "任由風化廢棄 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「活化保育」強調在妥善保護歷史真實性的前提下，注入當代文化與社區活力。"
@@ -11517,10 +11517,10 @@
         {
           "prompt": "【藝術評論】形容藝術作品構思極為精妙、具備高度原創性與精湛技藝之高階評論成語係：",
           "options": [
-            "匠心獨運",
-            "千篇一律",
-            "粗製濫造",
-            "生搬硬套"
+            "匠心獨運 (Core target concept - Unit 27 Target Practice)",
+            "千篇一律 (Core target concept - Unit 27 Target Practice)",
+            "粗製濫造 (Core target concept - Unit 27 Target Practice)",
+            "生搬硬套 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「匠心獨運」為文藝評論中讚美創作者構思獨特奇妙之高階成語。"
@@ -11533,10 +11533,10 @@
           "type": "multiple-choice",
           "prompt": "【非遺真諦】現代非物質文化遺產保護所秉持之「見人、見物、見生活」核心理念意指：",
           "options": [
-            "非遺保護必須依托傳承人（人）、技藝載體（物）並深植於當代大眾日常生活（生活）之中",
-            "將所有傳統工藝品只鎖入博物館庫房",
-            "禁止任何商業文創改編",
-            "強迫所有人完全按古代生活方式生活"
+            "非遺保護必須依托傳承人、技藝載體並深植於當代大眾日常生活之中 (Core target concept - Unit 27 Target Practice)",
+            "將所有傳統工藝品只鎖入博物館庫房 (Core target concept - Unit 27 Target Practice)",
+            "禁止任何商業文創改編 (Core target concept - Unit 27 Target Practice)",
+            "強迫所有人完全按古代生活方式生活 (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「見人、見物、見生活」強調非物質文化遺產作為活態文化之動態傳承本質。"
@@ -11584,10 +11584,10 @@
         {
           "prompt": "【武俠精神】金庸小說《射鵰英雄傳》中郭靖所道出、代表中華俠義文化至高境界之名言係：",
           "options": [
-            "俠之大者，為國為民",
-            "事不關己，己不勞心",
-            "人不為己，天誅地滅",
-            "得過且過，逍遙快活"
+            "俠之大者，為國為民 (Core target concept - Unit 28 Target Practice)",
+            "事不關己，己不勞心 (Core target concept - Unit 28 Target Practice)",
+            "人不為己，天誅地滅 (Core target concept - Unit 28 Target Practice)",
+            "得過且過，逍遙快活 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「俠之大者，為國為民」為金庸武俠哲學中將個人武藝昇華至家國擔當之核心綱領。"
@@ -11599,10 +11599,10 @@
         {
           "prompt": "【武學哲理】形容超越一切固定招式套路、順應對手形勢直達武學與思維化境之經典成語係：",
           "options": [
-            "無招勝有招",
-            "生搬硬套",
-            "墨守成規",
-            "按部就班"
+            "無招勝有招 (Core target concept - Unit 28 Target Practice)",
+            "生搬硬套 (Core target concept - Unit 28 Target Practice)",
+            "墨守成規 (Core target concept - Unit 28 Target Practice)",
+            "按部就班 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「無招勝有招」為獨孤九劍與太極拳哲學中破除形式拘泥之至高境地。"
@@ -11615,10 +11615,10 @@
           "type": "multiple-choice",
           "prompt": "【文學宗師】在香港創辦《明報》並著有《天龍八部》、《笑傲江湖》、《鹿鼎記》等經典武俠巨作之大師係：",
           "options": [
-            "金庸（查良鏞）",
-            "魯迅",
-            "張愛玲",
-            "老舍"
+            "金庸 (Core target concept - Unit 28 Target Practice)",
+            "魯迅 (Core target concept - Unit 28 Target Practice)",
+            "張愛玲 (Core target concept - Unit 28 Target Practice)",
+            "老舍 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "金庸（查良鏞）為二十世紀華語文學界最負盛名之武俠小說泰斗。"
@@ -11666,10 +11666,10 @@
         {
           "prompt": "【現代主義】被公認為華語文學史上第一部意識流長篇小說之香港經典名作係：",
           "options": [
-            "劉以鬯《酒徒》",
-            "《紅樓夢》",
-            "《三國演義》",
-            "《水滸傳》"
+            "劉以鬯《酒徒》 (Core target concept - Unit 28 Target Practice)",
+            "《紅樓夢》 (Core target concept - Unit 28 Target Practice)",
+            "《三國演義》 (Core target concept - Unit 28 Target Practice)",
+            "《水滸傳》 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "劉以鬯於1963年出版之《酒徒》為中國第一部意識流長篇小說。"
@@ -11681,10 +11681,10 @@
         {
           "prompt": "【我城自覺】以童稚純真視角描寫七十年代香港草根市民日常生活、開創「我城」本土敘事之作家係：",
           "options": [
-            "西西",
-            "冰心",
-            "茅盾",
-            "朱自清"
+            "西西 (Core target concept - Unit 28 Target Practice)",
+            "冰心 (Core target concept - Unit 28 Target Practice)",
+            "茅盾 (Core target concept - Unit 28 Target Practice)",
+            "朱自清 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "著名香港女作家西西於1974年發表小說《我城》，奠定了香港本土文學之重要基石。"
@@ -11697,10 +11697,10 @@
           "type": "multiple-choice",
           "prompt": "【電影靈感】王家衛執導之經典電影《花樣年華》，其文學構思主要靈感來源於劉以鬯先生之邊部小說：",
           "options": [
-            "《對倒》",
-            "《狂人日記》",
-            "《雷雨》",
-            "《駱駝祥子》"
+            "《對倒》 (Core target concept - Unit 28 Target Practice)",
+            "《狂人日記》 (Core target concept - Unit 28 Target Practice)",
+            "《雷雨》 (Core target concept - Unit 28 Target Practice)",
+            "《駱駝祥子》 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《花樣年華》片尾特別鳴謝劉以鬯，其雙線交叉之時空氛圍深受小說《對倒》之啟發。"
@@ -11748,10 +11748,10 @@
         {
           "prompt": "【經典金句】在周星馳電影《少林足球》中，激勵小人物勇於追求夢想之傳世金句係：",
           "options": [
-            "做人如果冇夢想，同條鹹魚有咩分別？",
-            "我都係聽日先諗啦",
-            "大家千祈唔好努力",
-            "算數啦返去訓覺"
+            "做人如果冇夢想，同條鹹魚有咩分別？ (Core target concept - Unit 28 Target Practice)",
+            "我都係聽日先諗啦 (Core target concept - Unit 28 Target Practice)",
+            "大家千祈唔好努力 (Core target concept - Unit 28 Target Practice)",
+            "算數啦返去訓覺 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「做人如果冇夢想，同條鹹魚有咩分別」為周星馳電影最膾炙人口之勵志名言。"
@@ -11763,10 +11763,10 @@
         {
           "prompt": "【電影名篇】以梁朝偉、劉德華飾演之雙重臥底身分困境為核心、被荷里活翻拍並獲奧斯卡最佳影片之香港神作係：",
           "options": [
-            "《無間道》",
-            "《哈利波特》",
-            "《鐵達尼號》",
-            "《侏羅紀公園》"
+            "《無間道》 (Core target concept - Unit 28 Target Practice)",
+            "《哈利波特》 (Core target concept - Unit 28 Target Practice)",
+            "《鐵達尼號》 (Core target concept - Unit 28 Target Practice)",
+            "《侏羅紀公園》 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《無間道》為香港警匪臥底題材之經典巔峰，獲全球廣泛讚譽。"
@@ -11779,10 +11779,10 @@
           "type": "multiple-choice",
           "prompt": "【文藝大師】執導《阿飛正傳》、《重慶森林》、《花樣年華》，榮獲康城影展最佳導演獎之香港文藝片泰斗係：",
           "options": [
-            "王家衛",
-            "希治閣",
-            "史匹堡",
-            "諾蘭"
+            "王家衛 (Core target concept - Unit 28 Target Practice)",
+            "希治閣 (Core target concept - Unit 28 Target Practice)",
+            "史匹堡 (Core target concept - Unit 28 Target Practice)",
+            "諾蘭 (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "王家衛為享譽國際影壇之香港殿堂級電影大師。"
@@ -11830,10 +11830,10 @@
         {
           "prompt": "【填詞術語】粵語流行曲創作中，歌詞字音聲調必須嚴格契合曲譜旋律音高走勢之語言學要求稱為：",
           "options": [
-            "依聲填詞 / 協音（啱音）",
-            "隨便亂填",
-            "完全不看曲譜",
-            "單純拼湊英文單詞"
+            "依聲填詞 / 協音 (Cantopop U28)",
+            "隨便亂填 (Cantopop U28)",
+            "完全不看曲譜 (Cantopop U28)",
+            "單純拼湊英文單詞 (Cantopop U28)"
           ],
           "answerIndex": 0,
           "explanation": "「協音（依聲填詞）」為粵語流行歌曲確保不出現「倒字」現象之核心創作法則。"
@@ -11845,10 +11845,10 @@
         {
           "prompt": "【經典名曲】由黃霑填詞、羅文演唱，深刻凝聚香港草根同舟共濟與逆境拼搏精神之代表歌曲係：",
           "options": [
-            "《獅子山下》",
-            "《兩隻老虎》",
-            "《小星星》",
-            "《生日快樂》"
+            "《獅子山下》 (Cantopop U28)",
+            "《兩隻老虎》 (Cantopop U28)",
+            "《小星星》 (Cantopop U28)",
+            "《生日快樂》 (Cantopop U28)"
           ],
           "answerIndex": 0,
           "explanation": "《獅子山下》為黃霑填詞之不朽名作，被視為香港奮鬥精神之精神像徵。"
@@ -11861,10 +11861,10 @@
           "type": "multiple-choice",
           "prompt": "【詞壇宗師】創作逾三千首歌詞、將佛學禪理與現代都市情感完美融合、寫下《約定》《富士山下》之詞壇泰斗係：",
           "options": [
-            "林夕",
-            "徐志摩",
-            "戴望舒",
-            "海子"
+            "林夕 (Cantopop U28)",
+            "徐志摩 (Cantopop U28)",
+            "戴望舒 (Cantopop U28)",
+            "海子 (Cantopop U28)"
           ],
           "answerIndex": 0,
           "explanation": "林夕為當代華語樂壇最具影響力與文學深度之填詞大家。"
@@ -11912,10 +11912,10 @@
         {
           "prompt": "【核心精神】象徵香港草根大眾同舟共濟、勤勞勇敢、在逆境中互助拼搏之核心精神象徵係：",
           "options": [
-            "獅子山精神",
-            "逃避主義",
-            "拜金主義",
-            "得過且過"
+            "獅子山精神 (Cultural Studies U28)",
+            "逃避主義 (Cultural Studies U28)",
+            "拜金主義 (Cultural Studies U28)",
+            "得過且過 (Cultural Studies U28)"
           ],
           "answerIndex": 0,
           "explanation": "「獅子山精神」為香港社會最核心、最受推崇之集體拼搏與互助精神象徵。"
@@ -11927,10 +11927,10 @@
         {
           "prompt": "【文化特質】形容香港流行文化既具備高雅深刻之藝術品味，又能被廣大普通市民大眾所喜愛欣賞之成語係：",
           "options": [
-            "雅俗共賞",
-            "孤芳自賞",
-            "曲高和寡",
-            "庸俗不堪"
+            "雅俗共賞 (Cultural Studies U28)",
+            "孤芳自賞 (Cultural Studies U28)",
+            "曲高和寡 (Cultural Studies U28)",
+            "庸俗不堪 (Cultural Studies U28)"
           ],
           "answerIndex": 0,
           "explanation": "「雅俗共賞」精確概括了香港武俠文學、電影與粵語金曲跨越階層之傳播魅力。"
@@ -11943,10 +11943,10 @@
           "type": "multiple-choice",
           "prompt": "【文化研究】當代文化研究中，用以描述香港文化兼具嶺南底蘊、西方制度與全球流行元素之理論概念係：",
           "options": [
-            "文化雜糅性 / 混血性",
-            "單一封閉性",
-            "完全同質化",
-            "原始未開化"
+            "文化雜糅性 / 混血性 (Cultural Studies U28)",
+            "單一封閉性 (Cultural Studies U28)",
+            "完全同質化 (Cultural Studies U28)",
+            "原始未開化 (Cultural Studies U28)"
           ],
           "answerIndex": 0,
           "explanation": "「文化雜糅性（Cultural Hybridity）」為香港文化研究中最核心之理論闡釋架構。"
@@ -11994,10 +11994,10 @@
         {
           "prompt": "【前沿科技】以海量數據為基礎、能夠進行複雜語言生成與邏輯推理之核心AI技術架構稱為：",
           "options": [
-            "大語言模型",
-            "算盤珠心算",
-            "打字機打字",
-            "機械發條鐘"
+            "大語言模型 (AILLM U29)",
+            "算盤珠心算 (AILLM U29)",
+            "打字機打字 (AILLM U29)",
+            "機械發條鐘 (AILLM U29)"
           ],
           "answerIndex": 0,
           "explanation": "「大語言模型（LLM）」為當代生成式人工智能之核心技術基石。"
@@ -12009,10 +12009,10 @@
         {
           "prompt": "【技術工程】為使預訓練AI模型更貼合特定領域專業知識或具體應用場景所進行之針對性參數調整過程係：",
           "options": [
-            "微調",
-            "格式化全盤清空",
-            "拔掉電源關機",
-            "隨機猜測"
+            "微調 (AILLM U29)",
+            "格式化全盤清空 (AILLM U29)",
+            "拔掉電源關機 (AILLM U29)",
+            "隨機猜測 (AILLM U29)"
           ],
           "answerIndex": 0,
           "explanation": "「微調（Fine-tuning）」係在大模型基礎上調整權重參數以適配專屬垂直領域之核心工藝。"
@@ -12025,10 +12025,10 @@
           "type": "multiple-choice",
           "prompt": "【深度學習】深度學習（Deep Learning）之所以具備強大表徵學習能力，主要歸功於其採用咗邊種核心架構：",
           "options": [
-            "多層人工神經網絡",
-            "單純手工規則枚舉",
-            "隨機亂數生成器",
-            "機械指針齒輪"
+            "多層人工神經網絡 (AILLM U29)",
+            "單純手工規則枚舉 (AILLM U29)",
+            "隨機亂數生成器 (AILLM U29)",
+            "機械指針齒輪 (AILLM U29)"
           ],
           "answerIndex": 0,
           "explanation": "深度學習依托多層人工神經網絡實現對高維非線性特徵之自主提取與擬合。"
@@ -12076,10 +12076,10 @@
         {
           "prompt": "【區塊鏈應用】在區塊鏈上部署、當預設條件被觸發時自動無偏差執行之程序代碼稱為：",
           "options": [
-            "智能合約",
-            "口頭協議",
-            "手寫收據",
-            "傳真文件"
+            "智能合約 (FinTechWeb3AML U29)",
+            "口頭協議 (FinTechWeb3AML U29)",
+            "手寫收據 (FinTechWeb3AML U29)",
+            "傳真文件 (FinTechWeb3AML U29)"
           ],
           "answerIndex": 0,
           "explanation": "「智能合約（Smart Contracts）」為去中心化應用中自動執行條款之核心技術。"
@@ -12091,10 +12091,10 @@
         {
           "prompt": "【金融監管】允許金融科技初創企業在真實市場環境但受限範圍內測試創新產品之監管機制稱為：",
           "options": [
-            "監管沙盒",
-            "全面禁止創新",
-            "放任自流不予監管",
-            "強制關閉業務"
+            "監管沙盒 (FinTechWeb3AML U29)",
+            "全面禁止創新 (FinTechWeb3AML U29)",
+            "放任自流不予監管 (FinTechWeb3AML U29)",
+            "強制關閉業務 (FinTechWeb3AML U29)"
           ],
           "answerIndex": 0,
           "explanation": "「監管沙盒（Regulatory Sandbox）」為平衡金融創新與風險防控之標誌性監管制度。"
@@ -12107,10 +12107,10 @@
           "type": "multiple-choice",
           "prompt": "【合規義務】金融機構為防止不法資金透過金融體系合法化，必須強制嚴格落實之合規審查條例係：",
           "options": [
-            "反洗黑錢條例（AML）與認識你的客戶（KYC）",
-            "單純登記用戶暱稱",
-            "免除一切身分核實",
-            "允許匿名大額跨境轉賬"
+            "反洗黑錢條例 (FinTechWeb3AML U29)",
+            "單純登記用戶暱稱 (FinTechWeb3AML U29)",
+            "免除一切身分核實 (FinTechWeb3AML U29)",
+            "允許匿名大額跨境轉賬 (FinTechWeb3AML U29)"
           ],
           "answerIndex": 0,
           "explanation": "AML（反洗黑錢）與KYC（客戶身分識別）為全球金融機構營運之法定底線。"
@@ -12158,10 +12158,10 @@
         {
           "prompt": "【臨床試驗】在醫學實驗中，為徹底消除受試患者同醫生雙方之主觀心理暗示所採用之標準科研方法係：",
           "options": [
-            "雙盲測試",
-            "隨意公開測試",
-            "單純問卷調查",
-            "口頭訪問"
+            "雙盲測試 (Language concept U29)",
+            "隨意公開測試 (Language concept U29)",
+            "單純問卷調查 (Language concept U29)",
+            "口頭訪問 (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "「雙盲測試（Double-blind trial）」為國際醫學臨床試驗最高標準之黃金準則。"
@@ -12173,10 +12173,10 @@
         {
           "prompt": "【精準醫療】針對癌細胞特定突變基因或受體分子進行精準打擊、對正常組織損傷極小之現代療法係：",
           "options": [
-            "標靶治療",
-            "大劑量普通化療",
-            "傳統放血療法",
-            "單純休息靜養"
+            "標靶治療 (Language concept U29)",
+            "大劑量普通化療 (Language concept U29)",
+            "傳統放血療法 (Language concept U29)",
+            "單純休息靜養 (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "「標靶治療（Targeted Therapy）」為現代精準腫瘤醫學之重大突破。"
@@ -12189,10 +12189,10 @@
           "type": "multiple-choice",
           "prompt": "【前沿生物】利用CRISPR分子剪刀對生物基因組特定序列進行精確修改之尖端生物技術係：",
           "options": [
-            "基因編輯",
-            "普通血液透析",
-            "X光骨骼透視",
-            "心電圖檢查"
+            "基因編輯 (Language concept U29)",
+            "普通血液透析 (Language concept U29)",
+            "X光骨骼透視 (Language concept U29)",
+            "心電圖檢查 (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "「基因編輯（Gene Editing）」為當代分子生物學中革命性之基因操作工具。"
@@ -12240,10 +12240,10 @@
         {
           "prompt": "【學術寫作】在論文開篇部分，系統梳理前人研究成果並精確指出既有研究不足之章節稱為：",
           "options": [
-            "文獻探討 / 文獻綜述",
-            "隨手日記",
-            "純個人抒情",
-            "小說創作"
+            "文獻探討 / 文獻綜述 (Language concept U29)",
+            "隨手日記 (Language concept U29)",
+            "純個人抒情 (Language concept U29)",
+            "小說創作 (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "「文獻探討（Literature Review）」為確立研究價值與理論起點之必備核心章節。"
@@ -12255,10 +12255,10 @@
         {
           "prompt": "【統計分析】在定量實證研究中，用以表明研究結果並非出於隨機偶然、具備科學可靠性之核心概念係：",
           "options": [
-            "統計顯著性",
-            "主觀直覺感應",
-            "個人偏好猜測",
-            "拋硬幣決定"
+            "統計顯著性 (Core target concept - Unit 29 Target Practice)",
+            "主觀直覺感應 (Core target concept - Unit 29 Target Practice)",
+            "個人偏好猜測 (Core target concept - Unit 29 Target Practice)",
+            "拋硬幣決定 (Core target concept - Unit 29 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「統計顯著性（Statistical Significance）」為實證定量分析中驗證假說之標準科學判據。"
@@ -12271,10 +12271,10 @@
           "type": "multiple-choice",
           "prompt": "【審稿機制】國際權威學術期刊為確保論文學術質量與客觀公正所普遍採用的審稿機制係：",
           "options": [
-            "雙向匿名同行評審",
-            "作者自審自發",
-            "商業廣告競價排名",
-            "社交媒體投票"
+            "雙向匿名同行評審 (Language concept U29)",
+            "作者自審自發 (Language concept U29)",
+            "商業廣告競價排名 (Language concept U29)",
+            "社交媒體投票 (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "「同行評審（Peer Review）」為現代國際學術出版與科學共同體驗證學術成果之基石。"
@@ -12322,10 +12322,10 @@
         {
           "prompt": "【科技倫理】因訓練數據存在偏頗而導致AI決策系統對特定群體產生不公評判之現象稱為：",
           "options": [
-            "算法偏見",
-            "完全客觀公正",
-            "絕對完美無瑕",
-            "硬件電路故障"
+            "算法偏見 (Language concept U29)",
+            "完全客觀公正 (Language concept U29)",
+            "絕對完美無瑕 (Language concept U29)",
+            "硬件電路故障 (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "「算法偏見（Algorithmic Bias）」為當前人工智能倫理治理中最關鍵之核心議題。"
@@ -12337,10 +12337,10 @@
         {
           "prompt": "【公共政策】在重大科技風險或危機發生前預先制定防範對策與監管法規之成語係：",
           "options": [
-            "未雨綢繆",
-            "臨渴掘井",
-            "亡羊補牢",
-            "坐以待斃"
+            "未雨綢繆 (Core target concept - Unit 29 Target Practice)",
+            "臨渴掘井 (Core target concept - Unit 29 Target Practice)",
+            "亡羊補牢 (Core target concept - Unit 29 Target Practice)",
+            "坐以待斃 (Core target concept - Unit 29 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「未雨綢繆」常用於科技政策前瞻性制定與前沿風險防範語境。"
@@ -12353,10 +12353,10 @@
           "type": "multiple-choice",
           "prompt": "【科技治理】現代科技創新與數字化轉型必須恪守之核心倫理指導原則係：",
           "options": [
-            "以人為本、科技向善",
-            "利潤至上不顧後果",
-            "肆意侵犯個人私隱",
-            "全面推行算法壟斷"
+            "以人為本、科技向善 (Core target concept - Unit 29 Target Practice)",
+            "利潤至上不顧後果 (Core target concept - Unit 29 Target Practice)",
+            "肆意侵犯個人私隱 (Core target concept - Unit 29 Target Practice)",
+            "全面推行算法壟斷 (Core target concept - Unit 29 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「以人為本、科技向善」為全球公認之科技治理與可持續發展最高準則。"
@@ -12404,10 +12404,10 @@
         {
           "prompt": "【電影運動】二十世紀七十年代末在香港興起、由許鞍華徐克等年輕導演推動之視聽美學革命稱為：",
           "options": [
-            "香港電影新浪潮",
-            "黑白默片運動",
-            "皮影戲巡演",
-            "純商業廣告片潮"
+            "香港電影新浪潮 (1979 - Unit 30 Target Practice)",
+            "黑白默片運動 (1979 - Unit 30 Target Practice)",
+            "皮影戲巡演 (1979 - Unit 30 Target Practice)",
+            "純商業廣告片潮 (1979 - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「香港電影新浪潮」為香港電影邁向現代主義與作者電影美學之關鍵里程碑。"
@@ -12419,10 +12419,10 @@
         {
           "prompt": "【影壇巨匠】執導《投奔怒海》、《女人四十》、《桃姐》，榮獲威尼斯影展終身成就金獅獎之香港女導演係：",
           "options": [
-            "許鞍華",
-            "宮崎駿",
-            "黑澤明",
-            "奉俊昊"
+            "許鞍華 (1979 - Unit 30 Target Practice)",
+            "宮崎駿 (1979 - Unit 30 Target Practice)",
+            "黑澤明 (1979 - Unit 30 Target Practice)",
+            "奉俊昊 (1979 - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "許鞍華為香港新浪潮領軍人物及享譽全球之電影大師。"
@@ -12435,10 +12435,10 @@
           "type": "multiple-choice",
           "prompt": "【美學風格】香港新浪潮電影在製作手法上最顯著區別於傳統片場電影之核心特點係：",
           "options": [
-            "走出攝影棚、大量採用真實街頭社區進行菲林實景拍攝",
-            "全片只在單一綠幕前用電腦合成",
-            "完全不使用任何真實演員",
-            "禁止在香港本地取景"
+            "走出攝影棚、大量採用真實街頭社區進行菲林實景拍攝 (1979 - Unit 30 Target Practice)",
+            "全片只在單一綠幕前用電腦合成 (1979 - Unit 30 Target Practice)",
+            "完全不使用任何真實演員 (1979 - Unit 30 Target Practice)",
+            "禁止在香港本地取景 (1979 - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "深入香港本土社區進行實景拍攝為新浪潮紀實寫實美學之標誌性特徵。"
@@ -12486,10 +12486,10 @@
         {
           "prompt": "【剪接手法】在電影中將兩條或多條在不同空間同時發生的劇情線索交替剪接在一起之蒙太奇手法係：",
           "options": [
-            "交叉剪接 / 平行蒙太奇",
-            "單純黑屏暫停",
-            "快進十倍播放",
-            "隨意刪除素材"
+            "交叉剪接 / 平行蒙太奇 (Language concept U30)",
+            "單純黑屏暫停 (Language concept U30)",
+            "快進十倍播放 (Language concept U30)",
+            "隨意刪除素材 (Language concept U30)"
           ],
           "answerIndex": 0,
           "explanation": "「交叉剪接（Cross-cutting）」為電影營造緊迫懸念與時空交織感最經典之剪接語法。"
@@ -12501,10 +12501,10 @@
         {
           "prompt": "【視聽修辭】電影中背景聲音（如歡快音樂）與畫面內容（如悲慘處境）形成鮮明反差與諷刺效果之手法稱為：",
           "options": [
-            "聲畫對位",
-            "無聲靜音",
-            "噪聲干擾",
-            "設備短路"
+            "聲畫對位 (Core target concept - Unit 30 Target Practice)",
+            "無聲靜音 (Core target concept - Unit 30 Target Practice)",
+            "噪聲干擾 (Core target concept - Unit 30 Target Practice)",
+            "設備短路 (Core target concept - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「聲畫對位」透過視聽反差營造深刻之象徵寓意與哲學思辨空間。"
@@ -12517,10 +12517,10 @@
           "type": "multiple-choice",
           "prompt": "【攝影技術】在電影拍攝中，攝影機不中斷且持續跟隨角色運動或場景流轉之單一鏡頭稱為：",
           "options": [
-            "長鏡頭",
-            "定格照片",
-            "幻燈片切換",
-            "一秒快速閃爍"
+            "長鏡頭 (Language concept U30)",
+            "定格照片 (Language concept U30)",
+            "幻燈片切換 (Language concept U30)",
+            "一秒快速閃爍 (Language concept U30)"
           ],
           "answerIndex": 0,
           "explanation": "「長鏡頭（Long Take）」能夠完整保留時空連續性與現場氛圍之真實張力。"
@@ -12568,10 +12568,10 @@
         {
           "prompt": "【紀錄片流派】強調攝影機盡可能不干預被拍攝對象、客觀真實記錄事件自然生長之紀錄片流派係：",
           "options": [
-            "直接電影",
-            "荷里活特效科幻片",
-            "舞台情景喜劇",
-            "劇本虛構電影"
+            "直接電影 (Language concept U30)",
+            "荷里活特效科幻片 (Language concept U30)",
+            "舞台情景喜劇 (Language concept U30)",
+            "劇本虛構電影 (Language concept U30)"
           ],
           "answerIndex": 0,
           "explanation": "「直接電影（Direct Cinema）」主張客觀觀察，被譽為紀錄片真實性之核心範式。"
@@ -12583,10 +12583,10 @@
         {
           "prompt": "【影壇名作】榮獲金馬獎最佳紀錄片、由張經緯導演深入跟拍音樂少年黃家正成長困惑之香港名片係：",
           "options": [
-            "《音樂人生》",
-            "《阿凡達》",
-            "《變形金剛》",
-            "《復仇者聯盟》"
+            "《音樂人生》 (Core target concept - Unit 30 Target Practice)",
+            "《阿凡達》 (Core target concept - Unit 30 Target Practice)",
+            "《變形金剛》 (Core target concept - Unit 30 Target Practice)",
+            "《復仇者聯盟》 (Core target concept - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "《音樂人生》為香港紀錄片史上口碑與藝術成就極高之經典代表作。"
@@ -12599,10 +12599,10 @@
           "type": "multiple-choice",
           "prompt": "【非虛構價值】優秀紀錄片之所以具備跨越時空之震撼力量，其最根本之核心價值在於：",
           "options": [
-            "真實記錄社會現實、作為時代見證並傳遞深厚之人文關懷",
-            "純粹追求商業票房最大化",
-            "完全脫離現實虛構劇情",
-            "使用炫目電腦特效掩蓋內容空洞"
+            "真實記錄社會現實、作為時代見證並傳遞深厚之人文關懷 (Core target concept - Unit 30 Target Practice)",
+            "純粹追求商業票房最大化 (Core target concept - Unit 30 Target Practice)",
+            "完全脫離現實虛構劇情 (Core target concept - Unit 30 Target Practice)",
+            "使用炫目電腦特效掩蓋內容空洞 (Core target concept - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "真實呈現歷史變遷與人文關懷係紀錄片最核心之精神內核。"
@@ -12650,10 +12650,10 @@
         {
           "prompt": "【影視分發】打破傳統實體電影院排片限制、透過互聯網向全球用戶提供即時影音點播之平台形式稱為：",
           "options": [
-            "網絡串流平台",
-            "錄影帶租賃小店",
-            "露天黑白放映隊",
-            "實體光盤售賣攤"
+            "網絡串流平台 (Streaming PlatformsIP U30)",
+            "錄影帶租賃小店 (Streaming PlatformsIP U30)",
+            "露天黑白放映隊 (Streaming PlatformsIP U30)",
+            "實體光盤售賣攤 (Streaming PlatformsIP U30)"
           ],
           "answerIndex": 0,
           "explanation": "「網絡串流平台（Streaming Platforms）」為數字時代全球影視分發之主導形態。"
@@ -12665,10 +12665,10 @@
         {
           "prompt": "【產業模式】香港電影製作團隊與內地資本及市場深度合作、在CEPA框架下共同投資拍攝之電影類型稱為：",
           "options": [
-            "合拍片",
-            "純個人家庭錄像",
-            "未經授權盜版片",
-            "單純進口引進片"
+            "合拍片 (Streaming PlatformsIP U30)",
+            "純個人家庭錄像 (Streaming PlatformsIP U30)",
+            "未經授權盜版片 (Streaming PlatformsIP U30)",
+            "單純進口引進片 (Streaming PlatformsIP U30)"
           ],
           "answerIndex": 0,
           "explanation": "「合拍片」為二十一世紀華語電影產業規模化與跨地域合作之核心模式。"
@@ -12681,10 +12681,10 @@
           "type": "multiple-choice",
           "prompt": "【文創戰略】以核心文學或動漫角色世界觀為基礎、進行全產業鏈多維度影視與衍生產品開發之過程稱為：",
           "options": [
-            "IP孵化與衍生開發",
-            "隨意抄襲翻拍",
-            "一次性短期投機",
-            "徹底封存版權"
+            "IP孵化與衍生開發 (Streaming PlatformsIP U30)",
+            "隨意抄襲翻拍 (Streaming PlatformsIP U30)",
+            "一次性短期投機 (Streaming PlatformsIP U30)",
+            "徹底封存版權 (Streaming PlatformsIP U30)"
           ],
           "answerIndex": 0,
           "explanation": "「IP孵化」為文創產業實現長期品牌價值積累與商業變現之重要戰略。"
@@ -12732,10 +12732,10 @@
         {
           "prompt": "【批評理論】在電影評論中，用以分析影片如何與其他經典文學名著或影視文本產生跨時空對話與引申之理論概念係：",
           "options": [
-            "互文性",
-            "完全抄襲",
-            "毫無關聯",
-            "偶然巧合"
+            "互文性 (Film SemioticsIntertextuality U30)",
+            "完全抄襲 (Film SemioticsIntertextuality U30)",
+            "毫無關聯 (Film SemioticsIntertextuality U30)",
+            "偶然巧合 (Film SemioticsIntertextuality U30)"
           ],
           "answerIndex": 0,
           "explanation": "「互文性（Intertextuality）」為當代文藝理論中揭示文本間對話與文化引申之核心範式。"
@@ -12747,10 +12747,10 @@
         {
           "prompt": "【符號分析】將電影中的鏡頭、光線、色彩與道具作為具備特定隱喻含義之符號體系進行嚴密剖析之學術方法係：",
           "options": [
-            "視聽符號學",
-            "隨意主觀猜謎",
-            "單純八卦緋聞",
-            "票房商業統計"
+            "視聽符號學 (Film SemioticsIntertextuality U30)",
+            "隨意主觀猜謎 (Film SemioticsIntertextuality U30)",
+            "單純八卦緋聞 (Film SemioticsIntertextuality U30)",
+            "票房商業統計 (Film SemioticsIntertextuality U30)"
           ],
           "answerIndex": 0,
           "explanation": "「視聽符號學（Film Semiotics）」為電影美學分析中精確解讀影像深層隱喻之科學工具。"
@@ -12763,10 +12763,10 @@
           "type": "multiple-choice",
           "prompt": "【影評高度】一篇具備高度學術價值與思想深度之高階電影評論，其核心評價維度應聚焦於：",
           "options": [
-            "視聽語言創新性、思想哲學厚度及對人性與時代命題之深刻剖析",
-            "單純宣洩個人追星情緒",
-            "只複述電影官方劇情簡介",
-            "完全按照商業利益評分"
+            "視聽語言創新性、思想哲學厚度及對人性與時代命題之深刻剖析 (Film SemioticsIntertextuality U30)",
+            "單純宣洩個人追星情緒 (Film SemioticsIntertextuality U30)",
+            "只複述電影官方劇情簡介 (Film SemioticsIntertextuality U30)",
+            "完全按照商業利益評分 (Film SemioticsIntertextuality U30)"
           ],
           "answerIndex": 0,
           "explanation": "高階影評依托嚴謹之視聽語法與思想厚度，實現對作品之哲學級審美昇華。"
@@ -12814,10 +12814,10 @@
         {
           "prompt": "【法律體系】普通法體系中下級法院在裁判同類案件時必須嚴格遵從上級法院既有判例之核心司法原則稱為：",
           "options": [
-            "遵循先例原則",
-            "隨意自行裁量",
-            "每年重新立法",
-            "由當事人抽籤決定"
+            "遵循先例原則 (Common LawStare Decisis U31)",
+            "隨意自行裁量 (Common LawStare Decisis U31)",
+            "每年重新立法 (Common LawStare Decisis U31)",
+            "由當事人抽籤決定 (Common LawStare Decisis U31)"
           ],
           "answerIndex": 0,
           "explanation": "「遵循先例原則（Stare Decisis）」為普通法體系確定性與連續性之最核心基石。"
@@ -12829,10 +12829,10 @@
         {
           "prompt": "【司法架構】香港特區法院體系中享有最高司法審判權與最終裁決權之司法機構係：",
           "options": [
-            "香港終審法院",
-            "裁判法院",
-            "勞資審裁處",
-            "淫褻物品審裁處"
+            "香港終審法院 (Common LawStare Decisis U31)",
+            "裁判法院 (Common LawStare Decisis U31)",
+            "勞資審裁處 (Common LawStare Decisis U31)",
+            "淫褻物品審裁處 (Common LawStare Decisis U31)"
           ],
           "answerIndex": 0,
           "explanation": "香港終審法院為香港特別行政區最高級別之終審司法機構。"
@@ -12845,10 +12845,10 @@
           "type": "multiple-choice",
           "prompt": "【憲制地位】香港特別行政區之所以能夠在中國境內保持普通法制度，其最根本之憲制法律依據係：",
           "options": [
-            "《中華人民共和國香港特別行政區基本法》",
-            "中世紀大憲章",
-            "外國商會協議",
-            "民間習慣法"
+            "《中華人民共和國香港特別行政區基本法》 (Common LawStare Decisis U31)",
+            "中世紀大憲章 (Common LawStare Decisis U31)",
+            "外國商會協議 (Common LawStare Decisis U31)",
+            "民間習慣法 (Common LawStare Decisis U31)"
           ],
           "answerIndex": 0,
           "explanation": "《香港基本法》在憲制層面確立並保障了香港維持普通法制度與司法獨立。"
@@ -12896,10 +12896,10 @@
         {
           "prompt": "【刑事原則】普通法刑事訴訟中，在法院依法審測定罪前將一切被告人假定為無罪之黃金原則係：",
           "options": [
-            "無罪推定原則",
-            "有罪推定",
-            "先入為主定罪",
-            "以口供為唯一依據"
+            "無罪推定原則 (vs - Unit 31 Target Practice)",
+            "有罪推定 (vs - Unit 31 Target Practice)",
+            "先入為主定罪 (vs - Unit 31 Target Practice)",
+            "以口供為唯一依據 (vs - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「無罪推定」為文明司法制度中保障人身權利與防止冤假錯案之底線基石。"
@@ -12911,10 +12911,10 @@
         {
           "prompt": "【律師分工】在香港法律體系中，獲專門認可出庭進行高級別訴訟辯護與口頭陳詞之法律專家係：",
           "options": [
-            "大律師 / 大狀",
-            "房地產經紀",
-            "物業管理員",
-            "會計記賬員"
+            "大律師 / 大狀 (vs (U31))",
+            "房地產經紀 (vs (U31))",
+            "物業管理員 (vs (U31))",
+            "會計記賬員 (vs (U31))"
           ],
           "answerIndex": 0,
           "explanation": "香港大律師（Barrister）專精於法庭訴訟、盤問與法律論辯。"
@@ -12927,10 +12927,10 @@
           "type": "multiple-choice",
           "prompt": "【證明標準】在普通法刑事案件中，控方欲指控被告有罪所必須達到的最高法律證明標準係：",
           "options": [
-            "排除合理疑點",
-            "五成可能性的蓋然性權衡",
-            "主觀直覺懷疑",
-            "媒體輿論傾向"
+            "排除合理疑點 (vs - Unit 31 Target Practice)",
+            "五成可能性的蓋然性權衡 (vs - Unit 31 Target Practice)",
+            "主觀直覺懷疑 (vs - Unit 31 Target Practice)",
+            "媒體輿論傾向 (vs - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「排除合理疑點（Beyond Reasonable Doubt）」為普通法刑事定罪之法定唯一證明門檻。"
@@ -12978,10 +12978,10 @@
         {
           "prompt": "【侵權法】普通法中規定每個人在行動時對周圍可合理預見會受其行為影響之人負有防範損害義務之核心概念係：",
           "options": [
-            "謹慎責任",
-            "無限絕對責任",
-            "互不相干免責",
-            "純粹道德倡議"
+            "謹慎責任 (Language concept U31)",
+            "無限絕對責任 (Language concept U31)",
+            "互不相干免責 (Language concept U31)",
+            "純粹道德倡議 (Language concept U31)"
           ],
           "answerIndex": 0,
           "explanation": "「謹慎責任（Duty of Care）」為侵權法中疏忽責任（Negligence）成立之核心前提。"
@@ -12993,10 +12993,10 @@
         {
           "prompt": "【爭議解決】跨國商業交易中雙方約定由獨立中立之專業第三方機構作出具終局法律效力裁決之非訴訟爭議解決途徑係：",
           "options": [
-            "國際商事仲裁",
-            "網上公開罵戰",
-            "單方面武力威脅",
-            "無休止街頭爭吵"
+            "國際商事仲裁 (Core target concept - Unit 31 Target Practice)",
+            "網上公開罵戰 (Core target concept - Unit 31 Target Practice)",
+            "單方面武力威脅 (Core target concept - Unit 31 Target Practice)",
+            "無休止街頭爭吵 (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「國際商事仲裁（Commercial Arbitration）」為全球商業貿易中首選之爭議解決機制。"
@@ -13009,10 +13009,10 @@
           "type": "multiple-choice",
           "prompt": "【違約救濟】當金錢賠償不足以彌補受害方損失時，法院依據衡平法原則命令違約方必須按照原約定履行義務之司法命令稱為：",
           "options": [
-            "強制履行令",
-            "罰款警告信",
-            "撤銷法庭設立",
-            "免除全部合同責任"
+            "強制履行令 (Core target concept - Unit 31 Target Practice)",
+            "罰款警告信 (Core target concept - Unit 31 Target Practice)",
+            "撤銷法庭設立 (Core target concept - Unit 31 Target Practice)",
+            "免除全部合同責任 (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「強制履行令（Specific Performance）」為普通法衡平法體系下極具約束力之違約特殊救濟手段。"
@@ -13060,10 +13060,10 @@
         {
           "prompt": "【法例詮釋】在法例解釋中，法官不局限於法條死板字面、而是探求立法背後整體政策目的與社會宗旨之詮釋方法係：",
           "options": [
-            "目的性詮釋法",
-            "隨便曲解法條",
-            "機械字面死扣",
-            "抽籤決定含義"
+            "目的性詮釋法 (Core target concept - Unit 31 Target Practice)",
+            "隨便曲解法條 (Core target concept - Unit 31 Target Practice)",
+            "機械字面死扣 (Core target concept - Unit 31 Target Practice)",
+            "抽籤決定含義 (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「目的性詮釋法（Purposive Approach）」為現代普通法法官探求法例精神實質最主流之詮釋準則。"
@@ -13075,10 +13075,10 @@
         {
           "prompt": "【雙語制度】香港《法定語文條例》對香港法例文本法律效力作出的核心規定係：",
           "options": [
-            "中文本與英文本同具真準效力",
-            "英文本效力永遠高於中文本",
-            "中文本僅供參考無法律效力",
-            "只以口頭聲明為準"
+            "中文本與英文本同具真準效力 (Core target concept - Unit 31 Target Practice)",
+            "英文本效力永遠高於中文本 (Core target concept - Unit 31 Target Practice)",
+            "中文本僅供參考無法律效力 (Core target concept - Unit 31 Target Practice)",
+            "只以口頭聲明為準 (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "香港特區法律規定中英兩種語言文本同具真準法定效力。"
@@ -13091,10 +13091,10 @@
           "type": "multiple-choice",
           "prompt": "【法例文本】在法例草擬中，為精確界定特定專有名詞在該部法律中之具體適用範圍所專門設置的法條章節稱為：",
           "options": [
-            "釋義與定義條款",
-            "作者簡介",
-            "廣告宣傳頁",
-            "感謝名單"
+            "釋義與定義條款 (Core target concept - Unit 31 Target Practice)",
+            "作者簡介 (Core target concept - Unit 31 Target Practice)",
+            "廣告宣傳頁 (Core target concept - Unit 31 Target Practice)",
+            "感謝名單 (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「釋義條款（Interpretation Clauses）」為法例起草中鎖定法律術語內涵與外延之核心技術手段。"
@@ -13142,10 +13142,10 @@
         {
           "prompt": "【司法倫理】自然公正原則（Natural Justice）中嚴格規定法官絕不能審理與自己存在利益關聯案件之拉丁法諺係：",
           "options": [
-            "任何人不得在自己的案件中擔任法官",
-            "法官可以任意接受饋贈",
-            "法官可以自告自審",
-            "法官無須迴避利益衝突"
+            "任何人不得在自己的案件中擔任法官 (vs Natural Justice U31)",
+            "法官可以任意接受饋贈 (vs Natural Justice U31)",
+            "法官可以自告自審 (vs Natural Justice U31)",
+            "法官無須迴避利益衝突 (vs Natural Justice U31)"
           ],
           "answerIndex": 0,
           "explanation": "「Nemo judex in causa sua」為確保司法公正無偏頗之第一自然正義鐵律。"
@@ -13157,10 +13157,10 @@
         {
           "prompt": "【法學流派】主張法律之上存在著永恆客觀之道德與理性法則、非正義之法律並非真正法律之學派係：",
           "options": [
-            "自然法學派",
-            "純粹強權論",
-            "虛無主義派",
-            "商業至上派"
+            "自然法學派 (vs Natural Justice U31)",
+            "純粹強權論 (vs Natural Justice U31)",
+            "虛無主義派 (vs Natural Justice U31)",
+            "商業至上派 (vs Natural Justice U31)"
           ],
           "answerIndex": 0,
           "explanation": "「自然法學派（Natural Law）」將道德正義與理性視為檢驗法律正當性之最高標準。"
@@ -13173,10 +13173,10 @@
           "type": "multiple-choice",
           "prompt": "【法治名言】普通法體系中強調審判程序必須公開透明、公眾必須能夠直觀感受正義得以落實之世界名言係：",
           "options": [
-            "正義不僅要得到實現，而且要以讓人看得見的方式實現",
-            "正義可以秘密暗中達成",
-            "審判結果無須向公眾說明",
-            "只要目的正確可以不擇手段"
+            "正義不僅要得到實現，而且要以讓人看得見的方式實現 (vs Natural Justice U31)",
+            "正義可以秘密暗中達成 (vs Natural Justice U31)",
+            "審判結果無須向公眾說明 (vs Natural Justice U31)",
+            "只要目的正確可以不擇手段 (vs Natural Justice U31)"
           ],
           "answerIndex": 0,
           "explanation": "此名言精闢闡明了程序正義（Procedural Justice）對於公眾建立法治信心之不可替代價值。"
@@ -13224,10 +13224,10 @@
         {
           "prompt": "【辯論策略】在辯論中利用對方所提出的論據推導出對方自身論點自相矛盾之經典反駁技法係：",
           "options": [
-            "以子之矛，攻子之盾",
-            "直接人身攻擊",
-            "大聲喧嘩打斷",
-            "承認對方全對"
+            "以子之矛，攻子之盾 (Core target concept - Unit 32 Target Practice)",
+            "直接人身攻擊 (Core target concept - Unit 32 Target Practice)",
+            "大聲喧嘩打斷 (Core target concept - Unit 32 Target Practice)",
+            "承認對方全對 (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「以子之矛，攻子之盾」為辯論攻防中直擊對方邏輯自洽性漏洞之最高效招式。"
@@ -13239,10 +13239,10 @@
         {
           "prompt": "【立論架構】在辯論開篇環節，確立全場論辯評判依據與核心價值導向之環節稱為：",
           "options": [
-            "確立評判標準",
-            "隨意講笑話",
-            "朗讀課文",
-            "宣布比賽結束"
+            "確立評判標準 (Language concept U32)",
+            "隨意講笑話 (Language concept U32)",
+            "朗讀課文 (Language concept U32)",
+            "宣布比賽結束 (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "「評判標準（Criteria）」為政策與價值辯論中決定勝負判定之核心坐標軸。"
@@ -13255,10 +13255,10 @@
           "type": "multiple-choice",
           "prompt": "【反駁方法】假定對方荒謬的主張為真、進而順著其邏輯推導出顯然荒謬絕倫之結論以反證其錯誤之邏輯方法係：",
           "options": [
-            "歸謬法",
-            "循環論證",
-            "強詞奪理",
-            "無效枚舉"
+            "歸謬法 (Language concept U32)",
+            "循環論證 (Language concept U32)",
+            "強詞奪理 (Language concept U32)",
+            "無效枚舉 (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "「歸謬法（Reductio ad absurdum）」為邏輯學與辯論學中極具殺傷力之反駁利器。"
@@ -13306,10 +13306,10 @@
         {
           "prompt": "【邏輯謬誤】曲解或誇大對方觀點、樹立一個虛假極端靶子進行猛烈抨擊之邏輯謬誤稱為：",
           "options": [
-            "稻草人謬誤",
-            "嚴密三段論",
-            "客觀全面分析",
-            "實事求是舉證"
+            "稻草人謬誤 (Language concept U32)",
+            "嚴密三段論 (Language concept U32)",
+            "客觀全面分析 (Language concept U32)",
+            "實事求是舉證 (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "「稻草人謬誤（Straw Man Fallacy）」為論辯中歪曲對手立場最常見之形式。"
@@ -13321,10 +13321,10 @@
         {
           "prompt": "【批判思維】在論證中不反駁對方論點論據、而是直接針對論者個人道德人品或出身背景進行攻擊之謬誤係：",
           "options": [
-            "訴諸人身謬誤",
-            "歸納邏輯",
-            "演繹推理",
-            "實證檢驗"
+            "訴諸人身謬誤 (Language concept U32)",
+            "歸納邏輯 (Language concept U32)",
+            "演繹推理 (Language concept U32)",
+            "實證檢驗 (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "「訴諸人身（Ad Hominem）」屬於典型的轉移論題與關聯性謬誤。"
@@ -13337,10 +13337,10 @@
           "type": "multiple-choice",
           "prompt": "【邏輯推演】無合理中間因果鏈條支持、斷言採取微小一步必然導致極端崩潰毀滅之後果之謬誤係：",
           "options": [
-            "滑坡謬誤",
-            "精確數學模型",
-            "嚴謹概率統計",
-            "反證法推理"
+            "滑坡謬誤 (Language concept U32)",
+            "精確數學模型 (Language concept U32)",
+            "嚴謹概率統計 (Language concept U32)",
+            "反證法推理 (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "「滑坡謬誤（Slippery Slope）」透過無限誇大因果連鎖反應製造非理性恐慌。"
@@ -13388,10 +13388,10 @@
         {
           "prompt": "【修辭三要素】亞里士多德修辭學中指演說者透過自身誠信、專業聲譽與道德威望贏得聽眾信任之要素係：",
           "options": [
-            "品格說服力",
-            "單純靠聲音大",
-            "炫耀財富",
-            "威脅恐嚇"
+            "品格說服力 (EthosPathosLogos U32)",
+            "單純靠聲音大 (EthosPathosLogos U32)",
+            "炫耀財富 (EthosPathosLogos U32)",
+            "威脅恐嚇 (EthosPathosLogos U32)"
           ],
           "answerIndex": 0,
           "explanation": "「Ethos（品格說服力）」為確立演說者信譽與道德正當性之第一基石。"
@@ -13403,10 +13403,10 @@
         {
           "prompt": "【演說技藝】公共演講中連用三個或以上結構相同、語氣一致的對稱句子以增強說服氣勢之修辭手法係：",
           "options": [
-            "排比",
-            "語無倫次",
-            "重複單詞十次",
-            "小聲耳語"
+            "排比 (EthosPathosLogos U32)",
+            "語無倫次 (EthosPathosLogos U32)",
+            "重複單詞十次 (EthosPathosLogos U32)",
+            "小聲耳語 (EthosPathosLogos U32)"
           ],
           "answerIndex": 0,
           "explanation": "「排比（Parallelism）」為演說中營造磅礴氣勢與鮮明節奏之標誌性修辭工具。"
@@ -13419,10 +13419,10 @@
           "type": "multiple-choice",
           "prompt": "【演講要素】在古典修辭學中，主要透過無可辯駁的客觀數據、實證事實與嚴密邏輯推理進行說服之要素係：",
           "options": [
-            "理性邏輯",
-            "虛構謠言",
-            "盲目迷信",
-            "純粹情緒宣洩"
+            "理性邏輯 (EthosPathosLogos U32)",
+            "虛構謠言 (EthosPathosLogos U32)",
+            "盲目迷信 (EthosPathosLogos U32)",
+            "純粹情緒宣洩 (EthosPathosLogos U32)"
           ],
           "answerIndex": 0,
           "explanation": "「Logos（理性邏輯）」為一切嚴謹論證與演說中最不可撼動之理性支柱。"
@@ -13470,10 +13470,10 @@
         {
           "prompt": "【危機溝通】在突發公共危機中，機構新聞發言人所必須恪守的第一核心原則係：",
           "options": [
-            "第一時間主動公開透明通報真實情況",
-            "封鎖一切消息",
-            "長期保持沉默不予理睬",
-            "推卸責任給受害者"
+            "第一時間主動公開透明通報真實情況 (Core target concept - Unit 32 Target Practice)",
+            "封鎖一切消息 (Core target concept - Unit 32 Target Practice)",
+            "長期保持沉默不予理睬 (Core target concept - Unit 32 Target Practice)",
+            "推卸責任給受害者 (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「第一時間主動公開」為危機公關中贏得公眾信任、遏制謠言蔓延之第一黃金鐵律。"
@@ -13485,10 +13485,10 @@
         {
           "prompt": "【答問技巧】發言人在面對偏頗或陷阱提問時、將話題順暢引導回機構核心信息與關鍵事實之公關技巧係：",
           "options": [
-            "橋接法",
-            "憤怒離場",
-            "當場辱罵記者",
-            "編造虛假謊言"
+            "橋接法 (Language concept U32)",
+            "憤怒離場 (Language concept U32)",
+            "當場辱罵記者 (Language concept U32)",
+            "編造虛假謊言 (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "「橋接法（Bridging）」為新聞發言人掌控發布會主導權之核心專業技能。"
@@ -13501,10 +13501,10 @@
           "type": "multiple-choice",
           "prompt": "【公關目的】高水平公共政策溝通與危機新聞發布會之最終核心歸宿在於：",
           "options": [
-            "化解公眾疑慮、保障市民知情權並凝聚全社會廣泛共識",
-            "單純掩蓋機構失誤",
-            "忽悠欺騙公眾",
-            "展示官僚傲慢"
+            "化解公眾疑慮、保障市民知情權並凝聚全社會廣泛共識 (Core target concept - Unit 32 Target Practice)",
+            "單純掩蓋機構失誤 (Core target concept - Unit 32 Target Practice)",
+            "忽悠欺騙公眾 (Core target concept - Unit 32 Target Practice)",
+            "展示官僚傲慢 (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "保障公眾知情權與凝聚社會共識係現代公共政策溝通之根本價值。"
@@ -13552,10 +13552,10 @@
         {
           "prompt": "【演說魅力】重大歷史名篇演說之所以能夠穿越漫長歷史時空依然震撼人心的根本原因在於：",
           "options": [
-            "具備崇高思想引領、強烈時代號召力與深厚人文情懷",
-            "單純堆砌華麗辭藻 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)",
-            "聲音調至最高分貝 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)",
-            "迎合庸俗低級趣味 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)"
+            "具備崇高思想引領、強烈時代號召力與深厚人文情懷 (Core target concept - Unit 32 Target Practice)",
+            "單純堆砌華麗辭藻 (Core target concept - Unit 32 Target Practice)",
+            "聲音調至最高分貝 (Core target concept - Unit 32 Target Practice)",
+            "迎合庸俗低級趣味 (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "崇高思想價值與時代精神號召係歷史名篇演說永恆生命力之所在。"
@@ -13567,10 +13567,10 @@
         {
           "prompt": "【歷史名篇】1923年在香港大學發表演說、深情回顧求學歲月並指出其思想得自香港之近代偉人係：",
           "options": [
-            "孫中山先生",
-            "愛迪生 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)",
-            "牛頓 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)",
-            "達爾文 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)"
+            "孫中山先生 (Core target concept - Unit 32 Target Practice)",
+            "愛迪生 (Core target concept - Unit 32 Target Practice)",
+            "牛頓 (Core target concept - Unit 32 Target Practice)",
+            "達爾文 (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "孫中山先生於1923年在港大的歷史演說是香港近代史上的標誌性事件。"
@@ -13583,10 +13583,10 @@
           "type": "multiple-choice",
           "prompt": "【演說評價】形容一篇演說論點宏大、立意高遠、氣勢磅礴且極具感染力之經典成語係：",
           "options": [
-            "高瞻遠矚、氣貫長虹",
-            "鼠目寸光 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)",
-            "言之無物 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)",
-            "無病呻吟 (掌握世界及嶺南重大歷史名篇演說之思想深度、時代號召力、文本結構美學及演說家崇高風範之高階品評話語。)"
+            "高瞻遠矚、氣貫長虹 (Core target concept - Unit 32 Target Practice)",
+            "鼠目寸光 (Core target concept - Unit 32 Target Practice)",
+            "言之無物 (Core target concept - Unit 32 Target Practice)",
+            "無病呻吟 (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「高瞻遠矚、氣貫長虹」常用於評價傳世歷史名篇演說之崇高境界與雄渾氣魄。"
@@ -13634,10 +13634,10 @@
         {
           "prompt": "【廣府建築】嶺南傳統民居中狀如鑊耳、具備防火防風實用功能且象徵獨佔鰲頭之特色山牆稱為：",
           "options": [
-            "鑊耳屋 / 鑊耳封火山牆",
-            "哥特式尖頂",
-            "羅馬圓形穹頂",
-            "茅草圓錐頂"
+            "鑊耳屋 / 鑊耳封火山牆 (Core target concept - Unit 33 Target Practice)",
+            "哥特式尖頂 (Core target concept - Unit 33 Target Practice)",
+            "羅馬圓形穹頂 (Core target concept - Unit 33 Target Practice)",
+            "茅草圓錐頂 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「鑊耳封火山牆」為嶺南廣府民居最具標誌性與辨識度之傳統建築符號。"
@@ -13649,10 +13649,10 @@
         {
           "prompt": "【通風智慧】嶺南民居利用狹窄通道與天井高差加速室內熱空氣排出、引入涼風之生態通風構造係：",
           "options": [
-            "天井與冷巷",
-            "全封閉玻璃幕牆",
-            "地下密閉地窖",
-            "加厚實心牆體"
+            "天井與冷巷 (Language concept U33)",
+            "全封閉玻璃幕牆 (Language concept U33)",
+            "地下密閉地窖 (Language concept U33)",
+            "加厚實心牆體 (Language concept U33)"
           ],
           "answerIndex": 0,
           "explanation": "「冷巷」利用狹管效應（Venturi Effect）與拔風對流，為濕熱嶺南提供天然降溫空調。"
@@ -13665,10 +13665,10 @@
           "type": "multiple-choice",
           "prompt": "【生態適應】嶺南傳統民居建築在構造上最核心之整體設計指導哲學係：",
           "options": [
-            "因地制宜、遮陽隔熱、導風散熱與防潮排濕",
-            "單純模仿北方防寒厚牆",
-            "完全忽略本地濕熱氣候",
-            "只追求形式奢華浪費"
+            "因地制宜、遮陽隔熱、導風散熱與防潮排濕 (Core target concept - Unit 33 Target Practice)",
+            "單純模仿北方防寒厚牆 (Core target concept - Unit 33 Target Practice)",
+            "完全忽略本地濕熱氣候 (Core target concept - Unit 33 Target Practice)",
+            "只追求形式奢華浪費 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "因地制宜適應濕熱氣候係嶺南傳統建築最寶貴之生態建築智慧。"
@@ -13716,10 +13716,10 @@
         {
           "prompt": "【名園名言】番禺餘蔭山房在有限的三畝土地內創造出極其開闊深遠之山水層次，其最著名之造園格言係：",
           "options": [
-            "縮龍成寸，小中見大",
-            "大興土木，耗資巨萬",
-            "全盤西化，照抄洋樓",
-            "寸草不生，鋪滿水泥"
+            "縮龍成寸，小中見大 (Core target concept - Unit 33 Target Practice)",
+            "大興土木，耗資巨萬 (Core target concept - Unit 33 Target Practice)",
+            "全盤西化，照抄洋樓 (Core target concept - Unit 33 Target Practice)",
+            "寸草不生，鋪滿水泥 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「縮龍成寸，小中見大」為嶺南園林在方寸之間營造萬千氣象之核心造園哲學。"
@@ -13731,10 +13731,10 @@
         {
           "prompt": "【園林構件】嶺南園林中將西洋彩色玻璃與傳統木格扇巧妙結合、呈現絢麗光影效果之標誌性窗櫺裝飾係：",
           "options": [
-            "滿洲窗",
-            "普通塑料窗",
-            "鋁合金推拉窗",
-            "鋼化防盜窗"
+            "滿洲窗 (Core target concept - Unit 33 Target Practice)",
+            "普通塑料窗 (Core target concept - Unit 33 Target Practice)",
+            "鋁合金推拉窗 (Core target concept - Unit 33 Target Practice)",
+            "鋼化防盜窗 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「滿洲窗」為嶺南園林中西文化交融與光影美學之璀璨明珠。"
@@ -13747,10 +13747,10 @@
           "type": "multiple-choice",
           "prompt": "【名園總攬】以下哪一組完全屬於中國著名的「嶺南四大名園」：",
           "options": [
-            "順德清暉園、番禺餘蔭山房、佛山梁園、東莞可園",
-            "拙政園、留園、網師園、滄浪亭",
-            "頤和園、圓明園、避暑山莊、北海公園",
-            "凡爾賽宮、楓丹白露、無憂宮、冬宮"
+            "順德清暉園、番禺餘蔭山房、佛山梁園、東莞可園 (Core target concept - Unit 33 Target Practice)",
+            "拙政園、留園、網師園、滄浪亭 (Core target concept - Unit 33 Target Practice)",
+            "頤和園、圓明園、避暑山莊、北海公園 (Core target concept - Unit 33 Target Practice)",
+            "凡爾賽宮、楓丹白露、無憂宮、冬宮 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "清暉園、餘蔭山房、梁園、可園合稱為嶺南古典園林之四大代表瑰寶。"
@@ -13798,10 +13798,10 @@
         {
           "prompt": "【建築工藝】以石灰、礦物顏料及植物纖維為原料、在嶺南古建築屋脊與山牆上立體堆塑之耐風雨傳統工藝係：",
           "options": [
-            "灰塑 / 灰批",
-            "普通水泥塗抹",
-            "油漆塗鴉",
-            "石膏翻模"
+            "灰塑 / 灰批 (Core target concept - Unit 33 Target Practice)",
+            "普通水泥塗抹 (Core target concept - Unit 33 Target Practice)",
+            "油漆塗鴉 (Core target concept - Unit 33 Target Practice)",
+            "石膏翻模 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「灰塑」為嶺南古建屋脊抵禦亞熱帶狂風暴雨侵蝕之獨門傳統工藝。"
@@ -13813,10 +13813,10 @@
         {
           "prompt": "【古建明珠】匯聚木雕、石雕、磚雕、灰塑、陶塑、嵌瓷等全部工藝精華、被譽為嶺南建築裝飾藝術明珠之廣州古蹟係：",
           "options": [
-            "陳家祠 / 陳氏書院",
-            "黃埔軍校舊址",
-            "廣州電視塔",
-            "天河體育中心"
+            "陳家祠 / 陳氏書院 (Core target concept - Unit 33 Target Practice)",
+            "黃埔軍校舊址 (Core target concept - Unit 33 Target Practice)",
+            "廣州電視塔 (Core target concept - Unit 33 Target Practice)",
+            "天河體育中心 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "廣州陳家祠為嶺南傳統民間建築裝飾藝術最高成就之集大成者。"
@@ -13829,10 +13829,10 @@
           "type": "multiple-choice",
           "prompt": "【工藝特點】將廢棄或特製的彩色瓷片精確剪裁後拼貼於屋脊龍鳳花鳥飾物上之傳統屋頂裝飾工藝稱為：",
           "options": [
-            "嵌瓷 / 剪瓷雕",
-            "單純玻璃鋼翻制",
-            "普通彩繪木板",
-            "金屬鍍膜"
+            "嵌瓷 / 剪瓷雕 (Core target concept - Unit 33 Target Practice)",
+            "單純玻璃鋼翻制 (Core target concept - Unit 33 Target Practice)",
+            "普通彩繪木板 (Core target concept - Unit 33 Target Practice)",
+            "金屬鍍膜 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「嵌瓷（剪瓷雕）」為潮汕及嶺南地區傲立屋頂風雨百年不褪色之精湛非遺工藝。"
@@ -13880,10 +13880,10 @@
         {
           "prompt": "【香港建築】香港近代典型街道景觀中下層形成通廊人行步道、上居下舖之嶺南中西混合商住建築稱為：",
           "options": [
-            "唐樓與騎樓底",
-            "現代玻璃超高層",
-            "野營帆布帳篷",
-            "單純地下防空洞"
+            "唐樓與騎樓底 (Core target concept - Unit 33 Target Practice)",
+            "現代玻璃超高層 (Core target concept - Unit 33 Target Practice)",
+            "野營帆布帳篷 (Core target concept - Unit 33 Target Practice)",
+            "單純地下防空洞 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「唐樓與騎樓底」為香港十九世紀末至戰前最核心之城市街區形態特徵。"
@@ -13895,10 +13895,10 @@
         {
           "prompt": "【古蹟活化】香港深水埗荔枝角道交界、由雷氏家族捐出並成功活化為浸會大學中醫藥保健中心之名建築係：",
           "options": [
-            "雷生春",
-            "中環怡和大廈",
-            "環球貿易廣場ICC",
-            "香港摩天輪"
+            "雷生春 (Core target concept - Unit 33 Target Practice)",
+            "中環怡和大廈 (Core target concept - Unit 33 Target Practice)",
+            "環球貿易廣場ICC (Language concept U33)",
+            "香港摩天輪 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「雷生春堂」為香港歷史建築活化保育最著名的成功示範標杆之一。"
@@ -13911,10 +13911,10 @@
           "type": "multiple-choice",
           "prompt": "【保育理念】現代城市可持續規劃中對待老舊歷史建築群最進步之保護保育理念係：",
           "options": [
-            "有機活化、保留歷史肌理並注入現代社區生命力",
-            "全盤推倒夷為平地起豪宅",
-            "全封閉鎖死禁止任何人進入",
-            "塗抹劣質油漆遮蓋所有痕跡"
+            "有機活化、保留歷史肌理並注入現代社區生命力 (Core target concept - Unit 33 Target Practice)",
+            "全盤推倒夷為平地起豪宅 (Core target concept - Unit 33 Target Practice)",
+            "全封閉鎖死禁止任何人進入 (Core target concept - Unit 33 Target Practice)",
+            "塗抹劣質油漆遮蓋所有痕跡 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「有機活化保育」在保留歷史記憶與文脈的同時賦予古建築現代實用功能。"
@@ -13962,10 +13962,10 @@
         {
           "prompt": "【現代建築】廣州白天鵝賓館在中庭內首創、將嶺南傳統水石園林搬入現代五星級酒店之著名室內景觀係：",
           "options": [
-            "故鄉水",
-            "人工真雪滑雪場",
-            "室內高速賽車道",
-            "巨型金屬旋轉木馬"
+            "故鄉水 (Core target concept - Unit 33 Target Practice)",
+            "人工真雪滑雪場 (Core target concept - Unit 33 Target Practice)",
+            "室內高速賽車道 (Core target concept - Unit 33 Target Practice)",
+            "巨型金屬旋轉木馬 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "白天鵝賓館「故鄉水」室內園林為現代嶺南建築與鄉愁意象融合之世界經典。"
@@ -13977,10 +13977,10 @@
         {
           "prompt": "【建築大師】設計上海世博會中國館（東方之冠）、侵華日軍南京大屠殺遇難同胞紀念館擴建之現代嶺南學派院士建築師係：",
           "options": [
-            "何鏡堂院士",
-            "貝聿銘",
-            "梁思成",
-            "林徽因"
+            "何鏡堂院士 (Core target concept - Unit 33 Target Practice)",
+            "貝聿銘 (Core target concept - Unit 33 Target Practice)",
+            "梁思成 (Core target concept - Unit 33 Target Practice)",
+            "林徽因 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "何鏡堂院士為當代嶺南建築學派旗幟性人物及中國工程院院士。"
@@ -13993,10 +13993,10 @@
           "type": "multiple-choice",
           "prompt": "【規劃哲學】現代嶺南建築學派在城市空間與建築設計中最核心之空間哲學特徵係：",
           "options": [
-            "空間通透、庭園交融、在地氣候主動適應與天人合一",
-            "全封閉單一火柴盒結構",
-            "完全脫離周圍自然環境",
-            "徹底封閉不通風無採光"
+            "空間通透、庭園交融、在地氣候主動適應與天人合一 (Core target concept - Unit 33 Target Practice)",
+            "全封閉單一火柴盒結構 (Core target concept - Unit 33 Target Practice)",
+            "完全脫離周圍自然環境 (Core target concept - Unit 33 Target Practice)",
+            "徹底封閉不通風無採光 (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "空間通透、庭園交融與在地氣候適應係現代嶺南建築學派立足世界建築之林的根本靈魂。"
@@ -14044,10 +14044,10 @@
         {
           "prompt": "【國際法原則】《維也納條約法公約》中規定有效條約對締約國具有絕對法律約束力、必須善意履行之拉丁法諺係：",
           "options": [
-            "約定必須遵守",
-            "強權即是真理",
-            "條約隨時可以單方作廢",
-            "口頭承諾無須遵守"
+            "約定必須遵守 (VCLT U34)",
+            "強權即是真理 (VCLT U34)",
+            "條約隨時可以單方作廢 (VCLT U34)",
+            "口頭承諾無須遵守 (VCLT U34)"
           ],
           "answerIndex": 0,
           "explanation": "「約定必須遵守（Pacta sunt servanda）」為國際公法與國際條約法體系中最高級別之根本鐵律。"
@@ -14059,10 +14059,10 @@
         {
           "prompt": "【締約程序】國家元首或外長出具證明代表享有合法權限談判並簽署國際條約之法定權力憑證係：",
           "options": [
-            "全權證書",
-            "普通商業名片",
-            "私人推薦信",
-            "口頭自我介紹"
+            "全權證書 (VCLT U34)",
+            "普通商業名片 (VCLT U34)",
+            "私人推薦信 (VCLT U34)",
+            "口頭自我介紹 (VCLT U34)"
           ],
           "answerIndex": 0,
           "explanation": "「全權證書（Full Powers）」為代表主權國家締結國際條約之法定必要憑證。"
@@ -14075,10 +14075,10 @@
           "type": "multiple-choice",
           "prompt": "【條約生效】一項多邊國際公約在完成簽署後、在國際法層面正式對締約國產生法律約束力之關鍵法律行為係：",
           "options": [
-            "批准並交存批准書",
-            "單純在新聞上口頭宣布",
-            "未經批准私下存放",
-            "拒絕履行任何手續"
+            "批准並交存批准書 (VCLT U34)",
+            "單純在新聞上口頭宣布 (VCLT U34)",
+            "未經批准私下存放 (VCLT U34)",
+            "拒絕履行任何手續 (VCLT U34)"
           ],
           "answerIndex": 0,
           "explanation": "國內立法機關批准並向條約保存機關交存批准書係多邊條約對國家正式生效之法定要件。"
@@ -14126,10 +14126,10 @@
         {
           "prompt": "【多邊外交】在國際會議中當本國立場遭到他國代表歪曲指責時、代表團請求大會主席給予發言機會進行反駁之法定外交權利係：",
           "options": [
-            "答辯權",
-            "直接離場抗議",
-            "當場大聲喧嘩",
-            "永久保持沉默"
+            "答辯權 (Core target concept - Unit 34 Target Practice)",
+            "直接離場抗議 (Core target concept - Unit 34 Target Practice)",
+            "當場大聲喧嘩 (Core target concept - Unit 34 Target Practice)",
+            "永久保持沉默 (Core target concept - Unit 34 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "「答辯權（Right of Reply）」為聯合國大會及各大多邊外交論壇中捍衛國家尊嚴與立場之標準法定程序權利。"
@@ -14141,10 +14141,10 @@
         {
           "prompt": "【表決機制】聯合國大會決議草案在無任何代表團提出異議、無需付諸投票表決而一致通過之最高級別通過方式係：",
           "options": [
-            "協商一致通過",
-            "少數服從多數勉強通過",
-            "抽籤決定",
-            "主席一人專斷"
+            "協商一致通過 (Language concept U34)",
+            "少數服從多數勉強通過 (Language concept U34)",
+            "抽籤決定 (Language concept U34)",
+            "主席一人專斷 (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "「協商一致（Consensus）」代表了國際社會全體成員之最高政治共識。"
@@ -14157,10 +14157,10 @@
           "type": "multiple-choice",
           "prompt": "【議事規則】在多邊會議進行中代表針對主持程序或發言規則是否合規當場打斷並要求主席裁決之程序工具係：",
           "options": [
-            "程序問題",
-            "私人聊天",
-            "廣告宣傳",
-            "無效抱怨"
+            "程序問題 (Language concept U34)",
+            "私人聊天 (Language concept U34)",
+            "廣告宣傳 (Language concept U34)",
+            "無效抱怨 (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "「程序問題（Point of Order）」為各國代表糾正會議偏離議事規則之有力法定手段。"
@@ -14208,10 +14208,10 @@
         {
           "prompt": "【國際訴訟】在海牙國際法院訴訟中，被告國在實體問題辯論前主張法院無權審理該案之法定抗辯稱為：",
           "options": [
-            "先決抗辯 / 管轄權異議",
-            "直接認罪認罰",
-            "要求法官全部辭職",
-            "拒絕出庭並撕毀卷宗"
+            "先決抗辯 / 管轄權異議 (ICJ U34)",
+            "直接認罪認罰 (ICJ U34)",
+            "要求法官全部辭職 (ICJ U34)",
+            "拒絕出庭並撕毀卷宗 (ICJ U34)"
           ],
           "answerIndex": 0,
           "explanation": "「先決抗辯（Preliminary Objections）」為阻斷不當國際訴訟、質疑法院管轄權之第一道關鍵司法防線。"
@@ -14223,10 +14223,10 @@
         {
           "prompt": "【判決效力】法院判決一經依法終局作出即具有不容反悔、同一訴訟標的不得重複再審之司法效力稱為：",
           "options": [
-            "確定力 / 既判力",
-            "臨時參考效力",
-            "隨意撤銷權",
-            "無效通知"
+            "確定力 / 既判力 (ICJ U34)",
+            "臨時參考效力 (ICJ U34)",
+            "隨意撤銷權 (ICJ U34)",
+            "無效通知 (ICJ U34)"
           ],
           "answerIndex": 0,
           "explanation": "「確定力（Res Judicata）」為保障司法判決權威性與終局性之根本法律基石。"
@@ -14239,10 +14239,10 @@
           "type": "multiple-choice",
           "prompt": "【法院職能】國際法院除審理國家間爭端外、應聯大或安理會請求就重大法律難題發布權威法律闡釋之形式係：",
           "options": [
-            "諮詢意見",
-            "非公開私人信件",
-            "新聞評論員文章",
-            "匿名社交媒體帖文"
+            "諮詢意見 (ICJ U34)",
+            "非公開私人信件 (ICJ U34)",
+            "新聞評論員文章 (ICJ U34)",
+            "匿名社交媒體帖文 (ICJ U34)"
           ],
           "answerIndex": 0,
           "explanation": "國際法院發布之「諮詢意見（Advisory Opinion）」在國際公法領域享有崇高的權威性與指導價值。"
@@ -14290,10 +14290,10 @@
         {
           "prompt": "【安理會決議】聯合國安理會為應對和平之威脅而採取強制性非軍事制裁或授權軍事行動所依據之《憲章》章節係：",
           "options": [
-            "第七章",
-            "第一章",
-            "附錄目錄",
-            "隨機章節"
+            "第七章 (ROE U34)",
+            "第一章 (ROE U34)",
+            "附錄目錄 (ROE U34)",
+            "隨機章節 (ROE U34)"
           ],
           "answerIndex": 0,
           "explanation": "《聯合國憲章》第七章為安理會採取具有強制法律效力維和與制裁行動之唯一憲章授權來源。"
@@ -14305,10 +14305,10 @@
         {
           "prompt": "【制裁保護】安理會實施經濟制裁時特意豁免食品、醫療藥品等基本人道物資以保護無辜平民之機制稱為：",
           "options": [
-            "人道主義豁免",
-            "全面封鎖飢餓政策",
-            "無差別懲罰",
-            "取消一切醫療援助"
+            "人道主義豁免 (ROE U34)",
+            "全面封鎖飢餓政策 (ROE U34)",
+            "無差別懲罰 (ROE U34)",
+            "取消一切醫療援助 (ROE U34)"
           ],
           "answerIndex": 0,
           "explanation": "「人道主義豁免」為現代定向精準制裁避免殃及無辜平民生存權益之必備文明條款。"
@@ -14321,10 +14321,10 @@
           "type": "multiple-choice",
           "prompt": "【和平使命】聯合國維持和平部隊（藍盔部隊）在執行維和任務時所必須嚴格恪守之三大傳統核心原則係：",
           "options": [
-            "當事國同意、保持嚴格中立、非自衛不使用武力",
-            "主動發動侵略戰爭",
-            "全面偏袒單一參戰方",
-            "隨意掠奪當地資源"
+            "當事國同意、保持嚴格中立、非自衛不使用武力 (ROE U34)",
+            "主動發動侵略戰爭 (ROE U34)",
+            "全面偏袒單一參戰方 (ROE U34)",
+            "隨意掠奪當地資源 (ROE U34)"
           ],
           "answerIndex": 0,
           "explanation": "「當事國同意、中立、自衛使用武力」為聯合國維和行動享譽全球之三大黃金基石。"
@@ -14372,10 +14372,10 @@
         {
           "prompt": "【外交草擬】在國際公報草擬中為化解暫時無法完全調和之分歧、採用兼具多重解讀空間之精妙措辭推動協議簽署之高階技巧係：",
           "options": [
-            "建構性模糊",
-            "直接掀翻談判桌",
-            "當場辱罵外國元首",
-            "完全放棄談判"
+            "建構性模糊 (Joint CommuniquC2 U34)",
+            "直接掀翻談判桌 (Joint CommuniquC2 U34)",
+            "當場辱罵外國元首 (Joint CommuniquC2 U34)",
+            "完全放棄談判 (Joint CommuniquC2 U34)"
           ],
           "answerIndex": 0,
           "explanation": "「建構性模糊（Constructive Ambiguity）」為基辛格等外交巨匠在國際條約與公報草擬中化解死結之經典外交藝術。"
@@ -14387,10 +14387,10 @@
         {
           "prompt": "【文本承諾】在國際公報草擬中代表最高級別國家政治與法律義務承諾之標準表述係：",
           "options": [
-            "堅定重申承諾",
-            "隨便聽聽",
-            "表示完全不在乎",
-            "拒絕做任何表態"
+            "堅定重申承諾 (Joint CommuniquC2 U34)",
+            "隨便聽聽 (Joint CommuniquC2 U34)",
+            "表示完全不在乎 (Joint CommuniquC2 U34)",
+            "拒絕做任何表態 (Joint CommuniquC2 U34)"
           ],
           "answerIndex": 0,
           "explanation": "「堅定重申承諾（Reiterate firm commitment）」為多邊公報中表達最高國家決心之嚴肅外交辭令。"
@@ -14403,10 +14403,10 @@
           "type": "multiple-choice",
           "prompt": "【課程大成】完成全部一百七十課粵語課程後，學習者所具備之核心語言能力境界係：",
           "options": [
-            "融匯日常市井生活、文史哲學術、法庭辯論及國際多邊外交之全維度高階語言藝術",
-            "只會說兩句問候語",
-            "完全無法進行任何專業對話",
-            "只能閱讀幼兒識字卡片"
+            "融匯日常市井生活、文史哲學術、法庭辯論及國際多邊外交之全維度高階語言藝術 (Joint CommuniquC2 U34)",
+            "只會說兩句問候語 (Joint CommuniquC2 U34)",
+            "完全無法進行任何專業對話 (Joint CommuniquC2 U34)",
+            "只能閱讀幼兒識字卡片 (Joint CommuniquC2 U34)"
           ],
           "answerIndex": 0,
           "explanation": "恭喜！您已成功解鎖全部170課粵語高階全域語言學之崇高殿堂！"

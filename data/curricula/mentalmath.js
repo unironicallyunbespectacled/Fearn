@@ -165,10 +165,10 @@
           "type": "multiple-choice",
           "prompt": "Why is adding tens-before-ones (left to right) usually faster in your head than the school column method?",
           "options": [
-            "It isn't faster, it just looks different",
-            "It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer",
-            "It only works for even numbers",
-            "It requires writing the numbers down first"
+            "It isn't faster, it just looks different (Add two twodigit numbers mentally in under 5 seconds with full accuracy (U1))",
+            "It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer (Add two twodigit numbers mentally in under 5 seconds with full accuracy (U1))",
+            "It only works for even numbers (Add two twodigit numbers mentally in under 5 seconds with full accuracy (U1))",
+            "It requires writing the numbers down first (Add two twodigit numbers mentally in under 5 seconds with full accuracy (U1))"
           ],
           "answer": "It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer",
           "difficulty": 560,
@@ -234,10 +234,10 @@
           "type": "multiple-choice",
           "prompt": "In the compensation technique, after rounding the subtrahend UP and subtracting, what do you do next?",
           "options": [
-            "Subtract the rounding amount again",
-            "Add the rounding amount back",
-            "Multiply by the rounding amount",
-            "Nothing — the rounded answer is already correct"
+            "Subtract the rounding amount again (Subtract two twodigit numbers mentally using the compensation technique (U1))",
+            "Add the rounding amount back (Subtract two twodigit numbers mentally using the compensation technique (U1))",
+            "Multiply by the rounding amount (Subtract two twodigit numbers mentally using the compensation technique (U1))",
+            "Nothing — the rounded answer is already correct (Subtract two twodigit numbers mentally using the compensation technique (U1))"
           ],
           "answer": "Add the rounding amount back",
           "difficulty": 580,
@@ -303,10 +303,10 @@
           "type": "multiple-choice",
           "prompt": "When adding a long column of single digits mentally, what should you scan for first?",
           "options": [
-            "The largest number in the list",
-            "Pairs of digits that add up to exactly 10",
-            "The smallest number in the list",
-            "Numbers that are already even"
+            "The largest number in the list (Add a column of three or more singledigit numbers by grouping to make tens (U1))",
+            "Pairs of digits that add up to exactly 10 (Add a column of three or more singledigit numbers by grouping to make tens (U1))",
+            "The smallest number in the list (Add a column of three or more singledigit numbers by grouping to make tens (U1))",
+            "Numbers that are already even (Add a column of three or more singledigit numbers by grouping to make tens (U1))"
           ],
           "answer": "Pairs of digits that add up to exactly 10",
           "difficulty": 580,
@@ -372,10 +372,10 @@
           "type": "multiple-choice",
           "prompt": "For three-digit compensation subtraction (like 523 - 268), what do you round the second number to?",
           "options": [
-            "The nearest ten",
-            "The nearest hundred",
-            "The nearest thousand",
-            "You never round three-digit numbers"
+            "The nearest ten (Add and subtract threedigit numbers using lefttoright calculation (U1))",
+            "The nearest hundred (Add and subtract threedigit numbers using lefttoright calculation (U1))",
+            "The nearest thousand (Add and subtract threedigit numbers using lefttoright calculation (U1))",
+            "You never round three-digit numbers (Add and subtract threedigit numbers using lefttoright calculation (U1))"
           ],
           "answer": "The nearest hundred",
           "difficulty": 620,
@@ -522,10 +522,10 @@
           "type": "multiple-choice",
           "prompt": "Using the 9s trick, what is the tens digit of 9x4?",
           "options": [
-            "9",
-            "4",
-            "3",
-            "5"
+            "9 (Recall all singledigit multiplication facts 110 instantly without counting (U2))",
+            "4 (Recall all singledigit multiplication facts 110 instantly without counting (U2))",
+            "3 (Recall all singledigit multiplication facts 110 instantly without counting (U2))",
+            "5 (Recall all singledigit multiplication facts 110 instantly without counting (U2))"
           ],
           "answer": "3",
           "difficulty": 590,
@@ -598,10 +598,10 @@
           "type": "multiple-choice",
           "prompt": "What is the fastest way to solve 72 / 8 mentally?",
           "options": [
-            "Count down from 72 by 8s until you reach 0",
-            "Recognize 72 as the product 8x9 and read off the missing factor",
-            "It can't be solved without a calculator",
-            "Divide 72 by 2 four times"
+            "Count down from 72 by 8s until you reach 0 (Recall singledigit division facts as the inverse of multiplication facts (U2))",
+            "Recognize 72 as the product 8x9 and read off the missing factor (Recall singledigit division facts as the inverse of multiplication facts (U2))",
+            "It can't be solved without a calculator (Recall singledigit division facts as the inverse of multiplication facts (U2))",
+            "Divide 72 by 2 four times (Recall singledigit division facts as the inverse of multiplication facts (U2))"
           ],
           "answer": "Recognize 72 as the product 8x9 and read off the missing factor",
           "difficulty": 600,
@@ -674,10 +674,10 @@
           "type": "multiple-choice",
           "prompt": "To multiply 62 x 8 by place-value decomposition, which two easier products do you add together?",
           "options": [
-            "6x8 and 2x8",
-            "60x8 and 2x8",
-            "62x8 directly, no splitting needed",
-            "60x8 and 20x8"
+            "6x8 and 2x8 (Multiply a twodigit number by a single digit using placevalue decomposition (U2))",
+            "60x8 and 2x8 (Multiply a twodigit number by a single digit using placevalue decomposition (U2))",
+            "62x8 directly, no splitting needed (Multiply a twodigit number by a single digit using placevalue decomposition (U2))",
+            "60x8 and 20x8 (Multiply a twodigit number by a single digit using placevalue decomposition (U2))"
           ],
           "answer": "60x8 and 2x8",
           "difficulty": 620,
@@ -750,10 +750,10 @@
           "type": "multiple-choice",
           "prompt": "When chunking 168 / 8, which chunk makes the division easiest?",
           "options": [
-            "100, leaving 68",
-            "160, leaving 8",
-            "80, leaving 88",
-            "8, leaving 160"
+            "100, leaving 68 (Divide a two or threedigit number by a single digit mentally using chunking (U2))",
+            "160, leaving 8 (Divide a two or threedigit number by a single digit mentally using chunking (U2))",
+            "80, leaving 88 (Divide a two or threedigit number by a single digit mentally using chunking (U2))",
+            "8, leaving 160 (Divide a two or threedigit number by a single digit mentally using chunking (U2))"
           ],
           "answer": "160, leaving 8",
           "difficulty": 650,
@@ -893,10 +893,10 @@
           "type": "multiple-choice",
           "prompt": "When multiplying a two-digit number by 11, when do you need the \"carry\" step?",
           "options": [
-            "Whenever the number is even",
-            "Whenever the two digits sum to 10 or more",
-            "Whenever the first digit is bigger than the second",
-            "Every single time, with no exceptions"
+            "Whenever the number is even (Multiply any twodigit number by 11 using the add the digits shortcut (U3))",
+            "Whenever the two digits sum to 10 or more (Multiply any twodigit number by 11 using the add the digits shortcut (U3))",
+            "Whenever the first digit is bigger than the second (Multiply any twodigit number by 11 using the add the digits shortcut (U3))",
+            "Every single time, with no exceptions (Multiply any twodigit number by 11 using the add the digits shortcut (U3))"
           ],
           "answer": "Whenever the two digits sum to 10 or more",
           "difficulty": 690,
@@ -962,10 +962,10 @@
           "type": "multiple-choice",
           "prompt": "Why does halving an odd number before \"shifting\" still give a clean whole-number answer with no extra rounding step?",
           "options": [
-            "It does not — odd numbers always require a separate correction",
-            "A trailing .5, shifted one decimal place, always becomes a trailing 5",
-            "Odd numbers are rounded up automatically by the shortcut",
-            "The shortcut only works for even numbers"
+            "It does not — odd numbers always require a separate correction (Multiply any number by 5 using the halveandshift shortcut (U3))",
+            "A trailing .5, shifted one decimal place, always becomes a trailing 5 (Multiply any number by 5 using the halveandshift shortcut (U3))",
+            "Odd numbers are rounded up automatically by the shortcut (Multiply any number by 5 using the halveandshift shortcut (U3))",
+            "The shortcut only works for even numbers (Multiply any number by 5 using the halveandshift shortcut (U3))"
           ],
           "answer": "A trailing .5, shifted one decimal place, always becomes a trailing 5",
           "difficulty": 690,
@@ -1038,10 +1038,10 @@
           "type": "multiple-choice",
           "prompt": "Why does \"multiply by 10, then subtract the number once\" work exactly (not approximately) for multiplying by 9?",
           "options": [
-            "It is only an approximation and needs rounding afterward",
-            "Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1",
-            "It only works for even numbers",
-            "It works by coincidence for small numbers only"
+            "It is only an approximation and needs rounding afterward (Multiply any number by 9 using the x10 then subtract shortcut (U3))",
+            "Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1 (Multiply any number by 9 using the x10 then subtract shortcut (U3))",
+            "It only works for even numbers (Multiply any number by 9 using the x10 then subtract shortcut (U3))",
+            "It is limited to single-digit additions only (Multiply any number by 9 using the x10 then subtract shortcut (U3))"
           ],
           "answer": "Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1",
           "difficulty": 700,
@@ -1112,10 +1112,10 @@
           "type": "multiple-choice",
           "prompt": "How many times do you halve a number to divide it by 8?",
           "options": [
-            "Once",
-            "Twice",
-            "Three times",
-            "Four times"
+            "Once (Multiply by 4 (U3))",
+            "Twice (Multiply by 4 (U3))",
+            "Three times (Multiply by 4 (U3))",
+            "Four times (Multiply by 4 (U3))"
           ],
           "answer": "Three times",
           "difficulty": 700,
@@ -1238,10 +1238,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 1, what is the exact result?",
           "options": [
-            "2,050",
-            "1,825",
-            "2,525",
-            "2,025"
+            "2,050 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "1,825 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "2,525 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "2,025 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 3,
           "explanation": "4 x (4 + 1) = 4 x 5 = 20 -> append 25 = 2,025."
@@ -1249,10 +1249,10 @@
         {
           "prompt": "What is 75²?",
           "options": [
-            "5,825",
-            "4,925",
-            "5,625",
-            "5,425"
+            "5,825 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "4,925 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "5,625 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "5,425 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 2,
           "explanation": "7 x 8 = 56 -> append 25 = 5,625."
@@ -1260,10 +1260,10 @@
         {
           "prompt": "What algebraic formula explains why this shortcut works?",
           "options": [
-            "(10a - 5)² = 100a² - 25",
-            "(10a + 5)² = 100a(a + 1) + 25",
-            "a² + 2ab + b² = 0",
-            "(a + b)² = a² + b²"
+            "10a - 5² = 100a² - 25 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "10a + 5² = 100aa + 1 + 25 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "a² + 2ab + b² = 0 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "a + b² = a² + b² (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 1,
           "explanation": "100a(a + 1) + 25 proves that the front is always a*(a+1) and the end is 25."
@@ -1275,10 +1275,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 4, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "7,425",
-            "6,425",
-            "8,125",
-            "7,225"
+            "7,425 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "6,425 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "8,125 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "7,225 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 3,
           "explanation": "8 x 9 = 72 -> append 25 = 7,225."
@@ -1286,10 +1286,10 @@
         {
           "prompt": "Calculate 95²:",
           "options": [
-            "9,125",
-            "8,525",
-            "9,025",
-            "9,525"
+            "9,125 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "8,525 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "9,025 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "9,525 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 2,
           "explanation": "9 x 10 = 90 -> append 25 = 9,025."
@@ -1301,10 +1301,10 @@
         {
           "prompt": "What is 65²?",
           "options": [
-            "4,025",
-            "4,225",
-            "4,525",
-            "3,625"
+            "4,025 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "4,225 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "4,525 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "3,625 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 1,
           "explanation": "6 x 7 = 42 -> 4,225.",
@@ -1313,10 +1313,10 @@
         {
           "prompt": "What is 105²?",
           "options": [
-            "11,025",
-            "10,025",
-            "12,025",
-            "10,525"
+            "11,025 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "10,025 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "12,025 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "10,525 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 0,
           "explanation": "10 x 11 = 110 -> 11,025.",
@@ -1325,10 +1325,10 @@
         {
           "prompt": "Every square of a whole number ending in 5 MUST end in which two digits?",
           "options": [
-            "05",
-            "75",
-            "50",
-            "25"
+            "05 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "75 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "50 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "25 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 3,
           "explanation": "5² = 25, which occupies the tens and ones place in the expanded formula.",
@@ -1337,10 +1337,10 @@
         {
           "prompt": "What is 35²?",
           "options": [
-            "925",
-            "1,125",
-            "1,225",
-            "1,525"
+            "925 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "1,125 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "1,225 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "1,525 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 2,
           "explanation": "3 x 4 = 12 -> 1,225.",
@@ -1349,10 +1349,10 @@
         {
           "prompt": "What is 55²?",
           "options": [
-            "3,525",
-            "3,025",
-            "3,225",
-            "2,525"
+            "3,525 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "3,025 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "3,225 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))",
+            "2,525 (Instantly square any twodigit number ending in 5 using the a  a  1 append 25 algebraic rule in under 2 seconds without pen or paper (U4))"
           ],
           "answerIndex": 1,
           "explanation": "5 x 6 = 30 -> 3,025.",
@@ -1395,10 +1395,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 2, what is the exact result?",
           "options": [
-            "(50 x 46) + 2² = 2,300 + 4 = 2,304",
-            "(40 x 56) + 8² = 2,240 + 64 = 2,304",
-            "40² + 8² = 1,664",
-            "(48 x 40) + 8 = 1,928"
+            "50 x 46 + 2² = 2,300 + 4 = 2,304 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "40 x 56 + 8² = 2,240 + 64 = 2,304 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "40² + 8² = 1,664 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "48 x 40 + 8 = 1,928 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Anchoring to 50 with d=2 gives (50 x 46) + 4 = 2,304."
@@ -1406,10 +1406,10 @@
         {
           "prompt": "What is 52² calculated mentally?",
           "options": [
-            "2,704 ((50 x 54) + 4 = 2,700 + 4)",
-            "2,604",
-            "2,804",
-            "2,725"
+            "2,704 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "2,604 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "2,804 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "2,725 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "(50 x 54) + 2² = 2,700 + 4 = 2,704."
@@ -1417,10 +1417,10 @@
         {
           "prompt": "What is 29²?",
           "options": [
-            "841 ((30 x 28) + 1² = 840 + 1)",
-            "821",
-            "901",
-            "861"
+            "841 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "821 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "901 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "861 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "(30 x 28) + 1 = 840 + 1 = 841."
@@ -1432,10 +1432,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 4, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "1,541",
-            "1,481",
-            "1,601",
-            "1,521 ((40 x 38) + 1 = 1,520 + 1)"
+            "1,541 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "1,481 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "1,601 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "1,521 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "40 x 38 = 1,520; + 1 = 1,521."
@@ -1443,10 +1443,10 @@
         {
           "prompt": "Calculate 71²:",
           "options": [
-            "5,021",
-            "4,941",
-            "5,141",
-            "5,041 ((70 x 72) + 1 = 5,040 + 1)"
+            "5,021 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "4,941 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "5,141 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "5,041 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "70 x 72 = 5,040; + 1 = 5,041."
@@ -1458,10 +1458,10 @@
         {
           "prompt": "What is 31²?",
           "options": [
-            "961 ((30 x 32) + 1 = 960 + 1)",
-            "991",
-            "941",
-            "931"
+            "961 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "991 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "941 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "931 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "(30 x 32) + 1 = 960 + 1 = 961.",
@@ -1470,10 +1470,10 @@
         {
           "prompt": "What is 49²?",
           "options": [
-            "2,451",
-            "2,391",
-            "2,501",
-            "2,401 ((50 x 48) + 1 = 2,400 + 1)"
+            "2,451 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "2,391 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "2,501 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "2,401 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "(50 x 48) + 1 = 2,400 + 1 = 2,401.",
@@ -1482,10 +1482,10 @@
         {
           "prompt": "What is 62²?",
           "options": [
-            "3,744",
-            "3,864",
-            "3,844 ((60 x 64) + 4 = 3,840 + 4)",
-            "3,824"
+            "3,744 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "3,864 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "3,844 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "3,824 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 2,
           "explanation": "(60 x 64) + 4 = 3,840 + 4 = 3,844.",
@@ -1494,10 +1494,10 @@
         {
           "prompt": "What is the primary benefit of the difference-of-squares squaring shortcut?",
           "options": [
-            "It only works on odd numbers",
-            "It turns a 2-digit multiplication into a 1-digit multiplication by 10 plus a small square",
-            "It eliminates all carrying entirely",
-            "It gives an approximate answer within 10%"
+            "It only works on odd numbers (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "It turns a 2-digit multiplication into a 1-digit multiplication by 10 plus a small square (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "It eliminates all carrying entirely (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "It gives an approximate answer within 10% (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Multiplying by a round multiple of 10 collapses mental working memory load.",
@@ -1506,10 +1506,10 @@
         {
           "prompt": "What is 19²?",
           "options": [
-            "361 ((20 x 18) + 1 = 360 + 1)",
-            "391",
-            "381",
-            "341"
+            "361 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "391 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "381 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))",
+            "341 (Square any twodigit number rapidly using the differenceofsquares algebraic shift A  dA  d  d2 anchored to the nearest multiple of 10 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "(20 x 18) + 1 = 360 + 1 = 361.",
@@ -1552,10 +1552,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 3, what is the exact result?",
           "options": [
-            "6",
-            "12",
-            "10",
-            "8"
+            "6 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "12 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "10 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "8 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "16% of 50 is identical to 50% of 16 = 8."
@@ -1563,10 +1563,10 @@
         {
           "prompt": "Calculate a 15% tip on an $80 restaurant bill:",
           "options": [
-            "$10.00",
-            "$15.00",
-            "$14.00",
-            "$12.00"
+            "$10.00 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$15.00 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$14.00 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$12.00 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "10% of 80 = 8; 5% = 4; 8 + 4 = $12.00."
@@ -1574,10 +1574,10 @@
         {
           "prompt": "What is 4% of 75 using the reversibility trick?",
           "options": [
-            "4",
-            "5",
-            "2",
-            "3"
+            "4 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "5 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "2 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "3 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "4% of 75 = 75% of 4 = 3."
@@ -1589,10 +1589,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 4, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "$13.00",
-            "$12.00",
-            "$15.00",
-            "$14.50"
+            "$13.00 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$12.00 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$15.00 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$14.50 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "10% is 6.50; 6.50 x 2 = $13.00."
@@ -1600,10 +1600,10 @@
         {
           "prompt": "What is 12% of 25?",
           "options": [
-            "3",
-            "4",
-            "2.5",
-            "3.5"
+            "3 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "4 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "2.5 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "3.5 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "12% of 25 = 25% of 12 = 3."
@@ -1615,10 +1615,10 @@
         {
           "prompt": "What is 18% of 50?",
           "options": [
-            "10",
-            "7.5",
-            "8",
-            "9"
+            "10 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "7.5 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "8 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "9 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "18% of 50 = 50% of 18 = 9.",
@@ -1627,10 +1627,10 @@
         {
           "prompt": "A coat priced at $120 is on a 20% discount. What is the final sale price?",
           "options": [
-            "$100",
-            "$98",
-            "$96",
-            "$90"
+            "$100 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$98 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$96 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$90 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 2,
           "explanation": "10% of 120 = 12 -> 20% = 24 -> $120 - 24 = $96.",
@@ -1639,10 +1639,10 @@
         {
           "prompt": "What is 35% of 40?",
           "options": [
-            "12",
-            "14",
-            "15",
-            "16"
+            "12 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "14 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "15 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "16 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 1,
           "explanation": "10% of 40 = 4 -> 30% = 12; 5% = 2; 12 + 2 = 14.",
@@ -1651,10 +1651,10 @@
         {
           "prompt": "Why does x% of y = y% of x always hold true?",
           "options": [
-            "Because multiplication is commutative: (x * y) / 100 = (y * x) / 100",
-            "Only for whole numbers below 100",
-            "Only in base-10 mathematics",
-            "It is a heuristic approximation"
+            "Because multiplication is commutative (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "Only for whole numbers below 100 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "Only in base-10 mathematics (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "It is a heuristic approximation (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Commutativity of multiplication ensures exact equivalence.",
@@ -1663,10 +1663,10 @@
         {
           "prompt": "Calculate a 15% tip on a $44 bill:",
           "options": [
-            "$7.20",
-            "$6.00",
-            "$5.80",
-            "$6.60"
+            "$7.20 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$6.00 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$5.80 (Calculate any practical percentage mentally using modular building blocks 1 (U4))",
+            "$6.60 (Calculate any practical percentage mentally using modular building blocks 1 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "10% of 44 = 4.40; 5% = 2.20; 4.40 + 2.20 = $6.60.",
@@ -1709,10 +1709,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 4, what is the exact result?",
           "options": [
-            "0.375",
-            "0.325",
-            "0.350",
-            "0.333"
+            "0.375 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.325 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.350 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.333 (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "1/8 = 0.125 -> 3/8 = 3 x 0.125 = 0.375."
@@ -1720,10 +1720,10 @@
         {
           "prompt": "What is the repeating decimal for 4/11?",
           "options": [
-            "0.363636...",
-            "0.411411...",
-            "0.040404...",
-            "0.444444..."
+            "0.363636... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.411411... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.040404... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.444444... (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Elevenths multiply numerator by 9: 4 x 9 = 36 -> 0.363636..."
@@ -1731,10 +1731,10 @@
         {
           "prompt": "What is the repeating decimal for 7/9?",
           "options": [
-            "0.777777...",
-            "0.707070...",
-            "0.797979...",
-            "0.636363..."
+            "0.777777... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.707070... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.797979... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.636363... (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "Ninths repeat the single numerator digit: 0.7777..."
@@ -1746,10 +1746,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 4, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "0.625",
-            "0.555",
-            "0.580",
-            "0.650"
+            "0.625 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.555 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.580 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.650 (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "1/2 + 1/8 = 0.625."
@@ -1757,10 +1757,10 @@
         {
           "prompt": "What is 7/11 in decimal form?",
           "options": [
-            "0.636363...",
-            "0.777777...",
-            "0.696969...",
-            "0.707070..."
+            "0.636363... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.777777... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.696969... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.707070... (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "7 x 9 = 63 -> 0.636363..."
@@ -1772,10 +1772,10 @@
         {
           "prompt": "What is the decimal value of 7/8?",
           "options": [
-            "0.780",
-            "0.850",
-            "0.875",
-            "0.895"
+            "0.780 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.850 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.875 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.895 (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 2,
           "explanation": "1.000 - 0.125 = 0.875.",
@@ -1784,10 +1784,10 @@
         {
           "prompt": "What is 5/6 in decimal form?",
           "options": [
-            "0.8555...",
-            "0.8333...",
-            "0.8666...",
-            "0.7500"
+            "0.8555... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.8333... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.8666... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.7500 (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 1,
           "explanation": "1 - 1/6 = 0.8333...",
@@ -1796,10 +1796,10 @@
         {
           "prompt": "Which 6-digit cyclic sequence is generated by dividing by 7?",
           "options": [
-            "142857",
-            "123456",
-            "987654",
-            "369125"
+            "142857 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "123456 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "987654 (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "369125 (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 0,
           "explanation": "The cyclic loop of 1/7 is 142857.",
@@ -1808,10 +1808,10 @@
         {
           "prompt": "What is 8/9 as a decimal?",
           "options": [
-            "0.8080...",
-            "0.8989...",
-            "0.7272...",
-            "0.8888..."
+            "0.8080... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.8989... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.7272... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.8888... (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 3,
           "explanation": "8/9 = 0.8888...",
@@ -1820,10 +1820,10 @@
         {
           "prompt": "What is 6/11 as a decimal?",
           "options": [
-            "0.666666...",
-            "0.611611...",
-            "0.545454...",
-            "0.595959..."
+            "0.666666... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.611611... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.545454... (Recall foundational fractiontodecimal benchmarks 180 (U4))",
+            "0.595959... (Recall foundational fractiontodecimal benchmarks 180 (U4))"
           ],
           "answerIndex": 2,
           "explanation": "6 x 9 = 54 -> 0.545454...",
@@ -1868,10 +1868,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 4, Lesson 5, what is the exact result?",
           "options": [
-            "9,025",
-            "9,525",
-            "8,525",
-            "9,050"
+            "9,025 (Integrate 5ending squaring (U4))",
+            "9,525 (Integrate 5ending squaring (U4))",
+            "8,525 (Integrate 5ending squaring (U4))",
+            "9,050 (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 0,
           "explanation": "9 x 10 = 90 -> 9,025."
@@ -1879,10 +1879,10 @@
         {
           "prompt": "Rapid Solve: 32% of 50",
           "options": [
-            "16",
-            "15",
-            "18",
-            "16.5"
+            "16 (Integrate 5ending squaring (U4))",
+            "15 (Integrate 5ending squaring (U4))",
+            "18 (Integrate 5ending squaring (U4))",
+            "16.5 (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 0,
           "explanation": "50% of 32 = 16."
@@ -1890,10 +1890,10 @@
         {
           "prompt": "Rapid Solve: 39²",
           "options": [
-            "1,521 ((40 x 38) + 1 = 1,520 + 1)",
-            "1,541",
-            "1,481",
-            "1,561"
+            "1,521 (Integrate 5ending squaring (U4))",
+            "1,541 (Integrate 5ending squaring (U4))",
+            "1,481 (Integrate 5ending squaring (U4))",
+            "1,561 (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 0,
           "explanation": "(40 x 38) + 1 = 1,520 + 1 = 1,521."
@@ -1905,10 +1905,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 4, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "0.818181...",
-            "0.727272...",
-            "0.797979...",
-            "0.888888..."
+            "0.818181... (Integrate 5ending squaring (U4))",
+            "0.727272... (Integrate 5ending squaring (U4))",
+            "0.797979... (Integrate 5ending squaring (U4))",
+            "0.888888... (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 1,
           "explanation": "8 x 9 = 72 -> 0.727272..."
@@ -1916,10 +1916,10 @@
         {
           "prompt": "Rapid Solve: 55²",
           "options": [
-            "3,025",
-            "3,525",
-            "3,225",
-            "2,525"
+            "3,025 (Integrate 5ending squaring (U4))",
+            "3,525 (Integrate 5ending squaring (U4))",
+            "3,225 (Integrate 5ending squaring (U4))",
+            "2,525 (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 0,
           "explanation": "5 x 6 = 30 -> 3,025."
@@ -1931,10 +1931,10 @@
         {
           "prompt": "Solve: 65²",
           "options": [
-            "4,025",
-            "4,225",
-            "3,625",
-            "4,525"
+            "4,025 (Integrate 5ending squaring (U4))",
+            "4,225 (Integrate 5ending squaring (U4))",
+            "3,625 (Integrate 5ending squaring (U4))",
+            "4,525 (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 1,
           "explanation": "6 x 7 = 42 -> 4,225.",
@@ -1943,10 +1943,10 @@
         {
           "prompt": "Solve: 4% of 75",
           "options": [
-            "3",
-            "2",
-            "5",
-            "4"
+            "3 (Integrate 5ending squaring (U4))",
+            "2 (Integrate 5ending squaring (U4))",
+            "5 (Integrate 5ending squaring (U4))",
+            "4 (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 0,
           "explanation": "75% of 4 = 3.",
@@ -1955,10 +1955,10 @@
         {
           "prompt": "Solve: 48²",
           "options": [
-            "2,344",
-            "2,284",
-            "2,404",
-            "2,304 ((50 x 46) + 4)"
+            "2,344 (Integrate 5ending squaring (U4))",
+            "2,284 (Integrate 5ending squaring (U4))",
+            "2,404 (Integrate 5ending squaring (U4))",
+            "2,304 (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 3,
           "explanation": "(50 x 46) + 4 = 2,300 + 4 = 2,304.",
@@ -1967,10 +1967,10 @@
         {
           "prompt": "What is 5/8 in decimal form?",
           "options": [
-            "0.580",
-            "0.650",
-            "0.625",
-            "0.555"
+            "0.580 (Integrate 5ending squaring (U4))",
+            "0.650 (Integrate 5ending squaring (U4))",
+            "0.625 (Integrate 5ending squaring (U4))",
+            "0.555 (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 2,
           "explanation": "5 x 0.125 = 0.625.",
@@ -1979,10 +1979,10 @@
         {
           "prompt": "What is the key meta-skill developed in Unit 4 of FEARN Mental Math?",
           "options": [
-            "Rote memorization of a 10,000-page table",
-            "Rapid pattern categorization and algebraic transformation to bypass column arithmetic",
-            "Counting on fingers",
-            "Using a solar calculator"
+            "Rote memorization of a 10,000-page table (Integrate 5ending squaring (U4))",
+            "Rapid pattern categorization and algebraic transformation to bypass column arithmetic (Integrate 5ending squaring (U4))",
+            "Counting on fingers (Integrate 5ending squaring (U4))",
+            "Using a solar calculator (Integrate 5ending squaring (U4))"
           ],
           "answerIndex": 1,
           "explanation": "Pattern recognition and algebraic transformation bypass working memory bottlenecks.",
@@ -2026,10 +2026,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 1, what is the exact result?",
           "options": [
-            "x = 6",
-            "x = 8",
-            "x = 9",
-            "x = 7"
+            "x = 6 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 8 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 9 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 7 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))"
           ],
           "answerIndex": 3,
           "explanation": "68 - 19 = 49; 49 / 7 = 7."
@@ -2037,10 +2037,10 @@
         {
           "prompt": "Solve mentally: 4(x + 5) = 56",
           "options": [
-            "x = 11",
-            "x = 10",
-            "x = 9",
-            "x = 8"
+            "x = 11 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 10 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 9 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 8 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))"
           ],
           "answerIndex": 2,
           "explanation": "56 / 4 = 14; 14 - 5 = 9."
@@ -2052,10 +2052,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 6, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "x = 9",
-            "x = 8",
-            "x = 12",
-            "x = 10"
+            "x = 9 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 8 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 12 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 10 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))"
           ],
           "answerIndex": 3,
           "explanation": "8x - 3x = 5x; 35 + 15 = 50 -> x = 10."
@@ -2063,10 +2063,10 @@
         {
           "prompt": "Solve mentally: 3x / 4 = 18",
           "options": [
-            "x = 20",
-            "x = 28",
-            "x = 16",
-            "x = 24"
+            "x = 20 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 28 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 16 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 24 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))"
           ],
           "answerIndex": 3,
           "explanation": "18 * 4 = 72; 72 / 3 = 24 (or 18 / 3 = 6; 6 * 4 = 24)."
@@ -2078,10 +2078,10 @@
         {
           "prompt": "Solve mentally: 9x + 28 = 100",
           "options": [
-            "x = 8",
-            "x = 9",
-            "x = 6",
-            "x = 7"
+            "x = 8 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 9 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 6 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 7 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))"
           ],
           "answerIndex": 0,
           "explanation": "100 - 28 = 72; 72 / 9 = 8.",
@@ -2090,10 +2090,10 @@
         {
           "prompt": "Solve mentally: 6(x - 7) = 54",
           "options": [
-            "x = 15",
-            "x = 14",
-            "x = 17",
-            "x = 16"
+            "x = 15 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 14 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 17 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 16 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))"
           ],
           "answerIndex": 3,
           "explanation": "54 / 6 = 9; 9 + 7 = 16.",
@@ -2102,10 +2102,10 @@
         {
           "prompt": "Solve mentally: 11x - 13 = 5x + 35",
           "options": [
-            "x = 6",
-            "x = 9",
-            "x = 8",
-            "x = 7"
+            "x = 6 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 9 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 8 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "x = 7 (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))"
           ],
           "answerIndex": 2,
           "explanation": "11x - 5x = 6x; 35 + 13 = 48 -> x = 8.",
@@ -2114,10 +2114,10 @@
         {
           "prompt": "What is the optimal mental math order of operations for solving ax + b = c?",
           "options": [
-            "Multiply all terms by b",
-            "Subtract b from c first, then divide the difference by a",
-            "Square both sides",
-            "Divide c by a first, then subtract b"
+            "Multiply all terms by b (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "Subtract b from c first, then divide the difference by a (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "Square both sides (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))",
+            "Divide c by a first, then subtract b (Solve singlevariable linear equations ax  b  c and ax  b  c completely in your head in under 5 seconds by unwinding operations in reverse PEMDAS order (U6))"
           ],
           "answerIndex": 1,
           "explanation": "Subtract constant first, divide by coefficient second.",
@@ -2161,10 +2161,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 2, what is the exact result?",
           "options": [
-            "2,496",
-            "2,494",
-            "2,486",
-            "2,504"
+            "2,496 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "2,494 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "2,486 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "2,504 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))"
           ],
           "answerIndex": 0,
           "explanation": "50² - 2² = 2500 - 4 = 2496."
@@ -2172,10 +2172,10 @@
         {
           "prompt": "What is the midpoint and distance for the product 67 x 73?",
           "options": [
-            "Midpoint a = 70, distance d = 3",
-            "Midpoint a = 70, distance d = 4",
-            "Midpoint a = 75, distance d = 3",
-            "Midpoint a = 65, distance d = 2"
+            "Midpoint a = 70, distance d = 3 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "Midpoint a = 70, distance d = 4 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "Midpoint a = 75, distance d = 3 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "Midpoint a = 65, distance d = 2 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))"
           ],
           "answerIndex": 0,
           "explanation": "(70 - 3) * (70 + 3) -> midpoint 70, distance 3."
@@ -2187,10 +2187,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 6, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "4,881",
-            "4,909",
-            "4,891",
-            "4,899"
+            "4,881 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "4,909 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "4,891 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "4,899 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))"
           ],
           "answerIndex": 2,
           "explanation": "70² - 3² = 4900 - 9 = 4891."
@@ -2198,10 +2198,10 @@
         {
           "prompt": "Calculate 94 x 106 mentally:",
           "options": [
-            "9,974",
-            "9,954",
-            "9,966",
-            "9,964"
+            "9,974 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "9,954 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "9,966 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "9,964 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))"
           ],
           "answerIndex": 3,
           "explanation": "100² - 6² = 10,000 - 36 = 9964."
@@ -2213,10 +2213,10 @@
         {
           "prompt": "Calculate 88 x 92 mentally:",
           "options": [
-            "8,104",
-            "8,086",
-            "8,094",
-            "8,096"
+            "8,104 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "8,086 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "8,094 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "8,096 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))"
           ],
           "answerIndex": 3,
           "explanation": "90² - 2² = 8100 - 4 = 8096.",
@@ -2225,10 +2225,10 @@
         {
           "prompt": "Calculate 35 x 45 mentally:",
           "options": [
-            "1,565",
-            "1,555",
-            "1,575",
-            "1,585"
+            "1,565 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "1,555 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "1,575 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "1,585 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))"
           ],
           "answerIndex": 2,
           "explanation": "40² - 5² = 1600 - 25 = 1575.",
@@ -2237,10 +2237,10 @@
         {
           "prompt": "Calculate 19 x 21 mentally:",
           "options": [
-            "401",
-            "399",
-            "391",
-            "389"
+            "401 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "399 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "391 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "389 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))"
           ],
           "answerIndex": 1,
           "explanation": "20² - 1² = 400 - 1 = 399.",
@@ -2249,10 +2249,10 @@
         {
           "prompt": "Under what condition is the Difference of Squares technique most effective?",
           "options": [
-            "When the two numbers are equidistant from a round number whose square is known instantly",
-            "When both numbers end in 0",
-            "Only for negative numbers",
-            "When both numbers are prime only"
+            "When the two numbers are equidistant from a round number whose square is known instantly (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "When both numbers end in 0 (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "Only for negative numbers (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))",
+            "When both numbers are prime only (Apply the Difference of Squares algebraic identity a  da  d  a  d to multiply symmetric number pairs in under 3 seconds (U6))"
           ],
           "answerIndex": 0,
           "explanation": "Symmetric distance from a clean square base allows instant computation.",
@@ -2296,10 +2296,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 3, what is the exact result?",
           "options": [
-            "$6.80",
-            "$7.60",
-            "$8.00",
-            "$7.20"
+            "$6.80 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$7.60 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$8.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$7.20 (Calculate accurate percentage breakdowns 15 (U6))"
           ],
           "answerIndex": 3,
           "explanation": "4.80 + 2.40 = $7.20."
@@ -2307,10 +2307,10 @@
         {
           "prompt": "According to the Rule of 72, how long does an investment take to double at an 8% annual return?",
           "options": [
-            "8 years",
-            "10 years",
-            "12 years",
-            "9 years"
+            "8 years (Calculate accurate percentage breakdowns 15 (U6))",
+            "10 years (Calculate accurate percentage breakdowns 15 (U6))",
+            "12 years (Calculate accurate percentage breakdowns 15 (U6))",
+            "9 years (Calculate accurate percentage breakdowns 15 (U6))"
           ],
           "answerIndex": 3,
           "explanation": "72 / 8 = 9 years."
@@ -2322,10 +2322,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 6, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "$9.00",
-            "$8.50",
-            "$9.50",
-            "$10.00"
+            "$9.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$8.50 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$9.50 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$10.00 (Calculate accurate percentage breakdowns 15 (U6))"
           ],
           "answerIndex": 0,
           "explanation": "10.00 - 1.00 = $9.00."
@@ -2333,10 +2333,10 @@
         {
           "prompt": "Calculate 8% sales tax on a $75.00 purchase:",
           "options": [
-            "$6.00",
-            "$5.50",
-            "$6.50",
-            "$7.00"
+            "$6.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$5.50 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$6.50 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$7.00 (Calculate accurate percentage breakdowns 15 (U6))"
           ],
           "answerIndex": 0,
           "explanation": "7.50 - 1.50 = $6.00."
@@ -2348,10 +2348,10 @@
         {
           "prompt": "Calculate a 20% tip on a bill of $135.00:",
           "options": [
-            "$26.00",
-            "$25.00",
-            "$27.00",
-            "$28.00"
+            "$26.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$25.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$27.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$28.00 (Calculate accurate percentage breakdowns 15 (U6))"
           ],
           "answerIndex": 2,
           "explanation": "13.50 * 2 = $27.00.",
@@ -2360,10 +2360,10 @@
         {
           "prompt": "If inflation is 4% annually, in how many years will the price of goods double (Rule of 72)?",
           "options": [
-            "25 years",
-            "18 years",
-            "15 years",
-            "20 years"
+            "25 years (Calculate accurate percentage breakdowns 15 (U6))",
+            "18 years (Calculate accurate percentage breakdowns 15 (U6))",
+            "15 years (Calculate accurate percentage breakdowns 15 (U6))",
+            "20 years (Calculate accurate percentage breakdowns 15 (U6))"
           ],
           "answerIndex": 1,
           "explanation": "72 / 4 = 18 years.",
@@ -2372,10 +2372,10 @@
         {
           "prompt": "Calculate 15% of $120.00:",
           "options": [
-            "$18.00",
-            "$16.00",
-            "$15.00",
-            "$20.00"
+            "$18.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$16.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$15.00 (Calculate accurate percentage breakdowns 15 (U6))",
+            "$20.00 (Calculate accurate percentage breakdowns 15 (U6))"
           ],
           "answerIndex": 0,
           "explanation": "12.00 + 6.00 = $18.00.",
@@ -2384,10 +2384,10 @@
         {
           "prompt": "What building blocks form 35% in mental math?",
           "options": [
-            "25% + 15%",
-            "50% - 10%",
-            "100% / 3",
-            "30% (3 x 10%) + 5%"
+            "25% + 15% (Calculate accurate percentage breakdowns 15 (U6))",
+            "50% - 10% (Calculate accurate percentage breakdowns 15 (U6))",
+            "100% / 3 (Calculate accurate percentage breakdowns 15 (U6))",
+            "30% (Calculate accurate percentage breakdowns 15 (U6))"
           ],
           "answerIndex": 3,
           "explanation": "3 x 10% + 5% = 35%.",
@@ -2431,10 +2431,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 4, what is the exact result?",
           "options": [
-            "~2,000,000",
-            "~20,000,000",
-            "~20,000",
-            "~200,000"
+            "~2,000,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~20,000,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~20,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~200,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))"
           ],
           "answerIndex": 0,
           "explanation": "4,000 * 500 = 2,000,000 (Exact: 1,999,200)."
@@ -2442,10 +2442,10 @@
         {
           "prompt": "What is the useful mental math approximation for the number of seconds in one year?",
           "options": [
-            "π x 10⁷ seconds",
-            "100 million seconds",
-            "10 billion seconds",
-            "1 million seconds"
+            "π x 10⁷ seconds (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "100 million seconds (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "10 billion seconds (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "1 million seconds (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))"
           ],
           "answerIndex": 0,
           "explanation": "365 * 24 * 3600 = 31,536,000 ≈ π * 10⁷."
@@ -2457,10 +2457,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 6, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "~20,000",
-            "~2,000,000",
-            "~2,000",
-            "~200,000"
+            "~20,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~2,000,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~2,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~200,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))"
           ],
           "answerIndex": 0,
           "explanation": "800,000 / 40 = 20,000."
@@ -2468,10 +2468,10 @@
         {
           "prompt": "Estimate: 0.0042 x 2,100,000:",
           "options": [
-            "~8,400",
-            "~840",
-            "~84",
-            "~84,000"
+            "~8,400 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~840 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~84 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~84,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))"
           ],
           "answerIndex": 0,
           "explanation": "0.0042 * 2,100,000 = 8,820 ≈ 8,400."
@@ -2483,10 +2483,10 @@
         {
           "prompt": "Estimate the order of magnitude for 59,000 x 480 / 12:",
           "options": [
-            "~240,000",
-            "~2,400,000",
-            "~24,000,000",
-            "~24,000"
+            "~240,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~2,400,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~24,000,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~24,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))"
           ],
           "answerIndex": 1,
           "explanation": "60,000 * 480 / 12 = 60,000 * 40 = 2,400,000 (Exact: 2,360,000).",
@@ -2495,10 +2495,10 @@
         {
           "prompt": "If a car travels 60 miles per hour, approximately how many feet per second is it moving? (1 mile ≈ 5,280 ft):",
           "options": [
-            "~88 ft/sec",
-            "~50 ft/sec",
-            "~120 ft/sec",
-            "~20 ft/sec"
+            "~88 ft/sec (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~50 ft/sec (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~120 ft/sec (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "~20 ft/sec (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))"
           ],
           "answerIndex": 0,
           "explanation": "60 mph = exactly 88 ft/sec.",
@@ -2507,10 +2507,10 @@
         {
           "prompt": "What is the primary objective of a Fermi estimation?",
           "options": [
-            "To memorize multiplication tables",
-            "To calculate digits of pi to 10 decimal places",
-            "To prove mathematical theorems",
-            "To quickly obtain a correct order of magnitude (power of 10) and rough value when an exact calculation is impossible or unnecessary"
+            "To memorize multiplication tables (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "To calculate digits of pi to 10 decimal places (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "To prove mathematical theorems (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "To quickly obtain a correct order of magnitude (power of 10)"
           ],
           "answerIndex": 3,
           "explanation": "Rapid order-of-magnitude approximation for decision making.",
@@ -2519,10 +2519,10 @@
         {
           "prompt": "Estimate: 295 x 305 mentally:",
           "options": [
-            "89,925",
-            "90,025",
-            "89,975",
-            "90,000"
+            "89,925 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "90,025 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "89,975 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))",
+            "90,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally (U6))"
           ],
           "answerIndex": 2,
           "explanation": "Difference of squares: 300² - 5² = 89,975.",
@@ -2566,10 +2566,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 5, what is the exact result?",
           "options": [
-            "x = 11",
-            "x = 10",
-            "x = 12",
-            "x = 9"
+            "x = 11 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "x = 10 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "x = 12 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "x = 9 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))"
           ],
           "answerIndex": 0,
           "explanation": "92 - 37 = 55; 55 / 5 = 11."
@@ -2577,10 +2577,10 @@
         {
           "prompt": "Calculate 46 x 54 mentally:",
           "options": [
-            "2,484",
-            "2,474",
-            "2,494",
-            "2,464"
+            "2,484 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "2,474 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "2,494 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "2,464 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))"
           ],
           "answerIndex": 0,
           "explanation": "50² - 4² = 2500 - 16 = 2484."
@@ -2592,10 +2592,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 6, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "$13.20",
-            "$12.90",
-            "$11.90",
-            "$12.60"
+            "$13.20 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "$12.90 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "$11.90 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "$12.60 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))"
           ],
           "answerIndex": 1,
           "explanation": "8.60 + 4.30 = $12.90."
@@ -2603,10 +2603,10 @@
         {
           "prompt": "How many years to double money at 12% annual interest (Rule of 72)?",
           "options": [
-            "6 years",
-            "7 years",
-            "8 years",
-            "5 years"
+            "6 years (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "7 years (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "8 years (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "5 years (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))"
           ],
           "answerIndex": 0,
           "explanation": "72 / 12 = 6 years."
@@ -2618,10 +2618,10 @@
         {
           "prompt": "Solve mentally: 12x - 19 = 5x + 37",
           "options": [
-            "x = 8",
-            "x = 7",
-            "x = 9",
-            "x = 6"
+            "x = 8 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "x = 7 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "x = 9 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "x = 6 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))"
           ],
           "answerIndex": 0,
           "explanation": "12x - 5x = 7x; 37 + 19 = 56 -> x = 8.",
@@ -2630,10 +2630,10 @@
         {
           "prompt": "Calculate 76 x 84 mentally:",
           "options": [
-            "6,374",
-            "6,394",
-            "6,364",
-            "6,384"
+            "6,374 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "6,394 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "6,364 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "6,384 (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))"
           ],
           "answerIndex": 3,
           "explanation": "80² - 4² = 6400 - 16 = 6384.",
@@ -2642,10 +2642,10 @@
         {
           "prompt": "What core competencies were mastered across Mental Math Unit 6?",
           "options": [
-            "Integration by parts only",
-            "Long division by hand on paper only",
-            "Rapid 2-step mental linear equation solving, Difference of Squares (a² - d²) multiplication, building-block percentage systems (15%, 18%, 20%), Rule of 72 doubling calculations, and Fermi order-of-magnitude estimation",
-            "Basic finger counting only"
+            "Integration by parts only (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "Long division by hand on paper only (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "Rapid 2-step mental linear equation solving, Difference of Squares (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "Basic finger counting only (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))"
           ],
           "answerIndex": 2,
           "explanation": "Unit 6 comprehensive mental algebra, difference of squares, percentage tricks, and Fermi estimation mastery.",
@@ -2654,10 +2654,10 @@
         {
           "prompt": "What is the next frontier of Mental Math in Unit 7?",
           "options": [
-            "Buying an electric calculator",
-            "Combined-Operation Speed Drills",
-            "Memorizing Roman numerals",
-            "Drawing geometry circles"
+            "Buying an electric calculator (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "Combined-Operation Speed Drills (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "Memorizing Roman numerals (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))",
+            "Drawing geometry circles (Demonstrate comprehensive Unit 6 mastery by solving a mixed speedgauntlet of linear equations (U6))"
           ],
           "answerIndex": 1,
           "explanation": "Unit 7 focuses on combined-operation rapid speed drills.",
@@ -2695,10 +2695,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 1, what is the exact result?",
           "options": [
-            "620",
-            "640",
-            "650",
-            "630"
+            "620 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "640 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "650 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "630 (Execute multistep mixed addition and subtraction chains e (U7))"
           ],
           "answerIndex": 3,
           "explanation": "540 + 285 = 825; 825 - 195 = 630."
@@ -2706,10 +2706,10 @@
         {
           "prompt": "What is the fastest way to subtract 394 from 721 mentally?",
           "options": [
-            "Round 721 to 700",
-            "Add 394 to 721",
-            "Subtract 400 and add back 6: 721 - 400 = 321; 321 + 6 = 327",
-            "Subtract 300, then borrow 9, then borrow 4 on paper"
+            "Round 721 to 700 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "Add 394 to 721 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "Subtract 400 and add back 6: 721 - 400 = 321; 321 + 6 = 327 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "Subtract 300, then borrow 9, then borrow 4 on paper (Execute multistep mixed addition and subtraction chains e (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Compensation with complement 6: 721 - 400 + 6 = 327."
@@ -2721,10 +2721,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 7, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "490",
-            "510",
-            "520",
-            "500"
+            "490 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "510 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "520 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "500 (Execute multistep mixed addition and subtraction chains e (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Compatible pairing: (275 + 325) + (148 - 248) = 600 - 100 = 500."
@@ -2732,10 +2732,10 @@
         {
           "prompt": "Compute: 650 - 175 + 325 - 400",
           "options": [
-            "390",
-            "410",
-            "420",
-            "400"
+            "390 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "410 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "420 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "400 (Execute multistep mixed addition and subtraction chains e (U7))"
           ],
           "answerIndex": 3,
           "explanation": "-175 + 325 = +150; 650 + 150 - 400 = 400."
@@ -2747,10 +2747,10 @@
         {
           "prompt": "Calculate the full chain mentally: 412 + 388 - 295 + 145",
           "options": [
-            "640",
-            "660",
-            "630",
-            "650"
+            "640 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "660 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "630 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "650 (Execute multistep mixed addition and subtraction chains e (U7))"
           ],
           "answerIndex": 3,
           "explanation": "800 - 295 + 145 = 800 - 150 = 650.",
@@ -2759,10 +2759,10 @@
         {
           "prompt": "What technique allows mental math experts to avoid visual carrying/borrowing fatigue?",
           "options": [
-            "Writing numbers down on napkins",
-            "Guessing the last digit only",
-            "Left-to-right calculation combined with compensation and compatible number grouping",
-            "Counting on fingers"
+            "Writing numbers down on napkins (Execute multistep mixed addition and subtraction chains e (U7))",
+            "Guessing the last digit only (Execute multistep mixed addition and subtraction chains e (U7))",
+            "Left-to-right calculation combined with compensation and compatible number grouping (Execute multistep mixed addition and subtraction chains e (U7))",
+            "Counting on fingers (Execute multistep mixed addition and subtraction chains e (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Left-to-right processing with compensation keeps intermediate numbers manageable.",
@@ -2771,10 +2771,10 @@
         {
           "prompt": "Calculate: 950 - 380 - 170 + 400",
           "options": [
-            "790",
-            "800",
-            "820",
-            "810"
+            "790 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "800 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "820 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "810 (Execute multistep mixed addition and subtraction chains e (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Combining subtractions: -(380 + 170) = -550; 950 - 550 + 400 = 800.",
@@ -2783,10 +2783,10 @@
         {
           "prompt": "Complete the mental sequence: 150 + 75 - 25 + 200 = _______",
           "options": [
-            "400",
-            "410",
-            "420",
-            "390"
+            "400 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "410 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "420 (Execute multistep mixed addition and subtraction chains e (U7))",
+            "390 (Execute multistep mixed addition and subtraction chains e (U7))"
           ],
           "answerIndex": 0,
           "explanation": "150 + 50 + 200 = 400.",
@@ -2824,10 +2824,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 2, what is the exact result?",
           "options": [
-            "600",
-            "620",
-            "590",
-            "610"
+            "600 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "620 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "590 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "610 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))"
           ],
           "answerIndex": 0,
           "explanation": "28 × 15 = 420; 420 + 180 = 600."
@@ -2835,10 +2835,10 @@
         {
           "prompt": "Calculate: 44 × 25 - 350",
           "options": [
-            "750",
-            "740",
-            "770",
-            "760"
+            "750 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "740 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "770 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "760 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))"
           ],
           "answerIndex": 0,
           "explanation": "44 × 25 = 1100; 1100 - 350 = 750."
@@ -2850,10 +2850,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 7, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "730",
-            "750",
-            "740",
-            "760"
+            "730 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "750 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "740 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "760 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))"
           ],
           "answerIndex": 2,
           "explanation": "19 × 30 = 570; 17 × 10 = 170; 570 + 170 = 740."
@@ -2861,10 +2861,10 @@
         {
           "prompt": "Calculate: 65 × 6 - 190",
           "options": [
-            "190",
-            "210",
-            "220",
-            "200"
+            "190 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "210 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "220 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "200 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))"
           ],
           "answerIndex": 3,
           "explanation": "65 × 6 = 390; 390 - 190 = 200."
@@ -2876,10 +2876,10 @@
         {
           "prompt": "Calculate the fused expression: 52 × 8 + 184",
           "options": [
-            "610",
-            "620",
-            "600",
-            "590"
+            "610 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "620 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "600 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "590 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))"
           ],
           "answerIndex": 2,
           "explanation": "416 + 184 = 600.",
@@ -2888,10 +2888,10 @@
         {
           "prompt": "Calculate: 99 × 7 + 107",
           "options": [
-            "810",
-            "800 ((100 - 1) × 7 = 693; 693 + 107 = 800)",
-            "820",
-            "790"
+            "810 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "800 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "820 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "790 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))"
           ],
           "answerIndex": 1,
           "explanation": "693 + 107 = 800.",
@@ -2900,10 +2900,10 @@
         {
           "prompt": "Why is factoring 75 × 16 as (75 × 4) × 4 faster than traditional vertical multiplication?",
           "options": [
-            "75 × 4 instantly yields 300; 300 × 4 = 1200 with zero carry memory required",
-            "It rounds to the nearest ten",
-            "It uses logarithms",
-            "It turns the answer into a fraction"
+            "75 × 4 instantly yields 300; 300 × 4 = 1200 with zero carry memory required (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "It rounds to the nearest ten (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "It uses logarithms (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "It turns the answer into a fraction (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Associative factoring leverages the round base 300.",
@@ -2912,10 +2912,10 @@
         {
           "prompt": "Complete: 16 × 25 + 250 = _______",
           "options": [
-            "640",
-            "660",
-            "670",
-            "650"
+            "640 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "660 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "670 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))",
+            "650 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e (U7))"
           ],
           "answerIndex": 3,
           "explanation": "400 + 250 = 650.",
@@ -2953,10 +2953,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 3, what is the exact result?",
           "options": [
-            "8",
-            "10",
-            "11",
-            "9"
+            "8 (Calculate complex compound percentages (U7))",
+            "10 (Calculate complex compound percentages (U7))",
+            "11 (Calculate complex compound percentages (U7))",
+            "9 (Calculate complex compound percentages (U7))"
           ],
           "answerIndex": 3,
           "explanation": "18% of 50 = 50% of 18 = 9."
@@ -2964,10 +2964,10 @@
         {
           "prompt": "What is 37.5% of 640?",
           "options": [
-            "230",
-            "250",
-            "260",
-            "240"
+            "230 (Calculate complex compound percentages (U7))",
+            "250 (Calculate complex compound percentages (U7))",
+            "260 (Calculate complex compound percentages (U7))",
+            "240 (Calculate complex compound percentages (U7))"
           ],
           "answerIndex": 3,
           "explanation": "3/8 of 640 = 240."
@@ -2979,10 +2979,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 7, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "107",
-            "105",
-            "109",
-            "111"
+            "107 (Calculate complex compound percentages (U7))",
+            "105 (Calculate complex compound percentages (U7))",
+            "109 (Calculate complex compound percentages (U7))",
+            "111 (Calculate complex compound percentages (U7))"
           ],
           "answerIndex": 0,
           "explanation": "27 + 80 = 107."
@@ -2990,10 +2990,10 @@
         {
           "prompt": "Compute: 84% of 25",
           "options": [
-            "21",
-            "20",
-            "22",
-            "23"
+            "21 (Calculate complex compound percentages (U7))",
+            "20 (Calculate complex compound percentages (U7))",
+            "22 (Calculate complex compound percentages (U7))",
+            "23 (Calculate complex compound percentages (U7))"
           ],
           "answerIndex": 0,
           "explanation": "25% of 84 = 21."
@@ -3005,10 +3005,10 @@
         {
           "prompt": "Calculate: 65% of 300 - 12.5% of 160",
           "options": [
-            "185",
-            "175",
-            "170",
-            "180"
+            "185 (Calculate complex compound percentages (U7))",
+            "175 (Calculate complex compound percentages (U7))",
+            "170 (Calculate complex compound percentages (U7))",
+            "180 (Calculate complex compound percentages (U7))"
           ],
           "answerIndex": 1,
           "explanation": "195 - 20 = 175.",
@@ -3017,10 +3017,10 @@
         {
           "prompt": "Why does 'x% of y = y% of x' always work mathematically?",
           "options": [
-            "Because multiplication is commutative: (x × y) / 100 = (y × x) / 100",
-            "It is a magic trick",
-            "It only works for even numbers",
-            "It is an approximation"
+            "Because multiplication is commutative (Calculate complex compound percentages (U7))",
+            "It is an algebraic identity derived from modular arithmetic (Calculate complex compound percentages (U7))",
+            "It only works for even numbers (Calculate complex compound percentages (U7))",
+            "It is an approximation (Calculate complex compound percentages (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Commutative law of arithmetic ensures exact equivalence.",
@@ -3029,10 +3029,10 @@
         {
           "prompt": "What is 16.67% of 420?",
           "options": [
-            "75",
-            "80",
-            "65",
-            "70"
+            "75 (Calculate complex compound percentages (U7))",
+            "80 (Calculate complex compound percentages (U7))",
+            "65 (Calculate complex compound percentages (U7))",
+            "70 (Calculate complex compound percentages (U7))"
           ],
           "answerIndex": 3,
           "explanation": "1/6 of 420 = 70.",
@@ -3041,10 +3041,10 @@
         {
           "prompt": "Complete: 75% of 48 = _______",
           "options": [
-            "40",
-            "34",
-            "36",
-            "38"
+            "40 (Calculate complex compound percentages (U7))",
+            "34 (Calculate complex compound percentages (U7))",
+            "36 (Calculate complex compound percentages (U7))",
+            "38 (Calculate complex compound percentages (U7))"
           ],
           "answerIndex": 2,
           "explanation": "3/4 of 48 = 36.",
@@ -3082,10 +3082,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 4, what is the exact result?",
           "options": [
-            "0",
-            "1",
-            "4",
-            "2"
+            "0 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "1 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "4 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "2 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Casting out 9 and (8+1) leaves 6+4=10 -> 1."
@@ -3093,10 +3093,10 @@
         {
           "prompt": "Using the alternating sum test (mod 11), which number is divisible by 11?",
           "options": [
-            "5,841",
-            "5,840",
-            "5,845",
-            "5,842"
+            "5,841 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "5,840 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "5,845 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "5,842 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))"
           ],
           "answerIndex": 0,
           "explanation": "1 - 4 + 8 - 5 = 0 (divisible by 11)."
@@ -3108,10 +3108,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 7, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "Yes",
-            "It is prime",
-            "No",
-            "Only on Tuesdays"
+            "Yes (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "It is prime (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "No (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "Only on Tuesdays (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))"
           ],
           "answerIndex": 0,
           "explanation": "47 - 2(6) = 47 - 12 = 35 (divisible by 7; 476 / 7 = 68)."
@@ -3119,10 +3119,10 @@
         {
           "prompt": "Verify if 34 × 28 = 952 using digital roots:",
           "options": [
-            "Valid",
-            "Cannot be verified",
-            "Invalid",
-            "Result should be negative"
+            "Valid (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "Cannot be verified (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "Invalid (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "Result should be negative (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))"
           ],
           "answerIndex": 0,
           "explanation": "7 × 1 = 7; root(952) = 7. Checksum confirmed."
@@ -3134,10 +3134,10 @@
         {
           "prompt": "Match the divisibility rules: Divisible by 9, Divisible by 11, Divisible by 7, Divisible by 4:",
           "options": [
-            "Divisible by 9: Sum of digits = 9 | Divisible by 11: Alternating sum = 0/11 | Divisible by 7: Rest - 2(last) = 7k | Divisible by 4: Last 2 digits divisible by 4",
-            "All require long division",
-            "All are geometry rules",
-            "All mean odd numbers"
+            "Divisible by 9: Sum of digits = 9 | Divisible by 11: Alternating sum = 0/11 | Divisible by 7: Rest - 2 (last)",
+            "All require long division (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "All are geometry rules (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "All mean odd numbers (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Modulo divisibility test matching.",
@@ -3146,10 +3146,10 @@
         {
           "prompt": "What is the digital root of the product: 147 × 382?",
           "options": [
-            "9",
-            "5",
-            "7",
-            "3 (Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3)"
+            "9 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "5 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "7 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "3 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3.",
@@ -3158,10 +3158,10 @@
         {
           "prompt": "Why can a digital root check produce a false positive (confirm an incorrect answer)?",
           "options": [
-            "Because 9 is an odd number",
-            "Because modulo 9 is broken",
-            "Because transposition errors (e.g., writing 925 instead of 952) produce the exact same digital root (7), which is why modulo 11 is used as a secondary check",
-            "It never produces false positives"
+            "Because 9 is an odd number (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "Because modulo 9 is broken (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "Because transposition errors (e.g., writing 925 instead of 952)",
+            "It never produces false positives (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Permutations of digits have identical digit sums; modulo 11 detects transpositions.",
@@ -3170,10 +3170,10 @@
         {
           "prompt": "Is 7,953 divisible by 9?",
           "options": [
-            "Yes, perfectly",
-            "Yes",
-            "It is divisible by 99",
-            "It is prime"
+            "Yes, perfectly (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "Yes (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "It is divisible by 99 (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))",
+            "It is prime (Apply instant divisibility rules and rapid checksum validations Casting out 9s and 11s (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Sum of digits is 24 -> 2+4=6 != 9, so it leaves remainder 6 mod 9.",
@@ -3211,10 +3211,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 5, what is the exact result?",
           "options": [
-            "5,000 ((75 + 25) × (75 - 25) = 100 × 50 = 5,000)",
-            "4,800",
-            "5,200",
-            "5,500"
+            "5,000 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "4,800 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "5,200 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "5,500 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))"
           ],
           "answerIndex": 0,
           "explanation": "(75+25)(75-25) = 100 × 50 = 5000."
@@ -3222,10 +3222,10 @@
         {
           "prompt": "Solve in under 3 seconds: 35 × 11 + 115",
           "options": [
-            "500",
-            "490",
-            "510",
-            "520"
+            "500 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "490 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "510 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "520 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))"
           ],
           "answerIndex": 0,
           "explanation": "35 × 11 = 385; 385 + 115 = 500."
@@ -3237,10 +3237,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 7, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "284",
-            "282",
-            "286",
-            "280"
+            "284 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "282 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "286 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "280 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))"
           ],
           "answerIndex": 1,
           "explanation": "12 + 270 = 282."
@@ -3248,10 +3248,10 @@
         {
           "prompt": "Solve mentally: 450 + 380 - 130 + 300",
           "options": [
-            "1,010",
-            "1,000",
-            "1,020",
-            "990"
+            "1,010 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "1,000 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "1,020 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "990 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))"
           ],
           "answerIndex": 1,
           "explanation": "450 + 250 = 700; 700 + 300 = 1000."
@@ -3263,10 +3263,10 @@
         {
           "prompt": "Calculate the Grand Challenge problem: 45 × 12 + 35% of 200 - 110",
           "options": [
-            "490",
-            "520",
-            "510",
-            "500"
+            "490 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "520 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "510 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "500 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))"
           ],
           "answerIndex": 3,
           "explanation": "540 + 70 - 110 = 500.",
@@ -3275,10 +3275,10 @@
         {
           "prompt": "What core mental arithmetic competencies were mastered across Mental Math Unit 7?",
           "options": [
-            "Using spreadsheet formulas only",
-            "Drawing pie charts only",
-            "Multi-step running accumulator chains, fused multiply-then-add shortcuts, percentage reversals & fractional equivalences (1/8, 1/6), rapid divisibility & modulo 9/11 checksums, and high-velocity multi-operation synthesis",
-            "Basic multiplication tables up to 5 only"
+            "Using spreadsheet formulas only (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "Drawing pie charts only (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "Multi-step running accumulator chains, fused multiply-then-add shortcuts, percentage reversals & fractional equivalences (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "Basic multiplication tables up to 5 only (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Unit 7 comprehensive master combined-operation mental math synthesis.",
@@ -3287,10 +3287,10 @@
         {
           "prompt": "What is the final frontier awaiting you in Unit 8 of Mental Math?",
           "options": [
-            "Buying a scientific calculator",
-            "Large-Number Multiplication & Day-of-Week (Doomsday Rule) Calendar Calculation",
-            "Counting on an abacus",
-            "Learning Roman numerals"
+            "Buying a scientific calculator (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "Large-Number Multiplication & Day-of-Week (Doomsday Rule)",
+            "Counting on an abacus (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "Learning Roman numerals (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Unit 8 focuses on multi-digit large number multiplication and instant day-of-the-week calculation.",
@@ -3299,10 +3299,10 @@
         {
           "prompt": "Solve: 88 × 25 - 200",
           "options": [
-            "2,000",
-            "2,100",
-            "2,200",
-            "1,900"
+            "2,000 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "2,100 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "2,200 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))",
+            "1,900 (Demonstrate comprehensive Master mental arithmetic synthesis by completing a 60second highvelocity multioperation sprint across mixed addition chains (U7))"
           ],
           "answerIndex": 0,
           "explanation": "2200 - 200 = 2000.",
@@ -3340,10 +3340,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 1, what is the exact result?",
           "options": [
-            "2,226",
-            "2,246",
-            "2,216",
-            "2,236"
+            "2,226 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "2,246 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "2,216 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "2,236 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Units: 6; Cross: 23 (3, carry 2); Tens: 20+2=22 -> 2,236."
@@ -3351,10 +3351,10 @@
         {
           "prompt": "In the criss-cross calculation of 71 × 34, what is the middle crosswise sum (before adding carry)?",
           "options": [
-            "35",
-            "25",
-            "31",
-            "28"
+            "35 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "25 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "31 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "28 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))"
           ],
           "answerIndex": 2,
           "explanation": "(7 × 4) + (1 × 3) = 28 + 3 = 31."
@@ -3366,10 +3366,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 8, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "1,958",
-            "1,978",
-            "1,948",
-            "1,968"
+            "1,958 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "1,978 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "1,948 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "1,968 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))"
           ],
           "answerIndex": 3,
           "explanation": "2×4=8; 32+4=36 (carry 3); 16+3=19 -> 1,968."
@@ -3377,10 +3377,10 @@
         {
           "prompt": "Calculate mentally: 51 × 63",
           "options": [
-            "3,203",
-            "3,223",
-            "3,193",
-            "3,213"
+            "3,203 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "3,223 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "3,193 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "3,213 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))"
           ],
           "answerIndex": 3,
           "explanation": "1×3=3; 15+6=21 (carry 2); 30+2=32 -> 3,213."
@@ -3392,10 +3392,10 @@
         {
           "prompt": "Match the 3 steps of 2x2 Vedic cross-multiplication: Step 1, Step 2, Step 3:",
           "options": [
-            "Step 1: Add all digits | Step 2: Divide by 2 | Step 3: Round down",
-            "All steps require a calculator",
-            "Step 1: Vertical units (b×d) | Step 2: Criss-cross sum (a×d + b×c) + carry | Step 3: Vertical tens (a×c) + carry",
-            "All steps are subtraction"
+            "Step 1: Add all digits | Step 2: Divide by 2 | Step 3: Round down (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "All steps require a calculator (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "Step 1: Vertical units (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "All steps are subtraction (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Standard 2x2 Vedic multiplication sequence.",
@@ -3404,10 +3404,10 @@
         {
           "prompt": "Calculate: 93 × 21",
           "options": [
-            "1,943",
-            "1,953",
-            "1,933",
-            "1,963"
+            "1,943 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "1,953 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "1,933 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "1,963 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))"
           ],
           "answerIndex": 1,
           "explanation": "3; 9+6=15 (carry 1); 18+1=19 -> 1,953.",
@@ -3416,10 +3416,10 @@
         {
           "prompt": "Why is the Vedic criss-cross method cognitively superior to standard grade-school long multiplication?",
           "options": [
-            "It generates the final answer digits one by one from right to left with zero need to write down or store multiple rows of partial products in working memory",
-            "It only works on prime numbers",
-            "It turns multiplication into division",
-            "It makes numbers smaller"
+            "It generates the final answer digits one by one from right to left with zero need to write down or store multiple rows of partial products in working memory (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "It only works on prime numbers (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "It turns multiplication into division (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "It makes numbers smaller (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Streaming single-pass digit generation eliminates partial product memory overload.",
@@ -3428,10 +3428,10 @@
         {
           "prompt": "Complete: 74 × 12 = _______",
           "options": [
-            "868",
-            "898",
-            "878",
-            "888"
+            "868 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "898 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "878 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))",
+            "888 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds (U8))"
           ],
           "answerIndex": 3,
           "explanation": "74 × 12 = 888.",
@@ -3469,10 +3469,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 2, what is the exact result?",
           "options": [
-            "84",
-            "94",
-            "86",
-            "74"
+            "84 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "94 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "86 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "74 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Thousands chunk: 592 -> 8; Last digit: 4 -> 4 -> 84."
@@ -3480,10 +3480,10 @@
         {
           "prompt": "What is the cube root of 389,017?",
           "options": [
-            "73",
-            "77",
-            "83",
-            "63"
+            "73 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "77 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "83 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "63 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))"
           ],
           "answerIndex": 0,
           "explanation": "389 -> 7; Ending 7 maps to complement 3 -> 73."
@@ -3495,10 +3495,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 8, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "43",
-            "57",
-            "47",
-            "37"
+            "43 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "57 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "47 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "37 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))"
           ],
           "answerIndex": 2,
           "explanation": "103 -> 4; Ending 3 maps to 7 -> 47."
@@ -3506,10 +3506,10 @@
         {
           "prompt": "Extract the cube root of 704,969:",
           "options": [
-            "79",
-            "99",
-            "86",
-            "89"
+            "79 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "99 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "86 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "89 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))"
           ],
           "answerIndex": 3,
           "explanation": "704 -> 8; Ending 9 -> 9 -> 89."
@@ -3521,10 +3521,10 @@
         {
           "prompt": "Match the last digit of a cube to its unique single-digit root: Ending in 8, Ending in 7, Ending in 2, Ending in 3:",
           "options": [
-            "All roots are 0",
-            "Ending in 8: Root 2 | Ending in 7: Root 3 | Ending in 2: Root 8 | Ending in 3: Root 7",
-            "All roots are 1",
-            "All roots are 5"
+            "All roots are 0 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "Ending in 8: Root 2 | Ending in 7: Root 3 | Ending in 2: Root 8 | Ending in 3: Root 7 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "All roots are 1 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "All roots are 5 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))"
           ],
           "answerIndex": 1,
           "explanation": "10-complement pairing for cubes (2<->8, 3<->7).",
@@ -3533,10 +3533,10 @@
         {
           "prompt": "Extract the cube root of 21,952:",
           "options": [
-            "28",
-            "38",
-            "18",
-            "22"
+            "28 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "38 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "18 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "22 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))"
           ],
           "answerIndex": 0,
           "explanation": "21 -> 2; Ending 2 maps to 8 -> 28.",
@@ -3545,10 +3545,10 @@
         {
           "prompt": "Why is exact square root extraction of random numbers more difficult than cube root extraction?",
           "options": [
-            "Because squares are 2D shapes",
-            "Because squares are larger than cubes",
-            "It is not more difficult",
-            "Because square digits repeat in pairs (e.g. both 1² and 9² end in 1; both 2² and 8² end in 4), requiring a secondary bounding test, whereas cube roots have a 100% unique 1-to-1 bijection"
+            "Because squares are 2D shapes (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "Because squares are larger than cubes (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "It is not more difficult (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "Because square digits repeat in pairs (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Squares have non-unique endings (1,4,5,6,9,0), while cubes have unique 1-to-1 bijective endings.",
@@ -3557,10 +3557,10 @@
         {
           "prompt": "What is the cube root of 681,472?",
           "options": [
-            "78",
-            "98",
-            "88",
-            "82"
+            "78 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "98 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "88 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))",
+            "82 (Extract exact cube roots of any 6digit perfect cube in under 1 second by exploiting the unique bijection of unit digits and memorizing 1 through 9 (U8))"
           ],
           "answerIndex": 2,
           "explanation": "681 -> 8; Ending 2 -> 8 -> 88.",
@@ -3598,10 +3598,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 3, what is the exact result?",
           "options": [
-            "Wednesday",
-            "Friday",
-            "Tuesday",
-            "Thursday (4) [(24 + 6 + 2) = 32 = 4 mod 7]"
+            "Wednesday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Friday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Tuesday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Thursday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))"
           ],
           "answerIndex": 3,
           "explanation": "24 + 6 + 2 = 32 = 4 (Thursday)."
@@ -3609,10 +3609,10 @@
         {
           "prompt": "Using the Doomsday algorithm, what day of the week was Christmas Day (December 25) in 2024?",
           "options": [
-            "Thursday",
-            "Tuesday",
-            "Friday",
-            "Wednesday"
+            "Thursday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Tuesday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Friday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Wednesday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))"
           ],
           "answerIndex": 3,
           "explanation": "12/12 = Thursday (4); 25 is 13 days later (+6 mod 7) -> 4 + 6 = 10 = 3 (Wednesday)."
@@ -3624,10 +3624,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 8, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "August 8",
-            "August 15",
-            "July 1",
-            "October 25"
+            "August 8 (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "August 15 (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "July 1 (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "October 25 (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))"
           ],
           "answerIndex": 0,
           "explanation": "8/8 is an even-month double-date Doomsday anchor."
@@ -3635,10 +3635,10 @@
         {
           "prompt": "What day of the week was June 6 (6/6), 2024?",
           "options": [
-            "Thursday",
-            "Friday",
-            "Wednesday",
-            "Saturday"
+            "Thursday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Friday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Wednesday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Saturday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))"
           ],
           "answerIndex": 0,
           "explanation": "6/6 is a Doomsday date, identical to the year's Doomsday (Thursday)."
@@ -3650,10 +3650,10 @@
         {
           "prompt": "Match the Doomsday anchor pairs: 5/9, 7/11, 4/4, 12/12:",
           "options": [
-            "5/9: 9-to-5 pair with 9/5 | 7/11: 7-11 pair with 11/7 | 4/4: Double date | 12/12: Double date",
-            "All are weekend dates",
-            "All are holidays",
-            "All are prime numbers"
+            "5/9: 9-to-5 pair with 9/5 | 7/11: 7-11 pair with 11/7 | 4/4: Double date | 12/12: Double date (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "All are weekend dates (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "All are holidays (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "All are prime numbers (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Doomsday anchor memory system matching.",
@@ -3662,10 +3662,10 @@
         {
           "prompt": "What day of the week will October 10 (10/10), 2025 fall on, given that 2025 Doomsday is Friday (5)?",
           "options": [
-            "Thursday",
-            "Sunday",
-            "Saturday",
-            "Friday"
+            "Thursday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Sunday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Saturday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Friday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))"
           ],
           "answerIndex": 3,
           "explanation": "10/10 is a Doomsday anchor -> Friday.",
@@ -3674,10 +3674,10 @@
         {
           "prompt": "Why is the Doomsday Algorithm considered the most elegant calendar calculation method ever developed?",
           "options": [
-            "Because it was invented by Isaac Newton",
-            "Because it works only on leap years",
-            "Because by establishing a single Doomsday for each year, 12 easy-to-remember dates across all 12 months immediately share that exact same day of the week, reducing calendar calculation to simple mod-7 subtraction",
-            "Because it predicts the end of the world"
+            "Because it was invented by Isaac Newton (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Because it works only on leap years (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Because by establishing a single Doomsday for each year, 12 easy-to-remember dates across all 12 months immediately share that exact same day of the week, reducing calendar calculation to simple mod-7 subtraction (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Because it predicts the end of the world (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))"
           ],
           "answerIndex": 2,
           "explanation": "12 shared anchor dates eliminate complex multi-month offset tables.",
@@ -3686,10 +3686,10 @@
         {
           "prompt": "Complete: '0 = Sunday, 1 = Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = _______.'",
           "options": [
-            "Doomsday",
-            "Saturday",
-            "Weekend",
-            "Sunday again"
+            "Doomsday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Saturday (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Weekend (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))",
+            "Sunday again (Apply John Conways Doomsday Algorithm to calculate the exact day of the week for ANY calendar date in modern history in under 5 seconds purely in working memory (U8))"
           ],
           "answerIndex": 1,
           "explanation": "6 = Saturday in standard mod-7 day numbering.",
@@ -3727,10 +3727,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 4, what is the exact result?",
           "options": [
-            "Because it uses quantum mechanics",
-            "Because independent errors in sub-estimates tend to be log-normally distributed, causing multiplicative overestimates and underestimates to cancel each other out",
-            "Because calculators are used",
-            "Because all estimates are exactly correct"
+            "Because it uses quantum mechanics (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "Because independent errors in sub-estimates tend to be log-normally distributed, causing multiplicative overestimates and underestimates to cancel each other out (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "Because calculators are used (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "Because all estimates are exactly correct (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Independent multiplicative errors cancel across the geometric mean."
@@ -3738,10 +3738,10 @@
         {
           "prompt": "Approximately how many seconds are in one calendar year using the famous physicist's rule of thumb?",
           "options": [
-            "Approximately π × 10⁷ seconds",
-            "500 million seconds",
-            "1 billion seconds",
-            "1 million seconds"
+            "Approximately π × 10⁷ seconds (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "500 million seconds (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "1 billion seconds (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "1 million seconds (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))"
           ],
           "answerIndex": 0,
           "explanation": "365.25 × 24 × 3600 = 31,557,600 ≈ π × 10⁷."
@@ -3753,10 +3753,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 8, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "Approximately 80,000 to 120,000 flights per day",
-            "500 flights per day",
-            "5,000 flights per day",
-            "10 million flights per day"
+            "Approximately 80,000 to 120,000 flights per day (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "500 flights per day (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "5,000 flights per day (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "10 million flights per day (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Decomposing passenger trips yields ~100,000 daily commercial flights."
@@ -3764,10 +3764,10 @@
         {
           "prompt": "What is the first step in solving ANY Fermi problem?",
           "options": [
-            "Define the target unit clearly and break it down into a product of fundamental rate and ratio factors",
-            "Give up",
-            "Guess a random large number",
-            "Search the internet"
+            "Define the target unit clearly and break it down into a product of fundamental rate and ratio factors (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "Give up (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "Guess a random large number (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "Search the internet (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Defining target units and dimensional factor chains is step 1."
@@ -3779,10 +3779,10 @@
         {
           "prompt": "Match the Fermi estimation factors for estimating annual gasoline consumption in a city of 1 million cars: Number of cars, Miles driven/year, Miles per gallon, Total gallons:",
           "options": [
-            "All numbers are infinite",
-            "All numbers are 1",
-            "Requires no math",
-            "Cars: 10⁶ | Miles/year: 10⁴ (10,000 mi) | MPG: 25 | Total: (10¹⁰ / 25) = 4 × 10⁸"
+            "All numbers are infinite (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "All numbers are 1 (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "Requires no math (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "Cars: 10⁶ | Miles/year: 10⁴ (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Dimensional estimation chaining.",
@@ -3791,10 +3791,10 @@
         {
           "prompt": "Why do tech giants (Google, Microsoft) and management consultancies (McKinsey, BCG) ask Fermi problems during interviews?",
           "options": [
-            "To test typing speed",
-            "To check if the candidate has memorized census data",
-            "To evaluate structured algorithmic thinking, comfort with numerical ambiguity, and mental mathematical composure under pressure",
-            "To waste time"
+            "To test typing speed (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "To check if the candidate has memorized census data (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "To evaluate structured algorithmic thinking, comfort with numerical ambiguity, and mental mathematical composure under pressure (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "To waste time (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Fermi questions test structured problem-solving under ambiguity.",
@@ -3803,10 +3803,10 @@
         {
           "prompt": "How many minutes are in one full 365-day year?",
           "options": [
-            "100,000 minutes",
-            "525,600 minutes",
-            "1,000,000 minutes",
-            "250,000 minutes"
+            "100,000 minutes (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "525,600 minutes (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "1,000,000 minutes (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "250,000 minutes (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))"
           ],
           "answerIndex": 1,
           "explanation": "365 × 24 × 60 = 525,600 minutes.",
@@ -3815,10 +3815,10 @@
         {
           "prompt": "Complete: 'A Fermi problem replaces unknown data with _______.'",
           "options": [
-            "structured physical bounds and geometric estimation",
-            "pure fantasy",
-            "computer simulations",
-            "blind guessing"
+            "structured physical bounds and geometric estimation (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "pure fantasy (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "computer simulations (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))",
+            "blind guessing (Solve complex Fermi Problems and largescale orderofmagnitude estimation challenges using logarithmic dimensional decomposition and powerof10 bounds (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Structured physical bounds and geometric reasoning.",
@@ -3856,10 +3856,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 5, what is the exact result?",
           "options": [
-            "1,692",
-            "1,682",
-            "1,702",
-            "1,672"
+            "1,692 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "1,682 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "1,702 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "1,672 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))"
           ],
           "answerIndex": 0,
           "explanation": "47 × 36 = 1,692."
@@ -3867,10 +3867,10 @@
         {
           "prompt": "Solve Capstone Problem 2: Extract the cube root of 493,039 in under 1 second:",
           "options": [
-            "79",
-            "71",
-            "89",
-            "69"
+            "79 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "71 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "89 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "69 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Thousands chunk = 7; Last digit = 9 -> 79."
@@ -3882,10 +3882,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 8, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "6,401",
-            "6,391",
-            "6,371",
-            "6,381"
+            "6,401 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "6,391 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "6,371 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "6,381 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))"
           ],
           "answerIndex": 1,
           "explanation": "80² - 3² = 6,391."
@@ -3893,10 +3893,10 @@
         {
           "prompt": "Solve Capstone Problem 5: Compute 32% of 75 using percentage reversal:",
           "options": [
-            "26",
-            "24",
-            "28",
-            "22"
+            "26 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "24 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "28 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "22 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))"
           ],
           "answerIndex": 1,
           "explanation": "75% of 32 = 24."
@@ -3908,10 +3908,10 @@
         {
           "prompt": "What core competencies were mastered across the ENTIRE 40-Lesson FEARN Mental Math Curriculum?",
           "options": [
-            "Memorizing the multiplication table up to 10 only",
-            "Using a solar calculator only",
-            "Left-to-right addition/subtraction chains, complement math, Vedic shortcuts (x11, x5, x9, x25), difference of squares squaring, 2x2 and 3x3 criss-cross multiplication, 6-digit cube root extraction, John Conway's Doomsday calendar algorithm, percentage reversals, and Fermi order-of-magnitude estimation",
-            "Drawing math diagrams with a ruler only"
+            "Memorizing the multiplication table up to 10 only (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "Using a solar calculator only (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "Left-to-right addition/subtraction chains, complement math, Vedic shortcuts (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "Drawing math diagrams with a ruler only (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Comprehensive 40-lesson Mental Math mastery certification.",
@@ -3920,10 +3920,10 @@
         {
           "prompt": "Solve Capstone Problem 9: Calculate 68 × 11 mentally:",
           "options": [
-            "738",
-            "748",
-            "758",
-            "728"
+            "738 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "748 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "758 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "728 (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))"
           ],
           "answerIndex": 1,
           "explanation": "68 × 11 = 748.",
@@ -3932,10 +3932,10 @@
         {
           "prompt": "What is the primary cognitive superpower gained from completing the Mental Math curriculum?",
           "options": [
-            "Absolute working memory liberation: The ability to process, verify, and manipulate quantitative reality instantly in real time during live negotiations, trading, and engineering",
-            "Passive unguided repetition",
-            "Never needing to sleep again",
-            "Reading minds"
+            "Absolute working memory liberation: The ability to process, verify, and manipulate quantitative reality instantly in real time during live negotiations, trading, and engineering (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "Passive unguided repetition (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "Never needing to sleep again (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "Reading minds (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Working memory liberation and real-time quantitative intuition.",
@@ -3944,10 +3944,10 @@
         {
           "prompt": "Complete the mental math master creed: 'Numbers are not rigid obstacles; they are _______.'",
           "options": [
-            "boring homework",
-            "impossible puzzles",
-            "random noise",
-            "liquid patterns waiting to be recombined"
+            "boring homework (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "impossible puzzles (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "random noise (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))",
+            "liquid patterns waiting to be recombined (Demonstrate complete Master Savant mental arithmetic fluency across all 8 units by completing the 10problem Grand Finale Sprint (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Numbers are liquid patterns waiting to be recombined.",
@@ -3990,10 +3990,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 1, what is the exact result?",
           "options": [
-            "(3 x 2) + (2 x 1) = 8",
-            "3 x 2 x 1 = 6",
-            "32 + 21 = 53",
-            "(3 x 1) + (2 x 2) = 3 + 4 = 7"
+            "3 x 2 + 2 x 1 = 8 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "3 x 2 x 1 = 6 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "32 + 21 = 53 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "3 x 1 + 2 x 2 = 3 + 4 = 7 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Cross-product: outer + inner = (3x1) + (2x2) = 3 + 4 = 7."
@@ -4001,10 +4001,10 @@
         {
           "prompt": "Compute 32 x 21 using the 3-step vertical-and-crosswise method:",
           "options": [
-            "652",
-            "712",
-            "632",
-            "672"
+            "652 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "712 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "632 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "672 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Units: 2; Cross: 7; Tens: 6 -> 672."
@@ -4016,10 +4016,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "863",
-            "923",
-            "893",
-            "903"
+            "863 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "923 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "893 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "903 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Units: 3; Cross: 10 (0, carry 1); Tens: 8 + 1 = 9 -> 903."
@@ -4027,10 +4027,10 @@
         {
           "prompt": "Calculate 51 x 24 mentally:",
           "options": [
-            "1204",
-            "1244",
-            "1124",
-            "1224"
+            "1204 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "1244 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "1124 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "1224 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Units: 4; Cross: 22 (2, carry 2); Tens: 10 + 2 = 12 -> 1224."
@@ -4042,10 +4042,10 @@
         {
           "prompt": "Compute 62 x 31 mentally:",
           "options": [
-            "1822",
-            "1922",
-            "1862",
-            "1932"
+            "1822 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "1922 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "1862 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "1932 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))"
           ],
           "answerIndex": 1,
           "explanation": "62 x 31 = 1922.",
@@ -4054,10 +4054,10 @@
         {
           "prompt": "Compute 24 x 23 mentally:",
           "options": [
-            "552",
-            "562",
-            "532",
-            "542"
+            "552 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "562 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "532 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "542 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))"
           ],
           "answerIndex": 0,
           "explanation": "24 x 23 = 552.",
@@ -4066,10 +4066,10 @@
         {
           "prompt": "What is the primary advantage of the vertical-and-crosswise method over traditional column multiplication?",
           "options": [
-            "It only works on even numbers.",
-            "It requires a calculator.",
-            "It replaces multiplication with division.",
-            "It calculates the final digits sequentially in working memory without writing intermediate sub-products."
+            "It only works on even numbers. (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "It requires a calculator. (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "It replaces multiplication with division. (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "It calculates the final digits sequentially in working memory without writing intermediate sub-products. (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))"
           ],
           "answerIndex": 3,
           "explanation": "It streams the answer digit by digit in mental memory.",
@@ -4078,10 +4078,10 @@
         {
           "prompt": "Compute 33 x 31 mentally:",
           "options": [
-            "1013",
-            "1033",
-            "1023",
-            "993"
+            "1013 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "1033 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "1023 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))",
+            "993 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages (U5))"
           ],
           "answerIndex": 2,
           "explanation": "33 x 31 = 1023.",
@@ -4124,10 +4124,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 2, what is the exact result?",
           "options": [
-            "11,445",
-            "11,545",
-            "11,455",
-            "11,345"
+            "11,445 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "11,545 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "11,455 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "11,345 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))"
           ],
           "answerIndex": 0,
           "explanation": "105 + 9 = 114; 5 x 9 = 45 -> 11,445."
@@ -4135,10 +4135,10 @@
         {
           "prompt": "Calculate 95 x 94 using base 100 deficiencies (-5 and -6):",
           "options": [
-            "8,930",
-            "8,830",
-            "9,030",
-            "8,940"
+            "8,930 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "8,830 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "9,030 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "8,940 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))"
           ],
           "answerIndex": 0,
           "explanation": "95 - 6 = 89; 5 x 6 = 30 -> 8,930."
@@ -4150,10 +4150,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "9,560",
-            "9,506",
-            "9,406",
-            "9,516"
+            "9,560 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "9,506 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "9,406 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "9,516 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))"
           ],
           "answerIndex": 1,
           "explanation": "97 - 2 = 95; 3 x 2 = 06 (must be 2 digits) -> 9,506."
@@ -4161,10 +4161,10 @@
         {
           "prompt": "Calculate 106 x 106 (106 squared):",
           "options": [
-            "11,216",
-            "11,336",
-            "11,236",
-            "11,136"
+            "11,216 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "11,336 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "11,236 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "11,136 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))"
           ],
           "answerIndex": 2,
           "explanation": "106 + 6 = 112; 6 x 6 = 36 -> 11,236."
@@ -4176,10 +4176,10 @@
         {
           "prompt": "Calculate 91 x 98 mentally:",
           "options": [
-            "8,918",
-            "8,818",
-            "8,908",
-            "8,928"
+            "8,918 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "8,818 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "8,908 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "8,928 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))"
           ],
           "answerIndex": 0,
           "explanation": "91 - 2 = 89; 9 x 2 = 18 -> 8,918.",
@@ -4188,10 +4188,10 @@
         {
           "prompt": "Calculate 108 x 112 mentally:",
           "options": [
-            "11,996",
-            "12,086",
-            "12,196",
-            "12,096"
+            "11,996 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "12,086 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "12,196 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "12,096 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))"
           ],
           "answerIndex": 3,
           "explanation": "108 + 12 = 120; 8 x 12 = 96 -> 12,096.",
@@ -4200,10 +4200,10 @@
         {
           "prompt": "What must you do if the right-hand product of deficits is a single digit (e.g. 1 x 4 = 4)?",
           "options": [
-            "Multiply by 100",
-            "Drop the number",
-            "Pad with a leading zero to keep the base-100 two-digit slot",
-            "Add 10 to it"
+            "Multiply by 100 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "Drop the number (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "Pad with a leading zero to keep the base-100 two-digit slot (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "Add 10 to it (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))"
           ],
           "answerIndex": 2,
           "explanation": "Because base 100 has two zeros, the right part must always occupy two decimal places (e.g. 04).",
@@ -4212,10 +4212,10 @@
         {
           "prompt": "Calculate 99 x 99 mentally:",
           "options": [
-            "9,901",
-            "9,801",
-            "9,701",
-            "9,811"
+            "9,901 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "9,801 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "9,701 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))",
+            "9,811 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut (U5))"
           ],
           "answerIndex": 1,
           "explanation": "99 - 1 = 98; 1 x 1 = 01 -> 9,801.",
@@ -4258,10 +4258,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 3, what is the exact result?",
           "options": [
-            "2,015",
-            "2,125",
-            "1,825",
-            "2,025"
+            "2,015 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "2,125 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "1,825 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "2,025 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))"
           ],
           "answerIndex": 3,
           "explanation": "4 x 5 = 20 -> 2,025."
@@ -4269,10 +4269,10 @@
         {
           "prompt": "Calculate 58 x 62 using difference of squares around midpoint 60:",
           "options": [
-            "3,586",
-            "3,604",
-            "3,592",
-            "3,596"
+            "3,586 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "3,604 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "3,592 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "3,596 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))"
           ],
           "answerIndex": 3,
           "explanation": "60² - 2² = 3600 - 4 = 3,596."
@@ -4284,10 +4284,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "7,225",
-            "7,215",
-            "7,125",
-            "7,325"
+            "7,225 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "7,215 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "7,125 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "7,325 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))"
           ],
           "answerIndex": 0,
           "explanation": "8 x 9 = 72 -> 7,225."
@@ -4295,10 +4295,10 @@
         {
           "prompt": "Calculate 29 x 31 mentally:",
           "options": [
-            "899",
-            "889",
-            "901",
-            "891"
+            "899 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "889 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "901 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "891 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))"
           ],
           "answerIndex": 0,
           "explanation": "30² - 1² = 900 - 1 = 899."
@@ -4310,10 +4310,10 @@
         {
           "prompt": "Calculate 105² mentally:",
           "options": [
-            "10,525",
-            "11,125",
-            "11,015",
-            "11,025"
+            "10,525 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "11,125 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "11,015 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "11,025 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))"
           ],
           "answerIndex": 3,
           "explanation": "10 x 11 = 110 -> 11,025.",
@@ -4322,10 +4322,10 @@
         {
           "prompt": "Calculate 77 x 83 using difference of squares around 80:",
           "options": [
-            "6,381",
-            "6,399",
-            "6,391",
-            "6,409"
+            "6,381 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "6,399 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "6,391 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "6,409 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))"
           ],
           "answerIndex": 2,
           "explanation": "80² - 3² = 6400 - 9 = 6,391.",
@@ -4334,10 +4334,10 @@
         {
           "prompt": "Why does (N5)² always end in 25?",
           "options": [
-            "It is an approximation.",
-            "Because (10N + 5)² = 100(N² + N) + 25, meaning the last two digits are always 25.",
-            "Because 5 + 5 = 10.",
-            "Because all odd squares end in 25."
+            "It is an approximation. (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "Because (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "Because 5 + 5 = 10. (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "Because all odd squares end in 25. (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))"
           ],
           "answerIndex": 1,
           "explanation": "Exact algebraic expansion proves the tens and units digits are identically 25.",
@@ -4346,10 +4346,10 @@
         {
           "prompt": "Calculate 19 x 21 mentally:",
           "options": [
-            "399",
-            "389",
-            "391",
-            "401"
+            "399 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "389 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "391 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))",
+            "401 (Apply algebraic identities to compute squares ending in 5 NN125 and nearsymmetric products using difference of squares abab  a  b (U5))"
           ],
           "answerIndex": 0,
           "explanation": "20² - 1² = 400 - 1 = 399.",
@@ -4392,10 +4392,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 4, what is the exact result?",
           "options": [
-            "692",
-            "682",
-            "662",
-            "672"
+            "692 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "682 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "662 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "672 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))"
           ],
           "answerIndex": 1,
           "explanation": "6 _ 2 with 6+2=8 in middle -> 682."
@@ -4403,10 +4403,10 @@
         {
           "prompt": "Calculate 76 x 11 with carry:",
           "options": [
-            "836",
-            "846",
-            "796",
-            "736"
+            "836 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "846 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "796 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "736 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))"
           ],
           "answerIndex": 0,
           "explanation": "7 + 6 = 13; carry 1 to 7 -> 836."
@@ -4418,10 +4418,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "1,034",
-            "1,024",
-            "1,044",
-            "934"
+            "1,034 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "1,024 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "1,044 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "934 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))"
           ],
           "answerIndex": 0,
           "explanation": "9 + 4 = 13 -> 1,034."
@@ -4429,10 +4429,10 @@
         {
           "prompt": "Calculate 48 x 102 by chunking:",
           "options": [
-            "4,896",
-            "4,796",
-            "4,886",
-            "4,906"
+            "4,896 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "4,796 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "4,886 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "4,906 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))"
           ],
           "answerIndex": 0,
           "explanation": "4800 + 96 = 4,896."
@@ -4444,10 +4444,10 @@
         {
           "prompt": "Calculate 87 x 11 mentally:",
           "options": [
-            "857",
-            "967",
-            "957",
-            "947"
+            "857 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "967 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "957 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "947 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))"
           ],
           "answerIndex": 2,
           "explanation": "87 x 11 = 957.",
@@ -4456,10 +4456,10 @@
         {
           "prompt": "Calculate 36 x 205 mentally:",
           "options": [
-            "7,280",
-            "7,380",
-            "7,360",
-            "7,480"
+            "7,280 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "7,380 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "7,360 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "7,480 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))"
           ],
           "answerIndex": 1,
           "explanation": "7200 + 180 = 7,380.",
@@ -4468,10 +4468,10 @@
         {
           "prompt": "Calculate 44 x 11 mentally:",
           "options": [
-            "484",
-            "474",
-            "494",
-            "464"
+            "484 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "474 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "494 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "464 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))"
           ],
           "answerIndex": 0,
           "explanation": "44 x 11 = 484.",
@@ -4480,10 +4480,10 @@
         {
           "prompt": "How do you multiply 234 x 11 using the neighbor addition rule?",
           "options": [
-            "2,374",
-            "2,474",
-            "2,584",
-            "2,574"
+            "2,374 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "2,474 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "2,584 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))",
+            "2,574 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method (U5))"
           ],
           "answerIndex": 3,
           "explanation": "Units 4, 3+4=7, 2+3=5, Lead 2 -> 2,574.",
@@ -4531,10 +4531,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 5, what is the exact result?",
           "options": [
-            "N(N+1)|25",
-            "Criss-cross multiplication",
-            "Long division",
-            "Repeated addition 75 times"
+            "N (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "Criss-cross multiplication (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "Long division (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "Repeated addition 75 times (Select and execute the fastest twodigit multiplication technique CrissCross (U5))"
           ],
           "answerIndex": 0,
           "explanation": "N(N+1)|25 gives the answer in under 1 second."
@@ -4542,10 +4542,10 @@
         {
           "prompt": "Which technique is fastest for 97 x 96?",
           "options": [
-            "Base 100 deficiency shortcut",
-            "Difference of squares",
-            "Column lattice",
-            "Factor trees"
+            "Base 100 deficiency shortcut (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "Difference of squares (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "Column lattice (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "Factor trees (Select and execute the fastest twodigit multiplication technique CrissCross (U5))"
           ],
           "answerIndex": 0,
           "explanation": "Base 100 gives 9,312 instantly."
@@ -4557,10 +4557,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "4,125",
-            "4,225",
-            "4,325",
-            "4,215"
+            "4,125 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "4,225 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "4,325 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "4,215 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))"
           ],
           "answerIndex": 1,
           "explanation": "6 x 7 = 42 -> 4,225."
@@ -4568,10 +4568,10 @@
         {
           "prompt": "Calculate 39 x 41 mentally:",
           "options": [
-            "1,601",
-            "1,599",
-            "1,591",
-            "1,589"
+            "1,601 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "1,599 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "1,591 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "1,589 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))"
           ],
           "answerIndex": 1,
           "explanation": "40² - 1 = 1,599."
@@ -4583,10 +4583,10 @@
         {
           "prompt": "Calculate 93 x 11 mentally:",
           "options": [
-            "1,033",
-            "1,023",
-            "923",
-            "1,013"
+            "1,033 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "1,023 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "923 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "1,013 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))"
           ],
           "answerIndex": 1,
           "explanation": "93 x 11 = 1,023.",
@@ -4595,10 +4595,10 @@
         {
           "prompt": "Calculate 95 x 98 mentally:",
           "options": [
-            "9,310",
-            "9,320",
-            "9,210",
-            "9,410"
+            "9,310 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "9,320 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "9,210 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "9,410 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))"
           ],
           "answerIndex": 0,
           "explanation": "95 - 2 = 93; 5 x 2 = 10 -> 9,310.",
@@ -4607,10 +4607,10 @@
         {
           "prompt": "Calculate 25² mentally:",
           "options": [
-            "615",
-            "635",
-            "525",
-            "625"
+            "615 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "635 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "525 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "625 (Select and execute the fastest twodigit multiplication technique CrissCross (U5))"
           ],
           "answerIndex": 3,
           "explanation": "2 x 3 = 6 -> 625.",
@@ -4619,10 +4619,10 @@
         {
           "prompt": "What core speed multiplication competencies were mastered across Unit 5 in Mental Math?",
           "options": [
-            "Taylor series expansions only",
-            "Matrix eigenvalue calculation only",
-            "Vertical-and-crosswise (Criss-Cross), Base 100 surplus/deficiency algebra, squaring numbers ending in 5, difference of squares for symmetric pairs, and 11-sandwich multiplication",
-            "Basic counting to ten only"
+            "Taylor series expansions only (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "Matrix eigenvalue calculation only (Select and execute the fastest twodigit multiplication technique CrissCross (U5))",
+            "Vertical-and-crosswise (Criss-Cross)",
+            "Basic counting to ten only (Select and execute the fastest twodigit multiplication technique CrissCross (U5))"
           ],
           "answerIndex": 2,
           "explanation": "Unit 5 complete advanced two-digit mental multiplication mastery.",

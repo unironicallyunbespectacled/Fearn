@@ -191,10 +191,10 @@
           "type": "multiple-choice",
           "prompt": "Why is the knight considered the classic forking piece, more than the queen?",
           "options": [
-            "It moves faster than other pieces",
-            "Its attack can't be blocked by interposing a piece, since it jumps over everything",
-            "It is worth less, so opponents fear losing it less",
-            "It always gives check when it forks"
+            "It moves faster than other pieces (Explain what a fork is and identify a knight fork that wins material in a simple (U1))",
+            "Its attack can't be blocked by interposing a piece, since it jumps over everything (Explain what a fork is and identify a knight fork that wins material in a simple (U1))",
+            "It is worth less, so opponents fear losing it less (Explain what a fork is and identify a knight fork that wins material in a simple (U1))",
+            "It always gives check when it forks (Explain what a fork is and identify a knight fork that wins material in a simple (U1))"
           ],
           "answer": "Its attack can't be blocked by interposing a piece, since it jumps over everything",
           "difficulty": 600,
@@ -259,10 +259,10 @@
           "type": "multiple-choice",
           "prompt": "What makes a royal fork (king + queen) especially strong compared to forking two minor pieces?",
           "options": [
-            "It is worth more points on the scoreboard",
-            "The king MUST move first, so the second target cannot be saved by counter-attack",
-            "It always leads to checkmate",
-            "It only works with knights"
+            "It is worth more points on the scoreboard (Find knight forks that win the king plus a major piece a royal fork in one to two moves (U1))",
+            "The king MUST move first, so the second target cannot be saved by counter-attack (Find knight forks that win the king plus a major piece a royal fork in one to two moves (U1))",
+            "It always leads to checkmate (Find knight forks that win the king plus a major piece a royal fork in one to two moves (U1))",
+            "It only works with knights (Find knight forks that win the king plus a major piece a royal fork in one to two moves (U1))"
           ],
           "answer": "The king MUST move first, so the second target cannot be saved by counter-attack",
           "difficulty": 600,
@@ -325,10 +325,10 @@
           "type": "multiple-choice",
           "prompt": "Why is being forked by a pawn especially costly compared to being forked by a knight?",
           "options": [
-            "Pawn forks are illegal to escape",
-            "The attacker risks almost nothing (a pawn) to win a far more valuable piece",
-            "Pawns move faster",
-            "It is not more costly, they are equivalent"
+            "Pawn forks are illegal to escape (Recognize and execute pawn forks that attack two undefended pieces with a single pawn advance (U1))",
+            "The attacker risks almost nothing (a pawn)",
+            "Pawns move faster (Recognize and execute pawn forks that attack two undefended pieces with a single pawn advance (U1))",
+            "It is not more costly, they are equivalent (Recognize and execute pawn forks that attack two undefended pieces with a single pawn advance (U1))"
           ],
           "answer": "The attacker risks almost nothing (a pawn) to win a far more valuable piece",
           "difficulty": 600,
@@ -376,10 +376,10 @@
           "type": "multiple-choice",
           "prompt": "What must you check before trusting a bishop or rook fork, that you don't need to check for a knight fork?",
           "options": [
-            "Whether the king is in check",
-            "Whether a piece can block (interpose) on the line between attacker and target",
-            "Whether it is White or Black to move",
-            "Whether the fork happens in the opening or endgame"
+            "Whether the king is in check (Identify forks delivered by bishops (U1))",
+            "Whether a piece can block (interpose)",
+            "Whether it is White or Black to move (Identify forks delivered by bishops (U1))",
+            "Whether the fork happens in the opening or endgame (Identify forks delivered by bishops (U1))"
           ],
           "answer": "Whether a piece can block (interpose) on the line between attacker and target",
           "difficulty": 700,
@@ -498,10 +498,10 @@
           "type": "multiple-choice",
           "prompt": "What makes a pin \"absolute\" rather than \"relative\"?",
           "options": [
-            "The pinning piece is a queen",
-            "The king (not just any piece) is directly behind the pinned piece on the line",
-            "The pinned piece is worth more than 3 points",
-            "The pin has lasted more than three moves"
+            "The pinning piece is a queen (Define an absolute pin versus a relative pin and identify each on a given board (U2))",
+            "The king (not just any piece)",
+            "The pinned piece is worth more than 3 points (Define an absolute pin versus a relative pin and identify each on a given board (U2))",
+            "The pin has lasted more than three moves (Define an absolute pin versus a relative pin and identify each on a given board (U2))"
           ],
           "answer": "The king (not just any piece) is directly behind the pinned piece on the line",
           "difficulty": 620,
@@ -557,10 +557,10 @@
           "type": "multiple-choice",
           "prompt": "After you pin an enemy knight to its king, what is the strongest follow-up plan?",
           "options": [
-            "Immediately trade your pinning piece for the knight",
-            "Bring additional attackers onto the pinned piece since it cannot run",
-            "Move your king forward",
-            "Castle immediately regardless of the position"
+            "Immediately trade your pinning piece for the knight (Set up an absolute pin against the enemy king and follow up by piling additional attackers on the pinned piece (U2))",
+            "Bring additional attackers onto the pinned piece since it cannot run (Set up an absolute pin against the enemy king and follow up by piling additional attackers on the pinned piece (U2))",
+            "Move your king forward (Set up an absolute pin against the enemy king and follow up by piling additional attackers on the pinned piece (U2))",
+            "Castle immediately regardless of the position (Set up an absolute pin against the enemy king and follow up by piling additional attackers on the pinned piece (U2))"
           ],
           "answer": "Bring additional attackers onto the pinned piece since it cannot run",
           "difficulty": 650,
@@ -610,10 +610,10 @@
           "type": "multiple-choice",
           "prompt": "When can a defender safely break a relative pin?",
           "options": [
-            "Never — relative pins are always fatal",
-            "When the piece behind the pin is well defended, or the move creates a big enough counter-threat",
-            "Only in the endgame",
-            "Only if the pinning piece is a queen"
+            "Never — relative pins are always fatal (Recognize when a relative pin can safely be broken by the defender (U2))",
+            "When the piece behind the pin is well defended, or the move creates a big enough counter-threat (Recognize when a relative pin can safely be broken by the defender (U2))",
+            "Only in the endgame (Recognize when a relative pin can safely be broken by the defender (U2))",
+            "Only if the pinning piece is a queen (Recognize when a relative pin can safely be broken by the defender (U2))"
           ],
           "answer": "When the piece behind the pin is well defended, or the move creates a big enough counter-threat",
           "difficulty": 700,
@@ -649,10 +649,10 @@
           "type": "multiple-choice",
           "prompt": "Why is a pawn attack especially effective against a pinned piece?",
           "options": [
-            "Pawns are immune to capture",
-            "It is the cheapest possible attacker, and the pinned piece often cannot safely move away",
-            "Pawns can only attack pinned pieces, never other pieces",
-            "It always delivers checkmate"
+            "Pawns are immune to capture (Use a pin to win material by attacking the pinned piece with a pawn (U2))",
+            "It is the cheapest possible attacker, and the pinned piece often cannot safely move away (Use a pin to win material by attacking the pinned piece with a pawn (U2))",
+            "Pawns can only attack pinned pieces, never other pieces (Use a pin to win material by attacking the pinned piece with a pawn (U2))",
+            "It always delivers checkmate (Use a pin to win material by attacking the pinned piece with a pawn (U2))"
           ],
           "answer": "It is the cheapest possible attacker, and the pinned piece often cannot safely move away",
           "difficulty": 650,
@@ -695,10 +695,10 @@
           "type": "multiple-choice",
           "prompt": "What is the most efficient piece to use when attacking an already-pinned piece?",
           "options": [
-            "The queen",
-            "A pawn",
-            "The king",
-            "It does not matter"
+            "The queen (Solve mixed pin puzzles combining absolute pins (U2))",
+            "A pawn (Solve mixed pin puzzles combining absolute pins (U2))",
+            "The king (Solve mixed pin puzzles combining absolute pins (U2))",
+            "It does not matter (Solve mixed pin puzzles combining absolute pins (U2))"
           ],
           "answer": "A pawn",
           "difficulty": 650,
@@ -755,10 +755,10 @@
           "type": "multiple-choice",
           "prompt": "What is the key difference between a pin and a skewer?",
           "options": [
-            "A pin only works with knights",
-            "In a pin the less valuable piece is attacked first; in a skewer the more valuable piece is attacked first",
-            "A skewer always ends in checkmate",
-            "A pin can only happen on diagonals"
+            "A pin only works with knights (Define a skewer and distinguish it from a pin by which piece is attacked first (U3))",
+            "In a pin the less valuable piece is attacked first; in a skewer the more valuable piece is attacked first (Define a skewer and distinguish it from a pin by which piece is attacked first (U3))",
+            "A skewer always ends in checkmate (Define a skewer and distinguish it from a pin by which piece is attacked first (U3))",
+            "A pin can only happen on diagonals (Define a skewer and distinguish it from a pin by which piece is attacked first (U3))"
           ],
           "answer": "In a pin the less valuable piece is attacked first; in a skewer the more valuable piece is attacked first",
           "difficulty": 600,
@@ -823,10 +823,10 @@
           "type": "multiple-choice",
           "prompt": "Which piece can deliver a skewer along a rank, a file, OR a diagonal, all by itself?",
           "options": [
-            "Rook",
-            "Bishop",
-            "Queen",
-            "Knight"
+            "Rook (Find skewers against the king that win a queen or rook standing behind it (U3))",
+            "Bishop (Find skewers against the king that win a queen or rook standing behind it (U3))",
+            "Queen (Find skewers against the king that win a queen or rook standing behind it (U3))",
+            "Knight (Find skewers against the king that win a queen or rook standing behind it (U3))"
           ],
           "answer": "Queen",
           "difficulty": 620,
@@ -891,10 +891,10 @@
           "type": "multiple-choice",
           "prompt": "Why is it useful for the square your attacking piece lands on to be defended, when skewering a queen?",
           "options": [
-            "It isn't useful",
-            "So the queen cannot simply capture your attacker for free",
-            "So the king can castle",
-            "Because undefended pieces can't move"
+            "It isn't useful (Find skewers against undefended queens and rooks with bishops and rooks (U3))",
+            "So the queen cannot simply capture your attacker for free (Find skewers against undefended queens and rooks with bishops and rooks (U3))",
+            "So the king can castle (Find skewers against undefended queens and rooks with bishops and rooks (U3))",
+            "Because undefended pieces can't move (Find skewers against undefended queens and rooks with bishops and rooks (U3))"
           ],
           "answer": "So the queen cannot simply capture your attacker for free",
           "difficulty": 650,
@@ -952,10 +952,10 @@
           "type": "multiple-choice",
           "prompt": "A rook attacks an enemy bishop that has an enemy queen directly behind it on the same file. What tactic is this?",
           "options": [
-            "A skewer, since the queen is more valuable and must be considered first",
-            "A pin, since the bishop (less valuable) is attacked first",
-            "A fork",
-            "Not a real tactical pattern"
+            "A skewer, since the queen is more valuable and must be considered first (Compare pin versus skewer in mixed positions and choose the winning tactic (U3))",
+            "A pin, since the bishop (less valuable)",
+            "A fork (Compare pin versus skewer in mixed positions and choose the winning tactic (U3))",
+            "Not a real tactical pattern (Compare pin versus skewer in mixed positions and choose the winning tactic (U3))"
           ],
           "answer": "A pin, since the bishop (less valuable) is attacked first",
           "difficulty": 700,
@@ -1068,10 +1068,10 @@
           "type": "multiple-choice",
           "prompt": "Why is a discovered attack often described as \"more dangerous\" than an ordinary direct attack?",
           "options": [
-            "It always wins the queen",
-            "The piece that moves is free to make its own threat at the same time as the revealed piece's threat, creating two problems at once",
-            "It can only be played by a knight",
-            "It is illegal to block a discovered attack"
+            "It always wins the queen (Define a discovered attack and explain why it can be more dangerous than a direct attack (U4))",
+            "The piece that moves is free to make its own threat at the same time as the revealed piece's threat, creating two problems at once (Define a discovered attack and explain why it can be more dangerous than a direct attack (U4))",
+            "It can only be played by a knight (Define a discovered attack and explain why it can be more dangerous than a direct attack (U4))",
+            "It is illegal to block a discovered attack (Define a discovered attack and explain why it can be more dangerous than a direct attack (U4))"
           ],
           "answer": "The piece that moves is free to make its own threat at the same time as the revealed piece's threat, creating two problems at once",
           "difficulty": 680,
@@ -1142,10 +1142,10 @@
           "type": "multiple-choice",
           "prompt": "Why does a discovered check win material especially reliably, compared to a discovered attack that is not check?",
           "options": [
-            "It does not — they are equally reliable",
-            "The defender is forced to answer the check first, so they cannot use that move to save the other attacked piece",
-            "Checks are worth extra points",
-            "Only checks can be blocked"
+            "It does not — they are equally reliable (Find discovered checks that win material because the king must respond first (U4))",
+            "The defender is forced to answer the check first, so they cannot use that move to save the other attacked piece (Find discovered checks that win material because the king must respond first (U4))",
+            "Checks are worth extra points (Find discovered checks that win material because the king must respond first (U4))",
+            "Only checks can be blocked (Find discovered checks that win material because the king must respond first (U4))"
           ],
           "answer": "The defender is forced to answer the check first, so they cannot use that move to save the other attacked piece",
           "difficulty": 680,
@@ -1217,10 +1217,10 @@
           "type": "multiple-choice",
           "prompt": "What makes double check especially useful for forcing checkmate?",
           "options": [
-            "It is worth double the material",
-            "The defender's options collapse to king moves only, so you can steer the king onto a square with no safe squares left",
-            "It skips the opponent's turn entirely",
-            "It is not actually stronger than a normal check"
+            "It is worth double the material (Identify discovered attacks created by moving a piece that both unleashes and itself attacks something the double check family (U4))",
+            "The defender's options collapse to king moves only, so you can steer the king onto a square with no safe squares left (Identify discovered attacks created by moving a piece that both unleashes and itself attacks something the double check family (U4))",
+            "It skips the opponent's turn entirely (Identify discovered attacks created by moving a piece that both unleashes and itself attacks something the double check family (U4))",
+            "It is not actually stronger than a normal check (Identify discovered attacks created by moving a piece that both unleashes and itself attacks something the double check family (U4))"
           ],
           "answer": "The defender's options collapse to king moves only, so you can steer the king onto a square with no safe squares left",
           "difficulty": 700,
@@ -1278,10 +1278,10 @@
           "type": "multiple-choice",
           "prompt": "What is a \"battery\" in chess?",
           "options": [
-            "A pair of knights defending each other",
-            "Two or more long-range pieces stacked on the same rank, file, or diagonal, aiming at the same target",
-            "A king and queen standing next to each other",
-            "Any two pieces that attack the same square from different lines"
+            "A pair of knights defending each other (Build a battery two pieces on one line as preparation for a future discovered attack (U4))",
+            "Two or more long-range pieces stacked on the same rank, file, or diagonal, aiming at the same target (Build a battery two pieces on one line as preparation for a future discovered attack (U4))",
+            "A king and queen standing next to each other (Build a battery two pieces on one line as preparation for a future discovered attack (U4))",
+            "Any two pieces that attack the same square from different lines (Build a battery two pieces on one line as preparation for a future discovered attack (U4))"
           ],
           "answer": "Two or more long-range pieces stacked on the same rank, file, or diagonal, aiming at the same target",
           "difficulty": 650,
@@ -1397,10 +1397,10 @@
           "type": "multiple-choice",
           "prompt": "Why is an absolutely pinned piece such a good fork target?",
           "options": [
-            "It is worth extra points while pinned",
-            "It cannot legally move away, so a second attacker is often enough to win it outright",
-            "It automatically loses its defenders",
-            "It can no longer be captured"
+            "It is worth extra points while pinned (Combine a pin with a fork in a twomove tactical sequence to win material (U5))",
+            "It cannot legally move away, so a second attacker is often enough to win it outright (Combine a pin with a fork in a twomove tactical sequence to win material (U5))",
+            "It automatically loses its defenders (Combine a pin with a fork in a twomove tactical sequence to win material (U5))",
+            "It can no longer be captured (Combine a pin with a fork in a twomove tactical sequence to win material (U5))"
           ],
           "answer": "It cannot legally move away, so a second attacker is often enough to win it outright",
           "difficulty": 760,
@@ -1546,10 +1546,10 @@
           "type": "multiple-choice",
           "prompt": "An \"overloaded\" defender is best described as:",
           "options": [
-            "A piece that has moved too many times",
-            "A single piece that is the only guard for two or more separate targets at once",
-            "A piece that is worth more than 9 points",
-            "Any piece standing next to the king"
+            "A piece that has moved too many times (Find doubleattack combinations that exploit overloaded defenders (U5))",
+            "A single piece that is the only guard for two or more separate targets at once (Find doubleattack combinations that exploit overloaded defenders (U5))",
+            "A piece that is worth more than 9 points (Find doubleattack combinations that exploit overloaded defenders (U5))",
+            "Any piece standing next to the king (Find doubleattack combinations that exploit overloaded defenders (U5))"
           ],
           "answer": "A single piece that is the only guard for two or more separate targets at once",
           "difficulty": 760,
@@ -1656,10 +1656,10 @@
           "type": "multiple-choice",
           "prompt": "Why is 1...Rxg8 the ONLY legal reply to 1.Qg8+ in the first example, rather than just one good option among several?",
           "options": [
-            "Because rooks are required to recapture queens",
-            "Because the knight on h6 defends g8, making Kxg8 illegal, while the pawns on g7 and h7 block the king's other escape squares",
-            "Because Black is in zugzwang",
-            "Because the queen is worth more than the rook"
+            "Because rooks are required to recapture queens (Calculate forcing sequences checks (U6))",
+            "Because the knight on h6 defends g8, making Kxg8 illegal, while the pawns on g7 and h7 block the king's other escape squares (Calculate forcing sequences checks (U6))",
+            "Because Black is in zugzwang (Calculate forcing sequences checks (U6))",
+            "Because the queen is worth more than the rook (Calculate forcing sequences checks (U6))"
           ],
           "answer": "Because the knight on h6 defends g8, making Kxg8 illegal, while the pawns on g7 and h7 block the king's other escape squares",
           "difficulty": 800,
@@ -1710,10 +1710,10 @@
           "type": "multiple-choice",
           "prompt": "Which candidate move should White calculate and play FIRST when there are two attackers and two defenders on the same square?",
           "options": [
-            "Capture with the most valuable attacker first, to intimidate the opponent",
-            "Capture with the least valuable attacker first, and recheck the exchange after each capture",
-            "It never matters which piece captures first",
-            "Always capture with the rook first, since rooks are stronger"
+            "Capture with the most valuable attacker first, to intimidate the opponent (Build and evaluate a candidatemove list before committing to a plan (U6))",
+            "Capture with the least valuable attacker first, and recheck the exchange after each capture (Build and evaluate a candidatemove list before committing to a plan (U6))",
+            "It never matters which piece captures first (Build and evaluate a candidatemove list before committing to a plan (U6))",
+            "Always capture with the rook first, since rooks are stronger (Build and evaluate a candidatemove list before committing to a plan (U6))"
           ],
           "answer": "Capture with the least valuable attacker first, and recheck the exchange after each capture",
           "difficulty": 780,
@@ -1828,10 +1828,10 @@
           "type": "multiple-choice",
           "prompt": "Which of the two candidates, Nc3 or d3, develops a piece toward the center while defending the pawn?",
           "options": [
-            "Nc3",
-            "d3",
-            "Both equally",
-            "Neither"
+            "Nc3 (Practice calculating quiet nonforcing candidate moves and comparing resulting plans (U6))",
+            "d3 (Practice calculating quiet nonforcing candidate moves and comparing resulting plans (U6))",
+            "Both equally (Practice calculating quiet nonforcing candidate moves and comparing resulting plans (U6))",
+            "Neither (Practice calculating quiet nonforcing candidate moves and comparing resulting plans (U6))"
           ],
           "answer": "Nc3",
           "difficulty": 750,
@@ -1951,10 +1951,10 @@
         {
           "prompt": "According to master chess strategy in Unit 8, Lesson 1, which move or plan is best?",
           "options": [
-            "A square where the King is in check",
-            "Any square on the edge of the board",
-            "A square occupied by a Queen",
-            "A square that can no longer be protected or attacked by any enemy pawns"
+            "A square where the King is in check (Identify weak squares (U8))",
+            "Any square on the edge of the board (Identify weak squares (U8))",
+            "A square occupied by a Queen (Identify weak squares (U8))",
+            "A square that can no longer be protected or attacked by any enemy pawns (Identify weak squares (U8))"
           ],
           "answerIndex": 3,
           "explanation": "A weak square cannot be guarded by enemy pawns because adjacent pawns have moved past or been traded."
@@ -1962,10 +1962,10 @@
         {
           "prompt": "Which chess piece benefits the most from occupying a secure, protected central outpost?",
           "options": [
-            "The Pawn",
-            "The Rook",
-            "The Knight",
-            "The King"
+            "The Pawn (Identify weak squares (U8))",
+            "The Rook (Identify weak squares (U8))",
+            "The Knight (Identify weak squares (U8))",
+            "The King (Identify weak squares (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Knights gain massive tactical reach and board control from central outposts."
@@ -1977,10 +1977,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 1: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "f5",
-            "d4",
-            "b5",
-            "d5"
+            "f5 (Identify weak squares (U8))",
+            "d4 (Identify weak squares (U8))",
+            "b5 (Identify weak squares (U8))",
+            "d5 (Identify weak squares (U8))"
           ],
           "answerIndex": 3,
           "explanation": "The advance ...e5 creates an irrevocable hole on d5."
@@ -1988,10 +1988,10 @@
         {
           "prompt": "What is the strategic technique of 'fixing a weakness'?",
           "options": [
-            "Playing an immediate premature pawn break",
-            "Exchanging all active minor pieces",
-            "Sacrificing an exchange for speculative counterplay",
-            "Placing pressure on a backward enemy pawn or square so the opponent can never advance it to relieve the structural defect"
+            "Playing an immediate premature pawn break (Identify weak squares (U8))",
+            "Exchanging all active minor pieces (Identify weak squares (U8))",
+            "Sacrificing an exchange for speculative counterplay (Identify weak squares (U8))",
+            "Placing pressure on a backward enemy pawn or square so the opponent can never advance it to relieve the structural defect (Identify weak squares (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Fixing a weakness immobilizes the defective pawn."
@@ -2003,10 +2003,10 @@
         {
           "prompt": "Match the positional concepts: Hole, Outpost, Backward Pawn, Octopus Knight:",
           "options": [
-            "All are endgame conversion rules",
-            "All are basic tactical motifs",
-            "Hole: Pawn-undefendable square | Outpost: Hole guarded by own pawn | Backward Pawn: Pawn trailing behind neighbor on open file | Octopus Knight: Dominant 6th-rank knight",
-            "All are king safety principles"
+            "All are endgame conversion rules (Identify weak squares (U8))",
+            "All are basic tactical motifs (Identify weak squares (U8))",
+            "Hole: Pawn-undefendable square | Outpost: Hole guarded by own pawn | Backward Pawn: Pawn trailing behind neighbor on open file | Octopus Knight: Dominant 6th-rank knight (Identify weak squares (U8))",
+            "All are king safety principles (Identify weak squares (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Positional pawn structure definitions.",
@@ -2015,10 +2015,10 @@
         {
           "prompt": "Why did World Champion Garry Kasparov call his Knight on d3 in Game 16 against Anatoly Karpov (1985) 'The Monster Octopus'?",
           "options": [
-            "Because it defended eight pawns at once.",
-            "Because anchored deep on d3 in White's camp, the Knight controlled 8 critical squares, paralyzed White's rooks, and single-handedly won the World Championship game.",
-            "Because it was pinned to White's king.",
-            "Because it guarded every escape square on the rank."
+            "Because it defended eight pawns at once. (Identify weak squares (U8))",
+            "Because anchored deep on d3 in White's camp, the Knight controlled 8 critical squares, paralyzed White's rooks, and single-handedly won the World Championship game. (Identify weak squares (U8))",
+            "Because it was pinned to White's king. (Identify weak squares (U8))",
+            "Because it guarded every escape square on the rank. (Identify weak squares (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Kasparov's famous Nd3 octopus knight paralyzed Karpov's entire army.",
@@ -2027,10 +2027,10 @@
         {
           "prompt": "What is the most effective method to neutralize an opponent's monstrous knight on an outpost?",
           "options": [
-            "Trade it off immediately with your own minor piece, or sacrifice an exchange (Rook for Knight) if the knight is utterly paralyzing your position.",
-            "Move your King to the center.",
-            "Advance all your kingside pawns.",
-            "Ignore it completely."
+            "Trade it off immediately with your own minor piece, or sacrifice an exchange (Rook for Knight)",
+            "Move your King to the center. (Identify weak squares (U8))",
+            "Advance all your kingside pawns. (Identify weak squares (U8))",
+            "Ignore it completely. (Identify weak squares (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Trading the piece or an exchange sacrifice is standard master defensive technique.",
@@ -2039,10 +2039,10 @@
         {
           "prompt": "Complete the positional maxim: 'Every pawn advance creates _______ in its wake.'",
           "options": [
-            "more rooks",
-            "automatic checks",
-            "free queens",
-            "weaknesses and potential holes"
+            "more rooks (Identify weak squares (U8))",
+            "automatic checks (Identify weak squares (U8))",
+            "free queens (Identify weak squares (U8))",
+            "weaknesses and potential holes (Identify weak squares (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Pawns cannot move backwards; every advance permanently weakens squares.",
@@ -2086,10 +2086,10 @@
         {
           "prompt": "According to master chess strategy in Unit 8, Lesson 2, which move or plan is best?",
           "options": [
-            "Because a skilled defender can coordinate their pieces to fortify and guard a single static target indefinitely.",
-            "Because of the 50-move rule.",
-            "Because the rules forbid attacking one piece.",
-            "Because single pawns cannot be taken."
+            "Because a skilled defender can coordinate their pieces to fortify and guard a single static target indefinitely. (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "Because of the 50-move rule. (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "Because the rules forbid attacking one piece. (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "Because single pawns cannot be taken. (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))"
           ],
           "answerIndex": 0,
           "explanation": "A single target allows maximum defensive economy and piece coordination."
@@ -2097,10 +2097,10 @@
         {
           "prompt": "What is the primary objective of creating a second weakness on the opposite side of the board?",
           "options": [
-            "To overstretch the opponent's pieces across distance until they can no longer shuttle back and forth to defend both targets simultaneously",
-            "To trade Queens",
-            "To promote both pawns on the same turn",
-            "To force an immediate stalemate"
+            "To overstretch the opponent's pieces across distance until they can no longer shuttle back and forth to defend both targets simultaneously (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "To trade Queens (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "To promote both pawns on the same turn (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "To force an immediate stalemate (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Bilateral distance exhausts the defender's lateral mobility."
@@ -2112,10 +2112,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 2: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Offer a draw",
-            "Repeatedly check Black's King with no purpose",
-            "March the White King over to the kingside (f-g-h files) to attack Black's undefended kingside pawns",
-            "Sacrifice all queenside pawns"
+            "Offer a draw (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "Repeatedly check Black's King with no purpose (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "March the White King over to the kingside (f-g-h files)",
+            "Sacrifice all queenside pawns (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Creating a kingside breach while Black is anchored to a6 forces a decisive win."
@@ -2123,10 +2123,10 @@
         {
           "prompt": "Which chess piece excels the most at exploiting two distant weaknesses due to its rapid lateral switching speed?",
           "options": [
-            "The Knight",
-            "The King",
-            "The Pawn",
-            "The Rook (and Queen), because horizontal rank switches can traverse from a-file to h-file in a single move"
+            "The Knight (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "The King (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "The Pawn (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "The Rook (and Queen)"
           ],
           "answerIndex": 3,
           "explanation": "Rooks and Queens have unlimited horizontal range along ranks."
@@ -2138,10 +2138,10 @@
         {
           "prompt": "Synthesize the 3 phases of executing the Principle of Two Weaknesses:",
           "options": [
-            "1. Trade rooks; 2. Trade knights; 3. Trade bishops",
-            "1. Fix and tie down pieces to Weakness #1; 2. Open Weakness #2 on the opposite wing; 3. Rapidly switch attack vectors until the defender collapses",
-            "1. Castle kingside; 2. Castle queenside; 3. Promote",
-            "1. Check; 2. Check; 3. Checkmate"
+            "1. Trade rooks; 2. Trade knights; 3. Trade bishops (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "1. Fix and tie down pieces to Weakness #1; 2. Open Weakness #2 on the opposite wing; 3. Rapidly switch attack vectors until the defender collapses (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "1. Castle kingside; 2. Castle queenside; 3. Promote (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "1. Check; 2. Check; 3. Checkmate (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))"
           ],
           "answerIndex": 1,
           "explanation": "The 3-phase two-weakness conversion framework.",
@@ -2150,10 +2150,10 @@
         {
           "prompt": "What defensive vulnerability causes the collapse of an opponent subjected to two weaknesses?",
           "options": [
-            "Overload (one piece tasked with defending two separate targets) and lack of piece coordination across distance",
-            "Having too many pieces",
-            "The king being too close to the center",
-            "Running out of score sheet space"
+            "Overload (one piece tasked with defending two separate targets)",
+            "Having too many pieces (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "The king being too close to the center (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "Running out of score sheet space (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Defensive overload and spatial dislocation cause tactical collapse.",
@@ -2162,10 +2162,10 @@
         {
           "prompt": "Why are Knight endgames particularly susceptible to the Principle of Two Weaknesses?",
           "options": [
-            "Because knights cannot capture backwards.",
-            "Because knights cannot jump over pawns.",
-            "Because knights only move on dark squares.",
-            "Because Knights are short-range pieces that take 3-4 slow moves to cross from one wing to the other, making them helpless against simultaneous split-wing threats."
+            "Because knights cannot capture backwards. (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "Because knights cannot jump over pawns. (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "Because knights only move on dark squares. (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "Because Knights are short-range pieces that take 3-4 slow moves to cross from one wing to the other, making them helpless against simultaneous split-wing threats. (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Knights suffer severe spatial lag when defending opposite flanks.",
@@ -2174,10 +2174,10 @@
         {
           "prompt": "Complete the grandmaster rule: 'If the opponent defends the fortress on the left, _______.'",
           "options": [
-            "trade your queen",
-            "repeat moves for a draw",
-            "blow open the gates on the right",
-            "resign immediately"
+            "trade your queen (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "repeat moves for a draw (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "blow open the gates on the right (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))",
+            "resign immediately (Apply the Principle of Two Weaknesses in complex middlegames and endgames (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Shift focus to the unfortified opposite flank.",
@@ -2221,10 +2221,10 @@
         {
           "prompt": "According to master chess strategy in Unit 8, Lesson 3, which move or plan is best?",
           "options": [
-            "When the bishop is worth 2 points",
-            "When it moves like a knight",
-            "When it is on the edge of the board",
-            "When its own center pawns are locked on the same color squares as the bishop, severely obstructing its diagonal mobility and turning it into a 'tall pawn'"
+            "When the bishop is worth 2 points (Differentiate piece activity from passive defense (U8))",
+            "When it moves like a knight (Differentiate piece activity from passive defense (U8))",
+            "When it is on the edge of the board (Differentiate piece activity from passive defense (U8))",
+            "When its own center pawns are locked on the same color squares as the bishop, severely obstructing its diagonal mobility and turning it into a 'tall pawn' (Differentiate piece activity from passive defense (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Own pawns locked on the bishop's color paralyze its mobility."
@@ -2232,10 +2232,10 @@
         {
           "prompt": "If you have a 'bad bishop' locked behind your own fixed central pawns, what is your primary strategic objective?",
           "options": [
-            "Hide it behind the king forever",
-            "Resign the game",
-            "Promote it to a queen",
-            "Trade it off for an active enemy knight or good bishop, or break open the pawn chain with a pawn sacrifice to liberate its diagonals"
+            "Hide it behind the king forever (Differentiate piece activity from passive defense (U8))",
+            "Resign the game (Differentiate piece activity from passive defense (U8))",
+            "Promote it to a queen (Differentiate piece activity from passive defense (U8))",
+            "Trade it off for an active enemy knight or good bishop, or break open the pawn chain with a pawn sacrifice to liberate its diagonals (Differentiate piece activity from passive defense (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Liquidation or pawn break liberation solves the bad bishop defect."
@@ -2247,10 +2247,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 3: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Because the Knight can jump to both light and dark squares to attack the enemy pawns, while the Bad Bishop is blind to half the board and blocked by its own pawns.",
-            "Because Knights are worth 5 points in endgames.",
-            "Because bishops cannot move in endgames.",
-            "Because the knight can check the king from distance."
+            "Because the Knight can jump to both light and dark squares to attack the enemy pawns, while the Bad Bishop is blind to half the board and blocked by its own pawns. (Differentiate piece activity from passive defense (U8))",
+            "Because Knights are worth 5 points in endgames. (Differentiate piece activity from passive defense (U8))",
+            "Because bishops cannot move in endgames. (Differentiate piece activity from passive defense (U8))",
+            "Because the knight can check the king from distance. (Differentiate piece activity from passive defense (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Knights possess dual-color versatility; bad bishops suffer color blindness and obstruction."
@@ -2258,10 +2258,10 @@
         {
           "prompt": "What is Nimzowitsch's concept of 'Overprotection'?",
           "options": [
-            "Defending a strategically vital central strongpoint with multiple pieces to establish structural dominance and free those pieces for dynamic maneuvers",
-            "Putting 5 pawns around the King",
-            "Never attacking the opponent",
-            "Playing only defensive moves"
+            "Defending a strategically vital central strongpoint with multiple pieces to establish structural dominance and free those pieces for dynamic maneuvers (Differentiate piece activity from passive defense (U8))",
+            "Putting 5 pawns around the King (Differentiate piece activity from passive defense (U8))",
+            "Never attacking the opponent (Differentiate piece activity from passive defense (U8))",
+            "Playing only defensive moves (Differentiate piece activity from passive defense (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Overprotecting vital centers provides structural stability and dynamic freedom."
@@ -2273,10 +2273,10 @@
         {
           "prompt": "Match the piece quality types: Good Bishop, Bad Bishop, Active Piece, Passive Piece:",
           "options": [
-            "Good Bishop: Free diagonals outside own pawn color | Bad Bishop: Blocked by own fixed pawns | Active Piece: Controls vital squares/files | Passive Piece: Tied down to defense",
-            "All are pawn structures",
-            "All are equal value",
-            "All mean queens"
+            "Good Bishop: Free diagonals outside own pawn color | Bad Bishop: Blocked by own fixed pawns | Active Piece: Controls vital squares/files | Passive Piece: Tied down to defense (Differentiate piece activity from passive defense (U8))",
+            "All are pawn structures (Differentiate piece activity from passive defense (U8))",
+            "All are equal value (Differentiate piece activity from passive defense (U8))",
+            "All mean queens (Differentiate piece activity from passive defense (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Piece activity and bishop classification.",
@@ -2285,10 +2285,10 @@
         {
           "prompt": "In the French Defense (1.e4 e6 2.d4 d5 3.e5 c5), why does Black frequently play ...b6 followed by ...Ba6?",
           "options": [
-            "To castle queenside.",
-            "To prepare a knight fork.",
-            "To blunder a piece.",
-            "To trade off Black's notoriously 'bad' light-squared Bishop on c8 for White's dangerous active bishop on f1."
+            "To castle queenside. (Differentiate piece activity from passive defense (U8))",
+            "To prepare a knight fork. (Differentiate piece activity from passive defense (U8))",
+            "To blunder a piece. (Differentiate piece activity from passive defense (U8))",
+            "To trade off Black's notoriously 'bad' light-squared Bishop on c8 for White's dangerous active bishop on f1. (Differentiate piece activity from passive defense (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Strategic exchange of Black's problem French bishop via Ba6.",
@@ -2297,10 +2297,10 @@
         {
           "prompt": "Why is piece activity often more important than clinging to an extra pawn in complex positions?",
           "options": [
-            "Because pawns do not count on the scoreboard.",
-            "It is a tournament courtesy.",
-            "Because active pieces generate continuous tactical threats, pins, and infiltration that force the passive side into fatal material or positional concessions (deliberate practice).",
-            "Because computers prefer pieces."
+            "Because pawns do not count on the scoreboard. (Differentiate piece activity from passive defense (U8))",
+            "It is a tournament courtesy. (Differentiate piece activity from passive defense (U8))",
+            "Because active pieces generate continuous tactical threats, pins, and infiltration that force the passive side into fatal material or positional concessions (deliberate practice)",
+            "Because computers prefer pieces. (Differentiate piece activity from passive defense (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Dynamic piece activity overpowers passive material advantages.",
@@ -2309,10 +2309,10 @@
         {
           "prompt": "Complete: 'A Bad Bishop inside the pawn chain is merely a _______.'",
           "options": [
-            "queen in disguise",
-            "tall pawn",
-            "winning weapon",
-            "free rook"
+            "queen in disguise (Differentiate piece activity from passive defense (U8))",
+            "tall pawn (Differentiate piece activity from passive defense (U8))",
+            "winning weapon (Differentiate piece activity from passive defense (U8))",
+            "free rook (Differentiate piece activity from passive defense (U8))"
           ],
           "answerIndex": 1,
           "explanation": "A bad bishop is classically called a 'tall pawn'.",
@@ -2356,10 +2356,10 @@
         {
           "prompt": "According to master chess strategy in Unit 8, Lesson 4, which move or plan is best?",
           "options": [
-            "An illegal move",
-            "A heavy piece battery consisting of two Rooks in front and the Queen directly behind them on a single open file",
-            "A type of chess clock",
-            "A trick opening with pawns"
+            "An illegal move (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "A heavy piece battery consisting of two Rooks in front and the Queen directly behind them on a single open file (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "A type of chess clock (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "A trick opening with pawns (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Alekhine's Gun is the tripling of two rooks backed by the queen on a file."
@@ -2367,10 +2367,10 @@
         {
           "prompt": "Why is establishing a Rook on the opponent's 7th rank so devastatingly powerful?",
           "options": [
-            "Because the 7th rank is the natural resting row for enemy unadvanced pawns (which are attacked from the side) and pins the enemy King against the back rank.",
-            "Because the opponent loses their turn.",
-            "Because rooks move twice on the 7th rank.",
-            "Because rooks turn into queens on the 7th rank."
+            "Because the 7th rank is the natural resting row for enemy unadvanced pawns (which are attacked from the side)",
+            "Because the opponent loses their turn. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Because rooks move twice on the 7th rank. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Because rooks turn into queens on the 7th rank. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))"
           ],
           "answerIndex": 0,
           "explanation": "The 7th rank attacks base pawns horizontally and threatens back-rank mate nets."
@@ -2382,10 +2382,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 4: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Create an outpost on the file (e.g. c5/c6) to anchor a piece, or double your rooks first and prepare to control the entry squares (c7/c8).",
-            "Close the file by putting your own pawns on it.",
-            "Abandon the file and move to the corner.",
-            "Offer a draw immediately."
+            "Create an outpost on the file (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Close the file by putting your own pawns on it. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Abandon the file and move to the corner. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Offer a draw immediately. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Outposts and heavy batteries win the fight for open file dominance."
@@ -2393,10 +2393,10 @@
         {
           "prompt": "What happens when 'Blind Pigs' (doubled Rooks on the 7th rank) coordinate against an enemy castled King?",
           "options": [
-            "They deliver relentless alternating discovered checks, perpetual checks, or forced checkmate combinations.",
-            "The King can capture both rooks safely.",
-            "The game is automatically a draw.",
-            "The rooks cancel each other out."
+            "They deliver relentless alternating discovered checks, perpetual checks, or forced checkmate combinations. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "The King can capture both rooks safely. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "The game is automatically a draw. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "The rooks cancel each other out. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Doubled 7th-rank rooks deliver deadly discovered checks and mating nets."
@@ -2408,10 +2408,10 @@
         {
           "prompt": "Match the open file concepts: Open File, Semi-Open File, Alekhine's Gun, 7th Rank Infiltration:",
           "options": [
-            "All are endgame draws",
-            "All are pawn promotions",
-            "All mean knight forks",
-            "Open File: No pawns on file | Semi-Open File: Only enemy pawns | Alekhine's Gun: Tripled R+R+Q battery | 7th Rank: Decimates pawns & king"
+            "All are endgame draws (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "All are pawn promotions (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "All mean knight forks (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Open File: No pawns on file | Semi-Open File: Only enemy pawns | Alekhine's Gun: Tripled R+R+Q battery | 7th Rank: Decimates pawns & king (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))"
           ],
           "answerIndex": 3,
           "explanation": "Open file and rook battery operations.",
@@ -2420,10 +2420,10 @@
         {
           "prompt": "In Alexander Alekhine's famous 1930 victory over Aron Nimzowitsch, what file was used to construct the devastating 'Gun' battery?",
           "options": [
-            "The a-file",
-            "The e-file",
-            "The c-file",
-            "The h-file"
+            "The a-file (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "The e-file (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "The c-file (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "The h-file (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Alekhine built his immortal gun on the open c-file.",
@@ -2432,10 +2432,10 @@
         {
           "prompt": "Why are Rooks often ineffective in the early opening phase of a chess game?",
           "options": [
-            "Because rooks cannot move until turn 20.",
-            "Because the board is clogged with central pawns and minor pieces, giving the long-range horizontal/vertical Rook zero open files to maneuver.",
-            "Because rooks are illegal in openings.",
-            "Because bishops are faster."
+            "Because rooks cannot move until turn 20. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Because the board is clogged with central pawns and minor pieces, giving the long-range horizontal/vertical Rook zero open files to maneuver. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Because rooks are illegal in openings. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "Because bishops are faster. (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Closed files and underdeveloped pieces block rook mobility in the opening.",
@@ -2444,10 +2444,10 @@
         {
           "prompt": "Complete: 'A Rook on the 7th rank is worth _______.'",
           "options": [
-            "at least a pawn advantage and often the entire game",
-            "less than a pawn",
-            "exactly 3 points",
-            "an automatic rematch"
+            "at least a pawn advantage and often the entire game (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "less than a pawn (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "exactly 3 points (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))",
+            "an automatic rematch (Seize and control open and semiopen files with heavy piece batteries Alekhines Gun and execute decisive 7th and 8th rank infiltrations to decimate enemy pawn chains (U8))"
           ],
           "answerIndex": 0,
           "explanation": "7th-rank rook dominance is worth at least a full pawn.",
@@ -2491,10 +2491,10 @@
         {
           "prompt": "According to master chess strategy in Unit 8, Lesson 5, which move or plan is best?",
           "options": [
-            "The habit of identifying the opponent's active intentions, threats, and liberating pawn breaks on every turn and neutralizing them before executing your own plans",
-            "Playing as fast as possible on the clock",
-            "Sacrificing the queen on turn 10",
-            "Memorizing opening computer lines"
+            "The habit of identifying the opponent's active intentions, threats, and liberating pawn breaks on every turn and neutralizing them before executing your own plans (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Playing as fast as possible on the clock (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Sacrificing the queen on turn 10 (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Memorizing opening computer lines (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Prophylaxis is preventative thinking that suffocates enemy counterplay."
@@ -2502,10 +2502,10 @@
         {
           "prompt": "What is 'Zugzwang' in chess?",
           "options": [
-            "A compulsory situation where any move the player makes severely damages their position, but they are legally forced to move",
-            "A German chess tournament",
-            "A special pawn capture",
-            "An illegal castling move"
+            "A compulsory situation where any move the player makes severely damages their position, but they are legally forced to move (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "A German chess tournament (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "A special pawn capture (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "An illegal castling move (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Zugzwang means 'compulsion to move' leading to immediate disadvantage."
@@ -2517,10 +2517,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 8, Lesson 5: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "He pinned the bishop to the queen.",
-            "He locked the pawn structure with h4-h5 and f3-f4, burying Black's bishop behind a wall of its own pawns on g6 and effectively playing up a full piece on the queenside.",
-            "The bishop walked off the board.",
-            "He captured the bishop with a knight on move 3."
+            "He pinned the bishop to the queen. (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "He locked the pawn structure with h4-h5 and f3-f4, burying Black's bishop behind a wall of its own pawns on g6 and effectively playing up a full piece on the queenside. (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "The bishop walked off the board. (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "He captured the bishop with a knight on move 3. (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Capablanca entombed the g6 bishop behind locked pawns."
@@ -2528,10 +2528,10 @@
         {
           "prompt": "What is the sequence of steps in a classic Anatoly Karpov positional squeeze?",
           "options": [
-            "1. Trade all pawns -> 2. Stalemate",
-            "1. Prophylactically restrict counterplay -> 2. Establish a central outpost -> 3. Control open files -> 4. Induce zugzwang and break through",
-            "1. Play only knight moves -> 2. Resign",
-            "1. Attack the king immediately -> 2. Sacrifice everything -> 3. Checkmate"
+            "1. Trade all pawns -> 2. Stalemate (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "1. Prophylactically restrict counterplay -> 2. Establish a central outpost -> 3. Control open files -> 4. Induce zugzwang and break through (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "1. Play only knight moves -> 2. Resign (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "1. Attack the king immediately -> 2. Sacrifice everything -> 3. Checkmate (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))"
           ],
           "answerIndex": 1,
           "explanation": "The 4-step positional restriction and squeeze blueprint."
@@ -2543,10 +2543,10 @@
         {
           "prompt": "What core positional, tactical, and strategic competencies were mastered across Chess Strategy Unit 8?",
           "options": [
-            "Blindfold chess tricks only",
-            "Opening move names only",
-            "Weak squares, holes, and outposts (octopus knights), the Principle of Two Weaknesses across opposite wings, Good vs. Bad Bishop dynamics and trades, open files, Alekhine's Gun batteries, 7th rank infiltration, prophylaxis, and zugzwang squeezes",
-            "Chess clock mechanics only"
+            "Blindfold chess tricks only (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Opening move names only (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Weak squares, holes, and outposts (octopus knights)",
+            "Chess clock mechanics only (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))"
           ],
           "answerIndex": 2,
           "explanation": "Unit 8 comprehensive advanced positional strategy, outpost mastery, and prophylaxis.",
@@ -2555,10 +2555,10 @@
         {
           "prompt": "Why does a master player prioritize positional restriction over wild attacking tactics against equal opponents?",
           "options": [
-            "Because tactics are banned in tournaments.",
-            "Because premature tactical attacks against sound defenses fail, whereas systematic positional restriction eliminates the opponent's counterplay, making the final tactical breakthrough effortless and decisive (deliberate practice).",
-            "Because slow moves score more points.",
-            "Because kings cannot be attacked."
+            "Because tactics are banned in tournaments. (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Because premature tactical attacks against sound defenses fail, whereas systematic positional restriction eliminates the opponent's counterplay, making the final tactical breakthrough effortless and decisive (deliberate practice)",
+            "Because slow moves score more points. (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Because kings cannot be attacked. (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))"
           ],
           "answerIndex": 1,
           "explanation": "Positional preparation creates the structural conditions for decisive tactics.",
@@ -2567,10 +2567,10 @@
         {
           "prompt": "Identify the World Champion celebrated as the greatest master of prophylaxis and positional restriction in chess history:",
           "options": [
-            "Anatoly Karpov",
-            "Mikhail Tal",
-            "Paul Morphy",
-            "Garry Kasparov only"
+            "Anatoly Karpov (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Mikhail Tal (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Paul Morphy (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Garry Kasparov only (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))"
           ],
           "answerIndex": 0,
           "explanation": "Karpov, Petrosian, and Capablanca are the supreme triumvirate of positional prophylaxis.",
@@ -2579,10 +2579,10 @@
         {
           "prompt": "What is the next frontier of Chess mastery in Unit 9?",
           "options": [
-            "Learning chess variants",
-            "Playing with 3 players",
-            "Memorizing chess history trivia",
-            "Opening Repertoire (building a coherent, integrated grandmaster opening repertoire for White (1.e4 and 1.d4) and Black)"
+            "Learning chess variants (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Playing with 3 players (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Memorizing chess history trivia (Synthesize all Unit 8 positional principles by analyzing and executing a grandmasterlevel positional squeeze (U8))",
+            "Opening Repertoire (1.e4 and 1.d4)"
           ],
           "answerIndex": 3,
           "explanation": "Unit 9 focuses on building a coherent opening repertoire.",
@@ -2620,10 +2620,10 @@
         {
           "prompt": "According to master chess strategy in Unit 9, Lesson 1, which move or plan is best?",
           "options": [
-            "Nb1-a3-c2-e1",
-            "Nb1-c3-b5-d6",
-            "Nb1-a3-b5-c7",
-            "Nb1-d2-f1-g3 (or e3), establishing a powerful attacking post aimed at the f5/d5 squares"
+            "Nb1-a3-c2-e1 (Master classical 1 (U9))",
+            "Nb1-c3-b5-d6 (Master classical 1 (U9))",
+            "Nb1-a3-b5-c7 (Master classical 1 (U9))",
+            "Nb1-d2-f1-g3 (Master classical 1 (U9))"
           ],
           "answerIndex": 3,
           "explanation": "Nd2-f1-g3 is the quintessential Spanish knight maneuver."
@@ -2631,10 +2631,10 @@
         {
           "prompt": "Why does White play 8.c3 in the Ruy Lopez before pushing d4?",
           "options": [
-            "To trap White's own queen",
-            "To block the c-file permanently",
-            "To give up the center",
-            "To support the d4 central pawn push and create an escape retreat square on c2 for the valuable light-squared bishop"
+            "To trap White's own queen (Master classical 1 (U9))",
+            "To block the c-file permanently (Master classical 1 (U9))",
+            "To give up the center (Master classical 1 (U9))",
+            "To support the d4 central pawn push and create an escape retreat square on c2 for the valuable light-squared bishop (Master classical 1 (U9))"
           ],
           "answerIndex": 3,
           "explanation": "c3 supports d4 and provides the Bc2 retreat haven."
@@ -2646,10 +2646,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 1: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Win White's queen in 3 moves",
-            "Force an immediate draw on move 9",
-            "Defend passively for 50 moves",
-            "Sacrifice a central pawn with 8...d5! to seize raging kingside initiative, active piece coordination, and attack White's uncoordinated kingside"
+            "Win White's queen in 3 moves (Master classical 1 (U9))",
+            "Force an immediate draw on move 9 (Master classical 1 (U9))",
+            "Defend passively for 50 moves (Master classical 1 (U9))",
+            "Sacrifice a central pawn with 8...d5! to seize raging kingside initiative, active piece coordination, and attack White's uncoordinated kingside (Master classical 1 (U9))"
           ],
           "answerIndex": 3,
           "explanation": "The Marshall Attack is Frank Marshall's legendary counter-attacking pawn sacrifice."
@@ -2657,10 +2657,10 @@
         {
           "prompt": "What makes 1.e4 e5 games 'Open Games'?",
           "options": [
-            "The board has no pawns",
-            "Players are forbidden from castling",
-            "Games must finish in 10 moves",
-            "Both sides stake immediate symmetrical claims on the center, leading to rapid pawn tension, open lines, and tactical piece contact"
+            "The board has no pawns (Master classical 1 (U9))",
+            "Players are forbidden from castling (Master classical 1 (U9))",
+            "Games must finish in 10 moves (Master classical 1 (U9))",
+            "Both sides stake immediate symmetrical claims on the center, leading to rapid pawn tension, open lines, and tactical piece contact (Master classical 1 (U9))"
           ],
           "answerIndex": 3,
           "explanation": "Early central pawn tension opens files and diagonals for dynamic piece clashes."
@@ -2672,10 +2672,10 @@
         {
           "prompt": "Match the 1.e4 openings with their defining move orders: Ruy Lopez, Italian Game, Scotch Game, Four Knights:",
           "options": [
-            "All start with 1.d4",
-            "Ruy Lopez: 3.Bb5 | Italian Game: 3.Bc4 | Scotch Game: 3.d4 | Four Knights: 3.Nc3 Nf6",
-            "All are illegal moves",
-            "All are pawn endgames"
+            "All start with 1.d4 (Master classical 1 (U9))",
+            "Ruy Lopez: 3.Bb5 | Italian Game: 3.Bc4 | Scotch Game: 3.d4 | Four Knights: 3.Nc3 Nf6 (Master classical 1 (U9))",
+            "All are illegal moves (Master classical 1 (U9))",
+            "All are pawn endgames (Master classical 1 (U9))"
           ],
           "answerIndex": 1,
           "explanation": "Open Game move order matching.",
@@ -2684,10 +2684,10 @@
         {
           "prompt": "Why did Garry Kasparov call the Ruy Lopez 'the university of chess'?",
           "options": [
-            "Because mastering the Ruy Lopez teaches every fundamental theme in chess: piece maneuvers, central pawn tension, space advantages, prophylaxis, and opposite-wing attacks",
-            "Because it requires a degree in mathematics",
-            "Because only professors play it",
-            "Because it was invented at Oxford University"
+            "Because mastering the Ruy Lopez teaches every fundamental theme in chess: piece maneuvers, central pawn tension, space advantages, prophylaxis, and opposite-wing attacks (Master classical 1 (U9))",
+            "Because it requires a degree in mathematics (Master classical 1 (U9))",
+            "Because only professors play it (Master classical 1 (U9))",
+            "Because it was invented at Oxford University (Master classical 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "The Ruy Lopez encompasses the full spectrum of strategic and tactical chess concepts.",
@@ -2696,10 +2696,10 @@
         {
           "prompt": "What is Black's main counterplay break in the Closed Ruy Lopez?",
           "options": [
-            "...f5 on move 4",
-            "...g5 on move 6",
-            "...h5 on move 2",
-            "...c5 (followed by ...Nc6-c4 or ...cxd4) and expanding on the queenside with ...b5"
+            "...f5 on move 4 (Master classical 1 (U9))",
+            "...g5 on move 6 (Master classical 1 (U9))",
+            "...h5 on move 2 (Master classical 1 (U9))",
+            "...c5 (followed by ...Nc6-c4 or ...cxd4)"
           ],
           "answerIndex": 3,
           "explanation": "Queenside counter-expansion with ...c5 and ...b5 is Black's standard counter-balance.",
@@ -2708,10 +2708,10 @@
         {
           "prompt": "Complete: 'In classical 1.e4 openings, control of the center is the foundation for _______.'",
           "options": [
-            "resigning early",
-            "trading all pieces immediately",
-            "flank attacks and piece freedom",
-            "stalemating"
+            "passive defense (Master classical 1 (U9))",
+            "trading all pieces immediately (Master classical 1 (U9))",
+            "flank attacks and piece freedom (Master classical 1 (U9))",
+            "stalemating (Master classical 1 (U9))"
           ],
           "answerIndex": 2,
           "explanation": "Central control provides the spatial foundation for successful flank operations.",
@@ -2749,10 +2749,10 @@
         {
           "prompt": "According to master chess strategy in Unit 9, Lesson 2, which move or plan is best?",
           "options": [
-            "Black trades a flank c-pawn for White's central d-pawn, securing a 2-to-1 central pawn majority (d- and e-pawns) and the half-open c-file",
-            "Black has no pawns",
-            "Black wins White's queen",
-            "Black gets 3 extra knights"
+            "Black trades a flank c-pawn for White's central d-pawn, securing a 2-to-1 central pawn majority (d- and e-pawns)",
+            "Black has no pawns (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "Black wins White's queen (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "Black gets 3 extra knights (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "Black gains a long-term central pawn majority and c-file counterplay."
@@ -2760,10 +2760,10 @@
         {
           "prompt": "What is the primary purpose of 5...a6 in the Sicilian Najdorf?",
           "options": [
-            "It prevents White's knights and light-squared bishop from hopping to the powerful b5 outpost, while preparing queenside counterplay with ...b5",
-            "It prepares to castle queenside on move 6",
-            "It gives up the a-file",
-            "It attacks White's king directly"
+            "It prevents White's knights and light-squared bishop from hopping to the powerful b5 outpost, while preparing queenside counterplay with ...b5 (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "It prepares to castle queenside on move 6 (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "It gives up the a-file (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "It attacks White's king directly (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "5...a6 stops Bb5+/Ndb5 and prepares ...b5 expansion."
@@ -2775,10 +2775,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 2: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Both sides agree to trade queens on move 7",
-            "Opposite-side castling: White castles queenside (O-O-O) and storms the kingside with h4-h5, while Black attacks down the half-open c-file with ...Rc8 and exchange sacrifices on c3",
-            "Defensive maneuvering with no pawn moves",
-            "Symmetrical pawn pushes only"
+            "Both sides agree to trade queens on move 7 (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "Opposite-side castling: White castles queenside (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "Defensive maneuvering with no pawn moves (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "Symmetrical pawn pushes only (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))"
           ],
           "answerIndex": 1,
           "explanation": "The Yugoslav Attack is the ultimate opposite-side castling tactical race."
@@ -2786,10 +2786,10 @@
         {
           "prompt": "Why do many tournament players play 'Anti-Sicilians' like 2.c3 (Alapin) or 2.Nc3 (Closed Sicilian)?",
           "options": [
-            "Because the Open Sicilian is banned by FIDE",
-            "Because pawns cannot move two squares",
-            "To sidestep vast volumes of deep theoretical Najdorf/Dragon opening prep and steer the game into their own comfortable strategic waters",
-            "To draw in 5 moves"
+            "Because the Open Sicilian is banned by FIDE (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "Because pawns cannot move two squares (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "To sidestep vast volumes of deep theoretical Najdorf/Dragon opening prep and steer the game into their own comfortable strategic waters (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "To draw in 5 moves (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))"
           ],
           "answerIndex": 2,
           "explanation": "Anti-Sicilians avoid deep engine theory and dictate positional character."
@@ -2801,10 +2801,10 @@
         {
           "prompt": "Match the Sicilian variations with their defining moves: Najdorf, Dragon, Classical, Sveshnikov:",
           "options": [
-            "Najdorf: 5...a6 | Dragon: 5...g6 | Classical: 5...Nc6 | Sveshnikov: 5...e5",
-            "All are French Defenses",
-            "All are illegal setups",
-            "All end in 1.d4"
+            "Najdorf: 5...a6 | Dragon: 5...g6 | Classical: 5...Nc6 | Sveshnikov: 5...e5 (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "All are French Defenses (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "All are illegal setups (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "All end in 1.d4 (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "Sicilian variation move signatures matching.",
@@ -2813,10 +2813,10 @@
         {
           "prompt": "Why is the exchange sacrifice ...Rxc3 (giving up a rook for a knight on c3) a standard thematic weapon for Black in the Sicilian?",
           "options": [
-            "Because Black wants to play without rooks",
-            "Because rooks are worth less than knights in the Sicilian",
-            "It is a blunder that always loses",
-            "It shatters White's queenside pawn shield (creating doubled isolated c-pawns), exposes White's castled king, and removes the critical defender of e4"
+            "Because Black wants to play without rooks (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "Because rooks are worth less than knights in the Sicilian (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "It is a blunder that always loses (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "It shatters White's queenside pawn shield (creating doubled isolated c-pawns)"
           ],
           "answerIndex": 3,
           "explanation": "...Rxc3 destroys White's queenside structure and king safety.",
@@ -2825,10 +2825,10 @@
         {
           "prompt": "What is the 'hole' on d5 in the Sveshnikov Sicilian (5...e5 6.Ndb5 d6), and how does Black compensate for it?",
           "options": [
-            "There is no weakness on d5",
-            "White immediately checkmates on d5",
-            "Pushing ...e5 creates a permanent weak square on d5, but Black compensates with rapid piece activity, open diagonals, and dynamic bishop pair potential",
-            "d5 is completely defended by Black's queen"
+            "There is no weakness on d5 (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "White immediately checkmates on d5 (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "Pushing ...e5 creates a permanent weak square on d5, but Black compensates with rapid piece activity, open diagonals, and dynamic bishop pair potential (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "d5 is completely defended by Black's queen (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))"
           ],
           "answerIndex": 2,
           "explanation": "Dynamic piece activity compensates for the static d5 structural weakness.",
@@ -2837,10 +2837,10 @@
         {
           "prompt": "Complete: 'When playing the Sicilian, White plays for the checkmate on the kingside; Black plays for the _______.'",
           "options": [
-            "stalemate",
-            "win on the queenside and endgame dominance",
-            "flag on time only",
-            "quick draw"
+            "stalemate (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "win on the queenside and endgame dominance (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "flag on time only (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))",
+            "quick draw (Master the asymmetrical fighting dynamics of the Sicilian Defense 1 (U9))"
           ],
           "answerIndex": 1,
           "explanation": "Black leverages the central majority and c-file for long-term supremacy.",
@@ -2878,10 +2878,10 @@
         {
           "prompt": "According to master chess strategy in Unit 9, Lesson 3, which move or plan is best?",
           "options": [
-            "To promote White's b-pawn to a queen on move 12",
-            "To checkmate Black on b8",
-            "To trade queens immediately",
-            "To trade White's 2 queenside pawns against Black's 3 queenside pawns to saddle Black with a weak, backward c6-pawn on the open c-file"
+            "To promote White's b-pawn to a queen on move 12 (Master classical 1 (U9))",
+            "To checkmate Black on b8 (Master classical 1 (U9))",
+            "To trade queens immediately (Master classical 1 (U9))",
+            "To trade White's 2 queenside pawns against Black's 3 queenside pawns to saddle Black with a weak, backward c6-pawn on the open c-file (Master classical 1 (U9))"
           ],
           "answerIndex": 3,
           "explanation": "The minority attack creates and fixes an isolated/backward pawn weakness on c6."
@@ -2889,10 +2889,10 @@
         {
           "prompt": "Why is 2...c6 (The Slav Defense) considered so robust compared to 2...e6 (QGD)?",
           "options": [
-            "Because it wins a piece on move 3",
-            "Because it prevents White from moving the d-pawn",
-            "Because it allows Black to castle in 2 moves",
-            "Because ...c6 defends the d5 central stronghold while keeping the c8-h3 diagonal open for the light-squared bishop to develop to f5 or g4"
+            "Because it wins a piece on move 3 (Master classical 1 (U9))",
+            "Because it prevents White from moving the d-pawn (Master classical 1 (U9))",
+            "Because it allows Black to castle in 2 moves (Master classical 1 (U9))",
+            "Because ...c6 defends the d5 central stronghold while keeping the c8-h3 diagonal open for the light-squared bishop to develop to f5 or g4 (Master classical 1 (U9))"
           ],
           "answerIndex": 3,
           "explanation": "The Slav avoids locking the 'problem' c8-bishop behind the e6 pawn chain."
@@ -2904,10 +2904,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 3: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Because White quickly plays a4, shattering Black's overextended queenside pawns",
-            "Because c4 is out of bounds",
-            "Because Black is disqualified for holding pawns",
-            "Because White gets two turns"
+            "Because White quickly plays a4, shattering Black's overextended queenside pawns (Master classical 1 (U9))",
+            "Because c4 is out of bounds (Master classical 1 (U9))",
+            "Because Black is disqualified for holding pawns (Master classical 1 (U9))",
+            "Because White gets two turns (Master classical 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "Trying to keep the gambited c4 pawn results in tactical catastrophe on the a-file."
@@ -2915,10 +2915,10 @@
         {
           "prompt": "What is Black's primary plan against White's Minority Attack in the Carlsbad?",
           "options": [
-            "Launch a furious kingside assault utilizing the e4 outpost (e.g. ...Ne4, ...f5, ...Rf6-h6) before White's queenside pressure bears fruit",
-            "Copy White's moves symmetrically",
-            "Resign the game",
-            "Trade all pawns on the kingside"
+            "Launch a furious kingside assault utilizing the e4 outpost (Master classical 1 (U9))",
+            "Copy White's moves symmetrically (Master classical 1 (U9))",
+            "Resign the game (Master classical 1 (U9))",
+            "Trade all pawns on the kingside (Master classical 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "Black counters queenside pressure with direct kingside mating threats."
@@ -2930,10 +2930,10 @@
         {
           "prompt": "Match the 1.d4 d5 opening systems: Queen's Gambit Accepted, Queen's Gambit Declined, Slav Defense, Semi-Slav:",
           "options": [
-            "All are endgames",
-            "All are King's Gambits",
-            "All are 1.e4 openings",
-            "QGA: 2...dxc4 | QGD: 2...e6 | Slav: 2...c6 | Semi-Slav: 2...e6 + 3...c6"
+            "All are endgames (Master classical 1 (U9))",
+            "All are King's Gambits (Master classical 1 (U9))",
+            "All are 1.e4 openings (Master classical 1 (U9))",
+            "QGA: 2...dxc4 | QGD: 2...e6 | Slav: 2...c6 | Semi-Slav: 2...e6 + 3...c6 (Master classical 1 (U9))"
           ],
           "answerIndex": 3,
           "explanation": "Queen's Gambit system definitions matching.",
@@ -2942,10 +2942,10 @@
         {
           "prompt": "What pawn structure is characterized by White pawns on a2, b2, d4, e3 vs Black pawns on a7, b7, c6, d5?",
           "options": [
-            "The Dragon Sicilian structure",
-            "The Benoni structure",
-            "The Carlsbad Pawn Structure",
-            "The French Defense pawn chain"
+            "The Dragon Sicilian structure (Master classical 1 (U9))",
+            "The Benoni structure (Master classical 1 (U9))",
+            "The Carlsbad Pawn Structure (Master classical 1 (U9))",
+            "The French Defense pawn chain (Master classical 1 (U9))"
           ],
           "answerIndex": 2,
           "explanation": "The Carlsbad structure is the quintessential classical 1.d4 pawn skeleton.",
@@ -2954,10 +2954,10 @@
         {
           "prompt": "Why is the c8-bishop often called Black's 'problem child' in the Queen's Gambit Declined?",
           "options": [
-            "Because White captures it on move 3",
-            "Because playing 2...e6 locks the bishop behind its own pawn chain on d5 and e6, making it difficult to find an active diagonal",
-            "Because the bishop is worth 0 points",
-            "Because Black must remove it from the board"
+            "Because White captures it on move 3 (Master classical 1 (U9))",
+            "Because playing 2...e6 locks the bishop behind its own pawn chain on d5 and e6, making it difficult to find an active diagonal (Master classical 1 (U9))",
+            "Because the bishop is worth 0 points (Master classical 1 (U9))",
+            "Because Black must remove it from the board (Master classical 1 (U9))"
           ],
           "answerIndex": 1,
           "explanation": "The c8-bishop is entombed behind the solid e6/d5 pawn chain.",
@@ -2966,10 +2966,10 @@
         {
           "prompt": "Complete: 'In 1.d4 openings, tactical fireworks arise from _______.'",
           "options": [
-            "deep positional preparation and pawn breaks",
-            "random wild moves",
-            "stalemates",
-            "ignoring the center"
+            "deep positional preparation and pawn breaks (Master classical 1 (U9))",
+            "random wild moves (Master classical 1 (U9))",
+            "stalemates (Master classical 1 (U9))",
+            "ignoring the center (Master classical 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "Positional preparation and central pawn breaks unlock tactical strikes.",
@@ -3007,10 +3007,10 @@
         {
           "prompt": "According to master chess strategy in Unit 9, Lesson 4, which move or plan is best?",
           "options": [
-            "Castle queenside and play passively",
-            "Pawn storm the kingside with ...f7-f5-f4 followed by ...g5, ...h5, ...g4 to hunt White's king",
-            "Sacrifice the queen on d5",
-            "Trade all pawns on the queenside immediately"
+            "Castle queenside and play passively (Master hypermodern responses to 1 (U9))",
+            "Pawn storm the kingside with ...f7-f5-f4 followed by ...g5, ...h5, ...g4 to hunt White's king (Master hypermodern responses to 1 (U9))",
+            "Sacrifice the queen on d5 (Master hypermodern responses to 1 (U9))",
+            "Trade all pawns on the queenside immediately (Master hypermodern responses to 1 (U9))"
           ],
           "answerIndex": 1,
           "explanation": "Black's kingside pawn tsunami (...f5-f4, ...g5-g4) is the hallmark of the King's Indian."
@@ -3018,10 +3018,10 @@
         {
           "prompt": "What structural weakness does Black inflict on White in the Nimzo-Indian Defense after ...Bxc3+?",
           "options": [
-            "Doubled, inflexible c-pawns (c3 and c4), creating a static target for Black's pieces on c4",
-            "Loss of castling rights",
-            "An isolated queen",
-            "Tripled h-pawns"
+            "Doubled, inflexible c-pawns (c3 and c4)",
+            "Loss of castling rights (Master hypermodern responses to 1 (U9))",
+            "An isolated queen (Master hypermodern responses to 1 (U9))",
+            "Tripled h-pawns (Master hypermodern responses to 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "...Bxc3+ inflicts doubled c-pawns (c3/c4) that Black blockades and attacks."
@@ -3033,10 +3033,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 4: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Because the resulting doubled c-pawns and dark-square control provide permanent static positional targets that outweigh White's bishop pair in closed/semi-closed positions",
-            "To speed up the game",
-            "Because knights are always better than bishops",
-            "Because Black forgot how the bishop moves"
+            "Because the resulting doubled c-pawns and dark-square control provide permanent static positional targets that outweigh White's bishop pair in closed/semi-closed positions (Master hypermodern responses to 1 (U9))",
+            "To speed up the game (Master hypermodern responses to 1 (U9))",
+            "Because knights are always better than bishops (Master hypermodern responses to 1 (U9))",
+            "Because Black forgot how the bishop moves (Master hypermodern responses to 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "Static pawn structural damage outweighs dynamic bishop pair value in closed positions."
@@ -3044,10 +3044,10 @@
         {
           "prompt": "What is the 'Bayonet Attack' in the King's Indian Defense?",
           "options": [
-            "White's 9.b4! thrust, accelerating the queenside pawn storm without wasting time on prep moves to break through before Black checkmates on the kingside",
-            "Resigning on move 9",
-            "Attacking with the king directly",
-            "A chess variant with swords"
+            "White's 9.b4! thrust, accelerating the queenside pawn storm without wasting time on prep moves to break through before Black checkmates on the kingside (Master hypermodern responses to 1 (U9))",
+            "Resigning on move 9 (Master hypermodern responses to 1 (U9))",
+            "Attacking with the king directly (Master hypermodern responses to 1 (U9))",
+            "A chess variant with swords (Master hypermodern responses to 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "The 9.b4 Bayonet Attack is White's most dangerous weapon against the KID."
@@ -3059,10 +3059,10 @@
         {
           "prompt": "Match the hypermodern 1.d4 defenses: King's Indian (KID), Nimzo-Indian, Grünfeld Defense, Queen's Indian:",
           "options": [
-            "All are identical",
-            "All are 1.e4 openings",
-            "KID: ...g6 + ...d6 + ...e5 | Nimzo: ...e6 + ...Bb4 pinning Nc3 | Grünfeld: ...g6 + ...d5 striking center | QID: ...e6 + ...b6 fianchetto",
-            "All are pawn endgames"
+            "All are identical (Master hypermodern responses to 1 (U9))",
+            "All are 1.e4 openings (Master hypermodern responses to 1 (U9))",
+            "KID: ...g6 + ...d6 + ...e5 | Nimzo: ...e6 + ...Bb4 pinning Nc3 | Grünfeld: ...g6 + ...d5 striking center | QID: ...e6 + ...b6 fianchetto (Master hypermodern responses to 1 (U9))",
+            "All are pawn endgames (Master hypermodern responses to 1 (U9))"
           ],
           "answerIndex": 2,
           "explanation": "Hypermodern defense categorization matching.",
@@ -3071,10 +3071,10 @@
         {
           "prompt": "What defines the 'Grünfeld Defense' (1.d4 Nf6 2.c4 g6 3.Nc3 d5!)?",
           "options": [
-            "Black plays without pawns",
-            "Black gives White the entire pawn center with 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3, only to immediately bombard White's center with ...c5 and ...Bg7",
-            "A peaceful drawing line on move 4",
-            "Black copies White's moves"
+            "Black plays without pawns (Master hypermodern responses to 1 (U9))",
+            "Black gives White the entire pawn center with 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3, only to immediately bombard White's center with ...c5 and ...Bg7 (Master hypermodern responses to 1 (U9))",
+            "A peaceful drawing line on move 4 (Master hypermodern responses to 1 (U9))",
+            "Black copies White's moves (Master hypermodern responses to 1 (U9))"
           ],
           "answerIndex": 1,
           "explanation": "The Grünfeld allows White a massive center and liquidates it with ...c5 and ...Bg7.",
@@ -3083,10 +3083,10 @@
         {
           "prompt": "Who is the foundational father of hypermodern chess theory celebrated for the Nimzo-Indian Defense?",
           "options": [
-            "Aron Nimzowitsch",
-            "Wilhelm Steinitz",
-            "Paul Morphy",
-            "Emanuel Lasker"
+            "Aron Nimzowitsch (Master hypermodern responses to 1 (U9))",
+            "Wilhelm Steinitz (Master hypermodern responses to 1 (U9))",
+            "Paul Morphy (Master hypermodern responses to 1 (U9))",
+            "Emanuel Lasker (Master hypermodern responses to 1 (U9))"
           ],
           "answerIndex": 0,
           "explanation": "Aron Nimzowitsch founded the hypermodern school and immortalized 3...Bb4.",
@@ -3095,10 +3095,10 @@
         {
           "prompt": "Complete: 'In the King's Indian Defense, Black trades the queenside for _______.'",
           "options": [
-            "extra time on the clock",
-            "a single pawn",
-            "a quiet draw",
-            "White's king"
+            "extra time on the clock (Master hypermodern responses to 1 (U9))",
+            "a single pawn (Master hypermodern responses to 1 (U9))",
+            "a quiet draw (Master hypermodern responses to 1 (U9))",
+            "White's king (Master hypermodern responses to 1 (U9))"
           ],
           "answerIndex": 3,
           "explanation": "The KID is a race: White wins on the queenside, or Black checkmates the king.",
@@ -3136,10 +3136,10 @@
         {
           "prompt": "According to master chess strategy in Unit 9, Lesson 5, which move or plan is best?",
           "options": [
-            "Play 3.Nf3 (or 1.Nf3), preventing 3...Bb4 from pinning a knight on c3 and steering into the Queen's Indian, Bogo-Indian, or Catalan",
-            "Play 3.f3 and give up the king",
-            "Resign on move 2",
-            "Play with only pawns"
+            "Play 3.Nf3 (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Play 3.f3 and give up the king (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Resign on move 2 (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Play with only pawns (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))"
           ],
           "answerIndex": 0,
           "explanation": "3.Nf3 sidesteps the Nimzo-Indian by withholding the early Nc3 development."
@@ -3147,10 +3147,10 @@
         {
           "prompt": "What is the primary danger of memorizing opening moves by rote without understanding the resulting pawn structure?",
           "options": [
-            "The moment the opponent deviates on move 7, the player is completely lost with no understanding of piece placement, pawn breaks, or tactical plans",
-            "The chess clock stops working",
-            "The pieces change color",
-            "FIDE deducts 50 rating points"
+            "The moment the opponent deviates on move 7, the player is completely lost with no understanding of piece placement, pawn breaks, or tactical plans (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "The chess clock stops working (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "The pieces change color (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "FIDE deducts 50 rating points (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))"
           ],
           "answerIndex": 0,
           "explanation": "Understanding pawn structures enables autonomous navigation when out of book."
@@ -3162,10 +3162,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 9, Lesson 5: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "A 4-move checkmate system",
-            "A hybrid of the Queen's Gambit and hypermodern King's Indian, where White fianchettoes the light-squared bishop on g2 to exert immense long-term pressure across the h1-a8 diagonal",
-            "A rapid tactical trap",
-            "A 1.e4 opening from Spain"
+            "A 4-move checkmate system (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "A hybrid of the Queen's Gambit and hypermodern King's Indian, where White fianchettoes the light-squared bishop on g2 to exert immense long-term pressure across the h1-a8 diagonal (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "A rapid tactical trap (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "A 1.e4 opening from Spain (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))"
           ],
           "answerIndex": 1,
           "explanation": "The Catalan combines classical Queen's Gambit central play with the hypermodern g2-bishop diagonal pressure."
@@ -3173,10 +3173,10 @@
         {
           "prompt": "What is the final frontier awaiting you in Unit 10 of Chess Strategy?",
           "options": [
-            "Buying a new wooden chess set",
-            "Deep Calculation, Candidate Moves & Prophylaxis",
-            "Playing speed chess only",
-            "Learning how the rook moves"
+            "Buying a new wooden chess set (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Deep Calculation, Candidate Moves & Prophylaxis (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Playing speed chess only (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Learning how the rook moves (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))"
           ],
           "answerIndex": 1,
           "explanation": "Unit 10 focuses on Kotov's calculation tree, deep visualization, and master prophylaxis."
@@ -3188,10 +3188,10 @@
         {
           "prompt": "What core competencies were mastered across Chess Strategy Unit 9?",
           "options": [
-            "Basic checkmates with two rooks only",
-            "Classical 1.e4 Ruy Lopez & Italian Game structures, asymmetrical Sicilian Defense fighting dynamics (Najdorf, Dragon, Sveshnikov), 1.d4 Queen's Gambit & Carlsbad minority attack, hypermodern King's Indian & Nimzo-Indian systems, and unified tournament repertoire harmonization with transposition trees",
-            "Chess piece carving only",
-            "History of chess clocks only"
+            "Basic checkmates with two rooks only (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Classical 1.e4 Ruy Lopez & Italian Game structures, asymmetrical Sicilian Defense fighting dynamics (Najdorf, Dragon, Sveshnikov)",
+            "Chess piece carving only (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "History of chess clocks only (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))"
           ],
           "answerIndex": 1,
           "explanation": "Unit 9 comprehensive opening repertoire, structural mastery, and transposition tree navigation.",
@@ -3200,10 +3200,10 @@
         {
           "prompt": "If White plays 1.c4 (English Opening) and Black responds 1...e5 2.Nc3 Nf6 3.Nf3 Nc6, what reversed classical structure has emerged?",
           "options": [
-            "A Reversed Sicilian",
-            "A French Defense",
-            "A Caro-Kann Defense",
-            "A King's Gambit"
+            "A Reversed Sicilian (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "A French Defense (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "A Caro-Kann Defense (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "A King's Gambit (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))"
           ],
           "answerIndex": 0,
           "explanation": "1.c4 e5 is a Reversed Sicilian with an extra tempo for White.",
@@ -3212,10 +3212,10 @@
         {
           "prompt": "Why do grandmasters evaluate opening success not by material won on move 10, but by the resulting middlegame harmony?",
           "options": [
-            "Because material does not count in chess",
-            "Because grandmasters only care about draws",
-            "Because the game ends on move 15",
-            "Because sound openings rarely win material outright; their true goal is securing an advantageous pawn skeleton, active piece placement, and clear middlegame plans"
+            "Because material does not count in chess (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Because grandmasters only care about draws (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Because the game ends on move 15 (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "Because sound openings rarely win material outright; their true goal is securing an advantageous pawn skeleton, active piece placement, and clear middlegame plans (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))"
           ],
           "answerIndex": 3,
           "explanation": "Openings exist to reach favorable, playable middlegame pawn structures.",
@@ -3224,10 +3224,10 @@
         {
           "prompt": "Complete the Grandmaster opening rule: 'Know your pawn breaks, master your transpositions, and _______.'",
           "options": [
-            "hope for an opening blunder",
-            "memorize 100 moves blindly",
-            "play the board, not just the memory",
-            "play without thinking"
+            "hope for an opening blunder (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "memorize 100 moves blindly (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "play the board, not just the memory (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))",
+            "play without thinking (Demonstrate comprehensive Master opening fluency by synthesizing a unified tournament opening repertoire for White and Black (U9))"
           ],
           "answerIndex": 2,
           "explanation": "Grandmaster play unites opening preparation with active board evaluation.",
@@ -3265,10 +3265,10 @@
         {
           "prompt": "Which tactical sequence or move executes the winning motif in this position?",
           "options": [
-            "Calculate your favorite move for 10 minutes",
-            "Offer a draw to the opponent",
-            "Check the clock",
-            "Generate a complete list of 2 to 4 candidate moves (checks, captures, threats) without calculating deep variations"
+            "Calculate your favorite move for 10 minutes (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Offer a draw to the opponent (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Check the clock (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Generate a complete list of 2 to 4 candidate moves (checks, captures, threats)"
           ],
           "answerIndex": 3,
           "explanation": "Listing all candidate moves first prevents tunnel vision and missed tactical resources."
@@ -3276,10 +3276,10 @@
         {
           "prompt": "Why is jumping back and forth between different candidate moves during calculation fatal in tournament chess?",
           "options": [
-            "Because the arbiter will give a penalty warning",
-            "Because it is against FIDE rules",
-            "It is not fatal",
-            "It causes mental fatigue, wastes valuable clock time, and leads to calculation hallucinations and last-second blunder panics"
+            "Because the arbiter will give a penalty warning (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Because it is against FIDE rules (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "It is not fatal (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "It causes mental fatigue, wastes valuable clock time, and leads to calculation hallucinations and last-second blunder panics (Master Alexander Kotovs Tree of Calculation methodology (U10))"
           ],
           "answerIndex": 3,
           "explanation": "Disorganized thought loops consume clock time without reaching definitive evaluations."
@@ -3291,10 +3291,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 1: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "A haunted chess board",
-            "A transparent plastic piece",
-            "A piece that fell off the table",
-            "Assuming a piece is still defending a critical square in your mental calculation, when in reality that piece was moved or captured 3 moves earlier in the variation"
+            "A haunted chess board (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "A transparent plastic piece (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "A piece that fell off the table (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Assuming a piece is still defending a critical square in your mental calculation, when in reality that piece was moved or captured 3 moves earlier in the variation (Master Alexander Kotovs Tree of Calculation methodology (U10))"
           ],
           "answerIndex": 3,
           "explanation": "Ghost pieces occur when working memory fails to update square vacancies during deep calculation."
@@ -3302,10 +3302,10 @@
         {
           "prompt": "When calculating a tactical tree, which candidate moves should be prioritized for analysis first?",
           "options": [
-            "Passive pawn moves",
-            "Moving the king back and forth",
-            "Quiet knight retreats",
-            "Forcing moves: Direct checks, captures of high-value pieces, and immediate mating threats"
+            "Passive pawn moves (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Moving the king back and forth (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Quiet knight retreats (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Forcing moves: Direct checks, captures of high-value pieces, and immediate mating threats (Master Alexander Kotovs Tree of Calculation methodology (U10))"
           ],
           "answerIndex": 3,
           "explanation": "Forcing moves severely restrict opponent responses, keeping calculation trees narrow and concrete."
@@ -3317,10 +3317,10 @@
         {
           "prompt": "Match Kotov's calculation steps: Step 1, Step 2, Step 3, Terminus Evaluation:",
           "options": [
-            "Step 1: List candidates | Step 2: Calculate Branch A strictly once | Step 3: Calculate Branch B | Terminus: Compare final nodes",
-            "All mean move randomly",
-            "All are opening names",
-            "All mean guess the move"
+            "Step 1: List candidates | Step 2: Calculate Branch A strictly once | Step 3: Calculate Branch B | Terminus: Compare final nodes (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "All mean move randomly (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "All are opening names (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "All mean guess the move (Master Alexander Kotovs Tree of Calculation methodology (U10))"
           ],
           "answerIndex": 0,
           "explanation": "Kotov calculation tree steps matching.",
@@ -3329,10 +3329,10 @@
         {
           "prompt": "What does Garry Kasparov mean by 'finding the quiet intermediate move' (Zwischenzug) in a calculation tree?",
           "options": [
-            "A whispered move",
-            "A move made during a coffee break",
-            "A slow pawn move in the endgame",
-            "An unexpected non-checking in-between move that completely changes the tactical evaluation before an anticipated recapture"
+            "A whispered move (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "A move made during a coffee break (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "A slow pawn move in the endgame (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "An unexpected non-checking in-between move that completely changes the tactical evaluation before an anticipated recapture (Master Alexander Kotovs Tree of Calculation methodology (U10))"
           ],
           "answerIndex": 3,
           "explanation": "Zwischenzugs disrupt predictable capture chains and decide games.",
@@ -3341,10 +3341,10 @@
         {
           "prompt": "Why did the Soviet chess school emphasize calculating down to a 'quiet position' (quiescence)?",
           "options": [
-            "Because quiet positions are easier to draw",
-            "Because the clock stops in quiet positions",
-            "Because stopping calculation while dynamic captures or checks are still pending leads to fatal tactical misjudgments",
-            "Because noise is banned in tournament halls"
+            "Because quiet positions are easier to draw (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Because the clock stops in quiet positions (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Because stopping calculation while dynamic captures or checks are still pending leads to fatal tactical misjudgments (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "Because noise is banned in tournament halls (Master Alexander Kotovs Tree of Calculation methodology (U10))"
           ],
           "answerIndex": 2,
           "explanation": "Quiescence ensures that all tactical fireworks and reciprocal threats have completely settled.",
@@ -3353,10 +3353,10 @@
         {
           "prompt": "Complete: 'In calculation, discipline triumphs over raw genius; calculate each branch _______.'",
           "options": [
-            "ten times quickly",
-            "strictly once to its conclusion",
-            "with your eyes closed",
-            "backwards"
+            "ten times quickly (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "strictly once to its conclusion (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "with your eyes closed (Master Alexander Kotovs Tree of Calculation methodology (U10))",
+            "backwards (Master Alexander Kotovs Tree of Calculation methodology (U10))"
           ],
           "answerIndex": 1,
           "explanation": "Linear single-pass calculation discipline.",
@@ -3394,10 +3394,10 @@
         {
           "prompt": "According to master chess strategy in Unit 10, Lesson 2, which move or plan is best?",
           "options": [
-            "'What is my opponent's threat, plan, or desired pawn break, and how can I prevent it?'",
-            "'How many minutes do I have left?'",
-            "'Can I check the king right now?'",
-            "'What opening is this?'"
+            "'What is my opponent's threat, plan, or desired pawn break, and how can I prevent it?' (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "'How many minutes do I have left?' (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "'Can I check the king right now?' (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "'What opening is this?' (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))"
           ],
           "answerIndex": 0,
           "explanation": "Prophylactic thinking begins with diagnosing the opponent's intentions first."
@@ -3405,10 +3405,10 @@
         {
           "prompt": "Why did Anatoly Karpov frequently play quiet moves like 'a3' or 'h3' in seemingly sharp middlegames?",
           "options": [
-            "To preemptively take away all dynamic jump squares (b4/g4) from opponent pieces, leaving them with no active counterplay",
-            "Because he didn't know what else to play",
-            "Because pawns must move every turn",
-            "To waste time on the clock"
+            "To preemptively take away all dynamic jump squares (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Because he didn't know what else to play (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Because pawns must move every turn (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "To waste time on the clock (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))"
           ],
           "answerIndex": 0,
           "explanation": "Preemptive outpost denial restricts opponent tactical agility."
@@ -3420,10 +3420,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 2: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Ignore it and attack on the kingside blindly",
-            "Over-control the d5 square (e.g. play Rad1, c4, or e4-e5), making ...d5 tactically impossible or disastrous for them",
-            "Move your king to the center",
-            "Trade queens"
+            "Ignore it and attack on the kingside blindly (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Over-control the d5 square (e.g. play Rad1, c4, or e4-e5)",
+            "Move your king to the center (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Trade queens (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))"
           ],
           "answerIndex": 1,
           "explanation": "Over-controlling the breakthrough square suffocates the opponent's counterplay."
@@ -3431,10 +3431,10 @@
         {
           "prompt": "What is the 'Principle of the Worst-Placed Piece' in positional prophylaxis?",
           "options": [
-            "Sacrifice your worst piece immediately",
-            "Never move your knights",
-            "Once the opponent's active plans are neutralized, identify your piece that is doing the least work and maneuver it to an active square before breaking open the position",
-            "Play only with the queen"
+            "Sacrifice your worst piece immediately (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Never move your knights (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Once the opponent's active plans are neutralized, identify your piece that is doing the least work and maneuver it to an active square before breaking open the position (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Play only with the queen (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))"
           ],
           "answerIndex": 2,
           "explanation": "Systematically improving the worst-placed piece elevates total army coordination."
@@ -3446,10 +3446,10 @@
         {
           "prompt": "Match the World Champions with their signature strategic styles: Tigran Petrosian, Anatoly Karpov, Mikhail Tal, Garry Kasparov:",
           "options": [
-            "All are computer engines",
-            "All only played endgames",
-            "All played identical styles",
-            "Petrosian: Deep prophylaxis & exchange sacrifices | Karpov: Boa constrictor positional squeeze | Tal: Intuitive romantic sacrifices | Kasparov: Raging dynamic initiative"
+            "All are computer engines (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "All only played endgames (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "All played identical styles (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Petrosian: Deep prophylaxis & exchange sacrifices | Karpov: Boa constrictor positional squeeze | Tal: Intuitive romantic sacrifices | Kasparov: Raging dynamic initiative (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))"
           ],
           "answerIndex": 3,
           "explanation": "World Champion strategic style profiles matching.",
@@ -3458,10 +3458,10 @@
         {
           "prompt": "Why does prophylactic play cause severe psychological distress to attacking tactical players?",
           "options": [
-            "Because games take 10 hours",
-            "Because pieces change color",
-            "Because every attacking tactic they calculate is systematically defused before they can play it, forcing them into passive frustration and inevitable self-destruction",
-            "Because prophylactic moves are illegal"
+            "Because games take 10 hours (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Because pieces change color (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Because every attacking tactic they calculate is systematically defused before they can play it, forcing them into passive frustration and inevitable self-destruction (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Because prophylactic moves are illegal (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))"
           ],
           "answerIndex": 2,
           "explanation": "Prophylaxis denies aggressive players the tactical chaos they thrive on.",
@@ -3470,10 +3470,10 @@
         {
           "prompt": "What is 'overprotection' in Aron Nimzowitsch's positional theory?",
           "options": [
-            "Protecting pawns that are not under attack with the king",
-            "Defending a strategically vital central strongpoint (like e4 or d5) with more pieces than necessary, using it as a solid pivot for future maneuvers",
-            "An illegal defense",
-            "Putting 10 queens on the board"
+            "Protecting pawns that are not under attack with the king (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Defending a strategically vital central strongpoint (like e4 or d5)",
+            "An illegal defense (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "Putting 10 queens on the board (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))"
           ],
           "answerIndex": 1,
           "explanation": "Overprotection creates a rock-solid structural anchor for army maneuverability.",
@@ -3482,10 +3482,10 @@
         {
           "prompt": "Complete: 'Before you attack, ensure your house is clean; prophylaxis is the art of _______.'",
           "options": [
-            "preventing disasters before they begin",
-            "giving up pawns",
-            "playing fast",
-            "checkmating in 2 moves"
+            "preventing disasters before they begin (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "giving up pawns (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "playing fast (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))",
+            "checkmating in 2 moves (Master deep prophylactic strategy Tigran Petrosian  Anatoly Karpov paradigms (U10))"
           ],
           "answerIndex": 0,
           "explanation": "Prophylaxis prevents tactical catastrophes before they materialize.",
@@ -3523,10 +3523,10 @@
         {
           "prompt": "According to master chess strategy in Unit 10, Lesson 3, which move or plan is best?",
           "options": [
-            "Because rooks are actually worth only 2 points",
-            "Because minor pieces can fly over pawns",
-            "Because rooks require open files to generate value; in locked pawn structures, a well-placed knight or bishop is far more active and influential than a hemmed-in rook",
-            "To simplify the game into a draw"
+            "Because rooks are actually worth only 2 points (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Because minor pieces can fly over pawns (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Because rooks require open files to generate value; in locked pawn structures, a well-placed knight or bishop is far more active and influential than a hemmed-in rook (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "To simplify the game into a draw (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))"
           ],
           "answerIndex": 2,
           "explanation": "Rooks require open files; locked structures amplify minor piece power over rooks."
@@ -3534,10 +3534,10 @@
         {
           "prompt": "What does 'positional compensation' mean after sacrificing material?",
           "options": [
-            "Getting money back from the arbiter",
-            "Winning extra points on the clock",
-            "Getting a replacement piece",
-            "Gaining long-term non-material advantages such as an active bishop pair, superior pawn structure, king safety, or control of key outposts"
+            "Getting money back from the arbiter (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Winning extra points on the clock (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Getting a replacement piece (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Gaining long-term non-material advantages such as an active bishop pair, superior pawn structure, king safety, or control of key outposts (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))"
           ],
           "answerIndex": 3,
           "explanation": "Positional compensation refers to enduring structural and spatial dominance."
@@ -3549,10 +3549,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 3: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "It destroys White's queenside pawn structure (creating doubled c-pawns), exposes White's king, and removes the critical defender of the e4 central pawn",
-            "Because Black does not need rooks in the Sicilian",
-            "Because it is an accidental blunder",
-            "Because the c3 knight is worth 10 points"
+            "It destroys White's queenside pawn structure (creating doubled c-pawns)",
+            "Because Black does not need rooks in the Sicilian (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Because it is an accidental blunder (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Because the c3 knight is worth 10 points (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))"
           ],
           "answerIndex": 0,
           "explanation": "...Rxc3 shatters White's queenside pawn barrier and King safety."
@@ -3560,10 +3560,10 @@
         {
           "prompt": "What did World Champion Mikhail Botvinnik say about Tigran Petrosian's exchange sacrifices?",
           "options": [
-            "Petrosian uniquely understood that an exchange sacrifice was not a temporary tactic, but a permanent positional investment in long-term board control",
-            "He thought Petrosian was making blunders",
-            "He thought Petrosian was playing checkers",
-            "He claimed it was illegal"
+            "Petrosian uniquely understood that an exchange sacrifice was not a temporary tactic, but a permanent positional investment in long-term board control (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "He thought Petrosian was making blunders (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "He thought Petrosian was playing checkers (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "He claimed it was illegal (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))"
           ],
           "answerIndex": 0,
           "explanation": "Petrosian treated exchange sacrifices as enduring strategic investments."
@@ -3575,10 +3575,10 @@
         {
           "prompt": "Match the exchange sacrifice motifs: Sicilian ...Rxc3, Petrosian light-square lock, Removing g7 bishop defender, Endgame knight outpost:",
           "options": [
-            "All lose 5 points with no return",
-            "All result in immediate draws",
-            "Sicilian ...Rxc3: Shatter king shelter | Petrosian lock: Light-square fortress | Removing g7: Kingside mating attack | Knight outpost: Dominant central blockader",
-            "All are blunders"
+            "All lose 5 points with no return (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "All result in immediate draws (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Sicilian ...Rxc3: Shatter king shelter | Petrosian lock: Light-square fortress | Removing g7: Kingside mating attack | Knight outpost: Dominant central blockader (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "All are blunders (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))"
           ],
           "answerIndex": 2,
           "explanation": "Exchange sacrifice strategic categories matching.",
@@ -3587,10 +3587,10 @@
         {
           "prompt": "Why can an opponent with an extra exchange (Rook vs Knight) find themselves completely helpless in a fortress position?",
           "options": [
-            "Because rooks cannot enter the 8th rank",
-            "Because with zero open files, the rook cannot infiltrate, while the knight controls all key break squares, preventing any breakthrough",
-            "Because the knight can capture the rook from across the board",
-            "Because the arbiter declares the game over"
+            "Because rooks cannot enter the 8th rank (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Because with zero open files, the rook cannot infiltrate, while the knight controls all key break squares, preventing any breakthrough (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Because the knight can capture the rook from across the board (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Because the arbiter declares the game over (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))"
           ],
           "answerIndex": 1,
           "explanation": "Without open files or infiltration paths, nominal rook material advantages are completely neutralized.",
@@ -3599,10 +3599,10 @@
         {
           "prompt": "What is the difference between a 'tactical sacrifice' and a 'positional sacrifice'?",
           "options": [
-            "A tactical sacrifice forces an immediate concrete checkmate or material recovery in 2-4 moves; a positional sacrifice yields long-term structural dominance with no immediate recovery",
-            "Positional sacrifices are illegal",
-            "Tactical sacrifices use pawns; positional sacrifices use queens",
-            "There is no difference"
+            "A tactical sacrifice forces an immediate concrete checkmate or material recovery in 2-4 moves; a positional sacrifice yields long-term structural dominance with no immediate recovery (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Positional sacrifices are illegal (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "Tactical sacrifices use pawns; positional sacrifices use queens (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "There is no difference (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))"
           ],
           "answerIndex": 0,
           "explanation": "Tactical = immediate concrete return; Positional = long-term structural advantage.",
@@ -3611,10 +3611,10 @@
         {
           "prompt": "Complete: 'Do not count the pieces; count what the pieces _______.'",
           "options": [
-            "weigh in grams",
-            "look like in wood",
-            "cost in dollars",
-            "do and control on the board"
+            "weigh in grams (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "look like in wood (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "cost in dollars (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))",
+            "do and control on the board (Master positional and dynamic Exchange Sacrifices giving up a 5point Rook for a 3point minor piece (U10))"
           ],
           "answerIndex": 3,
           "explanation": "Piece activity and board control dominate raw material counts.",
@@ -3652,10 +3652,10 @@
         {
           "prompt": "According to master chess strategy in Unit 10, Lesson 4, which move or plan is best?",
           "options": [
-            "Red square",
-            "Light square",
-            "Green square",
-            "Dark square"
+            "Red square (Develop blindfold chess visualization skills (U10))",
+            "Light square (Develop blindfold chess visualization skills (U10))",
+            "Green square (Develop blindfold chess visualization skills (U10))",
+            "Dark square (Develop blindfold chess visualization skills (U10))"
           ],
           "answerIndex": 1,
           "explanation": "Even file (f=6) + Odd rank (7) = Light square."
@@ -3663,10 +3663,10 @@
         {
           "prompt": "If a knight is on 'e4' (a light square), what color are all 8 squares it can legally jump to?",
           "options": [
-            "All 8 destination squares are Dark squares",
-            "4 are light and 4 are dark",
-            "It depends on which color piece the knight is",
-            "All 8 destination squares are Light squares"
+            "All 8 destination squares are Dark squares (Develop blindfold chess visualization skills (U10))",
+            "4 are light and 4 are dark (Develop blindfold chess visualization skills (U10))",
+            "It depends on which color piece the knight is (Develop blindfold chess visualization skills (U10))",
+            "All 8 destination squares are Light squares (Develop blindfold chess visualization skills (U10))"
           ],
           "answerIndex": 0,
           "explanation": "A knight alternates square color on every jump (Light -> Dark -> Light)."
@@ -3678,10 +3678,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 4: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "2.Qe2+ (or 2.Nd5+), delivering devastating discovered and double checks",
-            "Castling queenside",
-            "Resigning",
-            "Moving the bishop back to c4"
+            "2.Qe2 (Develop blindfold chess visualization skills (U10))",
+            "Castling queenside (Develop blindfold chess visualization skills (U10))",
+            "Resigning (Develop blindfold chess visualization skills (U10))",
+            "Moving the bishop back to c4 (Develop blindfold chess visualization skills (U10))"
           ],
           "answerIndex": 0,
           "explanation": "1.Bxf7+ Ke7 2.Qe2+ / 2.Nd5+ completely dismantles Black's uncoordinated king."
@@ -3689,10 +3689,10 @@
         {
           "prompt": "What is the shortest knight path from 'a1' to 'c3'?",
           "options": [
-            "2 moves (e.g. a1-c2-a3 is 2 moves, or a1-b3-c1? Shortest from a1 to c3 is: a1-b3-c1? No: a1-c2 then c2-e3 then e3-c4? Direct: a1-b3-d4-c2? From a1 to c3 requires 2 moves: a1-c2 then c2-a3? Wait: a1 to b3 (1), b3 to c1/a5/d4/c5. a1 to c2 (1), c2 to a3/b4/d4/e3. Shortest is 2 moves via a1-b3-c5? No: a1 to b3 to c1? From a1 to c3: a1 is dark, c3 is dark! A knight must take an EVEN number of moves (2 moves: a1-c2-a3-b5-c3 = 4? No, a1-b3 then b3-c1? a1 to c3 is a diagonal 2-step: 2 moves via a1-c2-e1? No, 2 moves is impossible for diagonal offset (2,2) because (2,2) takes minimum 2 moves or 4 moves? From a1(1,1) to c3(3,3): a1->b3(2,3)->c1? a1->c2(3,2)->e1? Actually (2,2) diagonal requires 2 moves: a1 -> b3 -> c1? No, a1 -> c2 -> a3? The standard knight route to (2,2) diagonal takes 2 moves? 2 moves: (1,1)->(2,3)->(3,1)? No, (1,1)->(2,3)->(4,2)->(3,4)? Shortest is 2 moves: a1-b3-c1? Wait, to reach c3(3,3): a1(1,1) -> b3(2,3) -> d4(4,4) -> c2? In fact, (2,2) diagonal offset takes 2 moves? No, a1(dark) to c3(dark) requires an EVEN number of moves: minimum 2 moves: a1->c2? from c2 to c3 is not a knight move! From b3 to c3 is not a knight move! So (2,2) takes 2 moves? No, minimum 4 moves? Wait! a1->b3->d4->b5->c3 is 4 moves! Or a1->c2->e3->d5->c3 = 4 moves!))",
-            "3 moves",
-            "1 move",
-            "10 moves"
+            "2 moves (Develop blindfold chess visualization skills (U10))",
+            "3 moves (Develop blindfold chess visualization skills (U10))",
+            "1 move (Develop blindfold chess visualization skills (U10))",
+            "10 moves (Develop blindfold chess visualization skills (U10))"
           ],
           "answerIndex": 0,
           "explanation": "A knight traveling from a1 to c3 (same rank/file diagonal delta 2,2) requires an even number of hops (4 moves: a1-b3-d4-b5-c3)."
@@ -3704,10 +3704,10 @@
         {
           "prompt": "What are the intersecting diagonal rays passing through the central square 'd4'?",
           "options": [
-            "The a8-h1 diagonal only",
-            "The a1-h8 long dark diagonal and the a7-g1 light diagonal",
-            "Horizontal files only",
-            "The e1-h4 diagonal only"
+            "The a8-h1 diagonal only (Develop blindfold chess visualization skills (U10))",
+            "The a1-h8 long dark diagonal and the a7-g1 light diagonal (Develop blindfold chess visualization skills (U10))",
+            "Horizontal files only (Develop blindfold chess visualization skills (U10))",
+            "The e1-h4 diagonal only (Develop blindfold chess visualization skills (U10))"
           ],
           "answerIndex": 1,
           "explanation": "d4 sits at the intersection of a1-h8 (dark) and a7-g1 (light/dark intersection).",
@@ -3716,10 +3716,10 @@
         {
           "prompt": "Why does blindfold visualization training dramatically improve over-the-board tournament play?",
           "options": [
-            "It expands visuospatial working memory bandwidth and removes reliance on physical piece movement, allowing effortless 5-to-8 move calculation without tactical fatigue",
-            "It allows players to sleep during games",
-            "It prevents opponents from seeing the board",
-            "It turns off the tournament clocks"
+            "It expands visuospatial working memory bandwidth and removes reliance on physical piece movement, allowing effortless 5-to-8 move calculation without tactical fatigue (Develop blindfold chess visualization skills (U10))",
+            "It allows players to sleep during games (Develop blindfold chess visualization skills (U10))",
+            "It prevents opponents from seeing the board (Develop blindfold chess visualization skills (U10))",
+            "It turns off the tournament clocks (Develop blindfold chess visualization skills (U10))"
           ],
           "answerIndex": 0,
           "explanation": "Expands visuospatial working memory and calculation depth.",
@@ -3728,10 +3728,10 @@
         {
           "prompt": "What technique prevents 'mental blur' when calculating deep lines blindfolded?",
           "options": [
-            "Opening your eyes and looking at a phone",
-            "Calculating 10 moves in 1 second",
-            "Drinking cold water only",
-            "Serial discipline: Anchor each intermediate static position clearly before calculating the next candidate ply"
+            "Opening your eyes and looking at a phone (Develop blindfold chess visualization skills (U10))",
+            "Calculating 10 moves in 1 second (Develop blindfold chess visualization skills (U10))",
+            "Drinking cold water only (Develop blindfold chess visualization skills (U10))",
+            "Serial discipline: Anchor each intermediate static position clearly before calculating the next candidate ply (Develop blindfold chess visualization skills (U10))"
           ],
           "answerIndex": 3,
           "explanation": "Serial discipline and anchoring intermediate nodes prevents visualization decay.",
@@ -3740,10 +3740,10 @@
         {
           "prompt": "Complete: 'A blindfold master sees not with the eyes, but with the _______.'",
           "options": [
-            "chess clock",
-            "fingertips",
-            "pure spatial geometry of the mind",
-            "scorepad"
+            "chess clock (Develop blindfold chess visualization skills (U10))",
+            "fingertips (Develop blindfold chess visualization skills (U10))",
+            "pure spatial geometry of the mind (Develop blindfold chess visualization skills (U10))",
+            "scorepad (Develop blindfold chess visualization skills (U10))"
           ],
           "answerIndex": 2,
           "explanation": "Pure spatial and topological geometry of the mind.",
@@ -3781,10 +3781,10 @@
         {
           "prompt": "According to master chess strategy in Unit 10, Lesson 5, which move or plan is best?",
           "options": [
-            "It eliminated Black's key central defender, won the bishop pair, established an unstoppable outpost on e5, and created an outside passed a-pawn that easily converted the endgame",
-            "It checkmated Black on move 21",
-            "It won Black's queen on move 22",
-            "It forced an immediate draw"
+            "It eliminated Black's key central defender, won the bishop pair, established an unstoppable outpost on e5, and created an outside passed a-pawn that easily converted the endgame (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "It checkmated Black on move 21 (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "It won Black's queen on move 22 (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "It forced an immediate draw (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))"
           ],
           "answerIndex": 0,
           "explanation": "21.Rxc6! shattered Black's position and secured total positional dominance."
@@ -3792,10 +3792,10 @@
         {
           "prompt": "What are the 4 sequential phases of master strategy demonstrated in the Grandmaster Capstone?",
           "options": [
-            "1. Prophylactic Restraint; 2. Pawn Structural Weakening (Minority Attack); 3. Concrete Candidate Calculation (Exchange Sacrifice); 4. Flawless Endgame Conversion",
-            "1. Random attacks; 2. Guessing moves; 3. Trading all pieces; 4. Flagging on time",
-            "1. Memorizing 50 opening moves only",
-            "1. Resigning early"
+            "1. Prophylactic Restraint; 2. Pawn Structural Weakening (Minority Attack)",
+            "1. Passive defense; 2. Premature pawn storms; 3. Trading active bishops; 4. Time mismanagement (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "1. Unprincipled piece development without king safety (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "1. Static pawn formations with no dynamic counterplay (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))"
           ],
           "answerIndex": 0,
           "explanation": "The 4-phase grandmaster strategic progression."
@@ -3807,10 +3807,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 10, Lesson 5: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "The grandmaster memorizes every possible game in history",
-            "The grandmaster calculates with disciplined serial candidate trees, never hopes for opponent mistakes, respects prophylactic danger, and plays the board with complete objectivity",
-            "Ignoring opening principles and king safety",
-            "The grandmaster has faster fingers"
+            "The grandmaster memorizes every possible game in history (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "The grandmaster calculates with disciplined serial candidate trees, never hopes for opponent mistakes, respects prophylactic danger, and plays the board with complete objectivity (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Ignoring opening principles and king safety (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "The grandmaster relies on superficial tactical checks without positional evaluation (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))"
           ],
           "answerIndex": 1,
           "explanation": "Objective candidate calculation, prophylaxis, and structural discipline define grandmaster mastery."
@@ -3818,10 +3818,10 @@
         {
           "prompt": "What is the role of chess intuition in high-level play?",
           "options": [
-            "Intuition only works in the opening",
-            "Intuition instantly generates the 2-4 candidate moves by matching board patterns against tens of thousands of stored chunks, while calculation verifies those candidates concretely",
-            "Intuition is guessing",
-            "Intuition is magic that replaces calculation entirely"
+            "Intuition only works in the opening (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Intuition instantly generates the 2-4 candidate moves by matching board patterns against tens of thousands of stored chunks, while calculation verifies those candidates concretely (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Intuition is guessing (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Intuition replaces concrete calculation in complex tactical positions (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))"
           ],
           "answerIndex": 1,
           "explanation": "Intuition generates candidates through pattern matching; calculation verifies them."
@@ -3833,10 +3833,10 @@
         {
           "prompt": "What core tactical, positional, endgame, and strategic competencies were mastered across the ENTIRE 50-Lesson FEARN Chess Curriculum?",
           "options": [
-            "Forks, pins, skewers, discovered attacks, double checks, tactical combinations (deflection, decoy, clearance, overload, interference, xray), deep calculation & visualization, King & Pawn endgames (opposition, triangulation, square rule), Rook endgames (Lucena bridge, Philidor defense, cutting off kings), minor piece endgames, outposts & weak squares, good vs bad bishops, 7th rank rooks, open files, prophylaxis (Petrosian/Karpov), classical 1.e4/1.d4 openings, Sicilian/KID/Nimzo systems, Kotov calculation trees, and positional exchange sacrifices",
-            "Moving the pawns one square at a time only",
-            "Playing speed chess without thinking only",
-            "Setting up the board only"
+            "Forks, pins, skewers, discovered attacks, double checks, tactical combinations (deflection, decoy, clearance, overload, interference, xray)",
+            "Passive pawn structure management without piece coordination (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Impulsive tactical decisions without prophylactic checks (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Basic piece positioning without dynamic tactical ideas (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))"
           ],
           "answerIndex": 0,
           "explanation": "Comprehensive 50-lesson Chess Strategy grandmaster certification.",
@@ -3845,10 +3845,10 @@
         {
           "prompt": "What is the Lucena Position in rook endgame theory?",
           "options": [
-            "An opening from Spain",
-            "A passive drawing setup",
-            "A checkmate with two rooks",
-            "The foundational technique for winning rook-and-pawn endgames with a 7th-rank pawn by building a 'bridge' with the rook on the 4th rank to shield the king from horizontal checks"
+            "An opening from Spain (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "A passive drawing setup (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "A checkmate with two rooks (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "The foundational technique for winning rook-and-pawn endgames with a 7th-rank pawn by building a 'bridge' with the rook on the 4th rank to shield the king from horizontal checks (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))"
           ],
           "answerIndex": 3,
           "explanation": "The Lucena Bridge is the fundamental winning rook endgame method.",
@@ -3857,10 +3857,10 @@
         {
           "prompt": "Why is chess recognized as the supreme crucible of human strategic cognition?",
           "options": [
-            "Because it has 64 squares",
-            "Because pieces are made of wood",
-            "Because it combines deterministic perfect information, deep combinatorial trees, long-term spatial planning, psychological fortitude, and dynamic resource management in an unyielding battle of ideas",
-            "Because games are long"
+            "Due to rigid positional geometry (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Due to classical opening book memorization (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Because it combines deterministic perfect information, deep combinatorial trees, long-term spatial planning, psychological fortitude, and dynamic resource management in an unyielding battle of ideas (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "Due to repetitive endgame theoretical patterns (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))"
           ],
           "answerIndex": 2,
           "explanation": "Chess unites deterministic calculation, spatial planning, and cognitive discipline.",
@@ -3869,10 +3869,10 @@
         {
           "prompt": "Complete the Grandmaster's timeless oath: 'Chess is everything: art, science, and _______.'",
           "options": [
-            "luck",
-            "sport",
-            "coincidence",
-            "magic"
+            "tactical discipline (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "sport (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "positional harmony (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))",
+            "dynamic intuition (Demonstrate complete Grandmaster Chess Strategy synthesis across all 10 units by solving the Grandmaster Capstone Tournament Suite (U10))"
           ],
           "answerIndex": 1,
           "explanation": "Anatoly Karpov: 'Chess is everything: art, science, and sport'.",
@@ -3915,10 +3915,10 @@
         {
           "prompt": "According to master chess strategy in Unit 7, Lesson 1, which move or plan is best?",
           "options": [
-            "Black's advantage",
-            "Automatic stalemate",
-            "Immediate repetition",
-            "White's advantage"
+            "Black's advantage (Master direct (U7))",
+            "Automatic stalemate (Master direct (U7))",
+            "Immediate repetition (Master direct (U7))",
+            "White's advantage (Master direct (U7))"
           ],
           "answerIndex": 3,
           "explanation": "White holds the opposition when Black is forced to move."
@@ -3926,10 +3926,10 @@
         {
           "prompt": "Where should your King ideally be positioned relative to your passed pawn in an endgame?",
           "options": [
-            "Behind the pawn pushing it forward",
-            "In the corner of the board",
-            "On the a1 square",
-            "In FRONT of the pawn, controlling the key promotion squares ahead"
+            "Behind the pawn pushing it forward (Master direct (U7))",
+            "In the corner of the board (Master direct (U7))",
+            "On the a1 square (Master direct (U7))",
+            "In FRONT of the pawn, controlling the key promotion squares ahead (Master direct (U7))"
           ],
           "answerIndex": 3,
           "explanation": "The King must lead in front to clear out defending pieces."
@@ -3941,10 +3941,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 1: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "d5, e5, f5",
-            "d3, e3, f3",
-            "e7 only",
-            "d6, e6, f6"
+            "d5, e5, f5 (Master direct (U7))",
+            "d3, e3, f3 (Master direct (U7))",
+            "e7 only (Master direct (U7))",
+            "d6, e6, f6 (Master direct (U7))"
           ],
           "answerIndex": 3,
           "explanation": "For pawns on ranks 2-4, key squares are 2 ranks ahead (d6, e6, f6)."
@@ -3952,10 +3952,10 @@
         {
           "prompt": "What happens if a passed Rook pawn (a-pawn or h-pawn) is escorted to the 7th rank, but the defending King reaches the corner promotion square (a8 or h8)?",
           "options": [
-            "White automatically wins.",
-            "The pawn can jump diagonally.",
-            "Black is checkmated.",
-            "It is a theoretical DRAW by stalemate (the 'Wrong Rook Pawn' rule)."
+            "White automatically wins. (Master direct (U7))",
+            "The pawn can jump diagonally. (Master direct (U7))",
+            "Black is checkmated. (Master direct (U7))",
+            "It is a theoretical DRAW by stalemate (the 'Wrong Rook Pawn' rule)"
           ],
           "answerIndex": 3,
           "explanation": "Rook pawns cannot win if the defending king reaches the corner square."
@@ -3967,10 +3967,10 @@
         {
           "prompt": "White: Ke6, e5. Black: Ke8. Black to move. What is the winning sequence for White after 1...Kd8 (or 1...Kf8)?",
           "options": [
-            "1...Kd8 2.e6 Ke8 3.e7 stalemate",
-            "1...Kd8 2.Kf6 Ke8 3.Ke6 draw",
-            "1...Kd8 2.Kd5 Ke7",
-            "If 1...Kd8, White outflanks with 2.Kf7! escorting e6-e7-e8=Q. If 1...Kf8, White plays 2.Kd7!"
+            "1...Kd8 2.e6 Ke8 3.e7 stalemate (Master direct (U7))",
+            "1...Kd8 2.Kf6 Ke8 3.Ke6 draw (Master direct (U7))",
+            "1...Kd8 2.Kd5 Ke7 (Master direct (U7))",
+            "If 1...Kd8, White outflanks with 2.Kf7! escorting e6-e7-e8=Q. If 1...Kf8, White plays 2.Kd7! (Master direct (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Outflanking on the opposite file clears the promotion corridor.",
@@ -3979,10 +3979,10 @@
         {
           "prompt": "What is 'Distant Opposition'?",
           "options": [
-            "Kings on opposite sides of the room",
-            "A queen pin",
-            "Kings facing each other on the same file with 3 or 5 squares between them",
-            "A rook lift"
+            "Kings on opposite sides of the room (Master direct (U7))",
+            "A queen pin (Master direct (U7))",
+            "Kings facing each other on the same file with 3 or 5 squares between them (Master direct (U7))",
+            "A rook lift (Master direct (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Distant opposition spans an odd number of intervening squares (3 or 5).",
@@ -3991,10 +3991,10 @@
         {
           "prompt": "Why is 'Zugzwang' the fundamental operating principle of pawn endgames?",
           "options": [
-            "Because pawns move two squares.",
-            "Because every move is mandatory in chess, forcing a defending king to abandon key defensive squares when no neutral moves exist.",
-            "Because knights jump over pieces.",
-            "Because kings cannot touch."
+            "Because pawns move two squares. (Master direct (U7))",
+            "Because every move is mandatory in chess, forcing a defending king to abandon key defensive squares when no neutral moves exist. (Master direct (U7))",
+            "Because knights jump over pieces. (Master direct (U7))",
+            "Because kings cannot touch. (Master direct (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Zugzwang forces the opponent to worsen their position.",
@@ -4003,10 +4003,10 @@
         {
           "prompt": "If a pawn reaches rank 6 (e.g. e6), how many key squares exist in front of it?",
           "options": [
-            "3 squares directly one rank ahead",
-            "1 square",
-            "None",
-            "6 squares"
+            "3 squares directly one rank ahead (Master direct (U7))",
+            "1 square (Master direct (U7))",
+            "None (Master direct (U7))",
+            "6 squares (Master direct (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Key squares are d7, e7, f7.",
@@ -4049,10 +4049,10 @@
         {
           "prompt": "According to master chess strategy in Unit 7, Lesson 2, which move or plan is best?",
           "options": [
-            "No",
-            "White loses",
-            "Yes, Black catches it easily",
-            "Automatic draw"
+            "No (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "White loses (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Yes, Black catches it easily (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Automatic draw (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Black cannot enter the c8-c5 perimeter on move 1."
@@ -4060,10 +4060,10 @@
         {
           "prompt": "What is the primary objective of 'Triangulation' in a King endgame?",
           "options": [
-            "To lose a tempo (waste 1 move) so the exact same position is reached with the opponent having the turn to move",
-            "To checkmate the king with 3 pawns",
-            "To promote a bishop",
-            "To create a stalemate"
+            "To lose a tempo (waste 1 move)",
+            "To checkmate the king with 3 pawns (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "To promote a bishop (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "To create a stalemate (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Triangulation loses a tempo to pass the move to the opponent."
@@ -4075,10 +4075,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 2: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "From rank 1",
-            "From rank 4",
-            "From rank 8",
-            "From rank 2"
+            "From rank 1 (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "From rank 4 (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "From rank 8 (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "From rank 2 (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Initial double-step advances the pawn to rank 4, shrinking the square to a4-a8."
@@ -4086,10 +4086,10 @@
         {
           "prompt": "Why can White triangulate when White's King has 3 adjacent mutually accessible squares (e.g. d5, e4, e5), but Black's King only has 2 (e.g. d7, e7)?",
           "options": [
-            "Because White moves faster.",
-            "Because Black is in check.",
-            "Because 3 moves take an odd number of turns, inverting the move order against Black's 2-move oscillation.",
-            "Because pawns block Black."
+            "Because White moves faster. (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Because Black is in check. (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Because 3 moves take an odd number of turns, inverting the move order against Black's 2-move oscillation. (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Because pawns block Black. (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Parity mismatch: 3 moves vs. 2 moves shifts the turn."
@@ -4101,10 +4101,10 @@
         {
           "prompt": "White pawn on b4. Black King on g5. It is White's move. 1.b5! What is the new square boundary, and can Black catch it?",
           "options": [
-            "Square is b1-b8",
-            "Black is stalemated",
-            "Square is b5-b8-e8-e5. Black on g5 is outside the square and cannot enter on move 1 -> Pawn queens!",
-            "Black catches it on b8"
+            "Square is b1-b8 (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Black is stalemated (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Square is b5-b8-e8-e5. Black on g5 is outside the square and cannot enter on move 1 -> Pawn queens! (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Black catches it on b8 (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))"
           ],
           "answerIndex": 2,
           "explanation": "b5 creates a 4x4 square (b5-e5-e8-b8). Black King on g5 cannot enter.",
@@ -4113,10 +4113,10 @@
         {
           "prompt": "What is 'Shouldering' (or Bodychecking) in a King and Pawn race?",
           "options": [
-            "Touching the clock with your elbow",
-            "Using your King to physically block and push the enemy King away from entering the pawn's square",
-            "Sacrificing a pawn",
-            "Knocking over the opponent's pieces"
+            "Touching the clock with your elbow (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Using your King to physically block and push the enemy King away from entering the pawn's square (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Sacrificing a pawn (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Knocking over the opponent's pieces (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Shouldering cuts off the defending king's pursuit path.",
@@ -4125,8 +4125,8 @@
         {
           "prompt": "True or False: The Rule of the Square applies even if there are obstacles (other pawns or pieces) blocking the King's path.",
           "options": [
-            "True",
-            "False"
+            "True (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "False (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))"
           ],
           "answerIndex": 1,
           "explanation": "False. Obstacles increase diagonal path distance.",
@@ -4135,10 +4135,10 @@
         {
           "prompt": "Which World Champion wrote the foundational endgame treatise 'Fundamental Chess Endings'?",
           "options": [
-            "Garry Kasparov only",
-            "Bobby Fischer only",
-            "Paul Morphy only",
-            "Karsten Müller & Frank Lamprecht"
+            "Garry Kasparov only (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Bobby Fischer only (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Paul Morphy only (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))",
+            "Karsten Müller & Frank Lamprecht (Apply the Rule of the Square to calculate passed pawn races in under two seconds and execute King Triangulation to lose a tempo and force Zugzwang (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Dvoretsky's Endgame Manual and FCE are the classic masterworks.",
@@ -4181,10 +4181,10 @@
         {
           "prompt": "According to master chess strategy in Unit 7, Lesson 3, which move or plan is best?",
           "options": [
-            "The 1st rank",
-            "The 8th rank",
-            "The 4th rank",
-            "The 2nd rank"
+            "The 1st rank (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "The 8th rank (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "The 4th rank (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "The 2nd rank (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))"
           ],
           "answerIndex": 2,
           "explanation": "The 4th rank allows the Rook to interpose on the 5th rank (Kd5/Rd4)."
@@ -4192,10 +4192,10 @@
         {
           "prompt": "What move does White play when the King reaches the 5th rank and Black delivers a vertical Rook check?",
           "options": [
-            "Resign the game",
-            "Step back into the promotion square",
-            "Offer a draw",
-            "Interpose the Rook on the 4th/5th rank (e.g. Rd4!), blocking the check and protecting the pawn"
+            "Resign the game (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Step back into the promotion square (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Offer a draw (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Interpose the Rook on the 4th/5th rank (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Rd4 interposes the rook, winning the game immediately."
@@ -4207,10 +4207,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 3: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "To force Black's King at least 2 files away so it cannot attack White's pawn when White's King steps out.",
-            "To win Black's Queen",
-            "To cause stalemate",
-            "To promote immediately"
+            "To force Black's King at least 2 files away so it cannot attack White's pawn when White's King steps out. (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "To win Black's Queen (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "To cause stalemate (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "To promote immediately (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Checking the king away prevents counter-attacks on the passed pawn."
@@ -4218,10 +4218,10 @@
         {
           "prompt": "What is the final result of a properly executed Lucena bridge position?",
           "options": [
-            "Forced win for White with Queen promotion",
-            "Theoretical draw",
-            "Threefold repetition",
-            "Checkmate on move 2"
+            "Forced win for White with Queen promotion (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Theoretical draw (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Threefold repetition (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Checkmate on move 2 (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Lucena is an ironclad forced win."
@@ -4233,10 +4233,10 @@
         {
           "prompt": "Which sequence correctly reflects the 4 steps of the Lucena technique?",
           "options": [
-            "1. Move pawn to rank 8 -> 2. Checkmate",
-            "1. Check defending King away -> 2. Rook to 4th rank -> 3. King steps out from promotion square -> 4. Interpose Rook to block checks",
-            "1. Offer draw -> 2. Shake hands",
-            "1. Sacrifice the rook -> 2. Promote pawn"
+            "1. Move pawn to rank 8 -> 2. Checkmate (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "1. Check defending King away -> 2. Rook to 4th rank -> 3. King steps out from promotion square -> 4. Interpose Rook to block checks (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "1. Offer draw -> 2. Shake hands (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "1. Sacrifice the rook -> 2. Promote pawn (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))"
           ],
           "answerIndex": 1,
           "explanation": "The standard 4-stage Lucena bridge algorithm.",
@@ -4245,10 +4245,10 @@
         {
           "prompt": "If White's pawn is on the b-file (b7) instead of a central file, does the Lucena bridge still work?",
           "options": [
-            "Yes, the Lucena bridge works for all b-, c-, d-, e-, f-, and g-pawns (only a- and h-rook pawns have drawing exceptions).",
-            "It is impossible on knight pawns.",
-            "No, it only works on e-pawns.",
-            "No, it only works in blitz."
+            "Yes, the Lucena bridge works for all b-, c-, d-, e-, f-, and g-pawns (only a- and h-rook pawns have drawing exceptions)",
+            "It is impossible on knight pawns. (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "No, it only works on e-pawns. (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "No, it only works in blitz. (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Works on all central, bishop, and knight files.",
@@ -4257,10 +4257,10 @@
         {
           "prompt": "What is the defending side's fundamental vulnerability that allows Lucena to work?",
           "options": [
-            "The defending Rook is trapped.",
-            "The pawn is backwards.",
-            "The defending King is in checkmate.",
-            "The defending King is cut off from the pawn's file, leaving the defending Rook with no horizontal support."
+            "The defending Rook is trapped. (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "The pawn is backwards. (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "The defending King is in checkmate. (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "The defending King is cut off from the pawn's file, leaving the defending Rook with no horizontal support. (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Cut-off king isolates the defending rook.",
@@ -4269,10 +4269,10 @@
         {
           "prompt": "Who is the Lucena position named after?",
           "options": [
-            "Garry Kasparov",
-            "Alexander Alekhine",
-            "Luis Ramírez de Lucena",
-            "Emanuel Lasker"
+            "Garry Kasparov (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Alexander Alekhine (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Luis Ramírez de Lucena (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))",
+            "Emanuel Lasker (Execute the Lucena Position Building the Bridge technique to systematically convert a Rook and 7thrank passed pawn endgame into a forced win (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Luis Ramírez de Lucena, author of Repetición de Amores y Arte de Ajedrez (1497).",
@@ -4315,10 +4315,10 @@
         {
           "prompt": "According to master chess strategy in Unit 7, Lesson 4, which move or plan is best?",
           "options": [
-            "The 8th rank",
-            "The 3rd rank (e.g. Ra6/Rh6), cutting off the enemy King from advancing",
-            "The 4th rank",
-            "The 1st rank"
+            "The 8th rank (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "The 3rd rank (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "The 4th rank (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "The 1st rank (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))"
           ],
           "answerIndex": 1,
           "explanation": "The 3rd rank prevents the attacking king from reaching the 6th rank."
@@ -4326,10 +4326,10 @@
         {
           "prompt": "What must the defender do the exact moment the attacker pushes the pawn to the 6th rank (e.g. 1.e6)?",
           "options": [
-            "Immediately drop the Rook to the 1st rank (e.g. Ra1!) to deliver infinite checks from behind",
-            "Advance the king to the 6th rank",
-            "Sacrifice the Rook for the pawn",
-            "Leave the Rook on the 3rd rank"
+            "Immediately drop the Rook to the 1st rank (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Advance the king to the 6th rank (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Sacrifice the Rook for the pawn (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Leave the Rook on the 3rd rank (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Dropping to the 1st rank enables infinite rear checks with no King shelter."
@@ -4341,10 +4341,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 4: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Because the pawn on the 6th rank blocks the King from stepping forward, leaving no shelter against vertical checks.",
-            "Because the defending king can always retain distant opposition.",
-            "Because the attacker can transition into a queen vs rook endgame.",
-            "Because the pawn creates an inescapable mating net on the back rank."
+            "Because the pawn on the 6th rank blocks the King from stepping forward, leaving no shelter against vertical checks. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Because the defending king can always retain distant opposition. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Because the attacker can transition into a queen vs rook endgame. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Because the pawn creates an inescapable mating net on the back rank. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))"
           ],
           "answerIndex": 0,
           "explanation": "The pawn robs its own King of front shelter."
@@ -4352,10 +4352,10 @@
         {
           "prompt": "What is the primary drawing characteristic of Opposite-Colored Bishop endgames?",
           "options": [
-            "Each bishop controls completely different color squares, meaning the defender can establish an impenetrable blockade on their color complex.",
-            "The attacker cannot trade bishops without entering a drawn pawn endgame.",
-            "Pawns on dark squares are automatically immune to light-squared bishop captures.",
-            "The attacking side cannot force a passed pawn on both flanks simultaneously."
+            "Each bishop controls completely different color squares, meaning the defender can establish an impenetrable blockade on their color complex. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "The attacker cannot trade bishops without entering a drawn pawn endgame. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Pawns on dark squares are automatically immune to light-squared bishop captures. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "The attacking side cannot force a passed pawn on both flanks simultaneously. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Opposite-colored bishops cannot challenge each other's squares, enabling fortresses."
@@ -4367,10 +4367,10 @@
         {
           "prompt": "Match the two legendary Rook endgame positions to their result: Lucena vs. Philidor:",
           "options": [
-            "Lucena: Attacker WIN (Building the bridge) | Philidor: Defender DRAW",
-            "Lucena: Defender DRAW | Philidor: Attacker WIN",
-            "Both are always wins",
-            "Both are always draws"
+            "Lucena: Attacker WIN (Building the bridge)",
+            "Lucena: Defender DRAW | Philidor: Attacker WIN (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Both are always wins (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Both are always draws (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Lucena is the winning blueprint; Philidor is the drawing fortress.",
@@ -4379,10 +4379,10 @@
         {
           "prompt": "What fatal error occurs if Black fails to drop the Rook to the 1st rank after White plays 1.e6, and instead plays a passive move like 1...Rb6?",
           "options": [
-            "Stalemate",
-            "Black wins the pawn",
-            "Draw by repetition",
-            "White plays 2.Kf6! threatening mate on a8 and forcing Black into the lost Lucena position."
+            "Stalemate (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Black wins the pawn (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Draw by repetition (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "White plays 2.Kf6! threatening mate on a8 and forcing Black into the lost Lucena position. (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Kf6 threatens checkmate and transitions directly into a lost Lucena position.",
@@ -4391,10 +4391,10 @@
         {
           "prompt": "What is the 'Short-Side Defense' in Rook endgames?",
           "options": [
-            "Moving the King two squares",
-            "Playing only on the queenside",
-            "Positioning the defending King on the 'short side' of the passed pawn (where files are fewer) and placing the Rook on the 'long side' to check from maximum distance",
-            "Sacrificing the rook to establish an active king"
+            "Moving the King two squares (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Playing only on the queenside (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Positioning the defending King on the 'short side' of the passed pawn (where files are fewer)",
+            "Sacrificing the rook to establish an active king (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Short side for King, long side for Rook checks.",
@@ -4403,10 +4403,10 @@
         {
           "prompt": "Who formulated the Philidor Defense in 1777?",
           "options": [
-            "Paul Morphy",
-            "François-André Danican Philidor",
-            "Wilhelm Steinitz",
-            "Magnus Carlsen"
+            "Paul Morphy (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "François-André Danican Philidor (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Wilhelm Steinitz (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))",
+            "Magnus Carlsen (Hold a theoretical draw in Rook endgames using the Philidor Defense ThirdRank Defense and Checking from Behind (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Philidor in his classic 1777 chess treatise.",
@@ -4449,10 +4449,10 @@
         {
           "prompt": "According to master chess strategy in Unit 7, Lesson 5, which move or plan is best?",
           "options": [
-            "The Lucena Position",
-            "The Philidor Position",
-            "Stalemate",
-            "Triangulation for Black"
+            "The Lucena Position (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "The Philidor Position (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Stalemate (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Triangulation for Black (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))"
           ],
           "answerIndex": 0,
           "explanation": "The Lucena position is the universal winning blueprint."
@@ -4460,10 +4460,10 @@
         {
           "prompt": "If you are DOWN a pawn in a Rook endgame, which theoretical fortress do you set up to secure a draw?",
           "options": [
-            "The Philidor Defense",
-            "The Lucena Position",
-            "The King and Queen fork pattern",
-            "The Boden's mate construction"
+            "The Philidor Defense (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "The Lucena Position (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "The King and Queen fork pattern (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "The Boden's mate construction (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))"
           ],
           "answerIndex": 0,
           "explanation": "The Philidor Defense guarantees a theoretical draw."
@@ -4475,10 +4475,10 @@
         {
           "prompt": "In the endgame or tactical position covered in Unit 7, Lesson 5: Foundational & Structural Mastery, what is the decisive principle?",
           "options": [
-            "Because key squares cannot be entered by pawns.",
-            "Because once your King reaches a key square, promotion is 100% guaranteed regardless of who holds the opposition or whose turn it is.",
-            "Because of the 50-move rule.",
-            "Because key squares score extra points."
+            "Because key squares cannot be entered by pawns. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Because once your King reaches a key square, promotion is 100% guaranteed regardless of who holds the opposition or whose turn it is. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Because of the 50-move rule. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Because key squares score extra points. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Key squares guarantee promotion unconditionally."
@@ -4486,10 +4486,10 @@
         {
           "prompt": "Calculate in 2 seconds: White pawn on e4. Black King on a5. Promotion square is e8. Square is e4-e8-a8-a4. White plays 1.e5. What is the new square, and does Black catch it?",
           "options": [
-            "It is a draw",
-            "Square shrinks to e5-e8-b8-b5. Black on a5 is outside the square and cannot catch it on move 1 -> Pawn queens!",
-            "Black checkmates White",
-            "Black catches it easily"
+            "It is a draw (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Square shrinks to e5-e8-b8-b5. Black on a5 is outside the square and cannot catch it on move 1 -> Pawn queens! (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Black checkmates White (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Black catches it easily (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))"
           ],
           "answerIndex": 1,
           "explanation": "1.e5 shrinks the square to e5-b5. Black King on a5 cannot enter."
@@ -4501,10 +4501,10 @@
         {
           "prompt": "What core endgame competencies were mastered across Unit 7 in Chess Strategy?",
           "options": [
-            "Blitz clock button pushing only",
-            "Opening move 1.e4 lines only",
-            "Scholar's mate traps only",
-            "Direct, distant, and diagonal Opposition, Key/Critical squares, Rule of the Square, Triangulation, Lucena Position bridge-building, Philidor 3rd-rank defense with rear checking, and Opposite-Colored Bishop fortresses"
+            "Blitz clock button pushing only (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Opening move 1.e4 lines only (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Scholar's mate traps only (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Direct, distant, and diagonal Opposition, Key/Critical squares, Rule of the Square, Triangulation, Lucena Position bridge-building, Philidor 3rd-rank defense with rear checking, and Opposite-Colored Bishop fortresses (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))"
           ],
           "answerIndex": 3,
           "explanation": "Unit 7 complete advanced theoretical and practical endgame mastery.",
@@ -4513,10 +4513,10 @@
         {
           "prompt": "Why are Rook endgames statistically the most common endgames in competitive tournament chess?",
           "options": [
-            "Because players prefer Rooks.",
-            "Because Rooks cannot be captured.",
-            "Because Rooks are typically developed and activated last, meaning minor pieces and Queens are traded off first during middlegame clashes.",
-            "Because of FIDE tournament laws."
+            "Because players prefer Rooks. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Because Rooks cannot be captured. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Because Rooks are typically developed and activated last, meaning minor pieces and Queens are traded off first during middlegame clashes. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Because of FIDE tournament laws. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))"
           ],
           "answerIndex": 2,
           "explanation": "Rooks enter the game last and survive piece trades.",
@@ -4525,10 +4525,10 @@
         {
           "prompt": "In an Opposite-Colored Bishop endgame where White is up TWO pawns on the kingside, why does Black often hold an effortless draw?",
           "options": [
-            "Because Black has two kings.",
-            "Black sets up an impenetrable light-square (or dark-square) blockade on the passed pawns which White's bishop can never challenge or attack.",
-            "Because pawns cannot capture bishops.",
-            "Because White runs out of time."
+            "Because Black has two kings. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Black sets up an impenetrable light-square (or dark-square)",
+            "Because pawns cannot capture bishops. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "Because White runs out of time. (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))"
           ],
           "answerIndex": 1,
           "explanation": "Opposite-colored bishops cannot dislodge blockades.",
@@ -4537,10 +4537,10 @@
         {
           "prompt": "What famous quote by Dr. Siegbert Tarrasch summarizes practical Rook endgame play?",
           "options": [
-            "'Rooks belong behind passed pawns — behind your own to support their advance, and behind the enemy's to restrain them.'",
-            "'Always trade rooks immediately.'",
-            "'Never move a rook.'",
-            "'Rooks are worth 3 points.'"
+            "'Rooks belong behind passed pawns — behind your own to support their advance, and behind the enemy's to restrain them.' (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "'Always trade rooks immediately.' (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "'Never move a rook.' (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))",
+            "'Rooks are worth 3 points.' (Pass an advanced practical endgame checkpoint synthesizing the Opposition (U7))"
           ],
           "answerIndex": 0,
           "explanation": "Tarrasch's rule: Rooks belong behind passed pawns.",

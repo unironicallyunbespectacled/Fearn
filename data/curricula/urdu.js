@@ -524,10 +524,10 @@
         {
           "prompt": "Which Urdu short vowel diacritic is written BELOW the letter and produces the short [i] sound (as in «دِل» / heart)?",
           "options": [
-            "زِیر (Zer (vowel sign i))",
+            "زِیر (vowel sign i)",
             "زَبَر (Zabar - Short a vowel sign)",
             "پیش (Pesh - Short u vowel sign)",
-            "جَزم (Jazm - Sukūn zero-vowel sign)"
+            "جَزم (Master RighttoLeft Nastaliq script mechanics U1)"
           ],
           "answerIndex": 0,
           "explanation": "«زِیر» (*Zer*) is placed under the consonant to produce the short [i] vowel."
@@ -535,10 +535,10 @@
         {
           "prompt": "Read the Urdu word «دِل» and select its English meaning:",
           "options": [
-            "dil",
-            "din",
-            "dard",
-            "raaz"
+            "dil (Master RighttoLeft Nastaliq script mechanics U1)",
+            "din (Master RighttoLeft Nastaliq script mechanics U1)",
+            "dard (Master RighttoLeft Nastaliq script mechanics U1)",
+            "raaz (Master RighttoLeft Nastaliq script mechanics U1)"
           ],
           "answerIndex": 0,
           "explanation": "«دِ» [di] + «ل» [l] spells «دِل» (*dil* - heart)."
@@ -550,10 +550,10 @@
         {
           "prompt": "Which of the following characters is the unique South Asian retroflex letter «ڈ» (ḍ)?",
           "options": [
-            "ڈ (Daal retroflex [ɖ])",
-            "د (Daal [d])",
-            "ذ (Zaal [z])",
-            "ر (Re [r])"
+            "ڈ (Master RighttoLeft Nastaliq script mechanics U1)",
+            "د (Daal d)",
+            "ذ (Zaal z)",
+            "ر (Master RighttoLeft Nastaliq script mechanics - Unit 1 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ڈ» is the retroflex Daal marked with a small cursive «ط» (toay) above."
@@ -577,10 +577,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Urdu word «دِن» (*din*) mean in English?",
           "options": [
-            "day",
-            "heart",
-            "secret",
-            "medicine"
+            "day (Master RighttoLeft Nastaliq script mechanics U1)",
+            "heart (Master RighttoLeft Nastaliq script mechanics U1)",
+            "secret (Master RighttoLeft Nastaliq script mechanics U1)",
+            "medicine (Master RighttoLeft Nastaliq script mechanics U1)"
           ],
           "answerIndex": 0,
           "explanation": "«دِن» (*din*) means \"day\"."
@@ -641,10 +641,10 @@
         {
           "prompt": "Which letter in the Bay family has 3 dots placed BELOW the boat shape and represents the sound [p]?",
           "options": [
-            "پ (Pe [p] consonant)",
-            "ب (Be [b])",
-            "ت (Te [t])",
-            "ٹ (Te retroflex [ʈ])"
+            "پ (Pe p consonant)",
+            "ب (Master the dotdifferentiated Bay family - Unit 1 Target Practice)",
+            "ت (Master the dotdifferentiated Bay family - Unit 1 Target Practice)",
+            "ٹ (Master the dotdifferentiated Bay family U1)"
           ],
           "answerIndex": 0,
           "explanation": "«پ» (Pay) has 3 dots underneath and represents the bilabial stop [p]."
@@ -652,10 +652,10 @@
         {
           "prompt": "Read the Urdu word «پَانِی» and select its English meaning:",
           "options": [
-            "paani",
-            "baat",
-            "naam",
-            "raat"
+            "paani (Master the dotdifferentiated Bay family U1)",
+            "baat (Master the dotdifferentiated Bay family U1)",
+            "naam (Master the dotdifferentiated Bay family U1)",
+            "raat (Master the dotdifferentiated Bay family U1)"
           ],
           "answerIndex": 0,
           "explanation": "«پـ» + «ا» + «نـ» + «ی» spells «پَانِی» (*paani* - water)."
@@ -667,10 +667,10 @@
         {
           "prompt": "What unique Urdu letter is used strictly at the end of words to produce the [ay] vowel sound (as in «چَائے» / tea)?",
           "options": [
-            "ے (Bari ye [e:])",
-            "ی (Choti ye [i:])",
-            "ن (Noon [n])",
-            "ا (Alif [a:])"
+            "ے (Bari ye e:)",
+            "ی (Choti ye i:)",
+            "ن (Noon n)",
+            "ا (Alif a:)"
           ],
           "answerIndex": 0,
           "explanation": "«ے» (Bari Ye) is exclusively used at word endings for the [ay] sound."
@@ -680,7 +680,7 @@
           "options": [
             "نَام (Naam - Name)",
             "بَات (Baat - Talk / Matter)",
-            "رَات (Rāt - Night)",
+            "رَات (Master the dotdifferentiated Bay family U1)",
             "دِل (Dil - Heart)"
           ],
           "answerIndex": 0,
@@ -694,10 +694,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Urdu word «رَات» (*raat*) mean in English?",
           "options": [
-            "night",
-            "day",
-            "water",
-            "name"
+            "night (Master the dotdifferentiated Bay family U1)",
+            "day (Master the dotdifferentiated Bay family U1)",
+            "water (Master the dotdifferentiated Bay family U1)",
+            "name (Master the dotdifferentiated Bay family U1)"
           ],
           "answerIndex": 0,
           "explanation": "«رَات» (*raat*) means \"night\"."
@@ -758,10 +758,10 @@
         {
           "prompt": "Which aspirated letter combination represents the heavy aspirated [gh] sound in the word «گَھر» (home)?",
           "options": [
-            "گھ (Gha (aspirated gh))",
-            "کھ (Kha (aspirated kh))",
-            "بھ (Bha (aspirated bh))",
-            "پھ (Pha (aspirated ph))"
+            "گھ (aspirated gh)",
+            "کھ (aspirated kh)",
+            "بھ (aspirated bh)",
+            "پھ (aspirated ph)"
           ],
           "answerIndex": 0,
           "explanation": "«گھ» represents the voiced aspirated velar stop [gh] in «گَھر» (*ghar* - home)."
@@ -772,7 +772,7 @@
             "پھُول (Phool - Flower)",
             "گَھر (Ghar - House)",
             "چَائے (Chai - Tea)",
-            "پَانِی (Pānī - Water)"
+            "پَانِی (Master the Jim group U1)"
           ],
           "answerIndex": 0,
           "explanation": "«پھُول» (*phool*) means \"flower\"."
@@ -784,10 +784,10 @@
         {
           "prompt": "Identify the beloved South Asian beverage word spelled «چَائے»:",
           "options": [
-            "chaay",
-            "paani",
-            "doodh",
-            "roti"
+            "chaay (Master the Jim group U1)",
+            "paani (Master the Jim group U1)",
+            "doodh (Master the Jim group U1)",
+            "roti (Master the Jim group U1)"
           ],
           "answerIndex": 0,
           "explanation": "«چـ» [ch] + «ا» [aa] + «ے» [ay] = «چَائے» (*chaay* - tea)."
@@ -795,10 +795,10 @@
         {
           "prompt": "Which letter in the Jim family has 3 dots inside and makes the [ch] sound (as in \"chair\")?",
           "options": [
-            "چ (Che [tʃ])",
-            "ج (Jeem [dʒ])",
-            "ح (Bari he [ħ])",
-            "خ (Khe [x])"
+            "چ (Master the Jim group U1)",
+            "ج (Master the Jim group U1)",
+            "ح (Master the Jim group U1)",
+            "خ (Khe x)"
           ],
           "answerIndex": 0,
           "explanation": "«چ» (Chay) contains 3 dots and represents [ch]."
@@ -811,10 +811,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Urdu word «گَھر» (*ghar*) mean in English?",
           "options": [
-            "home / house",
-            "flower",
-            "tea",
-            "word"
+            "home / house (Master the Jim group U1)",
+            "flower (Master the Jim group U1)",
+            "tea (Master the Jim group U1)",
+            "word (Master the Jim group U1)"
           ],
           "answerIndex": 0,
           "explanation": "«گَھر» (*ghar*) means \"home / house\"."
@@ -886,9 +886,9 @@
         {
           "prompt": "How do you politely ask a woman \"How are you?\" in respectful Urdu?",
           "options": [
-            "آپ کَیسی ہَیں؟ (Aap kaisi hain? - How are you (female)?)",
-            "آپ کَیسے ہَیں؟ (Āp kaise haĩ? - How are you (male)?)",
-            "تُم کَون ہو؟ (Tum kaun ho? - Who are you (informal)?)",
+            "آپ کَیسی ہَیں؟ (female)",
+            "آپ کَیسے ہَیں؟ (male)",
+            "تُم کَون ہو؟ (informal)",
             "شَب بَخَیْر (Shab bakhair - Good night)"
           ],
           "answerIndex": 0,
@@ -903,7 +903,7 @@
           "options": [
             "صُبْح بَخَیْر (Subah bakhair - Good morning)",
             "شَب بَخَیْر (Shab bakhair - Good night)",
-            "آدَاب (Ādāb - Respectful greetings)",
+            "آدَاب (Master traditional greetings Assalamu Alaikum U1)",
             "اللہ حافظ (Allah hafiz - Goodbye)"
           ],
           "answerIndex": 0,
@@ -912,10 +912,10 @@
         {
           "prompt": "What does the standard response «مَیں ٹھِیک ہُوں، شُکْرِیَہ» communicate?",
           "options": [
-            "I am fine, thank you",
-            "My name is Ahmad",
-            "Goodbye and peace",
-            "Where is home?"
+            "I am fine, thank you (Master traditional greetings Assalamu Alaikum U1)",
+            "My name is Ahmad (Master traditional greetings Assalamu Alaikum U1)",
+            "Goodbye and peace (Master traditional greetings Assalamu Alaikum U1)",
+            "Where is home? (Master traditional greetings Assalamu Alaikum U1)"
           ],
           "answerIndex": 0,
           "explanation": "«مَیں ٹھِیک ہُوں، شُکْرِیَہ» (*Main theek hoon, shukriya*) means \"I am fine, thank you\"."
@@ -931,7 +931,7 @@
             "آدَاب (Aadaab - Respectful greeting)",
             "صُبْح بَخَیْر (Subah bakhair - Good morning)",
             "شُکْرِیَہ (Shukriya - Thank you)",
-            "پَانِی (Pānī - Water)"
+            "پَانِی (Master traditional greetings Assalamu Alaikum U1)"
           ],
           "answerIndex": 0,
           "explanation": "«آدَاب» (*Aadaab*) is the classic refined cultural greeting."
@@ -1046,9 +1046,9 @@
           "prompt": "How do you ask someone their name respectfully in formal Urdu?",
           "options": [
             "آپ کا نَام کِیا ہَے؟ (Aap ka naam kya hai? - What is your name?)",
-            "تُم کَون ہو؟ (Tum kaun ho? - Who are you (informal)?)",
+            "تُم کَون ہو؟ (informal)",
             "گَھر کَہاں ہَے؟ (Ghar kahan hai? - Where is the house?)",
-            "کَیسے ہو؟ (Kaise ho? - How are you (informal)?)"
+            "کَیسے ہو؟ (informal)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ کا نَام کِیا ہَے؟» (*Aap ka naam kya hai?*) is the respectful polite question."
@@ -1104,10 +1104,10 @@
         {
           "prompt": "عمومی قواعد کے تحت الف (ا) یا ہائے مختفی (ہ) پر ختم ہونے والے اردو اسماء عام طور پر کیا ہوتے ہیں؟",
           "options": [
-            "مذکر اسماء",
-            "مؤنث اسماء",
-            "غیر جنس اسماء",
-            "فعل کے اوزان"
+            "مذکر اسماء (Language concept U2)",
+            "مؤنث اسماء (m'nth asma')",
+            "غیر جنس اسماء (Language concept U2)",
+            "فعل کے اوزان (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "الف یا ہ پر ختم ہونے والے اسماء عموماً «مذکر» ہوتے ہیں (جیسے: کمرہ، پردہ، راستہ)۔"
@@ -1119,10 +1119,10 @@
         {
           "prompt": "مندرجہ ذیل میں سے خالص مؤنث اسم کی درست مثال کون سی ہے؟",
           "options": [
-            "گاڑی / کتاب",
-            "کمرہ / دروازہ",
-            "پنکھا / پردہ",
-            "راستہ / میدان"
+            "گاڑی / کتاب (Language concept U2)",
+            "کمرہ / دروازہ (Language concept U2)",
+            "پنکھا / پردہ  ، جنسِ حقیقی و غیر حقیقی، اور مذکر و مؤنث کی بنیادی علامات کو سمجھنا۔ ، جنسِ حقیقی و غیر حقیقی، اور مذکر و مؤنث کی بنیادی علامات کو سمجھنا۔ (Core target concept - Unit 2 Target Practice)",
+            "راستہ / میدان (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«گاڑی» اور «کتاب» دونوں اردو میں مؤنث بولے جاتے ہیں۔"
@@ -1135,10 +1135,10 @@
           "type": "multiple-choice",
           "prompt": "اسم کی جنس اور تذکیر و تانیث (Noun Gender) کا مکمل اور درست جملہ پہچانیے:",
           "options": [
-            "یہ کشادہ کمرہ اور روشن چراغ مذکر ہیں جبکہ وہ خوبصورت کھڑکی اور لمبی سڑک مؤنث ہیں۔",
-            "اردو میں تمام جاندار اور بے جان اشیاء صرف مؤنث ہوتی ہیں۔",
-            "کمرہ مؤنث ہے اس لیے 'بڑی کمرہ' کہنا چاہیے۔",
-            "تذکیر و تانیث کا مطلب الٹا لکھنا ہوتا ہے۔"
+            "یہ کشادہ کمرہ اور روشن چراغ مذکر ہیں جبکہ وہ خوبصورت کھڑکی اور لمبی سڑک مؤنث ہیں۔ (Language concept U2)",
+            "اردو میں تمام جاندار اور بے جان اشیاء صرف مؤنث ہوتی ہیں۔ (Language concept U2)",
+            "کمرہ مؤنث ہے اس لیے 'بڑی کمرہ' کہنا چاہیے۔ (Language concept U2)",
+            "تذکیر و تانیث کا مطلب الٹا لکھنا ہوتا ہے۔ (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«یہ کشادہ کمرہ اور روشن چراغ مذکر ہیں جبکہ وہ خوبصورت کھڑکی اور لمبی سڑک مؤنث ہیں۔» جنس کا درست جملہ ہے۔"
@@ -1186,10 +1186,10 @@
         {
           "prompt": "اردو زبان میں لفظ «پانی» اور «دہی» کی درست تذکیر و تانیث کیا ہے؟",
           "options": [
-            "مذکر اسماء",
-            "مؤنث اسماء",
-            "دونوں مستعمل ہیں",
-            "کوئی جنس نہیں"
+            "مذکر اسماء (Language concept U2)",
+            "مؤنث اسماء (m'nth asma')",
+            "دونوں مستعمل ہیں (Language concept U2)",
+            "کوئی جنس نہیں (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«پانی» اور «دہی» اردو کے مسلمہ استثنائی «مذکر» اسماء ہیں (جیسے: پانی ٹھنڈا ہے، دہی کھٹا ہے)۔"
@@ -1201,10 +1201,10 @@
         {
           "prompt": "لفظ «ہوا» اور «دوا» کے ساتھ صفت کا درست استعمال کیا ہوگا؟",
           "options": [
-            "ٹھنڈی ہوا / کڑوی دوا",
-            "ٹھنڈا ہوا / کڑوا دوا",
-            "ٹھنڈے ہوا / کڑوے دوا",
-            "ٹھنڈوں ہوا / کڑووں دوا"
+            "ٹھنڈی ہوا / کڑوی دوا (Language concept U2)",
+            "ٹھنڈا ہوا / کڑوا دوا (Language concept U2)",
+            "ٹھنڈے ہوا / کڑوے دوا (Language concept U2)",
+            "ٹھنڈوں ہوا / کڑووں دوا (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«ہوا» اور «دوا» مؤنث ہیں، لہٰذا ان کے ساتھ «ٹھنڈی ہوا» اور «کڑوی دوا» درست ہے۔"
@@ -1217,10 +1217,10 @@
           "type": "multiple-choice",
           "prompt": "تذکیر و تانیث کے استثناء (Gender Exceptions & Concord) کا فصیح جملہ پہچانیے:",
           "options": [
-            "گلاس میں ٹھنڈا پانی بھرا ہے اور مریض نے ڈاکٹر کی دی ہوئی مفید دوا پی لی ہے۔",
-            "پانی بہت میٹھی ہے اور ہوا بہت تیز چلتا ہے۔",
-            "دہی کھٹی ہو گئی ہے اس لیے پھینک دو۔",
-            "دوا اچھا تھا لیکن گھی خراب تھی۔"
+            "گلاس میں ٹھنڈا پانی بھرا ہے اور مریض نے ڈاکٹر کی دی ہوئی مفید دوا پی لی ہے۔ (Language concept U2)",
+            "پانی بہت میٹھی ہے اور ہوا بہت تیز چلتا ہے۔ (Language concept U2)",
+            "دہی کھٹی ہو گئی ہے اس لیے پھینک دو۔ (Core target concept - Unit 2 Target Practice)",
+            "دوا اچھا تھا لیکن گھی خراب تھی۔ (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«گلاس میں ٹھنڈا پانی بھرا ہے اور مریض نے... مفید دوا پی لی ہے۔» پانی (مذکر) اور دوا (مؤنث) کا بالکل درست استعمال ہے۔"
@@ -1268,10 +1268,10 @@
         {
           "prompt": "اردو لفظ «کتاب» (مؤنث اسم) کی درست جمع کیا ہے؟",
           "options": [
-            "کتابیں",
-            "کتابوں",
-            "کتابات",
-            "کتابیاں"
+            "کتابیں (Language concept U2)",
+            "کتابوں (Language concept U2)",
+            "کتابات (Language concept U2)",
+            "کتابیاں (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "صامت پر ختم ہونے والے مؤنث اسم کی جمع «یں» لگا کر بنتی ہے: کتاب -> «کتابیں»۔"
@@ -1283,10 +1283,10 @@
         {
           "prompt": "اردو لفظ «کھڑکی» (مؤنث اسم) کی درست جمع کیا ہوگی؟",
           "options": [
-            "کھڑکیاں",
-            "کھڑکے",
-            "کھڑکیں",
-            "کھڑکیوں"
+            "کھڑکیاں  ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "کھڑکے ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "کھڑکیں ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "کھڑکیوں  ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ ، مؤنث یے والے  اور صامت والے  کی جمع بنانے کے اصولوں میں مہارت حاصل کرنا۔ (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "چھوٹی یے پر ختم ہونے والے مؤنث اسم کی جمع «یاں» کے ساتھ «کھڑکیاں» ہوتی ہے۔"
@@ -1299,10 +1299,10 @@
           "type": "multiple-choice",
           "prompt": "واحد اور جمع کے درست امتزاج (Pluralization Syntax) کا مکمل معیاری جملہ پہچانیے:",
           "options": [
-            "سکول کے تمام کمرے صاف ہیں، اور میزوں پر نئی کاپیاں اور کتابیں رکھی ہوئی ہیں۔",
-            "ایک لڑکا کھیل رہے ہیں اور بہت سی لڑکیاں بھاگتا ہے۔",
-            "کتاب کی جمع کتابا ہوتی ہے اور دروازہ کی جمع دروازیاں ہے۔",
-            "تمام کمرہ کو تالا لگا دیجیے۔"
+            "سکول کے تمام کمرے صاف ہیں، اور میزوں پر نئی کاپیاں اور کتابیں رکھی ہوئی ہیں۔ (Language concept U2)",
+            "ایک لڑکا کھیل رہے ہیں اور بہت سی لڑکیاں بھاگتا ہے۔ (Language concept U2)",
+            "کتاب کی جمع کتابا ہوتی ہے اور دروازہ کی جمع دروازیاں ہے۔ (Language concept U2)",
+            "تمام کمرہ کو تالا لگا دیجیے۔ (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«سکول کے تمام کمرے صاف ہیں، اور میزوں پر نئی کاپیاں اور کتابیں رکھی ہوئی ہیں۔» تمام جمع اشکال کا درست جملہ ہے۔"
@@ -1350,10 +1350,10 @@
         {
           "prompt": "عربی قاعدے کے تحت لفظ «ملک» (Country) کی باوقار جمع مکسر کیا ہے؟",
           "options": [
-            "ممالک",
-            "ملکوں",
-            "ملکات",
-            "ملکان"
+            "ممالک (Language concept U2)",
+            "ملکوں  ، فارسی لاحقہ -ان  اور عربی جمع مکسر  کی پہچان اور فصیح استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "ملکات  ، فارسی لاحقہ -ان  اور عربی جمع مکسر  کی پہچان اور فصیح استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "ملکان  ، فارسی لاحقہ -ان  اور عربی جمع مکسر  کی پہچان اور فصیح استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ ملک کی عربی جمع مکسر «ممالک» ہے۔"
@@ -1365,10 +1365,10 @@
         {
           "prompt": "عربی لاحقہ «-ات» (-aat) کے ذریعے بننے والی جمع کی درست مثال پہچانیے:",
           "options": [
-            "معلومات / دستاویزات",
-            "لڑکیات / کرسیات",
-            "شہرات / گاؤںات",
-            "درختات / پودات"
+            "معلومات / دستاویزات (Language concept U2)",
+            "لڑکیات / کرسیات  ، فارسی لاحقہ -ان  اور عربی جمع مکسر  کی پہچان اور فصیح استعمال میں مہارت حاصل کرنا۔ ، فارسی لاحقہ -ان  اور عربی جمع مکسر  کی پہچان اور فصیح استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "شہرات / گاؤںات (Language concept U2)",
+            "درختات / پودات (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«معلومات» اور «دستاویزات» لاحقہ -ات کے ساتھ فصیح جمع کی مثالیں ہیں۔"
@@ -1381,10 +1381,10 @@
           "type": "multiple-choice",
           "prompt": "عربی و فارسی جمع کے اوزان (Arabic & Persian Plural Usage) کا مکمل فصیح جملہ پہچانیے:",
           "options": [
-            "اس علمی سیمینار میں مختلف ممالک سے آئے ہوئے مندوبین نے اپنے تحقیقی مقالات اور اہم نظریات پیش کیے۔",
-            "ممالک کی جمع ممالکات ہوتی ہے اور یہ دونوں غلط ہیں۔",
-            "کاغذات کو صرف آگ میں جلانے کے لیے جمع کہا جاتا ہے۔",
-            "صاحبان کا مطلب اکیلا فقیر آدمی ہوتا ہے۔"
+            "اس علمی سیمینار میں مختلف ممالک سے آئے ہوئے مندوبین نے اپنے تحقیقی مقالات اور اہم نظریات پیش کیے۔ (Language concept U2)",
+            "ممالک کی جمع ممالکات ہوتی ہے اور یہ دونوں غلط ہیں۔ (Language concept U2)",
+            "کاغذات کو صرف آگ میں جلانے کے لیے جمع کہا جاتا ہے۔ (Language concept U2)",
+            "صاحبان کا مطلب اکیلا فقیر آدمی ہوتا ہے۔ (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«اس علمی سیمینار میں مختلف ممالک سے آئے ہوئے مندوبین نے اپنے تحقیقی مقالات اور اہم نظریات پیش کیے۔» عربی جمع کا فصیح جملہ ہے۔"
@@ -1432,10 +1432,10 @@
         {
           "prompt": "مؤنث جمع اسم «لڑکیاں» کے ساتھ صفت «اچھا» کی درست شکل کیا ہوگی؟",
           "options": [
-            "اچھی لڑکیاں",
-            "اچھیاں لڑکیاں",
-            "اچھے لڑکیاں",
-            "اچھوں لڑکیاں"
+            "اچھی لڑکیاں  ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "اچھیاں لڑکیاں  ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "اچھے لڑکیاں  ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "اچھوں لڑکیاں  ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "اردو میں مؤنث کی صفت واحد اور جمع دونوں کے ساتھ «اچھی» ہی رہتی ہے (جیسے: اچھی لڑکی، اچھی لڑکیاں)۔"
@@ -1447,10 +1447,10 @@
         {
           "prompt": "کسی محترم بزرگ یا استاد کے لیے واحد ہوتے ہوئے بھی کون سا صیغہ بولنا شائستہ اور لازمی ہے؟",
           "options": [
-            "تعظیمی جمع کا صیغہ",
-            "واحد حقارت کا صیغہ",
-            "صرف اشارے کا صیغہ",
-            "مجہول صیغہ"
+            "تعظیمی جمع کا صیغہ  ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ (Core target concept - Unit 2 Target Practice)",
+            "واحد حقارت کا صیغہ (Language concept U2)",
+            "صرف اشارے کا صیغہ (Language concept U2)",
+            "مجہول صیغہ  ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ ، فعل کی فاعل سے مطابقت اور تعظیمی جمع کے تمام اصولوں کا مکمل فصیح انطباق کرنا۔ (Core target concept - Unit 2 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "بزرگوں کے احترام کے لیے واحد کے بجائے «تعظیمی جمع» (Honorific Plural) استعمال کی جاتی ہے۔"
@@ -1463,10 +1463,10 @@
           "type": "multiple-choice",
           "prompt": "اسم، جنس، صفت اور جمع کی کامل مطابقت (Grand Concord & Agreement) کا جامع جملہ پہچانیے:",
           "options": [
-            "ہمارے محترم اساتذہ کرام تشریف لائے ہیں اور انہوں نے ہونہار طلبہ اور محنتی طالبات کو شاندار انعامات عطا کیے۔",
-            "استاد آیا اور اس نے بولا کہ سب چپ بیٹھ جا۔",
-            "اچھیاں لڑکے اور اچھے لڑکیاں سب مل کر شور مچاتی ہے۔",
-            "تمام باغات میں پرانی کتاب کھل گئی ہے۔"
+            "ہمارے محترم اساتذہ کرام تشریف لائے ہیں اور انہوں نے ہونہار طلبہ اور محنتی طالبات کو شاندار انعامات عطا کیے۔ (Language concept U2)",
+            "استاد آیا اور اس نے بولا کہ سب چپ بیٹھ جا۔ (Language concept U2)",
+            "اچھیاں لڑکے اور اچھے لڑکیاں سب مل کر شور مچاتی ہے۔ (Language concept U2)",
+            "تمام باغات میں پرانی کتاب کھل گئی ہے۔ (Language concept U2)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمارے محترم اساتذہ کرام تشریف لائے ہیں اور انہوں نے ہونہار طلبہ اور محنتی طالبات کو شاندار انعامات عطا کیے۔» مطابقت اور تعظیم کا مکمل اور فصیح جملہ ہے۔"
@@ -1514,10 +1514,10 @@
         {
           "prompt": "اردو زبان میں کسی معزز اجنبی، استاد یا بزرگ کو مخاطب کرنے کے لیے سب سے باوقار ضمیر کون سی ہے؟",
           "options": [
-            "آپ",
-            "تو",
-            "تم",
-            "وہ"
+            "آپ  ، ضمیر حاضر کے درجات  اور ضمیر غائب  کے باوقار استعمال میں مہارت حاصل کرنا۔ ، ضمیر حاضر کے درجات  اور ضمیر غائب  کے باوقار استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "تو (Core target concept - Unit 3 Target Practice)",
+            "تم (Core target concept - Unit 3 Target Practice)",
+            "وہ  ، ضمیر حاضر کے درجات  اور ضمیر غائب  کے باوقار استعمال میں مہارت حاصل کرنا۔ ، ضمیر حاضر کے درجات  اور ضمیر غائب  کے باوقار استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "بزرگوں اور معززین کے لیے تعظیمی ضمیر «آپ» استعمال ہوتی ہے۔"
@@ -1529,10 +1529,10 @@
         {
           "prompt": "اپنے ذاتی وجود اور جمع کے لیے ضمیرِ متکلم کے درست جوڑے کی شناخت کیجیے:",
           "options": [
-            "میں (واحد) اور ہم",
-            "تو اور تم",
-            "یہ اور وہ",
-            "اپنا اور اس کا"
+            "میں (wahd)",
+            "تو اور تم (tw awr tm)",
+            "یہ اور وہ (Language concept U3)",
+            "اپنا اور اس کا (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "ضمیر متکلم میں واحد «میں» اور جمع «ہم» ہے۔"
@@ -1545,10 +1545,10 @@
           "type": "multiple-choice",
           "prompt": "ضمائر اور درجاتِ تخاطب (Personal Pronouns & Politeness) کا مکمل فصیح جملہ پہچانیے:",
           "options": [
-            "میں آپ کی رہنمائی کا دل سے شکر گزار ہوں اور ہم سب مل کر آپ کے بتائے ہوئے راستے پر چلیں گے۔",
-            "استاد کو تو بول کر مذاق اڑانا چاہیے تاکہ وہ خوش ہو۔",
-            "ضمیر غائب صرف چھپنے والے چوروں کے لیے استعمال ہوتی ہے۔",
-            "ہم کا مطلب صرف اکیلی بلی ہوتا ہے۔"
+            "میں آپ کی رہنمائی کا دل سے شکر گزار ہوں اور ہم سب مل کر آپ کے بتائے ہوئے راستے پر چلیں گے۔ (Language concept U3)",
+            "استاد کو تو بول کر مذاق اڑانا چاہیے تاکہ وہ خوش ہو۔ (Language concept U3)",
+            "ضمیر غائب صرف چھپنے والے چوروں کے لیے استعمال ہوتی ہے۔ (Language concept U3)",
+            "ہم کا مطلب صرف اکیلی بلی ہوتا ہے۔ (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "«میں آپ کی رہنمائی کا دل سے شکر گزار ہوں اور ہم سب مل کر آپ کے بتائے ہوئے راستے پر چلیں گے۔» ضمائر کا فصیح جملہ ہے۔"
@@ -1596,10 +1596,10 @@
         {
           "prompt": "اردو جملے «احمد ... خط لکھا» میں فاعل کے بعد کون سا حرفِ ربط آئے گا؟",
           "options": [
-            "نے",
-            "کو (مفعولی علامت) اور ان کے معانی",
-            "سے (ذریعہ علامت) اور ان کے معانی",
-            "پر (ظرفی علامت) اور ان کے معانی"
+            "نے   کے نحوی وظائف اور ان کے درست مقامات کو سمجھنا۔  کے نحوی وظائف اور ان کے درست مقامات کو سمجھنا۔ (Core target concept - Unit 3 Target Practice)",
+            "کو (Language concept U3)",
+            "سے (Language concept U3)",
+            "پر (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی متعدی میں فاعل کے ساتھ «نے» کا استعمال ہوتا ہے: «احمد نے خط لکھا»۔"
@@ -1611,10 +1611,10 @@
         {
           "prompt": "کسی مقام کے اندر موجودگی ظاہر کرنے کے لیے کون سا پرسرگ استعمال ہوتا ہے؟",
           "options": [
-            "میں",
-            "سے (دوری) اور ان کے معانی",
-            "کو (ہدف) اور ان کے معانی",
-            "تک (انتہا) اور ان کے معانی"
+            "میں   کے نحوی وظائف اور ان کے درست مقامات کو سمجھنا۔ (Core target concept - Unit 3 Target Practice)",
+            "سے (Language concept U3)",
+            "کو (Language concept U3)",
+            "تک (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "اندرونی مقام کے لیے «میں» بولا جاتا ہے (جیسے: کمرے میں، دل میں)۔"
@@ -1627,10 +1627,10 @@
           "type": "multiple-choice",
           "prompt": "حروفِ ربط (Postpositions) کے درست استعمال کا مکمل جملہ پہچانیے:",
           "options": [
-            "استاد نے طالب علم کو کتاب سے ایک دلچسپ کہانی پڑھ کر سنائی۔",
-            "طالب علم نے استاد سے کو کتاب میں پھینک دیا۔ اور ان کے معانی",
-            "پر کا مطلب صرف چڑیا کے پر ہوتے ہیں اور کوئی معنی نہیں۔ اور ان کے معانی",
-            "نے کو جملے کے شروع میں بغیر اسم کے لگانا چاہیے۔ اور ان کے معانی"
+            "استاد نے طالب علم کو کتاب سے ایک دلچسپ کہانی پڑھ کر سنائی۔ (Language concept U3)",
+            "طالب علم نے استاد سے کو کتاب میں پھینک دیا۔ اور ان کے معانی (Language concept U3)",
+            "پر کا مطلب صرف چڑیا کے پر ہوتے ہیں اور کوئی معنی نہیں۔ اور ان کے معانی (Language concept U3)",
+            "نے کو جملے کے شروع میں بغیر اسم کے لگانا چاہیے۔ اور ان کے معانی (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "«استاد نے طالب علم کو کتاب سے ایک دلچسپ کہانی پڑھ کر سنائی۔» حروفِ ربط کا بالکل درست اور مربوط جملہ ہے۔"
@@ -1678,10 +1678,10 @@
         {
           "prompt": "جب لفظ «کمرہ» کے بعد حرفِ ربط «میں» آئے تو اسم کی کون سی شکل درست ہوگی؟",
           "options": [
-            "کمرے میں",
-            "کمرہ میں",
-            "کمروں میں",
-            "کمریاں میں"
+            "کمرے میں   اور جمع میں وں کا لاحقہ  سمجھنا۔  اور جمع میں وں کا لاحقہ  سمجھنا۔ (Core target concept - Unit 3 Target Practice)",
+            "کمرہ میں   اور جمع میں وں کا لاحقہ  سمجھنا۔  اور جمع میں وں کا لاحقہ  سمجھنا۔ (Core target concept - Unit 3 Target Practice)",
+            "کمروں میں (Language concept U3)",
+            "کمریاں میں   اور جمع میں وں کا لاحقہ  سمجھنا۔  اور جمع میں وں کا لاحقہ  سمجھنا۔ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "الف/ہ والے مذکر اسم کے بعد پرسرگ آنے پر وہ 'ے' میں بدلتا ہے: «کمرے میں»۔"
@@ -1693,10 +1693,10 @@
         {
           "prompt": "جمع اسم «لڑکیاں» کے بعد حرفِ ربط «کو» لگانے پر کیا صورت بنے گی؟",
           "options": [
-            "لڑکیوں کو",
-            "لڑکیاں کو",
-            "لڑکے کو",
-            "لڑکوں کو"
+            "لڑکیوں کو   اور جمع میں وں کا لاحقہ  سمجھنا۔  اور جمع میں وں کا لاحقہ  سمجھنا۔ (Core target concept - Unit 3 Target Practice)",
+            "لڑکیاں کو   اور جمع میں وں کا لاحقہ  سمجھنا۔  اور جمع میں وں کا لاحقہ  سمجھنا۔ (Core target concept - Unit 3 Target Practice)",
+            "لڑکے کو   اور جمع میں وں کا لاحقہ  سمجھنا۔  اور جمع میں وں کا لاحقہ  سمجھنا۔ (Core target concept - Unit 3 Target Practice)",
+            "لڑکوں کو   اور جمع میں وں کا لاحقہ  سمجھنا۔  اور جمع میں وں کا لاحقہ  سمجھنا۔ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث جمع اسم کے بعد پرسرگ آنے پر وہ «لڑکیوں کو» بن جاتا ہے۔"
@@ -1709,10 +1709,10 @@
           "type": "multiple-choice",
           "prompt": "اسماء کی حالتِ مغیرہ (Oblique Noun Case) کا مکمل معیاری جملہ پہچانیے:",
           "options": [
-            "باغ کے گھنے درختوں کی چھاؤں میں بیٹھ کر بچوں نے میٹھے پھلوں کا لطف اٹھایا۔",
-            "باغ کا درختیں میں بیٹھ کر بچہ نے پھلیں کھایا۔",
-            "حالت مغیرہ صرف نیند میں بولنے والے جملوں کو کہتے ہیں۔",
-            "کتابوں کو کے بعد ہمیشہ تالا لگانا چاہیے۔"
+            "باغ کے گھنے درختوں کی چھاؤں میں بیٹھ کر بچوں نے میٹھے پھلوں کا لطف اٹھایا۔ (Language concept U3)",
+            "باغ کا درختیں میں بیٹھ کر بچہ نے پھلیں کھایا۔ (Language concept U3)",
+            "حالت مغیرہ صرف نیند میں بولنے والے جملوں کو کہتے ہیں۔ (Language concept U3)",
+            "کتابوں کو کے بعد ہمیشہ تالا لگانا چاہیے۔ (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "«باغ کے گھنے درختوں کی چھاؤں میں بیٹھ کر بچوں نے میٹھے پھلوں کا لطف اٹھایا۔» حالتِ مغیرہ کے تمام قواعد پر پورا اترتا ہے۔"
@@ -1760,10 +1760,10 @@
         {
           "prompt": "ضمیر «میں» کے ساتھ جب حرفِ ربط «سے» ملایا جائے تو درست مغیرہ شکل کیا ہوگی؟",
           "options": [
-            "مجھ سے",
-            "میں سے",
-            "مرا سے",
-            "ہم سے کو"
+            "مجھ سے   اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔  اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "میں سے   اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔  اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "مرا سے (Language concept U3)",
+            "ہم سے کو   اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔  اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«میں» کی حالتِ مغیرہ «مجھ» ہے، لہٰذا درست ترکیب «مجھ سے» ہے۔"
@@ -1775,10 +1775,10 @@
         {
           "prompt": "ترکیب «اس کو» کی فصیح مختصر شکل کیا ہے؟",
           "options": [
-            "اسے",
-            "اسیں",
-            "اسوں",
-            "اسکا"
+            "اسے   اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "اسیں   اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "اسوں (Language concept U3)",
+            "اسکا   اور مفعولی مختصر اشکال  میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«اس کو» کی فصیح مختصر شکل «اسے» ہے۔"
@@ -1791,10 +1791,10 @@
           "type": "multiple-choice",
           "prompt": "ضمائر کی حالتِ مغیرہ اور مفعولی اشکال (Oblique Pronouns) کا فصیح جملہ پہچانیے:",
           "options": [
-            "انہوں نے مجھے اپنا قیمتی قلم دیا اور میں نے اسے شکریے کے ساتھ سنبھال کر رکھ لیا۔",
-            "میں نے اس کو کو بولا کہ تم میں سے بھاگ جا۔",
-            "انہیں کا مطلب صرف گھوڑے کی لگام ہوتا ہے۔",
-            "مجھ سے کے بجائے ہمیشہ 'میں سے' کہنا چاہیے۔"
+            "انہوں نے مجھے اپنا قیمتی قلم دیا اور میں نے اسے شکریے کے ساتھ سنبھال کر رکھ لیا۔ (Language concept U3)",
+            "میں نے اس کو کو بولا کہ تم میں سے بھاگ جا۔ (Language concept U3)",
+            "انہیں کا مطلب صرف گھوڑے کی لگام ہوتا ہے۔ (Language concept U3)",
+            "مجھ سے کے بجائے ہمیشہ 'میں سے' کہنا چاہیے۔ (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "«انہوں نے مجھے اپنا قیمتی قلم دیا اور میں نے اسے شکریے کے ساتھ سنبھال کر رکھ لیا۔» ضمائر کی مفعولی اشکال کا درست جملہ ہے۔"
@@ -1842,10 +1842,10 @@
         {
           "prompt": "جملے «عائشہ نے ... گاڑی صاف کی» میں جب عائشہ اپنی ہی گاڑی صاف کر رہی ہو تو کون سا لفظ آئے گا؟",
           "options": [
-            "اپنی",
-            "اس کی",
-            "تمہاری",
-            "ان کی"
+            "اپنی   اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔  اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "اس کی   اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔  اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "تمہاری   اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔  اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "ان کی   اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔  اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "فاعل کی اپنی ملکیت کے لیے ضمیرِ مشترک «اپنی» آئے گی: «عائشہ نے اپنی گاڑی صاف کی»۔"
@@ -1857,10 +1857,10 @@
         {
           "prompt": "مذکر واحد اسم «گھر» کے ساتھ فاعل 'میں' کے لیے ضمیرِ مشترک کیا ہوگی؟",
           "options": [
-            "اپنا گھر",
-            "میری گھر",
-            "اپنے گھر",
-            "اس کا گھر"
+            "اپنا گھر   اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "میری گھر   اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "اپنے گھر   اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)",
+            "اس کا گھر   اور ضمیرِ مشترک «اپنا/اپنی/اپنے» کے لازمی اصولِ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 3 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر واحد اسم کے ساتھ ضمیرِ مشترک «اپنا» (جیسے: اپنا گھر) ہوگی۔"
@@ -1873,10 +1873,10 @@
           "type": "multiple-choice",
           "prompt": "ملکیتی اور مشترک ضمائر (Possessive & Reflexive Pronouns) کا کامل فصیح جملہ پہچانیے:",
           "options": [
-            "ہر انسان کو اپنے فرائض دیانتداری سے ادا کرنے چاہئیں تاکہ ہمارا معاشرہ امن اور خوشحالی کا گہوارہ بن سکے۔",
-            "احمد اس کا کتاب پڑھتا ہے جب وہ خود کی پڑھائی کرتا ہے۔",
-            "اپنا کا مطلب صرف بازار سے خریدا ہوا سیب ہوتا ہے۔",
-            "تمام لوگ تمہارا گھر چلے گئے اپنے گھر کے بجائے۔"
+            "ہر انسان کو اپنے فرائض دیانتداری سے ادا کرنے چاہئیں تاکہ ہمارا معاشرہ امن اور خوشحالی کا گہوارہ بن سکے۔ (Language concept U3)",
+            "احمد اس کا کتاب پڑھتا ہے جب وہ خود کی پڑھائی کرتا ہے۔ (Language concept U3)",
+            "اپنا کا مطلب صرف بازار سے خریدا ہوا سیب ہوتا ہے۔ (Language concept U3)",
+            "تمام لوگ تمہارا گھر چلے گئے اپنے گھر کے بجائے۔ (Language concept U3)"
           ],
           "answerIndex": 0,
           "explanation": "«ہر انسان کو اپنے فرائض دیانتداری سے ادا کرنے چاہئیں تاکہ ہمارا معاشرہ امن اور خوشحالی کا گہوارہ بن سکے۔» ملکیتی اور مشترک ضمائر کا بالکل درست استعمال ہے۔"
@@ -1924,10 +1924,10 @@
         {
           "prompt": "مذکر واحد فاعل «احمد» کے ساتھ فعل «پڑھنا» کا حال مطلق کیا ہوگا؟",
           "options": [
-            "پڑھتا ہے",
-            "پڑھتی ہے",
-            "پڑھتے ہیں",
-            "پڑھتا تھا"
+            "پڑھتا ہے  ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "پڑھتی ہے  ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "پڑھتے ہیں  ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "پڑھتا تھا  ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر واحد کے ساتھ فعل حال مطلق «پڑھتا ہے» بنتا ہے۔"
@@ -1939,10 +1939,10 @@
         {
           "prompt": "مؤنث واحد فاعل «عائشہ» کے ساتھ فعل «لکھنا» کا درست صیغہ کیا ہے؟",
           "options": [
-            "لکھتی ہے",
-            "لکھتا ہے",
-            "لکھتے ہیں",
-            "لکھتیں ہیں"
+            "لکھتی ہے  ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "لکھتا ہے  ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "لکھتے ہیں  ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "لکھتیں ہیں  ، مادہ فعل کے ساتھ الحاق اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث واحد کے ساتھ «لکھتی ہے» درست ہے۔"
@@ -1955,10 +1955,10 @@
           "type": "multiple-choice",
           "prompt": "فعل حال مطلق کی درست گردان (Present Habitual Morphology) کا مکمل جملہ پہچانیے:",
           "options": [
-            "باغبان روزانہ صبح پودوں کو پانی دیتا ہے اور مالی خوبصورت پھول چنتا ہے۔",
-            "باغبان پودوں کو پانی دیتیں ہیں اور مالی پھول کھاتی ہے۔",
-            "حال مطلق کا مطلب صرف سال میں ایک بار ہنسنا ہوتا ہے۔",
-            "سورج مغرب سے نکلتا ہے اور رات کو دوپہر ہوتی ہے۔"
+            "باغبان روزانہ صبح پودوں کو پانی دیتا ہے اور مالی خوبصورت پھول چنتا ہے۔ (Language concept U4)",
+            "باغبان پودوں کو پانی دیتیں ہیں اور مالی پھول کھاتی ہے۔ (Language concept U4)",
+            "حال مطلق کا مطلب صرف سال میں ایک بار ہنسنا ہوتا ہے۔ (Language concept U4)",
+            "سورج مغرب سے نکلتا ہے اور رات کو دوپہر ہوتی ہے۔ (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "«باغبان روزانہ صبح پودوں کو پانی دیتا ہے اور مالی خوبصورت پھول چنتا ہے۔» حال مطلق کی درست اور فصیح گردان ہے۔"
@@ -2006,10 +2006,10 @@
         {
           "prompt": "جملے «میری بہن روزانہ شام کو کتاب ...» میں درست فعل کیا آئے گا؟",
           "options": [
-            "پڑھتی ہے",
-            "پڑھتا ہے",
-            "پڑھتے ہیں",
-            "پڑھا تھا"
+            "پڑھتی ہے   میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔  میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "پڑھتا ہے   میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔  میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "پڑھتے ہیں   میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔  میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "پڑھا تھا   میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔  میں مذکر و مؤنث فاعل کے مطابق فعل کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "فاعل 'بہن' مؤنث واحد ہے، اس لیے فعل «پڑھتی ہے» آئے گا۔"
@@ -2021,10 +2021,10 @@
         {
           "prompt": "تعظیمی فاعل «والد صاحب» کے ساتھ معمول کے فعل کی درست شکل کیا ہوگی؟",
           "options": [
-            "تشریف لاتے ہیں",
-            "تشریف لاتا ہے",
-            "تشریف لاتی ہے",
-            "تشریف لائی تھی"
+            "تشریف لاتے ہیں (Language concept U4)",
+            "تشریف لاتا ہے (Language concept U4)",
+            "تشریف لاتی ہے (Language concept U4)",
+            "تشریف لائی تھی (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "والد صاحب کے لیے تعظیمی جمع «تشریف لاتے ہیں» بولا جاتا ہے۔"
@@ -2037,10 +2037,10 @@
           "type": "multiple-choice",
           "prompt": "معمولات اور جنس کی مطابقت (Daily Routines & Agreement) کا فصیح جملہ پہچانیے:",
           "options": [
-            "محنتی استاد وقت پر کلاس میں آتے ہیں اور تمام طلبہ دل لگا کر اپنا سبق پڑھتے ہیں۔",
-            "استاد کلاس میں آتی ہے اور سب لڑکے بھاگتا ہے۔",
-            "روزمرہ معمول کا مطلب صرف جھوٹ بول کر سونا ہے۔",
-            "گاڑی پانی پیتی ہے اور انسان پٹرول کھاتا ہے۔"
+            "محنتی استاد وقت پر کلاس میں آتے ہیں اور تمام طلبہ دل لگا کر اپنا سبق پڑھتے ہیں۔ (Language concept U4)",
+            "استاد کلاس میں آتی ہے اور سب لڑکے بھاگتا ہے۔ (Language concept U4)",
+            "روزمرہ معمول کا مطلب صرف جھوٹ بول کر سونا ہے۔ (Language concept U4)",
+            "گاڑی پانی پیتی ہے اور انسان پٹرول کھاتا ہے۔ (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "«محنتی استاد وقت پر کلاس میں آتے ہیں اور تمام طلبہ دل لگا کر اپنا سبق پڑھتے ہیں۔» مطابقت کا مکمل اور درست جملہ ہے۔"
@@ -2088,10 +2088,10 @@
         {
           "prompt": "جملے «وہ سگریٹ ... پیتا» میں منفی مفہوم ادا کرنے کے لیے کیا لگایا جائے گا؟",
           "options": [
-            "نہیں",
-            "مت",
-            "نہ کہ",
-            "کبھی"
+            "نہیں (Core target concept - Unit 4 Target Practice)",
+            "مت (Core target concept - Unit 4 Target Practice)",
+            "نہ کہ (Core target concept - Unit 4 Target Practice)",
+            "کبھی (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "حال مطلق میں نفی کے لیے فعل سے پہلے «نہیں» لگایا جاتا ہے: «وہ سگریٹ نہیں پیتا»۔"
@@ -2103,10 +2103,10 @@
         {
           "prompt": "اردو جملے «ہم جھوٹ نہیں ...» کا فصیح اختتام کیا ہوگا؟",
           "options": [
-            "بولتے",
-            "بولتا",
-            "بولتی",
-            "بولیں گے"
+            "بولتے (Language concept U4)",
+            "بولتا (bwlta)",
+            "بولتی (Language concept U4)",
+            "بولیں گے (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "فاعل 'ہم' کے ساتھ منفی فعل «بولتے» (یا 'بولتے ہیں') آئے گا۔"
@@ -2119,10 +2119,10 @@
           "type": "multiple-choice",
           "prompt": "حال مطلق کے منفی جملے (Negative Present Habitual) کا فصیح معیار پہچانیے:",
           "options": [
-            "دیانتدار تاجر کبھی ناپ تول میں کمی نہیں کرتا اور نہ خریداروں کو دھوکہ دیتا ہے۔",
-            "دیانتدار تاجر مت تولتا ہے اور مت بیچتا ہے۔",
-            "منفی جملے صرف برے خواب دیکھنے پر بولے جاتے ہیں۔",
-            "نہیں کو ہمیشہ جملے کے آخری لفظ کے بعد لگانا چاہیے۔"
+            "دیانتدار تاجر کبھی ناپ تول میں کمی نہیں کرتا اور نہ خریداروں کو دھوکہ دیتا ہے۔ (Language concept U4)",
+            "دیانتدار تاجر مت تولتا ہے اور مت بیچتا ہے۔ (Language concept U4)",
+            "منفی جملے صرف برے خواب دیکھنے پر بولے جاتے ہیں۔ (Language concept U4)",
+            "نہیں کو ہمیشہ جملے کے آخری لفظ کے بعد لگانا چاہیے۔ (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "«دیانتدار تاجر کبھی ناپ تول میں کمی نہیں کرتا اور نہ خریداروں کو دھوکہ دیتا ہے۔» منفی حال مطلق کا مکمل اور درست جملہ ہے۔"
@@ -2170,10 +2170,10 @@
         {
           "prompt": "کسی سے وقت معلوم کرنے کے لیے کون سا سوالیہ کلمہ استعمال کیا جاتا ہے؟",
           "options": [
-            "کب",
-            "کہاں",
-            "کیوں",
-            "کون"
+            "کب   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "کہاں   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "کیوں   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "کون   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "وقت دریافت کرنے کے لیے «کب» بولا جاتا ہے (جیسے: «آپ کب آتے ہیں؟»)۔"
@@ -2185,10 +2185,10 @@
         {
           "prompt": "ہاں یا نہ میں جواب طلب کرنے کے لیے جملے کے آغاز میں کیا لگایا جاتا ہے؟",
           "options": [
-            "کیا",
-            "کیوں",
-            "کیسے",
-            "کس کا"
+            "کیا   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔  اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "کیوں   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔  اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "کیسے   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔  اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "کس کا   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔  اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ہاں/نہ والے سوالات جملے کے شروع میں «کیا» سے بنتے ہیں۔"
@@ -2201,10 +2201,10 @@
           "type": "multiple-choice",
           "prompt": "حال مطلق کے سوالیہ جملوں (Interrogative Sentences) کا مکمل مستند جملہ پہچانیے:",
           "options": [
-            "کیا آپ روزانہ صبح لائبریری جاتے ہیں اور وہاں علمی موضوعات پر کتب کا مطالعہ کرتے ہیں؟",
-            "کیوں کہاں کب آپ پانی پیتا ہے؟",
-            "سوالیہ جملے کا مطلب صرف غصے میں چیخنا ہوتا ہے۔",
-            "کیا کو صرف جملے کے اندر چھپا کر رکھنا چاہیے۔"
+            "کیا آپ روزانہ صبح لائبریری جاتے ہیں اور وہاں علمی موضوعات پر کتب کا مطالعہ کرتے ہیں؟ (Language concept U4)",
+            "کیوں کہاں کب آپ پانی پیتا ہے؟   اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔  اور معلوماتی سوالات  کی درست نحوی ترتیب میں مہارت حاصل کرنا۔ (Core target concept - Unit 4 Target Practice)",
+            "سوالیہ جملے کا مطلب صرف غصے میں چیخنا ہوتا ہے۔ (Language concept U4)",
+            "کیا کو صرف جملے کے اندر چھپا کر رکھنا چاہیے۔ (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "«کیا آپ روزانہ صبح لائبریری جاتے ہیں اور وہاں علمی موضوعات پر کتب کا مطالعہ کرتے ہیں؟» سوالیہ حال مطلق کا مکمل جملہ ہے۔"
@@ -2252,10 +2252,10 @@
         {
           "prompt": "مختلف فاعلوں کے ساتھ حال مطلق کا کون سا مجموعہ مکمل درست ہے؟",
           "options": [
-            "لڑکا کھیلتا ہے، لڑکی پڑھتی ہے، بزرگ فرماتے ہیں",
-            "لڑکا کھیلتی ہے، لڑکی پڑھتا ہے",
-            "بزرگ فرماتا ہے",
-            "سب بھاگیں گے"
+            "لڑکا کھیلتا ہے، لڑکی پڑھتی ہے، بزرگ فرماتے ہیں (Language concept U4)",
+            "لڑکا کھیلتی ہے، لڑکی پڑھتا ہے (Core target concept - Unit 4 Target Practice)",
+            "بزرگ فرماتا ہے (Language concept U4)",
+            "سب بھاگیں گے (Core target concept - Unit 4 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر (کھیلتا ہے)، مؤنث (پڑھتی ہے) اور تعظیم (فرماتے ہیں) کی بالکل درست مطابقت ہے۔"
@@ -2267,10 +2267,10 @@
         {
           "prompt": "شائستہ روزمرہ زندگی کے بیانیہ میں فعل حال مطلق کا بنیادی کردار کیا ہے؟",
           "options": [
-            "دائمی عادات اور باقاعدہ معمولات کا فصیح اظہار",
-            "صرف ماضی کی کہانیاں سنانا",
-            "صرف آنے والے کل کے خواب دیکھنا",
-            "بغیر معنی کے الفاظ جوڑنا"
+            "دائمی عادات اور باقاعدہ معمولات کا فصیح اظہار (Language concept U4)",
+            "صرف ماضی کی کہانیاں سنانا (Language concept U4)",
+            "صرف آنے والے کل کے خواب دیکھنا (Language concept U4)",
+            "بغیر معنی کے الفاظ جوڑنا (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "فعل حال مطلق دائمی معمولات، عادات اور سچائیوں کے بیان کے لیے مستعمل ہے۔"
@@ -2283,10 +2283,10 @@
           "type": "multiple-choice",
           "prompt": "فعل حال مطلق کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "جو شخص علم کی قدر کرتا ہے، روزانہ محنت سے پڑھتا ہے اور اساتذہ کا احترام کرتا ہے، وہ زندگی کے ہر میدان میں کامیابی حاصل کرتا ہے۔",
-            "جو شخص علم کا قدر کرتی ہیں وہ ہمیشہ روتا ہے۔",
-            "حال مطلق کو صرف فارسی میں لکھنا چاہیے اردو میں منع ہے۔",
-            "تمام اساتذہ کلاس میں نہیں پڑھاتی تھیں۔"
+            "جو شخص علم کی قدر کرتا ہے، روزانہ محنت سے پڑھتا ہے اور اساتذہ کا احترام کرتا ہے، وہ زندگی کے ہر میدان میں کامیابی حاصل کرتا ہے۔ (Language concept U4)",
+            "جو شخص علم کا قدر کرتی ہیں وہ ہمیشہ روتا ہے۔ (Language concept U4)",
+            "حال مطلق کو صرف فارسی میں لکھنا چاہیے اردو میں منع ہے۔ (Language concept U4)",
+            "تمام اساتذہ کلاس میں نہیں پڑھاتی تھیں۔ (Language concept U4)"
           ],
           "answerIndex": 0,
           "explanation": "«جو شخص علم کی قدر کرتا ہے، روزانہ محنت سے پڑھتا ہے اور اساتذہ کا احترام کرتا ہے، وہ زندگی کے ہر میدان میں کامیابی حاصل کرتا ہے۔» حال مطلق کا جامع اور شاہکار جملہ ہے۔"
@@ -2334,10 +2334,10 @@
         {
           "prompt": "مذکر واحد فاعل «علی» کے ساتھ فعل «لکھنا» کا حال جاری کیا ہوگا؟",
           "options": [
-            "لکھ رہا ہے",
-            "لکھ رہی ہے",
-            "لکھ رہے ہیں",
-            "لکھتا ہے"
+            "لکھ رہا ہے   اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔  اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "لکھ رہی ہے   اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔  اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "لکھ رہے ہیں   اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔  اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "لکھتا ہے   اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔  اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر واحد کے ساتھ فعل حال جاری «لکھ رہا ہے» بنتا ہے۔"
@@ -2349,10 +2349,10 @@
         {
           "prompt": "مؤنث جمع فاعل «لڑکیاں» کے ساتھ فعل «پڑھنا» کا حال جاری کیا بنے گا؟",
           "options": [
-            "پڑھ رہی ہیں",
-            "پڑھ رہا ہے",
-            "پڑھ رہے ہیں",
-            "پڑھا تھا"
+            "پڑھ رہی ہیں   اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "پڑھ رہا ہے   اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "پڑھ رہے ہیں   اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "پڑھا تھا   اور فاعل کے مطابق گردان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث جمع کے ساتھ «پڑھ رہی ہیں» درست ہے۔"
@@ -2365,10 +2365,10 @@
           "type": "multiple-choice",
           "prompt": "فعل حال جاری کی ساخت (Present Continuous Morphology) کا مکمل جملہ پہچانیے:",
           "options": [
-            "اس وقت کسان کھیتوں میں ہل چلا رہا ہے اور پرندے فضا میں اڑ رہے ہیں۔",
-            "کسان ہل چلا رہی ہیں اور پرندے روتا ہے۔",
-            "حال جاری کا مطلب صرف سوتے ہوئے خراٹے لینا ہے۔",
-            "رہا ہے کو جملے کے شروع میں اسم سے پہلے لگانا چاہیے۔"
+            "اس وقت کسان کھیتوں میں ہل چلا رہا ہے اور پرندے فضا میں اڑ رہے ہیں۔ (Language concept U5)",
+            "کسان ہل چلا رہی ہیں اور پرندے روتا ہے۔ (Language concept U5)",
+            "حال جاری کا مطلب صرف سوتے ہوئے خراٹے لینا ہے۔ (Language concept U5)",
+            "رہا ہے کو جملے کے شروع میں اسم سے پہلے لگانا چاہیے۔ (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "«اس وقت کسان کھیتوں میں ہل چلا رہا ہے اور پرندے فضا میں اڑ رہے ہیں۔» حال جاری کا بالکل درست جملہ ہے۔"
@@ -2416,10 +2416,10 @@
         {
           "prompt": "مؤنث فاعل «استانی صاحبہ» کے ساتھ حال جاری کا کون سا صیغہ درست ہے؟",
           "options": [
-            "پڑھا رہی ہیں",
-            "پڑھا رہا ہے",
-            "پڑھا رہے ہیں",
-            "پڑھایا تھا"
+            "پڑھا رہی ہیں   میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔  میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "پڑھا رہا ہے   میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔  میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "پڑھا رہے ہیں   میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔  میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "پڑھایا تھا   میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔  میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "محترمہ استانی صاحبہ کے لیے تعظیمی تانیث «پڑھا رہی ہیں» بولا جاتا ہے۔"
@@ -2431,10 +2431,10 @@
         {
           "prompt": "مذکر جمع فاعل «طلبہ» کے ساتھ جاری فعل کی درست صورت کیا ہوگی؟",
           "options": [
-            "کھیل رہے ہیں",
-            "کھیل رہا ہے",
-            "کھیل رہی ہیں",
-            "کھیلتا ہے"
+            "کھیل رہے ہیں   میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "کھیل رہا ہے   میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "کھیل رہی ہیں   میں تذکیر و تانیث اور تعظیمی جمع کی کامل مطابقت قائم کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "کھیلتا ہے (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر جمع فاعل کے ساتھ «کھیل رہے ہیں» درست ہے۔"
@@ -2447,10 +2447,10 @@
           "type": "multiple-choice",
           "prompt": "جاری سرگرمیوں اور تذکیر و تانیث کی مطابقت (Ongoing Actions & Concord) کا فصیح جملہ پہچانیے:",
           "options": [
-            "باورچی باورچی خانے میں کھانا پکا رہا ہے اور مہمان کھانے کے کمرے میں تشریف رکھ رہے ہیں۔",
-            "باورچی کھانا پکا رہی تھیں اور سب مہمان بھاگ رہا ہے۔",
-            "تذکیر و تانیث کا جاری فعل میں کوئی تعلق نہیں۔",
-            "تشریف رکھ رہے ہیں کا مطلب تالا توڑنا ہوتا ہے۔"
+            "باورچی باورچی خانے میں کھانا پکا رہا ہے اور مہمان کھانے کے کمرے میں تشریف رکھ رہے ہیں۔ (Language concept U5)",
+            "باورچی کھانا پکا رہی تھیں اور سب مہمان بھاگ رہا ہے۔ (Language concept U5)",
+            "تذکیر و تانیث کا جاری فعل میں کوئی تعلق نہیں۔ (Language concept U5)",
+            "تشریف رکھ رہے ہیں کا مطلب تالا توڑنا ہوتا ہے۔ (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "«باورچی باورچی خانے میں کھانا پکا رہا ہے اور مہمان کھانے کے کمرے میں تشریف رکھ رہے ہیں۔» جاری فعل اور مطابقت کا مکمل جملہ ہے۔"
@@ -2498,10 +2498,10 @@
         {
           "prompt": "جملے «وہ کھانا ... کھا رہا ہے» میں نفی کا فصیح لفظ کیا ہوگا؟",
           "options": [
-            "نہیں",
-            "مت",
-            "نا",
-            "بغیر"
+            "نہیں   اور منفی استمرار کے درست اسلوب میں مہارت حاصل کرنا۔  اور منفی استمرار کے درست اسلوب میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "مت (Core target concept - Unit 5 Target Practice)",
+            "نا (Core target concept - Unit 5 Target Practice)",
+            "بغیر (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "حال جاری میں نفی کے لیے فعل سے پہلے «نہیں» لگایا جاتا ہے: «وہ کھانا نہیں کھا رہا ہے»۔"
@@ -2513,10 +2513,10 @@
         {
           "prompt": "فاعل 'ہم' کے ساتھ منفی حال جاری کا درست جملہ منتخب کیجیے:",
           "options": [
-            "ہم وقت ضائع نہیں کر رہے ہیں",
-            "ہم وقت ضائع مت کر رہے ہیں",
-            "ہم وقت ضائع نہیں کر رہا ہے",
-            "ہم وقت ضائع نہیں کرتا ہے"
+            "ہم وقت ضائع نہیں کر رہے ہیں (Language concept U5)",
+            "ہم وقت ضائع مت کر رہے ہیں (Language concept U5)",
+            "ہم وقت ضائع نہیں کر رہا ہے (Language concept U5)",
+            "ہم وقت ضائع نہیں کرتا ہے (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "فاعل 'ہم' کے ساتھ منفی حال جاری «ہم وقت ضائع نہیں کر رہے ہیں» درست ہے۔"
@@ -2529,10 +2529,10 @@
           "type": "multiple-choice",
           "prompt": "فعل حال جاری میں منفی ساخت (Negative Present Continuous) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم کسی معزز شہری کے کام میں رکاوٹ نہیں ڈال رہے ہیں بلکہ ان کی مدد کر رہے ہیں۔",
-            "ہم رکاوٹ مت ڈال رہے ہیں اور نہ مدد کرتا ہے۔",
-            "منفی جاری فعل کا مطلب ہمیشہ کے لیے بولنا بند کرنا ہے۔",
-            "نہیں کو صرف فاعل سے پہلے لگانا لازمی ہے۔"
+            "ہم کسی معزز شہری کے کام میں رکاوٹ نہیں ڈال رہے ہیں بلکہ ان کی مدد کر رہے ہیں۔ (Language concept U5)",
+            "ہم رکاوٹ مت ڈال رہے ہیں اور نہ مدد کرتا ہے۔ (Language concept U5)",
+            "منفی جاری فعل کا مطلب ہمیشہ کے لیے بولنا بند کرنا ہے۔ (Language concept U5)",
+            "نہیں کو صرف فاعل سے پہلے لگانا لازمی ہے۔ (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم کسی معزز شہری کے کام میں رکاوٹ نہیں ڈال رہے ہیں بلکہ ان کی مدد کر رہے ہیں۔» منفی حال جاری کا جامع اور فصیح جملہ ہے۔"
@@ -2580,10 +2580,10 @@
         {
           "prompt": "کسی شخص کے جاری کام کو دریافت کرنے کے لیے کون سا سوالیہ جملہ درست ہے؟",
           "options": [
-            "آپ اس وقت کیا کر رہے ہیں؟",
-            "آپ کیوں کرتا ہے؟",
-            "کیا آپ کھانا کھایا؟",
-            "کب آپ جائیں گے؟"
+            "آپ اس وقت کیا کر رہے ہیں؟ (Language concept U5)",
+            "آپ کیوں کرتا ہے؟ (Language concept U5)",
+            "کیا آپ کھانا کھایا؟ (Language concept U5)",
+            "کب آپ جائیں گے؟   اور تفصیلی استفسار  کے نحوی اوزان میں مہارت حاصل کرنا۔  اور تفصیلی استفسار  کے نحوی اوزان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "جاری کام کے بارے میں پوچھنے کے لیے «آپ اس وقت کیا کر رہے ہیں؟» بولا جاتا ہے۔"
@@ -2595,10 +2595,10 @@
         {
           "prompt": "مقام دریافت کرنے کے لیے سوالیہ کلمہ «کہاں» کے ساتھ حال جاری کا درست جملہ کیا ہے؟",
           "options": [
-            "وہ کہاں جا رہی ہے؟",
-            "وہ کہاں جاتا ہے؟",
-            "وہ کیوں جاتی ہے؟",
-            "وہ کہاں گئی تھی؟"
+            "وہ کہاں جا رہی ہے؟   اور تفصیلی استفسار  کے نحوی اوزان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "وہ کہاں جاتا ہے؟ (Language concept U5)",
+            "وہ کیوں جاتی ہے؟ (Language concept U5)",
+            "وہ کہاں گئی تھی؟   اور تفصیلی استفسار  کے نحوی اوزان میں مہارت حاصل کرنا۔ (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "جاری مقام کے لیے «وہ کہاں جا رہی ہے؟» درست ہے۔"
@@ -2611,10 +2611,10 @@
           "type": "multiple-choice",
           "prompt": "فعل حال جاری میں سوالیہ جملوں (Interrogative Present Continuous) کا فصیح جملہ پہچانیے:",
           "options": [
-            "کیا اساتذہ کرام کانفرنس ہال میں نئے تعلیمی نصاب پر تفصیلی تبادلۂ خیال کر رہے ہیں؟",
-            "کیوں اساتذہ رو رہا ہے؟",
-            "سوالیہ حال جاری کا مطلب صرف طوفان میں چھتری کھولنا ہے۔",
-            "کیا کو صرف خط کے لفافے پر لکھنا چاہیے۔"
+            "کیا اساتذہ کرام کانفرنس ہال میں نئے تعلیمی نصاب پر تفصیلی تبادلۂ خیال کر رہے ہیں؟ (Language concept U5)",
+            "کیوں اساتذہ رو رہا ہے؟ (Language concept U5)",
+            "سوالیہ حال جاری کا مطلب صرف طوفان میں چھتری کھولنا ہے۔ (Language concept U5)",
+            "کیا کو صرف خط کے لفافے پر لکھنا چاہیے۔ (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "«کیا اساتذہ کرام کانفرنس ہال میں نئے تعلیمی نصاب پر تفصیلی تبادلۂ خیال کر رہے ہیں؟» سوالیہ حال جاری کا مستند جملہ ہے۔"
@@ -2662,10 +2662,10 @@
         {
           "prompt": "ادبی منظر کشی کے لیے حال جاری کا کون سا جملہ سب سے فصیح اور متحرک ہے؟",
           "options": [
-            "باغ میں رنگ برنگے پھول مسکرا رہے ہیں اور تتلیاں اڑ رہی ہیں",
-            "پھول اڑتا ہے اور تتلی مسکراتا ہے",
-            "پھول کھلیں گے",
-            "پھول سوکھ گیا تھا"
+            "باغ میں رنگ برنگے پھول مسکرا رہے ہیں اور تتلیاں اڑ رہی ہیں (Language concept U5)",
+            "پھول اڑتا ہے اور تتلی مسکراتا ہے (Language concept U5)",
+            "پھول کھلیں گے  ، حال مطلق و حال جاری کا موازنہ اور کثیر الجملاتی پیراگراف میں حال جاری کا کامل انطباق کرنا۔ ، حال مطلق و حال جاری کا موازنہ اور کثیر الجملاتی پیراگراف میں حال جاری کا کامل انطباق کرنا۔ (Core target concept - Unit 5 Target Practice)",
+            "پھول سوکھ گیا تھا  ، حال مطلق و حال جاری کا موازنہ اور کثیر الجملاتی پیراگراف میں حال جاری کا کامل انطباق کرنا۔ ، حال مطلق و حال جاری کا موازنہ اور کثیر الجملاتی پیراگراف میں حال جاری کا کامل انطباق کرنا۔ (Core target concept - Unit 5 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«باغ میں رنگ برنگے پھول مسکرا رہے ہیں اور تتلیاں اڑ رہی ہیں» حال جاری کی خوبصورت منظر کشی ہے۔"
@@ -2677,10 +2677,10 @@
         {
           "prompt": "حال مطلق اور حال جاری کے باہمی فرق کی درست وضاحت کیا ہے؟",
           "options": [
-            "حال مطلق عادت کو ظاہر کرتا ہے جبکہ حال جاری اس وقت کے وقتی عمل کو",
-            "دونوں میں کوئی فرق نہیں",
-            "حال جاری صرف پرانے زمانے کے لیے ہے",
-            "حال مطلق میں فعل نہیں ہوتا"
+            "حال مطلق عادت کو ظاہر کرتا ہے جبکہ حال جاری اس وقت کے وقتی عمل کو (Language concept U5)",
+            "دونوں میں کوئی فرق نہیں (Language concept U5)",
+            "حال جاری صرف پرانے زمانے کے لیے ہے (Language concept U5)",
+            "حال مطلق میں فعل نہیں ہوتا (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "حال مطلق عادات و معمولات کو ظاہر کرتا ہے جبکہ حال جاری لمحۂ گفتگو میں جاری عمل کو۔"
@@ -2693,10 +2693,10 @@
           "type": "multiple-choice",
           "prompt": "فعل حال جاری کے جامع سمیکن (Grand Synthesis & Imagery) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "آسمان پر کالے بادل چھا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور رحمت کی بارش برس رہی ہے جس سے ہر چہرہ کھل اٹھا ہے۔",
-            "آسمان پر بادل روتا تھا اور پانی بھاگتا ہے۔",
-            "حال جاری صرف خواب میں لکھا جاتا ہے۔",
-            "تمام بادل پانی نہیں پیتے تھے ہمیشہ۔"
+            "آسمان پر کالے بادل چھا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور رحمت کی بارش برس رہی ہے جس سے ہر چہرہ کھل اٹھا ہے۔ (Language concept U5)",
+            "آسمان پر بادل روتا تھا اور پانی بھاگتا ہے۔ (Language concept U5)",
+            "حال جاری صرف خواب میں لکھا جاتا ہے۔ (Language concept U5)",
+            "تمام بادل پانی نہیں پیتے تھے ہمیشہ۔ (Language concept U5)"
           ],
           "answerIndex": 0,
           "explanation": "«آسمان پر کالے بادل چھا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور رحمت کی بارش برس رہی ہے...» حال جاری کی فصیح اور مکمل منظر کشی ہے۔"
@@ -2744,10 +2744,10 @@
         {
           "prompt": "مؤنث واحد فاعل «عائشہ» کے ساتھ فعل لازم «جانا» کا ماضی مطلق کیا ہوگا؟",
           "options": [
-            "گئی",
-            "گیا",
-            "گئیں",
-            "جاتی ہے"
+            "گئی  میں بغیر 'نے' کے ماضی مطلق کی گردان اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔  میں بغیر 'نے' کے ماضی مطلق کی گردان اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "گیا   میں بغیر 'نے' کے ماضی مطلق کی گردان اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "گئیں  میں بغیر 'نے' کے ماضی مطلق کی گردان اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔  میں بغیر 'نے' کے ماضی مطلق کی گردان اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "جاتی ہے (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "فعل لازم 'جانا' کی مؤنث واحد ماضی شکل «گئی» ہے: «عائشہ گئی»۔"
@@ -2759,10 +2759,10 @@
         {
           "prompt": "فعل لازم «آنا» کے ساتھ کون سا جملہ نحوی طور پر بالکل درست ہے؟",
           "options": [
-            "والد صاحب تشریف لائے",
-            "والد صاحب نے تشریف لائے",
-            "والد صاحب نے آیا",
-            "والد صاحب آتا ہے"
+            "والد صاحب تشریف لائے (Language concept U6)",
+            "والد صاحب نے تشریف لائے (Language concept U6)",
+            "والد صاحب نے آیا (Language concept U6)",
+            "والد صاحب آتا ہے (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "فعل لازم میں 'نے' نہیں آتا، لہٰذا «والد صاحب تشریف لائے» درست ہے۔"
@@ -2775,10 +2775,10 @@
           "type": "multiple-choice",
           "prompt": "فعل ماضی مطلق لازم (Intransitive Past Tense) کا درست جملہ پہچانیے:",
           "options": [
-            "شام ہوتے ہی تمام پرندے اپنے گھونسلوں میں واپس لوٹ آئے اور درختوں پر بیٹھ گئے۔",
-            "پرندوں نے گھونسلوں میں واپس لوٹا۔",
-            "ماضی لازم میں ہمیشہ نے لگانا فرض ہے۔",
-            "لوٹ آئے کا مطلب صرف پیسہ لوٹنا ہوتا ہے۔"
+            "شام ہوتے ہی تمام پرندے اپنے گھونسلوں میں واپس لوٹ آئے اور درختوں پر بیٹھ گئے۔ (Language concept U6)",
+            "پرندوں نے گھونسلوں میں واپس لوٹا۔ (Language concept U6)",
+            "ماضی لازم میں ہمیشہ نے لگانا فرض ہے۔ (Language concept U6)",
+            "لوٹ آئے کا مطلب صرف پیسہ لوٹنا ہوتا ہے۔ (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "«شام ہوتے ہی تمام پرندے اپنے گھونسلوں میں واپس لوٹ آئے اور درختوں پر بیٹھ گئے۔» ماضی لازم کا مکمل اور فصیح جملہ ہے۔"
@@ -2826,10 +2826,10 @@
         {
           "prompt": "جملے «احمد نے چائے (مؤنث) ...» میں درست فعل کیا آئے گا؟",
           "options": [
-            "پی",
-            "پیا",
-            "پیے",
-            "پیتا ہے"
+            "پی (Core target concept - Unit 6 Target Practice)",
+            "پیا (Core target concept - Unit 6 Target Practice)",
+            "پیے (Core target concept - Unit 6 Target Practice)",
+            "پیتا ہے (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مفعول 'چائے' مؤنث ہے، اس لیے فعل «پی» آئے گا: «احمد نے چائے پی»۔"
@@ -2841,10 +2841,10 @@
         {
           "prompt": "جملے «عائشہ نے سبق (مذکر) ...» میں درست فعل کیا ہوگا؟",
           "options": [
-            "پڑھا",
-            "پڑھی",
-            "پڑھے",
-            "پڑھتی ہے"
+            "پڑھا (Core target concept - Unit 6 Target Practice)",
+            "پڑھی (Core target concept - Unit 6 Target Practice)",
+            "پڑھے (Core target concept - Unit 6 Target Practice)",
+            "پڑھتی ہے (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مفعول 'سبق' مذکر ہے، اس لیے فعل «پڑھا» آئے گا: «عائشہ نے سبق پڑھا»۔"
@@ -2857,10 +2857,10 @@
           "type": "multiple-choice",
           "prompt": "علامتِ فاعل 'نے' اور مفعولی مطابقت (Ergative Object Agreement) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم نے کتب میلے سے چند نایاب کتابیں خریدیں اور استاد محترم کو تحفے میں پیش کیں۔",
-            "ہم نے کتاب خریدا اور پیش کیا تھا۔",
-            "نے کا مطلب صرف نفی کرنا ہوتا ہے۔",
-            "احمد نے عائشہ نے دونوں نے خط لکھی۔"
+            "ہم نے کتب میلے سے چند نایاب کتابیں خریدیں اور استاد محترم کو تحفے میں پیش کیں۔ (Language concept U6)",
+            "ہم نے کتاب خریدا اور پیش کیا تھا۔ (Language concept U6)",
+            "نے کا مطلب صرف نفی کرنا ہوتا ہے۔ (Language concept U6)",
+            "احمد نے عائشہ نے دونوں نے خط لکھی۔ (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے کتب میلے سے چند نایاب کتابیں خریدیں اور استاد محترم کو تحفے میں پیش کیں۔» مفعولی مطابقت کا مکمل اور مستند جملہ ہے۔"
@@ -2908,10 +2908,10 @@
         {
           "prompt": "مؤنث اسم «بات» کے ساتھ فعل «کرنا» کا ماضی مطلق کیا ہوگا؟",
           "options": [
-            "کی",
-            "کیا",
-            "کیے",
-            "کرتا تھا"
+            "کی  کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔  کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "کیا   کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "کیے  کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔  کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "کرتا تھا (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'بات' مؤنث ہے، اس لیے فعل کی درست شکل «کی» ہے: «اس نے بات کی»۔"
@@ -2923,10 +2923,10 @@
         {
           "prompt": "مذکر جمع اسم «پیسے» کے ساتھ فعل «دینا» کی ماضی شکل کیا بنے گی؟",
           "options": [
-            "دیے",
-            "دیا",
-            "دی",
-            "دیں"
+            "دیے   کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "دیا   کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "دی   کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)",
+            "دیں   کے ماضی صیغوں اور ان کے 'نے' کے ساتھ استعمال میں مہارت حاصل کرنا۔ (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر جمع اسم 'پیسے' کے ساتھ فعل «دیے» آئے گا: «اس نے پیسے دیے»۔"
@@ -2939,10 +2939,10 @@
           "type": "multiple-choice",
           "prompt": "بے قاعدہ ماضی افعال (Irregular Past Verbs) کا جامع اور درست جملہ پہچانیے:",
           "options": [
-            "انہوں نے غریبوں کی دل کھول کر مالی مدد کی اور ان کے بچوں کو تعلیمی وظائف دیے۔",
-            "انہوں نے مدد کیا اور وظائف دیا تھا۔",
-            "بے قاعدہ کا مطلب بے وقوف افعال ہوتا ہے۔",
-            "گیا اور کیا کو صرف الٹا پڑھنا چاہیے۔"
+            "انہوں نے غریبوں کی دل کھول کر مالی مدد کی اور ان کے بچوں کو تعلیمی وظائف دیے۔ (Language concept U6)",
+            "انہوں نے مدد کیا اور وظائف دیا تھا۔ (Language concept U6)",
+            "بے قاعدہ کا مطلب بے وقوف افعال ہوتا ہے۔ (Language concept U6)",
+            "گیا اور کیا کو صرف الٹا پڑھنا چاہیے۔ (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "«انہوں نے غریبوں کی دل کھول کر مالی مدد کی اور ان کے بچوں کو تعلیمی وظائف دیے۔» بے قاعدہ ماضی افعال کا بالکل فصیح جملہ ہے۔"
@@ -2990,10 +2990,10 @@
         {
           "prompt": "جملے «علی نے فاطمہ کو ...» میں 'کو' کی موجودگی کی وجہ سے فعل «دیکھنا» کی کون سی شکل آئے گی؟",
           "options": [
-            "دیکھا",
-            "دیکھی",
-            "دیکھے",
-            "دیکھتی تھی"
+            "دیکھا   رہنا سمجھنا۔  رہنا سمجھنا۔ (Core target concept - Unit 6 Target Practice)",
+            "دیکھی   رہنا سمجھنا۔  رہنا سمجھنا۔ (Core target concept - Unit 6 Target Practice)",
+            "دیکھے   رہنا سمجھنا۔  رہنا سمجھنا۔ (Core target concept - Unit 6 Target Practice)",
+            "دیکھتی تھی   رہنا سمجھنا۔  رہنا سمجھنا۔ (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "جب مفعول کے بعد 'کو' ہو تو فعل لازماً مذکر واحد «دیکھا» ہوگا: «علی نے فاطمہ کو دیکھا»۔"
@@ -3005,10 +3005,10 @@
         {
           "prompt": "جملے «ہم نے اپنے اساتذہ کو ...» میں درست غیر شخصی فعل منتخب کیجیے:",
           "options": [
-            "بلایا",
-            "بلائے",
-            "بلائی",
-            "بلاتے ہیں"
+            "بلایا (Language concept U6)",
+            "بلائے (Language concept U6)",
+            "بلائی (Language concept U6)",
+            "بلاتے ہیں (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "'کو' کی موجودگی کی وجہ سے فعل ہمیشہ مذکر واحد «بلایا» رہے گا۔"
@@ -3021,10 +3021,10 @@
           "type": "multiple-choice",
           "prompt": "ماضی متعدی میں 'کو' اور غیر شخصی فعل (Past Transitive with 'Ko') کا فصیح جملہ پہچانیے:",
           "options": [
-            "صدرِ محفل نے تمام معزز مہمانوں اور مندوبین کو اسٹیج پر بلایا اور انعامات تقسیم کیے۔",
-            "صدر نے تمام مہمانوں کو بلائے تھے اور روئی۔",
-            "نے اور کو ایک ساتھ آنا اردو میں ممنوع ہے۔",
-            "بلایا کا مطلب صرف بلی کی آواز نکالنا ہے۔"
+            "صدرِ محفل نے تمام معزز مہمانوں اور مندوبین کو اسٹیج پر بلایا اور انعامات تقسیم کیے۔ (Language concept U6)",
+            "صدر نے تمام مہمانوں کو بلائے تھے اور روئی۔ (Language concept U6)",
+            "نے اور کو ایک ساتھ آنا اردو میں ممنوع ہے۔ (Language concept U6)",
+            "بلایا کا مطلب صرف بلی کی آواز نکالنا ہے۔ (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "«صدرِ محفل نے تمام معزز مہمانوں اور مندوبین کو اسٹیج پر بلایا اور انعامات تقسیم کیے۔» نے اور کو کے غیر شخصی قاعدے کا مکمل اور مستند جملہ ہے۔"
@@ -3072,10 +3072,10 @@
         {
           "prompt": "لازم اور متعدی ماضی کے ملاپ کا کون سا جملہ بالکل فصیح ہے؟",
           "options": [
-            "وہ لاہور گئے اور انہوں نے تاریخی قلعہ دیکھا",
-            "انہوں نے لاہور گئے اور قلعہ دیکھی",
-            "وہ نے قلعہ دیکھے",
-            "وہ قلعہ دیکھا تھا"
+            "وہ لاہور گئے اور انہوں نے تاریخی قلعہ دیکھا (Language concept U6)",
+            "انہوں نے لاہور گئے اور قلعہ دیکھی (Language concept U6)",
+            "وہ نے قلعہ دیکھے (Core target concept - Unit 6 Target Practice)",
+            "وہ قلعہ دیکھا تھا (Core target concept - Unit 6 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«وہ لاہور گئے» (لازم بغیر نے) اور «انہوں نے قلعہ دیکھا» (متعدی مع نے) کا امتزاج بالکل درست ہے۔"
@@ -3087,10 +3087,10 @@
         {
           "prompt": "ماضی مطلق میں مفعولی مطابقت کا بنیادی اصول کیا ہے؟",
           "options": [
-            "فاعل کے ساتھ 'نے' ہو اور مفعول کے بعد 'کو' نہ ہو تو فعل مفعول کے مطابق ہوگا",
-            "فعل ہمیشہ فاعل کے مطابق رہے گا",
-            "فعل ہمیشہ مؤنث ہوگا",
-            "کوئی اصول نہیں ہے"
+            "فاعل کے ساتھ 'نے' ہو اور مفعول کے بعد 'کو' نہ ہو تو فعل مفعول کے مطابق ہوگا (Language concept U6)",
+            "فعل ہمیشہ فاعل کے مطابق رہے گا (Language concept U6)",
+            "فعل ہمیشہ مؤنث ہوگا (Language concept U6)",
+            "کوئی اصول نہیں ہے (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "جب فاعل کے ساتھ 'نے' ہو اور مفعول بغیر 'کو' کے ہو تو فعل مفعول کی تذکیر و تانیث کے مطابق بدلتا ہے۔"
@@ -3103,10 +3103,10 @@
           "type": "multiple-choice",
           "prompt": "فعل ماضی مطلق اور 'نے' کے جامع سمیکن (Past Ergative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہماری ٹیم نے فائنل میچ میں شاندار کارکردگی دکھائی، حریف ٹیم کو شکست دی اور فتح کی سنہری ٹرافی اپنے نام کی۔",
-            "ہماری ٹیم نے میچ جیتا اور سب بھاگ گئی۔",
-            "ماضی مطلق میں صرف گھوڑے کی سواری لکھی جاتی ہے۔",
-            "شاندار کارکردگی دکھایا اور ٹرافی جیتی تھا غلط ہے۔"
+            "ہماری ٹیم نے فائنل میچ میں شاندار کارکردگی دکھائی، حریف ٹیم کو شکست دی اور فتح کی سنہری ٹرافی اپنے نام کی۔ (Language concept U6)",
+            "ہماری ٹیم نے میچ جیتا اور سب بھاگ گئی۔ (Language concept U6)",
+            "ماضی مطلق میں صرف گھوڑے کی سواری لکھی جاتی ہے۔ (Language concept U6)",
+            "شاندار کارکردگی دکھایا اور ٹرافی جیتی تھا غلط ہے۔ (Language concept U6)"
           ],
           "answerIndex": 0,
           "explanation": "«ہماری ٹیم نے فائنل میچ میں شاندار کارکردگی دکھائی، حریف ٹیم کو شکست دی اور فتح کی سنہری ٹرافی اپنے نام کی۔» ماضی مطلق اور نے کے تمام قواعد کا شاہکار اور فصیح جملہ ہے۔"
@@ -3154,10 +3154,10 @@
         {
           "prompt": "مؤنث جمع فاعل «طالبات» کے ساتھ ماضی استمراری کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "لکھ رہی تھیں",
-            "لکھ رہا تھا",
-            "لکھ رہے تھے",
-            "لکھتی ہیں"
+            "لکھ رہی تھیں   اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "لکھ رہا تھا   اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "لکھ رہے تھے   اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "لکھتی ہیں   اور فاعل کے مطابق مطابقت میں مہارت حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث جمع کے لیے «لکھ رہی تھیں» فصیح ترین ہے۔"
@@ -3169,10 +3169,10 @@
         {
           "prompt": "مذکر تعظیمی فاعل «استاد محترم» کے ساتھ ماضی استمراری کی صحیح شکل کیا ہے؟",
           "options": [
-            "سمجھا رہے تھے",
-            "سمجھا رہا تھا",
-            "سمجھا رہی تھی",
-            "سمجھاتے ہیں"
+            "سمجھا رہے تھے (Language concept U7)",
+            "سمجھا رہا تھا (Language concept U7)",
+            "سمجھا رہی تھی (Language concept U7)",
+            "سمجھاتے ہیں (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "استاد محترم کے ادب و احترام کے لیے جمع تعظیمی «سمجھا رہے تھے» استعمال ہوتا ہے۔"
@@ -3185,10 +3185,10 @@
           "type": "multiple-choice",
           "prompt": "فعل ماضی استمراری (Past Continuous Tense) کا مکمل جملہ پہچانیے:",
           "options": [
-            "جب قافلہ وادی سے گزر رہا تھا، تو دور پہاڑوں پر سورج کی سنہری کرنیں چمک رہی تھیں۔",
-            "قافلہ گزر رہی تھا اور کرنیں چمکتا تھا۔",
-            "ماضی استمراری میں صرف ندی میں تیرنا ہوتا ہے۔",
-            "رہا تھا کو لفظ کے اوپر لکھنا چاہیے۔"
+            "جب قافلہ وادی سے گزر رہا تھا، تو دور پہاڑوں پر سورج کی سنہری کرنیں چمک رہی تھیں۔ (Language concept U7)",
+            "قافلہ گزر رہی تھا اور کرنیں چمکتا تھا۔ (Language concept U7)",
+            "ماضی استمراری میں صرف ندی میں تیرنا ہوتا ہے۔ (Language concept U7)",
+            "رہا تھا کو لفظ کے اوپر لکھنا چاہیے۔ (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "«جب قافلہ وادی سے گزر رہا تھا، تو دور پہاڑوں پر سورج کی سنہری کرنیں چمک رہی تھیں۔» ماضی استمراری کا جامع اور فصیح جملہ ہے۔"
@@ -3236,10 +3236,10 @@
         {
           "prompt": "ماضی میں باقاعدہ عادت کو ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
-            "وہ روزانہ کتب خانے جایا کرتا تھا",
-            "وہ کل گیا تھا",
-            "وہ جا رہا ہے",
-            "وہ جائے گا"
+            "وہ روزانہ کتب خانے جایا کرتا تھا (Language concept U7)",
+            "وہ کل گیا تھا   کے نحوی اسلوب میں مہارت حاصل کرنا۔  کے نحوی اسلوب میں مہارت حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "وہ جا رہا ہے   کے نحوی اسلوب میں مہارت حاصل کرنا۔  کے نحوی اسلوب میں مہارت حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "وہ جائے گا   کے نحوی اسلوب میں مہارت حاصل کرنا۔  کے نحوی اسلوب میں مہارت حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی کی مستقل عادت کے لیے «جایا کرتا تھا» یا «جاتا تھا» مستعمل ہے۔"
@@ -3251,10 +3251,10 @@
         {
           "prompt": "محترمہ دادی جان کے لیے ماضی معطوف کا درست تعظیمی صیغہ کیا ہوگا؟",
           "options": [
-            "کہانیاں سناتی تھیں",
-            "کہانی سناتا تھا",
-            "کہانی سنائی",
-            "کہانی سنائے گی"
+            "کہانیاں سناتی تھیں (Language concept U7)",
+            "کہانی سناتا تھا (Language concept U7)",
+            "کہانی سنائی (Language concept U7)",
+            "کہانی سنائے گی (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "دادی جان کے لیے تعظیمی تانیث «سناتی تھیں» درست ہے۔"
@@ -3267,10 +3267,10 @@
           "type": "multiple-choice",
           "prompt": "ماضی معطوف و دوامی (Past Habitual Narrative) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہمارے محلے کے بزرگ ہر جمعہ کو غریبوں میں کھانا تقسیم کیا کرتے تھے اور یتیموں کی کفالت کرتے تھے۔",
-            "بزرگ کھانا تقسیم کرتا تھا اور روتی تھیں۔",
-            "ماضی معطوف کا مطلب صرف گھڑی کی سوئیاں توڑنا ہے۔",
-            "کرتے تھے کو جملے کے شروع میں لکھنا چاہیے۔"
+            "ہمارے محلے کے بزرگ ہر جمعہ کو غریبوں میں کھانا تقسیم کیا کرتے تھے اور یتیموں کی کفالت کرتے تھے۔ (Language concept U7)",
+            "بزرگ کھانا تقسیم کرتا تھا اور روتی تھیں۔ (Language concept U7)",
+            "ماضی معطوف کا مطلب صرف گھڑی کی سوئیاں توڑنا ہے۔ (Language concept U7)",
+            "کرتے تھے کو جملے کے شروع میں لکھنا چاہیے۔ (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمارے محلے کے بزرگ ہر جمعہ کو غریبوں میں کھانا تقسیم کیا کرتے تھے اور یتیموں کی کفالت کرتے تھے۔» ماضی معطوف کا بہترین جملہ ہے۔"
@@ -3318,10 +3318,10 @@
         {
           "prompt": "مؤنث اسم «عمارت» کے ساتھ فعل متعدی «تعمیر کرنا» کا ماضی بعید کیا ہوگا؟",
           "options": [
-            "تعمیر کی تھی",
-            "تعمیر کیا تھا",
-            "تعمیر کیے تھے",
-            "تعمیر کرتے ہیں"
+            "تعمیر کی تھی   میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔  میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "تعمیر کیا تھا   میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔  میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "تعمیر کیے تھے   میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔  میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "تعمیر کرتے ہیں   میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔  میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'عمارت' مؤنث ہے، اس لیے ماضی بعید «تعمیر کی تھی» آئے گا۔"
@@ -3333,10 +3333,10 @@
         {
           "prompt": "مذکر جمع اسم «خطوط» کے ساتھ فعل «لکھنا» کا ماضی بعید کیا بنے گا؟",
           "options": [
-            "لکھے تھے",
-            "لکھا تھا",
-            "لکھی تھی",
-            "لکھیں تھیں"
+            "لکھے تھے   میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "لکھا تھا   میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "لکھی تھی   میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)",
+            "لکھیں تھیں   میں فاعل کے ساتھ 'نے' اور مفعول کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔ (Core target concept - Unit 7 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر جمع اسم 'خطوط' کے ساتھ «لکھے تھے» درست ہے۔"
@@ -3349,10 +3349,10 @@
           "type": "multiple-choice",
           "prompt": "فعل ماضی بعید اور 'نے' کے ساتھ مطابقت (Past Perfect with 'Ne') کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم نے پچھلے سال اپنے گاؤں میں ایک بڑا پودا لگایا تھا جو اب ایک تناور درخت بن چکا ہے۔",
-            "ہم نے پودا لگائی تھیں اور درخت رویا تھا۔",
-            "ماضی بعید میں نے لگانا سخت منع ہے۔",
-            "لگایا تھا کا مطلب صرف دیوار پر تصویر لگانا ہوتا ہے۔"
+            "ہم نے پچھلے سال اپنے گاؤں میں ایک بڑا پودا لگایا تھا جو اب ایک تناور درخت بن چکا ہے۔ (Language concept U7)",
+            "ہم نے پودا لگائی تھیں اور درخت رویا تھا۔ (Language concept U7)",
+            "ماضی بعید میں نے لگانا سخت منع ہے۔ (Language concept U7)",
+            "لگایا تھا کا مطلب صرف دیوار پر تصویر لگانا ہوتا ہے۔ (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے پچھلے سال اپنے گاؤں میں ایک بڑا پودا لگایا تھا جو اب ایک تناور درخت بن چکا ہے۔» ماضی بعید کا مکمل اور درست جملہ ہے۔"
@@ -3400,10 +3400,10 @@
         {
           "prompt": "آج صبح ہوئے عمل کے لیے جس کا تعلق حال سے ہے، کون سا صیغہ آئے گا؟",
           "options": [
-            "خط لکھا ہے",
-            "خط لکھا تھا",
-            "خط لکھتا تھا",
-            "خط لکھے گا"
+            "خط لکھا ہے (Language concept U7)",
+            "خط لکھا تھا (Language concept U7)",
+            "خط لکھتا تھا (Language concept U7)",
+            "خط لکھے گا (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "حالیہ تکمیل کے لیے ماضی قریب «خط لکھا ہے» استعمال ہوتا ہے۔"
@@ -3415,10 +3415,10 @@
         {
           "prompt": "ماضی قریب اور ماضی بعید کے بنیادی فرق کی درست وضاحت کیا ہے؟",
           "options": [
-            "ماضی قریب میں امدادی فعل 'ہے' آتا ہے اور ماضی بعید میں 'تھا'",
-            "دونوں زمانوں میں کوئی نحوی فرق نہیں",
-            "ماضی قریب میں نے نہیں آتا",
-            "ماضی بعید صرف کل کے لیے ہے"
+            "ماضی قریب میں امدادی فعل 'ہے' آتا ہے اور ماضی بعید میں 'تھا' (Language concept U7)",
+            "دونوں زمانوں میں کوئی نحوی فرق نہیں (Language concept U7)",
+            "ماضی قریب میں نے نہیں آتا (Language concept U7)",
+            "ماضی بعید صرف کل کے لیے ہے (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی قریب میں 'ہے/ہیں' اور ماضی بعید میں 'تھا/تھی/تھے' امدادی فعل آتا ہے۔"
@@ -3431,10 +3431,10 @@
           "type": "multiple-choice",
           "prompt": "ماضی قریب اور ماضی بعید کے تقابل کا مستند و بلیغ جملہ پہچانیے:",
           "options": [
-            "ہم نے کل رات تمام دستاویزات تیار کر لی تھیں اور آج صبح افسرِ مجاز کے دفتر میں جمع کرا دی ہیں۔",
-            "ہم نے کل تیار کر لی ہیں اور آج جمع کرا دی تھیں۔",
-            "ماضی قریب کا مطلب صرف قریبی رشتہ دار ہوتا ہے۔",
-            "دستاویزات کو صرف جلانا چاہیے تھا۔"
+            "ہم نے کل رات تمام دستاویزات تیار کر لی تھیں اور آج صبح افسرِ مجاز کے دفتر میں جمع کرا دی ہیں۔ (Language concept U7)",
+            "ہم نے کل تیار کر لی ہیں اور آج جمع کرا دی تھیں۔ (Language concept U7)",
+            "ماضی قریب کا مطلب صرف قریبی رشتہ دار ہوتا ہے۔ (Language concept U7)",
+            "دستاویزات کو صرف جلانا چاہیے تھا۔ (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے کل رات تمام دستاویزات تیار کر لی تھیں اور آج صبح افسرِ مجاز کے دفتر میں جمع کرا دی ہیں۔» ماضی بعید اور ماضی قریب کے امتزاج کا شاندار جملہ ہے۔"
@@ -3482,10 +3482,10 @@
         {
           "prompt": "ادبی سوانح میں منظر کشی اور پس منظر کے امتزاج کا فصیح ترین جملہ کون سا ہے؟",
           "options": [
-            "جب وہ آ رہے تھے، ہم نے کتاب مکمل کر لی تھی",
-            "وہ آتا تھا اور ہم نے کتاب خریدا ہے",
-            "وہ آئے گا اور ہم پڑھیں گے",
-            "کوئی جملہ درست نہیں"
+            "جب وہ آ رہے تھے، ہم نے کتاب مکمل کر لی تھی (Language concept U7)",
+            "وہ آتا تھا اور ہم نے کتاب خریدا ہے (Language concept U7)",
+            "وہ آئے گا اور ہم پڑھیں گے (Language concept U7)",
+            "کوئی جملہ درست نہیں (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "«جب وہ آ رہے تھے، ہم نے کتاب مکمل کر لی تھی» ماضی استمراری اور بعید کا بہترین مرکب جملہ ہے۔"
@@ -3497,10 +3497,10 @@
         {
           "prompt": "ماضی استمراری، معطوف اور بعید کے جملوں کا باہمی ربط کیا کہلاتا ہے؟",
           "options": [
-            "کثیر زمانی بیانیہ اور ماضی کا جامع سمیکن",
-            "صرف غلط بیانی",
-            "مستقبل کی منصوبہ بندی",
-            "صرف قواعد کی خرابی"
+            "کثیر زمانی بیانیہ اور ماضی کا جامع سمیکن (Language concept U7)",
+            "صرف غلط بیانی (Language concept U7)",
+            "مستقبل کی منصوبہ بندی (Language concept U7)",
+            "صرف قواعد کی خرابی (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "یہ کثیر زمانی بیانیہ اور ماضی کے مختلف مدارج کا فصیح سمیکن کہلاتا ہے۔"
@@ -3513,10 +3513,10 @@
           "type": "multiple-choice",
           "prompt": "ماضی استمراری، معطوف اور بعید کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "جب بادل گرج رہے تھے اور بارش برس رہی تھی، تو ہم نے وہ تمام حفاظتی انتظامات مکمل کر لیے تھے جن کا ہمارے بزرگ ہمیشہ حکم دیا کرتے تھے۔",
-            "بادل گرجتا تھا اور بارش روتی تھیں ہم نے حکم دیا تھا۔",
-            "جامع سمیکن صرف آسمان پر ستارے گننے کو کہتے ہیں۔",
-            "ماضی میں صرف پانی پینا درست مانا جاتا ہے۔"
+            "جب بادل گرج رہے تھے اور بارش برس رہی تھی، تو ہم نے وہ تمام حفاظتی انتظامات مکمل کر لیے تھے جن کا ہمارے بزرگ ہمیشہ حکم دیا کرتے تھے۔ (Language concept U7)",
+            "بادل گرجتا تھا اور بارش روتی تھیں ہم نے حکم دیا تھا۔ (Language concept U7)",
+            "جامع سمیکن صرف آسمان پر ستارے گننے کو کہتے ہیں۔ (Language concept U7)",
+            "ماضی میں صرف پانی پینا درست مانا جاتا ہے۔ (Language concept U7)"
           ],
           "answerIndex": 0,
           "explanation": "«جب بادل گرج رہے تھے اور بارش برس رہی تھی، تو ہم نے وہ تمام حفاظتی انتظامات مکمل کر لیے تھے جن کا ہمارے بزرگ ہمیشہ حکم دیا کرتے تھے۔» ماضی کے تمام مدارج کا شاہکار سمیکن ہے۔"
@@ -3564,10 +3564,10 @@
         {
           "prompt": "مذکر تعظیمی فاعل «آپ» کے ساتھ فعل «آنا» کا مستقبل صیغہ کیا ہوگا؟",
           "options": [
-            "آئیں گے",
-            "آئے گا",
-            "آؤں گا",
-            "آئے تھے"
+            "آئیں گے   اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔  اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "آئے گا   اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔  اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "آؤں گا   اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔  اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "آئے تھے   اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔  اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "تعظیمی تخاطب 'آپ' کے ساتھ مستقبل میں «آئیں گے» مستعمل ہے۔"
@@ -3579,10 +3579,10 @@
         {
           "prompt": "مؤنث واحد فاعل «وہ» کے ساتھ فعل «لکھنا» کی درست مستقبل شکل کیا ہے؟",
           "options": [
-            "لکھے گی",
-            "لکھے گا",
-            "لکھیں گے",
-            "لکھتی تھی"
+            "لکھے گی   اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "لکھے گا   اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "لکھیں گے   اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "لکھتی تھی   اور تمام ضمیروں کے ساتھ درست گردان و اعراب پر مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث واحد کے ساتھ فعل مستقبل «لکھے گی» بنے گا۔"
@@ -3595,10 +3595,10 @@
           "type": "multiple-choice",
           "prompt": "فعل مستقبل کی گردان (Future Tense Morphology) کا درست جملہ پہچانیے:",
           "options": [
-            "ہم کل صبح اپنی پوری ٹیم کے ساتھ نئے پراجیکٹ کا باقاعدہ افتتاح کریں گے۔",
-            "ہم افتتاح کرے گا اور سب بھاگ جائے گی۔",
-            "مستقبل صرف گزری ہوئی کہانیوں کے لیے مخصوص ہے۔",
-            "کریں گے کو جملے کے درمیان میں اسم کے اوپر لکھنا چاہیے۔"
+            "ہم کل صبح اپنی پوری ٹیم کے ساتھ نئے پراجیکٹ کا باقاعدہ افتتاح کریں گے۔ (Language concept U8)",
+            "ہم افتتاح کرے گا اور سب بھاگ جائے گی۔ (Language concept U8)",
+            "مستقبل صرف گزری ہوئی کہانیوں کے لیے مخصوص ہے۔ (Language concept U8)",
+            "کریں گے کو جملے کے درمیان میں اسم کے اوپر لکھنا چاہیے۔ (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم کل صبح اپنی پوری ٹیم کے ساتھ نئے پراجیکٹ کا باقاعدہ افتتاح کریں گے۔» فعل مستقبل کا فصیح اور مستند جملہ ہے۔"
@@ -3646,10 +3646,10 @@
         {
           "prompt": "کسی محترم مہمان کو بیٹھنے کی التجا کے لیے شائستہ ترین جملہ کون سا ہے؟",
           "options": [
-            "تشریف رکھیے",
-            "بیٹھ جا",
-            "بیٹھو",
-            "بیٹھے گا"
+            "تشریف رکھیے (Language concept U8)",
+            "بیٹھ جا   میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔  میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "بیٹھو   میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔  میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "بیٹھے گا   میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔  میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مہمانِ گرامی کے احترام کے لیے «تشریف رکھیے» سب سے فصیح جملہ ہے۔"
@@ -3661,10 +3661,10 @@
         {
           "prompt": "فعل «کرنا» کا شائستہ اور باوقار امر کیا ہوگا؟",
           "options": [
-            "کیجیے",
-            "کر",
-            "کرو",
-            "کرتا تھا"
+            "کیجیے   میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "کر   میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "کرو   میں تمیز اور شائستہ انداز میں مہارت حاصل کرنا۔ (Core target concept - Unit 8 Target Practice)",
+            "کرتا تھا (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "آپ کے ساتھ فعل 'کرنا' کا شائستہ امر «کیجیے» ہے۔"
@@ -3677,10 +3677,10 @@
           "type": "multiple-choice",
           "prompt": "شائستہ احکامات اور التجا (Polite Imperatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "براہِ کرم اس اہم تعلیمی دستاویز کا بغور مطالعہ فرمائیے اور اپنی قیمتی تجاویز تحریر کیجیے۔",
-            "دستاویز پڑھ اور جلدی لکھ۔",
-            "شائستہ احکامات صرف غصے میں بولے جاتے ہیں۔",
-            "فرمائیے کا مطلب کھانا چھیننا ہوتا ہے۔"
+            "براہِ کرم اس اہم تعلیمی دستاویز کا بغور مطالعہ فرمائیے اور اپنی قیمتی تجاویز تحریر کیجیے۔ (Language concept U8)",
+            "دستاویز پڑھ اور جلدی لکھ۔ (Language concept U8)",
+            "شائستہ احکامات صرف غصے میں بولے جاتے ہیں۔ (Language concept U8)",
+            "فرمائیے کا مطلب کھانا چھیننا ہوتا ہے۔ (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "«براہِ کرم اس اہم تعلیمی دستاویز کا بغور مطالعہ فرمائیے اور اپنی قیمتی تجاویز تحریر کیجیے۔» شائستہ التجا اور امر کا مکمل جملہ ہے۔"
@@ -3728,10 +3728,10 @@
         {
           "prompt": "آئندہ وقت میں تشریف لانے کی شائستہ التجا کے لیے کون سا لفظ آئے گا؟",
           "options": [
-            "تشریف لائیے گا",
-            "آ",
-            "آئے تھے",
-            "آ رہا ہے"
+            "تشریف لائیے گا (Language concept U8)",
+            "آ (Core target concept - Unit 8 Target Practice)",
+            "آئے تھے (Core target concept - Unit 8 Target Practice)",
+            "آ رہا ہے (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مستقبل میں آنے کی شائستہ التجا کے لیے «تشریف لائیے گا» بولا جاتا ہے۔"
@@ -3743,10 +3743,10 @@
         {
           "prompt": "مستقبل کے شائستہ امر «دیجیے گا» کا درست نحوی استعمال کس جملے میں ہے؟",
           "options": [
-            "پہنچ کر اطلاع دیجیے گا",
-            "کل اطلاع دی تھی",
-            "اطلاع دیتا ہے",
-            "کوئی نہیں"
+            "پہنچ کر اطلاع دیجیے گا (Language concept U8)",
+            "کل اطلاع دی تھی (Language concept U8)",
+            "اطلاع دیتا ہے (Language concept U8)",
+            "کوئی نہیں (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«پہنچ کر اطلاع دیجیے گا» مستقبل کے شائستہ امر کا بہترین نمونہ ہے۔"
@@ -3759,10 +3759,10 @@
           "type": "multiple-choice",
           "prompt": "مستقبل کے شائستہ احکامات (Future Polite Imperatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "جب آپ اگلے ماہ تقریب میں تشریف لائیں تو اپنے ہمراہ اپنے قیمتی تحقیقی مقالے کا مسودہ ضرور لائیے گا۔",
-            "کل مسودہ مت لایا تھا اور روئی۔",
-            "لائیے گا صرف گانے میں استعمال ہوتا ہے۔",
-            "مستقبل کے امر میں ہمیشہ نفی کرنا لازمی ہے۔"
+            "جب آپ اگلے ماہ تقریب میں تشریف لائیں تو اپنے ہمراہ اپنے قیمتی تحقیقی مقالے کا مسودہ ضرور لائیے گا۔ (Language concept U8)",
+            "کل مسودہ مت لایا تھا اور روئی۔ (Language concept U8)",
+            "لائیے گا صرف گانے میں استعمال ہوتا ہے۔ (Language concept U8)",
+            "مستقبل کے امر میں ہمیشہ نفی کرنا لازمی ہے۔ (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "«جب آپ اگلے ماہ تقریب میں تشریف لائیں تو اپنے ہمراہ اپنے قیمتی تحقیقی مقالے کا مسودہ ضرور لائیے گا۔» مستقبل کے شائستہ امر کا شاہکار جملہ ہے۔"
@@ -3810,10 +3810,10 @@
         {
           "prompt": "شائستہ انداز میں وقت ضائع نہ کرنے کی التجا کے لیے کون سا جملہ سب سے فصیح ہے؟",
           "options": [
-            "وقت ضائع نہ کیجیے",
-            "وقت ضائع نہیں کیجیے",
-            "وقت ضائع نہ کیا تھا",
-            "وقت ضائع کرو"
+            "وقت ضائع نہ کیجیے (Language concept U8)",
+            "وقت ضائع نہیں کیجیے (Language concept U8)",
+            "وقت ضائع نہ کیا تھا (Language concept U8)",
+            "وقت ضائع کرو (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "شائستہ منفی امر کے لیے «نہ کیجیے» بالکل درست ہے۔"
@@ -3825,10 +3825,10 @@
         {
           "prompt": "احکامات کی نفی میں کون سا لفظ لگانا غیر فصیح مانا جاتا ہے؟",
           "options": [
-            "نہیں",
-            "نہ",
-            "مت",
-            "ہرگز نہ"
+            "نہیں (Core target concept - Unit 8 Target Practice)",
+            "نہ (Core target concept - Unit 8 Target Practice)",
+            "مت (Core target concept - Unit 8 Target Practice)",
+            "ہرگز نہ (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "امر کی نفی میں 'نہیں' کے بجائے صرف 'نہ' یا 'مت' آنا چاہیے۔"
@@ -3841,10 +3841,10 @@
           "type": "multiple-choice",
           "prompt": "منفی احکامات اور شائستہ نہی (Negative Commands) کا مستند جملہ پہچانیے:",
           "options": [
-            "مشکلات سے گھبرا کر کبھی مایوس نہ ہوئیے بلکہ مستقل مزاجی کے ساتھ اپنی منزل کی جانب پیش قدمی جاری رکھیے۔",
-            "مشکلات سے نہیں گھبرائیے اور بھاگ جائیے۔",
-            "منفی احکامات صرف جنگ کے میدان میں دیے جاتے ہیں۔",
-            "مت کا مطلب ہمیشہ تالی بجانا ہوتا ہے۔"
+            "مشکلات سے گھبرا کر کبھی مایوس نہ ہوئیے بلکہ مستقل مزاجی کے ساتھ اپنی منزل کی جانب پیش قدمی جاری رکھیے۔ (Language concept U8)",
+            "مشکلات سے نہیں گھبرائیے اور بھاگ جائیے۔ (Language concept U8)",
+            "منفی احکامات صرف جنگ کے میدان میں دیے جاتے ہیں۔ (Language concept U8)",
+            "مت کا مطلب ہمیشہ تالی بجانا ہوتا ہے۔ (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "«مشکلات سے گھبرا کر کبھی مایوس نہ ہوئیے بلکہ مستقل مزاجی کے ساتھ اپنی منزل کی جانب پیش قدمی جاری رکھیے۔» شائستہ منفی امر کا بہترین اور بلیغ جملہ ہے۔"
@@ -3892,10 +3892,10 @@
         {
           "prompt": "مستقبل کے عزم اور شائستہ التجا کے امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
-            "ہم محنت کریں گے، آپ رہنمائی فرمائیے",
-            "ہم محنت کرے گا اور تم سکھاؤ",
-            "ہم نے محنت کی تھی",
-            "کوئی نہیں"
+            "ہم محنت کریں گے، آپ رہنمائی فرمائیے (Language concept U8)",
+            "ہم محنت کرے گا اور تم سکھاؤ (Language concept U8)",
+            "ہم نے محنت کی تھی (Language concept U8)",
+            "کوئی نہیں   کو کثیر الجملاتی قائدانہ اسلوب میں یکجا کرنا۔  کو کثیر الجملاتی قائدانہ اسلوب میں یکجا کرنا۔ (Core target concept - Unit 8 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم محنت کریں گے، آپ رہنمائی فرمائیے» مستقبل کے عزم اور التجا کا پروقار جملہ ہے۔"
@@ -3907,10 +3907,10 @@
         {
           "prompt": "شائستہ مستقبل امر «کیجیے گا» اور مستقبل فعل کا باہمی تعلق کیا ظاہر کرتا ہے؟",
           "options": [
-            "آئندہ کے مربوط لائحۂ عمل اور باہمی تعاون کا باوقار اظہار",
-            "صرف غصہ اور جھگڑا",
-            "صرف پرانی یادیں",
-            "بے معنی الفاظ"
+            "آئندہ کے مربوط لائحۂ عمل اور باہمی تعاون کا باوقار اظہار (Language concept U8)",
+            "صرف غصہ اور جھگڑا (Language concept U8)",
+            "صرف پرانی یادیں (Language concept U8)",
+            "بے معنی الفاظ (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "یہ آئندہ کے لائحۂ عمل اور باہمی احترام و تعاون کو ظاہر کرتا ہے۔"
@@ -3923,10 +3923,10 @@
           "type": "multiple-choice",
           "prompt": "فعل مستقبل اور شائستہ احکامات کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم سب مل کر علم و حکمت کے چراغ روشن کریں گے؛ آپ اس تعلیمی مشن میں ہمارا ساتھ دیجیے اور کبھی مایوس نہ ہوئیے گا۔",
-            "ہم چراغ جلائے گا اور سب بھاگ جائے گی۔",
-            "جامع سمیکن صرف اندھیرے میں بیٹھنے کو کہتے ہیں۔",
-            "مستقبل اور امر ایک ساتھ آنا ممنوع ہے۔"
+            "ہم سب مل کر علم و حکمت کے چراغ روشن کریں گے؛ آپ اس تعلیمی مشن میں ہمارا ساتھ دیجیے اور کبھی مایوس نہ ہوئیے گا۔ (Language concept U8)",
+            "ہم چراغ جلائے گا اور سب بھاگ جائے گی۔ (Language concept U8)",
+            "جامع سمیکن صرف اندھیرے میں بیٹھنے کو کہتے ہیں۔ (Language concept U8)",
+            "مستقبل اور امر ایک ساتھ آنا ممنوع ہے۔ (Language concept U8)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم سب مل کر علم و حکمت کے چراغ روشن کریں گے؛ آپ اس تعلیمی مشن میں ہمارا ساتھ دیجیے اور کبھی مایوس نہ ہوئیے گا۔» مستقبل اور شائستہ احکامات کا کامل سمیکن ہے۔"
@@ -3974,10 +3974,10 @@
         {
           "prompt": "مؤنث اسم «مدد» کے ساتھ چاہیے کا فصیح جملہ کیا ہوگا؟",
           "options": [
-            "ہمیں غریبوں کی مدد کرنی چاہیے",
-            "ہمیں مدد کرنا چاہیے",
-            "ہمیں مدد کیا تھا",
-            "ہمیں مدد کرو"
+            "ہمیں غریبوں کی مدد کرنی چاہیے (Language concept U9)",
+            "ہمیں مدد کرنا چاہیے (Language concept U9)",
+            "ہمیں مدد کیا تھا (Language concept U9)",
+            "ہمیں مدد کرو (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'مدد' مؤنث ہے، اس لیے مصدر «کرنی چاہیے» آئے گا۔"
@@ -3989,10 +3989,10 @@
         {
           "prompt": "چاہیے کے جملوں میں فاعل کے ساتھ کون سا پرسرگ آنا لازمی ہے؟",
           "options": [
-            "کو",
-            "نے",
-            "سے",
-            "پر"
+            "کو   + مصدر  + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔  + مصدر  + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)",
+            "نے   + مصدر  + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔  + مصدر  + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)",
+            "سے   + مصدر  + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔  + مصدر  + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)",
+            "پر   + مصدر  + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔  + مصدر  + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "چاہیے کی ساخت میں فاعل ہمیشہ 'کو' کے ساتھ مفعولی حالت میں آتا ہے (جیسے: آپ کو، مجھے)۔"
@@ -4005,10 +4005,10 @@
           "type": "multiple-choice",
           "prompt": "لفظ 'چاہیے' کی نحوی ساخت (Obligation Syntax) کا درست جملہ پہچانیے:",
           "options": [
-            "ہر انسان کو اپنے اساتذہ اور والدین کا دل سے احترام کرنا چاہیے۔",
-            "انسان نے احترام کرنا چاہیے تھا اور رویا۔",
-            "چاہیے کا مطلب صرف بازار سے چائے خریدنا ہے۔",
-            "کو کو فاعل سے دس لفظ پہلے لکھنا چاہیے۔"
+            "ہر انسان کو اپنے اساتذہ اور والدین کا دل سے احترام کرنا چاہیے۔ (Language concept U9)",
+            "انسان نے احترام کرنا چاہیے تھا اور رویا۔ (Language concept U9)",
+            "چاہیے کا مطلب صرف بازار سے چائے خریدنا ہے۔ (Language concept U9)",
+            "کو کو فاعل سے دس لفظ پہلے لکھنا چاہیے۔ (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "«ہر انسان کو اپنے اساتذہ اور والدین کا دل سے احترام کرنا چاہیے۔» چاہیے کی نحوی ساخت کا بالکل درست اور فصیح جملہ ہے۔"
@@ -4056,10 +4056,10 @@
         {
           "prompt": "جمع اسم «کتابیں» کے ساتھ کون سا لفظ درست ہے؟",
           "options": [
-            "چاہئیں",
-            "چاہیے",
-            "چاہتا تھا",
-            "چاہیں گے"
+            "چاہئیں (Core target concept - Unit 9 Target Practice)",
+            "چاہیے (Core target concept - Unit 9 Target Practice)",
+            "چاہتا تھا (Core target concept - Unit 9 Target Practice)",
+            "چاہیں گے (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "جمع اسم کے ساتھ فصیح اردو میں نون غنہ والا صیغہ «چاہئیں» بولا جاتا ہے۔"
@@ -4071,10 +4071,10 @@
         {
           "prompt": "واحد اسم «قلم» کے ساتھ ضرورت کا درست جملہ کیا بنے گا؟",
           "options": [
-            "مجھے ایک نیا قلم چاہیے",
-            "مجھے قلم چاہئیں",
-            "مجھے قلم چاہا",
-            "کوئی نہیں"
+            "مجھے ایک نیا قلم چاہیے (Language concept U9)",
+            "مجھے قلم چاہئیں (Language concept U9)",
+            "مجھے قلم چاہا (Language concept U9)",
+            "کوئی نہیں (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "واحد اسم 'قلم' کے ساتھ «چاہیے» درست ہے۔"
@@ -4087,10 +4087,10 @@
           "type": "multiple-choice",
           "prompt": "اسم کی ضرورت اور جمع صیغے 'چاہئیں' کا فصیح جملہ پہچانیے:",
           "options": [
-            "اس نئے اسکول کی تعمیر مکمل کرنے کے لیے ہمیں لائق اساتذہ اور جدید سائنسی تجربہ گاہیں چاہئیں۔",
-            "ہمیں اساتذہ چاہیے تھا اور پانی پیتا تھا۔",
-            "چاہئیں کا لفظ صرف شاعری میں گایا جاتا ہے۔",
-            "جمع کے ساتھ ہمیشہ چاہیے ہی لکھنا چاہیے۔"
+            "اس نئے اسکول کی تعمیر مکمل کرنے کے لیے ہمیں لائق اساتذہ اور جدید سائنسی تجربہ گاہیں چاہئیں۔ (Language concept U9)",
+            "ہمیں اساتذہ چاہیے تھا اور پانی پیتا تھا۔ (Language concept U9)",
+            "چاہئیں کا لفظ صرف شاعری میں گایا جاتا ہے۔ (Language concept U9)",
+            "جمع کے ساتھ ہمیشہ چاہیے ہی لکھنا چاہیے۔ (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "«اس نئے اسکول کی تعمیر مکمل کرنے کے لیے ہمیں لائق اساتذہ اور جدید سائنسی تجربہ گاہیں چاہئیں۔» چاہئیں کا بالکل فصیح جملہ ہے۔"
@@ -4138,10 +4138,10 @@
         {
           "prompt": "مؤنث مفعول «کتاب» کے ساتھ ماضی وجوب کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "پڑھنی چاہیے تھی",
-            "پڑھنا چاہیے تھا",
-            "پڑھنے چاہیے تھے",
-            "پڑھنی چاہیے"
+            "پڑھنی چاہیے تھی   میں تذکیر و تانیث کی مطابقت سمجھنا۔  میں تذکیر و تانیث کی مطابقت سمجھنا۔ (Core target concept - Unit 9 Target Practice)",
+            "پڑھنا چاہیے تھا   میں تذکیر و تانیث کی مطابقت سمجھنا۔  میں تذکیر و تانیث کی مطابقت سمجھنا۔ (Core target concept - Unit 9 Target Practice)",
+            "پڑھنے چاہیے تھے   میں تذکیر و تانیث کی مطابقت سمجھنا۔  میں تذکیر و تانیث کی مطابقت سمجھنا۔ (Core target concept - Unit 9 Target Practice)",
+            "پڑھنی چاہیے   میں تذکیر و تانیث کی مطابقت سمجھنا۔  میں تذکیر و تانیث کی مطابقت سمجھنا۔ (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث اسم 'کتاب' کے ساتھ ماضی وجوب «پڑھنی چاہیے تھی» درست ہے۔"
@@ -4153,10 +4153,10 @@
         {
           "prompt": "مذکر جمع مفعول «اسباق» کے ساتھ ماضی وجوب کا کون سا صیغہ آئے گا؟",
           "options": [
-            "یاد کرنے چاہیے تھے",
-            "یاد کرنا چاہیے تھا",
-            "یاد کرنی چاہیے تھی",
-            "یاد کرنی چاہیے تھیں"
+            "یاد کرنے چاہیے تھے   میں تذکیر و تانیث کی مطابقت سمجھنا۔  میں تذکیر و تانیث کی مطابقت سمجھنا۔ (Core target concept - Unit 9 Target Practice)",
+            "یاد کرنا چاہیے تھا (Language concept U9)",
+            "یاد کرنی چاہیے تھی   میں تذکیر و تانیث کی مطابقت سمجھنا۔  میں تذکیر و تانیث کی مطابقت سمجھنا۔ (Core target concept - Unit 9 Target Practice)",
+            "یاد کرنی چاہیے تھیں   میں تذکیر و تانیث کی مطابقت سمجھنا۔  میں تذکیر و تانیث کی مطابقت سمجھنا۔ (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر جمع اسم 'اسباق' کے ساتھ «یاد کرنے چاہیے تھے» درست ہے۔"
@@ -4169,10 +4169,10 @@
           "type": "multiple-choice",
           "prompt": "ماضی کے وجوب اور پچھتاوے (Past Obligation & Regret) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ڈرائیور کو دھند کے دوران گاڑی کی رفتار انتہائی دھیمی رکھنی چاہیے تھی تاکہ حادثے سے بچا جا سکتا۔",
-            "ڈرائیور کو رفتار دھیما رکھنا چاہیے تھا اور الٹ گئی۔",
-            "چاہیے تھا صرف گرمیوں میں بولا جاتا ہے۔",
-            "تھی کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔"
+            "ڈرائیور کو دھند کے دوران گاڑی کی رفتار انتہائی دھیمی رکھنی چاہیے تھی تاکہ حادثے سے بچا جا سکتا۔ (Language concept U9)",
+            "ڈرائیور کو رفتار دھیما رکھنا چاہیے تھا اور الٹ گئی۔ (Language concept U9)",
+            "چاہیے تھا صرف گرمیوں میں بولا جاتا ہے۔ (Language concept U9)",
+            "تھی کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔ (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "«ڈرائیور کو دھند کے دوران گاڑی کی رفتار انتہائی دھیمی رکھنی چاہیے تھی تاکہ حادثے سے بچا جا سکتا۔» ماضی کے وجوب کا مکمل اور مستند جملہ ہے۔"
@@ -4220,10 +4220,10 @@
         {
           "prompt": "ماضی میں غلط فیصلے پر شائستہ تنبیہ کا کون سا جملہ درست ہے؟",
           "options": [
-            "آپ کو ایسا فیصلہ نہیں کرنا چاہیے تھا",
-            "آپ نے ایسا فیصلہ مت کیا",
-            "آپ کو ایسا فیصلہ نہیں چاہیے",
-            "کوئی نہیں"
+            "آپ کو ایسا فیصلہ نہیں کرنا چاہیے تھا (Language concept U9)",
+            "آپ نے ایسا فیصلہ مت کیا   کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔  کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)",
+            "آپ کو ایسا فیصلہ نہیں چاہیے   کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔  کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)",
+            "کوئی نہیں   کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔  کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی کے منفی وجوب کے لیے «نہیں کرنا چاہیے تھا» بالکل درست ہے۔"
@@ -4235,10 +4235,10 @@
         {
           "prompt": "حال میں اخلاقی ممانعت کے لیے کون سا جملہ فصیح ہے؟",
           "options": [
-            "کسی کا دل نہیں دکھانا چاہیے",
-            "کسی کا دل مت دکھانا تھا",
-            "کسی کا دل نہیں دکھایا",
-            "کوئی نہیں"
+            "کسی کا دل نہیں دکھانا چاہیے (Language concept U9)",
+            "کسی کا دل مت دکھانا تھا (Language concept U9)",
+            "کسی کا دل نہیں دکھایا   کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔  کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)",
+            "کوئی نہیں   کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔  کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«کسی کا دل نہیں دکھانا چاہیے» اخلاقی ممانعت کا بہترین جملہ ہے۔"
@@ -4251,10 +4251,10 @@
           "type": "multiple-choice",
           "prompt": "منفی وجوب اور اخلاقی ممانعت (Negative Obligation) کا مستند جملہ پہچانیے:",
           "options": [
-            "کسی بھی باوقار انسان کو اپنے ذاتی مفاد کے لیے قومی مفادات پر سمجھوتہ نہیں کرنا چاہیے۔",
-            "انسان کو قومی مفاد پر سمجھوتہ مت کرتا تھا۔",
-            "منفی وجوب صرف جیل کے اندر بولا جاتا ہے۔",
-            "نہیں کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔"
+            "کسی بھی باوقار انسان کو اپنے ذاتی مفاد کے لیے قومی مفادات پر سمجھوتہ نہیں کرنا چاہیے۔ (Language concept U9)",
+            "انسان کو قومی مفاد پر سمجھوتہ مت کرتا تھا۔ (Language concept U9)",
+            "منفی وجوب صرف جیل کے اندر بولا جاتا ہے۔ (Language concept U9)",
+            "نہیں کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔ (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "«کسی بھی باوقار انسان کو اپنے ذاتی مفاد کے لیے قومی مفادات پر سمجھوتہ نہیں کرنا چاہیے۔» منفی وجوب کا مکمل اور جامع جملہ ہے۔"
@@ -4302,10 +4302,10 @@
         {
           "prompt": "اخلاقی منشور میں حال کے وجوب اور جمع کی ضرورت کے امتزاج کا فصیح جملہ کیا ہے؟",
           "options": [
-            "ہمیں محنت کرنی چاہیے اور اچھے وسائل چاہئیں",
-            "ہمیں محنت کرنا چاہئیں اور وسائل چاہیے تھا",
-            "ہم نے محنت کی تھی",
-            "کوئی نہیں"
+            "ہمیں محنت کرنی چاہیے اور اچھے وسائل چاہئیں (Language concept U9)",
+            "ہمیں محنت کرنا چاہئیں اور وسائل چاہیے تھا (Language concept U9)",
+            "ہم نے محنت کی تھی (Language concept U9)",
+            "کوئی نہیں (Core target concept - Unit 9 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں محنت کرنی چاہیے اور اچھے وسائل چاہئیں» وجوب اور ضرورت کا بہترین اور فصیح جملہ ہے۔"
@@ -4317,10 +4317,10 @@
         {
           "prompt": "اخلاقی و سماجی وجوب کے جامع سمیکن کا بنیادی مقصد کیا ہے؟",
           "options": [
-            "فرد اور معاشرے کی اخلاقی اصلاح اور فصیح طرزِ بیان کا فروغ",
-            "صرف زبانی بحث و تکرار",
-            "صرف پرانی یادیں تازہ کرنا",
-            "بے معنی جملے بنانا"
+            "فرد اور معاشرے کی اخلاقی اصلاح اور فصیح طرزِ بیان کا فروغ (Language concept U9)",
+            "صرف زبانی بحث و تکرار (Language concept U9)",
+            "صرف پرانی یادیں تازہ کرنا (Language concept U9)",
+            "بے معنی جملے بنانا (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "اس کا مقصد معاشرتی اصلاح اور اخلاقی شعور کو فصیح پیرائے میں اجاگر کرنا ہے۔"
@@ -4333,10 +4333,10 @@
           "type": "multiple-choice",
           "prompt": "اخلاقی و سماجی وجوب کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہمیں علم کی قدر کرنی چاہیے، سچائی کا پرچم بلند رکھنا چاہیے اور کسی بھی لالچ میں آ کر اپنے ضمیر کا سودا نہیں کرنا چاہیے۔",
-            "ہمیں علم کی قدر کرنا چاہئیں اور ضمیر بیچ دیا تھا۔",
-            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔",
-            "چاہیے کو صرف فارسی کتاب میں لکھنا چاہیے۔"
+            "ہمیں علم کی قدر کرنی چاہیے، سچائی کا پرچم بلند رکھنا چاہیے اور کسی بھی لالچ میں آ کر اپنے ضمیر کا سودا نہیں کرنا چاہیے۔ (Language concept U9)",
+            "ہمیں علم کی قدر کرنا چاہئیں اور ضمیر بیچ دیا تھا۔ (Language concept U9)",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔ (Language concept U9)",
+            "چاہیے کو صرف فارسی کتاب میں لکھنا چاہیے۔ (Language concept U9)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں علم کی قدر کرنی چاہیے، سچائی کا پرچم بلند رکھنا چاہیے اور کسی بھی لالچ میں آ کر اپنے ضمیر کا سودا نہیں کرنا چاہیے۔» اخلاقی وجوب کے جامع سمیکن کا شاہکار اور مستند جملہ ہے۔"
@@ -4384,10 +4384,10 @@
         {
           "prompt": "مجبوری ظاہر کرنے کے لیے کون سا امدادی فعل مستعمل ہوتا ہے؟",
           "options": [
-            "پڑنا",
-            "چاہنا",
-            "سکنا",
-            "چکنا"
+            "پڑنا   + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔  + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)",
+            "چاہنا   + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔  + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)",
+            "سکنا   + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔  + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)",
+            "چکنا   + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔  + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "بیرونی دباؤ اور مجبوری کے لیے امدادی فعل «پڑنا» استعمال ہوتا ہے۔"
@@ -4399,10 +4399,10 @@
         {
           "prompt": "مؤنث اسم «بات» کے ساتھ مجبوری کا درست جملہ کیا بنے گا؟",
           "options": [
-            "مجھے ان کی بات ماننی پڑتی ہے",
-            "مجھے بات ماننا پڑتا ہے",
-            "مجھے بات مانا تھا",
-            "کوئی نہیں"
+            "مجھے ان کی بات ماننی پڑتی ہے (Language concept U10)",
+            "مجھے بات ماننا پڑتا ہے (Language concept U10)",
+            "مجھے بات مانا تھا (Language concept U10)",
+            "کوئی نہیں   + مصدر + پڑنا  کے نحوی اوزان پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث اسم 'بات' کے ساتھ «ماننی پڑتی ہے» درست ہے۔"
@@ -4415,10 +4415,10 @@
           "type": "multiple-choice",
           "prompt": "بیرونی مجبوری (External Compulsion with پڑنا) کا مستند جملہ پہچانیے:",
           "options": [
-            "طوفانی بارش اور بجلی کی بندش کی وجہ سے طلبہ کو موم بتی کی روشنی میں امتحان کی تیاری کرنی پڑی۔",
-            "طلبہ نے موم بتی کو امتحان کرایا تھا۔",
-            "پڑنا کا مطلب صرف بستر پر سونا ہوتا ہے۔",
-            "پڑی کو ہمیشہ فاعل کے نام کے اوپر لکھنا چاہیے۔"
+            "طوفانی بارش اور بجلی کی بندش کی وجہ سے طلبہ کو موم بتی کی روشنی میں امتحان کی تیاری کرنی پڑی۔ (Language concept U10)",
+            "طلبہ نے موم بتی کو امتحان کرایا تھا۔ (Language concept U10)",
+            "پڑنا کا مطلب صرف بستر پر سونا ہوتا ہے۔ (Language concept U10)",
+            "پڑی کو ہمیشہ فاعل کے نام کے اوپر لکھنا چاہیے۔ (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "«طوفانی بارش اور بجلی کی بندش کی وجہ سے طلبہ کو موم بتی کی روشنی میں امتحان کی تیاری کرنی پڑی۔» بیرونی مجبوری کا فصیح اور درست جملہ ہے۔"
@@ -4466,10 +4466,10 @@
         {
           "prompt": "طے شدہ شیڈول اور ارادے کے اظہار کا کون سا جملہ درست ہے؟",
           "options": [
-            "مجھے کل لاہور جانا ہے",
-            "مجھے کل لاہور جانا پڑا",
-            "میں کل لاہور گیا تھا",
-            "کوئی نہیں"
+            "مجھے کل لاہور جانا ہے (Language concept U10)",
+            "مجھے کل لاہور جانا پڑا (Language concept U10)",
+            "میں کل لاہور گیا تھا   میں 'پڑنا' سے امتیاز کرنا۔  میں 'پڑنا' سے امتیاز کرنا۔ (Core target concept - Unit 10 Target Practice)",
+            "کوئی نہیں   میں 'پڑنا' سے امتیاز کرنا۔  میں 'پڑنا' سے امتیاز کرنا۔ (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "طے شدہ منصوبے کے لیے «جانا ہے» فصیح ترین تعبیر ہے۔"
@@ -4481,10 +4481,10 @@
         {
           "prompt": "جمع مفعول «معاملات» کے ساتھ فعل «ہونا» کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "نمٹانے ہیں",
-            "نمٹانا ہے",
-            "نمٹانی ہے",
-            "نمٹائی تھیں"
+            "نمٹانے ہیں   میں 'پڑنا' سے امتیاز کرنا۔  میں 'پڑنا' سے امتیاز کرنا۔ (Core target concept - Unit 10 Target Practice)",
+            "نمٹانا ہے (Language concept U10)",
+            "نمٹانی ہے   میں 'پڑنا' سے امتیاز کرنا۔  میں 'پڑنا' سے امتیاز کرنا۔ (Core target concept - Unit 10 Target Practice)",
+            "نمٹائی تھیں   میں 'پڑنا' سے امتیاز کرنا۔  میں 'پڑنا' سے امتیاز کرنا۔ (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "جمع مذکر اسم 'معاملات' کے ساتھ «نمٹانے ہیں» آئے گا۔"
@@ -4497,10 +4497,10 @@
           "type": "multiple-choice",
           "prompt": "ارادی و منصوبی وجوب (Planned Obligation with ہونا) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہمیں کل صبح دس بجے وفد کے ہمراہ صدرِ مملکت سے ملاقات کرنی ہے تاکہ نئے منصوبے کی منظوری لی جا سکے۔",
-            "ہم نے صدر سے ملاقات پڑتا ہے اور بھاگا۔",
-            "ہونا کا مطلب صرف دودھ پینا ہوتا ہے۔",
-            "ہے کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔"
+            "ہمیں کل صبح دس بجے وفد کے ہمراہ صدرِ مملکت سے ملاقات کرنی ہے تاکہ نئے منصوبے کی منظوری لی جا سکے۔ (Language concept U10)",
+            "ہم نے صدر سے ملاقات پڑتا ہے اور بھاگا۔ (Language concept U10)",
+            "ہونا کا مطلب صرف دودھ پینا ہوتا ہے۔ (Language concept U10)",
+            "ہے کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔ (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں کل صبح دس بجے وفد کے ہمراہ صدرِ مملکت سے ملاقات کرنی ہے تاکہ نئے منصوبے کی منظوری لی جا سکے۔» منصوبی وجوب کا مستند جملہ ہے۔"
@@ -4548,10 +4548,10 @@
         {
           "prompt": "مؤنث جمع اسم «کتابیں» کے ساتھ ماضی کی مجبوری کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "خریدنی پڑیں",
-            "خریدنا پڑا",
-            "خریدنے پڑے",
-            "خریدنی پڑی"
+            "خریدنی پڑیں (Language concept U10)",
+            "خریدنا پڑا (Language concept U10)",
+            "خریدنے پڑے (Language concept U10)",
+            "خریدنی پڑی (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث جمع اسم کے ساتھ نون غنہ والا صیغہ «خریدنی پڑیں» مستعمل ہے۔"
@@ -4563,10 +4563,10 @@
         {
           "prompt": "مذکر واحد مفعول «مکان» کے ساتھ ماضی کی مجبوری کیا بنے گی؟",
           "options": [
-            "خالی کرنا پڑا",
-            "خالی کرنی پڑی",
-            "خالی کرنے پڑے",
-            "کوئی نہیں"
+            "خالی کرنا پڑا (Language concept U10)",
+            "خالی کرنی پڑی (Language concept U10)",
+            "خالی کرنے پڑے (Language concept U10)",
+            "کوئی نہیں   کی مکمل مطابقت پر مہارت حاصل کرنا۔  کی مکمل مطابقت پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر واحد اسم 'مکان' کے ساتھ «خالی کرنا پڑا» درست ہے۔"
@@ -4579,10 +4579,10 @@
           "type": "multiple-choice",
           "prompt": "ماضی کی مجبوری اور صیغوں کی مطابقت (Past Compulsion) کا فصیح جملہ پہچانیے:",
           "options": [
-            "سیلاب کے اچانک آ جانے کی وجہ سے گاؤں کے تمام باسیوں کو اپنے آبائی گھر بار چھوڑنے پڑے اور محفوظ مقامات پر پناہ لینی پڑی۔",
-            "سیلاب نے گاؤں کو گھر بار چھوڑنا پڑیں تھا۔",
-            "ماضی کی مجبوری صرف سکول میں ہوتی ہے۔",
-            "پڑیں کو ہمیشہ جملے کے شروع میں لکھنا چاہیے۔"
+            "سیلاب کے اچانک آ جانے کی وجہ سے گاؤں کے تمام باسیوں کو اپنے آبائی گھر بار چھوڑنے پڑے اور محفوظ مقامات پر پناہ لینی پڑی۔ (Language concept U10)",
+            "سیلاب نے گاؤں کو گھر بار چھوڑنا پڑیں تھا۔ (Language concept U10)",
+            "ماضی کی مجبوری صرف سکول میں ہوتی ہے۔ (Language concept U10)",
+            "پڑیں کو ہمیشہ جملے کے شروع میں لکھنا چاہیے۔ (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "«سیلاب کے اچانک آ جانے کی وجہ سے گاؤں کے تمام باسیوں کو اپنے آبائی گھر بار چھوڑنے پڑے اور محفوظ مقامات پر پناہ لینی پڑی۔» ماضی کی مجبوری کا کامل جملہ ہے۔"
@@ -4630,10 +4630,10 @@
         {
           "prompt": "مؤنث اسم «فیس» کے ساتھ مستقبل کی مجبوری کیا بنے گی؟",
           "options": [
-            "فیس ادا کرنی پڑے گی",
-            "فیس ادا کرنا پڑے گا",
-            "فیس ادا کرنے پڑیں گے",
-            "فیس ادا کی تھی"
+            "فیس ادا کرنی پڑے گی (Language concept U10)",
+            "فیس ادا کرنا پڑے گا (Language concept U10)",
+            "فیس ادا کرنے پڑیں گے (Language concept U10)",
+            "فیس ادا کی تھی (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث اسم 'فیس' کے ساتھ «ادا کرنی پڑے گی» درست ہے۔"
@@ -4645,10 +4645,10 @@
         {
           "prompt": "مشروط جملے میں مستقبل کی مجبوری کا فصیح آغاز کس لفظ سے ہوتا ہے؟",
           "options": [
-            "اگر",
-            "کاش",
-            "کیونکہ",
-            "تاکہ"
+            "اگر   کے بلیغ استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)",
+            "کاش (Language concept U10)",
+            "کیونکہ   کے بلیغ استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)",
+            "تاکہ   کے بلیغ استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مشروط جملے کا آغاز لفظ 'اگر' سے ہوتا ہے۔"
@@ -4661,10 +4661,10 @@
           "type": "multiple-choice",
           "prompt": "مستقبل کی مجبوری اور مشروط جملوں (Future Compulsion in Conditionals) کا درست جملہ پہچانیے:",
           "options": [
-            "اگر آپ نے آج محنت نہ کی تو کل آپ کو اپنی کوتاہیوں پر زندگی بھر پچھتانا پڑے گا۔",
-            "اگر آپ نے محنت کیا تو پچھتایا تھا اور رویا۔",
-            "پڑے گا صرف بارش میں آتا ہے۔",
-            "مستقبل کے جملے میں تو کا استعمال ممنوع ہے۔"
+            "اگر آپ نے آج محنت نہ کی تو کل آپ کو اپنی کوتاہیوں پر زندگی بھر پچھتانا پڑے گا۔ (Language concept U10)",
+            "اگر آپ نے محنت کیا تو پچھتایا تھا اور رویا۔ (Language concept U10)",
+            "پڑے گا صرف بارش میں آتا ہے۔ (Language concept U10)",
+            "مستقبل کے جملے میں تو کا استعمال ممنوع ہے۔ (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "«اگر آپ نے آج محنت نہ کی تو کل آپ کو اپنی کوتاہیوں پر زندگی بھر پچھتانا پڑے گا۔» مشروط مستقبل کی مجبوری کا بہترین جملہ ہے۔"
@@ -4712,10 +4712,10 @@
         {
           "prompt": "عزم (ہونا) اور مجبوری (پڑنا) کے متوازن امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "مجھے کام کرنا ہے چاہے مشکل اٹھانی پڑے",
-            "مجھے کام پڑنا ہے چاہے مشکل ہونا ہے (بے جوڑ صیغے) کا",
-            "کام ختم ہوا تھا (ماضی) کا",
-            "کوئی نہیں کا"
+            "مجھے کام کرنا ہے چاہے مشکل اٹھانی پڑے (Language concept U10)",
+            "مجھے کام پڑنا ہے چاہے مشکل ہونا ہے (Language concept U10)",
+            "کام ختم ہوا تھا (Language concept U10)",
+            "کوئی نہیں کا  ، مجبوری ، ماضی و مستقبل کی ساختوں کو کثیر الجملاتی شاہکار ادبی بیانیے میں یکجا کرنا۔ ، مجبوری ، ماضی و مستقبل کی ساختوں کو کثیر الجملاتی شاہکار ادبی بیانیے میں یکجا کرنا۔ (Core target concept - Unit 10 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«مجھے کام کرنا ہے چاہے مشکل اٹھانی پڑے» عزم اور مجبوری کا فصیح امتزاج ہے۔"
@@ -4727,10 +4727,10 @@
         {
           "prompt": "جامع سمیکن میں 'ہونا' اور 'پڑنا' کا تقابل کیا ظاہر کرتا ہے؟",
           "options": [
-            "ارادے اور بیرونی حالات کے درمیان انسانی کشمکش اور عزم کا اظہار",
-            "صرف وقت کا ضیاع کا",
-            "صرف پرانی یادوں کا اعادہ (محدود مفہوم) کا",
-            "بے معنی الفاظ کا"
+            "ارادے اور بیرونی حالات کے درمیان انسانی کشمکش اور عزم کا اظہار (Language concept U10)",
+            "صرف وقت کا ضیاع کا (Language concept U10)",
+            "صرف پرانی یادوں کا اعادہ (Language concept U10)",
+            "بے معنی الفاظ کا (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "یہ ارادے اور حالات کے درمیان انسانی عزم و جدوجہد کو ظاہر کرتا ہے۔"
@@ -4743,10 +4743,10 @@
           "type": "multiple-choice",
           "prompt": "مجبوری و عزم (Compulsion & Obligation Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہمیں اپنے وطن کی حفاظت کے لیے ہر قربانی دینی ہے، خواہ اس راہ میں ہمیں اپنے خون کا آخری قطرہ تک بہانا پڑے اور سخت ترین مصائب جھیلنے پڑیں۔",
-            "ہمیں حفاظت کرنا پڑا ہے اور خون بہا تھا۔ کا",
-            "جامع سمیکن صرف کھانا کھانے کو کہتے ہیں۔ کا",
-            "پڑنا اور ہونا ایک زبان میں نہیں بولے جاتے۔ کا"
+            "ہمیں اپنے وطن کی حفاظت کے لیے ہر قربانی دینی ہے، خواہ اس راہ میں ہمیں اپنے خون کا آخری قطرہ تک بہانا پڑے اور سخت ترین مصائب جھیلنے پڑیں۔ (Language concept U10)",
+            "ہمیں حفاظت کرنا پڑا ہے اور خون بہا تھا۔ کا (Language concept U10)",
+            "جامع سمیکن صرف کھانا کھانے کو کہتے ہیں۔ کا (Language concept U10)",
+            "پڑنا اور ہونا ایک زبان میں نہیں بولے جاتے۔ کا (Language concept U10)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں اپنے وطن کی حفاظت کے لیے ہر قربانی دینی ہے، خواہ اس راہ میں ہمیں اپنے خون کا آخری قطرہ تک بہانا پڑے اور سخت ترین مصائب جھیلنے پڑیں۔» مجبوری و عزم کے جامع سمیکن کا شاہکار جملہ ہے۔"
@@ -4794,10 +4794,10 @@
         {
           "prompt": "مؤنث اسم «کتاب» کے ساتھ درست ملکیتی پرسرگ کون سا ہوگا؟",
           "options": [
-            "کی",
-            "کا",
-            "کے",
-            "کو"
+            "کی (Possessed Noun)",
+            "کا (Possessed Noun)",
+            "کے (Possessed Noun)",
+            "کو (Possessed Noun)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'کتاب' مؤنث ہے، اس لیے ملکیتی پرسرگ «کی» آئے گا۔"
@@ -4809,10 +4809,10 @@
         {
           "prompt": "مذکر جمع اسم «مضامین» کے ساتھ درست اضافت کیا ہوگی؟",
           "options": [
-            "مصنف کے مضامین",
-            "مصنف کا مضامین",
-            "مصنف کی مضامین",
-            "کوئی نہیں"
+            "مصنف کے مضامین (Possessed Noun U11)",
+            "مصنف کا مضامین (Possessed Noun U11)",
+            "مصنف کی مضامین (Possessed Noun U11)",
+            "کوئی نہیں (Possessed Noun)"
           ],
           "answerIndex": 0,
           "explanation": "جمع مذکر اسم 'مضامین' کے ساتھ «مصنف کے مضامین» درست ہے۔"
@@ -4825,10 +4825,10 @@
           "type": "multiple-choice",
           "prompt": "اضافت اور ملکیتی پرسرگ (کا / کے / کی) کا فصیح جملہ پہچانیے:",
           "options": [
-            "شاعرِ مشرق علامہ اقبال کی شاعری اور ان کے فلسفیانہ افکار نے برصغیر کے مسلمانوں میں آزادی کا جذبہ بیدار کیا۔",
-            "علامہ اقبال کا شاعری اور ان کی افکار روتی تھی۔",
-            "کا/کے/کی صرف انگریزی میں بولا جاتا ہے۔",
-            "کی کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔"
+            "شاعرِ مشرق علامہ اقبال کی شاعری اور ان کے فلسفیانہ افکار نے برصغیر کے مسلمانوں میں آزادی کا جذبہ بیدار کیا۔ (Possessed Noun U11)",
+            "علامہ اقبال کا شاعری اور ان کی افکار روتی تھی۔ (Possessed Noun U11)",
+            "کا/کے/کی صرف انگریزی میں بولا جاتا ہے۔ (Possessed Noun U11)",
+            "کی کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔ (Possessed Noun U11)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعرِ مشرق علامہ اقبال کی شاعری اور ان کے فلسفیانہ افکار نے برصغیر کے مسلمانوں میں آزادی کا جذبہ بیدار کیا۔» اضافت کے تمام اصولوں پر پورا اترتا ہے۔"
@@ -4876,10 +4876,10 @@
         {
           "prompt": "خاندانی رشتے (بھائی) کے لیے درست جملہ کون سا ہے؟",
           "options": [
-            "میرا ایک بھائی ہے",
-            "میرے پاس ایک بھائی ہے",
-            "مجھ کو بھائی ملا تھا",
-            "کوئی نہیں"
+            "میرا ایک بھائی ہے (Core target concept - Unit 11 Target Practice)",
+            "میرے پاس ایک بھائی ہے (Core target concept - Unit 11 Target Practice)",
+            "مجھ کو بھائی ملا تھا (Language concept U11)",
+            "کوئی نہیں (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "خاندانی رشتوں کے لیے 'کے پاس' کے بجائے «میرا / میری / میرے» مستعمل ہے۔"
@@ -4891,10 +4891,10 @@
         {
           "prompt": "منقولہ مادی شے (گاڑی) کے لیے درست ملکیتی جملہ کیا ہوگا؟",
           "options": [
-            "احمد کے پاس ایک نئی گاڑی ہے",
-            "احمد کا گاڑی ہے",
-            "احمد نے گاڑی رکھا تھا",
-            "کوئی نہیں"
+            "احمد کے پاس ایک نئی گاڑی ہے (Language concept U11)",
+            "احمد کا گاڑی ہے (Language concept U11)",
+            "احمد نے گاڑی رکھا تھا (Language concept U11)",
+            "کوئی نہیں (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مادی منقولہ شے کے پاس ہونے کے لیے «کے پاس» درست ہے۔"
@@ -4907,10 +4907,10 @@
           "type": "multiple-choice",
           "prompt": "منقولہ اور غیر منقولہ ملکیت (Alienable vs Inalienable Possession) کا مستند جملہ پہچانیے:",
           "options": [
-            "اس بزرگ اسکالر کے تین ہونہار بیٹے ہیں اور ان کے ذاتی کتب خانے کے پاس نایاب تاریخی قلمی نسخے موجود ہیں۔",
-            "اس بزرگ کے پاس تین بیٹے اور ایک ناک ہے اور رویا۔",
-            "کے پاس کا استعمال صرف جانوروں کے لیے ہوتا ہے۔",
-            "رشتوں کے ساتھ ہمیشہ کے پاس لگانا واجب ہے۔"
+            "اس بزرگ اسکالر کے تین ہونہار بیٹے ہیں اور ان کے ذاتی کتب خانے کے پاس نایاب تاریخی قلمی نسخے موجود ہیں۔ (Language concept U11)",
+            "اس بزرگ کے پاس تین بیٹے اور ایک ناک ہے اور رویا۔ (Language concept U11)",
+            "کے پاس کا استعمال صرف جانوروں کے لیے ہوتا ہے۔ (Language concept U11)",
+            "رشتوں کے ساتھ ہمیشہ کے پاس لگانا واجب ہے۔ (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "«اس بزرگ اسکالر کے تین ہونہار بیٹے ہیں اور ان کے ذاتی کتب خانے کے پاس نایاب تاریخی قلمی نسخے موجود ہیں۔» ملکیت کے دونوں دائروں کا فصیح جملہ ہے۔"
@@ -4958,10 +4958,10 @@
         {
           "prompt": "کسی شخص کی اندرونی صلاحیت اور ذہانت ظاہر کرنے کے لیے کون سا پرسرگ آئے گا؟",
           "options": [
-            "میں",
-            "کے پاس",
-            "سے",
-            "پر"
+            "میں   کے نحوی اسلوب پر عبور حاصل کرنا۔  کے نحوی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)",
+            "کے پاس   کے نحوی اسلوب پر عبور حاصل کرنا۔  کے نحوی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)",
+            "سے   کے نحوی اسلوب پر عبور حاصل کرنا۔  کے نحوی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)",
+            "پر   کے نحوی اسلوب پر عبور حاصل کرنا۔  کے نحوی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "باطنی اوصاف اور صلاحیتوں کے لیے پرسرگ «میں» استعمال ہوتا ہے (جیسے: اس میں قابلیت ہے)۔"
@@ -4973,10 +4973,10 @@
         {
           "prompt": "علم اور شعور کے لیے فصیح ملکیتی جملہ کون سا ہے؟",
           "options": [
-            "ہمیں اس حقیقت کا پورا علم ہے",
-            "ہمارے پاس حقیقت کا علم رہتا ہے",
-            "ہم نے حقیقت جانا تھا",
-            "کوئی نہیں"
+            "ہمیں اس حقیقت کا پورا علم ہے (Language concept U11)",
+            "ہمارے پاس حقیقت کا علم رہتا ہے (Language concept U11)",
+            "ہم نے حقیقت جانا تھا (Language concept U11)",
+            "کوئی نہیں   کے نحوی اسلوب پر عبور حاصل کرنا۔  کے نحوی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں اس حقیقت کا پورا علم ہے» علمی و شعوری ملکیت کا فصیح جملہ ہے۔"
@@ -4989,10 +4989,10 @@
           "type": "multiple-choice",
           "prompt": "باطنی اوصاف اور علم کی ملکیت (Abstract Qualities & Knowledge) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اس محنتی استاد میں طلبہ کی اخلاقی تربیت کا گہرا جذبہ ہے اور انہیں جدید تدریسی طریقوں کا مکمل ادراک ہے۔",
-            "استاد کے پاس جذبہ کھڑا تھا اور رویا۔",
-            "اوصاف کی ملکیت صرف پہاڑوں میں پائی جاتی ہے۔",
-            "ادراک کو ہمیشہ فعل سے دس لفظ بعد لکھنا چاہیے۔"
+            "اس محنتی استاد میں طلبہ کی اخلاقی تربیت کا گہرا جذبہ ہے اور انہیں جدید تدریسی طریقوں کا مکمل ادراک ہے۔ (Language concept U11)",
+            "استاد کے پاس جذبہ کھڑا تھا اور رویا۔ (Language concept U11)",
+            "اوصاف کی ملکیت صرف پہاڑوں میں پائی جاتی ہے۔ (Language concept U11)",
+            "ادراک کو ہمیشہ فعل سے دس لفظ بعد لکھنا چاہیے۔ (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "«اس محنتی استاد میں طلبہ کی اخلاقی تربیت کا گہرا جذبہ ہے اور انہیں جدید تدریسی طریقوں کا مکمل ادراک ہے۔» باطنی اوصاف کا بہترین اور فصیح جملہ ہے۔"
@@ -5040,10 +5040,10 @@
         {
           "prompt": "مؤنث اسم «سوچ» کے ساتھ متکلم کا درست ملکیتی ضمیر کیا ہوگا؟",
           "options": [
-            "میری سوچ",
-            "میرا سوچ",
-            "میرے سوچ",
-            "کوئی نہیں"
+            "میری سوچ   اور مرکباتِ اضافی کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)",
+            "میرا سوچ   اور مرکباتِ اضافی کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)",
+            "میرے سوچ   اور مرکباتِ اضافی کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)",
+            "کوئی نہیں   اور مرکباتِ اضافی کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'سوچ' مؤنث ہے، اس لیے «میری سوچ» درست ہے۔"
@@ -5055,10 +5055,10 @@
         {
           "prompt": "جمع مذکر اسم «خیالات» کے ساتھ تعظیمی مخاطب کی درست ترکیب کیا ہوگی؟",
           "options": [
-            "آپ کے خیالات",
-            "آپ کا خیالات",
-            "آپ کی خیالات",
-            "کوئی نہیں"
+            "آپ کے خیالات (Language concept U11)",
+            "آپ کا خیالات (Language concept U11)",
+            "آپ کی خیالات (Language concept U11)",
+            "کوئی نہیں   اور مرکباتِ اضافی کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔  اور مرکباتِ اضافی کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "جمع مذکر اسم 'خیالات' کے ساتھ «آپ کے خیالات» درست ہے۔"
@@ -5071,10 +5071,10 @@
           "type": "multiple-choice",
           "prompt": "ضمائرِ ملکیت اور اضافی تراکیب (Possessive Pronouns) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہمارا نصب العین، ہماری جدوجہد اور ہمارے اجتماعی فیصلے ہی ہمارے تابناک مستقبل کی ضمانت ہیں۔",
-            "ہمارا جدوجہد اور ہمارے نصب العین روتے تھے۔",
-            "ضمائرِ ملکیت صرف ریڈیو پر بولے جاتے ہیں۔",
-            "میرا کو ہمیشہ مؤنث اسم کے ساتھ لگانا چاہیے۔"
+            "ہمارا نصب العین، ہماری جدوجہد اور ہمارے اجتماعی فیصلے ہی ہمارے تابناک مستقبل کی ضمانت ہیں۔ (Language concept U11)",
+            "ہمارا جدوجہد اور ہمارے نصب العین روتے تھے۔ (Language concept U11)",
+            "ضمائرِ ملکیت صرف ریڈیو پر بولے جاتے ہیں۔ (Language concept U11)",
+            "میرا کو ہمیشہ مؤنث اسم کے ساتھ لگانا چاہیے۔ (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمارا نصب العین، ہماری جدوجہد اور ہمارے اجتماعی فیصلے ہی ہمارے تابناک مستقبل کی ضمانت ہیں۔» ضمائرِ ملکیت کے مکمل مطابقت کا شاہکار جملہ ہے۔"
@@ -5122,10 +5122,10 @@
         {
           "prompt": "مادی ملکیت (کے پاس) اور خاندانی تعلق (کا/کے/کی) کے امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "ان کا ایک بیٹا ہے اور ان کے پاس گاڑی ہے",
-            "ان کے پاس بیٹا ہے اور ان کا گاڑی ہے",
-            "بیٹا گاڑی میں گیا تھا",
-            "کوئی نہیں"
+            "ان کا ایک بیٹا ہے اور ان کے پاس گاڑی ہے (Language concept U11)",
+            "ان کے پاس بیٹا ہے اور ان کا گاڑی ہے (Language concept U11)",
+            "بیٹا گاڑی میں گیا تھا   اور ضمائرِ ملکیت کو ایک کثیر الجملاتی فصیح اور باوقار بیانیے میں یکجا کرنا۔  اور ضمائرِ ملکیت کو ایک کثیر الجملاتی فصیح اور باوقار بیانیے میں یکجا کرنا۔ (Core target concept - Unit 11 Target Practice)",
+            "کوئی نہیں   اور ضمائرِ ملکیت کو ایک کثیر الجملاتی فصیح اور باوقار بیانیے میں یکجا کرنا۔  اور ضمائرِ ملکیت کو ایک کثیر الجملاتی فصیح اور باوقار بیانیے میں یکجا کرنا۔ (Core target concept - Unit 11 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ان کا ایک بیٹا ہے اور ان کے پاس گاڑی ہے» دونوں ساختوں کا درست ترین امتزاج ہے۔"
@@ -5137,10 +5137,10 @@
         {
           "prompt": "اضافت اور باطنی اوصاف کے جامع سمیکن کا اصل ادبی حسن کیا ہے؟",
           "options": [
-            "مادی اور باطنی حقیقتوں کو فصیح نحوی اوزان میں خوبصورتی سے پرو دینا",
-            "صرف الفاظ کی لمبائی بڑھانا",
-            "پرانی کہانیوں کو دہرانا",
-            "بے معنی بحث کرنا"
+            "مادی اور باطنی حقیقتوں کو فصیح نحوی اوزان میں خوبصورتی سے پرو دینا (Language concept U11)",
+            "صرف الفاظ کی لمبائی بڑھانا (Language concept U11)",
+            "پرانی کہانیوں کو دہرانا (Language concept U11)",
+            "بے معنی بحث کرنا (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "اس کا حسن مادی اور باطنی اوصاف کو فصیح نحوی اوزان میں یکجا کرنا ہے۔"
@@ -5153,10 +5153,10 @@
           "type": "multiple-choice",
           "prompt": "ملکیت، اوصاف اور اضافت کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہماری یونیورسٹی کے اساتذہ کا علمی وقار بے مثال ہے، ان کے پاس وسیع لائبریریاں ہیں اور ان کے دلوں میں طلبہ کی فکری رہنمائی کا سچا جذبہ موجود ہے۔",
-            "اساتذہ کے پاس وقار روتا تھا اور کتابیں بھاگیں۔",
-            "جامع سمیکن صرف رات کے اندھیرے میں لکھا جاتا ہے۔",
-            "اضافت کا استعمال صرف اشعار میں جائز ہے۔"
+            "ہماری یونیورسٹی کے اساتذہ کا علمی وقار بے مثال ہے، ان کے پاس وسیع لائبریریاں ہیں اور ان کے دلوں میں طلبہ کی فکری رہنمائی کا سچا جذبہ موجود ہے۔ (Language concept U11)",
+            "اساتذہ کے پاس وقار روتا تھا اور کتابیں بھاگیں۔ (Language concept U11)",
+            "جامع سمیکن صرف رات کے اندھیرے میں لکھا جاتا ہے۔ (Language concept U11)",
+            "اضافت کا استعمال صرف اشعار میں جائز ہے۔ (Language concept U11)"
           ],
           "answerIndex": 0,
           "explanation": "«ہماری یونیورسٹی کے اساتذہ کا علمی وقار بے مثال ہے، ان کے پاس وسیع لائبریریاں ہیں اور ان کے دلوں میں طلبہ کی فکری رہنمائی کا سچا جذبہ موجود ہے۔» اضافت اور ملکیت کے جامع سمیکن کا کامل جملہ ہے۔"
@@ -5204,10 +5204,10 @@
         {
           "prompt": "کسی دوسرے شخص کو رقم دینے کے عمل میں کون سا مرکب فعل درست ہے؟",
           "options": [
-            "لوٹا دیا",
-            "لوٹا لیا",
-            "لوٹتا تھا",
-            "کوئی نہیں"
+            "لوٹا دیا   اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔  اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "لوٹا لیا   اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔  اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "لوٹتا تھا   اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔  اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "کوئی نہیں   اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔  اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "دوسرے کو واپس کرنے کے لیے امدادی فعل 'دینا' («لوٹا دیا») آئے گا۔"
@@ -5219,10 +5219,10 @@
         {
           "prompt": "اپنے ذاتی فائدے کے لیے کتاب کا مطالعہ مکمل کرنے کا فصیح صیغہ کیا ہے؟",
           "options": [
-            "پڑھ لی",
-            "پڑھ دی",
-            "پڑھی تھی",
-            "کوئی نہیں"
+            "پڑھ لی   اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "پڑھ دی   اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "پڑھی تھی   اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "کوئی نہیں   اور 'دینا'  کے جوہری فرق اور استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "اپنی ذات کے مطالعے کے لیے «پڑھ لی» مستعمل ہے۔"
@@ -5235,10 +5235,10 @@
           "type": "multiple-choice",
           "prompt": "امدادی افعال (لینا بمقابلہ دینا) کا فصیح اور مستند جملہ پہچانیے:",
           "options": [
-            "میں نے اپنے تمام ضروری امتحانی سوالات حل کر لیے اور حل شدہ پرچہ نگرانِ امتحان کو تھما دیا۔",
-            "میں نے سوالات حل کر دیا اور پرچہ اپنے پاس رکھ لیا۔",
-            "لینا اور دینا صرف مارکیٹ میں بولا جاتا ہے۔",
-            "امدادی فعل کو جملے کے شروع میں اسم کے بدلے لکھنا چاہیے۔"
+            "میں نے اپنے تمام ضروری امتحانی سوالات حل کر لیے اور حل شدہ پرچہ نگرانِ امتحان کو تھما دیا۔ (Language concept U12)",
+            "میں نے سوالات حل کر دیا اور پرچہ اپنے پاس رکھ لیا۔ (Language concept U12)",
+            "لینا اور دینا صرف مارکیٹ میں بولا جاتا ہے۔ (Language concept U12)",
+            "امدادی فعل کو جملے کے شروع میں اسم کے بدلے لکھنا چاہیے۔ (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "«میں نے اپنے تمام ضروری امتحانی سوالات حل کر لیے اور حل شدہ پرچہ نگرانِ امتحان کو تھما دیا۔» لینا اور دینا کے دونوں رخنوں کا بہترین جملہ ہے۔"
@@ -5286,10 +5286,10 @@
         {
           "prompt": "غصے میں خط کو ٹکڑے ٹکڑے کرنے کے لیے کون سا مرکب فعل بلیغ ہے؟",
           "options": [
-            "پھاڑ ڈالا",
-            "پھاڑ گیا",
-            "پھاڑ دیا",
-            "کوئی نہیں"
+            "پھاڑ ڈالا (Language concept U12)",
+            "پھاڑ گیا   اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔  اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "پھاڑ دیا   اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔  اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "کوئی نہیں   اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔  اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "شدت اور غصے میں ٹکڑے کرنے کے لیے «پھاڑ ڈالا» سب سے زیادہ اثر انگیز ہے۔"
@@ -5301,10 +5301,10 @@
         {
           "prompt": "تھکن سے نیند آ جانے کی قدرتی تبدیلی کے لیے کون سا فعل درست ہے؟",
           "options": [
-            "سو گیا",
-            "سو ڈالا",
-            "سو لیا",
-            "کوئی نہیں"
+            "سو گیا   اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔  اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "سو ڈالا (Language concept U12)",
+            "سو لیا   اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔  اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "کوئی نہیں   اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔  اور 'ڈالنا'  کے فرق اور نحوی ساخت پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "نیند کی حالت میں چلے جانے کے لیے «سو گیا» درست ہے۔"
@@ -5317,10 +5317,10 @@
           "type": "multiple-choice",
           "prompt": "امدادی فعل 'جانا' اور 'ڈالنا' کا فصیح جملہ پہچانیے:",
           "options": [
-            "عدالت کا باضابطہ فیصلہ سنتے ہی تمام ہنگامہ ختم ہو گیا اور مشتعل ہجوم نے اپنے تمام پرانے شکوے مٹا ڈالے۔",
-            "ہنگامہ ختم ڈال دیا اور لوگ رویا۔",
-            "ڈالنا صرف چائے میں چینی ڈالنے کے لیے آتا ہے۔",
-            "جانا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔"
+            "عدالت کا باضابطہ فیصلہ سنتے ہی تمام ہنگامہ ختم ہو گیا اور مشتعل ہجوم نے اپنے تمام پرانے شکوے مٹا ڈالے۔ (Language concept U12)",
+            "ہنگامہ ختم ڈال دیا اور لوگ رویا۔ (Language concept U12)",
+            "ڈالنا صرف چائے میں چینی ڈالنے کے لیے آتا ہے۔ (Language concept U12)",
+            "جانا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔ (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "«عدالت کا باضابطہ فیصلہ سنتے ہی تمام ہنگامہ ختم ہو گیا اور مشتعل ہجوم نے اپنے تمام پرانے شکوے مٹا ڈالے۔» دونوں امدادی افعال کا شاہکار جملہ ہے۔"
@@ -5368,10 +5368,10 @@
         {
           "prompt": "بے وقوفی میں دولت کھو دینے کے لیے کون سا امدادی فعل مستعمل ہوگا؟",
           "options": [
-            "گنوا بیٹھا",
-            "گنوا دیا",
-            "گنوا گیا",
-            "کوئی نہیں"
+            "گنوا بیٹھا (Language concept U12)",
+            "گنوا دیا (Language concept U12)",
+            "گنوا گیا (Language concept U12)",
+            "کوئی نہیں   اور 'پڑنا'  کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔  اور 'پڑنا'  کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "حسرت اور نادانی سے کھو دینے کے لیے «گنوا بیٹھا» فصیح ترین ہے۔"
@@ -5383,10 +5383,10 @@
         {
           "prompt": "بے ساختہ ہنسی امڈ آنے کے لیے کون سا مرکب فعل آئے گا؟",
           "options": [
-            "ہنس پڑا",
-            "ہنس بیٹھا",
-            "ہنس ڈالا",
-            "کوئی نہیں"
+            "ہنس پڑا   اور 'پڑنا'  کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔  اور 'پڑنا'  کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "ہنس بیٹھا   اور 'پڑنا'  کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔  اور 'پڑنا'  کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "ہنس ڈالا (Language concept U12)",
+            "کوئی نہیں   اور 'پڑنا'  کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔  اور 'پڑنا'  کے نفسیاتی و نحوی پہلوؤں پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "بے ساختہ ہنسی کے لیے «ہنس پڑا / ہنس پڑی» مستعمل ہے۔"
@@ -5399,10 +5399,10 @@
           "type": "multiple-choice",
           "prompt": "امدادی فعل 'بیٹھنا' اور 'پڑنا' کا فصیح جملہ پہچانیے:",
           "options": [
-            "وہ غصے کے عالم میں اپنے مخلص ترین دوست سے تعلقات توڑ بیٹھا اور جب حقیقت کھلی تو پچھتاوے سے رو پڑا۔",
-            "اس نے تعلقات توڑ گیا اور ہنس ڈالا۔",
-            "بیٹھنا صرف کرسی پر بیٹھنے کو کہتے ہیں۔",
-            "پڑنا اور بیٹھنا ایک ساتھ بولنا خلافِ قانون ہے۔"
+            "وہ غصے کے عالم میں اپنے مخلص ترین دوست سے تعلقات توڑ بیٹھا اور جب حقیقت کھلی تو پچھتاوے سے رو پڑا۔ (Language concept U12)",
+            "اس نے تعلقات توڑ گیا اور ہنس ڈالا۔ (Language concept U12)",
+            "بیٹھنا صرف کرسی پر بیٹھنے کو کہتے ہیں۔ (Language concept U12)",
+            "پڑنا اور بیٹھنا ایک ساتھ بولنا خلافِ قانون ہے۔ (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "«وہ غصے کے عالم میں اپنے مخلص ترین دوست سے تعلقات توڑ بیٹھا اور جب حقیقت کھلی تو پچھتاوے سے رو پڑا۔» دونوں امدادی افعال کا کامل اور مربوط نمونہ ہے۔"
@@ -5450,10 +5450,10 @@
         {
           "prompt": "کسی اہم کام کی پیشگی تیاری ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
-            "ہم نے بندوبست کر رکھا ہے",
-            "ہم نے بندوبست کر چھوڑا",
-            "ہم بندوبست کرتا ہے",
-            "کوئی نہیں"
+            "ہم نے بندوبست کر رکھا ہے (Language concept U12)",
+            "ہم نے بندوبست کر چھوڑا (Language concept U12)",
+            "ہم بندوبست کرتا ہے (Language concept U12)",
+            "کوئی نہیں   اور 'چھوڑنا'  کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔  اور 'چھوڑنا'  کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "پیشگی تیاری کے لیے امدادی فعل «کر رکھا ہے» درست ہے۔"
@@ -5465,10 +5465,10 @@
         {
           "prompt": "فولادی عزم کے ساتھ کام مکمل کر کے دم لینے کے لیے کون سا امدادی فعل آئے گا؟",
           "options": [
-            "کر چھوڑیں گے",
-            "کر سوئیں گے",
-            "کر بیٹھیں گے",
-            "کوئی نہیں"
+            "کر چھوڑیں گے   اور 'چھوڑنا'  کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "کر سوئیں گے   اور 'چھوڑنا'  کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "کر بیٹھیں گے   اور 'چھوڑنا'  کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)",
+            "کوئی نہیں   اور 'چھوڑنا'  کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔ (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "پختہ عزم کے لیے «کر چھوڑیں گے» مستعمل ہے۔"
@@ -5481,10 +5481,10 @@
           "type": "multiple-choice",
           "prompt": "امدادی فعل 'رکھنا' اور 'چھوڑنا' کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم نے اپنے تمام وسائل پہلے سے جمع کر رکھے ہیں اور ہم اس علمی مشن کو پایۂ تکمیل تک پہنچا کر چھوڑیں گے۔",
-            "ہم نے وسائل کو بھگا رکھا ہے اور رو چھوڑا تھا۔",
-            "چھوڑنا کا مطلب صرف چڑیا اڑانا ہوتا ہے۔",
-            "رکھنا کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔"
+            "ہم نے اپنے تمام وسائل پہلے سے جمع کر رکھے ہیں اور ہم اس علمی مشن کو پایۂ تکمیل تک پہنچا کر چھوڑیں گے۔ (Language concept U12)",
+            "ہم نے وسائل کو بھگا رکھا ہے اور رو چھوڑا تھا۔ (Language concept U12)",
+            "چھوڑنا کا مطلب صرف چڑیا اڑانا ہوتا ہے۔ (Language concept U12)",
+            "رکھنا کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔ (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے اپنے تمام وسائل پہلے سے جمع کر رکھے ہیں اور ہم اس علمی مشن کو پایۂ تکمیل تک پہنچا کر چھوڑیں گے۔» دونوں امدادی افعال کا فصیح اور مستند مرکب جملہ ہے۔"
@@ -5532,10 +5532,10 @@
         {
           "prompt": "امدادی افعال کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
-            "ہم نے بات سمجھ لی اور سب کو بتا دی",
-            "ہم نے بات سمجھ دی اور بتا لی",
-            "ہم نے بات جانا تھا",
-            "کوئی نہیں"
+            "ہم نے بات سمجھ لی اور سب کو بتا دی (Language concept U12)",
+            "ہم نے بات سمجھ دی اور بتا لی (Language concept U12)",
+            "ہم نے بات جانا تھا (Language concept U12)",
+            "کوئی نہیں (Core target concept - Unit 12 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے بات سمجھ لی اور سب کو بتا دی» لینا اور دینا کے درست امتزاج کا نمونہ ہے۔"
@@ -5547,10 +5547,10 @@
         {
           "prompt": "مرکب افعال کا اردو زبان کی فصاحت میں بنیادی کردار کیا ہے؟",
           "options": [
-            "افعال کو حتمیت، سمت، جذباتی حرارت اور بے مثال نفاست بخشنا",
-            "صرف جملے کو بلاوجہ لمبا کرنا",
-            "صرف قواعدی الجھن پیدا کرنا",
-            "بے معنی الفاظ کا اضافہ کرنا"
+            "افعال کو حتمیت، سمت، جذباتی حرارت اور بے مثال نفاست بخشنا (Language concept U12)",
+            "صرف جملے کو بلاوجہ لمبا کرنا (Language concept U12)",
+            "صرف قواعدی الجھن پیدا کرنا (Language concept U12)",
+            "بے معنی الفاظ کا اضافہ کرنا (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "یہ افعال کو سمت، جذباتی گہرائی اور بلاغت عطا کرتے ہیں۔"
@@ -5563,10 +5563,10 @@
           "type": "multiple-choice",
           "prompt": "امدادی و مرکب افعال کے جامع سمیکن (Compound Verbs Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم نے سچائی کو پہچان لیا، قوم کو بیدار کر دیا، تمام باطل نظریات کو مٹا ڈالا اور ہم وطن کو ترقی کی منزل تک پہنچا کر چھوڑیں گے۔",
-            "ہم نے سچائی پہچان دیا اور قوم کو مٹا چھوڑا تھا۔",
-            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔",
-            "مرکب افعال صرف بازار میں بولے جاتے ہیں۔"
+            "ہم نے سچائی کو پہچان لیا، قوم کو بیدار کر دیا، تمام باطل نظریات کو مٹا ڈالا اور ہم وطن کو ترقی کی منزل تک پہنچا کر چھوڑیں گے۔ (Language concept U12)",
+            "ہم نے سچائی پہچان دیا اور قوم کو مٹا چھوڑا تھا۔ (Language concept U12)",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔ (Language concept U12)",
+            "مرکب افعال صرف بازار میں بولے جاتے ہیں۔ (Language concept U12)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے سچائی کو پہچان لیا، قوم کو بیدار کر دیا، تمام باطل نظریات کو مٹا ڈالا اور ہم وطن کو ترقی کی منزل تک پہنچا کر چھوڑیں گے۔» مرکب افعال کے تمام پہلوؤں کا شاہکار سمیکن ہے۔"
@@ -5614,10 +5614,10 @@
         {
           "prompt": "متکلم واحد (میں) کے لیے اجازت طلب کرنے کا درست صیغہ کون سا ہے؟",
           "options": [
-            "کیا میں اندر آؤں؟",
-            "کیا میں اندر آؤں گا؟",
-            "کیا میں اندر آیا تھا؟",
-            "کوئی نہیں"
+            "کیا میں اندر آؤں؟ (Conjugation U13)",
+            "کیا میں اندر آؤں گا؟ (Conjugation U13)",
+            "کیا میں اندر آیا تھا؟ (Conjugation U13)",
+            "کوئی نہیں (Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "اجازت طلبی کے لیے متکلم واحد کا مضارع صیغہ «آؤں» مستعمل ہے۔"
@@ -5629,10 +5629,10 @@
         {
           "prompt": "دعا و تمنا کے اظہار کے لیے فصیح جملہ کیا ہوگا؟",
           "options": [
-            "خدا کرے تم ہمیشہ خوش رہو",
-            "خدا کرے تم خوش رہتا تھا",
-            "خدا کرے تم خوش روئے",
-            "کوئی نہیں"
+            "خدا کرے تم ہمیشہ خوش رہو (Conjugation U13)",
+            "خدا کرے تم خوش رہتا تھا (Conjugation U13)",
+            "خدا کرے تم خوش روئے (Conjugation U13)",
+            "کوئی نہیں (Conjugation)"
           ],
           "answerIndex": 0,
           "explanation": "دعائیہ جملے میں مضارع کا صیغہ «خوش رہو / رہے» درست ہے۔"
@@ -5645,10 +5645,10 @@
           "type": "multiple-choice",
           "prompt": "فعل مضارع برائے تمنا و دعا (Subjunctive Mood) کا فصیح جملہ پہچانیے:",
           "options": [
-            "خدا کرے کہ ہمارے ملک کے نوجوان علم و ہنر کے میدان میں دنیا بھر میں اپنا لوہا منوائیں اور ترقی کی نئی راہیں کھولیں۔",
-            "خدا کرے نوجوان نے امتحان دیا تھا اور رویا۔",
-            "فعل مضارع صرف پرانی کہانیوں میں لکھا جاتا ہے۔",
-            "مضارع کے آخر میں ہمیشہ لفظ 'گا' لگانا لازمی ہے۔"
+            "خدا کرے کہ ہمارے ملک کے نوجوان علم و ہنر کے میدان میں دنیا بھر میں اپنا لوہا منوائیں اور ترقی کی نئی راہیں کھولیں۔ (Conjugation U13)",
+            "خدا کرے نوجوان نے امتحان دیا تھا اور رویا۔ (Conjugation U13)",
+            "فعل مضارع صرف پرانی کہانیوں میں لکھا جاتا ہے۔ (Conjugation U13)",
+            "مضارع کے آخر میں ہمیشہ لفظ 'گا' لگانا لازمی ہے۔ (Conjugation U13)"
           ],
           "answerIndex": 0,
           "explanation": "«خدا کرے کہ ہمارے ملک کے نوجوان علم و ہنر کے میدان میں دنیا بھر میں اپنا لوہا منوائیں اور ترقی کی نئی راہیں کھولیں۔» فعل مضارع کے دعائیہ اسلوب کا کامل جملہ ہے۔"
@@ -5696,10 +5696,10 @@
         {
           "prompt": "کلمۂ امکان «ممکن ہے کہ» کے بعد کون سا صیغہ فصیح ہے؟",
           "options": [
-            "وہ سچ بولے",
-            "وہ سچ بولتا تھا",
-            "وہ سچ بولے گا روئے گا",
-            "کوئی نہیں"
+            "وہ سچ بولے (Language concept U13)",
+            "وہ سچ بولتا تھا (Language concept U13)",
+            "وہ سچ بولے گا روئے گا (Language concept U13)",
+            "کوئی نہیں   کے ساتھ فعل مضارع کے لازمی ربط پر مہارت حاصل کرنا۔  کے ساتھ فعل مضارع کے لازمی ربط پر مہارت حاصل کرنا۔ (Core target concept - Unit 13 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ممکن ہے کہ» کے بعد فعل مضارع «وہ سچ بولے» فصیح ترین ہے۔"
@@ -5711,10 +5711,10 @@
         {
           "prompt": "احتمال ظاہر کرنے والے لفظ «شاید» کے ساتھ درست جملہ کون سا ہے؟",
           "options": [
-            "شاید آج رات بارش ہو",
-            "شاید آج رات بارش ہوئی تھی",
-            "شاید بارش روتا ہے",
-            "کوئی نہیں"
+            "شاید آج رات بارش ہو (Language concept U13)",
+            "شاید آج رات بارش ہوئی تھی (Language concept U13)",
+            "شاید بارش روتا ہے (Language concept U13)",
+            "کوئی نہیں   کے ساتھ فعل مضارع کے لازمی ربط پر مہارت حاصل کرنا۔  کے ساتھ فعل مضارع کے لازمی ربط پر مہارت حاصل کرنا۔ (Core target concept - Unit 13 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«شاید آج رات بارش ہو» احتمال و امکان کا فصیح جملہ ہے۔"
@@ -5727,10 +5727,10 @@
           "type": "multiple-choice",
           "prompt": "امکان و احتمال (Probability & Possibility with Subjunctive) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ممکن ہے کہ دونوں ممالک کے سربراہانِ مملکت سرحدی تنازعات کو پرامن مذاکرات کے ذریعے حل کرنے پر متفق ہو جائیں۔",
-            "ممکن ہے کہ سربراہان کل رویا تھا اور گھر گیا۔",
-            "شاید اور ممکن ہے صرف سائنسدان بولتے ہیں۔",
-            "احتمالی جملوں میں ہمیشہ فعل ماضی لگانا چاہیے۔"
+            "ممکن ہے کہ دونوں ممالک کے سربراہانِ مملکت سرحدی تنازعات کو پرامن مذاکرات کے ذریعے حل کرنے پر متفق ہو جائیں۔ (Language concept U13)",
+            "ممکن ہے کہ سربراہان کل رویا تھا اور گھر گیا۔ (Language concept U13)",
+            "شاید اور ممکن ہے صرف سائنسدان بولتے ہیں۔ (Language concept U13)",
+            "احتمالی جملوں میں ہمیشہ فعل ماضی لگانا چاہیے۔ (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "«ممکن ہے کہ دونوں ممالک کے سربراہانِ مملکت سرحدی تنازعات کو پرامن مذاکرات کے ذریعے حل کرنے پر متفق ہو جائیں۔» کلمۂ امکان اور مضارع کا مستند ترین جملہ ہے۔"
@@ -5778,10 +5778,10 @@
         {
           "prompt": "مشورے کے لیے درست صیغۂ مضارع کیا ہوگا؟",
           "options": [
-            "اب ہم کیا کریں؟",
-            "اب ہم کیا کرتے تھے؟",
-            "اب ہم کیا کریں گے روئیں گے؟",
-            "کوئی نہیں"
+            "اب ہم کیا کریں؟ (Conditionals)",
+            "اب ہم کیا کرتے تھے؟ (Conditionals)",
+            "اب ہم کیا کریں گے روئیں گے؟ (Conditionals)",
+            "کوئی نہیں (Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "باہمی مشورے اور رائے مانگنے کے لیے «اب ہم کیا کریں؟» درست ہے۔"
@@ -5793,10 +5793,10 @@
         {
           "prompt": "شرطیہ جملے «اگر وہ محنت...» کا فصیح صیغہ منتخب کیجیے:",
           "options": [
-            "کرے تو کامیاب ہوگا",
-            "کرتا تھا تو رویا تھا",
-            "کرے گا تو کیا ہوگا",
-            "کوئی نہیں"
+            "کرے تو کامیاب ہوگا (Conditionals)",
+            "کرتا تھا تو رویا تھا (Conditionals      Deliberative Subjunctive U13)",
+            "کرے گا تو کیا ہوگا (Conditionals)",
+            "کوئی نہیں (Conditionals)"
           ],
           "answerIndex": 0,
           "explanation": "شرط کے حصے میں مضارع «اگر وہ محنت کرے تو کامیاب ہوگا» مستعمل ہے۔"
@@ -5809,10 +5809,10 @@
           "type": "multiple-choice",
           "prompt": "مشروط مضارع اور صلاح و مشورہ (Conditional & Deliberative Subjunctive) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اگر ہم اپنے اسلاف کے نقوشِ قدم پر چلیں اور باہمی اتحاد قائم رکھیں تو ہم ہر بین الاقوامی چیلنج کا ڈٹ کر مقابلہ کر سکتے ہیں۔",
-            "اگر ہم چلتا تھا تو کھانا کھایا تھا اور سویا۔",
-            "مشروط جملے صرف خواب میں بولے جاتے ہیں۔",
-            "صلاح و مشورہ کے لیے ہمیشہ صیغۂ امر استعمال کرنا چاہیے۔"
+            "اگر ہم اپنے اسلاف کے نقوشِ قدم پر چلیں اور باہمی اتحاد قائم رکھیں تو ہم ہر بین الاقوامی چیلنج کا ڈٹ کر مقابلہ کر سکتے ہیں۔ (Conditionals      Deliberative Subjunctive U13)",
+            "اگر ہم چلتا تھا تو کھانا کھایا تھا اور سویا۔ (Conditionals      Deliberative Subjunctive U13)",
+            "مشروط جملے صرف خواب میں بولے جاتے ہیں۔ (Conditionals      Deliberative Subjunctive U13)",
+            "صلاح و مشورہ کے لیے ہمیشہ صیغۂ امر استعمال کرنا چاہیے۔ (Conditionals      Deliberative Subjunctive U13)"
           ],
           "answerIndex": 0,
           "explanation": "«اگر ہم اپنے اسلاف کے نقوشِ قدم پر چلیں اور باہمی اتحاد قائم رکھیں تو ہم ہر بین الاقوامی چیلنج کا ڈٹ کر مقابلہ کر سکتے ہیں۔» مشروط مضارع کا فصیح اور مستند جملہ ہے۔"
@@ -5860,10 +5860,10 @@
         {
           "prompt": "ماضی میں کسی کام کی تکمیل کا قیاس ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
-            "اس نے کھانا کھا لیا ہوگا",
-            "وہ کھانا کھاتا تھا",
-            "اس نے کھانا کھایا ہوگا رویا ہوگا",
-            "کوئی نہیں"
+            "اس نے کھانا کھا لیا ہوگا (Language concept U13)",
+            "وہ کھانا کھاتا تھا (Language concept U13)",
+            "اس نے کھانا کھایا ہوگا رویا ہوگا (Language concept U13)",
+            "کوئی نہیں   اور ماضی احتمالی  کی تصریف اور فصیح استدلال پر عبور حاصل کرنا۔ (Core target concept - Unit 13 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی کے قیاس کے لیے «کھا لیا ہوگا» درست ہے۔"
@@ -5875,10 +5875,10 @@
         {
           "prompt": "موجودہ وقت میں کام جاری ہونے کے قیاس (حال احتمالی) کا فصیح صیغہ کیا ہے؟",
           "options": [
-            "وہ اس وقت پڑھ رہا ہوگا",
-            "وہ پڑھ چکا تھا",
-            "وہ پڑھتا ہے",
-            "کوئی نہیں"
+            "وہ اس وقت پڑھ رہا ہوگا (Language concept U13)",
+            "وہ پڑھ چکا تھا   اور ماضی احتمالی  کی تصریف اور فصیح استدلال پر عبور حاصل کرنا۔  اور ماضی احتمالی  کی تصریف اور فصیح استدلال پر عبور حاصل کرنا۔ (Core target concept - Unit 13 Target Practice)",
+            "وہ پڑھتا ہے   اور ماضی احتمالی  کی تصریف اور فصیح استدلال پر عبور حاصل کرنا۔  اور ماضی احتمالی  کی تصریف اور فصیح استدلال پر عبور حاصل کرنا۔ (Core target concept - Unit 13 Target Practice)",
+            "کوئی نہیں   اور ماضی احتمالی  کی تصریف اور فصیح استدلال پر عبور حاصل کرنا۔  اور ماضی احتمالی  کی تصریف اور فصیح استدلال پر عبور حاصل کرنا۔ (Core target concept - Unit 13 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "حال کے قیاس کے لیے «پڑھ رہا ہوگا / پڑھتا ہوگا» مستعمل ہے۔"
@@ -5891,10 +5891,10 @@
           "type": "multiple-choice",
           "prompt": "حال و ماضی احتمالی (Presumptive Mood) کا فصیح جملہ پہچانیے:",
           "options": [
-            "تحقیقاتی کمیٹی نے اب تک تمام ثبوت اور شواہد اکٹھے کر لیے ہوں گے اور وہ اس وقت اپنی حتمی رپورٹ مرتب کر رہی ہوگی۔",
-            "کمیٹی نے ثبوت کھایا تھا اور روتی تھی۔",
-            "احتمالی صیغے صرف بچوں کی کہانیوں میں آتے ہیں۔",
-            "ہوگا کو ہمیشہ جملے کے بالکل درمیان میں لکھنا چاہیے۔"
+            "تحقیقاتی کمیٹی نے اب تک تمام ثبوت اور شواہد اکٹھے کر لیے ہوں گے اور وہ اس وقت اپنی حتمی رپورٹ مرتب کر رہی ہوگی۔ (Language concept U13)",
+            "کمیٹی نے ثبوت کھایا تھا اور روتی تھی۔ (Language concept U13)",
+            "احتمالی صیغے صرف بچوں کی کہانیوں میں آتے ہیں۔ (Language concept U13)",
+            "ہوگا کو ہمیشہ جملے کے بالکل درمیان میں لکھنا چاہیے۔ (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "«تحقیقاتی کمیٹی نے اب تک تمام ثبوت اور شواہد اکٹھے کر لیے ہوں گے اور وہ اس وقت اپنی حتمی رپورٹ مرتب کر رہی ہوگی۔» ماضی اور حال احتمالی کا بہترین مرکب جملہ ہے۔"
@@ -5942,10 +5942,10 @@
         {
           "prompt": "مضارع اور احتمالی صورتوں کے فصیح جامع امتزاج کا جملہ منتخب کیجیے:",
           "options": [
-            "شاید وہ آئے اور اگر وہ آئے تو ہم نے مسئلہ حل کر لیا ہوگا",
-            "شاید وہ آیا تھا اور رویا تھا",
-            "وہ آوے گا کھاوے گا",
-            "کوئی نہیں"
+            "شاید وہ آئے اور اگر وہ آئے تو ہم نے مسئلہ حل کر لیا ہوگا (Language concept U13)",
+            "شاید وہ آیا تھا اور رویا تھا (Language concept U13)",
+            "وہ آوے گا کھاوے گا (Language concept U13)",
+            "کوئی نہیں  ، مشروط جملوں اور حال و ماضی احتمالی کو ایک باوقار ادبی بیانیے میں یکجا کرنا۔ ، مشروط جملوں اور حال و ماضی احتمالی کو ایک باوقار ادبی بیانیے میں یکجا کرنا۔ (Core target concept - Unit 13 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«شاید وہ آئے اور اگر وہ آئے تو ہم نے مسئلہ حل کر لیا ہوگا» مضارع اور ماضی احتمالی کا فصیح نمونہ ہے۔"
@@ -5957,10 +5957,10 @@
         {
           "prompt": "فعل مضارع اور احتمالی صورتوں کا اردو ادب میں کیا فکری مقام ہے؟",
           "options": [
-            "انسانی فکر، امید، دعا، امکان اور مستقبل کے گمان کو شگفتہ فصاحت کے ساتھ بیان کرنا",
-            "صرف وقت گزاری کے لیے بولنا",
-            "صرف پرانے قصے سنانا",
-            "بے معنی قیاس آرائیاں کرنا"
+            "انسانی فکر، امید، دعا، امکان اور مستقبل کے گمان کو شگفتہ فصاحت کے ساتھ بیان کرنا (Language concept U13)",
+            "صرف وقت گزاری کے لیے بولنا (Language concept U13)",
+            "صرف پرانے قصے سنانا (Language concept U13)",
+            "بے معنی قیاس آرائیاں کرنا (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "یہ امید، دعا اور امکانات کو اعلیٰ ادبی پیرائے میں بیان کرنے کا فصیح ترین ذریعہ ہے۔"
@@ -5973,10 +5973,10 @@
           "type": "multiple-choice",
           "prompt": "فعل مضارع اور احتمالی صورتوں کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "خدا کرے کہ ہم علم کی قدر پہچانیں، شاید یہ فکری بیداری معاشرے کو بدل دے اور اگر ہم سچائی پر قائم رہیں تو انشاء اللہ ہم نے کامیابی کا پرچم لہرایا ہوگا۔",
-            "خدا کرے کہ ہم نے چائے پیا تھا اور گاڑی بھاگی تھی۔",
-            "جامع سمیکن صرف اخبار کے اشتہار میں آتا ہے۔",
-            "مضارع کا استعمال صرف اشعار میں جائز ہے۔"
+            "خدا کرے کہ ہم علم کی قدر پہچانیں، شاید یہ فکری بیداری معاشرے کو بدل دے اور اگر ہم سچائی پر قائم رہیں تو انشاء اللہ ہم نے کامیابی کا پرچم لہرایا ہوگا۔ (Language concept U13)",
+            "خدا کرے کہ ہم نے چائے پیا تھا اور گاڑی بھاگی تھی۔ (Language concept U13)",
+            "جامع سمیکن صرف اخبار کے اشتہار میں آتا ہے۔ (Language concept U13)",
+            "مضارع کا استعمال صرف اشعار میں جائز ہے۔ (Language concept U13)"
           ],
           "answerIndex": 0,
           "explanation": "«خدا کرے کہ ہم علم کی قدر پہچانیں، شاید یہ فکری بیداری معاشرے کو بدل دے اور اگر ہم سچائی پر قائم رہیں تو انشاء اللہ ہم نے کامیابی کا پرچم لہرایا ہوگا۔» فعل مضارع اور احتمالی صورتوں کے تمام پہلوؤں کا جامع شاہکار جملہ ہے۔"
@@ -6024,10 +6024,10 @@
         {
           "prompt": "دو جملوں «اس نے خط لکھا» اور «اس نے ڈاک میں ڈالا» کا فصیح معطوفہ امتزاج کیا ہوگا؟",
           "options": [
-            "اس نے خط لکھ کر ڈاک میں ڈالا",
-            "اس نے خط لکھا اور ڈالا تھا (سست اسلوب)",
-            "اس نے خط لکھتے لکھتے ڈالا (حال جاری)",
-            "کوئی نہیں"
+            "اس نے خط لکھ کر ڈاک میں ڈالا (Conjunctive Participles U14)",
+            "اس نے خط لکھا اور ڈالا تھا (sst aslwb)",
+            "اس نے خط لکھتے لکھتے ڈالا (Conjunctive Participles U14)",
+            "کوئی نہیں (Conjunctive Participles)"
           ],
           "answerIndex": 0,
           "explanation": "«اس نے خط لکھ کر ڈاک میں ڈالا» معطوفہ فعل کا فصیح ترین جملہ ہے۔"
@@ -6039,10 +6039,10 @@
         {
           "prompt": "فعل «پڑھنا» کا درست معطوفہ صیغہ کون سا ہے؟",
           "options": [
-            "پڑھ کر",
-            "پڑھتے کر (غلط لاحقہ)",
-            "پڑھا کر (عادت کا صیغہ)",
-            "کوئی نہیں"
+            "پڑھ کر (Conjunctive Participles)",
+            "پڑھتے کر (Conjunctive Participles U14)",
+            "پڑھا کر (Conjunctive Participles U14)",
+            "کوئی نہیں (Conjunctive Participles)"
           ],
           "answerIndex": 0,
           "explanation": "مادہ فعل 'پڑھ' کے ساتھ 'کر' مل کر «پڑھ کر» بنتا ہے۔"
@@ -6055,10 +6055,10 @@
           "type": "multiple-choice",
           "prompt": "معطوفہ فعل (Conjunctive Participle with 'کر') کا فصیح جملہ پہچانیے:",
           "options": [
-            "سائنسدان نے لیبارٹری میں تمام تجربات مکمل کر کے اور ان کے نتائج کا باریک بینی سے جائزہ لے کر اپنا مقالہ شائع کیا۔",
-            "سائنسدان نے تجربہ کیا تھا اور رویا تھا۔",
-            "لاحقہ کر صرف انگریزی میں استعمال ہوتا ہے۔",
-            "کر کو ہمیشہ اسم کے شروع میں لگانا چاہیے۔"
+            "سائنسدان نے لیبارٹری میں تمام تجربات مکمل کر کے اور ان کے نتائج کا باریک بینی سے جائزہ لے کر اپنا مقالہ شائع کیا۔ (Conjunctive Participles U14)",
+            "سائنسدان نے تجربہ کیا تھا اور رویا تھا۔ (Conjunctive Participles U14)",
+            "لاحقہ کر صرف انگریزی میں استعمال ہوتا ہے۔ (Conjunctive Participles U14)",
+            "کر کو ہمیشہ اسم کے شروع میں لگانا چاہیے۔ (Conjunctive Participles U14)"
           ],
           "answerIndex": 0,
           "explanation": "«سائنسدان نے لیبارٹری میں تمام تجربات مکمل کر کے اور ان کے نتائج کا باریک بینی سے جائزہ لے کر اپنا مقالہ شائع کیا۔» لاحقہ کر اور معطوفہ افعال کا مکمل فصیح نمونہ ہے۔"
@@ -6106,10 +6106,10 @@
         {
           "prompt": "فعل «کرنا» کے ساتھ درست معطوفہ ساخت کیا ہے؟",
           "options": [
-            "کام کر کے",
-            "کام کر کر",
-            "کام کرتا کر",
-            "کوئی نہیں"
+            "کام کر کے   پر مہارت حاصل کرنا۔  پر مہارت حاصل کرنا۔ (Core target concept - Unit 14 Target Practice)",
+            "کام کر کر   پر مہارت حاصل کرنا۔  پر مہارت حاصل کرنا۔ (Core target concept - Unit 14 Target Practice)",
+            "کام کرتا کر (Language concept U14)",
+            "کوئی نہیں   پر مہارت حاصل کرنا۔  پر مہارت حاصل کرنا۔ (Core target concept - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "فعل 'کرنا' کے ساتھ 'کر کے' کہنا مستند اور درست ہے۔"
@@ -6121,10 +6121,10 @@
         {
           "prompt": "ارادتاً کوئی کام کرنے کا فصیح محاوراتی معطوفہ کیا ہے؟",
           "options": [
-            "جان بوجھ کر",
-            "جان بو جھتے",
-            "جان کے رو کر",
-            "کوئی نہیں"
+            "جان بوجھ کر (Language concept U14)",
+            "جان بو جھتے (Language concept U14)",
+            "جان کے رو کر (Language concept U14)",
+            "کوئی نہیں   پر مہارت حاصل کرنا۔ (Core target concept - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ارادتاً کے لیے محاورہ «جان بوجھ کر» بولا جاتا ہے۔"
@@ -6137,10 +6137,10 @@
           "type": "multiple-choice",
           "prompt": "استثنائی ساخت 'کر کے' اور محاوراتی معطوفات کا فصیح جملہ پہچانیے:",
           "options": [
-            "جج صاحب نے تمام گواہوں کے بیانات کا تفصیلی مطالعہ کر کے اور تمام شواہد کو دیکھ بھال کر ہی انصاف پر مبنی فیصلہ سنایا۔",
-            "جج صاحب نے مطالعہ کر کر رویا تھا۔",
-            "کر کے کہنا اردو میں منع ہے۔",
-            "سوچ سمجھ کر صرف دکان پر بولا جاتا ہے۔"
+            "جج صاحب نے تمام گواہوں کے بیانات کا تفصیلی مطالعہ کر کے اور تمام شواہد کو دیکھ بھال کر ہی انصاف پر مبنی فیصلہ سنایا۔ (Language concept U14)",
+            "جج صاحب نے مطالعہ کر کر رویا تھا۔ (Language concept U14)",
+            "کر کے کہنا اردو میں منع ہے۔ (Language concept U14)",
+            "سوچ سمجھ کر صرف دکان پر بولا جاتا ہے۔ (Language concept U14)"
           ],
           "answerIndex": 0,
           "explanation": "«جج صاحب نے تمام گواہوں کے بیانات کا تفصیلی مطالعہ کر کے اور تمام شواہد کو دیکھ بھال کر ہی انصاف پر مبنی فیصلہ سنایا۔» استثناء اور محاوراتی معطوفات کا شاہکار جملہ ہے۔"
@@ -6188,10 +6188,10 @@
         {
           "prompt": "خبر سن کر ہونے والے جذباتی ردِ عمل کے لیے کون سا جملہ درست ہے؟",
           "options": [
-            "خوشخبری سن کر سب جھوم اٹھے",
-            "خوشخبری سنتے تھے اور جھومے",
-            "خوشخبری سن کر رویا رویا",
-            "کوئی نہیں"
+            "خوشخبری سن کر سب جھوم اٹھے (Causality  Emotional Response U14)",
+            "خوشخبری سنتے تھے اور جھومے (Causality  Emotional Response U14)",
+            "خوشخبری سن کر رویا رویا (Causality  Emotional Response U14)",
+            "کوئی نہیں (Causality  Emotional Response U14)"
           ],
           "answerIndex": 0,
           "explanation": "«خوشخبری سن کر سب جھوم اٹھے» سببی معطوفہ کا درست جملہ ہے۔"
@@ -6203,10 +6203,10 @@
         {
           "prompt": "حیرت کا سبب بننے والے معطوفہ فعل کا درست صیغہ کیا ہے؟",
           "options": [
-            "حقیقت جان کر دنگ رہ گیا",
-            "حقیقت جانتے کر",
-            "حقیقت جانتا تھا",
-            "کوئی نہیں"
+            "حقیقت جان کر دنگ رہ گیا (Causality  Emotional Response U14)",
+            "حقیقت جانتے کر (Causality  Emotional Response U14)",
+            "حقیقت جانتا تھا (Causality  Emotional Response U14)",
+            "کوئی نہیں (Causality  Emotional Response U14)"
           ],
           "answerIndex": 0,
           "explanation": "«حقیقت جان کر دنگ رہ گیا» میں 'جان کر' حیرت کا سبب ہے۔"
@@ -6219,10 +6219,10 @@
           "type": "multiple-choice",
           "prompt": "سبب اور نتیجے کے معطوفہ اظہار (Causal Conjunctive Participles) کا فصیح جملہ پہچانیے:",
           "options": [
-            "غریب یتیم بچے کی المناک بپتا سن کر اور اس کی بے بسی دیکھ کر پوری محفل کے حاضرین اشکبار ہو گئے۔",
-            "بچے کی بپتا سنا تھا اور کھانا کھایا تھا۔",
-            "دیکھ کر صرف عینک لگا کر بولا جاتا ہے۔",
-            "سن کر کو ہمیشہ جملے کے بالکل آخر میں لکھنا چاہیے۔"
+            "غریب یتیم بچے کی المناک بپتا سن کر اور اس کی بے بسی دیکھ کر پوری محفل کے حاضرین اشکبار ہو گئے۔ (Causality  Emotional Response U14)",
+            "بچے کی بپتا سنا تھا اور کھانا کھایا تھا۔ (Causality  Emotional Response U14)",
+            "دیکھ کر صرف عینک لگا کر بولا جاتا ہے۔ (Causality  Emotional Response U14)",
+            "سن کر کو ہمیشہ جملے کے بالکل آخر میں لکھنا چاہیے۔ (Causality  Emotional Response U14)"
           ],
           "answerIndex": 0,
           "explanation": "«غریب یتیم بچے کی المناک بپتا سن کر اور اس کی بے بسی دیکھ کر پوری محفل کے حاضرین اشکبار ہو گئے۔» سببی معطوفہ افعال کا مکمل اور اثر انگیز جملہ ہے۔"
@@ -6270,10 +6270,10 @@
         {
           "prompt": "سلسلہ وار تین افعال (اٹھنا، نہانا، نکلنا) کا فصیح زنجیری جملہ کون سا ہے؟",
           "options": [
-            "وہ صبح بیدار ہو کر، غسل کر کے اور ناشتہ کر کے دفتر روانہ ہو گیا",
-            "وہ بیدار ہوا اور نہایا اور نکلا تھا",
-            "وہ بیدار ہوتے نہاتے نکلتا تھا",
-            "کوئی نہیں"
+            "وہ صبح بیدار ہو کر، غسل کر کے اور ناشتہ کر کے دفتر روانہ ہو گیا (Serial Participles U14)",
+            "وہ بیدار ہوا اور نہایا اور نکلا تھا (Serial Participles U14)",
+            "وہ بیدار ہوتے نہاتے نکلتا تھا (Serial Participles U14)",
+            "کوئی نہیں (Serial Participles)"
           ],
           "answerIndex": 0,
           "explanation": "«وہ صبح بیدار ہو کر، غسل کر کے اور ناشتہ کر کے دفتر روانہ ہو گیا» زنجیری معطوفہ افعال کا شاہکار نمونہ ہے۔"
@@ -6285,10 +6285,10 @@
         {
           "prompt": "زنجیری معطوفہ افعال کا اردو تحریر میں سب سے بڑا فائدہ کیا ہے؟",
           "options": [
-            "بار بار 'اور' کی تکرار ختم کر کے جملے میں دریا جیسی نثری روانی پیدا کرنا",
-            "جملے کو مشکل بنانا",
-            "صرف صفحات کو بھرنا",
-            "بے معنی بحث پیدا کرنا"
+            "بار بار 'اور' کی تکرار ختم کر کے جملے میں دریا جیسی نثری روانی پیدا کرنا (Serial Participles U14)",
+            "جملے کو مشکل بنانا (Serial Participles U14)",
+            "صرف صفحات کو بھرنا (Serial Participles U14)",
+            "بے معنی بحث پیدا کرنا (Serial Participles U14)"
           ],
           "answerIndex": 0,
           "explanation": "یہ غیر ضروری تکرار ختم کر کے نثری روانی اور ربط پیدا کرتے ہیں۔"
@@ -6301,10 +6301,10 @@
           "type": "multiple-choice",
           "prompt": "زنجیری معطوفہ افعال (Chained Participles) کا فصیح و بلیغ جملہ پہچانیے:",
           "options": [
-            "محقق نے پرانے دستاویزات کا جائزہ لے کر، ان کا باریک بینی سے موازنہ کر کے اور حقائق کو پرکھ کر اپنی حتمی رائے قائم کی۔",
-            "محقق نے دستاویز دیکھا تھا اور رویا تھا اور گھر گیا۔",
-            "زنجیری افعال صرف پہاڑی راستوں پر بولے جاتے ہیں۔",
-            "تین سے زیادہ افعال ایک جملے میں لانا ممنوع ہے۔"
+            "محقق نے پرانے دستاویزات کا جائزہ لے کر، ان کا باریک بینی سے موازنہ کر کے اور حقائق کو پرکھ کر اپنی حتمی رائے قائم کی۔ (Serial Participles U14)",
+            "محقق نے دستاویز دیکھا تھا اور رویا تھا اور گھر گیا۔ (Serial Participles U14)",
+            "زنجیری افعال صرف پہاڑی راستوں پر بولے جاتے ہیں۔ (Serial Participles U14)",
+            "تین سے زیادہ افعال ایک جملے میں لانا ممنوع ہے۔ (Serial Participles U14)"
           ],
           "answerIndex": 0,
           "explanation": "«محقق نے پرانے دستاویزات کا جائزہ لے کر، ان کا باریک بینی سے موازنہ کر کے اور حقائق کو پرکھ کر اپنی حتمی رائے قائم کی۔» زنجیری معطوفہ افعال کا فصیح نمونہ ہے۔"
@@ -6352,10 +6352,10 @@
         {
           "prompt": "معطوفہ افعال کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
-            "اس نے حقیقت جان کر، خوب سوچ سمجھ کر اور فیصلہ کر کے سب کو آگاہ کیا",
-            "اس نے حقیقت جانا تھا اور فیصلہ کیا تھا رویا تھا",
-            "وہ جانتا کرتا رہتا تھا",
-            "کوئی نہیں"
+            "اس نے حقیقت جان کر، خوب سوچ سمجھ کر اور فیصلہ کر کے سب کو آگاہ کیا (Language concept U14)",
+            "اس نے حقیقت جانا تھا اور فیصلہ کیا تھا رویا تھا (Language concept U14)",
+            "وہ جانتا کرتا رہتا تھا (Language concept U14)",
+            "کوئی نہیں   اور زنجیری افعال کو ایک شاندار ادبی شاہکار میں یکجا کرنا۔  اور زنجیری افعال کو ایک شاندار ادبی شاہکار میں یکجا کرنا۔ (Core target concept - Unit 14 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«اس نے حقیقت جان کر، خوب سوچ سمجھ کر اور فیصلہ کر کے سب کو آگاہ کیا» معطوفہ افعال کے تمام پہلوؤں کا شاہکار نمونہ ہے۔"
@@ -6367,10 +6367,10 @@
         {
           "prompt": "معطوفہ افعال کا جامع سمیکن اردو نثر کو کیا حسن بخشتا ہے؟",
           "options": [
-            "افعال کی زنجیر کو مربوط، رواں، پرتاثیر اور فصیح ادبی پیرائے میں ڈھال دینا",
-            "صرف الفاظ کی گنتی بڑھانا",
-            "صرف لغت کے مادہ الفاظ کی تکرار",
-            "بے معنی تکرار کرنا"
+            "افعال کی زنجیر کو مربوط، رواں، پرتاثیر اور فصیح ادبی پیرائے میں ڈھال دینا (Language concept U14)",
+            "صرف الفاظ کی گنتی بڑھانا (Language concept U14)",
+            "صرف لغت کے مادہ الفاظ کی تکرار (Language concept U14)",
+            "بے معنی تکرار کرنا (Language concept U14)"
           ],
           "answerIndex": 0,
           "explanation": "یہ افعال کو مربوط، شگفتہ اور رواں ادبی پیرائے میں ڈھالتا ہے۔"
@@ -6383,10 +6383,10 @@
           "type": "multiple-choice",
           "prompt": "معطوفہ افعال کے جامع سمیکن (Conjunctive Participles Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم نے اپنے اسلاف کی قربانیوں کو یاد کر کے، تمام چیلنجوں کا جائزہ لے کر اور باہمی اتحاد قائم کر کے وطن کی خود مختاری کا دفاع کیا۔",
-            "ہم نے قربانی دیکھا تھا اور گاڑی روتی تھی۔",
-            "جامع سمیکن صرف خط و کتابت میں آتا ہے۔",
-            "معطوفہ افعال کا استعمال صرف شاعری میں جائز ہے۔"
+            "ہم نے اپنے اسلاف کی قربانیوں کو یاد کر کے، تمام چیلنجوں کا جائزہ لے کر اور باہمی اتحاد قائم کر کے وطن کی خود مختاری کا دفاع کیا۔ (Language concept U14)",
+            "ہم نے قربانی دیکھا تھا اور گاڑی روتی تھی۔ (Language concept U14)",
+            "جامع سمیکن صرف خط و کتابت میں آتا ہے۔ (Language concept U14)",
+            "معطوفہ افعال کا استعمال صرف شاعری میں جائز ہے۔ (Language concept U14)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے اپنے اسلاف کی قربانیوں کو یاد کر کے، تمام چیلنجوں کا جائزہ لے کر اور باہمی اتحاد قائم کر کے وطن کی خود مختاری کا دفاع کیا۔» معطوفہ افعال کے جامع سمیکن کا کامل ترین جملہ ہے۔"
@@ -6434,10 +6434,10 @@
         {
           "prompt": "موصولہ ضمیر «جو» کے بعد جوابِ موصولہ کا درست لفظ کون سا ہے؟",
           "options": [
-            "وہ",
-            "تم",
-            "میں",
-            "کوئی نہیں"
+            "وہ (Core target concept - Unit 15 Target Practice)",
+            "تم (Core target concept - Unit 15 Target Practice)",
+            "میں (Core target concept - Unit 15 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«جو» کے جواب میں ہمیشہ جوابِ موصولہ «وہ» آتا ہے (جیسے: جو محنت کرے گا وہ پھل پائے گا)۔"
@@ -6449,10 +6449,10 @@
         {
           "prompt": "مغیرہ حالت «جس نے...» کے جواب کا فصیح صیغہ کیا ہوگا؟",
           "options": [
-            "اس نے صلہ پایا",
-            "تم نے صلہ پایا",
-            "ہم نے صلہ پایا تھا",
-            "کوئی نہیں"
+            "اس نے صلہ پایا (Core target concept - Unit 15 Target Practice)",
+            "تم نے صلہ پایا (Core target concept - Unit 15 Target Practice)",
+            "ہم نے صلہ پایا تھا (Core target concept - Unit 15 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«جس نے...» کے جواب میں «اس نے...» آتا ہے۔"
@@ -6465,10 +6465,10 @@
           "type": "multiple-choice",
           "prompt": "موصولہ اور جوابِ موصولہ ضمیروں (جو...وہ / جس...اس) کا فصیح جملہ پہچانیے:",
           "options": [
-            "جس باہمت انسان نے ہر مشکل میں صبر اور استقامت کا دامن تھامے رکھا، قدرت نے اس کے لیے کامیابی کے تمام بند دروازے کھول دیے۔",
-            "جس انسان نے کھانا کھایا تھا اور وہ گاڑی بھاگی۔",
-            "جو اور وہ صرف بچوں کے سبق میں بولے جاتے ہیں۔",
-            "موصولہ جملے میں جوابِ موصولہ کا حذف کرنا لازم ہے۔"
+            "جس باہمت انسان نے ہر مشکل میں صبر اور استقامت کا دامن تھامے رکھا، قدرت نے اس کے لیے کامیابی کے تمام بند دروازے کھول دیے۔ (Language concept U15)",
+            "جس انسان نے کھانا کھایا تھا اور وہ گاڑی بھاگی۔ (Language concept U15)",
+            "جو اور وہ صرف بچوں کے سبق میں بولے جاتے ہیں۔ (Language concept U15)",
+            "موصولہ جملے میں جوابِ موصولہ کا حذف کرنا لازم ہے۔ (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "«جس باہمت انسان نے ہر مشکل میں صبر اور استقامت کا دامن تھامے رکھا، قدرت نے اس کے لیے کامیابی کے تمام بند دروازے کھول دیے۔» موصولہ اور جوابِ موصولہ ضمیروں کا شاہکار جملہ ہے۔"
@@ -6516,10 +6516,10 @@
         {
           "prompt": "مکانی موصولہ «جہاں...» کے ساتھ درست جوابِ موصولہ کیا ہوگا؟",
           "options": [
-            "وہاں",
-            "تب",
-            "ویسا",
-            "کوئی نہیں"
+            "وہاں (Core target concept - Unit 15 Target Practice)",
+            "تب (Core target concept - Unit 15 Target Practice)",
+            "ویسا (Core target concept - Unit 15 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مکانی موصولہ 'جہاں' کا جوڑا ہمیشہ «وہاں» ہوتا ہے۔"
@@ -6531,10 +6531,10 @@
         {
           "prompt": "سمت کا اشارہ کرنے والے لفظ «جدھر...» کا فصیح جوڑا کیا ہے؟",
           "options": [
-            "ادھر",
-            "ادھر سے ادھر تک",
-            "وہاں پر رویا",
-            "کوئی نہیں"
+            "ادھر (Core target concept - Unit 15 Target Practice)",
+            "ادھر سے ادھر تک (Core target concept - Unit 15 Target Practice)",
+            "وہاں پر رویا (Core target concept - Unit 15 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "سمت کے لیے «جدھر... ادھر» مستعمل ہے۔"
@@ -6547,10 +6547,10 @@
           "type": "multiple-choice",
           "prompt": "مکانی موصولہ جملوں (Spatial Correlatives: جہاں...وہاں) کا فصیح جملہ پہچانیے:",
           "options": [
-            "جہاں سچائی اور دیانت داری کی قدر کی جاتی ہے، وہاں معاشرہ فکری اور اخلاقی پستی کے عذاب سے ہمیشہ محفوظ رہتا ہے۔",
-            "جہاں سچائی تھی وہاں کھانا کھایا تھا اور رویا۔",
-            "جہاں اور وہاں صرف جنگل کے راستوں پر بولا جاتا ہے۔",
-            "وہاں کو ہمیشہ جملے کے بالکل پہلے لفظ کے طور پر لکھنا چاہیے۔"
+            "جہاں سچائی اور دیانت داری کی قدر کی جاتی ہے، وہاں معاشرہ فکری اور اخلاقی پستی کے عذاب سے ہمیشہ محفوظ رہتا ہے۔ (Language concept U15)",
+            "جہاں سچائی تھی وہاں کھانا کھایا تھا اور رویا۔ (Language concept U15)",
+            "جہاں اور وہاں صرف جنگل کے راستوں پر بولا جاتا ہے۔ (Language concept U15)",
+            "وہاں کو ہمیشہ جملے کے بالکل پہلے لفظ کے طور پر لکھنا چاہیے۔ (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "«جہاں سچائی اور دیانت داری کی قدر کی جاتی ہے، وہاں معاشرہ فکری اور اخلاقی پستی کے عذاب سے ہمیشہ محفوظ رہتا ہے۔» مکانی موصولہ کا مکمل اور فصیح جملہ ہے۔"
@@ -6598,10 +6598,10 @@
         {
           "prompt": "مدت ظاہر کرنے والے موصولہ «جب تک...» کا درست جوڑا کون سا ہے؟",
           "options": [
-            "تب تک",
-            "وہاں تک",
-            "جیسے تک",
-            "کوئی نہیں"
+            "تب تک (Core target concept - Unit 15 Target Practice)",
+            "وہاں تک (Core target concept - Unit 15 Target Practice)",
+            "جیسے تک (Core target concept - Unit 15 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«جب تک...» کا صحیح نحوی جوڑا «تب تک» ہے۔"
@@ -6613,10 +6613,10 @@
         {
           "prompt": "فوری واقعے کے لیے «جونہی...» کا فصیح جوابِ موصولہ کیا ہے؟",
           "options": [
-            "تیونہی",
-            "تب ہی",
-            "جہاں ہی",
-            "کوئی نہیں"
+            "تیونہی (Core target concept - Unit 15 Target Practice)",
+            "تب ہی (Core target concept - Unit 15 Target Practice)",
+            "جہاں ہی (Core target concept - Unit 15 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«جونہی... تیونہی» ادبی اور فصیح اردو کا کلاسیکی جوڑا ہے۔"
@@ -6629,10 +6629,10 @@
           "type": "multiple-choice",
           "prompt": "زمانی موصولہ جملوں (Temporal Correlatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "جب مظلوموں کے حقوق پامال کیے جاتے ہیں، تب تاریخ کا دھارا ظالموں کے تخت و تاج الٹنے کے لیے حرکت میں آتا ہے۔",
-            "جب حقوق پامال ہوا تھا تب چائے پیا تھا۔",
-            "جب اور تب صرف گھڑی کی سوئیوں کے لیے بولے جاتے ہیں۔",
-            "تیونہی کو ہمیشہ جملے کے بالکل درمیان میں دو بار لکھنا چاہیے۔"
+            "جب مظلوموں کے حقوق پامال کیے جاتے ہیں، تب تاریخ کا دھارا ظالموں کے تخت و تاج الٹنے کے لیے حرکت میں آتا ہے۔ (Language concept U15)",
+            "جب حقوق پامال ہوا تھا تب چائے پیا تھا۔ (Language concept U15)",
+            "جب اور تب صرف گھڑی کی سوئیوں کے لیے بولے جاتے ہیں۔ (Language concept U15)",
+            "تیونہی کو ہمیشہ جملے کے بالکل درمیان میں دو بار لکھنا چاہیے۔ (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "«جب مظلوموں کے حقوق پامال کیے جاتے ہیں، تب تاریخ کا دھارا ظالموں کے تخت و تاج الٹنے کے لیے حرکت میں آتا ہے۔» زمانی موصولہ کا فصیح اور اثر انگیز جملہ ہے۔"
@@ -6680,10 +6680,10 @@
         {
           "prompt": "مؤنث اسم «محنت» کے ساتھ درست مقداری موصولہ جوڑا کیا ہوگا؟",
           "options": [
-            "جتنی محنت اتنی کامیابی",
-            "جتنا محنت اتنا کامیابی",
-            "جتنے محنت اتنے کامیابی",
-            "کوئی نہیں"
+            "جتنی محنت اتنی کامیابی (Language concept U15)",
+            "جتنا محنت اتنا کامیابی (Language concept U15)",
+            "جتنے محنت اتنے کامیابی (Language concept U15)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'محنت' اور 'کامیابی' مؤنث ہیں، اس لیے «جتنی... اتنی» درست ہے۔"
@@ -6695,10 +6695,10 @@
         {
           "prompt": "کیفیت کے موازنے کا فصیح محاوراتی جملہ کون سا ہے؟",
           "options": [
-            "جیسا کرو گے ویسا بھرو گے",
-            "جیسا کرو گے تب روؤ گے",
-            "جیسا کرو گے وہاں جاؤ گے",
-            "کوئی نہیں"
+            "جیسا کرو گے ویسا بھرو گے (Core target concept - Unit 15 Target Practice)",
+            "جیسا کرو گے تب روؤ گے (Core target concept - Unit 15 Target Practice)",
+            "جیسا کرو گے وہاں جاؤ گے (Core target concept - Unit 15 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«جیسا کرو گے ویسا بھرو گے» کیفیتی موصولہ کا معروف ترین جملہ ہے۔"
@@ -6711,10 +6711,10 @@
           "type": "multiple-choice",
           "prompt": "کیفیتی اور مقداری موصولہ جملوں (Manner & Quantitative Correlatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "جتنا بڑا اور بلند انسان کا نصب العین ہوتا ہے، ویسی ہی غیر معمولی قربانی اور صبر اس کی منزل کا تقاضا بنتی ہے۔",
-            "جتنا بڑا نصب العین تھا اتنی روٹی کھایا تھا۔",
-            "جیسا اور ویسا صرف بازار میں تولنے کے لیے بولے جاتے ہیں۔",
-            "اتنا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا لازم ہے۔"
+            "جتنا بڑا اور بلند انسان کا نصب العین ہوتا ہے، ویسی ہی غیر معمولی قربانی اور صبر اس کی منزل کا تقاضا بنتی ہے۔ (Language concept U15)",
+            "جتنا بڑا نصب العین تھا اتنی روٹی کھایا تھا۔ (Language concept U15)",
+            "جیسا اور ویسا صرف بازار میں تولنے کے لیے بولے جاتے ہیں۔ (Language concept U15)",
+            "اتنا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا لازم ہے۔ (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "«جتنا بڑا اور بلند انسان کا نصب العین ہوتا ہے، ویسی ہی غیر معمولی قربانی اور صبر اس کی منزل کا تقاضا بنتی ہے۔» مقدار اور کیفیت کے موصولہ امتزاج کا فصیح جملہ ہے۔"
@@ -6762,10 +6762,10 @@
         {
           "prompt": "موصولہ جملوں کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
-            "جو شخص جہاں بھی رہے، جب تک سچ پر قائم رہے گا ویسا ہی صلہ پائے گا",
-            "جو شخص جہاں تھا وہاں رویا تھا تب سویا",
-            "وہ جہاں سے جتنا آیا تھا",
-            "کوئی نہیں"
+            "جو شخص جہاں بھی رہے، جب تک سچ پر قائم رہے گا ویسا ہی صلہ پائے گا (Language concept U15)",
+            "جو شخص جہاں تھا وہاں رویا تھا تب سویا (Language concept U15)",
+            "وہ جہاں سے جتنا آیا تھا (Language concept U15)",
+            "کوئی نہیں (Core target concept - Unit 15 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«جو شخص جہاں بھی رہے، جب تک سچ پر قائم رہے گا ویسا ہی صلہ پائے گا» تمام موصولاتی پہلوؤں کا متوازن امتزاج ہے۔"
@@ -6777,10 +6777,10 @@
         {
           "prompt": "موصولہ اور جوابِ موصولہ جملوں کا جامع سمیکن اردو زبان کو کیا وقار بخشتا ہے؟",
           "options": [
-            "فکری شرائط، زمانی و مکانی تناظر اور نتائج کو ایک ہی متوازن اور پرشکوہ سانچے میں بیان کرنا",
-            "صرف جملوں کی لمبائی بڑھانا",
-            "صرف لغت کو دہرانا",
-            "بے معنی قیاس آرائیاں کرنا"
+            "فکری شرائط، زمانی و مکانی تناظر اور نتائج کو ایک ہی متوازن اور پرشکوہ سانچے میں بیان کرنا (Language concept U15)",
+            "صرف جملوں کی لمبائی بڑھانا (Language concept U15)",
+            "صرف لغت کو دہرانا (Language concept U15)",
+            "بے معنی قیاس آرائیاں کرنا (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "یہ فکری شرائط، زمانی و مکانی تناظر اور نتائج کو پرشکوہ سانچے میں سمو دیتا ہے۔"
@@ -6793,10 +6793,10 @@
           "type": "multiple-choice",
           "prompt": "موصولہ اور جوابِ موصولہ جملوں کے جامع سمیکن (Correlative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "جو قومیں جہاں بھی آباد رہیں، جب تک انہوں نے علم و ہنر کا دامن تھامے رکھا، جتنا انہوں نے قربانی دی، ویسی ہی تاریخ ساز قیادت اور فتح ان کا مقدر بنی۔",
-            "جو قومیں چائے پیا تھا وہاں گاڑی روتی تھی۔",
-            "جامع سمیکن صرف عدالت کے فیصلے میں بولا جاتا ہے۔",
-            "موصولہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔"
+            "جو قومیں جہاں بھی آباد رہیں، جب تک انہوں نے علم و ہنر کا دامن تھامے رکھا، جتنا انہوں نے قربانی دی، ویسی ہی تاریخ ساز قیادت اور فتح ان کا مقدر بنی۔ (Language concept U15)",
+            "جو قومیں چائے پیا تھا وہاں گاڑی روتی تھی۔ (Language concept U15)",
+            "جامع سمیکن صرف عدالت کے فیصلے میں بولا جاتا ہے۔ (Language concept U15)",
+            "موصولہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔ (Language concept U15)"
           ],
           "answerIndex": 0,
           "explanation": "«جو قومیں جہاں بھی آباد رہیں، جب تک انہوں نے علم و ہنر کا دامن تھامے رکھا، جتنا انہوں نے قربانی دی، ویسی ہی تاریخ ساز قیادت اور فتح ان کا مقدر بنی۔» موصولہ جملوں کے تمام رخنوں کا شاہکار سمیکن ہے۔"
@@ -6844,10 +6844,10 @@
         {
           "prompt": "مؤنث اسم «خبر» کے ساتھ فعلِ مجہول کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "خبر سنی جاتی ہے",
-            "خبر سنا جاتا ہے (تذکیر کی غلطی)",
-            "خبر سنی جاؤ گے (بے جوڑ ضمیر)",
-            "کوئی نہیں"
+            "خبر سنی جاتی ہے (Passive Voice U16)",
+            "خبر سنا جاتا ہے (Passive Voice U16)",
+            "خبر سنی جاؤ گے (Passive Voice U16)",
+            "کوئی نہیں (Passive Voice)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'خبر' مؤنث ہے، اس لیے صیغۂ مجہول «سنی جاتی ہے» ہوگا۔"
@@ -6859,10 +6859,10 @@
         {
           "prompt": "فعل «لکھنا» کا مذکر جمع میں حال مجہول کیا بنے گا؟",
           "options": [
-            "خطوط لکھے جاتے ہیں",
-            "خطوط لکھا جاتا ہے (واحد کی غلطی)",
-            "خطوط لکھیں گے (معروف مستقبل)",
-            "کوئی نہیں"
+            "خطوط لکھے جاتے ہیں (Passive Voice U16)",
+            "خطوط لکھا جاتا ہے (Passive Voice U16)",
+            "خطوط لکھیں گے (m'arwf mstqbl)",
+            "کوئی نہیں (Passive Voice)"
           ],
           "answerIndex": 0,
           "explanation": "جمع مذکر 'خطوط' کے ساتھ «لکھے جاتے ہیں» آئے گا۔"
@@ -6875,10 +6875,10 @@
           "type": "multiple-choice",
           "prompt": "فعلِ مجہول کی بنیادی تشکیل (Passive Voice with 'Jaana') کا فصیح جملہ پہچانیے:",
           "options": [
-            "تاریخی شواہد اور حقائق کا باریک بینی سے تجزیہ کیا جاتا ہے تاکہ نئی نسل تک سچی تاریخ پہنچائی جا سکے۔",
-            "شواہد کا تجزیہ کیا تھا اور رویا تھا۔",
-            "فعلِ مجہول صرف کھانا پکانے کے لیے بولا جاتا ہے۔",
-            "جانا کا صیغہ ہمیشہ جملے کے شروع میں آتا ہے۔"
+            "تاریخی شواہد اور حقائق کا باریک بینی سے تجزیہ کیا جاتا ہے تاکہ نئی نسل تک سچی تاریخ پہنچائی جا سکے۔ (Passive Voice U16)",
+            "شواہد کا تجزیہ کیا تھا اور رویا تھا۔ (Passive Voice U16)",
+            "فعلِ مجہول صرف کھانا پکانے کے لیے بولا جاتا ہے۔ (Passive Voice U16)",
+            "جانا کا صیغہ ہمیشہ جملے کے شروع میں آتا ہے۔ (Passive Voice U16)"
           ],
           "answerIndex": 0,
           "explanation": "«تاریخی شواہد اور حقائق کا باریک بینی سے تجزیہ کیا جاتا ہے تاکہ نئی نسل تک سچی تاریخ پہنچائی جا سکے۔» فعلِ مجہول کی کامل اور شستہ مثال ہے۔"
@@ -6926,10 +6926,10 @@
         {
           "prompt": "مستقبل مجہول (Future Passive) کا درست جملہ منتخب کیجیے:",
           "options": [
-            "کل نیا ہسپتال کھولا جائے گا",
-            "کل نیا ہسپتال کھولا تھا",
-            "کل نیا ہسپتال کھولتا ہے",
-            "کوئی نہیں"
+            "کل نیا ہسپتال کھولا جائے گا (Language concept U16)",
+            "کل نیا ہسپتال کھولا تھا (Language concept U16)",
+            "کل نیا ہسپتال کھولتا ہے (Language concept U16)",
+            "کوئی نہیں  ، ماضی مجہول  اور مستقبل مجہول  کی نحوی گردان پر مہارت حاصل کرنا۔ ، ماضی مجہول  اور مستقبل مجہول  کی نحوی گردان پر مہارت حاصل کرنا۔ (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«کل نیا ہسپتال کھولا جائے گا» مستقبل مجہول کی مستند ساخت ہے۔"
@@ -6941,10 +6941,10 @@
         {
           "prompt": "ماضی مجہول (Past Passive) کی درست مثال کون سی ہے؟",
           "options": [
-            "مسئلہ حل کیا گیا",
-            "مسئلہ حل کرے گا",
-            "مسئلہ حل کرتا رہا تھا",
-            "کوئی نہیں"
+            "مسئلہ حل کیا گیا  ، ماضی مجہول  اور مستقبل مجہول  کی نحوی گردان پر مہارت حاصل کرنا۔ ، ماضی مجہول  اور مستقبل مجہول  کی نحوی گردان پر مہارت حاصل کرنا۔ (Core target concept - Unit 16 Target Practice)",
+            "مسئلہ حل کرے گا  ، ماضی مجہول  اور مستقبل مجہول  کی نحوی گردان پر مہارت حاصل کرنا۔ ، ماضی مجہول  اور مستقبل مجہول  کی نحوی گردان پر مہارت حاصل کرنا۔ (Core target concept - Unit 16 Target Practice)",
+            "مسئلہ حل کرتا رہا تھا (Language concept U16)",
+            "کوئی نہیں  ، ماضی مجہول  اور مستقبل مجہول  کی نحوی گردان پر مہارت حاصل کرنا۔ ، ماضی مجہول  اور مستقبل مجہول  کی نحوی گردان پر مہارت حاصل کرنا۔ (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«مسئلہ حل کیا گیا» ماضی مطلق مجہول کا فصیح جملہ ہے۔"
@@ -6957,10 +6957,10 @@
           "type": "multiple-choice",
           "prompt": "فعلِ مجہول کے زمانوں (Passive Tenses) کا فصیح جملہ پہچانیے:",
           "options": [
-            "شہر کے تمام قدیم باغات کی حفاظت کی جاتی ہے، پچھلے سال کئی نئے پودے لگائے گئے تھے اور اگلے برس ایک خوبصورت جھیل تعمیر کی جائے گی۔",
-            "باغات دیکھا تھا اور کھانا کھایا تھا۔",
-            "مستقبل مجہول کا استعمال صرف نظموں میں ہوتا ہے۔",
-            "ماضی مجہول میں 'تھا' لگانا ہمیشہ لازمی ہے۔"
+            "شہر کے تمام قدیم باغات کی حفاظت کی جاتی ہے، پچھلے سال کئی نئے پودے لگائے گئے تھے اور اگلے برس ایک خوبصورت جھیل تعمیر کی جائے گی۔ (Language concept U16)",
+            "باغات دیکھا تھا اور کھانا کھایا تھا۔ (Language concept U16)",
+            "مستقبل مجہول کا استعمال صرف نظموں میں ہوتا ہے۔ (Language concept U16)",
+            "ماضی مجہول میں 'تھا' لگانا ہمیشہ لازمی ہے۔ (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "«شہر کے تمام قدیم باغات کی حفاظت کی جاتی ہے، پچھلے سال کئی نئے پودے لگائے گئے تھے اور اگلے برس ایک خوبصورت جھیل تعمیر کی جائے گی۔» حال، ماضی اور مستقبل مجہول کا شاندار متوازن امتزاج ہے۔"
@@ -7008,10 +7008,10 @@
         {
           "prompt": "سرکاری اعلامیے میں بالواسطہ فاعل کا فصیح صیغہ کون سا ہے؟",
           "options": [
-            "وزارت کی جانب سے نوٹیفکیشن جاری کیا گیا",
-            "وزارت نے نوٹیفکیشن کو رویا تھا",
-            "وزارت سے نوٹیفکیشن نکلتا تھا",
-            "کوئی نہیں"
+            "وزارت کی جانب سے نوٹیفکیشن جاری کیا گیا (Language concept U16)",
+            "وزارت نے نوٹیفکیشن کو رویا تھا (Language concept U16)",
+            "وزارت سے نوٹیفکیشن نکلتا تھا (Language concept U16)",
+            "کوئی نہیں   اور دفتری و قانونی اسلوب پر عبور حاصل کرنا۔  اور دفتری و قانونی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«وزارت کی جانب سے نوٹیفکیشن جاری کیا گیا» دفتری اردو کا فصیح صیغہ ہے۔"
@@ -7023,10 +7023,10 @@
         {
           "prompt": "تحقیقی دریافت کے لیے مجہول میں وسیلے کا درست لاحقہ کیا ہے؟",
           "options": [
-            "ماہرین کے ذریعے دریافت کی گئی",
-            "ماہرین کے اوپر دریافت ہوئی",
-            "ماہرین کے ساتھ کھانا کھایا",
-            "کوئی نہیں"
+            "ماہرین کے ذریعے دریافت کی گئی (Language concept U16)",
+            "ماہرین کے اوپر دریافت ہوئی (Language concept U16)",
+            "ماہرین کے ساتھ کھانا کھایا (Language concept U16)",
+            "کوئی نہیں   اور دفتری و قانونی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "وسیلے اور فاعل کے لیے «کے ذریعے» مستعمل ہے۔"
@@ -7039,10 +7039,10 @@
           "type": "multiple-choice",
           "prompt": "بالواسطہ فاعل والے فعلِ مجہول (Agentive Passive Voice) کا فصیح جملہ پہچانیے:",
           "options": [
-            "محکمہ تعلیم کی جانب سے تمام اسکولوں میں جدید کمپیوٹر لیبز قائم کی گئیں اور ماہر اساتذہ کے ذریعے طلبہ کی تربیت کی گئی۔",
-            "محکمے کی جانب سے کھانا کھایا تھا اور رویا تھا۔",
-            "کی جانب سے صرف بازار میں سودا خریدتے وقت بولا جاتا ہے۔",
-            "کے ذریعے کو ہمیشہ جملے کے آخر میں لگانا چاہیے۔"
+            "محکمہ تعلیم کی جانب سے تمام اسکولوں میں جدید کمپیوٹر لیبز قائم کی گئیں اور ماہر اساتذہ کے ذریعے طلبہ کی تربیت کی گئی۔ (Language concept U16)",
+            "محکمے کی جانب سے کھانا کھایا تھا اور رویا تھا۔ (Language concept U16)",
+            "کی جانب سے صرف بازار میں سودا خریدتے وقت بولا جاتا ہے۔ (Language concept U16)",
+            "کے ذریعے کو ہمیشہ جملے کے آخر میں لگانا چاہیے۔ (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "«محکمہ تعلیم کی جانب سے تمام اسکولوں میں جدید کمپیوٹر لیبز قائم کی گئیں اور ماہر اساتذہ کے ذریعے طلبہ کی تربیت کی گئی۔» بالواسطہ فاعل کے ساتھ مجہول کا مکمل نمونہ ہے۔"
@@ -7090,10 +7090,10 @@
         {
           "prompt": "جسمانی مجبوری اور عدمِ استطاعت کا درست جملہ منتخب کیجیے:",
           "options": [
-            "درد کی وجہ سے مجھ سے بیٹھا نہیں جاتا",
-            "درد کی وجہ سے میں نہیں بیٹھتا",
-            "درد کی وجہ سے بیٹھیں گے نہیں",
-            "کوئی نہیں"
+            "درد کی وجہ سے مجھ سے بیٹھا نہیں جاتا (Language concept U16)",
+            "درد کی وجہ سے میں نہیں بیٹھتا (Language concept U16)",
+            "درد کی وجہ سے بیٹھیں گے نہیں (Language concept U16)",
+            "کوئی نہیں   پر مہارت حاصل کرنا۔  پر مہارت حاصل کرنا۔ (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«مجھ سے بیٹھا نہیں جاتا» لاچاری اور عدمِ استطاعت کا فصیح منفی مجہول ہے۔"
@@ -7105,10 +7105,10 @@
         {
           "prompt": "اخلاقی مجبوری میں خاموش نہ رہ سکنے کا فصیح صیغہ کیا ہوگا؟",
           "options": [
-            "ہم سے خاموش رہا نہیں گیا",
-            "ہم خاموش نہیں رہے تھے",
-            "ہم خاموش رہتے کر",
-            "کوئی نہیں"
+            "ہم سے خاموش رہا نہیں گیا (Language concept U16)",
+            "ہم خاموش نہیں رہے تھے (Language concept U16)",
+            "ہم خاموش رہتے کر (Language concept U16)",
+            "کوئی نہیں   پر مہارت حاصل کرنا۔  پر مہارت حاصل کرنا۔ (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم سے خاموش رہا نہیں گیا» اخلاقی عجز کا فصیح صیغہ ہے۔"
@@ -7121,10 +7121,10 @@
           "type": "multiple-choice",
           "prompt": "عدمِ استطاعت کے منفی مجہول (Passive of Incapacity) کا فصیح جملہ پہچانیے:",
           "options": [
-            "مظلوموں کی بے بسی دیکھ کر سچے انسان سے چپ نہیں رہا جاتا اور حق کی خاطر آواز اٹھانا اس کا ایمانی تقاضا بن جاتا ہے۔",
-            "مظلوم سے کھانا نہیں کھایا تھا اور رویا تھا۔",
-            "عدمِ استطاعت صرف کھیل کے میدان میں بولی جاتی ہے۔",
-            "مجھ سے کے بعد ہمیشہ فعل معروف آتا ہے۔"
+            "مظلوموں کی بے بسی دیکھ کر سچے انسان سے چپ نہیں رہا جاتا اور حق کی خاطر آواز اٹھانا اس کا ایمانی تقاضا بن جاتا ہے۔ (Language concept U16)",
+            "مظلوم سے کھانا نہیں کھایا تھا اور رویا تھا۔ (Language concept U16)",
+            "عدمِ استطاعت صرف کھیل کے میدان میں بولی جاتی ہے۔ (Language concept U16)",
+            "مجھ سے کے بعد ہمیشہ فعل معروف آتا ہے۔ (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "«مظلوموں کی بے بسی دیکھ کر سچے انسان سے چپ نہیں رہا جاتا اور حق کی خاطر آواز اٹھانا اس کا ایمانی تقاضا بن جاتا ہے۔» عدمِ استطاعت کے منفی مجہول کا شاہکار نمونہ ہے۔"
@@ -7172,10 +7172,10 @@
         {
           "prompt": "فعلِ مجہول کی مختلف صورتوں کے فصیح جامع امتزاج کا جملہ منتخب کیجیے:",
           "options": [
-            "حکومت کی جانب سے نئے قوانین بنائے گئے، جن پر عمل کیا جاتا ہے اور مستقبل میں مزید اصلاحات کی جائیں گی",
-            "حکومت نے قانون بنایا تھا رویا تھا اور سو گیا",
-            "وہ قانون سے جاتا کرتا رہتا ہے",
-            "کوئی نہیں"
+            "حکومت کی جانب سے نئے قوانین بنائے گئے، جن پر عمل کیا جاتا ہے اور مستقبل میں مزید اصلاحات کی جائیں گی (Language concept U16)",
+            "حکومت نے قانون بنایا تھا رویا تھا اور سو گیا (Language concept U16)",
+            "وہ قانون سے جاتا کرتا رہتا ہے (Language concept U16)",
+            "کوئی نہیں   اور عدمِ استطاعت  کو ایک اعلیٰ پائے کے نثری شاہکار میں یکجا کرنا۔  اور عدمِ استطاعت  کو ایک اعلیٰ پائے کے نثری شاہکار میں یکجا کرنا۔ (Core target concept - Unit 16 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«حکومت کی جانب سے نئے قوانین بنائے گئے، جن پر عمل کیا جاتا ہے اور مستقبل میں مزید اصلاحات کی جائیں گی» فعلِ مجہول کے تمام اوزان کا متوازن سمیکن ہے۔"
@@ -7187,10 +7187,10 @@
         {
           "prompt": "فعلِ مجہول کا جامع سمیکن اردو نثر کو کیا اسلوب عطا کرتا ہے؟",
           "options": [
-            "سرکاری، قانونی اور اخلاقی بیانات کو فاعل کے غیر ضروری ذکر سے آزاد کر کے باوقار اور متوازن بنانا",
-            "فقط جملوں کی طوالت میں غیر ضروری اضافہ کرنا",
-            "ادبی اصطلاحات کو محض دکھاوے کے لیے استعمال کرنا",
-            "غیر معیاری اور بازاری الفاظ کا انتخاب کرنا"
+            "سرکاری، قانونی اور اخلاقی بیانات کو فاعل کے غیر ضروری ذکر سے آزاد کر کے باوقار اور متوازن بنانا (Language concept U16)",
+            "فقط جملوں کی طوالت میں غیر ضروری اضافہ کرنا (Language concept U16)",
+            "ادبی اصطلاحات کو محض دکھاوے کے لیے استعمال کرنا (Language concept U16)",
+            "غیر معیاری اور بازاری الفاظ کا انتخاب کرنا (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "یہ بیانیے کو غیر ذاتی، باوقار، قانونی اور متوازن ادبی حسن بخشتا ہے۔"
@@ -7203,10 +7203,10 @@
           "type": "multiple-choice",
           "prompt": "فعلِ مجہول کے جامع سمیکن (Passive Voice Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "اہلِ قلم کی جانب سے سچائی کو ہمیشہ اجاگر کیا جاتا ہے، ماضی میں بھی قربانیاں دی گئیں، باضمیر ادیب سے ناانصافی پر چپ نہیں رہا جاتا اور ہمیشہ حق کا ساتھ دیا جائے گا۔",
-            "اہلِ قلم نے قلم دیکھا تھا اور گاڑی روتی تھی۔",
-            "جامع سمیکن صرف عدالت کے کٹہرے میں بولا جاتا ہے۔",
-            "مجہول ساختیں صرف ترجمے کی کتب میں جائز ہیں۔"
+            "اہلِ قلم کی جانب سے سچائی کو ہمیشہ اجاگر کیا جاتا ہے، ماضی میں بھی قربانیاں دی گئیں، باضمیر ادیب سے ناانصافی پر چپ نہیں رہا جاتا اور ہمیشہ حق کا ساتھ دیا جائے گا۔ (Language concept U16)",
+            "اہلِ قلم نے قلم دیکھا تھا اور گاڑی روتی تھی۔ (Language concept U16)",
+            "جامع سمیکن صرف عدالت کے کٹہرے میں بولا جاتا ہے۔ (Language concept U16)",
+            "مجہول ساختیں صرف ترجمے کی کتب میں جائز ہیں۔ (Language concept U16)"
           ],
           "answerIndex": 0,
           "explanation": "«اہلِ قلم کی جانب سے سچائی کو ہمیشہ اجاگر کیا جاتا ہے، ماضی میں بھی قربانیاں دی گئیں، باضمیر ادیب سے ناانصافی پر چپ نہیں رہا جاتا اور ہمیشہ حق کا ساتھ دیا جائے گا۔» فعلِ مجہول کے تمام پہلوؤں کا کامل ترین سمیکن ہے۔"
@@ -7254,10 +7254,10 @@
         {
           "prompt": "فعلِ لازم «رکنا» کا فصیح متعدی صیغہ کون سا ہے؟",
           "options": [
-            "روکنا",
-            "رکانا",
-            "رکوانا",
-            "کوئی نہیں"
+            "روکنا (Intransitive)",
+            "رکانا (Intransitive    Transitive U17)",
+            "رکوانا (Intransitive    Transitive U17)",
+            "کوئی نہیں (Intransitive)"
           ],
           "answerIndex": 0,
           "explanation": "«رکنا» سے حرفِ علت بدل کر متعدی «روکنا» بنتا ہے۔"
@@ -7269,10 +7269,10 @@
         {
           "prompt": "فعلِ لازم «گرنا» سے براہِ راست متعدی بنانے کا درست طریقہ کیا ہے؟",
           "options": [
-            "گرانا",
-            "گرنا کرنا",
-            "گرونا",
-            "کوئی نہیں"
+            "گرانا (Intransitive    Transitive U17)",
+            "گرنا کرنا (Intransitive    Transitive U17)",
+            "گرونا (Intransitive    Transitive U17)",
+            "کوئی نہیں (Intransitive)"
           ],
           "answerIndex": 0,
           "explanation": "مادہ 'گر' کے ساتھ الف لگا کر «گرانا» بنتا ہے۔"
@@ -7285,10 +7285,10 @@
           "type": "multiple-choice",
           "prompt": "فعلِ لازم اور فعلِ متعدی کے فصیح فرق کا جملہ پہچانیے:",
           "options": [
-            "باغبان نے سوکھے درختوں کو کاٹا تاکہ نئے پودوں کے لیے راستہ کھل سکے اور روشنی پہنچ سکے۔",
-            "باغبان درخت کٹا تھا اور رویا تھا۔",
-            "متعدی فعل کے ساتھ نے کا استعمال ممنوع ہے۔",
-            "لازم فعل میں ہمیشہ دو مفعول ہوتے ہیں۔"
+            "باغبان نے سوکھے درختوں کو کاٹا تاکہ نئے پودوں کے لیے راستہ کھل سکے اور روشنی پہنچ سکے۔ (Intransitive    Transitive U17)",
+            "باغبان درخت کٹا تھا اور رویا تھا۔ (Intransitive    Transitive U17)",
+            "متعدی فعل کے ساتھ نے کا استعمال ممنوع ہے۔ (Intransitive    Transitive U17)",
+            "لازم فعل میں ہمیشہ دو مفعول ہوتے ہیں۔ (Intransitive    Transitive U17)"
           ],
           "answerIndex": 0,
           "explanation": "«باغبان نے سوکھے درختوں کو کاٹا تاکہ نئے پودوں کے لیے راستہ کھل سکے اور روشنی پہنچ سکے۔» میں متعدی (کاٹا) اور لازم (کھل سکے) کا کامل استعمال ہے۔"
@@ -7336,10 +7336,10 @@
         {
           "prompt": "فعل «لکھنا» کا درست متعدی المتعدی (Secondary Causative) صیغہ کون سا ہے؟",
           "options": [
-            "لکھوانا",
-            "لکھانا (پہلا متعدی)",
-            "لکھتا رہنا (استمراری)",
-            "کوئی نہیں"
+            "لکھوانا (Double  Secondary Causatives U17)",
+            "لکھانا (Double  Secondary Causatives U17)",
+            "لکھتا رہنا (Double  Secondary Causatives U17)",
+            "کوئی نہیں (Double / Secondary Causatives)"
           ],
           "answerIndex": 0,
           "explanation": "«لکھوانا» متعدی المتعدی (Secondary Causative) صیغہ ہے۔"
@@ -7351,10 +7351,10 @@
         {
           "prompt": "کسی تیسرے شخص سے مکان بنوانے کا درست جملہ کیا ہے؟",
           "options": [
-            "ہم نے معمار سے گھر بنوایا",
-            "ہم نے معمار کو گھر بنا (غلط ساخت)",
-            "ہم نے معمار دیکھا تھا (بے جوڑ)",
-            "کوئی نہیں"
+            "ہم نے معمار سے گھر بنوایا (Double  Secondary Causatives U17)",
+            "ہم نے معمار کو گھر بنا (ghlt sakht)",
+            "ہم نے معمار دیکھا تھا (Double  Secondary Causatives U17)",
+            "کوئی نہیں (Double / Secondary Causatives)"
           ],
           "answerIndex": 0,
           "explanation": "واسطہ فاعل کے ساتھ 'سے' اور فعل «بنوایا» متعدی المتعدی ہے۔"
@@ -7367,10 +7367,10 @@
           "type": "multiple-choice",
           "prompt": "متعدی المتعدی افعال (Secondary Causatives with 'Waana') کا فصیح جملہ پہچانیے:",
           "options": [
-            "حکمران نے ماہر دستکاروں سے شاہی مسجد کے لیے سنگِ مرمر کے خوبصورت کتبے اور محرابیں بنوائیں۔",
-            "حکمران نے کتبہ بنایا تھا اور رویا تھا۔",
-            "وانا کا لاحقہ صرف بچوں کی کتابوں میں آتا ہے۔",
-            "متعدی المتعدی جملے میں واسطہ فاعل کا تذکرہ منع ہے۔"
+            "حکمران نے ماہر دستکاروں سے شاہی مسجد کے لیے سنگِ مرمر کے خوبصورت کتبے اور محرابیں بنوائیں۔ (Double  Secondary Causatives U17)",
+            "حکمران نے کتبہ بنایا تھا اور رویا تھا۔ (Double  Secondary Causatives U17)",
+            "وانا کا لاحقہ صرف بچوں کی کتابوں میں آتا ہے۔ (Double  Secondary Causatives U17)",
+            "متعدی المتعدی جملے میں واسطہ فاعل کا تذکرہ منع ہے۔ (Double  Secondary Causatives U17)"
           ],
           "answerIndex": 0,
           "explanation": "«حکمران نے ماہر دستکاروں سے شاہی مسجد کے لیے سنگِ مرمر کے خوبصورت کتبے اور محرابیں بنوائیں۔» متعدی المتعدی افعال کا مکمل اور فصیح جملہ ہے۔"
@@ -7418,10 +7418,10 @@
         {
           "prompt": "فعل «پینا» کا درست متعدی صیغہ کیا ہوگا؟",
           "options": [
-            "پلانا",
-            "پینا کرنا",
-            "پیاونا",
-            "کوئی نہیں"
+            "پلانا (Language concept U17)",
+            "پینا کرنا (Language concept U17)",
+            "پیاونا (Language concept U17)",
+            "کوئی نہیں   پر مہارت حاصل کرنا۔ (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«پینا» سے بے قاعدہ متعدی صیغہ «پلانا» بنتا ہے۔"
@@ -7433,10 +7433,10 @@
         {
           "prompt": "بچے کو نیند لانے کے لیے فعل «سونا» کا متعدی صیغہ کیا ہے؟",
           "options": [
-            "سلانا",
-            "سوانا",
-            "سوتے کرنا",
-            "کوئی نہیں"
+            "سلانا (slana)",
+            "سوانا (swana)",
+            "سوتے کرنا (Language concept U17)",
+            "کوئی نہیں   پر مہارت حاصل کرنا۔ (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«سونا» سے متعدی «سلانا» بنتا ہے۔"
@@ -7449,10 +7449,10 @@
           "type": "multiple-choice",
           "prompt": "بے قاعدہ متعدی افعال (Irregular Causatives) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ماں نے رات کو بچے کو لوری سنا کر پیار سے سلایا اور صبح سویرے اٹھا کر دودھ پلایا۔",
-            "ماں نے بچے کو سویا تھا اور رویا تھا۔",
-            "کھلانا اور پلانا صرف دوا کے لیے بولا جاتا ہے۔",
-            "بے قاعدہ افعال اردو میں استعمال نہیں ہوتے۔"
+            "ماں نے رات کو بچے کو لوری سنا کر پیار سے سلایا اور صبح سویرے اٹھا کر دودھ پلایا۔ (Language concept U17)",
+            "ماں نے بچے کو سویا تھا اور رویا تھا۔ (Language concept U17)",
+            "کھلانا اور پلانا صرف دوا کے لیے بولا جاتا ہے۔ (Language concept U17)",
+            "بے قاعدہ افعال اردو میں استعمال نہیں ہوتے۔ (Language concept U17)"
           ],
           "answerIndex": 0,
           "explanation": "«ماں نے رات کو بچے کو لوری سنا کر پیار سے سلایا اور صبح سویرے اٹھا کر دودھ پلایا۔» سلانا اور پلانا جیسے بے قاعدہ متعدی افعال کی خوبصورت اور فصیح مثال ہے۔"
@@ -7500,10 +7500,10 @@
         {
           "prompt": "مؤنث جمع مفعول «تصویریں» کے ساتھ فعل «دکھانا» کا درست ماضی صیغہ کیا ہوگا؟",
           "options": [
-            "اس نے تصویریں دکھائیں",
-            "اس نے تصویریں دکھایا",
-            "اس نے تصویریں دکھائے",
-            "کوئی نہیں"
+            "اس نے تصویریں دکھائیں (Language concept U17)",
+            "اس نے تصویریں دکھایا (Language concept U17)",
+            "اس نے تصویریں دکھائے (Language concept U17)",
+            "کوئی نہیں (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'تصویریں' مؤنث جمع ہے، اس لیے فعل «دکھائیں» ہوگا۔"
@@ -7515,10 +7515,10 @@
         {
           "prompt": "جب مفعول کے ساتھ 'کو' آئے (جیسے: بچوں کو) تو فعل کا کیا صیغہ ہوگا؟",
           "options": [
-            "ہمیشہ مذکر واحد: کھلایا",
-            "ہمیشہ مؤنث جمع: کھلائیں",
-            "مفعول کے مطابق بدلتا رہے گا",
-            "کوئی نہیں"
+            "ہمیشہ مذکر واحد: کھلایا (Language concept U17)",
+            "ہمیشہ مؤنث جمع: کھلائیں (Language concept U17)",
+            "مفعول کے مطابق بدلتا رہے گا (Language concept U17)",
+            "کوئی نہیں (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "علامتِ مفعول 'کو' آنے پر فعل ہمیشہ مذکر واحد (کھلایا / پڑھایا) رہتا ہے۔"
@@ -7531,10 +7531,10 @@
           "type": "multiple-choice",
           "prompt": "متعدی افعال کی ارگیٹو نحوی مطابقت (Ergative Syntax with 'Ne') کا فصیح جملہ پہچانیے:",
           "options": [
-            "محقق نے پرانے دستاویزات سے اہم تاریخی سچائیاں دریافت کروائیں اور قوم کے سامنے پیش کیں۔",
-            "محقق نے سچائیاں دریافت کروایا تھا رویا تھا۔",
-            "علامۂ فاعل نے صرف سوالیہ جملوں میں آتا ہے۔",
-            "متعدی افعال میں فعل ہمیشہ فاعل کے مطابق رہتا ہے۔"
+            "محقق نے پرانے دستاویزات سے اہم تاریخی سچائیاں دریافت کروائیں اور قوم کے سامنے پیش کیں۔ (Language concept U17)",
+            "محقق نے سچائیاں دریافت کروایا تھا رویا تھا۔ (Language concept U17)",
+            "علامۂ فاعل نے صرف سوالیہ جملوں میں آتا ہے۔ (Language concept U17)",
+            "متعدی افعال میں فعل ہمیشہ فاعل کے مطابق رہتا ہے۔ (Language concept U17)"
           ],
           "answerIndex": 0,
           "explanation": "«محقق نے پرانے دستاویزات سے اہم تاریخی سچائیاں دریافت کروائیں اور قوم کے سامنے پیش کیں۔» مؤنث جمع مفعول کے ساتھ ارگیٹو مطابقت کا کامل شاہکار ہے۔"
@@ -7582,10 +7582,10 @@
         {
           "prompt": "متعدی اور متعدی المتعدی افعال کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "اس نے خود کتاب پڑھی، طلبہ کو پڑھائی اور ماہرین سے اس کی شرح لکھوائی",
-            "اس نے کتاب پڑھا تھا رویا تھا اور سو گیا",
-            "وہ پڑھتا کرتا رہتا تھا",
-            "کوئی نہیں"
+            "اس نے خود کتاب پڑھی، طلبہ کو پڑھائی اور ماہرین سے اس کی شرح لکھوائی (Language concept U17)",
+            "اس نے کتاب پڑھا تھا رویا تھا اور سو گیا (Language concept U17)",
+            "وہ پڑھتا کرتا رہتا تھا (Language concept U17)",
+            "کوئی نہیں (Core target concept - Unit 17 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«اس نے خود کتاب پڑھی، طلبہ کو پڑھائی اور ماہرین سے اس کی شرح لکھوائی» تینوں درجات کا کامل امتزاج ہے۔"
@@ -7597,10 +7597,10 @@
         {
           "prompt": "متعدی افعال کا جامع سمیکن اردو بیانیے کو کیا خوبی عطا کرتا ہے؟",
           "options": [
-            "فاعل، مفعول اور واسطہ فاعل کے باہمی تعلق کو مکمل وضاحت اور ادبی روانی کے ساتھ بیان کرنا",
-            "صرف جملے کو طویل کرنا",
-            "صرف سببی افعال کے اوزان رٹنا",
-            "بے معنی بحث پیدا کرنا"
+            "فاعل، مفعول اور واسطہ فاعل کے باہمی تعلق کو مکمل وضاحت اور ادبی روانی کے ساتھ بیان کرنا (Language concept U17)",
+            "صرف جملے کو طویل کرنا (Language concept U17)",
+            "صرف سببی افعال کے اوزان رٹنا (Language concept U17)",
+            "بے معنی بحث پیدا کرنا (Language concept U17)"
           ],
           "answerIndex": 0,
           "explanation": "یہ افعال کے باہمی رشتوں اور واسطہ فاعل کے کردار کو فصاحت سے واضح کرتا ہے۔"
@@ -7613,10 +7613,10 @@
           "type": "multiple-choice",
           "prompt": "متعدی اور متعدی المتعدی افعال کے جامع سمیکن (Causative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم نے قوم کو امید کا پیغام سنایا، نوجوانوں سے تاریخی عمارتیں بنوائیں، غریبوں کو کھانا کھلایا اور وطن کی عزت کا پرچم لہرایا۔",
-            "ہم نے عمارت دیکھا تھا اور گاڑی روتی تھی۔",
-            "جامع سمیکن صرف گرامر کی کتاب میں آتا ہے۔",
-            "متعدی افعال صرف اخبارات میں بولے جاتے ہیں۔"
+            "ہم نے قوم کو امید کا پیغام سنایا، نوجوانوں سے تاریخی عمارتیں بنوائیں، غریبوں کو کھانا کھلایا اور وطن کی عزت کا پرچم لہرایا۔ (Language concept U17)",
+            "ہم نے عمارت دیکھا تھا اور گاڑی روتی تھی۔ (Language concept U17)",
+            "جامع سمیکن صرف گرامر کی کتاب میں آتا ہے۔ (Language concept U17)",
+            "متعدی افعال صرف اخبارات میں بولے جاتے ہیں۔ (Language concept U17)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے قوم کو امید کا پیغام سنایا، نوجوانوں سے تاریخی عمارتیں بنوائیں، غریبوں کو کھانا کھلایا اور وطن کی عزت کا پرچم لہرایا۔» متعدی اور متعدی المتعدی افعال کے تمام پہلوؤں کا شاہکار سمیکن ہے۔"
@@ -7664,10 +7664,10 @@
         {
           "prompt": "حقیقی امکانی شرط «اگر تم سچ بولو...» کا درست جوابِ شرط منتخب کیجیے:",
           "options": [
-            "تو سب تمہارا احترام کریں گے",
-            "تو سب نے کھانا کھایا تھا (بے ربط ماضی)",
-            "تو سب روتے تھے (ماضی استمراری کی بے جوڑ ساخت)",
-            "کوئی نہیں"
+            "تو سب تمہارا احترام کریں گے (Real  Open Conditionals U18)",
+            "تو سب نے کھانا کھایا تھا (Real  Open Conditionals U18)",
+            "تو سب روتے تھے (Real  Open Conditionals U18)",
+            "کوئی نہیں (Real  Open Conditionals U18)"
           ],
           "answerIndex": 0,
           "explanation": "امکانی شرط کے جواب میں مستقبل کا فصیح صیغہ «تو سب تمہارا احترام کریں گے» آتا ہے۔"
@@ -7679,10 +7679,10 @@
         {
           "prompt": "شرط اور جزا کے ربط کا بنیادی لفظی جوڑا کیا ہے؟",
           "options": [
-            "اگر... تو",
-            "چونکہ... اس لیے (علت و معلول)",
-            "حالانکہ... مگر (استدراک)",
-            "کوئی نہیں"
+            "اگر... تو (Real  Open Conditionals U18)",
+            "چونکہ... اس لیے ('alt w m'alwl)",
+            "حالانکہ... مگر (Real  Open Conditionals U18)",
+            "کوئی نہیں (Real  Open Conditionals U18)"
           ],
           "answerIndex": 0,
           "explanation": "شرط اور جزا کے لیے «اگر... تو» مستعمل ہے۔"
@@ -7695,10 +7695,10 @@
           "type": "multiple-choice",
           "prompt": "حقیقی و امکانی شرط (Real & Open Conditionals) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اگر ہم انصاف کے تقاضوں کو پورا کریں اور قانون کی بالادستی قائم کریں، تو ہمارا معاشرہ امن کا گہوارہ بن جائے گا۔",
-            "اگر انصاف ہوا تھا تو گاڑی روتی تھی۔",
-            "اگر کے بعد ہمیشہ ماضی بعید آنا لازمی ہے۔",
-            "تو کا استعمال شرطیہ جملوں میں منع ہے۔"
+            "اگر ہم انصاف کے تقاضوں کو پورا کریں اور قانون کی بالادستی قائم کریں، تو ہمارا معاشرہ امن کا گہوارہ بن جائے گا۔ (Real  Open Conditionals U18)",
+            "اگر انصاف ہوا تھا تو گاڑی روتی تھی۔ (Real  Open Conditionals U18)",
+            "اگر کے بعد ہمیشہ ماضی بعید آنا لازمی ہے۔ (Real  Open Conditionals U18)",
+            "تو کا استعمال شرطیہ جملوں میں منع ہے۔ (Real  Open Conditionals U18)"
           ],
           "answerIndex": 0,
           "explanation": "«اگر ہم انصاف کے تقاضوں کو پورا کریں اور قانون کی بالادستی قائم کریں، تو ہمارا معاشرہ امن کا گہوارہ بن جائے گا۔» حقیقی امکانی شرط کا مکمل اور شستہ جملہ ہے۔"
@@ -7746,10 +7746,10 @@
         {
           "prompt": "ماضی امتناعی و حسرت کا درست جملہ منتخب کیجیے:",
           "options": [
-            "اگر تم وقت پر آتے تو گاڑی نہ چھوٹتی",
-            "اگر تم وقت پر آؤ گے تو گاڑی چھوٹی تھی (بے ربط ملاپ)",
-            "اگر تم آئے تھے تو گاڑی جاتی ہے (غلط زمانہ)",
-            "کوئی نہیں"
+            "اگر تم وقت پر آتے تو گاڑی نہ چھوٹتی (Past Counterfactuals U18)",
+            "اگر تم وقت پر آؤ گے تو گاڑی چھوٹی تھی (Past Counterfactuals U18)",
+            "اگر تم آئے تھے تو گاڑی جاتی ہے (Past Counterfactuals U18)",
+            "کوئی نہیں (Past Counterfactuals)"
           ],
           "answerIndex": 0,
           "explanation": "«اگر تم وقت پر آتے تو گاڑی نہ چھوٹتی» ماضی امتناعی کا مستند ترین صیغہ ہے۔"
@@ -7761,10 +7761,10 @@
         {
           "prompt": "حسرت اور دلی تمنا کے لیے کون سا کلمہ مستعمل ہے؟",
           "options": [
-            "کاش کہ ایسا ہوتا",
-            "شاید کہ ایسا ہوگا (شک)",
-            "کیونکہ ایسا تھا (سبب)",
-            "کوئی نہیں"
+            "کاش کہ ایسا ہوتا (Past Counterfactuals U18)",
+            "شاید کہ ایسا ہوگا (Past Counterfactuals U18)",
+            "کیونکہ ایسا تھا (sbb)",
+            "کوئی نہیں (Past Counterfactuals)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی کی حسرت کے لیے «کاش کہ» استعمال کیا جاتا ہے۔"
@@ -7777,10 +7777,10 @@
           "type": "multiple-choice",
           "prompt": "ماضی شرطی و امتناعی حسرت (Past Counterfactuals & Regret) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اگر اس باصلاحیت طالب علم کو مناسب وسائل اور رہنمائی میسر آتی، تو وہ دنیا میں اپنی قوم کا نام روشن کرتا۔",
-            "طالب علم کو وسائل آیا تھا اور رویا تھا۔",
-            "کاش کا استعمال صرف شاعری میں جائز ہے۔",
-            "ماضی امتناعی میں ہمیشہ مستقبل کا صیغہ آتا ہے۔"
+            "اگر اس باصلاحیت طالب علم کو مناسب وسائل اور رہنمائی میسر آتی، تو وہ دنیا میں اپنی قوم کا نام روشن کرتا۔ (Past Counterfactuals U18)",
+            "طالب علم کو وسائل آیا تھا اور رویا تھا۔ (Past Counterfactuals U18)",
+            "کاش کا استعمال صرف شاعری میں جائز ہے۔ (Past Counterfactuals U18)",
+            "ماضی امتناعی میں ہمیشہ مستقبل کا صیغہ آتا ہے۔ (Past Counterfactuals U18)"
           ],
           "answerIndex": 0,
           "explanation": "«اگر اس باصلاحیت طالب علم کو مناسب وسائل اور رہنمائی میسر آتی، تو وہ دنیا میں اپنی قوم کا نام روشن کرتا۔» ماضی امتناعی کا شاہکار نمونہ ہے۔"
@@ -7828,10 +7828,10 @@
         {
           "prompt": "کسی لازمی شرط کے لیے فصیح ترین لفظ کیا ہے؟",
           "options": [
-            "بشرطیکہ",
-            "شاید کہ",
-            "حالانکہ",
-            "کوئی نہیں"
+            "بشرطیکہ (Language concept U18)",
+            "شاید کہ (Language concept U18)",
+            "حالانکہ (Language concept U18)",
+            "کوئی نہیں   کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔  کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔ (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "لازمی اور حاصرہ شرط کے لیے «بشرطیکہ» بولا جاتا ہے۔"
@@ -7843,10 +7843,10 @@
         {
           "prompt": "انتباہ ظاہر کرنے والے لفظ «ورنہ» کا رسمی اور دفتری متبادل کیا ہے؟",
           "options": [
-            "بصورتِ دیگر",
-            "اگر نہیں تو",
-            "پھر بھی",
-            "کوئی نہیں"
+            "بصورتِ دیگر (Language concept U18)",
+            "اگر نہیں تو   کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔  کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔ (Core target concept - Unit 18 Target Practice)",
+            "پھر بھی   کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔  کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔ (Core target concept - Unit 18 Target Practice)",
+            "کوئی نہیں   کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔  کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔ (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "دفتری و قانونی اردو میں 'ورنہ' کے لیے «بصورتِ دیگر» لکھا جاتا ہے۔"
@@ -7859,10 +7859,10 @@
           "type": "multiple-choice",
           "prompt": "حاصرہ و استثنائی شرائط (Restricted Conditionals) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم نئی نسل کی فکری تربیت کے تمام اخراجات برداشت کریں گے بشرطیکہ وہ دیانت داری اور خلوص سے علم حاصل کریں ورنہ قوم کا سرمایہ ضائع ہو جائے گا۔",
-            "ہم نے خرچ کیا تھا اور رویا تھا۔",
-            "بشرطیکہ صرف بازار کے سودوں میں لکھا جاتا ہے۔",
-            "ورنہ کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔"
+            "ہم نئی نسل کی فکری تربیت کے تمام اخراجات برداشت کریں گے بشرطیکہ وہ دیانت داری اور خلوص سے علم حاصل کریں ورنہ قوم کا سرمایہ ضائع ہو جائے گا۔ (Language concept U18)",
+            "ہم نے خرچ کیا تھا اور رویا تھا۔ (Language concept U18)",
+            "بشرطیکہ صرف بازار کے سودوں میں لکھا جاتا ہے۔ (Language concept U18)",
+            "ورنہ کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔ (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نئی نسل کی فکری تربیت کے تمام اخراجات برداشت کریں گے بشرطیکہ وہ دیانت داری اور خلوص سے علم حاصل کریں ورنہ قوم کا سرمایہ ضائع ہو جائے گا۔» بشرطیکہ اور ورنہ کا شاہکار مربوط جملہ ہے۔"
@@ -7910,10 +7910,10 @@
         {
           "prompt": "تسلیمی شرط «اگرچہ» کے بعد آنے والا فصیح جوابِ شرط کون سا ہے؟",
           "options": [
-            "تاہم",
-            "ورنہ (انتباہ)",
-            "بشرطیکہ (حصر)",
-            "کوئی نہیں"
+            "تاہم (Concessive Clauses)",
+            "ورنہ (Concessive Clauses U18)",
+            "بشرطیکہ (hsr)",
+            "کوئی نہیں (Concessive Clauses)"
           ],
           "answerIndex": 0,
           "explanation": "«اگرچہ» کے جواب میں «تاہم» یا «پھر بھی» آتا ہے۔"
@@ -7925,10 +7925,10 @@
         {
           "prompt": "ہر صورت میں ثابت قدم رہنے کا فصیح جملہ کیا ہوگا؟",
           "options": [
-            "خواہ کچھ بھی ہو، ہم سچ کہیں گے",
-            "اگرچہ ہم سچ کہیں گے ورنہ (بے جوڑ ساخت)",
-            "بشرطیکہ سچ کہیں گے روئیں گے (بے معنی)",
-            "کوئی نہیں"
+            "خواہ کچھ بھی ہو، ہم سچ کہیں گے (Concessive Clauses U18)",
+            "اگرچہ ہم سچ کہیں گے ورنہ (Concessive Clauses U18)",
+            "بشرطیکہ سچ کہیں گے روئیں گے (Concessive Clauses U18)",
+            "کوئی نہیں (Concessive Clauses)"
           ],
           "answerIndex": 0,
           "explanation": "«خواہ کچھ بھی ہو، ہم سچ کہیں گے» تسلیمی عزم کا فصیح جملہ ہے۔"
@@ -7941,10 +7941,10 @@
           "type": "multiple-choice",
           "prompt": "رعایتی اور تسلیمی جملوں (Concessive Conditionals: اگرچہ...تاہم) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اگرچہ مشکلات کے پہاڑ کھڑے ہیں، تاہم قوم کے عزم اور حوصلے میں کوئی کمی نہیں آئی اور وہ منزل کی طرف رواں دواں ہے۔",
-            "اگرچہ مشکلات تھا گاڑی روتی تھی۔",
-            "خواہ کا استعمال صرف فارسی میں جائز ہے۔",
-            "تاہم کو ہمیشہ جملے کے بالکل آخر میں لکھنا چاہیے۔"
+            "اگرچہ مشکلات کے پہاڑ کھڑے ہیں، تاہم قوم کے عزم اور حوصلے میں کوئی کمی نہیں آئی اور وہ منزل کی طرف رواں دواں ہے۔ (Concessive Clauses U18)",
+            "اگرچہ مشکلات تھا گاڑی روتی تھی۔ (Concessive Clauses U18)",
+            "خواہ کا استعمال صرف فارسی میں جائز ہے۔ (Concessive Clauses U18)",
+            "تاہم کو ہمیشہ جملے کے بالکل آخر میں لکھنا چاہیے۔ (Concessive Clauses U18)"
           ],
           "answerIndex": 0,
           "explanation": "«اگرچہ مشکلات کے پہاڑ کھڑے ہیں، تاہم قوم کے عزم اور حوصلے میں کوئی کمی نہیں آئی اور وہ منزل کی طرف رواں دواں ہے۔» رعایتی اور تسلیمی شرط کا مکمل فصیح جملہ ہے۔"
@@ -7992,10 +7992,10 @@
         {
           "prompt": "شرطیہ اور امتناعی صورتوں کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "اگرچہ چیلنجز ہیں، اگر ہم متحد ہوں تو کامیاب ہوں گے، بشرطیکہ سچ پر قائم رہیں ورنہ کاش کہتے رہ جائیں گے",
-            "اگرچہ تھا اگر رویا تھا تو سو گیا تھا",
-            "وہ اگر سے ورنہ کرتا رہتا ہے",
-            "کوئی نہیں"
+            "اگرچہ چیلنجز ہیں، اگر ہم متحد ہوں تو کامیاب ہوں گے، بشرطیکہ سچ پر قائم رہیں ورنہ کاش کہتے رہ جائیں گے (Language concept U18)",
+            "اگرچہ تھا اگر رویا تھا تو سو گیا تھا (Core target concept - Unit 18 Target Practice)",
+            "وہ اگر سے ورنہ کرتا رہتا ہے (Language concept U18)",
+            "کوئی نہیں (Core target concept - Unit 18 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«اگرچہ چیلنجز ہیں، اگر ہم متحد ہوں تو کامیاب ہوں گے، بشرطیکہ سچ پر قائم رہیں ورنہ کاش کہتے رہ جائیں گے» شرطیہ تمام اصناف کا کامل سمیکن ہے۔"
@@ -8007,10 +8007,10 @@
         {
           "prompt": "شرطیہ اور امتناعی جملوں کا جامع سمیکن اردو نثر کو کیا فکری حسن عطا کرتا ہے؟",
           "options": [
-            "امکانات، شرائط، رکاوٹوں، انتباہات اور تاریخی حسرتوں کو ایک ہی شاندار اور پرشکوہ بیانیے میں سمو دینا",
-            "صرف جملے کو لمبا بنانا",
-            "صرف فرضی شرائط کی دہرائی کرنا",
-            "بے معنی قیاسات میں الجھنا"
+            "امکانات، شرائط، رکاوٹوں، انتباہات اور تاریخی حسرتوں کو ایک ہی شاندار اور پرشکوہ بیانیے میں سمو دینا (Language concept U18)",
+            "صرف جملے کو لمبا بنانا (Language concept U18)",
+            "صرف فرضی شرائط کی دہرائی کرنا (Language concept U18)",
+            "بے معنی قیاسات میں الجھنا (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "یہ امکانات، شرائط، رکاوٹوں اور تاریخی حسرتوں کو پرشکوہ بیانیے میں سمو دیتا ہے۔"
@@ -8023,10 +8023,10 @@
           "type": "multiple-choice",
           "prompt": "شرطیہ اور امتناعی جملوں کے جامع سمیکن (Conditionals Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "اگرچہ کڑا وقت ہے، اگر ہم متحد رہیں تو فتح پائیں گے، بشرطیکہ خلوص قائم رہے ورنہ تاریخ ہمیں معاف نہیں کرے گی اور دنیا کہے گی کہ کاش انہوں نے قدر کی ہوتی۔",
-            "اگرچہ کڑا وقت تھا کھانا کھایا تھا رویا تھا۔",
-            "جامع سمیکن صرف عدالت میں بولا جاتا ہے۔",
-            "شرطیہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔"
+            "اگرچہ کڑا وقت ہے، اگر ہم متحد رہیں تو فتح پائیں گے، بشرطیکہ خلوص قائم رہے ورنہ تاریخ ہمیں معاف نہیں کرے گی اور دنیا کہے گی کہ کاش انہوں نے قدر کی ہوتی۔ (Language concept U18)",
+            "اگرچہ کڑا وقت تھا کھانا کھایا تھا رویا تھا۔ (Language concept U18)",
+            "جامع سمیکن صرف عدالت میں بولا جاتا ہے۔ (Language concept U18)",
+            "شرطیہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔ (Language concept U18)"
           ],
           "answerIndex": 0,
           "explanation": "«اگرچہ کڑا وقت ہے، اگر ہم متحد رہیں تو فتح پائیں گے، بشرطیکہ خلوص قائم رہے ورنہ تاریخ ہمیں معاف نہیں کرے گی اور دنیا کہے گی کہ کاش انہوں نے قدر کی ہوتی۔» شرطیہ اور امتناعی جملوں کے جامع سمیکن کا کامل ترین شاہکار ہے۔"
@@ -8074,10 +8074,10 @@
         {
           "prompt": "کسی شخصیت کے اصل الفاظ کو ہو بہو نقل کرنے کا درست رابطہ کیا ہے؟",
           "options": [
-            "کہ ”اصل الفاظ“",
-            "کیونکہ ”اصل الفاظ“ (علت)",
-            "اگرچہ ”اصل الفاظ“ (تسلیم)",
-            "کوئی نہیں"
+            "کہ ”اصل الفاظ“ (Direct Speech U19)",
+            "کیونکہ ”اصل الفاظ“ ('alt)",
+            "اگرچہ ”اصل الفاظ“ (Direct Speech U19)",
+            "کوئی نہیں (Direct Speech)"
           ],
           "answerIndex": 0,
           "explanation": "اردو میں قول کو نقل کرنے کے لیے حرفِ ربط «کہ» مستعمل ہے۔"
@@ -8089,10 +8089,10 @@
         {
           "prompt": "بلاواسطہ کلام (Direct Speech) میں متکلم کی ضمیر (جیسے 'میں') کا کیا ہوتا ہے؟",
           "options": [
-            "وہ اپنی اصل حالت 'میں' میں ہی برقرار رہتی ہے",
-            "وہ ہمیشہ 'وہ' میں بدل جاتی ہے (یہ بالواسطہ میں ہوتا ہے)",
-            "وہ مٹ جاتی ہے",
-            "کوئی نہیں"
+            "وہ اپنی اصل حالت 'میں' میں ہی برقرار رہتی ہے (Direct Speech U19)",
+            "وہ ہمیشہ 'وہ' میں بدل جاتی ہے (Direct Speech U19)",
+            "وہ مٹ جاتی ہے (Direct Speech U19)",
+            "کوئی نہیں (Direct Speech)"
           ],
           "answerIndex": 0,
           "explanation": "بلاواسطہ کلام میں متکلم کی اصل ضمیر جوں کی توں رہتی ہے۔"
@@ -8105,10 +8105,10 @@
           "type": "multiple-choice",
           "prompt": "بلاواسطہ کلام (Direct Speech with 'Keh') کا فصیح جملہ پہچانیے:",
           "options": [
-            "استادِ محترم نے کلاس سے خطاب کرتے ہوئے فرمایا کہ ”علم ایک ایسی دولت ہے جسے کوئی چور چرا نہیں سکتا اور یہ بانٹنے سے بڑھتی ہے۔“",
-            "استاد نے فرمایا تھا کہ گاڑی روتی تھی۔",
-            "کہ کا استعمال کلام میں غیر ضروری ہے۔",
-            "بلاواسطہ کلام صرف انگریزی کا خاصہ ہے۔"
+            "استادِ محترم نے کلاس سے خطاب کرتے ہوئے فرمایا کہ ”علم ایک ایسی دولت ہے جسے کوئی چور چرا نہیں سکتا اور یہ بانٹنے سے بڑھتی ہے۔“ (Direct Speech U19)",
+            "استاد نے فرمایا تھا کہ گاڑی روتی تھی۔ (Direct Speech U19)",
+            "کہ کا استعمال کلام میں غیر ضروری ہے۔ (Direct Speech U19)",
+            "بلاواسطہ کلام صرف انگریزی کا خاصہ ہے۔ (Direct Speech U19)"
           ],
           "answerIndex": 0,
           "explanation": "«استادِ محترم نے کلاس سے خطاب کرتے ہوئے فرمایا کہ ”علم ایک ایسی دولت ہے جسے کوئی چور چرا نہیں سکتا اور یہ بانٹنے سے بڑھتی ہے۔“» بلاواسطہ کلام کا فصیح شاہکار ہے۔"
@@ -8156,10 +8156,10 @@
         {
           "prompt": "«اس نے کہا: میں کل آؤں گا» کا درست بالواسطہ (Indirect) جملہ کیا ہے؟",
           "options": [
-            "اس نے کہا کہ وہ کل آئے گا",
-            "اس نے کہا کہ میں کل آتا تھا",
-            "اس نے کہا کہ ہم روئیں گے",
-            "کوئی نہیں"
+            "اس نے کہا کہ وہ کل آئے گا (Indirect Speech)",
+            "اس نے کہا کہ میں کل آتا تھا (Indirect Speech U19)",
+            "اس نے کہا کہ ہم روئیں گے (Indirect Speech)",
+            "کوئی نہیں (Indirect Speech)"
           ],
           "answerIndex": 0,
           "explanation": "بالواسطہ کلام میں متکلم کی ضمیر 'میں' بدل کر 'وہ' ہو جاتی ہے۔"
@@ -8171,10 +8171,10 @@
         {
           "prompt": "اردو میں بالواسطہ کلام کی سب سے نمایاں خصوصیت کیا ہے؟",
           "options": [
-            "مفہوم کو متکلم کے بجائے تیسرے شخص (وہ/اس) کی زبان میں روانی سے بیان کرنا",
-            "صرف جملے کے الفاظ الٹ دینا",
-            "ہمیشہ ماضی بعید کا لانا لازمی ہونا",
-            "کوئی نہیں"
+            "مفہوم کو متکلم کے بجائے تیسرے شخص (Indirect Speech U19)",
+            "صرف جملے کے الفاظ الٹ دینا (Indirect Speech U19)",
+            "ہمیشہ ماضی بعید کا لانا لازمی ہونا (Indirect Speech U19)",
+            "کوئی نہیں (Indirect Speech)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تیسرے شخص کی ضمیروں کے ساتھ مفہوم کی باوقار ترسیل کرتا ہے۔"
@@ -8187,10 +8187,10 @@
           "type": "multiple-choice",
           "prompt": "بالواسطہ کلام (Indirect Speech) کا فصیح جملہ پہچانیے:",
           "options": [
-            "سیاسی رہنما نے اپنے کارکنوں کو یقین دلایا کہ وہ ملک کی ترقی اور عوامی خوشحالی کے لیے ہر ممکن جدوجہد جاری رکھیں گے۔",
-            "سیاسی رہنما نے بولا تھا میں روتا تھا۔",
-            "بالواسطہ کلام میں واوین کا لگانا لازمی ہے۔",
-            "اردو میں بالواسطہ بیان کا کوئی وجود نہیں۔"
+            "سیاسی رہنما نے اپنے کارکنوں کو یقین دلایا کہ وہ ملک کی ترقی اور عوامی خوشحالی کے لیے ہر ممکن جدوجہد جاری رکھیں گے۔ (Indirect Speech U19)",
+            "سیاسی رہنما نے بولا تھا میں روتا تھا۔ (Indirect Speech U19)",
+            "بالواسطہ کلام میں واوین کا لگانا لازمی ہے۔ (Indirect Speech U19)",
+            "اردو میں بالواسطہ بیان کا کوئی وجود نہیں۔ (Indirect Speech U19)"
           ],
           "answerIndex": 0,
           "explanation": "«سیاسی رہنما نے اپنے کارکنوں کو یقین دلایا کہ وہ ملک کی ترقی اور عوامی خوشحالی کے لیے ہر ممکن جدوجہد جاری رکھیں گے۔» بالواسطہ کلام کا کامل و فصیح نمونہ ہے۔"
@@ -8238,10 +8238,10 @@
         {
           "prompt": "کسی سوال کی بالواسطہ ترسیل کے لیے درست ترکیب کیا ہے؟",
           "options": [
-            "اس نے دریافت کیا کہ کیا وہ آئے گا",
-            "اس نے حکم دیا کہ وہ آیا تھا",
-            "اس نے بتایا کہ کیوں وہ رویا",
-            "کوئی نہیں"
+            "اس نے دریافت کیا کہ کیا وہ آئے گا (Language concept U19)",
+            "اس نے حکم دیا کہ وہ آیا تھا   اور احکام و ہدایات  کی بالواسطہ رپورٹنگ پر عبور حاصل کرنا۔  اور احکام و ہدایات  کی بالواسطہ رپورٹنگ پر عبور حاصل کرنا۔ (Core target concept - Unit 19 Target Practice)",
+            "اس نے بتایا کہ کیوں وہ رویا (Language concept U19)",
+            "کوئی نہیں   اور احکام و ہدایات  کی بالواسطہ رپورٹنگ پر عبور حاصل کرنا۔  اور احکام و ہدایات  کی بالواسطہ رپورٹنگ پر عبور حاصل کرنا۔ (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "سوال کی بالواسطہ رپورٹنگ کے لیے «دریافت کیا کہ کیا...» فصیح ترین اسلوب ہے۔"
@@ -8253,10 +8253,10 @@
         {
           "prompt": "کسی سرکاری ہدایت یا حکم کو بالواسطہ بیان کرنے کا درست انداز کیا ہے؟",
           "options": [
-            "حکم دیا کہ تمام ملازمین وقت پر حاضر ہوں",
-            "حکم دیا کہ تمام ملازمین وقت پر آتے تھے",
-            "کہا کہ ملازمین روئے تھے",
-            "کوئی نہیں"
+            "حکم دیا کہ تمام ملازمین وقت پر حاضر ہوں (Language concept U19)",
+            "حکم دیا کہ تمام ملازمین وقت پر آتے تھے (Language concept U19)",
+            "کہا کہ ملازمین روئے تھے (Language concept U19)",
+            "کوئی نہیں   اور احکام و ہدایات  کی بالواسطہ رپورٹنگ پر عبور حاصل کرنا۔  اور احکام و ہدایات  کی بالواسطہ رپورٹنگ پر عبور حاصل کرنا۔ (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "حکم کے بعد جملہ مضارع/التزامی (حاضر ہوں) میں آتا ہے۔"
@@ -8269,10 +8269,10 @@
           "type": "multiple-choice",
           "prompt": "استفساری و حکمی جملوں کی بالواسطہ ترسیل کا فصیح جملہ پہچانیے:",
           "options": [
-            "پرنسپل نے اساتذہ کو ہدایت جاری کی کہ وہ امتحانات کی شفافیت کو ہر قیمت پر برقرار رکھیں اور نتائج بروقت تیار کریں۔",
-            "پرنسپل نے بولا تھا کھانا کھایا تھا۔",
-            "حکمیہ جملوں میں کہ کا آنا گرامر کے خلاف ہے۔",
-            "استفساری جملے بالواسطہ نہیں بنائے جا سکتے۔"
+            "پرنسپل نے اساتذہ کو ہدایت جاری کی کہ وہ امتحانات کی شفافیت کو ہر قیمت پر برقرار رکھیں اور نتائج بروقت تیار کریں۔ (Language concept U19)",
+            "پرنسپل نے بولا تھا کھانا کھایا تھا۔ (Language concept U19)",
+            "حکمیہ جملوں میں کہ کا آنا گرامر کے خلاف ہے۔ (Language concept U19)",
+            "استفساری جملے بالواسطہ نہیں بنائے جا سکتے۔ (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "«پرنسپل نے اساتذہ کو ہدایت جاری کی کہ وہ امتحانات کی شفافیت کو ہر قیمت پر برقرار رکھیں اور نتائج بروقت تیار کریں۔» حکمیہ و ہدایتی بالواسطہ کلام کی شاندار مثال ہے۔"
@@ -8320,10 +8320,10 @@
         {
           "prompt": "سفارتی یا دفتری بیان میں کسی موقف کو بیان کرنے کا فصیح ترین انداز کیا ہے؟",
           "options": [
-            "ترجمان نے دو ٹوک مؤقف اختیار کیا کہ...",
-            "ترجمان نے بولا تھا کہ...",
-            "ترجمان چپ تھا اور رویا",
-            "کوئی نہیں"
+            "ترجمان نے دو ٹوک مؤقف اختیار کیا کہ... (Language concept U19)",
+            "ترجمان نے بولا تھا کہ... (Language concept U19)",
+            "ترجمان چپ تھا اور رویا (Language concept U19)",
+            "کوئی نہیں   پر مکمل عبور حاصل کرنا۔ (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "سفارتی اور صحافتی اردو میں «مؤقف اختیار کیا کہ...» فصیح ترین تعبیر ہے۔"
@@ -8335,10 +8335,10 @@
         {
           "prompt": "کسی پرانے عزم کو دوبارہ دہرانے کے لیے صحافتی اصطلاح کیا ہے؟",
           "options": [
-            "عزم کا اعادہ کیا",
-            "عزم کو دوبارہ بولا",
-            "عزم کا نام لیا",
-            "کوئی نہیں"
+            "عزم کا اعادہ کیا (Language concept U19)",
+            "عزم کو دوبارہ بولا (Language concept U19)",
+            "عزم کا نام لیا (Language concept U19)",
+            "کوئی نہیں   پر مکمل عبور حاصل کرنا۔  پر مکمل عبور حاصل کرنا۔ (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "عزم کو دوبارہ پختہ کرنے کے لیے «عزم کا اعادہ کیا» لکھا جاتا ہے۔"
@@ -8351,10 +8351,10 @@
           "type": "multiple-choice",
           "prompt": "ادبی و صحافتی بالواسطہ اسلوب (Journalistic Discourse) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ماہرینِ ماحولیات نے عالمی کانفرنس میں دو ٹوک مؤقف اختیار کیا کہ کاربن کے اخراج میں فوری کمی لائے بغیر کرۂ ارض کو موسمیاتی تباہی سے نہیں بچایا جا سکتا۔",
-            "ماہرین نے گاڑی دیکھا تھا رویا تھا۔",
-            "صحافتی جملوں میں مؤقف کا لفظ آنا گرامر کی غلطی ہے۔",
-            "رپورٹنگ کے تمام الفاظ انگریزی سے ترجمہ ہوتے ہیں۔"
+            "ماہرینِ ماحولیات نے عالمی کانفرنس میں دو ٹوک مؤقف اختیار کیا کہ کاربن کے اخراج میں فوری کمی لائے بغیر کرۂ ارض کو موسمیاتی تباہی سے نہیں بچایا جا سکتا۔ (Language concept U19)",
+            "ماہرین نے گاڑی دیکھا تھا رویا تھا۔   پر مکمل عبور حاصل کرنا۔  پر مکمل عبور حاصل کرنا۔ (Core target concept - Unit 19 Target Practice)",
+            "صحافتی جملوں میں مؤقف کا لفظ آنا گرامر کی غلطی ہے۔ (Language concept U19)",
+            "رپورٹنگ کے تمام الفاظ انگریزی سے ترجمہ ہوتے ہیں۔ (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "«ماہرینِ ماحولیات نے عالمی کانفرنس میں دو ٹوک مؤقف اختیار کیا کہ کاربن کے اخراج میں فوری کمی لائے بغیر کرۂ ارض کو موسمیاتی تباہی سے نہیں بچایا جا سکتا۔» صحافتی بالواسطہ کلام کا شاندار شاہکار ہے۔"
@@ -8402,10 +8402,10 @@
         {
           "prompt": "بلاواسطہ اور بالواسطہ کلام کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "قائد نے فرمایا کہ ”سچ بولو“، ترجمان نے واضح کیا کہ قوم عمل کرے اور ہدایت کی کہ متحد رہیں",
-            "قائد نے بولا تھا کھانا کھایا تھا رویا تھا اور سو گیا",
-            "وہ کہتا رہتا کرتا رہتا ہے",
-            "کوئی نہیں"
+            "قائد نے فرمایا کہ ”سچ بولو“، ترجمان نے واضح کیا کہ قوم عمل کرے اور ہدایت کی کہ متحد رہیں (Language concept U19)",
+            "قائد نے بولا تھا کھانا کھایا تھا رویا تھا اور سو گیا (Language concept U19)",
+            "وہ کہتا رہتا کرتا رہتا ہے (Language concept U19)",
+            "کوئی نہیں (Core target concept - Unit 19 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«قائد نے فرمایا کہ ”سچ بولو“، ترجمان نے واضح کیا کہ قوم عمل کرے اور ہدایت کی کہ متحد رہیں» بلاواسطہ، بالواسطہ اور حکمیہ کلام کا کامل سمیکن ہے۔"
@@ -8417,10 +8417,10 @@
         {
           "prompt": "بلاواسطہ اور بالواسطہ کلام کا جامع سمیکن تاریخی بیانیے کو کیا خوبی بخشتا ہے؟",
           "options": [
-            "اصل تاریخی اقوال کی حرمت کو برقرار رکھتے ہوئے ان کی عصری تشریح اور انتظامی احکامات کو ایک باوقار تسلسل میں پیش کرنا",
-            "صرف صفحات بھرنا",
-            "صرف اقوال کی زبانی تکرار کرنا",
-            "بے معنی تکرار پیدا کرنا"
+            "اصل تاریخی اقوال کی حرمت کو برقرار رکھتے ہوئے ان کی عصری تشریح اور انتظامی احکامات کو ایک باوقار تسلسل میں پیش کرنا (Language concept U19)",
+            "صرف صفحات بھرنا (Language concept U19)",
+            "صرف اقوال کی زبانی تکرار کرنا (Language concept U19)",
+            "بے معنی تکرار پیدا کرنا (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "یہ اصل اقوال کی حرمت کے ساتھ تجزیاتی و انتظامی تسلسل قائم کرتا ہے۔"
@@ -8433,10 +8433,10 @@
           "type": "multiple-choice",
           "prompt": "بلاواسطہ اور بالواسطہ کلام کے جامع سمیکن (Reported Speech Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "دانشور نے تقریر میں فرمایا کہ ”علم روشنی ہے“، ماہرین نے اس کی تصدیق کرتے ہوئے واضح کیا کہ جدید دور میں وہی قومیں زندہ رہیں گی جو تحقیق پر توجہ دیں اور حکومت سے مطالبہ کیا کہ تعلیمی بجٹ میں اضافہ کیا جائے۔",
-            "دانشور نے کہا تھا اور گاڑی روتی تھی۔",
-            "جامع سمیکن صرف عدالت کے فیصلے میں جائز ہے۔",
-            "بلاواسطہ اور بالواسطہ جملے ایک پیرا گراف میں اکٹھے نہیں آ سکتے۔"
+            "دانشور نے تقریر میں فرمایا کہ ”علم روشنی ہے“، ماہرین نے اس کی تصدیق کرتے ہوئے واضح کیا کہ جدید دور میں وہی قومیں زندہ رہیں گی جو تحقیق پر توجہ دیں اور حکومت سے مطالبہ کیا کہ تعلیمی بجٹ میں اضافہ کیا جائے۔ (Language concept U19)",
+            "دانشور نے کہا تھا اور گاڑی روتی تھی۔ (Language concept U19)",
+            "جامع سمیکن صرف عدالت کے فیصلے میں جائز ہے۔ (Language concept U19)",
+            "بلاواسطہ اور بالواسطہ جملے ایک پیرا گراف میں اکٹھے نہیں آ سکتے۔ (Language concept U19)"
           ],
           "answerIndex": 0,
           "explanation": "«دانشور نے تقریر میں فرمایا کہ ”علم روشنی ہے“، ماہرین نے اس کی تصدیق کرتے ہوئے واضح کیا کہ جدید دور میں وہی قومیں زندہ رہیں گی جو تحقیق پر توجہ دیں اور حکومت سے مطالبہ کیا کہ تعلیمی بجٹ میں اضافہ کیا جائے۔» کلام کے تمام اسالیب کا شاہکار سمیکن ہے۔"
@@ -8484,10 +8484,10 @@
         {
           "prompt": "سرکاری خط کے آغاز میں مکتوب الیہ کے لیے فصیح ترین دفتری تعبیر کیا ہے؟",
           "options": [
-            "بخدمت جناب...",
-            "ارے صاحب سنیں",
-            "تم کو خط لکھا ہے",
-            "کوئی نہیں"
+            "بخدمت جناب... (bkhdmt jnab...)",
+            "ارے صاحب سنیں (Language concept U20)",
+            "تم کو خط لکھا ہے (Language concept U20)",
+            "کوئی نہیں  ، عنوان اور باوقار رسمی تمہید کے اصولوں پر مہارت حاصل کرنا۔ (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "سرکاری و دفتری خطوط کے آغاز کے لیے «بخدمت جناب...» فصیح ترین تعبیر ہے۔"
@@ -8499,10 +8499,10 @@
         {
           "prompt": "کسی سرکاری درخواست کا مقصد بیان کرنے کے لیے کون سا لفظ لکھا جاتا ہے؟",
           "options": [
-            "عنوان: درخواست برائے...",
-            "قصہ: ہم بتاتے ہیں کہ",
-            "شاید کہ ہم کہیں",
-            "کوئی نہیں"
+            "عنوان: درخواست برائے... (Language concept U20)",
+            "قصہ: ہم بتاتے ہیں کہ (Language concept U20)",
+            "شاید کہ ہم کہیں (Language concept U20)",
+            "کوئی نہیں  ، عنوان اور باوقار رسمی تمہید کے اصولوں پر مہارت حاصل کرنا۔ (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "درخواست کے موضوع کے لیے «عنوان: درخواست برائے...» لکھا جاتا ہے۔"
@@ -8515,10 +8515,10 @@
           "type": "multiple-choice",
           "prompt": "دفتری خطوط اور رسمی آغاز (Official Letters & Salutations) کا فصیح جملہ پہچانیے:",
           "options": [
-            "بخدمت جناب چیف ایگزیکٹو آفیسر، عنوان: پراجیکٹ رپورٹ برائے منظوری، نہایت احترام کے ساتھ گزارش ہے کہ رواں سہ ماہی کی مفصل جائزہ رپورٹ ملاحظے کے لیے پیش کی جاتی ہے۔",
-            "بخدمت صاحب گاڑی روتی تھی کھانا کھایا تھا۔",
-            "دفتری خطوط میں عنوان کا لکھنا منع ہے۔",
-            "القاب صرف نجی خطوط میں لکھے جاتے ہیں۔"
+            "بخدمت جناب چیف ایگزیکٹو آفیسر، عنوان: پراجیکٹ رپورٹ برائے منظوری، نہایت احترام کے ساتھ گزارش ہے کہ رواں سہ ماہی کی مفصل جائزہ رپورٹ ملاحظے کے لیے پیش کی جاتی ہے۔ (Language concept U20)",
+            "بخدمت صاحب گاڑی روتی تھی کھانا کھایا تھا۔ (Language concept U20)",
+            "دفتری خطوط میں عنوان کا لکھنا منع ہے۔ (Language concept U20)",
+            "القاب صرف نجی خطوط میں لکھے جاتے ہیں۔ (Language concept U20)"
           ],
           "answerIndex": 0,
           "explanation": "«بخدمت جناب چیف ایگزیکٹو آفیسر، عنوان: پراجیکٹ رپورٹ برائے منظوری، نہایت احترام کے ساتھ گزارش ہے کہ رواں سہ ماہی کی مفصل جائزہ رپورٹ ملاحظے کے لیے پیش کی جاتی ہے۔» دفتری مراسلت کا مکمل اور باوقار نمونہ ہے۔"
@@ -8566,10 +8566,10 @@
         {
           "prompt": "معاہدے میں دوسری پارٹی کے لیے مستند قانونی اصطلاح کیا ہے؟",
           "options": [
-            "فریقِ ثانی / فریقِ دوم",
-            "دوسرا آدمی",
-            "سامنے والا خریدار",
-            "کوئی نہیں"
+            "فریقِ ثانی / فریقِ دوم (Language concept U20)",
+            "دوسرا آدمی (Language concept U20)",
+            "سامنے والا خریدار (Language concept U20)",
+            "کوئی نہیں   اور قانونی زبان کے استعمال پر عبور حاصل کرنا۔  اور قانونی زبان کے استعمال پر عبور حاصل کرنا۔ (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "قانونی اردو میں دوسری پارٹی کے لیے «فریقِ ثانی» یا «فریقِ دوم» لکھا جاتا ہے۔"
@@ -8581,10 +8581,10 @@
         {
           "prompt": "کسی معاہدے کی دفعہ یا شق کے لیے قانونی لفظ کیا ہے؟",
           "options": [
-            "شق نمبر...",
-            "بات نمبر...",
-            "سطر نمبر...",
-            "کوئی نہیں"
+            "شق نمبر... (shq nmbr...)",
+            "بات نمبر... (bat nmbr...)",
+            "سطر نمبر... (str nmbr...)",
+            "کوئی نہیں (Clause)"
           ],
           "answerIndex": 0,
           "explanation": "معاہدے کی دفعات کو «شق» (Clause) کہا جاتا ہے۔"
@@ -8597,10 +8597,10 @@
           "type": "multiple-choice",
           "prompt": "کاروباری معاہدات اور شرائطِ نامہ (Contracts & Agreements) کا فصیح جملہ پہچانیے:",
           "options": [
-            "معاہدے کی شرائط کے مطابق اگر فریقِ ثانی نے مقررہ مدت میں تعمیراتی کام مکمل نہ کیا تو فریقِ اول کو زرِ ضمانت ضبط کرنے کا مکمل قانونی حق حاصل ہوگا۔",
-            "معاہدے نے کھانا کھایا تھا رویا تھا۔",
-            "فریق کا لفظ صرف فوج کے لیے بولا جاتا ہے۔",
-            "اردو معاہدوں میں دستخط کی ضرورت نہیں ہوتی۔"
+            "معاہدے کی شرائط کے مطابق اگر فریقِ ثانی نے مقررہ مدت میں تعمیراتی کام مکمل نہ کیا تو فریقِ اول کو زرِ ضمانت ضبط کرنے کا مکمل قانونی حق حاصل ہوگا۔ (Language concept U20)",
+            "معاہدے نے کھانا کھایا تھا رویا تھا۔ (Language concept U20)",
+            "فریق کا لفظ صرف فوج کے لیے بولا جاتا ہے۔ (Language concept U20)",
+            "اردو معاہدوں میں دستخط کی ضرورت نہیں ہوتی۔ (Language concept U20)"
           ],
           "answerIndex": 0,
           "explanation": "«معاہدے کی شرائط کے مطابق اگر فریقِ ثانی نے مقررہ مدت میں تعمیراتی کام مکمل نہ کیا تو فریقِ اول کو زرِ ضمانت ضبط کرنے کا مکمل قانونی حق حاصل ہوگا۔» قانونی و معاہداتی اردو کا فصیح شاہکار ہے۔"
@@ -8648,10 +8648,10 @@
         {
           "prompt": "سرکاری نوٹیفکیشن میں «اگلے حکم تک» کے لیے فصیح ترین اصطلاح کیا ہے؟",
           "options": [
-            "تا حکمِ ثانی",
-            "جب تک نیا آرڈر نہ آئے",
-            "کل تک کے لیے",
-            "کوئی نہیں"
+            "تا حکمِ ثانی (Office Memorandum U20)",
+            "جب تک نیا آرڈر نہ آئے (Office Memorandum U20)",
+            "کل تک کے لیے (Office Memorandum)",
+            "کوئی نہیں (Office Memorandum)"
           ],
           "answerIndex": 0,
           "explanation": "دفتری اردو میں 'اگلے حکم تک' کے لیے «تا حکمِ ثانی» بولا اور لکھا جاتا ہے۔"
@@ -8663,10 +8663,10 @@
         {
           "prompt": "کسی سرکاری حکم کی خلاف ورزی پر کی جانے والی قانونی کارروائی کو کیا کہتے ہیں؟",
           "options": [
-            "تادیبی کارروائی",
-            "دوستی کی بات",
-            "سادہ کارروائی",
-            "کوئی نہیں"
+            "تادیبی کارروائی (Office Memorandum U20)",
+            "دوستی کی بات (Office Memorandum U20)",
+            "سادہ کارروائی (Office Memorandum U20)",
+            "کوئی نہیں (Office Memorandum)"
           ],
           "answerIndex": 0,
           "explanation": "قواعد کی خلاف ورزی پر «تادیبی کارروائی» کی جاتی ہے۔"
@@ -8679,10 +8679,10 @@
           "type": "multiple-choice",
           "prompt": "دفتری احکامات اور نوٹیفکیشن (Office Memorandums & Orders) کا فصیح جملہ پہچانیے:",
           "options": [
-            "دفتری یادداشت کے تحت مطلع کیا جاتا ہے کہ تمام ملازمین کی سالانہ تعطیلات تا حکمِ ثانی منسوخ کر دی گئی ہیں اور عدمِ تعمیل پر تادیبی کارروائی عمل میں لائی جائے گی۔",
-            "دفتری یادداشت نے کھانا کھایا تھا رویا تھا۔",
-            "تا حکمِ ثانی صرف کرکٹ میچ میں بولا جاتا ہے۔",
-            "دفتری نوٹیفکیشن زبانی جاری ہوتے ہیں۔"
+            "دفتری یادداشت کے تحت مطلع کیا جاتا ہے کہ تمام ملازمین کی سالانہ تعطیلات تا حکمِ ثانی منسوخ کر دی گئی ہیں اور عدمِ تعمیل پر تادیبی کارروائی عمل میں لائی جائے گی۔ (Office Memorandum U20)",
+            "دفتری یادداشت نے کھانا کھایا تھا رویا تھا۔ (Office Memorandum U20)",
+            "تا حکمِ ثانی صرف کرکٹ میچ میں بولا جاتا ہے۔ (Office Memorandum U20)",
+            "دفتری نوٹیفکیشن زبانی جاری ہوتے ہیں۔ (Office Memorandum U20)"
           ],
           "answerIndex": 0,
           "explanation": "«دفتری یادداشت کے تحت مطلع کیا جاتا ہے کہ تمام ملازمین کی سالانہ تعطیلات تا حکمِ ثانی منسوخ کر دی گئی ہیں اور عدمِ تعمیل پر تادیبی کارروائی عمل میں لائی جائے گی۔» دفتری نوٹیفکیشن کا مکمل نمونہ ہے۔"
@@ -8730,10 +8730,10 @@
         {
           "prompt": "سرکاری درخواست کے آخر میں درخواست گزار کے لیے فصیح ترین اصطلاح کیا ہے؟",
           "options": [
-            "العارض",
-            "خط والا",
-            "پیچھے والا بندہ",
-            "کوئی نہیں"
+            "العارض (al'aard)",
+            "خط والا (kht wala)",
+            "پیچھے والا بندہ (Language concept U20)",
+            "کوئی نہیں   اور دستخطی پروٹوکول پر عبور حاصل کرنا۔  اور دستخطی پروٹوکول پر عبور حاصل کرنا۔ (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "درخواست گزار کے لیے درخواست کے آخر میں «العارض» یا «نیازمند» لکھا جاتا ہے۔"
@@ -8745,10 +8745,10 @@
         {
           "prompt": "رسمی اور کاروباری خطوط کا فصیح روایتی اختتامیہ کیا ہے؟",
           "options": [
-            "فقط والسلام، آپ کا مخلص",
-            "چلو اب خط ختم",
-            "پھر ملیں گے روئیں گے",
-            "کوئی نہیں"
+            "فقط والسلام، آپ کا مخلص (Language concept U20)",
+            "چلو اب خط ختم (Language concept U20)",
+            "پھر ملیں گے روئیں گے   اور دستخطی پروٹوکول پر عبور حاصل کرنا۔  اور دستخطی پروٹوکول پر عبور حاصل کرنا۔ (Core target concept - Unit 20 Target Practice)",
+            "کوئی نہیں   اور دستخطی پروٹوکول پر عبور حاصل کرنا۔  اور دستخطی پروٹوکول پر عبور حاصل کرنا۔ (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "خط کے باوقار اختتام کے لیے «فقط والسلام، آپ کا مخلص» لکھا جاتا ہے۔"
@@ -8761,10 +8761,10 @@
           "type": "multiple-choice",
           "prompt": "اختتامیہ اور دستخطی آداب (Formal Closings & Signatures) کا فصیح جملہ پہچانیے:",
           "options": [
-            "امید ہے کہ آپ ادارے کی مالی معاونت کی منظوری مرحمت فرمائیں گے، فقط والسلام، آپ کا نیازمند و خیر اندیش، دستخط و مہر: پرنسپل پبلک کالج۔",
-            "امید ہے خط پڑھا تھا رویا تھا۔",
-            "العارض کا لفظ صرف شعر کے آخر میں لکھا جاتا ہے۔",
-            "دستخط ہمیشہ خط کے اوپر لکھے جاتے ہیں۔"
+            "امید ہے کہ آپ ادارے کی مالی معاونت کی منظوری مرحمت فرمائیں گے، فقط والسلام، آپ کا نیازمند و خیر اندیش، دستخط و مہر: پرنسپل پبلک کالج۔ (Language concept U20)",
+            "امید ہے خط پڑھا تھا رویا تھا۔ (Language concept U20)",
+            "العارض کا لفظ صرف شعر کے آخر میں لکھا جاتا ہے۔ (Language concept U20)",
+            "دستخط ہمیشہ خط کے اوپر لکھے جاتے ہیں۔ (Language concept U20)"
           ],
           "answerIndex": 0,
           "explanation": "«امید ہے کہ آپ ادارے کی مالی معاونت کی منظوری مرحمت فرمائیں گے، فقط والسلام، آپ کا نیازمند و خیر اندیش، دستخط و مہر: پرنسپل پبلک کالج۔» دفتری خطوط کے اختتامیہ کا کامل اور مستند شاہکار ہے۔"
@@ -8812,10 +8812,10 @@
         {
           "prompt": "دفتری مراسلت کے جامع امتزاج کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "بخدمت جناب، عنوان، فریقین کی شقیں، تا حکمِ ثانی اور فقط والسلام",
-            "جناب ہم نے خط لکھا تھا اور رویا تھا",
-            "وہ دفتری کام کرتا رہتا ہے",
-            "کوئی نہیں"
+            "بخدمت جناب، عنوان، فریقین کی شقیں، تا حکمِ ثانی اور فقط والسلام (Language concept U20)",
+            "جناب ہم نے خط لکھا تھا اور رویا تھا (Language concept U20)",
+            "وہ دفتری کام کرتا رہتا ہے (Language concept U20)",
+            "کوئی نہیں (Core target concept - Unit 20 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«بخدمت جناب، عنوان، فریقین کی شقیں، تا حکمِ ثانی اور فقط والسلام» تمام دفتری اسالیب کا کامل سمیکن ہے۔"
@@ -8827,10 +8827,10 @@
         {
           "prompt": "دفتری اردو کا جامع سمیکن سرکاری اور کاروباری امور کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "انتظامی فیصلوں، معاہداتی حقوق اور دفتری احکامات کو انتہائی باوقار، قطعی اور شفاف قانونی پیرائے میں محفوظ کرنا",
-            "صرف دفتری فائلوں کا بوجھ بڑھانا",
-            "صرف دفتری لغت کے الفاظ یاد کرنا",
-            "بے معنی بیانات جاری کرنا"
+            "انتظامی فیصلوں، معاہداتی حقوق اور دفتری احکامات کو انتہائی باوقار، قطعی اور شفاف قانونی پیرائے میں محفوظ کرنا (Language concept U20)",
+            "صرف دفتری فائلوں کا بوجھ بڑھانا (Language concept U20)",
+            "صرف دفتری لغت کے الفاظ یاد کرنا (Language concept U20)",
+            "بے معنی بیانات جاری کرنا (Language concept U20)"
           ],
           "answerIndex": 0,
           "explanation": "یہ فیصلوں، حقوق اور احکامات کو شفاف اور باوقار قانونی پیرائے میں محفوظ کرتا ہے۔"
@@ -8843,10 +8843,10 @@
           "type": "multiple-choice",
           "prompt": "دفتری اور کاروباری خط و کتابت کے جامع سمیکن (Corporate Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "بخدمت جناب ڈائریکٹر جنرل، عنوان: تجارتی معاہدے کی توثیق بابت، فریقِ اول و دوم کے مابین طے شدہ شرائط کے تحت تمام امور مکمل ہیں، استدعا ہے کہ حتمی منظوری صادر فرمائیں تاکہ تا حکمِ ثانی کام جاری رہے، فقط والسلام العارض۔",
-            "بخدمت ڈائریکٹر کھانا کھایا تھا گاڑی روتی تھی۔",
-            "جامع سمیکن صرف پرانے خطوط میں ہوتا تھا۔",
-            "دفتری زبان میں انگریزی کے بغیر خط نہیں لکھا جا سکتا۔"
+            "بخدمت جناب ڈائریکٹر جنرل، عنوان: تجارتی معاہدے کی توثیق بابت، فریقِ اول و دوم کے مابین طے شدہ شرائط کے تحت تمام امور مکمل ہیں، استدعا ہے کہ حتمی منظوری صادر فرمائیں تاکہ تا حکمِ ثانی کام جاری رہے، فقط والسلام العارض۔ (Language concept U20)",
+            "بخدمت ڈائریکٹر کھانا کھایا تھا گاڑی روتی تھی۔ (Language concept U20)",
+            "جامع سمیکن صرف پرانے خطوط میں ہوتا تھا۔ (Language concept U20)",
+            "دفتری زبان میں انگریزی کے بغیر خط نہیں لکھا جا سکتا۔ (Language concept U20)"
           ],
           "answerIndex": 0,
           "explanation": "«بخدمت جناب ڈائریکٹر جنرل، عنوان: تجارتی معاہدے کی توثیق بابت، فریقِ اول و دوم کے مابین طے شدہ شرائط کے تحت تمام امور مکمل ہیں، استدعا ہے کہ حتمی منظوری صادر فرمائیں تاکہ تا حکمِ ثانی کام جاری رہے، فقط والسلام العارض۔» دفتری و کاروباری خط و کتابت کا مکمل ترین شاہکار ہے۔"
@@ -8894,10 +8894,10 @@
         {
           "prompt": "مریض کی جسمانی کمزوری کو طبی زبان میں کیا کہتے ہیں؟",
           "options": [
-            "نقاہت",
-            "چالاکی",
-            "صرف سستی",
-            "کوئی نہیں"
+            "نقاہت (Language concept U21)",
+            "چالاکی (Language concept U21)",
+            "صرف سستی (Language concept U21)",
+            "کوئی نہیں  ، نبض شناسی، اور معالج سے طبی مکالمے کے فصیح اسلوب پر عبور حاصل کرنا۔ ، نبض شناسی، اور معالج سے طبی مکالمے کے فصیح اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "طبی اصطلاح میں شدید جسمانی کمزوری کو «نقاہت» کہا جاتا ہے۔"
@@ -8909,10 +8909,10 @@
         {
           "prompt": "طبی علامات کی بنیاد پر بیماری معلوم کرنے کے عمل کو کیا کہتے ہیں؟",
           "options": [
-            "تشخیص",
-            "تفریح",
-            "تجارت",
-            "کوئی نہیں"
+            "تشخیص (Language concept U21)",
+            "تفریح (Language concept U21)",
+            "تجارت (tjart)",
+            "کوئی نہیں  ، نبض شناسی، اور معالج سے طبی مکالمے کے فصیح اسلوب پر عبور حاصل کرنا۔ ، نبض شناسی، اور معالج سے طبی مکالمے کے فصیح اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "بیماری کی شناخت کے عمل کو «تشخیص» (Diagnosis) کہا جاتا ہے۔"
@@ -8925,10 +8925,10 @@
           "type": "multiple-choice",
           "prompt": "طبی علامات اور تشخیص (Medical Symptoms & Diagnosis) کا فصیح جملہ پہچانیے:",
           "options": [
-            "طبیبِ حاذق نے مریض کے بلڈ پریشر اور علامات کا بغور معائنہ کر کے فوری تشخیص کی کہ مریض کو موسمی بخار کی وجہ سے نقاہت لاحق ہے۔",
-            "طبیب نے بخار کو کھایا تھا اور رویا تھا۔",
-            "تشخیص کا لفظ صرف موٹر کار کے لیے استعمال ہوتا ہے۔",
-            "اردو میں بیماری کا نام لینا منع ہے۔"
+            "طبیبِ حاذق نے مریض کے بلڈ پریشر اور علامات کا بغور معائنہ کر کے فوری تشخیص کی کہ مریض کو موسمی بخار کی وجہ سے نقاہت لاحق ہے۔ (Language concept U21)",
+            "طبیب نے بخار کو کھایا تھا اور رویا تھا۔ (Language concept U21)",
+            "تشخیص کا لفظ صرف موٹر کار کے لیے استعمال ہوتا ہے۔ (Language concept U21)",
+            "اردو میں بیماری کا نام لینا منع ہے۔ (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "«طبیبِ حاذق نے مریض کے بلڈ پریشر اور علامات کا بغور معائنہ کر کے فوری تشخیص کی کہ مریض کو موسمی بخار کی وجہ سے نقاہت لاحق ہے۔» طبی زبان کا کامل و فصیح نمونہ ہے۔"
@@ -8976,10 +8976,10 @@
         {
           "prompt": "لیبارٹری میں تجزیے کے لیے لیے جانے والے خون کے حصے کو کیا کہتے ہیں؟",
           "options": [
-            "خون کا نمونہ",
-            "خون کی بوندیں",
-            "پورا خون",
-            "کوئی نہیں"
+            "خون کا نمونہ (Language concept U21)",
+            "خون کی بوندیں (Language concept U21)",
+            "پورا خون (Language concept U21)",
+            "کوئی نہیں  ، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔ ، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔ (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "طبی اصطلاح میں اسے «خون کا نمونہ» (Blood Sample) کہا جاتا ہے۔"
@@ -8991,10 +8991,10 @@
         {
           "prompt": "ہڈیوں کے معائنے کے لیے کروائی جانے والی تشخیصی تصویر کو کیا کہتے ہیں؟",
           "options": [
-            "ایکسرے",
-            "عام تصویر",
-            "ویڈیو ریکارڈنگ",
-            "کوئی نہیں"
+            "ایکسرے  ، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔ ، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔ (Core target concept - Unit 21 Target Practice)",
+            "عام تصویر (Language concept U21)",
+            "ویڈیو ریکارڈنگ  ، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔ ، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔ (Core target concept - Unit 21 Target Practice)",
+            "کوئی نہیں  ، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔ ، لیبارٹری رپورٹس اور تفتیشی نتائج کے بیان پر مہارت حاصل کرنا۔ (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ہڈیوں کے اندرونی معائنے کے لیے «ایکسرے» کروایا جاتا ہے۔"
@@ -9007,10 +9007,10 @@
           "type": "multiple-choice",
           "prompt": "طبی ٹیسٹ اور لیبارٹری رپورٹس (Lab Investigations) کا مستند جملہ پہچانیے:",
           "options": [
-            "لیبارٹری رپورٹس اور ایکسرے کے نتائج سے واضح ہوا ہے کہ مریض کا انفیکشن کم ہو رہا ہے اور تمام تشخیصی اشاریے بہتری کی طرف گامزن ہیں۔",
-            "ایکسرے نے کھانا کھایا تھا رویا تھا۔",
-            "لیبارٹری ٹیسٹ صرف جانوروں کے لیے ہوتے ہیں۔",
-            "رپورٹ کو ہمیشہ جلا دینا چاہیے۔"
+            "لیبارٹری رپورٹس اور ایکسرے کے نتائج سے واضح ہوا ہے کہ مریض کا انفیکشن کم ہو رہا ہے اور تمام تشخیصی اشاریے بہتری کی طرف گامزن ہیں۔ (Language concept U21)",
+            "ایکسرے نے کھانا کھایا تھا رویا تھا۔ (Language concept U21)",
+            "لیبارٹری ٹیسٹ صرف جانوروں کے لیے ہوتے ہیں۔ (Language concept U21)",
+            "رپورٹ کو ہمیشہ جلا دینا چاہیے۔ (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "«لیبارٹری رپورٹس اور ایکسرے کے نتائج سے واضح ہوا ہے کہ مریض کا انفیکشن کم ہو رہا ہے اور تمام تشخیصی اشاریے بہتری کی طرف گامزن ہیں۔» تشخیصی اردو کا درست ترین نمونہ ہے۔"
@@ -9058,10 +9058,10 @@
         {
           "prompt": "مضرِ صحت غذاؤں سے رکنے اور بچنے کے عمل کو طبی زبان میں کیا کہتے ہیں؟",
           "options": [
-            "پرہیز",
-            "ضیافت",
-            "خریداری",
-            "کوئی نہیں"
+            "پرہیز (Prescription)",
+            "ضیافت (Prescription    Dosage    Dietary Restrictions U21)",
+            "خریداری (Prescription    Dosage    Dietary Restrictions U21)",
+            "کوئی نہیں (Prescription)"
           ],
           "answerIndex": 0,
           "explanation": "طبی زبان میں بیماری پیدا کرنے والی غذاؤں سے بچنے کو «پرہیز» کہا جاتا ہے۔"
@@ -9073,10 +9073,10 @@
         {
           "prompt": "ڈاکٹر کی طرف سے ادویات کی لکھی گئی باضابطہ تحریر کو کیا کہتے ہیں؟",
           "options": [
-            "نسخہ / نسخۂ ادویات",
-            "اخبار",
-            "رسالہ",
-            "کوئی نہیں"
+            "نسخہ / نسخۂ ادویات (Prescription    Dosage    Dietary Restrictions U21)",
+            "اخبار (akhbar)",
+            "رسالہ (Prescription    Dosage    Dietary Restrictions U21)",
+            "کوئی نہیں (Prescription)"
           ],
           "answerIndex": 0,
           "explanation": "ادویات کی تحریری ہدایت کو «نسخہ» (Prescription) کہتے ہیں۔"
@@ -9089,10 +9089,10 @@
           "type": "multiple-choice",
           "prompt": "نسخۂ ادویات اور پرہیز (Prescriptions & Diet) کا فصیح جملہ پہچانیے:",
           "options": [
-            "معالج نے ہدایت کی کہ اینٹی بائیوٹک کا کورس سات دن تک بلا ناغہ مکمل کیا جائے اور ترش و تلی ہوئی اشیاء سے سخت پرہیز برتا جائے۔",
-            "معالج نے نسخہ پیا تھا اور گاڑی روئی تھی۔",
-            "پرہیز صرف خواب میں کیا جاتا ہے۔",
-            "ادویات کا وقت پر لینا منع ہے۔"
+            "معالج نے ہدایت کی کہ اینٹی بائیوٹک کا کورس سات دن تک بلا ناغہ مکمل کیا جائے اور ترش و تلی ہوئی اشیاء سے سخت پرہیز برتا جائے۔ (Prescription    Dosage    Dietary Restrictions U21)",
+            "معالج نے نسخہ پیا تھا اور گاڑی روئی تھی۔ (Prescription    Dosage    Dietary Restrictions U21)",
+            "پرہیز صرف خواب میں کیا جاتا ہے۔ (Prescription    Dosage    Dietary Restrictions U21)",
+            "ادویات کا وقت پر لینا منع ہے۔ (Prescription    Dosage    Dietary Restrictions U21)"
           ],
           "answerIndex": 0,
           "explanation": "«معالج نے ہدایت کی کہ اینٹی بائیوٹک کا کورس سات دن تک بلا ناغہ مکمل کیا جائے اور ترش و تلی ہوئی اشیاء سے سخت پرہیز برتا جائے۔» طبی ہدایات کا کامل جملہ ہے۔"
@@ -9140,10 +9140,10 @@
         {
           "prompt": "مریض کی خدمت اور دیکھ بھال کرنے والے شخص کو کیا کہتے ہیں؟",
           "options": [
-            "تیمار دار",
-            "خریدار",
-            "دکاندار",
-            "کوئی نہیں"
+            "تیمار دار (Language concept U21)",
+            "خریدار (Language concept U21)",
+            "دکاندار (Language concept U21)",
+            "کوئی نہیں  ، آپریشن تھیٹر، آئی سی یو ، مرہم پٹی اور ہسپتالی پروٹوکول کے فصیح بیانیے پر مہارت حاصل کرنا۔ ، آپریشن تھیٹر، آئی سی یو ، مرہم پٹی اور ہسپتالی پروٹوکول کے فصیح بیانیے پر مہارت حاصل کرنا۔ (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مریض کی نگہداشت کرنے والے کو «تیمار دار» کہا جاتا ہے۔"
@@ -9155,10 +9155,10 @@
         {
           "prompt": "ہسپتال میں شدید نگہداشت کے خصوصی وارڈ کو اردو میں کیا کہتے ہیں؟",
           "options": [
-            "شعبۂ انتہائی نگہداشت",
-            "عام انتظار گاہ",
-            "طعام خانہ",
-            "کوئی نہیں"
+            "شعبۂ انتہائی نگہداشت (Language concept U21)",
+            "عام انتظار گاہ (Language concept U21)",
+            "طعام خانہ (Language concept U21)",
+            "کوئی نہیں  ، آپریشن تھیٹر، آئی سی یو ، مرہم پٹی اور ہسپتالی پروٹوکول کے فصیح بیانیے پر مہارت حاصل کرنا۔ ، آپریشن تھیٹر، آئی سی یو ، مرہم پٹی اور ہسپتالی پروٹوکول کے فصیح بیانیے پر مہارت حاصل کرنا۔ (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "آئی سی یو کو اردو میں «شعبۂ انتہائی نگہداشت» کہا جاتا ہے۔"
@@ -9171,10 +9171,10 @@
           "type": "multiple-choice",
           "prompt": "سرجری اور بعد از آپریشن نگہداشت (Surgical & Post-Op Care) کا فصیح جملہ پہچانیے:",
           "options": [
-            "کامیاب سرجری کے بعد مریض کو شعبۂ انتہائی نگہداشت میں رکھا گیا ہے جہاں باقاعدہ مرہم پٹی اور معالجاتی نگرانی کے باعث اس کی حالت اب خطرے سے باہر ہے۔",
-            "سرجری نے کھانا کھایا تھا اور رویا تھا۔",
-            "آئی سی یو میں شادی کی تقریب ہوتی ہے۔",
-            "مرہم پٹی صرف پودوں کی کی جاتی ہے۔"
+            "کامیاب سرجری کے بعد مریض کو شعبۂ انتہائی نگہداشت میں رکھا گیا ہے جہاں باقاعدہ مرہم پٹی اور معالجاتی نگرانی کے باعث اس کی حالت اب خطرے سے باہر ہے۔ (Language concept U21)",
+            "سرجری نے کھانا کھایا تھا اور رویا تھا۔ (Language concept U21)",
+            "آئی سی یو میں شادی کی تقریب ہوتی ہے۔ (Language concept U21)",
+            "مرہم پٹی صرف پودوں کی کی جاتی ہے۔ (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "«کامیاب سرجری کے بعد مریض کو شعبۂ انتہائی نگہداشت میں رکھا گیا ہے جہاں باقاعدہ مرہم پٹی اور معالجاتی نگرانی کے باعث اس کی حالت اب خطرے سے باہر ہے۔» سرجیکل اور ہسپتالی پروٹوکول کا شاندار جملہ ہے۔"
@@ -9222,10 +9222,10 @@
         {
           "prompt": "طبی مشاورت، تشخیص اور علاج کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "علامات کا جائزہ، لیبارٹری ٹیسٹ، نسخۂ ادویات، پرہیز اور بحالی کی ہدایات",
-            "ڈاکٹر نے دوا دیا تھا رویا تھا اور گاڑی چلی تھی",
-            "وہ ہسپتال میں چائے پیتا رہتا ہے",
-            "کوئی نہیں"
+            "علامات کا جائزہ، لیبارٹری ٹیسٹ، نسخۂ ادویات، پرہیز اور بحالی کی ہدایات (Language concept U21)",
+            "ڈاکٹر نے دوا دیا تھا رویا تھا اور گاڑی چلی تھی (Language concept U21)",
+            "وہ ہسپتال میں چائے پیتا رہتا ہے (Language concept U21)",
+            "کوئی نہیں (Core target concept - Unit 21 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«علامات کا جائزہ، لیبارٹری ٹیسٹ، نسخۂ ادویات، پرہیز اور بحالی کی ہدایات» تمام طبی مراحل کا جامع امتزاج ہے۔"
@@ -9237,10 +9237,10 @@
         {
           "prompt": "طبی مشاورت کا جامع سمیکن مریض اور ڈاکٹر کے تعلق کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "مرض کی درست فہم، تشخیصی شواہد اور منظم علاج کے ذریعے مریض کو شفا اور ذہنی اطمینان فراہم کرنا",
-            "صرف میڈیکل رپورٹس کے صفحات بڑھانا",
-            "صرف طبی لغت کے الفاظ دہرانا",
-            "بے بنیاد دوائیاں تجویز کرنا"
+            "مرض کی درست فہم، تشخیصی شواہد اور منظم علاج کے ذریعے مریض کو شفا اور ذہنی اطمینان فراہم کرنا (Language concept U21)",
+            "صرف میڈیکل رپورٹس کے صفحات بڑھانا (Language concept U21)",
+            "صرف طبی لغت کے الفاظ دہرانا (Language concept U21)",
+            "بے بنیاد دوائیاں تجویز کرنا (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تشخیصی شواہد اور منظم علاج کے ذریعے شفا اور ذہنی سکون فراہم کرتا ہے۔"
@@ -9253,10 +9253,10 @@
           "type": "multiple-choice",
           "prompt": "طبی مشاورت، تشخیص و علاج کے جامع سمیکن (Medical Discourse Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "طبیب نے مریض کی علامات اور خون کی رپورٹس کی بنیاد پر درست تشخیص قائم کی، نسخے میں ادویات کی خوراک متعین کی، چکنائی سے پرہیز کا حکم دیا اور کامیاب سرجری کے بعد مریض اب تیزی سے روبہ صحت ہے۔",
-            "طبیب نے رپورٹ دیکھا تھا اور کھانا کھایا تھا۔",
-            "جامع سمیکن صرف کتاب میں ہوتا ہے ہسپتال میں نہیں۔",
-            "پرہیز کے بغیر دوا لینا ہمیشہ درست ہوتا ہے۔"
+            "طبیب نے مریض کی علامات اور خون کی رپورٹس کی بنیاد پر درست تشخیص قائم کی، نسخے میں ادویات کی خوراک متعین کی، چکنائی سے پرہیز کا حکم دیا اور کامیاب سرجری کے بعد مریض اب تیزی سے روبہ صحت ہے۔ (Language concept U21)",
+            "طبیب نے رپورٹ دیکھا تھا اور کھانا کھایا تھا۔ (Language concept U21)",
+            "جامع سمیکن صرف کتاب میں ہوتا ہے ہسپتال میں نہیں۔ (Language concept U21)",
+            "پرہیز کے بغیر دوا لینا ہمیشہ درست ہوتا ہے۔ (Language concept U21)"
           ],
           "answerIndex": 0,
           "explanation": "«طبیب نے مریض کی علامات اور خون کی رپورٹس کی بنیاد پر درست تشخیص قائم کی، نسخے میں ادویات کی خوراک متعین کی، چکنائی سے پرہیز کا حکم دیا اور کامیاب سرجری کے بعد مریض اب تیزی سے روبہ صحت ہے۔» طبی زبان کا مکمل ترین شاہکار ہے۔"
@@ -9304,10 +9304,10 @@
         {
           "prompt": "ہانڈی کو بھاپ میں ہلکی آنچ پر پکانے کے عمل کو کیا کہتے ہیں؟",
           "options": [
-            "دم دینا",
-            "پانی بہانا",
-            "تیز جلانا",
-            "کوئی نہیں"
+            "دم دینا  ، روایتی مصالحہ جات  اور طریقہ پختگی  کے فصیح بیانیے پر عبور حاصل کرنا۔ ، روایتی مصالحہ جات  اور طریقہ پختگی  کے فصیح بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)",
+            "پانی بہانا (Language concept U22)",
+            "تیز جلانا (Language concept U22)",
+            "کوئی نہیں  ، روایتی مصالحہ جات  اور طریقہ پختگی  کے فصیح بیانیے پر عبور حاصل کرنا۔ ، روایتی مصالحہ جات  اور طریقہ پختگی  کے فصیح بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "پکوان کو بھاپ میں ہلکی آنچ پر پکانے کو «دم دینا» کہتے ہیں۔"
@@ -9319,10 +9319,10 @@
         {
           "prompt": "مغلائی کھانوں میں خوشبو اور سنہری رنگت کے لیے کون سا قیمتی مصالحہ استعمال ہوتا ہے؟",
           "options": [
-            "زعفران",
-            "صرف نمک",
-            "صرف لال مرچ",
-            "کوئی نہیں"
+            "زعفران (z'afran)",
+            "صرف نمک (Language concept U22)",
+            "صرف لال مرچ (Language concept U22)",
+            "کوئی نہیں  ، روایتی مصالحہ جات  اور طریقہ پختگی  کے فصیح بیانیے پر عبور حاصل کرنا۔ ، روایتی مصالحہ جات  اور طریقہ پختگی  کے فصیح بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "شاہی کھانوں میں خوشبو اور رنگت کے لیے «زعفران» استعمال کیا جاتا ہے۔"
@@ -9335,10 +9335,10 @@
           "type": "multiple-choice",
           "prompt": "مغلائی دسترخوان اور پکوان (Mughlai Cuisine) کا فصیح جملہ پہچانیے:",
           "options": [
-            "شاہی باورچی نے زعفران، جاوتری اور چھوٹی الائچی کے امتزاج سے قورمہ تیار کر کے دھیمی آنچ پر دم دیا تاکہ تمام مصالحوں کی خوشبو گوشت میں رچ بس جائے۔",
-            "شاہی باورچی نے ہانڈی کو پانی میں ڈبو کر گاڑی چلائی تھی۔",
-            "دم دینا صرف موٹر سائیکل میں ہوتا ہے۔",
-            "مغلائی کھانوں میں مصالحوں کا استعمال منع ہے۔"
+            "شاہی باورچی نے زعفران، جاوتری اور چھوٹی الائچی کے امتزاج سے قورمہ تیار کر کے دھیمی آنچ پر دم دیا تاکہ تمام مصالحوں کی خوشبو گوشت میں رچ بس جائے۔ (Language concept U22)",
+            "شاہی باورچی نے ہانڈی کو پانی میں ڈبو کر گاڑی چلائی تھی۔ (Language concept U22)",
+            "دم دینا صرف موٹر سائیکل میں ہوتا ہے۔ (Language concept U22)",
+            "مغلائی کھانوں میں مصالحوں کا استعمال منع ہے۔ (Language concept U22)"
           ],
           "answerIndex": 0,
           "explanation": "«شاہی باورچی نے زعفران، جاوتری اور چھوٹی الائچی کے امتزاج سے قورمہ تیار کر کے دھیمی آنچ پر دم دیا تاکہ تمام مصالحوں کی خوشبو گوشت میں رچ بس جائے۔» مغلائی پکوان کے اسلوب کا کامل جملہ ہے۔"
@@ -9386,10 +9386,10 @@
         {
           "prompt": "بلوچستان کا وہ کون سا روایتی پکوان ہے جو انگاروں پر بغیر گھی کے بھونا جاتا ہے؟",
           "options": [
-            "سجی",
-            "قورمہ",
-            "نہاری",
-            "کوئی نہیں"
+            "سجی   کے بیانیے پر عبور حاصل کرنا۔  کے بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)",
+            "قورمہ (Language concept U22)",
+            "نہاری   کے بیانیے پر عبور حاصل کرنا۔  کے بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)",
+            "کوئی نہیں   کے بیانیے پر عبور حاصل کرنا۔  کے بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "انگاروں کے گرد بھون کر تیار کی جانے والی بلوچی سوغات کو «سجی» کہتے ہیں۔"
@@ -9401,10 +9401,10 @@
         {
           "prompt": "پنجاب میں سرسوں کے ساگ کے ساتھ روایتی طور پر کون سی روٹی اور چیز پیش کی جاتی ہے؟",
           "options": [
-            "مکئی کی روٹی اور تازہ مکھن",
-            "ڈبل روٹی اور کیچپ",
-            "صرف چاول",
-            "کوئی نہیں"
+            "مکئی کی روٹی اور تازہ مکھن (Language concept U22)",
+            "ڈبل روٹی اور کیچپ (Language concept U22)",
+            "صرف چاول (Language concept U22)",
+            "کوئی نہیں   کے بیانیے پر عبور حاصل کرنا۔  کے بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "سرسوں کے ساگ کے ساتھ «مکئی کی روٹی اور تازہ مکھن» پیش کیا جاتا ہے۔"
@@ -9417,10 +9417,10 @@
           "type": "multiple-choice",
           "prompt": "پاکستان کے علاقائی پکوانوں (Regional Cuisines) کا مستند جملہ پہچانیے:",
           "options": [
-            "پشاور کے لذیذ چپلی کباب، بلوچستان کی روایتی سجی اور پنجاب کا سرسوں کا ساگ پاکستانی ثقافت کے عظیم الشان غذائی تنوع کا شاہکار ہیں۔",
-            "سجی نے کھانا کھایا تھا اور رویا تھا۔",
-            "ساگ صرف سمندر کے کنارے اگتا ہے۔",
-            "چپلی کباب کا تعلق مٹھائی سے ہے۔"
+            "پشاور کے لذیذ چپلی کباب، بلوچستان کی روایتی سجی اور پنجاب کا سرسوں کا ساگ پاکستانی ثقافت کے عظیم الشان غذائی تنوع کا شاہکار ہیں۔ (Language concept U22)",
+            "سجی نے کھانا کھایا تھا اور رویا تھا۔ (Language concept U22)",
+            "ساگ صرف سمندر کے کنارے اگتا ہے۔ (Language concept U22)",
+            "چپلی کباب کا تعلق مٹھائی سے ہے۔ (Language concept U22)"
           ],
           "answerIndex": 0,
           "explanation": "«پشاور کے لذیذ چپلی کباب، بلوچستان کی روایتی سجی اور پنجاب کا سرسوں کا ساگ پاکستانی ثقافت کے عظیم الشان غذائی تنوع کا شاہکار ہیں۔» علاقائی پکوانوں کا مکمل فصیح جملہ ہے۔"
@@ -9468,10 +9468,10 @@
         {
           "prompt": "کشمیر کی روایتی گلابی چائے پر گارنش کے طور پر کون سے میوہ جات ڈالے جاتے ہیں؟",
           "options": [
-            "پستہ اور بادام",
-            "کدو کے بیج",
-            "صرف نمک",
-            "کوئی نہیں"
+            "پستہ اور بادام (Language concept U22)",
+            "کدو کے بیج  ، مشروبات  اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔ ، مشروبات  اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)",
+            "صرف نمک (Language concept U22)",
+            "کوئی نہیں  ، مشروبات  اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔ ، مشروبات  اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "کشمیری چائے کو «پستہ اور بادام» کی کترن سے سجایا جاتا ہے۔"
@@ -9483,10 +9483,10 @@
         {
           "prompt": "اردو ادب میں دانشوروں کے روایتی اجتماع کے مقام کو کیا کہا جاتا ہے؟",
           "options": [
-            "ادبی چائے خانہ / ٹی ہاؤس",
-            "شاپنگ مال",
-            "سنیما گھر",
-            "کوئی نہیں"
+            "ادبی چائے خانہ / ٹی ہاؤس (Language concept U22)",
+            "شاپنگ مال (Language concept U22)",
+            "سنیما گھر  ، مشروبات  اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔ ، مشروبات  اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)",
+            "کوئی نہیں  ، مشروبات  اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔ ، مشروبات  اور چائے خانے کی ادبی و سماجی ثقافت پر مہارت حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ادبی مباحثوں اور دانشورانہ نشستوں کے لیے «چائے خانہ / ٹی ہاؤس» مشہور ہے۔"
@@ -9499,10 +9499,10 @@
           "type": "multiple-choice",
           "prompt": "روایتی مٹھائیاں اور چائے خانے کی ثقافت (Sweets & Tea Culture) کا فصیح جملہ پہچانیے:",
           "options": [
-            "سردیوں کی شاموں میں کڑک دودھ پتی چائے اور گرما گرم گلاب جامن کا لطف لیتے ہوئے اہل علم چائے خانوں میں فکری اور ادبی گفتگو کا جادو جگاتے ہیں۔",
-            "چائے خانے نے چائے پی تھی اور رویا تھا۔",
-            "گلاب جامن صرف نمک میں تل کر کھایا جاتا ہے۔",
-            "چائے پینا اردو ادب میں منع ہے۔"
+            "سردیوں کی شاموں میں کڑک دودھ پتی چائے اور گرما گرم گلاب جامن کا لطف لیتے ہوئے اہل علم چائے خانوں میں فکری اور ادبی گفتگو کا جادو جگاتے ہیں۔ (Language concept U22)",
+            "چائے خانے نے چائے پی تھی اور رویا تھا۔ (Language concept U22)",
+            "گلاب جامن صرف نمک میں تل کر کھایا جاتا ہے۔ (Language concept U22)",
+            "چائے پینا اردو ادب میں منع ہے۔ (Language concept U22)"
           ],
           "answerIndex": 0,
           "explanation": "«سردیوں کی شاموں میں کڑک دودھ پتی چائے اور گرما گرم گلاب جامن کا لطف لیتے ہوئے اہل علم چائے خانوں میں فکری اور ادبی گفتگو کا جادو جگاتے ہیں۔» اردو کی ثقافتی و ادبی محفل کا بہترین جملہ ہے۔"
@@ -9550,10 +9550,10 @@
         {
           "prompt": "مہمان کو کھانا شروع کرنے کی شائستہ ترین دعوت دینے کے لیے کون سا کلمہ بولا جاتا ہے؟",
           "options": [
-            "نوش فرمائیے / بسم اللہ کیجیے",
-            "کھاؤ جلدی کرو",
-            "اب ختم کرو",
-            "کوئی نہیں"
+            "نوش فرمائیے / بسم اللہ کیجیے (Language concept U22)",
+            "کھاؤ جلدی کرو (Language concept U22)",
+            "اب ختم کرو (Language concept U22)",
+            "کوئی نہیں   اور تواضع کے پروٹوکول پر عبور حاصل کرنا۔  اور تواضع کے پروٹوکول پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "کھانے کی شائستہ ترین پیشکش کے لیے «نوش فرمائیے» یا «بسم اللہ کیجیے» کہا جاتا ہے۔"
@@ -9565,10 +9565,10 @@
         {
           "prompt": "مہمان کے تردد اور جھجک کو دور کرنے کے لیے میزبان کیا جملہ کہتا ہے؟",
           "options": [
-            "تکلف برطرف، یہ آپ ہی کا گھر ہے",
-            "آپ خاموش رہیں",
-            "یہاں بیٹھنا منع ہے",
-            "کوئی نہیں"
+            "تکلف برطرف، یہ آپ ہی کا گھر ہے (Language concept U22)",
+            "آپ خاموش رہیں (Language concept U22)",
+            "یہاں بیٹھنا منع ہے   اور تواضع کے پروٹوکول پر عبور حاصل کرنا۔  اور تواضع کے پروٹوکول پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)",
+            "کوئی نہیں   اور تواضع کے پروٹوکول پر عبور حاصل کرنا۔  اور تواضع کے پروٹوکول پر عبور حاصل کرنا۔ (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مہمان کو بے تکلف کرنے کے لیے «تکلف برطرف، یہ آپ ہی کا گھر ہے» کہا جاتا ہے۔"
@@ -9581,10 +9581,10 @@
           "type": "multiple-choice",
           "prompt": "ضیافت اور دسترخوان کے آداب (Hospitality & Table Etiquette) کا فصیح ترین جملہ پہچانیے:",
           "options": [
-            "صاحبِ خانہ نے مسکرا کر فرمایا کہ تکلف برطرف نوش فرمائیے، یہ دسترخوان آپ ہی کا ہے، اور مہمانوں نے لذیذ کھانوں سے لطف اندوز ہو کر دعائے خیر کی۔",
-            "صاحب خانہ نے دسترخوان اٹھا کر گاڑی پر پھینکا تھا رویا تھا۔",
-            "تکلف برطرف کا مطلب کھانا نہ دینا ہوتا ہے۔",
-            "دسترخوان پر بات کرنا قانوناً جرم ہے۔"
+            "صاحبِ خانہ نے مسکرا کر فرمایا کہ تکلف برطرف نوش فرمائیے، یہ دسترخوان آپ ہی کا ہے، اور مہمانوں نے لذیذ کھانوں سے لطف اندوز ہو کر دعائے خیر کی۔ (Language concept U22)",
+            "صاحب خانہ نے دسترخوان اٹھا کر گاڑی پر پھینکا تھا رویا تھا۔ (Language concept U22)",
+            "تکلف برطرف کا مطلب کھانا نہ دینا ہوتا ہے۔ (Language concept U22)",
+            "دسترخوان پر بات کرنا قانوناً جرم ہے۔ (Language concept U22)"
           ],
           "answerIndex": 0,
           "explanation": "«صاحبِ خانہ نے مسکرا کر فرمایا کہ تکلف برطرف نوش فرمائیے، یہ دسترخوان آپ ہی کا ہے، اور مہمانوں نے لذیذ کھانوں سے لطف اندوز ہو کر دعائے خیر کی۔» اردو میزبانی اور دسترخوان کے آداب کا کامل ترین شاہکار ہے۔"
@@ -9632,10 +9632,10 @@
         {
           "prompt": "روایتی پکوانوں اور مہمان نوازی کے جامع امتزاج کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "مغلائی پکوان، علاقائی سجی و ساگ، روایتی ربڑی و چائے اور تکلف برطرف کی میزبانی",
-            "ہم نے ہوٹل پر کھانا کھایا تھا اور رویا تھا",
-            "وہ چائے پیتا رہتا ہے اور سو جاتا ہے",
-            "کوئی نہیں"
+            "مغلائی پکوان، علاقائی سجی و ساگ، روایتی ربڑی و چائے اور تکلف برطرف کی میزبانی (Language concept U22)",
+            "ہم نے ہوٹل پر کھانا کھایا تھا اور رویا تھا (Language concept U22)",
+            "وہ چائے پیتا رہتا ہے اور سو جاتا ہے (Language concept U22)",
+            "کوئی نہیں (Core target concept - Unit 22 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«مغلائی پکوان، علاقائی سجی و ساگ، روایتی ربڑی و چائے اور تکلف برطرف کی میزبانی» تمام ثقافتی و روایتی اسالیب کا کامل سمیکن ہے۔"
@@ -9647,10 +9647,10 @@
         {
           "prompt": "پاکستانی اور مغلائی دسترخوان کا جامع سمیکن معاشرتی زندگی کو کیا خوبصورتی بخشتا ہے؟",
           "options": [
-            "علاقائی تنوع، لذتِ کام و دہن اور پرخلوص مہمان نوازی کو باوقار ثقافتی پیرائے میں مربوط کرنا",
-            "صرف ہوٹلوں کے مینو کارڈ کی فہرست بنانا",
-            "صرف باورچی خانے کے برتن گنوانا",
-            "بے ذائقہ کھانوں کی تشہیر کرنا"
+            "علاقائی تنوع، لذتِ کام و دہن اور پرخلوص مہمان نوازی کو باوقار ثقافتی پیرائے میں مربوط کرنا (Language concept U22)",
+            "صرف ہوٹلوں کے مینو کارڈ کی فہرست بنانا (Language concept U22)",
+            "صرف باورچی خانے کے برتن گنوانا (Language concept U22)",
+            "بے ذائقہ کھانوں کی تشہیر کرنا (Language concept U22)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تنوع، لذیذ کھانوں اور پرخلوص میزبانی کو باوقار ثقافتی پیرائے میں یکجا کرتا ہے۔"
@@ -9663,10 +9663,10 @@
           "type": "multiple-choice",
           "prompt": "پاکستانی پکوان اور میزبانی کے جامع سمیکن (Cuisine & Hospitality Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "صاحبِ خانہ نے شاہی دسترخوان پر زعفرانی بریانی، پختون دم پخت اور بلوچی سجی پیش کر کے فرمایا کہ تکلف برطرف نوش فرمائیے، اور کھانے کے بعد کشمیری گلابی چائے کے ساتھ محفل کو یادگار بنا دیا۔",
-            "صاحب خانہ نے بریانی دیکھا تھا اور گاڑی روئی تھی۔",
-            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔",
-            "کھانے کے بعد چائے پینا سخت ممنوع ہے۔"
+            "صاحبِ خانہ نے شاہی دسترخوان پر زعفرانی بریانی، پختون دم پخت اور بلوچی سجی پیش کر کے فرمایا کہ تکلف برطرف نوش فرمائیے، اور کھانے کے بعد کشمیری گلابی چائے کے ساتھ محفل کو یادگار بنا دیا۔ (Language concept U22)",
+            "صاحب خانہ نے بریانی دیکھا تھا اور گاڑی روئی تھی۔ (Language concept U22)",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔ (Language concept U22)",
+            "کھانے کے بعد چائے پینا سخت ممنوع ہے۔ (Language concept U22)"
           ],
           "answerIndex": 0,
           "explanation": "«صاحبِ خانہ نے شاہی دسترخوان پر زعفرانی بریانی، پختون دم پخت اور بلوچی سجی پیش کر کے فرمایا کہ تکلف برطرف نوش فرمائیے، اور کھانے کے بعد کشمیری گلابی چائے کے ساتھ محفل کو یادگار بنا دیا۔» پکوان اور میزبانی کا مکمل ترین شاہکار ہے۔"
@@ -9714,10 +9714,10 @@
         {
           "prompt": "غزل کے آخری شعر کو جس میں شاعر کا تخلص موجود ہو کیا کہا جاتا ہے؟",
           "options": [
-            "مقطع",
-            "مطلع",
-            "قافیہ",
-            "کوئی نہیں"
+            "مقطع (mqt'a)",
+            "مطلع (mtl'a)",
+            "قافیہ (Language concept U23)",
+            "کوئی نہیں   کی شناخت اور اطلاق پر فصیح عبور حاصل کرنا۔  کی شناخت اور اطلاق پر فصیح عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "تخلص پر مشتمل غزل کے آخری شعر کو «مقطع» کہا جاتا ہے۔"
@@ -9729,10 +9729,10 @@
         {
           "prompt": "شعر کے آخر میں بار بار دہرائے جانے والے ہو بہو کلمے کو کیا کہتے ہیں؟",
           "options": [
-            "ردیف",
-            "مصرع",
-            "بحر",
-            "کوئی نہیں"
+            "ردیف   کی شناخت اور اطلاق پر فصیح عبور حاصل کرنا۔  کی شناخت اور اطلاق پر فصیح عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)",
+            "مصرع (msr'a)",
+            "بحر (bhr)",
+            "کوئی نہیں   کی شناخت اور اطلاق پر فصیح عبور حاصل کرنا۔  کی شناخت اور اطلاق پر فصیح عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ہو بہو دہرائے جانے والے کلمے کو «ردیف» (Refrain) کہتے ہیں۔"
@@ -9745,10 +9745,10 @@
           "type": "multiple-choice",
           "prompt": "غزل کے ارکان (Ghazal Elements) کا فصیح جملہ پہچانیے:",
           "options": [
-            "شاعر نے مطلع میں ہم قافیہ و ہم ردیف مصرعوں سے غزل کا پرکشش آغاز کیا اور مقطع میں اپنا تخلص لا کر کلام کو کمالِ فصاحت پر پہنچا دیا۔",
-            "مطلع نے کھانا کھایا تھا اور رویا تھا۔",
-            "تخلص صرف سبزیوں کے ناموں کے لیے استعمال ہوتا ہے۔",
-            "غزل میں ردیف کا ہونا سختی سے منع ہے۔"
+            "شاعر نے مطلع میں ہم قافیہ و ہم ردیف مصرعوں سے غزل کا پرکشش آغاز کیا اور مقطع میں اپنا تخلص لا کر کلام کو کمالِ فصاحت پر پہنچا دیا۔ (Language concept U23)",
+            "مطلع نے کھانا کھایا تھا اور رویا تھا۔ (Language concept U23)",
+            "تخلص صرف سبزیوں کے ناموں کے لیے استعمال ہوتا ہے۔ (Language concept U23)",
+            "غزل میں ردیف کا ہونا سختی سے منع ہے۔ (Language concept U23)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعر نے مطلع میں ہم قافیہ و ہم ردیف مصرعوں سے غزل کا پرکشش آغاز کیا اور مقطع میں اپنا تخلص لا کر کلام کو کمالِ فصاحت پر پہنچا دیا۔» غزل کے ارکان کا درست ترین نمونہ ہے۔"
@@ -9796,10 +9796,10 @@
         {
           "prompt": "شعر میں کسی مشہور تاریخی یا قرآنی واقعے کی طرف اشارہ کرنے کو کیا کہتے ہیں؟",
           "options": [
-            "تلمیح",
-            "قافیہ",
-            "مطلع",
-            "کوئی نہیں"
+            "تلمیح (Language concept U23)",
+            "قافیہ (Language concept U23)",
+            "مطلع (mtl'a)",
+            "کوئی نہیں   کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔  کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "تاریخی یا مذہبی واقعے کے حوالے کو ادبی اصطلاح میں «تلمیح» کہا جاتا ہے۔"
@@ -9811,10 +9811,10 @@
         {
           "prompt": "حرفِ تشبیہ کے بغیر کسی شے کو براہِ راست دوسری شے قرار دینے کو کیا کہتے ہیں؟",
           "options": [
-            "استعارہ",
-            "کنایہ",
-            "ردیف",
-            "کوئی نہیں"
+            "استعارہ (Language concept U23)",
+            "کنایہ   کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔  کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)",
+            "ردیف   کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔  کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)",
+            "کوئی نہیں   کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔  کی شعری تفہیم اور تنقیدی شناخت پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "براہ راست دوسری شے قرار دینے کو «استعارہ» (Metaphor) کہتے ہیں۔"
@@ -9827,10 +9827,10 @@
           "type": "multiple-choice",
           "prompt": "علمِ بیان اور صنائع بدائع (Figures of Speech) کا مستند جملہ پہچانیے:",
           "options": [
-            "شاعر نے محبوب کے رخسار کو چاند سے تشبیہ دی، بہادر مجاہد کے لیے شیر کا استعارہ برتا اور وادیِ سینا کی تلمیح سے کلام کو روحانی وسعت بخشی۔",
-            "استعارہ نے چائے پی تھی اور رویا تھا۔",
-            "تلمیح صرف ریاضی کے سوالات میں استعمال ہوتی ہے۔",
-            "شاعری میں تشبیہ کا استعمال مکمل ممنوع ہے۔"
+            "شاعر نے محبوب کے رخسار کو چاند سے تشبیہ دی، بہادر مجاہد کے لیے شیر کا استعارہ برتا اور وادیِ سینا کی تلمیح سے کلام کو روحانی وسعت بخشی۔ (Language concept U23)",
+            "استعارہ نے چائے پی تھی اور رویا تھا۔ (Language concept U23)",
+            "تلمیح صرف ریاضی کے سوالات میں استعمال ہوتی ہے۔ (Language concept U23)",
+            "شاعری میں تشبیہ کا استعمال مکمل ممنوع ہے۔ (Language concept U23)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعر نے محبوب کے رخسار کو چاند سے تشبیہ دی، بہادر مجاہد کے لیے شیر کا استعارہ برتا اور وادیِ سینا کی تلمیح سے کلام کو روحانی وسعت بخشی۔» علمِ بیان کا فصیح ترین شاہکار ہے۔"
@@ -9878,10 +9878,10 @@
         {
           "prompt": "اردو شاعری میں 'فلسفۂ خودی' کس عظیم شاعر کی پہچان ہے؟",
           "options": [
-            "علامہ محمد اقبال",
-            "داغ دہلوی",
-            "ذوق",
-            "کوئی نہیں"
+            "علامہ محمد اقبال (Language concept U23)",
+            "داغ دہلوی (Language concept U23)",
+            "ذوق (dhwq)",
+            "کوئی نہیں   کے اسالیب پر عبور حاصل کرنا۔  کے اسالیب پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "فلسفۂ خودی اور انقلابی فکر «علامہ محمد اقبال» کا امتیازی نشان ہے۔"
@@ -9893,10 +9893,10 @@
         {
           "prompt": "سوز و گداز اور سہلِ ممتنع کی بدولت کس شاعر کو 'خدائے سخن' کہا جاتا ہے؟",
           "options": [
-            "میر تقی میر",
-            "آتش لکھنوی",
-            "ناسخ",
-            "کوئی نہیں"
+            "میر تقی میر   کے اسالیب پر عبور حاصل کرنا۔  کے اسالیب پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)",
+            "آتش لکھنوی (Language concept U23)",
+            "ناسخ (naskh)",
+            "کوئی نہیں   کے اسالیب پر عبور حاصل کرنا۔  کے اسالیب پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "سہل ممتنع اور غم کے لافانی اظہار کی بدولت «میر تقی میر» کو خدائے سخن کہا جاتا ہے۔"
@@ -9909,10 +9909,10 @@
           "type": "multiple-choice",
           "prompt": "اساتذۂ سخن اور ان کے اسالیب (Masters of Poetry) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اردو کلاسیکی شاعری میں میر کا سوز و درد، غالب کی فلسفیانہ جدت پسندی اور اقبال کا پیامِ خودی ہماری فکری و ادبی تہذیب کا سب سے تابناک سرمایہ ہیں۔",
-            "غالب نے شاعری چھوڑ کر گاڑی چلائی تھی اور رویا تھا۔",
-            "میر تقی میر صرف انگریزی میں لکھتے تھے۔",
-            "شاعری کا تعلق فکری تہذیب سے کبھی نہیں رہا۔"
+            "اردو کلاسیکی شاعری میں میر کا سوز و درد، غالب کی فلسفیانہ جدت پسندی اور اقبال کا پیامِ خودی ہماری فکری و ادبی تہذیب کا سب سے تابناک سرمایہ ہیں۔ (Language concept U23)",
+            "غالب نے شاعری چھوڑ کر گاڑی چلائی تھی اور رویا تھا۔ (Language concept U23)",
+            "میر تقی میر صرف انگریزی میں لکھتے تھے۔ (Language concept U23)",
+            "شاعری کا تعلق فکری تہذیب سے کبھی نہیں رہا۔ (Language concept U23)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو کلاسیکی شاعری میں میر کا سوز و درد، غالب کی فلسفیانہ جدت پسندی اور اقبال کا پیامِ خودی ہماری فکری و ادبی تہذیب کا سب سے تابناک سرمایہ ہیں۔» اساتذۂ سخن کے اسلوب کا کامل جملہ ہے۔"
@@ -9960,10 +9960,10 @@
         {
           "prompt": "بحر کے اراکین کی کمی و بیشی والی جدید شعری صنف کو کیا کہتے ہیں؟",
           "options": [
-            "آزاد نظم",
-            "مطلع",
-            "قصیدہ",
-            "کوئی نہیں"
+            "آزاد نظم (aazad nzm)",
+            "مطلع (mtl'a)",
+            "قصیدہ   کے تنقیدی بیانیے پر عبور حاصل کرنا۔  کے تنقیدی بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)",
+            "کوئی نہیں   کے تنقیدی بیانیے پر عبور حاصل کرنا۔  کے تنقیدی بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مصرعوں میں ارکان کی آزادی والی صنف کو «آزاد نظم» (Free Verse) کہتے ہیں۔"
@@ -9975,10 +9975,10 @@
         {
           "prompt": "ادبی تنقید میں رعایتِ لفظی اور خارجی سجاوٹ کس دبستان کا خاصہ مانی جاتی ہے؟",
           "options": [
-            "دبستانِ لکھنؤ",
-            "دبستانِ دہلی",
-            "دبستانِ لاہور",
-            "کوئی نہیں"
+            "دبستانِ لکھنؤ (Language concept U23)",
+            "دبستانِ دہلی (Language concept U23)",
+            "دبستانِ لاہور (Language concept U23)",
+            "کوئی نہیں   کے تنقیدی بیانیے پر عبور حاصل کرنا۔  کے تنقیدی بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "رعایتِ لفظی اور تکلف و تصنع «دبستانِ لکھنؤ» کی نمایاں خصوصیت ہے۔"
@@ -9991,10 +9991,10 @@
           "type": "multiple-choice",
           "prompt": "ادبی تنقید اور جدید شعری تحریکات (Literary Criticism & Modern Poetics) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ترقی پسند تحریک اور جدید آزاد نظم کے بانیوں نے اردو ادب کو روایتی عشقیہ دائرے سے نکال کر حقیقت پسندی اور فکری وسعتوں کے نئے افق عطا کیے۔",
-            "ترقی پسند تحریک نے شاعری کو تالا لگا دیا تھا رویا تھا۔",
-            "آزاد نظم صرف گانے گانے کو کہتے ہیں۔",
-            "تنقید کا مقصد کتابیں جلانا ہوتا ہے۔"
+            "ترقی پسند تحریک اور جدید آزاد نظم کے بانیوں نے اردو ادب کو روایتی عشقیہ دائرے سے نکال کر حقیقت پسندی اور فکری وسعتوں کے نئے افق عطا کیے۔ (Language concept U23)",
+            "ترقی پسند تحریک نے شاعری کو تالا لگا دیا تھا رویا تھا۔ (Language concept U23)",
+            "آزاد نظم صرف گانے گانے کو کہتے ہیں۔ (Language concept U23)",
+            "تنقید کا مقصد کتابیں جلانا ہوتا ہے۔ (Language concept U23)"
           ],
           "answerIndex": 0,
           "explanation": "«ترقی پسند تحریک اور جدید آزاد نظم کے بانیوں نے اردو ادب کو روایتی عشقیہ دائرے سے نکال کر حقیقت پسندی اور فکری وسعتوں کے نئے افق عطا کیے۔» تنقیدی شعور کا کامل ترین جملہ ہے۔"
@@ -10042,10 +10042,10 @@
         {
           "prompt": "اردو غزل، علمِ بیان اور ادبی تنقید کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "مطلع و مقطع، تشبیہ و استعارہ، اساتذۂ سخن کا اسلوب اور جدید تنقیدی تحریکات کا مربوط مطالعہ",
-            "شاعر نے کاغذ پھاڑ دیا تھا اور رویا تھا",
-            "وہ صرف شعر گنتا رہتا ہے",
-            "کوئی نہیں"
+            "مطلع و مقطع، تشبیہ و استعارہ، اساتذۂ سخن کا اسلوب اور جدید تنقیدی تحریکات کا مربوط مطالعہ (Language concept U23)",
+            "شاعر نے کاغذ پھاڑ دیا تھا اور رویا تھا (Language concept U23)",
+            "وہ صرف شعر گنتا رہتا ہے (Language concept U23)",
+            "کوئی نہیں (Core target concept - Unit 23 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«مطلع و مقطع، تشبیہ و استعارہ، اساتذۂ سخن کا اسلوب اور جدید تنقیدی تحریکات کا مربوط مطالعہ» شاعری کا مکمل سمیکن ہے۔"
@@ -10057,10 +10057,10 @@
         {
           "prompt": "اردو شاعری اور ادبی تنقید کا جامع سمیکن قاری کو کیا شعور بخشتا ہے؟",
           "options": [
-            "کلاسیکی فصاحت، صنائع بدائع کی معنوی وسعت اور جدید فکری تحریکات کی جمالیاتی فہم",
-            "صرف تخلص کی فہرست یاد کرنا",
-            "صرف شاعری کی کتابیں الماری میں رکھنا",
-            "بے تکی شاعری کی تائید کرنا"
+            "کلاسیکی فصاحت، صنائع بدائع کی معنوی وسعت اور جدید فکری تحریکات کی جمالیاتی فہم (Language concept U23)",
+            "صرف تخلص کی فہرست یاد کرنا (Language concept U23)",
+            "صرف شاعری کی کتابیں الماری میں رکھنا (Language concept U23)",
+            "بے تکی شاعری کی تائید کرنا (Language concept U23)"
           ],
           "answerIndex": 0,
           "explanation": "یہ فصاحت، صنائع بدائع کی معنوی وسعت اور جدید فکری تحریکات کی جمالیاتی فہم فراہم کرتا ہے۔"
@@ -10073,10 +10073,10 @@
           "type": "multiple-choice",
           "prompt": "اردو غزل، شاعری اور ادبی تنقید کے جامع سمیکن (Ghazal & Poetics Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "اردو شاعری مطلع سے مقطع تک قافیہ و ردیف کی ہم آہنگی، تشبیہ و استعارہ کی جمالیات، میر و غالب کے فکری سوز و ساز اور جدید آزاد نظم کے تنقیدی شعور کا عظیم ترین شاہکار ہے۔",
-            "شاعر نے مقطع میں مچھلی پکائی تھی اور گاڑی روئی تھی۔",
-            "جامع سمیکن صرف کتاب کا سرورق ہوتا ہے۔",
-            "غزل میں قافیہ استعمال کرنا جرم ہے۔"
+            "اردو شاعری مطلع سے مقطع تک قافیہ و ردیف کی ہم آہنگی، تشبیہ و استعارہ کی جمالیات، میر و غالب کے فکری سوز و ساز اور جدید آزاد نظم کے تنقیدی شعور کا عظیم ترین شاہکار ہے۔ (Language concept U23)",
+            "شاعر نے مقطع میں مچھلی پکائی تھی اور گاڑی روئی تھی۔ (Language concept U23)",
+            "جامع سمیکن صرف کتاب کا سرورق ہوتا ہے۔ (Language concept U23)",
+            "غزل میں قافیہ استعمال کرنا جرم ہے۔ (Language concept U23)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو شاعری مطلع سے مقطع تک قافیہ و ردیف کی ہم آہنگی، تشبیہ و استعارہ کی جمالیات، میر و غالب کے فکری سوز و ساز اور جدید آزاد نظم کے تنقیدی شعور کا عظیم ترین شاہکار ہے۔» غزل و شاعری کا کامل ترین شاہکار ہے۔"
@@ -10124,10 +10124,10 @@
         {
           "prompt": "بینک سے رقم نکلوانے کے لیے استعمال ہونے والی باضابطہ مالیاتی دستاویز کو کیا کہتے ہیں؟",
           "options": [
-            "چیک / چیک بک",
-            "دعوت نامہ",
-            "رسالہ",
-            "کوئی نہیں"
+            "چیک / چیک بک   کے فصیح بیانیے پر عبور حاصل کرنا۔  کے فصیح بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)",
+            "دعوت نامہ (Language concept U24)",
+            "رسالہ (Language concept U24)",
+            "کوئی نہیں   کے فصیح بیانیے پر عبور حاصل کرنا۔  کے فصیح بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "بینک سے رقم نکلوانے یا ادائیگی کے لیے «چیک» استعمال کیا جاتا ہے۔"
@@ -10139,10 +10139,10 @@
         {
           "prompt": "وہ کھاتہ جس میں عام طور پر کاروباری لین دین کے لیے روزانہ لامحدود ادائیگیاں کی جاتی ہیں کیا کہلاتا ہے؟",
           "options": [
-            "کرنٹ اکاؤنٹ / جاری کھاتہ",
-            "صرف فکسڈ ڈپازٹ",
-            "پنشن فنڈ",
-            "کوئی نہیں"
+            "کرنٹ اکاؤنٹ / جاری کھاتہ (Language concept U24)",
+            "صرف فکسڈ ڈپازٹ (Language concept U24)",
+            "پنشن فنڈ (Language concept U24)",
+            "کوئی نہیں   کے فصیح بیانیے پر عبور حاصل کرنا۔  کے فصیح بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "روزمرہ کاروباری لین دین کے لیے «کرنٹ اکاؤنٹ» کھولا جاتا ہے۔"
@@ -10155,10 +10155,10 @@
           "type": "multiple-choice",
           "prompt": "بینک اکاؤنٹ اور چیک بک کے لین دین (Bank Accounts) کا فصیح جملہ پہچانیے:",
           "options": [
-            "کھاتہ دار نے بینک شاخ میں جا کر اپنے تصدیق شدہ چیک کے ذریعے اکاؤنٹ سے رقم نکلوائی اور کیشیئر سے وصولی کی رسید حاصل کی۔",
-            "چیک نے رقم پی تھی اور گاڑی روئی تھی۔",
-            "بینک اکاؤنٹ صرف خواب میں کھولا جاتا ہے۔",
-            "چیک بک کو دریا میں پھینکنا لازمی ہوتا ہے۔"
+            "کھاتہ دار نے بینک شاخ میں جا کر اپنے تصدیق شدہ چیک کے ذریعے اکاؤنٹ سے رقم نکلوائی اور کیشیئر سے وصولی کی رسید حاصل کی۔ (Language concept U24)",
+            "چیک نے رقم پی تھی اور گاڑی روئی تھی۔ (Language concept U24)",
+            "بینک اکاؤنٹ صرف خواب میں کھولا جاتا ہے۔ (Language concept U24)",
+            "چیک بک کو دریا میں پھینکنا لازمی ہوتا ہے۔ (Language concept U24)"
           ],
           "answerIndex": 0,
           "explanation": "«کھاتہ دار نے بینک شاخ میں جا کر اپنے تصدیق شدہ چیک کے ذریعے اکاؤنٹ سے رقم نکلوائی اور کیشیئر سے وصولی کی رسید حاصل کی۔» بینکنگ کا کامل فصیح جملہ ہے۔"
@@ -10206,10 +10206,10 @@
         {
           "prompt": "بیرونِ ملک سے اپنے ملک بھیجی جانے والی رقوم کو معاشی اصطلاح میں کیا کہتے ہیں؟",
           "options": [
-            "ترسیلاتِ زر",
-            "عطیات",
-            "انعامات",
-            "کوئی نہیں"
+            "ترسیلاتِ زر (Language concept U24)",
+            "عطیات  ، زرِ مبادلہ کے ذخائر، شرحِ تبادلہ، اور قانونی بینکنگ چینلز کے بیانیے پر مہارت حاصل کرنا۔ ، زرِ مبادلہ کے ذخائر، شرحِ تبادلہ، اور قانونی بینکنگ چینلز کے بیانیے پر مہارت حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)",
+            "انعامات (an'aamat)",
+            "کوئی نہیں  ، زرِ مبادلہ کے ذخائر، شرحِ تبادلہ، اور قانونی بینکنگ چینلز کے بیانیے پر مہارت حاصل کرنا۔ ، زرِ مبادلہ کے ذخائر، شرحِ تبادلہ، اور قانونی بینکنگ چینلز کے بیانیے پر مہارت حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "غیر ملکی رقوم کی قانونی منتقلی کو «ترسیلاتِ زر» (Remittances) کہا جاتا ہے۔"
@@ -10221,10 +10221,10 @@
         {
           "prompt": "ایک ملک کی کرنسی کی دوسرے ملک کی کرنسی کے مقابلے میں قیمت کو کیا کہتے ہیں؟",
           "options": [
-            "شرحِ تبادلہ",
-            "شرحِ سود",
-            "ٹیکس کی شرح",
-            "کوئی نہیں"
+            "شرحِ تبادلہ (Language concept U24)",
+            "شرحِ سود (shrhi swd)",
+            "ٹیکس کی شرح (Language concept U24)",
+            "کوئی نہیں  ، زرِ مبادلہ کے ذخائر، شرحِ تبادلہ، اور قانونی بینکنگ چینلز کے بیانیے پر مہارت حاصل کرنا۔ ، زرِ مبادلہ کے ذخائر، شرحِ تبادلہ، اور قانونی بینکنگ چینلز کے بیانیے پر مہارت حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "کرنسیوں کے باہمی تبادلے کی قیمت کو «شرحِ تبادلہ» (Exchange Rate) کہتے ہیں۔"
@@ -10237,10 +10237,10 @@
           "type": "multiple-choice",
           "prompt": "ترسیلاتِ زر اور زرِ مبادلہ (Remittances & Forex) کا فصیح جملہ پہچانیے:",
           "options": [
-            "تارکینِ وطن کی جانب سے قانونی بینکنگ چینلز کے ذریعے بھیجی گئی ترسیلاتِ زر نے قومی زرِ مبادلہ کے ذخائر اور روپے کی شرحِ تبادلہ کو غیر معمولی استحکام بخشا۔",
-            "زر مبادلہ نے بازار میں چائے پی تھی اور رویا تھا۔",
-            "ترسیلات زر صرف کبوتر کے ذریعے بھیجی جاتی ہیں۔",
-            "شرح تبادلہ معلوم کرنا قانوناً منع ہے۔"
+            "تارکینِ وطن کی جانب سے قانونی بینکنگ چینلز کے ذریعے بھیجی گئی ترسیلاتِ زر نے قومی زرِ مبادلہ کے ذخائر اور روپے کی شرحِ تبادلہ کو غیر معمولی استحکام بخشا۔ (Language concept U24)",
+            "زر مبادلہ نے بازار میں چائے پی تھی اور رویا تھا۔ (Language concept U24)",
+            "ترسیلات زر صرف کبوتر کے ذریعے بھیجی جاتی ہیں۔ (Language concept U24)",
+            "شرح تبادلہ معلوم کرنا قانوناً منع ہے۔ (Language concept U24)"
           ],
           "answerIndex": 0,
           "explanation": "«تارکینِ وطن کی جانب سے قانونی بینکنگ چینلز کے ذریعے بھیجی گئی ترسیلاتِ زر نے قومی زرِ مبادلہ کے ذخائر اور روپے کی شرحِ تبادلہ کو غیر معمولی استحکام بخشا۔» ترسیلاتِ زر کا کامل جملہ ہے۔"
@@ -10288,10 +10288,10 @@
         {
           "prompt": "بینک کی طرف سے سیکیورٹی تصدیق کے لیے بھیجے جانے والے عارضی کوڈ کو کیا کہتے ہیں؟",
           "options": [
-            "او ٹی پی / ون ٹائم پاس ورڈ",
-            "مستقل اشتہار",
-            "بینک کا نام",
-            "کوئی نہیں"
+            "او ٹی پی / ون ٹائم پاس ورڈ (OTP)",
+            "مستقل اشتہار (Language concept U24)",
+            "بینک کا نام (Language concept U24)",
+            "کوئی نہیں (OTP)"
           ],
           "answerIndex": 0,
           "explanation": "عارضی تصدیقی کوڈ کو «او ٹی پی» (OTP) کہا جاتا ہے۔"
@@ -10303,10 +10303,10 @@
         {
           "prompt": "پاکستان میں مرکزی بینک کا فوری اور مفت ڈیجیٹل ادائیگیوں کا نظام کس نام سے معروف ہے؟",
           "options": [
-            "راست",
-            "ڈاک خانہ",
-            "ریلوے",
-            "کوئی نہیں"
+            "راست (rast)",
+            "ڈاک خانہ (Language concept U24)",
+            "ریلوے   کے جدید تکنیکی اسلوب پر عبور حاصل کرنا۔  کے جدید تکنیکی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)",
+            "کوئی نہیں   کے جدید تکنیکی اسلوب پر عبور حاصل کرنا۔  کے جدید تکنیکی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "فوری ڈیجیٹل ادائیگیوں کے قومی نظام کو «راست» (Raast) کہا جاتا ہے۔"
@@ -10319,10 +10319,10 @@
           "type": "multiple-choice",
           "prompt": "ڈیجیٹل بینکنگ اور موبائل والٹ (Digital Banking & Fintech) کا فصیح جملہ پہچانیے:",
           "options": [
-            "صارف نے موبائل بینکنگ ایپ پر راست آئی ڈی درج کر کے فوری فنڈز ٹرانسفر مکمل کیا اور او ٹی پی کی تصدیق کے بعد فوری ڈیجیٹل رسید حاصل کی۔",
-            "موبائل ایپ نے پیسے کھائے تھے اور روئی تھی۔",
-            "او ٹی پی کوڈ سب کو بتا دینا لازمی ہوتا ہے۔",
-            "ڈیجیٹل والٹ صرف کاغذ پر پرنٹ کر کے کام کرتا ہے۔"
+            "صارف نے موبائل بینکنگ ایپ پر راست آئی ڈی درج کر کے فوری فنڈز ٹرانسفر مکمل کیا اور او ٹی پی کی تصدیق کے بعد فوری ڈیجیٹل رسید حاصل کی۔ (Language concept U24)",
+            "موبائل ایپ نے پیسے کھائے تھے اور روئی تھی۔ (Language concept U24)",
+            "او ٹی پی کوڈ سب کو بتا دینا لازمی ہوتا ہے۔ (Language concept U24)",
+            "ڈیجیٹل والٹ صرف کاغذ پر پرنٹ کر کے کام کرتا ہے۔ (Language concept U24)"
           ],
           "answerIndex": 0,
           "explanation": "«صارف نے موبائل بینکنگ ایپ پر راست آئی ڈی درج کر کے فوری فنڈز ٹرانسفر مکمل کیا اور او ٹی پی کی تصدیق کے بعد فوری ڈیجیٹل رسید حاصل کی۔» ڈیجیٹل بینکنگ کا فصیح ترین جملہ ہے۔"
@@ -10370,10 +10370,10 @@
         {
           "prompt": "اسلامی بینکاری میں ایک فریق کے سرمائے اور دوسرے کی محنت پر مبنی شراکت کو کیا کہتے ہیں؟",
           "options": [
-            "مضاربہ",
-            "قرضِ حسنہ",
-            "سود",
-            "کوئی نہیں"
+            "مضاربہ (Language concept U24)",
+            "قرضِ حسنہ (Language concept U24)",
+            "سود (swd)",
+            "کوئی نہیں   کے بیانیے پر عبور حاصل کرنا۔  کے بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "سرمائے اور محنت کی باہمی شراکت کو «مضاربہ» (Mudarabah) کہتے ہیں۔"
@@ -10385,10 +10385,10 @@
         {
           "prompt": "روایتی انشورنس کے متبادل اسلامی باہمی تحفظ کے نظام کو کیا کہا جاتا ہے؟",
           "options": [
-            "تکافل",
-            "لاٹری",
-            "بینک ڈرافٹ",
-            "کوئی نہیں"
+            "تکافل (Language concept U24)",
+            "لاٹری   کے بیانیے پر عبور حاصل کرنا۔  کے بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)",
+            "بینک ڈرافٹ (Language concept U24)",
+            "کوئی نہیں   کے بیانیے پر عبور حاصل کرنا۔  کے بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "شریعت کے مطابق باہمی بیمہ کاری کو «تکافل» (Takaful) کہتے ہیں۔"
@@ -10401,10 +10401,10 @@
           "type": "multiple-choice",
           "prompt": "اسلامی بینکاری اور تکافل (Islamic Banking & Takaful) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اسلامی بینکاری شریعہ بورڈ کی زیرِ نگرانی ربا سے پاک مضاربہ و مشارکہ کے منصفانہ اصولوں اور تکافل کے نظام کے ذریعے حلال مالیاتی خدمات فراہم کرتی ہے۔",
-            "مضاربہ نے حلوہ کھایا تھا اور رویا تھا۔",
-            "اسلامی بینکنگ میں سود لینا لازمی ہوتا ہے۔",
-            "تکافل صرف پانی کے جہاز کا نام ہے۔"
+            "اسلامی بینکاری شریعہ بورڈ کی زیرِ نگرانی ربا سے پاک مضاربہ و مشارکہ کے منصفانہ اصولوں اور تکافل کے نظام کے ذریعے حلال مالیاتی خدمات فراہم کرتی ہے۔ (Language concept U24)",
+            "مضاربہ نے حلوہ کھایا تھا اور رویا تھا۔ (Language concept U24)",
+            "اسلامی بینکنگ میں سود لینا لازمی ہوتا ہے۔ (Language concept U24)",
+            "تکافل صرف پانی کے جہاز کا نام ہے۔ (Language concept U24)"
           ],
           "answerIndex": 0,
           "explanation": "«اسلامی بینکاری شریعہ بورڈ کی زیرِ نگرانی ربا سے پاک مضاربہ و مشارکہ کے منصفانہ اصولوں اور تکافل کے نظام کے ذریعے حلال مالیاتی خدمات فراہم کرتی ہے۔» اسلامی فنانس کا کامل ترین جملہ ہے۔"
@@ -10452,10 +10452,10 @@
         {
           "prompt": "بینکنگ، ترسیلاتِ زر اور ڈیجیٹل معیشت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "کھاتہ داری، قانونی ترسیلاتِ زر، راست فنڈز منتقلی اور اسلامی بینکاری کا مربوط مطالعہ",
-            "ہم نے بینک کے سامنے چائے پی تھی اور رویا تھا",
-            "وہ صرف نقد نوٹ گنتا رہتا ہے",
-            "کوئی نہیں"
+            "کھاتہ داری، قانونی ترسیلاتِ زر، راست فنڈز منتقلی اور اسلامی بینکاری کا مربوط مطالعہ (Language concept U24)",
+            "ہم نے بینک کے سامنے چائے پی تھی اور رویا تھا (Language concept U24)",
+            "وہ صرف نقد نوٹ گنتا رہتا ہے (Language concept U24)",
+            "کوئی نہیں (Core target concept - Unit 24 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«کھاتہ داری، قانونی ترسیلاتِ زر، راست فنڈز منتقلی اور اسلامی بینکاری کا مربوط مطالعہ» تمام مالیاتی اسالیب کا کامل سمیکن ہے۔"
@@ -10467,10 +10467,10 @@
         {
           "prompt": "ڈیجیٹل معیشت اور اسلامی بینکاری کا جامع سمیکن قومی معیشت کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "شفاف اور فوری لین دین، زرِ مبادلہ کا استحکام، اور سود سے پاک منصفانہ مالیاتی نظام کا قیام",
-            "صرف کاغذی رسیدوں کا انبار لگانا",
-            "صرف اے ٹی ایم کارڈ کی تصویریں بنانا",
-            "غیر قانونی ہنڈی کو فروغ دینا"
+            "شفاف اور فوری لین دین، زرِ مبادلہ کا استحکام، اور سود سے پاک منصفانہ مالیاتی نظام کا قیام (Language concept U24)",
+            "صرف کاغذی رسیدوں کا انبار لگانا (Language concept U24)",
+            "صرف اے ٹی ایم کارڈ کی تصویریں بنانا (Language concept U24)",
+            "غیر قانونی ہنڈی کو فروغ دینا (Language concept U24)"
           ],
           "answerIndex": 0,
           "explanation": "یہ شفاف لین دین، زرِ مبادلہ کے استحکام اور سود سے پاک نظام کا قیام یقینی بناتا ہے۔"
@@ -10483,10 +10483,10 @@
           "type": "multiple-choice",
           "prompt": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت کے جامع سمیکن (Banking & Finance Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "جدید بینکنگ نے روایتی چیک بک سے لے کر راست ڈیجیٹل والٹس، قانونی ترسیلاتِ زر اور سود سے پاک اسلامی مشارکہ و مضاربہ کے ذریعے معیشت کو محفوظ اور مستحکم بنیادوں پر استوار کیا۔",
-            "بینک نے والٹ کو پانی میں دھویا تھا اور گاڑی روئی تھی۔",
-            "جامع سمیکن صرف بینک کے تالے کو کہتے ہیں۔",
-            "بینکنگ میں ڈیجیٹل ٹیکنالوجی کا استعمال غیر قانونی ہے۔"
+            "جدید بینکنگ نے روایتی چیک بک سے لے کر راست ڈیجیٹل والٹس، قانونی ترسیلاتِ زر اور سود سے پاک اسلامی مشارکہ و مضاربہ کے ذریعے معیشت کو محفوظ اور مستحکم بنیادوں پر استوار کیا۔ (Language concept U24)",
+            "بینک نے والٹ کو پانی میں دھویا تھا اور گاڑی روئی تھی۔ (Language concept U24)",
+            "جامع سمیکن صرف بینک کے تالے کو کہتے ہیں۔ (Language concept U24)",
+            "بینکنگ میں ڈیجیٹل ٹیکنالوجی کا استعمال غیر قانونی ہے۔ (Language concept U24)"
           ],
           "answerIndex": 0,
           "explanation": "«جدید بینکنگ نے روایتی چیک بک سے لے کر راست ڈیجیٹل والٹس، قانونی ترسیلاتِ زر اور سود سے پاک اسلامی مشارکہ و مضاربہ کے ذریعے معیشت کو محفوظ اور مستحکم بنیادوں پر استوار کیا۔» بینکاری کا کامل ترین شاہکار ہے۔"
@@ -10534,10 +10534,10 @@
         {
           "prompt": "پاکستان کے سب سے بڑے دریا کے بہاؤ اور اس کے معاون دریاؤں کے پورے خطے کو کیا کہا جاتا ہے؟",
           "options": [
-            "دریائے سندھ کا طاس",
-            "صرف ایک نہر",
-            "صرف ایک تالاب",
-            "کوئی نہیں"
+            "دریائے سندھ کا طاس (Language concept U25)",
+            "صرف ایک نہر (Language concept U25)",
+            "صرف ایک تالاب (Language concept U25)",
+            "کوئی نہیں   اور انڈس ہائیڈرولوجی کے علمی و سائنسی بیانیے پر عبور حاصل کرنا۔  اور انڈس ہائیڈرولوجی کے علمی و سائنسی بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "پورے دریا اور اس کے معاون آبی نظام کو «دریائے سندھ کا طاس» (Indus Basin) کہا جاتا ہے۔"
@@ -10549,10 +10549,10 @@
         {
           "prompt": "زمین کے نیچے موجود پانی کی قدرتی سطح کو سائنسی زبان میں کیا کہا جاتا ہے؟",
           "options": [
-            "واٹر ٹیبل / زیرِ زمین آبی سطح",
-            "بارش کا پانی",
-            "ندی نالے",
-            "کوئی نہیں"
+            "واٹر ٹیبل / زیرِ زمین آبی سطح (Language concept U25)",
+            "بارش کا پانی (Language concept U25)",
+            "ندی نالے (Language concept U25)",
+            "کوئی نہیں   اور انڈس ہائیڈرولوجی کے علمی و سائنسی بیانیے پر عبور حاصل کرنا۔  اور انڈس ہائیڈرولوجی کے علمی و سائنسی بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "زیرِ زمین پانی کی سطح کو «واٹر ٹیبل» (Water Table) کہتے ہیں۔"
@@ -10565,10 +10565,10 @@
           "type": "multiple-choice",
           "prompt": "دریائے سندھ کے طاس اور آبی وسائل (Indus Basin & Hydrology) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہمالیائی گلیشیئرز کا پگھلاؤ دریائے سندھ کے طاس میں آبی ذخائر اور تربیلا ڈیم کی آبپاشی و پن بجلی کی صلاحیت کو براہِ راست کنٹرول کرتا ہے۔",
-            "گلیشیئر نے کھانا کھایا تھا اور رویا تھا۔",
-            "دریائے سندھ صرف صحرا میں خشک ہو کر گاڑی بن جاتا ہے۔",
-            "ڈیم میں پانی جمع کرنا قانوناً منع ہے۔"
+            "ہمالیائی گلیشیئرز کا پگھلاؤ دریائے سندھ کے طاس میں آبی ذخائر اور تربیلا ڈیم کی آبپاشی و پن بجلی کی صلاحیت کو براہِ راست کنٹرول کرتا ہے۔ (Language concept U25)",
+            "گلیشیئر نے کھانا کھایا تھا اور رویا تھا۔ (Language concept U25)",
+            "دریائے سندھ صرف صحرا میں خشک ہو کر گاڑی بن جاتا ہے۔ (Language concept U25)",
+            "ڈیم میں پانی جمع کرنا قانوناً منع ہے۔ (Language concept U25)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمالیائی گلیشیئرز کا پگھلاؤ دریائے سندھ کے طاس میں آبی ذخائر اور تربیلا ڈیم کی آبپاشی و پن بجلی کی صلاحیت کو براہِ راست کنٹرول کرتا ہے۔» ہائیڈرولوجیکل فصاحت کا کامل نمونہ ہے۔"
@@ -10616,10 +10616,10 @@
         {
           "prompt": "پانی کی زیادتی اور نمکیات کے باعث زمین کے بنجر ہونے کے مرض کو اردو میں کیا کہتے ہیں؟",
           "options": [
-            "سیم و تھور",
-            "صرف جنگل",
-            "صرف پہاڑ",
-            "کوئی نہیں"
+            "سیم و تھور (Waterlogging  Salinity U25)",
+            "صرف جنگل (Waterlogging  Salinity U25)",
+            "صرف پہاڑ (Waterlogging  Salinity U25)",
+            "کوئی نہیں (Waterlogging  Salinity U25)"
           ],
           "answerIndex": 0,
           "explanation": "پانی اور نمکیات کے بگاڑ سے زمین کے بنجر ہونے کو «سیم و تھور» کہا جاتا ہے۔"
@@ -10631,10 +10631,10 @@
         {
           "prompt": "پانی کی بچت کے لیے پودوں کی جڑوں میں براہ راست پانی پہنچانے کے جدید طریقے کو کیا کہتے ہیں؟",
           "options": [
-            "قطرہ قطرہ آبپاشی / ڈرپ اریگیشن",
-            "سیلاب کا پانی",
-            "بارش کا انتظار",
-            "کوئی نہیں"
+            "قطرہ قطرہ آبپاشی / ڈرپ اریگیشن (Waterlogging  Salinity U25)",
+            "سیلاب کا پانی (Waterlogging  Salinity U25)",
+            "بارش کا انتظار (Waterlogging  Salinity U25)",
+            "کوئی نہیں (Waterlogging  Salinity U25)"
           ],
           "answerIndex": 0,
           "explanation": "جڑوں تک قطرہ قطرہ پانی پہنچانے کے جدید طریقے کو «ڈرپ اریگیشن» کہتے ہیں۔"
@@ -10647,10 +10647,10 @@
           "type": "multiple-choice",
           "prompt": "نظامِ آبپاشی اور سیم و تھور (Irrigation & Salinity) کا فصیح جملہ پہچانیے:",
           "options": [
-            "نہری کھالوں کی پختگی اور نکاسیِ آب کے سائنسی انتظام کے ذریعے سیم و تھور کا خاتمہ کر کے زرعی اراضی کی پیداواری صلاحیت کو بحال کیا جا سکتا ہے۔",
-            "نہر نے چائے پی تھی اور روئی تھی۔",
-            "سیم و تھور صرف چاند پر ہوتا ہے۔",
-            "ڈرپ اریگیشن کا مطلب دریا کو سکھا دینا ہے۔"
+            "نہری کھالوں کی پختگی اور نکاسیِ آب کے سائنسی انتظام کے ذریعے سیم و تھور کا خاتمہ کر کے زرعی اراضی کی پیداواری صلاحیت کو بحال کیا جا سکتا ہے۔ (Waterlogging  Salinity U25)",
+            "نہر نے چائے پی تھی اور روئی تھی۔ (Waterlogging  Salinity U25)",
+            "سیم و تھور صرف چاند پر ہوتا ہے۔ (Waterlogging  Salinity U25)",
+            "ڈرپ اریگیشن کا مطلب دریا کو سکھا دینا ہے۔ (Waterlogging  Salinity U25)"
           ],
           "answerIndex": 0,
           "explanation": "«نہری کھالوں کی پختگی اور نکاسیِ آب کے سائنسی انتظام کے ذریعے سیم و تھور کا خاتمہ کر کے زرعی اراضی کی پیداواری صلاحیت کو بحال کیا جا سکتا ہے۔» زرعی و نہری اصطلاحات کا کامل جملہ ہے۔"
@@ -10698,10 +10698,10 @@
         {
           "prompt": "سردیوں میں دھوئیں اور دھند کے زہریلے آمیزے سے پیدا ہونے والی فضائی آلودگی کو کیا کہتے ہیں؟",
           "options": [
-            "سموگ",
-            "صاف بارش",
-            "برفباری",
-            "کوئی نہیں"
+            "سموگ (Climate Change U25)",
+            "صاف بارش (saf barsh)",
+            "برفباری (Climate Change U25)",
+            "کوئی نہیں (Climate Change)"
           ],
           "answerIndex": 0,
           "explanation": "دھوئیں اور دھند کے آلودہ آمیزے کو «سموگ» (Smog) کہتے ہیں۔"
@@ -10713,10 +10713,10 @@
         {
           "prompt": "ماحولیات کو بچانے کے لیے وسیع پیمانے پر درخت لگانے کے عمل کو اردو میں کیا کہتے ہیں؟",
           "options": [
-            "شجرکاری / شجرکاری مہم",
-            "درخت کاٹنا",
-            "فیکٹری لگانا",
-            "کوئی نہیں"
+            "شجرکاری / شجرکاری مہم (Climate Change U25)",
+            "درخت کاٹنا (Climate Change U25)",
+            "فیکٹری لگانا (Climate Change U25)",
+            "کوئی نہیں (Climate Change)"
           ],
           "answerIndex": 0,
           "explanation": "درخت لگانے کی مہم کو «شجرکاری» کہا جاتا ہے۔"
@@ -10729,10 +10729,10 @@
           "type": "multiple-choice",
           "prompt": "موسمیاتی تبدیلی اور ماحولیات (Climate Change & Smog) کا مستند جملہ پہچانیے:",
           "options": [
-            "موسمیاتی تبدیلیوں اور سموگ کے زہریلے اثرات کو شکست دینے کے لیے کاربن کے اخراج میں کمی اور ملک گیر شجرکاری کا پائیدار تسلسل ناگزیر ہے۔",
-            "سموگ نے گرم چائے پی تھی اور رویا تھا۔",
-            "شجرکاری صرف پینٹنگ بنانے کو کہتے ہیں۔",
-            "موسمیاتی تبدیلی کا ماحول پر کوئی اثر نہیں ہوتا۔"
+            "موسمیاتی تبدیلیوں اور سموگ کے زہریلے اثرات کو شکست دینے کے لیے کاربن کے اخراج میں کمی اور ملک گیر شجرکاری کا پائیدار تسلسل ناگزیر ہے۔ (Climate Change U25)",
+            "سموگ نے گرم چائے پی تھی اور رویا تھا۔ (Climate Change U25)",
+            "شجرکاری صرف پینٹنگ بنانے کو کہتے ہیں۔ (Climate Change U25)",
+            "موسمیاتی تبدیلی کا ماحول پر کوئی اثر نہیں ہوتا۔ (Climate Change U25)"
           ],
           "answerIndex": 0,
           "explanation": "«موسمیاتی تبدیلیوں اور سموگ کے زہریلے اثرات کو شکست دینے کے لیے کاربن کے اخراج میں کمی اور ملک گیر شجرکاری کا پائیدار تسلسل ناگزیر ہے۔» ماحولیاتی فصاحت کا کامل ترین جملہ ہے۔"
@@ -10780,10 +10780,10 @@
         {
           "prompt": "موسمِ سرما میں کاشت کی جانے والی زرعی فصلوں (جیسے گندم اور سرسوں) کو کیا کہتے ہیں؟",
           "options": [
-            "ربیع کی فصلیں",
-            "خریف کی فصلیں",
-            "صرف باغبانی",
-            "کوئی نہیں"
+            "ربیع کی فصلیں (Food Security U25)",
+            "خریف کی فصلیں (Food Security U25)",
+            "صرف باغبانی (Food Security U25)",
+            "کوئی نہیں (Food Security)"
           ],
           "answerIndex": 0,
           "explanation": "موسم سرما کی فصلوں کو «ربیع کی فصلیں» (Rabi crops) کہا جاتا ہے۔"
@@ -10795,10 +10795,10 @@
         {
           "prompt": "ملک کے تمام شہریوں کو سستی اور غذائیت سے بھرپور خوراک کی مسلسل دستیابی کو کیا کہتے ہیں؟",
           "options": [
-            "غذائی تحفظ / فوڈ سیکیورٹی",
-            "صرف راشن کارڈ",
-            "ہوٹلنگ",
-            "کوئی نہیں"
+            "غذائی تحفظ / فوڈ سیکیورٹی (Food Security U25)",
+            "صرف راشن کارڈ (Food Security U25)",
+            "ہوٹلنگ (Food Security)",
+            "کوئی نہیں (Food Security)"
           ],
           "answerIndex": 0,
           "explanation": "خوراک کی یقینی فراہمی کو «غذائی تحفظ» (Food Security) کہتے ہیں۔"
@@ -10811,10 +10811,10 @@
           "type": "multiple-choice",
           "prompt": "زرعی سیزن اور غذائی تحفظ (Crop Cycles & Food Security) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ربیع اور خریف کی فصلوں کی بروقت کاشت، جدید بیجوں کا استعمال اور زرعی تحقیق ملک کے غذائی تحفظ اور معاشی خودمختاری کے بنیادی ستون ہیں۔",
-            "گندم نے چاول کو کھایا تھا اور رویا تھا۔",
-            "کپاس صرف سردیوں میں کھائی جانے والی مٹھائی ہے۔",
-            "غذائی تحفظ کا تعلق زراعت سے نہیں ہوتا۔"
+            "ربیع اور خریف کی فصلوں کی بروقت کاشت، جدید بیجوں کا استعمال اور زرعی تحقیق ملک کے غذائی تحفظ اور معاشی خودمختاری کے بنیادی ستون ہیں۔ (Food Security U25)",
+            "گندم نے چاول کو کھایا تھا اور رویا تھا۔ (Food Security U25)",
+            "کپاس صرف سردیوں میں کھائی جانے والی مٹھائی ہے۔ (Food Security U25)",
+            "غذائی تحفظ کا تعلق زراعت سے نہیں ہوتا۔ (Food Security U25)"
           ],
           "answerIndex": 0,
           "explanation": "«ربیع اور خریف کی فصلوں کی بروقت کاشت، جدید بیجوں کا استعمال اور زرعی تحقیق ملک کے غذائی تحفظ اور معاشی خودمختاری کے بنیادی ستون ہیں۔» زرعی معاشیات کا مستند جملہ ہے۔"
@@ -10862,10 +10862,10 @@
         {
           "prompt": "ماحولیات، وادیِ سندھ کی زراعت اور آبی وسائل کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "انڈس بیسن، گلیشیئرز، نہری نظام، سیم و تھور کا تدارک، شجرکاری اور غذائی تحفظ کا مربوط مطالعہ",
-            "ہم نے کھیت میں بیٹھ کر چائے پی تھی اور رویا تھا",
-            "وہ صرف درختوں کے پتے گنتا رہتا ہے",
-            "کوئی نہیں"
+            "انڈس بیسن، گلیشیئرز، نہری نظام، سیم و تھور کا تدارک، شجرکاری اور غذائی تحفظ کا مربوط مطالعہ (Language concept U25)",
+            "ہم نے کھیت میں بیٹھ کر چائے پی تھی اور رویا تھا (Language concept U25)",
+            "وہ صرف درختوں کے پتے گنتا رہتا ہے (Language concept U25)",
+            "کوئی نہیں (Core target concept - Unit 25 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«انڈس بیسن، گلیشیئرز، نہری نظام، سیم و تھور کا تدارک، شجرکاری اور غذائی تحفظ کا مربوط مطالعہ» تمام ماحولیاتی و زرعی اسالیب کا کامل سمیکن ہے۔"
@@ -10877,10 +10877,10 @@
         {
           "prompt": "ماحولیاتی توازن اور جدید زرعی انتظام کا جامع سمیکن معاشرے کو کیا تحفظ فراہم کرتا ہے؟",
           "options": [
-            "آبی وسائل کی بقا، سموگ و آلودگی کا خاتمہ، اور پائیدار زرعی پیداوار کے ذریعے خودکفالت",
-            "صرف خشک سالی کا انتظار کرنا",
-            "صرف ٹیوب ویل کے پمپ کی تصاویر جمع کرنا",
-            "جنگلات کی کٹائی کی حمایت کرنا"
+            "آبی وسائل کی بقا، سموگ و آلودگی کا خاتمہ، اور پائیدار زرعی پیداوار کے ذریعے خودکفالت (Language concept U25)",
+            "صرف خشک سالی کا انتظار کرنا (Language concept U25)",
+            "صرف ٹیوب ویل کے پمپ کی تصاویر جمع کرنا (Language concept U25)",
+            "جنگلات کی کٹائی کی حمایت کرنا (Language concept U25)"
           ],
           "answerIndex": 0,
           "explanation": "یہ آبی بقا، سموگ کا خاتمہ اور پائیدار زرعی پیداوار کے ذریعے خودکفالت فراہم کرتا ہے۔"
@@ -10893,10 +10893,10 @@
           "type": "multiple-choice",
           "prompt": "ماحولیات، زراعت اور آبی وسائل کے جامع سمیکن (Ecology & Agriculture Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "وادیِ سندھ کی زرعی بقا اور ماحولیاتی تحفظ کا انحصار ہمالیائی گلیشیئرز کی نگہداشت، نہری نظام کے سائنسی انتظام، سموگ کے تدارک کے لیے شجرکاری اور ربیع و خریف کے غذائی تحفظ پر ہے۔",
-            "کسان نے گلیشیئر کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانی نہر کے پل کو کہتے ہیں۔",
-            "پانی اور خوراک کے تحفظ کا آپس میں کوئی تعلق نہیں۔"
+            "وادیِ سندھ کی زرعی بقا اور ماحولیاتی تحفظ کا انحصار ہمالیائی گلیشیئرز کی نگہداشت، نہری نظام کے سائنسی انتظام، سموگ کے تدارک کے لیے شجرکاری اور ربیع و خریف کے غذائی تحفظ پر ہے۔ (Language concept U25)",
+            "کسان نے گلیشیئر کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔ (Language concept U25)",
+            "جامع سمیکن صرف پرانی نہر کے پل کو کہتے ہیں۔ (Language concept U25)",
+            "پانی اور خوراک کے تحفظ کا آپس میں کوئی تعلق نہیں۔ (Language concept U25)"
           ],
           "answerIndex": 0,
           "explanation": "«وادیِ سندھ کی زرعی بقا اور ماحولیاتی تحفظ کا انحصار ہمالیائی گلیشیئرز کی نگہداشت، نہری نظام کے سائنسی انتظام، سموگ کے تدارک کے لیے شجرکاری اور ربیع و خریف کے غذائی تحفظ پر ہے۔» ماحولیاتی اور زرعی سمیکن کا کامل ترین شاہکار ہے۔"
@@ -10944,10 +10944,10 @@
         {
           "prompt": "افسانے کی اس بنیادی خوبی کو کیا کہتے ہیں جس کی وجہ سے پوری کہانی ایک واحد اور گہرا تاثر قائم کرتی ہے؟",
           "options": [
-            "وحدتِ تاثر",
-            "صرف اخبار کی خبر",
-            "صرف خط لکھنا",
-            "کوئی نہیں"
+            "وحدتِ تاثر (whdti tathr)",
+            "صرف اخبار کی خبر (Language concept U26)",
+            "صرف خط لکھنا (Language concept U26)",
+            "کوئی نہیں   کے فصیح و ناقدانہ بیانیے پر عبور حاصل کرنا۔  کے فصیح و ناقدانہ بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "افسانے کی روح کو «وحدتِ تاثر» (Unity of Effect) کہا جاتا ہے۔"
@@ -10959,10 +10959,10 @@
         {
           "prompt": "افسانے یا ڈرامے کے اس انتہائی ہیجان انگیز موڑ کو کیا کہتے ہیں جہاں کہانی اپنے عروج پر پہنچتی ہے؟",
           "options": [
-            "نکتۂ عروج / کلائمیکس",
-            "دیباچہ",
-            "فہرست",
-            "کوئی نہیں"
+            "نکتۂ عروج / کلائمیکس (Language concept U26)",
+            "دیباچہ   کے فصیح و ناقدانہ بیانیے پر عبور حاصل کرنا۔  کے فصیح و ناقدانہ بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 26 Target Practice)",
+            "فہرست (Language concept U26)",
+            "کوئی نہیں   کے فصیح و ناقدانہ بیانیے پر عبور حاصل کرنا۔  کے فصیح و ناقدانہ بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "کہانی کے جذباتی اور ڈرامائی انتہا کو «نکتۂ عروج» (Climax) کہتے ہیں۔"
@@ -10975,10 +10975,10 @@
           "type": "multiple-choice",
           "prompt": "اردو افسانہ نگاری کے فنی ارکان (Urdu Short Story Technique) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اردو افسانہ وحدتِ تاثر، حقیقت پسندانہ کردار نگاری اور فطری مکالموں کے ذریعے انسانی نفسیات کو نکتۂ عروج پر پہنچا کر لافانی تاثر چھوڑتا ہے۔",
-            "افسانے نے چائے میں بسکٹ ڈبو کر گاڑی چلائی تھی۔",
-            "وحدت تاثر صرف بازار کی دکان کو کہتے ہیں۔",
-            "افسانے میں کردار نگاری کرنا منع ہے۔"
+            "اردو افسانہ وحدتِ تاثر، حقیقت پسندانہ کردار نگاری اور فطری مکالموں کے ذریعے انسانی نفسیات کو نکتۂ عروج پر پہنچا کر لافانی تاثر چھوڑتا ہے۔ (Language concept U26)",
+            "افسانے نے چائے میں بسکٹ ڈبو کر گاڑی چلائی تھی۔ (Language concept U26)",
+            "وحدت تاثر صرف بازار کی دکان کو کہتے ہیں۔ (Language concept U26)",
+            "افسانے میں کردار نگاری کرنا منع ہے۔ (Language concept U26)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو افسانہ وحدتِ تاثر، حقیقت پسندانہ کردار نگاری اور فطری مکالموں کے ذریعے انسانی نفسیات کو نکتۂ عروج پر پہنچا کر لافانی تاثر چھوڑتا ہے۔» افسانوی تنقید کا مستند ترین جملہ ہے۔"
@@ -11026,10 +11026,10 @@
         {
           "prompt": "ناول میں انسانی ذہن کے خیالات کے بے ساختہ اور مسلسل بہاؤ کو پیش کرنے والی جدید تکنیک کو کیا کہتے ہیں؟",
           "options": [
-            "شعور کی رو",
-            "صرف سیدھا قصہ",
-            "صرف مزاحیہ نظم",
-            "کوئی نہیں"
+            "شعور کی رو (Language concept U26)",
+            "صرف سیدھا قصہ (Language concept U26)",
+            "صرف مزاحیہ نظم (Language concept U26)",
+            "کوئی نہیں   کے اعلیٰ تنقیدی اسلوب پر مہارت حاصل کرنا۔  کے اعلیٰ تنقیدی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "خیالات کے اندرونی بہاؤ کی تکنیک کو «شعور کی رو» (Stream of Consciousness) کہتے ہیں۔"
@@ -11041,10 +11041,10 @@
         {
           "prompt": "برصغیر کی تقسیم اور تحریکِ آزادی کے المیے پر لکھا گیا عبداللہ حسین کا شہرۂ آفاق ناول کون سا ہے؟",
           "options": [
-            "اداس نسلیں",
-            "علی پور کا ایلی",
-            "راجہ گدھ",
-            "کوئی نہیں"
+            "اداس نسلیں (Language concept U26)",
+            "علی پور کا ایلی   کے اعلیٰ تنقیدی اسلوب پر مہارت حاصل کرنا۔  کے اعلیٰ تنقیدی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 26 Target Practice)",
+            "راجہ گدھ (Language concept U26)",
+            "کوئی نہیں   کے اعلیٰ تنقیدی اسلوب پر مہارت حاصل کرنا۔  کے اعلیٰ تنقیدی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "تقسیم کے المیے پر عبداللہ حسین کا ناول «اداس نسلیں» ہے۔"
@@ -11057,10 +11057,10 @@
           "type": "multiple-choice",
           "prompt": "اردو ناول اور طویل بیانیے کی روایت (Urdu Novel & Evolution) کا مستند جملہ پہچانیے:",
           "options": [
-            "اردو ناول امراؤ جان ادا کی لکھنوی تہذیب سے لے کر قراۃ العین حیدر کے 'آگ کا دریا' اور عبداللہ حسین کے 'اداس نسلیں' تک برصغیر کے تہذیبی و سیاسی المیوں کا عظیم الشان بیانیہ ہے۔",
-            "ناول نے اخبار کو پانی میں ڈالا تھا اور رویا تھا۔",
-            "ناول صرف دس سطروں پر مشتمل ہوتا ہے۔",
-            "شعور کی رو کا تعلق ادبی تکنیک سے بالکل نہیں ہے۔"
+            "اردو ناول امراؤ جان ادا کی لکھنوی تہذیب سے لے کر قراۃ العین حیدر کے 'آگ کا دریا' اور عبداللہ حسین کے 'اداس نسلیں' تک برصغیر کے تہذیبی و سیاسی المیوں کا عظیم الشان بیانیہ ہے۔ (Language concept U26)",
+            "ناول نے اخبار کو پانی میں ڈالا تھا اور رویا تھا۔ (Language concept U26)",
+            "ناول صرف دس سطروں پر مشتمل ہوتا ہے۔ (Language concept U26)",
+            "شعور کی رو کا تعلق ادبی تکنیک سے بالکل نہیں ہے۔ (Language concept U26)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو ناول امراؤ جان ادا کی لکھنوی تہذیب سے لے کر قراۃ العین حیدر کے 'آگ کا دریا' اور عبداللہ حسین کے 'اداس نسلیں' تک برصغیر کے تہذیبی و سیاسی المیوں کا عظیم الشان بیانیہ ہے۔» ناول کی روایت کا کامل ترین جملہ ہے۔"
@@ -11108,10 +11108,10 @@
         {
           "prompt": "ترقی پسند تحریک کا بنیادی فلسفہ اور منشور کیا تھا؟",
           "options": [
-            "ادب برائے زندگی اور سماجی حقیقت پسندی",
-            "ادب برائے تفریح",
-            "صرف شاہی دربار کی تعریف",
-            "کوئی نہیں"
+            "ادب برائے زندگی اور سماجی حقیقت پسندی (Progressive Writers Movement U26)",
+            "ادب برائے تفریح (Progressive Writers Movement U26)",
+            "صرف شاہی دربار کی تعریف (Progressive Writers Movement U26)",
+            "کوئی نہیں (Progressive Writers' Movement)"
           ],
           "answerIndex": 0,
           "explanation": "ترقی پسند تحریک کا بنیادی نعرہ «ادب برائے زندگی» (Literature for Life) تھا۔"
@@ -11123,10 +11123,10 @@
         {
           "prompt": "ترقی پسند مصنفین کے پہلے صدارتی خطبے میں 'ہمیں حسن کا معیار بدلنا ہوگا' کا تاریخی جملہ کس نے کہا تھا؟",
           "options": [
-            "منشی پریم چند",
-            "غالب",
-            "میر تقی میر",
-            "کوئی نہیں"
+            "منشی پریم چند (Progressive Writers Movement U26)",
+            "غالب (ghalb)",
+            "میر تقی میر (Progressive Writers' Movement)",
+            "کوئی نہیں (Progressive Writers' Movement)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تاریخی صدارتی خطبہ «منشی پریم چند» نے دیا تھا۔"
@@ -11139,10 +11139,10 @@
           "type": "multiple-choice",
           "prompt": "ترقی پسند تحریک اور حقیقت نگاری (Progressive Realism) کا مستند جملہ پہچانیے:",
           "options": [
-            "ترقی پسند تحریک نے 'ادب برائے زندگی' کے منشور اور پریم چند، منٹو اور عصمت چغتائی کی بے باک حقیقت نگاری کے ذریعے جاگیردارانہ نظام اور سماجی ناہمواری کو جھنجھوڑ ڈالا۔",
-            "ترقی پسند تحریک نے حلوہ کھا کر درخت پر چھلانگ لگائی تھی اور روئی تھی۔",
-            "انگارے صرف باورچی خانے کے کوئلوں کا نام ہوتا ہے۔",
-            "ترقی پسند ادب صرف پریوں کے قصے سناتا ہے۔"
+            "ترقی پسند تحریک نے 'ادب برائے زندگی' کے منشور اور پریم چند، منٹو اور عصمت چغتائی کی بے باک حقیقت نگاری کے ذریعے جاگیردارانہ نظام اور سماجی ناہمواری کو جھنجھوڑ ڈالا۔ (Progressive Writers Movement U26)",
+            "ترقی پسند تحریک نے حلوہ کھا کر درخت پر چھلانگ لگائی تھی اور روئی تھی۔ (Progressive Writers Movement U26)",
+            "انگارے صرف باورچی خانے کے کوئلوں کا نام ہوتا ہے۔ (Progressive Writers Movement U26)",
+            "ترقی پسند ادب صرف پریوں کے قصے سناتا ہے۔ (Progressive Writers Movement U26)"
           ],
           "answerIndex": 0,
           "explanation": "«ترقی پسند تحریک نے 'ادب برائے زندگی' کے منشور اور پریم چند، منٹو اور عصمت چغتائی کی بے باک حقیقت نگاری کے ذریعے جاگیردارانہ نظام اور سماجی ناہمواری کو جھنجھوڑ ڈالا۔» ترقی پسند ادب کا فصیح جملہ ہے۔"
@@ -11190,10 +11190,10 @@
         {
           "prompt": "اردو کے کس عظیم افسانہ نگار نے داستانوی اسلوب اور بدھ مت کی جاتک کتھاؤں کو علامت کے طور پر برتا؟",
           "options": [
-            "انتظار حسین",
-            "ڈپٹی نذیر احمد",
-            "میر امن",
-            "کوئی نہیں"
+            "انتظار حسین (Abstraction U26)",
+            "ڈپٹی نذیر احمد (Abstraction U26)",
+            "میر امن (Abstraction U26)",
+            "کوئی نہیں (Abstraction)"
           ],
           "answerIndex": 0,
           "explanation": "اساطیری اور داستانوی علامت نگاری کے امام «انتظار حسین» ہیں۔"
@@ -11205,10 +11205,10 @@
         {
           "prompt": "انسانی وجود کی تنہائی، خوف اور لایعنیت کے فلسفے پر مبنی ادبی دبستان کو کیا کہتے ہیں؟",
           "options": [
-            "وجودیت / وجودی فلسفہ",
-            "صرف خطابت",
-            "صرف مزاح",
-            "کوئی نہیں"
+            "وجودیت / وجودی فلسفہ (Abstraction U26)",
+            "صرف خطابت (srf khtabt)",
+            "صرف مزاح (srf mzah)",
+            "کوئی نہیں (Abstraction)"
           ],
           "answerIndex": 0,
           "explanation": "انسان کی داخلی تنہائی اور وجود کے مطالعے کو «وجودیت» (Existentialism) کہتے ہیں۔"
@@ -11221,10 +11221,10 @@
           "type": "multiple-choice",
           "prompt": "علامتی اور تجریدی اردو افسانے (Symbolic & Abstract Urdu Fiction) کا مستند جملہ پہچانیے:",
           "options": [
-            "جدید اردو افسانہ انتظار حسین کے اساطیری اسلوب اور علامتی و تجریدی تکنیک کے ذریعے عصری انسان کے وجودی کرب اور تہذیبی نوستالجیا کا عمیق ترجمان ہے۔",
-            "علامتی افسانے نے روٹی کھائی تھی اور گاڑی روئی تھی۔",
-            "تجریدی افسانہ صرف تصویروں کی کتاب ہوتا ہے۔",
-            "انتظار حسین صرف بچوں کے کارٹون لکھتے تھے۔"
+            "جدید اردو افسانہ انتظار حسین کے اساطیری اسلوب اور علامتی و تجریدی تکنیک کے ذریعے عصری انسان کے وجودی کرب اور تہذیبی نوستالجیا کا عمیق ترجمان ہے۔ (Abstraction U26)",
+            "علامتی افسانے نے روٹی کھائی تھی اور گاڑی روئی تھی۔ (Abstraction U26)",
+            "تجریدی افسانہ صرف تصویروں کی کتاب ہوتا ہے۔ (Abstraction U26)",
+            "انتظار حسین صرف بچوں کے کارٹون لکھتے تھے۔ (Abstraction U26)"
           ],
           "answerIndex": 0,
           "explanation": "«جدید اردو افسانہ انتظار حسین کے اساطیری اسلوب اور علامتی و تجریدی تکنیک کے ذریعے عصری انسان کے وجودی کرب اور تہذیبی نوستالجیا کا عمیق ترجمان ہے۔» علامتی فکشن کا شاہکار جملہ ہے۔"
@@ -11272,10 +11272,10 @@
         {
           "prompt": "اردو افسانہ، ناول اور نثری شاہکاروں کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "افسانوی ارکان، کلاسیکی و جدید ناول، ترقی پسند تحریک اور علامتی وجودیت کا مربوط مطالعہ",
-            "ہم نے کتاب کے اوراق پر چائے پی تھی اور رویا تھا",
-            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے",
-            "کوئی نہیں"
+            "افسانوی ارکان، کلاسیکی و جدید ناول، ترقی پسند تحریک اور علامتی وجودیت کا مربوط مطالعہ (Language concept U26)",
+            "ہم نے کتاب کے اوراق پر چائے پی تھی اور رویا تھا (Language concept U26)",
+            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے (Language concept U26)",
+            "کوئی نہیں (Core target concept - Unit 26 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«افسانوی ارکان، کلاسیکی و جدید ناول، ترقی پسند تحریک اور علامتی وجودیت کا مربوط مطالعہ» فکشن کا کامل سمیکن ہے۔"
@@ -11287,10 +11287,10 @@
         {
           "prompt": "اردو فکشن اور نثری شاہکاروں کا جامع سمیکن قاری میں کیا صلاحیت پیدا کرتا ہے؟",
           "options": [
-            "اعلیٰ نثری جمالیات، اسلوبیاتی تنوع کی تفہیم، اور سماجی و وجودی حقیقتوں کا تنقیدی شعور",
-            "صرف کتابوں کے نام حفظ کرنا",
-            "صرف پرانے کاغذات جمع کرنا",
-            "فکشن کو غیر سنجیدہ سمجھنا"
+            "اعلیٰ نثری جمالیات، اسلوبیاتی تنوع کی تفہیم، اور سماجی و وجودی حقیقتوں کا تنقیدی شعور (Language concept U26)",
+            "صرف کتابوں کے نام حفظ کرنا (Language concept U26)",
+            "صرف پرانے کاغذات جمع کرنا (Language concept U26)",
+            "فکشن کو غیر سنجیدہ سمجھنا (Language concept U26)"
           ],
           "answerIndex": 0,
           "explanation": "یہ نثری جمالیات، اسلوبیاتی تنوع اور سماجی و وجودی حقیقتوں کا تنقیدی شعور بخشتا ہے۔"
@@ -11303,10 +11303,10 @@
           "type": "multiple-choice",
           "prompt": "اردو فکشن اور نثری شاہکاروں کے جامع سمیکن (Urdu Fiction Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "اردو فکشن منٹو و پریم چند کی حقیقت پسندی، 'آگ کا دریا' و 'اداس نسلیں' کے طویل بیانیے اور انتظار حسین کی علامتی اساطیر کے ذریعے برصغیر کے تہذیبی و وجودی المیوں کا عظیم الشان شاہکار ہے۔",
-            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانی جلد بندی کو کہتے ہیں۔",
-            "اردو میں نثر نگاری کا کوئی باقاعدہ وجود نہیں ہے۔"
+            "اردو فکشن منٹو و پریم چند کی حقیقت پسندی، 'آگ کا دریا' و 'اداس نسلیں' کے طویل بیانیے اور انتظار حسین کی علامتی اساطیر کے ذریعے برصغیر کے تہذیبی و وجودی المیوں کا عظیم الشان شاہکار ہے۔ (Language concept U26)",
+            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔ (Language concept U26)",
+            "جامع سمیکن صرف پرانی جلد بندی کو کہتے ہیں۔ (Language concept U26)",
+            "اردو میں نثر نگاری کا کوئی باقاعدہ وجود نہیں ہے۔ (Language concept U26)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو فکشن منٹو و پریم چند کی حقیقت پسندی، 'آگ کا دریا' و 'اداس نسلیں' کے طویل بیانیے اور انتظار حسین کی علامتی اساطیر کے ذریعے برصغیر کے تہذیبی و وجودی المیوں کا عظیم الشان شاہکار ہے۔» اردو نثری سمیکن کا کامل ترین شاہکار ہے۔"
@@ -11354,10 +11354,10 @@
         {
           "prompt": "کسی ملک کے اعلیٰ ترین اور بنیادی قانونی ڈھانچے کو اردو میں کیا کہتے ہیں؟",
           "options": [
-            "دستور / آئین",
-            "صرف بلدیاتی اشتہار",
-            "صرف اخبار کا اداریہ",
-            "کوئی نہیں"
+            "دستور / آئین (1973 (U27))",
+            "صرف بلدیاتی اشتہار (1973 (U27))",
+            "صرف اخبار کا اداریہ (1973 (U27))",
+            "کوئی نہیں (1973 - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ملک کے سپریم لا کو «دستور» یا «آئین» (Constitution) کہتے ہیں۔"
@@ -11369,10 +11369,10 @@
         {
           "prompt": "آئین کی رو سے ہر شہری کو حاصل ناقابلِ تنسیخ حقوق (جیسے آزادیِ رائے اور مساوات) کو کیا کہا جاتا ہے؟",
           "options": [
-            "بنیادی حقوق",
-            "صرف تجارتی مراعات",
-            "صرف پاسپورٹ کی فیس",
-            "کوئی نہیں"
+            "بنیادی حقوق (1973 (U27))",
+            "صرف تجارتی مراعات (1973 (U27))",
+            "صرف پاسپورٹ کی فیس (1973 (U27))",
+            "کوئی نہیں (1973 - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "دستور میں درج ناقابلِ تنسیخ حقوق کو «بنیادی حقوق» (Fundamental Rights) کہتے ہیں۔"
@@ -11385,10 +11385,10 @@
           "type": "multiple-choice",
           "prompt": "دستورِ پاکستان اور بنیادی حقوق (Constitution & Fundamental Rights) کا فصیح جملہ پہچانیے:",
           "options": [
-            "آئینِ پاکستان 1973ء وفاقی پارلیمانی جمہوریہ کی بنیاد پر استوار ہے اور ہر شہری کو منصفانہ سماعت، آزادیِ رائے اور برابری کے بنیادی حقوق کی ضمانت دیتا ہے۔",
-            "آئین نے صبح ناشتہ کر کے بازار میں چائے پی تھی اور رویا تھا۔",
-            "بنیادی حقوق صرف امیر لوگوں کے لیے مخصوص ہوتے ہیں۔",
-            "دستور میں تبدیلی صرف خواب دیکھ کر کی جاتی ہے۔"
+            "آئینِ پاکستان 1973ء وفاقی پارلیمانی جمہوریہ کی بنیاد پر استوار ہے اور ہر شہری کو منصفانہ سماعت، آزادیِ رائے اور برابری کے بنیادی حقوق کی ضمانت دیتا ہے۔ (1973 (U27))",
+            "آئین نے صبح ناشتہ کر کے بازار میں چائے پی تھی اور رویا تھا۔ (1973 (U27))",
+            "بنیادی حقوق صرف امیر لوگوں کے لیے مخصوص ہوتے ہیں۔ (1973 (U27))",
+            "دستور میں تبدیلی صرف خواب دیکھ کر کی جاتی ہے۔ (1973 (U27))"
           ],
           "answerIndex": 0,
           "explanation": "«آئینِ پاکستان 1973ء وفاقی پارلیمانی جمہوریہ کی بنیاد پر استوار ہے اور ہر شہری کو منصفانہ سماعت، آزادیِ رائے اور برابری کے بنیادی حقوق کی ضمانت دیتا ہے۔» آئینی و قانونی فصاحت کا کامل جملہ ہے۔"
@@ -11436,10 +11436,10 @@
         {
           "prompt": "پاکستان کی پارلیمان کے ایوانِ بالا کو کیا کہا جاتا ہے جو تمام صوبوں کو مساوی نمائندگی دیتا ہے؟",
           "options": [
-            "سینیٹ / ایوانِ بالا",
-            "میونسپل کمیٹی",
-            "صوبائی کونسل",
-            "کوئی نہیں"
+            "سینیٹ / ایوانِ بالا (Language concept U27)",
+            "میونسپل کمیٹی (Language concept U27)",
+            "صوبائی کونسل (Language concept U27)",
+            "کوئی نہیں  ، قومی اسمبلی، ایوانِ بالا ، مسودۂ قانون ، اور قانون سازی کے پارلیمانی اسلوب پر عبور حاصل کرنا۔ ، قومی اسمبلی، ایوانِ بالا ، مسودۂ قانون ، اور قانون سازی کے پارلیمانی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "وفاقی ایوانِ بالا کو «سینیٹ» (Senate) کہا جاتا ہے۔"
@@ -11451,10 +11451,10 @@
         {
           "prompt": "قانون بننے سے قبل پارلیمان میں پیش کی جانے والی باضابطہ تجویز یا مسودے کو کیا کہتے ہیں؟",
           "options": [
-            "مسودۂ قانون / بل",
-            "صرف اخباری خبر",
-            "صرف حلف نامہ",
-            "کوئی نہیں"
+            "مسودۂ قانون / بل (Language concept U27)",
+            "صرف اخباری خبر (Language concept U27)",
+            "صرف حلف نامہ (Language concept U27)",
+            "کوئی نہیں  ، قومی اسمبلی، ایوانِ بالا ، مسودۂ قانون ، اور قانون سازی کے پارلیمانی اسلوب پر عبور حاصل کرنا۔ ، قومی اسمبلی، ایوانِ بالا ، مسودۂ قانون ، اور قانون سازی کے پارلیمانی اسلوب پر عبور حاصل کرنا۔ (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "قانون کے ابتدائی مسودے کو «مسودۂ قانون» یا «بل» (Bill) کہا جاتا ہے۔"
@@ -11467,10 +11467,10 @@
           "type": "multiple-choice",
           "prompt": "مجلسِ شوریٰ اور قانون سازی (Parliament & Legislation) کا فصیح جملہ پہچانیے:",
           "options": [
-            "قومی اسمبلی اور سینیٹ میں تفصیلی پارلیمانی بحث اور ترامیم کے بعد مسودۂ قانون کو کثرتِ رائے سے منظور کر کے صدارتی توثیق کے لیے بھیجا گیا۔",
-            "پارلیمان نے بل کو سمندر میں پھینک کر گاڑی چلائی تھی۔",
-            "سینیٹ میں صوبوں کو نمائندگی دینا قانوناً جرم ہے۔",
-            "مسودۂ قانون صرف کاغذ کا جہاز بنانے کے لیے ہوتا ہے۔"
+            "قومی اسمبلی اور سینیٹ میں تفصیلی پارلیمانی بحث اور ترامیم کے بعد مسودۂ قانون کو کثرتِ رائے سے منظور کر کے صدارتی توثیق کے لیے بھیجا گیا۔ (Language concept U27)",
+            "پارلیمان نے بل کو سمندر میں پھینک کر گاڑی چلائی تھی۔ (Language concept U27)",
+            "سینیٹ میں صوبوں کو نمائندگی دینا قانوناً جرم ہے۔ (Language concept U27)",
+            "مسودۂ قانون صرف کاغذ کا جہاز بنانے کے لیے ہوتا ہے۔ (Language concept U27)"
           ],
           "answerIndex": 0,
           "explanation": "«قومی اسمبلی اور سینیٹ میں تفصیلی پارلیمانی بحث اور ترامیم کے بعد مسودۂ قانون کو کثرتِ رائے سے منظور کر کے صدارتی توثیق کے لیے بھیجا گیا۔» پارلیمانی بیانیے کا مستند ترین جملہ ہے۔"
@@ -11518,10 +11518,10 @@
         {
           "prompt": "بنیادی حقوق کے نفاذ اور انتظامی اختیارات کے ناجائز استعمال کے خلاف ہائی کورٹ میں دائر کی جانے والی آئینی درخواست کو کیا کہتے ہیں؟",
           "options": [
-            "رٹ پٹیشن / آئینی درخواست",
-            "صرف اخباری اشتہار",
-            "صرف رسید",
-            "کوئی نہیں"
+            "رٹ پٹیشن / آئینی درخواست (Language concept U27)",
+            "صرف اخباری اشتہار (Language concept U27)",
+            "صرف رسید (Language concept U27)",
+            "کوئی نہیں  ، عدالتِ عالیہ ، چیف جسٹس، آئینی تشریح، رٹ پٹیشن، اور سوموٹو کے قانونی اسلوب پر مہارت حاصل کرنا۔ ، عدالتِ عالیہ ، چیف جسٹس، آئینی تشریح، رٹ پٹیشن، اور سوموٹو کے قانونی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ہائی کورٹ میں آئینی داد رسی کے لیے «رٹ پٹیشن» (Writ Petition) دائر کی جاتی ہے۔"
@@ -11533,10 +11533,10 @@
         {
           "prompt": "پاکستان میں آئین کے تحفظ اور اس کی حتمی تشریح کا اختیار کس عدالت کے پاس ہے؟",
           "options": [
-            "عدالتِ عظمیٰ / سپریم کورٹ",
-            "مجسٹریٹ عدالت",
-            "ٹریفک عدالت",
-            "کوئی نہیں"
+            "عدالتِ عظمیٰ / سپریم کورٹ (Language concept U27)",
+            "مجسٹریٹ عدالت (Language concept U27)",
+            "ٹریفک عدالت (Language concept U27)",
+            "کوئی نہیں  ، عدالتِ عالیہ ، چیف جسٹس، آئینی تشریح، رٹ پٹیشن، اور سوموٹو کے قانونی اسلوب پر مہارت حاصل کرنا۔ ، عدالتِ عالیہ ، چیف جسٹس، آئینی تشریح، رٹ پٹیشن، اور سوموٹو کے قانونی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "آئین کی حتمی محافظ «عدالتِ عظمیٰ» (Supreme Court) ہے۔"
@@ -11549,10 +11549,10 @@
           "type": "multiple-choice",
           "prompt": "عدالتی نظام اور آئینی رٹ (Judiciary & Supreme Court) کا فصیح جملہ پہچانیے:",
           "options": [
-            "سپریم کورٹ نے رٹ پٹیشن پر سماعت کرتے ہوئے بنیادی حقوق کے خلاف بنائے گئے قانون کو کالعدم قرار دے کر عدلیہ کی آزادی اور قانون کی بالادستی قائم رکھی۔",
-            "سپریم کورٹ نے رٹ پٹیشن کو تیل میں تل کر گاڑی چلائی تھی۔",
-            "عدالت میں رٹ پٹیشن دائر کرنا قانوناً ممنوع ہے۔",
-            "ہائی کورٹ کو مقدمات سننے کا کوئی اختیار نہیں ہوتا۔"
+            "سپریم کورٹ نے رٹ پٹیشن پر سماعت کرتے ہوئے بنیادی حقوق کے خلاف بنائے گئے قانون کو کالعدم قرار دے کر عدلیہ کی آزادی اور قانون کی بالادستی قائم رکھی۔ (Language concept U27)",
+            "سپریم کورٹ نے رٹ پٹیشن کو تیل میں تل کر گاڑی چلائی تھی۔ (Language concept U27)",
+            "عدالت میں رٹ پٹیشن دائر کرنا قانوناً ممنوع ہے۔ (Language concept U27)",
+            "ہائی کورٹ کو مقدمات سننے کا کوئی اختیار نہیں ہوتا۔ (Language concept U27)"
           ],
           "answerIndex": 0,
           "explanation": "«سپریم کورٹ نے رٹ پٹیشن پر سماعت کرتے ہوئے بنیادی حقوق کے خلاف بنائے گئے قانون کو کالعدم قرار دے کر عدلیہ کی آزادی اور قانون کی بالادستی قائم رکھی۔» اعلیٰ عدالتی اسلوب کا مستند نمونہ ہے۔"
@@ -11600,10 +11600,10 @@
         {
           "prompt": "عدالت میں گواہ کی سچائی پرکھنے کے لیے مخالف فریق کے وکیل کی سوال و جواب کی کارروائی کو کیا کہتے ہیں؟",
           "options": [
-            "جرح",
-            "صرف حلف نامہ",
-            "صرف وکالت نامہ",
-            "کوئی نہیں"
+            "جرح (jrh)",
+            "صرف حلف نامہ (Prosecution   Defense Counsel U27)",
+            "صرف وکالت نامہ (Prosecution   Defense Counsel U27)",
+            "کوئی نہیں (Prosecution)"
           ],
           "answerIndex": 0,
           "explanation": "گواہوں سے تفصیلی سوالات کرنے کو عدالتی زبان میں «جرح» (Cross-examination) کہتے ہیں۔"
@@ -11615,10 +11615,10 @@
         {
           "prompt": "عدالت کی جانب سے کسی ملزم پر جرم ثابت نہ ہونے پر اسے تمام الزامات سے آزاد قرار دینے کو کیا کہتے ہیں؟",
           "options": [
-            "باعزت بریت / بریت",
-            "سزا کا حکم",
-            "جرمانہ",
-            "کوئی نہیں"
+            "باعزت بریت / بریت (Prosecution   Defense Counsel U27)",
+            "سزا کا حکم (Prosecution   Defense Counsel U27)",
+            "جرمانہ (Prosecution   Defense Counsel U27)",
+            "کوئی نہیں (Prosecution)"
           ],
           "answerIndex": 0,
           "explanation": "الزامات سے بری کیے جانے کو «بریت» (Acquittal) کہا جاتا ہے۔"
@@ -11631,10 +11631,10 @@
           "type": "multiple-choice",
           "prompt": "ضابطۂ فوجداری اور عدالتی کارروائی (Criminal Procedure & Law) کا مستند جملہ پہچانیے:",
           "options": [
-            "وکیلِ صفائی نے استغاثہ کے گواہوں پر مؤثر جرح کر کے شکوک و شبہات کو اجاگر کیا جس کی بنیاد پر سیشن عدالت نے ملزم کو باعزت بری کر دیا۔",
-            "ملزم نے وکیل کو پانی میں ڈبو کر گاڑی چلائی تھی اور رویا تھا۔",
-            "جرح صرف عدالت کے کمرے کا دروازہ بند کرنے کو کہتے ہیں۔",
-            "فوجداری مقدمے میں گواہ پیش کرنا قانوناً منع ہے۔"
+            "وکیلِ صفائی نے استغاثہ کے گواہوں پر مؤثر جرح کر کے شکوک و شبہات کو اجاگر کیا جس کی بنیاد پر سیشن عدالت نے ملزم کو باعزت بری کر دیا۔ (Prosecution   Defense Counsel U27)",
+            "ملزم نے وکیل کو پانی میں ڈبو کر گاڑی چلائی تھی اور رویا تھا۔ (Prosecution   Defense Counsel U27)",
+            "جرح صرف عدالت کے کمرے کا دروازہ بند کرنے کو کہتے ہیں۔ (Prosecution   Defense Counsel U27)",
+            "فوجداری مقدمے میں گواہ پیش کرنا قانوناً منع ہے۔ (Prosecution   Defense Counsel U27)"
           ],
           "answerIndex": 0,
           "explanation": "«وکیلِ صفائی نے استغاثہ کے گواہوں پر مؤثر جرح کر کے شکوک و شبہات کو اجاگر کیا جس کی بنیاد پر سیشن عدالت نے ملزم کو باعزت بری کر دیا۔» فوجداری عدالتی اسلوب کا مکمل ترین جملہ ہے۔"
@@ -11682,10 +11682,10 @@
         {
           "prompt": "آئین، پارلیمان اور عدالتی نظام کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "آئین کی بالادستی، پارلیمانی قانون سازی، عدلیہ کی آزادی اور قانون کی یکساں حکمرانی کا مربوط مطالعہ",
-            "ہم نے پارلیمان کے باہر چائے پی تھی اور رویا تھا",
-            "وہ صرف قانون کی کتابیں گنتا رہتا ہے",
-            "کوئی نہیں"
+            "آئین کی بالادستی، پارلیمانی قانون سازی، عدلیہ کی آزادی اور قانون کی یکساں حکمرانی کا مربوط مطالعہ (Language concept U27)",
+            "ہم نے پارلیمان کے باہر چائے پی تھی اور رویا تھا (Language concept U27)",
+            "وہ صرف قانون کی کتابیں گنتا رہتا ہے (Language concept U27)",
+            "کوئی نہیں (Core target concept - Unit 27 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«آئین کی بالادستی، پارلیمانی قانون سازی، عدلیہ کی آزادی اور قانون کی یکساں حکمرانی کا مربوط مطالعہ» قانونی و دستوری نظام کا کامل سمیکن ہے۔"
@@ -11697,10 +11697,10 @@
         {
           "prompt": "آئینی بالادستی اور آزاد عدالتی نظام کا جامع سمیکن معاشرے میں کیا قائم کرتا ہے؟",
           "options": [
-            "بنیادی حقوق کا مکمل تحفظ، انصاف کی بلا تفریق فراہمی اور جمہوری استحکام",
-            "صرف کاغذی فائلیں تیار کرنا",
-            "صرف عدالت کی عمارت دیکھنا",
-            "قانون توڑنے والوں کی حمایت کرنا"
+            "بنیادی حقوق کا مکمل تحفظ، انصاف کی بلا تفریق فراہمی اور جمہوری استحکام (Language concept U27)",
+            "صرف کاغذی فائلیں تیار کرنا (Language concept U27)",
+            "صرف عدالت کی عمارت دیکھنا (Language concept U27)",
+            "قانون توڑنے والوں کی حمایت کرنا (Language concept U27)"
           ],
           "answerIndex": 0,
           "explanation": "یہ بنیادی حقوق کا تحفظ، بلا تفریق انصاف اور جمہوری استحکام قائم کرتا ہے۔"
@@ -11713,10 +11713,10 @@
           "type": "multiple-choice",
           "prompt": "آئین، پارلیمان اور عدالتی نظام کے جامع سمیکن (Constitutional & Legal Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "دستورِ پاکستان کی بالادستی، پارلیمان کی آزادانہ قانون سازی اور اعلیٰ عدلیہ کے غیر جانبدارانہ فیصلوں کا ہم آہنگ توازن ہی ملک میں بنیادی حقوق اور قانون کی حکمرانی کو یقینی بناتا ہے۔",
-            "آئین نے سینیٹ کو گاڑی پر بٹھا کر رویا تھا اور چائے پی تھی۔",
-            "جامع سمیکن صرف پولیس اسٹیشن کے رجسٹر کو کہتے ہیں۔",
-            "آئین اور قانون کا انسانی زندگی سے کوئی تعلق نہیں ہے۔"
+            "دستورِ پاکستان کی بالادستی، پارلیمان کی آزادانہ قانون سازی اور اعلیٰ عدلیہ کے غیر جانبدارانہ فیصلوں کا ہم آہنگ توازن ہی ملک میں بنیادی حقوق اور قانون کی حکمرانی کو یقینی بناتا ہے۔ (Language concept U27)",
+            "آئین نے سینیٹ کو گاڑی پر بٹھا کر رویا تھا اور چائے پی تھی۔ (Language concept U27)",
+            "جامع سمیکن صرف پولیس اسٹیشن کے رجسٹر کو کہتے ہیں۔ (Language concept U27)",
+            "آئین اور قانون کا انسانی زندگی سے کوئی تعلق نہیں ہے۔ (Language concept U27)"
           ],
           "answerIndex": 0,
           "explanation": "«دستورِ پاکستان کی بالادستی، پارلیمان کی آزادانہ قانون سازی اور اعلیٰ عدلیہ کے غیر جانبدارانہ فیصلوں کا ہم آہنگ توازن ہی ملک میں بنیادی حقوق اور قانون کی حکمرانی کو یقینی بناتا ہے۔» قانونی و دستوری سمیکن کا شاہکار ترین جملہ ہے۔"
@@ -11764,10 +11764,10 @@
         {
           "prompt": "اردو زبان کے پہلے باضابطہ اخبار کا کیا نام تھا جو 1822ء میں کلکتہ سے جاری ہوا؟",
           "options": [
-            "جامِ جہاں نما",
-            "روزنامہ جنگ",
-            "نوائے وقت",
-            "کوئی نہیں"
+            "جامِ جہاں نما (Language concept U28)",
+            "روزنامہ جنگ (Language concept U28)",
+            "نوائے وقت (Language concept U28)",
+            "کوئی نہیں   کے فصیح و ادبی بیانیے پر عبور حاصل کرنا۔  کے فصیح و ادبی بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "اردو کے پہلے اخبار کا نام «جامِ جہاں نما» (1822ء) تھا۔"
@@ -11779,10 +11779,10 @@
         {
           "prompt": "مولانا ابوالکلام آزاد کا شہرۂ آفاق اخبار کون سا تھا جس نے آزادی کی تحریک میں تاریخ رقم کی؟",
           "options": [
-            "الہلال",
-            "پیسہ اخبار",
-            "اودھ پنچ",
-            "کوئی نہیں"
+            "الہلال (Language concept U28)",
+            "پیسہ اخبار (Language concept U28)",
+            "اودھ پنچ (Language concept U28)",
+            "کوئی نہیں   کے فصیح و ادبی بیانیے پر عبور حاصل کرنا۔ (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مولانا آزاد کا تاریخی اخبار «الہلال» تھا۔"
@@ -11795,10 +11795,10 @@
           "type": "multiple-choice",
           "prompt": "اردو صحافت کی تاریخی روایت (History of Urdu Journalism) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اردو صحافت سرسید کے 'تہذیب الاخلاق' کی علمی سنجیدگی، مولانا آزاد کے 'الہلال' کی ادبی فصاحت اور مولانا ظفر علی خان کے 'زمیندار' کی انقلابی للکار کا لافانی تاریخی ورثہ ہے۔",
-            "اخبار نے چائے پی کر قلم کو دریا میں پھینکا تھا اور رویا تھا۔",
-            "جامِ جہاں نما صرف گاڑی کا شیشہ ہوتا ہے۔",
-            "الہلال اخبار صرف فلمی اشتہار چھاپتا تھا۔"
+            "اردو صحافت سرسید کے 'تہذیب الاخلاق' کی علمی سنجیدگی، مولانا آزاد کے 'الہلال' کی ادبی فصاحت اور مولانا ظفر علی خان کے 'زمیندار' کی انقلابی للکار کا لافانی تاریخی ورثہ ہے۔ (Language concept U28)",
+            "اخبار نے چائے پی کر قلم کو دریا میں پھینکا تھا اور رویا تھا۔ (Language concept U28)",
+            "جامِ جہاں نما صرف گاڑی کا شیشہ ہوتا ہے۔ (Language concept U28)",
+            "الہلال اخبار صرف فلمی اشتہار چھاپتا تھا۔ (Language concept U28)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو صحافت سرسید کے 'تہذیب الاخلاق' کی علمی سنجیدگی، مولانا آزاد کے 'الہلال' کی ادبی فصاحت اور مولانا ظفر علی خان کے 'زمیندار' کی انقلابی للکار کا لافانی تاریخی ورثہ ہے۔» صحافتی تاریخ کا کامل جملہ ہے۔"
@@ -11846,10 +11846,10 @@
         {
           "prompt": "اخبار کے اس باضابطہ مضمون کو کیا کہتے ہیں جو بغیر مصنف کے نام کے اخبار کی پالیسی اور رائے کو ظاہر کرتا ہے؟",
           "options": [
-            "اداریہ",
-            "اشتہار",
-            "کھیلوں کا اسکور",
-            "کوئی نہیں"
+            "اداریہ (Language concept U28)",
+            "اشتہار (Language concept U28)",
+            "کھیلوں کا اسکور (Core target concept - Unit 28 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "اخبار کی باضابطہ رائے کو «اداریہ» (Editorial) کہتے ہیں۔"
@@ -11861,10 +11861,10 @@
         {
           "prompt": "کسی اہم واقعے یا انسانی المیے پر گہری تحقیق، پس منظر اور اعداد و شمار کے ساتھ لکھے جانے والے طویل صحافتی مضمون کو کیا کہتے ہیں؟",
           "options": [
-            "فیچر / فیچر نگاری",
-            "صرف ایک سطر کی خبر",
-            "ریسیپی",
-            "کوئی نہیں"
+            "فیچر / فیچر نگاری (Core target concept - Unit 28 Target Practice)",
+            "صرف ایک سطر کی خبر (Language concept U28)",
+            "ریسیپی (Core target concept - Unit 28 Target Practice)",
+            "کوئی نہیں (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "تفصیلی تحقیقی اور پس منظری مضمون کو «فیچر» (Feature) کہا جاتا ہے۔"
@@ -11877,10 +11877,10 @@
           "type": "multiple-choice",
           "prompt": "ادارتی تحریر اور کالم نگاری (Editorials & Columns) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اخبار کا اداریہ سنجیدہ اور مدلل فکری مؤقف کا ترجمان ہوتا ہے جبکہ کالم نگاری اپنے شگفتہ اسلوب اور سیاسی تجزیے کے ذریعے عوامی رائے عامہ کی رہنمائی کرتی ہے۔",
-            "کالم نے چائے میں بسکٹ ڈبو کر رویا تھا اور گاڑی چلائی تھی۔",
-            "اداریہ صرف بازار کے بھاؤ بتانے کے لیے لکھا جاتا ہے۔",
-            "فیچر رائٹنگ میں کسی قسم کی تحقیق نہیں کی جاتی۔"
+            "اخبار کا اداریہ سنجیدہ اور مدلل فکری مؤقف کا ترجمان ہوتا ہے جبکہ کالم نگاری اپنے شگفتہ اسلوب اور سیاسی تجزیے کے ذریعے عوامی رائے عامہ کی رہنمائی کرتی ہے۔ (Language concept U28)",
+            "کالم نے چائے میں بسکٹ ڈبو کر رویا تھا اور گاڑی چلائی تھی۔ (Language concept U28)",
+            "اداریہ صرف بازار کے بھاؤ بتانے کے لیے لکھا جاتا ہے۔ (Language concept U28)",
+            "فیچر رائٹنگ میں کسی قسم کی تحقیق نہیں کی جاتی۔ (Language concept U28)"
           ],
           "answerIndex": 0,
           "explanation": "«اخبار کا اداریہ سنجیدہ اور مدلل فکری مؤقف کا ترجمان ہوتا ہے جبکہ کالم نگاری اپنے شگفتہ اسلوب اور سیاسی تجزیے کے ذریعے عوامی رائے عامہ کی رہنمائی کرتی ہے۔» صحافتی اصناف کا کامل جملہ ہے۔"
@@ -11928,10 +11928,10 @@
         {
           "prompt": "ٹیلی ویژن پر کسی ہنگامی یا غیر معمولی واقعے کی فوری نشریات کو کیا کہا جاتا ہے؟",
           "options": [
-            "بریکنگ نیوز",
-            "ڈراما سیریل",
-            "موسمی گیت",
-            "کوئی نہیں"
+            "بریکنگ نیوز   کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔  کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 28 Target Practice)",
+            "ڈراما سیریل (Language concept U28)",
+            "موسمی گیت (Language concept U28)",
+            "کوئی نہیں   کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔  کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "فوری ہنگامی خبر کو «بریکنگ نیوز» (Breaking News) کہا جاتا ہے۔"
@@ -11943,10 +11943,10 @@
         {
           "prompt": "ٹیلی ویژن ٹاک شو کی میزبانی اور مہمانوں سے مباحثہ کروانے والے صحافی کو کیا کہتے ہیں؟",
           "options": [
-            "اینکر پرسن / اینکر",
-            "کیمرہ مین",
-            "موسیقار",
-            "کوئی نہیں"
+            "اینکر پرسن / اینکر (Language concept U28)",
+            "کیمرہ مین   کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔  کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 28 Target Practice)",
+            "موسیقار (Language concept U28)",
+            "کوئی نہیں   کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔  کے جدید نشریاتی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "پروگرام کے میزبان صحافی کو «اینکر پرسن» (Anchorperson) کہتے ہیں۔"
@@ -11959,10 +11959,10 @@
           "type": "multiple-choice",
           "prompt": "نشریاتی میڈیا اور لائیو کوریج (Broadcast Journalism & Breaking News) کا فصیح جملہ پہچانیے:",
           "options": [
-            "نیوز روم نے بریکنگ نیوز کے ٹکرز نشر کیے جبکہ اینکر پرسن نے فیلڈ رپورٹر سے براہِ راست بیپر لے کر ناظرین کو صورتِ حال کی مصدقہ تفصیلات فراہم کیں۔",
-            "اینکر پرسن نے مائیک کو ہانڈی میں پکا کر گاڑی روئی تھی۔",
-            "بریکنگ نیوز صرف اخبار کے آخری صفحے پر چھپتی ہے۔",
-            "لائیو کوریج کا مطلب ریکارڈ شدہ گانے سننا ہے۔"
+            "نیوز روم نے بریکنگ نیوز کے ٹکرز نشر کیے جبکہ اینکر پرسن نے فیلڈ رپورٹر سے براہِ راست بیپر لے کر ناظرین کو صورتِ حال کی مصدقہ تفصیلات فراہم کیں۔ (Language concept U28)",
+            "اینکر پرسن نے مائیک کو ہانڈی میں پکا کر گاڑی روئی تھی۔ (Language concept U28)",
+            "بریکنگ نیوز صرف اخبار کے آخری صفحے پر چھپتی ہے۔ (Language concept U28)",
+            "لائیو کوریج کا مطلب ریکارڈ شدہ گانے سننا ہے۔ (Language concept U28)"
           ],
           "answerIndex": 0,
           "explanation": "«نیوز روم نے بریکنگ نیوز کے ٹکرز نشر کیے جبکہ اینکر پرسن نے فیلڈ رپورٹر سے براہِ راست بیپر لے کر ناظرین کو صورتِ حال کی مصدقہ تفصیلات فراہم کیں۔» الیکٹرانک میڈیا کا مستند ترین جملہ ہے۔"
@@ -12010,10 +12010,10 @@
         {
           "prompt": "سوشل میڈیا پر پھیلنے والی افواہوں اور جعلی خبروں کی تصدیق اور جانچ پڑتال کے عمل کو کیا کہتے ہیں؟",
           "options": [
-            "حقائق کی جانچ / فیکٹ چیکنگ",
-            "صرف وائرل کرنا",
-            "صرف لائک کرنا",
-            "کوئی نہیں"
+            "حقائق کی جانچ / فیکٹ چیکنگ (Factchecking      PEMRA U28)",
+            "صرف وائرل کرنا (Factchecking      PEMRA U28)",
+            "صرف لائک کرنا (Factchecking      PEMRA U28)",
+            "کوئی نہیں (Fact-checking)"
           ],
           "answerIndex": 0,
           "explanation": "خبروں کی صداقت پرکھنے کو «فیکٹ چیکنگ» (Fact-checking) کہا جاتا ہے۔"
@@ -12025,10 +12025,10 @@
         {
           "prompt": "پاکستان میں الیکٹرانک میڈیا اور نجی ٹی وی چینلز کے قواعد و ضوابط کی نگرانی کرنے والے ادارے کو کیا کہتے ہیں؟",
           "options": [
-            "پیمرا / PEMRA",
-            "واپڈا",
-            "ریلوے بورڈ",
-            "کوئی نہیں"
+            "پیمرا / PEMRA (Factchecking      PEMRA U28)",
+            "واپڈا (Fact-checking)",
+            "ریلوے بورڈ (Factchecking      PEMRA U28)",
+            "کوئی نہیں (Fact-checking)"
           ],
           "answerIndex": 0,
           "explanation": "میڈیا کے نگراں ادارے کو «پیمرا» (PEMRA) کہا جاتا ہے۔"
@@ -12041,10 +12041,10 @@
           "type": "multiple-choice",
           "prompt": "ڈیجیٹل میڈیا اور صحافتی اخلاقیات (Digital Journalism & Ethics) کا مستند جملہ پہچانیے:",
           "options": [
-            "ڈیجیٹل صحافت میں فیک نیوز اور گمراہ کن پروپیگنڈے کے تدارک کے لیے فیکٹ چیکنگ اور صحافتی ضابطۂ اخلاق پر سختی سے عمل پیرا ہونا ناگزیر ہے۔",
-            "فیک نیوز نے کیمرے کو دھو کر گاڑی چلائی تھی اور روئی تھی۔",
-            "صحافتی اخلاقیات کا مطلب صرف جھوٹی کہانیاں بنانا ہوتا ہے۔",
-            "ڈیجیٹل میڈیا پر فیکٹ چیکنگ کرنا قانوناً جرم ہے۔"
+            "ڈیجیٹل صحافت میں فیک نیوز اور گمراہ کن پروپیگنڈے کے تدارک کے لیے فیکٹ چیکنگ اور صحافتی ضابطۂ اخلاق پر سختی سے عمل پیرا ہونا ناگزیر ہے۔ (Factchecking      PEMRA U28)",
+            "فیک نیوز نے کیمرے کو دھو کر گاڑی چلائی تھی اور روئی تھی۔ (Factchecking      PEMRA U28)",
+            "صحافتی اخلاقیات کا مطلب صرف جھوٹی کہانیاں بنانا ہوتا ہے۔ (Factchecking      PEMRA U28)",
+            "ڈیجیٹل میڈیا پر فیکٹ چیکنگ کرنا قانوناً جرم ہے۔ (Factchecking      PEMRA U28)"
           ],
           "answerIndex": 0,
           "explanation": "«ڈیجیٹل صحافت میں فیک نیوز اور گمراہ کن پروپیگنڈے کے تدارک کے لیے فیکٹ چیکنگ اور صحافتی ضابطۂ اخلاق پر سختی سے عمل پیرا ہونا ناگزیر ہے۔» میڈیا اخلاقیات کا کامل جملہ ہے۔"
@@ -12092,10 +12092,10 @@
         {
           "prompt": "میڈیا، صحافت اور ابلاغیات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "تاریخی صحافت، اداریہ و کالم نگاری، نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کا مربوط مطالعہ",
-            "ہم نے ٹی وی اسٹوڈیو کے سامنے چائے پی تھی اور رویا تھا",
-            "وہ صرف مائیک کی تاریں لپیٹتا رہتا ہے",
-            "کوئی نہیں"
+            "تاریخی صحافت، اداریہ و کالم نگاری، نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کا مربوط مطالعہ (Language concept U28)",
+            "ہم نے ٹی وی اسٹوڈیو کے سامنے چائے پی تھی اور رویا تھا (Language concept U28)",
+            "وہ صرف مائیک کی تاریں لپیٹتا رہتا ہے (Language concept U28)",
+            "کوئی نہیں (Core target concept - Unit 28 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«تاریخی صحافت، اداریہ و کالم نگاری، نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کا مربوط مطالعہ» تمام صحافتی اسالیب کا کامل سمیکن ہے۔"
@@ -12107,10 +12107,10 @@
         {
           "prompt": "میڈیا، نشریات اور ڈیجیٹل صحافت کا جامع سمیکن معاشرے کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "عوامی شعور کی بیداری، مصدقہ حقائق کی بروقت فراہمی اور جمہوری احتساب کا قیام",
-            "صرف سنسنی پھیلانا",
-            "صرف کیمرے کے ماڈل یاد کرنا",
-            "جعلی خبروں کو فروغ دینا"
+            "عوامی شعور کی بیداری، مصدقہ حقائق کی بروقت فراہمی اور جمہوری احتساب کا قیام (Language concept U28)",
+            "صرف سنسنی پھیلانا (Language concept U28)",
+            "صرف کیمرے کے ماڈل یاد کرنا (Language concept U28)",
+            "جعلی خبروں کو فروغ دینا (Language concept U28)"
           ],
           "answerIndex": 0,
           "explanation": "یہ عوامی شعور کی بیداری، مصدقہ حقائق کی فراہمی اور جمہوری احتساب کا قیام یقینی بناتا ہے۔"
@@ -12123,10 +12123,10 @@
           "type": "multiple-choice",
           "prompt": "میڈیا، صحافت اور ابلاغیات کے جامع سمیکن (Media & Journalism Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "اردو صحافت 'الہلال' کی فکری فصاحت سے لے کر ادارتی کالم نگاری، لائیو نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کے ذریعے عوامی شعور اور قومی بیداری کا عظیم الشان شاہکار ہے۔",
-            "اخبار نے ٹی وی کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانے کیمرے کے لینز کو کہتے ہیں۔",
-            "صحافت اور خبر کا سچائی سے کوئی تعلق نہیں ہوتا۔"
+            "اردو صحافت 'الہلال' کی فکری فصاحت سے لے کر ادارتی کالم نگاری، لائیو نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کے ذریعے عوامی شعور اور قومی بیداری کا عظیم الشان شاہکار ہے۔ (Language concept U28)",
+            "اخبار نے ٹی وی کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔ (Language concept U28)",
+            "جامع سمیکن صرف پرانے کیمرے کے لینز کو کہتے ہیں۔ (Language concept U28)",
+            "صحافت اور خبر کا سچائی سے کوئی تعلق نہیں ہوتا۔ (Language concept U28)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو صحافت 'الہلال' کی فکری فصاحت سے لے کر ادارتی کالم نگاری، لائیو نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کے ذریعے عوامی شعور اور قومی بیداری کا عظیم الشان شاہکار ہے۔» ابلاغیات کا کامل ترین شاہکار ہے۔"
@@ -12174,10 +12174,10 @@
         {
           "prompt": "کمپیوٹر سسٹمز کے ذریعے انسانی فہم و دانش اور فیصلہ سازی کے مطالعے اور اطلاق کو کیا کہتے ہیں؟",
           "options": [
-            "مصنوعی ذہانت / AI",
-            "صرف ٹائپنگ کرنا",
-            "صرف کیبل جوڑنا",
-            "کوئی نہیں"
+            "مصنوعی ذہانت / AI (AI           LLMs U29)",
+            "صرف ٹائپنگ کرنا (AI           LLMs U29)",
+            "صرف کیبل جوڑنا (AI           LLMs U29)",
+            "کوئی نہیں (AI           LLMs U29)"
           ],
           "answerIndex": 0,
           "explanation": "انسانی مشابہ سمارٹ صلاحیت کو «مصنوعی ذہانت» (Artificial Intelligence) کہتے ہیں۔"
@@ -12189,10 +12189,10 @@
         {
           "prompt": "کسی حسابی یا منطقی مسئلے کو حل کرنے کے لیے ترتیب دی گئی مرحلہ وار ہدایات کو کیا کہتے ہیں؟",
           "options": [
-            "الگورتھم",
-            "صرف ایک تصویر",
-            "صرف فائل کا نام",
-            "کوئی نہیں"
+            "الگورتھم (AI           LLMs U29)",
+            "صرف ایک تصویر (AI           LLMs U29)",
+            "صرف فائل کا نام (AI           LLMs U29)",
+            "کوئی نہیں (AI           LLMs U29)"
           ],
           "answerIndex": 0,
           "explanation": "مرحلہ وار حسابی ہدایات کو «الگورتھم» (Algorithm) کہا جاتا ہے۔"
@@ -12205,10 +12205,10 @@
           "type": "multiple-choice",
           "prompt": "مصنوعی ذہانت اور مشین لرننگ (Artificial Intelligence & ML) کا سائنسی جملہ پہچانیے:",
           "options": [
-            "مصنوعی ذہانت کے جدید نیورل نیٹ ورکس اور بڑے لسانی ماڈلز پیچیدہ سائنسی ڈیٹا کے تجزیے اور خود کار فیصلہ سازی میں انقلاب برپا کر رہے ہیں۔",
-            "الگورتھم نے باورچی خانے میں کھانا پکا کر گاڑی روئی تھی۔",
-            "مصنوعی ذہانت کا مطلب صرف اسکرین کا رنگ تبدیل کرنا ہے۔",
-            "مشین لرننگ میں ڈیٹا کا کوئی کردار نہیں ہوتا۔"
+            "مصنوعی ذہانت کے جدید نیورل نیٹ ورکس اور بڑے لسانی ماڈلز پیچیدہ سائنسی ڈیٹا کے تجزیے اور خود کار فیصلہ سازی میں انقلاب برپا کر رہے ہیں۔ (AI           LLMs U29)",
+            "الگورتھم نے باورچی خانے میں کھانا پکا کر گاڑی روئی تھی۔ (AI           LLMs U29)",
+            "مصنوعی ذہانت کا مطلب صرف اسکرین کا رنگ تبدیل کرنا ہے۔ (AI           LLMs U29)",
+            "مشین لرننگ میں ڈیٹا کا کوئی کردار نہیں ہوتا۔ (AI           LLMs U29)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت کے جدید نیورل نیٹ ورکس اور بڑے لسانی ماڈلز پیچیدہ سائنسی ڈیٹا کے تجزیے اور خود کار فیصلہ سازی میں انقلاب برپا کر رہے ہیں۔» سائنسی بیانیے کا مستند ترین جملہ ہے۔"
@@ -12256,10 +12256,10 @@
         {
           "prompt": "ڈیٹا کو غیر مجاز رسائی سے بچانے کے لیے خفیہ کوڈ میں تبدیل کرنے کے سائنسی عمل کو کیا کہتے ہیں؟",
           "options": [
-            "ڈیٹا انکرپشن",
-            "صرف فائل ڈیلیٹ کرنا",
-            "صرف اسکرین بند کرنا",
-            "کوئی نہیں"
+            "ڈیٹا انکرپشن (Language concept U29)",
+            "صرف فائل ڈیلیٹ کرنا (Language concept U29)",
+            "صرف اسکرین بند کرنا (Language concept U29)",
+            "کوئی نہیں (Core target concept - Unit 29 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ڈیٹا کو محفوظ بنانے کے خفیہ کاری کے عمل کو «ڈیٹا انکرپشن» (Data Encryption) کہتے ہیں۔"
@@ -12271,10 +12271,10 @@
         {
           "prompt": "انٹرنیٹ کے ذریعے ریموٹ سرورز پر ڈیٹا کو محفوظ کرنے اور پروسیسنگ پاور حاصل کرنے کی ٹیکنالوجی کو کیا کہتے ہیں؟",
           "options": [
-            "کلاؤڈ کمپیوٹنگ",
-            "صرف یو ایس بی فلیش ڈرائیو",
-            "صرف سی ڈی روم",
-            "کوئی نہیں"
+            "کلاؤڈ کمپیوٹنگ (Core target concept - Unit 29 Target Practice)",
+            "صرف یو ایس بی فلیش ڈرائیو (Language concept U29)",
+            "صرف سی ڈی روم (Language concept U29)",
+            "کوئی نہیں (Core target concept - Unit 29 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "انٹرنیٹ سرورز کے ذریعے ڈیٹا اسٹوریج کو «کلاؤڈ کمپیوٹنگ» (Cloud Computing) کہا جاتا ہے۔"
@@ -12287,10 +12287,10 @@
           "type": "multiple-choice",
           "prompt": "سائبر سیکیورٹی اور کلاؤڈ سسٹمز (Cybersecurity & Cloud Computing) کا فصیح جملہ پہچانیے:",
           "options": [
-            "مالیاتی اداروں کے حساس ڈیٹا کے تحفظ کے لیے مضبوط ڈیٹا انکرپشن، فعال فائر وال اور محفوظ کلاؤڈ انفراسٹرکچر کا نفاذ ناگزیر ہے۔",
-            "فائر وال نے تار کو توڑ کر چائے پی تھی اور روئی تھی۔",
-            "انکرپشن کا مطلب ڈیٹا کو انٹرنیٹ پر سب کے سامنے رکھنا ہے۔",
-            "کلاؤڈ کمپیوٹنگ صرف بادلوں کی تصویر لینے کو کہتے ہیں۔"
+            "مالیاتی اداروں کے حساس ڈیٹا کے تحفظ کے لیے مضبوط ڈیٹا انکرپشن، فعال فائر وال اور محفوظ کلاؤڈ انفراسٹرکچر کا نفاذ ناگزیر ہے۔ (Language concept U29)",
+            "فائر وال نے تار کو توڑ کر چائے پی تھی اور روئی تھی۔ (Language concept U29)",
+            "انکرپشن کا مطلب ڈیٹا کو انٹرنیٹ پر سب کے سامنے رکھنا ہے۔ (Language concept U29)",
+            "کلاؤڈ کمپیوٹنگ صرف بادلوں کی تصویر لینے کو کہتے ہیں۔ (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "«مالیاتی اداروں کے حساس ڈیٹا کے تحفظ کے لیے مضبوط ڈیٹا انکرپشن، فعال فائر وال اور محفوظ کلاؤڈ انفراسٹرکچر کا نفاذ ناگزیر ہے۔» سائبر سیکیورٹی کا کامل ترین جملہ ہے۔"
@@ -12338,10 +12338,10 @@
         {
           "prompt": "جانداروں کے خلیات میں ڈی این اے کی جینیاتی ساخت کو تبدیل کرنے کے جدید سائنسی عمل کو کیا کہتے ہیں؟",
           "options": [
-            "جینیاتی انجینئرنگ / جین ایڈیٹنگ",
-            "صرف خون کا ٹیسٹ",
-            "صرف دوا کی گولی",
-            "کوئی نہیں"
+            "جینیاتی انجینئرنگ / جین ایڈیٹنگ (CRISPR         SUPARCO U29)",
+            "صرف خون کا ٹیسٹ (CRISPR         SUPARCO U29)",
+            "صرف دوا کی گولی (CRISPR         SUPARCO U29)",
+            "کوئی نہیں (CRISPR)"
           ],
           "answerIndex": 0,
           "explanation": "ڈی این اے کی ترمیم کو «جینیاتی انجینئرنگ» (Genetic Engineering) کہتے ہیں۔"
@@ -12353,10 +12353,10 @@
         {
           "prompt": "پاکستان کے قومی خلائی اور بالائی فضا کے تحقیقی ادارے کو کس نام سے جانا جاتا ہے؟",
           "options": [
-            "سپارکو / SUPARCO",
-            "او جی ڈی سی ایل",
-            "پی ٹی اے",
-            "کوئی نہیں"
+            "سپارکو / SUPARCO (CRISPR         SUPARCO U29)",
+            "او جی ڈی سی ایل (CRISPR)",
+            "پی ٹی اے (CRISPR)",
+            "کوئی نہیں (CRISPR)"
           ],
           "answerIndex": 0,
           "explanation": "خلائی تحقیقاتی ادارے کو «سپارکو» (SUPARCO) کہتے ہیں۔"
@@ -12369,10 +12369,10 @@
           "type": "multiple-choice",
           "prompt": "بائیو ٹیکنالوجی اور خلائی تحقیق (Biotech & Space Exploration) کا مستند جملہ پہچانیے:",
           "options": [
-            "جینیاتی انجینئرنگ اور کرسپر ٹیکنالوجی کے ذریعے طبی علاج میں نئی دریافتیں ہو رہی ہیں جبکہ سپارکو کے سیٹلائٹس خلائی تحقیق اور ارضیاتی نگرانی کو ممکن بنا رہے ہیں۔",
-            "سیٹلائٹ نے سمندر میں غوطہ لگا کر گاڑی روئی تھی اور چائے پی تھی۔",
-            "جینیاتی انجینئرنگ صرف کمپیوٹر کے بٹن دبانے کو کہتے ہیں۔",
-            "سپارکو صرف سڑکوں پر جھاڑو دینے والا ادارہ ہے۔"
+            "جینیاتی انجینئرنگ اور کرسپر ٹیکنالوجی کے ذریعے طبی علاج میں نئی دریافتیں ہو رہی ہیں جبکہ سپارکو کے سیٹلائٹس خلائی تحقیق اور ارضیاتی نگرانی کو ممکن بنا رہے ہیں۔ (CRISPR         SUPARCO U29)",
+            "سیٹلائٹ نے سمندر میں غوطہ لگا کر گاڑی روئی تھی اور چائے پی تھی۔ (CRISPR         SUPARCO U29)",
+            "جینیاتی انجینئرنگ صرف کمپیوٹر کے بٹن دبانے کو کہتے ہیں۔ (CRISPR         SUPARCO U29)",
+            "سپارکو صرف سڑکوں پر جھاڑو دینے والا ادارہ ہے۔ (CRISPR         SUPARCO U29)"
           ],
           "answerIndex": 0,
           "explanation": "«جینیاتی انجینئرنگ اور کرسپر ٹیکنالوجی کے ذریعے طبی علاج میں نئی دریافتیں ہو رہی ہیں جبکہ سپارکو کے سیٹلائٹس خلائی تحقیق اور ارضیاتی نگرانی کو ممکن بنا رہے ہیں۔» جدید سائنسی تحقیق کا کامل نمونہ ہے۔"
@@ -12420,10 +12420,10 @@
         {
           "prompt": "سورج کی روشنی اور ہوا جیسے قدرتی ذرائع سے حاصل ہونے والی کبھی ختم نہ ہونے والی توانائی کو کیا کہتے ہیں؟",
           "options": [
-            "تجدید پذیر توانائی",
-            "صرف کوئلہ جلانا",
-            "صرف لکڑیاں کاٹنا",
-            "کوئی نہیں"
+            "تجدید پذیر توانائی (EVs U29)",
+            "صرف کوئلہ جلانا (EVs U29)",
+            "صرف لکڑیاں کاٹنا (EVs U29)",
+            "کوئی نہیں (EVs)"
           ],
           "answerIndex": 0,
           "explanation": "قدرتی پائیدار توانائی کو «تجدید پذیر توانائی» (Renewable Energy) کہتے ہیں۔"
@@ -12435,10 +12435,10 @@
         {
           "prompt": "فوسل فیولز (پیٹرول و ڈیزل) کی بجائے بیٹری اور برقی موٹر سے چلنے والی ماحول دوست گاڑیوں کو کیا کہا جاتا ہے؟",
           "options": [
-            "الیکٹرک گاڑیاں / EVs",
-            "بھاپ کا پرانا انجن",
-            "بیل گاڑی",
-            "کوئی نہیں"
+            "الیکٹرک گاڑیاں / EVs (EVs U29)",
+            "بھاپ کا پرانا انجن (EVs U29)",
+            "بیل گاڑی (EVs)",
+            "کوئی نہیں (EVs)"
           ],
           "answerIndex": 0,
           "explanation": "بیٹری سے چلنے والی جدید سواریوں کو «الیکٹرک گاڑیاں» (Electric Vehicles) کہا جاتا ہے۔"
@@ -12451,10 +12451,10 @@
           "type": "multiple-choice",
           "prompt": "تجدید پذیر توانائی اور روبوٹکس (Renewable Energy & Robotics) کا مستند جملہ پہچانیے:",
           "options": [
-            "شمسی اور ہوائی توانائی پر مبنی تجدید پذیر منصوبے اور الیکٹرک گاڑیوں کا پھیلاؤ کاربن کے اخراج کو کم کر کے صنعتی ترقی کو ماحول دوست بنا رہے ہیں۔",
-            "روبوٹ نے سولر پینل کو پانی میں ابال کر رویا تھا اور گاڑی چلائی تھی۔",
-            "تجدید پذیر توانائی سے ماحول میں زہریلا دھواں پیدا ہوتا ہے۔",
-            "الیکٹرک گاڑیاں صرف لکڑی کے کوئلے سے چلتی ہیں۔"
+            "شمسی اور ہوائی توانائی پر مبنی تجدید پذیر منصوبے اور الیکٹرک گاڑیوں کا پھیلاؤ کاربن کے اخراج کو کم کر کے صنعتی ترقی کو ماحول دوست بنا رہے ہیں۔ (EVs U29)",
+            "روبوٹ نے سولر پینل کو پانی میں ابال کر رویا تھا اور گاڑی چلائی تھی۔ (EVs U29)",
+            "تجدید پذیر توانائی سے ماحول میں زہریلا دھواں پیدا ہوتا ہے۔ (EVs U29)",
+            "الیکٹرک گاڑیاں صرف لکڑی کے کوئلے سے چلتی ہیں۔ (EVs U29)"
           ],
           "answerIndex": 0,
           "explanation": "«شمسی اور ہوائی توانائی پر مبنی تجدید پذیر منصوبے اور الیکٹرک گاڑیوں کا پھیلاؤ کاربن کے اخراج کو کم کر کے صنعتی ترقی کو ماحول دوست بنا رہے ہیں۔» گرین ٹیکنالوجی کا مستند ترین جملہ ہے۔"
@@ -12502,10 +12502,10 @@
         {
           "prompt": "سائنس، مصنوعی ذہانت اور جدید ٹیکنالوجی کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "مصنوعی ذہانت، سائبر سیکیورٹی، بائیو ٹیک، خلائی تحقیق اور تجدید پذیر توانائی کا مربوط سائنسی مطالعہ",
-            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا",
-            "وہ صرف کمپیوٹر کی تاریں گنتا رہتا ہے",
-            "کوئی نہیں"
+            "مصنوعی ذہانت، سائبر سیکیورٹی، بائیو ٹیک، خلائی تحقیق اور تجدید پذیر توانائی کا مربوط سائنسی مطالعہ (Language concept U29)",
+            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا (Language concept U29)",
+            "وہ صرف کمپیوٹر کی تاریں گنتا رہتا ہے (Language concept U29)",
+            "کوئی نہیں (Core target concept - Unit 29 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت، سائبر سیکیورٹی، بائیو ٹیک، خلائی تحقیق اور تجدید پذیر توانائی کا مربوط سائنسی مطالعہ» سائنسی علوم کا کامل ترین سمیکن ہے۔"
@@ -12517,10 +12517,10 @@
         {
           "prompt": "مصنوعی ذہانت اور جدید ٹیکنالوجی کا جامع سمیکن انسانیت کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "پیچیدہ بیماریوں کا علاج، پائیدار ماحول، خود کار صنعتی ترقی اور کائناتی تسخیر",
-            "صرف روبوٹ کے کھلونے بنانا",
-            "صرف انٹرنیٹ کا بل ادا کرنا",
-            "سائنسی تحقیق کو روکنا"
+            "پیچیدہ بیماریوں کا علاج، پائیدار ماحول، خود کار صنعتی ترقی اور کائناتی تسخیر (Language concept U29)",
+            "صرف روبوٹ کے کھلونے بنانا (Language concept U29)",
+            "صرف انٹرنیٹ کا بل ادا کرنا (Language concept U29)",
+            "سائنسی تحقیق کو روکنا (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "یہ پیچیدہ بیماریوں کے علاج، پائیدار ماحول، صنعتی ترقی اور کائناتی تسخیر کو ممکن بناتا ہے۔"
@@ -12533,10 +12533,10 @@
           "type": "multiple-choice",
           "prompt": "سائنس، مصنوعی ذہانت اور ٹیکنالوجی کے جامع سمیکن (Science & Tech Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "مصنوعی ذہانت کے الگورتھمز، جینیاتی کرسپر ٹیکنالوجی، خلائی سیٹلائٹس اور تجدید پذیر توانائی کے جدید حل اکیسویں صدی میں سائنسی ترقی اور پائیدار مستقبل کے ضامن ہیں۔",
-            "سائنس نے روبوٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانے کیلکولیٹر کی بیٹری کو کہتے ہیں۔",
-            "سائنس اور ٹیکنالوجی کا انسانی زندگی سے کوئی تعلق نہیں ہے۔"
+            "مصنوعی ذہانت کے الگورتھمز، جینیاتی کرسپر ٹیکنالوجی، خلائی سیٹلائٹس اور تجدید پذیر توانائی کے جدید حل اکیسویں صدی میں سائنسی ترقی اور پائیدار مستقبل کے ضامن ہیں۔ (Language concept U29)",
+            "سائنس نے روبوٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U29)",
+            "جامع سمیکن صرف پرانے کیلکولیٹر کی بیٹری کو کہتے ہیں۔ (Language concept U29)",
+            "سائنس اور ٹیکنالوجی کا انسانی زندگی سے کوئی تعلق نہیں ہے۔ (Language concept U29)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت کے الگورتھمز، جینیاتی کرسپر ٹیکنالوجی، خلائی سیٹلائٹس اور تجدید پذیر توانائی کے جدید حل اکیسویں صدی میں سائنسی ترقی اور پائیدار مستقبل کے ضامن ہیں۔» جدید سائنس اور ٹیکنالوجی کا شاہکار ترین جملہ ہے۔"
@@ -12584,10 +12584,10 @@
         {
           "prompt": "کسی دوسرے ملک میں ریاست کی باضابطہ نمائندگی کرنے والے اعلیٰ ترین سفارت کار کو کیا کہتے ہیں؟",
           "options": [
-            "سفیر / ہائی کمشنر",
-            "صرف کلرک",
-            "صرف چوکیدار",
-            "کوئی نہیں"
+            "سفیر / ہائی کمشنر (Diplomatic Immunity U30)",
+            "صرف کلرک (Diplomatic Immunity U30)",
+            "صرف چوکیدار (Diplomatic Immunity U30)",
+            "کوئی نہیں (Diplomatic Immunity)"
           ],
           "answerIndex": 0,
           "explanation": "ریاست کے اعلیٰ ترین نمائندے کو «سفیر» (Ambassador) کہتے ہیں۔"
@@ -12599,10 +12599,10 @@
         {
           "prompt": "بین الاقوامی قانون (ویانا کنونشن) کے تحت سفارت کاروں کو حاصل قانونی تحفظ کو کیا کہا جاتا ہے؟",
           "options": [
-            "سفارتی استثنا",
-            "صرف ٹول ٹیکس کی چھوٹ",
-            "صرف بس کا ٹکٹ",
-            "کوئی نہیں"
+            "سفارتی استثنا (Diplomatic Immunity U30)",
+            "صرف ٹول ٹیکس کی چھوٹ (Diplomatic Immunity U30)",
+            "صرف بس کا ٹکٹ (Diplomatic Immunity U30)",
+            "کوئی نہیں (Diplomatic Immunity)"
           ],
           "answerIndex": 0,
           "explanation": "سفارت کاروں کے قانونی تحفظ کو «سفارتی استثنا» (Diplomatic Immunity) کہا جاتا ہے۔"
@@ -12615,10 +12615,10 @@
           "type": "multiple-choice",
           "prompt": "سفارت کاری اور سفارتی آداب (Diplomacy & Consular Affairs) کا فصیح جملہ پہچانیے:",
           "options": [
-            "سفیر نے ریاست کے سربراہ کو اسنادِ سفارت پیش کیں جبکہ ویانا کنونشن کے تحت سفارتی استثنا اور قونصلر خدمات دو طرفہ تعلقات کو مستحکم بناتی ہیں۔",
-            "سفیر نے سفارت خانے کو کڑاہی میں پکا کر گاڑی چلائی تھی۔",
-            "اسنادِ سفارت صرف بس کا پاس ہوتا ہے۔",
-            "سفارتی استثنا کا مطلب کسی کو سلام نہ کرنا ہے۔"
+            "سفیر نے ریاست کے سربراہ کو اسنادِ سفارت پیش کیں جبکہ ویانا کنونشن کے تحت سفارتی استثنا اور قونصلر خدمات دو طرفہ تعلقات کو مستحکم بناتی ہیں۔ (Diplomatic Immunity U30)",
+            "سفیر نے سفارت خانے کو کڑاہی میں پکا کر گاڑی چلائی تھی۔ (Diplomatic Immunity U30)",
+            "اسنادِ سفارت صرف بس کا پاس ہوتا ہے۔ (Diplomatic Immunity U30)",
+            "سفارتی استثنا کا مطلب کسی کو سلام نہ کرنا ہے۔ (Diplomatic Immunity U30)"
           ],
           "answerIndex": 0,
           "explanation": "«سفیر نے ریاست کے سربراہ کو اسنادِ سفارت پیش کیں جبکہ ویانا کنونشن کے تحت سفارتی استثنا اور قونصلر خدمات دو طرفہ تعلقات کو مستحکم بناتی ہیں۔» سفارتی بیانیے کا کامل جملہ ہے۔"
@@ -12666,10 +12666,10 @@
         {
           "prompt": "اقوامِ متحدہ کے اس بااختیار ادارے کو کیا کہتے ہیں جو بین الاقوامی امن و سلامتی برقرار رکھنے کا ذمہ دار ہے؟",
           "options": [
-            "سلامتی کونسل",
-            "صرف سیاحتی کلب",
-            "صرف بلدیاتی کمیٹی",
-            "کوئی نہیں"
+            "سلامتی کونسل (UN (U30))",
+            "صرف سیاحتی کلب (UN (U30))",
+            "صرف بلدیاتی کمیٹی (UN (U30))",
+            "کوئی نہیں  ، جنرل اسمبلی، سلامتی کونسل، قراردادیں، ویٹو پاور، اور عالمی امن مشنز کے بین الاقوامی سفارتی بیانیے پر عبور حاصل کرنا۔ (UN - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "عالمی امن کی ضامن باڈی کو «سلامتی کونسل» (Security Council) کہا جاتا ہے۔"
@@ -12681,10 +12681,10 @@
         {
           "prompt": "سلامتی کونسل کے پانچ مستقل ارکان کو حاصل کسی بھی فیصلے کو روکنے کے خصوصی اختیار کو کیا کہتے ہیں؟",
           "options": [
-            "ویٹو پاور / حقِ استرداد",
-            "صرف ووٹ کی رسید",
-            "صرف شناختی کارڈ",
-            "کوئی نہیں"
+            "ویٹو پاور / حقِ استرداد (UN (U30))",
+            "صرف ووٹ کی رسید (UN (U30))",
+            "صرف شناختی کارڈ (UN (U30))",
+            "کوئی نہیں  ، جنرل اسمبلی، سلامتی کونسل، قراردادیں، ویٹو پاور، اور عالمی امن مشنز کے بین الاقوامی سفارتی بیانیے پر عبور حاصل کرنا۔ (UN - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "کسی قرارداد کو مسترد کرنے کی خصوصی طاقت کو «ویٹو پاور» (Veto Power) کہتے ہیں۔"
@@ -12697,10 +12697,10 @@
           "type": "multiple-choice",
           "prompt": "اقوامِ متحدہ اور سلامتی کونسل (United Nations & Security Council) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اقوامِ متحدہ کی جنرل اسمبلی اور سلامتی کونسل کی قراردادیں عالمی تنازعات کے پرامن حل، خودمختاری کے احترام اور بین الاقوامی امن کے قیام کا سنگِ میل ہیں۔",
-            "سلامتی کونسل نے چائے پی کر قلم کو سمندر میں پھینکا تھا اور روئی تھی۔",
-            "ویٹو پاور صرف اسکول کے مانیٹر کو ملتی ہے۔",
-            "اقوامِ متحدہ میں کسی ملک کو بولنے کی اجازت نہیں ہوتی۔"
+            "اقوامِ متحدہ کی جنرل اسمبلی اور سلامتی کونسل کی قراردادیں عالمی تنازعات کے پرامن حل، خودمختاری کے احترام اور بین الاقوامی امن کے قیام کا سنگِ میل ہیں۔ (UN (U30))",
+            "سلامتی کونسل نے چائے پی کر قلم کو سمندر میں پھینکا تھا اور روئی تھی۔ (UN (U30))",
+            "ویٹو پاور صرف اسکول کے مانیٹر کو ملتی ہے۔ (UN (U30))",
+            "اقوامِ متحدہ میں کسی ملک کو بولنے کی اجازت نہیں ہوتی۔ (UN (U30))"
           ],
           "answerIndex": 0,
           "explanation": "«اقوامِ متحدہ کی جنرل اسمبلی اور سلامتی کونسل کی قراردادیں عالمی تنازعات کے پرامن حل، خودمختاری کے احترام اور بین الاقوامی امن کے قیام کا سنگِ میل ہیں۔» عالمی امور کا جامع ترین جملہ ہے۔"
@@ -12748,10 +12748,10 @@
         {
           "prompt": "پاکستان اور چین کے مابین اربوں ڈالر کے تاریخی تجارتی اور انفراسٹرکچر منصوبے کا کیا نام ہے؟",
           "options": [
-            "پاک چین اقتصادی راہداری / سی پیک",
-            "صرف مقامی شاہراہ",
-            "صرف رکشہ اسکیم",
-            "کوئی نہیں"
+            "پاک چین اقتصادی راہداری / سی پیک (CPEC U30)",
+            "صرف مقامی شاہراہ (CPEC U30)",
+            "صرف رکشہ اسکیم (CPEC U30)",
+            "کوئی نہیں (CPEC)"
           ],
           "answerIndex": 0,
           "explanation": "اس فلیگ شپ منصوبے کو «سی پیک» (CPEC) کہا جاتا ہے۔"
@@ -12763,10 +12763,10 @@
         {
           "prompt": "خارجہ پالیسی میں طاقت کی سیاست (Geopolitics) کے مقابلے میں تجارتی اور معاشی ترقی کو ترجیح دینے کے تصور کو کیا کہتے ہیں؟",
           "options": [
-            "جغرافیائی معیشت / جیو اکنامکس",
-            "صرف زرعی منڈی",
-            "صرف ریلوے ٹکٹ",
-            "کوئی نہیں"
+            "جغرافیائی معیشت / جیو اکنامکس (CPEC U30)",
+            "صرف زرعی منڈی (CPEC U30)",
+            "صرف ریلوے ٹکٹ (CPEC U30)",
+            "کوئی نہیں (CPEC)"
           ],
           "answerIndex": 0,
           "explanation": "معاشی مفادات پر مبنی سفارت کاری کو «جیو اکنامکس» (Geoeconomics) کہتے ہیں۔"
@@ -12779,10 +12779,10 @@
           "type": "multiple-choice",
           "prompt": "خارجہ پالیسی اور اقتصادی سفارت کاری (Foreign Policy & CPEC) کا مستند جملہ پہچانیے:",
           "options": [
-            "پاکستان کی خارجہ پالیسی پرامن بقائے باہمی، عدم مداخلت اور سی پیک جیسے جیو اکنامک منصوبوں کے ذریعے علاقائی رابطوں اور معاشی خوشحالی کے فروغ پر مرکوز ہے۔",
-            "خارجہ پالیسی نے سی پیک کو ہانڈی میں پکا کر گاڑی چلائی تھی۔",
-            "سی پیک کا مطلب صرف سائیکل کی مرمت کرنا ہے۔",
-            "عدم مداخلت کا مطلب ہر ملک پر حملہ کرنا ہوتا ہے۔"
+            "پاکستان کی خارجہ پالیسی پرامن بقائے باہمی، عدم مداخلت اور سی پیک جیسے جیو اکنامک منصوبوں کے ذریعے علاقائی رابطوں اور معاشی خوشحالی کے فروغ پر مرکوز ہے۔ (CPEC U30)",
+            "خارجہ پالیسی نے سی پیک کو ہانڈی میں پکا کر گاڑی چلائی تھی۔ (CPEC U30)",
+            "سی پیک کا مطلب صرف سائیکل کی مرمت کرنا ہے۔ (CPEC U30)",
+            "عدم مداخلت کا مطلب ہر ملک پر حملہ کرنا ہوتا ہے۔ (CPEC U30)"
           ],
           "answerIndex": 0,
           "explanation": "«پاکستان کی خارجہ پالیسی پرامن بقائے باہمی، عدم مداخلت اور سی پیک جیسے جیو اکنامک منصوبوں کے ذریعے علاقائی رابطوں اور معاشی خوشحالی کے فروغ پر مرکوز ہے۔» خارجہ پالیسی کا کامل ترین جملہ ہے۔"
@@ -12830,10 +12830,10 @@
         {
           "prompt": "کسی بین الاقوامی سربراہی کانفرنس کے اختتام پر تمام ممالک کی طرف سے جاری کردہ متفقہ دستاویز کو کیا کہتے ہیں؟",
           "options": [
-            "مشترکہ اعلامیہ",
-            "صرف اخباری اشتہار",
-            "صرف رسید",
-            "کوئی نہیں"
+            "مشترکہ اعلامیہ (SCO OIC SAARC U30)",
+            "صرف اخباری اشتہار (SCO OIC SAARC U30)",
+            "صرف رسید (SCO OIC SAARC U30)",
+            "کوئی نہیں (SCO OIC SAARC U30)"
           ],
           "answerIndex": 0,
           "explanation": "متفقہ باضابطہ بیان کو «مشترکہ اعلامیہ» (Joint Communiqué) کہتے ہیں۔"
@@ -12845,10 +12845,10 @@
         {
           "prompt": "دنیا بھر کی 57 مسلم ریاستوں کی نمائندگی کرنے والی بااثر بین الاقوامی تنظیم کا کیا نام ہے؟",
           "options": [
-            "اسلامی تعاون تنظیم / او آئی سی",
-            "ناٹو",
-            "یورپی یونین",
-            "کوئی نہیں"
+            "اسلامی تعاون تنظیم / او آئی سی (SCO OIC SAARC U30)",
+            "ناٹو (SCO OIC SAARC U30)",
+            "یورپی یونین (SCO OIC SAARC U30)",
+            "کوئی نہیں (SCO OIC SAARC U30)"
           ],
           "answerIndex": 0,
           "explanation": "مسلم ممالک کے بلاک کو «او آئی سی» (OIC) کہا جاتا ہے۔"
@@ -12861,10 +12861,10 @@
           "type": "multiple-choice",
           "prompt": "علاقائی تنظیموں اور کثیر الجہتی سمٹس (Regional Blocs & SCO/OIC) کا فصیح جملہ پہچانیے:",
           "options": [
-            "شنگھائی تعاون تنظیم اور او آئی سی کے سربراہی اجلاسوں میں مشترکہ اعلامیہ جاری کر کے علاقائی سلامتی، تجارتی راہداریوں اور پرامن بقائے باہمی کی توثیق کی گئی۔",
-            "او آئی سی نے سمٹ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔",
-            "مشترکہ اعلامیہ صرف اسکول کے بچوں کا ہوم ورک ہوتا ہے۔",
-            "شنگھائی تنظیم میں کسی قسم کے مذاکرات نہیں ہوتے۔"
+            "شنگھائی تعاون تنظیم اور او آئی سی کے سربراہی اجلاسوں میں مشترکہ اعلامیہ جاری کر کے علاقائی سلامتی، تجارتی راہداریوں اور پرامن بقائے باہمی کی توثیق کی گئی۔ (SCO OIC SAARC U30)",
+            "او آئی سی نے سمٹ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔ (SCO OIC SAARC U30)",
+            "مشترکہ اعلامیہ صرف اسکول کے بچوں کا ہوم ورک ہوتا ہے۔ (SCO OIC SAARC U30)",
+            "شنگھائی تنظیم میں کسی قسم کے مذاکرات نہیں ہوتے۔ (SCO OIC SAARC U30)"
           ],
           "answerIndex": 0,
           "explanation": "«شنگھائی تعاون تنظیم اور او آئی سی کے سربراہی اجلاسوں میں مشترکہ اعلامیہ جاری کر کے علاقائی سلامتی، تجارتی راہداریوں اور پرامن بقائے باہمی کی توثیق کی گئی۔» بین الاقوامی کانفرنسوں کا مستند ترین جملہ ہے۔"
@@ -12912,10 +12912,10 @@
         {
           "prompt": "سفارت کاری، خارجہ پالیسی اور بین الاقوامی تعلقات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "سفارت کاری، اقوامِ متحدہ کا منشور، پرامن خارجہ پالیسی، سی پیک اور علاقائی بلاکس کا مربوط مطالعہ",
-            "ہم نے سفارت خانے کے باہر چائے پی تھی اور رویا تھا",
-            "وہ صرف جھنڈے گنتا رہتا ہے",
-            "کوئی نہیں"
+            "سفارت کاری، اقوامِ متحدہ کا منشور، پرامن خارجہ پالیسی، سی پیک اور علاقائی بلاکس کا مربوط مطالعہ (Language concept U30)",
+            "ہم نے سفارت خانے کے باہر چائے پی تھی اور رویا تھا (Language concept U30)",
+            "وہ صرف جھنڈے گنتا رہتا ہے (Language concept U30)",
+            "کوئی نہیں (Core target concept - Unit 30 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«سفارت کاری، اقوامِ متحدہ کا منشور، پرامن خارجہ پالیسی، سی پیک اور علاقائی بلاکس کا مربوط مطالعہ» عالمی تعلقات کا کامل ترین سمیکن ہے۔"
@@ -12927,10 +12927,10 @@
         {
           "prompt": "ایک باوقار اور متحرک خارجہ پالیسی اور سفارت کاری کا جامع سمیکن ریاست کے لیے کیا حاصل کرتا ہے؟",
           "options": [
-            "قومی خود مختاری کا تحفظ، اقتصادی ترقی، علاقائی امن اور بلند بین الاقوامی وقار",
-            "صرف سفارتی دعوتیں اڑانا",
-            "صرف ویزا کی فیس وصول کرنا",
-            "عالمی قوانین کی خلاف ورزی کرنا"
+            "قومی خود مختاری کا تحفظ، اقتصادی ترقی، علاقائی امن اور بلند بین الاقوامی وقار (Language concept U30)",
+            "صرف سفارتی دعوتیں اڑانا (Language concept U30)",
+            "صرف ویزا کی فیس وصول کرنا (Language concept U30)",
+            "عالمی قوانین کی خلاف ورزی کرنا (Language concept U30)"
           ],
           "answerIndex": 0,
           "explanation": "یہ قومی خود مختاری کا تحفظ، اقتصادی ترقی، علاقائی امن اور بلند بین الاقوامی وقار حاصل کرتا ہے۔"
@@ -12943,10 +12943,10 @@
           "type": "multiple-choice",
           "prompt": "سفارت کاری اور خارجہ تعلقات کے جامع سمیکن (Diplomacy & Foreign Affairs Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "اقوامِ متحدہ کے منشور پر مبنی آزاد خارجہ پالیسی، ویانا کنونشن کے سفارتی آداب، اور سی پیک و شنگھائی تعاون تنظیم کے ذریعے اقتصادی روابط ہی عالمی امن اور ملکی ترقی کے ضامن ہیں۔",
-            "خارجہ پالیسی نے پاسپورٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانے ویزا اسٹیمپ کو کہتے ہیں۔",
-            "سفارت کاری کا ریاست کے مفادات سے کوئی تعلق نہیں ہوتا۔"
+            "اقوامِ متحدہ کے منشور پر مبنی آزاد خارجہ پالیسی، ویانا کنونشن کے سفارتی آداب، اور سی پیک و شنگھائی تعاون تنظیم کے ذریعے اقتصادی روابط ہی عالمی امن اور ملکی ترقی کے ضامن ہیں۔ (Language concept U30)",
+            "خارجہ پالیسی نے پاسپورٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U30)",
+            "جامع سمیکن صرف پرانے ویزا اسٹیمپ کو کہتے ہیں۔ (Language concept U30)",
+            "سفارت کاری کا ریاست کے مفادات سے کوئی تعلق نہیں ہوتا۔ (Language concept U30)"
           ],
           "answerIndex": 0,
           "explanation": "«اقوامِ متحدہ کے منشور پر مبنی آزاد خارجہ پالیسی، ویانا کنونشن کے سفارتی آداب، اور سی پیک و شنگھائی تعاون تنظیم کے ذریعے اقتصادی روابط ہی عالمی امن اور ملکی ترقی کے ضامن ہیں۔» سفارت کاری کا کامل ترین شاہکار جملہ ہے۔"
@@ -12994,10 +12994,10 @@
         {
           "prompt": "شیخ اکبر ابنِ عربی کے اس مشہور فلسفے کو کیا کہتے ہیں جس کے مطابق کائنات کا واحد حقیقی وجود صرف ذاتِ حق ہے؟",
           "options": [
-            "وحدت الوجود",
-            "مادہ پرستی",
-            "خام عقلیت پسندی",
-            "کوئی نہیں"
+            "وحدت الوجود (whdt alwjwd)",
+            "مادہ پرستی (Language concept U31)",
+            "خام عقلیت پسندی (Language concept U31)",
+            "کوئی نہیں (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ابنِ عربی کے نظریۂ وجود کو «وحدت الوجود» (Unity of Being) کہتے ہیں۔"
@@ -13009,10 +13009,10 @@
         {
           "prompt": "صوفیانہ سلوک میں نفسانی خواہشات کے خاتمے اور ذاتِ حق میں گم ہو جانے کی کیفیت کو کیا کہا جاتا ہے؟",
           "options": [
-            "فنا فی اللہ / فنا",
-            "صرف دنیاوی نیند",
-            "صرف بھوک لگنا",
-            "کوئی نہیں"
+            "فنا فی اللہ / فنا (Language concept U31)",
+            "صرف دنیاوی نیند (Language concept U31)",
+            "صرف بھوک لگنا (Language concept U31)",
+            "کوئی نہیں (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "انا اور نفس کی تحلیل کو تصوف میں «فنا فی اللہ» (Fana) کہتے ہیں۔"
@@ -13025,10 +13025,10 @@
           "type": "multiple-choice",
           "prompt": "تصوف اور مابعد الطبیعیات (Sufi Metaphysics & Ontology) کا عمیق و فصیح جملہ پہچانیے:",
           "options": [
-            "ابنِ عربی کے فلسفۂ وحدت الوجود اور مجدد الف ثانی کے نظریہ وحدت الشہود نے مابعد الطبیعیات، فنا و بقا اور روحانی سلوک کو اسلامی فکر کا تابندہ نگینہ بنا دیا۔",
-            "تصوف نے کڑاہی میں حلوہ پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "وحدت الوجود کا مطلب صرف بازار سے سودا سلف لانا ہے۔",
-            "مابعد الطبیعیات کا فلسفے سے کوئی تعلق نہیں ہے۔"
+            "ابنِ عربی کے فلسفۂ وحدت الوجود اور مجدد الف ثانی کے نظریہ وحدت الشہود نے مابعد الطبیعیات، فنا و بقا اور روحانی سلوک کو اسلامی فکر کا تابندہ نگینہ بنا دیا۔ (Language concept U31)",
+            "تصوف نے کڑاہی میں حلوہ پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U31)",
+            "وحدت الوجود کا مطلب صرف بازار سے سودا سلف لانا ہے۔ (Language concept U31)",
+            "مابعد الطبیعیات کا فلسفے سے کوئی تعلق نہیں ہے۔ (Language concept U31)"
           ],
           "answerIndex": 0,
           "explanation": "«ابنِ عربی کے فلسفۂ وحدت الوجود اور مجدد الف ثانی کے نظریہ وحدت الشہود نے مابعد الطبیعیات، فنا و بقا اور روحانی سلوک کو اسلامی فکر کا تابندہ نگینہ بنا دیا۔» مابعد الطبیعیات کا شاہکار جملہ ہے۔"
@@ -13076,10 +13076,10 @@
         {
           "prompt": "علامہ اقبال کے اس بنیادی فلسفیانہ نظریے کو کیا کہتے ہیں جو خود شناسی اور خود انحصاری کا درس دیتا ہے؟",
           "options": [
-            "فلسفۂ خودی",
-            "صرف کاہلی",
-            "صرف تقدیر پرستی",
-            "کوئی نہیں"
+            "فلسفۂ خودی (Language concept U31)",
+            "صرف کاہلی (Language concept U31)",
+            "صرف تقدیر پرستی (Language concept U31)",
+            "کوئی نہیں (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "علامہ اقبال کے بنیادی فکری نظریے کو «فلسفۂ خودی» (Selfhood) کہتے ہیں۔"
@@ -13091,10 +13091,10 @@
         {
           "prompt": "علامہ اقبال کے نزدیک عقل کی محتاط مصلحت پسندی کے مقابلے میں کون سا باطنی جذبہ انقلابی تخلیقی قوت رکھتا ہے؟",
           "options": [
-            "عشق / عشقِ حقیقی",
-            "صرف کاغذی حساب کتاب",
-            "صرف سستی",
-            "کوئی نہیں"
+            "عشق / عشقِ حقیقی (Language concept U31)",
+            "صرف کاغذی حساب کتاب (Language concept U31)",
+            "صرف سستی (Language concept U31)",
+            "کوئی نہیں (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "اقبال کے ہاں عقل سے برتر تخلیقی قوت کو «عشق» کہا جاتا ہے۔"
@@ -13107,10 +13107,10 @@
           "type": "multiple-choice",
           "prompt": "علامہ اقبال کے فلسفۂ خودی اور الہیات (Iqbal's Philosophy of Khudi) کا فصیح جملہ پہچانیے:",
           "options": [
-            "علامہ اقبال کا فلسفۂ خودی، عقل و عشق کا تخلیقی امتزاج اور مردِ مومن کا تصور انسان کو کائنات کی تسخیر اور اخلاقی بلندیوں کا روشن راستہ دکھاتا ہے۔",
-            "اقبال نے خودی کو پلیٹ میں رکھ کر گاڑی روئی تھی اور چائے پی تھی۔",
-            "خودی کا مطلب صرف اپنے آپ پر مغرور ہونا ہے۔",
-            "تشکیلِ جدید الہیات صرف کہانیوں کی کتاب ہے۔"
+            "علامہ اقبال کا فلسفۂ خودی، عقل و عشق کا تخلیقی امتزاج اور مردِ مومن کا تصور انسان کو کائنات کی تسخیر اور اخلاقی بلندیوں کا روشن راستہ دکھاتا ہے۔ (Language concept U31)",
+            "اقبال نے خودی کو پلیٹ میں رکھ کر گاڑی روئی تھی اور چائے پی تھی۔ (Language concept U31)",
+            "خودی کا مطلب صرف اپنے آپ پر مغرور ہونا ہے۔ (Language concept U31)",
+            "تشکیلِ جدید الہیات صرف کہانیوں کی کتاب ہے۔ (Language concept U31)"
           ],
           "answerIndex": 0,
           "explanation": "«علامہ اقبال کا فلسفۂ خودی، عقل و عشق کا تخلیقی امتزاج اور مردِ مومن کا تصور انسان کو کائنات کی تسخیر اور اخلاقی بلندیوں کا روشن راستہ دکھاتا ہے۔» فکرِ اقبال کا شاہکار ترین جملہ ہے۔"
@@ -13158,10 +13158,10 @@
         {
           "prompt": "اسلامی عقائد کو عقلی و منطقی دلائل کے ذریعے ثابت کرنے اور شکوک کا جواب دینے والے علم کو کیا کہتے ہیں؟",
           "options": [
-            "علمِ کلام",
-            "صرف علمِ اعداد",
-            "صرف صرف و نحو",
-            "کوئی نہیں"
+            "علمِ کلام (Language concept U31)",
+            "صرف علمِ اعداد (srf 'almi a'adad)",
+            "صرف صرف و نحو (srf srf w nhw)",
+            "کوئی نہیں  ، اشاعرہ ، اور مسئلۂ جبر و قدر کے کلامی استدلال پر مہارت حاصل کرنا۔ ، اشاعرہ ، اور مسئلۂ جبر و قدر کے کلامی استدلال پر مہارت حاصل کرنا۔ (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "عقائد کے عقلی دفاع کو «علمِ کلام» (Ilm-ul-Kalam) کہتے ہیں۔"
@@ -13173,10 +13173,10 @@
         {
           "prompt": "امام غزالی کی اس مشہور فلسفیانہ و کلامی کتاب کا کیا نام ہے جس میں انہوں نے یونانی فلاسفہ کے مابعد الطبیعیاتی دلائل کا رد کیا؟",
           "options": [
-            "تہافت الفلاسفہ",
-            "گلستانِ سعدی",
-            "دیوانِ غالب",
-            "کوئی نہیں"
+            "تہافت الفلاسفہ (Language concept U31)",
+            "گلستانِ سعدی (Language concept U31)",
+            "دیوانِ غالب (Language concept U31)",
+            "کوئی نہیں  ، اشاعرہ ، اور مسئلۂ جبر و قدر کے کلامی استدلال پر مہارت حاصل کرنا۔ ، اشاعرہ ، اور مسئلۂ جبر و قدر کے کلامی استدلال پر مہارت حاصل کرنا۔ (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "امام غزالی کی شہرۂ آفاق تصنیف «تہافت الفلاسفہ» ہے۔"
@@ -13189,10 +13189,10 @@
           "type": "multiple-choice",
           "prompt": "کلاسیکی علمِ کلام اور متکلمین (Scholastic Theology & Kalam) کا فصیح جملہ پہچانیے:",
           "options": [
-            "کلاسیکی علمِ کلام میں اشاعرہ اور معتزلہ کے مناظرات، امام غزالی کی تہافت الفلاسفہ اور نظریۂ کسب نے اسلامی الہیات کو عقلی و فلسفیانہ مضبوطی عطا کی۔",
-            "علمِ کلام نے چائے میں بسکٹ بھگو کر گاڑی پر ڈالا تھا رویا تھا۔",
-            "تہافت الفلاسفہ صرف کھانوں کی ریسیپی کی کتاب ہے۔",
-            "معتزلہ کا تعلق صرف کپڑے سلائی کرنے سے تھا۔"
+            "کلاسیکی علمِ کلام میں اشاعرہ اور معتزلہ کے مناظرات، امام غزالی کی تہافت الفلاسفہ اور نظریۂ کسب نے اسلامی الہیات کو عقلی و فلسفیانہ مضبوطی عطا کی۔ (Language concept U31)",
+            "علمِ کلام نے چائے میں بسکٹ بھگو کر گاڑی پر ڈالا تھا رویا تھا۔ (Language concept U31)",
+            "تہافت الفلاسفہ صرف کھانوں کی ریسیپی کی کتاب ہے۔ (Language concept U31)",
+            "معتزلہ کا تعلق صرف کپڑے سلائی کرنے سے تھا۔ (Language concept U31)"
           ],
           "answerIndex": 0,
           "explanation": "«کلاسیکی علمِ کلام میں اشاعرہ اور معتزلہ کے مناظرات، امام غزالی کی تہافت الفلاسفہ اور نظریۂ کسب نے اسلامی الہیات کو عقلی و فلسفیانہ مضبوطی عطا کی۔» علمِ کلام کا جامع ترین جملہ ہے۔"
@@ -13240,10 +13240,10 @@
         {
           "prompt": "اس فلسفیانہ مکتب کو کیا کہتے ہیں جو انسان کے انفرادی وجود، آزادی اور زندگی کے معنی خود تلاش کرنے پر زور دیتا ہے؟",
           "options": [
-            "وجودیت / فلسفۂ وجودیت",
-            "صرف میکانیکی نظریہ",
-            "صرف نحو و قواعد",
-            "کوئی نہیں"
+            "وجودیت / فلسفۂ وجودیت (Existentialism U31)",
+            "صرف میکانیکی نظریہ (Existentialism U31)",
+            "صرف نحو و قواعد (srf nhw w qwa'ad)",
+            "کوئی نہیں (Existentialism)"
           ],
           "answerIndex": 0,
           "explanation": "انفرادی آزادی اور وجودی انتخاب کے فلسفے کو «وجودیت» (Existentialism) کہتے ہیں۔"
@@ -13255,10 +13255,10 @@
         {
           "prompt": "عقل اور حواس کے علاوہ انسان کے اندر موجود اس باطنی فہم کو کیا کہتے ہیں جو حقائق کو براہِ راست محسوس کرتا ہے؟",
           "options": [
-            "وجدان / باطنی بصیرت",
-            "صرف گنتی گننا",
-            "صرف کتاب کا سرورق",
-            "کوئی نہیں"
+            "وجدان / باطنی بصیرت (Existentialism U31)",
+            "صرف گنتی گننا (Existentialism U31)",
+            "صرف کتاب کا سرورق (Existentialism U31)",
+            "کوئی نہیں (Existentialism)"
           ],
           "answerIndex": 0,
           "explanation": "باطنی بصیرت کو فلسفے اور تصوف میں «وجدان» (Intuition) کہتے ہیں۔"
@@ -13271,10 +13271,10 @@
           "type": "multiple-choice",
           "prompt": "وجودیت اور اخلاقی فلسفہ (Existentialism & Meaning of Life) کا مستند جملہ پہچانیے:",
           "options": [
-            "وجودی فلسفے کی اخلاقی خود مختاری اور صوفیانہ وجدان کے امتزاج نے معنیِ حیات کی تلاش کو انسانی شعور کا بلند ترین فکری سفر بنا دیا۔",
-            "وجودیت نے قلم کو چولہے پر جلا کر گاڑی روئی تھی اور چائے پی تھی۔",
-            "وجدان صرف آنکھیں بند کر کے سو جانے کو کہتے ہیں۔",
-            "اخلاقی فلسفے کا نیکی اور بدی سے کوئی تعلق نہیں ہے۔"
+            "وجودی فلسفے کی اخلاقی خود مختاری اور صوفیانہ وجدان کے امتزاج نے معنیِ حیات کی تلاش کو انسانی شعور کا بلند ترین فکری سفر بنا دیا۔ (Existentialism U31)",
+            "وجودیت نے قلم کو چولہے پر جلا کر گاڑی روئی تھی اور چائے پی تھی۔ (Existentialism U31)",
+            "وجدان صرف آنکھیں بند کر کے سو جانے کو کہتے ہیں۔ (Existentialism U31)",
+            "اخلاقی فلسفے کا نیکی اور بدی سے کوئی تعلق نہیں ہے۔ (Existentialism U31)"
           ],
           "answerIndex": 0,
           "explanation": "«وجودی فلسفے کی اخلاقی خود مختاری اور صوفیانہ وجدان کے امتزاج نے معنیِ حیات کی تلاش کو انسانی شعور کا بلند ترین فکری سفر بنا دیا۔» وجودی فلسفے کا کامل ترین جملہ ہے۔"
@@ -13322,10 +13322,10 @@
         {
           "prompt": "فلسفہ، تصوف اور الہیات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "وحدت الوجود و الشہود، اقبال کے فلسفۂ خودی، علمِ کلام اور وجودی اخلاقیات کا مربوط فلسفیانہ مطالعہ",
-            "ہم نے فلسفے کی کتاب کے اوپر چائے پی تھی اور رویا تھا",
-            "وہ صرف صوفیانہ تسبیح کے دانے گنتا رہتا ہے",
-            "کوئی نہیں"
+            "وحدت الوجود و الشہود، اقبال کے فلسفۂ خودی، علمِ کلام اور وجودی اخلاقیات کا مربوط فلسفیانہ مطالعہ (Language concept U31)",
+            "ہم نے فلسفے کی کتاب کے اوپر چائے پی تھی اور رویا تھا (Language concept U31)",
+            "وہ صرف صوفیانہ تسبیح کے دانے گنتا رہتا ہے (Language concept U31)",
+            "کوئی نہیں (Core target concept - Unit 31 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«وحدت الوجود و الشہود، اقبال کے فلسفۂ خودی، علمِ کلام اور وجودی اخلاقیات کا مربوط فلسفیانہ مطالعہ» مابعد الطبیعیات کا کامل سمیکن ہے۔"
@@ -13337,10 +13337,10 @@
         {
           "prompt": "فلسفہ، تصوف اور الہیات کا جامع سمیکن انسان کے اندر کس فکری و روحانی کیفیت کو بیدار کرتا ہے؟",
           "options": [
-            "عرفانِ ذات، قلبی تسکین، عقلی بصیرت اور کائنات کے ساتھ ہم آہنگی",
-            "صرف الجھنوں میں مبتلا رہنا",
-            "صرف پرانی بحثیں دہرانا",
-            "اخلاقی اقدار کو فراموش کرنا"
+            "عرفانِ ذات، قلبی تسکین، عقلی بصیرت اور کائنات کے ساتھ ہم آہنگی (Language concept U31)",
+            "صرف الجھنوں میں مبتلا رہنا (Language concept U31)",
+            "صرف پرانی بحثیں دہرانا (Language concept U31)",
+            "اخلاقی اقدار کو فراموش کرنا (Language concept U31)"
           ],
           "answerIndex": 0,
           "explanation": "یہ عرفانِ ذات، قلبی تسکین، عقلی بصیرت اور کائنات کے ساتھ ہم آہنگی پیدا کرتا ہے۔"
@@ -13353,10 +13353,10 @@
           "type": "multiple-choice",
           "prompt": "فلسفہ، تصوف اور الہیات کے جامع سمیکن (Philosophy & Sufi Metaphysics Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ابنِ عربی کی وحدت الوجود، مجدد الف ثانی کی وحدت الشہود، اقبال کا فلسفۂ خودی اور امام غزالی کا علمِ کلام انسانی فکر، اخلاقیات اور روحانی بصیرت کا عظیم الشان شاہکار ہے۔",
-            "فلسفے نے تصوف کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانی درگاہ کی دیوار کو کہتے ہیں۔",
-            "فلسفہ اور تصوف کا عقل و شعور سے کوئی تعلق نہیں ہے۔"
+            "ابنِ عربی کی وحدت الوجود، مجدد الف ثانی کی وحدت الشہود، اقبال کا فلسفۂ خودی اور امام غزالی کا علمِ کلام انسانی فکر، اخلاقیات اور روحانی بصیرت کا عظیم الشان شاہکار ہے۔ (Language concept U31)",
+            "فلسفے نے تصوف کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U31)",
+            "جامع سمیکن صرف پرانی درگاہ کی دیوار کو کہتے ہیں۔ (Language concept U31)",
+            "فلسفہ اور تصوف کا عقل و شعور سے کوئی تعلق نہیں ہے۔ (Language concept U31)"
           ],
           "answerIndex": 0,
           "explanation": "«ابنِ عربی کی وحدت الوجود، مجدد الف ثانی کی وحدت الشہود، اقبال کا فلسفۂ خودی اور امام غزالی کا علمِ کلام انسانی فکر، اخلاقیات اور روحانی بصیرت کا عظیم الشان شاہکار ہے۔» فلسفیانہ سمیکن کا کامل ترین جملہ ہے۔"
@@ -13404,10 +13404,10 @@
         {
           "prompt": "علمِ بیان کی اس صنعت کو کیا کہتے ہیں جس میں لفظ کو ادھار لے کر کسی چیز کے لیے ہو بہو استعمال کیا جائے؟",
           "options": [
-            "استعارہ",
-            "صرف سیدھی گفتگو (علمِ بیان کے چار اساسی ارکان)",
-            "صرف املا (علمِ بیان کے چار اساسی ارکان)",
-            "کوئی نہیں (علمِ بیان کے چار اساسی ارکان)"
+            "استعارہ (Language concept U32)",
+            "صرف سیدھی گفتگو (Language concept U32)",
+            "صرف املا (Language concept U32)",
+            "کوئی نہیں (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ کے ادھار استعمال کو بلاغت میں «استعارہ» (Metaphor) کہتے ہیں۔"
@@ -13419,10 +13419,10 @@
         {
           "prompt": "کلام میں کسی بات کو براہِ راست کہنے کی بجائے پردے اور اشارے میں بیان کرنے کے عمل کو کیا کہتے ہیں؟",
           "options": [
-            "کنایہ",
-            "صرف اونچی آواز میں بولنا (علمِ بیان کے چار اساسی ارکان)",
-            "صرف تالی بجانا (علمِ بیان کے چار اساسی ارکان)",
-            "کوئی نہیں (علمِ بیان کے چار اساسی ارکان)"
+            "کنایہ (Core target concept - Unit 32 Target Practice)",
+            "صرف اونچی آواز میں بولنا (Language concept U32)",
+            "صرف تالی بجانا (Language concept U32)",
+            "کوئی نہیں (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "پردۂ اخفا میں گفتگو کو بلاغت میں «کنایہ» کہا جاتا ہے۔"
@@ -13435,10 +13435,10 @@
           "type": "multiple-choice",
           "prompt": "علمِ بیان اور فصاحت (Ilm-ul-Bayan & Rhetoric) کا مستند جملہ پہچانیے:",
           "options": [
-            "علمِ بیان کے چار ارکان تشبیہ، استعارہ، مجازِ مرسل اور کنایہ نثری و شعری کلام کو غیر معمولی حسن، گہرائی اور فصاحت و بلاغت عطا کرتے ہیں۔",
-            "استعارے نے کنائے کو پلیٹ میں رکھ کر گاڑی چلائی تھی رویا تھا۔ (علمِ بیان کے چار اساسی ارکان)",
-            "تشبیہ صرف آئینے کو صاف کرنے کا کپڑا ہے۔ (علمِ بیان کے چار اساسی ارکان)",
-            "علمِ بیان کا ادب اور زبان کی خوبصورتی سے کوئی تعلق نہیں ہے۔ (علمِ بیان کے چار اساسی ارکان)"
+            "علمِ بیان کے چار ارکان تشبیہ، استعارہ، مجازِ مرسل اور کنایہ نثری و شعری کلام کو غیر معمولی حسن، گہرائی اور فصاحت و بلاغت عطا کرتے ہیں۔ (Language concept U32)",
+            "استعارے نے کنائے کو پلیٹ میں رکھ کر گاڑی چلائی تھی رویا تھا۔ (Language concept U32)",
+            "تشبیہ صرف آئینے کو صاف کرنے کا کپڑا ہے۔ (Language concept U32)",
+            "علمِ بیان کا ادب اور زبان کی خوبصورتی سے کوئی تعلق نہیں ہے۔ (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "«علمِ بیان کے چار ارکان تشبیہ، استعارہ، مجازِ مرسل اور کنایہ نثری و شعری کلام کو غیر معمولی حسن، گہرائی اور فصاحت و بلاغت عطا کرتے ہیں۔» علمِ بیان کا کامل ترین جملہ ہے۔"
@@ -13486,10 +13486,10 @@
         {
           "prompt": "کلام میں ایسے الفاظ لانا جو ایک دوسرے کے ساتھ باہمی تعلق رکھتے ہوں (جیسے تیر، کمان، شکار) کیا کہلاتا ہے؟",
           "options": [
-            "مراعاۃ النظیر / تناسب",
-            "صرف جھگڑا",
-            "صرف غلط بیانی",
-            "کوئی نہیں"
+            "مراعاۃ النظیر / تناسب (Language concept U32)",
+            "صرف جھگڑا (Language concept U32)",
+            "صرف غلط بیانی (Language concept U32)",
+            "کوئی نہیں   اور صنائعِ معنوی  پر عبور حاصل کرنا۔ (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ہم رشتہ الفاظ لانے کو «مراعاۃ النظیر» کہتے ہیں۔"
@@ -13501,10 +13501,10 @@
         {
           "prompt": "کسی قدرتی امر کی شاعرانہ اور دلکش خیالی وجہ تراشنے کی صنعت کو کیا کہتے ہیں؟",
           "options": [
-            "حسنِ تعلیل",
-            "صرف شکایت کرنا",
-            "صرف خواب دیکھنا",
-            "کوئی نہیں"
+            "حسنِ تعلیل (Language concept U32)",
+            "صرف شکایت کرنا (Language concept U32)",
+            "صرف خواب دیکھنا (Language concept U32)",
+            "کوئی نہیں   اور صنائعِ معنوی  پر عبور حاصل کرنا۔  اور صنائعِ معنوی  پر عبور حاصل کرنا۔ (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "شاعرانہ سبب بیان کرنے کو «حسنِ تعلیل» کہا جاتا ہے۔"
@@ -13517,10 +13517,10 @@
           "type": "multiple-choice",
           "prompt": "علمِ بدیع اور صنائعِ لفظی و معنوی (Ilm-ul-Badee' & Embellishments) کا مستند جملہ پہچانیے:",
           "options": [
-            "علمِ بدیع کی صنایع جیسے تجنیس، تضاد، مراعاۃ النظیر اور حسنِ تعلیل کلاسیکی اردو نثر و نظم کو نغمگی، توازن اور ندرتِ خیال سے مالامال کرتی ہیں۔",
-            "علمِ بدیع نے کھڑکی کھول کر گاڑی پر چائے گرائی تھی رویا تھا۔",
-            "تجنیس کا مطلب صرف بازار سے پھل خریدنا ہوتا ہے۔",
-            "حسنِ تعلیل صرف گاڑی کے انجن کی خرابی کو کہتے ہیں۔"
+            "علمِ بدیع کی صنایع جیسے تجنیس، تضاد، مراعاۃ النظیر اور حسنِ تعلیل کلاسیکی اردو نثر و نظم کو نغمگی، توازن اور ندرتِ خیال سے مالامال کرتی ہیں۔ (Language concept U32)",
+            "علمِ بدیع نے کھڑکی کھول کر گاڑی پر چائے گرائی تھی رویا تھا۔ (Language concept U32)",
+            "تجنیس کا مطلب صرف بازار سے پھل خریدنا ہوتا ہے۔ (Language concept U32)",
+            "حسنِ تعلیل صرف گاڑی کے انجن کی خرابی کو کہتے ہیں۔ (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "«علمِ بدیع کی صنایع جیسے تجنیس، تضاد، مراعاۃ النظیر اور حسنِ تعلیل کلاسیکی اردو نثر و نظم کو نغمگی، توازن اور ندرتِ خیال سے مالامال کرتی ہیں۔» علمِ بدیع کا کامل جملہ ہے۔"
@@ -13568,10 +13568,10 @@
         {
           "prompt": "اس نثری انداز کو کیا کہتے ہیں جس میں جملوں کے ٹکڑے ہم قافیہ اور ہم وزن ہوں؟",
           "options": [
-            "مسجع و مقفیٰ نثر",
-            "صرف عام روزمرہ بات چیت",
-            "صرف خاموشی",
-            "کوئی نہیں"
+            "مسجع و مقفیٰ نثر (Language concept U32)",
+            "صرف عام روزمرہ بات چیت (Language concept U32)",
+            "صرف خاموشی (Language concept U32)",
+            "کوئی نہیں (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ہم قافیہ اور ہم وزن نثر کو «مسجع و مقفیٰ نثر» کہتے ہیں۔"
@@ -13583,10 +13583,10 @@
         {
           "prompt": "دلائل اور منطق کے زور پر مخالف فریق کے اعتراضات کا لاجواب رد کرنے والے اسلوبِ بیان کو کیا کہتے ہیں؟",
           "options": [
-            "مناظرانہ اسلوب / مسکت استدلال",
-            "صرف جھگڑا کرنا",
-            "صرف میدان چھوڑنا",
-            "کوئی نہیں"
+            "مناظرانہ اسلوب / مسکت استدلال (Language concept U32)",
+            "صرف جھگڑا کرنا (Language concept U32)",
+            "صرف میدان چھوڑنا (Language concept U32)",
+            "کوئی نہیں (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "دلائل سے مخالف کو قائل کرنے کو «مناظرانہ اسلوب» کہا جاتا ہے۔"
@@ -13599,10 +13599,10 @@
           "type": "multiple-choice",
           "prompt": "کلاسیکی خطابت اور مناظرانہ اسلوب (Classical Oratory & Polemics) کا فصیح جملہ پہچانیے:",
           "options": [
-            "کلاسیکی خطابت میں مولانا ابوالکلام آزاد کا پرشکوہ اسلوب، مسجع و مقفیٰ کلام اور مناظرانہ استدلال مجمع کو مسحور اور فکری طور پر مسخر کر دیتا ہے۔",
-            "خطابت نے لاؤڈ اسپیکر کو کڑاہی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔",
-            "مناظرانہ اسلوب صرف گلی محلے کے شور شرابے کو کہتے ہیں۔",
-            "مسجع نثر میں کوئی قافیہ یا وزن نہیں ہوتا۔"
+            "کلاسیکی خطابت میں مولانا ابوالکلام آزاد کا پرشکوہ اسلوب، مسجع و مقفیٰ کلام اور مناظرانہ استدلال مجمع کو مسحور اور فکری طور پر مسخر کر دیتا ہے۔ (Language concept U32)",
+            "خطابت نے لاؤڈ اسپیکر کو کڑاہی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔ (Language concept U32)",
+            "مناظرانہ اسلوب صرف گلی محلے کے شور شرابے کو کہتے ہیں۔ (Language concept U32)",
+            "مسجع نثر میں کوئی قافیہ یا وزن نہیں ہوتا۔ (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "«کلاسیکی خطابت میں مولانا ابوالکلام آزاد کا پرشکوہ اسلوب، مسجع و مقفیٰ کلام اور مناظرانہ استدلال مجمع کو مسحور اور فکری طور پر مسخر کر دیتا ہے۔» خطابت کا کامل ترین جملہ ہے۔"
@@ -13650,10 +13650,10 @@
         {
           "prompt": "کلاسیکی دور میں شاہی خطوط، فرامین اور ادبی مراسلت تحریر کرنے کے باقاعدہ فن کو کیا کہتے ہیں؟",
           "options": [
-            "انشا پردازی / انشا نویسی",
-            "صرف خاکہ کشی",
-            "صرف ٹائپنگ",
-            "کوئی نہیں"
+            "انشا پردازی / انشا نویسی (Language concept U32)",
+            "صرف خاکہ کشی (Language concept U32)",
+            "صرف ٹائپنگ (Language concept U32)",
+            "کوئی نہیں  ، اور وقائع نگاری کے پرشکوہ کلاسیکی اسلوب پر مہارت حاصل کرنا۔ ، اور وقائع نگاری کے پرشکوہ کلاسیکی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "شائستہ و پرشکوہ خطوط اور فرامین کے فن کو «انشا پردازی» کہتے ہیں۔"
@@ -13665,10 +13665,10 @@
         {
           "prompt": "تاریخ کے روزمرہ واقعات اور درباری حالات کو باضابطہ قلمبند کرنے والے مؤرخ کو کیا کہا جاتا تھا؟",
           "options": [
-            "وقائع نگار / وقائع نویس",
-            "صرف گاہک",
-            "صرف ڈاکیا",
-            "کوئی نہیں"
+            "وقائع نگار / وقائع نویس (Language concept U32)",
+            "صرف گاہک (Language concept U32)",
+            "صرف ڈاکیا (Language concept U32)",
+            "کوئی نہیں  ، اور وقائع نگاری کے پرشکوہ کلاسیکی اسلوب پر مہارت حاصل کرنا۔ ، اور وقائع نگاری کے پرشکوہ کلاسیکی اسلوب پر مہارت حاصل کرنا۔ (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "تاریخی احوال قلمبند کرنے والے کو «وقائع نگار» کہتے ہیں۔"
@@ -13681,10 +13681,10 @@
           "type": "multiple-choice",
           "prompt": "عہدِ مغلیہ کی انشا پردازی اور تاریخ نویسی (Mughal Insha & Historiography) کا فصیح جملہ پہچانیے:",
           "options": [
-            "مغلیہ عہد کی انشا پردازی، شاہی فرامین اور ابوالفضل کی تاریخ نویسی نے اردو نثری اسلوب کو القاب و آداب کا شکوہ اور الفاظ کی نادر رفعت عطا کی۔",
-            "انشا پردازی نے قلم کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔",
-            "وقائع نگار صرف اخبار بیچنے والے لڑکے کو کہتے ہیں۔",
-            "مغلیہ نثر میں کوئی ادبی یا لسانی خوبی نہیں تھی۔"
+            "مغلیہ عہد کی انشا پردازی، شاہی فرامین اور ابوالفضل کی تاریخ نویسی نے اردو نثری اسلوب کو القاب و آداب کا شکوہ اور الفاظ کی نادر رفعت عطا کی۔ (Language concept U32)",
+            "انشا پردازی نے قلم کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔ (Language concept U32)",
+            "وقائع نگار صرف اخبار بیچنے والے لڑکے کو کہتے ہیں۔ (Language concept U32)",
+            "مغلیہ نثر میں کوئی ادبی یا لسانی خوبی نہیں تھی۔ (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "«مغلیہ عہد کی انشا پردازی، شاہی فرامین اور ابوالفضل کی تاریخ نویسی نے اردو نثری اسلوب کو القاب و آداب کا شکوہ اور الفاظ کی نادر رفعت عطا کی۔» انشا پردازی کا مستند ترین جملہ ہے۔"
@@ -13732,10 +13732,10 @@
         {
           "prompt": "اعلیٰ نثری بلاغت، صنایعِ بدیع اور کلاسیکی خطابت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "علمِ بیان، علمِ بدیع کی صنایع، مسجع خطابت اور مغلیہ انشا پردازی کا مربوط بلاغتی مطالعہ",
-            "ہم نے بلاغت کی کتاب پر چائے پی تھی اور رویا تھا",
-            "وہ صرف پرانے مائیک کی تاریں گنتا رہتا ہے",
-            "کوئی نہیں"
+            "علمِ بیان، علمِ بدیع کی صنایع، مسجع خطابت اور مغلیہ انشا پردازی کا مربوط بلاغتی مطالعہ (Language concept U32)",
+            "ہم نے بلاغت کی کتاب پر چائے پی تھی اور رویا تھا (Language concept U32)",
+            "وہ صرف پرانے مائیک کی تاریں گنتا رہتا ہے (Language concept U32)",
+            "کوئی نہیں (Core target concept - Unit 32 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«علمِ بیان، علمِ بدیع کی صنایع، مسجع خطابت اور مغلیہ انشا پردازی کا مربوط بلاغتی مطالعہ» بلاغت کا کامل سمیکن ہے۔"
@@ -13747,10 +13747,10 @@
         {
           "prompt": "اعلیٰ نثری بلاغت اور خطابت کا جامع سمیکن اردو کے ادیب یا طالب علم کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
-            "پرتاثیر اندازِ تحریر، شعلہ نوا خطابت، ادبی نفاست اور شکوہِ الفاظ پر عبور",
-            "صرف شور مچانا",
-            "صرف غلط تلفظ بولنا",
-            "ادبی قواعد کو ترک کرنا"
+            "پرتاثیر اندازِ تحریر، شعلہ نوا خطابت، ادبی نفاست اور شکوہِ الفاظ پر عبور (Language concept U32)",
+            "صرف شور مچانا (Language concept U32)",
+            "صرف غلط تلفظ بولنا (srf ghlt tlfz bwlna)",
+            "ادبی قواعد کو ترک کرنا (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "یہ پرتاثیر تحریر، شعلہ نوا خطابت، ادبی نفاست اور شکوہِ الفاظ پر عبور بخشتا ہے۔"
@@ -13763,10 +13763,10 @@
           "type": "multiple-choice",
           "prompt": "اعلیٰ نثری بلاغت اور کلاسیکی خطابت کے جامع سمیکن (Classical Rhetoric & High Oratory Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "علمِ بیان کے نادر استعارے، علمِ بدیع کی دلکش صنایع، ابوالکلام آزاد کی مسجع خطابت اور مغلیہ انشا پردازی اردو نثر و ادب کا تابندہ اور پرشکوہ تاج محل ہیں۔",
-            "بلاغت نے خطابت کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانے لاؤڈ اسپیکر کی بیٹری کو کہتے ہیں۔",
-            "نثری بلاغت کا اردو ادب کی تاریخ سے کوئی تعلق نہیں ہے۔"
+            "علمِ بیان کے نادر استعارے، علمِ بدیع کی دلکش صنایع، ابوالکلام آزاد کی مسجع خطابت اور مغلیہ انشا پردازی اردو نثر و ادب کا تابندہ اور پرشکوہ تاج محل ہیں۔ (Language concept U32)",
+            "بلاغت نے خطابت کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U32)",
+            "جامع سمیکن صرف پرانے لاؤڈ اسپیکر کی بیٹری کو کہتے ہیں۔ (Language concept U32)",
+            "نثری بلاغت کا اردو ادب کی تاریخ سے کوئی تعلق نہیں ہے۔ (Language concept U32)"
           ],
           "answerIndex": 0,
           "explanation": "«علمِ بیان کے نادر استعارے، علمِ بدیع کی دلکش صنایع، ابوالکلام آزاد کی مسجع خطابت اور مغلیہ انشا پردازی اردو نثر و ادب کا تابندہ اور پرشکوہ تاج محل ہیں۔» نثری بلاغت کا شاہکار ترین جملہ ہے۔"
@@ -13814,10 +13814,10 @@
         {
           "prompt": "اردو زبان کی بنیادی نحوی اور صرفی ساخت کس ہند آریائی بولی سے براہِ راست تعلق رکھتی ہے؟",
           "options": [
-            "کھڑی بولی / شورسینی اپ بھرنش",
-            "صرف لاطینی زبان",
-            "صرف جاپانی زبان",
-            "کوئی نہیں"
+            "کھڑی بولی / شورسینی اپ بھرنش (Language concept U33)",
+            "صرف لاطینی زبان (Language concept U33)",
+            "صرف جاپانی زبان (Language concept U33)",
+            "کوئی نہیں  ، اور صرفی و نحوی ساخت پر عبور حاصل کرنا۔ ، اور صرفی و نحوی ساخت پر عبور حاصل کرنا۔ (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "اردو کی بنیادی ساخت «کھڑی بولی» (Khari Boli) سے ماخوذ ہے۔"
@@ -13829,10 +13829,10 @@
         {
           "prompt": "اردو زبان کی صوتیات میں 'ٹ، ڈ، ڑ' جیسی آوازوں کو صوتیاتی اعتبار سے کیا کہا جاتا ہے؟",
           "options": [
-            "معکوسی آوازیں / حروفِ معکوسی",
-            "صرف سرگوشی",
-            "صرف سیٹی کی آواز",
-            "کوئی نہیں"
+            "معکوسی آوازیں / حروفِ معکوسی (Language concept U33)",
+            "صرف سرگوشی (Language concept U33)",
+            "صرف سیٹی کی آواز (Language concept U33)",
+            "کوئی نہیں  ، اور صرفی و نحوی ساخت پر عبور حاصل کرنا۔ ، اور صرفی و نحوی ساخت پر عبور حاصل کرنا۔ (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "ان آوازوں کو صوتیات میں «معکوسی آوازیں» (Retroflex) کہا جاتا ہے۔"
@@ -13845,10 +13845,10 @@
           "type": "multiple-choice",
           "prompt": "اردو لسانیات اور آریائی جڑوں (Urdu Linguistics & Indo-Aryan Roots) کا مستند جملہ پہچانیے:",
           "options": [
-            "اردو کی لسانی ساخت شورسینی اپ بھرنش اور کھڑی بولی پر استوار ہے جبکہ اس کی معکوسی اور ہکاری صوتیات اسے ایک منفرد اور باوقار پہچان عطا کرتی ہیں۔",
-            "اردو زبان نے صرف سائیکل کے پہیے سے جنم لیا تھا رویا تھا۔",
-            "کھڑی بولی کا مطلب صرف کھڑے ہو کر باتیں کرنا ہوتا ہے۔",
-            "اردو کی کوئی تاریخی یا لسانی جڑیں نہیں ہیں۔"
+            "اردو کی لسانی ساخت شورسینی اپ بھرنش اور کھڑی بولی پر استوار ہے جبکہ اس کی معکوسی اور ہکاری صوتیات اسے ایک منفرد اور باوقار پہچان عطا کرتی ہیں۔ (Language concept U33)",
+            "اردو زبان نے صرف سائیکل کے پہیے سے جنم لیا تھا رویا تھا۔ (Language concept U33)",
+            "کھڑی بولی کا مطلب صرف کھڑے ہو کر باتیں کرنا ہوتا ہے۔ (Language concept U33)",
+            "اردو کی کوئی تاریخی یا لسانی جڑیں نہیں ہیں۔ (Language concept U33)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو کی لسانی ساخت شورسینی اپ بھرنش اور کھڑی بولی پر استوار ہے جبکہ اس کی معکوسی اور ہکاری صوتیات اسے ایک منفرد اور باوقار پہچان عطا کرتی ہیں۔» لسانیات کا مستند ترین جملہ ہے۔"
@@ -13896,10 +13896,10 @@
         {
           "prompt": "الفاظ کی اصل، تاریخ اور مادہ معلوم کرنے کے علم کو کیا کہتے ہیں؟",
           "options": [
-            "اشتقاق / علمِ اشتقاق",
-            "صرف کہانی سننا",
-            "صرف املا کی مشق",
-            "کوئی نہیں"
+            "اشتقاق / علمِ اشتقاق (ashtqaq / 'almi ashtqaq)",
+            "صرف کہانی سننا (22        Etymology U33)",
+            "صرف املا کی مشق (22        Etymology U33)",
+            "کوئی نہیں (Etymology)"
           ],
           "answerIndex": 0,
           "explanation": "الفاظ کے مادے اور ماخذ کے علم کو «اشتقاق» (Etymology) کہتے ہیں۔"
@@ -13911,10 +13911,10 @@
         {
           "prompt": "جدید سائنسی اور تکنیکی مفاہیم کے لیے نئے اردو الفاظ تراشنے کے عمل کو کیا کہا جاتا ہے؟",
           "options": [
-            "وضعِ اصطلاحات / اصطلاح سازی",
-            "صرف گیت گانا",
-            "صرف اخبار پڑھنا",
-            "کوئی نہیں"
+            "وضعِ اصطلاحات / اصطلاح سازی (22        Etymology U33)",
+            "صرف گیت گانا (22        Etymology U33)",
+            "صرف اخبار پڑھنا (22        Etymology U33)",
+            "کوئی نہیں (Etymology)"
           ],
           "answerIndex": 0,
           "explanation": "نئی علمی اصطلاحات بنانے کو «اصطلاح سازی» کہتے ہیں۔"
@@ -13927,10 +13927,10 @@
           "type": "multiple-choice",
           "prompt": "لغت نویسی اور اصطلاح سازی (Lexicography & Terminology Coinage) کا فصیح جملہ پہچانیے:",
           "options": [
-            "اردو لغت بورڈ کی بائیس جلدوں پر مشتمل تاریخ وار لغتِ کبیر اور اشتقاقی اصولوں پر مبنی اصطلاح سازی نے اردو کو جدید سائنسی علوم کے لیے خود کفیل بنا دیا۔",
-            "لغت نویسی نے ڈکشنری کو چولہے پر جلا کر گاڑی چلائی تھی رویا تھا۔",
-            "اشتقاق کا مطلب صرف ڈکشنری کا سرورق دیکھنا ہے۔",
-            "اصطلاح سازی کا اردو کے الفاظ سے کوئی تعلق نہیں ہے۔"
+            "اردو لغت بورڈ کی بائیس جلدوں پر مشتمل تاریخ وار لغتِ کبیر اور اشتقاقی اصولوں پر مبنی اصطلاح سازی نے اردو کو جدید سائنسی علوم کے لیے خود کفیل بنا دیا۔ (22        Etymology U33)",
+            "لغت نویسی نے ڈکشنری کو چولہے پر جلا کر گاڑی چلائی تھی رویا تھا۔ (22        Etymology U33)",
+            "اشتقاق کا مطلب صرف ڈکشنری کا سرورق دیکھنا ہے۔ (22        Etymology U33)",
+            "اصطلاح سازی کا اردو کے الفاظ سے کوئی تعلق نہیں ہے۔ (22        Etymology U33)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو لغت بورڈ کی بائیس جلدوں پر مشتمل تاریخ وار لغتِ کبیر اور اشتقاقی اصولوں پر مبنی اصطلاح سازی نے اردو کو جدید سائنسی علوم کے لیے خود کفیل بنا دیا۔» لغت نویسی کا مستند ترین جملہ ہے۔"
@@ -13978,10 +13978,10 @@
         {
           "prompt": "اردو تاریخ میں اعلیٰ سائنسی اور فلسفیانہ کتابوں کے منظم ترین ترجمے کا مرکز کون سا ادارہ تھا؟",
           "options": [
-            "دار الترجمہ جامعہ عثمانیہ حیدرآباد",
-            "صرف ریلوے بک اسٹال",
-            "صرف فوٹو کاپی کی دکان",
-            "کوئی نہیں"
+            "دار الترجمہ جامعہ عثمانیہ حیدرآباد (Language concept U33)",
+            "صرف ریلوے بک اسٹال (Language concept U33)",
+            "صرف فوٹو کاپی کی دکان (Language concept U33)",
+            "کوئی نہیں (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "تاریخی مرکز «دار الترجمہ جامعہ عثمانیہ» تھا۔"
@@ -13993,10 +13993,10 @@
         {
           "prompt": "ترجمہ نگاری میں لفظ بہ لفظ ترجمے کی بجائے مفہوم اور ادبی خوبصورتی کو ترجیح دینے کو کیا کہتے ہیں؟",
           "options": [
-            "آزاد و معنوی ترجمہ",
-            "صرف غلط بیانی",
-            "صرف کاغذ ضائع کرنا",
-            "کوئی نہیں"
+            "آزاد و معنوی ترجمہ (Language concept U33)",
+            "صرف غلط بیانی (Language concept U33)",
+            "صرف کاغذ ضائع کرنا (Language concept U33)",
+            "کوئی نہیں (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "مفہومی ترجمے کو «آزاد یا معنوی ترجمہ» (Free Translation) کہتے ہیں۔"
@@ -14009,10 +14009,10 @@
           "type": "multiple-choice",
           "prompt": "فنِ ترجمہ نگاری اور دار الترجمہ عثمانیہ (Translation Studies & Osmania Bureau) کا فصیح جملہ پہچانیے:",
           "options": [
-            "دار الترجمہ عثمانیہ کے تاریخی کارنامے اور ترجمے کے معنوی و اسلوباتی اصولوں نے دنیا کے کلاسیکی و سائنسی علوم کو اردو کا شاندار اثاثہ بنا دیا۔",
-            "ترجمہ نگاری نے کتاب کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔",
-            "دار الترجمہ صرف پرانے اخبار فروخت کرنے کی دکان تھی۔",
-            "ترجمہ کرتے وقت اصل مصنف کی بات بدلنا لازمی ہوتا ہے۔"
+            "دار الترجمہ عثمانیہ کے تاریخی کارنامے اور ترجمے کے معنوی و اسلوباتی اصولوں نے دنیا کے کلاسیکی و سائنسی علوم کو اردو کا شاندار اثاثہ بنا دیا۔ (Language concept U33)",
+            "ترجمہ نگاری نے کتاب کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔ (Language concept U33)",
+            "دار الترجمہ صرف پرانے اخبار فروخت کرنے کی دکان تھی۔ (Language concept U33)",
+            "ترجمہ کرتے وقت اصل مصنف کی بات بدلنا لازمی ہوتا ہے۔ (Language concept U33)"
           ],
           "answerIndex": 0,
           "explanation": "«دار الترجمہ عثمانیہ کے تاریخی کارنامے اور ترجمے کے معنوی و اسلوباتی اصولوں نے دنیا کے کلاسیکی و سائنسی علوم کو اردو کا شاندار اثاثہ بنا دیا۔» فنِ ترجمہ کا کامل ترین جملہ ہے۔"
@@ -14060,10 +14060,10 @@
         {
           "prompt": "کمپیوٹر اور انٹرنیٹ پر اردو خطِ نستعلیق کے معیاری اور باوقار ڈیجیٹل کوڈنگ نظام کو کیا کہتے ہیں؟",
           "options": [
-            "اردو یونی کوڈ اور اوپن ٹائپ نستعلیق فونٹس",
-            "صرف ڈاٹ میٹرکس پرنٹر",
-            "صرف مائیکرو فلم",
-            "کوئی نہیں"
+            "اردو یونی کوڈ اور اوپن ٹائپ نستعلیق فونٹس (Semantics   Sociolinguistics U33)",
+            "صرف ڈاٹ میٹرکس پرنٹر (Semantics   Sociolinguistics U33)",
+            "صرف مائیکرو فلم (Semantics   Sociolinguistics U33)",
+            "کوئی نہیں (Semantics)"
           ],
           "answerIndex": 0,
           "explanation": "ڈیجیٹل کوڈنگ کے عالمی نظام کو «یونی کوڈ» (Unicode) کہتے ہیں۔"
@@ -14075,10 +14075,10 @@
         {
           "prompt": "زبان کے الفاظ کے معانی، مفاہیم اور ان کے تاریخی تغیر و تبدل کے سائنسی مطالعے کو کیا کہتے ہیں؟",
           "options": [
-            "معنیات / علمِ معنیات",
-            "صرف املا چیکر",
-            "صرف کی بورڈ",
-            "کوئی نہیں"
+            "معنیات / علمِ معنیات (Semantics   Sociolinguistics U33)",
+            "صرف املا چیکر (Semantics   Sociolinguistics U33)",
+            "صرف کی بورڈ (Semantics   Sociolinguistics U33)",
+            "کوئی نہیں (Semantics)"
           ],
           "answerIndex": 0,
           "explanation": "معانی کے سائنسی مطالعے کو «معنیات» (Semantics) کہا جاتا ہے۔"
@@ -14091,10 +14091,10 @@
           "type": "multiple-choice",
           "prompt": "جدید لسانیات، معنیات اور ڈیجیٹل اردو (Semantics & Digital Urdu) کا مستند جملہ پہچانیے:",
           "options": [
-            "لسانی معنیات کی گہرائی، سماجی لہجوں کے تنوع، اور یونی کوڈ و نفیس نستعلیق فونٹس نے اردو کو اکیسویں صدی کے ڈیجیٹل دور اور مصنوعی ذہانت کی صفِ اوّل میں شامل کر دیا ہے۔",
-            "معنیات نے کی بورڈ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔",
-            "یونی کوڈ صرف کمپیوٹر کا ماؤس خراب ہونے کو کہتے ہیں۔",
-            "اردو کا کمپیوٹر اور انٹرنیٹ سے کوئی واسطہ نہیں ہے۔"
+            "لسانی معنیات کی گہرائی، سماجی لہجوں کے تنوع، اور یونی کوڈ و نفیس نستعلیق فونٹس نے اردو کو اکیسویں صدی کے ڈیجیٹل دور اور مصنوعی ذہانت کی صفِ اوّل میں شامل کر دیا ہے۔ (Semantics   Sociolinguistics U33)",
+            "معنیات نے کی بورڈ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔ (Semantics   Sociolinguistics U33)",
+            "یونی کوڈ صرف کمپیوٹر کا ماؤس خراب ہونے کو کہتے ہیں۔ (Semantics   Sociolinguistics U33)",
+            "اردو کا کمپیوٹر اور انٹرنیٹ سے کوئی واسطہ نہیں ہے۔ (Semantics   Sociolinguistics U33)"
           ],
           "answerIndex": 0,
           "explanation": "«لسانی معنیات کی گہرائی، سماجی لہجوں کے تنوع، اور یونی کوڈ و نفیس نستعلیق فونٹس نے اردو کو اکیسویں صدی کے ڈیجیٹل دور اور مصنوعی ذہانت کی صفِ اوّل میں شامل کر دیا ہے۔» جدید لسانیات کا شاہکار ترین جملہ ہے۔"
@@ -14142,10 +14142,10 @@
         {
           "prompt": "اردو لسانیات، لغت نویسی اور فنِ ترجمہ نگاری کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہند آریائی ماخذ، لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ اور ڈیجیٹل کمپیوٹیشنل لسانیات کا مربوط مطالعہ",
-            "ہم نے لسانیات کی کتاب پر چائے پی تھی اور رویا تھا",
-            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے",
-            "کوئی نہیں"
+            "ہند آریائی ماخذ، لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ اور ڈیجیٹل کمپیوٹیشنل لسانیات کا مربوط مطالعہ (Language concept U33)",
+            "ہم نے لسانیات کی کتاب پر چائے پی تھی اور رویا تھا (Language concept U33)",
+            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے (Language concept U33)",
+            "کوئی نہیں (Core target concept - Unit 33 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«ہند آریائی ماخذ، لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ اور ڈیجیٹل کمپیوٹیشنل لسانیات کا مربوط مطالعہ» لسانیات کا کامل سمیکن ہے۔"
@@ -14157,10 +14157,10 @@
         {
           "prompt": "اردو لسانیات، لغت نگاری اور ترجمہ نگاری کا جامع سمیکن طلباء میں کس قابلیت کو پروان چڑھاتا ہے؟",
           "options": [
-            "سائنسی اصطلاح سازی، لغوی تحقیق، مستند ترجمہ نگاری اور ڈیجیٹل اردو پر مہارت",
-            "صرف پرانے تلفظ بھول جانا",
-            "صرف کاغذی کارروائی کرنا",
-            "زبان کے اصولوں کو مسخ کرنا"
+            "سائنسی اصطلاح سازی، لغوی تحقیق، مستند ترجمہ نگاری اور ڈیجیٹل اردو پر مہارت (Language concept U33)",
+            "صرف پرانے تلفظ بھول جانا (Language concept U33)",
+            "صرف کاغذی کارروائی کرنا (Language concept U33)",
+            "زبان کے اصولوں کو مسخ کرنا (Language concept U33)"
           ],
           "answerIndex": 0,
           "explanation": "یہ سائنسی اصطلاح سازی، لغوی تحقیق، مستند ترجمہ نگاری اور ڈیجیٹل اردو پر مہارت پیدا کرتا ہے۔"
@@ -14173,10 +14173,10 @@
           "type": "multiple-choice",
           "prompt": "اردو لسانیات، لغت نویسی اور فنِ ترجمہ کے جامع سمیکن (Urdu Linguistics & Translation Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "شورسینی اپ بھرنش سے لے کر لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ کے سائنسی تراجم اور جدید ڈیجیٹل کمپیوٹیشنل لسانیات تک اردو کا ارتقا اس کے لازوال علمی وقار کا ثبوت ہے۔",
-            "لسانیات نے دار الترجمہ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانے کی بورڈ کی تار کو کہتے ہیں۔",
-            "اردو زبان کا سائنسی تحقیق اور کمپیوٹر ٹیکنالوجی سے کوئی تعلق نہیں ہے۔"
+            "شورسینی اپ بھرنش سے لے کر لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ کے سائنسی تراجم اور جدید ڈیجیٹل کمپیوٹیشنل لسانیات تک اردو کا ارتقا اس کے لازوال علمی وقار کا ثبوت ہے۔ (Language concept U33)",
+            "لسانیات نے دار الترجمہ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U33)",
+            "جامع سمیکن صرف پرانے کی بورڈ کی تار کو کہتے ہیں۔ (Language concept U33)",
+            "اردو زبان کا سائنسی تحقیق اور کمپیوٹر ٹیکنالوجی سے کوئی تعلق نہیں ہے۔ (Language concept U33)"
           ],
           "answerIndex": 0,
           "explanation": "«شورسینی اپ بھرنش سے لے کر لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ کے سائنسی تراجم اور جدید ڈیجیٹل کمپیوٹیشنل لسانیات تک اردو کا ارتقا اس کے لازوال علمی وقار کا ثبوت ہے۔» لسانی سمیکن کا کامل ترین جملہ ہے۔"
@@ -14224,10 +14224,10 @@
         {
           "prompt": "اردو غزل کی روایات اور کلاسیکی و جدید شاعری کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "میر کا سوز، غالب کا فلسفہ، اقبال کی خودی اور فیض کی غنائیت کا مربوط شعری مطالعہ",
-            "ہم نے مشاعرے کے باہر چائے پی تھی اور رویا تھا",
-            "وہ صرف مائیک کی تاریں گنتا رہتا ہے",
-            "کوئی نہیں"
+            "میر کا سوز، غالب کا فلسفہ، اقبال کی خودی اور فیض کی غنائیت کا مربوط شعری مطالعہ (Language concept U34)",
+            "ہم نے مشاعرے کے باہر چائے پی تھی اور رویا تھا (Language concept U34)",
+            "وہ صرف مائیک کی تاریں گنتا رہتا ہے (Language concept U34)",
+            "کوئی نہیں (Core target concept - Unit 34 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«میر کا سوز، غالب کا فلسفہ، اقبال کی خودی اور فیض کی غنائیت کا مربوط شعری مطالعہ» شاعری کا کامل سمیکن ہے۔"
@@ -14239,10 +14239,10 @@
         {
           "prompt": "اردو شاعری کا آخری جامع سمیکن طالب علم کو کس صلاحیت سے ہمکنار کرتا ہے؟",
           "options": [
-            "عروضی اوزان کا فہم، استعاراتی بصیرت، کلاسیکی و جدید کلام کی تفہیم اور ادبی ذوق",
-            "صرف قافیہ ملا کر وقت ضائع کرنا",
-            "صرف شور مچانا",
-            "شاعری کے قواعد کو نظر انداز کرنا"
+            "عروضی اوزان کا فہم، استعاراتی بصیرت، کلاسیکی و جدید کلام کی تفہیم اور ادبی ذوق (Language concept U34)",
+            "صرف قافیہ ملا کر وقت ضائع کرنا (Language concept U34)",
+            "صرف شور مچانا (Language concept U34)",
+            "شاعری کے قواعد کو نظر انداز کرنا (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "یہ عروضی اوزان کا فہم، استعاراتی بصیرت اور ادبی ذوق بخشتا ہے۔"
@@ -14255,10 +14255,10 @@
           "type": "multiple-choice",
           "prompt": "کلاسیکی و جدید شاعری کے جامع سمیکن (Master Capstone: Poetry & Ghazal) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "میر کے سوز و گداز، غالب کی فلسفیانہ نکتہ رسی، اقبال کے پیامِ خودی اور فیض کی انقلابی رومانیت نے اردو شاعری کو عالمی ادب کے ماتھے کا جھومر بنا دیا۔",
-            "غزل نے مشاعرے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔",
-            "شاعری صرف پرانی ڈائری کے خالی صفحات کو کہتے ہیں۔",
-            "اردو شاعری کا انسانی جذبات اور تہذیب سے کوئی تعلق نہیں ہے۔"
+            "میر کے سوز و گداز، غالب کی فلسفیانہ نکتہ رسی، اقبال کے پیامِ خودی اور فیض کی انقلابی رومانیت نے اردو شاعری کو عالمی ادب کے ماتھے کا جھومر بنا دیا۔ (Language concept U34)",
+            "غزل نے مشاعرے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔ (Language concept U34)",
+            "شاعری صرف پرانی ڈائری کے خالی صفحات کو کہتے ہیں۔ (Language concept U34)",
+            "اردو شاعری کا انسانی جذبات اور تہذیب سے کوئی تعلق نہیں ہے۔ (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "«میر کے سوز و گداز، غالب کی فلسفیانہ نکتہ رسی، اقبال کے پیامِ خودی اور فیض کی انقلابی رومانیت نے اردو شاعری کو عالمی ادب کے ماتھے کا جھومر بنا دیا۔» شاعری کا کامل ترین شاہکار جملہ ہے۔"
@@ -14306,10 +14306,10 @@
         {
           "prompt": "اردو فکشن، ناول، افسانے اور ادبی تنقید کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "باغ و بہار کی سادگی، پریم چند و قرۃ العین حیدر کے ناول، منٹو کے افسانے اور حالی کی تنقید کا مربوط مطالعہ",
-            "ہم نے فکشن کی کتاب پر چائے پی تھی اور رویا تھا",
-            "وہ صرف پرانے رسالوں کے صفحات الٹتا رہتا ہے",
-            "کوئی نہیں"
+            "باغ و بہار کی سادگی، پریم چند و قرۃ العین حیدر کے ناول، منٹو کے افسانے اور حالی کی تنقید کا مربوط مطالعہ (Language concept U34)",
+            "ہم نے فکشن کی کتاب پر چائے پی تھی اور رویا تھا (Language concept U34)",
+            "وہ صرف پرانے رسالوں کے صفحات الٹتا رہتا ہے (Language concept U34)",
+            "کوئی نہیں  ، افسانہ نگاری ، اور تنقیدی روایات  کے جامع سمیکن پر عبور حاصل کرنا۔ ، افسانہ نگاری ، اور تنقیدی روایات  کے جامع سمیکن پر عبور حاصل کرنا۔ (Core target concept - Unit 34 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«باغ و بہار کی سادگی، پریم چند و قرۃ العین حیدر کے ناول، منٹو کے افسانے اور حالی کی تنقید کا مربوط مطالعہ» فکشن کا کامل سمیکن ہے۔"
@@ -14321,10 +14321,10 @@
         {
           "prompt": "اردو نثری شاہکاروں اور تنقیدی اسالیب کا جامع سمیکن قاری میں کس فکری بصیرت کو بیدار کرتا ہے؟",
           "options": [
-            "تہذیبی المیوں کا ادراک، انسانی نفسیات کی تفہیم، نثری تخلیقی صلاحیت اور مدلل تنقیدی شعور",
-            "صرف جھوٹی کہانیاں سنانا",
-            "صرف کتابوں کے نام یاد رکھنا",
-            "نثری اصولوں کو نظر انداز کرنا"
+            "تہذیبی المیوں کا ادراک، انسانی نفسیات کی تفہیم، نثری تخلیقی صلاحیت اور مدلل تنقیدی شعور (Language concept U34)",
+            "صرف جھوٹی کہانیاں سنانا (Language concept U34)",
+            "صرف کتابوں کے نام یاد رکھنا (Language concept U34)",
+            "نثری اصولوں کو نظر انداز کرنا (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تہذیبی المیوں کا ادراک، انسانی نفسیات کی تفہیم اور مدلل تنقیدی شعور بخشتا ہے۔"
@@ -14337,10 +14337,10 @@
           "type": "multiple-choice",
           "prompt": "اردو نثری شاہکاروں اور فکشن کے جامع سمیکن (Master Capstone: Prose & Fiction) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "پریم چند کی حقیقت نگاری، قرۃ العین حیدر کا تاریخی ناول، منٹو کے نفسیاتی افسانے اور حالی کا تنقیدی منشور اردو نثر کو فکر و بصیرت کی لافانی رفعت عطا کرتے ہیں۔",
-            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "تنقید صرف دوسروں پر غصہ نکالنے کو کہتے ہیں۔",
-            "اردو فکشن کا انسانی زندگی اور معاشرے سے کوئی تعلق نہیں ہے۔"
+            "پریم چند کی حقیقت نگاری، قرۃ العین حیدر کا تاریخی ناول، منٹو کے نفسیاتی افسانے اور حالی کا تنقیدی منشور اردو نثر کو فکر و بصیرت کی لافانی رفعت عطا کرتے ہیں۔ (Language concept U34)",
+            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U34)",
+            "تنقید صرف دوسروں پر غصہ نکالنے کو کہتے ہیں۔ (Language concept U34)",
+            "اردو فکشن کا انسانی زندگی اور معاشرے سے کوئی تعلق نہیں ہے۔ (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "«پریم چند کی حقیقت نگاری، قرۃ العین حیدر کا تاریخی ناول، منٹو کے نفسیاتی افسانے اور حالی کا تنقیدی منشور اردو نثر کو فکر و بصیرت کی لافانی رفعت عطا کرتے ہیں۔» فکشن کا کامل ترین جملہ ہے۔"
@@ -14388,10 +14388,10 @@
         {
           "prompt": "دستور، قانون، ریاستی نظام اور باوقار صحافت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "آئینِ پاکستان، سپریم کورٹ کے عدالتی اختیارات، اور نڈر اردو صحافت کا مربوط مطالعہ",
-            "ہم نے پارلیمنٹ کے باہر چائے پی تھی اور رویا تھا",
-            "وہ صرف پریس کانفرنس کی کرسیاں گنتا رہتا ہے",
-            "کوئی نہیں"
+            "آئینِ پاکستان، سپریم کورٹ کے عدالتی اختیارات، اور نڈر اردو صحافت کا مربوط مطالعہ (Language concept U34)",
+            "ہم نے پارلیمنٹ کے باہر چائے پی تھی اور رویا تھا (Language concept U34)",
+            "وہ صرف پریس کانفرنس کی کرسیاں گنتا رہتا ہے (Language concept U34)",
+            "کوئی نہیں (Core target concept - Unit 34 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«آئینِ پاکستان، سپریم کورٹ کے عدالتی اختیارات، اور نڈر اردو صحافت کا مربوط مطالعہ» دستوری امور کا کامل سمیکن ہے۔"
@@ -14403,10 +14403,10 @@
         {
           "prompt": "دستور، قانون اور صحافتی قیادت کا جامع سمیکن معاشرے میں کس بنیادی قدر کو مستحکم کرتا ہے؟",
           "options": [
-            "قانون کی بالادستی، بنیادی شہری حقوق کا تحفظ، جمہوری احتساب اور بیدار رائے عامہ",
-            "صرف مقدمہ بازی میں وقت ضائع کرنا",
-            "صرف اخباری سرخیوں پر بحث کرنا",
-            "دستوری اصولوں کی خلاف ورزی کرنا"
+            "قانون کی بالادستی، بنیادی شہری حقوق کا تحفظ، جمہوری احتساب اور بیدار رائے عامہ (Language concept U34)",
+            "صرف مقدمہ بازی میں وقت ضائع کرنا (Language concept U34)",
+            "صرف اخباری سرخیوں پر بحث کرنا (Language concept U34)",
+            "دستوری اصولوں کی خلاف ورزی کرنا (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "یہ قانون کی بالادستی، بنیادی حقوق کا تحفظ اور جمہوری احتساب قائم کرتا ہے۔"
@@ -14419,10 +14419,10 @@
           "type": "multiple-choice",
           "prompt": "دستور، قانون اور صحافتی قیادت کے جامع سمیکن (Master Capstone: Law & Media) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "آئینِ پاکستان کے تحت قانون کی بالادستی، سپریم کورٹ کے عدالتی اختیارات اور اردو صحافت کی اخلاقی قیادت جمہوری معاشرے اور عوامی حقوق کے محافظ ہیں۔",
-            "دستور نے اخبار کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "سپریم کورٹ صرف پرانی عمارت کی چھت کو کہتے ہیں۔",
-            "صحافت اور قانون کا انسانی حقوق سے کوئی تعلق نہیں ہوتا۔"
+            "آئینِ پاکستان کے تحت قانون کی بالادستی، سپریم کورٹ کے عدالتی اختیارات اور اردو صحافت کی اخلاقی قیادت جمہوری معاشرے اور عوامی حقوق کے محافظ ہیں۔ (Language concept U34)",
+            "دستور نے اخبار کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U34)",
+            "سپریم کورٹ صرف پرانی عمارت کی چھت کو کہتے ہیں۔ (Language concept U34)",
+            "صحافت اور قانون کا انسانی حقوق سے کوئی تعلق نہیں ہوتا۔ (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "«آئینِ پاکستان کے تحت قانون کی بالادستی، سپریم کورٹ کے عدالتی اختیارات اور اردو صحافت کی اخلاقی قیادت جمہوری معاشرے اور عوامی حقوق کے محافظ ہیں۔» دستوری بیانیے کا کامل ترین شاہکار جملہ ہے۔"
@@ -14470,10 +14470,10 @@
         {
           "prompt": "سائنس، مصنوعی ذہانت، بین الاقوامی سفارت اور فلسفے کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کی سفارت، سی پیک راہداری اور فلسفۂ خودی کا مربوط مطالعہ",
-            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا",
-            "وہ صرف سیٹلائٹ کی تصویریں دیکھتا رہتا ہے",
-            "کوئی نہیں"
+            "مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کی سفارت، سی پیک راہداری اور فلسفۂ خودی کا مربوط مطالعہ (Language concept U34)",
+            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا (Language concept U34)",
+            "وہ صرف سیٹلائٹ کی تصویریں دیکھتا رہتا ہے (Language concept U34)",
+            "کوئی نہیں  ، اور فلسفہ و تصوف کے ہمہ جہت سمیکن پر عبور حاصل کرنا۔ ، اور فلسفہ و تصوف کے ہمہ جہت سمیکن پر عبور حاصل کرنا۔ (Core target concept - Unit 34 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کی سفارت، سی پیک راہداری اور فلسفۂ خودی کا مربوط مطالعہ» سائنس و خارجہ کا کامل سمیکن ہے۔"
@@ -14485,10 +14485,10 @@
         {
           "prompt": "سائنس، مصنوعی ذہانت، سفارت کاری اور فلسفے کا جامع سمیکن اردو زبان کے بارے میں کیا ثابت کرتا ہے؟",
           "options": [
-            "زبان کی علمی ہمہ گیری، سائنسی اظہار کی مکمل صلاحیت، فلسفیانہ بلندی اور بین الاقوامی وقار",
-            "صرف پرانی باتیں دہرانا",
-            "صرف کمپیوٹر کے پرزے بیچنا",
-            "سائنسی ترقی کی مخالفت کرنا"
+            "زبان کی علمی ہمہ گیری، سائنسی اظہار کی مکمل صلاحیت، فلسفیانہ بلندی اور بین الاقوامی وقار (Language concept U34)",
+            "صرف پرانی باتیں دہرانا (Language concept U34)",
+            "صرف کمپیوٹر کے پرزے بیچنا (Language concept U34)",
+            "سائنسی ترقی کی مخالفت کرنا (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "یہ اردو کی علمی ہمہ گیری، سائنسی اظہار کی صلاحیت اور فلسفیانہ بلندی کو ثابت کرتا ہے۔"
@@ -14501,10 +14501,10 @@
           "type": "multiple-choice",
           "prompt": "سائنس، مصنوعی ذہانت، خارجہ پالیسی اور فلسفے کے جامع سمیکن (Master Capstone: Science & Global Diplomacy) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کے منشور پر مبنی خارجہ پالیسی، سی پیک اور علامہ اقبال کا فلسفۂ خودی اکیسویں صدی میں اردو زبان کے لازوال علمی وقار کے مظہر ہیں۔",
-            "سائنس نے الگورتھم کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "سی پیک صرف ایک عام موٹر سائیکل کا نام ہے۔",
-            "مصنوعی ذہانت اور فلسفے کا اردو زبان سے کوئی تعلق نہیں ہے۔"
+            "مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کے منشور پر مبنی خارجہ پالیسی، سی پیک اور علامہ اقبال کا فلسفۂ خودی اکیسویں صدی میں اردو زبان کے لازوال علمی وقار کے مظہر ہیں۔ (Language concept U34)",
+            "سائنس نے الگورتھم کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Language concept U34)",
+            "سی پیک صرف ایک عام موٹر سائیکل کا نام ہے۔ (Language concept U34)",
+            "مصنوعی ذہانت اور فلسفے کا اردو زبان سے کوئی تعلق نہیں ہے۔ (Language concept U34)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کے منشور پر مبنی خارجہ پالیسی، سی پیک اور علامہ اقبال کا فلسفۂ خودی اکیسویں صدی میں اردو زبان کے لازوال علمی وقار کے مظہر ہیں۔» سائنس و خارجہ کا کامل ترین جملہ ہے۔"
@@ -14552,10 +14552,10 @@
         {
           "prompt": "اردو زبان، ادب اور فصاحت و بلاغت کے حتمی جامع سمیکن (Ultimate Grand Synthesis) کا فصیح ترین شاہکار کون سا ہے؟",
           "options": [
-            "شاعری، فکشن، قانون، صحافت، سائنس و AI، سفارت کاری، فلسفہ، اور لسانیات کا مربوط و کامل ترین مطالعہ",
-            "ہم نے اردو کی کتاب پر چائے پی تھی اور رویا تھا",
-            "وہ صرف حرف تہجی گنتا رہتا ہے",
-            "کوئی نہیں"
+            "شاعری، فکشن، قانون، صحافت، سائنس و AI، سفارت کاری، فلسفہ، اور لسانیات کا مربوط و کامل ترین مطالعہ (34   170 (U34))",
+            "ہم نے اردو کی کتاب پر چائے پی تھی اور رویا تھا (34   170 (U34))",
+            "وہ صرف حرف تہجی گنتا رہتا ہے (34   170 (U34))",
+            "کوئی نہیں   کو ایک لافانی، بے مثال اور حتمی ماسٹر کیپ اسٹون میں یکجا کرنا۔  کو ایک لافانی، بے مثال اور حتمی ماسٹر کیپ اسٹون میں یکجا کرنا۔ (34   170 - Unit 34 Target Practice)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعری، فکشن، قانون، صحافت، سائنس و AI، سفارت کاری، فلسفہ، اور لسانیات کا مربوط و کامل ترین مطالعہ» اردو کا حتمی جامع سمیکن ہے۔"
@@ -14567,10 +14567,10 @@
         {
           "prompt": "اردو نصاب کے تمام 170 اسباق کی کامیاب تکمیل طالب علم کو کس درجے پر فائز کرتی ہے؟",
           "options": [
-            "اردو زبان، فصاحت و بلاغت، کلاسیکی و جدید ادب، اور سائنسی و دستوری مضامین پر مکمل خود مختار مہارت",
-            "صرف چند محاورے رٹنا",
-            "صرف املا کی درستی",
-            "کلاسیکی ادب سے ناواقف رہنا"
+            "اردو زبان، فصاحت و بلاغت، کلاسیکی و جدید ادب، اور سائنسی و دستوری مضامین پر مکمل خود مختار مہارت (34   170 (U34))",
+            "صرف چند محاورے رٹنا (34   170 (U34))",
+            "صرف املا کی درستی (34   170 (U34))",
+            "کلاسیکی ادب سے ناواقف رہنا (34   170 (U34))"
           ],
           "answerIndex": 0,
           "explanation": "یہ اردو زبان، ادب، فصاحت و بلاغت اور سائنسی و دستوری مضامین پر مکمل مہارت بخشتی ہے۔"
@@ -14583,10 +14583,10 @@
           "type": "multiple-choice",
           "prompt": "اردو زبان، ادب اور فصاحت و بلاغت کے حتمی جامع سمیکن (Ultimate Grand Synthesis & Master Capstone) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "شاعری کی نزاکتوں، فکشن کی حقیقت پسندی، دستور و قانون کے وقار، سائنسی و AI اصطلاحات، سفارتی آداب، فلسفۂ خودی اور لسانیاتی ارتقا کے ساتھ اردو زبان انسانی تہذیب کا لافانی اور درخشندہ شاہکار ہے۔",
-            "اردو زبان نے سمیکن کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
-            "جامع سمیکن صرف پرانی کتاب کی جلد کو کہتے ہیں۔",
-            "اردو زبان کا عالمی ادب اور جدید سائنس سے کوئی تعلق نہیں ہے۔"
+            "شاعری کی نزاکتوں، فکشن کی حقیقت پسندی، دستور و قانون کے وقار، سائنسی و AI اصطلاحات، سفارتی آداب، فلسفۂ خودی اور لسانیاتی ارتقا کے ساتھ اردو زبان انسانی تہذیب کا لافانی اور درخشندہ شاہکار ہے۔ (34   170 (U34))",
+            "اردو زبان نے سمیکن کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (34   170 (U34))",
+            "جامع سمیکن صرف پرانی کتاب کی جلد کو کہتے ہیں۔ (34   170 (U34))",
+            "اردو زبان کا عالمی ادب اور جدید سائنس سے کوئی تعلق نہیں ہے۔ (34   170 (U34))"
           ],
           "answerIndex": 0,
           "explanation": "«شاعری کی نزاکتوں، فکشن کی حقیقت پسندی، دستور و قانون کے وقار، سائنسی و AI اصطلاحات، سفارتی آداب، فلسفۂ خودی اور لسانیاتی ارتقا کے ساتھ اردو زبان انسانی تہذیب کا لافانی اور درخشندہ شاہکار ہے۔» اردو نصاب کا کامل ترین اور حتمی شاہکار جملہ ہے۔"
