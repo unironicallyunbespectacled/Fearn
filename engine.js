@@ -781,6 +781,12 @@
     return null;
   }
 
+  function resolveLangTag(langKey) {
+    if (!langKey) return 'en-US';
+    const cleanKey = String(langKey).replace(/^lang-/, '').toLowerCase();
+    return AUDIO_LANG_TAGS[cleanKey] || AUDIO_LANG_TAGS[langKey] || langKey || 'en-US';
+  }
+
   FEARN.audio = {
     getRate() { return currentSpeechRate; },
     setRate(r) {
@@ -788,7 +794,7 @@
       try { localStorage.setItem('fearn:audio-rate', String(currentSpeechRate)); } catch(e){}
     },
     hasVoice(langKey) {
-      const langTag = AUDIO_LANG_TAGS[langKey] || langKey || 'en-US';
+      const langTag = resolveLangTag(langKey);
       return findBestVoice(langTag) !== null;
     },
     stop() {
@@ -812,7 +818,7 @@
         // Stop any currently playing audio so new audio plays immediately
         window.speechSynthesis.cancel();
 
-        const langTag = AUDIO_LANG_TAGS[langKey] || langKey || 'en-US';
+        const langTag = resolveLangTag(langKey);
         const utter = new SpeechSynthesisUtterance(text);
         utter.lang = langTag;
         utter.rate = currentSpeechRate || 0.95;
@@ -845,18 +851,36 @@
       btn.innerHTML = '🔊';
       
       const hasMatchingVoice = FEARN.audio.hasVoice(langKey);
-      btn.title = hasMatchingVoice ? 'Listen to pronunciation' : 'Listen to pronunciation (Device synthesis)';
-      btn.style.cssText = 'background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; margin-left:8px; cursor:pointer; font-size:0.95rem; color:#fff; transition:all 0.2s;';
+      if (hasMatchingVoice) {
+        btn.title = 'Listen to pronunciation';
+        btn.setAttribute('aria-label', 'Listen to pronunciation');
+        btn.style.cssText = 'background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; margin-left:8px; cursor:pointer; font-size:0.95rem; color:#fff; transition:all 0.2s;';
+      } else {
+        btn.classList.add('fearn-speak-fallback');
+        btn.title = 'Listen to pronunciation (Device fallback — native voice not detected on this system)';
+        btn.setAttribute('aria-label', 'Listen to pronunciation (Device synthesis fallback)');
+        btn.style.cssText = 'background:rgba(245,158,11,0.08); border:1px dashed rgba(245,158,11,0.4); border-radius:6px; padding:3px 8px; margin-left:8px; cursor:pointer; font-size:0.95rem; color:#fde68a; opacity:0.9; transition:all 0.2s;';
+      }
       
       btn.onclick = function (e) {
         e.stopPropagation();
         btn.style.transform = 'scale(1.18)';
-        btn.style.borderColor = 'var(--accent-1, #10b981)';
-        btn.style.background = 'rgba(16, 185, 129, 0.25)';
+        if (hasMatchingVoice) {
+          btn.style.borderColor = 'var(--accent-1, #10b981)';
+          btn.style.background = 'rgba(16, 185, 129, 0.25)';
+        } else {
+          btn.style.borderColor = 'rgba(245, 158, 11, 0.7)';
+          btn.style.background = 'rgba(245, 158, 11, 0.25)';
+        }
         setTimeout(function () {
           btn.style.transform = '';
-          btn.style.borderColor = 'rgba(255,255,255,0.18)';
-          btn.style.background = 'rgba(255,255,255,0.08)';
+          if (hasMatchingVoice) {
+            btn.style.borderColor = 'rgba(255,255,255,0.18)';
+            btn.style.background = 'rgba(255,255,255,0.08)';
+          } else {
+            btn.style.borderColor = 'rgba(245,158,11,0.4)';
+            btn.style.background = 'rgba(245,158,11,0.08)';
+          }
         }, 350);
         FEARN.audio.speak(text, langKey);
       };
